@@ -135,7 +135,6 @@ Turkish Invasions of India | Arab Invasion of Sind (Muhammad bin Qasim) | Mahmud
 
 ### PYQ — Turkish invasions A/R
 
-
 **1. (UPPCS Prelims 2018, Q14 / also UPPCS 2024 same A/R)** Assertion (A): Turkish invasions of India were successful.
 
 **Reason (R):** There was no political unity in North India.
@@ -150,8 +149,6 @@ D. A false, R true
 
 <details>
 <summary>Show answer</summary>
-
-**A/R logic:** A tests whether Turkish conquests succeeded as lasting rule; R tests north Indian political fragmentation as the cause.
 
 **Ans: A (Both true, R explains A).**
 
@@ -233,8 +230,6 @@ D. A false, R true
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** A tests Ghori’s permanent rule model; R tests governors/garrisons after Tarain as the mechanism.
-
 **Ans: A (Both true, R explains A).**
 
 **A true:** **Ghori** left **governors**, **garrisons**, and **coinage**; **Mahmud** mostly **raided and withdrew**.
@@ -269,7 +264,6 @@ D. A false, R true
 > ** note:2025 Q95** — Khalsa + Jagir division is **true (A)**; Jagirs are **not** direct state land (**R false**) → **C**.
 
 ### PYQ — Khalsa vs Jagir
-
 
 **1. (UPPCS Prelims 2025, Q95)Assertion (A):** Sultanate territories divided into Khalsa and Jagirs.
 
@@ -377,8 +371,6 @@ D. A true, R false
 
 <details>
 <summary>Show answer</summary>
-
-**A/R logic:** A tests centralisation/autocracy; R tests Mongol frontier motive — parallel, not causal.
 
 **Ans: C (Both true, R not explanation).**
 
@@ -541,8 +533,6 @@ D. A false, R true
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** A tests Dagh/Chehra; R tests anti-fraud cash-army purpose.
-
 **Ans: A (Both true, R explains A).**
 
 **A true:** **Dagh** (horse branding) and **Chehra** (descriptive troop roll) were Alauddin’s army reforms.
@@ -578,8 +568,6 @@ D. 1-2-3-4
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Conquest order Gujarat → Ranthambor → Chittor → Warangal.
-
 **Ans: B (2-1-4-3).** Order: 2 Gujarat (**1299**) → 1 Ranthambor (**1301**) → 4 Chittor (**1303**) → 3 Warangal (**~1309–1311**)
 
 **Trap:** **Warangal** comes **after** Chittor.
@@ -606,8 +594,6 @@ D. 1-2-4-3
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** Same spine with Jaisalmer first (2025).
 
 **Ans: B (2-1-4-3).** Order: 2 Jaisalmer → 1 Ranthambore → 4 Chittor → 3 Warangal
 
@@ -705,8 +691,6 @@ D. Humayunnama–Gulbadan
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Wrong book–author pair — Tughlaqnama is not Ibn Battuta.
-
 **Ans: C.** **Tughlaqnama** is by **Amir Khusrau** (some keys loosely link Barani); **Ibn Battuta** wrote **Rihla**.
 
 **Trap:** Court presence ≠ authorship.
@@ -725,8 +709,6 @@ D. Azizuddin Khan
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** Nagarkot Sanskrit translator = Azizuddin Khan.
 
 **Ans: D.** **Azizuddin Khan** translated the Nagarkot/Jwalamukhi Sanskrit collection into Persian.
 
@@ -854,7 +836,6 @@ The **Sultan** was supreme executive, military commander, and judge, but success
 
 ### PYQ — Administration match
 
-
 **1. (UPPCS Prelims 2020, Q38)** Match List-I (Officer) with List-II (Duty):
 
 | List-I | List-II |
@@ -939,7 +920,6 @@ D. A false, R true
 
 ### PYQ — Iqta
 
-
 **1. (UPPCS Prelims 2019, Q15)** Which of the following is **NOT** a characteristic of the Iqta System?
 
 A. Iqta was a revenue collection system |
@@ -952,8 +932,6 @@ D. Muqti was supported to maintain troops out of the revenue collected from Iqta
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** Stem asks the false claim about Iqta. A, B, and D match coaching facts; C confuses Iqta with Khalsa.
 
 **Ans: C.** Iqta revenue was collected by the **Muqti** for local administration and troop maintenance; surplus (**fawazil**) reached the centre after audit — it was **not** deposited directly in the Sultan's account.
 
@@ -1023,7 +1001,6 @@ Persian was the court language of the Delhi Sultanate. Arabic served theology an
 
 ### PYQ — Architecture match
 
-
 **1. (UPPCS Prelims 2022, Q4)** Match List-I (Building) with List-II (Builder):
 
 | List-I | List-II |
@@ -1073,8 +1050,6 @@ D. 670 A.D.
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Birth year of the Prophet — Mecca **570**, not Hijra **622**.
-
 **Ans: A.** Born at **Mecca** about **570 CE**; died **632 CE**. **622** is the **Hijra** year trap.
 
 </details>
@@ -1093,8 +1068,6 @@ D. 719 A.D.
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** Sindh conquest year — coaching key **712** (dispute **711** vs **712**).
 
 **Ans: C.** **Muhammad bin Qasim** took Sindh from **Dahir** in **712 CE** (**Chachnama**). Some scholars prefer **711** (V.D. Mahajan).
 
@@ -1115,8 +1088,6 @@ D. Muhammad Ghori
 <details>
 <summary>Show answer</summary>
 
-**Logic:** First successful Muslim invader — Arab Qasim, not Ghazni/Ghori/Aibak.
-
 **Ans: C.** First **successful** Muslim invader = Arab **Muhammad bin Qasim** (**712**, Sindh). Turks came later.
 
 </details>
@@ -1135,8 +1106,6 @@ D. None of the above
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** First Muslim invaders as a people = Arabs.
 
 **Ans: C.** Arabs under **Qasim** in Sindh (**712**). Ghaznavids/Ghurids are later Turkish phases.
 
@@ -1157,8 +1126,6 @@ D. Turk-Afghan
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Qasim’s ethnicity — Arab, not Turk/Mongol.
-
 **Ans: C.** **Arab** commander (~**695** birth), linked to **al-Hajjaj**, sent under Caliph **al-Walid**.
 
 </details>
@@ -1177,8 +1144,6 @@ D. Ismail
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** Ghaznavid founder — Alptigin, not Mahmud/Sebuktigin as founder.
 
 **Ans: A.** **Alptigin** founded the Ghaznavid (**Yamini**) line at **Ghazni**. Mahmud is the famous later raider (**998+**).
 
@@ -1200,8 +1165,6 @@ D. (A) false, but (R) true
 
 <details>
 <summary>Show answer</summary>
-
-**A/R logic:** A tests 17 raids; R tests motive of permanent empire (false).
 
 **Ans: C.**
 
@@ -1226,8 +1189,6 @@ D. Danga
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Which Chandela was **not** defeated by Mahmud — Vidyadhar resisted.
-
 **Ans: B.** **Vidyadhar** successfully resisted Mahmud in **1019–20**. Capitals: Khajuraho then Mahoba.
 
 </details>
@@ -1246,8 +1207,6 @@ D. Chand Bardai
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** Court historian of Mahmud = Utbi (not Firdausi/Hasan Nizami).
 
 **Ans: B.** **Utbi** wrote **Kitab-ul-Yamini** / **Tarikh-i-Yamini**. **Firdausi** = poet of **Shahnama**; Hasan Nizami is Ghori-era.
 
@@ -1268,8 +1227,6 @@ D. Alaptigin
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Stem misprints “Farista… Shah-nama” — correct author is Firdausi at Mahmud’s court.
-
 **Ans: B (treat stem as Firdausi).** **Firdausi** wrote **Shahnama** at **Mahmud’s** court (“Homer of the East”). **Firishta** wrote **Tarikh-i-Firishta** for **Ibrahim Adil Shah II** of Bijapur — different person.
 
 </details>
@@ -1288,8 +1245,6 @@ D. Dara Shikoh
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** First Muslim to study Puranas = Al-Biruni.
 
 **Ans: C.** **Al-Biruni** studied Sanskrit/Puranas and wrote **Tahqiq-i-Hind / Kitab-ul-Hind**.
 
@@ -1310,8 +1265,6 @@ D. 12th Century A.D.
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Century of Al-Biruni’s India visit = 11th.
-
 **Ans: C.** Came with **Mahmud** in the **11th century** (born **973**, Khwarizm/Khiva).
 
 </details>
@@ -1330,8 +1283,6 @@ D. He was an expert of trigonometry
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** Which Al-Biruni statement is **incorrect** — “secular author” is the wrong claim.
 
 **Ans: A.** He is **not** treated as a secular apologist; he did not write sympathetically about the **Somnath** raid. Other statements fit his profile.
 
@@ -1352,8 +1303,6 @@ D. Akbar
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Bilingual Sanskrit–Arabic silver = Mahmud of Ghazni.
-
 **Ans: B.** Mahmud’s silver: Arabic + Sanskrit (**“Avyaktamekam Muhammad Avatar Nripati Mahmud”**).
 
 </details>
@@ -1372,8 +1321,6 @@ D. Genghis Khan
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** 1192 north India conqueror = Shihabuddin Muhammad Ghori.
 
 **Ans: C.** **Second Tarain (1192)** — Ghori defeats Prithviraj and holds Delhi–Ajmer.
 
@@ -1394,8 +1341,6 @@ D. Prithviraj-II
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Ghori’s **first** defeat in India = Mularaja II / Naika Devi (Gujarat 1178), not Prithviraj.
-
 **Ans: A.** **Naika Devi** (regent for **Mularaja II / Bhimdev II**) defeated Ghori near **Mount Abu (1178)**. Prithviraj’s win is **Tarain 1191** — later.
 
 </details>
@@ -1414,8 +1359,6 @@ D. Battle of Kannauj (1194 A.D.)
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** Jayachandra defeat = Chandawar 1194, not Tarain.
 
 **Ans: C.** **Chandawar (1194)** — present **Firozabad** district, **Yamuna**. Kannauj is the kingdom, not the battle name preferred in keys.
 
@@ -1436,8 +1379,6 @@ D. Bhima- II
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Same Chandawar king identification.
-
 **Ans: B.** **Jayachandra (Jaichand)** of Kannauj at **Chandawar 1194**.
 
 </details>
@@ -1456,8 +1397,6 @@ D. Second Battle of Panipat
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** Foundation of Muslim domination in north India = Second Tarain.
 
 **Ans: B.** **Second Tarain (1192)** established lasting Turkish foothold in north India. First Tarain (**1191**) was Prithviraj’s win.
 
@@ -1486,8 +1425,6 @@ D. 4, 1, 2, 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Chronology — Mahmud → Ghori → Genghis → Timur.
-
 **Ans: B.** **Mahmud (1000–1027 raids)** → **Ghori (1175–1206)** → **Genghis** pressure (~**1221**, chasing Jalaluddin) → **Timur 1398**.
 
 </details>
@@ -1506,8 +1443,6 @@ D. Yaldauj
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** Bihar–Bengal conqueror under Ghori’s line = Bakhtiyar Khalji.
 
 **Ans: C.** **Ikhtiyar-ud-din Bakhtiyar Khalji** took **Odantapuri**, destroyed **Nalanda/Vikramshila**, took **Nadia**, capital **Lakhnauti**.
 
@@ -1530,8 +1465,6 @@ D. A false, R true
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** Turkish success explained by lack of north Indian unity (same as 2018).
-
 **Ans: A.** Both true; fragmentation of Rajput states **explains** Turkish success. Repeated in **UPPCS 2024** with the same key.
 
 </details>
@@ -1553,8 +1486,6 @@ D. (A) true, but (R) false
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** Repeat stem (UPPCS 2024) — same facts.
-
 **Ans: A.** Same as **2018 Q14** — disunity enabled Ghori and the Sultanate foothold.
 
 </details>
@@ -1564,8 +1495,6 @@ D. (A) true, but (R) false
 ## Ghatnachakra Extra Drill — Muslim Invasion (other papers)
 
 Stems from Ghatnachakra B–201+ beyond UPPCS. Teaching already in **2.1–2.2**.
-
-**Logic:** Mecca’s country.
 
 **Q-GC1. MPPCS (Pre) 1995**
 
@@ -1586,8 +1515,6 @@ D. Saudi Arabia
 
 </details>
 
-**Logic:** Who first used “Hindu” for people of Hind.
-
 **Q-GC2. IAS (Pre) 1995**
 
 The word ‘Hindu’ as a reference to the people of Hind (India) was first used by:
@@ -1606,8 +1533,6 @@ D. The Arabs
 **Ans: D.** **Arabs** first used **Hindu** for people of Hind. Iranians → Hindustan; Greeks → India.
 
 </details>
-
-**Logic:** First Muslim attack year options — key often “none” when 712 not listed / 711 disputed.
 
 **Q-GC3. MPPCS (Pre) 1995**
 
@@ -1628,8 +1553,6 @@ D. None of these
 
 </details>
 
-**Logic:** Chachnama capital of Indus country = Arod.
-
 **Q-GC4. MPPCS (Pre) 2020**
 
 According to Chachnama, what was the Capital of the Indus Country in the 6th and 7th century?
@@ -1648,8 +1571,6 @@ D. Barmer
 **Ans: B.** **Arod** (near modern Karachi area) in **Chachnama**; Dahir’s line vs Qasim.
 
 </details>
-
-**Logic:** Persian translator of Chachnama.
 
 **Q-GC5. 70th BPSC Pre-2024**
 
@@ -1670,8 +1591,6 @@ D. More than one of the above
 
 </details>
 
-**Logic:** Chandela who faced Mahmud = Vidyadhar.
-
 **Q-GC6. MPPCS (Pre) 2021**
 
 Which Chandela King faced Mahmud Ghaznavi?
@@ -1690,8 +1609,6 @@ D. Arunoraja
 **Ans: C.** **Vidyadhar**, **1019–20**.
 
 </details>
-
-**Logic:** Author of Shahnama = Firdausi.
 
 **Q-GC7. MPPCS (Pre) 2015**
 
@@ -1712,8 +1629,6 @@ D. Barani
 
 </details>
 
-**Logic:** Scholar with Mahmud = Al-Biruni.
-
 **Q-GC8. Jharkhand PCS (Pre) 2011**
 
 Which scholar came to India with Mahmud Ghazni:
@@ -1733,8 +1648,6 @@ D. Ferishta
 
 </details>
 
-**Logic:** Who rebuilt Somnath after Mahmud = Bhimadeva I.
-
 **Q-GC9. Jharkhand PSC (Mains) 2016**
 
 After the attack of Mahmud Ghazni, who among the following reconstructed the Somnath temple?
@@ -1753,8 +1666,6 @@ D. Jayasingh Siddhiraj
 **Ans: B.** **Bhimadeva / Bhimdev I** rebuilt after the **1025/26** raid.
 
 </details>
-
-**Logic:** Somnath statements — Jyotirlinga + Al-Biruni true; Pran Pratishtha by Radhakrishnan false (Rajendra Prasad).
 
 **Q-GC10. IAS (Pre) 2022**
 
@@ -1781,8 +1692,6 @@ D. 1, 2 and 3
 
 </details>
 
-**Logic:** Chandawar king (MPPCS).
-
 **Q-GC11. MPPCS (Pre) 2017**
 
 Whom had Muhammad Ghori defeated in 1194 in the Battle of Chandawar?
@@ -1802,8 +1711,6 @@ D. Bhim II
 
 </details>
 
-**Logic:** First iqta in India after Ghori’s victories → Aibak.
-
 **Q-GC12. 39th BPSC (Pre) 1994**
 
 Muhammad Ghori granted first Iqta in India to:
@@ -1822,8 +1729,6 @@ D. Nazir-ud-din Qubacha
 **Ans: B.** **Qutbuddin Aibak** — **Kuhram** and **Samana** after **1192**.
 
 </details>
-
-**Logic:** First Muslim conqueror of Bihar = Bakhtiyar.
 
 **Q-GC13. 60th–62nd BPSC (Pre) 2016**
 
@@ -1846,8 +1751,6 @@ E. None of the above / More than one of the above
 
 </details>
 
-**Logic:** Real founder of Turk rule in Bihar = Ibn Bakhtiyar Khalji.
-
 **Q-GC14. 67th BPSC (Pre) Re-Exam 2022**
 
 Who was the real founder of Turk rule in Bihar?
@@ -1868,8 +1771,6 @@ E. None of the above / More than one of the above
 **Ans: B.** Same **Bakhtiyar Khalji** line.
 
 </details>
-
-**Logic:** Destroyer of Nalanda = Bakhtiyar Khalji.
 
 **Q-GC15. 60th–62nd BPSC (Pre) 2016**
 
@@ -1896,8 +1797,6 @@ E. None of the above / More than one of the above
 
 ## UKPCS — Muslim Invasion stems
 
-**Logic:** Historian who came with Mahmud = Al-Biruni (not Firishta/Ibn Battuta).
-
 **Q-UK1. UKPCS Prelims 2010**
 
 The famous historian who visited India with Mahmud of Ghazni was:
@@ -1916,8 +1815,6 @@ D. Ibn Battuta
 **Ans: B.** **Al-Biruni** accompanied Mahmud; **Tahqiq-i-Hind / Kitab-ul-Hind**; also translated Patanjali (**Kitab Patanjal**).
 
 </details>
-
-**Logic:** Whose Muslim coins show Goddess Lakshmi = Ghori.
 
 **Q-UK2. UKPCS Prelims 2006**
 
@@ -1940,7 +1837,6 @@ D. None of the above
 
 ---
 
-
 ## Complete PYQ Bank — Slave Dynasty (UPPCS first)
 
 Teaching body: **2.4**. Answers under **Show answer**.
@@ -1959,8 +1855,6 @@ D. Qutbuddin Aybak
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** Founder of Slave/Mamluk line = Aibak.
 
 **Ans: D.** **Qutbuddin Aibak** founded the line in **1206** at **Lahore**.
 
@@ -1981,8 +1875,6 @@ D. Qutbuddin Aybak
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Lakh Baksh = Aibak’s generosity title.
-
 **Ans: D.** **Aibak** = **Lakh Baksh**; capital **Lahore**; never took the title Sultan.
 
 </details>
@@ -2001,8 +1893,6 @@ D. Firuz Shah Tughluq
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** Who did **not** build Qutub Minar = Ghiyasuddin Tughlaq.
 
 **Ans: C.** Aibak started; Iltutmish completed; Firuz rebuilt 4th and added 5th. **Ghiyasuddin Tughlaq** contributed nothing.
 
@@ -2023,8 +1913,6 @@ D. Lakhnauti
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Aibak’s capital = Lahore.
-
 **Ans: A.** **Lahore** — he stayed there against Yalduz’s Punjab designs.
 
 </details>
@@ -2043,8 +1931,6 @@ D. Muizzuddin Ghori
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** Who made Delhi the Sultanate capital = Iltutmish.
 
 **Ans: B.** **Iltutmish** shifted lasting capital to **Delhi** (Aibak ruled from Lahore).
 
@@ -2065,8 +1951,6 @@ D. Balban
 <details>
 <summary>Show answer</summary>
 
-**Logic:** First regular coins + Delhi capital = Iltutmish.
-
 **Ans: B.** Silver **tanka**, copper **jital**, Delhi capital, Caliph recognition **1229**.
 
 </details>
@@ -2085,8 +1969,6 @@ D. Delhi
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** Capital under Iltutmish = Delhi.
 
 **Ans: D.** **Delhi** after the shift from Lahore.
 
@@ -2107,8 +1989,6 @@ D. Qutbuddin Aybak
 <details>
 <summary>Show answer</summary>
 
-**Logic:** First Sultan to shift capital to Delhi = Iltutmish.
-
 **Ans: C.** Same fact as Q5–Q7.
 
 </details>
@@ -2127,8 +2007,6 @@ D. Balban
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** First legally independent Muslim Sultan of Delhi (Caliph investiture) = Iltutmish.
 
 **Ans: B (as keyed).** Stem means first **Caliph-recognised / legally independent** Sultan of Delhi — **Iltutmish** (**Sultan-e-Azam**, **1229**). Aibak ruled from Lahore without the Sultan title.
 
@@ -2149,8 +2027,6 @@ D. Iltutmish
 <details>
 <summary>Show answer</summary>
 
-**Logic:** “Slave of a slave” = Iltutmish.
-
 **Ans: D.** Slave of **Aibak**, who was Ghori’s slave.
 
 </details>
@@ -2169,8 +2045,6 @@ D. Noorjahan
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** First woman ruler of medieval India = Razia.
 
 **Ans: A.** **Razia (1236–40)** — only woman Sultan of Delhi.
 
@@ -2191,8 +2065,6 @@ D. Aybak
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Genghis on Indus during Iltutmish’s reign.
-
 **Ans: B.** Chasing **Jalaluddin Mingburni**; Iltutmish refused asylum.
 
 </details>
@@ -2211,8 +2083,6 @@ D. Alauddin Khalji
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** Contemporary of Genghis = Iltutmish.
 
 **Ans: A.** Same Indus/Mingburni episode.
 
@@ -2233,8 +2103,6 @@ D. Raziyya
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Mongols first on Indus bank under Iltutmish.
-
 **Ans: B.**
 
 </details>
@@ -2253,8 +2121,6 @@ D. Ogadi
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** Original name of Genghis = Temujin.
 
 **Ans: C.** **Temujin / Temuchin**.
 
@@ -2275,8 +2141,6 @@ D. Arabs
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Turks (Altunia) dethroned Razia.
-
 **Ans: C.** Turkish nobles under **Malik Altunia** of **Bhatinda**.
 
 </details>
@@ -2295,8 +2159,6 @@ D. Firuz Shah Tughluq
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** Blood and iron = Balban.
 
 **Ans: B.** **Balban** — divine right + autocracy (**Niyabat-i-Khudai**, **Zil-i-Ilahi**).
 
@@ -2319,8 +2181,6 @@ D. A false, R true
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** Centralisation true; Mongol motive true but does not explain A.
-
 **Ans: B.** Same substance as **UPPCS 2024** (option letters differ by paper). Centralisation ≠ caused by Mongol frontier alone.
 
 </details>
@@ -2342,8 +2202,6 @@ D. A true, R false
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** 2024 option order — answer C.
-
 **Ans: C.**
 
 </details>
@@ -2363,8 +2221,6 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Helper of a Caliph inscription at Garhmukteshwar = Balban.
-
 **Ans: A.** **Balban** at **Garhmukteshwar**.
 
 </details>
@@ -2372,8 +2228,6 @@ D. None of the above
 ---
 
 ## Ghatnachakra Extra Drill — Slave Dynasty (other papers)
-
-**Logic:** First Slave ruler = Aibak.
 
 **Q-GC1. BPSC**
 
@@ -2394,8 +2248,6 @@ D. Balban
 
 </details>
 
-**Logic:** Adhai Din Ka Jhopra is a mosque.
-
 **Q-GC2. BPSC 2015**
 
 What is ‘Adhai Din ka Zhonpda’?
@@ -2415,8 +2267,6 @@ D. Tower
 
 </details>
 
-**Logic:** Quwwat-ul-Islam and Adhai Din locations.
-
 **Q-GC3. Jharkhand PCS 2021**
 
 Quwwat-ul-Islam Mosque and Arhai Din Ka Jhonpra are situated respectively at:
@@ -2435,8 +2285,6 @@ D. Lahore and Ajmer
 **Ans: A.**
 
 </details>
-
-**Logic:** Qutub Minar completed by Iltutmish.
 
 **Q-GC4. BPSC 2022**
 
@@ -2459,8 +2307,6 @@ E. None / More than one
 
 </details>
 
-**Logic:** How Aibak died = Chaugan fall.
-
 **Q-GC5. IAS 2003**
 
 How did Sultan Qutbuddin Aybak die?
@@ -2479,8 +2325,6 @@ D. Fell from his horse while playing Chaugan
 **Ans: D.** Buried at **Lahore**.
 
 </details>
-
-**Logic:** Empire regarded as part of Dar-ul-Islam after Caliph khilat = Iltutmish.
 
 **Q-GC6. BPSC 2022 Re-Exam**
 
@@ -2503,8 +2347,6 @@ E. None / More than one
 
 </details>
 
-**Logic:** NOT a rival of Iltutmish = Malik Altunia.
-
 **Q-GC7. UKPCS Prelims 2021**
 
 Who among the following was not the rivals of Iltutmish?
@@ -2524,8 +2366,6 @@ D. Malik Altunia
 
 </details>
 
-**Logic:** Genghis invaded in Iltutmish’s reign.
-
 **Q-GC8. IAS 2001 / Chhattisgarh PCS**
 
 The Mongols under Genghis Khan invaded India during the reign of:
@@ -2544,8 +2384,6 @@ D. Muhammad-Bin-Tughluq
 **Ans: C.**
 
 </details>
-
-**Logic:** Multi-statement — only Chengiz–Iltutmish true among the three.
 
 **Q-GC9. IAS 2021**
 
@@ -2574,8 +2412,6 @@ D. 2 and 3
 
 </details>
 
-**Logic:** First Bihar Subedar under Iltutmish = Malik-Jani.
-
 **Q-GC10. BPSC**
 
 Iltutmish appointed his first Subedar in Bihar to:
@@ -2595,8 +2431,6 @@ D. Malik-Jani
 
 </details>
 
-**Logic:** Full name of Balban = Ghiyasuddin.
-
 **Q-GC11. Chhattisgarh PCS 2004**
 
 The full name of Sultan of Delhi Balban was?
@@ -2615,8 +2449,6 @@ D. Qutbuddin
 **Ans: C.** **Ghiyasuddin Balban** / **Ulugh Khan**.
 
 </details>
-
-**Logic:** Blood and iron (BPSC).
 
 **Q-GC12. BPSC 2020**
 
@@ -2639,8 +2471,6 @@ E. None / More than one
 
 </details>
 
-**Logic:** Grand title after consolidating = Zil-e-Ilahi.
-
 **Q-GC13. IAS 1997**
 
 After consolidating his power, Balban assumed the grand title of:
@@ -2659,8 +2489,6 @@ D. Din-e-Ilahi
 **Ans: C.** Shadow of God; also **Niyabat-i-Khudai**.
 
 </details>
-
-**Logic:** First to formulate divine-right style kingship theory = Balban.
 
 **Q-GC14. BPSC 2017**
 
@@ -2683,8 +2511,6 @@ E. None / More than one
 
 </details>
 
-**Logic:** Nawruz introduced by Balban.
-
 **Q-GC15. IAS 1993 / BPSC 2023**
 
 Who among the following introduced the famous Persian festival ‘Nawruz’ in India?
@@ -2703,8 +2529,6 @@ D. Alauddin Khalji
 **Ans: A.** Along with **Sijda** and **Paibos**.
 
 </details>
-
-**Logic:** Statement NOT true about Balban — he did not introduce iqta.
 
 **Q-GC16. Chhattisgarh PCS 2008**
 
@@ -2725,8 +2549,6 @@ D. He quelled down the revolt of Bengal.
 
 </details>
 
-**Logic:** Zillillah first used by Balban.
-
 **Q-GC17. BPSC Re-Exam 2024**
 
 The term Zillillah was first used by:
@@ -2745,8 +2567,6 @@ D. Iltutmish
 **Ans: C.**
 
 </details>
-
-**Logic:** Tughril Khan revolt under Balban.
 
 **Q-GC18. BPSC 2022 Re-Exam**
 
@@ -2772,8 +2592,6 @@ E. None / More than one
 ---
 
 ## UKPCS — Slave Dynasty stems
-
-**Logic:** Not a rival of Iltutmish = Malik Altunia (UKPCS 2021, also in Extra Drill).
 
 **Q-UK1. UKPCS Prelims 2021**
 
@@ -2815,8 +2633,6 @@ D. Sikandar Lodi
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Sikandar-i-Sani / Alexander the Second = Alauddin.
-
 **Ans: B.** **Sikandar-i-Sani** on coins.
 
 </details>
@@ -2837,8 +2653,6 @@ D. A false, R true
 
 <details>
 <summary>Show answer</summary>
-
-**A/R logic:** Deccan expeditions = financial ventures; annexation motive false.
 
 **Ans: C.** Plunder/tribute true; permanent annexation of the south was **not** the main aim.
 
@@ -2868,8 +2682,6 @@ D. 3-4-2-1
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Match conquest places to rulers — Ranthambore Hamirdeva, Chittor Ratan Singh, Devagiri Ramchandra, Gujarat Karnadeva.
-
 **Ans: D (3-4-2-1).** A–3 Hamirdeva | B–4 Ratan Singh | C–2 Ramchandra | D–1 Karnadeva
 
 </details>
@@ -2890,8 +2702,6 @@ D. 2-1-4-3
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** Alauddin conquest order Gujarat–Ranthambor–Chittor–Warangal.
 
 **Ans: D.** **1299 → 1301 → 1303 → ~1310**.
 
@@ -2914,8 +2724,6 @@ D. A false, R true
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** Price control true; palace-artisan wage motive false.
-
 **Ans: C.** Market control funded the **standing army** vs Mongols (Barani), not palace artisan wages.
 
 </details>
@@ -2934,8 +2742,6 @@ D. Sher Shah Suri
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** Price/market control = Alauddin (repeat stems).
 
 **Ans: A.** **Shahna-i-Mandi** system.
 
@@ -2956,8 +2762,6 @@ D. alienated ruler from masses
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Market control attempt was highly successful.
-
 **Ans: C.** Coaching/Ghatnachakra key.
 
 </details>
@@ -2976,8 +2780,6 @@ D. Muhammad-Bin-Tughluq
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** PDS beginner in medieval India = Alauddin.
 
 **Ans: A.**
 
@@ -2998,8 +2800,6 @@ D. Firuz Shah Tughluq
 <details>
 <summary>Show answer</summary>
 
-**Logic:** First to charge Ghari = Alauddin.
-
 **Ans: B.** Also **Charai** (grazing) on milch animals.
 
 </details>
@@ -3018,8 +2818,6 @@ D. Sutlej
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** Boundary with Mongols after 1306 = Ravi.
 
 **Ans: B.** **Ravi**.
 
@@ -3040,8 +2838,6 @@ D. Madura — Veer Pandya
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Wrong pair — Warangal ≠ Ramchandra Dev.
-
 **Ans: B.** **Warangal = Prataparudra**; **Ramachandra** ruled **Devgiri**. Shankar Dev was Ramachandra’s son at Devgiri.
 
 </details>
@@ -3061,8 +2857,6 @@ D. Muhammad bin Tuglaq
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Who declared himself Khalifa = Mubarak Khalji.
-
 **Ans: C.** Titles **Al-Imam / Khalifatullah**.
 
 </details>
@@ -3081,8 +2875,6 @@ D. of Muhammad Tughluq
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** Whose army Kakatiyas defeated at Warangal in 1303 = Alauddin’s.
 
 **Ans: C.** First Warangal attempt failed; later success under **Malik Kafur**.
 
@@ -3109,8 +2901,6 @@ D. I, II and III
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Alauddin measured land; did not enforce measures in entire empire; curbed provincial chiefs — I and III.
-
 **Ans: C.** Measurement true (**Diwan-i-Mustakharaj**) but mainly around Delhi/Doab — not the whole empire as keyed. Privileges of **Khut/Muqaddam** crushed.
 
 </details>
@@ -3118,8 +2908,6 @@ D. I, II and III
 ---
 
 ## Ghatnachakra Extra Drill — Khalji Dynasty (other papers)
-
-**Logic:** Wanted new religion but Ulema/friend opposed = Alauddin.
 
 **Q-GC1. Chhattisgarh PCS 2003**
 
@@ -3140,8 +2928,6 @@ D. Iltutmish
 
 </details>
 
-**Logic:** Barani on independence from Shariat = Alauddin.
-
 **Q-GC2. BPSC 2004**
 
 'When he attained Kingship, he was quite independent of rulers and orders of Shariat'. For which Sultan Barani made this statement?
@@ -3160,8 +2946,6 @@ D. Mohammad-bin-Tughlaq
 **Ans: C.**
 
 </details>
-
-**Logic:** Commander who died vs Mongols = Zafar Khan.
 
 **Q-GC3. BPSC 1996**
 
@@ -3182,8 +2966,6 @@ D. Ulugh Khan
 
 </details>
 
-**Logic:** Padmini wife of Rana Ratan Singh.
-
 **Q-GC4. BPSC 1999**
 
 Padmini is associated with Ala-ud-Din’s conquest of Chittor. She was the wife of:
@@ -3202,8 +2984,6 @@ D. Rana Ratan Singh
 **Ans: D.** Literary fame via **Padmavat (1540)**.
 
 </details>
-
-**Logic:** Hazar-Dinari = Malik Kafur (UKPCS + BPSC).
 
 **Q-GC5. UKPCS Prelims 2021 / BPSC 2024**
 
@@ -3224,8 +3004,6 @@ D. Qutbuddin Aybak
 
 </details>
 
-**Logic:** Devgiri ruler at Alauddin’s invasion = Ramachandra Dev.
-
 **Q-GC6. BPSC**
 
 Who was the ruler of Devgiri at the time of Alauddin Khalji’s invasion?
@@ -3244,8 +3022,6 @@ D. Rana Ratan Singh
 **Ans: A.** Later titled **Rai Rayan**.
 
 </details>
-
-**Logic:** Large-scale Khalisa under Alauddin.
 
 **Q-GC7. BPSC 1994**
 
@@ -3266,8 +3042,6 @@ D. Firuz Shah Tughluq
 
 </details>
 
-**Logic:** Half produce revenue — Alauddin (and sometimes MbT in keys).
-
 **Q-GC8. Jharkhand PCS 2013 / UKPCS 2016**
 
 The Sultan who is said to have raised the land revenue to one-half of the produce was:
@@ -3287,8 +3061,6 @@ D. Firuz Tughluq
 
 </details>
 
-**Logic:** Market reforms introducer.
-
 **Q-GC9. MPPCS 2014**
 
 Which of the following Sultans introduced “Market Reforms”?
@@ -3307,8 +3079,6 @@ D. Balban
 **Ans: B.**
 
 </details>
-
-**Logic:** PDS in Sultanate = Alauddin (BPSC).
 
 **Q-GC10. BPSC 2020 Re-Exam**
 
@@ -3330,8 +3100,6 @@ E. None / More than one
 **Ans: A.**
 
 </details>
-
-**Logic:** Mongol statements — only Alauddin Delhi siege true among the three (IAS 2022).
 
 **Q-GC11. IAS 2022**
 
@@ -3364,8 +3132,6 @@ D. 3 only
 
 ## UKPCS — Khalji Dynasty stems
 
-**Logic:** Hazar-Dinari = Malik Kafur.
-
 **Q-UK1. UKPCS Prelims 2021**
 
 Who was known as 'Hazar-Dinari'?
@@ -3384,8 +3150,6 @@ D. Qutbuddin Aybak
 **Ans: B.** Gujarat captive under Alauddin; Deccan commander.
 
 </details>
-
-**Logic:** Half produce — UKPCS keyed Alauddin and/or MbT; teach both.
 
 **Q-UK2. UKPCS Prelims 2016**
 
@@ -3408,7 +3172,6 @@ D. Balban
 
 ---
 
-
 ## Complete PYQ Bank — Tughlaq Dynasty (UPPCS first)
 
 Teaching body: **2.6**.
@@ -3427,8 +3190,6 @@ D. Ubigh Khan
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** First Tughlaq Sultan / Ghazi Malik.
 
 **Ans: A.** **Ghazi Malik / Ghiyasuddin Tughlaq** defeated **Khusrau** (**1320**).
 
@@ -3449,8 +3210,6 @@ D. Raziyya Begum
 <details>
 <summary>Show answer</summary>
 
-**Logic:** First 14th-c. canal digger for agriculture = Ghiyasuddin Tughlaq.
-
 **Ans: C.** Early canal/farmer relief under **Ghiyasuddin**; later Firoz built the biggest network.
 
 </details>
@@ -3469,8 +3228,6 @@ D. Tughluq dynasty
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** Longest-ruling dynasty = Tughlaq.
 
 **Ans: D.** Tughlaq **1320–1412/14** outlasts Slave, Khalji, Lodi spans.
 
@@ -3491,8 +3248,6 @@ D. Sikandar Lodi
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Most learned Sultan = MbT.
-
 **Ans: C.**
 
 </details>
@@ -3511,8 +3266,6 @@ D. Sikandar Lodi
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** Amir-e-Kohi = MbT.
 
 **Ans: C.** **Diwan-i-Amir-i-Kohi** for agriculture (~60 sq miles experiment).
 
@@ -3533,8 +3286,6 @@ D. Muhammad-Bin-Tughluq
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Separate agriculture dept + crop rotation = MbT.
-
 **Ans: D.**
 
 </details>
@@ -3554,8 +3305,6 @@ D. Lahore
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Capital transfer = Daulatabad by MbT.
-
 **Ans: A.** **Devgiri → Daulatabad**.
 
 </details>
@@ -3574,8 +3323,6 @@ D. Muhammad-Bin-Tughluq
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** First token currency = MbT.
 
 **Ans: Muhammad-Bin-Tughluq.** Copper/bronze tokens; failed for lack of mint control.
 
@@ -3598,8 +3345,6 @@ D. A false, R true
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** Token failure explained by lack of currency control.
-
 **Ans: A.** Forgery and weak mint control wrecked face-value tokens.
 
 </details>
@@ -3618,8 +3363,6 @@ D. Muhammad-Bin-Tughluq / Ibn Battuta
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** Ibn Battuta visited under MbT; postal detail from Rihla.
 
 **Ans: Muhammad-Bin-Tughluq; postal detail = Ibn Battuta (*Rihla*). Moroccan; Qazi of Delhi; envoy to China **1342**.
 
@@ -3640,8 +3383,6 @@ D. Ibrahim Lodi
 <details>
 <summary>Show answer</summary>
 
-**Logic:** First Sultan to join Holi publicly = MbT.
-
 **Ans: B.**
 
 </details>
@@ -3660,8 +3401,6 @@ D. Muhammad-Bin-Tughluq
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** Badauni’s death comment = MbT.
 
 **Ans: D.** Died **1351** near Thatta.
 
@@ -3682,8 +3421,6 @@ D. Firuz Shah Tughluq
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Employment exchange = Firoz.
-
 **Ans: D.**
 
 </details>
@@ -3702,8 +3439,6 @@ D. Bahlul Lodi
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** Diwan-i-Khairat = Firoz.
 
 **Ans: B.** Poor Muslims, orphans, widows; marriages of poor girls.
 
@@ -3724,8 +3459,6 @@ D. Firuz Shah Tughluq
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Public Works Dept = Firoz.
-
 **Ans: D.** Cities, canals, Malik Ghazi Shahana.
 
 </details>
@@ -3744,8 +3477,6 @@ D. Firuz Tughluq
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** First Haqq-i-Sharb = Firoz.
 
 **Ans: D.** ~**1/10** produce from royal canals.
 
@@ -3766,8 +3497,6 @@ D. Muhammad-Bin-Tughluq
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Jizya on Brahmins = Firoz.
-
 **Ans: B.**
 
 </details>
@@ -3786,8 +3515,6 @@ D. Sikandar Lodhi
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** Ashoka pillars to Delhi = Firoz (Topra & Meerut).
 
 **Ans: B.** Topra → Firozabad; Meerut → near Bada Hindu Rao.
 
@@ -3808,8 +3535,6 @@ D. Sikandar Lodi
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Translation Department = Firoz.
-
 **Ans: B.** Sanskrit → Persian translations.
 
 </details>
@@ -3828,8 +3553,6 @@ D. Azizuddin Khan
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** Nagarkot translator = Azizuddin Khan (2023).
 
 **Ans: D.**
 
@@ -3850,8 +3573,6 @@ D. A guest house for pilgrims
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Dar-ul-Shafa = free hospital.
-
 **Ans: B.** Charitable hospital with hakims.
 
 </details>
@@ -3870,8 +3591,6 @@ D. Nusrat Shah
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** Last Tughlaq = Nasiruddin Mahmud (not Firuz).
 
 **Ans: C.** Timur **1398** in his reign; dynasty ends **1412**.
 
@@ -3892,8 +3611,6 @@ D. 2-1-3-4
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Chronology Ruknuddin → Mubarak → Firuz → Alam Shah.
-
 **Ans: C.** **1236 → 1316–20 → 1351–88 → 1445–51**.
 
 </details>
@@ -3901,8 +3618,6 @@ D. 2-1-3-4
 ---
 
 ## Ghatnachakra Extra Drill — Tughlaq (other papers)
-
-**Logic:** Ghazi Malik founded Tughlaq.
 
 **Q-GC1. MPPCS 2017**
 
@@ -3922,8 +3637,6 @@ D. Lodi
 **Ans: A.**
 
 </details>
-
-**A/R logic:** Gold Dinar true; gold token for West Asian trade false.
 
 **Q-GC2. IAS 2006**
 
@@ -3946,8 +3659,6 @@ D. A false, R true
 
 </details>
 
-**Logic:** Ibn Battuta’s country = Morocco.
-
 **Q-GC3. Chhattisgarh PCS 2019**
 
 Medieval traveller and writer Ibn Batuta belonged to which country?
@@ -3966,8 +3677,6 @@ D. Afghanistan
 **Ans: B.**
 
 </details>
-
-**Logic:** Most slaves = Firoz; Diwan-i-Bandagan.
 
 **Q-GC4. BPSC 2001 / IAS 2002**
 
@@ -3988,8 +3697,6 @@ D. Firuz Tughluq
 
 </details>
 
-**Logic:** Biggest canal network = Firoz.
-
 **Q-GC5. IAS 1998 / BPSC 2019**
 
 The Sultan of Delhi who is reputed to have built the biggest network of canals in India was:
@@ -4008,8 +3715,6 @@ D. Sikandar Lodi
 **Ans: C.**
 
 </details>
-
-**Logic:** Fruit-quality measures = Firoz.
 
 **Q-GC6. BPSC 2000**
 
@@ -4030,8 +3735,6 @@ D. Sher Shah Suri
 
 </details>
 
-**Logic:** First Haj from state exchequer = Firoz.
-
 **Q-GC7. IAS 1994 / UPPCS 1998**
 
 The first Indian ruler to organize Haj pilgrimage from the State Exchequer was:
@@ -4051,8 +3754,6 @@ D. Aurangzeb
 
 </details>
 
-**Logic:** Dynasty after Timur = Sayyid.
-
 **Q-GC8. BPSC 2001**
 
 Which one of the following dynasties ruled over India after the invasion of Timur?
@@ -4071,8 +3772,6 @@ D. Khalji dynasty
 **Ans: B.** **Khizr Khan 1414**.
 
 </details>
-
-**Logic:** Timur year = 1398 (not under MbT/Firuz options).
 
 **Q-GC9. MPPCS 2005**
 
@@ -4096,8 +3795,6 @@ D. 1526 A.D.
 ---
 
 ## UKPCS — Tughlaq stems
-
-**Logic:** Postal system detail = Ibn Battuta (UKPCS 2002).
 
 **Q-UK1. UKPCS Prelims 2002**
 
@@ -4139,8 +3836,6 @@ D. Lodi
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Afghan-origin Sultanate dynasty = Lodi.
-
 **Ans: D.** Last Delhi Sultanate house (**1451–1526**).
 
 </details>
@@ -4159,8 +3854,6 @@ D. Sikandar Lodi
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** Agra founded by Sikandar Lodi.
 
 **Ans: Sikandar Lodi (1504)** — capital on the Yamuna.
 
@@ -4181,8 +3874,6 @@ D. Ibrahim Lodi
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Pen-name Gulrukhi = Sikandar.
-
 **Ans: C.**
 
 </details>
@@ -4201,8 +3892,6 @@ D. Sikandar Lodi
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** Abolished tax on grains = Sikandar.
 
 **Ans: D.** Also **Gaj-i-Sikandari** measure.
 
@@ -4223,8 +3912,6 @@ D. 4-1-3-2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Dynasty order Slave → Khalji → Sayyid → Lodi (no Tughlaq in this stem).
-
 **Ans: D.** Slave → Khalji → Sayyid → Lodi (Tughlaq omitted from list).
 
 </details>
@@ -4232,8 +3919,6 @@ D. 4-1-3-2
 ---
 
 ## Ghatnachakra Extra Drill — Lodi (other papers)
-
-**Logic:** Afghan chronological order Bahlul → Sikandar → Ibrahim.
 
 **Q-GC1. IAS 2006**
 
@@ -4254,8 +3939,6 @@ D. Bahlul–Ibrahim–Sikandar
 
 </details>
 
-**Logic:** Map of Bahlul — place A = Jaunpur.
-
 **Q-GC2. IAS 1999**
 
 To which Lodi Sultan does the given map relate and what town does side A represent?
@@ -4275,8 +3958,6 @@ D. Ibrahim Lodi, Aligarh
 
 </details>
 
-**Logic:** Sanga defeated Ibrahim at Khatoli.
-
 **Q-GC3. RAS/RTS 2012**
 
 In which battle did Maharana Sanga defeat Ibrahim Lodi?
@@ -4295,8 +3976,6 @@ D. Battle of Khanua
 **Ans: A.** **1518** (Khanwa is Babur vs Sanga **1527**).
 
 </details>
-
-**Logic:** Not Slave dynasty = Ibrahim Lodi.
 
 **Q-GC4. UKPCS Lower 2010**
 
@@ -4320,8 +3999,6 @@ D. Ibrahim Lodi
 ---
 
 ## UKPCS — Lodi stems
-
-**Logic:** Ibrahim Lodi is not Slave dynasty (UK Lower 2010).
 
 **Q-UK1. Uttarakhand Lower Sub. (Pre) 2010**
 
@@ -4373,7 +4050,6 @@ D. 1, 2, 4, 3
 
 </details>
 
-
 **Q2. UPPCS Prelims 2025, Q95**
 
 Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
@@ -4398,7 +4074,6 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **If the stem changed:** If R said "Khalsa was under direct Sultan control," both would be true and R would explain A → **D**.
 
 </details>
-
 
 **Q3. UPPCS Prelims 2024, Q150**
 
@@ -4425,7 +4100,6 @@ D. (A) is true, but (R) is false.
 
 </details>
 
-
 **Q4. UPPCS Prelims 2023, Q34**
 
 Which of the following is **not** correctly matched?
@@ -4444,7 +4118,6 @@ D. Gulbadan Begum — Daughter of Babur
 **Trap:** Begum names without dynasty check — **Iltutmish–Razia** and **Gulbadan–Babur** pairs in the same stem are correct distractors.
 
 </details>
-
 
 **Q5. UPPCS Prelims 2023, Q37**
 
@@ -4465,7 +4138,6 @@ D. Azizuddin Khan
 **Trap:** **Mulla Abdul Baqi** is a distractor; **Barani/Khusrau** are wrong authorship traps in other stems.
 
 </details>
-
 
 **Q6. UPPCS Prelims 2022, Q59**
 
@@ -4489,7 +4161,6 @@ D. 1, 2, 3, 4
 **Trap:Gujarat first** — Malik Kafur captured at Cambay before Rajasthan sieges.
 
 </details>
-
 
 **Q7. UPPCS Prelims 2022, Q4**
 
@@ -4520,7 +4191,6 @@ D. 4, 3, 2, 1
 
 </details>
 
-
 **Q8. UPPCS Prelims 2020, Q38**
 
 Match List-I with List-II (Delhi Sultanate administration officers and duties).
@@ -4536,7 +4206,6 @@ Options include: **B. 3-4-1-2** (Diwan-i-Tan→Jagirs/salaries; Mustarfi→audit
 **Trap:Khareetadar** despatches decrees — do not confuse with Vakianvis (firmans list).
 
 </details>
-
 
 **Q9. UPPCS Prelims 2019, Q15**
 
@@ -4557,7 +4226,6 @@ D. Muqti was supported to maintain troops out of the revenue collected from Iqta
 
 </details>
 
-
 **Q10. UPPCS Prelims 2019, Q16**
 
 Which of the following is NOT correctly matched? (Books / Writers)
@@ -4576,7 +4244,6 @@ D. Humayunnama — Gulbadan Begam
 **Trap:** Court presence ≠ authorship — Barani not Battuta.
 
 </details>
-
 
 **Q11. UPPCS Prelims 2018, Q14**
 
@@ -4603,7 +4270,6 @@ D. (A) is false, but (R) is true
 
 </details>
 
-
 **Q12. UPPCS Prelims 2018, Q92**
 
 The term 'chakla' has been used in Medieval Indian administration. It was:
@@ -4624,8 +4290,6 @@ D. A fiscal unit only
 </details>
 
 ### UKPCS Prelims 2025
-
-**Logic:** Agriculture department of Muhammad bin Tughlaq — not Firoz’s public works list.
 
 **Q. UKPCS Prelims 2025, Q57**
 
@@ -5440,7 +5104,6 @@ Options: A. 3-3-2-1 | B. 3-3-1-2 | C. 2-3-3-1 | D. 3-2-3-1
 **Trap:** Mixing **Ghori (1194)** and **Alauddin (1299–1303)** conquest phases.
 
 </details>
-
 
 ## Common Traps — Don't Fall For These
 

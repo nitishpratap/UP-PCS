@@ -101,7 +101,6 @@ Babur | Establishment of the Mughal Empire | Literary Contribution of Babur | Ma
 
 ### PYQ — Baburnama language A/R
 
-
 **1. (UPPCS Prelims 2025, Q3)Assertion (A):** Babur wrote Tuzk-e-Babri in Chagatai Turki.
 
 **Reason (R):** Turki was the official language of the Mughal Court.
@@ -156,8 +155,6 @@ D. Both true, R explains A
 - **Shah Jahan** patronised **court albums** and refined portraiture; architecture painting links to **Taj Mahal** age aesthetics.
 - **Aurangzeb** cut court patronage; artists moved to **Rajput** and **Deccan** courts — decline of imperial atelier, not end of Indian painting.
 
-
-
 | Year | Battle | Winner vs loser | Fact |
 |------|--------|-----------------|------|
 | **1526** | Panipat I | Babur vs Ibrahim Lodi | Empire founded |
@@ -180,7 +177,6 @@ D. Both true, R explains A
 - **UPPCS Prelims 2022 Q103** arranges Aurangzeb’s succession events. The order is Shuja beaten near Banaras, Dharmat, Samugarh, Deorai; the answer is **A**.
 
 ### PYQ — Battle chronology (2025 Q79 / 2019 Q13 / 2022 Q103)
-
 
 **1. (UPPCS Prelims 2025, Q79)** Arrange: 1.Kannauj 2.Daurah 3.Samugarh 4.Chausa
 
@@ -227,7 +223,6 @@ Options: A.2-4-3-1 | B.4-2-1-3 | C.4-2-3-1 | D.2-4-1-3
 
 ### PYQ — Military state A/R
 
-
 **1. (UPPCS Prelims 2021, Q126)Assertion (A):** The Mughal Empire was originally a Military State.
 
 **Reason (R):** The vitality of the development of the Central Government System depended on its military power.
@@ -267,7 +262,6 @@ D. A false, R true
 - **Madad-i-Mash** were revenue grants to religious scholars.
 - **Jahangir** banned **tobacco**; **Akbar** issued **Ram-Siya** coins pairing Ram and Siya names.
 
-
 ---
 
 ## 7.5 Revenue — Zabt & Dahsala
@@ -292,7 +286,6 @@ D. A false, R true
 - Major mints included **Agra, Delhi, and Lahore**, with more added as subahs grew.
 
 ### PYQ — Akbar currency A/R
-
 
 **1. (UPPCS Prelims 2019, Q12)Assertion (A):** Akbar, like Sher Shah, tried to regulate the currency of the state.
 
@@ -350,7 +343,6 @@ D. A false, R true
 - Dara Shikoh wrote *Majma-ul-Bahrain* and translated the Upanishads into Persian as *Sirr-i-Akbar*.
 
 ### PYQ — Buland Darwaza A/R
-
 
 **1. (UPPCS Prelims 2025, Q49)Assertion (A):** Akbar got Buland Darwaza constructed at Fatehpur Sikri.
 
@@ -486,7 +478,6 @@ D. Both true, R explains A
 
 ### PYQ — Emperor tomb match
 
-
 **1. (UPPCS Prelims 2025, Q57)** Match emperor–tomb city: A.Babur B.Humayun C.Jahangir D.Shah Jahan with 1.Agra 2.Lahore 3.Delhi 4.Kabul
 
 Options: A.4-3-2-1 | B.3-4-1-2 | C.3-4-2-1 | D.4-3-1-2
@@ -517,7 +508,6 @@ Options: A.4-3-2-1 | B.3-4-1-2 | C.3-4-2-1 | D.4-3-1-2
 ---
 
 ## Complete PYQ Bank (Topic 7)
-
 
 **Q1. UPPCS Prelims 2025, Q3**
 
@@ -559,7 +549,6 @@ D. Both true, R explains A
 
 </details>
 
-
 **Q3. UPPCS Prelims 2025, Q57**
 
 Match emperor–tomb city: A.Babur B.Humayun C.Jahangir D.Shah Jahan with 1.Agra 2.Lahore 3.Delhi 4.Kabul
@@ -573,7 +562,6 @@ Options: A.4-3-2-1 | B.3-4-1-2 | C.3-4-2-1 | D.4-3-1-2
 **Trap:** Re-read Confused Pairs before eliminating.
 
 </details>
-
 
 **Q4. UPPCS Prelims 2025, Q79**
 
@@ -590,7 +578,6 @@ Options: A.2-4-3-1 | B.4-2-1-3 | C.4-2-3-1 | D.2-4-1-3
 **Trap:** Re-read Confused Pairs before eliminating.
 
 </details>
-
 
 **Q5. UPPCS Prelims 2024, Q4**
 
@@ -614,7 +601,6 @@ D. Only 2
 
 </details>
 
-
 **Q6. UPPCS Prelims 2024, Q132**
 
 Arrange: 1.Murder of Abul Fazl 2.Death of Sheikh Mubarak 3.Death of Faizi 4.Death of Daniyal
@@ -630,7 +616,6 @@ Options: A.2-1-4-3 | B.3-2-1-4 | C.2-3-1-4 | D.2-4-3-1
 **Trap:** Re-read Confused Pairs before eliminating.
 
 </details>
-
 
 **Q7. UPPCS Prelims 2023, Q31**
 
@@ -666,7 +651,6 @@ NOT matched: C. Hamida Banu Begum — Wife of Alauddin Khilji (she was Humayun�
 
 </details>
 
-
 **Q9. UPPCS Prelims 2022, Q103**
 
 Aurangzeb events: 1.Deorai 2.Defeat of Shuja near Banaras 3.Samugarh 4.Victory at Dharmat
@@ -680,7 +664,6 @@ Options: A.2-4-3-1 | B.1-3-4-2 | C.3-4-2-1 | D.4-2-1-3
 **Trap:** Re-read Confused Pairs before eliminating.
 
 </details>
-
 
 **Q10. UPPCS Prelims 2022, Q146**
 
@@ -702,7 +685,6 @@ D. Humayun
 
 </details>
 
-
 **Q11. UPPCS Prelims 2021, Q75**
 
 Travellers arrival: I Hawkins II Ralph Fitch III Roe IV Nicholas Dawnton
@@ -723,7 +705,6 @@ D. III-II-IV-I
 
 </details>
 
-
 **Q12. UPPCS Prelims 2020, Q34**
 
 Ruler of Golkonda when Aurangzeb seized the fort in 1687?
@@ -743,7 +724,6 @@ D. Shayasta Khan
 **Trap:** Re-read Confused Pairs before eliminating.
 
 </details>
-
 
 **Q13. UPPCS Prelims 2020, Q42**
 
@@ -787,7 +767,6 @@ D. A false, R true
 
 </details>
 
-
 **Q15. UPPCS Prelims 2019, Q13**
 
 I Battle of Sarnal II Bilgram III Dharmat IV Jajau
@@ -808,7 +787,6 @@ D. III-I-II-IV
 
 </details>
 
-
 **Q16. UPPCS Prelims 2019, Q91**
 
 I Rabia Daurani’s Tomb Aurangabad II Sher Shah tomb Sasaram III Humayun’s Tomb Delhi IV Atala Mosque Jaunpur
@@ -828,7 +806,6 @@ D. III-IV-II-I
 **Trap:** Re-read Confused Pairs before eliminating.
 
 </details>
-
 
 **Q17. UPPCS Prelims 2019, Q92**
 
@@ -874,12 +851,9 @@ D. A false, R true
 
 ---
 
-
 ## Ghatnachakra Extra Drill — Babur to Aurangzeb (UPPCS first)
 
 Teaching for these stems sits in **7.1–7.13**. UPPCS keys aligned with Ghatnachakra.
-
-**Logic:** Alam Khan was Ibrahim Lodi's uncle and a throne pretender — not Babur's ally in the final push.
 
 **Q1. UPPCS Prelims 2018 / Ghatnachakra pattern**
 
@@ -897,8 +871,6 @@ D. Mahmud Lodi
 
 </details>
 
-**Logic:** Mughals = Chagatai Turks from Chinggis's second son — not generic "Mongol" or Ottoman.
-
 **Q2. UPPCS RO / Ghatnachakra standard**
 
 The Mughals belonged to which Turkic lineage?
@@ -914,8 +886,6 @@ D. Ghaznavid Turks
 **Ans: B.** Babur's house was **Chagatai** Turk — from the branch of **Chinggis Khan's second son**. Timurid descent is separate but the Mughal self-image in India is Chagatai Turk.
 
 </details>
-
-**Logic:** Sar-e-Pul (1501) = Shaybani Khan beat Babur with **Tulughma** — before Kabul became his base.
 
 **Q3. UPPCS / Ghatnachakra**
 
@@ -933,8 +903,6 @@ D. Ghagra (1529)
 
 </details>
 
-**Logic:** Panipat I year = **1526**; do not pick 1527 (Khanwa) or 1556 (Panipat II).
-
 **Q4. UPPCS Prelims 2019 / recurring**
 
 The First Battle of Panipat was fought in:
@@ -950,8 +918,6 @@ D. 1556
 **Ans: B.** **First Panipat = 1526** (21 April GC / 20 April in many texts). **1556** is Panipat II (Akbar–Hemu).
 
 </details>
-
-**Logic:** Khanwa = **jihad** framing + **Ghazi** title after wine-cup oath — not a plain territorial skirmish.
 
 **Q5. UPPCS / Ghatnachakra**
 
@@ -969,8 +935,6 @@ D. Ghagra (1529)
 
 </details>
 
-**Logic:** **Padshah** at **Kabul (1504)** when Babur dropped **Mirza**; Indian empire declared after Panipat (**27 April 1526**).
-
 **Q6. UPPCS / Ghatnachakra**
 
 Babur first assumed the title **Padshah** at:
@@ -987,8 +951,6 @@ D. Agra after Khanwa (1527)
 
 </details>
 
-**Logic:** Early Babur empire = Kabul + Punjab + modern UP belt — **not Rajasthan**.
-
 **Q7. UPPCS / Ghatnachakra**
 
 Which region was **not** part of Babur's Indian empire at his death?
@@ -1004,8 +966,6 @@ D. Kabul
 **Ans: C.** Babur held **Kabul**, **Punjab**, and the **Delhi–Agra/UP** core. **Rajasthan** remained outside until later Mughal campaigns.
 
 </details>
-
-**Logic:** Baburnama language = **Chagatai Turki**; court = Persian — same trap as 2025 Q3.
 
 **Q8. UPPCS Prelims 2025, Q3 (Ghatnachakra repeat)**
 
@@ -1024,8 +984,6 @@ D. Both true, R explains A
 
 </details>
 
-**Logic:** Baburnama mentions **Vijayanagara** and **Mewar** as Hindu states Babur knew from report — not as conquered provinces.
-
 **Q9. UPPCS / Ghatnachakra**
 
 Which Hindu states does Babur mention in the **Baburnama**?
@@ -1041,8 +999,6 @@ D. None — he ignored the south
 **Ans: B.** Babur's memoir notes **Vijayanagara** and **Mewar** among Indian Hindu powers he heard about. That does not mean he ruled them.
 
 </details>
-
-**Logic:** Field artillery first used in India at **Panipat I** — gunners **Ustad Ali Quli** and **Mustafa** (Ottoman/Rumi style).
 
 **Q10. UPPCS / Ghatnachakra**
 
@@ -1060,8 +1016,6 @@ D. Second Battle of Panipat (1556)
 
 </details>
 
-**Logic:** Chanderi = **1528**, not 1530 (Babur died 1530).
-
 **Q11. UPPCS / Ghatnachakra trap**
 
 The Battle of Chanderi was fought in:
@@ -1077,8 +1031,6 @@ D. 1539
 **Ans: B.** **Chanderi (1528)** against **Medini Rai** sits between Khanwa (**1527**) and Ghagra (**1529**). **1530** is Babur's death year, not Chanderi.
 
 </details>
-
-**Logic:** Bairam Khan — Ghatnachakra UPPCS 2024 Q4 key **C (Only 1)**: Akbar gave **Khan-i-Khanan**; statement 2 is false.
 
 **Q12. UPPCS Prelims 2024, Q4**
 
@@ -1096,8 +1048,6 @@ D. Only 2
 
 </details>
 
-**Logic:** Death order Ghatnachakra key **C (2-3-1-4)** — Mubarak **1593** before Faizi **1595**.
-
 **Q13. UPPCS Prelims 2024, Q132**
 
 Arrange: 1.Murder of Abul Fazl 2.Death of Sheikh Mubarak 3.Death of Faizi 4.Death of Daniyal
@@ -1113,8 +1063,6 @@ D. 2-4-3-1
 **Ans: C (2-3-1-4).** **Sheikh Mubarak (1593)** → **Faizi (1595)** → **Abul Fazl murdered (1602)** → **Daniyal (1605)**.
 
 </details>
-
-**Logic:** Akbar born **Amarkot 15 Oct 1542**; crowned **Kalanaur 14 Feb 1556** — not Delhi coronation.
 
 **Q14. UPPCS / Ghatnachakra**
 
@@ -1132,8 +1080,6 @@ D. Agra Fort, 1555
 
 </details>
 
-**Logic:** First Rajput marriage **1562** — **Kachhwaha/Amber**, **Bharmal**, **Harkha**; **Salim** born of this wedlock.
-
 **Q15. UPPCS / Ghatnachakra**
 
 Akbar's first Rajput alliance marriage (1562) was with:
@@ -1149,8 +1095,6 @@ D. Bundela
 **Ans: B.** **1562** marriage to **Harkha/Jodha Bai** of **Amber (Kachhwaha)** under **Raja Bharmal**. **Salim (Jahangir)** was born of this union.
 
 </details>
-
-**Logic:** **Hakim Khan Sur** led Afghan contingent in **Rana Pratap's** army at Haldighati — not Man Singh.
 
 **Q16. UPPCS / Ghatnachakra**
 
@@ -1168,8 +1112,6 @@ D. Todar Mal
 
 </details>
 
-**Logic:** Akbar chronology — Malwa **1561** before Amber **1562**; Karrani Orissa **1568**; Tukaroi **1575**.
-
 **Q17. UPPCS / Ghatnachakra chronology**
 
 Which is the correct ascending order?
@@ -1185,8 +1127,6 @@ D. Orissa → Tukaroi → Malwa → Amber
 **Ans: B.** **Malwa invasion (1561)** → **Amber marriage (1562)** → **Karrani Bengal/Orissa (1568)** → **Tukaroi (1575)** before full Bengal annexation.
 
 </details>
-
-**Logic:** **Din-i-Ilahi (1582)** — only **Birbal** among famous Hindus in the tiny circle.
 
 **Q18. UPPCS / Ghatnachakra**
 
@@ -1204,8 +1144,6 @@ D. Tansen
 
 </details>
 
-**Logic:** Jahangir — **Treaty of Chittor 1615** with Amar Singh; **Hawkins** "English Khan" spoke Turkish (1608).
-
 **Q19. UPPCS Prelims 2023, Q31 (Ghatnachakra repeat)**
 
 Hawkins: 1. Came to India in 1611 as envoy of James I 2. Very well versed in Turkish
@@ -1221,8 +1159,6 @@ D. Neither
 **Ans: B (Only 2).** Hawkins reached India in **1608**, not 1611. He spoke **Turkish** well and was called **"English Khan"** at Jahangir's court.
 
 </details>
-
-**Logic:** Aurangzeb — **Purandar 1665** with **Jai Singh**; Bijapur **1686**; Golconda **1687** (**Abul Hasan Qutb Shah**).
 
 **Q20. UPPCS Prelims 2020, Q34 (Ghatnachakra repeat)**
 
@@ -1241,8 +1177,6 @@ D. Shayasta Khan
 </details>
 
 ### Other papers (Ghatnachakra Extra)
-
-**Logic:** Among "reasons for Babur's arrival" statements, only **Timurid hereditary claim** is standard — not Ottoman invitation or Vijayanagara request.
 
 **Q21. IAS / Ghatnachakra**
 
@@ -1264,8 +1198,6 @@ D. 1, 2 and 3
 
 </details>
 
-**Logic:** UKPCS 2024 battle chronology — Panipat → Khanwa → Chanderi → Ghagra.
-
 **Q22. UKPCS Prelims 2024 / Ghatnachakra**
 
 Arrange chronologically: I. Panipat I  II. Khanwa  III. Ghagra  IV. Chanderi
@@ -1286,8 +1218,6 @@ D. I, IV, II, III
 
 ## UKPCS — Mughal stems
 
-**Logic:** Kalanaur coronation is the UKPCS favourite Akbar-accession fact.
-
 **Q1. UKPCS / Ghatnachakra pattern**
 
 Where was Akbar crowned in 1556?
@@ -1303,8 +1233,6 @@ D. Fatehpur Sikri
 **Ans: B.** **Kalanaur (Gurdaspur), 14 February 1556** — minor Akbar's coronation after Humayun's death.
 
 </details>
-
-**Logic:** Haldighati year — **18 June 1576** (UKPCS 2010 pattern).
 
 **Q2. UKPCS Prelims 2010 / standard**
 
@@ -1322,8 +1250,6 @@ D. 1605
 
 </details>
 
-**Logic:** UKPCS 2025 Q59 — same Panipat–Khanwa–Chanderi–Ghagra order as Extra Q22.
-
 **Q3. UKPCS Prelims 2025, Q59**
 
 Arrange: I. Panipat I  II. Khanwa  III. Ghagra  IV. Chanderi
@@ -1339,8 +1265,6 @@ D. I, III, IV, II
 **Ans: C.** **1526 → 1527 → 1528 → 1529**; Ghagra last, not before Chanderi.
 
 </details>
-
-**Logic:** Basawan belongs to Akbar's atelier — that makes the all-four option wrong.
 
 **Q4. UKPCS Prelims 2025, Q60**
 

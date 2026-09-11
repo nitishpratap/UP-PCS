@@ -79,8 +79,6 @@
 
 ## Practice Zone
 
-**Logic:** Capital identification.
-
 **Q1.** Kartikeyapura of the Katyuri age is identified with:
 
 A. Champawat  
@@ -94,8 +92,6 @@ D. Kashipur
 **Ans: B.** Kartikeyapura is identified with Baijnath in Bageshwar district.
 
 </details>
-
-**Logic:** Succession after fragmentation.
 
 **Q2.** Which dynasty rose in Kumaon as the main successor after Katyuri fragmentation?
 

@@ -116,7 +116,6 @@ Maratha Empire | Shivaji | Administrative Structure of Shivaji | Peshwas | Peshw
 **Course:** Jai Singh besieged **Purandar**. Shivaji negotiated the **Treaty of Purandar**. He surrendered **23 forts** and accepted Mughal alliance terms; **Sambhaji** went as hostage for a time.
 **Result:** Shivaji kept core forts and later recovered strength. The **Agra detention (1666)** and **Rajyabhishek (1674)** follow this pause.
 
-
 - **Shaista Khan** was raided in **Pune in 1663**.
 - **Treaty of Purandar (1665)** was made with **Raja Jai Singh I**.
 - Shivaji surrendered **23 forts** at Purandar.
@@ -147,8 +146,6 @@ Maratha Empire | Shivaji | Administrative Structure of Shivaji | Peshwas | Peshw
 - **Nyayadhish** — chief justice.
 - **Panditrao** — religious affairs and charity.
 - **Deshmukhs** were **Bijapur feudal chiefs** in the countryside. They opposed Shivaji because they wanted to remain **jagirdars**, not subjects of an independent Maratha state.
-
-
 
 **1. (UPPCS Prelims 2024, Q18)Assertion (A):** Shivaji had to face opposition from the big **Deshmukhs**.
 
@@ -265,7 +262,6 @@ D. A true, R false
 
 ## Complete PYQ Bank (Topic 11)
 
-
 **Q1. UPPCS Prelims 2018, Q93**
 
 The Maratha claim of revenue for protection is known by what name?
@@ -285,7 +281,6 @@ D. Jamadani
 **Trap:Sardeshmukhi** is extra **10%** deshmukh claim — not the protection-quarter name.
 
 </details>
-
 
 **Q2. UPPCS Prelims 2023, Q35**
 
@@ -307,7 +302,6 @@ D. I, II, IV, III
 
 </details>
 
-
 **Q3. UPPCS Prelims 2024, Q1**
 
 Arrange: 1. Raghunath Rao (Raghoba) 2. Balaji Baji Rao 3. Narayan Rao 4. Balaji Vishwanath
@@ -327,7 +321,6 @@ D. 1, 3, 2, 4
 **Trap:Raghoba** comes **after Narayan**, not before Balaji Baji Rao.
 
 </details>
-
 
 **Q4. UPPCS Prelims 2024, Q18**
 
@@ -351,7 +344,6 @@ D. A true, R false
 **Why R explains A:** Feudal self-interest **caused** their opposition.
 
 </details>
-
 
 **Q5. UPPCS Prelims 2025, Q149**
 
@@ -379,8 +371,6 @@ D. 1, 3, 4, 2
 
 Teaching for these stems sits in **11.1–11.6**.
 
-**Logic:** Rise of Marathas = geography + social unity + leadership (all of these).
-
 **Q1. UPPCS (Pre) 1992**
 
 Correct reasons for Maratha rise include religious consciousness, geographical security, political awakening, high leadership quality.
@@ -399,8 +389,6 @@ D. All of the above
 **Ans: D (all).** Unity of people, Maharashtra’s terrain, and leaders such as **Shivaji** all matter.
 
 </details>
-
-**Logic:** Salher = Shivaji vs Mughals (not Purandar treaty fight).
 
 **Q2. UPPCS (Mains) 2005**
 
@@ -421,8 +409,6 @@ D. Shivner
 
 </details>
 
-**Logic:** Birth + Chhatrapati title year pair.
-
 **Q3. UPPCS (Mains) 2015**
 
 When was Shivaji born and when did he assume the title of Chhatrapati?
@@ -441,8 +427,6 @@ D. 1627, 1674
 **Ans: D.** Birth often given as **1627/1630**; coronation title **Chhatrapati** in **1674** at **Raigad**.
 
 </details>
-
-**Logic:** Bijapur’s commander in 1659 = Afzal Khan.
 
 **Q4. UPPCS (Pre) 1999**
 
@@ -463,8 +447,6 @@ D. Sayyid Banda
 
 </details>
 
-**Logic:** Escape from Mughal custody = Agra.
-
 **Q5. MPPCS (Pre) 2005**
 
 In which city was Shivaji in captivity when he escaped from the Mughals?
@@ -483,8 +465,6 @@ D. Kanpur
 **Ans: B.** Imprisoned at **Agra** (**1666**); escaped from **Jaipur Bhawan** narrative.
 
 </details>
-
-**Logic:** Capital / coronation place = Raigad.
 
 **Q6. UPPCS (Pre) 1990 / BPSC / UPPCS (Mains) 2016**
 
@@ -505,8 +485,6 @@ D. Kolhapur
 
 </details>
 
-**Logic:** Coronation site and year pair with Raigad and Gaga Bhatt.
-
 **Q7. UPPCS (Pre) 1990 / BPSC / UPPCS (Mains) 2016**
 
 Where was Shivaji formally crowned Chhatrapati in 1674?
@@ -525,8 +503,6 @@ D. Tanjore
 **Ans: B.** Shivaji was crowned **Chhatrapati** at **Raigad** in **1674**; **Gaga Bhatt** of Banaras performed the rite.
 
 </details>
-
-**Logic:** Guru of Shivaji = Samarth Ramdas (not Gaga Bhatt).
 
 **Q8. MPPCS (Pre) 2016**
 
@@ -547,8 +523,6 @@ D. Gaga Bhatt
 
 </details>
 
-**Logic:** Chronology of early events (Chakan → Mughal clash → Afzal → Surat).
-
 **Q9. UP R.O./A.R.O. (Mains) 2016**
 
 Arrange: I Fort of Chakan II Afzal Khan III Start of clash with Mughals IV Sack of Surat
@@ -567,8 +541,6 @@ D. II, III, I, IV
 **Ans: A.** **Chakan ~1648** → **Mughal clash ~1657** → **Afzal Khan 1659** → **Surat 1664**.
 
 </details>
-
-**Logic:** Ashtapradhan = Maratha polity under Shivaji — not Gupta, Chola, or Vijayanagara.
 
 **Q10. IAS / UPPCS / BPSC cluster**
 
@@ -589,8 +561,6 @@ D. Maratha state (Shivaji)
 
 </details>
 
-**Logic:** Shivaji established the eight-minister Ashtapradhan — not a Mughal or Sultanate institution.
-
 **Q11. IAS / UPPCS / BPSC cluster**
 
 Who established the Ashtapradhan council of ministers?
@@ -609,8 +579,6 @@ D. Shivaji
 **Ans: D.** **Shivaji** created the **Ashtapradhan** — eight ministers advising on revenue, military, foreign affairs, and other departments.
 
 </details>
-
-**Logic:** Sumant / Dabir = foreign affairs; Sarnobat / Senapati = military — do not swap with Peshwa or Sachiv.
 
 **Q12. IAS / UPPCS / BPSC cluster**
 
@@ -631,8 +599,6 @@ D. Sumant (Dabir)
 
 </details>
 
-**Logic:** A/R — Ashtapradhan advice true; independent charge false.
-
 **Q13. UPPCS (Pre) 1997**
 
 A: In matters of State Shivaji was advised by a Council of Ministers. R: Each minister held independent charge of his department.
@@ -643,8 +609,6 @@ A: In matters of State Shivaji was advised by a Council of Ministers. R: Each mi
 **Ans: C (A true, R false).** Ministers headed departments but acted under Shivaji’s orders; they were not an independent cabinet.
 
 </details>
-
-**Logic:** Silver coins — Ruka is not Shivaji’s silver coin.
 
 **Q14. UP R.O./A.R.O. (Mains) 2016**
 
@@ -665,8 +629,6 @@ D. Ruka
 
 </details>
 
-**Logic:** After Sambhaji, administration streamlined by Balaji Vishwanath.
-
 **Q15. IAS (Pre) 2000**
 
 Who streamlined Maratha administration after Sambhaji?
@@ -686,8 +648,6 @@ D. Nanaji Deshmukh
 
 </details>
 
-**Logic:** Chhatrapati order Sambhaji → Rajaram → Shivaji II → Shahu.
-
 **Q16. UPPCS (Mains) 2005**
 
 Arrange: 1 Shahuji 2 Rajaram 3 Sambhaji 4 Shivaji-II
@@ -698,8 +658,6 @@ Arrange: 1 Shahuji 2 Rajaram 3 Sambhaji 4 Shivaji-II
 **Ans: 3, 2, 4, 1.** **Sambhaji → Rajaram → Shivaji II → Shahu**.
 
 </details>
-
-**Logic:** King becomes non-entity from Balaji Bajirao / Sangola era.
 
 **Q17. UPPCS (Mains) 2007 / UPPCS (Pre) 1997 A/R**
 
@@ -720,8 +678,6 @@ D. Madhavrao I
 
 </details>
 
-**Logic:** At Aurangzeb’s death (1707) Tarabai held regency for Shivaji II.
-
 **Q18. UPPCS (Pre) 2012 / Spl Pre 2008**
 
 At Aurangzeb’s death, Maratha leadership was with whom?
@@ -740,8 +696,6 @@ D. Tarabai
 **Ans: D.** **Tarabai** acted as regent for **Shivaji II** and led the Maratha resistance after **1700**, including the period around **Aurangzeb’s death (1707)**.
 
 </details>
-
-**Logic:** Tarabai led the Maratha struggle from 1700 — not Ahilya Bai (later Indore) or Jijabai (Shivaji’s mother).
 
 **Q19. UPPCS (Pre) 2012 / Spl Pre 2008**
 
@@ -762,8 +716,6 @@ D. Tarabai
 
 </details>
 
-**Logic:** Saranzami = Maratha land revenue / jagirdar livelihood.
-
 **Q20. BPSC (Pre) 1994**
 
 Saranzami system was related to:
@@ -782,8 +734,6 @@ D. None of the above
 **Ans: A.** Land for livelihood of Maratha jagirdars.
 
 </details>
-
-**Logic:** Protection revenue name = Chauth (not Sardeshmukhi alone).
 
 **Q21. UPPCS (Pre) 2018**
 
@@ -804,8 +754,6 @@ D. Jamadani
 
 </details>
 
-**Logic:** Third Panipat immediate cause = Abdali avenging Timur Shah’s expulsion from Lahore.
-
 **Q22. IAS 2010 / Chhattisgarh / UPPCS cluster**
 
 What was the immediate reason Ahmad Shah Abdali fought the Third Battle of Panipat?
@@ -824,8 +772,6 @@ D. To punish the Rohillas for siding with the Marathas
 **Ans: B.** Abdali marched to **avenge the expulsion of Timur Shah** (his son and viceroy) from **Lahore**, which triggered the **1761** campaign.
 
 </details>
-
-**Logic:** Kashiraj Pandit wrote an eyewitness account of Third Panipat.
 
 **Q23. IAS 2010 / Chhattisgarh / UPPCS cluster**
 
@@ -846,8 +792,6 @@ D. Tavernier
 
 </details>
 
-**Logic:** Third Panipat opponents = Marathas vs Ahmad Shah Abdali’s Afghans.
-
 **Q24. IAS 2010 / Chhattisgarh / UPPCS cluster**
 
 Who were the main opponents at the Third Battle of Panipat?
@@ -866,8 +810,6 @@ D. Rajputs and Nizam of Hyderabad
 **Ans: B.** **Marathas** under **Sadashivrao Bhau** and **Vishwasrao** faced **Ahmad Shah Abdali** and his **Afghan** coalition.
 
 </details>
-
-**Logic:** Third Panipat date = 14 January 1761 — not 1757 or 1764.
 
 **Q25. IAS 2010 / Chhattisgarh / UPPCS cluster**
 
@@ -888,8 +830,6 @@ D. 22 January 1764
 
 </details>
 
-**Logic:** Abdali’s Delhi agent = Najib Khan.
-
 **Q26. UPPCS (Mains) 2006**
 
 Which Rohilla chief was the confidant of Ahmad Shah Abdali?
@@ -908,8 +848,6 @@ D. Hafiz Rahmat Khan
 **Ans: B.** **Najib-ud-Daulah (Najib Khan)** as Mir Bakshi / chief agent.
 
 </details>
-
-**Logic:** Modi script = Marathas.
 
 **Q27. IAS (Pre) 1995**
 
@@ -930,8 +868,6 @@ D. Marathas
 
 </details>
 
-**Logic:** A/R — Marathas strongest after Mughals true; clear concept of United Indian Nation false.
-
 **Q28. UP R.O./A.R.O. (Mains) 2016**
 
 A: Marathas emerged as the strongest native power after Mughal decline. R: Marathas were the first rulers with a clear concept of United Indian Nation.
@@ -942,7 +878,6 @@ A: Marathas emerged as the strongest native power after Mughal decline. R: Marat
 **Ans: C (A true, R false).** Maratha strength is true; a pan-Indian nation concept is a standard criticism they lacked.
 
 </details>
-
 
 ## Practice Zone — UPPCS Format Drill
 
@@ -961,7 +896,6 @@ D. Jamadani
 <details><summary>Show answer</summary>
 
 **Ans: BWhy:** The correct fact is **Chauth**.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -1002,7 +936,6 @@ D. I-II-IV-III
 <details><summary>Show answer</summary>
 
 **Ans: DWhy:** Matches the core teaching fact for this topic.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -1062,7 +995,6 @@ D. Sikh initiation
 
 **Ans: BWhy:** The correct fact is **25% protection levy**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -1080,7 +1012,6 @@ D. Panipat commander
 <details><summary>Show answer</summary>
 
 **Ans: BWhy:** The correct fact is **Extra 10% deshmukh claim**.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -1100,7 +1031,6 @@ D. Agra 1666
 
 **Ans: BWhy:** The correct fact is **Raigad 1674**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -1119,7 +1049,6 @@ D. Pandit Rao
 
 **Ans: BWhy:** The correct fact is **Sumant**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -1137,7 +1066,6 @@ D. Navy only
 <details><summary>Show answer</summary>
 
 **Ans: BWhy:** The correct fact is **Finance**.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -1175,7 +1103,6 @@ D. 1761 Marathas
 
 **Ans: CWhy:** The correct fact is **1761 Abdali**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -1193,7 +1120,6 @@ D. Sambhaji
 <details><summary>Show answer</summary>
 
 **Ans: BWhy:** The correct fact is **Sadashiv Rao Bhau**.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -1231,7 +1157,6 @@ D. Nizam of Hyderabad
 
 **Ans: BWhy:** The correct fact is **Raja Jai Singh I**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -1249,7 +1174,6 @@ D. Palkhed 1728
 <details><summary>Show answer</summary>
 
 **Ans: BWhy:** The correct fact is **Pratapgad 1659**.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -1269,7 +1193,6 @@ D. Baroda
 
 **Ans: BWhy:** The correct fact is **Gwalior**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -1287,7 +1210,6 @@ D. Raigad
 <details><summary>Show answer</summary>
 
 **Ans: BWhy:** The correct fact is **Indore**.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -1325,7 +1247,6 @@ D. 1761–72
 
 **Ans: BWhy:** The correct fact is **1720–40**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -1344,7 +1265,6 @@ D. Raghoba vs British
 
 **Ans: BWhy:** The correct fact is **Bajirao I vs Nizam**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -1362,7 +1282,6 @@ D. Panipat
 <details><summary>Show answer</summary>
 
 **Ans: BWhy:** The correct fact is **Shivneri**.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -1399,7 +1318,6 @@ D. Afzal Khan
 <details><summary>Show answer</summary>
 
 **Ans: BWhy:** The correct fact is **Balaji Vishwanath / Shahu–Mughals**.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -1455,7 +1373,6 @@ D. Only in the Doab
 
 **Ans: BWhy:** The correct fact is **False**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -1473,7 +1390,6 @@ D. Indore
 <details><summary>Show answer</summary>
 
 **Ans: AWhy:** The correct fact is **Baroda**.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -1493,7 +1409,6 @@ D. 1674 coronation
 
 **Ans: BWhy:** The correct fact is **1707 after Aurangzeb**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -1512,7 +1427,6 @@ D. Palkhed
 
 **Ans: BWhy:** The correct fact is **Purandar**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -1530,7 +1444,6 @@ D. Raghoba
 <details><summary>Show answer</summary>
 
 **Ans: BWhy:** The correct fact is **Nana Saheb (Peshwa)**.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -1568,7 +1481,6 @@ D. Palkhed 1728
 
 **Ans: BWhy:** The correct fact is **Panipat 1761**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -1604,7 +1516,6 @@ D. Gwalior
 <details><summary>Show answer</summary>
 
 **Ans: BWhy:** The correct fact is **Sindhudurg**.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -1642,7 +1553,6 @@ D. Baroda
 
 **Ans: BWhy:** The correct fact is **Nagpur**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -1660,7 +1570,6 @@ D. Only after 1761
 <details><summary>Show answer</summary>
 
 **Ans: BWhy:** The correct fact is **False**.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 

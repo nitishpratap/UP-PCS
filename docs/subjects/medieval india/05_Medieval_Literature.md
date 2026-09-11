@@ -82,7 +82,6 @@ Medieval Literature | Medieval Books and Their Authors | Delhi Sultanate Literat
 
 ### PYQ — Baburnama vs court Persian A/R
 
-
 **1. (UPPCS Prelims 2025, Q3)Assertion (A):** Babur wrote Tuzk-e-Babri in Chagatai Turki.
 
 **Reason (R):** Turki was the official language of the Mughal Court.
@@ -182,7 +181,6 @@ D. Both true, R explains A
 
 ### PYQ — Book↔author NOT matched
 
-
 **1. (UPPCS Prelims 2019, Q16)** Which of the following is **NOT** correctly matched?
 
 A. Tabaqat-i-Nasiri — Minhaj-us-Siraj Juzjani |
@@ -237,7 +235,6 @@ D. Humayunnama — Gulbadan Begum
 - Khusrau was **not Mughal**: he is not Tansen (Akbar's court), and he did not translate **Tutinama** (that was **Nakhshabi**, 2022 Q43).
 
 ### PYQ — Vernacular match + Tutinama
-
 
 **1. (UPPCS Prelims 2019, Q88)** Match List-I (Author) with List-II (Work):
 
@@ -352,7 +349,6 @@ D. Amir Khusrau
 
 ### PYQ — Abul Fazl family deaths
 
-
 **1. (UPPCS Prelims 2024, Q132)** Arrange in chronological order:
 
 1. Murder of Abul Fazl |
@@ -417,7 +413,6 @@ A. 2-1-4-3 | B. 3-2-1-4 | C. 2-3-1-4 | D. 2-4-3-1
 > ** note:** Correct code = **A (4-2-1-3)** in **2023 Q33**: Mirat–Gujarat | Burhan–Ahmadnagar | Salatin–Bengal | Insha–Gawan.
 
 ### PYQ — Regional chronicle match
-
 
 **1. (UPPCS Prelims 2023, Q33)** Match List-I (Book) with List-II (Context):
 
@@ -543,7 +538,6 @@ D. 4 2 3 1
 
 ## Complete PYQ Bank (Topic 5)
 
-
 **Q1. UPPCS Prelims 2019, Q16**
 
 Which is NOT correctly matched? A. Tabaqat-i-Nasiri — Minhaj-us-Siraj Juzjani | B. Tarikh-i-Firozshahi — Shams-i-Siruj-Alif | C. Tughlaqnama — Ibn Battuta | D. Humayunnama — Gulbadan Begum
@@ -555,7 +549,6 @@ Which is NOT correctly matched? A. Tabaqat-i-Nasiri — Minhaj-us-Siraj Juzjani 
 **Trap:** Battuta was at Tughlaq's court but did not write Tughlaqnama.
 
 </details>
-
 
 **Q2. UPPCS Prelims 2019, Q88**
 
@@ -571,7 +564,6 @@ Options: A.1-3-2-4 | B.1-3-4-2 | C.2-4-1-3 | D.1-2-3-4
 
 </details>
 
-
 **Q3. UPPCS Prelims 2024, Q132**
 
 Arrange: 1.Murder of Abul Fazl 2.Death of Sheikh Mubarak 3.Death of Faizi 4.Death of Daniyal
@@ -585,7 +577,6 @@ Options: A.2-1-4-3 | B.3-2-1-4 | C.2-3-1-4 | D.2-4-3-1
 **Trap:** Abul Fazl's **murder** comes after both Faizi and Mubarak.
 
 </details>
-
 
 **Q4. UPPCS Prelims 2025, Q3**
 
@@ -609,7 +600,6 @@ D. Both true, R explains A
 
 </details>
 
-
 **Q5. UPPCS Prelims 2025, Q12 (literature overlap)**
 
 Amir Khusrau → Nizamuddin Auliya (guru code 3) in disciple-guru match.
@@ -623,7 +613,6 @@ Amir Khusrau → Nizamuddin Auliya (guru code 3) in disciple-guru match.
 **Trap:** Do not pair Khusrau with Ramananda or Vallabhacharya.
 
 </details>
-
 
 **Q6. UPPCS Prelims 2022, Q43**
 
@@ -645,7 +634,6 @@ D. Amir Khusro
 
 </details>
 
-
 **Q7. UPPCS Prelims 2023, Q33**
 
 Match: A.Mirat-e-Sikandari B.Burhan-e-Masir C.Riyaz-us-Salatin D.Riyaz-ul-Insha with 1.Bengal 2.Ahmadnagar 3.Gawan's letters 4.Gujarat victory
@@ -661,8 +649,6 @@ Options: A.4-2-1-3 | B.2-4-1-3 | C.1-2-4-3 | D.4-2-3-1
 </details>
 
 ### UKPCS Prelims 2025
-
-**Logic:** All four titles belong to Amir Khusrau — a partial option is the trap.
 
 **Q. UKPCS Prelims 2025, Q56**
 

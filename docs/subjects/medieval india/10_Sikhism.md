@@ -142,7 +142,6 @@ A. 3 2 4 1 | B. 3 2 1 4 | C. 2 3 4 1 | D. 2 3 1 4
 | 9 | **Tegh Bahadur** | 1665–1675 | Martyred **1675** under **Aurangzeb** |
 | 10 | **Gobind Singh** | 1675–1708 | **Khalsa 1699**; Granth eternal |
 
-
 - **Guru Nanak** appointed **Bhai Lehna** as successor; Lehna became **Guru Angad**.
 - Nanak’s son **Sri Chand** did **not** become Guru.
 - **Guru Angad** is remembered as the progenitor of the **Gurmukhi** script.
@@ -250,8 +249,6 @@ A. 3 2 4 1 | B. 3 2 1 4 | C. 2 3 4 1 | D. 2 3 1 4
 **Course:** Allied hill chiefs attacked the Guru's forces near **Bhangani**. The Guru's Sikhs and allies defeated the hill coalition.
 **Result:** Sikh military credibility rose before the formal **Khalsa** institution and later Mughal conflict.
 
-
-
 **10th Guru** | **1675–1708** | Born **Gobind Rai**, son of Tegh Bahadur
 
 - He was born in **1666 at Patna** (Bihar).
@@ -274,7 +271,6 @@ A. 3 2 4 1 | B. 3 2 1 4 | C. 2 3 4 1 | D. 2 3 1 4
 ---
 
 ## Complete PYQ Bank (Topic 10)
-
 
 **Q1. UPPCS Prelims 2025, Q12**
 
@@ -306,7 +302,6 @@ D. 2 3 1 4
 
 </details>
 
-
 **Q2. UPPCS Prelims 2025, Q74**
 
 Arrange: 1. Guru Nanak 2. Chaitanya Mahaprabhu 3. Namdev 4. Kabir
@@ -326,7 +321,6 @@ D. 4, 3, 2, 1
 **Trap:** Nanak belongs **after** Namdev and Kabir in the Bhakti timeline.
 
 </details>
-
 
 **Q3. UPPCS Prelims 2021, Q67**
 
@@ -355,8 +349,6 @@ D. Multan
 
 Teaching for these stems sits in **10.1–10.6**.
 
-**Logic:** Nanak’s successor is Lehna, who took the name Guru Angad — not a blood son.
-
 **Q1. MPPCS (Pre) 2015 / UP R.O./A.R.O. (Pre) 2021**
 
 Who did Guru Nanak appoint as his spiritual successor?
@@ -378,8 +370,6 @@ D. Guru Angad
 
 </details>
 
-**Logic:** Before taking the title Angad, Nanak’s chosen successor was known as Bhai Lehna.
-
 **Q2. MPPCS (Pre) 2015 / UP R.O./A.R.O. (Pre) 2021**
 
 Before becoming Guru Angad, Nanak’s declared successor was known by which name?
@@ -398,8 +388,6 @@ D. Bala
 **Ans: B.** **Bhai Lehna** was Nanak’s chosen disciple; he received the name **Angad** on succession. **Sri Chand** was Nanak’s son but not the Guru.
 
 </details>
-
-**Logic:** Gurmukhi = second Guru Angad.
 
 **Q3. UPPCS (Mains) 2017**
 
@@ -420,8 +408,6 @@ D. Guru Angad
 
 </details>
 
-**Logic:** Amritsar settlement = Ram Das on Akbar’s grant via Bibi Bhani.
-
 **Q4. UPPCS (Pre) 1996**
 
 Amritsar was established by which Sikh Guru?
@@ -440,8 +426,6 @@ D. Guru Ramdas
 **Ans: D.** **Guru Ram Das** founded **Ramdaspur**, which became **Amritsar** around the pool he excavated.
 
 </details>
-
-**Logic:** Akbar’s 500-bigha grant went to Bibi Bhani, wife of Guru Ram Das — same Ramdas key.
 
 **Q5. UPPCS (Pre) 1996**
 
@@ -462,8 +446,6 @@ D. Guru Hargobind
 
 </details>
 
-**Logic:** Correct Guru–work pair is Arjan → Adi Granth (not Amar Das–Miri/Piri, not Gobind–Manji).
-
 **Q6. IAS (Pre) 1996**
 
 Which pair is correctly matched?
@@ -482,8 +464,6 @@ D. Guru Gobind Singh – Manji
 **Ans: B.** **Arjan Dev** compiled the **Adi Granth** (1604). **Miri–Piri** = **Hargobind**. **Manji** = **Amar Das**. **Dal Khalsa** is later (Kapur Singh tradition), not Ram Das.
 
 </details>
-
-**Logic:** Khusrau help → Arjan under Jahangir.
 
 **Q7. UP UDA/LDA (Pre) 2001**
 
@@ -504,8 +484,6 @@ D. Guru Tegh Bahadur
 
 </details>
 
-**Logic:** Death sentences = Arjan (Jahangir) + Tegh Bahadur (Aurangzeb).
-
 **Q8. UP UDA/LDA (Pre) 2002 / Chhattisgarh PCS**
 
 Which pair of Sikh Gurus were executed on the orders of Mughal emperors?
@@ -524,8 +502,6 @@ D. Guru Hargobind and Guru Tegh Bahadur
 **Ans: B.** **Guru Arjan Dev** was executed under **Jahangir** (**1606**). **Guru Tegh Bahadur** was executed under **Aurangzeb** at Delhi (**1675**).
 
 </details>
-
-**Logic:** Aurangzeb alone ordered Tegh Bahadur’s execution — the second half of the old dual stem.
 
 **Q9. UP UDA/LDA (Pre) 2002 / Chhattisgarh PCS**
 
@@ -546,8 +522,6 @@ D. Guru Gobind Singh
 
 </details>
 
-**Logic:** Birthplace of the tenth Guru.
-
 **Q10. BPSC (Pre) 2015**
 
 Which Sikh Guru was born in Patna?
@@ -566,8 +540,6 @@ D. Gobind Singh
 **Ans: D.** **Guru Gobind Singh** was born at **Patna** in **1666**.
 
 </details>
-
-**Logic:** Nanded sacred because of Gobind Singh’s mausoleum / Hazur Sahib.
 
 **Q11. UP Lower Sub. (Pre) 2002**
 
@@ -588,8 +560,6 @@ D. Guru Gobind Singh
 
 </details>
 
-**Logic:** Khalsa = Gobind Singh, Anandpur, Baisakhi 1699.
-
 **Q12. RAS 1993 / MPPCS / UPPCS (Mains) 2006**
 
 Under which Sikh Guru were the Sikhs transformed into the Khalsa?
@@ -608,8 +578,6 @@ D. Guru Nanak Dev
 **Ans: C.** **Guru Gobind Singh** transformed the Sikhs into the **Khalsa Panth** at **Anandpur Sahib** on **Baisakhi, 13 April 1699**.
 
 </details>
-
-**Logic:** Khalsa military order and the Five Ks both belong to Gobind Singh at Anandpur.
 
 **Q13. RAS 1993 / MPPCS / UPPCS (Mains) 2006**
 
@@ -630,8 +598,6 @@ D. Guru Tegh Bahadur
 
 </details>
 
-**Logic:** Banda’s original name.
-
 **Q14. UPPCS (Mains) 2014**
 
 The original name of Banda Bahadur was:
@@ -650,8 +616,6 @@ D. Harnam Das
 **Ans: B.** **Lachhman Dev** (Lachman Dev); the Sikh name was given by **Guru Gobind Singh**.
 
 </details>
-
-**Logic:** Khalsa “how many years ago” stems age with the paper year; fixed date is 1699.
 
 **Q15. MPPCS (Pre) 2000**
 
@@ -676,8 +640,6 @@ D. About 400 years
 
 ### UKPCS Complete PYQ Bank — Sikhism
 
-**Logic:** Famous Sikh gurudwara in Uttarakhand hills.
-
 **Q1. Uttarakhand UDA/LDA (Mains) 2006**
 
 At which of the following places is a famous Sikh Gurudwara located?
@@ -696,8 +658,6 @@ D. Brahm Kund
 **Ans: B.** **Hem Kund** (Chamoli, Uttarakhand) hosts the famous Sikh gurudwara associated with Guru Gobind Singh.
 
 </details>
-
-**Logic:** Adi Granth compiler — repeated UKPCS Pre years.
 
 **Q2. UKPCS (Pre) 2002 / 2004 / 2005**
 
@@ -718,8 +678,6 @@ D. Guru Arjan Dev
 
 </details>
 
-**Logic:** UK UDA/LDA Amritsar stem — same Ramdas key as UPPCS 1996.
-
 **Q3. UK UDA/LDA (Mains) 2007**
 
 Amritsar was established by which Sikh Guru?
@@ -738,8 +696,6 @@ D. Guru Ramdas
 **Ans: D.** **Guru Ram Das** founded **Ramdaspur**, which became **Amritsar**.
 
 </details>
-
-**Logic:** Akbar’s grant to Bibi Bhani — UK UDA/LDA variant of the Amritsar stem.
 
 **Q4. UK UDA/LDA (Mains) 2007**
 
@@ -760,8 +716,6 @@ D. Guru Hargobind
 
 </details>
 
-**Logic:** Khalsa transformation under the tenth Guru.
-
 **Q5. UKPCS (Pre) 2016 / UKPCS (Mains) 2006**
 
 Under which Sikh Guru were the Sikhs transformed into the Khalsa?
@@ -780,8 +734,6 @@ D. Guru Nanak Dev
 **Ans: C.** **Guru Gobind Singh** created the **Khalsa Panth** at **Anandpur Sahib** on **Vaisakhi, 13 April 1699**.
 
 </details>
-
-**Logic:** Khalsa founder — second half of the old UKPCS dual stem.
 
 **Q6. UKPCS (Pre) 2016 / UKPCS (Mains) 2006**
 
@@ -856,7 +808,6 @@ D. Guru Tegh Bahadur
 
 **Ans: BWhy:** The correct fact is **Guru Arjan Dev**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -874,7 +825,6 @@ D. 1708 Nanded
 <details><summary>Show answer</summary>
 
 **Ans: CWhy:** The correct fact is **1699 Anandpur**.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -894,7 +844,6 @@ D. Aurangzeb
 
 **Ans: CWhy:** The correct fact is **Jahangir**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -912,7 +861,6 @@ D. Bahadur Shah I
 <details><summary>Show answer</summary>
 
 **Ans: CWhy:** The correct fact is **Aurangzeb**.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -932,7 +880,6 @@ D. Guru Har Rai
 
 **Ans: BWhy:** The correct fact is **Guru Angad**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -951,7 +898,6 @@ D. Guru Har Krishan
 
 **Ans: CWhy:** The correct fact is **Guru Ram Das**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -969,7 +915,6 @@ D. Guru Amar Das
 <details><summary>Show answer</summary>
 
 **Ans: BWhy:** The correct fact is **Guru Hargobind**.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -1025,7 +970,6 @@ D. An 11th human Guru
 
 **Ans: CWhy:** The correct fact is **Guru Granth Sahib**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -1043,7 +987,6 @@ D. Only under Aurangzeb
 <details><summary>Show answer</summary>
 
 **Ans: BWhy:** The correct fact is **False**.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -1063,7 +1006,6 @@ D. Har Krishan
 
 **Ans: CWhy:** The correct fact is **Gobind Singh**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -1081,7 +1023,6 @@ D. Nadir Shah
 <details><summary>Show answer</summary>
 
 **Ans: CWhy:** The correct fact is **Aurangzeb**.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -1101,7 +1042,6 @@ D. Lahore
 
 **Ans: CWhy:** The correct fact is **Nanded**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -1119,7 +1059,6 @@ D. Ranjit Singh’s Adalat
 <details><summary>Show answer</summary>
 
 **Ans: BWhy:** The correct fact is **The Golden Temple shrine**.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -1193,7 +1132,6 @@ D. Child guruship
 
 **Ans: BWhy:** The correct fact is **Free community meal**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -1229,7 +1167,6 @@ D. Ranjit Singh vs Afghans
 <details><summary>Show answer</summary>
 
 **Ans: BWhy:** The correct fact is **Gobind Singh vs hill rajas**.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -1267,7 +1204,6 @@ D. Zafarnama
 
 **Ans: BWhy:** The correct fact is **Goindwal langar centre**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -1304,7 +1240,6 @@ D. A Mughal farmans book
 
 **Ans: BWhy:** The correct fact is **A separate Gobind Singh corpus**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -1322,7 +1257,6 @@ D. Ranjit Singh’s court
 <details><summary>Show answer</summary>
 
 **Ans: BWhy:** The correct fact is **Khalsa initiation 1699**.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -1360,7 +1294,6 @@ D. Guru Angad
 
 **Ans: AWhy:** The correct fact is **Guru Nanak**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -1397,7 +1330,6 @@ D. Five Mughal subahs
 
 **Ans: BWhy:** The correct fact is **The first five Khalsa initiates**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -1432,7 +1364,6 @@ D. Nanak and Ram Das
 
 **Ans: BWhy:** The correct fact is **Arjan and Tegh Bahadur**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -1451,7 +1382,6 @@ D. Idol priesthood
 
 **Ans: BWhy:** The correct fact is **Spiritual life within family and work**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -1469,7 +1399,6 @@ D. Only Singh names
 <details><summary>Show answer</summary>
 
 **Ans: BWhy:** The correct fact is **False**.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -1506,7 +1435,6 @@ D. Tegh Bahadur 1606 → Arjan 1675
 <details><summary>Show answer</summary>
 
 **Ans: BWhy:** The correct fact is **Adi Granth → Arjan martyrdom → Khalsa**.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 

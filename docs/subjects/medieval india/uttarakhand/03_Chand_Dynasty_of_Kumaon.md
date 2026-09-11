@@ -71,8 +71,6 @@
 
 ## UKPCS Inline PYQ
 
-**Logic:** Both the four names and the label Char Aal must be true.
-
 **UKPCS Prelims 2025, Q70**
 
 Consider the statements:
@@ -96,8 +94,6 @@ D. Neither 1 nor 2
 
 ## Practice Zone
 
-**Logic:** Capital sequence.
-
 **Q1.** The early capital of the Chand dynasty of Kumaon was:
 
 A. Srinagar (Garhwal)  
@@ -111,8 +107,6 @@ D. Haridwar
 **Ans: B.** Champawat was the early Chand seat before the shift to Almora.
 
 </details>
-
-**Logic:** Char Aal meaning.
 
 **Q2.** ‘Char Aal’ in Chand-period Kumaon refers to:
 

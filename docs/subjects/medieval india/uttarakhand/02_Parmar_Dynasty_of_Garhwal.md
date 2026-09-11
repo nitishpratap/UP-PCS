@@ -71,8 +71,6 @@
 
 ## UKPCS Inline PYQ
 
-**Logic:** Both arrival facts and the Tasbirdar title must be true.
-
 **UKPCS Prelims 2025, Q85**
 
 With reference to the Garhwal painting style, consider the statements:
@@ -95,8 +93,6 @@ D. None of the above
 ---
 
 ## Practice Zone
-
-**Logic:** Unifier vs founder.
 
 **Q1.** Who among the Parmar kings is credited with consolidating about 52 garhis of Garhwal?
 
@@ -128,8 +124,6 @@ D. Narendra Shah
 - **Fateh Shah** of Garhwal invites **Guru Ram Rai** and supports the **Jhanda Sahib** darbar tradition at Dehradun.
 - Village-grant lists in coaching notes usually name **Khurbura, Rajpur, Chamasari, and Dhamawala** — not the four-name distractor set used in UKPCS 2025.
 - This card bridges Parmar Garhwal into early modern Dehradun sacred geography.
-
-**Logic:** Invitation and gurudwara support are true; the four-village list in the stem is the error.
 
 **UKPCS Prelims 2025, Q81**
 

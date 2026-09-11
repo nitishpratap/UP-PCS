@@ -293,7 +293,6 @@ A. II, I, IV and III | B. IV, II, I and III | C. I, III, II and IV | D. III, II,
 
 ---
 
-
 ## 12.8 Later Mughals and successor states
 
 **After Aurangzeb (1707)** | Weak centre | Rise of Awadh, Bengal, Hyderabad, Marathas
@@ -382,7 +381,6 @@ A. II, I, IV and III | B. IV, II, I and III | C. I, III, II and IV | D. III, II,
 
 ## Complete PYQ Bank (Topic 12)
 
-
 **Q1. UPPCS Prelims 2021, Q75**
 
 Arrange foreign travellers by arrival: I. William Hawkins II. Ralph Fitch III. Sir Thomas Roe IV. Nicholas Dawnton
@@ -402,7 +400,6 @@ D. III, II, IV and I
 **Trap:Roe** is ambassador **1615–19**, not the first English arrival.
 
 </details>
-
 
 **Q2. UPPCS Prelims 2023, Q31**
 
@@ -424,7 +421,6 @@ D. Neither 1 nor 2
 
 </details>
 
-
 **Q3. UPPCS Prelims 2020, Q18**
 
 Treaty of Aix-la-Chapelle (1748): 1. First Carnatic War ended. 2. Madras was returned to the English.
@@ -444,7 +440,6 @@ D. Neither 1 nor 2
 **Trap:** Same pair as **2025 Q67** — not **Paris 1763** (Seven Years' War).
 
 </details>
-
 
 **Q4. UPPCS Prelims 2025, Q67**
 
@@ -466,7 +461,6 @@ D. Only 1
 
 </details>
 
-
 **Q5. UPPCS Prelims 2025, Q26**
 
 Arrange: 1. First Anglo-Mysore War 2. Second Anglo-French War 3. First Anglo-Sikh War 4. First Anglo-Afghan War
@@ -486,7 +480,6 @@ D. 2, 1, 3, 4
 **Trap:Second Anglo-French** is the Carnatic phase, not Panipat III.
 
 </details>
-
 
 **Q6. UPPCS Prelims 2025, Q127**
 
@@ -510,12 +503,9 @@ D. 1, 3, 2, 4
 
 ---
 
-
 ## Ghatnachakra Extra Drill — Advent of European Companies
 
 Teaching for these stems sits in **12.1–12.6**.
-
-**Logic:** Gama year = 1498; welcomed by Zamorin — not Albuquerque or Almeida.
 
 **Q1. Chhattisgarh PCS / UPPCS / MPPCS**
 
@@ -538,8 +528,6 @@ D. 1612; Don Almeida
 
 </details>
 
-**Logic:** Blue Water = Almeida (first Viceroy), not Albuquerque, Dupleix, or Clive.
-
 **Q2. BPSC / UPPCS cluster**
 
 The **Blue Water Policy** aimed at Portuguese control of ocean trade routes. It was associated with which officer, who also served as the first Portuguese Governor and Viceroy in India?
@@ -560,8 +548,6 @@ D. Robert Clive
 **Trap:** Do not pair Blue Water with **Albuquerque** — that is the Goa 1510 trap.
 
 </details>
-
-**Logic:** Match Portuguese officers to their landmark acts.
 
 **Q3. Chhattisgarh PCS (Pre) 2022**
 
@@ -593,8 +579,6 @@ D. A-3, B-4, C-1, D-2
 
 </details>
 
-**Logic:** First Europeans for trade = Portuguese; real founder = Albuquerque; first fort = Cochin 1503; Goa 1499 is the false year.
-
 **Q4. UPPCS / IAS 2003 / UPPCS Mains 2010**
 
 Which of the following statements about early Portuguese power in India is **NOT** correct?
@@ -615,8 +599,6 @@ D. The Portuguese captured Goa from Bijapur in 1499.
 **Trap:** **1499** is a recurring trap year for **Goa 1510**.
 
 </details>
-
-**Logic:** Hooghly piracy = Portuguese; Bengal Portuguese factory = Hooghly (Chinsurah = Dutch; Serampore = Danish).
 
 **Q5. IAS 1995 / UPPCS 2004 / BPSC**
 
@@ -660,8 +642,6 @@ D. Serampore
 
 </details>
 
-**Logic:** Calcutta founder = Job Charnock at Sutanuti; first Municipal Corporation = Madras 1688.
-
 **Q7. UPPCS / UPPCS 2021**
 
 Who is associated with founding the English settlement at **Calcutta** by choosing **Sutanuti** over Hooghly?
@@ -703,8 +683,6 @@ D. Bombay (1668)
 **Trap:** **Calcutta** and **Charnock** are often paired — the municipal-corporation first belongs to **Madras**.
 
 </details>
-
-**Logic:** When English is absent among options, Dutch = first joint-stock; Levant = first British India charter (land); EIC under Akbar; Surat 1613 under Jahangir.
 
 **Q9. IAS / UPPCS / BPSC cluster**
 
@@ -832,8 +810,6 @@ D. Danish
 
 </details>
 
-**Logic:** IAS 2022 — Dutch–Gajapati grant is false; Albuquerque–Bijapur and Madras–Vijayanagara lease are true.
-
 **Q15. IAS (Pre) 2022**
 
 Consider the following statements:
@@ -863,8 +839,6 @@ D. 1, 2 and 3
 
 </details>
 
-**Logic:** John Child expelled by Aurangzeb after attacking Mughal ports (1688).
-
 **Q16. MPPCS / IAS / UPPCS / BPSC**
 
 Which English Governor of Bombay was **expelled by Aurangzeb** after attacking Mughal western ports and hajj traffic around **1688**?
@@ -885,8 +859,6 @@ D. Sir Thomas Roe
 **Trap:** **Child** is the Aurangzeb-expulsion name; do not confuse with **Thomas Best** (Swally).
 
 </details>
-
-**Logic:** Early Western Presidency centred at Surat before Bombay grew.
 
 **Q17. MPPCS / IAS / UPPCS / BPSC**
 
@@ -909,8 +881,6 @@ D. Masulipatnam
 
 </details>
 
-**Logic:** Earliest French factory = Surat 1668 under François Caron.
-
 **Q18. MPPCS / IAS / UPPCS / BPSC**
 
 The **earliest French factory** in India was opened at which place and in which year?
@@ -931,8 +901,6 @@ D. Masulipatnam (1669)
 **Trap:** **1674 Pondicherry** is French HQ, not the **first** factory.
 
 </details>
-
-**Logic:** Colbert founded the French company (1664) under Louis XIV.
 
 **Q19. MPPCS / IAS / UPPCS / BPSC**
 
@@ -955,8 +923,6 @@ D. Count de Lally
 
 </details>
 
-**Logic:** Immediate cause of First Carnatic War = English capture of French ships (Captain Bernett).
-
 **Q20. MPPCS / IAS / UPPCS / BPSC**
 
 What was the **immediate cause** of the **First Carnatic War (1746–48)** in India?
@@ -978,8 +944,6 @@ D. Treaty of Paris (1763)
 
 </details>
 
-**Logic:** Dupleix first planted European troops in Indian succession quarrels.
-
 **Q21. MPPCS / IAS / UPPCS / BPSC**
 
 Who **first** used European troops in Indian princes' succession quarrels at Indian expense, setting the template the English later copied?
@@ -1000,8 +964,6 @@ D. Sir John Child
 **Trap:** **Clive** is later Carnatic/Bengal — **Dupleix** comes first in the intervention story.
 
 </details>
-
-**Logic:** First Carnatic War ended at Aix-la-Chapelle 1748; Third at Paris 1763; Second often keyed inconclusive.
 
 **Q22. UPPCS 2016 / GIC 2017 / Chhattisgarh PCS**
 
@@ -1107,8 +1069,6 @@ D. The battle was inconclusive
 **Trap:** **St. Thome (1746)** was a **French** win in the **First** Carnatic War — opposite outcome from Wandiwash.
 
 </details>
-
-**Logic:** Arrival order = Portuguese → Dutch → English → (Danes) → French; Bihar = opium/saltpetre; last European traders = French.
 
 **Q27. UPPCS / IAS / BPSC**
 
@@ -1232,12 +1192,9 @@ D. None of the above
 
 </details>
 
-
 ## Ghatnachakra Extra Drill — Disintegration of the Mughal Empire
 
 Teaching for these stems sits in **12.8–12.9**.
-
-**Logic:** Aurangzeb’s successor = Bahadur Shah I (Muazzam).
 
 **Q1. UPPCS (Mains) 2012**
 
@@ -1258,8 +1215,6 @@ D. Akbar-II
 
 </details>
 
-**Logic:** Jahandar’s end = defeat by nephew Farrukh Siyar.
-
 **Q2. IAS (Pre) 2003**
 
 How did Jahandar Shah’s reign come to an early end?
@@ -1278,8 +1233,6 @@ D. Died of sickness from wine
 **Ans: C.** Defeated and killed by **Farrukh Siyar** (**1713**), after rising with **Zulfiqar Khan**.
 
 </details>
-
-**Logic:** 1717 Bengal duty-free farman = Farrukh Siyar.
 
 **Q3. UPPSC (GIC) 2010**
 
@@ -1300,8 +1253,6 @@ D. Farrukh Siyar
 
 </details>
 
-**Logic:** King-makers = Sayyid brothers Abdullah and Hussain Ali.
-
 **Q4. UP R.O./A.R.O. (Mains) 2017**
 
 Who were the king-makers during the later Mughal period?
@@ -1320,8 +1271,6 @@ D. Muhammad Zaman and Muhammad Junaidi
 **Ans: A.** The **Sayyid brothers**.
 
 </details>
-
-**Logic:** Last on Peacock Throne = Muhammad Shah; Nadir invasion year 1739.
 
 **Q5. BPSC / UPPCS Spl Mains / MPPCS 2023**
 
@@ -1386,8 +1335,6 @@ D. 1761
 
 </details>
 
-**Logic:** Eunuchs/ladies dominate under Muhammad Shah; Rangeela nickname.
-
 **Q8. UPPCS (Mains) 2004 / MPPCS 2014**
 
 A group of eunuchs and ladies dominated the Mughal government under which emperor, who is also known as **Rangeela**?
@@ -1408,8 +1355,6 @@ D. Muhammad Shah (1719–1748)
 **Trap:** **Farrukh Siyar** belongs to the **1717 Bengal farman** phase, not the Rangeela nickname.
 
 </details>
-
-**Logic:** Chronology drills for later Mughals.
 
 **Q9. UPPCS (Pre) 2018 / UP R.O./A.R.O. (Pre) 2023**
 
@@ -1461,8 +1406,6 @@ D. Farrukhsiyar → Jahandar Shah → Bahadur Shah I → Muhammad Shah
 
 </details>
 
-**Logic:** Ghaziuddin barred Shah Alam II from Delhi (for a phase).
-
 **Q11. BPSC (Pre) 2000**
 
 Which Mughal emperor was not allowed to enter Delhi by Wazir Ghaziuddin?
@@ -1481,8 +1424,6 @@ D. Bahadur Shah-II
 **Ans: B.** **Shah Alam II (Ali Gauhar)**.
 
 </details>
-
-**Logic:** Last Mughal = Zafar; father Akbar II; pension not “less than one lakh”.
 
 **Q12. UPPCS (Pre) 2005 / MPPCS / UPPCS (Mains) 2006**
 
@@ -1525,8 +1466,6 @@ D. Teachers at his court included Zauq and Ghalib.
 **Trap:** The pension amount trap reverses the truth — Zafar's pension was substantial, not below one lakh.
 
 </details>
-
-**Logic:** First Nawab of Awadh = Saadat Khan; both statements on Burhan-ul-Mulk true.
 
 **Q14. UPPCS Spl Mains 2008 / UP R.O./A.R.O. (Pre) 2023**
 
@@ -1576,8 +1515,6 @@ D. Neither 1 nor 2
 
 </details>
 
-**Logic:** Hyderabad founder = Chin Qilich Khan; Kilich ≠ Mubariz; Asaf Jah from Muhammad Shah.
-
 **Q16. UPPCS (Mains) 2011 / Chhattisgarh PCS 2022**
 
 Who founded the **independent state of Hyderabad (Nizam's dominion)** after defeating the Mughal governor at **Shakar Kheda (1724)**?
@@ -1620,8 +1557,6 @@ D. The title Asaf Jah was linked to Muhammad Shah's reign.
 
 </details>
 
-**Logic:** IAS 2021 — only Mysore from Vijayanagara vassalage is correct.
-
 **Q18. IAS (Pre) 2021**
 
 Consider the following statements:
@@ -1650,8 +1585,6 @@ D. 1, 2 and 3
 **Trap:** Statement **1** sounds plausible but over-simplifies Arcot's Nizam-linked origin.
 
 </details>
-
-**Logic:** Jai Singh II observatories — five cities; not Allahabad; Zij Muhammad Shahi.
 
 **Q19. UPPCS (Pre) 2005 / Mains 2007 / 2014 / RAS 2007**
 
@@ -1718,8 +1651,6 @@ D. Bernier
 
 ### UKPCS Complete PYQ Bank (Later Medieval — Europeans)
 
-**Logic:** Blue Water Policy = Francisco de Almeida, first Portuguese Viceroy (1505).
-
 **Q1. Uttarakhand PCS (Pre) 2016**
 
 Which one is connected with the **Blue Water Policy**?
@@ -1740,8 +1671,6 @@ D. Robert Clive
 **Trap:** **Albuquerque** is the real founder of Portuguese power and took **Goa in 1510**, not Blue Water.
 
 </details>
-
-**Logic:** First Europeans to set up sea trade centres in India = Portuguese (1498).
 
 **Q2. Uttarakhand PCS (Pre) 2004 / Mains 2006**
 
@@ -1764,8 +1693,6 @@ D. French
 
 </details>
 
-**Logic:** Calcutta founder = Job Charnock at Sutanuti.
-
 **Q3. Uttarakhand PCS (Pre) 2004 / Mains 2006**
 
 Who is associated with founding **Calcutta** by establishing the English base at **Sutanuti**?
@@ -1786,8 +1713,6 @@ D. François Caron
 **Trap:** **Roe** was Jahangir's ambassador **1615–19**; he did not found Calcutta.
 
 </details>
-
-**Logic:** Wandiwash 1760 — French commander Count de Lally defeated by British under Eyre Coote.
 
 **Q4. Uttarakhand PCS (Pre) 2016**
 
@@ -1829,7 +1754,6 @@ D. III-II-IV-I
 <details><summary>Show answer</summary>
 
 **Ans: AWhy:** The correct fact is **II-I-IV-III**.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -1887,7 +1811,6 @@ D. 1-3-2-4
 
 **Ans: AWhy:** The correct fact is **1-3-4-2**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -1924,7 +1847,6 @@ D. Hawkins
 
 **Ans: BWhy:** The correct fact is **Albuquerque**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -1942,7 +1864,6 @@ D. Pondicherry 1674
 <details><summary>Show answer</summary>
 
 **Ans: BWhy:** The correct fact is **Surat 1612**.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -1966,7 +1887,6 @@ D. Danish
 
 **Ans: DWhy:** Matches the core teaching fact for this topic.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>**.
@@ -1987,7 +1907,6 @@ D. Portuguese
 
 **Ans: BWhy:** The correct fact is **French**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -2005,7 +1924,6 @@ D. Dupleix
 <details><summary>Show answer</summary>
 
 **Ans: BWhy:** The correct fact is **Saadat Khan**.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -2025,7 +1943,6 @@ D. Awadh land grant
 
 **Ans: BWhy:** The correct fact is **Portuguese sea-pass**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -2043,7 +1960,6 @@ D. 1664
 <details><summary>Show answer</summary>
 
 **Ans: BWhy:** The correct fact is **1600**.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -2063,7 +1979,6 @@ D. 1664
 
 **Ans: BWhy:** The correct fact is **1602**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -2081,7 +1996,6 @@ D. Founder of Awadh
 <details><summary>Show answer</summary>
 
 **Ans: BWhy:** The correct fact is **French physician at Aurangzeb’s court**.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -2101,7 +2015,6 @@ D. Aurangzeb vs Danes
 
 **Ans: BWhy:** The correct fact is **Shah Jahan vs Portuguese**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -2120,7 +2033,6 @@ D. Calcutta
 
 **Ans: BWhy:** The correct fact is **Madras**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -2138,7 +2050,6 @@ D. 1748
 <details><summary>Show answer</summary>
 
 **Ans: CWhy:** The correct fact is **1668**.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -2176,7 +2087,6 @@ D. Clive
 
 **Ans: BWhy:** The correct fact is **Asaf-ud-Daula**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -2194,7 +2104,6 @@ D. Saadat Khan
 <details><summary>Show answer</summary>
 
 **Ans: CWhy:** The correct fact is **Wajid Ali Shah**.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -2214,7 +2123,6 @@ D. Only for Goa
 
 **Ans: BWhy:** The correct fact is **False**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -2233,7 +2141,6 @@ D. Danish
 
 **Ans: BWhy:** The correct fact is **Dutch**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -2251,7 +2158,6 @@ D. Awadh capital
 <details><summary>Show answer</summary>
 
 **Ans: BWhy:** The correct fact is **French Bengal**.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -2289,7 +2195,6 @@ D. Founded Goa
 
 **Ans: BWhy:** The correct fact is **Allied with Abdali**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -2311,7 +2216,6 @@ D. 1664
 <details><summary>Show answer</summary>
 
 **Ans: DWhy:** Matches the core teaching fact for this topic.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -2351,7 +2255,6 @@ D. 1748
 
 **Ans: CWhy:** The correct fact is **1856**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -2370,7 +2273,6 @@ D. Dupleix
 
 **Ans: BWhy:** The correct fact is **Vasco da Gama**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -2388,7 +2290,6 @@ D. Mughal capital
 <details><summary>Show answer</summary>
 
 **Ans: BWhy:** The correct fact is **Danish**.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -2426,7 +2327,6 @@ D. Saadat Khan
 
 **Ans: BWhy:** The correct fact is **Jahangir**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -2445,7 +2345,6 @@ D. VOC Pulicat
 
 **Ans: BWhy:** The correct fact is **Awadh after Buxar**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -2463,7 +2362,6 @@ D. Dutch Pulicat admiral
 <details><summary>Show answer</summary>
 
 **Ans: BWhy:** The correct fact is **French Carnatic governor**.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -2501,7 +2399,6 @@ D. Awadh imambara
 
 **Ans: BWhy:** The correct fact is **Trading post**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -2537,7 +2434,6 @@ D. True only for Fitch
 <details><summary>Show answer</summary>
 
 **Ans: BWhy:** The correct fact is **False**.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 

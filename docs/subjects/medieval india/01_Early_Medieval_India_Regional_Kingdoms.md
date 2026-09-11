@@ -173,7 +173,6 @@ Early Medieval India | Major Dynasties of South India | Major Rulers of South In
 
 ### PYQs — South dynasties (match)
 
-
 **1. (UPPCS Prelims 2019, Q90)** Match List-I (Ruling Dynasties) with List-II (Capitals):
 
 | List-I | List-II |
@@ -201,7 +200,6 @@ D. 2 4 3 1
 **Trap:Warangal** is **Kakatiya**, not Pallava; **Devagiri** is **Yadava**, not Pandya. Do not confuse **Kanchi** with **Kannauj**.
 
 </details>
-
 
 **2. (UPPCS Prelims 2025, Q121)** Match List-I (Ruler) with List-II (Dynasty):
 
@@ -266,7 +264,6 @@ D. 4 2 1 3
 > ** note:** Shore Temple = **Pallava**, not Chola. Do not swap **Kanchi** with **Kannauj**. **Mahamalla ≠ Chola**.
 
 ### PYQ — Temple chronology (Pallava + Chola)
-
 
 **1. (UPPCS Prelims 2018, Q15)** Arrange the following temples chronologically:
 
@@ -428,7 +425,6 @@ D. A false, R true
 > ** note:** Father’s temple (**Brihadishwara 1010**) before son’s capital-temple complex (**Gangaikondacholapuram ~1025**). **Rajaraja I = Chola** in 2025 Q121. Founder = **Vijayalaya**, not Parantaka.
 
 ### PYQ — Chola sources
-
 
 **1. (UPPCS Prelims 2020, Q8)Assertion (A):** We have much more information about Cholas than their predecessors.
 
@@ -595,8 +591,6 @@ D. A false, R true
 **Course:Dharmapala** installed a Pala nominee at Kannauj. **Mihir Bhoja** (Pratihara) recovered the city. **Dhruva** and **Govinda III** (Rashtrakutas) raided north and temporarily held Kannauj; **Indra III** famously sacked it.
 **Result:** No single power permanently united India. The struggle weakened all three and left the **Gangetic plain** open to later **Turkish** breakthroughs after **Pratihara** decline.
 
-
-
 **Three powers:Pala** (Bengal–Bihar) + **Gurjara-Pratihara** (Rajasthan–UP) + **Rashtrakuta** (Deccan) | **Prize:Kannauj** (post-Harsha sovereignty symbol)
 
 | Actor | Move |
@@ -672,7 +666,6 @@ D. A false, R true
 > ** note:UPPCS 2024 Q3** answer **D (3 4 1 2)** = Hemant → Vijaya → Ballal → Lakshman. **Lakshmana Samvat = Sena**, not Pala/Pratihara.
 
 ### PYQ — Sena chronology
-
 
 **1. (UPPCS Prelims 2024, Q3)** Arrange the Sen rulers of Bengal in ascending order:
 
@@ -910,7 +903,6 @@ D. A false, R true
 
 ### PYQ — NOT correctly matched
 
-
 **1. (UPPCS Prelims 2018, Q96)** Which of the following pairs is **NOT** correctly matched (State–Ruler)?
 
 A. Devgiri–Shankar Dev |
@@ -957,7 +949,6 @@ D. Madura–Veer Pandya
 
 ## Complete PYQ Bank (Topic 1)
 
-
 **Q1. UPPCS Prelims 2025, Q121**
 
 Match List-I (Ruler) with List-II (Dynasty):
@@ -987,7 +978,6 @@ D. 4 2 1 3
 
 </details>
 
-
 **Q2. UPPCS Prelims 2024, Q3**
 
 Arrange the following Sen rulers of Bengal in ascending chronological order:
@@ -1010,7 +1000,6 @@ D. 3, 4, 1, 2
 **Trap:** Alphabetical or reversed **Ballal–Lakshman** order — fact **H-V-B-L**.
 
 </details>
-
 
 **Q3. UPPCS Prelims 2020, Q8**
 
@@ -1037,7 +1026,6 @@ D. (A) is false but (R) is true
 **If the stem changed:** If R said “Cholas had no inscriptions,” R would be false → **C**.
 
 </details>
-
 
 **Q4. UPPCS Prelims 2019, Q90**
 
@@ -1068,7 +1056,6 @@ D. 2 4 3 1
 
 </details>
 
-
 **Q5. UPPCS Prelims 2018, Q15**
 
 Arrange the following temples in a chronological order and select the correct answer from the codes given below:
@@ -1092,7 +1079,6 @@ D. IV, III, I, II
 
 </details>
 
-
 **Q6. UPPCS Prelims 2018, Q96**
 
 Which of the following pairs is NOT correctly matched?
@@ -1113,8 +1099,6 @@ D. Madura — Veer Pandya
 </details>
 
 ### UKPCS Prelims 2025
-
-**Logic:** Court biographies of the early medieval period — Bilhana and Hemchandra are the swap pair.
 
 **Q. UKPCS Prelims 2025, Q55**
 
@@ -1593,8 +1577,6 @@ D. 2 1 3 4
 
 **Trap:** Parking **Kalinjar** at Kannauj or **Mahoba** at Ayodhya — UP medieval city-name facts.
 
-
-
 </details>
 **Q23.** Which of the following statement(s) is/are correct about Rashtrakutas?
 
@@ -1732,8 +1714,6 @@ D. All three
 **Ans: DKey:** Statement 1 **true** (Maldives under Rajaraja I). Statement 2 **true** (Kadaram **1025** = Rajendra I). Statement 3 **true** (China embassies **1016, 1033, 1077**).
 
 **Trap:** Swapping **Rajaraja** (Maldives) and **Rajendra** (Kadaram **1025**).
-
-
 
 </details>
 **Q31.** Which of the following statement(s) is/are correct?
@@ -1900,8 +1880,6 @@ D. None
 
 **Trap:** Swapping foreign labels across the three dynasties.
 
-
-
 </details>
 **Q40.** Which of the following statement(s) is/are correct?
 
@@ -1944,8 +1922,6 @@ D. None
 **Ans: CKey:** Statement 1 **true** (Kadungon revived Pandyas). Statement 2 **true** (Rajasekhara at Mahipala's Pratihara court). Statement 3 **true** (Vikramashila founded by Dharmapala).
 
 **Trap:** Rajasekhara at **Paramara Bhoja** — he served **Pratihara Mahipala**.
-
-
 
 </details>
 **Q43.** Which pair is NOT correctly matched?
@@ -2009,9 +1985,6 @@ D. 1-3-2
 
 <details><summary>Show answer</summary>
 
-
-**Logic:** 7th-c. Chalukya peak → Takkolam **949** → Rajendra Ganga ~**1022**.
-
 **Ans: A (1-2-3).** Pulakeshin II (7th) → Takkolam **949** → Rajendra Ganga expedition (~**1022**).
 
 **Trap:** Placing Rajendra before Takkolam.
@@ -2029,9 +2002,6 @@ D. Parantaka
 
 <details><summary>Show answer</summary>
 
-
-**Logic:** Founder vs peak rulers vs Maduraikonda title-holder.
-
 **Ans: C.** **Vijayalaya** took Thanjavur ~**850** and founded the imperial line.
 
 **Trap:** Choosing **Parantaka** (Maduraikonda) or **Rajaraja** (navy / Brihadishwara).
@@ -2048,9 +2018,6 @@ C. Thotta Variyam
 D. Samvatsara Variyam
 
 <details><summary>Show answer</summary>
-
-
-**Logic:** Named Variyam boards from Uttaramerur-type local government.
 
 **Ans: C.** **Thotta Variyam** = horticulture / gardens. **Eri** = tanks; **Pon** = gold; **Samvatsara** = annual.
 
@@ -2077,9 +2044,6 @@ D. 1 and 3 only
 
 <details><summary>Show answer</summary>
 
-
-**Logic:** Classic IAS-style term pairs; Taniyur is the usual wrong description.
-
 **Ans: D.** **Eripatti** and **Ghatika** are correct. **Taniyur** is a **very large village administered as a single unit**, not a Brahmadeya gift.
 
 **Trap:** Accepting the Brahmana-gift wording for Taniyur.
@@ -2096,9 +2060,6 @@ C. Chola and Hoysala
 D. Chola and Pandya
 
 <details><summary>Show answer</summary>
-
-
-**Logic:** Cause–course of Chola setback under Parantaka I.
 
 **Ans: B.** Rashtrakuta **Krishna III** (with Ganga allies) defeated and killed Chola prince **Rajaditya** at Takkolam.
 
@@ -2121,9 +2082,6 @@ D. 1, 2 and 3
 
 <details><summary>Show answer</summary>
 
-
-**Logic:** Capital, nickname, and lake — all Rajendra, not Rajaraja.
-
 **Ans: D.** All three are correct.
 
 **Trap:** Assigning Chola Gangam or “Chola Lake” to Rajaraja I.
@@ -2140,9 +2098,6 @@ C. Rajaraja I
 D. Rajadhiraja I
 
 <details><summary>Show answer</summary>
-
-
-**Logic:** China mission year **1077** under later Chola consolidation.
 
 **Ans: A.** **Kulottunga I** sent the mission of **72** merchants / Buddhist traders.
 
@@ -2161,9 +2116,6 @@ D. Two hands
 
 <details><summary>Show answer</summary>
 
-
-**Logic:** Iconographic hand-count of the classic Chola bronze.
-
 **Ans: C.** Classic Chola **Nataraja** bronzes have **four** hands.
 
 **Trap:** Choosing six or eight from other multi-armed Shiva forms.
@@ -2180,9 +2132,6 @@ C. Reclining
 D. Meditating
 
 <details><summary>Show answer</summary>
-
-
-**Logic:** Dakshinamurti vs Nataraja confusion.
 
 **Ans: A.** **Dakshinamurti** = Shiva as **guru / teacher**, installed facing **south**. Dancing form = **Nataraja**.
 
@@ -2206,9 +2155,6 @@ D. 3, 2, 1, 4
 
 <details><summary>Show answer</summary>
 
-
-**Logic:** Mahendra → Mamalla → Parameshvara → Nandivarman II.
-
 **Ans: A.** Mahendravarman I → Narasimhavarman I → Parameshvaravarman I → Nandivarman II.
 
 **Trap:** Placing Nandivarman II before Narasimhavarman I.
@@ -2230,9 +2176,6 @@ D. 1, 2 and 3
 
 <details><summary>Show answer</summary>
 
-
-**Logic:** Chalukya women admins, Ravikirti’s Aihole claim, Kadamba seat.
-
 **Ans: D.** All three are correct. Ravikirti compares himself to **Kalidasa** and **Bharavi**.
 
 **Trap:** Making Vanavasi a Chalukya capital (it is **Kadamba**).
@@ -2249,9 +2192,6 @@ C. Machilipatnam
 D. Nelluru
 
 <details><summary>Show answer</summary>
-
-
-**Logic:** Kakatiya overseas door vs later Andhra ports.
 
 **Ans: B.** **Motupalli** was the Kakatiya trading seaport visited by Marco Polo.
 
@@ -2270,9 +2210,6 @@ D. Chola — Thanjavur
 
 <details><summary>Show answer</summary>
 
-
-**Logic:** Chera capital identity.
-
 **Ans: C.** Chera capital is **Vanchi / Karuvur (Karur)**, not Puducherry.
 
 **Trap:** Parking Cheras at Pondicherry because Arikamedu is nearby.
@@ -2289,9 +2226,6 @@ C. Prithviraja III
 D. Vigraharaja IV only
 
 <details><summary>Show answer</summary>
-
-
-**Logic:** Numbered Chauhan identity vs Vigraharaja who took Delhi earlier.
 
 **Ans: C.** **Prithviraj III** of Ajmer — Tarain **1191 / 1192**.
 
@@ -2310,9 +2244,6 @@ D. Sarnath
 
 <details><summary>Show answer</summary>
 
-
-**Logic:** Gahadavala Buddhist / Jaina patronage site.
-
 **Ans: D.** **Sarnath**. Lakshmidhara’s *Krityakalpataru* is the related Gahadavala legal digest.
 
 **Trap:** Parking every Buddhist queen’s work at Bodh Gaya.
@@ -2329,9 +2260,6 @@ C. Mahoba
 D. Panna
 
 <details><summary>Show answer</summary>
-
-
-**Logic:** Chandela Mahoba commanders vs Prithviraj.
 
 **Ans: C.** Commandants of Chandela **Parmardi** of **Mahoba**; struggle in *Prithviraj Raso* and Jagnik’s *Alha-khand*.
 
@@ -2350,9 +2278,6 @@ D. Vidarbha
 
 <details><summary>Show answer</summary>
 
-
-**Logic:** Chandela territorial name from Jeja / Jayashakti.
-
 **Ans: B.** **Bundelkhand**. Wrong UP stem often pairs it with **Kaushambi**.
 
 **Trap:** Matching Jejakabhukti with Kaushambi or Malwa.
@@ -2370,9 +2295,6 @@ D. Mahipala
 
 <details><summary>Show answer</summary>
 
-
-**Logic:** Pala monastery founders.
-
 **Ans: A.** **Dharmapala** also built **Somapura (Paharpur)**. **Odantapuri** = **Gopala**. Site = **Bhagalpur**, not Banka.
 
 **Trap:** Assigning Vikramashila to Gopala or Devapala.
@@ -2389,9 +2311,6 @@ C. Balaputradeva
 D. Chudamanivarman
 
 <details><summary>Show answer</summary>
-
-
-**Logic:** Java–Pala Buddhist diplomacy.
 
 **Ans: C.** **Balaputradeva** of the Sailendra line.
 
@@ -2419,9 +2338,6 @@ D. 4 1 3 2
 
 <details><summary>Show answer</summary>
 
-
-**Logic:** North dynasty capitals vs Chola Thanjavur.
-
 **Ans: D.** Pratihara–Kannauj; Chola–Thanjavur; Paramara–Dhara; Solanki–Anhilwada.
 
 **Trap:** Swapping Dhara and Anhilwada.
@@ -2444,9 +2360,6 @@ D. 1 and 4 only
 
 <details><summary>Show answer</summary>
 
-
-**Logic:** Mitakshara / Dayabhaga / Hemadri vs court poet.
-
 **Ans: C.** **Rajasekhara** is a Pratihara **poet** (*Karpuramanjari*), not a jurist.
 
 **Trap:** Including Rajasekhara because he is early medieval and famous.
@@ -2463,9 +2376,6 @@ C. Jagnik — Alha-khand
 D. Narpati Nalha — Visaldev Raso
 
 <details><summary>Show answer</summary>
-
-
-**Logic:** Hammir Raso authorship.
 
 **Ans: A.** *Hammir Raso* = **Sharangadeva**. *Prithviraja Vijaya* = **Jayanaka**.
 
@@ -2488,9 +2398,6 @@ D. 1, 2 and 3
 
 <details><summary>Show answer</summary>
 
-
-**Logic:** Bhoja works vs Kalachuri name trap.
-
 **Ans: A.** **Gangeyadeva** = **Kalachuri** of Tripuri (Vikramaditya title; gold coins).
 
 **Trap:** Parking Gangeyadeva under Paramaras because both are Malwa–Chedi rivals.
@@ -2508,9 +2415,6 @@ D. Jejakabhukti — Kaushambi
 
 <details><summary>Show answer</summary>
 
-
-**Logic:** UP early medieval place-name pairs.
-
 **Ans: D.** **Jejakabhukti** = **Bundelkhand**, not Kaushambi.
 
 **Trap:** Treating every “bhukti” as a doab city name.
@@ -2527,9 +2431,6 @@ C. Vijayasena
 D. Lakshmanasena
 
 <details><summary>Show answer</summary>
-
-
-**Logic:** Sena era name.
 
 **Ans: D.** **Lakshmana Sena** of the Sena dynasty.
 
@@ -2557,9 +2458,6 @@ D. All four
 
 <details><summary>Show answer</summary>
 
-
-**Logic:** IAS-style dynasty identity pairs.
-
 **Ans: B.** Correct are **1** and **3**. Jayashakti = **Chandela**; Bhoja of Dhara = **Paramara** (not Rashtrakuta).
 
 **Trap:** Making every “Bhoja” a Rashtrakuta or every Jeja name a Paramara.
@@ -2577,8 +2475,6 @@ D. Badami
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** Capital-identification stem — kingdom name **Vengi** vs the excavated village site; distractors are other Andhra / Deccan famous places.
 
 **Ans: B.** Eastern Chalukya capital **Vengi / Vengipura** = **Pedavegi (Peddavegi)** near **Eluru**, West Godavari, Andhra Pradesh. Founder line is **Kubja Vishnuvardhana** under Pulakeshin II’s branch.
 

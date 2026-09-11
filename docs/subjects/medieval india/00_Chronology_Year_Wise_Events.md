@@ -256,9 +256,6 @@ D. 4, 2, 1, 3
 <details>
 <summary>Show answer</summary>
 
-
-**Logic:** Slave → Khalji → Tughlaq → (Sayyid) → Lodi.
-
 **Ans: A.**
 
 </details>
@@ -279,9 +276,6 @@ D. 2, 3, 1, 4
 
 <details>
 <summary>Show answer</summary>
-
-
-**Logic:** 1191 → 1192 → 1206 → 1398.
 
 **Ans: A.**
 
@@ -304,9 +298,6 @@ D. 2, 1, 4, 3
 <details>
 <summary>Show answer</summary>
 
-
-**Logic:** 1526 → 1556 → 1576 → 1674.
-
 **Ans: A.**
 
 </details>
@@ -327,9 +318,6 @@ D. 2, 3, 4, 1
 
 <details>
 <summary>Show answer</summary>
-
-
-**Logic:** Chausa 1539 → Sur peak 1540–45 → Humayun 1555 → Panipat II 1556.
 
 **Ans: A.**
 
@@ -352,9 +340,6 @@ D. 4, 2, 3, 1
 <details>
 <summary>Show answer</summary>
 
-
-**Logic:** 1556 → Fatehpur Sikri 1571 → Haldighati 1576 → Din-i-Ilahi 1582.
-
 **Ans: A.**
 
 </details>
@@ -375,9 +360,6 @@ D. 3, 4, 1, 2
 
 <details>
 <summary>Show answer</summary>
-
-
-**Logic:** Shivaji 1674 → jizya 1679 → Khalsa 1699 → Aurangzeb dies 1707.
 
 **Ans: A.**
 
@@ -400,9 +382,6 @@ D. 2, 4, 3, 1
 <details>
 <summary>Show answer</summary>
 
-
-**Logic:** 1336 → 1347 → Krishnadevaraya early 16th c. → Talikota 1565.
-
 **Ans: A.**
 
 </details>
@@ -424,9 +403,6 @@ D. 3, 2, 1, 4
 <details>
 <summary>Show answer</summary>
 
-
-**Logic:** Aibak → Iltutmish → Razia → Balban.
-
 **Ans: A.**
 
 </details>
@@ -436,8 +412,6 @@ D. 3, 2, 1, 4
 **Q9.** Assertion (A): The Second Battle of Tarain established Turkish power in north India.
 
 Reason (R): The First Battle of Tarain was won by Muhammad Ghori.
-
-**A/R logic:** A is standard; R reverses 1191.
 
 A. Both true and R explains A  
 B. Both true but R does not explain A  
@@ -468,9 +442,6 @@ D. 2, 1, 4, 3
 <details>
 <summary>Show answer</summary>
 
-
-**Logic:** Company 1600 → Akbar dies 1605 → Roe 1615–19 → Shah Jahan 1628.
-
 **Ans: A.**
 
 </details>
@@ -491,9 +462,6 @@ D. 2, 3, 4, 1
 
 <details>
 <summary>Show answer</summary>
-
-
-**Logic:** Accession 1296 → Chittor 1303 → Kafur 1309–11 → Khalji end c. 1320.
 
 **Ans: A.**
 
@@ -541,9 +509,6 @@ D. 2, 4, 1, 3
 <details>
 <summary>Show answer</summary>
 
-
-**Logic:** MbT 1325 → Vijayanagara 1336 → Firoz 1351 → Timur 1398.
-
 **Ans: A.**
 
 </details>
@@ -565,9 +530,6 @@ D. 2, 1, 3, 4
 <details>
 <summary>Show answer</summary>
 
-
-**Logic:** Purandar 1665 → coronation 1674 → Golconda 1687 → Sambhaji 1689.
-
 **Ans: A.**
 
 </details>
@@ -583,9 +545,6 @@ D. Khalsa — Guru Gobind Singh
 
 <details>
 <summary>Show answer</summary>
-
-
-**Logic:** Talikota is Deccan Sultanates vs Vijayanagara, not Babur.
 
 **Ans: B.**
 

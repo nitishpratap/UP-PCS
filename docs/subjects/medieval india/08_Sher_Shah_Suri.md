@@ -215,7 +215,6 @@ A. Both true and R explains A | B. Both true, R not explanation | C. A true, R f
 
 ## Complete PYQ Bank (Topic 8)
 
-
 **Q1. UPPCS Prelims 2025, Q79**
 
 Arrange: 1.Kannauj 2.Daurah 3.Samugarh 4.Chausa
@@ -229,7 +228,6 @@ Options: A.2-4-3-1 | B.4-2-1-3 | C.4-2-3-1 | D.2-4-1-3
 **Trap:Daurah** is Humayun vs Afghan chiefs, **not** Dharmat (1658) or Chausa (1539).
 
 </details>
-
 
 **Q2. UPPCS Prelims 2022, Q95**
 
@@ -250,7 +248,6 @@ D. Mewar
 **Trap:Mewar** is Sisodia territory — the fact is **Marwar** under Maldeo.
 
 </details>
-
 
 **Q3. UPPCS Prelims 2019, Q12**
 
@@ -274,7 +271,6 @@ D. A false, R true
 
 </details>
 
-
 **Q4. UPPCS Prelims 2019, Q13**
 
 I Sarnal II Bilgram III Dharmat IV Jajau
@@ -295,7 +291,6 @@ D. III-I-II-IV
 
 </details>
 
-
 **Q5. UPPCS Prelims 2019, Q87**
 
 NOT correctly matched: A. Dam–Copper | B. Desai–Revenue Collector | C. Diwan–Revenue Chief of a province | D. Jarib–A type of tax
@@ -307,7 +302,6 @@ NOT correctly matched: A. Dam–Copper | B. Desai–Revenue Collector | C. Diwan
 **Trap:** Option C reflects Mughal usage; the clearest NOT-matched fact is **D**.
 
 </details>
-
 
 **Q6. UPPCS Prelims 2019, Q91**
 
@@ -328,7 +322,6 @@ D. III-IV-II-I
 **Trap:Sasaram** is birth place **and** tomb — not **Kalinjar** (death site).
 
 </details>
-
 
 **Q7. UPPCS Prelims 2018, Q94 (Purana Qila overlap)**
 
@@ -352,12 +345,9 @@ D. Maham Anaga
 
 ---
 
-
 ## Ghatnachakra Extra Drill — Sher Shah (UPPCS first)
 
 Teaching for these stems sits in **8.1–8.6**.
-
-**Logic:** **Patta** = state record to peasant; **qabuliat** = peasant's written acceptance — Sur revenue pair.
 
 **Q1. UPPCS / Ghatnachakra**
 
@@ -375,8 +365,6 @@ D. Spy report and army roll
 
 </details>
 
-**Logic:** Death = **Kalinjar siege May 1545** — gunpowder blast, not sword wound; tomb at **Sasaram**.
-
 **Q2. UPPCS / Ghatnachakra**
 
 Sher Shah died:
@@ -392,8 +380,6 @@ D. At Sasaram palace of old age
 **Ans: C.** He died in **May 1545** at the **Kalinjar** siege from a **gunpowder/magazine explosion**. His tomb is the lake mausoleum at **Sasaram**.
 
 </details>
-
-**Logic:** Sammel quote — "nearly lost empire of Hindustan for a handful of **bajra/millets**."
 
 **Q3. UPPCS / Ghatnachakra**
 
@@ -411,8 +397,6 @@ D. Siege of Chunar
 
 </details>
 
-**Logic:** Sasaram tomb order — after Atala Jaunpur, before Humayun's Tomb (2019 Q91).
-
 **Q4. UPPCS Prelims 2019, Q91 (Ghatnachakra repeat)**
 
 Monuments: I Rabia Daurani II Sher Shah tomb III Humayun IV Atala Jaunpur
@@ -428,8 +412,6 @@ D. III-IV-II-I
 **Ans: B (IV-II-III-I).** **Atala Jaunpur** → **Sher Shah Sasaram (~1545)** → **Humayun Delhi (~1565)** → **Rabia Daurani Aurangabad (~1678)**.
 
 </details>
-
-**Logic:** RO 2021 — Sher Shah's **qualities as ruler** more remarkable than battlefield wins alone: stmt 1 true (admin/roads/coins), stmt 2 false (not "only" a general).
 
 **Q5. UP RO/ARO Prelims 2021 / Ghatnachakra**
 
@@ -450,8 +432,6 @@ D. Neither
 
 </details>
 
-**Logic:** **Qila-i-Kuhna** mosque stands **inside Purana Qila** — Sher Shah's Delhi citadel work.
-
 **Q6. UPPCS / Ghatnachakra**
 
 The **Qila-i-Kuhna** mosque is located inside:
@@ -468,8 +448,6 @@ D. Kalinjar Fort
 
 </details>
 
-**Logic:** **Sadak-e-Azam** = Grand Trunk Road **Sonargaon–Peshawar/Kabul** with sarais ~12 kos.
-
 **Q7. UPPCS / Ghatnachakra**
 
 Sher Shah's **Sadak-e-Azam** (Grand Trunk Road) connected:
@@ -485,8 +463,6 @@ D. Golkonda to Kannauj
 **Ans: B.** The **Sadak-e-Azam** ran **Sonargaon (Bengal)** to **Peshawar/Kabul** through the Gangetic heartland, with **sarais** about every **12 kos**.
 
 </details>
-
-**Logic:** Jarib is measuring rope — 2019 Q87 NOT-matched trap.
 
 **Q8. UPPCS Prelims 2019, Q87 (Ghatnachakra repeat)**
 
@@ -506,8 +482,6 @@ D. Jarib — A type of tax
 
 ### Other papers (Ghatnachakra Extra)
 
-**Logic:** Sher Shah educated at **Jaunpur** — centre known as **Siraj-i-Hind**.
-
 **Q9. RAS/RTS / Ghatnachakra**
 
 Sher Shah (Farid Khan) received education at:
@@ -523,8 +497,6 @@ D. Gaur (Bengal)
 **Ans: B.** **Farid Khan** studied at **Jaunpur**, the **Siraj-i-Hind** educational centre, before returning to Bihar–Sasaram service.
 
 </details>
-
-**Logic:** Title path — **Hazrat-e-Ala** in Bengal service, then **Sher Shah** after **Chausa (1539)**.
 
 **Q10. BPSC / Ghatnachakra**
 
@@ -652,7 +624,6 @@ D. Islam Shah, Rohtas
 
 **Ans: AWhy:** The correct fact is **Farid Khan, Sasaram**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -671,7 +642,6 @@ D. Panipat
 
 **Ans: CWhy:** The correct fact is **Kalinjar siege**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -689,7 +659,6 @@ D. Golkonda to Agra
 <details><summary>Show answer</summary>
 
 **Ans: BWhy:** The correct fact is **Sonargaon to Peshawar**.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -727,7 +696,6 @@ D. Spy officer
 
 **Ans: BWhy:** The correct fact is **Measuring rope**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -745,7 +713,6 @@ D. Patta is a fort
 <details><summary>Show answer</summary>
 
 **Ans: BWhy:** The correct fact is **Patta to peasant; qabuliat is acceptance**.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -765,7 +732,6 @@ D. Gujarat
 
 **Ans: BWhy:** The correct fact is **Bihar**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -783,7 +749,6 @@ D. Rao Maldeo
 <details><summary>Show answer</summary>
 
 **Ans: BWhy:** The correct fact is **Jalal Khan, successor 1545–53**.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -803,7 +768,6 @@ D. Ibrahim Lodi
 
 **Ans: BWhy:** The correct fact is **Rao Maldeo of Marwar**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -821,7 +785,6 @@ D. Build Taj
 <details><summary>Show answer</summary>
 
 **Ans: BWhy:** The correct fact is **Pargana law and order**.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -841,7 +804,6 @@ D. GT Road inns
 
 **Ans: AWhy:** The correct fact is **Accounts/audit**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -859,7 +821,6 @@ D. Brass
 <details><summary>Show answer</summary>
 
 **Ans: BWhy:** The correct fact is **Silver**.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -915,7 +876,6 @@ D. Founded Marwar
 
 **Ans: AWhy:** The correct fact is **Learned measurement under Sur system**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -933,7 +893,6 @@ D. Spy reports only
 <details><summary>Show answer</summary>
 
 **Ans: AWhy:** The correct fact is **Rest-houses on GT Road**.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -971,7 +930,6 @@ D. Taj design
 
 **Ans: AWhy:** The correct fact is **Army administration**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -989,7 +947,6 @@ D. 1556 only as death year
 <details><summary>Show answer</summary>
 
 **Ans: CWhy:** The correct fact is **1555**.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -1009,7 +966,6 @@ D. Fort
 
 **Ans: BWhy:** The correct fact is **Crop-rate per bigha**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -1027,7 +983,6 @@ D. Sasaram tomb
 <details><summary>Show answer</summary>
 
 **Ans: AWhy:** The correct fact is **Sher Shah’s Delhi citadel**.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -1065,7 +1020,6 @@ D. Jajau 1707
 
 **Ans: BWhy:** The correct fact is **Sammel vs Marwar**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -1083,7 +1037,6 @@ D. Suba–sarkar–pargana
 <details><summary>Show answer</summary>
 
 **Ans: BWhy:** The correct fact is **Good, middle, bad**.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -1103,7 +1056,6 @@ D. Sarnal
 
 **Ans: BWhy:** The correct fact is **Bilgram**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -1122,7 +1074,6 @@ D. Elephant rank
 
 **Ans: AWhy:** The correct fact is **Distance marker**.
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -1140,7 +1091,6 @@ D. 1 year
 <details><summary>Show answer</summary>
 
 **Ans: BWhy:** The correct fact is **5 years**.
-
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 

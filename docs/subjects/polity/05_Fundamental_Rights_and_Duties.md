@@ -13,7 +13,7 @@
 
 > **Sources baked in:** Laxmikanth (FR / DPSP / Duties), Constitution Parts III–IVA, Drishti coaching map, UPPCS Prelims PYQs 2018–2025
 > **Weight:** ★★★ — Art. 14 vs 19 vs 21; which freedom is **not** in 19; Art. 20 three clauses; 86th/21A; exploitation vs equality; DPSP match traps
-> **Last verified:** September 2026 — Ghatnachakra Extra Drill (FR Q1–Q169) added behind UPPCS bank; teaching gap-pass (1895/1928/1931 spine; Magna Carta; Bachan Singh)
+> **Last verified:** September 2026 — Ghatnachakra Extra Drills: FR Q1–Q169 + DPSP Q1–Q68 + Duties Q1–Q41; teaching gap-pass (FR history; FR–DPSP table; K.T. Shah; Swaran Singh members)
 > **Current Affairs:** EWS 103rd upheld (*Janhit Abhiyan*, 2022); Privacy *Puttaswamy* 2017; Uttarakhand UCC (2024) awareness
 
 ---
@@ -571,9 +571,13 @@ D. Neither 1 nor 2
 
 | Point | Fundamental Rights (III) | DPSP (IV) |
 |-------|--------------------------|-----------|
-| Source of idea | USA (Bill of Rights) | **Ireland** (via Spain) |
-| Enforceable | **Yes** (Art. 32) | **No** (Art. 37) |
-| Aim | Political democracy | Social & economic democracy |
+| Source of idea | USA (Bill of Rights) | **Ireland** |
+| Enforceable | **Yes** (Art. 32) — justiciable | **No** (Art. 37) — non-justiciable |
+| Nature | Mostly **negative** (limits on the State) | **Positive** (State to secure ends) |
+| Sanction | Legal (courts) | Moral and political |
+| Aim | **Political** democracy | **Social and economic** democracy / welfare State |
+| Focus | Individual welfare | Community welfare |
+| Implementation | Automatically enforceable | Need **legislation** |
 | Against | Mainly the State | Positive obligations on the State |
 | Conflict | *Kesavananda / Minerva Mills* — **balance**; DPSP cannot destroy FR basic structure | 39(b)(c) laws saved by **31C** |
 
@@ -582,12 +586,14 @@ D. Neither 1 nor 2
 | In **Part III**; enforceable via **Art. 32** (SC) | Outside Part III (e.g. **300A**); enforced via ordinary law / **226** |
 | Guaranteed by Constitution | May be created/altered by ordinary law (except constitutional ones) |
 
+> **K.T. Shah:** DPSP are “a cheque which is paid on Bank’s Convenience” — criticism of non-enforceability.
+
 ---
 
 ## N.19 Directive Principles of State Policy — Articles 36–51 (Part IV)
 
-- **Non-justiciable** (Art. **37**) but **fundamental in governance**; State to apply in law-making.
-- Borrowed from **Ireland**. Idea: instrument of instructions for a **welfare State**.
+- **Non-justiciable** (Art. **37**) but **fundamental in governance**; State to apply in law-making. They do **not** impose a **legal** duty enforceable in court — moral/political instructions to legislature and executive.
+- Borrowed from **Ireland**. Idea: instrument of instructions for a **welfare State** (Arts. **36–51**).
 
 ### Classification (learn the buckets)
 
@@ -608,6 +614,8 @@ D. All of the above
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Constitution has no textual classification — Socialist / Gandhian / Liberal–Intellectual is for study only.
 
 **Ans: D — All of the above.**
 
@@ -745,8 +753,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 ### Duties — quick facts
 - **Verma Committee (1999)** identified existing legal provisions for enforcing some duties (e.g. Prevention of Insults to National Honour Act; Protection of Civil Rights Act; Wildlife/Forest laws).
-- **Not** Fundamental Duties (common wrong options): **pay taxes**, **cast your vote**, **family planning**, **protect monuments** (49 is DPSP).
-- Duties are for **citizens**; DPSP address the **State** — a provision like **environment** can sit in both Parts.
+- **Not** Fundamental Duties (common wrong options): **pay taxes**, **cast your vote**, **family planning**, **protect monuments** (49 is DPSP), **organise village panchayats** (40 is DPSP), **abolish untouchability** (17 is FR).
+- Duties are for **citizens**; DPSP address the **State** — a provision like **environment** can sit in both Parts (**48A** + **51A(g)**).
+- **Swaran Singh Committee** members (high-yield): Swaran Singh (Chair), A.R. Antulay, S.S. Ray, C.M. Stephen — **Haridev Joshi** was **not** a member.
 
 > **Match traps:** protection of **monuments** = DPSP **Art. 49**, **not** a duty. Environment appears in **both** DPSP (**48A**) and Duty (**51A(g)**). Providing education 6–14 = Duty **51A(k)** + DPSP **45** + FR **21A**.
 
@@ -761,6 +770,8 @@ D. To respect the National Anthem
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Monuments = DPSP Art. 49 — not a Duty. Environment / public property / Anthem are 51A.
 
 **Ans: A.** Protecting monuments = **DPSP (Art. 49)**; the rest are 51A duties.
 
@@ -777,6 +788,8 @@ D. Uniform Civil Code
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Environment sits in both **48A** and **51A(g)**. Workers’ participation and UCC are DPSP-only; education also pairs but this key is environment.
 
 **Ans: B — Protection of environment** (DPSP 48A + Duty 51A(g)). *Also defensible:* education (45/21A + 51A(k)) — UPPCS key = **B**.
 
@@ -4418,6 +4431,2110 @@ E. Question not attempted
 **Logic:** Charter = standards, time-bound delivery, accountability — not primarily a public-hearing machinery.
 
 **Ans: D.** Creating an effective hearing system of public demands is **not** the aim of the Citizen’s Charter as keyed.
+
+</details>
+
+---
+
+
+---
+
+## Ghatnachakra Extra Drill — Directive Principles of State Policy
+
+Teaching sits in Topic 5 (Part IV Arts. 36–51). Full MCQs from Ghatnachakra so you need not reopen the book.
+
+### Section A — Nature, Art. 37, Welfare State & source
+
+**Q1. I.A.S. (Pre) 2002**
+
+The purpose of the inclusion of Directive Principles of State Policy in the Indian Constitution is to establish:
+
+A. Political Democracy
+B. Social Democracy
+C. Gandhian Democracy
+D. Social and Economic Democracy
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** FR → political democracy; DPSP → social and economic democracy / welfare State.
+
+**Ans: D.** DPSP aim to establish **social and economic democracy**.
+
+</details>
+
+**Q2. U.P.R.O./A.R.O. (Mains) 2013 / U.P.P.C.S. (Mains) 2017**
+
+Which one of the following is not the objective of the Directive Principles of State Policy?
+
+A. To establish a welfare State.
+B. To ensure socio-economic Justice
+C. To establish a Religious State
+D. To establish a Secular State
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Religious State contradicts the secular/welfare framing of Part IV.
+
+**Ans: C.** Establishing a **Religious State** is not a DPSP objective.
+
+</details>
+
+**Q3. U.P.P.C.S. (Pre) 2025**
+
+Assertion (A): Directive Principles are important for economic, social and political functions in a Modern Democratic State.
+
+Reason (R): The core objectives of Directive Principles is to establish economic and social democracy.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+B. (A) is false, but (R) is true.
+C. (A) is true, but (R) is false.
+D. Both (A) and (R) are true and (R) is the correct explanation of (A).
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** Art. 38 welfare/social order and Art. 37 governance duty support A; R states the core Part IV purpose.
+
+**Ans: D.** Both true and **R** correctly explains **A**.
+
+</details>
+
+**Q4. I.A.S. (Pre) 2009**
+
+How are the Directive Principles of State Policy different from Fundamental Rights?
+
+A. Former is for Union Government and later is for state Government.
+B. Former is a part of Constitution whereas later is not.
+C. Directive Principles are not enforceable whereas Fundamental Right can be enforced.
+D. None of these.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Classic justiciable vs non-justiciable contrast.
+
+**Ans: C.** DPSP are **not enforceable**; Fundamental Rights can be enforced.
+
+</details>
+
+**Q5. M.P.P.C.S. (Pre) 2013**
+
+The ‘Directive Principles’ are………..
+
+A. Justifiable
+B. Non-justifiable
+C. Rigid
+D. Flexible
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 37 — not enforceable by courts (older wording: non-justifiable).
+
+**Ans: B.** **Non-justifiable**.
+
+</details>
+
+**Q6. I.A.S. (Pre) 2017**
+
+With reference to the Constitution of India, the Directive Principle of State Policy constitute limitations upon
+
+1. legislative function.
+2. executive function.
+
+Which of the above statement is/are correct?
+
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** DPSP are instruments of instruction — not justiciable limits on legislature or executive.
+
+**Ans: D.** Neither statement is correct.
+
+</details>
+
+**Q7. I.A.S. (Pre) 2020**
+
+With reference to the provisions contained in Part IV of the Constitution of India, which of the following statements is/are correct?
+
+1. They shall be enforceable by Courts.
+2. They shall not be enforceable by any Court.
+3. The principles laid down in this part are to influence the making of law by the State.
+
+A. 1 only
+B. 2 only
+C. 1 and 3 only
+D. 2 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 37 text — not enforceable, but fundamental in governance and applied in law-making.
+
+**Ans: D.** Statements **2 and 3** only.
+
+</details>
+
+**Q8. Jharkhand P.C.S. (Pre) 2023**
+
+Which Article of the Indian constitution says that Directive Principles of State Policy are not enforceable by any court?
+
+A. Article 39
+B. Article 38
+C. Article 36
+D. Article 37
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Application / non-enforceability article.
+
+**Ans: D.** **Article 37**.
+
+</details>
+
+**Q9. UP R.O./A.R.O. (Pre) 2023**
+
+Consider the following statements with respect to Directive Principles of State Policy :
+
+1. They are not enforceable by the Courts.
+2. It shall be the duty of the State to apply these Principles in making laws.
+
+A. Only 2
+B. Both 1 and 2
+C. Only 1
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Both limbs of Art. 37.
+
+**Ans: B.** Both 1 and 2.
+
+</details>
+
+**Q10. I.A.S. (Pre) 2015**
+
+Consider the following statements regarding the Directive Principles of State Policy :
+
+1. These principles spell out the socio-economic democracy in the country.
+2. The provisions contained in these Principles are not enforceable by any court.
+
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Socio-economic democracy + Art. 37.
+
+**Ans: C.** Both statements are correct.
+
+</details>
+
+**Q11. Uttarakhand P.C.S. (Pre) 2024**
+
+Regarding the Directive Principles of State Policy, which one of the following statements is not correct?
+
+A. It is the duty of the State to apply these principles in making laws.
+B. They are fundamental in governance of the country.
+C. They impose a legal duty on the State.
+D. They are merely instructions to legislature and executive.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Non-enforceable principles create moral/political guidance, not a court-enforceable legal duty.
+
+**Ans: C.** They do **not** impose a **legal** duty on the State.
+
+</details>
+
+**Q12. I.A.S. (Pre) 2015 / U.P. Lower Sub. (Pre) 2004 / Uttarakhand P.C.S. (Pre) 2002**
+
+The concept of welfare state is included in the Constitution of India in the:
+
+A. Directive Principles of State Policy
+B. Fourth Schedule of the Constitution
+C. Fundamental Rights
+D. Preamble of the Constitution
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Welfare State model = Part IV.
+
+**Ans: A.** Directive Principles of State Policy.
+
+</details>
+
+**Q13. I.A.S. (Pre) 2020**
+
+Which part of the Constitution of India declares the ideal of Welfare State?
+
+A. Directive Principles of State Policy
+B. Fundamental Rights
+C. Preamble
+D. Seventh Schedule
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same Part IV welfare ideal.
+
+**Ans: A.** Directive Principles of State Policy.
+
+</details>
+
+**Q14. U.P. Lower Sub. (Mains) 2013 / U.P.P.C.S. (Mains) 2004**
+
+Which part of Constitution of India describes the model of Welfare State?
+
+A. Fundamental Rights
+B. Fundamental Duties
+C. The Preamble
+D. Directive Principles of State Policy
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same DPSP welfare model.
+
+**Ans: D.** Directive Principles of State Policy.
+
+</details>
+
+**Q15. U.P.P.C.S. (Pre) 1997**
+
+The idea of India as Welfare State is found in-
+
+A. Preamble of the Constitution
+B. Fundamental Duties
+C. Directive Principles of State Policy
+D. Both (a) and (c)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Broader stem — Preamble ideals + Part IV directions.
+
+**Ans: D.** Both Preamble and DPSP.
+
+</details>
+
+**Q16. U.P.P.C.S. (Pre) 2018**
+
+The Directive principles of State Policy may be classified in to which of the following parts for the sake of convenient study?
+
+A. Socialist
+B. Liberal intellectualistic
+C. Gandhian
+D. All of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Study buckets only — not in the Constitution’s text.
+
+**Ans: D.** All of the above.
+
+</details>
+
+**Q17. U.P. Lower Sub. (Pre) 2015 / Jharkhand P.C.S. (Pre) 2003**
+
+The Directive Principles of State Policy of the Constitution of India is taken from the Constitution of which country?
+
+A. Australia
+B. America
+C. France
+D. Ireland
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Ireland source — not USA/UK/France.
+
+**Ans: D.** **Ireland**.
+
+</details>
+
+**Q18. U.P.P.C.S. (Mains) 2005 / U.P.P.C.S. (Pre) 1994**
+
+The Indian Constitution borrowed the Directive Principles of the State Policy from the Constitution of which of the following countries?
+
+A. United Kingdom (U.K.) Britain
+B. United States of America (U.S.A.)
+C. Ireland
+D. Japan
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same Ireland fact.
+
+**Ans: C.** **Ireland**.
+
+</details>
+
+**Q19. U.P.P.C.S. (Spl) (Mains) 2008**
+
+In Indian Constitution, the idea of the Directive Principles of State Policy has been taken from the Constitution of –
+
+A. Ireland
+B. Canada
+C. South Africa
+D. Australia
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same Ireland fact.
+
+**Ans: A.** **Ireland**.
+
+</details>
+
+**Q20. 71st B.P.S.C. (Pre) 2025**
+
+Which of the following Directive Principles do not follow Gandhian Principles?
+
+1) Organization of Village Panchayats
+2) Common Civil Code
+3) Promotion of cottage Industry in rural areas
+4) Right to work
+
+A. 1 and 2
+B. Only 2
+C. 2 and 4
+D. 1 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** UCC = liberal–intellectual; Right to work = socialist. Panchayats and cottage industry are Gandhian.
+
+**Ans: C.** Statements **2 and 4**.
+
+</details>
+
+**Q21. U.P. Lower Sub. (Pre) 2004 / M.P.P.C.S. (Pre) 1992**
+
+Directive Principles of State Policy are-
+
+A. Justiciable
+B. Non-Justiciable
+C. Fundamental Rights
+D. None of these
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 37.
+
+**Ans: B.** **Non-Justiciable**.
+
+</details>
+
+**Q22. I.A.S. (Pre) 2013**
+
+According to the Constitution of India, which of the following are fundamental to the governance of the country?
+
+A. Fundamental Rights
+B. Fundamental Duties
+C. Directive Principles of State Policy
+D. Fundamental Rights and Fundamental Duties
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Phrase “fundamental in the governance” = Art. 37 DPSP.
+
+**Ans: C.** Directive Principles of State Policy.
+
+</details>
+
+### Section B — Articles map, classification & amendments
+
+**Q23. I.A.S. (Pre) 2021**
+
+Under the Indian Constitution, concentration of wealth violates
+
+A. the Right to Equality
+B. the Directive Principles of State Policy
+C. the Right to Freedom
+D. the concept of Welfare
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 39(c) — economic system should not concentrate wealth to the common detriment.
+
+**Ans: B.** The Directive Principles of State Policy (**Art. 39(c)**).
+
+</details>
+
+**Q24. U.P.P.C.S. (Pre) 1998 / U.P. Lower Sub. (Pre) 2004**
+
+‘Equal Pay for Equal Work’ has been ensured in the Indian Constitution as one of the:
+
+A. Fundamental Rights
+B. Directive Principles of State Policy
+C. Fundamental Duties
+D. Economic Rights
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Textual home = Art. 39(d). Courts have also deduced it via Preamble + 14 + 16.
+
+**Ans: B.** Directive Principles of State Policy.
+
+</details>
+
+**Q25. U.P.P.C.S. (Mains) 2012**
+
+Which one of the following is included in the Directive Principles of State Policy?
+
+A. Protection in respect of conviction for offences.
+B. Protection of life and personal liberty.
+C. Protection of interest of minorities.
+D. Equal pay for equal work for both men and women.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** A–C are Part III; equal pay is Art. 39(d).
+
+**Ans: D.** Equal pay for equal work for both men and women.
+
+</details>
+
+**Q26. U.P.P.C.S. (Mains) 2014**
+
+Which of the following is not a Fundamental Right?
+
+A. Right Against Exploitation
+B. Equal Pay for Equal Work
+C. Equality Before Law
+D. Right to Freedom of Religion
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Equal pay is DPSP 39(d), not a listed FR.
+
+**Ans: B.** Equal Pay for Equal Work.
+
+</details>
+
+**Q27. 45th B.P.S.C. (Pre) 2001**
+
+Panchayati Raj System in India is laid down under-
+
+A. Fundamental Rights
+B. Fundamental Duties
+C. Directive Principles of State Policy
+D. Election Commission Act
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 40 — organise village panchayats.
+
+**Ans: C.** Directive Principles of State Policy.
+
+</details>
+
+**Q28. 64th B.P.S.C. (Pre) 2018**
+
+Which one of the following Articles directs the State Governments to organize the Panchayats?
+
+A. Article 33
+B. Article 40
+C. Article 48
+D. Article 50
+E. None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 40 vs 48 cattle / 50 separation.
+
+**Ans: B.** **Article 40**.
+
+</details>
+
+**Q29. U.P.P.S.C. (GIC) 2017 / U.P.P.C.S. (Pre) 2014**
+
+Which one of the following Articles directs State Government to organize Village Panchayats?
+
+A. Article 32
+B. Article 40
+C. Article 48
+D. Article 51
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same Art. 40.
+
+**Ans: B.** **Article 40**.
+
+</details>
+
+**Q30. Uttarakhand P.C.S. (Pre) 2010**
+
+Under the Constitution of India organization of village panchayat is a
+
+A. Fundamental Right
+B. Fundamental Duty
+C. Directive Principle
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 40 DPSP.
+
+**Ans: C.** Directive Principle.
+
+</details>
+
+**Q31. 66th B.P.S.C. (Pre) (Re.) 2020**
+
+Match List -I with List-II and select the correct answer using the codes given below the Lists :
+
+| List - I | List - II |
+|---|---|
+| A. Formation of Village Panchayat | 1. Article 44 |
+| B. Uniform Civil Code | 2. Article 48 |
+| C. Agriculture and Animal Husbandry | 3. Article 50 |
+| D. Separation of Judiciary from Executive | 4. Article 51 |
+| E. Promotion of International Peace | 5. Article 50 |
+
+*Row order is not the answer code.*
+
+A. 3 4 2 1 5
+B. 5 3 2 1 4
+C. 2 3 5 4 1
+D. 1 5 3 4 2
+E. None of the above / More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Correct map is 40, 44, 48, 50, 51 — none of the A–D codes match.
+
+**Ans: E.** None of the above. Village Panchayat **40**, UCC **44**, agriculture **48**, separation **50**, peace **51**.
+
+</details>
+
+**Q32. U.P.P.C.S. (Pre) 2001 / U.P.U.D.A./L.D.A. (Pre) 2002**
+
+Match List- I with List- II and select the correct answer using the code given below:
+
+A. Art. 40 — 1. Organization of Village Panchayat
+B. Art. 41 — 2. Right to Work
+C. Art. 44 — 3. Uniform Civil Code
+D. Art. 48 — 4. Organisation of Agriculture and Animal Husbandry
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+B. 2 3 1 4
+C. 1 3 4 2
+D. 3 2 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Straight article–subject match.
+
+**Ans: A.** 40–Panchayat, 41–work, 44–UCC, 48–agriculture/animal husbandry.
+
+</details>
+
+**Q33. U.P.P.C.S. (Pre) 2020**
+
+Which one of the following is NOT correctly matched?
+
+A. Article 39A - Equal Justice and free legal aid
+B. Article 40 - Organisation of Village Panchayats
+C. Article 44 - Uniform Civil Code
+D. Article 48 - Separation of Judiciary from Executive
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 48 is agriculture/animal husbandry; separation = Art. 50.
+
+**Ans: D.** Article 48 is wrongly paired with separation of judiciary.
+
+</details>
+
+**Q34. R.A.S./R.T.S. (Pre) 2021**
+
+Identify the correct pair mentioning the Directive Principles of State Policy in the Constitution of India-
+
+A. Equal justice and free legal aid – Article 42
+B. Organisation of agriculture and animal husbandry – Article 43
+C. Organisation of village Panchayat – Article 41
+D. That there is equal pay for equal work for both men and women – Article 39
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Equal pay = 39(d). Legal aid is 39A; agriculture 48; panchayat 40.
+
+**Ans: D.** Equal pay for equal work — Article 39.
+
+</details>
+
+**Q35. Raj. P.C.S. (Pre) 2023**
+
+Match List—P with List—R:
+
+A. Equal justice and free legal aid — I. Article 48 A
+B. Protection of the environment — II. Article 39 A
+C. Right to Work — III. Article 41
+D. Protection of Monuments — IV. Article 49
+
+A. I III IV II
+B. II I III IV
+C. III I IV II
+D. II III I IV
+E. Question not attempted
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 39A / 48A / 41 / 49.
+
+**Ans: B.** II I III IV.
+
+</details>
+
+**Q36. U.P.P.C.S. (Pre) 2021**
+
+Which one of the following is NOT correctly matched?
+
+A. The separation of judiciary from executive -Article 50
+B. The promotion of educational and economic interests of Scheduled Castes and Scheduled Tribes -Article 46
+C. The promotion of Co-operative Societies -Article 43A
+D. The organisation of Village Panchayats -Article 40
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Co-operatives = **43B**; 43A is workers’ participation.
+
+**Ans: C.** Promotion of co-operative societies is **Article 43B**.
+
+</details>
+
+**Q37. U.P. Lower Sub. (Mains) 2013**
+
+Assertion (A) : MGNREGA is providing employment to at least one member of the eligible household for a minimum period of 100 days in a year.
+
+Reason (R) : Right to employment is enumerated in Part III of the Constitution.
+
+A. Both (A) and (R) are true, and (R) is the correct explanation of (A).
+B. Both (A) and (R) are true, but (R) is not a correct explanation of (A).
+C. (A) is true, but (R) is false.
+D. (A) is false, but (R) is true.
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** MGNREGA 100 days is true; right to work sits in DPSP Art. 41, not Part III.
+
+**Ans: C.** (A) true, (R) false.
+
+</details>
+
+**Q38. U.P. U.D.A./L.D.A. (Pre) 2010**
+
+MANREGA scheme has been launched as a part of implementing which one of the following Articles of the Indian Constitution?
+
+A. Article 43
+B. Article 45
+C. Article 47
+D. Article 50
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Living wage / decent work conditions — Art. 43 keyed for MGNREGA.
+
+**Ans: A.** **Article 43**.
+
+</details>
+
+**Q39. U.P.P.C.S. (Pre) 2019**
+
+Which of the following Article was inserted by the 42nd Constitution Amendment to provide for participation of workers in management?
+
+A. Article 38
+B. Article 39A
+C. Article 45
+D. Article 43A
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Workers’ participation = 43A via 42nd.
+
+**Ans: D.** **Article 43A**.
+
+</details>
+
+**Q40. U.P.P.C.S. (Pre) 2019 / U.P. Lower Sub. (Pre) 2009**
+
+Which Article of the Constitution of India has the provision of participation of workers in management of industry?
+
+A. Article 43
+B. Article 43A
+C. Article 45
+D. Article 47
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same 43A.
+
+**Ans: B.** **Article 43A**.
+
+</details>
+
+**Q41. Jharkhand P.C.S. (Pre) 2023**
+
+Which of the following Articles of the Constitution of India talks about the Uniform Civil Code (UCC)?
+
+A. Article 43
+B. Article 44
+C. Article 45
+D. Article 46
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** UCC = Art. 44.
+
+**Ans: B.** **Article 44**.
+
+</details>
+
+**Q42. I.A.S. (Pre) 2020**
+
+In India, separation of judiciary from the executive is enjoined by :
+
+A. the Preamble of the Constitution
+B. a Directive Principles of State Policy
+C. the Seventh Schedule
+D. the conventional practice
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 50 DPSP.
+
+**Ans: B.** A Directive Principle of State Policy.
+
+</details>
+
+**Q43. I.A.S. (Pre) 2002**
+
+Which one of the following Articles of the Directive Principles of State Policy deals with the promotion of international peace and security?
+
+A. 51
+B. 48 A
+C. 43 A
+D. 41
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** International peace = Art. 51.
+
+**Ans: A.** **51**.
+
+</details>
+
+**Q44. I.A.S. (Pre) 2014**
+
+In the Constitution of India, Promotion of International Peace and Security is included in the –
+
+A. Preamble to the Constitution
+B. Directive Principles of State Policy
+C. Fundamental Duties
+D. Ninth Schedule
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 51 in Part IV.
+
+**Ans: B.** Directive Principles of State Policy.
+
+</details>
+
+**Q45. U.P.P.C.S. (Mains) 2017**
+
+Which part of the Indian Constitution refers to the responsibility of the state towards International Peace and Security?
+
+A. Fundamental Rights
+B. Fundamental Duties
+C. Directive Principles of State Policy
+D. Preamble of the Constitution
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same Art. 51.
+
+**Ans: C.** Directive Principles of State Policy.
+
+</details>
+
+**Q46. U.P.P.C.S. (Pre) 2016**
+
+Which Article of the Indian Constitution is related to Indian Foreign Policy?
+
+A. Article 380
+B. Article 312
+C. Article 60
+D. Article 51
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Foreign-policy / international peace article.
+
+**Ans: D.** **Article 51**.
+
+</details>
+
+**Q47. U.P.P.C.S. (Pre) 1998**
+
+Which of the following was not added to the Directive Principles by the 42nd Amendment of the Constitution?
+
+A. Protection of Children and youth from exploitation
+B. Equal justice and free legal aid
+C. Uniform civil code
+D. Participation of workers in the management of industries
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** UCC (Art. 44) was original. 42nd added/recast 39(f), 39A, 43A (and 48A).
+
+**Ans: C.** Uniform Civil Code.
+
+</details>
+
+**Q48. I.A.S. (Pre) 2017**
+
+Which principle among the following was added to the Directive Principles of State Policy by the 42nd Amendment to the Constitution?
+
+A. Equal pay for equal work for both men and women
+B. Participation of workers in the management of industries
+C. Right to work, education and public assistance
+D. Securing living wage and human conditions of work to workers
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Workers’ participation Art. 43A is the 42nd insert among these.
+
+**Ans: B.** Participation of workers in the management of industries.
+
+</details>
+
+**Q49. U.P.P.C.S. (Mains) 2009**
+
+The Constitution grants right against exploitation to –
+
+1. Children 2. Women
+3. Tribals 4. Dalits
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 1, 2 and 3 only
+D. 2, 3 and 4 only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The word **Dalit** is not used in the Constitution.
+
+**Ans: C.** Children, women and tribals.
+
+</details>
+
+**Q50. U.P. U.D.A./L.D.A. (Pre) 2010**
+
+Which one of the following is not a Directive Principle of State Policy ?
+
+A. Prohibition of the consumption of Intoxicating Drinks
+B. Cow-Protection
+C. Environment-Protection
+D. Free Education to children up to the age of fourteen (14)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Free/compulsory education 6–14 is now FR Art. 21A; Art. 45 covers early childhood below 6.
+
+**Ans: D.** Free education up to fourteen is not presently a DPSP formula.
+
+</details>
+
+**Q51. U.P. Lower Sub. (Pre) 2013**
+
+Which one of the following is not a Directive Principle of State Policy?
+
+A. Prohibition of the consumption of intoxicating drinks.
+B. Prohibiting the slaughter of cows and calves.
+C. Protection and improvement of the environment.
+D. Free education for children up to the age of 16 years.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Wrong age / FR shift — free education to 16 is not the DPSP formula.
+
+**Ans: D.** Free education up to 16 years.
+
+</details>
+
+**Q52. I.A.S. (Pre) 2008**
+
+Which of the following is/are included in the Directive Principles of State Policy?
+
+1. Prohibition of Trafficking in human beings and forced labour.
+2. Prohibition of consumption except for medicinal purposes of intoxicating drinks and of other drugs which are injurious to health.
+
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Statement 2 = Art. 47. Trafficking/forced labour = FR Art. 23.
+
+**Ans: B.** 2 only.
+
+</details>
+
+**Q53. I.A.S. (Pre) 2012**
+
+Which of the above are the Gandhian Principles that are reflected in the Directive Principles of State policy?
+
+1. Securing Uniform Civil Code for citizens of India.
+2. Organizing Village Panchayats.
+3. Promoting Cottage Industries in Rural Areas.
+4. Securing for all the worker’s reasonable leisure and culture opportunities.
+
+A. 1, 2 and 4
+B. 2 and 3
+C. 1, 3 and 4
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Gandhian among these: Village Panchayats and cottage industries. UCC is liberal–intellectual.
+
+**Ans: B.** 2 and 3.
+
+</details>
+
+**Q54. U.P.P.C.S. (Pre) 2019**
+
+In which of the following 'the provisions for the protection and improvement of environment and safeguarding of forests and wildlife' are found in the Constitution of India?
+
+A. Only in the Directive Principles of State Policy
+B. Only in the Fundamental Duties
+C. Both (a) and (b)
+D. None of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 48A (DPSP) and Art. 51A(g) (Duty).
+
+**Ans: C.** Both (a) and (b).
+
+</details>
+
+**Q55. U.P.P.C.S. (Pre) 2023**
+
+Which of the following Provision is a part of both Directive Principles of State Policy and Fundamental Duties?
+
+A. Participation of workers in management of industries
+B. Protection of environment
+C. Guardians to provide opportunity for education to children
+D. Uniform Civil Code
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Environment — 48A and 51A(g).
+
+**Ans: B.** Protection of environment.
+
+</details>
+
+**Q56. U.P.P.C.S. (Mains) 2009**
+
+Which one of the following is a Directive Principle of State Policy?
+
+A. The State shall endeavor to protect and improve the environment.
+B. The State shall not deny equality to any person before the law.
+C. The State shall not discriminate against any person on the grounds of religion, race, casts, sex or place or birth.
+D. Untouchability enforcement.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 48A DPSP; others are Part III.
+
+**Ans: A.** Protect and improve the environment.
+
+</details>
+
+**Q57. U.P. Lower Sub (Pre) 2008**
+
+The Constitution is silent in the Directive Principles of State Policy about –
+
+A. Adult education
+B. Living wages for workers
+C. Free legal aid to the poor
+D. Primary education to children till they complete the age of 6 years
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Adult education not in Part IV. Living wage 43, legal aid 39A, early childhood <6 is Art. 45.
+
+**Ans: A.** Adult education.
+
+</details>
+
+**Q58. U.P.R.O./A.R.O. (Pre) 2014**
+
+Which of the following Directive Principles of State Policy was added to the Constitution at a later date?
+
+A. Organization of Village Panchayats
+B. Prohibition of Cow Slaughter
+C. Free Legal Aid
+D. Uniform Civil Code
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Free legal aid Art. 39A inserted by 42nd Amendment.
+
+**Ans: C.** Free Legal Aid.
+
+</details>
+
+**Q59. Raj. P.C.S. (Pre) 2024**
+
+In Which year it was inserted in the Constitution of India that the State shall secure free legal aid to any citizen by reason of economic or other disabilities?
+
+A. 1978
+B. 1976
+C. 1975
+D. 1979
+E. Question not attempted
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 42nd Amendment / Art. 39A year.
+
+**Ans: B.** **1976**.
+
+</details>
+
+**Q60. I.A.S. (Pre) 2013**
+
+With reference to National Legal Services Authority, consider the following statements:
+
+1. Its objective is to ensure free and competent legal services to the weaker sections of the society on the basis of equal opportunity.
+2. It issues guidelines to the state legal services authorities to implement the legal programmes and schemes throughout the country.
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** NALSA (Legal Services Authorities Act, 1987) implements the Art. 39A idea.
+
+**Ans: C.** Both 1 and 2.
+
+</details>
+
+**Q61. I.A.S. (Pre) 2020**
+
+In India, Legal Services Authorities provide free legal services to which of the following type of citizens?
+
+1. Person with an annual income of less than Rs. 1,00,000.
+2. Transgender with an annual income of less than Rs. 2,00,000.
+3. Member of Other Backward Classes (OBC) with an annual income of less than Rs. 3,00,000.
+4. All Senior Citizens.
+
+A. 1 and 2 only
+B. 3 and 4 only
+C. 2 and 3 only
+D. 1 and 4 only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Income ceiling and Delhi transgender example fit 1 and 2. OBC is not a listed free-aid category like SC/ST; not all senior citizens automatically qualify.
+
+**Ans: A.** 1 and 2 only.
+
+</details>
+
+**Q62. U.P.P.C.S. (Pre) 2006 / U.P.P.C.S. (Mains) 2010**
+
+Which of the following is not included in the Directive Principles of State Policy?
+
+A. Prohibition of Liquor
+B. Right to Work
+C. Equal Wage for Equal Work
+D. Right to Information
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** RTI is statutory (RTI Act, 2005), not a DPSP.
+
+**Ans: D.** Right to Information.
+
+</details>
+
+**Q63. U.P.P.C.S. (Mains) 2010 / U.P.P.S.C. (GIC) 2010**
+
+Which one of the following is a Directive Principle of the State Policy?
+
+A. Uniform Civil Code
+B. Freedom of the Press
+C. Freedom of the Religion
+D. Equality Before Law
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** UCC Art. 44; others are Part III / FR readings.
+
+**Ans: A.** Uniform Civil Code.
+
+</details>
+
+**Q64. U.P.P.C.S. (Mains) 2002**
+
+Identify the items included in the Directive Principles of State Policy.
+
+1. Prohibition of Consumption of Liquor
+2. Prohibition of employment of children in factories or mines
+3. Prohibition of beggar or forced labour
+4. Prohibition of untouchability
+
+A. 1 and 2
+B. 1, 2 and 3
+C. Only 1
+D. 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Only liquor/prohibition is DPSP (Art. 47). Child labour 24, begar 23, untouchability 17 are FR.
+
+**Ans: C.** Only 1.
+
+</details>
+
+**Q65. U.P. Lower (Spl) (Pre) 2008**
+
+Which one of the following is not a Directive Principle of State Policy?
+
+A. Equal pay for equal work for men and women
+B. Equal right to an adequate means of livelihood
+C. Abolition of Untouchability
+D. Just and humane conditions of work
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Untouchability = Art. 17 FR.
+
+**Ans: C.** Abolition of Untouchability.
+
+</details>
+
+**Q66. U.P.P.C.S. (Mains) 2007**
+
+“The Directive Principles of State Policy is a cheque which is paid on Bank’s Convenience," Who said it?
+
+A. B.R. Ambedkar
+B. K.M. Munshi
+C. Dr. Rajendra Prasad
+D. K.T. Shah
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Criticism of non-enforceability.
+
+**Ans: D.** **K.T. Shah**.
+
+</details>
+
+**Q67. I.A.S. (Pre) 2010**
+
+With reference to the Constitution of India, consider the following.
+
+1. Fundamental Rights
+2. Fundamental Duties
+3. Directive Principles of State Policy
+
+Which of the above provisions of the Constitution of India fulfilled the National Social Assistance Programme launched by the Government of India?
+
+A. Only 1
+B. Only 3
+C. Only 1 and 3
+D. All 1,2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** NSAP fulfils DPSP (Art. 41 line — work/education/public assistance).
+
+**Ans: B.** Only 3.
+
+</details>
+
+**Q68. 60th to 62nd B.P.S.C. (Pre) 2016**
+
+Which of the following is/are listed among the Directive Principles in Part-IV of the Constitution of India?
+
+I. Equal Pay for Equal Work
+II. Uniform Civil Code
+III. Small family norm
+IV. Education through mother tongue at primary level.
+
+A. I, II and III
+B. I and II
+C. II and III
+D. I, II and IV
+E. None of the above/More than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 39(d) and 44 are Part IV. Small family norm and Art. 350A mother-tongue are not Part IV DPSPs.
+
+**Ans: B.** I and II.
+
+</details>
+
+---
+
+## Ghatnachakra Extra Drill — Fundamental Duties
+
+Teaching sits in Topic 5 (Part IVA Art. 51A). Full MCQs from Ghatnachakra so you need not reopen the book.
+
+### Section A — Origin, Part IVA, Swaran Singh & count
+
+**Q1. I.A.S. (Pre) 2017**
+
+Which of the following statements is/are true of the Fundamental Duties of an Indian citizen?
+
+1. A legislative process has been provided to enforce these duties.
+2. They are correlative to legal duties.
+
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Duties are non-justiciable; no general constitutional legislative enforcement process; not correlative to legal duties in that sense.
+
+**Ans: D.** Neither 1 nor 2.
+
+</details>
+
+**Q2. U.P.P.C.S. (Pre) 2012 / Uttarakhand P.C.S. (Pre) 2002**
+
+The provisions relating to Fundamental Duties in the Constitution of India were added on the recommendation of:
+
+A. Balwant Rai Mehta Committee
+B. Iyengar Committee
+C. Swaran Singh Committee
+D. Thakkar Commission
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Swaran Singh → 42nd → Part IVA / 51A.
+
+**Ans: C.** **Swaran Singh Committee**.
+
+</details>
+
+**Q3. U.P.P.C.S. (Spl) (Mains) 2008**
+
+Which one of the following Committees/Commissions recommended the inclusion of Fundamental Duties in the Constitution?
+
+A. Swaran Singh Committee
+B. Ashok Mehta Committee
+C. Balram Jakhar Committee
+D. Sarkaria Commission
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same Swaran Singh fact.
+
+**Ans: A.** **Swaran Singh Committee**.
+
+</details>
+
+**Q4. R.A.S./R.T.S. (Pre) 2021 / Uttarakhand P.C.S. (Pre) 2025**
+
+Fundamental Duties were incorporated in the Constitution on the recommendation of -
+
+A. Swaran Singh Committee
+B. Shah Commission
+C. Administrative Reforms Commission
+D. Santhanam Committee
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same Swaran Singh fact.
+
+**Ans: A.** **Swaran Singh Committee**.
+
+</details>
+
+**Q5. Chhattisgarh P.C.S. (Pre) 2008**
+
+Which Amendment Act included the Fundamental Duties of citizens in the Indian Constitution?
+
+A. 42nd Amendment Act
+B. 56th Amendment Act
+C. 73rd Amendment Act
+D. 98th Amendment Act
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 42nd / Part IVA.
+
+**Ans: A.** **42nd Amendment Act**.
+
+</details>
+
+**Q6. R.A.S./R.T.S. (Re.) (Pre) 2013**
+
+The Fundamental Duty to uphold and protect the Sovereignty, Unity and Integrity of India is mentioned at number –
+
+A. four
+B. one
+C. two
+D. three
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 51A(a) Constitution/Flag; (b) freedom struggle; (c) sovereignty/unity/integrity = third.
+
+**Ans: D.** **Three** — Art. 51A(c).
+
+</details>
+
+**Q7. M.P.P.C.S. (Pre) 2017**
+
+When were the Fundamental Duties mentioned in the Constitution?
+
+A. At the time of framing of Constitution
+B. On 26th January, 1950
+C. In the 42nd Constitutional Amendment
+D. In the 41st Constitutional Amendment
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Not original 1950.
+
+**Ans: C.** In the **42nd Constitutional Amendment**.
+
+</details>
+
+**Q8. U.P.P.C.S. (Pre) 2015**
+
+Under which Articles of Indian Constitution, provision for Fundamental Duties has been made by the 42nd Constitutional Amendment Act?
+
+A. Article 50
+B. Article 51A
+C. Article 52
+D. Article 53
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Part IVA = only Art. 51A.
+
+**Ans: B.** **Article 51A**.
+
+</details>
+
+**Q9. R.A.S./R.T.S. (Pre) 2016**
+
+When were the Fundamental Duties incorporated in the Constitution?
+
+A. In 1976
+B. In 1979
+C. In 1975
+D. In 1978
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 42nd Amendment year.
+
+**Ans: A.** **1976**.
+
+</details>
+
+**Q10. Uttarakhand P.C.S. (Mains) 2006**
+
+In which year Fundamental Duties of Citizens were introduced by 42nd Amendment?
+
+A. 1976
+B. 1975
+C. 1978
+D. 1980
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same 1976.
+
+**Ans: A.** **1976**.
+
+</details>
+
+**Q11. U.P.P.S.C. (GIC) 2010 / U.P.P.C.S. (Mains) 2006**
+
+The Fundamental Duties are mentioned in which of the following part of the Constitution of India?
+
+A. Part-III
+B. Part IV
+C. Part-IV A
+D. Part VI
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Duties = Part IVA, not Part IV DPSP.
+
+**Ans: C.** **Part-IV A**.
+
+</details>
+
+**Q12. Jharkhand P.C.S. (Mains) 2016**
+
+The 'Fundamental Duties' are provided in which of the following part of the constitution of India?
+
+A. Part - II
+B. Part - III
+C. Part - IV
+D. Part - IV A
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same Part IVA.
+
+**Ans: D.** **Part - IV A**.
+
+</details>
+
+**Q13. R.A.S./R.T.S. (Pre) 2018**
+
+Which of the following were members of the Swaran Singh Committee (1976)?
+
+(A) A.R. Antulay (B) S.S. Ray
+(C) Haridev Joshi (D) C.M. Stephen
+
+A. (A), (B), (C) and (D)
+B. (A), (B) and (C)
+C. (A), (B) and (D)
+D. (B), (C) and (D)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Haridev Joshi was not a member.
+
+**Ans: C.** Antulay, S.S. Ray and C.M. Stephen.
+
+</details>
+
+**Q14. U.P.P.C.S. (Pre) 1993 / M.P.P.C.S. (Pre) 1990**
+
+By which Constitutional Amendment, ten Fundamental Duties were added in the Constitution for Indian citizens?
+
+A. 24th
+B. 38th
+C. 44th
+D. 42nd
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Originally ten duties by 42nd; eleventh by 86th.
+
+**Ans: D.** **42nd**.
+
+</details>
+
+**Q15. U.P.P.C.S. (Mains) 2011 / U.P.P.C.S. (Mains) 2012**
+
+Fundamental Duties of Indian citizens are enumerated in–
+
+A. Part I of the Constitution
+B. Part IV A of the Constitution
+C. Part II of the Constitution
+D. Part IV of the Constitution
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Part IVA.
+
+**Ans: B.** Part IV A.
+
+</details>
+
+**Q16. Uttarakhand P.C.S. (Pre) 2006**
+
+Which Article of Indian Constitution enumerates Fundamental Duties of Indian citizens?
+
+A. Article 50-A
+B. Article 50-B
+C. Article 51-A
+D. Article 51-B
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 51A.
+
+**Ans: C.** **Article 51-A**.
+
+</details>
+
+**Q17. 45th B.P.S.C. (Pre) 2001**
+
+The 10 commandments, which were added by 42nd Amendment Act in Constitution of India, are called as?
+
+A. Fundamental Rights
+B. Fundamental Duties
+C. Panchayati Raj Principles
+D. Directive Principles of State Policy
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Ten duties via 42nd.
+
+**Ans: B.** Fundamental Duties.
+
+</details>
+
+**Q18. U.P. Lower Sub. (Pre) 2002 / Uttarakhand U.D.A./L.D.A (Pre) 2007**
+
+Which of the following Amendment Acts is related to Fundamental Duties in the Indian Constitution?
+
+A. 38th
+B. 41st
+C. 42nd
+D. 45tth
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 42nd Amendment.
+
+**Ans: C.** **42nd**.
+
+</details>
+
+**Q19. 45th B.P.S.C. (Pre) 2001 / 48th to 52nd B.P.S.C. (Pre) 2008**
+
+Fundamental Duties were incorporated in the Constitution of India by the –
+
+A. 32nd Amendment Act
+B. 42nd Amendment Act
+C. 15th Amendment Act
+D. 46th Amendment Act
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same 42nd.
+
+**Ans: B.** **42nd Amendment Act**.
+
+</details>
+
+**Q20. 44th B.P.S.C. (Pre) 2000**
+
+The 42nd Amendment Act (1976) has incorporated into the Constitution of India a new chapter on –
+
+A. Administration of Union Territories
+B. Formation of Inter-State Councils
+C. Fundamental Duties
+D. None of these
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** New Part IVA.
+
+**Ans: C.** Fundamental Duties.
+
+</details>
+
+### Section B — What is / is not a Duty
+
+**Q21. U.P.P.C.S. (Pre) 2003 / U.P.U.D.A./L.D.A. (Pre) 2000**
+
+Which of the following statements regarding Fundamental Duties is not true:
+
+A. They can be enforced by writs
+B. They can be promoted only by constitutional methods
+C. They can be used for interpreting ambiguous statutes
+D. The performance of any particular duty comes within the sphere of constitutional law which court has to decide
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Duties cannot be enforced by writs — non-justiciable.
+
+**Ans: A.** They can be enforced by writs — this is **not** true.
+
+</details>
+
+**Q22. U.P.P.C.S. (Pre) 2021**
+
+Under the Constitution of India which of the following is not Fundamental Duty?
+
+A. To vote in General Election
+B. To develop the scientific temper
+C. To safeguard public property
+D. To abide by the Constitution and respect its ideas
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Voting is not in Art. 51A.
+
+**Ans: A.** To vote in General Election.
+
+</details>
+
+**Q23. M.P.P.C.S. (Pre) 2023**
+
+Article 51-A deals with Fundamental Duties. Currently how many Fundamental Duties are mentioned?
+
+A. 10
+B. 11
+C. 12
+D. 15
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 10 by 42nd + 51A(k) by 86th.
+
+**Ans: B.** **11**.
+
+</details>
+
+**Q24. M.P.P.C.S. (Pre) 2021**
+
+The word 'To Abide and Respect' under the Provisions of Article 51A of Constitution of India is concerned to-
+
+A. Constitution
+B. The sovereignty, unity and integrity of India
+C. Rich heritage of our composite culture
+D. The natural environment
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 51A(a) — abide by the Constitution and respect Flag/Anthem.
+
+**Ans: A.** Constitution.
+
+</details>
+
+**Q25. 45th B.P.S.C. (Pre) 2001**
+
+Which one of the following is a Fundamental Duty in India?
+
+A. Separation of judiciary from executive
+B. To value and preserve the rich heritage of our composite culture
+C. Free and compulsory education
+D. Abolition of Untouchability
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 51A(f). Separation is DPSP 50; untouchability FR 17.
+
+**Ans: B.** To value and preserve the rich heritage of our composite culture.
+
+</details>
+
+**Q26. U.P. Lower Sub. (Pre) 2008**
+
+The Fundamental Duties of a citizen do not include duty –
+
+A. To protect and improve the natural environment
+B. To cherish and follow the noble ideals which inspired our national struggle for freedom
+C. To strive towards abolition of untouchability
+D. To develop scientific temper, humanism and the spirit of enquiry and reform.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Untouchability is Art. 17 FR.
+
+**Ans: C.** To strive towards abolition of untouchability.
+
+</details>
+
+**Q27. U.P.P.C.S. (Re.) (Pre) 2015**
+
+Which one of the following is not a part of Fundamental Duties under Indian Constitution?
+
+A. To defend the country and render national service.
+B. To value and preserve the rich heritage of our composite culture.
+C. To help in organizing Village Panchayats.
+D. To safeguard public property and to abjure violence.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Village panchayats = DPSP Art. 40.
+
+**Ans: C.** To help in organizing Village Panchayats.
+
+</details>
+
+**Q28. U.P. B.E.O. (Pre) 2019**
+
+Which of the following duties have been prescribed by the Indian Constitution as Fundamental Duties?
+
+1. To defend the country
+2. To pay income tax
+3. To preserve the rich heritage of our composite culture
+4. To safeguard the public property
+
+A. 1 and 2
+B. 2 and 4
+C. 1, 2 and 4
+D. 1, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Paying income tax is not a Fundamental Duty.
+
+**Ans: D.** 1, 3 and 4.
+
+</details>
+
+**Q29. I.A.S. (Pre) 2012**
+
+Which of the following is/are among the Fundamental Duties of citizens laid down in the Indian Constitution?
+
+1. To preserve the rich heritage of our composite culture.
+2. To protect the weaker sections from social injustice.
+3. To develop the scientific temper and spirit of inquiry.
+4. To strive towards excellence in all spheres of individual and collective activity.
+
+A. 1 and 2
+B. Only 2
+C. 1, 3 and 4
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Weaker sections protection = DPSP Art. 46, not a Duty.
+
+**Ans: C.** 1, 3 and 4.
+
+</details>
+
+**Q30. U.P. Lower (Spl) (Pre) 2008**
+
+Protection of which one of the following is a Fundamental Duty of an Indian citizen?
+
+A. Village Panchayat
+B. National Flag
+C. Scheduled Castes/Scheduled Tribes
+D. Wild Life
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Wildlife under 51A(g). Flag is to be respected under 51A(a); this key is Wild Life.
+
+**Ans: D.** Wild Life.
+
+</details>
+
+**Q31. U.P.P.C.S. (Pre) 1998**
+
+“It shall be the duty of every citizen of India to protect and improve the natural environment”?. The above statement refers to which of the following Articles of the Constitution of India?
+
+A. Article 21
+B. Article 48-A
+C. Article 51-A
+D. Article 56
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Citizen duty wording = 51A(g). Art. 48A is the parallel State DPSP.
+
+**Ans: C.** **Article 51-A**.
+
+</details>
+
+**Q32. U.P.P.C.S. (Mains) 2009**
+
+Which one of the following is incorrect?
+
+A. Fundamental Duties are the part of the Fundamental Rights.
+B. Fundamental Duties are not a part of Fundamental Rights.
+C. Fundamental Duties are enumerated in Part-IV A of the Indian Constitution.
+D. Article 51A explains the duties of every citizen of India.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Duties are a separate Part IVA — not part of FR.
+
+**Ans: A.** Statement A is incorrect.
+
+</details>
+
+**Q33. U.P.P.C.S. (Mains) 2007**
+
+Which one of the following is not a Fundamental Duty?
+
+A. To respect the National Anthem
+B. To safeguard public property
+C. To protect monuments and places of public importance
+D. to protect and improve the natural environment
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Monuments = DPSP Art. 49.
+
+**Ans: C.** To protect monuments and places of public importance.
+
+</details>
+
+**Q34. U.P.P.C.S. (Pre) 2022**
+
+Which of the following is not a fundamental duty?
+
+A. To protect and improve the natural environment
+B. To respect the National Anthem
+C. To protect monuments and places of national importance
+D. To safeguard public property
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same monuments / Art. 49 trap.
+
+**Ans: C.** To protect monuments and places of national importance.
+
+</details>
+
+**Q35. U.P.P.C.S. (Mains) 2014**
+
+Which one of the following is NOT provided in part IV A (Fundamental Duties) of the Indian Constitution?
+
+A. To respect the National Flag.
+B. To promote spirit of brotherhood amongst all people of India.
+C. To respect our parents and teachers
+D. To preserve the rich heritage of our composite culture.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Respecting parents/teachers is not listed in 51A (education duty for child 6–14 is different).
+
+**Ans: C.** To respect our parents and teachers.
+
+</details>
+
+**Q36. I.A.S. (Pre) 2011**
+
+Under the Constitution of India, which one of the following is not a Fundamental Duty?
+
+A. To vote in public elections
+B. To develop scientific temper
+C. To safeguard public property
+D. To abide by the Constitution and respect its ideals
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same vote trap.
+
+**Ans: A.** To vote in public elections.
+
+</details>
+
+**Q37. U.P. Lower Sub. (Pre) 2009**
+
+Which one of the following is not correctly matched?
+
+Parts of the Constitution - Subject
+
+A. Part II - Citizenship
+B. Part III - Fundamental Rights
+C. Part IV - Directive Principles of State Policy
+D. Part V - Fundamental Duties
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Duties are Part IVA; Part V is the Union.
+
+**Ans: D.** Part V is not Fundamental Duties.
+
+</details>
+
+**Q38. I.A.S. (Pre) 2025**
+
+Consider the following pairs :
+
+I. Separation of Judiciary from the Executive in the public services of the State — The Directive Principles of the State Policy
+II. Valuing and preserving of the rich heritage of our composite culture — The Fundamental Duties
+III. Prohibition of employment of children below the age of 14 years in factories — The Fundamental Rights
+
+How many of the above pairs are correctly matched?
+
+A. Only one
+B. Only two
+C. All the three
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 50 DPSP; Art. 51A(f) Duty; Art. 24 FR.
+
+**Ans: C.** All the three.
+
+</details>
+
+**Q39. I.A.S. (Pre) 2015**
+
+“To uphold and protect the Sovereignty, Unity and Integrity of India” is a provision made in the –
+
+A. Preamble of the Constitution
+B. Directive Principles of State Policy
+C. Fundamental Rights
+D. Fundamental Duties
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 51A(c).
+
+**Ans: D.** Fundamental Duties.
+
+</details>
+
+**Q40. U.P.P.C.S. (Mains) 2014 / U.P.R.O./A.R.O. (Mains) 2014**
+
+How many Fundamental Duties are there in the Indian Constitution?
+
+A. Nine
+B. Eleven
+C. Twelve
+D. Twenty
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 10 + 51A(k).
+
+**Ans: B.** **Eleven**.
+
+</details>
+
+**Q41. U.P. B.E.O. (Pre) 2019**
+
+Match List-I with List-II and select the correct answer from the codes given below the lists :
+
+| List-I | List-II |
+|---|---|
+| A. To foster respect for international law | 1. Article 51-A (h) |
+| B. To have compassion for living creatures | 2. Article 51 (c) |
+| C. To develop spirit of inquiry and reform | 3. Article 50 |
+| D. To separate judiciary from the executive in Public Service of the State | 4. Article 51A (g) |
+
+*Row order is not the answer code.*
+
+A. 1 2 3 4
+B. 2 4 1 3
+C. 4 3 2 1
+D. 3 1 4 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** International law 51(c); compassion 51A(g); inquiry 51A(h); separation 50.
+
+**Ans: B.** 2 4 1 3.
 
 </details>
 

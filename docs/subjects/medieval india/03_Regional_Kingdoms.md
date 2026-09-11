@@ -88,7 +88,6 @@ Sharqi Sultanate (Jaunpur) | Kashmir under Zain-ul-Abidin | Gujarat Sultanate (q
 
 ### PYQ — Sharqi monuments
 
-
 **1. (UPPCS Prelims 2018, Q19)** Which of the following pairs is **NOT** correctly matched (Monument–Place)?
 
 A. Adina Masjid–Mandu |
@@ -109,7 +108,6 @@ D. Tin Darwaza–Ahmedabad
 **Trap:** **Lal Darwaza–Jaunpur** (B) is **correct** Sharqi architecture — candidates often mark B wrong because they confuse Lal Darwaza with Tin Darwaza.
 
 </details>
-
 
 **2. (UPPCS Prelims 2019, Q91)** Arrange the following in chronological order:
 
@@ -189,7 +187,6 @@ D. A false, R true
 
 ### PYQ — Kashmir
 
-
 **1. (UPPCS Prelims 2023, Q36)** Which ruler of Kashmir abolished **Jaziya** and **cow slaughter**?
 
 A. Shamsuddin Shah |
@@ -212,7 +209,6 @@ D. Haider Shah
 </details>
 
 ---
-
 
 ## 3.2a Gujarat Sultanate (quick card)
 
@@ -477,7 +473,6 @@ D. A false, R true
 
 ### PYQ — Books match
 
-
 **1. (UPPCS Prelims 2023, Q33)** Match List-I (Book) with List-II (Context):
 
 | List-I | List-II |
@@ -583,7 +578,6 @@ D. 4-2-3-1
 
 ### PYQs — Deccan Sultanates
 
-
 **1. (UPPCS Prelims 2020, Q44)** Who among the following was the author of the book **Kitab-i-Nauras**?
 
 A. Ibrahim Adil Shah II |
@@ -604,7 +598,6 @@ D. Akbar II
 **Trap:** Krishnadevaraya** wrote **Amuktamalyada** (Telugu) — papers swap the two Deccan literary facts.
 
 </details>
-
 
 **2. (UPPCS Prelims 2020, Q34)** Who was the ruler of Golkonda when Aurangzeb seized the fort of Golkonda in **1687**?
 
@@ -676,7 +669,6 @@ D. A false, R true
 
 ## Complete PYQ Bank (Topic 3)
 
-
 **Q1. UPPCS Prelims 2018, Q19**
 
 Which of the following pairs is NOT correctly matched?
@@ -698,7 +690,6 @@ D. Tin Darwaza – Ahmedabad
 **Trap:** Do not mark **Lal Darwaza–Jaunpur** (B) wrong — it is a famous **Sharqi** monument pair in UP.
 
 </details>
-
 
 **Q2. UPPCS Prelims 2019, Q91**
 
@@ -722,7 +713,6 @@ D. III, IV, II, I
 
 </details>
 
-
 **Q3. UPPCS Prelims 2020, Q34**
 
 Who was the ruler of Golkonda when Aurangzeb seized the fort of Golkonda in 1687?
@@ -745,7 +735,6 @@ D. Shayasta Khan
 
 </details>
 
-
 **Q4. UPPCS Prelims 2020, Q44**
 
 Who among the following was the author of the book **Kitab-i-Nauras**?
@@ -767,7 +756,6 @@ D. Akbar II
 **Trap:** Amuktamalyada** belongs to **Krishnadevaraya (Vijayanagara)** — do not cross-assign Deccan book facts.
 
 </details>
-
 
 **Q5. UPPCS Prelims 2023, Q33**
 
@@ -800,7 +788,6 @@ D. 4-2-3-1
 
 </details>
 
-
 **Q6. UPPCS Prelims 2023, Q36**
 
 Which among the following rulers of Kashmir abolished **Jaziya** and **cow slaughter**?
@@ -825,7 +812,6 @@ D. Haider Shah
 
 ---
 
-
 ## Ghatnachakra Extra Drill — Provincial Dynasties (UPPCS first, then others)
 
 Teaching for these stems sits in **3.1–3.5**.
@@ -844,8 +830,6 @@ D. Akbar
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** City founded in memory of Jauna Khan / MbT = Jaunpur (by Firuz).
 
 **Ans: B.** **Firuz** founded the city naming it for cousin **Jauna Khan (Muhammad bin Tughlaq)**.
 
@@ -866,8 +850,6 @@ D. Sikandar Lodi
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Who established Jaunpur city = Firuz.
-
 **Ans: B.** City by Firuz; independent Sharqi state later by **Malik Sarwar**.
 
 </details>
@@ -887,8 +869,6 @@ D. Varanasi
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Shiraz of East = Jaunpur under Ibrahim Shah Sharqi.
-
 **Ans: C.** Under **Ibrahim Shah Sharqi** — also **Siraj-i-Hind** / Shiraz of India.
 
 </details>
@@ -907,8 +887,6 @@ D. Ibrahim Shah
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** Last Jaunpur ruler = Hussain Shah.
 
 **Ans: B.** Defeated by **Bahlul Lodi**.
 
@@ -931,8 +909,6 @@ D. Both true, R not explanation
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** Siraj-e-Hind explained by education/culture centre.
-
 **Ans: B.** Cultural/educational fame under Sharqis (esp. **Ibrahim**) earned the title.
 
 </details>
@@ -951,8 +927,6 @@ D. Zain-ul-Abidin
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** Abolished jizya + cow slaughter = Zain-ul-Abidin (UPPCS 2023).
 
 **Ans: D.** Also **Akbar of Kashmir**; *Mahabharata* / *Rajatarangini* into Persian; **Zaina Lank** in **Wular**.
 
@@ -973,8 +947,6 @@ D. Malik Sarwar Khwaja Jahan – Malwa
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Malik Sarwar NOT Malwa — Jaunpur.
-
 **Ans: D.** **Malik Sarwar / Khwaja-i-Jahan** founded **Sharqi Jaunpur**, not Malwa.
 
 </details>
@@ -993,8 +965,6 @@ D. 1361
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** Bahmani founding year = 1347.
 
 **Ans: C.** **1347** at **Gulbarga**; founder **Alauddin Hasan Bahman Shah (Hasan Gangu)**.
 
@@ -1015,8 +985,6 @@ D. 16th century
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 1347 falls in the 14th century — not 15th or 13th.
-
 **Ans: B.** **1347** = **14th century**.
 
 </details>
@@ -1036,8 +1004,6 @@ D. Akbar II
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Kitab-i-Nauras author = Ibrahim Adil Shah II.
-
 **Ans: A.** Bijapur; also **Jagatguru**.
 
 </details>
@@ -1056,8 +1022,6 @@ D. Yusuf Adil Shah – Ahmadnagar
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** Wrong pair Yusuf Adil Shah–Ahmadnagar.
 
 **Ans: D.** **Yusuf Adil Shah** = **Bijapur**; Ahmadnagar = **Nizam Shahi (Malik Ahmad)**.
 
@@ -1082,8 +1046,6 @@ D. Zain-ul-Abidin
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Akbar of Kashmir = Zain-ul-Abidin.
-
 **Ans: D.**
 
 </details>
@@ -1102,8 +1064,6 @@ D. Akbar
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** First abolish jizya (UK context) = Zain-ul-Abidin.
 
 **Ans: A.** Coaching key for this stem.
 
@@ -1124,8 +1084,6 @@ D. Mujahid Shah
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Bahmani founder = Alauddin Hasan Bahman Shah (Hasan Gangu), 1347.
-
 **Ans: A.** **1347**; first capital **Gulbarga (Ahsanabad)**.
 
 </details>
@@ -1144,8 +1102,6 @@ D. Hussainabad
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** First Bahmani capital = Gulbarga.
 
 **Ans: B.** Later **Bidar**.
 
@@ -1175,8 +1131,6 @@ D. 4 3 2 1
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Deccan dynasty–capital match — Adil Shahi Bijapur, Qutb Shahi Golconda, Nizam Shahi Ahmadnagar, Sharqi Jaunpur.
-
 **Ans: A (2-3-1-4).** Adil Shahi–**Bijapur**; Qutb Shahi–**Golconda**; Nizam Shahi–**Ahmadnagar**; Sharqi–**Jaunpur**.
 
 **Trap:** **Yusuf Adil Shah** founded **Bijapur**, not Ahmadnagar — swap Adil with Nizam if unsure.
@@ -1198,8 +1152,6 @@ D. Mahmud II
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Jagadguru = Ibrahim Adil Shah (IAS 2000).
-
 **Ans: C.** Bijapur; *Kitab-i-Nauras*; **Nauraspur**.
 
 </details>
@@ -1218,8 +1170,6 @@ D. Gol Gumbad, Bijapur
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** Gol Gumbad = one of world’s largest domes.
 
 **Ans: D.** Tomb of **Muhammad Adil Shah**.
 
@@ -1240,8 +1190,6 @@ D. Muhammad Shah
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Diu surrendered by Bahadur Shah of Gujarat.
-
 **Ans: C.** **1535** treaty with Nuno da Cunha.
 
 </details>
@@ -1261,14 +1209,11 @@ D. Akbar
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Gujari Mahal = Man Singh Tomar.
-
 **Ans: B.** **Man Singh Tomar** (~1486–1516); now a museum.
 
 </details>
 
 ---
-
 
 **Q-GC10. IAS 2001 / UPPCS Mains 2003 / RO 2014**
 
@@ -1284,8 +1229,6 @@ D. Sringeri and Dharwar
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** Hoysala temple art cluster = Halebid and Belur.
 
 **Ans: B.** Famous **Hoysala** temples at **Halebid** and **Belur**; **Somnathpur** is another Hoysala site.
 
@@ -1305,8 +1248,6 @@ D. Somnathpur
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** Hoysala capital Dwarasamudra = modern Halebidu.
 
 **Ans: B.** **Dwarasamudra** = **Halebidu (Halebid)**.
 
@@ -1336,8 +1277,6 @@ D. 4 3 2 1
 <details>
 <summary>Show answer</summary>
 
-**Logic:** South dynasty–capital match — Pallava Kanchi, Pandya Madura, Yadava Devagiri, Kakatiya Warangal.
-
 **Ans: A (2-3-1-4).** Pallava–**Kanchi**; Pandya–**Madura**; Yadava–**Devagiri**; Kakatiya–**Warangal**.
 
 **Trap:** **Warangal** is **Kakatiya**, not Yadava — Devagiri belongs to the **Yadava** line.
@@ -1359,12 +1298,9 @@ D. Western Chalukya
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Rudrama Devi ruled the Kakatiya kingdom of Warangal.
-
 **Ans: C.** Fourth independent **Kakatiya** ruler; daughter of **Ganapati Deva**; capital **Warangal**.
 
 </details>
-
 
 ---
 
@@ -1384,8 +1320,6 @@ D. Mujahid Shah
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** Bahmani founder (UKPCS 2002).
 
 **Ans: A.** **Alauddin Hasan Bahman Shah (Hasan Gangu)**, **1347**, capital **Gulbarga**.
 
@@ -1415,8 +1349,6 @@ D. 4 3 2 1
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Dynasty–city match (UKPCS 2003).
-
 **Ans: A (2-3-1-4).** Adil–**Bijapur**; Qutb–**Golconda**; Nizam–**Ahmadnagar**; Sharqi–**Jaunpur**.
 
 </details>
@@ -1435,8 +1367,6 @@ D. Akbar
 
 <details>
 <summary>Show answer</summary>
-
-**Logic:** Abolished jizya first (UK UDA 2006).
 
 **Ans: A.** **Zain-ul-Abidin (Bud Shah)** of Kashmir — also called **Akbar of Kashmir**.
 

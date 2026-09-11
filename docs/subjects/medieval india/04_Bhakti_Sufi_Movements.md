@@ -255,7 +255,6 @@ North sants: Namdev → Kabir / Ravidas → Nanak → Chaitanya → Surdas → T
 - **Ramananda** was born in a **Kanyakubja Brahmin** family at **Prayag (~1299)**. He was the first major north Indian sant to preach in **Hindi**, and his pupils cut across caste.
 - His dictum runs: *Let no man ask a man's sect or caste* — a standard north-India equality fact.
 
-
 - **Ramananda** (14th–15th century) was born near **Prayag** and settled in **Banaras**.
 - He shifted worship from Vishnu to the more accessible **Rama** and opened the path to **all castes and women**.
 - Ramananda's famous couplet runs: *"Jat-pat puchhe nahi koi, Hari ko bhaje so Hari ka hoi"* — no one asks caste; whoever worships God belongs to God.
@@ -645,7 +644,6 @@ Standard UPPCS syllabi test regional strands beyond the Gangetic "sant" line. Ea
 
 ## Complete PYQ Bank (Topic 4)
 
-
 **Q1. UPPCS Prelims 2018, Q90**
 
 Assertion (A): Many Sanskrit works on music were translated into Persian during medieval period. Reason (R): Early Chishti sufis were fond of musical assemblies called 'sama'.
@@ -670,7 +668,6 @@ D. A false, R true
 
 </details>
 
-
 **Q2. UPPCS Prelims 2019, Q14**
 
 Hath Yog: 1. Practiced by Nathpanthis 2. Adopted by Sufis
@@ -690,7 +687,6 @@ D. Neither
 **Trap:** Sufi adoption does **not** mean all Sufi orders practised yoga — the fact is **some Chishti circles**, not universal Sufism.
 
 </details>
-
 
 **Q3. UPPCS Prelims 2020, Q40**
 
@@ -712,7 +708,6 @@ D. Nizamuddin Auliya — Multan
 
 </details>
 
-
 **Q4. UPPCS Prelims 2021, Q101**
 
 Fawaid ul Fawad compiled by: A. Amir Hassan Sizzi | B. Amir Khusro | C. Ziauddin Barni | D. Hasan Nizami
@@ -724,7 +719,6 @@ Fawaid ul Fawad compiled by: A. Amir Hassan Sizzi | B. Amir Khusro | C. Ziauddin
 **Trap:** Khusrau's literary fame makes candidates pick B — fact **Sijzi** for Fawaid-ul-Fuad.
 
 </details>
-
 
 **Q5. UPPCS Prelims 2022, Q33**
 
@@ -755,7 +749,6 @@ D. 4 3 2 1
 
 </details>
 
-
 **Q6. UPPCS Prelims 2023, Q39**
 
 Which poetess–composition pair is **not** matched?
@@ -775,7 +768,6 @@ D. Mirabai — Padas
 **Trap:Mirabai–Padas** (D) is correct — do not mark D wrong when hunting the NOT-matched option.
 
 </details>
-
 
 **Q7. UPPCS Prelims 2025, Q12**
 
@@ -806,7 +798,6 @@ D. 2 3 1 4
 
 </details>
 
-
 **Q8. UPPCS Prelims 2025, Q74**
 
 Arrange the following saints in correct chronological order and select the correct answer from the code given below:
@@ -834,12 +825,9 @@ D. 4 3 2 1
 
 ---
 
-
 ## Ghatnachakra Extra Drill — Bhakti & Sufi (UPPCS first)
 
 Teaching for these stems sits in **4.1–4.18**.
-
-**Logic:** Early Bhakti in south India begins with Alvar–Nayanar devotion.
 
 **Q1. UP UDA/LDA (Pre) 2001 / UPPCS 1993**
 
@@ -860,8 +848,6 @@ D. Tulsidas
 
 </details>
 
-**Logic:** Mass north Indian sant wave peaks in the 15th–16th century.
-
 **Q1b. UP UDA/LDA (Pre) 2001 / UPPCS 1993**
 
 The Bhakti movement was reborn in north India during:
@@ -880,8 +866,6 @@ D. 15th–16th century
 **Ans: D.** **Kabir, Nanak, Tulsi, Sur, Mira** mark the **15th–16th century** north Indian rebirth after the early south phase.
 
 </details>
-
-**Logic:** Vernacular preaching is the shared Bhakti feature.
 
 **Q2. BPSC 2005 (pattern)**
 
@@ -902,8 +886,6 @@ D. Encouraged idol worship
 
 </details>
 
-**Logic:** First Bhakti saint to preach in Hindi = Ramananda.
-
 **Q3. IAS (Pre) 2002 / UPPCS Mains 2010**
 
 Who among the following was the first Bhakti Saint to use Hindi for the propagation of his message?
@@ -922,8 +904,6 @@ D. Tulsidas
 **Ans: C.** **Ramananda** of **Prayag** used Hindi for mass preaching; **Kabir** was among his disciples.
 
 </details>
-
-**Logic:** Ramananda's birthplace = Prayag (Allahabad).
 
 **Q3b. IAS (Pre) 2002 / UPPCS Mains 2010**
 
@@ -944,8 +924,6 @@ D. Tulsidas
 
 </details>
 
-**Logic:** Bijak = Kabir; Amarmul = Kabir–Dharamdas.
-
 **Q4. UPPCS Prelims 2003 / UDA 2002**
 
 A collection of dialogues between Kabir and Dharamdas is titled:
@@ -965,8 +943,6 @@ D. Ramaini
 
 </details>
 
-**Logic:** Shankaradeva popularised Ekasarana Vaishnavism in Assam (Kamarupa) and Cooch Behar.
-
 **Q5. UPPCS Mains 2002 / Prelims 2015 / Mains 2011**
 
 Vaishnavism in Kamarupa (Assam) and Cooch Behar was popularised by:
@@ -985,8 +961,6 @@ D. Shankaradeva
 **Ans: D.** **Ekasarana** Vaishnava movement; often called the **Chaitanya of Assam**.
 
 </details>
-
-**Logic:** Dvaita school belongs to Madhvacharya — not Shankara or Ramanuja.
 
 **Q6. UPPCS Mains 2005 / Prelims 2022 / IAS 2014**
 
@@ -1009,8 +983,6 @@ D. Shuddhadvaita — Madhvacharya
 
 </details>
 
-**Logic:** Guru Nanak's public career unfolded under Delhi Sultan **Sikandar Lodi**.
-
 **Q7. UPPCS Spl Pre 2008 / Mains 2007**
 
 In whose regime did Guru Nanak preach and lay the foundations of Sikh religion?
@@ -1029,8 +1001,6 @@ D. Akbar
 **Ans: B.** Nanak's mature preaching phase falls under **Sikandar Lodi** (1489–1517).
 
 </details>
-
-**Logic:** Nanak was born at Nankana Sahib, not Amritsar.
 
 **Q7b. UPPCS Spl Pre 2008 / Mains 2007**
 
@@ -1051,8 +1021,6 @@ D. Nanded
 
 </details>
 
-**Logic:** Tulsidas lived during Akbar and Jahangir's reigns.
-
 **Q8. UPPCS Spl Pre 2004 / UK UDA 2007**
 
 Tulsidas was a contemporary of:
@@ -1071,8 +1039,6 @@ D. Babur and Humayun
 **Ans: A.** **Tulsidas** (1532–1623) overlapped **Akbar** and **Jahangir**.
 
 </details>
-
-**Logic:** Ramcharitmanas is Tulsidas's Awadhi retelling of Rama's story.
 
 **Q8b. UPPCS Spl Pre 2004 / UK UDA 2007**
 
@@ -1093,8 +1059,6 @@ D. Ved Vyas
 
 </details>
 
-**Logic:** Rasik Priya ≠ Raskhan.
-
 **Q9. UPPCS Prelims 2018**
 
 Which of the following pairs is NOT correctly matched?
@@ -1113,8 +1077,6 @@ D. Usman – Chitrawali
 **Ans: C.** **Rasik Priya** = **Keshavdas**; Raskhan wrote *Prem Vatika* / *Sujan Raskhan*.
 
 </details>
-
-**Logic:** Namdev is the classic early Varkari saint.
 
 **Q10. UPPCS Mains 2002/04 / RAS 2018**
 
@@ -1135,8 +1097,6 @@ D. Ramdas
 
 </details>
 
-**Logic:** Varkari pilgrimage centre = Pandharpur on the Chandrabhaga.
-
 **Q10b. UPPCS Mains 2002/04 / RAS 2018**
 
 The main seat (peeth) of the **Varkari** tradition is:
@@ -1155,8 +1115,6 @@ D. Varanasi
 **Ans: C.** **Pandharpur** (Vitthal temple on the **Chandrabhaga/Bhima**).
 
 </details>
-
-**Logic:** Moinuddin Chishti brought the Chishti silsilah to India and settled at Ajmer.
 
 **Q11. UPPCS Pre 2002 / 2011 / 2014 / Lower 2004**
 
@@ -1177,8 +1135,6 @@ D. Abdul Qadir Jilani
 
 </details>
 
-**Logic:** Moinuddin's pir was Usman Haruni — not Abdul Qadir Jilani (Qadiri founder).
-
 **Q11b. UPPCS Pre 2002 / 2011 / 2014 / Lower 2004**
 
 Moinuddin Chishti was the disciple of:
@@ -1197,8 +1153,6 @@ D. Abdul Qadir Jilani
 **Ans: A.** **Usman Haruni** was Moinuddin's **murshid**; Jilani belongs to the **Qadiri** line.
 
 </details>
-
-**Logic:** Salim Chishti of Fatehpur Sikri held the title Shaikh-ul-Hind.
 
 **Q11c. UPPCS Pre 2002 / 2011 / 2014 / Lower 2004**
 
@@ -1219,8 +1173,6 @@ D. Bakhtiyar Kaki
 
 </details>
 
-**Logic:** Mehboob-i-Ilahi = Nizamuddin Auliya of Delhi.
-
 **Q12. UPPCS Pre 2014 / UKPCS 2016 / RO 2017**
 
 Which Sufi saint was called **Mehboob-i-Ilahi** (Beloved of God)?
@@ -1239,8 +1191,6 @@ D. Nizamuddin Auliya
 **Ans: D.** **Nizamuddin Auliya** refused **Alauddin Khalji's** royal grants and lived on voluntary offerings.
 
 </details>
-
-**Logic:** Chiragh-i-Delhi = Nasiruddin Mahmud, Nizamuddin's successor.
 
 **Q12b. UPPCS Pre 2014 / UKPCS 2016 / RO 2017**
 
@@ -1261,8 +1211,6 @@ D. Nasiruddin Mahmud
 
 </details>
 
-**Logic:** Baba Farid's verses were incorporated into the Adi Granth.
-
 **Q13. UPPCS Pre 1994 / 2020**
 
 Whose thought was incorporated in the **Adi Granth**?
@@ -1282,8 +1230,6 @@ D. Nizamuddin Auliya
 
 </details>
 
-**Logic:** Nizamuddin Auliya belongs to Delhi — not Multan.
-
 **Q13b. UPPCS Pre 1994 / 2020**
 
 Which of the following saint–place pairs is **NOT** correctly matched?
@@ -1302,8 +1248,6 @@ D. Bahauddin Zakariya — Multan
 **Ans: C.** **Nizamuddin** is the **Delhi** Chishti saint; **Multan** belongs to **Bahauddin Zakariya** (Suhrawardi).
 
 </details>
-
-**Logic:** Match Chishti–Naqshbandi–Qadiri–Suhrawardi silsilahs to their exemplars.
 
 **Q14. UPPCS Mains 2013**
 
@@ -1335,8 +1279,6 @@ D. 3 2 1 4
 
 </details>
 
-**Logic:** Order against music = Naqshbandiya.
-
 **Q15. UPPCS Pre 2003 / Mains 2013**
 
 Which Sufi order was against music?
@@ -1355,8 +1297,6 @@ D. Naqshbandiya
 **Ans: D.** Most orthodox; opposed Sama; Sirhindi line.
 
 </details>
-
-**Logic:** Krishna as Auliya = Muhammad Ghaus.
 
 **Q16. UPPCS Pre 2003 / Mains 2012**
 
@@ -1377,8 +1317,6 @@ D. Khwaja Mir Dard
 
 </details>
 
-**Logic:** Not related to Sufism = Ulema.
-
 **Q17. UPPSC RI 2014**
 
 Which of the following is not related to Sufism?
@@ -1397,8 +1335,6 @@ D. Sama
 **Ans: A.** Ulema = law scholars.
 
 </details>
-
-**Logic:** Prem Vatika is Raskhan's Krishna bhakti work.
 
 **Q18. IAS 1996 / BPSC 1994 / UPPCS 2008**
 
@@ -1419,8 +1355,6 @@ D. Bihari Lal
 
 </details>
 
-**Logic:** Barahmasa romantic epic = Malik Muhammad Jayasi.
-
 **Q18b. IAS 1996 / BPSC 1994 / UPPCS 2008**
 
 **Barahmasa** was written by:
@@ -1439,8 +1373,6 @@ D. Bihari Lal
 **Ans: A.** **Jayasi's** *Padmavat* tradition includes the **Barahmasa** genre of medieval Hindi literature.
 
 </details>
-
-**Logic:** Dewa Sharif fair in Barabanki honours Haji Waris Ali Shah.
 
 **Q18c. IAS 1996 / BPSC 1994 / UPPCS 2008**
 
@@ -1461,8 +1393,6 @@ D. Garhmukteshwar
 
 </details>
 
-**Logic:** Hath Yog Nath + Sufi (UPPCS 2019).
-
 **Q19. UPPCS Prelims 2019**
 
 With reference to Hath Yog: 1. Practiced by Nathpanthis 2. Technique also adopted by Sufis
@@ -1481,8 +1411,6 @@ D. Neither
 **Ans: C.**
 
 </details>
-
-**Logic:** Tulsidas birth/wife statements (RO 2023) — both false in that stem.
 
 **Q20. UP R.O./A.R.O. (Pre) 2023**
 
@@ -1506,8 +1434,6 @@ D. Neither
 ---
 
 ### Other papers (Ghatnachakra Extra)
-
-**Logic:** Sufi mystics used breath control, ascetic discipline, and sama — all three count.
 
 **Q-GC1. IAS (Pre) 2012**
 
@@ -1534,8 +1460,6 @@ D. 1, 2 and 3
 
 </details>
 
-**Logic:** Only Guru Nanak was actively preaching when Ibrahim Lodi fell and Babur seized Delhi (1526).
-
 **Q-GC2. IAS (Pre) 2013**
 
 Who among the following was preaching when the Lodi dynasty fell and Babur established Mughal rule in India?
@@ -1554,8 +1478,6 @@ D. All of the above
 **Ans: B.** **Guru Nanak** (1469–1539) was alive through **1526**; **Tyagaraja** (18th c.) and **Dadu** (16th c. later phase) do not fit the 1526 moment.
 
 </details>
-
-**Logic:** Bhakti saint–profession match — Namdev tailor, Kabir weaver, Ravidas cobbler, Sena barber.
 
 **Q-GC3. IAS (Pre) 2001**
 
@@ -1587,8 +1509,6 @@ D. 2 1 4 3
 
 </details>
 
-**A/R logic:** A tests Moinuddin's prominence; R tests Chishti name origin — village is in Afghanistan, not Ajmer.
-
 **Q-GC4. IAS (Pre) 1997**
 
 Assertion (A): Moinuddin Chishti is the most prominent Chishti figure in India.
@@ -1609,8 +1529,6 @@ D. A false, R true
 **Ans: C.** **A is true** — Moinuddin made Ajmer the great Indian Chishti centre. **R is false** — the order is named after **Chisht in Afghanistan**, not Ajmer.
 
 </details>
-
-**Logic:** Nimbarka predates Akbar; Kabir died before Ahmad Sirhindi — neither statement holds.
 
 **Q-GC5. IAS (Pre) 2019**
 
@@ -1636,8 +1554,6 @@ D. Neither 1 nor 2
 
 </details>
 
-**Logic:** Firdausi silsila spread in Bihar under Yahya Maneri.
-
 **Q-GC6. BPSC Re-Exam 2024**
 
 Which Sufi **silsilah** was founded and spread mainly in **Bihar**?
@@ -1656,8 +1572,6 @@ D. Qadiriya
 **Ans: B.** **Firdausiya / Firdausi** line of **Shaikh Sharfuddin Yahya Maneri** (Maner, Bihar).
 
 </details>
-
-**Logic:** Suhrawardi order stayed mainly in Sindh, Multan, and Punjab — not pan-India like Chishti.
 
 **Q-GC7. Rajasthan PCS 2023**
 
@@ -1682,8 +1596,6 @@ D. Suhrawardiya
 
 ### UKPCS Complete PYQ Bank
 
-**Logic:** Chiragh-i-Delhi is Nasiruddin Mahmud — not Nizamuddin's own title.
-
 **Q-UK1. UKPCS Prelims 2025, Q58**
 
 Who was popularly known as Chiragh-i-Delhi?
@@ -1702,8 +1614,6 @@ D. Qutbuddin Bakhtiyar Kaki
 **Ans: B (Series B provisional key).** **Nasiruddin Mahmud** succeeded Nizamuddin as head of the Delhi Chishti line. Nizamuddin is **Mahbub-i-Ilahi**; Farid is **Baba Farid**; Bakhtiyar Kaki is the Mehrauli saint.
 
 </details>
-
-**Logic:** Mahboob-i-Ilahi = Nizamuddin Auliya (UKPCS 2016).
 
 **Q-UK2. UKPCS Prelims 2016**
 
@@ -1724,8 +1634,6 @@ D. Shaikh Nasiruddin Chirag-i-Dehalivi
 
 </details>
 
-**Logic:** Amir Khusrau was a court poet in the Chishti circle — not a Bhakti saint.
-
 **Q-UK3. UKPCS (Mains) 2006**
 
 Which of the following is not associated with the Bhakti Movement?
@@ -1744,8 +1652,6 @@ D. Amir Khusrau
 **Ans: D.** **Amir Khusrau** was **Nizamuddin Auliya's** disciple and a **Persian–Hindavi** court poet, not a Bhakti reformer.
 
 </details>
-
-**Logic:** Rudrama Devi ruled the Kakatiya kingdom (provincial spill from Ghatnachakra).
 
 **Q-UK4. UKPCS Prelims 2021**
 

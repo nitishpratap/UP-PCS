@@ -6,8 +6,6 @@ Drill file for dual-exam Medieval. Year banks: [UKPCS PYQs](../../../ukpcs/pyqs/
 
 ### UKPCS Prelims 2025, Q55 — Sanskrit biographies
 
-**Logic:** Match court biography to author; swap Hemachandra/Bilhana is the trap.
-
 | List-I (Biography) | List-II (Author) |
 |--------------------|------------------|
 | A. Ramcharita | 3. Sandhyakarnandi |
@@ -23,8 +21,6 @@ Drill file for dual-exam Medieval. Year banks: [UKPCS PYQs](../../../ukpcs/pyqs/
 </details>
 
 ### UKPCS Prelims 2025, Q56 — Amir Khusrau texts
-
-**Logic:** All four named works are Khusrau’s; do not drop Qiran-us-Sadain.
 
 Which texts are written by Amir Khusrau?  
 1. Khazain-ul-Futuh  2. Nuh Sipihr  3. Miftah-ul-Futuh  4. Qiraan-us-Sadain
@@ -43,8 +39,6 @@ D. All 1, 2, 3 and 4
 
 ### UKPCS Prelims 2025, Q57 — Diwan-i-Amir-i-Kohi
 
-**Logic:** Agriculture department of Muhammad bin Tughlaq.
-
 Who founded ‘Diwan-i-amir-i-kohi’ to improve agriculture?
 
 A. Alauddin Khalji  
@@ -60,8 +54,6 @@ D. Sher Shah Suri
 </details>
 
 ### UKPCS Prelims 2025, Q58 — Chiragh-i-Delhi
-
-**Logic:** Title of Nasiruddin Mahmud, not of Nizamuddin himself.
 
 Who was popularly known as Chiragh-i-Delhi?
 
@@ -79,8 +71,6 @@ D. Qutbuddin Bakhtiyar Kaki
 
 ### UKPCS Prelims 2025, Q59 — Babur’s early battles
 
-**Logic:** Order is Panipat → Khanwa → Chanderi → Ghagra.
-
 Arrange: I Panipat I · II Khanwa · III Ghagra · IV Chanderi
 
 A. I, II, III, IV  
@@ -96,8 +86,6 @@ D. I, III, IV, II
 </details>
 
 ### UKPCS Prelims 2025, Q60 — Jahangir’s painters
-
-**Logic:** Basawan is Akbar’s atelier; drop him.
 
 Famous painters at Jahangir’s court: 1 Basawan · 2 Manohar · 3 Bishun Das · 4 Mansur
 
