@@ -85,7 +85,7 @@ Later Mughals | Disintegration of the Mughal Empire | Nadir Shah | Hyderabad Niz
 | Jai Singh observatories | Five cities including Mathura; not Allahabad | जय सिंह |
 | Saadat Khan vs Murshid Quli | Awadh 1722 vs Bengal Nawabi | सआदत / मुर्शिद क़ुली |
 | Fitch vs Bernier | English 1580s vs French Aurangzeb court | फिच / बर्नियर |
-| 1608 vs 1611 | Hawkins arrives vs trap year on 2023 Q31 | 1608 / 1611 |
+| 1608 vs 1611 | Hawkins arrives **1608** vs trap year **1611** | 1608 / 1611 |
 | Awadh 1722 vs annex 1856 | Nawabi start vs Dalhousie end | 1722 / 1856 |
 
 ---
@@ -160,7 +160,7 @@ Later Mughals | Disintegration of the Mughal Empire | Nadir Shah | Hyderabad Niz
 - The **Levant Company** received a **1592** charter for **land-route** trade with India before the sea EIC.
 - **William Hawkins** reached India in **1608** on the **Hector**.
 - He went to **Jahangir’s** court (arrived court **1609**) and spoke **Turkish**.
-- The claim that he came in **1611 as James I’s envoy** is the standard false half of **2023 Q31**.
+- The claim that he came in **1611 as James I’s envoy** is false — Hawkins reached India in **1608**.
 - Under **Jahangir**, the English opened a **temporary factory at Masulipatnam in 1611**.
 - **Captain Thomas Best** defeated the Portuguese at **Swally** near Surat (**1612**), clearing the way for a lasting foothold.
 - The first **permanent** English factory rose at **Surat in 1613**. Surat was the early **Western Presidency** before Bombay.
@@ -211,7 +211,7 @@ Later Mughals | Disintegration of the Mughal Empire | Nadir Shah | Hyderabad Niz
 - **Third Carnatic War** ties to the Seven Years’ War and ends with the **Treaty of Paris (1763)**.
 - British success owed much to **naval superiority** and later to **Bengal wealth and manpower** after Plassey–Diwani.
 
-### PYQ — Aix-la-Chapelle 1748 (2020 Q18 / 2025 Q67)
+### PYQ — Aix-la-Chapelle 1748
 
 **1.** Consider the **Treaty of Aix-la-Chapelle (1748)**:
 
@@ -437,7 +437,7 @@ D. Neither 1 nor 2
 
 **Ans: C (Both 1 and 2)Key:** Both statements are true — war ended **1748** and **Madras** (taken 1746) went back to the English.
 
-**Trap:** Same pair as **2025 Q67** — not **Paris 1763** (Seven Years' War).
+**Trap:** **Aix-la-Chapelle (1748)** restored French factories — not **Paris (1763)** of the Seven Years' War.
 
 </details>
 
@@ -1771,7 +1771,9 @@ D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: BWhy:** 2023 Q31; arrival is 1608.
+**Logic:** **William Hawkins** reached India in **1608**, not 1611.
+
+**Ans: B.** Hawkins arrived **1608**.
 
 **Trap:** Test each statement separately before choosing the code.
 
@@ -1791,7 +1793,7 @@ D. Only 1
 
 **Ans: CKey:** Both statements are correct.
 
-**Why:** 2025 Q67 / 2020 Q18.
+**Logic:** **Aix-la-Chapelle (1748)** ended the First Carnatic War and restored French factories in India.
 
 **Trap:** Test each statement separately before choosing the code.
 
@@ -1827,7 +1829,9 @@ D. 2-1-3-4
 
 <details><summary>Show answer</summary>
 
-**Ans: AOrder:** 2025 Q26.
+**Logic:** Apply the chronological fact tested by the stem.
+
+**Ans: A.** Order follows the stem's date sequence.
 
 **Trap:** Check dates before matching option codes.
 
@@ -2459,9 +2463,9 @@ D. True only for Fitch
 25. Jai Singh observatories exclude **Allahabad**; include **Mathura**.
 26. Zafar’s pension was about **one lakh/month**, not “less than one lakh”.
 
-1. **William Hawkins** did not arrive in **1611**. He reached India in **1608** (2023 Q31 = B).
+1. **William Hawkins** did not arrive in **1611**. He reached India in **1608**.
 2. **Sir Thomas Roe** did not come in **1608**. He served as ambassador in **1615–19**.
-3. In the **2021 Q75** four-name list, **Ralph Fitch** comes first.
+3. Among early European travellers, **Ralph Fitch** (1580s) precedes Bernier and Hawkins.
 4. **Vasco da Gama** did not take Goa. **Albuquerque** captured it in **1510**.
 5. The English EIC charter is **1600**. The Dutch VOC charter is **1602**, not 1600.
 6. **Pondicherry** is French. It is not Dutch or Danish.

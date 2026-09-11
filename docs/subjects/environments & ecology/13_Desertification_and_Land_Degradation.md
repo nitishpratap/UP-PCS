@@ -187,10 +187,10 @@ D. Only 1
 
 India aims to achieve **Land Degradation Neutrality (LDN)** by—
 
-A. 2025  
-B. 2030  
-C. 2035  
-D. 2040  
+A. 2025 
+B. 2030 
+C. 2035 
+D. 2040 
 
 <details>
 <summary>Show answer</summary>
@@ -209,13 +209,13 @@ D. 2040
 
 Consider the following statements about **earthworms**:
 
-1. Earthworms increase soil fertility and are known as friends of farmers.  
-2. Earthworms have **two pairs** of hearts.  
+1. Earthworms increase soil fertility and are known as friends of farmers. 
+2. Earthworms have **two pairs** of hearts. 
 
-A. 2 only  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
-D. 1 only  
+A. 2 only 
+B. Neither 1 nor 2 
+C. Both 1 and 2 
+D. 1 only 
 
 <details>
 <summary>Show answer</summary>
@@ -234,15 +234,15 @@ D. 1 only
 
 Arrange the following programmes **chronologically**:
 
-1. Food for Work Programme  
-2. Community Development Programme (CDP)  
-3. Training of Rural Youth for Self-Employment (TRYSEM)  
-4. Drought Prone Areas Programme (DPAP)  
+1. Food for Work Programme 
+2. Community Development Programme (CDP) 
+3. Training of Rural Youth for Self-Employment (TRYSEM) 
+4. Drought Prone Areas Programme (DPAP) 
 
-A. 4, 2, 3, 1  
-B. 2, 4, 1, 3  
-C. 2, 4, 3, 1  
-D. 4, 2, 1, 3  
+A. 4, 2, 3, 1 
+B. 2, 4, 1, 3 
+C. 2, 4, 3, 1 
+D. 4, 2, 1, 3 
 
 <details>
 <summary>Show answer</summary>
@@ -261,10 +261,10 @@ D. 4, 2, 1, 3
 
 Which of the following is **NOT** a cause of land degradation?
 
-A. Overgrazing  
-B. Unsustainable mining  
-C. **Afforestation**  
-D. Improper irrigation leading to salinization  
+A. Overgrazing 
+B. Unsustainable mining 
+C. **Afforestation** 
+D. Improper irrigation leading to salinization 
 
 <details>
 <summary>Show answer</summary>
@@ -283,10 +283,10 @@ D. Improper irrigation leading to salinization
 
 The international treaty to combat **desertification** is—
 
-A. UNFCCC  
-B. **UNCCD**  
-C. Montreal Protocol  
-D. MARPOL  
+A. UNFCCC 
+B. **UNCCD** 
+C. Montreal Protocol 
+D. MARPOL 
 
 <details>
 <summary>Show answer</summary>
@@ -305,10 +305,10 @@ D. MARPOL
 
 A major consequence of **soil erosion** in river basins is—
 
-A. Increased stratospheric ozone  
-B. **Silting of rivers and reservoirs**  
-C. Expansion of coral reefs  
-D. Permanent ocean acidification reversal  
+A. Increased stratospheric ozone 
+B. **Silting of rivers and reservoirs** 
+C. Expansion of coral reefs 
+D. Permanent ocean acidification reversal 
 
 <details>
 <summary>Show answer</summary>
@@ -327,10 +327,10 @@ D. Permanent ocean acidification reversal
 
 The **Chambal ravines** are a classic example of—
 
-A. Wind deflation in the Thar Desert  
-B. **Gully/ravine erosion** across MP–UP–Rajasthan  
-C. Glacier-scoured valleys in the Himalaya  
-D. Coastal retreat from sea-level rise  
+A. Wind deflation in the Thar Desert 
+B. **Gully/ravine erosion** across MP–UP–Rajasthan 
+C. Glacier-scoured valleys in the Himalaya 
+D. Coastal retreat from sea-level rise 
 
 <details>
 <summary>Show answer</summary>
@@ -349,10 +349,10 @@ D. Coastal retreat from sea-level rise
 
 Which pair is **correctly** matched?
 
-A. Thar Desert — wind erosion hotspot  
-B. Chambal — stratospheric ozone hole  
-C. **MARPOL — marine pollution**; **UNCCD — desertification**  
-D. Afforestation — primary cause of land degradation  
+A. Thar Desert — wind erosion hotspot 
+B. Chambal — stratospheric ozone hole 
+C. **MARPOL — marine pollution**; **UNCCD — desertification** 
+D. Afforestation — primary cause of land degradation 
 
 <details>
 <summary>Show answer</summary>

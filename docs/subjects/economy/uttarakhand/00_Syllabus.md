@@ -1,7 +1,7 @@
 # Economy of Uttarakhand (UKPCS)
 
-**Exam track:** UKPCS Unit 4 — Uttarakhand.  
-**Parent subject:** [Economy](../00_Syllabus.md)  
+**Exam track:** UKPCS Unit 4 — Uttarakhand. 
+**Parent subject:** [Economy](../00_Syllabus.md) 
 **Desk:** [UKPCS Syllabus](../../../ukpcs/00_Syllabus.md)
 
 ## Heads stored in this folder

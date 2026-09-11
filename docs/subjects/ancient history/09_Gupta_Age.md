@@ -1789,7 +1789,7 @@ A. Junagadh, 150 CE B. Eran, about 510 CE C. Bhitari, 326 BCE D. Sanchi, 78 CE
 17. **King-queen gold = Chandragupta II Shaka type** → **Chandragupta I** + Kumaradevi.
 18. **Lyrist coin = Chandragupta II** → **Samudragupta**.
 19. **Allahabad pillar is only Gupta** → Mauryan shaft reused.
-20. **2022 Q87 Maukhari pairs = imperial Gupta** → Ishanavarman / Jivitagupta II are **later**. Sarvavarman ≠ Gaya plate.
+20. **Maukhari pairs treated as imperial Gupta** → Ishanavarman / Jivitagupta II are **later**. **Sarvavarman ≠ Gaya** plate.
 21. **Chapter starts at Chandragupta II** → Sri Gupta → Ghatotkacha → **Chandragupta I** first.
 22. **Ramagupta = hard inscription king** → play-trap (*Devichandraguptam*).
 23. **Devagupta = Chandragupta Maurya** → Devagupta is an alias of **Chandragupta II**.

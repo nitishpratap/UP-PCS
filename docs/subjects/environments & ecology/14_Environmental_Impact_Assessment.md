@@ -81,7 +81,7 @@ Environmental Impact Assessment (EIA) | Strategic Environmental Assessment (SEA)
 
 > ** note:** Carrying capacity — waste generation must stay within the environment's absorption limit; that is what EIA evaluates.
 
-> ** note:** Org trap (2025 Q70 pattern) — **CGWB** reports groundwater quality; **CPCB** does not grant EC. EC = **MoEFCC/SEIAA**.
+> **Logic:** Org trap — **CGWB** reports groundwater quality; **CPCB** does not grant EC. EC = **MoEFCC/SEIAA**.
 
 | Category | Authority | Screening? | Full EIA? |
 |----------|-----------|------------|-----------|
@@ -140,13 +140,13 @@ Environmental Impact Assessment (EIA) | Strategic Environmental Assessment (SEA)
 
 With reference to **carrying capacity**, consider the following statements:
 
-1. Resource extraction should remain **above** the rate of regeneration.  
-2. Waste generation should stay within the environment's **absorption capacity**.  
+1. Resource extraction should remain **above** the rate of regeneration. 
+2. Waste generation should stay within the environment's **absorption capacity**. 
 
-A. 2 only  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
-D. 1 only  
+A. 2 only 
+B. Neither 1 nor 2 
+C. Both 1 and 2 
+D. 1 only 
 
 <details>
 <summary>Show answer</summary>
@@ -165,10 +165,10 @@ D. 1 only
 
 **Environmental Clearance (EC)** for large Category A projects is granted by—
 
-A. Central Pollution Control Board (CPCB)  
-B. **Ministry of Environment, Forest and Climate Change (MoEFCC)**  
-C. Central Ground Water Board (CGWB)  
-D. Botanical Survey of India (BSI)  
+A. Central Pollution Control Board (CPCB) 
+B. **Ministry of Environment, Forest and Climate Change (MoEFCC)** 
+C. Central Ground Water Board (CGWB) 
+D. Botanical Survey of India (BSI) 
 
 <details>
 <summary>Show answer</summary>
@@ -187,10 +187,10 @@ D. Botanical Survey of India (BSI)
 
 The **Environment (Protection) Act, 1986** — which enables EIA notification — was preceded by which chronological pair of pollution statutes?
 
-A. Air Act 1974; Water Act 1981  
-B. Water Act 1974; Air Act 1981  
-C. Water Act 1981; Air Act 1974  
-D. EPA 1986; Water Act 1974  
+A. Air Act 1974; Water Act 1981 
+B. Water Act 1974; Air Act 1981 
+C. Water Act 1981; Air Act 1974 
+D. EPA 1986; Water Act 1974 
 
 <details>
 <summary>Show answer</summary>
@@ -209,10 +209,10 @@ D. EPA 1986; Water Act 1974
 
 **Environmental Clearance** for Category A projects is finally granted by—
 
-A. Expert Appraisal Committee (EAC) directly  
-B. **MoEFCC on EAC recommendation**  
-C. Central Pollution Control Board  
-D. National Green Tribunal  
+A. Expert Appraisal Committee (EAC) directly 
+B. **MoEFCC on EAC recommendation** 
+C. Central Pollution Control Board 
+D. National Green Tribunal 
 
 <details>
 <summary>Show answer</summary>
@@ -231,10 +231,10 @@ D. National Green Tribunal
 
 In India, **EIA is mandatory** for—
 
-A. Every economic activity in the country  
-B. **Projects listed in the EIA Notification Schedule**  
-C. Only foreign-investment projects  
-D. Only mining projects below 1 ha  
+A. Every economic activity in the country 
+B. **Projects listed in the EIA Notification Schedule** 
+C. Only foreign-investment projects 
+D. Only mining projects below 1 ha 
 
 <details>
 <summary>Show answer</summary>
@@ -253,10 +253,10 @@ D. Only mining projects below 1 ha
 
 India's **EIA Notification** is issued under powers of the—
 
-A. Water (Prevention and Control of Pollution) Act, 1974  
-B. Air (Prevention and Control of Pollution) Act, 1981  
-C. **Environment (Protection) Act, 1986**  
-D. Wildlife (Protection) Act, 1972  
+A. Water (Prevention and Control of Pollution) Act, 1974 
+B. Air (Prevention and Control of Pollution) Act, 1981 
+C. **Environment (Protection) Act, 1986** 
+D. Wildlife (Protection) Act, 1972 
 
 <details>
 <summary>Show answer</summary>
@@ -275,10 +275,10 @@ D. Wildlife (Protection) Act, 1972
 
 The **National Green Tribunal** was established under an Act passed in—
 
-A. 1986  
-B. 2005  
-C. **2010**  
-D. 2015  
+A. 1986 
+B. 2005 
+C. **2010** 
+D. 2015 
 
 <details>
 <summary>Show answer</summary>
@@ -297,10 +297,10 @@ D. 2015
 
 **Strategic Environmental Assessment (SEA)** is conducted at the level of—
 
-A. Individual factory chimneys only  
-B. **Policies, plans and programmes**  
-C. Single-tree plantation plots  
-D. Household kitchen waste only  
+A. Individual factory chimneys only 
+B. **Policies, plans and programmes** 
+C. Single-tree plantation plots 
+D. Household kitchen waste only 
 
 <details>
 <summary>Show answer</summary>
@@ -319,10 +319,10 @@ D. Household kitchen waste only
 
 The **Espoo Convention** mainly concerns—
 
-A. Transboundary **Environmental Impact Assessment**  
-B. Whaling quotas in the Southern Ocean  
-C. Acid rain only in Europe  
-D. CFC phase-out schedules  
+A. Transboundary **Environmental Impact Assessment** 
+B. Whaling quotas in the Southern Ocean 
+C. Acid rain only in Europe 
+D. CFC phase-out schedules 
 
 <details>
 <summary>Show answer</summary>

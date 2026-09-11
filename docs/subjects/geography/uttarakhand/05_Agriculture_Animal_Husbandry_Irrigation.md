@@ -113,9 +113,9 @@
 
 ## Must-Score Facts
 
-1. AH is a **supplementary** occupation (Q102 stmt 1).
-2. 2025 Q102 = **Only 1** (Series B).
-3. 2025 Q107 = **Haridwar** (Series B); US Nagar is the frequent rival.
+1. Animal husbandry is a **supplementary** occupation in Uttarakhand, not the sole primary livelihood for most households.
+2. On cultivated-area / AH stems, often **only the first statement** holds — read both carefully.
+3. Major sugarcane / irrigated plains district rivalry often pits **Haridwar** against **Udham Singh Nagar**.
 4. Plains lead cultivated area; hills lead terrace / horticulture stories.
 5. Tarai = canal–tubewell; hills = springs / guls.
 
@@ -132,10 +132,10 @@ Consider the following statements:
 1. Animal husbandry is a supplementary occupation of agriculture.
 2. Sheep rearing in the mountainous areas has been affected by environmental degradation.
 
-A. Both 1 and 2  
-B. Only 2  
-C. Only 1  
-D. Neither 1 nor 2  
+A. Both 1 and 2 
+B. Only 2 
+C. Only 1 
+D. Neither 1 nor 2 
 
 <details>
 <summary>Show answer</summary>
@@ -150,10 +150,10 @@ D. Neither 1 nor 2
 
 Which district of Uttarakhand has the highest agricultural land?
 
-A. Haridwar  
-B. Udham Singh Nagar  
-C. Dehradun  
-D. Nainital  
+A. Haridwar 
+B. Udham Singh Nagar 
+C. Dehradun 
+D. Nainital 
 
 <details>
 <summary>Show answer</summary>
@@ -170,10 +170,10 @@ D. Nainital
 
 **Q1.** Canal and tubewell irrigation in Uttarakhand is most characteristic of:
 
-A. High alpine valleys only  
-B. Tarai / plains districts such as Haridwar and Udham Singh Nagar  
-C. The Trans-Himalaya alone  
-D. Only Chamoli and Uttarkashi  
+A. High alpine valleys only 
+B. Tarai / plains districts such as Haridwar and Udham Singh Nagar 
+C. The Trans-Himalaya alone 
+D. Only Chamoli and Uttarkashi 
 
 <details>
 <summary>Show answer</summary>
@@ -186,10 +186,10 @@ D. Only Chamoli and Uttarkashi
 
 **Q2.** In Uttarakhand’s rural economy, animal husbandry is best described as:
 
-A. The sole occupation replacing crops in all districts  
-B. A supplementary occupation to agriculture  
-C. Limited only to Tarai towns  
-D. Unrelated to manure or milk  
+A. The sole occupation replacing crops in all districts 
+B. A supplementary occupation to agriculture 
+C. Limited only to Tarai towns 
+D. Unrelated to manure or milk 
 
 <details>
 <summary>Show answer</summary>

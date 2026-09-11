@@ -806,7 +806,7 @@ A. Dholavira and Bhagatrav B. Harappa and Kot Diji C. Mohenjo-daro and Lothal D.
 
 ## UP Focus (once)
 
-- **Alamgirpur** (Meerut) — eastern boundary, 2023 Q28.
+- **Alamgirpur** (Meerut) — eastern boundary of the IVC in India.
 - **Hulas** (Saharanpur) — 2018, 2025.
 - **Mandi** (Muzaffarnagar) — 2021, 2025.
 - **Sanauli** (Baghpat) — 2018 chariots, Late Harappan/OCP.
@@ -1566,7 +1566,7 @@ D. 4 1 2 3
 
 Which of the following sites of Harappan culture are located in Sindh?
 
-1. Harappa  2. Mohenjodaro  3. Chanhudaro  4. Surkotada
+1. Harappa 2. Mohenjodaro 3. Chanhudaro 4. Surkotada
 
 A. 1 and 2
 
@@ -1757,7 +1757,7 @@ D. Rakhigarhi
 
 Indus Valley Civilization, which was placed on the banks of the river, they were?
 
-1. Sindhu  2. Chenab  3. Jhelum  4. Ganga
+1. Sindhu 2. Chenab 3. Jhelum 4. Ganga
 
 A. 1 and 2
 

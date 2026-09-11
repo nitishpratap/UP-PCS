@@ -3370,12 +3370,12 @@ D. Neelam Sanjiva Reddy
 
 Match List-I with List-II and select the correct answer using the code given below.
 
-| List-I (President)       | List-II (Term) |
+| List-I (President) | List-II (Term) |
 |--------------------------|----------------|
-| A. Fakhruddin Ali Ahmed  | 1. 1967–1969   |
-| B. Neelam Sanjiva Reddy  | 2. 1969–1974   |
-| C. Zakir Hussain         | 3. 1974–1977   |
-| D. V. V. Giri            | 4. 1977–1982   |
+| A. Fakhruddin Ali Ahmed | 1. 1967–1969 |
+| B. Neelam Sanjiva Reddy | 2. 1969–1974 |
+| C. Zakir Hussain | 3. 1974–1977 |
+| D. V. V. Giri | 4. 1977–1982 |
 
 *Row order is not the answer code.*
 
@@ -5127,9 +5127,9 @@ D. 3 only
 
 Who was the twelfth Prime Minister of India?
 
-A. I. K. Gujral  
-B. H. D. Deve Gowda  
-C. V. P. Singh  
+A. I. K. Gujral 
+B. H. D. Deve Gowda 
+C. V. P. Singh 
 D. Chandra Shekhar
 
 <details>
@@ -5155,9 +5155,9 @@ Match List I with List II and select the correct code.
 
 *Row order is not the answer code.*
 
-A. A-4, B-3, C-2, D-5, E-1  
-B. A-2, B-1, C-5, D-3, E-4  
-C. A-3, B-4, C-2, D-5, E-1  
+A. A-4, B-3, C-2, D-5, E-1 
+B. A-2, B-1, C-5, D-3, E-4 
+C. A-3, B-4, C-2, D-5, E-1 
 D. A-3, B-4, C-5, D-2, E-1
 
 <details>
@@ -5173,13 +5173,13 @@ D. A-3, B-4, C-5, D-2, E-1
 
 Which of the following held the office of Prime Minister more than once?
 
-1. Gulzarilal Nanda  
-2. Indira Gandhi  
+1. Gulzarilal Nanda 
+2. Indira Gandhi 
 3. Atal Bihari Vajpayee
 
-A. 1 only  
-B. 1 and 2 only  
-C. 2 and 3 only  
+A. 1 only 
+B. 1 and 2 only 
+C. 2 and 3 only 
 D. 1, 2 and 3
 
 <details>
@@ -5195,15 +5195,15 @@ D. 1, 2 and 3
 
 Which of the following Prime Ministers had a gap between two periods in that office?
 
-1. Jawaharlal Nehru  
-2. Lal Bahadur Shastri  
-3. Gulzarilal Nanda  
-4. Indira Gandhi  
+1. Jawaharlal Nehru 
+2. Lal Bahadur Shastri 
+3. Gulzarilal Nanda 
+4. Indira Gandhi 
 5. Atal Bihari Vajpayee
 
-A. 1, 2 and 3 only  
-B. 2, 3 and 4 only  
-C. 3, 4 and 5 only  
+A. 1, 2 and 3 only 
+B. 2, 3 and 4 only 
+C. 3, 4 and 5 only 
 D. 1, 4 and 5 only
 
 <details>
@@ -5219,9 +5219,9 @@ D. 1, 4 and 5 only
 
 Which Prime Minister of India died outside India while in office?
 
-A. Jawaharlal Nehru  
-B. Indira Gandhi  
-C. Lal Bahadur Shastri  
+A. Jawaharlal Nehru 
+B. Indira Gandhi 
+C. Lal Bahadur Shastri 
 D. Rajiv Gandhi
 
 <details>
@@ -5247,9 +5247,9 @@ Match each Prime Minister with the state of which he had earlier been Chief Mini
 
 *Row order is not the answer code.*
 
-A. A-5, B-3, C-4, D-1, E-2  
-B. A-3, B-4, C-5, D-2, E-1  
-C. A-4, B-5, C-3, D-1, E-2  
+A. A-5, B-3, C-4, D-1, E-2 
+B. A-3, B-4, C-5, D-2, E-1 
+C. A-4, B-5, C-3, D-1, E-2 
 D. A-3, B-5, C-4, D-1, E-2
 
 <details>
@@ -5265,9 +5265,9 @@ D. A-3, B-5, C-4, D-1, E-2
 
 Who among the following Prime Ministers had never served as the Chief Minister of a state?
 
-A. P. V. Narasimha Rao  
-B. H. D. Deve Gowda  
-C. Chandra Shekhar  
+A. P. V. Narasimha Rao 
+B. H. D. Deve Gowda 
+C. Chandra Shekhar 
 D. Charan Singh
 
 <details>
@@ -5283,9 +5283,9 @@ D. Charan Singh
 
 Who among the following became Prime Minister without earlier holding a ministerial office in the Union Government?
 
-A. Morarji Desai  
-B. Charan Singh  
-C. V. P. Singh  
+A. Morarji Desai 
+B. Charan Singh 
+C. V. P. Singh 
 D. Chandra Shekhar
 
 <details>
@@ -5301,9 +5301,9 @@ D. Chandra Shekhar
 
 What was the parliamentary status of Chandra Shekhar when he became Prime Minister?
 
-A. He was not a member of either House.  
-B. He was a member of the Rajya Sabha.  
-C. He was a member of the Lok Sabha.  
+A. He was not a member of either House. 
+B. He was a member of the Rajya Sabha. 
+C. He was a member of the Lok Sabha. 
 D. He was a nominated member of Parliament.
 
 <details>
@@ -5319,9 +5319,9 @@ D. He was a nominated member of Parliament.
 
 Which Prime Minister never attended a sitting of Parliament during his tenure as Prime Minister?
 
-A. Chandra Shekhar  
-B. V. P. Singh  
-C. I. K. Gujral  
+A. Chandra Shekhar 
+B. V. P. Singh 
+C. I. K. Gujral 
 D. Charan Singh
 
 <details>
@@ -5337,14 +5337,14 @@ D. Charan Singh
 
 Which of the following Prime Ministers had also served as Union Finance Minister?
 
-1. Morarji Desai  
-2. Charan Singh  
-3. V. P. Singh  
+1. Morarji Desai 
+2. Charan Singh 
+3. V. P. Singh 
 4. Manmohan Singh
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1, 3 and 4 only  
+A. 1 and 2 only 
+B. 2 and 3 only 
+C. 1, 3 and 4 only 
 D. 1, 2, 3 and 4
 
 <details>
@@ -5360,9 +5360,9 @@ D. 1, 2, 3 and 4
 
 The programme of liberalisation, privatisation and globalisation initiated in 1991 is chiefly associated with which Prime Minister?
 
-A. Rajiv Gandhi  
-B. V. P. Singh  
-C. P. V. Narasimha Rao  
+A. Rajiv Gandhi 
+B. V. P. Singh 
+C. P. V. Narasimha Rao 
 D. Atal Bihari Vajpayee
 
 <details>
@@ -5378,9 +5378,9 @@ D. Atal Bihari Vajpayee
 
 Which office was not held by Dr Manmohan Singh before he became Prime Minister?
 
-A. Governor of the Reserve Bank of India  
-B. Union Finance Minister  
-C. Chairman of the Finance Commission  
+A. Governor of the Reserve Bank of India 
+B. Union Finance Minister 
+C. Chairman of the Finance Commission 
 D. Deputy Chairman of the Planning Commission
 
 <details>
@@ -5396,9 +5396,9 @@ D. Deputy Chairman of the Planning Commission
 
 Dr Manmohan Singh represented which state in the Rajya Sabha when he became Prime Minister in 2004?
 
-A. Punjab  
-B. Rajasthan  
-C. Delhi  
+A. Punjab 
+B. Rajasthan 
+C. Delhi 
 D. Assam
 
 <details>
@@ -5412,12 +5412,12 @@ D. Assam
 
 **Q65. UPPCS 1993**
 
-Assertion (A): A person may be appointed Prime Minister even if that person is not a member of either House of Parliament at the time of appointment.  
+Assertion (A): A person may be appointed Prime Minister even if that person is not a member of either House of Parliament at the time of appointment. 
 Reason (R): A minister who is not a member of either House for six consecutive months ceases to be a minister at the end of that period.
 
-A. Both A and R are true, and R is the correct explanation of A.  
-B. Both A and R are true, but R is not the correct explanation of A.  
-C. A is true, but R is false.  
+A. Both A and R are true, and R is the correct explanation of A. 
+B. Both A and R are true, but R is not the correct explanation of A. 
+C. A is true, but R is false. 
 D. A is false, but R is true.
 
 <details>
@@ -5431,12 +5431,12 @@ D. A is false, but R is true.
 
 **Q66. UPPCS Mains 2004**
 
-Assertion (A): The office of Deputy Prime Minister in India is essentially political.  
+Assertion (A): The office of Deputy Prime Minister in India is essentially political. 
 Reason (R): A Deputy Prime Minister does not acquire the constitutional powers of the Prime Minister merely by receiving that designation.
 
-A. Both A and R are true, and R is the correct explanation of A.  
-B. Both A and R are true, but R is not the correct explanation of A.  
-C. A is true, but R is false.  
+A. Both A and R are true, and R is the correct explanation of A. 
+B. Both A and R are true, but R is not the correct explanation of A. 
+C. A is true, but R is false. 
 D. A is false, but R is true.
 
 <details>
@@ -5452,9 +5452,9 @@ D. A is false, but R is true.
 
 The office of Deputy Prime Minister in India is best described as:
 
-A. a constitutional office under Article 75  
-B. a statutory office under the Salaries and Allowances of Ministers Act  
-C. an extra-constitutional political designation  
+A. a constitutional office under Article 75 
+B. a statutory office under the Salaries and Allowances of Ministers Act 
+C. an extra-constitutional political designation 
 D. a permanent office within the Cabinet Secretariat
 
 <details>
@@ -5470,9 +5470,9 @@ D. a permanent office within the Cabinet Secretariat
 
 Who was the first Deputy Prime Minister of India?
 
-A. Morarji Desai  
-B. Charan Singh  
-C. Jagjivan Ram  
+A. Morarji Desai 
+B. Charan Singh 
+C. Jagjivan Ram 
 D. Vallabhbhai Patel
 
 <details>
@@ -5488,14 +5488,14 @@ D. Vallabhbhai Patel
 
 Consider the following statements:
 
-1. The executive power of the Union is vested in the Prime Minister.  
+1. The executive power of the Union is vested in the Prime Minister. 
 2. The Prime Minister is the ex officio Chairman of the Civil Services Board.
 
 Which of the statements given above is/are correct?
 
-A. 1 only  
-B. 2 only  
-C. Both 1 and 2  
+A. 1 only 
+B. 2 only 
+C. Both 1 and 2 
 D. Neither 1 nor 2
 
 <details>
@@ -5511,14 +5511,14 @@ D. Neither 1 nor 2
 
 Consider the following statements:
 
-1. All Cabinet Ministers must be members of the Lok Sabha.  
+1. All Cabinet Ministers must be members of the Lok Sabha. 
 2. The Cabinet Secretariat functions under the Ministry of Parliamentary Affairs.
 
 Which of the statements given above is/are correct?
 
-A. 1 only  
-B. 2 only  
-C. Both 1 and 2  
+A. 1 only 
+B. 2 only 
+C. Both 1 and 2 
 D. Neither 1 nor 2
 
 <details>
@@ -5534,16 +5534,16 @@ D. Neither 1 nor 2
 
 Consider the following statements about Cabinet Committees:
 
-1. They are extra-constitutional bodies.  
-2. They may be standing or ad hoc.  
-3. If the Prime Minister is a member of a Cabinet Committee, another minister must chair it.  
+1. They are extra-constitutional bodies. 
+2. They may be standing or ad hoc. 
+3. If the Prime Minister is a member of a Cabinet Committee, another minister must chair it. 
 4. The Cabinet Committee on Parliamentary Affairs is necessarily chaired by the Prime Minister.
 
 Which of the statements given above are correct?
 
-A. I, III and IV only  
-B. II and IV only  
-C. I, II and III only  
+A. I, III and IV only 
+B. II and IV only 
+C. I, II and III only 
 D. I and II only
 
 <details>
@@ -5559,9 +5559,9 @@ D. I and II only
 
 Which Constitutional Amendment limited the total number of ministers, including the Prime Minister, to fifteen per cent of the strength of the Lok Sabha?
 
-A. 86th Amendment  
-B. 91st Amendment  
-C. 92nd Amendment  
+A. 86th Amendment 
+B. 91st Amendment 
+C. 92nd Amendment 
 D. 97th Amendment
 
 <details>
@@ -5577,9 +5577,9 @@ D. 97th Amendment
 
 The ceiling on the size of the Union and State Councils of Ministers was introduced by which Constitutional Amendment?
 
-A. 73rd Amendment  
-B. 86th Amendment  
-C. 91st Amendment  
+A. 73rd Amendment 
+B. 86th Amendment 
+C. 91st Amendment 
 D. 101st Amendment
 
 <details>
@@ -5595,14 +5595,14 @@ D. 101st Amendment
 
 Consider the following statements:
 
-1. India had 18 ministries at the time of independence in 1947.  
+1. India had 18 ministries at the time of independence in 1947. 
 2. The Union Government presently has exactly 36 ministries.
 
 Which of the statements given above is/are correct?
 
-A. 1 only  
-B. 2 only  
-C. Both 1 and 2  
+A. 1 only 
+B. 2 only 
+C. Both 1 and 2 
 D. Neither 1 nor 2
 
 <details>
@@ -5618,9 +5618,9 @@ D. Neither 1 nor 2
 
 In which year was the Union Ministry of Tribal Affairs created?
 
-A. 1985  
-B. 1992  
-C. 1999  
+A. 1985 
+B. 1992 
+C. 1999 
 D. 2004
 
 <details>
@@ -5636,9 +5636,9 @@ D. 2004
 
 Narayan Desai was prominently associated with which anti-war organisation?
 
-A. Amnesty International  
-B. International Peace Bureau  
-C. Pugwash Conferences  
+A. Amnesty International 
+B. International Peace Bureau 
+C. Pugwash Conferences 
 D. War Resisters’ International
 
 <details>
@@ -5663,9 +5663,9 @@ Match List I with List II.
 
 *Row order is not the answer code.*
 
-A. A-1, B-3, C-2, D-4  
-B. A-3, B-4, C-1, D-2  
-C. A-4, B-2, C-3, D-1  
+A. A-1, B-3, C-2, D-4 
+B. A-3, B-4, C-1, D-2 
+C. A-4, B-2, C-3, D-1 
 D. A-3, B-1, C-4, D-2
 
 <details>
@@ -5681,9 +5681,9 @@ D. A-3, B-1, C-4, D-2
 
 Who was the first Director General of the Unique Identification Authority of India?
 
-A. Nandan Nilekani  
-B. Montek Singh Ahluwalia  
-C. K. M. Chandrasekhar  
+A. Nandan Nilekani 
+B. Montek Singh Ahluwalia 
+C. K. M. Chandrasekhar 
 D. R. S. Sharma
 
 <details>
@@ -5699,9 +5699,9 @@ D. R. S. Sharma
 
 Sarosh Zaiwalla is well known in which field?
 
-A. Constitutional history  
-B. Election management  
-C. International law  
+A. Constitutional history 
+B. Election management 
+C. International law 
 D. Public finance
 
 <details>
@@ -5717,9 +5717,9 @@ D. Public finance
 
 Which Union minister was associated with the Ministry of Textiles in the relevant Council of Ministers?
 
-A. Giriraj Singh  
-B. Gajendra Singh Shekhawat  
-C. Kiren Rijiju  
+A. Giriraj Singh 
+B. Gajendra Singh Shekhawat 
+C. Kiren Rijiju 
 D. Jual Oram
 
 <details>
@@ -5735,9 +5735,9 @@ D. Jual Oram
 
 Who held the additional charge of the Union Ministry of Minority Affairs in the relevant period?
 
-A. Smriti Irani  
-B. Nirmala Sitharaman  
-C. Meenakshi Lekhi  
+A. Smriti Irani 
+B. Nirmala Sitharaman 
+C. Meenakshi Lekhi 
 D. Anupriya Patel
 
 <details>
@@ -5753,9 +5753,9 @@ D. Anupriya Patel
 
 Which of the following is an official document associated with the Government of India?
 
-A. Green Paper  
-B. White Paper  
-C. Yellow Book  
+A. Green Paper 
+B. White Paper 
+C. Yellow Book 
 D. Blue Charter
 
 <details>
@@ -5771,9 +5771,9 @@ D. Blue Charter
 
 Who headed the committee associated with the reorganisation of the machinery of the Government of India soon after independence?
 
-A. N. Gopalaswami Ayyangar  
-B. A. D. Gorwala  
-C. K. Santhanam  
+A. N. Gopalaswami Ayyangar 
+B. A. D. Gorwala 
+C. K. Santhanam 
 D. Paul H. Appleby
 
 <details>
@@ -5789,15 +5789,15 @@ D. Paul H. Appleby
 
 Consider the following statements about the Cabinet Secretariat:
 
-1. It functions under the Ministry of Parliamentary Affairs.  
-2. It is under the direct charge of the Prime Minister.  
+1. It functions under the Ministry of Parliamentary Affairs. 
+2. It is under the direct charge of the Prime Minister. 
 3. The Cabinet Secretary chairs the Civil Services Board.
 
 Which of the statements given above is/are correct?
 
-A. 1 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
+A. 1 only 
+B. 2 and 3 only 
+C. 1 and 3 only 
 D. 1, 2 and 3
 
 <details>
@@ -5813,9 +5813,9 @@ D. 1, 2 and 3
 
 Who is regarded as the highest-ranking civil servant in the Government of India?
 
-A. Principal Secretary to the Prime Minister  
-B. Cabinet Secretary  
-C. Home Secretary  
+A. Principal Secretary to the Prime Minister 
+B. Cabinet Secretary 
+C. Home Secretary 
 D. Defence Secretary
 
 <details>
@@ -5831,13 +5831,13 @@ D. Defence Secretary
 
 Which of the following are functions of the Cabinet Secretariat?
 
-1. Providing secretarial assistance to the Cabinet and Cabinet Committees.  
-2. Coordinating activities among ministries and departments.  
+1. Providing secretarial assistance to the Cabinet and Cabinet Committees. 
+2. Coordinating activities among ministries and departments. 
 3. Allocating financial resources among ministries.
 
-A. 1 only  
-B. 2 and 3 only  
-C. 1 and 2 only  
+A. 1 only 
+B. 2 and 3 only 
+C. 1 and 2 only 
 D. 1, 2 and 3
 
 <details>
@@ -5853,9 +5853,9 @@ D. 1, 2 and 3
 
 In the organisation of a secretariat, the “split system” refers to the separation of:
 
-A. Union and State administration  
-B. political and permanent executives  
-C. policy formulation and policy implementation  
+A. Union and State administration 
+B. political and permanent executives 
+C. policy formulation and policy implementation 
 D. civil and military administration
 
 <details>
@@ -5871,9 +5871,9 @@ D. civil and military administration
 
 Who is the ex officio President of the Council of Scientific and Industrial Research?
 
-A. President of India  
-B. Union Minister for Science and Technology  
-C. Prime Minister of India  
+A. President of India 
+B. Union Minister for Science and Technology 
+C. Prime Minister of India 
 D. Cabinet Secretary
 
 <details>
@@ -5889,9 +5889,9 @@ D. Cabinet Secretary
 
 Who heads the National Defence Committee of India?
 
-A. President of India  
-B. Prime Minister of India  
-C. Union Defence Minister  
+A. President of India 
+B. Prime Minister of India 
+C. Union Defence Minister 
 D. Chief of Defence Staff
 
 <details>
@@ -5907,9 +5907,9 @@ D. Chief of Defence Staff
 
 In which year was the office of Parliamentary Secretary created at the Union level in India?
 
-A. 1951  
-B. 1952  
-C. 1954  
+A. 1951 
+B. 1952 
+C. 1954 
 D. 1956
 
 <details>
@@ -5925,9 +5925,9 @@ D. 1956
 
 Which of the following pairs is not correctly matched?
 
-A. Jawaharlal Nehru — Shanti Van  
-B. Lal Bahadur Shastri — Vijay Ghat  
-C. Indira Gandhi — Shakti Sthal  
+A. Jawaharlal Nehru — Shanti Van 
+B. Lal Bahadur Shastri — Vijay Ghat 
+C. Indira Gandhi — Shakti Sthal 
 D. Rajiv Gandhi — Karam Bhumi
 
 <details>
@@ -5943,9 +5943,9 @@ D. Rajiv Gandhi — Karam Bhumi
 
 Who gave the slogan “Jai Jawan, Jai Kisan”?
 
-A. Jawaharlal Nehru  
-B. Lal Bahadur Shastri  
-C. Indira Gandhi  
+A. Jawaharlal Nehru 
+B. Lal Bahadur Shastri 
+C. Indira Gandhi 
 D. Morarji Desai
 
 <details>

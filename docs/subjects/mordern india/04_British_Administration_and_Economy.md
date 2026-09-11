@@ -89,7 +89,7 @@ British economic policy in India was not one static plan. Bipan Chandra's three-
 - Only the **method** changed, tracking British capitalism's own shift from trading-company monopoly to industrial free trade to finance-capital export.
 - Land revenue paid for wars and administration across all three phases. It is the constant thread under every phase.
 
-> ** note:** Do not treat 1813 "free trade" as good news for India. It freed British goods to enter; it did not free Indian goods to compete.
+> **Logic:** Do not treat 1813 "free trade" as good news for India. It freed British goods to enter; it did not free Indian goods to compete.
 
 ---
 
@@ -105,7 +105,7 @@ British economic policy in India was not one static plan. Bipan Chandra's three-
 - After **1858** a **Secretary of State for India** sat in London and a **Viceroy** sat in India.
 - The three **Presidencies** were **Bengal, Madras and Bombay**. After 1858 provinces sat under the Viceroy, but the district collector remained the real steel frame.
 
-> ** note:** Dual Government ended in **1772** under Hastings, not under Cornwallis. The Collector was never only a tax clerk.
+> **Logic:** Dual Government ended in **1772** under Hastings, not under Cornwallis. The Collector was never only a tax clerk.
 
 ---
 
@@ -137,7 +137,7 @@ Cornwallis's **Code of 1793** gave British India its first settled ladder of civ
 - **William Bentinck** later abolished the four Provincial Courts of Appeal and Circuit, shifting their work to Commissioners and then to District Judges/Collectors, and opened judicial posts (Deputy Magistrate, Sadar Amin) to Indians.
 - **High Courts** replaced the Sadar Adalats at Calcutta, Madras and Bombay only in the **1860s**, well after this topic's core Cornwallis frame.
 
-> ** note:** Cornwallis separated the **Collector from the judge**. Do not place Bentinck's later High Courts inside the 1793 Code.
+> **Logic:** Cornwallis separated the **Collector from the judge**. Do not place Bentinck's later High Courts inside the 1793 Code.
 
 ---
 
@@ -149,7 +149,7 @@ Cornwallis's **Code of 1793** gave British India its first settled ladder of civ
 - The daroga was meant to report to the Magistrate and refer bailable cases onward, but distance from real supervision let extortion creep into the new force.
 - This 1793 thana-and-daroga structure is the direct ancestor of today's police-station network.
 
-> ** note:** The thana system is a **police**, not a judicial, reform, but it was legislated in the **same 1793 Code** that built the court ladder.
+> **Logic:** The thana system is a **police**, not a judicial, reform, but it was legislated in the **same 1793 Code** that built the court ladder.
 
 ---
 
@@ -167,13 +167,13 @@ Cornwallis's **Code of 1793** gave British India its first settled ladder of civ
 - **Simultaneous ICS examinations in India** began only in **1922**, at Allahabad/Delhi, after long nationalist demand and the Montagu–Chelmsford push.
 - Indianisation of the ICS stayed slow and partial right up to 1947.
 
-> ** note:** Haileybury **trained** nominees; it did not select by merit. Merit selection begins only with the Charter Act of **1853**.
+> **Logic:** Haileybury **trained** nominees; it did not select by merit. Merit selection begins only with the Charter Act of **1853**.
 
 ---
 
 ## 4.5 Local Administration
 
-- India's **first Municipal Corporation** was set up at **Madras in 1688** (**2021 Q145**). It was not created by Ripon.
+- India's **first Municipal Corporation** was set up at **Madras in 1688**. It was not created by Ripon.
 - Bombay got a municipal body in **1726**.
 - **Lord Mayo (1870)** began **financial decentralisation**. Some funds and works — roads, schools — were handed to local bodies, but the central government still controlled the purse.
 - **Lord Ripon's Resolution of 1882** is why he is called the **Father of local self-government**. It asked for **elected non-official Indian majorities** on municipal and district boards, with as much freedom from official control as the boards could manage.
@@ -183,7 +183,7 @@ Cornwallis's **Code of 1793** gave British India its first settled ladder of civ
 - The **Government of India Act, 1935** carried provincial autonomy further, but local bodies still worked inside a colonial financial ceiling.
 - The **73rd and 74th Amendments** are Polity, not this topic.
 
-> ** note:** Ripon did **not** create the first corporation. Mayo is **1870**, not 1882. Ripon's Resolution only became real ministerial control under **1919 dyarchy**.
+> **Logic:** Ripon did **not** create the first corporation. Mayo is **1870**, not 1882. Ripon's Resolution only became real ministerial control under **1919 dyarchy**.
 
 **PYQ — UPPCS Prelims 2021, Q145**
 
@@ -224,7 +224,7 @@ D. Delhi
 
 ## 4.7 British Land Revenue Systems
 
-The British did **not** use one land system for all of India. Different regions got different systems, and that created **different classes of peasantry** (**2020 Q30**).
+The British did **not** use one land system for all of India. Different regions got different systems, and that created **different classes of peasantry**.
 
 | Feature | Permanent Settlement | Ryotwari | Mahalwari |
 |---------|----------------------|----------|-----------|
@@ -337,7 +337,7 @@ D. 4 3 2 1
 - **R. C. Dutt** (*Economic History of India*) stressed the same Drain and argued that a huge share of India’s annual product — often remembered in coaching notes as about **half** — was flowing out every year.
 - Other economic critics of colonialism include **G. Subramania Iyer**, **M. G. Ranade**, **G. V. Joshi** and **Gokhale**. **Sir Syed Ahmad Khan** did **not** accept the Drain Theory; he believed Muslim advance lay under British rule.
 - The **Indian National Congress at Calcutta in 1896** accepted the Drain Theory and linked Drain to famines and mass poverty.
-- **Bipan Chandra** later wrote *The Rise and Growth of Economic Nationalism in India* (**2019 Q97**).
+- **Bipan Chandra** later wrote *The Rise and Growth of Economic Nationalism in India* — a retrospective study of the nationalist economic school.
 - Early nationalists attacked **"Un-British rule"** (the Drain), not always the Empire itself.
 
 > **Logic:** Year trap for Naoroji’s book = **1901**. Drain ≠ deindustrialization. Syed Ahmad ≠ Drain critic. Home Charges ≠ overseas war costs.
@@ -453,7 +453,7 @@ Plantation crops were a distinct strand of commercialization: grown mainly for *
 - Indentured tea labour lived under harsh contract discipline, penal clauses for desertion, and low wages — a plantation-labour story that runs parallel to overseas indenture.
 - European planters, not Indian capital, owned most of the tea industry through the nineteenth century.
 
-> ** note:** Nij is the planter's own land. Ryoti is the peasant's land under a forced advance. Do not swap the two.
+> **Logic:** Nij is the planter's own land. Ryoti is the peasant's land under a forced advance. Do not swap the two.
 
 ---
 
@@ -499,7 +499,7 @@ Plantation crops were a distinct strand of commercialization: grown mainly for *
 - The first aims were moving **troops**, taking raw material to ports, and running the administration — not passenger comfort.
 - In the UP region the main junctions were **Kanpur, Lucknow and Allahabad**.
 
-> ** note:** "5 percent whatever happened" is the guarantee-system fact. Railways are not a "welfare-only" story.
+> **Logic:** "5 percent whatever happened" is the guarantee-system fact. Railways are not a "welfare-only" story.
 
 ---
 
@@ -513,7 +513,7 @@ Plantation crops were a distinct strand of commercialization: grown mainly for *
 - The system let British capital and management dominate modern industry while spreading much of the financial risk onto Indian investors.
 - Indian business houses — most famously **Tata** — grew up partly by working outside or against the managing-agency grip, especially in cotton and steel.
 
-> ** note:** Managing agency is not zamindari. One is industrial-corporate control; the other is agrarian land revenue. Keep the two "British-control-without-full-ownership" stories separate.
+> **Logic:** Managing agency is not zamindari. One is industrial-corporate control; the other is agrarian land revenue. Keep the two "British-control-without-full-ownership" stories separate.
 
 ---
 
@@ -524,7 +524,7 @@ Plantation crops were a distinct strand of commercialization: grown mainly for *
 - Dalhousie expanded the network in the 1850s.
 - The telegraph was used for military control in **1857**.
 
-> ** note:** Dalhousie **expanded** the telegraph. He did **not** invent it.
+> **Logic:** Dalhousie **expanded** the telegraph. He did **not** invent it.
 
 ---
 
@@ -536,7 +536,7 @@ Plantation crops were a distinct strand of commercialization: grown mainly for *
 - The **Post Office Savings Bank** began in **1882**.
 - Mail later rode the railways and reached villages more widely than the telegraph.
 
-> ** note:** Hastings **started** the post. Dalhousie made postage **cheap and uniform**. Penny postage is **1854**, not 1774.
+> **Logic:** Hastings **started** the post. Dalhousie made postage **cheap and uniform**. Penny postage is **1854**, not 1774.
 
 ---
 
@@ -2852,8 +2852,8 @@ D. 3 2 1
 12. **Collector = revenue clerk only** → also **District Magistrate**, and judge before 1793.
 13. **Commercialization ended famines** → often **raised** famine risk.
 14. **Dalhousie invented telegraph** → **O'Shaughnessy** experimented; Dalhousie expanded.
-15. **2020 Q30 answer is B** → **A** (R explains A).
-16. **2024 Q135 answer is C** → **A** (both true; R does **not** explain A).
+15. **Land-system A/R trap** → different British land systems created **different classes of peasantry**; Reason can explain Assertion.
+16. **Moderates A/R trap** → both Assertion and Reason are true, but Reason does **not** explain Assertion.
 17. **Munsiff's Court = highest civil court** → it is the **lowest**; **Sadar Diwani Adalat** is highest.
 18. **Collector kept judicial power after 1793** → Cornwallis stripped it; a separate **District Judge** took over.
 19. **Zamindars kept their policing power after 1793** → abolished; the **thana-daroga** answers to the District Magistrate.

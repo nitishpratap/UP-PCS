@@ -4112,22 +4112,22 @@ Andhra Pradesh and West Bengal each had 42. Present Andhra Pradesh has 25 seats.
 
 Match List I with List II and select the correct answer using the code given below.
 
-| List I — State    | List II — Lok Sabha seats |
+| List I — State | List II — Lok Sabha seats |
 |-------------------|--------------------------:|
-| A. Maharashtra    |                     1. 48 |
-| B. Chhattisgarh   |                     2. 11 |
-| C. Andhra Pradesh |                     3. 25 |
-| D. West Bengal    |                     4. 42 |
-| E. Tamil Nadu     |                     5. 39 |
+| A. Maharashtra | 1. 48 |
+| B. Chhattisgarh | 2. 11 |
+| C. Andhra Pradesh | 3. 25 |
+| D. West Bengal | 4. 42 |
+| E. Tamil Nadu | 5. 39 |
 
 *Row order is not the answer code.*
 
 | Code | A | B | C | D | E |
 |------|--:|--:|--:|--:|--:|
-| A    | 2 | 1 | 4 | 5 | 3 |
-| B    | 4 | 3 | 5 | 1 | 2 |
-| C    | 5 | 4 | 2 | 3 | 1 |
-| D    | 1 | 2 | 3 | 4 | 5 |
+| A | 2 | 1 | 4 | 5 | 3 |
+| B | 4 | 3 | 5 | 1 | 2 |
+| C | 5 | 4 | 2 | 3 | 1 |
+| D | 1 | 2 | 3 | 4 | 5 |
 
 <details>
 <summary>Show answer</summary>
@@ -4203,9 +4203,9 @@ Deputy Speaker, including during the period beginning in 1999.
 - Article **80** fixes the composition of the Rajya Sabha.
 - Article **83** makes the Rajya Sabha a continuing House and gives its members a six-year term.
 - Article **249** enables Parliament to legislate on a State List matter after the Rajya Sabha passes the prescribed
-  national-interest resolution.
+ national-interest resolution.
 - Article **312** enables Parliament to create a new All-India Service after the Rajya Sabha passes the prescribed
-  resolution.
+ resolution.
 - The **Fourth Schedule** allocates Rajya Sabha seats among the States and eligible Union Territories.
 
 ---
@@ -5025,10 +5025,10 @@ Match List-I with List-II and select the correct answer using the code below.
 
 | List-I (State) | List-II (Rajya Sabha seats) |
 |----------------|-----------------------------|
-| A. Maharashtra | 1. 16                       |
-| B. Karnataka   | 2. 18                       |
-| C. Bihar       | 3. 19                       |
-| D. Tamil Nadu  | 4. 12                       |
+| A. Maharashtra | 1. 16 |
+| B. Karnataka | 2. 18 |
+| C. Bihar | 3. 19 |
+| D. Tamil Nadu | 4. 12 |
 
 *Row order is not the answer code.*
 
@@ -5087,12 +5087,12 @@ D. 18
 
 Match List-I with List-II and select the correct answer using the code below.
 
-| List-I (State)  | List-II (Rajya Sabha seats) |
+| List-I (State) | List-II (Rajya Sabha seats) |
 |-----------------|-----------------------------|
-| A. Jharkhand    | 1. 3                        |
-| B. Uttarakhand  | 2. 5                        |
-| C. Chhattisgarh | 3. 7                        |
-| D. Punjab       | 4. 6                        |
+| A. Jharkhand | 1. 3 |
+| B. Uttarakhand | 2. 5 |
+| C. Chhattisgarh | 3. 7 |
+| D. Punjab | 4. 6 |
 
 *Row order is not the answer code.*
 
@@ -5140,10 +5140,10 @@ Match List-I with List-II and select the correct answer using the code below.
 
 | List-I (State) | List-II (Rajya Sabha seats) |
 |----------------|-----------------------------|
-| A. Gujarat     | 1. 9                        |
-| B. Karnataka   | 2. 10                       |
-| C. Kerala      | 3. 11                       |
-| D. Odisha      | 4. 12                       |
+| A. Gujarat | 1. 9 |
+| B. Karnataka | 2. 10 |
+| C. Kerala | 3. 11 |
+| D. Odisha | 4. 12 |
 
 *Row order is not the answer code.*
 

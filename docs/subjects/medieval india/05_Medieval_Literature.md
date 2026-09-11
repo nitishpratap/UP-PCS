@@ -58,7 +58,7 @@ Medieval Literature | Medieval Books and Their Authors | Delhi Sultanate Literat
 | Barani vs Ibn Battuta | Delhi Sultanate historian vs Moroccan traveller (Rihla) | बरनी / इब्न बतूता |
 | Tughlaqnama vs Rihla | Barani's Tughlaq history vs Ibn Battuta's travelogue | तुग़लक़नामा / रिहला |
 | Barani vs Afif (Tarikh) | Barani's Tarikh (Balban→early Firuz) vs Afif's later Tarikh (Firuz→end) | बरनी / आफ़िफ़ |
-| Padmavat vs Padmavati Katha | Jaisi's Awadhi epic vs Damodar Kavi's work in 2019 Q88 list | पद्मावत / पद्मावती कथा |
+| Padmavat vs Padmavati Katha | Jaisi's Awadhi epic vs Damodar Kavi's **Padmavati Katha** | पद्मावत / पद्मावती कथा |
 | Riyaz-us-Salatin vs Riyaz-ul-Insha | Bengal history vs Gawan's official letters | रियाज़-उस-सलातीन / रियाज़-उल-इंशा |
 | Amir Khusrau vs Tansen | 13th–14th c. Sultanate poet vs Akbar's dhrupad master | अमीर खुसरो / तानसेन |
 | Tuzuk-i-Jahangiri vs Padshahnama | Emperor's own memoir vs court historian's Shah Jahan chronicle | तुज़ुक / पादशाहनामा |
@@ -78,7 +78,7 @@ Medieval Literature | Medieval Books and Their Authors | Delhi Sultanate Literat
 - **Gulbadan Begum** wrote *Humayunnama*, a rare female voice in Mughal prose.
 - Sources such as Barani and Badauni were written with **communal and political bias**, so they must be read critically, not as neutral truth.
 
-> ** note:** UPPCS book–author questions focus on **Persian chronicles and Mughal texts**; vernacular bhakti belongs in Topic 4.
+> **Logic:** Book–author stems focus on **Persian chronicles and Mughal texts**; vernacular bhakti belongs in Topic 4.
 
 ### PYQ — Baburnama vs court Persian A/R
 
@@ -157,7 +157,7 @@ D. Both true, R explains A
 
 | Work | Translator/Author | Notes |
 |------|-------------------|-------|
-| **Tutinama** | Khwaja Ziya-ud-din **Nakhshabi** | Persian translation of *Suka Saptati* (2022 Q43 — NOT Khusrau) |
+| **Tutinama** | Khwaja Ziya-ud-din **Nakhshabi** | Persian translation of *Suka Saptati* — **not** Amir Khusrau |
 | **Razmnama** | Faizi/Naqib Khan team | Persian Mahabharata under Akbar |
 | **Ramayana (Persian)** | Abdul Qadir Badauni team | Akbar's kitabkhana translation |
 | **Atharva Veda (Persian)** | Akbar's translators | Part of imperial translation project |
@@ -177,7 +177,7 @@ D. Both true, R explains A
 - Sufi prose includes *Fawaid-ul-Fuad* (Nizamuddin conversations), compiled by **Amir Hasan Sijzi**, linking literature to Sufi religion.
 - **Firuz Shah** collected Sanskrit books from **Nagarkot** and encouraged translations, creating a parallel track to Persian chronicles.
 
-> ** note:** In **2019 Q16**, Tughlaqnama–Ibn Battuta is **wrong** (answer C). Tarikh-i-Firozshahi–Shams-i-Siraj Alif is also wrong; the correct author is **Barani**.
+> **Logic:** **Tughlaqnama–Ibn Battuta** is **wrong** — **Barani** wrote **Tughlaqnama**. **Tarikh-i-Firozshahi–Shams-i-Siraj Alif** is also wrong; **Barani** wrote the standard **Tarikh-i-Firoz Shahi**.
 
 ### PYQ — Book↔author NOT matched
 
@@ -225,14 +225,14 @@ D. Humayunnama — Gulbadan Begum
 - **Khamsa** is a set of five Persian masnavis modeled on Nizami, including **Matla-ul-Anwar** and **Khusrau-o-Shirin**.
 - **Nuh Sipihr (Nine Skies)** praises **India's climate, languages, and culture**, showing pride in Hindustan.
 - **Khaliq-e-Bari** contains early **Hindavi** devotional verses and marks the Hindi-Urdu literary synthesis.
-- **Rag Vibodh** is a music and raga treatise paired with Khusrau in **UPPCS 2019 Q88** (code 4).
+- **Rag Vibodh** is a music and raga treatise paired with **Amir Khusrau** in literary match lists.
 - **Miftah-ul-Futuh** records **Jalaluddin Khalji's** victories.
 - **Khazain-ul-Futuh** is Khusrau's Persian prose account of **Alauddin Khalji's** conquests and administration.
 - Khusrau created **Sabak-i-Hind** (Indian style) in Persian poetry and called himself **Tuti-e-Hind** (Parrot of India).
 - He was born at **Patiyali (Etah, UP)** — a direct UPPCS regional fact.
 - Khusrau's **Tughluq Nama** is a **poem** on Ghiyasuddin Tughlaq, distinct from Barani's prose **Tughlaqnama**.
 - Folklore attributes **sitar, tabla, qawwali, and tarana** to Khusrau, and papers accept his pioneer status.
-- Khusrau was **not Mughal**: he is not Tansen (Akbar's court), and he did not translate **Tutinama** (that was **Nakhshabi**, 2022 Q43).
+- Khusrau was **not Mughal**: he is not Tansen (Akbar's court), and he did not translate **Tutinama** — that was **Nakhshabi**.
 
 ### PYQ — Vernacular match + Tutinama
 
@@ -288,9 +288,9 @@ D. Amir Khusrau
 - **Fatawa-i-Jahandari** is Barani's **political treatise** on kingship (**jahandari** = worldly rule), not a narrative chronicle — do not confuse with **Tarikh-i-Firoz Shahi**.
 - Barani's **Jahandari theory** treats the Sultanate as a **worldly state** balancing Sharia and political realism; **zawabit** (state laws) can override narrow Sharia.
 - Barani was **biased**, hostile to the **low-born Khalji rise**, and used a communal tone about Hindus, so his work must be read critically.
-- In **2019 Q16**, Tughlaqnama–Ibn Battuta is **wrong**, and Tarikh-i-Firozshahi–Shams-i-Siraj Alif is also **wrong** (the correct author is Barani).
+- **Tughlaqnama–Ibn Battuta** is **wrong**, and **Tarikh-i-Firozshahi–Shams-i-Siraj Alif** is also **wrong** — the correct author is **Barani**.
 
-> ** note:Barani** wrote both **Tughlaqnama** and **Tarikh-i-Firoz Shahi**; memorise them as a single-author two-book pair.
+> **Logic:**Barani** wrote both **Tughlaqnama** and **Tarikh-i-Firoz Shahi**; memorise them as a single-author two-book pair.
 
 ---
 
@@ -307,14 +307,14 @@ D. Amir Khusrau
 - **Barani** is an eyewitness source for the mature Sultanate and is key for **Alauddin** administration questions (Topic 2 overlap).
 - Do not confuse **Tabaqat-i-Nasiri** (Minhaj) with **Tabaqat-i-Akbari**, which is a Mughal-period work.
 
-### Barani vs Afif — two Tarikh-i-Firoz Shahi (2019 Q16 trap)
+### Barani vs Afif — two Tarikh-i-Firoz Shahi
 
 | Author | Work | Coverage |
 |--------|------|----------|
 | **Ziauddin Barani** | **Tarikh-i-Firoz Shahi** | **Balban** → early **Firuz Shah Tughlaq** |
 | **Shams-i-Siraj Afif** | **Tarikh-i-Firoz Shahi** | **Firuz Shah** → **end of Delhi Sultanate** |
 
-- UPPCS **2019 Q16** pairs Tarikh-i-Firozshahi with **Shams-i-Siraj Afif** — that is **wrong** for Barani's standard chronicle answer key, though Afif did write a later work with the same title.
+- Pairing **Tarikh-i-Firozshahi** with **Shams-i-Siraj Afif** is **wrong** for Barani's standard chronicle — though Afif did write a later work with the same title.
 - Key fact: when the option says **Barani**, choose Barani; when it says **Afif**, that is a deliberate distractor for Barani's book.
 
 ---
@@ -324,7 +324,7 @@ D. Amir Khusrau
 **Author:** Zahiruddin Muhammad Babur | **Original language:Chagatai Turki** | **Also called:** Tuzk-e-Babri, Tuzuk-i-Baburi
 
 - **Baburnama** ranks among the world's great **royal memoirs** and is candid about battles, gardens, wine, poetry, and Indian flora and fauna.
-- In **2025 Q3**, assertion A (Babur wrote in Turki) is **true**, but reason R (Turki was the Mughal court language) is **false**, giving answer **C**.
+- **Baburnama** was written in **Chagatai Turki** (A true), but **Persian** — not Turki — was the Mughal court language (R false).
 - **Persian** became the Mughal court language, while Babur's Turki remained his personal literary idiom only.
 - The memoir covers **Central Asian struggles**, the **First Panipat (1526)**, and observations on Indian climate and nature.
 - **Abdur Rahim Khan-i-Khanan** later translated Baburnama into **Persian** for wider court access.
@@ -344,7 +344,7 @@ D. Amir Khusrau
 
 - **Abul Fazl's family** included his brother **Faizi** (poet) and his father **Sheikh Mubarak** (scholar).
 - **Akbarnama** paintings are major Mughal art examples, and **Badauni's Muntakhab-ut-Tawarikh** is the hostile counter-narrative written secretly.
-- In **2024 Q132**, the correct death order is Faizi (1595), then Sheikh Mubarak (1597), then Abul Fazl murdered (1602), then Daniyal (1604), giving answer **B (3-2-1-4)**.
+- Court death order: **Faizi (1595)** → **Sheikh Mubarak (1597)** → **Abul Fazl murdered (1602)** → **Daniyal (1604)**.
 - Abul Fazl was murdered by **Bir Singh Bundela**, an ally of Jahangir, in 1602.
 
 ### PYQ — Abul Fazl family deaths
@@ -395,7 +395,7 @@ A. 2-1-4-3 | B. 3-2-1-4 | C. 2-3-1-4 | D. 2-4-3-1
 
 ## 5.12 Regional Persian Chronicles
 
-**Weight:** ★★★ — UPPCS recycled this four-book match in **2023 Q33** and similar stems.
+**Weight:** ★★★ — Regional Persian histories (Gujarat, Ahmadnagar, Bengal, Gawan's letters) recur in match-list stems.
 
 | List-I (Book) | List-II (Context) | Author cue |
 |---------------|-------------------|-------------|
@@ -410,7 +410,7 @@ A. 2-1-4-3 | B. 3-2-1-4 | C. 2-3-1-4 | D. 2-4-3-1
 - **Riyaz-ul-Insha** preserves **Mahmud Gawan's** diplomatic and administrative letters — the best primary source on his reforms at the Bahmani court.
 - The two **Riyaz** titles are the classic swap trap: **-us-Salatin** = Bengal history; **-ul-Insha** = Gawan's letters.
 
-> ** note:** Correct code = **A (4-2-1-3)** in **2023 Q33**: Mirat–Gujarat | Burhan–Ahmadnagar | Salatin–Bengal | Insha–Gawan.
+> **Logic:** **Mirat-e-Sikandari** narrates the **Gujarat** victory; **Burhan-e-Masir** covers **Ahmadnagar**; **Riyaz-us-Salatin** is **Bengal** history; **Riyaz-ul-Insha** collects **Gawan's** letters.
 
 ### PYQ — Regional chronicle match
 
@@ -499,9 +499,9 @@ D. 4 2 3 1
 | Book | Author | Remember |
 |------|--------|----------|
 | **Padmavat** | **Malik Muhammad Jaisi** | Awadhi epic; UP fact |
-| **Padmavati Katha** | **Damodar Kavi** | Appears in **2019 Q88** match list |
+| **Padmavati Katha** | **Damodar Kavi** | Appears in vernacular book–author match lists |
 
-- **Padmavat** (Jaisi) is **not** the same as **Padmavati Katha** (Damodar Kavi) — a common title trap in **2019 Q88**.
+- **Padmavat** (Jaisi) is **not** the same as **Padmavati Katha** (Damodar Kavi) — a common title trap.
 
 ---
 
@@ -1139,7 +1139,7 @@ D. 1658
 
 </details>
 
-**Q28.** 2019 Q16 traps: 1. Tarikh-i-Firozshahi — Shams-i-Siraj Alif wrong 2. Tughlaqnama — Ibn Battuta wrong
+**Q28.** Common author traps: 1. **Tarikh-i-Firozshahi — Shams-i-Siraj Alif** is wrong 2. **Tughlaqnama — Ibn Battuta** is wrong
 
 A. Only 1 |
 
@@ -1189,7 +1189,9 @@ D. Hindavi
 
 <details><summary>Show answer</summary>
 
-**Ans: CWhy:Baburnama** was originally written in **Chagatai Turki** (2025 Q3 fact).
+**Logic:** **Baburnama** was originally written in **Chagatai Turki**, not Persian.
+
+**Ans: C.** **Baburnama** was originally written in **Chagatai Turki**.
 
 **Trap:** Persian translation came later (Abdur Rahim Khan-i-Khanan).
 
@@ -1401,7 +1403,7 @@ D. Tulsidas
 
 **Ans: BWhy:Malik Muhammad Jaisi** wrote **Padmavat** in **Awadhi** (~16th c.) — a major UP literary fact.
 
-**Trap:Damodar Kavi** wrote **Padmavati Katha** in the **2019 Q88** list — not Jaisi's **Padmavat**.
+**Trap:** **Damodar Kavi** wrote **Padmavati Katha** — not Jaisi's **Padmavat**.
 
 </details>
 
@@ -1440,10 +1442,10 @@ D. Barani
 11. **Ibn Battuta** was an eyewitness **traveller** who wrote **Rihla**, not a Tughlaq historian.
 12. **Tabaqat-i-Nasiri** was **not** written by Barani; the correct author is **Minhaj-us-Siraj**.
 13. **Tutinama** was **not** translated by Amir Khusrau; the translator was **Nakhshabi**.
-14. In **2024 Q132**, the correct order is **3-2-1-4 (B)**, not 2-1-4-3.
+14. Abul Fazl family death order is **Faizi (1595) → Sheikh Mubarak (1597) → Abul Fazl (1602) → Daniyal (1604)**, not 2-1-4-3.
 15. **Riyaz-us-Salatin** is Bengal history, while **Riyaz-ul-Insha** contains Gawan's letters; do not swap them.
 16. **Khazain-ul-Futuh** (Alauddin) and **Miftah-ul-Futuh** (Jalaluddin) are both **Amir Khusrau** works — not Barani.
 17. **Fatawa-i-Jahandari** is Barani's **political theory** — not the same as **Tarikh-i-Firoz Shahi** narrative history.
 18. **Padmavat** (Jaisi) ≠ **Padmavati Katha** (Damodar Kavi) — different authors in vernacular match traps.
 19. **Kitab-ul-Hind** = **Alberuni** (Arabic, Ghaznavid era) — not a Delhi Sultanate court chronicle.
-20. **Shams-i-Siraj Afif** also wrote a **Tarikh-i-Firoz Shahi**, but UPPCS **2019 Q16** treats Afif pairing as wrong for Barani's standard chronicle fact.
+20. **Shams-i-Siraj Afif** also wrote a **Tarikh-i-Firoz Shahi**, but the standard chronicle pair is **Barani**, not Afif.

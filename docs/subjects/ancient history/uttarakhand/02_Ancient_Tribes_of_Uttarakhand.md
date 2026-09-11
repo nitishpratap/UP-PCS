@@ -65,10 +65,10 @@
 
 **Q1.** Which of the following is the earliest well-attested coin-issuing polity linked to the Uttarakhand foothills?
 
-A. Chand dynasty  
-B. Parmar of Garhwal  
-C. Kuninda  
-D. Gorkha  
+A. Chand dynasty 
+B. Parmar of Garhwal 
+C. Kuninda 
+D. Gorkha 
 
 <details>
 <summary>Show answer</summary>

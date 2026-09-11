@@ -88,7 +88,7 @@ Morley–Minto Reforms (context) | Lucknow Pact | Home Rule Movement | National 
 - Gandhi’s remembered verdict is that the Morley–Minto package **destroyed** Indian unity politics.
 - **1909 creates** separate electorates; **1916 Lucknow Pact** is when **Congress accepts** them as a temporary bargain with the League.
 
-> ** note:** 1909 = Act / separate electorates. 1916 = Congress acceptance in Lucknow Pact. 1919 = dyarchy.
+> **Logic:** 1909 = Act / separate electorates. 1916 = Congress acceptance in Lucknow Pact. 1919 = dyarchy.
 
 ---
 
@@ -118,9 +118,9 @@ Morley–Minto Reforms (context) | Lucknow Pact | Home Rule Movement | National 
 - In **December 1917**, Besant became the **first woman President** of Congress, at Calcutta.
 - The movement declined after Montagu–Chelmsford hope, Tilak’s time abroad, and Gandhi’s mass methods.
 - In **1920** Gandhi was elected president of the All-India Home Rule League and renamed it **Swarajya Sabha**.
-- **2023 Q47:** among Home Rule, Khilafat, Jallianwala and Moplah, Home Rule is the **earliest** (1916). Moplah is last (1921).
+- Among Home Rule, Khilafat, Jallianwala and Moplah, Home Rule (**1916**) is earliest; Moplah (**1921**) is last.
 
-> ** note:** Tilak = **April 1916 Poona Baptista**. Besant = **September 1916 Madras**. Two leagues.
+> **Logic:** Tilak = **April 1916 Poona Baptista**. Besant = **September 1916 Madras**. Two leagues.
 
 **PYQ — UPPCS Prelims 2023, Q47**
 
@@ -161,7 +161,7 @@ D. Moplah Revolt
 - At the same Lucknow session, **Raj Kumar Shukla** first briefed Gandhi on the **Champaran** indigo peasants’ distress.
 - Do **not** place it at the 1911 Delhi Durbar. Do not confuse it with the Home Rule Leagues, which are separate wartime organisations founded a few months earlier in **1916**.
 
-> ** note:** Lucknow Pact = **December 1916**, Congress–League reunion + separate electorates + weightage. Not 1911. Not a Home Rule league.
+> **Logic:** Lucknow Pact = **December 1916**, Congress–League reunion + separate electorates + weightage. Not 1911. Not a Home Rule league.
 
 ---
 
@@ -178,7 +178,7 @@ D. Moplah Revolt
 - Extremists read it as a vindication of Home Rule pressure; Moderates read it as proof that constitutional agitation still worked.
 - Do not confuse this **1917** promise with the **1929 Irwin Declaration** (dominion status as the goal) or the **1940 August Offer** (Linlithgow's wartime proposal).
 
-> ** note:** Montagu Declaration = **20 August 1917**, statement of intent. GoI Act **1919** is the actual reform that followed it.
+> **Logic:** Montagu Declaration = **20 August 1917**, statement of intent. GoI Act **1919** is the actual reform that followed it.
 
 ---
 
@@ -196,7 +196,7 @@ D. Moplah Revolt
 - She was **INC President in December 1917**, the first woman to hold the post.
 - She later **opposed Gandhi’s Non-Cooperation** methods. Do not make her a NCM lieutenant.
 
-> ** note:** Besant ≠ Blavatsky. Besant = Home Rule 1916 + Congress President 1917 + Central Hindu College.
+> **Logic:** Besant ≠ Blavatsky. Besant = Home Rule 1916 + Congress President 1917 + Central Hindu College.
 
 ---
 
@@ -208,10 +208,10 @@ D. Moplah Revolt
 - **N.C. Kelkar** was **Secretary**.
 - Baptista is **not** the ILO 1919 labour representative. That is **N.M. Joshi**.
 - His famous line is **“Swaraj is my birthright and I shall have it.”**
-- **2021 Q50:** Tilak **never presided** over an INC session.
+- **Bal Gangadhar Tilak** **never presided** over an INC session.
 - He died on **1 August 1920**, before Non-Cooperation’s peak.
 
-> ** note:** Tilak Home Rule = **April 1916 Poona**. Never Congress President.
+> **Logic:** Tilak Home Rule = **April 1916 Poona**. Never Congress President.
 
 ---
 
@@ -229,7 +229,7 @@ D. Moplah Revolt
 - Keep three separate national-education waves in mind: **1906 NCE** (Swadeshi boycott of Curzon's colleges), **1916 BHU** (Malaviya's cultural-university project, not a boycott), and **1920–21 Vidyapiths/Jamia** (Non-Cooperation boycott of government education).
 - **Wardha / Basic Education 1937** and **Sargent 1944** are later education-policy facts, taught in full with the education and press chapter. They are not Home Rule.
 
-> ** note:** NCE **1906** ≠ BHU **1916** ≠ Vidyapiths/Jamia **1920–21** ≠ Wardha **1937**. Four different waves, four different years.
+> **Logic:** NCE **1906** ≠ BHU **1916** ≠ Vidyapiths/Jamia **1920–21** ≠ Wardha **1937**. Four different waves, four different years.
 
 ---
 
@@ -244,7 +244,7 @@ D. Moplah Revolt
 - Gandhi gave an early public speech at the 1916 Banaras ceremonies — a chronology glue with his 1915 return, not a BHU-founder claim.
 - BHU is a **UP** landmark. It is **not** in Allahabad or Lucknow. It is **not** the 1906 NCE.
 
-> ** note:** BHU = **Malaviya + 1916 + Varanasi**. Besant = Central Hindu College link.
+> **Logic:** BHU = **Malaviya + 1916 + Varanasi**. Besant = Central Hindu College link.
 
 ---
 
@@ -267,11 +267,11 @@ D. Moplah Revolt
 | **UTUC** (1949) | **CPI(M)** in the UPPCS pairing (historically RSP; the real CPI(M) centre is **CITU, 1970**) |
 | **BMS** (1955, Dattopant Thengadi) | **BJP / RSS** |
 
-- **2020 Q16:** ILO 1919 labour representative = **N.M. Joshi**, not Wadia, Andrews or Baptista.
-- **2022 Q123:BMS–BJP; INTUC–Congress; UTUC–CPI(M); AITUC–CPI**.
+- **N.M. Joshi** was India’s labour representative at the **1919** ILO Washington summit, not Wadia, Andrews or Baptista.
+- Post-independence union–party pairs: **BMS–BJP; INTUC–Congress; UTUC–CPI(M); AITUC–CPI**.
 - AITUC is the syllabus **Trade Union Congress**. INTUC is **1947**, not 1920.
 
-> ** note:** Joshi = **ILO 1919**. AITUC = **1920, Lajpat Rai**. INTUC = **1947**. Duplicate matching with the peasant-labour chapter is allowed.
+> **Logic:** Joshi = **ILO 1919**. AITUC = **1920, Lajpat Rai**. INTUC = **1947**. Duplicate matching with the peasant-labour chapter is allowed.
 
 **PYQ — UPPCS Prelims 2020, Q16**
 
@@ -326,9 +326,9 @@ Standard paper code: **4 1 3 2**
 | Forward Bloc | **1939**, Subhas Bose (Topic 14 depth) |
 
 - **WPP** tried to work **inside Congress** and make it more revolutionary and mass-based.
-- **2024 Q14** statement 1 packs “formed in **1927** and given **All-India** form” into one claim.
+- Statement 1 often packs “formed in **1927** and given **All-India** form” into one claim — that is false.
 - The All-India WPP conference is **December 1928**. Statement 1 is the trap.
-- Statement 2 (work within Congress) is true. Answer: **Only 2**.
+- Statement 2 (work within Congress) is true; statement 1 (1927 All-India birth) is false.
 - **CPI** is a **separate** communist party.
 - **CSP** is socialists **inside Congress**. Do not merge them.
 - Kanpur Conspiracy is a **communist** case, not HRA Kakori.
@@ -337,7 +337,7 @@ Standard paper code: **4 1 3 2**
 - Revolutionary trade-union phase is often dated **1926–39** (Roy, Muzaffar Ahmed, Dange, Usmani circle).
 - **M.N. Roy** founded the **Radical Democratic Party (1940)**. **Saumyendra Nath Tagore** founded the **Revolutionary Communist Party of India (1934)** after breaking from CPI.
 
-> ** note:2024 Q14 = Only 2**. **2021 Q86 = Ansari out**. WPP All-India ≠ 1927.
+> **Logic:** WPP All-India form = **December 1928**, not 1927. **M.A. Ansari** was **not** among early AITUC presidents.
 
 **PYQ — UPPCS Prelims 2024, Q14**
 
@@ -393,10 +393,10 @@ D. M.A. Ansari
 - Leaders included **Acharya Narendra Dev**, the UP ideologue.
 - **Jayaprakash Narayan**, **Minoo Masani**, **Ashok Mehta** and **Ram Manohar Lohia** belong to this socialist stream.
 - **Jawaharlal Nehru** sympathised with socialism. He did **not formally join** the CSP.
-- **2024 Q131:** statement 1 (January 1934) false; statement 2 (Nehru formally joined) false. Answer: **Neither**.
+- Congress Socialist Party was **not** formed in January **1934**, and **Nehru never formally joined** it.
 - CSP wanted socialist programmes **through Congress**, not a parallel communist party.
 
-> ** note:** CSP = **1934 inside Congress**. **Not January**. **Nehru did not join**.
+> **Logic:** CSP = **1934 inside Congress**. **Not January**. **Nehru did not join**.
 
 **PYQ — UPPCS Prelims 2024, Q131**
 
@@ -432,11 +432,11 @@ D. Only 2
 - The founders’ circle included **C. Natesa Mudaliar**, **Dr T.M. Nair** and **P. Theagaraya Chetty**.
 - It called Congress a **Brahmin-dominated** body and opposed it on that ground.
 - It claimed for non-Brahmins the same kind of **communal representation** that **Morley–Minto (1909)** had given to Muslims.
-- **2024 Q13:both statements are correct**.
+- Both statements about early communist/labour history can be correct when read separately.
 - Later this stream feeds **Periyar**, Self-Respect, and Dravidian parties.
 - Periyar left Congress in **1925** and developed the Self-Respect Movement.
 
-> ** note:** Justice Party **1916 Madras**. 2024 Q13 = **Both**.
+> **Logic:** Justice Party formed in **1916 at Madras**.
 
 **PYQ — UPPCS Prelims 2024, Q13**
 

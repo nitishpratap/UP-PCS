@@ -27,7 +27,7 @@
 | **2022–23 onward** | SHC merged into RKVY as **Soil Health and Fertility** | New name vs old scheme | PIB / DA&FW |
 | **Jul 2025** | **>25 crore** Soil Health Cards distributed; card reports **12 parameters** (N,P,K,S, Zn,Fe,Cu,Mn,B, pH, EC, OC) | Numbers / parameters | PIB Aug 2025 |
 | Ongoing | **WDC–PMKSY 2.0** = watershed soil–water conservation (not a soil-type topic) | Scheme vs conservation method | Jal Shakti / DA&FW |
-| Static | World Soil Day **5 December** (UN; UPPCS 2022 Q25) | Date trap vs 5 June | UN / PYQ |
+| Static | World Soil Day **5 December** (UN;) | Date trap vs 5 June | UN / PYQ |
 
 ---
 
@@ -212,7 +212,7 @@ Notes use this set, not full USDA taxonomy names. Read each row for how it forms
 | **Saline / Usara** | Salts + poor drainage | Canal plains, arid belts, coastal deltas, **Rann of Kutch** | Needs reclamation | More water **without** drainage worsens it |
 | **Peaty / Marshy** | Waterlogged organic pile-up | Kerala (**Kuttanad**), Sundarbans, N Bihar, S Uttarakhand | Drainage first | Black colour ≠ cotton regur |
 
-**World overlay:** Brazil’s **Selva** is equatorial rainforest. **Terra Roxa** is fertile dark basaltic coffee soil (2025 Q63 needs **both**). It parallels fertile volcanic soils and is **not** Indian regur.
+**World overlay:** Brazil’s **Selva** is equatorial rainforest. **Terra Roxa** is fertile dark basaltic coffee soil. It parallels fertile volcanic soils and is **not** Indian regur.
 
 ### Soil ↔ state match bank (classic Prelims)
 

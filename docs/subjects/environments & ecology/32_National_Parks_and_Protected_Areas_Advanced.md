@@ -710,9 +710,9 @@ D. Sikkim
 
 </details>
 
-**Q34.** Which statements about National Park vs Sanctuary / BR are correct?  
-1. NP boundaries are defined by legislation; alteration needs State Legislature.  
-2. Biosphere Reserves exist only to conserve a few specific species.  
+**Q34.** Which statements about National Park vs Sanctuary / BR are correct? 
+1. NP boundaries are defined by legislation; alteration needs State Legislature. 
+2. Biosphere Reserves exist only to conserve a few specific species. 
 3. Limited biotic interference may be permitted in a Wildlife Sanctuary.
 
 A. 1 only

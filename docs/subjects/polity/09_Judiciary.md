@@ -14,7 +14,7 @@
 
 > **Sources baked in:** Laxmikanth (SC / HC / Subordinate / Tribunals), Constitution Parts V–VI & XIVA, UPPCS Prelims PYQs 2018–2025, UP Special (Allahabad HC)
 > **Weight:** ★★★ — Art. **124**; resign to **President**; **65 / 62**; Collegium 1993+1998; NJAC **99th** struck **2015**; **131 / 71 / 262**; **136**; **143** not binding; **226 > 32**; PIL = **Bhagwati** + 2025 A/R; Tribunals = **Part XIVA not XI**; *Sampath Kumar* substitute → *L. Chandra Kumar* supplement; Fathima **TN not Kerala**; **233** vs **235**; **AIJS 312** not yet; PLA ≠ Lok Adalat; Gram Nyayalaya ≠ Evidence Act; contempt **s.15 AG / s.20 1 year**; FTC ≠ ADR
-> **Last verified:** August 2026
+> **Last verified:** September 2026 — Ghatnachakra Extra Drill (High Courts); teaching gap-pass from dump
 > **Current Affairs:** SC **34** (2019); **25** HCs; Fathima Beevi died **2023**; Mediation Act **2023**
 
 ---
@@ -1487,6 +1487,999 @@ D. A.S. Anand
 <summary>Show answer</summary>
 
 **Ans: C — P.N. Bhagwati.**
+
+</details>
+
+---
+
+## Ghatnachakra Extra Drill — High Courts
+
+> Arts. 214–231 · Appointment · Writs · Jurisdiction · Subordinate courts · Lok Adalat · Gram Nyayalaya
+
+**Q1. UPPCS (Pre) 2015**
+
+The number of judges in a High Court is decided by the
+
+A. President of India
+B. Governor of the State
+C. Chief Justice of India
+D. Parliament by an ordinary law
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 216 fixes composition as a Chief Justice plus such other judges as the President may appoint; the Constitution sets no ceiling.
+
+**Ans: A. President of India under Article 216.**
+
+</details>
+
+**Q2. UKPCS (Pre) 2012**
+
+Judges of the High Court are appointed by the
+
+A. President of India
+B. Governor of the State
+C. Chief Justice of India
+D. Chief Justice of the High Court
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 217(1) makes the President the appointing authority after consultation with the CJI, Governor and HC Chief Justice.
+
+**Ans: A. President of India, not the Governor.**
+
+</details>
+
+**Q3. IAS (Pre) 2013**
+
+Which of the following statements about the transfer of a High Court judge is **not** correct?
+
+A. The President may transfer a judge from one High Court to another under Article 222.
+B. The judge's consent is mandatory before transfer.
+C. The Chief Justice of India is consulted before transfer.
+D. A compensatory allowance may be paid to a transferred judge.
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Transfer is executive-judicial under Art. 222; consent is not constitutionally required though Collegium concurrence is now the norm.
+
+**Ans: B. The judge's consent is not mandatory.**
+
+</details>
+
+**Q4. UPPCS (Pre) 2020**
+
+Consider the following statements about additional judges of a High Court:
+1. An additional judge is appointed for a period not exceeding two years.
+2. An additional judge must vacate office on attaining 62 years even if two years are not over.
+
+Which of the above is/are correct?
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 224 caps the temporary term at two years and also binds every HC judge to leave at 62.
+
+**Ans: C. Both statements are correct under Article 224.**
+
+</details>
+
+**Q5. UPPCS (Pre) 2020**
+
+**Assertion (A):** Salaries of High Court judges are charged on the Consolidated Fund of India.
+
+**Reason (R):** Pensions of High Court judges are charged on the Consolidated Fund of India.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** A is false because salary is on the State CFI; R is true because pension is on the Union CFI under Art. 221.
+
+**Ans: D. (A) is false, but (R) is true — salary on State CFI; pension on Union CFI.**
+
+</details>
+
+**Q6. UPPCS (Pre) 2019**
+
+Which of the following pairs is **NOT** correctly matched?
+
+A. Oldest High Court — Calcutta, 1862
+B. Allahabad High Court — 1866
+C. Retirement age of High Court judge — 65 years
+D. Delhi High Court — 1966
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** HC retirement is 62 (raised from 60 by the 15th Amendment); 65 is for Supreme Court judges.
+
+**Ans: C. High Court judges retire at 62, not 65.**
+
+</details>
+
+**Q7. UPPCS (Pre) 2024**
+
+At present, the total number of High Courts in India is
+
+A. 24
+B. 25
+C. 26
+D. 28
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Andhra Pradesh and Telangana split into separate High Courts on 1 January 2019, taking the count to 25.
+
+**Ans: B. Twenty-five High Courts.**
+
+</details>
+
+**Q8. UPPCS (Pre) 2021**
+
+Match List-I (High Court) with List-II (Also serves) and select the correct answer using the code given below the lists:
+
+**List-I**
+
+| Code | Item |
+|------|------|
+| A | Punjab & Haryana |
+| B | Madras |
+| C | Calcutta |
+| D | Kerala |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | Puducherry |
+| 2 | Chandigarh |
+| 3 | Andaman & Nicobar Islands |
+| 4 | Lakshadweep |
+
+*Row order is not the answer code.*
+
+Select the correct answer using the code given below:
+
+A. A-2, B-1, C-3, D-4
+B. A-2, B-1, C-4, D-3
+C. A-1, B-2, C-3, D-4
+D. A-2, B-3, C-1, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** P&H serves Punjab, Haryana and Chandigarh; Madras covers Puducherry; Calcutta covers Andaman & Nicobar; Kerala covers Lakshadweep.
+
+**Ans: A. A-2, B-1, C-3, D-4.**
+
+</details>
+
+**Q9. UPPCS (Pre) 2018**
+
+Which Union Territory has its own High Court?
+
+A. Chandigarh
+B. Puducherry
+C. Delhi
+D. Jammu and Kashmir
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Delhi got a separate High Court in 1966; other UTs generally fall under a neighbouring State High Court unless Parliament extends jurisdiction.
+
+**Ans: C. Delhi.**
+
+</details>
+
+**Q10. UPPCS (Pre) 2023**
+
+The common High Court for the Union Territories of Jammu and Kashmir and Ladakh has its principal seats at
+
+A. Srinagar and Leh
+B. Srinagar and Jammu
+C. Jammu only
+D. Srinagar only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** After the 2019 reorganisation, one High Court serves both UTs with benches at Srinagar (summer) and Jammu (winter).
+
+**Ans: B. Srinagar and Jammu.**
+
+</details>
+
+**Q11. MPPCS (Pre) 2019**
+
+The Andaman and Nicobar Islands come under the jurisdiction of the High Court at
+
+A. Madras
+B. Calcutta
+C. Gauhati
+D. Kerala
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Calcutta High Court exercises jurisdiction over West Bengal and the Andaman & Nicobar Islands.
+
+**Ans: B. Calcutta.**
+
+</details>
+
+**Q12. UPPCS (Pre) 2016**
+
+The Bombay High Court has jurisdiction over which of the following?
+
+A. Maharashtra and Goa only
+B. Maharashtra, Goa and Dadra & Nagar Haveli and Daman & Diu
+C. Maharashtra, Gujarat and Goa
+D. Maharashtra, Goa and Karnataka
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Bombay is a multi-territory common High Court for Maharashtra, Goa and the merged UT of DNHDD.
+
+**Ans: B. Maharashtra, Goa and Dadra & Nagar Haveli and Daman & Diu.**
+
+</details>
+
+**Q13. BPSC 68th (Pre)**
+
+How many High Courts in India have jurisdiction over more than one State **excluding Union Territories**?
+
+A. One
+B. Two
+C. Three
+D. Four
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Only Gauhati (Assam + NE states), Bombay (Maharashtra + Goa) and Punjab & Haryana (Punjab + Haryana) span more than one State; Madras/Calcutta/Kerala add UTs.
+
+**Ans: C. Three — Gauhati, Bombay and Punjab & Haryana.**
+
+</details>
+
+**Q14. UPPCS (Pre) 2014**
+
+Separate High Courts for Meghalaya, Manipur and Tripura were established in
+
+A. March 2012
+B. March 2013
+C. January 2019
+D. November 2000
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The three north-eastern State High Courts began functioning on 23 March 2013.
+
+**Ans: B. March 2013.**
+
+</details>
+
+**Q15. IAS (Pre) 2014**
+
+Advisory jurisdiction to tender an opinion on a question of law or fact of public importance is available to the
+
+A. Supreme Court only under Article 143
+B. High Court only under Article 228
+C. Both Supreme Court and High Courts
+D. President acting without the Court
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 143 is a Supreme Court power; High Courts have writ, appellate and supervisory jurisdiction but no advisory jurisdiction.
+
+**Ans: A. Supreme Court only under Article 143.**
+
+</details>
+
+**Q16. UPPCS (Pre) 2019**
+
+Which of the following is **NOT** correctly matched?
+
+A. Habeas Corpus — 'To have the body of'
+B. Mandamus — 'We command'
+C. Prohibition — 'To be certified'
+D. Quo Warranto — 'By what authority'
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Prohibition forbids a lower court from exceeding jurisdiction before decision; 'to be certified' describes Certiorari.
+
+**Ans: C. Prohibition means to forbid; Certiorari is the certification/quashing writ.**
+
+</details>
+
+**Q17. IAS (Pre) 2022**
+
+With reference to the writs issued by the Courts in India, consider the following statements:
+1. Mandamus will not lie against a private organisation unless it is entrusted with a public duty.
+2. Mandamus will not lie against a Company even though it may be a Government Company.
+3. Any public minded person can be a petitioner to move the Court to obtain the writ of Quo Warranto.
+
+Which of the statements given above are correct?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Statement 2 is wrong because mandamus can run against a government company performing a public duty; quo warranto relaxes locus standi.
+
+**Ans: C. Statements 1 and 3 only.**
+
+</details>
+
+**Q18. UPPCS (Pre) 2023**
+
+Consider the following statements:
+1. Writs under Article 32 lie in the Supreme Court for the enforcement of Fundamental Rights.
+2. The writ jurisdiction of High Courts under Article 226 is wider than that of the Supreme Court under Article 32.
+
+Which of the statements given above is/are correct?
+
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 226 covers Fundamental Rights and any other legal purpose; Art. 32 is FR-only though it is itself a Fundamental Right.
+
+**Ans: C. Both statements are correct.**
+
+</details>
+
+**Q19. UPPCS (Mains) 2012**
+
+The procedure for removal of a judge of a High Court is the same as that for a judge of the
+
+A. Supreme Court
+B. District Court
+C. Governor
+D. Member of State Public Service Commission
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Arts. 124(4) and 218 route HC removal through the same parliamentary address procedure as Supreme Court judges.
+
+**Ans: A. Supreme Court.**
+
+</details>
+
+**Q20. UPPCS (Pre) 2021**
+
+With reference to resignation of judges, which of the following is/are correct?
+1. A Supreme Court judge addresses his resignation to the President.
+2. A High Court judge addresses his resignation to the Governor.
+
+Select the correct answer using the code given below:
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Both SC and HC judges resign to the President; only the oath differs (President vs Governor).
+
+**Ans: A. Only 1 — both tiers resign to the President.**
+
+</details>
+
+**Q21. UPPCS (Pre) 2020**
+
+With reference to a retired High Court judge, which of the following is/are correct?
+1. He cannot plead before the High Court where he was a judge, or courts subordinate to it.
+2. He may plead before the Supreme Court and other High Courts.
+
+Select the correct answer using the code given below:
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 220 after the 7th Amendment allows practice everywhere except the same HC and courts below it.
+
+**Ans: C. Both statements are correct.**
+
+</details>
+
+**Q22. UPPCS (Pre) 2022**
+
+**Assertion (A):** The High Court controls posting and promotion of district judges.
+
+**Reason (R):** Article 235 vests control over the subordinate courts in the High Court.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** Art. 235 gives the HC administrative control over posting, promotion and leave of district judges and the judicial service.
+
+**Ans: A. Both true and R correctly explains A.**
+
+</details>
+
+**Q23. UPPCS (Pre) 2021**
+
+With reference to district judges, which of the following statements is/are correct?
+1. They are appointed by the Governor in consultation with the High Court.
+2. Control over district courts is vested in the Governor.
+
+Select the correct answer using the code given below:
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Appointment is Art. 233 (Governor + HC); control after appointment is Art. 235 (HC alone).
+
+**Ans: A. Only 1.**
+
+</details>
+
+**Q24. UPPCS (Pre) 2020**
+
+Match List-I (Article) with List-II (Subject) and select the correct answer using the code given below the lists:
+
+**List-I**
+
+| Code | Item |
+|------|------|
+| A | Article 233 |
+| B | Article 234 |
+| C | Article 235 |
+| D | Article 236 |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | Control over subordinate courts |
+| 2 | Appointment of district judges |
+| 3 | Recruitment other than district judges |
+| 4 | Interpretation / definitions |
+
+*Row order is not the answer code.*
+
+Select the correct answer using the code given below:
+
+A. A-2, B-3, C-1, D-4
+B. A-2, B-1, C-3, D-4
+C. A-1, B-3, C-2, D-4
+D. A-2, B-3, C-4, D-1
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 233 appoints district judges; 234 covers other judicial service recruitment; 235 is control; 236 defines district judge and judicial service.
+
+**Ans: A. A-2, B-3, C-1, D-4.**
+
+</details>
+
+**Q25. UPPCS (Pre) 2020**
+
+How many of the following statements about Article 233(2) are correct?
+1. It applies to a person not already in the service of the Union or the State.
+2. The person must have been an advocate for at least seven years.
+3. The High Court must recommend the name.
+
+Select the correct answer using the code given below:
+
+A. Only one
+B. Only two
+C. All three
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Direct bar recruits need seven years' practice and HC recommendation; promotee judicial officers follow a different route.
+
+**Ans: C. All three conditions apply to a direct recruit from the Bar under Article 233(2).**
+
+</details>
+
+**Q26. UPPCS (Pre) 2022**
+
+With reference to Article 233, which of the following statements is/are correct?
+1. A promotee district judge from the judicial service must have been an advocate for seven years.
+2. Control over posting and leave of district judges vests in the High Court.
+
+Select the correct answer using the code given below:
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Seven years at the Bar is for direct recruits under 233(2), not for promotee judicial officers; control is Art. 235.
+
+**Ans: B. Only 2 — control vests in the High Court under Article 235.**
+
+</details>
+
+**Q27. RAS/RTS (Pre) 2013**
+
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**List-I**
+
+| Code | Item |
+|------|------|
+| A | Article 215 |
+| B | Article 222 |
+| C | Article 226 |
+| D | Article 227 |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | Transfer of a High Court judge |
+| 2 | Superintendence over subordinate courts |
+| 3 | Writ jurisdiction |
+| 4 | Court of record |
+
+*Row order is not the answer code.*
+
+Select the correct answer using the code given below:
+
+A. A-4, B-1, C-3, D-2
+B. A-2, B-1, C-3, D-4
+C. A-1, B-4, C-3, D-2
+D. A-4, B-2, C-3, D-1
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 215 = court of record; 222 = transfer; 226 = writs; 227 = superintendence — a classic four-way trap.
+
+**Ans: A. A-4, B-1, C-3, D-2.**
+
+</details>
+
+**Q28. UPPCS (Pre) 2023**
+
+Which one of the following pairs is **NOT** correctly matched?
+
+A. Article 214 — High Courts for States
+B. Article 226 — Power of High Courts to issue writs
+C. Article 227 — Power of Parliament to transfer High Court judges
+D. Article 231 — Common High Court for two or more States
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 227 is HC superintendence; judge transfer is Article 222.
+
+**Ans: C. Article 227 is superintendence, not transfer.**
+
+</details>
+
+**Q29. UPPCS (Pre) 2021**
+
+**Assertion (A):** A distinguished jurist can be appointed a judge of a High Court.
+
+**Reason (R):** Article 217 does not contain a 'distinguished jurist' clause.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** The jurist route exists only for the Supreme Court under Art. 124; HC qualification is ten years' judicial office or ten years as an HC advocate.
+
+**Ans: D. (A) is false, but (R) is true.**
+
+</details>
+
+**Q30. UPPCS (Pre) 2021**
+
+With reference to High Courts, which of the following statements is/are correct?
+1. Article 214 provides a High Court for each State.
+2. Parliament may establish a common High Court for two or more States under Article 231.
+
+Select the correct answer using the code given below:
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 214 creates the State HC rule; 231 allows a common HC by ordinary law without a constitutional amendment.
+
+**Ans: C. Both statements are correct.**
+
+</details>
+
+**Q31. UPPCS (Pre) 2020**
+
+Match List-I (High Court) with List-II (Year of establishment) and select the correct answer using the code given below the lists:
+
+**List-I**
+
+| Code | Item |
+|------|------|
+| A | Calcutta |
+| B | Allahabad |
+| C | Delhi |
+| D | Uttarakhand |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | 1866 |
+| 2 | 1862 |
+| 3 | 1966 |
+| 4 | 2000 |
+
+*Row order is not the answer code.*
+
+Select the correct answer using the code given below:
+
+A. A-2, B-1, C-3, D-4
+B. A-2, B-1, C-4, D-3
+C. A-1, B-2, C-3, D-4
+D. A-2, B-3, C-1, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Chartered trio 1862; Allahabad Letters Patent 1866; Delhi HC 1966; Uttarakhand HC at Nainital from statehood 2000.
+
+**Ans: A. A-2, B-1, C-3, D-4.**
+
+</details>
+
+**Q32. UPPCS (Pre) 2023**
+
+Consider the following statements about the Allahabad High Court:
+1. It was established in 1866.
+2. It has a permanent bench at Lucknow.
+3. Its sanctioned strength is the largest among Indian High Courts.
+
+Which of the above is/are correct?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Letters Patent 17 March 1866; Lucknow Bench from the 1948 amalgamation order; about 160 judges sanctioned.
+
+**Ans: D. All three statements are correct.**
+
+</details>
+
+**Q33. UPPCS (Pre) 2022**
+
+Consider the following statements about the oath of judges:
+1. A Supreme Court judge takes oath before the President.
+2. A High Court judge takes oath before the Governor.
+
+Which of the above is/are correct?
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Oath ceremonies differ — SC before President, HC before Governor — but both address resignation to the President.
+
+**Ans: C. Both statements are correct.**
+
+</details>
+
+**Q34. IAS (Pre) 2014**
+
+In the matter of appointment of High Court judges, the Collegium for the Supreme Court consists of the Chief Justice of India and
+
+A. Two senior-most judges of the Supreme Court
+B. Four senior-most judges of the Supreme Court
+C. Two senior-most judges of the High Court concerned
+D. Four senior-most judges of the High Court concerned
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Third Judges Case (1998): SC appointments use CJI + four; HC appointments and transfers use CJI + two.
+
+**Ans: A. Two senior-most judges of the Supreme Court.**
+
+</details>
+
+**Q35. UPPCS (Pre) 2020**
+
+How many of the following are qualifications for appointment as a High Court judge?
+1. Citizen of India
+2. Ten years as a judicial officer in India
+3. Distinguished jurist in the President's opinion
+
+Select the correct answer using the code given below:
+
+A. Only one
+B. Only two
+C. All three
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Citizenship plus ten years' judicial office or ten years as an HC advocate; no jurist limb unlike the Supreme Court.
+
+**Ans: B. Only two — citizenship and the ten-year judicial/advocate route.**
+
+</details>
+
+**Q36. UPPCS (Pre) 2021**
+
+With reference to Lok Adalats, which of the following statements is/are correct?
+1. The award of a Lok Adalat is deemed to be a decree of a civil court.
+2. An appeal lies against the award to the High Court.
+
+Select the correct answer using the code given below:
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Legal Services Authorities Act treats a Lok Adalat award as a civil-court decree with no further appeal.
+
+**Ans: A. Only 1 — the award is final like a decree.**
+
+</details>
+
+**Q37. UPPCS (Pre) 2022**
+
+How many of the following statements about a Permanent Lok Adalat are correct?
+1. It deals with public utility services.
+2. It can take pre-litigation disputes.
+3. If parties do not settle, it may decide the dispute on merits.
+
+Select the correct answer using the code given below:
+
+A. Only one
+B. Only two
+C. All three
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** PLA (2002 amendment) is the hybrid forum that can decide merits when compromise fails, unlike a regular Lok Adalat.
+
+**Ans: C. All three statements are correct.**
+
+</details>
+
+**Q38. UPPCS (Pre) 2021**
+
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**List-I**
+
+| Code | Item |
+|------|------|
+| A | First Lok Adalat (independent India) |
+| B | Legal Services Authorities Act in force |
+| C | Gram Nyayalayas Act in force |
+| D | Fast Track Courts scheme |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | 11th Finance Commission, 2000 |
+| 2 | Gujarat, 1982 |
+| 3 | 9 November 1995 |
+| 4 | 2 October 2009 |
+
+*Row order is not the answer code.*
+
+Select the correct answer using the code given below:
+
+A. A-2, B-3, C-4, D-1
+B. A-2, B-3, C-1, D-4
+C. A-3, B-2, C-4, D-1
+D. A-2, B-4, C-3, D-1
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Gujarat hosted the first Lok Adalat in 1982; NALSA Act force 1995; Gram Nyayalayas 2009; FTCs followed the 11th FC.
+
+**Ans: A. A-2, B-3, C-4, D-1.**
+
+</details>
+
+**Q39. UPPCS (Pre) 2022**
+
+Consider the following statements about Gram Nyayalayas:
+1. They are bound by the Indian Evidence Act, 1872.
+2. The Nyayadhikari is appointed by the State Government in consultation with the High Court.
+
+Which of the above is/are correct?
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Gram Nyayalayas follow natural justice, not the Evidence Act; appointment follows the 2008 Act with HC consultation.
+
+**Ans: B. Only 2.**
+
+</details>
+
+**Q40. UPPCS (Pre) 2021**
+
+**Assertion (A):** A Gram Nyayalaya is a court at the intermediate Panchayat level.
+
+**Reason (R):** The Nyayadhikari is appointed by the State Government in consultation with the High Court.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** Gram Nyayalaya is a statutory court at the intermediate Panchayat level, not a Panchayat body; R states a true appointment rule but does not explain A.
+
+**Ans: B. Both true; R does not explain A.**
+
+</details>
+
+**Q41. UPPCS (Pre) 2022**
+
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**List-I**
+
+| Code | Item |
+|------|------|
+| A | Family Courts Act |
+| B | Gram Nyayalayas Act in force |
+| C | Fast Track Courts scheme |
+| D | Legal Services Authorities Act in force |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | 11th Finance Commission |
+| 2 | 1984 |
+| 3 | 2 October 2009 |
+| 4 | 9 November 1995 |
+
+*Row order is not the answer code.*
+
+Select the correct answer using the code given below:
+
+A. A-2, B-3, C-1, D-4
+B. A-2, B-1, C-3, D-4
+C. A-3, B-2, C-1, D-4
+D. A-2, B-3, C-4, D-1
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Family Courts 1984; Gram Nyayalayas notified 2009; FTCs 2000; NALSA Act force date 9 November 1995.
+
+**Ans: A. A-2, B-3, C-1, D-4.**
+
+</details>
+
+**Q42. UPPCS (Pre) 2020**
+
+Consider the following statements regarding undertrial prisoners and judicial custody:
+1. Prolonged detention of undertrials without trial violates the right to life under Article 21.
+2. A writ of Habeas Corpus can be moved before a High Court to secure release from illegal detention.
+
+Which of the above is/are correct?
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** *Hussainara Khatoon* read speedy trial into Art. 21; habeas corpus under Art. 226 secures liberty from unlawful custody.
+
+**Ans: C. Both statements are correct.**
+
+</details>
+
+**Q43. UKPCS (Pre) 2025**
+
+With reference to mobile courts / mobile Lok Adalats in India, consider the following statements:
+1. Mobile Lok Adalats are organised under the Legal Services Authorities Act framework to take justice to remote areas.
+2. A mobile Lok Adalat award has the same finality as an award passed by a regular Lok Adalat.
+
+Which of the above is/are correct?
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Mobile Lok Adalat is a NALSA device for doorstep justice; the award remains a civil-court decree with no appeal.
+
+**Ans: C. Both statements are correct.**
 
 </details>
 

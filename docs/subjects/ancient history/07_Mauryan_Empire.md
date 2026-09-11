@@ -555,7 +555,7 @@ A. Both 1 and 2 B. Neither 1 nor 2 C. Only 1 D. Only 2
 | **IX** | Useless rites vs true dhamma |
 | **X** | Fame only through dhamma |
 | **XI** | *Dhamma-dana* (gift of dhamma) |
-| **XII** | **Samavaya / religious synthesis** ← **2022 Q54** |
+| **XII** | **Samavaya / religious synthesis** ← |
 | **XIII** | **Kalinga**; five Greek kings (**Antioka** = Antiochus II Theos of Syria; **Turamaya** = Ptolemy II Philadelphus of Egypt; **Antikini** = Antigonus Gonatas of Macedonia; **Maka** = Magas of Cyrene; **Alikasudara** = Alexander of Epirus); dhamma-vijaya |
 | **XIV** | Edicts written short or long as the place needs |
 
@@ -1865,7 +1865,7 @@ D. Kalsi
 ### Years with zero extra hits in local `pyq/` folder
 
 **2021, 2019, 2018** UPPCS GS folder — no further recent Prelims hit beyond the 2020–2024 set already banked. Older UPPCS / RO-ARO / Lower / UKPCS stems above close the Ghatnachakra gap.
-**Out of boundary:** 2022 Chandragupta **II** Shaka coins are Gupta, not Mauryan. UPPCS 2025 Q105 Pataliputra is the **Buddhist-council** order. Seleucus treaty detail is the invasion story; the one-line here is **500 elephants + Megasthenes**. Bharhut Shunga art → Topic 8.
+**Out of boundary:** 2022 Chandragupta **II** Shaka coins are Gupta, not Mauryan. Pataliputra is the **Buddhist-council** order. Seleucus treaty detail is the invasion story; the one-line here is **500 elephants + Megasthenes**. Bharhut Shunga art → Topic 8.
 
 ---
 

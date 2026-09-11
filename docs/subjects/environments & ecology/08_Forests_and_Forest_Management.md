@@ -148,8 +148,6 @@ Forests and their Types | Forest Types in India | Forest Conservation | Forest M
 | 15 | Moist Alpine Scrub | High Himalaya |
 | 16 | Dry Alpine Scrub | Cold desert Himalaya |
 
-> ** note:** UPPCS 2025 Q8 — districts above 20% are **Chandauli and Shravasti**, not Bahraich.
-
 **PYQ — UPPCS Prelims 2025, Q8**
 
 As per ISFR 2023, which UP districts had forest over more than 20% of total area?
@@ -368,14 +366,14 @@ Which is NOT correctly matched? A. ICRAF — Nairobi B. IIFM — Bhopal C. CAFRI
 
 As per **ISFR 2023**, which districts of Uttar Pradesh had forest cover on **more than 20%** of their total geographical area?
 
-1. Bahraich  
-2. Chandauli  
-3. Shravasti  
+1. Bahraich 
+2. Chandauli 
+3. Shravasti 
 
-A. 1 and 2 only  
-B. 3 only  
-C. 2 and 3 only  
-D. 1 only  
+A. 1 and 2 only 
+B. 3 only 
+C. 2 and 3 only 
+D. 1 only 
 
 <details>
 <summary>Show answer</summary>
@@ -394,13 +392,13 @@ D. 1 only
 
 With reference to the **"Piral Lao – Paise Pao"** campaign, consider the following statements:
 
-1. It helps reduce forest fires and provides income to villagers by collecting pine needles.  
-2. It was launched by the Chief Minister of Uttarakhand.  
+1. It helps reduce forest fires and provides income to villagers by collecting pine needles. 
+2. It was launched by the Chief Minister of Uttarakhand. 
 
-A. 2 only  
-B. Neither 1 nor 2  
-C. 1 only  
-D. Both 1 and 2  
+A. 2 only 
+B. Neither 1 nor 2 
+C. 1 only 
+D. Both 1 and 2 
 
 <details>
 <summary>Show answer</summary>
@@ -419,10 +417,10 @@ D. Both 1 and 2
 
 **Joint Forest Management (JFM)** in India was launched through a MoEF resolution in—
 
-A. 1982  
-B. 1986  
-C. 1990  
-D. 1992  
+A. 1982 
+B. 1986 
+C. 1990 
+D. 1992 
 
 <details>
 <summary>Show answer</summary>
@@ -441,10 +439,10 @@ D. 1992
 
 According to the **India State of Forest Report, 2017**, what percentage of India's total geographical area was under forest cover?
 
-A. 20.34%  
-B. 22.34%  
-C. 21.54%  
-D. 23.54%  
+A. 20.34% 
+B. 22.34% 
+C. 21.54% 
+D. 23.54% 
 
 <details>
 <summary>Show answer</summary>
@@ -463,13 +461,13 @@ D. 23.54%
 
 Consider the following statements about **Uttar Pradesh**:
 
-1. Forests constitute about **12.8%** of the total geographical area of the State.  
-2. The districts of **Jaunpur, Ghazipur and Ballia** have no forest land.  
+1. Forests constitute about **12.8%** of the total geographical area of the State. 
+2. The districts of **Jaunpur, Ghazipur and Ballia** have no forest land. 
 
-A. 1 only  
-B. Both 1 and 2  
-C. 2 only  
-D. Neither 1 nor 2  
+A. 1 only 
+B. Both 1 and 2 
+C. 2 only 
+D. Neither 1 nor 2 
 
 <details>
 <summary>Show answer</summary>
@@ -488,10 +486,10 @@ D. Neither 1 nor 2
 
 As per **India State of Forest Report–2021**, which State registered the **maximum increase in forest cover** during the last two years?
 
-A. Kerala  
-B. Assam  
-C. Arunachal Pradesh  
-D. Andhra Pradesh  
+A. Kerala 
+B. Assam 
+C. Arunachal Pradesh 
+D. Andhra Pradesh 
 
 <details>
 <summary>Show answer</summary>
@@ -510,10 +508,10 @@ D. Andhra Pradesh
 
 Under the **Forest Rights Act, 2006**, the maximum area recognised under an **Individual Forest Right (IFR)** for cultivation/habitation is—
 
-A. 2 hectares  
-B. 4 hectares  
-C. 10 hectares  
-D. No statutory cap  
+A. 2 hectares 
+B. 4 hectares 
+C. 10 hectares 
+D. No statutory cap 
 
 <details>
 <summary>Show answer</summary>
@@ -532,10 +530,10 @@ D. No statutory cap
 
 The **Forest (Conservation) Act, 1980** was enacted primarily to—
 
-A. Grant permanent land titles to forest dwellers  
-B. Regulate diversion of forest land for non-forest use with prior central approval  
-C. Establish Joint Forest Management committees nationwide  
-D. Fix a 33% national forest-cover target by 1988  
+A. Grant permanent land titles to forest dwellers 
+B. Regulate diversion of forest land for non-forest use with prior central approval 
+C. Establish Joint Forest Management committees nationwide 
+D. Fix a 33% national forest-cover target by 1988 
 
 <details>
 <summary>Show answer</summary>
@@ -554,10 +552,10 @@ D. Fix a 33% national forest-cover target by 1988
 
 Which of the following is **NOT** correctly matched?
 
-A. ICRAF — Nairobi  
-B. IIFM — Bhopal  
-C. CAFRI — Banda  
-D. TERI — New Delhi  
+A. ICRAF — Nairobi 
+B. IIFM — Bhopal 
+C. CAFRI — Banda 
+D. TERI — New Delhi 
 
 <details>
 <summary>Show answer</summary>
@@ -576,10 +574,10 @@ D. TERI — New Delhi
 
 In which of the following are provisions for the **protection and improvement of the environment** and **safeguarding of forests and wildlife** found in the Constitution of India?
 
-A. Only in the Directive Principles of State Policy  
-B. Only in the Fundamental Duties  
-C. Both (a) and (b)  
-D. None of the above  
+A. Only in the Directive Principles of State Policy 
+B. Only in the Fundamental Duties 
+C. Both (a) and (b) 
+D. None of the above 
 
 <details>
 <summary>Show answer</summary>
@@ -717,7 +715,7 @@ D. Drying of water sources
 
 </details>
 
-**Q38.** Assertion (A): Forests are a renewable resource.  
+**Q38.** Assertion (A): Forests are a renewable resource. 
 Reason (R): They enhance environmental quality by absorbing CO₂ and releasing O₂.
 
 A. Both true; R explains A

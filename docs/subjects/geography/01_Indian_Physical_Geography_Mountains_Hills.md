@@ -15,7 +15,7 @@
 > **Sources baked in:** NCERT Geography Class 11 (Ch 2–3), Class 12 (Ch 1–2), physiography map (Kullar), UPPCS Prelims PYQs 2018–2025
 > **Weight:** ★★★ — map matching, peaks, passes, physiographic traps every year
 > **Last verified:** August 2026
-> **Current Affairs:** Sela Tunnel (Mar 2024, Arunachal); Z-Morh / Sonamarg Tunnel (2025); Atal Tunnel = longest highway tunnel **above 10,000 ft** (not unqualified “world’s longest” — UPPCS 2025 Q44)
+> **Current Affairs:** Sela Tunnel (Mar 2024, Arunachal); Z-Morh / Sonamarg Tunnel (2025); Atal Tunnel = longest highway tunnel **above 10,000 ft** (not unqualified “world’s longest” —)
 
 ---
 
@@ -26,7 +26,7 @@
 |------|------|-----------|--------|
 | **Mar 2024** | **Sela Tunnel** (BRO) — all-weather Tezpur–**Tawang** (Arunachal); longest twin-lane tunnel **above ~13,000 ft** | Border tunnel / pass CA | PIB / inauguration |
 | **2025** | **Z-Morh / Sonamarg Tunnel** — all-weather Srinagar–Ladakh axis | Pair with Zoji La | PIB |
-| 2020 / PYQ 2025 | Atal Tunnel qualifier only: longest highway tunnel **above 10,000 ft**, not unqualified world longest | UPPCS 2025 Q44 | PIB / BRO |
+| 2020 / PYQ 2025 | Atal Tunnel qualifier only: longest highway tunnel **above 10,000 ft**, not unqualified world longest | | PIB / BRO |
 
 ---
 
@@ -397,7 +397,7 @@ D. 1, 2 and 3 are correct
 - The **Zanskar** range lies **north** of the Kashmir Valley and separates it from Ladakh. **Pensi La** crosses it. **Kargil** sits toward its western end.
 - The **Dhauladhar** is an outer Lesser Himalayan range in **Himachal**. **Kangra Valley** is a **strike** (longitudinal) valley at its foot. **Kulu Valley** (upper Ravi) is a **transverse** valley.
 - The Kashmir Valley is about **135 km by 32–40 km**. The **Jhelum** drains it through the **Baramulla gorge**. **Srinagar**, **Dal Lake**, and **Wular Lake** belong to this vale.
-- The valley lies between **Pir Panjal (south)** and **Himadri (north)** — UPPCS 2020 Q66.
+- The valley lies between **Pir Panjal (south)** and **Himadri (north)**.
 - **Karewas** are Pleistocene **lacustrine** terraces left when the Kashmir lake drained through Baramulla. Thickness can reach about **1400 m**.
 - Karewas grow **saffron**, almond, walnut, and apple. They are **not** the same landform as a dun.
 
@@ -429,15 +429,15 @@ D. 1, 2 and 3 are correct
 | **Kanchenjunga** | 8586 | Highest peak **fully in India** (Sikkim, Himadri) |
 | **Nanda Devi** | 7816 | Uttarakhand; highest entirely in Uttarakhand |
 | **Kamet** | 7756 | Uttarakhand |
-| **Cho Oyu** | 8188 | Himalaya (Nepal–Tibet) — UPPCS 2022 Q31 |
-| **Lhotse** | 8516 | Himalaya (Nepal–Tibet) — UPPCS 2022 Q31 |
+| **Cho Oyu** | 8188 | Himalaya (Nepal–Tibet) — |
+| **Lhotse** | 8516 | Himalaya (Nepal–Tibet) — |
 | **Nanga Parbat** | 8126 | Western syntaxial bend (Gilgit–Baltistan / PoK) |
 | **Namcha Barwa** | 7782 | **Tibet / China** — **not** in India |
 | **Gurla Mandhata** | 7694 | **Tibet**, north of Mansarovar — **not** an Indian peak |
 
 - **Annamalai** and **Sirumalai** are **Tamil Nadu peninsular** hills. They are **not** Himalayan.
 
-> ** note:** 2019 Q82 official key = **Namcha Barwa** is not in India. Teach Gurla Mandhata as Tibetan. Do not list it as an Indian Trans-Himalayan peak.
+> **Logic:** **Namcha Barwa** is not in India. **Gurla Mandhata** is Tibetan — do not list either as an Indian Trans-Himalayan peak.
 
 ---
 
@@ -486,7 +486,7 @@ D. 1, 2 and 3 are correct
 - **Amarkantak** is the source of the **Narmada** and the **Son**.
 - The **Tapi** flows in a rift/gorge south of the Satpura. **Gavilgarh Hills** are the western Satpura in Maharashtra.
 
-> ** note:** Never reverse Vindhya and Satpura across the Narmada. 2019 Q6 — do not put Maikal before Satpura or Chhotanagpur before Maikal.
+> **Logic:** Never reverse Vindhya and Satpura across the Narmada. do not put Maikal before Satpura or Chhotanagpur before Maikal.
 
 **PYQ — UPPCS Prelims 2019, Q6**
 
@@ -686,7 +686,7 @@ D. Only 1
 
 - Range highest (do not restudy the state table): Himalaya-in-India **Kanchenjunga 8586** · Karakoram **K2 8611** · Western Ghats **Anaimudi 2695** · Eastern Ghats **Jindhagada ~1690** · Aravalli **Guru Shikhar 1722** · Satpura **Dhupgarh 1350** · Nilgiri **Doddabetta 2637** · Naga **Saramati 3841**.
 
-> ** note:** Same four-pair in **2018 Q108, 2021 Q127, 2025 Q37**: TN–Doddabetta, RJ–Guru Shikhar, NL–Saramati, MP–Dhupgarh (2018 used Kerala–Anaimudi + UK–Nanda Devi).
+> **Logic:** Standard hill–state pairs: TN–Doddabetta, RJ–Guru Shikhar, NL–Saramati, MP–Dhupgarh. Older variants also used Kerala–Anaimudi and UK–Nanda Devi.
 
 ### Sacred geography
 
@@ -707,7 +707,7 @@ D. Only 1
 | Chamundi | Karnataka | Mysuru |
 | Konark | Odisha | **Coastal plain** (not a hill shrine) |
 
-> ** note:** 2018 Q100 official key = **Mallmalla**. Real site = Tirumala Hills (Eastern Ghats). Shevaroy = Yercaud (Tamil Nadu). Biligiriranga = Karnataka. Javadhee = Tamil Nadu.
+> **Logic:** **Mallmalla** in options usually means **Tirumala Hills** (Eastern Ghats). **Shevaroy** = Yercaud (Tamil Nadu). **Biligiriranga** = Karnataka. **Javadhee** = Tamil Nadu.
 
 ---
 
@@ -782,7 +782,7 @@ D. Only 1
 - It does **not** pass through Bihar, Odisha, Maharashtra, Karnataka, Kerala, Tamil Nadu, Punjab, Haryana, Delhi, Assam, Nagaland, Manipur, Arunachal, Sikkim, Himachal, Uttarakhand, Goa, Andhra Pradesh, or Telangana.
 - NCERT says the Tropic passes through the **middle** of the country. That does **not** mean equal land area north and south of 23°30′ N: **more land lies north** of the Tropic.
 
-> **Note:** Rank = **7th**, not 6th. Area **2.4%**. Tropic through the **middle** matches the NCERT wording used in **2022 Q35** statement 3. India is **not** wholly tropical. UP is **not** on the Tropic.
+> **Note:** Rank = **7th**, not 6th. Area **2.4%**. Tropic through the **middle** matches the NCERT wording used in statement 3. India is **not** wholly tropical. UP is **not** on the Tropic.
 
 **PYQ — UPPCS Prelims 2022, Q35Logic:** Stmt 1 tests rank (7th vs 6th). Stmt 2 tests area share. Stmt 3 is the NCERT “middle” wording (do not upgrade it to equal land area). Stmt 4 traps “wholly tropical.”
 
@@ -2005,7 +2005,7 @@ D. (A) is false, but (R) is true
 
 </details>
 
-**Q33.** Match **List-I** with **List-II** (2018 Q108 pattern):
+**Q33.** Match **List-I** with **List-II**:
 
 | List-I (State) | List-II (Highest Peak) |
 |---|---|
@@ -2608,18 +2608,18 @@ D. Only 3 and 4
 
 ## Common Traps — Don't Fall For These
 
-1. **Lipulekh is in Ladakh** — FALSE. **Uttarakhand** (India–Nepal–China trijunction) — UPPCS 2025 Q55.
-2. **Mana Pass is in Himachal** — FALSE. **Niti and Mana** are both **Uttarakhand** — UPPCS 2023 Q57.
+1. **Lipulekh is in Ladakh** — FALSE. **Uttarakhand** (India–Nepal–China trijunction).
+2. **Mana Pass is in Himachal** — FALSE. **Niti and Mana** are both **Uttarakhand**.
 3. **Bomdila is a pass** — FALSE. Bomdila is a **town**; the pass is **Bomdi La** (Arunachal).
-4. **Tirupati is on Shevaroy Hills** — FALSE. **Tirumala / Mallamalla (Eastern Ghats)** — UPPCS 2018 Q100.
+4. **Tirupati is on Shevaroy Hills** — FALSE. **Tirumala / Mallamalla (Eastern Ghats)**.
 5. **Kanyakumari is India's southernmost point** — FALSE. **Indira Point (Great Nicobar)** = southernmost territory.
-6. **Aravalli is the youngest range** — FALSE. **Himadri** is youngest among usual options; Aravalli is **oldest** — UPPCS 2020 Q60.
-7. **India = 6th largest / wholly tropical** — FALSE. **7th**; **2.4%**; Tropic through the middle; **not** wholly tropical. 2022 Q35 = **A (2 and 3)**.
-8. **Intertrappean beds have sea fossils** — FALSE. **Freshwater/land** fossils — UPPCS 2024 Q59.
+6. **Aravalli is the youngest range** — FALSE. **Himadri** is youngest among usual options; Aravalli is **oldest**.
+7. **India = 6th largest / wholly tropical** — FALSE. **7th**; **2.4%**; Tropic through the middle; **not** wholly tropical.
+8. **Intertrappean beds have sea fossils** — FALSE. **Freshwater/land** fossils.
 9. **K2 is in the main Himalaya** — FALSE. **Karakoram**.
-10. **Kashmir Valley = Kangra + Dhauladhar** — FALSE. **Pir Panjal + Himadri** — UPPCS 2020 Q66.
-11. **Annamalai / Sirumalai are Himalayan** — FALSE. **Tamil Nadu peninsular** — UPPCS 2022 Q31.
-12. **Atal Tunnel is the world's longest highway tunnel (unqualified)** — FALSE. **Pir Panjal**; longest **above 10,000 ft** — UPPCS 2025 Q44.
+10. **Kashmir Valley = Kangra + Dhauladhar** — FALSE. **Pir Panjal + Himadri**.
+11. **Annamalai / Sirumalai are Himalayan** — FALSE. **Tamil Nadu peninsular**.
+12. **Atal Tunnel is the world's longest highway tunnel (unqualified)** — FALSE. **Pir Panjal**; longest **above 10,000 ft**.
 13. **Both Ghats are continuous** — FALSE. **Western = continuous; Eastern = discontinuous**.
 14. **Lakshadweep is volcanic like Andaman** — FALSE. Lakshadweep = **coral**; A&N = **volcanic**.
 15. **Vindhya lies south of Narmada** — FALSE. **Vindhya = north; Satpura = south**.

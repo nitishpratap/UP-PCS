@@ -208,7 +208,7 @@ A. 3 2 4 1 | B. 3 2 1 4 | C. 2 3 4 1 | D. 2 3 1 4
 **Vaisakhi 1699** | **Anandpur Sahib** | **Guru Gobind Singh**
 
 - The Khalsa is the **initiated** Sikh brotherhood, not a Mughal land category.
-- **Mughal Khalsa** means **crown land**. That is the **2025 Q95** word, not this Panth.
+- **Mughal Khalsa** means **crown land** — not the Sikh **Khalsa** of 1699.
 - The first five initiates are the **Panj Pyare**.
 - **Bhai Daya Singh** is one of the Panj Pyare.
 - **Bhai Dharam Singh** is one of the Panj Pyare.
@@ -266,7 +266,7 @@ A. 3 2 4 1 | B. 3 2 1 4 | C. 2 3 4 1 | D. 2 3 1 4
 - **Hem Kund Sahib** in **Chamoli, Uttarakhand**, is a major Sikh pilgrimage gurudwara linked to Gobind Singh tradition.
 - Later Sikh polity (Misls, **Ranjit Singh**) is modern-history continuity, not an 11th Guru.
 
-> ** note:** Last **human** Guru = **Gobind Singh**. Eternal Guru = **Guru Granth Sahib**.
+> **Logic:** Last **human** Guru = **Gobind Singh**. Eternal Guru = **Guru Granth Sahib**.
 
 ---
 
@@ -772,7 +772,9 @@ D. Guru Nanak Dev
 
 <details><summary>Show answer</summary>
 
-**Ans: DWhy:** 2025 Q12 full code C (2-3-4-1).
+**Logic:** Guru–disciple pairs: Kabir–Ramananda, Khusrau–Nizamuddin, Surdas–Vallabhacharya, Mardana–Nanak (disciple).
+
+**Ans: D.** Full match code applies the same pairs.
 
 </details>
 
@@ -788,7 +790,9 @@ D. 4-3-2-1
 
 <details><summary>Show answer</summary>
 
-**Ans: COrder:** 2025 Q74.
+**Logic:** Chronological order is **Namdev → Kabir → Nanak → Chaitanya**.
+
+**Ans: C.** Namdev → Kabir → Nanak → Chaitanya.
 
 **Trap:** Check dates before matching option codes.
 
@@ -1150,7 +1154,7 @@ D. Neither
 
 **Ans: B (Only 2)Key:** Statement **1** is false — **Mardana** was Nanak's **disciple**, not guru. Statement **2** is true — he played the **rabab**.
 
-**Trap:2025 Q12** — Mardana → Nanak, not reverse.
+**Trap:** **Mardana → Nanak** means Mardana was Nanak's **disciple** — never reverse the guru–disciple direction.
 
 </details>
 
@@ -1453,7 +1457,7 @@ D. Tegh Bahadur 1606 → Arjan 1675
 1. **Kabir** did not found Sikhism. **Guru Nanak** founded the line.
 2. **Mardana** was not Nanak’s guru. He was Nanak’s disciple.
 3. **Guru Nanak** did not create the Khalsa. **Guru Gobind Singh** created it in **1699**.
-4. **Sikh Khalsa** of 1699 is not **Mughal Khalsa** land. The 2025 Q95 stem uses the revenue term, not initiation.
+4. **Sikh Khalsa** of 1699 is not **Mughal Khalsa** crown land — keep the Panth and revenue terms separate.
 5. **Guru Arjan** was not executed under Aurangzeb. **Jahangir** ordered his execution in **1606**.
 6. **Guru Tegh Bahadur** was not martyred in **1606**. **Aurangzeb** had him executed in **1675**.
 7. **Guru Gobind Singh** did not compile the Adi Granth. **Guru Arjan** compiled it in **1604**.

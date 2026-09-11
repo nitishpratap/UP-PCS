@@ -87,8 +87,6 @@ Wildlife Conservation | Wildlife Protection | Project Tiger | Project Elephant |
 - **Operation Olivia** is an **Indian Coast Guard** initiative to protect **Olive Ridley turtles** along the **Odisha coast**.
 - Olive Ridley **nesting season** runs from **November to February**, when mass **arribada** occurs at Gahirmatha and Rushikulya.
 
-> ** note:** UPPCS 2025 Q62 — World Wildlife Day is **3 March**, not 22 March.
-
 **PYQ — UPPCS Prelims 2025, Q62**
 
 Which pairs is/are NOT correctly matched? (Day) — (Date): 1. Ozone Day — 16 Sept 2. WED — 5 June 3. World Wildlife Day — 22 March
@@ -327,14 +325,14 @@ D. Diclofenac
 
 Which of the following pairs is/are **NOT** correctly matched? (Day — Date)
 
-1. Ozone Day — 16 September  
-2. World Environment Day — 5 June  
-3. World Wildlife Day — 22 March  
+1. Ozone Day — 16 September 
+2. World Environment Day — 5 June 
+3. World Wildlife Day — 22 March 
 
-A. 1 and 2 only  
-B. 3 only  
-C. 2 and 3 only  
-D. 1 only  
+A. 1 and 2 only 
+B. 3 only 
+C. 2 and 3 only 
+D. 1 only 
 
 <details>
 <summary>Show answer</summary>
@@ -353,13 +351,13 @@ D. 1 only
 
 With reference to **Operation Olivia**, which of the following statements is/are correct?
 
-1. It is an Indian Coast Guard initiative to protect Olive Ridley turtles along the Odisha coast.  
-2. It is carried out mainly in August during the nesting season.  
+1. It is an Indian Coast Guard initiative to protect Olive Ridley turtles along the Odisha coast. 
+2. It is carried out mainly in August during the nesting season. 
 
-A. 2 only  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
-D. 1 only  
+A. 2 only 
+B. Neither 1 nor 2 
+C. Both 1 and 2 
+D. 1 only 
 
 <details>
 <summary>Show answer</summary>
@@ -378,10 +376,10 @@ D. 1 only
 
 **Project Tiger** was launched in India in the year—
 
-A. 1972  
-B. 1973  
-C. 1992  
-D. 2006  
+A. 1972 
+B. 1973 
+C. 1992 
+D. 2006 
 
 <details>
 <summary>Show answer</summary>
@@ -400,10 +398,10 @@ D. 2006
 
 Which painkiller given to cattle is responsible for the near extinction of vultures in India?
 
-A. Ibuprofen  
-B. Acetaminophen  
-C. Aspirin  
-D. Diclofenac  
+A. Ibuprofen 
+B. Acetaminophen 
+C. Aspirin 
+D. Diclofenac 
 
 <details>
 <summary>Show answer</summary>
@@ -422,15 +420,15 @@ D. Diclofenac
 
 Arrange the following events in chronological order of their commencement:
 
-I. Wild Life (Protection) Act  
-II. Biological Diversity Act  
-III. Project Tiger  
-IV. Project Elephant  
+I. Wild Life (Protection) Act 
+II. Biological Diversity Act 
+III. Project Tiger 
+IV. Project Elephant 
 
-A. I, II, III, IV  
-B. I, III, IV, II  
-C. II, III, IV, I  
-D. II, III, I, IV  
+A. I, II, III, IV 
+B. I, III, IV, II 
+C. II, III, IV, I 
+D. II, III, I, IV 
 
 <details>
 <summary>Show answer</summary>
@@ -451,10 +449,10 @@ D. II, III, I, IV
 
 **Reason (R):** Restoring the cheetah population is considered to be a priority for India.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A).  
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A).  
-C. (A) is true but (R) is false.  
-D. (A) is false but (R) is true.  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A). 
+B. Both (A) and (R) are true but (R) is not the correct explanation of (A). 
+C. (A) is true but (R) is false. 
+D. (A) is false but (R) is true. 
 
 <details>
 <summary>Show answer</summary>
@@ -473,10 +471,10 @@ D. (A) is false but (R) is true.
 
 The Union Ministry of Environment, Forest and Climate Change has announced **'Dolphin Day'**, which will be celebrated on—
 
-A. April 15  
-B. October 5  
-C. July 15  
-D. October 28  
+A. April 15 
+B. October 5 
+C. July 15 
+D. October 28 
 
 <details>
 <summary>Show answer</summary>
@@ -546,8 +544,8 @@ D. Bhitarkanika only
 
 </details>
 
-**Q34.** Kharai camel — which statements are correct?  
-1. Can swim in seawater  2. Grazes mangroves  3. Cannot be domesticated
+**Q34.** Kharai camel — which statements are correct? 
+1. Can swim in seawater 2. Grazes mangroves 3. Cannot be domesticated
 
 A. 1 and 2 only
 

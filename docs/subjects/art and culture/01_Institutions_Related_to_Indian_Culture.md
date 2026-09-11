@@ -20,7 +20,7 @@ Indological Studies | Gurukul System | Ancient Indian Education System | Nalanda
 
 | Year | Fact | Why asked | Source |
 |------|------|-----------|--------|
-| **June 2025** | Sahitya Akademi Yuva Puraskar in **23** languages; **no Dogri** | UPPCS 2025 Q20 | Sahitya Akademi press note / PIB |
+| **June 2025** | Sahitya Akademi Yuva Puraskar in **23** languages; **no Dogri** | | Sahitya Akademi press note / PIB |
 | **Budget 2025–26** | **Gyan Bharatam Mission** — NMM restructured (Central Sector, ~2024–31) for manuscript survey/digitisation | Scheme-name trap vs old NMM 2003 | PIB / Mo Culture |
 | **June 2024** | New **Nalanda University** campus inaugurated at **Rajgir**; university under **MEA** | Not ASI ruins; not Mo Culture | PMO / MEA |
 | **May 2025** | **Sachin Chaturvedi** assumed charge as VC, Nalanda University | Appointment CA | University / press |
@@ -81,7 +81,7 @@ Indological Studies | Gurukul System | Ancient Indian Education System | Nalanda
 | Person / body | Key fact |
 |---------------|-----------|
 | **Sir William Jones** | Founder-President; Sanskrit–Latin–Greek cognates; translated **Abhijnanashakuntalam** |
-| **Warren Hastings** | GG when Society founded; **declined Presidentship** in favour of Jones; encouraged Sanskrit/Persian/Arabic (UPPCS 2019 A/R) |
+| **Warren Hastings** | GG when Society founded; **declined Presidentship** in favour of Jones; encouraged Sanskrit/Persian/Arabic |
 | **Jonathan Duncan** | **Benares Sanskrit College, 1791** — NOT Asiatic Society (2021 trap option) |
 | **Charles Wilkins** | Bhagavad Gita English **1785** |
 | **H.T. Colebrooke / H.H. Wilson** | Hindu law–astronomy; Rigveda / Vishnu Purana |

@@ -500,7 +500,7 @@ Expenditure **ceilings** themselves are ECI/RPA notifications (revised from time
 3. **VVPAT** — Sept 2013 (Noksen)
 4. **NOTA** — SC Sept 2013; on ballots from the **Nov 2013** Assemblies
 
-Order = **EVM → EPIC → VVPAT → NOTA** (2025 Q124, option **2, 1, 3, 4**).
+Order = **EVM → EPIC → VVPAT → NOTA**.
 
 - **Tarkunde (1975):** Citizens’ commission; lower voting age idea (later **61st**).
 - **Dinesh Goswami (1990):** ECI strength, MCC, booth capturing, time-bound petitions.

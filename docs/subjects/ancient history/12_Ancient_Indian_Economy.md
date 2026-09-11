@@ -1098,10 +1098,10 @@ D. (A) is false, but (R) is true
 
 **Q38.** Which one of the following pairs is **not** correctly matched?
 
-A. 2018 Q89 — Manigrama
-B. 2022 Q23 — Both B
-C. 2024 Q2 — Only 1
-D. 2022 Q68 — C
+A. Manigrama
+B. Both B
+C. Only 1
+D. C
 
 <details>
 <summary>Show answer</summary>
@@ -1206,4 +1206,4 @@ D. (A) is false, but (R) is true
 16. **Entrepot = any jetty** → warehouse / redistributor.
 17. **Dakshinapatha = only sea** → inland north–Deccan road.
 18. **Yavana = only a Greek king** → Sangam foreign / western trader.
-19. **2024 Q2 = Only 1** → **Both A**.
+19. **Only the first statement true** → check whether **both** statements hold before locking “Only 1”.

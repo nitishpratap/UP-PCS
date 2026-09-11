@@ -174,8 +174,6 @@ D. Only 1
 - The **Kigali Amendment (2016)** phases down **HFCs**, which do not deplete ozone but have **high global warming potential**.
 - **Montreal controls ozone**. **Kyoto controls climate**. Do not swap them.
 
-> ** note:** UPPCS 2024 Q35 — climate mitigation treaty = **Kyoto**, not Montreal.
-
 **PYQ — UPPCS Prelims 2024, Q35**
 
 Which agreement relates to climate change mitigation?
@@ -209,13 +207,13 @@ D. CITES
 
 Consider the following statements about the **ozone layer**:
 
-1. The ozone layer protects Earth from harmful **ultraviolet radiation**.  
-2. Ozone depletion has been linked to **chlorofluorocarbons (CFCs)**.  
+1. The ozone layer protects Earth from harmful **ultraviolet radiation**. 
+2. Ozone depletion has been linked to **chlorofluorocarbons (CFCs)**. 
 
-A. 2 only  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
-D. 1 only  
+A. 2 only 
+B. Neither 1 nor 2 
+C. Both 1 and 2 
+D. 1 only 
 
 <details>
 <summary>Show answer</summary>
@@ -234,14 +232,14 @@ D. 1 only
 
 Which of the following pairs is/are **NOT** correctly matched? (Day — Date)
 
-1. Ozone Day — 16 September  
-2. World Environment Day — 5 June  
-3. World Wildlife Day — 22 March  
+1. Ozone Day — 16 September 
+2. World Environment Day — 5 June 
+3. World Wildlife Day — 22 March 
 
-A. 1 and 2 only  
-B. 3 only  
-C. 2 and 3 only  
-D. 1 only  
+A. 1 and 2 only 
+B. 3 only 
+C. 2 and 3 only 
+D. 1 only 
 
 <details>
 <summary>Show answer</summary>
@@ -260,10 +258,10 @@ D. 1 only
 
 Which international agreement relates to **climate change mitigation**?
 
-A. Montreal Protocol  
-B. Ramsar Convention  
-C. Kyoto Protocol  
-D. CITES  
+A. Montreal Protocol 
+B. Ramsar Convention 
+C. Kyoto Protocol 
+D. CITES 
 
 <details>
 <summary>Show answer</summary>
@@ -282,10 +280,10 @@ D. CITES
 
 The **ozone layer**, which absorbs ultraviolet radiation, exists in which layer of the atmosphere?
 
-A. Troposphere  
-B. Mesosphere  
-C. Stratosphere  
-D. Thermosphere  
+A. Troposphere 
+B. Mesosphere 
+C. Stratosphere 
+D. Thermosphere 
 
 <details>
 <summary>Show answer</summary>
@@ -304,10 +302,10 @@ D. Thermosphere
 
 **International Ozone Day** is observed every year on—
 
-A. 5 June  
-B. 16 September  
-C. 22 March  
-D. 2 February  
+A. 5 June 
+B. 16 September 
+C. 22 March 
+D. 2 February 
 
 <details>
 <summary>Show answer</summary>
@@ -326,10 +324,10 @@ D. 2 February
 
 **World Ozone Day** is celebrated on—
 
-A. 3 March  
-B. 5 June  
-C. 16 September  
-D. 22 April  
+A. 3 March 
+B. 5 June 
+C. 16 September 
+D. 22 April 
 
 <details>
 <summary>Show answer</summary>
@@ -348,10 +346,10 @@ D. 22 April
 
 Maximum concentration of **atmospheric ozone** is found in the—
 
-A. Troposphere  
-B. Stratosphere  
-C. Mesosphere  
-D. Ionosphere  
+A. Troposphere 
+B. Stratosphere 
+C. Mesosphere 
+D. Ionosphere 
 
 <details>
 <summary>Show answer</summary>
@@ -370,10 +368,10 @@ D. Ionosphere
 
 The **Montreal Protocol** primarily controls—
 
-A. Transboundary hazardous waste trade  
-B. Phase-out of **ozone-depleting substances (ODS)**  
-C. Wetland encroachment in Ramsar sites  
-D. Carbon credit trading under Kyoto  
+A. Transboundary hazardous waste trade 
+B. Phase-out of **ozone-depleting substances (ODS)** 
+C. Wetland encroachment in Ramsar sites 
+D. Carbon credit trading under Kyoto 
 
 <details>
 <summary>Show answer</summary>

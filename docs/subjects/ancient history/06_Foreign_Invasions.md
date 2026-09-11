@@ -606,13 +606,13 @@ A. Nagarjun B. Nagbhatt C. Nagasena D. Kumaril Bhatt
 
 **Q3. UPPCS Pre 1998**
 
-Assertion (A): After campaigning for nearly two years, Alexander left India in 325 BCE.  
+Assertion (A): After campaigning for nearly two years, Alexander left India in 325 BCE. 
 Reason (R): He was defeated by Chandragupta Maurya.
 
-A. Both true and R explains A  
-B. Both true but R does not explain A  
-C. A true, R false  
-D. A false, R true  
+A. Both true and R explains A 
+B. Both true but R does not explain A 
+C. A true, R false 
+D. A false, R true 
 
 **A/R logic:** A tests return date (~325); R tests a false defeat story.
 
@@ -629,7 +629,7 @@ D. A false, R true
 
 The women of which Indian republic or kingdom had taken up arms against Alexander after a large number of its soldiers had been killed?
 
-A. Abhisara B. Glausai C. Katha D. Massaga  
+A. Abhisara B. Glausai C. Katha D. Massaga 
 
 **Logic:** Massaga / Assakenoi.
 
@@ -646,12 +646,12 @@ A. Abhisara B. Glausai C. Katha D. Massaga
 
 Alexander’s success in India was due to:
 
-1. No central power  
-2. Superior army  
-3. Traitorous Indian rulers  
-4. Good administrator  
+1. No central power 
+2. Superior army 
+3. Traitorous Indian rulers 
+4. Good administrator 
 
-A. 1 and 2 B. 1, 2 and 3 C. 2, 3 and 4 D. All  
+A. 1 and 2 B. 1, 2 and 3 C. 2, 3 and 4 D. All 
 
 **Logic:** Drop statement 4.
 
@@ -668,7 +668,7 @@ A. 1 and 2 B. 1, 2 and 3 C. 2, 3 and 4 D. All
 
 Name the brave Indian King whom Alexander defeated on the bank of river Jhelum.
 
-A. Ambhi B. Porus C. Chandragupta Maurya D. Mahapadma Nanda  
+A. Ambhi B. Porus C. Chandragupta Maurya D. Mahapadma Nanda 
 
 **Logic:** Hydaspes = Porus; Ambhi was ally.
 
@@ -685,7 +685,7 @@ A. Ambhi B. Porus C. Chandragupta Maurya D. Mahapadma Nanda
 
 Who one of the following had not come to India with Alexander?
 
-A. Nearchus B. Onesicritus C. Deimachus D. Aristobulus  
+A. Nearchus B. Onesicritus C. Deimachus D. Aristobulus 
 
 **Logic:** Deimachus → Bindusara.
 
@@ -700,7 +700,7 @@ A. Nearchus B. Onesicritus C. Deimachus D. Aristobulus
 
 **Q8.** Which dynasty was ruling over North India at the time of Alexander’s invasion?
 
-A. Nanda B. Maurya C. Sunga D. Kanva  
+A. Nanda B. Maurya C. Sunga D. Kanva 
 
 **Logic:** Dhana Nanda contemporary; Mauryas come after.
 
@@ -1603,7 +1603,7 @@ D. (A) is false, but (R) is true
 
 **Q51.** The women of which Indian republic or kingdom had taken up arms against Alexander after many soldiers were killed?
 
-A. Abhisara B. Glausai C. Katha D. Massaga  
+A. Abhisara B. Glausai C. Katha D. Massaga 
 
 **Logic:** Assakenoi capital Massaga; women fighters after male losses.
 
@@ -1618,7 +1618,7 @@ A. Abhisara B. Glausai C. Katha D. Massaga
 
 **Q52.** Who among the following had **not** come to India with Alexander?
 
-A. Nearchus B. Onesicritus C. Deimachus D. Aristobulus  
+A. Nearchus B. Onesicritus C. Deimachus D. Aristobulus 
 
 **Logic:** Deimachus = later envoy to Bindusara, not a companion of 326.
 
@@ -1633,12 +1633,12 @@ A. Nearchus B. Onesicritus C. Deimachus D. Aristobulus
 
 **Q53.** Alexander’s success in India is correctly linked with which of the following?
 
-1. There was no central power in India at that time  
-2. He had a superior army  
-3. He was helped by traitorous Indian rulers  
-4. He was a good administrator  
+1. There was no central power in India at that time 
+2. He had a superior army 
+3. He was helped by traitorous Indian rulers 
+4. He was a good administrator 
 
-A. 1 and 2 only B. 1, 2 and 3 C. 2, 3 and 4 D. All the above  
+A. 1 and 2 only B. 1, 2 and 3 C. 2, 3 and 4 D. All the above 
 
 **Logic:** Standard three causes; administrator is not a victory cause in this stem.
 
@@ -1762,7 +1762,7 @@ D. Only Mauryan polished sandstone pillars of Ashoka
 8. **Kushans before Sakas** (2023 B) → **Greeks → Sakas → Kushans**.
 9. **Nagarjuna wrote Milinda Panha** → **Nagasena**.
 10. **Menander = Alexander’s general** → 2nd c. BCE Indo-Greek.
-11. **Besnagar 2018 = Heliodorus ashwamedha** → 2018 answer is **Ayodhya** (Pushyamitra).
+11. **Besnagar pillar = Pushyamitra’s ashwamedha site** → Besnagar is **Heliodorus**; Pushyamitra’s ashwamedha tradition is tied to **Ayodhya** in that stem.
 12. **Kanishka = Indo-Greek** → **Kushan** (Purushapura, era 78 CE).
 13. **Alexander died at Taxila in 326** → **Babylon, 323**.
 14. **First foreigners in the NW = Alexander** → **Achaemenids** (Darius).

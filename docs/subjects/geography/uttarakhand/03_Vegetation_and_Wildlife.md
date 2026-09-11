@@ -357,10 +357,10 @@ D. Vembanad — Karnataka
 
 **Q1.** Lisa, a major forest product of Uttarakhand, is obtained from:
 
-A. Burans  
-B. Pine  
-C. Sal  
-D. Teak  
+A. Burans 
+B. Pine 
+C. Sal 
+D. Teak 
 
 <details>
 <summary>Show answer</summary>
@@ -373,10 +373,10 @@ D. Teak
 
 **Q2.** Bugyals in Uttarakhand are best described as:
 
-A. Tarai sugarcane estates  
-B. Alpine meadows above the tree-line  
-C. Only mangrove swamps  
-D. Only silica sand quarries  
+A. Tarai sugarcane estates 
+B. Alpine meadows above the tree-line 
+C. Only mangrove swamps 
+D. Only silica sand quarries 
 
 <details>
 <summary>Show answer</summary>

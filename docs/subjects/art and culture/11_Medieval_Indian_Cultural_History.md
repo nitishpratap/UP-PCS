@@ -104,7 +104,7 @@ No 2025–26 scheme rewrites mansab or Din-i-Ilahi (verified August 2026).
 - The Tughlaq look uses batter (slope), rubble and an austere style.
 - **Sharqi Jaunpur (UP)** is known for **Atala Masjid**. It has a big screen-facade and weak minaret emphasis. It is not a Delhi clone.
 - **Lal Darwaza Masjid** is at Jaunpur. It is the correct UP pair.
-- **Adina Masjid** is at **Pandua / Bengal**, not Mandu. It is the UPPCS **2018** unmatched pair.
+- **Adina Masjid** is at **Pandua / Bengal**, not Mandu — the classic unmatched pair in match lists.
 - **Humayun’s Tomb** stands in **Delhi**. It has a charbagh and a double dome. Haji Begum is associated with it.
 - **Fatehpur Sikri** was Akbar’s capital (about **1571–1585**). It was abandoned (water).
 - **Buland Darwaza** is at Fatehpur Sikri. It commemorates the **Gujarat victory (1573)**. It does **not** mark Jahangir’s birth (**1569**).
@@ -120,7 +120,7 @@ No 2025–26 scheme rewrites mansab or Din-i-Ilahi (verified August 2026).
 - **Jahangir**’s tomb city is **Lahore**.
 - **Shah Jahan**’s tomb city is **Agra**.
 
-> ** note:** UPPCS **2025 Q49** — Buland Darwaza = Gujarat, not Jahangir. **2025 Q57** code **4 3 2 1**.
+> **Logic:** **Buland Darwaza** marks Akbar's **Gujarat** victory, not Jahangir's birth. Mughal tomb cities run Babur–Kabul, Humayun–Delhi, Jahangir–Lahore, Shah Jahan–Agra.
 
 **PYQ — UPPCS Prelims 2025, Q49**
 
@@ -229,7 +229,7 @@ D. Tin Darwaza – Ahmedabad
 - **Kavindra Acharya Saraswati** of Banaras had **Shah Jahan** as patron.
 - Many Sanskrit **music** treatises were rendered into Persian. Chishti *sama* is a separate fact. It does **not** explain the translation drive.
 
-> ** note:2025 Q3** — memoir Turki, court Persian. *Tughlaqnama* ≠ Ibn Battuta.
+> **Logic:** Mughal memoirs were in **Turki**; court record ran in **Persian**. *Tughlaqnama* is not Ibn Battuta's work.
 
 **PYQ — UPPCS Prelims 2025, Q3**
 
@@ -385,7 +385,7 @@ D. (A) is false, but (R) is true
 - Alauddin Khalji used market control, dagh (branding) and huliya (descriptive roll) of cavalry.
 - Sher Shah is known for roads, dak, the silver **rupiya** and copper **dam**. Akbar keeps the dam idea.
 
-> ** note:2025 Q95** — Jagirs are **not** direct state land. **2019 Q15** — option C is the iqta trap.
+> **Logic:** **Jagirs** are assignable revenue rights, **not** direct crown land. Do not confuse **iqta** with jagir or zamindari.
 
 **PYQ — UPPCS Prelims 2025, Q95**
 

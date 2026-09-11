@@ -233,7 +233,7 @@ No new school-vs-stone CA (verified August 2026).
 **Region:** Krishna–Godavari, Andhra | **Stone:** white / greenish **limestone** | **Age:** Satavahana–Ikshvaku
 
 - Panels are narrative **stupa** casing slabs. Scenes are crowded and moving. The human Buddha appears in action.
-- A platform with **Aryaka-pillars** is the fact. UPPCS **2022 Q80**.
+- A platform with **Aryaka-pillars** is the fact..
 - **Nagarjunakonda** and Ghantasala are related Andhra sites. The named Aryaka-pillar answer is still **Amaravati**.
 - Bodies are flowing. They are not Gandhara’s toga-Buddha.
 - The first identity is not Mathura’s free-standing red-sandstone icon.

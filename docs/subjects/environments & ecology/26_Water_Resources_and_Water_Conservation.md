@@ -262,7 +262,7 @@ Options: A. Make water pollution-free B. Irrigation only C. Build new dams D. No
 - In **February 2013**, CCEA approved merger of NLCP and the **National Wetlands Conservation Programme** into the **National Plan for Conservation of Aquatic Ecosystems (NPCA)**.
 - Classic NLCP teaching lakes: **Bhoj (MP)**, **Sukhna (Chandigarh)**, **Pichola (Udaipur)**, **Bhimtal / Nainital set (Uttarakhand)**, Powai, Pushkar, Ooty, Ramgarh Tal (Gorakhpur), Mansi Ganga (Mathura), Lakshmi Tal (Jhansi). **Chilika (Odisha) is not under NLCP**.
 - **UP Ramsar sites** include Sarsai Nawar, Samaspur, Nawabganj, Upper Ganga, Bakhira, Haiderpur.
-- **NOT in UP: Rudrasagar Lake (Tripura)** and **Sultanpur NP (Haryana)** — 2025 Q58 trap.
+- **NOT in UP: Rudrasagar Lake (Tripura)** and **Sultanpur NP (Haryana)** — classic state-trap pair.
 
 > **Logic:** Full wetland ecology depth sits in Topic 21 — here fact **conservation schemes + UP geography**. Chilika ≠ NLCP.
 

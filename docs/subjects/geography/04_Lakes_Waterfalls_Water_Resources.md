@@ -191,7 +191,7 @@ Ask: *What kind of water is it, and who is the largest?*
 | Kolleru = lagoon king | Kolleru = **freshwater** delta lake; Chilika is lagoon king |
 | Pulicat = largest lagoon | Pulicat = **second** after Chilika |
 
-> ** note:** 2021 Q74 “largest saline” (no inland) → **Chilika**. “Inland saline” → **Sambhar**. “East-coast lagoon” → **Chilika**.
+> **Logic:** “largest saline” (no inland) → **Chilika**. “Inland saline” → **Sambhar**. “East-coast lagoon” → **Chilika**.
 
 ### 2. Origin kings (second question type)
 
@@ -311,7 +311,7 @@ Ask: *How was the hollow made?*
 - Rajasthan’s **Pichola** and **Fateh Sagar** are tourism lakes. They are not Sambhar.
 - **Kabartal (Kanwar Lake)** in Begusarai is Asia’s large freshwater oxbow and Bihar’s only Ramsar site. **Telhar Kund** waterfall is in **Kaimur** district, Bihar (Rohtas Plateau belt).
 
-> ** note:** Keibul Lamjao National Park sits on **Loktak**, not Wular, Dal, or Kolleru (UPPCS 2022, Q73).
+> **Logic:** Keibul Lamjao National Park sits on **Loktak**, not Wular, Dal, or Kolleru.
 
 ### Ramsar Convention (short fact)
 
@@ -320,7 +320,7 @@ Ask: *How was the hollow made?*
 
 ### Lake–state match bank
 
-UPPCS 2020 Q56 asked only four names. Next year can pick **any** high-yield pair. Learn the bank; the 2020 set is marked.
+Next year can pick **any** high-yield pair. Learn the bank; the 2020 set is marked.
 
 *Row order in a match table is **not** the answer code.*
 
@@ -361,11 +361,10 @@ UPPCS 2020 Q56 asked only four names. Next year can pick **any** high-yield pair
 | Sukhna | **Chandigarh** | Man-made |
 | Phulhar / Gomat Taal | **Uttar Pradesh** (Pilibhit) | Gomti source |
 
-**2020 Q56 match order:** Sala–AP · Badkhal–HR · Loktak–MN · Kaliveli–TN → code **1 2 3 4**.
 
 ### World lake–country match bank
 
-UPPCS 2023 Q66 asked four pairs; the unmatched pair was **Onega ≠ Canada**. Later papers can swap in Ladoga, Victoria, Titicaca, and similar names — learn the bank.
+Later papers can swap in Ladoga, Victoria, Titicaca, and similar names — learn the bank.
 
 | Lake | Country | tag / trap |
 |------|---------|-----------------|
@@ -469,7 +468,7 @@ D. Wular
 
 | Superlative | Fact | Trap |
 |-------------|------|------|
-| Highest (UPPCS 2018 / older database) | **Kunchikal** (Varahi, Karnataka; older figure ~455 m) | Jog |
+| Highest | **Kunchikal** (Varahi, Karnataka; older figure ~455 m) | Jog |
 | Tallest **plunge** (newer World Waterfalls Database) | **Nohkalikai** (Meghalaya, ~340 m) | Using Nohkalikai to beat every Kunchikal height question |
 | Largest by **width** | **Jog / Gersoppa** (Sharavati, Karnataka) | Calling Jog highest |
 | Largest by **volume** | **Shivanasamudra** (Cauvery, Karnataka) | Putting volume crown on Jog |
@@ -520,9 +519,8 @@ D. Wular
 - **Chitrakote** on the **Indravati** (Bastar) is the “Niagara of India.”
 - Rewa district tourism still places **Chachai** on the **Bihad / Beehar**, a Tamsa tributary. The **2021 official answer** treated **Chachai–Bihad** as the unmatched pair.
 
-**2022 Q85 code:** Dudhsagar–Goa, Barkana–KA, Khandadhar–OD, Palani–HP → **4 1 2 3**.
 
-**Match fodder (UPPCS 2017 style):** Dudhsagar–Mandovi · Duduma–Machhkund · Gokak–Ghataprabha · Jog–Sharavati.
+**Match fodder:** Dudhsagar–Mandovi · Duduma–Machhkund · Gokak–Ghataprabha · Jog–Sharavati.
 
 **PYQ — UPPCS Prelims 2018, Q24**
 
@@ -568,7 +566,7 @@ D. Kevti fall
 | **Tulbul** | **Jhelum** at **Wular** | J&K | Navigation/storage; IWT sensitivity; ≠ Baglihar (Chenab) |
 | **Ramganga** (Kalagarh) | Ramganga | **Garhwal (UK)**; command in UP | Length **825.8 m**; power **198 MW**; irrig **~5.75–5.90 lakh ha ≠ 6** |
 
-> **Note:** Ramganga peculiarities — length 825.8 m, 198 MW, Garhwal are correct. **Irrigated area – 6 lakh hectares** is the wrong pair (UPPCS 2024, Q72).
+> **Note:** Ramganga peculiarities — length 825.8 m, 198 MW, Garhwal are correct. **Irrigated area – 6 lakh hectares** is the wrong pair.
 
 ### Multipurpose valley cards (Ghatnachakra)
 

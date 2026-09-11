@@ -338,7 +338,7 @@ D. 3 2 4 1
 - **Nominal executive:** President (**Arts. 53, 74**).
 - **Real executive:** Council of Ministers headed by the **Prime Minister** (**Arts. 74, 75**).
 - The executive is **responsible to the legislature** — especially the **Lok Sabha** (**Art. 75(3)** collective responsibility).
-- This **responsibility of executive to legislature** is the defining test of a parliamentary system (UPPCS 2025 A/R fact).
+- This **responsibility of executive to legislature** is the defining test of a parliamentary system.
 
 ### Features of parliamentary government in India (teaching facts)
 

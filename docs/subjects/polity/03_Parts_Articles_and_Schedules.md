@@ -1511,8 +1511,8 @@ D. Part XIV
 **Q11. UPPCS (Mains) 2009**
 
 Match Parts:
-A. Part IX  B. Part VIII  C. Part IVA  D. Part IXA
-1. UTs  2. Municipalities  3. Panchayats  4. Fundamental Duties
+A. Part IX B. Part VIII C. Part IVA D. Part IXA
+1. UTs 2. Municipalities 3. Panchayats 4. Fundamental Duties
 
 *Row order is not the answer code.*
 
@@ -1607,8 +1607,8 @@ D. Part - 9
 **Q16. UPPCS (Mains) 2013**
 
 Match:
-A. Fundamental Rights  B. Fundamental Duties  C. The Union  D. Emergency
-1. Part IVA  2. Part III  3. Part XVIII  4. Part V
+A. Fundamental Rights B. Fundamental Duties C. The Union D. Emergency
+1. Part IVA 2. Part III 3. Part XVIII 4. Part V
 
 *Row order is not the answer code.*
 
@@ -1650,7 +1650,7 @@ D. Services - Part XIV
 
 Match Parts XV–XVIII with subjects.
 A. XV B. XVI C. XVII D. XVIII
-1. Emergency  2. Official Language  3. Special provisions certain classes  4. Elections
+1. Emergency 2. Official Language 3. Special provisions certain classes 4. Elections
 
 *Row order is not the answer code.*
 

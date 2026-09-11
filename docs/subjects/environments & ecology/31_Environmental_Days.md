@@ -9,7 +9,7 @@ World Environment Day | World Wetlands Day | Earth Day | International Day for B
 </details>
 
 > **Sources baked in:** UNEP; UN; Ramsar; CITES; CBD; Montreal Protocol; MoEFCC; UPPCS PYQs
-> **Weight:** ★★★ High — date ↔ day matching; March cluster; 2025 Q62 Wildlife trap
+> **Weight:** ★★★ High — date ↔ day matching; March cluster; World Wildlife Day trap
 > **Last verified:** August 2026
 
 ---
@@ -167,7 +167,7 @@ Options: A. 10 January B. 15 January C. 1 February D. 2 February
 - **World Water Day** focuses on freshwater resources, access, and sustainable water management every **22 March**.
 - Designated by the **United Nations** (observed from **1993**); coordinated under **UN-Water** (programme continuity from **2003**).
 - Theme **2024**: *Leveraging Water for Peace* (also phrased as prosperity and peace in some bank notes).
-- Most dangerous trap: confuse with **World Wildlife Day (3 March)** — **2025 Q62** used this exact false pair.
+- Most dangerous trap: confuse with **World Wildlife Day (3 March)** — used this exact false pair.
 - Also ≠ Wetlands Day (**2 February**) and ≠ Earth Day (**22 April**).
 
 > **Logic:** Water = **22 March**. Wildlife = **3 March**. Never swap.
@@ -208,7 +208,7 @@ Options: A. 25 December B. 21 April C. 16 September D. 30 January
 
 </details>
 
-> ** note:** Ozone Day = **16 September** — Montreal Protocol date. Pair is correct in 2025 Q62.
+> **Logic:** Ozone Day = **16 September** — Montreal Protocol date. Do not swap it with World Wildlife Day (**3 March**).
 
 ---
 
@@ -219,8 +219,7 @@ Options: A. 25 December B. 21 April C. 16 September D. 30 January
 - **World Wildlife Day** celebrates wild fauna and flora and fights wildlife crime every **3 March**.
 - Date marks adoption of **CITES** (**Convention on International Trade in Endangered Species**) on **3 March 1973**.
 - UN proclaimed the day in **2013**; observance involves UN and CITES Secretariat.
-- **Highest-yield trap:** listing Wildlife Day as **22 March** (that is Water Day) — wrong pair in **UPPCS 2025 Q62**.
-
+- **Highest-yield trap:** listing Wildlife Day as **22 March** (that is Water Day) — wrong pair in **
 > **Logic:** Wildlife = **3 March only**. Water = **22 March**. Wildlife Week in India = **2–8 October**. **International Tiger Day = 29 July** (St Petersburg Summit **2010**).
 
 ---

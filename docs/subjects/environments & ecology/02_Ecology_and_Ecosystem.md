@@ -312,7 +312,7 @@ D. Dominance of single species becomes minimum if the resource distribution is e
 - **Eutrophication** begins when excess nutrients (often nitrates and phosphates from fertiliser runoff) enter a water body.
 - The nutrient surge triggers rapid **algal blooms** on the surface.
 - When algae die, decomposers multiply and consume **dissolved oxygen** faster than it can be replenished.
-- Fish and other aerobic organisms die from oxygen starvation. UPPCS 2019 Q56 marks **both** nutrient enrichment and oxygen depletion as correct.
+- Fish and other aerobic organisms die from oxygen starvation. marks **both** nutrient enrichment and oxygen depletion as correct.
 
 > ** note:** Eutrophication statement 1 (nutrient enrichment) and statement 2 (DO depletion) are **both true**.
 
@@ -418,7 +418,7 @@ D. Migration – Ecesis – Reaction – Stabilisation
 | **Standing crop** | Biomass present in an ecosystem at a given instant |
 
 - **Productivity** measures how fast an ecosystem produces organic matter. Standard units are **g/m²/yr** or **kcal/m²/yr**.
-- Terrestrial green plants capture only about **1%** of the solar energy that falls on their leaves (NCERT standard; UPPCS 2025 Q5 statement 1).
+- Terrestrial green plants capture only about **1%** of the solar energy that falls on their leaves (NCERT standard; statement 1).
 - Most incoming sunlight is reflected, transmitted through leaves, or used in ways that do not become stored biomass.
 - **GPP** counts all energy fixed by photosynthesis. Plants immediately use part of it in **respiration (R)**.
 - **NPP** is what remains for herbivores and other consumers after plant respiration is subtracted.
@@ -464,7 +464,7 @@ D. Only 1
 
 </details>
 
-> ** note:** Trap — "energy increases up the food chain" is **false**. Trap — rejecting statement 1 because statement 2 exists is **false** (2025 Q5 answer is **Both**).
+> **Logic:** Trap — "energy increases up the food chain" is **false**. Trap — rejecting statement 1 because statement 2 exists is **false**.
 
 ---
 
@@ -1790,7 +1790,7 @@ D. Lake
 | Ecesis before Migration | Full: **Nudation → Migration → Ecesis → Reaction → Stabilisation** |
 | Sere = nutrient cycle | **Sere** = succession community **sequence** |
 | Lichens thrive in polluted air | Lichens are **sensitive** indicators |
-| 1% and 10% cannot both be true | **Both true** in 2025 Q5 — different stages |
+| 1% and 10% cannot both be true | **Both true** in different stages |
 | Energy increases up food chain | Energy **decreases** (~10% transfer) |
 | Coral reefs = most stable ecosystem | Coral reefs = high **diversity**; marine = high **stability** |
 | Primary succession has soil already | Primary = **no soil**; secondary = soil present |

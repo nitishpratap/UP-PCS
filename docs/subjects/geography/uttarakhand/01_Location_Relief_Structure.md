@@ -2,7 +2,7 @@
 
 ### ★ UKPCS state card (Unit 2)
 
-> **High-yield 2025:** MBT–MCT zone (Q101) · physiography south→north (Q110).  
+> **High-yield 2025:** MBT–MCT zone (Q101) · physiography south→north (Q110). 
 > **National twin:** Shiwalik sediments → parent [Mountains & Hills](../01_Indian_Physical_Geography_Mountains_Hills.md) (UKPCS Q84).
 
 ---
@@ -142,10 +142,10 @@
 
 Which part of the Himalaya is situated between the Main Boundary Thrust and the Main Central Thrust?
 
-A. Shiwalik zone  
-B. Lesser Himalayan zone  
-C. Central crystalline zone  
-D. Tethys Himalayan zone  
+A. Shiwalik zone 
+B. Lesser Himalayan zone 
+C. Central crystalline zone 
+D. Tethys Himalayan zone 
 
 <details>
 <summary>Show answer</summary>
@@ -160,10 +160,10 @@ D. Tethys Himalayan zone
 
 What is the correct order of physiographic regions of Uttarakhand from south to north?
 
-A. Lesser Himalaya, Great Himalaya, Tarai, Shiwalik  
-B. Shiwalik, Lesser Himalaya, Great Himalaya, Tarai  
-C. Tarai, Shiwalik, Lesser Himalaya, Great Himalaya  
-D. Great Himalaya, Tarai, Lesser Himalaya, Shiwalik  
+A. Lesser Himalaya, Great Himalaya, Tarai, Shiwalik 
+B. Shiwalik, Lesser Himalaya, Great Himalaya, Tarai 
+C. Tarai, Shiwalik, Lesser Himalaya, Great Himalaya 
+D. Great Himalaya, Tarai, Lesser Himalaya, Shiwalik 
 
 <details>
 <summary>Show answer</summary>
@@ -180,10 +180,10 @@ D. Great Himalaya, Tarai, Lesser Himalaya, Shiwalik
 
 **Q1.** The Shiwalik zone of Uttarakhand lies:
 
-A. Between MBT and MCT  
-B. North of MCT  
-C. South of MBT  
-D. In the Tethys Himalaya  
+A. Between MBT and MCT 
+B. North of MCT 
+C. South of MBT 
+D. In the Tethys Himalaya 
 
 <details>
 <summary>Show answer</summary>
@@ -196,10 +196,10 @@ D. In the Tethys Himalaya
 
 **Q2.** In the foothill sequence of Uttarakhand, streams often sink in the Bhabar and reappear in the:
 
-A. Great Himalaya  
-B. Tarai  
-C. Tethys Himalaya  
-D. Central crystalline zone  
+A. Great Himalaya 
+B. Tarai 
+C. Tethys Himalaya 
+D. Central crystalline zone 
 
 <details>
 <summary>Show answer</summary>

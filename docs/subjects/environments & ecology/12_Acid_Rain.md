@@ -74,8 +74,6 @@ Acid Rain | Causes | Effects | Prevention
 - Acidifying pollutants can travel **hundreds to thousands of km**, causing **transboundary damage**.
 - Soils and lakes with **limestone or calcium carbonate** have **buffering capacity** and resist acidification better than granite or thin acidic soils.
 
-> ** note:** UPPCS 2025 Q103 — both pH statements reversed → **Neither correct**.
-
 **PYQ — UPPCS Prelims 2025, Q103**
 
 1. Acidic solutions have pH more than 7.
@@ -140,8 +138,6 @@ D. A true, R false
 - Natural sources include **volcanic SO₂** and **lightning NOx**, but anthropogenic sources dominate in industrial regions.
 - The **Singrauli–Sonbhadra belt** on the UP–MP border is a major Indian **SO₂ hotspot** from super thermal power plants.
 
-> ** note:** UPPCS 2025 Q43 — only **helium** is lighter than air among the listed gases; **SO₂ is heavier**.
-
 **PYQ — UPPCS Prelims 2025, Q43**
 
 Which gas/gases is/are lighter than air?
@@ -190,7 +186,7 @@ D. Only 1
 - The **Acid Rain Information Centre (ARIC)** is associated with **Manchester, England**.
 - The **1985 Helsinki Protocol** targeted about a **30%** cut in sulphur emissions / transboundary fluxes.
 
-> **Logic:** UPPCS 2025 Q61 — lichens as pollution indicators = true; grow well in polluted areas = **false**.
+> **Logic:** — lichens as pollution indicators = true; grow well in polluted areas = **false**.
 
 **PYQ — UPPCS Prelims 2025, Q61**
 
@@ -256,10 +252,10 @@ D. Only 1
 
 **Reason (R):** Air is polluted due to high concentration of CO₂, SO₂ and oxides of nitrogen.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A).  
-B. (A) is false but (R) is true.  
-C. Both (A) and (R) are true but (R) is **not** the correct explanation of (A).  
-D. (A) is true but (R) is false.  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A). 
+B. (A) is false but (R) is true. 
+C. Both (A) and (R) are true but (R) is **not** the correct explanation of (A). 
+D. (A) is true but (R) is false. 
 
 <details>
 <summary>Show answer</summary>
@@ -278,13 +274,13 @@ D. (A) is true but (R) is false.
 
 Consider the following statements about **pH**:
 
-1. Acidic solutions have pH **more than 7**.  
-2. Basic solutions have pH **less than 7**.  
+1. Acidic solutions have pH **more than 7**. 
+2. Basic solutions have pH **less than 7**. 
 
-A. 2 only  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
-D. 1 only  
+A. 2 only 
+B. Neither 1 nor 2 
+C. Both 1 and 2 
+D. 1 only 
 
 <details>
 <summary>Show answer</summary>
@@ -303,14 +299,14 @@ D. 1 only
 
 Which of the following gas/gases is/are **lighter than air**?
 
-1. Hydrogen chloride  
-2. Sulfur dioxide  
-3. Helium  
+1. Hydrogen chloride 
+2. Sulfur dioxide 
+3. Helium 
 
-A. 1 and 2 only  
-B. 3 only  
-C. 2 and 3 only  
-D. 1 only  
+A. 1 and 2 only 
+B. 3 only 
+C. 2 and 3 only 
+D. 1 only 
 
 <details>
 <summary>Show answer</summary>
@@ -329,13 +325,13 @@ D. 1 only
 
 Consider the following statements about **lichens**:
 
-1. Lichens are very good indicators of air pollution.  
-2. Lichens grow well in polluted areas.  
+1. Lichens are very good indicators of air pollution. 
+2. Lichens grow well in polluted areas. 
 
-A. 2 only  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
-D. 1 only  
+A. 2 only 
+B. Neither 1 nor 2 
+C. Both 1 and 2 
+D. 1 only 
 
 <details>
 <summary>Show answer</summary>
@@ -354,10 +350,10 @@ D. 1 only
 
 Normal unpolluted rain is slightly acidic (pH ≈ **5.6**) primarily because of dissolved—
 
-A. Sulphur dioxide from coal plants  
-B. **Carbon dioxide** forming weak carbonic acid  
-C. Nitrogen oxides from vehicles  
-D. Hydrochloric acid from volcanoes  
+A. Sulphur dioxide from coal plants 
+B. **Carbon dioxide** forming weak carbonic acid 
+C. Nitrogen oxides from vehicles 
+D. Hydrochloric acid from volcanoes 
 
 <details>
 <summary>Show answer</summary>
@@ -376,10 +372,10 @@ D. Hydrochloric acid from volcanoes
 
 **Acid rain** is primarily caused by atmospheric emissions of—
 
-A. CO₂ and methane  
-B. **SO₂ and NOx**  
-C. CFCs and halons  
-D. Ozone and PAN only  
+A. CO₂ and methane 
+B. **SO₂ and NOx** 
+C. CFCs and halons 
+D. Ozone and PAN only 
 
 <details>
 <summary>Show answer</summary>
@@ -398,10 +394,10 @@ D. Ozone and PAN only
 
 **Flue Gas Desulphurisation (FGD)** scrubbers are installed mainly at—
 
-A. Vehicle exhaust pipes  
-B. **Thermal power plant chimneys**  
-C. Municipal landfill vents  
-D. Agricultural field boundaries  
+A. Vehicle exhaust pipes 
+B. **Thermal power plant chimneys** 
+C. Municipal landfill vents 
+D. Agricultural field boundaries 
 
 <details>
 <summary>Show answer</summary>
@@ -420,10 +416,10 @@ D. Agricultural field boundaries
 
 Yellowing and pitting of the **Taj Mahal** marble is primarily attributed to—
 
-A. Carbon dioxide from tourist breathing  
-B. **SO₂ pollution** and acid deposition forming gypsum crust  
-C. Ozone hole ultraviolet alone  
-D. Plastic waste micro-abrasion only  
+A. Carbon dioxide from tourist breathing 
+B. **SO₂ pollution** and acid deposition forming gypsum crust 
+C. Ozone hole ultraviolet alone 
+D. Plastic waste micro-abrasion only 
 
 <details>
 <summary>Show answer</summary>

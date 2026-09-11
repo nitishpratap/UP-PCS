@@ -1248,8 +1248,8 @@ D. (A) is false, but (R) is true
 
 ## Common Traps — Facts
 
-1. **2024 Q20 = Both A** → **Only 2 (D).** Rahulovada is the trap.
-2. **2022 Q87 = Jivitagupta–Deo-Baranark wrong** → wrong pair is **Sarvavarman–Gaya**.
+1. **Both statements always true** → read each stem; Rahulovada-type distractors flip one statement.
+2. **Jivitagupta–Deo-Baranark is the wrong Maukhari pair** → the wrong pair in that match set is **Sarvavarman–Gaya**.
 3. **Bhagadugha = gambling** → **Akshavapa**. Bhagadugha = revenue.
 4. **Agronomai = roads / weights** → **revenue** (2020).
 5. **Hathigumpha = Harsha / Ashoka / Kanishka** → **Kharavela**.

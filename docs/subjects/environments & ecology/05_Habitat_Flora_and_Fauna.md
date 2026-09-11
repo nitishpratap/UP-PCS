@@ -100,8 +100,6 @@ Habitat | Habitat Conservation | Flora and Fauna
 - The **Pygmies** live in the Congo Basin.
 - The **Masai** pastoralists live in **East Africa** in Kenya and Tanzania.
 
-> ** note:** UPPCS 2024 Q62 — land organisms = **terrestrial habitants**, not biotic or abiotic. Trap — mangrove is **transitional**, not purely terrestrial.
-
 **PYQ — UPPCS Prelims 2024, Q62**
 
 Plants and animals that live on land are called:
@@ -175,8 +173,6 @@ D. Only 1
 - **MISHTI** stands for **Mangrove Initiative for Shoreline Habitats and Tangible Income**.
 - MISHTI targets coastal mangrove habitats for shoreline protection and blue carbon restoration.
 - **NUHHP** addresses urban habitat quality through housing and green-space planning in cities.
-
-> ** note:** UPPCS 2025 Q93 — MISHTI was **not** initiated in 2019. It was announced in **Budget 2023–24**. Statement on mangrove restoration is **true**.
 
 **PYQ — UPPCS Prelims 2025, Q93**
 
@@ -676,7 +672,7 @@ D. 3 4 2 1
 
 </details>
 
-**Q14.** Match concept with scientist/region (2024 Q29 pattern):
+**Q14.** Match concept with scientist/region:
 
 List-I: A. World Floral Regions B. Planting Hearth C. Puszta Grassland D. Cryophyte Steppe
 List-II: 1. Hungary 2. Adolf Engler 3. C.O. Sauer 4. Arctic Tundra

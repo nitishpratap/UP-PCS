@@ -201,7 +201,7 @@ Trap: UP LC = 1/3 of 403 = 134. **The cap is 134; the actual House is 100.** Tra
 - **Reservation in the 80:17 Scheduled Caste** seats. **Zero Scheduled Tribe** Lok Sabha seats from UP
 - **How the 31 RS seats are filled:** elected by the **403 MLAs**, proportional representation by single transferable vote, **6-year** term, **1/3** retire every two years. The Governor does **not** nominate anyone to the Rajya Sabha
 
-> ** note:** Both 80 and 31 are true (2023). Not 85 / 34.
+> **Logic:** UP sends **80** Lok Sabha members and **31** Rajya Sabha members — not **85** / **34**.
 
 **PYQ — UPPCS Prelims 2023, Q14**
 

@@ -698,8 +698,8 @@ D. West Coast
 
 </details>
 
-**Q35.** Green hydrogen uses — how many are correct?  
-1. Direct fuel for IC engines  2. Blend with natural gas  3. Fuel-cell vehicles
+**Q35.** Green hydrogen uses — how many are correct? 
+1. Direct fuel for IC engines 2. Blend with natural gas 3. Fuel-cell vehicles
 
 A. Only one
 
@@ -750,7 +750,7 @@ D. It produces only biogas
 
 </details>
 
-**Q38.** Assertion (A): Coal-based thermal plants contribute to acid rain.  
+**Q38.** Assertion (A): Coal-based thermal plants contribute to acid rain. 
 Reason (R): Oxides of carbon are emitted when coal burns.
 
 A. Both true; R explains A

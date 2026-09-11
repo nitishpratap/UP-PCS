@@ -174,7 +174,7 @@ D. Only 1
 - Biotic activity modifies abiotic conditions. Forests increase local rainfall. Overgrazing can trigger desertification.
 - **Dissolved Oxygen (DO)** is a key aquatic abiotic indicator. Fish die in polluted rivers when DO falls too low.
 
-> ** note:** Liebig names **which single factor limits growth**. Shelford names the **survivable range**. Humus is organic, not abiotic (UPPCS 2018 soil question).
+> ** note:** Liebig names **which single factor limits growth**. Shelford names the **survivable range**. Humus is organic, not abiotic.
 
 **PYQ — UPPCS Prelims 2019, Q46**
 
@@ -318,7 +318,7 @@ D. Sugarcane
 
 > ** note:** ESZ = EPA 1986 buffer. "All human activity banned except agriculture" is **false**. CRZ = coastal regulation under the same Act.
 
-> ** note:** Lentic = lake or pond (standing water). Lotic = river or stream (flowing water). UPPCS 2023 Q112 marks **river** as lotic.
+> **Logic:** Lentic = lake or pond (standing water). Lotic = river or stream (flowing water). marks **river** as lotic.
 
 **PYQ — UPPCS Prelims 2023, Q112**
 
@@ -458,8 +458,6 @@ D. Marshy areas
 - **Polluter Pays** and **Precautionary Principle** entered Indian environmental jurisprudence through *Vellore Citizens Welfare Forum* (**1996**).
 - The **Public Trust Doctrine** treats air, water, and forests as held by government in trust for the public.
 - The **Bhopal Gas Tragedy (1984)** triggered the umbrella **Environment (Protection) Act, 1986**.
-
-> ** note:** UPPCS 2025 Q22 — extraction **above** regeneration is **false**. Waste within absorption capacity is **true** → answer **Only 2**.
 
 **PYQ — UPPCS Prelims 2025, Q22**
 

@@ -2,7 +2,7 @@
 
 ### ★ UKPCS state card (Unit 3)
 
-> **High-yield 2025 stems:** state executive (Q139) · first office-holders (Q135) · Speaker / Protem (Q141).  
+> **High-yield 2025 stems:** state executive (Q139) · first office-holders (Q135) · Speaker / Protem (Q141). 
 > **Do not merge into:** parent [UP Special](../25_UP_Special.md).
 
 ---
@@ -78,10 +78,10 @@ Consider the following statements:
 1. The executive of Uttarakhand includes the Governor as the head of the state.
 2. It also includes the Chief Minister and his or her council of ministers.
 
-A. Only 1  
-B. Both 1 and 2  
-C. Only 2  
-D. Neither 1 nor 2  
+A. Only 1 
+B. Both 1 and 2 
+C. Only 2 
+D. Neither 1 nor 2 
 
 <details>
 <summary>Show answer</summary>
@@ -96,15 +96,15 @@ D. Neither 1 nor 2
 
 Which pair is correctly matched?
 
-1. Chairman of First Finance Commission — Nityanand Swami  
-2. First Advocate General — Nanda Ballabh Tiwari  
-3. First Chief Minister — Indu Kumar Pandey  
-4. First Woman Governor — Margaret Alva  
+1. Chairman of First Finance Commission — Nityanand Swami 
+2. First Advocate General — Nanda Ballabh Tiwari 
+3. First Chief Minister — Indu Kumar Pandey 
+4. First Woman Governor — Margaret Alva 
 
-A. Only 1  
-B. Only 3  
-C. Only 4  
-D. Both 1 and 3  
+A. Only 1 
+B. Only 3 
+C. Only 4 
+D. Both 1 and 3 
 
 <details>
 <summary>Show answer</summary>
@@ -119,10 +119,10 @@ D. Both 1 and 3
 
 Who performed the roles of Speaker and Protem Speaker of the State Assembly more than once in Uttarakhand?
 
-A. Harbans Kapoor  
-B. Govind Singh  
-C. Ajay Bhatt  
-D. Prakash Pant  
+A. Harbans Kapoor 
+B. Govind Singh 
+C. Ajay Bhatt 
+D. Prakash Pant 
 
 <details>
 <summary>Show answer</summary>

@@ -10,10 +10,10 @@ Drill file for dual-exam Ancient. Full year banks remain under [UKPCS PYQs](../.
 
 Which Veda is divided into Krishna and Shukla branches?
 
-A. Rig Veda  
-B. Sama Veda  
-C. Yajur Veda  
-D. Atharva Veda  
+A. Rig Veda 
+B. Sama Veda 
+C. Yajur Veda 
+D. Atharva Veda 
 
 <details>
 <summary>Show answer</summary>
@@ -28,10 +28,10 @@ D. Atharva Veda
 
 Which ancient city was named Palibothra in Greek texts?
 
-A. Purushpur  
-B. Patan  
-C. Ahichhatrapur  
-D. Pataliputra  
+A. Purushpur 
+B. Patan 
+C. Ahichhatrapur 
+D. Pataliputra 
 
 <details>
 <summary>Show answer</summary>
@@ -46,13 +46,13 @@ D. Pataliputra
 
 Consider the statements on Ashokan inscriptions:
 
-1. Most inscriptions are in Prakrit language and Brahmi script.  
+1. Most inscriptions are in Prakrit language and Brahmi script. 
 2. Inscriptions at Mansehra and Shahbazgarhi are in Prakrit language and Kharoshthi script.
 
-A. Only 1  
-B. Only 2  
-C. Both 1 and 2  
-D. Neither 1 nor 2  
+A. Only 1 
+B. Only 2 
+C. Both 1 and 2 
+D. Neither 1 nor 2 
 
 <details>
 <summary>Show answer</summary>
@@ -69,10 +69,10 @@ D. Neither 1 nor 2
 
 By which name did Hiuen-Tsang address the Kumaon region?
 
-A. Kartikeyapur  
-B. Brahampur  
-C. Taleshwar  
-D. Pandukeshwar  
+A. Kartikeyapur 
+B. Brahampur 
+C. Taleshwar 
+D. Pandukeshwar 
 
 <details>
 <summary>Show answer</summary>
@@ -87,10 +87,10 @@ D. Pandukeshwar
 
 In the Mahabharata, by what name were the Kuninda kings known?
 
-A. Sarvasrestha  
-B. Madhyam  
-C. Dwij Srestha  
-D. Dwij  
+A. Sarvasrestha 
+B. Madhyam 
+C. Dwij Srestha 
+D. Dwij 
 
 <details>
 <summary>Show answer</summary>

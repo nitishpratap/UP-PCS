@@ -163,7 +163,7 @@ SNA / NSD standing dates are static, not news.
 - **Ashvaghosha** wrote *Sariputraprakarana*. It is often tagged the **first** classical Sanskrit play (Buddhist).
 - **Bhasa** has the earliest large surviving set (~13 plays). The facts are *Svapnavasavadattam* and *Urubhanga*.
 - **Kalidasa** has three dramas only: ***Abhijnanashakuntalam***, ***Vikramorvashiya***, and ***Malavikagnimitram***.
-- Kalidasa poems (not dramas) are *Meghaduta*, *Raghuvamsha*, *Kumarasambhava*, and *Ritusamhara*. **Shringara Shataka is not his** (**Bhartrihari**). This is UPPCS **2025 Q48**.
+- Kalidasa poems (not dramas) are *Meghaduta*, *Raghuvamsha*, *Kumarasambhava*, and *Ritusamhara*. **Shringara Shataka is not his** — it belongs to **Bhartrihari**.
 - **Shudraka** wrote ***Mrichchhakatika*** (Little Clay Cart). It has conflict and an antagonist, with a commoner hero. It is not Kalidasa.
 - **Vishakhadatta** wrote ***Mudrarakshasa***. It is a Chanakya–Chandragupta plot.
 - **Bhavabhuti** wrote ***Uttararamacharita***. He also wrote *Mahaviracharita* and *Malatimadhava*. He is not Kalidasa.
@@ -277,7 +277,7 @@ Syllabus names the first two plus Kathputli (a string school).
 
 **Local `pyq/` 2018–2025:** no UPPCS question whose *primary* topic is theatre, Natyashastra, or puppetry.
 
-**Trap for this chapter:** UPPCS **2025 Q48** — *Shringara Shataka* is **Bhartrihari**, not Kalidasa. Kalidasa’s **three plays** are *Abhijnanashakuntalam*, *Vikramorvashiya*, *Malavikagnimitram*.
+**Trap for this chapter:** — *Shringara Shataka* is **Bhartrihari**, not Kalidasa. Kalidasa’s **three plays** are *Abhijnanashakuntalam*, *Vikramorvashiya*, *Malavikagnimitram*.
 
 **External high-yield (UPSC — not in local pyq/)**
 

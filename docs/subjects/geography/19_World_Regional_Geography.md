@@ -301,7 +301,7 @@ The five “stans” plus Kazakhstan’s size define this desk. The **Caspian** 
 | **Turkmenistan** | **Ashgabat** | **Kara Kum / Karakum** desert (2022) |
 | **Kazakhstan** | **Astana** (Nur-Sultan was the 2019–22 name) | Steppe; **not** Kara Kum |
 
-2019 Q2 listed UZB–TJK–KGZ–TKM against Tashkent–Dushanbe–Bishkek–Ashgabat in that order → code **1 2 3 4**.
+2019 Q2 listed UZB–TJK–KGZ–TKM against Tashkent–Dushanbe–Bishkek–Ashgabat in that order .
 
 **Also on this map:** The Aral Sea (Uzbekistan–Kazakhstan) is shrinking. The Caspian touches Kazakhstan, Turkmenistan, Iran, Azerbaijan and Russia. The Wakhan Corridor is Afghanistan’s finger to China. Xinjiang (China) is **not** a “sixth stan” in the five-stan question.
 

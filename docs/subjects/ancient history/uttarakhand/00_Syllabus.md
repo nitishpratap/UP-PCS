@@ -1,7 +1,7 @@
 # History & Culture of Uttarakhand — Ancient slice (UKPCS)
 
-**Exam track:** UKPCS Unit 1 — History and Culture of Uttarakhand (early heads).  
-**Parent subject:** [Ancient History](../00_Syllabus.md)  
+**Exam track:** UKPCS Unit 1 — History and Culture of Uttarakhand (early heads). 
+**Parent subject:** [Ancient History](../00_Syllabus.md) 
 **Desk:** [UKPCS Syllabus](../../../ukpcs/00_Syllabus.md) · [Ancient PYQ Bank](00_UKPCS_PYQ_Bank_Ancient.md)
 
 ## Heads stored in this folder

@@ -125,8 +125,7 @@ Options: A. 3 1 4 2 B. 3 4 1 2 C. 1 2 3 4 D. 2 3 4 1
 - Major anthropogenic GHGs: **CO₂, CH₄, N₂O**, and fluorinated gases (HFCs, PFCs, SF₆).
 - Emissions are often reported as **CO₂-equivalent (CO₂e)** using **GWP**.
 - India is among the **top absolute emitters** (~**3rd** globally) but has **low per capita** emissions.
-- **UPPCS 2023 Q109** asked India’s GHG emissions rank in 2022 with options from 9th–12th — keyed answer **10th** (performance-index framing trap vs absolute ~3rd).
-
+- **
 **PYQ — UPPCS Prelims 2023, Q109**
 
 What was India's rank in the world in greenhouse gas emissions in 2022?

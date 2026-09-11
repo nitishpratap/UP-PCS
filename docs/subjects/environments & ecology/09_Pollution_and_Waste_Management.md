@@ -153,7 +153,7 @@ D. Only 1
 - **WAYU** (Wind Augmentation Purifying Unit) was installed at Delhi traffic junctions. **CCAC** (2012, UNEP partners) targets short-lived climate pollutants: **methane, black carbon, HFCs** — not a G20-only club.
 - **Ringelmann scale** grades smoke density/opacity.
 
-> **Logic:** UPPCS 2025 Q61 — lichens indicate pollution but **decline** in polluted air. AQI ≠ greenhouse-gas index.
+> **Logic:** — lichens indicate pollution but **decline** in polluted air. AQI ≠ greenhouse-gas index.
 
 **PYQ — UPPCS Prelims 2025, Q61**
 
@@ -203,7 +203,7 @@ D. Only 1
 - The **Annual Groundwater Quality Report** is prepared by **CGWB**, not CPCB.
 - Rail **bio-toilets** use **anaerobic bacterial** inoculum (DRDO–Railways), producing water and gases after chlorination — not fungal-only, and not ammonia-only end products.
 
-> **Logic:** UPPCS 2025 Q70 — groundwater report = **CGWB only**. Eutrophication ≠ air pollution.
+> **Logic:** — groundwater report = **CGWB only**. Eutrophication ≠ air pollution.
 
 **PYQ — UPPCS Prelims 2025, Q70**
 
@@ -324,7 +324,7 @@ D. Only 1
 - **Coral bleaching** in the Andaman and Nicobar Islands was linked to **Indian Ocean warming of about 2°C** (2024 PYQ pattern).
 - **Oilzapper**-type bioremediation has been used for oily sludge/spills (e.g. Mumbai port spill teaching note).
 
-> **Logic:** UPPCS 2024 Q19 — bleaching from **temperature rise**, not temperature decrease. Acidification concern ≠ cloud seeding.
+> **Logic:** — bleaching from **temperature rise**, not temperature decrease. Acidification concern ≠ cloud seeding.
 
 **PYQ — UPPCS Prelims 2024, Q19**
 
@@ -449,13 +449,13 @@ D. −4°C temperature drop
 
 With reference to **carrying capacity**, consider the following statements:
 
-1. Resource extraction should remain **above** the rate of regeneration.  
-2. Waste generation should stay within the environment's **absorption capacity**.  
+1. Resource extraction should remain **above** the rate of regeneration. 
+2. Waste generation should stay within the environment's **absorption capacity**. 
 
-A. 2 only  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
-D. 1 only  
+A. 2 only 
+B. Neither 1 nor 2 
+C. Both 1 and 2 
+D. 1 only 
 
 <details>
 <summary>Show answer</summary>
@@ -474,13 +474,13 @@ D. 1 only
 
 Consider the following statements about **lichens**:
 
-1. Lichens are very good indicators of air pollution.  
-2. Lichens grow well in polluted areas.  
+1. Lichens are very good indicators of air pollution. 
+2. Lichens grow well in polluted areas. 
 
-A. 2 only  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
-D. 1 only  
+A. 2 only 
+B. Neither 1 nor 2 
+C. Both 1 and 2 
+D. 1 only 
 
 <details>
 <summary>Show answer</summary>
@@ -499,14 +499,14 @@ D. 1 only
 
 The **Annual Groundwater Quality Report 2024** was prepared by which of the following?
 
-1. Central Pollution Control Board (CPCB)  
-2. Central Water Commission (CWC)  
-3. Central Ground Water Board (CGWB)  
+1. Central Pollution Control Board (CPCB) 
+2. Central Water Commission (CWC) 
+3. Central Ground Water Board (CGWB) 
 
-A. 1 and 2 only  
-B. 3 only  
-C. 2 and 3 only  
-D. 1 only  
+A. 1 and 2 only 
+B. 3 only 
+C. 2 and 3 only 
+D. 1 only 
 
 <details>
 <summary>Show answer</summary>
@@ -525,10 +525,10 @@ D. 1 only
 
 Coral bleaching in the **Andaman & Nicobar** region was primarily caused by—
 
-A. Increased coastal industrial effluents alone  
-B. About **+2°C warming** of the Indian Ocean  
-C. Heavy marine plastic pollution alone  
-D. A **−4°C** drop in sea-surface temperature  
+A. Increased coastal industrial effluents alone 
+B. About **+2°C warming** of the Indian Ocean 
+C. Heavy marine plastic pollution alone 
+D. A **−4°C** drop in sea-surface temperature 
 
 <details>
 <summary>Show answer</summary>
@@ -547,10 +547,10 @@ D. A **−4°C** drop in sea-surface temperature
 
 The **Water (Prevention and Control of Pollution) Act** was enacted in—
 
-A. 1974  
-B. 1981  
-C. 1986  
-D. 2000  
+A. 1974 
+B. 1981 
+C. 1986 
+D. 2000 
 
 <details>
 <summary>Show answer</summary>
@@ -569,10 +569,10 @@ D. 2000
 
 **Photochemical smog** always contains—
 
-A. Phosphorus  
-B. Ozone  
-C. Methane  
-D. Aluminium ion  
+A. Phosphorus 
+B. Ozone 
+C. Methane 
+D. Aluminium ion 
 
 <details>
 <summary>Show answer</summary>
@@ -591,10 +591,10 @@ D. Aluminium ion
 
 According to UNEP's **Frontier Report–2022**, which Indian city ranked as the **world's second most noise-polluted city**?
 
-A. Kota  
-B. Moradabad  
-C. Indore  
-D. Patna  
+A. Kota 
+B. Moradabad 
+C. Indore 
+D. Patna 
 
 <details>
 <summary>Show answer</summary>
@@ -613,10 +613,10 @@ D. Patna
 
 Which of the following is the best **bio-indicator of air pollution**, especially sulphur dioxide?
 
-A. Moss on rocks in clean hills  
-B. Lichens  
-C. Mangrove pneumatophores  
-D. Deep-sea sponges  
+A. Moss on rocks in clean hills 
+B. Lichens 
+C. Mangrove pneumatophores 
+D. Deep-sea sponges 
 
 <details>
 <summary>Show answer</summary>
@@ -635,10 +635,10 @@ D. Deep-sea sponges
 
 The **Basel Convention (1989)** primarily deals with—
 
-A. Transboundary movement of hazardous wastes  
-B. Climate change mitigation commitments  
-C. Ozone-depleting substances phase-out  
-D. Wetland conservation (Ramsar sites)  
+A. Transboundary movement of hazardous wastes 
+B. Climate change mitigation commitments 
+C. Ozone-depleting substances phase-out 
+D. Wetland conservation (Ramsar sites) 
 
 <details>
 <summary>Show answer</summary>
@@ -657,10 +657,10 @@ D. Wetland conservation (Ramsar sites)
 
 India ranks **how high globally** in **e-waste generation**?
 
-A. 1st  
-B. 2nd  
-C. 3rd  
-D. 5th  
+A. 1st 
+B. 2nd 
+C. 3rd 
+D. 5th 
 
 <details>
 <summary>Show answer</summary>

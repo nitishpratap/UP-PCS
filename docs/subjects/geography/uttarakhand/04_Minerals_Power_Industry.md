@@ -116,10 +116,10 @@
 
 Which pair is not correctly matched?
 
-A. Dolomite — Dehradun, Pithoragarh  
-B. Soap stone — Chamoli, Bageshwar  
-C. Graphite — Almora, Nainital  
-D. Silica sand — Pauri Garhwal  
+A. Dolomite — Dehradun, Pithoragarh 
+B. Soap stone — Chamoli, Bageshwar 
+C. Graphite — Almora, Nainital 
+D. Silica sand — Pauri Garhwal 
 
 <details>
 <summary>Show answer</summary>
@@ -136,10 +136,10 @@ D. Silica sand — Pauri Garhwal
 
 **Q1.** Silica sand in Uttarakhand is associated with which set?
 
-A. Pauri Garhwal only  
-B. Dehradun, Nainital, Tehri Garhwal  
-C. Chamoli, Bageshwar  
-D. Almora, Pithoragarh  
+A. Pauri Garhwal only 
+B. Dehradun, Nainital, Tehri Garhwal 
+C. Chamoli, Bageshwar 
+D. Almora, Pithoragarh 
 
 <details>
 <summary>Show answer</summary>
@@ -152,10 +152,10 @@ D. Almora, Pithoragarh
 
 **Q2.** The flagship multipurpose hydropower project on the Bhagirathi system in Uttarakhand is:
 
-A. Pantnagar  
-B. Tehri  
-C. Gauchar  
-D. Silkyara  
+A. Pantnagar 
+B. Tehri 
+C. Gauchar 
+D. Silkyara 
 
 <details>
 <summary>Show answer</summary>

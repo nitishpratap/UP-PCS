@@ -2,7 +2,7 @@
 
 ### ★ UKPCS state card (Unit 3)
 
-> **Syllabus heads:** Public Services · Public Service Commission · Auditing · Advocate General · Centre–State relation hooks.  
+> **Syllabus heads:** Public Services · Public Service Commission · Auditing · Advocate General · Centre–State relation hooks. 
 > **First Advocate General pair:** appears in [Topic 1](01_Constitutional_Framework_of_Uttarakhand.md) Q135 options.
 
 ---
@@ -63,10 +63,10 @@
 
 **Q1.** The constitutional law officer of Uttarakhand corresponding to the Union Attorney General is the:
 
-A. Solicitor General  
-B. Advocate General  
-C. Attorney General of the High Court  
-D. Lokayukta  
+A. Solicitor General 
+B. Advocate General 
+C. Attorney General of the High Court 
+D. Lokayukta 
 
 <details>
 <summary>Show answer</summary>

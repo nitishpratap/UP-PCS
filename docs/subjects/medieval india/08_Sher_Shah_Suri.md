@@ -94,7 +94,7 @@ Sher Shah Suri | Administration | Revenue Reforms | Road System | Currency Refor
 - At **Kannauj/Bilgram on 17 May 1540**, Sher Shah won decisively. Humayun fled through Sind into Persia and ceded Kandahar to the Safavids.
 - Sher Shah took **Delhi** and assumed the title **Sher Shah Suri**. His Sur empire lasted **1540–1545**, only about five years, but left a lasting administrative legacy.
 - Sher Shah died in **May 1545** during the siege of **Kalinjar** in Bundelkhand. A **gunpowder explosion** killed him; it was **not** a sword wound.
-- His tomb is the lake mausoleum at **Sasaram** in Indo-Islamic style. **UPPCS Prelims 2019 Q91** places it after Atala Jaunpur and before Humayun’s Tomb at Delhi.
+- His tomb is the lake mausoleum at **Sasaram (1545)** in Indo-Islamic style — after Atala Jaunpur and before Humayun’s Tomb at Delhi (1565).
 - His successor **Islam Shah (Jalal Khan)** ruled from **1545 to 1553**. The Sur empire then collapsed, and **Humayun returned in 1555**.
 - **Todar Mal** served Sher Shah’s revenue system before joining Akbar.
 
@@ -167,7 +167,7 @@ D. Jarib — A type of tax
 - **Sarais** stood about every **12 kos** (roughly 20 miles), offering lodging, supplies, and security.
 - **Kos-minars** marked distances along the road. A **dak** horse-post carried news quickly.
 - Roads and forts let Sher Shah move troops against Humayun and Afghan rivals.
-- Sher Shah rebuilt and fortified **Purana Qila** in Delhi. The mosque opposite it, **Khayr-ul-Manazil**, was built by **Maham Anaga** in Akbar’s era — the fact in **UPPCS Prelims 2018 Q94**, not Sher Shah.
+- Sher Shah rebuilt and fortified **Purana Qila** in Delhi. The mosque opposite it, **Khayr-ul-Manazil**, was built by **Maham Anaga** in Akbar’s era, not by Sher Shah.
 
 ---
 
@@ -544,7 +544,7 @@ D. Jarib — a type of tax
 
 **Ans: DWhy wrong:Jarib** is a **measuring rope**, not a tax. **Dam** = copper ✓. **Desai** = revenue collector ✓.
 
-**Trap:UPPCS 2019 Q87** — never call Jarib a tax.
+**Trap:** **Jarib** is a **measuring rope**, never a tax.
 
 </details>
 
@@ -1002,7 +1002,7 @@ D. Neither
 
 **Ans: B (Only 2)Key:** Statement **1** is false — **Jarib** is a measuring rope, not a tax. Statement **2** is true — **Desai** collects revenue.
 
-**Trap:2019 Q87** — Jarib is never a tax.
+**Trap:** **Jarib** is a **measuring rope**, never a tax.
 
 </details>
 
@@ -1136,19 +1136,19 @@ D. Neither
 
 ## Common Traps — Don't Fall For These
 
-1. **Jarib** is a **measuring rope**, not a tax (**UPPCS Prelims 2019 Q87**).
-2. **Jayata and Kumpa** impressed Sher Shah in **Marwar** under Rao Maldeo, not in Mewar (**UPPCS Prelims 2022 Q95**).
+1. **Jarib** is a **measuring rope**, not a tax.
+2. **Jayata and Kumpa** impressed Sher Shah in **Marwar** under Rao Maldeo, not in Mewar.
 3. **Chausa (1539)** is where Humayun escaped on a water-skin; **Kannauj/Bilgram (1540)** sent him into exile. Do not swap them.
 4. **Daurah (1532)** is Humayun's battle; it is neither **Dharmat (1658)** nor **Chausa (1539)**.
-5. In **UPPCS Prelims 2025 Q79**, the order Kannauj, Daurah, Samugarh, Chausa gives answer **D (2-4-1-3)**.
+5. When Kannauj, Daurah, Samugarh, and Chausa appear together, order is **Daurah (1532) → Chausa (1539) → Kannauj (1540) → Samugarh (1658)**.
 6. **Sasaram** holds Sher Shah's tomb; **Kalinjar** is where he died in 1545.
 7. **Sher Khan** was his earlier title; he took **Sher Shah** and the style of Padshah after 1540.
 8. **Islam Shah** ruled after Sher Shah; **Humayun** returned in **1555**, not Islam Shah.
-9. **Khayr-ul-Manazil** mosque was built by **Maham Anaga** in Akbar's time; **Purana Qila** is Sher Shah's Delhi fort (**UPPCS Prelims 2018 Q94**).
+9. **Khayr-ul-Manazil** mosque was built by **Maham Anaga** in Akbar's time; **Purana Qila** is Sher Shah's Delhi fort.
 10. The **Grand Trunk Road** ran from **Sonargaon to Peshawar**, not only from Agra to Lahore.
 11. The **Shiqdar** handled policing; the **Munshif** kept accounts. They are different officers.
 12. **Bilgram (Kannauj, 1540)** is the same decisive Humayun defeat; it is not a separate later war name.
-13. Akbar continued Sher Shah's **Dam** as the chief copper coin (**UPPCS Prelims 2019 Q12**).
+13. Akbar continued Sher Shah's **Dam** as the chief copper coin.
 14. Sher Shah ruled only about **five years (1540–1545)**, but his reforms became the template for Akbar.
 15. **Khanwa (1527)** was Babur's battle against Rana Sanga, not Sher Shah's war.
 16. **Farid Khan** was educated at **Jaunpur (Siraj-i-Hind)**, not only born at Sasaram.

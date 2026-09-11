@@ -135,7 +135,7 @@ Options: A. CO B. SO₂ C. O₃ D. Fluorides
 - Extra UV-B raises risks of **skin cancer**, cataracts, crop damage, and marine plankton stress.
 - Depletion is not the same as the greenhouse effect, though some substitutes (HFCs) are strong climate gases.
 
-> **Logic:** Depletion link to **CFCs** is a direct UPPCS fact (2025 Q45 stmt 2). Skin cancer is the classic UV-harm key — not liver/brain/oral.
+> **Logic:** Depletion link to **CFCs** is a direct UPPCS fact. Skin cancer is the classic UV-harm key — not liver/brain/oral.
 
 ---
 
@@ -494,10 +494,10 @@ D. Vienna alone banned all CFCs without Montreal schedules
 
 **Q31.** Ozone layer absorbing UV exists mainly in the:
 
-A. Mesosphere  
-B. Troposphere  
-C. Stratosphere  
-D. Thermosphere  
+A. Mesosphere 
+B. Troposphere 
+C. Stratosphere 
+D. Thermosphere 
 
 <details>
 <summary>Show answer</summary>
@@ -508,10 +508,10 @@ D. Thermosphere
 
 **Q32.** Stratospheric ozone is naturally regulated in large part by:
 
-A. Nitrous oxide only  
-B. Nitrogen dioxide  
-C. CFC alone as a natural regulator  
-D. Water vapour alone  
+A. Nitrous oxide only 
+B. Nitrogen dioxide 
+C. CFC alone as a natural regulator 
+D. Water vapour alone 
 
 <details>
 <summary>Show answer</summary>
@@ -522,10 +522,10 @@ D. Water vapour alone
 
 **Q33.** Which statement about Dobson Unit is correct?
 
-A. It measures ground-level ppm of ozone pollution only  
-B. 1 DU ≈ 0.01 mm pure ozone at 0°C and 1 atm  
-C. Hole threshold is always 500 DU  
-D. It measures only UV-A  
+A. It measures ground-level ppm of ozone pollution only 
+B. 1 DU ≈ 0.01 mm pure ozone at 0°C and 1 atm 
+C. Hole threshold is always 500 DU 
+D. It measures only UV-A 
 
 <details>
 <summary>Show answer</summary>
@@ -536,10 +536,10 @@ D. It measures only UV-A
 
 **Q34.** Which is **NOT** correctly matched?
 
-A. Renneting — Cheese  
-B. Golden rice — Vitamin A  
-C. Genetic engineering — Plasmids  
-D. Ozone layer — Troposphere  
+A. Renneting — Cheese 
+B. Golden rice — Vitamin A 
+C. Genetic engineering — Plasmids 
+D. Ozone layer — Troposphere 
 
 <details>
 <summary>Show answer</summary>
@@ -550,10 +550,10 @@ D. Ozone layer — Troposphere
 
 **Q35.** Antarctic ozone-hole chemistry is best linked to:
 
-A. Tropospheric turbulence only  
-B. Polar front + stratospheric clouds + CFCs  
-C. Absence of polar front and PSCs  
-D. Warm polar midsummer only  
+A. Tropospheric turbulence only 
+B. Polar front + stratospheric clouds + CFCs 
+C. Absence of polar front and PSCs 
+D. Warm polar midsummer only 
 
 <details>
 <summary>Show answer</summary>
@@ -564,10 +564,10 @@ D. Warm polar midsummer only
 
 **Q36.** Who discovered the Antarctic ozone hole reported in 1985?
 
-A. Russian team only  
-B. German team only  
-C. American team only  
-D. British team (Farman et al.)  
+A. Russian team only 
+B. German team only 
+C. American team only 
+D. British team (Farman et al.) 
 
 <details>
 <summary>Show answer</summary>
@@ -578,10 +578,10 @@ D. British team (Farman et al.)
 
 **Q37.** ‘Ozone halo’ over the Tibetan Plateau (2005) is linked to work led by:
 
-A. M. Molina alone  
-B. Joseph Farman alone  
-C. G.W. Kent Moore  
-D. Marcus Rex alone  
+A. M. Molina alone 
+B. Joseph Farman alone 
+C. G.W. Kent Moore 
+D. Marcus Rex alone 
 
 <details>
 <summary>Show answer</summary>
@@ -592,10 +592,10 @@ D. Marcus Rex alone
 
 **Q38.** Montreal Protocol entered into force on:
 
-A. 16 September 1987 only as force date  
-B. 1 January 1989  
-C. 1 January 1992  
-D. 16 February 2005  
+A. 16 September 1987 only as force date 
+B. 1 January 1989 
+C. 1 January 1992 
+D. 16 February 2005 
 
 <details>
 <summary>Show answer</summary>
@@ -606,10 +606,10 @@ D. 16 February 2005
 
 **Q39.** Harmful UV reaching the surface mainly raises risk of:
 
-A. Liver cancer  
-B. Brain cancer  
-C. Oral cancer  
-D. Skin cancer  
+A. Liver cancer 
+B. Brain cancer 
+C. Oral cancer 
+D. Skin cancer 
 
 <details>
 <summary>Show answer</summary>
@@ -618,13 +618,13 @@ D. Skin cancer
 
 </details>
 
-**Q40.** Assertion (A): Stratospheric ozone is essential for biotic life.  
+**Q40.** Assertion (A): Stratospheric ozone is essential for biotic life. 
 Reason (R): The ozone layer protects Earth’s surface from high-energy UV radiation.
 
-A. Both true; R explains A  
-B. Both true; R does not explain A  
-C. A true; R false  
-D. A false; R true  
+A. Both true; R explains A 
+B. Both true; R does not explain A 
+C. A true; R false 
+D. A false; R true 
 
 <details>
 <summary>Show answer</summary>

@@ -577,10 +577,10 @@ A. Anguttara Nikaya B. Majjhima Nikaya C. Khuddaka Nikaya D. Digha Nikaya
 
 Which of the following is not correctly matched?
 
-A. Anga — Champa  
-B. Kosala — Ahichchhatra  
-C. Vatsa — Kaushambi  
-D. Matsya — Viratnagar  
+A. Anga — Champa 
+B. Kosala — Ahichchhatra 
+C. Vatsa — Kaushambi 
+D. Matsya — Viratnagar 
 
 **Logic:** Wrong capital glued to Kosala.
 
@@ -645,10 +645,10 @@ A. 4 2 1 3 B. 3 1 4 2 C. 3 4 1 2 D. 2 3 4 1
 
 Which of the following is NOT correctly matched?
 
-A. Kamboj — Rajpur / Hatak  
-B. Ashmak — Potan / Potil  
-C. Shurasen — Kaushambi  
-D. Koshal — Shravasti  
+A. Kamboj — Rajpur / Hatak 
+B. Ashmak — Potan / Potil 
+C. Shurasen — Kaushambi 
+D. Koshal — Shravasti 
 
 **Logic:** Surasena–Mathura vs Vatsa–Kaushambi.
 
@@ -665,7 +665,7 @@ D. Koshal — Shravasti
 
 How many Mahajanapadas were located in present-day Uttar Pradesh among the oldest sixteen?
 
-A. 06 B. 07 C. 08 D. 09  
+A. 06 B. 07 C. 08 D. 09 
 
 **Logic:** Eight UP-touching states.
 
@@ -682,7 +682,7 @@ A. 06 B. 07 C. 08 D. 09
 
 The capital of North Panchala, according to the Mahabharata, was located at —
 
-A. Hastinapur B. Indraprastha C. Ahichchhatra D. Mathura  
+A. Hastinapur B. Indraprastha C. Ahichchhatra D. Mathura 
 
 **Logic:** North vs South Panchala split.
 
@@ -699,7 +699,7 @@ A. Hastinapur B. Indraprastha C. Ahichchhatra D. Mathura
 
 Champa was the capital of which Mahajanapada?
 
-A. Magadha B. Vajji C. Kosala D. Anga  
+A. Magadha B. Vajji C. Kosala D. Anga 
 
 **Logic:** Anga port vs Magadha Rajgir.
 
@@ -716,7 +716,7 @@ A. Magadha B. Vajji C. Kosala D. Anga
 
 In the sixth century BCE Suktimati was the capital of —
 
-A. Panchala B. Kuru C. Chedi D. Avanti  
+A. Panchala B. Kuru C. Chedi D. Avanti 
 
 **Logic:** Sotthivati / Suktimati = Chedi.
 
@@ -733,7 +733,7 @@ A. Panchala B. Kuru C. Chedi D. Avanti
 
 Matsya Mahajanapada of 6th century BCE was located in —
 
-A. Western Uttar Pradesh B. Rajasthan C. Bundelkhand D. Rohilkhand  
+A. Western Uttar Pradesh B. Rajasthan C. Bundelkhand D. Rohilkhand 
 
 **Logic:** Jaipur–Alwar–Bharatpur; not Rohilkhand (Panchala).
 
@@ -750,7 +750,7 @@ A. Western Uttar Pradesh B. Rajasthan C. Bundelkhand D. Rohilkhand
 
 What is the town configuration of ancient Shravasti?
 
-A. Circular B. Crescentic C. Triangular D. Quadratic  
+A. Circular B. Crescentic C. Triangular D. Quadratic 
 
 **Logic:** Saheth–Maheth excavation plan.
 
@@ -767,7 +767,7 @@ A. Circular B. Crescentic C. Triangular D. Quadratic
 
 The town of Kalpi is situated on the bank of the river —
 
-A. Ganga B. Yamuna C. Narmada D. Krishna  
+A. Ganga B. Yamuna C. Narmada D. Krishna 
 
 **Logic:** Jalaun Yamuna town.
 
@@ -784,7 +784,7 @@ A. Ganga B. Yamuna C. Narmada D. Krishna
 
 The Legend of Udayan–Vasavadatta is related to —
 
-A. Ujjain B. Mathura C. Mahishmati D. Kaushambi  
+A. Ujjain B. Mathura C. Mahishmati D. Kaushambi 
 
 **Logic:** Story setting is Ujjain imprisonment; Vatsa king loves Avanti princess.
 
@@ -801,7 +801,7 @@ A. Ujjain B. Mathura C. Mahishmati D. Kaushambi
 
 What was the ancient name of Ujjain?
 
-A. Taxila B. Indraprastha C. Avantika D. None of the above  
+A. Taxila B. Indraprastha C. Avantika D. None of the above 
 
 **Logic:** Avantika / Ujjayini = northern Avanti capital.
 
@@ -844,7 +844,7 @@ A. 1 2 3 4 B. 4 3 2 1 C. 3 2 4 1 D. 4 1 3 2
 
 Which initial ruler of Magadha killed his father for enthroning and was also killed by his son for the same reason?
 
-A. Bimbisara B. Ajatashatru C. Udayin D. Nagadasaka  
+A. Bimbisara B. Ajatashatru C. Udayin D. Nagadasaka 
 
 **Logic:** Middle link of the parricide chain.
 
@@ -861,7 +861,7 @@ A. Bimbisara B. Ajatashatru C. Udayin D. Nagadasaka
 
 The Prince who was responsible for the death of his father was —
 
-A. Ajatashatru B. Chandapradyota C. Prasenjit D. Udayana  
+A. Ajatashatru B. Chandapradyota C. Prasenjit D. Udayana 
 
 **Logic:** Same Ajatashatru fact; Udayana of Vatsa is a distractor.
 
@@ -878,7 +878,7 @@ A. Ajatashatru B. Chandapradyota C. Prasenjit D. Udayana
 
 Power of Magadha was extended over the Malwa region during the reign period of —
 
-A. Bimbisara B. Ajatashatru C. Udayabhadra D. Shishunaga  
+A. Bimbisara B. Ajatashatru C. Udayabhadra D. Shishunaga 
 
 **Logic:** Avanti / Malwa falls to Shishunaga, not Bimbisara.
 
@@ -895,7 +895,7 @@ A. Bimbisara B. Ajatashatru C. Udayabhadra D. Shishunaga
 
 Which King of Magadha is known as Aparoparashurama?
 
-A. Bindusara B. Ajatasatru C. Kalasoka D. Mahapadmananda  
+A. Bindusara B. Ajatasatru C. Kalasoka D. Mahapadmananda 
 
 **Logic:** Nanda founder titles.
 
@@ -912,7 +912,7 @@ A. Bindusara B. Ajatasatru C. Kalasoka D. Mahapadmananda
 
 Jivaka, the famous physician of the time of Mahatma Buddha, was associated with the court of —
 
-A. Bimbisara B. Chanda Pradyota C. Prasenjit D. Udayana  
+A. Bimbisara B. Chanda Pradyota C. Prasenjit D. Udayana 
 
 **Logic:** Magadha court physician; also sent to treat Pradyota.
 
@@ -929,10 +929,10 @@ A. Bimbisara B. Chanda Pradyota C. Prasenjit D. Udayana
 
 Which inscription is the evidence of King Nanda?
 
-A. Hathigumpha inscription of Kharavela  
-B. Rummindei pillar inscription  
-C. Junagarh inscription of Rudradaman  
-D. Ayodhya inscription of Dhandeva  
+A. Hathigumpha inscription of Kharavela 
+B. Rummindei pillar inscription 
+C. Junagarh inscription of Rudradaman 
+D. Ayodhya inscription of Dhandeva 
 
 **Logic:** Nanda canal / Jina image memory sits in Kharavela’s text.
 
@@ -949,7 +949,7 @@ D. Ayodhya inscription of Dhandeva
 
 The epigraphical evidence reveals that under the instructions of a Nanda king, a canal was dug in —
 
-A. Anga B. Vanga C. Kalinga D. Magadha  
+A. Anga B. Vanga C. Kalinga D. Magadha 
 
 **Logic:** Same Hathigumpha canal fact.
 
@@ -966,7 +966,7 @@ A. Anga B. Vanga C. Kalinga D. Magadha
 
 Who among the following made Varanasi his second capital?
 
-A. Ajatashatru B. Kalashoka C. Mahapadmananda D. Shishunaga  
+A. Ajatashatru B. Kalashoka C. Mahapadmananda D. Shishunaga 
 
 **Logic:** Ambiguous stem; accepted key = Shishunaga.
 
@@ -985,7 +985,7 @@ A. Ajatashatru B. Kalashoka C. Mahapadmananda D. Shishunaga
 
 Which one was not in the earlier Republic?
 
-A. Shakya B. Lichchhavi C. Yaudheya D. All of the above  
+A. Shakya B. Lichchhavi C. Yaudheya D. All of the above 
 
 **Logic:** Buddha-age gana list vs later Yaudheya gana.
 
@@ -1004,7 +1004,7 @@ A. Shakya B. Lichchhavi C. Yaudheya D. All of the above
 
 Who was the founder of Nanda Dynasty in Magadha?
 
-A. Mahapadmananda B. Dhanananda C. Nandivardhana D. Mahanandin  
+A. Mahapadmananda B. Dhanananda C. Nandivardhana D. Mahanandin 
 
 **Logic:** Founder vs last Nanda vs Shishunaga tail.
 
@@ -1021,10 +1021,10 @@ A. Mahapadmananda B. Dhanananda C. Nandivardhana D. Mahanandin
 
 Read the statements (A) and (B):
 
-**(A)** The sixth century BCE was a period of great religious upheaval in all parts of the world.  
+**(A)** The sixth century BCE was a period of great religious upheaval in all parts of the world. 
 **(B)** The Vedic religion had become very complex.
 
-A. Both false B. Both true C. A true, B false D. A false, B true  
+A. Both false B. Both true C. A true, B false D. A false, B true 
 
 **A/R logic:** Global upheaval + Vedic ritual complexity; both accepted true.
 
@@ -1041,7 +1041,7 @@ A. Both false B. Both true C. A true, B false D. A false, B true
 
 **Q29.** Chanda Pradyota was the ruler of which ancient state?
 
-A. Kashi B. Anga C. Avanti D. Vajji  
+A. Kashi B. Anga C. Avanti D. Vajji 
 
 **Logic:** Avanti king treated by Jivaka.
 
@@ -1056,7 +1056,7 @@ A. Kashi B. Anga C. Avanti D. Vajji
 
 **Q30.** Who defeated and assimilated the Vajjis into Magadha?
 
-A. Chandragupta Maurya B. Ashoka C. Mahapadma Nanda D. Ajatashatru  
+A. Chandragupta Maurya B. Ashoka C. Mahapadma Nanda D. Ajatashatru 
 
 **Logic:** Long Vajji war = Ajatashatru.
 
@@ -1071,7 +1071,7 @@ A. Chandragupta Maurya B. Ashoka C. Mahapadma Nanda D. Ajatashatru
 
 **Q31.** Arrange Magadhan dynasties: 1 Nandas 2 Sungas 3 Mauryas 4 Haryankas
 
-A. 2-1-4-3 B. 4-1-3-2 C. 3-2-1-4 D. 1-3-4-2  
+A. 2-1-4-3 B. 4-1-3-2 C. 3-2-1-4 D. 1-3-4-2 
 
 **Logic:** Haryanka → (Shishunaga omitted in options) → Nanda → Maurya → Shunga. Code uses 4,1,3,2.
 
@@ -2018,10 +2018,10 @@ D. (A) is false, but (R) is true
 
 **Q53.** Which one of the following is **not** correctly matched?
 
-A. Anga — Champa  
-B. Kosala — Ahichchhatra  
-C. Vatsa — Kaushambi  
-D. Matsya — Viratnagar  
+A. Anga — Champa 
+B. Kosala — Ahichchhatra 
+C. Vatsa — Kaushambi 
+D. Matsya — Viratnagar 
 
 **Logic:** Capital–state match; Ahichchhatra belongs to Panchala, not Kosala (Kosala = Saket / Shravasti).
 
@@ -2058,7 +2058,7 @@ A. 1 2 3 4 B. 4 3 2 1 C. 3 2 4 1 D. 4 1 3 2
 
 **Q55.** The earliest extant coins of India were of —
 
-A. Copper B. Gold C. Lead D. Silver  
+A. Copper B. Gold C. Lead D. Silver 
 
 **Logic:** Punch-marked / Aahat coins of the mahajanapada age are silver, not Gupta gold.
 
@@ -2073,7 +2073,7 @@ A. Copper B. Gold C. Lead D. Silver
 
 **Q56.** How many of the sixteen mahajanapadas lay in present-day Uttar Pradesh?
 
-A. 06 B. 07 C. 08 D. 09  
+A. 06 B. 07 C. 08 D. 09 
 
 **Logic:** Count the UP eight; do not add Magadha / Vajji / Anga (Bihar).
 
@@ -2088,7 +2088,7 @@ A. 06 B. 07 C. 08 D. 09
 
 **Q57.** What is the town configuration of ancient Shravasti?
 
-A. Circular B. Crescentic C. Triangular D. Quadratic  
+A. Circular B. Crescentic C. Triangular D. Quadratic 
 
 **Logic:** Cunningham’s Saheth–Maheth identification; excavation plan fact for UPPCS.
 
@@ -2103,7 +2103,7 @@ A. Circular B. Crescentic C. Triangular D. Quadratic
 
 **Q58.** The town of Kalpi is situated on the bank of the river —
 
-A. Ganga B. Yamuna C. Narmada D. Krishna  
+A. Ganga B. Yamuna C. Narmada D. Krishna 
 
 **Logic:** Jalaun (UP) Yamuna town; ancient Kalpriya.
 
@@ -2118,7 +2118,7 @@ A. Ganga B. Yamuna C. Narmada D. Krishna
 
 **Q59.** Which initial Magadha ruler killed his father for the throne and was later killed by his son for the same reason?
 
-A. Bimbisara B. Ajatashatru C. Udayin D. Nagadasaka  
+A. Bimbisara B. Ajatashatru C. Udayin D. Nagadasaka 
 
 **Logic:** Parricide chain — Ajatashatru kills Bimbisara; Udayin kills Ajatashatru.
 
@@ -2133,7 +2133,7 @@ A. Bimbisara B. Ajatashatru C. Udayin D. Nagadasaka
 
 **Q60.** In the sixth century BCE, Suktimati was the capital of —
 
-A. Panchala B. Kuru C. Chedi D. Avanti  
+A. Panchala B. Kuru C. Chedi D. Avanti 
 
 **Logic:** Sotthivati / Suktimati = Chedi in Bundelkhand.
 
@@ -2148,10 +2148,10 @@ A. Panchala B. Kuru C. Chedi D. Avanti
 
 **Q61.** Which of the following is NOT correctly matched?
 
-A. Kamboja — Rajpura / Hataka  
-B. Asmaka — Potana / Potali  
-C. Surasena — Kaushambi  
-D. Kosala — Shravasti  
+A. Kamboja — Rajpura / Hataka 
+B. Asmaka — Potana / Potali 
+C. Surasena — Kaushambi 
+D. Kosala — Shravasti 
 
 **Logic:** Surasena capital is Mathura; Kaushambi is Vatsa.
 
@@ -2166,7 +2166,7 @@ D. Kosala — Shravasti
 
 **Q62.** Who among the following made Varanasi his second capital (as accepted in some UPPSC keys)?
 
-A. Ajatashatru B. Kalashoka C. Mahapadma Nanda D. Shishunaga  
+A. Ajatashatru B. Kalashoka C. Mahapadma Nanda D. Shishunaga 
 
 **Logic:** Shishunaga as Kashi viceroy / Vaishali capital with a son as deputy at Varanasi.
 
@@ -2181,7 +2181,7 @@ A. Ajatashatru B. Kalashoka C. Mahapadma Nanda D. Shishunaga
 
 **Q63.** Which King of Magadha is known as Aparoparashurama?
 
-A. Bindusara B. Ajatashatru C. Kalashoka D. Mahapadma Nanda  
+A. Bindusara B. Ajatashatru C. Kalashoka D. Mahapadma Nanda 
 
 **Logic:** Puranic title cluster with ekarat / sarvakshatrantaka.
 
@@ -2196,7 +2196,7 @@ A. Bindusara B. Ajatashatru C. Kalashoka D. Mahapadma Nanda
 
 **Q64.** (**UKPCS**) Who was the founder of the Nanda Dynasty in Magadha?
 
-A. Mahapadmananda B. Dhanananda C. Nandivardhana D. Mahanandin  
+A. Mahapadmananda B. Dhanananda C. Nandivardhana D. Mahanandin 
 
 **Logic:** Founder vs last Nanda vs last Shishunaga names.
 
@@ -2211,13 +2211,13 @@ A. Mahapadmananda B. Dhanananda C. Nandivardhana D. Mahanandin
 
 **Q65.** Given below are two statements (**UKPCS**-type):
 
-**(A)** The sixth century BCE was a period of great religious upheaval in many parts of the world.  
+**(A)** The sixth century BCE was a period of great religious upheaval in many parts of the world. 
 **(B)** The Vedic religion had become very complex.
 
-A. Both (A) and (B) are false  
-B. Both (A) and (B) are true  
-C. (A) is true, while (B) is false  
-D. (A) is false, while (B) is true  
+A. Both (A) and (B) are false 
+B. Both (A) and (B) are true 
+C. (A) is true, while (B) is false 
+D. (A) is false, while (B) is true 
 
 **A/R logic:** A tests global parallel (new faiths / questioning); B tests ritual complexity and priestly weight inside Vedic religion. Both stand; full religious teaching is Topic 4.
 

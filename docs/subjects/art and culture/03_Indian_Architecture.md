@@ -176,8 +176,6 @@ Indian Temple Architecture | Nagara Style | Dravida Style | Vesara Style | Templ
 - **Markandeshwar** (Gadchiroli / Vidarbha) = **“Khajuraho of Vidarbha”** — not Kailasa, not Bhimashankar.
 - MP UNESCO cluster often tested with Khajuraho: **Bhimbetka** rock shelters and **Sanchi** stupa. **Mandu** is **not** UNESCO.
 
-> ** note:** UPPCS 2019 Q109 — Khajuraho of Vidarbha = **Markandeshwar**. Khajuraho itself is **MP**, not UP.
-
 **PYQ — UPPCS Prelims 2019, Q109**
 
 Which of the following temples is also known as Khajuraho of Vidarbha?
@@ -282,8 +280,6 @@ D. Bhimashankar
 - UNESCO Great Living Chola Temples **1987** = Thanjavur + Gangaikonda + Darasuram.
 - Chronology: **Sapt Pagoda (7th c.) → Shore Temple (early 8th) → Brihadeeswara (1010) → Gangaikonda (~1035)**.
 
-> ** note:** UPPCS 2018 Q15 chronology = **IV, III, I, II**. UPPCS 2020 Q8 — both A and R true; R explains A.
-
 **PYQ — UPPCS Prelims 2018, Q15**
 
 Arrange the following temples in a chronological order and select the correct answer from the codes given below:
@@ -361,8 +357,6 @@ D. (A) is false but (R) is true
 - **Vaishali** is a relic-stupa fact.
 - **Piprahwa** is a relic-casket fact.
 - **Kesariya** (Bihar) is the tallest stupa in India.
-
-> ** note:** UPPCS 2022 Q80 — Aryaka-pillars = **Amaravati** (not Bodh Gaya).
 
 **PYQ — UPPCS Prelims 2022, Q80**
 
@@ -460,8 +454,6 @@ D. Bodhgaya
 - **Udayagiri (Vidisha, MP)** is Gupta. The Varaha panel is of Chandragupta II. It is **not** the Odisha pair.
 - **Jogeshwari** and **Mandapeshwar** are Hindu caves of the Mumbai region.
 
-> ** note:** UPPCS 2018 Q16 — Hathigumpha = **Kharavela**. Elephanta ≠ Ellora Kailasa. Hathigumpha ≠ Ashoka.
-
 **PYQ — UPPCS Prelims 2018, Q16**
 
 The inscription of Hathigumpha is the source of information about which king?
@@ -538,8 +530,6 @@ D. Kanishka
 
 **Tomb:** Sasaram (Bihar), ~1545, octagonal, precursor of Mughal garden-tomb scale.
 **Delhi:** Purana Qila; Qila-i-Kuhna mosque. Grand Trunk Road is not an architectural style card.
-
-> ** note:** UPPCS 2022 Q4 code **A = 3, 4, 1, 2**. UPPCS 2018 Q19 unmatched = **Adina Masjid–Mandu**.
 
 **PYQ — UPPCS Prelims 2022, Q4**
 
@@ -651,13 +641,11 @@ D. Tin Darwaza – Ahmedabad
 
 ### Tomb match (2025)
 
-Babur–**Kabul** | Humayun–**Delhi** | Jahangir–**Lahore** | Shah Jahan–**Agra** → code **4 3 2 1**.
+Babur–**Kabul** | Humayun–**Delhi** | Jahangir–**Lahore** | Shah Jahan–**Agra** .
 
 ### Monument chronology (2019)
 
 **Atala Mosque, Jaunpur (~1408) → Sher Shah tomb, Sasaram (~1545) → Humayun’s Tomb, Delhi (~1570) → Rabia Daurani / Bibi ka Maqbara (~1660).**
-
-> ** note:** UPPCS 2025 Q49 → **C** (A true, R false). Q57 → **A = 4 3 2 1**. 2019 Q91 → **B = IV, II, III, I**.
 
 **PYQ — UPPCS Prelims 2025, Q49**
 
@@ -1201,8 +1189,8 @@ D. 2, 3 and 4
 **Q-GC10. UP RO/ARO Mains 2017**
 
 Match List-I with List-II:
-A. Stupa  B. Painting  C. Headless statue of Kanishka  D. Dashavatara Temple
-1. Bagh  2. Sanchi  3. Deogarh  4. Mathura
+A. Stupa B. Painting C. Headless statue of Kanishka D. Dashavatara Temple
+1. Bagh 2. Sanchi 3. Deogarh 4. Mathura
 
 A. 1 2 3 4
 
@@ -1387,7 +1375,7 @@ D. Vaishnava
 **Q-GC19. UPPCS Mains 2007**
 
 The ancient monuments of Elephanta are mostly
-1. Buddhist  2. Jain  3. Shaivite  4. Vaishnavite
+1. Buddhist 2. Jain 3. Shaivite 4. Vaishnavite
 
 A. 1
 
@@ -1572,7 +1560,7 @@ D. All of these
 **Q-GC28. UP Lower Sub Pre 2002**
 
 Ellora cave temples are related to–
-1. Hinduism  2. Buddhism  3. Jainism
+1. Hinduism 2. Buddhism 3. Jainism
 
 A. only 1
 
@@ -1856,8 +1844,8 @@ D. Golconda (Andhra Pradesh)
 
 Match List – I with List – II:
 (Gupta Temple) — (Location)
-A. Brick-built Temple  B. Dasavatara Temple  C. Shiva Temple  D. Vishnu Temple
-1. Eran  2. Deogarh  3. Bhitargaon  4. Bhumara
+A. Brick-built Temple B. Dasavatara Temple C. Shiva Temple D. Vishnu Temple
+1. Eran 2. Deogarh 3. Bhitargaon 4. Bhumara
 
 A. 4 2 1 3
 
@@ -2027,8 +2015,8 @@ D. None of the statements given above is correct
 **Q-GC50. UPPCS Mains 2014**
 
 Match List-I with List-II:
-A. Hampi  B. Nagarjunakonda  C. Shishupalgarh  D. Arikamedu
-1. Puducherry  2. Karnataka  3. Andhra Pradesh  4. Odisha
+A. Hampi B. Nagarjunakonda C. Shishupalgarh D. Arikamedu
+1. Puducherry 2. Karnataka 3. Andhra Pradesh 4. Odisha
 
 A. 2 3 4 1
 
@@ -2509,8 +2497,8 @@ D. Nandivarman Style
 **Q-GC74. UP UDA/LDA Pre 2001**
 
 Match List - I with List - II:
-A. Elephanta  B. Shravanabelagola  C. Khajuraho  D. Sanchi
-1. Stupa  2. Temple  3. Cave  4. Statue
+A. Elephanta B. Shravanabelagola C. Khajuraho D. Sanchi
+1. Stupa 2. Temple 3. Cave 4. Statue
 
 A. 2 4 3 1
 
@@ -2531,8 +2519,8 @@ D. 3 2 4 1
 **Q-GC75. UP UDA/LDA Spl Pre 2010**
 
 Match List - I with List - II:
-A. Bhimbetka  B. Shore temple  C. Hampi  D. Manas
-1. Assam  2. Madhya Pradesh  3. Tamil Nadu  4. Karnataka
+A. Bhimbetka B. Shore temple C. Hampi D. Manas
+1. Assam 2. Madhya Pradesh 3. Tamil Nadu 4. Karnataka
 
 A. 2 1 3 4
 
@@ -2573,8 +2561,8 @@ D. Mahabalipuram Temple- Rashtrakutas
 **Q-GC77. UPPCS Spl Pre 2004**
 
 Match List - I with List - II:
-A. Baidyanath Dham  B. Sarnath  C. Dilwara  D. Badrinath
-1. Jain Temple  2. Shiva Temple  3. First sermon place of Buddha  4. Vishnu Temple
+A. Baidyanath Dham B. Sarnath C. Dilwara D. Badrinath
+1. Jain Temple 2. Shiva Temple 3. First sermon place of Buddha 4. Vishnu Temple
 
 A. 2 3 1 4
 
@@ -2620,8 +2608,8 @@ D. None
 **Q-GC79. UPPCS Pre 1992**
 
 Match the following:
-A. Sun Temple  B. Lingaraja Temple  C. Hawa Mahal  D. Statue of Gomateshwara
-1. Karnataka  2. Konark  3. Jaipur  4. Bhubaneswar
+A. Sun Temple B. Lingaraja Temple C. Hawa Mahal D. Statue of Gomateshwara
+1. Karnataka 2. Konark 3. Jaipur 4. Bhubaneswar
 
 A. 2 4 3 1
 
@@ -2665,8 +2653,8 @@ D. 1, 2 and 3
 **Q-GC81. Uttarakhand PCS Mains 2006**
 
 Match list-I and list-II :
-A. Nalanda  B. Sarnath  C. Sanchi  D. Konarka
-1. Ashoka Pillar  2. University  3. Sun Temple  4. Stupa
+A. Nalanda B. Sarnath C. Sanchi D. Konarka
+1. Ashoka Pillar 2. University 3. Sun Temple 4. Stupa
 
 A. 1 2 4 3
 

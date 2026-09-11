@@ -118,7 +118,7 @@ D. None of the above
 - **Sitabenga** is in the same hills. There is a theatre / rest-house debate. Inscriptions are Brahmi–Magadhi.
 - The IVC has **no mural survivals**. Mauryan palace paint is only literary (Megasthenes).
 
-> ** note:** UPPCS 2020 Q10 — the first archaeologist of Bhimbetka paintings is **V.S. Wakankar**.
+> **Logic:** The first archaeologist of Bhimbetka paintings is **V.S. Wakankar**.
 
 **PYQ — UPPCS Prelims 2020, Q10**
 

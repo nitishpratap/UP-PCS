@@ -304,7 +304,7 @@ Kalbelia UNESCO **2010**. Chhau **2010**. Sankirtana **2013**. SNA **1952**.
 
 **Local `pyq/` 2018–2025:** no UPPCS question whose *primary* topic is Indian dance.
 
-**Trap:** UPPCS **2018 Q13** option “Kathak” is a Shukla Yajurveda *samhita* name, **not** the dance.
+**Trap:** option “Kathak” is a Shukla Yajurveda *samhita* name, **not** the dance.
 
 **External high-yield (UPSC — not in local `pyq/`)UPSC Prelims 2014 (Sattriya) — not yet in local pyq/**
 

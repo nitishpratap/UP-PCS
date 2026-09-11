@@ -1522,7 +1522,7 @@ D. Shravasti
 
 Which of the following Kingdoms were associated with the life of the Buddha?
 
-1. Avanti  2. Gandhara  3. Kosala  4. Magadha
+1. Avanti 2. Gandhara 3. Kosala 4. Magadha
 
 Select the correct answer using the code given below.
 
@@ -1912,7 +1912,7 @@ D. Rajgriha
 
 Four Buddhist Councils were held in the following places. Arrange them in chronological order by using the code given below :
 
-1. Vaishali  2. Rajgriha  3. Kundalavana  4. Pataliputra
+1. Vaishali 2. Rajgriha 3. Kundalavana 4. Pataliputra
 
 A. 1, 2, 3, 4
 
@@ -2040,8 +2040,8 @@ D. (ii) (iii) (iv) (i)
 
 Four important events of Buddha’s life and thereby related four places are mentioned below.
 Match Schedule-I and Schedule-II:
-A. Birth  B. Enlightenment  C. First preaching  D. Death
-1. Sarnath  2. Bodhgaya  3. Lumbini  4. Kushinagar
+A. Birth B. Enlightenment C. First preaching D. Death
+1. Sarnath 2. Bodhgaya 3. Lumbini 4. Kushinagar
 
 A. 1 2 4 3
 
@@ -2082,8 +2082,8 @@ D. Nirvana
 **Q-GC40. UPPCS Mains 2005**
 
 Match List-I (Sign) with List-II (Meaning):
-A. Birth  B. First Sermon  C. Enlightenment  D. Great Departure
-1. Bodhi tree  2. Dharma Chakra Pravartana  3. Horse  4. Lotus
+A. Birth B. First Sermon C. Enlightenment D. Great Departure
+1. Bodhi tree 2. Dharma Chakra Pravartana 3. Horse 4. Lotus
 
 A. 1 2 3 4
 
@@ -2552,7 +2552,7 @@ D. Swami Vivekanand
 **Q-GC63. IAS Pre 2024**
 
 With reference to ancient India. Gautama Buddha was generally known by which of the following epithets?
-1. Nayaputta  2. Shakyamuni  3. Tathagata
+1. Nayaputta 2. Shakyamuni 3. Tathagata
 
 A. 1 only
 
@@ -3364,8 +3364,8 @@ D. Champa
 
 Match List-I with List-II:
 (Tirthankara) — (Cognizance)
-A. Adinatha  B. Mallinatha  C. Parshavanatha  D. Sambhavnatha
-1. Bull  2. Horse  3. Snake  4. Water Jar
+A. Adinatha B. Mallinatha C. Parshavanatha D. Sambhavnatha
+1. Bull 2. Horse 3. Snake 4. Water Jar
 
 A. 1 4 3 2
 
@@ -3807,8 +3807,8 @@ D. Mehrauli’s pillar inscription
 
 Match List-I with List-II:
 (Acharya) — (Doctrine)
-A. Lakulisa  B. Nagarjuna  C. Bhadrabahu  D. Gosala
-1. Ajivaka  2. Sunyavada  3. Pasupat  4. Jain
+A. Lakulisa B. Nagarjuna C. Bhadrabahu D. Gosala
+1. Ajivaka 2. Sunyavada 3. Pasupat 4. Jain
 
 A. 2 3 4 1
 

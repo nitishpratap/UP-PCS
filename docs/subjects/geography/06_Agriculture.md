@@ -223,7 +223,7 @@ India’s land-use reporting (NCERT / Ministry of Agriculture) splits reported a
 | **Zaid** | Mar–Jun | Watermelon, cucumber, fodder, vegetables |
 | Long / perennial | — | Sugarcane (10–18 months); tea, coffee, rubber |
 
-- India’s tropical monsoon supports diversified cropping almost year-round (2024 Q73 stmt 2 **true**).
+- India’s tropical monsoon supports diversified cropping almost year-round.
 - India has a **higher share of geographical area under cultivation** than USA, China and Japan (statement 1 in the usual multi-statement set; keys sometimes split on stmt 1, but stmt 2 on year-round cropping is sure).
 - Rabi belts of PB–HR–W UP also benefit from **western disturbances** (winter rain) plus irrigation.
 
@@ -301,7 +301,7 @@ Rice needs heat plus moisture (or irrigation). India is usually the world’s **
 - Two textbook belts stand out: the **Ganga–Satluj** plains of the north-west, and **black-soil** Deccan wheat.
 - Core states are **Uttar Pradesh, Punjab and Haryana**, with Madhya Pradesh, Rajasthan and Bihar also strong.
 - Pairing **Assam with wheat** is wrong.
-- HYV semi-dwarf wheat plus water and fertiliser created the Green Revolution surplus in Punjab–Haryana–western UP (2022 Q91 both).
+- HYV semi-dwarf wheat plus water and fertiliser created the Green Revolution surplus in Punjab–Haryana–western UP.
 - The dwarfing gene in wheat is **Norin-10**.
 - **Macaroni wheat** (*Triticum durum*) suits **rainfed / dry** conditions.
 - **Triticale** is a hybrid of **wheat and rye**.
@@ -422,7 +422,7 @@ States: MP, RJ, MH, UP, KA. Mixed cropping with millets is common.
 - India’s harvested cotton is still **mostly medium** (and medium-long), not Egyptian-style ELS. Mills **blend** staples.
 - MSP for kapas is announced separately for **medium staple** and **long staple** grades (CACP recommends; the Union Cabinet decides).
 - **Ahmedabad** lies in a major cotton **region** (raw material true).
-- Traditionally India’s largest cotton-textile **centre** is **Mumbai**, not Ahmedabad (2020 Q58: A false, R true, code **D**).
+- Traditionally India’s largest cotton-textile **centre** is **Mumbai**, not Ahmedabad.
 - Cotton is indigenous to India (Rigveda / Manusmriti mention). India was first to commercialise **hybrid cotton**.
 - Cotton fibre is obtained from the **seed**.
 - **Khandwa–Khargone** (Madhya Pradesh) is tagged the **“White Gold”** cotton belt. Maharashtra also calls cotton white gold on black soil.
@@ -741,7 +741,7 @@ CAD develops the **command** of an existing project (channels, drainage, waraban
 - Bt cotton targets bollworm.
 - Azolla is a biofertiliser, not an insecticide.
 - The 2025 Delhi **bio-decomposer** was free to farmers.
-- The fungal mix turns stubble to manure (2025 Q10 **both**).
+- The fungal mix turns stubble to manure.
 - **Butachlor** is a herbicide (versus chlorpyrifos / quinalphos as insecticides and carbendazim as a fungicide).
 - The first widely used herbicide is often tagged **2,4-D**.
 

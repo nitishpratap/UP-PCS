@@ -137,8 +137,6 @@ Food Chain | Food Web | Trophic Levels | Energy Flow in Ecosystem | Ecological P
 | **T4** | Tertiary consumer | Python, fishing eagle |
 | **T5** | Top carnivore | Tiger (Dudhwa), Gangetic dolphin (river apex) |
 
-> ** note:** UPPCS 2023 Q117 — trophic levels are formed by organisms **linked in a food chain**.
-
 **PYQ — UPPCS Prelims 2023, Q117**
 
 Trophic levels are formed by—
@@ -166,7 +164,7 @@ D. Carnivorous animals only
 - **Energy flow** is the movement of solar energy through living systems via food chains and food webs.
 - Flow is **unidirectional**: Sun → producers (chemical energy in biomass) → consumers → **heat** lost to the environment.
 - **Nutrients** such as carbon and nitrogen **cycle** through decomposers and return to producers. **Energy does not cycle.**
-- **Raymond Lindeman (1942)** showed that roughly **10%** of energy or organic matter passes to the next higher trophic level (UPPCS 2025 Q5 statement 2).
+- **Raymond Lindeman (1942)** showed that roughly **10%** of energy or organic matter passes to the next higher trophic level.
 - About **90%** is lost at each transfer through respiration, movement, egestion, uneaten body parts, and heat radiation.
 - This loss explains why **top predators are few**, why **food chains are short**, and why eating lower on the chain is more energy-efficient for humans.
 - Terrestrial plants capture about **1%** of incident sunlight on leaves. That capture stage is separate from the **10% transfer** between consumer levels. Both facts can be true in one question.
@@ -178,8 +176,6 @@ D. Carnivorous animals only
 | Movement and metabolism | Not passed to next consumer |
 | Egestion and uneaten parts | Lost from food chain pathway |
 | Passed to next trophic level | **~10%** (Lindeman 1942) |
-
-> ** note:** UPPCS 2019 Q134 — energy **decreases** at each higher trophic level. Trap — energy flow is **not cyclic** like nutrients.
 
 **PYQ — UPPCS Prelims 2019, Q134**
 

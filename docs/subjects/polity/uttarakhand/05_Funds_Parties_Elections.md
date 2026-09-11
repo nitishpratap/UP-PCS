@@ -2,7 +2,7 @@
 
 ### ★ UKPCS state card (Unit 3)
 
-> **Syllabus heads:** Consolidated Fund · Contingency Fund · Political Parties · Election.  
+> **Syllabus heads:** Consolidated Fund · Contingency Fund · Political Parties · Election. 
 > **First Finance Commission name-trap:** see [Topic 1](01_Constitutional_Framework_of_Uttarakhand.md) Q135.
 
 ---
@@ -63,10 +63,10 @@
 
 **Q1.** Advances for unforeseen state expenditure pending legislative authorisation come from the:
 
-A. Consolidated Fund only  
-B. Contingency Fund of the State  
-C. Public Account only  
-D. Consolidated Fund of India  
+A. Consolidated Fund only 
+B. Contingency Fund of the State 
+C. Public Account only 
+D. Consolidated Fund of India 
 
 <details>
 <summary>Show answer</summary>

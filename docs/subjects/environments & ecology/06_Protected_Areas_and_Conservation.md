@@ -104,7 +104,7 @@ Wildlife Sanctuary | National Park | Biosphere Reserve | Conservation Reserve | 
 - India's first national park was **Hailey National Park**, now **Corbett National Park (1936)** in Uttarakhand.
 - Uttar Pradesh's major national park is **Dudhwa National Park** in the Terai (rhino rehabilitation from **1984**).
 
-> **Logic:** UPPCS 2025 Q90 tests NP location matching. Keoladeo is in **Rajasthan**. Dachigam is in **Jammu & Kashmir**.
+> **Logic:** tests NP location matching. Keoladeo is in **Rajasthan**. Dachigam is in **Jammu & Kashmir**.
 
 **PYQ — UPPCS Prelims 2025, Q90**
 
@@ -163,8 +163,6 @@ D. 4 2 1 3
 | 16 | Cold Desert | Himachal Pradesh |
 | 17 | Seshachalam Hills | Andhra Pradesh |
 | 18 | Panna | Madhya Pradesh |
-
-> ** note:** UPPCS 2025 Q144 — **Nokrek–Manipur** pair is **NOT** correctly matched.
 
 **PYQ — UPPCS Prelims 2025, Q144**
 
@@ -276,8 +274,6 @@ D. Only 1 and 3
 - **Uttar Pradesh has 12 Ramsar sites**.
 - **Rudrasagar Lake** is in **Tripura**, not UP.
 - **Sultanpur National Park** is in **Haryana**, not UP.
-
-> ** note:** UPPCS 2025 Q58 — NOT in UP: **Rudrasagar** and **Sultanpur**.
 
 **PYQ — UPPCS Prelims 2025, Q58**
 

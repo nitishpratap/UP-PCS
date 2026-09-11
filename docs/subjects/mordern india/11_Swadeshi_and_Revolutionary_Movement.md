@@ -99,7 +99,7 @@ Partition of Bengal | Swadeshi Movement | Delhi Durbar | Revolutionary Organisat
 - UP was a centre for Kakori, Shahjahanpur and Allahabad.
 - London had India House. North America had Ghadar. Berlin had the **1915** committee.
 
-> ** note:** Extremist Congress politics ≠ revolutionary secret societies. Tilak is Extremist; Kakori is revolutionary.
+> **Logic:** Extremist Congress politics ≠ revolutionary secret societies. Tilak is Extremist; Kakori is revolutionary.
 
 ---
 
@@ -120,17 +120,17 @@ Partition of Bengal | Swadeshi Movement | Delhi Durbar | Revolutionary Organisat
 - Partition became effective on **16 October 1905**. A new province, **East Bengal and Assam**, was created with capital at **Dacca (Dhaka)**; western Bengal stayed linked with Bihar and Orissa under Calcutta.
 - **16 October 1905** was observed as a day of mourning. People tied **Rakhi** across communities as a sign of unity, and Tagore's ***Amar Sonar Bangla*** became the protest anthem.
 - Anti-Partition protest fused at once with **Swadeshi and boycott** — bonfires of foreign cloth, volunteer samitis and the Boycott Resolution all grew out of this anger (full card in 11.3).
-- **2019 Q95:** both statements are true — Curzon rearranged provincial boundaries, **and** East Bengal & Assam was constituted.
-- Partition is Curzon's stock matching act (**2025 Q40**).
+- Both statements are true — Curzon rearranged provincial boundaries, **and** East Bengal & Assam was constituted.
+- Partition of Bengal is Curzon's best-known administrative act.
 
 **Results**
 
 - Partition failed to kill Bengali political unity. It instead produced the largest mass protest India had yet seen, feeding both open Swadeshi politics and the underground revolutionary stream (11.5 onward).
 - Facing sustained agitation, the British **annulled the Partition in 1911** at the Delhi Durbar. The same package **moved the imperial capital from Calcutta to Delhi**.
 - Annulment did not erase the communal politics that Partition had stirred; the Muslim League's separate political identity had already begun to harden by 1906.
-- **Lucknow Pact is 1916**, not 1911 (**2025 Q6**) — do not merge it with the annulment package.
+- **Lucknow Pact is 1916**, not 1911 — do not merge it with the annulment package.
 
-> ** note:** Partition **1905** / annulment **1911**. New province = **East Bengal and Assam**.
+> **Logic:** Partition **1905** / annulment **1911**. New province = **East Bengal and Assam**.
 
 **PYQ — UPPCS Prelims 2019, Q95**
 
@@ -198,7 +198,7 @@ D. Neither 1 nor 2
 - Tagore's song and the Rakhi ceremony fused **cultural** protest with the **political** boycott.
 - Aurobindo is the bridge figure: he ran the open National College **and** moved through the secret Jugantar circle before he left politics for good.
 
-> ** note:** Boycott Resolution = **7 Aug 1905**. NCE = **1906**. Swaraj as Congress goal = **Calcutta 1906**. Match leader ↔ role, not leader ↔ organisation names alone.
+> **Logic:** Boycott Resolution = **7 Aug 1905**. NCE = **1906**. Swaraj as Congress goal = **Calcutta 1906**. Match leader ↔ role, not leader ↔ organisation names alone.
 
 ---
 
@@ -212,13 +212,13 @@ D. Neither 1 nor 2
 - The Durbar of **1911** had two key facts.
 - **Partition of Bengal was annulled**.
 - The **capital shifted from Calcutta to Delhi**.
-- **2025 Q6:** of (1) partition revoked (2) capital to Delhi (3) Lucknow Pact — only **1 and 2** belong to 1911. Lucknow Pact = **1916**.
+- The **1911** Delhi Durbar package linked partition annulment and capital shift to Delhi — not the Lucknow Pact (**1916**).
 - On **12 December 1911** George V announced annulment and the capital move; the transfer was completed in **1912** under **Hardinge II**.
 - Annulment reunited Bengal roughly. **Bihar and Orissa** became a separate province (**from 1 April 1912**). Assam was restored toward its earlier separate status.
 - Do not treat 1911 as “nothing changed,” and do not put the **Lucknow Pact** in the Durbar year.
 - The new capital project at Delhi is Hardinge’s years (later New Delhi inauguration is 1931 — not this card’s fact).
 
-> ** note:** 1911 = **annulment + capital to Delhi**. Not Lucknow Pact. Not Partition year (that is 1905).
+> **Logic:** 1911 = **annulment + capital to Delhi**. Not Lucknow Pact. Not Partition year (that is 1905).
 
 **PYQ — UPPCS Prelims 2025, Q6**
 
@@ -264,7 +264,7 @@ D. Only 1
 - That line is HRA, then Kakori, then HSRA, then Saunders, the Assembly bomb, Lahore and Chittagong.
 - Azad was killed in **1931**.
 
-> ** note:** Match **org ↔ event**, not long biographies. UP’s scoring event is **Kakori**.
+> **Logic:** Match **org ↔ event**, not long biographies. UP’s scoring event is **Kakori**.
 
 ---
 
@@ -279,12 +279,12 @@ D. Only 1
 - This is the **Delhi Conspiracy**.
 - **Rash Behari Bose** planned it.
 - **Basanta Kumar Biswas** threw it.
-- **2023 Q42** asks which organisation — answer **Anushilan Samiti**, not Jugantar, not a labour body.
+- The Hardinge bomb (**1912**, Delhi Conspiracy) is linked to **Anushilan Samiti**, not Jugantar and not a labour body.
 - The **Barrah (Barra) Dacoity** of **1908** in East Bengal was planned by **Pulin Behari Das**’s Dhaka Anushilan circle as an early major armed venture for funds and arms.
 - **Sachindra Nath Sanyal** opened an Anushilan branch at **Patna in 1913**.
 - Do not merge Anushilan with the later HSRA of Punjab–UP.
 
-> ** note:** Hardinge bomb **1912** = **Anushilan**. Jugantar is the other Bengal circle.
+> **Logic:** Hardinge bomb **1912** = **Anushilan**. Jugantar is the other Bengal circle.
 
 **PYQ — UPPCS Prelims 2023, Q42**
 
@@ -329,7 +329,7 @@ D. Yugantar
 - **Jatindranath Mukherjee (Bagha Jatin)** later reorganised the **Yugantar** wartime line and died in **1915** fighting.
 - Surviving Jugantar men later fed into wartime plots and, through personal links, into the 1930 Chittagong generation. For Prelims, keep Jugantar tied to **Muzaffarpur + Alipore + Yugantar paper**.
 
-> ** note:** Khudiram–Chaki = **Muzaffarpur 1908**. Hardinge 1912 = **Anushilan**, not Jugantar, in the 2023 key.
+> **Logic:** Khudiram–Chaki = **Muzaffarpur 1908**. Hardinge 1912 = **Anushilan**, not Jugantar, in the 2023 key.
 
 ---
 
@@ -338,7 +338,7 @@ D. Yugantar
 **Abhinav Bharat:** **V.D. Savarkar** founded **Mitra Mela (1899)** and converted it into the secret **Abhinav Bharat Society (1904)** in Maharashtra (branches also in Madhya Pradesh and Karnataka); a London branch worked from **India House (1906)**
 **India House:Shyamji Krishna Varma**, London (Indian Home Rule Society, scholarships, *Indian Sociologist*)
 
-- **2018 Q22:** Abhinav Bharat founder = **Savarkar**, not Bhagat Singh, not Barindra, not Pulin Behari.
+- **Abhinav Bharat** was founded by **V.D. Savarkar**, not Bhagat Singh, Barindra Ghosh or Pulin Behari Das.
 - In **1909** at Nasik, **Anant Kanhere** killed Collector **Jackson**.
 - Abhinav Bharat men were tried.
 - In **1909** in London, **Madan Lal Dhingra** killed **Curzon Wyllie** at the Imperial Institute.
@@ -346,7 +346,7 @@ D. Yugantar
 - Savarkar also wrote ***The Indian War of Independence*** (1909).
 - He also wrote on **Mazzini** to inspire nationalists. Arrested in London for the **Nasik Conspiracy**, he jumped from a ship trying to escape and was re-arrested, then sent to the Andamans.
 
-> ** note:** Abhinav Bharat = **Savarkar**. India House = **Shyamji Krishna Varma**. Dhingra ≠ Bhagat Singh.
+> **Logic:** Abhinav Bharat = **Savarkar**. India House = **Shyamji Krishna Varma**. Dhingra ≠ Bhagat Singh.
 
 **PYQ — UPPCS Prelims 2018, Q22**
 
@@ -383,7 +383,7 @@ D. Pulin Bihari
 - She also worked as a private secretary to **Dadabhai Naoroji** for a time.
 - Do not confuse her Stuttgart flag (1907) with the **Berlin Committee** (1915), a separate, later wartime plot in Europe.
 
-> ** note:** Cama = **1907 Stuttgart flag**, Paris base. Berlin Committee = **1915** wartime plot, different generation of émigré politics.
+> **Logic:** Cama = **1907 Stuttgart flag**, Paris base. Berlin Committee = **1915** wartime plot, different generation of émigré politics.
 
 ---
 
@@ -404,9 +404,9 @@ D. Pulin Bihari
 **Results**
 
 - The planned rising failed and collapsed in **February 1915**. Many Ghadarites were hanged or jailed in the **Lahore Conspiracy** trials that followed.
-- Surviving members and sympathisers later fed into the wartime **Berlin Committee** network — a related but separate story (11.11). **2022 Q38** places Ghadar **before** Berlin.
+- Surviving members and sympathisers later fed into the wartime **Berlin Committee** network — a related but separate story (11.11). Ghadar (**1913**) came **before** the Berlin Committee (**1915**).
 
-> ** note:** Ghadar = **1913 San Francisco**. Berlin Committee = **1915**. Order in 2022: Ghadar → Berlin → Assembly 1929 → Chittagong 1930.
+> **Logic:** Ghadar = **1913 San Francisco**. Berlin Committee = **1915**. Order in 2022: Ghadar → Berlin → Assembly 1929 → Chittagong 1930.
 
 **PYQ — UPPCS Prelims 2022, Q38**
 
@@ -447,7 +447,7 @@ D. III, I, II and IV
 - The plan failed to trigger a mass rising, but it kept revolutionary diplomacy alive through the war years.
 - Keep Berlin **1915** distinct from Ghadar **1913** (America) and from Cama's Stuttgart flag **1907** (pre-war).
 
-> ** note:** Berlin Committee **1915** = wartime Europe plot. **2022 Q38** order: Ghadar (1913) → Berlin (1915) → Assembly bomb (1929) → Chittagong (1930).
+> **Logic:** Berlin Committee **1915** = wartime Europe plot. Chronology: Ghadar (1913) → Berlin (1915) → Assembly bomb (1929) → Chittagong (1930).
 
 ---
 
@@ -460,7 +460,7 @@ D. III, I, II and IV
 - **Kakori (1925)** is an **HRA** action. Labelling Kakori as HSRA is a trap.
 - After Kakori hangings, **Chandrashekhar Azad** kept the underground alive and moved it toward HSRA.
 
-> ** note:** HRA **1924**. Kakori **1925** = HRA. HSRA **1928**.
+> **Logic:** HRA **1924**. Kakori **1925** = HRA. HSRA **1928**.
 
 ---
 
@@ -470,7 +470,7 @@ D. III, I, II and IV
 **Turn:** HRA renamed; **socialist** goal added
 **Leaders:Chandrashekhar Azad**, **Bhagat Singh**, **Sukhdev**, **Rajguru**, **Bhagwati Charan Vohra**
 
-- **Naujawan Bharat Sabha** was founded in **1926** at **Lahore** as the open youth front. **Bhagat Singh**, **Yashpal** and **Chhabil Das** were early members; **Ambika Chakravarti** of Chittagong was **not** (**2021 Q108**).
+- **Naujawan Bharat Sabha** was founded in **1926** at **Lahore** as the open youth front. **Bhagat Singh**, **Yashpal** and **Chhabil Das** were early members; **Ambika Chakravarti** of Chittagong was **not** among them.
 
 **Saunders killing and the Central Assembly Bomb — Cause**
 
@@ -492,7 +492,7 @@ D. III, I, II and IV
 - **Inquilab Zindabad** was coined by **Hasrat Mohani**; **Bhagat Singh** made it the revolutionary slogan.
 - Bhagat Singh held that **criticism and independent thinking** are indispensable qualities of a revolutionary.
 
-> ** note:** Assembly bomb **1929** = HSRA. Saunders **1928** = HSRA. Kakori **1925** = HRA.
+> **Logic:** Assembly bomb **1929** = HSRA. Saunders **1928** = HSRA. Kakori **1925** = HRA.
 
 **PYQ — UPPCS Prelims 2021, Q108**
 
@@ -541,7 +541,7 @@ D. Ambika Chakravarti
 - **Rajendra Lahiri** was hanged on **17 December 1927** at **Gonda**; **Thakur Roshan Singh** was hanged on **19 December 1927** at **Naini (Allahabad)**.
 - **Azad escaped** the hangings, rebuilt the underground into HSRA, and died at **Alfred Park, Allahabad, on 27 February 1931**.
 
-> ** note:** Kakori = **1925 HRA**. Birth **Shahjahanpur** ≠ hanging **Gorakhpur**. Not Surya Sen. Not HSRA by name.
+> **Logic:** Kakori = **1925 HRA**. Birth **Shahjahanpur** ≠ hanging **Gorakhpur**. Not Surya Sen. Not HSRA by name.
 
 ---
 
@@ -565,9 +565,9 @@ D. Ambika Chakravarti
 
 - **Surya Sen** was captured in **1933** and hanged in **1934**, ending the Chittagong network as an organised force.
 - **Ambika Chakravarti** belongs to this Chittagong circle — the reason he is the odd man out in the 1926 Naujawan Sabha question.
-- **2022 Q38:** Chittagong is **last** among Ghadar, Berlin, Assembly bomb, and Chittagong in chronological order.
+- Chronology: Ghadar (**1913**) → Berlin Committee (**1915**) → Assembly bomb (**1929**) → Chittagong (**1930**).
 
-> ** note:** Chittagong = **18 April 1930 + Surya Sen**. Not Kakori. Not Bhagat Singh's Assembly action.
+> **Logic:** Chittagong = **18 April 1930 + Surya Sen**. Not Kakori. Not Bhagat Singh's Assembly action.
 
 ---
 
@@ -622,7 +622,7 @@ D. Ambika Chakravarti
 
 ### Kanpur Conspiracy Case (1924)
 - Early **communist** case, not HRA. Accused included **Muzaffar Ahmed, S.A. Dange, Shaukat Usmani, Nalini Gupta**.
-- **2021 Q86:M.A. Ansari** was **NOT** associated.
+- **M.A. Ansari** was **not** among the early AITUC presidents.
 
 ### Mainpuri Conspiracy (1918)
 
@@ -1401,7 +1401,9 @@ D. 3, 1, 2, 4
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** **Ghadar (1913) → Berlin Committee (1915) → Assembly bomb (1929) → Chittagong (1930)** — UPPCS Prelims **2022 Q38** order.
+**Logic:** Ghadar (1913) → Berlin Committee (1915) → Assembly bomb (1929) → Chittagong (1930).
+
+**Ans: B.** **Ghadar (1913) → Berlin Committee (1915) → Assembly bomb (1929) → Chittagong (1930)**
 
 </details>
 
@@ -2000,7 +2002,7 @@ D. 4 2 3 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — **2025 Q40** code **4 3 2 1**.
+**Ans: A** — Partition annulment and capital shift (**1911**) → Home Rule (**1916**) → Montagu–Chelmsford (**1919**) → Bengal Partition (**1905**).
 
 </details>
 

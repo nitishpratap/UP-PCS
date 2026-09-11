@@ -84,7 +84,7 @@ Sharqi Sultanate (Jaunpur) | Kashmir under Zain-ul-Abidin | Gujarat Sultanate (q
 
 > **Logic:** Siraj-e-Hind is true because Jaunpur was a great education and culture centre under the Sharqis (**UP R.O./A.R.O. 2023** — both true, R explains A).
 
-> ** note:Lal Darwaza–Jaunpur** is **correct**. Do not confuse it with **Tin Darwaza–Ahmedabad**: Tin Darwaza stands at **Bidar Fort**, while Ahmedabad has **Teen Darwaza**. Among Topic-3 states, only **Sharqi Jaunpur** lies in modern **Uttar Pradesh**.
+> **Logic:**Lal Darwaza–Jaunpur** is **correct**. Do not confuse it with **Tin Darwaza–Ahmedabad**: Tin Darwaza stands at **Bidar Fort**, while Ahmedabad has **Teen Darwaza**. Among Topic-3 states, only **Sharqi Jaunpur** lies in modern **Uttar Pradesh**.
 
 ### PYQ — Sharqi monuments
 
@@ -156,7 +156,7 @@ D. IV, III, I, II
 - He built dams, canals, and **Zaina Lanka**, an island in **Wular Lake**.
 - He defeated the Ladakh Mongols and expanded influence over Baltistan, Jammu, and Rajauri.
 
-> ** note:UPPCS 2023 Q36** asks who abolished **jaziya and cow slaughter**. The answer is **Zain-ul-Abidin only**.
+> **Logic:** **Zain-ul-Abidin (Bud Shah)** alone abolished **jaziya** and banned **cow slaughter** in Kashmir.
 
 ### PYQ — Zain-ul-Abidin A/R
 
@@ -204,7 +204,7 @@ D. Haider Shah
 
 **Why:** Zain-ul-Abidin (Bud Shah, 1420–1470) abolished **jaziya**, banned **cow slaughter**, and **restored temples** after **Sikandar Shah's** intolerant phase.
 
-**Trap:** Sikandar Shah (B)** did the **opposite** — forced conversions and temple destruction. Do not pick him when the stem asks who **abolished** both taxes.
+**Trap:** **Sikandar Shah** did the **opposite** — forced conversions and temple destruction. **Zain-ul-Abidin (Bud Shah)** abolished **jaziya** and banned **cow slaughter**.
 
 </details>
 
@@ -339,7 +339,7 @@ D. Haider Shah
 - He died in **1529**, and his brother **Achyuta Raya** succeeded him.
 - Later, the **Rama Raya** regency led the empire toward Talikota.
 
-> ** note:** The founders of Vijayanagara were **Harihara I and Bukka I**, not Krishnadevaraya. The **nayankara** system belongs to **Vijayanagara**, not to the Delhi **iqta** or the Mughal **jagir**. **Amuktamalyada** was written by Krishnadevaraya in Telugu; **Kitab-i-Nauras** was written by **Ibrahim Adil Shah II** of Bijapur.
+> **Logic:** The founders of Vijayanagara were **Harihara I and Bukka I**, not Krishnadevaraya. The **nayankara** system belongs to **Vijayanagara**, not to the Delhi **iqta** or the Mughal **jagir**. **Amuktamalyada** was written by Krishnadevaraya in Telugu; **Kitab-i-Nauras** was written by **Ibrahim Adil Shah II** of Bijapur.
 
 ---
 
@@ -440,9 +440,9 @@ D. Haider Shah
 | **Riyaz-ul-Insha** | Collection of **Mahmud Gawan's letters and state papers** | Bahmani administration; **not** Bengal history |
 | **Riyaz-us-Salatin** | History of **Bengal** | Trap: sounds like Riyaz-ul-Insha but is a **different book** |
 | **Burhan-e-Masir** | Chronicle of **Ahmadnagar** | Nizam Shahi successor state, not Bahmani court letters |
-| **Mirat-e-Sikandari** | **Gujarat** victory narrative | Regional history; match with Gujarat in 2023 Q33 |
+| **Mirat-e-Sikandari** | **Gujarat** victory narrative | Regional history; match with Gujarat |
 
-> ** note:Hasan Gangu** founded the Bahmani Kingdom. **Mahmud Gawan** was a minister, not the founder. In **2023 Q33**, the correct match is Mirat-e-Sikandari with Gujarat victory, Burhan-e-Masir with Ahmadnagar, Riyaz-us-Salatin with Bengal, and Riyaz-ul-Insha with Gawan's letters. The answer is **A (4-2-1-3)**.
+> **Logic:** **Hasan Gangu** founded the Bahmani Kingdom; **Mahmud Gawan** was a minister. **Mirat-e-Sikandari** narrates the **Gujarat** victory; **Burhan-e-Masir** covers **Ahmadnagar**; **Riyaz-us-Salatin** is **Bengal** history; **Riyaz-ul-Insha** collects **Gawan's** letters.
 
 ### PYQ — Mahmud Gawan A/R
 
@@ -564,7 +564,7 @@ D. 4-2-3-1
 
 - **Fathullah Imad-ul-Mulk** founded the **Imad Shahi** line at **Ellichpur** in **Berar**.
 - Berar was the **smallest** of the five successor states and was absorbed early by other Deccan powers.
-- It rarely appears alone in UPPCS stems but completes the **five-sultanate** count after **1518**.
+- It rarely appears alone in match lists but completes the **five-sultanate** count after **1518**.
 
 ### Literary works of the Deccan Sultanates
 
@@ -574,7 +574,7 @@ D. 4-2-3-1
 | **Burhan-e-Masir** | Court chronicle of **Ahmadnagar** | Nizam Shahi history |
 | **Amuktamalyada** | **Krishnadevaraya** of Vijayanagara | Telugu epic — cross-trap with Kitab-i-Nauras |
 
-> ** note:** Do not confuse **Bidar**, the Bahmani and later Barid Shahi centre, with **Bijapur**, the Adil Shahi capital. **Kitab-i-Nauras** was written by **Ibrahim Adil Shah II of Bijapur**, not by Krishnadevaraya.
+> **Logic:** Do not confuse **Bidar**, the Bahmani and later Barid Shahi centre, with **Bijapur**, the Adil Shahi capital. **Kitab-i-Nauras** was written by **Ibrahim Adil Shah II of Bijapur**, not by Krishnadevaraya.
 
 ### PYQs — Deccan Sultanates
 
@@ -634,7 +634,7 @@ D. Shayasta Khan
 - The **Aravidu** dynasty retreated to **Penukonda and Chandragiri**, while **nayakas** became independent in Madurai, Tanjore, and Gingee.
 - Talikota ended Vijayanagara as a **great power**, even though the empire survived in name until **1646**.
 
-> ** note:Talikota (1565)** is not the same as **Raichur (1520)**, which was Krishnadevaraya's victory. **Rama Raya** was killed at Talikota; Krishnadevaraya had died in **1529**.
+> **Logic:**Talikota (1565)** is not the same as **Raichur (1520)**, which was Krishnadevaraya's victory. **Rama Raya** was killed at Talikota; Krishnadevaraya had died in **1529**.
 
 ### PYQ — Talikota A/R
 
@@ -1417,7 +1417,7 @@ D. Tin Darwaza — Ahmedabad
 
 **Why wrong:** Tin Darwaza is at **Bidar Fort**, not Ahmedabad. **Lal Darwaza–Jaunpur** and **Atala–Jaunpur** are correct Sharqi pairs.
 
-**Trap:** UPPCS 2018 Q19 — candidates mark **Lal Darwaza** wrong because they confuse it with **Tin/Teen Darwaza** gates.
+**Trap:** Do not mark **Lal Darwaza (Jaunpur)** wrong by confusing it with **Tin/Teen Darwaza** gates.
 
 </details>
 
@@ -1429,7 +1429,7 @@ Options: A.1-3-2 | B.3-1-2 | C.1-2-3 | D.2-1-3
 
 **Ans: A (1-3-2)Order:Atala Mosque Jaunpur** (~15th c.) → **Sher Shah's Tomb** (1545) → **Humayun's Tomb** (1565).
 
-**Trap:** Sher Shah's tomb predates Humayun's by **20 years** — do not place Humayun first (2019 Q91 logic).
+**Trap:** Sher Shah's tomb at **Sasaram (1545)** predates **Humayun's Tomb (1565)** by about **20 years**.
 
 </details>
 
@@ -1469,7 +1469,7 @@ D. Haider Shah
 
 **Why:** Zain-ul-Abidin (Bud Shah) abolished **jaziya** and **cow slaughter** and restored temples after **Sikandar Shah's** intolerant phase.
 
-**Trap:** Sikandar Shah** did the opposite — UPPCS 2023 Q36 tests the **reversal** under Bud Shah.
+**Trap:** **Sikandar Shah** forced conversions and temple destruction; **Zain-ul-Abidin (Bud Shah)** reversed those policies.
 
 </details>
 
@@ -1649,7 +1649,7 @@ D. Telugu epic
 
 **Why:** Riyaz-ul-Insha is a collection of **Mahmud Gawan's letters and state papers**, not a regional history.
 
-**Trap:** Riyaz-us-Salatin** = **Bengal** history — the similar title is the 2023 Q33 headline trap.
+**Trap:** **Riyaz-us-Salatin** = **Bengal** history — do not confuse with **Riyaz-ul-Insha** (Gawan's letters).
 
 </details>
 
@@ -1669,7 +1669,7 @@ D. Zain-ul-Abidin
 
 **Why:** Ibrahim Adil Shah II of **Bijapur** authored **Kitab-i-Nauras**, a musical-devotional song collection.
 
-**Trap:** Krishnadevaraya** wrote **Amuktamalyada** — UPPCS 2020 Q44 swaps these Deccan book facts.
+**Trap:** **Krishnadevaraya** wrote **Amuktamalyada** in Telugu; **Ibrahim Adil Shah II** wrote **Kitab-i-Nauras**.
 
 </details>
 
@@ -1689,7 +1689,7 @@ D. Ali Adil Shah II
 
 **Why:** Abul Hasan Qutb Shah was the **last Qutb Shahi** ruler when Aurangzeb captured Golkonda in **1687**.
 
-**Trap:** Muhammad Quli Qutb Shah** (Charminar, 1591) ruled a century earlier — UPPCS 2020 Q34 tests the **1687** fact.
+**Trap:** **Muhammad Quli Qutb Shah** built **Charminar (1591)**; **Aurangzeb** captured **Golconda in 1687**.
 
 </details>
 
@@ -2033,7 +2033,7 @@ Options: A.2-1 | B.1-2 | C.2-2 | D.1-1
 
 **Facts:** A **Mirat-e-Sikandari** → **2** Gujarat victory | B **Riyaz-ul-Insha** → **1** Gawan's letters
 
-**Trap:** Full 2023 Q33 adds **Riyaz-us-Salatin (Bengal)** and **Burhan-e-Masir (Ahmadnagar)** — know the mini-match too.
+**Trap:** Know the full regional-history match: **Riyaz-us-Salatin (Bengal)** and **Burhan-e-Masir (Ahmadnagar)** alongside Gujarat and Gawan's letters.
 
 </details>
 
@@ -2306,5 +2306,5 @@ A. Both true, R explains A | B. Both true, R not explanation | C. A true, R fals
 13. **Siraj/Shiraz-i-Hind** = Jaunpur under **Ibrahim Shah**; education/culture explains the title.
 14. **Yusuf Adil Shah ≠ Ahmadnagar**; **Jagatguru / Kitab-i-Nauras / Nauraspur** = **Ibrahim Adil Shah II** of Bijapur.
 15. **Gol Gumbad** = **Muhammad Adil Shah** (Bijapur). **Bahadur Shah** of Gujarat gave **Diu** to the Portuguese.
-16. **Malik Sarwar ≠ Malwa**. **Zain-ul-Abidin** abolished jizya and cow slaughter (**UPPCS 2023**).
+16. **Malik Sarwar ≠ Malwa**. **Zain-ul-Abidin (Bud Shah)** abolished **jaziya** and banned **cow slaughter** in Kashmir.
 

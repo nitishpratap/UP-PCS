@@ -1,8 +1,8 @@
 # Natural Resources & Environment of Uttarakhand (UKPCS)
 
-**Exam track:** UKPCS Unit 5 — Natural Resources of Uttarakhand and climate contribution.  
-**Parent subject:** [Environment & Ecology](../00_Syllabus.md)  
-**Desk:** [UKPCS Syllabus](../../../ukpcs/00_Syllabus.md)  
+**Exam track:** UKPCS Unit 5 — Natural Resources of Uttarakhand and climate contribution. 
+**Parent subject:** [Environment & Ecology](../00_Syllabus.md) 
+**Desk:** [UKPCS Syllabus](../../../ukpcs/00_Syllabus.md) 
 **PYQ drill:** [UKPCS Environment PYQ Bank](00_UKPCS_PYQ_Bank_Environment.md)
 
 ## Heads stored in this folder

@@ -2,7 +2,7 @@
 
 ### ★ UKPCS state card (Unit 1 / Unit 6 culture hooks)
 
-> **Pair with:** [Dances, Music & Fairs](02_Dances_Music_and_Fairs.md) · [Heritage](03_Heritage_and_Cultural_Institutes.md)  
+> **Pair with:** [Dances, Music & Fairs](02_Dances_Music_and_Fairs.md) · [Heritage](03_Heritage_and_Cultural_Institutes.md) 
 > **Political dynasties:** stay in Medieval / Modern UK folders.
 
 ---
@@ -73,10 +73,10 @@
 
 **Q1.** Aipan is best described as:
 
-A. A classical SNA dance of Uttarakhand  
-B. Kumaon ritual floor and wall art  
-C. A UNESCO mountain railway  
-D. A Tehri princely court title  
+A. A classical SNA dance of Uttarakhand 
+B. Kumaon ritual floor and wall art 
+C. A UNESCO mountain railway 
+D. A Tehri princely court title 
 
 <details>
 <summary>Show answer</summary>
@@ -89,10 +89,10 @@ D. A Tehri princely court title
 
 **Q2.** Chholiya is associated with:
 
-A. Odisha Chhau only  
-B. Kumaon wedding / sword folk dance  
-C. Kathakali  
-D. Manipuri Ras  
+A. Odisha Chhau only 
+B. Kumaon wedding / sword folk dance 
+C. Kathakali 
+D. Manipuri Ras 
 
 <details>
 <summary>Show answer</summary>

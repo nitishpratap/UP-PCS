@@ -2,7 +2,7 @@
 
 ### ★ UKPCS state card
 
-> **High-yield 2025 stems:** UNESCO sites in UK (Q52) · Garhwal painting / Tasbirdar (Q85) · Pushpesh Pant book (Q49) · central institutes mismatch (Q54).  
+> **High-yield 2025 stems:** UNESCO sites in UK (Q52) · Garhwal painting / Tasbirdar (Q85) · Pushpesh Pant book (Q49) · central institutes mismatch (Q54). 
 > **Also:** Ramman UNESCO ICH · Dehradun cultural–science institutes.
 
 ---
@@ -17,7 +17,7 @@
 | Garhwal painting origin | **Shyamdas & Hardas**, May **1658**, court of **Prithvipati Shah**, post **Tasbirdar** |
 | Named later master | **Mola Ram** |
 | Pushpesh Pant | UK-linked author — food / cuisine history |
-| Book NOT by him (2025 Series B) | **Himalaya Ke Barf** (option **C**) |
+| Book NOT by him | **Himalaya Ke Barf** (not his work) |
 | Known titles in stem | Lazzatnama; From the King's Table to Street Food |
 | FRI | **Dehradun** |
 | NIH | **Roorkee** |
@@ -88,15 +88,15 @@
 
 Which of the following UNESCO World Heritage Sites is/are located in Uttarakhand?
 
-1. Valley of Flowers  
-2. Kaziranga National Park  
-3. Mountain Railways of India  
-4. Nanda Devi National Park  
+1. Valley of Flowers 
+2. Kaziranga National Park 
+3. Mountain Railways of India 
+4. Nanda Devi National Park 
 
-A. A only  
-B. A and B only  
-C. A, B and C only  
-D. A and D only  
+A. A only 
+B. A and B only 
+C. A, B and C only 
+D. A and D only 
 
 <details>
 <summary>Show answer</summary>
@@ -114,10 +114,10 @@ Consider the following statements about the ‘Garhwal painting’ style:
 1. Shyamdas and Hardas came to Srinagar in May 1658 in the court of Prithivipati Shah.
 2. They got the post of ‘Tasbirdaar’ in the court of the art-loving Garhwal kings.
 
-A. Only 1  
-B. Only 2  
-C. 1 and 2  
-D. None of the above  
+A. Only 1 
+B. Only 2 
+C. 1 and 2 
+D. None of the above 
 
 <details>
 <summary>Show answer</summary>
@@ -132,10 +132,10 @@ D. None of the above
 
 Which one of the following books is NOT written by Pushpesh Pant, a noted author of Uttarakhand?
 
-A. From the King's Table to Street Food  
-B. Victory Mantra: The Leader's Path to Success  
-C. Himalaya Ke Barf  
-D. Lazzatnama  
+A. From the King's Table to Street Food 
+B. Victory Mantra: The Leader's Path to Success 
+C. Himalaya Ke Barf 
+D. Lazzatnama 
 
 <details>
 <summary>Show answer</summary>
@@ -150,10 +150,10 @@ D. Lazzatnama
 
 Which of the following is incorrectly matched about central government institutes located in Uttarakhand?
 
-A. Archaeological Survey of India — Dehradun  
-B. National Institute of Hydrology — Roorkee  
-C. Forest Research Institute — Dehradun  
-D. Directorate of Coldwater Fisheries — Haldwani  
+A. Archaeological Survey of India — Dehradun 
+B. National Institute of Hydrology — Roorkee 
+C. Forest Research Institute — Dehradun 
+D. Directorate of Coldwater Fisheries — Haldwani 
 
 <details>
 <summary>Show answer</summary>

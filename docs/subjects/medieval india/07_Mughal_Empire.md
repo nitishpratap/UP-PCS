@@ -27,7 +27,7 @@ Babur | Establishment of the Mughal Empire | Literary Contribution of Babur | Ma
 8. **Daurah (1532)** was Humayun versus Afghan chiefs; do not confuse it with **Dharmat (April 1658)**, Aurangzeb versus Jaswant Singh.
 9. Battle chronology fact: **Daurah 1532 → Chausa 1539 → Kannauj 1540 → Samugarh 1658**.
 10. At the **Second Battle of Panipat on 5 November 1556**, Akbar and **Bairam Khan** defeated **Hemu** and secured the throne.
-11. **Bairam Khan** received the title **Khan-i-Khana** from **Akbar** — **UPPCS Prelims 2024 Q4** answer **C (Only 1)**; statement 2 in that stem is false.
+11. **Bairam Khan** received the title **Khan-i-Khana** from **Akbar** — only that statement is true; the claim that the title came when he was appointed Vazir is false.
 12. Akbar's **mansabdari** used dual ranks **zat** and **sawar**; the system was **not hereditary**.
 13. **Todar Mal**'s **zabt** measured land for a cash demand; **dahsala (1580–81)** used a **10-year average** of yield and price.
 14. Akbar continued Sher Shah's coinage: silver **rupiya**, copper **dam** (about **1/40** of a rupiya), and gold **mohur**.
@@ -35,7 +35,7 @@ Babur | Establishment of the Mughal Empire | Literary Contribution of Babur | Ma
 16. Akbar made **Fatehpur Sikri** capital about **1571–85** and built **Allahabad/Ilahabad fort in 1583**.
 17. **Sulh-i-Kul** was Akbar's universal peace policy; **Din-i-Ilahi (1582)** remained only a small court circle.
 18. Akbar abolished **jizya in 1564**; Aurangzeb **reimposed** it in **1679**.
-19. Court death order (**UPPCS 2024 Q132**, answer **C (2-3-1-4)**): **Sheikh Mubarak 1593 → Faizi 1595 → Abul Fazl murdered 1602 → Daniyal 1605**.
+19. Court death order: **Sheikh Mubarak 1593 → Faizi 1595 → Abul Fazl murdered 1602 → Daniyal 1605**.
 20. **Abul Fazl** wrote *Akbarnama* and *Ain-i-Akbari*; **Abdur Rahim Khan-i-Khana** translated Baburnama into Persian.
 21. **William Hawkins** reached Jahangir in **1608** speaking Turkish; **Sir Thomas Roe** stayed at court **1615–19**.
 22. Shah Jahan's **Nahr-i-Bihisht** in Shahjahanabad drew water from the restored **Firuz Rajabwah**.
@@ -100,7 +100,7 @@ Babur | Establishment of the Mughal Empire | Literary Contribution of Babur | Ma
 - Babur wrote the **Baburnama** in **Chagatai Turki**. The later Mughal **court language** was **Persian**, not Turki.
 - Babur’s early land assignments were **iqta-like**. The full **mansabdari** system belongs to **Akbar**, not Babur.
 
-> ** note:** Establishment year = **1526 Panipat**, not Khanwa 1527.
+> **Logic:** Establishment year = **1526 Panipat**, not Khanwa 1527.
 
 ### PYQ — Baburnama language A/R
 
@@ -168,7 +168,7 @@ D. Both true, R explains A
 | **1539** | Chausa | Sher Shah vs Humayun | Humayun escaped Ganga |
 | **1540** | Kannauj / **Bilgram** | Sher Shah vs Humayun | Exile begins |
 | **1556** | Panipat II | Akbar/Bairam vs **Hemu** | Mughal restoration |
-| **1572** | **Sarnal** | Akbar (Gujarat) | 2019 Q13 |
+| **1572** | **Sarnal** | Akbar (Gujarat) | Akbar's Gujarat victory |
 | **1658 Apr** | **Dharmat** | Aurangzeb vs Jaswant Singh | Near Ujjain |
 | **1658 May** | **Samugarh** | Aurangzeb vs Dara | Near Agra |
 | **1659** | **Deorai** | Aurangzeb vs Dara | Ajmer |
@@ -179,7 +179,7 @@ D. Both true, R explains A
 - Another common order is **Bilgram (1540)** → **Sarnal (1572)** → **Dharmat (1658)** → **Jajau (1707)**.
 - Aurangzeb’s succession sequence runs **Shuja beaten near Banaras** → **Dharmat** → **Samugarh** → **Deorai**.
 
-### PYQ — Battle chronology (2025 Q79 / 2019 Q13 / 2022 Q103)
+### PYQ — Battle chronology
 
 **1. (UPPCS Prelims 2025, Q79)** Arrange: 1.Kannauj 2.Daurah 3.Samugarh 4.Chausa
 
@@ -194,9 +194,8 @@ Options: A.2-4-3-1 | B.4-2-1-3 | C.4-2-3-1 | D.2-4-1-3
 
 </details>
 
-**2. (UPPCS Prelims 2019, Q13)** I Sarnal II Bilgram III Dharmat IV Jajau — answer **A (II-I-III-IV)**.
-
-**3. (UPPCS Prelims 2022 Q103)** Shuja beaten Banaras → Dharmat → Samugarh → Deorai = **A (2-4-3-1)**.
+- Another battle chronology spine: **Bilgram/Kannauj (1540)** → **Sarnal (1572)** → **Dharmat (1658)** → **Jajau (1707)**.
+- Aurangzeb's succession order: **Shuja beaten near Banaras** → **Dharmat (Apr 1658)** → **Samugarh (May 1658)** → **Deorai (1659)**.
 
 ---
 
@@ -212,9 +211,9 @@ Options: A.2-4-3-1 | B.4-2-1-3 | C.4-2-3-1 | D.2-4-1-3
 - Humayun remained in exile from **1540 to 1555**. **Safavid** Shah Tahmasp helped his return. He won **Sirhind on 22 June 1555** and recaptured **Delhi and Agra**.
 - Humayun died in **January 1556** (tradition: fell on the stairs of the Dinpanah library).
 - **Haji Begum (Bega Begum)** built **Humayun’s Tomb** at Delhi — the first **double-dome** Mughal mausoleum. Architect **Mirak Mirza Ghiyas** designed it in Akbar’s reign. It became the garden-tomb prototype for the Taj Mahal.
-- **Hamida Banu** was Humayun’s wife. **Gulbadan** was his sister and author of *Humayunnama*. The **UPPCS Prelims 2019 Q16** pair matching them is **correct**.
-- **Bairam Khan** was regent for minor Akbar. **Akbar** gave him the title **Khan-i-Khana** — **UPPCS Prelims 2024 Q4**, answer **C (Only 1)**; statement 2 is false.
-- **UPPCS Prelims 2023 Q34** tests family pairs: **Hamida Banu** was Humayun’s wife, **not** Alauddin Khalji’s.
+- **Hamida Banu** was Humayun’s wife. **Gulbadan** was his sister and author of *Humayunnama*.
+- **Bairam Khan** was regent for minor Akbar. **Akbar** gave him the title **Khan-i-Khana** — only statement 1 is true; statement 2 is false.
+- **Hamida Banu** was Humayun’s wife, **not** Alauddin Khalji’s.
 
 ---
 
@@ -342,7 +341,7 @@ D. A false, R true
 
 - The empire supported **maktab** and **madrasa** education alongside Ibadat Khana debates.
 - The **Razmnama** is the Persian Mahabharata. Akbar introduced the **Ilahi calendar in 1584** and celebrated imperial **Nauroz**.
-- **Kavindra Acharya Saraswati** of Banaras was patronised by **Shah Jahan** — the fact in **UPPCS Prelims 2022 Q146**, answer **A**.
+- **Kavindra Acharya Saraswati** of Banaras was patronised by **Shah Jahan**.
 - Dara Shikoh wrote *Majma-ul-Bahrain* and translated the Upanishads into Persian as *Sirr-i-Akbar*.
 
 ### PYQ — Buland Darwaza A/R
@@ -402,7 +401,7 @@ D. Both true, R explains A
 
 | Person | Role |
 |--------|------|
-| **Bairam Khan** | Regent; **Khan-i-Khana from Akbar** — **UPPCS 2024 Q4** answer **C (Only 1)**; statement 2 false |
+| **Bairam Khan** | Regent; **Khan-i-Khana from Akbar** — only statement 1 true; statement 2 false |
 | **Abul Fazl** | *Akbarnama* + *Ain-i-Akbari*; murdered **1602** (Bir Singh Bundela / Salim) |
 | **Faizi** | Brother; poet laureate; died **1595** |
 | **Sheikh Mubarak** | Father of Faizi/Abul Fazl; died **1593** |
@@ -413,7 +412,7 @@ D. Both true, R explains A
 | **Tansen** | Dhrupad Navratna; earlier **Bhata/Rewa** (Topic 6) |
 | **Daniyal** | Akbar’s son; died **1605** |
 
-- **UPPCS Prelims 2024 Q132** death order: **Sheikh Mubarak (1593)** → **Faizi (1595)** → **Abul Fazl murdered (1602)** → **Daniyal (1605)**; answer **C (2-3-1-4)**.
+- Court death order: **Sheikh Mubarak (1593)** → **Faizi (1595)** → **Abul Fazl murdered (1602)** → **Daniyal (1605)**.
 
 ---
 
@@ -1473,9 +1472,9 @@ Options: A.4-3-2-1 | B.3-4-1-2 | C.3-4-2-1 | D.4-3-1-2
 
 <details><summary>Show answer</summary>
 
-**Ans: A** — 2025 Q57.
+**Logic:** Tomb locations: **Babur–Kabul**, **Humayun–Delhi**, **Jahangir–Lahore**, **Shah Jahan–Agra**.
 
-**Why:** Babur–Kabul (4), Humayun–Delhi (3), Jahangir–Lahore (2), Shah Jahan–Agra (1).
+**Ans: A.** Babur–Kabul (4), Humayun–Delhi (3), Jahangir–Lahore (2), Shah Jahan–Agra (1).
 
 **Trap:** Akbar tomb Sikandra is outside this four-option list.
 
@@ -1527,7 +1526,7 @@ D. Only 2
 
 <details><summary>Show answer</summary>
 
-**Ans: C (Only 1)** — 2024 Q4; **Akbar** gave **Khan-i-Khanan**.
+**Ans: C (Only 1)** — **Akbar** gave **Khan-i-Khanan**; statement 2 is false.
 
 **Why:** Only statement 1 is true; statement 2 is false per Ghatnachakra key.
 
@@ -1547,9 +1546,9 @@ D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: A** — 2019 Q92.
+**Logic:** Mansabdari started under Akbar; mansab was **not hereditary**.
 
-**Why:** Mansabdari started under Akbar; mansab was **not hereditary**.
+**Ans: A.** Mansabdari started under Akbar; mansab was **not hereditary**.
 
 **Trap:** Zamindari was hereditary; mansab died with holder or on dismissal.
 
@@ -1581,9 +1580,9 @@ Options: A.2-4-3-1 | B.1-3-4-2 | C.3-4-2-1 | D.4-2-1-3
 
 <details><summary>Show answer</summary>
 
-**Ans: A** — 2022 Q103.
+**Logic:** Aurangzeb succession order: Shuja beaten near Banaras → Dharmat (Apr 1658) → Samugarh (May 1658) → Deorai (1659).
 
-**Why:** Shuja beaten near Banaras → Dharmat (Apr 1658) → Samugarh (May 1658) → Deorai (1659).
+**Ans: A.** Shuja beaten near Banaras → Dharmat → Samugarh → Deorai.
 
 **Trap:** Do not start with Samugarh or Deorai — Shuja was beaten first.
 
@@ -1601,9 +1600,9 @@ D. Shayasta Khan
 
 <details><summary>Show answer</summary>
 
-**Ans: A** — 2020 Q34.
+**Logic:** When Aurangzeb captured **Golkonda in 1687**, the last ruler was **Abul Hasan Qutb Shah**.
 
-**Why:** 2020 Q34.
+**Ans: A.** **Abul Hasan Qutb Shah** was the last Qutb Shah ruler.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -1621,9 +1620,9 @@ D. Nahr-i-Agra
 
 <details><summary>Show answer</summary>
 
-**Ans: C** — 2020 Q42.
+**Logic:** **Nahr-i-Bihisht** in Shahjahanabad drew water from the restored **Firuz Rajabwah**.
 
-**Why:** 2020 Q42.
+**Ans: C.** **Nahr-i-Bihisht** used water from the restored **Firuz Rajabwah**.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -1641,9 +1640,9 @@ D. Humayun
 
 <details><summary>Show answer</summary>
 
-**Ans: A** — 2022 Q146.
+**Logic:** **Kavindra Acharya Saraswati** of Banaras was patronised by **Shah Jahan**.
 
-**Why:** 2022 Q146.
+**Ans: A.** **Shah Jahan** patronised **Kavindra Acharya Saraswati**.
 
 **Trap:** Music-treatise match: Raga Vibodh = Somanath (not Khusrau).
 
@@ -1661,9 +1660,9 @@ D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: B** — 2023 Q31; arrived **1608**.
+**Logic:** **William Hawkins** reached India in **1608**, not 1611; he was well versed in Turkish.
 
-**Why:** 2023 Q31; arrived **1608**.
+**Ans: B.** Hawkins arrived **1608**; statement 1 (1611 envoy) is false.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -1675,7 +1674,7 @@ Options: A.2-1-4-3 | B.3-2-1-4 | C.2-3-1-4 | D.2-4-3-1
 
 <details><summary>Show answer</summary>
 
-**Ans: C (2-3-1-4)** — 2024 Q132: Mubarak **1593** → Faizi **1595** → Abul Fazl **1602** → Daniyal **1605**.
+**Ans: C (2-3-1-4)** — Mubarak **1593** → Faizi **1595** → Abul Fazl **1602** → Daniyal **1605**.
 
 **Why:** Mubarak dies before Faizi in the Ghatnachakra key.
 
@@ -1689,9 +1688,9 @@ Options: A.I-II-IV-III | B.IV-II-III-I | C.II-I-III-IV | D.III-IV-II-I
 
 <details><summary>Show answer</summary>
 
-**Ans: B** — 2019 Q91.
+**Logic:** Monument order: **Atala Jaunpur** → **Sher Shah Sasaram (1545)** → **Humayun Delhi (1565)** → **Rabia Daurani (1678)**.
 
-**Why:** 2019 Q91.
+**Ans: B.** Atala Jaunpur → Sher Shah → Humayun → Rabia Daurani.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -1703,9 +1702,9 @@ Options: A.II-I-III-IV | B.II-III-IV-I | C.III-II-I-IV | D.III-I-II-IV
 
 <details><summary>Show answer</summary>
 
-**Ans: A** — 2019 Q13.
+**Logic:** Battle order: **Bilgram/Kannauj (1540)** → **Sarnal (1739)** → **Dharmat (1658)** → **Jajau (1707)**.
 
-**Why:** 2019 Q13.
+**Ans: A.** Bilgram → Sarnal → Dharmat → Jajau.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -1831,9 +1830,9 @@ D. Nur Jahan — Jahangir’s wife
 
 <details><summary>Show answer</summary>
 
-**Ans: C** — 2023 Q34 pattern.
+**Logic:** **Hamida Banu Begum** was **Humayun's** wife, not **Alauddin Khalji's**.
 
-**Why:** 2023 Q34 pattern.
+**Ans: C.** **Hamida Banu** = Humayun's wife.
 
 **Trap:** Re-read Confused Pairs before eliminating.
 
@@ -2425,14 +2424,14 @@ D. Neither 1 nor 2
 
 ## Common Traps — Don't Fall For These
 
-1. **Baburnama** was written in **Chagatai Turki**, but the Mughal **court language** was **Persian** (**UPPCS Prelims 2025 Q3**).
-2. **Buland Darwaza** commemorates Akbar's **Gujarat victory of 1572**, not Jahangir's birth (**UPPCS Prelims 2025 Q49**).
+1. **Baburnama** was written in **Chagatai Turki**, but the Mughal **court language** was **Persian**.
+2. **Buland Darwaza** commemorates Akbar's **Gujarat victory of 1572**, not Jahangir's birth.
 3. **Daurah (1532)** is Humayun's early victory; **Dharmat (1658)** is Aurangzeb's succession battle. Do not swap them.
-4. In **UPPCS Prelims 2025 Q79**, when Kannauj, Daurah, Samugarh, and Chausa appear together, the order is Daurah, Chausa, Kannauj, Samugarh; answer **D (2-4-1-3)**.
-5. **Bairam Khan** — **UPPCS Prelims 2024 Q4** answer **C (Only 1)**: **Akbar** gave **Khan-i-Khanan**; statement 2 is false.
-6. **Mansab** was **not hereditary** under Akbar (**UPPCS Prelims 2019 Q92**).
+4. When Kannauj, Daurah, Samugarh, and Chausa appear together, chronological order is **Daurah (1532) → Chausa (1539) → Kannauj (1540) → Samugarh (1658)**.
+5. **Akbar** gave **Bairam Khan** the title **Khan-i-Khanan** — only statement 1 is true; statement 2 is false.
+6. **Mansab** was **not hereditary** under Akbar.
 7. **Ain-i-Akbari** is an administrative gazetteer; **Akbarnama** is narrative biography.
-8. **William Hawkins** reached India in **1608**, not 1611 (**UPPCS Prelims 2023 Q31**).
+8. **William Hawkins** reached India in **1608**, not 1611.
 9. **Hamida Banu Begum** was **Humayun's** wife, not Alauddin Khalji's.
 10. When Aurangzeb captured **Golkonda in 1687**, the last ruler was **Abul Hasan Qutb Shah**, not an Adil Shahi sultan.
 11. **Nahr-i-Bihisht** in Shahjahanabad used water from the restored **Firuz Rajabwah**; it was not a wholly new Akbar-era canal.

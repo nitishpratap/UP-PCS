@@ -1,8 +1,8 @@
 # Political System of Uttarakhand (UKPCS)
 
-**Exam track:** UKPCS Unit 3 — Political System of Uttarakhand.  
-**Parent subject:** [Polity](../00_Syllabus.md)  
-**Desk:** [UKPCS Syllabus](../../../ukpcs/00_Syllabus.md)  
+**Exam track:** UKPCS Unit 3 — Political System of Uttarakhand. 
+**Parent subject:** [Polity](../00_Syllabus.md) 
+**Desk:** [UKPCS Syllabus](../../../ukpcs/00_Syllabus.md) 
 **PYQ drill:** [UKPCS Polity PYQ Bank](00_UKPCS_PYQ_Bank_Polity.md)
 
 ## Heads stored in this folder

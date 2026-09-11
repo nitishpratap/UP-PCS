@@ -2,7 +2,7 @@
 
 ### ★ UKPCS state card (Unit 2)
 
-> **High-yield 2025:** sex-ratio order (Q111) · Vanrawats (Q113).  
+> **High-yield 2025:** sex-ratio order (Q111) · Vanrawats (Q113). 
 > **Airports / cities:** [Transport & Tourism](07_Transport_Tourism_Natural_Hazards.md).
 
 ---
@@ -113,10 +113,10 @@
 
 Which group of districts is in descending order of sex ratio as per Census 2011?
 
-A. Almora, Rudraprayag, Tehri Garhwal, Haridwar  
-B. Tehri Garhwal, Almora, Haridwar, Rudraprayag  
-C. Almora, Haridwar, Rudraprayag, Tehri Garhwal  
-D. Haridwar, Rudraprayag, Almora, Tehri Garhwal  
+A. Almora, Rudraprayag, Tehri Garhwal, Haridwar 
+B. Tehri Garhwal, Almora, Haridwar, Rudraprayag 
+C. Almora, Haridwar, Rudraprayag, Tehri Garhwal 
+D. Haridwar, Rudraprayag, Almora, Tehri Garhwal 
 
 <details>
 <summary>Show answer</summary>
@@ -129,13 +129,13 @@ D. Haridwar, Rudraprayag, Almora, Tehri Garhwal
 
 **UKPCS Prelims 2025, Q113**
 
-Statement 1: Vanrawats are dwellers of the Pithoragarh district.  
+Statement 1: Vanrawats are dwellers of the Pithoragarh district. 
 Statement 2: They practised shifting cultivation until it was banned by the forest department.
 
-A. Both correct  
-B. Only 1 correct  
-C. Only 2 correct  
-D. Both incorrect  
+A. Both correct 
+B. Only 1 correct 
+C. Only 2 correct 
+D. Both incorrect 
 
 <details>
 <summary>Show answer</summary>
@@ -152,10 +152,10 @@ D. Both incorrect
 
 **Q1.** Vanrawats (Raji) of Uttarakhand are primarily associated with:
 
-A. Haridwar Tarai only  
-B. Pithoragarh forest belt  
-C. Dehradun dun alone  
-D. Nainital lake towns only  
+A. Haridwar Tarai only 
+B. Pithoragarh forest belt 
+C. Dehradun dun alone 
+D. Nainital lake towns only 
 
 <details>
 <summary>Show answer</summary>
@@ -168,10 +168,10 @@ D. Nainital lake towns only
 
 **Q2.** Compact nucleated villages on terrace slopes are most typical of:
 
-A. High alpine ice fields only  
-B. Mid-hill agricultural belts  
-C. Only the Indo-Gangetic megacities outside the state  
-D. Only industrial estates of Rudrapur  
+A. High alpine ice fields only 
+B. Mid-hill agricultural belts 
+C. Only the Indo-Gangetic megacities outside the state 
+D. Only industrial estates of Rudrapur 
 
 <details>
 <summary>Show answer</summary>

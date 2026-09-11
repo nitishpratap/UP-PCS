@@ -2,7 +2,7 @@
 
 ### ★ UKPCS state card (Unit 1)
 
-> **Weight:** High for UKPCS state history.  
+> **Weight:** High for UKPCS state history. 
 > **Pair with:** national [Post-Mauryan India](../08_Post_Mauryan_India.md) (tribal republics / coinage age).
 
 ---
@@ -82,10 +82,10 @@
 
 In the Mahabharata, by what name were the Kuninda kings known?
 
-A. Sarvasrestha  
-B. Madhyam  
-C. Dwij Srestha  
-D. Dwij  
+A. Sarvasrestha 
+B. Madhyam 
+C. Dwij Srestha 
+D. Dwij 
 
 <details>
 <summary>Show answer</summary>
@@ -100,10 +100,10 @@ D. Dwij
 
 By which name did the Chinese traveller Hiuen-Tsang address the Kumaon region?
 
-A. Kartikeyapur  
-B. Brahampur / Brahmapura  
-C. Taleshwar  
-D. Pandukeshwar  
+A. Kartikeyapur 
+B. Brahampur / Brahmapura 
+C. Taleshwar 
+D. Pandukeshwar 
 
 <details>
 <summary>Show answer</summary>
@@ -120,10 +120,10 @@ D. Pandukeshwar
 
 **Q1.** Kuninda power is best placed in which broad phase?
 
-A. Sultanate period  
-B. Early historic / post-Mauryan coin age  
-C. Gorkha rule  
-D. British Garhwal only  
+A. Sultanate period 
+B. Early historic / post-Mauryan coin age 
+C. Gorkha rule 
+D. British Garhwal only 
 
 <details>
 <summary>Show answer</summary>
@@ -136,10 +136,10 @@ D. British Garhwal only
 
 **Q2.** Yaudheyas are correctly described as:
 
-A. A Delhi Sultanate iqta  
-B. A warrior gana / tribal republic tradition  
-C. A Chola naval guild  
-D. A Mughal mansabdar clan  
+A. A Delhi Sultanate iqta 
+B. A warrior gana / tribal republic tradition 
+C. A Chola naval guild 
+D. A Mughal mansabdar clan 
 
 <details>
 <summary>Show answer</summary>

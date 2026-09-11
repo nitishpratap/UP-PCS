@@ -2,7 +2,7 @@
 
 ### ★ UKPCS state card (Unit 3)
 
-> **High-yield 2025 stem:** Uttarakhand Human Rights Commission (Q140).  
+> **High-yield 2025 stem:** Uttarakhand Human Rights Commission (Q140). 
 > **Syllabus:** Lok Aayukt · Citizen Charter · E-Governance · RTI · Samadhan Yojna · rights (education, employment, development).
 
 ---
@@ -51,7 +51,7 @@
 ## Must-Score Facts
 
 1. UHRC = **13 May 2013**.
-2. Q140 = Both statements correct.
+2. Both UHRC-date and related governance statements can be true together — do not reject one automatically.
 3. Lokayukta ≠ UHRC.
 4. Samadhan / Citizen Charter = grievance–service governance, not fundamental rights text.
 5. National Lokpal / RTE / NITI stems → parent Topics 13 / 05 / 19.
@@ -69,10 +69,10 @@ Consider the following statements:
 1. Uttarakhand Human Rights Commission came into existence on May 13, 2013.
 2. The objective of the UHRC was to bring about greater accountability and transparency in governance.
 
-A. Only 1  
-B. Only 2  
-C. Both 1 and 2  
-D. Neither 1 nor 2  
+A. Only 1 
+B. Only 2 
+C. Both 1 and 2 
+D. Neither 1 nor 2 
 
 <details>
 <summary>Show answer</summary>

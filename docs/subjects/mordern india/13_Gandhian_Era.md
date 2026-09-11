@@ -105,7 +105,7 @@ Gandhi's leadership did **not** run as one continuous mass agitation. It moved t
 | Constructive decade | 1934–39 | Gandhi steps back from direct command; builds village-level programme | Khadi, Harijan work, Nai Talim 1937 |
 | Bridge to World War II | 1940 | Symbolic protest replaces mass movement during wartime | August Offer rejected → Individual Satyagraha |
 
-> ** note:** This chapter's story does not stop in 1934 or 1940 — Cripps (1942), Quit India (1942) and the endgame (1945–47) are the direct continuation, taught in full in **Topic 14**.
+> **Logic:** This chapter's story does not stop in 1934 or 1940 — Cripps (1942), Quit India (1942) and the endgame (1945–47) are the direct continuation, taught in full in **Topic 14**.
 
 ---
 
@@ -131,7 +131,7 @@ Gandhi's leadership did **not** run as one continuous mass agitation. It moved t
 | 1940 | August Offer (8 Aug); Individual Satyagraha (Oct) |
 | 1942+ | Cripps, Quit India, Cabinet Mission — later phase, full cards in **Topic 14** |
 
-> ** note:** Drill **2025 Q7** and **2021 Q28** until automatic. Cripps, Wavell and Cabinet Mission belong to Topic 14, but this chapter's own 1940 bridge (August Offer, Individual Satyagraha) must be scored here, not skipped.
+> **Logic:** Drill Gandhi-era chronology until automatic: Simon → Nehru Report → Sharda Act → Dandi → Gandhi–Irwin Pact → CDM end → Poona Pact. Cripps, Wavell and Cabinet Mission belong to Topic 14, but this chapter's own 1940 bridge (August Offer, Individual Satyagraha) must be scored here, not skipped.
 
 **PYQ — UPPCS Prelims 2025, Q7**
 
@@ -175,7 +175,7 @@ D. 3, 4, 1, 2
 - **Gopal Krishna Gokhale** is his political guru. Gokhale told him to spend the first year in India with **ears open and mouth shut**.
 - In **1915** he founded **Satyagraha Ashram** at Ahmedabad (Kocharab); on **17 June 1917** it moved to the **Sabarmati** bank and became known as Sabarmati Ashram.
 
-> ** note:** Birth **Porbandar 1869**. Return **1915**. First Indian satyagraha still **Champaran 1917**.
+> **Logic:** Birth **Porbandar 1869**. Return **1915**. First Indian satyagraha still **Champaran 1917**.
 
 ---
 
@@ -194,7 +194,7 @@ D. 3, 4, 1, 2
 - He toured for a year on Gokhale's advice and made **Sabarmati** his ashram.
 - **Gokhale** is his political guru tag.
 
-> ** note:** South Africa = the laboratory of satyagraha. First Indian satyagraha is **Champaran 1917**, not 1915.
+> **Logic:** South Africa = the laboratory of satyagraha. First Indian satyagraha is **Champaran 1917**, not 1915.
 
 ---
 
@@ -216,7 +216,7 @@ D. 3, 4, 1, 2
 - Politics for him meant **public welfare**, with **decentralisation** to village panchayats. Ideal politics mixes **ethics, religion and humanity** — not naked **authority**.
 - Ends and means must match. That is why he withdrew NCM after **Chauri Chaura**.
 
-> ** note:** Satyagraha ≠ Extremism (boycott politics) ≠ revolutionary bombs.
+> **Logic:** Satyagraha ≠ Extremism (boycott politics) ≠ revolutionary bombs.
 
 ---
 
@@ -246,7 +246,7 @@ D. 3, 4, 1, 2
 - The government inquiry broke the *tinkathia* system, and the **Champaran Agrarian Act** followed in **1918**, giving peasants relief from forced indigo cultivation.
 - Do **not** merge this with the **Indigo Revolt of 1859–60**. That was Bengal, under the Biswas brothers.
 
-> ** note:** Champaran **1917** = Gandhi + tinkathia + Bihar.
+> **Logic:** Champaran **1917** = Gandhi + tinkathia + Bihar.
 
 ### Kheda (1918)
 
@@ -281,7 +281,7 @@ D. 3, 4, 1, 2
 
 - The strike ended in a settlement generally remembered as around a **35%** wage rise.
 
-> ** note:** 1917 Champaran → 1918 Kheda and Ahmedabad. Three early satyagrahas before Rowlatt.
+> **Logic:** 1917 Champaran → 1918 Kheda and Ahmedabad. Three early satyagrahas before Rowlatt.
 
 ---
 
@@ -296,7 +296,7 @@ D. 3, 4, 1, 2
 - In **1934** Gandhi resigned formal Congress membership; at Independence he was **not** a Congress office-bearer, though his guidance still shaped politics.
 - After the assassination (**30 January 1948**, **Nathuram Godse**), Nehru said **"the light has gone out of our lives."**
 
-> ** note:** Father of the Nation = **Bose's phrase**. Mahatma = **Tagore's Champaran-era tag**. Dinbandhu = **Andrews**.
+> **Logic:** Father of the Nation = **Bose's phrase**. Mahatma = **Tagore's Champaran-era tag**. Dinbandhu = **Andrews**.
 
 ---
 
@@ -321,7 +321,7 @@ D. 3, 4, 1, 2
 - Gandhi suspended the wider satyagraha after violence broke out in several cities, an early sign of the same discipline he later enforced after Chauri Chaura.
 - The Act is **not** the 1919 GOI Act (Montagu–Chelmsford dyarchy) — two separate 1919 laws.
 
-> ** note:** Rowlatt **1919** = no-trial detention. GOI Act 1919 = dyarchy. Two different 1919s.
+> **Logic:** Rowlatt **1919** = no-trial detention. GOI Act 1919 = dyarchy. Two different 1919s.
 
 ---
 
@@ -340,14 +340,14 @@ D. 3, 4, 1, 2
 **Result**
 
 - The **Hunter Committee (1919)**, chaired by Lord **William Hunter**, inquired into the firing and the wider Punjab disturbances. It censured Dyer for excessive force but did **not** recommend his prosecution; Dyer instead became a hero to many in Britain through the Morning Post fund.
-- **Rabindranath Tagore returned his knighthood** in protest (**2022 Q83**); **Chettur Sankaran Nair** resigned from the **Viceroy's Executive Council** (**2025 Q135 — Only 1**). He is **not** the knighthood answer.
+- **Rabindranath Tagore returned his knighthood** in protest in protest; **Chettur Sankaran Nair** resigned from the **Viceroy’s Executive Council** (not the knighthood response). He is **not** the knighthood answer.
 - Gandhi returned his **Kaiser-i-Hind** medal. Jallianwala, together with the Khilafat grievance, pushed him toward launching Non-Cooperation.
 - Arrested local leaders **Dr Saifuddin Kitchlew** and **Dr Satyapal** were the immediate protest context of the Bagh gathering.
 - **Montagu** called the massacre **Preventive Murder**. Gandhi drafted the **Congress inquiry** report on the massacre.
 - **Udham Singh** later killed **Michael O’Dwyer** in London (**1940**).
 - Do **not** confuse the 1919 inquiry with the **Hunter Commission (Indian Education Commission), 1882**, chaired by **W.W. Hunter**, which reviewed education under Ripon — same surname, sixty years apart, unrelated subjects.
 
-> ** note:** Tagore = **knighthood**. Sankaran Nair = **Executive Council resignation**. Hunter Committee = **1919 firing inquiry**, not the 1882 education body.
+> **Logic:** Tagore = **knighthood**. Sankaran Nair = **Executive Council resignation**. Hunter Committee = **1919 firing inquiry**, not the 1882 education body.
 
 **PYQ — UPPCS Prelims 2022, Q83**
 
@@ -422,7 +422,7 @@ D. Only 1
 - He was jailed, and used the time to write *My Experiments with Truth*.
 - **Belgaum 1924** later became his **only** Congress presidentship, and NCM's abrupt end fed directly into the Gaya split over what Congress should do next (13.9).
 
-> ** note:** NCM withdrawn after **Chauri Chaura 1922**, not after Jallianwala. UP geography = **Gorakhpur**.
+> **Logic:** NCM withdrawn after **Chauri Chaura 1922**, not after Jallianwala. UP geography = **Gorakhpur**.
 
 ---
 
@@ -446,7 +446,7 @@ D. Only 1
 
 - The joint Hindu–Muslim front held together through 1922, but it lost its cause when **Turkey itself abolished the Caliphate in 1924**, and the movement dissolved without leaving a lasting communal alliance behind.
 
-> ** note:** Khilafat + NCM = **1920–22 joint**. Khilafat starts **after** Home Rule (1916) and Jallianwala (1919) in the 2023 four-event set.
+> **Logic:** Khilafat + NCM = **1920–22 joint**. Khilafat starts **after** Home Rule (1916) and Jallianwala (1919) in the 2023 four-event set.
 
 ---
 
@@ -475,7 +475,7 @@ D. Only 1
 - **C.R. Das died in 1925**; Motilal's energy also declined, and the party faded through the late 1920s.
 - Do **not** confuse Swarajists with the **Congress Socialist Party (1934)** or with the **Swarajya Sabha**, the Home Rule League renamed in **1920**.
 
-> ** note:** Gaya **December 1922** = the split. Swaraj Party **January 1923** = the organised council-entry group. No-changers ≠ Pro-changers; C.R. Das was a **Pro-changer**, not a No-changer.
+> **Logic:** Gaya **December 1922** = the split. Swaraj Party **January 1923** = the organised council-entry group. No-changers ≠ Pro-changers; C.R. Das was a **Pro-changer**, not a No-changer.
 
 ---
 
@@ -490,7 +490,7 @@ D. Only 1
 - HSRA's Saunders murder is the sequel.
 - Simon's report fed the RTC process. **Nehru Report** was the Indian alternative constitution.
 
-> ** note:** Simon **appointed 1927**, in India **1928**. **2021 Q28** starts with Simon, then Nehru Report, Sharda, Dandi.
+> **Logic:** Simon **appointed 1927**, in India **1928**. Chronology: Simon → Nehru Report → Sharda Act → Dandi.
 
 ---
 
@@ -504,9 +504,9 @@ D. Only 1
 - Jinnah walked away. His **Fourteen Points (1929)** are the Muslim League counter.
 - **Jawaharlal Nehru** and **Subhas Bose** founded the **Independence for India League (1928)** to push **Purna Swaraj** against the dominion compromise.
 - Dominion status was still the Congress goal until **Lahore 1929** switched to **Purna Swaraj**.
-- **Sharda (Child Marriage Restraint) Act, 1929** sits between Nehru Report and Dandi in **2021 Q28**.
+- **Sharda (Child Marriage Restraint) Act, 1929** sits between Nehru Report (**1928**) and Dandi (**1930**).
 
-> ** note:** Nehru Report = **Motilal 1928 Dominion**. Purna Swaraj = **Jawaharlal / Lahore 1929**. Independence League = **Nehru–Bose 1928**.
+> **Logic:** Nehru Report = **Motilal 1928 Dominion**. Purna Swaraj = **Jawaharlal / Lahore 1929**. Independence League = **Nehru–Bose 1928**.
 
 **PYQ — UPPCS Prelims 2021, Q28**
 
@@ -547,7 +547,7 @@ D. I, IV, II and III
 - Gandhi followed up with an ultimatum to Irwin the next month — his **Eleven Points**, taught in full next.
 - They were ignored. **Dandi** followed.
 
-> ** note:** Purna Swaraj = **Lahore 1929**, not 1928 Nehru Report. 26 Jan 1930 = pledge day.
+> **Logic:** Purna Swaraj = **Lahore 1929**, not 1928 Nehru Report. 26 Jan 1930 = pledge day.
 
 ---
 
@@ -572,7 +572,7 @@ D. I, IV, II and III
 - The rejection gave Congress the moral ground to launch the **Civil Disobedience Movement**, opening with the **salt** demand because it touched every household.
 - The Eleven Points are **not** the same as Jinnah's **Fourteen Points (1929)** — those were the Muslim League's constitutional counter-demands to the Nehru Report, not an ultimatum to the Viceroy.
 
-> ** note:** Eleven Points = **Gandhi to Irwin, January 1930**. Fourteen Points = **Jinnah, 1929**, a different document to a different audience.
+> **Logic:** Eleven Points = **Gandhi to Irwin, January 1930**. Fourteen Points = **Jinnah, 1929**, a different document to a different audience.
 
 ---
 
@@ -593,7 +593,7 @@ D. I, IV, II and III
 - CDM then widened into defiance of forest laws, a no-tax campaign, boycott of foreign cloth and liquor, and women's picketing of shops selling foreign goods.
 - The **Vedaranyam March** in Tamil Nadu, led by **C. Rajagopalachari**, repeated the salt symbol in the south.
 - Subhas Bose likened the Dandi March to Napoleon’s march from **Elba to Paris**. At Dandi (**5 April**) Gandhi asked for “**world sympathy in this battle of Right against Might**.”
-- After Gandhi’s arrest (**5 May 1930**, Yeravada), **Abbas Tyabji** led, then **Sarojini Naidu** led the **Dharasana** raid; American journalist **Webb Miller** reported the beating (**2021 Q82**).
+- After Gandhi’s arrest (**5 May 1930**, Yeravada), **Abbas Tyabji** led, then **Sarojini Naidu** led the **Dharasana** raid; American journalist **Webb Miller** reported the beating at Dharasana.
 - **Khudai Khidmatgars (Red Shirts)** under **Khan Abdul Ghaffar Khan** carried NWFP into CDM. **Chandra Singh Garhwali**’s Garhwal riflemen refused to fire on an unarmed crowd at **Peshawar**.
 - Naga leader **Gaidinliu**’s **Jiatrang** stream in Manipur is a tribal CDM-side tag. After CDM’s ebb Gandhi shifted weight to constructive / Harijan work.
 
@@ -602,7 +602,7 @@ D. I, IV, II and III
 - Congress boycotted the **1st RTC (1930)** since CDM was still on.
 - CDM paused after the **Gandhi–Irwin Pact, March 1931**, resumed after the 2nd RTC failed to satisfy Congress, and was finally **withdrawn about April 1934** once repression and the Communal Award/Poona Pact years had drained its momentum.
 
-> ** note:** Dandi **1930** launches CDM. End of CDM is **1934**, after Poona Pact **1932**.
+> **Logic:** Dandi **1930** launches CDM. End of CDM is **1934**, after Poona Pact **1932**.
 
 **PYQ — UPPCS Prelims 2021, Q82**
 
@@ -638,7 +638,7 @@ D. Philip Sprat
 - Conference failed mainly on **communal** deadlock; **Ambedkar** pressed separate electorates for Depressed Classes — the road to the Communal Award.
 - **Ambedkar** (and often **Tej Bahadur Sapru**) attended **all three** RTCs. Congress skipped the **3rd** too.
 
-> ** note:** Gandhi attended **only the 2nd** RTC. Prasad is the 2020 odd man out.
+> **Logic:** Gandhi attended **only the 2nd** RTC. Prasad is the 2020 odd man out.
 
 **PYQ — UPPCS Prelims 2020, Q24**
 
@@ -671,7 +671,7 @@ D. Dr. Rajendra Prasad
 - **Karachi Congress (29–31 March 1931)**, President **Vallabhbhai Patel**, endorsed the pact and for the first time adopted **Fundamental Rights** and a **National Economic Programme** (drafted by **Nehru** with **M.N. Roy**’s help).
 - Bose later called Karachi the **pinnacle of Gandhi’s popularity**. Facing hostility after the hangings, Gandhi said Gandhi may die but **Gandhism** cannot.
 
-> ** note:** Gandhi–Irwin **March 1931** comes **before** 2nd RTC. Karachi **1931** = FR resolution.
+> **Logic:** Gandhi–Irwin **March 1931** comes **before** 2nd RTC. Karachi **1931** = FR resolution.
 
 ---
 
@@ -685,10 +685,10 @@ D. Dr. Rajendra Prasad
 - The **Poona Pact** kept **joint electorates** with **reserved seats**. Provincial seats rose from about **71 to 148** (some books say 147); about **18%** of central general seats is the usual note.
 - After the Pact Gandhi founded the **All India Anti-Untouchability League**, later **Harijan Sevak Sangh**; first President **G.D. Birla**. His weekly ***Harijan*** (1933) carried the campaign.
 - Ambedkar’s sharp line on Gandhi: Mahatmas raise **dust but not the level** (**fleeting phantoms** remark, 1931 conversation).
-- **2019 Q19:Communal Award 1933** is **NOT** correctly matched. Year is **1932**.
+- The **Communal Award** was announced on **16 August 1932**, not 1933.
 - Award ≠ Poona Pact. Award = separate electorates. Pact = reserved seats.
 
-> ** note:** Award **16 Aug 1932**. Pact **24 Sep 1932**. Not 1933.
+> **Logic:** Award **16 Aug 1932**. Pact **24 Sep 1932**. Not 1933.
 
 **PYQ — UPPCS Prelims 2019, Q19**
 
@@ -731,7 +731,7 @@ Gandhi built this list through the 1920s–30s and stated it most fully in a **1
 - **Service of Adivasis and lepers** — groups Gandhi flagged as neglected even by other reformers.
 - **Students** — keeping them linked to national work without abandoning study discipline.
 
-> ** note:** Constructive Programme is **daily nation-building work**, not a satyagraha. It is **not** the same as council entry — that was the Swarajists' method (13.9), not Gandhi's.
+> **Logic:** Constructive Programme is **daily nation-building work**, not a satyagraha. It is **not** the same as council entry — that was the Swarajists' method (13.9), not Gandhi's.
 
 **PYQ — UPPCS Prelims 2021, Q150 (Vaikom)**
 
@@ -767,7 +767,7 @@ D. Neither 1 nor 2
 - The **Muslim League also rejected it**, because it fell short of a clear commitment to Pakistan.
 - Its failure pushed Gandhi toward a **symbolic** protest rather than a mass movement, since Britain was fighting a war Congress did not want to sabotage outright.
 
-> ** note:** August Offer = **1940, Linlithgow**. Do not confuse with the **Cripps Mission, March 1942** — that full card is Topic 14's.
+> **Logic:** August Offer = **1940, Linlithgow**. Do not confuse with the **Cripps Mission, March 1942** — that full card is Topic 14's.
 
 ---
 
@@ -790,7 +790,7 @@ D. Neither 1 nor 2
 - The protest kept the demand for freedom alive without embarrassing the Allied war effort, and continued into 1941, losing intensity as the international war situation changed.
 - It served as a holding pattern until the deepening war forced Britain's hand, leading into the **Cripps Mission (1942)** and then **Quit India (1942)**, taught fully in **Topic 14**.
 
-> ** note:** Individual Satyagraha = **October 1940**, first satyagrahi **Vinoba Bhave** — not a mass CDM-style campaign. Continuity: WWII deepens after this into the **Cripps Mission (1942)** and **Quit India (1942)**, taught fully in **Topic 14**.
+> **Logic:** Individual Satyagraha = **October 1940**, first satyagrahi **Vinoba Bhave** — not a mass CDM-style campaign. Continuity: WWII deepens after this into the **Cripps Mission (1942)** and **Quit India (1942)**, taught fully in **Topic 14**.
 
 ---
 

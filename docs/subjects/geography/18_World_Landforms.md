@@ -914,7 +914,7 @@ Walk **equator → pole** (one row each):
 
 Code **2 3 1 4**.
 
-**Plant → region** (2019 Q3; paper The **Buobab** is baobab):
+**Plant → region**:
 
 | Plant | Region |
 |-------|--------|
@@ -935,7 +935,7 @@ Code **2 3 4 1**.
 - **Planting hearth** is C.O. **Sauer** (origin of agriculture).
 - **World floral regions** is Adolf **Engler**.
 - **Puszta** is Hungary (grassland, not a forest).
-- 2024 Q29 code **3 4 2 1**.
+- 
 
 **Inline PYQ — UPPCS Prelims 2019, Q1**
 
@@ -1057,7 +1057,7 @@ Trap **C** swaps Engler and Hungary.
 
 ## N.9 World Climatic Regions
 
-Pressure belts **follow the Sun**. At the **winter solstice** (NH December) they shift **south** — that is why Mediterranean west coasts get **winter** westerlies (2024 Q79 both true).
+Pressure belts **follow the Sun**. At the **winter solstice** (NH December) they shift **south** — that is why Mediterranean west coasts get **winter** westerlies.
 
 | Type (Köppen) | Where | Rain timing | Vegetation / crop |
 |---------------|-------|-------------|-------------------|

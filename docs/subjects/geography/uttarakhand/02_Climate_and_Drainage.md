@@ -2,7 +2,7 @@
 
 ### ★ UKPCS state card (Unit 2)
 
-> **High-yield 2025:** rivers west→east (Q109).  
+> **High-yield 2025:** rivers west→east (Q109). 
 > **Climate vulnerability / SCCC:** [Natural Hazards](07_Transport_Tourism_Natural_Hazards.md) (Q105–Q106).
 
 ---
@@ -138,10 +138,10 @@
 
 What is the correct order of rivers from west to east in Uttarakhand?
 
-A. Yamuna, Bhilangana, Alaknanda, Gori  
-B. Gori, Alaknanda, Bhilangana, Yamuna  
-C. Alaknanda, Bhilangana, Yamuna, Gori  
-D. Bhilangana, Yamuna, Gori, Alaknanda  
+A. Yamuna, Bhilangana, Alaknanda, Gori 
+B. Gori, Alaknanda, Bhilangana, Yamuna 
+C. Alaknanda, Bhilangana, Yamuna, Gori 
+D. Bhilangana, Yamuna, Gori, Alaknanda 
 
 <details>
 <summary>Show answer</summary>
@@ -158,10 +158,10 @@ D. Bhilangana, Yamuna, Gori, Alaknanda
 
 **Q1.** Bhagirathi and Alaknanda meet to form the Ganga at:
 
-A. Karnaprayag  
-B. Rudraprayag  
-C. Devprayag  
-D. Vishnuprayag  
+A. Karnaprayag 
+B. Rudraprayag 
+C. Devprayag 
+D. Vishnuprayag 
 
 <details>
 <summary>Show answer</summary>
@@ -174,10 +174,10 @@ D. Vishnuprayag
 
 **Q2.** At Vishnuprayag, the Alaknanda is joined by the:
 
-A. Mandakini  
-B. Pindar  
-C. Nandakini  
-D. Dhauliganga  
+A. Mandakini 
+B. Pindar 
+C. Nandakini 
+D. Dhauliganga 
 
 <details>
 <summary>Show answer</summary>

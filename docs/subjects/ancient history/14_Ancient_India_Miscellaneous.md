@@ -256,7 +256,7 @@ Taught in that order. World cores start with Mesopotamia, not with the later-fam
 
 - **Vishnu Purana** preserves a **Mauryan** genealogy. Statement 1 is **true**.
 - **Vayu Purana** is used for early dynastic lists, including Gupta **names**. It does **not** give a usable Gupta **system of governance**. Statement 2 is **false**.
-- The correct answer is **A — Only 1**. Both-correct is the bait.
+- Only statement 1 is correct; both-correct is the bait.
 
 ### Shriparvatiya
 
@@ -353,7 +353,7 @@ Indian materialism is the **Charvaka** school. Papers also call it **Lokayata** 
 - **Ramachandra** is the **Yadava** king of **Devagiri** (the man Alauddin squeezed).
 - Warangal’s last Kakatiya is **Prataparudra**, not Ramachandra.
 
-> ** note:** Warangal in Alauddin’s **conquest chronology** (2022 Q59, 2025 Q30) is a **Sultanate** question. The fact here is only: Deccan raid hits **Kakatiya Warangal** after the Rajput forts.
+> **Logic:** Warangal in Alauddin’s **conquest chronology** is a **Sultanate** question. The fact here is only: Deccan raid hits **Kakatiya Warangal** after the Rajput forts.
 
 ---
 
@@ -476,7 +476,6 @@ Teach in this order. Prataparudra II is the **last** king, not the founder.
 - The rough window is late centuries BCE to early centuries CE.
 - The structure fact is **120** *adhyayas* (chapters) in **8** *sthanas* (sections).
 - Options 100/5, 80/7, and 60/8 are all wrong distractors.
-- The answer is **A**.
 - The eight *sthanas* need not be recited unless a match-list appears.
 - The **count** is what UPPCS asked.
 - **Sushruta Samhita** is **surgery**, including rhinoplasty in the tradition.

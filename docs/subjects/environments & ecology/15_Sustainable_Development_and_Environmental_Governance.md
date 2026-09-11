@@ -326,10 +326,10 @@ UP department preparing SDG National Indicator Framework Progress Report:
 
 **Reason (R):** Agenda 21 was signed by world leaders in **1995**.
 
-A. Both (A) and (R) are true but (R) is not the correct explanation of (A).  
-B. (A) is false but (R) is true.  
-C. (A) is true but (R) is false.  
-D. Both (A) and (R) are true and (R) is the correct explanation of (A).  
+A. Both (A) and (R) are true but (R) is not the correct explanation of (A). 
+B. (A) is false but (R) is true. 
+C. (A) is true but (R) is false. 
+D. Both (A) and (R) are true and (R) is the correct explanation of (A). 
 
 <details>
 <summary>Show answer</summary>
@@ -350,10 +350,10 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A).
 
 **Reason (R):** The Brundtland Report is also known as *The Limits to Growth*.
 
-A. Both (A) and (R) are true but (R) is not the correct explanation of (A).  
-B. (A) is false but (R) is true.  
-C. Both (A) and (R) are true and (R) is the correct explanation of (A).  
-D. (A) is true but (R) is false.  
+A. Both (A) and (R) are true but (R) is not the correct explanation of (A). 
+B. (A) is false but (R) is true. 
+C. Both (A) and (R) are true and (R) is the correct explanation of (A). 
+D. (A) is true but (R) is false. 
 
 <details>
 <summary>Show answer</summary>
@@ -381,10 +381,10 @@ Match **SDG number** with **official goal name**:
 
 *Row order is not the answer code.*
 
-A. 1–C, 2–D, 3–B, 4–A  
-B. 1–D, 2–C, 3–A, 4–B  
-C. 1–A, 2–B, 3–C, 4–D  
-D. 1–B, 2–A, 3–D, 4–C  
+A. 1–C, 2–D, 3–B, 4–A 
+B. 1–D, 2–C, 3–A, 4–B 
+C. 1–A, 2–B, 3–C, 4–D 
+D. 1–B, 2–A, 3–D, 4–C 
 
 <details>
 <summary>Show answer</summary>
@@ -405,10 +405,10 @@ D. 1–B, 2–A, 3–D, 4–C
 
 **Reason (R):** India accounts for nearly **one-sixth** of the world's population.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A).  
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A).  
-C. (A) is true but (R) is false.  
-D. (A) is false but (R) is true.  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A). 
+B. Both (A) and (R) are true but (R) is not the correct explanation of (A). 
+C. (A) is true but (R) is false. 
+D. (A) is false but (R) is true. 
 
 <details>
 <summary>Show answer</summary>
@@ -427,10 +427,10 @@ D. (A) is false but (R) is true.
 
 The **SDG National Indicator Framework Progress Report** for Uttar Pradesh is prepared by the State's—
 
-A. Finance Department  
-B. **Planning Department**  
-C. Education Department  
-D. Forest Department  
+A. Finance Department 
+B. **Planning Department** 
+C. Education Department 
+D. Forest Department 
 
 <details>
 <summary>Show answer</summary>
@@ -449,13 +449,13 @@ D. Forest Department
 
 With reference to **LiFE (Lifestyle for Environment)**, consider the following:
 
-1. LiFE was launched in **June 2022**.  
-2. The idea was proposed at **COP-25 in Madrid**.  
+1. LiFE was launched in **June 2022**. 
+2. The idea was proposed at **COP-25 in Madrid**. 
 
-A. 2 only  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
-D. 1 only  
+A. 2 only 
+B. Neither 1 nor 2 
+C. Both 1 and 2 
+D. 1 only 
 
 <details>
 <summary>Show answer</summary>
@@ -474,15 +474,15 @@ D. 1 only
 
 Which of the following are essential for achieving **SDG 4 (Quality Education)**?
 
-1. Free and compulsory education  
-2. School infrastructure and digital transformation  
-3. Expansion of agricultural programmes  
-4. Increasing investment in technology  
+1. Free and compulsory education 
+2. School infrastructure and digital transformation 
+3. Expansion of agricultural programmes 
+4. Increasing investment in technology 
 
-A. 1 and 2 only  
-B. 1, 2 and 4 only  
-C. 2 and 3 only  
-D. All four  
+A. 1 and 2 only 
+B. 1, 2 and 4 only 
+C. 2 and 3 only 
+D. All four 
 
 <details>
 <summary>Show answer</summary>
@@ -501,13 +501,13 @@ D. All four
 
 With reference to **carrying capacity**, consider the following:
 
-1. Resource extraction should remain **above** regeneration.  
-2. Waste should stay within environmental **absorption capacity**.  
+1. Resource extraction should remain **above** regeneration. 
+2. Waste should stay within environmental **absorption capacity**. 
 
-A. 2 only  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
-D. 1 only  
+A. 2 only 
+B. Neither 1 nor 2 
+C. Both 1 and 2 
+D. 1 only 
 
 <details>
 <summary>Show answer</summary>
@@ -526,10 +526,10 @@ D. 1 only
 
 The **Bhopal Gas Tragedy (1984)** directly catalysed enactment of the—
 
-A. Stockholm Declaration enforcement Act  
-B. **Environment (Protection) Act, 1986**  
-C. Biological Diversity Act, 2002  
-D. NGT Act, 2010  
+A. Stockholm Declaration enforcement Act 
+B. **Environment (Protection) Act, 1986** 
+C. Biological Diversity Act, 2002 
+D. NGT Act, 2010 
 
 <details>
 <summary>Show answer</summary>
@@ -548,10 +548,10 @@ D. NGT Act, 2010
 
 The **green economy** (UNEP, 2011) emphasises—
 
-A. High-coal growth with waste maximisation  
-B. **Low-carbon, resource-efficient, socially inclusive growth**  
-C. Ozone-layer depletion as a development goal  
-D. Elimination of all industrial activity  
+A. High-coal growth with waste maximisation 
+B. **Low-carbon, resource-efficient, socially inclusive growth** 
+C. Ozone-layer depletion as a development goal 
+D. Elimination of all industrial activity 
 
 <details>
 <summary>Show answer</summary>

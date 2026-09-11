@@ -116,7 +116,7 @@ Namami Gange and GAP are Ganga cleaning programmes. They are not river-origin fa
 
 - **Ganga** is the largest basin **inside India** (about **8.61 lakh km²**, about 26% of India).
 - **Godavari** is the largest **peninsular** basin (about **3.13 lakh km²**).
-- Among the 2022 Q16 option set Tapti / Narmada / Mahanadi / Cauvery, the largest basin is **Mahanadi**. Godavari is not in that set.
+- Among Tapti / Narmada / Mahanadi / Cauvery, the largest basin is **Mahanadi**. Godavari is not in that set.
 
 #### Himalayan vs peninsular rivers
 
@@ -158,7 +158,7 @@ Genetic drainage names describe **what the river follows** or **when it formed r
 
 - The peninsula’s water divide is the **Western Ghats**. **Amarkantak** is a **radial** node: Narmada goes west, Son goes to the Ganga.
 
-> **Note:** 2022 Q16 — among Tapi / Narmada / Mahanadi / Cauvery, the largest basin is **Mahanadi**. 2025 Q94: Himalayan snow feeds perennial rivers (both A and R true, and R explains A). Trans-Himalayan is **not** every Himalayan river.
+> **Logic:** Among Tapi / Narmada / Mahanadi / Cauvery, the largest basin is **Mahanadi**. Himalayan snow feeds perennial rivers — assertion and reason both hold, and the reason explains the assertion. Trans-Himalayan is **not** every Himalayan river.
 
 ---
 
@@ -179,7 +179,7 @@ Genetic drainage names describe **what the river follows** or **when it formed r
 - Join order toward the Indus: the **Jhelum** and **Ravi** join the **Chenab**. The Chenab then meets the **Sutlej**. The Sutlej finally joins the **Indus**.
 - **Indus Waters Treaty (1960):** India uses **Ravi, Beas, Sutlej**. Pakistan uses **Indus, Jhelum, Chenab**.
 
-> **Note:** 2025 Q92 NOT matched pairs are **Pandoh–Ravi** and **Srisailam–Tungabhadra**. Among usual Himalayan options, the Trans-Himalayan river is the **Sutlej**.
+> **Logic:** **Pandoh–Ravi** and **Srisailam–Tungabhadra** are the classic NOT-matched pairs. Among usual Himalayan options, the Trans-Himalayan river is the **Sutlej**.
 
 **PYQ — UPPCS Prelims 2025, Q92**
 
@@ -258,7 +258,7 @@ D. Only 1
 - The **Betwa** rises in the Vindhya. The **Ken** joins near Banda.
 - Paper numbering 1 Betwa, 2 Ken, 3 Sindh, 4 Chambal gives code **4, 3, 1, 2**.
 
-> **Note:** 2023 Q55 — Ramganga at Kannauj is **true**. Betwa at Prayagraj is **false**. The **Padma** is the Ganga in Bangladesh. The **Jamuna** is the Brahmaputra in Bangladesh.
+> **Note:** Ramganga at Kannauj is **true**. Betwa at Prayagraj is **false**. The **Padma** is the Ganga in Bangladesh. The **Jamuna** is the Brahmaputra in Bangladesh.
 
 ### Panch Prayag and Uttarakhand
 
@@ -310,7 +310,7 @@ D. 2 4 1 3
 - The **Teesta** rises in Sikkim (Khangchung Chho class — **not** the same source as the Brahmaputra). **Rangeet** is a Teesta tributary from Sikkim. Teesta was once a Ganga tributary; **river capture** shifted it to the Brahmaputra.
 - Near Dhubri the river enters Bangladesh. There the **Tista** joins, and the river is called the **Jamuna** (not the Yamuna).
 - The **Barak** rises in the Manipur hills (not Arunachal like Lohit/Subansiri). It becomes Surma–Kushiyara, then the **Meghna**, and reaches the **Bay of Bengal**. It is **not** inland drainage.
-- Padma is joined by Jamuna, then by Meghna; the combined Sundarbans delta lies between the Hooghly and the Meghna. The Bengal Delta is subdivided into **moribund, mature, and active** belts (UPPCS 2019 keys **Bengal** for “Moribund Delta” as a subdivision).
+- Padma is joined by Jamuna, then by Meghna; the combined Sundarbans delta lies between the Hooghly and the Meghna. The Bengal Delta is subdivided into **moribund, mature, and active** belts.
 
 > ** note:** Padma = Ganga in Bangladesh. Jamuna = Brahmaputra in Bangladesh. Do not swap them with the Yamuna.
 
@@ -358,7 +358,7 @@ D. 2 4 1 3
 - **Hemavati, Kabini, Bhavani, and Amravati** are the usual tributaries.
 - It forms the islands of **Srirangapatna, Shivasamudram, and Srirangam**. **Shivasamudram** is also the great Kaveri waterfall by volume.
 - **Mettur (Stanley)** is on the Kaveri, **not** on the Krishna.
-- The Kaveri delta is old and heavily irrigated. In UPPCS **2019**, the **moribund delta** as a **subdivision** refers to the **Bengal Delta**, not the Kaveri.
+- The Kaveri delta is old and heavily irrigated. The **moribund delta** as a **subdivision** refers to the **Bengal Delta**, not the Kaveri.
 - Kaveri water is a **Karnataka–Tamil Nadu** dispute. Basin also touches Kerala and Puducherry.
 
 ### Other east-flowing rivers
@@ -368,8 +368,8 @@ D. 2 4 1 3
 - The **Vaigai** drains Madurai to the Bay.
 - The **Subarnarekha** rises on Chotanagpur (Ranchi). **Hundru Falls** is on it. It reaches the Bay.
 - The **Brahmani–Baitarani** pair drains Odisha (NW-5 country).
-- **2025 Q116:** of Periyar / Pennar / Palar, only **Periyar** reaches the Arabian Sea.
-- **2023 Q53 origins:** Yamuna–Yamunotri · Krishna–Mahabaleshwar · Godavari–Nashik · Mahanadi–Sihawa.
+- Of Periyar / Pennar / Palar, only **Periyar** reaches the Arabian Sea.
+- Standard origin pairs: Yamuna–Yamunotri · Krishna–Mahabaleshwar · Godavari–Nashik · Mahanadi–Sihawa.
 
 **PYQ — UPPCS Prelims 2018, Q102**
 
@@ -447,7 +447,7 @@ The **Ramganga** rises in the Doodhatoli / Garhwal hills of Uttarakhand.
 
 It irrigates western Uttar Pradesh and meets the Ganga near **Kannauj**.
 
-The Ramganga Project dam is about **825.8 m** long and **198 MW** in Garhwal (2024 Q72 matched).
+The Ramganga Project dam is about **825.8 m** long and **198 MW** in Garhwal.
 
 The “**6 lakh ha** irrigated” figure is the **NOT matched** fact on that stem.
 
@@ -519,7 +519,7 @@ The **Hindon** is a Yamuna **left**-bank stream of western Uttar Pradesh / NCR.
 - **Cuspate delta** forms when waves from two directions meet the river mouth. **Ebro** (Spain) is cited; **Mahanadi** is often used in Indian match-lists.
 - **Lobate delta** is rounded with many shifting mouths. **Godavari** is sometimes classed here for its bulging front.
 - **Moribund delta** means a dying / inactive part of a delta. Rivers there are silted, poorly connected to the main channel, and add little new land. Ox-bow lakes and marshes are common.
-- In Indian geography, **Moribund** is a **subdivision of the Bengal (Ganga–Brahmaputra) Delta**, along with mature and active parts (UPPCS 2019). The moribund belt lies mainly in the older western / north-western delta where distributaries have decayed after the main Ganga discharge shifted east toward the Padma.
+- In Indian geography, **Moribund** is a **subdivision of the Bengal (Ganga–Brahmaputra) Delta**, along with mature and active parts. The moribund belt lies mainly in the older western / north-western delta where distributaries have decayed after the main Ganga discharge shifted east toward the Padma.
 - Do **not** key Krishna–Godavari, Mahanadi, or Cauvery for that “subdivision” stem. Those are different deltas; Bengal alone is classed that way in the standard scheme.
 - **Estuary** replaces a delta where waves and tides dominate and the river mouth stays funnel-shaped — **Narmada, Tapi, Mandovi** on India's west coast.
 

@@ -118,7 +118,7 @@ Natural vegetation grows without human planting.
 
 - **“Vegetation is the true index of climate”** is linked to **Thornthwaite**, not Köppen’s letter codes.
 - Controls include climate, soil, relief, biotic factors and time.
-- **Species diversity decreases from the equator toward the poles** (2019 Q58: “increases toward poles” is **false**).
+- **Species diversity decreases from the equator toward the poles**.
 - Tropics / Amazon hold the peak diversity.
 - India is a **mega-biodiversity** country.
 - Four biodiversity **hotspots** touch India: **Himalaya, Western Ghats, Indo-Burma and Sundaland**.
@@ -219,8 +219,6 @@ Standard notes split Indian vegetation into **five** heads and **sixteen** sub-t
 | Baobab | Savanna |
 | Cedars | Mediterranean |
 
-- 2019 Q1 order code is **2 3 1 4** for the standard world-vegetation match set.
-- 2019 Q3 matches Epiphytes–Equatorial, Acacia–Sahara, Baobab–Savanna and Cedars–Mediterranean in that order (code **2 3 4 1**).
 
 ---
 
@@ -352,7 +350,7 @@ Also called **tropical thorn forests** or arid forests. Plants are **xerophytes*
 
 Montane forests are an **altitude elevator**, not a plains rain ladder. Above about **900 m**, temperature (height) rules the belt. Mountain forests split into two sets: **northern (Himalayan)** and **southern (peninsular hills)**.
 
-**Logic:** Different Himalayan vegetation appears **because** climate changes with altitude (2025 Q21 — A and R both true; R explains A).
+**Logic:** Different Himalayan vegetation appears **because** climate changes with altitude.
 
 #### Quick Himalayan stack (foothills up to snow)
 
@@ -487,7 +485,7 @@ Salt-tolerant **halophytes**. They grow in fresh **or brackish** water. Also cal
 - Old uses were fuelwood and boat timber.
 - NCERT order-of-magnitude: India holds a notable share of world mangroves (~7% in older NCERT figure).
 - **MISHTI** (Mangrove Initiative for Shoreline Habitats and Tangible Income) is the Budget **2023–24** restoration programme.
-- It was **not initiated in 2019** (2025 Q93 **Only 2**).
+- It was **not initiated in 2019**.
 
 **Species & product facts (Ghatnachakra)**
 
@@ -536,7 +534,7 @@ D. Stamp
 | ISFR **2017** | **21.54%** of India’s TGA — later reports differ; fact the year asked |
 | ISFR **2021** | Max increase among options: **Andhra Pradesh** |
 | UP cover | About **6%** of TGA — **not 12.8%** |
-| ISFR **2023** UP >20% districts | **Chandauli + Shravasti** — **not Bahraich** (2025 Q8 → 2 and 3) |
+| ISFR **2023** UP >20% districts | **Chandauli + Shravasti** — **not Bahraich** |
 | Eastern plain belt | Jaunpur, Ghazipur, **Ballia** ≈ near-nil **forest land** — wetland still possible |
 
 - Forest Policy **1988** set a national goal of **33%** forest/tree cover.
@@ -592,11 +590,9 @@ An **epiphyte** grows on another plant for support, not as a parasite that steal
 
 - **In-situ** conservation keeps species in their natural habitat (NP, WLS, BR, sacred groves).
 - **Ex-situ** conservation uses zoos, **botanical gardens**, seed banks and captive breeding.
-- 2018 Q54: botanical garden is **NOT** in-situ.
 - 2023: genetic diversity in NPs is maintained through **in-situ** conservation.
-- Chronology (2019 Q67 / 2020 Q77): **WLPA 1972**, then **Project Tiger 1973 (1 Apr)**, then **Project Elephant 1992**, then **BDA 2002**.
+- Chronology: **WLPA 1972**, then **Project Tiger 1973 (1 Apr)**, then **Project Elephant 1992**, then **BDA 2002**.
 - Other projects: Project Rhino, Project Great Indian Bustard.
-- 2018 Q45 options omit 1973; many keys pick **1972** — for open recall write **1973**.
 - India has **18** Biosphere Reserves; **Nilgiri (1986)** is the first.
 - Several BRs are on UNESCO’s World Network (Nilgiri, Nanda Devi, Sundarbans, Gulf of Mannar, etc.).
 
@@ -604,10 +600,10 @@ An **epiphyte** grows on another plant for support, not as a parasite that steal
 
 | Name | State | Extra |
 |------|-------|-------|
-| **Dachigam** | J&K | **Hangul** / Kashmir stag (2018 Q49; 2023 Hangul = Kashmir) |
+| **Dachigam** | J&K | **Hangul** / Kashmir stag |
 | **Keibul Lamjao** | Manipur | Only floating NP; **Loktak**; Sangai |
 | **Dudhwa** | UP | Only UP NP; Lakhimpur Kheri |
-| **Simlipal** | **Odisha** | Not MP (2018 Q58 wrong pair) |
+| **Simlipal** | **Odisha** | Not MP |
 | Bandipur | Karnataka | |
 | Manas | Assam | WLS/BR/tiger landscape |
 | Periyar | Kerala | |
@@ -618,8 +614,7 @@ An **epiphyte** grows on another plant for support, not as a parasite that steal
 | Kalesar | Haryana | 2020 |
 | Betla | Jharkhand | 2020 (paper OCR “Betva”) |
 
-- 2020 Q62 code **4 3 2 1**.
-- 2025 Q92-style NP list: Dachigam / Keoladeo / Kanha — know states.
+- 
 
 ### Biosphere reserves (match gold)
 
@@ -644,9 +639,6 @@ An **epiphyte** grows on another plant for support, not as a parasite that steal
 | Dibru-Saikhowa | Assam | |
 | Dehang-Debang | Arunachal | |
 
-- 2024 Q10 order is Simlipal–Odisha, Nokrek–Meghalaya, Agasthyamalai–Kerala, Manas–Assam (code **2 4 1 3**).
-- 2021 Q140 order is Similipal–Odisha, Pachmarhi–Madhya Pradesh, Nandadevi–Uttarakhand, Nokrek–Meghalaya (code **4 3 1 2**).
-- 2025 Q144 **NOT** matched pair is **Only Nokrek–Manipur**.
 
 **PYQ — UPPCS Prelims 2018, Q54**
 
@@ -671,7 +663,7 @@ D. Sacred groves
 
 ## N.6 Uttar Pradesh — Forests, Parks, Sanctuaries, Ramsar
 
-**Only one National Park: Dudhwa (Lakhimpur Kheri)** — 2022 Q56. Do not invent a second NP.
+**Only one National Park: Dudhwa (Lakhimpur Kheri).** Do not invent a second NP in UP.
 
 | Name | Type | Belt | Note |
 |------|------|------|------|
@@ -685,7 +677,7 @@ D. Sacred groves
 |-----------|----------|-------|
 | Katarniaghat | Bahraich | Est. **1975** |
 | Kishanpur | Lakhimpur Kheri | Dudhwa TR |
-| **Chandraprabha** | **Chandauli** | 2023 Q56 — not Sonbhadra |
+| **Chandraprabha** | **Chandauli** | not Sonbhadra |
 | National Chambal | Etawah–Agra | Gharial; **UP–MP–RJ** |
 | Hastinapur | Meerut–Bijnor–Amroha | Floodplain / swamp deer |
 | Kaimoor | Sonbhadra–Chandauli | Vindhyan |

@@ -1,6 +1,6 @@
 # Science & Technology (UPPCS + UKPCS Knowledge Base)
 
-**Desk:** [UKPCS Syllabus — Unit 5](../../ukpcs/00_Syllabus.md)  
+**Desk:** [UKPCS Syllabus — Unit 5](../../ukpcs/00_Syllabus.md) 
 **Ecology depth:** [Environment & Ecology](../environments%20&%20ecology/00_Syllabus.md)
 
 ## Core heads (national)
@@ -23,5 +23,5 @@
 
 ## Uttarakhand
 
-→ [Science & Technology — Uttarakhand](uttarakhand/00_Syllabus.md)  
+→ [Science & Technology — Uttarakhand](uttarakhand/00_Syllabus.md) 
 → also [Environment — Uttarakhand](../environments%20&%20ecology/uttarakhand/00_Syllabus.md)

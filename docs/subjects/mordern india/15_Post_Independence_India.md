@@ -83,7 +83,7 @@ Community Development Programme | Etawah Pilot Project | Post-Independence India
 - Linguistic Andhra was formed on **1 October 1953**.
 - The States Reorganisation Act came into force on **1 November 1956**.
 
-> ** note:** Planning Commission is **1950**, not 1947. CDP is **1952**, not Etawah’s 1948.
+> **Logic:** Planning Commission is **1950**, not 1947. CDP is **1952**, not Etawah’s 1948.
 
 ---
 
@@ -122,9 +122,9 @@ Community Development Programme | Etawah Pilot Project | Post-Independence India
 - A **tribal invasion** began in **October 1947**.
 - Maharaja **Hari Singh** signed the **Instrument of Accession on 26 October 1947**.
 - Indian troops were airlifted on **27 October**.
-- **2019 Q103** order is IoA in 1947, then the Constitution of India on **26 January 1950**, then the J&K Constituent Assembly’s ratification in **1954**, then the J&K Constitution on **26 January 1957**.
+- J&K chronology: IoA (**1947**) → Constitution of India (**26 January 1950**) → J&K Constituent Assembly ratification (**1954**) → J&K Constitution (**26 January 1957**).
 
-> ** note:** Three routes — Junagadh **plebiscite**, Hyderabad **Polo**, Kashmir **IoA amid invasion**. IoA ≠ full merger on day one.
+> **Logic:** Three routes — Junagadh **plebiscite**, Hyderabad **Polo**, Kashmir **IoA amid invasion**. IoA ≠ full merger on day one.
 
 **PYQ — UPPCS Prelims 2019, Q103**
 
@@ -164,7 +164,7 @@ D. IV, III, II, I
 - Ratification instruments were exchanged only on **16 August 1962**, completing the de jure merger.
 - The **14th Constitutional Amendment, 1962**, made Pondicherry a Union Territory.
 
-> ** note:** Chandernagore is **not** part of the Pondicherry Union Territory. It joined **West Bengal** as a district; the other four enclaves became their **own UT**.
+> **Logic:** Chandernagore is **not** part of the Pondicherry Union Territory. It joined **West Bengal** as a district; the other four enclaves became their **own UT**.
 
 ### Portuguese Goa, Daman and Diu — Operation Vijay (1961)
 
@@ -175,7 +175,7 @@ D. IV, III, II, I
 - **Goa became a full State on 30 May 1987.** Daman and Diu stayed a Union Territory.
 - **Dadra and Nagar Haveli** was a separate Portuguese pocket. Local action brought it in during 1954, and it became a Union Territory under the **10th Amendment, 1961**.
 
-> ** note:** French enclaves joined by **referendum** (1949 and 1954). Goa joined by **military action** (**1961**). Dadra and Nagar Haveli is a **third, separate** case, also 1954.
+> **Logic:** French enclaves joined by **referendum** (1949 and 1954). Goa joined by **military action** (**1961**). Dadra and Nagar Haveli is a **third, separate** case, also 1954.
 
 **PYQ-style drill — enclave route match**
 
@@ -219,15 +219,15 @@ D. 1 2 4 3
 - **G.V. Mavlankar** bridged British Central Assembly Speakership and free India’s Lok Sabha Speakership.
 - The Assembly worked **2 years 11 months 18 days**.
 - Nehru moved the **Objective Resolution on 13 December 1946**. It was adopted on **22 January 1947**.
-- The **National Flag** was adopted on **22 July 1947**. That is the **2020 Q134** date, not 1948 and not January 1950.
+- The **National Flag** was adopted on **22 July 1947**. That date is **22 July 1947**, not 1948 and not January 1950.
 - The **Drafting Committee** was set up on **29 August 1947**. Chairman was **B.R. Ambedkar**.
 - Other members were **N. Gopalaswami Ayyangar**, **Alladi Krishnaswami Ayyar**, **K.M. Munshi** and **Syed Mohammad Saadulla**.
 - **N. Madhava Rau** replaced B.L. Mitter. **T.T. Krishnamachari** replaced D.P. Khaitan.
 - The Constitution was **adopted on 26 November 1949**.
 - The last sitting was **24 January 1950**. It **commenced on 26 January 1950**.
-- **2023 Q3** order is first met, then Drafting Committee, then adopted, then commenced.
+- Order: CA first met (**December 1946**) → Drafting Committee (**August 1947**) → adopted (**26 November 1949**) → commenced (**26 January 1950**).
 
-**Committees asked in 2025 Q82**
+**Key Constituent Assembly committees**
 
 | Committee | Chairman |
 |-----------|----------|
@@ -239,10 +239,10 @@ D. 1 2 4 3
 - Advisory Committee on Fundamental Rights and Minorities was chaired by **Patel**.
 - Union Powers was chaired by **Nehru**. Provincial Constitution was chaired by **Azad**.
 
-- **2021 Q1:** Patel said in the CA debates on separate electorates, *“Can you show me one free country… British element is gone, but they have left mischief behind.”*
-- **2021 Q73:** Nehru called Fundamental Rights *“a pledge to our people and a pact with the civilized world.”*
+- **Sardar Patel** said in the CA debates on separate electorates, *“Can you show me one free country… British element is gone, but they have left mischief behind.”*
+- **Jawaharlal Nehru** called Fundamental Rights *“a pledge to our people and a pact with the civilized world.”*
 
-> ** note:** Adopted **≠** commenced. Flag **22 July 1947**. FR sub-committee = **Kripalani**, not Ambedkar.
+> **Logic:** Adopted **≠** commenced. Flag **22 July 1947**. FR sub-committee = **Kripalani**, not Ambedkar.
 
 **PYQ — UPPCS Prelims 2023, Q3**
 
@@ -364,7 +364,7 @@ D. Dr. S. Radha Krishnan
 - Dey later led Community Development at the Centre.
 - Do not credit **Balwant Rai Mehta** of 1957 Panchayati Raj, or Gandhi Jayanti 1952, which is CDP.
 
-> ** note:** Etawah = **1948 Mayer UP**. CDP = **1952**. Nilokheri = **Dey**.
+> **Logic:** Etawah = **1948 Mayer UP**. CDP = **1952**. Nilokheri = **Dey**.
 
 ---
 
@@ -377,10 +377,10 @@ D. Dr. S. Radha Krishnan
 - The **National Extension Service** of **1953** was cheaper and wider. It was less intensive than CDP blocks.
 - Officials drove the programme. People’s participation stayed weak.
 - The **Balwant Rai Mehta Committee of 1957** recommended **three-tier Panchayati Raj**: Gram Panchayat, Panchayat Samiti and Zila Parishad.
-- **Nyaya Panchayat is not a Mehta tier**. That fact is **2024 Q129**.
-- **2025 Q134** rural order is CDP **1952**, then **DPAP 1973–74**, then **Food for Work 1977**, then **TRYSEM 1979**.
+- **Nyaya Panchayat is not a Mehta tier**. Nyaya Panchayat was **not** a Mehta Committee tier.
+- Rural programme order: CDP (**1952**) → DPAP (**1973–74**) → Food for Work (**1977**) → TRYSEM (**1979**).
 
-> ** note:** CDP ≠ 1948. First Plan home. TRYSEM and Food for Work are **1970s**, not Nehru-era CDP.
+> **Logic:** CDP ≠ 1948. First Plan home. TRYSEM and Food for Work are **1970s**, not Nehru-era CDP.
 
 **PYQ — UPPCS Prelims 2025, Q134**
 
@@ -425,13 +425,13 @@ D. 4, 2, 1, 3
 
 - It was the first **linguistic** state, for Telugu.
 - It followed **Potti Sriramulu’s** fast unto death in December 1952.
-- **2018 Q68** answer is **Andhra Pradesh**, not Kerala, Madhya Pradesh or UP.
+- **Andhra Pradesh (1953)** was India’s first linguistic state, not Kerala, Madhya Pradesh or UP.
 
 **States Reorganisation Commission**
 
 - It was appointed in **1953**. The report came in **1955**.
 - Members were **Fazl Ali** as Chair, **K.M. Panikkar** and **H.N. Kunzru**.
-- **2025 Q71** picks **Panikkar and Kunzru**. **K.T. Shah** and **Pattabhi Sitaramayya** were **not** SRC members.
+- SRC members included **K.M. Panikkar** and **H.N. Kunzru**; **K.T. Shah** and **Pattabhi Sitaramayya** were **not** on the Commission.
 - SRC accepted language as a major basis but rejected “one language = one state” as a rigid formula.
 - It stressed unity and administrative and financial viability.
 
@@ -453,7 +453,7 @@ D. 4, 2, 1, 3
 | **2014** | **Telangana** (from Andhra) |
 | **2019** | J&K and Ladakh as UTs (Art. 370 change — Polity) |
 
-> ** note:** First linguistic state **Andhra 1953**. Full reorganisation **1956**. SRC trio = **Fazl Ali, Panikkar, Kunzru**.
+> **Logic:** First linguistic state **Andhra 1953**. Full reorganisation **1956**. SRC trio = **Fazl Ali, Panikkar, Kunzru**.
 
 **PYQ — UPPCS Prelims 2025, Q71**
 
@@ -505,19 +505,19 @@ D. Uttar Pradesh
 **Set up:** Cabinet resolution, **15 March 1950**. Chairman: **Prime Minister (Nehru)**. Extra-constitutional — **not** Article 280.
 
 - It formulated **Five-Year Plans** from **1951**.
-- **Ashok Chanda** called it the **“Economic Cabinet of India”**. That is **2018 Q144**.
+- **Ashok Chanda** called it the **“Economic Cabinet of India”**. Ashok Chanda applied that label to the **Planning Commission**.
 - The **National Development Council** was set up on **6 August 1952**.
 - It had the PM, Chief Ministers and Planning Commission members. It approved plans. It was extra-constitutional.
-- Official **poverty line** estimates of that era were fixed by the **Planning Commission**. That is **2018 Q115**.
+- Official **poverty line** estimates of that era were fixed by the **Planning Commission**. The **Planning Commission** (now NITI Aayog) fixed official poverty-line estimates of that era.
 - The successor machinery is NITI-era, not Lok Sabha or Cabinet as a line-drawing body.
 - It was replaced by **NITI Aayog on 1 January 2015**.
 - NITI is a think-tank of cooperative federalism. It has **no** binding Five-Year Plan allocation like the old Commission.
-- The first Vice-Chairperson was **Arvind Panagariya**. That is **2018 Q67**. Rajiv Kumar was a later VC.
+- The first Vice-Chairperson was **Arvind Panagariya**. **Arvind Panagariya** was the first NITI Aayog Vice-Chairperson; Rajiv Kumar came later.
 - **Industrial Policy Resolution 1948** set a mixed economy.
 - **Avadi 1955** spoke of a **socialistic pattern of society**.
 - **Industrial Policy Resolution 1956** put the commanding heights with the public sector.
 
-> ** note:** PC ≠ Finance Commission. NITI ≠ renamed PC with the same plan-power. First NITI VC = **Panagariya**, not Rajiv Kumar.
+> **Logic:** PC ≠ Finance Commission. NITI ≠ renamed PC with the same plan-power. First NITI VC = **Panagariya**, not Rajiv Kumar.
 
 **PYQ — UPPCS Prelims 2018, Q144**
 
@@ -596,12 +596,12 @@ D. Rajiv Kumar
 | **9th** | 1997–2002 | Growth with social justice |
 | **10th** | 2002–07 | 8% growth target |
 | **11th** | 2007–12 | Inclusive growth |
-| **12th** | 2012–17 | **Faster, sustainable and more inclusive growth** — **2018 Q40** |
+| **12th** | 2012–17 | **Faster, sustainable and more inclusive growth** |
 
 - The **12th Plan was the last** Five-Year Plan.
 - After that came NITI-era strategy documents, not a 13th Plan of the old type.
 
-> ** note:** Sustainable-growth slogan = **12th**, not 11th. Steel plants = **2nd Plan**. CDP = **1st Plan**.
+> **Logic:** Sustainable-growth slogan = **12th**, not 11th. Steel plants = **2nd Plan**. CDP = **1st Plan**.
 
 **PYQ — UPPCS Prelims 2018, Q40**
 
@@ -650,7 +650,7 @@ D. 12th
 | 8th (1992–97) | Liberalisation |
 | 12th (2012–17) | Sustainable growth — the **last** Five-Year Plan |
 
-> ** note:** Do not swap the enclave dates — de facto merger and de jure/legal completion can be years apart, especially for Pondicherry (1954 vs 1962).
+> **Logic:** Do not swap the enclave dates — de facto merger and de jure/legal completion can be years apart, especially for Pondicherry (1954 vs 1962).
 
 ---
 

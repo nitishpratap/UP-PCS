@@ -164,17 +164,17 @@ Cartagena Protocol — Biosafety is a **correct** match.
 
 Consider the following Ramsar sites:
 
-1. Sarsai Nawar  
-2. Samaspur  
-3. Rudrasagar Lake  
-4. Sultanpur National Park  
+1. Sarsai Nawar 
+2. Samaspur 
+3. Rudrasagar Lake 
+4. Sultanpur National Park 
 
 Which of the above are **not** located in Uttar Pradesh?
 
-A. 1 and 2  
-B. 3 and 4  
-C. 1 and 3  
-D. 2 and 4  
+A. 1 and 2 
+B. 3 and 4 
+C. 1 and 3 
+D. 2 and 4 
 
 <details>
 <summary>Show answer</summary>

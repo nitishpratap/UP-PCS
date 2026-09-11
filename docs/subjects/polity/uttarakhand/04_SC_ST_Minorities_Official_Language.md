@@ -2,7 +2,7 @@
 
 ### ★ UKPCS state card (Unit 3)
 
-> **High-yield 2025 stem:** five tribes notified as ST in **1967** (Q136).  
+> **High-yield 2025 stem:** five tribes notified as ST in **1967** (Q136). 
 > **Vanrawat / Raji geography:** also [Geography Topic 6](../../geography/uttarakhand/06_Population_SC_ST_Settlements.md).
 
 ---
@@ -65,10 +65,10 @@
 
 In which year were the Jaunsari, Tharu, Bhotia, Buksa and Raji tribes declared Scheduled Tribes in Uttarakhand?
 
-A. 1967  
-B. 1968  
-C. 1969  
-D. 1970  
+A. 1967 
+B. 1968 
+C. 1969 
+D. 1970 
 
 <details>
 <summary>Show answer</summary>

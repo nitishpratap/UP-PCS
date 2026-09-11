@@ -95,7 +95,7 @@ Congress Socialist Party | Subhash Chandra Bose | Forward Bloc | Quit India Move
 | 18 Jul 1947 | **Indian Independence Act** |
 | 15 Aug 1947 | Independence / Partition |
 
-> ** note:** Fact **2025 Q41** and **2024 Q16 / Q133**. Full mission cards below.
+> **Logic:** Wavell/Simla (**1945**) sits after Cripps (**1942**) and before Cabinet Mission (**1946**). Full mission cards below.
 
 **PYQ — UPPCS Prelims 2025, Q41**
 
@@ -140,7 +140,7 @@ D. 1, 4, 2, 3
 - Jinnah asked Muslims to observe **22 December 1939** as **Day of Deliverance** after Congress resignations.
 - The two-year experience of actually running provincial government (1937–39) gave Congress valuable administrative experience and also exposed real Congress–League friction well before the 1940s.
 
-> ** note:** Ministries **formed 1937** after the provincial elections; they **resigned 1939** over the war. Eight provinces, not all eleven British Indian provinces.
+> **Logic:** Ministries **formed 1937** after the provincial elections; they **resigned 1939** over the war. Eight provinces, not all eleven British Indian provinces.
 
 ---
 
@@ -148,10 +148,10 @@ D. 1, 4, 2, 3
 
 - CSP is a **1934 socialist group inside Congress**.
 - It is **not** Bose’s Forward Bloc.
-- **2024 Q131:** it was **not** formed in January 1934.
-- **Nehru never formally joined**. The answer is **Neither**.
+- It was **not** formed in January **1934**.
+- **Nehru never formally joined** the Congress Socialist Party.
 
-> ** note:** CSP ≠ Forward Bloc. CSP ≠ CPI.
+> **Logic:** CSP ≠ Forward Bloc. CSP ≠ CPI.
 
 ---
 
@@ -170,9 +170,9 @@ D. 1, 4, 2, 3
 - He proclaimed **Azad Hind Government** on **21 October 1943** at **Singapore**.
 - His slogans include **“Give me blood and I will give you freedom”**, **Delhi Chalo**, and **Jai Hind**.
 - His books are *The Indian Struggle* and *An Indian Pilgrim*.
-- **2021 Q50:** Bose **did** preside over Congress, unlike Tilak.
+- Bose **did** preside over Congress, unlike Tilak.
 
-> ** note:** Bose = Haripura/Tripuri + Forward Bloc 1939 + INA + Azad Hind Govt 1943.
+> **Logic:** Bose = Haripura/Tripuri + Forward Bloc 1939 + INA + Azad Hind Govt 1943.
 
 ---
 
@@ -185,7 +185,7 @@ D. 1, 4, 2, 3
 - Its aim was uncompromising struggle for independence.
 - Wartime Bose politics then ran through the INA, not through a mass Indian party machine.
 
-> ** note:** Forward Bloc **1939 Bose**. CSP **1934** inside Congress.
+> **Logic:** Forward Bloc **1939 Bose**. CSP **1934** inside Congress.
 
 ---
 
@@ -205,9 +205,9 @@ D. 1, 4, 2, 3
 - **Individual Satyagraha** began in **October 1940**.
 - **Vinoba Bhave** was first. **Nehru** was among those jailed.
 - It was symbolic, not mass Civil Disobedience.
-- **2024 Q133** order is ministries resign, then Ramgarh, then August Offer, then Cripps.
+- Order: ministries resign (**1939**), then Ramgarh (**March 1940**), then August Offer (**August 1940**), then Cripps (**March 1942**).
 
-> ** note:** August Offer **1940** ≠ Cripps **1942**. Ministries resign **1939**.
+> **Logic:** August Offer **1940** ≠ Cripps **1942**. Ministries resign **1939**.
 
 **PYQ — UPPCS Prelims 2024, Q133**
 
@@ -256,7 +256,7 @@ D. 4, 2, 3, 1
 - The **League rejected** it too, since there was no express commitment to Pakistan.
 - The failure of Cripps became the direct climate for **Quit India** later that year.
 
-> ** note:** Cripps = **1942**, not 1946. 1946 = Cabinet Mission.
+> **Logic:** Cripps = **1942**, not 1946. 1946 = Cabinet Mission.
 
 ---
 
@@ -276,14 +276,14 @@ D. 4, 2, 3, 1
 - All top leaders were arrested on **8–9 August**, so the movement ran **leaderless and underground**.
 - **Aruna Asaf Ali** hoisted the flag at Gowalia Tank; **Usha Mehta** ran **Congress Radio** from Bombay; **Matangini Hazra**, 73, was shot at Tamluk while carrying the flag; **Kanaklata Barua** fell at Gohpur in Assam.
 - Parallel governments rose at **Ballia** under **Chittu Pandey** in UP, at **Tamluk** in Midnapore, and as the **Satara Prati Sarkar** under **Nana Patil**; Talcher is another stock name.
-- **2023 Q48:Shanti Ghosh** was **not** a Quit India woman — she belongs to the **1931** Bengal revolutionary shooting with Suniti Chaudhuri, not 1942.
+- **Shanti Ghosh** was **not** a Quit India woman — she belongs to the **1931** Bengal revolutionary shooting with Suniti Chaudhuri, not 1942.
 
 **Result**
 
 - Brutal repression crushed the movement's open, organised phase within months, and it did not immediately throw the British out.
 - It did convince British opinion that ruling India by force indefinitely was unsustainable, making a negotiated post-war exit unavoidable.
 
-> ** note:** QI women = Aruna, Matangini, Kanaklata. **Shanti Ghosh ≠ QI**.
+> **Logic:** QI women = Aruna, Matangini, Kanaklata. **Shanti Ghosh ≠ QI**.
 
 **PYQ — UPPCS Prelims 2023, Q48**
 
@@ -318,7 +318,7 @@ D. Shanti Ghosh
 - On **4 July 1943** Rash Behari Bose handed command to **Subhas Chandra Bose**, who rebuilt the force at **Singapore** (then British Malaya).
 - The **Provisional Government of Free India (Azad Hind)** was proclaimed on **21 October 1943** at Singapore (recognised by about **nine** Axis/friendly states in GC memory). Andaman and Nicobar were symbolically renamed **Shaheed** and **Swaraj**.
 - Famous appeal: **“Give me blood and I will give you freedom.”** **Jai Hind** was the INA salute that entered national usage.
-- The **Rani Jhansi Regiment**, the women's wing, was led by **Lakshmi Swaminathan (Sehgal)** — the **2023 Q45** answer.
+- The **Rani Jhansi Regiment**, the women's wing, was led by **Lakshmi Swaminathan (Sehgal)**.
 - The INA fought alongside Japan in the **Imphal–Kohima campaigns of 1944**.
 
 **Result**
@@ -326,7 +326,7 @@ D. Shanti Ghosh
 - The INA collapsed once Japan was defeated, and its officers were later tried at the Red Fort (14.10).
 - Bose died on **18 August 1945** in the Taihoku air-crash account, but the INA's stand and the trials that followed did lasting damage to British confidence in the loyalty of Indian troops.
 
-> ** note:** Azad Hind Government = **21 Oct 1943 Singapore**. Rani Jhansi = INA women, **not** 1857.
+> **Logic:** Azad Hind Government = **21 Oct 1943 Singapore**. Rani Jhansi = INA women, **not** 1857.
 
 **PYQ — UPPCS Prelims 2023, Q45**
 
@@ -351,7 +351,7 @@ D. Veerangana Regiment
 
 ## 14.10 INA Trials
 
-**Where:Red Fort, Delhi** (**2019 Q21**)
+**Where:Red Fort, Delhi**
 **When:November 1945** onwards
 **First trio:Prem Kumar Sahgal, Shah Nawaz Khan, Gurbaksh Singh Dhillon** (Hindu–Muslim–Sikh)
 
@@ -362,7 +362,7 @@ D. Veerangana Regiment
 - **Mohan Singh** is **not** among the Red Fort trio defendants.
 - Do not place the trials at Gwalior, Amer or Agra.
 
-> ** note:** INA trials = **Red Fort**. Trio = Sahgal, Shah Nawaz, Dhillon.
+> **Logic:** INA trials = **Red Fort**. Trio = Sahgal, Shah Nawaz, Dhillon.
 
 **PYQ — UPPCS Prelims 2019, Q21**
 
@@ -392,14 +392,14 @@ D. Agra Fort
 - The author is **C. Rajagopalachari**, not **C.R. Das**.
 - Congress would accept a post-war commission on Pakistan if the League backed independence and a period of central defence and foreign affairs.
 - Gandhi–Jinnah talks on this formula failed.
-- **2019 Q96** maps C.R. Formula to **Rajgopalachar**.
+- The **C.R. Formula (1944)** was prepared by **C. Rajagopalachari**, not C.R. Das.
 
 **Desai–Liaquat Pact (1945)**
 
 - **Bhulabhai Desai** and **Liaquat Ali Khan** talked of parity in an interim coalition.
 - The pact did not stick.
 
-> ** note:C.R. = Rajaji**. Das died **1925** and cannot author a 1944 formula.
+> **Logic:**C.R. = Rajaji**. Das died **1925** and cannot author a 1944 formula.
 
 **PYQ — UPPCS Prelims 2019, Q96**
 
@@ -437,9 +437,9 @@ D. V. P. Menon
 **Result**
 
 - The talks broke down without forming the new Council, leaving the deadlock over Muslim representation unresolved going into 1946.
-- Place Wavell/Simla **after Cripps 1942** and **before Cabinet Mission 1946** (**2025 Q41**).
+- Place Wavell/Simla **after Cripps 1942** and **before Cabinet Mission 1946** (after Cripps **1942**, before Cabinet Mission **1946**).
 
-> ** note:** Wavell Plan and Simla are **1945**, not 1946. 1946 = Cabinet Mission.
+> **Logic:** Wavell Plan and Simla are **1945**, not 1946. 1946 = Cabinet Mission.
 
 ---
 
@@ -461,9 +461,9 @@ D. V. P. Menon
 **Result**
 
 - The League's withdrawal led it to call **Direct Action Day** for **16 August 1946** (full card in 14.15), but it still **joined the Interim Government on 26 October 1946**.
-- **2018 Q17:** both statements are true, but joining the Interim does **not** explain the earlier withdrawal — the answer is **B**.
+- Both facts can be true: the League withdrew from the Cabinet Mission Plan in **July 1946**, yet still joined the Interim Government in **October 1946**. Joining the Interim does **not** explain the earlier withdrawal.
 
-> ** note:** Cabinet Mission **1946**. Withdrawal ≠ never joining Interim. Both facts true; not cause-and-effect as R claims.
+> **Logic:** Cabinet Mission **1946**. Withdrawal ≠ never joining Interim. Both facts true; not cause-and-effect as R claims.
 
 **PYQ — UPPCS Prelims 2018, Q17Assertion (A):** In 1946, the Muslim League withdrew its acceptance of the Cabinet Mission Plan.
 
@@ -504,7 +504,7 @@ D. (A) is false, but (R) is true
 - The mutiny showed the British that the **loyalty of the armed forces could no longer be assumed** — the same anxiety the INA trials had already exposed a few months earlier.
 - It added to the pressure that led directly into the **Cabinet Mission's announcement** later that same February. Place RIN strictly in **February 1946**, after the UK Parliamentary Delegation and just before that announcement.
 
-> ** note:** RIN Mutiny = **February 1946**, Bombay, *HMIS Talwar*. Not the same event as Quit India **1942**.
+> **Logic:** RIN Mutiny = **February 1946**, Bombay, *HMIS Talwar*. Not the same event as Quit India **1942**.
 
 ---
 
@@ -521,7 +521,7 @@ D. (A) is false, but (R) is true
 - The final territorial line came only with the **Mountbatten Plan (3 June 1947)** and the **Radcliffe Boundary Commission**; the human cost was **large-scale refugee movement and communal killing** on both sides of the new Punjab and Bengal borders.
 - Keep the sequence clear: **Direct Action Day (16 Aug 1946)** is the spark; **communal violence 1946–47** is the climate; the **Mountbatten Plan and Boundary Commission (1947)** is the actual partition mechanism.
 
-> ** note:** Direct Action Day **16 August 1946** precedes and drives the pressure toward the **June 1947** partition decision. It is a League call, not a Congress movement.
+> **Logic:** Direct Action Day **16 August 1946** precedes and drives the pressure toward the **June 1947** partition decision. It is a League call, not a Congress movement.
 
 ---
 
@@ -535,9 +535,9 @@ D. (A) is false, but (R) is true
 - League joined on **26 October**; **Liaquat Ali Khan** took **Finance** (controversial budget). Direct Action Day (**16 August**) had already flared at Calcutta–Noakhali.
 - **Direct Action Day (16 August 1946)** and the communal violence that followed (full card above) hardened the drive toward Partition.
 - **Attlee's statement of 20 February 1947** promised transfer of power by **June 1948**.
-- **2024 Q16** order is Delegation, then RIN, then Cabinet Mission announcement, then Interim Government.
+- Order: Cabinet Delegation arrival (**March 1946**), then RIN Revolt (**February 1946** is earlier — watch chronology traps), then Cabinet Mission plan (**16 May 1946**), then Interim Government (**September 1946**).
 
-> ** note:** Announcement of Cabinet Mission in **February 1946** is not the same as formation of the Interim in **September 1946**.
+> **Logic:** Announcement of Cabinet Mission in **February 1946** is not the same as formation of the Interim in **September 1946**.
 
 **PYQ — UPPCS Prelims 2024, Q16**
 
@@ -576,7 +576,7 @@ D. 2, 4, 1, 3
 - Mountbatten arrived in **March 1947** and, finding the June 1948 timetable unworkable given the communal violence, advanced the date to **15 August 1947** in his own Plan of 3 June.
 - Do not confuse Attlee's **February 1947** announcement (a deadline statement) with **Mountbatten's June 1947** Plan (the actual partition mechanism) or the **Indian Independence Act's July 1947** royal assent (the legal instrument).
 
-> ** note:** Attlee **20 Feb 1947** = June 1948 deadline + names Mountbatten. Mountbatten himself **advanced** that date to 15 August 1947.
+> **Logic:** Attlee **20 Feb 1947** = June 1948 deadline + names Mountbatten. Mountbatten himself **advanced** that date to 15 August 1947.
 
 ---
 
@@ -600,7 +600,7 @@ D. 2, 4, 1, 3
 - Transfer of power was advanced from the promised June 1948 to **15 August 1947**, compressing the practical work of partition into just over two months.
 - The plan became law through the **Indian Independence Act (18 July 1947)**, taught next.
 
-> ** note:** Mountbatten Plan = **3 June 1947**. The **Act** is **18 July**. Independence Day = **15 August**.
+> **Logic:** Mountbatten Plan = **3 June 1947**. The **Act** is **18 July**. Independence Day = **15 August**.
 
 ---
 
@@ -616,7 +616,7 @@ D. 2, 4, 1, 3
 - **15 August** is independence. **18 July** is the statute. Do not swap.
 - Partition violence and refugee movement are the human cost. Princely integration belongs to the next chapter.
 
-> ** note:** Act **18 July 1947** ≠ 3 June Plan ≠ 15 August.
+> **Logic:** Act **18 July 1947** ≠ 3 June Plan ≠ 15 August.
 
 ---
 
@@ -2099,7 +2099,7 @@ D. Only 1
 7. **Independence Act = 3 June / 15 August** → Act **18 July 1947**.
 8. **Forward Bloc = 1934 CSP** → Bloc **1939**; CSP **1934**.
 9. **League never joined Interim** → it **did** (Oct 1946) after withdrawing the Mission.
-10. **2018 Q17 answer is A** → **B** (R does not explain A).
+10. **Cabinet Mission A/R trap** → both facts can be true, but joining the Interim Government does **not** explain the earlier withdrawal.
 11. **Do or Die = Bose** → **Gandhi, 8 Aug 1942**.
 12. **RIN = 1942** → **February 1946**.
 13. **August Offer = Cripps** → Offer **1940**; Cripps **1942**.

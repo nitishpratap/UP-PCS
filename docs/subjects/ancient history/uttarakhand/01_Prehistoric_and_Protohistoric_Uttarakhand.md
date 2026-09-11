@@ -2,7 +2,7 @@
 
 ### ★ UKPCS state card (Unit 1 — History and Culture of Uttarakhand)
 
-> **Sources:** Standard UKPCS coaching maps (Lakhu Udyar, Malari, Bankot), ASI/university dig summaries, NCERT method for rock art and copper-hoard framing.  
+> **Sources:** Standard UKPCS coaching maps (Lakhu Udyar, Malari, Bankot), ASI/university dig summaries, NCERT method for rock art and copper-hoard framing. 
 > **Pair with:** [National Stone Age](../01_Stone_Age.md) · [Archaeology](../13_Archaeology.md)
 
 ---
@@ -106,10 +106,10 @@
 
 **Q1.** Lakhu Udyar prehistoric paintings are located in which district belt?
 
-A. Chamoli  
-B. Almora  
-C. Haridwar  
-D. Udham Singh Nagar  
+A. Chamoli 
+B. Almora 
+C. Haridwar 
+D. Udham Singh Nagar 
 
 <details>
 <summary>Show answer</summary>
@@ -122,10 +122,10 @@ D. Udham Singh Nagar
 
 **Q2.** Which site is chiefly remembered for Himalayan burial / megalithic finds rather than rock paintings?
 
-A. Lakhu Udyar  
-B. Falsima  
-C. Malari  
-D. Kimni  
+A. Lakhu Udyar 
+B. Falsima 
+C. Malari 
+D. Kimni 
 
 <details>
 <summary>Show answer</summary>

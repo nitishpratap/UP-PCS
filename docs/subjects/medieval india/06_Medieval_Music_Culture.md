@@ -9,7 +9,7 @@ Medieval Music | Later Mughal Music | Mughal Court Patronage | Amir Khusrau | Ta
 </details>
 
 > **Sources baked in:** NCERT *An Introduction to Indian Art*, Sangeet Ratnakar tradition, UPPCS Prelims PYQs 2018–2025
-> **Weight:** ★★★ — Tansen patronage, music treatise match (2021 Q22 / 2022 Q108), Tappa–Muhammad Shah, Chishti sama, Khusrau–Nizamuddin
+> **Weight:** ★★★ — Tansen patronage, music treatise match, Tappa–Muhammad Shah, Chishti sama, Khusrau–Nizamuddin
 > **Last verified:** August 2026
 > **Current Affairs:** N/A (purely historical)
 
@@ -68,7 +68,7 @@ Medieval Music | Later Mughal Music | Mughal Court Patronage | Amir Khusrau | Ta
 - After the 12th–13th century, two classical branches emerged: **Hindustani** (north, with improvisation and gharana) and **Carnatic** (south, with kriti and melakarta); this topic focuses on the **north/Mughal–Sultanate** stream.
 - Later light classical centres in UP include **Lucknow–Banaras thumri** and **Kajri** (Mirzapur–Banaras belt), growing from medieval Awadh culture.
 
-> ** note:** Tappa was **not** refined at Akbar's court. Tansen and Amir Khusrau were **not** contemporaries. The primary drum of dhrupad is **pakhawaj**, not tabla.
+> **Logic:** Tappa was **not** refined at Akbar's court. Tansen and Amir Khusrau were **not** contemporaries. The primary drum of dhrupad is **pakhawaj**, not tabla.
 
 ---
 
@@ -90,7 +90,7 @@ Medieval Music | Later Mughal Music | Mughal Court Patronage | Amir Khusrau | Ta
 - After Aurangzeb, Delhi court culture shifted from heavy imperial ceremony to **mehfil-style** music.
 - **Muhammad Shah Rangeela** is the central later-Mughal music figure for UPPCS.
 - **Niyamat Khan Sadarang** and **Adarang** developed **khayal** into the dominant classical form.
-- **Tappa** was refined at **Muhammad Shah's** court (UPPCS **2023 Q38**, answer **D**).
+- **Tappa** was refined at **Muhammad Shah Rangeela's** court (~1719–1748), not at Akbar's.
 
 ### PYQ — Tappa under Muhammad Shah
 
@@ -128,11 +128,11 @@ D. Muhammad Shah
 - **Qawwali** is Sufi congregational singing at khanqah or dargah and is linked to Chishti devotion.
 - **Tarana** is a fast vocal form using syllables such as *tom, ta, der*, and tradition credits Khusrau with it.
 - Folklore also credits Khusrau with inventing **sitar** and **tabla**; papers accept his "pioneer" status, though strict history is more complex.
-- In PYQs, **Rag Vibodh** is paired with Khusrau in the **2019 Q88** literary match list.
-- In **2025 Q12**, Amir Khusrau's guru is **Nizamuddin Auliya** (guru code 3).
+- In literary match lists, **Rag Vibodh** is paired with **Amir Khusrau** — separate from the music-treatise pair with **Somanath**.
+- **Amir Khusrau's** guru was **Nizamuddin Auliya**.
 - Khusrau did **not** serve Akbar's court; he died about **200 years** before Tansen's Mughal career.
 
-> ** note:** Khusrau was a Sultanate Sufi-music pioneer, while Tansen was Akbar's dhrupad master. Do not merge their eras.
+> **Logic:** Khusrau was a Sultanate Sufi-music pioneer, while Tansen was Akbar's dhrupad master. Do not merge their eras.
 
 ### PYQ — Khusrau guru match
 
@@ -163,7 +163,7 @@ D. Guru Nanak (code 1)
 **Identity:** Greatest Hindustani dhrupad master of Akbar’s court | **Navratna**
 
 - Tansen was born **Ramtanu Pandey** near **Gwalior/Behat** and trained in the dhrupad tradition linked to Gwalior.
-- **Before Akbar**, he was patronised by **Raja Ramchandra Singh of Bhata (Rewa)**, the UPPCS **2019 Q89** answer **A**.
+- **Before Akbar**, Tansen was patronised by **Raja Ramchandra Singh of Bhata (Rewa)**.
 - Akbar invited him to court and gave him the title **Miyan Tansen**.
 - Tansen's form was **dhrupad**, with **pakhawaj** as the accompaniment tradition.
 - Ragas traditionally attributed to him include **Miyan Ki Todi**, **Miyan Ki Malhar**, and **Darbari Kanada**.
@@ -171,7 +171,7 @@ D. Guru Nanak (code 1)
 - Tansen died during Akbar's reign, and his tomb tradition is at **Gwalior**.
 - The Senia tradition later linked his disciples to several north Indian schools.
 
-> ** note:** Pre-Akbar patron of Tansen was **Bhata/Rewa**, not Mewar, Malwa, or Gujarat (2019 Q89 distractors).
+> **Logic:** Pre-Akbar patron of Tansen was **Bhata/Rewa**, not Mewar, Malwa, or Gujarat.
 
 ### PYQ — Tansen pre-Akbar patron
 
@@ -226,7 +226,7 @@ D. Muzaffar Shah of Gujarat
 - **Qawwali** is Sufi devotional chorus music with call-and-response, handclaps, and harmonium and tabla in its later form.
 - Tradition links its origin and popularisation to **Amir Khusrau** in the **Nizamuddin** circle.
 - It is connected to Chishti **sama**, the musical assembly seen as a path to divine ecstasy.
-- In **2018 Q90**, early Chishti fondness for **sama** is true, but it does **not** fully explain why Sanskrit music works were translated into Persian (answer **B**: both true, R not the correct explanation).
+- Early Chishti fondness for **sama** is true, but it does **not** fully explain why Sanskrit music works were translated into Persian — both statements can be true without R explaining A.
 - Qawwali centres include Delhi dargahs (Nizamuddin) and the Ajmer Sharif lineage of Chishti devotion.
 - Qawwali is distinct from classical **dhrupad and khayal**; it is a religious mehfil form, not a Navratna court concert form.
 
@@ -267,13 +267,13 @@ D. A false; R true
 | **Raga Vibodh / Ragavibodha** | **Somanath** (~1610) | Janya–janaka; veena description |
 | **Chaturdandi Prakashika** | **Venkatraman / Venkatamakhin** | Melakarta theory (Carnatic) |
 
-- In **2021 Q22**, answer **A (3-4-1-2)** gives Ragamala to Pundrik (3), Rasa Kaumudi to Sri Kantha (4), Raga Vibodh to Somanath (1), and Chaturdandi to Venkatraman (2).
-- In **2022 Q108**, answer **D** gives the same pairs (A-3, B-4, C-1, D-2).
+- Music-treatise pairs: **Ragamala–Pundrik**, **Rasa Kaumudi–Sri Kantha**, **Raga Vibodh–Somanath**, **Chaturdandi–Venkatraman**.
+- The same music-treatise pairs recur: Pundrik–Ragamala, Sri Kantha–Rasa Kaumudi, Somanath–Raga Vibodh, Venkatraman–Chaturdandi.
 - Related older texts for context include **Sangeet Ratnakar** by Sharngadeva and **Natyashastra** by Bharata.
 
-> ** note:** Keep **2019 Q88 Khusrau–Rag Vibodh** as a separate literary PYQ fact. For **music-treatise** questions, **Raga Vibodh** is by **Somanath**.
+> **Logic:** **Khusrau–Rag Vibodh** is a literary match fact. For **music-treatise** questions, **Raga Vibodh** is by **Somanath**.
 
-### PYQ — Music treatise match (2021 Q22 / 2022 Q108)
+### PYQ — Music treatise match
 
 
 **1. (UPPCS Prelims 2021, Q22)** Match: A.Ragamala B.Rasa Kaumudi C.Raga Vibodh D.Chaturdandi Prakashika with 1.Somanath 2.Venkatraman 3.Pundrik Vitthal 4.Sri Kantha
@@ -289,7 +289,7 @@ Options: A.3-4-1-2 | B.4-2-1-3 | C.2-3-4-1 | D.1-2-3-4
 
 </details>
 
-**2. (UPPCS Prelims 2022, Q108)** Same four pairs with variant spellings — answer **D (3-4-1-2)**.
+**2. (UPPCS Prelims 2022, Q108)** Same four music-treatise pairs with variant spellings — **Ragamala–Pundrik**, **Rasa Kaumudi–Sri Kantha**, **Raga Vibodh–Somanath**, **Chaturdandi–Venkatraman**.
 
 ---
 
@@ -365,7 +365,7 @@ Options: A.3-4-1-2 | B.4-2-1-3 | C.2-3-4-1 | D.1-2-3-4
 
 **Ans: A (3-4-1-2)** — **UPPCS 2021 Q22Facts:** Ragamala–Pundrik (3) | Rasa Kaumudi–Sri Kantha (4) | Raga Vibodh–Somanath (1) | Chaturdandi–Venkatraman (2)
 
-**Trap:** Same code repeated in 2022 Q108.
+**Trap:** Same music-treatise pairs repeat across papers — verify author names, not just option letters.
 
 </details>
 
@@ -438,9 +438,9 @@ D. Muzaffar Shah of Gujarat
 
 <details><summary>Show answer</summary>
 
-**Ans: A** — 2019 Q89.
+**Logic:** Tansen's pre-Akbar patron was **Raja Ramchandra Singh of Bhata (Rewa)**.
 
-**Why:** Raja Ramchandra Singh of **Bhata (Rewa)** patronised Tansen before Akbar.
+**Ans: A.** **Raja Ramchandra Singh of Bhata (Rewa)** patronised Tansen before Akbar.
 
 **Trap:** Mewar/Malwa/Gujarat are distractors.
 
@@ -470,9 +470,9 @@ D. Muhammad Shah
 
 <details><summary>Show answer</summary>
 
-**Ans: D** — 2023 Q38.
+**Logic:** **Tappa** was refined at **Muhammad Shah Rangeela's** court.
 
-**Why:** 2023 Q38.
+**Ans: D.** **Tappa** was refined at **Muhammad Shah Rangeela's** court.
 
 **Trap:** Tappa = Muhammad Shah, not Akbar.
 
@@ -548,9 +548,9 @@ D. Guru Nanak
 
 <details><summary>Show answer</summary>
 
-**Ans: B** — 2025 Q12.
+**Logic:** **Amir Khusrau's** guru was **Nizamuddin Auliya**.
 
-**Why:** 2025 Q12.
+**Ans: B.** **Amir Khusrau** was disciple of **Nizamuddin Auliya**.
 
 **Trap:** Khusrau guru = Nizamuddin, not Bhakti gurus.
 
@@ -574,7 +574,7 @@ D. Tyagaraja
 
 </details>
 
-**Q9.** Match 2022 Q108 pattern: A.Ragmala B.Rasakaumudi C.Ragvivodh D.Chaturdandi with 1.Somnath 2.Venkatraman 3.Pundarik Vitthal 4.Srikantha
+**Q9.** Match A.Ragmala B.Rasakaumudi C.Ragvivodh D.Chaturdandi with 1.Somnath 2.Venkatraman 3.Pundarik Vitthal 4.Srikantha
 
 Options: A.1-2-3-4 | B.2-4-3-1 | C.4-2-1-3 | D.3-4-1-2
 
@@ -708,9 +708,9 @@ D. Sharngadeva
 
 <details><summary>Show answer</summary>
 
-**Ans: B** — 2021/2022.
+**Logic:** **Raga Vibodh** is by **Somanath** in music-treatise match stems.
 
-**Why:** 2021/2022.
+**Ans: B.** **Raga Vibodh** = **Somanath**.
 
 **Trap:** Music-treatise match: Raga Vibodh = Somanath (not Khusrau).
 
@@ -1065,8 +1065,8 @@ D. Qawwali — Venkatamakhin
 3. **Khayal** was **not** Akbar's signature form; Akbar patronised **dhrupad**, while khayal bloomed under **Muhammad Shah**.
 4. The primary drum of **dhrupad** is **pakhawaj**, not tabla.
 5. **Amir Khusrau** and **Tansen** were **not** contemporaries; Khusrau died in **1325**.
-6. In **2021/2022** music-treatise questions, **Raga Vibodh** is by **Somanath**, not Khusrau (separate from the 2019 Q88 literary pair).
-7. **Sama** does **not** fully explain all Persian music translations as the sole reason (2018 Q90 answer is **B**).
+6. In music-treatise match stems, **Raga Vibodh** is by **Somanath**, not Khusrau (separate from the literary Khusrau pair).
+7. **Sama** does **not** fully explain all Persian music translations as the sole reason — both statements can be true without R explaining A.
 8. **Qawwali** is a Sufi congregational form, not court dhrupad.
 9. **Chaturdandi Prakashika** was **not** written by Pundrik Vitthal; the author is **Venkatraman/Venkatamakhin**.
 10. **Rasa Kaumudi** was **not** written by Somanath; the author is **Sri Kantha**.

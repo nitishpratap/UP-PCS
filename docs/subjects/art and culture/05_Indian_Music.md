@@ -109,7 +109,7 @@ Vedic chanting UNESCO ICH **2008**. Sankirtana (Manipur) **2013**.
 - **Chaturdandi Prakashika** is by **Venkatamakhin / Venkatraman**. It sets out theoretical **melakarta** for Carnatic.
 - **Swaramelakalanidhi** is by Ramamatya (if asked). It is earlier south raga grouping.
 
-> ** note:** UPPCS **2021 Q22** and **2022 Q108** use the same four pairs. The code is **Ragamala–Pundrik, Rasa Kaumudi–Sri Kantha, Raga Vibodh–Somanath, Chaturdandi–Venkatraman**.
+> **Logic:** Match the four pairs — **Ragamala–Pundrik, Rasa Kaumudi–Sri Kantha, Raga Vibodh–Somanath, Chaturdandi–Venkatraman**.
 
 **PYQ — UPPCS Prelims 2021, Q22**
 
@@ -166,8 +166,6 @@ D. 1 2 3 4
 - **Qawwali** is Sufi chorus. **Amir Khusrau** is the disciple of **Nizamuddin Auliya**.
 - **Dadra** is light, like thumri, often 6-beat.
 - **Hori / Kajri / Chaiti** are seasonal light forms. **Kajri** is monsoon of the **Mirzapur–Banaras belt (UP)**.
-
-> ** note:** UPPCS **2023 Q38** — Tappa was refined in **Muhammad Shah’s** court, not Akbar’s.
 
 **PYQ — UPPCS Prelims 2023, Q38**
 
@@ -358,7 +356,7 @@ Later set splits string into **Tata** as plucked and **Vitat** as bowed.
 - **Tyagaraja Aradhana** is at Thiruvaiyaru, January.
 - **Sawai Gandharva** is at Pune. It is the Paluskar–Bhimsen line.
 
-> ** note:** UPPCS **2019 Q89** — Tansen before Akbar is **Raja Ramchandra of Bhata**. **Bismillah** is shehnai + Banaras. MS Subbulakshmi is not Hindustani.
+> **Logic:** Tansen before Akbar served **Raja Ramchandra of Bhata**. **Bismillah Khan** is shehnai + Banaras. MS Subbulakshmi is Carnatic, not Hindustani.
 
 **PYQ — UPPCS Prelims 2019, Q89**
 

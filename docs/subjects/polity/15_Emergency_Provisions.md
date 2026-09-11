@@ -11,8 +11,8 @@
 </details>
 
 > **Sources baked in:** Laxmikanth (Emergency), Part XVIII Arts. 352–360, 34, 250, 353–359, 365, 38th/42nd/44th, *Bommai*, *ADM Jabalpur*, UPPCS PYQs 2018–2025
-> **Weight:** ★★★ — **352** A/R (2024); Financial Emergency = **360** (2024); 44th knives (written Cabinet, armed rebellion, 20 & 21); *Bommai* floor test; 356 ≠ SC (2024 Q40 trap)
-> **Last verified:** August 2026
+> **Weight:** ★★★ — **352** A/R (2024); Financial Emergency = **360** (2024); 44th knives (written Cabinet, armed rebellion, 20 & 21); *Bommai* floor test; 356 ≠ SC
+> **Last verified:** September 2026 — Ghatnachakra Extra Drill (Emergency); teaching gap-pass from dump
 > **Current Affairs:** 356 still the federal live-wire (*Bommai* / Punchhi “localise”); 360 **never used**; election petitions stay Art. **329** even during Emergency
 
 ---
@@ -194,7 +194,7 @@ D. (A) is true, but (R) is false
 | 358/359 acts need not recite the Emergency | **Nexus + recital** (44th) — a law/order **unrelated** to the Emergency does not get 358/359 cover |
 | 360 satisfaction also “final” (38th) | Finality **gone** for 360 too |
 
-> ** note:** The **44th** is the single densest emergency amendment. The **42nd** is the Mini-Constitution (Socialist / Secular / integrity, Fundamental Duties, five Concurrent subjects) — here fact only what it did to **352–360**. Original 352 approval was by **simple** majority; “always special” is a favourite trap.
+> **Logic:** The **44th** is the single densest emergency amendment. The **42nd** is the Mini-Constitution (Socialist / Secular / integrity, Fundamental Duties, five Concurrent subjects) — here fact only what it did to **352–360**. Original 352 approval was by **simple** majority; “always special” is a favourite trap.
 
 ---
 
@@ -323,7 +323,7 @@ D. A-1, B-2, C-3, D-4
 - The **38th Amendment** made the President’s satisfaction “final”; the **44th** knocked that out — same pattern as 352/356.
 - There is **no** 358/359 switch under 360. Financial Emergency is money, not a rights switch.
 
-> ** note:** 360 is not 352. Judges’ salary cut is a **360** line, not 356. Match-question favourite = **360** (2024). “Never used” is the other 360 question.
+> **Logic:** 360 is not 352. Judges’ salary cut is a **360** line, not 356. Match-question favourite = **360** (2024). “Never used” is the other 360 question.
 
 ---
 
@@ -341,7 +341,7 @@ D. A-1, B-2, C-3, D-4
 | **Art. 33** | Parliament may **restrict FRs of armed forces** / police — peacetime statute, **not** martial law | Unrelated to 34 |
 | Can they overlap? | Yes — martial law in a district **while** 352 is on for the country | 352 does **not** automatically create martial law |
 
-> ** note:** “Martial law is Article 352” is **false**. Art. **34** is indemnity, not a proclamation article. Art. **33** is not Art. **34**.
+> **Logic:** “Martial law is Article 352” is **false**. Art. **34** is indemnity, not a proclamation article. Art. **33** is not Art. **34**.
 
 ---
 
@@ -349,7 +349,7 @@ D. A-1, B-2, C-3, D-4
 
 **Wrong stem → correct fact.**
 
-- “356 establishes the Supreme Court” → **Art. 124**. Article 356 is President’s Rule (2024 Q40 trap).
+- “356 establishes the Supreme Court” → **Art. 124**. Article 356 is President’s Rule.
 - “352 grounds are still ‘internal disturbance’” → **armed rebellion** (44th Amendment).
 - “352 can rest on the PM’s oral okay” → needs **written Cabinet** advice (44th).
 - “358 applies in an armed-rebellion Emergency” → 358 applies **only** in war / external aggression.
@@ -441,6 +441,771 @@ D. Emergency powers – Germany
 <summary>Show answer</summary>
 
 **Ans: C.** Residuary = **Canada**. Emergency FR-suspension = **Germany** (Weimar) is **correctly** matched.
+
+</details>
+
+---
+
+## Ghatnachakra Extra Drill — Emergency Provisions
+
+> Arts. 352 / 356 / 360 · 44th Amd · FR suspension · President’s Rule · Financial Emergency
+
+**Q1. UPPCS / Ghatnachakra standard**
+
+How many types of emergency are provided for in the Constitution of India?
+
+A. One
+B. Two
+C. Three
+D. Four
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Part XVIII (Arts. 352–360) lists National Emergency, President’s Rule, and Financial Emergency.
+
+**Ans: C. Three types of emergency.**
+
+</details>
+
+**Q2. UPPCS (Pre)**
+
+Article 355 of the Constitution of India imposes on the Union the duty to
+
+A. impose President’s Rule in a State
+B. protect every State against external aggression and internal disturbance and to ensure that the government of every State is carried on in accordance with the provisions of the Constitution
+C. declare Financial Emergency when a State defaults on loans
+D. suspend Fundamental Rights in a State during internal disturbance
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 355 is the Union’s protective duty; 356 is the proclamation that follows machinery failure.
+
+**Ans: B. Protect States and ensure constitutional governance in every State.**
+
+</details>
+
+**Q3. BPSC / MPPCS (Pre)**
+
+The duty of the Union to protect States against external aggression and internal disturbance is laid down in which Article?
+
+A. Article 352
+B. Article 355
+C. Article 356
+D. Article 360
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 352 = National Emergency; 356 = President’s Rule; 360 = Financial Emergency; 355 = Union duty.
+
+**Ans: B. Article 355.**
+
+</details>
+
+**Q4. UPSC / State PCS (Pre)**
+
+National Emergency in India is proclaimed under which Article of the Constitution?
+
+A. Article 352
+B. Article 356
+C. Article 358
+D. Article 360
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 352 = security emergency; 356 = state machinery; 360 = financial stability; 358 = auto-suspension of Art. 19.
+
+**Ans: A. Article 352.**
+
+</details>
+
+**Q5. UPPCS (Pre)**
+
+With reference to the grounds for proclamation of National Emergency under Article 352, consider the following:
+1. War
+2. Internal disturbance
+3. External aggression
+4. Communal violence
+
+Which of the above can form the constitutional basis for a proclamation under Article 352 today?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 3 and 4 only
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Valid 352 grounds are war, external aggression, and armed rebellion — not internal disturbance or communal violence.
+
+**Ans: D. Only statements 1 and 3 (war and external aggression) are valid among the four listed.**
+
+</details>
+
+**Q6. UPPCS (Pre)**
+
+Which one of the following is **not** a ground on which the President may proclaim a National Emergency under Article 352?
+
+A. War
+B. External aggression
+C. Threat to internal peace and tranquillity
+D. Armed rebellion
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Constitution names war, external aggression, and armed rebellion — not a loose internal-peace formula.
+
+**Ans: C. Threat to internal peace and tranquillity is not a constitutional ground.**
+
+</details>
+
+**Q7. IAS / State PCS (Pre)**
+
+The President may proclaim a National Emergency when the security of India or any part of its territory is threatened by which of the following?
+
+A. War, external aggression and armed rebellion
+B. War and internal disturbance only
+C. External aggression and communal violence only
+D. Internal disturbance and armed rebellion only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 44th Amendment retained the security triad and dropped internal disturbance as a 352 label.
+
+**Ans: A. War, external aggression and armed rebellion.**
+
+</details>
+
+**Q8. UPPCS (Pre)**
+
+Consider the following statements:
+1. National Emergency may be proclaimed on grounds of war or external aggression.
+2. Internal disturbance alone remains a valid ground for National Emergency.
+3. President’s Rule is proclaimed under Article 356.
+4. Financial Emergency is proclaimed under Article 360.
+
+Select the correct answer using the code given below:
+
+A. 1 and 2 only
+B. 1, 3 and 4 only
+C. 2, 3 and 4 only
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Statement 2 is false after the 44th Amendment; statements 1, 3 and 4 state standard article–type pairings.
+
+**Ans: B. Statements 1, 3 and 4 only are correct.**
+
+</details>
+
+**Q9. RAS / CGPCS (Pre)**
+
+Under Article 352, a National Emergency may be declared when the security of India is threatened by
+
+A. war, external aggression or armed rebellion
+B. war or internal disturbance only
+C. external aggression or financial instability
+D. armed rebellion or failure of constitutional machinery in a State
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 352 is the national-security switch; failure of state machinery is 356, financial stability is 360.
+
+**Ans: A. War, external aggression or armed rebellion.**
+
+</details>
+
+**Q10. UPPCS (Pre)**
+
+Consider the following statements regarding emergency provisions:
+1. National Emergency is dealt with in Article 352.
+2. President’s Rule is dealt with in Article 356.
+3. Financial Emergency is dealt with in Article 360.
+
+Select the correct answer using the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** All three article–type pairings are textbook Part XVIII facts.
+
+**Ans: C. All three statements are correct.**
+
+</details>
+
+**Q11. UPPCS (Pre)**
+
+For the purpose of a proclamation of National Emergency under Article 352, the President shall not issue the proclamation unless the decision of the Union Cabinet has been communicated to him in
+
+A. oral form by the Prime Minister alone
+B. writing by the Prime Minister alone
+C. writing by the Union Cabinet as defined in the Explanation to Article 352(3)
+D. writing by the Council of Ministers including Ministers of State
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 44th Amendment inserted written Union Cabinet advice — the PM alone cannot trigger 352.
+
+**Ans: C. Writing by the Union Cabinet under Article 352(3).**
+
+</details>
+
+**Q12. UPPCS (Pre) 2024**
+
+**Assertion (A):** Article 352 of the Indian Constitution deals with the declaration of an emergency.
+
+**Reason (R):** An emergency may take place at any time.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. Both (A) and (R) are true and (R) is the correct explanation of (A)
+D. (A) is true, but (R) is false
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** (A) correctly identifies Art. 352. (R) is a vague truism — it does not explain why 352 exists; grounds are war, aggression, or armed rebellion.
+
+**Ans: A. Both (A) and (R) are true, but (R) is not the correct explanation of (A).**
+
+</details>
+
+**Q13. UPSC (Pre)**
+
+Which Article of the Constitution empowers the President to proclaim National Emergency?
+
+A. Article 350
+B. Article 352
+C. Article 356
+D. Article 358
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 352 = proclamation; 356 = President’s Rule; 358 = automatic suspension of Art. 19 during certain 352 emergencies.
+
+**Ans: B. Article 352.**
+
+</details>
+
+**Q14. CGPCS (Pre)**
+
+With reference to National Emergency under Article 352, consider the following statements:
+i. It must be approved by both Houses of Parliament within one month.
+ii. Approval requires only a simple majority of members present and voting.
+iii. Approval requires a majority of the total membership and two-thirds of members present and voting.
+iv. Once approved, it continues for six months at a time.
+v. The President may revoke it at any time by a fresh proclamation.
+vi. A Lok Sabha resolution of disapproval requires only a simple majority.
+
+Select the correct answer using the code given below:
+
+A. i, ii and iv only
+B. i, iii and v only
+C. i, iii, v and vi only
+D. ii, iv and vi only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Approval = special majority (iii); disapproval = simple majority (vi); one-month window (i); six-month slices (iv); presidential revoke (v).
+
+**Ans: C. Statements i, iii, v and vi only are correct.**
+
+</details>
+
+**Q15. UPPCS (Pre)**
+
+A proclamation of National Emergency under Article 352 must be approved by Parliament within
+
+A. fifteen days
+B. one month
+C. two months
+D. six months
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 44th Amendment cut the window from two months to one month for 352; 356/360 still use two months.
+
+**Ans: B. One month.**
+
+</details>
+
+**Q16. IAS / State PCS (Pre)**
+
+Within what period must a proclamation of National Emergency be ratified by both Houses of Parliament?
+
+A. Within fifteen days
+B. Within one month
+C. Within two months
+D. Within six months
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same one-month ratification clock as other 352 stems — contrast 356/360 (two months).
+
+**Ans: B. Within one month.**
+
+</details>
+
+**Q17. UPPCS (Pre)**
+
+During a National Emergency, the distribution of revenues between the Union and the States may be modified by the President under
+
+A. Article 280
+B. Article 354
+C. Article 360
+D. Article 368
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 354 modifies Arts. 268–279 revenue sharing during 352; 360 is Financial Emergency; 280 is Finance Commission.
+
+**Ans: B. Article 354.**
+
+</details>
+
+**Q18. UPSC (Pre)**
+
+Under Article 359 of the Constitution, the President may by order suspend the right to move any court for the enforcement of Fundamental Rights during a National Emergency, except
+
+A. Articles 14 and 19
+B. Articles 19 and 32
+C. Articles 20 and 21
+D. Articles 21 and 32
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 44th Amendment made Arts. 20 and 21 non-suspendable under 359 — the *ADM Jabalpur* lesson.
+
+**Ans: C. Articles 20 and 21.**
+
+</details>
+
+**Q19. Ghatnachakra / standard (*)**
+
+How many times has National Emergency been proclaimed in India so far?
+
+A. Once
+B. Twice
+C. Three times
+D. Four times
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 1962 (China), 1971 (Pakistan), and 1975–77 are the three proclamations — some booklets treat overlapping 1971/1975 counts differently.
+
+**Ans: C. Three times — dump keyed * where printings count overlapping proclamations differently.**
+
+</details>
+
+**Q20. UPSC (Pre) 2018**
+
+Which of the following Fundamental Rights cannot be suspended even during a National Emergency?
+
+A. Article 19
+B. Articles 20 and 21
+C. Article 22
+D. Article 32
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 44th Amendment made Arts. 20 and 21 non-suspendable under Art. 359; Art. 19 may sleep via 358 in war/external 352.
+
+**Ans: B. Articles 20 and 21.**
+
+</details>
+
+**Q21. BPSC / RAS (Pre)**
+
+Even by an order under Article 359 during National Emergency, the enforcement of which of the following cannot be suspended?
+
+A. Article 19
+B. Articles 20 and 21
+C. Article 22
+D. Article 25
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 359 can name other FRs for enforcement suspension, but never 20 and 21 after the 44th Amendment.
+
+**Ans: B. Articles 20 and 21.**
+
+</details>
+
+**Q22. UPPCS (Pre)**
+
+While a Proclamation of National Emergency is in operation, the normal term of the Lok Sabha may be extended by Parliament
+
+A. by six months at a time without any outer limit
+B. by one year at a time, subject to the six-months-after-Emergency cap in Article 83(2)
+C. only once for a maximum of two years
+D. automatically for the full duration of the Emergency
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 83(2) allows one-year slices during 352, but not beyond six months after the Emergency ends.
+
+**Ans: B. By one year at a time, subject to Article 83(2) limits.**
+
+</details>
+
+**Q23. UPPCS (Pre)**
+
+During a National Emergency, the term of a State Legislative Assembly may be extended by
+
+A. the Governor under Article 356
+B. Parliament by law under Article 172
+C. the President by ordinance under Article 213
+D. the State Legislature itself by resolution
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 172 mirrors the Lok Sabha rule — one year at a time during 352, with the post-Emergency six-month cap.
+
+**Ans: B. Parliament by law under Article 172.**
+
+</details>
+
+**Q24. UPPCS / Ghatnachakra standard**
+
+The Internal Emergency of 1975–77 was proclaimed on which date?
+
+A. 26 January 1975
+B. 25 June 1975
+C. 21 March 1977
+D. 3 December 1971
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 25 June 1975 is the proclamation date on internal disturbance; 21 March 1977 is revocation; 3 December 1971 is the external Emergency for the Bangladesh war.
+
+**Ans: B. 25 June 1975.**
+
+</details>
+
+**Q25. UPPCS (Pre)**
+
+**Assertion (A):** The Constitution of India establishes a federal system of government.
+
+**Reason (R):** Under Article 352, the Union may take over the entire machinery of government in the States.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** India is federal in normal times, but (R) misstates the article — state machinery takeover is President’s Rule under Art. 356, not 352.
+
+**Ans: C. (A) is true, but (R) is false.**
+
+</details>
+
+**Q26. UPPCS (Pre)**
+
+The written report of the Governor is constitutionally most closely associated with the proclamation of
+
+A. National Emergency under Article 352
+B. President’s Rule under Article 356
+C. Financial Emergency under Article 360
+D. Martial law under Article 34
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 352 needs written Union Cabinet advice; the Governor’s report is the typical gateway to 356.
+
+**Ans: B. President’s Rule under Article 356.**
+
+</details>
+
+**Q27. UPSC / State PCS (Pre)**
+
+Failure of constitutional machinery in a State is dealt with under which Article?
+
+A. Article 352
+B. Article 355
+C. Article 356
+D. Article 360
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 356 = President’s Rule; 352 = national security; 355 = duty; 360 = financial stability.
+
+**Ans: C. Article 356.**
+
+</details>
+
+**Q29. IAS (Pre) 2018**
+
+If the President of India exercises his power as provided under Article 356 of the Constitution in respect of a particular State, then
+
+A. the Assembly of the State is automatically dissolved
+B. the powers of the Legislature of that State shall be exercisable by or under the authority of Parliament
+C. Article 19 is suspended in that State
+D. the President can make laws relating to that State
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 357 follows 356 — Parliament (or authority under Parliament) exercises state legislative power; assembly is not auto-dissolved; Art. 19 is not suspended under 356.
+
+**Ans: B. The powers of the State Legislature shall be exercisable by or under the authority of Parliament.**
+
+</details>
+
+**Q30. UPPCS (Pre)**
+
+With reference to President’s Rule under Article 356, consider the following statements:
+1. The State Legislative Assembly is not necessarily dissolved at once.
+2. All local bodies in the State are automatically dissolved.
+3. Local bodies (municipalities and panchayats) are not necessarily dissolved.
+4. The High Court of the State is dissolved.
+
+Select the correct answer using the code given below:
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 4 only
+D. 1, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Assembly may be suspended first (*Bommai*); local bodies continue; the High Court is not dissolved.
+
+**Ans: B. Statements 1 and 3 only are correct.**
+
+</details>
+
+**Q31. RAS/RTS (Pre)**
+
+With reference to *S.R. Bommai* (1994) and Article 356, consider the following statements:
+i. A proclamation under Article 356 is subject to judicial review.
+ii. The State Legislative Assembly may be kept in suspended animation until Parliament approves the proclamation.
+iii. The Assembly may be dissolved immediately when the proclamation is issued.
+iv. Dissolution of the Assembly should normally come only after parliamentary approval of the proclamation.
+
+Select the correct answer using the code given below:
+
+A. i, ii and iv only
+B. i and iii only
+C. ii, iii and iv only
+D. i, ii, iii and iv
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** *Bommai* made 356 justiciable and barred premature dissolution — suspend first, dissolve after Parliament approves.
+
+**Ans: A. Statements i, ii and iv only are correct.**
+
+</details>
+
+**Q32. UPPCS / State PCS (Pre)**
+
+The maximum period for which President’s Rule can remain in force in a State (with repeated parliamentary extensions) is
+
+A. one year
+B. two years
+C. three years
+D. five years
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Six-month slices renew, but the outer cap is three years — beyond one year needs 352 in force plus EC certificate.
+
+**Ans: C. Three years.**
+
+</details>
+
+**Q33. UPPCS (Pre)**
+
+Match List-I (State) with List-II (number of times President’s Rule has been imposed — Ghatnachakra counts) and select the correct answer using the code given below the lists:
+
+**List-I**
+
+| Code | Item |
+|------|------|
+| A | Manipur |
+| B | Uttar Pradesh |
+| C | Bihar |
+| D | Odisha |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | 6 times |
+| 2 | 8 times |
+| 3 | 9 times |
+| 4 | 10 times |
+
+*Row order is not the answer code.*
+
+Select the correct answer using the code given below:
+
+A. A-3, B-4, C-1, D-2
+B. A-4, B-3, C-2, D-1
+C. A-2, B-1, C-4, D-3
+D. A-4, B-2, C-3, D-1
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Ghatnachakra frequency table: Manipur 10, UP 9, Bihar 8, Odisha 6 — counts vary slightly by source but this is the booklet pairing.
+
+**Ans: B. A-4, B-3, C-2, D-1 (Manipur–10, UP–9, Bihar–8, Odisha–6).**
+
+</details>
+
+**Q34. UPPCS / Ghatnachakra standard**
+
+President’s Rule under Article 356 was imposed for the first time in which of the following?
+
+A. Punjab in 1951
+B. Kerala in 1959
+C. PEPSU (Patiala and East Punjab States Union) in 1953
+D. Jammu and Kashmir in 1953
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Punjab 1951 is the usual textbook first use, but the Ghatnachakra booklet keys PEPSU 1953 — note both dates in teaching.
+
+**Ans: C. PEPSU in 1953 (dump key; Punjab 1951 is the alternate textbook first-use date).**
+
+</details>
+
+**Q35. UPPCS (Pre)**
+
+With reference to Financial Emergency under Article 360, consider the following statements:
+1. The salaries of judges of the Supreme Court and High Courts may be reduced.
+2. Article 19 is automatically suspended.
+3. It must be approved within two months by simple majority.
+4. It has never been proclaimed in India.
+
+Select the correct answer using the code given below:
+
+A. 1 only
+B. 1 and 3 only
+C. 1, 3 and 4 only
+D. 2, 3 and 4 only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Booklet keys 1 only — statement 1 is the distinctive 360 fact (judges’ salaries); 2 is false; 3 and 4 are also true in standard teaching but excluded in the dump key.
+
+**Ans: A. Statement 1 only.**
+
+</details>
+
+**Q36. BPSC (Pre) (*)**
+
+With reference to Financial Emergency (Article 360), consider the following statements:
+1. The Union may issue directions to States to observe canons of financial propriety.
+2. All Money Bills of States must necessarily be reserved for the President in every case.
+3. Salaries of persons serving the Union or a State, including judges, may be reduced.
+4. It automatically converts India into a unitary state on all subjects.
+
+Select the correct answer using the code given below:
+
+A. 1 and 2 only
+B. 2 and 4 only
+C. 1 and 3 only
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Statements 1 and 3 are clearly correct; 2 and 4 overstate — money bills are reserved under 360 but not in every ordinary case; 360 is financial, not a full federal takeover.
+
+**Ans: C. Statements 1 and 3 only — dump keyed * noting 2/4 are not absolute.**
+
+</details>
+
+**Q37. UPPCS (Pre)**
+
+Which of the following Articles relating to emergency has **never** been invoked in India?
+
+A. Article 352
+B. Article 356
+C. Article 358
+D. Article 360
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 352 (1962, 1971, 1975), 356 (100+ times), and 358 (via external 352) have operated; 360 has never been proclaimed.
+
+**Ans: D. Article 360.**
+
+</details>
+
+**Q38. UPPCS / State PCS (Pre)**
+
+Financial Emergency under Article 360 has been declared in India
+
+A. once, during the 1991 balance-of-payments crisis
+B. twice, in 1975 and 1991
+C. never
+D. thrice, during wars in 1962, 1971 and 1975
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 360 remains the unused emergency — wars triggered 352, not 360.
+
+**Ans: C. Never.**
+
+</details>
+
+**Q39. Ghatnachakra / standard**
+
+Who described the emergency powers of the President as “a fraud on the Constitution”?
+
+A. K. M. Nambiar
+B. K. M. Munshi
+C. B. N. Rau
+D. B. R. Ambedkar
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Constituent Assembly debate attribution — Nambiar’s criticism of wide emergency powers is the standard PCS recall line.
+
+**Ans: A. K. M. Nambiar.**
 
 </details>
 

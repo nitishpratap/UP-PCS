@@ -132,7 +132,7 @@ Early Medieval India | Major Dynasties of South India | Major Rulers of South In
 - This topic covers regional kingdoms and is **not** the Delhi Sultanate, which begins in **1206**.
 - A common trap is calling Mihir Bhoja a “Sultan”; he was a Gurjara-Pratihara ruler.
 
-> ** note:** Early Medieval ends at the Rajput–Turkish transition (~**Tarain 1192** / **Chandawar 1194**), not at Mughal rule.
+> **Logic:** Early Medieval ends at the Rajput–Turkish transition (~**Tarain 1192** / **Chandawar 1194**), not at Mughal rule.
 
 ---
 
@@ -169,7 +169,7 @@ Early Medieval India | Major Dynasties of South India | Major Rulers of South In
 | **Tomar** | **Dhillika (Delhi)** | Delhi–Haryana | **Anangpal** |
 | **Solanki / Chaulukya** | **Anhilwada** | Gujarat | **Mularaja I**; Jayasimha Siddharaja; **Kumarapala** |
 
-> ** note:UPPCS 2019 Q90** → Pallava-Kanchi, Pandya-Madura, Yadava-Devagiri, Kakatiya-Warangal (**B = 2 3 4 1**). **UPPCS 2025 Q121** → Mahendravarman-Pallava, Kadungon-Pandya, Amoghavarsha-Rashtrakuta, Rajaraja-Chola (**B = 2 4 1 3**).
+> **Logic:** Pallava capital is **Kanchi**; Pandya capital is **Madura**; Yadava capital is **Devagiri**; Kakatiya capital is **Warangal**. **Mahendravarman I** was a **Pallava**; **Kadungon** revived the **Pandyas**; **Amoghavarsha I** was a **Rashtrakuta**; **Rajaraja I** was a **Chola**.
 
 ### PYQs — South dynasties (match)
 
@@ -232,7 +232,7 @@ D. 4 2 1 3
 ### Pandya & Chera (key facts)
 
 - **Kadungon** revived the **Pandya** line around the **6th century**.
-- He is the Pandya fact in **2025 Q121**.
+- **Kadungon** is the classic Pandya revival ruler paired with the Pandya dynasty.
 - Later Pandyas ruled from **Madurai** and repeatedly clashed with Cholas for Tamil supremacy.
 - **Rajaraja I** conquered Madurai.
 - **Parantaka I** earlier defeated the Madurai king and took the title **Maduraikonda**.
@@ -249,7 +249,7 @@ D. 4 2 1 3
 **Capital:Kanchi (Kanchipuram)** | **Span:** c. **575–897 CE** | **Rival:** Early Chalukyas of Badami
 
 - **Simhavishnu (c. 575–600)** is treated as the dynastic restorer who made Kanchi the Pallava power centre. He took the title **Avanisimha (Avanisingh)** and defeated Chola, Pandya, Sinhala, and Kalabhra rivals.
-- **Mahendravarman I (c. 600–630)** pioneered **rock-cut** architecture at Mahabalipuram and is the Pallava fact in **2025 Q121**.
+- **Mahendravarman I (c. 600–630)** pioneered **rock-cut** architecture at Mahabalipuram and is a classic **Pallava** ruler.
 - **Mahendravarman I** patronised Shaivism, Vaishnavism, and Jainism and wrote the Sanskrit humorous play ***Mattavilasa Prahasana***.
 - **Narasimhavarman I (c. 630–668)** took the title **Mahamalla** (great wrestler). He took **Vatapi in 642** and earned the title **Vatapikonda**. The famous **Pancha Rathas** belong to his Mamalla phase.
 - In **642** he sent **two naval expeditions** to Ceylon to help a Sri Lankan prince.
@@ -261,7 +261,7 @@ D. 4 2 1 3
 - The Pallava–Chalukya rivalry centred on the **Krishna–Tungabhadra doab**.
 - Both sides fought for control of **Vatapi** and **Kanchi**.
 
-> ** note:** Shore Temple = **Pallava**, not Chola. Do not swap **Kanchi** with **Kannauj**. **Mahamalla ≠ Chola**.
+> **Logic:** Shore Temple = **Pallava**, not Chola. Do not swap **Kanchi** with **Kannauj**. **Mahamalla ≠ Chola**.
 
 ### PYQ — Temple chronology (Pallava + Chola)
 
@@ -369,7 +369,7 @@ D. A false, R true
 - **Amoghavarsha I (814–878)** ruled for about **64 years**.
 - He was born in a military camp near the **Narmada** while his father **Govinda III** returned from northern campaigns.
 - He wrote **Kavirajamarga**, an early Kannada text.
-- He is the Rashtrakuta fact in **2025 Q121**.
+- **Amoghavarsha I** is the classic **Rashtrakuta** ruler paired with Manyakheta.
 - **Govinda III** campaigned north against Pratiharas and south against Tamil powers. He defeated Pratihara **Nagabhatta II** (Sanjan / Radhanpur plates).
 - **Indra III** sacked **Kannauj (915–918)** in the tripartite contest.
 - **Krishna III** defeated Chola **Parantaka I** (**949**) and reached Rameshwaram.
@@ -382,7 +382,7 @@ D. A false, R true
 - The empire ended when Manyakheta fell in **972**.
 - Western Chalukyas rose in its place.
 
-> ** note:Amoghavarsha I = Rashtrakuta** (not Chola/Pallava). **Hiranyagarbha** = Dantidurga. Manyakheta is not a Pratihara capital.
+> **Logic:**Amoghavarsha I = Rashtrakuta** (not Chola/Pallava). **Hiranyagarbha** = Dantidurga. Manyakheta is not a Pratihara capital.
 
 ---
 
@@ -417,12 +417,12 @@ D. A false, R true
 - Chola artists excelled in stone and especially **bronze**. The classic **Nataraja** (dancing Shiva) icons have **four hands**. In the right ear he wears a man’s earring and in the left a woman’s — the **Ardhanarishwara** hint.
 - The **Dakshinamurti** form of Shiva shows him as **guru / teacher** giving knowledge to devotees. The image is installed facing **south**.
 - Chola rulers cut **victory narratives on temple walls** and issued copper plates.
-- That is why sources for the Cholas outrun earlier Tamil dynasties (**UPPCS 2020 Q8**).
+- That is why sources for the Cholas outrun earlier Tamil dynasties.
 - **Kulottunga I** consolidated Chola power. In **1077** a Chola mission of **72** merchants / Buddhist traders was sent to **China**.
 - When **Vijayabahu** proclaimed an independent Sinhala island in Kulottunga’s time, Kulottunga did not escalate hostility and married his daughter to Sinhala prince **Virapperumal**.
 - The empire later cracked under Pandya–Hoysala–Kakatiya pressure. Near **1279** Chola power ended under **Rajendra III**; Malik Kafur’s southern campaigns come later (~**1310**).
 
-> ** note:** Father’s temple (**Brihadishwara 1010**) before son’s capital-temple complex (**Gangaikondacholapuram ~1025**). **Rajaraja I = Chola** in 2025 Q121. Founder = **Vijayalaya**, not Parantaka.
+> **Logic:** **Rajaraja I** built **Brihadishwara (1010)** before **Rajendra I** built **Gangaikondacholapuram (~1025)**. **Rajaraja I** was a **Chola** ruler. Chola founder = **Vijayalaya**, not Parantaka.
 
 ### PYQ — Chola sources
 
@@ -471,7 +471,7 @@ D. A false, R true
 - Temple institutions stored land, cash, and inscription records.
 - Administration and religion were tightly linked through these temple networks.
 
-> ** note:Nadu** is the basic territorial unit below Valanadu; **Mandalam** is the province. Do not reverse them.
+> **Logic:**Nadu** is the basic territorial unit below Valanadu; **Mandalam** is the province. Do not reverse them.
 
 ---
 
@@ -502,7 +502,7 @@ D. A false, R true
 | **Taniyur** | A **very large village** administered as a single unit (not “land gifted to one Brahmana”) |
 | **Ghatika** | A college generally attached to a temple |
 
-> ** note:Ur ≠ Sabha**. Sabha = Brahmana agrahara assembly with stronger autonomy. **Taniyur ≠ Brahmadeya gift** in the usual wrong-pair stem.
+> **Logic:**Ur ≠ Sabha**. Sabha = Brahmana agrahara assembly with stronger autonomy. **Taniyur ≠ Brahmadeya gift** in the usual wrong-pair stem.
 
 ---
 
@@ -526,7 +526,7 @@ D. A false, R true
 - Later Arab and Chinese shipping reduced Indian dominance in the Indian Ocean.
 - The Chola navy was the first Indian empire to project **sustained naval power beyond the subcontinent**.
 
-> ** note:1025 Kadaram / Srivijaya** = **Rajendra I**, not Rajaraja. “Chola Lake” = **Bay of Bengal**. First standing naval army = **Rajaraja I**.
+> **Logic:**1025 Kadaram / Srivijaya** = **Rajendra I**, not Rajaraja. “Chola Lake” = **Bay of Bengal**. First standing naval army = **Rajaraja I**.
 
 ### PYQ — “Chola Lake”
 
@@ -578,7 +578,7 @@ D. A false, R true
 - **Krishna III (Rashtrakuta)** invaded again in **963**, hastening Pratihara collapse.
 - Feudatories later became **Paramaras**, **Chandelas**, and **Chauhans** as the empire cracked.
 
-> ** note:Mihir Bhoja = Pratihara** (title **Adivaraha**). Not the same person as **Paramara Bhoja** of Dhara. Kannauj = **Mahodaya / Mahodaya Shri**.
+> **Logic:**Mihir Bhoja = Pratihara** (title **Adivaraha**). Not the same person as **Paramara Bhoja** of Dhara. Kannauj = **Mahodaya / Mahodaya Shri**.
 
 ---
 
@@ -606,7 +606,7 @@ D. A false, R true
 - Kannauj mattered because it was Harsha’s old capital and a symbol of **Ganga-doab sovereignty**.
 - After Pratihara decline, **Gahadavalas** later held Kannauj + Banaras in the UP doab.
 
-> ** note:** Tripartite = **exactly three**. Swap-trap: adding Chola or Chauhan as a main Kannauj player.
+> **Logic:** Tripartite = **exactly three**. Swap-trap: adding Chola or Chauhan as a main Kannauj player.
 
 ---
 
@@ -638,7 +638,7 @@ D. A false, R true
 - In the Mithila / north Bihar belt, the **Karnata** dynasty was founded by **Nanyadeva (c. 1097–1147)** with capital at **Simraungadh**.
 - The last major Karnata king was **Harisimha (c. 1295–1324)**, remembered for protecting arts and starting the **Panji** system.
 
-> ** note:Gopala = elected founder + Odantapuri**. **Vikramashila / Somapura = Dharmapala**. Balaputradeva = Sailendra request under **Devapala**.
+> **Logic:**Gopala = elected founder + Odantapuri**. **Vikramashila / Somapura = Dharmapala**. Balaputradeva = Sailendra request under **Devapala**.
 
 ---
 
@@ -663,7 +663,7 @@ D. A false, R true
 - Lakshman Sen fled, marking the start of Turkish rule in Bengal.
 - Sena administration followed earlier Pala models of land grants to Brahmins.
 
-> ** note:UPPCS 2024 Q3** answer **D (3 4 1 2)** = Hemant → Vijaya → Ballal → Lakshman. **Lakshmana Samvat = Sena**, not Pala/Pratihara.
+> **Logic:** Sena ruler order is **Hemant → Vijaya → Ballal → Lakshman**. **Lakshmana Samvat** belongs to the **Sena** dynasty, not Pala or Pratihara.
 
 ### PYQ — Sena chronology
 
@@ -712,7 +712,7 @@ D. 3, 4, 1, 2
 - Paramara architecture and learning mark **Malwa**.
 - They must not be confused with Bundelkhand temples of the Chandelas.
 
-> ** note:Dhara / Malwa = Paramara**. **Khajuraho = Chandela**. **Mihir Bhoja ≠ Paramara Bhoja**. Bhojshala deity = **Saraswati**.
+> **Logic:**Dhara / Malwa = Paramara**. **Khajuraho = Chandela**. **Mihir Bhoja ≠ Paramara Bhoja**. Bhojshala deity = **Saraswati**.
 
 ---
 
@@ -731,7 +731,7 @@ D. 3, 4, 1, 2
 - Khajuraho (UNESCO WHS) belongs to the **Chandelas**, not Paramaras or Pratiharas.
 - **Mahoba** and **Kalinjar** place the dynasty on the **UP–MP Bundelkhand** frontier tested by UPPCS.
 
-> ** note:** Assign **Khajuraho → Chandela**. **Jejakabhukti = Bundelkhand**. **Alha–Udal = Mahoba**, not Chanderi/Panna.
+> **Logic:** Assign **Khajuraho → Chandela**. **Jejakabhukti = Bundelkhand**. **Alha–Udal = Mahoba**, not Chanderi/Panna.
 
 ---
 
@@ -759,7 +759,7 @@ D. 3, 4, 1, 2
 - Jain scholar **Hemachandra** rose under **Jayasimha Siddharaja (1093–1143)** and later advised **Kumarapala (1143–1172)**.
 - **Jayasimha Siddharaja** is remembered for restoring a demolished mosque at **Khambhat** with a large grant (Aufi’s account).
 
-> ** note:** Delhi founder = **Tomar Anangpal**, not Chauhan. Solanki capital = **Anhilwada**, not Dhara.
+> **Logic:** Delhi founder = **Tomar Anangpal**, not Chauhan. Solanki capital = **Anhilwada**, not Dhara.
 
 ---
 
@@ -780,7 +780,7 @@ D. 3, 4, 1, 2
 - They held **Kannauj** as their political capital alongside Banaras.
 - Kannauj never regained imperial stature after Turkish conquest of the Ganga valley.
 
-> ** note:** Jay Chandra dies at **Chandawar 1194**, not Tarain (**1192**, Prithviraj). **Kumaradevi’s vihara = Sarnath**, not Bodh Gaya.
+> **Logic:** Jay Chandra dies at **Chandawar 1194**, not Tarain (**1192**, Prithviraj). **Kumaradevi’s vihara = Sarnath**, not Bodh Gaya.
 
 ### PYQ — Gahadavala dual capitals
 
@@ -823,7 +823,7 @@ D. A false, R true
 - The Kalachuri capital was **Tripuri** near Jabalpur. Do not match it with Paramara **Dhara**, Chandela **Khajuraho**, or **Kannauj**.
 - Their rise forms part of the wider **Rajput regional state** map after Pratihara decline.
 
-> ** note:Tripuri / Jabalpur belt = Kalachuri**. **Gangeyadeva ≠ Paramara**. Do not park them at Dhara or Mahoba.
+> **Logic:**Tripuri / Jabalpur belt = Kalachuri**. **Gangeyadeva ≠ Paramara**. Do not park them at Dhara or Mahoba.
 
 ---
 
@@ -835,9 +835,9 @@ D. A false, R true
 - **Hoysalesvara** at Halebid and **Chennakesava** at **Belur** are the signature Hoysala monuments.
 - Hoysala temples used **soapstone** and are famous for dense exterior sculpture.
 - Hoysalas rose under Western Chalukya shadow, then fought Cholas and later Deccan rivals.
-- **Veer Ballal** appears in match lists as a Hoysala ruler name (**2018 Q96** set).
+- **Veer Ballal** was a **Hoysala** ruler of Dvarasamudra/Halebid.
 
-> ** note:** Halebid/Dvarasamudra = Hoysala. Not Warangal, not Devagiri.
+> **Logic:** Halebid/Dvarasamudra = Hoysala. Not Warangal, not Devagiri.
 
 ---
 
@@ -855,7 +855,7 @@ D. A false, R true
 - Ganapati Deva’s Motupalli charter protected sea merchants.
 - Kakatiya power fell to Delhi Sultanate pressure in the early **14th century**.
 
-> ** note:UPPCS 2019 Q90** — Kakatiya ↔ **Warangal**. **Motupalli** = Kakatiya port, not Masulipatnam / Kakinada in the classic stem.
+> **Logic:** The Kakatiya capital was **Warangal**. **Motupalli** was their famous seaport, not Masulipatnam or Kakinada.
 
 ### PYQ — Rudramadevi
 
@@ -899,7 +899,7 @@ D. A false, R true
 - **Devagiri** is the **Yadava** capital.
 - It must not be matched with Kakatiya **Warangal**.
 
-> ** note:Devagiri = Yadava**. **Warangal = Kakatiya**. Ramachandra belongs to Devagiri, not Warangal (**2018 Q96**).
+> **Logic:** **Devagiri** was the **Yadava** capital. **Warangal** was the **Kakatiya** capital. **Ramachandra** was a Yadava ruler of Devagiri, not a Kakatiya ruler of Warangal.
 
 ### PYQ — NOT correctly matched
 
@@ -918,7 +918,7 @@ D. Madura–Veer Pandya
 
 **Ans: BWhy wrong:Ramachandra Dev** was a **Yadava** ruler of **Devagiri** (later Daulatabad), not a **Kakatiya** ruler of **Warangal (Orugallu)**.
 
-**Trap:Devagiri = Yadava** and **Warangal = Kakatiya** — UPPCS repeatedly swaps this Deccan capital pair (also **2019 Q90**).
+**Trap:** **Devagiri = Yadava** and **Warangal = Kakatiya** — do not swap this Deccan capital pair.
 
 </details>
 
@@ -943,7 +943,7 @@ D. Madura–Veer Pandya
 - Do not confuse **Kannauj (UP)** with **Kanchi (TN)**.
 - Do not match **Jejakabhukti** with **Kaushambi**.
 
-> ** note:** UPPCS likes **Kannauj / Kashi / Ayodhya / Mahoba / Kalinjar / Koil / Jejakabhukti** in Rajput–early medieval frames.
+> **Logic:** Medieval UP place names to memorise: **Kannauj**, **Kashi**, **Ayodhya**, **Mahoba**, **Kalinjar**, **Koil**, and **Jejakabhukti** (Bundelkhand).
 
 ---
 
@@ -1094,7 +1094,7 @@ D. Madura — Veer Pandya
 
 **Ans: BWhy wrong:Ramachandra Dev** was a **Yadava** ruler of **Devagiri**, not a **Kakatiya** ruler of **Warangal**.
 
-**Trap:Devagiri = Yadava** | **Warangal = Kakatiya** — repeated UPPCS swap.
+**Trap:** **Devagiri = Yadava** | **Warangal = Kakatiya** — do not swap this Deccan capital pair.
 
 </details>
 
@@ -1194,7 +1194,7 @@ D. 2 4 3 1
 
 **Ans: B (2 3 4 1)Facts:** A–2 Pallava–Kanchi | B–3 Pandya–Madura | C–4 Yadava–Devagiri | D–1 Kakatiya–Warangal
 
-**Trap:** Same **2019 Q90** pattern — **Devagiri/Warangal** swap.
+**Trap:** Do not swap **Devagiri** (Yadava) with **Warangal** (Kakatiya).
 
 </details>
 
@@ -1219,7 +1219,7 @@ D. 1 2 3 4
 
 **Ans: A (2 4 1 3)Facts:** Mahendravarman–Pallava | Kadungon–Pandya | Amoghavarsha–Rashtrakuta | Rajaraja–Chola
 
-**Trap:2025 Q121** facts — option lettering may differ across papers; verify **Ma-Ka-Am-Ra** pairs, not just letter **B**.
+**Trap:** Verify **Mahendravarman–Pallava**, **Kadungon–Pandya**, **Amoghavarsha–Rashtrakuta**, **Rajaraja–Chola** pairs — option lettering may differ across papers.
 
 </details>
 
@@ -1483,7 +1483,7 @@ D. Madura — Veer Pandya
 
 **Ans: BWhy wrong:Ramachandra** = **Yadava/Devagiri**, not Warangal (Kakatiya).
 
-**Trap:2018 Q96** pattern — Deccan capital swap.
+**Trap:** Deccan capital swap — **Devagiri** is Yadava; **Warangal** is Kakatiya.
 
 </details>
 
@@ -2491,10 +2491,10 @@ D. Badami
 3. **Brihadishwara (1010)** was built before **Gangaikondacholapuram (~1025)**; the father **Rajaraja I** preceded the son **Rajendra I**.
 4. The **Shore Temple** belongs to the **Pallavas**, not the Cholas.
 5. The **Tripartite Struggle** had exactly three main powers: Pala, Pratihara, and Rashtrakuta; the Cholas were not a Kannauj contestant.
-6. Sena ruler order is **Hemant, Vijaya, Ballal, Lakshman (H-V-B-L)**, not alphabetical (**2024 Q3**).
-7. **Devagiri** is the Yadava capital and **Warangal** is the Kakatiya capital; never swap them (**2019 Q90 / 2018 Q96**).
+6. Sena ruler order is **Hemant, Vijaya, Ballal, Lakshman (H-V-B-L)**, not alphabetical.
+7. **Devagiri** is the Yadava capital and **Warangal** is the Kakatiya capital; never swap them.
 8. **Gopala** was **elected** by chiefs; he was not a routine hereditary founder.
-9. **Mahendravarman I** was a **Pallava** ruler in **2025 Q121**, not a Chola.
+9. **Mahendravarman I** was a **Pallava** ruler, not a Chola.
 10. **Kadungon** revived the **Pandyas**; he was not a Pallava or Chola fact.
 11. **Manyakheta** was the **Rashtrakuta** capital, not a Pratihara or Chalukya capital.
 12. **Khajuraho** belongs to the **Chandelas**, not the Paramaras or Pratiharas.

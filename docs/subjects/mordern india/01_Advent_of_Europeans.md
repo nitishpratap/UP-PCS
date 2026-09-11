@@ -91,7 +91,7 @@ Advent of Europeans | Arrival of European Companies | Portuguese in India | Dutc
 - Dupleix was recalled; French politics undercut continuity.
 - After Paris **1763** France kept factories, not an empire.
 
-> ** note:** Advent of Europeans ≠ British Raj. Factories came first; territorial empire came after Plassey.
+> **Logic:** Advent of Europeans ≠ British Raj. Factories came first; territorial empire came after Plassey.
 
 ---
 
@@ -145,7 +145,7 @@ Advent of Europeans | Arrival of European Companies | Portuguese in India | Dutc
 | **Captain Cook** | Britain | Australia route / Pacific exploration |
 | **Abel Tasman** | Holland | Van Diemen’s Land (Tasmania) and New Zealand |
 
-> ** note:** Never swap **EIC 1600** and **VOC 1602**. Arrival order is **not** the same as charter-year order — Dutch ships reached India before permanent English factories.
+> **Logic:** Never swap **EIC 1600** and **VOC 1602**. Arrival order is **not** the same as charter-year order — Dutch ships reached India before permanent English factories.
 
 ---
 
@@ -194,7 +194,7 @@ Advent of Europeans | Arrival of European Companies | Portuguese in India | Dutc
 - Forts from East Africa to Malacca stretched them thin.
 - Union with Spain (**1580–1640**) dragged Portugal into Spain’s wars, including against the Dutch.
 
-> ** note:** Rise = **Goa 1510**. Bengal fall = **Hooghly 1632**. Gama did **not** take Goa. First fort = **Cochin 1503**, not Goa.
+> **Logic:** Rise = **Goa 1510**. Bengal fall = **Hooghly 1632**. Gama did **not** take Goa. First fort = **Cochin 1503**, not Goa.
 
 ---
 
@@ -233,7 +233,7 @@ These were **crown** officers at Goa, not directors of a joint-stock company.
 - He also shifted the Portuguese headquarters from **Cochin to Goa**.
 - He pressed Portuguese power along the western seaboard after Albuquerque’s generation.
 
-> ** note:** First Viceroy = **Almeida (1505)**, not Albuquerque. Albuquerque is the consolidator who took **Goa**. Cabral is **1500 voyage**, not in the governor line.
+> **Logic:** First Viceroy = **Almeida (1505)**, not Albuquerque. Albuquerque is the consolidator who took **Goa**. Cabral is **1500 voyage**, not in the governor line.
 
 ---
 
@@ -252,7 +252,7 @@ These were **crown** officers at Goa, not directors of a joint-stock company.
 - He died at **Cochin in 1524**, after a later viceroy assignment.
 - He did **not** capture Goa.
 
-> ** note:** One-line fact — **Gama + Calicut + 20 May 1498 + Zamorin + Ahmad ibn Majid**.
+> **Logic:** One-line fact — **Gama + Calicut + 20 May 1498 + Zamorin + Ahmad ibn Majid**.
 
 ---
 
@@ -393,7 +393,7 @@ Unlike Portuguese spice monopoly politics, Dutch India trade fed the Spice Islan
 - **Colachel (1741)** ended Dutch Malabar push. **Bedara (1759)** ended Dutch Bengal politics.
 - During the Napoleonic age Britain occupied Dutch posts. By the **Anglo-Dutch Treaty of 1824**, the Dutch ceded remaining Indian factories (including Chinsurah and Negapatam) in return for British concessions in the Malay–Sumatra sphere.
 
-> ** note:** First Dutch factory = **Masulipatnam 1605**. Coromandel HQ = **Pulicat** then **Nagapattinam**. Bengal fort = **Gustavus** at Chinsurah. **Colachel = Travancore vs Dutch**. **Bedara = English vs Dutch**. Kochi **Fort Williams** ≠ Calcutta **Fort William**.
+> **Logic:** First Dutch factory = **Masulipatnam 1605**. Coromandel HQ = **Pulicat** then **Nagapattinam**. Bengal fort = **Gustavus** at Chinsurah. **Colachel = Travancore vs Dutch**. **Bedara = English vs Dutch**. Kochi **Fort Williams** ≠ Calcutta **Fort William**.
 
 ### Chronology home for UPPCS 2022 battle-order stem
 
@@ -500,7 +500,7 @@ D. I, II, III, IV
 - **Trichinopoly** and **Chicacole** were **not** English factory centres in the first quarter of the 17th century.
 - Success factors often listed together: weak Indian nationalism in the modern sense, Western-trained Company armies with modern arms, and Indian soldiers who could be hired by whoever paid.
 
-> ** note:** Hawkins arrived **1608**, not 1611. Roe is James I’s ambassador; Hawkins is an EIC captain. Permanent Surat = **1613**.
+> **Logic:** Hawkins arrived **1608**, not 1611. Roe is James I’s ambassador; Hawkins is an EIC captain. Permanent Surat = **1613**.
 
 **PYQ — UPPCS Prelims 2023, Q31**
 
@@ -639,7 +639,7 @@ Full Cause → Course → Result cards for each war follow in the First, Second 
 - After **Plassey 1757** the English had Bengal’s resources; France had no equal Indian revenue base.
 - **Lally** quarrelled with officers and Indian allies; **Wandiwash 1760** ended field power.
 
-> ** note:** Governor order = **Martin → Lenoir → Dumas → Dupleix → Lally**. First factory = **Surat 1668**. HQ = **Pondicherry**. Wars = three Carnatic / Anglo-French wars, not Anglo-Mysore.
+> **Logic:** Governor order = **Martin → Lenoir → Dumas → Dupleix → Lally**. First factory = **Surat 1668**. HQ = **Pondicherry**. Wars = three Carnatic / Anglo-French wars, not Anglo-Mysore.
 
 ---
 
@@ -663,7 +663,7 @@ Minor player | papers ask **settlement identity**, not Danish politics
 | **Tranquebar** | Tamil Coromandel | **Fort Dansborg**; sold **1845** |
 | **Serampore** | Bengal | Frederiksnagore; **William Carey** mission circle |
 
-> ** note:** Tranquebar and Serampore are **Danish**, not French.
+> **Logic:** Tranquebar and Serampore are **Danish**, not French.
 
 ---
 
@@ -708,7 +708,7 @@ Minor player | papers ask **settlement identity**, not Danish politics
 | Tranquebar | Danish |
 | Sadras | Dutch |
 
-> ** note:** Bengal five: **Bandel (P) · Chinsurah (D) · Chandernagore (F) · Serampore (Da) · Calcutta (E)**. Coromandel four: **Madras (E) · Pulicat (D) · Pondicherry (F) · Tranquebar (Da)**.
+> **Logic:** Bengal five: **Bandel (P) · Chinsurah (D) · Chandernagore (F) · Serampore (Da) · Calcutta (E)**. Coromandel four: **Madras (E) · Pulicat (D) · Pondicherry (F) · Tranquebar (Da)**.
 
 ---
 
@@ -735,7 +735,7 @@ Minor player | papers ask **settlement identity**, not Danish politics
 | **Bombay** | Western island base (from **1668**; earlier HQ at Surat) |
 | **Bengal** | Calcutta / Fort William |
 
-> ** note:** First Municipal Corporation = **Madras**, not Calcutta / Bombay / Delhi. Western Presidency began at **Surat**, then moved to Bombay.
+> **Logic:** First Municipal Corporation = **Madras**, not Calcutta / Bombay / Delhi. Western Presidency began at **Surat**, then moved to Bombay.
 
 **PYQ — UPPCS Prelims 2021, Q145**
 
@@ -788,7 +788,7 @@ D. Delhi
 - After **Plassey 1757** the English also had Bengal’s resources. France had no equal Indian revenue base.
 - After **1763** France kept **factories and enclaves**. It did not keep an Indian empire.
 
-> ** note:** Peak rivalry is the **18th century**, not 1498. The three war cards follow this section.
+> **Logic:** Peak rivalry is the **18th century**, not 1498. The three war cards follow this section.
 
 ---
 
@@ -823,7 +823,7 @@ D. Delhi
 | **1761** | Pondicherry falls | Third |
 | **1763** | **Treaty of Paris** | Third ends |
 
-> ** note:** Carnatic ≠ Anglo-Mysore. Standard count = **three**. Treaty pair: **1748 Aix** vs **1763 Paris**.
+> **Logic:** Carnatic ≠ Anglo-Mysore. Standard count = **three**. Treaty pair: **1748 Aix** vs **1763 Paris**.
 
 ---
 
@@ -851,7 +851,7 @@ D. Delhi
 - **Madras was returned to the English**. The French kept Pondicherry.
 - No lasting territory changed hands. Both companies had, however, learned to use Indian allies and trained infantry, and they used that lesson in the next round.
 
-> ** note:** Aix-la-Chapelle did **not** give Madras to France. Immediate cause = **seizure of French ships**, not “Carnatic succession” (that is the Second War).
+> **Logic:** Aix-la-Chapelle did **not** give Madras to France. Immediate cause = **seizure of French ships**, not “Carnatic succession” (that is the Second War).
 
 **PYQ — UPPCS Prelims 2025, Q67**
 
@@ -905,7 +905,7 @@ D. Only 1
 - The French political project in the south had peaked and then fallen.
 - This war comes **before** the First Anglo-Mysore War of **1767–69**.
 
-> ** note:** Arcot **1751** belongs to the **Second** War, not the Third. Paris **1763** does **not** end this war.
+> **Logic:** Arcot **1751** belongs to the **Second** War, not the Third. Paris **1763** does **not** end this war.
 
 **PYQ — UPPCS Prelims 2025, Q26**
 
@@ -959,7 +959,7 @@ D. 2, 1, 3, 4
 - France kept trading factories such as Pondicherry. It could not rebuild an Indian political empire.
 - English political supremacy over the French in India was confirmed. Attention could now shift to Bengal consolidation and later Mysore and Maratha wars.
 
-> ** note:** Third War trio = **failed Madras siege**, **Wandiwash 1760**, **Paris 1763**. Not 1748.
+> **Logic:** Third War trio = **failed Madras siege**, **Wandiwash 1760**, **Paris 1763**. Not 1748.
 
 ---
 
@@ -985,7 +985,7 @@ D. 2, 1, 3, 4
 - The defeat opened the path to the **Treaty of Paris (1763)**, which closed French political hopes in India.
 - This was an Anglo-**French** battle fought in South India. It was not Anglo-Mysore, not Anglo-Maratha, and not fought in Bengal.
 
-> ** note:** Commander pair = **Coote vs Lally**. Clive belongs to Arcot and Plassey, not Wandiwash.
+> **Logic:** Commander pair = **Coote vs Lally**. Clive belongs to Arcot and Plassey, not Wandiwash.
 
 ---
 
@@ -1003,7 +1003,7 @@ Ended the **Seven Years’ War** globally and closed the **Third Carnatic War** 
 | **Aix-la-Chapelle** | **1748** | First Carnatic War | **Madras returned** to English |
 | **Paris** | **1763** | Third Carnatic / Seven Years’ War | French **political** defeat; factories remain |
 
-> ** note:** Paris did **not** return Madras after 1746 — that was Aix-la-Chapelle. Paris did **not** expel every Frenchman forever.
+> **Logic:** Paris did **not** return Madras after 1746 — that was Aix-la-Chapelle. Paris did **not** expel every Frenchman forever.
 
 ---
 

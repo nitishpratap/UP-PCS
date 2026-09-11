@@ -107,7 +107,7 @@ Do not memorise 30-odd names as a flat list. The office itself changed **shape**
 - Acts did two different jobs. Some **created or reshaped the office** (1773, 1784, 1833, 1858). Others **reshaped who could legislate or vote** (1861, 1892, 1909, 1919, 1935). Keep these two families apart in your head.
 - The **Governor-General of India remained in place after 1858 too** — the same man was simply also called Viceroy. The title never disappeared; it merged with "Viceroy."
 
-> **Logic:** If a question asks for the "first Governor-General," check whether it means of **Bengal** (Hastings, 1773) or of **India** (Bentinck, 1833). If it asks for the first **Viceroy**, the answer is always **Canning, 1858**. Ring Fence ≠ Subsidiary Alliance ≠ Doctrine of Lapse.
+> **Logic:** If a question asks for the "first Governor-General," check whether it means of **Bengal** (Hastings, 1773) or of **India** (Bentinck, 1833). The first **Viceroy** was **Canning (1858)**. Ring Fence ≠ Subsidiary Alliance ≠ Doctrine of Lapse.
 
 ---
 
@@ -117,11 +117,11 @@ Do not memorise 30-odd names as a flat list. The office itself changed **shape**
 - **Pitt's India Act, 1784** set up a **Board of Control** for politics and left the **Court of Directors** with commerce.
 - The **Charter Act of 1833** created the **Governor-General of India**. The first holder was **William Bentinck**. The Company ceased to trade.
 - The **Government of India Act, 1858** ended Company rule. The GG also became **Viceroy**. A **Secretary of State** and a Council of India were created in London. The first Viceroy was **Canning**.
-- The **Indian Councils Act, 1861** introduced the **portfolio / departmental** system (**2021 Q13**).
+- The **Indian Councils Act, 1861** introduced the **portfolio / departmental** system.
 - The **Indian Independence Act, 1947** named the last Viceroy as **Mountbatten**.
 - The last Governor-General of India was **C. Rajagopalachari (1948–50)**.
 
-> ** note:** Hastings is the first **Governor-General** of Bengal, not the first Viceroy. **Canning** is the first Viceroy (**1858**). Every Act named above gets its own full teaching card below — this section is only the map.
+> **Logic:** Hastings is the first **Governor-General** of Bengal, not the first Viceroy. **Canning** is the first Viceroy (**1858**). Every Act named above gets its own full teaching card below — this section is only the map.
 
 ---
 
@@ -272,7 +272,7 @@ Named for British Prime Minister **William Pitt the Younger**. It fixed the prob
 - He extended the **Permanent Settlement** principle further and kept the civil service reforms of Cornwallis running.
 - His caution frustrated the Company's directors, who wanted a more forward policy. Wellesley replaced him in **1798**.
 
-> ** note:** Shore is the **calm before Wellesley**. If a question asks who followed a policy of "non-intervention" between Cornwallis and Wellesley, the answer is **Shore**, not Cornwallis himself.
+> **Logic:** Shore is the **calm before Wellesley**. Between Cornwallis and Wellesley, **Shore** followed a policy of **non-intervention**, not Cornwallis himself.
 
 ---
 
@@ -323,7 +323,7 @@ Two lesser-named rulers cover the gap between Wellesley's recall and Lord Hastin
 - **Lord Minto I (1807–1813)** dealt with the fallout of the **Vellore Mutiny (1806)** and signed the **Treaty of Amritsar (1809)** with Ranjit Singh, fixing the Sutlej as the Sikh empire's southern limit.
 - The **Charter Act of 1813** was passed as his term was ending, right at the hand-over to Lord Hastings.
 
-> ** note:** These two names rarely anchor a full question on their own; they matter mainly as **chronology filler** between Wellesley (recalled 1805) and Lord Hastings (from 1813).
+> **Logic:** These two names rarely anchor a full question on their own; they matter mainly as **chronology filler** between Wellesley (recalled 1805) and Lord Hastings (from 1813).
 
 ---
 
@@ -349,7 +349,7 @@ Two lesser-named rulers cover the gap between Wellesley's recall and Lord Hastin
 - **Christian missionaries** were allowed to preach and settle in India, a right the Company had earlier restricted.
 - Local governments were given some power to **tax for local purposes**.
 
-> ** note:** 1813 kills the **India** trade monopoly only, keeping tea/China. **1833** finishes the job and ends **all** Company trade.
+> **Logic:** 1813 kills the **India** trade monopoly only, keeping tea/China. **1833** finishes the job and ends **all** Company trade.
 
 ---
 
@@ -360,7 +360,7 @@ Two lesser-named rulers cover the gap between Wellesley's recall and Lord Hastin
 - **Maha Bandula**, the Burmese commander, was killed at Danubyu in **1825**.
 - Amherst also oversaw the long **Siege of Bharatpur (1825–26)**, where the British finally broke the fortress that had resisted them since Lord Lake's failed attempt in 1805.
 
-> ** note:** First Burma War is **Amherst's**, not Dalhousie's. Basic date fact = **Yandabo 1826**.
+> **Logic:** First Burma War is **Amherst's**, not Dalhousie's. Basic date fact = **Yandabo 1826**.
 
 ---
 
@@ -391,7 +391,7 @@ The single most important Act between 1773 and 1858 for **office structure**.
 - A **Law Commission** was set up to codify Indian law, which eventually produced the **Indian Penal Code**.
 - Section 87 of the Act stated that no Indian subject should be barred from any office on grounds of religion, birth or colour, but this promise was **not implemented** in practice.
 
-> ** note:** 1833 = **GG of India created + all Company trade ends + Law Member added**. Keep these three together as one key fact.
+> **Logic:** 1833 = **GG of India created + all Company trade ends + Law Member added**. Keep these three together as one key fact.
 
 ---
 
@@ -402,7 +402,7 @@ The single most important Act between 1773 and 1858 for **office structure**.
 - He drafted the **Indian Penal Code**, which was enacted in **1860**, under the Law Commission set up by the 1833 Act.
 - **Wood's Despatch of 1854** (Dalhousie's time) is the later mass-education plan. It is **not** Macaulay's Minute.
 
-> ** note:** Macaulay **1835** ≠ Wood **1854** ≠ Hunter **1882** (Ripon).
+> **Logic:** Macaulay **1835** ≠ Wood **1854** ≠ Hunter **1882** (Ripon).
 
 **PYQ — UPPCS Prelims 2018, Q21**
 
@@ -437,7 +437,7 @@ D. C A B D
 - Before this, he had served as **Resident at Delhi** and as an agent to the Governor-General in Rajputana, dealing directly with Mughal court politics.
 - His term was too short for major legislative reform; his single durable legacy is **press freedom**.
 
-> ** note:** If a question names the Governor-General who "freed the press" in the 1830s, the answer is **Metcalfe**, not Bentinck.
+> **Logic:** The Governor-General who **freed the press** in the 1830s was **Metcalfe**, not Bentinck.
 
 ---
 
@@ -448,7 +448,7 @@ D. C A B D
 - Auckland was recalled in the aftermath, and **Ellenborough** replaced him to manage the fallout.
 - Education policy continued along Macaulay's English-medium line during his tenure, but this is a minor footnote next to the Afghan disaster.
 
-> ** note:** First Afghan War = **Auckland**, not Dalhousie or Ellenborough. The disaster, not the annexation, is the key fact.
+> **Logic:** First Afghan War = **Auckland**, not Dalhousie or Ellenborough. The disaster, not the annexation, is the key fact.
 
 ---
 
@@ -471,7 +471,7 @@ D. C A B D
 - He encouraged English education and gave a hiring preference to English-educated Indians for some government posts.
 - He handed over to **Dalhousie** in **1848**, just before the Second Sikh War.
 
-> ** note:** Hardinge **I** = First Sikh War, 1845–46. Do not confuse with **Hardinge II** (Viceroy 1910–16, Delhi Durbar).
+> **Logic:** Hardinge **I** = First Sikh War, 1845–46. Do not confuse with **Hardinge II** (Viceroy 1910–16, Delhi Durbar).
 
 ---
 
@@ -578,7 +578,7 @@ Passed directly in response to the **1857 Revolt**, this Act is the true hinge o
 - The **Governor-General also became the Viceroy** — the Crown's direct representative in India. The first person to hold both titles together was **Canning**.
 - The Secretary of State was given power to **supervise all administration** in India through the Viceroy.
 
-> ** note:** 1858 changes **who is in charge** (Crown, not Company). It does **not** by itself create the portfolio system — that is the **1861** Act, a separate and later reform.
+> **Logic:** 1858 changes **who is in charge** (Crown, not Company). It does **not** by itself create the portfolio system — that is the **1861** Act, a separate and later reform.
 
 **PYQ — UPPCS Prelims 2021, Q13**
 
@@ -628,7 +628,7 @@ D. Indian Council Act, 1909
 - His short tenure saw continued frontier friction, including the **Wahabi movement's activity** on the North-West Frontier.
 - Because his term was so brief, no major legislative reform is attached to his name.
 
-> ** note:Elgin I** is remembered mainly for **dying in office at Dharamshala**, not for any reform. Do not confuse with **Elgin II** (1894–99, famine and plague years).
+> **Logic:**Elgin I** is remembered mainly for **dying in office at Dharamshala**, not for any reform. Do not confuse with **Elgin II** (1894–99, famine and plague years).
 
 ---
 
@@ -662,7 +662,7 @@ D. Indian Council Act, 1909
 - He **resigned in 1876** after disagreeing with London over a more aggressive forward policy on Afghanistan.
 - The state visit of the **Prince of Wales** to India, though planned in his time, actually took place in late 1875–76, right at the end of his tenure.
 
-> ** note:** Northbrook's famine relief is the **positive contrast** to Lytton's later Great Famine failure. Keep the two apart if a question compares famine handling.
+> **Logic:** Northbrook's famine relief is the **positive contrast** to Lytton's later Great Famine failure. Keep the two apart if a question compares famine handling.
 
 ---
 
@@ -720,7 +720,7 @@ D. 1, 3, 2, 4
 ## 3.32 Lord Dufferin (1884–1888)
 
 - The **Indian National Congress** was founded in **1885** (Hume) during his tenure.
-- He ridiculed Congress as a **"microscopic minority"** (**2018 Q76**). The trap names are Curzon, Minto and Lansdowne.
+- He ridiculed Congress as a **"microscopic minority"**. Do not confuse him with Curzon, Minto or Lansdowne.
 - The **Third Anglo-Burmese War** of **1885** annexed Upper Burma, deposing King Thibaw.
 - The **Bengal Tenancy Act of 1885** gave tenants some legal protection against landlords.
 
@@ -803,7 +803,7 @@ D. Both 1 and 2
 - Frontier tribal uprisings, including the **Tirah campaign (1897)**, also marked his term.
 - He came **just before Curzon**, and is easily confused with **Elgin I** (1862–63), who instead is remembered for dying in office.
 
-> ** note:** Neither Elgin ordered the Partition of Bengal or the Ilbert Bill — both belong to later or earlier rulers.
+> **Logic:** Neither Elgin ordered the Partition of Bengal or the Ilbert Bill — both belong to later or earlier rulers.
 
 ---
 
@@ -1089,7 +1089,7 @@ D. Shankaran Nair
 - The **Third Round Table Conference (1932)** followed, and its recommendations fed into the **Government of India Act, 1935**.
 - **Civil Disobedience was formally called off in 1934.**
 
-> ** note:** The Communal Award and the Poona Pact both sit inside **Willingdon's** term, directly setting up the 1935 Act.
+> **Logic:** The Communal Award and the Poona Pact both sit inside **Willingdon's** term, directly setting up the 1935 Act.
 
 ---
 

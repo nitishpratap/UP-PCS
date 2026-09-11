@@ -90,7 +90,7 @@ Nineteenth-century reform did **not** happen as one national movement. It grew i
 - The **South stream** (SNDP, Self-Respect) is asked less often than Bengal/Maharashtra in UPPCS, but it is standard NCERT/coaching material and worth full cards, not a one-line footnote.
 - Muslim reform is its **own axis**, not a regional stream — it splits by **orientation** (loyalist college vs traditional seminary vs militant revival vs peaceful messianic), not by one geography.
 
-> ** note:** When a question names an unfamiliar body, first place it on this map — region + method — before recalling the exact founder and year.
+> **Logic:** When a question names an unfamiliar body, first place it on this map — region + method — before recalling the exact founder and year.
 
 ---
 
@@ -106,19 +106,19 @@ Nineteenth-century reform did **not** happen as one national movement. It grew i
 - He did **not** oppose Western education — he backed English and scientific learning. **Samachar Chandrika** (Bhavani Charan) was started against his reform line.
 - He did **not** found Arya Samaj or Satyashodhak Samaj.
 
-> ** note:** Roy + Sati **1829** + Brahmo **1828**. Satyashodhak is **Phule**, not Roy.
+> **Logic:** Roy + Sati **1829** + Brahmo **1828**. Satyashodhak is **Phule**, not Roy.
 
 ---
 
 ## 6.2 Ishwar Chandra Vidyasagar
 
 - He was a Sanskrit scholar and social reformer of Bengal.
-- He was **Principal of the Sanskrit College, Calcutta** (**2022 Q90** pair).
+- He was **Principal of the Sanskrit College, Calcutta**.
 - He led the campaign for **widow remarriage**. The **Hindu Widows’ Remarriage Act** was passed in **1856**.
 - He also worked for women’s education and against child marriage and polygamy.
 - He is **not** the Secretary of the Widow Remarriage Association. That post in the 2022 match is **D.K. Karve**.
 
-> ** note:** Vidyasagar = Sanskrit College + Widow Remarriage Act **1856**. Bethune = girls’ school.
+> **Logic:** Vidyasagar = Sanskrit College + Widow Remarriage Act **1856**. Bethune = girls’ school.
 
 ---
 
@@ -131,7 +131,7 @@ Nineteenth-century reform did **not** happen as one national movement. It grew i
 - **Shetkaryacha Asud** is another of his works.
 - He founded **Satyashodhak Samaj** in **1873** (next section).
 
-> ** note:** Phule ≠ peasant movement in the 2022 option set. The right label is **anti-caste**.
+> **Logic:** Phule ≠ peasant movement in the 2022 option set. The right label is **anti-caste**.
 
 **PYQ — UPPCS Prelims 2022, Q1**
 
@@ -163,7 +163,7 @@ D. Peasant Movement
 - **Tarabai Shinde** wrote *Stri Purush Tulana*.
 - She is linked to this stream but is **not** the founder.
 
-> ** note:** Founder = **Phule**. Common traps: Roy and Ranade as founders of the Satyashodhak Samaj.
+> **Logic:** Founder = **Phule**. Common traps: Roy and Ranade as founders of the Satyashodhak Samaj.
 
 **PYQ — UPPCS Prelims 2022, Q84**
 
@@ -189,14 +189,14 @@ D. Raja Ram Mohan Roy
 ## 6.5 Behramji Malabari
 
 - He was a **Parsi reformer of Bombay**.
-- He led a **crusade against child marriage** (**2022 Q90** pair).
+- He led a **crusade against child marriage**.
 - He advocated the **Age of Consent Act, 1891**, which raised the age of consent for girls.
 - **Bal Gangadhar Tilak** and the extremist wing **opposed** the Act. They said the British should not interfere in Hindu marriage.
-- So in **2024 Q17**, statement 1 is true and statement 2 is false. Answer = **Only 1**.
+- Malabari supported the 1891 Act; Tilak and the Extremists did **not**.
 
 - Later, the **Sharda Act (1929)** raised the statutory marriage ages again (girls **14**, boys **18**).
 
-> ** note:** Malabari supported the 1891 Act. Tilak did **not**.
+> **Logic:** Malabari supported the 1891 Act. Tilak did **not**.
 
 **PYQ — UPPCS Prelims 2024, Q17**
 
@@ -237,7 +237,7 @@ D. Both 1 and 2
 - He was awarded the **Bharat Ratna in 1958**, one of the earliest recipients.
 - Do not mix him with Vidyasagar (Sanskrit College, Calcutta) or with Malabari (child marriage / Age of Consent).
 
-> ** note:** Karve = Widow Remarriage Association **and** SNDT Women’s University (1916/1920). Vidyasagar = Principal of Sanskrit College.
+> **Logic:** Karve = Widow Remarriage Association **and** SNDT Women’s University (1916/1920). Vidyasagar = Principal of Sanskrit College.
 
 ---
 
@@ -261,7 +261,7 @@ Five distinct streams. UPPCS mixes founders and orientations as traps — learn 
 - **Aligarh** and **Deoband** are the two big post-1857 north-Indian answers, and they are opposites in method though both reacted to the same crisis of Muslim decline after 1857.
 - Ahmadiyya is **not** the Aligarh college line, and Wahabi is **not** the Deoband seminary line — each has its own founder and orientation.
 
-> ** note:** Sir Syed ≠ Deoband. Nanautawi ≠ MAO College. Ahmadiyya ≠ Wahabi (peaceful vs militant).
+> **Logic:** Sir Syed ≠ Deoband. Nanautawi ≠ MAO College. Ahmadiyya ≠ Wahabi (peaceful vs militant).
 
 ---
 
@@ -303,7 +303,7 @@ This is the **match home** for founder, year, place, and the 2022 organisation�
 | Bharat Dharma Mahamandal | **Varanasi / Banaras**, not Delhi |
 | Deva Samaj (Shiv Narayan Agnihotri) | **Lahore**, not Banaras |
 
-> ** note:** Learn the **wrong city** as well as the right one. Radhasoami is Agra. Deva Samaj is Lahore.
+> **Logic:** Learn the **wrong city** as well as the right one. Radhasoami is Agra. Deva Samaj is Lahore.
 
 **PYQ — UPPCS Prelims 2022, Q18**
 
@@ -353,7 +353,7 @@ D. Deva Samaj — Banaras
 - **Bethune** opened a girls’ school in Calcutta.
 - Orthodoxy also organised in Calcutta — **Sanatan Dharma Rakshini Sabha**.
 
-> ** note:** Native Marriage Act = **1872**, not 1870/74/76.
+> **Logic:** Native Marriage Act = **1872**, not 1870/74/76.
 
 **PYQ — UPPCS Prelims 2019, Q17**
 
@@ -378,7 +378,7 @@ D. 1876
 
 ## 6.10 Social Reformers and Their Titles
 
-**2022 Q90 is the work-match home.**
+**Work-match home:** Vidyasagar = Sanskrit College principal; Karve = widow remarriage crusade; Malabari = child-marriage crusade.
 
 | Person | Work / post |
 |--------|-------------|
@@ -447,7 +447,7 @@ D. A-1, B-2, C-3, D-4
 - The **Native Marriage Act 1872** is linked to Brahmo / civil marriage needs.
 - Brahmo Samaj is **not** “Back to the Vedas.” That slogan is **Arya Samaj**.
 
-> ** note:** Founder = Roy **1828**. Splits = Debendranath and Keshab. Do not credit Roy with Arya Samaj.
+> **Logic:** Founder = Roy **1828**. Splits = Debendranath and Keshab. Do not credit Roy with Arya Samaj.
 
 ---
 
@@ -462,7 +462,7 @@ D. A-1, B-2, C-3, D-4
 - He is often called the **Martin Luther of India**. He is also tagged as first to popularise **Swaraj**, **Hindi as national language**, and boycott of foreign goods.
 - Arya Samaj is **not** Brahmo Samaj and **not** Theosophical Society.
 
-> ** note:** Year **1875** is shared with MAO College. Do not mix the two founders.
+> **Logic:** Year **1875** is shared with MAO College. Do not mix the two founders.
 
 ---
 
@@ -474,7 +474,7 @@ D. A-1, B-2, C-3, D-4
 - It was a western-Indian cousin of Brahmo ideas. It stressed prayer, social reform, and caste and women’s questions.
 - It is **not** Satyashodhak Samaj. Ranade is a trap option for Phule’s sabha.
 
-> ** note:** Prarthana = **Bombay 1867**. Satyashodhak = **Phule 1873**.
+> **Logic:** Prarthana = **Bombay 1867**. Satyashodhak = **Phule 1873**.
 
 ---
 
@@ -489,7 +489,7 @@ D. A-1, B-2, C-3, D-4
 - The Mandali stayed secret and small. It never became a mass public movement like Brahmo or Arya Samaj.
 - It is the standard **link card** between early Bombay monotheist reform and the later, public Prarthana Samaj.
 
-> ** note:** Mandali = **1849, secret**. Prarthana Samaj = **1867, public**. Do not date Prarthana Samaj as 1849.
+> **Logic:** Mandali = **1849, secret**. Prarthana Samaj = **1867, public**. Do not date Prarthana Samaj as 1849.
 
 ---
 
@@ -505,7 +505,7 @@ D. A-1, B-2, C-3, D-4
 - **Subhas Chandra Bose** called him the spiritual father of the modern nationalist movement in Bengal.
 - **Sharadamani (Sharada Devi)** was Ramakrishna’s wife. **Sister Nivedita** (Margaret Noble) was Vivekananda’s Western disciple.
 
-> ** note:** Mission = **1897**. Chicago Parliament = **1893**.
+> **Logic:** Mission = **1897**. Chicago Parliament = **1893**.
 
 ---
 
@@ -518,7 +518,7 @@ D. A-1, B-2, C-3, D-4
 - He also wrote a commentary on the Quran in a modernist frame.
 - This is **not** Deoband. Deoband is a seminary, not MAO College.
 
-> ** note:** Aligarh / MAO = **Sir Syed, 1875**. Archbold as a later Principal is an Education-topic fact.
+> **Logic:** Aligarh / MAO = **Sir Syed, 1875**. Archbold as a later Principal is an Education-topic fact.
 
 ---
 
@@ -529,7 +529,7 @@ D. A-1, B-2, C-3, D-4
 - It did **not** copy Aligarh’s English-college model.
 - Later many Deoband-linked ulama took a more **anti-colonial** political line than Sir Syed’s early loyalism.
 
-> ** note:** Deoband **1866** is earlier than MAO College **1875**.
+> **Logic:** Deoband **1866** is earlier than MAO College **1875**.
 
 ---
 
@@ -541,7 +541,7 @@ D. A-1, B-2, C-3, D-4
 - **Annie Besant** later became its famous Indian-phase leader.
 - It is **not** Arya Samaj. Dayanand and the Theosophists cooperated briefly and then fell out.
 
-> ** note:** Founded **1875, New York**. Indian HQ = **Adyar**, not Calcutta.
+> **Logic:** Founded **1875, New York**. Indian HQ = **Adyar**, not Calcutta.
 
 ---
 
@@ -554,7 +554,7 @@ D. A-1, B-2, C-3, D-4
 - He stressed Vedanta, service of man as service of God, and national self-respect.
 - He is **not** the founder of Arya Samaj or Brahmo Samaj.
 
-> ** note:** Chicago **1893**; Mission **1897**. Do not swap the two years.
+> **Logic:** Chicago **1893**; Mission **1897**. Do not swap the two years.
 
 ---
 
@@ -569,7 +569,7 @@ D. A-1, B-2, C-3, D-4
 - He favoured **Hindi**.
 - He is **not** the founder of Brahmo Samaj or Prarthana Samaj.
 
-> ** note:** Dayanand = Arya Samaj **1875** + *Satyarth Prakash*.
+> **Logic:** Dayanand = Arya Samaj **1875** + *Satyarth Prakash*.
 
 ---
 
@@ -583,7 +583,7 @@ D. A-1, B-2, C-3, D-4
 - He was suspicious of Congress as a Hindu-majority body.
 - He is **not** a founder of Deoband.
 
-> ** note:** Sir Syed = Aligarh / MAO. Deoband = Nanautawi and Gangohi.
+> **Logic:** Sir Syed = Aligarh / MAO. Deoband = Nanautawi and Gangohi.
 
 ---
 
@@ -600,7 +600,7 @@ D. A-1, B-2, C-3, D-4
 - She founded the **Home Rule League in 1916** and later became the **first woman President of the Indian National Congress, in 1917**. Her Home Rule and Congress-presidency career belongs to the freedom-movement political story, not this socio-religious topic.
 - She is **not** the founder of the Theosophical Society; that credit stays with **Blavatsky and Olcott, 1875**.
 
-> ** note:** Besant = President from **1907**, Central Hindu College **1898**. Blavatsky/Olcott = founders, **1875**.
+> **Logic:** Besant = President from **1907**, Central Hindu College **1898**. Blavatsky/Olcott = founders, **1875**.
 
 ---
 
@@ -617,7 +617,7 @@ D. A-1, B-2, C-3, D-4
 - Narayana Guru inspired later Kerala reform, including support for the **Vaikom Satyagraha (1924–25)**, a protest for lower-caste right of way on roads near the Vaikom temple, which also drew Periyar’s support from Tamil country.
 - SNDP is **not** a Bengal or Maharashtra body. It is the standard **Kerala / South stream** anti-caste institution.
 
-> ** note:** SNDP = Kerala, Ezhava, **1903**. Aruvippuram consecration = **1888**. Do not place it in Bengal or Maharashtra.
+> **Logic:** SNDP = Kerala, Ezhava, **1903**. Aruvippuram consecration = **1888**. Do not place it in Bengal or Maharashtra.
 
 ---
 
@@ -635,7 +635,7 @@ D. A-1, B-2, C-3, D-4
 - This reform current later fed into the **Gurdwara Reform Movement** of the 1920s, which set up the **Shiromani Gurdwara Parbandhak Committee (SGPC) in 1920** to take gurdwara management out of hereditary mahant control.
 - Singh Sabha is **not** a branch of the Arya Samaj. Both reacted to the same missionary and reform pressure but built separate, competing identities.
 
-> ** note:** Amritsar Singh Sabha = **1873** (Sanatan wing). Lahore Singh Sabha = **1879** (Tat Khalsa). Chief Khalsa Diwan = **1902**.
+> **Logic:** Amritsar Singh Sabha = **1873** (Sanatan wing). Lahore Singh Sabha = **1879** (Tat Khalsa). Chief Khalsa Diwan = **1902**.
 
 ---
 
@@ -653,7 +653,7 @@ D. A-1, B-2, C-3, D-4
 - In **1898** she founded the **Mukti Mission** at **Kedgaon**, near Poona, sheltering destitute women, widows and famine victims.
 - Do not confuse her with **D.K. Karve**: Ramabai ran women’s shelters and wrote on widows’ suffering; Karve headed the **Widow Remarriage Association** and later founded the **SNDT Women’s University**.
 
-> ** note:** Ramabai = Arya Mahila Samaj **1882** + Sharada Sadan **1889** + Mukti Mission **1898**. She is **Maharashtra**, not Bengal.
+> **Logic:** Ramabai = Arya Mahila Samaj **1882** + Sharada Sadan **1889** + Mukti Mission **1898**. She is **Maharashtra**, not Bengal.
 
 ---
 
@@ -671,7 +671,7 @@ D. A-1, B-2, C-3, D-4
 - The Self-Respect Movement is a **social and religious-reform** current first; its later party-political offshoots are a separate, later story.
 - Both his Non-Cooperation participation and his 1925 exit from Congress are true and were tested together in a UPPCS statement question.
 
-> ** note:** Periyar = Self-Respect Movement, **1925**. Vaikom Satyagraha = **1924–25**, Travancore. He is a **South stream** reformer, not Bengal or Maharashtra.
+> **Logic:** Periyar = Self-Respect Movement, **1925**. Vaikom Satyagraha = **1924–25**, Travancore. He is a **South stream** reformer, not Bengal or Maharashtra.
 
 **PYQ — UPPCS Prelims 2023, Q44**
 

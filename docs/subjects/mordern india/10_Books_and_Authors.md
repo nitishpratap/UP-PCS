@@ -82,7 +82,7 @@ Do not memorise books as one long list. Sort every title into **one** of these f
 | **Partition and post-Independence narrative** | Focused on 1946–48 endgame | *India Wins Freedom*, *India Divided*, *Pakistan or the Partition of India*, *Freedom at Midnight*, *Train to Pakistan* |
 | **Social / regional / caste literature** | Anti-caste tracts, Bhojpuri works, realist novels | *Gulamgiri*, *Annihilation of Caste*, Bhojpuri four, Premchand's novels |
 
-> ** note:** A book "written **in** 1901 about the drain" is a **primary tract**; a book "written **about** 1901-era economics decades later" is **historiography**. That single test settles most Naoroji-vs-Bipan-Chandra traps.
+> **Logic:** A book "written **in** 1901 about the drain" is a **primary tract**; a book "written **about** 1901-era economics decades later" is **historiography**. That single test settles most Naoroji-vs-Bipan-Chandra traps.
 
 ---
 
@@ -171,7 +171,7 @@ One home for extra titles. Details of the syllabus eight sit in the cards below.
 | **Bapu: My Mother** | Manubehn Gandhi | Memoir |
 | **New India / The Commonweal** | Annie Besant | Papers from **1914**; Central Hindu College **1898** |
 
-> ** note:** Drill the **2020 four** and **Poverty 1901** first. Then twins. Then Bhojpuri four. Then the Savarkar/Mayo/GG additions.
+> **Logic:** Drill the **2020 four** and **Poverty 1901** first. Then twins. Then Bhojpuri four. Then the Savarkar/Mayo/GG additions.
 
 ---
 
@@ -192,7 +192,7 @@ One home for extra titles. Details of the syllabus eight sit in the cards below.
 - Bankim edited the journal ***Bangadarshan***.
 - **Neel Darpan** is **not** his. That indigo play is **Dinabandhu Mitra (1860)**.
 
-> ** note:** *Anandamath* = **Bankim 1882 + Vande Mataram**. *Neel Darpan* = **Dinabandhu Mitra**.
+> **Logic:** *Anandamath* = **Bankim 1882 + Vande Mataram**. *Neel Darpan* = **Dinabandhu Mitra**.
 
 ---
 
@@ -212,16 +212,16 @@ One home for extra titles. Details of the syllabus eight sit in the cards below.
 
 **Author:Dadabhai NaorojiYear:1901Idea:Drain of Wealth**
 
-- Naoroji gathered speeches and papers into this book. The year is **1901** (**2021 Q139**).
+- Naoroji gathered speeches and papers into this book. The year is **1901**.
 - “Un-British” means the Raj violated Britain’s own liberal standards.
 - That is the same Moderate vocabulary as 2024 Q135.
 - Drain meant salaries, pensions, home charges, profits and unequal trade took Indian wealth to Britain.
 - Poverty was **produced**.
 - This is a **primary nationalist tract**, not later academic historiography.
-- ***The Rise and Growth of Economic Nationalism in India*** is **Bipan Chandra** (**2019 Q97**), not Naoroji.
+- ***The Rise and Growth of Economic Nationalism in India*** is **Bipan Chandra**, not Naoroji.
 - R.C. Dutt’s ***Economic History of India*** is the other classic economic-nationalist book of that age.
 
-> ** note:** Naoroji book = **1901**. Bipan Chandra = the **Economic Nationalism** historiography title.
+> **Logic:** Naoroji book = **1901**. Bipan Chandra = the **Economic Nationalism** historiography title.
 
 **PYQ — UPPCS Prelims 2021, Q139**
 
@@ -260,7 +260,7 @@ D. 1903 A.D.
 - It ran as a Gujarati serial from **1925**. Book form came in the late 1920s.
 - Do not give *Hind Swaraj* to Tilak or Nehru. Tilak’s Swaraj line is the speech-slogan; the 1909 book is Gandhi’s.
 
-> ** note:** *Hind Swaraj* = **Gandhi 1909**. *My Experiments with Truth* = Gandhi autobiography. Two different books.
+> **Logic:** *Hind Swaraj* = **Gandhi 1909**. *My Experiments with Truth* = Gandhi autobiography. Two different books.
 
 ---
 
@@ -276,7 +276,7 @@ D. 1903 A.D.
 - It is letters to Indira from jail in the 1930s.
 - Do not give *Discovery of India* to Azad. Azad wrote ***India Wins Freedom***.
 
-> ** note:** *Discovery* = **Nehru 1946**. *Toward Freedom* = Nehru autobiography. *India Wins Freedom* = **Azad**.
+> **Logic:** *Discovery* = **Nehru 1946**. *Toward Freedom* = Nehru autobiography. *India Wins Freedom* = **Azad**.
 
 ---
 
@@ -288,12 +288,12 @@ D. 1903 A.D.
 - He discusses the Cabinet Mission, Partition, and his colleagues.
 - It was first published in **1959**.
 - Some pages were held back and released later. The **1988** complete text is the common memory.
-- **2020 Q26** maps this title to Azad (option set with Deportation / Gita / Nation in Making).
+- ***India Wins Freedom*** is **Maulana Abul Kalam Azad** — not Deportation (Lajpat Rai), *Gita Rahasya* (Tilak) or *A Nation in Making* (Banerjee).
 - It is not *Freedom at Midnight* by Collins and Lapierre.
 - It is not *Train to Pakistan* by Khushwant Singh.
 - It is not *India Divided* by Rajendra Prasad.
 
-> ** note:** *India Wins Freedom* = **Azad**. *Freedom at Midnight* = **Collins & Lapierre**.
+> **Logic:** *India Wins Freedom* = **Azad**. *Freedom at Midnight* = **Collins & Lapierre**.
 
 ---
 
@@ -303,13 +303,13 @@ D. 1903 A.D.
 
 - Tilak read the Gita as a book of **karma-yoga** and nationalist duty.
 - He uses the Gita to argue for action in the world, not withdrawal.
-- **2020 Q26** maps *Gita Rahasya* to Tilak.
+- ***Gita Rahasya*** is **Bal Gangadhar Tilak's** work, written during his Mandalay imprisonment.
 - His other famous book is ***The Arctic Home in the Vedas***.
 - That book argues that Vedic people once lived in the Arctic. Do **not** swap the two.
 - *Gita Rahasya* is **not** Gandhi’s.
 - It is **not** Aurobindo’s. Aurobindo wrote *Essays on the Gita*.
 
-> ** note:** *Gita Rahasya* = **Tilak**. *Arctic Home* = also Tilak, different book.
+> **Logic:** *Gita Rahasya* = **Tilak**. *Arctic Home* = also Tilak, different book.
 
 ---
 
@@ -322,9 +322,9 @@ D. 1903 A.D.
 - It is a **social tract**, not a Congress memoir and not Ambedkar’s 1936 text.
 - Phule also wrote ***Shetkaryacha Asud*** (The Cultivator’s Whipcord).
 - With Savitribai he built the anti-caste school stream.
-- **2022 Q1** maps Phule to the anti-caste movement. This card is the **book** fact.
+- **Jyotirao Phule** wrote ***Gulamgiri*** as part of the anti-caste movement.
 
-> ** note:** *Gulamgiri* = **Phule 1873**. *Annihilation of Caste* = **Ambedkar 1936**.
+> **Logic:** *Gulamgiri* = **Phule 1873**. *Annihilation of Caste* = **Ambedkar 1936**.
 
 ---
 
@@ -347,7 +347,7 @@ D. 1903 A.D.
 - Gandhi replied in *Harijan*. Ambedkar answered in a later edition.
 - Do not give *Annihilation of Caste* to Phule. Do not give *Pakistan or the Partition of India* to Jinnah. Do not give *India Divided* to Ambedkar (that is **Rajendra Prasad**).
 
-> ** note:** Ambedkar’s syllabus book = **Annihilation of Caste (1936)**. Partition title of his = **Pakistan or the Partition of India**.
+> **Logic:** Ambedkar’s syllabus book = **Annihilation of Caste (1936)**. Partition title of his = **Pakistan or the Partition of India**.
 
 ---
 
@@ -375,9 +375,9 @@ D. 1903 A.D.
 | **The Man Who Divided India** | Rafiq Zakaria | |
 | **Desher Katha** | Sakharam Ganesh Deuskar | Swadeshi mind-conquest warning |
 
-- **2020 Q26** four: Deportation–**Lajpat Rai**; Gita–**Tilak**; Nation in Making–**Banerjee**; India Wins Freedom–**Azad**.
+- Four often-matched titles: Deportation–**Lajpat Rai**; *Gita Rahasya*–**Tilak**; *A Nation in Making*–**Banerjee**; *India Wins Freedom*–**Azad**.
 
-> ** note:** *Mother India* = **Mayo**. *Unhappy India* = **Lajpat Rai**. Never swap.
+> **Logic:** *Mother India* = **Mayo**. *Unhappy India* = **Lajpat Rai**. Never swap.
 
 **PYQ — UPPCS Prelims 2020, Q26**
 
@@ -418,7 +418,7 @@ D. 4 3 2 1
 - Do **not** confuse this history with Bankim's ***Anandamath*** (1882 novel, Sanyasi-rising background) or with Sir Syed Ahmad Khan's ***Causes of the Indian Mutiny*** (a loyalist, causes-only analysis from the opposite political direction).
 - Savarkar's **other** major book is ***Hindutva: Who is a Hindu?*** (1923) — a separate ideological work, not an 1857 history. Keep the two Savarkar titles apart.
 
-> ** note:** *The Indian War of Independence* = **Savarkar, 1909, 1857 as a national war**. *Hindutva* (1923) is Savarkar's **different** ideological book — do not merge the two.
+> **Logic:** *The Indian War of Independence* = **Savarkar, 1909, 1857 as a national war**. *Hindutva* (1923) is Savarkar's **different** ideological book — do not merge the two.
 
 ---
 
@@ -434,7 +434,7 @@ D. 4 3 2 1
 - **Lala Lajpat Rai**, already known for *The Story of My Deportation*, wrote ***Unhappy India* (1928)** as the most cited nationalist rebuttal, defending Indian civilisation while conceding genuine social evils needed indigenous reform, not colonial lecturing.
 - Do **not** give *Mother India* to an Indian author, and do **not** give *Unhappy India* to Mayo — the pairing only works as **attack / reply**.
 
-> ** note:** *Mother India* = **Mayo, 1927, hostile**. *Unhappy India* = **Lajpat Rai, 1928, reply**. Never swap author or direction of argument.
+> **Logic:** *Mother India* = **Mayo, 1927, hostile**. *Unhappy India* = **Lajpat Rai, 1928, reply**. Never swap author or direction of argument.
 
 ---
 
@@ -448,11 +448,11 @@ D. 4 3 2 1
 | **The Indian War of Independence** | Savarkar | 1857 as war of independence |
 | **The Discovery of India** | Nehru | Interpretive national history |
 
-- **2019 Q97** asks Bipan Chandra’s title. Distractors: Partha Sarathi Gupta, S. Gopal, B.R. Nanda.
+- **Bipan Chandra** wrote ***The Rise and Growth of Economic Nationalism in India***. Distractors often name Partha Sarathi Gupta, S. Gopal or B.R. Nanda.
 - Naoroji and Dutt **wrote in the nationalist age**. Bipan Chandra **wrote later about that age**.
 - Ancient/medieval match sets (Jayaswal *Hindu Polity*, Basham, Kosambi, V.A. Smith) are **not** this Modern India core. Skip 2024 Q134 here.
 
-> ** note:** Exact title *Rise and Growth of Economic Nationalism in India* = **Bipan Chandra**.
+> **Logic:** Exact title *Rise and Growth of Economic Nationalism in India* = **Bipan Chandra**.
 
 **PYQ — UPPCS Prelims 2019, Q97**
 
@@ -508,7 +508,7 @@ D. Bipin Chandra
 - *Freedom at Midnight* is popular narrative of the Mountbatten–Partition months, not Azad's memoir.
 - *Train to Pakistan* is **fiction** of Partition violence, not a political tract.
 
-> ** note:** *India Divided* = **Rajendra Prasad**. *Pakistan or the Partition of India* = **Ambedkar**. *Freedom at Midnight* ≠ Azad. Warren Hastings **patronised**, did not **translate**, the Gita.
+> **Logic:** *India Divided* = **Rajendra Prasad**. *Pakistan or the Partition of India* = **Ambedkar**. *Freedom at Midnight* ≠ Azad. Warren Hastings **patronised**, did not **translate**, the Gita.
 
 ---
 
@@ -525,7 +525,7 @@ D. Bipin Chandra
 - *Sevasadan* is about women’s social reform.
 - **Anandamath** is **not** a Premchand-style realist novel. **Bidesiya** is folk-drama, not a Hindi realist novel.
 
-> ** note:** *Godaan / Gaban* = **Premchand**. *Anandamath* = **Bankim**.
+> **Logic:** *Godaan / Gaban* = **Premchand**. *Anandamath* = **Bankim**.
 
 ---
 
@@ -546,7 +546,7 @@ D. Bipin Chandra
 - That is an eastern UP / Bihar social fact.
 - Heera Dom is **not** Bhikhari Thakur.
 
-> ** note:** Firangiya → **Sinha 1921**. Batohiya → **Raghuveer Narayan**. Bidesiya → **Bhikhari Thakur**. Achhut Kee Shikayat → **Heera Dom**.
+> **Logic:** Firangiya → **Sinha 1921**. Batohiya → **Raghuveer Narayan**. Bidesiya → **Bhikhari Thakur**. Achhut Kee Shikayat → **Heera Dom**.
 
 ---
 
@@ -574,7 +574,7 @@ D. Bipin Chandra
 - **Book ↔ author fact** lives here (Topic 10). The **political context** behind a book (why Naoroji wrote the drain critique, why Savarkar wrote from London) has its fuller home in **Topics 9 and 11**; this topic keeps only the title-and-author fact plus one line of context.
 - Bhojpuri literature stays a **UP-focus block** here — do not scatter it into the socio-religious reform topic.
 
-> ** note:** Any twin pair above (same author, two books) is a **standing UPPCS trap**. Learn the pair, not just one title.
+> **Logic:** Any twin pair above (same author, two books) is a **standing UPPCS trap**. Learn the pair, not just one title.
 
 ---
 

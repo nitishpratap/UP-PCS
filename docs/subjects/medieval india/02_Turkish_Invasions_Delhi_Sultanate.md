@@ -261,7 +261,7 @@ D. A false, R true
 - **1484:** Bahlul annexed **Sharqi Jaunpur**, bringing eastern UP again under Delhi's control.
 - **1526:Ibrahim Lodi** was killed at **Panipat I**. The Delhi Sultanate ended and the Mughal period began.
 
-> ** note:2025 Q95** — Khalsa + Jagir division is **true (A)**; Jagirs are **not** direct state land (**R false**) → **C**.
+> **Logic:** Land was divided into **Khalsa** (crown land) and **Jagir/Iqta** (assigned land). Jagirs were **not** direct state land deposited straight into the Sultan's treasury.
 
 ### PYQ — Khalsa vs Jagir
 
@@ -286,7 +286,7 @@ D. Both true, R explains A
 
 **R is false:** Jagirs/Iqtas were held by **assignees** (Muqtis/Jagirdars), not “direct control” in the Khalsa sense. Direct crown land = **Khalsa**.
 
-**Why not D:** Never pair “Jagir = direct state land” — that is the **2025 Q95** trap.
+**Why not D:** Never pair “Jagir = direct state land” — Jagirs were assigned noble land, not direct crown land.
 
 **If the stem changed:** If R said “Khalsa was under direct Sultan control,” both would be true and R would explain A → **D**.
 
@@ -438,8 +438,8 @@ D. A true, R false
 | **1311** | **Madurai** | Farthest south; Pandya capital looted |
 | **1312** | **Devgiri again** | Against **Shankar Dev**, Ramachandra’s son |
 
-- **UPPCS 2022 Q59** order: **Gujarat → Ranthambor → Chittor → Warangal**.
-- **UPPCS 2025 Q30** prepends **Jaisalmer**: **Jaisalmer → Ranthambore → Chittor → Warangal**.
+- Alauddin Khalji's conquest order: **Gujarat → Ranthambor → Chittor → Warangal**.
+- With **Jaisalmer** added first, the order is **Jaisalmer → Ranthambore → Chittor → Warangal**.
 - Match trap: **Devgiri = Ramachandra**; **Warangal ≠ Ramachandra** (**Prataparudra**).
 
 #### Gujarat (1299)
@@ -664,7 +664,7 @@ D. 1-2-4-3
 - He imposed **jizya on Brahmins**, who had often been exempt earlier. That levy does **not** explain his welfare image; both strands sat side by side (**A/R** = both true, R not explanation).
 - In horticulture he planted about **1200** new orchards near Delhi, restored about **30** Alauddin gardens, and pushed better fruit quality.
 - He brought **Ashoka pillars** from **Topra** (Yamunanagar, Haryana) and **Meerut** to Delhi — the Topra pillar to his Firozabad palace/mosque complex, and the Meerut pillar near **Bada Hindu Rao**.
-- He set up a **Translation Department**. Sanskrit books taken from **Nagarkot / Jwalamukhi** were rendered into Persian under **Azizuddin Khan** (**UPPCS 2023**).
+- He set up a **Translation Department**. Sanskrit books taken from **Nagarkot / Jwalamukhi** were rendered into Persian under **Azizuddin Khan**.
 - He made **iqta hereditary** and eased transfer pressure on nobles. That calmed the elite but weakened long-run central control compared with Alauddin’s tight Muqti audits.
 
 ### Later Tughlaqs, Timur, end
@@ -801,7 +801,7 @@ D. Azizuddin Khan
 - **Course:** On **20 April 1526** at **Panipat**, Ibrahim fielded about **one lakh** men but lacked coordinated **artillery** and **wagon-fort** tactics. Babur used **Araba** (chained wagons) and **Tulughma** (flanking cavalry wings). **Ibrahim Lodi** was killed on the battlefield.
 - **Result:** Babur took **Delhi and Agra** and ended the Delhi Sultanate. Panipat did **not** finish his Indian wars — he still fought at **Khanwa (1527)** against Rana Sanga and at **Ghagra (1529)**. The same field later saw **Second Panipat (1556)** (Akbar–Hemu) and **Third Panipat (1761)** (Marathas–Abdali).
 
-> ** note:First Panipat 1526** = Babur–Ibrahim. **Second 1556** = Akbar–Hemu.
+> **Logic:**First Panipat 1526** = Babur–Ibrahim. **Second 1556** = Akbar–Hemu.
 
 ---
 
@@ -832,7 +832,7 @@ The **Sultan** was supreme executive, military commander, and judge, but success
 - Local hierarchy ran **Iqta/Suba → Shiq → Pargana (Amil) → Village (Muqaddam, Khut, Patwari)**.
 - A **chakla** was a unit **between Subah and Pargana**. It is **not the same as the Mughal Sarkar** (a common trap).
 
-> ** note:2020 Q38** → Diwan-i-Tan(3), Mustarfi(4), Mushrif(1), Vakianvis(2) = **B (3-4-1-2)**. **2023 Q32** Khareetadar = decree despatcher.
+> **Logic:** Diwan-i-Tan = military pay; Mustarfi = audit; Mushrif = records; Vakianvis = firmans register. **Khareetadar** despatches royal decrees.
 
 ### PYQ — Administration match
 
@@ -856,7 +856,7 @@ Options include **B. 3-4-1-2**
 
 **Facts:** A–3 Diwan-i-Tan–salaries/jagirs | B–4 Mustarfi–audit | C–1 Mushrif–records | D–2 Vakianvis–firmans/events list
 
-**Trap:** Mushrif ≠ Vakianvis** — records vs firmans register; **Khareetadar** despatches decrees (separate officer, **2023 Q32**).
+**Trap:** **Mushrif** ≠ **Vakianvis** — records vs firmans register; **Khareetadar** despatches decrees.
 
 </details>
 
@@ -883,7 +883,7 @@ Options include **B. 3-4-1-2**
 - In India the first practical charge after Tarain went to **Aibak** at **Kuhram–Samana**, but **Iltutmish** institutionalised Iqta as the Sultanate’s regular revenue–military framework (small Doab iqtas to soldiers in lieu of cash salary).
 - The **Muqti** collected revenue from the assigned tract, maintained troops for the Sultan, ran local administration, and remitted surplus (**fawazil**) to the centre after audit. Revenue was **not deposited directly in the Sultan’s personal account**.
 - Iqta was **transferable and non-hereditary** in principle under early Sultans. **Alauddin** tightened audits and transfers; **Firoz Shah** later made iqta **hereditary**, which calmed nobles but weakened the crown.
-- **Khalsa** land alone fed the treasury directly. Confusing Iqta with Khalsa is the **UPPCS 2019 Q15** trap: option **C** (“revenue from Iqta deposited directly in the Sultan’s account”) is **NOT** a characteristic.
+- **Khalsa** land alone fed the treasury directly. Confusing Iqta with Khalsa is a common trap: revenue from Iqta was **not** deposited directly in the Sultan’s account.
 
 - **Alauddin** fixed about **50%** of produce in the **Doab** using **Jarib** measurement.
 - **Firuz** imposed **jizya on Brahmins** and kept lighter rates (**one-sixth to one-third**) on Khalsa land.
@@ -916,7 +916,7 @@ D. A false, R true
 
 </details>
 
-> ** note:2019 Q15** — NOT characteristic = **C** (revenue directly deposited in Sultan's account).
+> **Logic:** Iqta revenue went to the **Muqti** first; it was **not** deposited directly in the Sultan's treasury. That direct-deposit trait belongs to **Khalsa** land.
 
 ### PYQ — Iqta
 
@@ -972,7 +972,7 @@ Persian was the court language of the Delhi Sultanate. Arabic served theology an
 - **Ziauddin Barani** is the key political historian for Balban–Firuz. Pair trap: **Tarikh-i-Firoz Shahi** can mean **Barani** or **Afif** — check the stem’s author name.
 - **Ibn Battuta** is a traveller, not the author of **Tughlaqnama**.
 - The court language was **Persian**; Arabic was used for theology; **Hindavi** was used at the popular level.
-- **Hamida Banu Begum** was **Humayun's** wife and Akbar's mother. She was **not** Alauddin Khalji's wife (**UPPCS 2023 Q34**).
+- **Hamida Banu Begum** was **Humayun's** wife and Akbar's mother. She was **not** Alauddin Khalji's wife.
 
 > **Logic note:** Never pair **Tughlaqnama ↔ Ibn Battuta**. **Barani ≠ Afif** even when both titles say Tarikh-i-Firoz Shahi.
 
@@ -993,11 +993,11 @@ Persian was the court language of the Delhi Sultanate. Arabic served theology an
 | **Tughlaqabad** | Ghiyasuddin Tughlaq | |
 | **Hauz Khas** | Firoz Shah Tughlaq | |
 
-- **UPPCS 2022 Q4** match: **Sultan Garhi–Iltutmish (3)**, **Red Palace–Balban (4)**, **Jamat Khana–Alauddin (1)**, **Dhai Din Ka Jhopra–Aibak (2)**. Answer **A (3-4-1-2)**.
+- **Sultan Garhi** was built by **Iltutmish**; **Red Palace** by **Balban**; **Jamat Khana** by **Alauddin**; **Dhai Din Ka Jhopra** at Ajmer by **Aibak**.
 - Sultanate architecture used the **horse-shoe arch**, lotus-bud fringes, and calligraphy bands.
 - It combined **arcuate** (arch-based) and **trabeate** (lintel-based) construction.
 
-> ** note:Qutub Minar ≠ Alai Darwaza** — different builders.
+> **Logic:**Qutub Minar ≠ Alai Darwaza** — different builders.
 
 ### PYQ — Architecture match
 
@@ -1486,7 +1486,7 @@ D. (A) true, but (R) false
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Same as **2018 Q14** — disunity enabled Ghori and the Sultanate foothold.
+**Ans: A.** Rajput disunity enabled Ghori and the Sultanate foothold.
 
 </details>
 
@@ -4391,7 +4391,7 @@ D. Only 3
 
 **Ans: A.**
 
-**Why wrong:** Hamida Banu Begum was **Humayun's** wife, not **Alauddin Khalji's** (**2023 Q34**).
+**Why wrong:** Hamida Banu Begum was **Humayun's** wife, not **Alauddin Khalji's**.
 
 **Trap:** Begum names without dynasty check — other three pairs are correct.
 
@@ -4425,7 +4425,7 @@ Options: A.1-2-3-4 | B.2-1-4-3 | C.2-1-3-4 | D.1-2-4-3
 
 **Ans: B (2-1-4-3)Order:** 2 Jaisalmer → 1 Ranthambore → 4 Chittor → 3 Warangal
 
-**Trap:2025 Q30** — Warangal **last**; same code as 2022 Q59 with different item list.
+**Trap:** **Warangal** comes **last** in Alauddin's conquest sequence; the item list may differ across papers.
 
 </details>
 
@@ -4445,7 +4445,7 @@ D. Muqti administers assigned territory
 
 **Why wrong:** Iqta revenue went to **Muqti** first for troops/administration — **not** deposited directly in Sultan's treasury.
 
-**Trap:** Direct deposit = **Khalsa** logic (**2019 Q15**).
+**Trap:** Direct revenue deposit to the Sultan's treasury = **Khalsa** land logic, not Iqta.
 
 </details>
 
@@ -4495,7 +4495,7 @@ Options: A.3-4-1-2 | B.1-2-3-4 | C.3-1-4-2 | D.4-3-2-1
 
 **Ans: A (3-4-1-2)Facts:** A–3 Diwan-i-Tan–salaries | B–4 Mustarfi–audit | C–1 Mushrif–records | D–2 Vakianvis–firmans
 
-**Trap:2020 Q38** — Mushrif/Vakianvis swap.
+**Trap:** Do not swap **Mushrif** (records) with **Vakianvis** (firmans register).
 
 </details>
 
@@ -4505,7 +4505,7 @@ Options: A.3-4-1-2 | B.4-3-1-2 | C.3-4-2-1 | D.2-1-4-3
 
 **Ans: A (3-4-1-2)Facts:** A–3 Sultan Garhi–Iltutmish | B–4 Red Palace–Balban | C–1 Jamat Khana–Alauddin | D–2 Dhai Din Ka Jhopra–Aibak
 
-**Trap:2022 Q4** — Dhai Din Ka Jhopra is at **Ajmer** (Aibak).
+**Trap:** **Dhai Din Ka Jhopra** is at **Ajmer**, built by **Aibak**.
 
 </details>
 
@@ -4559,7 +4559,7 @@ D. Azizuddin Khan
 
 <details><summary>Show answer</summary>
 
-**Ans: D.** **Azizuddin Khan** translated Firoz Shah’s Nagarkot/Jwalamukhi Sanskrit collection (**UPPCS 2023 Q37**).
+**Ans: D.** **Azizuddin Khan** translated Firoz Shah’s Nagarkot/Jwalamukhi Sanskrit collection.
 
 **Trap:** **Mulla Abdul Baqi** is a distractor — not Barani or Khusrau either.
 
@@ -4594,7 +4594,7 @@ D. Only 4
 
 **Why wrong:** chakla is between **Subah** and **Pargana** — **not** identical to Mughal **Sarkar**.
 
-**Trap:2018 Q92** — Sultanate unit vs Mughal administrative term.
+**Trap:** **Chakla** is a Sultanate unit between Subah and Pargana; it is **not** the Mughal **Sarkar**.
 
 </details>
 
@@ -5116,15 +5116,15 @@ Options: A. 3-3-2-1 | B. 3-3-1-2 | C. 2-3-3-1 | D. 3-2-3-1
 7. **Bakhtiyar Khalji** took Bihar–Bengal (**Odantapuri, Nalanda, Vikramshila, Nadia, Lakhnauti**) — not Aibak.
 8. The Delhi Sultanate begins in **1206** when Aibak took the title of Sultan, not in **1192** when Ghori won Tarain.
 9. **Iltutmish** was the real consolidator of the Sultanate, not Aibak.
-10. **Hamida Banu Begum** was **Humayun's** wife, not Alauddin Khalji's (**UPPCS 2023 Q34**).
-11. **Tughlaqnama** was written by **Amir Khusrau**, not Ibn Battuta (**UPPCS 2019 Q16**).
-12. **Iqta revenue** went to the Muqti first and was **not deposited directly** in the Sultan's treasury (**UPPCS 2019 Q15**). First Ghori-era iqta charge in India goes to **Aibak (Kuhram–Samana)**.
-13. **Jagirs** were assigned noble land; **Khalsa** was direct crown land (**UPPCS 2025 Q95**).
-14. Balban's centralisation against the nobles is **not fully explained** by Mongol frontier policy alone (**UPPCS 2024 Q150 = C**).
+10. **Hamida Banu Begum** was **Humayun's** wife, not Alauddin Khalji's.
+11. **Tughlaqnama** was written by **Ziauddin Barani**, not Ibn Battuta.
+12. **Iqta revenue** went to the Muqti first and was **not deposited directly** in the Sultan's treasury. First Ghori-era iqta charge in India goes to **Aibak (Kuhram–Samana)**.
+13. **Jagirs** were assigned noble land; **Khalsa** was direct crown land.
+14. Balban's centralisation against the nobles is **not fully explained** by Mongol frontier policy alone.
 15. Alauddin's conquest order is **Gujarat → Ranthambor → Chittor → Warangal**.
 16. **Qutub Minar** was built by **Aibak/Iltutmish**; **Alai Darwaza** was built by **Alauddin**.
 17. **Sikandar Lodi** made **Agra** important; **Ibrahim Lodi** was the last Sultan at Panipat.
-18. **chakla** is a Sultanate unit between Subah and Pargana; it is **not the Mughal Sarkar** (**UPPCS 2018 Q92**).
+18. **Chakla** is a Sultanate unit between Subah and Pargana; it is **not the Mughal Sarkar**.
 19. **Jarib** is a **measuring rope**, not a tax.
 20. **Khareetadar** despatched royal decrees; **Barid** was the spy.
 21. **First Panipat (1526)** is Babur vs Ibrahim Lodi; **Second Panipat (1556)** is Akbar vs Hemu.

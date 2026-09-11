@@ -272,7 +272,7 @@ This cluster is the **office**: who appoints, who removes, oath, resigns-to-whom
 
 **≠ State Election Commissioner** (Arts. **243K / 243ZA**) — local bodies. Different office, different remover (usually like an HC judge under State law).
 
-ECI does **not** elect Speaker / run municipal polls / decide those disputes (2024 Q24 — none of the above). President/VP *election disputes* = Art. **71** SC, not ECI.
+ECI does **not** elect Speaker / run municipal polls / decide those disputes. President/VP *election disputes* = Art. **71** SC, not ECI.
 
 **Article trap:** “Election Commission — Art. **165**” is **wrong**. **165 = Advocate General.** ECI = **324**.
 
@@ -318,7 +318,7 @@ Trap: UPSC Chair is removed by the PM. **President + SC inquiry.** Trap: UPSC Ch
 **Chair of a State Public Service Commission.Governor** appoints and receives the resignation; **President** removes. Tenure **6 years or 62**.
 
 - **Removal (317):President** — **not** the Governor. Same SC-inquiry path on misbehaviour
-- **Extend functions (321):State Legislature**, not the President / PM (2021 Q133 UP)
+- **Extend functions (321):State Legislature**, not the President / PM
 - **Report:Governor** → State House(s)
 - **Further office (319):** SPSC **Chairman** may later be **UPSC Chair** or Chair of **another** SPSC — not other Union/State office
 - **JPSC:** two+ States **request** → **Parliament** by law. Appoint/remove = **PresidentUP:UPPSC**, HQ **Prayagraj**. ≠ UPSC (Delhi) ≠ UP **SEC** (local polls).
@@ -499,7 +499,7 @@ Trap: CJI resigns to the Law Minister / to the next senior judge. **President.**
 
 **UPPCS Prelims 2023, Q12** — AG: (1) SC-judge qualification (2) removed like SC judges. **Ans: A — Only 1.UPPCS Prelims 2022, Q55** — CAG audit report examined by? **Ans: A — PAC.UPPCS Prelims 2020, Q110** — AG of India — Part XIII is **not** correctly matched. AG = **Part V**.
 
-2020 Q124 AG statements: stem missing in the local dump; fact remains pleasure / 88-no-vote / private practice except vs GoI.
+- **Attorney General:** holds office during the **President's pleasure**; is **not** a voting MP/MLA while in office (Art. 88); may take **private briefs** except against the Government of India.
 
 **UPPCS Prelims 2021, Q91** — Sukumar Sen = first CEC; Rama Devi = first woman CEC. **Both true.UPPCS Prelims 2021, Q81** — SPSC member removed by **President after SC enquiry**. **Ans: C.UPPCS Prelims 2021, Q133** — UPPSC functions extended by **UP State Legislature**. **Ans: D.UPPCS Prelims 2022, Q24** — JPSC established by **Parliament if requested by the States**. **Ans: B.UPPCS Prelims 2023, Q19** — SC judge resigns to the **President**. **Ans: C.UPPCS Prelims 2024, Q124** — UPSC functions from Constitution, laws, executive rules, **and conventions**. **Ans: D.UPPCS Prelims 2024, Q24** — ECI does **not** elect Speaker / run municipal polls / decide those disputes. **Ans: D none.UPPCS Prelims 2018, Q145** — CJI when PIL introduced — **P.N. Bhagwati**. epistolary / continuing mandamus.
 

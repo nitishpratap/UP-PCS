@@ -252,11 +252,11 @@ Derwent **Whittlesey (1936)** — standard 13-type world map. Learn **region + c
 
 - Ideal isolated state: one market town, flat plain, uniform soil, farmers maximise rent.
 - **Rings from the city outward (classic teaching order):**
-  - Intensive dairy, vegetables and flowers sit nearest the city.
-  - **Forestry** comes next because wood is bulky.
-  - Intensive field crops follow.
-  - Extensive **grain** comes after that.
-  - **Livestock ranching** sits on the outer margin.
+ - Intensive dairy, vegetables and flowers sit nearest the city.
+ - **Forestry** comes next because wood is bulky.
+ - Intensive field crops follow.
+ - Extensive **grain** comes after that.
+ - **Livestock ranching** sits on the outer margin.
 - Distance cost decides the crop — not Whittlesey’s climate-region names.
 - Real world breaks the rings (climate, relief, government, refrigerated transport), but the **logic** still appears in Prelims theory stems.
 

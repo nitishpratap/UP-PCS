@@ -4033,7 +4033,7 @@ Match List-I and List II and give correct answer by using the code given below-
 | B. Parliamentary System | 2. United States |
 | C. Emergency Provisions | 3. Ireland |
 | D. Directive Principles of State Policy | 4. Germany |
-|  | 5. Canada |
+| | 5. Canada |
 
 *Row order is not the answer code.*
 
@@ -4142,7 +4142,7 @@ C. Concurrent List for Union-State Relations
 D. India as a Union of States with greater powers to the Union
 
 List-II
-1. Australia  2. Canada  3. Ireland  4. United Kingdom  5. United States of America
+1. Australia 2. Canada 3. Ireland 4. United Kingdom 5. United States of America
 
 *Row order is not the answer code.*
 

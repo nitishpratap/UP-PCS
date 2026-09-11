@@ -121,7 +121,7 @@ D. Malik Sarwar – Malwa Khwaja Jahan
 - **Course:** On **16 March 1527** near **Khanwa** (Fatehpur Sikri–Bharatpur belt), Sanga's Rajput coalition charged Babur's smaller army. Babur used chained **Araba** wagons and **Tulughma** flanking cavalry to break the charge. Tradition credits Sanga with **80 wounds**, a lost eye, and a lost arm from earlier wars.
 - **Result:** Babur won decisively. Sanga died **~1528**. No second all-Rajput confederacy faced Babur. Babur still fought at **Ghagra (1529)** before his death.
 
-> ** note:** Khanwa = **Sanga 1527**. Never pair **Pratap** with Khanwa.
+> **Logic:** Khanwa = **Sanga 1527**. Never pair **Pratap** with Khanwa.
 
 ---
 
@@ -202,7 +202,7 @@ A. 1-2-3-4 | B. 2-1-4-3 | C. 2-1-3-4 | D. 1-2-4-3
 
 **Ans: B (2-1-4-3)Order:** Jaisalmer → Ranthambore → Chittor → Warangal.
 
-**Trap:** Same **2-1-4-3** sequence as 2022 Q59, but the **option letter differs** — do not copy 2022’s **C** onto 2025.
+**Trap:** Alauddin's conquest order **Gujarat → Ranthambore → Chittor → Warangal** may map to different option letters across papers.
 
 </details>
 
@@ -258,7 +258,7 @@ Options: A.1-2-3-4 | B.2-1-4-3 | C.2-1-3-4 | D.1-2-4-3
 
 **Ans: B (2-1-4-3)Order:** Jaisalmer → Ranthambore → Chittor → Warangal.
 
-**Trap:2022 Q59** keys to **C**; **2025 Q30** keys to **B** — same sequence, different option lettering.
+**Trap:** With **Jaisalmer** prepended, order is **Jaisalmer → Ranthambore → Chittor → Warangal** — verify pairs, not memorised letters.
 
 </details>
 
@@ -322,7 +322,9 @@ D. Rana Sanga – Mewar
 
 <details><summary>Show answer</summary>
 
-**Ans: BWhy wrong:** 2021 Q118; Rao Chunda = Marwar.
+**Logic:** **Rao Chunda** founded the Rathore line at **Marwar** — the **Rao** title marks Marwar, not Mewar.
+
+**Ans: B.** **Rao Chunda** = **Marwar**.
 
 **Trap:** Eliminate pairs you know are correct first.
 
@@ -382,7 +384,9 @@ D. Muzaffar Shah of Gujarat
 
 <details><summary>Show answer</summary>
 
-**Ans: AWhy:** 2019 Q89; not Mewar.
+**Logic:** Tansen's pre-Akbar patron was **Raja Ramchandra Singh of Bhata (Rewa)**, not Mewar.
+
+**Ans: A.** **Bhata/Rewa** patronised Tansen before Akbar.
 
 </details>
 
@@ -941,7 +945,7 @@ D. Neither
 
 **Ans: B (Only 2)Key:** Statement **1** is false — **Rana Chunda** is **Mewar**, not Marwar. Statement **2** is true — **Rao Chunda** is Marwar line.
 
-**Trap:2021 Q118** — Rana vs Rao title trap.
+**Trap:** **Rao** title marks **Marwar** Rathores; **Rana** marks **Mewar** — do not swap Chunda with Pratap's line.
 
 </details>
 
@@ -1017,7 +1021,7 @@ D. Founding Udaipur
 12. The fact that **Sanga** had contact with Babur does not mean he stayed allied to him.
 13. Do not call Haldighati a clear **Mughal victory**. Say the Mughals held a **strategic edge** on the plains. Pratap survived.
 14. **Kumbha** is not Pratap. **Vijay Stambha** was built by Kumbha.
-15. On **2025 Q30**, **Jaisalmer** comes **before Ranthambore** in the keyed order.
+15. **Jaisalmer** comes **before Ranthambore** in Alauddin's extended conquest sequence.
 16. **Rana Hammir** of Mewar is not **Hamir Deva** of Ranthambore.
 17. **Kirti Stambha** is not **Vijay Stambha**. Kirti is the older Jain tower at Chittor.
-18. **2022 Q59** keys to option **C**, not B. Both papers use the **2-1-4-3** sequence but not the same letter.
+18. **Gujarat → Ranthambore → Chittor → Warangal** is the core sequence — option letters differ across papers.

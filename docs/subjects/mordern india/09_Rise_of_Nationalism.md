@@ -86,7 +86,7 @@ Nationalism did **not** appear fully formed in 1885. Hold this arc; every card b
 | Reunion and Home Rule | **1916–1918** | Lucknow Pact; Home Rule Leagues (full detail **Topic 12**) | A.C. Majumdar; Besant/Tilak leagues |
 | Gandhian mass phase | **1919 onward** | Mass satyagraha (full detail **Topics 13–14**) | Amritsar 1919 onward |
 
-> ** note:** Start every Topic 9 answer from the **stage**. Moderates are not "loyalists with no demands." Extremists are not "terrorists." Surat is a **split**, Lucknow is a **reunion** — never confuse the two 1900s-teen sessions.
+> **Logic:** Start every Topic 9 answer from the **stage**. Moderates are not "loyalists with no demands." Extremists are not "terrorists." Surat is a **split**, Lucknow is a **reunion** — never confuse the two 1900s-teen sessions.
 
 ---
 
@@ -102,7 +102,7 @@ Nationalism did **not** appear fully formed in 1885. Hold this arc; every card b
 - Pre-Congress associations trained leaders in petitions, meetings and the press. Congress in **1885** gave them one all-India annual forum.
 - Early nationalism was **constitutional**. After Partition of Bengal (**1905**) it split into **Moderates** and **Extremists**.
 
-> ** note:** Congress did **not** begin Indian politics. London, Calcutta, Poona, Madras and Bombay associations came first.
+> **Logic:** Congress did **not** begin Indian politics. London, Calcutta, Poona, Madras and Bombay associations came first.
 
 ---
 
@@ -122,7 +122,7 @@ Nationalism did **not** appear fully formed in 1885. Hold this arc; every card b
 - Often keyed as the **first organised political association** in India using **constitutional agitation**.
 - Aim: safeguard **zamindar** rights — not a middle-class nationalist party yet.
 
-> ** note:** First political organisation key = **Zamindari / Landholders’ Society, 1838** — not Indian Association 1876.
+> **Logic:** First political organisation key = **Zamindari / Landholders’ Society, 1838** — not Indian Association 1876.
 
 ### Bengal British India Society (1843)
 
@@ -158,9 +158,9 @@ Nationalism did **not** appear fully formed in 1885. Hold this arc; every card b
 - Naoroji set it up to tell the British public and Parliament the Indian side of revenue, poverty and administration.
 - It replaced the narrower London Indian student circles as a serious lobby.
 - Indians and retired British officials both spoke from its platform.
-- This is item **1** in **2024 Q15**. Do not give 1866 to the Calcutta Indian Association.
+- The East India Association (**1866**) is the earliest of the four; do not give that year to the Calcutta Indian Association (**1876**).
 
-> ** note:** East India Association = **1866 + Naoroji + London**. Indian Association = **1876 + Banerjee + Calcutta**.
+> **Logic:** East India Association = **1866 + Naoroji + London**. Indian Association = **1876 + Banerjee + Calcutta**.
 
 ### National Indian Association (1870)
 
@@ -169,9 +169,9 @@ Nationalism did **not** appear fully formed in 1885. Hold this arc; every card b
 
 - Mary Carpenter, the English social reformer, promoted education and social contact between Britain and India.
 - The body was more **social–educational** than a mass political party.
-- It is item **2** in **2024 Q15**, after East India Association and before Indian Society.
+- It sits **after** East India Association (**1866**) and **before** Indian Society (**1872**).
 
-> ** note:** National Indian Association **1870** ≠ Indian Association **1876**.
+> **Logic:** National Indian Association **1870** ≠ Indian Association **1876**.
 
 ### Indian Society (1872)
 
@@ -179,10 +179,10 @@ Nationalism did **not** appear fully formed in 1885. Hold this arc; every card b
 **Link:** Indian students; **Ananda Mohan Bose** memory
 
 - A London society of Indian students for debate and political discussion.
-- It sits **after** National Indian Association (1870) and **before** Indian Association (1876) in the 2024 order.
+- It sits **after** National Indian Association (**1870**) and **before** Indian Association (**1876**).
 - Do not confuse it with Naoroji’s **1866** East India Association.
 
-> ** note:** 2024 order uses Indian Society as **1872**, item 3.
+> **Logic:** 2024 order uses Indian Society as **1872**, item 3.
 
 ### Poona Sarvajanik Sabha (1870)
 
@@ -194,7 +194,7 @@ Nationalism did **not** appear fully formed in 1885. Hold this arc; every card b
 - Ranade used it as a school of Moderate public work. Tilak later moved in a sharper direction from the same Poona world.
 - It is **not** the Bombay Presidency Association of **1885**.
 
-> ** note:** Poona Sabha **1870** = Deccan public body. Bombay Presidency Association = **1885**.
+> **Logic:** Poona Sabha **1870** = Deccan public body. Bombay Presidency Association = **1885**.
 
 ### Indian League (1875)
 
@@ -204,7 +204,7 @@ Nationalism did **not** appear fully formed in 1885. Hold this arc; every card b
 - A short-lived Bengal political body just before the Indian Association.
 - It wanted a stronger all-Bengal political platform than the older zamindar-heavy British Indian Association (1851).
 
-> ** note:** Indian League **1875** (Ghosh) is not the Indian Association **1876** (Banerjee–Bose).
+> **Logic:** Indian League **1875** (Ghosh) is not the Indian Association **1876** (Banerjee–Bose).
 
 ### Indian Association (1876)
 
@@ -218,9 +218,9 @@ Nationalism did **not** appear fully formed in 1885. Hold this arc; every card b
 - It reached beyond zamindars to the educated middle class and students.
 - Banerjee organised the **Indian National Conference** in **1883** and **1885** as all-India meetings. The 1885 Conference at Calcutta ran in the same season as the first INC at Bombay.
 - Many of its methods and men later flowed into Congress.
-- **2024 Q15** item **4** — last of the four.
+- Among the four early bodies in chronology drills, Indian Association is the **latest** (**1876**).
 
-> ** note:** Indian Association = **1876 Calcutta, Banerjee + A.M. Bose**. Not 1866. Not Naoroji’s London body.
+> **Logic:** Indian Association = **1876 Calcutta, Banerjee + A.M. Bose**. Not 1866. Not Naoroji’s London body.
 
 ### Madras Mahajan Sabha (1884)
 
@@ -231,7 +231,7 @@ Nationalism did **not** appear fully formed in 1885. Hold this arc; every card b
 - It discussed local government, jobs, and Indian representation.
 - It is one of the three presidency bodies named in the syllabus, with Poona and Bombay.
 
-> ** note:** Madras Mahajan Sabha = **1884**. Bombay Presidency Association = **1885**. INC = **1885**.
+> **Logic:** Madras Mahajan Sabha = **1884**. Bombay Presidency Association = **1885**. INC = **1885**.
 
 ### Bombay Presidency Association (1885)
 
@@ -244,7 +244,7 @@ Nationalism did **not** appear fully formed in 1885. Hold this arc; every card b
 - Tyabji later became the **first Muslim President** of Congress, at **Madras 1887**.
 - Do not date it in the 1860s. It is **1885**.
 
-> ** note:** Bombay Presidency Association **1885** ≠ East India Association **1866**.
+> **Logic:** Bombay Presidency Association **1885** ≠ East India Association **1866**.
 
 **PYQ — UPPCS Prelims 2024, Q15**
 
@@ -293,7 +293,7 @@ D. 1, 2, 3, 4
 - The **British Committee of the INC** was set up in London in **1889** under **Sir William Wedderburn**; it published the weekly *India*.
 - At the **Bankipur (Patna) session, 1912** (President **R.N. Mudholkar**), Hume was publicly called the **Father of Congress**.
 
-> ** note:** First session = **Bombay 1885 + W.C. Bonnerjee + Hume**. First President is **not** Hume, **not** Naoroji, **not** Tilak.
+> **Logic:** First session = **Bombay 1885 + W.C. Bonnerjee + Hume**. First President is **not** Hume, **not** Naoroji, **not** Tilak.
 
 ---
 
@@ -311,7 +311,7 @@ Two rival explanations of **why** Congress began. Notes test both sides, not jus
 - Hume genuinely wanted reform; Indians were not his passive tools. Both things can be true at once — that is the usual "both statements correct, but not causally linked" trap in A/R questions.
 - Do not write that Safety Valve is a "proven British conspiracy." It is a **theory**, most associated with **Lajpat Rai** in the 's eyes.
 
-> ** note:** If a stem asks **who first suggested the Safety Valve idea**, the standard name is **Lala Lajpat Rai**. If it asks **who defended Hume**, the name is **William Wedderburn**.
+> **Logic:** If a stem asks **who first suggested the Safety Valve idea**, the standard name is **Lala Lajpat Rai**. If it asks **who defended Hume**, the name is **William Wedderburn**.
 
 ---
 
@@ -345,15 +345,14 @@ Two rival explanations of **why** Congress began. Notes test both sides, not jus
 | **1940** | Ramgarh | **Abul Kalam Azad** |
 | **1946** | Meerut | J.B. Kripalani |
 
-- **2021 Q50** asks who **never** presided.
-- The answer is **Bal Gangadhar Tilak**.
+- **Bal Gangadhar Tilak** **never** presided over an INC session.
 - Lajpat Rai, Gokhale and Subhas Bose **did** preside.
 - Naoroji is the early leader who presided **three times** (1886, 1893, 1906).
 - **Lucknow Pact is 1916**, not 1911.
-- **2025 Q6** lists partition revoked, capital to Delhi, and Lucknow Pact. Only the first two belong to **1911**.
-- **2024 Q133** later chronology uses **Ramgarh 1940** after Congress ministries resigned in **1939**.
+- The **1911** Delhi Durbar package linked partition annulment with moving the capital to Delhi — not the Lucknow Pact.
+- **Ramgarh 1940** came after Congress ministries resigned in **1939**, before the August Offer and Cripps Mission.
 
-> ** note:** Burn **Tilak = never President**. Besant **1917** is the first woman President. Sarojini **1925** is the first **Indian** woman President. Gandhi’s only presidency is **Belgaum**.
+> **Logic:** Burn **Tilak = never President**. Besant **1917** is the first woman President. Sarojini **1925** is the first **Indian** woman President. Gandhi’s only presidency is **Belgaum**.
 
 **PYQ — UPPCS Prelims 2021, Q50**
 
@@ -388,7 +387,7 @@ D. Subhash Chandra Bose
 - Moderates valued the British connection if it were run on British liberal principles. That is the **“Un-British rule”** complaint: the Raj was not living up to its own ideals.
 - Extremists later said these policies had **no sanction** (no boycott, no mass refusal). Surat **1907** is that fight.
 
-> ** note:** Early Congress **did** have an economic programme (drain, poverty, military cuts). It was **not** a revolutionary terrorist body.
+> **Logic:** Early Congress **did** have an economic programme (drain, poverty, military cuts). It was **not** a revolutionary terrorist body.
 
 ### Moderate economic demands — checklist
 
@@ -403,7 +402,7 @@ Early Congress built a full economic programme around Naoroji's drain critique. 
 7. Expand **legislative councils** with more elected Indians and real budget-discussion rights.
 8. Separate the **judiciary from the executive** at the district level to curb racial bias in justice (the Ilbert wound).
 
-> ** note:** This checklist is the "Congress **did** have an economic programme" answer to any statement claiming Moderates were pure loyalists with no demands.
+> **Logic:** This checklist is the "Congress **did** have an economic programme" answer to any statement claiming Moderates were pure loyalists with no demands.
 
 ---
 
@@ -413,11 +412,11 @@ Early Congress built a full economic programme around Naoroji's drain critique. 
 - The leading Moderates were **Dadabhai Naoroji**, **G.K. Gokhale**, **Pherozeshah Mehta** and **Dinshaw Wacha**.
 - **Surendranath Banerjee** also belongs to this phase.
 - They believed British rule could **modernise** India through law, railways and English education, if it were just.
-- That is the **providence / modernisation** idea in **2024 Q135 Assertion**.
+- That is the Moderate belief that British rule could **modernise** India through law, railways and English education.
 - They attacked exploitation as **“Un-British rule.”**
 - That meant a betrayal of British liberty, not a call to end the British connection overnight.
-- That is the **2024 Q135 Reason**.
-- **A is true and R is true, but R does not explain A.** Belief in providential modernisation is not *caused* by the Un-British-rule slogan; they are two related Moderate ideas. Answer: **Both true; R is not the correct explanation**.
+- The **“Un-British rule”** slogan attacked exploitation as a betrayal of British liberty.
+- Both ideas are true for Moderates, but the Un-British-rule slogan does **not** explain the modernisation belief — they are related but separate Moderate ideas.
 - Their methods were facts, books, budget speeches, and British friends in Parliament.
 - Mass boycott was not their first weapon.
 - **Gokhale** is the stock Moderate.
@@ -426,7 +425,7 @@ Early Congress built a full economic programme around Naoroji's drain critique. 
 - Gandhi later called him his political teacher.
 - After **1905** Partition, Extremists said Moderate methods had failed. **Surat 1907** split the two camps. **Lucknow 1916** brought them back together.
 
-> ** note:** 2024 Q135 = **Both true; R does not explain A**. Moderates criticised the drain; they were not blind loyalists.
+> **Logic:** Moderates criticised the economic drain; they were not blind loyalists. Both can be true without one explaining the other.
 
 **PYQ — UPPCS Prelims 2024, Q135**
 
@@ -492,7 +491,7 @@ The government moved against Extremist leaders in the years right after Surat. K
 | **Bipin Chandra Pal** | **Self-exile** in England to avoid testifying against Aurobindo in the *Bande Mataram* sedition case | **1908–1911** |
 | **Aurobindo Ghosh** | Tried in the **Alipore Bomb Case**; acquitted, then withdrew from politics to **Pondicherry** | Case **1908–09**; Pondicherry from **1910** |
 
-> ** note:** Surat **1907** = split. Lucknow **1916** = reunion + League pact. Lucknow Pact is **not 1911**. Lajpat Rai's Mandalay (**1907, six months**) is a **different** event from Tilak's Mandalay (**1908–14, sedition sentence**).
+> **Logic:** Surat **1907** = split. Lucknow **1916** = reunion + League pact. Lucknow Pact is **not 1911**. Lajpat Rai's Mandalay (**1907, six months**) is a **different** event from Tilak's Mandalay (**1908–14, sedition sentence**).
 
 ---
 
@@ -508,15 +507,15 @@ The government moved against Extremist leaders in the years right after Surat. K
 - He accused Moderates of **prayer, petition and protest** politics. His funeral bier (**1 August 1920**) was lifted by Gandhi, Shaukat Ali and others.
 - He **opposed** the **Age of Consent Act, 1891**.
 - **Behramji Malabari** advocated the Act.
-- Tilak’s Extremist wing did **not** support it. In **2024 Q17**, statement 2 is therefore false.
+- Tilak’s Extremist wing did **not** support the Age of Consent Act; Malabari did.
 - He was jailed for sedition in **1897**, after the Chapekar context, and again in **1908**.
 - He spent **1908–14 in Mandalay**.
 - There he wrote ***Gita Rahasya***.
 - Famous line: **“Swaraj is my birthright and I shall have it.”**
-- **2021 Q50:** he **never presided** over an INC session. He was a giant of the Surat Extremists, not the Congress President.
+- He **never presided** over an INC session. He was a giant of the Surat Extremists, not a Congress President.
 - In **1916** he started a **Home Rule League** beside Annie Besant’s league. He died in **1920**, just as Non-Cooperation was being shaped.
 
-> ** note:** Tilak = **never INC President + Kesari + Home Rule 1916 + opposed Age of Consent**. Gokhale **did** preside (1905).
+> **Logic:** Tilak = **never INC President + Kesari + Home Rule 1916 + opposed Age of Consent**. Gokhale **did** preside (1905).
 
 ---
 
@@ -531,13 +530,13 @@ The government moved against Extremist leaders in the years right after Surat. K
 - He sat in the British House of Commons as Liberal MP for **Central Finsbury (1892)** — first Indian MP in that House.
 - Drain theory said India’s wealth left as salaries, pensions, home charges, profits and unequal trade.
 - Poverty was **produced**, not natural.
-- ***Poverty and Un-British Rule in India*** was published in **1901** (**2021 Q139**). “Un-British” here means rule that violates Britain’s own standards — the same Moderate vocabulary as 2024 Q135.
+- ***Poverty and Un-British Rule in India*** was published in **1901**. “Un-British” here means rule that violates Britain’s own standards — the same Moderate vocabulary as the “Un-British rule” critique.
 - He was Congress President **three times**.
 - The years were **1886 Calcutta**, **1893 Lahore** and **1906 Calcutta**.
 - At Calcutta **1906**, Congress adopted **Swaraj** as a goal in Naoroji’s presidentship.
 - He remained a Moderate in method and a radical in economic diagnosis. Gokhale and the early Congress treated him as the senior economist-statesman.
 
-> ** note:** Book year = **1901**, not 1900/1902/1903. East India Association **1866** is his. Three presidentships.
+> **Logic:** Book year = **1901**, not 1900/1902/1903. East India Association **1866** is his. Three presidentships.
 
 **PYQ — UPPCS Prelims 2021, Q139**
 
@@ -580,7 +579,7 @@ D. 1903 A.D.
 - He founded the **Servants of India Society in 1905**.
 - He was Congress President at **Banaras in 1905**.
 - Gandhi called him his political teacher.
-- He **did** preside. He is therefore a 2021 Q50 distractor.
+- He **did** preside at Banaras (**1905**) — unlike Tilak.
 
 ### Surendranath Banerjee
 
@@ -588,7 +587,7 @@ D. 1903 A.D.
 - He organised the Indian National Conference in **1883** and **1885**.
 - His book is ***A Nation in Making***.
 - He was called “Surrender Not” in the ICS-age agitation memory.
-- **2020 Q26** maps this book to him.
+- His book is ***A Nation in Making***.
 
 ### Pherozeshah Mehta
 
@@ -605,7 +604,7 @@ D. 1903 A.D.
 
 - He was the Punjab Extremist (**Lal** of Lal–Bal–Pal).
 - He presided over the **1920 Calcutta Special** session.
-- His book is ***The Story of My Deportation*** (**2020 Q26**).
+- His book is ***The Story of My Deportation***.
 - He **did** preside, unlike Tilak.
 
 ### Bipin Chandra Pal
@@ -670,7 +669,7 @@ Every list-matching or chronology question draws from this spine. Learn **year, 
 | 11 | 1929 | Lahore | **Jawaharlal Nehru** | **Purna Swaraj** resolution |
 | 12 | 1931 | Karachi | **Vallabhbhai Patel** | **Fundamental Rights** resolution |
 
-> ** note:** If a question gives four sessions and asks for the **odd one out** or a chronology, these twelve cover almost every UPPCS angle seen 2018–2025. Sessions after 1931 (Faizpur, Haripura, Tripuri, Ramgarh) belong with the Gandhian-era and final-phase topics but are listed here too (see 9.4) for completeness.
+> **Logic:** If a question gives four sessions and asks for the **odd one out** or a chronology, these twelve cover almost every UPPCS angle seen 2018–2025. Sessions after 1931 (Faizpur, Haripura, Tripuri, Ramgarh) belong with the Gandhian-era and final-phase topics but are listed here too (see 9.4) for completeness.
 
 ---
 
@@ -2742,7 +2741,9 @@ D. 1, 3, 2, 4
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — 1939 → March 1940 → August 1940 → 1942. (**2024 Q133** = 4, 3, 1, 2 on the paper’s numbering.)
+**Logic:** Resignations (**1939**) → Ramgarh session (**March 1940**) → August Offer (**August 1940**) → Cripps Mission (**March 1942**).
+
+**Ans: C** — 1939 → March 1940 → August 1940 → 1942.
 
 </details>
 
@@ -3188,11 +3189,11 @@ D. 1, 3, 2, 4
 1. **Hume was first President** → **W.C. Bonnerjee**; Hume organised.
 2. **Indian Association = 1866** → **1876**; 1866 = **East India Association**.
 3. **East India Association = Banerjee / Calcutta** → **Naoroji / London**.
-4. **Tilak presided at Surat** → he **never** presided (**2021 Q50**).
+4. **Tilak presided at Surat** → he **never** presided over any INC session.
 5. **Gokhale never presided** → he did, **Banaras 1905**.
 6. **Poverty and Un-British Rule = 1900** → **1901**.
 7. **Lucknow Pact = 1911** → **1916**. 1911 = partition revoked + capital to Delhi.
-8. **2024 Moderates A/R answer is C** → **A** (R does **not** explain A).
+8. **Moderates A/R trap** → Reason does **not** explain Assertion; both can be true without R explaining A.
 9. **Tilak supported Age of Consent 1891** → he **opposed** it; Malabari advocated it.
 10. **Bombay Presidency Association = 1866** → **1885**.
 11. **Besant = 1916 Lucknow President** → Besant = **1917 Calcutta**; 1916 = **A.C. Majumdar**.

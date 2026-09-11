@@ -1381,7 +1381,7 @@ Most earthquakes and volcanoes cluster along **plate boundaries**, not randomly 
 | **Circum-Pacific / Ring of Fire** | Pacific rim arc (Chile–California–Alaska–Japan–Philippines–New Zealand) |
 | **Mid-Atlantic** | Iceland, Azores — divergent; quakes + volcanoes |
 | **Alpine–Himalayan / Mid-Continental** | Cape Verde–Atlantic–Mediterranean–Alps–Caucasus–**Himalaya**; India’s main seismic framing |
-| **East African Rift** | **Kilimanjaro, Kenya** — **not** Ring of Fire (**2024 Q30**) |
+| **East African Rift** | **Kilimanjaro, Kenya** — **not** Ring of Fire () |
 | **Cocos plate** | Between **Central America** and the **Pacific** plate |
 
 The **Circum-Pacific Ring of Fire** follows subduction around the Pacific basin. It holds most of the world’s volcanoes and about nine-tenths of recorded earthquakes. The name is about fire from magma, **not** forest fires. The **Mid-Atlantic** belt follows the divergent mid-ocean ridge and includes Iceland and the Azores. The **Alpine–Himalayan** belt runs from the Mediterranean through the Alps and Caucasus into the **Himalaya**. It is India’s main inland seismic framing because the Indian plate still pushes into Eurasia. The **East African Rift** is a divergent continental rift with volcanoes such as **Kilimanjaro** and Kenya. It is **not** part of the Pacific Ring of Fire. The **Cocos** plate lies between Central America and the Pacific plate and feeds Central American subduction.

@@ -95,7 +95,7 @@ British rule in India did **not** begin as a planned land empire. It grew in **p
 
 **What this topic does *not* dig into:** day-to-day Permanent Settlement detail and full Governor-General reform lists live with administration notes. Here the fact is **expansion**.
 
-> ** note:** Start every answer from the **phase**. Plassey is not Diwani. Subsidiary is not Lapse. Warren Hastings is not Lord Hastings.
+> **Logic:** Start every answer from the **phase**. Plassey is not Diwani. Subsidiary is not Lapse. Warren Hastings is not Lord Hastings.
 
 ### Deccan marker — Battle of Shakarkheda, 1724
 
@@ -107,7 +107,7 @@ British rule in India did **not** begin as a planned land empire. It grew in **p
 - The victory fixed **Asaf Jahi** power in the Deccan and is treated as the founding moment of independent **Hyderabad** under the Nizams.
 - Year lock for chronology stems: **Shakarkheda = 1724** — before Bedara, Porto Novo, or Mudki.
 
-> ** note:** Shakarkheda is **Nizam vs Mughal nominee**, not Anglo-Mysore and not Anglo-Sikh.
+> **Logic:** Shakarkheda is **Nizam vs Mughal nominee**, not Anglo-Mysore and not Anglo-Sikh.
 
 ---
 
@@ -169,7 +169,7 @@ British rule in India did **not** begin as a planned land empire. It grew in **p
 | **Mir Qasim** | **1760–63** | Munger; equal duties; Buxar ally |
 | **Najm-ud-Daulah** | after **1765** | Pensioned figurehead under Diwani |
 
-> ** note:** Siraj’s three grievances = **dastaks**, **Fort William**, **Krishnadas asylum**. Alinagar is **February 1757**, not Diwani. Black Hole is Holwell’s claim, not an undisputed headcount. Independent Nawabi ends at **Plassey**; **Diwani is 1765**.
+> **Logic:** Siraj’s three grievances = **dastaks**, **Fort William**, **Krishnadas asylum**. Alinagar is **February 1757**, not Diwani. Black Hole is Holwell’s claim, not an undisputed headcount. Independent Nawabi ends at **Plassey**; **Diwani is 1765**.
 
 ---
 
@@ -202,7 +202,7 @@ British rule in India did **not** begin as a planned land empire. It grew in **p
 - English military supremacy in Bengal was fixed. The road to northern politics opened.
 - Independent Nawabi power effectively ended.
 
-> ** note:** Plassey = **1757**, **Clive**, **Mir Jafar**. Diwani = **1765** after Buxar.
+> **Logic:** Plassey = **1757**, **Clive**, **Mir Jafar**. Diwani = **1765** after Buxar.
 
 ---
 
@@ -263,7 +263,7 @@ Clive returned in **1765** and settled two linked treaties at Allahabad / the Pr
 - Spectrum also notes a large Company claim linked to **nizamat** functions (defence, police, justice) alongside the Diwani farman. In practice Dual Government blurred both.
 - Political empire now had a **legal Mughal stamp**.
 
-> ** note:** Munro fought; Clive settled. Allahabad = **1765**. Buxar is **not** a Bengal-only battle.
+> **Logic:** Munro fought; Clive settled. Allahabad = **1765**. Buxar is **not** a Bengal-only battle.
 
 ---
 
@@ -283,7 +283,7 @@ Clive returned in **1765** and settled two linked treaties at Allahabad / the Pr
 - **Hastings (1772–85)** ended Dual Government, used Ring Fence, faced Banaras **1781**, and fought the First Maratha War.
 - **Cornwallis (1786–93)** later brought the **Permanent Settlement of Bengal** (administration detail lives with revenue notes).
 
-> ** note:** Clive **created** Dual Government; Hastings **ended** it in **1772**, not in 1857. Deputy Diwans = **Reza Khan (Bengal)** and **Shitab Rai (Bihar)**.
+> **Logic:** Clive **created** Dual Government; Hastings **ended** it in **1772**, not in 1857. Deputy Diwans = **Reza Khan (Bengal)** and **Shitab Rai (Bihar)**.
 
 ---
 
@@ -299,7 +299,7 @@ Clive returned in **1765** and settled two linked treaties at Allahabad / the Pr
 - Parliament later inquired into his presents and jagir.
 - He died in **1774**.
 
-> ** note:** Clive = Plassey + Diwani frame + “Heaven-Born General”. Hastings = end of Dual Government + Ring Fence + Banaras + Salbai.
+> **Logic:** Clive = Plassey + Diwani frame + “Heaven-Born General”. Hastings = end of Dual Government + Ring Fence + Banaras + Salbai.
 
 ---
 
@@ -317,7 +317,7 @@ Clive returned in **1765** and settled two linked treaties at Allahabad / the Pr
 - Hastings **declined** the presidentship in Jones’s favour.
 - He was impeached in Britain from **1788 to 1795** over Chait Singh, the Rohillas and presents. He was **acquitted**.
 
-> ** note:** Keep this card for expansion facts — Dual Government **1772**, Ring Fence, Salbai, Banaras. Full office/reform lists sit with Governor-General notes.
+> **Logic:** Keep this card for expansion facts — Dual Government **1772**, Ring Fence, Salbai, Banaras. Full office/reform lists sit with Governor-General notes.
 
 **PYQ — UPPCS Prelims 2019, Q22**
 
@@ -364,7 +364,7 @@ There was **not** one policy from start to finish. Name the **Governor-General**
 - **Dalhousie** annexed **Punjab in 1849** and **Awadh in 1856**.
 - The **Vellore Mutiny (1806)** sits between Wellesley’s recall and the Nepal war on chronology charts.
 
-> ** note:** Wellesley did **not** invent Lapse. Dalhousie–Lapse is a standing match.
+> **Logic:** Wellesley did **not** invent Lapse. Dalhousie–Lapse is a standing match.
 
 ---
 
@@ -392,7 +392,7 @@ There was **not** one policy from start to finish. Name the **Governor-General**
 - The subsidy later ruined treasuries. **Awadh’s path to 1856** is the classic example.
 - **Wellesley was recalled in 1805** because expansion wars were too expensive.
 
-> ** note:** First subsidiary = **Hyderabad 1798**, not Jhansi. Hyderabad was **never** annexed by Lapse.
+> **Logic:** First subsidiary = **Hyderabad 1798**, not Jhansi. Hyderabad was **never** annexed by Lapse.
 
 ---
 
@@ -416,7 +416,7 @@ There was **not** one policy from start to finish. Name the **Governor-General**
 - In **1856** Resident **Outram**’s reports and Dalhousie’s “misrule” charge led to annexation. **Wajid Ali Shah** was deposed and sent toward Calcutta.
 - Lapse and “misrule” together fed the anger that later exploded in **1857**, but this card stops at annexation.
 
-> ** note:** Dalhousie did **not** recognise Lakshmibai’s heir. Awadh **1856 ≠** Lapse.
+> **Logic:** Dalhousie did **not** recognise Lakshmibai’s heir. Awadh **1856 ≠** Lapse.
 
 **PYQ — UPPCS Prelims 2025, Q40**
 
@@ -520,7 +520,7 @@ D. Both 1 and 2
 
 **Results:** Tipu’s dynasty ended. About half of Mysore was annexed or shared. The rest was restored to the child **Krishna Raja Wodeyar III** under **Subsidiary Alliance**. Kanara, Coimbatore, Wynad and the Seringapatam belt went to the English; the Nizam got Gooty and related tracts.
 
-> ** note:** Madras ≠ Mangalore. Tipu did **not** survive 1799. First Mysore comes after the Second Anglo-French War and long before the First Sikh War.
+> **Logic:** Madras ≠ Mangalore. Tipu did **not** survive 1799. First Mysore comes after the Second Anglo-French War and long before the First Sikh War.
 
 **PYQ — UPPCS Prelims 2020, Q28**
 
@@ -606,7 +606,7 @@ D. Chikka Krishnaraj
 - Superior Company artillery, drill and Bengal war finance after Diwani.
 - After Bassein the Peshwa himself became a British client, splitting Maratha politics from inside.
 
-> ** note:Surat → Purandhar → Salbai** for the First War. **Bassein** opens the Second. Start every Peshwa chronology with **Balaji Vishwanath**.
+> **Logic:**Surat → Purandhar → Salbai** for the First War. **Bassein** opens the Second. Start every Peshwa chronology with **Balaji Vishwanath**.
 
 **PYQ — UPPCS Prelims 2025, Q149**
 
@@ -757,7 +757,7 @@ D. Jamadani
 
 **Not on that board:** **H. M. Elliot** and **Robert Montgomery**.
 
-> ** note:1809 Amritsar ≠ 1846 Lahore ≠ 1849 annexation**. Mudki = First Sikh, not Mysore. Sukerchakia = Ranjit’s misl. Kohinoor path = **Shah Shuja → Ranjit**.
+> **Logic:** **1809 Amritsar ≠ 1846 Lahore ≠ 1849 annexation**. Mudki = First Sikh, not Mysore. Sukerchakia = Ranjit’s misl. Kohinoor path = **Shah Shuja → Ranjit**.
 
 **PYQ — UPPCS Prelims 2021, Q67**
 
@@ -805,7 +805,7 @@ D. Multan
 - **Kathmandu was not obtained.**
 - Gurkha recruitment into the British army began after the war.
 
-> ** note:** Kathmandu trap is standard. Sugauli ≠ Lahore.
+> **Logic:** Kathmandu trap is standard. Sugauli ≠ Lahore.
 
 **PYQ — UPPCS Prelims 2025, Q114**
 
@@ -883,7 +883,7 @@ D. 3, 1, 2, 4
 
 **Results:Thibaw** deposed. Upper Burma taken. Burma became a province of British India.
 
-> ** note:** First Burma War is **not** Dalhousie’s. Basic date fact = **Yandabo 1826**.
+> **Logic:** First Burma War is **not** Dalhousie’s. Basic date fact = **Yandabo 1826**.
 
 ---
 
@@ -909,7 +909,7 @@ D. 3, 1, 2, 4
 - Napier’s reported telegram **“Peccavi”** (“I have sinned”) is folklore, not a treaty name.
 - Sindh became a British province / strategic Indus base before Punjab’s fall in **1849**.
 
-> ** note:** Sindh is **1843**. Punjab is **1849**. Ellenborough / Napier, not Dalhousie.
+> **Logic:** Sindh is **1843**. Punjab is **1849**. Ellenborough / Napier, not Dalhousie.
 
 ---
 
@@ -931,7 +931,7 @@ D. 3, 1, 2, 4
 
 **Results:** Mutiny crushed. It is an expansion-era chronology fact (after Wellesley **1805**, before Nepal **1814**), not the Revolt of 1857.
 
-> ** note:** Nana Fadnavis d. **1800** → Wellesley recalled **1805** → Vellore **1806** → Anglo-Nepal **1814–16**.
+> **Logic:** Nana Fadnavis d. **1800** → Wellesley recalled **1805** → Vellore **1806** → Anglo-Nepal **1814–16**.
 
 ---
 
@@ -980,7 +980,7 @@ D. 3, 1, 2, 4
 
 **Results:** Treaty pressure on Tibet. Tibet was **not** annexed as a British province.
 
-> ** note:** Do not place First Afghan War under Dalhousie. Masterly Inactivity ≠ Proud Reserve.
+> **Logic:** Do not place First Afghan War under Dalhousie. Masterly Inactivity ≠ Proud Reserve.
 
 ---
 
@@ -1044,7 +1044,7 @@ Banaras (Benares) was a semi-autonomous zamindari under Company overlordship aft
 | **Jhansi** | Lapse 1853 → later 1857 revolt |
 | **Rohilkhand** | Rohilla War 1774; later Awadh cessions |
 
-> ** note:** Banaras **1781** = **Warren Hastings** vs **Chait Singh**. Do not merge with 1857. Akbar Fort = **Prayagraj**. Prayagraj fort transfer = **1798**, not 1790–97.
+> **Logic:** Banaras **1781** = **Warren Hastings** vs **Chait Singh**. Do not merge with 1857. Akbar Fort = **Prayagraj**. Prayagraj fort transfer = **1798**, not 1790–97.
 
 ---
 
@@ -3379,14 +3379,14 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 6. **Subsidiary = Dalhousie / Lapse = Wellesley** → reverse.
 7. **Punjab annexed 1846** → treaty 1846; annexation **1849**.
 8. **Sindh = Punjab year** → Sindh **1843**, Punjab **1849**.
-9. **Kathmandu obtained at Sugauli** → **2025 Q114** false.
+9. **Kathmandu obtained at Sugauli** → **false** (Nepal kept Kathmandu).
 10. **Adalat-i-Ala at Amritsar** → **Lahore**.
 11. **Hyder armoury at Seringapatam** → **Dindigal 1755**.
 12. **Mudki = Anglo-Mysore** → First Anglo-Sikh **1845**.
 13. **Chait Singh = 1857 / Dalhousie** → **1781, Hastings**.
-14. **Dalhousie accepted Lakshmibai’s heir** → **2024 Q148** false.
+14. **Dalhousie accepted Lakshmibai’s heir** → **false** (Doctrine of Lapse rejected Damodar Rao).
 15. **Awadh annexed under Lapse** → **misgovernance 1856**.
-16. **Chauth = Subsidiary Alliance** → Maratha tribute (**2018 Q93**).
+16. **Chauth = Subsidiary Alliance** → **false**; Chauth was Maratha tribute, not Subsidiary Alliance.
 17. **Baji Rao I before Balaji Vishwanath** → Vishwanath is first in every PYQ list.
 18. **Tipu survived 1799 / Mysore wholly annexed** → Tipu killed; Wodeyar restored under subsidiary.
 

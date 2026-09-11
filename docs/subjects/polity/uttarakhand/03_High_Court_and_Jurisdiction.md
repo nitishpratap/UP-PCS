@@ -49,7 +49,7 @@
 1. High Court seat = **Nainital**.
 2. Mobile vans = courtroom + IT connectivity.
 3. Aim = doorstep justice for remote areas.
-4. Q129 = Both 1 and 2.
+4. Working description and purpose of mobile courts can both be true in the same stem.
 5. Do not relocate the High Court to Dehradun in a seat stem.
 
 ---
@@ -65,10 +65,10 @@ With reference to mobile courts in Uttarakhand, consider the following statement
 1. Under the mobile e-courts project, mobile vans having facilities of court rooms, computer, printer and internet connectivity will visit villages.
 2. The idea is to deliver justice at the doorsteps of the public living particularly in remote areas.
 
-A. Only 1  
-B. Only 2  
-C. Both 1 and 2  
-D. Neither 1 nor 2  
+A. Only 1 
+B. Only 2 
+C. Both 1 and 2 
+D. Neither 1 nor 2 
 
 <details>
 <summary>Show answer</summary>

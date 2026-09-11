@@ -278,14 +278,14 @@ ISFR 2023 is published by **FSI**. UP districts with >20% forest cover included 
 
 The **Annual Groundwater Quality Report 2024** was prepared by—
 
-1. Central Pollution Control Board (CPCB)  
-2. Central Water Commission (CWC)  
-3. Central Ground Water Board (CGWB)  
+1. Central Pollution Control Board (CPCB) 
+2. Central Water Commission (CWC) 
+3. Central Ground Water Board (CGWB) 
 
-A. 1 and 2 only  
-B. 3 only  
-C. 2 and 3 only  
-D. 1 only  
+A. 1 and 2 only 
+B. 3 only 
+C. 2 and 3 only 
+D. 1 only 
 
 <details>
 <summary>Show answer</summary>
@@ -304,14 +304,14 @@ D. 1 only
 
 **India State of Forest Report (ISFR) 2023** is published by **FSI**. Which UP districts had **>20% forest cover**?
 
-1. Bahraich  
-2. Chandauli  
-3. Shravasti  
+1. Bahraich 
+2. Chandauli 
+3. Shravasti 
 
-A. 1 and 2 only  
-B. 3 only  
-C. 2 and 3 only  
-D. 1 only  
+A. 1 and 2 only 
+B. 3 only 
+C. 2 and 3 only 
+D. 1 only 
 
 <details>
 <summary>Show answer</summary>
@@ -330,10 +330,10 @@ D. 1 only
 
 **Environmental Clearance** for Category A projects is granted by—
 
-A. Central Pollution Control Board  
-B. **Ministry of Environment, Forest and Climate Change**  
-C. National Green Tribunal  
-D. Forest Survey of India  
+A. Central Pollution Control Board 
+B. **Ministry of Environment, Forest and Climate Change** 
+C. National Green Tribunal 
+D. Forest Survey of India 
 
 <details>
 <summary>Show answer</summary>
@@ -352,10 +352,10 @@ D. Forest Survey of India
 
 The **Central Pollution Control Board (CPCB)** was established under the—
 
-A. Environment (Protection) Act, 1986  
-B. **Water (Prevention and Control of Pollution) Act, 1974**  
-C. NGT Act, 2010  
-D. Wildlife (Protection) Act, 1972  
+A. Environment (Protection) Act, 1986 
+B. **Water (Prevention and Control of Pollution) Act, 1974** 
+C. NGT Act, 2010 
+D. Wildlife (Protection) Act, 1972 
 
 <details>
 <summary>Show answer</summary>
@@ -374,10 +374,10 @@ D. Wildlife (Protection) Act, 1972
 
 The **National Green Tribunal** was established under an Act of Parliament passed in—
 
-A. 1986  
-B. 2005  
-C. **2010**  
-D. 2015  
+A. 1986 
+B. 2005 
+C. **2010** 
+D. 2015 
 
 <details>
 <summary>Show answer</summary>
@@ -396,10 +396,10 @@ D. 2015
 
 **Consent to Operate (CTO)** for industrial units is issued by the—
 
-A. MoEFCC  
-B. **State Pollution Control Board (SPCB)**  
-C. Forest Survey of India  
-D. Wildlife Institute of India  
+A. MoEFCC 
+B. **State Pollution Control Board (SPCB)** 
+C. Forest Survey of India 
+D. Wildlife Institute of India 
 
 <details>
 <summary>Show answer</summary>
@@ -418,10 +418,10 @@ D. Wildlife Institute of India
 
 The **Botanical Survey of India (BSI)** is headquartered at **Kolkata** and surveys—
 
-A. Animals and birds only  
-B. **Plants only**  
-C. Forest cover area nationwide  
-D. Groundwater aquifers  
+A. Animals and birds only 
+B. **Plants only** 
+C. Forest cover area nationwide 
+D. Groundwater aquifers 
 
 <details>
 <summary>Show answer</summary>
@@ -440,10 +440,10 @@ D. Groundwater aquifers
 
 The **Red Data Book of Indian Plants** is published by—
 
-A. Zoological Survey of India  
-B. **Botanical Survey of India**  
-C. Forest Survey of India  
-D. Central Pollution Control Board  
+A. Zoological Survey of India 
+B. **Botanical Survey of India** 
+C. Forest Survey of India 
+D. Central Pollution Control Board 
 
 <details>
 <summary>Show answer</summary>

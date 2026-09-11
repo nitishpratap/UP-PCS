@@ -185,7 +185,7 @@ First half: **how the Constitution ties the State down**. Second half: what the 
 
 Art. **14** still allows **reasonable classification**; it forbids **class legislation**. That is how RoL and affirmative action sit in the same article.
 
-PIL expands *access*. **2025 Q47:** PIL is essential for RoL because it gives weaker sections a path — both true, R explains A.
+PIL expands *access*. PIL is essential for the rule of law because it gives weaker sections a path to court — assertion and reason both hold, and the reason explains the assertion.
 
 > ** note:** Dicey’s three limbs do **not** all apply in India. **Limb 3 fails.**
 
@@ -346,7 +346,7 @@ Seed: Nehru’s **Objectives Resolution** (**13 Dec 1946**; adopted **22 Jan 194
 - In *Minerva Mills*, the Court held that the **balance between Fundamental Rights and Directive Principles**, and egalitarian goals generally, sit within the Basic Structure — so destroying this welfare identity is not something a 368 amendment can do.
 - Welfare State is **not** a slogan meaning every government scheme is a Preamble clause: NFSA, RTE, and MGNREGA are ordinary **statutes**, while the Directive Principles themselves are Articles **36 to 51**.
 
-Three DPSP study buckets (Socialist / Gandhian / Liberal-intellectual — 2018 Q143, all four listed) are how a **welfare State** is *instructed*, not a fourth Part of the Constitution.
+Three DPSP study buckets (Socialist / Gandhian / Liberal-intellectual — all four listed in standard classifications) are how a **welfare State** is *instructed*, not a fourth Part of the Constitution.
 
 > ** note:** Welfare State ≠ 42nd invented Part IV. Part IV is **1950**. *Minerva*: you need **both** brakes (FR) and goals (DPSP).
 
@@ -545,7 +545,7 @@ Direct 2018–2025 stems on “constitutional morality / Dicey’s third limb / 
 
 **UPPCS Prelims 2025, Q47** — PIL essential for Rule of Law / weaker-section access. **Ans: D** (both true, R explains A).
 
-**Preamble arithmetic / 42nd words / Federal / enforceability:** 2018 Q65 (3-5-2-1); 2021 Q49 (Federal not there); 2025 Q56 (Socialist + Secular, not Sovereignty/Republic); 2019 Q107 (Preamble not enforceable).
+**Preamble spine:** ideals order = Justice → Liberty → Equality → Fraternity; **42nd** added **Socialist** and **Secular**; **Federal** is not a Preamble word; the Preamble is **not directly enforceable** in court.
 
 **UPPCS Prelims 2018, Q143** — DPSP classified Socialist / Gandhian / Liberal-intellectual. **Ans: D all.UPPCS Prelims 2024, Q101** — 14 = all persons; 16 = citizens; renaming a State ≠ State legislature.
 

@@ -127,7 +127,7 @@ Folk Arts | Folk Traditions | Folk Beliefs | Folk Culture of India | Handloom | 
 - **Taj Mahotsav** is a crafts-and-culture show at **Agra, UP**.
 - Village syncretism is common. A fair can mix Hindu and Muslim custom without becoming a classical school.
 
-> ** note:** UPPCS **2025 Q97** — May 2025 **Pushkar Kumbh = Uttarakhand only**. Rajasthan owns the **Pushkar camel fair**, not that May Kumbh.
+> **Logic:** The May 2025 **Pushkar Kumbh** was held at Mana / Keshav Prayag in **Uttarakhand only**. Rajasthan owns the **Pushkar camel fair**, not that May Kumbh.
 
 **PYQ — UPPCS Prelims 2025, Q97**
 

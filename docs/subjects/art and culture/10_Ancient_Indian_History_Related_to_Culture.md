@@ -11,7 +11,7 @@ Ancient Indian Art | Ancient Indian Sculpture | Ancient Indian Architecture | An
 > **Sources baked in:** NCERT An Introduction to Indian Art (Class 11), Themes I, UPPCS Prelims 2018–2025
 > **Weight:** ★★★ — IVC site ↔ state, sculpture school ↔ stone, first temple, crops, crafts
 > **Last verified:** August 2026
-> **Current Affairs:** No new fact that changes the IVC-UP list after **2025 Q87**. Dholavira remains UNESCO WHS **2021**. Sarnath WHS **2026** is a monument fact, not a new art-school.
+> **Current Affairs:** No new fact that changes the IVC-UP list after . Dholavira remains UNESCO WHS **2021**. Sarnath WHS **2026** is a monument fact, not a new art-school.
 
 ---
 
@@ -142,7 +142,7 @@ D. Only 2
 - **Gandhara** sculpture uses grey **schist** (also stucco). The Buddha is Greco-Roman / Hellenistic, with wavy hair, drapery and an Apollo-like face. The school is in the NW (Peshawar–Taxila belt).
 - **Mathura** sculpture uses **red sandstone**. It shows an indigenous Buddha and Jina. The centre is in **Uttar Pradesh**, peaking under the Kushans and continuing into the Gupta age.
 - **Amaravati** sculpture uses white / greenish **limestone**. It is from Andhra and shows dynamic narrative and movement.
-- Amaravati-region stupas show a **platform with Aryaka-pillars**. This is the UPPCS **2022 Q80** fact.
+- Amaravati-region stupas show a **platform with Aryaka-pillars**. This is the fact.
 - **Gupta / Sarnath** sculpture is the classical ideal. It shows transparent drapery and the **Dharmachakra mudra** Buddha.
 - Terracotta sculpture is huge at **Ahichhatra** and Kaushambi (UP). It is not a “stone school.”
 
@@ -324,7 +324,7 @@ D. III, IV
 - Gupta copper-plate **land grants** are known. Inscriptions record tanks and wells. Faxian notes a prosperous countryside.
 - Maize, potato and tobacco are **New World**. They are not IVC crops.
 
-> ** note:IVC = wheat + barley + cotton**. **Rigvedic = pastoral**. **Later Vedic = agrarian**. UPPCS **2020 Q21**.
+> **Logic:** IVC economy = **wheat + barley + cotton**. **Rigvedic** society is **pastoral**. **Later Vedic** society turns **agrarian**.
 
 **PYQ — UPPCS Prelims 2020, Q21**
 
@@ -374,7 +374,7 @@ D. 4 3 1 2
 - A **sreni** was an ancient craft and merchant **guild**. It was regulated in the *Arthashastra*. Gupta inscriptions show guild donations.
 - A **nagaram** was a town merchant assembly in the South.
 - **Nanadesis** were itinerant merchants of “many countries.”
-- **Manigrama** was a South Indian merchant guild with long-distance / overseas trade. It is the UPPCS **2018** foreign-trade fact.
+- **Manigrama** was a South Indian merchant guild with long-distance / overseas trade.
 
 > ** note:Beads = Chanhudaro**. **Dancing Girl = bronze**. **Punch-marked ≠ Gupta gold**. **Sreni ≠ Nanadesi**.
 

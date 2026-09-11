@@ -1,7 +1,7 @@
 # Science & Technology — Uttarakhand (UKPCS)
 
-**Exam track:** UKPCS Unit 5 — Natural Resources of Uttarakhand and climate contribution.  
-**Parent subject:** [Science & Technology](../00_Syllabus.md)  
+**Exam track:** UKPCS Unit 5 — Natural Resources of Uttarakhand and climate contribution. 
+**Parent subject:** [Science & Technology](../00_Syllabus.md) 
 **Prefer ecology depth in:** [Environment — Uttarakhand](../../environments%20&%20ecology/uttarakhand/00_Syllabus.md)
 
 ## Heads stored in this folder

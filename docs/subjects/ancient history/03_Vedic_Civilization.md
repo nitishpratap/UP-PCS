@@ -273,7 +273,7 @@ D. 4 3 1 2
 - In family vocabulary, **kula**, **vamsha**, and **gotra** belong together; **kosha** means **treasury**, not a kinship term.
 - The system is still clan-based. It is **not** Ashokan district officers.
 
-> ** note:** In 2023, Bhagadugha is not a messenger, not a forest officer, and not the gambling chief.
+> **Logic:** **Bhagadugha** is the **tax collector**, not a messenger, forest officer, or gambling chief.
 
 **PYQ — UPPCS Prelims 2023, Q26**
 
@@ -467,9 +467,7 @@ About **33** gods are grouped in three layers: **earth**, **air (antariksha)**, 
 - **Women** sing and attend.
 - It is more inclusive than the Later Vedic Sabha.
 - It is the **first assembly to vanish** from Later Vedic texts.
-- If a question asks which faded earliest, the answer is Vidatha.
-
-> ** note:** If a question asks which assembly faded earliest, the answer is Vidatha.
+- Among the three assemblies, **Vidatha** fades first from Later Vedic texts.
 
 ---
 
@@ -517,8 +515,7 @@ About **33** gods are grouped in three layers: **earth**, **air (antariksha)**, 
 - Most **Samaveda** verses are lifted from the Rigveda (about **1875** verses; only a small residue is not from Rig).
 - **Shukla (White) Yajurveda** keeps mantra and Brahmana **apart**.
 - **Krishna (Black) Yajurveda** mixes mantra and prose.
-- In **UPPCS 2018 Q13**, options **B Maitrayani**, **C Taittiriya**, and **D Kathak** are all **Krishna (Black) Yajurveda** Samhitas — only **A Vajasanami** is **Shukla**.
-- Here **Krishna** means the **Black Yajurveda** school (mantra + prose mixed). It does **not** mean the deity Krishna.
+- In **- Here **Krishna** means the **Black Yajurveda** school (mantra + prose mixed). It does **not** mean the deity Krishna.
 - The Atharvaveda is everyday religion, charms, healing, and household rites — not only royal yajna.
 - First textual notice of **Anga** and **Magadha** (with Gandhari and Mujavat) appears in the **Atharvaveda**.
 - **Ayurveda** (science of life) is treated as an Upaveda / Upanga linked especially with the **Atharvaveda**.

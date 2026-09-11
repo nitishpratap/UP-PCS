@@ -206,15 +206,15 @@ Prehistoric cultures | Indus / Harappan phases | Vedic age | Mahajanapadas & Mag
 
 **Q1.** Arrange Magadha dynasties:
 
-1. Nanda  
-2. Haryanka  
-3. Maurya  
-4. Shishunaga  
+1. Nanda 
+2. Haryanka 
+3. Maurya 
+4. Shishunaga 
 
-A. 2, 4, 1, 3  
-B. 2, 1, 4, 3  
-C. 4, 2, 1, 3  
-D. 2, 4, 3, 1  
+A. 2, 4, 1, 3 
+B. 2, 1, 4, 3 
+C. 4, 2, 1, 3 
+D. 2, 4, 3, 1 
 
 <details>
 <summary>Show answer</summary>
@@ -229,15 +229,15 @@ D. 2, 4, 3, 1
 
 **Q2.** Arrange:
 
-1. Kalinga War  
-2. Alexander’s invasion  
-3. Accession of Chandragupta Maurya  
-4. End of Mauryan rule by Pushyamitra  
+1. Kalinga War 
+2. Alexander’s invasion 
+3. Accession of Chandragupta Maurya 
+4. End of Mauryan rule by Pushyamitra 
 
-A. 2, 3, 1, 4  
-B. 3, 2, 1, 4  
-C. 2, 1, 3, 4  
-D. 2, 3, 4, 1  
+A. 2, 3, 1, 4 
+B. 3, 2, 1, 4 
+C. 2, 1, 3, 4 
+D. 2, 3, 4, 1 
 
 <details>
 <summary>Show answer</summary>
@@ -252,15 +252,15 @@ D. 2, 3, 4, 1
 
 **Q3.** Arrange Chinese pilgrims / courts:
 
-1. Xuanzang  
-2. Fa-Hien  
-3. Harsha’s reign begins  
-4. Chandragupta II’s reign  
+1. Xuanzang 
+2. Fa-Hien 
+3. Harsha’s reign begins 
+4. Chandragupta II’s reign 
 
-A. 4, 2, 3, 1  
-B. 2, 4, 3, 1  
-C. 4, 2, 1, 3  
-D. 4, 3, 2, 1  
+A. 4, 2, 3, 1 
+B. 2, 4, 3, 1 
+C. 4, 2, 1, 3 
+D. 4, 3, 2, 1 
 
 <details>
 <summary>Show answer</summary>
@@ -275,15 +275,15 @@ D. 4, 3, 2, 1
 
 **Q4.** Arrange Gupta rulers:
 
-1. Samudragupta  
-2. Chandragupta I  
-3. Chandragupta II  
-4. Skandagupta  
+1. Samudragupta 
+2. Chandragupta I 
+3. Chandragupta II 
+4. Skandagupta 
 
-A. 2, 1, 3, 4  
-B. 1, 2, 3, 4  
-C. 2, 3, 1, 4  
-D. 2, 1, 4, 3  
+A. 2, 1, 3, 4 
+B. 1, 2, 3, 4 
+C. 2, 3, 1, 4 
+D. 2, 1, 4, 3 
 
 <details>
 <summary>Show answer</summary>
@@ -298,15 +298,15 @@ D. 2, 1, 4, 3
 
 **Q5.** Which sequence is correct?
 
-1. Mature Harappan  
-2. Later Vedic  
-3. Early Vedic  
-4. Mahajanapadas  
+1. Mature Harappan 
+2. Later Vedic 
+3. Early Vedic 
+4. Mahajanapadas 
 
-A. 1, 3, 2, 4  
-B. 1, 2, 3, 4  
-C. 3, 1, 2, 4  
-D. 1, 3, 4, 2  
+A. 1, 3, 2, 4 
+B. 1, 2, 3, 4 
+C. 3, 1, 2, 4 
+D. 1, 3, 4, 2 
 
 <details>
 <summary>Show answer</summary>
@@ -321,15 +321,15 @@ D. 1, 3, 4, 2
 
 **Q6.** Arrange Buddhist Councils (tradition):
 
-1. Vaishali  
-2. Rajagriha  
-3. Pataliputra (Ashokan)  
-4. Kashmir / Kanishka  
+1. Vaishali 
+2. Rajagriha 
+3. Pataliputra (Ashokan) 
+4. Kashmir / Kanishka 
 
-A. 2, 1, 3, 4  
-B. 1, 2, 3, 4  
-C. 2, 3, 1, 4  
-D. 2, 1, 4, 3  
+A. 2, 1, 3, 4 
+B. 1, 2, 3, 4 
+C. 2, 3, 1, 4 
+D. 2, 1, 4, 3 
 
 <details>
 <summary>Show answer</summary>
@@ -344,15 +344,15 @@ D. 2, 1, 4, 3
 
 **Q7.** Arrange:
 
-1. Harshavardhana  
-2. Kanishka  
-3. Ashoka  
-4. Samudragupta  
+1. Harshavardhana 
+2. Kanishka 
+3. Ashoka 
+4. Samudragupta 
 
-A. 3, 2, 4, 1  
-B. 3, 4, 2, 1  
-C. 2, 3, 4, 1  
-D. 3, 2, 1, 4  
+A. 3, 2, 4, 1 
+B. 3, 4, 2, 1 
+C. 2, 3, 4, 1 
+D. 3, 2, 1, 4 
 
 <details>
 <summary>Show answer</summary>
@@ -371,10 +371,10 @@ Reason (R): Xuanzang visited the court of Chandragupta II.
 
 **A/R logic:** A tests Fa-Hien’s period; R wrongly places Xuanzang.
 
-A. Both (A) and (R) true and (R) explains (A)  
-B. Both (A) and (R) true but (R) does not explain (A)  
-C. (A) true but (R) false  
-D. (A) false but (R) true  
+A. Both (A) and (R) true and (R) explains (A) 
+B. Both (A) and (R) true but (R) does not explain (A) 
+C. (A) true but (R) false 
+D. (A) false but (R) true 
 
 <details>
 <summary>Show answer</summary>
@@ -387,15 +387,15 @@ D. (A) false but (R) true
 
 **Q9.** Arrange calendar / era tags:
 
-1. Saka Era  
-2. Vikrama Era  
-3. Gupta Era  
-4. Kalinga War  
+1. Saka Era 
+2. Vikrama Era 
+3. Gupta Era 
+4. Kalinga War 
 
-A. 4, 2, 1, 3  
-B. 2, 4, 1, 3  
-C. 4, 2, 3, 1  
-D. 2, 1, 4, 3  
+A. 4, 2, 1, 3 
+B. 2, 4, 1, 3 
+C. 4, 2, 3, 1 
+D. 2, 1, 4, 3 
 
 <details>
 <summary>Show answer</summary>
@@ -410,15 +410,15 @@ D. 2, 1, 4, 3
 
 **Q10.** Arrange:
 
-1. Death of Harsha  
-2. Kalinga War  
-3. Foundation of Mauryan Empire  
-4. Gupta Era begins  
+1. Death of Harsha 
+2. Kalinga War 
+3. Foundation of Mauryan Empire 
+4. Gupta Era begins 
 
-A. 3, 2, 4, 1  
-B. 2, 3, 4, 1  
-C. 3, 2, 1, 4  
-D. 3, 4, 2, 1  
+A. 3, 2, 4, 1 
+B. 2, 3, 4, 1 
+C. 3, 2, 1, 4 
+D. 3, 4, 2, 1 
 
 <details>
 <summary>Show answer</summary>
@@ -433,15 +433,15 @@ D. 3, 4, 2, 1
 
 **Q11.** Arrange Haryanka–Nanda ladder:
 
-1. Ajatashatru  
-2. Bimbisara  
-3. Mahapadma Nanda  
-4. Shishunaga rule  
+1. Ajatashatru 
+2. Bimbisara 
+3. Mahapadma Nanda 
+4. Shishunaga rule 
 
-A. 2, 1, 4, 3  
-B. 2, 4, 1, 3  
-C. 1, 2, 4, 3  
-D. 2, 1, 3, 4  
+A. 2, 1, 4, 3 
+B. 2, 4, 1, 3 
+C. 1, 2, 4, 3 
+D. 2, 1, 3, 4 
 
 <details>
 <summary>Show answer</summary>
@@ -465,10 +465,10 @@ D. 2, 1, 3, 4
 
 *Row order is not the answer code.*
 
-A. 2, 3, 1, 4  
-B. 3, 2, 1, 4  
-C. 2, 3, 4, 1  
-D. 1, 3, 2, 4  
+A. 2, 3, 1, 4 
+B. 3, 2, 1, 4 
+C. 2, 3, 4, 1 
+D. 1, 3, 2, 4 
 
 <details>
 <summary>Show answer</summary>
@@ -483,15 +483,15 @@ D. 1, 3, 2, 4
 
 **Q13.** Arrange southern powers:
 
-1. Imperial Cholas (medieval peak)  
-2. Satavahanas  
-3. Pallavas  
-4. Badami Chalukyas  
+1. Imperial Cholas (medieval peak) 
+2. Satavahanas 
+3. Pallavas 
+4. Badami Chalukyas 
 
-A. 2, 3, 4, 1  
-B. 2, 4, 3, 1  
-C. 3, 2, 4, 1  
-D. 2, 3, 1, 4  
+A. 2, 3, 4, 1 
+B. 2, 4, 3, 1 
+C. 3, 2, 4, 1 
+D. 2, 3, 1, 4 
 
 <details>
 <summary>Show answer</summary>
@@ -506,15 +506,15 @@ D. 2, 3, 1, 4
 
 **Q14.** Arrange:
 
-1. Aryabhata’s birth  
-2. Fa-Hien in India  
-3. Samudragupta’s reign  
-4. Skandagupta vs Hunas  
+1. Aryabhata’s birth 
+2. Fa-Hien in India 
+3. Samudragupta’s reign 
+4. Skandagupta vs Hunas 
 
-A. 3, 2, 4, 1  
-B. 3, 2, 1, 4  
-C. 2, 3, 1, 4  
-D. 3, 4, 2, 1  
+A. 3, 2, 4, 1 
+B. 3, 2, 1, 4 
+C. 2, 3, 1, 4 
+D. 3, 4, 2, 1 
 
 <details>
 <summary>Show answer</summary>
@@ -529,10 +529,10 @@ D. 3, 4, 2, 1
 
 **Q15.** Which pair is correctly matched?
 
-A. First Buddhist Council — Ashoka  
-B. Third Buddhist Council — Ajatashatru  
-C. Kalinga War — Ashoka  
-D. Second Battle of Tarain — Chandragupta Maurya  
+A. First Buddhist Council — Ashoka 
+B. Third Buddhist Council — Ajatashatru 
+C. Kalinga War — Ashoka 
+D. Second Battle of Tarain — Chandragupta Maurya 
 
 <details>
 <summary>Show answer</summary>

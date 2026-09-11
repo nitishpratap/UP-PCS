@@ -161,7 +161,7 @@ Temperature normally falls with height because the ground heats the lowest air. 
 | Station | January (approx.) | Control |
 |---------|-------------------|---------|
 | Drass / Ladakh | −20 to −40 °C | Altitude plus continentality |
-| **Agra** | about **16 °C** | Ganga plain — UPPCS 2022 Q22 |
+| **Agra** | about **16 °C** | Ganga plain — |
 | **Darjeeling (about 2000 m)** | about **4 °C** | Same latitude as Agra; **lapse rate** |
 | Mumbai / Chennai | 24–26 °C | Maritime |
 | Jaisalmer | 12–15 °C in January; 40–45 °C in June | Highest **diurnal** range among usual stations |
@@ -178,8 +178,6 @@ Temperature normally falls with height because the ground heats the lowest air. 
 | Himalayan snowfall / hill stations cooler | **Altitude** |
 | Rainfall falls West Bengal → Punjab | **Distance from the Bay / moisture loss westward** |
 | Sutlej–Ganga plain winter rain | **Western Disturbances** |
-
-> ** note:** 2022 Q22 — Agra versus Darjeeling in January is true. Altitude / lapse rate **explains** it (both true, R explains A).
 
 **PYQ — UPPCS Prelims 2022, Q22A/R logic:** (A) tests same-latitude January contrast. (R) tests lapse-rate wording. Check whether thinner air / height **explains** Agra vs Darjeeling.
 
@@ -260,7 +258,7 @@ Coriolis comes from Earth’s **rotation**. It is not magnetism. Heat creates pr
 | **Active monsoon** | Over the **Ganga plain** | Plains wet (UP, Bihar, MP) |
 | **Break monsoon** | Over the **Himalaya** | Central India dry; foothills wet |
 
-> ** note:** 2023 Q68 — leftward deflection in the Southern Hemisphere is **Coriolis**, not temperature, pressure, or the magnetic field.
+> **Logic:** leftward deflection in the Southern Hemisphere is **Coriolis**, not temperature, pressure, or the magnetic field.
 
 ### Atmosphere, pressure belts, ITCZ
 
@@ -270,7 +268,7 @@ The equator receives more sun than the poles. Warm air rises near the equator. C
 |-------|--------|------|
 | **Troposphere** | 0–8 km at poles / 0–18 km at the equator | **All weather**; temperature falls with height |
 | Tropopause | Top of the troposphere | Jets fly near here |
-| **Stratosphere** | to about 50 km | **Ozone UV shield** (2018 Q52, 2023 Q52, 2025 Q45) |
+| **Stratosphere** | to about 50 km | **Ozone UV shield** |
 | Mesosphere | about 50–80 km | Meteors burn |
 | Thermosphere | about 80–400 km | Ionosphere and aurora |
 | Exosphere | outermost | Space |
@@ -331,7 +329,7 @@ If the monsoon trough lies on the Ganga plain, rains are **active**. If it shift
 
 Winter NE trades over India are mostly dry on land. Summer SE trades that cross the equator and turn right become the **south-west monsoon**. Westerlies exist in **both** hemispheres; they are not Southern Hemisphere only.
 
-> ** note:** Protective ozone sits in the **stratosphere**, not the troposphere. The ITCZ is a **low**, not a high. 2025 Q45: ozone blocks UV **and** depletion is linked to CFCs — both true.
+> **Logic:** Protective ozone sits in the **stratosphere**, not the troposphere. The ITCZ is a **low**, not a high. Ozone blocks UV **and** depletion is linked to CFCs — both statements hold.
 
 ---
 
@@ -408,8 +406,6 @@ Two standard explanations work together:
 | Break | Rainless spells when the trough sits on the **Himalaya** |
 | Rajasthan dryness | Aravalli runs **roughly parallel** to SW winds → little forced uplift on the western Thar |
 
-> ** note:** 2023 Q54 — Tamil Nadu coast is **dry in the south-west monsoon**. The reason (parallel to the Bay branch plus Arabian Sea rain shadow) **explains** the assertion.
-
 **PYQ — UPPCS Prelims 2023, Q54A/R logic:** (A) tests TN dryness in SW season. (R) packs two causes — parallel to Bay branch **and** Arabian Sea rain shadow. Check if both halves of R are true and whether they explain A.
 
 **Assertion (A):** The Tamil Nadu coast remains dry during the South-West monsoon season.
@@ -443,7 +439,7 @@ D. Both true and R is the correct explanation
 
 - All-India mean rainfall is about **118–124 cm** (class figures vary by yearbook; ~**118 cm / ~1236 mm** both appear).
 - IMD calls a **rainy day** a day with **2.5 mm or more** rain in 24 hours.
-- India’s tropical monsoon belt allows **kharif, rabi, and zaid**. That statement in 2024 Q73 is true. The claim that India has the highest cultivated area versus the USA, China, and Japan is false.
+- India’s tropical monsoon belt allows **kharif, rabi, and zaid**. The claim that India has the highest cultivated area versus the USA, China, and Japan is false.
 
 **How rain forms (three types)**
 
@@ -616,7 +612,7 @@ Foehn / Chinook are warm-dry lee winds. They are not the same as cold night-time
 | Other | **Levanter** | Gibraltar | — |
 | Not a local wind | **Willy-willy** | Australia | Cyclone, not Brickfielder |
 
-> ** note:** 2024 Q33 — Chinook is warm and dry **and** Foehn is in the Alps. 2019 Q80 — Mistral is France. 2021 Q30 — Shamal is Arabia. Harmattan is **West** Africa. Willy-willy is a **cyclone**.
+> **Logic:** Chinook is warm and dry **and** Foehn is in the Alps. Mistral is France. Shamal is Arabia. Harmattan is **West** Africa. Willy-willy is a **cyclone**.
 
 ### Tropical cyclones
 
@@ -677,7 +673,7 @@ A tropical cyclone is a large spinning storm over warm ocean. It needs sea-surfa
 
 **Named-event note (not a closed four-pack):** Amphan (2020, BoB→WB/Odisha), Fani (2019), Yaas (2021), Tauktae (2021, Arabian), Biparjoy (2023), Hudhud (2014), Phailin (2013), Odisha Super Cyclone (1999).
 
-> ** note:** 2019 Q78 code **2 3 1 4** (Willy-willies–Australia, Taifu–Japan, Baguio–Philippines, Hurricanes–USA). 2020 Q74 code **3 4 2 1** (Baguios–Philippines, Hurricanes–USA, Typhoons–China, Willy-willies–Australia). Willy-willy ≠ Brickfielder.
+> **Logic:** Willy-willies–Australia, Taifu–Japan, Baguio–Philippines, Hurricanes–USA. Alternate set: Baguios–Philippines, Hurricanes–USA, Typhoons–China, Willy-willies–Australia. Willy-willy ≠ Brickfielder.
 
 ---
 

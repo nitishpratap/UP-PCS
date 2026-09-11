@@ -12,7 +12,7 @@
 
 > **Sources baked in:** Laxmikanth (Centre–State), Constitution Parts XI–XIII, 7th Schedule, 101st Amd, FC Act 1951, ISWD Act 1956, SRA 1956, UPPCS Prelims PYQs 2018–2025
 > **Weight:** ★★★ — 7th Sch; AIS **2/3 present and voting** (2025); FC Chair+4 not NITI; GST **101st**; ISC = **Sarkaria 1990 not Punchhi** (2021); FC ≠ **263**; UP = **Central** Zonal Council; water **262 bars 131**; 2019 water Bill **lapsed**
-> **Last verified:** August 2026
+> **Last verified:** September 2026 — Ghatnachakra Extra Drill (Centre–State Relations); teaching gap-pass from dump
 > **Current Affairs:** 16th FC (**Arvind Panagariya**); GST **1 July 2017**; ISRWD Amendment Bill 2019 **not law**
 
 ---
@@ -108,17 +108,18 @@ India is **federal with a Unitary bias**. Operating rules:
 
 - **245:** Parliament may legislate for the **whole or any part of India**; **extra-territorial** laws are valid (245(2)). A State legislates for the **whole or any part of the State**; extra-territorial State law needs **territorial nexus** (*Tata Iron*).
 - **246:(1)** Union List exclusive to Parliament · **(2)** Concurrent — both · **(3)** State List exclusive to the State, **subject to (1) and (2)**. Union List is **non-obstante** over the other two.
+- **246A (101st Amendment, 2016):** Concurrent GST power for Parliament and State legislatures, **notwithstanding** Arts. **246** and **254**. Clause (2) keeps **exclusive** Union power for GST on **inter-State** supply (paired with **Art. 269A**).
 - **247:** Parliament may create extra courts for better Union-law administration.
-- **248:** Residuary (including residuary **taxation**) is **Parliament’s** — paired with Union List **Entry 97**.
-- **249:** RS resolution — **2/3 of members present and voting** that it is necessary in the **national interest** → Parliament may make law on a **State List** item. Resolution lasts **1 year** (re-passable 1 year at a time). Law dies **6 months** after the resolution expires.
-- **250:** While a Proclamation of Emergency is in force, Parliament may legislate on **any State List** item. Law dies **6 months** after Emergency ends.
+- **248:** Residuary (including residuary **taxation**) is **Parliament’s** — paired with Union List **Entry 97**. Cyber law, space research, and similar unforeseen heads sit here.
+- **249:** RS resolution — **2/3 of members present and voting** that it is necessary in the **national interest** → Parliament may make law on a **State List** item (and, after the 101st, also on GST under **246A** in that frame). Resolution lasts **1 year** (re-passable 1 year at a time). Law dies **6 months** after the resolution expires.
+- **250:** While a Proclamation of Emergency is in force, Parliament may legislate on **any State List** item (and GST under **246A**). Law dies **6 months** after Emergency ends.
 - **251:** If a 249/250 Union law clashes with a State law, **Union prevails**; the State law revives after the Union law ends, minus the inconsistency.
 - **252:Two or more** State legislatures **pass resolutions** requesting Parliament. Law applies only to them; **other States may adopt** by resolution. **Amend / repeal = Parliament only**, not the State.
 - **253:** Parliament may legislate for **whole or any part of India** to implement a **treaty / agreement / international conference** — even on a **State List** subject. **No** State consent.
 - **254:** Repugnancy — own home below.
 - **255:** Some Bills need prior recommendation / sanction of President or Governor; later assent can **cure** the defect.
 
-> ** note:** 249 and 312 share the **same RS special majority** — **2/3 present and voting**, **not** 2/3 of total membership (2025 AIS trap). 253 does **not** need a State request; 252 does.
+> **Logic:** 249 and 312 share the **same RS special majority** — **2/3 present and voting**, **not** 2/3 of total membership (2025 AIS trap). 253 does **not** need a State request; 252 does.
 
 ## Centre’s hold on State legislation (not only 245–255)
 
@@ -130,7 +131,7 @@ India is **federal with a Unitary bias**. Operating rules:
 - **Previous sanction / recommendation:304(b)** trade restrictions; **274** Bills affecting taxation in which **States are interested**; State Money Bills need the **Governor’s** recommendation.
 - **255:** Missing prior recommendation/sanction can be **cured by later assent**.
 
-> ** note:** A State List subject is **not** enough. Even a competent State Bill can die on the President’s table (**201**). That is legislative federalism, not “only 246”.
+> **Logic:** A State List subject is **not** enough. Even a competent State Bill can die on the President’s table (**201**). That is legislative federalism, not “only 246”.
 
 **Territorial nexus** (doctrine, with 245): a State tax/law can catch an extra-State event if there is a **real connection** with the State (*Tata Iron & Steel*; *State of Bombay v R.M.D. Chamarbaugwala*). No nexus → extra-territorial and void.
 
@@ -217,7 +218,7 @@ D. Anti-Defection — Tenth Schedule
 | **253** | Treaty / international conference | Ordinary Union law; **no** sunset |
 | **356** | President’s Rule | Parliament (or President) may make laws for that State; after revocation, State may **repeal/alter** |
 
-> ** note:** 252 law **cannot** be amended by the requesting State. 249 is **Rajya Sabha’s** exclusive federal lever (along with 312 AIS).
+> **Logic:** 252 law **cannot** be amended by the requesting State. 249 is **Rajya Sabha’s** exclusive federal lever (along with 312 AIS).
 
 ---
 
@@ -241,7 +242,7 @@ D. Anti-Defection — Tenth Schedule
 | Direct collision | Obeying both is impossible |
 | Occupied field | Union law covers the **whole field**; State law is extra even without a clause-by-clause clash |
 
-> ** note:** 254 is **not** the tool for Union List vs State List — that is **246** (Union List wins). 254 = **two statutes on Concurrent**. Pith **saves**; colourable **strikes**; do not swap them. Eclipse (pre-1950 law goes dormant) / severability (only the bad clause dies) are Art. 13 doctrines.
+> **Logic:** 254 is **not** the tool for Union List vs State List — that is **246** (Union List wins). 254 = **two statutes on Concurrent**. Pith **saves**; colourable **strikes**; do not swap them. Eclipse (pre-1950 law goes dormant) / severability (only the bad clause dies) are Art. 13 doctrines.
 
 ---
 
@@ -274,7 +275,7 @@ D. Anti-Defection — Tenth Schedule
 - **CAG** audits Union **and** States.
 - Extra-constitutional coordination: **NITI Aayog** (1 Jan **2015**, replaced Planning Commission) — Governing Council of CMs; **NDC** (1952, extra-constitutional, PM + CMs — largely moribund after NITI). **ISC / Zonal Councils** — own homes below.
 
-> ** note:** 258(1) needs **consent**; 258(2) does **not**. 258A is the **mirror** (State → Union) and is **not** original — **7th Amd**. NITI / NDC are **not** Art. 263.
+> **Logic:** 258(1) needs **consent**; 258(2) does **not**. 258A is the **mirror** (State → Union) and is **not** original — **7th Amd**. NITI / NDC are **not** Art. 263.
 
 ## Full faith and credit (Art. 261)
 
@@ -284,7 +285,7 @@ D. Anti-Defection — Tenth Schedule
 - **261(2):** Manner of proof and the **effect** thereof = as **Parliament** provides by law.
 - **261(3):** Final civil judgments / orders of a State are **executable** anywhere in India as Parliament provides.
 
-> ** note:** 261 is **recognition / execution**, not a dispute-settling court. Inter-State / Centre–State **legal** disputes = **Art. 131**. Water disputes can be **barred** from SC by **262(2)**.
+> **Logic:** 261 is **recognition / execution**, not a dispute-settling court. Inter-State / Centre–State **legal** disputes = **Art. 131**. Water disputes can be **barred** from SC by **262(2)**.
 
 ---
 
@@ -373,7 +374,7 @@ D. None of the above
 
 **Vertical share (raata):14th FC = 42%** of the divisible pool to States · **15th FC = 41%** (1 point held back for new UTs J&K/Ladakh after reorganisation). Horizontal: **UP is the largest absolute / share-order recipient** (~**18%** of the State pool — don’t freeze a third decimal).
 
-> ** note:** Corporation tax and customs are **not** 270-shared. Students dump “all Union taxes are shared” — false. Surcharge **271** ≠ GST compensation **cess**.
+> **Logic:** Corporation tax and customs are **not** 270-shared. Students dump “all Union taxes are shared” — false. Surcharge **271** ≠ GST compensation **cess**.
 
 ---
 
@@ -410,7 +411,7 @@ D. None of the above
 - **15th — N.K. Singh** (2021–26, census-adjusted).
 - **16th — Arvind Panagariya** (**2026–31**).
 
-> ** note:** Rajamannar chaired a **Tamil Nadu Centre–State committee**, **not** the 1st FC. Santhanam ≠ 1st FC. NITI Aayog is **extra-constitutional** (2018) and does **not** receive the FC report.
+> **Logic:** Rajamannar chaired a **Tamil Nadu Centre–State committee**, **not** the 1st FC. Santhanam ≠ 1st FC. NITI Aayog is **extra-constitutional** (2018) and does **not** receive the FC report.
 
 **PYQ — UPPCS Prelims 2023, Q10**
 
@@ -519,6 +520,8 @@ D. To allocate funds to various Ministries/Departments of the Union and State Go
 ---
 
 ## Grants-in-aid (275 vs 282)
+**Live channels of Centre→State money:** tax devolution (**Art. 270** / Finance Commission), **grants-in-aid** (**275**, **282**), and **centrally sponsored schemes**. Plan transfers under the old **Gadgil formula** are **not** a present channel after the Planning Commission era ended.
+
 
 | | **Art. 275** | **Art. 282** |
 |--|--------------|--------------|
@@ -587,7 +590,7 @@ D. 73rd
 - **306:** Repealed (Part-B States).
 - **307:** Parliament **may** appoint an **authority** to carry out 301–304 (none of standing all-India fame like the US Interstate Commerce Commission).
 
-> ** note:** 301 is **not** a Fundamental Right (Art. 19(1)(g) is the FR). A State **cannot** sneak a trade barrier through 304(b) without **prior** Presidential sanction. *Atiabari* (tax can burden 301) → *Automobile Transport* (compensatory tax OK) → *Jindal Stainless* (2016): compensatory-tax doctrine **discarded**; a tax is tested as a **restriction** under 304.
+> **Logic:** 301 is **not** a Fundamental Right (Art. 19(1)(g) is the FR). A State **cannot** sneak a trade barrier through 304(b) without **prior** Presidential sanction. *Atiabari* (tax can burden 301) → *Automobile Transport* (compensatory tax OK) → *Jindal Stainless* (2016): compensatory-tax doctrine **discarded**; a tax is tested as a **restriction** under 304.
 
 **Interstate trade & commerce** as a **list** matter = Union Entry **42** (inter-State) vs State Entry **26** (intra-State) vs Concurrent **33** (notified goods). Part XIII is the **freedom** overlay on top of those entries.
 
@@ -624,7 +627,7 @@ The President **may leave out (a)** — so the ISC need not be a dispute court. 
 - **Nature:Constitutional body** (263) but **recommendatory**. Not a court; not GST Council; not NITI.
 - **Practice:** Meets **infrequently** — a favourite “exists on paper” fact.
 
-> ** note:** ISC = **263 + Sarkaria + 1990 + PM**. Zonal Councils are **statutory (1956)**, chair = **Union Home Minister**, not PM. NITI is **executive**. Do not mix the three chairs.
+> **Logic:** ISC = **263 + Sarkaria + 1990 + PM**. Zonal Councils are **statutory (1956)**, chair = **Union Home Minister**, not PM. NITI is **executive**. Do not mix the three chairs.
 
 **PYQ — UPPCS Prelims 2021, Q8**
 
@@ -670,12 +673,12 @@ D. Sarkaria Commission
 
 **Separate 1971 statute** — not SRA 1956, not a sixth zonal council.
 
-- **Law:North Eastern Council Act, 1971** (body from **1972**).
-- **Members:Eight** NE States (Sikkim added by **2002** amendment).
-- **Chair (after 2002):Prime Minister** (ex-officio). DoNER Minister is typically Vice-Chair.
+- **Law:** North Eastern Council Act, **1971** (body from **1972**).
+- **Members:** **Eight** NE States (Sikkim added by **2002** amendment) — each State’s **Governor** and **Chief Minister**, plus **three** members nominated by the **President**.
+- **Chair:** Nominated by the **President** (need not be drawn from the other members). In recent practice the **Union Home Minister** is **ex-officio Chairman** and the **DoNER** Minister is **ex-officio Vice-Chairman**.
 - **Why separate:** Security + development of the NE; **not** SRA 1956.
 
-> ** note:** “There are six Zonal Councils including NEC” is **false**. **Five** zonal + **one** NEC.
+> **Logic:** “There are six Zonal Councils including NEC” is **false**. **Five** zonal + **one** NEC. ISC = constitutional (**263**); Zonal Councils = statutory (**SRA 1956**); National Security Council = executive — only **one** of ISC / NSC / Zonal is created by the Constitution.
 
 ---
 
@@ -719,7 +722,7 @@ Two 1956 statutes (do not merge):
 
 **UP angle:** Yamuna sharing is handled through the **Upper Yamuna River Board** (UP, Uttarakhand, HP, Haryana, Delhi, Rajasthan) — a **board**, not a famous 262 tribunal. Ganga is not a classic PCS tribunal name the way **Cauvery / Narmada / Krishna** are.
 
-> ** note:** “SC has original jurisdiction over river-water disputes” = **false**. **262 + 1956 Act** shut **131**. SC can still hear **implementation / constitutional** after an award (Cauvery 2018) — that is **not** 131-as-tribunal.
+> **Logic:** “SC has original jurisdiction over river-water disputes” = **false**. **262 + 1956 Act** shut **131**. SC can still hear **implementation / constitutional** after an award (Cauvery 2018) — that is **not** 131-as-tribunal.
 
 ---
 
@@ -733,7 +736,7 @@ Two 1956 statutes (do not merge):
 - **Water:262(2) + 1956 Act** = **barred**.
 - **≠ 261:** 261 = **full faith / execution** of records and decrees, not a lawsuit in the SC.
 
-> ** note:** 131 is a **federal court** fact, not a writ fact. Two States fighting over a **boundary** or a **statutory due** can come here; two States fighting over **Cauvery water** cannot (tribunal).
+> **Logic:** 131 is a **federal court** fact, not a writ fact. Two States fighting over a **boundary** or a **statutory due** can come here; two States fighting over **Cauvery water** cannot (tribunal).
 
 **Boundary disputes** are **not** 262. They can be 131 **or** a political settlement. **Assam–Meghalaya (March 2022)** was signed by the **Union Home Minister + the two CMs** — not an SC 131 decree.
 
@@ -768,7 +771,7 @@ D. Union Home Minister and Chief Ministers of Assam and Meghalaya
 - Shift several **Union and Concurrent** heads to the **State List**.
 - Planning body to have **State representation**.
 
-> ** note:** First FC ≠ Rajamannar. He is a **TN Centre–State** chair, not K.C. Neogy.
+> **Logic:** First FC ≠ Rajamannar. He is a **TN Centre–State** chair, not K.C. Neogy.
 
 ---
 
@@ -779,7 +782,7 @@ Union Commission on Centre–State Relations. Chair: Justice **R.S. Sarkaria**. 
 - A **strong Centre** is **necessary**; India is not the USA.
 - **Residuary** power should stay with the **Union**.
 - **All-India Services** should continue under dual control.
-- The **Inter-State Council** should be set up under Art. **263** — implemented on **28 May 1990** (2021 PYQ).
+- The **Inter-State Council** should be set up under Art. **263** and preferably styled an **Inter-Governmental Council** — implemented on **28 May 1990** (2021 PYQ).
 - Keep Art. **356**, but only as a **last resort**.
 - Before 356: give a warning, hold a **floor test**, and put **material facts** in the proclamation — not for partisan use (*Bommai* later judicialised this).
 - The Governor should be an eminent person from **outside** the State; the Centre should **consult the CM**; the Governor should not be a party worker on a mission.
@@ -787,7 +790,7 @@ Union Commission on Centre–State Relations. Chair: Justice **R.S. Sarkaria**. 
 - **Zonal Councils** should be activated.
 - The President should not sit endlessly on reserved State Bills.
 
-> ** note:** Sarkaria = **keep** AIS, **keep** 356, **keep** residuary with Union, **create ISC**. If the option says “weaken the Centre / abolish IAS”, it is **Rajamannar**, not Sarkaria.
+> **Logic:** Sarkaria = **keep** AIS, **keep** 356, **keep** residuary with Union, **create ISC**. If the option says “weaken the Centre / abolish IAS”, it is **Rajamannar**, not Sarkaria.
 
 ---
 
@@ -803,7 +806,7 @@ Union Commission on Centre–State Relations. Chair: Justice **M.M. Punchhi** (f
 - Consult States when a **treaty** hits the **State List**.
 - Strengthen National Integration Council / internal-security coordination with States (NCTC debate).
 
-> ** note:** Punchhi = **procedure**, not Rajamannar’s repeal list. “Local emergency” and “201 time-cap” are Punchhi tags.
+> **Logic:** Punchhi = **procedure**, not Rajamannar’s repeal list. “Local emergency” and “201 time-cap” are Punchhi tags.
 
 ### Who wanted what (one line)
 
@@ -1345,6 +1348,1165 @@ D. Finance Commission
 <summary>Show answer</summary>
 
 **Ans: C — NITI.** Not the FC.
+
+</details>
+
+---
+
+## Ghatnachakra Extra Drill — Centre–State Relations
+
+> Part XI · 7th Schedule · 249/250/252/253 · ISC · Zonal Councils · Sarkaria · Finance Arts. 268–282
+
+**Q1. UKPCS (Pre) 2002**
+
+Which of the following are federal features of the Indian Constitution?
+1. Written Constitution
+2. Division of powers between the Union and the States
+3. Supremacy of the Constitution
+4. Independent judiciary
+
+Select the correct answer using the code given below:
+
+A. 1 and 2 only
+B. 1, 2 and 3 only
+C. 2, 3 and 4 only
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** All four are classic federal markers cited by the Supreme Court; integrated judiciary and single citizenship are the usual unitary counter-traps.
+
+**Ans: D. All four statements describe federal features of the Indian Constitution.**
+
+</details>
+
+**Q2. UPPCS (Pre) 2009**
+
+The Union Parliament can also legislate on a subject of the State List when
+1. it is necessary to give effect to an international agreement.
+2. two or more State legislatures request Parliament by resolution.
+3. a Proclamation of President’s Rule is in force in the State.
+4. the Rajya Sabha passes a resolution in the national interest by a two-thirds majority of members present and voting.
+
+Select the correct answer using the code given below:
+
+A. 1, 2 and 3 only
+B. 2, 3 and 4 only
+C. 1, 2 and 4 only
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 253 (treaties), 252 (two or more States), 356-era Parliament law, and 249 (RS resolution) are all recognised gateways — not a single-State 252 request.
+
+**Ans: D. All four situations allow Parliament to legislate on a State List subject.**
+
+</details>
+
+**Q3. UPPCS (Mains) 2010**
+
+A federal polity involves
+1. relations between the Union and the States.
+2. relations among the States.
+3. a mechanism for coordination.
+4. a mechanism for resolving disputes.
+
+Select the correct answer using the code given below:
+
+A. 1, 2, 3 and 4
+B. 1, 2 and 3 only
+C. 1, 2 and 4 only
+D. 2, 3 and 4 only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Federal design needs vertical Union–State ties, horizontal inter-State ties, plus coordination and dispute-settlement forums (263, 131, zonal machinery).
+
+**Ans: A. All four elements belong to the federal policy frame.**
+
+</details>
+
+**Q4. IAS (Pre) 1994**
+
+In which respect have the Centre–State relations been specifically termed as “municipal relations”?
+
+A. Centre’s control of the State in the legislative sphere
+B. Centre’s control of the State in financial matters
+C. Centre’s control of the State in the administrative sector
+D. Centre’s control of the State in the planning process
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Planning-Commission-era central plans reduced States to implementing agencies — an extra-constitutional dominance unlike Arts. 245–246 federalism.
+
+**Ans: D. Centre’s control of the State in the planning process.**
+
+</details>
+
+**Q5. Jharkhand PCS (Pre) 2021**
+
+In the Indian fiscal federal system, resources are allocated from the Centre to the States. Which of the following is **not** a means of resource allocation at present?
+
+A. Tax sharing
+B. Grant-in-aid
+C. Transfer for plan implementation under the Gadgil formula
+D. Centrally sponsored schemes
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** After NITI replaced the Planning Commission, Gadgil-formula plan transfers are historical — live channels are FC devolution, 275/282 grants, and CSS.
+
+**Ans: C. Transfer for plan implementation under the Gadgil formula is no longer a present channel.**
+
+</details>
+
+**Q6. UKPCS (Pre) 2024**
+
+Which of the following Parts of the Indian Constitution deals with relations between the Union and the States?
+
+A. Part IX
+B. Part X
+C. Part XI
+D. Part XII
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Part XI = Arts. 245–263 (legislative + administrative); Part XII opens finance; Part IX is Panchayats.
+
+**Ans: C. Part XI.**
+
+</details>
+
+**Q7. UPPCS (Pre)**
+
+Articles 245 to 255 of the Indian Constitution primarily deal with which aspect of Centre–State relations?
+
+A. Administrative relations
+B. Legislative relations
+C. Financial relations
+D. Trade and commerce relations
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Chapter I of Part XI is legislative; 256–263 is administrative; 268+ is Part XII finance; 301+ is Part XIII trade.
+
+**Ans: B. Legislative relations.**
+
+</details>
+
+**Q8. UP UDA (Pre)**
+
+Match List-I (Article) with List-II (Subject-matter) and select the correct answer using the code given below the lists:
+
+**List-I**
+
+| Code | Item |
+|------|------|
+| A | Article 245 |
+| B | Article 246 |
+| C | Article 248 |
+| D | Article 249 |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | Territorial extent of Union and State legislation |
+| 2 | Distribution of legislative subjects through the Seventh Schedule |
+| 3 | Residuary powers of legislation |
+| 4 | Parliament on State List after Rajya Sabha resolution |
+
+*Row order is not the answer code.*
+
+Select the correct answer using the code given below:
+
+A. A-1, B-2, C-3, D-4
+B. A-2, B-1, C-4, D-3
+C. A-1, B-3, C-2, D-4
+D. A-4, B-3, C-2, D-1
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 245 = territory; 246 = three lists; 248 = residuary; 249 = RS national-interest route.
+
+**Ans: A. A-1, B-2, C-3, D-4.**
+
+</details>
+
+**Q9. UPPCS (Pre)**
+
+The distribution of legislative powers between the Union and the States in India is based on which Schedule of the Constitution?
+
+A. Fifth Schedule
+B. Seventh Schedule
+C. Ninth Schedule
+D. Eleventh Schedule
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Union, State and Concurrent Lists sit in the Seventh Schedule read with Art. 246.
+
+**Ans: B. Seventh Schedule.**
+
+</details>
+
+**Q10. UKPCS (Pre) 2002**
+
+Economic and social planning is a subject in the
+
+A. State List
+B. Union List
+C. Concurrent List
+D. Residuary field
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Entry 20 of the Concurrent List — not residuary Entry 97.
+
+**Ans: C. Concurrent List.**
+
+</details>
+
+**Q11. Ghatnachakra**
+
+With reference to the Concurrent List, consider the following subjects:
+1. Economic and social planning
+2. Prevention of premature retirement of infants from service
+
+On which of the above can both the Union and the State legislatures make laws?
+
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Both entries historically sit on the Concurrent List — shared legislative field, with Art. 254 repugnancy rules.
+
+**Ans: C. Both subjects are on the Concurrent List, so both tiers may legislate.**
+
+</details>
+
+**Q12. Ghatnachakra**
+
+Residuary powers of legislation in India belong to
+
+A. The State Legislatures
+B. Parliament
+C. The President
+D. The Inter-State Council
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 248 + Union List Entry 97 — opposite of the US pattern.
+
+**Ans: B. Parliament.**
+
+</details>
+
+**Q13. Ghatnachakra**
+
+Parliament may legislate on any matter not enumerated in the Concurrent List or the State List. Such matters are called
+
+A. Concurrent subjects
+B. Residuary subjects
+C. State subjects
+D. Extra-territorial subjects
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Residuary = left out of all three lists → Union under Art. 248.
+
+**Ans: B. Residuary subjects.**
+
+</details>
+
+**Q14. Ghatnachakra**
+
+Residuary powers of taxation in India vest in the
+
+A. State Governments
+B. Union Government
+C. Finance Commission
+D. GST Council
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Entry 97 residuary taxation is Parliament’s; GST uses Art. 246A, not residuary.
+
+**Ans: B. Union Government.**
+
+</details>
+
+**Q15. Ghatnachakra**
+
+Under Article 249, Parliament may legislate on a State List subject when
+
+A. the Lok Sabha passes a simple-majority resolution
+B. the Rajya Sabha declares it necessary in the national interest by special majority
+C. the President issues an ordinance
+D. two State legislatures pass resolutions
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 249 needs Rajya Sabha — 2/3 present and voting — not Lok Sabha alone or 252’s State request.
+
+**Ans: B. The Rajya Sabha passes a resolution in the national interest by the prescribed special majority.**
+
+</details>
+
+**Q16. Ghatnachakra**
+
+A law made by Parliament under Article 249 remains in force so long as the Rajya Sabha resolution is in force, and for a further period of six months after the resolution ceases to operate. The resolution itself remains in force for
+
+A. six months
+B. one year
+C. two years
+D. until repealed by the Rajya Sabha
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 249 resolution lasts one year and may be renewed yearly; the law outlives the resolution by six months.
+
+**Ans: B. One year (renewable one year at a time).**
+
+</details>
+
+**Q17. Ghatnachakra**
+
+The Rajya Sabha resolution under Article 249 authorising Parliament to legislate on a State List subject remains in force for a period
+
+A. not exceeding six months
+B. not exceeding one year
+C. not exceeding two years
+D. of five years
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Same one-year cycle trap — do not confuse with the six-month tail on the Act itself.
+
+**Ans: B. Not exceeding one year.**
+
+</details>
+
+**Q18. Ghatnachakra**
+
+The Inter-State Council is provided for under Article
+
+A. 262
+B. 263
+C. 280
+D. 301
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 262 = water disputes bar; 280 = Finance Commission; 301 = trade freedom.
+
+**Ans: B. Article 263.**
+
+</details>
+
+**Q19. Ghatnachakra**
+
+The Inter-State Council established in 1990 was set up by
+
+A. an Act of Parliament
+B. a Presidential Order
+C. a Rajya Sabha resolution
+D. a Supreme Court direction
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 263 empowers the President to establish the Council; the 1990 body followed Sarkaria through a Presidential Order.
+
+**Ans: B. A Presidential Order.**
+
+</details>
+
+**Q20. Ghatnachakra**
+
+The source of authority for establishing the Inter-State Council is the
+
+A. States Reorganisation Act, 1956
+B. Constitution of India
+C. Government of India Resolution, 1952
+D. North Eastern Council Act, 1971
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 263 is constitutional; Zonal Councils and NEC are statutory.
+
+**Ans: B. Constitution of India (Article 263).**
+
+</details>
+
+**Q21. Ghatnachakra**
+
+Who establishes the Inter-State Council under Article 263?
+
+A. The Prime Minister
+B. Parliament
+C. The President
+D. The Chief Justice of India
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** President may establish; PM chairs the functioning body constituted in 1990.
+
+**Ans: C. The President.**
+
+</details>
+
+**Q22. IAS (Pre) 2013**
+
+Which Article deals with the establishment of the Inter-State Council?
+
+A. 262
+B. 263
+C. 280
+D. 301
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Repeat art-number fact — 263 is the ISC home.
+
+**Ans: B. Article 263.**
+
+</details>
+
+**Q23. IAS (Pre) 1995**
+
+Which of the following is/are extra-constitutional and extra-legal device(s) for securing cooperation and coordination between the States in India?
+I. The National Development Council
+II. The Governors’ Conference
+III. Zonal Councils
+IV. The Inter-State Council
+
+Choose the correct answer from the codes given below:
+
+A. I, II and III
+B. I, III and IV
+C. III and IV
+D. IV only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** NDC (1952 executive resolution) and Governors’ Conference are extra-constitutional; Zonal Councils are statutory (SRA 1956) but not in the Constitution; ISC is Art. 263.
+
+**Ans: A. I, II and III only.**
+
+</details>
+
+**Q24. Ghatnachakra**
+
+Zonal Councils in India were created by
+
+A. Article 263 of the Constitution
+B. an Act of Parliament
+C. a Government of India resolution
+D. the Inter-State Council
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Part III of the States Reorganisation Act, 1956 — statutory, not constitutional.
+
+**Ans: B. An Act of Parliament (States Reorganisation Act, 1956).**
+
+</details>
+
+**Q25. Ghatnachakra**
+
+The common Chairman of all five Zonal Councils is the
+
+A. Prime Minister
+B. Union Home Minister
+C. Finance Minister
+D. Chief Minister of the host State
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** PM chairs ISC and NEC (post-2002); Union Home Minister chairs Zonal Councils.
+
+**Ans: B. Union Home Minister.**
+
+</details>
+
+**Q26. Ghatnachakra**
+
+Which of the following is **not** a constitutional body?
+
+A. Zonal Councils
+B. Inter-State Council
+C. Finance Commission
+D. Election Commission
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Zonal Councils are statutory under SRA 1956; the other three have constitutional anchors.
+
+**Ans: A. Zonal Councils.**
+
+</details>
+
+**Q27. Ghatnachakra**
+
+Consider the following statements regarding regional councils:
+1. Zonal Councils are statutory bodies created by the States Reorganisation Act, 1956.
+2. The North Eastern Council is a separate body under the North Eastern Council Act, 1971.
+
+Which of the statements given above is/are correct?
+
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Five zonal councils ≠ NEC; NEC is not a sixth zonal council.
+
+**Ans: C. Both statements are correct.**
+
+</details>
+
+**Q28. IAS (Pre) 2024**
+
+The North Eastern Council (NEC) was established by the North Eastern Council Act, 1971. Subsequent to the amendment of the NEC Act in 2002, the Council comprises which of the following members?
+1. Governor of the constituent State
+2. Chief Minister of the constituent State
+3. Three members to be nominated by the President of India
+4. The Home Minister of India
+
+Select the correct answer using the code given below:
+
+A. 1, 2 and 3 only
+B. 1 and 2 only
+C. 2, 3 and 4 only
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 2002 Act lists Governors, CMs and three Presidential nominees; HM became NEC chair later by practice — not listed as a statutory member in the 2002 composition clause.
+
+**Ans: A. 1, 2 and 3 only.**
+
+</details>
+
+**Q29. Jharkhand PCS (Pre)**
+
+The Jharkhand Area Autonomous Council was created on
+
+A. 8 August 1994
+B. 8 August 1995
+C. 15 November 2000
+D. 26 January 1950
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** JAAC under Bihar reorganisation precedes Jharkhand Statehood (2000); memorise 8 August 1995.
+
+**Ans: B. 8 August 1995.**
+
+</details>
+
+**Q30. UPPCS (Pre) 2025**
+
+**Assertion (A):** The concept of National Integration involves political, economic, social, cultural and psychological dimensions and the inter-relation between them.
+
+**Reason (R):** The National Integration Council was constituted in 1961 on the principle of ‘Unity in Diversity’.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. Both (A) and (R) are true and (R) is the correct explanation of (A)
+C. (A) is true, but (R) is false
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** (A) is the standard multi-dimensional definition. (R) traps the 1961 conference vs 1962 first meeting — NIC flowed from the 1961 conference; saying simply ‘constituted in 1961’ is treated false in this stem.
+
+**Ans: C. (A) is true, but (R) is false.**
+
+</details>
+
+**Q31. UPPCS (Pre)**
+
+Which one of the following pairs is **not** correctly matched?
+
+A. Inter-State River Water Disputes Act — 1956
+B. Inter-State Council — 1990
+C. River Boards Act — 1970
+D. North Eastern Council Act — 1971
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** River Boards Act dates to 1956, not 1970; the other three year-pairs are standard teaching facts.
+
+**Ans: C. River Boards Act — 1970 is the wrong pair.**
+
+</details>
+
+**Q32. Ghatnachakra**
+
+The Sarkaria Commission was set up to examine relations between the
+
+A. Union and foreign countries
+B. Union and the States
+C. Lok Sabha and Rajya Sabha
+D. President and the Council of Ministers
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 1983–88 Union Commission on Centre–State Relations — 247 recommendations.
+
+**Ans: B. Union and the States.**
+
+</details>
+
+**Q33. Ghatnachakra**
+
+Who among the following was a member of the Sarkaria Commission?
+
+A. V. Shankar
+B. K. Hanumanthaiah
+C. Dr S.R. Sen
+D. O. V. Alagesan
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Chair = Justice R.S. Sarkaria; members = B. Sivaraman and Dr S.R. Sen.
+
+**Ans: C. Dr S.R. Sen.**
+
+</details>
+
+**Q34. BPSC (Pre)**
+
+The Sarkaria Commission on Centre–State Relations submitted its report in
+1. January 1987
+2. January 1988
+3. June 1988
+
+Select the correct answer using the code given below:
+
+A. 1 only
+B. 2 only
+C. 3 only
+D. 1 and 2 only
+E. None of the above / more than one of the above
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Report went to the Government in January 1988 — 1987 is the common trap; booklet key often takes (e) when two dates look plausible.
+
+**Ans: E. None of the above / more than one — the accepted submission is January 1988, not January 1987.**
+
+</details>
+
+**Q35. UPPCS (Pre) 2018**
+
+The recommendations of the Sarkaria Commission relate to which of the following?
+
+A. Distribution of revenue only
+B. Powers and functions of the President only
+C. Membership of Parliament
+D. Centre–State relations
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Full CSR mandate — legislative, administrative, financial, Governor, 356, ISC; not a single revenue chapter.
+
+**Ans: D. Centre–State relations.**
+
+</details>
+
+**Q36. Ghatnachakra**
+
+**Assertion (A):** The Sarkaria Commission recommended that Article 356 be used sparingly and only as a last resort.
+
+**Reason (R):** Frequent use of Article 356 undermines cooperative federalism and State autonomy.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is true, but (R) is false
+C. Both (A) and (R) are true and (R) is the correct explanation of (A)
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** Sarkaria did urge sparing use of 356; (R) states why — classic explains pair.
+
+**Ans: C. Both (A) and (R) are true and (R) is the correct explanation of (A).**
+
+</details>
+
+**Q37. Ghatnachakra**
+
+Which of the following was a major Sarkaria Commission recommendation?
+
+A. Abolition of All-India Services
+B. Residuary powers to the States
+C. A permanent Inter-State Council under Article 263
+D. Repeal of Article 356
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Sarkaria wanted a standing ISC; abolition/residuary-to-States/repeal-356 are Rajamannar traps.
+
+**Ans: C. A permanent Inter-State Council under Article 263.**
+
+</details>
+
+**Q38. Ghatnachakra**
+
+The Sarkaria Commission suggested that the Inter-State Council be named the
+
+A. National Development Council
+B. Inter-Governmental Council
+C. Zonal Council
+D. National Integration Council
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Sarkaria wanted a permanent body under 263 and used the Inter-Governmental Council label to distinguish it from ad hoc forums.
+
+**Ans: B. Inter-Governmental Council.**
+
+</details>
+
+**Q39. Ghatnachakra**
+
+On the recommendation of which Commission was the Inter-State Council set up in 1990?
+
+A. Rajamannar Committee
+B. Punchhi Commission
+C. Sarkaria Commission
+D. Kothari Committee
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Rajamannar asked earlier; Punchhi came after 1990; Sarkaria report (1988) led to the 1990 Presidential Order.
+
+**Ans: C. Sarkaria Commission.**
+
+</details>
+
+**Q40. IAS (Pre) 2025**
+
+With reference to India, consider the following:
+I. The Inter-State Council
+II. The National Security Council
+III. Zonal Councils
+
+How many of the above were established as per the provisions of the Constitution of India?
+
+A. Only one
+B. Only two
+C. All three
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Only ISC has Art. 263; NSC is executive (1998); Zonal Councils are statutory (SRA 1956).
+
+**Ans: A. Only one — the Inter-State Council.**
+
+</details>
+
+**Q41. Ghatnachakra**
+
+The Indrajit Gupta Committee (1998) is associated with
+
+A. Centre–State financial relations
+B. State funding of elections
+C. Inter-State water disputes
+D. Zonal Council reforms
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Indrajit Gupta = electoral reform / state funding — not CSR.
+
+**Ans: B. State funding of elections.**
+
+</details>
+
+**Q42. Ghatnachakra**
+
+**Assertion (A):** There has been a demand to review Centre–State relations because States lack adequate financial resources.
+
+**Reason (R):** Vertical fiscal imbalance leaves States dependent on the Centre for a large share of revenue.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** Resource gap drives CSR review politics — Rajamannar, Sarkaria, Punchhi all sit on this fiscal thread.
+
+**Ans: A. Both (A) and (R) are true and (R) is the correct explanation of (A).**
+
+</details>
+
+**Q43. Ghatnachakra**
+
+**Assertion (A):** Under Article 256, the executive power of every State shall be so exercised as to ensure compliance with laws made by Parliament.
+
+**Reason (R):** The Union may give directions to a State under Article 256 when it considers it necessary for that purpose.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** 256 binds State execution to Union law; Union directions under 256 enforce that duty — standard explains pair.
+
+**Ans: A. Both (A) and (R) are true and (R) is the correct explanation of (A).**
+
+</details>
+
+**Q44. Ghatnachakra**
+
+Under Article 257, a State cannot impede the Union in the exercise of its executive power relating to
+
+A. defence and foreign affairs only
+B. railways and communications only
+C. any subject in the Union List
+D. subjects in the Concurrent List only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 257(1) covers Union executive power generally; 257(2) specifically protects Union railways.
+
+**Ans: C. Any subject in the Union List (with 257(2) additionally protecting Union railways).**
+
+</details>
+
+**Q45. Ghatnachakra**
+
+Financial relations between the Union and the States are mainly dealt with in which Part of the Constitution?
+
+A. Part XI
+B. Part XII
+C. Part XIII
+D. Part XIV
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Part XI = legislative/administrative; Part XII = finance (268–293 slice); Part XIII = trade (301–307).
+
+**Ans: B. Part XII.**
+
+</details>
+
+**Q46. Ghatnachakra**
+
+The distribution of tax revenues between the Union and the States is primarily governed by Articles
+
+A. 245–255
+B. 256–263
+C. 268–281
+D. 301–307
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 268–281 is the core revenue-sharing pipe; 280 is Finance Commission; 270 is divisible pool.
+
+**Ans: C. Articles 268–281.**
+
+</details>
+
+**Q47. Ghatnachakra**
+
+Taxes levied and collected by the Union but shared with the States under the Finance Commission formula belong to Article
+
+A. 268
+B. 269
+C. 270
+D. 271
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 270 = divisible pool; 268 = Union levy/State collect; 271 surcharge stays with Union.
+
+**Ans: C. Article 270.**
+
+</details>
+
+**Q48. Ghatnachakra**
+
+Match List-I (Category of Union tax) with List-II (Constitutional pipe) and select the correct answer using the code given below the lists:
+
+**List-I**
+
+| Code | Item |
+|------|------|
+| A | Stamp duties on Union-list instruments |
+| B | Taxes on inter-State sale of goods (pre-GST frame) |
+| C | Income-tax (other than agricultural income) |
+| D | Surcharge on income-tax |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | Article 268 — levied by Union, collected by States |
+| 2 | Article 269 — assigned to States |
+| 3 | Article 270 — shared per Finance Commission |
+| 4 | Article 271 — Union only |
+
+*Row order is not the answer code.*
+
+Select the correct answer using the code given below:
+
+A. A-1, B-2, C-3, D-4
+B. A-2, B-1, C-4, D-3
+C. A-1, B-3, C-2, D-4
+D. A-3, B-2, C-1, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 268 stamp pipeline; 269 assignment; 270 sharing; 271 surcharge not shared — booklet may mark * on 270 pair; teaching code A-1, B-2, C-3, D-4.
+
+**Ans: A. A-1, B-2, C-3, D-4 — Art. 270 covers the shared Union-tax pool.**
+
+</details>
+
+**Q49. IAS (Pre) 2003**
+
+Consider the following statements: In India, stamp duties on financial transactions are
+1. levied and collected by the State Government
+2. appropriated by the Union Government
+
+Which of these statements is/are correct?
+
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 268 — Union levies specified stamp duties; States collect and the proceeds are assigned to the State, not the Union.
+
+**Ans: D. Neither statement is correct.**
+
+</details>
+
+**Q50. UPPCS (Pre)**
+
+Consider the following statements: In India, taxes on transactions in stock exchanges and futures markets are
+1. levied by the Union
+2. collected by the States
+
+Which of the statements given above is/are correct?
+
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Union List Entry 90 — Union levies STT-type taxes; proceeds stay with the Union, not State collectors.
+
+**Ans: A. 1 only.**
+
+</details>
+
+**Q51. Jharkhand PCS (Pre) 2021**
+
+Under the constitutional scheme of tax assignment in India, which of the following is a tax imposed and collected exclusively by the States?
+
+A. GST
+B. Income-tax
+C. Land revenue
+D. Corporation tax
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Land revenue is a classic State List tax; GST is dual; income-tax and corporation tax are Union.
+
+**Ans: C. Land revenue.**
+
+</details>
+
+**Q52. Ghatnachakra**
+
+Grants made by the Union or a State for any public purpose under Article 282 are
+
+A. charged on the Consolidated Fund of India
+B. recommended by the Finance Commission
+C. discretionary
+D. limited to tribal areas only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 282 = discretionary public-purpose grants; 275 = FC-recommended charged grants — do not swap.
+
+**Ans: C. Discretionary.**
+
+</details>
+
+**Q53. Ghatnachakra**
+
+A State under the Constitution generally cannot raise a loan outside India without
+
+A. the consent of the Reserve Bank of India
+B. the consent of the Government of India
+C. a resolution of the State legislature
+D. the approval of the Finance Commission
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 293 — foreign loans need Union consent when the State is indebted to the Centre or as Parliament prescribes.
+
+**Ans: B. The consent of the Government of India.**
+
+</details>
+
+**Q54. Ghatnachakra**
+
+Under the Constitution, agricultural income-tax is levied by the
+
+A. Union Government
+B. Local authorities
+C. Finance Commission
+D. State Governments
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** State List subject — Union income-tax explicitly excludes agricultural income.
+
+**Ans: D. State Governments.**
+
+</details>
+
+**Q55. Ghatnachakra**
+
+Fiscal disputes between the Union and a State involving a legal right are adjudicated by the Supreme Court under
+
+A. Article 131
+B. Article 280
+C. Article 262
+D. Article 143
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 131 = original jurisdiction for Union–State legal disputes; 280 recommends tax shares but does not adjudicate; 262 bars water suits.
+
+**Ans: A. Article 131.**
+
+</details>
+
+**Q56. Ghatnachakra**
+
+Under Article 276, the maximum profession tax that a State may levy on any one person per year is (after the 60th Amendment)
+
+A. ₹250
+B. ₹2,500
+C. ₹10,000
+D. No constitutional ceiling
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 60th Amendment (1988) raised the cap from ₹250 to ₹2,500 per person per annum.
+
+**Ans: B. ₹2,500.**
+
+</details>
+
+**Q57. Ghatnachakra**
+
+Article 301 of the Constitution declares that trade, commerce and intercourse throughout the territory of India shall be
+
+A. subject to State legislation only
+B. free
+C. regulated exclusively by Parliament
+D. a Fundamental Right under Article 19
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 301 = Part XIII freedom overlay — not an FR; restrictions follow under 302–305.
+
+**Ans: B. Free (subject to later constitutional restrictions).**
+
+</details>
+
+**Q58. Ghatnachakra**
+
+Suits and proceedings by or against the Government of India are governed by
+
+A. Article 300
+B. Article 301
+C. Article 302
+D. Article 307
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Art. 300 (read with 300A for property) — legal personality of Union/States in courts; 301 is trade freedom.
+
+**Ans: A. Article 300.**
 
 </details>
 

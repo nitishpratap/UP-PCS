@@ -193,7 +193,7 @@ D. Kalibangan and Ropar
 
 ## 13.5 Archaeological Sites
 
-**Paper wants present state | two match-lists to freeze2023 Q27 — prehistoric site → state**
+**Paper wants present state | two match-lists to freezeprehistoric site → state**
 
 | Site | State |
 |------|--------|
@@ -218,7 +218,7 @@ A. A-3, B-4, C-1, D-2 B. A-4, B-3, C-1, D-2 C. A-3, B-4, C-2, D-1 D. A-3, B-2, C
 
 </details>
 
-**2020 Q12 — Harappan site → state**
+**Harappan site → state**
 
 | Site | State / UT |
 |------|------------|
@@ -1142,10 +1142,10 @@ A. 1 and 2 only B. 1 and 3 only C. 2 and 3 only D. 1, 2 and 3
 
 **Q40.** Which one of the following pairs is **not** correctly matched?
 
-A. 2021 Q100 — Mandi in UP
-B. 2020 Q10 — Wakankar
-C. 2023 Q28 — Rakhigarhi as east end
-D. 2018 Q88 — Alamgirpur and Hulas
+A. Mandi in UP
+B. Wakankar
+C. Rakhigarhi as east end
+D. Alamgirpur and Hulas
 
 <details>
 <summary>Show answer</summary>

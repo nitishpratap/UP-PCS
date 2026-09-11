@@ -130,10 +130,10 @@
 
 The Silkyara Tunnel spanning ____ is expected to shorten the distance between Gangotri and Yamunotri by above 20 km.
 
-A. 2.531 km  
-B. 3.531 km  
-C. 4.531 km  
-D. 6.531 km  
+A. 2.531 km 
+B. 3.531 km 
+C. 4.531 km 
+D. 6.531 km 
 
 <details>
 <summary>Show answer</summary>
@@ -148,10 +148,10 @@ D. 6.531 km
 
 Which pair is not correctly matched?
 
-A. Naini Saini — Pithoragarh  
-B. Gauchar — Rudraprayag  
-C. Chinyalisaur — Uttarkashi  
-D. Pantnagar — Udham Singh Nagar  
+A. Naini Saini — Pithoragarh 
+B. Gauchar — Rudraprayag 
+C. Chinyalisaur — Uttarkashi 
+D. Pantnagar — Udham Singh Nagar 
 
 <details>
 <summary>Show answer</summary>
@@ -164,13 +164,13 @@ D. Pantnagar — Udham Singh Nagar
 
 **UKPCS Prelims 2025, Q105**
 
-Statement 1: Uttarakhand is highly vulnerable to climate change.  
+Statement 1: Uttarakhand is highly vulnerable to climate change. 
 Statement 2: Climate change is causing water stress and depleting biodiversity in Uttarakhand.
 
-A. Only statement 1 correct  
-B. Only statement 1 correct and statement 2 incorrect  
-C. Statements 1 and 2 both correct  
-D. Both incorrect  
+A. Only statement 1 correct 
+B. Only statement 1 correct and statement 2 incorrect 
+C. Statements 1 and 2 both correct 
+D. Both incorrect 
 
 <details>
 <summary>Show answer</summary>
@@ -183,13 +183,13 @@ D. Both incorrect
 
 **UKPCS Prelims 2025, Q106**
 
-Statement 1: The State Council for Climate Change (SCCC) of Uttarakhand was established in 2011.  
+Statement 1: The State Council for Climate Change (SCCC) of Uttarakhand was established in 2011. 
 Statement 2: Responsibility of preparing UAPCC was given to the State Revenue Department.
 
-A. Only statement 1 correct  
-B. Only statement 2 correct  
-C. Both incorrect  
-D. Both correct  
+A. Only statement 1 correct 
+B. Only statement 2 correct 
+C. Both incorrect 
+D. Both correct 
 
 <details>
 <summary>Show answer</summary>
@@ -206,10 +206,10 @@ D. Both correct
 
 **Q1.** Which set best represents the main tourism pillars of Uttarakhand?
 
-A. Only coal mines and steel towns  
-B. Char Dham, hill stations, wildlife, and adventure (Auli / Valley of Flowers)  
-C. Only desert safaris  
-D. Only coastal beaches  
+A. Only coal mines and steel towns 
+B. Char Dham, hill stations, wildlife, and adventure (Auli / Valley of Flowers) 
+C. Only desert safaris 
+D. Only coastal beaches 
 
 <details>
 <summary>Show answer</summary>
@@ -222,10 +222,10 @@ D. Only coastal beaches
 
 **Q2.** A glacial lake outburst flood (GLOF) risk in Uttarakhand is most closely linked to:
 
-A. Retreat of glaciers and unstable high lakes  
-B. Only Tarai canal irrigation  
-C. Only silica sand mining in Tehri  
-D. Only sex-ratio tables of Census 2011  
+A. Retreat of glaciers and unstable high lakes 
+B. Only Tarai canal irrigation 
+C. Only silica sand mining in Tehri 
+D. Only sex-ratio tables of Census 2011 
 
 <details>
 <summary>Show answer</summary>

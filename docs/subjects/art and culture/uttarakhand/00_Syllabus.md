@@ -1,8 +1,8 @@
 # Art & Culture of Uttarakhand (UKPCS)
 
-**Exam track:** UKPCS Unit 1 culture aspects + Unit 6 cultural GK with state reference.  
-**Parent subject:** [Art and Culture](../00_Syllabus.md)  
-**Desk:** [UKPCS Syllabus](../../../ukpcs/00_Syllabus.md)  
+**Exam track:** UKPCS Unit 1 culture aspects + Unit 6 cultural GK with state reference. 
+**Parent subject:** [Art and Culture](../00_Syllabus.md) 
+**Desk:** [UKPCS Syllabus](../../../ukpcs/00_Syllabus.md) 
 **PYQ drill:** [UKPCS Art & Culture PYQ Bank](00_UKPCS_PYQ_Bank_Art_Culture.md)
 
 ## Heads stored in this folder

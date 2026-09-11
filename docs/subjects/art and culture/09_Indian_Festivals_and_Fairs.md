@@ -285,7 +285,7 @@ Festivals of India | State-wise Festivals | Folk Festivals | Tribal Festivals | 
 - **Nagaur Fair** is a Rajasthan cattle fair.
 - **Kolayat Fair** is of Rajasthan. Kapil Muni is the fact.
 
-> ** note:** UPPCS **2025 Q97** — **May 2025 Pushkar Kumbh = Uttarakhand only**. Do not mark Rajasthan. Rajasthan owns the **Pushkar camel fair**, not this May Kumbh.
+> **Logic:** The **May 2025 Pushkar Kumbh** was in **Uttarakhand only** — do not mark Rajasthan. Rajasthan owns the **Pushkar camel fair**, not this May Kumbh.
 
 **PYQ — UPPCS Prelims 2025, Q97**
 
@@ -428,7 +428,7 @@ D. Noida
 
 </details>
 
-**Related fact, not banked as a festival PYQ:** UPPCS **2024 Q56** Cannes Best Actress (Anasuya Sengupta) is international cinema CA, not this chapter. **2021 Q120** Azadi ka Amrit Mahotsav / Ram Prasad Bismil is modern-history CA.
+**Related fact, not banked as a festival PYQ:** Cannes Best Actress (Anasuya Sengupta) is international cinema CA, not this chapter. Azadi ka Amrit Mahotsav / Ram Prasad Bismil is modern-history CA.
 
 ---
 

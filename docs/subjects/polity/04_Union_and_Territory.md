@@ -1360,7 +1360,7 @@ D. None of these
 
 Consider the formation of following States and arrange these in chronological order:
 
-I. Goa  II. Telangana  III. Jharkhand  IV. Haryana
+I. Goa II. Telangana III. Jharkhand IV. Haryana
 
 Select the correct answer from the codes given below:
 
@@ -1382,7 +1382,7 @@ D. IV, III, I, II
 
 Which one of the following is the correct chronological order of the formation of the following Indian States?
 
-1. Chhattisgarh  2. Arunachal Pradesh  3. Jharkhand  4. Sikkim
+1. Chhattisgarh 2. Arunachal Pradesh 3. Jharkhand 4. Sikkim
 
 A. 4, 1, 3, 2
 B. 4, 2, 1, 3
@@ -1474,7 +1474,7 @@ D. 2001
 
 The following States were created after 1960. Arrange them in ascending chronological order of their formation:
 
-1. Haryana  2. Sikkim  3. Nagaland  4. Meghalaya
+1. Haryana 2. Sikkim 3. Nagaland 4. Meghalaya
 
 A. 1, 2, 3, 4
 B. 2, 3, 4, 1
@@ -1494,7 +1494,7 @@ D. 2, 4, 1, 3
 
 Identify the correct chronological order in which the following States were created in India from the code given below :
 
-1. Andhra Pradesh  2. Himachal Pradesh  3. Haryana  4. Sikkim
+1. Andhra Pradesh 2. Himachal Pradesh 3. Haryana 4. Sikkim
 
 A. 1, 2, 3, 4
 B. 1, 3, 2, 4

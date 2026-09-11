@@ -624,10 +624,10 @@ D. Thar Desert
 
 **Q31.** Who first used the term ‘biodiversity’?
 
-A. E.O. Wilson  
-B. Norman Myers  
-C. Walter G. Rosen  
-D. A.G. Tansley  
+A. E.O. Wilson 
+B. Norman Myers 
+C. Walter G. Rosen 
+D. A.G. Tansley 
 
 <details>
 <summary>Show answer</summary>
@@ -638,10 +638,10 @@ D. A.G. Tansley
 
 **Q32.** Among mathematical indices, which shows mean species diversity in a habitat at a local scale?
 
-A. Alpha  
-B. Beta  
-C. Gamma  
-D. None  
+A. Alpha 
+B. Beta 
+C. Gamma 
+D. None 
 
 <details>
 <summary>Show answer</summary>
@@ -652,10 +652,10 @@ D. None
 
 **Q33.** India’s first National Centre for Marine Biodiversity is at:
 
-A. Mumbai  
-B. Jamnagar  
-C. Bhavnagar  
-D. Puducherry  
+A. Mumbai 
+B. Jamnagar 
+C. Bhavnagar 
+D. Puducherry 
 
 <details>
 <summary>Show answer</summary>
@@ -666,10 +666,10 @@ D. Puducherry
 
 **Q34.** Which statement is **NOT** true?
 
-A. Tropics harbour more species than temperate areas.  
-B. Species diversity increases from equator toward poles.  
-C. Greatest biodiversity occurs in Amazon rainforest.  
-D. Species diversity decreases from temperate areas toward poles.  
+A. Tropics harbour more species than temperate areas. 
+B. Species diversity increases from equator toward poles. 
+C. Greatest biodiversity occurs in Amazon rainforest. 
+D. Species diversity decreases from temperate areas toward poles. 
 
 <details>
 <summary>Show answer</summary>
@@ -680,10 +680,10 @@ D. Species diversity decreases from temperate areas toward poles.
 
 **Q35.** Which three criteria recognise Western Ghats–Sri Lanka and Indo-Burma as hotspots?
 
-A. Species richness, endemism, threat perception  
-B. Vegetation density, ethnobotany, warm-humid adaptation  
-C. Only rainfall and altitude  
-D. Only invasive-species count  
+A. Species richness, endemism, threat perception 
+B. Vegetation density, ethnobotany, warm-humid adaptation 
+C. Only rainfall and altitude 
+D. Only invasive-species count 
 
 <details>
 <summary>Show answer</summary>
@@ -694,10 +694,10 @@ D. Only invasive-species count
 
 **Q36.** Cryo-bank for ex-situ conservation commonly uses which gas?
 
-A. Oxygen  
-B. Carbon dioxide  
-C. Nitrogen  
-D. Methane  
+A. Oxygen 
+B. Carbon dioxide 
+C. Nitrogen 
+D. Methane 
 
 <details>
 <summary>Show answer</summary>
@@ -708,15 +708,15 @@ D. Methane
 
 **Q37.** Which regions have coral reefs?
 
-1. Andaman and Nicobar  
-2. Gulf of Kachchh  
-3. Gulf of Mannar  
-4. Sundarbans  
+1. Andaman and Nicobar 
+2. Gulf of Kachchh 
+3. Gulf of Mannar 
+4. Sundarbans 
 
-A. 1, 2 and 3 only  
-B. 2 and 4 only  
-C. 1 and 3 only  
-D. All four  
+A. 1, 2 and 3 only 
+B. 2 and 4 only 
+C. 1 and 3 only 
+D. All four 
 
 <details>
 <summary>Show answer</summary>
@@ -727,10 +727,10 @@ D. All four
 
 **Q38.** With reference to TRAFFIC, which is correct?
 
-A. It is a UNEP bureau.  
-B. Its mission is to ensure wildlife trade is not a threat to nature.  
-C. Both A and B  
-D. Neither  
+A. It is a UNEP bureau. 
+B. Its mission is to ensure wildlife trade is not a threat to nature. 
+C. Both A and B 
+D. Neither 
 
 <details>
 <summary>Show answer</summary>
@@ -741,10 +741,10 @@ D. Neither
 
 **Q39.** India currently has about how many Ramsar sites, and which state has the most?
 
-A. 26; Rajasthan  
-B. 80; Tamil Nadu (16)  
-C. 80; Uttar Pradesh (16)  
-D. 50; Punjab  
+A. 26; Rajasthan 
+B. 80; Tamil Nadu (16) 
+C. 80; Uttar Pradesh (16) 
+D. 50; Punjab 
 
 <details>
 <summary>Show answer</summary>
@@ -753,13 +753,13 @@ D. 50; Punjab
 
 </details>
 
-**Q40.** Assertion (A): Maximum butterfly species are found in tropical countries.  
+**Q40.** Assertion (A): Maximum butterfly species are found in tropical countries. 
 Reason (R): Butterflies cannot tolerate low temperatures.
 
-A. Both true; R explains A  
-B. Both true; R does not explain A  
-C. A true; R false  
-D. A false; R true  
+A. Both true; R explains A 
+B. Both true; R does not explain A 
+C. A true; R false 
+D. A false; R true 
 
 <details>
 <summary>Show answer</summary>

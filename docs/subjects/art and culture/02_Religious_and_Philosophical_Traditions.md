@@ -138,7 +138,7 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 
 - Vedanta interprets the Upanishads (jñāna-kāṇḍa).
 - The **Prasthanatrayi** are the Upanishads, the *Bhagavad Gita* and the Brahma Sutras.
-- The founder is not Kapila (UPPCS 2023 trap).
+- The founder is not Kapila.
 
 ### Advaita — Shankara
 
@@ -172,7 +172,7 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 
 **Century:** 15th–16th c. | **Birth:** Champaranya | **Path:** Pushtimarg
 
-- Vallabha taught pure non-dualism. He is the guru of **Surdas** (UPPCS 2025 pair). The Ashtachhap poets of Braj include Surdas, Kumbhan, Parmanand, Krishna Das, and others.
+- Vallabha taught pure non-dualism. He is the guru of **Surdas**. The Ashtachhap poets of Braj include Surdas, Kumbhan, Parmanand, Krishna Das, and others.
 
 ### Charvaka / Lokayata
 
@@ -194,8 +194,6 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 - **Nyaya** accepts **4** — those three plus upamana.
 - **Prabhakara Mimamsa** accepts **5** — adding arthapatti.
 - **Kumarila Mimamsa / Vedanta** accept **6** — adding anupalabdhi (non-perception).
-
-> ** note:** UPPCS 2023 Q30 — only **Nyaya–Gautama** is correctly matched. UPPCS 2022 Q33 — Ramanuja Vishishtadvaita, Madhva Dvaita, Nimbarka Dvaitadvaita, Vallabha Shuddhadvaita (**code D: 4,3,2,1**).
 
 **PYQ — UPPCS Prelims 2023, Q30**
 
@@ -361,8 +359,6 @@ D. 4, 3, 2, 1
 - It declined in the plains after the **12th–13th** c.
 - The modern fact is **Ambedkar**, Nagpur, **14 Oct 1956**.
 
-> ** note:** 2025 Q105 code **C = 2,1,4,3** (Rajagriha → Vaishali → Pataliputra → Kundalvana). First sermon = Sarnath, not Bodh Gaya.
-
 **PYQ — UPPCS Prelims 2025, Q105**
 
 The four Buddhist Councils were held at the following places. Arrange them in correct chronological order and select the correct answer from the code given below.
@@ -459,7 +455,7 @@ For every name fact serial and emblem (*lanchhan*). Nirvana home for **20** is *
 - 23 **Parshvanatha** is the twenty-third Tirthankara. His emblem is the **snake**. Nirvana is at **Sammed Shikhar**. He is historical (~**9th–8th** c. BCE), colour is green/blue, and he taught four vows (no brahmacharya yet).
 - 24 **Mahavira / Vardhamana** is the twenty-fourth Tirthankara. His emblem is the **lion**. Nirvana is at **Pavapuri**. Colour is golden, and he is the last of this cycle.
 
-> ** note:** Memorise **all 24 name–symbol** pairs. Nirvana exceptions = **Rishabha (Ashtapad), Vasupujya (Champapuri), Nemi (Girnar), Mahavira (Pavapuri)**. UPPCS 2021 Q131 wrong pair = Vasupujya–Sammedashikhar.
+> **Logic:** Memorise **all 24 name–symbol** pairs. Nirvana exceptions = **Rishabha (Ashtapad), Vasupujya (Champapuri), Nemi (Girnar), Mahavira (Pavapuri)**. **Vasupujya–Sammed Shikhar** is the classic wrong pair — his nirvana is **Champapuri**.
 
 ### Digambara
 
@@ -481,8 +477,6 @@ For every name fact serial and emblem (*lanchhan*). Nirvana home for **20** is *
 - **Gomateshwara / Bahubali** stands at Shravanabelagola. It was commissioned by **Chamundaraya** in **981 CE** under the Western Ganga.
 - Other Jain sites are Dilwara (Abu), Palitana (Shatrunjaya), and Ranakpur.
 - **Mathura Kankali Tila** has Jain remains in **UP**.
-
-> ** note:** UPPCS 2021 Q131 — Vasupujya–Sammedashikhar is the **wrong** pair.
 
 **PYQ — UPPCS Prelims 2021, Q131**
 
@@ -607,11 +601,11 @@ D. Mahavira — Pavapuri
 - **Tyagaraja** composed Telugu/Carnatic Rama kirtanas.
 - **Daya Bai** wrote *Vinay Malika* and *Dayabodh* (Charandas).
 - **Sahajo Bai** wrote *Sahaj Prakash* (Charandas).
-- **Gangabai** is **not** the author of *Ganesh Dev Leela* (UPPCS 2023).
+- **Gangabai** is **not** the author of *Ganesh Dev Leela*.
 
 The **2025** chronology fact is Namdev → Kabir → Nanak → Chaitanya.
 
-> ** note:** 2025 Q12 code **C = 2 3 4 1**. Guru Granth has Kabir and Namdev, **not** Tulsidas.
+> **Logic:** Guru Granth has Kabir and Namdev, **not** Tulsidas.
 
 **PYQ — UPPCS Prelims 2025, Q12**
 
@@ -740,10 +734,10 @@ D. Son Kumari — Poem of Swam Beli
 - **Fawaid-ul-Fawad** is by Hasan Sijzi.
 - **Khair-ul-Majalis** is linked with Chiragh-i-Dehli.
 - **Akhbar-ul-Akhyar** is by Abdul Haqq Dehlavi.
-- Hatha yoga was practised by Nathpanthis. Some Sufis adopted the technique (UPPCS 2019 both true).
+- Hatha yoga was practised by Nathpanthis. Some Sufis adopted the technique.
 - Early Chishtis loved sama — that does **not** explain Persian translations of Sanskrit music treatises (2018 A/R: both true, R not explanation).
 
-> ** note:** 2020 Q40 wrong pair = Nizamuddin–Multan. 2021 Q101 compiler = Hasan Sizzi, not Khusrau.
+> **Logic:** Nizamuddin Auliya’s dargah is in **Delhi**, not Multan. *Fawaid-ul-Fawad* was compiled by **Hasan Sijzi**, not Amir Khusrau.
 
 **PYQ — UPPCS Prelims 2020, Q40**
 

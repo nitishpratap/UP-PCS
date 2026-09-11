@@ -849,7 +849,7 @@ Do **not** mix these with the natural **Gulf of Suez** (NW arm of the Red Sea). 
 
 **Why it mattered for India**
 
-Before 1869, Europe–India steamers often rounded **Africa**. Suez cut that maritime distance by about **7000 km** (UPPCS 2018).
+Before 1869, Europe–India steamers often rounded **Africa**. Suez cut that maritime distance by about **7000 km**.
 
 ---
 

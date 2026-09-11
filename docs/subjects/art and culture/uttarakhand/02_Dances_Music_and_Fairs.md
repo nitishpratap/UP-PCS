@@ -2,7 +2,7 @@
 
 ### ★ UKPCS state card (Unit 6 culture GK + Unit 1 culture)
 
-> **High-yield 2025 stem:** Padma Shri 2025 social work — Radha Bahin Bhatt (Q53); folk-music name is the distractor.  
+> **High-yield 2025 stem:** Padma Shri 2025 social work — Radha Bahin Bhatt (Q53); folk-music name is the distractor. 
 > **Pair with:** [Folk Culture](01_Folk_Culture_of_Uttarakhand.md)
 
 ---
@@ -73,10 +73,10 @@
 
 Who among the following received the Padma Shri Award in 2025 for social work from Uttarakhand?
 
-A. Dr. Yashwant Singh Katoch  
-B. Dr. Madhuri Barthwal  
-C. Smt. Radha Bahin Bhatt  
-D. Shri Hugh and Colleen Gantzer (posthumously)  
+A. Dr. Yashwant Singh Katoch 
+B. Dr. Madhuri Barthwal 
+C. Smt. Radha Bahin Bhatt 
+D. Shri Hugh and Colleen Gantzer (posthumously) 
 
 <details>
 <summary>Show answer</summary>
@@ -93,10 +93,10 @@ D. Shri Hugh and Colleen Gantzer (posthumously)
 
 **Q1.** Uttarayani fair is classically associated with:
 
-A. Bageshwar  
-B. Kaziranga  
-C. Jhansi  
-D. Puducherry  
+A. Bageshwar 
+B. Kaziranga 
+C. Jhansi 
+D. Puducherry 
 
 <details>
 <summary>Show answer</summary>

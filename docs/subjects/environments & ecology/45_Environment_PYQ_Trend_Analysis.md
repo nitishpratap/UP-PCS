@@ -1,4 +1,4 @@
-# Topic 45 — Environment PYQ Trend Analysis (UPPCS 2018–2025)
+# Topic 45 — Environment PYQ Trend Analysis
 ### ★ Revision Meta-File — How UPPCS Actually Tests Environment
 
 > **Purpose:** PYQ-derived intelligence — not a syllabus topic, but a **revision accelerator** after Topics 1–44

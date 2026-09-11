@@ -207,7 +207,7 @@ Global Warming | Greenhouse Effect | Greenhouse Gases (GHGs) | Carbon Footprint 
 - **Ice cores** provide the classic **cryogenic** record of past climate and atmospheric composition.
 - Primary causes of recent climate change: fossil-fuel burning, oil-driven automobile growth, deforestation — **not** increasing solar flares as a major driver.
 
-> **Logic:** UPPCS 2024 Q19 — Andaman coral bleaching linked to **+2°C Indian Ocean warming**. Do not mark “all wetlands vanish” or “no cereals anywhere” as automatic +3°C outcomes.
+> **Logic:** — Andaman coral bleaching linked to **+2°C Indian Ocean warming**. Do not mark “all wetlands vanish” or “no cereals anywhere” as automatic +3°C outcomes.
 
 **PYQ — UPPCS Prelims 2024, Q19**
 
@@ -331,13 +331,13 @@ D. Only 1
 
 With reference to the **LiFE (Lifestyle for Environment)** Mission, consider the following statements:
 
-1. LiFE was launched in **June 2022**.  
-2. The idea was first proposed at **COP-25 in Madrid**.  
+1. LiFE was launched in **June 2022**. 
+2. The idea was first proposed at **COP-25 in Madrid**. 
 
-A. 2 only  
-B. Neither 1 nor 2  
-C. Both 1 and 2  
-D. 1 only  
+A. 2 only 
+B. Neither 1 nor 2 
+C. Both 1 and 2 
+D. 1 only 
 
 <details>
 <summary>Show answer</summary>
@@ -356,10 +356,10 @@ D. 1 only
 
 Which of the following international agreements relates to **climate change mitigation**?
 
-A. Montreal Protocol  
-B. Ramsar Convention  
-C. Kyoto Protocol  
-D. CITES  
+A. Montreal Protocol 
+B. Ramsar Convention 
+C. Kyoto Protocol 
+D. CITES 
 
 <details>
 <summary>Show answer</summary>
@@ -378,10 +378,10 @@ D. CITES
 
 Coral bleaching in the **Andaman & Nicobar Islands** was primarily caused by—
 
-A. Increased coastal industrial effluents alone  
-B. About **+2°C warming** of the Indian Ocean  
-C. Heavy marine pollution alone  
-D. A **−4°C** drop in sea-surface temperature  
+A. Increased coastal industrial effluents alone 
+B. About **+2°C warming** of the Indian Ocean 
+C. Heavy marine pollution alone 
+D. A **−4°C** drop in sea-surface temperature 
 
 <details>
 <summary>Show answer</summary>
@@ -400,10 +400,10 @@ D. A **−4°C** drop in sea-surface temperature
 
 What was India's rank in the world in **greenhouse gas emissions** in 2022 (as framed in the paper)?
 
-A. 9th  
-B. 10th  
-C. 11th  
-D. 12th  
+A. 9th 
+B. 10th 
+C. 11th 
+D. 12th 
 
 <details>
 <summary>Show answer</summary>
@@ -422,10 +422,10 @@ D. 12th
 
 Which of the following is **NOT** a greenhouse gas?
 
-A. Argon  
-B. Methane  
-C. Carbon dioxide  
-D. Nitrous oxide  
+A. Argon 
+B. Methane 
+C. Carbon dioxide 
+D. Nitrous oxide 
 
 <details>
 <summary>Show answer</summary>
@@ -444,10 +444,10 @@ D. Nitrous oxide
 
 Global warming is most directly linked to an increased frequency and intensity of—
 
-A. Total solar eclipses  
-B. **Extreme weather events** such as heat waves and intense rainfall  
-C. Milankovitch ice-age cycles alone  
-D. Stratospheric ozone recovery  
+A. Total solar eclipses 
+B. **Extreme weather events** such as heat waves and intense rainfall 
+C. Milankovitch ice-age cycles alone 
+D. Stratospheric ozone recovery 
 
 <details>
 <summary>Show answer</summary>
@@ -466,10 +466,10 @@ D. Stratospheric ozone recovery
 
 Under the **Kyoto Protocol**, quantified emission-reduction commitments applied primarily to—
 
-A. All UN member states equally  
-B. **Annex I developed countries**  
-C. Only Least Developed Countries  
-D. Only island nations  
+A. All UN member states equally 
+B. **Annex I developed countries** 
+C. Only Least Developed Countries 
+D. Only island nations 
 
 <details>
 <summary>Show answer</summary>
@@ -490,10 +490,10 @@ D. Only island nations
 
 **Q31.** The greenhouse-effect concept was postulated by:
 
-A. C.C. Park  
-B. Joseph Fourier  
-C. L. Zobler  
-D. Arrhenius only in 1990s  
+A. C.C. Park 
+B. Joseph Fourier 
+C. L. Zobler 
+D. Arrhenius only in 1990s 
 
 <details>
 <summary>Show answer</summary>
@@ -504,10 +504,10 @@ D. Arrhenius only in 1990s
 
 **Q32.** Which is **not** responsible for global warming?
 
-A. Methane  
-B. Water vapour  
-C. Argon  
-D. Carbon dioxide  
+A. Methane 
+B. Water vapour 
+C. Argon 
+D. Carbon dioxide 
 
 <details>
 <summary>Show answer</summary>
@@ -518,10 +518,10 @@ D. Carbon dioxide
 
 **Q33.** Decreasing order of contribution commonly tested:
 
-A. CO₂ > CH₄ > CFCs > N₂O  
-B. CH₄ > CO₂ > CFCs > N₂O  
-C. CO₂ > N₂O > CH₄ > CFCs  
-D. CFCs > CO₂ > CH₄ > N₂O  
+A. CO₂ > CH₄ > CFCs > N₂O 
+B. CH₄ > CO₂ > CFCs > N₂O 
+C. CO₂ > N₂O > CH₄ > CFCs 
+D. CFCs > CO₂ > CH₄ > N₂O 
 
 <details>
 <summary>Show answer</summary>
@@ -532,10 +532,10 @@ D. CFCs > CO₂ > CH₄ > N₂O
 
 **Q34.** Among the following crops, the most important anthropogenic source of **both** methane and nitrous oxide is:
 
-A. Cotton  
-B. Rice  
-C. Sugarcane  
-D. Wheat  
+A. Cotton 
+B. Rice 
+C. Sugarcane 
+D. Wheat 
 
 <details>
 <summary>Show answer</summary>
@@ -546,10 +546,10 @@ D. Wheat
 
 **Q35.** Carbon fertilization best describes:
 
-A. Ocean acidification from CO₂  
-B. Increased plant growth from higher atmospheric CO₂  
-C. Global warming from CO₂ alone  
-D. Adaptation of all species to climate change  
+A. Ocean acidification from CO₂ 
+B. Increased plant growth from higher atmospheric CO₂ 
+C. Global warming from CO₂ alone 
+D. Adaptation of all species to climate change 
 
 <details>
 <summary>Show answer</summary>
@@ -560,10 +560,10 @@ D. Adaptation of all species to climate change
 
 **Q36.** Without the greenhouse effect, Earth’s average surface temperature would be about:
 
-A. 0°C  
-B. −18°C  
-C. 5°C  
-D. −20°C  
+A. 0°C 
+B. −18°C 
+C. 5°C 
+D. −20°C 
 
 <details>
 <summary>Show answer</summary>
@@ -574,15 +574,15 @@ D. −20°C
 
 **Q37.** If warming exceeds about **3°C** above pre-industrial levels, which impacts are plausible?
 
-1. Terrestrial biosphere tends toward a net carbon source  
-2. Widespread coral mortality  
-3. All global wetlands permanently disappear  
-4. Cereals cannot be cultivated anywhere  
+1. Terrestrial biosphere tends toward a net carbon source 
+2. Widespread coral mortality 
+3. All global wetlands permanently disappear 
+4. Cereals cannot be cultivated anywhere 
 
-A. 1 only  
-B. 1 and 2 only  
-C. 2, 3 and 4 only  
-D. All four  
+A. 1 only 
+B. 1 and 2 only 
+C. 2, 3 and 4 only 
+D. All four 
 
 <details>
 <summary>Show answer</summary>
@@ -595,10 +595,10 @@ D. All four
 
 **Q38.** Green Climate Fund was established at:
 
-A. Durban COP  
-B. Cancun COP-16 (2010)  
-C. Paris COP-21 only as first idea  
-D. Stockholm 1972  
+A. Durban COP 
+B. Cancun COP-16 (2010) 
+C. Paris COP-21 only as first idea 
+D. Stockholm 1972 
 
 <details>
 <summary>Show answer</summary>
@@ -609,10 +609,10 @@ D. Stockholm 1972
 
 **Q39.** With reference to net-zero for 2050/2070 pathways, which is correct?
 
-A. A country must bring every emission to absolute zero.  
-B. Residual emissions are compensated by absorption and removal.  
-C. Both A and B  
-D. Neither  
+A. A country must bring every emission to absolute zero. 
+B. Residual emissions are compensated by absorption and removal. 
+C. Both A and B 
+D. Neither 
 
 <details>
 <summary>Show answer</summary>
@@ -621,13 +621,13 @@ D. Neither
 
 </details>
 
-**Q40.** Assertion (A): Climate change can increase social tension in India.  
+**Q40.** Assertion (A): Climate change can increase social tension in India. 
 Reason (R): Extreme weather frequency/intensity has serious repercussions on food security.
 
-A. Both true; R explains A  
-B. Both true; R does not explain A  
-C. A true; R false  
-D. A false; R true  
+A. Both true; R explains A 
+B. Both true; R does not explain A 
+C. A true; R false 
+D. A false; R true 
 
 <details>
 <summary>Show answer</summary>

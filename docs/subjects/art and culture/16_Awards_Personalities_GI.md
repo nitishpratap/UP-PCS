@@ -20,9 +20,9 @@ Bharat Ratna (Culture) | Sangeet Natak Akademi Awards | Lalit Kala Akademi Award
 
 | Year | Fact | Why asked | Source |
 |------|------|-----------|--------|
-| **June 2025** | Sahitya Yuva: **23** languages; **no Dogri** | UPPCS 2025 Q20 | Sahitya Akademi press note |
-| **2024–25** | 58th Jnanpith: **Rambhadracharya** (Sanskrit; cycle shared with Gulzar); first award **1965** | UPPCS 2025 Q148 | Bharatiya Jnanpith |
-| **2025** | Padma Vibhushan Art = **L. Subramaniam** | UPPCS 2025 Q96 | Padma list |
+| **June 2025** | Sahitya Yuva: **23** languages; **no Dogri** | | Sahitya Akademi press note |
+| **2024–25** | 58th Jnanpith: **Rambhadracharya** (Sanskrit; cycle shared with Gulzar); first award **1965** | | Bharatiya Jnanpith |
+| **2025** | Padma Vibhushan Art = **L. Subramaniam** | | Padma list |
 | **June 2026** | SNA announced Fellowships and Awards for **2024 and 2025** | Akademi Ratna vs Puraskar | SNA |
 
 ---
@@ -244,7 +244,7 @@ D. Sudha Murthy
 
 </details>
 
-> ** note:2025 Q20 = both true**. **Jnanpith 1965 ≠ Sahitya**. **24 ≠ 22**.
+> **Logic:** Sahitya Yuva covers **23** languages with **no Dogri** slot. **Jnanpith** began in **1965** — not the Sahitya Akademi year. Sahitya Akademi awards **24** languages, not **22**.
 
 ---
 

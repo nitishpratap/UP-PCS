@@ -291,7 +291,7 @@ Options: A. 1 and 3 B. 3 and 4 C. 2 and 3 D. 1 and 2
 - Run-of-river SHP has lower submergence than large storage dams.
 - **Ramganga (~198 MW)** is **large hydro**, not SHP.
 
-> ** note:** 2025 Q31 — Himalayan potential true; "Nepal border means zero Indian hydro" false.
+> **Logic:** Himalayan potential true; "Nepal border means zero Indian hydro" false.
 
 ---
 

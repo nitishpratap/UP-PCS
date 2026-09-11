@@ -96,7 +96,7 @@ Slogans | Newspapers & Journals | Books & Authors | Committees & Commissions | B
 | **Imperialism is dead as the Dodo** | **Clement Attlee** | Post-war British PM |
 | **Self-Respect (Suyamariyadai)** | **E.V. Ramasamy “Periyar”** | Self-Respect Movement, 1925, Tamil Nadu |
 
-> ** note:** Tilak ≠ Do or Die. Bose ≠ Inquilab. Vande Mataram ≠ Jana Gana Mana.
+> **Logic:** Tilak ≠ Do or Die. Bose ≠ Inquilab. Vande Mataram ≠ Jana Gana Mana.
 
 ---
 
@@ -121,7 +121,7 @@ This is the **press match table**. Editor stories sit with Education and Press.
 | **Commonweal** / **New India** | Annie Besant | |
 | **Sambad Kaumudi** / **Mirat-ul-Akhbar** | Rammohan Roy | |
 | **Som Prakash** | Ishwar Chandra Vidyasagar (assoc.) | |
-| **Swadesh** | — | **Gorakhpur** (2022) |
+| **Swadesh** | — | **Gorakhpur** |
 | **Bharat Bandhu** | — | **Hathras** |
 | **Satyawadi** | — | **Agra** |
 | **Shakti** | — | **Almora** |
@@ -130,7 +130,7 @@ This is the **press match table**. Editor stories sit with Education and Press.
 | **Rast Goftar** | Dadabhai Naoroji | Gujarati/English, Bombay |
 | **Hindoo Patriot** | Harish Chandra Mukherjee | Bengal; Indigo revolt coverage |
 
-**2022 Q117:** local `pyq/2022` prints **Kesari**. The standard paper is **Swadesh**. Code with Swadesh–Gorakhpur is **B** (4, 3, 1, 2).
+- **Swadesh** is the Gorakhpur paper in the standard match set; do not swap it with Tilak's **Kesari** (Pune).
 
 ---
 
@@ -170,7 +170,7 @@ This is the **books match table**. Eight syllabus titles and the 2020/2019/2021 
 | *Vital-Vidhvansak* | Gopal Baba Walangkar |
 | *Thoughts on Pakistan* | B.R. Ambedkar |
 
-**2020 Q26** code **3, 4, 1, 2** = A. **2021 Q139** Poverty… = **1901**. **2019 Q97** Economic Nationalism = **Bipan Chandra**.
+Book match set: Deportation–**Lajpat Rai**; *Gita Rahasya*–**Tilak**; *A Nation in Making*–**Banerjee**; *India Wins Freedom*–**Azad**. Naoroji’s *Poverty and Un-British Rule* = **1901**. Bipan Chandra wrote *The Rise and Growth of Economic Nationalism in India*.
 
 ---
 
@@ -208,9 +208,9 @@ This is the **books match table**. Eight syllabus titles and the 2020/2019/2021 
 | **Cabinet Mission** | 1946 | Pethick-Lawrence, Cripps, A.V. Alexander; grouping plan |
 | **Wavell Plan / Simla Conference** | 1945 | Breakdown over Muslim League parity |
 
-**2018 Q21:** Wood → Hunter → Sadler → Sargeant = **C, A, B, D**.
+- Education commission order: **Wood (1854) → Hunter (1882) → Sadler (1917–19) → Sargeant (1944)**.
 
-> ** note:** Two Hunters. **1882 education**. **1919 Punjab**.
+> **Logic:** Two Hunters. **1882 education**. **1919 Punjab**.
 
 ---
 
@@ -238,7 +238,7 @@ This is the **Acts timeline**. Full Act stories sit with Governors-General, admi
 | **1935** | GOI Act | Provincial **autonomy**; dyarchy at Centre; federation (not started) |
 | **1947** | Indian Independence Act | Partition; Dominion status; Mountbatten as first Governor-General of free India |
 
-**2019 Q19:** a Communal Award year printed as **1933** is the unmatched trap. The Award is **16 August 1932**.
+- The **Communal Award** was **16 August 1932**; **1933** is a year trap.
 
 ---
 
@@ -248,7 +248,7 @@ This is the **treaty match table**. War stories sit with Company expansion.
 
 | Treaty | Year | War / fact |
 |--------|------|------------|
-| **Aix-la-Chapelle** | **1748** | 1st Carnatic ends; **Madras returned** to English — 2025 Q67 Both |
+| **Aix-la-Chapelle** | **1748** | 1st Carnatic ends; **Madras returned** to English |
 | **Allahabad** | **1765** | Dual government / Diwani |
 | **Madras** | **1769** | 1st Anglo–Mysore (indecisive) |
 | **Salbai** | **1782** | 1st Anglo–Maratha |
@@ -265,7 +265,7 @@ This is the **treaty match table**. War stories sit with Company expansion.
 | **Turkmenchay** (Russia–Iran) | **1828** | Fuelled British fear of Russian approach to India |
 | **Shimla Agreement** (Indira–Bhutto) | **1972** | After 1971 war — **≠** 1945 Simla Conference |
 
-**2019 Q93:** Allahabad 1765, Mangalore 1784, Salbai 1782, Madras 1769 = **4, 2, 1, 3** = **C**.
+- Treaty chronology: **Allahabad (1765) → Madras (1769) → Salbai (1782) → Mangalore (1784)**.
 
 ---
 
@@ -302,9 +302,9 @@ This is the **INC session match table**. Early-nationalist story sits with Rise 
 | **1940** | **Ramgarh** | Abul Kalam Azad | 2024 Q133 chronology |
 | **1946** | Meerut | J.B. Kripalani | |
 
-**2021 Q50:** who **never** presided? **Tilak**.
+- **Bal Gangadhar Tilak** **never** presided over an INC session.
 
-> ** note:** Besant ≠ first *Indian* woman (that is **Sarojini**). Gandhi President = **Belgaum only**.
+> **Logic:** Besant ≠ first *Indian* woman (that is **Sarojini**). Gandhi President = **Belgaum only**.
 
 ---
 
@@ -314,8 +314,8 @@ This is the **revolutionary HQ match table**. Action stories sit with Swadeshi a
 
 | Organisation | Year / HQ | Person |
 |--------------|-----------|--------|
-| **Abhinav Bharat** | 1904, Nashik / London stream | **V.D. Savarkar** — 2018 Q22 |
-| **Anushilan Samiti** | Calcutta / Dhaka | Pulin Behari (Dhaka); Hardinge bomb **1912** — 2023 Q42 |
+| **Abhinav Bharat** | 1904, Nashik / London stream | **V.D. Savarkar** |
+| **Anushilan Samiti** | Calcutta / Dhaka | Pulin Behari (Dhaka); Hardinge bomb **1912** — Hardinge bomb organisation |
 | **Jugantar / Yugantar** | Bengal | Barindra Ghosh stream |
 | **India House** | London | Shyamji Krishna Varma |
 | **Ghadar** | **1913, San Francisco** | Lala Hardayal |
@@ -330,8 +330,8 @@ This is the **revolutionary HQ match table**. Action stories sit with Swadeshi a
 | **Indian Independence League** | **1942, Tokyo/Singapore** | Rash Behari Bose; precursor body for the INA |
 | **Azad Hind Fauj / INA** | **1942** (Mohan Singh), reorganised **1943** | Subhas Chandra Bose |
 
-**2018 Q22:** Abhinav Bharat = **Savarkar** (not Bhagat Singh).
-**2023 Q42:** Hardinge bomb = **Anushilan Samiti**.
+- **Abhinav Bharat** founder: **V.D. Savarkar**, not Bhagat Singh.
+- Hardinge bomb (**1912**): **Anushilan Samiti**, not Jugantar.
 
 ---
 
@@ -361,7 +361,7 @@ This is the **revolutionary HQ match table**. Action stories sit with Swadeshi a
 | **Rafi Ahmad Kidwai** | Barabanki |
 | **Acharya Narendra Dev** | Congress Socialist Party |
 
-**2018 Q95:** Lucknow–Liyaqat Ali is **NOT** matched. Lucknow = **Hazrat Mahal**; Liyaqat Ali = **Allahabad**.
+- **1857 UP map:** Lucknow = **Begum Hazrat Mahal**; **Liyaqat Ali** = **Allahabad** — never swap.
 
 ---
 
@@ -388,7 +388,7 @@ This is the **revolutionary HQ match table**. Action stories sit with Swadeshi a
 | **Vijayalakshmi Pandit** | **Allahabad**; Nehru's sister; first woman Governor (UP, 1947) | |
 | **Rajkumari Amrit Kaur** | Free India's first **Health Minister** | |
 
-**2023 Q48:** woman **not** in QI = **Shanti Ghosh**. **2020 Q24:** Rajendra Prasad **not** at 2nd RTC; **Sarojini was**.
+- **Shanti Ghosh** belongs to the **1931** Bengal revolutionary shooting, not Quit India. **Rajendra Prasad** did **not** attend the **2nd RTC**; **Sarojini Naidu** did.
 
 ---
 
@@ -417,7 +417,7 @@ This is the **Governor-General policy match table**. Full tenure cards sit with 
 | Wavell | Wavell Plan / Simla 1945 |
 | Mountbatten | 3 June Plan; last Viceroy |
 
-**2025 Q40** is a GG–reform match. Drill it against this table.
+Use this table to drill Governor-General–reform matching.
 
 ---
 
@@ -534,7 +534,7 @@ This is the **Governor-General policy match table**. Full tenure cards sit with 
 | Willingdon | Communal Award, 1932 |
 | Mountbatten | 3 June Plan; last Viceroy |
 
-> ** note:** These four tables carry the heaviest repeat weight across 2018–2025 papers. Drill them first if short on time.
+> **Logic:** These four tables carry the heaviest repeat weight across 2018–2025 papers. Drill them first if short on time.
 
 ---
 

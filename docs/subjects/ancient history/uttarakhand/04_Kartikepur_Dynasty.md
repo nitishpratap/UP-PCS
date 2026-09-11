@@ -2,8 +2,8 @@
 
 ### ★ UKPCS state card (Unit 1)
 
-> **Syllabus head:** Kartikepur dynasty (ancient UK slice).  
-> **Full Katyuri political narrative** continues under [Medieval India — Uttarakhand](../../medieval%20india/uttarakhand/index.md).  
+> **Syllabus head:** Kartikepur dynasty (ancient UK slice). 
+> **Full Katyuri political narrative** continues under [Medieval India — Uttarakhand](../../medieval%20india/uttarakhand/index.md). 
 > **Pair with:** Hiuen Tsang **Brahmapura** fact in [Kuninda and Yaudheya](03_Kuninda_and_Yaudheya.md).
 
 ---
@@ -87,10 +87,10 @@
 
 By which name did Hiuen-Tsang address the Kumaon region?
 
-A. Kartikeyapur  
-B. Brahampur  
-C. Taleshwar  
-D. Pandukeshwar  
+A. Kartikeyapur 
+B. Brahampur 
+C. Taleshwar 
+D. Pandukeshwar 
 
 <details>
 <summary>Show answer</summary>
@@ -107,10 +107,10 @@ D. Pandukeshwar
 
 **Q1.** Kartikeyapura of the Katyuri age is identified with which place?
 
-A. Haridwar  
-B. Baijnath  
-C. Dehradun  
-D. Kashipur  
+A. Haridwar 
+B. Baijnath 
+C. Dehradun 
+D. Kashipur 
 
 <details>
 <summary>Show answer</summary>

@@ -70,10 +70,10 @@
 
 Which record is not maintained by the Panchayats in Uttarakhand?
 
-A. Health register  
-B. Family register  
-C. Birth-death registration register  
-D. Grant register  
+A. Health register 
+B. Family register 
+C. Birth-death registration register 
+D. Grant register 
 
 <details>
 <summary>Show answer</summary>
@@ -88,10 +88,10 @@ D. Grant register
 
 Where was the first Asian Mayors' Conference held in Uttarakhand in 2006?
 
-A. Haridwar  
-B. Mussoorie  
-C. Dehradun  
-D. Rishikesh  
+A. Haridwar 
+B. Mussoorie 
+C. Dehradun 
+D. Rishikesh 
 
 <details>
 <summary>Show answer</summary>

@@ -148,8 +148,6 @@ Yuva Puraskar is Sahitya Akademi’s young-writer prize (under 35), not Jnanpith
 - ***Malavikagnimitram*** is often treated as Kalidasa’s **first** play. It is a five-act love story of Shunga king **Agnimitra** of Vidisha (son of Pushyamitra’s line) and Malavika.
 - These works are **not his**. *Shringara Shataka* is **Bhartrihari**. *Uttararamacharita* is Bhavabhuti. *Mrichchhakatika* is Shudraka. *Mudrarakshasa* is Vishakhadatta. ***Janakiharanam*** is **Kumaradasa**, not Kalidasa.
 
-> ** note:** UPPCS **2025 Q48** — only *Shringara Shataka* is not Kalidasa among those three options.
-
 **PYQ — UPPCS Prelims 2025, Q48**
 
 Which of the following works was NOT written by Kalidasa?
@@ -235,8 +233,6 @@ D. Only 1
 - **Jayadeva** wrote the *Gita Govinda*.
 - **Kshemendra** wrote *Brihatkathamanjari*, also in Kashmir, as an abridgement of Brihatkatha.
 
-> ** note:** UPPCS **2025 Q86** code **3 4 1 2**. Kathasaritsagara ≠ Kshemendra.
-
 **PYQ — UPPCS Prelims 2025, Q86**
 
 Match List-I with List-II.
@@ -287,8 +283,6 @@ D. 3 4 2 1
 - **Ayam Atma Brahma** is from the Mandukya.
 - The six Vedangas are Shiksha, Kalpa, Vyakarana, Nirukta, Chandas and Jyotisha.
 - The **2018 trap** is that option “Kathak” is a Krishna-Yajur recension name, **not** the dance.
-
-> ** note:** UPPCS **2018 Q13** — Shukla Yajurveda Samhita = **Vajasaneyi** (paper spelling *Vajasanami*).
 
 **PYQ — UPPCS Prelims 2018, Q13**
 
@@ -354,8 +348,6 @@ D. Kathak
 - **Bhagavata Purana** is the Krishna-bhakti peak text.
 - **Markandeya** holds the Devi Mahatmya.
 - Upapurana names are not the first thing to raata.
-
-> ** note:** UPPCS **2023 Q29** — both Maurya–Vishnu and Gupta–Vayu statements are treated as correct.
 
 **PYQ — UPPCS Prelims 2023, Q29**
 
@@ -449,8 +441,6 @@ Assamese, Bengali, Bodo, Dogri, Gujarati, Hindi, Kannada, Kashmiri, Konkani, Mai
 - Growth ran from 14 in 1950, then Sindhi in 1967 (21st Amendment), then Konkani, Manipuri and Nepali in 1992 (71st), then Bodo, Dogri, Maithili and Santhali in 2003 (92nd), making **22**.
 - Sahitya Akademi recognises **24** languages for awards (English and Rajasthani extra). Do not equate that with Schedule 8.
 - Language articles are **343–351** in Part XVII. The official language of the Union is Hindi in Devanagari. The Eighth Schedule has **22**.
-
-> ** note:** UPPCS **2025 Q102** — Bhojpuri is the one **not** in the Eighth Schedule among Nepali, Dogri, Bodo, Bhojpuri.
 
 **PYQ — UPPCS Prelims 2025, Q102**
 
@@ -892,8 +882,8 @@ D. Socrates
 **Q-GC2. UP RO/ARO Mains 2017**
 
 Match List I with List II:
-A Ashtadhyayi  B Mahabhashya  C Nirukta  D Varttika
-1. Yaska  2. Katyayan  3. Patanjali  4. Panini
+A Ashtadhyayi B Mahabhashya C Nirukta D Varttika
+1. Yaska 2. Katyayan 3. Patanjali 4. Panini
 
 A. 4 3 1 2
 
@@ -954,7 +944,7 @@ D. Padmagupta
 **Q-GC5. UPPCS Mains 2009**
 
 Which of the following classical works of literature were written during the Gupta Era ?
-1. Amarakosh  2. Kamasutra  3. Meghaduta  4. Mudrarakshasa
+1. Amarakosh 2. Kamasutra 3. Meghaduta 4. Mudrarakshasa
 
 A. 1 and 2 only
 
@@ -1095,8 +1085,8 @@ D. Sufinama
 **Q-GC12. UPPCS Pre 1992**
 
 Match the following:-
-A. Panini  B. Vatsyayana  C. Chanakya  D. Kalhana
-(1) Kamasutra  (2) Rajatarangini  (3) Ashtadhyayi  (4) Arthashastra
+A. Panini B. Vatsyayana C. Chanakya D. Kalhana
+(1) Kamasutra (2) Rajatarangini (3) Ashtadhyayi (4) Arthashastra
 
 A. 3 1 4 2
 
@@ -1197,8 +1187,8 @@ D. Bilhana
 **Q-GC17. UPPCS Mains 2006**
 
 Match List-I with List-II:
-A. Bharavi  B. Harsha  C. Kalidasa  D. Rajasekhara
-1. Karpurmanjari  2. Kiratarjuniyam  3. Malavikagnimitram  4. Nagananda
+A. Bharavi B. Harsha C. Kalidasa D. Rajasekhara
+1. Karpurmanjari 2. Kiratarjuniyam 3. Malavikagnimitram 4. Nagananda
 
 A. 1 2 3 4
 
@@ -1241,7 +1231,7 @@ E. None of the above/More than one of the above
 **Q-GC19. RAS/RTS Pre 2016**
 
 Which of the following Sanskrit works has taken up their theme from the Mahabharata?
-(i) Naishdhiyacharita  (ii) Kiratarjuniyam  (iii) Sisupalavadha  (iv) Dasakumaracharita
+(i) Naishdhiyacharita (ii) Kiratarjuniyam (iii) Sisupalavadha (iv) Dasakumaracharita
 
 A. (ii) and (iii)
 
@@ -1262,8 +1252,8 @@ D. (i), (ii) and (iii)
 **Q-GC20. IAS Pre 1996**
 
 Match List- I with List- II:
-A. Vishakhadatta  B. Varahamihira  C. Charaka  D. Brahmagupta
-1. Medicine  2. Drama  3. Astronomy  4. Mathematics
+A. Vishakhadatta B. Varahamihira C. Charaka D. Brahmagupta
+1. Medicine 2. Drama 3. Astronomy 4. Mathematics
 
 A. 1 3 4 2
 
@@ -1284,8 +1274,8 @@ D. 3 4 1 2
 **Q-GC21. BPSC 69th Pre 2023**
 
 Match List-I with List-II :
-A. Charaka  B. Brahmagupta  C. Varahamihira  D. Vishakhadatta
-1. Mathematics  2. Medicine  3. Playwright  4. Astrology
+A. Charaka B. Brahmagupta C. Varahamihira D. Vishakhadatta
+1. Mathematics 2. Medicine 3. Playwright 4. Astrology
 
 A. 2 1 4 3
 
@@ -1571,8 +1561,8 @@ D. 2, 3 and 4
 **Q-GC35. UP UDA/LDA Pre 2002**
 
 Match List- I with List- II:
-A. Amir Khusrau  B. Kalidasa  C. Harisena  D. Banabhatta
-1. Chandra Gupta II  2. Samudra Gupta  3. Harshavardhana  4. Allauddin Khalji
+A. Amir Khusrau B. Kalidasa C. Harisena D. Banabhatta
+1. Chandra Gupta II 2. Samudra Gupta 3. Harshavardhana 4. Allauddin Khalji
 
 A. 1 2 3 4
 
@@ -1693,7 +1683,7 @@ D. Harshavardhana
 **Q-GC41. UP RO/ARO Pre 2014**
 
 Which of the following works were authored by Harsha?
-1. Priyadarshika  2. Nagananda  3. Harshacharita  4. Ratnavali
+1. Priyadarshika 2. Nagananda 3. Harshacharita 4. Ratnavali
 
 A. 1, 2, 3 and 4
 
@@ -1822,8 +1812,8 @@ D. 1, 2 and 3
 **Q-GC47. IAS Pre 1997**
 
 Match List- I with List- II:
-A. Varahamihira  B. Vishakhadatta  C. Sudraka  D. Bilhana
-1. Prabandha Chintamani  2. Mrichchha-Katikam  3. Brihat-Samhita  4. Devi-Chandraguptam  5. Vikramankadevacharita
+A. Varahamihira B. Vishakhadatta C. Sudraka D. Bilhana
+1. Prabandha Chintamani 2. Mrichchha-Katikam 3. Brihat-Samhita 4. Devi-Chandraguptam 5. Vikramankadevacharita
 
 A. 3 4 5 2
 
@@ -2089,8 +2079,8 @@ D. Lakshmana Sena
 **Q-GC60. UP Lower Sub Pre 2002**
 
 Match the List- I with List - II:
-A. Ashtanga - Samgraha  B. Das rupaka  C. Lilavati  D. Mahabhasya
-1. Play  2. Grammar  3. Maths  4. Medical
+A. Ashtanga - Samgraha B. Das rupaka C. Lilavati D. Mahabhasya
+1. Play 2. Grammar 3. Maths 4. Medical
 
 A. 3 2 1 4
 
@@ -2191,8 +2181,8 @@ D. Raidas
 **Q-GC65. UP Lower / UPPCS Spl**
 
 Match the List- I with List- II:
-A. Sarvavarma  B. Sudraka  C. Vigyaneshwara  D. Kalhana
-1. Mitakshara  2. Rajtarangini  3. Mrichchhakatikam  4. Katantra
+A. Sarvavarma B. Sudraka C. Vigyaneshwara D. Kalhana
+1. Mitakshara 2. Rajtarangini 3. Mrichchhakatikam 4. Katantra
 
 A. 3 4 2 1
 
@@ -2213,8 +2203,8 @@ D. 4 2 1 3
 **Q-GC66. UPPCS Pre 2024**
 
 Match List-I with List-II:
-A. Devana Bhatta  B. Hemadri  C. Madhvacharya  D. Ballal Sena
-1. Daan Sagar  2. Parashar Madhav  3. Chaturvarga Chintamani  4. Smriti Chandrika
+A. Devana Bhatta B. Hemadri C. Madhvacharya D. Ballal Sena
+1. Daan Sagar 2. Parashar Madhav 3. Chaturvarga Chintamani 4. Smriti Chandrika
 
 A. 2 4 1 3
 

@@ -178,7 +178,7 @@ with 1. Madhya Pradesh 2. Uttar Pradesh 3. Assam 4. West Bengal
 | 17 | Seshachalam Hills | Andhra Pradesh | 2010 | National only |
 | 18 | Panna | Madhya Pradesh | **2011** | Newest; WNBR 2020 |
 
-> ** note:** Agasthyamalai paired only with Kerala is accepted as correct in 2025 Q144 (also spans Tamil Nadu).
+> **Logic:** **Agasthyamalai** spans **Kerala and Tamil Nadu** — pairing it with Kerala alone is still accepted when Tamil Nadu is not an option.
 
 ---
 
