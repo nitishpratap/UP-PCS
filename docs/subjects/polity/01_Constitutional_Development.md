@@ -96,6 +96,8 @@
 | Flag Ad hoc Committee | **Rajendra Prasad** (23 June 1947) | Credit Kripalani / Ambedkar as chair | ध्वज = प्रसाद |
 | Election Commission source | **Indian original** | Say borrowed from Ireland/UK/USA | निर्वाचन आयोग स्वदेशी |
 | CA strength breakdown | **292 + 93 + 4 = 389** | Call total 296+93 only | 292+93+4 |
+| Calligrapher vs Drafting Chair | **Prem Behari Narain Raizada** (calligrapher) vs **Ambedkar** (Drafting Chair) | Say Ambedkar calligraphed the manuscript | रायज़ादा = सुलेखक |
+| English vs Hindi Calligrapher | **Prem Behari Narain Raizada** (English) vs **Vasant Krishan Vaidya** (Hindi) | Assume same person wrote both | अंग्रेज़ी = रायज़ादा; हिंदी = वैद्य |
 ---
 
 ## N.1 Company rule — Regulating Act to Charter 1853
@@ -673,7 +675,20 @@ D. 2, 4, 1, 3
 - After **15 August 1947** the CA also functioned as the **Provisional Parliament** of the Dominion — dual role (constitution-making under Rajendra Prasad; legislative sittings under **G.V. Mavlankar** as Speaker).
 - **Last meeting: 24 January 1950** — also adopted **Jana Gana Mana** (National Anthem) and **Vande Mataram** (National Song); members signed the Constitution; Rajendra Prasad elected first President.
 - First President of India: **Rajendra Prasad** · First Prime Minister: **Jawaharlal Nehru**.
-- Official seal of the Constituent Assembly showed an **elephant**.
+- Official seal of the Constituent Assembly showed an **elephant (*Gaja*)**.
+
+### Key Functionaries, Calligraphy & Illumination of the Constitution
+
+| Role / Element | Person / Institution | Specific Fact (UPPCS Trap Lock) |
+|----------------|----------------------|----------------------------------|
+| **Constitutional Adviser** | **Sir B.N. Rau** | Prepared the initial working draft of the Constitution. |
+| **Secretary to Constituent Assembly** | **H.V.R. Iyengar** | Senior ICS officer; chief administrative executive of the Assembly Secretariat. |
+| **Chief Draftsman** | **S.N. Mukherjee** | Renowned for drafting complex constitutional and legal clauses with extraordinary precision. |
+| **Calligrapher (English Original)** | **Prem Behari Narain Raizada** | Handwrote the entire original Constitution in a flowing italic style with a calligraphic nib (no typewriter or printing was used). He charged no fee, asking only to write his name on every page and his grandfather's name on the last page. |
+| **Illumination & Decoration (English)** | **Nand Lal Bose & Beohar Rammanohar Sinha** | Celebrated artists from Shantiniketan (Kala Bhavana); decorated borders and margins. Beohar Rammanohar Sinha specifically illuminated the famous **Preamble** page. |
+| **Calligrapher (Hindi Original)** | **Vasant Krishan Vaidya** | Handwrote the original Hindi translation/version of the Constitution. |
+| **Illumination & Decoration (Hindi)** | **Nand Lal Bose** | Illuminated and decorated the Hindi manuscript pages. |
+| **Official Seal / Emblem of CA** | **Elephant (*Gaja*)** | Adopted as the official emblem and seal of the Constituent Assembly. |
 
 ### Women members
 
