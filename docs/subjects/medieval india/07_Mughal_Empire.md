@@ -93,8 +93,8 @@ Babur | Establishment of the Mughal Empire | Literary Contribution of Babur | Ma
 - The **Baburnama** mentions Hindu states **Vijayanagara** and **Mewar** among Indian powers he heard about.
 - **Abdur Rahim Khan-i-Khanan** later translated the Baburnama into Persian.
 - **Mir Baqi**, a commandant under Babur, built the **Babri Masjid** at Ayodhya — a sensitive UP fact to state carefully.
-- Babur died on **26 December 1530** at Agra. He was first buried there, then moved to **Bagh-e-Babur, Kabul** — the tomb city in **UPPCS Prelims 2025 Q57**.
-- In **UPPCS Prelims 2025 Q3**, Assertion A (Babur wrote Baburnama in Turki) is true, but Reason R (Turki was the Mughal court language) is false because the court language was **Persian**; the answer is **C**.
+- Babur died on **26 December 1530** at Agra. He was first buried there, then moved to **Bagh-e-Babur, Kabul**.
+- Babur wrote the **Baburnama** in **Chagatai Turki**. The later Mughal **court language** was **Persian**, not Turki.
 - Babur’s early land assignments were **iqta-like**. The full **mansabdari** system belongs to **Akbar**, not Babur.
 
 > ** note:** Establishment year = **1526 Panipat**, not Khanwa 1527.
@@ -171,10 +171,10 @@ D. Both true, R explains A
 | **1659** | **Deorai** | Aurangzeb vs Dara | Ajmer |
 | **1707** | **Jajau** | Bahadur Shah I vs Azam Shah | After Aurangzeb |
 
-- **UPPCS Prelims 2025 Q79** asks to arrange Kannauj, Daurah, Samugarh, and Chausa. The correct chronological order is Daurah (1532), Chausa (1539), Kannauj (1540), Samugarh (1658); the answer is **D**.
+- Chronology of the four often-swapped fights is **Daurah (1532)** → **Chausa (1539)** → **Kannauj / Bilgram (1540)** → **Samugarh (1658)**.
 - **Daurah** and **Dharmat** are different battles. **Daurah (1532)** was fought by **Humayun** against Afghan chiefs. **Dharmat (April 1658)** was Aurangzeb’s battle against Jaswant Singh.
-- **UPPCS Prelims 2019 Q13** arranges Sarnal, Bilgram, Dharmat, and Jajau. Bilgram (1540) comes before Sarnal (1572), then Dharmat (1658), then Jajau (1707); the answer is **A**.
-- **UPPCS Prelims 2022 Q103** arranges Aurangzeb’s succession events. The order is Shuja beaten near Banaras, Dharmat, Samugarh, Deorai; the answer is **A**.
+- Another common order is **Bilgram (1540)** → **Sarnal (1572)** → **Dharmat (1658)** → **Jajau (1707)**.
+- Aurangzeb’s succession sequence runs **Shuja beaten near Banaras** → **Dharmat** → **Samugarh** → **Deorai**.
 
 ### PYQ — Battle chronology (2025 Q79 / 2019 Q13 / 2022 Q103)
 
@@ -219,7 +219,7 @@ Options: A.2-4-3-1 | B.4-2-1-3 | C.4-2-3-1 | D.2-4-1-3
 
 **Nature:** The Mughal Empire was a centralised agrarian-military state with a Persianate court. **Mansab** nobility drew salary from **jagir** assignment.
 
-- **UPPCS Prelims 2021 Q126** states that the Mughal Empire was originally a **military state** (Assertion A, true) and that the central government’s vitality depended on **military power** (Reason R, true). R correctly explains A; the answer is **A**.
+- The early Mughal state was essentially a **military state**. The strength of the central government rested on **military power**.
 
 ### PYQ — Military state A/R
 
@@ -252,7 +252,7 @@ D. A false, R true
 - The nobility was **composite**: Turani, Irani, Indian Muslim, and **Rajput** elites served together.
 - **Mansabdari** (Akbar) was the official nobility system. Each mansabdar held dual rank: **zat** (personal status and pay) and **sawar** (cavalry obligation).
 - Salary came from a **jagir** or cash. **Khalsa** was crown land directly under the emperor. Jagirs were **rotated**, not permanently fixed.
-- **UPPCS Prelims 2019 Q92**: Statement 1 (mansabdari started under Akbar) is **true**. Statement 2 (mansabdari was hereditary) is **false**. The answer is **A (1 only)**.
+- **Mansabdari** began under **Akbar**. Mansabs were **not hereditary** — jagirs were rotated and ranks depended on imperial favour.
 - **Dagh** meant horse branding. **Chehra** was the descriptive roll of troopers.
 - Jahangir introduced **du-aspah sih-aspah**, an extra horse obligation tied to the sawar rank.
 - The highest common noble ceiling was about **7000 zat** (the Man Singh class). Princes held higher ranks.
@@ -280,7 +280,7 @@ D. A false, R true
 ## 7.6 Currency
 
 - **Sher Shah** standardised the **rupiya** (silver, about **178 grains**), the **dam** (copper), and the **mohur** (gold). Akbar continued this system.
-- **UPPCS Prelims 2019 Q12**: Assertion A (Akbar regulated currency like Sher Shah) is true. Reason R (the chief copper coin was the **Dam**) is also true and explains A; the answer is **A**.
+- Akbar regulated currency on the same lines as **Sher Shah**. The chief copper coin remained the **Dam**.
 - One **dam** was worth about **1/40** of a rupiya.
 - Akbar issued **Ilahi** coins in the 1580s. Jahangir minted **zodiac** portrait coins.
 - Major mints included **Agra, Delhi, and Lahore**, with more added as subahs grew.
@@ -317,7 +317,7 @@ D. A false, R true
 **Akbar architecture (Fatehpur Sikri 1571–85, Agra district):**
 
 - Akbar made Fatehpur Sikri his capital after **Shaikh Salim Chishti**. He abandoned it around **1585** because of water shortage.
-- **Buland Darwaza** commemorated the **Gujarat victory of 1572**. In **UPPCS Prelims 2025 Q49**, Assertion A (Akbar built it at Sikri) is true, but Reason R (built for Jahangir’s birth) is false; the answer is **C**.
+- **Buland Darwaza** at Fatehpur Sikri commemorated Akbar’s **Gujarat victory of 1572**. It was **not** built to mark Jahangir’s birth.
 - Key Sikri buildings include **Panch Mahal** (five storeys), Jodha Bai palace, Jama Masjid, and **Ibadat Khana** (religious debates from 1575).
 - Akbar rebuilt **Agra Fort** in red sandstone. He built **Allahabad/Ilahabad fort in 1583** — a major UP key fact.
 
@@ -325,8 +325,8 @@ D. A false, R true
 
 - **Humayun’s Tomb** at Delhi became the Taj prototype. **Akbar’s tomb** stands at Sikandra. **Itimad-ud-Daula** (Nur Jahan’s father) shows early marble inlay.
 - The **Taj Mahal (1632–53)** followed Mumtaz’s death in **1631**. Shah Jahan built Delhi **Red Fort (1639–48)** and the Jama Masjid.
-- **Nahr-i-Bihisht** in Shahjahanabad drew water from the restored **Firuz Rajabwah**. **UPPCS Prelims 2020 Q42** asks this canal name; the answer is **C**.
-- **UPPCS Prelims 2019 Q91** arranges monuments chronologically: Atala Jaunpur, Sher Shah’s tomb at Sasaram, Humayun’s Tomb at Delhi, then **Rabia Daurani / Bibi ka Maqbara** at Aurangabad. The answer is **B**.
+- The palace canal **Nahr-i-Bihisht** in Shahjahanabad drew water from the restored **Firuz Shah Rajabwah**.
+- Monument chronology often tested is **Atala Masjid, Jaunpur** → **Sher Shah’s tomb, Sasaram** → **Humayun’s Tomb, Delhi** → **Rabia Daurani / Bibi ka Maqbara, Aurangabad**.
 - Aurangzeb lies in a simple grave at **Khuldabad**. **Bibi ka Maqbara** at Aurangabad was built for Rabia Daurani.
 
 **Painting:**
@@ -423,10 +423,10 @@ D. Both true, R explains A
 - Jahangir introduced **du-aspa sih-aspa** extra horse obligation for mansabdars.
 - Jahangir installed the **Chain of Justice** at Agra Fort.
 - The **Treaty of Chittor (1615)** settled Mewar under **Amar Singh**. He captured **Kangra in 1620–22**.
-- **Captain William Hawkins** reached India in **1608** with a James I letter for the EIC. He spoke **Turkish** well and was called **“English Khan”**. **UPPCS Prelims 2023 Q31** traps on “came **1611**”; only statement 2 is true, so the answer is **B**.
+- **Captain William Hawkins** reached India in **1608** with a James I letter for the EIC. He spoke **Turkish** well and was called **“English Khan”**. The year **1611** is a common wrong date for his arrival.
 - Jahangir banned **tobacco**.
 - **Sir Thomas Roe** stayed at Jahangir’s court from **1615 to 1619**.
-- **UPPCS Prelims 2021 Q75** arranges travellers: Ralph Fitch, Hawkins, Nicholas Downton, Roe. The correct arrival order is Fitch, Hawkins, Downton, Roe; the answer is **A**.
+- The usual European-traveller arrival order is **Ralph Fitch** → **Hawkins** → **Nicholas Downton** → **Roe**.
 - Jahangir’s tomb stands at **Shahdara, Lahore**.
 - Jahangir ordered the execution of Guru Arjan in **1606** (Sikh topic).
 
@@ -458,11 +458,9 @@ D. Both true, R explains A
 2. At **Dharmat in April 1658**, Aurangzeb defeated **Jaswant Singh**.
 3. At **Samugarh in May 1658**, Aurangzeb defeated **Dara**.
 4. At **Deorai in 1659**, Aurangzeb finally crushed Dara near Ajmer.
-5. **Jajau in 1707** came **after** Aurangzeb’s death, when Bahadur Shah fought Azam Shah. It is the last item in **UPPCS Prelims 2019 Q13**.
+5. **Jajau in 1707** came **after** Aurangzeb’s death, when Bahadur Shah fought Azam Shah.
 
-- **UPPCS Prelims 2022 Q103** tests this succession sequence. The correct order is Shuja beaten near Banaras, Dharmat, Samugarh, Deorai; the answer is **A**.
-
-**Deccan:** Aurangzeb annexed Bijapur in **1686** and **Golkonda in 1687**. The last Qutb Shah ruler was **Abul Hasan Qutb Shah** — the fact in **UPPCS Prelims 2020 Q34**, answer **A**.
+- Aurangzeb annexed Bijapur in **1686** and **Golkonda in 1687**. The last Qutb Shah ruler was **Abul Hasan Qutb Shah**.
 - Aurangzeb was called **Zinda Peer** (living saint) by followers.
 - The **Treaty of Purandar (1665)** with **Raja Jai Singh** opened the Maratha front.
 - **Bibi ka Maqbara** at Aurangabad and **Moti Masjid (Delhi)** are later Shah Jahan–family monuments linked to this succession era.
@@ -474,7 +472,7 @@ D. Both true, R explains A
 
 ## 7.13 Tombs, Families, Later Mughals
 
-**Tombs — UPPCS Prelims 2025 Q57** matches Babur to **Kabul**, Humayun to **Delhi**, Jahangir to **Lahore**, and Shah Jahan to **Agra**. The answer is **A**.
+**Emperor–tomb cities:** **Babur** at **Kabul**, **Humayun** at **Delhi**, **Jahangir** at **Lahore**, and **Shah Jahan** at **Agra**.
 
 ### PYQ — Emperor tomb match
 

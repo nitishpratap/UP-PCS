@@ -177,7 +177,7 @@ D. Jarib — A type of tax
 - The **dam** was the copper coin, worth about **1/40** of a rupiya.
 - The **mohur** was the gold coin.
 - He fixed weights and purity across mints at major towns.
-- **UPPCS Prelims 2019 Q12** states that Akbar regulated currency like Sher Shah (Assertion A, true) and that the chief copper coin remained the **Dam** (Reason R, true). R explains A; the answer is **A**.
+- Akbar later regulated currency on the same lines; the chief copper coin remained the **Dam**.
 
 ### PYQ — Akbar–Sher Shah currency A/R
 
@@ -209,7 +209,7 @@ A. Both true and R explains A | B. Both true, R not explanation | C. A true, R f
 - At **Sammel / Giri-Sumel in 1544**, Sher Shah fought **Rao Maldeo Rathore of Marwar**.
 - Sher Shah used **forged letters** so Maldeo doubted his loyal Rathore captains **Jaita (Jayata)** and **Kumpa**. Maldeo withdrew, but the two Rathores stayed and died fighting.
 - Sher Shah later said he nearly lost the **“empire of Hindustan for a handful of bajra/millets.”**
-- **UPPCS Prelims 2022 Q95** asks where Jayata and Kumpa came from. The answer is **C (Marwar)**, not Mewar, Bundelkhand, or Malwa.
+- **Jaita (Jayata)** and **Kumpa** were Rathore captains of **Marwar**, not of Mewar, Bundelkhand, or Malwa.
 
 ---
 
