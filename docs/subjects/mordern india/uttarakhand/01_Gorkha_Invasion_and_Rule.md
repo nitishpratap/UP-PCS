@@ -45,6 +45,17 @@
 
 ---
 
+## Must-Score Facts
+
+1. Gorkha entry into Kumaon ≈ **1790**; Garhwal climax ≈ **1804** (Pradyuman Shah at Khurbura); war with Company **1814–16**.
+2. **Amar Singh Thapa** = western Gorkha commander memory; Gillespie dies at **Nalapani**; Balbhadra defends; Ochterlony ≠ Dehradun column.
+3. **Subba** = governor; revenue + **begar** are the harsh-rule memories that later bridge Coolie-Begar.
+4. Sugauli / Segauli → British Kumaon / E. Garhwal + Tehri for Sudarshan Shah.
+5. Judge = **Vichari**; workers = **Sabha**; **Divya** = ordeal.
+6. Do not place Chand Char Aal facts inside Gorkha admin cards.
+
+---
+
 ## 1.1 Causes — why the Gorkhas entered the hills
 
 - After consolidating power in Nepal under the Shah–Thapa system, Gorkha armies pushed west into the central Himalaya.
@@ -115,17 +126,6 @@
 - The **Subba** is the provincial / district revenue–administrative head, not the court judge.
 - Heavy revenue and **begar** sit beside this court vocabulary as the social burden of Gorkha rule.
 - UKPCS 2025 tested the three-statement court set: Vichari and Sabha correct; Divya-as-officer wrong.
-
----
-
-## Must-Score Facts
-
-1. Gorkha entry into Kumaon ≈ **1790**; Garhwal climax ≈ **1804** (Pradyuman Shah at Khurbura); war with Company **1814–16**.
-2. **Amar Singh Thapa** = western Gorkha commander memory; Gillespie dies at **Nalapani**; Balbhadra defends; Ochterlony ≠ Dehradun column.
-3. **Subba** = governor; revenue + **begar** are the harsh-rule memories that later bridge Coolie-Begar.
-4. Sugauli / Segauli → British Kumaon / E. Garhwal + Tehri for Sudarshan Shah.
-5. Judge = **Vichari**; workers = **Sabha**; **Divya** = ordeal.
-6. Do not place Chand Char Aal facts inside Gorkha admin cards.
 
 ---
 

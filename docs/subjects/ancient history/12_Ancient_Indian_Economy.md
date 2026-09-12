@@ -17,6 +17,24 @@ Taught in time-order: no coins in IVC → Vedic nishka → punch-marked silver �
 
 ---
 
+## Confused Pairs
+
+| A | B | Difference | Hindi |
+|---|----|------------|-------|
+| Punch-marked | Gupta dinara | First **silver** coins vs later **gold** prestige | पंच-मार्क / दीनार |
+| Dinara | Rupaka | Gupta **gold** vs CG II **silver** (~33 grains) | दीनार / रूपक |
+| Nishka | Karshapana | Vedic gold **unit** vs punch-marked **coin** | निष्क / कार्षापण |
+| Shreni | Manigrama | General craft guild vs **foreign** trade (2018) | श्रेणी / मणिग्राम |
+| Nanadesi | Manigrama | Merchants of **many lands** vs overseas **Manigrama** | नानादेशी / मणिग्राम |
+| Lothal | Muziris | Harappan **dock** vs Sangam–Roman **pepper** port | लोथल / मुज़िरिस |
+| Barygaza | Barbarikon | **Broach** vs **Indus-mouth** in Periplus | भरूच / बारबारिकोन |
+| Tamralipti | Broach | East Ganga mouth vs west Narmada mouth | ताम्रलिप्ति / भरूच |
+| Uttarapatha | Dakshinapatha | NW–Ganga highway vs north–**Deccan** | उत्तरापथ / दक्षिणापथ |
+| Port | Entrepot | Landing point vs **warehouse / redistributor** | बंदरगाह / एंट्रेपो |
+| Urban | Pastoral | IVC (2020) vs **Rigvedic** | नगरीय / पशुपालक |
+
+---
+
 ## Consolidated — 30 Must-Score Facts
 
 1. Economy match ladder: **Indus = Urban**, **Rigvedic = Pastoral**, **Later Vedic = Agrarian**, and the medieval slot is **landlordism**. The Indus uses weights and seals but has **no coins**.
@@ -49,24 +67,6 @@ Taught in time-order: no coins in IVC → Vedic nishka → punch-marked silver �
 28. Economy type changes by age: pastoral cattle wealth in the Rigveda, agrarian dues later, then coin-and-town trade from the sixth century BCE onward.
 29. An **amphora** is a tall Roman jar with a long neck and **two handles**, used for wine or oil — a classic Arikamedu find type.
 30. **Tagara** sat on the inland trade route connecting **Kalyan** with **Vengi**.
-
----
-
-## Confused Pairs
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Punch-marked | Gupta dinara | First **silver** coins vs later **gold** prestige | पंच-मार्क / दीनार |
-| Dinara | Rupaka | Gupta **gold** vs CG II **silver** (~33 grains) | दीनार / रूपक |
-| Nishka | Karshapana | Vedic gold **unit** vs punch-marked **coin** | निष्क / कार्षापण |
-| Shreni | Manigrama | General craft guild vs **foreign** trade (2018) | श्रेणी / मणिग्राम |
-| Nanadesi | Manigrama | Merchants of **many lands** vs overseas **Manigrama** | नानादेशी / मणिग्राम |
-| Lothal | Muziris | Harappan **dock** vs Sangam–Roman **pepper** port | लोथल / मुज़िरिस |
-| Barygaza | Barbarikon | **Broach** vs **Indus-mouth** in Periplus | भरूच / बारबारिकोन |
-| Tamralipti | Broach | East Ganga mouth vs west Narmada mouth | ताम्रलिप्ति / भरूच |
-| Uttarapatha | Dakshinapatha | NW–Ganga highway vs north–**Deccan** | उत्तरापथ / दक्षिणापथ |
-| Port | Entrepot | Landing point vs **warehouse / redistributor** | बंदरगाह / एंट्रेपो |
-| Urban | Pastoral | IVC (2020) vs **Rigvedic** | नगरीय / पशुपालक |
 
 ---
 

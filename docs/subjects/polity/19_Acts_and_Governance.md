@@ -30,6 +30,36 @@
 ---
 
 
+## Confused Pairs
+
+| Term A | Term B | Core difference |
+|--------|--------|-----------------|
+| **RTI 2005** | **RTE 2009** | Information statute (MKSS) | Education statute (86th / 21A) |
+| **NFSA 2013** | **RTE 1 Apr 2010** | Food law; **not** 5 Jul 2010 | School law commencement |
+| **PESA 1996** | **73rd 1993** | Extends Part IX to **5th Sch.** | Constitutional PRI skeleton |
+| **CPA 1986** | **CPA 2019** | Old COPRA | CCPA + product liability + e-com |
+| **AITUC-era labour Acts** | **Labour Codes** | Many old statutes | **Four** Codes (Wages 2019 + three 2020) |
+| **POCSO** | **JJ Act** | Sexual offences, child **<18** | Children in conflict / need of care |
+| **PoA 1989** | **PCR 1955** | Atrocities (heavier) | Civil Rights / untouchability |
+| **NDMA** | **MHA DM Division** | Authority; **PM** chairs | Nodal **division** in Home |
+| **NDRF (force)** | **NDRF (fund)** | Battalions under MHA | National Disaster **Response Fund** (DM Act) |
+| **RPA 1950** | **RPA 1951** | Rolls / seats | Conduct / petitions / 29A |
+| **EPA 1986** | **NGT 2010** | Umbrella environment statute | Green tribunal |
+| **POSH 2013** | **POCSO 2012** | Workplace; ICC if **≥10** workers | Child **<18** sexual offences |
+| **NeGP 2006** | **Digital India 2015** | 27→ MMPs plan | Umbrella; **e-Kranti** is pillar **5** |
+| **Citizen Charter** | **Sevottam** | Promise document (1997) | 2006 **3-module** delivery model that *uses* the Charter |
+| **Code of Conduct** | **Code of Ethics** | CCS Rules **1964** — enforceable | Values / Nolan; 2nd ARC wanted a separate ethics code |
+| **Mission Karmayogi** | **Adi Karmayogi 2025** | DoPT / iGOT / CBC | **MoTA** tribal responsive-governance drive |
+| **Social audit** | **CAG audit** | Gram Sabha / MGNREGA s.17 | Constitutional auditor (Art. **148**) |
+| **1st ARC** | **2nd ARC** | Morarji **1966–70**, **20** reports | Moily **2005–09**, **15** reports |
+| **G2C** | **G2G** | Citizen services (UMANG, DigiLocker) | Intra-government (e-Office, PFMS) |
+| **Citizen Charter** | **RTS / Janhit Guarantee** | DARPG promise, not a Union Act | **State statute** (MP **2010**, UP **2011**) with officer-penalty |
+| **CPGRAMS** | **DPG** | DARPG portal for all ministries | Cabinet Secretariat **1988** residual window |
+| **PRAGATI** | **Digital India** | PMO monthly ICT review (**2015**) | MeitY programme, **9 pillars** |
+| **Conduct 1964** | **CCA 1965** | Behaviour / gifts / politics | How to punish |
+
+---
+
 ## Consolidated — 32 Must-Score Facts
 
 1. Under the Disaster Management Act **2005**, the **NDMA** is chaired by the **Prime Minister**, the **SDMA** by the **Chief Minister**, and the **DDMA** by the **District Magistrate**. The **NEC** is chaired by the **Cabinet Secretary**. The nodal ministry is **Home**.
@@ -64,36 +94,6 @@
 30. ECO Mark (**1991**) is an **environment** label for products. Do not treat it as a consumer-forum hierarchy fact under CPA 2019.
 31. POSH **2013** is workplace sexual harassment (Internal Committee if **ten or more** workers). POCSO **2012** is child sexual offences under **eighteen**. Keep the two Acts apart.
 32. The Environment (Protection) Act **1986** is the umbrella environment statute. The National Green Tribunal Act **2010** creates the green tribunal. Match the year to the institution, not the slogan.
-
----
-
-## Confused Pairs
-
-| Term A | Term B | Core difference |
-|--------|--------|-----------------|
-| **RTI 2005** | **RTE 2009** | Information statute (MKSS) | Education statute (86th / 21A) |
-| **NFSA 2013** | **RTE 1 Apr 2010** | Food law; **not** 5 Jul 2010 | School law commencement |
-| **PESA 1996** | **73rd 1993** | Extends Part IX to **5th Sch.** | Constitutional PRI skeleton |
-| **CPA 1986** | **CPA 2019** | Old COPRA | CCPA + product liability + e-com |
-| **AITUC-era labour Acts** | **Labour Codes** | Many old statutes | **Four** Codes (Wages 2019 + three 2020) |
-| **POCSO** | **JJ Act** | Sexual offences, child **<18** | Children in conflict / need of care |
-| **PoA 1989** | **PCR 1955** | Atrocities (heavier) | Civil Rights / untouchability |
-| **NDMA** | **MHA DM Division** | Authority; **PM** chairs | Nodal **division** in Home |
-| **NDRF (force)** | **NDRF (fund)** | Battalions under MHA | National Disaster **Response Fund** (DM Act) |
-| **RPA 1950** | **RPA 1951** | Rolls / seats | Conduct / petitions / 29A |
-| **EPA 1986** | **NGT 2010** | Umbrella environment statute | Green tribunal |
-| **POSH 2013** | **POCSO 2012** | Workplace; ICC if **≥10** workers | Child **<18** sexual offences |
-| **NeGP 2006** | **Digital India 2015** | 27→ MMPs plan | Umbrella; **e-Kranti** is pillar **5** |
-| **Citizen Charter** | **Sevottam** | Promise document (1997) | 2006 **3-module** delivery model that *uses* the Charter |
-| **Code of Conduct** | **Code of Ethics** | CCS Rules **1964** — enforceable | Values / Nolan; 2nd ARC wanted a separate ethics code |
-| **Mission Karmayogi** | **Adi Karmayogi 2025** | DoPT / iGOT / CBC | **MoTA** tribal responsive-governance drive |
-| **Social audit** | **CAG audit** | Gram Sabha / MGNREGA s.17 | Constitutional auditor (Art. **148**) |
-| **1st ARC** | **2nd ARC** | Morarji **1966–70**, **20** reports | Moily **2005–09**, **15** reports |
-| **G2C** | **G2G** | Citizen services (UMANG, DigiLocker) | Intra-government (e-Office, PFMS) |
-| **Citizen Charter** | **RTS / Janhit Guarantee** | DARPG promise, not a Union Act | **State statute** (MP **2010**, UP **2011**) with officer-penalty |
-| **CPGRAMS** | **DPG** | DARPG portal for all ministries | Cabinet Secretariat **1988** residual window |
-| **PRAGATI** | **Digital India** | PMO monthly ICT review (**2015**) | MeitY programme, **9 pillars** |
-| **Conduct 1964** | **CCA 1965** | Behaviour / gifts / politics | How to punish |
 
 ---
 

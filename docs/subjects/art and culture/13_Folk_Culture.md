@@ -28,6 +28,26 @@ Folk Arts | Folk Traditions | Folk Beliefs | Folk Culture of India | Handloom | 
 ---
 
 
+## Confused Pairs
+
+| A | B | Correct | Hindi |
+|---|----|------|-------|
+| Folk art | Classical art | Community, oral, ritual vs codified school (Bharatanatyam, Mughal miniature) | लोक कला / शास्त्रीय कला |
+| Folk tradition | Folk belief | Custom passed socially vs supernatural village worldview | लोक परंपरा / लोक विश्वास |
+| Handloom | Powerloom | Manual loom vs machine mass weave | हथकरघा / पावरलूम |
+| Handloom | Khadi | Hand-woven (yarn may be mill-spun) vs **hand-spun and** hand-woven (KVIC) | हथकरघा / खादी |
+| Handicraft | Handloom | Handmade object (pottery, metal, embroidery) vs cloth woven on a loom | हस्तशिल्प / हथकरघा |
+| GI tag | Trademark | Place + community quality vs a firm’s brand | भौगोलिक संकेत / व्यापार चिह्न |
+| Madhubani | Warli | Bihar Mithila, bright geometric vs Maharashtra tribal white-on-red | मधुबनी / वारली |
+| Chikankari | Zardozi | Lucknow white thread on muslin vs metallic-thread court embroidery | चिकनकारी / ज़रदोज़ी |
+| Surajkund Mela | Pushkar Fair | Haryana February crafts vs Rajasthan Kartik camel fair | सूरजकुंड / पुष्कर मेला |
+| Pushkar Fair | Pushkar Kumbh 2025 | Ajmer **Rajasthan**, Kartik vs **Mana, Uttarakhand**, May | पुष्कर मेला / पुष्कर कुंभ |
+| DC Handicrafts | KVIC | Textiles artisan body vs MSME khadi commission | हस्तशिल्प आयुक्तालय / KVIC |
+| Sant Kabir Award | Shilp Guru | Highest **handloom** weaver honour vs highest **handicraft** artisan honour | संत कबीर / शिल्प गुरु |
+| PEHCHAN | e-Pehchan | Handicraft artisan card **2016** vs handloom worker digital ID **2025** | पहचान / ई-पहचान |
+
+---
+
 ## Consolidated — 28 Must-Score Facts
 
 1. **Folk art** is community, oral, and ritual. It is not a Natyashastra classical school like Bharatanatyam or a court Mughal miniature atelier.
@@ -58,26 +78,6 @@ Folk Arts | Folk Traditions | Folk Beliefs | Folk Culture of India | Handloom | 
 26. **Banarasi Brocade** is a Varanasi handloom GI. **Chikankari** is a Lucknow embroidery GI. Both are Culture-facing craft facts of Uttar Pradesh.
 27. **Phad** is Rajasthan scroll painting. **Pattachitra** is Odisha / sometimes West Bengal cloth or palm-leaf painting. Do not dump every scroll into Madhubani.
 28. Uttar Pradesh leads India’s GI count in recent tallies (about **81** by late **2025**), so craft–city matching stays high-yield for UPPCS.
-
----
-
-## Confused Pairs
-
-| A | B | Correct | Hindi |
-|---|----|------|-------|
-| Folk art | Classical art | Community, oral, ritual vs codified school (Bharatanatyam, Mughal miniature) | लोक कला / शास्त्रीय कला |
-| Folk tradition | Folk belief | Custom passed socially vs supernatural village worldview | लोक परंपरा / लोक विश्वास |
-| Handloom | Powerloom | Manual loom vs machine mass weave | हथकरघा / पावरलूम |
-| Handloom | Khadi | Hand-woven (yarn may be mill-spun) vs **hand-spun and** hand-woven (KVIC) | हथकरघा / खादी |
-| Handicraft | Handloom | Handmade object (pottery, metal, embroidery) vs cloth woven on a loom | हस्तशिल्प / हथकरघा |
-| GI tag | Trademark | Place + community quality vs a firm’s brand | भौगोलिक संकेत / व्यापार चिह्न |
-| Madhubani | Warli | Bihar Mithila, bright geometric vs Maharashtra tribal white-on-red | मधुबनी / वारली |
-| Chikankari | Zardozi | Lucknow white thread on muslin vs metallic-thread court embroidery | चिकनकारी / ज़रदोज़ी |
-| Surajkund Mela | Pushkar Fair | Haryana February crafts vs Rajasthan Kartik camel fair | सूरजकुंड / पुष्कर मेला |
-| Pushkar Fair | Pushkar Kumbh 2025 | Ajmer **Rajasthan**, Kartik vs **Mana, Uttarakhand**, May | पुष्कर मेला / पुष्कर कुंभ |
-| DC Handicrafts | KVIC | Textiles artisan body vs MSME khadi commission | हस्तशिल्प आयुक्तालय / KVIC |
-| Sant Kabir Award | Shilp Guru | Highest **handloom** weaver honour vs highest **handicraft** artisan honour | संत कबीर / शिल्प गुरु |
-| PEHCHAN | e-Pehchan | Handicraft artisan card **2016** vs handloom worker digital ID **2025** | पहचान / ई-पहचान |
 
 ---
 

@@ -21,6 +21,20 @@ Structure of the Atmosphere | Atmospheric Composition | Atmospheric Layers | Tro
 
 ---
 
+## Confused Pairs
+
+| Term | One-line fact |
+|------|---------------|
+| **Troposphere** | Weather layer; temp falls with height |
+| **Stratosphere** | Ozone layer; temp rises with height |
+| **Mesosphere** | Coldest; meteors burn |
+| **Thermosphere** | Very hot, low density; aurora/ISS |
+| **Exosphere** | Outermost; merges with space |
+| **Homosphere / Heterosphere** | Well-mixed to ~80 km / gases separate by mass |
+| **Insolation / Terrestrial radiation** | Incoming shortwave / outgoing longwave |
+
+---
+
 ## Consolidated — 24 Must-Score Facts
 
 1. From bottom to top the layers run **Troposphere → Stratosphere → Mesosphere → Thermosphere → Exosphere**.
@@ -47,20 +61,6 @@ Structure of the Atmosphere | Atmospheric Composition | Atmospheric Layers | Tro
 22. Stratospheric heating with height comes largely from ozone absorbing ultraviolet radiation.
 23. Never reverse the order of troposphere and stratosphere in a bottom-to-top ladder.
 24. Long-wave terrestrial radiation is the standard answer for how the lower atmosphere is heated after surface warming.
-
----
-
-## Confused Pairs
-
-| Term | One-line fact |
-|------|---------------|
-| **Troposphere** | Weather layer; temp falls with height |
-| **Stratosphere** | Ozone layer; temp rises with height |
-| **Mesosphere** | Coldest; meteors burn |
-| **Thermosphere** | Very hot, low density; aurora/ISS |
-| **Exosphere** | Outermost; merges with space |
-| **Homosphere / Heterosphere** | Well-mixed to ~80 km / gases separate by mass |
-| **Insolation / Terrestrial radiation** | Incoming shortwave / outgoing longwave |
 
 ---
 

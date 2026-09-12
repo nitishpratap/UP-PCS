@@ -15,6 +15,28 @@ Community Development Programme | Etawah Pilot Project | Post-Independence India
 
 ---
 
+## Confused Pairs
+
+| A | B | Difference | Hindi |
+|---|----|------------|-------|
+| Etawah 1948 | CDP 1952 | UP pilot (Mayer) vs nationwide programme | इटावा / सामुदायिक विकास |
+| Etawah | Nilokheri | Mayer village pilot vs S.K. Dey refugee township | इटावा / निलोखेडी |
+| CDP | NES | Intensive projects 1952 vs wider extension 1953 | सीडीपी / एनईएस |
+| IoA | Standstill | Three subjects ceded vs interim status-quo | अधिमिलन / स्टैन्डस्टिल |
+| Junagadh | Hyderabad | Plebiscite vs Police Action 1948 | जूनागढ़ / हैदराबाद |
+| Chandernagore | Pondicherry group | Merged into **West Bengal 1954** vs stayed a separate **UT, de jure 1962** | चंद्रनगर / पुदुचेरी |
+| Pondicherry 1954 | Goa 1961 | French referendum route vs Portuguese military route (**Operation Vijay**) | पुदुचेरी / गोवा |
+| Goa UT 1962 | Goa State 1987 | 12th Amendment made it a UT vs full statehood 25 years later | गोवा संघ शासित / गोवा राज्य |
+| Adopted | Commenced | **26 Nov 1949** vs **26 Jan 1950** | अंगीकृत / लागू |
+| Dhar 1948 | SRC 1953 | Against language basis vs language accepted with limits | धर / एसआरसी |
+| SRC | Act 1956 | Commission (Fazl Ali) vs statute **1 Nov 1956** | आयोग / अधिनियम |
+| Planning Commission | Finance Commission | Extra-constitutional 1950 vs Art. 280 | योजना आयोग / वित्त आयोग |
+| PC | NITI | Plan body 1950–2014 vs think-tank from 2015 | योजना / नीति |
+| 1st Plan | 2nd Plan | Agriculture/CDP vs heavy industry (Mahalanobis) | प्रथम / द्वितीय |
+| Part A | Part B (1950) | Governor’s provinces vs princely unions | ए / बी राज्य |
+
+---
+
 ## Consolidated — 30 Must-Score Facts
 
 1. Arc after transfer: Independence **15 Aug 1947** → CA last sitting **24 Jan 1950** → Constitution **26 Jan 1950** → Planning Commission **Mar 1950** → CDP **2 Oct 1952** → Andhra **1 Oct 1953** → SRC Act **1 Nov 1956** → NITI **1 Jan 2015**.
@@ -47,28 +69,6 @@ Community Development Programme | Etawah Pilot Project | Post-Independence India
 28. **Standstill Agreement** kept interim arrangements; **IoA** permanently ceded the three subjects — do not swap the two instruments.
 29. **Nilokheri** is S.K. Dey’s refugee township model. Do not call it the same thing as Etawah’s Mayer pilot.
 30. Finance Commission is **Article 280**. Planning Commission was never a constitutional body — that is the PC vs FC trap.
-
----
-
-## Confused Pairs
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Etawah 1948 | CDP 1952 | UP pilot (Mayer) vs nationwide programme | इटावा / सामुदायिक विकास |
-| Etawah | Nilokheri | Mayer village pilot vs S.K. Dey refugee township | इटावा / निलोखेडी |
-| CDP | NES | Intensive projects 1952 vs wider extension 1953 | सीडीपी / एनईएस |
-| IoA | Standstill | Three subjects ceded vs interim status-quo | अधिमिलन / स्टैन्डस्टिल |
-| Junagadh | Hyderabad | Plebiscite vs Police Action 1948 | जूनागढ़ / हैदराबाद |
-| Chandernagore | Pondicherry group | Merged into **West Bengal 1954** vs stayed a separate **UT, de jure 1962** | चंद्रनगर / पुदुचेरी |
-| Pondicherry 1954 | Goa 1961 | French referendum route vs Portuguese military route (**Operation Vijay**) | पुदुचेरी / गोवा |
-| Goa UT 1962 | Goa State 1987 | 12th Amendment made it a UT vs full statehood 25 years later | गोवा संघ शासित / गोवा राज्य |
-| Adopted | Commenced | **26 Nov 1949** vs **26 Jan 1950** | अंगीकृत / लागू |
-| Dhar 1948 | SRC 1953 | Against language basis vs language accepted with limits | धर / एसआरसी |
-| SRC | Act 1956 | Commission (Fazl Ali) vs statute **1 Nov 1956** | आयोग / अधिनियम |
-| Planning Commission | Finance Commission | Extra-constitutional 1950 vs Art. 280 | योजना आयोग / वित्त आयोग |
-| PC | NITI | Plan body 1950–2014 vs think-tank from 2015 | योजना / नीति |
-| 1st Plan | 2nd Plan | Agriculture/CDP vs heavy industry (Mahalanobis) | प्रथम / द्वितीय |
-| Part A | Part B (1950) | Governor’s provinces vs princely unions | ए / बी राज्य |
 
 ---
 

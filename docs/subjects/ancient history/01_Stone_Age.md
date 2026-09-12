@@ -15,6 +15,30 @@ Origin of Human Beings | Stone Age | Paleolithic Age | Mesolithic Age | Neolithi
 
 ---
 
+## Confused Pairs
+
+| A | B | Correct | Hindi |
+|---|----|------|-------|
+| Paleolithic | Neolithic | Chipped handaxe vs polished/ground axe | पुरापाषाण / नवपाषाण |
+| Microlith | Handaxe | Mesolithic composite blade vs Lower Paleolithic biface | सूक्ष्म पाषाण / हाथ कुल्हाड़ी |
+| Bagor | Sarai Nahar Rai | Mesolithic **domestication** (RJ) vs Mesolithic **burials** (UP) | बागोर / सराय नाहर राय |
+| Mehrgarh | Koldihwa | Wheat/barley (Balochistan) vs rice (UP Belan) | मेहरगढ़ / कोलडिहवा |
+| Burzahom | Chirand | Kashmir **pit dwellings** vs Bihar **bone tools** | बुरज़होम / चिरांद |
+| Rock shelter | Carved cave | Natural overhang (Bhimbetka) vs cut cave (Ajanta) | शैल आश्रय / कृत्रिम गुफा |
+| Chalcolithic | Harappan | Rural copper+stone vs urban bronze/planned cities | ताम्रपाषाण / हड़प्पा |
+| Hathnora fossil | Attirampakkam | *Homo erectus* skull vs old **tools** (no fossil) | हथनौरा / अत्तिरमपाक्कम |
+| Wakankar | Sankalia | Bhimbetka discoverer vs Langhnaj/Deccan pioneer | वाकणकर / सांकलिया |
+| OCP | Harappan ware | Doab ochre pottery (Chalcolithic) vs Indus urban pottery | गेरूआ मृद्भांड |
+| **Soanian** | **Acheulian** | NW pebble/chopper (Soan–Siwalik) vs peninsular handaxe-cleaver | सोहन / ऐशूलियन |
+| **Baghor** | **Bagor** | Upper Pal shrine, **Son valley MP** vs Meso domestication, **Rajasthan** | बाघोर / बागोर |
+| Non-geometric microlith | Geometric microlith | Earlier Meso (backed blades) vs later Meso (lunate/triangle/trapeze) | अज्यामितीय / ज्यामितीय |
+| Aceramic Neolithic | Ceramic Neolithic | Mehrgarh Period I (no pottery) vs later pottery levels | बिना मृद्भांड / मृद्भांड युक्त |
+| Prehistoric | Proto-historic | No writing vs undeciphered script (e.g. Indus / Copper Age) | प्रागैतिहासिक / आद्यऐतिहासिक |
+| Damdama triple burial | Sarai Nahar Rai four-skeleton grave | One triple grave at Damdama vs four skeletons in one grave at Sarai Nahar Rai | दमदमा / सराय नाहर राय |
+| Lahuradewa | Mehrgarh | Early Ganga rice (Sant Kabir Nagar) vs NW wheat–barley village (Balochistan) | लहुरादेवा / मेहरगढ़ |
+
+---
+
 ## Consolidated — 34 Must-Score Facts
 
 1. Indian prehistory runs **Paleolithic → Mesolithic → Neolithic → Chalcolithic**. Paleolithic people used **chipped** tools and lived by hunting and gathering. Neolithic people used **polished or ground** stone, pottery, and farming.
@@ -51,30 +75,6 @@ Origin of Human Beings | Stone Age | Paleolithic Age | Mesolithic Age | Neolithi
 32. **Damdama** has a **triple** burial; **Sarai Nahar Rai** has a **four-skeleton** grave. Bone implements cluster at **Mahadaha** and **Sarai Nahar Rai**.
 33. **Lahuradewa** (Sant Kabir Nagar) is the booklet key for earliest subcontinental **agriculture / rice** when listed; otherwise **Mehrgarh** is the wheat–barley settled-life key.
 34. **OCP** was christened by **B.B. Lal** at **Hastinapur**. **Jorwe** adults lie **north–south** under house floors; children often rest in **double urns**.
-
----
-
-## Confused Pairs
-
-| A | B | Correct | Hindi |
-|---|----|------|-------|
-| Paleolithic | Neolithic | Chipped handaxe vs polished/ground axe | पुरापाषाण / नवपाषाण |
-| Microlith | Handaxe | Mesolithic composite blade vs Lower Paleolithic biface | सूक्ष्म पाषाण / हाथ कुल्हाड़ी |
-| Bagor | Sarai Nahar Rai | Mesolithic **domestication** (RJ) vs Mesolithic **burials** (UP) | बागोर / सराय नाहर राय |
-| Mehrgarh | Koldihwa | Wheat/barley (Balochistan) vs rice (UP Belan) | मेहरगढ़ / कोलडिहवा |
-| Burzahom | Chirand | Kashmir **pit dwellings** vs Bihar **bone tools** | बुरज़होम / चिरांद |
-| Rock shelter | Carved cave | Natural overhang (Bhimbetka) vs cut cave (Ajanta) | शैल आश्रय / कृत्रिम गुफा |
-| Chalcolithic | Harappan | Rural copper+stone vs urban bronze/planned cities | ताम्रपाषाण / हड़प्पा |
-| Hathnora fossil | Attirampakkam | *Homo erectus* skull vs old **tools** (no fossil) | हथनौरा / अत्तिरमपाक्कम |
-| Wakankar | Sankalia | Bhimbetka discoverer vs Langhnaj/Deccan pioneer | वाकणकर / सांकलिया |
-| OCP | Harappan ware | Doab ochre pottery (Chalcolithic) vs Indus urban pottery | गेरूआ मृद्भांड |
-| **Soanian** | **Acheulian** | NW pebble/chopper (Soan–Siwalik) vs peninsular handaxe-cleaver | सोहन / ऐशूलियन |
-| **Baghor** | **Bagor** | Upper Pal shrine, **Son valley MP** vs Meso domestication, **Rajasthan** | बाघोर / बागोर |
-| Non-geometric microlith | Geometric microlith | Earlier Meso (backed blades) vs later Meso (lunate/triangle/trapeze) | अज्यामितीय / ज्यामितीय |
-| Aceramic Neolithic | Ceramic Neolithic | Mehrgarh Period I (no pottery) vs later pottery levels | बिना मृद्भांड / मृद्भांड युक्त |
-| Prehistoric | Proto-historic | No writing vs undeciphered script (e.g. Indus / Copper Age) | प्रागैतिहासिक / आद्यऐतिहासिक |
-| Damdama triple burial | Sarai Nahar Rai four-skeleton grave | One triple grave at Damdama vs four skeletons in one grave at Sarai Nahar Rai | दमदमा / सराय नाहर राय |
-| Lahuradewa | Mehrgarh | Early Ganga rice (Sant Kabir Nagar) vs NW wheat–barley village (Balochistan) | लहुरादेवा / मेहरगढ़ |
 
 ---
 

@@ -17,6 +17,30 @@ Taught in that order. World cores start with Mesopotamia, not with the later-fam
 
 ---
 
+## Confused Pairs
+
+| A | B | Difference | Hindi |
+|---|----|------------|-------|
+| Mesopotamia | Egypt | Two rivers + city-states vs **one Nile** + unified pharaoh | मेसोपोटामिया / मिस्र |
+| Ziggurat | Pyramid | Stepped **temple** vs royal **tomb** | जिग्गुरात / पिरामिड |
+| Cuneiform | Hieroglyphs | Clay wedges vs **picture** signs | कीलाक्षर / चित्रलिपि |
+| Indus script | Oracle bones | Still **unread** vs earliest **readable** Chinese | सिन्धु लिपि / अस्थि लेख |
+| Mahapurana | Upapurana | 18 major (5 traits) vs 18 **minor** | महापुराण / उपपुराण |
+| Vishnu Purana | Vayu Purana | **Mauryan** list (2023) vs **not** Gupta admin | विष्णु / वायु |
+| Ikshvaku | Vakataka | Puranic **Shriparvatiya** vs Vidarbha | इक्ष्वाकु / वाकाटक |
+| Charvaka | Charaka | Materialist school vs **Ayurveda** compiler | चार्वाक / चरक |
+| Charvaka | Buddhism | Denies rebirth vs accepts **karma/rebirth** | चार्वाक / बौद्ध |
+| Kakatiya | Yadava | **Warangal** vs **Devagiri** | काकतीय / यादव |
+| Warangal | Hanamkonda | Fort capital vs **Thousand Pillar** town | वारंगल / हनमकोंडा |
+| Ganapati | Rudrama | Peak expander vs **queen** (his daughter) | गणपतिदेव / रुद्रमा |
+| Rudrama | Prataparudra II | Female monarch vs **last** king, fall **1323** | रुद्रमा / प्रतापरुद्र |
+| Ramappa | Thousand Pillar | Palampet **UNESCO 2021** vs Hanamkonda | रामप्पा / सहस्र स्तंभ |
+| Jayaswal | Smith | *Hindu Polity* vs *Early History of India* | जयसवाल / स्मिथ |
+| Kosambi | Basham | Marxist *Introduction* vs cultural *Wonder* | कोसांबी / बैशम |
+| Charaka | Sushruta | Internal medicine **120/8** vs **surgery** | चरक / सुश्रुत |
+
+---
+
 ## Consolidated — 30 Must-Score Facts
 
 1. The four Old World Bronze urban cores are **Mesopotamia**, **Egypt**, **Indus**, and **Shang China**. Iron-Age Greece, Rome, and Persia belong to a later bucket.
@@ -49,30 +73,6 @@ Taught in that order. World cores start with Mesopotamia, not with the later-fam
 28. Purana Qila in Delhi is a **fort** name, not a Sanskrit Purana text. Use Puranas as genealogy supplements to inscriptions, not as year-perfect chronicles.
 29. Ajita Kesakambalin in the Pali canon is a materialist neighbour of Charvaka thought. Nyaya is **Gautama**; Vaisheshika is **Kanada** — neither is Charvaka.
 30. Shang ends with Zhou conquest; Harappan cities **thin out** around **1900 BCE**; Egypt shows unusual dynastic continuity — decline is not one shared story.
-
----
-
-## Confused Pairs
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Mesopotamia | Egypt | Two rivers + city-states vs **one Nile** + unified pharaoh | मेसोपोटामिया / मिस्र |
-| Ziggurat | Pyramid | Stepped **temple** vs royal **tomb** | जिग्गुरात / पिरामिड |
-| Cuneiform | Hieroglyphs | Clay wedges vs **picture** signs | कीलाक्षर / चित्रलिपि |
-| Indus script | Oracle bones | Still **unread** vs earliest **readable** Chinese | सिन्धु लिपि / अस्थि लेख |
-| Mahapurana | Upapurana | 18 major (5 traits) vs 18 **minor** | महापुराण / उपपुराण |
-| Vishnu Purana | Vayu Purana | **Mauryan** list (2023) vs **not** Gupta admin | विष्णु / वायु |
-| Ikshvaku | Vakataka | Puranic **Shriparvatiya** vs Vidarbha | इक्ष्वाकु / वाकाटक |
-| Charvaka | Charaka | Materialist school vs **Ayurveda** compiler | चार्वाक / चरक |
-| Charvaka | Buddhism | Denies rebirth vs accepts **karma/rebirth** | चार्वाक / बौद्ध |
-| Kakatiya | Yadava | **Warangal** vs **Devagiri** | काकतीय / यादव |
-| Warangal | Hanamkonda | Fort capital vs **Thousand Pillar** town | वारंगल / हनमकोंडा |
-| Ganapati | Rudrama | Peak expander vs **queen** (his daughter) | गणपतिदेव / रुद्रमा |
-| Rudrama | Prataparudra II | Female monarch vs **last** king, fall **1323** | रुद्रमा / प्रतापरुद्र |
-| Ramappa | Thousand Pillar | Palampet **UNESCO 2021** vs Hanamkonda | रामप्पा / सहस्र स्तंभ |
-| Jayaswal | Smith | *Hindu Polity* vs *Early History of India* | जयसवाल / स्मिथ |
-| Kosambi | Basham | Marxist *Introduction* vs cultural *Wonder* | कोसांबी / बैशम |
-| Charaka | Sushruta | Internal medicine **120/8** vs **surgery** | चरक / सुश्रुत |
 
 ---
 

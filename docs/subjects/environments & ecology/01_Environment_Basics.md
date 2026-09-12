@@ -26,6 +26,29 @@ Environment – Meaning | Environmental Components | Classification of Environme
 ---
 
 
+## Confused Pairs
+
+| Term | One-line difference | Hindi |
+|------|---------------------|-------|
+| **Environment** | Total biotic + abiotic surroundings affecting an organism | पर्यावरण |
+| **Ecology** | *Study* of organism–environment interactions | पारिस्थितिकी |
+| **Ecosystem** | Functional *unit* where living + non-living interact | पारिस्थितिकी तंत्र |
+| **Habitat** | *Place* where an organism lives | निवास स्थान |
+| **Niche** | *Role* of a species in an ecosystem | पारिस्थितिक निचे |
+| **Abiotic** | Non-living components | अजैविक |
+| **Biotic** | Living components | जैविक |
+| **Lentic** | Standing water ecosystem | स्थिर जल |
+| **Lotic** | Flowing water ecosystem | प्रवाही जल |
+| **Liebig's Law** | Growth limited by scarcest essential resource | लाइबिग का न्यूनतम नियम |
+| **Shelford's Law** | Species survives only within min–max tolerance range | शेलफोर्ड का सहन नियम |
+| **Internal environment** | Conditions inside organism (physiology) | आंतरिक पर्यावरण |
+| **External environment** | Conditions outside organism (ecology default) | बाह्य पर्यावरण |
+| **Physical environment** | Landforms, water, climate, soils, rocks, minerals | भौतिक पर्यावरण |
+| **Biological environment** | Plants, animals, microorganisms | जैविक पर्यावरण |
+| **Cultural environment** | Man-made social, economic, and political features | सांस्कृतिक पर्यावरण |
+
+---
+
 ## Consolidated — 29 Must-Score Facts
 
 1. Environment means the sum of **biotic and abiotic** factors that affect living organisms. Notes do not treat “only physical” or “only living” as the full definition.
@@ -57,29 +80,6 @@ Environment – Meaning | Environmental Components | Classification of Environme
 27. Natural versus anthropogenic, terrestrial versus aquatic, and internal versus external are further common classification axes.
 28. Micro-, meso-, and macro-scales describe environment size from a pond edge to a region or the globe. Competitive papers usually default to the **natural/physical** sense of environment.
 29. Agenda 21 belongs to **Rio 1992**, not 1995. Mixing Brundtland 1987 with Agenda 21’s year is a common trap.
-
----
-
-## Confused Pairs
-
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **Environment** | Total biotic + abiotic surroundings affecting an organism | पर्यावरण |
-| **Ecology** | *Study* of organism–environment interactions | पारिस्थितिकी |
-| **Ecosystem** | Functional *unit* where living + non-living interact | पारिस्थितिकी तंत्र |
-| **Habitat** | *Place* where an organism lives | निवास स्थान |
-| **Niche** | *Role* of a species in an ecosystem | पारिस्थितिक निचे |
-| **Abiotic** | Non-living components | अजैविक |
-| **Biotic** | Living components | जैविक |
-| **Lentic** | Standing water ecosystem | स्थिर जल |
-| **Lotic** | Flowing water ecosystem | प्रवाही जल |
-| **Liebig's Law** | Growth limited by scarcest essential resource | लाइबिग का न्यूनतम नियम |
-| **Shelford's Law** | Species survives only within min–max tolerance range | शेलफोर्ड का सहन नियम |
-| **Internal environment** | Conditions inside organism (physiology) | आंतरिक पर्यावरण |
-| **External environment** | Conditions outside organism (ecology default) | बाह्य पर्यावरण |
-| **Physical environment** | Landforms, water, climate, soils, rocks, minerals | भौतिक पर्यावरण |
-| **Biological environment** | Plants, animals, microorganisms | जैविक पर्यावरण |
-| **Cultural environment** | Man-made social, economic, and political features | सांस्कृतिक पर्यावरण |
 
 ---
 

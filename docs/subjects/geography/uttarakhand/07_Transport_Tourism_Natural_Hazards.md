@@ -44,6 +44,17 @@
 
 ---
 
+## Must-Score Facts
+
+1. Silkyara = **4.531 km**.
+2. Gauchar = **Chamoli**, not Rudraprayag.
+3. Airports: Pantnagar–US Nagar; Naini Saini–Pithoragarh; Chinyalisaur–Uttarkashi.
+4. Vulnerability: both statements correct (Q105).
+5. SCCC **2011**; UAPCC ≠ Revenue Dept (Q106 → Only stmt 1).
+6. Hazard set: landslide / cloudburst / flood / earthquake / GLOF.
+
+---
+
 ## 7.1 Transport network
 
 **Identity:** Road-dominant hills | Char Dham corridor | named airstrips.
@@ -135,17 +146,6 @@
 - Preparation of the **Uttarakhand Action Plan on Climate Change (UAPCC)** was **not** given to the State Revenue Department.
 - UAPCC work sits with the forest / environment institutional set-up.
 - Institutional years sit **on top of** that physical vulnerability picture — they do not replace it.
-
----
-
-## Must-Score Facts
-
-1. Silkyara = **4.531 km**.
-2. Gauchar = **Chamoli**, not Rudraprayag.
-3. Airports: Pantnagar–US Nagar; Naini Saini–Pithoragarh; Chinyalisaur–Uttarkashi.
-4. Vulnerability: both statements correct (Q105).
-5. SCCC **2011**; UAPCC ≠ Revenue Dept (Q106 → Only stmt 1).
-6. Hazard set: landslide / cloudburst / flood / earthquake / GLOF.
 
 ---
 

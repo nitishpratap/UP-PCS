@@ -41,6 +41,16 @@
 
 ---
 
+## Must-Score Facts
+
+1. Aipan = Kumaon ritual floor/wall art.
+2. Chholiya = Kumaon sword wedding dance.
+3. Ramman = Garhwal UNESCO ritual theatre (Topic 3).
+4. Garhwal painting = Pahari school; Mola Ram is the named artist.
+5. Do not swap Chholiya with Chhau.
+
+---
+
 ## 1.1 Everyday folk culture
 
 **Identity:** Season, Gramdevta, and life-cycle ritual culture of the hills.
@@ -73,16 +83,6 @@
 - **Raji / Vanrawat** forest-linked PTG memory centres on the Pithoragarh belt in geography notes.
 - Wool weaving, wood carving, and **ringal** bamboo craft support livelihood and festival material culture.
 - State cultural identity also runs through Kumaoni and Garhwali language literature — personality stems (for example Pushpesh Pant) live under Topic 3.
-
----
-
-## Must-Score Facts
-
-1. Aipan = Kumaon ritual floor/wall art.
-2. Chholiya = Kumaon sword wedding dance.
-3. Ramman = Garhwal UNESCO ritual theatre (Topic 3).
-4. Garhwal painting = Pahari school; Mola Ram is the named artist.
-5. Do not swap Chholiya with Chhau.
 
 ---
 

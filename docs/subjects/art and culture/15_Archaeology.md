@@ -26,6 +26,23 @@ Archaeology | Archaeological Discoveries | Excavations | Ancient Sites
 ---
 
 
+## Confused Pairs
+
+| A | B | Correct | Hindi |
+|---|----|------|-------|
+| Archaeology | History | Material remains and excavation vs written narrative | पुरातत्व / इतिहास |
+| Stratigraphy | Typology | Layer age vs artefact-style comparison | स्तरिकी / प्रकारिकी |
+| Vertical excavation | Horizontal excavation | Time sequence vs one-period layout | ऊर्ध्वाधर / क्षैतिज |
+| C-14 | Thermoluminescence | Organic carbon vs fired clay/brick | कार्बन-14 / ताप-संदीप्ति |
+| Sahni 1921 | Banerji 1922 | **Harappa** vs **Mohenjo-daro** | साहनी / बनर्जी |
+| Marshall | Wheeler | Announces IVC / mass dig vs **1946** scientific grid | मार्शल / व्हीलर |
+| Rakhigarhi | Alamgirpur | **Haryana**, largest vs **Meerut UP**, easternmost | राखीगढ़ी / आलमगीरपुर |
+| Lothal | Dholavira | Dockyard vs reservoirs and signboard (both Gujarat) | लोथल / धोलावीरा |
+| In-situ | Ex-situ | Conserve on the mound vs shift to a museum | स्थान पर / स्थानांतरित |
+| Bhimbetka | Harappa | Prehistoric rock shelter, **MP** vs IVC city | भीमबेटका / हड़प्पा |
+
+---
+
 ## Consolidated — 26 Must-Score Facts
 
 1. **Archaeology** studies material remains through excavation and dating. **History** builds narrative mainly from written sources. The two work together but are not the same method.
@@ -54,23 +71,6 @@ Archaeology | Archaeological Discoveries | Excavations | Ancient Sites
 24. **Kalibangan** is famous for the ploughed field and fire altars in Rajasthan. Do not place Kalibangan in Uttar Pradesh.
 25. **Dholavira** is a Gujarat Harappan city with water systems and a signboard. **Lothal** is the dockyard city of Gujarat. Keep both in Gujarat, not in UP.
 26. Rakhigarhi remains Haryana even when laboratories in Lucknow or Kolkata study its bones. Lab location does not move the site’s state.
-
----
-
-## Confused Pairs
-
-| A | B | Correct | Hindi |
-|---|----|------|-------|
-| Archaeology | History | Material remains and excavation vs written narrative | पुरातत्व / इतिहास |
-| Stratigraphy | Typology | Layer age vs artefact-style comparison | स्तरिकी / प्रकारिकी |
-| Vertical excavation | Horizontal excavation | Time sequence vs one-period layout | ऊर्ध्वाधर / क्षैतिज |
-| C-14 | Thermoluminescence | Organic carbon vs fired clay/brick | कार्बन-14 / ताप-संदीप्ति |
-| Sahni 1921 | Banerji 1922 | **Harappa** vs **Mohenjo-daro** | साहनी / बनर्जी |
-| Marshall | Wheeler | Announces IVC / mass dig vs **1946** scientific grid | मार्शल / व्हीलर |
-| Rakhigarhi | Alamgirpur | **Haryana**, largest vs **Meerut UP**, easternmost | राखीगढ़ी / आलमगीरपुर |
-| Lothal | Dholavira | Dockyard vs reservoirs and signboard (both Gujarat) | लोथल / धोलावीरा |
-| In-situ | Ex-situ | Conserve on the mound vs shift to a museum | स्थान पर / स्थानांतरित |
-| Bhimbetka | Harappa | Prehistoric rock shelter, **MP** vs IVC city | भीमबेटका / हड़प्पा |
 
 ---
 

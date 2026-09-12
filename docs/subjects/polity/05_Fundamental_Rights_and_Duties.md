@@ -18,6 +18,31 @@
 
 ---
 
+## Confused Pairs
+
+| A | B | Correct | Hindi |
+|---|----|------|-------|
+| Art. 14 | Art. 16 | Any **person** vs public employment (**citizens**) | — |
+| Art. 15 | Art. 17 | Discrimination grounds vs **Untouchability** (absolute) | — |
+| Art. 19 | Art. 21 | Citizens + six freedoms vs **all persons** + life/liberty | — |
+| Art. 19(1)(f) | Art. 300A | Deleted FR (44th) vs legal right to property | — |
+| Art. 20 | Art. 21 | Conviction protections vs torture/privacy/livelihood | — |
+| Art. 21 | Art. 21A | Life/liberty (wide) vs RTE **6–14** only | — |
+| Art. 22 ordinary | Art. 22 PD | 24-hour magistrate vs preventive detention code | — |
+| Art. 17 | Arts. 23–24 | Equality (untouchability) vs **Exploitation** | — |
+| Art. 29 | Art. 30 | Any section (culture) vs **minorities** institutions | — |
+| Art. 27 | Fee | No **tax** for a religion vs regulatory **fee** allowed | — |
+| Art. 32 | Art. 226 | SC (FR only) vs HC (FR + any legal right) | — |
+| Prohibition | Certiorari | **Before** decision vs **after** (quash) | — |
+| Art. 43A | Art. 43B | Workers’ participation vs **co-operatives** (97th) | — |
+| Art. 48 | Art. 50 | Cattle/agriculture vs **separation of judiciary** | — |
+| Art. 358 | Art. 359 | Only Art. 19 (auto) vs other FRs by order (not 20/21) | — |
+| FR | DPSP | Justiciable (USA) vs non-justiciable (**Ireland**) | — |
+
+---
+
+---
+
 ## Consolidated — 30 Must-Score Facts
 
 1. **Part III (Articles 12–35)** holds Fundamental Rights. They are **justiciable**. Part III is called the **Magna Carta of India**. Originally there were **seven** groups; after the **44th Amendment (1978)** removed the Right to Property, **six** groups remain. Pre-1950 demand spine: **1895** Tilak Bill → **Nehru Report 1928** → **Karachi 1931** (Patel).
@@ -50,31 +75,6 @@
 28. S. Radhakrishnan’s Constituent Assembly line: Fundamental Rights are “a **pledge** to our people and a **pact** with the civilized world.”
 29. Some rights (notably **17, 23, 24**) also bind private persons; most Part III rights primarily bind the **State** under Article 12.
 30. Property is **not** a Fundamental Right after the 44th; it is a **constitutional legal right** under **300A** — State can deprive only by authority of law.
-
----
-
-## Confused Pairs
-
-| A | B | Correct | Hindi |
-|---|----|------|-------|
-| Art. 14 | Art. 16 | Any **person** vs public employment (**citizens**) | — |
-| Art. 15 | Art. 17 | Discrimination grounds vs **Untouchability** (absolute) | — |
-| Art. 19 | Art. 21 | Citizens + six freedoms vs **all persons** + life/liberty | — |
-| Art. 19(1)(f) | Art. 300A | Deleted FR (44th) vs legal right to property | — |
-| Art. 20 | Art. 21 | Conviction protections vs torture/privacy/livelihood | — |
-| Art. 21 | Art. 21A | Life/liberty (wide) vs RTE **6–14** only | — |
-| Art. 22 ordinary | Art. 22 PD | 24-hour magistrate vs preventive detention code | — |
-| Art. 17 | Arts. 23–24 | Equality (untouchability) vs **Exploitation** | — |
-| Art. 29 | Art. 30 | Any section (culture) vs **minorities** institutions | — |
-| Art. 27 | Fee | No **tax** for a religion vs regulatory **fee** allowed | — |
-| Art. 32 | Art. 226 | SC (FR only) vs HC (FR + any legal right) | — |
-| Prohibition | Certiorari | **Before** decision vs **after** (quash) | — |
-| Art. 43A | Art. 43B | Workers’ participation vs **co-operatives** (97th) | — |
-| Art. 48 | Art. 50 | Cattle/agriculture vs **separation of judiciary** | — |
-| Art. 358 | Art. 359 | Only Art. 19 (auto) vs other FRs by order (not 20/21) | — |
-| FR | DPSP | Justiciable (USA) vs non-justiciable (**Ireland**) | — |
-
----
 
 ---
 

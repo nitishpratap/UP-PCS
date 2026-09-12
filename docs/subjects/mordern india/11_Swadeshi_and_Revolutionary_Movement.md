@@ -15,6 +15,32 @@ Partition of Bengal | Swadeshi Movement | Delhi Durbar | Revolutionary Organisat
 
 ---
 
+## Confused Pairs
+
+| A | B | Difference | Hindi |
+|---|----|------------|-------|
+| RSS 1925 (Hedgewar, Nagpur) | HRA / Kakori 1925 | Hindu social organisation vs revolutionary armed treasury action | आरएसएस / एचआरए |
+| *Sarfaroshi* poet Bismil Azimabadi | Ram Prasad Bismil | Poem author (Patna) vs Kakori martyr (Shahjahanpur) | बिस्मिल अजीमाबादी / राम प्रसाद |
+| Dhingra–Wyllie 1909 | Udham–O’Dwyer 1940 | India House London killing vs Jallianwala revenge killing | धिंगरा / ऊधम सिंह |
+| Barrah 1908 | Kakori 1925 | East Bengal Anushilan dacoity vs UP HRA train action | बर्राह / काकोरी |
+| Partition 1905 | Annulment 1911 | Curzon divides Bengal vs Durbar reverses it and moves capital | बंगाल विभाजन / रद्द |
+| Swadeshi | Boycott | Use Indian goods/institutions vs reject British goods/institutions | स्वदेशी / बहिष्कार |
+| Extremist | Revolutionary | Assertive Congress (boycott/Swadeshi) vs secret armed groups | गरम दल / क्रांतिकारी |
+| Anushilan | Jugantar | Secret-society network vs Barindra action circle + *Yugantar* paper | अनुशीलन / युगांतर |
+| HRA 1924 | HSRA 1928 | Republican armed group vs same stream after socialist turn | एचआरए / एचएसआरए |
+| Ghadar 1913 | Berlin Committee 1915 | N. America diaspora party vs wartime Europe plot | ग़दर / बर्लिन समिति |
+| Kakori 1925 | Chittagong 1930 | HRA train treasury (UP) vs Surya Sen armoury (Bengal) | काकोरी / चटगाँव |
+| Hardinge bomb 1912 | Assembly bomb 1929 | Delhi Viceroy procession vs Central Assembly protest | हार्डिंग / असेंबली |
+| Shahjahanpur | Gorakhpur | Bismil’s birthplace vs hanging jail | शाहजहाँपुर / गोरखपुर |
+| Delhi Durbar 1911 | Lucknow Pact 1916 | Annulment + capital vs Congress–League deal | दिल्ली दरबार / लखनऊ |
+| Muzaffarpur 1908 | Alipore 1908 | Kingsford attempt (Khudiram–Chaki) vs Manicktolla conspiracy trial | मुजफ्फरपुर / अलीपुर |
+| India House | Ghadar | London hub (Shyamji) vs 1913 N. America party | इंडिया हाउस / ग़दर |
+| Delhi Durbar 1877 | Delhi Durbar 1911 | Lytton proclaims Victoria Empress of India vs Hardinge annuls partition and shifts the capital | दिल्ली दरबार 1877 / 1911 |
+| Stuttgart flag 1907 | Berlin Committee 1915 | Madam Cama unfurls a tricolour at a Socialist Congress vs a wartime Europe plot with German help | स्टुटगार्ट ध्वज / बर्लिन समिति |
+| Bengal Swadeshi orgs | Bengal revolutionary orgs | Banerjee/Pal/Tagore/Aurobindo open politics vs Anushilan/Jugantar secret action | स्वदेशी संगठन / क्रांतिकारी संगठन |
+
+---
+
 ## Consolidated — 38 Must-Score Facts
 
 1. **Partition of Bengal** was announced in **July 1905** and became effective on **16 October 1905**. The new province was **East Bengal and Assam** with capital at **Dacca**.
@@ -56,32 +82,6 @@ Partition of Bengal | Swadeshi Movement | Delhi Durbar | Revolutionary Organisat
 36. **Provisional Government of India (Kabul, 1915)** — President **Raja Mahendra Pratap**, PM **Barkatullah**.
 37. **Udham Singh** killed **Michael O’Dwyer** in London (**1940**). **Madan Lal Dhingra** killed **Curzon Wyllie** (**1909**).
 38. **RSS** was founded by **K.B. Hedgewar** on **27 Sep 1925** at **Nagpur** — a Hindu social organisation, **not** HRA/HSRA.
-
----
-
-## Confused Pairs
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| RSS 1925 (Hedgewar, Nagpur) | HRA / Kakori 1925 | Hindu social organisation vs revolutionary armed treasury action | आरएसएस / एचआरए |
-| *Sarfaroshi* poet Bismil Azimabadi | Ram Prasad Bismil | Poem author (Patna) vs Kakori martyr (Shahjahanpur) | बिस्मिल अजीमाबादी / राम प्रसाद |
-| Dhingra–Wyllie 1909 | Udham–O’Dwyer 1940 | India House London killing vs Jallianwala revenge killing | धिंगरा / ऊधम सिंह |
-| Barrah 1908 | Kakori 1925 | East Bengal Anushilan dacoity vs UP HRA train action | बर्राह / काकोरी |
-| Partition 1905 | Annulment 1911 | Curzon divides Bengal vs Durbar reverses it and moves capital | बंगाल विभाजन / रद्द |
-| Swadeshi | Boycott | Use Indian goods/institutions vs reject British goods/institutions | स्वदेशी / बहिष्कार |
-| Extremist | Revolutionary | Assertive Congress (boycott/Swadeshi) vs secret armed groups | गरम दल / क्रांतिकारी |
-| Anushilan | Jugantar | Secret-society network vs Barindra action circle + *Yugantar* paper | अनुशीलन / युगांतर |
-| HRA 1924 | HSRA 1928 | Republican armed group vs same stream after socialist turn | एचआरए / एचएसआरए |
-| Ghadar 1913 | Berlin Committee 1915 | N. America diaspora party vs wartime Europe plot | ग़दर / बर्लिन समिति |
-| Kakori 1925 | Chittagong 1930 | HRA train treasury (UP) vs Surya Sen armoury (Bengal) | काकोरी / चटगाँव |
-| Hardinge bomb 1912 | Assembly bomb 1929 | Delhi Viceroy procession vs Central Assembly protest | हार्डिंग / असेंबली |
-| Shahjahanpur | Gorakhpur | Bismil’s birthplace vs hanging jail | शाहजहाँपुर / गोरखपुर |
-| Delhi Durbar 1911 | Lucknow Pact 1916 | Annulment + capital vs Congress–League deal | दिल्ली दरबार / लखनऊ |
-| Muzaffarpur 1908 | Alipore 1908 | Kingsford attempt (Khudiram–Chaki) vs Manicktolla conspiracy trial | मुजफ्फरपुर / अलीपुर |
-| India House | Ghadar | London hub (Shyamji) vs 1913 N. America party | इंडिया हाउस / ग़दर |
-| Delhi Durbar 1877 | Delhi Durbar 1911 | Lytton proclaims Victoria Empress of India vs Hardinge annuls partition and shifts the capital | दिल्ली दरबार 1877 / 1911 |
-| Stuttgart flag 1907 | Berlin Committee 1915 | Madam Cama unfurls a tricolour at a Socialist Congress vs a wartime Europe plot with German help | स्टुटगार्ट ध्वज / बर्लिन समिति |
-| Bengal Swadeshi orgs | Bengal revolutionary orgs | Banerjee/Pal/Tagore/Aurobindo open politics vs Anushilan/Jugantar secret action | स्वदेशी संगठन / क्रांतिकारी संगठन |
 
 ---
 

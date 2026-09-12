@@ -15,6 +15,24 @@ Union and its Territory | Formation of States | State Reorganisation | States Re
 
 ---
 
+## Confused Pairs
+
+| A | B | Correct | Hindi |
+|---|----|------|-------|
+| Art. 2 | Art. 3 | Admit/establish **new** States vs form/alter **existing** | प्रवेश / गठन |
+| Art. 3 | Art. 368 | Simple majority + Art. 4 ≠ constitutional amendment | — |
+| Acquisition | Cession | Parliament by law vs **constitutional amendment** (*Berubari*) | अर्जन / समर्पण |
+| NCT (Delhi) | NCR | 69th Amd **Territory** vs statutory planning region (1985) | — |
+| LG (Delhi) | Governor (State) | Delhi: public order/police/land with Centre; LG stronger | उपराज्यपाल |
+| OCI | Dual citizenship | OCI ≠ dual citizen; no vote / no constitutional office | — |
+| NRI | OCI | Indian **citizen** abroad vs foreign citizen of Indian origin | — |
+| SRC (Fazl Ali) | JVP | 1953 linguistic-friendly vs 1948 rejected language | — |
+| NCT Delhi | Puducherry | 239AA (land/police reserved) vs 239A (no such triplet) | — |
+| NIC | Inter-State Council | Extra-constitutional 1961 vs **Art. 263** | — |
+| Renunciation | Deprivation | Voluntary by citizen vs Centre’s order (regd/naturalised) | — |
+
+---
+
 ## Consolidated — 28 Must-Score Facts
 
 1. **Part I** covers **Articles 1–4**. Names and territorial extent sit in the **First Schedule**. India is a **Union of States** — States cannot secede; Parliament may reorganise them.
@@ -45,24 +63,6 @@ Union and its Territory | Formation of States | State Reorganisation | States Re
 26. **Sikkim** entered as a full State through the **Article 2** path (**35th** associate stage, then **36th Amendment, 1975**), with special provision **371F**.
 27. Goa, Daman and Diu joined after **Operation Vijay (19 December 1961)**; Goa became a State in **1987**. French establishments around Puducherry were de facto **1954** and de jure **1962**.
 28. Renunciation is **voluntary** by the citizen. Deprivation is a **Central order** against certain registered or naturalised citizens — do not swap the two.
-
----
-
-## Confused Pairs
-
-| A | B | Correct | Hindi |
-|---|----|------|-------|
-| Art. 2 | Art. 3 | Admit/establish **new** States vs form/alter **existing** | प्रवेश / गठन |
-| Art. 3 | Art. 368 | Simple majority + Art. 4 ≠ constitutional amendment | — |
-| Acquisition | Cession | Parliament by law vs **constitutional amendment** (*Berubari*) | अर्जन / समर्पण |
-| NCT (Delhi) | NCR | 69th Amd **Territory** vs statutory planning region (1985) | — |
-| LG (Delhi) | Governor (State) | Delhi: public order/police/land with Centre; LG stronger | उपराज्यपाल |
-| OCI | Dual citizenship | OCI ≠ dual citizen; no vote / no constitutional office | — |
-| NRI | OCI | Indian **citizen** abroad vs foreign citizen of Indian origin | — |
-| SRC (Fazl Ali) | JVP | 1953 linguistic-friendly vs 1948 rejected language | — |
-| NCT Delhi | Puducherry | 239AA (land/police reserved) vs 239A (no such triplet) | — |
-| NIC | Inter-State Council | Extra-constitutional 1961 vs **Art. 263** | — |
-| Renunciation | Deprivation | Voluntary by citizen vs Centre’s order (regd/naturalised) | — |
 
 ---
 

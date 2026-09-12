@@ -15,6 +15,30 @@ East India Company and Nawabs of Bengal | Nawabs of Bengal | Battle of Plassey |
 
 ---
 
+## Confused Pairs
+
+| A | B | Difference | Hindi |
+|---|----|------------|-------|
+| Plassey 1757 | Buxar 1764 | Conspiracy + puppet Nawab vs real battle vs triple alliance; Diwani after Buxar | प्लासी / बक्सर |
+| Mir Jafar | Mir Qasim | Puppet after Plassey vs Nawab who fought at Buxar | मीर जाफ़र / मीर कासिम |
+| Diwani | Nizamat | Revenue (1765) vs police and criminal justice in the Nawab’s name | दीवानी / निज़ामत |
+| Dual Government 1765–72 | Direct rule 1772 | Clive created it; Hastings ended it | दोहरी सरकार |
+| Ring Fence | Subsidiary Alliance | Informal buffer around Bengal vs British troops + subsidy + Resident | रिंग फेंस / सहायक संधि |
+| Subsidiary Alliance | Doctrine of Lapse | Wellesley’s protection treaty vs Dalhousie’s annexation if no natural heir | सहायक संधि / विलुप्ति सिद्धांत |
+| Treaty of Madras 1769 | Treaty of Mangalore 1784 | First Anglo-Mysore War vs Second | मद्रास / मैंगलोर |
+| Salbai 1782 | Bassein 1802 | Peace after First Maratha War vs Peshwa’s subsidiary treaty | सालबाई / बसीन |
+| Treaty of Lahore 1846 | Punjab annexation 1849 | First Anglo-Sikh settlement vs annexation after Second War | लाहौर / पंजाब |
+| Sugauli 1816 | Lahore 1846 | Nepal hills vs Sikh Punjab | सुगौली / लाहौर |
+| Warren Hastings | Lord Hastings | Dual Govt / Ring Fence / Salbai / Banaras vs Nepal / Pindaris / Third Maratha | वारेन / लॉर्ड हेस्टिंग्स |
+| Chauth | Subsidiary Alliance | Maratha claim of one-fourth revenue vs British protection payment | चौथ |
+| Sindh 1843 | Punjab 1849 | Napier / Ellenborough vs Dalhousie after Second Sikh War | सिंध / पंजाब |
+| Awadh 1856 | Jhansi 1853 | Misgovernance annexation vs Lapse | अवध / झाँसी |
+| Treaty of Amritsar 1809 | Treaty of Lahore 1846 | Ranjit’s Sutlej peace vs First Sikh War settlement | अमृतसर / लाहौर |
+| Masterly Inactivity | Proud Reserve / Forward Policy | Lawrence’s caution on Afghanistan vs Lytton’s forward Afghan line | मास्टरी इनएक्टिविटी / प्राउड रिजर्व |
+| Surat 1775 | Purandhar 1776 | Bombay’s Raghoba deal vs Calcutta’s revised Maratha treaty before Salbai | सूरत / पुरंदर |
+
+---
+
 ## Consolidated — 26 Must-Score Facts
 
 1. Company rule grew in phases: factories → **Plassey puppet (1757)** → **Diwani (1765)** → Dual Government ends **1772** → Ring Fence → **Subsidiary Alliance (Wellesley from 1798)** → Paramountcy → **Lapse and annexations (Dalhousie)**.
@@ -45,31 +69,6 @@ East India Company and Nawabs of Bengal | Nawabs of Bengal | Battle of Plassey |
 26. Paramountcy under **Lord Hastings** meant smashing rivals and claiming overlordship after Nepal, Pindaris and the Third Maratha War — the bridge from Subsidiary diplomacy to open supremacy.
 
 ---
-
-## Confused Pairs
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Plassey 1757 | Buxar 1764 | Conspiracy + puppet Nawab vs real battle vs triple alliance; Diwani after Buxar | प्लासी / बक्सर |
-| Mir Jafar | Mir Qasim | Puppet after Plassey vs Nawab who fought at Buxar | मीर जाफ़र / मीर कासिम |
-| Diwani | Nizamat | Revenue (1765) vs police and criminal justice in the Nawab’s name | दीवानी / निज़ामत |
-| Dual Government 1765–72 | Direct rule 1772 | Clive created it; Hastings ended it | दोहरी सरकार |
-| Ring Fence | Subsidiary Alliance | Informal buffer around Bengal vs British troops + subsidy + Resident | रिंग फेंस / सहायक संधि |
-| Subsidiary Alliance | Doctrine of Lapse | Wellesley’s protection treaty vs Dalhousie’s annexation if no natural heir | सहायक संधि / विलुप्ति सिद्धांत |
-| Treaty of Madras 1769 | Treaty of Mangalore 1784 | First Anglo-Mysore War vs Second | मद्रास / मैंगलोर |
-| Salbai 1782 | Bassein 1802 | Peace after First Maratha War vs Peshwa’s subsidiary treaty | सालबाई / बसीन |
-| Treaty of Lahore 1846 | Punjab annexation 1849 | First Anglo-Sikh settlement vs annexation after Second War | लाहौर / पंजाब |
-| Sugauli 1816 | Lahore 1846 | Nepal hills vs Sikh Punjab | सुगौली / लाहौर |
-| Warren Hastings | Lord Hastings | Dual Govt / Ring Fence / Salbai / Banaras vs Nepal / Pindaris / Third Maratha | वारेन / लॉर्ड हेस्टिंग्स |
-| Chauth | Subsidiary Alliance | Maratha claim of one-fourth revenue vs British protection payment | चौथ |
-| Sindh 1843 | Punjab 1849 | Napier / Ellenborough vs Dalhousie after Second Sikh War | सिंध / पंजाब |
-| Awadh 1856 | Jhansi 1853 | Misgovernance annexation vs Lapse | अवध / झाँसी |
-| Treaty of Amritsar 1809 | Treaty of Lahore 1846 | Ranjit’s Sutlej peace vs First Sikh War settlement | अमृतसर / लाहौर |
-| Masterly Inactivity | Proud Reserve / Forward Policy | Lawrence’s caution on Afghanistan vs Lytton’s forward Afghan line | मास्टरी इनएक्टिविटी / प्राउड रिजर्व |
-| Surat 1775 | Purandhar 1776 | Bombay’s Raghoba deal vs Calcutta’s revised Maratha treaty before Salbai | सूरत / पुरंदर |
-
----
-
 
 ## 2.0 One clear picture — how the Company became an empire
 
@@ -2012,7 +2011,6 @@ D. Neither 1 nor 2
 **Ans: C (Both 1 and 2).**
 
 </details>
-
 
 
 ## Ghatnachakra Extra Drill — Regional States: Punjab & Mysore

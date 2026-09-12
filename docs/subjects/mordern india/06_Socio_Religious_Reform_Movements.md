@@ -15,6 +15,27 @@ Raja Ram Mohan Roy | Ishwar Chandra Vidyasagar | Jyotiba Phule | Satyashodhak Sa
 
 ---
 
+## Confused Pairs
+
+| A | B | Difference | Hindi |
+|---|----|------------|-------|
+| Brahmo Samaj | Arya Samaj | Reasoned monotheism and anti-idolatry vs “Back to the Vedas” and shuddhi | ब्रह्म समाज / आर्य समाज |
+| Aligarh | Deoband | Modern Western-style college vs traditional madrasa revival | अलीगढ़ / देवबंद |
+| Jyotiba Phule | Raja Ram Mohan Roy | Anti-caste work in Maharashtra vs Bengal elite religious reform | ज्योतिबा फुले / राम मोहन राय |
+| Malabari | Tilak (1891) | Pushed the Age of Consent Act vs opposed British interference in Hindu marriage | मालाबारी / तिलक |
+| Vidyasagar | D.K. Karve | Bengal widow remarriage and Sanskrit College vs Widow Remarriage Association in western India | विद्यासागर / कर्वे |
+| Ramakrishna | Vivekananda | Saint of Dakshineswar vs disciple who founded the Mission and spoke at Chicago | रामकृष्ण / विवेकानंद |
+| Prarthana Samaj | Brahmo Samaj | Bombay reform circle vs Bengal origin | प्रार्थना समाज / ब्रह्म समाज |
+| Satyashodhak Samaj | Prarthana Samaj | Phule’s truth-seeking anti-caste sabha vs Ranade’s liberal religious reform | सत्यशोधक / प्रार्थना |
+| Paramahansa Mandali | Prarthana Samaj | Secret 1849 Bombay circle against caste and idolatry vs public 1867 Bombay reform body | परमहंस मंडली / प्रार्थना समाज |
+| SNDP Yogam | Self-Respect Movement | Narayana Guru’s Kerala one-caste-one-god Ezhava uplift vs Periyar’s Tamil anti-Brahmin rationalism | एसएनडीपी / स्वाभिमान आंदोलन |
+| Singh Sabha | Arya Samaj | Sikh identity revival at Amritsar/Lahore vs Dayanand’s Vedic revival; both answered missionary and reform pressure | सिंह सभा / आर्य समाज |
+| Pandita Ramabai | D.K. Karve | Poona/Bombay women’s education, Sharada Sadan and Mukti Mission vs Widow Remarriage Association and SNDT | रमाबाई / कर्वे |
+| Wahabi movement | Ahmadiyya movement | Sayyid Ahmad of Rae Bareli’s militant revivalist stream vs Mirza Ghulam Ahmad’s peaceful messianic stream | वहाबी / अहमदिया |
+| Aligarh | Sir Syed Ahmad Khan | The institution (MAO College, 1875) vs its founder-reformer; always paired, never separated in a match | अलीगढ़ / सर सैयद |
+
+---
+
 ## Consolidated — 31 Must-Score Facts
 
 1. **Raja Ram Mohan Roy** founded **Atmiya Sabha (1815)** and **Brahmo Sabha / Brahmo Samaj (1828)**. He campaigned against Sati; **Bentinck** banned Sati in **1829**.
@@ -51,28 +72,6 @@ Raja Ram Mohan Roy | Ishwar Chandra Vidyasagar | Jyotiba Phule | Satyashodhak Sa
 
 
 ---
-
-## Confused Pairs
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Brahmo Samaj | Arya Samaj | Reasoned monotheism and anti-idolatry vs “Back to the Vedas” and shuddhi | ब्रह्म समाज / आर्य समाज |
-| Aligarh | Deoband | Modern Western-style college vs traditional madrasa revival | अलीगढ़ / देवबंद |
-| Jyotiba Phule | Raja Ram Mohan Roy | Anti-caste work in Maharashtra vs Bengal elite religious reform | ज्योतिबा फुले / राम मोहन राय |
-| Malabari | Tilak (1891) | Pushed the Age of Consent Act vs opposed British interference in Hindu marriage | मालाबारी / तिलक |
-| Vidyasagar | D.K. Karve | Bengal widow remarriage and Sanskrit College vs Widow Remarriage Association in western India | विद्यासागर / कर्वे |
-| Ramakrishna | Vivekananda | Saint of Dakshineswar vs disciple who founded the Mission and spoke at Chicago | रामकृष्ण / विवेकानंद |
-| Prarthana Samaj | Brahmo Samaj | Bombay reform circle vs Bengal origin | प्रार्थना समाज / ब्रह्म समाज |
-| Satyashodhak Samaj | Prarthana Samaj | Phule’s truth-seeking anti-caste sabha vs Ranade’s liberal religious reform | सत्यशोधक / प्रार्थना |
-| Paramahansa Mandali | Prarthana Samaj | Secret 1849 Bombay circle against caste and idolatry vs public 1867 Bombay reform body | परमहंस मंडली / प्रार्थना समाज |
-| SNDP Yogam | Self-Respect Movement | Narayana Guru’s Kerala one-caste-one-god Ezhava uplift vs Periyar’s Tamil anti-Brahmin rationalism | एसएनडीपी / स्वाभिमान आंदोलन |
-| Singh Sabha | Arya Samaj | Sikh identity revival at Amritsar/Lahore vs Dayanand’s Vedic revival; both answered missionary and reform pressure | सिंह सभा / आर्य समाज |
-| Pandita Ramabai | D.K. Karve | Poona/Bombay women’s education, Sharada Sadan and Mukti Mission vs Widow Remarriage Association and SNDT | रमाबाई / कर्वे |
-| Wahabi movement | Ahmadiyya movement | Sayyid Ahmad of Rae Bareli’s militant revivalist stream vs Mirza Ghulam Ahmad’s peaceful messianic stream | वहाबी / अहमदिया |
-| Aligarh | Sir Syed Ahmad Khan | The institution (MAO College, 1875) vs its founder-reformer; always paired, never separated in a match | अलीगढ़ / सर सैयद |
-
----
-
 
 ## 6.0 One clear picture — five reform streams by region
 

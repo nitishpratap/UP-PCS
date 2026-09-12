@@ -39,6 +39,16 @@
 
 ---
 
+## Must-Score Facts
+
+1. Consolidated Fund ≠ Contingency Fund.
+2. Contingency Fund = unforeseen advances (Art. 267(2) idea).
+3. Assembly polls → ECI; local polls → SEC.
+4. State Finance Commission ≠ UKPSC.
+5. Do not invent UK-only fund articles beyond the general state pattern.
+
+---
+
 ## 5.1 State funds
 
 **Identity:** Consolidated Fund = main pot | Contingency Fund = unforeseen advances.
@@ -58,16 +68,6 @@
 - Local body polls are run with the **State Election Commission**.
 - National and State parties contest the Assembly; anti-defection follows national constitutional rules.
 - The **State Finance Commission** recommends devolution to Panchayats and municipalities — it is **not** the UKPSC and not the Union Finance Commission.
-
----
-
-## Must-Score Facts
-
-1. Consolidated Fund ≠ Contingency Fund.
-2. Contingency Fund = unforeseen advances (Art. 267(2) idea).
-3. Assembly polls → ECI; local polls → SEC.
-4. State Finance Commission ≠ UKPSC.
-5. Do not invent UK-only fund articles beyond the general state pattern.
 
 ---
 

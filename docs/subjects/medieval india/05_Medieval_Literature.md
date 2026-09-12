@@ -15,6 +15,24 @@ Medieval Literature | Medieval Books and Their Authors | Delhi Sultanate Literat
 
 ---
 
+## Confused Pairs
+
+| A | B | Difference | Hindi |
+|---|----|------------|-------|
+| Akbarnama vs Ain-i-Akbari | Narrative history of Akbar vs admin/statistical gazetteer — both Abul Fazl | अकबरनामा / आइन-ए-अकबरी |
+| Baburnama vs Akbarnama | Babur's Turki memoir vs Abul Fazl's Persian Akbar history | बाबरनामा / अकबरनामा |
+| Tarikh vs Tabaqat | Annal/continuous history vs generational biographies ("classes") | तारीख / तबक़ात |
+| Barani vs Ibn Battuta | Delhi Sultanate historian vs Moroccan traveller (Rihla) | बरनी / इब्न बतूता |
+| Tughlaqnama vs Rihla | Barani's Tughlaq history vs Ibn Battuta's travelogue | तुग़लक़नामा / रिहला |
+| Barani vs Afif (Tarikh) | Barani's Tarikh (Balban→early Firuz) vs Afif's later Tarikh (Firuz→end) | बरनी / आफ़िफ़ |
+| Padmavat vs Padmavati Katha | Jaisi's Awadhi epic vs Damodar Kavi's **Padmavati Katha** | पद्मावत / पद्मावती कथा |
+| Riyaz-us-Salatin vs Riyaz-ul-Insha | Bengal history vs Gawan's official letters | रियाज़-उस-सलातीन / रियाज़-उल-इंशा |
+| Amir Khusrau vs Tansen | 13th–14th c. Sultanate poet vs Akbar's dhrupad master | अमीर खुसरो / तानसेन |
+| Tuzuk-i-Jahangiri vs Padshahnama | Emperor's own memoir vs court historian's Shah Jahan chronicle | तुज़ुक / पादशाहनामा |
+| Persian vs Turki (Mughal) | Mughal court language vs Babur's mother-tongue memoir only | फ़ारसी / चग़ताई तुर्की |
+
+---
+
 ## Consolidated — 28 Must-Score Facts
 
 1. The court language of the Sultanate and Mughal empires was **Persian**; **Baburnama** alone is written in **Chagatai Turki**.
@@ -45,24 +63,6 @@ Medieval Literature | Medieval Books and Their Authors | Delhi Sultanate Literat
 26. Court Persian ran from **Iltutmish** through **Aurangzeb** as the main administrative literary language.
 27. Vernacular Bhakti poetry of Kabir, Tulsidas, and Surdas ran parallel to Persian court literature.
 28. **Afif** covers later Firuz; Barani’s Tarikh stops earlier — that period split is the double-title trap.
-
----
-
-## Confused Pairs
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Akbarnama vs Ain-i-Akbari | Narrative history of Akbar vs admin/statistical gazetteer — both Abul Fazl | अकबरनामा / आइन-ए-अकबरी |
-| Baburnama vs Akbarnama | Babur's Turki memoir vs Abul Fazl's Persian Akbar history | बाबरनामा / अकबरनामा |
-| Tarikh vs Tabaqat | Annal/continuous history vs generational biographies ("classes") | तारीख / तबक़ात |
-| Barani vs Ibn Battuta | Delhi Sultanate historian vs Moroccan traveller (Rihla) | बरनी / इब्न बतूता |
-| Tughlaqnama vs Rihla | Barani's Tughlaq history vs Ibn Battuta's travelogue | तुग़लक़नामा / रिहला |
-| Barani vs Afif (Tarikh) | Barani's Tarikh (Balban→early Firuz) vs Afif's later Tarikh (Firuz→end) | बरनी / आफ़िफ़ |
-| Padmavat vs Padmavati Katha | Jaisi's Awadhi epic vs Damodar Kavi's **Padmavati Katha** | पद्मावत / पद्मावती कथा |
-| Riyaz-us-Salatin vs Riyaz-ul-Insha | Bengal history vs Gawan's official letters | रियाज़-उस-सलातीन / रियाज़-उल-इंशा |
-| Amir Khusrau vs Tansen | 13th–14th c. Sultanate poet vs Akbar's dhrupad master | अमीर खुसरो / तानसेन |
-| Tuzuk-i-Jahangiri vs Padshahnama | Emperor's own memoir vs court historian's Shah Jahan chronicle | तुज़ुक / पादशाहनामा |
-| Persian vs Turki (Mughal) | Mughal court language vs Babur's mother-tongue memoir only | फ़ारसी / चग़ताई तुर्की |
 
 ---
 

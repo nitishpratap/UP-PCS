@@ -39,6 +39,16 @@
 
 ---
 
+## Must-Score Facts
+
+1. UHRC = **13 May 2013**.
+2. Both UHRC-date and related governance statements can be true together — do not reject one automatically.
+3. Lokayukta ≠ UHRC.
+4. Samadhan / Citizen Charter = grievance–service governance, not fundamental rights text.
+5. National Lokpal / RTE / NITI stems → parent Topics 13 / 05 / 19.
+
+---
+
 ## 7.1 Human Rights Commission
 
 **Identity:** UHRC from **13 May 2013** | PHRA State commission | accountability + rights.
@@ -58,16 +68,6 @@
 - **RTI** gives information access; the State Information Commission is the appellate layer.
 - **Citizen Charter / e-governance / Samadhan Yojna** set service timelines and grievance-redress portals.
 - Rights in education, employment, and development pull from national Acts (RTE, MGNREGA-type) plus State adaptations — plant national RTE / RTS stems in parent chapters.
-
----
-
-## Must-Score Facts
-
-1. UHRC = **13 May 2013**.
-2. Both UHRC-date and related governance statements can be true together — do not reject one automatically.
-3. Lokayukta ≠ UHRC.
-4. Samadhan / Citizen Charter = grievance–service governance, not fundamental rights text.
-5. National Lokpal / RTE / NITI stems → parent Topics 13 / 05 / 19.
 
 ---
 

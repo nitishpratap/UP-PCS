@@ -28,6 +28,21 @@ No new school-vs-stone CA (verified August 2026).
 ---
 
 
+## Confused Pairs
+
+| A | B | Correct | Hindi |
+|---|----|------|-------|
+| Gandhara | Mathura | Grey **schist**, Greco-Roman, NW vs red **sandstone**, indigenous, **UP** | गांधार / मथुरा |
+| Mathura | Amaravati | Free-standing red-sandstone icons vs Andhra **limestone** narrative panels | मथुरा / अमरावती |
+| Mathura Kushan | Gupta Sarnath | Heavy volume vs transparent robe + spiritual calm | कुषाण / गुप्त |
+| Aniconic | Iconic | Wheel, tree, throne vs human Buddha from Kushan | अनिकोनिक / साकार |
+| Mauryan polish | Gupta finish | Mirror Chunar surface vs smooth idealism, not that polish | मौर्य / गुप्त |
+| Chola Nataraja | IVC Dancing Girl | Processional Shiva bronze vs Harappan lost-wax girl | नटराज / नर्तकी |
+| Khajuraho | Konark | Chandela mithuna vs Ganga Sun-chariot wheels | खजुराहो / कोणार्क |
+| Chola bronze | Dhokra | Temple lost-wax utsava murti vs tribal bell-metal | चोल / ढोकरा |
+
+---
+
 ## Consolidated — 24 Must-Score Facts
 
 1. Indian sculpture timeline: Indus bronze and terracotta → **Mauryan polish** → **Bharhut / Sanchi** relief → Kushan **Gandhara + Mathura** → **Amaravati** → **Gupta Sarnath** → temple walls → **Chola bronze**.
@@ -54,21 +69,6 @@ No new school-vs-stone CA (verified August 2026).
 22. Freestanding Mathura icons differ from Amaravati’s long narrative limestone panels around the stupa.
 23. Buddhist sculpture moves from symbol to person: aniconic Maurya–Shunga signs, then Kushan human Buddha, then Gupta ideal Buddha at Sarnath.
 24. **Ahichhatra** and **Kaushambi** are the UP terracotta homes. They are craft-and-figurine centres, not Gandhara schist ateliers.
-
----
-
-## Confused Pairs
-
-| A | B | Correct | Hindi |
-|---|----|------|-------|
-| Gandhara | Mathura | Grey **schist**, Greco-Roman, NW vs red **sandstone**, indigenous, **UP** | गांधार / मथुरा |
-| Mathura | Amaravati | Free-standing red-sandstone icons vs Andhra **limestone** narrative panels | मथुरा / अमरावती |
-| Mathura Kushan | Gupta Sarnath | Heavy volume vs transparent robe + spiritual calm | कुषाण / गुप्त |
-| Aniconic | Iconic | Wheel, tree, throne vs human Buddha from Kushan | अनिकोनिक / साकार |
-| Mauryan polish | Gupta finish | Mirror Chunar surface vs smooth idealism, not that polish | मौर्य / गुप्त |
-| Chola Nataraja | IVC Dancing Girl | Processional Shiva bronze vs Harappan lost-wax girl | नटराज / नर्तकी |
-| Khajuraho | Konark | Chandela mithuna vs Ganga Sun-chariot wheels | खजुराहो / कोणार्क |
-| Chola bronze | Dhokra | Temple lost-wax utsava murti vs tribal bell-metal | चोल / ढोकरा |
 
 ---
 

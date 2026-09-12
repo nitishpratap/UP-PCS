@@ -21,6 +21,21 @@ Ozone Layer | Ozone Depletion | Ozone Hole | Montreal Protocol
 
 ---
 
+## Confused Pairs
+
+| Term | One-line difference | Hindi |
+|------|---------------------|-------|
+| **Stratospheric ozone** | UV shield in stratosphere — "good ozone" | समताप मंडलीय ओज़ोन |
+| **Tropospheric ozone** | Ground-level pollutant from NOx + VOCs | क्षोभ मंडलीय ओज़ोन |
+| **Ozone depletion** | Fall in stratospheric ozone column | ओज़ोन क्षय |
+| **Ozone hole** | Antarctic spring area with ozone < 220 DU | ओज़ोन छिद्र |
+| **ODS** | CFCs, halons, and related ozone-destroying chemicals | ओज़ोन-क्षयकारी पदार्थ |
+| **Dobson Unit (DU)** | Measure of total ozone column | डॉबसन इकाई |
+| **Vienna Convention** | 1985 ozone protection framework | वियना सम्मेलन |
+| **Montreal Protocol** | 1987 binding ODS phase-out treaty | मॉन्ट्रियल प्रोटोकॉल |
+
+---
+
 ## Consolidated — 30 Must-Score Facts
 
 1. Ozone (O₃) is triatomic oxygen. **Stratospheric ozone** (about **15–30/35 km**) is protective “good” ozone. **Tropospheric ozone** is a ground-level pollutant.
@@ -53,21 +68,6 @@ Ozone Layer | Ozone Depletion | Ozone Hole | Montreal Protocol
 28. Homosphere ≈ troposphere + stratosphere + mesosphere; **ionosphere not** in that set.
 29. Column thickness often highest in **spring**, lowest in **rainy season** (general seasonal pattern).
 30. Full teaching depth for this chapter also lives in Topic **36**.
-
----
-
-## Confused Pairs
-
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **Stratospheric ozone** | UV shield in stratosphere — "good ozone" | समताप मंडलीय ओज़ोन |
-| **Tropospheric ozone** | Ground-level pollutant from NOx + VOCs | क्षोभ मंडलीय ओज़ोन |
-| **Ozone depletion** | Fall in stratospheric ozone column | ओज़ोन क्षय |
-| **Ozone hole** | Antarctic spring area with ozone < 220 DU | ओज़ोन छिद्र |
-| **ODS** | CFCs, halons, and related ozone-destroying chemicals | ओज़ोन-क्षयकारी पदार्थ |
-| **Dobson Unit (DU)** | Measure of total ozone column | डॉबसन इकाई |
-| **Vienna Convention** | 1985 ozone protection framework | वियना सम्मेलन |
-| **Montreal Protocol** | 1987 binding ODS phase-out treaty | मॉन्ट्रियल प्रोटोकॉल |
 
 ---
 

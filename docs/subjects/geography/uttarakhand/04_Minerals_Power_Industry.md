@@ -39,6 +39,17 @@
 
 ---
 
+## Must-Score Facts
+
+1. Silica sand ≠ Pauri Garhwal — use Dehradun, Nainital, Tehri Garhwal.
+2. Dolomite — Dehradun, Pithoragarh.
+3. Soapstone — Chamoli, Bageshwar.
+4. Graphite — Almora, Nainital.
+5. Hydropower is the core power narrative; Tehri is the flagship on Bhagirathi.
+6. Industry concentrates in Tarai plains and Dehradun belt.
+
+---
+
 ## 4.1 Minerals of Uttarakhand
 
 **Identity:** Scattered Himalayan–foothill minerals remembered by district pairs.
@@ -91,17 +102,6 @@
 - Heavy smokestack industry is limited by terrain, ecology, and transport cost.
 - Light manufacturing and services dominate instead.
 - Keep brand-new factory names for Current Affairs; the geography spine is plains–dun concentration plus hydropower.
-
----
-
-## Must-Score Facts
-
-1. Silica sand ≠ Pauri Garhwal — use Dehradun, Nainital, Tehri Garhwal.
-2. Dolomite — Dehradun, Pithoragarh.
-3. Soapstone — Chamoli, Bageshwar.
-4. Graphite — Almora, Nainital.
-5. Hydropower is the core power narrative; Tehri is the flagship on Bhagirathi.
-6. Industry concentrates in Tarai plains and Dehradun belt.
 
 ---
 

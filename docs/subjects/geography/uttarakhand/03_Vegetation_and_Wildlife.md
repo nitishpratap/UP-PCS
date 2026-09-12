@@ -52,6 +52,21 @@
 
 ---
 
+## Must-Score Facts
+
+1. Nanda Devi BR: WHS + snow leopard / musk deer / blue sheep.
+2. Askot–Pithoragarh; Binsar–Almora; Govind–Uttarkashi; Nandhaur–Nainital.
+3. Corbett 1936; Rajaji 1983; Gangotri 1989; Govind **1990**.
+4. Forest richness explained by topography and climate (A/R both true, R explains A).
+5. Swapping Askot/Binsar districts loses the match code.
+6. **Birch** = Himalayas (UKPCS 2006).
+7. **Deodar** abundant in western Himalayan temperate zone **1500–2500 m**; highest elevation among deodar / pine / sal / teak.
+8. **Lisa** comes from **pine** (resin → turpentine).
+9. **Khair** = **sub-tropical** forest type (UKPCS 2021); also the katha tree.
+10. **Bugyal** = alpine meadow above the tree-line.
+
+---
+
 ## 3.1 Vegetation belts
 
 **Identity:** Altitude stack from foothill sal up to bugyal meadows.
@@ -145,21 +160,6 @@
 - **Nandhaur** Wildlife Sanctuary sits in **Nainital**.
 - Nandhaur lies on the Kumaon foothill side.
 - Swapping Askot with Binsar districts is the classic match-list trap.
----
-
-## Must-Score Facts
-
-1. Nanda Devi BR: WHS + snow leopard / musk deer / blue sheep.
-2. Askot–Pithoragarh; Binsar–Almora; Govind–Uttarkashi; Nandhaur–Nainital.
-3. Corbett 1936; Rajaji 1983; Gangotri 1989; Govind **1990**.
-4. Forest richness explained by topography and climate (A/R both true, R explains A).
-5. Swapping Askot/Binsar districts loses the match code.
-6. **Birch** = Himalayas (UKPCS 2006).
-7. **Deodar** abundant in western Himalayan temperate zone **1500–2500 m**; highest elevation among deodar / pine / sal / teak.
-8. **Lisa** comes from **pine** (resin → turpentine).
-9. **Khair** = **sub-tropical** forest type (UKPCS 2021); also the katha tree.
-10. **Bugyal** = alpine meadow above the tree-line.
-
 ---
 
 ## UKPCS Inline PYQs

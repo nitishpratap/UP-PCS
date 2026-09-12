@@ -15,6 +15,33 @@ Advent of Europeans | Arrival of European Companies | Portuguese in India | Dutc
 
 ---
 
+## Confused Pairs
+
+| A | B | Difference | Hindi |
+|---|----|------------|-------|
+| Factory | Colony | Trading post with local permission vs territorial rule | फैक्टरी / उपनिवेश |
+| EIC 1600 | VOC 1602 | English company vs Dutch company | ईस्ट इंडिया कंपनी / वीओसी |
+| Cartaze | Farman | Portuguese sea-pass vs Mughal trade grant | कार्टाज़ / फ़रमान |
+| Chinsurah | Chandernagore | Dutch settlement in Bengal vs French settlement in Bengal | चिन्सुरा / चंद्रनगर |
+| Goa | Pondicherry | Portuguese capital vs French headquarters | गोवा / पांडिचेरी |
+| Aix-la-Chapelle 1748 | Paris 1763 | Ends First Carnatic War (Madras returned) vs ends Third Carnatic War (French political defeat) | एक्स-ला-शापेल / पेरिस |
+| Carnatic Wars | Anglo-Mysore Wars | English vs French in the 1740s–60s vs English vs Hyder/Tipu later | कर्नाटक युद्ध / आंग्ल-मैसूर |
+| Hawkins 1608 | Roe 1615–19 | EIC captain at Jahangir’s court vs ambassador of James I | हॉकिन्स / रो |
+| Wandiwash 1760 | Plassey 1757 | Anglo-French battle (Eyre Coote) vs Bengal battle (Clive) | वांडिवाश / प्लासी |
+| Presidency | Factory | Madras / Bombay / Bengal administrative unit vs a local trading station | प्रेसीडेंसी / फैक्टरी |
+| Cochin fort 1503 | Goa 1510 | First European fort (Albuquerque, not yet Governor) vs Estado capital | कोचीन / गोवा |
+| Masulipatnam 1611 | Surat 1613 | First English temporary factory vs first permanent English factory | मसूलीपट्टनम / सूरत |
+| Chinsurah | Bandel | Dutch Bengal (Fort Gustavus) vs Portuguese Bengal pocket | चिन्सुरा / बन्देल् |
+| Levant 1592 | EIC 1600 | Land-route charter vs sea East Indies charter | लेवेंट / ईआईसी |
+| Colachel 1741 | Bedara 1759 | Travancore vs Dutch (De Lannoy) vs English vs Dutch (Forde) | कोलाचेल / बेदारा |
+| Fort Geldria | Fort Gustavus | Dutch Pulicat fort vs Dutch Chinsurah fort | गेल्ड्रिया / गुस्तावस |
+| Lenoir / Dumas | Dupleix | Mid governors before Dupleix vs Carnatic proxy architect **1742–54** | लनोआ–डूमा / डूप्ले |
+| Capitanias | Cartaze | Portuguese coastal captaincies under fort captains vs Portuguese sea-pass | कैपिटानिया / कार्टाज़ |
+| Farman 1717 | Diwani 1765 | Farrukhsiyar trade privilege in Bengal vs revenue grant after Buxar | फ़रमान 1717 / दीवानी 1765 |
+| Swally 1612 | Surat factory 1613 | Thomas Best’s naval win vs first permanent English factory | स्वाली / सूरत |
+
+---
+
 ## Consolidated — 32 Must-Score Facts
 
 1. Vasco da Gama reached **Calicut** on **20 May 1498**, guided by the Gujarati navigator **Ahmad ibn Majid**. He opened the all-sea Atlantic route for Portugal. He did **not** capture **Goa**.
@@ -51,34 +78,6 @@ Advent of Europeans | Arrival of European Companies | Portuguese in India | Dutc
 32. **Farrukhsiyar’s farman of 1717** gave the English Company major duty-free trade privileges in Bengal. It is **not** the **Diwani of 1765**.
 
 ---
-
-## Confused Pairs
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Factory | Colony | Trading post with local permission vs territorial rule | फैक्टरी / उपनिवेश |
-| EIC 1600 | VOC 1602 | English company vs Dutch company | ईस्ट इंडिया कंपनी / वीओसी |
-| Cartaze | Farman | Portuguese sea-pass vs Mughal trade grant | कार्टाज़ / फ़रमान |
-| Chinsurah | Chandernagore | Dutch settlement in Bengal vs French settlement in Bengal | चिन्सुरा / चंद्रनगर |
-| Goa | Pondicherry | Portuguese capital vs French headquarters | गोवा / पांडिचेरी |
-| Aix-la-Chapelle 1748 | Paris 1763 | Ends First Carnatic War (Madras returned) vs ends Third Carnatic War (French political defeat) | एक्स-ला-शापेल / पेरिस |
-| Carnatic Wars | Anglo-Mysore Wars | English vs French in the 1740s–60s vs English vs Hyder/Tipu later | कर्नाटक युद्ध / आंग्ल-मैसूर |
-| Hawkins 1608 | Roe 1615–19 | EIC captain at Jahangir’s court vs ambassador of James I | हॉकिन्स / रो |
-| Wandiwash 1760 | Plassey 1757 | Anglo-French battle (Eyre Coote) vs Bengal battle (Clive) | वांडिवाश / प्लासी |
-| Presidency | Factory | Madras / Bombay / Bengal administrative unit vs a local trading station | प्रेसीडेंसी / फैक्टरी |
-| Cochin fort 1503 | Goa 1510 | First European fort (Albuquerque, not yet Governor) vs Estado capital | कोचीन / गोवा |
-| Masulipatnam 1611 | Surat 1613 | First English temporary factory vs first permanent English factory | मसूलीपट्टनम / सूरत |
-| Chinsurah | Bandel | Dutch Bengal (Fort Gustavus) vs Portuguese Bengal pocket | चिन्सुरा / बन्देल् |
-| Levant 1592 | EIC 1600 | Land-route charter vs sea East Indies charter | लेवेंट / ईआईसी |
-| Colachel 1741 | Bedara 1759 | Travancore vs Dutch (De Lannoy) vs English vs Dutch (Forde) | कोलाचेल / बेदारा |
-| Fort Geldria | Fort Gustavus | Dutch Pulicat fort vs Dutch Chinsurah fort | गेल्ड्रिया / गुस्तावस |
-| Lenoir / Dumas | Dupleix | Mid governors before Dupleix vs Carnatic proxy architect **1742–54** | लनोआ–डूमा / डूप्ले |
-| Capitanias | Cartaze | Portuguese coastal captaincies under fort captains vs Portuguese sea-pass | कैपिटानिया / कार्टाज़ |
-| Farman 1717 | Diwani 1765 | Farrukhsiyar trade privilege in Bengal vs revenue grant after Buxar | फ़रमान 1717 / दीवानी 1765 |
-| Swally 1612 | Surat factory 1613 | Thomas Best’s naval win vs first permanent English factory | स्वाली / सूरत |
-
----
-
 
 ## 1.0 One clear picture — Europeans to English ascendancy
 

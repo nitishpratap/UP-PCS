@@ -15,6 +15,32 @@ Parts of Constitution | Important Parts (III, IV, IVA, IX, IXA, IXB, XV, XVIII, 
 
 ---
 
+## Confused Pairs
+
+| A | B | Correct | Hindi |
+|---|----|------|-------|
+| Part III | Part IV | FR justiciable vs DPSP non-justiciable | मौलिक अधिकार / नीति निर्देशक |
+| Part IV | Part IVA | DPSP vs Fundamental Duties | — |
+| Part IX / IXA / IXB | — | Panchayats / Municipalities / Cooperatives | — |
+| Part XI | Part XIVA | Centre–State relations vs Tribunals | — |
+| 4th Schedule | 9th Schedule | RS seats vs validation of Acts | — |
+| 5th Schedule | 6th Schedule | Scheduled Areas (many States) vs AMTM Autonomous Councils | — |
+| 11th Schedule | 12th Schedule | 29 Panchayat subjects vs 18 Municipality subjects | — |
+| Art. 32 | Art. 226 | SC writs (FR) vs HC writs (wider — any purpose) | — |
+| Art. 226 | Art. 227 | HC writs vs HC **superintendence** over subordinate courts | — |
+| Art. 54 | Art. 66 | President: elected MPs + elected MLAs vs VP: **Parliament only** | — |
+| Art. 61 | Art. 67 | President **impeachment** vs VP removal by RS resolution + LS agreement | — |
+| Art. 72 | Art. 161 | President’s pardon vs Governor’s pardon | — |
+| Art. 76 | Art. 165 | Attorney-General of India vs Advocate-General of a State | — |
+| Art. 123 | Art. 213 | President’s Ordinance vs Governor’s Ordinance | — |
+| Art. 124 age | Art. 217 age | SC Judge **65** vs HC Judge **62** | — |
+| Art. 21 | Art. 21A | Life/liberty (wide, all persons) vs RTE **6–14** only | — |
+| Art. 29 | Art. 30 | Any **section** (culture) vs **minorities**’ institutions | — |
+| Art. 352 | Art. 356 / 360 | National vs State vs Financial Emergency | — |
+| Art. 371I | Art. 371J | **Goa** (min. 30 MLAs) vs **Karnataka** (Kalyana-Karnataka) | — |
+
+---
+
 ## Consolidated — 32 Must-Score Facts
 
 1. The Constitution is organised into **Parts**. Originally there were **22 Parts**; today there are about **25 Parts** (including IVA, IXA, IXB, XIVA). **Part VII** stands **repealed**.
@@ -49,32 +75,6 @@ Parts of Constitution | Important Parts (III, IV, IVA, IX, IXA, IXB, XV, XVIII, 
 30. **High Court** cluster: Art. **214** (HC for each State), **215** (court of record), **217** (appointment; age **62**), **226** (writs — wider than 32), **227** (superintendence), **231** (common HC). Do not swap **226** with **227**.
 31. **Article 21** is one sentence in the text, but courts have read into it dignity, livelihood, privacy, health, environment and related rights (*Maneka* → *Puttaswamy* map). **Article 21A** is the separate RTE for ages **6–14**.
 32. **Article 51A** lists **11** Fundamental Duties (**a–k**). Ten came with the **42nd**; **51A(k)** came with the **86th**. Advocate-General of a State is Art. **165** (parallel to Union AG under Art. **76**).
-
----
-
-## Confused Pairs
-
-| A | B | Correct | Hindi |
-|---|----|------|-------|
-| Part III | Part IV | FR justiciable vs DPSP non-justiciable | मौलिक अधिकार / नीति निर्देशक |
-| Part IV | Part IVA | DPSP vs Fundamental Duties | — |
-| Part IX / IXA / IXB | — | Panchayats / Municipalities / Cooperatives | — |
-| Part XI | Part XIVA | Centre–State relations vs Tribunals | — |
-| 4th Schedule | 9th Schedule | RS seats vs validation of Acts | — |
-| 5th Schedule | 6th Schedule | Scheduled Areas (many States) vs AMTM Autonomous Councils | — |
-| 11th Schedule | 12th Schedule | 29 Panchayat subjects vs 18 Municipality subjects | — |
-| Art. 32 | Art. 226 | SC writs (FR) vs HC writs (wider — any purpose) | — |
-| Art. 226 | Art. 227 | HC writs vs HC **superintendence** over subordinate courts | — |
-| Art. 54 | Art. 66 | President: elected MPs + elected MLAs vs VP: **Parliament only** | — |
-| Art. 61 | Art. 67 | President **impeachment** vs VP removal by RS resolution + LS agreement | — |
-| Art. 72 | Art. 161 | President’s pardon vs Governor’s pardon | — |
-| Art. 76 | Art. 165 | Attorney-General of India vs Advocate-General of a State | — |
-| Art. 123 | Art. 213 | President’s Ordinance vs Governor’s Ordinance | — |
-| Art. 124 age | Art. 217 age | SC Judge **65** vs HC Judge **62** | — |
-| Art. 21 | Art. 21A | Life/liberty (wide, all persons) vs RTE **6–14** only | — |
-| Art. 29 | Art. 30 | Any **section** (culture) vs **minorities**’ institutions | — |
-| Art. 352 | Art. 356 / 360 | National vs State vs Financial Emergency | — |
-| Art. 371I | Art. 371J | **Goa** (min. 30 MLAs) vs **Karnataka** (Kalyana-Karnataka) | — |
 
 ---
 

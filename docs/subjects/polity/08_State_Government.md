@@ -30,6 +30,27 @@ Governor | Governor's Discretionary Powers | Absolute vs Situational Discretion 
 ---
 
 
+## Confused Pairs
+
+| A | B | Correct | Hindi |
+|---|----|------|-------|
+| Art. 155 appointment | Art. 156 pleasure / removal | 155 ≠ removal | नियुक्ति / पदच्युति |
+| Art. 154 vesting | Art. 162 extent | Power vested vs **extent** of power | 154 / 162 |
+| Art. 72 death pardon | Art. 161 Governor pardon | Only President for death / court-martial | क्षमा |
+| LC abolished | LC dissolved | Can be **abolished** (169); **never dissolved** | विधान परिषद |
+| CoM min 12 | “Min 10” trap | Floor is **12** including CM (91st) | मंत्रिपरिषद |
+| CoM to LA only | “Both Houses” claim | Collective responsibility to **Assembly only** | सामूहिक उत्तरदायित्व |
+| Art. 200 re-passage | Art. 201 reserved Bill | Governor bound after re-passage path vs President **still free** | 200 / 201 |
+| SPSC appointment | SPSC removal | Governor appoints vs **President** removes | राज्य लोक सेवा आयोग |
+| State joint sitting | Art. 197 | **No** joint sitting; Assembly prevails | संयुक्त बैठक नहीं |
+| LC-origin Bill | Assembly rejection | Bill **dies** if Assembly rejects | परिषद विधेयक |
+| NCT-style LG | State Governor | Different Centre tether; State Governor = 153–162 scheme | उपराज्यपाल / राज्यपाल |
+| Tribal welfare minister | All States optional | **Compulsory** in CG, JH, MP, Odisha | जनजातीय कल्याण |
+| LC Chairman | Governor as automatic Chair | Council elects its **own** Chairman from members | परिषद सभापति |
+| One Governor, one State | 7th Amd proviso | Same person **may** govern two or more States | एक व्यक्ति दो राज्य |
+
+---
+
 ## Consolidated — 28 Must-Score Facts
 
 1. **Part VI** covers the State Executive: **Governor + Chief Minister + Council of Ministers + Advocate General**. The Governor is the **nominal** head; the CoM headed by the CM is the **real** executive.
@@ -60,27 +81,6 @@ Governor | Governor's Discretionary Powers | Absolute vs Situational Discretion 
 26. The office is on the **Canada** model (appointed by the Centre), **not** the USA model of elected governors. The Constituent Assembly dropped an elected Governor.
 27. The CM need not be from the Assembly alone: a Council member can be CM, and a non-member may be CM for up to **six months** while getting elected.
 28. Sarkaria conventions (outsider, detached from active politics, consult CM) are political expectations, often broken; Punchhi’s fixed-tenure / impeachment-like removal idea was **not implemented**.
-
----
-
-## Confused Pairs
-
-| A | B | Correct | Hindi |
-|---|----|------|-------|
-| Art. 155 appointment | Art. 156 pleasure / removal | 155 ≠ removal | नियुक्ति / पदच्युति |
-| Art. 154 vesting | Art. 162 extent | Power vested vs **extent** of power | 154 / 162 |
-| Art. 72 death pardon | Art. 161 Governor pardon | Only President for death / court-martial | क्षमा |
-| LC abolished | LC dissolved | Can be **abolished** (169); **never dissolved** | विधान परिषद |
-| CoM min 12 | “Min 10” trap | Floor is **12** including CM (91st) | मंत्रिपरिषद |
-| CoM to LA only | “Both Houses” claim | Collective responsibility to **Assembly only** | सामूहिक उत्तरदायित्व |
-| Art. 200 re-passage | Art. 201 reserved Bill | Governor bound after re-passage path vs President **still free** | 200 / 201 |
-| SPSC appointment | SPSC removal | Governor appoints vs **President** removes | राज्य लोक सेवा आयोग |
-| State joint sitting | Art. 197 | **No** joint sitting; Assembly prevails | संयुक्त बैठक नहीं |
-| LC-origin Bill | Assembly rejection | Bill **dies** if Assembly rejects | परिषद विधेयक |
-| NCT-style LG | State Governor | Different Centre tether; State Governor = 153–162 scheme | उपराज्यपाल / राज्यपाल |
-| Tribal welfare minister | All States optional | **Compulsory** in CG, JH, MP, Odisha | जनजातीय कल्याण |
-| LC Chairman | Governor as automatic Chair | Council elects its **own** Chairman from members | परिषद सभापति |
-| One Governor, one State | 7th Amd proviso | Same person **may** govern two or more States | एक व्यक्ति दो राज्य |
 
 ---
 

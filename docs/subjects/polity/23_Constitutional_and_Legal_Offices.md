@@ -45,6 +45,33 @@ Sitting AG / CAG / SG names are **CA colour** — don’t raata a 2026 occupant 
 ---
 
 
+## Confused Pairs
+
+| Term A | Term B | Core difference |
+|--------|--------|-----------------|
+| **Attorney General (76)** | **Solicitor General** | Constitutional; Art. **88** | **Not** in the text; no 88 |
+| **Attorney General** | **Advocate General (165)** | Union; President; **SC**-judge qualify | State; Governor; **HC**-judge qualify |
+| **AG / AdvG** | **CAG / SC judge** | **Pleasure** — no impeachment article | Removal **like SC judge** (CAG) / impeachment (judge) |
+| **AG** | **CAG** | May take private briefs (not vs GoI); further office **not** barred by 76 | **148(4)** no further Union/State office |
+| **CAG** | **Accountant General** | Union constitutional auditor | CAG’s **field** officer in a State |
+| **Advocate General** | **Accountant General** | State’s *law* officer (165) | State’s *accounts* officer (CAG’s man) |
+| **3rd Schedule oath** | **Art. 60 / 69 / 159** | Judges, CAG, ministers, MPs/MLAs | President / VP / Governor — **not** 3rd Schedule |
+| **2nd Schedule** | **AG’s pay** | CAG + judges (charged) | President fixes; **not** charged on CFI as a 2nd-Sch office |
+| **UK Comptroller** | **Indian CAG** | Can **block** a payment first | **Audits after** the money has gone |
+| **CEC** | **Other Election Commissioners** | Removed **like SC judge** | Removed only on **CEC’s recommendation** |
+| **UPSC Chairman** | **UPSC member** (Art. 319) | **No** further Union/State office | May become UPSC **Chair** or an **SPSC Chair** |
+| **SPSC: appoint** | **SPSC: remove** | **Governor** | **President** (after SC inquiry on misbehaviour) |
+| **CJI / SC judge oath** | **CJ HC / HC judge oath** | Before **President** | Before **Governor** |
+| **HC judge oath** | **HC judge resignation** | **Governor** | **President** |
+| **CJI age** | **CJ HC age** | **65** | **62** |
+| **CEC (324)** | **SEC (243K)** | Parliament / President / VP polls | Local bodies |
+| **President resigns** | **CJI resigns** | To the **VP** (56) | To the **President** (124) |
+| **ECI Art.** | **AdvG Art.** | **324** | **165** (2024 trap) |
+| **CEC 2023 panel** | **Lokpal panel** | PM + LoP LS + Cabinet Minister (**no CJI**) | **Includes CJI** (or an SC judge he nominates) |
+| **LS Speaker resigns** | **RS Chairman resigns** | To **Deputy Speaker** (94) | RS Chairman **is the VP** → resigns to the **President** (67) |
+
+---
+
 ## Consolidated — 30 Must-Score Facts
 
 1. The **Attorney General** (Article **76**) is the Union’s first law officer. Qualification matches a **Supreme Court judge**. Tenure is during the **pleasure of the President**. Removal is **not** by judge-impeachment.
@@ -77,33 +104,6 @@ Sitting AG / CAG / SG names are **CA colour** — don’t raata a 2026 occupant 
 28. CAG form of accounts advice sits in Article **150**. Do not invent a separate “Advocate General of accounts.”
 29. Solicitor General has no Article **88** speaking right by constitutional text. If the SG appears in Parliament contexts, that is not the AG’s Article 88 status.
 30. Study every office on six axes: appointment, removal, qualification, tenure, oath, and resign-to-whom. One missing axis is the usual prelims trap.
-
----
-
-## Confused Pairs
-
-| Term A | Term B | Core difference |
-|--------|--------|-----------------|
-| **Attorney General (76)** | **Solicitor General** | Constitutional; Art. **88** | **Not** in the text; no 88 |
-| **Attorney General** | **Advocate General (165)** | Union; President; **SC**-judge qualify | State; Governor; **HC**-judge qualify |
-| **AG / AdvG** | **CAG / SC judge** | **Pleasure** — no impeachment article | Removal **like SC judge** (CAG) / impeachment (judge) |
-| **AG** | **CAG** | May take private briefs (not vs GoI); further office **not** barred by 76 | **148(4)** no further Union/State office |
-| **CAG** | **Accountant General** | Union constitutional auditor | CAG’s **field** officer in a State |
-| **Advocate General** | **Accountant General** | State’s *law* officer (165) | State’s *accounts* officer (CAG’s man) |
-| **3rd Schedule oath** | **Art. 60 / 69 / 159** | Judges, CAG, ministers, MPs/MLAs | President / VP / Governor — **not** 3rd Schedule |
-| **2nd Schedule** | **AG’s pay** | CAG + judges (charged) | President fixes; **not** charged on CFI as a 2nd-Sch office |
-| **UK Comptroller** | **Indian CAG** | Can **block** a payment first | **Audits after** the money has gone |
-| **CEC** | **Other Election Commissioners** | Removed **like SC judge** | Removed only on **CEC’s recommendation** |
-| **UPSC Chairman** | **UPSC member** (Art. 319) | **No** further Union/State office | May become UPSC **Chair** or an **SPSC Chair** |
-| **SPSC: appoint** | **SPSC: remove** | **Governor** | **President** (after SC inquiry on misbehaviour) |
-| **CJI / SC judge oath** | **CJ HC / HC judge oath** | Before **President** | Before **Governor** |
-| **HC judge oath** | **HC judge resignation** | **Governor** | **President** |
-| **CJI age** | **CJ HC age** | **65** | **62** |
-| **CEC (324)** | **SEC (243K)** | Parliament / President / VP polls | Local bodies |
-| **President resigns** | **CJI resigns** | To the **VP** (56) | To the **President** (124) |
-| **ECI Art.** | **AdvG Art.** | **324** | **165** (2024 trap) |
-| **CEC 2023 panel** | **Lokpal panel** | PM + LoP LS + Cabinet Minister (**no CJI**) | **Includes CJI** (or an SC judge he nominates) |
-| **LS Speaker resigns** | **RS Chairman resigns** | To **Deputy Speaker** (94) | RS Chairman **is the VP** → resigns to the **President** (67) |
 
 ---
 

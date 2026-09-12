@@ -37,6 +37,16 @@
 
 ---
 
+## Must-Score Facts
+
+1. High Court seat = **Nainital**.
+2. Mobile vans = courtroom + IT connectivity.
+3. Aim = doorstep justice for remote areas.
+4. Working description and purpose of mobile courts can both be true in the same stem.
+5. Do not relocate the High Court to Dehradun in a seat stem.
+
+---
+
 ## 3.1 High Court sketch
 
 **Identity:** Apex State court | seat Nainital | Part VI High Court model.
@@ -55,16 +65,6 @@
 - Under the **mobile e-courts** project, vans fitted as courtrooms with computer, printer, and internet connectivity visit villages.
 - The policy idea is to deliver justice at the doorsteps of people in remote areas who struggle to reach district courts.
 - UKPCS 2025 tested **both** the equipment description and the access purpose as true.
-
----
-
-## Must-Score Facts
-
-1. High Court seat = **Nainital**.
-2. Mobile vans = courtroom + IT connectivity.
-3. Aim = doorstep justice for remote areas.
-4. Working description and purpose of mobile courts can both be true in the same stem.
-5. Do not relocate the High Court to Dehradun in a seat stem.
 
 ---
 

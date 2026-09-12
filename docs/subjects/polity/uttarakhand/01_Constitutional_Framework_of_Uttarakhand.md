@@ -41,6 +41,16 @@
 
 ---
 
+## Must-Score Facts
+
+1. Executive = Governor + CM + CoM (both statements true).
+2. First CM = Nityanand Swami; first CS = Indu Kumar Pandey.
+3. First woman Governor = Margaret Alva.
+4. Harbans Kapoor = Speaker + Protem more than once.
+5. State created **9 Nov 2000**.
+
+---
+
 ## 1.1 Governance sketch
 
 **Identity:** Parliamentary state under Part VI | unicameral Vidhan Sabha | Dehradun seat of government.
@@ -77,16 +87,6 @@
 - **Harbans Kapoor** performed the roles of **Speaker** and **Protem Speaker more than once**.
 - Other legislator names in options are distractors for that stem.
 - Protem Speaker is a temporary chair for the first sitting / oath stage — do not confuse it with a permanent Speaker term.
-
----
-
-## Must-Score Facts
-
-1. Executive = Governor + CM + CoM (both statements true).
-2. First CM = Nityanand Swami; first CS = Indu Kumar Pandey.
-3. First woman Governor = Margaret Alva.
-4. Harbans Kapoor = Speaker + Protem more than once.
-5. State created **9 Nov 2000**.
 
 ---
 

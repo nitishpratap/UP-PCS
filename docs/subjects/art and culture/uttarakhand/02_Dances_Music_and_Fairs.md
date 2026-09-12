@@ -40,6 +40,16 @@
 
 ---
 
+## Must-Score Facts
+
+1. Chholiya = Kumaon sword wedding dance.
+2. Padma Shri 2025 social work (UK) = **Radha Bahin Bhatt**.
+3. Madhuri Barthwal ≠ that 2025 social-work key.
+4. Uttarayani = **Bageshwar**; Nanda Raj Jat ≠ only wildlife park.
+5. Pandav Nritya (UK) ≠ Pandavani (Chhattisgarh).
+
+---
+
 ## 2.1 Folk dances and music
 
 **Identity:** Wedding sword dance · circle dances · Garhwal epic ritual drama.
@@ -84,16 +94,6 @@
 
 - **Radha Bahin Bhatt**, linked with **Lakshmi Ashram, Kausani**, received the **Padma Shri 2025 for social work**.
 - **Madhuri Barthwal** is the folk-music confusion planted beside that stem.
-
----
-
-## Must-Score Facts
-
-1. Chholiya = Kumaon sword wedding dance.
-2. Padma Shri 2025 social work (UK) = **Radha Bahin Bhatt**.
-3. Madhuri Barthwal ≠ that 2025 social-work key.
-4. Uttarayani = **Bageshwar**; Nanda Raj Jat ≠ only wildlife park.
-5. Pandav Nritya (UK) ≠ Pandavani (Chhattisgarh).
 
 ---
 

@@ -34,6 +34,18 @@
 
 ---
 
+## Must-Score Facts
+
+1. Kuninda = earliest strong UK foothill coin polity.
+2. Subahu = Mahabharata Kuninda name to remember.
+3. Dwij Srestha = UKPCS epic title key for Kuninda kings.
+4. Amoghabhuti = named Kuninda coin series.
+5. Yaudheya = gana; Skanda imagery on coins.
+6. Hill Yaudheya coins = contact, not proof of one hill capital.
+7. Kuninda ≠ Katyuri; Brahmapura ≠ Kartikeyapur.
+
+---
+
 ## 3.1 Kuninda — first historic hill polity
 
 **Kuninda | about 200 BCE–300 CE | central Himalayan foothills (UK–HP)**
@@ -68,18 +80,6 @@
 - Kushan coin finds in the Terai and pilgrimage belts (for example coaching lists from Rishikesh–Kotdwar–Kashipur zones) show the foothills stayed inside wider north Indian circuits.
 - Chinese traveller **Hiuen Tsang** later calls the Kumaon region **Brahmapura** — that card sits with Kartikepur / early medieval geography.
 - Full **Kartikepur / Katyuri** teaching continues in [Topic 4](04_Kartikepur_Dynasty.md) and the Medieval UK folder.
-
----
-
-## Must-Score Facts
-
-1. Kuninda = earliest strong UK foothill coin polity.
-2. Subahu = Mahabharata Kuninda name to remember.
-3. Dwij Srestha = UKPCS epic title key for Kuninda kings.
-4. Amoghabhuti = named Kuninda coin series.
-5. Yaudheya = gana; Skanda imagery on coins.
-6. Hill Yaudheya coins = contact, not proof of one hill capital.
-7. Kuninda ≠ Katyuri; Brahmapura ≠ Kartikeyapur.
 
 ---
 

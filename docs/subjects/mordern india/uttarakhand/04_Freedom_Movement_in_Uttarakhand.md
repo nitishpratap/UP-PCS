@@ -46,6 +46,21 @@
 
 ---
 
+## Must-Score Facts
+
+1. Kumaon Parishad founded Almora **1916**; 4th session **Kashipur 1920**.
+2. Home Rule Dehradun **1918** — **Vicharanand Saraswati** (Series B).
+3. Badri Dutt → Gandhi on Coolie-Begar **1918** — key city **Calcutta**.
+4. **Almora Akhbar** closes → **Shakti** founded Almora **15 Oct 1918** under Badri Dutt Pandey.
+5. Tara Dutt Gairola → Garhwal Union & Hitkarini Sabha.
+6. **Kalu Mehra** = named 1857 memory of the Champawat / Lohaghat belt.
+7. **Chandra Singh Garhwali** — Garhwal Rifles refuse to fire at **Peshawar, 1930**.
+8. **Sridev Suman** dies after Tehri jail hunger strike, **25 July 1944**.
+9. **Nagendra Saklani** martyred at **Kirtinagar, 11 January 1948**.
+10. Coolie-Begar ≠ Chipko; Suman ≠ Saklani.
+
+---
+
 ## 4.1 1857 and Uttarakhand
 
 **Causes:** News of the plains rising and local anger against Company rule reach Kumaon and Garhwal. Hill society is not a single front — some belts rise while other garrisons stay loyal.
@@ -168,21 +183,6 @@
 - **Civil Disobedience** shows as forest-law defiance, liquor picketing, and the Peshawar / Garhwali card of **1930**.
 - **Quit India (1942)** brings arrests of hill workers and keeps underground Congress / Praja Mandal networks alive into the 1940s.
 - This is a short bridge card — full national CCR stays in the shared Gandhian chapters; here only plant the hill echo.
-
----
-
-## Must-Score Facts
-
-1. Kumaon Parishad founded Almora **1916**; 4th session **Kashipur 1920**.
-2. Home Rule Dehradun **1918** — **Vicharanand Saraswati** (Series B).
-3. Badri Dutt → Gandhi on Coolie-Begar **1918** — key city **Calcutta**.
-4. **Almora Akhbar** closes → **Shakti** founded Almora **15 Oct 1918** under Badri Dutt Pandey.
-5. Tara Dutt Gairola → Garhwal Union & Hitkarini Sabha.
-6. **Kalu Mehra** = named 1857 memory of the Champawat / Lohaghat belt.
-7. **Chandra Singh Garhwali** — Garhwal Rifles refuse to fire at **Peshawar, 1930**.
-8. **Sridev Suman** dies after Tehri jail hunger strike, **25 July 1944**.
-9. **Nagendra Saklani** martyred at **Kirtinagar, 11 January 1948**.
-10. Coolie-Begar ≠ Chipko; Suman ≠ Saklani.
 
 ---
 

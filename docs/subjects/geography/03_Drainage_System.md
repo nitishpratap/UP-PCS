@@ -35,6 +35,33 @@ Namami Gange and GAP are Ganga cleaning programmes. They are not river-origin fa
 ---
 
 
+## Confused Pairs
+
+| A | B | Correct | Hindi |
+|---|----|------|-------|
+| Ganga basin | Godavari basin | Largest **India** vs largest **peninsular** | गंगा / गोदावरी |
+| Left-bank Ganga | Right-bank Ganga | Himalayan trib vs Yamuna/Son/Damodar | बायाँ / दायाँ तट |
+| Delta | Estuary | East-coast deposition vs west-coast tidal funnel | डेल्टा / ज्वारनदमुख |
+| Arcuate | Bird’s-foot | Sundarbans vs **Mississippi** | चापाकार / पक्षी-पाद |
+| Antecedent | Superimposed | Cuts rising Himalaya vs inherited course (Chambal) | पूर्ववर्ती / अध्यारोपित |
+| Trans-Himalayan | Himalayan-origin | Tibet origin + cuts Himalaya (Sutlej) vs rises in Himalaya (Jhelum/Ravi) | पार-हिमालयी |
+| Narmada | Tapi | Amarkantak vs **Multai (Satpura)** | नर्मदा / तापी |
+| Luni | Barak | Inland saline lower vs BoB via Meghna | लूनी / बराक |
+| Padma | Jamuna | Ganga in BD vs Brahmaputra in BD | पद्मा / जमुना |
+| Devprayag | Rudraprayag | +Bhagirathi = **Ganga** vs +Mandakini | देवप्रयाग / रुद्रप्रयाग |
+| Trellis | Dendritic | **Folded** structure vs homogeneous slope | जालनुमा / वृक्षाकार |
+| Consequent | Subsequent | Follows original slope vs later weak-belt tributary | अनुवर्ती / परवर्ती |
+| Concordant | Discordant | Follows structure vs cuts across (antecedent Himalaya) | संगत / असंगत |
+| Pranhita | Jonk | Godavari trib vs Mahanadi trib | प्रणहिता / जोंक |
+| Hyderabad–Musi | Hyderabad–Krishna | City on Musi trib, not Krishna stem | मुसी / कृष्णा |
+| E. Dhauliganga | Alaknanda Dhauli | Kali trib vs Vishnuprayag Dhauli | पूर्वी धौली |
+| Chambal ravines | Damodar rift | Badlands vs fault-valley tag | चंबल / दामोदर |
+| Kosi | Damodar | Sorrow of Bihar vs Sorrow of Bengal | कोसी / दामोदर |
+
+---
+
+![img_9.png](../img_9.png)
+
 ## Consolidated — 32 Must-Score Facts
 
 1. About **77%** of India’s drainage **area** faces the **Bay of Bengal**, about **23%** faces the **Arabian Sea**, and inland basins cover about **8%** of area. Over **90% of river water** still goes to the Bay of Bengal.
@@ -71,33 +98,6 @@ Namami Gange and GAP are Ganga cleaning programmes. They are not river-origin fa
 32. **Kosi** is the Sorrow of Bihar; **Damodar** is the Sorrow of Bengal. Do not swap those titles.
 
 ---
-
-## Confused Pairs
-
-| A | B | Correct | Hindi |
-|---|----|------|-------|
-| Ganga basin | Godavari basin | Largest **India** vs largest **peninsular** | गंगा / गोदावरी |
-| Left-bank Ganga | Right-bank Ganga | Himalayan trib vs Yamuna/Son/Damodar | बायाँ / दायाँ तट |
-| Delta | Estuary | East-coast deposition vs west-coast tidal funnel | डेल्टा / ज्वारनदमुख |
-| Arcuate | Bird’s-foot | Sundarbans vs **Mississippi** | चापाकार / पक्षी-पाद |
-| Antecedent | Superimposed | Cuts rising Himalaya vs inherited course (Chambal) | पूर्ववर्ती / अध्यारोपित |
-| Trans-Himalayan | Himalayan-origin | Tibet origin + cuts Himalaya (Sutlej) vs rises in Himalaya (Jhelum/Ravi) | पार-हिमालयी |
-| Narmada | Tapi | Amarkantak vs **Multai (Satpura)** | नर्मदा / तापी |
-| Luni | Barak | Inland saline lower vs BoB via Meghna | लूनी / बराक |
-| Padma | Jamuna | Ganga in BD vs Brahmaputra in BD | पद्मा / जमुना |
-| Devprayag | Rudraprayag | +Bhagirathi = **Ganga** vs +Mandakini | देवप्रयाग / रुद्रप्रयाग |
-| Trellis | Dendritic | **Folded** structure vs homogeneous slope | जालनुमा / वृक्षाकार |
-| Consequent | Subsequent | Follows original slope vs later weak-belt tributary | अनुवर्ती / परवर्ती |
-| Concordant | Discordant | Follows structure vs cuts across (antecedent Himalaya) | संगत / असंगत |
-| Pranhita | Jonk | Godavari trib vs Mahanadi trib | प्रणहिता / जोंक |
-| Hyderabad–Musi | Hyderabad–Krishna | City on Musi trib, not Krishna stem | मुसी / कृष्णा |
-| E. Dhauliganga | Alaknanda Dhauli | Kali trib vs Vishnuprayag Dhauli | पूर्वी धौली |
-| Chambal ravines | Damodar rift | Badlands vs fault-valley tag | चंबल / दामोदर |
-| Kosi | Damodar | Sorrow of Bihar vs Sorrow of Bengal | कोसी / दामोदर |
-
----
-
-![img_9.png](../img_9.png)
 
 ## 3.0 Drainage framework
 

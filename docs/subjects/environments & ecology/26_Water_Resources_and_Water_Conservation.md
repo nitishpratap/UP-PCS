@@ -21,6 +21,22 @@ Water Resources | IWRM | Rainwater Harvesting | Watershed Management | River Con
 
 ---
 
+## Confused Pairs
+
+| Term | One-line difference | Hindi |
+|------|---------------------|-------|
+| **IWRM** | Coordinated basin-level water management | एकीकृत जल प्रबंधन |
+| **Watershed** | Land draining to a common outlet | जलग्रहण क्षेत्र |
+| **Aquifer** | Underground layer storing groundwater | जलभृत |
+| **Rainwater harvesting** | Capture rain for use or recharge | वर्षा जल संचयन |
+| **STP / CETP** | Domestic sewage / industrial effluent plants | STP / CETP |
+| **BOD** | Organic pollution measure in water (mg/L) | जैव ऑक्सीजन मांग |
+| **CGWB** | Groundwater assessment & quality | केंद्रीय भू-जल बोर्ड |
+| **CPCB** | Surface water/air pollution standards | CPCB |
+| **Jal Jeevan Mission** | Rural household tap water (2019) | जल जीवन मिशन |
+
+---
+
 ## Consolidated — 38 Must-Score Facts
 
 1. World water rough shares: oceans about **97.2%**, ice/glaciers about **2%**, groundwater about **0.6%**, rivers about **0.01%**. Descending order is **Oceans > Polar ice > Groundwater > Rivers**.
@@ -61,22 +77,6 @@ Water Resources | IWRM | Rainwater Harvesting | Watershed Management | River Con
 36. JJM is rural tap connectivity; it is not Namami Gange’s river-cleaning mission.
 37. STP vs CETP: domestic vs industrial effluent trains — swap them and consent logic breaks.
 38. National Water Policy priority order starts with **drinking water**, not industry.
-
----
-
-## Confused Pairs
-
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **IWRM** | Coordinated basin-level water management | एकीकृत जल प्रबंधन |
-| **Watershed** | Land draining to a common outlet | जलग्रहण क्षेत्र |
-| **Aquifer** | Underground layer storing groundwater | जलभृत |
-| **Rainwater harvesting** | Capture rain for use or recharge | वर्षा जल संचयन |
-| **STP / CETP** | Domestic sewage / industrial effluent plants | STP / CETP |
-| **BOD** | Organic pollution measure in water (mg/L) | जैव ऑक्सीजन मांग |
-| **CGWB** | Groundwater assessment & quality | केंद्रीय भू-जल बोर्ड |
-| **CPCB** | Surface water/air pollution standards | CPCB |
-| **Jal Jeevan Mission** | Rural household tap water (2019) | जल जीवन मिशन |
 
 ---
 

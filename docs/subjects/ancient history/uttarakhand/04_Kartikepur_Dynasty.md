@@ -35,6 +35,18 @@
 
 ---
 
+## Must-Score Facts
+
+1. Kartikeyapura = Baijnath (Bageshwar).
+2. Katyuri capital shift tradition: Joshimath → Kartikeyapura.
+3. Founder tradition: Vasudeva / Basu Dev Katyuri in many notes.
+4. Brahmapura (Hiuen Tsang) ≠ Kartikeyapur capital.
+5. Taleshwar and Pandukeshwar are separate inscription / sacred-site distractors.
+6. Kuninda coins come **before** Kartikepur kingship.
+7. Full Chand/Parmar story = Medieval UK folder.
+
+---
+
 ## 4.1 Why this head sits in the Ancient UK folder
 
 - UKPCS lists **Kartikepur dynasty** inside the Uttarakhand history block next to Kuninda.
@@ -85,18 +97,6 @@
 - After the 11th–12th century, Katyuri power fragments into smaller hill principalities.
 - Later UKPCS medieval cards pick up **Chand dynasty of Kumaon** and **Parmar dynasty of Garhwal**.
 - Do not invent a clean single-year “end of Kartikepur” unless a stem supplies it.
-
----
-
-## Must-Score Facts
-
-1. Kartikeyapura = Baijnath (Bageshwar).
-2. Katyuri capital shift tradition: Joshimath → Kartikeyapura.
-3. Founder tradition: Vasudeva / Basu Dev Katyuri in many notes.
-4. Brahmapura (Hiuen Tsang) ≠ Kartikeyapur capital.
-5. Taleshwar and Pandukeshwar are separate inscription / sacred-site distractors.
-6. Kuninda coins come **before** Kartikepur kingship.
-7. Full Chand/Parmar story = Medieval UK folder.
 
 ---
 

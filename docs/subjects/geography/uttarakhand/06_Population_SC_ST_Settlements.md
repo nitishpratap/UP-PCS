@@ -43,6 +43,17 @@
 
 ---
 
+## Must-Score Facts
+
+1. Sex ratio desc.: Almora, Rudraprayag, Tehri Garhwal, Haridwar.
+2. Vanrawats = Pithoragarh + shifting cultivation history.
+3. Haridwar low sex ratio is the plains trap.
+4. Do not put Haridwar first in a “descending sex ratio” list.
+5. Raji / Vanrawat naming variants refer to the same group in standard notes.
+6. Bhotia = high Himalaya; Tharu / Boksa = Tarai.
+
+---
+
 ## 6.1 Population geography
 
 **Identity:** Census 2011 sex-ratio pattern | hill districts high | plains low.
@@ -94,17 +105,6 @@
 - **Srinagar (Garhwal)** plays the same mid-hill admin–college role in Garhwal.
 - Urbanisation is denser in plains and dun belts; many hill towns stay tourism–admin based.
 - The full tourist catalogue sits with Transport & Tourism.
-
----
-
-## Must-Score Facts
-
-1. Sex ratio desc.: Almora, Rudraprayag, Tehri Garhwal, Haridwar.
-2. Vanrawats = Pithoragarh + shifting cultivation history.
-3. Haridwar low sex ratio is the plains trap.
-4. Do not put Haridwar first in a “descending sex ratio” list.
-5. Raji / Vanrawat naming variants refer to the same group in standard notes.
-6. Bhotia = high Himalaya; Tharu / Boksa = Tarai.
 
 ---
 

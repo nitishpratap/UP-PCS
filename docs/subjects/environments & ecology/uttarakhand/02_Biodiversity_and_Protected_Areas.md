@@ -45,6 +45,16 @@
 
 ---
 
+## Must-Score Facts
+
+1. Forest richness explained by topography + climate (A/R both true, R explains A).
+2. Nanda Devi BR: WHS + snow leopard / musk deer / blue sheep.
+3. Askot–Pithoragarh; Binsar–Almora; Govind–Uttarkashi; Nandhaur–Nainital.
+4. Corbett 1936; Rajaji 1983; Gangotri 1989; Govind **1990**.
+5. Chipko / FSI–FRI–WII stay on Topic 1.
+
+---
+
 ## 2.1 Why Uttarakhand is biodiversity-rich
 
 **Identity:** Altitude packs many climates into a short distance.
@@ -84,16 +94,6 @@
 
 - Wildlife Sanctuaries allow regulated human uses that a National Park usually forbids — keep the WPA hierarchy from the national Protected Areas chapter.
 - Asan Conservation Reserve (also Ramsar) is a separate UK wetland PA colour in national Ramsar teaching.
-
----
-
-## Must-Score Facts
-
-1. Forest richness explained by topography + climate (A/R both true, R explains A).
-2. Nanda Devi BR: WHS + snow leopard / musk deer / blue sheep.
-3. Askot–Pithoragarh; Binsar–Almora; Govind–Uttarkashi; Nandhaur–Nainital.
-4. Corbett 1936; Rajaji 1983; Gangotri 1989; Govind **1990**.
-5. Chipko / FSI–FRI–WII stay on Topic 1.
 
 ---
 

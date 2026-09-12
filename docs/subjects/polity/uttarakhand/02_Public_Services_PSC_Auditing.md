@@ -39,6 +39,16 @@
 
 ---
 
+## Must-Score Facts
+
+1. UKPSC = state PSC.
+2. Advocate General ≠ Attorney General of India.
+3. First AG often listed as Nanda Ballabh Tiwari — still verify against the specific stem.
+4. Do not confuse State Finance Commission chair with PSC chair.
+5. Fund articles belong with the Funds chapter, not this PSC card.
+
+---
+
 ## 2.1 Public services and UKPSC
 
 **Identity:** State PSC under Part XIV | UKPCS recruitment gateway.
@@ -68,16 +78,6 @@
 - Audit of State receipts and expenditure sits with the **Comptroller and Auditor General** architecture.
 - Reports are laid before the State legislature and examined by committees such as the **Public Accounts Committee**.
 - Prelims so far has stressed **first office-holder names** more than deep AG procedure, but the CAG → PAC pipeline is the durable teaching bridge.
-
----
-
-## Must-Score Facts
-
-1. UKPSC = state PSC.
-2. Advocate General ≠ Attorney General of India.
-3. First AG often listed as Nanda Ballabh Tiwari — still verify against the specific stem.
-4. Do not confuse State Finance Commission chair with PSC chair.
-5. Fund articles belong with the Funds chapter, not this PSC card.
 
 ---
 

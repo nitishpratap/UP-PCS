@@ -21,6 +21,22 @@ Habitat | Habitat Conservation | Flora and Fauna
 
 ---
 
+## Confused Pairs
+
+| Term | One-line difference | Hindi |
+|------|---------------------|-------|
+| **Habitat** | Physical **place** where an organism lives | निवास स्थान |
+| **Niche** | **Role/function** of a species in an ecosystem | पारिस्थितिक निच |
+| **Ecosystem** | Functional unit of biotic + abiotic interaction | पारिस्थितिकी तंत्र |
+| **Flora** | **Plant** life of a region | वनस्पति |
+| **Fauna** | **Animal** life of a region | जंतु |
+| **Microhabitat** | Small subdivision within a habitat | सूक्ष्म निवास |
+| **Transitional habitat** | Boundary ecosystem such as wetland or mangrove | संक्रमणक निवास |
+| **In-situ** | Conservation in **natural habitat** | स्थानिक संरक्षण |
+| **Ex-situ** | Conservation **outside** natural habitat | पारजी संरक्षण |
+
+---
+
 ## Consolidated — 24 Must-Score Facts
 
 1. A **habitat** is the physical **place** where an organism lives. A **niche** is the **role**. An **ecosystem** is the functional unit. **Environment** is the total surroundings.
@@ -47,22 +63,6 @@ Habitat | Habitat Conservation | Flora and Fauna
 22. MISHTI is mangrove-focused coastal income and protection — not a Terai tiger scheme.
 23. Jal Jeevan Mission (**2019**) is the latest fact in the urban/habitat chronology set above; do not date NUHHP as 2019.
 24. Corridor questions for UP should start from Terai Arc links, not from Western Ghat mangrove corridors.
-
----
-
-## Confused Pairs
-
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **Habitat** | Physical **place** where an organism lives | निवास स्थान |
-| **Niche** | **Role/function** of a species in an ecosystem | पारिस्थितिक निच |
-| **Ecosystem** | Functional unit of biotic + abiotic interaction | पारिस्थितिकी तंत्र |
-| **Flora** | **Plant** life of a region | वनस्पति |
-| **Fauna** | **Animal** life of a region | जंतु |
-| **Microhabitat** | Small subdivision within a habitat | सूक्ष्म निवास |
-| **Transitional habitat** | Boundary ecosystem such as wetland or mangrove | संक्रमणक निवास |
-| **In-situ** | Conservation in **natural habitat** | स्थानिक संरक्षण |
-| **Ex-situ** | Conservation **outside** natural habitat | पारजी संरक्षण |
 
 ---
 

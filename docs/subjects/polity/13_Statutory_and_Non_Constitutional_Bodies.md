@@ -86,6 +86,26 @@ D. 2 and 3
 ---
 
 
+## Confused Pairs
+
+| A | B | Correct | Hindi |
+|--------|--------|-----------------|-------|
+| **Lokpal** | **Lokayukta** | Union, 2013 Act | State Act (UP **1975**) |
+| **CVC** | **CBI** | Statutory watchdog; **no** police power of its own | Investigating agency (DPSE); CVC **supervises** PCA cases |
+| **CIC** | **NHRC** | RTI appeals | Human-rights complaints; **not** RTI |
+| **NHRC** | **NCSC** | **Statutory** (1993) | **Constitutional** (338) |
+| **NGT** | **CAT** | Environment, 2010 Act | Service matters, **323A / 1985** |
+| **RBI** | **SEBI** | Monetary / currency / banking | Capital market |
+| **Search Committee** | **Selection Committee** | Shortlists Lokpal names | Recommends to President (2024 panel) |
+| **SAT (State AT)** | **SAT (securities)** | State service tribunal | SEBI appeals |
+| **NITI** | **FC** | Executive think-tank (2015) | Constitutional **280** |
+| **NITI** | **Planning Commission** | Advisory; no Plan-fund allocation | Extra-constitutional **1950**; allocated Plan funds |
+| **CBI** | **NIA** | DSPE 1946 + 1963 resolution; **State consent** | **Statutory 2008**; **no** consent for scheduled offences |
+| **IB** | **RAW** | Internal; **1887**; MHA | External; **1968**; Cabinet Secretariat |
+| **ED** | **CBI** | FEMA / PMLA; Finance (Revenue) | General crime / PCA; DoPT |
+
+---
+
 ## Consolidated — 28 Must-Score Facts
 
 1. A **statutory body** is created by an **Act of Parliament or a State legislature**. It is not created by the Constitution (CAT is the special case that rides on **Article 323A**).
@@ -116,25 +136,6 @@ D. 2 and 3
 26. The **NIA** was created by the **NIA Act, 2008** after 26/11. It investigates scheduled offences and does **not** need State consent in the CBI sense. The **2019** amendment widened its reach.
 27. The **Intelligence Bureau (1887)** is the oldest, for **internal** intelligence under the Home Ministry. **RAW (21 September 1968)**, founded under **R.N. Kao**, handles **external** intelligence under the Cabinet Secretariat. The **Enforcement Directorate (1956)** under the Department of Revenue works FEMA and PMLA.
 28. The **National Security Council (1998)** is chaired by the **Prime Minister**. The first National Security Adviser was **Brajesh Mishra**. Related structures include SPG, NSAB, and NSCS.
-
----
-## Confused Pairs
-
-| A | B | Correct | Hindi |
-|--------|--------|-----------------|-------|
-| **Lokpal** | **Lokayukta** | Union, 2013 Act | State Act (UP **1975**) |
-| **CVC** | **CBI** | Statutory watchdog; **no** police power of its own | Investigating agency (DPSE); CVC **supervises** PCA cases |
-| **CIC** | **NHRC** | RTI appeals | Human-rights complaints; **not** RTI |
-| **NHRC** | **NCSC** | **Statutory** (1993) | **Constitutional** (338) |
-| **NGT** | **CAT** | Environment, 2010 Act | Service matters, **323A / 1985** |
-| **RBI** | **SEBI** | Monetary / currency / banking | Capital market |
-| **Search Committee** | **Selection Committee** | Shortlists Lokpal names | Recommends to President (2024 panel) |
-| **SAT (State AT)** | **SAT (securities)** | State service tribunal | SEBI appeals |
-| **NITI** | **FC** | Executive think-tank (2015) | Constitutional **280** |
-| **NITI** | **Planning Commission** | Advisory; no Plan-fund allocation | Extra-constitutional **1950**; allocated Plan funds |
-| **CBI** | **NIA** | DSPE 1946 + 1963 resolution; **State consent** | **Statutory 2008**; **no** consent for scheduled offences |
-| **IB** | **RAW** | Internal; **1887**; MHA | External; **1968**; Cabinet Secretariat |
-| **ED** | **CBI** | FEMA / PMLA; Finance (Revenue) | General crime / PCA; DoPT |
 
 ---
 

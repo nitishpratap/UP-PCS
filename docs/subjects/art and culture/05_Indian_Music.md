@@ -28,6 +28,27 @@ Vedic chanting UNESCO ICH **2008**. Sankirtana (Manipur) **2013**.
 ---
 
 
+## Confused Pairs
+
+| A | B | Correct | Hindi |
+|---|----|------|-------|
+| Hindustani | Carnatic | North improvisation + gharana vs south kriti + 72 melakarta | हिंदुस्तानी / कर्नाटक |
+| Raga | Tala | Melody framework vs beat-cycle | राग / ताल |
+| Dhrupad | Khayal | Oldest + **pakhawaj** vs dominant today + **tabla** | ध्रुपद / ख्याल |
+| Khayal | Thumri | Full classical vs light romantic (Bol Banav) | ख्याल / ठुमरी |
+| Tappa | Thumri | Fast, camel-song origin, **Muhammad Shah** court vs Awadh–Banaras romantic | टप्पा / ठुमरी |
+| Gharana | Raga | Performance school vs melodic framework | घराना / राग |
+| Melakarta | Janya | 72 parent scales vs derived child ragas | मेलकर्ता / जन्य |
+| Tabla | Mridangam | Hindustani khayal vs Carnatic primary drum | तबला / मृदंगम |
+| Tabla | Pakhawaj | Khayal/thumri vs dhrupad | तबला / पखावज |
+| Shehnai | Nadaswaram | Hindustani reed, Banaras vs Carnatic temple reed | शहनाई / नादस्वरम् |
+| Tata | Vitat | Plucked string vs bowed string | तत / वितत |
+| Avanaddha | Ghana | Membrane drum vs solid/idiophone (manjira, ghatam) | अवनद्ध / घन |
+| Tansen | Amir Khusrau | Akbar dhrupad vs Nizamuddin, qawwali/tarana | तानसेन / अमीर खुसरो |
+| Tyagaraja | Tansen | Carnatic Rama kritis vs Hindustani Navaratna | त्यागराज / तानसेन |
+
+---
+
 ## Consolidated — 24 Must-Score Facts
 
 1. **Sangeet** means **gita** (vocal) + **vadya** (instrumental) + **nritya** (dance). The earliest chant fact is the **Samaveda**.
@@ -54,27 +75,6 @@ Vedic chanting UNESCO ICH **2008**. Sankirtana (Manipur) **2013**.
 22. A **raga** is a melody framework. A **tala** is a beat-cycle. **Teental** is **16** beats. Carnatic **Adi tala** is **8**.
 23. Vedic chanting is UNESCO ICH **2008**. Manipuri **Sankirtana** is UNESCO ICH **2013**.
 24. Tansen Samaroh is held at **Gwalior, Madhya Pradesh**. It is not a UP festival fact.
-
----
-
-## Confused Pairs
-
-| A | B | Correct | Hindi |
-|---|----|------|-------|
-| Hindustani | Carnatic | North improvisation + gharana vs south kriti + 72 melakarta | हिंदुस्तानी / कर्नाटक |
-| Raga | Tala | Melody framework vs beat-cycle | राग / ताल |
-| Dhrupad | Khayal | Oldest + **pakhawaj** vs dominant today + **tabla** | ध्रुपद / ख्याल |
-| Khayal | Thumri | Full classical vs light romantic (Bol Banav) | ख्याल / ठुमरी |
-| Tappa | Thumri | Fast, camel-song origin, **Muhammad Shah** court vs Awadh–Banaras romantic | टप्पा / ठुमरी |
-| Gharana | Raga | Performance school vs melodic framework | घराना / राग |
-| Melakarta | Janya | 72 parent scales vs derived child ragas | मेलकर्ता / जन्य |
-| Tabla | Mridangam | Hindustani khayal vs Carnatic primary drum | तबला / मृदंगम |
-| Tabla | Pakhawaj | Khayal/thumri vs dhrupad | तबला / पखावज |
-| Shehnai | Nadaswaram | Hindustani reed, Banaras vs Carnatic temple reed | शहनाई / नादस्वरम् |
-| Tata | Vitat | Plucked string vs bowed string | तत / वितत |
-| Avanaddha | Ghana | Membrane drum vs solid/idiophone (manjira, ghatam) | अवनद्ध / घन |
-| Tansen | Amir Khusrau | Akbar dhrupad vs Nizamuddin, qawwali/tarana | तानसेन / अमीर खुसरो |
-| Tyagaraja | Tansen | Carnatic Rama kritis vs Hindustani Navaratna | त्यागराज / तानसेन |
 
 ---
 

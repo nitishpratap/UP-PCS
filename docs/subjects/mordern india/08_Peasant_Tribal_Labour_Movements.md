@@ -20,6 +20,42 @@ Peasant Movements | Peasant Revolts | Leaders | Tribal Revolts | Tribal Leaders 
 
 ---
 
+## Confused Pairs
+
+| A | B | Difference | Hindi |
+
+|---|----|------------|-------|
+
+| Peasant revolt | Tribal revolt | Rent / indigo / zamindar of settled cultivators vs land–forest–*diku* in tribal belts | किसान / जनजातीय |
+
+| Indigo 1859–60 | Pabna 1873–85 | European planters vs zamindar rent-hikes | नील / पाबना |
+
+| Santhal 1855 | Munda Ulgulan 1899–1900 | Sidhu–Kanhu vs Birsa Munda | संथाल / मुंडा |
+
+| Kol 1831 | Khasi 1829 | Chotanagpur vs Meghalaya hills (Tirut Singh) | कोल / खासी |
+
+| Ahom 1828 | Ahom 1815 | Correct year vs **2018 trap year** | अहोम |
+
+| Moplah 1921 | Bardoli 1928 | Malabar tenants (violent phase) vs Gujarat no-tax satyagraha | मोपला / बारडोली |
+
+| Tebhaga | Eka | Bengal 1946 share 2/3 vs Awadh 1921–22 rent receipts | तेभागा / एका |
+
+| AITUC 1920 | INTUC 1947 | CPI stream vs Congress labour wing | एटक / इंटक |
+
+| UTUC | CITU | UPPCS maps UTUC â†’ CPI(M); CITU is the real CPI(M) centre (1970) | à¤¯à¥‚à¤Ÿà¥€à¤¯à¥‚à¤¸à¥€ / à¤¸à¥€à¤Ÿà¥‚ |
+
+| Dwivedi | Baba Ramchandra | UP Kisan Sabha **1918** founder tag vs Awadh peasant mobiliser | द्विवेदी / बाबा रामचंद्र |
+
+| Bareilly 1816 | Bareilly 1857 | Mufti Muhammad Aiwaz vs Khan Bahadur Khan | बरेली |
+
+| Bonded labour | Wage labour | Debt-tied unfree work vs paid factory / mill labour | बंधुआ मजदूरी / मजदूरी |
+
+| Tebhaga 1946–47 | Telangana 1946–51 | Bengal sharecrop share-demand vs Hyderabad armed anti-*jagirdar* struggle | तेभागा / तेलंगाना |
+
+| Eka 1921–22 | Awadh Kisan Sabha ~1920 | Madari Pasi's rent-receipt oath vs Baba Ramchandra's broader mobilisation | एका / अवध |
+
+---
+
 ## Consolidated — 30 Must-Score Facts
 
 1. Hold three streams: **peasant** (rent, indigo, share), **tribal** (land–forest–*diku*), and **labour** (unions and wages). Method can overlap; the target of protest does not.
@@ -81,42 +117,6 @@ Peasant Movements | Peasant Revolts | Leaders | Tribal Revolts | Tribal Leaders 
 29. **Thakkar Bapa** popularised the word **Adivasi**; **Jadonang** is tagged as the first Gandhi-inspired Naga tribal leader; **N.M. Lokhande** pioneered organised mill labour.
 
 30. After Santhal Hul: **Santhal Parganas** + ban on transfer of Santhal land to non-Santhals. Indigo faded in the early twentieth century mainly because of **synthetic dyes**.
-
----
-
-## Confused Pairs
-
-| A | B | Difference | Hindi |
-
-|---|----|------------|-------|
-
-| Peasant revolt | Tribal revolt | Rent / indigo / zamindar of settled cultivators vs land–forest–*diku* in tribal belts | किसान / जनजातीय |
-
-| Indigo 1859–60 | Pabna 1873–85 | European planters vs zamindar rent-hikes | नील / पाबना |
-
-| Santhal 1855 | Munda Ulgulan 1899–1900 | Sidhu–Kanhu vs Birsa Munda | संथाल / मुंडा |
-
-| Kol 1831 | Khasi 1829 | Chotanagpur vs Meghalaya hills (Tirut Singh) | कोल / खासी |
-
-| Ahom 1828 | Ahom 1815 | Correct year vs **2018 trap year** | अहोम |
-
-| Moplah 1921 | Bardoli 1928 | Malabar tenants (violent phase) vs Gujarat no-tax satyagraha | मोपला / बारडोली |
-
-| Tebhaga | Eka | Bengal 1946 share 2/3 vs Awadh 1921–22 rent receipts | तेभागा / एका |
-
-| AITUC 1920 | INTUC 1947 | CPI stream vs Congress labour wing | एटक / इंटक |
-
-| UTUC | CITU | UPPCS maps UTUC â†’ CPI(M); CITU is the real CPI(M) centre (1970) | à¤¯à¥‚à¤Ÿà¥€à¤¯à¥‚à¤¸à¥€ / à¤¸à¥€à¤Ÿà¥‚ |
-
-| Dwivedi | Baba Ramchandra | UP Kisan Sabha **1918** founder tag vs Awadh peasant mobiliser | द्विवेदी / बाबा रामचंद्र |
-
-| Bareilly 1816 | Bareilly 1857 | Mufti Muhammad Aiwaz vs Khan Bahadur Khan | बरेली |
-
-| Bonded labour | Wage labour | Debt-tied unfree work vs paid factory / mill labour | बंधुआ मजदूरी / मजदूरी |
-
-| Tebhaga 1946–47 | Telangana 1946–51 | Bengal sharecrop share-demand vs Hyderabad armed anti-*jagirdar* struggle | तेभागा / तेलंगाना |
-
-| Eka 1921–22 | Awadh Kisan Sabha ~1920 | Madari Pasi's rent-receipt oath vs Baba Ramchandra's broader mobilisation | एका / अवध |
 
 ---
 

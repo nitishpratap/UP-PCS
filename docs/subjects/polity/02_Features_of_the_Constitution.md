@@ -26,6 +26,36 @@
 
 ---
 
+## Confused Pairs
+
+| Pair | Correct | Trap | Hindi |
+|------|------------|------|-------|
+| Rigid vs Flexible | Blend under Art. 368 + simple-majority paths | “Only rigid like USA” | कठोर+लचीला |
+| Federal vs Unitary | Dual polity + strong Centre = **quasi-federal** | Pure classical federation | अर्ध-संघीय |
+| Quasi-federal (Wheare) | Unitary bias label | Call Austin “quasi” | व्हीयर = अर्ध |
+| Cooperative (Austin) | Centre–State collaboration | Mix with Wheare | ऑस्टिन = सहयोगी |
+| Bargaining (Morris-Jones) | Political bargaining federalism | Mix with Jennings | मॉरिस-जोन्स |
+| Parliamentary vs Presidential | Executive responsible to legislature | President = Presidential system | संसदीय |
+| Independent vs Integrated judiciary | Free of organ control vs one hierarchy under SC | Swap meanings | स्वतंत्र / एकीकृत |
+| Preamble is part vs enforceable | Part after Kesavananda; **still not enforceable** | Treat as FR | उद्देशिका |
+| Adopt date vs enforce date | Preamble date = **26 Nov 1949**; force = **26 Jan 1950** | Swap | अंगीकरण / प्रवर्तन |
+| 26 Jan 1950 status | **Sovereign Democratic Republic** | Include Socialist/Secular already | 1950 स्थिति |
+| 42nd Preamble words | **Socialist + Secular** (+ integrity) | Sovereignty / Republic | समाजवादी+धर्मनिरपेक्ष |
+| Single vs Dual citizenship | India = **single**; USA = dual | India has state citizenship | एकल नागरिकता |
+| Rule of Law vs Constitutional supremacy | No one above law vs Constitution highest law | Treat as identical | विधि / संविधान |
+| Residuary powers | **Centre** (Canada pattern) | States like USA | अवशिष्ट = केंद्र |
+| Art. 3 vs Art. 368 | Boundary change = simple majority path | Call every change “special majority” | अनुच्छेद 3 |
+| Residual vs Concurrent source | **Canada** vs **Australia** | Swap the pair | कनाडा / ऑस्ट्रेलिया |
+| FR vs DPSP source | **USA** vs **Ireland** | Swap or mix with UK | अमेरिका / आयरलैंड |
+| GOI 1935 vs full copy | **Structural skeleton** only | “Pure carbon copy” | 1935 = ढांचा |
+| Type of govt vs polity | **Parliamentary** form vs **quasi-federal** structure | Call India “Presidential” because of President | संसदीय ≠ राष्ट्रपति |
+| Original vs 42nd Preamble | **1950 = SDR**; Socialist/Secular later | Call 1950 already Socialist Secular | 1950 ≠ समाजवादी |
+| Palkhivala tag | Preamble = **identity card** | Mix with Austin / Wheare | पहचान पत्र |
+| Munshi vs Ambedkar tags | Munshi = **political horoscope** (Preamble); Ambedkar **heart and soul** = **Art. 32** | Swap Preamble / Art. 32 | मुंशी / आंबेडकर |
+| Berubari vs Kesavananda | *Berubari* = Preamble **not** part (1960); *Kesavananda* = **is** part (1973) | Say Kesavananda first denied it | बेरुबारी / केशवानंद |
+
+---
+
 ## Consolidated — 28 Must-Score Facts
 
 1. India’s Constitution is the **lengthiest written** Constitution of any sovereign country. It is a **single** Constitution for both the Union and the States.
@@ -56,36 +86,6 @@
 26. In normal times the system is meant to work **federally**; in Emergency it can work **like a unitary** system — a flexibility Ambedkar stressed against a rigid USA-style federation.
 27. Cooperative federalism stresses Centre–State collaboration (Austin’s line); competitive federalism stresses States competing for growth — both appear in current-affairs examples such as the GST Council and NITI Aayog, without changing the constitutional quasi-federal core.
 28. Criticisms such as “bag of borrowings” or “carbon copy of 1935” are distractors: the structure was borrowed, but republic, adult franchise, Fundamental Rights politics, and Basic Structure are not a mere copy.
-
----
-
-## Confused Pairs
-
-| Pair | Correct | Trap | Hindi |
-|------|------------|------|-------|
-| Rigid vs Flexible | Blend under Art. 368 + simple-majority paths | “Only rigid like USA” | कठोर+लचीला |
-| Federal vs Unitary | Dual polity + strong Centre = **quasi-federal** | Pure classical federation | अर्ध-संघीय |
-| Quasi-federal (Wheare) | Unitary bias label | Call Austin “quasi” | व्हीयर = अर्ध |
-| Cooperative (Austin) | Centre–State collaboration | Mix with Wheare | ऑस्टिन = सहयोगी |
-| Bargaining (Morris-Jones) | Political bargaining federalism | Mix with Jennings | मॉरिस-जोन्स |
-| Parliamentary vs Presidential | Executive responsible to legislature | President = Presidential system | संसदीय |
-| Independent vs Integrated judiciary | Free of organ control vs one hierarchy under SC | Swap meanings | स्वतंत्र / एकीकृत |
-| Preamble is part vs enforceable | Part after Kesavananda; **still not enforceable** | Treat as FR | उद्देशिका |
-| Adopt date vs enforce date | Preamble date = **26 Nov 1949**; force = **26 Jan 1950** | Swap | अंगीकरण / प्रवर्तन |
-| 26 Jan 1950 status | **Sovereign Democratic Republic** | Include Socialist/Secular already | 1950 स्थिति |
-| 42nd Preamble words | **Socialist + Secular** (+ integrity) | Sovereignty / Republic | समाजवादी+धर्मनिरपेक्ष |
-| Single vs Dual citizenship | India = **single**; USA = dual | India has state citizenship | एकल नागरिकता |
-| Rule of Law vs Constitutional supremacy | No one above law vs Constitution highest law | Treat as identical | विधि / संविधान |
-| Residuary powers | **Centre** (Canada pattern) | States like USA | अवशिष्ट = केंद्र |
-| Art. 3 vs Art. 368 | Boundary change = simple majority path | Call every change “special majority” | अनुच्छेद 3 |
-| Residual vs Concurrent source | **Canada** vs **Australia** | Swap the pair | कनाडा / ऑस्ट्रेलिया |
-| FR vs DPSP source | **USA** vs **Ireland** | Swap or mix with UK | अमेरिका / आयरलैंड |
-| GOI 1935 vs full copy | **Structural skeleton** only | “Pure carbon copy” | 1935 = ढांचा |
-| Type of govt vs polity | **Parliamentary** form vs **quasi-federal** structure | Call India “Presidential” because of President | संसदीय ≠ राष्ट्रपति |
-| Original vs 42nd Preamble | **1950 = SDR**; Socialist/Secular later | Call 1950 already Socialist Secular | 1950 ≠ समाजवादी |
-| Palkhivala tag | Preamble = **identity card** | Mix with Austin / Wheare | पहचान पत्र |
-| Munshi vs Ambedkar tags | Munshi = **political horoscope** (Preamble); Ambedkar **heart and soul** = **Art. 32** | Swap Preamble / Art. 32 | मुंशी / आंबेडकर |
-| Berubari vs Kesavananda | *Berubari* = Preamble **not** part (1960); *Kesavananda* = **is** part (1973) | Say Kesavananda first denied it | बेरुबारी / केशवानंद |
 
 ---
 

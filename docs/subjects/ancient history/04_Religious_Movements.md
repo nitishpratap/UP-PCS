@@ -15,6 +15,35 @@ Buddhism | Buddha | Buddhist Philosophy | Buddhist Councils | Buddhist Texts | T
 
 ---
 
+## Confused Pairs
+
+| A | B | Difference | Hindi |
+|---|----|------------|-------|
+| Shramana | Brahmana | Renouncer, often **nastika** vs Vedic priestly orthodoxy | श्रमण / ब्राह्मण |
+| Nastika | Astika | Reject Veda (Buddha, Jina, Ajivika, Charvaka) vs accept Veda | नास्तिक / आस्तिक |
+| Four Noble Truths | Eightfold Path | Diagnosis of dukkha vs the **Magga** prescription | चार आर्य सत्य / अष्टांग मार्ग |
+| Hinayana | Mahayana | **Arhat**, Pali, self-liberation vs **bodhisattva**, Sanskrit | हीनयान / महायान |
+| Mahayana | Vajrayana | Sutra / emptiness vs **tantra**, mantra, Tibet | महायान / वज्रयान |
+| Sthaviravada | Mahasanghika | Vaishali **elders** vs **great assembly** split | स्थविर / महासंघ |
+| Theravada | Sarvastivada | **Pali** south-Asian line vs **Sanskrit** north line (4th Council) | थेरवाद / सर्वास्तिवाद |
+| Mahasanghika | Mahayana | Vaishali **early split** school vs later **great vehicle** | महासंघ / महायान |
+| Vaibhashika | Sautrantika | Sarvastivada **Abhidharma** orthodox vs **sutra-only** | वैभाषिक / सौत्रान्तिक |
+| Nagarjuna | Nagasena | **Madhyamaka** philosopher vs **Milinda Panha** monk | नागार्जुन / नागसेन |
+| Vinaya | Sutta | Monk **rules** vs Buddha’s **discourses** | विनय / सुत्त |
+| Chaitya | Vihara | Prayer hall vs monastery | चैत्य / विहार |
+| Barabar | Ajanta | Mauryan, **Ajivika** gift vs later **Buddhist** painted caves | बराबर / अजंता |
+| Digambara | Svetambara | Sky-clad; women no moksha as women vs white-clad; women can | दिगंबर / श्वेतांबर |
+| Mahavira | Parshvanatha | 24th, **5** vows, **lion**, Pavapuri vs 23rd, **4** vows, **serpent** | महावीर / पार्श्वनाथ |
+| Pavapuri | Sammed Shikhar | **Mahavira** only vs **20** tirthankaras (not Vasupujya) | पावापुरी / सम्मेद शिखर |
+| Charvaka | Ajivika | Materialist, pratyaksha-only vs **fatalist niyati** | चार्वाक / आजीविक |
+| Shaivism | Vaishnavism | Shiva / linga vs Vishnu / avatars | शैव / वैष्णव |
+| Bhagavatism | Vaishnavism | Early **Vasudeva-Krishna** cult vs later full Vishnu tradition | भागवत / वैष्णव |
+| Anekantavada | Syadvada | Many-sided **reality** vs seven-fold **predication** (“syat”) | अनेकान्तवाद / स्याद्वाद |
+| Anatta | Jiva | Buddhism: **no** permanent soul vs Jainism: **real** soul | अनात्मा / जीव |
+| Pataliputra (Jain) | Vallabhi | Early Magadhan compilation / Sthulabhadra vs **final Svetambara canon** | पाटलिपुत्र / वल्लभी |
+
+---
+
 ## Consolidated — 36 Must-Score Facts
 
 1. **Shramana** renouncer traditions (often **nastika**) include Buddhism, Jainism, Ajivika, and Charvaka. **Astika** schools accept the authority of the Veda.
@@ -58,35 +87,6 @@ Buddhism | Buddha | Buddhist Philosophy | Buddhist Councils | Buddhist Texts | T
 39. **Triratna** = Buddha, Dhamma, Sangha.
 40. *Light of Asia* is by **Edwin Arnold**, drawn from the *Lalitavistara*.
 41. **Nayaputta** is Mahavira, not Buddha.
-
----
-
-## Confused Pairs
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Shramana | Brahmana | Renouncer, often **nastika** vs Vedic priestly orthodoxy | श्रमण / ब्राह्मण |
-| Nastika | Astika | Reject Veda (Buddha, Jina, Ajivika, Charvaka) vs accept Veda | नास्तिक / आस्तिक |
-| Four Noble Truths | Eightfold Path | Diagnosis of dukkha vs the **Magga** prescription | चार आर्य सत्य / अष्टांग मार्ग |
-| Hinayana | Mahayana | **Arhat**, Pali, self-liberation vs **bodhisattva**, Sanskrit | हीनयान / महायान |
-| Mahayana | Vajrayana | Sutra / emptiness vs **tantra**, mantra, Tibet | महायान / वज्रयान |
-| Sthaviravada | Mahasanghika | Vaishali **elders** vs **great assembly** split | स्थविर / महासंघ |
-| Theravada | Sarvastivada | **Pali** south-Asian line vs **Sanskrit** north line (4th Council) | थेरवाद / सर्वास्तिवाद |
-| Mahasanghika | Mahayana | Vaishali **early split** school vs later **great vehicle** | महासंघ / महायान |
-| Vaibhashika | Sautrantika | Sarvastivada **Abhidharma** orthodox vs **sutra-only** | वैभाषिक / सौत्रान्तिक |
-| Nagarjuna | Nagasena | **Madhyamaka** philosopher vs **Milinda Panha** monk | नागार्जुन / नागसेन |
-| Vinaya | Sutta | Monk **rules** vs Buddha’s **discourses** | विनय / सुत्त |
-| Chaitya | Vihara | Prayer hall vs monastery | चैत्य / विहार |
-| Barabar | Ajanta | Mauryan, **Ajivika** gift vs later **Buddhist** painted caves | बराबर / अजंता |
-| Digambara | Svetambara | Sky-clad; women no moksha as women vs white-clad; women can | दिगंबर / श्वेतांबर |
-| Mahavira | Parshvanatha | 24th, **5** vows, **lion**, Pavapuri vs 23rd, **4** vows, **serpent** | महावीर / पार्श्वनाथ |
-| Pavapuri | Sammed Shikhar | **Mahavira** only vs **20** tirthankaras (not Vasupujya) | पावापुरी / सम्मेद शिखर |
-| Charvaka | Ajivika | Materialist, pratyaksha-only vs **fatalist niyati** | चार्वाक / आजीविक |
-| Shaivism | Vaishnavism | Shiva / linga vs Vishnu / avatars | शैव / वैष्णव |
-| Bhagavatism | Vaishnavism | Early **Vasudeva-Krishna** cult vs later full Vishnu tradition | भागवत / वैष्णव |
-| Anekantavada | Syadvada | Many-sided **reality** vs seven-fold **predication** (“syat”) | अनेकान्तवाद / स्याद्वाद |
-| Anatta | Jiva | Buddhism: **no** permanent soul vs Jainism: **real** soul | अनात्मा / जीव |
-| Pataliputra (Jain) | Vallabhi | Early Magadhan compilation / Sthulabhadra vs **final Svetambara canon** | पाटलिपुत्र / वल्लभी |
 
 ---
 

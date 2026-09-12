@@ -33,6 +33,16 @@
 
 ---
 
+## Must-Score Facts
+
+1. Lakhu Udyar = Almora + Suyal + red/black/white rock art.
+2. Malari = Chamoli burial / high Himalaya card.
+3. Bankot = Pithoragarh copper anthropomorphs.
+4. Kalsi / Srinagar belts = Palaeolithic tool geography.
+5. Protohistoric ≠ Harappan city culture in the high hills.
+
+---
+
 ## 1.0 Framework
 
 1. **Prehistoric** Uttarakhand is proved by tools, painted shelters, and burial finds — not by royal chronicles.
@@ -95,16 +105,6 @@
 - After the tool–paint–burial–copper horizon, the first well-attested **political** names in the hills are **Kuninda** (and related coin powers), then later **Kartikeyapur / Katyuri**.
 - Do not dump Chand or Parmar into this chapter — those are medieval UK folders.
 - Continue into [Ancient Tribes](02_Ancient_Tribes_of_Uttarakhand.md) and [Kuninda and Yaudheya](03_Kuninda_and_Yaudheya.md).
-
----
-
-## Must-Score Facts
-
-1. Lakhu Udyar = Almora + Suyal + red/black/white rock art.
-2. Malari = Chamoli burial / high Himalaya card.
-3. Bankot = Pithoragarh copper anthropomorphs.
-4. Kalsi / Srinagar belts = Palaeolithic tool geography.
-5. Protohistoric ≠ Harappan city culture in the high hills.
 
 ---
 

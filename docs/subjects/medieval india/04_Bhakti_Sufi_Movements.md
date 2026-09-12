@@ -15,6 +15,29 @@ Bhakti Movement | Major Bhakti Saints | Chronology of Bhakti Saints | Indian Sai
 
 ---
 
+## Confused Pairs
+
+| A | B | Difference | Hindi |
+|---|----|------------|-------|
+| Saguna vs Nirguna | Formed deity (Krishna/Rama) vs formless one God (Kabir/Nanak) | सगुण / निर्गुण |
+| Alvar vs Nayanar | Vishnu devotees vs Shiva devotees (both south, early) | आल्वर / नायनार |
+| Ramananda vs Ramanuja | North Rama bhakti (Banaras) vs South philosopher (Vishishtadvaita) | रामानंद / रामानुज |
+| Chishti vs Suhrawardi | Reject wealth/state vs accept patronage and office | चिश्ती / सुहरावर्दी |
+| Advaita vs Vishishtadvaita | Shankara (world=maya) vs Ramanuja (soul distinct yet united) | अद्वैत / विशिष्टाद्वैत |
+| Surdas vs Tulsidas | Braj Krishna (Sursagar) vs Awadhi Rama (Ramcharitmanas) | सूरदास / तुलसीदास |
+| Mirabai vs Andal | Rajasthan Krishna devotee vs Tamil Alvar woman saint | मीराबाई / आंडाल |
+| Basavanna vs Ramanuja | Karnataka Lingayat reform (anti-caste, Ishtalinga) vs Tamil Vishishtadvaita philosopher | बसवन्ना / रामानुज |
+| Jnaneshwar vs Namdev | Varkari founder (Jnaneshwari Gita) vs earlier Vithoba saint in same line | ज्ञानेश्वर / नामदेव |
+| Baba Farid vs Kabir | Chishti saint (Ajodhan); verses in Adi Granth vs nirguna Kashi weaver-saint | बाबा फरीद / कबीर |
+| Pir vs Guru | Sufi spiritual master (silsilah) vs Bhakti preceptor | पीर / गुरु |
+| Amarmul vs Bijak | Kabir–Dharamdas dialogues vs main Kabirpanthi scripture | अमरमूल / बीजक |
+| Prem Vatika vs Rasik Priya | **Raskhan** vs **Keshavdas** | प्रेम वाटिका / रसिक प्रिया |
+| Chisht (Afghanistan) vs Ajmer | Order name origin vs Moinuddin's Indian centre | चिश्त / अजमेर |
+| Ulema vs Shaikh | Islamic law scholars vs Sufi guide authorised to teach | उलेमा / शेख |
+| Firdausi vs Chishti core | **Bihar** (Yahya Maneri line) vs Delhi–Ajmer Chishti belt | फिरदौसी / चिश्ती |
+
+---
+
 ## Consolidated — 28 Must-Score Facts
 
 1. Southern Bhakti began with **Nayanars (Shiva)** and **Alvars (Vishnu)** in **7th–12th** century Tamil land, before the north Indian sant wave.
@@ -45,29 +68,6 @@ Bhakti Movement | Major Bhakti Saints | Chronology of Bhakti Saints | Indian Sai
 26. **Ravidas** is the Banaras Dalit saint in Ramananda’s circle.
 27. Composite culture does not mean every saint mixed doctrines — **Ahmad Sirhindi** and **Kabir** rejected syncretic ritual.
 28. Regional map: **Jayadeva** (Odisha), **Shankaradeva** / Ekasarana (**Kamarupa–Assam**), **Basavanna** (Karnataka). **Prem Vatika** = **Raskhan**; **Barahmasa** = **Malik Muhammad Jayasi**; **Dewa Sharif** (Barabanki) = Haji Waris Ali Shah.
-
----
-
-## Confused Pairs
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Saguna vs Nirguna | Formed deity (Krishna/Rama) vs formless one God (Kabir/Nanak) | सगुण / निर्गुण |
-| Alvar vs Nayanar | Vishnu devotees vs Shiva devotees (both south, early) | आल्वर / नायनार |
-| Ramananda vs Ramanuja | North Rama bhakti (Banaras) vs South philosopher (Vishishtadvaita) | रामानंद / रामानुज |
-| Chishti vs Suhrawardi | Reject wealth/state vs accept patronage and office | चिश्ती / सुहरावर्दी |
-| Advaita vs Vishishtadvaita | Shankara (world=maya) vs Ramanuja (soul distinct yet united) | अद्वैत / विशिष्टाद्वैत |
-| Surdas vs Tulsidas | Braj Krishna (Sursagar) vs Awadhi Rama (Ramcharitmanas) | सूरदास / तुलसीदास |
-| Mirabai vs Andal | Rajasthan Krishna devotee vs Tamil Alvar woman saint | मीराबाई / आंडाल |
-| Basavanna vs Ramanuja | Karnataka Lingayat reform (anti-caste, Ishtalinga) vs Tamil Vishishtadvaita philosopher | बसवन्ना / रामानुज |
-| Jnaneshwar vs Namdev | Varkari founder (Jnaneshwari Gita) vs earlier Vithoba saint in same line | ज्ञानेश्वर / नामदेव |
-| Baba Farid vs Kabir | Chishti saint (Ajodhan); verses in Adi Granth vs nirguna Kashi weaver-saint | बाबा फरीद / कबीर |
-| Pir vs Guru | Sufi spiritual master (silsilah) vs Bhakti preceptor | पीर / गुरु |
-| Amarmul vs Bijak | Kabir–Dharamdas dialogues vs main Kabirpanthi scripture | अमरमूल / बीजक |
-| Prem Vatika vs Rasik Priya | **Raskhan** vs **Keshavdas** | प्रेम वाटिका / रसिक प्रिया |
-| Chisht (Afghanistan) vs Ajmer | Order name origin vs Moinuddin's Indian centre | चिश्त / अजमेर |
-| Ulema vs Shaikh | Islamic law scholars vs Sufi guide authorised to teach | उलेमा / शेख |
-| Firdausi vs Chishti core | **Bihar** (Yahya Maneri line) vs Delhi–Ajmer Chishti belt | फिरदौसी / चिश्ती |
 
 ---
 

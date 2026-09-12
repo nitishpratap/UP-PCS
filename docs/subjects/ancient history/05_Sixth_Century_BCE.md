@@ -15,6 +15,32 @@ Political Condition of Sixth Century BCE | Sixteen Mahajanapadas | Mahajanapadas
 
 ---
 
+## Confused Pairs
+
+| A | B | Difference | Hindi |
+|---|----|------------|-------|
+| Janapada | Mahajanapada | Clan territory vs the **16** large states | जनपद / महाजनपद |
+| Monarchy | Gana-sangha | Hereditary king vs oligarchic clan-council | राजतंत्र / गणसंघ |
+| Rajagriha | Pataliputra | Early Magadha capital vs later Ganga–Son capital | राजगृह / पाटलिपुत्र |
+| Ajatashatru (Patali) | Udayin (capital) | Fortifies / founds **Pataligrama** seed vs first makes **Pataliputra** the capital | अजातशत्रु / उदयन |
+| Udayin (Magadha) | Udayana (Vatsa) | Haryanka capital-shifter vs Vatsa king of Kaushambi | उदयन मगध / उदयन वत्स |
+| Matsya | Surasena | **Viratnagar** (Rajasthan) vs **Mathura** | मत्स्य / शूरसेन |
+| Kashi | Kosala | Varanasi vs Ayodhya / **Shravasti** | काशी / कोसल |
+| Vatsa | Panchala | **Kaushambi** vs Ahichchhatra / Kampilya | वत्स / पांचाल |
+| Magadha | Vajji | Magadhan **kingdom** (Bihar) vs Licchavi **republic** (Vaishali) | मगध / वज्जि |
+| Bimbisara | Ajatashatru | Alliances + **Anga** vs parricide + **Vajji** war | बिम्बिसार / अजातशत्रु |
+| Haryanka | Shishunaga | Bimbisara line vs minister who **took Avanti** | हर्यंक / शिशुनाग |
+| Mahapadma | Dhana Nanda | Founder / ekarat vs last Nanda, **Alexander age** | महापद्म / धननन्द |
+| Potana | Pratishthana | Asmaka capital in 2020 paper vs later Satavahana Paithan | पोतन / प्रतिष्ठान |
+| PGW | NBPW | Later Vedic doab grey ware vs **mahajanapada / early historic** deluxe black ware | चित्रित धूसर / उत्तरी काली |
+| Girivraja | Pataliputra | Rajgir five-hill fort vs Ganga–Son city | गिरिव्रज / पाटलिपुत्र |
+| Kushinagar | Pava | Both **Malla** vs Jain **Pavapuri** (Mahavira) in Magadha | कुशीनगर / पावा |
+| Champa | Varanasi | **Anga** river-port vs **Kashi** | चम्पा / वाराणसी |
+| Buddha-age ganas | Yaudheya | Shakya / Licchavi / Malla list vs later plains **gana** (not “earlier republic” stem) | गण / यौधेय |
+| Avantika | Taxila | Ancient name / pole of **Ujjain** vs **Gandhara** university town | अवन्तिका / तक्षशिला |
+
+---
+
 ## Consolidated — 30 Must-Score Facts
 
 1. The sixth–fourth centuries BCE bring **iron**, **NBPW**, punch-marked silver (**Aahat**), and the **second urbanisation**. This is still **before** the Mauryan empire.
@@ -47,32 +73,6 @@ Political Condition of Sixth Century BCE | Sixteen Mahajanapadas | Mahajanapadas
 28. Keep pottery chronology: **PGW** (Later Vedic) then **NBPW** (mahajanapada / early historic). Mixing them is a frequent trap.
 29. **Udayana–Vasavadatta** (Bhasa’s *Svapnavasavadattam*) is tied to **Ujjain**, not to Kaushambi alone as the love-story setting.
 30. **Kalpi** (ancient **Kalpriya**) sits on the **Yamuna** in Jalaun (UP). Dynasty dates for Magadha houses: Haryanka → Shishunaga → Nanda → Maurya → Shunga.
-
----
-
-## Confused Pairs
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Janapada | Mahajanapada | Clan territory vs the **16** large states | जनपद / महाजनपद |
-| Monarchy | Gana-sangha | Hereditary king vs oligarchic clan-council | राजतंत्र / गणसंघ |
-| Rajagriha | Pataliputra | Early Magadha capital vs later Ganga–Son capital | राजगृह / पाटलिपुत्र |
-| Ajatashatru (Patali) | Udayin (capital) | Fortifies / founds **Pataligrama** seed vs first makes **Pataliputra** the capital | अजातशत्रु / उदयन |
-| Udayin (Magadha) | Udayana (Vatsa) | Haryanka capital-shifter vs Vatsa king of Kaushambi | उदयन मगध / उदयन वत्स |
-| Matsya | Surasena | **Viratnagar** (Rajasthan) vs **Mathura** | मत्स्य / शूरसेन |
-| Kashi | Kosala | Varanasi vs Ayodhya / **Shravasti** | काशी / कोसल |
-| Vatsa | Panchala | **Kaushambi** vs Ahichchhatra / Kampilya | वत्स / पांचाल |
-| Magadha | Vajji | Magadhan **kingdom** (Bihar) vs Licchavi **republic** (Vaishali) | मगध / वज्जि |
-| Bimbisara | Ajatashatru | Alliances + **Anga** vs parricide + **Vajji** war | बिम्बिसार / अजातशत्रु |
-| Haryanka | Shishunaga | Bimbisara line vs minister who **took Avanti** | हर्यंक / शिशुनाग |
-| Mahapadma | Dhana Nanda | Founder / ekarat vs last Nanda, **Alexander age** | महापद्म / धननन्द |
-| Potana | Pratishthana | Asmaka capital in 2020 paper vs later Satavahana Paithan | पोतन / प्रतिष्ठान |
-| PGW | NBPW | Later Vedic doab grey ware vs **mahajanapada / early historic** deluxe black ware | चित्रित धूसर / उत्तरी काली |
-| Girivraja | Pataliputra | Rajgir five-hill fort vs Ganga–Son city | गिरिव्रज / पाटलिपुत्र |
-| Kushinagar | Pava | Both **Malla** vs Jain **Pavapuri** (Mahavira) in Magadha | कुशीनगर / पावा |
-| Champa | Varanasi | **Anga** river-port vs **Kashi** | चम्पा / वाराणसी |
-| Buddha-age ganas | Yaudheya | Shakya / Licchavi / Malla list vs later plains **gana** (not “earlier republic” stem) | गण / यौधेय |
-| Avantika | Taxila | Ancient name / pole of **Ujjain** vs **Gandhara** university town | अवन्तिका / तक्षशिला |
 
 ---
 

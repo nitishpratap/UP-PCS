@@ -21,6 +21,20 @@ Carbon Footprint | Ecological Footprint | Net Zero Emissions | Green Economy | B
 
 ---
 
+## Confused Pairs
+
+| Pair | Fact |
+|------|------|
+| **Carbon / Ecological footprint** | tCO₂e GHGs / gha resource demand |
+| **Net zero / Gross zero** | Balance with removals / eliminate almost all emissions |
+| **Green / Circular economy** | Broad low-carbon inclusive growth / material-loop design |
+| **Green / Blue / Grey hydrogen** | Renewable electrolysis / grey+CCS / natural-gas reforming |
+| **Primary / Secondary microplastics** | Made small / fragmented from large plastic |
+| **NbS / Geoengineering** | Ecosystem actions / engineered climate intervention |
+| **LiFE idea / launch** | COP26 2021 / June 2022 |
+
+---
+
 ## Consolidated — 24 Must-Score Facts
 
 1. A **carbon footprint** totals greenhouse gases in **tCO₂e**. Scope **1** is direct, Scope **2** is purchased energy, Scope **3** is the wider value chain.
@@ -47,20 +61,6 @@ Carbon Footprint | Ecological Footprint | Net Zero Emissions | Green Economy | B
 22. NbS examples include mangroves, wetlands, and urban forests — ecosystem actions, not aerosol injection.
 23. LiFE is lifestyle and demand-side behaviour change, not a substitute for the entire NDC package.
 24. Blue economy is oceans and coasts. Green hydrogen is energy. Do not merge the two labels.
-
----
-
-## Confused Pairs
-
-| Pair | Fact |
-|------|------|
-| **Carbon / Ecological footprint** | tCO₂e GHGs / gha resource demand |
-| **Net zero / Gross zero** | Balance with removals / eliminate almost all emissions |
-| **Green / Circular economy** | Broad low-carbon inclusive growth / material-loop design |
-| **Green / Blue / Grey hydrogen** | Renewable electrolysis / grey+CCS / natural-gas reforming |
-| **Primary / Secondary microplastics** | Made small / fragmented from large plastic |
-| **NbS / Geoengineering** | Ecosystem actions / engineered climate intervention |
-| **LiFE idea / launch** | COP26 2021 / June 2022 |
 
 ---
 

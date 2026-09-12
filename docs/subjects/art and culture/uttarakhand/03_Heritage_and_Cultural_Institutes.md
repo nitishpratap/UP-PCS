@@ -46,6 +46,16 @@
 
 ---
 
+## Must-Score Facts
+
+1. UK WHS pair = Valley of Flowers + Nanda Devi (together).
+2. Kaziranga / Mountain Railways ≠ UK.
+3. Ramman = UNESCO ICH 2009, Garhwal, Bhumiyal Devta.
+4. 1658 + Shyamdas/Hardas + Tasbirdar + Prithvipati Shah → Garhwal painting.
+5. Coldwater Fisheries = **Bhimtal**; Q49 Series B = **C** (Himalaya Ke Barf not his).
+
+---
+
 ## 3.1 World Heritage in Uttarakhand
 
 **Identity:** One natural WHS property | Chamoli high Himalaya.
@@ -97,16 +107,6 @@
 - **National Institute of Hydrology (NIH)** sits at **Roorkee**.
 - The Directorate of **Coldwater Fisheries** research sits at **Bhimtal**, not **Haldwani**.
 - The Haldwani swap is the planted error in the 2025 institute mismatch stem.
-
----
-
-## Must-Score Facts
-
-1. UK WHS pair = Valley of Flowers + Nanda Devi (together).
-2. Kaziranga / Mountain Railways ≠ UK.
-3. Ramman = UNESCO ICH 2009, Garhwal, Bhumiyal Devta.
-4. 1658 + Shyamdas/Hardas + Tasbirdar + Prithvipati Shah → Garhwal painting.
-5. Coldwater Fisheries = **Bhimtal**; Q49 Series B = **C** (Himalaya Ke Barf not his).
 
 ---
 

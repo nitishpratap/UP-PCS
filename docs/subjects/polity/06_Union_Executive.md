@@ -55,6 +55,27 @@ D. Members of Lok Sabha only
 ---
 
 
+## Confused Pairs
+
+| A | B | Correct | Hindi |
+|---|----|------|-------|
+| President election voters | VP election voters | Only **elected** MPs + MLAs (no nominated / Councils) vs **all** MPs including nominated (no States) | राष्ट्रपति / उपराष्ट्रपति मतदाता |
+| Nominated MPs in election | Nominated MPs in impeachment | **No** vote in Presidential election vs **yes** vote in impeachment | नामित सांसद |
+| MLAs in Presidential election | MLAs in impeachment | **Yes** in election vs **no** in impeachment | विधायक |
+| Absolute / suspensive / pocket veto | Qualified veto | India’s three types vs **USA-only** qualified veto | वीटो |
+| Money Bill return | Ordinary Bill return | President **cannot** return Money Bill vs may return ordinary Bill | धन विधेयक |
+| Art. 72 pardon | Art. 161 pardon | President: death + court-martial vs Governor: **neither** | क्षमा |
+| VP as RS Chairman | VP as RS member | Ex-officio Chairman vs **not** a member | सभापति |
+| CoM responsibility | “Both Houses” claim | Collective responsibility to **Lok Sabha only** | सामूहिक उत्तरदायित्व |
+| PMO head | Cabinet Secretariat head | **Principal Secretary** vs **Cabinet Secretary** | पीएमओ / सचिवालय |
+| AG tenure | SC judge removal | AG during **pleasure** vs judge removal by special process | महान्यायवादी |
+| Ordinance power | Constitution amendment | Art. 123 **cannot** amend the Constitution | अध्यादेश |
+| Warrant of Precedence | Constitutional succession | Ceremonial ranks only vs Arts. 56–65 succession | वरीयता / उत्तराधिकार |
+| Rank 6 (CJI = Speaker) | Rank 7 (Cabinet Ministers) | Speaker **not** below Cabinet | रैंक 6 / 7 |
+| SC judges (9) | CEC/CAG/UPSC (9A) | Do not swap the bands | 9 / 9A |
+
+---
+
 ## Consolidated — 28 Must-Score Facts
 
 1. **Part V, Articles 52–78** cover the Union Executive: **President, Vice-President, Prime Minister, Council of Ministers, and Attorney General**.
@@ -85,27 +106,6 @@ D. Members of Lok Sabha only
 26. Resignation of the President is addressed to the **Vice-President**. The President shall not be a member of either House; if a sitting member is elected, the seat is vacated.
 27. Kitchen / inner Cabinet and most Cabinet Committees are political practice, not constitutional offices. Deputy Prime Minister is also a political designation, not a separate constitutional post.
 28. **Droupadi Murmu** became the **15th President** (office from **25 July 2022**) — first tribal President and second woman President.
-
----
-
-## Confused Pairs
-
-| A | B | Correct | Hindi |
-|---|----|------|-------|
-| President election voters | VP election voters | Only **elected** MPs + MLAs (no nominated / Councils) vs **all** MPs including nominated (no States) | राष्ट्रपति / उपराष्ट्रपति मतदाता |
-| Nominated MPs in election | Nominated MPs in impeachment | **No** vote in Presidential election vs **yes** vote in impeachment | नामित सांसद |
-| MLAs in Presidential election | MLAs in impeachment | **Yes** in election vs **no** in impeachment | विधायक |
-| Absolute / suspensive / pocket veto | Qualified veto | India’s three types vs **USA-only** qualified veto | वीटो |
-| Money Bill return | Ordinary Bill return | President **cannot** return Money Bill vs may return ordinary Bill | धन विधेयक |
-| Art. 72 pardon | Art. 161 pardon | President: death + court-martial vs Governor: **neither** | क्षमा |
-| VP as RS Chairman | VP as RS member | Ex-officio Chairman vs **not** a member | सभापति |
-| CoM responsibility | “Both Houses” claim | Collective responsibility to **Lok Sabha only** | सामूहिक उत्तरदायित्व |
-| PMO head | Cabinet Secretariat head | **Principal Secretary** vs **Cabinet Secretary** | पीएमओ / सचिवालय |
-| AG tenure | SC judge removal | AG during **pleasure** vs judge removal by special process | महान्यायवादी |
-| Ordinance power | Constitution amendment | Art. 123 **cannot** amend the Constitution | अध्यादेश |
-| Warrant of Precedence | Constitutional succession | Ceremonial ranks only vs Arts. 56–65 succession | वरीयता / उत्तराधिकार |
-| Rank 6 (CJI = Speaker) | Rank 7 (Cabinet Ministers) | Speaker **not** below Cabinet | रैंक 6 / 7 |
-| SC judges (9) | CEC/CAG/UPSC (9A) | Do not swap the bands | 9 / 9A |
 
 ---
 

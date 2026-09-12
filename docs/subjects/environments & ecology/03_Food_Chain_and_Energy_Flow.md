@@ -21,6 +21,20 @@ Food Chain | Food Web | Trophic Levels | Energy Flow in Ecosystem | Ecological P
 
 ---
 
+## Confused Pairs
+
+| Term | One-line difference | Hindi |
+|------|---------------------|-------|
+| **Food chain** | Single linear feeding sequence | खाद्य श्रृंखला |
+| **Food web** | Network of interconnected food chains | खाद्य जाल |
+| **Trophic level** | Feeding rank in a chain, counted from producer | पोषण स्तर |
+| **Grazing food chain** | Starts from **living** green plants | चराई खाद्य श्रृंखला |
+| **Detritus food chain** | Starts from **dead** organic matter | अवशेष खाद्य श्रृंखला |
+| **Ecological pyramid** | Graphic trophic structure (energy/biomass/numbers) | पारिस्थितिक पिरामिड |
+| **10% rule** | ~10% energy transfers between trophic levels | 10% ऊर्जा नियम |
+
+---
+
 ## Consolidated — 30 Must-Score Facts
 
 1. A **food chain** is a single linear who-eats-whom sequence. A **food web** is a network of interconnected chains and is more stable than one chain alone.
@@ -53,20 +67,6 @@ Food Chain | Food Web | Trophic Levels | Energy Flow in Ecosystem | Ecological P
 28. Saying “energy is cyclic like nutrients” is a frequent false statement.
 29. Match pyramid type to exception: energy never inverts; biomass may invert at sea/pond; numbers may invert with parasites.
 30. Keep Lindeman’s **10% rule** as an approximate key fact, not an exact laboratory constant for every ecosystem.
-
----
-
-## Confused Pairs
-
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **Food chain** | Single linear feeding sequence | खाद्य श्रृंखला |
-| **Food web** | Network of interconnected food chains | खाद्य जाल |
-| **Trophic level** | Feeding rank in a chain, counted from producer | पोषण स्तर |
-| **Grazing food chain** | Starts from **living** green plants | चराई खाद्य श्रृंखला |
-| **Detritus food chain** | Starts from **dead** organic matter | अवशेष खाद्य श्रृंखला |
-| **Ecological pyramid** | Graphic trophic structure (energy/biomass/numbers) | पारिस्थितिक पिरामिड |
-| **10% rule** | ~10% energy transfers between trophic levels | 10% ऊर्जा नियम |
 
 ---
 

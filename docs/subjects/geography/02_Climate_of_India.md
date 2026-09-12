@@ -74,6 +74,30 @@ D. Mistral
 ---
 
 
+## Confused Pairs
+
+| A | B | Correct | Hindi |
+|---|----|------|-------|
+| SW monsoon | NE monsoon | Jun–Sep most of India vs Oct–Dec **SE coast only** | दक्षिण-पश्चिम / उत्तर-पूर्व मानसून |
+| Retreating monsoon | Western Disturbance | Withdrawal/Oct heat vs winter extra-tropical NW rain | लौटता मानसून / पश्चिमी विक्षोभ |
+| Loo | Nor'wester | Sustained hot dry wind vs violent pre-monsoon thunderstorm | लू / काल बैसाखी |
+| Anabatic | Katabatic | Day upslope vs night downslope | आरोही / अवरोही पवन |
+| STWJ | TEJ | Winter westerly (WD) vs summer easterly (SW monsoon) | पश्चिमी जेट / उष्णकटिबंधीय पूर्वी जेट |
+| El Niño | La Niña | Warm E Pacific, weak monsoon vs cool E Pacific, strong monsoon | अल नीनो / ला नीना |
+| +IOD | −IOD | Helps Indian monsoon vs suppresses it | धनात्मक / ऋणात्मक IOD |
+| Köppen | Thornthwaite | T+P letter codes vs moisture/vegetation index | कोपेन / थॉर्नथ्वेट |
+| Absolute humidity | Relative humidity | Mass of vapour vs % of saturation (RH falls as T rises) | निरपेक्ष / सापेक्ष आर्द्रता |
+| Active monsoon | Break monsoon | Trough on **Ganga plain** (plains wet) vs trough on **Himalaya** (central India dry) | सक्रिय / विराम मानसून |
+| Doldrums | Horse latitudes | Rainy ITCZ calm belt vs dry subtropical **high** near 30° | डोलड्रम / हॉर्स अक्षांश |
+| Am (Köppen) | As (Köppen) | Short dry spell / wet SW coast–NE vs **dry summer** Coromandel (NE rain) | Am / As |
+| Willy-willy | Brickfielder | Australian **cyclone** vs Australian **hot local wind** | विली-विली / ब्रिकफील्डर |
+| Bora | Chinook | Adriatic **cold** vs Rockies **warm dry** | बोरा / चिनूक |
+| Harmattan | Khamsin | West Africa dust vs Egypt heat | हरमट्टन / खामसिन |
+
+---
+
+![img_6.png](../img_6.png)
+
 ## Consolidated — 30 Must-Score Facts
 
 1. India’s climate is **tropical monsoon**, not wholly tropical, because the country stretches into the subtropical north. The Himalaya acts as a winter **wall** against Central Asian cold and forces **orographic** rain on southern slopes in the monsoon.
@@ -108,30 +132,6 @@ D. Mistral
 30. The north-east monsoon on the Coromandel / Chennai coast is **NE-monsoon dependent**, not a south-west monsoon belt. Do not confuse retreating-monsoon October heat with Western Disturbance winter rain in the north-west.
 
 ---
-
-## Confused Pairs
-
-| A | B | Correct | Hindi |
-|---|----|------|-------|
-| SW monsoon | NE monsoon | Jun–Sep most of India vs Oct–Dec **SE coast only** | दक्षिण-पश्चिम / उत्तर-पूर्व मानसून |
-| Retreating monsoon | Western Disturbance | Withdrawal/Oct heat vs winter extra-tropical NW rain | लौटता मानसून / पश्चिमी विक्षोभ |
-| Loo | Nor'wester | Sustained hot dry wind vs violent pre-monsoon thunderstorm | लू / काल बैसाखी |
-| Anabatic | Katabatic | Day upslope vs night downslope | आरोही / अवरोही पवन |
-| STWJ | TEJ | Winter westerly (WD) vs summer easterly (SW monsoon) | पश्चिमी जेट / उष्णकटिबंधीय पूर्वी जेट |
-| El Niño | La Niña | Warm E Pacific, weak monsoon vs cool E Pacific, strong monsoon | अल नीनो / ला नीना |
-| +IOD | −IOD | Helps Indian monsoon vs suppresses it | धनात्मक / ऋणात्मक IOD |
-| Köppen | Thornthwaite | T+P letter codes vs moisture/vegetation index | कोपेन / थॉर्नथ्वेट |
-| Absolute humidity | Relative humidity | Mass of vapour vs % of saturation (RH falls as T rises) | निरपेक्ष / सापेक्ष आर्द्रता |
-| Active monsoon | Break monsoon | Trough on **Ganga plain** (plains wet) vs trough on **Himalaya** (central India dry) | सक्रिय / विराम मानसून |
-| Doldrums | Horse latitudes | Rainy ITCZ calm belt vs dry subtropical **high** near 30° | डोलड्रम / हॉर्स अक्षांश |
-| Am (Köppen) | As (Köppen) | Short dry spell / wet SW coast–NE vs **dry summer** Coromandel (NE rain) | Am / As |
-| Willy-willy | Brickfielder | Australian **cyclone** vs Australian **hot local wind** | विली-विली / ब्रिकफील्डर |
-| Bora | Chinook | Adriatic **cold** vs Rockies **warm dry** | बोरा / चिनूक |
-| Harmattan | Khamsin | West Africa dust vs Egypt heat | हरमट्टन / खामसिन |
-
----
-
-![img_6.png](../img_6.png)
 
 ## 2.1 Climate Basics
 

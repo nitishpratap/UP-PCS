@@ -28,6 +28,21 @@ No 2025–26 scheme rewrites mansab or Din-i-Ilahi (verified August 2026).
 ---
 
 
+## Confused Pairs
+
+| A | B | Correct | Hindi |
+|---|----|------|-------|
+| Khalsa | Jagir / Iqta | Crown land under **direct** control vs revenue assignment | खालसा / जागीर |
+| Zat | Sawar | Personal rank vs cavalry-contingent rank | जात / सवार |
+| Zabt | Dahsala | Measured assessment vs **10-year** average (Todar Mal) | जब्त / दहसाला |
+| Turki | Persian | Babur’s memoir language vs **Mughal court** language | तुर्की / फ़ारसी |
+| Akbarnama | Ain-i-Akbari | Narrative reign-history vs gazetteer / statistics | अकबरनामा / आइने अकबरी |
+| Sulh-i-kul | Din-i-Ilahi | Public peace policy vs private 1582 fellowship | सुलह-ए-कुल / दीन-ए-इलाही |
+| Buland Darwaza | Jahangir’s birth | Gujarat **victory** gateway vs 1569 birth (not the cause) | बुलंद दरवाज़ा |
+| Iqta | Khalsa | Muqti keeps revenue for troops vs cash to the treasury | इक्ता / खालसा |
+
+---
+
 ## Consolidated — 28 Must-Score Facts
 
 1. **Humayun** brought Persian masters **Mir Sayyid Ali** and **Abdus Samad. Akbar** built the **kitabkhana** and the illustrated **Razmnama. Jahangir** favoured naturalism under painters such as **Mansur**. Under Aurangzeb many painters left the imperial atelier.
@@ -58,21 +73,6 @@ No 2025–26 scheme rewrites mansab or Din-i-Ilahi (verified August 2026).
 26. **Din-i-Ilahi** never replaced Islam as state religion. **Sulh-i-kul** is the broader public tolerance policy examined more often than the private cult.
 27. **Jaunpur** Sharqi architecture is a regional Sultanate style of eastern UP. It is not Delhi Slave or Khalji architecture.
 28. **Azizuddin Khan** is linked to the *Nagarkot* / Kangra campaign literature fact in the medieval culture map; keep him separate from Abul Fazl’s court histories.
-
----
-
-## Confused Pairs
-
-| A | B | Correct | Hindi |
-|---|----|------|-------|
-| Khalsa | Jagir / Iqta | Crown land under **direct** control vs revenue assignment | खालसा / जागीर |
-| Zat | Sawar | Personal rank vs cavalry-contingent rank | जात / सवार |
-| Zabt | Dahsala | Measured assessment vs **10-year** average (Todar Mal) | जब्त / दहसाला |
-| Turki | Persian | Babur’s memoir language vs **Mughal court** language | तुर्की / फ़ारसी |
-| Akbarnama | Ain-i-Akbari | Narrative reign-history vs gazetteer / statistics | अकबरनामा / आइने अकबरी |
-| Sulh-i-kul | Din-i-Ilahi | Public peace policy vs private 1582 fellowship | सुलह-ए-कुल / दीन-ए-इलाही |
-| Buland Darwaza | Jahangir’s birth | Gujarat **victory** gateway vs 1569 birth (not the cause) | बुलंद दरवाज़ा |
-| Iqta | Khalsa | Muqti keeps revenue for troops vs cash to the treasury | इक्ता / खालसा |
 
 ---
 

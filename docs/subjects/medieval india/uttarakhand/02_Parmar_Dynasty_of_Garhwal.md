@@ -36,6 +36,17 @@
 
 ---
 
+## Must-Score Facts
+
+1. Ajay Pal = 52 garhis unifier.
+2. Srinagar (Garhwal) = classic consolidated capital.
+3. Kanakpal = founder tradition at Chandpur.
+4. 1658 + Prithvipati Shah + Shyamdas/Hardas + Tasbirdar.
+5. Mola Ram continues the school later.
+6. Fateh Shah invites Guru Ram Rai; village set is Khurbura–Rajpur–Chamasari–Dhamawala.
+
+---
+
 ## 2.1 From many garhs to one kingdom
 
 ### Causes / setting
@@ -95,17 +106,6 @@
 - Village-grant lists in coaching notes usually name **Khurbura, Rajpur, Chamasari, and Dhamawala**.
 - Do not accept the four-name distractor set **Chhayawala, Bhujanwala, Panditwari, Ghantawala** used in UKPCS 2025 statement 3.
 - This card bridges Parmar Garhwal into early modern Dehradun sacred geography and later Tehri / colonial chapters.
-
----
-
-## Must-Score Facts
-
-1. Ajay Pal = 52 garhis unifier.
-2. Srinagar (Garhwal) = classic consolidated capital.
-3. Kanakpal = founder tradition at Chandpur.
-4. 1658 + Prithvipati Shah + Shyamdas/Hardas + Tasbirdar.
-5. Mola Ram continues the school later.
-6. Fateh Shah invites Guru Ram Rai; village set is Khurbura–Rajpur–Chamasari–Dhamawala.
 
 ---
 

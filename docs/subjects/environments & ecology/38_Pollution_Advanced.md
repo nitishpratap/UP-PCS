@@ -21,6 +21,18 @@ Air Pollution (Sources | Air Quality | AQI | NCAP | Smog | Photochemical Smog | 
 
 ---
 
+## Confused Pairs
+
+| Term | One-line fact |
+|------|---------------|
+| **Primary / Secondary pollutant** | Emitted directly / formed in air |
+| **BOD / COD** | Microbial O₂ demand / chemical O₂ demand |
+| **London / Photochemical smog** | SO₂+smoke / NOx→O₃ |
+| **CPCB / CGWB** | Air–water standards / groundwater |
+| **NCAP / SAFAR** | City clean-air programme / AQ forecast system |
+
+---
+
 ## Consolidated — 36 Must-Score Facts
 
 1. **Primary** air pollutants are emitted directly (SO₂, PM, CO, NOx, lead). **Secondary** pollutants form in air (O₃, PAN, photochemical smog, acid mist).
@@ -59,18 +71,6 @@ Air Pollution (Sources | Air Quality | AQI | NCAP | Smog | Photochemical Smog | 
 34. **H-CNG** reduces CO/HC/CO₂ vs CNG but does **not eliminate** CO; up to ~**1/5** H₂ by volume; not cheaper than CNG.
 35. Geoengineering teaching: **cirrus thinning** and **sulphate aerosol** injection aim at cooling / offsetting warming — not cyclone control.
 36. Steel industry emits **CO, CO₂, SOx, and NOx**. **Aflatoxins** = mould toxins on poorly stored grains.
-
----
-
-## Confused Pairs
-
-| Term | One-line fact |
-|------|---------------|
-| **Primary / Secondary pollutant** | Emitted directly / formed in air |
-| **BOD / COD** | Microbial O₂ demand / chemical O₂ demand |
-| **London / Photochemical smog** | SO₂+smoke / NOx→O₃ |
-| **CPCB / CGWB** | Air–water standards / groundwater |
-| **NCAP / SAFAR** | City clean-air programme / AQ forecast system |
 
 ---
 

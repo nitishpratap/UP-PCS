@@ -54,51 +54,6 @@ D. Chilka, Michigan, Superior, Victoria
 ---
 
 
-## Consolidated — 40 Must-Score Facts
-
-1. First classify a lake as lagoon, inland saline, freshwater, crater, glacial, oxbow, or artificial. Origin pairs: **Wular** tectonic, **Chilika** lagoon, **Lonar** crater, **Sambhar** wind / playa, **Kabartal** oxbow.
-2. **Chilika** is the largest **east-coast lagoon** (Odisha / Northern Circars). If a question says “largest saline” and omits “inland,” Chilika is often the intended answer.
-3. **Sambhar** is the largest **inland** saline lake (Rajasthan). Sister Rajasthan saline names include Didwana, Kuchaman, Sargol, and Khatu.
-4. **Wular** is the largest-freshwater volume fact (Jammu & Kashmir, on the Jhelum, tectonic). **Dal** is the tourism lake. **Roopkund** is Uttarakhand’s Mystery / Skeleton Lake.
-5. **Loktak** (Manipur) holds **phumdis**, **Keibul Lamjao**, and the Sangai. **Kabartal** is Bihar’s oxbow Ramsar lake.
-6. **Pulicat** is the second major brackish lagoon (Andhra Pradesh–Tamil Nadu, Sriharikota bar). **Kolleru** is mainly **freshwater**, not a lagoon king.
-7. **Vembanad** is Kerala’s largest lake and India’s **longest**; it is a **west-coast** kayal / Ramsar, not India’s overall largest lake. **Kayal** means a Kerala coastal lagoon / backwater.
-8. **Phulhar** (Pilibhit) is linked to the Gomti source. **Kodaikanal** lake is artificial. Periyar Lake is **not** a coastal lagoon.
-9. World lake traps: **Onega** and **Ladoga** are in **Russia** (not Canada). Michigan is USA-only; Superior is USA and Canada.
-10. Rudrasagar is **Tripura**; Sultanpur is **Haryana**; Surinsar–Mansar is **Jammu & Kashmir** — none of these is an Uttar Pradesh Ramsar.
-11. India has more than **17%** of world people, about **4%** of water, and about **2.45%** of land. Precipitation is about **4000 BCM**; available water about **1869 BCM**; utilisable about **1122 BCM** (surface ~690 + groundwater ~433).
-12. The Ganga–Brahmaputra–Barak belt is about **one-third** of area but about **60%** of surface water. Irrigation takes about **89%** of surface water use and about **92%** of groundwater use.
-13. Groundwater now covers more than **60%** of irrigated area. Canals dominate the Indo-Gangetic plains; tanks matter on the peninsula. Tamil Nadu leads south-Indian groundwater utilisation.
-14. Quality points: **arsenic** in the Ganga belt; **fluoride** in Rajasthan and parts of Maharashtra; **usar** from over-irrigation in the north-west; Yamuna’s Delhi–Etawah stretch is the classic dirty stretch.
-15. National Water Policy 2012 puts **drinking first**. PMKSY means har khet plus more crop per drop. **Atal Jal** covers seven states including **Uttar Pradesh**. Ken–Betwa is the live interlinking project.
-16. **Kunchikal** on the **Varahi** is the usual UPPCS **highest** waterfall key. **Nohkalikai** is the tallest **plunge**. **Jog** on the **Sharavati** is famous for **width**, not height.
-17. **Shivanasamudra** on the **Cauvery** is the volume king. **Kapildhara** is on the **Narmada**, not the Godavari. Sharavati is a **west-flowing** Karnataka river, not a Cauvery tributary.
-18. Match pairs: **Dudhsagar–Goa (Mandovi)**; Barkana–Karnataka; Khandadhar–Odisha; Palani–Himachal Pradesh.
-19. **Hundru** is on the Subarnarekha. **Lodh / Budha Ghagh** is on the **Burha** (Jharkhand’s highest), not the Kanchi. **Dhuandhar** is Narmada at Bhedaghat. **Chitrakote** is on the Indravati.
-20. **Chachai–Bihad** is a wrong pair. **Bhalkund** is on the **Bina**, not the Narmada. Other falls: Amritdhara–Hasdeo, Chulia–Chambal, Duduma–Machhkund, Gokak–Ghataprabha.
-21. **Bhakra–Nangal** is on the **Sutlej** with **Gobind Sagar** (joint **PB–HR–RJ**). **Tehri** is the tallest rock-fill dam on the **Bhagirathi** (+ Bhilangana confluence). **Hirakud** on the **Mahanadi** in Odisha is the longest-earthen narrative (**1948–57**).
-22. **Indira Sagar** (Narmada Sagar) on the Narmada in **Madhya Pradesh** is the volume king (**Harsud** submerged). **Sardar Sarovar** is Narmada in **Gujarat** (~163 m, ~1450 MW; beneficiaries GJ–RJ–MH–MP). **Ban Sagar** is on the **Son**, not Narmada. **Idukki** is an arch dam on the **Periyar**. Koyna is linked to reservoir-induced seismicity in **1967**.
-23. **Nagarjuna Sagar** and **Srisailam** are both on the **Krishna**. **Tulbul** is on the Jhelum / Wular. **Baglihar** / **Dulhasti** are on the Chenab. **Pandoh** / **Pong** are on the Beas.
-24. Ramganga project points: length about **825.8 m**, power about **198 MW**, Garhwal location; irrigation is **not** a neat **6 lakh ha**.
-25. **Indira Gandhi Canal** is India’s **longest** canal (Harike Barrage; Sutlej–Beas–Ravi waters; western Rajasthan). **Gang Canal** (1927, Maharaja Ganga Singh) is among the oldest developed systems. Upper Ganga Canal offtake is at **Bhimgoda / Haridwar**; Lower Ganga Canal at **Narora**.
-26. Himalayan hydropower potential is huge. Eastern Uttar Pradesh and Bihar cannot tap the ranges to their north because those ranges lie in **Nepal**.
-27. India–Bhutan hydro names to fact: **Chukha**, Tala, Kurichhu, and **Mangdechhu / Mungdechhu**.
-28. **Hokera** is in Jammu & Kashmir, not Punjab. **Sasthamkotta** is Kerala. **Renuka** is Himachal. **Yaya Tso** is a Ladakh biodiversity heritage site.
-29. A **dam stores** water; a **barrage diverts** it (**Farakka** 1975 diverts about **40,000 cusec** toward the Hooghly — not a storage dam).
-30. Oxbow lakes are cut-off meanders on floodplains; lagoons are barred coastal water bodies — Chilika is a lagoon, not an oxbow.
-31. Lonar is a **meteorite crater** in Maharashtra basalt, not a volcanic caldera and not a tectonic basin like Wular.
-32. India now has **100 Ramsar** sites; Uttar Pradesh has **13**, with **Surha Tal / JP Narayan Bird Sanctuary, Ballia** as the 100th site.
-33. Irrigation project size by **Culturable Command Area (CCA)**: **minor** up to **2,000 ha** (~**62%** of irrigation potential); **medium** **2,000–10,000 ha**; **major** above **10,000 ha** (~**38%** via major + medium together).
-34. **2018–19** source share (provisional): **tubewells ~48.5%**; wells + tubewells together ~**64%**; **canals ~23%**; **tanks ~2.3%**. Wells/tubewells — not canals alone — are the dominant national source.
-35. **Garland Canal** idea = Captain **Dinshaw J. Dastur**. First river-linking thought often tagged to **M. Visvesvaraya**; later **K.L. Rao**. **Hariyali** (27 Jan **2003**) = watershed / rural water storage. **PMKSY** approved **1 July 2015**.
-36. Peninsula irrigation classic = **tanks / ponds** (hard rock + seasonal rivers). Groundwater resources available for irrigation among major states: **UP** leads (about **40.7 bcm**), then Punjab, Madhya Pradesh, Maharashtra.
-37. **DVC (1948)** is the first multipurpose valley project of independent India; Damodar = **Sorrow of Bengal**. Tilaiya / Maithon on **Barakar**; Panchet on Damodar.
-38. Oldest hydro = **Sidrapong (Darjeeling, 1897)**; second = **Shivasamudram (Cauvery, 1902)**. Cauvery dispute parties = **TN–KA–KL–Puducherry**.
-39. Chambal chain = **Gandhi Sagar (MP) + Rana Pratap Sagar + Jawahar Sagar (RJ)**. **Telugu Ganga** = Krishna water to **Chennai**. Nehru = **“temples of modern India.”**
-40. **Narmada Bachao Andolan** / **Medha Patkar** opposed SSP height. Narmada plan scale ≈ **30 major / 135 medium / 3000 small**.
-
----
-
 ## Confused Pairs
 
 | Pair | Correct | Trap | Hindi |
@@ -150,6 +105,51 @@ D. Chilka, Michigan, Superior, Victoria
 | Jawai Project | **Rajasthan** (Luni tributary) | Tamil Nadu | जवाई = राजस्थान |
 
 ---
+
+---
+
+## Consolidated — 40 Must-Score Facts
+
+1. First classify a lake as lagoon, inland saline, freshwater, crater, glacial, oxbow, or artificial. Origin pairs: **Wular** tectonic, **Chilika** lagoon, **Lonar** crater, **Sambhar** wind / playa, **Kabartal** oxbow.
+2. **Chilika** is the largest **east-coast lagoon** (Odisha / Northern Circars). If a question says “largest saline” and omits “inland,” Chilika is often the intended answer.
+3. **Sambhar** is the largest **inland** saline lake (Rajasthan). Sister Rajasthan saline names include Didwana, Kuchaman, Sargol, and Khatu.
+4. **Wular** is the largest-freshwater volume fact (Jammu & Kashmir, on the Jhelum, tectonic). **Dal** is the tourism lake. **Roopkund** is Uttarakhand’s Mystery / Skeleton Lake.
+5. **Loktak** (Manipur) holds **phumdis**, **Keibul Lamjao**, and the Sangai. **Kabartal** is Bihar’s oxbow Ramsar lake.
+6. **Pulicat** is the second major brackish lagoon (Andhra Pradesh–Tamil Nadu, Sriharikota bar). **Kolleru** is mainly **freshwater**, not a lagoon king.
+7. **Vembanad** is Kerala’s largest lake and India’s **longest**; it is a **west-coast** kayal / Ramsar, not India’s overall largest lake. **Kayal** means a Kerala coastal lagoon / backwater.
+8. **Phulhar** (Pilibhit) is linked to the Gomti source. **Kodaikanal** lake is artificial. Periyar Lake is **not** a coastal lagoon.
+9. World lake traps: **Onega** and **Ladoga** are in **Russia** (not Canada). Michigan is USA-only; Superior is USA and Canada.
+10. Rudrasagar is **Tripura**; Sultanpur is **Haryana**; Surinsar–Mansar is **Jammu & Kashmir** — none of these is an Uttar Pradesh Ramsar.
+11. India has more than **17%** of world people, about **4%** of water, and about **2.45%** of land. Precipitation is about **4000 BCM**; available water about **1869 BCM**; utilisable about **1122 BCM** (surface ~690 + groundwater ~433).
+12. The Ganga–Brahmaputra–Barak belt is about **one-third** of area but about **60%** of surface water. Irrigation takes about **89%** of surface water use and about **92%** of groundwater use.
+13. Groundwater now covers more than **60%** of irrigated area. Canals dominate the Indo-Gangetic plains; tanks matter on the peninsula. Tamil Nadu leads south-Indian groundwater utilisation.
+14. Quality points: **arsenic** in the Ganga belt; **fluoride** in Rajasthan and parts of Maharashtra; **usar** from over-irrigation in the north-west; Yamuna’s Delhi–Etawah stretch is the classic dirty stretch.
+15. National Water Policy 2012 puts **drinking first**. PMKSY means har khet plus more crop per drop. **Atal Jal** covers seven states including **Uttar Pradesh**. Ken–Betwa is the live interlinking project.
+16. **Kunchikal** on the **Varahi** is the usual UPPCS **highest** waterfall key. **Nohkalikai** is the tallest **plunge**. **Jog** on the **Sharavati** is famous for **width**, not height.
+17. **Shivanasamudra** on the **Cauvery** is the volume king. **Kapildhara** is on the **Narmada**, not the Godavari. Sharavati is a **west-flowing** Karnataka river, not a Cauvery tributary.
+18. Match pairs: **Dudhsagar–Goa (Mandovi)**; Barkana–Karnataka; Khandadhar–Odisha; Palani–Himachal Pradesh.
+19. **Hundru** is on the Subarnarekha. **Lodh / Budha Ghagh** is on the **Burha** (Jharkhand’s highest), not the Kanchi. **Dhuandhar** is Narmada at Bhedaghat. **Chitrakote** is on the Indravati.
+20. **Chachai–Bihad** is a wrong pair. **Bhalkund** is on the **Bina**, not the Narmada. Other falls: Amritdhara–Hasdeo, Chulia–Chambal, Duduma–Machhkund, Gokak–Ghataprabha.
+21. **Bhakra–Nangal** is on the **Sutlej** with **Gobind Sagar** (joint **PB–HR–RJ**). **Tehri** is the tallest rock-fill dam on the **Bhagirathi** (+ Bhilangana confluence). **Hirakud** on the **Mahanadi** in Odisha is the longest-earthen narrative (**1948–57**).
+22. **Indira Sagar** (Narmada Sagar) on the Narmada in **Madhya Pradesh** is the volume king (**Harsud** submerged). **Sardar Sarovar** is Narmada in **Gujarat** (~163 m, ~1450 MW; beneficiaries GJ–RJ–MH–MP). **Ban Sagar** is on the **Son**, not Narmada. **Idukki** is an arch dam on the **Periyar**. Koyna is linked to reservoir-induced seismicity in **1967**.
+23. **Nagarjuna Sagar** and **Srisailam** are both on the **Krishna**. **Tulbul** is on the Jhelum / Wular. **Baglihar** / **Dulhasti** are on the Chenab. **Pandoh** / **Pong** are on the Beas.
+24. Ramganga project points: length about **825.8 m**, power about **198 MW**, Garhwal location; irrigation is **not** a neat **6 lakh ha**.
+25. **Indira Gandhi Canal** is India’s **longest** canal (Harike Barrage; Sutlej–Beas–Ravi waters; western Rajasthan). **Gang Canal** (1927, Maharaja Ganga Singh) is among the oldest developed systems. Upper Ganga Canal offtake is at **Bhimgoda / Haridwar**; Lower Ganga Canal at **Narora**.
+26. Himalayan hydropower potential is huge. Eastern Uttar Pradesh and Bihar cannot tap the ranges to their north because those ranges lie in **Nepal**.
+27. India–Bhutan hydro names to fact: **Chukha**, Tala, Kurichhu, and **Mangdechhu / Mungdechhu**.
+28. **Hokera** is in Jammu & Kashmir, not Punjab. **Sasthamkotta** is Kerala. **Renuka** is Himachal. **Yaya Tso** is a Ladakh biodiversity heritage site.
+29. A **dam stores** water; a **barrage diverts** it (**Farakka** 1975 diverts about **40,000 cusec** toward the Hooghly — not a storage dam).
+30. Oxbow lakes are cut-off meanders on floodplains; lagoons are barred coastal water bodies — Chilika is a lagoon, not an oxbow.
+31. Lonar is a **meteorite crater** in Maharashtra basalt, not a volcanic caldera and not a tectonic basin like Wular.
+32. India now has **100 Ramsar** sites; Uttar Pradesh has **13**, with **Surha Tal / JP Narayan Bird Sanctuary, Ballia** as the 100th site.
+33. Irrigation project size by **Culturable Command Area (CCA)**: **minor** up to **2,000 ha** (~**62%** of irrigation potential); **medium** **2,000–10,000 ha**; **major** above **10,000 ha** (~**38%** via major + medium together).
+34. **2018–19** source share (provisional): **tubewells ~48.5%**; wells + tubewells together ~**64%**; **canals ~23%**; **tanks ~2.3%**. Wells/tubewells — not canals alone — are the dominant national source.
+35. **Garland Canal** idea = Captain **Dinshaw J. Dastur**. First river-linking thought often tagged to **M. Visvesvaraya**; later **K.L. Rao**. **Hariyali** (27 Jan **2003**) = watershed / rural water storage. **PMKSY** approved **1 July 2015**.
+36. Peninsula irrigation classic = **tanks / ponds** (hard rock + seasonal rivers). Groundwater resources available for irrigation among major states: **UP** leads (about **40.7 bcm**), then Punjab, Madhya Pradesh, Maharashtra.
+37. **DVC (1948)** is the first multipurpose valley project of independent India; Damodar = **Sorrow of Bengal**. Tilaiya / Maithon on **Barakar**; Panchet on Damodar.
+38. Oldest hydro = **Sidrapong (Darjeeling, 1897)**; second = **Shivasamudram (Cauvery, 1902)**. Cauvery dispute parties = **TN–KA–KL–Puducherry**.
+39. Chambal chain = **Gandhi Sagar (MP) + Rana Pratap Sagar + Jawahar Sagar (RJ)**. **Telugu Ganga** = Krishna water to **Chennai**. Nehru = **“temples of modern India.”**
+40. **Narmada Bachao Andolan** / **Medha Patkar** opposed SSP height. Narmada plan scale ≈ **30 major / 135 medium / 3000 small**.
 
 ---
 

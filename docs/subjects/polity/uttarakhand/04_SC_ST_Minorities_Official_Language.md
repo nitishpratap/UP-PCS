@@ -39,6 +39,16 @@
 
 ---
 
+## Must-Score Facts
+
+1. Five STs = Jaunsari, Tharu, Bhotia, Buksa, Raji.
+2. Declared ST in **1967**.
+3. Do not pick 1969/1970 on year stems.
+4. Official language card = Hindi.
+5. Raji geography detail → Geography UK Topic 6.
+
+---
+
 ## 4.1 Scheduled Tribes
 
 **Identity:** Five notified STs | year **1967** | region then in UP.
@@ -59,16 +69,6 @@
 - **Official language** teaching centres on **Hindi** for administration. Coaching notes also remember **Sanskrit** in State language politics — do not drop Hindi as the official card.
 - “Special State Selection Criteria” and domicile rules are syllabus heads — answer from the named notification in the stem, not from guesswork.
 - Do not add Garhwali / Kumaoni speech communities as STs — language groups are not the five ST names.
-
----
-
-## Must-Score Facts
-
-1. Five STs = Jaunsari, Tharu, Bhotia, Buksa, Raji.
-2. Declared ST in **1967**.
-3. Do not pick 1969/1970 on year stems.
-4. Official language card = Hindi.
-5. Raji geography detail → Geography UK Topic 6.
 
 ---
 

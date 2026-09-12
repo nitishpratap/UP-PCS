@@ -21,6 +21,24 @@ BSI | ZSI | FSI | FRI | WII | NBA | SBB | BMC | NBPGR
 
 ---
 
+## Confused Pairs
+
+| Term | One-line difference | Hindi |
+|------|---------------------|-------|
+| **BSI** | National **plant** survey — Kolkata | वनस्पति सर्वेक्षण |
+| **ZSI** | National **animal** survey — Kolkata | प्राणी सर्वेक्षण |
+| **FSI** | Forest **cover** mapping — **ISFR** — Dehradun | वन सर्वेक्षण |
+| **FRI** | Forestry **research** — Dehradun (ICFRE) | वन अनुसंधान |
+| **WII** | Wildlife research + training — Dehradun | वन्यजीव संस्थान |
+| **NBA** | National BDA regulator — **Chennai** | NBA |
+| **SBB** | State biodiversity board | राज्य जैव विविधता बोर्ड |
+| **BMC** | Local committee — prepares **PBR** | BMC |
+| **NBPGR** | Plant gene bank — New Delhi (ICAR) | NBPGR |
+| **ISFR** | India State of Forest Report — FSI, biennial | भारत वन स्थिति रिपोर्ट |
+| **PBR** | People's Biodiversity Register — local knowledge | जन जैव विविधता रजिस्टर |
+
+---
+
 ## Consolidated — 24 Must-Score Facts
 
 1. Headquarters map: **Kolkata** — BSI and ZSI; **Dehradun** — FSI, FRI, and WII; **New Delhi** — NBPGR; **Chennai** — NBA.
@@ -47,24 +65,6 @@ BSI | ZSI | FSI | FRI | WII | NBA | SBB | BMC | NBPGR
 22. PBR is prepared locally by BMCs; it is not an NBA HQ publication series.
 23. Match institution → city before matching function. Wrong city is enough to kill a match list.
 24. Dehradun trio: FSI (cover/ISFR), FRI (research), WII (wildlife). Keep the three jobs separate.
-
----
-
-## Confused Pairs
-
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **BSI** | National **plant** survey — Kolkata | वनस्पति सर्वेक्षण |
-| **ZSI** | National **animal** survey — Kolkata | प्राणी सर्वेक्षण |
-| **FSI** | Forest **cover** mapping — **ISFR** — Dehradun | वन सर्वेक्षण |
-| **FRI** | Forestry **research** — Dehradun (ICFRE) | वन अनुसंधान |
-| **WII** | Wildlife research + training — Dehradun | वन्यजीव संस्थान |
-| **NBA** | National BDA regulator — **Chennai** | NBA |
-| **SBB** | State biodiversity board | राज्य जैव विविधता बोर्ड |
-| **BMC** | Local committee — prepares **PBR** | BMC |
-| **NBPGR** | Plant gene bank — New Delhi (ICAR) | NBPGR |
-| **ISFR** | India State of Forest Report — FSI, biennial | भारत वन स्थिति रिपोर्ट |
-| **PBR** | People's Biodiversity Register — local knowledge | जन जैव विविधता रजिस्टर |
 
 ---
 

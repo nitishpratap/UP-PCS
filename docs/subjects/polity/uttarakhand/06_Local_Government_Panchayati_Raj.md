@@ -38,6 +38,16 @@
 
 ---
 
+## Must-Score Facts
+
+1. Health register = **not** a Panchayat record (Q134).
+2. Family / birth–death / grant registers = yes.
+3. Asian Mayors’ Conference 2006 = **Dehradun**.
+4. 73rd/74th skeleton still frames UK local bodies.
+5. Do not pick Mussoorie for the 2006 mayors’ conference.
+
+---
+
 ## 6.1 Panchayati Raj sketch
 
 **Identity:** Three-tier rural local government | State adaptations of 73rd Amendment.
@@ -65,16 +75,6 @@
 - The **first Asian Mayors’ Conference** in Uttarakhand (**2006**) was held at **Dehradun**.
 - It is an urban-governance venue stem, not a Panchayat record stem.
 - Do not pick Mussoorie, Haridwar, or Rishikesh for that 2006 venue.
-
----
-
-## Must-Score Facts
-
-1. Health register = **not** a Panchayat record (Q134).
-2. Family / birth–death / grant registers = yes.
-3. Asian Mayors’ Conference 2006 = **Dehradun**.
-4. 73rd/74th skeleton still frames UK local bodies.
-5. Do not pick Mussoorie for the 2006 mayors’ conference.
 
 ---
 

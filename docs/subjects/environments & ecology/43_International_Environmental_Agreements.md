@@ -21,6 +21,19 @@ UNFCCC | Kyoto Protocol | Paris Agreement | CBD | Ramsar | CITES | Bonn Conventi
 
 ---
 
+## Confused Pairs
+
+| Pair | Fact |
+|------|------|
+| **Kyoto / Paris** | Annex-I binding targets / universal NDCs |
+| **Kyoto / Montreal** | Climate / ozone |
+| **CITES / CMS** | Trade / migratory species |
+| **CITES / IUCN** | Trade rules / Red List assessment |
+| **Basel / Rotterdam / Stockholm** | Waste / PIC chemicals / POPs |
+| **Stockholm POPs / Stockholm 1972** | 2001 chemicals treaty / 1972 conference (UNEP) |
+
+---
+
 ## Consolidated — 24 Must-Score Facts
 
 1. The climate ladder is **UNFCCC 1992 → Kyoto 1997 → Paris 2015**.
@@ -47,19 +60,6 @@ UNFCCC | Kyoto Protocol | Paris Agreement | CBD | Ramsar | CITES | Bonn Conventi
 22. Rotterdam is chemicals PIC, not mercury (Minamata) and not POPs listing (Stockholm 2001).
 23. Paris NDCs are nationally determined. Kyoto Annex-I targets were top-down binding for listed developed parties.
 24. Bonn Convention means **CMS**, not the UNFCCC Bonn secretariat alone.
-
----
-
-## Confused Pairs
-
-| Pair | Fact |
-|------|------|
-| **Kyoto / Paris** | Annex-I binding targets / universal NDCs |
-| **Kyoto / Montreal** | Climate / ozone |
-| **CITES / CMS** | Trade / migratory species |
-| **CITES / IUCN** | Trade rules / Red List assessment |
-| **Basel / Rotterdam / Stockholm** | Waste / PIC chemicals / POPs |
-| **Stockholm POPs / Stockholm 1972** | 2001 chemicals treaty / 1972 conference (UNEP) |
 
 ---
 

@@ -16,6 +16,36 @@ Administrative System of British India | Local Administration | Cornwallis Code 
 
 ---
 
+## Confused Pairs
+
+| A | B | Difference | Hindi |
+|---|----|------------|-------|
+| Permanent Settlement | Ryotwari | Zamindar is proprietor in Bengal (1793) vs direct settlement with the cultivator in Madras/Bombay | स्थायी बंदोबस्त / रैयतवारी |
+| Ryotwari | Mahalwari | Individual cultivator vs the village or mahal as the unit | रैयतवारी / महलवारी |
+| Cornwallis | Munro | Permanent Settlement vs Ryotwari | कॉर्नवालिस / मुनरो |
+| Munro | Mackenzie | Ryotwari vs Mahalwari (1822) | मुनरो / मैकेंज़ी |
+| Drain of Wealth | Deindustrialization | Transfer of Indian wealth to Britain vs decline of Indian handicrafts | धन निष्कासन / विऔद्योगीकरण |
+| Home Charges | Overseas war costs | London-side charges on Indian revenue vs wars outside India (not Home Charges) | होम चार्जेस / विदेशी युद्ध |
+| Imperial Preference | Racial privilege only | Concessions on British imports in India vs a vague “race” label | इंपीरियल प्रेफरेंस |
+| Naoroji | Sir Syed Ahmad Khan | Drain Theory vs rejection of Drain / loyalty to British rule | नौरोजि / सर सैयद |
+| Permanent Settlement ~19% | Ryotwari ~51% | Zamindar Bengal belt vs direct ryot south/west | 19% / 51% |
+| Ripon 1882 | Mayo 1870 | Local self-government resolution vs financial decentralisation | रिपन / मेयो |
+| Hastings post 1774 | Dalhousie post 1854 | Start of Company postal system vs cheap uniform postage | हेस्टिंग्स / डलहौज़ी |
+| Naoroji 1901 | Wood 1854 | Drain book vs education despatch | नौरोजि / वुड |
+| Munsiff's Court | Sadar Diwani Adalat | Lowest civil court, small claims, Indian officer vs final civil court at Calcutta | मुनसिफ़ / सदर दीवानी अदालत |
+| District (Diwani) Judge | Sadar Nizamat Adalat | Same officer doubled as district Magistrate vs the top criminal appeal court at Calcutta | ज़िला न्यायाधीश / सदर निज़ामत अदालत |
+| Haileybury College | Fort William College | Company's England training college for civil servants (1806) vs Wellesley's 1800 Calcutta language college | हेलीबरी / फोर्ट विलियम |
+| Charter Act 1833 | Charter Act 1853 | Proposed open competition, never enforced vs actually opened competition | चार्टर 1833 / चार्टर 1853 |
+| Guarantee System | Managing Agency System | State-backed 5% return on railway capital vs British firms running Indian joint-stock companies for fees and control | गारंटी प्रणाली / प्रबंध अभिकरण |
+| Nij cultivation | Ryoti cultivation | Indigo on the planter's own land vs indigo forced on the peasant's land under a cash advance (dadan) | निज / रैयती |
+| Famine of 1876–78 | Famine of 1943 | Peacetime laissez-faire famine under Lytton vs wartime famine under Linlithgow | 1876-78 / 1943 |
+| Famine Commission 1880 | Woodhead Commission 1945 | Strachey's post-1876-78 body that produced the Famine Codes vs the post-1943 inquiry that played down British fault | स्ट्रेची आयोग / वुडहेड आयोग |
+| Ripon's 1882 Resolution | 1919 Dyarchy | Resolution only asked for elected local boards vs Montford reforms that actually transferred local self-government to Indian ministers | रिपन संकल्प / द्वैध शासन |
+| Herschell Committee 1893 | Fowler Committee 1898 | Closed free silver coinage / rupee crisis vs gold-exchange standard at 1s 4d | हर्शल / फाउलर |
+| Dual economy | Drain of Wealth | Split modern-export pocket vs mass distress vs unrequited transfer of surplus to Britain | द्वैत अर्थव्यवस्था / धन निष्कासन |
+
+---
+
 ## Consolidated — 28 Must-Score Facts
 
 1. Colonial economic policy moved through three phases: **mercantilism (Plassey–1813)**, **one-way free trade (1813–1858)**, and **finance capital / Drain (1858 onward)** with railway guarantees and Home Charges.
@@ -48,37 +78,6 @@ Administrative System of British India | Local Administration | Cornwallis Code 
 28. **Dual economy** critiques: a thin modern / export sector sat beside a distressed agrarian mass — nationalist Drain writers and later historians both used this picture against “modernisation” claims.
 
 ---
-
-## Confused Pairs
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Permanent Settlement | Ryotwari | Zamindar is proprietor in Bengal (1793) vs direct settlement with the cultivator in Madras/Bombay | स्थायी बंदोबस्त / रैयतवारी |
-| Ryotwari | Mahalwari | Individual cultivator vs the village or mahal as the unit | रैयतवारी / महलवारी |
-| Cornwallis | Munro | Permanent Settlement vs Ryotwari | कॉर्नवालिस / मुनरो |
-| Munro | Mackenzie | Ryotwari vs Mahalwari (1822) | मुनरो / मैकेंज़ी |
-| Drain of Wealth | Deindustrialization | Transfer of Indian wealth to Britain vs decline of Indian handicrafts | धन निष्कासन / विऔद्योगीकरण |
-| Home Charges | Overseas war costs | London-side charges on Indian revenue vs wars outside India (not Home Charges) | होम चार्जेस / विदेशी युद्ध |
-| Imperial Preference | Racial privilege only | Concessions on British imports in India vs a vague “race” label | इंपीरियल प्रेफरेंस |
-| Naoroji | Sir Syed Ahmad Khan | Drain Theory vs rejection of Drain / loyalty to British rule | नौरोजि / सर सैयद |
-| Permanent Settlement ~19% | Ryotwari ~51% | Zamindar Bengal belt vs direct ryot south/west | 19% / 51% |
-| Ripon 1882 | Mayo 1870 | Local self-government resolution vs financial decentralisation | रिपन / मेयो |
-| Hastings post 1774 | Dalhousie post 1854 | Start of Company postal system vs cheap uniform postage | हेस्टिंग्स / डलहौज़ी |
-| Naoroji 1901 | Wood 1854 | Drain book vs education despatch | नौरोजि / वुड |
-| Munsiff's Court | Sadar Diwani Adalat | Lowest civil court, small claims, Indian officer vs final civil court at Calcutta | मुनसिफ़ / सदर दीवानी अदालत |
-| District (Diwani) Judge | Sadar Nizamat Adalat | Same officer doubled as district Magistrate vs the top criminal appeal court at Calcutta | ज़िला न्यायाधीश / सदर निज़ामत अदालत |
-| Haileybury College | Fort William College | Company's England training college for civil servants (1806) vs Wellesley's 1800 Calcutta language college | हेलीबरी / फोर्ट विलियम |
-| Charter Act 1833 | Charter Act 1853 | Proposed open competition, never enforced vs actually opened competition | चार्टर 1833 / चार्टर 1853 |
-| Guarantee System | Managing Agency System | State-backed 5% return on railway capital vs British firms running Indian joint-stock companies for fees and control | गारंटी प्रणाली / प्रबंध अभिकरण |
-| Nij cultivation | Ryoti cultivation | Indigo on the planter's own land vs indigo forced on the peasant's land under a cash advance (dadan) | निज / रैयती |
-| Famine of 1876–78 | Famine of 1943 | Peacetime laissez-faire famine under Lytton vs wartime famine under Linlithgow | 1876-78 / 1943 |
-| Famine Commission 1880 | Woodhead Commission 1945 | Strachey's post-1876-78 body that produced the Famine Codes vs the post-1943 inquiry that played down British fault | स्ट्रेची आयोग / वुडहेड आयोग |
-| Ripon's 1882 Resolution | 1919 Dyarchy | Resolution only asked for elected local boards vs Montford reforms that actually transferred local self-government to Indian ministers | रिपन संकल्प / द्वैध शासन |
-| Herschell Committee 1893 | Fowler Committee 1898 | Closed free silver coinage / rupee crisis vs gold-exchange standard at 1s 4d | हर्शल / फाउलर |
-| Dual economy | Drain of Wealth | Split modern-export pocket vs mass distress vs unrequited transfer of surplus to Britain | द्वैत अर्थव्यवस्था / धन निष्कासन |
-
----
-
 
 ## 4.0 One clear picture — three phases of colonial economic policy
 

@@ -26,6 +26,27 @@ Indus Valley Civilization | Features of Harappan Civilization | Major Harappan S
 ---
 
 
+## Confused Pairs
+
+| A | B | Difference | Hindi |
+|---|----|------------|-------|
+| Harappan | Indus Valley | Same culture; named after first site **Harappa** | हड़प्पा / सिंधु घाटी |
+| Citadel | Lower town | Raised **west** platform vs larger **east** residential zone | दुर्ग / निम्न नगर |
+| Alamgirpur | Rakhigarhi | **Easternmost, UP** vs **largest in India, Haryana** | आलमगीरपुर / राखीगढ़ी |
+| Lothal | Dholavira | **Dockyard** vs **reservoirs + signboard** | लोथल / धोलावीरा |
+| Mandi (UP) | Manda (J&K) | **Muzaffarnagar** vs **Chenab, northernmost** | मंडी / मांडा |
+| IVC | Rigvedic | **Urban** vs **pastoral** | नगरीय / पशुपालक |
+| OCP | Mature Harappan | Doab ochre pottery vs urban peak | गेरूआ मृद्भांड |
+| Seal | Script | Steatite object vs unread signs on it | मुद्रा / लिपि |
+| Proto-historic | Historic | Undeciphered Harappan script vs usable written history (~6th c. BCE) | आद्यऐतिहासिक / ऐतिहासिक |
+| Cemetery R-37 | Cemetery H | Mature Harappa coffin cemetery vs Late Harappan urn / fractional burial | आर-37 / सीमेट्री एच |
+| Cow on seals | Unicorn / bull on seals | Cow **absent** vs common seal animals | गाय / एकशृंगी–वृषभ |
+| Sohgaura | Chanhudaro | Mauryan copper-plate village (Gorakhpur) vs Harappan craft town (Sindh) | सोहगौरा / चन्हूदड़ो |
+
+---
+
+![img_1.png](img_1.png)
+
 ## Consolidated — 34 Must-Score Facts
 
 1. The Indus Valley Civilization is a **Bronze Age urban** culture. The Mature phase is about **2600–1900 BCE**. Early is roughly **3300–2600 BCE** and Late about **1900–1300 BCE**.
@@ -65,27 +86,6 @@ Indus Valley Civilization | Features of Harappan Civilization | Major Harappan S
 34. **Cemetery R-37** = Harappa; **dockyard** = Lothal; **ploughed field** = Kalibangan; **Dancing Girl** = Mohenjo-daro.
 
 ---
-
-## Confused Pairs
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Harappan | Indus Valley | Same culture; named after first site **Harappa** | हड़प्पा / सिंधु घाटी |
-| Citadel | Lower town | Raised **west** platform vs larger **east** residential zone | दुर्ग / निम्न नगर |
-| Alamgirpur | Rakhigarhi | **Easternmost, UP** vs **largest in India, Haryana** | आलमगीरपुर / राखीगढ़ी |
-| Lothal | Dholavira | **Dockyard** vs **reservoirs + signboard** | लोथल / धोलावीरा |
-| Mandi (UP) | Manda (J&K) | **Muzaffarnagar** vs **Chenab, northernmost** | मंडी / मांडा |
-| IVC | Rigvedic | **Urban** vs **pastoral** | नगरीय / पशुपालक |
-| OCP | Mature Harappan | Doab ochre pottery vs urban peak | गेरूआ मृद्भांड |
-| Seal | Script | Steatite object vs unread signs on it | मुद्रा / लिपि |
-| Proto-historic | Historic | Undeciphered Harappan script vs usable written history (~6th c. BCE) | आद्यऐतिहासिक / ऐतिहासिक |
-| Cemetery R-37 | Cemetery H | Mature Harappa coffin cemetery vs Late Harappan urn / fractional burial | आर-37 / सीमेट्री एच |
-| Cow on seals | Unicorn / bull on seals | Cow **absent** vs common seal animals | गाय / एकशृंगी–वृषभ |
-| Sohgaura | Chanhudaro | Mauryan copper-plate village (Gorakhpur) vs Harappan craft town (Sindh) | सोहगौरा / चन्हूदड़ो |
-
----
-
-![img_1.png](img_1.png)
 
 ## 2.1 Indus Valley Civilization
 

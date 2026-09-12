@@ -21,6 +21,21 @@ Climate Change | Atmospheric Studies | Global Climate Monitoring | Greenhouse Ga
 
 ---
 
+## Confused Pairs
+
+| Term | One-line fact |
+|------|---------------|
+| **Climate change / Global warming** | Full system shift / temperature rise only |
+| **Greenhouse effect** | IR trapping by GHGs |
+| **Carbon sink / sequestration** | Net absorber / process of storing carbon |
+| **Carbon budget** | Cumulative CO₂ limit for a temperature goal |
+| **Carbon credit / trading** | 1 tCO₂e unit / market exchange |
+| **Mitigation / Adaptation** | Cut drivers / live with impacts |
+| **IPCC / UNFCCC** | Science / treaty |
+| **Emissions Gap Report** | **UNEP** annual NDC shortfall report |
+
+---
+
 ## Consolidated — 32 Must-Score Facts
 
 1. **Climate change** is a long-term shift in temperature, rainfall, and extremes. **Global warming** is the temperature-rise part only.
@@ -55,21 +70,6 @@ Climate Change | Atmospheric Studies | Global Climate Monitoring | Greenhouse Ga
 30. **Deep Carbon Observatory** maps deep-Earth carbon (physics, reservoirs, deep energy, deep life).
 31. **Common Carbon Metric** (UNEP-linked) measures building-operation carbon footprints.
 32. Primary recent warming drivers are fossil fuels, autos, deforestation — **not** solar flares.
-
----
-
-## Confused Pairs
-
-| Term | One-line fact |
-|------|---------------|
-| **Climate change / Global warming** | Full system shift / temperature rise only |
-| **Greenhouse effect** | IR trapping by GHGs |
-| **Carbon sink / sequestration** | Net absorber / process of storing carbon |
-| **Carbon budget** | Cumulative CO₂ limit for a temperature goal |
-| **Carbon credit / trading** | 1 tCO₂e unit / market exchange |
-| **Mitigation / Adaptation** | Cut drivers / live with impacts |
-| **IPCC / UNFCCC** | Science / treaty |
-| **Emissions Gap Report** | **UNEP** annual NDC shortfall report |
 
 ---
 

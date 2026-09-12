@@ -15,6 +15,28 @@ Morley–Minto Reforms (context) | Lucknow Pact | Home Rule Movement | National 
 
 ---
 
+## Confused Pairs
+
+| A | B | Difference | Hindi |
+|---|----|------------|-------|
+| Morley–Minto 1909 | Lucknow Pact 1916 | British Act creates Muslim separate electorates vs Congress **accepts** them in a bargain | मार्ले–मिंटो / लखनऊ |
+| Home Rule leagues | One merged league 1916 | Two parallel leagues that cooperated vs permanent single body | दो लीग / विलय |
+| Olcott / Blavatsky | Annie Besant | Founded Theosophical Society 1875 vs later leader + Home Rule | अल्कॉट / बेसेंट |
+| Tilak League | Besant League | Apr 1916 Poona, limited provinces vs Sep 1916 Madras, rest of India + Bombay city | तिलक लीग / बेसेंट लीग |
+| Home Rule | Gandhian Swaraj | Wartime constitutional self-govt vs later mass satyagraha | होम रूल / स्वराज |
+| Besant | Blavatsky | Later Theosophy + Home Rule vs co-founder of Theosophical Society 1875 | बेसेंट / ब्लावत्स्की |
+| NCE 1906 | BHU 1916 | Swadeshi national-education body vs Banaras Hindu University | राष्ट्रीय शिक्षा परिषद / बीएचयू |
+| AITUC 1920 | INTUC 1947 | CPI stream vs Congress labour wing | एटक / इंटक |
+| CSP | CPI | Socialists **inside Congress** (1934) vs separate communist party | सीएसपी / सीपीआई |
+| WPP | CSP | Late-1920s left inside Congress vs 1934 socialist party inside Congress | डब्ल्यूपीपी / सीएसपी |
+| Justice Party | Congress | Madras non-Brahmin regional vs all-India nationalist | जस्टिस पार्टी / कांग्रेस |
+| Baptista | N.M. Joshi | Tilak League President vs ILO 1919 labour rep | बैपटिस्टा / जोशी |
+| Malaviya | Besant (BHU) | Chief BHU organiser vs Central Hindu College nucleus | मालवीय / बेसेंट |
+| Lucknow Pact 1916 | Montagu Declaration 1917 | Congress–League electoral deal vs British statement of policy goal | लखनऊ पैक्ट / मॉण्टेग्यू घोषणा |
+| Montagu Declaration | August Offer 1940 | 1917 promise of responsible government vs 1940 wartime offer to Congress/League | मॉण्टेग्यू / अगस्त प्रस्ताव |
+
+---
+
 ## Consolidated — 34 Must-Score Facts
 
 1. **Tilak’s Indian Home Rule League** was founded in **April 1916** at **Poona**. **Joseph Baptista** was President; **N.C. Kelkar** was Secretary.
@@ -53,29 +75,6 @@ Morley–Minto Reforms (context) | Lucknow Pact | Home Rule Movement | National 
 34. **Annie Besant** was a **Fabian** as well as a Theosophist–Home Rule leader; she did **not** found the Theosophical Society.
 
 ---
-
-## Confused Pairs
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Morley–Minto 1909 | Lucknow Pact 1916 | British Act creates Muslim separate electorates vs Congress **accepts** them in a bargain | मार्ले–मिंटो / लखनऊ |
-| Home Rule leagues | One merged league 1916 | Two parallel leagues that cooperated vs permanent single body | दो लीग / विलय |
-| Olcott / Blavatsky | Annie Besant | Founded Theosophical Society 1875 vs later leader + Home Rule | अल्कॉट / बेसेंट |
-| Tilak League | Besant League | Apr 1916 Poona, limited provinces vs Sep 1916 Madras, rest of India + Bombay city | तिलक लीग / बेसेंट लीग |
-| Home Rule | Gandhian Swaraj | Wartime constitutional self-govt vs later mass satyagraha | होम रूल / स्वराज |
-| Besant | Blavatsky | Later Theosophy + Home Rule vs co-founder of Theosophical Society 1875 | बेसेंट / ब्लावत्स्की |
-| NCE 1906 | BHU 1916 | Swadeshi national-education body vs Banaras Hindu University | राष्ट्रीय शिक्षा परिषद / बीएचयू |
-| AITUC 1920 | INTUC 1947 | CPI stream vs Congress labour wing | एटक / इंटक |
-| CSP | CPI | Socialists **inside Congress** (1934) vs separate communist party | सीएसपी / सीपीआई |
-| WPP | CSP | Late-1920s left inside Congress vs 1934 socialist party inside Congress | डब्ल्यूपीपी / सीएसपी |
-| Justice Party | Congress | Madras non-Brahmin regional vs all-India nationalist | जस्टिस पार्टी / कांग्रेस |
-| Baptista | N.M. Joshi | Tilak League President vs ILO 1919 labour rep | बैपटिस्टा / जोशी |
-| Malaviya | Besant (BHU) | Chief BHU organiser vs Central Hindu College nucleus | मालवीय / बेसेंट |
-| Lucknow Pact 1916 | Montagu Declaration 1917 | Congress–League electoral deal vs British statement of policy goal | लखनऊ पैक्ट / मॉण्टेग्यू घोषणा |
-| Montagu Declaration | August Offer 1940 | 1917 promise of responsible government vs 1940 wartime offer to Congress/League | मॉण्टेग्यू / अगस्त प्रस्ताव |
-
----
-
 
 ## 12.0 Morley–Minto Reforms (1909) — bridge into Home Rule politics
 

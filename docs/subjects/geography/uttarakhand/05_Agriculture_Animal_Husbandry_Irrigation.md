@@ -39,6 +39,16 @@
 
 ---
 
+## Must-Score Facts
+
+1. Animal husbandry is a **supplementary** occupation in Uttarakhand, not the sole primary livelihood for most households.
+2. On cultivated-area / AH stems, often **only the first statement** holds — read both carefully.
+3. Major sugarcane / irrigated plains district rivalry often pits **Haridwar** against **Udham Singh Nagar**.
+4. Plains lead cultivated area; hills lead terrace / horticulture stories.
+5. Tarai = canal–tubewell; hills = springs / guls.
+
+---
+
 ## 5.1 Agriculture pattern
 
 **Identity:** Hill terraces versus Tarai granary | plains lead cropped area.
@@ -112,16 +122,6 @@
 - Steep terrain limits large canal networks in the higher Himalaya.
 - Irrigation intensity therefore falls from Tarai granary districts toward high alpine valleys.
 - The syllabus expects this plains–hills contrast, not a long named-project dump as the main story.
-
----
-
-## Must-Score Facts
-
-1. Animal husbandry is a **supplementary** occupation in Uttarakhand, not the sole primary livelihood for most households.
-2. On cultivated-area / AH stems, often **only the first statement** holds — read both carefully.
-3. Major sugarcane / irrigated plains district rivalry often pits **Haridwar** against **Udham Singh Nagar**.
-4. Plains lead cultivated area; hills lead terrace / horticulture stories.
-5. Tarai = canal–tubewell; hills = springs / guls.
 
 ---
 

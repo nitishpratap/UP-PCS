@@ -15,6 +15,20 @@ Medieval Music | Later Mughal Music | Mughal Court Patronage | Amir Khusrau | Ta
 
 ---
 
+## Confused Pairs
+
+| A | B | Difference | Hindi |
+|---|----|------------|-------|
+| Dhrupad vs Khayal | Oldest + **pakhawaj** vs dominant today + **tabla** | ध्रुपद / ख्याल |
+| Tansen vs Amir Khusrau | Akbar dhrupad Navratna vs Sultanate Nizamuddin + qawwali | तानसेन / अमीर खुसरो |
+| Tappa vs Thumri | Fast camel-song; **Muhammad Shah** court vs Awadh–Banaras romantic | टप्पा / ठुमरी |
+| Qawwali vs Sama | Sufi chorus form linked to Khusrau vs Chishti musical assembly | क़व्वाली / समा |
+| Somanath vs Khusrau (Raga Vibodh) | 2021/2022 treatise author vs 2019 literary-list pair | सोमनाथ / खुसरो |
+| Akbar vs Muhammad Shah music | Dhrupad peak (Tansen) vs Khayal/Tappa later bloom | अकबर / मुहम्मद शाह |
+| Tabla vs Pakhawaj | Khayal/thumri accompaniment vs dhrupad drum | तबला / पखावज |
+
+---
+
 ## Consolidated — 24 Must-Score Facts
 
 1. Sultanate music fused **Amir Khusrau**, Chishti **sama**, and Hindavi synthesis before the Mughal dhrupad peak.
@@ -41,20 +55,6 @@ Medieval Music | Later Mughal Music | Mughal Court Patronage | Amir Khusrau | Ta
 22. Tansen and Amir Khusrau were **not** contemporaries — one is Akbar-age, the other Sultanate-age.
 23. Folklore credits Khusrau with sitar, tabla, and qawwali inventions, but key facts keep him as the Nizamuddin–Hindavi music bridge.
 24. Gwalior / Behat tradition feeds Tansen’s origin story before the Rewa and Akbar courts.
-
----
-
-## Confused Pairs
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Dhrupad vs Khayal | Oldest + **pakhawaj** vs dominant today + **tabla** | ध्रुपद / ख्याल |
-| Tansen vs Amir Khusrau | Akbar dhrupad Navratna vs Sultanate Nizamuddin + qawwali | तानसेन / अमीर खुसरो |
-| Tappa vs Thumri | Fast camel-song; **Muhammad Shah** court vs Awadh–Banaras romantic | टप्पा / ठुमरी |
-| Qawwali vs Sama | Sufi chorus form linked to Khusrau vs Chishti musical assembly | क़व्वाली / समा |
-| Somanath vs Khusrau (Raga Vibodh) | 2021/2022 treatise author vs 2019 literary-list pair | सोमनाथ / खुसरो |
-| Akbar vs Muhammad Shah music | Dhrupad peak (Tansen) vs Khayal/Tappa later bloom | अकबर / मुहम्मद शाह |
-| Tabla vs Pakhawaj | Khayal/thumri accompaniment vs dhrupad drum | तबला / पखावज |
 
 ---
 

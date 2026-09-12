@@ -35,6 +35,18 @@
 
 ---
 
+## Must-Score Facts
+
+1. Sudarshan Shah founds / restores Tehri after **1815**.
+2. Tehri = princely; British Garhwal = Company.
+3. Capitals: **Tehri** early; **Narendra Nagar** with **Narendra Shah**.
+4. English education starts under **Pratap Shah**; Kirti and Narendra are later.
+5. Praja Mandal / responsible government = politics bridge to the Freedom Movement card.
+6. Merger into UP / United Provinces ≈ **1949**.
+7. Do not answer Tehri education stems with Sudarshan Shah only because he is the founder.
+
+---
+
 ## 3.1 Origin after Sugauli
 
 - When Gorkha power collapses in the hills, the British restore western Garhwal to **Sudarshan Shah**.
@@ -86,18 +98,6 @@
 - Coaching memory places the administrative merger about **1949** (agreement and takeover in that year-belt).
 - Princely Tehri ceases as a separate polity; district Tehri–Garhwal continues inside the UP / later Uttarakhand map.
 - Do not place the merger in 1815 — that year only restores the estate under Sudarshan Shah.
-
----
-
-## Must-Score Facts
-
-1. Sudarshan Shah founds / restores Tehri after **1815**.
-2. Tehri = princely; British Garhwal = Company.
-3. Capitals: **Tehri** early; **Narendra Nagar** with **Narendra Shah**.
-4. English education starts under **Pratap Shah**; Kirti and Narendra are later.
-5. Praja Mandal / responsible government = politics bridge to the Freedom Movement card.
-6. Merger into UP / United Provinces ≈ **1949**.
-7. Do not answer Tehri education stems with Sudarshan Shah only because he is the founder.
 
 ---
 

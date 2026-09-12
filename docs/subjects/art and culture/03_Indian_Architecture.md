@@ -26,6 +26,36 @@ Indian Temple Architecture | Nagara Style | Dravida Style | Vesara Style | Templ
 ---
 
 
+## Confused Pairs
+
+| A | B | Correct | Hindi |
+|---|----|------|-------|
+| Nagara | Dravida | Curvilinear shikhara, no gopuram vs pyramidal vimana + tall gopuram | नागर / द्रविड़ |
+| Shikhara | Vimana | Nagara tower over sanctum vs Dravida tower over sanctum | शिखर / विमान |
+| Gopuram | Shikhara | Dravida **gateway** vs Nagara **sanctum** tower — papers swap these | गोपुरम् / शिखर |
+| Vesara | Nagara | Karnataka hybrid / storeyed vs pure north curvilinear | वेसर / नागर |
+| Stupa | Chaitya | Solid relic mound vs congregational hall with apse stupa | स्तूप / चैत्य |
+| Chaitya | Vihara | Prayer hall vs monastic cells | चैत्य / विहार |
+| Rock-cut | Structural | Living rock (Ajanta, rathas) vs dressed blocks (Brihadeeswara, Shore) | शैल-कट / संरचनात्मक |
+| Rekha deul | Pidha deul | Odisha sanctum tower vs jagamohana pyramidal hall | रेखा देउल / पिढ़ा देउल |
+| Charbagh | Panchayatana | Islamic four-part garden vs Hindu five-shrine plan | चारबाग़ / पंचायतन |
+| Indo-Islamic | Mughal | Sultanate arch-dome (Qutub) vs imperial garden-tomb synthesis (Taj) | भारतीय-इस्लामी / मुग़ल |
+| True arch | Corbel | Voussoirs (Indo-Islamic) vs projecting courses (pre-Islamic temples) | सच्चा मेहराब / कॉर्बेल |
+| Squinch | Pendentive | Corner arch to take a dome vs curved triangle (later) | स्क्विंच / पेंडेंटिव |
+| Latina | Phamsana | Curvilinear sanctum tower vs stepped pyramidal mandapa roof | लतिना / फामसन |
+| Khajuraho Chausath Yogini | Morena Chausath Yogini | Chandela hypaethral vs **Kachchhapaghata Devapala** circular | खजुराहो / मुरैना |
+| Virupaksha Hampi | Virupaksha Pattadakal | Vijayanagara living shrine vs Early Chalukya Dravida | हम्पी / पट्टदकल |
+| Ellora | Sakas | Rashtrakuta-age multi-faith caves vs wrong dynasty trap | एलोरा / शक |
+| Meenakshi Madurai | Pallava | Nayaka / Pandya gopuram peak vs Pallava Mamalla–Rajasimha | मीनाक्षी / पल्लव |
+| Mahabalipuram | Rashtrakuta | **Pallava** rock-cut / Shore vs Ellora Kailasa dynasty | महाबलीपुरम / राष्ट्रकूट |
+| Besnagar Heliodorus | Shaiva cave | **Vaishnava Garuda** pillar vs wrong Shaiva label | बेसनगर / शैव |
+| Dilwara marble | Khajuraho sandstone | Mount Abu Jain Solanki vs Chandela Nagara | दिलवाड़ा / खजुराहो |
+| Arasavalli | Omkareshwar | Sun temple (Andhra) vs Shiva jyotirlinga (MP) | अरासवल्ली / ओंकारेश्वर |
+| Konark 24 wheels | “12 wheels” shorthand | Full chariot has **24** wheels (12 pairs) | कोणार्क चक्र |
+| Mandu | Khajuraho / Sanchi / Bhimbetka | Mandu **not** UNESCO vs MP WHS trio | माण्डू / यूनेस्को |
+
+---
+
 ## Consolidated — 40 Must-Score Facts
 
 1. **Nagara** temples have a curvilinear **shikhara** and generally **no** monumental gopuram. **Dravida** temples have a pyramidal **vimana** plus tall **gopuram. Vesara** is the Deccan hybrid of Chalukya / Hoysala land.
@@ -68,36 +98,6 @@ Indian Temple Architecture | Nagara Style | Dravida Style | Vesara Style | Templ
 38. Ajanta’s other Gupta-age mural cousin is **Bagh** (MP). Padmapani (Cave 1) and related mural stars are taught fully in Painting.
 39. Rashtrakuta courts also backed Jain scholars; **Amoghavarsha I** was a disciple of **Jinasena** (*Adipurana*) — context for Ellora’s Jain caves.
 40. Chronology spine for south temples: **Sapt Pagoda → Shore Temple → Brihadeeswara → Gangaikonda Cholapuram**.
-
----
-
-## Confused Pairs
-
-| A | B | Correct | Hindi |
-|---|----|------|-------|
-| Nagara | Dravida | Curvilinear shikhara, no gopuram vs pyramidal vimana + tall gopuram | नागर / द्रविड़ |
-| Shikhara | Vimana | Nagara tower over sanctum vs Dravida tower over sanctum | शिखर / विमान |
-| Gopuram | Shikhara | Dravida **gateway** vs Nagara **sanctum** tower — papers swap these | गोपुरम् / शिखर |
-| Vesara | Nagara | Karnataka hybrid / storeyed vs pure north curvilinear | वेसर / नागर |
-| Stupa | Chaitya | Solid relic mound vs congregational hall with apse stupa | स्तूप / चैत्य |
-| Chaitya | Vihara | Prayer hall vs monastic cells | चैत्य / विहार |
-| Rock-cut | Structural | Living rock (Ajanta, rathas) vs dressed blocks (Brihadeeswara, Shore) | शैल-कट / संरचनात्मक |
-| Rekha deul | Pidha deul | Odisha sanctum tower vs jagamohana pyramidal hall | रेखा देउल / पिढ़ा देउल |
-| Charbagh | Panchayatana | Islamic four-part garden vs Hindu five-shrine plan | चारबाग़ / पंचायतन |
-| Indo-Islamic | Mughal | Sultanate arch-dome (Qutub) vs imperial garden-tomb synthesis (Taj) | भारतीय-इस्लामी / मुग़ल |
-| True arch | Corbel | Voussoirs (Indo-Islamic) vs projecting courses (pre-Islamic temples) | सच्चा मेहराब / कॉर्बेल |
-| Squinch | Pendentive | Corner arch to take a dome vs curved triangle (later) | स्क्विंच / पेंडेंटिव |
-| Latina | Phamsana | Curvilinear sanctum tower vs stepped pyramidal mandapa roof | लतिना / फामसन |
-| Khajuraho Chausath Yogini | Morena Chausath Yogini | Chandela hypaethral vs **Kachchhapaghata Devapala** circular | खजुराहो / मुरैना |
-| Virupaksha Hampi | Virupaksha Pattadakal | Vijayanagara living shrine vs Early Chalukya Dravida | हम्पी / पट्टदकल |
-| Ellora | Sakas | Rashtrakuta-age multi-faith caves vs wrong dynasty trap | एलोरा / शक |
-| Meenakshi Madurai | Pallava | Nayaka / Pandya gopuram peak vs Pallava Mamalla–Rajasimha | मीनाक्षी / पल्लव |
-| Mahabalipuram | Rashtrakuta | **Pallava** rock-cut / Shore vs Ellora Kailasa dynasty | महाबलीपुरम / राष्ट्रकूट |
-| Besnagar Heliodorus | Shaiva cave | **Vaishnava Garuda** pillar vs wrong Shaiva label | बेसनगर / शैव |
-| Dilwara marble | Khajuraho sandstone | Mount Abu Jain Solanki vs Chandela Nagara | दिलवाड़ा / खजुराहो |
-| Arasavalli | Omkareshwar | Sun temple (Andhra) vs Shiva jyotirlinga (MP) | अरासवल्ली / ओंकारेश्वर |
-| Konark 24 wheels | “12 wheels” shorthand | Full chariot has **24** wheels (12 pairs) | कोणार्क चक्र |
-| Mandu | Khajuraho / Sanchi / Bhimbetka | Mandu **not** UNESCO vs MP WHS trio | माण्डू / यूनेस्को |
 
 ---
 

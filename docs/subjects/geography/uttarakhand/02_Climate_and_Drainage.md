@@ -45,6 +45,16 @@
 
 ---
 
+## Must-Score Facts
+
+1. West→east: Yamuna → Bhilangana → Alaknanda → Gori.
+2. Yamunotri → Yamuna; Gangotri/Gaumukh → Bhagirathi; Devprayag → Ganga.
+3. Panch Prayag: Vishnu (Dhauliganga) → Nanda (Nandakini) → Karna (Pindar) → Rudra (Mandakini) → Dev (Bhagirathi).
+4. Bhilangana → Bhagirathi (Tehri); Kali/Sharda = Nepal-border eastern trunk.
+5. Altitude = primary climate control; monsoon + western disturbances.
+
+---
+
 ## 2.1 Climate sketch
 
 **Identity:** Altitude-stacked climate shaped by monsoon and western disturbances.
@@ -125,16 +135,6 @@
 - The **Kosi** of Kumaon is another named Kumaon stream in standard state GK.
 - Do not confuse the Kumaon Kosi with the larger Bihar Kosi narrative.
 - Together these names complete the eastward drainage map beyond the Alaknanda–Ganga core.
-
----
-
-## Must-Score Facts
-
-1. West→east: Yamuna → Bhilangana → Alaknanda → Gori.
-2. Yamunotri → Yamuna; Gangotri/Gaumukh → Bhagirathi; Devprayag → Ganga.
-3. Panch Prayag: Vishnu (Dhauliganga) → Nanda (Nandakini) → Karna (Pindar) → Rudra (Mandakini) → Dev (Bhagirathi).
-4. Bhilangana → Bhagirathi (Tehri); Kali/Sharda = Nepal-border eastern trunk.
-5. Altitude = primary climate control; monsoon + western disturbances.
 
 ---
 

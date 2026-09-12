@@ -15,6 +15,27 @@ Maratha Empire | Shivaji | Administrative Structure of Shivaji | Peshwas | Peshw
 
 ---
 
+## Confused Pairs
+
+| A | B | Difference | Hindi |
+|---|----|------------|-------|
+| Chauth vs Sardeshmukhi | 25% protection vs extra 10% chief claim | चौथ / सरदेशमुखी |
+| Shivaji vs Peshwa | Chhatrapati founder vs later de facto ruler | शिवाजी / पेशवा |
+| Bajirao I vs Balaji Bajirao | Father 1720–40 vs son 1740–61 (Panipat) | बाजीराव I / बालाजी बाजीराव |
+| Madhav Rao I vs Narayan Rao | 1761–72 recovery vs 1772–73 murdered | माधवराव / नारायणराव |
+| Panipat I vs II vs III | 1526 Babur / 1556 Akbar–Hemu / 1761 Maratha–Abdali | पानीपत I / II / III |
+| Abdali vs Nadir Shah | Panipat 1761 vs Delhi sack 1739 | अब्दाली / नादिर शाह |
+| Bhau vs Bajirao I | 1761 commander vs died 1740 | भाऊ / बाजीराव |
+| Raigad vs Pune | Shivaji coronation vs Peshwa seat | रायगढ़ / पुणे |
+| Sangola vs Lanavada | 1750 Peshwa supremacy vs 1718 chauth recognition | सांगोला / लानावड़ा |
+| Chauth vs Saranzami | 25% protection levy vs jagirdar livelihood land | चौथ / सरंजामी |
+| Deshmukh vs Ashtapradhan | Feudal Bijapur chiefs vs Shivaji’s 8 ministers | देशमुख / अष्टप्रधान |
+| Purandar vs Lanavada | 1665 Shivaji–Jai Singh vs 1718 Shahu–Mughals | पुरंदर / लणवाडा |
+| Sambhaji vs Shahu | Executed 1689 vs released 1707, Peshwa rise | सम्भाजी / शाहू |
+| Sikh Khalsa vs Chauth | 1699 Panth vs Maratha 25% levy | खालसा / चौथ |
+
+---
+
 ## Consolidated — 29 Must-Score Facts
 
 1. **Shivaji (1630–1680)** built swaraj, was crowned **Chhatrapati at Raigad in 1674** (**Gaga Bhatt / Vishweshwar** of Banaras declared him Kshatriya), and died at Raigad in **1680**.
@@ -46,27 +67,6 @@ Maratha Empire | Shivaji | Administrative Structure of Shivaji | Peshwas | Peshw
 27. **Modi script** was used in Maratha revenue and administrative papers.
 28. **Ahilyabai Holkar** ruled from the **Holkar** house of **Indore**.
 29. Ashtapradhan ministers headed departments but did **not** hold independent cabinet power; Shivaji could accept or reject advice.
-
----
-
-## Confused Pairs
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Chauth vs Sardeshmukhi | 25% protection vs extra 10% chief claim | चौथ / सरदेशमुखी |
-| Shivaji vs Peshwa | Chhatrapati founder vs later de facto ruler | शिवाजी / पेशवा |
-| Bajirao I vs Balaji Bajirao | Father 1720–40 vs son 1740–61 (Panipat) | बाजीराव I / बालाजी बाजीराव |
-| Madhav Rao I vs Narayan Rao | 1761–72 recovery vs 1772–73 murdered | माधवराव / नारायणराव |
-| Panipat I vs II vs III | 1526 Babur / 1556 Akbar–Hemu / 1761 Maratha–Abdali | पानीपत I / II / III |
-| Abdali vs Nadir Shah | Panipat 1761 vs Delhi sack 1739 | अब्दाली / नादिर शाह |
-| Bhau vs Bajirao I | 1761 commander vs died 1740 | भाऊ / बाजीराव |
-| Raigad vs Pune | Shivaji coronation vs Peshwa seat | रायगढ़ / पुणे |
-| Sangola vs Lanavada | 1750 Peshwa supremacy vs 1718 chauth recognition | सांगोला / लानावड़ा |
-| Chauth vs Saranzami | 25% protection levy vs jagirdar livelihood land | चौथ / सरंजामी |
-| Deshmukh vs Ashtapradhan | Feudal Bijapur chiefs vs Shivaji’s 8 ministers | देशमुख / अष्टप्रधान |
-| Purandar vs Lanavada | 1665 Shivaji–Jai Singh vs 1718 Shahu–Mughals | पुरंदर / लणवाडा |
-| Sambhaji vs Shahu | Executed 1689 vs released 1707, Peshwa rise | सम्भाजी / शाहू |
-| Sikh Khalsa vs Chauth | 1699 Panth vs Maratha 25% levy | खालसा / चौथ |
 
 ---
 

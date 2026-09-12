@@ -29,6 +29,23 @@ SNA / NSD standing dates are static, not news.
 ---
 
 
+## Confused Pairs
+
+| A | B | Correct | Hindi |
+|---|----|------|-------|
+| Nataka | Prakarana | Mythic heroic play vs invented social plot | नाटक / प्रकरण |
+| Natya | Nritta | Drama-story vs pure dance | नाट्य / नृत्त |
+| Nautanki | Tamasha | **UP** folk opera vs Maharashtra + lavani | नौटंकी / तमाशा |
+| Ramlila (Braj) | Koodiyattam | Hindi Ramayana folk vs Kerala Sanskrit temple | रामलीला / कूड़ियाट्टम् |
+| Koodiyattam | Kathakali | Sanskrit theatre vs Kerala dance-drama makeup | कूड़ियाट्टम् / कथकली |
+| Yavanika | Nepathya | Curtain vs backstage | यवनिका / नेपथ्य |
+| Kathputli | Shadow puppet | Rajasthan string marionette vs leather silhouette | कठपुतली / छाया |
+| Kalidasa | Bhavabhuti | Shakuntala trio vs **Uttararamacharita** | कालिदास / भवभूति |
+| Rasa | Bhava | Spectator flavour vs actor’s emotion | रस / भाव |
+| String | Glove | Kathputli threads vs Gulabo-Sitabo hand-puppets | सूत्र / दस्ताना |
+
+---
+
 ## Consolidated — 24 Must-Score Facts
 
 1. **Natyashastra** by **Bharata Muni** (about **200 BCE–200 CE**) codifies drama with about **10** rupaka, **9** rasa, and four abhinaya.
@@ -55,23 +72,6 @@ SNA / NSD standing dates are static, not news.
 22. **Nataka** is a mythic heroic play type. **Prakarana** invents a social plot. Do not confuse **natya** (drama) with **nritta** (pure dance).
 23. UNESCO theatre-related facts include Koodiyattam (**2001/2008**), Ramlila (**2008**), and **Mudiyettu** (**2010**).
 24. These are **not** UP: Kathputli (Rajasthan), Yakshagana (Karnataka), Koodiyattam (Kerala), Tamasha (Maharashtra), and Ramman (Uttarakhand).
-
----
-
-## Confused Pairs
-
-| A | B | Correct | Hindi |
-|---|----|------|-------|
-| Nataka | Prakarana | Mythic heroic play vs invented social plot | नाटक / प्रकरण |
-| Natya | Nritta | Drama-story vs pure dance | नाट्य / नृत्त |
-| Nautanki | Tamasha | **UP** folk opera vs Maharashtra + lavani | नौटंकी / तमाशा |
-| Ramlila (Braj) | Koodiyattam | Hindi Ramayana folk vs Kerala Sanskrit temple | रामलीला / कूड़ियाट्टम् |
-| Koodiyattam | Kathakali | Sanskrit theatre vs Kerala dance-drama makeup | कूड़ियाट्टम् / कथकली |
-| Yavanika | Nepathya | Curtain vs backstage | यवनिका / नेपथ्य |
-| Kathputli | Shadow puppet | Rajasthan string marionette vs leather silhouette | कठपुतली / छाया |
-| Kalidasa | Bhavabhuti | Shakuntala trio vs **Uttararamacharita** | कालिदास / भवभूति |
-| Rasa | Bhava | Spectator flavour vs actor’s emotion | रस / भाव |
-| String | Glove | Kathputli threads vs Gulabo-Sitabo hand-puppets | सूत्र / दस्ताना |
 
 ---
 

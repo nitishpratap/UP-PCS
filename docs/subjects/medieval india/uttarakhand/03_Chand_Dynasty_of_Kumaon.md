@@ -35,6 +35,17 @@
 
 ---
 
+## Must-Score Facts
+
+1. Somchand founded the Chand house of Kumaon.
+2. Champawat → Almora capital shift (Kalyan Chand / 1563 tradition).
+3. Char Aal = Karki + Bora + Taragi + Chaudhary.
+4. Chand ≠ Chandela of Khajuraho.
+5. Chand ≠ Parmar of Garhwal.
+6. Gorkha conquest ends Chand rule (modern UK folder for Gorkha admin).
+
+---
+
 ## 3.1 Rise after the Katyuris
 
 ### Causes / setting
@@ -83,17 +94,6 @@
 - Standard lists place the end of Chand independence with **Gorkha** conquest about **1790**.
 - Full Gorkha administration, Coolie-Begar, and British takeover cards sit in the Modern UK folder.
 - Keep only the end-date pointer here so the medieval house does not spill into colonial detail.
-
----
-
-## Must-Score Facts
-
-1. Somchand founded the Chand house of Kumaon.
-2. Champawat → Almora capital shift (Kalyan Chand / 1563 tradition).
-3. Char Aal = Karki + Bora + Taragi + Chaudhary.
-4. Chand ≠ Chandela of Khajuraho.
-5. Chand ≠ Parmar of Garhwal.
-6. Gorkha conquest ends Chand rule (modern UK folder for Gorkha admin).
 
 ---
 

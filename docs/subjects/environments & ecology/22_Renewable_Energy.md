@@ -21,6 +21,24 @@ Solar Energy | Wind Energy | Biomass Energy | Geothermal Energy | Tidal Energy |
 
 ---
 
+## Confused Pairs
+
+| Term | One-line difference | Hindi |
+|------|---------------------|-------|
+| **Solar PV** | Photovoltaic cells convert sunlight directly to electricity | सौर PV |
+| **Solar CSP** | Mirrors concentrate heat to drive steam turbine | CSP |
+| **Wind energy** | Kinetic energy of air turns turbine generators | पवन ऊर्जा |
+| **Biomass energy** | Energy from organic plant/animal matter | बायोमास |
+| **Biogas** | Methane-rich gas from anaerobic digestion | बायोगैस |
+| **Geothermal energy** | Heat from Earth's interior | भू-तापीय |
+| **Tidal energy** | Power from Moon-driven sea level change | ज्वारीय |
+| **Small hydro** | Hydropower plant **≤25 MW** (MNRE) | लघु जल |
+| **Green hydrogen** | H₂ from renewable-powered electrolysis | Green H₂ |
+| **Grey hydrogen** | H₂ from natural gas reforming — high CO₂ | Grey H₂ |
+| **ISA** | India-France solar IGO — HQ Gurugram | ISA |
+
+---
+
 ## Consolidated — 34 Must-Score Facts
 
 1. **Renewable** energy replenishes on a human timescale — sun, wind, water, biomass, geothermal. **Nuclear** is low-carbon but usually **not** counted as renewable MCQs.
@@ -57,24 +75,6 @@ Solar Energy | Wind Energy | Biomass Energy | Geothermal Energy | Tidal Energy |
 32. Tariffs for solar are set by **CERC / SERCs**, not by SECI alone; India is **not** a top silicon-wafer manufacturer (panels often assembled from imported cells).
 33. Microbial fuel cells and bioasphalt appear as advanced sustainable-energy neighbours (wastewater electricity; non-petroleum road binder).
 34. Algae biofuel limits for developing countries: high expertise + large facilities with ecological/social concerns — **not** “seas only.”
-
----
-
-## Confused Pairs
-
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **Solar PV** | Photovoltaic cells convert sunlight directly to electricity | सौर PV |
-| **Solar CSP** | Mirrors concentrate heat to drive steam turbine | CSP |
-| **Wind energy** | Kinetic energy of air turns turbine generators | पवन ऊर्जा |
-| **Biomass energy** | Energy from organic plant/animal matter | बायोमास |
-| **Biogas** | Methane-rich gas from anaerobic digestion | बायोगैस |
-| **Geothermal energy** | Heat from Earth's interior | भू-तापीय |
-| **Tidal energy** | Power from Moon-driven sea level change | ज्वारीय |
-| **Small hydro** | Hydropower plant **≤25 MW** (MNRE) | लघु जल |
-| **Green hydrogen** | H₂ from renewable-powered electrolysis | Green H₂ |
-| **Grey hydrogen** | H₂ from natural gas reforming — high CO₂ | Grey H₂ |
-| **ISA** | India-France solar IGO — HQ Gurugram | ISA |
 
 ---
 

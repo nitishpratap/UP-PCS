@@ -15,6 +15,26 @@ Books and Authors | History Books | Books on Freedom Movement | Political Books 
 
 ---
 
+## Confused Pairs
+
+| A | B | Difference | Hindi |
+|---|----|------------|-------|
+| Anandamath | Hind Swaraj | Bankim novel 1882 vs Gandhi tract 1909 | आनंदमठ / हिंद स्वराज |
+| Discovery of India | India Wins Freedom | Nehru civilisation-nation vs Azad freedom memoir | भारत एक खोज / इंडिया विन्स फ्रीडम |
+| Gita Rahasya | Arctic Home in the Vedas | Both Tilak; Gita politics vs Vedic homeland | गीता रहस्य / आर्कटिक होम |
+| Gulamgiri | Annihilation of Caste | Phule 1873 caste-slavery vs Ambedkar 1936 destroy-caste | गुलामगिरी / जाति का विनाश |
+| Poverty… (Naoroji) | Economic Nationalism (Bipan) | 1901 drain classic vs later historiography | दरिद्रता… / आर्थिक राष्ट्रवाद |
+| Nation in Making | Story of My Deportation | Banerjee vs Lajpat Rai | ए नेशन इन मेकिंग / डिपोर्टेशन |
+| Neel Darpan | Anandamath | Dinabandhu Mitra indigo play vs Bankim sanyasi novel | नील दर्पण / आनंदमठ |
+| Mother India | Unhappy India | Katherine Mayo’s 1927 hostile tract vs Lala Lajpat Rai’s reply | मदर इंडिया / अनहैप्पी इंडिया |
+| Firangiya | Bidesiya | Sinha 1921 anti-British poem vs Thakur migrant play | फिरंगिया / बिदेसिया |
+| Batohiya (poem) | Batohiya (character) | Raghuveer Narayan 1911 poem vs traveller in *Bidesiya* | बटोहिया |
+| India Divided | Pakistan or Partition | Rajendra Prasad vs Ambedkar | इंडिया डिवाइडेड |
+| Godaan | Anandamath | Premchand social realism vs Bankim political romance | गोदान / आनंदमठ |
+| The Indian War of Independence | Anandamath | Savarkar's 1857-as-war history, 1909 vs Bankim's Sanyasi-rising novel, 1882 | इंडियन वॉर ऑफ इंडिपेंडेंस / आनंदमठ |
+
+---
+
 ## Consolidated — 28 Must-Score Facts
 
 1. ***Anandamath*** (**1882**) is by **Bankim Chandra Chattopadhyay** and carries **Vande Mataram**. It is not the national anthem.
@@ -45,26 +65,6 @@ Books and Authors | History Books | Books on Freedom Movement | Political Books 
 26. Sort books by type first: primary tract, memoir, later historiography, GG-linked, or partition narrative — that sorting kills most author traps.
 27. A book written **in** 1901 about the drain is a **primary tract**. A book written **about** that age decades later is **historiography**.
 28. Drill order for prelims: the **syllabus eight**, then the match-four above, then twins, then the **Bhojpuri four**.
-
----
-
-## Confused Pairs
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Anandamath | Hind Swaraj | Bankim novel 1882 vs Gandhi tract 1909 | आनंदमठ / हिंद स्वराज |
-| Discovery of India | India Wins Freedom | Nehru civilisation-nation vs Azad freedom memoir | भारत एक खोज / इंडिया विन्स फ्रीडम |
-| Gita Rahasya | Arctic Home in the Vedas | Both Tilak; Gita politics vs Vedic homeland | गीता रहस्य / आर्कटिक होम |
-| Gulamgiri | Annihilation of Caste | Phule 1873 caste-slavery vs Ambedkar 1936 destroy-caste | गुलामगिरी / जाति का विनाश |
-| Poverty… (Naoroji) | Economic Nationalism (Bipan) | 1901 drain classic vs later historiography | दरिद्रता… / आर्थिक राष्ट्रवाद |
-| Nation in Making | Story of My Deportation | Banerjee vs Lajpat Rai | ए नेशन इन मेकिंग / डिपोर्टेशन |
-| Neel Darpan | Anandamath | Dinabandhu Mitra indigo play vs Bankim sanyasi novel | नील दर्पण / आनंदमठ |
-| Mother India | Unhappy India | Katherine Mayo’s 1927 hostile tract vs Lala Lajpat Rai’s reply | मदर इंडिया / अनहैप्पी इंडिया |
-| Firangiya | Bidesiya | Sinha 1921 anti-British poem vs Thakur migrant play | फिरंगिया / बिदेसिया |
-| Batohiya (poem) | Batohiya (character) | Raghuveer Narayan 1911 poem vs traveller in *Bidesiya* | बटोहिया |
-| India Divided | Pakistan or Partition | Rajendra Prasad vs Ambedkar | इंडिया डिवाइडेड |
-| Godaan | Anandamath | Premchand social realism vs Bankim political romance | गोदान / आनंदमठ |
-| The Indian War of Independence | Anandamath | Savarkar's 1857-as-war history, 1909 vs Bankim's Sanyasi-rising novel, 1882 | इंडियन वॉर ऑफ इंडिपेंडेंस / आनंदमठ |
 
 ---
 

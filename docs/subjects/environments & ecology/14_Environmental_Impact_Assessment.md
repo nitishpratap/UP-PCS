@@ -21,6 +21,21 @@ Environmental Impact Assessment (EIA) | Strategic Environmental Assessment (SEA)
 
 ---
 
+## Confused Pairs
+
+| Term | One-line difference | Hindi |
+|------|---------------------|-------|
+| **EIA** | Project-level impact study before clearance | पर्यावरण प्रभाव मूल्यांकन |
+| **SEA** | Policy/plan/programme-level assessment upstream of projects | रणनीतिक पर्यावरण मूल्यांकन |
+| **EC** | Formal environmental clearance for listed projects | पर्यावरण अनुमति |
+| **EMP** | Mitigation and monitoring plan in EIA report | पर्यावरण प्रबंधन योजना |
+| **Category A** | Central appraisal by MoEFCC through EAC | 'ए' श्रेणी |
+| **Category B** | State appraisal by SEIAA through SEAC | 'ब' श्रेणी |
+| **ToR** | Scope of issues the EIA must study — fixed at scoping | संदर्भ की शर्तें |
+| **NGT** | Green tribunal for EC and pollution appeals | राष्ट्रीय हरित अधिकरण |
+
+---
+
 ## Consolidated — 24 Must-Score Facts
 
 1. **EIA** studies a project’s likely environmental effects **before** approval. The aim is anticipatory prevention, not reactive cleanup.
@@ -47,21 +62,6 @@ Environmental Impact Assessment (EIA) | Strategic Environmental Assessment (SEA)
 22. Public consultation includes hearing plus written comments; skipping it on B1 where required is a process defect.
 23. EMP is mitigation and monitoring inside the EIA package — not a substitute for the EC grant itself.
 24. PARIVESH tracks applications; it does not replace NGT’s appellate role.
-
----
-
-## Confused Pairs
-
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **EIA** | Project-level impact study before clearance | पर्यावरण प्रभाव मूल्यांकन |
-| **SEA** | Policy/plan/programme-level assessment upstream of projects | रणनीतिक पर्यावरण मूल्यांकन |
-| **EC** | Formal environmental clearance for listed projects | पर्यावरण अनुमति |
-| **EMP** | Mitigation and monitoring plan in EIA report | पर्यावरण प्रबंधन योजना |
-| **Category A** | Central appraisal by MoEFCC through EAC | 'ए' श्रेणी |
-| **Category B** | State appraisal by SEIAA through SEAC | 'ब' श्रेणी |
-| **ToR** | Scope of issues the EIA must study — fixed at scoping | संदर्भ की शर्तें |
-| **NGT** | Green tribunal for EC and pollution appeals | राष्ट्रीय हरित अधिकरण |
 
 ---
 

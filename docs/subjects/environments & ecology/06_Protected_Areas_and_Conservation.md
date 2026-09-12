@@ -21,6 +21,40 @@ Wildlife Sanctuary | National Park | Biosphere Reserve | Conservation Reserve | 
 
 ---
 
+## Confused Pairs
+
+| Term | One-line difference | Hindi |
+|------|---------------------|-------|
+| **Wildlife Sanctuary** | Protected habitat; limited human use **with CWLW permission** | वन्यजीव अभयारण्य |
+| **National Park** | **Strictest** WPA PA — exploitation largely banned | राष्ट्रीय उद्यान |
+| **Biosphere Reserve** | UNESCO 3-zone landscape model | जीवमंडल आरक्षित क्षेत्र |
+| **Conservation Reserve** | Govt/community **forest buffer** — Sec 36A | संरक्षण आरक्षित क्षेत्र |
+| **Community Reserve** | **Private/community land** — Sec 36B | सामुदायिक आरक्षित क्षेत्र |
+| **Tiger Reserve** | WPA statutory PA with **core + buffer** under NTCA | बाघ आरक्षित क्षेत्र |
+| **Elephant Reserve** | Executive notification — **no WPA basis** | हाथी आरक्षित क्षेत्र |
+| **Ramsar Site** | Wetland of international importance | रामसर स्थल |
+| **ESZ** | EPA buffer restricting polluting activity around PA | पारिस्थितिक संवेदनशील क्षेत्र |
+
+### Protected-area hierarchy — one card
+
+| Category | Legal home | Strictness / use | Classic trap |
+|----------|------------|------------------|--------------|
+| **National Park** | WPA Sec **35** | Strictest WPA PA | Boundary change needs **State Legislature** |
+| **Wildlife Sanctuary** | WPA Sec **18** | Limited use with **CWLW** permission | Not as strict as NP |
+| **Tiger Reserve** | WPA Sec **38V** + NTCA | Core + buffer mandatory | Statutory — unlike Elephant Reserve |
+| **Conservation Reserve** | WPA Sec **36A** | Forest buffer near PA | Not private-land Community Reserve |
+| **Community Reserve** | WPA Sec **36B** | Private/community land + consent | Needs voluntary consent |
+| **Biosphere Reserve** | UNESCO MAB (executive in India) | Core–buffer–transition | **No** WPA statutory basis |
+| **Elephant Reserve** | Project Elephant 1992 | Corridor / conflict focus | **No** WPA statutory basis |
+| **Ramsar site** | Ramsar Convention 1971 | Wise-use wetland | Not a forest or ozone treaty |
+| **Natural World Heritage** | UNESCO WH Convention | Outstanding universal value | ≠ Ramsar ≠ BR WNBR automatically |
+| **ESZ** | EPA **1986** | Buffer restrictions around PA | **Not** a WPA category |
+
+- **UP teaching row:** Dudhwa NP / TR, Pilibhit TR, Ranipur TR, **12 Ramsar**, Terai corridors, **no marine PA**, **no biosphere reserve** inside present UP.
+- **Three UNESCO instruments:** World Heritage · Biosphere (MAB / WNBR) · Intangible Cultural Heritage — do not force one site into all three without checking the list.
+
+---
+
 ## Consolidated — 32 Must-Score Facts
 
 1. The **Wildlife (Protection) Act, 1972** is India’s main protected-area statute.
@@ -55,40 +89,6 @@ Wildlife Sanctuary | National Park | Biosphere Reserve | Conservation Reserve | 
 30. Match “firsts” carefully: first BR = **Nilgiri 1986**; first TR = **Corbett 1973**; first Marine NP = **Gulf of Kutch 1980**; world first NP = **Yellowstone 1872**.
 31. **International Tiger Day = 29 July** (St Petersburg 2010). **M-STrIPES** monitors tiger reserves (patrol + ecology GIS tool).
 32. **Sathyamangalam TR (TN)** is a classic ecological link between Eastern and Western Ghats.
-
----
-
-## Confused Pairs
-
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **Wildlife Sanctuary** | Protected habitat; limited human use **with CWLW permission** | वन्यजीव अभयारण्य |
-| **National Park** | **Strictest** WPA PA — exploitation largely banned | राष्ट्रीय उद्यान |
-| **Biosphere Reserve** | UNESCO 3-zone landscape model | जीवमंडल आरक्षित क्षेत्र |
-| **Conservation Reserve** | Govt/community **forest buffer** — Sec 36A | संरक्षण आरक्षित क्षेत्र |
-| **Community Reserve** | **Private/community land** — Sec 36B | सामुदायिक आरक्षित क्षेत्र |
-| **Tiger Reserve** | WPA statutory PA with **core + buffer** under NTCA | बाघ आरक्षित क्षेत्र |
-| **Elephant Reserve** | Executive notification — **no WPA basis** | हाथी आरक्षित क्षेत्र |
-| **Ramsar Site** | Wetland of international importance | रामसर स्थल |
-| **ESZ** | EPA buffer restricting polluting activity around PA | पारिस्थितिक संवेदनशील क्षेत्र |
-
-### Protected-area hierarchy — one card
-
-| Category | Legal home | Strictness / use | Classic trap |
-|----------|------------|------------------|--------------|
-| **National Park** | WPA Sec **35** | Strictest WPA PA | Boundary change needs **State Legislature** |
-| **Wildlife Sanctuary** | WPA Sec **18** | Limited use with **CWLW** permission | Not as strict as NP |
-| **Tiger Reserve** | WPA Sec **38V** + NTCA | Core + buffer mandatory | Statutory — unlike Elephant Reserve |
-| **Conservation Reserve** | WPA Sec **36A** | Forest buffer near PA | Not private-land Community Reserve |
-| **Community Reserve** | WPA Sec **36B** | Private/community land + consent | Needs voluntary consent |
-| **Biosphere Reserve** | UNESCO MAB (executive in India) | Core–buffer–transition | **No** WPA statutory basis |
-| **Elephant Reserve** | Project Elephant 1992 | Corridor / conflict focus | **No** WPA statutory basis |
-| **Ramsar site** | Ramsar Convention 1971 | Wise-use wetland | Not a forest or ozone treaty |
-| **Natural World Heritage** | UNESCO WH Convention | Outstanding universal value | ≠ Ramsar ≠ BR WNBR automatically |
-| **ESZ** | EPA **1986** | Buffer restrictions around PA | **Not** a WPA category |
-
-- **UP teaching row:** Dudhwa NP / TR, Pilibhit TR, Ranipur TR, **12 Ramsar**, Terai corridors, **no marine PA**, **no biosphere reserve** inside present UP.
-- **Three UNESCO instruments:** World Heritage · Biosphere (MAB / WNBR) · Intangible Cultural Heritage — do not force one site into all three without checking the list.
 
 ---
 

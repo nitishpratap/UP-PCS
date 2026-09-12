@@ -21,6 +21,23 @@ In-situ Conservation | Ex-situ Conservation | Gene Bank | Seed Bank | Botanical 
 
 ---
 
+## Confused Pairs
+
+| Term | One-line difference | Hindi |
+|------|---------------------|-------|
+| **In-situ Conservation** | Biodiversity protected **in natural habitat** | स्थानिक संरक्षण |
+| **Ex-situ Conservation** | Biodiversity protected **outside natural habitat** | पारजी / स्थानिकेतर संरक्षण |
+| **Gene Bank** | Stores **genetic material** — seeds, DNA, tissue, sperm | जीन बैंक |
+| **Seed Bank** | Stores **seeds only** under controlled temperature | बीज बैंक |
+| **Botanical Garden** | **Living plant collection** for ex-situ conservation | वनस्पति उद्यान |
+| **Zoological Park** | **Captive animals** for ex-situ breeding and education | चिड़ियाघर |
+| **Orthodox Seeds** | Desiccation-tolerant — suitable for cold seed banks | अनुष्ठित बीज |
+| **Recalcitrant Seeds** | Cannot tolerate drying — not standard seed-bank material | कठिन बीज |
+| **Cryopreservation** | Storage at **-196°C** in liquid nitrogen | क्रायो-संरक्षण |
+| **CZA** | Statutory zoo regulator under **MoEFCC** | केंद्रीय चिड़ियाघर प्राधिकरण |
+
+---
+
 ## Consolidated — 24 Must-Score Facts
 
 1. **In-situ** conservation protects biodiversity **in the natural habitat**. It is the preferred primary strategy because the whole ecosystem and natural selection stay intact.
@@ -47,23 +64,6 @@ In-situ Conservation | Ex-situ Conservation | Gene Bank | Seed Bank | Botanical 
 22. Community and Conservation Reserves are newer in-situ tools beside classic parks and sanctuaries.
 23. Cryobanking is an ex-situ technology for germplasm that ordinary refrigeration cannot hold.
 24. Priority line for prelims: **in-situ first, ex-situ supplementary** — never reverse the preference.
-
----
-
-## Confused Pairs
-
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **In-situ Conservation** | Biodiversity protected **in natural habitat** | स्थानिक संरक्षण |
-| **Ex-situ Conservation** | Biodiversity protected **outside natural habitat** | पारजी / स्थानिकेतर संरक्षण |
-| **Gene Bank** | Stores **genetic material** — seeds, DNA, tissue, sperm | जीन बैंक |
-| **Seed Bank** | Stores **seeds only** under controlled temperature | बीज बैंक |
-| **Botanical Garden** | **Living plant collection** for ex-situ conservation | वनस्पति उद्यान |
-| **Zoological Park** | **Captive animals** for ex-situ breeding and education | चिड़ियाघर |
-| **Orthodox Seeds** | Desiccation-tolerant — suitable for cold seed banks | अनुष्ठित बीज |
-| **Recalcitrant Seeds** | Cannot tolerate drying — not standard seed-bank material | कठिन बीज |
-| **Cryopreservation** | Storage at **-196°C** in liquid nitrogen | क्रायो-संरक्षण |
-| **CZA** | Statutory zoo regulator under **MoEFCC** | केंद्रीय चिड़ियाघर प्राधिकरण |
 
 ---
 

@@ -15,6 +15,31 @@ Post-Mauryan Period | Satavahana Rulers | South Indian History | Indo-Greeks | S
 
 ---
 
+## Confused Pairs
+
+| A | B | Difference | Hindi |
+|---|----|------------|-------|
+| Indo-Greek | Shaka | Hellenistic **Menander** vs Central Asian **Maues / Rudradaman** | इंडो-ग्रीक / शक |
+| Shaka | Kushan | After Greeks, before Kushan vs **Kanishka** empire | शक / कुषाण |
+| Shunga | Satavahana | Magadha **north** vs Deccan **Andhra** | शुंग / सातवाहन |
+| Kharavela | Rudradaman | **Hathigumpha** Kalinga vs **Junagadh** Shaka | खारवेल / रुद्रदामन |
+| Ayodhya inscription | Besnagar pillar | Pushyamitra **ashwamedha** vs Heliodorus **Bhagavata** | अयोध्या / बेसनगर |
+| Vikrama 57 BCE | Shaka 78 CE | Traditional Vikramaditya vs **Kanishka-era** count | विक्रम / शक |
+| Karikala | Rajaraja I | Sangam Chola, **Kallanai** vs imperial Chola, **Thanjavur** | करिकाल / राजराज |
+| Mahendravarman I | Rajaraja I | **Pallava** vs **Chola** (2025 swap trap) | महेन्द्रवर्मन / राजराज |
+| Kadungon | Amoghavarsha I | **Pandya** revival vs **Rashtrakuta** | कडुंगों / अमोघवर्ष |
+| Akam | Puram | Inner **love** poetry vs outer **war / kingship** | अकम् / पुरम् |
+| Gandhara art | Amaravati art | Kushan NW Greco-Buddhist vs Satavahana **Andhra** limestone | गांधार / अमरावती |
+| Sangam Chola | Imperial Chola | Karikala age vs 9th–11th c. revival | संगम चोल / साम्राज्य चोल |
+| Muvendar | Satavahana | Chera-Chola-Pandya vs north-Deccan **Andhra** house | मुवेन्दर / सातवाहन |
+| Nahapana | Rudradaman | Kshaharata, beaten by Gautamiputra vs Kardamaka, Junagadh | नहपान / रुद्रदामन |
+| Purushapura | Mathura | Kushan **main** capital vs **second** Indian capital | पुरुषपुर / मथुरा |
+| Vaigai (Pandya) | Vengi (Andhra) | Madurai Pandya river vs Eastern Chalukya capital **Pedavegi** near **Eluru** | वैगई / वेंगी |
+| Arikamedu / Poduke | Tamralipti | Coromandel Roman station vs Ganga-mouth Bay port | अरिकामेडु / ताम्रलिप्ति |
+| Muvendar | Pallava / Kadamba | Sangam trio only vs later Kanchi / Vanavasi houses | मुवेन्दर / पल्लव–कदम्ब |
+
+---
+
 ## Consolidated — 45 Must-Score Facts
 
 1. The Mauryan empire ended in **185 BCE** when general **Pushyamitra Shunga** killed the last Mauryan **Brihadratha**. The **Shungas** then ruled Magadha about **185–73 BCE**, and the short **Kanva** house followed about **73–28 BCE**.
@@ -62,31 +87,6 @@ Post-Mauryan Period | Satavahana Rulers | South Indian History | Indo-Greeks | S
 43. Sangam literature names **Chera, Chola, and Pandya** only among the great houses. **Pallava** and **Kadamba** are **not** Sangam ruling dynasties in that corpus.
 44. A **Pandya** king sent an ambassador to **Rome in 26 BCE**. Pandya heartland lies south of the Kaveri around **Madurai**; the river of that core is the **Vaigai** (some MCQ banks print it as “Vengi” — do not confuse with Eastern Chalukya **Vengi**).
 45. **Udiyanjiral** belongs to the **Chera** line and is often treated as the first historical Chera of the Sangam age. Chera capital memory is **Vanji / Vanchi / Karuvur (Karur)**.
-
----
-
-## Confused Pairs
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Indo-Greek | Shaka | Hellenistic **Menander** vs Central Asian **Maues / Rudradaman** | इंडो-ग्रीक / शक |
-| Shaka | Kushan | After Greeks, before Kushan vs **Kanishka** empire | शक / कुषाण |
-| Shunga | Satavahana | Magadha **north** vs Deccan **Andhra** | शुंग / सातवाहन |
-| Kharavela | Rudradaman | **Hathigumpha** Kalinga vs **Junagadh** Shaka | खारवेल / रुद्रदामन |
-| Ayodhya inscription | Besnagar pillar | Pushyamitra **ashwamedha** vs Heliodorus **Bhagavata** | अयोध्या / बेसनगर |
-| Vikrama 57 BCE | Shaka 78 CE | Traditional Vikramaditya vs **Kanishka-era** count | विक्रम / शक |
-| Karikala | Rajaraja I | Sangam Chola, **Kallanai** vs imperial Chola, **Thanjavur** | करिकाल / राजराज |
-| Mahendravarman I | Rajaraja I | **Pallava** vs **Chola** (2025 swap trap) | महेन्द्रवर्मन / राजराज |
-| Kadungon | Amoghavarsha I | **Pandya** revival vs **Rashtrakuta** | कडुंगों / अमोघवर्ष |
-| Akam | Puram | Inner **love** poetry vs outer **war / kingship** | अकम् / पुरम् |
-| Gandhara art | Amaravati art | Kushan NW Greco-Buddhist vs Satavahana **Andhra** limestone | गांधार / अमरावती |
-| Sangam Chola | Imperial Chola | Karikala age vs 9th–11th c. revival | संगम चोल / साम्राज्य चोल |
-| Muvendar | Satavahana | Chera-Chola-Pandya vs north-Deccan **Andhra** house | मुवेन्दर / सातवाहन |
-| Nahapana | Rudradaman | Kshaharata, beaten by Gautamiputra vs Kardamaka, Junagadh | नहपान / रुद्रदामन |
-| Purushapura | Mathura | Kushan **main** capital vs **second** Indian capital | पुरुषपुर / मथुरा |
-| Vaigai (Pandya) | Vengi (Andhra) | Madurai Pandya river vs Eastern Chalukya capital **Pedavegi** near **Eluru** | वैगई / वेंगी |
-| Arikamedu / Poduke | Tamralipti | Coromandel Roman station vs Ganga-mouth Bay port | अरिकामेडु / ताम्रलिप्ति |
-| Muvendar | Pallava / Kadamba | Sangam trio only vs later Kanchi / Vanavasi houses | मुवेन्दर / पल्लव–कदम्ब |
 
 ---
 

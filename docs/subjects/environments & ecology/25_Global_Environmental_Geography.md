@@ -21,6 +21,29 @@ Global Environmental Geography (biomes · climate zones · world deserts · flor
 
 ---
 
+## Confused Pairs
+
+| Term | One-line difference | Hindi |
+|------|---------------------|-------|
+| **Biome** | Large climate-defined vegetation–fauna region | जैव-वनस्पति क्षेत्र |
+| **Ecosystem** | Local biotic + abiotic functional unit | पारिस्थितिकी तंत्र |
+| **Selva** | Brazilian Amazon equatorial rainforest name | सेल्वा |
+| **Terra Roxa** | Fertile dark volcanic soil in Brazil | टेरा रोक्षा |
+| **Puszta** | Hungarian temperate grassland | पुस्ज़टा |
+| **Taiga** | Boreal coniferous forest belt | टैगा |
+| **Savanna** | Tropical grassland with scattered trees | सवाना |
+| **Permafrost** | Permanently frozen subsoil — tundra/taiga | स्थायी हिम मृदा |
+| **Hotspot** | High endemism + ≥70% habitat loss (Myers) | जैव विविधता hotspot |
+
+### Biome ↔ ecosystem bridge (read with Ecology chapter)
+
+- A **biome** is the large climate-defined vegetation–fauna belt (Amazon Selva, taiga, savanna).
+- An **ecosystem** is the local functional unit of energy flow and nutrient cycling inside that belt.
+- Global textbook biome counts (often **~14**) are **not** India’s **ten** biogeographic zones (Rodgers and Panwar).
+- UP plains sit mainly in the **Gangetic Plain** biogeographic colour with Terai–deciduous transitions — not a tropical rainforest biome answer.
+
+---
+
 ## Consolidated — 24 Must-Score Facts
 
 1. Global environmental geography asks **where and why** Earth’s climate–biome patterns occur. Climate (temperature and rainfall) shapes biomes, biodiversity, and degradation belts.
@@ -47,29 +70,6 @@ Global Environmental Geography (biomes · climate zones · world deserts · flor
 22. Desert rainfall fact **<25 cm** is the quick arid filter in many MCQs.
 23. Engler floral regions and Sauer planting hearth are cultural–biogeography matchs, not climate-classification letters.
 24. Keep “14 biomes vs 10 Indian biogeographic zones” as a numbers trap pair.
-
----
-
-## Confused Pairs
-
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **Biome** | Large climate-defined vegetation–fauna region | जैव-वनस्पति क्षेत्र |
-| **Ecosystem** | Local biotic + abiotic functional unit | पारिस्थितिकी तंत्र |
-| **Selva** | Brazilian Amazon equatorial rainforest name | सेल्वा |
-| **Terra Roxa** | Fertile dark volcanic soil in Brazil | टेरा रोक्षा |
-| **Puszta** | Hungarian temperate grassland | पुस्ज़टा |
-| **Taiga** | Boreal coniferous forest belt | टैगा |
-| **Savanna** | Tropical grassland with scattered trees | सवाना |
-| **Permafrost** | Permanently frozen subsoil — tundra/taiga | स्थायी हिम मृदा |
-| **Hotspot** | High endemism + ≥70% habitat loss (Myers) | जैव विविधता hotspot |
-
-### Biome ↔ ecosystem bridge (read with Ecology chapter)
-
-- A **biome** is the large climate-defined vegetation–fauna belt (Amazon Selva, taiga, savanna).
-- An **ecosystem** is the local functional unit of energy flow and nutrient cycling inside that belt.
-- Global textbook biome counts (often **~14**) are **not** India’s **ten** biogeographic zones (Rodgers and Panwar).
-- UP plains sit mainly in the **Gangetic Plain** biogeographic colour with Terai–deciduous transitions — not a tropical rainforest biome answer.
 
 ---
 

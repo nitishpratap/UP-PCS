@@ -26,6 +26,21 @@ National Parties | Regional Parties | Recognition of Political Parties | Symbols
 ---
 
 
+## Confused Pairs
+
+| Term A | Term B | Core difference |
+|--------|--------|-----------------|
+| **Registration (29A)** | **Recognition** | Any association → RUPP | National / State party (Symbols Order) |
+| **National party** | **State / regional party** | All-India reserved symbol + 4-State tests | Reserved symbol **in that State** only |
+| **Reserved symbol** | **Free symbol** | Recognised parties | Unrecognised + independents |
+| **Political party** | **Pressure group** | Contests elections; seeks **power** | Does **not** contest (normally); seeks to **influence** |
+| **Interest group** | **Pressure group** | Organised around an interest | Same body **when it pressures** government |
+| **Coalition** | **Hung House** | Two or more parties **govern** | **No** single party has a majority (may still produce a coalition) |
+| **AITUC** | **CITU** | **CPI** (1920) | **CPI(M)** (1970) |
+| **INTUC** | **BMS** | **Congress** (1947) | **BJP/RSS** (1955) |
+
+---
+
 ## Consolidated — 26 Must-Score Facts
 
 1. The Constitution barely names parties. The main hooks are Article **19(1)(c)** (association), the **Tenth Schedule** (defection), and Article **324** (elections). Parties were largely **extra-constitutional** until the **52nd** Amendment.
@@ -54,21 +69,6 @@ National Parties | Regional Parties | Recognition of Political Parties | Symbols
 24. The Tenth Schedule punishes defection; it does not itself create the Election Commission’s recognition rules. Registration, recognition, and defection are three different tools.
 25. A hung Assembly does not automatically mean President’s Rule. The constitutional path is invitation based on likely majority, then floor test; Article **356** is a last resort, not the first step.
 26. Multi-party democracy can still produce stable majorities. “Multi-party” describes the system type; it does not mean every election must end in a coalition.
-
----
-
-## Confused Pairs
-
-| Term A | Term B | Core difference |
-|--------|--------|-----------------|
-| **Registration (29A)** | **Recognition** | Any association → RUPP | National / State party (Symbols Order) |
-| **National party** | **State / regional party** | All-India reserved symbol + 4-State tests | Reserved symbol **in that State** only |
-| **Reserved symbol** | **Free symbol** | Recognised parties | Unrecognised + independents |
-| **Political party** | **Pressure group** | Contests elections; seeks **power** | Does **not** contest (normally); seeks to **influence** |
-| **Interest group** | **Pressure group** | Organised around an interest | Same body **when it pressures** government |
-| **Coalition** | **Hung House** | Two or more parties **govern** | **No** single party has a majority (may still produce a coalition) |
-| **AITUC** | **CITU** | **CPI** (1920) | **CPI(M)** (1970) |
-| **INTUC** | **BMS** | **Congress** (1947) | **BJP/RSS** (1955) |
 
 ---
 

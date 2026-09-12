@@ -15,6 +15,32 @@ Mauryan Empire · Chandragupta Maurya · Bindusara · Ashoka · then Admin / Off
 
 ---
 
+## Confused Pairs
+
+| A | B | Difference | Hindi |
+|---|----|------------|-------|
+| Chandragupta Maurya | Chandragupta II | 322 BCE founder vs Gupta **Vikramaditya** | चंद्रगुप्त मौर्य / द्वितीय |
+| Samaharta | Sannidhata | **Collects** revenue vs **stores** the kosha | समाहर्ता / संनिधाता |
+| RE XII | RE XIII | **Samavaya** / religious concord (2022) vs **Kalinga** | बारहवाँ / तेरहवाँ |
+| RE XIII | Separate Kalinga edicts | Full Kalinga text on most sites vs **Dhauli/Jaugada** (“all men are my children”) | तेरहवाँ / कलिंग पृथक |
+| Major RE | Minor RE | 14-set, title Piyadassi vs local; **Maski names Ashoka** | प्रमुख / लघु |
+| Dhamma | Buddhism | Ethical **state policy** vs the religion he patronised | धम्म / बौद्ध |
+| Kautilya | Megasthenes | Sanskrit *Arthashastra* vs Greek *Indica* | कौटिल्य / मेगस्थनीज |
+| Agronomai | Pautavadhyaksha | Rural **revenue/land** (2020 D) vs **weights** | एग्रोनोमोई / पौतवाध्यक्ष |
+| Barabar | Ajanta | Mauryan polish, **Ajivika** gift vs later Buddhist painted caves | बराबर / अजंता |
+| Rajuka | Dhamma-mahamatra | Land/justice (PE) vs **moral/welfare** cadre (RE V) | राजुक / धम्म-महामात्र |
+| Bherighosha | Dhammaghosha | War-drum vs **dhamma-drum** (RE IV / XIII) | भेरीघोष / धम्मघोष |
+| RE V | PE V | **Dhamma-mahamatras** vs **protected-animal** list | शैल ५ / स्तंभ ५ |
+| Six city boards | Six army boards | Crafts/foreigners/census… vs navy/transport/infantry… | नगर षट् / सेना षट् |
+| Bhaga | Bali | Produce **share** vs extra/religious levy (Rummindei drops *bali*) | भाग / बलि |
+| Sudama | Lomas Rishi | Polished Ajivika cell vs **horseshoe chaitya-arch** facade | सुदामा / लोमश ऋषि |
+| Ahraura | Sarnath | UP **Minor Rock** (Mirzapur) vs UP **lion capital** | अह्रौरा / सारनाथ |
+| Kunala | Tivala | Blinded-son legend vs **Queen’s edict** son of Karuvaki | कुणाल / तिवल |
+| Sanstha | Sanchara | Stationary covers vs **mobile** spies | संस्था / संचार |
+| Moriya kshatriya | Purana shudra | Buddhist Pipphalivana origin vs Brahmanical **low-birth** smear | मोरिय / पुराण |
+
+---
+
 ## Consolidated — 38 Must-Score Facts
 
 1. The Mauryan empire runs about **322–185 BCE**. Buddhist tradition links the clan to **Moriya / Pipphalivana**; some Puranas smear a “low origin.”
@@ -55,32 +81,6 @@ Mauryan Empire · Chandragupta Maurya · Bindusara · Ashoka · then Admin / Off
 36. **Vishnugupta** is Chanakya’s other name (papers often treat it as the childhood / alternate identity). *Arthashastra* is compared with Machiavelli’s *Prince*. *Mudrarakshasa* calls Chandragupta **Vrishal / Kulheen**; Dhundiraja wrote a commentary.
 37. **Justin** remembers Sandrokottos meeting Alexander. **William Jones** first equated Sandrokottos with Chandragupta Maurya. Jain texts call Bindusara **Simhasena**; his mother is **Durdhara**.
 38. City officials in *Indica* are **Astynomoi**. The caravan chief in the *Arthashastra* is **Sarthavaha**. Birth–death registration is one of the six municipal boards that still echoes modern municipal work.
-
----
-
-## Confused Pairs
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Chandragupta Maurya | Chandragupta II | 322 BCE founder vs Gupta **Vikramaditya** | चंद्रगुप्त मौर्य / द्वितीय |
-| Samaharta | Sannidhata | **Collects** revenue vs **stores** the kosha | समाहर्ता / संनिधाता |
-| RE XII | RE XIII | **Samavaya** / religious concord (2022) vs **Kalinga** | बारहवाँ / तेरहवाँ |
-| RE XIII | Separate Kalinga edicts | Full Kalinga text on most sites vs **Dhauli/Jaugada** (“all men are my children”) | तेरहवाँ / कलिंग पृथक |
-| Major RE | Minor RE | 14-set, title Piyadassi vs local; **Maski names Ashoka** | प्रमुख / लघु |
-| Dhamma | Buddhism | Ethical **state policy** vs the religion he patronised | धम्म / बौद्ध |
-| Kautilya | Megasthenes | Sanskrit *Arthashastra* vs Greek *Indica* | कौटिल्य / मेगस्थनीज |
-| Agronomai | Pautavadhyaksha | Rural **revenue/land** (2020 D) vs **weights** | एग्रोनोमोई / पौतवाध्यक्ष |
-| Barabar | Ajanta | Mauryan polish, **Ajivika** gift vs later Buddhist painted caves | बराबर / अजंता |
-| Rajuka | Dhamma-mahamatra | Land/justice (PE) vs **moral/welfare** cadre (RE V) | राजुक / धम्म-महामात्र |
-| Bherighosha | Dhammaghosha | War-drum vs **dhamma-drum** (RE IV / XIII) | भेरीघोष / धम्मघोष |
-| RE V | PE V | **Dhamma-mahamatras** vs **protected-animal** list | शैल ५ / स्तंभ ५ |
-| Six city boards | Six army boards | Crafts/foreigners/census… vs navy/transport/infantry… | नगर षट् / सेना षट् |
-| Bhaga | Bali | Produce **share** vs extra/religious levy (Rummindei drops *bali*) | भाग / बलि |
-| Sudama | Lomas Rishi | Polished Ajivika cell vs **horseshoe chaitya-arch** facade | सुदामा / लोमश ऋषि |
-| Ahraura | Sarnath | UP **Minor Rock** (Mirzapur) vs UP **lion capital** | अह्रौरा / सारनाथ |
-| Kunala | Tivala | Blinded-son legend vs **Queen’s edict** son of Karuvaki | कुणाल / तिवल |
-| Sanstha | Sanchara | Stationary covers vs **mobile** spies | संस्था / संचार |
-| Moriya kshatriya | Purana shudra | Buddhist Pipphalivana origin vs Brahmanical **low-birth** smear | मोरिय / पुराण |
 
 ---
 

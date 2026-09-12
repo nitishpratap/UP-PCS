@@ -36,6 +36,18 @@
 
 ---
 
+## Must-Score Facts
+
+1. Kartikeyapura = Baijnath (Bageshwar).
+2. Joshimath → Baijnath capital shift tradition.
+3. Founder tradition: Vasudeva / Basu Dev Katyuri.
+4. Katyuri decline = fragmentation, not one forced last-battle stem.
+5. Chand succeeds in Kumaon; Parmar consolidates Garhwal.
+6. Kuninda is earlier — do not merge the two.
+7. Brahmapura ≠ Kartikeyapur.
+
+---
+
 ## 1.1 Place of the Katyuris
 
 - After the Kuninda–coin age, the **Katyuris** are the first long **kingdom-scale** house of the Uttarakhand hills for Prelims.
@@ -84,18 +96,6 @@
 - Political space in Kali-Kumaon is then contested and gradually absorbed by the rising **Chand** house.
 - Garhwal consolidates separately under the **Parmar / Panwar** line.
 - Do not invent one neat “last battle of the Katyuris” unless a stem names it.
-
----
-
-## Must-Score Facts
-
-1. Kartikeyapura = Baijnath (Bageshwar).
-2. Joshimath → Baijnath capital shift tradition.
-3. Founder tradition: Vasudeva / Basu Dev Katyuri.
-4. Katyuri decline = fragmentation, not one forced last-battle stem.
-5. Chand succeeds in Kumaon; Parmar consolidates Garhwal.
-6. Kuninda is earlier — do not merge the two.
-7. Brahmapura ≠ Kartikeyapur.
 
 ---
 

@@ -21,6 +21,21 @@ Wildlife Conservation | Wildlife Protection | Project Tiger | Project Elephant |
 
 ---
 
+## Confused Pairs
+
+| Term | One-line difference | Hindi |
+|------|---------------------|-------|
+| **Wildlife Conservation** | Protecting species and habitats in natural settings | वन्यजीव संरक्षण |
+| **Wildlife Protection** | Legal enforcement through WPA 1972 | वन्यजीव संरक्षण (कानूनी) |
+| **Umbrella species** | Protecting one wide-ranging species saves whole ecosystem (tiger, elephant) | छत्र प्रजाति |
+| **Flagship species** | Charismatic species used to mobilise support (tiger, lion, rhino) | प्रतीक प्रजाति |
+| **Keystone species** | Species whose loss collapses ecosystem function (vulture) | कुंज प्रजाति |
+| **Project Tiger** | CSS 1973 with WPA statutory TR framework under NTCA | प्रोजेक्ट टाइगर |
+| **Project Elephant** | CSS 1992 with executive ER notification only | प्रोजेक्ट हाथी |
+| **Diclofenac** | Veterinary NSAID that caused vulture renal failure | डाइक्लोफेनाक |
+
+---
+
 ## Consolidated — 36 Must-Score Facts
 
 1. Wildlife conservation protects species and habitats, with **in-situ** primary and **ex-situ** as backup.
@@ -59,21 +74,6 @@ Wildlife Conservation | Wildlife Protection | Project Tiger | Project Elephant |
 34. **UNCCD (1994)** is the sole legally binding desertification convention; bottom-up local participation; no exclusive South Asia finance monopoly claim.
 35. Conservation is ecological protection; **Wildlife Protection** language often means the **WPA enforcement** track.
 36. NTCA does not run Elephant Reserves; confusing NTCA with Project Elephant administration is a trap.
-
----
-
-## Confused Pairs
-
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **Wildlife Conservation** | Protecting species and habitats in natural settings | वन्यजीव संरक्षण |
-| **Wildlife Protection** | Legal enforcement through WPA 1972 | वन्यजीव संरक्षण (कानूनी) |
-| **Umbrella species** | Protecting one wide-ranging species saves whole ecosystem (tiger, elephant) | छत्र प्रजाति |
-| **Flagship species** | Charismatic species used to mobilise support (tiger, lion, rhino) | प्रतीक प्रजाति |
-| **Keystone species** | Species whose loss collapses ecosystem function (vulture) | कुंज प्रजाति |
-| **Project Tiger** | CSS 1973 with WPA statutory TR framework under NTCA | प्रोजेक्ट टाइगर |
-| **Project Elephant** | CSS 1992 with executive ER notification only | प्रोजेक्ट हाथी |
-| **Diclofenac** | Veterinary NSAID that caused vulture renal failure | डाइक्लोफेनाक |
 
 ---
 
