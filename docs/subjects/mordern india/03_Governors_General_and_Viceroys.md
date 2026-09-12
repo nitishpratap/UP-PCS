@@ -10,8 +10,9 @@ Governors-General and Their Reforms | Governors-General and Associated Wars | Br
 
 > **Sources baked in:** Spectrum, NCERT Themes III, UPPCS Prelims PYQs 2018–2025, Ghatnachakra GG/Viceroy bank
 > **Weight:** ★★★ — GG/Viceroy ↔ reform matching, associated wars, Act ↔ provision matching, title traps (GG vs Viceroy)
-> **Last verified:** September 2026
+> **Last verified:** September 2026 gap audit — war CCR tags filled on GG cards; Queen’s Proclamation card; land-revenue ownership pointed to Topic 4; Extra Drill gaps flagged (no invented mega banks)
 > **Current Affairs:** N/A (historical)
+> **Ownership:** Full Permanent Settlement / Ryotwari / Mahalwari compare and colonial economy sit in Topic 4. This chapter keeps **GG/Viceroy tags**, Acts, and war–ruler matching.
 
 ---
 
@@ -165,13 +166,30 @@ British Parliament’s first serious attempt to regulate Company rule, passed af
 - He moved the **state treasury from Murshidabad to Calcutta**.
 - He started hierarchical **Diwani and Faujdari** courts; Cornwallis later made the system more rigid.
 - He and Wellesley are linked with the **Ring Fence / Security Cell** policy — protect Company territory by buffering neighbours (notably Awadh) rather than open annexation everywhere.
-- He fought the **Rohilla War in 1774**.
-- The **First Anglo-Maratha War** ended with the **Treaty of Salbai, 1782**.
-- The **Banaras / Chait Singh** clash belongs to **1781** (Hastings fled to **Chunar**).
 - The **Asiatic Society of Bengal** was founded on **15 January 1784**. **Sir William Jones** was founder-president. Hastings **declined** the chair.
 - Impeachment proceedings ran in Britain from **1788 to 1795** (charges pressed by **Edmund Burke**); he was **acquitted** in light of his service.
 - His rival in Council was **Philip Francis**.
 - He did **not** invent the Subsidiary Alliance.
+
+### Wars and clashes under Hastings (Cause → Course → Result)
+
+**Rohilla War, 1774**
+
+- **Cause:** The Rohillas of Rohilkhand threatened Awadh; **Shuja-ud-Daula** asked for Company troops under Hastings’s Ring Fence logic.
+- **Course:** Company forces helped Awadh crush the Rohillas; **Hafiz Rahmat Khan** was killed.
+- **Result:** Rohilkhand came under Awadh’s control, but the war later fed Hastings’s impeachment charges over cruelty and presents.
+
+**First Anglo-Maratha War (to Salbai, 1782)**
+
+- **Cause:** Succession intrigue at Poona and the Treaty of Surat–Purandhar tangle pulled the Company into Maratha politics.
+- **Course:** Fighting swung between Bombay and Bengal theatres; neither side won a clean knockout.
+- **Result:** The **Treaty of Salbai, 1782** restored a long peace and left the Company stronger in western India without full Maratha annexation.
+
+**Banaras / Chait Singh, 1781**
+
+- **Cause:** Hastings pressed the Raja of Banaras, **Chait Singh**, for extra tribute and troops.
+- **Course:** Revolt flared at Banaras; Hastings fled briefly to **Chunar**.
+- **Result:** Chait Singh was deposed; Banaras stayed a UP-facing Hastings tag and another impeachment charge.
 
 > **Logic:** Warren ≠ **Lord Hastings** (1813–23). Jones founded the Asiatic Society, not Hastings. Ring Fence is Hastings–Wellesley; Subsidiary Alliance as a finished tool is Wellesley.
 
@@ -190,11 +208,15 @@ D. William Bentinck
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Hastings encouraged it and declined the presidency; **Jones** founded/presided.
+**Logic:** Founder-president trap — Hastings encouraged the Society but declined the chair.
+
+**Ans: B.** **Sir William Jones** founded and presided over the **Asiatic Society of Bengal (1784)**. Hastings encouraged it and **declined** the presidency.
 
 </details>
 
-**PYQ — UPPCS Prelims 2019, Q22Assertion (A):** The Asiatic Society of Bengal was established in the period of Warren Hastings and he modestly declined the offer of Presidentship of that learned body in favour of Sir William Jones.
+**PYQ — UPPCS Prelims 2019, Q22**
+
+**Assertion (A):** The Asiatic Society of Bengal was established in the period of Warren Hastings and he modestly declined the offer of Presidentship of that learned body in favour of Sir William Jones.
 
 **Reason (R):** Warren Hastings was himself a great scholar and an ardent orientalist who used to encourage the study of Sanskrit, Persian and Arabic.
 
@@ -207,7 +229,9 @@ D. (A) is false, but (R) is true
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Both true. R explains the scholarly climate, not why a GG **declined** the chair (modesty / office, Jones as specialist).
+**A/R logic:** A is true on the founding years and the declined chair. R is also true as background, but it does not explain why he declined — modesty and Jones’s specialist role do.
+
+**Ans: B.** Both statements are true, but **R is not the correct explanation of A**.
 
 </details>
 
@@ -230,12 +254,13 @@ Named for British Prime Minister **William Pitt the Younger**. It fixed the prob
 
 ## 3.6 Lord Cornwallis (1786–1793; short second term 1805)
 
-### Permanent Settlement, 1793
+### Permanent Settlement, 1793 (GG tag only)
 
 - He introduced the **Permanent Settlement of 1793** in **Bengal, Bihar and Orissa**. Land revenue was fixed **in perpetuity** with the zamindar treated as proprietor.
 - The plan was shaped with **John Shore’s** revenue work; Cornwallis enacted it. Zamindars who failed to pay risked losing the estate under the harsh payment rules (often remembered as the **sunset** rule).
 - Cultivators stayed **tenants**; they did **not** get ownership under this settlement. The Company gained a **stable cash demand**.
 - **Madras** was **not** Permanent Settlement country — **Ryotwari** (Munro) and other systems dominate there. **Mahalwari** belongs mainly to North India.
+- Full compare of Permanent Settlement / Ryotwari / Mahalwari (shares, revision, peasant classes) lives in the British Administration and Economy chapter — keep only the Cornwallis tag here.
 
 ### Judicial, police and service reforms
 
@@ -244,8 +269,13 @@ Named for British Prime Minister **William Pitt the Younger**. It fixed the prob
 - Under the Code, the Collector lost judicial and police powers and kept **taxation only**. District Judges took civil, criminal and police work in a new hierarchy.
 - He is credited with founding the **covenanted Indian Civil Service** (Public Services) on European lines; higher covenanted posts stayed **Europeans only**.
 - In **1793** he separated landlords from police duties, set up thanas roughly every twenty to thirty square miles, and appointed the **Daroga** under the Magistrate — often remembered as the local face of Company authority (“Aura and Authority of Company Bahadur”).
-- He personally led the **Third Anglo-Mysore War**, which ended with the **Treaty of Seringapatam, 1792**.
 - He returned for a short second term from **30 July to 5 October 1805** and died at **Ghazipur (Uttar Pradesh)**; his tomb is still there.
+
+### Third Anglo-Mysore War (Cause → Course → Result)
+
+- **Cause:** Tipu attacked Travancore, a Company ally; Cornwallis formed a triple front with the Nizam and the Marathas.
+- **Course:** Allied armies pushed Tipu back; Seringapatam came under pressure.
+- **Result:** The **Treaty of Seringapatam, 1792** forced Tipu to cede about half his territory and pay a heavy indemnity. Cornwallis personally led this war.
 
 > **Logic:** Permanent Settlement = **Cornwallis** (not Bentinck). Ryotwari = **Munro**. Sati abolition = **Bentinck, 1829**. Tomb at Ghazipur is a UP-facing fact.
 
@@ -282,12 +312,23 @@ Named for British Prime Minister **William Pitt the Younger**. It fixed the prob
 - The **first state to accept Wellesley's evolved version** was the **Nizam of Hyderabad (1798; renewed 1800)**. Sequence after that: **Mysore (1799)**, **Tanjore (1799)**, **Awadh (1801)**, **Peshwa (Dec 1802)**, **Bhonsle of Berar (1803)**, **Sindhia (1804)**, then Rajput states such as Jodhpur, Jaipur, Machheri, Bundi and Bharatpur; **Holkar** came later (**1818**).
 - The ruler kept internal administration but lost control of war, peace and other Europeans. He paid a **subsidy**, accepted a **British Resident**, and could not employ non-British Europeans. The aim was British **paramountcy** and a standing army at the ally's cost — **not** a fixed commercial income for the Company as the main object.
 - He arrived when British fear of **Napoleon** was high; subsidiary alliances helped keep Indian states from French contact and keep the British flag firm in India.
-- In the **Fourth Anglo-Mysore War, 1799**, **Tipu** was killed.
-- The **Treaty of Bassein (31 December 1802)** pulled **Peshwa Bajirao II** into subsidiary alliance — the **first Maratha chief** to accept Wellesley's system. About **6,000** British troops restored him at Poona against land/revenue worth about **₹26 lakh** a year.
-- The **Second Anglo-Maratha War (1803–05)** followed. **Arthur Wellesley** won at **Assaye**.
 - Wellesley was **recalled in 1805** because the wars cost too much.
 
-> **Logic:** Wellesley = Subsidiary Alliance, **not** Doctrine of Lapse. First Wellesley ally = **Hyderabad**; first Maratha = **Bajirao II (Bassein)**; earliest Company-style deal often cited = **Awadh 1765**. Full war stories sit with Company expansion.
+### Wars under Wellesley (Cause → Course → Result)
+
+**Fourth Anglo-Mysore War, 1799**
+
+- **Cause:** Tipu’s French contacts and refusal of a full subsidiary settlement alarmed Wellesley in the Napoleonic years.
+- **Course:** Company armies stormed Seringapatam; **Tipu** was killed in **1799**.
+- **Result:** Mysore went under Subsidiary Alliance with a restored **Wodeyar** child ruler; Tipu’s sons were detained.
+
+**Second Anglo-Maratha War, 1803–05**
+
+- **Cause:** The **Treaty of Bassein (31 December 1802)** pulled **Peshwa Bajirao II** into subsidiary alliance — the **first Maratha chief** under Wellesley’s finished system — and provoked other Maratha houses.
+- **Course:** About **6,000** British troops restored the Peshwa at Poona against land/revenue worth about **₹26 lakh** a year. **Arthur Wellesley** won at **Assaye**; campaigns also hit Bhonsle and Sindhia.
+- **Result:** Maratha power was broken in the north and west; British paramountcy advanced, but war costs helped trigger Wellesley’s recall.
+
+> **Logic:** Wellesley = Subsidiary Alliance, **not** Doctrine of Lapse. First Wellesley ally = **Hyderabad**; first Maratha = **Bajirao II (Bassein)**; earliest Company-style deal often cited = **Awadh 1765**.
 
 **PYQ — UPPCS Prelims 2024, Q137**
 
@@ -309,7 +350,9 @@ D. 3, 1, 2, 4
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Nana Fadnavis **1800** → recall **1805** → Vellore **1806** → Nepal **1814–16**.
+**Logic:** Chronology of late Company events — Nana Fadnavis death before Wellesley’s recall.
+
+**Ans: A.** Nana Fadnavis **1800** → recall of Wellesley **1805** → Vellore **1806** → Nepal **1814–16**.
 
 </details>
 
@@ -330,12 +373,23 @@ Two lesser-named rulers cover the gap between Wellesley's recall and Lord Hastin
 ## 3.11 Lord Hastings, Earl of Moira (1813–1823) — not Warren
 
 - He was the **Earl of Moira**. He is **not** Warren Hastings.
-- He fought the **Anglo-Nepal War of 1814–16**. It ended with the **Treaty of Sugauli** (signed **1815**, ratified **1816**).
-- He also ran the **Pindari** campaign.
-- The **Third Anglo-Maratha War of 1817–18** belongs to him. Together these campaigns established British **paramountcy** across central India. The **Peshwa title was abolished** and Peshwa territories went into the Bombay Presidency.
 - **Charles Metcalfe** negotiated **subordinate alliances of 1817–18** with princely states of **Rajputana** on Hastings' behalf.
-- The **Ryotwari settlement** was formalised in Madras under **Thomas Munro** (Governor of Madras **1820–27**) during this broader era.
+- The **Ryotwari settlement** was formalised in Madras under **Thomas Munro** (Governor of Madras **1820–27**) during this broader era — full Ryotwari teaching sits in the Administration and Economy chapter.
 - The **Charter Act of 1813**, which ended the Company's India trade monopoly, was enacted right as his term began.
+
+### Wars under Lord Hastings (Cause → Course → Result)
+
+**Anglo-Nepal War, 1814–16**
+
+- **Cause:** Gorkha expansion into the Terai and hill tracts collided with Company frontier claims.
+- **Course:** Early British setbacks gave way to a hard mountain campaign.
+- **Result:** The **Treaty of Sugauli** (signed **1815**, ratified **1816**) fixed Nepal’s frontiers and brought hill posts such as Kumaon–Garhwal into the British orbit.
+
+**Pindari campaign and Third Anglo-Maratha War, 1817–18**
+
+- **Cause:** Pindari raids into Company territory and the last Maratha challenge to paramountcy.
+- **Course:** Hastings ran a coordinated campaign against Pindaris and Maratha houses together.
+- **Result:** The **Peshwa title was abolished**; Peshwa territories went into the Bombay Presidency; British **paramountcy** across central India was established.
 
 > **Logic:** If a question pairs Hastings with Nepal or Sugauli, it is **Lord Hastings**, not Warren. Third Maratha War ≠ Cornwallis.
 
@@ -355,10 +409,14 @@ Two lesser-named rulers cover the gap between Wellesley's recall and Lord Hastin
 
 ## 3.13 Lord Amherst (1823–1828)
 
-- He fought the **First Anglo-Burmese War (1824–26)**, ended by the **Treaty of Yandabo, 1826**.
-- The Company gained **Assam, Manipur, Arakan and Tenasserim** from this treaty.
-- **Maha Bandula**, the Burmese commander, was killed at Danubyu in **1825**.
+- **John Adam** briefly acted as Governor-General in **1823** before Amherst arrived. Adam is remembered mainly for tightening **press licensing** — the restrictions Metcalfe later removed.
 - Amherst also oversaw the long **Siege of Bharatpur (1825–26)**, where the British finally broke the fortress that had resisted them since Lord Lake's failed attempt in 1805.
+
+### First Anglo-Burmese War (Cause → Course → Result)
+
+- **Cause:** Burmese expansion under the Konbaung kings into Assam–Manipur frontiers and clashes with Company outposts.
+- **Course:** A costly jungle and river war; Burmese commander **Maha Bandula** was killed at Danubyu in **1825**.
+- **Result:** The **Treaty of Yandabo, 1826** gave the Company **Assam, Manipur, Arakan and Tenasserim**.
 
 > **Logic:** First Burma War is **Amherst's**, not Dalhousie's. Basic date fact = **Yandabo 1826**.
 
@@ -424,7 +482,9 @@ D. C A B D
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Wood **1854** → Hunter **1882** → Sadler **1917** → Sargeant **1944**.
+**Logic:** Education chronology trap — Wood before Hunter before Sadler before Sargeant.
+
+**Ans: D.** Wood **1854** → Hunter **1882** → Sadler **1917** → Sargeant **1944**.
 
 </details>
 
@@ -443,10 +503,14 @@ D. C A B D
 
 ## 3.18 Lord Auckland (1836–1842)
 
-- He is remembered chiefly for the **First Anglo-Afghan War (1839–42)**, launched against **Dost Muhammad** out of fear of Russian influence.
-- The war ended in **disaster**: a British and Indian force was almost wholly destroyed during the retreat from Kabul in the winter of 1841–42.
-- Auckland was recalled in the aftermath, and **Ellenborough** replaced him to manage the fallout.
 - Education policy continued along Macaulay's English-medium line during his tenure, but this is a minor footnote next to the Afghan disaster.
+- Auckland was recalled after the Afghan collapse, and **Ellenborough** replaced him to manage the fallout.
+
+### First Anglo-Afghan War, 1839–42 (Cause → Course → Result)
+
+- **Cause:** Fear of Russian influence on **Dost Muhammad** pushed Auckland into a forward Afghan adventure.
+- **Course:** The British installed **Shah Shuja** at Kabul; occupation turned sour; the winter **1841–42** retreat from Kabul destroyed almost the whole column.
+- **Result:** A military and political disaster; Auckland was recalled; later Viceroys treated Afghan occupation with caution until Lytton’s Proud Reserve revived a forward line.
 
 > **Logic:** First Afghan War = **Auckland**, not Dalhousie or Ellenborough. The disaster, not the annexation, is the key fact.
 
@@ -454,11 +518,16 @@ D. C A B D
 
 ## 3.19 Lord Ellenborough (1842–1844)
 
-- Sindh was ruled by the **Talpur Amirs**. Ellenborough's field commander **Sir Charles Napier** annexed it in **August 1843** after victories at **Miani** and **Dabo**.
 - **Act V of 1843** abolished **slavery** in British India under him.
 - The Afghan line of **Masterly Inactivity** began in his time and ran through to **Northbrook**; it is usually credited to **John Lawrence**, who practised it most fully. The phrase is linked to an article by **J. W. S. Wiley**.
 - He is also remembered for the controversial **"Gates of Somnath"** episode, where he brought back gates from Afghanistan claiming they were the temple's original looted gates — a claim historians dispute.
 - His autocratic style and costly gestures irritated the Court of Directors, who **recalled him in 1844**, one of the few Governors-General removed directly by the Directors rather than by the Crown.
+
+### Sindh annexation, 1843 (Cause → Course → Result)
+
+- **Cause:** Company fear of an open Indus–Afghan corridor and disputes with the **Talpur Amirs** of Sindh.
+- **Course:** Field commander **Sir Charles Napier** defeated the Amirs at **Miani** and **Dabo**.
+- **Result:** Sindh was annexed in **August 1843** under Ellenborough — not under Dalhousie.
 
 > **Logic:** Sindh is **1843**, under **Ellenborough**, not Dalhousie. Slavery Act = Ellenborough. Masterly Inactivity ≠ Wellesley or Canning.
 
@@ -466,10 +535,15 @@ D. C A B D
 
 ## 3.20 Lord Hardinge I (1844–1848)
 
-- The **First Anglo-Sikh War (1845–46)** was fought under him, ending with the **Treaty of Lahore, 1846**.
 - He banned **human sacrifice** and worked against **female infanticide** among tribal groups such as the Khonds.
 - He encouraged English education and gave a hiring preference to English-educated Indians for some government posts.
 - He handed over to **Dalhousie** in **1848**, just before the Second Sikh War.
+
+### First Anglo-Sikh War, 1845–46 (Cause → Course → Result)
+
+- **Cause:** After Ranjit Singh’s death, Khalsa army politics and British troop moves on the Sutlej frontier hardened into war.
+- **Course:** Hard-fought battles such as Mudki, Ferozeshah, Aliwal and Sobraon decided the campaign.
+- **Result:** The **Treaty of Lahore, 1846** cut Sikh power, placed a British Resident at Lahore, and set up the later annexation of Punjab under Dalhousie.
 
 > **Logic:** Hardinge **I** = First Sikh War, 1845–46. Do not confuse with **Hardinge II** (Viceroy 1910–16, Delhi Durbar).
 
@@ -480,7 +554,7 @@ D. C A B D
 - He used the **Doctrine of Lapse**. Adopted heirs were **not recognised**.
 - Lapse chronology: **Satara (1848)** first; **Jaitpur and Sambalpur (1849)**; **Baghat (1850)**; **Udaipur (1852)**; **Jhansi (1854)**; **Nagpur (1854)**.
 - **Awadh in February 1856** was taken for **misgovernance**, not Lapse. The Nawab was **Wajid Ali Shah**. In **1854** **James Outram** replaced **W. H. Sleeman** as Resident; Outram's report that Awadh's administration was corrupt and the people miserable became the annexation brief.
-- **Punjab was annexed in 1849** after the Second Anglo-Sikh War. He also took hill tracts of **Sikkim** (including Darjeeling-side areas) on a pretext of mistreatment of British subjects.
+- He also took hill tracts of **Sikkim** (including Darjeeling-side areas) on a pretext of mistreatment of British subjects.
 - His real name was **James Andrew Broun-Ramsay** (Earl of Dalhousie).
 - **Wood's Despatch** belongs to **1854**.
 - The **first passenger railway** ran from **Bombay (Boribunder) to Thane in 1853**, started by the **Great Indian Peninsula Railway**. Motives were mainly to move **raw materials to ports** and to move the **army** quickly against revolt.
@@ -488,7 +562,21 @@ D. C A B D
 - The Widow Remarriage Act of **1856** was drafted in his time and passed as Canning took over.
 - Later railway expansion peaked around **1900** under **Curzon**, but the **start** of passenger rail is Dalhousie.
 
-> **Logic:** Dalhousie = Lapse + railways + PWD. Awadh = **misrule**, not Lapse. He did **not** accept Lakshmibai's adopted son.
+### Wars and annexations under Dalhousie (Cause → Course → Result)
+
+**Second Anglo-Sikh War and Punjab, 1848–49**
+
+- **Cause:** Resentment after Lahore settlement, Multan revolt, and Khalsa army politics broke the fragile peace.
+- **Course:** Battles such as Chillianwala and Gujarat decided the war.
+- **Result:** **Punjab was annexed in 1849**; the Sikh kingdom ended as an independent power.
+
+**Second Anglo-Burmese War, 1852**
+
+- **Cause:** Trade and diplomatic disputes at Rangoon after Yandabo’s unsettled aftermath.
+- **Course:** A short coastal campaign took Lower Burma.
+- **Result:** **Pegu / Lower Burma** was annexed; full Burma annexation waited for Dufferin’s Third War in **1885**.
+
+> **Logic:** Dalhousie = Lapse + railways + PWD. Awadh = **misrule**, not Lapse. He did **not** accept Lakshmibai's adopted son. First Burma = Amherst; Second = Dalhousie; Third = Dufferin.
 
 **PYQ — UPPCS Prelims 2025, Q40**
 
@@ -508,7 +596,9 @@ D. 4 3 2 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Lapse / Partition / Sati / Permanent Settlement.
+**Logic:** Match Lapse / Partition / Sati / Permanent Settlement to Dalhousie / Curzon / Bentinck / Cornwallis.
+
+**Ans: D.** **Dalhousie — Doctrine of Lapse**; **Curzon — Partition of Bengal**; **Bentinck — Sati**; **Cornwallis — Permanent Settlement**.
 
 </details>
 
@@ -530,7 +620,9 @@ D. Both 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Stmt 2 false (Lapse). Stmt 1 = 1857 (Topic 5).
+**Logic:** Statement 2 is the classic Lapse trap on Lakshmibai’s adopted son.
+
+**Ans: C.** Statement **1** is true for **1857**. Statement **2** is false — **Dalhousie did not** recognise Lakshmibai’s adopted heir under the **Doctrine of Lapse**.
 
 </details>
 
@@ -576,9 +668,17 @@ Passed directly in response to the **1857 Revolt**, this Act is the true hinge o
 - The **Board of Control** and the **Court of Directors** were both abolished.
 - A new **Secretary of State for India**, a member of the British Cabinet, took charge of Indian affairs, advised by a **15-member Council of India** in London.
 - The **Governor-General also became the Viceroy** — the Crown's direct representative in India. The first person to hold both titles together was **Canning**.
-- The Secretary of State was given power to **supervise all administration** in India through the Viceroy.
+- The **Secretary of State** was given power to **supervise all administration** in India through the Viceroy.
 
-> **Logic:** 1858 changes **who is in charge** (Crown, not Company). It does **not** by itself create the portfolio system — that is the **1861** Act, a separate and later reform.
+### Queen’s Proclamation, 1 November 1858
+
+- The Proclamation was read by **Canning** at an **Allahabad Durbar on 1 November 1858** — the UP-facing transfer-of-power moment.
+- It announced that India had passed from the **Company to the Crown**.
+- It promised non-interference in religion, equal treatment of subjects under law, and an end to annexation by conquest or **Doctrine of Lapse** as standing policy.
+- Princes regained the right to **adopt heirs**. Paramountcy continued, but the open Lapse drive of Dalhousie’s years was publicly dropped.
+- Do **not** confuse this with Victoria’s title as **Empress of India (Kaiser-i-Hind)**, proclaimed at Lytton’s **Delhi Durbar of 1877**.
+
+> **Logic:** 1858 changes **who is in charge** (Crown, not Company). It does **not** by itself create the portfolio system — that is the **1861** Act, a separate and later reform. Queen’s Proclamation place = **Allahabad**.
 
 **PYQ — UPPCS Prelims 2021, Q13**
 
@@ -595,7 +695,9 @@ D. Indian Council Act, 1909
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — 1861 under Canning. 1858 created the Viceroy; it did not invent portfolios.
+**Logic:** Portfolio system is Indian Councils Act 1861, not GOI Act 1858.
+
+**Ans: A.** The **1861** Act legalised the **portfolio / departmental** system under **Canning**. **1858** created the Viceroy; it did not invent portfolios.
 
 </details>
 
@@ -628,7 +730,7 @@ D. Indian Council Act, 1909
 - His short tenure saw continued frontier friction, including the **Wahabi movement's activity** on the North-West Frontier.
 - Because his term was so brief, no major legislative reform is attached to his name.
 
-> **Logic:**Elgin I** is remembered mainly for **dying in office at Dharamshala**, not for any reform. Do not confuse with **Elgin II** (1894–99, famine and plague years).
+> **Logic:** Elgin I is remembered mainly for **dying in office at Dharamshala**, not for any reform. Do not confuse with **Elgin II** (1894–99, famine and plague years).
 
 ---
 
@@ -671,9 +773,14 @@ D. Indian Council Act, 1909
 - The **Delhi Durbar of 1 January 1877** proclaimed Victoria as **Empress of India (Kaiser-i-Hind)** under the **Royal Titles Act, 1876**.
 - He passed the **Vernacular Press Act in 1878**, also called the **Gagging / Silencing Act**, to curb criticism in Indian-language papers (S. N. Banerjee called it "lightning from the sky").
 - He also passed the **Arms Act in 1878**, making it a crime for most Indians to carry arms without a licence (Europeans largely exempt).
-- The **Second Anglo-Afghan War** ran **1878–80**, guided by his forward **"Proud Reserve"** policy that replaced Masterly Inactivity.
-- The **Great Famine** belongs to **1876–78**; the **Strachey Commission (1878)** and later Famine Codes grew from this crisis, and the **Famine Commission of 1880** followed.
+- The **Great Famine** belongs to **1876–78**; the **Strachey Commission** and later Famine Codes grew from this crisis, and the **Famine Commission of 1880** followed — full famine teaching sits in the Administration and Economy chapter.
 - He lowered the maximum entry age for the ICS, making it harder for Indian candidates to qualify.
+
+### Second Anglo-Afghan War, 1878–80 (Cause → Course → Result)
+
+- **Cause:** Lytton’s forward **"Proud Reserve"** policy replaced Lawrence’s Masterly Inactivity after Russian moves toward Afghanistan.
+- **Course:** British forces invaded; Kabul politics swung violently; the campaign was costly and unpopular at home.
+- **Result:** A new Amir accepted British control of Afghan foreign policy; Lytton’s Afghan line became the classic contrast to Lawrence’s caution.
 
 > **Logic:** Press Act and Arms Act = **Lytton**; Ripon **repealed** the Press Act. Second Afghan War = Lytton, **not** First Afghan (Auckland). Ilbert Bill is **Ripon**, not Lytton.
 
@@ -697,7 +804,9 @@ D. 1, 3, 2, 4
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Awadh **1856** → Indigo **1859** → 2nd Afghan **1878** → Ilbert **1883**.
+**Logic:** Chronology Awadh → Indigo → Second Afghan → Ilbert.
+
+**Ans: A.** Awadh **1856** → Indigo **1859** → Second Afghan **1878** → Ilbert **1883**.
 
 </details>
 
@@ -720,9 +829,16 @@ D. 1, 3, 2, 4
 ## 3.32 Lord Dufferin (1884–1888)
 
 - The **Indian National Congress** was founded in **1885** (Hume) during his tenure.
-- He ridiculed Congress as a **"microscopic minority"**. Do not confuse him with Curzon, Minto or Lansdowne.
-- The **Third Anglo-Burmese War** of **1885** annexed Upper Burma, deposing King Thibaw.
-- The **Bengal Tenancy Act of 1885** gave tenants some legal protection against landlords.
+- He ridiculed Congress as a **"microscopic minority."** Do not confuse him with Curzon, Minto or Lansdowne.
+- The **Bengal Tenancy Act of 1885** gave tenants some legal protection against landlords — a land-revenue aftershock taught fully in the Administration and Economy chapter.
+
+### Third Anglo-Burmese War, 1885 (Cause → Course → Result)
+
+- **Cause:** Trade disputes, French influence fears, and unfinished British control after Lower Burma’s annexation.
+- **Course:** A short campaign deposed King **Thibaw**.
+- **Result:** **Upper Burma** was annexed and Burma became a province of British India.
+
+> **Logic:** “Microscopic minority” = **Dufferin**, not Curzon. Third Burma War completes annexation after Amherst (First) and Dalhousie (Second).
 
 **PYQ — UPPCS Prelims 2018, Q76**
 
@@ -739,7 +855,9 @@ D. Lord Lansdown
 <details>
 <summary>Show answer</summary>
 
-**Ans: A — Dufferin.** Curzon is the Partition trap.
+**Logic:** “Microscopic minority” tag belongs to Dufferin at INC’s founding years.
+
+**Ans: A.** **Lord Dufferin** ridiculed Congress as a **“microscopic minority.”** Trap: Curzon / Minto / Lansdowne are common wrong matches.
 
 </details>
 
@@ -840,7 +958,9 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Both describe the 1905 Partition.
+**Logic:** Both statements describe Curzon’s 1905 Partition / provincial rearrangement.
+
+**Ans: B.** Both are correct — Curzon rearranged provincial boundaries and created **East Bengal and Assam** in **1905**.
 
 </details>
 
@@ -921,7 +1041,9 @@ D. Yugantar
 <details>
 <summary>Show answer</summary>
 
-**Ans: C — Anushilan Samiti.** Yugantar is the Bengal sister-trap.
+**Logic:** Hardinge II bomb (1912) is linked to Anushilan, not Yugantar as the usual key.
+
+**Ans: C.** **Anushilan Samiti** (with **Rash Behari Bose** in the network). **Yugantar** is the common Bengal sister-trap.
 
 </details>
 
@@ -1000,7 +1122,9 @@ D. Shankaran Nair
 <details>
 <summary>Show answer</summary>
 
-**Ans: B — Tagore.** Nair **resigned**; he did not return a knighthood in this question's sense.
+**Logic:** Jallianwala protest — Tagore returned knighthood; Nair resigned from the Council (different act).
+
+**Ans: B.** **Rabindranath Tagore** returned the knighthood. **Shankaran Nair** resigned; he did not return a knighthood in this stem’s sense.
 
 </details>
 
@@ -1335,7 +1459,7 @@ D. 1, 4, 2, 3
 | Auckland | 1st Afghan |
 | Ellenborough | Sindh |
 | Hardinge I | 1st Sikh |
-| Dalhousie | 2nd Sikh |
+| Dalhousie | 2nd Sikh; 2nd Burma (1852) |
 | Canning | 1857 |
 | Lytton | 2nd Afghan |
 | Dufferin | 3rd Burma |
@@ -1768,7 +1892,9 @@ D. Lord Lansdown
 <details>
 <summary>Show answer</summary>
 
-**Ans: A — Lord Dufferin**
+**Logic:** “Microscopic minority” tag belongs to Dufferin at INC’s founding years.
+
+**Ans: A.** **Lord Dufferin** ridiculed Congress as a **“microscopic minority.”** Trap: Curzon / Minto / Lansdowne are common wrong matches.
 
 </details>
 
@@ -1777,7 +1903,9 @@ D. Lord Lansdown
 
 ## Ghatnachakra Extra Drill — Governors-General & Viceroys
 
-Teaching for these stems sits across **3.1–3.41** (Ring Fence, Dual Government, Subsidiary Alliance, Lapse, Viceroys).
+Teaching for these stems sits across **3.1–3.47** (Ring Fence, Dual Government, Subsidiary Alliance, Lapse, Viceroys).
+
+> **Needs dump (do not invent):** fuller UKPCS-only GG/Viceroy Extra beyond the harvested UKPCS bank below; any remaining Ghatnachakra Act/war match pages not yet pasted. Existing Extra blocks stay; no mega banks invented here.
 
 **Q1. IAS 2007 / RAS / BPSC**
 

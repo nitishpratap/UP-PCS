@@ -10,7 +10,7 @@ Partition of Bengal | Swadeshi Movement | Delhi Durbar | Revolutionary Organisat
 
 > **Sources baked in:** Spectrum, Bipan Chandra, NCERT Themes III, Ghatnachakra Purvalokan (Revolutionary Movements / Outside India), UPPCS Prelims 2018–2025
 > **Weight:** ★★★ — 1905/1911, org↔event, Kakori UP, Hardinge bomb, revolutionary chronology
-> **Last verified:** September 2026
+> **Last verified:** September 2026 gap audit — Abhinav/India House + HRA + Chapekar + Komagata Maru CCR filled; Swadeshi header glue fixed; UKPCS bank harvested from Extra; Extra Drill present (no invented mega banks)
 > **Current Affairs:** N/A (historical)
 
 ---
@@ -19,7 +19,7 @@ Partition of Bengal | Swadeshi Movement | Delhi Durbar | Revolutionary Organisat
 
 1. **Partition of Bengal** was announced in **July 1905** and became effective on **16 October 1905**. The new province was **East Bengal and Assam** with capital at **Dacca**.
 2. **Causes:** Curzon claimed administrative size; nationalists read **divide and rule** aimed at Hindu–Muslim and Calcutta politics.
-3. **Course:16 October** was a mourning day with **Rakhi** unity and Tagore’s ***Amar Sonar Bangla***; protest fused at once with Swadeshi and boycott.
+3. **Course:** **16 October** was a mourning day with **Rakhi** unity and Tagore’s ***Amar Sonar Bangla***; protest fused at once with Swadeshi and boycott.
 4. **Results:** Mass protest and underground radicalisation followed; Partition was **annulled in 1911** at the Delhi Durbar, and the capital moved **Calcutta → Delhi**.
 5. The **Lucknow Pact is 1916**, not 1911. Do not merge it with the annulment package.
 6. The **Boycott Resolution** was passed on **7 August 1905** at Calcutta Town Hall. Swadeshi means use Indian goods; boycott means reject British goods and institutions.
@@ -108,7 +108,7 @@ Partition of Bengal | Swadeshi Movement | Delhi Durbar | Revolutionary Organisat
 
 **Viceroy:** Lord Curzon
 **Announced:** July 1905
-**Effective:16 October 1905Annulled:1911** (Delhi Durbar)
+**Effective:** **16 October 1905** | **Annulled:** **1911** (Delhi Durbar)
 
 **Causes**
 
@@ -151,17 +151,17 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Logic:** Both statements describe Curzon’s 1905 rearrangement — East Bengal and Assam was the new province.
+
+**Ans: B.** Both are correct: Curzon rearranged boundaries **and** constituted **East Bengal and Assam**.
 
 </details>
 
----
-
-## 11.3 Swadeshi Movement
-
-**Launch fact:7 August 1905** — Boycott Resolution, Calcutta Town Hall
+**Launch fact:** **7 August 1905** — Boycott Resolution, Calcutta Town Hall
 **Peak:** 1905–08
-**Congress stamp:** Calcutta session **1906** (Dadabhai) — goal declared as **SwarajCauses**
+**Congress stamp:** Calcutta session **1906** (Dadabhai) — goal declared as **Swaraj**
+
+**Causes**
 
 - The Partition of Bengal (11.2) was the immediate trigger, but Swadeshi also drew on decades of economic nationalism — Dadabhai Naoroji's drain-of-wealth argument and long resentment at the collapse of Indian handicrafts under cheap British imports.
 - Extremist leaders argued that petitions and prayers to a colonial government had achieved little, and that self-reliant, assertive action was the only real answer.
@@ -207,7 +207,7 @@ D. Neither 1 nor 2
 
 **1877 Durbar:** Viceroy **Lytton**; proclaimed **Queen Victoria as Empress of India** at Delhi. It was an assertion of imperial pageantry, not a partition-related event.
 
-**1911 Durbar:** Viceroy **Hardinge**; king-emperor **George V** attended in person, the only reigning British sovereign to visit India as king-emperor. This is the -heavy Durbar.
+**1911 Durbar:** Viceroy **Hardinge**; king-emperor **George V** attended in person, the only reigning British sovereign to visit India as king-emperor. This is the **high-yield** Durbar for Prelims.
 
 - Do not merge the two Durbars. **1877** = title (Empress of India). **1911** = annulment of Partition **and** the capital shift.
 - The Durbar of **1911** had two key facts.
@@ -240,7 +240,9 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Logic:** 1911 package = annulment + capital shift. Lucknow Pact is 1916.
+
+**Ans: A.** Only statements **1 and 2** belong to **1911**. Lucknow Pact is **1916**.
 
 </details>
 
@@ -271,19 +273,33 @@ D. Only 1
 
 ## 11.6 Anushilan Samiti
 
-**Founded:1902**, Calcutta (Pramathanath Mitra; Barrister P. Mitra)
-**Dhaka branch:Pulin Behari Das** (1906)
+**Founded:** **1902**, Calcutta (**Pramathanath Mitra** / Barrister P. Mitra)
+**Dhaka branch:** **Pulin Behari Das** (**1906**)
 
 - A secret society for physical culture, discipline and political violence against the Raj.
 - Aurobindo and Barindra Ghosh moved in this Bengal underground. The Dhaka Anushilan was especially organised.
-- On **23 December 1912** a bomb was thrown at Viceroy **Hardinge** in the Chandni Chowk procession.
-- This is the **Delhi Conspiracy**.
-- **Rash Behari Bose** planned it.
-- **Basanta Kumar Biswas** threw it.
-- The Hardinge bomb (**1912**, Delhi Conspiracy) is linked to **Anushilan Samiti**, not Jugantar and not a labour body.
 - The **Barrah (Barra) Dacoity** of **1908** in East Bengal was planned by **Pulin Behari Das**’s Dhaka Anushilan circle as an early major armed venture for funds and arms.
 - **Sachindra Nath Sanyal** opened an Anushilan branch at **Patna in 1913**.
 - Do not merge Anushilan with the later HSRA of Punjab–UP.
+
+### Hardinge bomb / Delhi Conspiracy (1912) — Cause → Course → Result
+
+**Causes**
+
+- After open Swadeshi was crushed, Anushilan cells sought a spectacular strike on the highest symbol of the Raj in India — the Viceroy — to prove that underground action still lived.
+- The **1911** capital shift to Delhi gave them a public procession target in Chandni Chowk.
+
+**Course**
+
+- On **23 December 1912** a bomb was thrown at Viceroy **Hardinge** in the Chandni Chowk procession (Delhi Conspiracy).
+- **Rash Behari Bose** planned it; **Basanta Kumar Biswas** threw it.
+- Hardinge was wounded; the procession was broken; a wide conspiracy hunt followed across North India.
+
+**Results**
+
+- The Hardinge bomb (**1912**, Delhi Conspiracy) is linked to **Anushilan Samiti**, not Jugantar and not a labour body.
+- Rash Behari Bose escaped into exile and later became the Japan–INA bridge figure; several associates were hanged or transported.
+- For Prelims, keep Hardinge **1912** = **Anushilan**; Muzaffarpur **1908** = **Jugantar**.
 
 > **Logic:** Hardinge bomb **1912** = **Anushilan**. Jugantar is the other Bengal circle.
 
@@ -302,7 +318,9 @@ D. Yugantar
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Logic:** Org ↔ event — Hardinge bomb / Delhi Conspiracy 1912 is Anushilan, not Jugantar.
+
+**Ans: C.** **Anushilan Samiti** — planned by Rash Behari Bose; Basanta Kumar Biswas threw the bomb.
 
 </details>
 
@@ -336,16 +354,45 @@ D. Yugantar
 
 ## 11.8 Abhinav Bharat and India House
 
-**Abhinav Bharat:** **V.D. Savarkar** founded **Mitra Mela (1899)** and converted it into the secret **Abhinav Bharat Society (1904)** in Maharashtra (branches also in Madhya Pradesh and Karnataka); a London branch worked from **India House (1906)**
-**India House:Shyamji Krishna Varma**, London (Indian Home Rule Society, scholarships, *Indian Sociologist*)
+### Abhinav Bharat — Cause → Course → Result
 
-- **Abhinav Bharat** was founded by **V.D. Savarkar**, not Bhagat Singh, Barindra Ghosh or Pulin Behari Das.
-- In **1909** at Nasik, **Anant Kanhere** killed Collector **Jackson**.
-- Abhinav Bharat men were tried.
-- In **1909** in London, **Madan Lal Dhingra** killed **Curzon Wyllie** at the Imperial Institute.
-- India House was then crushed.
-- Savarkar also wrote ***The Indian War of Independence*** (1909).
-- He also wrote on **Mazzini** to inspire nationalists. Arrested in London for the **Nasik Conspiracy**, he jumped from a ship trying to escape and was re-arrested, then sent to the Andamans.
+**Founded line:** **V.D. Savarkar** founded **Mitra Mela (1899)** and converted it into the secret **Abhinav Bharat Society (1904)** in Maharashtra (branches also in Madhya Pradesh and Karnataka); a London branch worked from **India House (1906)**.
+
+**Causes**
+
+- Savarkar’s circle wanted a Mazzini-style secret society for armed national rising, not only Congress Extremism.
+- Maharashtra’s Chapekar memory (**1897**) and Tilak’s assertive politics gave the young group a local climate of revolt.
+
+**Course**
+
+- Abhinav Bharat trained cadres for political violence and ran pamphlets and arms talk across Maharashtra and abroad.
+- In **1909** at Nasik, **Anant Kanhere** killed Collector **Jackson**; Abhinav Bharat men were tried in the Nasik Conspiracy.
+- Savarkar wrote ***The Indian War of Independence*** (**1909**) and on **Mazzini** to inspire nationalists. Arrested in London for the Nasik Conspiracy, he jumped from a ship trying to escape, was re-arrested, and sent to the Andamans.
+
+**Results**
+
+- The Nasik trials and Savarkar’s transportation broke the open Abhinav Bharat network inside India.
+- The idea of a secret armed society survived in later North Indian revolutionary work, but Prelims keys lock Abhinav Bharat to **Savarkar + Maharashtra**, not Bengal or Punjab.
+
+### India House (London) — Cause → Course → Result
+
+**Founder:** **Shyamji Krishna Varma** | **Place:** London | **Paper:** ***The Indian Sociologist*** | **Linked body:** Indian Home Rule Society; scholarships for Indian students
+
+**Causes**
+
+- Indian students in London needed a centre that preached self-rule and published anti-colonial argument beyond Moderate petition politics.
+- Shyamji used scholarships and a hostel to gather radical students away from official India Office influence.
+
+**Course**
+
+- India House became the London hub for Savarkar’s circle, Madan Lal Dhingra and other émigrés.
+- In **1909**, **Madan Lal Dhingra** killed **Curzon Wyllie** at the Imperial Institute.
+- Police pressure then crushed India House as an open centre.
+
+**Results**
+
+- The killing and crackdown scattered the London network; survivors fed into Paris (Cama) and later wartime plots.
+- Hold the pair: **Abhinav Bharat = Savarkar**; **India House = Shyamji Krishna Varma**. **Dhingra ≠ Bhagat Singh**.
 
 > **Logic:** Abhinav Bharat = **Savarkar**. India House = **Shyamji Krishna Varma**. Dhingra ≠ Bhagat Singh.
 
@@ -390,8 +437,11 @@ D. Pulin Bihari
 
 ## 11.10 Ghadar Party
 
-**Year:1913Place:San Francisco** (Pacific Coast; earlier Hindi Association, Portland/Astoria)
-**Leaders:Sohan Singh Bhakna** (president), **Lala HardayalPaper:*Ghadar*Causes**
+**Year:** **1913** | **Place:** **San Francisco** (Pacific Coast; earlier Hindi Association, Portland/Astoria)
+**Leaders:** **Sohan Singh Bhakna** (president), **Lala Hardayal**
+**Paper:** ***Ghadar***
+
+**Causes**
 
 - Indian migrant labourers on the Pacific coast faced racial discrimination and exclusion laws in Canada and the US, convincing them that Indians would never get fair treatment while British rule continued at home.
 - Revolutionary exiles such as **Lala Hardayal** carried the India House message of armed struggle into the North American diaspora.
@@ -399,7 +449,6 @@ D. Pulin Bihari
 **Course**
 
 - Diaspora Sikhs, Hindus and Muslims on the Pacific coast formed a party in **1913** to **overthrow British rule by armed revolt**, especially once a war gave them the opportunity.
-- The **Komagata Maru (1914)**, a ship carrying Indian migrants, was turned back by Canada; shooting followed at Budge Budge near Calcutta when it returned. Ghadar used the episode as proof of a racial empire.
 - When the First World War broke out, Ghadarites returned to Punjab in **1914–15** hoping to spark a mutiny among Indian troops.
 
 **Results**
@@ -408,6 +457,27 @@ D. Pulin Bihari
 - Surviving members and sympathisers later fed into the wartime **Berlin Committee** network — a related but separate story (11.11). Ghadar (**1913**) came **before** the Berlin Committee (**1915**).
 
 > **Logic:** Ghadar = **1913 San Francisco**. Berlin Committee = **1915**. Order in 2022: Ghadar → Berlin → Assembly 1929 → Chittagong 1930.
+
+### Komagata Maru (1914) — Cause → Course → Result
+
+**Ship:** Japanese steamer ***Komagata Maru*** | **Charterer:** **Gurdit Singh** | **Destination aimed:** Vancouver, Canada
+
+**Causes**
+
+- Canadian immigration rules blocked most Indian migrants while still favouring white settlers — a racial empire fact Ghadar wanted to expose.
+- Gurdit Singh hired the ship to carry Punjabi passengers who claimed the right to enter as British subjects.
+
+**Course**
+
+- Canada refused most passengers landing rights; after weeks in harbour the ship was forced to turn back.
+- On return near **Budge Budge** (Calcutta), a confrontation with British police led to firing and deaths among passengers.
+
+**Results**
+
+- Ghadar used Komagata Maru as proof that racial exclusion was built into British imperial law.
+- The episode sits in the overseas chain **between** Ghadar founding (**1913**) and the wartime rising attempts (**1914–15**). Do not treat it as a separate party from Ghadar.
+
+> **Logic:** Komagata Maru = **1914 + Gurdit Singh + Canada refusal + Budge Budge**. It is a **Ghadar-era** episode, not Berlin Committee.
 
 **PYQ — UPPCS Prelims 2022, Q38**
 
@@ -454,12 +524,24 @@ D. III, I, II and IV
 
 ## 11.12 Hindustan Republican Association (HRA)
 
-**Year:1924Place of organisation:KanpurFounders / early leaders:Sachindra Nath Sanyal**, **Jogesh Chandra Chatterjee**, **Ram Prasad Bismil**
+**Year:** **1924** | **Place of organisation:** **Kanpur**
+**Founders / early leaders:** **Sachindra Nath Sanyal**, **Jogesh Chandra Chatterjee**, **Ram Prasad Bismil**
 
-- HRA wanted an **armed republic** in India. Sanyal’s ***The Revolutionary*** (Yellow Paper) stated the aim.
-- It is **not** yet HSRA. The word **Socialist** is added in **1928**.
-- **Kakori (1925)** is an **HRA** action. Labelling Kakori as HSRA is a trap.
-- After Kakori hangings, **Chandrashekhar Azad** kept the underground alive and moved it toward HSRA.
+**Causes**
+
+- After wartime crackdowns, North Indian revolutionaries wanted a fresh all-India armed organisation aimed at a **republic**, not only local bombs.
+- Sanyal’s ***The Revolutionary*** (Yellow Paper) and ***Bandi Jivan*** gave the ideological and recruiting spine for UP–Punjab youth.
+
+**Course**
+
+- HRA was organised at **Kanpur in 1924** to raise funds and arms for an armed republic.
+- Its biggest public action was the **Kakori train treasury seizure (9 August 1925)** — full CCR under 11.14.
+- It is **not** yet HSRA. The word **Socialist** is added only in **1928**.
+
+**Results**
+
+- Kakori hangings broke much of the first HRA cadre; **Chandrashekhar Azad** escaped and rebuilt the underground toward **HSRA**.
+- Labelling Kakori as HSRA is the classic trap — Kakori is **HRA 1925**.
 
 > **Logic:** HRA **1924**. Kakori **1925** = HRA. HSRA **1928**.
 
@@ -574,12 +656,22 @@ D. Ambika Chakravarti
 
 ## 11.16 Other Revolutionary Events
 
-### Chapekar brothers (1897)
+### Chapekar brothers (1897) — Cause → Course → Result
 
-- At Poona the Chapekar brothers (**Damodar**, **Balkrishna**, **Vasudev**) ran a **Vyayam Mandal** with political intent (**1896–97**).
+**Causes**
+
+- Plague measures under commissioner **W.C. Rand** in Poona were harsh and humiliating; local anger mixed with early militant nationalism.
+- The Chapekar brothers (**Damodar**, **Balkrishna**, **Vasudev**) ran a **Vyayam Mandal** with political intent (**1896–97**).
+
+**Course**
+
 - In **June 1897** they killed plague commissioner **Rand** and Lt. **Ayerst**. Damodar was hanged; the Dravid brothers informed the police.
-- Britishers also tried to implicate **Tilak**; in **July 1897** he was convicted of sedition under **IPC 124-A** for about **18 months**. That ordeal made him an all-India name and people styled him **Lokmanya**.
-- The Chapekar strike is early militant action — not the same organisation as Abhinav Bharat.
+- Britishers also tried to implicate **Tilak**; in **July 1897** he was convicted of sedition under **IPC 124-A** for about **18 months**.
+
+**Results**
+
+- That ordeal made Tilak an all-India name and people styled him **Lokmanya**.
+- The Chapekar strike is early militant action — not the same organisation as Abhinav Bharat, which comes later under Savarkar.
 
 
 ### Barrah Dacoity (1908)
@@ -1402,13 +1494,121 @@ D. 3, 1, 2, 4
 
 **Logic:** 2022-style chronology: Ghadar (1913) → Berlin Committee (1915) → Assembly bomb (1929) → Chittagong (1930).
 
-
-**Logic:** Ghadar (1913) → Berlin Committee (1915) → Assembly bomb (1929) → Chittagong (1930).
-
 **Ans: B.** **Ghadar (1913) → Berlin Committee (1915) → Assembly bomb (1929) → Chittagong (1930)**
 
 </details>
 
+
+### UKPCS Complete PYQ Bank (Swadeshi & Revolutionary)
+
+> Harvested from Extra Drill UKPCS-tagged stems. UPPCS Complete Bank sits earlier. Practice Zone follows.
+
+**Q1. UKPCS / UPPCS / IAS / BPSC**
+
+India House and the Indian Home Rule Society in London (1905) were founded by:
+
+A. Madam Bhikaji Cama
+
+B. Shyamji Krishna Varma
+
+C. Lala Hardayal
+
+D. V.D. Savarkar
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** India House / Home Rule Society = Shyamji London hub + *Indian Sociologist*.
+
+**Ans: B.** **Shyamji Krishna Varma (London, 1905)** founded India House and published ***The Indian Sociologist***.
+
+</details>
+
+**Q2. UKPCS / UPPCS / IAS / BPSC**
+
+The Ghadar Party was founded in 1913 at San Francisco. Its first chairman was:
+
+A. Lala Hardayal
+
+B. Sohan Singh Bhakna
+
+C. Rash Behari Bose
+
+D. Raja Mahendra Pratap
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** First chair tag ≠ intellectual torchbearer.
+
+**Ans: B.** **Sohan Singh Bhakna** was first chairman; **Lala Hardayal** was the intellectual torchbearer.
+
+</details>
+
+**Q3. UKPCS / UPPCS / IAS / BPSC**
+
+Madam Bhikaji Cama is often called the **Mother of Indian Revolution**. She unfurled an early Indian flag at:
+
+A. Paris (1907)
+
+B. Stuttgart (1907)
+
+C. London (1905)
+
+D. Berlin (1915)
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Stuttgart flag 1907 ≠ Berlin Committee 1915.
+
+**Ans: B.** **Stuttgart (1907)** — not Paris and not the wartime Berlin Committee.
+
+</details>
+
+**Q4. UKPCS / UPPCS / BPSC / MPPCS**
+
+Kakori Conspiracy (1925) was an action of:
+
+A. HSRA
+
+B. HRA
+
+C. Ghadar Party
+
+D. Anushilan Samiti
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Year trap — HSRA begins only in 1928.
+
+**Ans: B.** Kakori (**9 August 1925**) was an **HRA** action, not HSRA.
+
+</details>
+
+**Q5. UKPCS / UPPCS / BPSC**
+
+Who among the following was NOT an early member of the Naujawan Bharat Sabha formed in 1926?
+
+A. Bhagat Singh
+
+B. Yashpal
+
+C. Chhabil Das
+
+D. Ambika Chakravarti
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Ambika belongs to Chittagong, not the 1926 Lahore sabha.
+
+**Ans: D.** **Ambika Chakravarti** is the Chittagong odd-man-out.
+
+</details>
+
+---
 
 ## Practice Zone — UPPCS Format Drill
 

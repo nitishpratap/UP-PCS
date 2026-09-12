@@ -30,4 +30,4 @@ Shared UPPCS chapters already cover Harappa, Vedic (incl. Krishna/Shukla Yajurve
 
 ## Status
 
-Teaching chapters + UKPCS PYQ bank added for the ancient UK slice. Medieval and Modern UK folders are live.
+Teaching chapters expanded (Sep 2026): full-sentence cards, Practice stems, Lock→Key cleanup. National Ancient notes remain the shared UPPCS + UKPCS GS base.

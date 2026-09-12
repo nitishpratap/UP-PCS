@@ -110,7 +110,7 @@ Mauryan Empire · Chandragupta Maurya · Bindusara · Ashoka · then Admin / Off
 - The *Indica* is **not** the *Arthashastra*.
 - *Devichandraguptam* shares Vishakhadatta’s name but its story sits in the **Gupta** horizon.
 
-> ** note:** For “author of Indica” the answer is **Megasthenes**. For “author of Arthashastra” the answer is **Kautilya / Chanakya / Vishnugupta**.
+> **Logic:** For “author of Indica” the answer is **Megasthenes**. For “author of Arthashastra” the answer is **Kautilya / Chanakya / Vishnugupta**.
 
 ---
 
@@ -208,7 +208,7 @@ A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 
 </details>
 
-> ** note:** Chandragupta Maurya is not Chandragupta II. The empire ends in **185 BCE**, not with Ashoka’s death in **232 BCE**.
+> **Logic:** Chandragupta Maurya is not Chandragupta II. The empire ends in **185 BCE**, not with Ashoka’s death in **232 BCE**.
 
 ---
 
@@ -230,7 +230,7 @@ A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 - Palace archaeology at Pataliputra points to **Kumrahar** (pillared hall) and **Bulandibagh** (wooden city-wall remains). Greek memory stresses a **wooden** palace and palisade.
 - Jain tradition ends him in *sallekhana* with **Bhadrabahu** at **Shravanabelagola**. His son and successor is **Bindusara**.
 
-> ** note:** This Chandragupta is **322 BCE**. Gupta Chandragupta I is **~320 CE**.
+> **Logic:** This Chandragupta is **322 BCE**. Gupta Chandragupta I is **~320 CE**.
 
 ---
 
@@ -246,7 +246,7 @@ A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 - *Samantapasadika* of **Buddhaghosa** remembers Ashoka winning / merging **Avanti** into the Mauryan empire during Bindusara’s reign.
 - His son and successor is **Ashoka**.
 
-> ** note:** Bindusara is not the Kalinga king. The Kalinga war is Ashoka.
+> **Logic:** Bindusara is not the Kalinga king. The Kalinga war is Ashoka.
 
 ---
 
@@ -300,7 +300,7 @@ The Mauryan state is a **centralised** empire. Officers are paid. Power does not
 - Welfare works — wells, herbs, trees, hospitals — sit in **Rock Edict II**.
 - The caravan chief of merchants is the **Sarthavaha** (*Arthashastra*).
 
-> ** note:** This is a **centralised** empire, not Gupta samanta-feudatory.
+> **Logic:** This is a **centralised** empire, not Gupta samanta-feudatory.
 
 ---
 
@@ -382,7 +382,7 @@ D. Revenue management
 
 </details>
 
-> ** note:** Samaharta ≠ Sannidhata. Agronomai ≠ roads in that paper.
+> **Logic:** Samaharta ≠ Sannidhata. Agronomai ≠ roads in that paper.
 
 ---
 
@@ -427,7 +427,7 @@ Ashoka is the Mauryan emperor of the edicts. After the **Kalinga war** he turns 
 - The Barabar gift to Ajivikas is polished granite cells, not Buddhist viharas.
 - Death is about **232 BCE**. The empire runs to **185 BCE**.
 
-> ** note:** Major edicts do **not** usually say the word “Ashoka.” Maski does.
+> **Logic:** Major edicts do **not** usually say the word “Ashoka.” Maski does.
 
 ---
 
@@ -443,7 +443,7 @@ Ashoka is the Mauryan emperor of the edicts. After the **Kalinga war** he turns 
 - Third Council = **Ashoka** at **Pataliputra**. Fourth Council = **Kanishka** at **Kundalvana**.
 - **Sri Lanka** received the mission but remained an **edge neighbour**, not a Mauryan province (RE II).
 
-> ** note:** The year **c. 250 BCE** comes from chronicle tradition. Ashokan edicts do **not** date the Third Council.
+> **Logic:** The year **c. 250 BCE** comes from chronicle tradition. Ashokan edicts do **not** date the Third Council.
 
 ---
 
@@ -534,7 +534,7 @@ A. Both 1 and 2 B. Neither 1 nor 2 C. Only 1 D. Only 2
 
 </details>
 
-> ** note:** Dhamma ≠ forced conversion. Personal Buddhism ≠ state Dhamma. Bhabru lists texts; PE II defines Dhamma.
+> **Logic:** Dhamma ≠ forced conversion. Personal Buddhism ≠ state Dhamma. Bhabru lists texts; PE II defines Dhamma.
 
 ---
 
@@ -587,7 +587,7 @@ A. Rock Edict XI B. Rock Edict XII C. Rock Edict XIII D. Rock Edict II
 
 </details>
 
-> ** note:** Rock Edict **XII** = religious tolerance / synthesis. Rock Edict **XIII** = Kalinga.
+> **Logic:** Rock Edict **XII** = religious tolerance / synthesis. Rock Edict **XIII** = Kalinga.
 
 ---
 
@@ -604,7 +604,7 @@ A. Rock Edict XI B. Rock Edict XII C. Rock Edict XIII D. Rock Edict II
 - Kandahar has a Greek Minor Rock Edict, a bilingual frontier text.
 - **Kanaganahalli (Sannati)** has a sculpted panel labelled **Raya Asoka**, a rare named portrait.
 
-> ** note:** If the question is “where is the name Ashoka?” the answer is **Maski**, not Girnar.
+> **Logic:** If the question is “where is the name Ashoka?” the answer is **Maski**, not Girnar.
 
 ---
 
@@ -638,7 +638,7 @@ A. Rock Edict XI B. Rock Edict XII C. Rock Edict XIII D. Rock Edict II
 
 Minor pillar / schism: Sarnath, Sanchi, Kaushambi. The **Kaushambi schism edict** warns monks against splitting the sangha.
 
-> ** note:** National emblem lion capital = **Sarnath**. **Sanchi** is the great stupa complex.
+> **Logic:** National emblem lion capital = **Sarnath**. **Sanchi** is the great stupa complex.
 
 ---
 
@@ -662,7 +662,7 @@ Minor pillar / schism: Sarnath, Sanchi, Kaushambi. The **Kaushambi schism edict*
 - The **Dhauli elephant** is another Mauryan sculpture fact.
 - Barabar caves are **Mauryan** (Ashoka / Dasharatha gifts to Ajivikas). Dating them to the **6th century BCE** is false.
 
-> ** note:** Barabar ≠ Ajanta. Donee = **Ajivika**, not the sangha.
+> **Logic:** Barabar ≠ Ajanta. Donee = **Ajivika**, not the sangha.
 
 ---
 
@@ -702,7 +702,7 @@ The *Arthashastra* is the Mauryan **statecraft handbook**. It is **not** the *Mu
 - The *Mudrarakshasa* is not this text.
 - The book is often compared with Machiavelli’s *Prince*.
 
-> ** note:** Kautilya is not Megasthenes. The Arthashastra is not the Indica.
+> **Logic:** Kautilya is not Megasthenes. The Arthashastra is not the Indica.
 
 ---
 
@@ -715,7 +715,7 @@ The *Arthashastra* is the Mauryan **statecraft handbook**. It is **not** the *Mu
 - Magadha in his vocabulary is **Prasii** (easterners). Capital is **Palibothra** at Ganga–Son.
 - Howlers include gold-digging ants and Dionysus/Heracles as Indian culture-heroes. Useful bits are the palisade, the boards, and the seven classes.
 
-> ** note:** Megasthenes is not Nearchus and not Aristobulus.
+> **Logic:** Megasthenes is not Nearchus and not Aristobulus.
 
 ---
 
@@ -740,7 +740,7 @@ The *Arthashastra* is the Mauryan **statecraft handbook**. It is **not** the *Mu
 - Strabo also gives them **roads and mile-pillars**. That is option C, the trap.
 - The *Indica* does **not** name Chanakya or the *Arthashastra*.
 
-> ** note:** The seven-caste list is **Indica**, not Manu. Philosophers = Brahmins + Shramanas.
+> **Logic:** The seven-caste list is **Indica**, not Manu. Philosophers = Brahmins + Shramanas.
 
 ---
 
@@ -796,7 +796,7 @@ The Mauryan state lives mainly on land dues. Hold the levy names as separate fac
 - **Tushaspha** under Ashoka cut canals.
 - **Rudradaman** later repaired it (full story in Topic 8).
 
-> ** note:** Rummindei = tax-cut at Lumbini, not a new capital. **Pranaya** = emergency tax.
+> **Logic:** Rummindei = tax-cut at Lumbini, not a new capital. **Pranaya** = emergency tax.
 
 ---
 
@@ -845,7 +845,7 @@ Ashoka did **not** abolish spies. The spy chapter belongs to the *Arthashastra*,
 - Megasthenes’ *ephoroi* are an outsider’s overseers.
 - The king gets secret reports **outside** the normal chain so officers cannot collude.
 
-> ** note:** Spy chapters are **Arthashastra**, not Rock Edict XII. Ashoka did not “abolish spies.”
+> **Logic:** Spy chapters are **Arthashastra**, not Rock Edict XII. Ashoka did not “abolish spies.”
 
 ---
 
@@ -1865,7 +1865,7 @@ D. Kalsi
 ### Years with zero extra hits in local `pyq/` folder
 
 **2021, 2019, 2018** UPPCS GS folder — no further recent Prelims hit beyond the 2020–2024 set already banked. Older UPPCS / RO-ARO / Lower / UKPCS stems above close the Ghatnachakra gap.
-**Out of boundary:** 2022 Chandragupta **II** Shaka coins are Gupta, not Mauryan. Pataliputra is the **Buddhist-council** order. Seleucus treaty detail is the invasion story; the one-line here is **500 elephants + Megasthenes**. Bharhut Shunga art → Topic 8.
+**Out of boundary:** 2022 Chandragupta **II** Shaka coins are Gupta, not Mauryan. Pataliputra is the **Buddhist-council** order. Seleucus treaty detail is the invasion story; the one-line here is **500 elephants + Megasthenes**. Bharhut Shunga art belongs with the post-Mauryan chapter.
 
 ---
 

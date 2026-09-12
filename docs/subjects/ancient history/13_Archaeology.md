@@ -33,7 +33,7 @@ Taught so the method comes before the site: who runs the dig → how layers and 
 12. Harappan site–state facts: **Balu–Haryana**, **Manda–Jammu & Kashmir**, **Padri–Gujarat**, **Hulas–Uttar Pradesh**.
 13. Uttar Pradesh Harappan trio: **Alamgirpur** (Meerut, Hindon), **Hulas** (Baghpat), and **Mandi** (Bijnor, Ramganga).
 14. **Alamgirpur** is the **easternmost** Harappan site in India. **Rakhigarhi** (Haryana) is the largest mound — it is **not** UP and **not** the eastern edge.
-15. **Mandi** (Bijnor, UP) is **notManda** (Chenab belt, J&K). Mixing the two names is a frequent trap.
+15. **Mandi** (Bijnor, UP) is **not Manda** (Chenab belt, J&K). Mixing the two names is a frequent trap.
 16. UP IVC questions often want **Mandi and Hulas** together and reject **Rakhigarhi**. Hulas also appears with Alamgirpur in older UP pairs.
 17. Other UP trenches: **Koldihwa / Mahagara** (Belan, early rice claim), **Hastinapur** (PGW), **Kaushambi**, **Ahichchhatra**, **Sarnath**, **Shravasti**, **Atranjikhera**.
 18. **Robert Bruce Foote** at **Pallavaram** in **1863** first recognised Indian Paleolithic tools.
@@ -72,28 +72,19 @@ Taught so the method comes before the site: who runs the dig → how layers and 
 
 **Archaeological Survey of India | 1861 | Union body under Culture**
 
-- Founded in **1861** under Viceroy **Canning**.
-- The first Director-General is **Alexander Cunningham**.
-- Cunningham used Chinese pilgrim routes to hunt Buddhist sites.
-- He worked at Sarnath, Sanchi, and Bharhut.
-- **John Marshall** is DG from **1902 to 1928**.
-- He makes ASI a standing scientific department.
-- Marshall **announces** the Indus civilization to the world in **1924**.
-- **Mortimer Wheeler** is DG from **1944 to 1948**.
-- He brings the **balk-and-grid** method.
-- Wheeler digs Harappa in **1946**.
-- That is a re-dig, not the discovery.
-- Headquarters is **24 Tilak Marg, New Delhi**.
-- It is not Lucknow.
-- Lucknow has UP **State** Archaeology and the State Museum.
-- That is a different office.
-- The monument law is the **AMASR Act 1958**.
-- Antiquities export sits under the **1972** Act.
-- The journal is *Indian Archaeology — A Review*.
-- Field units are **Circles**, such as Agra, Lucknow, and Patna.
-- Circles are regional offices. **ASI HQ** is **New Delhi**.
+- The Archaeological Survey of India was founded in **1861** under Viceroy **Canning**.
+- The first Director-General was **Alexander Cunningham**, who used Chinese pilgrim routes to hunt Buddhist sites such as Sarnath, Sanchi, and Bharhut.
+- **John Marshall** served as DG from **1902 to 1928** and made ASI a standing scientific department.
+- Marshall **announced** the Indus civilization to the world in **1924**.
+- **Mortimer Wheeler** served as DG from **1944 to 1948** and brought the **balk-and-grid** excavation method.
+- Wheeler re-dug Harappa in **1946**; that is a later method dig, not the discovery of the civilisation.
+- ASI headquarters is **24 Tilak Marg, New Delhi**, not Lucknow.
+- Lucknow holds UP **State** Archaeology and the State Museum — a different office from ASI HQ.
+- Monument protection sits under the **AMASR Act 1958**; antiquities export sits under the **1972** Act.
+- The Survey’s journal is *Indian Archaeology — A Review*.
+- Field units are regional **Circles** (for example Agra, Lucknow, and Patna), while **ASI HQ** remains New Delhi.
 
-> ** note:** Cunningham founded the Survey. Marshall announced IVC. Wheeler did not discover it.
+> **Logic:** Cunningham founded the Survey. Marshall announced IVC. Wheeler did not discover it.
 
 ---
 
@@ -101,15 +92,14 @@ Taught so the method comes before the site: who runs the dig → how layers and 
 
 **Layers in the trench | relative dating | deeper is older**
 
-- A habitation mound is a stack of floors, dumps and fills.
-- **Law of superposition:** the **bottom** layer is **older** than the top, if the stack is not flipped.
-- A **balk** is the uncut wall Wheeler leaves so you can still **read** the layers.
-- **Vertical** cut = all periods, one chronology.
-- **Horizontal** scrape = one floor, one culture.
-- **Typology** (pottery shape, tool type) sits beside layers. It is also relative.
-- Stratigraphy cannot give “2600 BCE” by itself. That needs an absolute clock.
+- A habitation mound is a stack of floors, dumps, and fills built over time.
+- By the **law of superposition**, the **bottom** layer is **older** than the top if the stack is not flipped by later pits or dumps.
+- A **balk** is the uncut wall Wheeler leaves so the trench section can still be **read**.
+- A **vertical** cut shows all periods in one chronology; a **horizontal** scrape exposes one floor and one culture horizon.
+- **Typology** (pottery shape, tool type) sits beside layers as another relative clock.
+- Stratigraphy alone cannot give “2600 BCE”; that needs an absolute clock such as C-14.
 
-> ** note:** Deeper ≠ always older if a pit is cut down from a later floor. Read the section, not the depth number alone.
+> **Logic:** Deeper ≠ always older if a pit is cut down from a later floor. Read the section, not the depth number alone.
 
 ---
 
@@ -117,21 +107,15 @@ Taught so the method comes before the site: who runs the dig → how layers and 
 
 **Absolute date | organic carbon only | Libby**
 
-- **Willard Libby** opens the 1949 Nobel path.
-- The method is in use from the late 1940s.
+- **Willard Libby** opened the radiocarbon path that led to the 1949 Nobel recognition, and the method has been in use since the late 1940s.
 - The **half-life** of C-14 is about **5730 years**.
-- It works on **charcoal, wood, bone, seed, and shell**.
-- Those are living things that took in carbon.
-- It does **not** date a stone tool or a copper sword by itself.
-- Date the charcoal **with** the object.
-- The useful range is roughly to about 50,000 years.
-- After that the leftover C-14 is too thin.
-- Fired pottery can use **thermoluminescence (TL)** instead.
-- That is a different clock and a different sample.
-- This is how Mature Harappan sits near **about 2600–1900 BCE**.
-- It is not “guesswork from bricks.”
+- The method works on **charcoal, wood, bone, seed, and shell** — once-living samples that took in carbon.
+- It does **not** date a stone tool or a copper sword by itself; date the charcoal or organic matter found **with** the object.
+- The useful range is roughly to about 50,000 years; after that leftover C-14 is too thin to read well.
+- Fired pottery can use **thermoluminescence (TL)** instead — a different clock and a different sample type.
+- Mature Harappan chronology near **about 2600–1900 BCE** rests on absolute clocks plus pottery and stratigraphy, not guesswork from bricks alone.
 
-> ** note:** C-14 = organic. Stone handaxe ≠ a C-14 sample.
+> **Logic:** C-14 = organic. Stone handaxe ≠ a C-14 sample.
 
 ---
 
@@ -187,13 +171,13 @@ D. Kalibangan and Ropar
 
 </details>
 
-> ** note:** Wakankar ≠ Vatsa. Wheeler ≠ Sahni.
+> **Logic:** Wakankar ≠ Vatsa. Wheeler ≠ Sahni.
 
 ---
 
 ## 13.5 Archaeological Sites
 
-**Paper wants present state | two match-lists to freezeprehistoric site → state**
+**Paper wants present state | two match-lists to freeze: prehistoric site → state**
 
 | Site | State |
 |------|--------|
@@ -243,17 +227,17 @@ A. 3 2 1 4 B. 2 3 4 1 C. 2 4 3 1 D. 3 2 4 1
 
 </details>
 
-- Bhimbetka = **MP**. UNESCO rock shelters. Not a UP site.
-- Rakhigarhi = **Hisar, Haryana**. Largest IVC. **Not UP.**
-- Mehrgarh = Balochistan. Pre-Harappan farming. Not in India.
+- **Bhimbetka** is in **Madhya Pradesh** as a UNESCO rock-shelter complex, not a Uttar Pradesh site.
+- **Rakhigarhi** lies in **Hisar, Haryana**, and is the largest Indus mound — it is **not** in Uttar Pradesh.
+- **Mehrgarh** is in Balochistan and marks pre-Harappan farming; it is not an Indian-state match option.
 
-> ** note:** Manda ≠ Mandi. Padri ≠ Hulas.
+> **Logic:** Manda ≠ Mandi. Padri ≠ Hulas.
 
 ---
 
 ## 13.6 Archaeological Sites of Uttar Pradesh
 
-**IVC east fringe + doab mounds + Buddhist/MauryanUP Harappan trio (learn cold)**
+**IVC east fringe + doab mounds + Buddhist / Mauryan UP sites (learn cold)**
 
 | Site | District / river | Fact |
 |------|------------------|------|
@@ -271,22 +255,15 @@ A. 3 2 1 4 B. 2 3 4 1 C. 2 4 3 1 D. 3 2 4 1
 
 **Other UP trenches**
 
-- **Sanauli** in Baghpat, excavated in **2018**, yielded copper **chariots**, coffins, and antenna swords.
-- It is Late Harappan / OCP overlap.
-- It sits in the same district as Hulas, with a different period-label.
-- **Koldihwa** and **Mahagara** on the Belan near Prayagraj are Neolithic.
-- They carry an early **rice** claim.
-- **Hastinapur** in Meerut is a PGW and Kuru mound.
-- Lal’s flood-layer story belongs here.
-- **Kaushambi** near Prayagraj is the Vatsa capital.
-- It has a Mauryan–Gupta stack.
-- The Allahabad pillar stone was moved from here.
-- **Ahichchhatra** in Bareilly is Panchala.
-- **Sarnath** at Varanasi is the first-sermon site.
-- It has the Ashokan lion capital.
-- It was Cunningham’s hunting ground.
-- **Rajghat** is the old Kashi rampart.
-- **Shravasti** at Sahet-Mahet is Kosala and Jetavana.
+- **Sanauli** in Baghpat, excavated in **2018**, yielded copper **chariots**, coffins, and antenna swords in a Late Harappan / OCP setting.
+- It sits in the same district as Hulas, but the period label is different.
+- **Koldihwa** and **Mahagara** on the Belan near Prayagraj are Neolithic sites with an early **rice** claim.
+- **Hastinapur** in Meerut is a PGW and Kuru mound linked with Lal’s flood-layer story.
+- **Kaushambi** near Prayagraj is the Vatsa capital with a Mauryan–Gupta stack; the Allahabad pillar stone was moved from here.
+- **Ahichchhatra** in Bareilly is the Panchala mound.
+- **Sarnath** at Varanasi is the first-sermon site with the Ashokan lion capital and was one of Cunningham’s hunting grounds.
+- **Rajghat** preserves the old Kashi rampart.
+- **Shravasti** at Sahet-Mahet is the Kosala and Jetavana card.
 - **Atranjikhera** in Etah is a PGW type-site.
 
 **PYQ — UPPCS Prelims 2025, Q87**
@@ -345,11 +322,19 @@ A. I, II, III, IV B. I, II C. II, III D. III, IV
 
 </details>
 
-> ** note:** Eastern IVC end in India = **Alamgirpur** (Meerut). Largest mound = **Rakhigarhi** (Haryana).
+> **Logic:** Eastern IVC end in India = **Alamgirpur** (Meerut). Largest mound = **Rakhigarhi** (Haryana).
 
 ---
 
 ## 13.7 Archaeological Cultures — Pottery and Metal Horizons
+
+**Doab sequence memory | pottery labels are period clocks**
+
+- **OCP** (Ochre Coloured Pottery) marks the eastern doab Chalcolithic horizon and often pairs with **Copper Hoard** finds.
+- **PGW** (Painted Grey Ware) is the classic **Later Vedic** north Indian ware; Hastinapur and Atranjikhera are type mounds.
+- **NBPW** (Northern Black Polished Ware) rises with second urbanisation from about the **sixth century BCE** and remains thick in **Mauryan** cities.
+- **Megalithic** burials with large stones belong mainly to the Iron-age **south**; they are not a Harappan city label.
+- Safe doab memory order is **Late Harappan / OCP → PGW → NBPW**.
 
 | Culture | Marker | Usual date / link |
 |---------|--------|-------------------|
@@ -358,7 +343,17 @@ A. I, II, III, IV B. I, II C. II, III D. III, IV
 | **NBPW** (Northern Black Polished Ware) | lustrous northern fine ware | ~6th c. BCE rise; **Mauryan** cities |
 | **Megalithic** | burials with big stones | Iron-age **south**; not Harappan |
 
-## 13.8 Major Excavation Sites — ADD Cards
+---
+
+## 13.8 Major Excavation Sites — Signature Cards
+
+**One site = one sentence | state first, then signature**
+
+- **Rakhigarhi** in Haryana is the largest Indus mound in India and is **not** in Uttar Pradesh.
+- **Dholavira** in Gujarat, excavated by **R.S. Bisht**, is remembered for reservoirs, the stone signboard, and three-part town planning.
+- **Kalibangan** in Rajasthan, excavated by **B.B. Lal**, is remembered for the ploughed field and fire altars.
+- **Banawali** in Haryana is a fortified Harappan town with a more radial street plan.
+- **Surkotada** in Gujarat is a small Harappan fort whose horse-bone claim remains disputed.
 
 | Site | State | Excavator / fact | Signature find |
 |------|-------|------------------|----------------|
@@ -368,7 +363,17 @@ A. I, II, III, IV B. I, II C. II, III D. III, IV
 | **Banawali** | Haryana | — | fortified Harappan town |
 | **Surkotada** | Gujarat | — | Harappan fort; horse-bone debate |
 
+---
+
 ## 13.9 Dating Methods — Beyond C-14
+
+**Relative clocks answer older/younger | absolute clocks answer calendar years**
+
+- **Stratigraphy** reads soil layers for relative order only.
+- **Typology** matches pottery and tool shapes across sites as another relative clock.
+- **Radiocarbon (C-14)** dates organic samples (charcoal, bone, seed) using a half-life of about **5730 years**.
+- **Thermoluminescence (TL)** dates fired pottery or bricks by asking when the object was last heated.
+- Use relative methods to order a trench; use C-14 or TL when the stem wants a calendar band.
 
 | Method | Samples | Fact |
 |--------|---------|------|

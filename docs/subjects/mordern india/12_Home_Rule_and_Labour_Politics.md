@@ -10,7 +10,7 @@ Morley–Minto Reforms (context) | Lucknow Pact | Home Rule Movement | National 
 
 > **Sources baked in:** Spectrum, Bipan Chandra, NCERT Themes III, Ghatnachakra Purvalokan (Morley–Minto / Lucknow Pact / Home Rule; Trade Union and Communist Party), UPPCS Prelims 2018–2025
 > **Weight:** ★★★ — two Home Rule leagues, Besant/Tilak, CSP year traps, Justice Party, WPP, AITUC map, BHU
-> **Last verified:** September 2026
+> **Last verified:** September 2026 gap audit — Home Rule + Lucknow Pact CCR filled; Extra Drill present (no invented mega banks)
 > **Current Affairs:** N/A (historical; skip NEP 2020)
 
 ---
@@ -95,9 +95,17 @@ Morley–Minto Reforms (context) | Lucknow Pact | Home Rule Movement | National 
 ## 12.1 Home Rule Movement
 
 **Demand:** self-government for India **within the British Empire** (Irish Home Rule model)
-**Years:1916–18** (peak); wartime politics after Tilak’s return and Besant’s press campaign
+**Years:** **1916–18** (peak); wartime politics after Tilak’s return and Besant’s press campaign
 
-- The **Lucknow Pact** and the **Montagu Declaration** belong to this same wartime season. Each has its own full teaching card next.
+**Causes**
+
+- World War I made Britain need Indian men and money; nationalists said pay, then give **self-government**.
+- After Surat’s long split, Extremists needed a **constitutional** mass programme short of later Gandhian satyagraha.
+- Besant had floated the Home Rule idea in ***Commonweal*** from **1914**; Tilak’s return from Mandalay gave Maharashtra a ready organiser.
+
+**Course**
+
+- Two leagues, **not one**. They **cooperated** but **did not permanently merge** in 1916–18.
 
 | Feature | Tilak’s Indian Home Rule League | Besant’s All India Home Rule League |
 |---------|--------------------------------|-------------------------------------|
@@ -107,20 +115,21 @@ Morley–Minto Reforms (context) | Lucknow Pact | Home Rule Movement | National 
 | Office | **Joseph Baptista** President; **N.C. Kelkar** Secretary | Besant; **George Arundale**, **B.P. Wadia**, S. Subramania Iyer |
 | Area | Maharashtra **except Bombay city**, Karnataka, CP, Berar | Rest of India **including Bombay city** |
 
-- World War I made Britain need Indian men and money. Home Rule said: pay, then give **self-government**.
-- Two leagues, **not one**. Bombay **city** is Besant’s zone, not Tilak’s.
-- The two leagues **cooperated** but **did not permanently merge** in 1916–18; Besant said some of each side’s supporters disliked the other leader.
-- Papers: Tilak’s ***Kesari*** and ***Mahratta***; Besant’s ***Commonweal*** and ***New India***. Besant floated the Home Rule idea in *Commonweal* from **1914**.
+- Papers: Tilak’s ***Kesari*** and ***Mahratta***; Besant’s ***Commonweal*** and ***New India***.
 - Home Rule meant **responsible government under the Empire** (like the white Dominions), with religious freedom, national education and social–political reform on the programme.
 - Lucknow **1916** was the show of strength for both leagues (Tilak’s supporters even ran a special train often nicknamed the Home Rule / Congress Special).
-- On **16 June 1917**, Besant, Arundale and Wadia were interned.
-- Protest made Home Rule a mass slogan. They were released in September.
+- On **16 June 1917**, Besant, Arundale and Wadia were interned; protest made Home Rule a mass slogan; they were released in September.
 - In **December 1917**, Besant became the **first woman President** of Congress, at Calcutta.
+
+**Results**
+
+- Pressure from Home Rule and the Lucknow joint demand helped produce the **Montagu Declaration (20 August 1917)** — a statement of intent for responsible government.
 - The movement declined after Montagu–Chelmsford hope, Tilak’s time abroad, and Gandhi’s mass methods.
 - In **1920** Gandhi was elected president of the All-India Home Rule League and renamed it **Swarajya Sabha**.
 - Among Home Rule, Khilafat, Jallianwala and Moplah, Home Rule (**1916**) is earliest; Moplah (**1921**) is last.
+- The **Lucknow Pact** and the **Montagu Declaration** belong to this same wartime season. Each has its own full teaching card next.
 
-> **Logic:** Tilak = **April 1916 Poona Baptista**. Besant = **September 1916 Madras**. Two leagues.
+> **Logic:** Tilak = **April 1916 Poona Baptista**. Besant = **September 1916 Madras**. Two leagues. Bombay **city** is Besant’s zone.
 
 **PYQ — UPPCS Prelims 2023, Q47**
 
@@ -137,7 +146,9 @@ D. Moplah Revolt
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Home Rule is first (1916). Duplicate allowed with Topic 8 / 11.
+**Logic:** Chronology ladder — Home Rule 1916 → Khilafat/Jallianwala 1919–20 season → Moplah 1921 last.
+
+**Ans: D.** Home Rule is first (**1916**). Moplah Revolt is last (**1921**).
 
 </details>
 
@@ -145,20 +156,30 @@ D. Moplah Revolt
 
 ## 12.2 Lucknow Pact (December 1916)
 
-**Where:** Lucknow session of Congress, presided by **Ambika Charan MajumdarParties:Indian National Congress** and the **All India Muslim League**
+**Where:** Lucknow session of Congress, presided by **Ambika Charan Majumdar**
+**Parties:** **Indian National Congress** and the **All India Muslim League**
 
-- The Pact is a **teaching fact in its own right**, not only a date to defend against the 1911 Delhi Durbar.
-- It marked the **reunion of Moderates and Extremists** after the 1907 Surat split, and in the same session Congress and the League worked out joint political demands for the first time.
-- The League accepted **separate electorates** in exchange for supporting a common reform demand.
-- The two bodies agreed on **weightage**: Muslims got representation above their population share in provinces where they were a minority (such as the UP and Bihar belt), and correspondingly less than their share in provinces where they were a majority (such as Punjab and Bengal), so that neither community felt permanently outvoted.
+**Causes**
+
+- Moderates and Extremists needed reunion after the long **Surat (1907)** break if Congress was to speak with one wartime voice.
+- The League wanted security for Muslim representation; Congress wanted a joint reform demand while Britain was at war.
+- Tilak and Besant’s Home Rule energy made a Congress–League bargain politically useful in **1916**.
+
+**Course**
+
+- At the same Lucknow session, Moderates and Extremists **reunited**, and Congress and the League worked out joint political demands for the first time.
+- The League kept **separate electorates**; Congress **accepted** them as a temporary bargain (the system itself began in **1909**).
+- The two bodies agreed on **weightage**: Muslims got representation above their population share in provinces where they were a minority (such as the UP and Bihar belt), and correspondingly less than their share in provinces where they were a majority (such as Punjab and Bengal).
 - Both bodies jointly demanded **self-government**, an expansion of legislative councils, and a larger elected element in government.
-- This joint demand fed directly into the pressure that produced the **Montagu Declaration** less than a year later.
-- The Pact is Congress's **only** major formal seat-sharing deal with the League until the failed Cabinet Mission talks of 1946.
 - **Tilak** and **Jinnah** are the chief architects of the Congress–League bargain; **Besant** and **Tilak** pushed the **Extremist reunion** inside Congress.
 - **Sarojini Naidu** called Jinnah the **Ambassador of Hindu–Muslim Unity** for this season.
-- Congress **accepted separate electorates** in the Pact — that is the long-term implication often asked (the system itself began in **1909**).
-- Rough period of Congress–League working unanimity after the Pact is often keyed **1916–1922**, until Non-Cooperation politics pulled them apart.
 - At the same Lucknow session, **Raj Kumar Shukla** first briefed Gandhi on the **Champaran** indigo peasants’ distress.
+
+**Results**
+
+- The joint demand fed directly into the pressure that produced the **Montagu Declaration** less than a year later.
+- The Pact is Congress's **only** major formal seat-sharing deal with the League until the failed Cabinet Mission talks of 1946.
+- Rough period of Congress–League working unanimity after the Pact is often keyed **1916–1922**, until Non-Cooperation politics pulled them apart.
 - Do **not** place it at the 1911 Delhi Durbar. Do not confuse it with the Home Rule Leagues, which are separate wartime organisations founded a few months earlier in **1916**.
 
 > **Logic:** Lucknow Pact = **December 1916**, Congress–League reunion + separate electorates + weightage. Not 1911. Not a Home Rule league.

@@ -118,7 +118,7 @@ Origin · Chandragupta I · Samudragupta · Chandragupta II · Kumaragupta I · 
 - **Kalidasa** is not the author of *Shringara Shataka* (**Bhartrihari**).
 - *Mudrarakshasa* is Vishakhadatta’s play. It is not the *Arthashastra*.
 
-> ** note:** Full Navaratna / science teaching stays in the Gupta Literature cards.
+> **Logic:** Full Navaratna / science teaching stays in the Gupta Literature cards.
 
 ---
 
@@ -136,7 +136,7 @@ Origin · Chandragupta I · Samudragupta · Chandragupta II · Kumaragupta I · 
 - Gupta **samvat** is often pegged at **319–320 CE**, Chandragupta I’s accession in most coaching notes.
 - The line to learn is Sri Gupta, then Ghatotkacha, then Chandragupta I, then Samudragupta, then Chandragupta II, then Kumaragupta I, then Skandagupta.
 
-> ** note:** Sri Gupta and Ghatotkacha are **Maharaja**. The imperial title starts with **Chandragupta I**.
+> **Logic:** Sri Gupta and Ghatotkacha are **Maharaja**. The imperial title starts with **Chandragupta I**.
 
 ---
 
@@ -150,7 +150,7 @@ Origin · Chandragupta I · Samudragupta · Chandragupta II · Kumaragupta I · 
 - Prayag later calls Samudragupta the **Lichchhavi-dauhitra**, daughter’s son of the Lichchhavis.
 - Gupta era **319/320 CE** is usually tied to his accession. The capital is **Pataliputra**. His son and successor is **Samudragupta**.
 
-> ** note:** King-queen gold is not Chandragupta II’s Shaka silver.
+> **Logic:** King-queen gold is not Chandragupta II’s Shaka silver.
 
 ---
 
@@ -202,7 +202,7 @@ Samudragupta’s wars are remembered as a **digvijaya**. The main source is the 
 - Frontier tribute includes Samatata, **Davaka**, **Kamarupa**, **Nepala**, and **Karttripura**.
 - Ganarajya tribute includes Malava, **Yaudheya**, **Arjunayana**, and **Madraka**.
 
-> ** note:** South = **tribute and restore**. North = **uproot**. Vishnugopa ≠ a Magadha king.
+> **Logic:** South = **tribute and restore**. North = **uproot**. Vishnugopa ≠ a Magadha king.
 
 **PYQ — UPPCS Prelims 2018, Q87**
 
@@ -288,7 +288,7 @@ A. 1, 2, 3, 4 B. 4, 3, 1, 2 C. 2, 1, 4, 3 D. 3, 4, 2, 1
 
 </details>
 
-> ** note:** Chandragupta **II** ≠ Chandragupta **I**. Chandragupta **II** ≠ Chandragupta **Maurya**.
+> **Logic:** Chandragupta **II** ≠ Chandragupta **I**. Chandragupta **II** ≠ Chandragupta **Maurya**.
 
 ---
 
@@ -296,12 +296,12 @@ A. 1, 2, 3, 4 B. 4, 3, 1, 2 C. 2, 1, 4, 3 D. 3, 4, 2, 1
 
 **Son of Chandragupta II and Dhruvadevi | ~415–455 CE | Mahendraditya | Nalanda patron**
 
-- Takes the title **Mahendraditya**. Performs **ashvamedha**. Horse / peacock types on gold.
-- Tradition: founds **Nalanda** mahavihara. Chinese *Shakraditya*. Full Nalanda card later in this file.
-- **Dashpur / Mandasor** silk-weavers’ inscription sits in his age. Local governor **Bandhuvarman** is named. The silk **shreni** from the Lata region built a **Sun** temple and later repaired it. Coaching often calls this the earliest Indian “advertisement” style guild record. Composer tradition names **Vatsabhatti**, not Bhavabhuti.
+- Takes the title **Mahendraditya**. Performs **ashvamedha**. Horse and peacock types appear on his gold.
+- Tradition remembers him as founder-patron of the **Nalanda** mahavihara; Chinese sources use the name *Shakraditya* for that patronage memory.
+- The **Dashpur / Mandasor** silk-weavers’ inscription sits in his age. Local governor **Bandhuvarman** is named. The silk **shreni** from the Lata region built a **Sun** temple and later repaired it. Coaching often calls this the earliest Indian “advertisement” style guild record. Composer tradition names **Vatsabhatti**, not Bhavabhuti.
 - Pushyamitra / other frontier trouble starts near the end of the reign. Son and successor: **Skandagupta**.
 
-> ** note:** Nalanda founder-patron = **Kumaragupta I**, not Fa-Hien and not Xuanzang.
+> **Logic:** Nalanda founder-patron = **Kumaragupta I**, not Fa-Hien and not Xuanzang.
 
 ---
 
@@ -324,10 +324,10 @@ Skandagupta is the last strong imperial Gupta. His reign is remembered for holdi
 - He is the son of Kumaragupta I.
 - The **Junagadh / Girnar** inscription records repair of the **Sudarsana** lake (after the older Rudradaman repair).
 - Titles include **Vikramaditya** / **Kramaditya** on some coin types.
-- After him the centre thins: Purugupta, Buddhagupta, Narasimhagupta Baladitya — names only.
+- After him the centre thins. Later names remembered in coaching lists include Purugupta, Buddhagupta, and Narasimhagupta Baladitya.
 - The imperial Gupta clock ends about the 6th century. The next political reunion in the north is **Harsha**.
 
-> ** note:** Bhitari = **Skandagupta vs Hunas**. Not Samudragupta’s south march.
+> **Logic:** Bhitari = **Skandagupta vs Hunas**. Not Samudragupta’s south march.
 
 ---
 
@@ -366,7 +366,7 @@ The Gupta state is **not** a Mauryan-style spy-and-adhyaksha machine. Power is s
 - The **Vayu Purana does not** give a Gupta admin manual. That claim is **false**.
 - The Vishnu Purana *does* carry Maurya names.
 
-> ** note:** “Guptas more central than Mauryas” is the trap.
+> **Logic:** “Guptas more central than Mauryas” is the trap.
 
 ---
 
@@ -391,7 +391,7 @@ The Gupta state is **not** a Mauryan-style spy-and-adhyaksha machine. Power is s
 - Village elders settle petty cases. King is the last court.
 - No Arthashastra-style spy book as the Gupta headline.
 
-> ** note:** Bhukti ≠ Vishaya. Do not skip **Vithi** in the ladder.
+> **Logic:** Bhukti ≠ Vishaya. Do not skip **Vithi** in the ladder.
 
 ---
 
@@ -413,7 +413,7 @@ The Gupta state is **not** a Mauryan-style spy-and-adhyaksha machine. Power is s
 - Copper plates = *tamrapatra* land grants.
 - **Ishanavarman**–Haraha / Sarvavarman–Gaya pairs are **Maukhari / later Gupta**, not this imperial set. Gaya plate is still Samudragupta.
 
-> ** note:** Bhitari = Skandagupta vs Hunas. Not Samudragupta’s south march.
+> **Logic:** Bhitari = Skandagupta vs Hunas. Not Samudragupta’s south march.
 
 ---
 
@@ -428,7 +428,7 @@ The Gupta state is **not** a Mauryan-style spy-and-adhyaksha machine. Power is s
 - The largest remembered Gupta gold find is the **Bayana** hoard in Bharatpur, Rajasthan. Gupta coins also turn up across UP, Bihar, Bengal, Madhya Pradesh, Rajasthan, and Odisha.
 - Kushan gold already ran in the NW. Gupta gold is the later “classical” portrait set.
 
-> ** note:** 2022 does **not** treat gold as the Shaka-victory proof.
+> **Logic:** 2022 does **not** treat gold as the Shaka-victory proof.
 
 ---
 
@@ -452,7 +452,7 @@ The Gupta state is **not** a Mauryan-style spy-and-adhyaksha machine. Power is s
 - Coaching remembers about **six** famous gold types under **Samudragupta** (Garuda, archer variants, battle-axe, ashvamedha, tiger, lyrist / veena). Do not dump every later subtype into that six.
 - Standard is often near **120–144 grains** for **gold**. Silver *rupaka* is about **33 grains**.
 
-> ** note:** Lyrist = Samudragupta. Archer = CG II. King-queen = CG I.
+> **Logic:** Lyrist = Samudragupta. Archer = CG II. King-queen = CG I.
 
 ---
 
@@ -468,7 +468,7 @@ The Gupta state is **not** a Mauryan-style spy-and-adhyaksha machine. Power is s
 - End ~6th c. Huna pressure + samanta drift. Harsha is the next north reunion, not a Gupta.
 - Six orthodox darshanas (Nyaya, Vaisheshika, Samkhya, Yoga, Mimamsa, Vedanta) and Charvaka sit in the Religious Movements chapter — do not dump them here as Gupta inventions.
 
-> ** note:** Golden age ≠ “no samantas, no decline.”
+> **Logic:** Golden age ≠ “no samantas, no decline.”
 
 ---
 
@@ -483,7 +483,7 @@ The Gupta state is **not** a Mauryan-style spy-and-adhyaksha machine. Power is s
 - Praise text. Not a campaign diary with dates.
 - *Devichandraguptam* is **Vishakhadatta**, not Harishena.
 
-> ** note:** Prashasti = the **words**. The **shaft** they sit on is the Allahabad / Prayag pillar.
+> **Logic:** Prashasti = the **words**. The **shaft** they sit on is the Allahabad / Prayag pillar.
 
 ---
 
@@ -497,7 +497,7 @@ The Gupta state is **not** a Mauryan-style spy-and-adhyaksha machine. Power is s
 - Layer 3: Gupta layer = Harishena’s **Prayag Prashasti** of Samudragupta in Sanskrit / Brahmi.
 - Layer 4: **Jahangir** later wrote on it in Persian. Birbal’s name also appears in later memory of the shaft.
 
-> ** note:** The pillar is not “only Gupta.” It is Ashoka’s shaft reused.
+> **Logic:** The pillar is not “only Gupta.” It is Ashoka’s shaft reused.
 
 ---
 
@@ -524,7 +524,7 @@ The Gupta state is **not** a Mauryan-style spy-and-adhyaksha machine. Power is s
 | **Vikramashila** | Bengal–Bihar belt | **Pala Dharmapala** |
 | **Vallabhi** | Gujarat | **Maitraka**; Jain Svetambara council |
 
-> ** note:** Founder-patron fact = **Kumaragupta I** for Nalanda. Xuanzang ≠ Fa-Hien. Vallabhi ≠ Vaishali.
+> **Logic:** Founder-patron fact = **Kumaragupta I** for Nalanda. Xuanzang ≠ Fa-Hien. Vallabhi ≠ Vaishali.
 
 ---
 
@@ -542,7 +542,7 @@ The Gupta state is **not** a Mauryan-style spy-and-adhyaksha machine. Power is s
 - Ajanta’s famous painted caves are largely **Vakataka** (Deccan allies), with Gupta-age style links.
 - The Mehrauli iron pillar is rust-resistant iron. “Chandra” on it is usually **Chandragupta II**.
 
-> ** note:** Sarnath is Gupta. Gandhara is Kushan. Ajanta is not the default Gupta fact.
+> **Logic:** Sarnath is Gupta. Gandhara is Kushan. Ajanta is not the default Gupta fact.
 
 ---
 
@@ -618,7 +618,7 @@ A. 3 4 1 2 B. 4 3 2 1 C. 4 3 1 2 D. 3 4 2 1
 
 </details>
 
-> ** note:** Jayadeva, Somadeva, and Kshemendra are **later** than the Gupta court. Kalidasa belongs to **Chandragupta II**.
+> **Logic:** Jayadeva, Somadeva, and Kshemendra are **later** than the Gupta court. Kalidasa belongs to **Chandragupta II**.
 
 ---
 
@@ -632,7 +632,7 @@ A. 3 4 1 2 B. 4 3 2 1 C. 4 3 1 2 D. 3 4 2 1
 - Medicine circulates in *Sushruta* and *Charaka* redactions. **Sushruta** is far earlier than the Gupta court — do not make him a Gupta contemporary. **Dhanvantari** is the Navaratna medicine name for this age.
 - The Mehrauli pillar is rust-resistant iron. “Chandra” on it is usually **Chandragupta II**. Decimal place-value is in use. “Aryabhata invented zero” is too crude for a sharp true/false. He uses place value.
 
-> ** note:** Aryabhata is not Varahamihira. Fa-Hien did not write the *Aryabhatiya*. *Lilavati* is not Gupta.
+> **Logic:** Aryabhata is not Varahamihira. Fa-Hien did not write the *Aryabhatiya*. *Lilavati* is not Gupta.
 
 ---
 
@@ -640,18 +640,20 @@ A. 3 4 1 2 B. 4 3 2 1 C. 4 3 1 2 D. 3 4 2 1
 
 **~455–550 CE | Hunas + samantas + urban thinning**
 
-- **Causes:** repeated **Huna** pressure after Skandagupta; growing **land grants** shrinking direct revenue; **samanta** feudatories; loss of western silver zones.
-- **Course:** Skandagupta holds at **Bhitari**. Later rulers shrink the Magadha core. **Toramana** and **Mihirakula** press from the northwest. **Narasimhagupta Baladitya** is remembered checking Mihirakula. Many earlier valley towns thin; by Xuanzang’s day **Pataliputra** looks village-like. Mathura and other old centres also show decline layers.
-- **Result:** no stable pan-north emperor after ~550 CE. **Harsha** (606) reunites the upper Gangetic core temporarily.
+**Cause:** Repeated **Huna** pressure after Skandagupta, growing **land grants** that shrank direct revenue, rising **samanta** feudatories, and loss of western silver zones weakened the Gupta centre.
+
+**Course:** Skandagupta holds at **Bhitari**. Later rulers shrink the Magadha core. **Toramana** and **Mihirakula** press from the northwest. **Narasimhagupta Baladitya** is remembered checking Mihirakula. Many earlier valley towns thin; by Xuanzang’s day **Pataliputra** looks village-like. Mathura and other old centres also show decline layers.
+
+**Result:** No stable pan-north emperor remains after about **550 CE**. **Harsha** (606) reunites the upper Gangetic core only for a time.
 
 ## 9.20 Fa-Hien (Faxian) — Gupta-age Chinese Traveller
 
 **~399–414 CE | Chandragupta II | *Fo Guo Ji***
 
-- Purpose: collect **Vinaya** texts — not Mahayana sutra hunting (that is Xuanzang's later aim).
-- Route: Central Asia → Pataliputra → Mathura → **Tamralipti**. He does **not** describe **Nalanda** as a famous campus (founded under Kumaragupta I).
+- Fa-Hien’s purpose is to collect **Vinaya** texts, not to hunt Mahayana sutras (that later aim belongs to Xuanzang).
+- His route runs Central Asia → Pataliputra → Mathura → **Tamralipti**. He does **not** describe **Nalanda** as a famous campus (Nalanda’s founder-patron is Kumaragupta I).
 - He remembers **cowries** in routine market use and a free **hospital / charity house at Pataliputra** endowed by citizens.
-- Book: ***Fo Guo Ji***. Chronology: **before** Hiuen Tsang → I-tsing → Al-Biruni.
+- His book is the ***Fo Guo Ji***. Chronology places him **before** Hiuen Tsang, I-tsing, and Al-Biruni.
 
 ## 9.21 Ancient Universities — Full Four-Way Card
 
@@ -662,7 +664,7 @@ A. 3 4 1 2 B. 4 3 2 1 C. 4 3 1 2 D. 3 4 2 1
 | **Vikramashila** | Bhagalpur belt | **Pala Dharmapala** (~8th c.) | Mahayana, Tantra; **Atisa** taught here | Destroyed ~12th c. |
 | **Vallabhi** | Gujarat | **Maitraka** rulers | Brahmanical + Jain; **Svetambara Jain council** (~5th c.) | Not Vaishali; not Buddhist 2nd council |
 
-> ** note:** Founder four-way = Taxila (pre-Mauryan) | Nalanda (Kumaragupta I) | Vikramashila (Dharmapala) | Vallabhi (Maitraka).
+> **Logic:** Founder four-way = Taxila (pre-Mauryan) | Nalanda (Kumaragupta I) | Vikramashila (Dharmapala) | Vallabhi (Maitraka).
 
 ## 9.22 Gupta–Vakataka Alliance
 
@@ -687,7 +689,7 @@ A. 3 4 1 2 B. 4 3 2 1 C. 4 3 1 2 D. 3 4 2 1
 - Women’s status is not equal with men in this age. First inscriptional **sati** memory is **Eran ~510 CE** (widow of commander **Goparaja**).
 - Vaishya caravan / guild heads appear as **sarthavaha**. Guild law is *samaya / shreni-dharma*.
 
-> ** note:** Tamralipti ≠ Broach. Eran sati ≠ Junagadh lake. *Lilavati* ≠ Gupta.
+> **Logic:** Tamralipti ≠ Broach. Eran sati ≠ Junagadh lake. *Lilavati* ≠ Gupta.
 
 ## UP Focus
 

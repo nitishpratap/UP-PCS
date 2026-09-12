@@ -19,4 +19,4 @@ Advent of Islam, Delhi Sultanate, Bhakti–Sufi, literature, Mughals, Marathas, 
 
 ## Status
 
-Teaching chapters for all three UK dynasty heads are live. Gorkha → British → freedom moves to [Modern India — Uttarakhand](../../mordern%20india/uttarakhand/index.md).
+Teaching chapters expanded (Sep 2026): Katyuri, Parmar, and Chand now carry full-sentence Cause–Course–Result cards, Practice stems with Logic inside Show answer, and Lock→Key cleanup. Gorkha → British → freedom moves to [Modern India — Uttarakhand](../../mordern%20india/uttarakhand/index.md).

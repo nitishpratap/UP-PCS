@@ -10,7 +10,7 @@ Community Development Programme | Etawah Pilot Project | Post-Independence India
 
 > **Sources baked in:** NCERT Politics in India since Independence, Spectrum post-1947, Bipan Chandra, Ghatnachakra Purvalokan (Constituent Assembly), UPPCS Prelims 2018–2025
 > **Weight:** ★★★ — SRC members, CA chronology/committees, Etawah–CDP, PC→NITI, FYP slogans, princely cases, enclave merger routes (Goa/Pondicherry)
-> **Last verified:** September 2026
+> **Last verified:** September 2026 gap audit — CCR filled on Junagadh / Hyderabad / J&K / Goa (Operation Vijay) / Andhra linguistic agitation; Etawah–CDP identity glue fixed; Extra Drill present (no invented mega banks)
 > **Current Affairs:** NITI Aayog (1 Jan 2015) as successor of Planning Commission only — not NITI index reports
 
 ---
@@ -106,23 +106,46 @@ Community Development Programme | Etawah Pilot Project | Post-Independence India
 
 ### Junagadh
 
-- The Nawab wanted **Pakistan**. The population was largely Hindu.
-- The state sat inside Kathiawar.
-- India took over. A **plebiscite in 1948** confirmed accession to India.
+**Cause**
+
+- The Nawab of Junagadh wanted to accede to **Pakistan**, though the population was largely Hindu and the state sat inside Kathiawar, surrounded by Indian territory.
+
+**Course**
+
+- Pakistan’s acceptance of the Nawab’s accession produced a crisis. Local resistance and India’s diplomatic–administrative pressure forced a takeover of the state’s administration.
+
+**Result**
+
+- A **plebiscite in 1948** confirmed accession to India. Junagadh is the classic **plebiscite** route — not Police Action.
 
 ### Hyderabad
 
-- The Nizam wanted independence.
-- **Razakars** under **Kasim Razvi** backed him.
-- **Operation Polo**, the Police Action, came in **September 1948**.
-- Hyderabad acceded and later became a Part B state.
+**Cause**
+
+- The Nizam wanted **independence** rather than accession to India, while **Razakars** under **Kasim Razvi** backed that stand with communal militia pressure inside the state.
+
+**Course**
+
+- Negotiations failed. India launched **Operation Polo**, the Police Action, in **September 1948**, and Indian forces entered Hyderabad.
+
+**Result**
+
+- Hyderabad’s resistance collapsed; the state acceded and later became a **Part B** state in the 1950 map. Hyderabad = **Police Action**, never the Junagadh plebiscite route.
 
 ### Jammu and Kashmir
 
-- A **tribal invasion** began in **October 1947**.
-- Maharaja **Hari Singh** signed the **Instrument of Accession on 26 October 1947**.
-- Indian troops were airlifted on **27 October**.
-- J&K chronology: IoA (**1947**) → Constitution of India (**26 January 1950**) → J&K Constituent Assembly ratification (**1954**) → J&K Constitution (**26 January 1957**).
+**Cause**
+
+- A **tribal invasion** from the Pakistan side began in **October 1947**, threatening Srinagar and forcing Maharaja **Hari Singh** to seek Indian military help.
+
+**Course**
+
+- Hari Singh signed the **Instrument of Accession on 26 October 1947**. Indian troops were airlifted on **27 October** and held the Valley.
+
+**Result**
+
+- Accession brought J&K into India’s constitutional orbit, but full internal settlement ran on a longer clock: IoA (**1947**) → Constitution of India (**26 January 1950**) → J&K Constituent Assembly ratification (**1954**) → J&K Constitution (**26 January 1957**).
+- IoA ≠ full merger of all subjects on day one.
 
 > **Logic:** Three routes — Junagadh **plebiscite**, Hyderabad **Polo**, Kashmir **IoA amid invasion**. IoA ≠ full merger on day one.
 
@@ -168,11 +191,17 @@ D. IV, III, II, I
 
 ### Portuguese Goa, Daman and Diu — Operation Vijay (1961)
 
-- Portugal, unlike France, refused to negotiate a transfer.
-- India used the armed forces in **Operation Vijay**, on **18–19 December 1961**.
-- Goa, Daman and Diu came under Indian control within about 36 hours, with light resistance.
-- The **12th Constitutional Amendment, 1962**, made Goa, Daman and Diu a Union Territory.
-- **Goa became a full State on 30 May 1987.** Daman and Diu stayed a Union Territory.
+**Cause**
+
+- Portugal, unlike France, refused to negotiate a transfer of Goa, Daman and Diu. Diplomatic pressure through the 1950s failed.
+
+**Course**
+
+- India used the armed forces in **Operation Vijay**, on **18–19 December 1961**. Goa, Daman and Diu came under Indian control within about 36 hours, with light resistance.
+
+**Result**
+
+- The **12th Constitutional Amendment, 1962**, made Goa, Daman and Diu a Union Territory. **Goa became a full State on 30 May 1987.** Daman and Diu stayed a Union Territory.
 - **Dadra and Nagar Haveli** was a separate Portuguese pocket. Local action brought it in during 1954, and it became a Union Territory under the **10th Amendment, 1961**.
 
 > **Logic:** French enclaves joined by **referendum** (1949 and 1954). Goa joined by **military action** (**1961**). Dadra and Nagar Haveli is a **third, separate** case, also 1954.
@@ -211,7 +240,7 @@ D. 1 2 4 3
 ## 15.3 Constitution Making
 
 **Body:** Constituent Assembly under the Cabinet Mission plan.
-**First sitting:9 December 1946**. Temporary President **Sachchidananda Sinha**, then **Rajendra Prasad**.
+**First sitting:** **9 December 1946**. Temporary President **Sachchidananda Sinha**, then **Rajendra Prasad**.
 
 - The CA idea was pressed hard at **Faizpur Congress (1936)**. The Assembly itself was elected under the **Cabinet Mission** on roughly **one seat per 10 lakh** population.
 - Strength was **389**. After Partition it was about **299**. Congress ~**208** seats; League ~**73**. **Jinnah** was **not** a member.
@@ -353,8 +382,9 @@ D. Dr. S. Radha Krishnan
 
 ## 15.4 Etawah Pilot Project (1948)
 
-**Place:Mahewa** block, **Etawah district, Uttar PradeshPerson:Albert Mayer** (American planner)
-**Year:1948**
+**Place:** **Mahewa** block, **Etawah district, Uttar Pradesh**
+**Person:** **Albert Mayer** (American planner)
+**Year:** **1948**
 
 - It was multi-purpose village development in agriculture, health, education and cooperatives.
 - It was a **block-level** laboratory, not a single scheme.
@@ -370,7 +400,7 @@ D. Dr. S. Radha Krishnan
 
 ## 15.5 Community Development Programme (2 October 1952)
 
-**Launch:2 October 1952** (Gandhi Jayanti), during the **First Five-Year Plan**. Initially **55** project areas.
+**Launch:** **2 October 1952** (Gandhi Jayanti), during the **First Five-Year Plan**. Initially **55** project areas.
 
 - It was a nationwide rollout of the Etawah idea in agriculture, irrigation, health, education, roads and cooperatives.
 - The field worker was the **Village Level Worker / Gram Sevak**.
@@ -423,9 +453,17 @@ D. 4, 2, 1, 3
 
 **Andhra, 1 October 1953**
 
-- It was the first **linguistic** state, for Telugu.
-- It followed **Potti Sriramulu’s** fast unto death in December 1952.
-- **Andhra Pradesh (1953)** was India’s first linguistic state, not Kerala, Madhya Pradesh or UP.
+**Cause**
+
+- Telugu speakers demanded a separate state from the Madras Presidency after Independence. The **Dhar Commission** and **JVP Committee** had resisted language as the main basis, leaving the demand unresolved.
+
+**Course**
+
+- **Potti Sriramulu** undertook a fast unto death for a Telugu state and died in **December 1952**. Mass unrest followed across the Andhra region.
+
+**Result**
+
+- The Centre created **Andhra** on **1 October 1953** — India’s first **linguistic** state (not Kerala, Madhya Pradesh or UP). The crisis forced appointment of the **States Reorganisation Commission** and the wider **1956** map redraw.
 
 **States Reorganisation Commission**
 

@@ -120,7 +120,7 @@ Taught in time-order: Vedic → Magadha → Maurya → Post-Mauryan → Gupta �
 - The **Vishnu Purana** carries Maurya genealogy. Only statement 1 is true.
 - The Vayu Purana is **not** a Gupta admin manual.
 
-> ** note:** Chandragupta Maurya is not Chandragupta I. Chandragupta I is not Chandragupta II.
+> **Logic:** Chandragupta Maurya is not Chandragupta I. Chandragupta I is not Chandragupta II.
 
 ---
 
@@ -163,7 +163,7 @@ Ancient papers often ask a **title**, not a personal name. Hold the pairs below 
 - **Chakravartin** is the ideal wheel-turning monarch. It is not one king’s exclusive stamp.
 - Title inflation grows from Gupta grants onward.
 
-> ** note:** Vikramaditya is not Samudragupta. Devanampiya is not Harsha.
+> **Logic:** Vikramaditya is not Samudragupta. Devanampiya is not Harsha.
 
 **PYQ — UPPCS Prelims 2023, Q29**
 
@@ -278,7 +278,7 @@ D. Ishwaravarman — Jaunpur stone inscription
 
 </details>
 
-> ** note:** Allahabad shaft = Ashoka first. Gupta layer = Harishena. Not “only Gupta.”
+> **Logic:** Allahabad shaft = Ashoka first. Gupta layer = Harishena. Not “only Gupta.”
 
 ---
 
@@ -365,29 +365,53 @@ A. Both 1 and 2 B. Neither 1 nor 2 C. Only 1 D. Only 2
 | Gupta | grants + bhaga | **Uparika** / **Kumaramatya** | **Sandhivigrahika** |
 | Harsha | grants | **Uparika** | **Mahasandhivigrahika** |
 
-> ** note:** Maurya is **centralised**. Gupta and Harsha run a **samanta** (feudatory) system.
+> **Logic:** Maurya is **centralised**. Gupta and Harsha run a **samanta** (feudatory) system.
 
 ---
 
 ## 11.5 Mauryan Provincial and Revenue Administration
 
-| Piece | Fact |
-|-------|------|
-| Provinces | *Pradeshas*; border provinces often under princes (**kumara**) |
-| Land share | **Bhaga** |
-| Pasture dues | **Pindakara** |
-| Customs | **Sulka** |
-| Collector | **Samaharta** |
-| Treasurer | **Sannidhata** |
-| Rural revenue officers | Megasthenes’ **agronomai** |
-| Weights | *Pautavadhyaksha* |
+**Provinces collect; treasury stores | do not reverse Samaharta and Sannidhata**
+
+- The empire is divided into **pradeshas** (provinces). Border provinces are often placed under royal princes called **kumara**.
+- The king’s share of produce is **bhaga**. Pasture dues appear as **pindakara**. Customs and tolls appear as **sulka**.
+- The **Samaharta** is the chief collector of revenue. The **Sannidhata** stores the treasury. Do not reverse collector and treasurer.
+- Megasthenes’ **agronomai** are rural revenue officers of the Mauryan countryside.
+- The weights and measures officer is the ***pautavadhyaksha***.
+- District land and justice work sits with the **rajuka**. Village circles run through *sthanika* and *gopa* under the wider stack: empire → province → ahara/vishaya → village.
+
+---
 
 ## 11.6 Mauryan Spy System (*Gudhapurusha*)
 
-- Kautilya lists **spy** types: secret agents, wandering ascetics, household informers.
-- Purpose: test officials, watch frontier, gather intelligence — part of the **centralised** Mauryan state.
+**Centralised watch | Arthashastra intelligence | not a Gupta machine**
+
+- Kautilya’s *Arthashastra* treats spies (*gudhapurusha*) as part of the **centralised** Mauryan state.
+- Spy types in coaching lists include secret agents, wandering ascetics, and household informers.
+- Their jobs are to test officials, watch the frontier, and gather political and military intelligence.
+- The Gupta and Harsha ages do **not** run the same paid spy-state image; they lean on feudatory *samanta* ties instead.
+
+---
+
+## 11.7 Gupta and Harsha Official Ladder
+
+**Bhukti → vishaya | titles inflate under Harsha | samanta land grip**
+
+- A Gupta province is a **bhukti** under an **uparika**. A district is a **vishaya** under a **kumaramatya**.
+- The **sandhivigrahika** handles peace and war. Harsha reuses the same titles at a higher grade as **mahasandhivigrahika**, **mahapratihara**, and **bhandagaradhikarana**.
+- Feudatories are **samanta / mahasamanta**. Land grants (*agrahara*, *brahmadeya*) thicken after the Guptas and under Harsha.
+- Mauryan rule pays salaried **amatyas**. Gupta and Harsha rule is looser and more personal; the machine weakens when the king dies.
+
+---
 
 ## 11.8 Foreign Accounts on Ancient Administration
+
+**Traveller age first | then the admin observation**
+
+- **Megasthenes**, under Chandragupta Maurya, records seven castes through a Greek lens, names the **agronomai**, and describes six city boards and six army boards.
+- **Fa-Hien**, under Chandragupta II, notes comparatively light punishments and visible Buddhist patronage in Gupta north India.
+- **Hiuen Tsang**, under Harsha, praises roads and hospices; elephant numbers in his account are colour, not a census.
+- **I-tsing**, after Harsha, focuses on monastic rules and Nalanda life rather than a new imperial office list.
 
 | Traveller | Age | Admin observation |
 |-----------|-----|-------------------|
@@ -506,7 +530,70 @@ A. Weight and measurement B. Administrative management C. Construction of roads 
 
 ### UPPCS Prelims 2018
 
-**Q6. UPPCS Prelims 2018, Q16** — Hathigumpha → **A Kharavela.Q7. UPPCS Prelims 2018, Q87** — Samudragupta south match → **C 3-1-4-2.Q8. UPPCS Prelims 2018, Q91** — Pushyamitra ashwamedha → **C Ayodhya.**
+**Q6. UPPCS Prelims 2018, Q16**
+
+The Hathigumpha inscription is associated with:
+
+A. Kharavela  
+B. Ashoka  
+C. Rudradaman  
+D. Samudragupta  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Famous cave text of Kalinga versus Ashokan / Shaka / Gupta stones.
+
+**Ans: A.** Hathigumpha at Udayagiri records **Kharavela**. Junagadh is Rudradaman; Prayag is Samudragupta.
+
+</details>
+
+**Q7. UPPCS Prelims 2018, Q87**
+
+Match List-I with List-II (Samudragupta’s southern contemporaries) and select the correct code:
+
+| List-I | List-II |
+|--------|---------|
+| A. Dhananjaya | 1. Kanchi |
+| B. Nilaraja | 2. Avamukta |
+| C. Ugrasena | 3. Kusthalapura |
+| D. Vishnugopa | 4. Palaka |
+
+Codes: A B C D
+
+A. 1 2 3 4  
+B. 2 1 4 3  
+C. 3 2 4 1  
+D. 4 3 1 2  
+
+*Row order is not the answer code.*
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** South digvijaya name–capital pairs from the Prayag Prashasti tradition.
+
+**Ans: C (3-2-4-1).** Dhananjaya–Kusthalapura, Nilaraja–Avamukta, Ugrasena–Palaka, Vishnugopa–Kanchi.
+
+</details>
+
+**Q8. UPPCS Prelims 2018, Q91**
+
+The Ayodhya inscription recording two ashvamedhas is associated with:
+
+A. Chandragupta Maurya  
+B. Ashoka  
+C. Pushyamitra Shunga  
+D. Samudragupta  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Ashvamedha inscription seat versus Besnagar Heliodorus trap.
+
+**Ans: C.** The **Ayodhya** inscription records Pushyamitra’s two ashvamedhas. Besnagar is Heliodorus, not Pushyamitra.
+
+</details>
 
 ---
 

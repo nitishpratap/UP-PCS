@@ -50,9 +50,14 @@ Buddhism | Buddha | Buddhist Philosophy | Buddhist Councils | Buddhist Texts | T
 31. Shaivism centres on **Shiva / linga**. Vaishnavism centres on **Vishnu and avatars**. Bhagavatism is the early Krishna-Vasudeva stream inside the wider Vaishnava world.
 32. Heterodox sixth-century teachers include the six titthiyas: Purana Kassapa, Gosala, Ajita, Pakudha, Nigantha (Mahavira), and Sanjaya — the wider shramana field around Buddha.
 33. Buddha life symbols: birth **lotus / bull**, Mahabhinishkramana **horse**, enlightenment **Bodhi tree**, first sermon **wheel**, Mahaparinirvana **stupa**.
-34. **Rummindei** (Ashoka) proves Lumbini as birthplace. Last convert **Subhadda**; last rains often at **Vaishali**; **Mahapajapati** = first nun (Vaishali, via Ananda).
-35. Councils presidents: **Mahakassapa** (1st), **Sabakami** (2nd), **Moggaliputta Tissa** (3rd), **Vasumitra** (4th, Ashvaghosha deputy).
-36. **Triratna** = Buddha, Dhamma, Sangha. *Light of Asia* = **Edwin Arnold** (from *Lalitavistara*). **Nayaputta** = Mahavira, not Buddha.
+34. **Rummindei** (Ashoka) proves Lumbini as birthplace.
+35. The Buddha’s last convert is remembered as **Subhadda**.
+36. His last rains are often placed at **Vaishali**.
+37. **Mahapajapati** is the first nun, ordained at Vaishali through **Ananda**.
+38. Councils presidents: **Mahakassapa** (1st), **Sabakami** (2nd), **Moggaliputta Tissa** (3rd), **Vasumitra** (4th, Ashvaghosha deputy).
+39. **Triratna** = Buddha, Dhamma, Sangha.
+40. *Light of Asia* is by **Edwin Arnold**, drawn from the *Lalitavistara*.
+41. **Nayaputta** is Mahavira, not Buddha.
 
 ---
 
@@ -105,7 +110,7 @@ Buddhism | Buddha | Buddhist Philosophy | Buddhist Councils | Buddhist Texts | T
 - Jain **Angas** are also canon heads without one personal author on the paper.
 - *Milinda Panha* monk = **Nagasena**, not **Nagarjuna**.
 
-> ** note:** Full Tripitaka / council teaching stays in the Buddhist Texts cards below.
+> **Logic:** Full Tripitaka / council teaching stays in the Buddhist Texts cards below.
 
 ---
 
@@ -123,7 +128,7 @@ Buddhism | Buddha | Buddhist Philosophy | Buddhist Councils | Buddhist Texts | T
 - Missions carried the teaching to Sri Lanka, Central Asia, China, and Southeast Asia.
 - In India the institutional religion faded after about the 12th century CE.
 
-> ** note:** Buddhism is **nastika** because it does not take the Veda as authority. Nastika here does not mean “atheist in the modern sense.”
+> **Logic:** Buddhism is **nastika** because it does not take the Veda as authority. Nastika here does not mean “atheist in the modern sense.”
 
 ---
 
@@ -153,7 +158,8 @@ Buddhism | Buddha | Buddhist Philosophy | Buddhist Councils | Buddhist Texts | T
 - He then taught first at **Sarnath / Isipatana**, the Deer Park near Varanasi in Uttar Pradesh. The sermon is the *Dhammacakkappavattana*, the turning of the wheel of Dhamma.
 - The listeners were the **Panchavargiya**, the five former companions who had left him when he gave up starvation.
 - **Kaundinya** understood first. The other four were Bhadrika, Vashpa, Mahanaman, and Ashvajit.
-- Early rains retreats: **Rajagriha** (**Venuvana**, gift of Bimbisara); **Vaishali** (**Kutagarasala**; courtesan **Amrapali** gifted her mango grove).
+- Early rains retreats include **Rajagriha** at **Venuvana**, a gift of Bimbisara.
+- Another early rains retreat is **Vaishali** at **Kutagarasala**; the courtesan **Amrapali** gifted her mango grove there.
 - Women entered the Sangha at **Vaishali** on **Ananda**’s request; first nun = **Mahapajapati Gotami**.
 - **Anathapindika** gifted **Jetavana** at Shravasti (Kosala); Prasenajit / family patronage and **Pubbarama** are also remembered.
 - Maximum sermons tradition clusters at **Shravasti**. He visited **Kaushambi** under **Udayana**.
@@ -169,7 +175,7 @@ Buddhism | Buddha | Buddhist Philosophy | Buddhist Councils | Buddhist Texts | T
 - Early Buddhist art is **aniconic**. The Buddha is shown by a footprint, a wheel, a stupa, the Bodhi tree, or deer. There is no human statue in that phase.
 - Edwin Arnold’s *The Light of Asia* draws on the *Lalitavistara* and popularised “Light of Asia” for the Buddha.
 
-> ** note:** Birth = Lumbini. First sermon = **Sarnath**. Death = **Kushinagar**. Milinda Panha = **Nagasena**, not Nagarjuna.
+> **Logic:** Birth = Lumbini. First sermon = **Sarnath**. Death = **Kushinagar**. Milinda Panha = **Nagasena**, not Nagarjuna.
 
 ---
 
@@ -186,7 +192,7 @@ The Four Noble Truths work like a medical diagnosis: disease → cause → cure 
 | 3 | **Nirodha** | Cessation of suffering | Craving **can** stop; that stop is **nirvana** |
 | 4 | **Magga** | Path to cessation | Names the **Eightfold Path** as the cure |
 
-> ** note:** Third truth = cessation **is** possible (nirvana). Fourth truth **is** the Eightfold Path.
+> **Logic:** Third truth = cessation **is** possible (nirvana). Fourth truth **is** the Eightfold Path.
 
 ---
 
@@ -210,7 +216,7 @@ The Four Noble Truths work like a medical diagnosis: disease → cause → cure 
 - Monks take the full **Vinaya**, not only those five precepts.
 - Practising this path **is** the Middle Path in daily life.
 
-> ** note:** The Eightfold Path has **eight** factors. The Fourth Noble Truth **is** this path.
+> **Logic:** The Eightfold Path has **eight** factors. The Fourth Noble Truth **is** this path.
 
 ---
 
@@ -261,7 +267,7 @@ Things arise from causes, not from a creator God. The **twelve nidanas** (links)
 - Buddhist logic at Nalanda is linked to Dignaga and Dharmakirti.
 - Those later labels belong with Mahayana, not with the Early Nikaya.
 
-> ** note:** “Buddhism believes in atman like the Upanishads” is false. Nagarjuna is not Nagasena.
+> **Logic:** “Buddhism believes in atman like the Upanishads” is false. Nagarjuna is not Nagasena.
 
 ---
 
@@ -273,10 +279,10 @@ Councils are remembered as meetings that **fixed the teaching** after the Buddha
 
 ### Place order (highest-yield spine)
 
-- First: **Rajagriha**.
-- Second: **Vaishali**.
-- Third: **Pataliputra**.
-- Fourth (north-Indian list): **Kundalvana**.
+- The **first** council meets at **Rajagriha**.
+- The **second** council meets at **Vaishali**.
+- The **third** council meets at **Pataliputra**.
+- The **fourth** council in the north-Indian list meets at **Kundalvana**.
 
 | # | Place | Patron / ruler | President | Main outcome |
 |---|-------|----------------|-----------|--------------|
@@ -288,7 +294,7 @@ Councils are remembered as meetings that **fixed the teaching** after the Buddha
 - Theravada tradition also remembers a separate “fourth” council at **Anuradhapura** (Sri Lanka) under **Vattagamani**, when the **Pali canon was written down**.
 - For the **four-council chronology** question, the fourth place is **Kundalvana** — not Anuradhapura.
 
-> ** note:** Order = Rajagriha (1st) → Vaishali (2nd, Sthaviravada / Mahasanghika split) → Pataliputra (3rd) → Kundalvana (4th). Anuradhapura = separate Theravada council when Pali was written down.
+> **Logic:** Order = Rajagriha (1st) → Vaishali (2nd, Sthaviravada / Mahasanghika split) → Pataliputra (3rd) → Kundalvana (4th). Anuradhapura = separate Theravada council when Pali was written down.
 
 **PYQ — UPPCS Prelims 2025, Q105**
 
@@ -361,9 +367,14 @@ A. Nagarjun B. Nagbhatt C. Nagasena D. Kumaril Bhatt
 - After the rains retreat, monks hold **Pavarana**: confession of offences committed during the monsoon stay.
 - Sanskrit, Chinese, and Tibetan canons are **not** this Pali trio.
 - Mahayana **adds** new sutras such as the Prajnaparamita and the Lotus.
-- Author match pairs: *Milinda Panha*–**Nagasena**; *Buddhacharita* / *Saundarananda*–**Ashvaghosha**; *Madhyamikakarika*–**Nagarjuna**; *Visuddhimagga*–**Buddhaghosa**; *Abhidharmakosha*–**Vasubandhu**.
+- Hold author–book pairs as separate sentences.
+- The *Milinda Panha* is linked with the monk **Nagasena**.
+- The *Buddhacharita* and *Saundarananda* are linked with **Ashvaghosha**.
+- The *Madhyamikakarika* is linked with **Nagarjuna**.
+- The *Visuddhimagga* is linked with **Buddhaghosa**.
+- The *Abhidharmakosha* is linked with **Vasubandhu**.
 
-> ** note:** Tripitaka is not one book. Abhidhamma is not Vinaya. Yamaka sits in Abhidhamma.
+> **Logic:** Tripitaka is not one book. Abhidhamma is not Vinaya. Yamaka sits in Abhidhamma.
 
 ---
 
@@ -401,7 +412,7 @@ A. Nagarjun B. Nagbhatt C. Nagasena D. Kumaril Bhatt
 - **Vaibhashika** and **Sautrantika** are **Sarvastivada subschools**, not separate vehicles like Mahayana.
 - **Mahasanghika** is the Vaishali split school. **Mahayana** is a later great vehicle.
 
-> ** note:** Hinayana does not mean bad Buddhism. It names the **arhat + early canon** path. Theravada = **only living** Hinayana school. Sarvastivada = **Sanskrit north** + 4th Council. Sthaviravada is not identical with Theravada in strict history, though papers often blur them.
+> **Logic:** Hinayana does not mean bad Buddhism. It names the **arhat + early canon** path. Theravada = **only living** Hinayana school. Sarvastivada = **Sanskrit north** + 4th Council. Sthaviravada is not identical with Theravada in strict history, though papers often blur them.
 
 ---
 
@@ -478,7 +489,7 @@ A **bodhisattva** is an enlightened being who postpones final nirvana to help ot
 - **Nagarjuna** = *Madhyamaka Karika* and **sunyata**. **Nagasena** = *Milinda Panha*.
 - **Madhyamaka** and **Yogacara** are **Mahayana** philosophy schools.
 
-> ** note:** Mahayana = bodhisattva + Sanskrit sutras + Buddha images. Five hot names = Avalokiteshvara, Manjushri, Vajrapani, Maitreya, Tara. Madhyamaka = Nagarjuna. Yogacara = Asanga–Vasubandhu. Mahayana is **not** the Vaishali split and **not** the Buddha's own lifetime teaching.
+> **Logic:** Mahayana = bodhisattva + Sanskrit sutras + Buddha images. Five hot names = Avalokiteshvara, Manjushri, Vajrapani, Maitreya, Tara. Madhyamaka = Nagarjuna. Yogacara = Asanga–Vasubandhu. Mahayana is **not** the Vaishali split and **not** the Buddha's own lifetime teaching.
 
 ---
 
@@ -522,7 +533,11 @@ A **bodhisattva** is an enlightened being who postpones final nirvana to help ot
 - A **chaitya** is a prayer hall, often with a stupa inside. A **vihara** is a monastery where monks live.
 - The word **stupa** appears already in the **Rigveda** (pile / raised heap sense). Buddhist stupas become relic and votive monuments; the idea is **not** Buddhist-only in origin.
 - **Sanchi** is a great early stupa site but is **not** tied to a single episode of the Buddha’s own life the way Lumbini, Bodh Gaya, Sarnath, and Kushinagar are.
-- Learning centres: **Nalanda** (Gupta–**Kumaragupta I** foundation tradition; Mahayana-leaning later fame); **Vallabhi** (Gujarat; Hinayana memory); **Vikramashila** (Pala **Dharmapala**); **Odantapuri** (Pala **Gopala**). **Nav Nalanda Mahavihara** is the modern Pali research centre (foundation stone **20 November 1951**).
+- **Nalanda** carries a Gupta–**Kumaragupta I** foundation tradition and later Mahayana fame.
+- **Vallabhi** in Gujarat holds a Hinayana memory in many notes.
+- **Vikramashila** is a Pala foundation under **Dharmapala**.
+- **Odantapuri** is a Pala foundation under **Gopala**.
+- **Nav Nalanda Mahavihara** is the modern Pali research centre; its foundation stone is dated **20 November 1951**.
 
 ### Stupa parts (vocabulary)
 
@@ -537,7 +552,7 @@ A **bodhisattva** is an enlightened being who postpones final nirvana to help ot
 - **Sanchi** (near Vidisha) and **Bharhut** (near Satna) are famous early stupas under Ashokan patronage tradition.
 - **Amaravati** and **Nagarjunakonda** belong to the Andhra sculptural school.
 
-> ** note:** Amaravati school uses ayaka platforms generally, but match-the-site traps often target **Ghantasala**. Bodh Gaya is the wrong architecture family.
+> **Logic:** Amaravati school uses ayaka platforms generally, but match-the-site traps often target **Ghantasala**. Bodh Gaya is the wrong architecture family.
 
 **PYQ — UPPCS Prelims 2022, Q80**
 
@@ -694,7 +709,7 @@ These are **three separate doctrines**.
 - The emblem uses a **raised palm** with an **ahimsa wheel** inscribed on it.
 - The Jain **swastika** marks the **four gatis** (states of rebirth: human, heavenly, animal/plant, hell). It is a religious symbol, not connected to the Nazi mark.
 
-> ** note:** Jainism is **nastika** (heterodox — rejects Vedic authority) but it is **not** Charvaka. It keeps soul, karma, and moksha.
+> **Logic:** Jainism is **nastika** (heterodox — rejects Vedic authority) but it is **not** Charvaka. It keeps soul, karma, and moksha.
 
 ---
 
@@ -749,7 +764,7 @@ These are **three separate doctrines**.
 
 Hottest key facts: **1 bull**, **12 buffalo**, **19 kalasha**, **22 conch**, **23 serpent**, **24 lion**.
 
-> ** note:** Serpent = **Parshva** (23rd). Lion = **Mahavira** (24th).
+> **Logic:** Serpent = **Parshva** (23rd). Lion = **Mahavira** (24th).
 
 ---
 
@@ -833,7 +848,7 @@ D. Mahavira — Pavapuri
 | Nirvana | **Sammed Shikhar** | **Pavapuri** |
 | Birth (tradition) | **Varanasi** (UP) | **Kundagrama** (Vaishali belt) |
 
-> ** note:** Parshva is **23rd**, about **250 years before** Mahavira. Serpent = Parshva; lion = Mahavira.
+> **Logic:** Parshva is **23rd**, about **250 years before** Mahavira. Serpent = Parshva; lion = Mahavira.
 
 ---
 
@@ -871,7 +886,7 @@ D. Mahavira — Pavapuri
 | Early companion | **Makkhali Gosala** → later Ajivika teacher |
 | Nirvana | **Pavapuri**, Bihar |
 
-> ** note:** Mahavira’s nirvana = **Pavapuri**. Vasupujya’s nirvana = **Champapuri**.
+> **Logic:** Mahavira’s nirvana = **Pavapuri**. Vasupujya’s nirvana = **Champapuri**.
 
 ---
 
@@ -892,7 +907,7 @@ D. Mahavira — Pavapuri
 | 4 | **Brahmacharya** | Chastity / celibacy | Complete celibacy | Marital fidelity |
 | 5 | **Aparigraha** | Non-possession | No property; sky-clad Digambaras take this furthest | Limit possessions |
 
-> ** note:** Parshva taught **four** vows. Mahavira added **brahmacharya** as the fifth. Sallekhana is a regulated end-of-life fast, separate from the five vows.
+> **Logic:** Parshva taught **four** vows. Mahavira added **brahmacharya** as the fifth. Sallekhana is a regulated end-of-life fast, separate from the five vows.
 
 ---
 
@@ -940,7 +955,7 @@ Coaching often asks **two** names: Pataliputra and Vallabhi. A fuller list has a
 - Hemachandra wrote the *Parishishtaparvan*.
 - Later sub-sects: Murtipujaka, Sthanakvasi, and Svetambara Terapanthi. Yapaniya is an extinct in-between order.
 
-> ** note:** The split is about **clothes, canon, and women’s moksha**. It is not about different 24 names.
+> **Logic:** The split is about **clothes, canon, and women’s moksha**. It is not about different 24 names.
 
 ---
 
@@ -1123,7 +1138,7 @@ These accept **Veda authority**. They are **not** the nastika Shramana list.
 - Gopala-Krishna of **Vrindavan / Mathura** is the Uttar Pradesh geographic home.
 - Among the **12 Alvars**, **Andal** is the only woman saint usually named in prelims maps.
 
-> ** note:** Bhagavatism is the **early** Krishna-Vasudeva path. Vaishnavism is the wider later tent.
+> **Logic:** Bhagavatism is the **early** Krishna-Vasudeva path. Vaishnavism is the wider later tent.
 
 ---
 

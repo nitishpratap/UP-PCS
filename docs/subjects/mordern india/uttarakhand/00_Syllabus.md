@@ -29,4 +29,5 @@ Europeans → Company → GG/Viceroys → 1857 → reform → nationalism → Ga
 
 ## Status
 
-Teaching chapters for all modern UK syllabus heads are live.
+Teaching chapters for all modern UK syllabus heads are live.  
+**Sep 2026:** Topic 4 (Freedom) and Topic 5 (People’s Movements) expanded with full CCR cards — 1857 / press / Garhwali / Tehri martyrs · Chipko · UKD · 1994 course · **9 Nov 2000** statehood.

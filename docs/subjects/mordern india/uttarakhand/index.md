@@ -25,10 +25,10 @@ UKPCS Unit 1 state block for **Gorkha → British → Tehri → Freedom / people
 <span>Sudarshan Shah · Pratap Shah education.</span>](03_Tehri_Estate.md){ .study-card }
 
 [**Topic 4 — Freedom Movement**
-<span>Parishad · Home Rule · Badri Dutt · Gairola.</span>](04_Freedom_Movement_in_Uttarakhand.md){ .study-card }
+<span>1857 · Shakti · Garhwali · Suman · Parishad / Home Rule.</span>](04_Freedom_Movement_in_Uttarakhand.md){ .study-card }
 
 [**Topic 5 — People’s Movements**
-<span>Coolie-Begar arc · 1994 incidents · Chipko bridge.</span>](05_Peoples_Movements_of_Uttarakhand.md){ .study-card }
+<span>Chipko CCR · UKD · 1994 · 9 Nov 2000 statehood.</span>](05_Peoples_Movements_of_Uttarakhand.md){ .study-card }
 
 [**UKPCS desk**
 <span>Full paper Units 1–6.</span>](../../../ukpcs/index.md){ .study-card }

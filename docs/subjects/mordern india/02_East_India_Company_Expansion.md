@@ -10,7 +10,7 @@ East India Company and Nawabs of Bengal | Nawabs of Bengal | Battle of Plassey |
 
 > **Sources baked in:** NCERT *Themes in Indian History Part III*, Spectrum *A Brief History of Modern India*, UPPCS Prelims PYQs 2018–2025, Ghatnachakra Indian History (EIC & Nawabs of Bengal; Regional States — Punjab & Mysore)
 > **Weight:** ★★★ — Plassey/Buxar/Diwani, treaty-year matching, Mysore/Maratha/Sikh chronology, Subsidiary vs Lapse, Sugauli
-> **Last verified:** September 2026
+> **Last verified:** September 2026 — gap audit (CCR wars + Dual Govt / Ring Fence / Kohinoor / Multan / Afghan policy fills)
 > **Current Affairs:** N/A (historical)
 
 ---
@@ -35,7 +35,7 @@ East India Company and Nawabs of Bengal | Nawabs of Bengal | Battle of Plassey |
 16. The **Treaty of Amritsar (1809)** was Ranjit Singh’s Sutlej peace with the English. The **Treaty of Lahore (1846)** settled the **First Anglo-Sikh War**. **Punjab was annexed in 1849** after the Second War.
 17. **Sindh (1843)** was taken under **Ellenborough / Napier**. **Punjab (1849)** was annexed under **Dalhousie** after the Second Anglo-Sikh War.
 18. **First Anglo-Burmese War (1824–26)** ended with the **Treaty of Yandabo**. Second War **1852**; Third War **1885** completed annexation of Burma.
-19. **First Anglo-Afghan War (1839–42)** belongs to **Auckland**. **Masterly Inactivity** is **Lawrence’s** caution. **Proud Reserve** is **Lytton’s** forward Afghan line.
+19. **First Anglo-Afghan War (1839–42)** belongs to **Auckland**. **Masterly Inactivity** is **Lawrence’s** caution. **Proud Reserve / Forward Policy** is **Lytton’s** forward Afghan line.
 20. **Vellore Mutiny (1806)** was an early sepoy rising over dress and religious grievances — a preview theme for 1857, not the Revolt itself.
 21. **Chauth** was the Maratha claim of one-fourth of revenue. It is **not** the Subsidiary Alliance payment.
 22. Peshwa order fact: **Balaji Vishwanath → Baji Rao I → Balaji Baji Rao → Madhav Rao I → Narayan Rao → Raghoba / Baji Rao II**. Baji Rao II signed Bassein and was later pensioned at **Bithoor**.
@@ -65,7 +65,7 @@ East India Company and Nawabs of Bengal | Nawabs of Bengal | Battle of Plassey |
 | Sindh 1843 | Punjab 1849 | Napier / Ellenborough vs Dalhousie after Second Sikh War | सिंध / पंजाब |
 | Awadh 1856 | Jhansi 1853 | Misgovernance annexation vs Lapse | अवध / झाँसी |
 | Treaty of Amritsar 1809 | Treaty of Lahore 1846 | Ranjit’s Sutlej peace vs First Sikh War settlement | अमृतसर / लाहौर |
-| Masterly Inactivity | Proud Reserve | Lawrence’s caution on Afghanistan vs Lytton’s forward Afghan line | मास्टरी इनएक्टिविटी / प्राउड रिजर्व |
+| Masterly Inactivity | Proud Reserve / Forward Policy | Lawrence’s caution on Afghanistan vs Lytton’s forward Afghan line | मास्टरी इनएक्टिविटी / प्राउड रिजर्व |
 | Surat 1775 | Purandhar 1776 | Bombay’s Raghoba deal vs Calcutta’s revised Maratha treaty before Salbai | सूरत / पुरंदर |
 
 ---
@@ -105,7 +105,7 @@ British rule in India did **not** begin as a planned land empire. It grew in **p
 - At **Shakarkheda (Shakar Kheda)**, Nizam-ul-Mulk defeated and killed Mubariz Khan.
 - Maratha help under **Baji Rao I** is often noted in this fight.
 - The victory fixed **Asaf Jahi** power in the Deccan and is treated as the founding moment of independent **Hyderabad** under the Nizams.
-- Year lock for chronology stems: **Shakarkheda = 1724** — before Bedara, Porto Novo, or Mudki.
+- Chronology marker: **Shakarkheda = 1724** — before Bedara, Porto Novo, or Mudki.
 
 > **Logic:** Shakarkheda is **Nizam vs Mughal nominee**, not Anglo-Mysore and not Anglo-Sikh.
 
@@ -273,11 +273,15 @@ Clive returned in **1765** and settled two linked treaties at Allahabad / the Pr
 - **Nizamat** (police and criminal justice) stayed in the Nawab’s **name**.
 - In practice the Company also controlled Nizamat by nominating the deputy and keeping the army.
 - **Dual Government (1765–72)** was Clive’s design: take the profit, avoid the blame for day-to-day rule.
+- Under Dual Government the Company held **real power** (army + revenue) while the Nawab kept the **show of sovereignty**.
+- The Nawab received a fixed **nizamat allowance**; the Company took the surplus of the Diwani.
 - The Company appointed two deputy Diwans: **Muhammad Reza Khan** for Bengal (Murshidabad) and **Raja Shitab Rai** for Bihar. Indians ran collection under Company authority.
+- Company servants and their agents drained Bengal through private trade and forced purchases. Responsibility for famine and disorder stayed on the Nawab’s empty title.
 - **K. M. Panikkar** later called Bengal under Dual Government a **“state of dacoits”** for the Company’s plunder phase (**1765–72**).
 - After Diwani, English contact with the **Khasi** hills grew from the Sylhet side. Later road plans under **David Scott** met tough resistance under **Tirot Sing**.
 - Administration collapsed. The **Bengal Famine of 1770** is the catastrophe of this dual system.
 - In **1772 Warren Hastings** ended Dual Government. The Company took **direct** civil and revenue charge.
+- Hastings shifted the seat of revenue management toward **Calcutta**, dismissed the dual fiction, and brought Reza Khan / Shitab Rai under Company trial and control.
 - **Clive** governed Bengal **1758–60** and again **1765–67** (Diwani and Dual Government). During his terms Company plunder of Bengal resources deepened, and a **White Mutiny** among English officers also belongs to his governorship phase.
 - **Verelst** and **Cartier** governed while Dual Government continued, including the famine years.
 - **Hastings (1772–85)** ended Dual Government, used Ring Fence, faced Banaras **1781**, and fought the First Maratha War.
@@ -308,7 +312,10 @@ Clive returned in **1765** and settled two linked treaties at Allahabad / the Pr
 **Governor of Bengal from 1772** | first **Governor-General of Bengal from 1773** (Regulating Act)
 
 - In **1772** he ended Dual Government. The Company took direct revenue and civil charge.
-- His **Ring Fence** policy used **Awadh** as a buffer around Bengal. This was **not** yet the Subsidiary Alliance.
+- His **Ring Fence** policy used friendly or dependent neighbours as an informal **buffer ring** around Bengal.
+- **Awadh** was the main shield on the western side. The Company propped the Nawab so that Maratha or Afghan pressure would hit Awadh first, not Bengal.
+- Ring Fence was **defensive diplomacy**, not a formal treaty system of British troops + subsidy + Resident.
+- Do not call Ring Fence the **Subsidiary Alliance**. That ladder step belongs to **Wellesley from 1798**.
 - He fought the **Rohilla War in 1774** with Shuja-ud-Daula against the Rohillas of Rohilkhand.
 - The **First Anglo-Maratha War** ended with the **Treaty of Salbai, 1782**.
 - The **Banaras Rebellion of 1781** was his clash with Raja **Chait Singh** of Banaras (present-day Varanasi).
@@ -355,11 +362,18 @@ There was **not** one policy from start to finish. Name the **Governor-General**
 | Doctrine of Lapse | **Dalhousie from 1848** | No natural heir → annex | Satara, Jhansi, Nagpur |
 | Misrule annexation | Dalhousie | Annex for “bad government” | **Awadh 1856** (not Lapse) |
 | Masterly Inactivity | John Lawrence | Caution on Afghanistan after First Afghan War | Watch frontier; avoid occupation |
-| Proud Reserve | Lytton | Forward Afghan policy in the 1870s | Second Afghan War context |
+| Proud Reserve / Forward Policy | Lytton | Assertive Afghan line in the 1870s | Second Afghan War context |
 
+### Cornwallis–Shore pause vs Wellesley expansion
+
+- **Cornwallis** and **John Shore** preferred **non-intervention** when costly forward wars could be avoided.
+- Cornwallis still fought when Company allies were hit — the **Third Anglo-Mysore War** is his expansion war, not Shore’s quiet phase.
+- **Wellesley (1798–1805)** reversed the pause with open **Subsidiary Alliance** diplomacy and war.
+- Wellesley’s tools were British troops, subsidy or land cession, and a controlling **Resident**.
+- Cornwallis–Shore = hold and settle when possible. Wellesley = bind courts and smash rivals who refuse.
 - Wellesley fought the **Fourth Mysore War** and the **Second Maratha War**. He was recalled in **1805** because the wars cost too much.
 - **Lord Hastings** (not Warren Hastings) fought Nepal, the Pindaris and the Third Maratha War.
-- **Ellenborough** annexed **Sindh in 1843**.
+- **Ellenborough** annexed **Sindh in 1843** with field command under **Sir Charles Napier**.
 - **Hardinge** fought the First Sikh War.
 - **Dalhousie** annexed **Punjab in 1849** and **Awadh in 1856**.
 - The **Vellore Mutiny (1806)** sits between Wellesley’s recall and the Nepal war on chronology charts.
@@ -411,9 +425,12 @@ There was **not** one policy from start to finish. Name the **Governor-General**
 | **Nagpur** | **1854** | Major Lapse annexation |
 | **Awadh** | **1856** | **Wajid Ali Shah**; **misgovernance**, **not** Lapse |
 
-- Some lists also name **Udaipur** among threatened Lapse cases. focus stays on **Satara, Jhansi, Nagpur**, and the **Awadh ≠ Lapse** trap.
-- Awadh had already been hollowed by the **1801** subsidiary cessions.
+- Some lists also name **Udaipur** among threatened Lapse cases. Focus stays on **Satara, Jhansi, Nagpur**, and the **Awadh ≠ Lapse** trap.
+- Awadh had already been hollowed by the **1801** subsidiary cessions of Rohilkhand / Doab tracts.
+- Company Residents and British troops sat deep inside Awadh politics long before **1856**.
+- Dalhousie’s public charge was **misrule** — weak justice, revenue disorder, and failure to reform under Resident pressure.
 - In **1856** Resident **Outram**’s reports and Dalhousie’s “misrule” charge led to annexation. **Wajid Ali Shah** was deposed and sent toward Calcutta.
+- Awadh was **not** annexed for want of a natural heir. That trap belongs to **Jhansi** and other Lapse cases.
 - Lapse and “misrule” together fed the anger that later exploded in **1857**, but this card stops at annexation.
 
 > **Logic:** Dalhousie did **not** recognise Lakshmibai’s heir. Awadh **1856 ≠** Lapse.
@@ -490,35 +507,76 @@ D. Both 1 and 2
 
 ### First Anglo-Mysore War, 1767–69
 
-**Causes:** Hyder’s rise alarmed the English, the Nizam and the Marathas. Shifting alliances opened war.
+#### Causes
 
-**Course:** Hyder fought the English in the Carnatic and even threatened **Madras**. Early English hopes of a quick win failed.
+- Hyder Ali’s rise in Mysore alarmed the English, the Nizam and the Marathas.
+- Shifting Carnatic alliances opened a four-sided contest for south Indian power.
 
-**Results:Treaty of Madras, 1769** — roughly status quo; mutual restitution of conquests; Hyder secured a defensive understanding that the English later failed to honour fully (this fed the Second War).
+#### Course
+
+- Hyder fought the English in the Carnatic and even threatened **Madras**.
+- Early English hopes of a quick win failed. Hyder’s mobility kept the war open.
+
+#### Results
+
+- The **Treaty of Madras, 1769** restored a rough status quo with mutual restitution of conquests.
+- Hyder secured a defensive understanding that the English later failed to honour fully. That breach fed the Second War.
 
 ### Second Anglo-Mysore War, 1780–84
 
-**Causes:** English failed Hyder on promised help against the Marathas. Hyder also feared English capture of French Mahe. He allied with the Marathas and the Nizam.
+#### Causes
 
-**Course:** Hyder and Tipu swept into the Carnatic. At **Pollilur (1780)** they crushed an English force (Baillie). **Eyre Coote** reversed the tide at **Porto Novo (1781)**. Hyder died in **1782**. Tipu continued the war.
+- The English failed Hyder on promised help against the Marathas.
+- Hyder also feared English capture of French **Mahe**.
+- He allied with the Marathas and the Nizam against the Company.
 
-**Results:Treaty of Mangalore, 1784** — prisoners restored; conquered places largely returned; Tipu remained strong. No English subsidiary yet.
+#### Course
+
+- Hyder and Tipu swept into the Carnatic.
+- At **Pollilur (1780)** they crushed an English force under Baillie.
+- **Eyre Coote** reversed the tide at **Porto Novo (1781)**.
+- Hyder died in **1782**. Tipu continued the war until settlement.
+
+#### Results
+
+- The **Treaty of Mangalore, 1784** restored prisoners and largely returned conquered places.
+- Tipu remained strong. There was still **no** English subsidiary on Mysore.
 
 ### Third Anglo-Mysore War, 1790–92
 
-**Causes:** Tipu attacked **Travancore**, an English ally. Cornwallis built a triple front with the Marathas and the Nizam.
+#### Causes
 
-**Course:** Cornwallis personally led. The allies pressed Tipu back to **Seringapatam**. Tipu faced siege and ruin.
+- Tipu attacked **Travancore**, an English ally.
+- **Cornwallis** built a triple front with the Marathas and the Nizam.
 
-**Results:Treaty of Seringapatam, 1792** — Tipu ceded about **half** his territory and paid about **₹3 crore**. Two sons were taken as hostages. English, Marathas and Nizam shared the ceded lands.
+#### Course
+
+- Cornwallis personally led the campaign.
+- The allies pressed Tipu back to **Seringapatam**. Tipu faced siege and ruin.
+
+#### Results
+
+- The **Treaty of Seringapatam, 1792** made Tipu cede about **half** his territory and pay about **₹3 crore**.
+- Two of Tipu’s sons were taken as hostages.
+- The English, Marathas and Nizam shared the ceded lands.
 
 ### Fourth Anglo-Mysore War, 1799
 
-**Causes:** Wellesley feared Tipu’s French contacts in the Napoleonic age. Tipu refused subsidiary subordination.
+#### Causes
 
-**Course:** English columns under Harris and Stuart, with the Nizam’s help, closed on Seringapatam. The fort fell on **4 May 1799**. Tipu was killed fighting.
+- **Wellesley** feared Tipu’s French contacts in the Napoleonic age.
+- Tipu refused subsidiary subordination to the Company.
 
-**Results:** Tipu’s dynasty ended. About half of Mysore was annexed or shared. The rest was restored to the child **Krishna Raja Wodeyar III** under **Subsidiary Alliance**. Kanara, Coimbatore, Wynad and the Seringapatam belt went to the English; the Nizam got Gooty and related tracts.
+#### Course
+
+- English columns under Harris and Stuart, with the Nizam’s help, closed on Seringapatam.
+- The fort fell on **4 May 1799**. Tipu was killed fighting.
+
+#### Results
+
+- Tipu’s dynasty ended. About half of Mysore was annexed or shared.
+- The rest was restored to the child **Krishna Raja Wodeyar III** under **Subsidiary Alliance**.
+- Kanara, Coimbatore, Wynad and the Seringapatam belt went to the English; the Nizam got Gooty and related tracts.
 
 > **Logic:** Madras ≠ Mangalore. Tipu did **not** survive 1799. First Mysore comes after the Second Anglo-French War and long before the First Sikh War.
 
@@ -578,27 +636,66 @@ D. Chikka Krishnaraj
 
 ### First Anglo-Maratha War, 1775–82
 
-**Causes:** After Narayan Rao’s murder, **Raghunath Rao (Raghoba)** sought Bombay’s help. Bombay signed the **Treaty of Surat, 1775**, promising Raghoba the Peshwaship for cessions including Salsette and Bassein claims. Calcutta distrusted the deal and tried to revise it by the **Treaty of Purandhar, 1776**.
+#### Causes
 
-**Course:** Fighting swung for years. The English suffered a famous reverse at **Wadgaon, 1779**. Nana Fadnavis and **Mahadaji Sindhia** held the confederacy’s centre. Warren Hastings pushed a final settlement.
+- After Narayan Rao’s murder, **Raghunath Rao (Raghoba)** sought Bombay’s help.
+- Bombay signed the **Treaty of Surat, 1775**, promising Raghoba the Peshwaship for cessions including Salsette and Bassein claims.
+- Calcutta distrusted the deal and tried to revise it by the **Treaty of Purandhar, 1776**.
 
-**Results:Treaty of Salbai, 1782** — status quo peace; English kept **Salsette**; Raghoba dropped; Madhav Rao Narayan recognised. **No Subsidiary Alliance yet.** Twenty years of relative peace followed.
+#### Course
+
+- Fighting swung for years. The English suffered a famous reverse at **Wadgaon, 1779**.
+- Nana Fadnavis and **Mahadaji Sindhia** held the confederacy’s centre.
+- Warren Hastings pushed a final settlement.
+
+#### Results
+
+- The **Treaty of Salbai, 1782** restored a status quo peace. The English kept **Salsette**.
+- Raghoba was dropped. Madhav Rao Narayan was recognised.
+- There was **no Subsidiary Alliance yet**. About twenty years of relative peace followed.
 
 ### Second Anglo-Maratha War, 1803–05
 
-**Causes:** Holkar crushed Baji Rao II at Poona. The Peshwa fled to the English and signed the **Treaty of Bassein, 31 December 1802** (subsidiary). Sindhia and Bhonsle refused to accept a subsidiary Peshwa as overlord.
+#### Causes
 
-**Course:** Arthur Wellesley won at **Assaye (1803)** and Argaon. Lord Lake took Delhi and won at **Laswari**. Bhonsle made peace by **Treaty of Deogaon**. Sindhia by **Treaty of Surji-Anjangaon**. Holkar fought on, then settled by **Treaty of Rajpurghat, 1805**.
+- Holkar crushed Baji Rao II at Poona.
+- The Peshwa fled to the English and signed the **Treaty of Bassein, 31 December 1802** (subsidiary).
+- Sindhia and Bhonsle refused to accept a subsidiary Peshwa as overlord.
 
-**Results:** Maratha houses lost key territories and accepted British paramount pressure. Wellesley’s wars were costly. He was **recalled in 1805**. The confederacy survived in form but not in independence.
+#### Course
+
+- Arthur Wellesley won at **Assaye (1803)** and Argaon.
+- Lord Lake took Delhi and won at **Laswari**.
+- Bhonsle made peace by the **Treaty of Deogaon**. Sindhia by the **Treaty of Surji-Anjangaon**.
+- Holkar fought on, then settled by the **Treaty of Rajpurghat, 1805**.
+
+#### Results
+
+- Maratha houses lost key territories and accepted British paramount pressure.
+- Wellesley’s wars were costly. He was **recalled in 1805**.
+- The confederacy survived in form but not in independence.
 
 ### Third Anglo-Maratha War, 1817–18
 
-**Causes:** Lord Hastings moved against the **Pindaris**. Maratha houses feared encirclement. Baji Rao II attacked the Poona residency.
+#### Causes
 
-**Course:** The English won at **Kirkee (1817)** and related actions. Pindari bands were hunted down in the same campaign season. The Peshwa’s power collapsed.
+- Lord Hastings moved against the **Pindaris**.
+- Maratha houses feared encirclement.
+- Baji Rao II attacked the Poona residency.
 
-**Results:** Peshwaship abolished. Baji Rao II pensioned at **Bithoor**. Maratha houses became dependent princes under British paramountcy. Central India passed under Company overlordship.
+#### Course
+
+- The English won at **Kirkee (1817)** and related actions.
+- Pindari bands were hunted down in the same campaign season.
+- The Peshwa’s power collapsed.
+
+#### Results
+
+- The **Peshwaship was abolished**.
+- Baji Rao II was pensioned at **Bithoor**.
+- Large Peshwa territories passed into the **Bombay Presidency** frame.
+- Maratha houses became dependent princes under British paramountcy.
+- Central India passed under Company overlordship.
 
 **Why the Marathas lost (short):**
 
@@ -606,7 +703,7 @@ D. Chikka Krishnaraj
 - Superior Company artillery, drill and Bengal war finance after Diwani.
 - After Bassein the Peshwa himself became a British client, splitting Maratha politics from inside.
 
-> **Logic:**Surat → Purandhar → Salbai** for the First War. **Bassein** opens the Second. Start every Peshwa chronology with **Balaji Vishwanath**.
+> **Logic:** Surat → Purandhar → Salbai for the First War. **Bassein** opens the Second. Start every Peshwa chronology with **Balaji Vishwanath**.
 
 **PYQ — UPPCS Prelims 2025, Q149**
 
@@ -706,7 +803,7 @@ D. Jamadani
 - **Ranjit Singh** belonged to the **Sukerchakia** misl. He was born on **13 November 1780**. He unified the Sikh misls and died in **1839**.
 - His capital was **Lahore** (taken **1799** after Zaman Shah’s goodwill over returned cannon). **Amritsar** (taken **1802**) was the religious capital.
 - He annexed **Multan (1818)**, **Kashmir (1819)** and **Peshawar / Khyber belt (1834)**.
-- **Shah Shuja**, a descendant of Ahmad Shah Abdali, gifted him the **Kohinoor** diamond.
+- **Kohinoor path:** **Nadir Shah** took it from Delhi (**1739**) → **Ahmad Shah Abdali** → **Shah Shuja** → gifted to **Ranjit Singh** → after Punjab’s fall (**1849**) it passed to the British crown under **Dalhousie** / Queen Victoria’s court.
 - He said God wanted him to look on all religions with one eye, so the light of the other eye was taken — a famous line on his religious tolerance.
 - He set up modern foundries to manufacture cannons at **Lahore** (and Amritsar).
 - European officers such as **Ventura** and **Allard** trained his army.
@@ -735,19 +832,43 @@ D. Jamadani
 
 ### First Anglo-Sikh War, 1845–46
 
-**Causes:** After Ranjit’s death the Lahore court was unstable. The Khalsa army crossed the Sutlej. Hardinge treated this as war.
+#### Causes
 
-**Course:** Battles followed in quick order — **Mudki (18 Dec 1845)**, Ferozeshah, Aliwal, and the decisive **Sobraon**. British losses were heavy, but the Khalsa was forced back.
+- After Ranjit’s death the Lahore court was unstable.
+- The Khalsa army crossed the Sutlej. **Hardinge** treated this as war.
 
-**Results:Treaty of Lahore, 1846** — Jullundur Doab ceded; indemnity; resident at Lahore; Kashmir sold to **Gulab Singh** for **₹75 lakh**. **Treaty of Bhairowal, 1846** tightened control over minor **Duleep Singh**. Punjab was **not** annexed yet.
+#### Course
+
+- Battles followed in quick order — **Mudki (18 Dec 1845)**, Ferozeshah, Aliwal, and the decisive **Sobraon**.
+- British losses were heavy, but the Khalsa was forced back.
+
+#### Results
+
+- The **Treaty of Lahore, 1846** ceded the Jullundur Doab, fixed an indemnity, and placed a resident at Lahore.
+- Kashmir was sold to **Gulab Singh** for **₹75 lakh**.
+- The **Treaty of Bhairowal, 1846** tightened control over minor **Duleep Singh**.
+- Punjab was **not** annexed yet.
 
 ### Second Anglo-Sikh War, 1848–49
 
-**Causes:** Multan revolt under **Mulraj**. Wider Sikh rising followed. Dalhousie chose annexation politics.
+#### Causes
 
-**Course:** Fighting included Ramnagar, a British setback at **Chillianwala (13 Jan 1849)** — Lord Gough vs Sher Singh; undecided field — and the decisive victory at **Gujrat (21 Feb 1849)**.
+- In **1848** Diwan **Mulraj** of **Multan** rose against British-backed Lahore authority after a clash that killed two British officers.
+- The Multan revolt spread into a wider Sikh rising across the plains.
+- **Dalhousie** treated the crisis as a chance for full annexation politics, not another Lahore residency patch.
 
-**Results:** Punjab annexed on **29 March 1849**. Duleep Singh deposed and sent to England on a pension of about **₹4–5 lakh** a year (the figure **₹2,50,000** in some stems is the false option). Punjab became a **Chief Commissionership**.
+#### Course
+
+- British columns first pressed the **siege of Multan**. Mulraj’s fort fell after hard fighting late in **1848**.
+- Open-field fighting then included Ramnagar and a British setback at **Chillianwala (13 Jan 1849)** — Lord Gough vs Sher Singh; undecided field.
+- The decisive victory came at **Gujrat (21 Feb 1849)**.
+
+#### Results
+
+- Punjab was annexed on **29 March 1849**.
+- **Duleep Singh** was deposed and sent to England on a pension of about **₹4–5 lakh** a year (the figure **₹2,50,000** in some stems is the false option).
+- The **Kohinoor** passed from the Lahore treasury into British hands with the settlement.
+- Punjab became a **Chief Commissionership** under the **Board of Three**.
 
 | Board of Three (1849) | Role |
 |-----------------------|------|
@@ -757,7 +878,7 @@ D. Jamadani
 
 **Not on that board:** **H. M. Elliot** and **Robert Montgomery**.
 
-> **Logic:** **1809 Amritsar ≠ 1846 Lahore ≠ 1849 annexation**. Mudki = First Sikh, not Mysore. Sukerchakia = Ranjit’s misl. Kohinoor path = **Shah Shuja → Ranjit**.
+> **Logic:** **1809 Amritsar ≠ 1846 Lahore ≠ 1849 annexation**. Mudki = First Sikh, not Mysore. Sukerchakia = Ranjit’s misl. Kohinoor path = **Shah Shuja → Ranjit → British (1849)**.
 
 **PYQ — UPPCS Prelims 2021, Q67**
 
@@ -782,18 +903,19 @@ D. Multan
 
 ## 2.13 Anglo-Nepal War and Treaty of Sugauli, 1816
 
-**Governor-General:Lord Hastings** (not Warren Hastings)
+**Governor-General: Lord Hastings** (not Warren Hastings)
 
 ### Causes
 
 - The Gurkhas expanded into **Garhwal, Kumaon and Sikkim**.
 - Border clashes with Company territories and hill claims made war inevitable.
+- Lord Hastings wanted a secure Himalayan frontier after the Ring Fence / Subsidiary phase.
 
 ### Course of the war, 1814–16
 
-- Early British campaigns struggled in the hills.
+- Early British campaigns struggled in the hills against Gurkha defence.
 - **Nalapani** is remembered for **Balbhadra Kunwar’s** defence.
-- **David Ochterlony** pressed **Amar Singh Thapa** and turned the war.
+- **David Ochterlony** pressed **Amar Singh Thapa** and turned the war toward a British settlement.
 
 ### Results — Treaty of Sugauli, 1816
 
@@ -861,27 +983,50 @@ D. 3, 1, 2, 4
 
 ### First Anglo-Burmese War, 1824–26
 
-**Causes:** Border clashes in Assam / Arakan and Burmese expansion under the Konbaung kings. GG = **Amherst**, not Dalhousie.
+#### Causes
 
-**Course:** Hard jungle and river campaign. **Maha Bandula** was killed at Danubyu in **1825**. British pressure finally forced Ava to treat.
+- Border clashes in Assam / Arakan and Burmese expansion under the Konbaung kings.
+- GG = **Amherst**, not Dalhousie.
 
-**Results:Treaty of Yandabo, 1826**. Company gained **Assam, Manipur, Arakan and Tenasserim**. Heavy war cost, but Assam entered British orbit.
+#### Course
+
+- Hard jungle and river campaign drained both sides.
+- **Maha Bandula** was killed at Danubyu in **1825**.
+- British pressure finally forced Ava to treat.
+
+#### Results
+
+- The **Treaty of Yandabo, 1826** gave the Company **Assam, Manipur, Arakan and Tenasserim**.
+- War cost was heavy, but Assam entered British orbit.
 
 ### Second Anglo-Burmese War, 1852
 
-**Causes:** Trade and insult disputes under Dalhousie’s forward policy.
+#### Causes
 
-**Course:** Short coastal–Irrawaddy campaign against a weaker Ava court.
+- Trade and insult disputes under Dalhousie’s forward annexation mood.
+- Lower Burma commerce and Rangoon control mattered more than Ava’s inland court.
 
-**Results:Pegu / Lower Burma** annexed.
+#### Course
+
+- Short coastal–Irrawaddy campaign against a weaker Ava court.
+
+#### Results
+
+- **Pegu / Lower Burma** was annexed. Upper Burma still remained under the Konbaung king for a time.
 
 ### Third Anglo-Burmese War, 1885
 
-**Causes:** Thibaw’s court politics and British commercial/strategic fear of French influence.
+#### Causes
 
-**Course:** Rapid advance on Mandalay. Little prolonged field war.
+- **Thibaw’s** court politics and British commercial fear of **French** influence in Upper Burma.
 
-**Results:Thibaw** deposed. Upper Burma taken. Burma became a province of British India.
+#### Course
+
+- Rapid advance on **Mandalay**. Little prolonged field war.
+
+#### Results
+
+- Thibaw was deposed. Upper Burma was taken. Burma became a province of British India.
 
 > **Logic:** First Burma War is **not** Dalhousie’s. Basic date fact = **Yandabo 1826**.
 
@@ -889,23 +1034,24 @@ D. 3, 1, 2, 4
 
 ## 2.15 Sindh Annexation, 1843
 
-**Rulers:Talpur Amirs** | GG **Ellenborough** | Field commander **Sir Charles Napier**
+**Rulers: Talpur Amirs** | GG **Ellenborough** | Field commander **Sir Charles Napier**
 
 ### Causes
 
-- After the **First Afghan War** the British wanted a secure Indus supply route.
+- After the **First Afghan War** the British wanted a secure **Indus** supply route.
 - Earlier pressure included commercial treaties and navigation rights on the Indus.
-- Ellenborough and Napier pushed from diplomacy to conquest.
+- **Ellenborough** chose conquest politics. **Napier** executed them in the field.
+- The Talpur Amirs of Sindh were pressed beyond the older friendship treaties.
 
 ### Course of the war
 
 - Conquest was prepared gradually, then decided in the field in **1843**.
 - **Battle of Miani (17 February 1843)** broke the main Amirs’ army.
-- **Battle of Dabo (24 March 1843)** finished resistance.
+- **Battle of Dabo / Hyderabad (24 March 1843)** finished resistance.
 
 ### Results
 
-- Sindh was annexed in **1843**.
+- Sindh was annexed in **1843** under Ellenborough / Napier — **not** under Dalhousie.
 - Napier’s reported telegram **“Peccavi”** (“I have sinned”) is folklore, not a treaty name.
 - Sindh became a British province / strategic Indus base before Punjab’s fall in **1849**.
 
@@ -917,19 +1063,41 @@ D. 3, 1, 2, 4
 
 ### Pindaris (Lord Hastings)
 
-**Causes:** Pindari plunder bands in Malwa / Central India raided Company and allied lands. Early nineteenth-century leaders often keyed are **Chittu**, **Karim Khan** and **Basil Mohammad**.
+#### Causes
 
-**Course:** **Lord Hastings** ran the **Pindari campaign (1817–18)** alongside the **Third Anglo-Maratha War**.
+- Pindari plunder bands in Malwa / Central India raided Company and allied lands.
+- Early nineteenth-century leaders often keyed are **Chittu**, **Karim Khan** and **Basil Mohammad**.
+- Lord Hastings linked the Pindari hunt with the final smash of Maratha independence.
 
-**Results:** Pindari power destroyed. With the Peshwa’s fall, British paramountcy in central India was complete.
+#### Course
+
+- The **Pindari campaign (1817–18)** ran alongside the **Third Anglo-Maratha War**.
+- British columns from Bengal, the Deccan and Gujarat closed a ring on Malwa.
+- Pindari bands were chased, broken and denied sanctuary with Maratha houses.
+
+#### Results
+
+- Pindari power was destroyed.
+- With the Peshwa’s fall, British paramountcy in central India was complete.
 
 ### Vellore Mutiny, 1806
 
-**Causes:** New dress and caste-religious regulations angered sepoys in the Madras Presidency after Wellesley’s recall.
+#### Causes
 
-**Course:** On **10 July 1806** sepoys rose in the fort at **Vellore**. Tipu’s family was confined there. The rising failed quickly.
+- New dress codes, leather cockades and caste-religious regulations angered Madras sepoys.
+- Tipu’s sons and family were confined in **Vellore** fort after **1799**, which kept Mysore memory alive in the garrison town.
+- The rising sits after Wellesley’s recall (**1805**).
 
-**Results:** Mutiny crushed. It is an expansion-era chronology fact (after Wellesley **1805**, before Nepal **1814**), not the Revolt of 1857.
+#### Course
+
+- On **10 July 1806** sepoys rose in the fort at **Vellore**.
+- Officers were killed and the Tipu standard was briefly raised.
+- Colonel Gillespie’s relief from Arcot crushed the mutiny the same day.
+
+#### Results
+
+- The mutiny was crushed. Dress orders were rolled back in part.
+- It is an expansion-era chronology fact (after Wellesley **1805**, before Nepal **1814**), not the Revolt of **1857**.
 
 > **Logic:** Nana Fadnavis d. **1800** → Wellesley recalled **1805** → Vellore **1806** → Anglo-Nepal **1814–16**.
 
@@ -939,46 +1107,86 @@ D. 3, 1, 2, 4
 
 ### First Anglo-Afghan War, 1839–42
 
-**Causes:** Nineteenth-century Anglo-Afghan policy rested on fear of **Russian** expansion toward India (British memory often tags the Russo–Iranian **Treaty of Turkmenchay, 1828**). Auckland planned to replace **Dost Muhammad** with Shah Shuja.
+#### Causes
 
-**Course:** British entered Kabul, then faced rising resistance. The **1842 retreat from Kabul** was a disaster. Elphinstone’s column was destroyed.
+- Nineteenth-century Anglo-Afghan policy rested on fear of **Russian** expansion toward India (British memory often tags the Russo–Iranian **Treaty of Turkmenchay, 1828**).
+- **Auckland** planned to replace **Dost Muhammad** with **Shah Shuja**.
 
-**Results:** Company failure. Dost Muhammad returned. Lesson fed later **Masterly Inactivity**.
+#### Course
+
+- British entered Kabul, then faced rising resistance.
+- The **1842 retreat from Kabul** was a disaster. Elphinstone’s column was destroyed.
+
+#### Results
+
+- Company failure. Dost Muhammad returned.
+- The disaster fed later **Masterly Inactivity** under John Lawrence.
 
 ### Second Anglo-Afghan War, 1878–80
 
-**Causes:** Lytton’s **Proud Reserve** / forward Afghan line and embassy disputes.
+#### Causes
 
-**Course:** British invasions and fluctuating Kabul politics; Treaty of Gandamak phase.
+- **Lytton’s Proud Reserve** was the **Forward Policy** line on Afghanistan in the 1870s.
+- Embassy disputes and fear of Russian influence opened war.
 
-**Results:** Temporary British control of Afghan foreign policy; later **Abdur Rahman** settled as Amir under British influence on external affairs.
+#### Course
+
+- British invasions and fluctuating Kabul politics followed.
+- The **Treaty of Gandamak** phase tried to bind Afghan foreign policy.
+
+#### Results
+
+- Temporary British control of Afghan foreign policy.
+- Later **Abdur Rahman** settled as Amir under British influence on external affairs.
 
 ### Third Anglo-Afghan War, 1919
 
-**Causes:** Afghan bid for full independence after World War I.
+#### Causes
 
-**Course:** Short frontier war.
+- Afghan bid for full independence after World War I.
 
-**Results:** Afghanistan gained independence in foreign affairs.
+#### Course
+
+- Short frontier war.
+
+#### Results
+
+- Afghanistan gained independence in foreign affairs.
+
+### Masterly Inactivity vs Proud Reserve / Forward Policy
 
 - **John Lawrence’s Masterly Inactivity** meant caution on Afghanistan after the First War — watch the frontier, avoid costly occupation.
-- **Lytton’s Proud Reserve** was the forward Afghan policy of the 1870s.
+- **Lytton’s Proud Reserve** was the named **Forward Policy** of the 1870s — assert influence inside Afghan politics rather than wait.
+- Do not swap the two. Masterly Inactivity is Lawrence’s brake. Forward Policy / Proud Reserve is Lytton’s accelerator.
 
 ### Anglo-Bhutanese War → Treaty of Sinchula, 1865
 
-**Causes:** Border friction in Assam / Duars.
+#### Causes
 
-**Course:** British campaign in the Duars in the 1860s.
+- Border friction in Assam / Duars.
 
-**Results:Treaty of Sinchula (1865)** — Britain took the **Duars**; Bhutan kept independence with a subsidy arrangement.
+#### Course
+
+- British campaign in the Duars in the 1860s.
+
+#### Results
+
+- The **Treaty of Sinchula (1865)** gave Britain the **Duars**.
+- Bhutan kept independence with a subsidy arrangement.
 
 ### Younghusband mission to Tibet, 1904
 
-**Causes:** Curzon’s frontier anxiety about Russian influence in Tibet.
+#### Causes
 
-**Course:** Armed British mission under **Younghusband** reached Lhasa.
+- Curzon’s frontier anxiety about Russian influence in Tibet.
 
-**Results:** Treaty pressure on Tibet. Tibet was **not** annexed as a British province.
+#### Course
+
+- Armed British mission under **Younghusband** reached Lhasa.
+
+#### Results
+
+- Treaty pressure on Tibet. Tibet was **not** annexed as a British province.
 
 > **Logic:** Do not place First Afghan War under Dalhousie. Masterly Inactivity ≠ Proud Reserve.
 
@@ -1106,7 +1314,7 @@ Code = **III, IV, II, I**.
 | Hardinge | 1st Sikh War |
 | Dalhousie | Lapse; Punjab 1849; Awadh 1856; 2nd Burma |
 | Lawrence | Masterly Inactivity (Afghan caution) |
-| Lytton | Proud Reserve; 2nd Afghan context |
+| Lytton | Proud Reserve / Forward Policy; 2nd Afghan context |
 
 **PYQ — UPPCS Prelims 2019, Q93**
 
@@ -1522,7 +1730,7 @@ D. Jamadani
 
 ## Ghatnachakra Extra Drill — EIC & Nawabs of Bengal
 
-Teaching for these stems sits in **2.1–2.5** (and Wandiwash chronology with Carnatic markers in Topic 12 / §2.0 phase map).
+Teaching for these stems sits in **2.1–2.5** (Wandiwash chronology also sits with Carnatic markers in the phase map at **2.0**).
 
 **Q1. UPPCS (Mains) 2013 / UP R.O./A.R.O. (Pre) 2021**
 

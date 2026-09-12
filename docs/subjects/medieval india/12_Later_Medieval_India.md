@@ -194,22 +194,28 @@ Later Mughals | Disintegration of the Mughal Empire | Nadir Shah | Hyderabad Niz
 
 **Result:** **Treaty of Aix-la-Chapelle (1748)** ended the European war and the First Carnatic War and **returned Madras to the English**.
 
+### Second Carnatic War (1749–54) — Cause, Course, Result
+
+**Cause:** After Aix-la-Chapelle, French and English companies backed rival claimants in Hyderabad and the Carnatic. **Muzaffar Jang**, **Chanda Sahib**, and the French challenged Nawab **Anwaruddin**.
+
+**Course:** The **Battle of Ambur (1749)** opens the war. The French-backed coalition defeated Anwaruddin. Fighting then dragged through succession intrigue under **Dupleix**. The struggle is often keyed as **inconclusive** for a clean English–French balance.
+
+**Result:** No lasting French supremacy emerged. Dupleix was recalled in **1754**. The template of European troops paid by Indian courts survived for the English to use later.
+
+### Third Carnatic War and Wandiwash (1756–63) — Cause, Course, Result
+
+**Cause:** The Indian face of the **Seven Years’ War** reopened Anglo–French conflict in the Carnatic after the inconclusive second war.
+
+**Course:** At **Wandiwash (1760)**, the British under **Eyre Coote** defeated the French under **Count de Lally**. British **naval superiority** and later **Bengal wealth and manpower** after Plassey–Diwani tipped the Deccan balance.
+
+**Result:** The **Treaty of Paris (1763)** ended the Third Carnatic War. French political hopes in the Carnatic collapsed; Pondicherry and other factories survived mainly as commercial pockets.
+
 ### Pondicherry occupation order
 
 - The **Portuguese** were the first Europeans to occupy **Pondicherry**.
 - The **Dutch** came next.
 - The **English** also held Pondicherry for a phase (**1793–1814**) before returning it under the **Treaty of Paris**.
 - The claim that the English never occupied Pondicherry is false.
-
-### Later Carnatic markers
-
-- **Battle of Ambur (1749)** opens the **Second Carnatic War** (**1749–54**, not 1750–52).
-- At Ambur, Muzaffar Jang, Chanda Sahib, and the French defeated **Anwaruddin**.
-- **Second Carnatic War** is often keyed as **inconclusive** for the English–French balance.
-- At **Wandiwash (1760)**, the British under **Eyre Coote** defeated the French under **Count de Lally**.
-- That battle was a decisive blow to French hopes in the Carnatic.
-- **Third Carnatic War** ties to the Seven Years’ War and ends with the **Treaty of Paris (1763)**.
-- British success owed much to **naval superiority** and later to **Bengal wealth and manpower** after Plassey–Diwani.
 
 ### PYQ — Aix-la-Chapelle 1748
 
@@ -218,20 +224,17 @@ Later Mughals | Disintegration of the Mughal Empire | Nadir Shah | Hyderabad Niz
 1. The **First Carnatic War** ended.
 2. **Madras** was returned to the English.
 
-A. Only 1 |
-
-B. Neither |
-
-C. Both |
-
+A. Only 1
+B. Neither
+C. Both
 D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C (Both)Statement 1 is true:** The **First Carnatic War** ended in **1748**.
+**Logic:** Both statements are true — the First Carnatic War ended in 1748, and Madras was restored to the English under Aix-la-Chapelle.
 
-**Statement 2 is true:Madras** was restored to the English under the treaty.
+**Ans: C.**
 
 **Trap:** Do not confuse **Aix-la-Chapelle (1748)** with **Paris (1763)**.
 
@@ -248,7 +251,7 @@ D. Only 2
 - **Serampore** in Bengal became a Danish factory and later a famous **mission press** centre before British takeover.
 - Danish settlements were commercially minor compared with the English and French but matter for **factory-location** match questions.
 - In **1845** Denmark sold its Indian possessions to the British.
-- **Trap:Serampore** is Danish, not French. **Tranquebar** is Danish, not Dutch.
+- **Trap:** Serampore** is Danish, not French. **Tranquebar** is Danish, not Dutch.
 
 ---
 
@@ -287,7 +290,7 @@ A. II, I, IV and III | B. IV, II, I and III | C. I, III, II and IV | D. III, II,
 
 **Ans: A (II-I-IV-III)Order:** Ralph Fitch **1585** → William Hawkins **1608** → Nicholas Downton **1614** → Sir Thomas Roe **1615**.
 
-**Trap:Roe** was ambassador **1615–19**, not the first English arrival. **Bernier** (French, Aurangzeb court) and **Manucci** (Venetian) are not in this British chronology list.
+**Trap:** Roe** was ambassador **1615–19**, not the first English arrival. **Bernier** (French, Aurangzeb court) and **Manucci** (Venetian) are not in this British chronology list.
 
 </details>
 
@@ -385,19 +388,16 @@ A. II, I, IV and III | B. IV, II, I and III | C. I, III, II and IV | D. III, II,
 
 Arrange foreign travellers by arrival: I. William Hawkins II. Ralph Fitch III. Sir Thomas Roe IV. Nicholas Dawnton
 
-A. II, I, IV and III |
-
-B. IV, II, I and III |
-
-C. I, III, II and IV |
-
+A. II, I, IV and III
+B. IV, II, I and III
+C. I, III, II and IV
 D. III, II, IV and I
 
 <details><summary>Show answer</summary>
 
 **Ans: A (II-I-IV-III)Order:** Ralph Fitch **1585** → William Hawkins **1608** → Nicholas Downton **1614** → Sir Thomas Roe **1615**.
 
-**Trap:Roe** is ambassador **1615–19**, not the first English arrival.
+**Trap:** Roe** is ambassador **1615–19**, not the first English arrival.
 
 </details>
 
@@ -405,17 +405,16 @@ D. III, II, IV and I
 
 Captain Hawkins: 1. Came to India in 1611 as envoy of James I. 2. Very well versed in Turkish.
 
-A. Only 1 |
-
-B. Only 2 |
-
-C. Both 1 and 2 |
-
+A. Only 1
+B. Only 2
+C. Both 1 and 2
 D. Neither 1 nor 2
 
 <details><summary>Show answer</summary>
 
-**Ans: B (Only 2)Key:** Statement **1** is false (arrival **1608** on **Hector**); statement **2** is true (Turkish at Jahangir's court).
+**Logic:** ** Statement **1** is false (arrival **1608** on **Hector**); statement **2** is true (Turkish at Jahangir's court).
+
+**Ans: B (Only 2).**
 
 **Trap:1611** is the trap year — Hawkins came **1608**, Roe came **1615**.
 
@@ -425,17 +424,16 @@ D. Neither 1 nor 2
 
 Treaty of Aix-la-Chapelle (1748): 1. First Carnatic War ended. 2. Madras was returned to the English.
 
-A. 1 only |
-
-B. 2 only |
-
-C. Both 1 and 2 |
-
+A. 1 only
+B. 2 only
+C. Both 1 and 2
 D. Neither 1 nor 2
 
 <details><summary>Show answer</summary>
 
-**Ans: C (Both 1 and 2)Key:** Both statements are true — war ended **1748** and **Madras** (taken 1746) went back to the English.
+**Logic:** ** Both statements are true — war ended **1748** and **Madras** (taken 1746) went back to the English.
+
+**Ans: C (Both 1 and 2).**
 
 **Trap:** **Aix-la-Chapelle (1748)** restored French factories — not **Paris (1763)** of the Seven Years' War.
 
@@ -445,19 +443,18 @@ D. Neither 1 nor 2
 
 Treaty of Aix-la-Chapelle (1748): 1. The First Carnatic War ended. 2. Madras was returned to the English.
 
-A. Only 2 |
-
-B. Neither 1 nor 2 |
-
-C. Both 1 and 2 |
-
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
 D. Only 1
 
 <details><summary>Show answer</summary>
 
-**Ans: C (Both 1 and 2)Key:** First Carnatic War ended; **Madras** restored to the English under the **1748** treaty.
+**Logic:** ** First Carnatic War ended; **Madras** restored to the English under the **1748** treaty.
 
-**Trap:Paris 1763** ended French hopes after Wandiwash — different treaty.
+**Ans: C (Both 1 and 2).**
+
+**Trap:** Paris 1763** ended French hopes after Wandiwash — different treaty.
 
 </details>
 
@@ -465,19 +462,16 @@ D. Only 1
 
 Arrange: 1. First Anglo-Mysore War 2. Second Anglo-French War 3. First Anglo-Sikh War 4. First Anglo-Afghan War
 
-A. 2, 1, 4, 3 |
-
-B. 1, 2, 3, 4 |
-
-C. 1, 2, 4, 3 |
-
+A. 2, 1, 4, 3
+B. 1, 2, 3, 4
+C. 1, 2, 4, 3
 D. 2, 1, 3, 4
 
 <details><summary>Show answer</summary>
 
 **Ans: A (2-1-4-3)Order:** Second Anglo-French/Carnatic **1749–54** → First Anglo-Mysore **1767** → First Anglo-Afghan **1839** → First Anglo-Sikh **1845**.
 
-**Trap:Second Anglo-French** is the Carnatic phase, not Panipat III.
+**Trap:** Second Anglo-French** is the Carnatic phase, not Panipat III.
 
 </details>
 
@@ -485,19 +479,16 @@ D. 2, 1, 3, 4
 
 Arrange: 1. Acquisition of Awadh by the British 2. Ilbert Bill Controversy 3. Indigo Revolt 4. Second Anglo-Afghan War
 
-A. 1, 3, 4, 2 |
-
-B. 3, 1, 2, 4 |
-
-C. 3, 1, 4, 2 |
-
+A. 1, 3, 4, 2
+B. 3, 1, 2, 4
+C. 3, 1, 4, 2
 D. 1, 3, 2, 4
 
 <details><summary>Show answer</summary>
 
 **Ans: A (1-3-4-2)Order:** Awadh annexation **1856** → Indigo Revolt **1859** → Second Anglo-Afghan War **1878–80** → Ilbert Bill **1883**.
 
-**Trap:Awadh 1856** precedes **Indigo 1859** — annexation fed the **1857** Lucknow rising.
+**Trap:** Awadh 1856** precedes **Indigo 1859** — annexation fed the **1857** Lucknow rising.
 
 </details>
 
@@ -1743,17 +1734,16 @@ D. None of the above
 
 **Q1.** Travellers: I Hawkins II Fitch III Roe IV Downton
 
-A. II-I-IV-III |
-
-B. IV-II-I-III |
-
-C. I-III-II-IV |
-
+A. II-I-IV-III
+B. IV-II-I-III
+C. I-III-II-IV
 D. III-II-IV-I
 
 <details><summary>Show answer</summary>
 
-**Ans: AWhy:** The correct fact is **II-I-IV-III**.
+**Logic:** The keyed fact is **II-I-IV-III**.
+
+**Ans: A.**
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -1761,12 +1751,9 @@ D. III-II-IV-I
 
 **Q2.** Hawkins: 1. Came 1611 as James I envoy 2. Well versed in Turkish
 
-A. Only 1 |
-
-B. Only 2 |
-
-C. Both |
-
+A. Only 1
+B. Only 2
+C. Both
 D. Neither
 
 <details><summary>Show answer</summary>
@@ -1781,17 +1768,16 @@ D. Neither
 
 **Q3.** Aix-la-Chapelle 1748: 1. First Carnatic War ended 2. Madras returned to the English
 
-A. Only 2 |
-
-B. Neither |
-
-C. Both |
-
+A. Only 2
+B. Neither
+C. Both
 D. Only 1
 
 <details><summary>Show answer</summary>
 
-**Ans: CKey:** Both statements are correct.
+**Logic:** ** Both statements are correct.
+
+**Ans: C.**
 
 **Logic:** **Aix-la-Chapelle (1748)** ended the First Carnatic War and restored French factories in India.
 
@@ -1801,17 +1787,16 @@ D. Only 1
 
 **Q4.** Awadh 1, Ilbert 2, Indigo 3, 2nd Afghan 4
 
-A. 1-3-4-2 |
-
-B. 3-1-2-4 |
-
-C. 3-1-4-2 |
-
+A. 1-3-4-2
+B. 3-1-2-4
+C. 3-1-4-2
 D. 1-3-2-4
 
 <details><summary>Show answer</summary>
 
-**Ans: AWhy:** The correct fact is **1-3-4-2**.
+**Logic:** The keyed fact is **1-3-4-2**.
+
+**Ans: A.**
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -1819,12 +1804,9 @@ D. 1-3-2-4
 
 **Q5.** Wars: 1.First Anglo-Mysore 2.Second Anglo-French 3.First Anglo-Sikh 4.First Anglo-Afghan
 
-A. 2-1-4-3 |
-
-B. 1-2-3-4 |
-
-C. 1-2-4-3 |
-
+A. 2-1-4-3
+B. 1-2-3-4
+C. 1-2-4-3
 D. 2-1-3-4
 
 <details><summary>Show answer</summary>
@@ -1839,17 +1821,16 @@ D. 2-1-3-4
 
 **Q6.** Goa 1510 was taken by:
 
-A. Vasco da Gama |
-
-B. Albuquerque |
-
-C. Dupleix |
-
+A. Vasco da Gama
+B. Albuquerque
+C. Dupleix
 D. Hawkins
 
 <details><summary>Show answer</summary>
 
-**Ans: BWhy:** The correct fact is **Albuquerque**.
+**Logic:** The keyed fact is **Albuquerque**.
+
+**Ans: B.**
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -1857,17 +1838,16 @@ D. Hawkins
 
 **Q7.** First lasting English factory:
 
-A. Madras 1498 |
-
-B. Surat 1612 |
-
-C. Calcutta 1600 |
-
+A. Madras 1498
+B. Surat 1612
+C. Calcutta 1600
 D. Pondicherry 1674
 
 <details><summary>Show answer</summary>
 
-**Ans: BWhy:** The correct fact is **Surat 1612**.
+**Logic:** The keyed fact is **Surat 1612**.
+
+**Ans: B.**
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -1875,21 +1855,22 @@ D. Pondicherry 1674
 
 **Q8.** Tranquebar is:
 
-A. Portuguese |
-
-B. Dutch |
-
-C. French |
-
+A. Portuguese
+B. Dutch
+C. French
 D. Danish
 
 <details><summary>Show answer</summary>
 
-**Ans: DWhy:** The correct fact is **Danish
+**Logic:** The keyed fact is **Danish
+
+**Ans: D.**
 
 <details><summary>Show answer</summary>
 
-**Ans: DWhy:** Matches the core teaching fact for this topic.
+**Logic:** ** Matches the core teaching fact for this topic.
+
+**Ans: D.**
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -1899,17 +1880,16 @@ D. Danish
 
 **Q9.** Pondicherry is:
 
-A. Dutch |
-
-B. French |
-
-C. Danish |
-
+A. Dutch
+B. French
+C. Danish
 D. Portuguese
 
 <details><summary>Show answer</summary>
 
-**Ans: BWhy:** The correct fact is **French**.
+**Logic:** The keyed fact is **French**.
+
+**Ans: B.**
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -1917,17 +1897,16 @@ D. Portuguese
 
 **Q10.** Awadh Nawabi founder:
 
-A. Murshid Quli Khan |
-
-B. Saadat Khan |
-
-C. Wajid Ali Shah |
-
+A. Murshid Quli Khan
+B. Saadat Khan
+C. Wajid Ali Shah
 D. Dupleix
 
 <details><summary>Show answer</summary>
 
-**Ans: BWhy:** The correct fact is **Saadat Khan**.
+**Logic:** The keyed fact is **Saadat Khan**.
+
+**Ans: B.**
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -1935,17 +1914,16 @@ D. Dupleix
 
 **Q11.** Cartaze is:
 
-A. Mughal farman |
-
-B. Portuguese sea-pass |
-
-C. Dutch spice tax |
-
+A. Mughal farman
+B. Portuguese sea-pass
+C. Dutch spice tax
 D. Awadh land grant
 
 <details><summary>Show answer</summary>
 
-**Ans: BWhy:** The correct fact is **Portuguese sea-pass**.
+**Logic:** The keyed fact is **Portuguese sea-pass**.
+
+**Ans: B.**
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -1953,17 +1931,16 @@ D. Awadh land grant
 
 **Q12.** EIC charter year:
 
-A. 1498 |
-
-B. 1600 |
-
-C. 1602 |
-
+A. 1498
+B. 1600
+C. 1602
 D. 1664
 
 <details><summary>Show answer</summary>
 
-**Ans: BWhy:** The correct fact is **1600**.
+**Logic:** The keyed fact is **1600**.
+
+**Ans: B.**
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -1971,17 +1948,16 @@ D. 1664
 
 **Q13.** VOC charter year:
 
-A. 1600 |
-
-B. 1602 |
-
-C. 1616 |
-
+A. 1600
+B. 1602
+C. 1616
 D. 1664
 
 <details><summary>Show answer</summary>
 
-**Ans: BWhy:** The correct fact is **1602**.
+**Logic:** The keyed fact is **1602**.
+
+**Ans: B.**
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -1989,17 +1965,16 @@ D. 1664
 
 **Q14.** Bernier was:
 
-A. English ambassador of 1608 |
-
-B. French physician at Aurangzeb’s court |
-
-C. Danish governor of Tranquebar |
-
+A. English ambassador of 1608
+B. French physician at Aurangzeb’s court
+C. Danish governor of Tranquebar
 D. Founder of Awadh
 
 <details><summary>Show answer</summary>
 
-**Ans: BWhy:** The correct fact is **French physician at Aurangzeb’s court**.
+**Logic:** The keyed fact is **French physician at Aurangzeb’s court**.
+
+**Ans: B.**
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -2007,17 +1982,16 @@ D. Founder of Awadh
 
 **Q15.** Hooghly expulsion 1632:
 
-A. Akbar vs Dutch |
-
-B. Shah Jahan vs Portuguese |
-
-C. Jahangir vs French |
-
+A. Akbar vs Dutch
+B. Shah Jahan vs Portuguese
+C. Jahangir vs French
 D. Aurangzeb vs Danes
 
 <details><summary>Show answer</summary>
 
-**Ans: BWhy:** The correct fact is **Shah Jahan vs Portuguese**.
+**Logic:** The keyed fact is **Shah Jahan vs Portuguese**.
+
+**Ans: B.**
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -2025,17 +1999,16 @@ D. Aurangzeb vs Danes
 
 **Q16.** Fort St George is at:
 
-A. Surat |
-
-B. Madras |
-
-C. Bombay |
-
+A. Surat
+B. Madras
+C. Bombay
 D. Calcutta
 
 <details><summary>Show answer</summary>
 
-**Ans: BWhy:** The correct fact is **Madras**.
+**Logic:** The keyed fact is **Madras**.
+
+**Ans: B.**
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -2043,17 +2016,16 @@ D. Calcutta
 
 **Q17.** Bombay leased to EIC in:
 
-A. 1608 |
-
-B. 1612 |
-
-C. 1668 |
-
+A. 1608
+B. 1612
+C. 1668
 D. 1748
 
 <details><summary>Show answer</summary>
 
-**Ans: CWhy:** The correct fact is **1668**.
+**Logic:** The keyed fact is **1668**.
+
+**Ans: C.**
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -2061,17 +2033,16 @@ D. 1748
 
 **Q18.** 1. Hawkins came 1608 2. Roe came 1615–19
 
-A. Only 1 |
-
-B. Only 2 |
-
-C. Both |
-
+A. Only 1
+B. Only 2
+C. Both
 D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: CKey:** Both statements are correct.
+**Logic:** ** Both statements are correct.
+
+**Ans: C.**
 
 **Trap:** Test each statement separately before choosing the code.
 
@@ -2079,17 +2050,16 @@ D. Neither
 
 **Q19.** Bara Imambara is linked with:
 
-A. Saadat Khan |
-
-B. Asaf-ud-Daula |
-
-C. Albuquerque |
-
+A. Saadat Khan
+B. Asaf-ud-Daula
+C. Albuquerque
 D. Clive
 
 <details><summary>Show answer</summary>
 
-**Ans: BWhy:** The correct fact is **Asaf-ud-Daula**.
+**Logic:** The keyed fact is **Asaf-ud-Daula**.
+
+**Ans: B.**
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -2097,17 +2067,16 @@ D. Clive
 
 **Q20.** Last Nawab of Awadh:
 
-A. Safdar Jung |
-
-B. Shuja-ud-Daula |
-
-C. Wajid Ali Shah |
-
+A. Safdar Jung
+B. Shuja-ud-Daula
+C. Wajid Ali Shah
 D. Saadat Khan
 
 <details><summary>Show answer</summary>
 
-**Ans: CWhy:** The correct fact is **Wajid Ali Shah**.
+**Logic:** The keyed fact is **Wajid Ali Shah**.
+
+**Ans: C.**
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -2115,17 +2084,16 @@ D. Saadat Khan
 
 **Q21.** Aix-la-Chapelle is the same treaty as Paris 1763.
 
-A. True |
-
-B. False |
-
-C. Only for Bengal |
-
+A. True
+B. False
+C. Only for Bengal
 D. Only for Goa
 
 <details><summary>Show answer</summary>
 
-**Ans: BWhy:** The correct fact is **False**.
+**Logic:** The keyed fact is **False**.
+
+**Ans: B.**
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -2133,17 +2101,16 @@ D. Only for Goa
 
 **Q22.** Pulicat was the HQ of:
 
-A. Portuguese |
-
-B. Dutch |
-
-C. French |
-
+A. Portuguese
+B. Dutch
+C. French
 D. Danish
 
 <details><summary>Show answer</summary>
 
-**Ans: BWhy:** The correct fact is **Dutch**.
+**Logic:** The keyed fact is **Dutch**.
+
+**Ans: B.**
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -2151,17 +2118,16 @@ D. Danish
 
 **Q23.** Chandernagore was:
 
-A. Danish |
-
-B. French Bengal |
-
-C. English Surat |
-
+A. Danish
+B. French Bengal
+C. English Surat
 D. Awadh capital
 
 <details><summary>Show answer</summary>
 
-**Ans: BWhy:** The correct fact is **French Bengal**.
+**Logic:** The keyed fact is **French Bengal**.
+
+**Ans: B.**
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -2169,17 +2135,16 @@ D. Awadh capital
 
 **Q24.** 1. EIC ruled India from 1600 2. 1600 is a trade charter
 
-A. Only 1 |
-
-B. Only 2 |
-
-C. Both |
-
+A. Only 1
+B. Only 2
+C. Both
 D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: B (Only 2)Key:** Statement **1** is false — EIC did **not** rule India from **1600** (trade charter only). Statement **2** is true.
+**Logic:** ** Statement **1** is false — EIC did **not** rule India from **1600** (trade charter only). Statement **2** is true.
+
+**Ans: B (Only 2).**
 
 **Trap:** Territorial rule begins **1757+**, not 1600.
 
@@ -2187,17 +2152,16 @@ D. Neither
 
 **Q25.** Shuja-ud-Daula at Panipat III:
 
-A. Fought for Marathas |
-
-B. Allied with Abdali |
-
-C. Commanded French guns |
-
+A. Fought for Marathas
+B. Allied with Abdali
+C. Commanded French guns
 D. Founded Goa
 
 <details><summary>Show answer</summary>
 
-**Ans: BWhy:** The correct fact is **Allied with Abdali**.
+**Logic:** The keyed fact is **Allied with Abdali**.
+
+**Ans: B.**
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -2205,21 +2169,22 @@ D. Founded Goa
 
 **Q26.** French company founded:
 
-A. 1498 |
-
-B. 1600 |
-
-C. 1602 |
-
+A. 1498
+B. 1600
+C. 1602
 D. 1664
 
 <details><summary>Show answer</summary>
 
-**Ans: DWhy:** The correct fact is **1664
+**Logic:** The keyed fact is **1664
+
+**Ans: D.**
 
 <details><summary>Show answer</summary>
 
-**Ans: DWhy:** Matches the core teaching fact for this topic.
+**Logic:** ** Matches the core teaching fact for this topic.
+
+**Ans: D.**
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -2229,17 +2194,16 @@ D. 1664
 
 **Q27.** NOT matched:
 
-A. Fitch – 1585 |
-
-B. Hawkins – 1608 |
-
-C. Roe – 1608 |
-
+A. Fitch – 1585
+B. Hawkins – 1608
+C. Roe – 1608
 D. Downton – 1614
 
 <details><summary>Show answer</summary>
 
-**Ans: CWhy wrong:** One pair breaks the standard fact in this topic.
+**Logic:** ** One pair breaks the standard fact in this topic.
+
+**Ans: C.**
 
 **Trap:** Eliminate pairs you know are correct first.
 
@@ -2247,17 +2211,16 @@ D. Downton – 1614
 
 **Q28.** Awadh annexed in:
 
-A. 1722 |
-
-B. 1765 |
-
-C. 1856 |
-
+A. 1722
+B. 1765
+C. 1856
 D. 1748
 
 <details><summary>Show answer</summary>
 
-**Ans: CWhy:** The correct fact is **1856**.
+**Logic:** The keyed fact is **1856**.
+
+**Ans: C.**
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -2265,17 +2228,16 @@ D. 1748
 
 **Q29.** Calicut 1498 visitor:
 
-A. Albuquerque |
-
-B. Vasco da Gama |
-
-C. Thomas Roe |
-
+A. Albuquerque
+B. Vasco da Gama
+C. Thomas Roe
 D. Dupleix
 
 <details><summary>Show answer</summary>
 
-**Ans: BWhy:** The correct fact is **Vasco da Gama**.
+**Logic:** The keyed fact is **Vasco da Gama**.
+
+**Ans: B.**
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -2283,17 +2245,16 @@ D. Dupleix
 
 **Q30.** Serampore was originally:
 
-A. French |
-
-B. Danish |
-
-C. Awadh |
-
+A. French
+B. Danish
+C. Awadh
 D. Mughal capital
 
 <details><summary>Show answer</summary>
 
-**Ans: BWhy:** The correct fact is **Danish**.
+**Logic:** The keyed fact is **Danish**.
+
+**Ans: B.**
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -2301,17 +2262,16 @@ D. Mughal capital
 
 **Q31.** 1. Pondicherry is French 2. Tranquebar is French
 
-A. Only 1 |
-
-B. Only 2 |
-
-C. Both |
-
+A. Only 1
+B. Only 2
+C. Both
 D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: A (Only 1)Key:** Only statement **1** is true — **Pondicherry** is French. Statement **2** is false — **Tranquebar** is **Danish**.
+**Logic:** ** Only statement **1** is true — **Pondicherry** is French. Statement **2** is false — **Tranquebar** is **Danish**.
+
+**Ans: A (Only 1).**
 
 **Trap:** Do not confuse French Pondicherry with Danish Tranquebar.
 
@@ -2319,17 +2279,16 @@ D. Neither
 
 **Q32.** Hawkins’s court was:
 
-A. Akbar |
-
-B. Jahangir |
-
-C. Aurangzeb |
-
+A. Akbar
+B. Jahangir
+C. Aurangzeb
 D. Saadat Khan
 
 <details><summary>Show answer</summary>
 
-**Ans: BWhy:** The correct fact is **Jahangir**.
+**Logic:** The keyed fact is **Jahangir**.
+
+**Ans: B.**
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -2337,17 +2296,16 @@ D. Saadat Khan
 
 **Q33.** Treaty of Allahabad 1765 mainly squeezed:
 
-A. Portuguese Goa |
-
-B. Awadh after Buxar |
-
-C. Danish Tranquebar |
-
+A. Portuguese Goa
+B. Awadh after Buxar
+C. Danish Tranquebar
 D. VOC Pulicat
 
 <details><summary>Show answer</summary>
 
-**Ans: BWhy:** The correct fact is **Awadh after Buxar**.
+**Logic:** The keyed fact is **Awadh after Buxar**.
+
+**Ans: B.**
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -2355,17 +2313,16 @@ D. VOC Pulicat
 
 **Q34.** Dupleix was:
 
-A. English victor of Plassey |
-
-B. French Carnatic governor |
-
-C. First Awadh Nawab |
-
+A. English victor of Plassey
+B. French Carnatic governor
+C. First Awadh Nawab
 D. Dutch Pulicat admiral
 
 <details><summary>Show answer</summary>
 
-**Ans: BWhy:** The correct fact is **French Carnatic governor**.
+**Logic:** The keyed fact is **French Carnatic governor**.
+
+**Ans: B.**
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -2373,17 +2330,16 @@ D. Dutch Pulicat admiral
 
 **Q35.** 1. Indigo Revolt is before Awadh annexation 2. Awadh annexation is 1856
 
-A. Only 1 |
-
-B. Only 2 |
-
-C. Both |
-
+A. Only 1
+B. Only 2
+C. Both
 D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: BWhy:** Indigo is 1859, after 1856.
+**Logic:** ** Indigo is 1859, after 1856.
+
+**Ans: B.**
 
 **Trap:** Test each statement separately before choosing the code.
 
@@ -2391,17 +2347,16 @@ D. Neither
 
 **Q36.** Factory in this topic means:
 
-A. Modern mill |
-
-B. Trading post |
-
-C. Mughal mint |
-
+A. Modern mill
+B. Trading post
+C. Mughal mint
 D. Awadh imambara
 
 <details><summary>Show answer</summary>
 
-**Ans: BWhy:** The correct fact is **Trading post**.
+**Logic:** The keyed fact is **Trading post**.
+
+**Ans: B.**
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
@@ -2409,17 +2364,16 @@ D. Awadh imambara
 
 **Q37.** Correct pair:
 
-A. VOC – 1600 |
-
-B. EIC – 1602 |
-
-C. French – 1664 |
-
+A. VOC – 1600
+B. EIC – 1602
+C. French – 1664
 D. Danish – 1498
 
 <details><summary>Show answer</summary>
 
-**Ans: CWhy:** The correct fact is **French – 1664**.
+**Logic:** The keyed fact is **French – 1664**.
+
+**Ans: C.**
 
 **Trap:** Cross-check Confused Pairs table before finalising.
 
@@ -2427,17 +2381,16 @@ D. Danish – 1498
 
 **Q38.** 2023 trap: Hawkins came to India in 1611.
 
-A. True |
-
-B. False |
-
-C. True only as ambassador Roe |
-
+A. True
+B. False
+C. True only as ambassador Roe
 D. True only for Fitch
 
 <details><summary>Show answer</summary>
 
-**Ans: BWhy:** The correct fact is **False**.
+**Logic:** The keyed fact is **False**.
+
+**Ans: B.**
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
 

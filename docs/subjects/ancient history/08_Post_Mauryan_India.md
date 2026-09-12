@@ -116,7 +116,7 @@ Post-Mauryan Period | Satavahana Rulers | South Indian History | Indo-Greeks | S
 - **Ashvaghosha** belongs to **Kanishka**. Do not put him with Ashoka.
 - The *Periplus* has **no named author**.
 
-> ** note:** *Milinda Panha* monk = **Nagasena**, not Nagarjuna.
+> **Logic:** *Milinda Panha* monk = **Nagasena**, not Nagarjuna.
 
 ---
 
@@ -180,7 +180,7 @@ D. Hathigumpha inscription
 
 </details>
 
-> ** note:** 185 = Shunga coup, not Ashoka’s death (232).
+> **Logic:** 185 = Shunga coup, not Ashoka’s death (232).
 
 ---
 
@@ -228,7 +228,7 @@ A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 
 </details>
 
-> ** note:** Gautamiputra Satakarni = **Satavahana** (Paithan). Kanishka = **Kushan**. Madurai = **Pandya**.
+> **Logic:** Gautamiputra Satakarni = **Satavahana** (Paithan). Kanishka = **Kushan**. Madurai = **Pandya**.
 
 ---
 
@@ -296,7 +296,7 @@ A. Kharvela B. Ashok C. Harshavardhan D. Kanishka
 
 </details>
 
-> ** note:Hathigumpha** = **Kharavela** of Kalinga.
+> **Logic:** Hathigumpha** = **Kharavela** of Kalinga.
 
 ---
 
@@ -328,7 +328,7 @@ A. Kharvela B. Ashok C. Harshavardhan D. Kanishka
 - Besnagar is **not** Pushyamitra’s two-ashwamedha record. That inscription is at **Ayodhya**.
 - Indo-Greek power in the northwest ends when **Shakas** take Gandhara and Punjab.
 
-> ** note:** Menander = Indo-Greek, *Milinda Panha*, capital **Sagala**. **Sangala** = Alexander’s 326 battle. **Heliodorus pillar** = **Besnagar**. Pushyamitra ashwamedha = **Ayodhya**.
+> **Logic:** Menander = Indo-Greek, *Milinda Panha*, capital **Sagala**. **Sangala** = Alexander’s 326 battle. **Heliodorus pillar** = **Besnagar**. Pushyamitra ashwamedha = **Ayodhya**.
 
 ---
 
@@ -350,7 +350,7 @@ A. Kharvela B. Ashok C. Harshavardhan D. Kanishka
 - Coaching ratio for gold : silver in the Saka–Kshatrapa horizon is **1 : 35** (**UKPCS 2021**).
 - **Vikrama Samvat 57 BCE** is the Vikramaditya legend at Ujjain. It is **not** the **Shaka era 78 CE** tied to Kanishka. The two eras differ by **135 years**.
 
-> ** note:** Junagadh is not Hathigumpha. Rudradaman is not Kharavela. Nahapana is Kshaharata, not Kardamaka.
+> **Logic:** Junagadh is not Hathigumpha. Rudradaman is not Kharavela. Nahapana is Kshaharata, not Kardamaka.
 
 ---
 
@@ -365,7 +365,7 @@ A. Kharvela B. Ashok C. Harshavardhan D. Kanishka
 - Christian legend places **St Thomas** at Gondophares’ court. That is tradition, not a royal inscription.
 - **Kujula Kadphises** of the Kushans displaces Parthian and remaining Greek power in the northwest.
 
-> ** note:** Gondophares is **Parthian / Pahlava**. He is not Maues (Shaka) and not Kanishka (Kushan).
+> **Logic:** Gondophares is **Parthian / Pahlava**. He is not Maues (Shaka) and not Kanishka (Kushan).
 
 ---
 
@@ -376,7 +376,7 @@ A. Kharvela B. Ashok C. Harshavardhan D. Kanishka
 - The **Kushanas** were one clan of the **Yuezhi** nomads of north Central Asia. They moved through Bactria into Gandhara and the Punjab.
 - The founder is **Kujula Kadphises**. He unifies Yuezhi clans and takes Gandhara–Punjab. His coinage is mainly **copper**.
 - **Vima Kadphises** (Kadphises II) issues the first large-scale **gold** coinage for regular use in India. Titles include **Shaonanoshao** (king of kings) and **Sarvalokeshvara**.
-- **Kanishka** is the greatest ruler. Full card in **8.8**.
+- **Kanishka** is the greatest Kushan ruler.
 - **Huvishka** and **Vasudeva I** are later great names before decline.
 - The main capital is **Purushapura (Peshawar)**. **Mathura** in Uttar Pradesh is the second great Kushan centre inside India.
 - At its height the empire runs from the **Oxus** / Turfan fringe to the middle **Ganga** plain — a dynasty whose power also sat **outside** India.
@@ -402,7 +402,7 @@ D. Sakas — Kushans — Greeks
 
 </details>
 
-> ** note:** Vima’s gold ≠ Gupta dinara as a “first” if the paper wants Kushan gold.
+> **Logic:** Vima’s gold ≠ Gupta dinara as a “first” if the paper wants Kushan gold.
 
 ---
 
@@ -423,7 +423,7 @@ D. Sakas — Kushans — Greeks
 - His coins show **Buddha**, **Shiva**, **Mithra**, and Greek deities on the same series.
 - Kanishka is a common **trap option** for **Hathigumpha**. That inscription belongs to **Kharavela** of Kalinga.
 
-> ** note:** Shaka era = **78 CE** (Kanishka). Vikrama era = **57 BCE**. **Hathigumpha** = **Kharavela** of Kalinga. Rabatak ≠ Shravasti.
+> **Logic:** Shaka era = **78 CE** (Kanishka). Vikrama era = **57 BCE**. **Hathigumpha** = **Kharavela** of Kalinga. Rabatak ≠ Shravasti.
 
 ---
 
@@ -480,7 +480,7 @@ D. Sakas — Kushans — Greeks
 
 - **Keeladi** is early historic Tamil urban. Tamil-Brahmi appears on pottery and caves. Yavana in the poems means a foreign or Roman trader.
 
-> ** note:** Muvendar is not Pallava. Sangam texts are not the *Arthashastra*. **Poduke = Arikamedu**. **Yavanapriya = pepper**, not muslin.
+> **Logic:** Muvendar is not Pallava. Sangam texts are not the *Arthashastra*. **Poduke = Arikamedu**. **Yavanapriya = pepper**, not muslin.
 
 ---
 
@@ -537,7 +537,7 @@ A. 4 2 3 1 B. 2 4 1 3 C. 2 4 3 1 D. 4 2 1 3
 
 </details>
 
-> ** note:** Rajaraja I is **not** a Sangam Chola. Karikala is.
+> **Logic:** Rajaraja I is **not** a Sangam Chola. Karikala is.
 
 ---
 

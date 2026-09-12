@@ -98,7 +98,9 @@ Indus Valley Civilization | Features of Harappan Civilization | Major Harappan S
 - Some books say **Sindhu–Saraswati** civilization — same culture, different label.
 - **Early Harappan** (~3300–2600 BCE): regional cultures (Kot Diji, Amri, Hakra, Sothi). Pre-urban, pottery, mud-brick.
 - **Mature Harappan** (~2600–1900 BCE): planned cities, seals, weights, long-distance trade. This is what papers mean by “IVC.”
-- **Late Harappan** (~1900–1300 BCE): de-urbanisation; Cemetery-H, Jhukar, Lustrous Red Ware (Rangpur); OCP overlap in the doab.
+- **Late Harappan** (~1900–1300 BCE) is the de-urbanisation phase.
+- Cemetery-H, Jhukar, and Lustrous Red Ware at **Rangpur** mark Late Harappan regional faces.
+- **OCP** overlap appears in the doab in this late band.
 - Booklet C-14 framing often quotes about **2300–1700 BCE**, with peak about **2300–1900 BCE**. Standard teaching still uses Mature **~2600–1900 BCE**. Older writer brackets (Marshall, Mackay, Vats, Gadd, Wheeler, Fairservis) differ; do not treat any one as absolute.
 - Spread about **12.5–13 lakh km²** — larger than ancient Egypt or Mesopotamia in area.
 - **West:** Sutkagen-dor (Makran / Dasht coast).
@@ -112,11 +114,16 @@ Indus Valley Civilization | Features of Harappan Civilization | Major Harappan S
 - Founder theories in older books: **Laxman Swaroop** (Aryan), **Childe / Wheeler** (Sumerian link), **R.D. Banerji** (Dravidian). None is a closed scientific proof.
 - **Stuart Piggott** called Harappa and Mohenjo-daro the **“twin capitals”** of an extensive kingdom — a useful phrase, not a proven dual capital constitution.
 - Decline starts about **1900 BCE**. Causes include climate shift, Ghaggar drying, floods, and overuse of land.
-- Named decline readings: **flood** (Marshall, Mackay, S.R. Rao), **Aryan attack** (Childe, Wheeler, Piggott — now **rejected** for massacre), **climate** (Aurel Stein, Amalananda Ghosh), **geological change** (M.R. Sahni, Lambrick, G.F. Dales), **epidemic** (K.U.R. Kennedy). An IIT Kharagpur drought study is often cited for about **900** years of weak monsoon.
+- **Flood** decline readings are linked with Marshall, Mackay, and S.R. Rao.
+- **Aryan attack** readings by Childe, Wheeler, and Piggott are now **rejected** as a massacre model.
+- **Climate** decline readings are linked with Aurel Stein and Amalananda Ghosh.
+- **Geological change** readings are linked with M.R. Sahni, Lambrick, and G.F. Dales.
+- **Epidemic** readings are linked with K.U.R. Kennedy.
+- An IIT Kharagpur drought study is often cited for about **900** years of weak monsoon.
 - Economy type in match-lists is **Urban** (not pastoral). Pastoral = Rigvedic.
 - Compared with Vedic culture: IVC is **urban**, has a **pictographic** unread script, and lacks **iron**; Vedic society is rural / pastoral to agrarian and later uses iron.
 
-> ** note:** Eastern boundary = **Alamgirpur**, not Rakhigarhi. IVC economy type = **Urban** (Rigvedic = pastoral). Marshall’s public announcement year is **1924** (excavations begin 1921–22).
+> **Logic:** Eastern boundary = **Alamgirpur**, not Rakhigarhi. IVC economy type = **Urban** (Rigvedic = pastoral). Marshall’s public announcement year is **1924** (excavations begin 1921–22).
 
 **PYQ — UPPCS Prelims 2020, Q21**
 
@@ -142,20 +149,20 @@ D. 4 3 1 2
 
 ## 2.2 Features of Harappan Civilization
 
-- **Planned cities:** grid streets; citadel (usually west) + lower town (east). Dholavira adds a **middle town**.
-- **Burnt bricks** in ratio **1: 2: 4** (thickness: width: length), same idea from Punjab to Gujarat. Ornamental bricks (Kalibangan) and curved bricks (Chanhudaro) also occur — so “exactly one brick size everywhere” is false.
-- Most houses are single-storey; **two-storey** houses with stairs also exist.
-- Main roads are often about **10 m** wide (Mohenjo-daro’s main street about **9.15 m**).
-- **Covered drains**, house bathrooms, wells. Best at Mohenjo-daro; **weak at Kalibangan**.
-- **Bronze** (copper + tin), lost-wax casting. **No iron. No coined money.**
-- Steatite **seals**, wheel-made **red** pottery (plain or black-on-red painted). Polychrome pottery is rare.
-- Script **undeciphered** (~400–600 signs).
-- Public works: **Great Bath** (only Mohenjo-daro), granaries (Harappa, Mohenjo-daro), dockyard (Lothal).
-- **No** identified palace or stone temple. No royal pyramid-tombs.
-- Relatively few weapons; some sites still **fortified** (Dholavira, Surkotada, Kalibangan citadel).
-- Cotton among the **earliest** in the world (often cited from about **3000 BCE** in India; Greek *Sindon* recalls Indus cotton). Standard weights (binary, key unit **16**).
+- Harappan cities are **planned** on a grid, usually with a western **citadel** and an eastern **lower town**. Dholavira adds a distinct **middle town**.
+- Builders use **burnt bricks** in the ratio **1: 2: 4** (thickness: width: length) across a wide geography from Punjab to Gujarat. Ornamental bricks at Kalibangan and curved bricks at Chanhudaro show that “exactly one brick size everywhere” is false.
+- Most houses are single-storey, and **two-storey** houses with stairs also exist.
+- Main roads are often about **10 m** wide (Mohenjo-daro’s main street is about **9.15 m**).
+- Cities use **covered drains**, house bathrooms, and wells. Drainage is best at Mohenjo-daro and **weak at Kalibangan**.
+- Metal work is **bronze** (copper plus tin), including lost-wax casting. There is **no iron** and **no coined money**.
+- Steatite **seals** and wheel-made **red** pottery (plain or black-on-red painted) are common. Polychrome pottery is rare.
+- The script is still **undeciphered** (about 400–600 signs).
+- Famous public works include the **Great Bath** (only at Mohenjo-daro), granaries at Harappa and Mohenjo-daro, and the dockyard at Lothal.
+- There is **no** securely identified palace or stone temple, and no royal pyramid-tombs.
+- Relatively few weapons appear in the record, though some sites are still **fortified** (Dholavira, Surkotada, Kalibangan citadel).
+- Cotton is among the **earliest** in the world (often cited from about **3000 BCE** in India; Greek *Sindon* recalls Indus cotton). Standard stone weights use a binary system with key unit **16**.
 
-> ** note:** Iron plough / Ashokan-style temple / gold coins are **not** Harappan.
+> **Logic:** Iron plough / Ashokan-style temple / gold coins are **not** Harappan.
 
 ---
 
@@ -169,14 +176,14 @@ D. 4 3 1 2
 
 ## 2.27 Early Harappan and Late Harappan Phases
 
-- **Early Harappan** (~3300–2600 BCE): **Kot Diji**, **Amri**, **Hakra**, **Sothi** — before full cities.
-- **Mature Harappan** (~2600–1900 BCE): planned cities, seals, script, Great Bath, Lothal dock.
-- **Late Harappan** (~1900–1300 BCE): **de-urbanisation**; **Cemetery H** at Harappa; **Jhukar** and **Rangpur** ware.
-- In the eastern doab, Late Harappan overlaps **OCP** then **PGW** — not Mature Harappan urbanism.
+- **Early Harappan** (about 3300–2600 BCE) is the pre-urban horizon of sites such as **Kot Diji**, **Amri**, **Hakra**, and **Sothi**.
+- **Mature Harappan** (about 2600–1900 BCE) is the full urban phase of planned cities, seals, script, the Great Bath, and the Lothal dock.
+- **Late Harappan** (about 1900–1300 BCE) is the age of **de-urbanisation**, with **Cemetery H** at Harappa and **Jhukar** and **Rangpur** ware horizons.
+- In the eastern doab, Late Harappan overlaps **OCP** and then **PGW** — that sequence is not Mature Harappan urbanism.
 
 ## 2.3 Major Harappan Sites
 
-**Site ↔ river/state ↔ one signature find | Pakistan first, then IndiaPakistan**
+**Site ↔ river/state ↔ one signature find | Pakistan first, then India**
 
 - **Harappa** stands on the left bank of the **Ravi** in Pakistani Punjab (Montgomery / Sahiwal district).
 - **Daya Ram Sahni** excavated it in **1921**.
@@ -280,7 +287,7 @@ D. 4 3 1 2
 
 - **Shortughai** in Afghanistan is a **lapis lazuli** colony of the Harappans.
 
-> ** note:Mandi is not Manda**. Rakhigarhi is not in Uttar Pradesh. Padri is Gujarat. Balu is Haryana. Hulas is Uttar Pradesh.
+> **Logic:** Mandi is not Manda**. Rakhigarhi is not in Uttar Pradesh. Padri is Gujarat. Balu is Haryana. Hulas is Uttar Pradesh.
 
 **PYQ — UPPCS Prelims 2020, Q12**
 
@@ -332,7 +339,7 @@ D. 3 2 4 1
 - Sanauli is Late Harappan / OCP. It is **not** a Mature grid-city with a Great Bath.
 - **Sohgaura** (Gorakhpur, UP) is a **Mauryan** copper-plate site on the Rapti — **not** a Harappan site (IAS 2019 trap with Chanhudaro / Kot Diji / Desalpur).
 
-> ** note:** Sahni is Harappa. Banerji is Mohenjo-daro. Wheeler is later method, not the discoverer. Cunningham saw Harappa early but missed its meaning.
+> **Logic:** Sahni is Harappa. Banerji is Mohenjo-daro. Wheeler is later method, not the discoverer. Cunningham saw Harappa early but missed its meaning.
 
 ---
 
@@ -358,7 +365,7 @@ D. 3 2 4 1
 - **Bhirrana** is in Haryana.
 - **Manda** is in Jammu and Kashmir.
 
-> ** note:** UP site pair = **Mandi + Hulas**; Rakhigarhi is in Haryana. Eastern boundary = **Alamgirpur**; Kalibangan and Lothal are not the eastern edge. Hulas = **Saharanpur**; Sanauli = **Baghpat**.
+> **Logic:** UP site pair = **Mandi + Hulas**; Rakhigarhi is in Haryana. Eastern boundary = **Alamgirpur**; Kalibangan and Lothal are not the eastern edge. Hulas = **Saharanpur**; Sanauli = **Baghpat**.
 
 **PYQ — UPPCS Prelims 2025, Q87**
 
@@ -453,7 +460,7 @@ D. III, IV
 - **Arikamedu** near Puducherry yielded Roman amphorae.
 - **Tamralipti** in Bengal served the east coast and Southeast Asia.
 
-> ** note:** The dockyard is **Lothal**. Boat models are **Mohenjo-daro and Lothal**. Dholavira is not the port in that question.
+> **Logic:** The dockyard is **Lothal**. Boat models are **Mohenjo-daro and Lothal**. Dholavira is not the port in that question.
 
 **PYQ — UPPCS Prelims 2022, Q68**
 
@@ -477,7 +484,7 @@ A. Dholavira and Bhagatrav B. Harappa and Kot Diji C. Mohenjo-daro and Lothal D.
 - Craft towns: Chanhudaro (beads), Nageshwar (shell), Lothal (beads + port).
 - Do **not** import Mauryan **shreni** (guild) into IVC — that is a later institution.
 
-> ** note:** 2020 match: IVC = **Urban**. “Harappan coin economy” is false.
+> **Logic:** 2020 match: IVC = **Urban**. “Harappan coin economy” is false.
 
 ---
 
@@ -491,7 +498,7 @@ A. Dholavira and Bhagatrav B. Harappa and Kot Diji C. Mohenjo-daro and Lothal D.
 - Inland: ox-carts (terracotta models), river boats on Indus–Ghaggar.
 - **Silver** use is early; Harappa and Mohenjo-daro are the standard silver-evidence sites.
 
-> ** note:** Meluhha ≈ Harappan land. Shreni is **not** a Harappan guild. First metal of mankind in booklet keys is often **copper**.
+> **Logic:** Meluhha ≈ Harappan land. Shreni is **not** a Harappan guild. First metal of mankind in booklet keys is often **copper**.
 
 ---
 
@@ -517,7 +524,7 @@ A. Dholavira and Bhagatrav B. Harappa and Kot Diji C. Mohenjo-daro and Lothal D.
 - “Unwalled peaceful villages” is too simple.
 - **No** palace of a named king has been identified.
 
-> ** note:** The citadel is **west**. The Great Bath is **not** at every city.
+> **Logic:** The citadel is **west**. The Great Bath is **not** at every city.
 
 ---
 
@@ -535,7 +542,7 @@ A. Dholavira and Bhagatrav B. Harappa and Kot Diji C. Mohenjo-daro and Lothal D.
 - It is a **ritual tank**, not a sports pool.
 - Kalibangan’s drainage is **not** in the same class. That is a favourite “which is NOT true of all sites” trap.
 
-> ** note:** The Great Bath is at **Mohenjo-daro only**.
+> **Logic:** The Great Bath is at **Mohenjo-daro only**.
 
 ---
 
@@ -563,7 +570,7 @@ A. Dholavira and Bhagatrav B. Harappa and Kot Diji C. Mohenjo-daro and Lothal D.
 - Camel bones are reported at Kalibangan.
 - Elephant, rhinoceros, and tiger appear on **seals** as wild or sacred animals, not as farm stock.
 
-> ** note:** The ploughed field is **Kalibangan**. Cotton is yes. Horse is **not** a safe “yes.”
+> **Logic:** The ploughed field is **Kalibangan**. Cotton is yes. Horse is **not** a safe “yes.”
 
 ---
 
@@ -588,7 +595,7 @@ A. Dholavira and Bhagatrav B. Harappa and Kot Diji C. Mohenjo-daro and Lothal D.
 - Spindle whorls show textile work. Cotton was the cloth.
 - Brick-making was a civic industry with a standard size.
 
-> ** note:** The dancing girl is **bronze**, from Mohenjo-daro, about **10.5 cm**. Chanhudaro is beads with **no citadel**.
+> **Logic:** The dancing girl is **bronze**, from Mohenjo-daro, about **10.5 cm**. Chanhudaro is beads with **no citadel**.
 
 ---
 
@@ -620,7 +627,7 @@ A. Dholavira and Bhagatrav B. Harappa and Kot Diji C. Mohenjo-daro and Lothal D.
 - **Cemetery H** at Harappa is Late Harappan, with painted urns and fractional burial.
 - Cemetery H is a **Late Harappan** burial phase at Harappa. It does **not** prove an Aryan invasion by itself.
 
-> ** note:** “A Hindu temple was excavated at Mohenjo-daro” is false. Pashupati is an **interpretation**. No large temples; mother goddess and proto-Shiva seal are the usual keys.
+> **Logic:** “A Hindu temple was excavated at Mohenjo-daro” is false. Pashupati is an **interpretation**. No large temples; mother goddess and proto-Shiva seal are the usual keys.
 
 ---
 
@@ -640,7 +647,7 @@ A. Dholavira and Bhagatrav B. Harappa and Kot Diji C. Mohenjo-daro and Lothal D.
 - Dravidian and Indo-Aryan readings both exist. **Neither is proved**.
 - The script appears fully in the **Mature** phase and thins out in Late Harappan.
 
-> ** note:** “Script has been read as Sanskrit” = false. Signboard = **Dholavira**.
+> **Logic:** “Script has been read as Sanskrit” = false. Signboard = **Dholavira**.
 
 ---
 
@@ -663,7 +670,7 @@ A. Dholavira and Bhagatrav B. Harappa and Kot Diji C. Mohenjo-daro and Lothal D.
 - Harappan seals in Mesopotamia prove **trade**, not conquest.
 - Knowledge of the culture rests mainly on **archaeological excavation**. Seals are the richest single artefact class, but the unread script is not yet a readable history.
 
-> ** note:** Material = **steatite**. Unicorn ≠ horse. Cow ≠ seal animal.
+> **Logic:** Material = **steatite**. Unicorn ≠ horse. Cow ≠ seal animal.
 
 ---
 
@@ -680,7 +687,7 @@ A. Dholavira and Bhagatrav B. Harappa and Kot Diji C. Mohenjo-daro and Lothal D.
 - Cubit-like units are debated.
 - There are **no** gold punch-marked coins here. Those belong to later Janapada / Mahajanapada times.
 
-> ** note:** Weights = **stone cubes**, not minted coins.
+> **Logic:** Weights = **stone cubes**, not minted coins.
 
 ---
 
@@ -688,15 +695,15 @@ A. Dholavira and Bhagatrav B. Harappa and Kot Diji C. Mohenjo-daro and Lothal D.
 
 **Khadir island, Rann of Kutch, Gujarat | R.S. Bisht | UNESCO WHS 2021**
 
-- Three parts: **citadel, middle town, lower town** — unique among big Harappan cities.
-- Built more in **stone** than the all-brick Punjab–Sindh cities.
-- Elaborate **water harvesting**: check dams, storm channels, about **16 reservoirs**.
-- Rock-cut / rock-lined reservoirs are a Dholavira specialty (booklet depths about **7 m**, lengths about **79 m** in older notes).
-- Famous **signboard** of about **10** large Harappan signs near the northern gate — biggest public inscription.
-- Street drainage is **not** a clone of Mohenjo-daro’s covered-brick textbook.
-- Inland Kutch trade via the Rann; **not** Lothal’s dockyard; **not** the 2022 boat-model answer.
+- Dholavira is divided into three parts — **citadel, middle town, and lower town** — a layout unique among the big Harappan cities.
+- Builders used more **stone** here than in the all-brick Punjab–Sindh cities.
+- Elaborate **water harvesting** includes check dams, storm channels, and about **16 reservoirs**.
+- Rock-cut and rock-lined reservoirs are a Dholavira specialty (booklet depths about **7 m** and lengths about **79 m** in older notes).
+- A famous **signboard** of about **10** large Harappan signs stood near the northern gate — the biggest public inscription yet found.
+- Street drainage here is **not** a clone of Mohenjo-daro’s covered-brick textbook system.
+- Trade ran inland across the Rann of Kutch; this site is **not** Lothal’s dockyard and is **not** the 2022 boat-model answer pair.
 
-> ** note:** UNESCO **2021** = Dholavira. Water ≠ dock.
+> **Logic:** UNESCO **2021** = Dholavira. Water ≠ dock.
 
 ---
 
@@ -705,11 +712,13 @@ A. Dholavira and Bhagatrav B. Harappa and Kot Diji C. Mohenjo-daro and Lothal D.
 **Hisar, Haryana (Ghaggar–Hakra) | largest Harappan site in India | 7 mounds | ~550 hectares often cited**
 
 - Sequence from Early to Mature; planned housing, crafts, burials.
-- Excavators: **Amarendra Nath** (ASI 1997–2000); **Vasant Shinde** (Deccan College); ASI still digging (2026 skeletons sent for DNA + facial reconstruction; 3-year programme).
+- **Amarendra Nath** (ASI, 1997–2000) excavated Rakhigarhi in a major campaign.
+- **Vasant Shinde** (Deccan College) led later work and DNA-related publications from the site.
+- ASI is still digging; 2026 reports sent skeletons for DNA and facial reconstruction under a multi-year programme.
 - DNA papers (Shinde et al.) are used in “Aryan” debates — for Prelims: site = **Haryana**, **not** the eastern end, **not UP**.
 - Budget **2026**: listed with Lothal among 15 experiential archaeological destinations.
 
-> ** note:** Rakhigarhi is in **Haryana**, not Uttar Pradesh. Eastern boundary remains **Alamgirpur**.
+> **Logic:** Rakhigarhi is in **Haryana**, not Uttar Pradesh. Eastern boundary remains **Alamgirpur**.
 
 ---
 
@@ -717,14 +726,14 @@ A. Dholavira and Bhagatrav B. Harappa and Kot Diji C. Mohenjo-daro and Lothal D.
 
 **Ahmedabad district belt, Gujarat | S.R. Rao 1955–62**
 
-- Artificial **dockyard** / basin about **218 × 37 m**, with a spillway — principal Harappan **port**.
-- Warehouse on a mud-brick platform; bead factory; copper workshop; **fire altar**; rice husk; dice/gamesmen; **double burial**.
-- **Boat models** (paired with Mohenjo-daro in 2022).
-- An **ivory scale** is a Lothal booklet fact (shell / ivory scales also taught for Mohenjo-daro).
-- Acropolis + lower town; linked to the Gulf of Khambhat by the Bhogavo.
-- **Not** in UP. **Not** Dholavira.
+- The artificial **dockyard** / basin measures about **218 × 37 m** and has a spillway; this is the principal Harappan **port** card.
+- A warehouse stood on a mud-brick platform beside bead and copper workshops, a **fire altar**, rice husk, dice/gamesmen, and a **double burial**.
+- **Boat models** from Lothal are paired with Mohenjo-daro in the 2022 stem.
+- An **ivory scale** is a Lothal booklet fact (shell and ivory scales are also taught for Mohenjo-daro).
+- The town has an acropolis and lower town and linked to the Gulf of Khambhat by the Bhogavo.
+- Lothal is **not** in Uttar Pradesh and is **not** Dholavira.
 
-> ** note:** If the option says dockyard / port / boats / ivory scale, think **Lothal** first.
+> **Logic:** If the option says dockyard / port / boats / ivory scale, think **Lothal** first.
 
 ---
 
@@ -732,13 +741,13 @@ A. Dholavira and Bhagatrav B. Harappa and Kot Diji C. Mohenjo-daro and Lothal D.
 
 **Hanumangarh, Rajasthan | Ghaggar | B.B. Lal**
 
-- Pre-Harappan **ploughed field** (criss-cross furrows) — unique agriculture fact.
-- **Fire altars** on citadel and in the lower town; terracotta cakes.
-- Citadel + lower town; early levels mud-brick; **drainage poorer** than Mohenjo-daro.
-- Cylindrical seals (different from the common square steatite type); **camel** bones reported.
-- **Not in UP** (2018 distractor).
+- A pre-Harappan **ploughed field** with criss-cross furrows is the unique agriculture fact of Kalibangan.
+- **Fire altars** stand on the citadel and in the lower town, with terracotta cakes in the ritual set.
+- The plan has a citadel and lower town; early levels use mud-brick, and **drainage is poorer** than at Mohenjo-daro.
+- Cylindrical seals differ from the common square steatite type, and **camel** bones are reported.
+- Kalibangan is **not in Uttar Pradesh** (a frequent 2018 distractor).
 
-> ** note:** Ploughed field + fire altars = **Kalibangan**. Great Bath ≠ here.
+> **Logic:** Ploughed field + fire altars = **Kalibangan**. Great Bath ≠ here.
 
 ---
 
@@ -746,10 +755,10 @@ A. Dholavira and Bhagatrav B. Harappa and Kot Diji C. Mohenjo-daro and Lothal D.
 
 **Fatehabad, Haryana | Ghaggar–Hakra | R.S. Bisht**
 
-- Early + Mature Harappan; **fortified**.
-- Streets more **radial / oval** than a strict grid.
-- Terracotta **plough**; barley; beads; fire-altar reports.
-- **Haryana**, not Rajasthan (don’t swap with Kalibangan) and not a dockyard.
+- Banawali shows Early and Mature Harappan levels and is **fortified**.
+- Streets run in a more **radial / oval** pattern than a strict grid.
+- Finds include a terracotta **plough**, barley, beads, and fire-altar reports.
+- The site is in **Haryana**, not Rajasthan (do not swap it with Kalibangan) and is not a dockyard.
 
 ---
 
@@ -785,7 +794,7 @@ A. Dholavira and Bhagatrav B. Harappa and Kot Diji C. Mohenjo-daro and Lothal D.
 - The culture is rural and pre-urban. It sits **before** PGW and long before NBPW cities.
 - Trap: “anthropomorph” on a paper usually means this **Gangetic copper hoard** type, not a Harappan seal figure.
 
-> ** note:** Anthropomorph = Gangetic Copper Hoard shape. Not a Gujarat dockyard craft.
+> **Logic:** Anthropomorph = Gangetic Copper Hoard shape. Not a Gujarat dockyard craft.
 
 ---
 
@@ -801,7 +810,7 @@ A. Dholavira and Bhagatrav B. Harappa and Kot Diji C. Mohenjo-daro and Lothal D.
 - OCP is **not** Lothal red ware. It is **not** megalithic black-and-red ware of the south.
 - Sequence memory for the doab: **Late Harappan / OCP → PGW → NBPW**.
 
-> ** note:** OCP = **doab**, not Lothal red ware. Hastinapur OCP ≠ automatic “Mahabharata proved.”
+> **Logic:** OCP = **doab**, not Lothal red ware. Hastinapur OCP ≠ automatic “Mahabharata proved.”
 
 ---
 

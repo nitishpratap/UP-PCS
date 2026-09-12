@@ -28,7 +28,7 @@ Rajput Warriors | Maharana Pratap | Battle of Haldighati | Rana Sanga | Rajput S
 9. Alauddin conquest order: **Gujarat 1299 → Ranthambore 1301 → Chittor 1303 → Warangal ~1310**.
 10. **Udaipur** became Mewar capital from **1559**, while **Chittor** remained the prestige fort.
 11. **Rana Hamir** belongs to **Mewar**; **Rana Chunda** is also Mewar, while **Rao Chunda** is the **Marwar** line.
-12. **Rana Hammir (c. 1326)** restored Mewar after the Khalji sack; he is **notHamir Deva** of Ranthambore (died 1301).
+12. **Rana Hammir (c. 1326)** restored Mewar after the Khalji sack; he is **not Hamir Deva** of Ranthambore (died 1301).
 13. **Vijay Stambha** is **Kumbha**'s victory tower; **Kirti Stambha** is the older Jain tower — both stand at Chittor.
 14. **Jayata and Kumpa** fought for **Marwar** against Sher Shah at Sammel in **1544**.
 15. **Jauhar** is women's immolation at a falling fort; **saka** is the warriors' last charge.
@@ -105,7 +105,9 @@ D. Malik Sarwar – Malwa Khwaja Jahan
 <details>
 <summary>Show answer</summary>
 
-**Ans: BWhy wrong:Rana Chunda** is a **Mewar** Sisodia; **Rao Chunda** is the **Marwar** Rathore line.
+**Logic:** Rana Chunda is a **Mewar** Sisodia; **Rao Chunda** is the **Marwar** Rathore line.
+
+**Ans: B.**
 
 **Trap:** Option D (Malik Sarwar–Malwa) is also false — he founded **Jaunpur** — but the keyed Rajput trap is **B**.
 
@@ -162,7 +164,7 @@ D. Malik Sarwar – Malwa Khwaja Jahan
 
 ### Siege of Chittor by Akbar (1567–68) — Cause, Course, Result
 
-**Cause:Udai Singh II** had already founded **Udaipur (1559)**, but **Chittor** remained the Rajput prestige fort. **Maharana Pratap** refused submission. Akbar wanted Mewar in the **mansabdari** system.
+**Cause:** Udai Singh II** had already founded **Udaipur (1559)**, but **Chittor** remained the Rajput prestige fort. **Maharana Pratap** refused submission. Akbar wanted Mewar in the **mansabdari** system.
 **Course:** Imperial armies besieged the fort. Defenders **Jaimal** and **Patta** led resistance. A final **jauhar** took place before the Mughals took the fort.
 **Result:** Chittor fell to the Mughals. Pratap continued resistance from **Kumbhalgarh** and fought at **Haldighati (1576)**. Do not confuse this siege with **Alauddin's 1303** sack.
 
@@ -184,7 +186,7 @@ A. 1-3-2-4 | B. 3-4-1-2 | C. 2-1-4-3 | D. 4-2-3-1
 
 **Ans: C (2-1-4-3)Order:** Gujarat **1299** → Ranthambore **1301** → Chittor **1303** → Warangal **~1310**.
 
-**Trap:Warangal** (Deccan/Kafur) comes **last**, not first.
+**Trap:** Warangal** (Deccan/Kafur) comes **last**, not first.
 
 </details>
 
@@ -215,18 +217,17 @@ A. 1-2-3-4 | B. 2-1-4-3 | C. 2-1-3-4 | D. 1-2-4-3
 
 Which is **NOT** correctly matched (Ruler–State)?
 
-A. Rana Hamir – Mewar |
-
-B. Rana Chunda – Marwar |
-
-C. Malik Raja Farooqi – Khandesh |
-
+A. Rana Hamir – Mewar
+B. Rana Chunda – Marwar
+C. Malik Raja Farooqi – Khandesh
 D. Malik Sarwar – Malwa Khwaja Jahan
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: BWhy wrong:Rana Chunda** is a **Mewar** Sisodia; **Rao Chunda** is the **Marwar** Rathore line.
+**Logic:** Rana Chunda is a **Mewar** Sisodia; **Rao Chunda** is the **Marwar** Rathore line.
+
+**Ans: B.**
 
 **Trap:** Option D (Malik Sarwar–Malwa) is also false — he founded **Jaunpur** — but the keyed Rajput trap is **B**.
 
@@ -243,7 +244,7 @@ Options: A.1-3-2-4 | B.3-4-1-2 | C.2-1-4-3 | D.4-2-3-1
 
 **Ans: C (2-1-4-3)Order:** Gujarat **1299** → Ranthambore **1301** → Chittor **1303** → Warangal **~1310**.
 
-**Trap:Warangal** (Deccan/Kafur) comes **last**, not first.
+**Trap:** Warangal** (Deccan/Kafur) comes **last**, not first.
 
 </details>
 
@@ -267,19 +268,16 @@ Options: A.1-2-3-4 | B.2-1-4-3 | C.2-1-3-4 | D.1-2-4-3
 
 Jayata and Kumpa, who impressed Sher Shah, were associated with?
 
-A. Bundelkhand |
-
-B. Malwa |
-
-C. Marwar |
-
+A. Bundelkhand
+B. Malwa
+C. Marwar
 D. Mewar
 
 <details><summary>Show answer</summary>
 
 **Ans: C (Marwar)Why:** Rathore captains of **Rao Maldeo** at **Sammel (1544)** against Sher Shah.
 
-**Trap:Mewar** (Sisodia) is not the same as **Marwar** (Rathore).
+**Trap:** Mewar** (Sisodia) is not the same as **Marwar** (Rathore).
 
 </details>
 
@@ -288,19 +286,16 @@ D. Mewar
 
 Who patronised Tansen before Akbar?
 
-A. Raja Ramchandra Singh of Bhata |
-
-B. Rajbahadur of Malwa |
-
-C. Uday Singh of Mewar |
-
+A. Raja Ramchandra Singh of Bhata
+B. Rajbahadur of Malwa
+C. Uday Singh of Mewar
 D. Muzaffar Shah of Gujarat
 
 <details><summary>Show answer</summary>
 
 **Ans: A (Raja Ramchandra Singh of Bhata)Why:** Tansen served **Raja Ramchandra** before entering **Akbar's** court.
 
-**Trap:Udai Singh of Mewar** is the classic wrong pair — Tansen was not Mewar's court musician.
+**Trap:** Udai Singh of Mewar** is the classic wrong pair — Tansen was not Mewar's court musician.
 
 </details>
 
@@ -312,12 +307,9 @@ D. Muzaffar Shah of Gujarat
 
 **Q1.** NOT correctly matched (ruler–state):
 
-A. Rana Hamir – Mewar |
-
-B. Rana Chunda – Marwar |
-
-C. Malik Raja Faruqi – Khandesh |
-
+A. Rana Hamir – Mewar
+B. Rana Chunda – Marwar
+C. Malik Raja Faruqi – Khandesh
 D. Rana Sanga – Mewar
 
 <details><summary>Show answer</summary>
@@ -356,30 +348,26 @@ Options: A.1-2-3-4 | B.2-1-4-3 | C.2-1-3-4 | D.1-2-4-3
 
 **Q4.** Jayata and Kumpa:
 
-A. Bundelkhand |
-
-B. Malwa |
-
-C. Marwar |
-
+A. Bundelkhand
+B. Malwa
+C. Marwar
 D. Mewar
 
 <details><summary>Show answer</summary>
 
-**Ans: C (Marwar)** — **UPPCS 2022 Q95Why:Jayata** and **Kumpa** were Rathore captains of **Rao Maldeo** at Sammel (1544).
+**Logic:** Jayata and **Kumpa** were Rathore captains of **Rao Maldeo** at Sammel (1544).
 
-**Trap:Mewar** (Sisodia) is not **Marwar** (Rathore).
+**Ans: C.**
+
+**Trap:** Mewar** (Sisodia) is not **Marwar** (Rathore).
 
 </details>
 
 **Q5.** Tansen before Akbar was patronised by:
 
-A. Raja Ramchandra of Bhata |
-
-B. Rajbahadur of Malwa |
-
-C. Udai Singh of Mewar |
-
+A. Raja Ramchandra of Bhata
+B. Rajbahadur of Malwa
+C. Udai Singh of Mewar
 D. Muzaffar Shah of Gujarat
 
 <details><summary>Show answer</summary>
@@ -392,17 +380,16 @@ D. Muzaffar Shah of Gujarat
 
 **Q6.** Khanwa 1527:
 
-A. Pratap vs Man Singh |
-
-B. Sanga vs Babur |
-
-C. Maldeo vs Sher Shah |
-
+A. Pratap vs Man Singh
+B. Sanga vs Babur
+C. Maldeo vs Sher Shah
 D. Hammir vs Alauddin
 
 <details><summary>Show answer</summary>
 
-**Ans: BWhy:** The correct fact is **Sanga vs Babur**.
+**Logic:** The keyed fact is **Sanga vs Babur**.
+
+**Ans: B.**
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -411,17 +398,16 @@ D. Hammir vs Alauddin
 
 **Q7.** Haldighati Mughal commander:
 
-A. Akbar in person |
-
-B. Raja Man Singh |
-
-C. Todar Mal |
-
+A. Akbar in person
+B. Raja Man Singh
+C. Todar Mal
 D. Bairam Khan
 
 <details><summary>Show answer</summary>
 
-**Ans: BWhy:** The correct fact is **Raja Man Singh**.
+**Logic:** The keyed fact is **Raja Man Singh**.
+
+**Ans: B.**
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -430,35 +416,33 @@ D. Bairam Khan
 
 **Q8.** 1. Haldighati 1576 2. Khanwa 1576
 
-A. Only 1 |
-
-B. Only 2 |
-
-C. Both |
-
+A. Only 1
+B. Only 2
+C. Both
 D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: A (Only 1)Key:** Only statement **1** is correct — **Haldighati 1576**. Statement **2** is false — **Khanwa 1527**, not 1576.
+**Logic:** ** Only statement **1** is correct — **Haldighati 1576**. Statement **2** is false — **Khanwa 1527**, not 1576.
 
-**Trap:S27 P76** — Sanga **1527**, Pratap **1576**.
+**Ans: A (Only 1).**
+
+**Trap:** S27 P76** — Sanga **1527**, Pratap **1576**.
 
 </details>
 
 **Q9.** Sisodia capital after Chittor pressure:
 
-A. Jodhpur |
-
-B. Udaipur |
-
-C. Amber |
-
+A. Jodhpur
+B. Udaipur
+C. Amber
 D. Bikaner
 
 <details><summary>Show answer</summary>
 
-**Ans: BWhy:** The correct fact is **Udaipur**.
+**Logic:** The keyed fact is **Udaipur**.
+
+**Ans: B.**
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -467,17 +451,16 @@ D. Bikaner
 
 **Q10.** Amar Singh peace with:
 
-A. Babur 1527 |
-
-B. Akbar 1576 |
-
-C. Jahangir 1615 |
-
+A. Babur 1527
+B. Akbar 1576
+C. Jahangir 1615
 D. Aurangzeb 1679
 
 <details><summary>Show answer</summary>
 
-**Ans: CWhy:** The correct fact is **Jahangir 1615**.
+**Logic:** The keyed fact is **Jahangir 1615**.
+
+**Ans: C.**
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -486,17 +469,16 @@ D. Aurangzeb 1679
 
 **Q11.** Jauhar is:
 
-A. Horse branding |
-
-B. Women’s mass self-immolation at fort fall |
-
-C. Mughal mansab |
-
+A. Horse branding
+B. Women’s mass self-immolation at fort fall
+C. Mughal mansab
 D. GT Road inn
 
 <details><summary>Show answer</summary>
 
-**Ans: BWhy:** The correct fact is **Women’s mass self-immolation at fort fall**.
+**Logic:** The keyed fact is **Women’s mass self-immolation at fort fall**.
+
+**Ans: B.**
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -505,17 +487,16 @@ D. GT Road inn
 
 **Q12.** Kachhwaha state:
 
-A. Mewar |
-
-B. Marwar |
-
-C. Amber |
-
+A. Mewar
+B. Marwar
+C. Amber
 D. Jaisalmer
 
 <details><summary>Show answer</summary>
 
-**Ans: CWhy:** The correct fact is **Amber**.
+**Logic:** The keyed fact is **Amber**.
+
+**Ans: C.**
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -524,17 +505,16 @@ D. Jaisalmer
 
 **Q13.** Vijay Stambha associated with:
 
-A. Rana Kumbha |
-
-B. Maharana Pratap |
-
-C. Rao Maldeo |
-
+A. Rana Kumbha
+B. Maharana Pratap
+C. Rao Maldeo
 D. Man Singh
 
 <details><summary>Show answer</summary>
 
-**Ans: AWhy:** The correct fact is **Rana Kumbha**.
+**Logic:** The keyed fact is **Rana Kumbha**.
+
+**Ans: A.**
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -543,17 +523,16 @@ D. Man Singh
 
 **Q14.** Hakim Khan Sur at Haldighati:
 
-A. Mughal bakhshi |
-
-B. Afghan ally of Pratap |
-
-C. Amber raja |
-
+A. Mughal bakhshi
+B. Afghan ally of Pratap
+C. Amber raja
 D. Marwar rao
 
 <details><summary>Show answer</summary>
 
-**Ans: BWhy:** The correct fact is **Afghan ally of Pratap**.
+**Logic:** The keyed fact is **Afghan ally of Pratap**.
+
+**Ans: B.**
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -562,17 +541,16 @@ D. Marwar rao
 
 **Q15.** Akbar’s Chittor siege:
 
-A. 1303 |
-
-B. 1527 |
-
-C. 1567–68 |
-
+A. 1303
+B. 1527
+C. 1567–68
 D. 1615
 
 <details><summary>Show answer</summary>
 
-**Ans: CWhy:** The correct fact is **1567–68**.
+**Logic:** The keyed fact is **1567–68**.
+
+**Ans: C.**
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -581,17 +559,16 @@ D. 1615
 
 **Q16.** Rana Hamir restored:
 
-A. Marwar |
-
-B. Mewar |
-
-C. Amber |
-
+A. Marwar
+B. Mewar
+C. Amber
 D. Khandesh
 
 <details><summary>Show answer</summary>
 
-**Ans: BWhy:** The correct fact is **Mewar**.
+**Logic:** The keyed fact is **Mewar**.
+
+**Ans: B.**
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -600,17 +577,16 @@ D. Khandesh
 
 **Q17.** 1. Man Singh was Sisodia 2. Man Singh was Kachhwaha in Mughal service
 
-A. Only 1 |
-
-B. Only 2 |
-
-C. Both |
-
+A. Only 1
+B. Only 2
+C. Both
 D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: B (Only 2)Key:** Statement **1** is false — **Man Singh** was **Kachhwaha**, not Sisodia. Statement **2** is true.
+**Logic:** ** Statement **1** is false — **Man Singh** was **Kachhwaha**, not Sisodia. Statement **2** is true.
+
+**Ans: B (Only 2).**
 
 **Trap:** Man Singh commanded Haldighati for the **Mughals**.
 
@@ -618,17 +594,16 @@ D. Neither
 
 **Q18.** Mahmud Lodi at Khanwa:
 
-A. Fought for Babur |
-
-B. Joined Sanga’s confederacy |
-
-C. Led Haldighati |
-
+A. Fought for Babur
+B. Joined Sanga’s confederacy
+C. Led Haldighati
 D. Founded Jaipur
 
 <details><summary>Show answer</summary>
 
-**Ans: BWhy:Mahmud Lodi** joined **Rana Sanga's** confederacy against Babur at **Khanwa (1527)**.
+**Logic:** Mahmud Lodi joined **Rana Sanga's** confederacy against Babur at **Khanwa (1527)**.
+
+**Ans: B.**
 
 **Trap:** He fought **for** Sanga, not for Babur.
 
@@ -636,17 +611,16 @@ D. Founded Jaipur
 
 **Q19.** NOT matched:
 
-A. Rathore – Marwar |
-
-B. Bhati – Jaisalmer |
-
-C. Sisodia – Amber |
-
+A. Rathore – Marwar
+B. Bhati – Jaisalmer
+C. Sisodia – Amber
 D. Hada – Bundi
 
 <details><summary>Show answer</summary>
 
-**Ans: CWhy wrong:** One pair breaks the standard fact in this topic.
+**Logic:** ** One pair breaks the standard fact in this topic.
+
+**Ans: C.**
 
 **Trap:** Eliminate pairs you know are correct first.
 
@@ -654,17 +628,16 @@ D. Hada – Bundi
 
 **Q20.** Pratap died:
 
-A. 1528 |
-
-B. 1576 |
-
-C. 1597 |
-
+A. 1528
+B. 1576
+C. 1597
 D. 1615
 
 <details><summary>Show answer</summary>
 
-**Ans: CWhy:** The correct fact is **1597**.
+**Logic:** The keyed fact is **1597**.
+
+**Ans: C.**
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -673,17 +646,16 @@ D. 1615
 
 **Q21.** Haldighati terrain:
 
-A. Open Doab plain |
-
-B. Narrow Aravalli pass |
-
-C. Deccan plateau |
-
+A. Open Doab plain
+B. Narrow Aravalli pass
+C. Deccan plateau
 D. Ganga at Kannauj
 
 <details><summary>Show answer</summary>
 
-**Ans: BWhy:** The correct fact is **Narrow Aravalli pass**.
+**Logic:** The keyed fact is **Narrow Aravalli pass**.
+
+**Ans: B.**
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -692,17 +664,16 @@ D. Ganga at Kannauj
 
 **Q22.** Malik Sarwar founded:
 
-A. Malwa |
-
-B. Jaunpur Sharqi |
-
-C. Mewar |
-
+A. Malwa
+B. Jaunpur Sharqi
+C. Mewar
 D. Golkonda
 
 <details><summary>Show answer</summary>
 
-**Ans: BWhy:** The correct fact is **Jaunpur Sharqi**.
+**Logic:** The keyed fact is **Jaunpur Sharqi**.
+
+**Ans: B.**
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -711,17 +682,16 @@ D. Golkonda
 
 **Q23.** 1. Jaimal–Patta linked to Akbar’s Chittor 2. Padmini lore linked to 1303
 
-A. Only 1 |
-
-B. Only 2 |
-
-C. Both |
-
+A. Only 1
+B. Only 2
+C. Both
 D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: CKey:** Both statements are correct.
+**Logic:** ** Both statements are correct.
+
+**Ans: C.**
 
 **Trap:** Test each statement separately before choosing the code.
 
@@ -729,17 +699,16 @@ D. Neither
 
 **Q24.** Title Rao is typical of:
 
-A. Mewar Sisodia |
-
-B. Marwar Rathore |
-
-C. Delhi Sultan |
-
+A. Mewar Sisodia
+B. Marwar Rathore
+C. Delhi Sultan
 D. Chishti pir
 
 <details><summary>Show answer</summary>
 
-**Ans: BWhy:** The correct fact is **Marwar Rathore**.
+**Logic:** The keyed fact is **Marwar Rathore**.
+
+**Ans: B.**
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -748,17 +717,16 @@ D. Chishti pir
 
 **Q25.** Khanwa tactics of Babur:
 
-A. Only elephant rush |
-
-B. Tulughma and Araba |
-
-C. Naval blockade |
-
+A. Only elephant rush
+B. Tulughma and Araba
+C. Naval blockade
 D. Token currency
 
 <details><summary>Show answer</summary>
 
-**Ans: BWhy:** The correct fact is **Tulughma and Araba**.
+**Logic:** The keyed fact is **Tulughma and Araba**.
+
+**Ans: B.**
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -767,17 +735,16 @@ D. Token currency
 
 **Q26.** Bhils at Haldighati:
 
-A. Fought for Pratap |
-
-B. Led Mughal left |
-
-C. Built Vijay Stambha |
-
+A. Fought for Pratap
+B. Led Mughal left
+C. Built Vijay Stambha
 D. Ruled Amber
 
 <details><summary>Show answer</summary>
 
-**Ans: AWhy:** The correct fact is **Fought for Pratap**.
+**Logic:** The keyed fact is **Fought for Pratap**.
+
+**Ans: A.**
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -786,17 +753,16 @@ D. Ruled Amber
 
 **Q27.** Udai Singh II is:
 
-A. Pratap’s father; founded Udaipur |
-
-B. Babur’s general |
-
-C. Marwar’s Rao Chunda |
-
+A. Pratap’s father; founded Udaipur
+B. Babur’s general
+C. Marwar’s Rao Chunda
 D. Alauddin’s governor
 
 <details><summary>Show answer</summary>
 
-**Ans: AWhy:** The correct fact is **Pratap’s father; founded Udaipur**.
+**Logic:** The keyed fact is **Pratap’s father; founded Udaipur**.
+
+**Ans: A.**
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -805,17 +771,16 @@ D. Alauddin’s governor
 
 **Q28.** Correct pair:
 
-A. Haldighati – 1527 |
-
-B. Khanwa – 1576 |
-
-C. Haldighati – 1576 |
-
+A. Haldighati – 1527
+B. Khanwa – 1576
+C. Haldighati – 1576
 D. Chittor Akbar – 1303
 
 <details><summary>Show answer</summary>
 
-**Ans: CWhy:** The correct fact is **Haldighati – 1576**.
+**Logic:** The keyed fact is **Haldighati – 1576**.
+
+**Ans: C.**
 
 **Trap:** Cross-check Confused Pairs table before finalising.
 
@@ -823,17 +788,16 @@ D. Chittor Akbar – 1303
 
 **Q29.** 1. Most Rajputs took Akbar’s alliances 2. Pratap remained the main Mewar holdout
 
-A. Only 1 |
-
-B. Only 2 |
-
-C. Both |
-
+A. Only 1
+B. Only 2
+C. Both
 D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: CKey:** Both statements are correct.
+**Logic:** ** Both statements are correct.
+
+**Ans: C.**
 
 **Trap:** Test each statement separately before choosing the code.
 
@@ -841,17 +805,16 @@ D. Neither
 
 **Q30.** Warangal in Alauddin lists is:
 
-A. Before Gujarat |
-
-B. After Chittor (Kafur Deccan) |
-
-C. Same as Khanwa |
-
+A. Before Gujarat
+B. After Chittor (Kafur Deccan)
+C. Same as Khanwa
 D. Jahangir’s Kangra
 
 <details><summary>Show answer</summary>
 
-**Ans: BWhy:** The correct fact is **After Chittor (Kafur Deccan)**.
+**Logic:** The keyed fact is **After Chittor (Kafur Deccan)**.
+
+**Ans: B.**
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -860,17 +823,16 @@ D. Jahangir’s Kangra
 
 **Q31.** Chetak is:
 
-A. Pratap’s horse in Haldighati lore |
-
-B. Amber fort |
-
-C. Marwar coin |
-
+A. Pratap’s horse in Haldighati lore
+B. Amber fort
+C. Marwar coin
 D. Mughal canal
 
 <details><summary>Show answer</summary>
 
-**Ans: AWhy:** The correct fact is **Pratap’s horse in Haldighati lore**.
+**Logic:** The keyed fact is **Pratap’s horse in Haldighati lore**.
+
+**Ans: A.**
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -879,17 +841,16 @@ D. Mughal canal
 
 **Q32.** Saka means:
 
-A. Revenue survey |
-
-B. Warriors’ last charge after jauhar |
-
-C. Persian memoir |
-
+A. Revenue survey
+B. Warriors’ last charge after jauhar
+C. Persian memoir
 D. Copper dam
 
 <details><summary>Show answer</summary>
 
-**Ans: BWhy:** The correct fact is **Warriors’ last charge after jauhar**.
+**Logic:** The keyed fact is **Warriors’ last charge after jauhar**.
+
+**Ans: B.**
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -898,33 +859,31 @@ D. Copper dam
 
 **Q33.** Akbar was present in person at:
 
-A. Haldighati pass command |
-
-B. Chittor 1567–68 siege (imperial) |
-
-C. Khanwa 1527 |
-
+A. Haldighati pass command
+B. Chittor 1567–68 siege (imperial)
+C. Khanwa 1527
 D. Sammel 1544
 
 <details><summary>Show answer</summary>
 
-**Ans: BWhy:** Haldighati field command = Man Singh.
+**Logic:** ** Haldighati field command = Man Singh.
+
+**Ans: B.**
 
 </details>
 
 **Q34.** Bikaner clan:
 
-A. Sisodia |
-
-B. Rathore branch |
-
-C. Kachhwaha |
-
+A. Sisodia
+B. Rathore branch
+C. Kachhwaha
 D. Faruqi
 
 <details><summary>Show answer</summary>
 
-**Ans: BWhy:** The correct fact is **Rathore branch**.
+**Logic:** The keyed fact is **Rathore branch**.
+
+**Ans: B.**
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -933,17 +892,16 @@ D. Faruqi
 
 **Q35.** 1. Rana Chunda = Marwar 2. Rao Chunda = Marwar line
 
-A. Only 1 |
-
-B. Only 2 |
-
-C. Both |
-
+A. Only 1
+B. Only 2
+C. Both
 D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: B (Only 2)Key:** Statement **1** is false — **Rana Chunda** is **Mewar**, not Marwar. Statement **2** is true — **Rao Chunda** is Marwar line.
+**Logic:** ** Statement **1** is false — **Rana Chunda** is **Mewar**, not Marwar. Statement **2** is true — **Rao Chunda** is Marwar line.
+
+**Ans: B (Only 2).**
 
 **Trap:** **Rao** title marks **Marwar** Rathores; **Rana** marks **Mewar** — do not swap Chunda with Pratap's line.
 
@@ -951,33 +909,31 @@ D. Neither
 
 **Q36.** Rana Hammir of Mewar is the same person as Hamir Deva of Ranthambore.
 
-A. True |
-
-B. False |
-
-C. Only after 1303 |
-
+A. True
+B. False
+C. Only after 1303
 D. Only after 1576
 
 <details><summary>Show answer</summary>
 
-**Ans: BWhy:** Mewar restorer vs Chauhan of Ranthambore (1301).
+**Logic:** ** Mewar restorer vs Chauhan of Ranthambore (1301).
+
+**Ans: B.**
 
 </details>
 
 **Q37.** Kirti Stambha at Chittor is:
 
-A. Kumbha’s victory tower |
-
-B. The older Jain tower |
-
-C. Akbar’s minar |
-
+A. Kumbha’s victory tower
+B. The older Jain tower
+C. Akbar’s minar
 D. Man Singh’s Amber gate
 
 <details><summary>Show answer</summary>
 
-**Ans: BWhy:** The correct fact is **The older Jain tower**.
+**Logic:** The keyed fact is **The older Jain tower**.
+
+**Ans: B.**
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -986,17 +942,16 @@ D. Man Singh’s Amber gate
 
 **Q38.** Rao Jodha is remembered for:
 
-A. Founding Jodhpur |
-
-B. Commanding Haldighati |
-
-C. Building Vijay Stambha |
-
+A. Founding Jodhpur
+B. Commanding Haldighati
+C. Building Vijay Stambha
 D. Founding Udaipur
 
 <details><summary>Show answer</summary>
 
-**Ans: AWhy:** The correct fact is **Founding Jodhpur**.
+**Logic:** The keyed fact is **Founding Jodhpur**.
+
+**Ans: A.**
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.

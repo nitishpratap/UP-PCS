@@ -94,7 +94,7 @@ Post-Gupta Age | Harshavardhana | Administration of Harsha | Policies of Harshav
 - **Banabhatta** wrote *Harshacharita* and *Kadambari*. **Mayura** wrote *Suryashataka*.
 - Traveller order for match stems: Fa-Hien → Hiuen Tsang → I-tsing → Al-Biruni (Fa-Hien is Gupta-age; taught in Topic 9).
 
-> ** note:** Full Banabhatta and Xuanzang cards stay below.
+> **Logic:** Full Banabhatta and Xuanzang cards stay below.
 
 ---
 
@@ -105,10 +105,13 @@ Post-Gupta Age | Harshavardhana | Administration of Harsha | Policies of Harshav
 - The imperial Gupta centre dies in the mid-6th century. The **Hunas** are led first by **Toramana**, then by **Mihirakula**. Mihirakula’s remembered seat is **Sakala** (Sialkot). The **Gwalior** inscription names him. The **Rajatarangini** remembers him in Kashmir. The **Eran** boar inscription names Toramana.
 - **Yashodharman** of Malwa boasts the Huna check at **Mandasor** (Dashapura), about **532 CE**. **Vasula** is the composer remembered for the **Sondani / Sondhni** record of that victory.
 
-- The **Pushyabhuti / Vardhana** house is at Thanesar in Haryana. Founder-memory is **Pushyabhuti**. It is Harsha’s family.
-- The **Maukharis** sit at Kannauj in Uttar Pradesh. They were earlier Gupta feudatories from the Gaya belt. The last name is **Grihavarman**. The Maukhari line in papers is Hariavarman / Adityavarman memory, then Ishvaravarman, then Ishanavarman, then Sarvavarman, then Avantivarman, then Grihavarman.
-- The **Later Guptas** sit in Magadha. The end-name is **Jivitagupta II**. Later Gupta **Adityasena** has the **Aphsad** inscription in Bihar.
-- The **Maitrakas** sit at Valabhi in Gujarat. Founder-memory is **Bhatarka**. **Gauda** is Bengal. **Shashanka** is the king. The capital is **Karnasuvarna**. The **Chalukyas of Badami** have **Pulakeshin II**. The capital is **Vatapi**.
+- The **Pushyabhuti / Vardhana** house sits at **Thanesar** in Haryana. Founder-memory is **Pushyabhuti**. This is Harsha’s family.
+- The **Maukharis** sit at **Kannauj** in Uttar Pradesh. They rise as earlier Gupta feudatories from the Gaya belt, and the last Maukhari name in the Harsha story is **Grihavarman**.
+- The Maukhari line in papers runs Hariavarman / Adityavarman memory, then Ishvaravarman, Ishanavarman, Sarvavarman, Avantivarman, and Grihavarman.
+- The **Later Guptas** sit in Magadha. **Adityasena** has the **Aphsad** inscription in Bihar, and the end-name is **Jivitagupta II**.
+- The **Maitrakas** sit at **Valabhi** in Gujarat. Founder-memory is **Bhatarka**.
+- **Gauda** is Bengal under **Shashanka**, with capital **Karnasuvarna**.
+- The **Chalukyas of Badami** under **Pulakeshin II** hold **Vatapi** and later stop Harsha at the Narmada.
 - Between Gupta fall and Harsha, power in the north also sits with Later Guptas, Pushyabhutis, Maukharis, and Maitrakas — **not** with later houses such as Paramaras of Malwa or Yadavas of Devagiri.
 - **Harsha-samvat** starts in **606 CE**.
 
@@ -135,7 +138,7 @@ D. Ishwaravarman — Jaunpur stone inscription
 
 - After **647** the north splits again. Kannauj becomes the later prize of the **tripartite struggle** among **Gurjara-Pratihara**, **Pala**, and **Rashtrakuta**. That full story — Nagabhata I, Dantidurga’s Hiranyagarbha, Amoghavarsha I, Dharmapala — lives in the Early Medieval Regional Kingdoms chapter. Keep only the pointer here.
 
-> ** note:** Harsha is **Pushyabhuti**, not a Gupta emperor.
+> **Logic:** Harsha is **Pushyabhuti**, not a Gupta emperor.
 
 ---
 
@@ -155,7 +158,7 @@ D. Ishwaravarman — Jaunpur stone inscription
 - Written sources are court poet **Banabhatta** (*Harshacharita*) and the Chinese pilgrim **Hiuen Tsang** (*Si-Yu-Ki*).
 - **Harshavardhan** is a common trap option for **Hathigumpha**. The inscription belongs to **Kharavela** of Kalinga, not Harsha.
 
-> ** note:** Thanesar is not Kannauj. Kannauj is the UP fact.
+> **Logic:** Thanesar is not Kannauj. Kannauj is the UP fact.
 
 ---
 
@@ -169,18 +172,23 @@ D. Ishwaravarman — Jaunpur stone inscription
 - Xuanzang praises roads and access to the king, but also notes robbery on routes and harsh ordeals. Elephant numbers in the *Si-Yu-Ki* are colour, not a census. The weak point is that the state **is Harsha**. 647 proves it.
 - Trade credit in the post-Harsha sources remembers **hundi** as a bill of exchange, not a royal edict.
 
-> ** note:** He did not invent Uparika. That is Gupta vocabulary.
+> **Logic:** He did not invent Uparika. That is Gupta vocabulary.
 
 ---
 
 ## 10.4 Policies of Harshavardhana
-- **Harsha's Grand Religious Assemblies (UP Angle):**
-  - **Kannauj Assembly (643 CE):** Held in honour of Chinese Buddhist pilgrim **Xuanzang (Hiuen Tsang)** to popularise Mahayana Buddhism. Attended by 20 tributary kings (including Bhaskaravarman of Kamarupa) and thousands of Buddhist, Jaina and Vedic scholars.
-  - **Prayag Mahamoksha Parishad (Quinquennial Assembly):** Held every 5 years at the **Triveni Sangam in Prayag (Allahabad)**. Harsha celebrated his **6th Mahamoksha Parishad** in 643 CE in the presence of Xuanzang. Harsha gave away all his royal treasury wealth accumulated over five years in charity to Buddhist monks, Brahmins, poor and destitute, even gifting his personal jewels and garments (taking an ordinary unstitched cloth from his sister Rajyashri).
 
 **Digvijaya in the north | Narmada is the southern wall | charity plus assembly**
 
 Harsha tries to reunite north India after the Guptas. He succeeds in the north and west. He fails to become a Deccan emperor.
+
+### Religious assemblies (Uttar Pradesh angle)
+
+- The **Kannauj assembly of 643 CE** honours **Xuanzang (Hiuen Tsang)** and advertises Mahayana patronage.
+- Tributary kings, including **Bhaskaravarman** of Kamarupa, and large numbers of Buddhist, Jaina, and Vedic scholars attend that assembly.
+- The **Prayag Mahamoksha Parishad** is Harsha’s quinquennial charity assembly at the **Triveni Sangam**.
+- Xuanzang witnesses the **sixth** Mahamoksha gathering in **643 CE**.
+- Coaching memory stresses that Harsha gives away accumulated treasury wealth, including jewels and garments, and takes plain cloth from his sister **Rajyashri**.
 
 ### East — Shashanka
 
@@ -217,7 +225,7 @@ Harsha tries to reunite north India after the Guptas. He succeeds in the north a
 - Chinese report a slaughter ban in his lands.
 - Faith is Buddhist patronage without wiping out Hindu cults.
 
-> ** note:** The Narmada stop is not the Battle of Kannauj 1540 (Sher Shah / Humayun).
+> **Logic:** The Narmada stop is not the Battle of Kannauj 1540 (Sher Shah / Humayun).
 
 ---
 
@@ -233,7 +241,7 @@ Harsha tries to reunite north India after the Guptas. He succeeds in the north a
 - Same Harsha court also had **Mayura**, author of *Suryashataka*. Mayura is not Bana.
 - **Banabhatta** is Harsha’s **7th-century** court poet. **Kalidasa** is Chandragupta II’s Gupta-age poet.
 
-> ** note:** Bana ≠ Kalidasa. *Harshacharita* ≠ *Kadambari*.
+> **Logic:** Bana ≠ Kalidasa. *Harshacharita* ≠ *Kadambari*.
 
 ---
 
@@ -251,7 +259,7 @@ Harsha tries to reunite north India after the Guptas. He succeeds in the north a
 - Court praise sits next to fact. Cross-check names with Banskhera / Madhuban.
 - *Kadambari* is his other book — a prose romance. *Harshacharita* is the royal biography.
 
-> ** note:** *Harshacharita* = 7th c. biography. *Kadambari* = romance. *Si-Yu-Ki* = the Chinese record, not Bana.
+> **Logic:** *Harshacharita* = 7th c. biography. *Kadambari* = romance. *Si-Yu-Ki* = the Chinese record, not Bana.
 
 ---
 
@@ -288,7 +296,7 @@ A. 1, 2, 3, 4 B. 4, 3, 1, 2 C. 2, 1, 4, 3 D. 3, 4, 2, 1
 
 </details>
 
-> ** note:** Hiuen Tsang ≠ Fa-Hien. Nalanda founder = **Kumaragupta I**. Xuanzang = visitor under Harsha.
+> **Logic:** Hiuen Tsang ≠ Fa-Hien. Nalanda founder = **Kumaragupta I**. Xuanzang = visitor under Harsha.
 
 ---
 
@@ -296,24 +304,27 @@ A. 1, 2, 3, 4 B. 4, 3, 1, 2 C. 2, 1, 4, 3 D. 3, 4, 2, 1
 
 **~671–695 CE | sea route | Nalanda after Harsha**
 
-- Tang monk; left with associates about **671–672**; reached India by **western sea route**; returned to China about **693–694** via **Sumatra**.
+- I-tsing is a Tang monk who left China with associates about **671–672**.
+- He reached India by the **western sea route** and returned to China about **693–694** via **Sumatra**.
 - He is **not** Harsha’s guest at the 643 Kannauj assembly.
-- Studied and taught at **Nalanda**; records a large monk body at peak and detailed Vinaya practice.
-- Book tradition: ***Nanhai Jigui Neifa Zhuan***. Chronology: Fa-Hien (~400) → Hiuen Tsang (~630) → **I-tsing (~670s)** → Al-Biruni (~1017).
+- He studied and taught at **Nalanda** and records a large monk body at peak with detailed Vinaya practice.
+- His book tradition is ***Nanhai Jigui Neifa Zhuan***.
+- Traveller chronology is Fa-Hien (~400) → Hiuen Tsang (~630) → **I-tsing (~670s)** → Al-Biruni (~1017).
 
 ## 10.9 Nalanda in the Harsha Age
 
-- Nalanda was founded under **Kumaragupta I** (Gupta). Harsha is a **patron**, not the founder.
-- **Hiuen Tsang** studies under **Shilabhadra** at Nalanda; spends years in Magadha.
-- **Kannauj assembly (643):** honours Xuanzang; Mahayana texts foregrounded.
-- Final destruction of Nalanda is medieval — army of **Bakhtiyar Khalji** about **1193**. That end is Pala–Sena age, not Harsha’s lifetime.
+- Nalanda was founded under **Kumaragupta I** in the Gupta age. Harsha is a later **patron**, not the founder.
+- **Hiuen Tsang** studies under **Shilabhadra** at Nalanda and spends years in Magadha recording campus life, libraries, and debate.
+- The **Kannauj assembly of 643** honours Xuanzang and foregrounds Mahayana texts under Harsha’s patronage.
+- Final destruction of Nalanda is medieval — the army of **Bakhtiyar Khalji** about **1193**. That end belongs to the Pala–Sena age, not Harsha’s lifetime.
 
-## 10.10 After Harsha — Kannauj Pointer Only
+## 10.10 After Harsha — Kannauj Pointer
 
-- After **647**, Kannauj (also called **Mahodaya**) becomes the later north-Indian prize.
+- After **647**, Kannauj (also called **Mahodaya**) becomes the later north-Indian prize when no stable Pushyabhuti heir holds the centre.
 - The **tripartite struggle** of the 8th–9th centuries is among **Gurjara-Pratihara**, **Pala**, and **Rashtrakuta**.
-- Headline names for that later file: Pratihara **Nagabhata I**, Rashtrakuta **Dantidurga** (Hiranyagarbha at Ujjain; capital Manyakheta), **Amoghavarsha I**, Pala **Dharmapala**.
-- Shankaracharya’s Advaita maths and Chardham traps belong to Bhakti / Vedanta notes, not this Harsha card.
+- Headline names for that later Early Medieval file include Pratihara **Nagabhata I**, Rashtrakuta **Dantidurga** (Hiranyagarbha at Ujjain; capital Manyakheta), **Amoghavarsha I**, and Pala **Dharmapala**.
+- This chapter stops at the pointer; dynasty depth belongs with Early Medieval regional houses.
+- Shankaracharya’s Advaita maths and Chardham traps belong with Bhakti / Vedanta notes, not this Harsha card.
 
 ## 10.11 Hunas in Post-Gupta North
 

@@ -10,7 +10,7 @@ Revolt of 1857 | Causes | Beginning of Revolt | Centres of Revolt | Leaders of R
 
 > **Sources baked in:** NCERT Themes III, Spectrum, Bipan Chandra, Savarkar, Ghatnachakra Purvalokan (Revolt of 1857), UPPCS Prelims 2018–2025
 > **Weight:** ★★★ — centre↔leader, place↔date, Bareilly, Kunwar/Lakshmibai, Awadh 1856, historiography labels, Peel army
-> **Last verified:** September 2026
+> **Last verified:** September 2026 gap audit — centre CCR confirmed; civilian vs sepoy + partial success + Acts-after cards filled; Extra Drill present (no invented mega banks)
 > **Current Affairs:** N/A (historical)
 
 ---
@@ -35,8 +35,8 @@ Revolt of 1857 | Causes | Beginning of Revolt | Centres of Revolt | Leaders of R
 16. **Sir Syed Ahmad Khan** wrote *Asbab-e-Baghawat-e-Hind* (**1859**) on the causes of 1857 — the first major Indian-language analysis of the uprising.
 17. There was **no single national command**. Loyal princes, telegraph, railways and a quiet South/Punjab helped the British recover. **Educated middle class** largely stayed **neutral**.
 18. The revolt began under **Company** rule. **Crown** rule began only with the **1858** settlement — do not date Crown rule from Meerut.
-19. Why it failed (compact): disunity of aims, weak central leadership, limited geography, superior British reinforcements and Indian allies who stayed loyal.
-20. Uttar Pradesh was the revolt’s strongest civilian and sepoy belt — Meerut, Delhi’s UP hinterland, Lucknow, Kanpur, Allahabad and Bareilly all sit on that map.
+19. Why it failed (compact): disunity of aims, weak central leadership, limited geography, superior British reinforcements and Indian allies who stayed loyal. Partial success still matters: Company rule ended, annexation-stop followed, and the army was rebuilt — independence was not won.
+20. Uttar Pradesh was the revolt’s strongest civilian and sepoy belt — Meerut, Delhi’s UP hinterland, Lucknow, Kanpur, Allahabad and Bareilly all sit on that map. Meerut–Delhi opened as a sepoy rising; Awadh mixed sepoys with peasants and taluqdars.
 21. Mangal Pandey’s Barrackpore act was the **spark**, not the **war’s start**. The mass outbreak began at **Meerut on 10 May**.
 22. After Delhi fell back to the British in **September 1857**, the fighting continued into **1858** in Awadh and Central India before final suppression.
 23. Tantia Tope kept guerrilla fighting after Kanpur’s fall; betrayed by **Man Singh**, he was hanged at **Shivpuri on 18 April 1859**.
@@ -250,7 +250,9 @@ D. Jhansi — 11 May 1857
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Jhansi rose in **June 1857**, not 11 May (Delhi week).
+**Logic:** Jhansi’s rising month is June 1857; 11 May belongs to the Delhi week after Meerut.
+
+**Ans: D.** Jhansi rose in **June 1857**, not **11 May** (Delhi week). Barrackpore, Meerut and Lucknow dates in the other options are the standard keys.
 
 </details>
 
@@ -338,6 +340,14 @@ Each centre had its own local grievance before 1857, its own course of fighting,
 
 **Results:** Auwa remained a remembered Rajasthan centre; **Jaipur** itself did not become a major revolt seat.
 
+**Gwalior (Central India theatre)**
+
+**Causes:** After Jhansi fell, Lakshmibai and Tantia Tope needed a fresh base; Gwalior’s fort and stores made it the natural next prize even though the Scindia house stayed loyal to the British.
+
+**Course:** In **June 1858** the rebels briefly seized Gwalior while Scindia fled; fighting then centred near **Kotah-ki-Serai**.
+
+**Results:** Hugh Rose recovered Gwalior. Lakshmibai died in the fighting (**18 June 1858**). Gwalior is therefore a **final-theatre** place, not a May 1857 outbreak centre.
+
 ---
 
 ## 5.5 Leaders of Revolt
@@ -381,7 +391,9 @@ D. Nana Saheb
 <details>
 <summary>Show answer</summary>
 
-**Ans: B — Khan Bahadur Khan** — Hazrat Mahal = Lucknow; Kunwar = Bihar; Nana = Kanpur.
+**Logic:** Centre↔leader trap — Bareilly is Khan Bahadur Khan; the distractors belong to Lucknow, Bihar and Kanpur.
+
+**Ans: B — Khan Bahadur Khan.** Hazrat Mahal = Lucknow; Kunwar Singh = Bihar; Nana Sahib = Kanpur.
 
 </details>
 
@@ -426,7 +438,35 @@ Centre, leader and start-date are in the table above. These are the other places
 - The British used the **telegraph** and **railways** to move troops.
 - Large parts of the **South**, **Punjab**, **Gujarat**, and much of **Rajasthan** (including **Jaipur** and **Chittor**) did not join.
 
-> **Logic:** Crown rule begins in **1858**, not on 10 May 1857. Canning, not Dalhousie, was the first Viceroy. Peel = army reorg after 1857.
+### Why it succeeded only partially
+
+- The rising **did** end Company rule and force Crown takeover — that is a real political result, not a total zero.
+- The **Queen’s Proclamation** stopped routine annexation and restored princely adoption rights, which was a clear policy reverse after Lapse and Awadh 1856.
+- The army was rebuilt on a new recruitment map, so the old Bengal Army pattern never returned unchanged.
+- It **did not** win independence, create a national government, or unite all regions. Partial success means structural change under British recovery, not rebel victory.
+
+### Civilian vs sepoy strands
+
+| Strand | Who rose | Where it shows clearest | What to remember |
+|--------|----------|-------------------------|------------------|
+| **Sepoy** | Bengal Army soldiers over pay, promotion, overseas service and the cartridge | Meerut → Delhi march; Barrackpore spark | British writers stressed this strand alone and named it a **Sepoy Mutiny** |
+| **Civilian** | Peasants, taluqdars, artisans, displaced courts and townspeople | **Awadh / Lucknow**, Kanpur hinterland, parts of Bundelkhand and Bihar | Annexation, revenue and estate loss drove non-military crowds into the rising |
+| **Mixed centres** | Sepoy units plus local civilian support | Lucknow, Kanpur, Bareilly, Jagdishpur | Treat centre↔leader as one set; do not reduce every town to “only sepoys” |
+
+- Awadh is the classic **mixed** theatre: the largest rebel sepoy share came from Oudh, and taluqdars and peasants rose after the **1856** annexation.
+- Punjab and the South stayed mostly quiet, so the civilian depth of 1857 was regional, not all-India.
+- Many moneylenders and a large part of the **educated middle class** stayed out or opposed the rising — civilian India was not united behind the rebels.
+
+### Acts and settlement after 1857
+
+- The **Government of India Act, 1858** ended East India Company rule, created a **Secretary of State for India** in London with a Council, and made the Governor-General also **Viceroy**.
+- The **Queen’s Proclamation (1 November 1858, Allahabad)** promised no further aggressive annexation, non-interference in religion, and equal treatment in service — annexation-stop was the pledge most clearly kept.
+- The **Peel Commission** rebuilt the army: more Europeans, fewer high-caste Bengal sepoys, and heavier recruitment of **Gurkhas, Sikhs and Punjabis**.
+- The **Indian Councils Act, 1861** restored legislative councils and began limited Indian association in law-making — a Crown-era administrative sequel, not a rebel demand granted in full.
+- The short **White Mutiny / European troops unrest (1859)** followed the transfer of Company European soldiers to Crown service; it is an aftermath army fact, not a second 1857.
+- Racial distrust hardened after 1857; later colonial writing often blamed Muslims specially, and social distance between rulers and ruled widened.
+
+> **Logic:** Crown rule begins in **1858**, not on 10 May 1857. Canning, not Dalhousie, was the first Viceroy. Peel = army reorg after 1857. Partial success ≠ rebel victory.
 
 ---
 
@@ -538,7 +578,9 @@ D. Both 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C — Only 1** — Lapse **rejected** Damodar Rao.
+**Logic:** Statement 1 is the Bihar theatre fact; statement 2 reverses Doctrine of Lapse (Dalhousie refused the adopted heir).
+
+**Ans: C — Only 1.** Kunwar Singh led Jagdishpur. Dalhousie did **not** recognise Damodar Rao under Lapse.
 
 </details>
 
@@ -601,7 +643,9 @@ D. 1, 3, 2, 4
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Awadh **1856** → Indigo **1859** → Afghan **1878** → Ilbert **1883**.
+**Logic:** Chronology of four separate colonial events; Awadh annexation is a cause of 1857, not a result.
+
+**Ans: A.** Awadh **1856** → Indigo **1859** → Second Afghan War **1878** → Ilbert Bill **1883**.
 
 </details>
 
@@ -651,7 +695,9 @@ D. 1, 3, 2, 4
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Awadh **1856** is this topic’s fact (cause of 1857).
+**Logic:** Chronology opener for this paper; Awadh 1856 is the Topic 5 anchor among the four events.
+
+**Ans: A.** Awadh **1856** is this topic’s fact (a cause of 1857). Full order: Awadh → Indigo → Afghan → Ilbert.
 
 </details>
 
@@ -675,7 +721,9 @@ D. Both 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C — Only 1** — Stmt 2 is Lapse: heir **not** recognised.
+**Logic:** Statement 1 is correct Bihar leadership; statement 2 reverses Doctrine of Lapse.
+
+**Ans: C — Only 1.** Lapse refused Damodar Rao; it did not recognise him.
 
 </details>
 
@@ -694,7 +742,9 @@ D. Jhansi — 11 May 1857
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Jhansi rose in **June 1857**.
+**Logic:** Unmatched pair trap — Jhansi’s month is June, not the Delhi week of mid-May.
+
+**Ans: D.** Jhansi rose in **June 1857**, not **11 May**.
 
 </details>
 
@@ -711,7 +761,9 @@ D. Nana Saheb
 <details>
 <summary>Show answer</summary>
 
-**Ans: B — Khan Bahadur Khan**
+**Logic:** Bareilly ↔ Khan Bahadur Khan; other options are Lucknow, Bihar and Kanpur leaders.
+
+**Ans: B — Khan Bahadur Khan.**
 
 </details>
 
@@ -2926,10 +2978,13 @@ D. Neither 1 nor 2
 22. **Assam leader = Kandarpeshwar alone** → **Maniram Dutta** raised him; Maniram hanged.
 23. **Queen’s Proclamation all promises kept equally** → annexation-stop was the clearest follow-through.
 24. **Educated class led 1857** → they largely stayed **neutral**; sahukars often opposed.
-
-25. **Nicholson died at Lucknow** → he died taking **Delhi** (Sept 1857); Lucknow = **Lawrence / Havelock / Neill**.
-26. **Queen’s Proclamation = 10 May 1857** → **1 Nov 1858**, Allahabad.
-27. **British PM in 1857 = Gladstone / Churchill** → **Palmerston**.
-28. **Peel Commission = education / ICS** → **army reorganisation** after 1857.
-29. **Max help to British = Holkar alone** → **Scindias of Gwalior** (with Dinkar Rao) are the usual max-help key.
-30. **Tatya Tope = Nana Sahib’s real name** → Tatya = **Ramchandra Pandurang**; Nana = **Dhondho Pant**.
+25. **Only a sepoy mutiny everywhere** → Awadh and several UP–Bihar centres mixed **civilian** (peasant/taluqdar) and **sepoy** strands.
+26. **1857 = total failure with no results** → Company ended, Crown began, annexation-stop followed — **partial** structural success without independence.
+27. **Indian Councils Act 1861 = rebel demand granted in 1857** → it is a **Crown-era** sequel after the 1858 settlement.
+28. **Gwalior = May 1857 outbreak centre** → final **1858** theatre after Jhansi/Kalpi; Scindia stayed loyal.
+29. **Nicholson died at Lucknow** → he died taking **Delhi** (Sept 1857); Lucknow = **Lawrence / Havelock / Neill**.
+30. **Queen’s Proclamation = 10 May 1857** → **1 Nov 1858**, Allahabad.
+31. **British PM in 1857 = Gladstone / Churchill** → **Palmerston**.
+32. **Peel Commission = education / ICS** → **army reorganisation** after 1857.
+33. **Max help to British = Holkar alone** → **Scindias of Gwalior** (with Dinkar Rao) are the usual max-help key.
+34. **Tatya Tope = Nana Sahib’s real name** → Tatya = **Ramchandra Pandurang**; Nana = **Dhondho Pant**.

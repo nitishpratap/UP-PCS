@@ -10,7 +10,7 @@ Slogans | Newspapers & Journals | Books & Authors | Committees & Commissions | B
 
 > **Sources baked in:** Spectrum match lists, Ghatnachakra Purvalokan (Miscellaneous), UPPCS Prelims 2018–2025
 > **Weight:** ★★★ — this file is a **drill vault**, not a second textbook
-> **Last verified:** September 2026
+> **Last verified:** September 2026 gap audit — structure only (Must-score → Confused Pairs → vault tables → UPPCS bank → Extra Drill → Practice → Traps); no narrative bloat added; Extra Drill present (no invented mega banks)
 > **Boundary:** This file is a **match vault**. Event stories sit in the earlier Modern India chapters. Drill from the tables; do not re-learn narrative here.
 
 ---

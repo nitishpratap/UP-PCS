@@ -92,7 +92,7 @@ Taught in that order. World cores start with Mesopotamia, not with the later-fam
 - Jayaswal ≠ Smith. Kosambi ≠ Basham.
 - **Charaka** = medicine. **Sushruta** = surgery.
 
-> ** note:** Full historiography and Charaka cards stay in §§14.8–14.9.
+> **Logic:** Historiography and Charaka teaching cards continue in the sections below.
 
 ---
 
@@ -178,7 +178,7 @@ Taught in that order. World cores start with Mesopotamia, not with the later-fam
 - They use maize.
 - They have no Bronze-Age contact with the Indus.
 
-> ** note:** Garden of Eden in the Bible is conventionally the **Tigris–Euphrates** belt, not the Nile and not the Indus.
+> **Logic:** Garden of Eden in the Bible is conventionally the **Tigris–Euphrates** belt, not the Nile and not the Indus.
 
 ---
 
@@ -202,7 +202,7 @@ Taught in that order. World cores start with Mesopotamia, not with the later-fam
 - Shang power is **ritual bronze + divination**. The king talks to ancestors through cracks in bone.
 - Decline is not one story. Egypt continues. Mesopotamia is conquered in cycles. Harappan cities **thin out** around 1900 BCE.
 
-> ** note:** “Harappans built ziggurats” is false. “Egypt lived off Nile inundation” is true. “Indus script is read like hieroglyphs” is false.
+> **Logic:** “Harappans built ziggurats” is false. “Egypt lived off Nile inundation” is true. “Indus script is read like hieroglyphs” is false.
 
 ---
 
@@ -269,7 +269,7 @@ Taught in that order. World cores start with Mesopotamia, not with the later-fam
 
 - **Purana Qila** in Delhi is a **fort** name (Humayun / Sher Shah fabric). It is not a Sanskrit text.
 
-> ** note:** Vishnu Purana = Mauryas only. Shriparvatiya = **Ikshvakus** at Nagarjunakonda. Vayu ≠ Gupta administration handbook.
+> **Logic:** Vishnu Purana = Mauryas only. Shriparvatiya = **Ikshvakus** at Nagarjunakonda. Vayu ≠ Gupta administration handbook.
 
 ---
 
@@ -307,7 +307,7 @@ Indian materialism is the **Charvaka** school. Papers also call it **Lokayata** 
 - **Nyaya** (Gautama) and **Vaisheshika** (Kanada) are orthodox *darshanas*. They are not Charvaka.
 - The correct pair is **Nyaya — Gautama**. Vaisheshika is **Kanada**, not Patanjali. Mimamsa is not Kanada. Uttara Mimamsa (Vedanta) is not Kapila (Kapila is Samkhya).
 
-> ** note:** Charvaka ≠ Charaka. Charaka writes Ayurveda. Charvaka denies the unseen. Mixing the two names is the cheap trap.
+> **Logic:** Charvaka ≠ Charaka. Charaka writes Ayurveda. Charvaka denies the unseen. Mixing the two names is the cheap trap.
 
 ---
 
@@ -399,7 +399,7 @@ Teach in this order. Prataparudra II is the **last** king, not the founder.
 - **1310:** Malik Kafur. Tribute, including the later **Koh-i-noor tradition** (a story, not an inscription).
 - **1323:** Ulugh Khan takes Warangal. Dynasty ends. Persian chronicles then scatter his end.
 
-> ** note:** “Prataparudra founded the Kakatiyas” is false. “Rudrama is a Chola queen” is false. Female monarch + Warangal = **Kakatiya**.
+> **Logic:** “Prataparudra founded the Kakatiyas” is false. “Rudrama is a Chola queen” is false. Female monarch + Warangal = **Kakatiya**.
 
 ---
 
@@ -442,7 +442,7 @@ Teach in this order. Prataparudra II is the **last** king, not the founder.
 - Palkuriki Somanatha writes Shaiva Telugu works in this world.
 - **Perini Shivatandavam**: warrior-Shiva dance later reconstructed and tied to Kakatiya camps.
 
-> ** note:** Ramappa = Palampet, Telangana, UNESCO **2021**. Thousand Pillar = **Hanamkonda**. Swap those two towns and the question is gone.
+> **Logic:** Ramappa = Palampet, Telangana, UNESCO **2021**. Thousand Pillar = **Hanamkonda**. Swap those two towns and the question is gone.
 
 ---
 
@@ -463,7 +463,7 @@ Teach in this order. Prataparudra II is the **last** king, not the founder.
 - Option A on that paper (3-2-4-1) swaps Kosambi and Smith.
 - That is the bait.
 
-> ** note:** Basham did **not** write the Marxist introduction. Kosambi did **not** write *Early History*.
+> **Logic:** Basham did **not** write the Marxist introduction. Kosambi did **not** write *Early History*.
 
 ---
 
@@ -484,26 +484,38 @@ Teach in this order. Prataparudra II is the **last** king, not the founder.
 - It is classical Sanskrit science.
 - Charaka the physician is not Charvaka the materialist.
 
-> ** note:** Correct structure = **120 chapters, 8 sections**. Father-of-Indian-medicine tag in Lucent-type books = **Charaka**.
+> **Logic:** Correct structure = **120 chapters, 8 sections**. Father-of-Indian-medicine tag in Lucent-type books = **Charaka**.
 
 ---
 
 ## 14.10 Upapuranas — Names and Difference
 
-- **18 Upapuranas** (minor); shorter, local, sect-promotional; less complete **panchalakshana** than Mahapuranas.
-- Examples in coaching lists: **Sanatkumara**, **Narasimha**, **Durvasa**, **Kapila**, **Vamana**, **Bhargava**, **Varuna**, **Kalika**, **Maheshvara**, **Linga**, **Vinayaka**, **Shamba**, **Saura**, **Parashara**, **Maricha**.
+- There are **18 Upapuranas** (minor Puranas). They are shorter, more local, and more sect-promotional than the Mahapuranas.
+- They usually carry a less complete set of **panchalakshana** traits than the eighteen Mahapuranas.
+- Coaching lists often name the **Sanatkumara Purana**.
+- The **Narasimha Purana** is another frequent Upapurana name.
+- The **Durvasa**, **Kapila**, and **Vamana** Upapuranas appear in the same ratta set.
+- Further names in coaching dumps include **Bhargava**, **Varuna**, **Kalika**, **Maheshvara**, **Linga**, **Vinayaka**, **Shamba**, **Saura**, **Parashara**, and **Maricha**.
+- Do not treat an Upapurana title as automatic proof of a full five-trait Mahapurana.
+
+---
 
 ## 14.11 Ajivika — Neighbour of Charvaka
 
-- Founded around **Gosala Makkhali**; contemporary of Mahavira and Buddha.
-- Doctrine: **niyati** (fatalism) — everything predetermined; not Charvaka pleasure materialism.
-- Ashoka's **Barabar Hill** caves were donated to Ajivikas.
+- The Ajivika order is linked with **Gosala Makkhali** and is contemporary with Mahavira and the Buddha.
+- Its doctrine centres on **niyati** (fatalism): everything is predetermined.
+- That fatalism is not the same as Charvaka pleasure materialism, which denies lasting soul and unseen fruit.
+- Ashoka’s **Barabar Hill** caves were donated to Ajivikas — a Mauryan patronage fact, not a Charvaka school card.
+
+---
 
 ## 14.12 Meluhha Trade — Indus ↔ Mesopotamia
 
-- Sumerian/Akkadian texts name **Meluhha** = Indus region.
-- Exports: carnelian beads, timber, ivory; imports: Mesopotamian metals.
-- Harappan seal found in **Ur**; proves **bronze-age Gulf** contact.
+- Sumerian and Akkadian texts name **Meluhha** for the Indus region.
+- Coaching export lists from Meluhha include carnelian beads, timber, and ivory.
+- Coaching import lists into the Indus world include Mesopotamian metals.
+- A Harappan seal found at **Ur** is the standard bronze-age Gulf contact proof.
+- Meluhha is a Mesopotamian trade name, not a Harappan self-name carved on every seal.
 
 ## UP Focus
 

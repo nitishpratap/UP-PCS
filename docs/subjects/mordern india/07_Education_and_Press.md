@@ -10,7 +10,7 @@ Development of Education | Orientalist–Anglicist Controversy | Serampore Missi
 
 > **Sources baked in:** NCERT Themes III, Spectrum, Bipan Chandra, Ghatnachakra Purvalokan (Education & Press), UPPCS Prelims 2018–2025
 > **Weight:** ★★★ — Wood–Hunter–Sadler–Hartog–Sargent order, Asiatic Society founder, UP newspaper places, Archbold trap, press-law sequence
-> **Last verified:** September 2026
+> **Last verified:** September 2026 gap audit — Macaulay/Wood/Hunter/Sadler/Wardha + press-act ladder confirmed; Sargent Plan + universities founding cards filled; Extra Drill present (no invented mega banks)
 > **Current Affairs:** N/A (historical)
 
 ---
@@ -113,6 +113,7 @@ Two ladders run side by side: **education policy** (what got taught, and to whom
 - The wording of the 1813 grant was vague enough that it fed a decade-long fight over *what kind* of learning to fund. That fight is the **Orientalist–Anglicist controversy** (its own full card below).
 - **Macaulay's Minute, 1835** settled the fight in favour of English.
 - **Wood's Despatch, 1854** laid down a whole ladder from primary school to university.
+- **William Adam’s Reports (1835–38)** surveyed indigenous vernacular schools in Bengal and Bihar and showed a wide village-school network before the full Wood system — useful background, not a rival to Macaulay’s Minute.
 - **Universities of Calcutta, Bombay and Madras** were set up in **1857**.
 - **Hunter Commission, 1882** looked mainly at **primary education**.
 - **Indian Universities Act, 1904** tightened official control (Curzon), building on the **Raleigh Commission, 1902**.
@@ -231,7 +232,9 @@ D. C A B D
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Wood **1854** → Hunter **1882** → Sadler **1917** → Sargent **1944**.
+**Logic:** Education-commission chronology — Wood first, Sargent last; Hunter before Sadler.
+
+**Ans: D.** Wood **1854** → Hunter **1882** → Sadler **1917** → Sargent **1944**.
 
 </details>
 
@@ -288,7 +291,31 @@ D. C A B D
 
 ---
 
-## 7.11 National Education Movement and the National Council of Education, 1906
+## 7.11 Sargent Plan, 1944
+
+- The **Sargent Plan** was drafted by **John Sargent**, Educational Adviser to the Government of India, and issued through the **Central Advisory Board of Education** in **1944**.
+- It proposed free and compulsory education for the age group **6–14**, with a roughly **forty-year** target for full coverage.
+- It also sketched a ladder of nursery, junior basic, senior basic, high school and university stages, plus technical and adult education.
+- It is a late-colonial **official** blueprint, not Gandhi’s **Wardha / Nai Talim** scheme of **1937**.
+- Chronology trap: Sargent comes **after** Hartog (**1929**) and Wardha (**1937**), and **after** Sadler (**1917–19**).
+
+> **Logic:** Sargent = **1944, official, 6–14 compulsory**. Wardha = **1937, Gandhi, craft-centred**. Do not swap the two.
+
+---
+
+## 7.12 Universities founded under Wood's design
+
+- **Wood's Despatch (1854)** proposed universities on the **London University** affiliating model.
+- The first three modern universities opened in **1857**: **Calcutta, Bombay and Madras**.
+- They began mainly as **examining and affiliating** bodies for colleges, not as single residential teaching universities.
+- Later foundations often asked: **Punjab University (1882)** and **Allahabad University (1887)**.
+- Do not date **Allahabad** or **Punjab** to **1857**. Do not treat the **Indian Universities Act, 1904** as the founding law of the 1857 universities — that Act tightened control under Curzon.
+
+> **Logic:** First three universities = **1857**. Allahabad = **1887**. Punjab = **1882**. Universities Act = **control, 1904**, not founding.
+
+---
+
+## 7.13 National Education Movement and the National Council of Education, 1906
 
 - The movement grew during **Swadeshi (1905–06)** as a protest against Curzon's controls (including the **1904 Universities Act**) and as a boycott of official colleges.
 - **Rangpur National School** opened **8 November 1905** as an early national-education milestone. The **National Council of Education (NCE)** was organised in **Bengal on 15 August 1906**, was the organised expression of this movement — a body meant to run literary and scientific/technical education entirely **free of government control**.
@@ -303,7 +330,7 @@ D. C A B D
 
 ---
 
-## 7.12 Educational Centres and Teachers
+## 7.14 Educational Centres and Teachers
 
 - **Warren Hastings** founded the **Calcutta Madrasa (~1780–81)**.
 - **Jonathan Duncan** founded the **Sanskrit College, Banaras, in 1791**. He did **not** found the Asiatic Society.
@@ -358,13 +385,15 @@ D. He was the Principal of the Muir Central College, Allahabad.
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Lahore is the wrong post.
+**Logic:** Archbold posts trap — Lahore is the wrong college among the listed principals.
+
+**Ans: B.** He was **not** Principal of Lahore College. Aligarh, Dacca and Muir Allahabad are the keyed posts.
 
 </details>
 
 ---
 
-## 7.13 Asiatic Society of Bengal
+## 7.15 Asiatic Society of Bengal
 
 - Founded in **1784** at Calcutta.
 - **Founder-president = Sir William Jones**. Through *Asiatic Researches* the Society publicised India’s past; Jones’s English *Shakuntala* (**1789**) is a standard Society-linked fact. **Wilkins’s English Gita** is a related oriental-learning fact (Hastings’s preface).
@@ -389,11 +418,15 @@ D. William Bentinck
 <details>
 <summary>Show answer</summary>
 
-**Ans: B — Sir William Jones**
+**Logic:** Asiatic Society founder — Jones, not Hastings, Duncan or Bentinck.
+
+**Ans: B — Sir William Jones.**
 
 </details>
 
-**PYQ — UPPCS Prelims 2019, Q22Assertion (A):** The Asiatic Society of Bengal was established in the period of Warren Hastings and he modestly declined the offer of Presidentship of that learned body in favour of Sir William Jones.
+**PYQ — UPPCS Prelims 2019, Q22**
+
+**Assertion (A):** The Asiatic Society of Bengal was established in the period of Warren Hastings and he modestly declined the offer of Presidentship of that learned body in favour of Sir William Jones.
 
 **Reason (R):** Warren Hastings was himself a great scholar and an ardent orientalist who used to encourage the study of Sanskrit, Persian and Arabic.
 
@@ -406,13 +439,15 @@ D. (A) is false, but (R) is true
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Both true. Declining the chair is modesty / office, not "because he was a scholar."
+**A/R logic:** A is true (Hastings’s time; he declined the chair for Jones). R is also true as a scholarship fact, but it does **not** explain why he declined the presidency — that was modesty / office choice, not “because he was a scholar.”
+
+**Ans: B.** Both true; R is not the correct explanation of A.
 
 </details>
 
 ---
 
-## 7.14 Beginning of Newspapers and the Press-Control Sequence
+## 7.16 Beginning of Newspapers and the Press-Control Sequence
 
 - The first newspaper in India is **Hicky's Bengal Gazette (1780)**, Calcutta, by **James Augustus Hicky**. It was quickly shut down after Hicky's attacks on officials.
 - Early nineteenth-century papers followed in Bengali, Persian, Marathi, Hindi and English; the Company often eyed them with suspicion.
@@ -438,7 +473,7 @@ D. (A) is false, but (R) is true
 
 ---
 
-## 7.15 Newspapers and Journals
+## 7.17 Newspapers and Journals
 
 **UP match home.** The local `pyq/2022` file prints "Kesari"; the standard paper is **Swadesh**.
 
@@ -493,13 +528,15 @@ D. A-1, B-2, C-3, D-4
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Gorakhpur, Hathras, Agra, Almora.
+**Logic:** UP newspaper–place match — Swadesh/Gorakhpur, Bharat Bandhu/Hathras, Satyawadi/Agra, Shakti/Almora.
+
+**Ans: B.** Gorakhpur, Hathras, Agra, Almora. Do not put Tilak’s Kesari into this List-II set.
 
 </details>
 
 ---
 
-## 7.16 Editors and Founders
+## 7.18 Editors and Founders
 
 | Paper / journal | Editor / founder |
 |-----------------|------------------|

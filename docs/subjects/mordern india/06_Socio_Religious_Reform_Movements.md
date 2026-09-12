@@ -10,7 +10,7 @@ Raja Ram Mohan Roy | Ishwar Chandra Vidyasagar | Jyotiba Phule | Satyashodhak Sa
 
 > **Sources baked in:** NCERT Themes III, Spectrum, Bipan Chandra, Ghatnachakra Purvalokan (Socio-Religious Movements), UPPCS Prelims 2018–2025
 > **Weight:** ★★★ — founder ↔ institution, reformer ↔ work, Malabari / Age of Consent, Phule–Satyashodhak, region-stream traps (SNDP/Singh Sabha/Self-Respect)
-> **Last verified:** September 2026
+> **Last verified:** September 2026 gap audit — Brahmo/Arya/Aligarh/Singh Sabha/Theosophy/Phule/Narayana Guru map confirmed; Young Bengal card expanded; Extra Drill present (no invented mega banks)
 > **Current Affairs:** N/A (historical)
 
 ---
@@ -148,7 +148,9 @@ D. Peasant Movement
 <details>
 <summary>Show answer</summary>
 
-**Ans: C — Anti-caste Movement**
+**Logic:** Phule’s core identity in modern India is anti-caste work, not CDM, unions or peasant leagues as the main label.
+
+**Ans: C — Anti-caste Movement.**
 
 </details>
 
@@ -180,7 +182,9 @@ D. Raja Ram Mohan Roy
 <details>
 <summary>Show answer</summary>
 
-**Ans: C — Jyotiba Phule**
+**Logic:** Satyashodhak founder trap — Tarabai Shinde, Ranade and Roy are the usual wrong options.
+
+**Ans: C — Jyotiba Phule.**
 
 </details>
 
@@ -218,7 +222,9 @@ D. Both 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C — Only 1** — Tilak opposed the Act.
+**Logic:** Age of Consent 1891 — Malabari advocated; Tilak’s extremist wing opposed British interference in Hindu marriage.
+
+**Ans: C — Only 1.** Statement 2 is false because Tilak opposed the Act.
 
 </details>
 
@@ -318,7 +324,9 @@ D. Deva Samaj — Banaras
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — A should be Agra; B should be Varanasi; D should be Lahore.
+**Logic:** Correctly matched city trap — learn the wrong cities (Agra / Varanasi / Lahore) as well as the right one.
+
+**Ans: C.** Sanatan Dharma Rakshini Sabha — **Calcutta**. Radhasoami = Agra; Bharat Dharma Mahamandal = Varanasi; Deva Samaj = Lahore.
 
 </details>
 
@@ -345,7 +353,6 @@ D. Deva Samaj — Banaras
 ## 6.9 Bengal Reform Movements
 
 - Bengal was the first big centre of the nineteenth-century reform debate (Calcutta elites, print, and English education).
-- **Young Bengal** followed **Henry Louis Vivian Derozio** at Hindu College. They were radical and short-lived.
 - **Tattvabodhini Sabha (1839)** under **Debendranath Tagore** carried Brahmo ideas forward after Roy.
 - The **Sati ban of 1829** belongs to this Bengal debate.
 - The **Widow Remarriage Act of 1856** followed Vidyasagar’s campaign.
@@ -353,7 +360,15 @@ D. Deva Samaj — Banaras
 - **Bethune** opened a girls’ school in Calcutta.
 - Orthodoxy also organised in Calcutta — **Sanatan Dharma Rakshini Sabha**.
 
-> **Logic:** Native Marriage Act = **1872**, not 1870/74/76.
+### Young Bengal (Derozio)
+
+- **Henry Louis Vivian Derozio** taught at **Hindu College, Calcutta**, in the late **1820s**.
+- His radical student circle is remembered as **Young Bengal**.
+- They attacked idolatry, caste rigidity and blind custom, and praised reason, liberty and Western learning.
+- The group was short-lived after Derozio’s dismissal and early death (**1831**), but it remains the Bengal radical-student tag in match lists.
+- Young Bengal is **not** Brahmo Samaj and **not** Phule’s Satyashodhak work in Maharashtra.
+
+> **Logic:** Native Marriage Act = **1872**, not 1870/74/76. Young Bengal = **Derozio / Hindu College**, not Roy or Phule.
 
 **PYQ — UPPCS Prelims 2019, Q17**
 
@@ -370,7 +385,9 @@ D. 1876
 <details>
 <summary>Show answer</summary>
 
-**Ans: B — 1872**
+**Logic:** Native / Brahmo Marriage Act year trap — three nearby wrong years are the usual distractors.
+
+**Ans: B — 1872.**
 
 </details>
 
@@ -443,11 +460,11 @@ D. A-1, B-2, C-3, D-4
 - After Roy, **Debendranath Tagore** led the **Adi Brahmo Samaj**.
 - **Keshab Chandra Sen** formed the **Brahmo Samaj of India** (**Bhartiya Brahmo Samaj**). Debendranath’s wing is **Adi Brahmo Samaj** — do not swap. Keshab also linked to **Tabernacle of New Dispensation** and **Indian Reform Association**; **Calcutta Unitarian Committee** is Roy’s line, not Keshab’s alone.
 - Debendranath founded **Tattvabodhini Sabha (1839)** to spread Roy’s ideas and later appointed Keshab as Acharya.
-- A further split produced the **Sadharan Brahmo Samaj**.
+- A further split produced the **Sadharan Brahmo Samaj (1878)**, led by figures such as **Ananda Mohan Bose**, **Shibnath Shastri** and **Umesh Chandra Dutta**, after protest against Keshab’s style of leadership and the Cooch Behar marriage controversy.
 - The **Native Marriage Act 1872** is linked to Brahmo / civil marriage needs.
 - Brahmo Samaj is **not** “Back to the Vedas.” That slogan is **Arya Samaj**.
 
-> **Logic:** Founder = Roy **1828**. Splits = Debendranath and Keshab. Do not credit Roy with Arya Samaj.
+> **Logic:** Founder = Roy **1828**. Splits = Debendranath (Adi), Keshab (Brahmo Samaj of India), then Sadharan Brahmo **1878**. Do not credit Roy with Arya Samaj.
 
 ---
 
@@ -516,6 +533,7 @@ D. A-1, B-2, C-3, D-4
 - He founded the **Muhammadan Anglo-Oriental College at Aligarh in 1875**. It later became **Aligarh Muslim University**.
 - He brought out the journal **Tahzib-ul-Akhlaq**.
 - He also wrote a commentary on the Quran in a modernist frame.
+- After 1857 he analysed the uprising in *Asbab-e-Baghawat-e-Hind* (**1859**) and argued that Muslims needed modern education to recover under British rule.
 - This is **not** Deoband. Deoband is a seminary, not MAO College.
 
 > **Logic:** Aligarh / MAO = **Sir Syed, 1875**. Archbold as a later Principal is an Education-topic fact.
@@ -634,8 +652,9 @@ D. A-1, B-2, C-3, D-4
 - In **1902** the various Singh Sabhas united under the **Chief Khalsa Diwan**, based at Amritsar.
 - This reform current later fed into the **Gurdwara Reform Movement** of the 1920s, which set up the **Shiromani Gurdwara Parbandhak Committee (SGPC) in 1920** to take gurdwara management out of hereditary mahant control.
 - Singh Sabha is **not** a branch of the Arya Samaj. Both reacted to the same missionary and reform pressure but built separate, competing identities.
+- Keep **Nirankari** (Dayal Das / formless-God reform, earlier nineteenth century) and **Namdhari / Kuka** (Baba Ram Singh; Topic 8 chronology) distinct from the Singh Sabha institutional stream.
 
-> **Logic:** Amritsar Singh Sabha = **1873** (Sanatan wing). Lahore Singh Sabha = **1879** (Tat Khalsa). Chief Khalsa Diwan = **1902**.
+> **Logic:** Amritsar Singh Sabha = **1873** (Sanatan wing). Lahore Singh Sabha = **1879** (Tat Khalsa). Chief Khalsa Diwan = **1902**. Nirankari ≠ Singh Sabha ≠ Kuka.
 
 ---
 

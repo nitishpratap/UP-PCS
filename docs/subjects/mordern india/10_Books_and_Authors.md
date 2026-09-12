@@ -10,7 +10,7 @@ Books and Authors | History Books | Books on Freedom Movement | Political Books 
 
 > **Sources baked in:** Spectrum, Bipan Chandra, Ghatnachakra Purvalokan (Books & Authors), UPPCS Prelims 2018–2025
 > **Weight:** ★★★ — book↔author matching, year traps, freedom-movement classics, Bhojpuri
-> **Last verified:** September 2026
+> **Last verified:** September 2026 gap audit — magazines/newspapers card filled; Master Match *Bandi Jivan* row fixed; Extra Drill present (no invented mega banks)
 > **Current Affairs:** N/A for the syllabus eight (skip Sen/Booker/Kalidasa CA)
 
 ---
@@ -59,13 +59,12 @@ Books and Authors | History Books | Books on Freedom Movement | Political Books 
 | Poverty… (Naoroji) | Economic Nationalism (Bipan) | 1901 drain classic vs later historiography | दरिद्रता… / आर्थिक राष्ट्रवाद |
 | Nation in Making | Story of My Deportation | Banerjee vs Lajpat Rai | ए नेशन इन मेकिंग / डिपोर्टेशन |
 | Neel Darpan | Anandamath | Dinabandhu Mitra indigo play vs Bankim sanyasi novel | नील दर्पण / आनंदमठ |
-| Mother India | Unhappy India | Katherine Mayo vs Lajpat Rai’s reply | मदर इंडिया / अनहैप्पी इंडिया |
+| Mother India | Unhappy India | Katherine Mayo’s 1927 hostile tract vs Lala Lajpat Rai’s reply | मदर इंडिया / अनहैप्पी इंडिया |
 | Firangiya | Bidesiya | Sinha 1921 anti-British poem vs Thakur migrant play | फिरंगिया / बिदेसिया |
 | Batohiya (poem) | Batohiya (character) | Raghuveer Narayan 1911 poem vs traveller in *Bidesiya* | बटोहिया |
 | India Divided | Pakistan or Partition | Rajendra Prasad vs Ambedkar | इंडिया डिवाइडेड |
 | Godaan | Anandamath | Premchand social realism vs Bankim political romance | गोदान / आनंदमठ |
 | The Indian War of Independence | Anandamath | Savarkar's 1857-as-war history, 1909 vs Bankim's Sanyasi-rising novel, 1882 | इंडियन वॉर ऑफ इंडिपेंडेंस / आनंदमठ |
-| Mother India | Unhappy India | Katherine Mayo's 1927 hostile tract vs Lala Lajpat Rai's reply | मदर इंडिया / अनहैप्पी इंडिया |
 
 ---
 
@@ -140,7 +139,7 @@ One home for extra titles. Details of the syllabus eight sit in the cards below.
 | **Amar Sonar Bangla** | Rabindranath Tagore | 1905 Swadeshi; Bangladesh anthem (first 10 lines, **1972**) |
 | **The Indian Sociologist** | Shyamji Krishna Varma | London journal |
 | **Annals and Antiquities of Rajasthan** | Col. James Tod | Feudalism in Rajasthan |
-| **Bandi Jivan** | Sachindranath Sanyal | Revolutionary textbook |
+| **Bandi Jivan / Bandi Jeevan** | Sachindra Nath Sanyal | **1922**; Cellular Jail memoir; **"Bible of the Revolutionaries"** |
 | **Bahuvivah / Balya Vivaher Dosh** | Ishwar Chandra Vidyasagar | Social-reform tracts |
 | **Chetavani Ra Chungatiya** | Kesari Singh Barhath | Rajasthan patriot verses (**1903**) |
 | **Bharat Bharati** | Maithili Sharan Gupta | Rashtrakavi |
@@ -152,7 +151,6 @@ One home for extra titles. Details of the syllabus eight sit in the cards below.
 | **The Springing Tiger** | Hugh Toye | Bose biography |
 | **Indian Unrest** | Valentine Chirol | Branded Tilak “Father of Unrest” |
 | **The Philosophy of the Bomb** | Bhagwati Charan Vohra | HSRA tract |
-- ***Bandi Jeevan* (A Life in Captivity) by Sachindra Nath Sanyal:** Published in 1922, this memoir of Cellular Jail (Kalapani) became famous as the **"Bible of Indian Revolutionaries"** (क्रांतिकारियों की पाठ्य-पुस्तक / बाइबिल). Inspired Bhagat Singh, Chandrashekhar Azad, and HRA youth across UP and Punjab.
 | **Dreamland / Introduction to Dreamland** | Lala Ramsaran Das / Bhagat Singh stream | Jail literature |
 | **Guilty Men of India’s Partition** | Ram Manohar Lohia | Partition critique |
 | **The Man Who Divided India** | Rafiq Zakaria | Partition biography |
@@ -173,6 +171,31 @@ One home for extra titles. Details of the syllabus eight sit in the cards below.
 | **New India / The Commonweal** | Annie Besant | Papers from **1914**; Central Hindu College **1898** |
 
 > **Logic:** Drill the **2020 four** and **Poverty 1901** first. Then twins. Then Bhojpuri four. Then the Savarkar/Mayo/GG additions.
+
+---
+
+## 10.1a Magazines and newspapers — match traps
+
+Extra Drill leans hard on **paper ↔ editor**. Hold this spine before the book cards.
+
+| Paper / magazine | Editor / founder | Tag |
+|------------------|------------------|-----|
+| ***Kesari*** / ***Mahratta*** | **B.G. Tilak** | Marathi / English; Extremist Poona press |
+| ***New India*** / ***Commonweal*** | **Annie Besant** | Home Rule papers from **1914** |
+| ***Young India*** / ***Harijan*** | **M.K. Gandhi** | Newspapers — not Lajpat Rai’s *Young India* **book** |
+| ***Bande Mataram*** | **Aurobindo Ghosh** (editor) | Swadeshi Bengal daily |
+| ***Yugantar*** | Barindra circle | Revolutionary Bengal weekly |
+| ***The Indian Sociologist*** | **Shyamji Krishna Varma** | London / India House |
+| ***The Bengalee*** | **Surendranath Banerjee** | Moderate Bengal press |
+| ***The Hindu*** | **G. Subramania Iyer** (start **1878**) | Madras; linked to Mahajan Sabha |
+| ***Bangadarshan*** | **Bankim Chandra** | Literary–nationalist journal |
+| ***Amrita Bazar Patrika*** | Ghosh brothers / Sisir Kumar Ghosh stream | Bengal nationalist daily |
+
+- ***Young India*** as a **newspaper** = Gandhi. ***Young India*** as a **book** in match sets = **Lala Lajpat Rai**.
+- ***New India*** = Besant. Do **not** give it to Tilak (*Kesari* / *Mahratta*).
+- ***Bande Mataram*** the paper is Aurobindo’s line; the **song** *Vande Mataram* is Bankim’s (*Anandamath*).
+
+> **Logic:** Sort **paper vs book** first. Then editor. That kills most magazine Extra Drill traps.
 
 ---
 
@@ -463,16 +486,16 @@ A. Partha Sarthi Gupta
 
 B. S Gopal
 
-C.
-
-B. R. Nanda
+C. B. R. Nanda
 
 D. Bipin Chandra
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Logic:** Exact title match — Bipan Chandra’s historiography of drain/poverty nationalism, not contemporary Naoroji/Dutt tracts.
+
+**Ans: D.** **Bipan Chandra** wrote ***The Rise and Growth of Economic Nationalism in India***.
 
 </details>
 
@@ -639,16 +662,16 @@ A. Partha Sarthi Gupta
 
 B. S Gopal
 
-C.
-
-B. R. Nanda
+C. B. R. Nanda
 
 D. Bipin Chandra
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Logic:** Exact title match — Bipan Chandra’s historiography of drain/poverty nationalism, not contemporary Naoroji/Dutt tracts.
+
+**Ans: D.** **Bipan Chandra** wrote ***The Rise and Growth of Economic Nationalism in India***.
 
 </details>
 
@@ -656,7 +679,7 @@ D. Bipin Chandra
 
 ## Ghatnachakra Extra Drill — Magazines, Books and Authors
 
-Teaching sits in **10.1–10.2a, 10.4–10.5, 10.10**. Full stems below are Ghatnachakra / multi-state Prelims patterns. **UKPCS** stems continue in the bank after this Extra.
+Teaching sits in **10.1–10.1a, 10.2a, 10.4–10.5, 10.10**. Full stems below are Ghatnachakra / multi-state Prelims patterns. **UKPCS** stems continue in the bank after this Extra.
 
 **Q1. UPPCS (Spl) (Mains) 2004**
 

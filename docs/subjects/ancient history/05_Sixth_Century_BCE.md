@@ -90,7 +90,7 @@ Political Condition of Sixth Century BCE | Sixteen Mahajanapadas | Mahajanapadas
 - For “who wrote *Ashtadhyayi*” the answer is **Panini**.
 - For “which text lists the sixteen mahajanapadas” the usual answer is **Anguttara Nikaya**, not a personal author.
 
-> ** note:** Full capital / Magadha teaching stays in the cards below.
+> **Logic:** Full capital / Magadha teaching stays in the cards below.
 
 ---
 
@@ -106,14 +106,15 @@ Political Condition of Sixth Century BCE | Sixteen Mahajanapadas | Mahajanapadas
 - **Punch-marked** silver (*karshapana*, bent bars), also called **Aahat** coins, appears. There is no gold dinara yet. These are the earliest extant Indian coins and run from about the seventh–sixth centuries BCE into the Mauryan age.
 - Two constitutions exist: **monarchy** and **gana-sangha**. A gana-sangha is an assembly of kshatriya clans, not adult-male democracy.
 - The Shakyas of Kapilavastu sit under Kosala. They are **not** one of the 16 names.
-- Revenue language: **bhaga** is a produce share (often one-sixth), **bali** is tribute, **shulka** is a toll, **visti** is labour. Officers include *mahamatta*, *senanayaka*, and *bhandagarika*.
+- Revenue language separates four dues. **Bhaga** is a produce share (often one-sixth). **Bali** is tribute. **Shulka** is a toll. **Visti** is labour.
+- Officers in this horizon include *mahamatta*, *senanayaka*, and *bhandagarika*.
 - The standard list of 16 is the Buddhist **Anguttara Nikaya**. The Jain list is the **Bhagavati / Vyakhya Prajnapti** (names differ: Anga, Banga, Malay, and others). Puranas give the Magadha dynasties. Greek writers appear only at the **Nanda** end.
 - **Panini** of **Pushkalavati** (Gandhara) in the *Ashtadhyayi* names about **22** janapadas. The three he stresses as important are **Magadha, Asmaka, and Kamboja**.
 - The *Mahaparinirvana-sutra* names six Buddha-age metros: **Champa, Rajagriha, Varanasi (Benaras), Saketa, Kaushambi, and Shravasti**.
 - In the northwest, Gandhara and Kamboja already sit on the **Achaemenid** fringe. **Alexander in 326 BCE** closes this age. It is not a 600 BCE event.
-- Buddha and Mahavira teach in this century. This file is **states, capitals, and Magadha houses**, not the Four Noble Truths. The same century is a wider intellectual upheaval (new faiths in the middle Ganga; parallel questioning elsewhere). Full religious teaching sits in Topic 4.
+- Buddha and Mahavira teach in this century. This file is **states, capitals, and Magadha houses**, not the Four Noble Truths. The same century is a wider intellectual upheaval (new faiths in the middle Ganga; parallel questioning elsewhere). Full religious teaching sits in the Religious Movements chapter.
 
-> ** note:** The 6th century BCE is not Mauryan India. NBPW is not PGW.
+> **Logic:** The 6th century BCE is not Mauryan India. NBPW is not PGW.
 
 ---
 
@@ -219,7 +220,7 @@ Political Condition of Sixth Century BCE | Sixteen Mahajanapadas | Mahajanapadas
 
 - The four-power fight is among **Magadha, Kosala, Vatsa, and Avanti**. **Shakya is not one of the 16.**
 
-> ** note:** There are 16, not 18. The 2020 paper swaps Matsya with Surasena. A Jain list exists, but papers use the Buddhist 16.
+> **Logic:** There are 16, not 18. The 2020 paper swaps Matsya with Surasena. A Jain list exists, but papers use the Buddhist 16.
 
 ---
 
@@ -266,7 +267,7 @@ Political Condition of Sixth Century BCE | Sixteen Mahajanapadas | Mahajanapadas
 
 - **Kalpi** in Jalaun district sits on the **Yamuna**. Ancient memory calls it **Kalpriya**; tradition links its building to King **Vasudeva** (about fourth century BCE / early historic horizon in coaching dumps).
 
-> ** note:** “Magadha, Vaishali, or Champa in Uttar Pradesh” is false.
+> **Logic:** “Magadha, Vaishali, or Champa in Uttar Pradesh” is false.
 
 ---
 
@@ -299,7 +300,7 @@ A. 4 2 1 3 B. 3 1 4 2 C. 3 4 1 2 D. 2 3 4 1
 
 </details>
 
-> ** note:** Mathura is **Surasena**, never Matsya.
+> **Logic:** Mathura is **Surasena**, never Matsya.
 
 ---
 
@@ -321,7 +322,7 @@ Sixteenth-century BCE politics is a chain of stronger states swallowing weaker o
 - His marriages buy peace with Kosala (the **Kashi dowry**), with the Licchavis, and with Madra.
 - **Ajatashatru** kills Bimbisara, then fights Kosala over Kashi.
 - Settlement comes when he marries **Vajira**, Prasenajit’s daughter.
-- He then fights a **~16-year** war on **Vajji**. Full Cause → Course → Result sits in §5.5a.
+- He then fights a **~16-year** war on **Vajji**. The full Cause → Course → Result card for that war sits in the Magadhan expansion section below.
 - War-engines are the **rathamusala** (scythed chariot) and the **mahashilakantaka** (stone-thrower).
 - Minister **Vassakara**, with **Sunidha**, sows discord in the Licchavi assembly.
 - They fortify **Pataligrama**, the seed of Pataliputra.
@@ -335,7 +336,7 @@ Sixteenth-century BCE politics is a chain of stronger states swallowing weaker o
 - Gandhara and Kamboja meet **Persia then the Greeks**, not Magadha first.
 - The **Nandas** roll leftover Kuru, Panchala, and Kalinga into one Gangetic empire. Then the Mauryas.
 
-> ** note:** The first Magadha bite is **Anga**. The longest fight is **Vajji**. Avanti is not Bimbisara’s prize.
+> **Logic:** The first Magadha bite is **Anga**. The longest fight is **Vajji**. Avanti is not Bimbisara’s prize.
 
 ---
 
@@ -345,38 +346,50 @@ Sixteenth-century BCE politics is a chain of stronger states swallowing weaker o
 
 ### Bimbisara's annexation of Anga
 
-**Cause:** Anga's **Champa** port controlled lower-Ganga trade; a eastern base was useful against Kashi rivalry.
+**Cause:** Anga's **Champa** port controlled lower-Ganga trade; an eastern base was useful against Kashi rivalry.
+
 **Course:** Bimbisara campaigned against Anga and took **Champa**. Marriage ties with Kosala had eased the western flank.
+
 **Result:** Anga became the **first** Magadha annexation. Magadha gained a river emporium toward Bengal.
 
 ### Ajatashatru's war with Kosala (Kashi)
 
 **Cause:** After parricide, Kosala under **Prasenajit** backed anti-Magadhan factions; **Kashi** was the prize city.
+
 **Course:** Ajatashatru fought Kosala, then sealed peace by marrying **Vajira**, Prasenajit's daughter.
+
 **Result:** Magadha kept leverage over **Kashi**. Kosala remained a rival until later Nanda pressure.
 
 ### Ajatashatru's war with the Vajji confederacy (~16 years)
 
 **Cause:** Vajji wealth, Vaishali's assemblies, and fear of a Licchavi–Kosala league threatened Magadhan supremacy.
+
 **Course:** Ajatashatru used the **rathamusala** (scythed chariot) and **mahashilakantaka** (catapult). Minister **Vassakara** sowed discord inside the Licchavi assembly. **Pataligrama** was fortified as a forward base.
+
 **Result:** Vajji was absorbed into Magadha. **Pataligrama** became the seed of **Pataliputra**.
 
 ### Vidudabha's destruction of the Shakyas
 
 **Cause:** Kosala's **Vidudabha** resented Shakyas of Kapilavastu after a court insult tradition.
+
 **Course:** He invaded Shakya territory under Kosalan suzerainty.
+
 **Result:** The **Shakyas** disappear as a political unit. This is **Kosala internal**, not a Magadhan conquest.
 
 ### Shishunaga's conquest of Avanti
 
 **Cause:** Avanti under the **Pradyota** line had long balanced Magadha, Vatsa, and Kosala.
+
 **Course:** Shishunaga marched against Avanti and ended the Pradyota house.
+
 **Result:** **Ujjain** entered Magadha's orbit. Avanti ceased to be one of the four great monarchies.
 
 ### Mahapadma Nanda's conquests
 
 **Cause:** Leftover mahajanapada boards (Kuru, Panchala, Kosala, Vatsa) still blocked a Gangetic empire.
+
 **Course:** **Mahapadma Nanda** overthrew the Shishunaga tail and rolled up the middle Ganga belt.
+
 **Result:** First large **Gangetic empire** before the Mauryas. Titles **ekarat**, **sarvakshatrantaka**, and **aparoparashurama** belong here.
 
 ## 5.6 Rise of Magadha
@@ -400,7 +413,7 @@ Sixteenth-century BCE politics is a chain of stronger states swallowing weaker o
 | Maurya | ~321–184 BCE |
 | Shunga | ~184–75 BCE |
 
-> ** note:** Magadha did not “rise because of sea trade.” Five hills are Rajgir, not Pataliputra. “Founded Pataliputra” and “made it capital” are different stems.
+> **Logic:** Magadha did not “rise because of sea trade.” Five hills are Rajgir, not Pataliputra. “Founded Pataliputra” and “made it capital” are different stems.
 
 ---
 
@@ -421,7 +434,7 @@ Sixteenth-century BCE politics is a chain of stronger states swallowing weaker o
 - Anuruddha, Munda, and Nagadasaka form a weak tail. Minister **Shishunaga** seizes the throne.
 - Jetavana at Shravasti is the gift of **Anathapindika** in Kosala. It is not a Bimbisara building.
 
-> ** note:** Pataliputra is not a Mauryan foundation. **Ajatashatru** seeds / founds the town; **Udayin** first makes it the capital. Bimbisara is not a Nanda.
+> **Logic:** Pataliputra is not a Mauryan foundation. **Ajatashatru** seeds / founds the town; **Udayin** first makes it the capital. Bimbisara is not a Nanda.
 
 ---
 
@@ -453,7 +466,7 @@ The Shishunagas take Magadha after the Haryanka weak tail. Their territorial pri
 - Puranic count gives ten Shishunagas.
 - The last is often **Nandivardhana / Mahanandin**, overthrown by **Mahapadma Nanda**.
 
-> ** note:** Shishunaga did **not** found Pataliputra. He **did** take Avanti. Kalashoka is not the First Council.
+> **Logic:** Shishunaga did **not** found Pataliputra. He **did** take Avanti. Kalashoka is not the First Council.
 
 ---
 
@@ -471,7 +484,7 @@ The Shishunagas take Magadha after the Haryanka weak tail. Their territorial pri
 - Centralised revenue and a standing four-fold army are the machine the Mauryas inherit. It is still **not** Ashokan dhamma, and not the *Arthashastra* as a finished book.
 - At Pataliputra, Ashoka later holds the **Third Buddhist Council** under **Moggaliputta Tissa**. A first Jain convention tradition is also placed here. Those are Mauryan / Jain-council facts that use this capital, not Nanda reforms.
 
-> ** note:** Alexander never marched on Pataliputra. Mahapadma is not Chandragupta.
+> **Logic:** Alexander never marched on Pataliputra. Mahapadma is not Chandragupta.
 
 ---
 
@@ -494,7 +507,7 @@ The Shishunagas take Magadha after the Haryanka weak tail. Their territorial pri
 | **PGW** | ~1100–600 BCE | Later Vedic doab |
 | **NBPW** | ~700–200 BCE | Mahajanapada + early historic cities |
 
-> ** note:** NBPW ≠ PGW. NBPW ≠ “only Mauryan.” Kaushambi and Ahichchhatra are classic NBPW mahajanapada facts.
+> **Logic:** NBPW ≠ PGW. NBPW ≠ “only Mauryan.” Kaushambi and Ahichchhatra are classic NBPW mahajanapada facts.
 
 ---
 

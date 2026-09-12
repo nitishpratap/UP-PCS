@@ -4,14 +4,13 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Political Organisations before INC | Zamindari Association | Bangabhasha Prakashika Sabha | Freedom Leaders | Political Organisations | Indian National Congress | Establishment of INC | Congress Presidents | Congress Sessions | Congress Policies | Moderates | Extremists | Tilak | Dadabhai Naoroji | Poona Sarvajanik Sabha | Indian Association | East India Association | Bombay Presidency Association | Madras Mahajan Sabha
-- **Madras Mahajana Sabha (May 1884):** Formed at Madras by **M. Veeraraghavachariar**, **G. Subramania Iyer**, and **P. Anandacharlu**. Associated with *The Hindu* newspaper (started 1878 by G. Subramania Iyer). Demanded legislative council expansion, civil service indigenisation, and separation of judiciary from executive. Acted as the chief Madras precursor to the Indian National Congress.
+Political Organisations before INC | Zamindari Association | Bangabhasha Prakashika Sabha | Freedom Leaders | Political Organisations | Indian National Congress | Establishment of INC | Congress Presidents | Congress Sessions | Congress Policies | Moderates | Extremists | Tilak | Dadabhai Naoroji | Poona Sarvajanik Sabha | Indian Association | East India Association | Bombay Presidency Association | Madras Mahajan Sabha | Ilbert Bill
 
 </details>
 
 > **Sources baked in:** NCERT Themes III, Spectrum, Bipan Chandra, Ghatnachakra Purvalokan (Political Organisations / INC / Moderates–Extremists), UPPCS Prelims 2018–2025
 > **Weight:** ★★★ — pre-INC chronology, Tilak never president, Moderates A/R, Naoroji 1901, sessions
-> **Last verified:** September 2026
+> **Last verified:** September 2026 gap audit — Ilbert CCR + Surat CCR labels filled; Safety Valve table cleaned; Extra Drill present (no invented mega banks)
 > **Current Affairs:** N/A (historical)
 
 ---
@@ -96,7 +95,6 @@ Nationalism did **not** appear fully formed in 1885. Hold this arc; every card b
 - Modern Indian nationalism is the demand for **political rights and self-rule**, not only local caste or regional loyalty.
 - It grew among the English-educated professional class after 1858, then widened in the Swadeshi and Home Rule years.
 - Political causes included racial discrimination and Lytton’s reactionary years.
-- The **Ilbert Bill** controversy of **1883** showed the racial bar in the courts.
 - The closed door of the **ICS** also fed political anger.
 - Economic causes included the drain of wealth, high land revenue, the ruin of handicrafts, and famines under a rich empire.
 - Social and intellectual causes included the press, railways, a common English-educated public, and socio-religious reform.
@@ -104,6 +102,29 @@ Nationalism did **not** appear fully formed in 1885. Hold this arc; every card b
 - Early nationalism was **constitutional**. After Partition of Bengal (**1905**) it split into **Moderates** and **Extremists**.
 
 > **Logic:** Congress did **not** begin Indian politics. London, Calcutta, Poona, Madras and Bombay associations came first.
+
+### Ilbert Bill controversy (1883) — Cause → Course → Result
+
+**Viceroy:** Lord Ripon | **Law member:** Courtenay Ilbert
+
+**Causes**
+
+- Under existing rules, Indian judges in the mofussil could not try European British subjects; European judges alone held that power.
+- Ripon’s liberal circle wanted to remove that **racial bar** so that Indian covenanted civilians could try Europeans in the same courts.
+
+**Course**
+
+- The **Ilbert Bill (1883)** proposed to allow Indian judges to try Europeans.
+- Anglo-Indian planters, officials and the European press in Calcutta organised a furious racial campaign against the Bill.
+- Educated Indians defended the Bill as a test of whether British justice meant equal law.
+
+**Results**
+
+- The government **compromised**: Europeans kept the right to demand a jury with a European majority.
+- The controversy showed Indians that racial privilege sat inside colonial law itself, and it fed the political anger that pre-Congress associations and, soon after, Congress channelled.
+- Hold **1883 Ilbert** as a **cause** of organised nationalism — not as a reform that fully succeeded.
+
+> **Logic:** Ilbert Bill = **1883 + Ripon**. Result = **compromise**, not full equality. It is a **political** spark, not an Act that Indianised the ICS.
 
 ---
 
@@ -225,12 +246,13 @@ Nationalism did **not** appear fully formed in 1885. Hold this arc; every card b
 
 ### Madras Mahajan Sabha (1884)
 
-**Year:1884Place:** Madras
-- The founders are **M. Viraraghavachariar**, **G. Subramania Iyer** and **P. Ananda Charlu**.
+**Year:** 1884 | **Place:** Madras
+**Founders:** **M. Viraraghavachariar**, **G. Subramania Iyer** and **P. Ananda Charlu**
 
-- Presidency-level political association for the educated public of Madras.
-- It discussed local government, jobs, and Indian representation.
-- It is one of the three presidency bodies named in the syllabus, with Poona and Bombay.
+- Presidency-level political association for the educated public of Madras, formed in **May 1884**.
+- Associated with *The Hindu* newspaper (started **1878** by G. Subramania Iyer).
+- It demanded legislative council expansion, civil service indigenisation, and separation of judiciary from executive.
+- It is one of the three presidency bodies named in the syllabus, with Poona and Bombay, and acted as the chief Madras precursor to Congress.
 
 > **Logic:** Madras Mahajan Sabha = **1884**. Bombay Presidency Association = **1885**. INC = **1885**.
 
@@ -307,10 +329,10 @@ Two rival explanations of **why** Congress began. Notes test both sides, not jus
 | **Core claim** | Hume, with hints from Viceroy **Dufferin**, wanted an organised, loyal outlet for educated Indian discontent so it would not turn revolutionary | Congress was the natural culmination of decades of political work by pre-1885 associations, the press and English education |
 | **Who argues it** | **Lala Lajpat Rai** first floated it; **R. Palme Dutt** later gave it a sharper Marxist edge | Most nationalist historians (Bipan Chandra and others); **William Wedderburn's** biography of Hume defends his sincerity |
 | **Evidence used** | Hume's own private hints about secret reports of unrest reaching the government; Congress's early loyalty to the British connection | Growth of the Indian Association, Poona Sarvajanik Sabha, Bombay and Madras bodies **before** 1885; Indians used Hume's organisational skill for their own ends |
-| ** treatment** | A **theory about intent**, not a proven fact — treat it as one interpretation | The dominant classroom view: Congress channelled a **genuine, already-rising** national consciousness |
+| **How to treat it** | A **theory about intent**, not a proven fact — treat it as one interpretation | The dominant classroom view: Congress channelled a **genuine, already-rising** national consciousness |
 
 - Hume genuinely wanted reform; Indians were not his passive tools. Both things can be true at once — that is the usual "both statements correct, but not causally linked" trap in A/R questions.
-- Do not write that Safety Valve is a "proven British conspiracy." It is a **theory**, most associated with **Lajpat Rai** in the 's eyes.
+- Do not write that Safety Valve is a "proven British conspiracy." It is a **theory**, most associated with **Lajpat Rai** in standard keys.
 
 > **Logic:** If a stem asks **who first suggested the Safety Valve idea**, the standard name is **Lala Lajpat Rai**. If it asks **who defended Hume**, the name is **William Wedderburn**.
 
@@ -471,15 +493,26 @@ D. (A) is true, but (R) is false.
 | **Bipin Chandra Pal** ("Pal") | **Bengal** — Calcutta | *Bande Mataram*, *New India* | Swadeshi orator; theorist of passive resistance |
 | **Aurobindo Ghosh** (allied Bengal intellectual, not in the triad name) | Bengal — Calcutta | Editor, *Bande Mataram* | Ideological voice of "new nationalism" |
 
-### Surat Split, 1907 — the mechanics
+### Surat Split, 1907 — Cause → Course → Result
+
+**Causes**
 
 - Congress had planned a **regular rotation**: Naoroji presided at Calcutta **1906**; Bombay was to host **1907**.
 - Extremists wanted the **1907 Surat session** to reaffirm the **Swadeshi, boycott and national-education** resolutions of 1906 without dilution, and pushed for an Extremist-line President.
 - Moderates insisted on **Rash Behari Ghosh** as President and wanted to **soften** the 1906 resolutions.
+- Behind the chair fight sat the deeper quarrel: petition politics versus assertive Swadeshi after Partition of Bengal.
+
+**Course**
+
 - At the Surat pandal in **December 1907**, the argument over the President's chair turned physical — shoes and chairs were thrown, and the session broke up in disorder before business could be conducted.
-- Moderates then held their **own** session with Ghosh in the chair; Extremists held a rump meeting separately. **Two Congresses existed in practice** until the **1916 Lucknow reunion**.
+- Moderates then held their **own** session with Ghosh in the chair; Extremists held a rump meeting separately.
+
+**Results**
+
+- **Two Congresses existed in practice** until the **1916 Lucknow reunion**.
+- The government used the split years to exile and jail Extremist leaders (Lajpat Rai’s short Mandalay deportation; Tilak’s long Mandalay sentence — table below).
 - At **Lucknow in 1916**, **Ambika Charan Majumdar** presided. Moderates and Extremists **reunited**, and the same session produced the **Lucknow Pact** with the Muslim League, accepting separate electorates as a bargain.
-- **Home Rule in 1916** under Tilak and Besant carried Extremist energy into a new constitutional form (full detail in **Topic 12**).
+- **Home Rule in 1916** under Tilak and Besant carried Extremist energy into a new constitutional form (full detail in Topic 12).
 
 ### Extremist crackdown — exile and imprisonment years
 
@@ -588,7 +621,6 @@ D. 1903 A.D.
 - He organised the Indian National Conference in **1883** and **1885**.
 - His book is ***A Nation in Making***.
 - He was called “Surrender Not” in the ICS-age agitation memory.
-- His book is ***A Nation in Making***.
 
 ### Pherozeshah Mehta
 

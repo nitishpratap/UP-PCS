@@ -4,18 +4,18 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Advent of Europeans | Arrival of European Companies | Portuguese in India | Dutch in India | English East India Company | French East India Company | Danish Settlements | European Trading Centres | Factories and Presidencies | British–French Rivalry | Anglo-French Conflict | Carnatic Wars | First Carnatic War | Second Carnatic War | Third Carnatic War | Portuguese Governors | Vasco da Gama | Battle of Wandiwash | Treaty of Paris (1763) | Important European Settlements in India
+Advent of Europeans | Arrival of European Companies | Portuguese in India | Dutch in India | English East India Company | French East India Company | Danish Settlements | European Trading Centres | Factories and Presidencies | British–French Rivalry | Anglo-French Conflict | Carnatic Wars | First Carnatic War | Second Carnatic War | Third Carnatic War | Portuguese Governors | Vasco da Gama | Battle of Wandiwash | Treaty of Paris (1763) | Important European Settlements in India | Capitanias | Cartaze | Blue Water Policy | Albuquerque policies | Battle of Swally | EIC charter ladder | Farman of 1717 | Anglo-Dutch rivalry | Mughal successor backdrop
 
 </details>
 
 > **Sources baked in:** NCERT *Themes in Indian History Part III*, Spectrum *A Brief History of Modern India*, UPPCS Prelims PYQs 2018–2025
 > **Weight:** ★★★ — settlement matching, Carnatic treaty pair, Anglo-French chronology, Hawkins/Roe/Fitch order
-> **Last verified:** August 2026
+> **Last verified:** September 2026 — audit filled Capitanias / Albuquerque policies / Swally CCR / EIC charter ladder / Farman 1717 / Anglo-Dutch card / Mughal-successor backdrop / coast cartography; Ghatnachakra Extra Drill still needs user dump
 > **Current Affairs:** N/A (purely historical; no 12–24 month scheme/appointment surface)
 
 ---
 
-## Consolidated — 30 Must-Score Facts
+## Consolidated — 32 Must-Score Facts
 
 1. Vasco da Gama reached **Calicut** on **20 May 1498**, guided by the Gujarati navigator **Ahmad ibn Majid**. He opened the all-sea Atlantic route for Portugal. He did **not** capture **Goa**.
 2. Black pepper profits from that voyage (often cited as about **sixty times**) pulled more Portuguese merchants to India.
@@ -47,6 +47,8 @@ Advent of Europeans | Arrival of European Companies | Portuguese in India | Dutc
 28. Traveller order: **Fitch** before the EIC factory phase, then **Hawkins (1608)**, then **Roe (1615–19)**. Keep that sequence tight. **Peter Mundy** was English under Shah Jahan — not Portuguese.
 29. Bengal power map: **Bandel/Hooghly** Portuguese, **Chinsurah** Dutch, **Chandernagore** French, **Serampore** Danish, **Calcutta** English.
 30. Carnatic Wars are **English vs French** in the 1740s–60s. Anglo–Mysore Wars are **English vs Hyder/Tipu** later — never merge the two series.
+31. Portuguese **capitanias** were coastal captaincies under fort captains. A **cartaze** was the sea-pass sold for Ocean traffic — do not swap the two.
+32. **Farrukhsiyar’s farman of 1717** gave the English Company major duty-free trade privileges in Bengal. It is **not** the **Diwani of 1765**.
 
 ---
 
@@ -71,6 +73,9 @@ Advent of Europeans | Arrival of European Companies | Portuguese in India | Dutc
 | Colachel 1741 | Bedara 1759 | Travancore vs Dutch (De Lannoy) vs English vs Dutch (Forde) | कोलाचेल / बेदारा |
 | Fort Geldria | Fort Gustavus | Dutch Pulicat fort vs Dutch Chinsurah fort | गेल्ड्रिया / गुस्तावस |
 | Lenoir / Dumas | Dupleix | Mid governors before Dupleix vs Carnatic proxy architect **1742–54** | लनोआ–डूमा / डूप्ले |
+| Capitanias | Cartaze | Portuguese coastal captaincies under fort captains vs Portuguese sea-pass | कैपिटानिया / कार्टाज़ |
+| Farman 1717 | Diwani 1765 | Farrukhsiyar trade privilege in Bengal vs revenue grant after Buxar | फ़रमान 1717 / दीवानी 1765 |
+| Swally 1612 | Surat factory 1613 | Thomas Best’s naval win vs first permanent English factory | स्वाली / सूरत |
 
 ---
 
@@ -92,6 +97,18 @@ Advent of Europeans | Arrival of European Companies | Portuguese in India | Dutc
 - After Paris **1763** France kept factories, not an empire.
 
 > **Logic:** Advent of Europeans ≠ British Raj. Factories came first; territorial empire came after Plassey.
+
+---
+
+## 1.0a Political backdrop — why companies could intervene
+
+**Brief opening only** | full Nawabi / Mysore / Maratha / Sikh cards belong with Company expansion
+
+- After **Aurangzeb died in 1707**, the Mughal imperial centre lost firm control over distant provinces.
+- **Successor states** rose under loose Mughal shadow: **Bengal, Awadh, Hyderabad**, the **Carnatic** Nawabs, **Mysore**, the **Marathas**, and later the **Sikhs**.
+- Provincial Nawabs and Deccan powers fought their own succession wars. European companies sold arms, trained troops, and backed rival claimants.
+- Coastal trade stayed rich even when the inland empire was weak. Factories needed only local leave or a farman, not a strong emperor at Delhi.
+- This opening condition explains why Anglo–French proxy politics worked in the Carnatic and why Company power later grew in Bengal. It does **not** mean Europeans already ruled India in **1600**.
 
 ---
 
@@ -171,6 +188,8 @@ Advent of Europeans | Arrival of European Companies | Portuguese in India | Dutc
 | **1961** | Goa liberated; Portuguese leave India |
 
 - A **cartaze** was a Portuguese sea-pass. Indian Ocean ships had to buy it. Refusal meant seizure of the ship.
+- Portuguese Asia was also divided into **capitanias** (captaincies). Each coastal fort and its trade belt sat under a **captain** answerable to the Estado at Goa.
+- Capitanias organised forts and customs. The **cartaze** taxed ships on the high seas. Papers often swap the two names — keep them apart.
 - **Hormuz** and **Malacca** were choke-points. The aim was control of sea lanes, not conquest of the Deccan interior.
 - At **Hooghly** the Portuguese traded textiles, saltpetre and slaves, and used the port as a **piracy base** in the Bay of Bengal until **1632**.
 - They never ruled Delhi or Agra. Late holdings were **Goa, Daman and Diu**. Portuguese were first to arrive and last to leave (**1961**).
@@ -227,7 +246,18 @@ These were **crown** officers at Goa, not directors of a joint-stock company.
 - **Afonso de Albuquerque** was Governor **1509–15**.
 - He captured **Goa in 1510** from **Yusuf Adil Shah** and made it the capital of Estado da Índia.
 - He also strengthened **Malacca (1511)** and **Hormuz (1515)**.
-- He encouraged mixed marriages to hold the forts with a settled population. He is called the **real founder** of Portuguese power in India.
+- He is called the **real founder** of Portuguese power in India.
+
+### Albuquerque’s main policies
+
+- He built a string of **fortified choke-points** so Portuguese ships could control spice and Red Sea–Persian Gulf traffic.
+- He kept a strong **navy** as the backbone of Estado power.
+- He encouraged Portuguese men to settle as **casados** and marry local women, so forts had a settled garrison population.
+- In Portuguese-held areas he moved against practices such as **sati** and pressed Catholic mission alongside trade.
+- He treated Arab and Ottoman sea rivals as enemies of the cartaze system. His method was fort + fleet + settled colony, not a Gangetic land empire.
+
+### Nuno da Cunha
+
 - **Nuno da Cunha** governed **1529–38**, after **Lopo Vaz de Sampaio**.
 - He secured **Bassein (1534)** and **Diu (1535)** from the Gujarat coast.
 - He also shifted the Portuguese headquarters from **Cochin to Goa**.
@@ -393,6 +423,14 @@ Unlike Portuguese spice monopoly politics, Dutch India trade fed the Spice Islan
 - **Colachel (1741)** ended Dutch Malabar push. **Bedara (1759)** ended Dutch Bengal politics.
 - During the Napoleonic age Britain occupied Dutch posts. By the **Anglo-Dutch Treaty of 1824**, the Dutch ceded remaining Indian factories (including Chinsurah and Negapatam) in return for British concessions in the Malay–Sumatra sphere.
 
+### Anglo–Dutch rivalry in India (short card)
+
+- Early English and Dutch companies were spice rivals. Bitterness peaked after the **Amboyna Massacre (1623)** in Indonesia, when Dutch authorities killed English factors.
+- Seventeenth-century **Anglo–Dutch wars** in Europe spilled into Asian trade. By the later 1600s a rough split took shape: English weight in India, Dutch weight in the Spice Islands — often tagged around **1667**, though Dutch factories in India continued.
+- On the ground in India the decisive blows were **Colachel (1741)** against Travancore and **Bedara / Chinsurah (1759)** against the English.
+- The **Anglo–Dutch Treaty of 1824** closed the story: Dutch Indian posts went to Britain; Britain adjusted claims in the Malay–Sumatra sphere.
+- Do not confuse Anglo–Dutch rivalry with the **Carnatic Wars**, which were **English vs French**.
+
 > **Logic:** First Dutch factory = **Masulipatnam 1605**. Coromandel HQ = **Pulicat** then **Nagapattinam**. Bengal fort = **Gustavus** at Chinsurah. **Colachel = Travancore vs Dutch**. **Bedara = English vs Dutch**. Kochi **Fort Williams** ≠ Calcutta **Fort William**.
 
 ### Chronology home for UPPCS 2022 battle-order stem
@@ -441,6 +479,23 @@ D. I, II, III, IV
 
 - Before the EIC sea charter, the **Levant Company** received a **1592** charter for **land-route** trade with India. Do not call Levant the first sea East India Company.
 - Company power stayed commercial through most of the 17th century. Political empire came later, after the Carnatic Wars and the Bengal conquests.
+
+### Company charter ladder (factory / monopoly years)
+
+These are **Company charter renewals**, not modern industrial Factory Acts.
+
+| Year | Tag |
+|------|-----|
+| **1600** | Original EIC charter under **Elizabeth I** |
+| **1609** | **James I** renews the monopoly |
+| **1657** | **Cromwell** renews and reorganises the Company |
+| **1661** | **Charles II** widens rights to fortify, make war and peace, and hold territory |
+| **1686** | **James II** renews with strong political powers |
+| **1698 / 1702–08** | Rival **New Company** appears; rivalry ends in amalgamation |
+| **1708** | **Godolphin’s Award** — Old and New companies unite as the **United Company of Merchants of England Trading to the East Indies** |
+
+- After **1708** there is one English East India Company for India trade and politics.
+- Charter years explain Company legal power. They do **not** by themselves mean territorial empire.
 
 ### English timeline in India
 
@@ -497,10 +552,40 @@ D. I, II, III, IV
 | **Dutch** | **1616** |
 | **French** | **1668** |
 
+### Battle of Swally (Suvali), 1612
+
+**English vs Portuguese** | near **Surat** | English captain **Thomas Best**
+
+#### Causes
+
+- The Portuguese still claimed a sea monopoly on the western coast and tried to keep English ships out of Surat’s trade.
+- The English East India Company needed a **permanent** west-coast factory. Temporary Masulipatnam (**1611**) was not enough for Gujarat trade.
+- A Portuguese squadron challenged Best’s ships at the **Swally (Suvali)** anchorage outside Surat.
+
+#### Course
+
+- In **1612** Best fought the Portuguese at sea near Swally.
+- English gunnery and seamanship won the action.
+- Mughal officers at Surat watched the fight. Portuguese prestige on that coast fell.
+
+#### Results
+
+- Jahangir’s officers allowed a **permanent English factory at Surat in 1613**.
+- Swally is the naval hinge between temporary Masulipatnam (**1611**) and permanent Surat (**1613**).
+- Do not date the permanent Surat factory as **1612** — that year is the battle, not the factory grant.
+
+### Farrukhsiyar’s farman, 1717
+
+- In **1717** Emperor **Farrukhsiyar** granted the English Company a major **farman** after the **Surman embassy**.
+- The Company gained wide **duty-free trade privileges in Bengal** for a fixed annual payment, plus rights linked to **dastaks** (duty-pass documents).
+- This farman made English Bengal trade far more privileged than ordinary merchants.
+- Later Nawabs fought **private misuse of dastaks** by Company servants. That quarrel feeds the Plassey story, but the **1717 farman is not the Diwani**.
+- **Diwani of Bengal, Bihar and Orissa** came only in **1765**, after Buxar.
+
 - **Trichinopoly** and **Chicacole** were **not** English factory centres in the first quarter of the 17th century.
 - Success factors often listed together: weak Indian nationalism in the modern sense, Western-trained Company armies with modern arms, and Indian soldiers who could be hired by whoever paid.
 
-> **Logic:** Hawkins arrived **1608**, not 1611. Roe is James I’s ambassador; Hawkins is an EIC captain. Permanent Surat = **1613**.
+> **Logic:** Hawkins arrived **1608**, not 1611. Roe is James I’s ambassador; Hawkins is an EIC captain. Permanent Surat = **1613**. Farman **1717** ≠ Diwani **1765**.
 
 **PYQ — UPPCS Prelims 2023, Q31**
 
@@ -519,6 +604,9 @@ D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
+
+
+**Logic:** Turkish skill is correct. Arrival is **1608**, not 1611; he was not James I’s ambassador (that is **Roe**)
 
 **Ans: B** — Turkish skill is correct. Arrival is **1608**, not 1611; he was not James I’s ambassador (that is **Roe**).
 
@@ -541,6 +629,9 @@ D. III, II, IV and I
 
 <details>
 <summary>Show answer</summary>
+
+
+**Logic:** Fitch (1580s) → Hawkins (1608) → Downton (1614) → Roe (1615)
 
 **Ans: A** — Fitch (1580s) → Hawkins (1608) → Downton (1614) → Roe (1615).
 
@@ -671,6 +762,15 @@ Minor player | papers ask **settlement identity**, not Danish politics
 
 **One match home** for settlement ↔ power. Centres clustered where **textiles, spices, saltpetre, and ship repair** met the sea.
 
+### Cartography of settlements (coast map)
+
+| Coast / belt | Power → main tags |
+|--------------|-------------------|
+| **Malabar / Konkan west** | **Calicut** (Gama landfall) · **Cochin** (first European fort **1503**; later Dutch **1663**) · **Goa / Daman / Diu** (Portuguese) · **Surat** (English **1613**, Dutch **1616**, French **1668**) · **Bombay** (English from **1668**) · **Mahe** (French) |
+| **Coromandel east** | **Pulicat** (Dutch HQ / Fort Geldria) · **Madras** (English / Fort St George) · **Pondicherry** (French HQ) · **Tranquebar** (Danish / Fort Dansborg) · **Nagapattinam** (Dutch HQ from **1690**) · **Sadras** (Dutch) · **Karaikal / Yanam** (French) |
+| **Bengal river belt** | **Bandel / Hooghly** (Portuguese till **1632**) · **Chinsurah** (Dutch / Fort Gustavus) · **Chandernagore** (French) · **Serampore** (Danish) · **Calcutta** (English / Job Charnock **1690**) |
+| **Bihar hinterland** | **Patna** belt — **saltpetre** and **opium** for European trade |
+
 | Belt | Why it mattered | Typical centres |
 |------|-----------------|-----------------|
 | Malabar / west | Early spice; Arabian Sea gateways | Calicut, Cochin, Goa, Surat, Bombay |
@@ -751,6 +851,9 @@ D. Delhi
 
 <details>
 <summary>Show answer</summary>
+
+
+**Logic:** Madras** (1687–88). (*Local `pyq/2021` file has garbled option codes; standard paper options restored.*)
 
 **Ans: B — Madras** (1687–88). (*Local `pyq/2021` file has garbled option codes; standard paper options restored.*)
 
@@ -873,6 +976,9 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+
+**Logic:** Both correct. Same statements as **UPPCS 2020 Q18** (options then A. 1 only / B. 2 only / C. Both / D. Neither)
+
 **Ans: C** — Both correct. Same statements as **UPPCS 2020 Q18** (options then A. 1 only / B. 2 only / C. Both / D. Neither).
 
 </details>
@@ -928,6 +1034,9 @@ D. 2, 1, 3, 4
 
 <details>
 <summary>Show answer</summary>
+
+
+**Logic:** Second Anglo-French / Carnatic II (c.1749–54) → First Anglo-Mysore (1767–69) → First Anglo-Afghan (1839–42) → First A…
 
 **Ans: A** — Second Anglo-French / Carnatic II (c.1749–54) → First Anglo-Mysore (1767–69) → First Anglo-Afghan (1839–42) → First Anglo-Sikh (1845–46).
 
@@ -1052,6 +1161,7 @@ Ended the **Seven Years’ War** globally and closed the **Third Carnatic War** 
 | John Child expelled by Aurangzeb | **1688** |
 | First Municipal Corporation — Madras | **1687–88** |
 | Job Charnock at Sutanuti / Calcutta | **1690** |
+| Farrukhsiyar’s farman (Bengal trade) | **1717** |
 
 ### Portuguese ladder
 
@@ -1063,6 +1173,7 @@ Ended the **Seven Years’ War** globally and closed the **Third Carnatic War** 
 | Almeida Viceroy / Blue Water | **1505** |
 | Albuquerque takes Goa | **1510** (Yusuf Adil Shah) |
 | Malacca / Hormuz | **1511 / 1515** |
+| Capitanias + cartaze system | Estado coastal / sea control |
 | Satgaon–Chatgaon leave | **1534** |
 | Hooghly crushed | **1632** |
 | Goa liberated / Portuguese exit | **1961** |
@@ -1095,6 +1206,9 @@ D. 2, 1, 3, 4
 <details>
 <summary>Show answer</summary>
 
+
+**Logic:** Second Anglo-French / Carnatic II (c.1749–54) → First Anglo-Mysore (1767–69) → First Anglo-Afghan (1839–42) → First A…
+
 **Ans: A** — Second Anglo-French / Carnatic II (c.1749–54) → First Anglo-Mysore (1767–69) → First Anglo-Afghan (1839–42) → First Anglo-Sikh (1845–46).
 
 </details>
@@ -1118,6 +1232,9 @@ D. Only 1
 
 <details>
 <summary>Show answer</summary>
+
+
+**Logic:** Both statements correct
 
 **Ans: C** — Both statements correct.
 
@@ -1143,6 +1260,9 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
+
+**Logic:** Turkish skill correct. Arrival year is **1608**, not 1611; James I’s ambassador is **Roe**
+
 **Ans: B** — Turkish skill correct. Arrival year is **1608**, not 1611; James I’s ambassador is **Roe**.
 
 </details>
@@ -1166,6 +1286,9 @@ D. I, II, III, IV
 
 <details>
 <summary>Show answer</summary>
+
+
+**Logic:** Shakarkheda (**1724**, Nizam vs Mubariz Khan) → Bedara (**1759**, English vs Dutch) → Porto Novo (**1781**, 2nd Mysor…
 
 **Ans: B** — Shakarkheda (**1724**, Nizam vs Mubariz Khan) → Bedara (**1759**, English vs Dutch) → Porto Novo (**1781**, 2nd Mysore) → Mudki (**1845**, 1st Sikh). Code **III, IV, II, I**.
 
@@ -1191,6 +1314,9 @@ D. III, II, IV and I
 <details>
 <summary>Show answer</summary>
 
+
+**Logic:** Fitch (1580s) → Hawkins (1608) → Downton (1614) → Roe (1615)
+
 **Ans: A** — Fitch (1580s) → Hawkins (1608) → Downton (1614) → Roe (1615).
 
 </details>
@@ -1209,6 +1335,9 @@ D. Delhi
 
 <details>
 <summary>Show answer</summary>
+
+
+**Logic:** Madras** (1687–88). (*`pyq/2021` option codes are garbled; standard paper options restored.*)
 
 **Ans: B — Madras** (1687–88). (*`pyq/2021` option codes are garbled; standard paper options restored.*)
 
@@ -1234,6 +1363,9 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
+
+**Logic:** Same content as 2025 Q67. (*`pyq/2020` extract omitted statement text; restored from the identical 2025 stem.*)
+
 **Ans: C** — Same content as 2025 Q67. (*`pyq/2020` extract omitted statement text; restored from the identical 2025 stem.*)
 
 </details>
@@ -1241,6 +1373,18 @@ D. Neither 1 nor 2
 ### Years with no mapped hit
 
 **2018, 2019, 2024** — no UPPCS Prelims GS-I question whose primary concept is Advent of Europeans / companies / Carnatic / settlements. (Goa/Pulicat hits in those years are geography.)
+
+---
+
+## Ghatnachakra Extra Drill
+
+> **Needs user dump.** No Advent-of-Europeans Ghatnachakra / multi-state bank is pasted in this workspace yet. When the chapter dump arrives, build full A–D Extra Drill MCQs here (UPPCS / UKPCS / other PCS tagged), placed immediately behind the UPPCS Complete PYQ Bank and before Practice. Do **not** invent a fake Extra bank.
+
+---
+
+## UKPCS Complete PYQ / stems
+
+> **Needs user dump.** No UKPCS-tagged Advent stems are filed here yet. After paste, harvest every Uttarakhand / UKPCS hit into Extra Drill **and** this bank before Practice.
 
 ---
 
@@ -1265,6 +1409,9 @@ D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
+
+
+**Logic:** Stmt 1 true. Stmt 2 false: VOC **1602**, French company **1664**
 
 **Ans: A** — Stmt 1 true. Stmt 2 false: VOC **1602**, French company **1664**.
 
@@ -1292,6 +1439,9 @@ D. 1, 2, 3 and 4
 <details>
 <summary>Show answer</summary>
 
+
+**Logic:** All four are standard settlement–power matches
+
 **Ans: D** — All four are standard settlement–power matches.
 
 </details>
@@ -1313,6 +1463,9 @@ D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
+
+
+**Logic:** Goa = **Albuquerque 1510**. Gama = Calicut 1498. Hooghly 1632 is correct
 
 **Ans: B** — Goa = **Albuquerque 1510**. Gama = Calicut 1498. Hooghly 1632 is correct.
 
@@ -1338,6 +1491,9 @@ D. 4, 2, 1, 3
 <details>
 <summary>Show answer</summary>
 
+
+**Logic:** 1498 → 1600 → 1602 → 1664. **D** puts French before Dutch
+
 **Ans: A** — 1498 → 1600 → 1602 → 1664. **D** puts French before Dutch.
 
 </details>
@@ -1360,6 +1516,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
+
+
+**A/R logic:** A true. R false: Aix-la-Chapelle is **1748**; after Wandiwash came **Paris 1763**, and France retained commercial foo…
 
 **Ans: C** — A true. R false: Aix-la-Chapelle is **1748**; after Wandiwash came **Paris 1763**, and France retained commercial footholds.
 
@@ -1386,6 +1545,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+
+**Logic:** Chinsurah = **Dutch**; Chandernagore = **French**; Serampore = Danish (3 is correct)
+
 **Ans: A** — Chinsurah = **Dutch**; Chandernagore = **French**; Serampore = Danish (3 is correct).
 
 </details>
@@ -1407,6 +1569,9 @@ D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
+
+
+**Logic:** Stmt 2 describes **Sir Thomas Roe**, not Hawkins
 
 **Ans: A** — Stmt 2 describes **Sir Thomas Roe**, not Hawkins.
 
@@ -1439,6 +1604,9 @@ D. 4 3 2 1
 <details>
 <summary>Show answer</summary>
 
+
+**Logic:** Pulicat-Dutch, Pondicherry-French, Tranquebar-Danish, Goa-Portuguese. **B** swaps Pulicat/Pondicherry
+
 **Ans: A** — Pulicat-Dutch, Pondicherry-French, Tranquebar-Danish, Goa-Portuguese. **B** swaps Pulicat/Pondicherry.
 
 </details>
@@ -1464,6 +1632,9 @@ D. None
 <details>
 <summary>Show answer</summary>
 
+
+**Logic:** Only stmt 2. Cartaze = Portuguese ocean pass (not farman). Blue Water = **sea-lane** control
+
 **Ans: A** — Only stmt 2. Cartaze = Portuguese ocean pass (not farman). Blue Water = **sea-lane** control.
 
 </details>
@@ -1486,6 +1657,9 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
+
+**Logic:** Stmt 2 true. Stmt 1 false: **Swally is 1612**; the first **permanent** Surat factory is **1613**. Masulipatnam **1611…
+
 **Ans: B** — Stmt 2 true. Stmt 1 false: **Swally is 1612**; the first **permanent** Surat factory is **1613**. Masulipatnam **1611** was temporary.
 
 </details>
@@ -1504,6 +1678,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
+
+
+**A/R logic:** A false (factory ≠ mill). R true and is the actual definition
 
 **Ans: B** — A false (factory ≠ mill). R true and is the actual definition.
 
@@ -1529,6 +1706,9 @@ D. 2, 3, 4, 1
 <details>
 <summary>Show answer</summary>
 
+
+**Logic:** Madras 1746 → Arcot 1751 → Wandiwash 1760 → Paris 1763. **C** puts Wandiwash before Arcot
+
 **Ans: A** — Madras 1746 → Arcot 1751 → Wandiwash 1760 → Paris 1763. **C** puts Wandiwash before Arcot.
 
 </details>
@@ -1550,6 +1730,9 @@ D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
+
+
+**Logic:** Ended by **Aix-la-Chapelle 1748**. Paris ends the **Third** War
 
 **Ans: A** — Ended by **Aix-la-Chapelle 1748**. Paris ends the **Third** War.
 
@@ -1573,6 +1756,9 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
+
+**Logic:** Colachel = **Travancore (Marthanda Varma) vs Dutch**
+
 **Ans: A** — Colachel = **Travancore (Marthanda Varma) vs Dutch**.
 
 </details>
@@ -1594,6 +1780,9 @@ D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
+
+
+**Logic:** Both are the two Danish facts worth raata
 
 **Ans: C** — Both are the two Danish facts worth raata.
 
@@ -1626,6 +1815,9 @@ D. 2 4 1 3
 <details>
 <summary>Show answer</summary>
 
+
+**Logic:** 1505, 1600, 1674, 1759. **C** swaps Pondicherry and Bedara years
+
 **Ans: A** — 1505, 1600, 1674, 1759. **C** swaps Pondicherry and Bedara years.
 
 </details>
@@ -1651,6 +1843,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+
+**Logic:** Wandiwash commander = **Lally**, not Dupleix
+
 **Ans: A** — Wandiwash commander = **Lally**, not Dupleix.
 
 </details>
@@ -1669,6 +1864,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
+
+
+**A/R logic:** R explains why the navy decided the contest
 
 **Ans: D** — R explains why the navy decided the contest.
 
@@ -1691,6 +1889,9 @@ D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
+
+
+**Logic:** Fort St George = **Madras**; Fort William = Calcutta
 
 **Ans: A** — Fort St George = **Madras**; Fort William = Calcutta.
 
@@ -1718,6 +1919,9 @@ D. Only 2 and 3
 <details>
 <summary>Show answer</summary>
 
+
+**Logic:** Arcot 1751 = **Clive**. Coote = Wandiwash 1760. Other three pairs are correct
+
 **Ans: A** — Arcot 1751 = **Clive**. Coote = Wandiwash 1760. Other three pairs are correct.
 
 </details>
@@ -1739,6 +1943,9 @@ D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
+
+
+**Logic:** Both are the standard Gama facts
 
 **Ans: C** — Both are the standard Gama facts.
 
@@ -1765,6 +1972,9 @@ D. None
 <details>
 <summary>Show answer</summary>
 
+
+**Logic:** Only stmt 3. Clients are reversed: Chanda Sahib = **French**; Muhammad Ali = **English**
+
 **Ans: A** — Only stmt 3. Clients are reversed: Chanda Sahib = **French**; Muhammad Ali = **English**.
 
 </details>
@@ -1786,6 +1996,9 @@ D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
+
+
+**Logic:** Madras restoration = **Aix-la-Chapelle 1748**
 
 **Ans: A** — Madras restoration = **Aix-la-Chapelle 1748**.
 
@@ -1810,6 +2023,9 @@ D. 1, 3, 2
 <details>
 <summary>Show answer</summary>
 
+
+**Logic:** Fitch (1580s) → Hawkins (1608) → Roe (1615). Downton (**1614**) sits between Hawkins and Roe when all four are asked
+
 **Ans: A** — Fitch (1580s) → Hawkins (1608) → Roe (1615). Downton (**1614**) sits between Hawkins and Roe when all four are asked.
 
 </details>
@@ -1826,6 +2042,9 @@ D. First Municipal Corporation in India — Delhi, 1911
 
 <details>
 <summary>Show answer</summary>
+
+
+**Logic:** Madras **1687–88**. Calcutta / Bombay / Delhi are the usual wrong cities
 
 **Ans: B** — Madras **1687–88**. Calcutta / Bombay / Delhi are the usual wrong cities.
 
@@ -1848,6 +2067,9 @@ D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
+
+
+**Logic:** French **siege of Madras failed**. Capture of Madras in **1746** belongs to the First War and was reversed in 1748
 
 **Ans: A** — French **siege of Madras failed**. Capture of Madras in **1746** belongs to the First War and was reversed in 1748.
 
@@ -1875,6 +2097,9 @@ D. 1, 2, 3 and 4
 <details>
 <summary>Show answer</summary>
 
+
+**Logic:** Mahe = **French** (Malabar), not Dutch
+
 **Ans: A** — Mahe = **French** (Malabar), not Dutch.
 
 </details>
@@ -1897,6 +2122,9 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
+
+**Logic:** Both are decline facts
+
 **Ans: C** — Both are decline facts.
 
 </details>
@@ -1917,7 +2145,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <summary>Show answer</summary>
 
 
-**Logic:** A tests the alternate name. R tests whether the Second War was Europe-driven like the First.
+**A/R logic:** A tests the alternate name. R tests whether the Second War was Europe-driven like the First.
 
 **Ans: C** — A true. R false: the Second War was driven by **local succession** in the Carnatic and Hyderabad, not by one European peace crisis.
 
@@ -1941,6 +2169,9 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
+
+**Logic:** Coromandel = **piece-goods / cotton textiles**. Pepper is the Malabar/spice story
+
 **Ans: A** — Coromandel = **piece-goods / cotton textiles**. Pepper is the Malabar/spice story.
 
 </details>
@@ -1962,6 +2193,9 @@ D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
+
+
+**Logic:** First Viceroy = **Almeida 1505**
 
 **Ans: B** — First Viceroy = **Almeida 1505**.
 
@@ -1994,6 +2228,9 @@ D. 2 3 1 4
 <details>
 <summary>Show answer</summary>
 
+
+**Logic:** 1748 / 1754 / 1763 / 1759. **B** swaps Second and Third end markers
+
 **Ans: A** — 1748 / 1754 / 1763 / 1759. **B** swaps Second and Third end markers.
 
 </details>
@@ -2019,6 +2256,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+
+**Logic:** Both faced **Jahangir**, not Akbar
+
 **Ans: A** — Both faced **Jahangir**, not Akbar.
 
 </details>
@@ -2040,6 +2280,9 @@ D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
+
+
+**Logic:** Chandernagore = **French**; Dutch Bengal = **Chinsurah**
 
 **Ans: A** — Chandernagore = **French**; Dutch Bengal = **Chinsurah**.
 
@@ -2063,6 +2306,9 @@ D. Only 1
 
 <details>
 <summary>Show answer</summary>
+
+
+**Logic:** Adyar/St Thome = French-trained force vs **Nawabi army** (Anwaruddin), First Carnatic War — not Hyder Ali (Anglo-Mysore)
 
 **Ans: A** — Adyar/St Thome = French-trained force vs **Nawabi army** (Anwaruddin), First Carnatic War — not Hyder Ali (Anglo-Mysore).
 
@@ -2089,6 +2335,9 @@ D. None
 <details>
 <summary>Show answer</summary>
 
+
+**Logic:** Stmts 2 and 3. Stmt 1 is the classic “advent = Raj” trap
+
 **Ans: B** — Stmts 2 and 3. Stmt 1 is the classic “advent = Raj” trap.
 
 </details>
@@ -2110,6 +2359,9 @@ D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
+
+
+**Logic:** Stmt 2 is **Plassey 1757**. Wandiwash = **Coote vs Lally**
 
 **Ans: A** — Stmt 2 is **Plassey 1757**. Wandiwash = **Coote vs Lally**.
 
@@ -2134,6 +2386,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+
+**Logic:** Stmt 3 reverses the facts: **English** gained Bengal resources after Plassey; France did not
+
 **Ans: A** — Stmt 3 reverses the facts: **English** gained Bengal resources after Plassey; France did not.
 
 </details>
@@ -2155,6 +2410,9 @@ D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
+
+
+**Logic:** Early centres worked under **local / Mughal** authority
 
 **Ans: A** — Early centres worked under **local / Mughal** authority.
 
@@ -2411,3 +2669,7 @@ D. British
 23. **Colachel = English vs Dutch / Bedara = Travancore vs Dutch** → Colachel = **Travancore vs Dutch (1741)**; Bedara = **English vs Dutch (1759)**.
 24. **Fort Gustavus = Pulicat / Fort Geldria = Chinsurah** → **Geldria = Pulicat**; **Gustavus = Chinsurah**.
 25. **Dutch left India in 1667 forever** → coaching “sphere split” with Indonesia; factories continued till **Bedara** politics ended and **1824** treaty ceded posts.
+26. **Farman 1717 = Diwani** → Farrukhsiyar trade privilege ≠ revenue Diwani of **1765**.
+27. **Capitanias = cartaze** → capitanias = coastal captaincies; cartaze = sea-pass.
+28. **Swally = permanent Surat factory year** → battle **1612**; permanent factory **1613**.
+29. **Company charter ladder = industrial Factory Acts** → these are EIC monopoly renewals (**1600–1708**), not labour Factory Acts.

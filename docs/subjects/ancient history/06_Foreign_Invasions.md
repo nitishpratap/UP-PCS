@@ -111,7 +111,7 @@ Greek Invasion | Alexander's Invasion | Persons Accompanying Alexander | Foreign
 - **Megasthenes** did **not** march with Alexander. He comes after the Seleucus treaty.
 - *Milinda Panha* also sits in Topics 4 and 8. Monk = **Nagasena**, not Nagarjuna.
 
-> ** note:** Full campaign teaching stays in the Alexander cards below.
+> **Logic:** Full campaign teaching stays in the Alexander cards below.
 
 ---
 
@@ -140,7 +140,7 @@ Greek Invasion | Alexander's Invasion | Persons Accompanying Alexander | Foreign
 - The 323 vacuum is filled by **Chandragupta**.
 - Later Bactrian Greeks in India are the **Indo-Greeks**.
 
-> ** note:** The first imperial foreigners in the NW are the **Persians**. The 2023 “Greeks” still means the Hellenistic wave, not Darius.
+> **Logic:** The first imperial foreigners in the NW are the **Persians**. The 2023 “Greeks” still means the Hellenistic wave, not Darius.
 
 ---
 
@@ -161,7 +161,7 @@ Alexander’s Indian march lasts about **19 months**. The fight year to remember
 
 ### Hydaspes and after
 
-- The Battle of the **Hydaspes** is fought on the **Jhelum** against **Porus**. Full Cause → Course → Result sits in §6.2a.
+- The Battle of the **Hydaspes** is fought on the **Jhelum** against **Porus**. The full Cause → Course → Result card for that fight sits below in this chapter.
 - He then crosses the Acesines (Chenab) and the Hydraotes (Ravi).
 - He storms **Sangala** of the **Kathaioi**. This is not Menander’s Sagala.
 - **Phegeus** warns him of Nanda numbers.
@@ -191,7 +191,7 @@ Alexander’s Indian march lasts about **19 months**. The fight year to remember
 - Sources are Arrian’s *Anabasis* and *Indica*, from Ptolemy and Aristobulus. Also used are Plutarch, Diodorus, Curtius, and Justin.
 - There is no Indian royal inscription of the march.
 
-> ** note:** Hydaspes is the **fight**. Hyphasis is the **stop**. Sangala is not Sagala. The Ganga is a trap.
+> **Logic:** Hydaspes is the **fight**. Hyphasis is the **stop**. Sangala is not Sagala. The Ganga is a trap.
 
 ---
 
@@ -267,7 +267,7 @@ Alexander’s Indian march lasts about **19 months**. The fight year to remember
 
 - The **Diadochi** come after 323. They are not “companions in Punjab.” Named Diadochi are Perdiccas, Ptolemy, Seleucus, Antigonus, Lysimachus, and Cassander. Partitions are dated at Babylon 323 and Triparadisus 321.
 
-> ** note:** Aristotle, Megasthenes, and Chanakya are **not** on the Indian march. Kalanos is not Dandamis.
+> **Logic:** Aristotle, Megasthenes, and Chanakya are **not** on the Indian march. Kalanos is not Dandamis.
 
 ---
 
@@ -278,10 +278,10 @@ Alexander’s Indian march lasts about **19 months**. The fight year to remember
 - The **Achaemenid Persians** open the imperial sequence in the 6th–4th centuries BCE. **Darius I** holds Gandhara and Hindush as the 20th satrapy.
 - The **Macedonian Greeks** under **Alexander** enter in **326 BCE**. Their Indian stay is a **Punjab–Sindh** campaign, not a Ganga empire.
 - The **Seleucid probe** of **Seleucus Nicator** about **305–303 BCE** ends in treaty with **Chandragupta Maurya**. Magadha stays Indian.
-- The **Indo-Greeks** (Bactrian Greeks) push into India from about the **2nd century BCE**. **Demetrius** and **Menander** are the headline kings. Full card in **6.6**.
-- The **Shakas** (Indo-Scythians) follow the Indo-Greeks from about the **1st century BCE**. **Maues** is the first name in India. **Rudradaman** is the Junagadh fact. Full card in **6.7**.
-- The **Parthians** (Pahlavas) hold a **brief** NW belt in the **1st century CE** between the western Shakas and the rising Kushans. **Gondophares** is the name. Full card in **6.8**.
-- The **Kushans** (a Yuezhi clan) build the biggest post-Mauryan foreign empire in the **1st–3rd centuries CE**. **Kanishka** is the greatest ruler. Full cards in **6.9–6.10**.
+- The **Indo-Greeks** (Bactrian Greeks) push into India from about the **2nd century BCE**. **Demetrius** and **Menander** are the headline kings.
+- The **Shakas** (Indo-Scythians) follow the Indo-Greeks from about the **1st century BCE**. **Maues** is the first strong name in India. **Rudradaman** is the Junagadh fact.
+- The **Parthians** (Pahlavas) hold a **brief** north-west belt in the **1st century CE** between the western Shakas and the rising Kushans. **Gondophares** is the name to remember.
+- The **Kushans** (a Yuezhi clan) build the biggest post-Mauryan foreign empire in the **1st–3rd centuries CE**. **Kanishka** is the greatest ruler.
 
 - The textbook memory order is **Greeks → Shakas → Parthians → Kushans**. Many match-list stems drop Parthians and test only **Greeks — Sakas — Kushans**.
 - **Vikrama Samvat 57 BCE** is the traditional era of Vikramaditya versus Shakas at Ujjain. It is **not** the Shaka era.
@@ -306,7 +306,7 @@ D. Sakas — Kushans — Greeks
 
 </details>
 
-> ** note:** In that trio, “Greeks” = the whole Hellenistic entry, not “only 326.”
+> **Logic:** In that trio, “Greeks” = the whole Hellenistic entry, not “only 326.”
 
 ---
 
@@ -323,7 +323,7 @@ D. Sakas — Kushans — Greeks
 - Later envoy **Deimachus** goes to Bindusara. Ptolemaic envoy **Dionysius** is also named in later lists.
 - Greek *Sandrokottos / Androcottus* is Chandragupta. Seleucus is murdered in **281 BCE**. The Indian provinces stay Mauryan.
 
-> ** note:** Seleucus **lost** the Indian borderlands. He did not sit at Pataliputra.
+> **Logic:** Seleucus **lost** the Indian borderlands. He did not sit at Pataliputra.
 
 ---
 
@@ -332,12 +332,22 @@ D. Sakas — Kushans — Greeks
 ## 6.5a Seleucus–Chandragupta War and Treaty (~305–303 BCE)
 
 **Cause:** After Alexander's death, Seleucus wanted the eastern satrapies. Chandragupta had taken the Nanda throne and pushed into the northwest.
+
 **Course:** Seleucus marched east but could **not** take Magadha. Fighting ended in negotiation.
+
 **Result:** Seleucus **ceded Arachosia, Gedrosia, and Paropamisadae**. Chandragupta gave **500 elephants** and probably a marriage alliance (**Helena** tradition). Seleucus sent **Megasthenes** to Pataliputra.
 
 ## 6.6 Indo-Greek Kingdom
 
 **Bactrian Greeks in the Punjab–Gandhara | 2nd–1st c. BCE | many kings, few must-score names**
+
+### Indo-Greek entry into India — Cause, Course, Result
+
+**Cause:** Greco-Bactria broke free of the Seleucids and faced fragmenting NW politics after Alexander’s satrapies faded. Independent Bactrian kings pushed south and east for land and trade.
+
+**Course:** **Demetrius I** opens the big Indian push about **180 BCE**. Later lines hold Gandhara–Punjab; **Menander (Milinda)** peaks from **Sagala (Sialkot)** and enters Buddhist memory through the *Milinda Panha*.
+
+**Result:** Portrait die-struck coins, bilingual legends, and Hellenistic seeds for Gandhara art enter India. Indo-Greeks sit **after** Alexander’s lifetime and **before** Shakas and Kushans in the invader order.
 
 ### Framework — how the house opens
 
@@ -384,7 +394,7 @@ A. Nagarjun B. Nagbhatt C. Nagasena D. Kumaril Bhatt
 
 </details>
 
-> ** note:** Milinda = **Menander**. Nagasena ≠ Nagarjuna. Heliodorus’ pillar is **Besnagar**. Pushyamitra’s two ashwamedhas are recorded at **Ayodhya**, not Besnagar.
+> **Logic:** Milinda = **Menander**. Nagasena ≠ Nagarjuna. Heliodorus’ pillar is **Besnagar**. Pushyamitra’s two ashwamedhas are recorded at **Ayodhya**, not Besnagar.
 
 ---
 
@@ -392,8 +402,15 @@ A. Nagarjun B. Nagbhatt C. Nagasena D. Kumaril Bhatt
 
 **Indo-Scythians from Central Asia | after Indo-Greeks, before Kushans | title kshatrapa / mahakshatrapa**
 
-- The Indian name **Shaka** means the **Scythians**, Iranian nomadic tribes of the Central Asian steppes. They were pushed west and south when Chinese walls blocked their eastern path and pressure built on Bactria and Parthia.
-- They enter northwest India from about the **1st century BCE**, after the Indo-Greek wave. In chronology they sit **after Greeks** and **before Kushans**.
+### Shaka entry into India — Cause, Course, Result
+
+**Cause:** Scythian / Shaka tribes were pushed west and south when Chinese pressure and steppe wars closed their eastern path. Bactria and the Indo-Greek northwest were already fragmenting.
+
+**Course:** From about the **1st century BCE**, Shaka horse-nomads enter **Gandhara** and the Indus belt. **Maues / Moga** plants the first strong Indo-Scythian power around **Taxila / Sirkap**. Later lines move into western India as **kshatrapas**.
+
+**Result:** Indo-Greek rule thins in the west. Chronology for the 2023 invader trio becomes **Greeks → Shakas → Kushans**. Trousers, coats, and boots enter north Indian royal portrait tradition.
+
+- The Indian name **Shaka** means the **Scythians**, Iranian nomadic tribes of the Central Asian steppes.
 - The Persian administrative word **kshatrapa** (satrap) becomes their Indian title. A great western ruler takes **mahakshatrapa**.
 - Like later Kushans, Shaka horse-nomads keep **trousers**, coats, and boots in portrait tradition. That northern dress later shapes boot-clad **Surya** images.
 
@@ -414,18 +431,19 @@ A. Nagarjun B. Nagbhatt C. Nagasena D. Kumaril Bhatt
 - **Jayadaman** sits between Chashtana and the great grandson in standard genealogies.
 - **Rudradaman I** is Chashtana’s grandson and the greatest western Shaka. He rules about **130–150 CE** as **mahakshatrapa**.
 
-### Rudradaman and the Junagadh inscription
+### Rudradaman and the Junagadh inscription — Cause, Course, Result
 
-- The **Junagadh / Girnar rock inscription** of Rudradaman is the first long record in literary **Sanskrit** prose in India.
-- The inscription tells the story of the **Sudarshana lake** in Gujarat. **Pushyagupta**, a Vaishya governor, built it under **Chandragupta Maurya**. **Tushaspha**, a Yavana, adorned it under **Ashoka**. A storm burst the embankment. **Rudradaman repaired it without forced labour**. He did **not** claim he founded the lake.
-- Rudradaman boasts victories over a Satavahana **Satakarni** of the Deccan but spares his life because of family ties. He also humbled the **Yaudheyas** of southern Punjab.
-- His capital was **Ujjain**. His sway ran over Sindh, Kutch, Gujarat, Konkan, Malwa, and Kathiawar.
+**Cause:** Western Kshatrapa power needed a Sanskrit public boast after Satavahana pressure and lake failure on the Kathiawar coast. **Rudradaman I** (about **130–150 CE**) ruled as **mahakshatrapa** from **Ujjain**.
+
+**Course:** His **Junagadh / Girnar** rock inscription — the first long literary **Sanskrit** prose record in India — narrates the **Sudarshana lake** story: **Pushyagupta** built it under **Chandragupta Maurya**; **Tushaspha** adorned it under **Ashoka**; a storm burst the embankment; **Rudradaman repaired it without forced labour**. He also boasts victories over a Satavahana **Satakarni** and the **Yaudheyas**.
+
+**Result:** The inscription locks Rudradaman as the greatest western Shaka and proves Mauryan–Ashokan–Shaka continuity on one rock. He did **not** claim he founded the lake. Western kshatrapas later last until **Rudrasimha III** falls to **Chandragupta II**.
+
 - Kardamaka coinage is mainly **silver** and **potin**. Copper issues are rare.
-
-- Shaka rule in the far northwest fades as **Kushans** take Gandhara. Western kshatrapas last until **Rudrasimha III** is beaten by **Chandragupta II** in the 4th century CE.
+- Shaka rule in the far northwest fades as **Kushans** take Gandhara.
 - **Vikrama Samvat 57 BCE** belongs to the Vikramaditya legend at Ujjain. It must not be confused with **Shaka era 78 CE**, which belongs to the Kushan age.
 
-> ** note:** Maues is **Shaka**, not Parthian. Junagadh is **Rudradaman**, not Kharavela (Hathigumpha). Nahapana is beaten by **Gautamiputra**, not by Rudradaman.
+> **Logic:** Maues is **Shaka**, not Parthian. Junagadh is **Rudradaman**, not Kharavela (Hathigumpha). Nahapana is beaten by **Gautamiputra**, not by Rudradaman.
 
 ---
 
@@ -433,15 +451,21 @@ A. Nagarjun B. Nagbhatt C. Nagasena D. Kumaril Bhatt
 
 **Pahlavas | brief northwest bridge | between western Shakas and Kushan rise**
 
-- The **Parthians** are called **Pahlavas** in Indian sources. They enter the northwest after the Shakas and before the Kushans peak.
-- Their Indian hold is **short** compared with Shakas and Kushans. The zone is **Gandhara**, **Punjab**, and **Sind**.
-- The best-known king is **Gondophares**, who rules about **19–45 CE**. His coins and inscriptions appear in the Kabul–Taxila belt.
+### Parthian bridge in the northwest — Cause, Course, Result
+
+**Cause:** After Shaka settlement, Indo-Parthian / Pahlava houses filled remaining power gaps in Gandhara–Punjab before the Kushan climax.
+
+**Course:** Their Indian hold is **short**. The best-known king is **Gondophares** (about **19–45 CE**), remembered in the Kabul–Taxila belt and at **Takht-i-Bahi**.
+
+**Result:** Parthians sit as a brief bridge between western Shakas and rising Kushans. Do not swap Gondophares with **Maues** (Shaka) or **Kanishka** (Kushan).
+
+- The **Parthians** are called **Pahlavas** in Indian sources.
 - Earlier Indo-Parthian names such as **Vonones** appear in coin lists, but **Gondophares** is the must-score Indian fact.
 - The site fact for Parthian Buddhism in the NW is **Takht-i-Bahi** near Mardan in Pakistan. It is a famous monastic complex of the period.
 - Christian legend places **St Thomas** at Gondophares’ court. That is pious tradition, not a royal edict.
 - **Kujula Kadphises** of the Kushans displaces Parthian and remaining Greek power in the northwest. After him the Kushan empire grows.
 
-> ** note:** Gondophares is **Parthian / Pahlava**. He is not Maues (Shaka) and not Kanishka (Kushan). Takht-i-Bahi is the Parthian-period site fact.
+> **Logic:** Gondophares is **Parthian / Pahlava**. He is not Maues (Shaka) and not Kanishka (Kushan). Takht-i-Bahi is the Parthian-period site fact.
 
 ---
 
@@ -449,8 +473,16 @@ A. Nagarjun B. Nagbhatt C. Nagasena D. Kumaril Bhatt
 
 **Yuezhi clan from Central Asia | 1st–3rd c. CE | Silk Road empire | last of the 2023 trio**
 
-- The **Kushanas** were one clan of the **Yuezhi** (Tocharian) nomads of north Central Asia. Chinese pressure and Scythian movements pushed Yuezhi west into Bactria.
-- They first occupied **Bactria** and then crossed the **Hindu Kush** into **Gandhara** and the Punjab. They replaced Greeks, Shakas, and Parthians in the northwest.
+### Kushan rise in the northwest — Cause, Course, Result
+
+**Cause:** Chinese pressure and Scythian movements pushed **Yuezhi** clans west into Bactria; after Greeks, Shakas, and Parthians, a new Central Asian house filled the northwest vacuum.
+
+**Course:** The Kushanas first occupy **Bactria**, then cross the **Hindu Kush** into **Gandhara** and the Punjab. **Kujula Kadphises** unifies clans; **Vima Kadphises** widens gold coinage; **Kanishka** peaks the empire.
+
+**Result:** At height the line runs from the **Oxus** to the middle **Ganga**. Kushans are **last** in the invader trio Greeks → Sakas → Kushans.
+
+- The **Kushanas** were one clan of the **Yuezhi** (Tocharian) nomads of north Central Asia.
+- They replaced Greeks, Shakas, and Parthians in the northwest.
 - Their empire at its height ran from the **Oxus** to the middle **Ganga**, covering much of Afghanistan, Pakistan, and north India.
 
 ### Kings — full line (must name each)
@@ -458,7 +490,7 @@ A. Nagarjun B. Nagbhatt C. Nagasena D. Kumaril Bhatt
 - **Kujula Kadphises** is the founder who unifies Yuezhi clans and takes Gandhara–Punjab. His coinage is mainly **copper**.
 - **Vima Taktu / Vima Takto** sits in Rabatak genealogy between Kujula and Vima Kadphises in modern readings. Prelims still treat **Vima Kadphises** as the gold-coin headline after Kujula.
 - **Vima Kadphises** (Kadphises II) issues the first large **gold** coinage in India on a wide scale. His titles include **Shaonanoshao** (king of kings) and **Sarvalokeshvara**.
-- **Kanishka** is the greatest Kushan. His details sit in **6.10**.
+- **Kanishka** is the greatest Kushan. The full Kanishka card sits in the next section.
 - **Huvishka** continues the imperial gold series and Buddhist–Hindu eclectic coin types after Kanishka.
 - **Vasudeva I** is the last great name before the empire fragments. Later minor Kushans hold reduced NW pockets.
 
@@ -468,10 +500,10 @@ A. Nagarjun B. Nagbhatt C. Nagasena D. Kumaril Bhatt
 - Dynastic sanctuaries at **Mat** (near Mathura) and **Surkh Kotal** (Afghanistan) hold royal portrait statues.
 - Kushan coins are **gold dinaras** with legends in **Greek**, **Bactrian**, and **Kharoshthi**. Royal portraits are standard.
 - Kushan kings wear Central Asian riding dress: long **caftan / quilted coat**, **trousers**, belt, and heavy **boots**. This is the first Indian imperial house systematically shown in trousered dress.
-- Kushan patronage creates two great art schools side by side. **Gandhara** sculpture is Greco-Buddhist in the northwest. **Mathura** sculpture uses red sandstone and Indian types. Full compare in **6.11**.
+- Kushan patronage creates two great art schools side by side. **Gandhara** sculpture is Greco-Buddhist in the northwest. **Mathura** sculpture uses red sandstone and Indian types. The full Gandhara–Mathura compare sits in the art section below.
 - The Kushans are **last** in the 2023 invader trio: Greeks → Sakas → Kushans.
 
-> ** note:** Kushan gold is the headline under **Vima**, not Menander. Purushapura is Kushan; Sagala is Indo-Greek. Mathura’s big foreign layer is Kushan, not Alexander.
+> **Logic:** Kushan gold is the headline under **Vima**, not Menander. Purushapura is Kushan; Sagala is Indo-Greek. Mathura’s big foreign layer is Kushan, not Alexander.
 
 ---
 
@@ -522,7 +554,7 @@ D. Sakas — Kushans — Greeks
 
 </details>
 
-> ** note:** Shaka era **78 CE** is not Vikrama **57 BCE**. Kanishka is not Kharavela. Fourth council is Kanishka’s fact, not Ashoka’s.
+> **Logic:** Shaka era **78 CE** is not Vikrama **57 BCE**. Kanishka is not Kharavela. Fourth council is Kanishka’s fact, not Ashoka’s.
 
 ---
 
@@ -557,7 +589,7 @@ D. Sakas — Kushans — Greeks
 - Early dancing-Shiva reliefs belong mainly to the **Gupta and post-Gupta** temple world (and later caves), **not** to Alexander, Menander, or Kanishka’s Mat portrait.
 - Trap sentence: foreign-invasion art = Gandhara / Mathura / booted Surya / early Shiva linga. It is **not** Chola Nataraja.
 
-> ** note:** Trousers + boots = Kushan / Shaka royal look. Red sandstone Buddha = Mathura. Grey schist Buddha = Gandhara. Nataraja = Chola, not Kushan.
+> **Logic:** Trousers + boots = Kushan / Shaka royal look. Red sandstone Buddha = Mathura. Grey schist Buddha = Gandhara. Nataraja = Chola, not Kushan.
 
 ---
 

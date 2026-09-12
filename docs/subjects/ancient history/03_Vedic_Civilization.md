@@ -97,7 +97,7 @@ Vedic Period | Rigvedic Society | Later Vedic Society | Vedic Administration | R
 - The Samhitas, Brahmanas, Aranyakas, and Upanishads are **corpus** heads. They do not carry a single match-list author like Panini.
 - **Panini** is the usual Vyakarana name. Do not swap him with Yaska.
 
-> ** note:** *Ashtadhyayi* = **Panini**. *Nirukta* = **Yaska**.
+> **Logic:** *Ashtadhyayi* = **Panini**. *Nirukta* = **Yaska**.
 
 ---
 
@@ -108,7 +108,10 @@ Vedic Period | Rigvedic Society | Later Vedic Society | Vedic Administration | R
 
 - **Veda** means knowledge. The post-Harappan textual culture of the Indo-Aryans is called the **Vedic** age.
 - **Arya** in classical Sanskrit means a **noble** person. Older booklet keys sometimes call it a “superior race”; standard teaching treats Arya as a **cultural–linguistic** self-designation, not a modern racial science label.
-- Homeland theories differ: **Bal Gangadhar Tilak** argued the **Arctic / North Pole** in *The Arctic Home in the Vedas* (historians generally reject it); **Max Müller** stressed **Central Asia**; other writers place Aryans in South Russia, Tibet, the Danube, Kashmir, or “seven Indus states.” Treat these as **named theories**, not settled proof.
+- Homeland theories differ by named author, not by settled proof.
+- **Bal Gangadhar Tilak** argued the **Arctic / North Pole** in *The Arctic Home in the Vedas*; historians generally reject it.
+- **Max Müller** stressed **Central Asia**.
+- Other writers place Aryans in South Russia, Tibet, the Danube, Kashmir, or “seven Indus states.”
 - The **Early / Rigvedic** heartland is **Sapta Sindhu**, the north-west Punjab belt.
 - The seven rivers are **Sindhu** (Indus), **Vitasta** (Jhelum), **Asikni / Asakini** (Chenab), **Parushni** (Ravi), **Vipas / Vipasa** (Beas), **Sutudri / Shutudri** (Sutlej), and **Saraswati**.
 - Afghanistan rivers named in the Rigveda include **Kubha** (Kabul), **Krumu** (Kurram), **Gomati** (Gomal), and **Suvastu** (Swat).
@@ -127,7 +130,7 @@ Vedic Period | Rigvedic Society | Later Vedic Society | Vedic Administration | R
 - The Vedic age ends around **600 BCE**. Mahajanapadas, Buddhism, and Jainism follow.
 - There was **no** Vedic empire.
 
-> ** note:** Rigvedic = **northwest pastoral**. Later Vedic = **Gangetic agrarian**. Trap: “Vedic period = only UP.”
+> **Logic:** Rigvedic = **northwest pastoral**. Later Vedic = **Gangetic agrarian**. Trap: “Vedic period = only UP.”
 
 **PYQ — UPPCS Prelims 2020, Q21**
 
@@ -189,7 +192,7 @@ D. 4 3 1 2
 - There are no stone cities, no iron, and no coins.
 - Clothing terms include **vasa** (lower) and **adhivasa** (upper). Craft terms include **taksha** (carpenter), **karma** (metal-worker), **veknat** (moneylender), and **aritri** (boatman).
 
-> ** note:** Rigvedic society is **Pastoral**, not agrarian. Later Vedic = agrarian. **Yava** = **barley** (not millet).
+> **Logic:** Rigvedic society is **Pastoral**, not agrarian. Later Vedic = agrarian. **Yava** = **barley** (not millet).
 
 ---
 
@@ -223,7 +226,7 @@ D. 4 3 1 2
 - It then reaches the **Upanishads**, which put jnana over yajna.
 - Religious focus shifts: **Prajapati**, **Vishnu**, and **Rudra** rise; royal **Rajasuya / Ashvamedha / Vajapeya** advertise kingship.
 
-> ** note:** “Women equal throughout the Vedic age” is false. The decline is **Later Vedic**.
+> **Logic:** “Women equal throughout the Vedic age” is false. The decline is **Later Vedic**.
 
 ---
 
@@ -273,8 +276,6 @@ D. 4 3 1 2
 - In family vocabulary, **kula**, **vamsha**, and **gotra** belong together; **kosha** means **treasury**, not a kinship term.
 - The system is still clan-based. It is **not** Ashokan district officers.
 
-> **Logic:** **Bhagadugha** is the **tax collector**, not a messenger, forest officer, or gambling chief.
-
 **PYQ — UPPCS Prelims 2023, Q26**
 
 Which officer was known as **'Bhagadugha'** during Vedic administration?
@@ -287,7 +288,9 @@ D. Revenue Collector
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — collected the king’s **bhaga** (share). Gambling officer = **Akshavapa** (option C).
+**Logic:** Bhagadugha is the tax collector of the king’s share, not a messenger, forest officer, or gambling chief.
+
+**Ans: D.** He collected the king’s **bhaga** (share). The gambling officer is **Akshavapa** (option C).
 
 </details>
 
@@ -313,7 +316,7 @@ D. Revenue Collector
 - Pasture is tribal.
 - **Dakshina** is a gift to the priest after yajna. It is not a land-revenue department.
 
-> ** note:** Trap — “nishka was a gold coin of the Rigvedic age.”
+> **Logic:** Trap — “nishka was a gold coin of the Rigvedic age.”
 
 ---
 
@@ -330,7 +333,7 @@ D. Revenue Collector
 - Trade still uses barter and metal value-units more than coined money.
 - This agrarian base supports the **second urbanisation** and the rise of **sixteen mahajanapadas** from about the sixth century BCE.
 
-> ** note:** Match-list fact — Rigvedic = **Pastoral**; Later Vedic = **Agrarian**.
+> **Logic:** Match-list fact — Rigvedic = **Pastoral**; Later Vedic = **Agrarian**.
 
 ---
 
@@ -392,7 +395,7 @@ About **33** gods are grouped in three layers: **earth**, **air (antariksha)**, 
 - It then reaches the **Upanishads**, which put **jnana** (Brahman–Atman) over **yajna**.
 - Untouchability as a clear social system is usually dated to the later **Dharmashastra** phase, not Early Rigvedic society.
 
-> ** note:** Trap — “Vishnu is already the supreme Rigvedic god.” False. Trap — “Krishna Yajurveda = hymns to god Krishna.” False; **Krishna** here means **Black** Yajurveda.
+> **Logic:** Trap — “Vishnu is already the supreme Rigvedic god.” False. Trap — “Krishna Yajurveda = hymns to god Krishna.” False; **Krishna** here means **Black** Yajurveda.
 
 ---
 
@@ -419,7 +422,7 @@ About **33** gods are grouped in three layers: **earth**, **air (antariksha)**, 
 
 **Result:** Sudas **won**. The Bharata–Tritsu line became prominent in Rigvedic memory.
 
-> ** note:** Assemblies are strong in Rigvedic times. The **king is strong** in Later Vedic. **Sabha**, **Samiti**, and **Vidatha** are three distinct bodies.
+> **Logic:** Assemblies are strong in Rigvedic times. The **king is strong** in Later Vedic. **Sabha**, **Samiti**, and **Vidatha** are three distinct bodies.
 
 ---
 
@@ -437,7 +440,7 @@ About **33** gods are grouped in three layers: **earth**, **air (antariksha)**, 
 - The **Atharvaveda** calls **Sabha** and **Samiti** the **two daughters of Prajapati** and treats them as distinct institutions more clearly than the Rigveda.
 - It is **not** Lok Sabha, Rajya Sabha, or the 73rd-Amendment **Gram Sabha**.
 
-> ** note:** Sabha means **elders**. Samiti means the **people**.
+> **Logic:** Sabha means **elders**. Samiti means the **people**.
 
 ---
 
@@ -452,7 +455,7 @@ About **33** gods are grouped in three layers: **earth**, **air (antariksha)**, 
 - Women have little or no Samiti role. Early Sabha and Vidatha are more open.
 - Later Vedic hereditary succession **kills** its electoral job. The body fades.
 
-> ** note:** Trap — “Samiti = Rajya Sabha.” Zero link.
+> **Logic:** Trap — “Samiti = Rajya Sabha.” Zero link.
 
 ---
 
@@ -489,7 +492,7 @@ About **33** gods are grouped in three layers: **earth**, **air (antariksha)**, 
 - **Sayana** of fourteenth-century Vijayanagara commented on the Vedas. He is **medieval**, not Vedic-age.
 - An **Upadhyaya** teaches a portion of Veda / Vedanga for livelihood; an **Acharya** is a fuller teacher of the tradition.
 
-> ** note:** Vedas were **not** “published on paper” in 1500 BCE. Oral first.
+> **Logic:** Vedas were **not** “published on paper” in 1500 BCE. Oral first.
 
 ---
 
@@ -521,7 +524,7 @@ About **33** gods are grouped in three layers: **earth**, **air (antariksha)**, 
 - **Ayurveda** (science of life) is treated as an Upaveda / Upanga linked especially with the **Atharvaveda**.
 - The supervising priest of the Atharvan rite is often called **Brahman**.
 
-> ** note:** Shukla Yajurveda = **Vajasaneyi** (also printed Vajasanami). Taittiriya / Maitrayani / Kathak = **Krishna (Black)** Yajurveda — not hymns to god Krishna.
+> **Logic:** Shukla Yajurveda = **Vajasaneyi** (also printed Vajasanami). Taittiriya / Maitrayani / Kathak = **Krishna (Black)** Yajurveda — not hymns to god Krishna.
 
 **PYQ — UPPCS Prelims 2018, Q13**
 
@@ -566,7 +569,7 @@ D. Kathak
 - The language is Later Vedic Sanskrit **prose**.
 - They are the bridge toward Aranyakas.
 
-> ** note:** Brahmanas are **not** collections of hymns. Hymns sit in the Samhita.
+> **Logic:** Brahmanas are **not** collections of hymns. Hymns sit in the Samhita.
 
 ---
 
@@ -584,7 +587,7 @@ D. Kathak
 - The Atharvaveda is thin here.
 - The teaching is secretive. It is not the village public cult.
 
-> ** note:** An Aranyaka is not a Brahmana. Forest symbol is not public yajna prose.
+> **Logic:** An Aranyaka is not a Brahmana. Forest symbol is not public yajna prose.
 > An Aranyaka is not an Upanishad, though the Brihadaranyaka overlaps.
 
 ---
@@ -611,7 +614,7 @@ D. Kathak
 - The date-band is about **800–600 BCE**, in eastern courts.
 - Upanishads use **parables** (e.g. two-birds imagery) — they are not parable-free.
 
-> ** note:** Upanishads **question** big public yajna. They are **Shruti**. They are **not** a Vedanga.
+> **Logic:** Upanishads **question** big public yajna. They are **Shruti**. They are **not** a Vedanga.
 
 ---
 
@@ -640,7 +643,7 @@ D. Kathak
 
 Memory: **S-K-V-N-C-J**.
 
-> ** note:** Upanishad / Puranas / Itihasa are **not** Vedangas. Yaska ≠ Panini.
+> **Logic:** Upanishad / Puranas / Itihasa are **not** Vedangas. Yaska ≠ Panini.
 
 ---
 
@@ -656,7 +659,7 @@ Memory: **S-K-V-N-C-J**.
 - PGW layers show **iron** tools and weapons along with horse bones and ivory work. That is why PGW marks the **early Iron Age** in the north.
 - Stratigraphy usually runs **OCP → PGW → NBPW** in the doab. PGW is **not** the same as Harappan red ware or megalithic black-and-red ware of the south.
 
-> ** note:** PGW = **Later Vedic / doab**, not Sangam south. PGW comes **before** NBPW, not after.
+> **Logic:** PGW = **Later Vedic / doab**, not Sangam south. PGW comes **before** NBPW, not after.
 
 ---
 
@@ -677,7 +680,7 @@ Memory: **S-K-V-N-C-J**.
 | **South / Deccan** | Megaliths + black-and-red ware | Pre-Sangam bed |
 | **Chalcolithic overlap** | Limited copper before iron | Mehrgarh, Jorwe, OCP zones |
 
-> ** note:** “Iron in Rigveda” is a **trap** unless the question means Later Vedic shyama ayas. PGW iron is **north**; megalithic iron is mainly **peninsular**.
+> **Logic:** “Iron in Rigveda” is a **trap** unless the question means Later Vedic shyama ayas. PGW iron is **north**; megalithic iron is mainly **peninsular**.
 
 ---
 

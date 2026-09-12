@@ -110,7 +110,7 @@ Origin of Human Beings | Stone Age | Paleolithic Age | Mesolithic Age | Neolithi
 - Siwalik ape fossils such as ***Sivapithecus*** are **not** proof of *Homo* in India.
 - Siwalik ***Sivapithecus*** is an **ape** fossil. **Hathnora** is the *Homo erectus* skull.
 
-> ** note:** Hathnora is an ***erectus* fossil** found by **Sonakia in 1982**. Attirampakkam is **old tools** in the **Kortallayar valley, Tamil Nadu**. The trap is calling the Narmada find a modern human.
+> **Logic:** Hathnora is an ***erectus* fossil** found by **Sonakia in 1982**. Attirampakkam is **old tools** in the **Kortallayar valley, Tamil Nadu**. The trap is calling the Narmada find a modern human.
 
 ---
 
@@ -149,7 +149,7 @@ Origin of Human Beings | Stone Age | Paleolithic Age | Mesolithic Age | Neolithi
 - It does **not** end everywhere at once.
 - UPPCS typically asks you to match **period, feature, and site** together.
 
-> ** note:** Chalcolithic is **copper-stone**, not “Stone Age IV.” Kashmir Neolithic is not the same date or crop as Tamil Nadu Neolithic.
+> **Logic:** Chalcolithic is **copper-stone**, not “Stone Age IV.” Kashmir Neolithic is not the same date or crop as Tamil Nadu Neolithic.
 
 ---
 
@@ -186,7 +186,7 @@ Origin of Human Beings | Stone Age | Paleolithic Age | Mesolithic Age | Neolithi
 - Holocene warming around **10,000 BCE** opens the Mesolithic.
 - Occupation at **Bhimbetka** begins in the **Lower Paleolithic**.
 
-> ** note:** A **handaxe** is **Lower Paleolithic / Acheulian**. A **polished stone axe** is **Neolithic**. Soanian is not Acheulian.
+> **Logic:** A **handaxe** is **Lower Paleolithic / Acheulian**. A **polished stone axe** is **Neolithic**. Soanian is not Acheulian.
 
 ---
 
@@ -223,7 +223,7 @@ Origin of Human Beings | Stone Age | Paleolithic Age | Mesolithic Age | Neolithi
 - Fishing, antler tools, and shell ornaments rise in riverine camps.
 - The transition to the Neolithic is **gradual**.
 
-> ** note:** Mesolithic domestication fact = **Bagor** (and Adamgarh in older twin keys). **Odai, Bori, and Lakhnia** are distractors. **Bori** in Maharashtra is a claimed **Lower Paleolithic** site, not Mesolithic domestication. Triple burial = **Damdama**. Four-skeleton grave = **Sarai Nahar Rai**.
+> **Logic:** Mesolithic domestication fact = **Bagor** (and Adamgarh in older twin keys). **Odai, Bori, and Lakhnia** are distractors. **Bori** in Maharashtra is a claimed **Lower Paleolithic** site, not Mesolithic domestication. Triple burial = **Damdama**. Four-skeleton grave = **Sarai Nahar Rai**.
 
 **PYQ — UPPCS Prelims 2018, Q18**
 
@@ -267,12 +267,15 @@ D. Lakhnia
 - Settlements are **villages**, not cities.
 - **Gordon Childe** coined **“Neolithic Revolution”** for this food-production shift.
 - In West Asia, **barley** is often treated as the **first cultivated cereal** (around **8000 BCE**), with **wheat** close behind in the same Fertile Crescent belt.
-- In the **Indian subcontinent**, early farming keys split by stem: **Lahuradewa** (Sant Kabir Nagar) for early **rice** claims (~**9000–7000 BCE** in some reports); **Mehrgarh** for early **wheat–barley** settled life (~**7000 BCE**); Belan **rice bran** near Prayagraj around **6500 BCE** in older Belan claims.
+- In the **Indian subcontinent**, early farming keys split by stem.
+- **Lahuradewa** (Sant Kabir Nagar) carries early **rice** claims in some reports (~**9000–7000 BCE**).
+- **Mehrgarh** carries early **wheat–barley** settled life (~**7000 BCE**).
+- Belan **rice bran** near Prayagraj sits around **6500 BCE** in older Belan claims.
 - If **Lahuradewa** is an option for “earliest agriculture in the subcontinent,” booklet keys usually pick it. If it is absent, **Mehrgarh** is the usual key.
 - **Mehrgarh** also shows cultural remains from the **Stone Age into the Harappan** horizon.
 - South Indian **ash mounds** (burnt cattle-pen debris) occur at **Sanganakallu** (Ballari), **Piklihal**, and **Utnur**.
 
-> ** note:** A polished axe is **Neolithic**. The trap “all Neolithic sites grew rice” is false. Rice is **regional** (UP Belan and Lahuradewa). It is not Mehrgarh’s first crop.
+> **Logic:** A polished axe is **Neolithic**. The trap “all Neolithic sites grew rice” is false. Rice is **regional** (UP Belan and Lahuradewa). It is not Mehrgarh’s first crop.
 
 ---
 
@@ -326,7 +329,7 @@ D. Lakhnia
 - OCP is **doab Chalcolithic**, not a Harappan city culture.
 - Copper Hoard objects are also asked with IVC. The fact here is **doab plus copper artefacts**.
 
-> ** note:** **Inamgaon** is **Jorwe in Maharashtra**. **Navdatoli** is **Narmada / Malwa**, not Rajasthan. OCP is not Harappan urban ware. Ahar knew **rice** and was **Harappa-contemporary**.
+> **Logic:** **Inamgaon** is **Jorwe in Maharashtra**. **Navdatoli** is **Narmada / Malwa**, not Rajasthan. OCP is not Harappan urban ware. Ahar knew **rice** and was **Harappa-contemporary**.
 
 ---
 
@@ -388,7 +391,7 @@ D. Lakhnia
 - **Renigunta** in Andhra Pradesh has Upper Paleolithic blades.
 - **Bori** in Maharashtra is a claimed early Paleolithic site. It was the **wrong option** in 2018 (domestication = Bagor).
 
-> ** note:** Attirampakkam is in **Tamil Nadu**, not Karnataka. **Baghor is not Bagor**. The Belan Valley is in **Uttar Pradesh**.
+> **Logic:** Attirampakkam is in **Tamil Nadu**, not Karnataka. **Baghor is not Bagor**. The Belan Valley is in **Uttar Pradesh**.
 
 ---
 
@@ -411,7 +414,7 @@ D. Lakhnia
 - **Birbhanpur** in West Bengal has microliths.
 - **Teri sites** on the Tamil Nadu coast are coastal Mesolithic camps on red sand dunes.
 
-> ** note:** Bagor is **domestication**. Sarai Nahar Rai is **burials**. Morhana Pahar is in **Sonbhadra**, not Mirzapur.
+> **Logic:** Bagor is **domestication**. Sarai Nahar Rai is **burials**. Morhana Pahar is in **Sonbhadra**, not Mirzapur.
 
 ---
 
@@ -444,7 +447,7 @@ D. Lakhnia
 - **Kuchai** in Odisha is Neolithic.
 - **Golbai Sasan** in Odisha is Neolithic–Chalcolithic.
 
-> ** note:** Ash mounds are **South Indian**, not a Chirand feature. Lahuradewa is **Sant Kabir Nagar**, not Belan. Daojali Hading is in **Assam**, not Uttar Pradesh.
+> **Logic:** Ash mounds are **South Indian**, not a Chirand feature. Lahuradewa is **Sant Kabir Nagar**, not Belan. Daojali Hading is in **Assam**, not Uttar Pradesh.
 
 ---
 
@@ -475,7 +478,7 @@ D. Lakhnia
 - **Ganeshwar** in Rajasthan is a copper-working site.
 - **Jodhpura** in Rajasthan is a copper-working site paired with Ganeshwar.
 
-> ** note:** Inamgaon is in **Maharashtra**, not Rajasthan. Daimabad is **not** a pure mature Harappan city. Gungeria is a Copper Hoard site in **Madhya Pradesh**.
+> **Logic:** Inamgaon is in **Maharashtra**, not Rajasthan. Daimabad is **not** a pure mature Harappan city. Gungeria is a Copper Hoard site in **Madhya Pradesh**.
 
 ---
 
@@ -506,7 +509,7 @@ D. Lakhnia
 - **Lekhahia** in Mirzapur, Uttar Pradesh, has rock art.
 - The premier painted cluster in India is **Bhimbetka** in Raisen, Madhya Pradesh.
 
-> ** note:** “All cave paintings are Paleolithic” is false. Lakhudiyar is in **Uttarakhand**, not at Bhimbetka. Red animals and white humans is a **Bhimbetka heuristic**, not a law for every site.
+> **Logic:** “All cave paintings are Paleolithic” is false. Lakhudiyar is in **Uttarakhand**, not at Bhimbetka. Red animals and white humans is a **Bhimbetka heuristic**, not a law for every site.
 
 ---
 
@@ -523,7 +526,7 @@ D. Lakhnia
 - **Auditorium Cave** at Bhimbetka is a large natural chamber, not a built hall.
 - Some shelters later became Hindu or Buddhist shrines, so use is **multi-period**.
 
-> ** note:** Bhimbetka = **natural rock shelters** in the **Vindhyan** hills (Raisen, MP). Ajanta = later **carved** Buddhist caves.
+> **Logic:** Bhimbetka = **natural rock shelters** in the **Vindhyan** hills (Raisen, MP). Ajanta = later **carved** Buddhist caves.
 
 ---
 
@@ -545,7 +548,7 @@ D. Lakhnia
 - **V.N. Mishra** did later research at Bhimbetka. He was not the first visitor.
 - **Madho Swaroop Vats** is a **Harappan** archaeologist and the 2020 distractor.
 
-> ** note:** Bhimbetka was excavated by **Wakankar** (1957–58). Vatsa is the Harappan trap.
+> **Logic:** Bhimbetka was excavated by **Wakankar** (1957–58). Vatsa is the Harappan trap.
 
 **PYQ — UPPCS Prelims 2020, Q10**
 
@@ -579,7 +582,7 @@ D. V.N. Mishra
 - **Geometric** forms (lunates, triangles, trapezes) belong to later Mesolithic.
 - Dense clusters occur at Bagor, Langhnaj, Bhimbetka, and Sarai Nahar Rai.
 
-> ** note:** A microlith is not a Paleolithic handaxe. A microlith is not copper-plus-stone. Copper-plus-stone is Chalcolithic.
+> **Logic:** A microlith is not a Paleolithic handaxe. A microlith is not copper-plus-stone. Copper-plus-stone is Chalcolithic.
 
 ---
 
@@ -600,7 +603,7 @@ D. V.N. Mishra
 - This is not the Industrial Revolution.
 - It is not a single pan-India year.
 
-> ** note:** Childe is not Wheeler or Marshall. Those two are Harappan excavators. “Revolution everywhere in India at once” is false.
+> **Logic:** Childe is not Wheeler or Marshall. Those two are Harappan excavators. “Revolution everywhere in India at once” is false.
 
 ---
 
@@ -627,7 +630,7 @@ D. V.N. Mishra
 - The period is roughly **3000–1000 BCE**, later than Mehrgarh.
 - Period III has **megalithic menhirs**.
 
-> ** note:** Burzahom means **Kashmir pits** and **dog burial**. It is not in Uttar Pradesh and not a Chirand-style Ganga settlement. Gufkral is not a Paleolithic painted cave in the Bhimbetka sense.
+> **Logic:** Burzahom means **Kashmir pits** and **dog burial**. It is not in Uttar Pradesh and not a Chirand-style Ganga settlement. Gufkral is not a Paleolithic painted cave in the Bhimbetka sense.
 
 ---
 
@@ -648,7 +651,7 @@ D. V.N. Mishra
 - Mehrgarh is a **pre-Harappan** precursor. Cultural remains run from the **Stone Age into the Harappan** horizon. It is **not** a mature Harappan city.
 - Drilled teeth in early levels are an early dentistry claim. That is extra, not the core fact.
 
-> ** note:** The location is **Pakistan / Balochistan**, still “subcontinent” language. Traps: “Mehrgarh is in India,” “Mehrgarh is Harappa,” and “aceramic means no farming.” Aceramic means no **pottery**.
+> **Logic:** The location is **Pakistan / Balochistan**, still “subcontinent” language. Traps: “Mehrgarh is in India,” “Mehrgarh is Harappa,” and “aceramic means no farming.” Aceramic means no **pottery**.
 
 ---
 
@@ -666,7 +669,7 @@ D. V.N. Mishra
 - There are **no** pit dwellings of the Burzahom type.
 - There are **no** ash mounds of the South Indian type.
 
-> ** note:** Chirand is in **Bihar**, not Uttar Pradesh. A bone industry is not iron smelting. Wheat at Chirand does **not** make it Mehrgarh.
+> **Logic:** Chirand is in **Bihar**, not Uttar Pradesh. A bone industry is not iron smelting. Wheat at Chirand does **not** make it Mehrgarh.
 
 ---
 
@@ -685,7 +688,7 @@ D. V.N. Mishra
 - **Lahuradewa** in Sant Kabir Nagar is a **separate** eastern-UP rice site at a lake edge.
 - **Lahuradewa** is in **Sant Kabir Nagar**. The Belan pair is **Koldihwa–Mahagara** near Prayagraj.
 
-> ** note:** Koldihwa is **Belan UP plus rice**. Mehrgarh did **not** start as a rice centre. Lahuradewa is not Koldihwa.
+> **Logic:** Koldihwa is **Belan UP plus rice**. Mehrgarh did **not** start as a rice centre. Lahuradewa is not Koldihwa.
 
 ---
 
@@ -701,7 +704,7 @@ D. V.N. Mishra
 - Bones of cattle and deer show mixed hunting plus farming.
 - Do **not** relocate Mahagara to Bihar or Kashmir.
 
-> ** note:** Mahagara and Koldihwa are **one UP rice pair**. The cattle pen is **Mahagara**, not Burzahom pits. Chopani Mando is the **Mesolithic** neighbour, not a Harappan port.
+> **Logic:** Mahagara and Koldihwa are **one UP rice pair**. The cattle pen is **Mahagara**, not Burzahom pits. Chopani Mando is the **Mesolithic** neighbour, not a Harappan port.
 
 ---
 

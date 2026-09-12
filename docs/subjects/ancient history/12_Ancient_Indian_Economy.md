@@ -93,10 +93,10 @@ Each age has a different economy label. Hold the match spine first, then the per
 
 ### Match spine
 
-- IVC = **Urban**
-- Rigvedic = **Pastoral**
-- Later Vedic = **Agrarian**
-- Medieval slot in the 2020 paper = landlordism
+- The Indus Valley economy is keyed as **urban**.
+- The Rigvedic economy is keyed as **pastoral**.
+- The Later Vedic economy is keyed as **agrarian**.
+- The medieval slot in the 2020 match list is **landlordism**.
 
 ### Period by period
 
@@ -124,7 +124,7 @@ A. 4 2 3 1 B. 2 1 4 3 C. 3 4 1 2 D. 4 3 1 2
 
 </details>
 
-> ** note:** First Indian coins are **punch-marked silver**. Gupta gold comes later.
+> **Logic:** First Indian coins are **punch-marked silver**. Gupta gold comes later.
 
 ---
 
@@ -139,7 +139,7 @@ A. 4 2 3 1 B. 2 1 4 3 C. 3 4 1 2 D. 4 3 1 2
 - The Western Kshatrapas strike silver. **Chandragupta II** later copies that silver habit.
 - Coins name kings and gods. **Inscriptions** remain the main administrative record.
 
-> ** note:** First coins ≠ gold. First coins ≠ IVC.
+> **Logic:** First coins ≠ gold. First coins ≠ IVC.
 
 ---
 
@@ -174,7 +174,7 @@ A. Neither 1 nor 2 B. Both 1 and 2 C. Only 2 D. Only 1
 
 </details>
 
-> ** note:** 2022 does **not** key gold as the Shaka proof.
+> **Logic:** 2022 does **not** key gold as the Shaka proof.
 
 ---
 
@@ -202,7 +202,7 @@ A. Both 1 and 2 B. Neither 1 nor 2 C. Only 1 D. Only 2
 
 </details>
 
-> ** note:** Entrepot ≠ a second word for “any port.” It is the **redistribution** hub.
+> **Logic:** Entrepot ≠ a second word for “any port.” It is the **redistribution** hub.
 
 ---
 
@@ -229,7 +229,7 @@ A. Śreni B. Nagaram C. Nānādesis D. Manigrama
 
 </details>
 
-> ** note:** Nanadesi looks “foreign.” The paper still wants **Manigrama**.
+> **Logic:** Nanadesi looks “foreign.” The paper still wants **Manigrama**.
 
 ---
 
@@ -261,7 +261,7 @@ D. Kalibangan and Ropar
 
 </details>
 
-> ** note:** Lothal = dock. Muziris = Rome. Tamralipti = east.
+> **Logic:** Lothal = dock. Muziris = Rome. Tamralipti = east.
 
 ---
 
@@ -273,7 +273,7 @@ D. Kalibangan and Ropar
 - River-ports sit on the Ganga, Yamuna, Narmada, and Godavari. Entrepots include Pataliputra, Ujjain, Varanasi, and Taxila. Kannauj is a later entrepot.
 - Tolls sit at ferries and gates. Caravans run through shrenis. River ports and entrepots are the high-yield trade pair. Detail of goods is colour.
 
-> ** note:** Dakshinapatha is a **road**, not “only sea.”
+> **Logic:** Dakshinapatha is a **road**, not “only sea.”
 
 ---
 
@@ -286,7 +286,7 @@ D. Kalibangan and Ropar
 - **Pepper** is the famous west-coast export. Cotton, ivory, pearls, and gems also leave Indian ports. **Horses** are a famous import. Wine, gold, and glass also arrive from the west.
 - Yajna Sri’s **ship** coin is a Deccan sea-trade stamp. East-coast Tamralipti is **not** the main Roman door.
 
-> ** note:** East-coast Tamralipti is **not** the main Roman door.
+> **Logic:** East-coast Tamralipti is **not** the main Roman door.
 
 ---
 
@@ -299,7 +299,7 @@ D. Kalibangan and Ropar
 - Sangam poems call the foreigners **Yavana**. In Sangam that is the foreign / western trader, not only an “Ionian Greek.”
 - The peak sits with the early Roman empire. Trade thins after the third-century crisis.
 
-> ** note:** Yavana in Sangam ≠ only “Ionian Greek.” It is the foreign / western trader.
+> **Logic:** Yavana in Sangam ≠ only “Ionian Greek.” It is the foreign / western trader.
 
 ---
 
@@ -317,22 +317,36 @@ Common punch symbols: **sun**, **six-armed symbol**, **hill**, **elephant**, **b
 
 ## 12.11 Gupta Copper and Post-Gupta Coinage
 
-- Gupta **copper** for market exchange; gold **dinara** = prestige; **silver rupaka** = Chandragupta II Shaka proof.
-- After Skandagupta, fewer fine gold types; regional mints multiply.
+**Gold for prestige | copper for markets | silver for the Shaka proof**
+
+- Gupta markets still use **copper** for everyday exchange even while gold **dinara** advertises imperial prestige.
+- Chandragupta II’s western **silver rupaka** (about **33 grains**) is the Shaka-victory proof, not the gold dinara.
+- After **Skandagupta**, fine imperial gold types thin and regional mints multiply.
+- Post-Gupta north and Deccan houses keep local copper and silver issues; Roman **aurei** in south Indian hoards remain pepper-trade bullion, not Gupta mintage.
+
+---
 
 ## 12.12 Land Revenue and Grants
 
-| Age | Fact |
-|-----|------|
-| Vedic | **bali**, **bhaga** as offerings/shares |
-| Mauryan | state **bhaga** (~1/6 in Arthashastra); **samaharta** collects |
-| Gupta | **brahmadeya**, **agrahara** copper-plate grants; samanta tribute |
-| Harsha | agrahara continues; **skandhavara** royal camp |
+**Share tax first | land grants thicken later | vishti is labour**
+
+- Vedic dues begin as **bali** (tribute) and **bhaga** (the king’s share of produce).
+- Mauryan statecraft keeps **bhaga** (often about one-sixth in the *Arthashastra*); the **Samaharta** collects and the **Sannidhata** stores.
+- Forced labour appears as **vishti** in early historic revenue language.
+- Gupta copper-plate grants create **brahmadeya** and **agrahara** holdings; feudatory **samanta** tribute sits beside the old share tax.
+- Under Harsha, agrahara grants continue and the moving royal camp is remembered as **skandhavara**.
+- Land-grant thickening is the bridge from Mauryan salaried collection toward post-Gupta feudal land control.
+
+---
 
 ## 12.13 Southeast Asian Maritime Trade
 
-- East-bound route from **Tamralipti** to **Suvarnabhumi** (mainland Southeast Asia).
-- Distinct from the **Roman** west coast circuit (Muziris/Barygaza).
+**East from Tamralipti | Suvarnabhumi | not the Roman west door**
+
+- The east-bound route runs from the Ganga-mouth port **Tamralipti** toward **Suvarnabhumi** (mainland Southeast Asia in coaching maps).
+- Goods on this circuit include textiles, beads, and metalwork memory; the cultural echo is Buddhist and Brahmanical contact across the Bay of Bengal.
+- This eastern door is distinct from the **Roman** west-coast circuit centred on **Muziris** and **Barygaza**.
+- Do not treat Tamralipti as the main Roman pepper port — that key remains Malabar and Broach.
 
 ## UP Focus
 

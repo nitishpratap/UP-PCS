@@ -4,18 +4,19 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Administrative System of British India | Local Administration | Cornwallis Code and the Judiciary | Police and the Thana System | Indian Civil Service (Haileybury to Open Competition) | British Economic Policy | Impact of British Rule on Indian Economy | British Land Revenue Systems | Permanent Settlement | Ryotwari System | Mahalwari System | Drain of Wealth Theory | Commercialization of Agriculture | Plantation Economy (Indigo, Tea) | Deindustrialization | Railways and the Guarantee System | Managing Agency System | Telegraph | Postal System | Famine Policy and Famine Codes
+Administrative System of British India | Local Administration | Cornwallis Code and the Judiciary | Police and the Thana System | Indian Civil Service (Haileybury to Open Competition) | British Economic Policy | Impact of British Rule on Indian Economy | British Land Revenue Systems | Permanent Settlement | Ryotwari System | Mahalwari System | Drain of Wealth Theory | Commercialization of Agriculture | Plantation Economy (Indigo, Tea) | Deindustrialization | Monetisation and Currency | Dual Economy Critiques | Railways and the Guarantee System | Managing Agency System | Telegraph | Postal System | Famine Policy and Famine Codes | Foreign Trade and Commerce
 
 </details>
 
 > **Sources baked in:** NCERT Themes III, Bipan Chandra, Naoroji, R.C. Dutt, Spectrum, Ghatnachakra economy bank (Economic Impact of British Rule), UPPCS Prelims 2018–2025
 > **Weight:** ★★★ — land-revenue matching, Drain book year, Cornwallis/Munro/Mackenzie, judiciary/police ladder, ICS dates, railway guarantee, famine years, infrastructure dates
-> **Last verified:** September 2026
+> **Last verified:** September 2026 gap audit — land CCR compare; monetisation / dual-economy critiques; commerce expand; Extra Drill gaps flagged (no invented mega banks)
 > **Current Affairs:** N/A (historical)
+> **Ownership:** Full land-revenue compare, Drain, deindustrialisation, railways, famine commissions and dual-economy critiques live here. GG/Viceroy tags, constitutional Acts, Vernacular Press / Arms / Ilbert / Ripon local self-gov as ruler reforms stay in the Governors-General & Viceroys chapter.
 
 ---
 
-## Consolidated — 26 Must-Score Facts
+## Consolidated — 28 Must-Score Facts
 
 1. Colonial economic policy moved through three phases: **mercantilism (Plassey–1813)**, **one-way free trade (1813–1858)**, and **finance capital / Drain (1858 onward)** with railway guarantees and Home Charges.
 2. The **Permanent Settlement (1793)** under **Cornwallis** made the **zamindar** proprietor in **Bengal, Bihar, Orissa and Varanasi**. Also called **Istamrari**. About **19%** of British India. Share often remembered as **10/11** to the Company.
@@ -43,6 +44,8 @@ Administrative System of British India | Local Administration | Cornwallis Code 
 24. The District (Diwani) Judge doubled as district **Magistrate**. The **Sadar Nizamat Adalat** was the top criminal appeal court — do not swap civil and criminal tops.
 25. Plantation labour often ran on advances and indenture. Indigo’s **dadan** trap and Assam tea’s labour system are the two plantation facts papers recycle.
 26. Local administration ladder for matching: Mayo = money decentralisation (**1870**); Ripon = local boards ideology (**1882**); Montford = actual transfer under dyarchy (**1919**).
+27. **Monetisation:** land revenue in **cash**, railways and cash crops, then currency reforms — **Herschell (1893)** closed free silver minting; **Fowler (1898)** set the **gold-exchange standard** with the rupee at **1s 4d**.
+28. **Dual economy** critiques: a thin modern / export sector sat beside a distressed agrarian mass — nationalist Drain writers and later historians both used this picture against “modernisation” claims.
 
 ---
 
@@ -71,6 +74,8 @@ Administrative System of British India | Local Administration | Cornwallis Code 
 | Famine of 1876–78 | Famine of 1943 | Peacetime laissez-faire famine under Lytton vs wartime famine under Linlithgow | 1876-78 / 1943 |
 | Famine Commission 1880 | Woodhead Commission 1945 | Strachey's post-1876-78 body that produced the Famine Codes vs the post-1943 inquiry that played down British fault | स्ट्रेची आयोग / वुडहेड आयोग |
 | Ripon's 1882 Resolution | 1919 Dyarchy | Resolution only asked for elected local boards vs Montford reforms that actually transferred local self-government to Indian ministers | रिपन संकल्प / द्वैध शासन |
+| Herschell Committee 1893 | Fowler Committee 1898 | Closed free silver coinage / rupee crisis vs gold-exchange standard at 1s 4d | हर्शल / फाउलर |
+| Dual economy | Drain of Wealth | Split modern-export pocket vs mass distress vs unrequited transfer of surplus to Britain | द्वैत अर्थव्यवस्था / धन निष्कासन |
 
 ---
 
@@ -160,7 +165,7 @@ Cornwallis's **Code of 1793** gave British India its first settled ladder of civ
 - The Company instead ran the **East India College at Haileybury (England) from 1806**. Nominated cadets trained there for about two years before sailing to India.
 - The **Charter Act of 1833** proposed open competition for the civil service, but the Court of Directors' opposition kept it a dead letter.
 - The **Charter Act of 1853** finally **ended patronage nomination** and opened the civil service to **competitive examination**. The **Macaulay Committee (1854)** framed the rules.
-- The ran only in **London**, in English, and tested classical subjects along with a horse-riding test — a real barrier for Indian candidates.
+- The examination ran only in **London**, in English, and tested classical subjects along with a horse-riding test — a real barrier for Indian candidates.
 - **Satyendranath Tagore** became the **first Indian to qualify** for the Indian Civil Service, in **1863**.
 - The **age limit for entry was cut repeatedly** through the 1860s–70s, which narrowed the practical window for Indian candidates further.
 - The **Aitchison Committee (1886)** created three tiers — Imperial (in England), Provincial and Subordinate (in India) — and nudged the age limit back up.
@@ -202,7 +207,9 @@ D. Delhi
 <details>
 <summary>Show answer</summary>
 
-**Ans: B — Madras** (1688). (*`pyq/2021` option codes garbled; standard paper restored.*)
+**Logic:** First Municipal Corporation = **Madras, 1688** — not Ripon’s creation and not Calcutta.
+
+**Ans: B.** **Madras (1688)** was India’s first Municipal Corporation.
 
 </details>
 
@@ -220,13 +227,21 @@ D. Delhi
 - In the mid-eighteenth century the Company's staple Bengal exports for Europe included **cotton, silk, saltpetre and opium**.
 - Roughly **40%** of central revenue in British India went to the **military** — a common one-liner.
 
-> **Logic:** Home Charges = London-side charges on Indian revenue. Imperial Preference = privilege for British goods in India. Land-preference of the rich ≠ “no natural resources.”
+### Commerce and foreign trade pattern
+
+- Before Plassey, India still exported **finished textiles** and other crafts. After Company rule hardened, the trade pattern reversed toward **raw-material export** and **finished-goods import**.
+- After **1813**, private British merchants flooded India with Manchester cloth under one-way free trade. Indian finished goods faced high British tariffs.
+- Opium to China, indigo and later jute and raw cotton were classic export staples. Tea from Assam joined the plantation export stream from the 1830s–40s.
+- Shipping, insurance and banking around this trade were largely British-controlled, so even “Indian” export earnings leaked through service charges.
+- A favourable merchandise balance on paper could still mean **unrequited** outflow — the Drain card below carries that mechanism.
+
+> **Logic:** Home Charges = London-side charges on Indian revenue. Imperial Preference = privilege for British goods in India. Land-preference of the rich ≠ “no natural resources.” Commerce pattern = raw out, manufactures in.
 
 ---
 
 ## 4.7 British Land Revenue Systems
 
-The British did **not** use one land system for all of India. Different regions got different systems, and that created **different classes of peasantry**.
+The British did **not** use one land system for all of India. Different regions got different systems, and that created **different classes of peasantry**. This chapter is the **home** for the full compare; the Governors-General chapter keeps only Cornwallis / Munro / Mackenzie tags.
 
 | Feature | Permanent Settlement | Ryotwari | Mahalwari |
 |---------|----------------------|----------|-----------|
@@ -238,6 +253,12 @@ The British did **not** use one land system for all of India. Different regions 
 | Rights | Zamindar = proprietor | Ryot = owner/occupant; pays government direct | Collective village responsibility |
 | Revision | **Fixed / permanent** | Periodic; demand high and strict | Periodic **20–30 yrs** |
 | Other names | **Istamrari / Ist-e-Marari**, Jagirdari, Malgujari, Bishvedari | — | — |
+
+### Cause → Course → Result (why three systems)
+
+- **Cause:** After Diwani, the Company needed a **steady cash surplus** for wars and “investment.” Older farm contracts and short settlements failed to deliver certainty.
+- **Course:** Bengal got a **zamindar-as-proprietor** fix (**1793**). The south and west moved to **direct ryot settlement**. The north settled on the **village / mahal** unit under Mackenzie’s line.
+- **Result:** Three peasant structures — landlord–tenant (Bengal belt), heavily assessed individual ryot (Madras–Bombay), and joint village liability (NWP/UP–Punjab). All raised cash pressure, debt and famine risk; none was designed as peasant welfare.
 
 - All three systems were meant to give the state a **steady cash surplus**, not to protect the peasant.
 - Demand was often high and rigid. Default led to debt, sale of land, and higher famine risk.
@@ -257,7 +278,9 @@ D. (A) is false but (R) is true
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Zamindar-tenant (Bengal) vs direct ryot (south/west) vs village mahal (north).
+**A/R logic:** Different land systems created different peasant classes — R correctly explains A.
+
+**Ans: A.** Zamindar–tenant (Bengal) vs direct ryot (south/west) vs village mahal (north).
 
 </details>
 
@@ -265,13 +288,21 @@ D. (A) is false but (R) is true
 
 ## 4.8 Permanent Settlement, 1793
 
+**Identity:** Cornwallis, 1793 | Zamindar as proprietor | ~19% of British India
+
+### Cause → Course → Result
+
+- **Cause:** Decennial and farming experiments after Diwani failed to give the Company a secure, collectable demand.
+- **Course:** Cornwallis, drawing on Shore’s revenue work, fixed the zamindar’s payment **in perpetuity** in Bengal, Bihar, Orissa and Varanasi.
+- **Result:** Zamindars became legal proprietors; cultivators became tenants; litigation and absentee purchase rose; the state’s share stayed frozen while rents on tenants often rose.
+
 - Introduced by **Lord Cornwallis** in **1793** in **Bengal, Bihar and Orissa**, and also in **Varanasi (UP)**. About **19%** of British India came under it.
 - It is also called **Istamrari / Ist-e-Marari**, and sometimes tagged Jagirdari, Malgujari or Bishvedari in older usage.
 - Failed farming contracts and **decennial** (ten-year) experiments came before the permanent fix of **1793**.
 - The **zamindar** was recognised as **proprietor** with hereditary and transferable rights. He paid a **fixed** yearly sum to the Company — commonly remembered as **10/11** of the collection to the state and **1/11** kept by the zamindar.
 - The actual cultivator became a **tenant**, not the owner of the soil. Zamindars were to issue **pattas** to farmers, but many never did because there was **no official check** on them.
 - Under the **Sunset Law**, if the zamindar did not pay by sunset on the due day, the estate could be sold at auction. Many buyers were urban absentees.
-- Making the zamindar stronger against the ryot, plus more intermediaries, fed **increased litigation** after 1793 — a classic UPSC angle.
+- Making the zamindar stronger against the ryot, plus more intermediaries, fed **increased litigation** after 1793 — a classic match-list angle.
 - Because the state's demand was frozen, the Company could **not** raise it when production later grew. Zamindars, however, often raised rents on tenants.
 - Peasant pressure later produced the **Bengal Tenancy Act, 1885**, which defined landlord and tenant rights in Bengal and Bihar.
 
@@ -296,13 +327,23 @@ D. 4 3 2 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Cornwallis = Permanent Settlement (1). Other pairs are Topic 3.
+**Logic:** Match Lapse / Partition / Sati / Permanent Settlement — Permanent Settlement home pair is Cornwallis.
+
+**Ans: D.** Cornwallis = Permanent Settlement. The other pairs belong with Governors-General matching.
 
 </details>
 
 ---
 
 ## 4.9 Ryotwari System
+
+**Identity:** Read / Munro | Direct settlement with the ryot | ~51% of British India
+
+### Cause → Course → Result
+
+- **Cause:** Company officers in the south argued that Bengal’s zamindar middleman was alien to Tamil and Deccan village practice and blocked accurate assessment.
+- **Course:** **Alexander Read** tried direct settlement in **Baramahal**; **Thomas Munro** expanded it in Madras; **Elphinstone** carried a similar line into parts of Bombay.
+- **Result:** The state faced the cultivator directly, surveyed fields, issued **pattas**, and kept the right to revise demand — high cash pressure without a Bengal-style landlord buffer.
 
 - **Alexander Read** (Reed) first tried it in **Baramahal** (Tamil country) after the 1790s acquisitions. **Thomas Munro** expanded it as Governor of Madras (**1820–27**) and said Ryotwari was “a system which has always prevailed in India.” **Elphinstone** carried a similar direct settlement into parts of **Bombay**.
 - It spread across the **Madras** Presidency and parts of **Bombay**, plus pockets of **eastern Bengal, Assam and Coorg**. About **51%** of British India came under it.
@@ -316,6 +357,14 @@ D. 4 3 2 1
 ---
 
 ## 4.10 Mahalwari System
+
+**Identity:** Holt Mackenzie, 1822 | Village / mahal unit | ~30% of British India
+
+### Cause → Course → Result
+
+- **Cause:** In the North-Western Provinces the Company needed a settlement that fitted joint village rights better than Bengal’s single zamindar model.
+- **Course:** **Holt Mackenzie’s 1822** report shaped mahal-based assessment; **Bentinck** later extended the idea. A **lambardar** often collected the village share.
+- **Result:** About **30%** of British India — mainly **UP / NWP, Central Provinces and Punjab** — carried joint village liability with periodic revision. This is the land-revenue background of much of later Uttar Pradesh.
 
 - Shaped by **Holt Mackenzie's report of 1822** for the **North-Western Provinces** (then under the wider Bengal Presidency administration, which is why some stems say “Bengal”). **Bentinck** later extended the idea. About **30%** of British India came under it.
 - The unit was the **village or mahal**. Village land was treated as belonging to the village community, which was **jointly responsible** for the revenue.
@@ -360,7 +409,9 @@ D. 1903 A.D.
 <details>
 <summary>Show answer</summary>
 
-**Ans: B — 1901 A.D.**
+**Logic:** Naoroji book-year trap — **1901**, not 1900.
+
+**Ans: B.** *Poverty and Un-British Rule in India* was published in **1901**.
 
 </details>
 
@@ -381,7 +432,9 @@ D. Bipin Chandra
 <details>
 <summary>Show answer</summary>
 
-**Ans: D — Bipin Chandra**
+**Logic:** Author of *The Rise and Growth of Economic Nationalism in India* is **Bipan Chandra**.
+
+**Ans: D.** **Bipan Chandra** wrote it — a retrospective study of the nationalist economic school.
 
 </details>
 
@@ -398,7 +451,9 @@ D. (A) is true, but (R) is false
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Both true; providence/modernisation and the Un-British/Drain critique are two Moderate facts, not cause → effect.
+**A/R logic:** Both true as Moderate facts; R (Un-British / Drain) does not explain the providential modernisation claim.
+
+**Ans: A.** Both true; providence/modernisation and the Un-British/Drain critique are two Moderate facts, not cause → effect.
 
 </details>
 
@@ -465,9 +520,16 @@ Plantation crops were a distinct strand of commercialization: grown mainly for *
 - The process is commonly dated from **1813**, when the Company’s India trade monopoly ended and British manufactures flooded in more freely. The **Charter Act of 1833**, ending the Company as a trading body, aggravated the process.
 - Cheap **Manchester** cloth undercut Indian weavers. High tariffs in Britain blocked Indian finished goods. India exported **raw cotton** and imported finished cloth — the reverse of the older pattern.
 - After conquest, courts and nobles no longer bought on the old scale, so artisans lost patrons.
-- Many weavers were pushed into agriculture. That overcrowded the countryside. Bentinck's remark on weavers' bones is the usual quote.
+- Many weavers were pushed into agriculture. That overcrowded the countryside. **William Bentinck** remarked that the plains of India were whitening with the bones of weavers — the usual coaching quote for craft ruin.
 - **Karl Marx** also criticised British economic policy in India as destructive of old industry and village structures; coaching notes sometimes key the line that British economic policy in India was **“disgusting.”**
 - Modern factories came **late** and stayed thin. The nineteenth-century story is craft **decline**, not "Britain industrialised India."
+- Keep three ideas apart: **Drain** is unrequited transfer of surplus; **deindustrialization** is craft destruction; **commercialization** is cash-crop push on the land.
+
+### Cause → Course → Result
+
+- **Cause:** One-way free trade after **1813**, British machine cloth, and loss of court patronage.
+- **Course:** Weavers and artisans lost home and export markets; raw cotton left Indian ports; finished cloth returned as imports.
+- **Result:** Artisan unemployment, rural overcrowding, and a lasting nationalist critique that colonial rule **deindustrialised** India while claiming to modernise it.
 
 > **Logic:** Deindustrialization ≠ Drain of Wealth. Start marker often asked = **1813**.
 
@@ -486,6 +548,22 @@ Plantation crops were a distinct strand of commercialization: grown mainly for *
 | **Adade** | Associated with **Karnataka** in the standard match set |
 
 > **Logic:** Aurang ≠ treasury in-charge. Banian ≠ Mirasidar. Keep the regional service-system match (Jajmani–North; Bara Balute–Maharashtra; Mirasi–Tamil Nadu; Adade–Karnataka).
+
+---
+
+## 4.14B Monetisation and currency
+
+Colonial rule did not only take land revenue. It also forced the peasantry deeper into a **cash** economy and then stabilised the rupee for imperial trade.
+
+- Land revenue had to be paid in **cash**, not kind. That single rule pushed peasants toward moneylenders and cash crops even before railways matured.
+- Railways, ports and plantation wages further monetised the countryside. Village barter and grain dues shrank relative to silver and notes.
+- Through much of the nineteenth century India was effectively on a **silver** standard. Falling silver prices in the 1870s–90s made the rupee unstable against sterling and hurt India’s external payments.
+- The **Herschell Committee (1893)** recommended closing the Indian mints to the **free coinage of silver**. That ended the older automatic silver inflow into the rupee.
+- The **Fowler Committee (1898)** recommended a **gold-exchange standard**. The rupee was linked to sterling at **1 shilling 4 pence (1s 4d)** without putting India on a full gold-coin circulation like Britain.
+- Gold-exchange standard meant India held sterling reserves and converted rupees through London — convenient for Home Charges and British trade, not for Indian monetary autonomy.
+- Paper currency and later Reserve Bank arrangements (1935) sit on this late colonial money spine; prelims usually stop at Herschell / Fowler / 1s 4d.
+
+> **Logic:** Herschell **closes** free silver minting (**1893**). Fowler sets **gold-exchange** / **1s 4d** (**1898**). Monetisation ≠ Drain, but it made Drain and cash revenue easier to extract.
 
 ---
 ## 4.15 Railways and the Guarantee System
@@ -574,8 +652,15 @@ This section only joins the results. The mechanisms are already taught above.
 - Finance sent Indian surplus to Britain through the Drain and Home Charges, with the railway **guarantee** as a major later channel.
 - Rail, telegraph and post served control and trade first. Nationalists used them later.
 - Society produced typical colonial classes: zamindar, moneylender, plantation labourer and landless labourer.
-- A dual economy grew. A few export pockets sat beside a distressed mass.
 - India was **not** "fully modernised by 1947." Infrastructure is not proof of benevolent rule.
+
+### Dual economy critiques
+
+- A **dual economy** picture grew under colonial rule: a thin modern / export pocket (ports, plantations, railways, a few mills) sat beside a distressed agrarian mass.
+- Nationalist writers used that split against official “progress” claims. Railways and mills could expand while weavers ruined and famine risk stayed high.
+- **Drain theorists** (Naoroji, R. C. Dutt and others) argued the modern sector itself helped ship surplus out through guarantees, Home Charges and agency profits.
+- Later historians debate how deep deindustrialization ran, but the coaching map still holds the dual picture: colonial modernisation was **uneven, extractive and incomplete**.
+- Do not treat dual economy as a separate theory from Drain. Dual economy describes the **structure**; Drain describes the **outflow**.
 
 **UP Focus**
 
@@ -630,6 +715,13 @@ This section only joins the results. The mechanisms are already taught above.
 | Post Office Savings Bank | 1882 |
 | Assam Company (tea) founded | 1839 |
 
+### Monetisation ↔ currency milestone
+
+| Milestone | Year |
+|-----------|------|
+| Herschell Committee — closes free silver minting | 1893 |
+| Fowler Committee — gold-exchange standard; rupee at 1s 4d | 1898 |
+
 ### Famine ↔ Viceroy/GG ↔ policy marker
 
 | Famine | Year | GG / Viceroy | Policy marker |
@@ -679,7 +771,9 @@ D. 4 3 2 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — This topic's pair: Cornwallis–Permanent Settlement.
+**Logic:** Match Lapse / Partition / Sati / Permanent Settlement — this topic’s home pair is Cornwallis–Permanent Settlement.
+
+**Ans: D.** Cornwallis = Permanent Settlement. The other pairs belong to the Governors-General chapter.
 
 </details>
 
@@ -703,7 +797,9 @@ D. 1, 3, 2, 4
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Indigo Revolt **1859** is the commercialization fact.
+**Logic:** Chronology Awadh → Indigo → Second Afghan → Ilbert; Indigo is the commercialization marker.
+
+**Ans: A.** Awadh **1856** → Indigo Revolt **1859** → Second Afghan **1878** → Ilbert **1883**.
 
 </details>
 
@@ -728,7 +824,9 @@ D. (A) is true, but (R) is false
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Both true; R is a parallel Moderate fact (Drain / Un-British), not why they called the Raj providential.
+**A/R logic:** Both true as Moderate facts; R (Un-British / Drain critique) does not explain why they also called British rule providential.
+
+**Ans: A.** Both true; R is a parallel Moderate fact (Drain / Un-British), not why they called the Raj providential.
 
 </details>
 
@@ -749,7 +847,9 @@ D. 1903 A.D.
 <details>
 <summary>Show answer</summary>
 
-**Ans: B — 1901 A.D.**
+**Logic:** Naoroji book-year trap — **1901**, not 1900.
+
+**Ans: B.** *Poverty and Un-British Rule in India* was published in **1901**.
 
 </details>
 
@@ -768,7 +868,9 @@ D. Delhi
 <details>
 <summary>Show answer</summary>
 
-**Ans: B — Madras** (1688).
+**Logic:** First Municipal Corporation = **Madras, 1688** — not Ripon’s creation and not Calcutta.
+
+**Ans: B.** **Madras (1688)** was India’s first Municipal Corporation.
 
 </details>
 
@@ -793,13 +895,11 @@ D. (A) is false but (R) is true
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**A/R logic:** Different land systems created different peasant classes — R correctly explains A.
+
+**Ans: A.** Both true; zamindar–tenant (Bengal), direct ryot (south/west), and village mahal (north) are the three class outcomes.
 
 </details>
-
-### UPPCS Prelims 2019
-
-**Q7. UPPCS Prelims 2019, Q97**
 
 "The Rise and Growth of Economic Nationalism in India" was written by
 
@@ -816,7 +916,9 @@ D. Bipin Chandra
 <details>
 <summary>Show answer</summary>
 
-**Ans: D — Bipin Chandra**
+**Logic:** Author of *The Rise and Growth of Economic Nationalism in India* is **Bipan Chandra**.
+
+**Ans: D.** **Bipan Chandra** wrote it — a retrospective study of the nationalist economic school.
 
 </details>
 
@@ -825,7 +927,9 @@ D. Bipin Chandra
 
 ## Ghatnachakra Extra Drill — Economic Impact of British Rule
 
-Teaching for these stems sits in **4.6–4.14** and **4.20**.
+Teaching for these stems sits in **4.6–4.20**.
+
+> **Needs dump (do not invent):** separate Extra banks for Cornwallis judiciary / police / ICS chronology; monetisation (Herschell–Fowler) stems; UKPCS Complete PYQ harvest for this topic. Existing Economic Impact Extra stays; no mega banks invented here.
 
 **Q1. IAS (Pre) 2011**
 

@@ -4,24 +4,13 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Congress Socialist Party | Subhash Chandra Bose | Forward Bloc | Quit India Movement | Azad Hind Fauj | Azad Hind Government | Second World War and India | Political Deadlock | Final Phase (1945–47) | Independence Chronology | INA Trials | Cabinet Mission | Cripps Mission | Wavell Plan | Simla Conference | 
-### Desai-Liaquat Pact (January 1945)
-- Informal pact between **Bhulabhai Desai** (Congress Central Assembly leader) and **Liaquat Ali Khan** (Muslim League deputy leader).
-- Proposed an interim government with **parity of representation** for Congress and the League in the Central Executive (e.g. 20% reserved for minorities).
-- Though not officially endorsed by Gandhi or Jinnah, it paved the way for the **Wavell Plan (Shimla Conference)** in June 1945.
-
-### Plan Balkan / Dickie Bird Plan (May 1947)
-- Devised by Lord Mountbatten's staff committee chaired by **General Hastings Ismay** (nicknamed *Dickie Bird Plan* after Mountbatten's nickname 'Dickie').
-- Proposed the **balkanization / fragmentation of India**: power would be devolved to individual provinces (Madras, Bombay, Bengal, Punjab, United Provinces) and princely states with the choice to join India, Pakistan, or remain separate.
-- When Mountbatten showed the draft secretly to **Jawaharlal Nehru** at Shimla in May 1947, Nehru fiercely rejected it as a recipe for chaos and civil war. Mountbatten immediately scrapped it and drafted the **June 3rd Plan** (Mountbatten Plan).
-
-Mountbatten Plan | Indian Independence Act 1947
+Congress Socialist Party | Subhash Chandra Bose | Forward Bloc | Quit India Movement | Azad Hind Fauj | Azad Hind Government | Second World War and India | Political Deadlock | Desai–Liaquat Pact | Final Phase (1945–47) | Independence Chronology | INA Trials | Cabinet Mission | Cripps Mission | Wavell Plan | Simla Conference | Plan Balkan / Dickie Bird | Mountbatten Plan | Indian Independence Act 1947 | RIN Mutiny | Direct Action Day
 
 </details>
 
 > **Sources baked in:** Spectrum, Bipan Chandra, NCERT Themes III, Ghatnachakra Purvalokan (1937–QI / Pakistan / Cripps; Bose–INA; Cabinet–Partition), UPPCS Prelims 2018–2025
 > **Weight:** ★★★ — mission chronology, Bose/INA, Quit India women, Cabinet Mission A/R, Independence Act
-> **Last verified:** September 2026
+> **Last verified:** September 2026 gap audit — CCR confirmed on Cripps, Quit India, INA, Wavell/Simla, Cabinet Mission, RIN, Mountbatten; CSP + Desai–Liaquat + Plan Balkan cards filled; identity-line glue fixed; Extra Drill present (no invented mega banks)
 > **Current Affairs:** N/A (historical)
 
 ---
@@ -136,20 +125,28 @@ D. 1, 4, 2, 3
 
 ## 14.2 Congress Ministries (1937–39)
 
-**Election:** provincial elections under the **Government of India Act, 1935**, held in **early 1937Result:** Congress won a majority of seats in **six provinces outright** (Madras, Bombay, UP, Bihar, Orissa, CP) and was the largest party in others
+**Election:** provincial elections under the **Government of India Act, 1935**, held in **early 1937**
+**Result:** Congress won a majority of seats in **six provinces outright** (Madras, Bombay, UP, Bihar, Orissa, CP) and was the largest party in others
 
-- Congress first hesitated over office-acceptance, since ministries would work **inside** the 1935 Act's provincial autonomy scheme that it had itself rejected as inadequate.
+**Cause**
+
+- The **Government of India Act, 1935** introduced provincial autonomy and made elected ministries possible. Congress first hesitated over office-acceptance, since ministries would work **inside** a scheme it had itself rejected as inadequate.
 - After the Viceroy assured that provincial governors would not routinely override ministries, Congress agreed to **accept office**.
+
+**Course**
+
 - **Congress ministries were formed in eight provinces**: Madras, Bombay, UP, Bihar, Orissa, CP, Assam and NWFP, either alone or in coalition, through **1937**.
 - Ministries pushed **civil-liberties measures** — released political prisoners, relaxed press curbs — and some **social legislation**, such as debt-relief and tenancy protection in a few provinces.
 - The **Muslim League**, which had done poorly in Muslim-majority seats, felt shut out where Congress refused coalition offers; this experience hardened League grievances that later fed the Pakistan demand.
-- On **3 September 1939**, Britain declared India at war without consulting elected Indian opinion.
-- The **Congress Working Committee** demanded a clear statement of British war aims for India and a real move toward self-government in return for cooperation. The offer was refused.
+- On **3 September 1939**, Britain declared India at war without consulting elected Indian opinion. The **Congress Working Committee** demanded a clear statement of British war aims for India and a real move toward self-government; the offer was refused.
 - Congress ministries in all eight provinces **resigned in October–November 1939** in protest.
+
+**Result**
+
 - Ministries lasted about **28 months**. UP Premier tag: **Govind Ballabh Pant**; Finance **Rafi Ahmed Kidwai**.
 - League grievance reports in order: **Pirpur Report (1938)** → **Sharif Report (Mar 1939)** → **Fazlul Haq / Muslim Sufferings report (Dec 1939)**.
 - Jinnah asked Muslims to observe **22 December 1939** as **Day of Deliverance** after Congress resignations.
-- The two-year experience of actually running provincial government (1937–39) gave Congress valuable administrative experience and also exposed real Congress–League friction well before the 1940s.
+- The two-year experience of running provincial government gave Congress administrative practice and exposed Congress–League friction well before the 1940s.
 
 > **Logic:** Ministries **formed 1937** after the provincial elections; they **resigned 1939** over the war. Eight provinces, not all eleven British Indian provinces.
 
@@ -157,12 +154,26 @@ D. 1, 4, 2, 3
 
 ## 14.3 Congress Socialist Party
 
-- CSP is a **1934 socialist group inside Congress**.
-- It is **not** Bose’s Forward Bloc.
-- It was **not** formed in January **1934**.
-- **Nehru never formally joined** the Congress Socialist Party.
+**Year:** **1934** (Bombay meeting / formal organisation through that year — not a January-only founding date trap)
+**Stream:** socialist group **inside** Congress
+**Key names:** Jayaprakash Narayan, Acharya Narendra Dev, Ram Manohar Lohia, Minoo Masani, Yusuf Meherally (circle varies by book)
 
-> **Logic:** CSP ≠ Forward Bloc. CSP ≠ CPI.
+**Cause**
+
+- Younger Congressmen wanted a sharper **anti-imperial and socialist** programme after the Civil Disobedience years, without leaving the Congress mass organisation for the CPI or a separate party.
+
+**Course**
+
+- The **Congress Socialist Party** worked as a left wing **inside Congress**, pressing land reform, workers’ rights and uncompromising struggle while accepting the broader national movement.
+- **Jawaharlal Nehru sympathised** with many CSP ideas but **never formally joined** the party — a classic UPPCS trap.
+- CSP is **not** Bose’s **Forward Bloc (1939)** and **not** the Communist Party of India.
+
+**Result**
+
+- CSP kept a socialist current alive inside Congress through the late 1930s and into the wartime years; several CSP leaders later became major post-1947 opposition and socialist figures.
+- Do **not** merge CSP with Forward Bloc, CPI, or Swaraj Party (**1923**).
+
+> **Logic:** CSP ≠ Forward Bloc. CSP ≠ CPI. Nehru never formally joined.
 
 ---
 
@@ -189,7 +200,8 @@ D. 1, 4, 2, 3
 
 ## 14.5 Forward Bloc
 
-**Year:1939Founder:Subhas Chandra Bose**
+**Year:** **1939**
+**Founder:** **Subhas Chandra Bose**
 
 - After Tripuri, Bose left the Congress high command but stayed in the nationalist stream.
 - Forward Bloc is **not** the Congress Socialist Party of 1934 and **not** the CPI.
@@ -249,7 +261,7 @@ D. 4, 2, 3, 1
 ## 14.7 Cripps Mission (March 1942)
 
 **Who:** Sir **Stafford Cripps** (Labour, War Cabinet)
-**When:March 1942** (after Japan’s advance)
+**When:** **March 1942** (after Japan’s advance)
 
 **Cause**
 
@@ -274,7 +286,10 @@ D. 4, 2, 3, 1
 ## 14.8 Quit India Movement (8 August 1942)
 
 **Place:** Bombay (Gowalia Tank / August Kranti Maidan)
-**Slogan:Do or DieResolution:** Wardha in July, then Bombay AICC on **8 August 1942Cause**
+**Slogan:** **Do or Die**
+**Resolution:** Wardha in July, then Bombay AICC on **8 August 1942**
+
+**Cause**
 
 - The failure of the Cripps Mission convinced Gandhi and Congress that Britain would offer no genuine transfer of power short of a final push, and Congress resolved to demand immediate British withdrawal.
 
@@ -362,16 +377,25 @@ D. Veerangana Regiment
 
 ## 14.10 INA Trials
 
-**Where:Red Fort, Delhi**
-**When:November 1945** onwards
-**First trio:Prem Kumar Sahgal, Shah Nawaz Khan, Gurbaksh Singh Dhillon** (Hindu–Muslim–Sikh)
+**Where:** **Red Fort, Delhi**
+**When:** **November 1945** onwards
+**First trio:** **Prem Kumar Sahgal, Shah Nawaz Khan, Gurbaksh Singh Dhillon** (Hindu–Muslim–Sikh)
 
-- They were tried for waging war against the King.
-- Defence Committee led by **Bhulabhai Desai**, with **Tej Bahadur Sapru**, **K.N. Katju**, **Asaf Ali** and **Nehru**. **Patel** is the classic “not on the defence team” trap.
+**Cause**
+
+- Captured INA officers were put on trial for waging war against the King. The British meant the trials as a warning; Indian opinion read them as trials of patriots.
+
+**Course**
+
+- The first famous trio — **Sahgal, Shah Nawaz Khan and Dhillon** — was tried at the **Red Fort**. Defence Committee led by **Bhulabhai Desai**, with **Tej Bahadur Sapru**, **K.N. Katju**, **Asaf Ali** and **Nehru**. **Patel** is the classic “not on the defence team” trap.
 - **Rashid Ali** drew a **seven-year** sentence in related proceedings; the famous trio faced transportation for life before remission.
-- **Azad Hind Fauj Week** **5–11 November 1945**; **Azad Hind Fauj Day** **12 November 1945**. Commander-in-Chief **Claude Auchinleck** remitted the heavy sentences under mass pressure.
-- **Mohan Singh** is **not** among the Red Fort trio defendants.
-- Do not place the trials at Gwalior, Amer or Agra.
+- **Azad Hind Fauj Week** **5–11 November 1945**; **Azad Hind Fauj Day** **12 November 1945**. Mass protest filled the streets.
+
+**Result**
+
+- Commander-in-Chief **Claude Auchinleck** remitted the heavy sentences under mass pressure.
+- **Mohan Singh** is **not** among the Red Fort trio defendants. Do not place the trials at Gwalior, Amer or Agra.
+- The trials turned military defeat into a political storm and deepened British doubt about the loyalty of Indian troops — pressure that fed the **1945–47** endgame.
 
 > **Logic:** INA trials = **Red Fort**. Trio = Sahgal, Shah Nawaz, Dhillon.
 
@@ -405,12 +429,24 @@ D. Agra Fort
 - Gandhi–Jinnah talks on this formula failed.
 - The **C.R. Formula (1944)** was prepared by **C. Rajagopalachari**, not C.R. Das.
 
-**Desai–Liaquat Pact (1945)**
+**Desai–Liaquat Pact (January 1945)**
 
-- **Bhulabhai Desai** and **Liaquat Ali Khan** talked of parity in an interim coalition.
-- The pact did not stick.
+**Actors:** **Bhulabhai Desai** (Congress Central Assembly leader) and **Liaquat Ali Khan** (Muslim League deputy leader)
 
-> **Logic:**C.R. = Rajaji**. Das died **1925** and cannot author a 1944 formula.
+**Cause**
+
+- After Cripps and wartime deadlock, informal Congress–League contacts sought an interim coalition formula before a full constitutional settlement.
+
+**Course**
+
+- Desai and Liaquat sketched an interim government with **parity of representation** for Congress and the League in the Central Executive (minority seats also reserved in the usual telling).
+- The talks were **informal**; neither Gandhi nor Jinnah gave a firm public endorsement that stuck.
+
+**Result**
+
+- The pact itself did not hold, but it kept the idea of a parity-based interim executive alive and fed into the climate of the **Wavell Plan / Simla Conference (June–July 1945)**.
+
+> **Logic:** C.R. = **Rajaji**. Das died **1925** and cannot author a 1944 formula. Desai–Liaquat = **1945** interim parity talk, not the Wavell Plan itself.
 
 **PYQ — UPPCS Prelims 2019, Q96**
 
@@ -435,7 +471,11 @@ D. V. P. Menon
 
 ## 14.12 Wavell Plan and Simla Conference
 
-**Viceroy:** Lord **WavellPlan announced:June 1945Simla Conference:June–July 1945Cause**
+**Viceroy:** Lord **Wavell**
+**Plan announced:** **June 1945**
+**Simla Conference:** **June–July 1945**
+
+**Cause**
 
 - With the war in Europe over and Japan's defeat approaching, Wavell wanted to restart political talks and give India a genuinely Indian executive before deciding its post-war constitutional future.
 
@@ -456,8 +496,11 @@ D. V. P. Menon
 
 ## 14.13 Cabinet Mission (1946)
 
-**Members:Pethick-Lawrence, Stafford Cripps, A.V. AlexanderIn India:** March 1946
-**Plan:16 May 1946Cause**
+**Members:** **Pethick-Lawrence, Stafford Cripps, A.V. Alexander**
+**In India:** March 1946
+**Plan:** **16 May 1946**
+
+**Cause**
 
 - The Simla failure of 1945 had left the Congress–League deadlock unresolved. Attlee's new Labour government wanted a fresh, detailed constitutional plan before committing to any transfer of power.
 
@@ -498,7 +541,8 @@ D. (A) is false, but (R) is true
 ## 14.14 RIN Mutiny (18–23 February 1946)
 
 **Where:** Bombay, spreading to Karachi, Calcutta, Vizag and other naval stations
-**Ship where it began:*HMIS Talwar*Rating leaders:M.S. Khan**, Madan Singh
+**Ship where it began:** *HMIS Talwar*
+**Rating leaders:** **M.S. Khan**, Madan Singh
 
 **Cause**
 
@@ -521,13 +565,22 @@ D. (A) is false, but (R) is true
 
 ## 14.15 Direct Action Day and the Road to Partition
 
-**Called by:Muhammad Ali Jinnah** and the **Muslim League CouncilDate:16 August 1946**
+**Called by:** **Muhammad Ali Jinnah** and the **Muslim League Council**
+**Date:** **16 August 1946**
 
-- The League called Direct Action Day after the Cabinet Mission talks collapsed and after Congress alone entered the Interim Government negotiations on terms the League rejected.
+**Cause**
+
+- The League called Direct Action Day after the Cabinet Mission talks collapsed and after Congress alone entered Interim Government negotiations on terms the League rejected. The League wanted a show of strength for Pakistan outside the British constitutional timetable.
+
+**Course**
+
 - The call was for a **province-wide general strike and mass demonstration** in support of Pakistan; it was not framed as a formal satyagraha.
 - In **Calcutta**, the day set off severe **communal killing** that ran for several days; violence then spread to **Noakhali** (East Bengal) and, in reprisal, to **Bihar**.
 - The **Great Calcutta Killings of August 1946** are treated as the opening act of the communal violence that continued into 1947.
 - Renewed rioting followed in **Punjab and the NWFP** through late 1946 and 1947 as the transfer-of-power talks dragged on.
+
+**Result**
+
 - **Partition** emerged from this spiral as the price both the League and, eventually, Congress accepted to stop the killing and reach a fixed transfer date — it was not a British-imposed idea from the start, but a solution both major parties came to accept by 1947.
 - The final territorial line came only with the **Mountbatten Plan (3 June 1947)** and the **Radcliffe Boundary Commission**; the human cost was **large-scale refugee movement and communal killing** on both sides of the new Punjab and Bengal borders.
 - Keep the sequence clear: **Direct Action Day (16 Aug 1946)** is the spark; **communal violence 1946–47** is the climate; the **Mountbatten Plan and Boundary Commission (1947)** is the actual partition mechanism.
@@ -594,7 +647,7 @@ D. 2, 4, 1, 3
 ## 14.18 Mountbatten Plan (3 June 1947)
 
 **Viceroy:** Lord **Mountbatten** (arrived March 1947)
-**Plan:3 June 1947** (also called June 3 Plan)
+**Plan:** **3 June 1947** (also called June 3 Plan)
 
 **Cause**
 
@@ -602,7 +655,8 @@ D. 2, 4, 1, 3
 
 **Course**
 
-- Mountbatten first toyed with a fragmented **“Balkan Plan”**, then settled the **3 June 1947** Plan: two dominions; Punjab/Bengal partition votes; NWFP/Sylhet referendums; states to choose accession.
+- Mountbatten’s staff first drafted a fragmented **Plan Balkan / Dickie Bird Plan (May 1947)** under **General Hastings Ismay**: power would devolve to provinces and princely states with freedom to join India, Pakistan, or remain separate. When Mountbatten showed the draft secretly to **Nehru** at Simla, Nehru rejected it as a recipe for chaos; Mountbatten scrapped it.
+- He then settled the **3 June 1947** Plan: two dominions; Punjab/Bengal partition votes; NWFP/Sylhet referendums; states to choose accession.
 - A Boundary Commission under **Cyril Radcliffe** drew the line. **V.P. Menon** drafted much of the plan. Congress AICC accepted partition at Delhi (**14–15 June 1947**) under President **J.B. Kripalani**; resolution moved by **G.B. Pant**, seconded by **Azad**. **Khan Abdul Ghaffar Khan** voted against; **Saifuddin Kitchlew** called it surrender of nationalism to communalism.
 - Gandhi had urged Mountbatten to invite **Jinnah** to form the government as an alternative to partition — Congress leadership did not accept that line. At midnight **14/15 August**, **Sucheta Kripalani** sang *Jana Gana Mana* and *Sare Jahan Se Achha* in the Assembly.
 
@@ -610,15 +664,16 @@ D. 2, 4, 1, 3
 
 - Transfer of power was advanced from the promised June 1948 to **15 August 1947**, compressing the practical work of partition into just over two months.
 - The plan became law through the **Indian Independence Act (18 July 1947)**, taught next.
+- **Plan Balkan** is the discarded May draft; the **Mountbatten Plan** is the accepted **3 June** framework — do not swap them.
 
-> **Logic:** Mountbatten Plan = **3 June 1947**. The **Act** is **18 July**. Independence Day = **15 August**.
+> **Logic:** Mountbatten Plan = **3 June 1947**. The **Act** is **18 July**. Independence Day = **15 August**. Plan Balkan ≠ June 3 Plan.
 
 ---
 
 ## 14.19 Indian Independence Act, 1947
 
-**Passed:18 July 1947** (Royal Assent)
-**Effect:15 August 1947**
+**Passed:** **18 July 1947** (Royal Assent)
+**Effect:** **15 August 1947**
 
 - It created two independent **dominions**, India and Pakistan.
 - It ended British paramountcy over the princely states.

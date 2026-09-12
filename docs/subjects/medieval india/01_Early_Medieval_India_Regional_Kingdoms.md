@@ -184,12 +184,9 @@ Early Medieval India | Major Dynasties of South India | Major Rulers of South In
 
 *Row order in the table is not the answer code.*
 
-A. 2 1 4 3 |
-
-B. 2 3 4 1 |
-
-C. 1 2 3 4 |
-
+A. 2 1 4 3
+B. 2 3 4 1
+C. 1 2 3 4
 D. 2 4 3 1
 
 <details>
@@ -197,7 +194,7 @@ D. 2 4 3 1
 
 **Ans: B (2 3 4 1)Facts:** A–2 Pallava–Kanchi | B–3 Pandya–Madura | C–4 Yadava–Devagiri | D–1 Kakatiya–Warangal
 
-**Trap:Warangal** is **Kakatiya**, not Pallava; **Devagiri** is **Yadava**, not Pandya. Do not confuse **Kanchi** with **Kannauj**.
+**Trap:** Warangal** is **Kakatiya**, not Pallava; **Devagiri** is **Yadava**, not Pandya. Do not confuse **Kanchi** with **Kannauj**.
 
 </details>
 
@@ -212,12 +209,9 @@ D. 2 4 3 1
 
 *Row order in the table is not the answer code.*
 
-A. 4 2 3 1 |
-
-B. 2 4 1 3 |
-
-C. 2 4 3 1 |
-
+A. 4 2 3 1
+B. 2 4 1 3
+C. 2 4 3 1
 D. 4 2 1 3
 
 <details>
@@ -225,7 +219,7 @@ D. 4 2 1 3
 
 **Ans: B (2 4 1 3)Facts:** A–2 Mahendravarman I–Pallava | B–4 Kadungon–Pandya | C–1 Amoghavarsha I–Rashtrakuta | D–3 Rajaraja I–Chola
 
-**Trap:Amoghavarsha I** is **Rashtrakuta** (Manyakheta), not Chola; **Kadungon** revived the **Pandyas**, not the Pallavas.
+**Trap:** Amoghavarsha I** is **Rashtrakuta** (Manyakheta), not Chola; **Kadungon** revived the **Pandyas**, not the Pallavas.
 
 </details>
 
@@ -275,12 +269,9 @@ III. Shore temple of Mahabalipuram
 
 IV. Sapt pagoda
 
-A. I, II, IV, III |
-
-B. II, I, III, IV |
-
-C. III, II, I, IV |
-
+A. I, II, IV, III
+B. II, I, III, IV
+C. III, II, I, IV
 D. IV, III, I, II
 
 <details>
@@ -337,24 +328,23 @@ D. IV, III, I, II
 
 Reason (R): Control of **Vengi** and the **Tungabhadra doab** was strategically valuable to both.
 
-A. Both true, R explains A |
-
-B. Both true, R not explanation |
-
-C. A true, R false |
-
+A. Both true, R explains A
+B. Both true, R not explanation
+C. A true, R false
 D. A false, R true
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A (Both true, R explains A)A is true:Western Chalukyas of Kalyani** repeatedly fought the **Cholas**.
+**A/R logic:** A is true: Western Chalukyas of Kalyani repeatedly fought the **Cholas**.
+
+**Ans: A (Both true, R explains A).**
 
 **R is true:Vengi** and the **Tungabhadra doab** were strategically valuable to both.
 
 **Why R explains A:** Control of those regions **motivated** the recurring wars.
 
-**Trap:Badami/Vatapi** = Early Chalukya; **Kalyani** = Western Chalukya — do not swap capitals.
+**Trap:** Badami/Vatapi** = Early Chalukya; **Kalyani** = Western Chalukya — do not swap capitals.
 
 </details>
 
@@ -382,7 +372,7 @@ D. A false, R true
 - The empire ended when Manyakheta fell in **972**.
 - Western Chalukyas rose in its place.
 
-> **Logic:**Amoghavarsha I = Rashtrakuta** (not Chola/Pallava). **Hiranyagarbha** = Dantidurga. Manyakheta is not a Pratihara capital.
+> **Logic:** Amoghavarsha I = Rashtrakuta (not Chola/Pallava). **Hiranyagarbha** = Dantidurga. Manyakheta is not a Pratihara capital.
 
 ---
 
@@ -430,18 +420,17 @@ D. A false, R true
 
 **Reason (R):** The Chola rulers adopted the practice of having inscriptions written on the walls of temples giving a historical narrative of their victories.
 
-A. Both true and R explains A |
-
-B. Both true, R not explanation |
-
-C. A true, R false |
-
+A. Both true and R explains A
+B. Both true, R not explanation
+C. A true, R false
 D. A false, R true
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A (Both true, R explains A)A is true:** Chola inscriptions, copper plates, temple records, and foreign references outrun Pallava and early Pandya documentation.
+**A/R logic:** A is true: Chola inscriptions, copper plates, temple records, and foreign references outrun Pallava and early Pandya documentation.
+
+**Ans: A (Both true, R explains A).**
 
 **R is true:** Rajaraja I and Rajendra I inscribed **victory narratives on temple walls** (e.g. Brihadishwara, Gangaikondacholapuram).
 
@@ -471,7 +460,7 @@ D. A false, R true
 - Temple institutions stored land, cash, and inscription records.
 - Administration and religion were tightly linked through these temple networks.
 
-> **Logic:**Nadu** is the basic territorial unit below Valanadu; **Mandalam** is the province. Do not reverse them.
+> **Logic:** Nadu is the basic territorial unit below Valanadu; **Mandalam** is the province. Do not reverse them.
 
 ---
 
@@ -502,7 +491,7 @@ D. A false, R true
 | **Taniyur** | A **very large village** administered as a single unit (not “land gifted to one Brahmana”) |
 | **Ghatika** | A college generally attached to a temple |
 
-> **Logic:**Ur ≠ Sabha**. Sabha = Brahmana agrahara assembly with stronger autonomy. **Taniyur ≠ Brahmadeya gift** in the usual wrong-pair stem.
+> **Logic:** Ur ≠ Sabha**. Sabha = Brahmana agrahara assembly with stronger autonomy. **Taniyur ≠ Brahmadeya gift** in the usual wrong-pair stem.
 
 ---
 
@@ -534,22 +523,21 @@ D. A false, R true
 
 Reason (R): **Rajendra I's** naval campaigns secured dominance over Bay of Bengal trade lanes including **Kadaram**.
 
-A. Both true, R explains A |
-
-B. Both true, R not explanation |
-
-C. A true, R false |
-
+A. Both true, R explains A
+B. Both true, R not explanation
+C. A true, R false
 D. A false, R true
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A (Both true, R explains A)A is true:** Imperial Chola naval power led contemporaries to call the **Bay of Bengal** the **“Chola Lake.”R is true:Rajendra I's1025** campaigns hit **Kadaram (Kedah)** and **Srivijaya**, securing trade lanes.
+**A/R logic:** A is true: Imperial Chola naval power led contemporaries to call the **Bay of Bengal** the **“Chola Lake.”R is true:Rajendra I's1025** campaigns hit **Kadaram (Kedah)** and **Srivijaya**, securing trade lanes.
+
+**Ans: A (Both true, R explains A).**
 
 **Why R explains A:** Naval dominance over Bay trade routes **caused** the nickname.
 
-**Trap:Kadaram 1025** = **Rajendra I**, not Rajaraja I.
+**Trap:** Kadaram 1025** = **Rajendra I**, not Rajaraja I.
 
 </details>
 
@@ -578,7 +566,7 @@ D. A false, R true
 - **Krishna III (Rashtrakuta)** invaded again in **963**, hastening Pratihara collapse.
 - Feudatories later became **Paramaras**, **Chandelas**, and **Chauhans** as the empire cracked.
 
-> **Logic:**Mihir Bhoja = Pratihara** (title **Adivaraha**). Not the same person as **Paramara Bhoja** of Dhara. Kannauj = **Mahodaya / Mahodaya Shri**.
+> **Logic:** Mihir Bhoja = Pratihara (title **Adivaraha**). Not the same person as **Paramara Bhoja** of Dhara. Kannauj = **Mahodaya / Mahodaya Shri**.
 
 ---
 
@@ -588,7 +576,7 @@ D. A false, R true
 **Actors:Palas** (east), **Gurjara-Pratiharas** (west), **Rashtrakutas** (south) | **Prize:Kannauj** symbolic capital
 
 **Cause:** After Harsha's empire, **Kannauj** became the prestige seat of north Indian kingship. Three regional powers fought to control it and the **doab** trade routes.
-**Course:Dharmapala** installed a Pala nominee at Kannauj. **Mihir Bhoja** (Pratihara) recovered the city. **Dhruva** and **Govinda III** (Rashtrakutas) raided north and temporarily held Kannauj; **Indra III** famously sacked it.
+**Course:** Dharmapala** installed a Pala nominee at Kannauj. **Mihir Bhoja** (Pratihara) recovered the city. **Dhruva** and **Govinda III** (Rashtrakutas) raided north and temporarily held Kannauj; **Indra III** famously sacked it.
 **Result:** No single power permanently united India. The struggle weakened all three and left the **Gangetic plain** open to later **Turkish** breakthroughs after **Pratihara** decline.
 
 **Three powers:Pala** (Bengal–Bihar) + **Gurjara-Pratihara** (Rajasthan–UP) + **Rashtrakuta** (Deccan) | **Prize:Kannauj** (post-Harsha sovereignty symbol)
@@ -638,7 +626,7 @@ D. A false, R true
 - In the Mithila / north Bihar belt, the **Karnata** dynasty was founded by **Nanyadeva (c. 1097–1147)** with capital at **Simraungadh**.
 - The last major Karnata king was **Harisimha (c. 1295–1324)**, remembered for protecting arts and starting the **Panji** system.
 
-> **Logic:**Gopala = elected founder + Odantapuri**. **Vikramashila / Somapura = Dharmapala**. Balaputradeva = Sailendra request under **Devapala**.
+> **Logic:** Gopala = elected founder + Odantapuri**. **Vikramashila / Somapura = Dharmapala**. Balaputradeva = Sailendra request under **Devapala**.
 
 ---
 
@@ -677,12 +665,9 @@ D. A false, R true
 
 4. Vijaya Sen
 
-A. 4, 3, 2, 1 |
-
-B. 2, 1, 4, 3 |
-
-C. 1, 2, 3, 4 |
-
+A. 4, 3, 2, 1
+B. 2, 1, 4, 3
+C. 1, 2, 3, 4
 D. 3, 4, 1, 2
 
 <details>
@@ -712,7 +697,7 @@ D. 3, 4, 1, 2
 - Paramara architecture and learning mark **Malwa**.
 - They must not be confused with Bundelkhand temples of the Chandelas.
 
-> **Logic:**Dhara / Malwa = Paramara**. **Khajuraho = Chandela**. **Mihir Bhoja ≠ Paramara Bhoja**. Bhojshala deity = **Saraswati**.
+> **Logic:** Dhara / Malwa = Paramara**. **Khajuraho = Chandela**. **Mihir Bhoja ≠ Paramara Bhoja**. Bhojshala deity = **Saraswati**.
 
 ---
 
@@ -788,24 +773,23 @@ D. 3, 4, 1, 2
 
 Reason (R): **Kannauj** was the political sovereignty seat while **Kashi/Banaras** was the major religious-cultural centre.
 
-A. Both true, R explains A |
-
-B. Both true, R not explanation |
-
-C. A true, R false |
-
+A. Both true, R explains A
+B. Both true, R not explanation
+C. A true, R false
 D. A false, R true
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A (Both true, R explains A)A is true:Kannauj** and **Kashi** held **different symbolic roles** for Gahadavalas.
+**A/R logic:** A is true: Kannauj and **Kashi** held **different symbolic roles** for Gahadavalas.
+
+**Ans: A (Both true, R explains A).**
 
 **R is true:** Kannauj was the **political seat**; Kashi was the **religious-cultural centre**.
 
 **Why R explains A:** R states **how** the two cities differed in function.
 
-**Trap:Jay Chandra** died at **Chandawar (1194)**, not Tarain (1192).
+**Trap:** Jay Chandra** died at **Chandawar (1194)**, not Tarain (1192).
 
 </details>
 
@@ -823,7 +807,7 @@ D. A false, R true
 - The Kalachuri capital was **Tripuri** near Jabalpur. Do not match it with Paramara **Dhara**, Chandela **Khajuraho**, or **Kannauj**.
 - Their rise forms part of the wider **Rajput regional state** map after Pratihara decline.
 
-> **Logic:**Tripuri / Jabalpur belt = Kalachuri**. **Gangeyadeva ≠ Paramara**. Do not park them at Dhara or Mahoba.
+> **Logic:** Tripuri / Jabalpur belt = Kalachuri**. **Gangeyadeva ≠ Paramara**. Do not park them at Dhara or Mahoba.
 
 ---
 
@@ -863,18 +847,17 @@ D. A false, R true
 
 Reason (R): Inscriptions record her under the royal name **Rudradeva**.
 
-A. Both true, R explains A |
-
-B. Both true, R not explanation |
-
-C. A true, R false |
-
+A. Both true, R explains A
+B. Both true, R not explanation
+C. A true, R false
 D. A false, R true
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A (Both true, R explains A)A is true:Rudramadevi** ruled the **Kakatiyas**.
+**A/R logic:** A is true: Rudramadevi ruled the **Kakatiyas**.
+
+**Ans: A (Both true, R explains A).**
 
 **R is true:** Inscriptions record her under the royal name **Rudradeva**.
 
@@ -905,18 +888,17 @@ D. A false, R true
 
 **1. (UPPCS Prelims 2018, Q96)** Which of the following pairs is **NOT** correctly matched (State–Ruler)?
 
-A. Devgiri–Shankar Dev |
-
-B. Warangal–Ramchandra Dev |
-
-C. Hoysal–Veer Ballal |
-
+A. Devgiri–Shankar Dev
+B. Warangal–Ramchandra Dev
+C. Hoysal–Veer Ballal
 D. Madura–Veer Pandya
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: BWhy wrong:Ramachandra Dev** was a **Yadava** ruler of **Devagiri** (later Daulatabad), not a **Kakatiya** ruler of **Warangal (Orugallu)**.
+**Logic:** Ramachandra Dev was a **Yadava** ruler of **Devagiri** (later Daulatabad), not a **Kakatiya** ruler of **Warangal (Orugallu)**.
+
+**Ans: B.**
 
 **Trap:** **Devagiri = Yadava** and **Warangal = Kakatiya** — do not swap this Deccan capital pair.
 
@@ -962,19 +944,16 @@ Match List-I (Ruler) with List-II (Dynasty):
 
 *Row order in the table is not the answer code.*
 
-A. 4 2 3 1 |
-
-B. 2 4 1 3 |
-
-C. 2 4 3 1 |
-
+A. 4 2 3 1
+B. 2 4 1 3
+C. 2 4 3 1
 D. 4 2 1 3
 
 <details><summary>Show answer</summary>
 
 **Ans: B (2 4 1 3)Facts:** A–2 Mahendravarman I–Pallava | B–4 Kadungon–Pandya | C–1 Amoghavarsha I–Rashtrakuta | D–3 Rajaraja I–Chola
 
-**Trap:Amoghavarsha I** = **Rashtrakuta** (Manyakheta); **Kadungon** = Pandya revival, not Pallava.
+**Trap:** Amoghavarsha I** = **Rashtrakuta** (Manyakheta); **Kadungon** = Pandya revival, not Pallava.
 
 </details>
 
@@ -1017,7 +996,9 @@ D. (A) is false but (R) is true
 
 <details><summary>Show answer</summary>
 
-**Ans: A (Both true, R explains A)** — **UPPCS 2020 Q8A is true:** Chola inscriptions, copper plates, and temple records outrun earlier Tamil dynasties.
+**A/R logic:** A is true: Chola inscriptions, copper plates, and temple records outrun earlier Tamil dynasties.
+
+**Ans: A (Both true, R explains A).**
 
 **R is true:** Chola rulers inscribed **victory narratives on temple walls**.
 
@@ -1040,19 +1021,16 @@ Match List-I (Ruling Dynasties) with List-II (Capitals):
 
 *Row order in the table is not the answer code.*
 
-A. 2 1 4 3 |
-
-B. 2 3 4 1 |
-
-C. 1 2 3 4 |
-
+A. 2 1 4 3
+B. 2 3 4 1
+C. 1 2 3 4
 D. 2 4 3 1
 
 <details><summary>Show answer</summary>
 
 **Ans: B (2 3 4 1)Facts:** A–2 Pallava–Kanchi | B–3 Pandya–Madura | C–4 Yadava–Devagiri | D–1 Kakatiya–Warangal
 
-**Trap:Devagiri** = Yadava; **Warangal** = Kakatiya — never swap this pair.
+**Trap:** Devagiri** = Yadava; **Warangal** = Kakatiya — never swap this pair.
 
 </details>
 
@@ -1092,7 +1070,9 @@ D. Madura — Veer Pandya
 
 <details><summary>Show answer</summary>
 
-**Ans: BWhy wrong:Ramachandra Dev** was a **Yadava** ruler of **Devagiri**, not a **Kakatiya** ruler of **Warangal**.
+**Logic:** Ramachandra Dev was a **Yadava** ruler of **Devagiri**, not a **Kakatiya** ruler of **Warangal**.
+
+**Ans: B.**
 
 **Trap:** **Devagiri = Yadava** | **Warangal = Kakatiya** — do not swap this Deccan capital pair.
 
@@ -1136,17 +1116,16 @@ D. A-2, B-3, C-4, D-1
 1. The period is conventionally taken as roughly 750–1200 CE after Harsha.
 2. A single pan-India empire continuously controlled the whole subcontinent in this age.
 
-A. Only 1 |
-
-B. Only 2 |
-
-C. Both 1 and 2 |
-
+A. Only 1
+B. Only 2
+C. Both 1 and 2
 D. Neither 1 nor 2
 
 <details><summary>Show answer</summary>
 
-**Ans: AKey:** Statement 1 **true** (~750–1200 CE post-Harsha regional age). Statement 2 **false** (no Gupta-style pan-India empire).
+**Logic:** ** Statement 1 **true** (~750–1200 CE post-Harsha regional age). Statement 2 **false** (no Gupta-style pan-India empire).
+
+**Ans: A.**
 
 **Trap:** Confusing **Early Medieval** (~750–1200) with **Delhi Sultanate** (from **1206**).
 
@@ -1157,17 +1136,16 @@ D. Neither 1 nor 2
 1. Palas, Gurjara-Pratiharas and Rashtrakutas fought for Kannauj.
 2. The Cholas were the fourth permanent participant for Kannauj.
 
-A. Only 1 |
-
-B. Only 2 |
-
-C. Both |
-
+A. Only 1
+B. Only 2
+C. Both
 D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: AKey:** Statement 1 **true** (Pala, Pratihara, Rashtrakuta for Kannauj). Statement 2 **false** (exactly **three** powers; Cholas fought in the south).
+**Logic:** ** Statement 1 **true** (Pala, Pratihara, Rashtrakuta for Kannauj). Statement 2 **false** (exactly **three** powers; Cholas fought in the south).
+
+**Ans: A.**
 
 **Trap:** Adding **Chola** or **Chauhan** as a fourth Kannauj tripartite seat.
 
@@ -1182,12 +1160,9 @@ D. Neither
 | C. Yadava | 3. Madura |
 | D. Kakatiya | 4. Devagiri |
 
-A. 2 1 4 3 |
-
-B. 2 3 4 1 |
-
-C. 1 2 3 4 |
-
+A. 2 1 4 3
+B. 2 3 4 1
+C. 1 2 3 4
 D. 2 4 3 1
 
 <details><summary>Show answer</summary>
@@ -1207,12 +1182,9 @@ D. 2 4 3 1
 | C. Amoghavarsha I | 3. Chola |
 | D. Rajaraja I | 4. Pandya |
 
-A. 2 4 1 3 |
-
-B. 2 4 3 1 |
-
-C. 4 2 1 3 |
-
+A. 2 4 1 3
+B. 2 4 3 1
+C. 4 2 1 3
 D. 1 2 3 4
 
 <details><summary>Show answer</summary>
@@ -1226,17 +1198,16 @@ D. 1 2 3 4
 **Q5.** Assertion (A): We have much more information about Cholas than their predecessors.
 Reason (R): Chola rulers had historical narratives of victories inscribed on temple walls.
 
-A. Both true, R explains A |
-
-B. Both true, R not explanation |
-
-C. A true, R false |
-
+A. Both true, R explains A
+B. Both true, R not explanation
+C. A true, R false
 D. A false, R true
 
 <details><summary>Show answer</summary>
 
-**Ans: A (Both true, R explains A)** — **UPPCS 2020 Q8A is true:** Chola inscriptions, copper plates, and temple records outrun earlier Tamil dynasties.
+**A/R logic:** A is true: Chola inscriptions, copper plates, and temple records outrun earlier Tamil dynasties.
+
+**Ans: A (Both true, R explains A).**
 
 **R is true:** Victory narratives were inscribed on **temple walls**.
 
@@ -1246,12 +1217,9 @@ D. A false, R true
 
 **Q6.** Arrange Sen rulers of Bengal in ascending order: 1. Ballal Sen 2. Lakshman Sen 3. Hemant Sen 4. Vijaya Sen
 
-A. 4 3 2 1 |
-
-B. 2 1 4 3 |
-
-C. 1 2 3 4 |
-
+A. 4 3 2 1
+B. 2 1 4 3
+C. 1 2 3 4
 D. 3 4 1 2
 
 <details><summary>Show answer</summary>
@@ -1264,12 +1232,9 @@ D. 3 4 1 2
 
 **Q7.** Arrange chronologically: 1. Brihadishwara temple 2. Gangaikondacholapuram temple 3. Shore temple, Mahabalipuram
 
-A. 1-2-3 |
-
-B. 3-1-2 |
-
-C. 3-2-1 |
-
+A. 1-2-3
+B. 3-1-2
+C. 3-2-1
 D. 2-1-3
 
 <details><summary>Show answer</summary>
@@ -1287,17 +1252,16 @@ D. 2-1-3
 3. Pandya — Madurai
 4. Rashtrakuta — Manyakheta
 
-A. Only 2 |
-
-B. 1 and 2 |
-
-C. Only 3 |
-
+A. Only 2
+B. 1 and 2
+C. Only 3
 D. 2 and 4
 
 <details><summary>Show answer</summary>
 
-**Ans: AWhy wrong:Yadava** capital is **Devagiri**; **Warangal** is **Kakatiya**.
+**Logic:** Yadava capital is **Devagiri**; **Warangal** is **Kakatiya**.
+
+**Ans: A.**
 
 **Trap:** Only statement 2 is wrong — do not pick options that also fault Pallava–Kanchi or Rashtrakuta–Manyakheta.
 
@@ -1309,17 +1273,16 @@ D. 2 and 4
 2. Aihole inscription of Ravikirti praises Pulakeshin II.
 3. Early Chalukya capital was Kalyani.
 
-A. Only one |
-
-B. Only two |
-
-C. All three |
-
+A. Only one
+B. Only two
+C. All three
 D. None
 
 <details><summary>Show answer</summary>
 
-**Ans: BKey:** Statement 1 **true** (Pulakeshin II vs Harsha). Statement 2 **true** (Aihole inscription of Ravikirti). Statement 3 **false** (Early capital = **Badami/Vatapi**; **Kalyani** = Western Chalukyas).
+**Logic:** ** Statement 1 **true** (Pulakeshin II vs Harsha). Statement 2 **true** (Aihole inscription of Ravikirti). Statement 3 **false** (Early capital = **Badami/Vatapi**; **Kalyani** = Western Chalukyas).
+
+**Ans: B.**
 
 **Trap:** Parking **Kalyani** under Early Chalukyas — Badami ≠ Kalyani.
 
@@ -1330,17 +1293,16 @@ D. None
 1. Ur was the assembly of an ordinary village.
 2. Sabha/Mahasabha was the Brahmana assembly of an agrahara village.
 
-A. Only 1 |
-
-B. Only 2 |
-
-C. Both |
-
+A. Only 1
+B. Only 2
+C. Both
 D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: CKey:** Statement 1 **true** (Ur = general village assembly). Statement 2 **true** (Sabha/Mahasabha = Brahmana **agrahara** assembly).
+**Logic:** ** Statement 1 **true** (Ur = general village assembly). Statement 2 **true** (Sabha/Mahasabha = Brahmana **agrahara** assembly).
+
+**Ans: C.**
 
 **Trap:** Reversing **Ur** and **Sabha** — Sabha has stronger Brahmana autonomy.
 
@@ -1349,17 +1311,16 @@ D. Neither
 1. Mandalam was a province.
 2. Nadu was a larger unit than Mandalam.
 
-A. Only 1 |
-
-B. Only 2 |
-
-C. Both |
-
+A. Only 1
+B. Only 2
+C. Both
 D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: AKey:** Statement 1 **true** (Mandalam = province). Statement 2 **false** (**Nadu** is below Mandalam, not larger).
+**Logic:** ** Statement 1 **true** (Mandalam = province). Statement 2 **false** (**Nadu** is below Mandalam, not larger).
+
+**Ans: A.**
 
 **Trap:** Reversing **Nadu** and **Mandalam** in the hierarchy.
 
@@ -1368,17 +1329,16 @@ D. Neither
 **Q12.** Assertion (A): Bay of Bengal was called “Chola Lake” in the imperial Chola age.
 Reason (R): Rajendra I’s naval campaigns secured dominance over Bay of Bengal trade lanes including Kadaram.
 
-A. Both true, R explains A |
-
-B. Both true, R not explanation |
-
-C. A true, R false |
-
+A. Both true, R explains A
+B. Both true, R not explanation
+C. A true, R false
 D. A false, R true
 
 <details><summary>Show answer</summary>
 
-**Ans: A (Both true, R explains A)A is true:** Imperial Chola naval power led contemporaries to call the **Bay of Bengal** the **“Chola Lake.”R is true:Rajendra I's1025** campaigns hit **Kadaram (Kedah)** and **Srivijaya**, securing trade lanes.
+**A/R logic:** A is true: Imperial Chola naval power led contemporaries to call the **Bay of Bengal** the **“Chola Lake.”R is true:Rajendra I's1025** campaigns hit **Kadaram (Kedah)** and **Srivijaya**, securing trade lanes.
+
+**Ans: A (Both true, R explains A).**
 
 **Why R explains A:** Naval dominance over Bay trade routes **caused** the nickname.
 
@@ -1390,17 +1350,16 @@ D. A false, R true
 2. Brihadishwara — Rajendra I, 1025
 3. Gangaikondachola — title of Rajendra I
 
-A. Only 1 and 2 |
-
-B. Only 1 and 3 |
-
-C. Only 2 and 3 |
-
+A. Only 1 and 2
+B. Only 1 and 3
+C. Only 2 and 3
 D. All three
 
 <details><summary>Show answer</summary>
 
-**Ans: BKey:** Statement 1 **true** (Kadaram = Kedah). Statement 2 **false** (Brihadishwara = **Rajaraja I, 1010**). Statement 3 **true** (Gangaikondachola = Rajendra I's title).
+**Logic:** ** Statement 1 **true** (Kadaram = Kedah). Statement 2 **false** (Brihadishwara = **Rajaraja I, 1010**). Statement 3 **true** (Gangaikondachola = Rajendra I's title).
+
+**Ans: B.**
 
 **Trap:** Brihadishwara **1010** under **Rajaraja**, not Rajendra **1025**.
 
@@ -1415,19 +1374,16 @@ D. All three
 | C. Amoghavarsha I | 3. Rashtrakuta |
 | D. Gopala | 4. Elected Pala founder |
 
-A. 2 1 3 4 |
-
-B. 1 2 3 4 |
-
-C. 2 1 4 3 |
-
+A. 2 1 3 4
+B. 1 2 3 4
+C. 2 1 4 3
 D. 1 2 4 3
 
 <details><summary>Show answer</summary>
 
 **Ans: A (2 1 3 4)Facts:** A–2 Mihir Bhoja–Pratihara (Adivaraha) | B–1 Bhoja I–Paramara (Dhara) | C–3 Amoghavarsha I–Rashtrakuta | D–4 Gopala–elected Pala founder
 
-**Trap:Two Bhojas** — Mihir Bhoja = Pratihara; Bhoja I = Paramara.
+**Trap:** Two Bhojas** — Mihir Bhoja = Pratihara; Bhoja I = Paramara.
 
 </details>
 
@@ -1435,17 +1391,16 @@ D. 1 2 4 3
 2. Gopala was elected by chiefs after anarchy.
 3. Senas preceded Palas in Bengal.
 
-A. Only 1 and 2 |
-
-B. Only 2 and 3 |
-
-C. Only 1 and 3 |
-
+A. Only 1 and 2
+B. Only 2 and 3
+C. Only 1 and 3
 D. All three
 
 <details><summary>Show answer</summary>
 
-**Ans: AKey:** Statement 1 **true** (Dharmapala founded Vikramashila). Statement 2 **true** (Gopala elected). Statement 3 **false** (Senas **replaced** Palas).
+**Logic:** ** Statement 1 **true** (Dharmapala founded Vikramashila). Statement 2 **true** (Gopala elected). Statement 3 **false** (Senas **replaced** Palas).
+
+**Ans: A.**
 
 **Trap:** Senas preceded Palas — chronological reversal.
 
@@ -1453,12 +1408,9 @@ D. All three
 
 **Q16.** Arrange: 1. Indra III sacks Kannauj 2. Mihir Bhoja recovers Kannauj (~836) 3. Vijayalaya takes Thanjavur (~850)
 
-A. 2-3-1 |
-
-B. 3-2-1 |
-
-C. 1-2-3 |
-
+A. 2-3-1
+B. 3-2-1
+C. 1-2-3
 D. 2-1-3
 
 <details><summary>Show answer</summary>
@@ -1471,17 +1423,16 @@ D. 2-1-3
 
 **Q17.** Which pair is NOT correctly matched?
 
-A. Devgiri — Shankar Dev |
-
-B. Warangal — Ramchandra Dev |
-
-C. Hoysal — Veer Ballal |
-
+A. Devgiri — Shankar Dev
+B. Warangal — Ramchandra Dev
+C. Hoysal — Veer Ballal
 D. Madura — Veer Pandya
 
 <details><summary>Show answer</summary>
 
-**Ans: BWhy wrong:Ramachandra** = **Yadava/Devagiri**, not Warangal (Kakatiya).
+**Logic:** Ramachandra = **Yadava/Devagiri**, not Warangal (Kakatiya).
+
+**Ans: B.**
 
 **Trap:** Deccan capital swap — **Devagiri** is Yadava; **Warangal** is Kakatiya.
 
@@ -1493,17 +1444,16 @@ D. Madura — Veer Pandya
 2. Al-Masudi praised Pratihara cavalry.
 3. Their lasting capital under Mihir Bhoja was Manyakheta.
 
-A. Only 1 and 2 |
-
-B. Only 2 and 3 |
-
-C. Only 1 and 3 |
-
+A. Only 1 and 2
+B. Only 2 and 3
+C. Only 1 and 3
 D. All three
 
 <details><summary>Show answer</summary>
 
-**Ans: AKey:** Statement 1 **true** (Nagabhatta I vs Arabs). Statement 2 **true** (Al-Masudi praised cavalry). Statement 3 **false** (capital = **Kannauj**; **Manyakheta** = Rashtrakuta).
+**Logic:** ** Statement 1 **true** (Nagabhatta I vs Arabs). Statement 2 **true** (Al-Masudi praised cavalry). Statement 3 **false** (capital = **Kannauj**; **Manyakheta** = Rashtrakuta).
+
+**Ans: A.**
 
 **Trap:** Manyakheta mis-assigned to Pratiharas.
 
@@ -1516,17 +1466,16 @@ D. All three
 3. Kalachuri — Tripuri
 4. Gahadavala — Halebid
 
-A. Only one |
-
-B. Only two |
-
-C. Only three |
-
+A. Only one
+B. Only two
+C. Only three
 D. All four
 
 <details><summary>Show answer</summary>
 
-**Ans: CKey:** Pairs 1–3 **correct** (Chandela–Khajuraho, Paramara–Dhara, Kalachuri–Tripuri). Pair 4 **wrong** (Gahadavala = Kannauj + Banaras; **Halebid** = Hoysala).
+**Logic:** ** Pairs 1–3 **correct** (Chandela–Khajuraho, Paramara–Dhara, Kalachuri–Tripuri). Pair 4 **wrong** (Gahadavala = Kannauj + Banaras; **Halebid** = Hoysala).
+
+**Ans: C.**
 
 **Trap:** Parking Gahadavalas at **Halebid** — that is Hoysala capital.
 
@@ -1538,19 +1487,18 @@ D. All four
 2. Jay Chandra was killed at Tarain in 1192.
 3. They held Kannauj and Banaras.
 
-A. Only 1 and 2 |
-
-B. Only 1 and 3 |
-
-C. Only 2 and 3 |
-
+A. Only 1 and 2
+B. Only 1 and 3
+C. Only 2 and 3
 D. All three
 
 <details><summary>Show answer</summary>
 
-**Ans: BKey:** Statement 1 **true** (Govind Chandra greatest). Statement 2 **false** (Jay Chandra died **Chandawar 1194**). Statement 3 **true** (Kannauj + Banaras).
+**Logic:** ** Statement 1 **true** (Govind Chandra greatest). Statement 2 **false** (Jay Chandra died **Chandawar 1194**). Statement 3 **true** (Kannauj + Banaras).
 
-**Trap:Tarain 1192** = Prithviraj; **Chandawar 1194** = Jay Chandra.
+**Ans: B.**
+
+**Trap:** Tarain 1192** = Prithviraj; **Chandawar 1194** = Jay Chandra.
 
 </details>
 
@@ -1563,12 +1511,9 @@ D. All three
 | C. Kalinjar | 3. Saketa |
 | D. Mahoba | 4. Chandela capital |
 
-A. 2 3 1 4 |
-
-B. 2 3 4 1 |
-
-C. 3 2 1 4 |
-
+A. 2 3 1 4
+B. 2 3 4 1
+C. 3 2 1 4
 D. 2 1 3 4
 
 <details><summary>Show answer</summary>
@@ -1584,12 +1529,9 @@ D. 2 1 3 4
 2. Krishna I is associated with Kailasa temple, Ellora.
 3. Amoghavarsha I was a Pallava ruler.
 
-A. Only 1 and 2 |
-
-B. Only 2 and 3 |
-
-C. Only 1 and 3 |
-
+A. Only 1 and 2
+B. Only 2 and 3
+C. Only 1 and 3
 D. All three
 
 <details><summary>Show answer</summary>
@@ -1604,12 +1546,9 @@ D. All three
 2. Devagiri later came to be called Daulatabad.
 3. Warangal was the Yadava capital.
 
-A. Only 1 and 2 |
-
-B. Only 2 and 3 |
-
-C. Only 1 and 3 |
-
+A. Only 1 and 2
+B. Only 2 and 3
+C. Only 1 and 3
 D. All three
 
 <details><summary>Show answer</summary>
@@ -1620,12 +1559,9 @@ D. All three
 
 **Q25.** Arrange south power markers earliest to later: 1. Western Chalukyas of Kalyani rise after Rashtrakuta fall 2. Pulakeshin II’s Badami phase 3. Vijayalaya captures Thanjavur
 
-A. 2-3-1 |
-
-B. 3-2-1 |
-
-C. 2-1-3 |
-
+A. 2-3-1
+B. 3-2-1
+C. 2-1-3
 D. 1-2-3
 
 <details><summary>Show answer</summary>
@@ -1640,17 +1576,16 @@ D. 1-2-3
 2. Hoysalesvara temple is a Hoysala monument.
 3. Their capital was Manyakheta.
 
-A. Only 1 and 2 |
-
-B. Only 1 and 3 |
-
-C. Only 2 and 3 |
-
+A. Only 1 and 2
+B. Only 1 and 3
+C. Only 2 and 3
 D. All three
 
 <details><summary>Show answer</summary>
 
-**Ans: AKey:** Statement 1 **true** (Halebid/Dvarasamudra). Statement 2 **true** (Hoysalesvara). Statement 3 **false** (Manyakheta = **Rashtrakuta**).
+**Logic:** ** Statement 1 **true** (Halebid/Dvarasamudra). Statement 2 **true** (Hoysalesvara). Statement 3 **false** (Manyakheta = **Rashtrakuta**).
+
+**Ans: A.**
 
 **Trap:** Parking Hoysala capital at **Manyakheta** — that is Rashtrakuta.
 
@@ -1660,12 +1595,9 @@ D. All three
 2. Adivaraha — Mihir Bhoja
 3. Gangaikondachola — Rajaraja I
 
-A. Only one |
-
-B. Only two |
-
-C. All three |
-
+A. Only one
+B. Only two
+C. All three
 D. None
 
 <details><summary>Show answer</summary>
@@ -1681,12 +1613,9 @@ D. None
 3. Rashtrakuta — Kanchi
 4. Chola — Thanjavur
 
-A. Only 3 |
-
-B. Only 2 |
-
-C. 1 and 3 |
-
+A. Only 3
+B. Only 2
+C. 1 and 3
 D. 3 and 4
 
 <details><summary>Show answer</summary>
@@ -1701,17 +1630,16 @@ D. 3 and 4
 2. Kadaram expedition of 1025 is credited to Rajendra I.
 3. China embassies are recorded in 1016, 1033 and 1077.
 
-A. Only 1 and 2 |
-
-B. Only 2 and 3 |
-
-C. Only 1 and 3 |
-
+A. Only 1 and 2
+B. Only 2 and 3
+C. Only 1 and 3
 D. All three
 
 <details><summary>Show answer</summary>
 
-**Ans: DKey:** Statement 1 **true** (Maldives under Rajaraja I). Statement 2 **true** (Kadaram **1025** = Rajendra I). Statement 3 **true** (China embassies **1016, 1033, 1077**).
+**Logic:** ** Statement 1 **true** (Maldives under Rajaraja I). Statement 2 **true** (Kadaram **1025** = Rajendra I). Statement 3 **true** (China embassies **1016, 1033, 1077**).
+
+**Ans: D.**
 
 **Trap:** Swapping **Rajaraja** (Maldives) and **Rajendra** (Kadaram **1025**).
 
@@ -1722,17 +1650,16 @@ D. All three
 2. Lakshman Sen’s court is associated with Jayadeva.
 3. Bakhtiyar Khalji ended Sena power at Nadia in 1204.
 
-A. Only 1 and 2 |
-
-B. Only 2 and 3 |
-
-C. Only 1 and 3 |
-
+A. Only 1 and 2
+B. Only 2 and 3
+C. Only 1 and 3
 D. All three
 
 <details><summary>Show answer</summary>
 
-**Ans: DKey:** Statement 1 **true** (Ballal Sen compiled **Danasagara**). Statement 2 **true** (Jayadeva at Lakshman Sen's court). Statement 3 **true** (Bakhtiyar took **Nadia 1204**).
+**Logic:** ** Statement 1 **true** (Ballal Sen compiled **Danasagara**). Statement 2 **true** (Jayadeva at Lakshman Sen's court). Statement 3 **true** (Bakhtiyar took **Nadia 1204**).
+
+**Ans: D.**
 
 **Trap:** Thinking Senas preceded Palas — Senas **replaced** Palas in Bengal.
 
@@ -1745,12 +1672,9 @@ D. All three
 | C. Vishnuvardhana | 3. Hoysala peak |
 | D. Rudramadevi | 4. Kakatiya |
 
-A. 2 1 3 4 |
-
-B. 1 2 3 4 |
-
-C. 2 1 4 3 |
-
+A. 2 1 3 4
+B. 1 2 3 4
+C. 2 1 4 3
 D. 2 3 1 4
 
 <details><summary>Show answer</summary>
@@ -1765,17 +1689,16 @@ D. 2 3 1 4
 2. Mahoba was a Chandela centre in UP Bundelkhand.
 3. Dhara was their chief capital.
 
-A. Only one |
-
-B. Only two |
-
-C. All three |
-
+A. Only one
+B. Only two
+C. All three
 D. None
 
 <details><summary>Show answer</summary>
 
-**Ans: BKey:** Statements 1 and 2 **true** (Khajuraho, Mahoba = Chandela). Statement 3 **false** (**Dhara** = Paramara).
+**Logic:** ** Statements 1 and 2 **true** (Khajuraho, Mahoba = Chandela). Statement 3 **false** (**Dhara** = Paramara).
+
+**Ans: B.**
 
 **Trap:** Chandela vs Paramara capital swap — **Khajuraho** vs **Dhara**.
 
@@ -1787,28 +1710,24 @@ D. None
 2. Gangeyadeva and Karna were important rulers.
 3. They are identical with the Paramaras of Malwa.
 
-A. Only 1 and 2 |
-
-B. Only 2 and 3 |
-
-C. Only 1 and 3 |
-
+A. Only 1 and 2
+B. Only 2 and 3
+C. Only 1 and 3
 D. All three
 
 <details><summary>Show answer</summary>
 
-**Ans: AKey:** Statement 1 **true** (Tripuri/Jabalpur belt). Statement 2 **true** (Gangeyadeva, Karna). Statement 3 **false** (Paramaras = **Dhara/Malwa**, not identical).
+**Logic:** ** Statement 1 **true** (Tripuri/Jabalpur belt). Statement 2 **true** (Gangeyadeva, Karna). Statement 3 **false** (Paramaras = **Dhara/Malwa**, not identical).
+
+**Ans: A.**
 
 **Trap:** Merging **Kalachuri Tripuri** with **Paramara Dhara**.
 
 </details>
 
-A. 2-1-3 |
-
-B. 1-2-3 |
-
-C. 2-3-1 |
-
+A. 2-1-3
+B. 1-2-3
+C. 2-3-1
 D. 3-2-1
 
 <details><summary>Show answer</summary>
@@ -1825,12 +1744,9 @@ D. 3-2-1
 2. Pulakeshin II’s main northern rival was Harsha.
 3. Shore Temple was built by Pulakeshin II.
 
-A. Only 1 and 2 |
-
-B. Only 1 and 3 |
-
-C. Only 2 and 3 |
-
+A. Only 1 and 2
+B. Only 1 and 3
+C. Only 2 and 3
 D. All three
 
 <details><summary>Show answer</summary>
@@ -1846,12 +1762,9 @@ D. All three
 3. Mandalam — village ward below Nadu
 4. Tank committee — irrigation
 
-A. Only 3 |
-
-B. Only 1 |
-
-C. 2 and 3 |
-
+A. Only 3
+B. Only 1
+C. 2 and 3
 D. Only 4
 
 <details><summary>Show answer</summary>
@@ -1866,17 +1779,16 @@ D. Only 4
 2. Sulaiman — Pala as Ruhma/Dharma
 3. Al-Masudi — Rashtrakuta as Balhara
 
-A. Only one |
-
-B. Only two |
-
-C. All three |
-
+A. Only one
+B. Only two
+C. All three
 D. None
 
 <details><summary>Show answer</summary>
 
-**Ans: CKey:** Statement 1 **true** (Al-Masudi — Pratihara as Al-Juzr). Statement 2 **true** (Sulaiman — Pala as Ruhma/Dharma). Statement 3 **true** (Al-Masudi — Rashtrakuta as Balhara).
+**Logic:** ** Statement 1 **true** (Al-Masudi — Pratihara as Al-Juzr). Statement 2 **true** (Sulaiman — Pala as Ruhma/Dharma). Statement 3 **true** (Al-Masudi — Rashtrakuta as Balhara).
+
+**Ans: C.**
 
 **Trap:** Swapping foreign labels across the three dynasties.
 
@@ -1887,17 +1799,16 @@ D. None
 2. Samantas were hereditary intermediaries who weakened central control.
 3. Agrahara grants expanded cultivation but also created landed elites.
 
-A. Only 1 and 2 |
-
-B. Only 2 and 3 |
-
-C. Only 1 and 3 |
-
+A. Only 1 and 2
+B. Only 2 and 3
+C. Only 1 and 3
 D. All three
 
 <details><summary>Show answer</summary>
 
-**Ans: BKey:** Statement 1 **true** (Early Medieval ≠ Sultanate). Statement 2 **true** (samantas). Statement 3 **true** (agrahara grants).
+**Logic:** ** Statement 1 **true** (Early Medieval ≠ Sultanate). Statement 2 **true** (samantas). Statement 3 **true** (agrahara grants).
+
+**Ans: B.**
 
 **Trap:** Statement 1 alone is enough for **B** — never equate Early Medieval with **1206** Sultanate.
 
@@ -1909,17 +1820,16 @@ D. All three
 2. Rajasekhara wrote Kavyamimamsa at Mahipala’s Pratihara court.
 3. Vikramashila was founded by Dharmapala.
 
-A. Only one |
-
-B. Only two |
-
-C. All three |
-
+A. Only one
+B. Only two
+C. All three
 D. None
 
 <details><summary>Show answer</summary>
 
-**Ans: CKey:** Statement 1 **true** (Kadungon revived Pandyas). Statement 2 **true** (Rajasekhara at Mahipala's Pratihara court). Statement 3 **true** (Vikramashila founded by Dharmapala).
+**Logic:** ** Statement 1 **true** (Kadungon revived Pandyas). Statement 2 **true** (Rajasekhara at Mahipala's Pratihara court). Statement 3 **true** (Vikramashila founded by Dharmapala).
+
+**Ans: C.**
 
 **Trap:** Rajasekhara at **Paramara Bhoja** — he served **Pratihara Mahipala**.
 
@@ -1931,17 +1841,16 @@ D. None
 3. Chennakesava — Halebid
 4. Sarasvatikanthabharana — Mihir Bhoja
 
-A. Only 4 |
-
-B. Only 3 |
-
-C. 3 and 4 |
-
+A. Only 4
+B. Only 3
+C. 3 and 4
 D. Only 2
 
 <details><summary>Show answer</summary>
 
-**Ans: AWhy wrong:Sarasvatikanthabharana** = Paramara **Bhoja I**; **Chennakesava** = **Belur** (Hoysala), not Halebid.
+**Logic:** Sarasvatikanthabharana = Paramara **Bhoja I**; **Chennakesava** = **Belur** (Hoysala), not Halebid.
+
+**Ans: A.**
 
 **Trap:** Pair 4 wrong (Mihir Bhoja ≠ that text); pair 3 also wrong if Chennakesava placed at Halebid.
 
@@ -1953,17 +1862,16 @@ D. Only 2
 2. Bhogapatis were village-level intermediaries.
 3. Agrahara grants were heavily taxed Brahmana villages.
 
-A. Only 1 and 2 |
-
-B. Only 2 and 3 |
-
-C. Only 1 and 3 |
-
+A. Only 1 and 2
+B. Only 2 and 3
+C. Only 1 and 3
 D. All three
 
 <details><summary>Show answer</summary>
 
-**Ans: AKey:** Statement 1 **true** (samantas = hereditary feudatories). Statement 2 **true** (bhogapatis = village intermediaries). Statement 3 **false** (agrahara = generally **tax-free**, not heavily taxed).
+**Logic:** ** Statement 1 **true** (samantas = hereditary feudatories). Statement 2 **true** (bhogapatis = village intermediaries). Statement 3 **false** (agrahara = generally **tax-free**, not heavily taxed).
+
+**Ans: A.**
 
 **Trap:** Reversing agrahara as taxed — they created landlord elites via **tax-free** grants.
 
@@ -1975,12 +1883,9 @@ D. All three
 2. Parantaka I’s Cholas lose at Takkolam to Krishna III
 3. Rajendra I’s Ganga expedition
 
-A. 1-2-3 |
-
-B. 2-1-3 |
-
-C. 3-2-1 |
-
+A. 1-2-3
+B. 2-1-3
+C. 3-2-1
 D. 1-3-2
 
 <details><summary>Show answer</summary>
