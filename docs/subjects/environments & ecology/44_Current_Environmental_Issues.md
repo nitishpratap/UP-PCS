@@ -14,6 +14,13 @@ Carbon Footprint | Ecological Footprint | Net Zero Emissions | Green Economy | B
 
 ---
 
+## Current Affairs (this topic)
+
+- Primary living CA chapter — NbS, plastics, heat, Himalaya cryosphere, LiFE.
+- Cross-link facts to Climate / Biodiversity / Pollution without relocating treaty years.
+
+---
+
 ## Consolidated — 24 Must-Score Facts
 
 1. A **carbon footprint** totals greenhouse gases in **tCO₂e**. Scope **1** is direct, Scope **2** is purchased energy, Scope **3** is the wider value chain.
@@ -75,7 +82,7 @@ Carbon Footprint | Ecological Footprint | Net Zero Emissions | Green Economy | B
 | Scope 2 | Purchased energy | Grid electricity |
 | Scope 3 | Other indirect | Supplier emissions, flights |
 
-> ** note:** “India has the highest per capita carbon footprint” = **FALSE**. Unit = **tCO₂e**, not gha.
+> **Logic:** “India has the highest per capita carbon footprint” = **FALSE**. Unit = **tCO₂e**, not gha.
 
 ---
 
@@ -96,7 +103,7 @@ Carbon Footprint | Ecological Footprint | Net Zero Emissions | Green Economy | B
 | Ecological footprint | gha | ~1.0–1.2 / person |
 | Carbon footprint | tCO₂e | ~2 / person |
 
-> ** note:** Same unit for both footprints = **FALSE**. EF = **gha**; carbon = **tCO₂e**.
+> **Logic:** Same unit for both footprints = **FALSE**. EF = **gha**; carbon = **tCO₂e**.
 
 ### Social Cost of Carbon
 
@@ -145,7 +152,7 @@ Match: Emissions Gap Report → **UNEP**.
 
 </details>
 
-> ** note:** India net zero = **2070**, not 2050. Gap Report ≠ IPCC Assessment Report.
+> **Logic:** India net zero = **2070**, not 2050. Gap Report ≠ IPCC Assessment Report.
 
 ---
 
@@ -159,7 +166,7 @@ Match: Emissions Gap Report → **UNEP**.
 - **Green finance** (sovereign green bonds, SEBI green-bond rules) funds this pathway — detailed market tools sit with Topic 24.
 - Green economy is **broader** than circular economy; circular material loops are one component.
 
-> ** note:** Green economy ≠ circular economy as identical labels.
+> **Logic:** Green economy ≠ circular economy as identical labels.
 
 ---
 
@@ -191,7 +198,7 @@ MISHTI: (1) Initiated in 2019. (2) Aims to restore mangrove forests.
 | Ports | Sagarmala |
 | Deep sea | Deep Ocean Mission |
 
-> ** note:** MISHTI = coastal mangroves, **not** Ganga-basin inland planting.
+> **Logic:** MISHTI = coastal mangroves, **not** Ganga-basin inland planting.
 
 ---
 
@@ -211,7 +218,7 @@ MISHTI: (1) Initiated in 2019. (2) Aims to restore mangrove forests.
 | Virgin in → dump out | Recycled/regenerative loops |
 | Waste = disposal problem | Waste = design flaw |
 
-> ** note:** “Circular = green economy identically” = **FALSE**.
+> **Logic:** “Circular = green economy identically” = **FALSE**.
 
 ---
 
@@ -233,7 +240,7 @@ MISHTI: (1) Initiated in 2019. (2) Aims to restore mangrove forests.
 | Blue | Grey + CCS |
 | Black/brown | Coal gasification |
 
-> ** note:** Mission = **2023**, not 2019. Target = **5 MMT by 2030**.
+> **Logic:** Mission = **2023**, not 2019. Target = **5 MMT by 2030**.
 
 ---
 
@@ -254,7 +261,7 @@ MISHTI: (1) Initiated in 2019. (2) Aims to restore mangrove forests.
 | Primary | Made small |
 | Secondary | Fragmented from large items |
 
-> ** note:** Threshold = **<5 mm**, not 5 cm. “Biodegrade in weeks” = **FALSE**.
+> **Logic:** Threshold = **<5 mm**, not 5 cm. “Biodegrade in weeks” = **FALSE**.
 
 ---
 
@@ -275,7 +282,7 @@ MISHTI: (1) Initiated in 2019. (2) Aims to restore mangrove forests.
 | Slow-onset | Drought / sea-level rise |
 | Legal refugee (1951) | Persecution — not climate alone |
 
-> ** note:** No dedicated Indian **Climate Refugee Act**. Most Indian cases = **IDPs / internal migrants**.
+> **Logic:** No dedicated Indian **Climate Refugee Act**. Most Indian cases = **IDPs / internal migrants**.
 
 ---
 
@@ -324,7 +331,7 @@ LiFE: (1) Launched in June 2022. (2) Idea proposed at COP-25 in Madrid.
 | Nodal | **MoEFCC** |
 | Actions | **~75** |
 
-> ** note:** COP-25 Madrid trap is the classic false statement.
+> **Logic:** COP-25 Madrid trap is the classic false statement.
 
 ---
 

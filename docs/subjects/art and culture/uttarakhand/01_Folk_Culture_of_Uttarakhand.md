@@ -2,32 +2,40 @@
 
 ### ★ UKPCS state card (Unit 1 / Unit 6 culture hooks)
 
-> **Pair with:** [Dances, Music & Fairs](02_Dances_Music_and_Fairs.md) · [Heritage](03_Heritage_and_Cultural_Institutes.md) 
+> **Sources:** UKPCS folk lists, Aipan–Chholiya–Ramman coaching map, ST culture hooks.  
+> **Pair with:** [Dances, Music & Fairs](02_Dances_Music_and_Fairs.md) · [Heritage](03_Heritage_and_Cultural_Institutes.md).  
 > **Political dynasties:** stay in Medieval / Modern UK folders.
+
+---
+
+## Current Affairs (this topic)
+
+- Festival seasons and Padma folk-music names refresh yearly — keep **Aipan / Chholiya / Ramman** as the durable folk identity set.
+- Tribal craft and fair links often cross into Geography / Polity ST cards.
 
 ---
 
 ## Quick Revision — Spine Only
 
-| Head | Lock |
-|------|------|
+| Head | Key |
+|------|-----|
 | Floor / wall art | **Aipan** (Kumaon) — ritual white rice-paste patterns |
 | Sword wedding dance | **Chholiya** (Kumaon) |
-| Group folk dances | **Jhora**, **Chanchari**, **Thadya** (coaching lists) |
+| Group folk dances | **Jhora**, **Chanchari**, **Thadya** |
 | Acrobatic / martial display | **Langvir Nritya** (Garhwal tradition in many notes) |
 | Percussion memory | **Hurka**, **Dhol**, **Damau** with folk song–dance |
-| Ritual theatre (UNESCO) | **Ramman** (Garhwal) — full card in Topic 3 |
+| Ritual theatre (UNESCO) | **Ramman** (Garhwal) — full course in Topic 3 |
 | Painting school | **Garhwal Pahari** — Mola Ram line (Topic 3 / national Painting) |
-| Tribal culture hooks | **Tharu**, **Bhotia**, **Jaunsari**, **Buksa**, **Raji** (also Polity / Geo ST cards) |
+| Tribal culture hooks | **Tharu**, **Bhotia**, **Jaunsari**, **Buksa**, **Raji** |
 
 ---
 
 ## Confused Pairs
 
-| Pair | Lock |
-|------|------|
-| Aipan vs Rangoli / Kolam | Kumaon ritual art with distinct motifs — not South Indian kolam |
-| Chholiya vs Chhau | Kumaon sword wedding dance ≠ Odisha/Jharkhand Chhau |
+| Pair | Key |
+|------|-----|
+| Aipan vs Rangoli / Kolam | Kumaon ritual rice-paste art with its own motifs — not South Indian kolam |
+| Chholiya vs Chhau | Kumaon sword wedding dance ≠ Odisha / Jharkhand Chhau |
 | Ramman vs Ramlila | Garhwal ritual theatre (UNESCO) ≠ North Indian Ramlila |
 | Garhwal painting vs Kangra only | Related Pahari family; Garhwal has its own **1658 Tasbirdar** origin card |
 
@@ -35,25 +43,36 @@
 
 ## 1.1 Everyday folk culture
 
-- Hill culture is organised around seasons, gods of the village (**Gramdevta**), and life-cycle rituals.
+**Identity:** Season, Gramdevta, and life-cycle ritual culture of the hills.
+
+- Hill culture is organised around seasons, village gods (**Gramdevta**), and life-cycle rituals.
 - **Aipan** is the signature Kumaon floor and wall ritual art drawn with rice paste for festivals and ceremonies.
-- Oral song, hurka accompaniment, and community dancing mark fairs and weddings.
+- Motifs often use geometric and sacred patterns for auspicious occasions — do not treat Aipan as ordinary decorative rangoli.
+- Oral song, **hurka** accompaniment, and community dancing mark fairs and weddings.
 
 ---
 
-## 1.2 Folk performance map (short)
+## 1.2 Folk performance map
+
+**Identity:** Wedding sword dance · circle dances · Garhwal acrobatic / epic traditions.
 
 - **Chholiya** is the Kumaon sword dance linked with wedding processions.
-- Group dances such as **Jhora** and **Chanchari** appear in standard UKPCS folk lists.
+- Group dances such as **Jhora**, **Chanchari**, and **Thadya** appear in standard UKPCS folk lists.
 - **Langvir** traditions in Garhwal notes remember acrobatic / pole displays with folk music.
-- Full dance–fair chronology sits in Topic 2; **Ramman** detail sits in Topic 3.
+- Fair chronologies and Padma personality stems sit in Topic 2; **Ramman** ritual theatre sits in Topic 3.
 
 ---
 
-## 1.3 Craft and identity
+## 1.3 Tribal and craft identity
 
-- Wool weaving, wood carving, and ringal bamboo craft support livelihood and festival material culture.
-- State cultural identity also runs through Kumaoni and Garhwali language literature — personality stems (e.g. Pushpesh Pant) live under Topic 3.
+**Identity:** Five ST culture hooks + hill craft livelihoods.
+
+- **Tharu** and **Buksa** culture sits on the Tarai fringe with distinct festival and craft memory.
+- **Bhotia** communities carry high Himalayan trade, wool, and seasonal-movement culture.
+- **Jaunsari** culture marks western Garhwal / Jaunsar–Bawar traditions.
+- **Raji / Vanrawat** forest-linked PTG memory centres on the Pithoragarh belt in geography notes.
+- Wool weaving, wood carving, and **ringal** bamboo craft support livelihood and festival material culture.
+- State cultural identity also runs through Kumaoni and Garhwali language literature — personality stems (for example Pushpesh Pant) live under Topic 3.
 
 ---
 
@@ -71,10 +90,10 @@
 
 **Q1.** Aipan is best described as:
 
-A. A classical SNA dance of Uttarakhand 
-B. Kumaon ritual floor and wall art 
-C. A UNESCO mountain railway 
-D. A Tehri princely court title 
+A. A classical SNA dance of Uttarakhand  
+B. Kumaon ritual floor and wall art  
+C. A UNESCO mountain railway  
+D. A Tehri princely court title  
 
 <details>
 <summary>Show answer</summary>
@@ -87,10 +106,10 @@ D. A Tehri princely court title
 
 **Q2.** Chholiya is associated with:
 
-A. Odisha Chhau only 
-B. Kumaon wedding / sword folk dance 
-C. Kathakali 
-D. Manipuri Ras 
+A. Odisha Chhau only  
+B. Kumaon wedding / sword folk dance  
+C. Kathakali  
+D. Manipuri Ras  
 
 <details>
 <summary>Show answer</summary>

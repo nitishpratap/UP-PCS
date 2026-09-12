@@ -115,7 +115,7 @@ D. Members of Lok Sabha only
 - India follows the **parliamentary (Westminster) system**: the President is the **nominal / de jure** head; the **real / de facto** executive is the **Council of Ministers headed by the Prime Minister**.
 - **Art. 53:** executive power of the Union is **vested in the President**, exercised by him directly or through officers subordinate to him — but in practice on the **aid and advice** of the CoM (Art. 74).
 
-> ** note:** "Executive power of the Union is vested in the **President**" (Art. 53). The PM is nowhere called the head of the executive by the Constitution — he heads the **Council of Ministers**.
+> **Logic:** "Executive power of the Union is vested in the **President**" (Art. 53). The PM is nowhere called the head of the executive by the Constitution — he heads the **Council of Ministers**.
 
 ---
 
@@ -158,7 +158,7 @@ D. All members of Parliament and State Legislatures
 - **Value of an MP's vote** = (Total value of votes of all MLAs of all States ÷ total number of elected MPs).
 - A candidate must secure a fixed **quota** (50% of valid votes + 1) to be declared elected.
 
-> ** note:** Population is frozen at the **1971 census** (by the 84th Amendment) for value calculation until the first census after 2026. STV + PR is used for **President, VP, Rajya Sabha and Legislative Council** elections — **not** for Lok Sabha (which is FPTP).
+> **Logic:** Population is frozen at the **1971 census** (by the 84th Amendment) for value calculation until the first census after 2026. STV + PR is used for **President, VP, Rajya Sabha and Legislative Council** elections — **not** for Lok Sabha (which is FPTP).
 
 **Nomination:** proposed by **50** electors and seconded by **50** electors; security deposit **₹15,000** (forfeited if the candidate’s valid votes do not exceed **one-sixth** of the quota needed to win). Election disputes → **Supreme Court** (Art. 71). Acts done before a void declaration remain valid. Election **cannot** be challenged or postponed merely because the electoral college is incomplete (Art. 71(4)).
 
@@ -178,7 +178,7 @@ D. All members of Parliament and State Legislatures
 | **If VP also vacant** | **Chief Justice of India** acts as President (*President (Discharge of Functions) Act, 1969*); if CJI’s office is vacant, the **senior-most SC judge** available |
 | **Emoluments** | Paid from the **Consolidated Fund of India** (current teaching figure: **₹5 lakh** per month) |
 
-> ** note:** For President's qualification the benchmark is **Lok Sabha** membership eligibility (not Rajya Sabha). Citizenship by **birth** is **not** required. Oath is before the **CJI**. Seat as MP/MLA is vacated on entering office (Art. 59), not before contesting.
+> **Logic:** For President's qualification the benchmark is **Lok Sabha** membership eligibility (not Rajya Sabha). Citizenship by **birth** is **not** required. Oath is before the **CJI**. Seat as MP/MLA is vacated on entering office (Art. 59), not before contesting.
 
 ---
 
@@ -198,7 +198,7 @@ D. All members of Parliament and State Legislatures
 | Who does **not** | **Elected members of State Legislative Assemblies** (they voted in the election but **not** in impeachment) |
 | Ground | Violation of the Constitution **only** |
 
-> ** note:** Reverse trap — **nominated MPs**: no vote in *election*, but **yes** in *impeachment*. **State MLAs**: yes in *election*, **no** in *impeachment*. No President has ever been impeached.
+> **Logic:** Reverse trap — **nominated MPs**: no vote in *election*, but **yes** in *impeachment*. **State MLAs**: yes in *election*, **no** in *impeachment*. No President has ever been impeached.
 
 ---
 
@@ -299,7 +299,7 @@ D. (A) is false, but (R) is true
 - **Constitutional Amendment Bill:** after the **24th Amendment (1971)**, the President is **bound to give assent** — no veto.
 - **State Bills reserved by the Governor (Art. 201):** the President may assent, withhold assent (absolute veto), or direct the Governor to return it; he can use a **pocket veto** (no time limit) and even a second reservation.
 
-> ** note:** India has **no qualified veto**; the President **cannot return a Money Bill**; must assent to a **Constitution Amendment Bill** (24th).
+> **Logic:** India has **no qualified veto**; the President **cannot return a Money Bill**; must assent to a **Constitution Amendment Bill** (24th).
 
 ---
 
@@ -315,7 +315,7 @@ D. (A) is false, but (R) is true
 - **Pardon** = fully absolves; **Commutation** = substitutes a lighter punishment; **Remission** = reduces the period without changing character; **Respite** = lesser sentence due to special facts (e.g. pregnancy); **Reprieve** = temporary stay of execution.
 - Pardoning power is subject to **judicial review** (*Epuru Sudhakar* 2006); exercised on the **advice of the CoM**.
 
-> ** note:** Only the **President** can pardon a **death sentence** or a **court-martial** sentence — the Governor cannot.
+> **Logic:** Only the **President** can pardon a **death sentence** or a **court-martial** sentence — the Governor cannot.
 
 ---
 
@@ -327,7 +327,21 @@ D. (A) is false, but (R) is true
 - **Cannot** be used to **amend the Constitution**.
 - *D.C. Wadhwa* (1987): re-promulgation of ordinances is a "fraud on the Constitution"; *Krishna Kumar Singh* (2017): re-promulgation without placing before legislature is unconstitutional; laying before the House is **mandatory**.
 
-> ** note:** Ordinance = **6 weeks** from reassembly; a co-terminus executive law-making power exercised on ministerial advice.
+### Ordinance vs Bill — compare card
+
+| Point | Ordinance (Art. 123) | Ordinary Bill | Money Bill | Constitution Amendment Bill |
+|-------|----------------------|---------------|------------|-----------------------------|
+| When | Houses **not** in session; immediate need | Houses in session | LS only introduction; RS limited | Special majority path |
+| Force | Same as an Act until it lapses | Becomes Act after assent | Becomes Act after assent | Amends Constitution after assent |
+| Assent / return | Laid before Houses; **no** Art. 111 return story | President may assent, withhold, return, or pocket | Assent or withhold — **cannot return** | President **must** assent (24th Amendment) |
+| Life | **Six weeks** from reassembly (or earlier disapproval) | Permanent until repealed / struck down | Same as ordinary Act | Permanent until later amendment |
+| Joint sitting | Not the ordinance path | Possible for ordinary Bills | **No** joint sitting | **No** joint sitting |
+| Amend Constitution? | **No** | **No** (ordinary path) | **No** | **Yes** — that is its purpose |
+
+- An ordinance is **temporary executive law-making** on ministerial advice, not a shortcut past a Constitution Amendment Bill.
+- Governor ordinance power sits under **Art. 213** with a parallel life rule for the State legislature — do not merge 123 and 213 into one article number.
+
+> **Logic:** Ordinance = **6 weeks** from reassembly; a co-terminus executive law-making power exercised on ministerial advice. It is **not** a Money Bill and **cannot** amend the Constitution.
 
 ---
 
@@ -473,7 +487,7 @@ D. R. Venkataraman
 - **Age:** the Constitution does not fix a separate PM age; the practical floor is **25 years** (Lok Sabha eligibility) if the person seeks a Lok Sabha seat, or **30** if only Rajya Sabha membership is intended.
 - A PM who sits only in the **Rajya Sabha** may **speak** in the Lok Sabha but **cannot vote** there — so he cannot vote on a **no-confidence** motion.
 
-> ** note:** Art. 74 = aid & advise (binding after 44th, one reconsideration). Art. 78 = PM's duty to communicate. A person who is **not a member of either House** can be PM/minister but must become one within **6 months** (Art. 75(5)). Legal name of the Government of India in suits is the **Union of India** (Art. 300).
+> **Logic:** Art. 74 = aid & advise (binding after 44th, one reconsideration). Art. 78 = PM's duty to communicate. A person who is **not a member of either House** can be PM/minister but must become one within **6 months** (Art. 75(5)). Legal name of the Government of India in suits is the **Union of India** (Art. 300).
 
 ---
 
@@ -538,7 +552,7 @@ D. (A) is false, but (R) is true
 | **PMO (Prime Minister's Office)** | A **staff agency**; headed by the **Principal Secretary** (not the Cabinet Secretary); renamed “PMO” in **1977** |
 | **Ministries count** | **18** ministries on **15 August 1947**; the present figure changes with Allocation of Business (dump teaching figure ≈ **53**) |
 
-> ** note:** Ministries/Departments are **not** created by the PM on the Cabinet Secretary’s advice alone — the President allocates business under Art. 77(3) on the PM’s advice. Civil servants implement Cabinet policy; ministerial responsibility still runs to Parliament.
+> **Logic:** Ministries/Departments are **not** created by the PM on the Cabinet Secretary’s advice alone — the President allocates business under Art. 77(3) on the PM’s advice. Civil servants implement Cabinet policy; ministerial responsibility still runs to Parliament.
 
 **PYQ — UPPCS Prelims 2019, Q30**
 
@@ -595,7 +609,7 @@ D. Neither 1 nor 2
 | Expenses of office | Charged on the **Consolidated Fund of India** (Art. 148(6)) — **not** voted annually like ordinary demand |
 | Accounts vs audit | **1976** amendment of the CAG Act separated **accounts** from **audit** at the Centre; CAG’s Centre task is mainly **audit** |
 
-> ** note:** CAG does **not** exercise exchequer control during Emergency, and has **no judicial power** to prosecute. Ultimate action on CAG comments rests with **Parliament** (via PAC). Contrast: **AG = pleasure**; **CAG = SC-judge security**.
+> **Logic:** CAG does **not** exercise exchequer control during Emergency, and has **no judicial power** to prosecute. Ultimate action on CAG comments rests with **Parliament** (via PAC). Contrast: **AG = pleasure**; **CAG = SC-judge security**.
 
 **PYQ — UPPCS Prelims 2023, Q12**
 
@@ -641,7 +655,7 @@ D. Neither 1 nor 2 is correct
 - In India, **Art. 310** — civil servants of the Union/State hold office **during the pleasure** of the President/Governor, **subject to Art. 311** safeguards.
 - The **Attorney General** and **Governors** also hold office during the pleasure of the President.
 
-> ** note:** Pleasure doctrine (Art. 310) is **restricted by Art. 311** (no dismissal without inquiry for civil servants) and by the constitutional protections for judges, CAG, CEC, etc.
+> **Logic:** Pleasure doctrine (Art. 310) is **restricted by Art. 311** (no dismissal without inquiry for civil servants) and by the constitutional protections for judges, CAG, CEC, etc.
 
 ---
 
@@ -726,7 +740,7 @@ D. 1, 4, 3, 2
 | CEC / CAG vs SC judge | **SC judge = 9**; **CEC/CAG/UPSC = 9A** | Swap 9 and 9A |
 | Bharat Ratna | **7A** — after rank 7 block | Place with rank 1–3 |
 
-> ** note:** Fact **6 = CJI + Speaker**; **11 = AG**; table is **ceremonial**, not constitutional hierarchy. Speaker detail also in **Topic 7 — Parliament**.
+> **Logic:** Fact **6 = CJI + Speaker**; **11 = AG**; table is **ceremonial**, not constitutional hierarchy. Speaker detail also in **Topic 7 — Parliament**.
 
 ---
 

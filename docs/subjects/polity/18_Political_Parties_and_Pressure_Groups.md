@@ -358,7 +358,7 @@ Registration (1926 Act): originally **7** members could apply; 2001 Amd → **10
 - **BMS — 23 Jul 1955** — **BJP / RSS**.
 - **CITU — 1970** — **CPI(M)**.
 
-> ** note:** 2022 asked BMS / INTUC / UTUC / AITUC vs INC, CPI, CPI(M), BJP. **Correct affiliations:** BMS–BJP · INTUC–INC · **AITUC–CPI** · **CITU–CPI(M)** · UTUC–**RSP**. The option set has no RSP — the only option that gets **BMS and INTUC** right is **D**, which then **swaps** the two Left unions. Learn the **true** table; mark **D** if forced.
+> **Logic:** 2022 asked BMS / INTUC / UTUC / AITUC vs INC, CPI, CPI(M), BJP. **Correct affiliations:** BMS–BJP · INTUC–INC · **AITUC–CPI** · **CITU–CPI(M)** · UTUC–**RSP**. The option set has no RSP — the only option that gets **BMS and INTUC** right is **D**, which then **swaps** the two Left unions. Learn the **true** table; mark **D** if forced.
 
 **PYQ — UPPCS Prelims 2022, Q123**
 

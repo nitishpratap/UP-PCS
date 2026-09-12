@@ -2,14 +2,22 @@
 
 ### ★ UKPCS state card (Unit 3)
 
-> **High-yield 2025 stem:** Uttarakhand Human Rights Commission (Q140). 
+> **Sources:** PHRA State commission framework, Lokayukta / RTI / Citizen Charter map.  
+> **High-yield 2025:** Uttarakhand Human Rights Commission (Q140).  
 > **Syllabus:** Lok Aayukt · Citizen Charter · E-Governance · RTI · Samadhan Yojna · rights (education, employment, development).
+
+---
+
+## Current Affairs (this topic)
+
+- UHRC / Lokayukta / RTI commission news can refresh institutional stems.
+- Keep UHRC commencement as **13 May 2013**.
 
 ---
 
 ## Quick Revision — Spine Only
 
-| Head | Lock |
+| Head | Key |
 |------|------|
 | UHRC start | **13 May 2013** |
 | UHRC objective (as keyed) | Greater **accountability and transparency** in governance (+ rights protection) |
@@ -22,7 +30,7 @@
 
 ## Confused Pairs
 
-| Pair | Lock |
+| Pair | Key |
 |------|------|
 | UHRC 2013 vs statehood 2000 | Commission functioning from **May 2013** |
 | Only date true / only objective true | 2025 keys **both** |
@@ -33,18 +41,23 @@
 
 ## 7.1 Human Rights Commission
 
+**Identity:** UHRC from **13 May 2013** | PHRA State commission | accountability + rights.
+
 - The **Uttarakhand Human Rights Commission** came into existence on **13 May 2013**.
 - It works under the Protection of Human Rights Act framework to protect rights and to promote accountability and transparency in governance.
-- UKPCS 2025 keyed both the date and the governance-objective statements.
+- UKPCS 2025 keyed both the date and the governance-objective statements as true.
+- UHRC is **not** the Lokayukta and **not** the National Human Rights Commission — it is the State commission.
 
 ---
 
 ## 7.2 Wider governance toolkit (syllabus map)
 
-- **Lokayukta / Lok Aayukt** — corruption complaints against public functionaries.
-- **RTI** — information access; state information commission appellate layer.
-- **Citizen Charter / e-governance / Samadhan Yojna** — service timelines and grievance redress portals.
-- Rights in education, employment, and development pull from national Acts (RTE, MGNREGA-type) plus state adaptations — plant national RTE / RTS stems in parent chapters.
+**Identity:** Ombudsman · information · service standards · digital grievance.
+
+- **Lokayukta / Lok Aayukt** handles corruption complaints against public functionaries.
+- **RTI** gives information access; the State Information Commission is the appellate layer.
+- **Citizen Charter / e-governance / Samadhan Yojna** set service timelines and grievance-redress portals.
+- Rights in education, employment, and development pull from national Acts (RTE, MGNREGA-type) plus State adaptations — plant national RTE / RTS stems in parent chapters.
 
 ---
 

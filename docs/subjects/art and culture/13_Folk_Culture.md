@@ -40,7 +40,7 @@ Folk Arts | Folk Traditions | Folk Beliefs | Folk Culture of India | Handloom | 
 8. **Handloom** is cloth woven on a manual loom. Yarn may be mill-spun. **Khadi** is **hand-spun and** hand-woven under **KVIC (MSME)**.
 9. **Handicraft** is a handmade object such as pottery, metalwork, or embroidery. It is not the same word as handloom cloth.
 10. National **Handloom Day** is **7 August**, recalling the **1905** Swadeshi moment; the first observance was **2015**. India Handloom Brand started in **2015**. Handloom Mark is from **2006**.
-11. Development Commissioner (Handicrafts) sits under **Textiles**. **PEHCHAN** artisan cards began in **2016**. **e-Pehchan** is the handloom digital ID from **2025**. **Shilp Guru** is the top handicraft honour.
+11. Development Commissioner (Handicrafts) sits under **Textiles. PEHCHAN** artisan cards began in **2016. e-Pehchan** is the handloom digital ID from **2025. Shilp Guru** is the top handicraft honour.
 12. **GI** is governed by the **1999** Act. The Registry is at **Chennai** under **DPIIT / Commerce**, not Culture and not Textiles. First Indian GI was **Darjeeling Tea (2004)**. Protection is about **10 years** and renewable.
 13. Uttar Pradesh craft-city map: **Banarasi** brocade (Varanasi), **Chikankari** and **Zardozi** (Lucknow), **Bhadohi** carpet, **Moradabad** brass, **Firozabad** glass, **Khurja** pottery, and **Kannauj** attar.
 14. More UP craft facts: **Saharanpur** wood, **Agra** marble inlay, **Hapur–Pilkhuwa** block print, and **Azamgarh–Nizamabad** black pottery.
@@ -106,7 +106,7 @@ Folk Arts | Folk Traditions | Folk Beliefs | Folk Culture of India | Handloom | 
 - **Sujni** embroidery belongs to **Bihar**, not Maharashtra.
 - Nautanki and Raslila are folk **performance**, not wall painting. Visual folk art is still the painting and craft list above.
 
-> ** note:Madhubani = Bihar**. **Warli = Maharashtra**. **Sanjhi = Mathura UP**. Never swap the three.
+> **Logic:** Madhubani = Bihar. Warli = Maharashtra. Sanjhi = Mathura UP**. Never swap the three.
 
 ---
 
@@ -170,7 +170,7 @@ D. Only 1
 - Tribal cosmology is indigenous. Village Hindu folk belief is syncretic. Do not collapse the two.
 - Warli walls remember **Palaghata**. Gond panels remember forest *bada dev*. Madhubani Kohbar marks fertility.
 
-> ** note:Nag Panchami = snake**. **Chhath = Surya**. **Gramdevta = village protector**, not a Vedic rishi.
+> **Logic:** Nag Panchami = snake. Chhath = Surya. Gramdevta = village protector**, not a Vedic rishi.
 
 ---
 
@@ -197,7 +197,7 @@ D. Only 1
 - UP heartland belts are **Braj** (Mathura–Vrindavan), **Awadh** (Lucknow embroidery and composite culture), and eastern UP’s Chhath–Bhojpuri continuum.
 - UP craft towns are workplaces, not museum labels. Moradabad, Firozabad, Khurja and Bhadohi are the named cluster set.
 
-> ** note:Ramlila UNESCO 2008 = UP/North**. **Garba UNESCO 2023 = Gujarat**. North Central ZCC = **Prayagraj**.
+> **Logic:** Ramlila UNESCO 2008 = UP/North. Garba UNESCO 2023 = Gujarat**. North Central ZCC = **Prayagraj**.
 
 ---
 
@@ -207,7 +207,7 @@ D. Only 1
 
 - Handloom is India’s largest cottage industry after agriculture. Work is mostly rural and household-based.
 - The weaver moves the shuttle. A **powerloom** is machine-driven mass weave. Cheap powerloom copies are the livelihood threat.
-- **Khadi** must be **hand-spun and hand-woven**. **KVIC** runs khadi. KVIC sits under **MSME**, not Textiles.
+- **Khadi** must be **hand-spun and hand-woven. KVIC** runs khadi. KVIC sits under **MSME**, not Textiles.
 - Handloom yarn may be mill-spun. That is why khadi is the stricter Swadeshi fact.
 - Nodal body for handloom is the **Development Commissioner (Handlooms)** under **Textiles**. Culture does not run the loom schemes.
 - **NHDC** supplies hank yarn. Weaver Service Centres upgrade skill and design.
@@ -232,7 +232,7 @@ D. Only 1
 - **Uppada Jamdani** belongs to **Andhra Pradesh**, not Karnataka.
 - **Puthukkuli / Poothkuli** shawls are **Toda** embroidery of the Nilgiris, **Tamil Nadu**.
 
-> ** note:7 August = Handloom Day**. Ministry = **Textiles**. **Khadi ≠ ordinary handloom**.
+> **Logic:** 7 August = Handloom Day**. Ministry = **Textiles. Khadi ≠ ordinary handloom**.
 
 **PYQ — UPPCS Prelims 2019, Q44**
 
@@ -284,11 +284,11 @@ D. Neither 1 nor 2
 - **Dhokra** is tribal lost-wax bell-metal of the Bastar belt (Chhattisgarh, with Odisha / Jharkhand / Bengal cousins). It is not a Chola temple bronze.
 - **Channapatna** lacquer toys belong to **Karnataka**.
 - **Pipli** appliqué belongs to **Odisha**.
-- **Molela** terracotta plaques belong to **Rajasthan**. **Bankura** terracotta horses belong to **West Bengal**.
+- **Molela** terracotta plaques belong to **Rajasthan. Bankura** terracotta horses belong to **West Bengal**.
 - Kashmir facts are **papier-mâché** and **Pashmina**.
 - **Venushilpa** by Chitracharya **Upendra Maharathi** is a book on **bamboo art**, not painting.
 
-> ** note:Moradabad = brass**. **Firozabad = glass**. **Khurja = pottery**. **Bhadohi = carpet**. **Blue Pottery = Jaipur**.
+> **Logic:** Moradabad = brass. Firozabad = glass. Khurja = pottery. Bhadohi = carpet. Blue Pottery = Jaipur**.
 
 **PYQ — UPPCS Prelims 2019, Q117**
 
@@ -352,7 +352,7 @@ D. Marble curving
 - UP leads India’s GI count in recent tallies. Craft and textile GIs are the fastest-growing class. Food and agri GIs are not this topic’s matching list.
 - UP **ODOP** (One District One Product) rides the same craft geography. ODOP is a promotion scheme. It is not the GI Act.
 
-> ** note:GI ministry = Commerce**. **Registry = Chennai**. **First GI = Darjeeling Tea 2004**. **Banarasi + Chikankari = UP**.
+> **Logic:** GI ministry = Commerce. Registry = Chennai. First GI = Darjeeling Tea 2004. Banarasi + Chikankari = UP**.
 
 **PYQ — UPSC Prelims 2018**
 

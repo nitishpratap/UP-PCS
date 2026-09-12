@@ -14,6 +14,13 @@ Wildlife Conservation | Wildlife Protection | Project Tiger | Project Elephant |
 
 ---
 
+## Current Affairs (this topic)
+
+- Track Project Tiger / Project Elephant / species project headlines against the statutory vs scheme trap.
+- NTCA tiger-reserve count drifts — teach the concept; verify the live total before a count stem.
+
+---
+
 ## Consolidated — 36 Must-Score Facts
 
 1. Wildlife conservation protects species and habitats, with **in-situ** primary and **ex-situ** as backup.
@@ -178,7 +185,7 @@ D. Only 1
 - The tiger is an **umbrella species**. Protecting it also protects prey, co-predators, and forest habitat.
 - UP tiger reserves are **Dudhwa (1987)**, **Pilibhit (2014)**, and **Ranipur (2023)**.
 
-> ** note:** Tiger Reserve has **WPA statutory basis (Sec 38V)**. Elephant Reserve does **not**.
+> **Logic:** Tiger Reserve has **WPA statutory basis (Sec 38V)**. Elephant Reserve does **not**.
 
 ---
 
@@ -198,7 +205,7 @@ D. Only 1
 - UP has **Uttar Pradesh Elephant Reserve (2009)** and **Terai Elephant Reserve (2022)**.
 - The Asian elephant is listed in **WPA Schedule I**.
 
-> ** note:** Trap — "Elephant Reserve is declared under WPA like Tiger Reserve" is **false**.
+> **Logic:** Trap — "Elephant Reserve is declared under WPA like Tiger Reserve" is **false**.
 
 ---
 
@@ -244,7 +251,7 @@ D. Only 1
 - The Asiatic lion is in **WPA Schedule I** and is the **state animal of Gujarat**.
 - **Uttar Pradesh has no wild Asiatic lion**. Dudhwa holds tiger and rhino, not lion.
 
-> ** note:** Trap — "Asiatic lions in Dudhwa/UP" is **false**. Gir = Gujarat only.
+> **Logic:** Trap — "Asiatic lions in Dudhwa/UP" is **false**. Gir = Gujarat only.
 
 ---
 
@@ -261,7 +268,7 @@ D. Only 1
 - India hosts over **80% of the global** greater one-horned rhino population.
 - The rhino is **WPA Schedule I** and **IUCN Vulnerable**.
 
-> ** note:** UP rhinos are in **Dudhwa**, not Kaziranga. Kaziranga is in Assam.
+> **Logic:** UP rhinos are in **Dudhwa**, not Kaziranga. Kaziranga is in Assam.
 
 ---
 
@@ -279,7 +286,7 @@ D. Only 1
 - **International Snow Leopard Day** is **23 October**.
 - The snow leopard is **WPA Schedule I**.
 
-> ** note:** Snow leopard is **not** found in Gir, Western Ghats, or Terai plains.
+> **Logic:** Snow leopard is **not** found in Gir, Western Ghats, or Terai plains.
 
 ---
 
@@ -297,7 +304,7 @@ D. Only 1
 - The **SAVE programme** (Saving Asia's Vultures from Extinction) coordinates international vulture recovery.
 - Key Indian vulture species — white-rumped, long-billed, and slender-billed — are **Critically Endangered**.
 
-> ** note:** UPPCS 2018 pattern — cattle painkiller linked to vulture decline is **diclofenac**.
+> **Logic:** UPPCS 2018 pattern — cattle painkiller linked to vulture decline is **diclofenac**.
 
 **PYQ — UPPCS Prelims 2018, Q131**
 

@@ -8,9 +8,16 @@ Biodiversity | Levels of Biodiversity | Genetic Diversity | Species Diversity | 
 
 </details>
 
-> **Sources baked in:** NCERT Class 12 Biology Ch 15–16, CBD/Nagoya/Cartagena, Biological Diversity Act 2002, IUCN Red List, Conservation International hotspots, Ramsar (~80 sites), UPPCS/UPSC PYQs 2018–2025
+> **Sources baked in:** NCERT Class 12 Biology Ch 15–16, CBD/Nagoya/Cartagena, Biological Diversity Act 2002, IUCN Red List, Conservation International hotspots, Ramsar (~100 sites; UP 12), UPPCS/UPSC PYQs 2018–2025
 > **Weight:** ★★★ Very High — definitions, hotspots, IUCN, loss drivers, conservation, Ramsar
 > **Last verified:** September 2026
+
+---
+
+## Current Affairs (this topic)
+
+- Track new Ramsar and IUCN Red List updates against the Must-Score baselines (India Ramsar **~100**; UP **12**).
+- Invasive-species and hotspot stems recycle yearly — keep Western Ghats / Indo-Burma trap pairs stable.
 
 ---
 
@@ -419,7 +426,7 @@ D. Neither 1 nor 2
 ### Ramsar wetlands (biodiversity overlap)
 
 - **Ramsar Convention (1971, Iran)** conserves wetlands of international importance under **Wise Use**. **World Wetlands Day = 2 February**.
-- India has about **80** Ramsar sites. State counts often tested: **Tamil Nadu 16** (highest), **Uttar Pradesh 10**, **Punjab 6**. Bihar’s first is **Kabartal / Kanwar Lake (Begusarai)**.
+- India has about **100** Ramsar sites. State counts often tested: **Tamil Nadu 16** (highest), **Uttar Pradesh 10**, **Punjab 6**. Bihar’s first is **Kabartal / Kanwar Lake (Begusarai)**.
 - **Montreux Record** lists Ramsar sites where ecological character has changed or is likely to change from human interference.
 - Wetlands act as “kidneys” mainly by aquatic plants absorbing **heavy metals and excess nutrients**; they also cycle nutrients, hold sediment, and buffer floods.
 - **Sambhar Lake (Rajasthan)** is India’s largest inland saline wetland. Wetland Rules **2010/2017** and catchment coverage are Indian law — not every wetland worldwide is a mandatory Ramsar obligation.
@@ -558,7 +565,7 @@ D. Only 1
 
 <details><summary>Show answer</summary>
 
-**Ans: D** — Indicator species fact; full teaching also in Topic 2 succession block.
+**Ans: D** — Indicator species fact; succession indicators also sit in the Ecology & Ecosystem chapter.
 
 </details>
 

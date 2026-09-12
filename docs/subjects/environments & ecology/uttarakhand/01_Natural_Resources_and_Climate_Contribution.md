@@ -8,9 +8,16 @@ Natural Resources of Uttarakhand | Forests | Water | Biodiversity hooks | Himala
 
 </details>
 
-> **Sources baked in:** UKPCS Unit 5; MoEFCC; FSI/FRI/WII; NAPCC Himalayan Mission; Chipko historiography; Ghatnachakra Environment facts shared with UPPCS
-> **Weight:** ★★★ High for UKPCS state third — national ecology PYQs still appear
+> **Sources baked in:** UKPCS Unit 5; MoEFCC; FSI/FRI/WII; NAPCC Himalayan Mission; Chipko historiography; Ghatnachakra Environment facts shared with UPPCS  
+> **Weight:** ★★★ High for UKPCS state third — national ecology PYQs still appear  
 > **Last verified:** September 2026
+
+---
+
+## Current Affairs (this topic)
+
+- Keep FSI / FRI / WII function traps and Chipko **1973 Reni** stable.
+- Himalayan Mission and spring / landslide seasons refresh climate–resource CA.
 
 ---
 
@@ -26,7 +33,7 @@ Natural Resources of Uttarakhand | Forests | Water | Biodiversity hooks | Himala
 8. **Weathering** breaks rocks into sediments, clays, and soils at the Earth’s surface. Erosion then transports the loosened material.
 9. National facts that UKPCS also asks: **NEERI = Nagpur 1958**; **WED = 5 June**; atmosphere **N₂ ~78%**; **EPA 1986**; **Tansley 1935** coined ecosystem; ecosystem is an **open** system.
 10. **Fukuoka** pioneered natural farming — a UKPCS-asked literature/agriculture fact.
-11. Sustainable development, Agenda 21, Brundtland, and SDGs follow the same national Topic 15 spine.
+11. Sustainable development, Agenda 21, Brundtland, and SDGs follow the same national sustainable-development spine.
 12. UK biodiversity sits in the **Himalaya** biogeographic zone with high endemism and altitudinal vegetation belts.
 13. Landslides and flash floods rise where deforestation, road cutting, and extreme rainfall combine — disaster–environment link.
 14. Eco-tourism and hydropower both use natural capital; unmanaged expansion can degrade slopes and rivers.
@@ -35,7 +42,7 @@ Natural Resources of Uttarakhand | Forests | Water | Biodiversity hooks | Himala
 17. Remote sensing and GIS support SD road-mapping and hazard monitoring — UKPCS General Science/Ecology mentions these tools.
 18. Natural capital of UK includes forests, water, minerals, and biodiversity. Roads are **not** natural capital.
 19. Over-urbanisation and unplanned industrialisation stress ecology and biodiversity in hill towns as well as plains.
-20. Cross-read Topics 15, 16, 18, 28, 30, and 31 for shared national PYQs that appear in UKPCS papers.
+20. Shared national ecology stems (sustainable development, institutions, agreements, days) also appear in UKPCS — learn them as national facts with UK colour where needed.
 
 ---
 
@@ -214,13 +221,13 @@ D. Roads
 
 ## Cross-links
 
-- National SD / SDGs → Topic 15
-- Indian env. organisations + NEERI → Topic 16
-- International conferences → Topic 18
-- Dehradun research institutes detail → Topic 28
-- Literature (Fukuoka, Silent Spring) → Topic 30
-- Environmental days → Topic 31
-- UK biodiversity / parks PYQs → [Topic 2](02_Biodiversity_and_Protected_Areas.md)
-- UK climate vulnerability / SCCC → [Topic 3](03_Climate_Vulnerability_and_Governance.md)
-- Geography UK (relief, drainage, hazards) → Geography `uttarakhand/` folder
-- Dual-exam drill → [UKPCS Environment PYQ Bank](00_UKPCS_PYQ_Bank_Environment.md)
+- Sustainable development / SDGs — shared national spine in the Sustainable Development chapter
+- Indian environmental organisations + NEERI — Organisations (India) chapter
+- International conferences — Agreements & Conferences chapter
+- Dehradun research institutes — Environmental Research & Institutions chapter
+- Literature (Fukuoka, Silent Spring) — Environmental Literature chapter
+- Environmental days — Days chapter
+- UK biodiversity / parks — [Biodiversity and Protected Areas](02_Biodiversity_and_Protected_Areas.md)
+- UK climate vulnerability / SCCC — [Climate Vulnerability and Governance](03_Climate_Vulnerability_and_Governance.md)
+- Geography UK (relief, drainage, hazards) — Geography `uttarakhand/` folder
+- Dual-exam drill — [UKPCS Environment PYQ Bank](00_UKPCS_PYQ_Bank_Environment.md)

@@ -134,7 +134,7 @@
 - **Ambedkar’s flexibility fact:** in **normal times** it is designed to work **federally**; in **Emergency / war** it can work **like a unitary system** — unlike a rigid federation such as the USA, which cannot switch form.
 - **Ambedkar’s origin fact:** Indian federation is **not** the result of an **agreement among States** — States have **no right to secede**; Parliament can alter boundaries (**Art. 3**).
 
-> ** note:** “Type of government” usually means **Parliamentary**; “type of polity/State structure” means **quasi-federal Union**. Do not answer “Presidential” because India has a President.
+> **Logic:** “Type of government” usually means **Parliamentary**; “type of polity/State structure” means **quasi-federal Union**. Do not answer “Presidential” because India has a President.
 
 ---
 
@@ -231,7 +231,7 @@ Amendment of the Constitution is mainly under **Article 368**, but not all const
 | Quasi Federalism | **K.C. Wheare** |
 | Federalism with Centralising Tendency | **Ivor Jennings** |
 
-**Trap:Wheare** = quasi-federal (unitary bias). **Austin** = cooperative. Do **not** swap them.
+**Trap:** Wheare** = quasi-federal (unitary bias). **Austin** = cooperative. Do **not** swap them.
 
 **Inline PYQ — UPPCS Prelims 2019, Q102**
 

@@ -503,7 +503,7 @@ Western Disturbances are **extra-tropical** winter storms. They form near the Me
 | Gradient | Decreases **west → east** |
 | Farm link | Helps rabi wheat; also hail, fog, avalanche risk |
 
-> **Note:** Winter north-west rain comes from **Western Disturbances**. The rainfall gradient runs **west to east**.
+> **Logic:** ** Winter north-west rain comes from **Western Disturbances**. The rainfall gradient runs **west to east**.
 
 ---
 
@@ -697,13 +697,15 @@ Köppen classifies climate by temperature and rainfall letter codes. Thornthwait
 | **B** | Dry (arid / semi-arid) | Thar, rain-shadow Deccan fringe |
 | **C** | Temperate / subtropical with distinct seasons | Ganga plain |
 | **m** | Monsoon (short dry spell) | Kerala / Konkan / NE hills |
-| **w** | Dry **winter** | Interior Deccan (**Aw**); Ganga plain (**Cwg**) |
+| **w** | Dry **winter** | Interior Deccan (**Aw**); Ganga plain (**Cwg**); also the second small letter in strings like **Amw** |
 | **s** | Dry **summer** | **Tamil Nadu As** — dry in SW monsoon; rain in NE monsoon |
 | **h** | Hot | Thar **BWh** |
 
+- In fuller Köppen strings, the **second small letter** marks the **seasonality of dryness**. **Amw** still maps to the **humid monsoon west coast and parts of the north-east** on India maps — not Thar (**BWh**) and not Coromandel dry-summer (**As**).
+
 | Code | Type | India |
 |------|------|-------|
-| **Am** | Tropical monsoon | Kerala / Konkan, north-east (Cherrapunji) |
+| **Am / Amw** | Tropical monsoon (short dry spell; **w** = dry winter in full strings) | Kerala / Konkan, north-east (Cherrapunji) |
 | **Aw** | Tropical savanna | Interior Deccan |
 | **As** | Monsoon with dry **summer** | **Tamil Nadu / Coromandel** (rain in NE monsoon) |
 | **BWh** | Hot desert | **Thar**, Kutch |
@@ -725,10 +727,15 @@ Jet streams are narrow, fast winds near the tropopause. Most mid-latitude jets a
 | **STWJ** | Winter | Westerly | About 25–30° N, south of Himalaya | Steers Western Disturbances |
 | **STWJ north branch** | Winter | Westerly | North of Tibet after the plateau splits the jet | Does not drive India’s winter rain |
 | **STWJ summer position** | Summer | Westerly | North of Tibet | Clears space for monsoon setup |
-| **TEJ** | Summer | Easterly | Near 14° N over the peninsula | Supports SW monsoon |
+| **TEJ** | Summer | Easterly | Near 14° N over the peninsula | Supports SW monsoon circulation |
 | **Somali Jet** | Summer | Cross-equatorial / SW | Off East Africa → Arabian Sea | Feeds SW monsoon moisture |
 
 Calling jet streams generally easterly is false. In winter the Asian westerly jet is split by Tibet; India’s Western Disturbances ride the **southern** branch.
+
+- The **Tropical Easterly Jet (TEJ)** is a **summer** upper-level **easterly** near about **14° N** over the peninsula.
+- It helps maintain the **southwest-monsoon circulation** after the STWJ has jumped north of Tibet.
+- It is **not** the winter jet that steers Western Disturbances, and it is **not** proof that “all jets are easterly.”
+- Keep TEJ separate from the **Somali Jet**, which is the low-level cross-equatorial moisture feed into the Arabian Sea.
 
 **PYQ — UPPCS Prelims 2024, Q60A/R logic:** (A) claims jets are high-altitude **easterlies** (false as a general rule). (R) states a plausible speed. Even if R is true, it does **not** make A true.
 

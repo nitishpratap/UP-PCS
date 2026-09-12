@@ -14,6 +14,13 @@ Ozone Layer | Ozone Depletion | Ozone Hole | Ozone Depleting Substances (ODS) | 
 
 ---
 
+## Current Affairs (this topic)
+
+- Twin of Ozone Layer core — keep Montreal / Kigali as ozone-family CA only.
+- Prefer one consistent ODS story across both ozone chapters.
+
+---
+
 ## Consolidated — 34 Must-Score Facts
 
 1. **Ozone (O₃)** is triatomic oxygen. **Good ozone** sits in the **stratosphere** (about **15–30/35 km**). Ground-level ozone is a harmful pollutant.
@@ -246,7 +253,7 @@ World / International Ozone Day date:
 | Montreal Protocol | **1987** | Binding ODS controls |
 | Kigali Amendment | **2016** (force **1 Jan 2019**) | HFC phase-down under Montreal |
 
-> ** note:** Vienna alone ≠ CFC ban list; Montreal adds the teeth.
+> **Logic:** Vienna alone ≠ CFC ban list; Montreal adds the teeth.
 
 ---
 

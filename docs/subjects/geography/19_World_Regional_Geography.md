@@ -166,7 +166,7 @@ Asia is the **largest** continent. splits: **East / SE / South / West / Central 
 
 India’s usual **land** neighbours are **Pakistan, China, Nepal, Bhutan, Myanmar and Bangladesh**. Some lists also add **Afghanistan** (via PoK). **Sri Lanka and Maldives are sea neighbours.**
 
-> ** note:** Nobi + Kanto → **Japan**. Mongolia and Nepal/Bhutan are the Asian **landlocked** diet with Laos and the ‘stans.
+> **Logic:** ** Nobi + Kanto → **Japan**. Mongolia and Nepal/Bhutan are the Asian **landlocked** diet with Laos and the ‘stans.
 
 **Inline PYQ — UPPCS Prelims 2021, Q55**
 
@@ -307,7 +307,7 @@ The five “stans” plus Kazakhstan’s size define this desk. The **Caspian** 
 
 All five stans except Turkmenistan’s western Caspian shore are **landlocked** (Kazakhstan is landlocked despite Caspian — Caspian is a lake).
 
-> ** note:** Kara Kum is **not** Kazakhstan. Kyzylkum straddles UZB–KAZ — different name.
+> **Logic:** ** Kara Kum is **not** Kazakhstan. Kyzylkum straddles UZB–KAZ — different name.
 
 **Inline PYQ — UPPCS Prelims 2019, Q2**
 

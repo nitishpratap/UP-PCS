@@ -486,8 +486,12 @@ D. Neither 1 nor 2
 | Dual charge | One President | **Can** be Governor of two+ States |
 | Pardon death / court-martial | **Yes** (72) | **No** (161) |
 | Ordinance | Art. 123 (Parliament not in session) | Art. 213 (legislature not in session); **President’s instructions** in some cases |
-| Discretion | Narrow (hung LS, pocket veto, one reconsideration of advice) | **Wider** — 163 + 200 + 356 + hung LA |
-| Reserved Bill re-passed | — | Governor **must** then assent; **President need not** |
+| Discretion | Narrow (hung LS, pocket veto, one reconsideration of advice) | **Wider** — Art. 163 + reservation under Art. 200 + Art. 356 report + hung LA |
+| Reserved Bill re-passed | — | Governor **must** then assent under Art. 200 path; **President need not** under Art. 201 |
+| Pocket / indefinite hold | Art. **111** has **no** fixed time limit (pocket veto) | Art. **200** uses “as soon as possible” for return — different clock from ordinance six weeks |
+
+- Read **President** discretion narrowly and **Governor** discretion more widely under Art. **163**.
+- On a reserved State Bill, Art. **200** binds the Governor after the Assembly re-passes; Art. **201** still leaves the President free to assent, withhold, or return.
 
 ---
 

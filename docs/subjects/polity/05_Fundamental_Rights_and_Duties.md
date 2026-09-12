@@ -29,7 +29,7 @@
 7. **Article 19** gives **six** freedoms to **citizens**. The old property freedom **19(1)(f)** was deleted by the **44th**; property now sits as a **legal right** under **Article 300A**.
 8. The six freedoms are speech and expression, assembly, association (cooperatives reinforced by the **97th**), movement, residence, and profession — each with reasonable restrictions under **19(2)–(6)**.
 9. **Article 20** protects **all persons** against ex post facto criminal law, double jeopardy, and self-incrimination. Torture and privacy questions are **not** solved only by Article 20.
-10. **Article 21** protects life and personal liberty for **all persons**. After *Maneka Gandhi*, procedure must be **fair, just and reasonable**. **Privacy** was locked as a Fundamental Right in ***Puttaswamy* (2017)**.
+10. **Article 21** protects life and personal liberty for **all persons**. After *Maneka Gandhi*, procedure must be **fair, just and reasonable**. **Privacy** was treated as a Fundamental Right in ***Puttaswamy* (2017)**.
 11. **Article 21A** (Right to Education) covers free and compulsory education for ages **6–14**, inserted by the **86th Amendment**. Do not stretch 21A to every age group.
 12. **Article 22**: ordinary arrest needs production before a magistrate within **24 hours**. Preventive detention has a separate code (Advisory Board and three-month rhythm in the usual teaching).
 13. **Articles 23–24** are rights against **exploitation** (begar, trafficking, child labour under 14 in hazardous work). Do not park untouchability here — that is **Article 17** under equality.

@@ -15,6 +15,13 @@
 
 ---
 
+## Current Affairs (this topic)
+
+- SDG progress reports and LiFE / Mission LiFE headlines refresh this chapter’s CA.
+- Brundtland / Agenda 21 / Rio years stay fixed — do not relocate them into Paris-only answers.
+
+---
+
 ## Consolidated — 32 Must-Score Facts
 
 1. **Sustainable development** (Brundtland **1987**, *Our Common Future*) means meeting present needs without compromising future generations’ ability to meet theirs.

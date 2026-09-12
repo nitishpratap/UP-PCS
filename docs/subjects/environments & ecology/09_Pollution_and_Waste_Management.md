@@ -14,6 +14,13 @@ Environmental Pollution | Environmental Degradation | Air Pollution | Water Poll
 
 ---
 
+## Current Affairs (this topic)
+
+- NCAP / CAQM / solid-waste and e-waste rule updates are the living pollution CA layer.
+- Keep primary pollutant vs secondary pollutant and BOD vs COD pairs stable.
+
+---
+
 ## Consolidated — 36 Must-Score Facts
 
 1. **Pollution** is harmful addition beyond the environment’s absorption capacity. **Degradation** is the broader fall in environmental quality and productivity.
@@ -124,7 +131,7 @@ D. Only 1
 - About **30% of India's land area** is degraded according to ISRO desertification assessments.
 - **EIA under EPA 1986** aims to prevent degradation before major projects start.
 
-> ** note:** Afforestation **reverses** degradation; it is not a cause of it.
+> **Logic:** Afforestation **reverses** degradation; it is not a cause of it.
 
 ---
 
@@ -198,7 +205,7 @@ D. Only 1
 - Disease locks: **arsenic** → Black Foot / cancers (WHO limit **0.01 mg/L**); **fluoride** → fluorosis / **knock-knee**; **mercury** → Minamata; **cadmium** → Itai-itai.
 - **Occupational Lung Diseases / Pneumoconiosis (High-Yield UPPCS Match):**
 
-| Disease | Causative Pollutant / Dust | Industry / Occupational Source | Key Exam Feature / Nickname |
+| Disease | Causative Pollutant / Dust | Industry / Occupational Source | Key feature / Nickname |
 |---------|---------------------------|--------------------------------|-----------------------------|
 | **Silicosis** | Free silica ($SiO_2$) dust | Stone crushing, quarrying, mining, glass factories | Progressive lung fibrosis; Rajasthan first state to frame Silicosis Policy (2019) |
 | **Asbestosis** | Asbestos fibers | Roofing sheets, pipe insulation, shipbuilding | Leads to pulmonary fibrosis and **Mesothelioma** (cancer of pleural lining) |
@@ -314,7 +321,7 @@ D. Only 1
 - **Cooling towers** and **cooling ponds** reduce thermal pollution before release.
 - Thermal pollution is regulated through **consent conditions under the Water Act 1974**.
 
-> ** note:** Fish kills mainly follow **DO reduction**, not direct heat toxicity alone.
+> **Logic:** Fish kills mainly follow **DO reduction**, not direct heat toxicity alone.
 
 ---
 
@@ -392,7 +399,7 @@ D. −4°C temperature drop
 - **Swachh Bharat Mission (2014)** targeted open defecation free status and waste management. **SBM 2.0 (2021–2026)** targets garbage-free cities.
 - Biomedical, hazardous, and e-waste follow **separate rules**, not SWM Rules alone.
 
-> ** note:** SWM Rules = **2016**. Segregation is **mandatory**, not optional.
+> **Logic:** SWM Rules = **2016**. Segregation is **mandatory**, not optional.
 
 ---
 
@@ -409,7 +416,7 @@ D. −4°C temperature drop
 - **CBWTF (Common Biomedical Waste Treatment Facility)** serves clusters of healthcare units.
 - Untreated BMW must not be stored beyond **48 hours**.
 
-> ** note:Sharps = white**, not yellow. Yellow = anatomical/infectious soiled waste.
+> **Logic:** Sharps = white**, not yellow. Yellow = anatomical/infectious soiled waste.
 
 | Colour | Waste type | Treatment |
 |--------|------------|-----------|
@@ -432,7 +439,7 @@ D. −4°C temperature drop
 - The **Basel Convention (1989)** controls **transboundary movement** of hazardous waste. India ratified it in **1992**.
 - **Kanpur tannery chromium sludge** is a classic UP hazardous waste example.
 
-> ** note:** Basel = **hazardous waste movement**, not climate or biodiversity.
+> **Logic:** Basel = **hazardous waste movement**, not climate or biodiversity.
 
 ---
 
@@ -450,7 +457,7 @@ D. −4°C temperature drop
 - Consumers must channel e-waste only to **authorized collectors and recyclers**.
 - **Moradabad and Noida** region has significant e-waste generation and informal processing in UP.
 
-> ** note:** Current rules = **2022**. India rank = **3rd**, not 1st.
+> **Logic:** Current rules = **2022**. India rank = **3rd**, not 1st.
 
 ---
 

@@ -397,7 +397,7 @@ Later papers can swap in Ladoga, Victoria, Titicaca, and similar names — learn
 | Largest / deepest freshwater by **volume** | **Baikal** |
 | Lowest / densest salt | **Dead Sea** |
 
-> ** note:** Onega and Ladoga are both **Russia**. Do not park Onega in Canada. Michigan is USA-only; Superior is shared.
+> **Logic:** ** Onega and Ladoga are both **Russia**. Do not park Onega in Canada. Michigan is USA-only; Superior is shared.
 
 ### UP wetlands (state paper gold)
 
@@ -425,7 +425,7 @@ Ramsar **in UP** (learn the names that *are* UP). UP total **13** as of June 202
 | Sultanpur | **Haryana** | Not UP |
 | Surinsar–Mansar | **J&K** | Not UP |
 
-> ** note:** “Which Ramsar sites are **NOT** in UP?” — pick Rudrasagar, Sultanpur, Surinsar–Mansar; do not throw out Sarsai Nawar / Samaspur.
+> **Logic:** ** “Which Ramsar sites are **NOT** in UP?” — pick Rudrasagar, Sultanpur, Surinsar–Mansar; do not throw out Sarsai Nawar / Samaspur.
 
 ### Artificial lakes (reservoirs)
 
@@ -566,7 +566,7 @@ D. Kevti fall
 | **Tulbul** | **Jhelum** at **Wular** | J&K | Navigation/storage; IWT sensitivity; ≠ Baglihar (Chenab) |
 | **Ramganga** (Kalagarh) | Ramganga | **Garhwal (UK)**; command in UP | Length **825.8 m**; power **198 MW**; irrig **~5.75–5.90 lakh ha ≠ 6** |
 
-> **Note:** Ramganga peculiarities — length 825.8 m, 198 MW, Garhwal are correct. **Irrigated area – 6 lakh hectares** is the wrong pair.
+> **Logic:** ** Ramganga peculiarities — length 825.8 m, 198 MW, Garhwal are correct. **Irrigated area – 6 lakh hectares** is the wrong pair.
 
 ### Multipurpose valley cards (Ghatnachakra)
 

@@ -14,6 +14,13 @@ Microplastics | Carbon Credit | Carbon Trading | Net Zero Emissions | Green Fina
 
 ---
 
+## Current Affairs (this topic)
+
+- This chapter is the CA layer — keep NbS, blue economy, and plastics stems current.
+- UP is landlocked: do not invent statewide blue-economy projects.
+
+---
+
 ## Consolidated — 26 Must-Score Facts
 
 1. **Microplastics** are plastic fragments **smaller than 5 mm**. Primary sources include microbeads; secondary sources come from larger plastic breaking down. They are not “fast biodegradable.”
@@ -81,7 +88,7 @@ Microplastics | Carbon Credit | Carbon Trading | Net Zero Emissions | Green Fina
 | Primary | Manufactured small | Microbeads, nurdles |
 | Secondary | Large plastic breaks down | Bag fragments, tyre particles |
 
-> ** note:** Microplastics = **<5 mm**, not 5 cm. "Biodegrade within weeks" = **FALSE**.
+> **Logic:** Microplastics = **<5 mm**, not 5 cm. "Biodegrade within weeks" = **FALSE**.
 
 ---
 
@@ -116,7 +123,7 @@ D. G-8 Summit
 
 </details>
 
-> ** note:** Green Credit Programme **2023 ≠ carbon credit**. Double counting avoided under Paris Article 6.
+> **Logic:** Green Credit Programme **2023 ≠ carbon credit**. Double counting avoided under Paris Article 6.
 
 ---
 
@@ -157,7 +164,7 @@ D. CITES
 | Carbon trading | Market exchanging credits/allowances |
 | Carbon offset | Using credits to compensate own emissions |
 
-> ** note:** Montreal = ozone. Kyoto/Paris = climate. PAT = **energy efficiency**, not carbon directly.
+> **Logic:** Montreal = ozone. Kyoto/Paris = climate. PAT = **energy efficiency**, not carbon directly.
 
 ---
 
@@ -179,7 +186,7 @@ D. CITES
 | China | 2060 |
 | **India** | **2070** |
 
-> ** note:** India net zero = **2070**, not 2050. Net zero ≠ no fossil fuels from tomorrow.
+> **Logic:** India net zero = **2070**, not 2050. Net zero ≠ no fossil fuels from tomorrow.
 
 ---
 
@@ -202,7 +209,7 @@ D. CITES
 | SEBI Green Bond Framework | **2023** |
 | Loss and Damage Fund | **COP28 2023** |
 
-> ** note:** Sovereign Green Bonds = **FY 2022–23**. Loss and Damage Fund = **COP28**, not COP26.
+> **Logic:** Sovereign Green Bonds = **FY 2022–23**. Loss and Damage Fund = **COP28**, not COP26.
 
 ---
 
@@ -243,7 +250,7 @@ D. Only 1
 | Ports/shipping | Sagarmala |
 | Deep-sea exploration | Deep Ocean Mission |
 
-> ** note:** MISHTI = **coastal mangroves**, not Ganga basin. Blue economy = **SDG 14**.
+> **Logic:** MISHTI = **coastal mangroves**, not Ganga basin. Blue economy = **SDG 14**.
 
 ---
 
@@ -283,7 +290,7 @@ D. Only 1
 | Nodal | **MoEFCC** |
 | Actions | **75** pro-planet behaviours |
 
-> ** note:** LiFE = **COP26 2021 / launch 2022** — COP-25 Madrid trap is **FALSE**.
+> **Logic:** LiFE = **COP26 2021 / launch 2022** — COP-25 Madrid trap is **FALSE**.
 
 ---
 

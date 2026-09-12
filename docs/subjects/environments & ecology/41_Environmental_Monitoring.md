@@ -14,6 +14,13 @@ Environmental Indicators | Environmental Monitoring | Environmental Audit
 
 ---
 
+## Current Affairs (this topic)
+
+- CPCB / SPCB monitoring network and satellite products are living CA.
+- Keep ambient vs emission monitoring distinction clear.
+
+---
+
 ## Consolidated — 22 Must-Score Facts
 
 1. The **PSR** model runs **Pressure → State → Response** for environmental indicators.
@@ -103,7 +110,7 @@ Lichens are good pollution indicators; they do **not** grow well in polluted are
 | dB | Noise | Louder / possible breach |
 | Ringelmann | Smoke | Denser plume |
 
-> ** note:** BOD ≠ blood oximetry. Ringelmann ≠ fog meter.
+> **Logic:** BOD ≠ blood oximetry. Ringelmann ≠ fog meter.
 
 ---
 
@@ -154,7 +161,7 @@ SAFAR inaugurated (July 2018) by:
 | SAFAR | IITM | Air + forecast |
 | Noise monitoring | CPCB–SPCB | Sound |
 
-> ** note:** CPCB ≠ groundwater atlas. CGWB ≠ AQI boards.
+> **Logic:** CPCB ≠ groundwater atlas. CGWB ≠ AQI boards.
 
 ---
 
@@ -177,7 +184,7 @@ SAFAR inaugurated (July 2018) by:
 | EC compliance report | Project clearance conditions |
 | SPCB inspection | Enforcement audit on ground |
 
-> ** note:** Passing an AQI reading ≠ completing an environmental audit.
+> **Logic:** Passing an AQI reading ≠ completing an environmental audit.
 
 ---
 

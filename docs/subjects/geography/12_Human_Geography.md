@@ -192,7 +192,7 @@ Rural settlement pattern differs for three NCERT reasons.
 | Himalaya | Stone / slate |
 | Ganga plain | Mud / brick; courtyard houses |
 
-> ** note:Do not** key “Thar = dispersed.” NCERT: Rajasthan is **clustered** because of water scarcity. Dispersed NCERT option = **forests and hills in the North-East**, not the Ganga plain.
+> **Logic:** Do not** key “Thar = dispersed.” NCERT: Rajasthan is **clustered** because of water scarcity. Dispersed NCERT option = **forests and hills in the North-East**, not the Ganga plain.
 
 ---
 
@@ -274,7 +274,7 @@ Size (Census class) and function are **different** questions.
 (Older NCERT MCQ used **2001** order Mumbai > Kolkata > Delhi > Chennai — do not mix.)
 UP million+ **years** and UA order Kanpur > Lucknow > Ghaziabad > Agra.
 
-> ** note:** Class I (**1 lakh**) ≠ metro (**10–50 lakh**) ≠ NCERT mega (**>50 lakh**, six cities) ≠ UN megacity (**1 crore**).
+> **Logic:** ** Class I (**1 lakh**) ≠ metro (**10–50 lakh**) ≠ NCERT mega (**>50 lakh**, six cities) ≠ UN megacity (**1 crore**).
 
 ---
 
@@ -315,7 +315,7 @@ Best cities in that cycle include **Indore** and **Surat**. The best **state** i
 **HRIDAY** (National Heritage City Development and Augmentation Yojana, **Jan 2015**, MoHUA) covers **12** cities nationally. In **UP** only **Varanasi** and **Mathura** are in HRIDAY — not Prayagraj or Ayodhya.
 National 12 (for NOT-matched): Ajmer, Amravati, Amritsar, Badami, Dwarka, Gaya, Kanchipuram, **Mathura**, Puri, **Varanasi**, Velankanni, Warangal.
 
-> ** note:** Ghaziabad as a “Smart City” in 2018/2020 keys is **false**. State-2019 tag does not rewrite those papers.
+> **Logic:** ** Ghaziabad as a “Smart City” in 2018/2020 keys is **false**. State-2019 tag does not rewrite those papers.
 
 **Inline PYQ — UPPCS Prelims 2018, Q41**
 
@@ -387,7 +387,7 @@ D. 18
 | **AMRUT** | **2015** |
 | Jal Jeevan Mission | **2019** |
 
-> ** note:** AMRUT ≠ JNNURM. Rurban **launch 2016**. Smart village ≠ Smart City Mission.
+> **Logic:** ** AMRUT ≠ JNNURM. Rurban **launch 2016**. Smart village ≠ Smart City Mission.
 
 **Inline PYQ — UPPCS Prelims 2023, Q143**
 

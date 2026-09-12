@@ -14,6 +14,13 @@ Air Pollution (Sources | Air Quality | AQI | NCAP | Smog | Photochemical Smog | 
 
 ---
 
+## Current Affairs (this topic)
+
+- Advanced pollution CA mirrors Pollution & Waste — AQI / CAQM / waste-rule updates.
+- Keep criteria-pollutant chemistry pairs consistent with the core pollution chapter.
+
+---
+
 ## Consolidated — 36 Must-Score Facts
 
 1. **Primary** air pollutants are emitted directly (SO₂, PM, CO, NOx, lead). **Secondary** pollutants form in air (O₃, PAN, photochemical smog, acid mist).
@@ -76,7 +83,7 @@ Air Pollution (Sources | Air Quality | AQI | NCAP | Smog | Photochemical Smog | 
 - Primary pollutants include **SO₂, NOx, CO, PM, and VOCs**.
 - UP winter peaks link stubble smoke, vehicles, industry, and Indo-Gangetic inversion.
 
-> ** note:** Stubble smoke is a classic non-point seasonal source in north India.
+> **Logic:** Stubble smoke is a classic non-point seasonal source in north India.
 
 ---
 
@@ -113,7 +120,7 @@ SAFAR inaugurated (July 2018) by:
 
 </details>
 
-> ** note:** Indicator ≠ thrives in dirty air.
+> **Logic:** Indicator ≠ thrives in dirty air.
 
 ---
 
@@ -152,7 +159,7 @@ SAFAR inaugurated (July 2018) by:
 - UP NCAP cities include Lucknow, Kanpur, Ghaziabad, Agra, Varanasi, Meerut, Noida, Prayagraj, Moradabad, Bareilly, and others notified over time.
 - Complements BS-VI fuel, dust control, and industrial CETP/stack measures.
 
-> ** note:** NCAP = city clean-air programme, not a groundwater body.
+> **Logic:** NCAP = city clean-air programme, not a groundwater body.
 
 ---
 
@@ -188,7 +195,7 @@ Options: A. Oxygen and ozone B. Ozone and nitrogen C. Oxygen and nitrogen D. Oxi
 
 </details>
 
-> ** note:** Smog = secondary. Fly ash = primary (and from thermal plants).
+> **Logic:** Smog = secondary. Fly ash = primary (and from thermal plants).
 
 ---
 
@@ -351,7 +358,7 @@ Options: A. Sri Lanka B. Bangladesh C. Bhutan D. Pakistan
 
 </details>
 
-> ** note:** CGWB = groundwater. CPCB = pollution control board standards/monitoring.
+> **Logic:** CGWB = groundwater. CPCB = pollution control board standards/monitoring.
 
 ---
 
@@ -364,7 +371,7 @@ Options: A. Sri Lanka B. Bangladesh C. Bhutan D. Pakistan
 - Chronic chemical risks: **fluorosis** (fluoride), **arsenicosis** (arsenic), nitrate (blue-baby risk in infants).
 - Treatment chain: source protection → filtration/disinfection → safe storage.
 
-> ** note:** Microbial and chemical risks are different drinking-water failure modes.
+> **Logic:** Microbial and chemical risks are different drinking-water failure modes.
 
 ---
 
@@ -377,7 +384,7 @@ Options: A. Sri Lanka B. Bangladesh C. Bhutan D. Pakistan
 - CPCB classifies river stretches for designated best uses (A–E style classes).
 - CPCB/SPCB enforce consent, standards, and monitoring for effluent and ambient water.
 
-> ** note:** Drinking standard (IS 10500) ≠ ambient river class alone.
+> **Logic:** Drinking standard (IS 10500) ≠ ambient river class alone.
 
 ---
 
@@ -389,7 +396,7 @@ Options: A. Sri Lanka B. Bangladesh C. Bhutan D. Pakistan
 - Result: eutrophication, nitrate groundwater rise, and N₂O climate link (Topic 37).
 - Indo-Gangetic wheat–rice systems are high-input geography.
 
-> ** note:** Fertiliser pollution is mostly nutrient overload, not heavy-metal tanning.
+> **Logic:** Fertiliser pollution is mostly nutrient overload, not heavy-metal tanning.
 
 ---
 
@@ -412,7 +419,7 @@ Options: A. Domestic waste B. Urine C. Faecal matter D. Pesticide
 
 </details>
 
-> ** note:** Silent Spring-era logic: persistent pesticides harm ecosystems.
+> **Logic:** Silent Spring-era logic: persistent pesticides harm ecosystems.
 
 ---
 
@@ -461,7 +468,7 @@ Options: A. Kota B. Moradabad C. Indore D. Patna
 
 </details>
 
-> ** note:** Moradabad = noise PYQ city, not only brassware geography.
+> **Logic:** Moradabad = noise PYQ city, not only brassware geography.
 
 ---
 
@@ -484,7 +491,7 @@ Teach CPCB industrial day standard as **75 dB** in general notes.
 
 </details>
 
-> ** note:** Silence < Residential < Commercial < Industrial.
+> **Logic:** Silence < Residential < Commercial < Industrial.
 
 ---
 
@@ -496,7 +503,7 @@ Teach CPCB industrial day standard as **75 dB** in general notes.
 - Damages mangroves, estuaries, turtle nesting beaches, and nearshore fisheries.
 - India’s first **National Centre for Marine Biodiversity (NCMB)** is at **Jamnagar (Gujarat)** — coastal biodiversity safeguarding, not a CPCB/NGT fact.
 
-> ** note:** Coastal pollution is mostly land-origin, not only ship dumps.
+> **Logic:** Coastal pollution is mostly land-origin, not only ship dumps.
 
 ---
 

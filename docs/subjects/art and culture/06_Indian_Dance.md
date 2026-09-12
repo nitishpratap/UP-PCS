@@ -11,7 +11,7 @@ Indian Classical Dances | Bharatanatyam | Kathak | Kathakali | Kuchipudi | Mohin
 > **Sources baked in:** NCERT An Introduction to Indian Art (Class 11), Natyashastra, Sangeet Natak Akademi, UNESCO ICH, UPPCS/UPSC match lists
 > **Weight:** ★★★ — dance ↔ state, SNA **8** (not 7), Kathak Lucknow–UP, folk ≠ classical
 > **Last verified:** August 2026
-> **Current Affairs:Garba of Gujarat** UNESCO ICH **Dec 2023**. Yamini Krishnamurthy died **3 Aug 2024**.
+> **Current Affairs:** Garba of Gujarat** UNESCO ICH **Dec 2023**. Yamini Krishnamurthy died **3 Aug 2024**.
 
 ---
 
@@ -37,7 +37,7 @@ Kalbelia UNESCO **2010**. Chhau **2010**. Sankirtana **2013**. SNA **1952**.
 4. The root text is **Natyashastra** by **Bharata Muni**, with **nine** rasas and four abhinaya: angika, vachika, aharya, and sattvika.
 5. **Nritta** is pure dance without story. **Nritya** adds expressive abhinaya. **Natya** is dance-drama.
 6. **Lasya** is graceful movement. **Tandava** is vigorous movement. Kerala’s pair is male **Kathakali** tandava versus female **Mohiniyattam** lasya.
-7. **Bharatanatyam** uses the **araimandi** half-sit stance and grew from temple **sadir**. **Rukmini Devi Arundale** and Kalakshetra led the modern stage revival.
+7. **Bharatanatyam** uses the **araimandi** half-sit stance and grew from temple **sadir. Rukmini Devi Arundale** and Kalakshetra led the modern stage revival.
 8. **Kathak** is the Hindustani classical dance among the eight. Marker facts are **chakkar** spins and **tatkar** footwork.
 9. Kathak gharanas are **Lucknow** (Wajid Ali Shah, Bindadin, Birju Maharaj), **Jaipur**, and **Banaras**. Lucknow Kathak is the core UP fact.
 10. **Kathakali** of Kerala uses heavy **chutti** makeup and colour codes such as **pacha**. It is dance-drama, not north Indian Kathak.
@@ -78,7 +78,7 @@ Kalbelia UNESCO **2010**. Chhau **2010**. Sankirtana **2013**. SNA **1952**.
 
 ## 6.1 Indian Classical Dances
 
-**Count:8** (Sangeet Natak Akademi) | **Root text:** Natyashastra (Bharata) | **8th added:** Sattriya **2000**
+**Count:** 8** (Sangeet Natak Akademi) | **Root text:** Natyashastra (Bharata) | **8th added:** Sattriya **2000**
 
 - SNA list is **eight**. A paper that says seven has dropped **Sattriya**.
 - **Chhau is not** in the SNA eight. It is on UNESCO ICH, and some ministry notes call it a ninth style. default is **not classical eight**.
@@ -110,7 +110,7 @@ Kalbelia UNESCO **2010**. Chhau **2010**. Sankirtana **2013**. SNA **1952**.
 - **Manipuri** belongs to Manipur.
 - **Sattriya** belongs to Assam. SNA recognised it in **2000**.
 
-> ** note:** Two forms are from Kerala. Kathak is not Kathakali. Sattriya is the latest of the eight.
+> **Logic:** Two forms are from Kerala. Kathak is not Kathakali. Sattriya is the latest of the eight.
 
 ---
 
@@ -127,13 +127,13 @@ Kalbelia UNESCO **2010**. Chhau **2010**. Sankirtana **2013**. SNA **1952**.
 - **Yamini Krishnamurthy** danced Bharatanatyam and Kuchipudi. She died **3 Aug 2024**.
 - It is not from Kerala. It is not tribhangi (that is Odissi).
 
-> ** note:** Sadir became Bharatanatyam. Rukmini Devi is Kalakshetra, not Kathak.
+> **Logic:** Sadir became Bharatanatyam. Rukmini Devi is Kalakshetra, not Kathak.
 
 ---
 
 ## 6.3 Kathak
 
-**Region:** North | **Music:Hindustani** (only classical eight with this fact) | **UP home:** Lucknow
+**Region:** North | **Music:** Hindustani** (only classical eight with this fact) | **UP home:** Lucknow
 
 - The name is from *kathaka*, meaning storyteller. It is not the Vedic **Kathaka** samhita.
 - The marks are **tatkar** (footwork), **chakkar** (spins), and **ghungroo**. A verse is often recited then danced.
@@ -149,7 +149,7 @@ Kalbelia UNESCO **2010**. Chhau **2010**. Sankirtana **2013**. SNA **1952**.
 - Birju Maharaj died **16 Jan 2022**. He belongs to the Lucknow line.
 - Accompaniment is tabla, sometimes pakhawaj, and sarangi or harmonium. Mridangam is not the primary fact.
 
-> ** note:** Lucknow Kathak belongs to **UP**. Wajid Ali Shah is the Awadh peak, not Akbar.
+> **Logic:** Lucknow Kathak belongs to **UP**. Wajid Ali Shah is the Awadh peak, not Akbar.
 
 ---
 
@@ -168,7 +168,7 @@ Kalbelia UNESCO **2010**. Chhau **2010**. Sankirtana **2013**. SNA **1952**.
 - The training home is **Kerala Kalamandalam** (Vallathol).
 - It is not Mohiniyattam. It is not Kathak.
 
-> ** note:** Green face marks the hero. Kathakali is Kerala male dance-drama.
+> **Logic:** Green face marks the hero. Kathakali is Kerala male dance-drama.
 
 ---
 
@@ -183,26 +183,26 @@ Kalbelia UNESCO **2010**. Chhau **2010**. Sankirtana **2013**. SNA **1952**.
 - **Yamini Krishnamurthy** is also a Kuchipudi exponent.
 - It is not from Tamil Nadu. It is not the plate-less pure margam of Bharatanatyam.
 
-> ** note:** The plate is Kuchipudi tarangam. The village is in **AP**, not TN.
+> **Logic:** The plate is Kuchipudi tarangam. The village is in **AP**, not TN.
 
 ---
 
 ## 6.6 Mohiniyattam
 
-**State:** Kerala | **Who:** female solo | **Mood:lasya** (Mohini avatar)
+**State:** Kerala | **Who:** female solo | **Mood:** lasya** (Mohini avatar)
 
 - The costume fact is white or off-white with a **gold** border (kasavu).
 - It uses soft swaying, not Kathakali jumps and stamps.
 - Revival is linked to **Vallathol Narayana Menon** and Kerala Kalamandalam (same house as Kathakali, different form).
 - It is the second Kerala classical. It is a pair trap with Kathakali.
 
-> ** note:** Kerala female white-gold is Mohiniyattam. Kerala male green-face is Kathakali.
+> **Logic:** Kerala female white-gold is Mohiniyattam. Kerala male green-face is Kathakali.
 
 ---
 
 ## 6.7 Odissi
 
-**State:** Odisha | **Temple:** Jagannath, Puri | **Body fact:tribhangi** (three bends)
+**State:** Odisha | **Temple:** Jagannath, Puri | **Body fact:** tribhangi** (three bends)
 
 - The other stance is **chowk** (square, masculine).
 - The streams are **Mahari** (temple women) and **Gotipua** (boys as women), later nartaki/concert.
@@ -210,7 +210,7 @@ Kalbelia UNESCO **2010**. Chhau **2010**. Sankirtana **2013**. SNA **1952**.
 - Sculpture on Odisha temples (Konark, Jagannath) matches the Odissi poses.
 - It is not Bharatanatyam araimandi.
 
-> ** note:** Tribhangi is Odissi. Gotipua is not Mahari.
+> **Logic:** Tribhangi is Odissi. Gotipua is not Mahari.
 
 ---
 
@@ -225,13 +225,13 @@ Kalbelia UNESCO **2010**. Chhau **2010**. Sankirtana **2013**. SNA **1952**.
 - Guru **Bipin Singh** shaped the modern concert form.
 - **Sankirtana** (song + drum + dance) is UNESCO **2013**. Do not call Sankirtana a ninth SNA classical.
 
-> ** note:** Manipuri Ras Lila is not Braj folk Raslila (UP).
+> **Logic:** Manipuri Ras Lila is not Braj folk Raslila (UP).
 
 ---
 
 ## 6.9 Sattriya
 
-**State:** Assam | **Founder:Srimanta Sankaradeva** (15th–16th c.) | **SNA classical:2000**
+**State:** Assam | **Founder:** Srimanta Sankaradeva** (15th–16th c.) | **SNA classical:** 2000**
 
 - It was born in **satra** monasteries as Vaishnava preaching.
 - It mixes music, dance, and drama (**Ankiya Nat / Bhaona**).
@@ -240,7 +240,7 @@ Kalbelia UNESCO **2010**. Chhau **2010**. Sankirtana **2013**. SNA **1952**.
 - The instruments are khol and taal. The songs are **borgeet**.
 - It is the latest of the eight. It is not Odissi. It is not Manipuri.
 
-> ** note:** Sattriya is Assam, Sankaradeva, and **2000**. Omitting it makes “7 classical.”
+> **Logic:** Sattriya is Assam, Sankaradeva, and **2000**. Omitting it makes “7 classical.”
 
 ---
 
@@ -270,11 +270,13 @@ Kalbelia UNESCO **2010**. Chhau **2010**. Sankirtana **2013**. SNA **1952**.
 - **Raslila** belongs to Braj / Mathura–Vrindavan. It is a Krishna folk play, not Manipuri classical.
 - **Charkula** belongs to Braj. A brass lamp-tier is worn on the head.
 - **Mayur nritya** belongs to Braj. It uses a peacock costume.
+- **Karma** / related harvest dances appear in eastern UP and neighbouring tribal belts in folk lists — do not mark them as SNA classical.
 - **Nautanki** is Gangetic folk opera of **UP**. It has Kanpur and Lucknow schools. It is named in Ain-i-Akbari.
 - **Chholiya** belongs to Kumaon (now Uttarakhand, old UP hills). It is a sword wedding dance.
 - **Kajari** is a monsoon song of Banaras–Mirzapur. It is dance-adjacent, not a classical form.
+- Keep Braj Raslila, Charkula, and Mayur as **UP folk** — never as the eighth classical SNA form.
 
-> ** note:** Garba is UNESCO 2023 folk, **not** classical. Braj Raslila is **UP folk**.
+> **Logic:** Garba is UNESCO 2023 folk, **not** classical. Braj Raslila is **UP folk**.
 
 ---
 
@@ -296,7 +298,7 @@ Kalbelia UNESCO **2010**. Chhau **2010**. Sankirtana **2013**. SNA **1952**.
 - **Tharu** belongs to the Terai (Lakhimpur Kheri, Pilibhit, Bahraich). It is a stick or community dance.
 - **Buksa / Raji** belongs to the UP–Uttarakhand border. This is a name-fact only.
 
-> ** note:** Cheraw belongs to **Mizoram**. Tharu belongs to **UP Terai**. Santhal is not a UP-majority fact.
+> **Logic:** Cheraw belongs to **Mizoram**. Tharu belongs to **UP Terai**. Santhal is not a UP-majority fact.
 
 ---
 

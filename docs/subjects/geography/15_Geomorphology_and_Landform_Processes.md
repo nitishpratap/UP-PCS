@@ -35,7 +35,7 @@ Process chapter — no living scheme tag. Static PYQ surface (trellis, deltas, I
 8. Fluvial stages: youth = **V-valley / waterfall / pothole**; mature = **meander / floodplain / levee**; old = **ox-bow / delta / peneplain**. Rejuvenation adds knickpoints, terraces and incised meanders.
 9. On a meander, the **concave** bank erodes and the **convex** bank builds a **point bar**. A **yazoo** stream is deferred behind a levee. Mountain-foot dumps are **alluvial fans**; coalescing fans form a **bajada**.
 10. Stream genetic types include consequent, subsequent, obsequent and resequent. **Antecedent** streams cut rising land; **superimposed** streams inherit a course from a cover; subsequent streams follow structure.
-11. **Bird’s-foot** delta = **Mississippi**. **Arcuate** deltas = **Nile** and **Ganga–Brahmaputra**. **Cuspate** pair = Tiber. **Moribund** delta lobe = **Cauvery**. Eastern India mouths favour deltas; western mouths often form **estuaries** (Narmada / Tapi).
+11. **Bird’s-foot** delta = **Mississippi**. **Arcuate** deltas = **Nile** and **Ganga–Brahmaputra**. **Cuspate** pair = Tiber. **Moribund** has two frames: **Bengal subdivision** (UPPCS 2019) vs **Cauvery lobe** in landform match-lists — read the stem. Eastern India mouths favour deltas; western mouths often form **estuaries** (Narmada / Tapi).
 12. Drainage patterns: **folded** beds → **trellis**; homogeneous rock → **dendritic**; dome → **radial**; joints / faults → **rectangular**.
 13. The classic fault-valley river tag is the **Damodar**, not the Chambal. **Narmada–Tapi** are rift / fault-line pairs as well.
 14. The **Imphal** basin is **lacustrine** (lake-filled), not loess or glacial. Kashmir Vale also has lacustrine / structural pairs. **Loess** is wind-laid silt (China belt), not Imphal.
@@ -68,7 +68,7 @@ Process chapter — no living scheme tag. Static PYQ surface (trellis, deltas, I
 | Trellis | **Folded** structures | Dendritic on folds | जाल / जाली |
 | Bird’s-foot delta | **Mississippi** | Ganga / Nile | पक्षी-पाद |
 | Arcuate delta | **Nile, Ganga–Brahmaputra** | Mississippi | चापाकार |
-| Moribund delta | **Cauvery** | Bengal / KG | मृतप्राय |
+| Moribund (two frames) | **Bengal subdivision** vs **Cauvery lobe** — read stem | Mixing both into one key | मृतप्राय |
 | Imphal basin | **Lacustrine** | Loess / glacial | झीलकृत |
 | Barchan horns | Point **downwind** | Upwind | बरखान |
 | Stalactite | **Ceiling** | Floor | स्टैलेक्टाइट |
@@ -246,7 +246,7 @@ The **rock cycle** is the continuous pathway that turns magma and rock from one 
 | Igneous or sedimentary | Heat + pressure (no full melt) | Metamorphic |
 | Any rock | Melting | Magma |
 
-> ** note:** Weathering alone does **not** make sedimentary rock. Sediment must also be deposited and lithified.
+> **Logic:** ** Weathering alone does **not** make sedimentary rock. Sediment must also be deposited and lithified.
 
 ---
 
@@ -367,7 +367,7 @@ Running water progresses from sheet to rill to gully and, in the classic case, t
 
 Agents often work together. A river may inherit a glacial trough, and wind may rework beach sand into dunes.
 
-> ** note:** Weathering prepares rock in place; an **agent of erosion** must also transport. Do not treat frost wedging alone as “river work.”
+> **Logic:** ** Weathering prepares rock in place; an **agent of erosion** must also transport. Do not treat frost wedging alone as “river work.”
 
 ---
 
@@ -421,13 +421,14 @@ Rivers cut, carry and deposit. Davis stages are a teaching ladder, not a strict 
 **Cycle theories**
 
 - **Davis** framed erosion as **structure–process–time**: youth → mature → old age, ending in a humid **peneplain** with leftover **monadnocks**.
-- **Penck** argued that uplift and denudation often work **together**, so landforms need not wait for a neat old-age stage.
+- **Penck** argued that uplift and denudation often work **together**, so landscapes need not wait for a neat old-age plain.
 - **L.C. King** stressed pediment retreat in arid and savanna lands, ending in a **pediplain** rather than a Davis peneplain.
+- Do not mix the three end-products. **Davis** = humid **peneplain**. **King** = arid **pediplain**. **Penck** is about **simultaneous uplift and erosion**, not a third plain name and not King’s pediment story.
 
 | Theory | Quick recall |
 |--------|--------------|
 | **Davis** | Structure–process–time → **peneplain** + **monadnock** |
-| **Penck** | Uplift and denudation **together** |
+| **Penck** | Uplift and denudation **together** (no neat old-age wait) |
 | **L.C. King** | Pediment retreat → **pediplain** |
 
 ### Stream origin names — Teaching Card
@@ -440,6 +441,7 @@ Genetic stream names describe **what the river follows**, not how big it is.
 - A **resequent** stream later flows in the **same direction** as the original consequent, after the landscape has been reworked.
 - An **insequent** stream shows **no obvious structural control** — common where rock is uniform and drainage is **dendritic**.
 - **Antecedent** drainage is **older than the uplift** it cuts — Himalayan transverse giants (Indus, Sutlej, Brahmaputra and often Ganga in keys) are the classic Indian centre.
+- **Antecedent** is genetic history. **Dendritic** is plan-view pattern on uniform rock or alluvium. The Ganga can be **antecedent** in uplift-origin keys and still show **dendritic** drainage on the Ganga–Assam plain — different questions, not a contradiction.
 - **Superimposed** drainage is **inherited from a cover** that is now stripped — the **Chambal** is the classic Indian example.
 - **Concordant** drainage follows structure and slope; **discordant** drainage cuts across structure.
 - In **river capture / piracy**, an aggressive **pirate** stream beheads its neighbour, leaving an **elbow of capture**, a dry **wind gap**, and a **misfit** stream behind.
@@ -465,7 +467,9 @@ A delta needs a large load, a quiet coast and a shallow shelf. Strong tides or w
 - A **bird’s-foot** delta sends long toe-like distributaries into quiet water — the classic is the **Mississippi**. The Ganga is **not** this type.
 - A **cuspate** delta is **tooth / pointed** where opposing waves pinch the mouth — Tiber (Italy) and Ebro are the usual pairs.
 - An **estuarine** mouth fills a drowned funnel rather than building a big fan — many west-India type mouths.
-- A **moribund** delta lobe is an **abandoned / dying** part of a delta — India’s coaching tag is the **Cauvery** lobe (not Bengal / KG / Mahanadi as the “moribund river” pick in that stem family).
+- A **moribund** delta belt is an **abandoned / dying** part of a delta.
+- Indian papers use **two frames**. If the stem says **subdivision** of a named delta (UPPCS 2019), answer **Bengal Delta** (moribund–mature–active belts). If the stem asks which river’s delta is the **moribund / abandoned lobe** in landform lists, coaching often keys **Cauvery**.
+- Do **not** pick Krishna–Godavari or Mahanadi for either classic stem. Do **not** force one answer for both wordings.
 - India: **east-coast deltas** sit on a wide shelf; **west-coast estuaries** favour **Narmada** and **Tapi**.
 - The **Mekong** rises on the **Tibetan Plateau**; its delta is in **southern Vietnam**, not southern Cambodia.
 
@@ -475,7 +479,8 @@ A delta needs a large load, a quiet coast and a shallow shelf. Strong tides or w
 | **Bird’s-foot** | Distributaries like toes | **Mississippi**. Ganga is **not** this |
 | **Cuspate** | Tooth / pointed | Tiber (Italy), Ebro |
 | **Estuarine** | Fills a drowned mouth | Some European / west-India type mouths |
-| **Moribund** | Abandoned / dying lobe | **Cauvery** — not Bengal / KG / Mahanadi |
+| **Moribund (subdivision stem)** | Dying belt inside Bengal’s scheme | **Bengal Delta** (UPPCS 2019) |
+| **Moribund (lobe / river stem)** | Abandoned / ageing delta | **Cauvery** in many landform keys |
 
 **Inline PYQ — UPPCS Prelims 2018, Q33**
 
@@ -497,20 +502,23 @@ D. Cauvery
 
 **Inline PYQ — UPPCS Prelims 2019, Q85**
 
-Moribund delta is associated with which Indian river subdivision?
+'Moribund Delta' is a subdivision of which of the following Delta?
 
-A. Bengal delta
+A. Krishna–Godawari Delta
 
-B. Cauvery
+B. Mahanadi Delta
 
-C. Krishna–Godavari
+C. Bengal Delta
 
-D. Mahanadi
+D. Cauvery Delta
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — **Cauvery** moribund lobe.
+**Logic:** The stem says **subdivision**. That wording matches Bengal’s moribund–mature–active scheme, not the separate Cauvery “ageing lobe” match-list.
+
+**Ans: C** — **Bengal Delta**. Cauvery is the usual wrong pick when students remember only the lobe tag.
+
 </details>
 
 **Inline PYQ — UPPCS Prelims 2021, Q121**
@@ -932,7 +940,10 @@ D. Cauvery Delta
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Logic:** Stem language is **subdivision** of a named delta — Bengal’s moribund–mature–active scheme.
+
+**Ans: C** — **Bengal Delta**. Trap D is the Cauvery lobe memory from landform match-lists.
+
 </details>
 
 ---
@@ -1023,8 +1034,6 @@ Older multi-PCS and standard stems for weathering · erosion · fluvial · drain
 
 **Q-GC1. Standard / multi-PCS**
 
-**Logic:** The stem separates **in-situ** breakdown from transport.
-
 Weathering differs from erosion because weathering:
 
 A. Always needs running water
@@ -1038,6 +1047,8 @@ D. Only builds deltas
 <details>
 <summary>Show answer</summary>
 
+**Logic:** The stem separates **in-situ** breakdown from transport.
+
 **Ans: B.** Weathering disintegrates rock where it stands. Erosion picks up and carries the debris. Trap: do not treat weathering and erosion as the same word.
 
 </details>
@@ -1045,8 +1056,6 @@ D. Only builds deltas
 ---
 
 **Q-GC2. Standard / multi-PCS**
-
-**Logic:** Chemical route names are easy to swap with physical freeze–thaw.
 
 Which of the following is a **chemical** weathering process?
 
@@ -1061,6 +1070,8 @@ D. Abrasion by wind sand
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Chemical route names are easy to swap with physical freeze–thaw.
+
 **Ans: C.** Carbonation dissolves limestone with carbonic acid. Frost action and abrasion are physical. Trap: carbonation is not the same as simple mechanical cracking.
 
 </details>
@@ -1068,8 +1079,6 @@ D. Abrasion by wind sand
 ---
 
 **Q-GC3. Standard / multi-PCS**
-
-**Logic:** Folded structure → one classic pattern.
 
 Drainage pattern most typical of **folded** alternating hard and soft beds is:
 
@@ -1084,6 +1093,8 @@ D. Centripetal
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Folded structure → one classic pattern.
+
 **Ans: B.** Trellis follows strike valleys and cross-cutting subsequent streams on folded belts. Dendritic prefers homogeneous rock. Trap: radial is for domes / volcanoes.
 
 </details>
@@ -1091,8 +1102,6 @@ D. Centripetal
 ---
 
 **Q-GC4. Standard / multi-PCS**
-
-**Logic:** Homogeneous rock and many tributaries on a gentle plain.
 
 Dendritic drainage is most likely where:
 
@@ -1107,6 +1116,8 @@ D. A perfect volcanic cone alone exists
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Homogeneous rock and many tributaries on a gentle plain.
+
 **Ans: B.** Tree-like branching needs little structural control. Trap: rectangular is the joint/fault pattern.
 
 </details>
@@ -1114,8 +1125,6 @@ D. A perfect volcanic cone alone exists
 ---
 
 **Q-GC5. Standard / multi-PCS**
-
-**Logic:** Bird’s-foot vs arcuate is a classic swap.
 
 Bird’s-foot delta is classically associated with the:
 
@@ -1130,6 +1139,8 @@ D. Tiber
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Bird’s-foot vs arcuate is a classic swap.
+
 **Ans: C.** Mississippi is the classic bird’s-foot. Nile and Ganga–Brahmaputra are **arcuate**. Trap: do not mark Ganga as bird’s-foot.
 
 </details>
@@ -1137,8 +1148,6 @@ D. Tiber
 ---
 
 **Q-GC6. Standard / multi-PCS**
-
-**Logic:** Moribund lobe name is often dumped on Bengal wrongly.
 
 ‘Moribund delta’ is classically linked with the:
 
@@ -1153,15 +1162,15 @@ D. **Cauvery Delta**
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** The moribund lobe tag belongs to the **Cauvery**. Trap: Bengal is active/arcuate, not this label.
+**Logic:** This Extra Drill stem uses the **landform lobe** wording (no “subdivision of … Delta”). That family keys **Cauvery**. If a year-coded stem says **subdivision**, answer **Bengal** instead.
+
+**Ans: D.** The moribund **lobe** tag belongs to the **Cauvery**. Trap: dumping Bengal’s subdivision answer onto every moribund stem.
 
 </details>
 
 ---
 
 **Q-GC7. Standard / multi-PCS**
-
-**Logic:** Fault-valley Indian river cue.
 
 Which river is the classic Indian example of **fault-valley drainage**?
 
@@ -1176,6 +1185,8 @@ D. Ramganga
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Fault-valley Indian river cue.
+
 **Ans: B.** Damodar follows a faulted trough. Chambal is ravine country. Trap: Narmada–Tapi are rifts too, but Damodar is the usual named option in this stem family.
 
 </details>
@@ -1183,8 +1194,6 @@ D. Ramganga
 ---
 
 **Q-GC8. Standard / multi-PCS**
-
-**Logic:** Metamorphic parent → daughter pairs.
 
 Marble is metamorphosed:
 
@@ -1199,6 +1208,8 @@ D. Shale
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Metamorphic parent → daughter pairs.
+
 **Ans: B.** Limestone → marble. Sandstone → quartzite. Granite → gneiss. Shale → slate/schist. Trap: sandstone–marble swap.
 
 </details>
@@ -1206,8 +1217,6 @@ D. Shale
 ---
 
 **Q-GC9. Standard / multi-PCS**
-
-**Logic:** Youthful river vs glacier valley shape.
 
 A **U-shaped** valley is typically produced by:
 
@@ -1222,6 +1231,8 @@ D. Groundwater solution alone
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Youthful river vs glacier valley shape.
+
 **Ans: B.** Glaciers carve U-valleys. Youthful rivers carve **V**-valleys. Trap: hanging valleys are also glacial.
 
 </details>
@@ -1229,8 +1240,6 @@ D. Groundwater solution alone
 ---
 
 **Q-GC10. UKPCS Prelims 2024 / standard**
-
-**Logic:** Hanging valley is a glacial landform, not wind or waves.
 
 The landform of 'Hanging Valley' is associated with which of the following geomorphic process?
 
@@ -1245,6 +1254,8 @@ D. Running Water
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Hanging valley is a glacial landform, not wind or waves.
+
 **Ans: B.** A hanging valley forms when a tributary glacier floor stands higher than the main glacial trough, often with a waterfall. Trap: running water makes V-valleys, not this hanging floor.
 
 </details>
@@ -1252,8 +1263,6 @@ D. Running Water
 ---
 
 **Q-GC11. UKPCS Prelims 2024 / standard**
-
-**Logic:** Wide plains, gentle slope, many tributaries → dendritic.
 
 Which drainage pattern is commonly found in Ganga plains and Assam Valley, characterized by wide plains, gentle slopes, heavy rains and a large number of tributaries?
 
@@ -1268,6 +1277,8 @@ D. Rectangular drainage pattern
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Wide plains, gentle slope, many tributaries → dendritic.
+
 **Ans: B.** The Ganga–Assam plain pattern is classically **dendritic**. Antecedent is about cutting rising land, not this plain description. Trap: radial needs a dome or volcano.
 
 </details>
@@ -1275,8 +1286,6 @@ D. Rectangular drainage pattern
 ---
 
 **Q-GC12. UKPCS Prelims 2021 / standard**
-
-**Logic:** Three options are metamorphic; one is not.
 
 Which of the following is **not** an example of metamorphic rock?
 
@@ -1291,6 +1300,8 @@ D. **Dolomite**
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Three options are metamorphic; one is not.
+
 **Ans: D.** Dolomite is a **sedimentary** carbonate rock. Quartzite, marble and gneiss are metamorphic. Trap: dolomite sounds “rock-hard” so it is a common wrong metamorphic pick.
 
 </details>
@@ -1298,8 +1309,6 @@ D. **Dolomite**
 ---
 
 **Q-GC13. Standard / multi-PCS**
-
-**Logic:** Concave vs convex bank on a meander.
 
 On a river meander, erosion is strongest on the:
 
@@ -1314,6 +1323,8 @@ D. Floodplain levee crest only
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Concave vs convex bank on a meander.
+
 **Ans: B.** The outer **concave** bank erodes as a river cliff. The inner **convex** bank builds a point bar. Trap: swapping concave and convex.
 
 </details>
@@ -1321,8 +1332,6 @@ D. Floodplain levee crest only
 ---
 
 **Q-GC14. Standard / multi-PCS**
-
-**Logic:** Stalactite vs stalagmite direction.
 
 Stalactites in a limestone cave grow:
 
@@ -1337,6 +1346,8 @@ D. Only outside the cave mouth
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Stalactite vs stalagmite direction.
+
 **Ans: B.** Stalactites hang from the ceiling. Stalagmites grow up from the floor. Trap: the names are easy to reverse.
 
 </details>
@@ -1344,8 +1355,6 @@ D. Only outside the cave mouth
 ---
 
 **Q-GC15. Standard / multi-PCS**
-
-**Logic:** Barchan horn direction.
 
 In a barchan dune, the horns point:
 
@@ -1360,6 +1369,8 @@ D. Toward the wet side only
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Barchan horn direction.
+
 **Ans: B.** Barchan horns point **downwind**. The steep slip face is on the lee side. Trap: reversing horn direction.
 
 </details>
@@ -1367,8 +1378,6 @@ D. Toward the wet side only
 ---
 
 **Q-GC16. Standard / multi-PCS**
-
-**Logic:** Coastal erosional chain end-members.
 
 A sea **stack** forms after the collapse of a:
 
@@ -1383,6 +1392,8 @@ D. Barrier bar
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Coastal erosional chain end-members.
+
 **Ans: B.** Cliff → cave → arch → **stack** → stump is the erosional chain. Spits and tombolos are depositional. Trap: calling a spit a stack.
 
 </details>
@@ -1390,8 +1401,6 @@ D. Barrier bar
 ---
 
 **Q-GC17. Standard / multi-PCS**
-
-**Logic:** East vs west Indian mouths.
 
 Narmada and Tapi typically form:
 
@@ -1406,6 +1415,8 @@ D. Moribund Cauvery-type lobes only
 <details>
 <summary>Show answer</summary>
 
+**Logic:** East vs west Indian mouths.
+
 **Ans: B.** West-flowing Narmada and Tapi favour **estuaries**, not big arcuate deltas. Trap: assuming every Indian river mouth is a delta.
 
 </details>
@@ -1413,8 +1424,6 @@ D. Moribund Cauvery-type lobes only
 ---
 
 **Q-GC18. Standard / multi-PCS**
-
-**Logic:** Intrusive vs extrusive pair.
 
 Granite is typically:
 
@@ -1429,6 +1438,8 @@ D. Chemical sedimentary evaporite
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Intrusive vs extrusive pair.
+
 **Ans: B.** Granite cools slowly underground (intrusive). Basalt is the classic extrusive basic lava. Trap: granite–basalt swap.
 
 </details>
@@ -1436,8 +1447,6 @@ D. Chemical sedimentary evaporite
 ---
 
 **Q-GC19. Standard / multi-PCS**
-
-**Logic:** Genetic stream that cuts rising land.
 
 An **antecedent** stream is one that:
 
@@ -1452,6 +1461,8 @@ D. Is always artificial
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Genetic stream that cuts rising land.
+
 **Ans: B.** Antecedent rivers keep their path while land rises, often forming deep gorges. Superimposed rivers inherit a course from a cover. Trap: confusing antecedent with consequent.
 
 </details>
@@ -1459,8 +1470,6 @@ D. Is always artificial
 ---
 
 **Q-GC20. Standard / multi-PCS**
-
-**Logic:** Mountain-foot fluvial dump.
 
 An **alluvial fan** forms mainly:
 
@@ -1475,6 +1484,8 @@ D. Only as a coastal spit
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Mountain-foot fluvial dump.
+
 **Ans: B.** Steep mountain streams dump load when slope flattens. Coalescing fans make a bajada. Trap: mixing fans with deltas.
 
 </details>
@@ -1482,8 +1493,6 @@ D. Only as a coastal spit
 ---
 
 **Q-GC21. Standard / multi-PCS**
-
-**Logic:** Imphal basin origin.
 
 The Imphal Basin surrounded by Manipur hills is a:
 
@@ -1498,6 +1507,8 @@ D. Pure aeolian erg
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Imphal basin origin.
+
 **Ans: C.** Imphal is a classic **lacustrine** (lake-bed) plain. Trap: glacial or loess labels.
 
 </details>
@@ -1505,8 +1516,6 @@ D. Pure aeolian erg
 ---
 
 **Q-GC22. Standard / multi-PCS**
-
-**Logic:** Davis cycle old-age landform.
 
 A **peneplain** belongs mainly to which fluvial stage idea?
 
@@ -1521,6 +1530,8 @@ D. Pure glacial cirque stage
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Davis cycle old-age landform.
+
 **Ans: C.** Peneplain is the low, nearly flat end product in the Davis old-age sketch. Trap: calling waterfall country a peneplain.
 
 </details>
@@ -1528,8 +1539,6 @@ D. Pure glacial cirque stage
 ---
 
 **Q-GC23. UKPCS Prelims 2016 / standard**
-
-**Logic:** Day-to-day coastal attack is wave work.
 
 Maximum coastal erosion is caused by:
 
@@ -1544,6 +1553,8 @@ D. Tsunami waves
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Day-to-day coastal attack is wave work.
+
 **Ans: A.** Ordinary coastal cliff and beach erosion is driven mainly by **waves**. Tsunamis are rare extremes. Trap: picking tsunami as the everyday answer.
 
 </details>
@@ -1551,8 +1562,6 @@ D. Tsunami waves
 ---
 
 **Q-GC24. UKPCS Prelims 2025 / standard**
-
-**Logic:** Shiwalik youth → loose sediment, not hard metamorphic.
 
 The Shiwalik range is primarily composed of which type of material?
 
@@ -1567,6 +1576,8 @@ D. Metamorphic rocks
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Shiwalik youth → loose sediment, not hard metamorphic.
+
 **Ans: C.** Shiwaliks are thick **unconsolidated** river-borne sediments — landslide-prone and dun-forming. Trap: calling them metamorphic like Greater Himalaya crystallines.
 
 </details>
@@ -1574,8 +1585,6 @@ D. Metamorphic rocks
 ---
 
 **Q-GC25. UKPCS Prelims 2025 / standard**
-
-**Logic:** Vertical erosion in an arid uplifted plateau.
 
 The Grand Canyon of the U.S.A. is formed by which river?
 
@@ -1590,6 +1599,8 @@ D. **Colorado**
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Vertical erosion in an arid uplifted plateau.
+
 **Ans: D.** The **Colorado** cut the Grand Canyon through the Colorado Plateau. Trap: picking another long North American river.
 
 </details>
@@ -1597,8 +1608,6 @@ D. **Colorado**
 ---
 
 **Q-GC26. M.P.P.C.S. (Pre) 1993**
-
-**Logic:** Deep adjoining sea hinders quiet shelf deposition needed for a classic delta.
 
 Formation of a delta is affected by:
 
@@ -1613,6 +1622,8 @@ D. Deep sea
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Deep adjoining sea hinders quiet shelf deposition needed for a classic delta.
+
 **Ans: D.** A **deep sea** at the mouth works against the quiet, shallow shelf conditions that favour delta build-up. Trap: marking only rocks or winds when the stem’s key is depth of the receiving water body.
 
 </details>
@@ -1620,8 +1631,6 @@ D. Deep sea
 ---
 
 **Q-GC27. B.P.S.C. (Pre) 1996**
-
-**Logic:** Largest delta name is Ganga–Brahmaputra (Meghna), not Mississippi.
 
 The greatest delta of the world is formed by:
 
@@ -1636,6 +1645,8 @@ D. Huang Ho
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Largest delta name is Ganga–Brahmaputra (Meghna), not Mississippi.
+
 **Ans: A.** The **Ganga–Brahmaputra–Meghna** (Sundarbans / Bengal) delta is the world’s largest. Trap: picking Mississippi because it is famous for bird’s-foot shape, not for greatest area.
 
 </details>
@@ -1643,8 +1654,6 @@ D. Huang Ho
 ---
 
 **Q-GC28. B.P.S.C. (Pre) 1994**
-
-**Logic:** Grand Canyon is a river-cut gorge/canyon, not a weapon or a river name alone.
 
 Grand Canyon is:
 
@@ -1659,6 +1668,8 @@ D. An old cannon
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Grand Canyon is a river-cut gorge/canyon, not a weapon or a river name alone.
+
 **Ans: A.** The Grand Canyon is a deep river-cut **gorge/canyon** on the **Colorado** in Arizona. Trap: the English pun on “cannon” in wrong options.
 
 </details>
@@ -1666,8 +1677,6 @@ D. An old cannon
 ---
 
 **Q-GC29. U.P. Lower Sub. (Pre) 2015**
-
-**Logic:** Chisapani is on the Karnali in Nepal, not in India.
 
 Chisapani Gorge is located in:
 
@@ -1682,6 +1691,8 @@ D. Pakistan
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Chisapani is on the Karnali in Nepal, not in India.
+
 **Ans: B.** **Chisapani Gorge** is in **Nepal**, cut by the **Karnali**. Trap: parking it in India because Karnali feeds the Ghaghara system downstream.
 
 </details>
@@ -1689,8 +1700,6 @@ D. Pakistan
 ---
 
 **Q-GC30. M.P.P.C.S. (Pre) 2017**
-
-**Logic:** Inselberg is a wind residual; glacier pairs are moraine (and similar).
 
 Which of the following pairs is **not** correctly matched?
 
@@ -1705,6 +1714,8 @@ D. Moraine — Glacier
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Inselberg is a wind residual; glacier pairs are moraine (and similar).
+
 **Ans: C.** An **inselberg** is a residual hill from **wind** (and weathering) work in arid lands, not a glacier landform. Trap: treating every residual hill as glacial.
 
 </details>
@@ -1712,8 +1723,6 @@ D. Moraine — Glacier
 ---
 
 **Q-GC31. U.P.P.C.S. (Pre) 2021**
-
-**Logic:** Nobi and Kanto are Japanese plains, not Korean or Chinese.
 
 Nobi and Kanto plains are located in which of the following countries?
 
@@ -1728,6 +1737,8 @@ D. China
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Nobi and Kanto are Japanese plains, not Korean or Chinese.
+
 **Ans: C.** **Kanto** is the Tokyo-side plain on Honshu; **Nobi** is the Nagoya-side alluvial plain — both in **Japan**. Trap: Korea peninsula options because East Asia names look interchangeable.
 
 </details>
@@ -1735,8 +1746,6 @@ D. China
 ---
 
 **Q-GC32. U.P.P.C.S. (Pre) 2012**
-
-**Logic:** Death Valley is classed as a rift/block valley, not anticline/syncline/antecedent.
 
 Death Valley in south California, USA, is an example of:
 
@@ -1751,6 +1760,8 @@ D. Rift valley
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Death Valley is classed as a rift/block valley, not anticline/syncline/antecedent.
+
 **Ans: D.** **Death Valley** is taught as a **rift / block** valley in the Basin-and-Range setting of California. Trap: antecedent (genetic river history) or fold-valley labels.
 
 </details>
@@ -1758,8 +1769,6 @@ D. Rift valley
 ---
 
 **Q-GC33. U.P.P.C.S. (Mains) 2014**
-
-**Logic:** Devil’s Golf Course salt pan sits in Death Valley, USA.
 
 ‘Devil’s Golf Course’ — the famous Death Valley salt-pan landscape — is located in:
 
@@ -1774,6 +1783,8 @@ D. Afghanistan
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Devil’s Golf Course salt pan sits in Death Valley, USA.
+
 **Ans: A.** **Devil’s Golf Course** is in **Death Valley National Park**, **USA** (mainly California / northern Mojave). Trap: Chile or Afghanistan desert distractors.
 
 </details>
@@ -1781,8 +1792,6 @@ D. Afghanistan
 ---
 
 **Q-GC34. U.P.P.C.S. (Pre) 2005**
-
-**Logic:** Death Valley’s classic reputation is extreme heat, not cold.
 
 Death Valley is known for its:
 
@@ -1797,6 +1806,8 @@ D. Excessive salinity alone
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Death Valley’s classic reputation is extreme heat, not cold.
+
 **Ans: A.** **Death Valley** is famous for **extreme heat** (Furnace Creek record notes). Trap: swapping heat with cold or picking salinity as the sole tag.
 
 </details>
@@ -1804,8 +1815,6 @@ D. Excessive salinity alone
 ---
 
 **Q-GC35. U.P.P.C.S. (Mains) 2009**
-
-**Logic:** Death Valley lies mainly in California (eastern Mojave), not Arizona.
 
 Death Valley is situated mainly in:
 
@@ -1820,6 +1829,8 @@ D. Florida
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Death Valley lies mainly in California (eastern Mojave), not Arizona.
+
 **Ans: B.** **Death Valley** lies mainly in eastern **California**, USA (Mojave / Great Basin fringe). Trap: Arizona because Grand Canyon is Arizona.
 
 </details>
@@ -1827,8 +1838,6 @@ D. Florida
 ---
 
 **Q-GC36. U.P. Lower Sub. (Pre) 2002**
-
-**Logic:** Panjshir is north-east Afghanistan, not Iran/Turkey/Egypt.
 
 The Panjshir Valley is located in:
 
@@ -1843,6 +1852,8 @@ D. Turkey
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Panjshir is north-east Afghanistan, not Iran/Turkey/Egypt.
+
 **Ans: C.** **Panjshir** lies north-east of **Kabul** in **Afghanistan**. Trap: other West/South Asia country names.
 
 </details>
@@ -1850,8 +1861,6 @@ D. Turkey
 ---
 
 **Q-GC37. U.P. Lower Sub. (Pre) 2002**
-
-**Logic:** Silicon Valley is the California chip/tech belt, not Colorado or Florida.
 
 Silicon Valley in the United States is located in:
 
@@ -1866,6 +1875,8 @@ D. Florida
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Silicon Valley is the California chip/tech belt, not Colorado or Florida.
+
 **Ans: B.** **Silicon Valley** sits south of **San Francisco Bay** in **California**. Trap: confusing it with Death Valley’s California tag or East Coast tech names.
 
 </details>
@@ -1873,8 +1884,6 @@ D. Florida
 ---
 
 **Q-GC38. U.P.P.C.S. (Pre) 1998**
-
-**Logic:** Taylor Valley (“Valley of the Dead”) is an Antarctic dry valley.
 
 Taylor Valley is located in:
 
@@ -1889,6 +1898,8 @@ D. United States of America
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Taylor Valley (“Valley of the Dead”) is an Antarctic dry valley.
+
 **Ans: B.** **Taylor Valley** is a dry valley in **Antarctica** (Victoria Land / McMurdo region; Scott’s “Valley of the Dead” note). Trap: USA because of Death Valley name overlap.
 
 </details>
@@ -1896,8 +1907,6 @@ D. United States of America
 ---
 
 **Q-GC39. U.P. Lower Sub. (Spl.) (Pre) 2002 / 2003**
-
-**Logic:** Great Artesian Basin is Australia’s vast groundwater province.
 
 The Great Artesian Basin is located in:
 
@@ -1912,6 +1921,8 @@ D. Brazil
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Great Artesian Basin is Australia’s vast groundwater province.
+
 **Ans: B.** The **Great Artesian Basin** underlies much of **eastern and central Australia**. Trap: mixing it with the USA **Great Basin**.
 
 </details>
@@ -1919,8 +1930,6 @@ D. Brazil
 ---
 
 **Q-GC40. U.P. Lower Sub. (Pre) 2004**
-
-**Logic:** Great Basin is the USA endorheic region between Rockies and Sierra Nevada.
 
 The Great Basin is located in:
 
@@ -1935,6 +1944,8 @@ D. South Africa
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Great Basin is the USA endorheic region between Rockies and Sierra Nevada.
+
 **Ans: A.** The **Great Basin** is an endorheic region of the **USA** (Nevada and adjoining states). Trap: swapping with Australia’s Great Artesian Basin.
 
 </details>
@@ -1942,8 +1953,6 @@ D. South Africa
 ---
 
 **Q-GC41. U.P. Lower Sub. (Pre) 1998**
-
-**Logic:** Valley of the Kings is the pharaoh burial ground in Egypt.
 
 The Valley of the Kings is located in:
 
@@ -1958,6 +1967,8 @@ D. Turkey
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Valley of the Kings is the pharaoh burial ground in Egypt.
+
 **Ans: A.** The **Valley of the Kings** (Wadi el-Muluk) lies on the west bank of the Nile near Luxor, **Egypt**. Trap: Greece/Turkey Mediterranean distractors.
 
 </details>
@@ -1965,8 +1976,6 @@ D. Turkey
 ---
 
 **Q-GC42. U.P. U.D.A./L.D.A. (Pre) 2013**
-
-**Logic:** Blind valleys belong to karst, where streams vanish into swallow holes.
 
 Blind valleys are found in:
 
@@ -1981,6 +1990,8 @@ D. Tundra region
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Blind valleys belong to karst, where streams vanish into swallow holes.
+
 **Ans: A.** A **blind valley** ends at a swallow hole / sink in **karst** limestone country. Trap: calling every dry valley arid or glacial.
 
 </details>
@@ -1988,8 +1999,6 @@ D. Tundra region
 ---
 
 **Q-GC43. Jharkhand P.C.S. (Mains) 2016**
-
-**Logic:** Sinkhole is the karst landform among the options.
 
 Which of the following landforms is found in a karst region?
 
@@ -2004,6 +2013,8 @@ D. Playa
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Sinkhole is the karst landform among the options.
+
 **Ans: B.** A **sink hole (doline)** is a classic **karst** feature from limestone solution. Trap: pothole (fluvial) or blow hole (coastal) or playa (arid basin).
 
 </details>
@@ -2011,8 +2022,6 @@ D. Playa
 ---
 
 **Q-GC44. UKPCS Prelims 2006**
-
-**Logic:** Three options are metamorphic; granite is igneous.
 
 Which one of the following is **not** an example of metamorphic rock?
 
@@ -2027,6 +2036,8 @@ D. Granite
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Three options are metamorphic; granite is igneous.
+
 **Ans: D.** **Granite** is **igneous** (intrusive). Marble, quartzite and slate are metamorphic. Trap: marking granite because it metamorphoses to gneiss.
 
 </details>
@@ -2034,8 +2045,6 @@ D. Granite
 ---
 
 **Q-GC45. UKPCS Prelims 2012**
-
-**Logic:** Sandstone, limestone and shale are sedimentary; gneiss is metamorphic.
 
 Which one of the following is **not** associated with the ‘group’?
 
@@ -2050,6 +2059,8 @@ D. Shale
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Sandstone, limestone and shale are sedimentary; gneiss is metamorphic.
+
 **Ans: A.** **Sandstone, limestone and shale** form the sedimentary group; **gneiss** is metamorphic (often from granite). Trap: picking shale as the odd one because it is fine-grained.
 
 </details>
@@ -2057,8 +2068,6 @@ D. Shale
 ---
 
 **Q-GC46. UKPCS Prelims 2016**
-
-**Logic:** Basic/constructional landform is built by accumulation; residual hills and erosional falls are destructional.
 
 Which of the following is a **basic landform**?
 
@@ -2072,6 +2081,8 @@ D. Erosional waterfall
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Basic/constructional landform is built by accumulation; residual hills and erosional falls are destructional.
 
 **Ans: A.** A **volcanic cone** is a constructional (**basic**) landform built by lava and ash. Residual mountain, monadnock and erosional waterfall are destructional/erosional types. Trap: treating every hill as constructional.
 
@@ -2087,8 +2098,6 @@ UKPCS Prelims stems that sit on this chapter’s syllabus. Glacier *names* of Ut
 
 **Q-UK1. UKPCS Prelims 2024, Q2**
 
-**Logic:** Atoll = coral rim around a lagoon — shape is horseshoe / ring, not triangle or rectangle.
-
 The shape of Atoll is:
 
 A. Rectangular
@@ -2102,6 +2111,8 @@ D. Triangular
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Atoll = coral rim around a lagoon — shape is horseshoe / ring, not triangle or rectangle.
+
 **Ans: C.** An atoll is a coral reef around a **central lagoon**, so the outline is **horseshoe / ring**. Trap: triangular (delta shape) or rectangular (joint-controlled coasts).
 
 </details>
@@ -2109,8 +2120,6 @@ D. Triangular
 ---
 
 **Q-UK2. UKPCS Prelims 2024, Q6**
-
-**Logic:** Hanging valley = glacial process.
 
 The landform of 'Hanging Valley' is associated with which of the following geomorphic process?
 
@@ -2125,6 +2134,8 @@ D. Running Water
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Hanging valley = glacial process.
+
 **Ans: B.** Hanging valleys are glacial. A tributary glacier floor left hanging above the main trough often feeds a waterfall.
 
 </details>
@@ -2132,8 +2143,6 @@ D. Running Water
 ---
 
 **Q-UK3. UKPCS Prelims 2024, Q10**
-
-**Logic:** Plain + many tributaries + gentle slope = dendritic.
 
 Which drainage pattern is commonly found in Ganga plains and Assam Valley, characterized by wide plains, gentle slopes, heavy rains and a large number of tributaries?
 
@@ -2148,6 +2157,8 @@ D. Rectangular drainage pattern
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Plain + many tributaries + gentle slope = dendritic.
+
 **Ans: B.** Dendritic suits homogeneous alluvium and gentle plains. Antecedent is a genetic history tag, not this plain description.
 
 </details>
@@ -2155,8 +2166,6 @@ D. Rectangular drainage pattern
 ---
 
 **Q-UK4. UKPCS Prelims 2021, Q8**
-
-**Logic:** Spot the non-metamorphic rock.
 
 Which of the following is not an example of metamorphic rock?
 
@@ -2171,6 +2180,8 @@ D. Dolomite
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Spot the non-metamorphic rock.
+
 **Ans: D.** Dolomite is sedimentary. The other three are metamorphic.
 
 </details>
@@ -2178,8 +2189,6 @@ D. Dolomite
 ---
 
 **Q-UK5. UKPCS Prelims 2016, Q13**
-
-**Logic:** Everyday coastal erosion agent.
 
 Maximum coastal erosion is caused by:
 
@@ -2194,6 +2203,8 @@ D. Tsunami waves
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Everyday coastal erosion agent.
+
 **Ans: A.** Waves do the routine coastal erosion work. Tsunami is not the default answer for “maximum” in ordinary coastal process stems.
 
 </details>
@@ -2201,8 +2212,6 @@ D. Tsunami waves
 ---
 
 **Q-UK6. UKPCS Prelims 2025, Q84**
-
-**Logic:** Shiwalik composition and landslide tendency.
 
 The Shiwalik range is primarily composed of which type of material?
 
@@ -2217,6 +2226,8 @@ D. Metamorphic rocks
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Shiwalik composition and landslide tendency.
+
 **Ans: C.** Unconsolidated sediments explain weak slopes, duns and frequent slides.
 
 </details>
@@ -2224,8 +2235,6 @@ D. Metamorphic rocks
 ---
 
 **Q-UK7. UKPCS Prelims 2025, Q94**
-
-**Logic:** Which river cut the Grand Canyon.
 
 The Grand Canyon of the U.S.A. is formed by which river?
 
@@ -2240,6 +2249,8 @@ D. Colorado
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Which river cut the Grand Canyon.
+
 **Ans: D.** Colorado River through the Colorado Plateau.
 
 </details>
@@ -2247,8 +2258,6 @@ D. Colorado
 ---
 
 **Q-UK8. UKPCS Prelims 2006**
-
-**Logic:** Spot the non-metamorphic rock among marble / quartzite / slate / granite.
 
 Which one of the following is **not** an example of metamorphic rock?
 
@@ -2263,6 +2272,8 @@ D. Granite
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Spot the non-metamorphic rock among marble / quartzite / slate / granite.
+
 **Ans: D.** **Granite** is **igneous**. Marble, quartzite and slate are metamorphic. Trap: granite → gneiss parent–product confusion.
 
 </details>
@@ -2270,8 +2281,6 @@ D. Granite
 ---
 
 **Q-UK9. UKPCS Prelims 2012**
-
-**Logic:** Odd one out of a sedimentary trio — gneiss is metamorphic.
 
 Which one of the following is **not** associated with the ‘group’?
 
@@ -2286,6 +2295,8 @@ D. Shale
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Odd one out of a sedimentary trio — gneiss is metamorphic.
+
 **Ans: A.** The group is sedimentary (**sandstone, limestone, shale**). **Gneiss** is metamorphic. Trap: picking limestone because it also makes karst landforms.
 
 </details>
@@ -2293,8 +2304,6 @@ D. Shale
 ---
 
 **Q-UK10. UKPCS Prelims 2016**
-
-**Logic:** Basic landform = constructional; volcanic cone fits, residual hills do not.
 
 Which of the following is a **basic landform**?
 
@@ -2308,6 +2317,8 @@ D. Erosional waterfall
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Basic landform = constructional; volcanic cone fits, residual hills do not.
 
 **Ans: A.** **Volcanic cone** is constructional (basic). Residual mountain, monadnock and erosional waterfall are destructional/erosional. Trap: monadnock as “built” hill.
 
@@ -2369,7 +2380,10 @@ D. Cauvery
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Logic:** Stem says **subdivision** — Bengal’s moribund–mature–active scheme (UPPCS 2019 family).
+
+**Ans: C** — **Bengal**. Trap D is the Cauvery lobe memory from landform match-lists.
+
 </details>
 
 ---
@@ -3027,8 +3041,6 @@ D. Gneiss → granite → magma only
 
 **Q39a.** The shape of an atoll is:
 
-**Logic:** Atoll = coral rim around a central lagoon — horseshoe / ring, not delta-triangle or rectangle.
-
 A. Rectangular
 
 B. Rod-shaped
@@ -3039,6 +3051,8 @@ D. Triangular
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Atoll = coral rim around a central lagoon — horseshoe / ring, not delta-triangle or rectangle.
 
 **Ans: C.** The reef rim closes around a **lagoon**, so the form is **horseshoe / ring**. Trap: triangular (arcuate delta) or rectangular (joint coasts).
 
@@ -3613,7 +3627,7 @@ D. 1, 2 and 3
 ## Common Traps — Don't Fall For These
 
 1. **Ganga delta = bird’s-foot** — FALSE. **Mississippi**. Ganga = **arcuate**.
-2. **Moribund = Bengal / KG** — FALSE. **Cauvery**.
+2. **Every moribund stem = Cauvery** — FALSE. **Subdivision** wording → **Bengal**; **lobe / river match** wording → often **Cauvery**.
 3. **Folds → dendritic** — FALSE. **Trellis**.
 4. **Imphal = loess / glacial** — FALSE. **Lacustrine**.
 5. **Marble from sandstone** — FALSE. **Limestone**. Quartzite = sandstone.

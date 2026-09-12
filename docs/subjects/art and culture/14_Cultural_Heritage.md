@@ -11,7 +11,7 @@ Tangible Cultural Heritage | Intangible Cultural Heritage | UNESCO World Heritag
 > **Sources baked in:** UNESCO WH Convention 1972, ICH Convention 2003, ASI, Ministry of Culture, WHC inscriptions to July 2026, UPPCS Prelims 2018–2025
 > **Weight:** ★★★ — India WHS count, UP sites, tangible vs intangible, ICH element ↔ year, World Heritage Day 18 April
 > **Last verified:** August 2026
-> **Current Affairs:Sarnath** WHS **July 2026** (India **45th**; UP’s **4th**). Maratha Military Landscapes **2025** (44th). Moidams **2024** (43rd). **Deepavali** ICH **10 Dec 2025** (India’s **16th**).
+> **Current Affairs:** Sarnath** WHS **July 2026** (India **45th**; UP’s **4th**). Maratha Military Landscapes **2025** (44th). Moidams **2024** (43rd). **Deepavali** ICH **10 Dec 2025** (India’s **16th**).
 
 ---
 
@@ -120,7 +120,7 @@ D. A and D only
 - Conservation means structure, chemistry, documentation and a **buffer zone**. It does not mean a WHS certificate by itself.
 - A natural park can be tangible in the physical sense and still be classed as a **natural** WHS.
 
-> ** note:Taj Mahal = tangible**. **Ramlila / Kumbh / Deepavali = intangible**. Never swap.
+> **Logic:** Taj Mahal = tangible. Ramlila / Kumbh / Deepavali = intangible**. Never swap.
 
 ---
 
@@ -138,7 +138,7 @@ D. A and D only
 - **Nautanki** is UP folk theatre. It is **not** on the UNESCO list.
 - **Holi** as a generic festival is **not** listed. **Deepavaliis** listed (**2025**).
 
-> ** note:Bharatanatyam / Kathak / Nautanki are not named UNESCO ICH items.** Deepavali **is** (Dec 2025).
+> **Logic:** Bharatanatyam / Kathak / Nautanki are not named UNESCO ICH items.** Deepavali **is** (Dec 2025).
 
 ---
 
@@ -191,7 +191,7 @@ D. 3, 2, 1, 4
 - **Ramsar (1971)** is wetlands. **UNESCO MAB (1971)** is biosphere reserves. Neither is a WHS tag.
 - **Keoladeo** (Rajasthan) is a rare double: natural WHS **1985** and a Ramsar site. **Sultanpur** (Haryana) is Ramsar only. **Rudrasagar** (Tripura) is Ramsar only.
 
-> ** note:1972 = World Heritage**. **2003 = Intangible**. **18 April = World Heritage Day**. Ramsar ≠ WHS.
+> **Logic:** 1972 = World Heritage. 2003 = Intangible. 18 April = World Heritage Day**. Ramsar ≠ WHS.
 
 ---
 
@@ -209,13 +209,13 @@ D. 3, 2, 1, 4
 - Nodal ministry is **Culture**. SNA prepares many nomination files. Deepavali’s 2025 file is the latest example.
 - **20.COM** met at the **Red Fort, New Delhi**, in **December 2025**. It was the first time India hosted the ICH Committee. **Deepavali** was inscribed there.
 
-> ** note:** Do not reverse the years. **Sites = 1972**. **Living heritage = 2003**. Hosting 20.COM in Delhi does not make the Red Fort an ICH element.
+> **Logic:** Do not reverse the years. **Sites = 1972. Living heritage = 2003**. Hosting 20.COM in Delhi does not make the Red Fort an ICH element.
 
 ---
 
 ## 14.5 UNESCO World Heritage Sites in India
 
-**Identity:45** properties (July 2026) | **37** cultural, **7** natural, **1** mixed | Sixth globally
+**Identity:** 45** properties (July 2026) | **37** cultural, **7** natural, **1** mixed | Sixth globally
 
 - India’s first inscriptions were in **1983**: Ajanta, Ellora, **Agra Fort** and the **Taj Mahal**.
 - **UP has four** cultural WHS. The fourth is **Sarnath (2026)**. The first three are **Taj Mahal (1983)**, **Agra Fort (1983)** and **Fatehpur Sikri (1986)**.
@@ -308,17 +308,18 @@ D. Marakesh (Morocco)
 | Maratha Military Landscapes of India | Maharashtra + Tamil Nadu | 2025 | Cultural |
 | Ancient Buddhist Site of Sarnath | **UP** | 2026 | Cultural |
 
-> ** note:India = 45**. **UP = 4** (add **Sarnath 2026**). **Varanasi ghats ≠ WHS**. Only mixed = **Khangchendzonga**.
+> **Logic:** India = 45. UP = 4** (add **Sarnath 2026**). **Varanasi ghats ≠ WHS**. Only mixed = **Khangchendzonga**.
 
 ---
 
 ## 14.6 UNESCO Intangible Heritage List (India)
 
-**Identity:16** Representative List elements (Dec 2025) | Year ↔ name ↔ region
+**Identity:** 16** Representative List elements (Dec 2025) | Year ↔ name ↔ region
 
 - UNESCO first ran a **Masterpieces** programme. India got three: **Kutiyattam (2001)**, **Vedic chanting (2003)**, **Ramlila (2005)**.
 - Those three entered the **Representative List in 2008**. A question can use either year. Do not treat 2001 and 2008 as two different elements.
-- **Ramman (2009)** is Garhwal ritual theatre of **Uttarakhand**. It honours Bhumiyal Devta. It is not Ramlila.
+- **Ramman (2009)** is Garhwal ritual theatre of **Uttarakhand**. It honours **Bhumiyal Devta**.
+- Village communities stage masked ritual performance in the festival cycle — living heritage, not plains **Ramlila**.
 - **Mudiyettu (2010)** is Kerala ritual theatre. It is not Kathakali.
 - **Kalbelia (2010)** is Rajasthan folk song and dance.
 - **Chhau (2010)** is Jharkhand, West Bengal and Odisha. It is **not** an SNA classical dance.
@@ -357,7 +358,7 @@ D. Marakesh (Morocco)
 - UP’s named ICH centrepiece is **Ramlila**. Prayagraj also hosts **Kumbh**. Yoga and Vedic chanting and Deepavali are pan-India, not UP-only.
 - **Taj Mahal** is a WHS. Putting it on an ICH list is the classic wrong option.
 
-> ** note:16 elements**. **Deepavali 2025** is in. **Ramlila = UP**. **Garba 2023**. **Bharatanatyam is still not listed**.
+> **Logic:** 16 elements. Deepavali 2025** is in. **Ramlila = UP. Garba 2023. Bharatanatyam is still not listed**.
 
 ---
 

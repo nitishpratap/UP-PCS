@@ -133,7 +133,7 @@ A census is the official count of population and its attributes, taken at fixed 
 | III | 1951–1981 | Rapid growth / population explosion |
 | IV | 1981–2011 | High growth with a **declining rate** |
 
-> **Note:** Teach **1872** historically and **1881** as first sync. The UPPCS **2023** answer option was **1871**.
+> **Logic:** ** Teach **1872** historically and **1881** as first sync. The UPPCS **2023** answer option was **1871**.
 
 **Inline PYQ — UPPCS Prelims 2023, Q128**
 

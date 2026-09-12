@@ -211,6 +211,40 @@ The Himalayan arc is where the **Indian plate thrusts under Eurasia**, creating 
 - About **59%** of India’s area is earthquake-prone.
 - Peninsular India is **not** quake-free — **Latur 1993** and **Koyna 1967** are the hall traps.
 
+### Hall earthquakes — Cause, Course, Result
+
+#### Koyna 1967 (Maharashtra)
+
+**Cause:** Filling and operation of the **Koyna reservoir** loaded a stressed crustal block (classic **reservoir-induced seismicity**).
+
+**Course:** A damaging shallow shock struck the Koyna belt in the Deccan.
+
+**Result:** Proved peninsular India can shake hard. Do not answer “only Himalaya” for every Indian quake stem.
+
+#### Latur / Killari 1993 (Maharashtra)
+
+**Cause:** A hidden fault in the **stable Deccan** (Killari belt), not Himalayan collision.
+
+**Course:** Shallow focus produced intense shaking across villages in Zone **III** country.
+
+**Result:** The standard “peninsula is not aseismic” teaching card beside Koyna.
+
+#### Bhuj 2001 (Gujarat)
+
+**Cause:** Reactivation on the **Kutch** thrust / fault system in a high-hazard western pocket.
+
+**Course:** A major shock on **26 January 2001** devastated Bhuj and surrounding towns.
+
+**Result:** Reinforced **Kutch / Zone V** framing on the western map — different story from Latur’s “stable peninsula” trap.
+
+#### Uttarkashi 1991 (Uttarakhand)
+
+**Cause:** Himalayan thrust seismicity in the Garhwal arc.
+
+**Course:** A strong regional shock damaged hill towns and roads in Uttarkashi belt.
+
+**Result:** A Garhwal Himalayan hall year, not a peninsular RIS card.
+
 | Year | Event | Trap |
 |------|-------|------|
 | 1819 | Allah Bund / Kutch | |
@@ -228,7 +262,7 @@ The Himalayan arc is where the **Indian plate thrusts under Eurasia**, creating 
 | 2011 | Sikkim | |
 | 2015 | Nepal Gorkha (Bihar/east UP) | |
 
-> ** note:** Peninsular India is **not** quake-free. Latur + Koyna are the two hall traps.
+> **Logic:** Peninsular India is **not** quake-free. Latur + Koyna are the two hall traps.
 
 ---
 
@@ -251,7 +285,7 @@ A **Zone VI** draft (Nov 2025) was **withdrawn March 2026**. Prelims still use *
 
 **UP:** there is **no Zone V**. North/east Terai is **Zone IV**. The bulk of the state is **Zone III**.
 
-> **Note:** “Highest concentration in Himalaya” is true — that is Zone **IV–V**, not “all India Zone V.”
+> **Logic:** “Highest concentration in Himalaya” is true — that is Zone **IV–V**, not “all India Zone V.”
 
 ---
 
@@ -307,7 +341,7 @@ A **tsunami** is a series of long ocean waves set off by **sudden seafloor displ
 
 **Mangroves** and healthy coastal forests reduce cyclone storm-surge and tsunami impact by friction and by breaking wave energy before it reaches settlements.
 
-> ** note:** A tsunami is not a tidal wave. Tides follow the Moon and Sun; a tsunami follows sudden seafloor displacement.
+> **Logic:** A tsunami is not a tidal wave. Tides follow the Moon and Sun; a tsunami follows sudden seafloor displacement.
 
 ---
 
@@ -341,12 +375,39 @@ Cloudbursts in the Himalaya often end as **debris flows** that bury roads and se
 - The **North-Eastern hills** combine steep terrain with heavy rain.
 - Soft sedimentary / weathered rock and seismic shaking raise risk further in the Himalayan arc.
 
-### Hall events (Cause, Course, Result framing)
+### Hall events — Cause, Course, Result
 
-- **Malpa 1998** (Uttarakhand): a rockfall / debris slide on the pilgrimage route killed scores of travellers.
-- **Kedarnath 2013**: extreme rain and slope failure fed flash floods and debris that devastated the Mandakini valley.
-- **Kerala 2018**: prolonged monsoon rain triggered widespread Western Ghats slides with floods.
-- **Joshimath 2023**: slow **subsidence** / slope distress linked to geology, water and construction load — a living CA landslide–settlement pair (not a single overnight rockfall).
+#### Malpa landslide (1998, Uttarakhand)
+
+**Cause:** Steep fractured rock on the Kailash–Mansarovar pilgrimage corridor near **Malpa** (Pithoragarh belt) failed after monsoon saturation and slope instability on a busy trek / road line.
+
+**Course:** A major **rockfall / debris slide** buried the route and camps used by pilgrims and porters. Rescue was slow because the same slope kept shedding debris.
+
+**Result:** Scores of travellers died. The event became a textbook Himalayan **rockfall-on-pilgrimage-route** card and pushed slope-safety talk on high Himalayan corridors.
+
+#### Kedarnath disaster (June 2013, Uttarakhand)
+
+**Cause:** Extreme monsoon rain and cloudburst-scale bursts over the **Mandakini** catchment raised pore pressure on already steep, glacier-fed slopes. Chorabari-type lake / debris release and slope failure fed the flood.
+
+**Course:** Flash floods and **debris flows** tore through Kedarnath and the Mandakini valley. Roads, bridges, and settlements were buried or washed out across large stretches of Garhwal.
+
+**Result:** One of India’s worst Himalayan monsoon disasters. It reset state disaster planning, Char Dham corridor debate, and the national memory of cloudburst–landslide–flood cascades in Uttarakhand.
+
+#### Kerala landslides and floods (2018)
+
+**Cause:** Prolonged, extreme southwest monsoon rain soaked deeply weathered Western Ghats slopes. Cut slopes, quarrying, and settlement on steep belts raised exposure.
+
+**Course:** Widespread **landslides** and debris flows ran with riverine flooding across Kerala’s midland–highland districts. Reservoir releases and swollen rivers compounded inundation in the plains.
+
+**Result:** Large loss of life and property. The year became the standard **Western Ghats monsoon-slide** teaching pair beside Himalayan cloudburst cards.
+
+#### Joshimath subsidence (2022–2023, Uttarakhand)
+
+**Cause:** Joshimath sits on old landslide / glacial debris with high water load. Construction, tunnelling and drainage stress on a fragile slope raised distress.
+
+**Course:** Buildings cracked as the town showed slow **subsidence** and slope movement. Authorities evacuated pockets, halted some works, and mapped sink / crack zones.
+
+**Result:** A living CA pair for **subsidence / slope distress**, not a single overnight rockfall. Do not merge Joshimath 2023 with Kedarnath 2013’s rain–debris–flood cascade.
 
 ### Mitigation note
 
@@ -355,7 +416,7 @@ Cloudbursts in the Himalaya often end as **debris flows** that bury roads and se
 - Retain vegetation; use retaining walls, rock bolts and early-warning where needed.
 - NDMA landslide guidelines stress mapping, land-use control and slope-safe roads.
 
-> ** note:** Joshimath **2023** is mainly **subsidence / slope distress**, while Kedarnath **2013** is a rain–debris–flood cascade. Do not treat every hill disaster as the same mechanism.
+> **Logic:** Joshimath **2023** is mainly **subsidence / slope distress**, while Kedarnath **2013** is a rain–debris–flood cascade. Do not treat every hill disaster as the same mechanism.
 
 ---
 
@@ -377,6 +438,14 @@ A **flood** occurs when water inundates land that is usually dry.
 - The **Kosi** is famous for channel shift and embankment breaches (**Kosi 2008**).
 - Brahmaputra and Barak valleys flood widely in Assam and neighbouring hills.
 - Eastern and trans-Ghaghara **Uttar Pradesh** faces repeat monsoon inundation almost every year.
+
+### Kosi 2008 — Cause, Course, Result
+
+**Cause:** Extreme monsoon rain plus stress on the embanked **Kosi** system near the Nepal–Bihar belt (**Kusaha** breach memory).
+
+**Course:** The river jumped its embanked course and inundated vast stretches of **north Bihar**.
+
+**Result:** Mass displacement and a lasting embankment-politics card. Pair it with Kerala 2018 as a Western Ghats monsoon flood–slide year, and Kedarnath 2013 as a Himalayan cloudburst cascade — three different mechanisms.
 
 ### GLOF — living CA
 
@@ -438,7 +507,7 @@ A **drought** is a prolonged shortage of water relative to what a place normally
 
 Chronology used in **2025**: Community Development Programme (**1952**), then DPAP (**1973–74**), then Food for Work (**1977**), then TRYSEM (**1979**).
 
-> **Note:** **1952** is CDP, not DPAP. **DPAP** belongs to **1973–74**.
+> **Logic:** **1952** is CDP, not DPAP. **DPAP** belongs to **1973–74**.
 
 ---
 
@@ -469,7 +538,7 @@ A **cloudburst** is a sudden, very intense rain burst over a small area.
 - Early warning, slope-safe settlement and keeping nullahs clear reduce loss.
 - Treat cloudburst as a **hill hazard**, not an Agra / Lucknow plains speciality.
 
-> ** note:** Heavy monsoon rain ≠ cloudburst. The cut is **100 mm/hour**.
+> **Logic:** Heavy monsoon rain ≠ cloudburst. The cut is **100 mm/hour**.
 
 ---
 

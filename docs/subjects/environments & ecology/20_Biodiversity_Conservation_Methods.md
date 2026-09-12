@@ -14,6 +14,13 @@ In-situ Conservation | Ex-situ Conservation | Gene Bank | Seed Bank | Botanical 
 
 ---
 
+## Current Affairs (this topic)
+
+- 30×30 / Kunming–Montreal CA sits here with in-situ vs ex-situ method traps.
+- Sacred grove and seed-bank examples stay teaching baselines.
+
+---
+
 ## Consolidated — 24 Must-Score Facts
 
 1. **In-situ** conservation protects biodiversity **in the natural habitat**. It is the preferred primary strategy because the whole ecosystem and natural selection stay intact.
@@ -101,7 +108,7 @@ D. None of the above
 | Sacred Grove | In-situ | Tribal UP belts |
 | Seed Bank | **Ex-situ** | NBPGR Delhi |
 
-> ** note:** UPPCS 2019 pattern — "Which is in-situ?" → only **NP/sanctuary/BR/sacred grove**. Zoo, seed bank, botanic garden = **ex-situ distractors**.
+> **Logic:** UPPCS 2019 pattern — "Which is in-situ?" → only **NP/sanctuary/BR/sacred grove**. Zoo, seed bank, botanic garden = **ex-situ distractors**.
 
 ---
 
@@ -143,7 +150,7 @@ D. Sacred groves
 | Examples | Dudhwa NP, sacred grove | Delhi Zoo, NBPGR |
 | trap | NP, sanctuary, BR | Zoo, seed bank, botanic garden |
 
-> ** note:** "Zoos are the best/primary form of biodiversity conservation" = **FALSE**. In-situ protected areas remain primary.
+> **Logic:** "Zoos are the best/primary form of biodiversity conservation" = **FALSE**. In-situ protected areas remain primary.
 
 ---
 
@@ -168,7 +175,7 @@ D. Sacred groves
 | NBAGR | Karnal, Haryana | Livestock semen, embryos, DNA |
 | Svalbard Global Seed Vault | Norway | Duplicate global seed backup |
 
-> ** note:** "National gene bank for animal genetic resources is NBPGR" = **FALSE** — animals = **NBAGR Karnal**.
+> **Logic:** "National gene bank for animal genetic resources is NBPGR" = **FALSE** — animals = **NBAGR Karnal**.
 
 ---
 
@@ -195,7 +202,7 @@ D. Sacred groves
 | Scope | Narrower | Broader |
 | Both are | **Ex-situ** | **Ex-situ** |
 
-> ** note:** "Seed bank is in-situ conservation" = **FALSE**. UPPCS 2019 NOT-in-situ MCQs use seed bank as the ex-situ answer.
+> **Logic:** "Seed bank is in-situ conservation" = **FALSE**. UPPCS 2019 NOT-in-situ MCQs use seed bank as the ex-situ answer.
 
 ---
 
@@ -217,7 +224,7 @@ D. Sacred groves
 | Lalbagh | Bengaluru | 1760; heritage trees |
 | NBRI Garden | Lucknow | Medicinal plant research |
 
-> ** note:** UPPCS in-situ MCQs always list **botanical garden** as an **ex-situ** distractor alongside zoo and seed bank.
+> **Logic:** UPPCS in-situ MCQs always list **botanical garden** as an **ex-situ** distractor alongside zoo and seed bank.
 
 ---
 
@@ -240,7 +247,7 @@ D. Sacred groves
 | Kukrail Crocodile Centre | Lucknow, UP | Captive breeding (ex-situ) |
 | Katerniaghat WLS | UP | Sanctuary (**in-situ** contrast) |
 
-> ** note:** Every UPPCS in-situ question lists **zoological park** as ex-situ. Match: Zoo = ex-situ | NP/Sanctuary = in-situ.
+> **Logic:** Every UPPCS in-situ question lists **zoological park** as ex-situ. Match: Zoo = ex-situ | NP/Sanctuary = in-situ.
 
 ---
 

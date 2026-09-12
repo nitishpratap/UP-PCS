@@ -52,7 +52,7 @@ D. None of the above
 
 ## Consolidated — 24 Must-Score Facts
 
-1. **Bhimbetka** rock shelters are in Raisen, **Madhya Pradesh**. **V.S. Wakankar** demonstrated their prehistoric importance in **1957**. They are UNESCO **2003**, not fresco.
+1. **Bhimbetka** rock shelters are in Raisen, **Madhya Pradesh. V.S. Wakankar** demonstrated their prehistoric importance in **1957**. They are UNESCO **2003**, not fresco.
 2. **Jogimara** in Ramgarh, **Chhattisgarh**, about **3rd–1st** century BCE, is the earliest Indian fresco fact. Scenes are secular, not Ajanta Buddhist narrative.
 3. **Mirzapur–Sonbhadra** holds the main **UP** prehistoric rock-art belt. **Bagh** caves are in **Madhya Pradesh**, not UP.
 4. The **Shadanga** six limbs are **Rupabheda**, **Pramanam** (proportion), **Bhava** (emotion), **Lavanyam** (grace), **Sadrisyam** (likeness), and **Varnikabhangam** (colour and brush).
@@ -70,7 +70,7 @@ D. None of the above
 16. Folk facts include **Madhubani**, **Warli**, **Phad**, **Pattachitra**, **Gond**, **Pithora**, **Kalighat**, and UP **Sanjhi** of Braj / Mathura–Vrindavan.
 17. **Madhubani** has a GI tag. It is **not** UNESCO intangible heritage. Do not confuse GI with ICH.
 18. **Ravi Varma** used oil and oleograph realism. **Abanindranath** led the Bengal School wash revival and painted **Bharat Mata**.
-19. **Nandalal Bose** painted the Haripura Congress panels and Constitution illumination. The **Progressive Artists’ Group** formed in **1947**. **Amrita Sher-Gil** painted *Three Girls*.
+19. **Nandalal Bose** painted the Haripura Congress panels and Constitution illumination. The **Progressive Artists’ Group** formed in **1947. Amrita Sher-Gil** painted *Three Girls*.
 20. The **Company School** made colonial documentary pictures for East India Company patrons. It is not the nationalist Bengal School.
 21. Lucknow painting facts include **Mihr Chand** and Company Kalam. **Bharat Kala Bhavan** at BHU holds important miniatures.
 22. Ajanta technique is pigment on **wet** plaster (fresco tradition). Tempera / secco puts binder on a **dry** surface.
@@ -158,7 +158,7 @@ D. V.N. Mishra
 - *Samarangana Sutradhara* is by Bhoja (architecture + painting).
 - The Gupta–Vakataka look is Ajanta Phase II and **Bagh**.
 
-> ** note:** Papers swap **Pramanam (proportion)** with **Bhava (emotion)** and **Sadrisyam (likeness)**. Shadanga is not six Jain caves.
+> **Logic:** Papers swap **Pramanam (proportion)** with **Bhava (emotion)** and **Sadrisyam (likeness)**. Shadanga is not six Jain caves.
 
 ---
 
@@ -195,7 +195,7 @@ D. V.N. Mishra
 - **Tabo** is in Spiti. It is Himalayan Buddhist wall painting.
 - **Sigiriya** is in **Sri Lanka**. It is not India.
 
-> ** note:** Bagh is **MP**. Sittanavasal is **Jain**, not Buddhist Ajanta.
+> **Logic:** Bagh is **MP**. Sittanavasal is **Jain**, not Buddhist Ajanta.
 
 ---
 
@@ -214,7 +214,7 @@ D. V.N. Mishra
 - The technique fact is **fresco on wet lime plaster** (not oil, not gold leaf).
 - Rediscovery was in **1819** by **John Smith** at Cave 10.
 
-> ** note:** Padmapani is **Cave 1**. Rediscovery is **1819John Smith**. The technique is fresco, not oil. Ajanta is not Ellora paintings.
+> **Logic:** Padmapani is **Cave 1**. Rediscovery is **1819John Smith**. The technique is fresco, not oil. Ajanta is not Ellora paintings.
 
 ---
 
@@ -248,7 +248,7 @@ D. V.N. Mishra
 - Hamzanama size is about **1400** large folios, about **14 daftars**, **c. 1557–73**. This is the highest-yield Akbar fact.
 - **Anwar-i-Suhaili** is Persian animal fables (*Kalila wa Dimna*).
 - **Baburnama** is Babur’s memoirs in Persian translation. The pictures are **Akbar’s**, not Babur’s.
-- **Akbarnama** is the official history by **Abu’l Fazl**. **Basawan** often drew the outline and others coloured.
+- **Akbarnama** is the official history by **Abu’l Fazl. Basawan** often drew the outline and others coloured.
 - **Razmnama** is the Persian **Mahabharata** made for Akbar.
 - **Ramayana** (Akbari illustrated copy) is the same translation project as Razmnama.
 - **Tarikh-i-Alfi** is the millennial history of Islam.
@@ -295,7 +295,7 @@ D. V.N. Mishra
 
 **Atelier shrinks.** Painters leave for **Rajput, Deccan, Awadh**. No new Hamzanama-scale imperial book.
 
-> ** note:Hamzanama**, **Daswanth** and **Basawan** are **Akbar**. **Mansur**, **Bishandas** and **Abu’l Hasan** are **Jahangir**. **Padshahnama** is **Shah Jahan**. Baburnama pictures are **Akbar**, not Babur.
+> **Logic:** Hamzanama**, **Daswanth** and **Basawan** are **Akbar. Mansur**, **Bishandas** and **Abu’l Hasan** are **Jahangir. Padshahnama** is **Shah Jahan**. Baburnama pictures are **Akbar**, not Babur.
 
 ### Deccani painting (not Rajput, not Kangra)
 
@@ -344,7 +344,7 @@ D. V.N. Mishra
 - **Nayaka-nayika** shows hero/heroine moods.
 - Krishna-lila and epics are also series themes.
 
-> ** note:Bani Thani** is **Kishangarh / Nihal Chand**, not Kangra, not Mughal.
+> **Logic:** Bani Thani** is **Kishangarh / Nihal Chand**, not Kangra, not Mughal.
 
 ---
 
@@ -364,24 +364,23 @@ D. V.N. Mishra
 - **Nainsukh** is Seu’s son. He painted Balwant Singh of Jasrota, intimate court. He is not Mewar.
 - **Kangra** (late 18th–19th c.) is the lyrical peak. The patron is **Sansar Chand**.
 - Kangra themes are *Gita Govinda*, Baramasa, Bihari Satsai and Nala–Damayanti.
-- **Garhwal** is a Pahari school.
-- **Mola Ram** is the Garhwal artist.
-- **Chamba** is a hill name (place only).
-- **Mandi** is a hill name (place only).
-- **Kullu** is a hill name (place only).
-- **Nurpur** is a hill name (place only).
-- **Bilaspur** is a hill name (place only).
+- **Garhwal** is a Pahari school. **Mola Ram** is the named Garhwal master; the UK origin card is **1658 Tasbirdar** (Shyamdas–Hardas).
+- **Chamba** is a Himachal hill atelier remembered for local patronage and ragamala / Vaishnava themes beside the Kangra belt.
+- **Mandi** is a Himachal court school with soft Pahari colour after Guler influence.
+- **Kullu** is a hill atelier name in the same Himachal Pahari family.
+- **Nurpur** is a hill school often paired with Basholi–Kangra neighbourhood memory.
+- **Bilaspur** is another Himachal hill name in the wider Pahari map — learn the place, not a separate “Basohli replacement.”
 
 - The Kangra palette is soft green/blue/pink. Basohli is intense flat primaries.
 - **Nainsukh** is intimate court portrait + Krishna. Do not park him in Mewar.
 
-> ** note:** The order is **Basohli → Guler → Kangra**. Kangra is not Kishangarh.
+> **Logic:** The order is **Basohli → Guler → Kangra**. Kangra is not Kishangarh. Garhwal is Pahari, not Rajasthan Rajput.
 
 ---
 
 ## 4.8 Company School
 
-**Dates:** c. **1770–1850** | **Patrons:** East India Company officers | **Hands:Indian** artists
+**Dates:** c. **1770–1850** | **Patrons:** East India Company officers | **Hands:** Indian** artists
 
 - The function is documentary albums for British patrons (costume, trade, monument, flora/fauna).
 - One Company-school centre is **Calcutta**.
@@ -403,7 +402,7 @@ D. V.N. Mishra
 - Patna look is mica (*abri*), trades and festivals, with no Mughal gold border.
 - Decline came with **photography** from the 1850s. It is not Bengal School.
 
-> ** note:** Company School is not British painters only. Patna Kalam is Company, not Mughal.
+> **Logic:** Company School is not British painters only. Patna Kalam is Company, not Mughal.
 
 ---
 
@@ -422,7 +421,7 @@ D. V.N. Mishra
 
 ### Bengal School
 
-**Founder:Abanindranath Tagore** (at Calcutta School of Art under **E.B. Havell**, 1896–1900s) | **Technique:** Japanese-influenced **wash** | **Allies:** Okakura Kakuzo / Sister Nivedita circle
+**Founder:** Abanindranath Tagore** (at Calcutta School of Art under **E.B. Havell**, 1896–1900s) | **Technique:** Japanese-influenced **wash** | **Allies:** Okakura Kakuzo / Sister Nivedita circle
 
 - It is an anti-colonial revival using Mughal, Rajput and Ajanta memory.
 - Abanindranath painted ***Bharat Mata* (1905)**.
@@ -464,7 +463,7 @@ D. V.N. Mishra
 - **Bhupen Khakhar** is Baroda narrative.
 - **Lalit Kala Akademi** is **1954**, New Delhi. It is the apex body for visual arts.
 
-> ** note:** Ravi Varma is not Abanindranath. PAG is **1947**, not Bengal School 1900s.
+> **Logic:** Ravi Varma is not Abanindranath. PAG is **1947**, not Bengal School 1900s.
 
 ---
 
@@ -1632,7 +1631,7 @@ D. 2, 4, 1, 3
 3. In Shadanga, **Pramanam** is proportion. **Bhava** is emotion. **Sadrisyam** is likeness. **Varnikabhangam** is colour.
 4. **Ajanta** is paintings. **Ellora** is sculpture (Kailasa).
 5. **Padmapani** is Cave **1**, Mahayana iconic — not Hinayana aniconic.
-6. **Hamzanama**, **Daswanth** and **Basawan** are **Akbar**. **Mansur** and **Bishandas** are **Jahangir**.
+6. **Hamzanama**, **Daswanth** and **Basawan** are **Akbar. Mansur** and **Bishandas** are **Jahangir**.
 7. **Bani Thani** is Kishangarh, **not** Kangra.
 8. The order is Basohli → Guler → Kangra. Kangra is hills, not Marwar.
 9. Company School is not Bengal School. Photography ends Company documentary demand.

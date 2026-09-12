@@ -14,6 +14,13 @@ Structure of the Atmosphere | Atmospheric Composition | Atmospheric Layers | Tro
 
 ---
 
+## Current Affairs (this topic)
+
+- Atmosphere layer and composition facts are stable; WMO GHG / ozone bulletins are light CA.
+- Troposphere weather vs stratosphere ozone remains the classic layer trap.
+
+---
+
 ## Consolidated — 24 Must-Score Facts
 
 1. From bottom to top the layers run **Troposphere → Stratosphere → Mesosphere → Thermosphere → Exosphere**.
@@ -81,7 +88,7 @@ Options: A. Long-wave terrestrial radiation B. Scattered solar radiation C. Refl
 
 </details>
 
-> ** note:** “Atmosphere heated mainly by direct shortwave” is **false**.
+> **Logic:** “Atmosphere heated mainly by direct shortwave” is **false**.
 
 ---
 
@@ -133,7 +140,7 @@ Options: A. Carbon dioxide B. Dust particles C. Helium D. Water vapours
 | CO₂ | 0.04% | GHG |
 | H₂O | 0–4% | Variable |
 
-> ** note:** Composition % ≠ greenhouse importance (CO₂ is tiny but powerful).
+> **Logic:** Composition % ≠ greenhouse importance (CO₂ is tiny but powerful).
 
 ---
 
@@ -153,7 +160,7 @@ Options: A. Carbon dioxide B. Dust particles C. Helium D. Water vapours
 | Thermosphere | ~85–600 km | ↑ upward | Aurora / ISS |
 | Exosphere | ~600 km+ | Transition | Space merge |
 
-> ** note:** Learn **feature ↔ layer** matching, not only names.
+> **Logic:** Learn **feature ↔ layer** matching, not only names.
 
 ---
 
@@ -229,7 +236,7 @@ With reference to the ozone layer:
 
 </details>
 
-> ** note:** Ozone max = **stratosphere**. Pair “ozone–troposphere” is always wrong.
+> **Logic:** Ozone max = **stratosphere**. Pair “ozone–troposphere” is always wrong.
 
 ---
 
@@ -242,7 +249,7 @@ With reference to the ozone layer:
 - Most **meteors burn up** here due to friction with sparse air.
 - Noozone-layer role and little weather activity compared with the troposphere.
 
-> ** note:** Meteors = mesosphere; ozone ≠ mesosphere.
+> **Logic:** Meteors = mesosphere; ozone ≠ mesosphere.
 
 ---
 
@@ -256,7 +263,7 @@ With reference to the ozone layer:
 - The **International Space Station** orbits in the lower thermosphere region.
 - Temperature generally **increases with height** due to absorption of high-energy solar radiation.
 
-> ** note:** Hot ≠ dense. Thermosphere heat is not like tropospheric heat you feel.
+> **Logic:** Hot ≠ dense. Thermosphere heat is not like tropospheric heat you feel.
 
 ---
 
@@ -269,7 +276,7 @@ With reference to the ozone layer:
 - It merges into interplanetary space rather than ending at a sharp boundary.
 - Highest satellite orbits relate to this outer region matching.
 
-> ** note:** Exosphere = space transition, not the ozone layer.
+> **Logic:** Exosphere = space transition, not the ozone layer.
 
 ---
 

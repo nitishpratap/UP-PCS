@@ -2,14 +2,22 @@
 
 ### ★ UKPCS state card (Unit 3)
 
-> **Syllabus heads:** Consolidated Fund · Contingency Fund · Political Parties · Election. 
+> **Sources:** Arts. 266–267 State fund pattern, ECI / SEC split, State Finance Commission.  
+> **Syllabus heads:** Consolidated Fund · Contingency Fund · Political Parties · Election.  
 > **First Finance Commission name-trap:** see [Topic 1](01_Constitutional_Framework_of_Uttarakhand.md) Q135.
+
+---
+
+## Current Affairs (this topic)
+
+- Assembly / local-body election calendars refresh ECI vs SEC identity.
+- Keep Consolidated vs Contingency Fund as the durable fund pair.
 
 ---
 
 ## Quick Revision — Spine Only
 
-| Head | Lock |
+| Head | Key |
 |------|------|
 | Consolidated Fund of the State | All revenues / loans received — Arts. **266** pattern |
 | Contingency Fund of the State | Advances for unforeseen expenditure — Art. **267(2)** pattern |
@@ -22,7 +30,7 @@
 
 ## Confused Pairs
 
-| Pair | Lock |
+| Pair | Key |
 |------|------|
 | Consolidated vs Contingency | Main fund vs emergency advances |
 | State Finance Commission vs Finance Commission of India | Local devolution vs Centre–State finance |
@@ -33,17 +41,23 @@
 
 ## 5.1 State funds
 
-- The **Consolidated Fund of the State** holds moneys received by the state government.
-- The **Contingency Fund** allows the executive to meet urgent unforeseen expenditure pending Assembly authorisation.
+**Identity:** Consolidated Fund = main pot | Contingency Fund = unforeseen advances.
+
+- The **Consolidated Fund of the State** holds moneys received by the State government (revenues, loans, and related receipts under the Art. **266** pattern).
+- Money is drawn from the Consolidated Fund only after **appropriation** by the Vidhan Sabha.
+- The **Contingency Fund of the State** (Art. **267(2)** pattern) lets the executive meet **urgent unforeseen** expenditure first; the Assembly later regularises the advance.
 - Prelims usually tests the constitutional identity of the two funds more than UK-specific amounts.
 
 ---
 
 ## 5.2 Parties and elections
 
+**Identity:** ECI for Assembly | SEC for local bodies | anti-defection applies.
+
 - Vidhan Sabha elections are conducted by the **Election Commission of India**.
 - Local body polls are run with the **State Election Commission**.
-- Party system and anti-defection follow national constitutional rules.
+- National and State parties contest the Assembly; anti-defection follows national constitutional rules.
+- The **State Finance Commission** recommends devolution to Panchayats and municipalities — it is **not** the UKPSC and not the Union Finance Commission.
 
 ---
 

@@ -2,7 +2,15 @@
 
 ### ★ UKPCS state card (Unit 2)
 
+> **Sources:** UKPCS cultivated-area and animal-husbandry keys, Tarai vs hill farming map.  
 > **High-yield 2025:** animal husbandry statements (Q102) · highest agricultural land district (Q107).
+
+---
+
+## Current Affairs (this topic)
+
+- Fresh land-use releases can shuffle Haridwar vs Udham Singh Nagar absolute ranks — keep both names and prefer the Series B letter when that paper is cited.
+- Horticulture and dairy scheme news can appear as CA without rewriting the hill–plain crop map.
 
 ---
 
@@ -24,7 +32,7 @@
 
 | Pair | Correct |
 |------|---------|
-| Haridwar vs US Nagar on agri area | 2025 Series B marks **Haridwar**; US Nagar is the Tarai rival in many books |
+| Haridwar vs US Nagar on agri area | **Tarai/plains** lead cropped area vs hills. Exact **rank** varies by source. For **2025 Series B**, mark **Haridwar**; many books still name **Udham Singh Nagar** as the Tarai rival |
 | AH as main vs supplementary | Correct reading is **supplementary** occupation |
 | Q102 both vs only 1 | Series B **Only 1** — do not mark both unless an amended key says so |
 | Hill vs plain irrigation | Tubewell–canal plains ≠ spring-fed hill systems |
@@ -98,16 +106,12 @@
 
 **Identity:** Canal–tubewell plains versus spring–gul hills.
 
-- **Udham Singh Nagar** type plains use **canal** irrigation heavily.
-- Those plains also use **tubewell** irrigation heavily.
-- **Haridwar** type plains show the same canal–tubewell pattern.
-- Mid-hill systems rely more on **springs**.
-- Small channels called **guls** also matter there.
+- **Udham Singh Nagar** and **Haridwar** type plains use **canal** and **tubewell** irrigation heavily.
+- Mid-hill systems rely more on **springs** and small gravity channels called **guls**.
 - Tanks appear in some mid-hill systems.
 - Steep terrain limits large canal networks in the higher Himalaya.
 - Irrigation intensity therefore falls from Tarai granary districts toward high alpine valleys.
-- The syllabus expects this plains–hills contrast.
-- It does not expect a long named-project list as the main story.
+- The syllabus expects this plains–hills contrast, not a long named-project dump as the main story.
 
 ---
 

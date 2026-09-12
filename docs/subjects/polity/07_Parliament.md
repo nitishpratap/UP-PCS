@@ -184,7 +184,7 @@ D. Only 1
 - The Rajya Sabha has an **equal say with the Lok Sabha** in approving Emergency proclamations under Arts. **352, 356, and 360** — the Lok Sabha's exclusive powers are confined to Money Bills and confidence, not to Emergency approval.
 - Teaching personalities: **Nargis Dutt** was the first actress nominated to the Rajya Sabha (**1980**). In **2024**, President Murmu nominated **Satnam Singh Sandhu** and **Sudha Murty** (Sudha Murty reported as completing the twelfth nominated slot).
 
-> ** note:** The Art. **312** majority is **two-thirds of members present and voting**, **not** two-thirds of the total membership. The Rajya Sabha is a **continuing chamber** and can **never** be dissolved.
+> **Logic:** The Art. **312** majority is **two-thirds of members present and voting**, **not** two-thirds of the total membership. The Rajya Sabha is a **continuing chamber** and can **never** be dissolved.
 
 **PYQ — UPPCS Prelims 2024, Q38**
 
@@ -424,7 +424,7 @@ D. 7th Lok Sabha — 1982
 | Vote on **Demand for Grants** | Initiate **removal of the Vice-President** |
 | Decide (via Speaker) that a Bill is a Money Bill | — |
 
-> ** note:** Emergency proclamations, ordinary Bills, CABs and impeachment of the President are **not** LS-only — both Houses act.
+> **Logic:** Emergency proclamations, ordinary Bills, CABs and impeachment of the President are **not** LS-only — both Houses act.
 
 ---
 
@@ -493,7 +493,7 @@ A person is disqualified from being a member of either House under Art. **102** 
 - **Ministers** are **expressly excepted** from this disqualification in Art. **102** itself.
 - **Jaya Bachchan**, a Rajya Sabha member, was disqualified for holding an office in a **UP film-development body** — the best-known office-of-profit case.
 
-> ** note:** Office-of-profit → **President + EC** (Art. 103). **Defection** → **Speaker/Chairman**. Do not mix the two forums.
+> **Logic:** Office-of-profit → **President + EC** (Art. 103). **Defection** → **Speaker/Chairman**. Do not mix the two forums.
 
 ---
 
@@ -620,7 +620,7 @@ D. A-4, B-1, C-3, D-2
 
 </details>
 
-> ** note:** Election of Speaker / Deputy Speaker / Deputy Chairman is **internal to the House** — **not** conducted by the Election Commission.
+> **Logic:** Election of Speaker / Deputy Speaker / Deputy Chairman is **internal to the House** — **not** conducted by the Election Commission.
 
 ---
 
@@ -695,7 +695,7 @@ Last session of the **outgoing** Lok Sabha **after** a new Lok Sabha has been el
 - **86:** President may **address** either House / both and send **messages**.
 - **87:** special address to **both Houses assembled together** — first session after each general election **and** first session of each year.
 
-> ** note:** Adjournment ≠ prorogation ≠ dissolution. Only the **President** prorogues/dissolves; only the **presiding officer** adjourns. Prorogation does **not** kill Bills.
+> **Logic:** Adjournment ≠ prorogation ≠ dissolution. Only the **President** prorogues/dissolves; only the **presiding officer** adjourns. Prorogation does **not** kill Bills.
 
 ---
 
@@ -5613,7 +5613,7 @@ D. A-1, B-2, C-3, D-4
 - An **Exceptional Grant (116)** meets a **special purpose** that forms **no part** of the current service of any financial year.
 - A **Token Grant** is a practice, not found in the Constitution, of a **₹1** demand so that expenditure can be met by re-appropriation.
 
-> ** note:** Demands for Grants, cut motions, no-confidence, adjournment motion = **Lok Sabha only**. RS discusses the Budget but **does not vote** the demands.
+> **Logic:** Demands for Grants, cut motions, no-confidence, adjournment motion = **Lok Sabha only**. RS discusses the Budget but **does not vote** the demands.
 
 ---
 
@@ -5727,7 +5727,7 @@ D. Money Bill
 - A Bill that **originated in the Rajya Sabha and is still pending there, awaiting the Lok Sabha's action, does not lapse**.
 - **Prorogation, by itself, never lapses a Bill.**
 
-> ** note:110 = definition**, **109 = RS 14-day procedure**. A Bill that looks “financial” is **not** automatically a Money Bill — check 117(1)/(3).
+> **Logic:** 110 = definition**, **109 = RS 14-day procedure**. A Bill that looks “financial” is **not** automatically a Money Bill — check 117(1)/(3).
 
 ---
 
@@ -5789,7 +5789,7 @@ House tools for questions, urgency, and censure — **not** a second Bill proced
 | **Economy cut** | Reduce by a **specified amount** | Economy should be effected |
 | **Token cut** | Reduce by **₹100** | Ventilate a **specific grievance** |
 
-> ** note:** Zero Hour is **after** Question Hour, not before, and not the “first hour”. No-confidence needs **no grounds**; censure **does**. Adjournment / no-confidence / cut motions = **LS only**.
+> **Logic:** Zero Hour is **after** Question Hour, not before, and not the “first hour”. No-confidence needs **no grounds**; censure **does**. Adjournment / no-confidence / cut motions = **LS only**.
 
 **PYQ — UPPCS Prelims 2021, Q141'Zero Hour'** in the working of the Indian Parliament means—
 

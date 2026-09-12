@@ -14,6 +14,13 @@ Global Warming | Greenhouse Effect | Greenhouse Gases (GHGs) | Carbon Footprint 
 
 ---
 
+## Current Affairs (this topic)
+
+- Keep India NDC / Net Zero 2070 / LiFE as living climate CA; treaty years stay in the ladder below.
+- Do not put **Montreal** into a climate-mitigation answer slot when Kyoto / Paris are present.
+
+---
+
 ## Consolidated — 36 Must-Score Facts
 
 1. **Global warming** is the long-term rise in average surface temperature. It is a subset of broader **climate change**, which also includes rainfall, extremes, and sea-level shifts.
@@ -84,7 +91,7 @@ Global Warming | Greenhouse Effect | Greenhouse Gases (GHGs) | Carbon Footprint 
 - **Arctic warming** is about **2–3 times faster** than the global average.
 - A single cold day is **weather**. Multi-decade warming trend is **climate**.
 
-> ** note:** "Warming is entirely natural" is **false**. IPCC attributes recent trend mainly to human activity.
+> **Logic:** "Warming is entirely natural" is **false**. IPCC attributes recent trend mainly to human activity.
 
 ---
 
@@ -150,7 +157,7 @@ Global Warming | Greenhouse Effect | Greenhouse Gases (GHGs) | Carbon Footprint 
 - The **energy/electricity sector** is India's largest emissions source.
 - **LiFE Mission (2022)** promotes lifestyle changes to reduce individual footprints.
 
-> ** note:** India has low **per capita** footprint but high **total** emissions due to population size.
+> **Logic:** India has low **per capita** footprint but high **total** emissions due to population size.
 
 ---
 
@@ -166,7 +173,7 @@ Global Warming | Greenhouse Effect | Greenhouse Gases (GHGs) | Carbon Footprint 
 - **Deforestation** converts a sink into a **source** by releasing stored carbon and removing uptake capacity.
 - India's NDC targets an additional **2.5–3 GtCO₂e forest carbon sink** by 2030.
 
-> ** note:** A coal plant is a **source**. A growing forest is a **sink**.
+> **Logic:** A coal plant is a **source**. A growing forest is a **sink**.
 
 ---
 
@@ -234,7 +241,7 @@ D. −4°C cooling
 **Identity:** Build resilience | NAPCC 2008 | 8 missions | ≠ mitigation
 
 - **Climate adaptation** means adjusting to actual or expected climate impacts to reduce harm.
-- **Mitigation** reduces emissions. **Adaptation** copes with impacts already occurring or locked in.
+- **Mitigation** reduces emissions. **Adaptation** copes with impacts already occurring or already committed in the climate system.
 - **NAPCC (National Action Plan on Climate Change, 2008)** is India's master climate framework with **8 national missions**.
 - Adaptation-focused missions include **National Water Mission**, **Sustainable Agriculture Mission**, and **Himalayan Ecosystem Mission**.
 - **National Water Mission** goals include a public water database and climate-impact assessment, citizen/state conservation action, focus on over-exploited areas, **~20% water-use efficiency gain**, and basin-level IWRM. Urban wastewater recycling fits; nationwide Himalaya–peninsula river linking and free borewell reimbursement do **not**.
@@ -263,6 +270,17 @@ D. −4°C cooling
 ## 10.9 Climate Mitigation
 
 **Identity:** Cut emissions + sinks | UNFCCC/Kyoto/Paris | CDM · GCF | India NDC | LiFE
+
+### Treaty ladder — climate vs ozone (read the stem)
+
+| Ladder | Instruments | What it controls | Classic trap |
+|--------|-------------|------------------|--------------|
+| **Climate** | UNFCCC (1992) → **Kyoto** (1997) → **Paris** (2015) | GHG mitigation / NDCs | Montreal is **not** climate mitigation |
+| **Ozone** | Vienna (1985) → **Montreal** (1987) → **Kigali** (HFCs, 2016) | ODS / HFC phase-down | Kyoto is **not** ozone |
+
+- **UNFCCC** is the parent climate convention. **Kyoto** gave binding Annex-I cuts and CDM. **Paris** uses voluntary **NDCs** for all parties.
+- **CBDR** (common but differentiated responsibilities) is the climate equity line — do not paste it onto Montreal automatically.
+- **Montreal** protects the ozone layer; **Kigali** amends Montreal for HFCs (also climate-relevant, but still ozone-family architecture).
 
 - **Climate mitigation** means reducing GHG sources or enhancing sinks to limit future warming.
 - **UNFCCC (1992, Rio)** entered into force **21 March 1994**; it frames greenhouse-gas mitigation.

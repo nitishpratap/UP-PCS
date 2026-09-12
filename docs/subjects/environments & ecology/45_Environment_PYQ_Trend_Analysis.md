@@ -154,7 +154,7 @@ Acid rain (39), EIA (14), renewable energy detail (22/27), disaster-env (23), gl
 | A/R | 2 | 11% |
 | Match | 2 | 11% |
 
-> ** note:** 2025 reversed the historical pattern — **68% multi-format** vs 32% historically. Your Practice Zones must mirror 2-statement + A/R, not only single MCQs.
+> **Logic:** ** 2025 reversed the historical pattern — **68% multi-format** vs 32% historically. Your Practice Zones must mirror 2-statement + A/R, not only single MCQs.
 
 ### UPPCS Favourite Question Types — Ranked
 

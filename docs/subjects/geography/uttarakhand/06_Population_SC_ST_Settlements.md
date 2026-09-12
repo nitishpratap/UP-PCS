@@ -2,8 +2,16 @@
 
 ### ★ UKPCS state card (Unit 2)
 
-> **High-yield 2025:** sex-ratio order (Q111) · Vanrawats (Q113). 
+> **Sources:** Census 2011 district tables, UKPCS tribal identity keys.  
+> **High-yield 2025:** sex-ratio order (Q111) · Vanrawats (Q113).  
 > **Airports / cities:** [Transport & Tourism](07_Transport_Tourism_Natural_Hazards.md).
+
+---
+
+## Current Affairs (this topic)
+
+- Fresh census / NFHS district ranks can update absolute numbers; keep the **relative** Almora-high / Haridwar-low sex-ratio pattern as the must-score fact.
+- Urban mission names for Dehradun and plains towns belong with national Human Geography CA when asked.
 
 ---
 
@@ -74,23 +82,18 @@
 
 **Identity:** Compact hill villages | dispersed Tarai farms | admin and tourism towns.
 
-- Compact nucleated villages dominate many mid-hill slopes.
-- Terrace land is scarce there, so settlement stays clustered.
-- Dispersed farmsteads are more common in Tarai and dun belts.
-- Roadside bazaars are also more common there.
-- Seasonal highland pastures appear in the alpine belt.
-- Temporary herder camps appear in Bhotia belts as well.
-- Administrative capital landscape centres on **Dehradun**.
-- **Haridwar** is a pilgrimage–industry town.
-- **Rishikesh** is another pilgrimage–industry town.
-- **Rudrapur** is a Tarai agro-industrial node.
-- **Kashipur** is another Tarai agro-industrial node.
-- The **Pantnagar** belt also belongs to that Tarai industrial story.
-- **Nainital** mixes administration, education, and tourism.
-- **Almora** does the same in the mid-hills.
-- **Srinagar (Garhwal)** does the same in Garhwal.
-- **Haldwani** mixes those roles on the Kumaon foothill side.
-- The full tourist catalogue sits with Topic 7.
+- Compact nucleated villages dominate many mid-hill slopes where terrace land is scarce.
+- Dispersed farmsteads and roadside bazaars are more common in Tarai and dun belts.
+- Seasonal highland pastures and temporary herder camps appear in alpine and Bhotia belts.
+- **Dehradun** is the administrative capital and the largest urban node of the dun.
+- **Haridwar** and **Rishikesh** are pilgrimage–industry towns on the Ganga fringe.
+- **Roorkee** is the engineering–education and canal-town node of the western plains fringe.
+- **Rudrapur**, **Kashipur**, and the **Pantnagar** belt are Tarai agro-industrial nodes in Udham Singh Nagar.
+- **Haldwani** is the main Kumaon foothill gateway and market town.
+- **Nainital** and **Almora** mix administration, education, and tourism in the mid-hills.
+- **Srinagar (Garhwal)** plays the same mid-hill admin–college role in Garhwal.
+- Urbanisation is denser in plains and dun belts; many hill towns stay tourism–admin based.
+- The full tourist catalogue sits with Transport & Tourism.
 
 ---
 

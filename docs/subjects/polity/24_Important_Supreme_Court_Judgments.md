@@ -140,7 +140,7 @@ Headed blocks below carry the holdings. This is only the **order**:
 - **1992** *Sawhney* + *Kihoto* → **1993** Second Judges (CJI+**2**) → **1994** *Bommai* → **1997** *Vishaka* → **1998** Third Judges (CJI+**4** / HC CJI+**2**)
 - **2006** *Rameshwar Prasad* → **2007** *Coelho* → **2013** *Lily Thomas* → **2015** *Shreya* + NJAC **4:1** → **2016** *Nabam Rebia* → **2017** *Puttaswamy* → **2018** *Navtej* + *Joseph Shine*
 
-> ** note:** Four-case order = **1951–65–67–73**. 24th Amd is **1971** — **before** Kesavananda. Basic Structure = *Kesavananda* 1973, **not** Golaknath.
+> **Logic:** Four-case order = **1951–65–67–73**. 24th Amd is **1971** — **before** Kesavananda. Basic Structure = *Kesavananda* 1973, **not** Golaknath.
 
 **PYQ — UPPCS Prelims 2024, Q126**
 
@@ -192,7 +192,7 @@ A.K. Gopalan, a Communist leader, was detained under the **Preventive Detention 
 - **Severability:** s.14 of the PD Act (barred the court from seeing the grounds of detention) was **struck**; the rest of the Act **stood**
 - **Later:** the silo / “any procedure” reading is replaced by ***Maneka* 1978**. The need for a **valid law** remains
 
-> ** note:** *Gopalan* **refused** due process. It is **not** still the Art. 21 test — ***Maneka*** is.
+> **Logic:** *Gopalan* **refused** due process. It is **not** still the Art. 21 test — ***Maneka*** is.
 
 ---
 
@@ -209,7 +209,7 @@ A.K. Gopalan, a Communist leader, was detained under the **Preventive Detention 
 - **Bench:** 5-judge. **Patanjali Sastri**
 - In 1951 the 9th Schedule looks like a complete FR-proof vault
 
-> ** note:** *Shankari Prasad* did **not** invent Basic Structure. Opposite — it said 368 can amend FR with no identity-ceiling.
+> **Logic:** *Shankari Prasad* did **not** invent Basic Structure. Opposite — it said 368 can amend FR with no identity-ceiling.
 
 ---
 
@@ -223,7 +223,7 @@ A.K. Gopalan, a Communist leader, was detained under the **Preventive Detention 
 - **Mudholkar J.:** separate opinion — does the Constitution have “**basic features**” that even 368 cannot destroy? (He points to the idea; he does **not** strike the 17th)
 - **Hidayatullah J.:** also doubts *Shankari* on 13 vs 368
 
-> ** note:** Basic Structure ≠ *Sajjan Singh* 1965. Mudholkar hinted; the doctrine is **1973**.
+> **Logic:** Basic Structure ≠ *Sajjan Singh* 1965. Mudholkar hinted; the doctrine is **1973**.
 
 ---
 
@@ -237,7 +237,7 @@ Henry and William **Golaknath** — land in Punjab hit by ceiling laws that the 
 - **Prospective overruling:** first major Indian use. The new rule applies only to **future** amendments. The **1st and 17th Amendments already made remain valid** — so the Punjab laws in the 9th Schedule **stood**
 - The phrase and the identity-ceiling arrive in **1973**
 
-> ** note:** *Golaknath* ≠ Basic Structure. It did **not** void the 1st Amd (prospective).
+> **Logic:** *Golaknath* ≠ Basic Structure. It did **not** void the 1st Amd (prospective).
 
 **Parliament’s reply — 24th Amendment, 1971** (this is the statute *Kesavananda* then tests):
 
@@ -307,7 +307,7 @@ Largest Bench: **13 judges**. **S.M. Sikri** CJ. Majority **7:6**. Related: *Gol
 
 There is **no official closed list**. Later cases add features; they do not repeal Sikri.
 
-> ** note:** 24th Amendment is **1971 — before** Kesavananda. *Kesavananda* did **not** freeze Part III again — it allowed FR amendment and froze identity.
+> **Logic:** 24th Amendment is **1971 — before** Kesavananda. *Kesavananda* did **not** freeze Part III again — it allowed FR amendment and froze identity.
 
 ---
 
@@ -331,7 +331,7 @@ There is **no official closed list**. Later cases add features; they do not repe
 - **Features named here:democracy** · **free and fair elections** · **rule of law** · **judicial review**
 - Parliament had meanwhile amended the RPA (removing some corrupt-practice definitions with retrospective effect). The Supreme Court **set aside** the Allahabad judgment and **upheld** her election on that amended law. Remember: still: **329A(4)(5) died**
 
-> ** note:** This case *applied* the 1973 doctrine to the 39th Amendment. It did **not** invent Basic Structure.
+> **Logic:** This case *applied* the 1973 doctrine to the 39th Amendment. It did **not** invent Basic Structure.
 
 ---
 
@@ -346,7 +346,7 @@ After the 25 June 1975 Emergency, the President under Art. **359** suspended the
 - **44th Amendment, 1978:** Art. 359 rewritten — the right to move a court for Arts. **20 and 21 cannot be suspended**
 - ***Puttaswamy* (2017):** 9-judge — the *Jabalpur* majority was **wrongly decided**; Khanna was right
 
-> ** note:** Khanna **dissented**; he did not write the majority. *Jabalpur* is **not** still the habeas rule.
+> **Logic:** Khanna **dissented**; he did not write the majority. *Jabalpur* is **not** still the habeas rule.
 
 ---
 
@@ -360,7 +360,7 @@ Maneka Gandhi’s **passport was impounded** under **s.10(3)(c) of the Passport 
 - Natural justice (*audi alteram partem*) sits inside 21
 - vs *Gopalan*: the silo reading **goes**. You still need a **valid law**; that law’s procedure must now also be **fair**
 
-> ** note:** *Maneka* did **not** change Art. 21’s wording to “due process.” It **added** fairness; it did **not** drop the need for a law.
+> **Logic:** *Maneka* did **not** change Art. 21’s wording to “due process.” It **added** fairness; it did **not** drop the need for a law.
 
 ---
 
@@ -380,7 +380,7 @@ Maneka Gandhi’s **passport was impounded** under **s.10(3)(c) of the Passport 
 - Also struck: the 42nd’s stretch of **31C to all DPSPs**
 - What 31C still covers: only DPSP **39(b)** and **39(c)** — the limb *Kesavananda* had already saved
 
-> ** note:** *Minerva* did **not** invent Basic Structure. It used 1973 to kill 368(4)(5). 31C covers **only 39(b)(c)**, not every DPSP.
+> **Logic:** *Minerva* did **not** invent Basic Structure. It used 1973 to kill 368(4)(5). 31C covers **only 39(b)(c)**, not every DPSP.
 
 ---
 
@@ -397,7 +397,7 @@ The President asked the Supreme Court under Art. **143**: can this be done by an
 - **Do not mix:** 9th **Amendment** (1960, this border) ≠ 9th **Schedule** (1st Amd 1951, FR-shield). Art. **350B** is the **7th** Amendment, not the 9th
 - Preamble later: *Kesavananda* (1973) and *LIC* (1995): Preamble **is** part. The **cession** rule (needs an Amd) **still stands**. The 2015 India–Bangladesh land swap used the **100th Amendment** for the same reason
 
-> ** note:** 9th Amendment ≠ 9th Schedule. *Berubari* is **not** the last word on the Preamble — *Kesavananda* reversed that limb only.
+> **Logic:** 9th Amendment ≠ 9th Schedule. *Berubari* is **not** the last word on the Preamble — *Kesavananda* reversed that limb only.
 
 ---
 
@@ -411,7 +411,7 @@ The **Gudalur Janmam Estates (Abolition and Conversion into Ryotwari) Act, 1969*
 - ***Waman Rao* (1981) first:** laws put in the 9th Schedule **on or before 24 April 1973** remain saved from a pure FR attack. Laws inserted **after** that date are open to **basic-structure** review
 - Does **not** wipe the original 1951 zamindari batch, and does **not** void every 9th-Schedule law automatically
 
-> ** note:** *Coelho* did **not** invent the cut-off — *Waman Rao* drew the date; *Coelho* locked it as 9-judge law. Not every 9th Schedule law is void.
+> **Logic:** *Coelho* did **not** invent the cut-off — *Waman Rao* drew the date; *Coelho* locked it as 9-judge law. Not every 9th Schedule law is void.
 
 ---
 
@@ -428,7 +428,7 @@ S.R. Bommai, Janata Dal CM of **Karnataka**, was dismissed in **1989**. **No flo
 - Do **not** dissolve the Assembly until **Parliament has approved** the 356 proclamation. If the proclamation is struck, the Assembly can be **revived**
 - What it does **not** say: 356 is repealed. A ministry that **has** lost the floor can still be dismissed
 
-> ** note:** *Bommai* did **not** invent Basic Structure. It applied secularism/federalism to **356**. Inventor = 1973.
+> **Logic:** *Bommai* did **not** invent Basic Structure. It applied secularism/federalism to **356**. Inventor = 1973.
 
 ---
 
@@ -441,7 +441,7 @@ S.R. Bommai, Janata Dal CM of **Karnataka**, was dismissed in **1989**. **No flo
 - Majority is tested in the House, not guessed in Raj Bhavan
 - The Court **did not restore** that Assembly — a fresh election (Oct 2005) had already happened. The fact is the **principle**, not a restored House
 
-> ** note:** *Rameshwar Prasad* is **not** a 356-is-never-justiciable case. Opposite.
+> **Logic:** *Rameshwar Prasad* is **not** a 356-is-never-justiciable case. Opposite.
 
 ---
 
@@ -454,7 +454,7 @@ S.R. Bommai, Janata Dal CM of **Karnataka**, was dismissed in **1989**. **No flo
 - Art. **163(2):** his decision that a matter “is discretionary” is not a **blank cheque** — it is reviewable if used to defeat the Constitution
 - A notice to remove the Speaker is not decided by advancing the calendar on Raj Bhavan’s orders
 
-> ** note:** 163 carves discretion — *Nabam Rebia* says it is **not** a general reservoir.
+> **Logic:** 163 carves discretion — *Nabam Rebia* says it is **not** a general reservoir.
 
 ---
 
@@ -474,7 +474,7 @@ Challenge to the **10th Schedule** (inserted by the **52nd Amendment, 1985**). T
 
 **91st Amendment, 2003** (the statute that tightens the Schedule — not a *Kihoto* holding): the **1/3 split** is deleted; only a **merger** with **≥2/3** of the legislature party survives.
 
-> ** note:** *Kihoto* killed “Speaker’s order is final.” It did **not** strike the whole 10th Schedule — only the ouster clause.
+> **Logic:** *Kihoto* killed “Speaker’s order is final.” It did **not** strike the whole 10th Schedule — only the ouster clause.
 
 ---
 
@@ -487,7 +487,7 @@ Challenge to the **10th Schedule** (inserted by the **52nd Amendment, 1985**). T
 - s.8(4) unconstitutional (Art. **14**). Parliament cannot give sitting members a privilege that candidates do not have
 - **Not** an election-petition case, and **not** a 10th-Schedule defection case
 
-> ** note:** *Lily Thomas* is about **criminal conviction and RPA s.8**, not anti-defection.
+> **Logic:** *Lily Thomas* is about **criminal conviction and RPA s.8**, not anti-defection.
 
 ---
 
@@ -503,7 +503,7 @@ Challenge to the **10th Schedule** (inserted by the **52nd Amendment, 1985**). T
 - Caste can be a **starting point** for identifying backwardness; it is not the only criterion
 - **Not decided here:** EWS 10% (*Janhit Abhiyan* 2022 upheld the **103rd**)
 
-> ** note:** *Sawhney* did **not** invent reservation (16(4) is 1950). Creamy layer here = **OBC only**, not SC/ST. Promotion bar → **77th** put SC/ST promotion back.
+> **Logic:** *Sawhney* did **not** invent reservation (16(4) is 1950). Creamy layer here = **OBC only**, not SC/ST. Promotion bar → **77th** put SC/ST promotion back.
 
 ---
 
@@ -524,7 +524,7 @@ Challenge to the **10th Schedule** (inserted by the **52nd Amendment, 1985**). T
 - Also consult that HC’s CJ + two senior colleagues, and the senior-most SC judge from the recommendee’s parent HC
 - If **two or more** Collegium judges dissent, the name is **not** sent
 
-> ** note:** Collegium ≠ First Judges. **Second** created it; **Third** enlarged it. Third Judges was an **Art. 143 reference**, not ordinary litigation.
+> **Logic:** Collegium ≠ First Judges. **Second** created it; **Third** enlarged it. Third Judges was an **Art. 143 reference**, not ordinary litigation.
 
 ---
 
@@ -542,7 +542,7 @@ Challenge to the **10th Schedule** (inserted by the **52nd Amendment, 1985**). T
 - Giving the executive (and two eminent persons with a veto) a blocking vote damaged judicial independence
 - **Not** an Art. 143 reference. It is **litigation**, unlike Third Judges
 
-> ** note:** NJAC was **in** the text and still fell. Collegium is **judge-made**. NJAC = **six** members, **any-two** veto — not CJI + Law Minister only.
+> **Logic:** NJAC was **in** the text and still fell. Collegium is **judge-made**. NJAC = **six** members, **any-two** veto — not CJI + Law Minister only.
 
 ---
 
@@ -555,7 +555,7 @@ Challenge to the **10th Schedule** (inserted by the **52nd Amendment, 1985**). T
 - Duty to prevent, a complaints committee headed by a **woman**, third-party / NGO member, awareness, no victimisation
 - Statute that followed: **POSH Act, 2013**. Guidelines were a **stop-gap**, not a permanent substitute for a law
 
-> ** note:** *Vishaka* is **1997 guidelines**. POSH Act is **2013**.
+> **Logic:** *Vishaka* is **1997 guidelines**. POSH Act is **2013**.
 
 ---
 
@@ -569,7 +569,7 @@ Challenge to the **Aadhaar** project’s collection of biometric data, heard fir
 - Overruled / confined: *M.P. Sharma* (1954) and *Kharak Singh* (1962) to the extent they said there is **no** constitutional privacy. Khanna’s *Jabalpur* dissent is the law
 - **2018 Aadhaar follow-on:** 5-judge — Aadhaar as a welfare-authentication scheme largely **upheld**; **s.57** (private-company use) **struck**. Do not treat 2017 and 2018 as one holding
 
-> ** note:** *Puttaswamy* **2017** = privacy is an FR. **2018** saved most of Aadhaar. Privacy is **not** only a DPSP.
+> **Logic:** *Puttaswamy* **2017** = privacy is an FR. **2018** saved most of Aadhaar. Privacy is **not** only a DPSP.
 
 ---
 
@@ -582,7 +582,7 @@ Two women in Palghar were arrested over a Facebook post after Bal Thackeray’s 
 - **s.79** (intermediary safe-harbour) also **upheld**, with the blocking process read strictly
 - Police still sometimes invoke 66A; the **holding** is that the section is **void**
 
-> ** note:** *Shreya Singhal* did **not** strike the entire IT Act. **Only 66A** (plus a slice of 79’s overbreadth as then written).
+> **Logic:** *Shreya Singhal* did **not** strike the entire IT Act. **Only 66A** (plus a slice of 79’s overbreadth as then written).
 
 ---
 
@@ -596,7 +596,7 @@ Two women in Palghar were arrested over a Facebook post after Bal Thackeray’s 
 - What remains (as of 2018): non-consensual acts, sex with a minor, bestiality — still capable of being punished under 377 as it then stood
 - **2018 UPPCS:** the homosexuality judgment is **s.377 of the IPC**, **not Article 377** (Art. 377 = transitory provision on the **CAG**)
 
-> ** note:** *Navtej* did **not** delete Article 377 of the Constitution. There is no such privacy article. **IPC section.**
+> **Logic:** *Navtej* did **not** delete Article 377 of the Constitution. There is no such privacy article. **IPC section.**
 
 ---
 
@@ -609,7 +609,7 @@ Two women in Palghar were arrested over a Facebook post after Bal Thackeray’s 
 - Treats the woman as the husband’s property; violates **14, 15, 21**
 - Overrules *Yusuf Abdul Aziz* (1954), which had saved 497 as a “special provision” for women under 15(3)
 
-> ** note:** *Joseph Shine* did **not** make adultery a Fundamental Right. It struck a criminal section. **377 ≠ 497.**
+> **Logic:** *Joseph Shine* did **not** make adultery a Fundamental Right. It struck a criminal section. **377 ≠ 497.**
 
 ---
 
@@ -623,7 +623,7 @@ Two women in Palghar were arrested over a Facebook post after Bal Thackeray’s 
 - Later *Mehta* orders: **Ganga** pollution, **Taj Trapezium**, Delhi **CNG** buses
 - Polluter pays / precautionary developed in this line (also *Vellore Citizens*, 1996). Syllabus bullet: **21 + absolute liability**, not every later direction
 
-> ** note:** *Mehta* ≠ Rylands transplanted. Absolute liability **dropped** the English exceptions. Environment is also an Art. **21** right, not only a DPSP (48A / 51A(g)).
+> **Logic:** *Mehta* ≠ Rylands transplanted. Absolute liability **dropped** the English exceptions. Environment is also an Art. **21** right, not only a DPSP (48A / 51A(g)).
 
 ---
 
@@ -631,14 +631,24 @@ Two women in Palghar were arrested over a Facebook post after Bal Thackeray’s 
 
 **No Article defines it. No Schedule lists it.** Court **names** features as cases arrive.
 
+### Inventor vs applier — read the stem
+
+- ***Kesavananda Bharati* (1973)** **invented** the Basic Structure ceiling: Parliament may amend Fundamental Rights, but it cannot destroy the Constitution’s identity.
+- Later cases **apply** that ceiling; they do **not** invent it. Marking *Golaknath*, *Minerva*, *Bommai*, or *Coelho* as “propounded Basic Structure” is the classic trap.
+- ***Golaknath* (1967)** froze Part III amendments — different holding, earlier year.
+- ***Indira Nehru Gandhi* (1975)** applied Basic Structure to free and fair elections / rule of law against the 39th Amendment path.
+- ***Minerva Mills* (1980)** struck the 42nd Amendment’s attempt at unlimited Art. 368 and restated FR–DPSP harmony — an **application**, not invention.
+- ***S.R. Bommai* (1994)** applied secularism / federalism to Art. **356** review.
+- ***I.R. Coelho* (2007)** applied Basic Structure review to post-*Kesavananda* Ninth Schedule inserts.
+
 - **Sikri in *Kesavananda*:** supremacy of the Constitution · republican & democratic form · secular character · separation of powers · federal character
 - ***Indira Gandhi* 1975:** democracy · free and fair elections · rule of law · judicial review
 - ***Minerva Mills* 1980:** limited amending power · harmony between FR and DPSP
-- ***Coelho* 2007:14, 19, 21** as a test for 9th-Schedule laws
+- ***Coelho* 2007:** Arts. **14, 19, 21** as a test for 9th-Schedule laws
 - ***Bommai* 1994:** secularism (and federalism) applied to **356**
-- **NJAC 2015:judicial independence** — a constitutional amendment can **die**
+- **NJAC 2015:** judicial independence — a constitutional amendment can **die**
 
-> ** note:** If the option says “propounded in *Golaknath* / *Shankari* / *Sajjan*” — **wrong year and wrong holding.** Don’t confuse *Kesavananda* (invented the ceiling) with *Minerva* (struck 42nd’s unlimited 368).
+> **Logic:** If the option says “propounded in *Golaknath* / *Shankari* / *Sajjan*” — **wrong year and wrong holding.** Do not confuse *Kesavananda* (invented the ceiling) with *Minerva* (struck 42nd’s unlimited 368).
 
 ---
 

@@ -173,7 +173,7 @@ India is **not** a member of NATO, AUKUS, Five Eyes, CSTO, **OIC**, or the EU. C
 
 Machinery: **MEA** (EAM) · Foreign Secretary · **NSA** · **CCS** (PM + HM + RM + FM) — PMO/NSA often run the hard files.
 
-> ** note:** Look East = **1991**. Act East = **2014**. LEMOA = logistics **access**, not NATO. NFU is a **national doctrine**, not a UN treaty.
+> **Logic:** Look East = **1991**. Act East = **2014**. LEMOA = logistics **access**, not NATO. NFU is a **national doctrine**, not a UN treaty.
 
 ---
 
@@ -196,7 +196,7 @@ Machinery: **MEA** (EAM) · Foreign Secretary · **NSA** · **CCS** (PM + HM + R
 - Panchsheel is **not** in the Indian Constitution as a schedule. Art. **51** is the DPSP cousin
 - 1962 war did **not** “repeal” Panchsheel as a *text*. The paper still asks the **five** and the **1954** year
 
-> ** note:** Panchsheel **1954**. NAM **1961 Belgrade**. Bandung 1955 is the **mood**, not the first NAM summit.
+> **Logic:** Panchsheel **1954**. NAM **1961 Belgrade**. Bandung 1955 is the **mood**, not the first NAM summit.
 
 ---
 
@@ -224,7 +224,7 @@ Cold-War line: NATO vs Warsaw Pact were the two *alliances*; NAM refused to be a
 
 **Neutrality ≠ non-alignment:** a neutral (Swiss model) *stays out of wars by law*. A non-aligned State **chooses** each file — including a 1971 tilt.
 
-> ** note:** Bandung 1955 is the **mood**. First NAM summit = **Belgrade 1961**. NAM has **no** Art. 5.
+> **Logic:** Bandung 1955 is the **mood**. First NAM summit = **Belgrade 1961**. NAM has **no** Art. 5.
 
 ---
 
@@ -247,7 +247,7 @@ Cold-War line: NATO vs Warsaw Pact were the two *alliances*; NAM refused to be a
 - Ezulwini — African Union position: **two** permanent African seats (with veto, in the AU ask) — neighbour of G4, not G4 itself
 - Art. **27** — voting rule in the Charter — veto sits here as “concurring votes of the permanent members” on non-procedural matters. TCC ≠ P5
 
-> ** note:** India = elected member, 8 terms, last **2021–22**. Abstention ≠ veto. Uniting for Peace ≠ Indian veto.
+> **Logic:** India = elected member, 8 terms, last **2021–22**. Abstention ≠ veto. Uniting for Peace ≠ Indian veto.
 
 ---
 
@@ -290,7 +290,7 @@ Cold-War alliances + 21st-century minilaterals. **SCO / QUAD** as clubs have the
 | Exhibit | UN Charter Chapter **VII** | NATO **Art. 5** (also CSTO, ANZUS) |
 | India | UN peacekeeping / Chapter VII mandates | **Not** in Art. 5 clubs |
 
-> ** note:** AUKUS = **AUS–UK–US**. Quad **includes India**. NATO Art. 5 does **not** bind India.
+> **Logic:** AUKUS = **AUS–UK–US**. Quad **includes India**. NATO Art. 5 does **not** bind India.
 
 ---
 
@@ -307,7 +307,7 @@ Cold-War alliances + 21st-century minilaterals. **SCO / QUAD** as clubs have the
 - Neighbour ops: EU NAVFOR **Atalanta** · NATO Ocean Shield (wound down) · Combined Maritime Forces. India’s **Operation Sankalp (2019–)** = Gulf/Red Sea shipping escort — national, not the Code itself
 - ≠ NATO · **SAGAR** (India’s *own* 2015 phrase) · **UNCLOS** (constitution of the sea) · IORA (groupings card)
 
-> ** note:** ReCAAP **2006 Asia** ≠ Djibouti Code **2009 WIO**. SAGAR ≠ the Code. India is a **partner**, not Yemen-class coastal signatory.
+> **Logic:** ReCAAP **2006 Asia** ≠ Djibouti Code **2009 WIO**. SAGAR ≠ the Code. India is a **partner**, not Yemen-class coastal signatory.
 
 ---
 
@@ -332,7 +332,7 @@ UPPCS wants **doctrine names and centuries**, not a White House diary.
 - Indo-Pacific minilaterals 2017– — **Quad** (with India) · **AUKUS** (without India)
 - Isolationism vs internationalism — two *habits*: Monroe in the first; Truman/NATO in the second
 
-> ** note:AUKUS ≠ Quad**. Truman ≠ Monroe. NATO Art. 5 is **not** an Indian obligation. **US founded the UN but refused the League**.
+> **Logic:** AUKUS ≠ Quad**. Truman ≠ Monroe. NATO Art. 5 is **not** an Indian obligation. **US founded the UN but refused the League**.
 
 ---
 
@@ -377,7 +377,7 @@ Specialised agencies are **not** principal organs: WHO, UNESCO, ILO, IMF, World 
 
 **Agency ≠ programme:** UNDP, UNICEF, UNHCR, UNCTAD are **programmes/offices**, not specialised agencies. HDI / HDR = **UNDP** (1990) — not IMF, not World Bank. UNFCCC / climate COP = ecology sheet, not this card.
 
-> ** note:** UN Day = **24 Oct** (in force), not 26 June (signed). Trusteeship is **inactive**, not abolished. WHO is **not** a principal organ.
+> **Logic:** UN Day = **24 Oct** (in force), not 26 June (signed). Trusteeship is **inactive**, not abolished. WHO is **not** a principal organ.
 
 ---
 
@@ -419,7 +419,7 @@ India is a **founding** member of IMF and IBRD. Constituency / Executive Directo
 
 Neighbour **AIIB** (Asian Infrastructure Investment Bank, **Beijing**, 2015/16): India is a **member** (large shareholder). **AIIB ≠ NDB ≠ IMF**. World Bank *Ease of Doing Business* ranking = economy file (report killed **2021**).
 
-> ** note:** Both twins HQ = **Washington D.C.** World Bank is **not** New York (that’s the UN). Bretton Woods is the *1944 meeting place*, not the HQ city.
+> **Logic:** Both twins HQ = **Washington D.C.** World Bank is **not** New York (that’s the UN). Bretton Woods is the *1944 meeting place*, not the HQ city.
 
 ---
 
@@ -435,33 +435,38 @@ Neighbour **AIIB** (Asian Infrastructure Investment Bank, **Beijing**, 2015/16):
 - India is a founding member. Public stockholding / food security is the usual Indian file
 - ≠ IMF (BOP) · World Bank (projects) · UNCTAD (UN conference, Geneva, not the WTO)
 
-> ** note:** WTO HQ = **Geneva**, not Washington. GATT **1947**; WTO **1995**.
+> **Logic:** WTO HQ = **Geneva**, not Washington. GATT **1947**; WTO **1995**.
 
 ---
 
 ## WHO
 
-**UN specialised health agency** — **1948**, **Geneva**. World Health Day **7 April**.
+**UN specialised health agency** — founded **1948** | HQ **Geneva** | World Health Day **7 April**.
 
-- DG elected. India in **SEARO** (South-East Asia Regional Office, **New Delhi**). Assembly = **World Health Assembly**
-- **Global Centre for Traditional Medicine = Jamnagar (Gujarat)** — UPPCS 2022
+- The World Health Assembly is the decision body; the Director-General is elected.
+- India sits in **SEARO** (South-East Asia Regional Office, **New Delhi**).
+- The **Global Centre for Traditional Medicine** is at **Jamnagar (Gujarat)** — a UPPCS-tested India colour.
+- Do not park WHO HQ in Paris (that is UNESCO) or New York (that is UNHQ).
 
-> ** note:** WHO Traditional Medicine Centre = **Jamnagar**, not Haridwar / Jaffna / Johannesburg.
+> **Logic:** WHO Traditional Medicine Centre = **Jamnagar**, not Haridwar / Jaffna / Johannesburg.
 
 ## UNESCO
 
-**UN specialised agency for education, science, culture** — **1945**, **Paris**.
+**UN specialised agency for education, science, culture** — founded **1945** | HQ **Paris**.
 
-- **World Heritage / Intangible list** — *which Indian site* = art-culture / ecology sheets, not a roster here
+- UNESCO runs the **World Heritage** and **Intangible Cultural Heritage** lists.
+- Which Indian site sits on which list belongs with Art & Culture / Ecology sheets — keep HQ and mandate here.
+- Do not swap UNESCO (**Paris**) with WHO / ILO (**Geneva**).
 
-> ** note:** UNESCO HQ = **Paris**. WHO/ILO = **Geneva**.
+> **Logic:** UNESCO HQ = **Paris**. WHO/ILO = **Geneva**.
 
 ## ILO
 
-**Tripartite labour agency** — **1919** (Versailles), **Geneva**. UN specialised 1946.
+**Tripartite labour agency** — founded **1919** (Versailles) | HQ **Geneva** | UN specialised agency from **1946**.
 
-- Seats: governments + employers + workers. India is a **founding** member
-- Decent Work agenda. Core conventions exist — don’t fake a “India ratified all eight” line
+- Seats represent governments, employers, and workers together — that tripartite structure is the identity.
+- India is a **founding** member.
+- The Decent Work agenda and core conventions are the teaching colour — do not invent “India ratified all eight core conventions” unless a stem cites a verified list.
 
 ## ICJ
 
@@ -471,7 +476,7 @@ Neighbour **AIIB** (Asian Infrastructure Investment Bank, **Beijing**, 2015/16):
 - **≠ ICC** (Rome **1998**, criminal, India **not** a party) · **≠ PCA** (also Hague, older) · **≠ ITLOS** (Hamburg, law of the sea)
 - India colour: **Kulbhushan Jadhav** (India v. Pakistan) — ICJ 2017 provisional measures / **2019** judgment on consular access (Vienna Convention). That is *this* court, not the ICC
 
-> ** note:** ICJ = UN organ, States, Hague. ICC = Rome **1998**; India **not** a party. Jadhav ≠ ICC.
+> **Logic:** ICJ = UN organ, States, Hague. ICC = Rome **1998**; India **not** a party. Jadhav ≠ ICC.
 
 ---
 
@@ -540,7 +545,7 @@ D. Only 1
 - **BIMSTEC 7 raata:** BBIN (Bangladesh Bhutan India Nepal) + Myanmar + Sri Lanka + Thailand. “SAARC minus Pakistan plus Thailand/Myanmar”
 - Secretariat **Dhaka** (2014). **4th summit Kathmandu 2018**. **5th Colombo 2022** (SL chair) adopted the **BIMSTEC Charter**
 
-> ** note:** Indonesia is **ASEAN**, not BIMSTEC. Maldives / Pakistan are **SAARC**, not BIMSTEC. 5th BIMSTEC Summit chaired by **Sri Lanka**, not India.
+> **Logic:** Indonesia is **ASEAN**, not BIMSTEC. Maldives / Pakistan are **SAARC**, not BIMSTEC. 5th BIMSTEC Summit chaired by **Sri Lanka**, not India.
 
 ---
 
@@ -614,7 +619,7 @@ D. Neither
 - **2024** wave: **Egypt, Ethiopia, Iran, UAE** (Saudi invited). Indonesia later CA
 - **IBSA (2003)** = India–Brazil–South Africa. Older than BRICS-with-China; **≠ BRICS**
 
-> ** note:** 10th BRICS Summit **2018** = **South Africa** (Johannesburg). NDB = **Shanghai**, not IMF. NDB ≠ AIIB (Beijing).
+> **Logic:** 10th BRICS Summit **2018** = **South Africa** (Johannesburg). NDB = **Shanghai**, not IMF. NDB ≠ AIIB (Beijing).
 
 ### G20
 **Finance 1999; leaders 2008.** Forum, not a treaty. No UN-style HQ.
@@ -625,7 +630,7 @@ D. Neither
 - UP venues = Agra, Varanasi, Greater Noida, **Lucknow** — **not Kanpur**
 - **G7 neighbour:** Canada, France, Germany, Italy, Japan, UK, USA (+ EU). **India is not a member** — guest only. 2021 summit: **UK chair** (Cornwall); guests were India/Australia/Korea/South Africa — **Brazil was not** the guest in that stem
 
-> ** note:** Lotus petals = **7 continents**, not 7 member-states. Kanpur was **not** a UP G20 venue.
+> **Logic:** Lotus petals = **7 continents**, not 7 member-states. Kanpur was **not** a UP G20 venue.
 
 ### SCO
 **Shanghai Cooperation Organisation** — **2001** Shanghai, from **Shanghai Five (1996)**. Secretariat **Beijing**. **RATS** (anti-terror) **Tashkent**. Not NATO.
@@ -633,42 +638,46 @@ D. Neither
 - Core: China, Russia, 4 Central Asian, **India + Pakistan 2017**, **Iran 2023**, **Belarus 2024**
 - **Shanghai Five (1996) — write the five:** China, Russia, **Kazakhstan, Kyrgyzstan, Tajikistan**. **Uzbekistan was not in the Five**; it joined when SCO was formed **2001**
 
-> ** note:** RATS = **Tashkent**; secretariat = **Beijing**. Uzbekistan not in Shanghai Five.
+> **Logic:** RATS = **Tashkent**; secretariat = **Beijing**. Uzbekistan not in Shanghai Five.
 
 ---
 
 ## QUAD
 
-**India, Japan, USA, Australia** — first try **2007** (Abe), faded; revived **2017**; Leaders’ level **2021**. **Dialogue**, not NATO Art. 5, **not AUKUS**.
+**India, Japan, USA, Australia** — first try **2007** (Abe), faded; revived **2017**; Leaders’ level **2021**.
 
-- Naval colour = **Malabar** (started India–US **1992**; Quad navies join — still an *exercise*, not a treaty)
+- Quad is a **strategic dialogue**, not a NATO Article 5 mutual-defence treaty, and **not AUKUS**.
+- Naval colour is the **Malabar** exercise (India–US from **1992**; Quad navies join later) — still an exercise, not a treaty.
+- **India is inside Quad**. **India is outside AUKUS** (AUKUS = Australia, UK, USA).
 
-> ** note:** Quad **includes India**. AUKUS does **not**.
+> **Logic:** Quad **includes India**. AUKUS does **not**.
 
 ## IORA
 
-**Indian Ocean Rim Association** — **1997** Mauritius (then IOR-ARC). Secretariat **Ebene, Mauritius**. ~**23** members + dialogue partners.
+**Indian Ocean Rim Association** — founded **1997** in Mauritius (then IOR-ARC) | Secretariat **Ebene, Mauritius** | about **23** members plus dialogue partners.
 
-- India founding-type. Blue economy / maritime safety — **not** the Djibouti Code, **not** IONS
+- India is a founding-type member focused on blue economy and maritime safety.
+- IORA is **not** the Djibouti Code of Conduct and **not** IONS.
 
-> ** note:** IORA secretariat = **Mauritius**, not Djibouti.
+> **Logic:** IORA secretariat = **Mauritius**, not Djibouti.
 
 ## Commonwealth
 
-**56** members (number wiggles). HQ **London** (Marlborough House).
+**About 56 members** (number wiggles) | HQ **London** (Marlborough House).
 
-- **London Declaration 1949** — a **republic** can stay (that’s how India remained)
-- Head of the Commonwealth = British monarch as *symbol*, not a viceroy. Secretary-General runs the Secretariat
-- **Commonwealth Games** ≠ the Secretariat (2022 Birmingham was the Games paper, not the Charter)
+- The **London Declaration 1949** let a **republic** stay — that is how India remained.
+- Head of the Commonwealth is the British monarch as a **symbol**, not a viceroy. The Secretary-General runs the Secretariat.
+- **Commonwealth Games** are not the Secretariat itself.
 
-> ** note:** Commonwealth is **not** only monarchies. 1949 let republics stay.
+> **Logic:** Commonwealth is **not** only monarchies. 1949 let republics stay.
 
 ## APEC · OECD
 
-- **APEC (1989)** — **21** economies. Secretariat **Singapore**. **India is not a member** (wanted in; not in)
-- **OECD (1961)** — HQ **Paris**. Rich-country policy club (~38). **India is not a member** (Key Partner). “Great Reset” 2021 paper = **WEF**, not OECD
+- **APEC (1989)** has **21** economies and a secretariat in **Singapore**. **India is not a member**.
+- **OECD (1961)** has HQ in **Paris** as a rich-country policy club (~38). **India is not a member** (Key Partner).
+- “Great Reset” 2021 paper colour belongs to **WEF**, not OECD.
 
-> ** note:** India is **out** of APEC and OECD; **in** G20.
+> **Logic:** India is **out** of APEC and OECD; **in** G20.
 
 ---
 

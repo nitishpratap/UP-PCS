@@ -30,19 +30,19 @@ No 2025–26 scheme rewrites mansab or Din-i-Ilahi (verified August 2026).
 
 ## Consolidated — 28 Must-Score Facts
 
-1. **Humayun** brought Persian masters **Mir Sayyid Ali** and **Abdus Samad**. **Akbar** built the **kitabkhana** and the illustrated **Razmnama**. **Jahangir** favoured naturalism under painters such as **Mansur**. Under Aurangzeb many painters left the imperial atelier.
+1. **Humayun** brought Persian masters **Mir Sayyid Ali** and **Abdus Samad. Akbar** built the **kitabkhana** and the illustrated **Razmnama. Jahangir** favoured naturalism under painters such as **Mansur**. Under Aurangzeb many painters left the imperial atelier.
 2. Sultanate architecture spine: **Qutub** under Aibak–Iltutmish, **Alai Darwaza** under the Khaljis, and **Jaunpur Sharqi** work such as **Atala Masjid**.
 3. Mughal architecture spine: **Humayun’s Tomb** at Delhi with **charbagh**, **Fatehpur Sikri** under Akbar, and the **Taj Mahal** under Shah Jahan at Agra.
 4. Tomb geography fact: **Babur** at **Kabul**, **Humayun** at **Delhi**, **Jahangir** at **Lahore**, **Shah Jahan** at **Agra**. Only Shah Jahan’s tomb among these is in Uttar Pradesh.
 5. **Buland Darwaza** at Fatehpur Sikri marks Akbar’s **Gujarat victory**. It is **not** a monument for Jahangir’s birth in **1569**.
 6. **Babur** wrote his memoir (*Tuzuk-i-Baburi*) in **Chagatai Turki**. The Mughal **court language** was **Persian**. Do not swap the two.
-7. **Abul Fazl** wrote the narrative **Akbarnama** and the gazetteer **Ain-i-Akbari**. **Faizi** was the court poet. **Nakhshabi** wrote the *Tutinama*.
+7. **Abul Fazl** wrote the narrative **Akbarnama** and the gazetteer **Ain-i-Akbari. Faizi** was the court poet. **Nakhshabi** wrote the *Tutinama*.
 8. Death chronology fact: **Faizi 1595 → Sheikh Mubarak 1597 → Abul Fazl 1602 → Daniyal 1604**.
 9. Sultanate **iqta** gave revenue to a **muqti** to raise troops. **Khalsa** was crown land under **direct** state control. A **jagir** is a revenue assignment, not Khalsa.
 10. Akbar’s **mansab** had **zat** (personal rank) and **sawar** (cavalry contingent). The original mansab system was **not hereditary**.
 11. **Zabt** is measured land assessment. **Dahsala** is Todar Mal’s **ten-year** average revenue system from about **1580**.
 12. The copper **dam** continued from Sher Shah into Akbar’s currency. Akbar organised about **15 subas** in the mature empire map used s.
-13. **Ibadat Khana** debates began at Fatehpur Sikri in **1575**. **Sulh-i-kul** was the public peace policy. **Din-i-Ilahi** of **1582** was a private fellowship, not a state religion.
+13. **Ibadat Khana** debates began at Fatehpur Sikri in **1575. Sulh-i-kul** was the public peace policy. **Din-i-Ilahi** of **1582** was a private fellowship, not a state religion.
 14. Akbar abolished **jizya** in **1564**. The **Mahzar** of **1579** asserted Akbar’s authority in religious disputes.
 15. Navaratna facts include **Tansen** (from Ramchandra of Bhata), **Todar Mal**, **Birbal**, **Abul Fazl**, and **Faizi**.
 16. Uttar Pradesh architecture: **Jaunpur** Sharqi (Atala, Lal Darwaza), **Agra** Fort–Itimad-ud-Daulah–Taj–Ram Bagh, and **Fatehpur Sikri** (Buland Darwaza, Ibadat Khana, Salim Chishti).
@@ -91,7 +91,7 @@ No 2025–26 scheme rewrites mansab or Din-i-Ilahi (verified August 2026).
 - **Pietra dura** inlay is the Taj / Shah Jahan decorative fact.
 - Calligraphy is a primary Islamic art, not a side craft.
 
-> ** note:Jahangir = Mansur / naturalism**. **Akbar = Razmnama atelier**. Rajput ≠ Mughal.
+> **Logic:** Jahangir = Mansur / naturalism. Akbar = Razmnama atelier**. Rajput ≠ Mughal.
 
 ---
 
@@ -120,7 +120,17 @@ No 2025–26 scheme rewrites mansab or Din-i-Ilahi (verified August 2026).
 - **Jahangir**’s tomb city is **Lahore**.
 - **Shah Jahan**’s tomb city is **Agra**.
 
-> **Logic:** **Buland Darwaza** marks Akbar's **Gujarat** victory, not Jahangir's birth. Mughal tomb cities run Babur–Kabul, Humayun–Delhi, Jahangir–Lahore, Shah Jahan–Agra.
+### Vijayanagara, Bahmani and Deccan cultural layer
+
+**Identity:** Contemporary with early Mughals | Hampi monuments | Deccan sultanate art.
+
+- **Vijayanagara** (capital tradition at **Hampi**) builds large Dravida temple complexes, bazaar streets, and royal platforms remembered in the UNESCO Hampi landscape.
+- Musical–bhakti colour includes **Purandaradasa** and related Carnatic / Haridasa memory — do not park all medieval music under only Mughal courts.
+- **Bahmani** and later Deccan sultanates (Bijapur, Golconda / Qutb Shahi, Ahmadnagar, Bidar, Berar) develop Deccani painting, tomb architecture, and Indo-Persian court culture beside the Mughal north.
+- Deccani painting is a separate school from Mughal and Rajput — bold colour and Deccan court themes, not a Kangra clone.
+- When a stem asks Mughal-era **south** culture, check Vijayanagara / Deccan first before forcing a Delhi–Agra answer.
+
+> **Logic:** Buland Darwaza marks Akbar's **Gujarat** victory, not Jahangir's birth. Mughal tomb cities run Babur–Kabul, Humayun–Delhi, Jahangir–Lahore, Shah Jahan–Agra. Hampi = Vijayanagara, not a Mughal capital.
 
 **PYQ — UPPCS Prelims 2025, Q49**
 
@@ -439,7 +449,7 @@ D. Muqti was supposed to maintain troops out of the revenue collected from Iqta
 - **Bairam Khan** was vakil / regent in Akbar’s early years. The title **Khan-i-Khanan** came from **Humayun**, not as a fresh Akbar gift at vazir-appointment.
 - In currency, Akbar, like **Sher Shah**, regulates coin. The chief copper coin was the **dam**. The silver **rupiya** continues.
 
-> ** note:** Mansab **≠ hereditary**. **Dam** is Sher Shah’s copper that Akbar keeps.
+> **Logic:** Mansab **≠ hereditary. Dam** is Sher Shah’s copper that Akbar keeps.
 
 **PYQ — UPPCS Prelims 2024, Q4**
 
@@ -513,7 +523,7 @@ D. Neither 1 nor 2
 - The translation house rendered Sanskrit epics and Vedas into Persian (*Razmnama*).
 - Marriage alliances with Rajputs are policy, not a painting school.
 
-> ** note:Din-i-Ilahi ≠ state religion**. **Ibadat Khana ≠ Fatwa-i-Alamgiri** (that is Aurangzeb).
+> **Logic:** Din-i-Ilahi ≠ state religion. Ibadat Khana ≠ Fatwa-i-Alamgiri** (that is Aurangzeb).
 
 **PYQ — UPPCS Prelims 2019, Q89**
 

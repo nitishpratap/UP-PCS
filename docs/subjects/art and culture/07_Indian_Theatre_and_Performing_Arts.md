@@ -41,9 +41,9 @@ SNA / NSD standing dates are static, not news.
 8. Kerala temple theatre houses are called **koothambalam**. Living Sanskrit theatre is **Koodiyattam** of the Chakyar tradition with **mizhavu** drum.
 9. **Koodiyattam** is UNESCO living Sanskrit theatre (proclaimed **2001**, list **2008**). It is theatre, not a ninth SNA classical dance.
 10. **Nautanki** is the high-yield **UP** folk opera, named in the *Ain-i-Akbari*, with **Kanpur** and **Lucknow** schools and the **nagara** drum.
-11. **Ramlila** of Ramnagar–Varanasi / Braj is UNESCO **2008**. **Raslila** is the Braj Krishna folk play, not Manipuri classical Ras Lila.
+11. **Ramlila** of Ramnagar–Varanasi / Braj is UNESCO **2008. Raslila** is the Braj Krishna folk play, not Manipuri classical Ras Lila.
 12. **Swang** belongs to Haryana, western UP, and Rajasthan. **Tamasha** of Maharashtra uses Lavani and often has women playing male roles.
-13. **Jatra** belongs to Bengal and Odisha. **Yakshagana** belongs to coastal **Karnataka**. **Bhavai** belongs to Gujarat.
+13. **Jatra** belongs to Bengal and Odisha. **Yakshagana** belongs to coastal **Karnataka. Bhavai** belongs to Gujarat.
 14. **Bhaona** of Assam is linked with Majuli satras. **Ramman** of Uttarakhand and **Powada** / **Burrakatha** are regional narrative theatre facts.
 15. **Kathputli** of Rajasthan is string marionette, often without carved legs. **Gulabo–Sitabo** of **Lucknow** are glove comic puppets.
 16. **Kundhei** is Odisha string puppetry. **Tholu Bommalata** of Andhra Pradesh and **Ravana Chhaya** of Odisha are shadow forms.
@@ -95,7 +95,7 @@ SNA / NSD standing dates are static, not news.
 - Sanskrit plays **end well**. There is no Greek-style tragedy as the rule.
 - Stock figures are **nayaka**, **nayika**, and **vidushaka** (clown). **Sutradhara** is the director-presenter. The same word is the etymology of string-puppet *sutradhara*.
 
-> ** note:** Theatre is not “only Sanskrit.” UPPCS geography loves **Nautanki** as **UP**.
+> **Logic:** Theatre is not “only Sanskrit.” UPPCS geography loves **Nautanki** as **UP**.
 
 ---
 
@@ -109,7 +109,7 @@ SNA / NSD standing dates are static, not news.
 - The street cluster is puppets and bahurupi.
 - Trap: SNA is not a dance-only body.
 
-> ** note:** Koodiyattam is **theatre**, not a ninth SNA classical dance.
+> **Logic:** Koodiyattam is **theatre**, not a ninth SNA classical dance.
 
 ---
 
@@ -135,7 +135,9 @@ SNA / NSD standing dates are static, not news.
 - **Ankiya Nat** belongs to Assam and is linked to Sankaradeva. It is one-act and uses masks. Musicians are Gayan–Bayan (khol).
 - **Bhaona** is the staging of Ankiya Nat. **Majuli** is the fact.
 - **Mudiyettu** is Kerala ritual theatre. It is UNESCO **2010**. It is not Kathakali.
-- **Ramman** belongs to Garhwal, Uttarakhand. It honours Bhumiyal Devta and is UNESCO **2009**. It is ritual theatre, not SNA dance.
+- **Ramman** belongs to Garhwal, Uttarakhand. It honours **Bhumiyal Devta** and is UNESCO ICH **2009**.
+- It is village ritual theatre with masks, music, and seasonal performance — not a commercial stage play and not SNA classical dance.
+- Do not equate Ramman with **Ramlila** of the plains or with **Koodiyattam** of Kerala.
 - **Oja-Pali** belongs to Assam. It is a Manasa / serpent-goddess narrative. Oja is the lead and Pali is the chorus.
 - **Powada** belongs to Maharashtra. It is a Shivaji ballad-opera. Singers are Shahir / Gondhali.
 - **Kariyila** is Himachal open-air night skits.
@@ -150,7 +152,7 @@ SNA / NSD standing dates are static, not news.
 - **Khyal** is a Rajasthan folk play. It is not Hindustani *khayal* singing.
 - **Theyyam** is north Kerala ritual theatre. It holds Sangam Velan memory. It is not Kathakali.
 
-> ** note:Nautanki** belongs to **UP**. Tamasha is not UP. Yakshagana belongs to Karnataka, not Kerala.
+> **Logic:** Nautanki** belongs to **UP**. Tamasha is not UP. Yakshagana belongs to Karnataka, not Kerala.
 
 ---
 
@@ -180,7 +182,7 @@ SNA / NSD standing dates are static, not news.
 - Koodiyattam UNESCO tags are masterpiece **2001** and Representative List **2008**.
 - Sanskrit theatre declined as language left the masses and courts shifted. It survives as Koodiyattam, not as a north-Indian court play.
 
-> ** note:** Kalidasa’s **plays** are three. *Uttararamacharita* is by Bhavabhuti. *Mrichchhakatika* is by Shudraka.
+> **Logic:** Kalidasa’s **plays** are three. *Uttararamacharita* is by Bhavabhuti. *Mrichchhakatika* is by Shudraka.
 
 ---
 
@@ -216,7 +218,7 @@ SNA / NSD standing dates are static, not news.
 - There is a happy-ending rule. The protagonist is male in the classical formula.
 - The classical stage idea is lower floor = earth, upper = gods. Masks are not part of this grammar.
 
-> ** note:** Bharata is Natyashastra. Shanta is the ninth rasa in later lists.
+> **Logic:** Bharata is Natyashastra. Shanta is the ninth rasa in later lists.
 
 ---
 
@@ -237,7 +239,7 @@ SNA / NSD standing dates are static, not news.
 - **Prithvi Theatre** is in Mumbai (Kapoor). It is not NSD.
 - **Naya Theatre** is linked to Habib Tanvir. Folk actors appear on the modern stage.
 
-> ** note:** Yavanika is not nepathya. Koothambalam is Kerala, not UP.
+> **Logic:** Yavanika is not nepathya. Koothambalam is Kerala, not UP.
 
 ---
 
@@ -269,7 +271,7 @@ Syllabus names the first two plus Kathputli (a string school).
 - **Pavakathakali / Pavakoothu** is Kerala glove.
 - **Gulabo–Sitabo** belongs to **Lucknow, UP**. They are a glove pair of comic women. This is the UP puppet fact, **not** Kathputli.
 
-> ** note:** Kathputli is **Rajasthan string**. Shadow is not Kathputli. Gulabo-Sitabo is **Lucknow glove**.
+> **Logic:** Kathputli is **Rajasthan string**. Shadow is not Kathputli. Gulabo-Sitabo is **Lucknow glove**.
 
 ---
 

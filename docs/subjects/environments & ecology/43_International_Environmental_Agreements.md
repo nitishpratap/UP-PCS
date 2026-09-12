@@ -14,6 +14,13 @@ UNFCCC | Kyoto Protocol | Paris Agreement | CBD | Ramsar | CITES | Bonn Conventi
 
 ---
 
+## Current Affairs (this topic)
+
+- Twin of Agreements & Conferences — COP / listing CA; treaty ladder identical.
+- Ramsar India **~100** / UP **12** baseline unless a stem cites a later official total.
+
+---
+
 ## Consolidated — 24 Must-Score Facts
 
 1. The climate ladder is **UNFCCC 1992 → Kyoto 1997 → Paris 2015**.
@@ -66,7 +73,7 @@ UNFCCC | Kyoto Protocol | Paris Agreement | CBD | Ramsar | CITES | Bonn Conventi
 - Parent framework for **Kyoto Protocol** and **Paris Agreement**.
 - Does **not** itself set the Kyoto Annex targets or Paris NDCs — those are later instruments.
 
-> ** note:** UNFCCC = climate framework. IPCC = science body (Topic 42).
+> **Logic:** UNFCCC = climate framework. IPCC = science body (Topic 42).
 
 ---
 
@@ -112,7 +119,7 @@ Carbon credit concept originated from:
 
 </details>
 
-> ** note:** Montreal = ozone. Kyoto = climate.
+> **Logic:** Montreal = ozone. Kyoto = climate.
 
 ---
 
@@ -126,7 +133,7 @@ Carbon credit concept originated from:
 - Differs from Kyoto’s Annex-I-only binding model — bottom-up pledges with global stocktake.
 - India’s NDC/net-zero policy track sits under Paris (Topics 10/34).
 
-> ** note:** Paris ≠ Kyoto clone. NDCs are nationally determined.
+> **Logic:** Paris ≠ Kyoto clone. NDCs are nationally determined.
 
 ---
 
@@ -144,7 +151,7 @@ Carbon credit concept originated from:
 
 Cartagena Protocol — Biosafety is a **correct** match.
 
-> ** note:** CBD ≠ CITES. CBD = biodiversity framework; CITES = trade.
+> **Logic:** CBD ≠ CITES. CBD = biodiversity framework; CITES = trade.
 
 ---
 
@@ -154,7 +161,7 @@ Cartagena Protocol — Biosafety is a **correct** match.
 
 - The **Ramsar Convention (1971)** conserves wetlands of international importance under **“Wise Use.”**
 - **World Wetlands Day = 2 February** (Ramsar adoption date).
-- India has about **80** Ramsar sites (**Tamil Nadu 16**, **UP 10**, **Punjab 6** among high counts).
+- India has about **100** Ramsar sites (**Tamil Nadu** leads state counts; **UP 12**, **Punjab 6** among high counts).
 - **Montreux Record** = Ramsar sites with adverse / likely adverse ecological change from human interference.
 - Negative geography: **Rudrasagar = Tripura**; **Sultanpur NP = Haryana** — not UP.
 
@@ -185,7 +192,7 @@ D. 2 and 4
 
 </details>
 
-> ** note:** Ramsar = wetlands, not forests or ozone.
+> **Logic:** Ramsar = wetlands, not forests or ozone.
 
 ---
 
@@ -199,7 +206,7 @@ D. 2 and 4
 - **World Wildlife Day = 3 March** (CITES adoption date).
 - IUCN Red List assesses extinction risk; CITES regulates trade.
 
-> ** note:** CITES ≠ CMS. Trade ≠ migration focus.
+> **Logic:** CITES ≠ CMS. Trade ≠ migration focus.
 
 ---
 
@@ -211,7 +218,7 @@ D. 2 and 4
 - Focuses on **migration routes and habitats**, not commercial trade permits like CITES.
 - Secretariat association with **Bonn, Germany** (name fact).
 
-> ** note:** CMS = migration. CITES = trade.
+> **Logic:** CMS = migration. CITES = trade.
 
 ---
 
@@ -223,7 +230,7 @@ D. 2 and 4
 - Aims to reduce hazardous waste generation and prevent dumping on weaker states.
 - Part of the BRS chemicals/waste cluster with Rotterdam and Stockholm.
 
-> ** note:** Basel = hazardous **waste** shipment, not wildlife trade.
+> **Logic:** Basel = hazardous **waste** shipment, not wildlife trade.
 
 ---
 
@@ -235,7 +242,7 @@ D. 2 and 4
 - Jointly administered by **FAO** and **UNEP**.
 - Does not ban all listed chemicals globally; it ensures importing countries are informed and consent.
 
-> ** note:** Rotterdam = PIC chemicals. Basel = waste. Stockholm = POPs.
+> **Logic:** Rotterdam = PIC chemicals. Basel = waste. Stockholm = POPs.
 
 ---
 
@@ -251,7 +258,7 @@ D. 2 and 4
 
 Stockholm Convention — Persistent organic pollutant is a **correct** match.
 
-> ** note:** Stockholm POPs 2001 ≠ Stockholm Environment Conference 1972.
+> **Logic:** Stockholm POPs 2001 ≠ Stockholm Environment Conference 1972.
 
 ---
 
@@ -264,7 +271,7 @@ Stockholm Convention — Persistent organic pollutant is a **correct** match.
 - Covers products, processes, artisanal gold mining, and emissions to air/water/land.
 - India ratified around **2018** (CA fact in many banks).
 
-> ** note:** Minamata = mercury. Basel = hazardous waste generally.
+> **Logic:** Minamata = mercury. Basel = hazardous waste generally.
 
 ---
 

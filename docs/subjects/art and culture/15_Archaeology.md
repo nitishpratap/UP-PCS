@@ -39,7 +39,7 @@ Archaeology | Archaeological Discoveries | Excavations | Ancient Sites
 9. Uttar Pradesh Indus sites: **Alamgirpur** (easternmost, Meerut), **Mandi**, **Hulas** (Saharanpur belt), and **Santhali** (Bijnor).
 10. **Mandi** and **Hulas** are UP. **Rakhigarhi** is Haryana. That state split is a standing prelims trap.
 11. Match fact: **Balu–Haryana**, **Manda–Jammu & Kashmir**, **Padri–Gujarat**, **Hulas–Uttar Pradesh**.
-12. Boat / dock evidence is linked to **Mohenjo-daro** and **Lothal**. **Lothal** is the dockyard fact; **Dholavira** is reservoirs and the signboard fact.
+12. Boat / dock evidence is linked to **Mohenjo-daro** and **Lothal. Lothal** is the dockyard fact; **Dholavira** is reservoirs and the signboard fact.
 13. Prehistoric matchs include **Nevasa** (Maharashtra), **Isampur** (Karnataka), **Didwana** (Rajasthan), and **Gudiyam** (Tamil Nadu).
 14. **Bhimbetka** was identified by **V. S. Wakankar** in **1957** in **Madhya Pradesh**. It is prehistoric rock shelter art, not a Harappan city.
 15. **Sanauli** in **Baghpat, UP**, excavated around **2018**, is the late Harappan / OCP **chariot** site. It is not the easternmost Indus city.
@@ -87,13 +87,13 @@ Archaeology | Archaeological Discoveries | Excavations | Ancient Sites
 - **Pollen analysis** reconstructs crop and climate. It does not date a metal hoard.
 - **Epigraphy** reads inscriptions. **Numismatics** reads coins. Both are archaeological source-types, not separate ministries.
 - Field archaeology is survey, trench and record. Underwater work is a branch. **Dwarka** and **Poompuhar** are the named marine cases.
-- **ASI** was set up in **1861**. **Alexander Cunningham** was the first Director General. It sits under **Culture**.
+- **ASI** was set up in **1861. Alexander Cunningham** was the first Director General. It sits under **Culture**.
 - Digging a protected mound needs an ASI or state licence under the **AMASR Act, 1958**.
 - The **Antiquities and Art Treasures Act, 1972** criminalises illicit export. Treasure hunting that wrecks layers is not archaeology.
 - **GPR** and **LiDAR** map buried walls before a spade goes in.
 - **Narmada / Hathnora** yielded a hominin fossil. **Arun Sonakia (1982)** is the named finder. It is palaeoanthropology, not an IVC city.
 
-> ** note:C-14 needs organic carbon**. A statement that C-14 dates Harappan stone seals is false.
+> **Logic:** C-14 needs organic carbon**. A statement that C-14 dates Harappan stone seals is false.
 
 ---
 
@@ -136,7 +136,7 @@ D. V. N. Mishra
 - **Sanauli** (Baghpat, **UP**) produced chariot burials in **2018**. The culture tag is late Harappan / **OCP**. It is not Alamgirpur and not the eastern boundary.
 - **Keeladi / Keezhadi** (Tamil Nadu, Vaigai) is a Sangam-era urban excavation from **2014** onward.
 
-> ** note:Sahni = Harappa 1921**. **Banerji = Mohenjo-daro 1922**. **Wakankar = Bhimbetka**.
+> **Logic:** Sahni = Harappa 1921. Banerji = Mohenjo-daro 1922. Wakankar = Bhimbetka**.
 
 ---
 
@@ -155,7 +155,7 @@ D. V. N. Mishra
 - **H. D. Sankalia** is the Deccan Chalcolithic name. **Nevasa** and **Inamgaon** are his sites.
 - Underwater excavation is still excavation. It is not a third dating method.
 
-> ** note:Vertical = time**. **Horizontal = space**. **Wheeler = grid**, not first IVC spade.
+> **Logic:** Vertical = time. Horizontal = space. Wheeler = grid**, not first IVC spade.
 
 ---
 
@@ -209,7 +209,7 @@ D. A-3, B-2, C-4, D-1
 - **Harappa** is in Pakistani **Punjab**. Granary fact. Sahni 1921.
 - **Mohenjo-daro** is in **Sindh**. Great Bath and planned streets. Banerji 1922. Boat models occur here.
 - **Dholavira** is in **Kutch, Gujarat**. Reservoirs, stadium, signboard. WHS **2021**.
-- **Lothal** is in **Gujarat**. **Dockyard** and bead factory. Boat models occur here too.
+- **Lothal** is in **Gujarat. Dockyard** and bead factory. Boat models occur here too.
 - **Kalibangan** is in **Rajasthan**. Fire altars and a ploughed field. **B. B. Lal**.
 - **Rakhigarhi** is in **Hisar, Haryana**. It is India’s **largest** IVC site. It is **not** in UP.
 - **Banawali** is in **Haryana**.
@@ -349,7 +349,7 @@ D. III, IV
 - **Pataliputra** is Bihar. **Nalanda** is Bihar. **Sanchi** is MP. **Ajanta** and **Ellora** are Maharashtra.
 - **Fatehpur Sikri** is UP medieval urban archaeology. **Hampi** is Karnataka.
 
-> ** note:Mandi + Hulas + Alamgirpur = UP**. **Rakhigarhi = Haryana**. **Eastern edge = Alamgirpur**, not Manda.
+> **Logic:** Mandi + Hulas + Alamgirpur = UP. Rakhigarhi = Haryana. Eastern edge = Alamgirpur**, not Manda.
 
 ---
 
@@ -1119,12 +1119,12 @@ D. 1, 2 and 3
 - **Rakhigarhi = Haryana**, never UP. Largest ≠ easternmost.
 - **Alamgirpur = eastern** edge. **Manda = northern** (J&K).
 - **Mandi and Hulas = UP**. Padri = Gujarat. Balu = Haryana.
-- **Sahni = Harappa 1921**. **Banerji = Mohenjo-daro 1922**. Do not swap.
+- **Sahni = Harappa 1921. Banerji = Mohenjo-daro 1922**. Do not swap.
 - **Wheeler ≠ first IVC excavator**. He is the 1946 grid.
 - **C-14 ≠ stone/metal**. Organic only.
 - **Vertical ≠ horizontal**. Time vs plan.
 - **Bhimbetka = Wakankar + MP**, not Harappan, not UP.
-- **Lothal = dock**. **Dholavira = water**. Both Gujarat.
+- **Lothal = dock. Dholavira = water**. Both Gujarat.
 - **Sanauli ≠ Alamgirpur**. Chariot 2018, Baghpat.
 - **Mohenjo-daro is in Pakistan**. Boat models = Mohenjo-daro **and** Lothal.
 - Lion Capital find = **Oertel 1904–05**, not Cunningham’s 1835 survey.

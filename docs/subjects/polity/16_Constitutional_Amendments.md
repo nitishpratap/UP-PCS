@@ -144,7 +144,7 @@ D. 86th Constitutional Amendment Act, 2002
 - Time-limit: **none** in 368. President may wait till half the States have ratified, then assent.
 - First Amd = **1951** (Nehru). Latest syllabus bullet = **106th (2023)**.
 
-> ** note:** RS is equal on a 368 Bill; vacancies still count in “total membership.”
+> **Logic:** RS is equal on a 368 Bill; vacancies still count in “total membership.”
 
 ---
 
@@ -189,7 +189,7 @@ Same special majority **plus** legislatures of **not less than half** the States
 6. **Art. 368** itself
 7. GST Council **279A** (added by **101st**)
 
-> ** note:** “Every amendment needs half the States” is **false**. “State reorganisation needs 368 special majority” is **false** — **simple**, Art. 4.
+> **Logic:** “Every amendment needs half the States” is **false**. “State reorganisation needs 368 special majority” is **false** — **simple**, Art. 4.
 
 ---
 
@@ -370,7 +370,7 @@ D. Sajjan Singh 1965
 - It froze the meaning of legislative privileges under **Articles 105 and 194** to their pre-42nd sense; the **44th Amendment** fixed the freeze date as **20 June 1979**.
 - It inserted **Article 312A**, letting Parliament vary the conditions of service of All-India Service officers appointed before 1966.
 
-> ** note:** Mini-Constitution = largest single rewrite. 42nd packed; 44th unpacked Emergency and property — FDs, 39A/43A/48A, Concurrent shift **stayed**.
+> **Logic:** Mini-Constitution = largest single rewrite. 42nd packed; 44th unpacked Emergency and property — FDs, 39A/43A/48A, Concurrent shift **stayed**.
 
 **PYQ — UPPCS Prelims 2025, Q56**
 

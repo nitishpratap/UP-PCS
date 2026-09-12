@@ -196,8 +196,19 @@ Teach the **full UP map**. Next year can ask any standard district extreme or ca
 **East:** Gorakhpur–Deoria–Azamgarh–Mau–Ballia–Ghazipur–Jaunpur–Varanasi–Mirzapur fringe of the plain
 
 - Ghaghara–Rapti–Gandak. **Rice**. Lowest forest (Jaunpur–Ghazipur–Ballia). Gorakhpur on **Rapti**.
+- **UP Purvanchal** is this **eastern Gangetic plain** rice belt and the **Purvanchal Expressway** corridor.
+- It is **not** the **Purvanchal Hills** of north-east India (Patkai–Naga–Mizo belt beyond the Dihang). Same word, different syllabus object.
 
 ### Vindhyan / Kaimur
+
+**Identity:** Southern sandstone–limestone scarp | Sonbhadra–Mirzapur energy fringe | Bhonta soils.
+
+**Districts:** Sonbhadra, Mirzapur, Chandauli plateau edge, south Prayagraj
+
+- The Vindhyan / Kaimur belt is the **sandstone–limestone scarp** south of the Gangetic plain.
+- **Bhonta** soils, limestone, silica, thermal power and the **Rihand** story mark the fringe.
+- **Sonbhadra** is UP’s energy and mineral capital of the south. The highest residual hills of present UP sit here — there is **no Himalaya** inside today’s state.
+
 ### Physiographic region — crop and soil facts (quick table)
 
 | Region | Dominant soil / terrain | Main crops / economy |
@@ -210,11 +221,6 @@ Teach the **full UP map**. Next year can ask any standard district extreme or ca
 | **Bundelkhand** | Mar/Kabar black; Parua red | Pulses, oilseeds; drought stress |
 | **Purvanchal** | Gangetic alluvium | Rice; lowest forest cover belt |
 | **Vindhyan** | Bhonta; limestone | Thermal power, Rihand; Sonbhadra minerals |
-
-
-**Districts:** Sonbhadra, Mirzapur, Chandauli plateau edge, south Prayagraj
-
-- Sandstone scarp, **Bhonta** soils, limestone, silica, thermal power and Rihand. **Sonbhadra** is the energy capital. The highest residual hills of present UP are here (no Himalaya).
 
 ---
 

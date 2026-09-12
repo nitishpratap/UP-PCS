@@ -132,7 +132,7 @@ Independence toolkit (not every body gets all of them): charged salary · remova
 - It does **not** conduct **municipal or Panchayat** polls — that is the State Election Commission's job.
 - It does **not** conduct the **Speaker's election** or decide **Art. 71** disputes.
 
-> ** note:** “ECI decides President-election disputes” is **false** → **71**. “ECI = Delimitation Commission” is **false**.
+> **Logic:** “ECI decides President-election disputes” is **false** → **71**. “ECI = Delimitation Commission” is **false**.
 
 **PYQ — UPPCS Prelims 2024, Q24**
 
@@ -201,7 +201,7 @@ D. None of the above
 | **SPSC Chairman** | UPSC Chair **or** Chair of **another** SPSC | Other Union/State office |
 | **SPSC member** | UPSC Chair / UPSC member / SPSC Chair (same or another State) | Other Union/State office |
 
-> ** note:** UPSC is **not** SSC, not CAPF recruitment board, not the employer of all public servants. **AIS** papers are UPSC; day-to-day cadre control is **dual** (Centre + State).
+> **Logic:** UPSC is **not** SSC, not CAPF recruitment board, not the employer of all public servants. **AIS** papers are UPSC; day-to-day cadre control is **dual** (Centre + State).
 
 **PYQ — UPPCS Prelims 2024, Q124**
 
@@ -300,13 +300,21 @@ D. Uttar Pradesh State Legislature
 
 **Constitutional auditor of Union and States** (Arts. **148–151**) — appointed by the President; removed like an **SC judge**; **no further office**.
 
-- **Warrant of Precedence:CAG** = **rank 9A** (with CEC and UPSC Chair). Full table → **Topic 6**.
+- **Warrant of Precedence:** CAG = **rank 9A** (with CEC and UPSC Chair).
 
 - **Article 148** provides for a CAG appointed by the **President**, holding office for a tenure fixed by law — **6 years or till age 65**.
 - The same article removes him only **like an SC judge**, charges his salary on the Consolidated Fund so it cannot be varied to his disadvantage, and bars him from **any further office** under the Union or a State after he demits office.
 - **Article 149** gives the CAG duties and powers as **Parliament may by law** prescribe — laid down today in the **CAG's (Duties, Powers and Conditions of Service) Act, 1971**.
 - **Article 150** requires the form of Union and State **accounts** to be prescribed by the President **on the advice of the CAG**.
 - **Article 151** sends the CAG's Union reports to the **President**, who lays them before Parliament, and his State reports to the **Governor**, who lays them before the State legislature.
+
+### Audit trail — CAG → Houses → PAC
+
+- The CAG **audits after spending**. He is not a UK-style Comptroller who blocks issue of money beforehand.
+- Union reports go to the **President** and are laid before **both Houses**. State reports go to the **Governor** and are laid before the State legislature.
+- The **Public Accounts Committee (PAC)** examines those audit reports on the civil side. The CAG is **not** a PAC member; he attends as a friend / witness.
+- **COPU** (Committee on Public Undertakings) uses CAG material on **PSUs**. The **Estimates Committee** works on estimates and has **no** CAG report link.
+- Do not invent a “CAG committee.” Mark **PAC** when the stem asks who examines the CAG’s audit report.
 
 **What is audited:** The CAG audits the Consolidated Fund, the Contingency Fund, and the Public Account of both the Union **and the States**. He also audits bodies substantially financed from those funds, and government companies and corporations as the 1971 Act provides. The **Accountant General** in a State is simply the CAG's field officer — he is **not** the Advocate General.
 
@@ -354,7 +362,7 @@ D. None of the above
 
 **Law-officer ladder (only the top rung is constitutional):** The **Attorney General** under **Article 76** sits at the top. Below him come the **Solicitor General** and the **Additional Solicitors General**. Both the SG and the Additional SGs are **executive** appointments — neither is mentioned in Article 76.
 
-> ** note:** AG can be **asked to leave** a secret sitting; he is **not** a minister and **not** a member unless separately elected (then the usual office-of-profit issues). Consent of the AG is used in some **contempt** proceedings — don’t make him a judge.
+> **Logic:** AG can be **asked to leave** a secret sitting; he is **not** a minister and **not** a member unless separately elected (then the usual office-of-profit issues). Consent of the AG is used in some **contempt** proceedings — don’t make him a judge.
 
 **PYQ — UPPCS Prelims 2023, Q12**
 
@@ -418,7 +426,7 @@ D. Services under the Union and States — Part XIV
 
 Operational title: **Commissioner for Linguistic Minorities** (first appointed **1957**). Original HQ **Allahabad**. Now under the Minority Affairs administrative set-up — don’t freeze a pin-code.
 
-> ** note:** 8th Schedule = **22 recognised languages**. 350B is the **officer**, not the Schedule. 9th Amd = **1960** (territory / Berubari line) — **not** 350B.
+> **Logic:** 8th Schedule = **22 recognised languages**. 350B is the **officer**, not the Schedule. 9th Amd = **1960** (territory / Berubari line) — **not** 350B.
 
 **PYQ — UPPCS Prelims 2024, Q142**
 
@@ -486,7 +494,7 @@ D. Both 1 and 2
 - **339(1):** President **may appoint a commission** to report on the **administration of Scheduled Areas** and the **welfare of STs** in the States. First such report was due **10 years** from commencement (a **340-style ad hoc** inquiry, not the standing NCST).
 - **339(2):** Union may give **directions** to a State on ST welfare schemes.
 
-> ** note:** Match: SC → **338** + list **341** · ST → **338A** + list **342** · OBC → **338B** + list **342A**. “One commission still covers SC+ST” is **pre-2004**.
+> **Logic:** Match: SC → **338** + list **341** · ST → **338A** + list **342** · OBC → **338B** + list **342A**. “One commission still covers SC+ST” is **pre-2004**.
 
 ---
 
@@ -515,7 +523,7 @@ D. Both 1 and 2
 - The **105th Amendment (2021)** let States once again maintain their **own OBC list** for State services and education, so there are now two lists: the **Central list (342A)** and each State's own list.
 - In *Janhit Abhiyan* (2021), the Supreme Court had read the 102nd Amendment as stripping States of this power; the **105th Amendment** is the political and constitutional fix for that reading.
 
-> ** note:** Mandal ≠ NCBC. Mandal = **340** (ad hoc inquiry, 27% OBC + creamy layer via *Indra Sawhney*). Standing NCBC = **338B** (1993 statutory → **102nd / 2018** constitutional). 340 did **not** vanish.
+> **Logic:** Mandal ≠ NCBC. Mandal = **340** (ad hoc inquiry, 27% OBC + creamy layer via *Indra Sawhney*). Standing NCBC = **338B** (1993 statutory → **102nd / 2018** constitutional). 340 did **not** vanish.
 
 ### Three commissions at a glance
 
@@ -620,7 +628,7 @@ D. Official Language — Part XVII
 
 **Upgrade path:** The CVC started as an **executive** body and became **statutory** only in 2003. The NCBC started as a **statutory** body in 1993 and became **constitutional** in 2018. The Planning Commission, an executive body, was simply replaced by **NITI Aayog**, which remains executive.
 
-> ** note:** NITI is **not** constitutional and **not** the FC (2018 / 2019 SDG). NHRC looks “national commission” but is **statutory**. NCSC is **constitutional**.
+> **Logic:** NITI is **not** constitutional and **not** the FC (2018 / 2019 SDG). NHRC looks “national commission” but is **statutory**. NCSC is **constitutional**.
 
 **PYQ — UPPCS Prelims 2024, Q125**
 

@@ -275,7 +275,7 @@ D. 1 and 2
 **Who is called what (present practice)LG:** Delhi, Puducherry, Andaman & Nicobar, J&K, Ladakh.
 **Administrator:** Chandigarh, Lakshadweep, Dadra & Nagar Haveli and Daman & Diu.
 
-> ** note:** “LG” is a **designation** of the Administrator under Art. 239 — not a separate constitutional office like the Governor of a State.
+> **Logic:** “LG” is a **designation** of the Administrator under Art. 239 — not a separate constitutional office like the Governor of a State.
 
 **PYQ — UPPCS Prelims 2018, Q150**
 

@@ -257,7 +257,7 @@ The **Golan Heights** is a Middle East basaltic plateau in south-west Syria (wit
 | **Aconcagua** | **Argentina** | Chile |
 | **Cotopaxi** | Ecuador | Volcanic Andes |
 
-> ** note:** Paper may print **Kalimanjaro** and **Chimbrozo**. Same peaks. Atlas is **Morocco**, not France/Spain (that is Pyrenees).
+> **Logic:** ** Paper may print **Kalimanjaro** and **Chimbrozo**. Same peaks. Atlas is **Morocco**, not France/Spain (that is Pyrenees).
 
 **Inline PYQ — UPPCS Prelims 2024, Q61**
 
@@ -388,7 +388,7 @@ A plateau is an **elevated tableland** — flatter than a mountain range, higher
 | **Shan** | Myanmar | Fluvial / tableland note |
 | **Telegraphic Plateau** | **North Atlantic Ridge** (Newfoundland–Ireland note) | **Not** Indian Ocean |
 
-> ** note:** Tibet ≈ **4500 m+** average — closest option often **5 km**. The **Pamir** is stock “Roof of the world” (also applied loosely to Tibet). The **Patagonia Plateau** is “storehouse of minerals” in South America coaching keys. **Madrid** sits on the **Meseta**. Among Coconino / Aquarius / Colorado / Columbia size options, **Colorado** is largest; world’s largest plateau remains **Tibetan**.
+> **Logic:** ** Tibet ≈ **4500 m+** average — closest option often **5 km**. The **Pamir** is stock “Roof of the world” (also applied loosely to Tibet). The **Patagonia Plateau** is “storehouse of minerals” in South America coaching keys. **Madrid** sits on the **Meseta**. Among Coconino / Aquarius / Colorado / Columbia size options, **Colorado** is largest; world’s largest plateau remains **Tibetan**.
 
 ---
 
@@ -498,7 +498,7 @@ Plains are **low, gently rolling** lands — the world’s grain and cattle belt
 | **Erebus** | Antarctica | Ross Island; southern active |
 | **Hekla** | Iceland | Mid-Atlantic |
 
-> **Note:** For **Pacific Ring of Fire** lists, exclude **Kilimanjaro** (and Etna if it appears). Paper spelling **Pericutine** = Paricutin, Mexico.
+> **Logic:** ** For **Pacific Ring of Fire** lists, exclude **Kilimanjaro** (and Etna if it appears). Paper spelling **Pericutine** = Paricutin, Mexico.
 
 **Inline PYQ — UPPCS Prelims 2024, Q30**
 
@@ -602,7 +602,7 @@ Trap **A** gives Etna to Mexico (that is Paricutin). Trap **D** gives Etna to th
 
 **Greater Sunda:** Sumatra, Java, **Borneo**, Sulawesi. Only Borneo is the “three countries, not volcanic dump” PYQ.
 
-> ** note:** Stmt 1 true, stmt 2 false for Borneo. Java/Sumatra **are** volcanic-arc; do not copy that onto Borneo.
+> **Logic:** ** Stmt 1 true, stmt 2 false for Borneo. Java/Sumatra **are** volcanic-arc; do not copy that onto Borneo.
 
 **World island desk (GC extras)**
 
@@ -711,7 +711,7 @@ Deserts are arid lands (often **< 25 cm** rain) with sparse xerophytic vegetatio
 - The Kalahari sits in the **Southern Hemisphere** (Botswana, Namibia and South Africa).
 - The African–Eurasian desert belt sits under subtropical highs — **not** mainly because of warm currents.
 
-> ** note:** Kazakhstan has **other** dry belts (Kyzylkum fringe, steppe). That does **not** put Gobi into option 4.
+> **Logic:** ** Kazakhstan has **other** dry belts (Kyzylkum fringe, steppe). That does **not** put Gobi into option 4.
 
 ---
 
@@ -3502,8 +3502,6 @@ Priority deserts, mountain keys, and UKPCS Andes stems from Ghatnachakra **CB–
 
 **Q-GC91. UP BEO 2019**
 
-**A/R logic:** A tests the **15°–30° west-margin** desert belt; R tests **trade-wind / cold-current** dryness. Check whether R explains A.
-
 **Assertion (A):** Most **hot deserts** of the world are located on the **western margins** of continents between **15° and 30°** latitudes.
 
 **Reason (R):** Dry **trade winds** and **cold ocean currents** keep those coasts rain-deficient.
@@ -3521,6 +3519,8 @@ D. A is false, but R is true
 <details>
 <summary>Show answer</summary>
 
+**A/R logic:** A tests the **15°–30° west-margin** desert belt; R tests **trade-wind / cold-current** dryness. Check whether R explains A.
+
 **Ans: A.** Both statements are true, and R correctly explains A. Horse-latitude subsidence plus west-coast cold currents (Atacama, Namib logic) place hot deserts on western subtropical margins. Trap: do not treat R as unrelated geography.
 
 </details>
@@ -3528,8 +3528,6 @@ D. A is false, but R is true
 ---
 
 **Q-GC92. UPPCS 2013**
-
-**A/R logic:** A is the coaching **Knies** solar-energy claim (~**6 hours** of desert insolation vs yearly human use); R is clear-sky insolation. Check explains-link.
 
 **Assertion (A):** Deserts receive more **solar energy** in about **six hours** than the whole of humanity uses in a year.
 
@@ -3548,6 +3546,8 @@ D. A is false, but R is true
 <details>
 <summary>Show answer</summary>
 
+**A/R logic:** A is the coaching **Knies** solar-energy claim (~**6 hours** of desert insolation vs yearly human use); R is clear-sky insolation. Check explains-link.
+
 **Ans: A.** Both are true, and R explains A. Cloud-free desert skies concentrate solar input — the standard Knies comparison. Trap: do not reject A as exaggeration without checking the coaching key.
 
 </details>
@@ -3555,8 +3555,6 @@ D. A is false, but R is true
 ---
 
 **Q-GC93. UP Lower Subordinate 2009**
-
-**Logic:** Desert definition is the **rainfall threshold**, not temperature alone.
 
 A region is generally classed as a **desert** when mean annual rainfall is
 
@@ -3571,6 +3569,8 @@ D. less than 10 cm only
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Desert definition is the **rainfall threshold**, not temperature alone.
+
 **Ans: C.** Standard geography uses **less than about 25 cm** of annual rain as the desert cutoff. Trap: 50 cm and 100 cm are wetter thresholds used for other dry-land classes.
 
 </details>
@@ -3578,8 +3578,6 @@ D. less than 10 cm only
 ---
 
 **Q-GC94. BPSC 1996**
-
-**Logic:** Hot deserts cluster under the **subtropical high**, near ~**23°**.
 
 The probability of finding a **hot desert** is highest near latitude
 
@@ -3594,6 +3592,8 @@ D. 60° N and S
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Hot deserts cluster under the **subtropical high**, near ~**23°**.
+
 **Ans: B.** Subtropical highs near **~23°–30°** drive descending dry air and the global hot-desert belt. Trap: the Equator is wet convection, not desert core.
 
 </details>
@@ -3601,8 +3601,6 @@ D. 60° N and S
 ---
 
 **Q-GC95. Rajasthan PCS 2023**
-
-**Logic:** Among continents, which has the **least** desertification pressure.
 
 Among the following continents, the problem of **desertification** is **least** serious in
 
@@ -3617,6 +3615,8 @@ D. Australia
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Among continents, which has the **least** desertification pressure.
+
 **Ans: A.** **Europe** has no major hot desert and faces the least desertification pressure among these options. Trap: Africa and Asia carry Sahel–Central Asia dry belts.
 
 </details>
@@ -3624,8 +3624,6 @@ D. Australia
 ---
 
 **Q-GC96. Ghatnachakra / multi-PCS**
-
-**Logic:** Largest **hot** desert name — not Gobi (cold) or Arabian (smaller).
 
 The **biggest hot desert** in the world is the
 
@@ -3640,6 +3638,8 @@ D. Kalahari Desert
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Largest **hot** desert name — not Gobi (cold) or Arabian (smaller).
+
 **Ans: C.** The **Sahara** is the largest hot desert, covering much of north Africa. Trap: Gobi is large but cold; Arabian is smaller than Sahara.
 
 </details>
@@ -3647,8 +3647,6 @@ D. Kalahari Desert
 ---
 
 **Q-GC97. UPPCS 2012**
-
-**Logic:** Densest **human population** in a desert — not largest area.
 
 Which of the following is the **most populated desert** in the world?
 
@@ -3663,6 +3661,8 @@ D. Atacama
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Densest **human population** in a desert — not largest area.
+
 **Ans: C.** The **Thar** (India–Pakistan) supports the densest desert population. Trap: Sahara is largest by area, not densest by people.
 
 </details>
@@ -3670,8 +3670,6 @@ D. Atacama
 ---
 
 **Q-GC98. UPPCS / standard**
-
-**Logic:** Taklamakan sits in the **Tarim Basin** of China.
 
 The **Taklamakan Desert** is located in
 
@@ -3686,6 +3684,8 @@ D. Kazakhstan
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Taklamakan sits in the **Tarim Basin** of China.
+
 **Ans: B.** Taklamakan occupies the **Tarim Basin** of north-west **China (Xinjiang)**. Trap: Mongolia is Gobi country, not Taklamakan core.
 
 </details>
@@ -3693,8 +3693,6 @@ D. Kazakhstan
 ---
 
 **Q-GC99. UPPCS / GC variant (Gibson country)**
-
-**Logic:** Gibson is an **Australian** desert; Brazil is the planted wrong country.
 
 Which of the following pairs is **not correctly matched**?
 
@@ -3709,6 +3707,8 @@ D. Gibson — Brazil
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Gibson is an **Australian** desert; Brazil is the planted wrong country.
+
 **Ans: D.** The **Gibson Desert** lies in **Australia**, not Brazil. A, B and C are standard correct pairs. Trap: Brazil’s dry scrub name is often Caatinga, not Gibson.
 
 </details>
@@ -3716,8 +3716,6 @@ D. Gibson — Brazil
 ---
 
 **Q-GC100. UPPCS 2022 / standard**
-
-**Logic:** Karakum’s main country is **Turkmenistan**; Kazakhstan is a fringe / distractor note.
 
 The **Karakum Desert** lies mainly in
 
@@ -3732,6 +3730,8 @@ D. Iraq
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Karakum’s main country is **Turkmenistan**; Kazakhstan is a fringe / distractor note.
+
 **Ans: C.** Karakum covers most of **Turkmenistan** (Karakum Canal note). Some coaching keys also mention a **Kazakhstan** fringe — do not dump the whole desert onto Uzbekistan or Iraq.
 
 </details>
@@ -3739,8 +3739,6 @@ D. Iraq
 ---
 
 **Q-GC101. UPPCS 2015**
-
-**Logic:** Hottest surface-temperature renown → **Dasht-e Lut**, Iran.
 
 Which of the following deserts is noted among the **hottest** surface zones on Earth?
 
@@ -3755,6 +3753,8 @@ D. Great Victoria (Australia)
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Hottest surface-temperature renown → **Dasht-e Lut**, Iran.
+
 **Ans: A.** **Dasht-e Lut** in **Iran** is famous for extreme surface temperatures. Trap: Gobi and Patagonia are cold / temperate deserts, not the hottest surface key.
 
 </details>
@@ -3762,8 +3762,6 @@ D. Great Victoria (Australia)
 ---
 
 **Q-GC102. Ghatnachakra / multi-PCS**
-
-**Logic:** Gobi country pair — **Mongolia** (with China), not West Asia.
 
 The **Gobi Desert** is chiefly located in
 
@@ -3778,6 +3776,8 @@ D. Egypt
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Gobi country pair — **Mongolia** (with China), not West Asia.
+
 **Ans: C.** Gobi spans **Mongolia and northern China**. Trap: do not place Gobi in Arabia, Iran, or Egypt.
 
 </details>
@@ -3785,8 +3785,6 @@ D. Egypt
 ---
 
 **Q-GC103. UPPCS / GC size-ladder variant**
-
-**Logic:** Size order is **Great Sandy < Gobi < Arabian < Sahara** — not year-coded 2023 copy.
 
 Arrange the following deserts from **smallest to largest** area:
 
@@ -3808,6 +3806,8 @@ D. 3, 4, 1, 2
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Size order is **Great Sandy < Gobi < Arabian < Sahara** — not year-coded 2023 copy.
+
 **Ans: B.** Great Sandy → Gobi → Arabian → Sahara. Trap: starting with Sahara or Arabian reverses the ladder.
 
 </details>
@@ -3815,8 +3815,6 @@ D. 3, 4, 1, 2
 ---
 
 **Q-GC104. Ghatnachakra / standard**
-
-**Logic:** Largest desert of **South Asia** — Thar, not Sahara.
 
 The **largest desert in South Asia** is the
 
@@ -3831,6 +3829,8 @@ D. Thar
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Largest desert of **South Asia** — Thar, not Sahara.
+
 **Ans: D.** The **Thar** is the largest desert of **South Asia** (India–Pakistan). Trap: Sahara and Gobi are outside South Asia.
 
 </details>
@@ -3838,8 +3838,6 @@ D. Thar
 ---
 
 **Q-GC105. UPPCS 2006**
-
-**Logic:** Find the **incorrect** Atacama statement — southern Chile alone is wrong.
 
 Which of the following statements about the **Atacama Desert** is **not correct**?
 
@@ -3854,6 +3852,8 @@ D. Cold ocean current helps keep the coast dry.
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Find the **incorrect** Atacama statement — southern Chile alone is wrong.
+
 **Ans: C.** Atacama lies in **northern Chile into southern Peru**, not southern Chile alone. A, B and D are standard true notes. Trap: Patagonia is the southern Argentina rain-shadow, not Atacama.
 
 </details>
@@ -3861,8 +3861,6 @@ D. Cold ocean current helps keep the coast dry.
 ---
 
 **Q-GC106. UPPCS 2011**
-
-**Logic:** **Temperate / cold rain-shadow** desert of South America.
 
 Which of the following is a **temperate desert**?
 
@@ -3877,6 +3875,8 @@ D. Patagonia
 <details>
 <summary>Show answer</summary>
 
+**Logic:** **Temperate / cold rain-shadow** desert of South America.
+
 **Ans: D.** **Patagonia** east of the Andes is a temperate / cold rain-shadow desert. Trap: Sahara, Thar and Kalahari are hot / subtropical dry lands.
 
 </details>
@@ -3884,8 +3884,6 @@ D. Patagonia
 ---
 
 **Q-GC107. IAS 2009**
-
-**Logic:** Trade-wind deserts on **western margins**; moist winds rise on windward Himalaya.
 
 Consider the following statements:
 
@@ -3905,6 +3903,8 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Trade-wind deserts on **western margins**; moist winds rise on windward Himalaya.
+
 **Ans: A.** Statement 1 is true for west-coast subtropical deserts. Statement 2 is true for monsoon-wet north-east India / Himalaya. Trap: do not reject statement 1 because deserts also exist inland.
 
 </details>
@@ -3912,8 +3912,6 @@ D. Neither 1 nor 2
 ---
 
 **Q-GC108. UPPCS / standard**
-
-**Logic:** Kalahari country pair — **Botswana and Namibia** (plus NW South Africa).
 
 The **Kalahari Desert** lies mainly in
 
@@ -3928,6 +3926,8 @@ D. Kenya and Tanzania
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Kalahari country pair — **Botswana and Namibia** (plus NW South Africa).
+
 **Ans: C.** Kalahari spans **Botswana, Namibia, and north-west South Africa**. Trap: north African names belong to Sahara, not Kalahari.
 
 </details>
@@ -3935,8 +3935,6 @@ D. Kenya and Tanzania
 ---
 
 **Q-GC109. Ghatnachakra / standard**
-
-**Logic:** Hemisphere of Kalahari — entirely **Southern**.
 
 The **Kalahari Desert** is located in the
 
@@ -3951,6 +3949,8 @@ D. Equatorial rain belt only
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Hemisphere of Kalahari — entirely **Southern**.
+
 **Ans: A.** Kalahari lies entirely in the **Southern Hemisphere**. Trap: Sahel / Sahara are Northern Hemisphere dry belts.
 
 </details>
@@ -3958,8 +3958,6 @@ D. Equatorial rain belt only
 ---
 
 **Q-GC110. IAS 2011**
-
-**Logic:** African–Eurasian desert belt cause — **subtropical high**, not warm west-coast currents.
 
 The great **African–Eurasian desert belt** (Sahara–Arabian–Thar fringe) is mainly caused by
 
@@ -3974,6 +3972,8 @@ D. polar front cyclones every month
 <details>
 <summary>Show answer</summary>
 
+**Logic:** African–Eurasian desert belt cause — **subtropical high**, not warm west-coast currents.
+
 **Ans: A.** Subtropical highs near ~23°–30° drive descending dry air along the Sahara–Arabia–Iran–Thar fringe. Trap: warm currents do not create that belt; cold currents aid west-coast fog deserts.
 
 </details>
@@ -3981,8 +3981,6 @@ D. polar front cyclones every month
 ---
 
 **Q-GC111. UPPCS 2023**
-
-**Logic:** Desert-adapted **animals** = xerocoles; plants = xerophytes.
 
 Animals specially adapted to desert drought are called
 
@@ -3997,6 +3995,8 @@ D. cryophytes only
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Desert-adapted **animals** = xerocoles; plants = xerophytes.
+
 **Ans: A.** **Xerocoles** are desert-adapted animals. Xerophytes are the matching drought-adapted plants. Trap: epiphytes mark equatorial forest, not desert fauna.
 
 </details>
@@ -4004,8 +4004,6 @@ D. cryophytes only
 ---
 
 **Q-GC112. BPSC / standard**
-
-**Logic:** Great Victoria / Great Victorian Desert country — **Australia**.
 
 The **Great Victorian (Great Victoria) Desert** is located in
 
@@ -4020,6 +4018,8 @@ D. Mexico
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Great Victoria / Great Victorian Desert country — **Australia**.
+
 **Ans: A.** The Great Victoria Desert sprawls across **Western Australia and South Australia**. Trap: do not dump it onto Africa or South America.
 
 </details>
@@ -4027,8 +4027,6 @@ D. Mexico
 ---
 
 **Q-GC113. UKPCS Pre 2021 / multi-PCS**
-
-**Logic:** Andes continent — **South America**.
 
 The **Andes** mountains are located in
 
@@ -4043,6 +4041,8 @@ D. South America
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Andes continent — **South America**.
+
 **Ans: D.** The Andes form the western spine of **South America**. Trap: Rockies are North America; Alps are Europe.
 
 </details>
@@ -4050,8 +4050,6 @@ D. South America
 ---
 
 **Q-GC114. UKPCS Pre 2021 / multi-PCS**
-
-**Logic:** Longest **surface** fold chain — Andes, not Himalaya (highest).
 
 The **longest mountain range** on the Earth’s surface is the
 
@@ -4066,6 +4064,8 @@ D. Andes
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Longest **surface** fold chain — Andes, not Himalaya (highest).
+
 **Ans: D.** The **Andes** (~7,000+ km) are the longest continuous surface fold chain. Trap: Himalaya are highest, not longest.
 
 </details>
@@ -4073,8 +4073,6 @@ D. Andes
 ---
 
 **Q-GC115. UKPCS Pre 2006**
-
-**Logic:** Andes location again — **South America** (older UKPCS stem).
 
 Which continent has the **Andes** mountain system?
 
@@ -4089,6 +4087,8 @@ D. Europe
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Andes location again — **South America** (older UKPCS stem).
+
 **Ans: C.** Andes run through western **South America**. Trap: Atlas is Africa; Alps are Europe.
 
 </details>
@@ -4096,8 +4096,6 @@ D. Europe
 ---
 
 **Q-GC116. UKPCS Pre 2016**
-
-**Logic:** Which is **not** an old folded mountain — Andes are **young**.
 
 Which of the following is **not** an example of **old folded mountains**?
 
@@ -4112,6 +4110,8 @@ D. Andes
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Which is **not** an old folded mountain — Andes are **young**.
+
 **Ans: D.** The **Andes** are **young Tertiary folds**, not old worn folds like Appalachians, Aravalli, or Pennines. Trap: do not class Andes with Caledonian / residual folds.
 
 </details>
@@ -4119,8 +4119,6 @@ D. Andes
 ---
 
 **Q-GC117. Ghatnachakra / multi-PCS**
-
-**Logic:** Phrase **Sea of Mountains** → British Columbia.
 
 The phrase **“Sea of Mountains”** is applied to
 
@@ -4135,6 +4133,8 @@ D. Nepal Himalaya only
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Phrase **Sea of Mountains** → British Columbia.
+
 **Ans: A.** **British Columbia** in Canada is called the Sea of Mountains in coaching geography. Trap: do not dump the phrase onto every highland coast.
 
 </details>
@@ -4142,8 +4142,6 @@ D. Nepal Himalaya only
 ---
 
 **Q-GC118. Ghatnachakra / standard**
-
-**Logic:** Highest peaks belong to **young folded** mountains.
 
 The world’s **highest peaks** mainly belong to
 
@@ -4158,6 +4156,8 @@ D. young folded mountains
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Highest peaks belong to **young folded** mountains.
+
 **Ans: D.** Young fold mountains such as the Himalaya and Andes carry the world’s highest summits. Trap: residual and block ranges are usually lower and more worn.
 
 </details>
@@ -4165,8 +4165,6 @@ D. young folded mountains
 ---
 
 **Q-GC119. Ghatnachakra / standard**
-
-**Logic:** Southern Alps country — **New Zealand**.
 
 The **Southern Alps** are found in
 
@@ -4181,6 +4179,8 @@ D. New Zealand
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Southern Alps country — **New Zealand**.
+
 **Ans: D.** Southern Alps run along the **South Island of New Zealand** (Aoraki / Mt Cook). Trap: Australia’s mainland high is Kosciuszko, not Southern Alps.
 
 </details>
@@ -4188,8 +4188,6 @@ D. New Zealand
 ---
 
 **Q-GC120. Ghatnachakra / standard**
-
-**Logic:** Atlas continent — **Africa**.
 
 The **Atlas Mountains** belong to
 
@@ -4204,6 +4202,8 @@ D. South America
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Atlas continent — **Africa**.
+
 **Ans: C.** Atlas lies in **north-west Africa** (Morocco–Algeria–Tunisia). Trap: Spain–France boundary is Pyrenees, not Atlas.
 
 </details>
@@ -4211,8 +4211,6 @@ D. South America
 ---
 
 **Q-GC121. Ghatnachakra / standard**
-
-**Logic:** Black Forest country — **Germany**.
 
 The **Black Forest** is located in
 
@@ -4227,6 +4225,8 @@ D. Germany
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Black Forest country — **Germany**.
+
 **Ans: D.** Black Forest (Schwarzwald) lies in **south-west Germany**, east of the Rhine. Trap: Vosges are west of the Rhine in France; Black Mountains are USA Appalachians.
 
 </details>
@@ -4234,8 +4234,6 @@ D. Germany
 ---
 
 **Q-GC122. Ghatnachakra / standard**
-
-**Logic:** Pyrenees boundary — **Spain–France**.
 
 The **Pyrenees** form a natural boundary between
 
@@ -4250,6 +4248,8 @@ D. Spain and France
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Pyrenees boundary — **Spain–France**.
+
 **Ans: D.** Pyrenees separate **Spain and France** (Andorra between them). Trap: Alps are not the Spain–France border pair.
 
 </details>
@@ -4257,8 +4257,6 @@ D. Spain and France
 ---
 
 **Q-GC123. MPPCS 2021**
-
-**Logic:** Sierra Nevada is a **block** mountain — not young fold like Alps/Rockies.
 
 Which of the following is **not** a **young folded mountain**?
 
@@ -4273,6 +4271,8 @@ D. Sierra Nevada
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Sierra Nevada is a **block** mountain — not young fold like Alps/Rockies.
+
 **Ans: D.** **Sierra Nevada** (California) is a classic **block / fault-block** range, not a young fold like Alps, Rockies, or Himalaya. Trap: do not dump every high USA range into Tertiary folds.
 
 </details>
@@ -4280,8 +4280,6 @@ D. Sierra Nevada
 ---
 
 **Q-GC124. UPPCS / standard**
-
-**Logic:** Appalachians are **old**, not Tertiary young folds.
 
 The **Appalachian Mountains** were mainly formed during
 
@@ -4296,6 +4294,8 @@ D. Caledonian / older orogeny
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Appalachians are **old**, not Tertiary young folds.
+
 **Ans: D.** Appalachians belong to **older (Caledonian-type) folding**, not the Tertiary young-fold belt. Trap: Alps–Andes–Himalaya–Rockies–Atlas are the Tertiary set.
 
 </details>
@@ -4303,8 +4303,6 @@ D. Caledonian / older orogeny
 ---
 
 **Q-GC125. Ghatnachakra / standard**
-
-**Logic:** Match Allegheny–USA, Cantabrian–Spain, Elburz–Iran, Mackenzie–Canada.
 
 Match List-I with List-II:
 
@@ -4330,6 +4328,8 @@ D. 4 3 2 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Match Allegheny–USA, Cantabrian–Spain, Elburz–Iran, Mackenzie–Canada.
+
 **Ans: A.** Allegheny — USA · Cantabrian — Spain · Elburz — Iran · Mackenzie — Canada. Trap: do not swap Elburz onto Spain or Allegheny onto Canada.
 
 </details>
@@ -4337,8 +4337,6 @@ D. 4 3 2 1
 ---
 
 **Q-GC126. Ghatnachakra / standard**
-
-**Logic:** Peak–continent match — Kosciuszko Australia, McKinley N America, Elbrus Europe, Kilimanjaro Africa.
 
 Match List-I with List-II:
 
@@ -4364,6 +4362,8 @@ D. 4 2 1 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Peak–continent match — Kosciuszko Australia, McKinley N America, Elbrus Europe, Kilimanjaro Africa.
+
 **Ans: A.** Kosciuszko — Australia · McKinley — North America · Elbrus — Europe · Kilimanjaro — Africa. Trap: Elbrus is Europe (Caucasus), not Africa.
 
 </details>
@@ -4371,8 +4371,6 @@ D. 4 2 1 3
 ---
 
 **Q-GC127. UKPCS / Ghatnachakra**
-
-**Logic:** Golan Heights region — **Middle East**.
 
 **Golan Heights** is a plateau region of
 
@@ -4386,6 +4384,8 @@ D. Middle East
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Golan Heights region — **Middle East**.
 
 **Ans: D.** Golan Heights lie in the **Middle East**, on the Syria–Israel flank. Trap: do not place Golan in Central Asia or Africa.
 

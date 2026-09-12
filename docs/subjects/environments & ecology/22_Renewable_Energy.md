@@ -14,6 +14,13 @@ Solar Energy | Wind Energy | Biomass Energy | Geothermal Energy | Tidal Energy |
 
 ---
 
+## Current Affairs (this topic)
+
+- India’s renewable capacity and green-hydrogen headlines refresh energy CA.
+- Keep renewable vs clean vs conventional classification traps stable.
+
+---
+
 ## Consolidated — 34 Must-Score Facts
 
 1. **Renewable** energy replenishes on a human timescale — sun, wind, water, biomass, geothermal. **Nuclear** is low-carbon but usually **not** counted as renewable MCQs.
@@ -140,7 +147,7 @@ D. Only 1
 | Wind quality | Moderate | Stronger, steadier |
 | India status | Mature | Early policy stage |
 
-> ** note:** Rajasthan leads **solar**, not wind. **Tamil Nadu** = wind leader trap.
+> **Logic:** Rajasthan leads **solar**, not wind. **Tamil Nadu** = wind leader trap.
 
 ---
 
@@ -175,7 +182,7 @@ D. 1 and 2
 
 </details>
 
-> ** note:** Biogas = **CH₄ + CO₂** — not butane.
+> **Logic:** Biogas = **CH₄ + CO₂** — not butane.
 
 ---
 
@@ -228,7 +235,7 @@ D. Kerala
 
 </details>
 
-> ** note:** Tidal potential = **Gujarat coast** (Khambhat/Kutch), not Thar Desert.
+> **Logic:** Tidal potential = **Gujarat coast** (Khambhat/Kutch), not Thar Desert.
 
 ---
 
@@ -280,7 +287,7 @@ Options include: Dam length 825.8 m | Hydropower **198 MW** | Location Garhwal |
 | Large hydro | >25 MW |
 | Ramganga | ~198 MW (large) |
 
-> ** note:** SHP cap = **25 MW**. Singrauli = **thermal**, not hydro.
+> **Logic:** SHP cap = **25 MW**. Singrauli = **thermal**, not hydro.
 
 ---
 

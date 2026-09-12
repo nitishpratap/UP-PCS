@@ -14,6 +14,13 @@ Climate Change | Atmospheric Studies | Global Climate Monitoring | Greenhouse Ga
 
 ---
 
+## Current Affairs (this topic)
+
+- Advanced climate CA mirrors Climate Change — NDC / net zero / extreme-event science updates.
+- Keep adaptation vs mitigation and Montreal≠Paris traps identical to the core climate chapter.
+
+---
+
 ## Consolidated — 32 Must-Score Facts
 
 1. **Climate change** is a long-term shift in temperature, rainfall, and extremes. **Global warming** is the temperature-rise part only.
@@ -75,7 +82,7 @@ Climate Change | Atmospheric Studies | Global Climate Monitoring | Greenhouse Ga
 - IPCC AR6 finds human influence is the **dominant cause** of observed warming.
 - Global warming is one part of climate change; monsoon shifts and glacier retreat also count.
 
-> ** note:** Warming ⊂ climate change — do not treat them as identical.
+> **Logic:** Warming ⊂ climate change — do not treat them as identical.
 
 ---
 
@@ -88,7 +95,7 @@ Climate Change | Atmospheric Studies | Global Climate Monitoring | Greenhouse Ga
 - GHG warming typically **warms the troposphere** and **cools the stratosphere** — a fingerprint distinct from solar-only warming.
 - Water vapour is a strong greenhouse gas but mainly a **feedback**, not the primary anthropogenic driver.
 
-> ** note:** Mauna Loa = Keeling CO₂ monitoring, not ozone hole location (ozone hole = Antarctica).
+> **Logic:** Mauna Loa = Keeling CO₂ monitoring, not ozone hole location (ozone hole = Antarctica).
 
 ---
 
@@ -114,7 +121,7 @@ Options: A. 3 1 4 2 B. 3 4 1 2 C. 1 2 3 4 D. 2 3 4 1
 
 </details>
 
-> ** note:** Emissions Gap Report ≠ IPCC Assessment Report.
+> **Logic:** Emissions Gap Report ≠ IPCC Assessment Report.
 
 ---
 
@@ -150,7 +157,7 @@ Options: A. China B. USA C. India D. France
 
 </details>
 
-> ** note:** Absolute emitter rank ≠ CCPI / “performance” rank.
+> **Logic:** Absolute emitter rank ≠ CCPI / “performance” rank.
 
 ---
 
@@ -207,7 +214,7 @@ Options: A. Argon B. CFC C. Methane D. Carbon dioxide
 - Impacts include heatwaves, glacier melt, sea-level rise, coral bleaching, and monsoon extremes (UP heat / Bundelkhand drought / Ganga floods).
 - Warming is necessary but not sufficient to describe all climate-change impacts.
 
-> ** note:** Paris aims to hold warming well below **2°C** and pursue **1.5°C**.
+> **Logic:** Paris aims to hold warming well below **2°C** and pursue **1.5°C**.
 
 ---
 
@@ -224,7 +231,7 @@ Options: A. Argon B. CFC C. Methane D. Carbon dioxide
 - Elemental carbon occurs as crystalline allotropes such as **graphite**, **diamond**, and **fullerene**.
 - In compound form, carbon appears as CO₂, carbonates, and hydrogen carbonates.
 
-> ** note:** Photosynthesis removes CO₂; respiration/decay/volcanoes add it.
+> **Logic:** Photosynthesis removes CO₂; respiration/decay/volcanoes add it.
 
 ---
 
@@ -237,7 +244,7 @@ Options: A. Argon B. CFC C. Methane D. Carbon dioxide
 - Net zero means residual emissions are balanced by removals — not “zero gross emissions overnight.”
 - India links its long-term budget pathway to **net zero by 2070**.
 
-> ** note:** Carbon budget ≠ annual government fiscal budget.
+> **Logic:** Carbon budget ≠ annual government fiscal budget.
 
 ---
 
@@ -250,7 +257,7 @@ Options: A. Argon B. CFC C. Methane D. Carbon dioxide
 - India’s NDC includes a **2.5–3 GtCO₂e** additional forest/tree-cover sink by 2030.
 - Sinks can weaken (deforestation, ocean warming) and become sources.
 
-> ** note:** Sink = reservoir/net absorber; sequestration = the storage process.
+> **Logic:** Sink = reservoir/net absorber; sequestration = the storage process.
 
 ---
 
@@ -276,7 +283,7 @@ Options: A. Earth Summit Rio B. Kyoto Protocol C. Montreal Protocol D. G-8 Summi
 
 </details>
 
-> ** note:** Carbon credit ≠ Montreal (ozone) and ≠ Green Credit Programme.
+> **Logic:** Carbon credit ≠ Montreal (ozone) and ≠ Green Credit Programme.
 
 ---
 
@@ -290,7 +297,7 @@ Options: A. Earth Summit Rio B. Kyoto Protocol C. Montreal Protocol D. G-8 Summi
 - India’s **Carbon Credit Trading Scheme (CCTS, 2023)** is under the **Energy Conservation Act** framework, with **BEE** as a key authority (Ministry of Power).
 - **PAT** trades **ESCerts** for energy efficiency — related market tool, **not** the same as carbon credits.
 
-> ** note:** Credit = unit; trading = market. Paris **Article 6** governs cooperative carbon markets.
+> **Logic:** Credit = unit; trading = market. Paris **Article 6** governs cooperative carbon markets.
 
 ---
 
@@ -315,7 +322,7 @@ Options: A. Montreal Protocol B. Ramsar Convention C. Kyoto Protocol D. CITES
 
 </details>
 
-> ** note:** Kyoto = climate. Montreal = ODS/ozone.
+> **Logic:** Kyoto = climate. Montreal = ODS/ozone.
 
 ---
 
@@ -328,7 +335,7 @@ Options: A. Montreal Protocol B. Ramsar Convention C. Kyoto Protocol D. CITES
 - India’s adaptation spine includes NAPCC missions on water, Himalaya, agriculture, and sustainable habitat, plus state action plans (SAPCC).
 - Adaptation does not replace mitigation — both are required.
 
-> ** note:** Adapt = adjust; mitigate = reduce.
+> **Logic:** Adapt = adjust; mitigate = reduce.
 
 ---
 
@@ -364,7 +371,7 @@ Options: A. Only 2 B. Neither C. Both D. Only 1
 | 2022 | Updated NDC; LiFE launch |
 | 2023 | CCTS / Green Credit |
 
-> ** note:** India net zero = **2070**, not 2050.
+> **Logic:** India net zero = **2070**, not 2050.
 
 ---
 
@@ -386,7 +393,7 @@ Options: A. Only 2 B. Neither C. Both D. Only 1
 | AR5 | 2014 | Informed Paris |
 | AR6 SYR | **2023** | Latest synthesis |
 
-> ** note:** IPCC ≠ UNFCCC ≠ UNEP Emissions Gap Report.
+> **Logic:** IPCC ≠ UNFCCC ≠ UNEP Emissions Gap Report.
 
 ---
 

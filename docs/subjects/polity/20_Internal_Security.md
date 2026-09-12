@@ -133,7 +133,7 @@ Newest first. One event, one fact — not a dump of keywords.
 - Nodal: **MHA** for internal; **MoD** for Army/Navy/IAF/Coast Guard
 - **SAMADHAN** (MHA **2017**) — LWE strategy. Expand if the paper prints letters: **S**mart leadership · **A**ggressive strategy · **M**otivation & training · **A**ctionable intelligence · **D**ashboard KPIs · **H**arnessing technology · **A**ction plan per theatre · **N**o access to financing
 
-> ** note:** Police is **State** List. Union uses 355 + CAPF + Entry 2A — not a Union-List police.
+> **Logic:** Police is **State** List. Union uses 355 + CAPF + Entry 2A — not a Union-List police.
 
 **PYQ — UPPCS Prelims 2024, Q80**
 
@@ -170,7 +170,7 @@ D. Both 1 and 2
 - Head / HQ: Director General · **New Delhi** · **MHA**
 - ≠ CBI (needs s.6) · IB (intel, **no** charge-sheet) · ED (PMLA/FEMA, **Finance**)
 
-> ** note:** NIA does **not** need State consent; CBI does (DSPE **s.6**).
+> **Logic:** NIA does **not** need State consent; CBI does (DSPE **s.6**).
 
 ---
 
@@ -184,7 +184,7 @@ D. Both 1 and 2
 - Ops raata: Black Thunder (Golden Temple 1988) · Black Tornado (**26/11 Mumbai**)
 - ≠ SPG (PM’s close protection) · Army SF (MoD) · CoBRA (CRPF LWE)
 
-> ** note:** NSG = strike. SPG **1988** = PM’s close protection. CoBRA = **CRPF** LWE, not NSG.
+> **Logic:** NSG = strike. SPG **1988** = PM’s close protection. CoBRA = **CRPF** LWE, not NSG.
 
 ---
 
@@ -213,7 +213,7 @@ D. Both 1 and 2
 | Character | Executive, **not** statutory, **not** a police charge-sheet agency | Same |
 | Grid | **MAC** sits with IB; SMAC in States | Split from IB after 1962/65 |
 
-> ** note:** IB = internal **MHA 1887**. RAW = external **Cabinet Secretariat 1968**. Opposite is the paper trap.
+> **Logic:** IB = internal **MHA 1887**. RAW = external **Cabinet Secretariat 1968**. Opposite is the paper trap.
 
 ## MAC · NATGRID · NCTC · BHARATPOL
 
@@ -222,7 +222,7 @@ D. Both 1 and 2
 - **NCTC** — National **Counter Terrorism** Centre — proposed ~2012 under IB. States said it violated federal police power. **Never established**
 - **BHARATPOL** — **2025** online portal for **Interpol** police cooperation. Built by **CBI**, because CBI is India’s **National Central Bureau** of Interpol. Options will dangle IB/RAW/ED — mark **CBI only**
 
-> ** note:** BHARATPOL = **CBI only**. NCTC (terror) **never born**. I4C’s training centre is a different “NCTC”.
+> **Logic:** BHARATPOL = **CBI only**. NCTC (terror) **never born**. I4C’s training centre is a different “NCTC”.
 
 **PYQ — UPPCS Prelims 2025, Q126**
 
@@ -252,7 +252,7 @@ D. Only 1
 - ≠ **CCS** — Cabinet Committee on **Security** = a **Cabinet** committee (PM, HM, Defence, Finance, EAM) that **takes Cabinet decisions** on war/nuclear/major ops. NSC **advises**
 - Name collision: NSC’s **SPG** = Strategic **Policy** Group. The **SPG Act 1988** = Special **Protection** Group (PM’s guards)
 
-> ** note:** Don’t mix **SPG** (PM protection, 1988 Act) with **NSG** (counter-terror, 1984) or with NSC’s Strategic **Policy** Group.
+> **Logic:** Don’t mix **SPG** (PM protection, 1988 Act) with **NSG** (counter-terror, 1984) or with NSC’s Strategic **Policy** Group.
 
 ---
 
@@ -266,7 +266,7 @@ D. Only 1
 - Paper trap: “every ex-PM has SPG for life”
 - ≠ NSC’s Strategic Policy Group · ≠ NSG Black Cats
 
-> ** note:** After 2019, ex-PM SPG cover = **5 years**, not life.
+> **Logic:** After 2019, ex-PM SPG cover = **5 years**, not life.
 
 ---
 
@@ -287,7 +287,7 @@ Raising-day / HQ trap: all five HQs **New Delhi**. Don’t give ITBP “Itanagar
 - **CoBRA 2008** = Commando Battalion for Resolute Action (**jungle LWE**, not NSG Black Cats)
 - First mahila battalion **1986**
 
-> ** note:** CRPF raised **1939** / Act **1949**. **1965 = BSF**. CoBRA = CRPF, not NSG.
+> **Logic:** CRPF raised **1939** / Act **1949**. **1965 = BSF**. CoBRA = CRPF, not NSG.
 
 ## BSF
 
@@ -298,7 +298,7 @@ Raising-day / HQ trap: all five HQs **New Delhi**. Don’t give ITBP “Itanagar
 - Border: **Pakistan + Bangladesh** — **not** China / LAC (that is **ITBP**)
 - Water + air wings. War-time operates with Army
 
-> ** note:** BSF does **not** guard the China border. BSF = Pak + Bangladesh.
+> **Logic:** BSF does **not** guard the China border. BSF = Pak + Bangladesh.
 
 ## CISF
 
@@ -308,7 +308,7 @@ Raising-day / HQ trap: all five HQs **New Delhi**. Don’t give ITBP “Itanagar
 - Airports, PSUs, metro, SEZ, Delhi Metro; private establishments **on payment**
 - Only CAPF built as **infrastructure security** — **not** riot police, **not** a border force
 
-> ** note:** CISF = industrial / airport / metro. CRPF = mobile internal-security grid.
+> **Logic:** CISF = industrial / airport / metro. CRPF = mobile internal-security grid.
 
 ## ITBP
 
@@ -318,7 +318,7 @@ Raising-day / HQ trap: all five HQs **New Delhi**. Don’t give ITBP “Itanagar
 - Motto: Shaurya–Dridhata–Karm Nishtha
 - Himalayan disaster response. HQ **New Delhi**, not Itanagar / Leh
 
-> ** note:** ITBP = China / LAC. BSF = Pak + Bangladesh.
+> **Logic:** ITBP = China / LAC. BSF = Pak + Bangladesh.
 
 ## SSB
 
@@ -328,7 +328,7 @@ Raising-day / HQ trap: all five HQs **New Delhi**. Don’t give ITBP “Itanagar
 - Motto: Service, Security and Brotherhood
 - Civic-action origin. **Not** “Nepal only” — Bhutan too. **Not** the NE rifle (that is Assam Rifles)
 
-> ** note:** SSB renamed **2001**. Nepal **and Bhutan**.
+> **Logic:** SSB renamed **2001**. Nepal **and Bhutan**.
 
 ---
 
@@ -342,7 +342,7 @@ Raising-day / HQ trap: all five HQs **New Delhi**. Don’t give ITBP “Itanagar
 - HQ **Shillong** (not New Delhi) — the CAPF HQ trap does **not** apply here
 - ≠ a CAPF like CRPF (no dual Army ops) · SSB (Nepal/Bhutan, not “the” NE rifle)
 
-> ** note:** Assam Rifles is **not** an ordinary CAPF under only MHA. Dual MHA + Army; HQ **Shillong**.
+> **Logic:** Assam Rifles is **not** an ordinary CAPF under only MHA. Dual MHA + Army; HQ **Shillong**.
 
 ---
 
@@ -364,7 +364,7 @@ Raising-day / HQ trap: all five HQs **New Delhi**. Don’t give ITBP “Itanagar
 ### State police / DRG / C-60
 **First responders.DRG = Chhattisgarh** (Bastar). **C-60 = Maharashtra** (Gadchiroli). 2024 paper mixed the two.
 
-> ** note:** Coast Guard = **MoD, 1978**, not CAPF/MHA. April 2024 Maoist op = **Kanker, Chhattisgarh**, not Gadchiroli; DRG ≠ Maharashtra.
+> **Logic:** Coast Guard = **MoD, 1978**, not CAPF/MHA. April 2024 Maoist op = **Kanker, Chhattisgarh**, not Gadchiroli; DRG ≠ Maharashtra.
 
 **Coastal security after 26/11 — three layers**
 
@@ -403,7 +403,7 @@ Papers mix **MeitY** (incident / IT Act) with **MHA** (crime). Keep the ministri
 - **2022 directions:** specified incidents to be reported in **6 hours**. Logs kept **5 years**. Clocks on **NTP**. VPN / cloud / virtual-asset KYC as directed. Challenged in court — for Prelims still treat the directions as **issued**, not “struck down”
 - **Cyber Swachhta Kendra** — CERT-In’s botnet-cleaning desk for citizens and ISPs — still MeitY, still not a CAPF
 
-> ** note:** CERT-In = **MeitY / s.70B**, incident response. I4C = **MHA**, cyber-*crime*.
+> **Logic:** CERT-In = **MeitY / s.70B**, incident response. I4C = **MHA**, cyber-*crime*.
 
 ### NCIIPC
 
@@ -413,7 +413,7 @@ Papers mix **MeitY** (incident / IT Act) with **MHA** (crime). Keep the ministri
 - CII means: computer resource whose incapacity would hit **national security / economy / public health / safety**. Sectors typically listed: **power, banking, telecom, transport, government, strategic**
 - Does **not** run cybercrime.gov.in and does **not** replace State police
 
-> ** note:** NCIIPC = **s.70A**, **NTRO**, CII only. CERT-In = **s.70B**, all-India CER.
+> **Logic:** NCIIPC = **s.70A**, **NTRO**, CII only. CERT-In = **s.70B**, all-India CER.
 
 ### I4C (Indian Cyber Crime Coordination Centre)
 
@@ -425,7 +425,7 @@ Papers mix **MeitY** (incident / IT Act) with **MHA** (crime). Keep the ministri
 - Verticals: Threat Analytics Unit · Reporting Portal · Joint Cyber Crime Investigation platform · **National Cybercrime Training Centre** · Ecosystem / Research units
 - **NCTC name-collision:** I4C’s **training** centre ≠ the **National Counter Terrorism Centre** (proposed under IB, **never established**)
 
-> ** note:** I4C’s National Cybercrime Training Centre ≠ the never-born terror NCTC.
+> **Logic:** I4C’s National Cybercrime Training Centre ≠ the never-born terror NCTC.
 
 ### Other cyber desks
 
@@ -471,7 +471,7 @@ Papers mix **MeitY** (incident / IT Act) with **MHA** (crime). Keep the ministri
 | **POTA** | **2002 → repealed 2004** | Passed after a **joint sitting** of Parliament (only the third joint sitting). Contents **migrated into UAPA** |
 | **UAPA** | **1967 → still in force** | The survivor. 2004/08/13/19 are *amendments*, not new Acts |
 
-> ** note:** UAPA = **criminal trial**. NSA = **preventive detention**. 2019 can tag **individuals**, not only organisations.
+> **Logic:** UAPA = **criminal trial**. NSA = **preventive detention**. 2019 can tag **individuals**, not only organisations.
 
 ---
 
@@ -497,7 +497,7 @@ Papers mix **MeitY** (incident / IT Act) with **MHA** (crime). Keep the ministri
 - Still notified (whole or pockets): **Nagaland, Manipur, parts of Arunachal Pradesh** · **J&K** under the **1990** Act
 - Never the whole Republic. AFSPA is **area-specific**
 
-> ** note:** AFSPA only in a notified **disturbed area**. J&K = **1990** Act, not 1958. s.6 sanction = **Centre**, not State. Jeevan Reddy repeal was **not enacted**.
+> **Logic:** AFSPA only in a notified **disturbed area**. J&K = **1990** Act, not 1958. s.6 sanction = **Centre**, not State. Jeevan Reddy repeal was **not enacted**.
 
 ---
 

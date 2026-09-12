@@ -14,6 +14,13 @@ Acid Rain | Causes | Effects | Prevention
 
 ---
 
+## Current Affairs (this topic)
+
+- Twin of Acid Rain core — chemistry fixed; rare CA only.
+- Acid rain ≠ photochemical smog ≠ ozone depletion.
+
+---
+
 ## Consolidated — 22 Must-Score Facts
 
 1. **Acid rain** means acidic deposition with **pH below 5.6**.
@@ -97,7 +104,7 @@ Options: A. Both true; R explains A B. A false, R true C. Both true; R not expla
 | 7 | Neutral (not natural rain) |
 | > 7 | Basic |
 
-> ** note:** Normal rain ≠ neutral. CO₂ alone ≠ severe acid rain.
+> **Logic:** Normal rain ≠ neutral. CO₂ alone ≠ severe acid rain.
 
 ---
 
@@ -116,7 +123,7 @@ Options: A. Both true; R explains A B. A false, R true C. Both true; R not expla
 
 Gases lighter than air among listed options — only **helium** fits; **SO₂ and HCl are heavier**.
 
-> ** note:** SO₂ sinks relative to air — density trap.
+> **Logic:** SO₂ sinks relative to air — density trap.
 
 ---
 
@@ -140,7 +147,7 @@ Gases lighter than air among listed options — only **helium** fits; **SO₂ an
 | Marble | Gypsum crust (Taj) |
 | Lichens | Die in high SO₂ |
 
-> ** note:** Taj fact = **SO₂/acid**, not “only CO₂ yellowing.”
+> **Logic:** Taj fact = **SO₂/acid**, not “only CO₂ yellowing.”
 
 ---
 
@@ -163,7 +170,7 @@ Gases lighter than air among listed options — only **helium** fits; **SO₂ an
 | Taj Trapezium | Local heritage protection |
 | Gothenburg/CLRTAP | Transboundary acidification |
 
-> ** note:** Montreal = ozone. Acid rain treaty family = **CLRTAP / Gothenburg**.
+> **Logic:** Montreal = ozone. Acid rain treaty family = **CLRTAP / Gothenburg**.
 
 ---
 

@@ -114,7 +114,7 @@ India’s judiciary is **both** integrated (one hierarchy) **and** independent (
 - Its first CJI was **H.J. Kania**.
 - Its original strength was the **CJI plus 7 judges**, totalling **8**.
 
-> ** note:** “Independent” ≠ “integrated”. A court can be independent in a dual system (USA). India is **both**.
+> **Logic:** “Independent” ≠ “integrated”. A court can be independent in a dual system (USA). India is **both**.
 
 ---
 
@@ -260,7 +260,7 @@ Citizen of India **and** any **one** of:
 2. **Advocate of a High Court** for at least **10 years** (in succession), **or**
 3. a **distinguished jurist** in the President’s opinion.
 
-> ** note:** “Distinguished jurist” exists **only in 124(3)** — **not** in Art. **217**. It has almost never been used. “In succession” = the years may be in more than one HC, counted together.
+> **Logic:** “Distinguished jurist” exists **only in 124(3)** — **not** in Art. **217**. It has almost never been used. “In succession” = the years may be in more than one HC, counted together.
 
 ---
 
@@ -307,7 +307,7 @@ Citizen of India **and** any **one** of:
 - An eminent person's tenure was **3 years**, with no re-nomination.
 - If **any two** members disagreed with a recommendation, the appointment was **not** made — this was the NJAC's veto rule.
 
-> ** note:** Chronology **1981 executive → 1993 CJI+2 → 1998 CJI+4 → 2014 NJAC in the text → 2015 struck down**. Collegium is **not** in the Constitution; NJAC **was**, and still fell.
+> **Logic:** Chronology **1981 executive → 1993 CJI+2 → 1998 CJI+4 → 2014 NJAC in the text → 2015 struck down**. Collegium is **not** in the Constitution; NJAC **was**, and still fell.
 
 **Memorandum of Procedure (MoP) after 2015:** The Collegium recommends a name, the Law Ministry and Intelligence Bureau send their inputs, and the PM then advises the President. The government may **return** a name once with reasons, but a **reiteration** by the Collegium binds the executive.
 
@@ -349,7 +349,7 @@ Same process for **SC and HC**. Popularly “impeachment”; constitutionally it
 - **Soumitra Sen** (Calcutta HC, 2011): the Rajya Sabha **passed** the motion, but he **resigned** before the Lok Sabha could vote.
 - **CJI Dipak Misra** (2018): a Rajya Sabha notice was moved, but the Vice-President as Chairman **did not admit** it.
 
-> ** note:** Resignation → **President**. Removal → **President after parliamentary address**. The **CJI cannot** remove a judge.
+> **Logic:** Resignation → **President**. Removal → **President after parliamentary address**. The **CJI cannot** remove a judge.
 
 ---
 
@@ -556,7 +556,7 @@ Emergency clipped judicial review; Janata restored it. **Not** a before/after pa
 - The **44th Amendment (1978)** restored **Art. 226** and **Art. 227** to their full original scope.
 - The 44th Amendment also added **Art. 134A** (certificate) and **Art. 139A** (transfer of cases).
 
-> ** note:** 2019 A/R “SC has **exclusive** jurisdiction on constitutional validity of Central laws” is **false** because **43rd** killed **131A**.
+> **Logic:** 2019 A/R “SC has **exclusive** jurisdiction on constitutional validity of Central laws” is **false** because **43rd** killed **131A**.
 
 **PYQ — UPPCS Prelims 2019, Q104Assertion (A):** The Supreme Court of India has exclusive jurisdiction regarding Constitutional validity of Central laws.
 
@@ -702,7 +702,7 @@ D. Sajjan Singh, 1965
 - Its sanctioned strength is **160** judges, making it the **largest High Court in India**.
 - Its jurisdiction covers the whole of **Uttar Pradesh** only — Uttarakhand has had its own **Nainital High Court** since 2000.
 
-> ** note:** Lucknow is a **bench**, not a second High Court and not a “common HC”. Allahabad is **not** a Chartered HC of 1862.
+> **Logic:** Lucknow is a **bench**, not a second High Court and not a “common HC”. Allahabad is **not** a Chartered HC of 1862.
 
 ---
 
@@ -802,7 +802,7 @@ Power of courts to test **constitutionality** of legislative and executive actio
 - The Court held that **HC power under Arts. 226/227 over tribunals is part of the basic structure** and cannot be excluded.
 - After *L. Chandra Kumar*, a tribunal is only a **court of first instance** that **supplements** (does not replace) the HC’s place in the hierarchy.
 
-> ** note:** 42nd clipped JR (**32A / 131A / 226A**); **43rd** restored. A tribunal clause that “excludes all courts except the SC” **cannot** oust the HC.
+> **Logic:** 42nd clipped JR (**32A / 131A / 226A**); **43rd** restored. A tribunal clause that “excludes all courts except the SC” **cannot** oust the HC.
 
 **PYQ — UPPCS Prelims 2020, Q126Assertion (A):** Indian federalism is called ‘Quasi-federal’.
 
@@ -834,7 +834,7 @@ Term **“judicial activism”**: Arthur **Schlesinger Jr., 1947** (USA). In Ind
 
 **Art. 21 expansions that are activism-facts (match):** speedy trial · legal aid · livelihood (*Olga Tellis*) · privacy (*Puttaswamy*) · clean environment (*M.C. Mehta*) · dignity · emergency medical care (*Parmanand Katara*).
 
-> ** note:** Activism can be **constitutional** (enforcing FRs). Overreach is activism that **violates separation of powers**. Restraint is a **doctrine of self-limit**, not an article. *ADM Jabalpur* is **bad restraint** (Emergency habeas).
+> **Logic:** Activism can be **constitutional** (enforcing FRs). Overreach is activism that **violates separation of powers**. Restraint is a **doctrine of self-limit**, not an article. *ADM Jabalpur* is **bad restraint** (Emergency habeas).
 
 ---
 
@@ -930,7 +930,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 | How heard | Usually **circulation in chambers** by the **same bench**; oral hearing exceptional | Papers to the **3 senior-most judges** + the judges who decided the review (if available). A **senior advocate must certify** that the grounds are made out |
 | HC parallel | HCs also review under their rules / CPC | **No** curative in the HC (SC-only device) |
 
-> ** note:** Exhaustion order: **appeal / SLP → review → curative**. There is **no** “curative article”. A second review is not the same thing as a curative.
+> **Logic:** Exhaustion order: **appeal / SLP → review → curative**. There is **no** “curative article”. A second review is not the same thing as a curative.
 
 ---
 
@@ -990,7 +990,7 @@ D. 1, 2 and 3
 - Under **Art. 236**, "judicial service" means the service of persons holding the post of district judge and other **civil judicial** posts **inferior to** district judge.
 - **Art. 237** lets the Governor **direct** that Arts. 233–235 apply to certain classes of **magistrates**, subject to specified exceptions.
 
-> ** note:Appointment of DJ = Governor + HC (233). Control after appointment = HC alone (235).** The Governor has **no** disciplinary role over the district judiciary. *All India Judges’ Association* cases: uniform service conditions; Centre was asked to consider an AIJS.
+> **Logic:** Appointment of DJ = Governor + HC (233). Control after appointment = HC alone (235).** The Governor has **no** disciplinary role over the district judiciary. *All India Judges’ Association* cases: uniform service conditions; Centre was asked to consider an AIJS.
 
 ### District Courts — hierarchy & work
 
@@ -1159,7 +1159,7 @@ D. Union Public Service Commission – Article 315
 
 **Types of Lok Adalat (names):** National · State · District · Taluk · Permanent · Mega / National Lok Adalat days · Mobile.
 
-> ** note:** Regular Lok Adalat = **compromise only**. PLA = the one forum that can **adjudicate**. Do not mix **SAT (SEBI)** with **SAT (State Administrative Tribunal)** or with Lok Adalat.
+> **Logic:** Regular Lok Adalat = **compromise only**. PLA = the one forum that can **adjudicate**. Do not mix **SAT (SEBI)** with **SAT (State Administrative Tribunal)** or with Lok Adalat.
 
 ### Gram Nyayalaya (Gram Nyayalayas Act, **2008**)
 
@@ -1213,7 +1213,7 @@ A **court** at the intermediate-Panchayat HQ — **not** a Gram Panchayat / Nyay
 - In ***Supreme Court Bar Association* (1998)**, the Court held it **cannot**, while punishing contempt, **suspend an advocate's licence** to practise.
 - That disciplinary power belongs only to the **Bar Council**; the Supreme Court's own power is limited to punishment under Arts. 129/142.
 
-> ** note:** 1971 Act is a **ceiling for HCs**; SC’s 129 power is **constitutional** and not confined by the Act, but the Act is used as a **guide**.
+> **Logic:** 1971 Act is a **ceiling for HCs**; SC’s 129 power is **constitutional** and not confined by the Act, but the Act is used as a **guide**.
 
 ---
 
@@ -1237,7 +1237,7 @@ A **court** at the intermediate-Panchayat HQ — **not** a Gram Panchayat / Nyay
 
 **Other facts:** The **Commercial Courts Act, 2015** made **pre-institution mediation** compulsory for specified commercial suits. The **Mediation Act, 2023** enables online and court-annexed mediation. The constitutional hook for all of ADR remains **Art. 39A**.
 
-> ** note:** Arbitration is **adjudicatory**. Mediation / conciliation / regular Lok Adalat are **consensual**. **PLA** is the hybrid that can decide merits. **FTC is not ADR** — it is a regular court on a fast track.
+> **Logic:** Arbitration is **adjudicatory**. Mediation / conciliation / regular Lok Adalat are **consensual**. **PLA** is the hybrid that can decide merits. **FTC is not ADR** — it is a regular court on a fast track.
 
 ---
 

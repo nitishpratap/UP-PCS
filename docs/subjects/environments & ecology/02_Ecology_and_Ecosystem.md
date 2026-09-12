@@ -14,6 +14,13 @@ Ecology – Meaning | Ecosystem | Types of Ecosystems | Terrestrial Ecosystem | 
 
 ---
 
+## Current Affairs (this topic)
+
+- Ecosystem-services and productivity stems stay conceptual — refresh MEA / IPBES wording if a CA stem cites them.
+- Keep Tansley / Haeckel / Odum name traps stable; they are not CA-dependent.
+
+---
+
 ## Consolidated — 36 Must-Score Facts
 
 1. **Ecology** is the **study** of organism–environment interactions. **Haeckel (1866)** coined the term. **Ramdeo Misra** is called the father of Indian ecology. **Bionomics** is synonymous with ecology; it does **not** mean “management of life.”
@@ -110,7 +117,7 @@ Ecology – Meaning | Ecosystem | Types of Ecosystems | Terrestrial Ecosystem | 
 | **Biome** | Tropical deciduous forest of India |
 | **Biosphere** | Global life-support zone |
 
-> ** note:** Trap — Odum did **not** coin "ecosystem". **Tansley (1935)** did.
+> **Logic:** Trap — Odum did **not** coin "ecosystem". **Tansley (1935)** did.
 
 ---
 
@@ -134,7 +141,7 @@ Ecology – Meaning | Ecosystem | Types of Ecosystems | Terrestrial Ecosystem | 
 - The **biosphere** is the largest ecosystem of Earth as a whole because it integrates atmosphere, hydrosphere, and lithosphere where life exists.
 - Ecosystem size runs from **micro** (drop of pond water, garden pond) to **macro** (river basin, biosphere).
 
-> ** note:** Ecosystem = open, not closed. Components are interdependent. Field/rice field = artificial. Biosphere = largest overall; ocean = largest/most stable type.
+> **Logic:** Ecosystem = open, not closed. Components are interdependent. Field/rice field = artificial. Biosphere = largest overall; ocean = largest/most stable type.
 
 ---
 
@@ -190,7 +197,7 @@ Ecology – Meaning | Ecosystem | Types of Ecosystems | Terrestrial Ecosystem | 
 
 - A human-made **cropland** is an **anthropogenic biome**. It depends on irrigation, fertiliser, and harvest removal unlike a self-regulating natural forest.
 
-> ** note:** River = **lotic**. Lake = **lentic**. Cropland = **anthropogenic**, not natural grassland.
+> **Logic:** River = **lotic**. Lake = **lentic**. Cropland = **anthropogenic**, not natural grassland.
 
 ---
 
@@ -240,7 +247,7 @@ Ecology – Meaning | Ecosystem | Types of Ecosystems | Terrestrial Ecosystem | 
 - **Thermocline** shows temperature change with depth.
 - **Marine upwelling** replaces surface water with colder, nutrient-rich deep water and raises biological productivity and fisheries.
 
-> ** note:** A **sere** is the community sequence in succession. It is **not** the name for nutrient cycling. Ecotone ≠ ecosphere.
+> **Logic:** A **sere** is the community sequence in succession. It is **not** the name for nutrient cycling. Ecotone ≠ ecosphere.
 
 ---
 
@@ -258,7 +265,7 @@ Ecology – Meaning | Ecosystem | Types of Ecosystems | Terrestrial Ecosystem | 
 - When resources are abundant and spread fairly, **more species** can coexist in a community. UPPCS 2024 tests the false claim that species number becomes **small** when resources are sufficient.
 - **Dominant species** often occupy a **broader niche** because they control more resources in the habitat.
 
-> ** note:** Habitat = place. Niche = role (Grinnell). More resources → more species, not fewer.
+> **Logic:** Habitat = place. Niche = role (Grinnell). More resources → more species, not fewer.
 
 **PYQ — UPPCS Prelims 2024, Q9**
 
@@ -289,7 +296,7 @@ D. Dominance of single species becomes minimum if the resource distribution is e
 - **Bergmann's Rule** states that animals in colder climates tend to have larger body size. Bulk helps conserve body heat.
 - **Gloger's Rule** states that darker pigmentation is more common in warm and humid regions.
 
-> ** note:** Allen = smaller appendages in cold. Bergmann = larger body in cold. Do not swap the pair.
+> **Logic:** Allen = smaller appendages in cold. Bergmann = larger body in cold. Do not swap the pair.
 
 ---
 
@@ -314,7 +321,7 @@ D. Dominance of single species becomes minimum if the resource distribution is e
 - When algae die, decomposers multiply and consume **dissolved oxygen** faster than it can be replenished.
 - Fish and other aerobic organisms die from oxygen starvation. marks **both** nutrient enrichment and oxygen depletion as correct.
 
-> ** note:** Eutrophication statement 1 (nutrient enrichment) and statement 2 (DO depletion) are **both true**.
+> **Logic:** Eutrophication statement 1 (nutrient enrichment) and statement 2 (DO depletion) are **both true**.
 
 ---
 
@@ -359,7 +366,7 @@ D. Dominance of single species becomes minimum if the resource distribution is e
 - A **hydrosere** is succession in an aquatic habitat that gradually becomes terrestrial. A pond may pass through floating plants, reeds, marsh, meadow, and finally forest if sediment fills it in.
 - A **xerosere** is succession on dry land starting from bare rock or sand. The usual sequence runs lichen → moss → grass → shrub → forest as soil builds up.
 
-> ** note:** **Sere** = the community **sequence**. Full five phases begin with **Nudation**.
+> **Logic:** **Sere** = the community **sequence**. Full five phases begin with **Nudation**.
 
 **PYQ — UPPCS Prelims 2024, Q26**
 
@@ -401,7 +408,7 @@ D. Migration – Ecesis – Reaction – Stabilisation
 - **Supporting services** underlie provisioning and regulating services. Without soil formation and primary production, food and timber cannot exist.
 - **TEEB** and **IPBES** later pushed economic valuation of ecosystem services for policy.
 
-> ** note:** Timber / food-water = **Provisioning**. Climate-disease control = **Regulating**. Nutrient cycling = **Supporting**. Maintenance of diversity = **Preserving** in five-fold lists.
+> **Logic:** Timber / food-water = **Provisioning**. Climate-disease control = **Regulating**. Nutrient cycling = **Supporting**. Maintenance of diversity = **Preserving** in five-fold lists.
 
 ---
 
@@ -428,7 +435,7 @@ D. Migration – Ecesis – Reaction – Stabilisation
 - Most of the world’s coral reefs lie in **tropical waters**. More than one-third are in the territories of **Australia, Indonesia, and the Philippines**.
 - Coral reefs host far more animal **phyla** than tropical rainforests, despite covering a tiny share of ocean floor.
 
-> ** note:** The **1% rule** applies to energy **captured by producers**. The **10% rule** applies to energy **transferred between trophic levels**. Both can be true in the same question. Productivity order ≠ stability order.
+> **Logic:** The **1% rule** applies to energy **captured by producers**. The **10% rule** applies to energy **transferred between trophic levels**. Both can be true in the same question. Productivity order ≠ stability order.
 
 ---
 
@@ -505,7 +512,7 @@ D. Only 1
 | **Mutualism** | Both species benefit | **Azolla** with *Anabaena* in rice fields |
 | **Commensalism** | One benefits and the other is unaffected | Cattle egret feeding near grazing cattle |
 
-> ** note:** Coral reefs = high **diversity**. Open ocean = high **stability**. These are different 2018 questions.
+> **Logic:** Coral reefs = high **diversity**. Open ocean = high **stability**. These are different 2018 questions.
 
 ---
 

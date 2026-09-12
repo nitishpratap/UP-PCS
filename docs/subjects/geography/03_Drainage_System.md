@@ -59,7 +59,7 @@ Namami Gange and GAP are Ganga cleaning programmes. They are not river-origin fa
 20. **Pranhita** joins **Godavari**. **Hemavati** joins Kaveri. **Malaprabha** joins Krishna. Hyderabad stands on the **Musi**, not the Krishna stem. Ludhiana is on the **Sutlej**, not the Ravi.
 21. West-flowing set: Narmada, Tapi, Mahi, Sabarmati, **Periyar**. East-flowing examples include Pennar and Palar. Narmada and Tapi form **estuaries** in rift valleys; most east-flowing peninsular rivers build **deltas**.
 22. **Luni** is inland: upper course fresh, lower course **saline**. The classic fault-valley tag is **Damodar**; Narmada and Tapi are also rift valleys.
-23. Delta types: **Arcuate** = Sundarbans; **Bird’s-foot** = Mississippi (not Ganga); **moribund subdivision** = Bengal Delta. **Trellis** marks folded structure; **radial** marks Amarkantak; **dendritic** is the common homogeneous pattern.
+23. Delta types: **Arcuate** = Sundarbans; **Bird’s-foot** = Mississippi (not Ganga). **Moribund** as a **Bengal subdivision** ≠ **Cauvery** as a **moribund lobe** match — read the stem. **Trellis** marks folded structure; **radial** marks Amarkantak; **dendritic** is the common homogeneous pattern.
 24. National Waterways: **NW-1** Ganga–Hooghly, **NW-2** Brahmaputra, **NW-3** Kerala, **NW-4** Krishna–Godavari, **NW-5** Brahmani–Mahanadi.
 25. **Ken–Betwa** is the only National Perspective Plan link under implementation, linking Madhya Pradesh and Uttar Pradesh in Bundelkhand.
 26. Uttar Pradesh points: Sangam at **Prayagraj**; **Gomti** is Lucknow’s river and the pollution tag; **Ghaghara** is Ayodhya’s river; the Ganga–Yamuna **Doab** is the core plain.
@@ -134,6 +134,8 @@ Genetic drainage names describe **what the river follows** or **when it formed r
 - A **subsequent** river grows later along a **weak belt** and often joins at right angles — Chambal, Sind, Betwa, Ken, Tons and Son toward Yamuna / Ganga.
 - An **antecedent** river is **older than uplift**; it keeps its course by cutting a gorge through rising land — classic set **Indus, Sutlej, Brahmaputra**; many keys also tag **Ganga**.
 - A **superimposed** river inherits an older course onto newer structure and does **not** follow today’s slope — **Chambal** (also Son in some notes).
+- **Chambal can carry both labels.** **Subsequent** answers stems about a weak-belt tributary joining the Yamuna at right angles. **Superimposed** answers stems about an inherited course that does not follow present structure. Match the **word in the stem**; do not treat the two tags as mutually exclusive facts about different rivers.
+- **Antecedent** is genetic history (river older than Himalayan uplift). **Dendritic** is plan-view pattern on homogeneous rock or alluvium. The Ganga can be **antecedent** in origin keys and still show **dendritic** drainage on the middle–lower plain — those are different questions, not a contradiction.
 - **Concordant** drainage follows structure and slope — most peninsular rivers.
 - **Discordant** drainage cuts **across** structure — Himalayan antecedent rivers.
 - A **river capture (piracy)** happens when a stronger stream steals the headwaters of a weaker one. **Teesta** shifting from Ganga to Brahmaputra is the UPPCS fact.
@@ -256,9 +258,9 @@ D. Only 1
 - Yamuna **right-bank** feeders from west to east are **Chambal**, then **Sind**, then **Betwa**, then **Ken**.
 - The **Chambal** rises near **Mhow / Dr Ambedkar Nagar** on the Malwa Plateau (Janapao / Vindhya class). It is famous for **Chambal Ravines** (badlands), not the Damodar fault-valley tag.
 - The **Betwa** rises in the Vindhya. The **Ken** joins near Banda.
-- Paper numbering 1 Betwa, 2 Ken, 3 Sindh, 4 Chambal gives code **4, 3, 1, 2**.
+- A west-to-east right-bank order stem that lists Betwa, Ken, Sind, and Chambal as items 1–4 answers with Chambal first, then Sind, then Betwa, then Ken.
 
-> **Note:** Ramganga at Kannauj is **true**. Betwa at Prayagraj is **false**. The **Padma** is the Ganga in Bangladesh. The **Jamuna** is the Brahmaputra in Bangladesh.
+> **Logic:** Ramganga at Kannauj is **true**. Betwa at Prayagraj is **false**. The **Padma** is the Ganga in Bangladesh. The **Jamuna** is the Brahmaputra in Bangladesh.
 
 ### Panch Prayag and Uttarakhand
 
@@ -312,7 +314,7 @@ D. 2 4 1 3
 - The **Barak** rises in the Manipur hills (not Arunachal like Lohit/Subansiri). It becomes Surma–Kushiyara, then the **Meghna**, and reaches the **Bay of Bengal**. It is **not** inland drainage.
 - Padma is joined by Jamuna, then by Meghna; the combined Sundarbans delta lies between the Hooghly and the Meghna. The Bengal Delta is subdivided into **moribund, mature, and active** belts.
 
-> ** note:** Padma = Ganga in Bangladesh. Jamuna = Brahmaputra in Bangladesh. Do not swap them with the Yamuna.
+> **Logic:** ** Padma = Ganga in Bangladesh. Jamuna = Brahmaputra in Bangladesh. Do not swap them with the Yamuna.
 
 ---
 
@@ -358,7 +360,7 @@ D. 2 4 1 3
 - **Hemavati, Kabini, Bhavani, and Amravati** are the usual tributaries.
 - It forms the islands of **Srirangapatna, Shivasamudram, and Srirangam**. **Shivasamudram** is also the great Kaveri waterfall by volume.
 - **Mettur (Stanley)** is on the Kaveri, **not** on the Krishna.
-- The Kaveri delta is old and heavily irrigated. The **moribund delta** as a **subdivision** refers to the **Bengal Delta**, not the Kaveri.
+- The Kaveri delta is old and heavily irrigated. In **landform match-lists**, that ageing / abandoned-lobe story is why many keys tag **Cauvery** as a **moribund lobe**. Separately, UPPCS **“moribund subdivision”** stems still answer **Bengal Delta** — do not use Kaveri for that wording.
 - Kaveri water is a **Karnataka–Tamil Nadu** dispute. Basin also touches Kerala and Puducherry.
 
 ### Other east-flowing rivers
@@ -519,8 +521,10 @@ The **Hindon** is a Yamuna **left**-bank stream of western Uttar Pradesh / NCR.
 - **Cuspate delta** forms when waves from two directions meet the river mouth. **Ebro** (Spain) is cited; **Mahanadi** is often used in Indian match-lists.
 - **Lobate delta** is rounded with many shifting mouths. **Godavari** is sometimes classed here for its bulging front.
 - **Moribund delta** means a dying / inactive part of a delta. Rivers there are silted, poorly connected to the main channel, and add little new land. Ox-bow lakes and marshes are common.
-- In Indian geography, **Moribund** is a **subdivision of the Bengal (Ganga–Brahmaputra) Delta**, along with mature and active parts. The moribund belt lies mainly in the older western / north-western delta where distributaries have decayed after the main Ganga discharge shifted east toward the Padma.
-- Do **not** key Krishna–Godavari, Mahanadi, or Cauvery for that “subdivision” stem. Those are different deltas; Bengal alone is classed that way in the standard scheme.
+- Indian papers use **two frames**. Read the stem carefully.
+- If the stem says **subdivision** of a named delta (UPPCS 2019 wording), the answer is the **Bengal (Ganga–Brahmaputra) Delta**, which is classed into **moribund, mature, and active** belts. The moribund belt lies mainly in the older western / north-western delta where distributaries decayed after main discharge shifted east toward the Padma.
+- If the stem asks which river’s delta is classed as a **moribund / abandoned lobe** in landform match-lists, coaching often keys the **Cauvery (Kaveri)** delta — an old, heavily irrigated delta with little active progradation.
+- Do **not** merge the two into one memory line. Do **not** pick Krishna–Godavari or Mahanadi for either classic stem.
 - **Estuary** replaces a delta where waves and tides dominate and the river mouth stays funnel-shaped — **Narmada, Tapi, Mandovi** on India's west coast.
 
 
@@ -535,7 +539,8 @@ The **Hindon** is a Yamuna **left**-bank stream of western Uttar Pradesh / NCR.
 | **Lobate** | Rounded bulge, many mouths | Godavari (often) |
 | **Bird’s-foot** | Long finger-like distributaries | **Mississippi** — **not** Ganga |
 | **Cuspate** | Pointed front from opposing waves | Ebro; **Mahanadi** often cited for India |
-| **Moribund** | Dying / inactive **subdivision** of a large delta | **Bengal Delta** (2019) — with mature and active belts |
+| **Moribund (Bengal subdivision stem)** | Dying belt inside a large delta’s moribund–mature–active scheme | **Bengal Delta** (UPPCS 2019) |
+| **Moribund (lobe / river match stem)** | Abandoned / ageing delta lobe | **Cauvery** in many landform keys |
 | Estuarine mouth | Tidal funnel, little delta build-up | Narmada, Tapi |
 
 ### Origins, cities, dams (one home)

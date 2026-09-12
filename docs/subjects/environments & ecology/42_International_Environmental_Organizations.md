@@ -14,6 +14,13 @@ UNEP | UNDP | FAO | UNESCO | IUCN | WWF | IPCC | WMO | GEF | Greenpeace
 
 ---
 
+## Current Affairs (this topic)
+
+- UNEP / IUCN / IPCC / GEF role headlines refresh institutional CA.
+- HQ and mandate traps stay fixed teaching.
+
+---
+
 ## Consolidated — 24 Must-Score Facts
 
 1. **UNEP** was created after **Stockholm 1972**. Its HQ is **Nairobi**. Flagship products include the **Emissions Gap Report** and **GEO**.
@@ -90,7 +97,7 @@ Options: A. Only 2 B. Neither C. Both D. Only 1
 
 </details>
 
-> ** note:** Emissions Gap ≠ IPCC Assessment Report.
+> **Logic:** Emissions Gap ≠ IPCC Assessment Report.
 
 ---
 
@@ -130,7 +137,7 @@ Options: A. UNDP B. IMF C. UNICEF D. UNCTAD
 
 </details>
 
-> ** note:** UNDP ≠ UNEP. HDR ≠ Emissions Gap.
+> **Logic:** UNDP ≠ UNEP. HDR ≠ Emissions Gap.
 
 ---
 
@@ -145,7 +152,7 @@ Options: A. UNDP B. IMF C. UNICEF D. UNCTAD
 - Jointly administers the **Rotterdam Convention** (PIC for hazardous chemicals in trade) with **UNEP**.
 - Not the publisher of HDR, Emissions Gap, or Red List.
 
-> ** note:** FAO HQ = **Rome**, not Nairobi.
+> **Logic:** FAO HQ = **Rome**, not Nairobi.
 
 ---
 
@@ -184,7 +191,7 @@ Options: A. Club of Rome B. UNESCO C. Brundtland D. Agenda 21
 
 </details>
 
-> ** note:** UNESCO = WH/MAB. UNEP = environment programme.
+> **Logic:** UNESCO = WH/MAB. UNEP = environment programme.
 
 ---
 
@@ -199,7 +206,7 @@ Options: A. Club of Rome B. UNESCO C. Brundtland D. Agenda 21
 - Assesses scientific extinction risk; does **not** regulate wildlife trade — **CITES** does.
 - Advises CBD/CITES scientifically but is a separate organisation.
 
-> ** note:** “IUCN bans trade” = false. **CITES** regulates trade.
+> **Logic:** “IUCN bans trade” = false. **CITES** regulates trade.
 
 ---
 
@@ -215,7 +222,7 @@ Options: A. Club of Rome B. UNESCO C. Brundtland D. Agenda 21
 - Known for the **giant panda** logo and flagship-species campaigns.
 - Campaigns and advocates; IUCN assesses via Red List.
 
-> ** note:** Living Planet = **WWF**. Red List = **IUCN**.
+> **Logic:** Living Planet = **WWF**. Red List = **IUCN**.
 
 ---
 
@@ -230,7 +237,7 @@ Options: A. Club of Rome B. UNESCO C. Brundtland D. Agenda 21
 - Shared the **Nobel Peace Prize 2007** with Al Gore.
 - **UNFCCC/COP** is the policy–treaty track; IPCC informs it.
 
-> ** note:** IPCC ≠ UNFCCC. IPCC ≠ Emissions Gap Report.
+> **Logic:** IPCC ≠ UNFCCC. IPCC ≠ Emissions Gap Report.
 
 ---
 

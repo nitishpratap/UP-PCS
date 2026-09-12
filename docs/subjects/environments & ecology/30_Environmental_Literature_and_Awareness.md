@@ -14,6 +14,13 @@ Environmental Literature | Environmental Education | Environmental Awareness | E
 
 ---
 
+## Current Affairs (this topic)
+
+- Book–author pairs (Carson, Fukuoka, etc.) stay fixed; new award themes are light CA.
+- Silent Spring ≠ Silent Valley (movement).
+
+---
+
 ## Consolidated — 22 Must-Score Facts
 
 1. Four pillars on this sheet: **literature** (landmark books/reports), **education** (formal EE), **awareness** (public campaigns), and **communication** (science to citizens).
@@ -109,7 +116,7 @@ Options: A. Carolyn Merchant B. Karl Marx C. Rachel Carson D. Rajgopalan
 | Our Common Future | Brundtland / WCED | 1987 |
 | Green Development | W.M. Adams | 1990 |
 
-> ** note:** Carson ≠ Hardin. Brundtland ≠ Limits to Growth. Fukuoka = natural farming.
+> **Logic:** Carson ≠ Hardin. Brundtland ≠ Limits to Growth. Fukuoka = natural farming.
 
 ---
 
@@ -147,7 +154,7 @@ Options: A. Sustainable Development B. Polluter Pays C. Environmental Education 
 | 2017 | GSDP |
 | 2020 | NEP 2020 ESD integration |
 
-> ** note:** ECO Club = MoEFCC NGC. Tbilisi = EE; Stockholm = UNEP birth — different milestones.
+> **Logic:** ECO Club = MoEFCC NGC. Tbilisi = EE; Stockholm = UNEP birth — different milestones.
 
 ---
 

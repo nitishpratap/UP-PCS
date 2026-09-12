@@ -91,7 +91,7 @@ No new school-vs-stone CA (verified August 2026).
 - Hindu temple deities become standard from the **Gupta** age onward.
 - **Yaksha** images are older than the Buddha image.
 
-> ** note:** Never swap **Gandhara (NW)** with **Mathura (UP)** or **Amaravati (Andhra)**.
+> **Logic:** Never swap **Gandhara (NW)** with **Mathura (UP)** or **Amaravati (Andhra)**.
 
 ---
 
@@ -110,7 +110,7 @@ No new school-vs-stone CA (verified August 2026).
 - **Deogarh Dashavatara** carries Vishnu panels on an early structural temple.
 - Terracotta continues at **Ahichhatra** and **Kaushambi** in UP.
 
-> ** note:Sarnath Buddha = Gupta + dharmachakra**. Kushan Mathura is heavier.
+> **Logic:** Sarnath Buddha = Gupta + dharmachakra**. Kushan Mathura is heavier.
 
 ---
 
@@ -121,7 +121,8 @@ No new school-vs-stone CA (verified August 2026).
 - Early Buddhist art is **aniconic**. The Buddha is shown as a wheel, footprints, an empty throne, the Bodhi tree, or a stupa.
 - **Bharhut** is **Shunga**. Panels are labelled Jatakas. Yakshi brackets appear. It is not Mauryan.
 - **Sanchi** toranas carry narrative scenes and Yakshis. Early railings still avoid a human Buddha.
-- The human Buddha becomes normal in the **Kushan** age at Gandhara and Mathura.
+- The human Buddha becomes normal in the **Kushan** age at **Gandhara** and **Mathura**.
+- **Amaravati** and **Nagarjunakonda** (Ikshvaku belt) develop Andhra limestone narrative relief around the stupa.
 - **Dharmachakra mudra** turns the wheel. It marks the Sarnath sermon.
 - **Bhumisparsha mudra** is earth-witness. It marks enlightenment.
 - **Abhaya mudra** means fearlessness.
@@ -129,8 +130,22 @@ No new school-vs-stone CA (verified August 2026).
 - **Varada mudra** means boon-giving.
 - Bodhisattvas look princely. They wear jewellery. Gandhara types may have a moustache. They are not the shaved monk Buddha.
 - Pala Bihar–Bengal later casts Buddhist bronzes around Nalanda.
+- Jain sculpture homes such as Mathura **Kankali Tila**, Dilwara, and Ellora’s Jain caves belong to a parallel sacred-art map — do not dump every cave under “Buddhist only.”
 
-> ** note:Early Sanchi = aniconic**. **Iconic Buddha = Kushan onward**.
+### Buddhist / Jain art-site matrix (quick)
+
+| Site | Region | School / age cue | What to mark |
+|------|--------|------------------|--------------|
+| **Bharhut** | MP | Shunga relief | Early railing narratives; aniconic |
+| **Sanchi** | MP | Mauryan start → later | Toranas; early aniconic, later icons |
+| **Amaravati** | Andhra | Satavahana–Ikshvaku | Limestone panels; Aryaka-pillars |
+| **Nagarjunakonda** | Andhra | Ikshvaku | Related Andhra relief belt |
+| **Ajanta** | Maharashtra | Vakataka peak | Painted caves + chaitya / vihara |
+| **Ellora Jain caves** | Maharashtra | Later rock-cut | Caves **30–34** Jain — not Buddhist-only |
+| **Mathura Kankali Tila** | UP | Kushan–Gupta | Jain image findspot |
+| **Dilwara / Ranakpur / Palitana** | West India | Medieval Jain | Marble temple sculpture |
+
+> **Logic:** Early Sanchi = aniconic. Iconic Buddha = Kushan onward. Amaravati ≠ Bodh Gaya.
 
 ---
 
@@ -148,12 +163,12 @@ No new school-vs-stone CA (verified August 2026).
 - **Hoysala** temples at Belur and Halebidu use **soapstone** (chloritic schist). Carving is jewellery-fine. The plan is star-shaped.
 - **Ellora Kailasa (cave 16)** is Rashtrakuta. The whole temple is cut down from living rock.
 - **Elephanta** holds the **Maheshamurti / Trimurti** Shiva. It is not Ellora Kailasa.
-- **Gommateshwara (Bahubali)** stands at **Shravanabelagola** in Karnataka. It is a colossal Jain image in **kayotsarga**. **Mahamastakabhisheka** is held every **12** years.
+- **Gommateshwara (Bahubali)** stands at **Shravanabelagola** in Karnataka. It is a colossal Jain image in **kayotsarga. Mahamastakabhisheka** is held every **12** years.
 - **Modhera** is a Solanki Surya temple in Gujarat.
 - Puri Jagannath images are **wood**. That is the exception to stone and bronze.
 - The garbhagriha holds the main murti. The shikhara or vimana carries dikpalas and other deities.
 
-> ** note:Khajuraho = mithuna + Chandela**. **Konark = chariot wheels**. **Mahabalipuram = Pallava relief**.
+> **Logic:** Khajuraho = mithuna + Chandela. Konark = chariot wheels. Mahabalipuram = Pallava relief**.
 
 ---
 
@@ -173,7 +188,7 @@ No new school-vs-stone CA (verified August 2026).
 - **Didarganj Yakshi** (Chauri-bearer) has Mauryan polish. The find is from Patna. She is a Yakshi, not a Buddha.
 - **Parkham Yaksha** is from the Mathura region. It is a colossal early stone guardian.
 
-> ** note:Chunar = Mauryan polish**. **Red sandstone = Mathura**. **Schist = Gandhara**.
+> **Logic:** Chunar = Mauryan polish. Red sandstone = Mathura. Schist = Gandhara**.
 
 ---
 
@@ -191,11 +206,13 @@ No new school-vs-stone CA (verified August 2026).
 - The right foot crushes **Apasmara**, the dwarf of ignorance.
 - The ring of fire is the **prabhamandala**.
 - Pala–Sena eastern India casts Buddhist bronzes of Buddha, Tara and Avalokiteshvara.
+- The Pala–Sena metal school centres on **Bihar–Bengal**, especially the **Nalanda** orbit, with dark polished bronze and serene Mahayana icons.
 - The **Sultanganj Buddha** is a colossal copper image from Bihar. It is now in the British Museum. It is Pala-age metal, not a Chola Nataraja.
+- Do not swap Pala bronzes with Chola **Nataraja** processional icons or with tribal **Dhokra**.
 - **Dhokra** is tribal lost-wax bell-metal from the Bastar belt. It is not a Chola temple icon.
 - The Indus people also used copper tools. The bronze is still the Dancing Girl.
 
-> ** note:Nataraja = Chola lost-wax**. **Dancing Girl = Harappan bronze**. Do not swap.
+> **Logic:** Nataraja = Chola lost-wax. Dancing Girl = Harappan bronze. Pala = eastern Buddhist bronze — do not swap.
 
 ---
 
@@ -210,13 +227,13 @@ No new school-vs-stone CA (verified August 2026).
 - Patronage is **Kushan**, in Kanishka’s world. This is not a Gangetic red-sandstone school.
 - It is not Amaravati. It is not UP.
 
-> ** note:Gandhara = schist + Greco-Roman**. If the option says red sandstone, it is Mathura.
+> **Logic:** Gandhara = schist + Greco-Roman**. If the option says red sandstone, it is Mathura.
 
 ---
 
 ## 12.8 Mathura School
 
-**Region:Mathura, UP** | **Stone:** red / spotted **sandstone** | **Age:** Kushan into Gupta
+**Region:** Mathura, UP** | **Stone:** red / spotted **sandstone** | **Age:** Kushan into Gupta
 
 - The Buddha here is indigenous Indian. The body is fleshy. Early Kushan eyes are often open.
 - The same workshops cut **Jain Tirthankaras**. Mathura is Buddhist and Jain.
@@ -224,7 +241,7 @@ No new school-vs-stone CA (verified August 2026).
 - Gupta-period Mathura images exist. The calm “poster” Buddha is still usually **Sarnath**.
 - The stone is not grey schist. It is not Andhra limestone.
 
-> ** note:Mathura = red sandstone + UP**. Jain + Buddhist together.
+> **Logic:** Mathura = red sandstone + UP**. Jain + Buddhist together.
 
 ---
 
@@ -238,7 +255,7 @@ No new school-vs-stone CA (verified August 2026).
 - Bodies are flowing. They are not Gandhara’s toga-Buddha.
 - The first identity is not Mathura’s free-standing red-sandstone icon.
 
-> ** note:Amaravati = limestone + Aryaka-pillars**. Not Bodh Gaya, not Sanchi.
+> **Logic:** Amaravati = limestone + Aryaka-pillars**. Not Bodh Gaya, not Sanchi.
 
 **PYQ — UPPCS Prelims 2022, Q80**
 

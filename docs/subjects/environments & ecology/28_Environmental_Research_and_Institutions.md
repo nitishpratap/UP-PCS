@@ -14,6 +14,13 @@ BSI | ZSI | FSI | FRI | WII | NBA | SBB | BMC | NBPGR
 
 ---
 
+## Current Affairs (this topic)
+
+- FRI / FSI / WII / IIRS function traps are evergreen Dehradun CA colour.
+- Do not swap ISFR (FSI) with FRI research mandate.
+
+---
+
 ## Consolidated — 24 Must-Score Facts
 
 1. Headquarters map: **Kolkata** — BSI and ZSI; **Dehradun** — FSI, FRI, and WII; **New Delhi** — NBPGR; **Chennai** — NBA.
@@ -72,7 +79,7 @@ BSI | ZSI | FSI | FRI | WII | NBA | SBB | BMC | NBPGR
 - Discovers and describes new plant species — especially Western Ghats, Northeast, Andamans.
 - **Does not** survey animals (ZSI), map forest cover (FSI), or store crop gene banks (NBPGR).
 
-> ** note:** BSI = **plants only**. "BSI surveys animals" = **FALSE**.
+> **Logic:** BSI = **plants only**. "BSI surveys animals" = **FALSE**.
 
 ---
 
@@ -86,7 +93,7 @@ BSI | ZSI | FSI | FRI | WII | NBA | SBB | BMC | NBPGR
 - Maintains type specimens; scientific data informs WPA Schedule amendments.
 - **ZSI ≠ WII:** ZSI = species inventory/taxonomy; WII = applied wildlife ecology and training.
 
-> ** note:** ZSI = **animals only**. Younger than BSI (1890 vs 1916).
+> **Logic:** ZSI = **animals only**. Younger than BSI (1890 vs 1916).
 
 ---
 
@@ -114,7 +121,7 @@ Options: A. 1 and 2 B. Only 3 C. 2 and 3 D. Only 1
 
 </details>
 
-> ** note:** ISFR = **FSI only**. Bahraich Terai ≠ automatically >20% cover.
+> **Logic:** ISFR = **FSI only**. Bahraich Terai ≠ automatically >20% cover.
 
 ---
 
@@ -134,7 +141,7 @@ Options: A. 1 and 2 B. Only 3 C. 2 and 3 D. Only 1
 | Role | Research | Cover survey |
 | Output | Silviculture protocols | **ISFR** |
 
-> ** note:** "FRI publishes ISFR" = **FALSE**.
+> **Logic:** "FRI publishes ISFR" = **FALSE**.
 
 ---
 
@@ -149,7 +156,7 @@ Options: A. 1 and 2 B. Only 3 C. 2 and 3 D. Only 1
 - Studies population ecology, human–wildlife conflict, corridors (including UP Terai).
 - **Does not** do national plant/animal taxonomy (BSI/ZSI) or publish ISFR (FSI).
 
-> ** note:** Dehradun trio — **FSI** (cover), **FRI** (forestry research), **WII** (wildlife).
+> **Logic:** Dehradun trio — **FSI** (cover), **FRI** (forestry research), **WII** (wildlife).
 
 ---
 
@@ -170,7 +177,7 @@ Options: A. 1 and 2 B. Only 3 C. 2 and 3 D. Only 1
 | State | SBB | State capital | Domestic commercial access |
 | Local | BMC | Panchayat/ward | **PBR** |
 
-> ** note:** NBA HQ = **Chennai**. "NBA prepares PBR" = **FALSE**.
+> **Logic:** NBA HQ = **Chennai**. "NBA prepares PBR" = **FALSE**.
 
 ---
 
@@ -185,7 +192,7 @@ Options: A. 1 and 2 B. Only 3 C. 2 and 3 D. Only 1
 - Can identify/recommend **Biodiversity Heritage Sites**.
 - **SBB ≠ SPCB:** SBB = biodiversity (BDA); SPCB = pollution (Water/Air Acts).
 
-> ** note:** Do not confuse State Biodiversity Board with State Pollution Control Board.
+> **Logic:** Do not confuse State Biodiversity Board with State Pollution Control Board.
 
 ---
 
@@ -199,7 +206,7 @@ Options: A. 1 and 2 B. Only 3 C. 2 and 3 D. Only 1
 - Works under SBB guidance; national reporting links upward to NBA.
 - **PBR is not prepared by NBA or BSI**.
 
-> ** note:BMC → PBR**. National apex ≠ local register.
+> **Logic:** BMC → PBR**. National apex ≠ local register.
 
 ---
 
@@ -214,7 +221,7 @@ Options: A. 1 and 2 B. Only 3 C. 2 and 3 D. Only 1
 - **NBPGR ≠ BSI:** BSI surveys/taxonomy (Kolkata); NBPGR stores germplasm (Delhi).
 - **NBPGR ≠ NBAGR:** animals/livestock gene bank is **NBAGR, Karnal**.
 
-> ** note:** NBPGR = **New Delhi**, plants. Not Kolkata. Not animal gene bank.
+> **Logic:** NBPGR = **New Delhi**, plants. Not Kolkata. Not animal gene bank.
 
 ---
 

@@ -29,10 +29,10 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 1. The six **Astika** schools that accept the Veda as pramana are **Nyaya–Gautama**, **Vaisheshika–Kanada**, **Samkhya–Kapila**, **Yoga–Patanjali**, **Mimamsa–Jaimini**, and **Vedanta–Badarayana**.
 2. The usual **Nastika** set is **Charvaka**, **Buddhism**, and **Jainism**. Add **Ajivika** (**Makkhali Gosala**) when fate / *niyati* appears in options.
 3. **Nyaya** is logic and epistemology with four pramanas. **Vaisheshika** is atomism. This Gautama is **not** the Buddha.
-4. **Samkhya** is dualist Purusha–Prakriti with **25** tattvas and is classically **nirishvara**. **Yoga** is its practical partner and adds **Ishvara**.
+4. **Samkhya** is dualist Purusha–Prakriti with **25** tattvas and is classically **nirishvara. Yoga** is its practical partner and adds **Ishvara**.
 5. **Ashtanga Yoga** order is **yama, niyama, asana, pranayama, pratyahara, dharana, dhyana, samadhi**.
-6. **Purva Mimamsa** (Jaimini) treats Vedic **ritual**. **Uttara Mimamsa / Vedanta** (Badarayana) treats the Upanishads. Kapila is **not** Vedanta.
-7. **Shankara** taught **Advaita**. **Ramanuja** taught **Vishishtadvaita**. **Madhva** taught **Dvaita**. **Nimbarka** taught **Dvaitadvaita**. **Vallabha** taught **Shuddhadvaita**.
+6. **Purva Mimamsa** (Jaimini) treats Vedic **ritual. Uttara Mimamsa / Vedanta** (Badarayana) treats the Upanishads. Kapila is **not** Vedanta.
+7. **Shankara** taught **Advaita. Ramanuja** taught **Vishishtadvaita. Madhva** taught **Dvaita. Nimbarka** taught **Dvaitadvaita. Vallabha** taught **Shuddhadvaita**.
 8. Shankara’s four mathas fact as **Sringeri–Yajurveda**, **Dwaraka–Samaveda**, **Puri–Rigveda**, and **Badri / Jyotirmath–Atharvaveda**.
 9. Vedic stack order is **Samhita → Brahmana → Aranyaka → Upanishad**. *Tat tvam asi* is from the **Chandogya** Upanishad. **Brahman** is not the same word as **Brahmin**.
 10. Buddha’s life geography is **Lumbini** (birth), **Bodh Gaya** in Bihar (enlightenment), **Sarnath** in UP (first sermon), and **Kushinagar** in UP (death).
@@ -42,10 +42,10 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 14. **Parshva** taught four vows. **Mahavira** added **Brahmacharya** as the fifth. The Svetambara canon has **12 Angas**.
 15. **Digambara** monks are sky-clad and deny women monks. **Svetambara** monks wear white and admit women monks.
 16. **Anekantavada** is many-sided reality. **Syadvada** is the seven-fold “syad” speech about that reality.
-17. Bhakti chronology often runs **Namdev → Kabir → Nanak → Chaitanya**. **Kabir** was a disciple of **Ramananda**. **Surdas** belongs to **Vallabha**’s line. **Tulsidas** wrote in **Awadhi**.
+17. Bhakti chronology often runs **Namdev → Kabir → Nanak → Chaitanya. Kabir** was a disciple of **Ramananda. Surdas** belongs to **Vallabha**’s line. **Tulsidas** wrote in **Awadhi**.
 18. Tamil bhakti facts are **12 Alvars** (Andal the only woman) and **63 Nayanars**. The four Samayacharyas are **Appar, Sambandar, Sundarar, and Manikkavachakar**.
 19. **Chishti** Sufis at Ajmer / Delhi favour **sama** and qawwali. **Suhrawardi** is linked with Multan. **Nizamuddin Auliya** belongs to **Delhi**.
-20. *Fawaid-ul-Fuad* records Nizamuddin’s conversations as compiled by **Amir Hasan Sijzi**. **Wahdat-ul-wujud** (Ibn Arabi) is not the same as **wahdat-ush-shuhud** (Sirhindi).
+20. *Fawaid-ul-Fuad* records Nizamuddin’s conversations as compiled by **Amir Hasan Sijzi. Wahdat-ul-wujud** (Ibn Arabi) is not the same as **wahdat-ush-shuhud** (Sirhindi).
 21. Among the ten Sikh Gurus, **Angad** gave **Gurmukhi**, **Arjan** compiled the **Adi Granth**, and **Gobind Singh** founded the **Khalsa** in **1699**.
 22. The five Sikh Takhts are **Akal Takht**, **Keshgarh Sahib**, **Damdama Sahib**, **Patna Sahib**, and **Hazur Sahib**.
 23. Pramana count traps: **Charvaka** accepts only one, **Nyaya** accepts four, and Mimamsa–Kumarila / Vedanta often accept **six**.
@@ -95,7 +95,7 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 - It has **16 padarthas** (categories of debate): pramana, prameya, samshaya, prayojana, drishtanta, siddhanta, avayava, tarka, nirnaya, vada, jalpa, vitanda, hetvabhasa, chala, jati, nigrahasthana.
 - It complements Vaisheshika (logic + atomism).
 
-> ** note:** This Gautama is **not** the Buddha. Kanada is **not** Nyaya.
+> **Logic:** This Gautama is **not** the Buddha. Kanada is **not** Nyaya.
 
 ### Vaisheshika
 
@@ -268,7 +268,7 @@ D. 4, 3, 2, 1
 - Early Vedic gods include **Indra** (war/rain), **Agni**, **Varuna** (rta), Soma, and Ushas. The Trimurti (Brahma–Vishnu–Shiva) is **post-Vedic**.
 - Smriti facts are Manu, Yajnavalkya, Narada, and Parashara. Itihasa is Valmiki’s Ramayana plus Vyasa’s Mahabharata. There are **18 Mahapuranas** (Bhagavata, Vishnu, Shiva, Markandeya, and others).
 
-> ** note:** Upanishads = jñāna-kāṇḍa = Vedanta. Brahmanas = karma-kāṇḍa. Rigveda = oldest.
+> **Logic:** Upanishads = jñāna-kāṇḍa = Vedanta. Brahmanas = karma-kāṇḍa. Rigveda = oldest.
 
 ---
 
@@ -844,7 +844,7 @@ D. (A) is false, but (R) is true
 - **Takht Sri Patna Sahib** is at Patna (Gobind’s birth).
 - **Takht Sri Hazur Sahib** is at Nanded (Gobind’s death, **1708**).
 
-> ** note:** Jain = most urbanised. Khalsa = 1699 Gobind Singh. Adi Granth = Arjan.
+> **Logic:** Jain = most urbanised. Khalsa = 1699 Gobind Singh. Adi Granth = Arjan.
 
 **PYQ — UPPCS Prelims 2022, Q96**
 
@@ -902,7 +902,7 @@ D. Jain
 
 - Constitutional frame: Preamble secular (**42nd** Amendment). Arts. **25–28**.
 
-> ** note:** Kumbh = intangible **2017**, not a monument. Relic-worship built the **stupa**.
+> **Logic:** Kumbh = intangible **2017**, not a monument. Relic-worship built the **stupa**.
 
 ---
 

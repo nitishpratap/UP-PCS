@@ -2,14 +2,23 @@
 
 ### ★ UKPCS state card (Unit 3)
 
-> **High-yield 2025 stems:** Panchayat records (Q134) · Asian Mayors’ Conference venue (Q133).
+> **Sources:** 73rd / 74th Amendment pattern, UKPCS Panchayat-record and mayors’ conference keys.  
+> **High-yield 2025:** Panchayat records (Q134) · Asian Mayors’ Conference venue (Q133).  
+> **National twin:** [Local Government](../10_Local_Government.md).
+
+---
+
+## Current Affairs (this topic)
+
+- Panchayat election / SEC news can refresh institutional identity.
+- Keep the 2006 Asian Mayors’ Conference venue as **Dehradun**.
 
 ---
 
 ## Quick Revision — Spine Only
 
-| Head | Lock |
-|------|------|
+| Head | Key |
+|------|-----|
 | Structure | 73rd / 74th pattern — Gram Panchayat · intermediate · Zila / urban bodies |
 | Records kept by Panchayats | **Family register** · **Birth–death registration register** · **Grant register** |
 | Record **not** by Panchayats (2025) | **Health register** (health department) |
@@ -20,9 +29,9 @@
 
 ## Confused Pairs
 
-| Pair | Lock |
-|------|------|
-| Health register vs birth–death register | Health register ≠ Panchayat record; birth–death is kept |
+| Pair | Key |
+|------|-----|
+| Health register vs birth–death register | Health register ≠ Panchayat record; birth–death **is** kept |
 | Mayors’ Conference Mussoorie / Haridwar | Keyed venue **Dehradun** |
 | Grant register vs health register | Grant register is maintained; health is not |
 | Municipal vs Panchayat records | Stem is about **Panchayats** |
@@ -31,13 +40,19 @@
 
 ## 6.1 Panchayati Raj sketch
 
-- Uttarakhand implements the constitutional three-tier rural local government framework with state Adaptations.
+**Identity:** Three-tier rural local government | State adaptations of 73rd Amendment.
+
+- Uttarakhand implements the constitutional three-tier rural local government framework with State adaptations.
+- Typical stack is **Gram Panchayat → intermediate / Kshetra Panchayat → Zila Panchayat**.
 - Urban local bodies cover Nagar Nigam / Palika / Panchayat forms in the plains and hill towns.
 - Community development machinery historically linked block-level schemes to village institutions.
+- State Election Commission architecture for local body polls follows the national 73rd / 74th pattern.
 
 ---
 
 ## 6.2 Records ratta
+
+**Identity:** Three Panchayat registers | health register is the odd one.
 
 - Gram Panchayats maintain the **family register**, **birth and death registration register**, and **grant register**.
 - A separate **health register** is a health-department record, not a Panchayat register in the 2025 key.
@@ -47,8 +62,9 @@
 
 ## 6.3 Urban governance CA hook
 
-- The **first Asian Mayors’ Conference** in Uttarakhand (2006) was held at **Dehradun**.
+- The **first Asian Mayors’ Conference** in Uttarakhand (**2006**) was held at **Dehradun**.
 - It is an urban-governance venue stem, not a Panchayat record stem.
+- Do not pick Mussoorie, Haridwar, or Rishikesh for that 2006 venue.
 
 ---
 
@@ -68,10 +84,10 @@
 
 Which record is not maintained by the Panchayats in Uttarakhand?
 
-A. Health register 
-B. Family register 
-C. Birth-death registration register 
-D. Grant register 
+A. Health register  
+B. Family register  
+C. Birth-death registration register  
+D. Grant register  
 
 <details>
 <summary>Show answer</summary>
@@ -86,15 +102,15 @@ D. Grant register
 
 Where was the first Asian Mayors' Conference held in Uttarakhand in 2006?
 
-A. Haridwar 
-B. Mussoorie 
-C. Dehradun 
-D. Rishikesh 
+A. Haridwar  
+B. Mussoorie  
+C. Dehradun  
+D. Rishikesh  
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Four state cities — 2006 conference venue.
+**Logic:** Four State cities — 2006 conference venue.
 
 **Ans: C (Series B provisional key).** Hosted at Dehradun in 2006.
 

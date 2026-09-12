@@ -14,6 +14,13 @@ Desertification | Land Degradation | Drought | Soil Erosion
 
 ---
 
+## Current Affairs (this topic)
+
+- Twin of Desertification & Land Degradation — UNCCD / LDN CA refresh.
+- Keep desertification ≠ drought-only wording clear.
+
+---
+
 ## Consolidated — 22 Must-Score Facts
 
 1. **Desertification** is land degradation in **arid, semi-arid, and dry sub-humid (ASDM)** drylands. It is not merely “the desert expanding.”
@@ -80,7 +87,7 @@ Options: A. 2025 B. 2030 C. 2035 D. 2040
 
 </details>
 
-> ** note:** Bundelkhand (dry sub-humid) can desertify — not only sand deserts.
+> **Logic:** Bundelkhand (dry sub-humid) can desertify — not only sand deserts.
 
 ---
 
@@ -102,7 +109,7 @@ Options: A. 2025 B. 2030 C. 2035 D. 2040
 | Waterlogging | Poor drainage |
 | Mining / pollution | Direct land damage |
 
-> ** note:** UNCCD ≠ UNFCCC. LDN year = **2030**.
+> **Logic:** UNCCD ≠ UNFCCC. LDN year = **2030**.
 
 ---
 
@@ -133,7 +140,7 @@ Options: A. 4, 2, 3, 1 B. 2, 4, 1, 3 C. 2, 4, 3, 1 D. 4, 2, 1, 3
 
 </details>
 
-> ** note:** Drought ≠ famine automatically; drought ≠ permanent desert.
+> **Logic:** Drought ≠ famine automatically; drought ≠ permanent desert.
 
 ---
 
@@ -169,7 +176,7 @@ Options: A. Pliocene B. Paleocene C. Pleistocene and recent deposits D. Oligocen
 | Ravine | Deep badlands (Chambal) |
 | Wind | Deflation + abrasion |
 
-> ** note:** Afforestation and shelter belts **prevent** erosion — they are not causes.
+> **Logic:** Afforestation and shelter belts **prevent** erosion — they are not causes.
 
 ---
 

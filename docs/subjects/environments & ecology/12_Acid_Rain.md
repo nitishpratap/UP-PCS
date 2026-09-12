@@ -14,6 +14,13 @@ Acid Rain | Causes | Effects | Prevention
 
 ---
 
+## Current Affairs (this topic)
+
+- Acid-rain CA is rare; keep SO₂ / NOₓ chemistry and dry vs wet deposition stable.
+- Do not confuse acid rain with ozone hole or greenhouse trapping.
+
+---
+
 ## Consolidated — 24 Must-Score Facts
 
 1. **Acid rain** means wet or dry acidic deposition with pH below **5.6**.

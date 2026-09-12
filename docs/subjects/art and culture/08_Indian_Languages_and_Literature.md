@@ -46,7 +46,7 @@ Yuva Puraskar is Sahitya Akademi’s young-writer prize (under 35), not Jnanpith
 14. Classical language status now covers **11** languages after **3 October 2024**, when Marathi, Pali, Prakrit, Assamese, and Bengali were added.
 15. Earlier classical tags fact as Tamil **2004**, Sanskrit **2005**, Kannada and Telugu **2008**, Malayalam **2013**, and Odia **2014**.
 16. UP Hindi–Awadhi–Braj facts: **Tulsidas** wrote the Awadhi *Ramcharitmanas*, **Surdas** wrote in **Braj**, and **Malik Muhammad Jayasi** wrote the Awadhi *Padmavat*.
-17. **Kabir** is linked with **Maghar / Sant Kabir Nagar**. **Premchand** wrote *Godan*. **Bhartendu Harishchandra** belongs to Banaras.
+17. **Kabir** is linked with **Maghar / Sant Kabir Nagar. Premchand** wrote *Godan*. **Bhartendu Harishchandra** belongs to Banaras.
 18. **Kavindra Acharya** of Banaras was patronised by **Shah Jahan**. This is a UP court-literature fact.
 19. Itihasa means the epics Ramayana and Mahabharata. The **eighteen** Maha Puranas are a separate Smriti class.
 20. Kavya is poem (*Meghaduta*). Nataka is drama (*Shakuntala*). Do not treat every Sanskrit title as a play.
@@ -122,7 +122,7 @@ Yuva Puraskar is Sahitya Akademi’s young-writer prize (under 35), not Jnanpith
 - The Jain canon is Prakrit / Ardhamagadhi **Agamas**. Svetambara Angas number **12**.
 - Ancient literature is not “religion only.” Grammar, statecraft and Ayurveda count as ancient literature.
 
-> ** note:** Panini ≠ Kalidasa. Tripitaka ≠ Sanskrit. *Natural History* ≠ Ptolemy.
+> **Logic:** Panini ≠ Kalidasa. Tripitaka ≠ Sanskrit. *Natural History* ≠ Ptolemy.
 
 ---
 
@@ -314,13 +314,13 @@ D. Kathak
 - **Harivamsha** is a khila (appendix) of the Mahabharata and a Krishna cycle.
 - Both epics are **Smriti / itihasa**, not Shruti.
 
-> ** note:** Gita ≠ a separate Veda. Tulsidas ≠ Valmiki.
+> **Logic:** Gita ≠ a separate Veda. Tulsidas ≠ Valmiki.
 
 ---
 
 ## 8.5 Puranic Literature
 
-**Count:18** Mahapuranas + 18 Upapuranas (names of the 18 Maha are the set)
+**Count:** 18** Mahapuranas + 18 Upapuranas (names of the 18 Maha are the set)
 
 **Pancha-lakshana idea:** sarga, pratisarga, vamsha, manvantara, vamshanucharita.
 
@@ -425,7 +425,7 @@ D. Neither 1 nor 2
 - **Ghazal** is an Urdu lyric, sung as light-classical.
 - Kashmiri facts are Lal Ded and *Kathasaritsagara* in Sanskrit from Kashmir.
 
-> ** note:** Awadhi = Tulsidas/Jayasi. Braj = Surdas. Premchand = UP novel, not a Bhakti sant.
+> **Logic:** Awadhi = Tulsidas/Jayasi. Braj = Surdas. Premchand = UP novel, not a Bhakti sant.
 
 ---
 
@@ -576,7 +576,7 @@ D. Both true and R explains A
 - *Lalitavigraharaja* drama is linked with **Somadeva**. The *Vayu Purana* remembers the Mahanadi under the ancient name **Nilotpala**.
 - Rajasthani raso traps: *Prithviraj Raso*–**Chand Bardai**; *Bisaldeva Raso*–**Narapati**; *Khuman Raso*–**Dalpat Vijay** (not Karnidan); *Shatrusal Raso*–**Dungar Singh**.
 
-> ** note:** Tutinama translator = **Nakhshabi**, not Khusrau. Banaras Sanskrit patron of that PYQ = **Shah Jahan**.
+> **Logic:** Tutinama translator = **Nakhshabi**, not Khusrau. Banaras Sanskrit patron of that PYQ = **Shah Jahan**.
 
 **PYQ — UPPCS Prelims 2022, Q43**
 

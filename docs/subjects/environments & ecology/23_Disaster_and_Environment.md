@@ -14,6 +14,13 @@ Floods | Drought | Landslides | Cyclones | Heat Waves | Forest Fires
 
 ---
 
+## Current Affairs (this topic)
+
+- Flood / landslide / heat-wave seasons refresh disaster–environment CA for UP–Himalaya.
+- Sendai Framework year (**2015**) stays fixed — link hazards to land-use and climate stress.
+
+---
+
 ## Consolidated — 24 Must-Score Facts
 
 1. Environmental degradation raises disaster risk (deforestation worsens floods and landslides). Disasters also damage ecosystems through erosion, pollution, and forest loss.
@@ -67,7 +74,7 @@ Floods | Drought | Landslides | Cyclones | Heat Waves | Forest Fires
 
 - A **flood** occurs when water overflows onto normally dry land — river channel capacity or drainage is exceeded.
 - **Riverine floods** swell slowly over days–weeks on plains. **Flash floods** follow cloudbursts in hills within hours. **Urban flooding** is waterlogging from impervious surfaces and clogged drains.
-- **UP flood rivers:Ganga, Yamuna, Ghaghara (Saryu), Rapti, Gandak, Gomti** — monsoon inundation of the Gangetic floodplain.
+- **UP flood rivers:** Ganga, Yamuna, Ghaghara (Saryu), Rapti, Gandak, Gomti** — monsoon inundation of the Gangetic floodplain.
 - **Human amplification:** floodplain encroachment, embankments that raise silted beds, and **deforestation** in catchments that speeds runoff.
 - **Terai flash risk:** Himalayan/Nepal-side catchments can inundate **Pilibhit, Lakhimpur Kheri, Bahraich** rapidly after extreme rain.
 - **Natural flood benefit:** controlled flooding deposits **alluvial silt** that renews soil fertility — the problem is uncontrolled flooding of encroached zones.
@@ -80,7 +87,7 @@ Floods | Drought | Landslides | Cyclones | Heat Waves | Forest Fires
 | Flash | Hours | Terai foothills |
 | Urban | Hours | Lucknow, Kanpur waterlogging |
 
-> ** note:** Floods are India's most frequent disaster by affected population — not limited to coastal states.
+> **Logic:** Floods are India's most frequent disaster by affected population — not limited to coastal states.
 
 ---
 
@@ -117,7 +124,7 @@ D. 4, 2, 1, 3
 
 </details>
 
-> ** note:** DPAP = **1973**, not 1952 (that is CDP).
+> **Logic:** DPAP = **1973**, not 1952 (that is CDP).
 
 ---
 
@@ -128,13 +135,21 @@ D. 4, 2, 1, 3
 - A **landslide** is downhill movement of rock, soil, or debris when gravity overcomes slope stability.
 - Needs **steep slope + weak geology + water lubrication + loss of root binding**.
 - Types include slides, rock falls, **debris flows** (most deadly after cloudburst), and rotational slumps.
-- **Kedarnath 2013:** cloudburst → landslides/debris → flash flood cascade — classic environment–disaster chain.
+
+### Kedarnath 2013 — Cause, Course, Result
+
+**Cause:** Extreme rainfall / cloudburst over fragile Himalayan slopes, plus prior slope weakening from roads, settlement, and vegetation stress, set up a mass-wasting cascade near Kedarnath (Uttarakhand).
+
+**Course:** Cloudburst triggered landslides and debris flows that choked and then released flash flood water through the Mandakini corridor — a hydrometeorological + mass-movement chain, not a pure earthquake or tsunami frame.
+
+**Result:** Catastrophic loss of life and infrastructure; became the national teaching case for environment–disaster coupling in the Himalaya. Downstream landslide-dam and flood risk also matters for Terai plains including UP.
+
 - **Human triggers:** deforestation (roots bind soil), road cutting/blasting, unplanned hillside construction, mining — landslides are **not purely natural**.
 - **Earthquake link:** Himalayan seismic shaking can trigger widespread mass failures.
 - **Downstream risk:** landslide debris can dam rivers; dam-break floods then hit plains including UP Terai.
 - **Mitigation:** bio-engineering, retaining walls, afforestation, land-use zoning on steep slopes, GSI hazard zonation maps.
 
-> ** note:** "Landslides are purely natural — humans play no role" = **FALSE**.
+> **Logic:** "Landslides are purely natural — humans play no role" = **FALSE**.
 
 ---
 
@@ -167,7 +182,7 @@ Natural disasters cause max damage in developing countries; Bhopal was man-made;
 | Winds | Calm | **Strongest** |
 | Pressure | Lowest | Rising outward |
 
-> ** note:** Baguios–Philippines; Hurricanes–USA; Typhoons–China/NW Pacific; Willy-Willies–Australia.
+> **Logic:** Baguios–Philippines; Hurricanes–USA; Typhoons–China/NW Pacific; Willy-Willies–Australia.
 
 ---
 
@@ -190,7 +205,7 @@ Natural disasters cause max damage in developing countries; Bhopal was man-made;
 | Duration | Days–weeks | Persistent year-round bias |
 | Cause | Atmospheric pattern | Built surfaces, lost greenery |
 
-> ** note:** Heat wave ≠ urban heat island — different scale and cause.
+> **Logic:** Heat wave ≠ urban heat island — different scale and cause.
 
 ---
 
@@ -225,7 +240,7 @@ D. Both 1 and 2
 
 </details>
 
-> ** note:** Piral Lao = **Uttarakhand** pine-needle campaign — not a UP state flagship scheme.
+> **Logic:** Piral Lao = **Uttarakhand** pine-needle campaign — not a UP state flagship scheme.
 
 ---
 

@@ -352,7 +352,7 @@ Rice needs heat plus moisture. Temperature is about **20–27°C**. Rain is abou
 | **Oil palm** | Equatorial, high rain | **Indonesia + Malaysia** (volume). Nigeria origin story, not today’s tonnage king |
 | **Olive** | Mediterranean winter-rain | **Spain, Italy, Greece**, Tunisia |
 
-> ** note:** Oil palm ≠ rubber (different tree, same SE-Asia map). Olive ≠ equatorial cocoa.
+> **Logic:** ** Oil palm ≠ rubber (different tree, same SE-Asia map). Olive ≠ equatorial cocoa.
 
 ---
 

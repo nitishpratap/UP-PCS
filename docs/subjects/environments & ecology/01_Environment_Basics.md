@@ -116,7 +116,7 @@ Environment – Meaning | Environmental Components | Classification of Environme
 - **Article 51A(g)** is a Fundamental Duty. Every citizen shall protect and improve the natural environment. The same amendment added it.
 - **Article 21** guarantees the Right to Life. The Supreme Court expanded it to include the **right to a wholesome and healthy environment** in cases such as *M.C. Mehta* and *Subhash Kumar*.
 
-> ** note:** UPPCS 2018 treats environment as **जैविक + अजैविक**. Trap options say "only physical" or "only living." **Article 48** deals with agriculture and cows. Environment is **Article 48A**.
+> **Logic:** UPPCS 2018 treats environment as **जैविक + अजैविक**. Trap options say "only physical" or "only living." **Article 48** deals with agriculture and cows. Environment is **Article 48A**.
 
 **PYQ — UPPCS Prelims 2025, Q62**
 
@@ -174,7 +174,7 @@ D. Only 1
 - Biotic activity modifies abiotic conditions. Forests increase local rainfall. Overgrazing can trigger desertification.
 - **Dissolved Oxygen (DO)** is a key aquatic abiotic indicator. Fish die in polluted rivers when DO falls too low.
 
-> ** note:** Liebig names **which single factor limits growth**. Shelford names the **survivable range**. Humus is organic, not abiotic.
+> **Logic:** Liebig names **which single factor limits growth**. Shelford names the **survivable range**. Humus is organic, not abiotic.
 
 **PYQ — UPPCS Prelims 2019, Q46**
 
@@ -250,7 +250,7 @@ D. Sugarcane
 - In classification questions, mangroves are **coastal transitional**, not “purely terrestrial.”
 - UPSC 2020 trap: among Desert, Mangrove, Rainforest — only Desert and Rainforest count as terrestrial.
 
-> ** note:** Mangrove / wetland = transitional. Do not tick mangrove as terrestrial.
+> **Logic:** Mangrove / wetland = transitional. Do not tick mangrove as terrestrial.
 
 ### Urban heat island
 
@@ -262,7 +262,7 @@ D. Sugarcane
 - Extra heat raises energy demand for cooling and worsens ground-level air pollution stress.
 - Delhi NCR is a frequent Indian example of urban heat + air-quality interaction.
 
-> ** note:** Urban heat island = city warmer by roughly **2–5°C**, not a separate climate zone.
+> **Logic:** Urban heat island = city warmer by roughly **2–5°C**, not a separate climate zone.
 
 ### India’s 10 biogeographic zones
 
@@ -285,7 +285,7 @@ D. Sugarcane
 - Most of Uttar Pradesh falls in the **Gangetic Plain** zone.
 - The northern Terai fringe of UP links to Himalayan foothill ecology.
 
-> ** note:** UPPCS has asked “how many biogeographic zones in India?” → **10** (Rodgers & Panwar, 1988).
+> **Logic:** UPPCS has asked “how many biogeographic zones in India?” → **10** (Rodgers & Panwar, 1988).
 
 ### CRZ — Coastal Regulation Zone
 
@@ -299,7 +299,7 @@ D. Sugarcane
 - **CRZ-III** covers **rural** coastal areas where development is more restricted than in CRZ-II.
 - The **CRZ 2019** notification revised earlier CRZ rules. Papers still test the **IA / IB / II / III** category logic.
 
-> ** note:** CRZ-IA = most sensitive (mangroves and corals). CRZ-II = developed urban coast. CRZ-III = rural coastal belt.
+> **Logic:** CRZ-IA = most sensitive (mangroves and corals). CRZ-II = developed urban coast. CRZ-III = rural coastal belt.
 
 ### Eco-Sensitive Zones (ESZ)
 
@@ -316,7 +316,7 @@ D. Sugarcane
 - Do not treat 10 km as a universal law for every protected area.
 - An ESZ is an **EPA buffer tool**. It is **not** the same as declaring a National Park under the Wildlife (Protection) Act.
 
-> ** note:** ESZ = EPA 1986 buffer. "All human activity banned except agriculture" is **false**. CRZ = coastal regulation under the same Act.
+> **Logic:** ESZ = EPA 1986 buffer. "All human activity banned except agriculture" is **false**. CRZ = coastal regulation under the same Act.
 
 > **Logic:** Lentic = lake or pond (standing water). Lotic = river or stream (flowing water). marks **river** as lotic.
 
@@ -370,7 +370,7 @@ D. Marshy areas
 - Do **not** confuse Brundtland with ***The Limits to Growth*** (Club of Rome, **1972**).
 - UPPCS 2024 A/R trap: Reason saying Brundtland = *Limits to Growth* is **false**.
 
-> ** note:** Brundtland 1987 = *Our Common Future*. Club of Rome 1972 = *Limits to Growth*.
+> **Logic:** Brundtland 1987 = *Our Common Future*. Club of Rome 1972 = *Limits to Growth*.
 
 ### Rio Earth Summit, 1992
 
@@ -382,7 +382,7 @@ D. Marshy areas
 - **CBD** is the Convention on Biological Diversity for conservation and benefit-sharing.
 - Rio is **1992**, not Stockholm 1972 and not Agenda 21’s false “1995” year.
 
-> ** note:** Rio 1992 package = UNFCCC + CBD + Agenda 21.
+> **Logic:** Rio 1992 package = UNFCCC + CBD + Agenda 21.
 
 ### Agenda 21, 1992
 
@@ -392,7 +392,7 @@ D. Marshy areas
 - The title **Agenda 21** refers to the 21st century action plan. It does **not** mean the document was signed in the year 2021.
 - UPPCS 2025 A/R used the wrong year **1995** as a Reason trap — that Reason is **false**.
 
-> ** note:** Agenda 21 = **1992** (Rio). Never mark 1995.
+> **Logic:** Agenda 21 = **1992** (Rio). Never mark 1995.
 
 ### LiFE Mission, 2022
 
@@ -405,7 +405,7 @@ D. Marshy areas
 - The Mission LiFE app / campaign tracks and popularises those behaviours.
 - Trap: “proposed at COP-25 Madrid” is **false**.
 
-> ** note:** Idea = COP26 (2021). Launch = **2022**. Not COP-25 Madrid.
+> **Logic:** Idea = COP26 (2021). Launch = **2022**. Not COP-25 Madrid.
 
 ### Chipko Movement, 1973
 
@@ -419,7 +419,7 @@ D. Marshy areas
 - Chipko is often cited as **passive resistance** / non-violent environmental action.
 - Place trap: Chipko is **not** Assam, Kerala, or Karnataka.
 
-> ** note:** Chipko = **1973**, Reni, Uttarakhand (then UP). Appiko = Karnataka.
+> **Logic:** Chipko = **1973**, Reni, Uttarakhand (then UP). Appiko = Karnataka.
 
 ### Appiko Movement, 1983
 
@@ -430,7 +430,7 @@ D. Marshy areas
 - UPPCS 2025 asked the state association — correct fact is **Karnataka only**.
 - Do not mark Uttarakhand, UP, or Kerala for Appiko.
 
-> ** note:** Appiko = **Karnataka, 1983**. Chipko = Uttarakhand.
+> **Logic:** Appiko = **Karnataka, 1983**. Chipko = Uttarakhand.
 
 ### Joint Forest Management (JFM), 1990
 
@@ -441,7 +441,7 @@ D. Marshy areas
 - JFM is participatory forest governance, not a full ownership transfer law.
 - Do not confuse JFM (**1990**) with FRA (**2006**) or EPA (**1986**).
 
-> ** note:** JFM launch year fact = **1990**.
+> **Logic:** JFM launch year fact = **1990**.
 
 ### Forest Rights Act (FRA), 2006
 
@@ -453,7 +453,7 @@ D. Marshy areas
 - FRA is framed as justice for forest dwellers, not as a blanket free-for-all to clear forests.
 - Year trap: FRA = **2006**, after JFM 1990 and EPA 1986.
 
-> ** note:** FRA 2006 = tribal/OTFD forest rights. JFM 1990 = community–State forest partnership.
+> **Logic:** FRA 2006 = tribal/OTFD forest rights. JFM 1990 = community–State forest partnership.
 
 - **Polluter Pays** and **Precautionary Principle** entered Indian environmental jurisprudence through *Vellore Citizens Welfare Forum* (**1996**).
 - The **Public Trust Doctrine** treats air, water, and forests as held by government in trust for the public.

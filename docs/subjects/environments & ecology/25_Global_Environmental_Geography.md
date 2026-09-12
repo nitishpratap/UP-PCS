@@ -14,6 +14,13 @@ Global Environmental Geography (biomes · climate zones · world deserts · flor
 
 ---
 
+## Current Affairs (this topic)
+
+- Biome and realm stems stay geographic; CA rarely moves the Köppen or biome map.
+- Bridge biome teaching with Ecology & Ecosystem without duplicating full cards.
+
+---
+
 ## Consolidated — 24 Must-Score Facts
 
 1. Global environmental geography asks **where and why** Earth’s climate–biome patterns occur. Climate (temperature and rainfall) shapes biomes, biodiversity, and degradation belts.
@@ -57,6 +64,13 @@ Global Environmental Geography (biomes · climate zones · world deserts · flor
 | **Permafrost** | Permanently frozen subsoil — tundra/taiga | स्थायी हिम मृदा |
 | **Hotspot** | High endemism + ≥70% habitat loss (Myers) | जैव विविधता hotspot |
 
+### Biome ↔ ecosystem bridge (read with Ecology chapter)
+
+- A **biome** is the large climate-defined vegetation–fauna belt (Amazon Selva, taiga, savanna).
+- An **ecosystem** is the local functional unit of energy flow and nutrient cycling inside that belt.
+- Global textbook biome counts (often **~14**) are **not** India’s **ten** biogeographic zones (Rodgers and Panwar).
+- UP plains sit mainly in the **Gangetic Plain** biogeographic colour with Terai–deciduous transitions — not a tropical rainforest biome answer.
+
 ---
 
 ## 25.1 Scope & Climate Controls
@@ -85,7 +99,7 @@ Options: A. Both true; R does not explain A B. A false, R true C. A true, R fals
 
 </details>
 
-> ** note:** Australia desert ≠ temperate-zone explanation.
+> **Logic:** Australia desert ≠ temperate-zone explanation.
 
 ---
 
@@ -113,7 +127,7 @@ Options: A. Both true; R does not explain A B. A false, R true C. A true, R fals
 | Taiga | Cold coniferous | Siberia, Canada |
 | Tundra | Very cold, permafrost | Arctic |
 
-> ** note:Permafrost = Taiga + Tundra**, not Savannah. **14 global biomes ≠ 10 Indian biogeographic zones**.
+> **Logic:** Permafrost = Taiga + Tundra**, not Savannah. **14 global biomes ≠ 10 Indian biogeographic zones**.
 
 ---
 
@@ -137,7 +151,7 @@ Options: A. Both true; R does not explain A B. A false, R true C. A true, R fals
 | D | Cold | Siberia taiga |
 | E | Polar | Antarctica |
 
-> ** note:** "India has Af rainforest climate everywhere" = **FALSE** — India is mainly **Am**.
+> **Logic:** "India has Af rainforest climate everywhere" = **FALSE** — India is mainly **Am**.
 
 ---
 
@@ -196,7 +210,7 @@ Tribe–habitat NOT correctly matched: Bushman–Kalahari; Eskimo–N Canada; Py
 | Kalahari | S Africa | Bushman/San |
 | Thar | India–Pakistan | Hot desert |
 
-> ** note:** Pampas = **Argentina** (2018). Land of Big Games = **Tropical Savanna**.
+> **Logic:** Pampas = **Argentina** (2018). Land of Big Games = **Tropical Savanna**.
 
 ---
 
@@ -231,7 +245,7 @@ Options: A. 3 4 2 1 B. 2 1 4 3 C. 3 4 1 2 D. 2 3 4 1
 | Puszta | Hungary |
 | Pampas | Argentina |
 
-> ** note:** Do not swap Engler ↔ Sauer.
+> **Logic:** Do not swap Engler ↔ Sauer.
 
 ---
 
@@ -252,7 +266,7 @@ Options: A. 3 4 2 1 B. 2 1 4 3 C. 3 4 1 2 D. 2 3 4 1
 | Indo-Burma | NE India |
 | Sundaland | Nicobar |
 
-> ** note:** Hotspot needs **both** endemism and habitat loss — not richness alone.
+> **Logic:** Hotspot needs **both** endemism and habitat loss — not richness alone.
 
 ---
 

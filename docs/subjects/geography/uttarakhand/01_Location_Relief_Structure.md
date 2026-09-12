@@ -2,8 +2,16 @@
 
 ### ★ UKPCS state card (Unit 2)
 
-> **High-yield 2025:** MBT–MCT zone (Q101) · physiography south→north (Q110). 
+> **Sources:** UKPCS relief/thrust keys, NCERT Himalayan division vocabulary.  
+> **High-yield 2025:** MBT–MCT zone (Q101) · physiography south→north (Q110).  
 > **National twin:** Shiwalik sediments → parent [Mountains & Hills](../01_Indian_Physical_Geography_Mountains_Hills.md) (UKPCS Q84).
+
+---
+
+## Current Affairs (this topic)
+
+- Peak / glacier / Char Dham corridor news can refresh district tags (Nanda Devi–Chamoli, Tehri dam landscape).
+- Keep MBT–MCT zone wording stable — mismatch stems recycle every year.
 
 ---
 
@@ -73,6 +81,7 @@
 **Identity:** Foothill-to-crest stack from Tarai to Great Himalaya.
 
 - From the plains northward the full sequence is **Tarai → Bhabar → Shiwalik → Dun valleys → Lesser Himalaya → Great Himalaya**.
+- Direction matters. National plains teaching reads the same belts from the mountain foot **southward** as **Shiwalik → Bhabar → Terai**. Do not reverse either list without checking where the stem starts.
 - Farther north, **Trans-Himalaya / Tethys Himalaya** sits beyond the Great Himalayan crest as a separate structural family.
 - Compact four-name lists often read **Tarai → Shiwalik → Lesser Himalaya → Great Himalaya**.
 - Placing Tarai last in a south-to-north list is the usual inversion trap.
@@ -96,30 +105,28 @@
 
 - The **Main Boundary Thrust (MBT)** separates the Shiwaliks from the Lesser Himalaya.
 - The **Main Central Thrust (MCT)** separates the Lesser Himalaya from the Higher / central crystalline belt.
-- The zone **between MBT and MCT** is therefore the **Lesser Himalayan zone**.
-- South of the MBT lies the **Shiwalik** structural belt.
-- North of the MCT the sequence approaches **central crystalline / Higher Himalaya**.
+- **South of the MBT** = **Shiwalik** foothills and **duns** (for example **Dehradun**).
+- **Between MBT and MCT** = **Lesser Himalaya** — the mid-altitude inhabited Garhwal–Kumaon hill country.
+- **North of the MCT** = **Higher / central crystalline Great Himalaya** — snow line, major peaks, and glacier heads.
+- **Tarai and Bhabar** sit **south of the Shiwalik**, not between the thrusts.
 - Central crystalline and Tethys Himalaya belong north of the MCT system in the standard relief sequence.
 
 ---
 
-## 1.5 Major peaks
+## 1.5 Major peaks and glaciers
 
-**Identity:** Nanda Devi | Chamoli | about 7816–7817 m.
+**Identity:** Nanda Devi | Chamoli | about 7816–7817 m | Gangotri–Pindari glacier belt.
 
-- **Nanda Devi** is the highest peak among the major Uttarakhand peaks usually listed.
-- Its height is about **7816–7817 m**.
+- **Nanda Devi** is the highest peak among the major Uttarakhand peaks usually listed, at about **7816–7817 m**.
 - **Nanda Devi** stands in **Chamoli** district in the Garhwal Himalaya.
-- **Kamet** is another major high peak of the state at about **7756 m**.
-- Kamet also sits in the Chamoli / northern Garhwal high belt.
-- **Trisul** is another named high peak of the Garhwal high Himalaya.
-- **Dunagiri** is another named high peak of the Garhwal high Himalaya.
-- **Chaukhamba** is another named high peak of the Garhwal high Himalaya.
-- High peaks feed glaciers that supply the Bhagirathi.
-- Those glaciers also feed the Alaknanda and related Himalayan rivers.
+- **Kamet** is another major high peak at about **7756 m** in the Chamoli / northern Garhwal high belt.
+- Named Garhwal crest peaks also include **Trisul**, **Dunagiri**, and **Chaukhamba**.
+- The **Gangotri** glacier feeds the **Bhagirathi** headstream.
+- The **Pindari** glacier belt feeds the **Pindar** toward the Alaknanda prayag map.
+- Other coaching glacier names (Milam, Kafni, and related Kumaon–Garhwal ice fields) belong to the same high-crest water story.
+- High peaks and glaciers supply the Bhagirathi, Alaknanda, and related Himalayan rivers.
 - Alpine meadows and national-park cores of the Nanda Devi / Valley of Flowers belt sit around this crest zone.
-- Do not place Nanda Devi in Uttarkashi alone.
-- The usual district tag for Nanda Devi is **Chamoli**.
+- Do not place Nanda Devi in Uttarkashi alone — the usual district tag is **Chamoli**.
 
 ---
 

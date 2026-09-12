@@ -11,7 +11,14 @@ Renewable | Non-renewable | Conventional | Non-conventional | Solar | Wind | Bio
 > **Sources baked in:** NCERT Geo 11–12; MNRE; Energy Conservation Act 2001; BEE/PAT; National Policy on Biofuels 2018; National Solar Mission; UPPCS PYQs 2018–2025
 > **Weight:** ★★★ High — renewable vs non-renewable; biogas CH₄+CO₂; conventional/non-conventional; BEE/PAT; E20
 > **Last verified:** August 2026
-> **Overlap note:** Solar/wind/biomass/biogas/SHP/tidal detail also lives in Topic 22 — this file keeps those as one-home facts and expands **non-renewable, biofuels, ocean, security, conservation/efficiency**.
+> **Overlap note:** Solar/wind/biomass/biogas/SHP/tidal detail also lives in the Renewable Energy chapter — this file keeps those as one-home facts and expands **non-renewable, biofuels, ocean, security, conservation/efficiency**.
+
+---
+
+## Current Affairs (this topic)
+
+- Capacity and fuel-mix CA overlaps the Renewable Energy chapter — keep classification traps consistent.
+- Nuclear is low-carbon but conventionally non-renewable in many Prelims frames.
 
 ---
 
@@ -114,7 +121,7 @@ Options: A. Solar B. Petroleum C. Wind D. Biogas
 
 </details>
 
-> ** note:** India is **coal-rich domestically** but **oil-import dependent** — do not swap.
+> **Logic:** India is **coal-rich domestically** but **oil-import dependent** — do not swap.
 
 ---
 
@@ -154,7 +161,7 @@ Options: A. Non-renewable B. Renewable C. Produced from electricity D. Produced 
 
 </details>
 
-> ** note:** Non-conventional ≈ renewable; conventional includes fossils + large hydro + nuclear.
+> **Logic:** Non-conventional ≈ renewable; conventional includes fossils + large hydro + nuclear.
 
 ---
 
@@ -168,7 +175,7 @@ Options: A. Non-renewable B. Renewable C. Produced from electricity D. Produced 
 - **PM-KUSUM (2019):** solar pumps and farmer solarisation.
 - Flagship park: **Bhadla (Rajasthan)**.
 
-> ** note:** ISA HQ = Gurugram. "38 members forever" outdated; OSOWOG under ISA is the tested true fact.
+> **Logic:** ISA HQ = Gurugram. "38 members forever" outdated; OSOWOG under ISA is the tested true fact.
 
 ---
 
@@ -181,7 +188,7 @@ Options: A. Non-renewable B. Renewable C. Produced from electricity D. Produced 
 - Onshore mature; offshore potential on Gujarat/TN coasts — stronger winds, higher cost.
 - Intermittent — needs grid balancing or hybrid solar–wind systems.
 
-> ** note:** Rajasthan leads **solar**, not wind.
+> **Logic:** Rajasthan leads **solar**, not wind.
 
 ---
 
@@ -263,7 +270,7 @@ Options: A. 1 and 3 B. 3 and 4 C. 2 and 3 D. 1 and 2
 - Reduces petrol import bill and transport CO₂ intensity.
 - Western UP sugar belt distilleries are key producers.
 
-> ** note:** Bioethanol = **petrol** engines; biodiesel = **diesel** engines.
+> **Logic:** Bioethanol = **petrol** engines; biodiesel = **diesel** engines.
 
 ---
 
@@ -321,7 +328,7 @@ Options: A. 1 and 3 B. 3 and 4 C. 2 and 3 D. 1 and 2
 | Wave | Wind on sea surface |
 | OTEC | Warm–cold water ΔT |
 
-> ** note:** Ocean energy ⊃ tidal, but is not limited to it.
+> **Logic:** Ocean energy ⊃ tidal, but is not limited to it.
 
 ---
 
@@ -336,7 +343,7 @@ Options: A. 1 and 3 B. 3 and 4 C. 2 and 3 D. 1 and 2
 - Tools: diversify suppliers, expand renewables, biofuel blending, gas pipelines, grid reliability.
 - UP has little fossil production — depends on inter-state power/fuel; local solar + ethanol help.
 
-> ** note:** Energy security ≠ oil alone — includes coal, gas, electricity, and strategic stocks.
+> **Logic:** Energy security ≠ oil alone — includes coal, gas, electricity, and strategic stocks.
 
 ---
 
@@ -378,7 +385,7 @@ Options: A. 1 and 3 B. 3 and 4 C. 2 and 3 D. 1 and 2
 - Target path: early 20 GW ambition → revised to **100 GW solar** → contributes to 500 GW non-fossil 2030.
 - Complements ISA (2015) and PM-KUSUM (2019).
 
-> ** note:** NSM = **2010**, under NAPCC — not 2015 (ISA year).
+> **Logic:** NSM = **2010**, under NAPCC — not 2015 (ISA year).
 
 ---
 
@@ -398,7 +405,7 @@ Options: A. 1 and 3 B. 3 and 4 C. 2 and 3 D. 1 and 2
 | BEE | Under Power Ministry |
 | Star labeling | Appliance efficiency |
 
-> ** note:** BEE = efficiency; MNRE = renewables — different mandates.
+> **Logic:** BEE = efficiency; MNRE = renewables — different mandates.
 
 ---
 
@@ -418,7 +425,7 @@ Options: A. 1 and 3 B. 3 and 4 C. 2 and 3 D. 1 and 2
 | CCTS | Carbon credits (CO₂e) |
 | UJALA | LED bulbs at scale |
 
-> ** note:** PAT = **energy efficiency certificates**, not carbon credits.
+> **Logic:** PAT = **energy efficiency certificates**, not carbon credits.
 
 ---
 

@@ -15,6 +15,13 @@
 
 ---
 
+## Current Affairs (this topic)
+
+- New Acts / Rules / NGT orders are living CA; WPA / EPA / FCA year spine stays fixed.
+- Do not confuse NGT with NBA (biodiversity) on acronym stems.
+
+---
+
 ## Consolidated — 26 Must-Score Facts
 
 1. Memorise the act-year chain: **WPA 1972 → Water 1974 → FCA 1980 → Air 1981 → EPA 1986 → BDA 2002 → FRA 2006 → NGT Act 2010**.
@@ -123,7 +130,7 @@ D. 1986
 
 </details>
 
-> ** note:** Pair "EPA — 1974" or "Water Act — 1981" = **false**.
+> **Logic:** Pair "EPA — 1974" or "Water Act — 1981" = **false**.
 
 ---
 
@@ -150,7 +157,7 @@ D. 1986
 - States implement WPA through the **Chief Wildlife Warden (CWLW)**.
 - WPA does **not** cover forest land diversion (**FCA**) or community forest rights (**FRA**).
 
-> ** note:** Schedule **V = vermin**, not highest protection. Schedule **I** = highest.
+> **Logic:** Schedule **V = vermin**, not highest protection. Schedule **I** = highest.
 
 ---
 

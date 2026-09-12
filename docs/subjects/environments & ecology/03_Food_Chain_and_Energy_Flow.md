@@ -14,6 +14,13 @@ Food Chain | Food Web | Trophic Levels | Energy Flow in Ecosystem | Ecological P
 
 ---
 
+## Current Affairs (this topic)
+
+- Energy-flow and trophic-level traps recycle yearly — 10% rule and pyramid types stay core.
+- Bioaccumulation / biomagnification CA usually rides on pesticide or heavy-metal news; keep the mechanism pair clear.
+
+---
+
 ## Consolidated — 30 Must-Score Facts
 
 1. A **food chain** is a single linear who-eats-whom sequence. A **food web** is a network of interconnected chains and is more stable than one chain alone.
@@ -93,7 +100,7 @@ Food Chain | Food Web | Trophic Levels | Energy Flow in Ecosystem | Ecological P
 | **Marine** | Phytoplankton/diatoms | Diatoms → crustaceans → herrings |
 | **Parasitic** (special) | Living host tissue | Tree → insects → parasites |
 
-> ** note:** Grazing chain starts from a **living producer**. Detritus chain starts from **dead matter**. Trap: "all chains begin with green plants" is **false**.
+> **Logic:** Grazing chain starts from a **living producer**. Detritus chain starts from **dead matter**. Trap: "all chains begin with green plants" is **false**.
 
 ---
 
@@ -109,7 +116,7 @@ Food Chain | Food Web | Trophic Levels | Energy Flow in Ecosystem | Ecological P
 - Simpler webs in agricultural monoculture are **less stable**. Removing one pest predator can cause a pest outbreak.
 - Energy still flows **unidirectionally** through every pathway in the web. A web shows many one-way paths, not cyclic energy.
 
-> ** note:** Trap — "a food web makes energy flow cyclic" is **false**. Only **nutrients** cycle through decomposers.
+> **Logic:** Trap — "a food web makes energy flow cyclic" is **false**. Only **nutrients** cycle through decomposers.
 
 ---
 
@@ -219,7 +226,7 @@ D. May increase or decrease
 | **Biomass** | g/m² | Usually | Open ocean (phytoplankton turnover) |
 | **Numbers** | Individual count | Usually | One tree → many insects/parasites |
 
-> ** note:** Trap — "all ecological pyramids are always upright" is **false**. Only the **energy** pyramid is always upright.
+> **Logic:** Trap — "all ecological pyramids are always upright" is **false**. Only the **energy** pyramid is always upright.
 
 ---
 

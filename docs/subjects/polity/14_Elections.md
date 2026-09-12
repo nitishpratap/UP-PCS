@@ -164,7 +164,7 @@ D. None of the above
 - **s.62(5) RPA 1951:** Person in **prison / lawful custody** of police **cannot vote** (even if on the roll). **Preventive detention** is the usual exception.
 - **Service / overseas:** Service voters (forces, diplomats) — postal / proxy as rules allow. Overseas electors can **enrol**; default is still to vote in the constituency unless a special postal scheme is notified.
 
-> ** note:** UAF is **326**, not 324. 61st ≠ 62nd/63rd. Lowering age ≠ 86th (education).
+> **Logic:** UAF is **326**, not 324. 61st ≠ 62nd/63rd. Lowering age ≠ 86th (education).
 
 **PYQ — UPPCS Prelims 2021, Q113**
 
@@ -209,7 +209,7 @@ India’s flavour = **PR by Single Transferable Vote (STV)** — **not** a natio
 
 Droop quota idea: \(\frac{\text{votes}}{\text{seats}+1}+1\) — enough to recognise STV; don’t turn this into a counting workshop.
 
-> ** note:** “India uses PR for the Lok Sabha” is **false**. “President is FPTP” is **false**.
+> **Logic:** “India uses PR for the Lok Sabha” is **false**. “President is FPTP” is **false**.
 
 ---
 
@@ -269,7 +269,7 @@ D. Only 1
 - **87th (2003):** Allowed **redrawing** on **2001** census **without** changing how many LS seats each State has.
 - **Recent:** J&K Delimitation (post-2019) · Assam exercise — same logic, separate notifications.
 
-> ** note:** After 2026 the **numbers** can change with population. That is the North–South seat fight. 84th froze **allocation among States**, not internal boundaries forever (87th redrew internals).
+> **Logic:** After 2026 the **numbers** can change with population. That is the North–South seat fight. 84th froze **allocation among States**, not internal boundaries forever (87th redrew internals).
 
 ---
 
@@ -362,7 +362,7 @@ D. 7th Lok Sabha — 1982
 - **Tax:s.29C / 13A** IT Act route for donations once registered — registration ≠ a 324 constitutional office.
 - **ECI can:** Refuse / later take up non-contesting RUPPs (2022–24 clean-up). **Registration ≠ symbol reserved**.
 
-> ** note:s.29A registration** is the statute. **Recognition** is the **Symbols Order, 1968** (ECI). Do not merge the two.
+> **Logic:** s.29A registration** is the statute. **Recognition** is the **Symbols Order, 1968** (ECI). Do not merge the two.
 
 ---
 
@@ -411,7 +411,7 @@ ECI grants **National** or **State** party status. Criteria (learn the **logic**
 
 **Not defection:** merger as above · Speaker elected and giving up party membership as the Schedule allows · prior-permission / condonation window.
 
-> ** note:** 10th Schedule = **defection**, not “party registration.” 9th Schedule = **validation of laws** (1951), not RS seats (**4th**). 2019/2023/2025 PYQs all test that pair.
+> **Logic:** 10th Schedule = **defection**, not “party registration.” 9th Schedule = **validation of laws** (1951), not RS seats (**4th**). 2019/2023/2025 PYQs all test that pair.
 
 **PYQ — UPPCS Prelims 2025, Q113**
 

@@ -14,6 +14,13 @@ Desertification | Land Degradation | Soil Erosion
 
 ---
 
+## Current Affairs (this topic)
+
+- UNCCD / LDN and Indian desertification atlas updates are the CA refresh.
+- Bundelkhand / Rajasthan land-degradation colour stays high-yield for UP.
+
+---
+
 ## Consolidated — 24 Must-Score Facts
 
 1. **Desertification** is land degradation in **arid, semi-arid, and dry sub-humid (ASDM)** areas from climate variation plus human pressure.
@@ -73,7 +80,7 @@ Desertification | Land Degradation | Soil Erosion
 - Early desertification can be **reversed** through afforestation, controlled grazing, and water harvesting. Advanced stages may take decades to restore.
 - India's **ISRO Desertification Atlas (2016)** mapped **96.4 million hectares (~29.3% of geographical area)** under desertification/land degradation. **Rajasthan** is the worst-affected state.
 
-> ** note:** Desertification applies to **dry sub-humid Bundelkhand**, not only sand deserts.
+> **Logic:** Desertification applies to **dry sub-humid Bundelkhand**, not only sand deserts.
 
 - The **UNCCD (United Nations Convention to Combat Desertification)** was adopted on **17 June 1994** in Paris and entered force in **1996**.
 - **17 June** is observed as **World Desertification and Drought Day**.
@@ -121,7 +128,7 @@ D. 2040
 - **Afforestation prevents degradation** — it is **not** a cause. Pick it when asked "NOT a cause."
 - Policy tools include **Integrated Watershed Management Programme (IWMP)**, **MGNREGA** (contour bunds, check dams), **DPAP**, **Desert Development Programme (DDP)**, and **Soil Health Card Scheme**.
 
-> ** note:DPAP (1973)** targets drought-prone arid/semi-arid areas for soil moisture conservation.
+> **Logic:** DPAP (1973)** targets drought-prone arid/semi-arid areas for soil moisture conservation.
 
 | Process | Example region |
 |---------|----------------|

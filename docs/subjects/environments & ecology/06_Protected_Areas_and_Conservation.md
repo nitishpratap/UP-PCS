@@ -14,6 +14,13 @@ Wildlife Sanctuary | National Park | Biosphere Reserve | Conservation Reserve | 
 
 ---
 
+## Current Affairs (this topic)
+
+- Track new Ramsar notifications and tiger-reserve counts against the Must-Score totals.
+- Keep UP Ramsar **12** and India **~100** as the teaching baseline unless a stem cites a later official total.
+
+---
+
 ## Consolidated — 32 Must-Score Facts
 
 1. The **Wildlife (Protection) Act, 1972** is India’s main protected-area statute.
@@ -64,6 +71,24 @@ Wildlife Sanctuary | National Park | Biosphere Reserve | Conservation Reserve | 
 | **Elephant Reserve** | Executive notification — **no WPA basis** | हाथी आरक्षित क्षेत्र |
 | **Ramsar Site** | Wetland of international importance | रामसर स्थल |
 | **ESZ** | EPA buffer restricting polluting activity around PA | पारिस्थितिक संवेदनशील क्षेत्र |
+
+### Protected-area hierarchy — one card
+
+| Category | Legal home | Strictness / use | Classic trap |
+|----------|------------|------------------|--------------|
+| **National Park** | WPA Sec **35** | Strictest WPA PA | Boundary change needs **State Legislature** |
+| **Wildlife Sanctuary** | WPA Sec **18** | Limited use with **CWLW** permission | Not as strict as NP |
+| **Tiger Reserve** | WPA Sec **38V** + NTCA | Core + buffer mandatory | Statutory — unlike Elephant Reserve |
+| **Conservation Reserve** | WPA Sec **36A** | Forest buffer near PA | Not private-land Community Reserve |
+| **Community Reserve** | WPA Sec **36B** | Private/community land + consent | Needs voluntary consent |
+| **Biosphere Reserve** | UNESCO MAB (executive in India) | Core–buffer–transition | **No** WPA statutory basis |
+| **Elephant Reserve** | Project Elephant 1992 | Corridor / conflict focus | **No** WPA statutory basis |
+| **Ramsar site** | Ramsar Convention 1971 | Wise-use wetland | Not a forest or ozone treaty |
+| **Natural World Heritage** | UNESCO WH Convention | Outstanding universal value | ≠ Ramsar ≠ BR WNBR automatically |
+| **ESZ** | EPA **1986** | Buffer restrictions around PA | **Not** a WPA category |
+
+- **UP teaching row:** Dudhwa NP / TR, Pilibhit TR, Ranipur TR, **12 Ramsar**, Terai corridors, **no marine PA**, **no biosphere reserve** inside present UP.
+- **Three UNESCO instruments:** World Heritage · Biosphere (MAB / WNBR) · Intangible Cultural Heritage — do not force one site into all three without checking the list.
 
 ---
 
@@ -200,7 +225,7 @@ D. Only 1 and 3
 - Human activity is more flexible than in a national park. Traditional uses may continue under regulation.
 - **Asan Conservation Reserve** in Uttarakhand is a known example and is also a Ramsar site.
 
-> ** note:** Conservation Reserve = **forest buffer**. Community Reserve = **private/community land**. Do not swap them.
+> **Logic:** Conservation Reserve = **forest buffer**. Community Reserve = **private/community land**. Do not swap them.
 
 ---
 
@@ -214,7 +239,7 @@ D. Only 1 and 3
 - It is the most community-led WPA protected-area category.
 - Community Reserves supplement strict PAs where full national park notification is socially difficult.
 
-> ** note:** Community Reserve requires **consent**. Conservation Reserve does **not** require private individual land.
+> **Logic:** Community Reserve requires **consent**. Conservation Reserve does **not** require private individual land.
 
 ---
 
@@ -229,7 +254,7 @@ D. Only 1 and 3
 - India had **58 tiger reserves** after the notification of **Madhav Tiger Reserve** (2025).
 - UP tiger reserves include **Dudhwa (1987)**, **Pilibhit (2014)**, and **Ranipur (2023)**.
 
-> ** note:** Tiger Reserves have **WPA statutory backing**. Elephant Reserves do **not**.
+> **Logic:** Tiger Reserves have **WPA statutory backing**. Elephant Reserves do **not**.
 
 ---
 
@@ -243,7 +268,7 @@ D. Only 1 and 3
 - India has **33 Elephant Reserves**.
 - UP has the **Uttar Pradesh Elephant Reserve (2009)** and the **Terai Elephant Reserve (2022)**.
 
-> ** note:** Trap — "Elephant Reserves are declared under WPA like Tiger Reserves" is **false**.
+> **Logic:** Trap — "Elephant Reserves are declared under WPA like Tiger Reserves" is **false**.
 
 ---
 
@@ -257,7 +282,7 @@ D. Only 1 and 3
 - Coastal regulation also uses **CRZ** rules under the **EPA 1986**.
 - **Uttar Pradesh has no marine protected area** because it is landlocked.
 
-> ** note:** Negative questions may use UP as the state with **zero** marine PAs.
+> **Logic:** Negative questions may use UP as the state with **zero** marine PAs.
 
 ---
 
@@ -310,7 +335,7 @@ D. 1 and 2
 - **Keoladeo** is both a Ramsar wetland and a UNESCO natural World Heritage Site.
 - **Uttar Pradesh has no natural UNESCO World Heritage Site**. Nanda Devi is in **Uttarakhand**.
 
-> ** note:** Do not confuse **natural WH sites** with **cultural WH sites** such as Jaipur city.
+> **Logic:** Do not confuse **natural WH sites** with **cultural WH sites** such as Jaipur city.
 
 ---
 
@@ -324,7 +349,7 @@ D. 1 and 2
 - ESZ width is notified case by case. It is **not** a fixed 10 km rule for every protected area in all states.
 - ESZs aim to reduce shock between strict protected cores and surrounding development.
 
-> ** note:** ESZ = **EPA 1986**. National Park = **WPA 1972**. Do not swap the two laws.
+> **Logic:** ESZ = **EPA 1986**. National Park = **WPA 1972**. Do not swap the two laws.
 
 ---
 

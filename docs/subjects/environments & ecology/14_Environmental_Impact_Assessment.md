@@ -14,6 +14,13 @@ Environmental Impact Assessment (EIA) | Strategic Environmental Assessment (SEA)
 
 ---
 
+## Current Affairs (this topic)
+
+- EIA notification amendments and Category A/B traps are the living CA layer.
+- Keep screening–scoping–appraisal–monitoring order stable.
+
+---
+
 ## Consolidated — 24 Must-Score Facts
 
 1. **EIA** studies a project’s likely environmental effects **before** approval. The aim is anticipatory prevention, not reactive cleanup.
@@ -79,7 +86,7 @@ Environmental Impact Assessment (EIA) | Strategic Environmental Assessment (SEA)
 - **NGT (National Green Tribunal)**, under the **NGT Act 2010**, hears appeals against EC decisions.
 - EC must be obtained **before** construction. **Ex-post facto clearance** after work has begun is illegal and controversial.
 
-> ** note:** Carrying capacity — waste generation must stay within the environment's absorption limit; that is what EIA evaluates.
+> **Logic:** Carrying capacity — waste generation must stay within the environment's absorption limit; that is what EIA evaluates.
 
 > **Logic:** Org trap — **CGWB** reports groundwater quality; **CPCB** does not grant EC. EC = **MoEFCC/SEIAA**.
 
@@ -114,7 +121,7 @@ Environmental Impact Assessment (EIA) | Strategic Environmental Assessment (SEA)
 - **India has robust project-level EIA** under the 2006 Notification but **no standalone SEA legislation** as of current law.
 - Partial strategic tools in India include **CRZ notifications**, **Eco-Sensitive Zone (ESZ) notifications**, and basin-level planning — but these are not a full SEA law.
 
-> ** note:** Statement "India has mandatory SEA law equivalent to EIA Notification" = **false**.
+> **Logic:** Statement "India has mandatory SEA law equivalent to EIA Notification" = **false**.
 
 | Feature | EIA | SEA |
 |---------|-----|-----|

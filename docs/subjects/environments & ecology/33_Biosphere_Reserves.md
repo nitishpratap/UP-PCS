@@ -14,6 +14,13 @@ Biosphere Reserve | Major Biosphere Reserves of India | Biosphere Reserves of Ut
 
 ---
 
+## Current Affairs (this topic)
+
+- WNBR new listings drift the UNESCO count; India national BR list stays the teaching spine.
+- Biosphere ≠ WPA statutory category.
+
+---
+
 ## Consolidated — 24 Must-Score Facts
 
 1. A Biosphere Reserve is a **UNESCO MAB (1971)** landscape with **core → buffer → transition**. It is **not** a Wildlife Protection Act category.
@@ -88,7 +95,7 @@ Options: A. Biosphere reserve B. Botanical garden C. National Park D. Sacred gro
 
 </details>
 
-> ** note:** “Biosphere Reserves allow only absolute ban on all human use” is **false** — buffer/transition allow regulated use.
+> **Logic:** “Biosphere Reserves allow only absolute ban on all human use” is **false** — buffer/transition allow regulated use.
 
 ---
 
@@ -199,7 +206,7 @@ with 1. Madhya Pradesh 2. Uttar Pradesh 3. Assam 4. West Bengal
 | Madhya Pradesh | 3 | Pachmarhi, Achanakmar–Amarkantak, Panna |
 | Bihar | 0 | Valmiki = NP, not BR |
 
-> ** note:** “Which BR is in UP?” → **None**.
+> **Logic:** “Which BR is in UP?” → **None**.
 
 ---
 
@@ -222,7 +229,7 @@ with 1. Madhya Pradesh 2. Uttar Pradesh 3. Assam 4. West Bengal
 | Doñana | Spain | Wetland BR classic |
 | Mount Kenya | Kenya | Afro-alpine BR |
 
-> ** note:** World BR network ≠ World Heritage list — related but different UNESCO instruments.
+> **Logic:** World BR network ≠ World Heritage list — related but different UNESCO instruments.
 
 ---
 

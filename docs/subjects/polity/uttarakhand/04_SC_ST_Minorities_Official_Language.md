@@ -2,14 +2,22 @@
 
 ### ★ UKPCS state card (Unit 3)
 
-> **High-yield 2025 stem:** five tribes notified as ST in **1967** (Q136). 
+> **Sources:** ST notification chronology, State official language map.  
+> **High-yield 2025:** five tribes notified as ST in **1967** (Q136).  
 > **Vanrawat / Raji geography:** also [Geography Topic 6](../../geography/uttarakhand/06_Population_SC_ST_Settlements.md).
+
+---
+
+## Current Affairs (this topic)
+
+- Fresh ST / domicile / language notifications can refresh stems — keep the **1967 five** stable unless a stem cites a later change.
+- Hindi remains the official-language teaching card for State polity.
 
 ---
 
 ## Quick Revision — Spine Only
 
-| Head | Lock |
+| Head | Key |
 |------|------|
 | Five STs | **Jaunsari, Tharu, Bhotia, Buksa, Raji** |
 | Notification year | **1967** (when the region was in UP) |
@@ -22,7 +30,7 @@
 
 ## Confused Pairs
 
-| Pair | Lock |
+| Pair | Key |
 |------|------|
 | 1967 vs 1968–70 | Exact year **1967** |
 | Five STs vs many hill castes | Only the notified five are STs of UK |
@@ -33,17 +41,24 @@
 
 ## 4.1 Scheduled Tribes
 
-- The classic five — Jaunsari, Tharu, Bhotia, Buksa, Raji — were declared Scheduled Tribes in **1967**.
+**Identity:** Five notified STs | year **1967** | region then in UP.
+
+- The classic five — **Jaunsari, Tharu, Bhotia, Buksa, Raji** — were declared Scheduled Tribes in **1967**.
 - They remain the five STs of Uttarakhand in standard Prelims lists.
-- Sub-group and PTG detail (e.g. Vanrawat/Raji) is often asked from the geography / society angle.
+- **Raji / Vanrawat** carries forest-linked PTG memory centred on **Pithoragarh** in geography notes.
+- **Bhotia** communities sit in the high Himalayan trade / transhumance belt; **Tharu** and **Buksa** sit on the Tarai fringe — do not merge niches.
+- Sub-group detail is often asked from the geography / society angle, but the polity year stem is **1967**.
 
 ---
 
 ## 4.2 Minorities, language, selection criteria
 
-- Minority protection follows national law; state may run additional welfare boards.
-- **Official language** teaching centres on **Hindi** for administration.
+**Identity:** Hindi official language | national minority framework | domicile rules as named.
+
+- Minority protection follows national law; the State may run additional welfare boards.
+- **Official language** teaching centres on **Hindi** for administration. Coaching notes also remember **Sanskrit** in State language politics — do not drop Hindi as the official card.
 - “Special State Selection Criteria” and domicile rules are syllabus heads — answer from the named notification in the stem, not from guesswork.
+- Do not add Garhwali / Kumaoni speech communities as STs — language groups are not the five ST names.
 
 ---
 

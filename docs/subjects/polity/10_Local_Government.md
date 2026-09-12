@@ -100,7 +100,7 @@
 - **Part IX** covers **Arts. 243–243O**, and the **11th Schedule** lists **29 subjects**. Both were added by the **73rd Amendment, 1992**, which came into force on **24 April 1993** — now celebrated as **National Panchayati Raj Day**.
 - Local government still remains a **State subject** under **Entry 5 of the State List**. The 73rd Amendment **mandates only the skeleton** — the flesh, such as actual taxation powers, how much of the 29 subjects to devolve, and the Gram Sabha's real powers, is still decided by **State law**.
 
-> ** note:** Part for PRIs = **IX** (2020). Not VI (State), not IV (DPSP — that is only Art. 40).
+> **Logic:** Part for PRIs = **IX** (2020). Not VI (State), not IV (DPSP — that is only Art. 40).
 
 **PYQ — UPPCS Prelims 2020**
 
@@ -381,7 +381,7 @@ The 73rd Amendment created a **third tier of federalism** — Union, State, and 
 - A State **may** let intermediate chairpersons sit in the district Panchayat.
 - A State **may** give a place to MPs, MLAs, and MLCs, and it also decides whether they get a **vote**.
 
-> ** note:** “All members of a Panchayat are directly elected” is **true of seats**. It is **false** if the option also means the chairperson and every ex-officio MLA.
+> **Logic:** “All members of a Panchayat are directly elected” is **true of seats**. It is **false** if the option also means the chairperson and every ex-officio MLA.
 
 ### Art. 243D — reservation
 
@@ -480,7 +480,7 @@ Worked picture: a Panchayat first met in January 2021, so its five years run to 
 - **Art. 243D**’s reservation of seats for **Scheduled Castes** does not apply in Arunachal Pradesh, because the State is almost entirely Scheduled Tribe.
 - The rest of Part IX **does** apply there.
 
-> ** note:** Nagaland / Meghalaya / Mizoram = **243M exclusion**. PESA States = the **ten Fifth Schedule** States. Meghalaya is in both the 243M list and the Sixth Schedule — still **not** a PESA State.
+> **Logic:** Nagaland / Meghalaya / Mizoram = **243M exclusion**. PESA States = the **ten Fifth Schedule** States. Meghalaya is in both the 243M list and the Sixth Schedule — still **not** a PESA State.
 
 ### Art. 243N — one-year window for old State laws
 
@@ -588,7 +588,7 @@ Reservation under **Art. 243D** applies to both **seats and chairperson offices*
 - **Bihar** was the first State to give women a **50%** quota (around 2006), and many States, including **UP**, have since followed by their own **State law** — the **constitutional floor still remains 1/3**, since no Constitutional Amendment has raised it to 50%.
 - Reserved constituencies and chairperson offices **must rotate** — a seat reserved this term is not reserved forever.
 
-> ** note:** “One-fourth of reserved seats for SC/ST women” (2025) is **wrong**. “Fifty percent seats for women of SC/ST categories” (2019) is **wrong**. Read the **denominator**: 1/3 of **total seats**, and 1/3 of **SC/ST seats**.
+> **Logic:** “One-fourth of reserved seats for SC/ST women” (2025) is **wrong**. “Fifty percent seats for women of SC/ST categories” (2019) is **wrong**. Read the **denominator**: 1/3 of **total seats**, and 1/3 of **SC/ST seats**.
 
 **PYQ — UPPCS Prelims 2025, Q85**
 
@@ -622,7 +622,7 @@ The SEC is **not the ECI**. It has superintendence over **Panchayat (and usually
 - In ***Kishan Singh Tomar*** (2006), the Supreme Court held that municipal and PRI elections **must** be held before the term expires, and that a State government cannot starve the SEC of staff or funds simply to delay polls.
 - PRI electoral rolls can be mapped from the ECI's Assembly rolls, but their **revision and the actual conduct of elections** remain the SEC's job.
 
-> ** note:** The ECI is removed like an **SC** judge; the SEC is removed like an **HC** judge. Both are constitutional bodies — do not mix up their removal process.
+> **Logic:** The ECI is removed like an **SC** judge; the SEC is removed like an **HC** judge. Both are constitutional bodies — do not mix up their removal process.
 
 ## State Finance Commission (243I)
 
@@ -644,7 +644,7 @@ The SFC is the State-level analogue of **Art. 280**, but it reports to the **Gov
 4. **Scheme funds** — MGNREGA, JJM, SBM, etc. (tied).
 5. **Loans** as State law allows.
 
-> ** note:** A Gram Panchayat does **not** levy sales tax, GST, land revenue or customs. **Tax on local fairs** (2018) sits under “markets and fairs” (11th Sch. entry 22) + 243H.
+> **Logic:** A Gram Panchayat does **not** levy sales tax, GST, land revenue or customs. **Tax on local fairs** (2018) sits under “markets and fairs” (11th Sch. entry 22) + 243H.
 
 **PYQ — UPPCS Prelims 2023, Q17 / 2020**
 
@@ -692,7 +692,7 @@ Devolution is **not automatic**. 243G: the State **may**, by law, endow Panchaya
 
 **Not in the 11th (those are 12th / Union):** urban planning · urban poverty · fire services · slum improvement · cattle pounds are 12th. **Major irrigation / national highways / universities** are not PRI subjects.
 
-> ** note:29 vs 18** (11th vs 12th). “Urban planning” in a “which is in the 11th Schedule” question is the trap.
+> **Logic:** 29 vs 18** (11th vs 12th). “Urban planning” in a “which is in the 11th Schedule” question is the trap.
 
 **PYQ — UPPCS Prelims 2018, Q39**
 
@@ -756,7 +756,7 @@ D. 1993
 
 </details>
 
-> ** note:** PESA ≠ 6th Schedule. Nagaland / Meghalaya / Mizoram are **243M exclusions**, not PESA States.
+> **Logic:** PESA ≠ 6th Schedule. Nagaland / Meghalaya / Mizoram are **243M exclusions**, not PESA States.
 
 ---
 
@@ -779,7 +779,7 @@ Cooperatives were originally a **State subject** (Entry 32), while multi-State c
 
 In ***Union of India v. Rajendra N. Shah* (2021)**, the Supreme Court held that Part IXB needed ratification under the **proviso to Art. 368(2)**, since it touched the State List and Art. 246, and that this ratification had **not** been obtained. It therefore held Part IXB **void for State cooperatives**, while letting it **survive for multi-State cooperatives** — and it left **Arts. 19(1)(c) and 43B intact**.
 
-> ** note:** “97th made forming a coop a FR” = **true**. “Part IXB still runs every State coop” = **false** after 2021. Multi-State Co-operative Societies Act is Union law and still sits with IXB.
+> **Logic:** “97th made forming a coop a FR” = **true**. “Part IXB still runs every State coop” = **false** after 2021. Multi-State Co-operative Societies Act is Union law and still sits with IXB.
 
 ---
 
@@ -797,7 +797,7 @@ UP's intermediate tier is called the **Kshetra Panchayat** — not a "Samiti", u
 - The State Finance Commission is constituted by the Governor, and its report is laid before both Houses, since UP has a bicameral legislature.
 - At the village level, the **Gram Panchayat Officer/Secretary** is the key official; at the Kshetra level, it is the **BDO**; and at the Zila Panchayat level, it is the **CDO/CEO**.
 
-> ** note:** Do not write “Panchayat Samiti” for UP in a UP-specific question — the paper wants **Kshetra Panchayat**. Nyaya Panchayat in UP is **statutory / historical**, not a 73rd tier.
+> **Logic:** Do not write “Panchayat Samiti” for UP in a UP-specific question — the paper wants **Kshetra Panchayat**. Nyaya Panchayat in UP is **statutory / historical**, not a 73rd tier.
 
 ---
 
@@ -987,7 +987,7 @@ India uses the **Commissioner system** (British), not the US strong-mayor model.
 | Removal | No-confidence / State law | Transfer; the House **cannot** vote him out |
 | Vote in council | Yes | **No** |
 
-> ** note:** “The Mayor runs the corporation” is **false** in the default Indian model. Directly-elected Mayors (some States) still do **not** usually get the Commissioner’s statutory executive powers. Deputy Mayor / Vice-President is a State-Act office, not in Part IXA.
+> **Logic:** “The Mayor runs the corporation” is **false** in the default Indian model. Directly-elected Mayors (some States) still do **not** usually get the Commissioner’s statutory executive powers. Deputy Mayor / Vice-President is a State-Act office, not in Part IXA.
 
 ---
 
@@ -1040,7 +1040,7 @@ Devolution = State **may** (same “may” as 243G).
 - **Entries 7–12** cover **fire services**, urban forestry and ecology, welfare of weaker sections including the disabled, **slum** improvement, **urban poverty** alleviation, and parks and playgrounds.
 - **Entries 13–18** cover cultural and aesthetic aspects, burials and cremation grounds, cattle pounds, prevention of cruelty to animals, registration of **births and deaths**, street lighting and public conveniences, and regulation of **slaughterhouses and tanneries**.
 
-> ** note:Urban planning / slum / fire / urban poverty** are **12th**, not 11th. **Minor forest produce / markets and fairs** are **11th**, not 12th. Count: **29 vs 18**.
+> **Logic:** Urban planning / slum / fire / urban poverty** are **12th**, not 11th. **Minor forest produce / markets and fairs** are **11th**, not 12th. Count: **29 vs 18**.
 
 ## ULB finance (243X + 243Y)
 

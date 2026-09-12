@@ -119,7 +119,7 @@ UP’s meat is **numbers plus one geography of power**: Lucknow runs the governm
 - **Council of Ministers (91st):** including the CM, **not more than 15%** of the LA. 15% of **403 ≈ 60**. Floor in any State is **12**. Collectively responsible to the **LA**
 - **Secretariat:Lucknow** (with Raj Bhavan and Vidhan Bhavan). Do not raata a 2026 occupant’s name as if it were in the Constitution
 
-> ** note:** First Governor ≠ G.B. Pant (**Pant was CM**). Raj Bhavan is **Lucknow**, not Prayagraj. UP has **no** 371 special article.
+> **Logic:** First Governor ≠ G.B. Pant (**Pant was CM**). Raj Bhavan is **Lucknow**, not Prayagraj. UP has **no** 371 special article.
 
 ---
 
@@ -139,7 +139,7 @@ Bicameral: UP is one of **six** Council States — Andhra Pradesh, Bihar, Karnat
 
 Other large Assemblies (only to not mix): West Bengal 294 · Maharashtra 288 · Bihar 243 · Tamil Nadu 234 · Madhya Pradesh 230.
 
-> ** note:** UP LA ≠ 500 (that is Art. 170’s **maximum**). ≠ 425 still (that was pre-**9 Nov 2000**).
+> **Logic:** UP LA ≠ 500 (that is Art. 170’s **maximum**). ≠ 425 still (that was pre-**9 Nov 2000**).
 
 **PYQ — UPPCS Prelims 2022, Q14**
 
@@ -178,7 +178,7 @@ Trap: UP LA = 500 because Art. 170 says 500. **500 is the constitutional maximum
 
 36 + 8 + 8 + 36 + 12 = **100**. Graduates and teachers are **1/12 each** in Art. 171; UP’s statute rounds them to **8 + 8**. Nomination in an LC includes **co-operative movement**; RS nomination of 12 does **not**.
 
-> ** note:** Cap is **134**; actual House is **100**. LC cannot be dissolved like the LA — only **abolished**. LA vs LC: 403 / 25 / 5y / Money Bills vs 100 / 30 / 6y / no dissolution.
+> **Logic:** Cap is **134**; actual House is **100**. LC cannot be dissolved like the LA — only **abolished**. LA vs LC: 403 / 25 / 5y / Money Bills vs 100 / 30 / 6y / no dissolution.
 
 **PYQ — UPPCS Prelims 2023, Q13** (the article-rule, which UP must also satisfy)
 
@@ -235,7 +235,7 @@ Trap: UP LS = 85 still. **80 after Uttarakhand.** Trap: RS 34. **31.** Trap: onl
 - Sanctioned strength **160** — **largest High Court in India**. Jurisdiction = whole of **Uttar Pradesh only**. Uttarakhand HC = **Nainital** from **2000**
 - **Not** a Chartered High Court of **1862** (Bombay, Calcutta, Madras)
 
-> ** note:** Allahabad HC = **1866**, first seat **Agra** — not 1862 Chartered. Lucknow = **Bench**. UK since 2000 = **Nainital**.
+> **Logic:** Allahabad HC = **1866**, first seat **Agra** — not 1862 Chartered. Lucknow = **Bench**. UK since 2000 = **Nainital**.
 
 ---
 
@@ -248,7 +248,7 @@ Trap: UP LS = 85 still. **80 after Uttarakhand.** Trap: RS 34. **31.** Trap: onl
 - Union OL Rules 1976: UP is **Region A** (correspondence with the Centre in Hindi)
 - Both **Hindi and Urdu** are in the Eighth Schedule. That is **not** what made Urdu UP’s second official language — the **1989 State Act** did
 
-> ** note:** Urdu is **second**, 1989 — not the official language. There is **no** national-language article.
+> **Logic:** Urdu is **second**, 1989 — not the official language. There is **no** national-language article.
 
 ---
 
@@ -263,7 +263,7 @@ Trap: UP LS = 85 still. **80 after Uttarakhand.** Trap: RS 34. **31.** Trap: onl
 
 Same winter: Chhattisgarh **1 Nov 2000** · Uttarakhand **9 Nov** · Jharkhand **15 Nov**.
 
-> ** note:** Uttarakhand ≠ 1 November 2000 (that is **Chhattisgarh**). Always-named-Uttarakhand is false — **Uttaranchal till 2007**.
+> **Logic:** Uttarakhand ≠ 1 November 2000 (that is **Chhattisgarh**). Always-named-Uttarakhand is false — **Uttaranchal till 2007**.
 
 ---
 
@@ -275,7 +275,7 @@ Same winter: Chhattisgarh **1 Nov 2000** · Uttarakhand **9 Nov** · Jharkhand *
 - **Devipatan (2025 geography fact):** Bahraich · Balrampur · Gonda · Shravasti
 - Do not raata a brittle tehsil/block count
 
-> ** note:** UP has **18** divisions, not 17. Faizabad division = **Ayodhya**. Devipatan ≠ Lucknow — HQ **Gonda**.
+> **Logic:** UP has **18** divisions, not 17. Faizabad division = **Ayodhya**. Devipatan ≠ Lucknow — HQ **Gonda**.
 
 ---
 
@@ -293,7 +293,7 @@ Same winter: Chhattisgarh **1 Nov 2000** · Uttarakhand **9 Nov** · Jharkhand *
 - Conducts Combined State / Upper Subordinate (PCS), **RO-ARO**, and other State services the 321 law / Governor’s regulations give it
 - ≠ **UPSC** (Union, Delhi) · **UP SEC** (local polls, Lucknow) · **Accountant General** (CAG’s field officer)
 
-> ** note:** UPPSC HQ = **Prayagraj**, not Lucknow. The Governor who appoints does **not** remove.
+> **Logic:** UPPSC HQ = **Prayagraj**, not Lucknow. The Governor who appoints does **not** remove.
 
 **PYQ — UPPCS Prelims 2021, Q133**
 
@@ -323,7 +323,7 @@ Trap: UPPSC sits in Lucknow with the Secretariat. **Prayagraj.** Trap: the Gover
 - Superintendence, direction and control of **electoral rolls and elections** to Gram / Kshetra / Zila Panchayats **and** Nagar Nigam / Palika / Panchayat
 - The State cannot starve the SEC of staff to delay polls (*Kishan Singh Tomar*, 2006). Elections must be held before the term ends
 
-> ** note:** Panchayat polls = **SEC not ECI** (2023). There is **no** “Panchayati Raj Commission of India.” SEC ≠ CEC’s State office. Removal like **HC judge**, not SC judge.
+> **Logic:** Panchayat polls = **SEC not ECI** (2023). There is **no** “Panchayati Raj Commission of India.” SEC ≠ CEC’s State office. Removal like **HC judge**, not SC judge.
 
 **PYQ — UPPCS Prelims 2023, Q17**
 
@@ -353,7 +353,7 @@ Trap: SEC = ECI’s State office. **Separate constitutional office.** Trap: SEC 
 - **Report:** to the **Governor**, who lays it in **both Houses** (UP is bicameral) with an **action-taken** note
 - From the 10th FC onwards the Union FC also writes PRI/ULB grants; that does **not** abolish the State FC
 
-> ** note:** SFC report → **Governor**, not President. **One** SFC, two articles (243I and 243Y) — not two commissions.
+> **Logic:** SFC report → **Governor**, not President. **One** SFC, two articles (243I and 243Y) — not two commissions.
 
 ---
 
@@ -367,7 +367,7 @@ Trap: SEC = ECI’s State office. **Separate constitutional office.** Trap: SEC 
 - Inquire into allegations against ministers, MLAs, officials, local bodies **as the 1975 Act lists**. Recommends prosecution / removal — **not** a criminal court and **not** a substitute for the Allahabad HC
 - There is **no** all-India Lokayukta. Whether the **CM** is in = read the **UP Act**, do not copy the Lokpal’s PM filter
 
-> ** note:** First Lokayukta State = **Maharashtra 1971**. UP Act **1975**. 2013 Union Act asked States to have one — UP already did.
+> **Logic:** First Lokayukta State = **Maharashtra 1971**. UP Act **1975**. 2013 Union Act asked States to have one — UP already did.
 
 ---
 
@@ -384,7 +384,7 @@ Trap: SEC = ECI’s State office. **Separate constitutional office.** Trap: SEC 
 - **DPC (243ZD):** every district. At least **4/5** elected from PRI + ULB members. Consolidates rural **and** urban draft plans
 - **PESA does not apply** — UP has **no Fifth Schedule** areas. **6th Schedule** does not apply (ADCs = Assam, Meghalaya, Tripura, Mizoram)
 
-> ** note:** UP’s middle tier is **Kshetra Panchayat**, not Panchayat Samiti. Nyaya Panchayat ≠ a 73rd tier. Constitution’s women floor is **1/3**; **50%** is UP’s statute.
+> **Logic:** UP’s middle tier is **Kshetra Panchayat**, not Panchayat Samiti. Nyaya Panchayat ≠ a 73rd tier. Constitution’s women floor is **1/3**; **50%** is UP’s statute.
 
 ---
 
@@ -400,7 +400,7 @@ Trap: SEC = ECI’s State office. **Separate constitutional office.** Trap: SEC 
 - **MPC:** million-plus urban agglomerations: Metropolitan Planning Committee, at least **2/3** elected (Lucknow / Kanpur / Ghaziabad class)
 - **Ward Committees (243S):** compulsory in a municipality of **3 lakh+**. **Not** a fourth 74th type
 
-> ** note:** Nagar Nigam polls = **SEC**, not ECI. Mayor ≠ executive (that is the **Commissioner**). Cantonment = **Defence**. **Noida is not a Nagar Nigam.**
+> **Logic:** Nagar Nigam polls = **SEC**, not ECI. Mayor ≠ executive (that is the **Commissioner**). Cantonment = **Defence**. **Noida is not a Nagar Nigam.**
 
 ---
 

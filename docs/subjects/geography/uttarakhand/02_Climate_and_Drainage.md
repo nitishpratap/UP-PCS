@@ -2,8 +2,16 @@
 
 ### ★ UKPCS state card (Unit 2)
 
-> **High-yield 2025:** rivers west→east (Q109). 
+> **Sources:** UKPCS west→east river keys, NCERT Himalayan climate belts, Panch Prayag map.  
+> **High-yield 2025:** rivers west→east (Q109).  
 > **Climate vulnerability / SCCC:** [Natural Hazards](07_Transport_Tourism_Natural_Hazards.md) (Q105–Q106).
+
+---
+
+## Current Affairs (this topic)
+
+- Cloudburst / flood seasons and glacier news refresh the climate–drainage link; institutional SCCC keys stay under hazards.
+- Keep the west→east four-river list stable for mismatch stems.
 
 ---
 
@@ -29,11 +37,11 @@
 
 | Pair | Correct |
 |------|---------|
-| West→east vs east→west | Yamuna west; Gori east — reverse list is the distractor |
-| Bhilangana vs Alaknanda | Tehri tributary of Bhagirathi vs central Garhwal trunk |
-| Gori vs Kali | Gori is the 2025 eastern marker; Kali is the Nepal-border trunk nearby |
+| West→east vs east→west | **Yamuna** is west; **Gori** is east — reverse list is the distractor |
+| Bhilangana vs Alaknanda | **Bhilangana** joins **Bhagirathi at Tehri**; Alaknanda is the central Garhwal trunk |
+| Gori vs Kali | **Gori** is the 2025 eastern marker; **Kali/Sharda** is the Nepal-border trunk nearby |
+| Two Dhauligangas | Vishnuprayag uses **western Dhauli Ganga**; **Eastern Dhauliganga** → Kali/Sharda |
 | Devprayag vs other prayags | Only Devprayag forms the **Ganga** (Bhagirathi + Alaknanda) |
-| Climate CA vs physio | Climate-vulnerability facts sit under the hazards topic |
 
 ---
 
@@ -42,16 +50,16 @@
 **Identity:** Altitude-stacked climate shaped by monsoon and western disturbances.
 
 - Altitude creates stacked climatic belts from warm subtropical Tarai foothills to cold alpine heights.
-- Lower hills and Tarai feel humid subtropical summers.
-- Mid-hills are temperate.
-- High valleys turn alpine and glacial.
-- The **southwest monsoon** brings the bulk of summer rainfall on windward outer slopes.
+- **Tarai and dun** feel humid subtropical summers with hot pre-monsoon months.
+- **Mid-hills** are temperate, with cool summers and cold winters in deep valleys.
+- **High valleys** turn alpine and glacial above the permanent snow line.
+- The **southwest monsoon** brings the bulk of summer rainfall on windward outer Himalayan slopes.
 - **Western disturbances** bring winter precipitation and snowfall to the higher Himalaya.
-- Orography drives heavy rain on outer slopes.
-- Some inner valleys sit in rain-shadow pockets.
-- Monsoon bursts and steep slopes explain landslide seasonality in the mid-hills.
-- The same factors also drive flash-flood seasonality.
+- Orography drives heavy rain on outer slopes; some inner valleys sit in rain-shadow pockets.
+- Temperature falls with altitude — the usual Himalayan lapse-rate teaching applies on state stems.
+- Monsoon bursts and steep slopes explain landslide and flash-flood seasonality in the mid-hills.
 - Glaciers and snowfields feed the major Himalayan rivers of the state.
+- That physical stack — steep relief, glacier-fed rivers, concentrated monsoon bursts — is why the state is treated as **highly climate-vulnerable** (water stress, landslides, habitat pressure). Institutional SCCC / UAPCC facts sit on top of this picture in the hazards chapter.
 
 ---
 
@@ -75,7 +83,8 @@
 
 **Identity:** Five Alaknanda confluences | Devprayag forms the Ganga.
 
-- **Vishnuprayag** is where the **Dhauliganga** joins the Alaknanda.
+- **Vishnuprayag** is where the **Dhauli Ganga** (western / Alaknanda Dhauli) joins the Alaknanda.
+- **Eastern Dhauliganga** is **not** in the Panch Prayag set — it joins the **Kali / Sharda** eastward. Any stem pairing Eastern Dhauliganga with Alaknanda is wrong.
 - **Nandaprayag** is where the **Nandakini** joins the Alaknanda.
 - **Karnaprayag** is where the **Pindar** joins the Alaknanda.
 - **Rudraprayag** is where the **Mandakini** joins the Alaknanda.
@@ -83,7 +92,6 @@
 - At Devprayag the river becomes the **Ganga**.
 - Downstream order is Vishnuprayag → Nandaprayag → Karnaprayag → Rudraprayag → Devprayag.
 - Driving up from Rishikesh meets the same five prayags in reverse order.
-- The river-flow sequence above is the standard coaching spine.
 
 ---
 

@@ -14,6 +14,13 @@ Habitat | Habitat Conservation | Flora and Fauna
 
 ---
 
+## Current Affairs (this topic)
+
+- Habitat-loss and corridor news often refresh Terai / Himalaya colour for UP–UK.
+- Do not swap endemic vs endangered wording when CA names a new Red List update.
+
+---
+
 ## Consolidated — 24 Must-Score Facts
 
 1. A **habitat** is the physical **place** where an organism lives. A **niche** is the **role**. An **ecosystem** is the functional unit. **Environment** is the total surroundings.
@@ -254,7 +261,7 @@ D. 4, 2, 3, 1
 
 - UP has **no coastline**, so mangrove flora is **not** found in the state.
 
-> ** note:** BSI = **plants**. ZSI = **animals**. Both HQ **Kolkata**. Trap — BSI documents animal diversity is **false**.
+> **Logic:** BSI = **plants**. ZSI = **animals**. Both HQ **Kolkata**. Trap — BSI documents animal diversity is **false**.
 
 **PYQ — UPPCS Prelims 2024, Q29**
 

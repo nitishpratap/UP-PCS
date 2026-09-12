@@ -14,6 +14,13 @@ IPCC | UNEP | UNDP | IUCN | WWF | FAO (Environment-related Role)
 
 ---
 
+## Current Affairs (this topic)
+
+- IPCC AR cycle and UNEP / WMO headlines are institutional CA.
+- Keep UNFCCC Secretariat vs IPCC role split clear.
+
+---
+
 ## Consolidated — 24 Must-Score Facts
 
 1. **IPCC** sits in **Geneva**, issues Assessment Reports, and synthesises climate science. It does **not** set NDCs and is **not** the UNFCCC treaty body.
@@ -72,7 +79,7 @@ IPCC | UNEP | UNDP | IUCN | WWF | FAO (Environment-related Role)
 - IPCC **synthesises existing science**. It does **not** conduct primary research or set emission targets.
 - **UNFCCC** is the **treaty body** where countries negotiate **NDCs** at **COP** meetings. IPCC informs but does not decide policy.
 
-> ** note:** "IPCC sets Paris Agreement targets" = **false**.
+> **Logic:** "IPCC sets Paris Agreement targets" = **false**.
 
 | Body | Role |
 |------|------|
@@ -157,7 +164,7 @@ Emissions Gap Report → Options include UNEP (2), UNDP (3)
 - IUCN **assesses scientific risk**. It does **not** regulate international trade — **CITES** does that.
 - IUCN provides scientific input to **CBD and CITES** but is a separate organisation.
 
-> ** note:** "IUCN bans wildlife trade" = **false** — **CITES** regulates trade.
+> **Logic:** "IUCN bans wildlife trade" = **false** — **CITES** regulates trade.
 
 ---
 

@@ -127,7 +127,7 @@ Law officers, auditor, CEC/ECs, PSC chairs, two Chief Justices — each as an **
 - **Pay:** fixed by the **President**. **Not** 2nd Schedule / not CFI-charged as a judge/CAG
 - **First:M.C. Setalvad**. Assisted by **Solicitor General** → Additional SGs → ASGs — those rungs are **not** Art. 76
 
-> ** note:** AG qualifies as an **SC** judge but is **not** removed like one. Pleasure, not impeachment. Not a minister. Not Part XIII.
+> **Logic:** AG qualifies as an **SC** judge but is **not** removed like one. Pleasure, not impeachment. Not a minister. Not Part XIII.
 
 **PYQ — UPPCS Prelims 2023, Q12**
 
@@ -169,7 +169,7 @@ Trap: AG is a minister. **No.** Trap: AG must be an MP. **No** (and if separatel
 
 There is **no “Advocate General of India.”** Union = AG + SG. State = Advocate General.
 
-> ** note:** SG is **not** in Article 76. SG has **no** Art. 88 right to address Parliament.
+> **Logic:** SG is **not** in Article 76. SG has **no** Art. 88 right to address Parliament.
 
 ---
 
@@ -188,7 +188,7 @@ There is **no “Advocate General of India.”** Union = AG + SG. State = Advoca
 
 **UP colour:** UP Advocate General ≠ UP **Accountant General** (CAG’s field) ≠ **UPPSC** Chairman.
 
-> ** note:** AdvG qualifies as an **HC** judge, not SC. Pleasure of the Governor, not impeachment. Art. **177** in the Vidhan Sabha, not Art. 88.
+> **Logic:** AdvG qualifies as an **HC** judge, not SC. Pleasure of the Governor, not impeachment. Art. **177** in the Vidhan Sabha, not Art. 88.
 
 ---
 
@@ -209,7 +209,7 @@ There is **no “Advocate General of India.”** Union = AG + SG. State = Advoca
 - **First (independent India):V. Narahari Rao**. Accounting split from audit **1976** — Indian CAG is auditor only (2019 PYQ)
 - **Field:Accountant General** in a State = CAG’s officer. **≠ Advocate General**
 
-> ** note:** CAG ≠ pleasure (that is AG). Indian CAG **audits after** spend; UK Comptroller can **block** first. Accountant General ≠ Advocate General.
+> **Logic:** CAG ≠ pleasure (that is AG). Indian CAG **audits after** spend; UK Comptroller can **block** first. Accountant General ≠ Advocate General.
 
 **PYQ — UPPCS Prelims 2022, Q55**
 
@@ -262,7 +262,7 @@ This cluster is the **office**: who appoints, who removes, oath, resigns-to-whom
 | **Pay (2023 Act)** | Aligned with **Cabinet Secretary**, not SC judge | Same |
 | **Conditions** | Not varied to disadvantage after appointment | — |
 
-> ** note:** CEC removed **like SC judge**. Other ECs **only on CEC’s recommendation**. 2023 panel has **no CJI** (Lokpal panel **has** the CJI).
+> **Logic:** CEC removed **like SC judge**. Other ECs **only on CEC’s recommendation**. 2023 panel has **no CJI** (Lokpal panel **has** the CJI).
 
 **Firsts:** First CEC = **Sukumar Sen** (1950; first GE 1951–52). First woman CEC = **V.S. Ramadevi / Rama Devi, 1990** (short). **T.N. Seshan** = MCC muscle, not first.
 
@@ -298,7 +298,7 @@ Trap: other ECs enjoy the same removal shield as the CEC. **No.** Trap: 2023 Act
 
 UPSC *functions from Constitution + laws + executive rules + conventions*. Lineage: Lee Commission 1924 / Ross Barker. UPSC ≠ SSC ≠ CAPF board.
 
-> ** note:** UPSC Chair = **total 319 bar**. UPSC member may become UPSC **Chair** or an **SPSC Chair**.
+> **Logic:** UPSC Chair = **total 319 bar**. UPSC member may become UPSC **Chair** or an **SPSC Chair**.
 
 **Art. 319 — next job (write all four)**
 
@@ -323,7 +323,7 @@ Trap: UPSC Chair is removed by the PM. **President + SC inquiry.** Trap: UPSC Ch
 - **Further office (319):** SPSC **Chairman** may later be **UPSC Chair** or Chair of **another** SPSC — not other Union/State office
 - **JPSC:** two+ States **request** → **Parliament** by law. Appoint/remove = **PresidentUP:UPPSC**, HQ **Prayagraj**. ≠ UPSC (Delhi) ≠ UP **SEC** (local polls).
 
-> ** note:** Three different authorities for SPSC: **appoint Governor · remove President · extend Legislature**. UPSC retires at **65**; SPSC at **62**.
+> **Logic:** Three different authorities for SPSC: **appoint Governor · remove President · extend Legislature**. UPSC retires at **65**; SPSC at **62**.
 
 **PYQ — UPPCS Prelims 2021, Q81**
 
@@ -363,7 +363,7 @@ Three different authorities for SPSC: **appoint Governor · remove President · 
 - **Oath:3rd Schedule**, before the **President** (or person he appoints). Art. **60**: *President’s* oath is administered **by the CJI** — do not reverse that
 - **Acting CJI (126):** President; convention = senior-most available SC judge. Pay charged; 2nd Schedule family
 
-> ** note:** SC judge / CJI resigns to the **President**, not to “the CJI”. Art. 60 is the **President’s** oath, *administered by* the CJI.
+> **Logic:** SC judge / CJI resigns to the **President**, not to “the CJI”. Art. 60 is the **President’s** oath, *administered by* the CJI.
 
 **Seniority broken twice:1973 A.N. Ray** (post-*Kesavananda*) · **1977 M.H. Beg** (superseded **H.R. Khanna**). Restored **1978 (Y.V. Chandrachud)**.
 
@@ -388,7 +388,7 @@ Trap: CJI resigns to the Law Minister / to the next senior judge. **President.**
 - **Transfer (222):** President after consulting CJI. Judge’s consent **not** required
 - **Officers (229):** appointed by the **Chief Justice** of that HC
 
-> ** note:** HC CJ oath = **Governor**. Resign = **President**. Age **62**, not 65.
+> **Logic:** HC CJ oath = **Governor**. Resign = **President**. Age **62**, not 65.
 
 ---
 
@@ -404,7 +404,7 @@ Trap: CJI resigns to the Law Minister / to the next senior judge. **President.**
 
 **Article raata (all ten + cousins):** AG **76** (+ **88**) · SG **none** · AdvG **165** (+ **177**) · CAG **148–151** · CEC / EC **324** · UPSC / SPSC Chair **315–323** (**319** next-job) · CJI **124** (acting **126**) · CJ HC **216–217** (oath **219**, acting **223**) · President / VP / Governor oaths **60 / 69 / 159** — not 3rd Sch. · SEC (not this ten) **243K / 243ZA**.
 
-> ** note:** President’s oath ≠ 3rd Schedule. CJI *administers* Art. 60; CJI *takes* a 3rd Schedule oath before the President. **ECI ≠ 165.**
+> **Logic:** President’s oath ≠ 3rd Schedule. CJI *administers* Art. 60; CJI *takes* a 3rd Schedule oath before the President. **ECI ≠ 165.**
 
 ---
 
@@ -426,7 +426,7 @@ Trap: CJI resigns to the Law Minister / to the next senior judge. **President.**
 - **Deputy Chairman, RS** → **Chairman** (the VP) (**90**) · **Chairman, Legislative Council** → **Deputy Chairman** (**183**)
 - **CJI acting as President** vacates that acting role when a President is elected (**1969 Act** — not a 124 resignation)
 
-> ** note:** President resigns to the **VP**, not the CJI/PM. Governor resigns to the **President**, not the CM. LS Speaker resigns to the **Deputy Speaker**, not the President. RS Chairman **is the VP** → President (**67**).
+> **Logic:** President resigns to the **VP**, not the CJI/PM. Governor resigns to the **President**, not the CM. LS Speaker resigns to the **Deputy Speaker**, not the President. RS Chairman **is the VP** → President (**67**).
 
 ---
 

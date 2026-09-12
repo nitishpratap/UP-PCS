@@ -14,6 +14,13 @@ Red Data Book | IUCN Red List Categories | Wetlands | Mangroves | Coral Reefs | 
 
 ---
 
+## Current Affairs (this topic)
+
+- New IUCN category moves for flagship species are the usual CA refresh.
+- Keystone / umbrella / flagship / indicator definitions stay concept-fixed.
+
+---
+
 ## Consolidated — 26 Must-Score Facts
 
 1. India’s **Red Data Book** is a **national** catalogue — **BSI** for plants, **ZSI** for animals (both Kolkata). The **IUCN Red List** is the **global** extinction-risk system from IUCN (Gland).
@@ -81,7 +88,7 @@ Red Data Book | IUCN Red List Categories | Wetlands | Mangroves | Coral Reefs | 
 | Publisher | BSI (plants), ZSI (animals) | IUCN (Gland) |
 | Function | National threat inventory | Standardised risk categories |
 
-> ** note:** "Red Data Book of Indian plants published by ZSI" = **FALSE** — plants = **BSI**, animals = **ZSI**.
+> **Logic:** "Red Data Book of Indian plants published by ZSI" = **FALSE** — plants = **BSI**, animals = **ZSI**.
 
 ---
 
@@ -115,7 +122,7 @@ Red Data Book | IUCN Red List Categories | Wetlands | Mangroves | Coral Reefs | 
 | DD | Data Deficient |
 | NE | Not Evaluated |
 
-> ** note:** "All threatened species are Endangered" = **FALSE**. Threatened = **VU + EN + CR**.
+> **Logic:** "All threatened species are Endangered" = **FALSE**. Threatened = **VU + EN + CR**.
 
 ---
 
@@ -159,7 +166,7 @@ D. 1 and 2
 | High-altitude wetland | Chandra Taal, Tso Moriri |
 | Coastal/mangrove wetland | Sundarbans |
 
-> ** note:** Ramsar = **wetlands**, not climate or forests.
+> **Logic:** Ramsar = **wetlands**, not climate or forests.
 
 ---
 
@@ -206,7 +213,7 @@ D. Only 1
 | Avicennia | Salt-secreting leaves |
 | Sonneratia | Pneumatophores |
 
-> ** note:** Mangroves = **coastal saline**, not freshwater marshes alone.
+> **Logic:** Mangroves = **coastal saline**, not freshwater marshes alone.
 
 ---
 
@@ -240,7 +247,7 @@ D. Decrease of 4°C in Indian Ocean
 
 </details>
 
-> ** note:** Bleaching = **temperature rise**, not pollution alone or **−4°C cooling**.
+> **Logic:** Bleaching = **temperature rise**, not pollution alone or **−4°C cooling**.
 
 ---
 
@@ -263,7 +270,7 @@ D. Decrease of 4°C in Indian Ocean
 | Semi-arid savanna | Deccan | Blackbuck |
 | Alpine meadow | High Himalaya | Medicinal herbs |
 
-> ** note:Terai = UP grassland-forest mosaic**. Puszta = **Hungary** (world geography distractor), not Indian grassland.
+> **Logic:** Terai = UP grassland-forest mosaic**. Puszta = **Hungary** (world geography distractor), not Indian grassland.
 
 ---
 
@@ -305,7 +312,7 @@ D. Both true; R explains A
 | Alpine meadow | 3,600–4,500 m | Herbs, dwarf shrubs |
 | Nival | >4,500 m | Lichens, permanent snow |
 
-> ** note:** Snow leopard = **high Himalayan** zones, not Terai or Sundarbans.
+> **Logic:** Snow leopard = **high Himalayan** zones, not Terai or Sundarbans.
 
 ---
 
@@ -330,7 +337,7 @@ D. Both true; R explains A
 | Pelagic | Open ocean | Low–moderate |
 | Benthic | Seafloor | Variable |
 
-> ** note:** Highest marine fisheries productivity = **neritic/continental shelf**, not open deep ocean.
+> **Logic:** Highest marine fisheries productivity = **neritic/continental shelf**, not open deep ocean.
 
 ---
 

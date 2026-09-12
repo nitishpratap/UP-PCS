@@ -157,7 +157,7 @@ D. Hispar
 - The plateau is separated from the Northern Plains roughly along the **Narmada–Son** line.
 - The **Malda Gap** (Rajmahal–Garo gap) separates the Meghalaya Plateau from the main peninsular block.
 
-> ** note:** Thar sands = **Pleistocene and recent** (not Paleocene/Oligocene/Pliocene). Gujarat = longest **state** coastline (~1600 km mainland).
+> **Logic:** Thar sands = **Pleistocene and recent** (not Paleocene/Oligocene/Pliocene). Gujarat = longest **state** coastline (~1600 km mainland).
 
 ---
 
@@ -193,6 +193,7 @@ D. Oligocene
 ### Northern Plains
 
 - The Northern Plain is a **foredeep** filled by Himalayan rivers. South of the Shiwaliks the belts run **Bhabar**, then **Terai**, then **Bhangar / Khadar**. Never reverse that order.
+- Direction matters. From the **Himalaya foot moving south**, the order is **Shiwalik → Bhabar → Terai**. From the **Gangetic edge moving north**, UK-style lists read **Tarai → Bhabar → Shiwalik**. Same belts — opposite reading direction. Always note where the stem starts.
 - The Indian sector of this alluvial tract is about **2400 km** long. Width is greatest in the west (about **500 km**) and narrows eastward.
 - Average elevation is about **200 m**. The **Ambala** watershed (about **291 m**) divides the **Indus** and **Ganga** systems.
 - The **Bhabar** is a narrow pebble belt, about **8–16 km** wide, immediately south of the Shiwaliks. Streams **sink** into the porous gravel here.
@@ -228,7 +229,7 @@ D. Oligocene
 - **Majuli** in Assam is the world’s largest inhabited **river island** (shrinking by erosion). **Kaziranga** sits on the Brahmaputra floodplain.
 - The Ganga delta is **arcuate**. The **Sundarbans** mangrove tract straddles India and Bangladesh.
 
-> ** note:** Khadar is newer and more fertile. Never swap it with Bhangar. Duars of West Bengal–Assam are a **different** foothill tract from the UP Terai.
+> **Logic:** Khadar is newer and more fertile. Never swap it with Bhangar. Duars of West Bengal–Assam are a **different** foothill tract from the UP Terai.
 
 ### Indian Desert (Thar / Marusthali)
 
@@ -241,7 +242,7 @@ D. Oligocene
 - The **Luni** is the only major river of the region. It is **seasonal** and **inland-draining**. It is not a perennial Arabian Sea river.
 - The southern margin is the **Rann of Kachchh**. The eastern margin is the Aravalli.
 
-> ** note:** Thar sands = Pleistocene and recent (not older Tertiary epochs).
+> **Logic:** Thar sands = Pleistocene and recent (not older Tertiary epochs).
 
 ### Coastal Plains
 
@@ -279,7 +280,7 @@ D. Oligocene
 - Kerala beach sands carry **monazite** (thorium). The KG offshore basin is a hydrocarbon play.
 - West-flowing Narmada and Tapi form **estuaries**, not large deltas.
 
-> ** note:** Do not reverse widths. West is narrow; east is broad. Do not call the **whole** west coast submerged — only **Konkan** is the classic drowned coast.
+> **Logic:** Do not reverse widths. West is narrow; east is broad. Do not call the **whole** west coast submerged — only **Konkan** is the classic drowned coast.
 
 ### Islands of India
 
@@ -298,7 +299,7 @@ D. Oligocene
 - The **Eight Degree Channel** separates **Minicoy** from the **Maldives**.
 - Adam’s Bridge / **Rama Setu** remnants lie between India and Sri Lanka. They are a submerged limestone shoal, not a Himalayan fold.
 
-> ** note:** Never reverse origins. A&N = volcanic. Lakshadweep = coral.
+> **Logic:** Never reverse origins. A&N = volcanic. Lakshadweep = coral.
 
 ---
 
@@ -334,7 +335,7 @@ D. Oligocene
 - High snow-covered ranges feed **perennial** Himalayan rivers (Indus, Ganga, Brahmaputra headwaters).
 - Altitude creates climate belts, so vegetation changes from tropical through temperate and alpine to nival.
 
-> **Note:** All three fossil facts are true. Greater Himalaya is **fossil-less**. Lesser Himalaya carries **marine fossils**. Shiwalik carries **human remains**. Among usual options the **youngest** range is **Himadri** (Aravalli is oldest). Snow-melt feeds perennial rivers. Altitude creates vegetation zonation.
+> **Logic:** All three fossil facts are true. Greater Himalaya is **fossil-less**. Lesser Himalaya carries **marine fossils**. Shiwalik carries **human remains**. Among usual options the **youngest** range is **Himadri** (Aravalli is oldest). Snow-melt feeds perennial rivers. Altitude creates vegetation zonation.
 
 **PYQ — UPPCS Prelims 2019, Q11**
 
@@ -401,7 +402,7 @@ D. 1, 2 and 3 are correct
 - **Karewas** are Pleistocene **lacustrine** terraces left when the Kashmir lake drained through Baramulla. Thickness can reach about **1400 m**.
 - Karewas grow **saffron**, almond, walnut, and apple. They are **not** the same landform as a dun.
 
-> ** note:** Kangra–Dhauladhar is a **Himachal** pairing. Do not use it for Kashmir. Atal Tunnel is in **Pir Panjal**, not Karakoram or Zanskar.
+> **Logic:** Kangra–Dhauladhar is a **Himachal** pairing. Do not use it for Kashmir. Atal Tunnel is in **Pir Panjal**, not Karakoram or Zanskar.
 
 ### Purvanchal, Garo–Khasi–Jaintia, Duars
 
@@ -419,7 +420,7 @@ D. 1, 2 and 3 are correct
 - The **Jaintia Hills** occupy eastern Meghalaya and are known for limestone caves.
 - **Duars / Dooars** are the Himalayan foothills of **West Bengal and Assam**. They are the “door” to Bhutan and carry tea and wildlife corridors (Jaldapara, Gorumara, Buxa).
 
-> ** note:** Wettest places sit on **Khasi Hills**. Duars ≠ Terai of UP.
+> **Logic:** Wettest places sit on **Khasi Hills**. Duars ≠ Terai of UP.
 
 ### Himalayan peaks (match home)
 
@@ -542,7 +543,7 @@ D. Satpura, Mahadeo, Chhotanagpur and Maikal
 - **Sirumalai** is a Tamil Nadu outlier. Pair it with Annamalai as **peninsular**, not Himalayan.
 - **Eravikulam** (Nilgiri Tahr) and **Periyar** belong to this southern Western Ghats complex.
 
-> ** note:** Doddabetta = **Tamil Nadu**. Anaimudi = **Kerala**. Annamalai / Sirumalai are **not** Himalayan.
+> **Logic:** Doddabetta = **Tamil Nadu**. Anaimudi = **Kerala**. Annamalai / Sirumalai are **not** Himalayan.
 
 ### Deccan Plateau and Deccan Trap
 
@@ -632,7 +633,7 @@ D. Depth of upper trap – approximately 450 metres
 | **Diphu / Aghil** | Karakoram | Not Arunachal / not “Ladakh town” traps | 2023 wrong options |
 | **Khardung La** | Ladakh | Leh–Nubra road | High motorable pass; not a Tibet trade pass of the Nathu type |
 
-> ** note:Only Lipulekh–Ladakh is NOT matched** among common pass–state pairs. Nathu La–Sikkim and Shipki La–HP are correct. **Niti** and **Mana** are **Uttarakhand**, not Himachal.
+> **Logic:** Only Lipulekh–Ladakh is NOT matched** among common pass–state pairs. Nathu La–Sikkim and Shipki La–HP are correct. **Niti** and **Mana** are **Uttarakhand**, not Himachal.
 
 **PYQ — UPPCS Prelims 2025, Q55**
 
@@ -759,7 +760,7 @@ D. Only 1
 - It does **not** pass through **Uttarakhand, Jharkhand, Bihar, West Bengal, Telangana, Maharashtra, or Tamil Nadu**. Options that sneak in **Uttarakhand** or **Jharkhand** are classic wrong sets.
 - Do **not** confuse this N–S **longitude** line with the Tropic of Cancer (an E–W **latitude** line). They are different. Both do cut through **Madhya Pradesh** and **Chhattisgarh**, so map stems can mix them.
 
-> ** note:** Place = **Mirzapur**. Offset = **+5:30**. States = **five** (UP–MP–CG–Odisha–AP). IST is **uniform** for all of India — never “only east of 82°30′ E.”
+> **Logic:** Place = **Mirzapur**. Offset = **+5:30**. States = **five** (UP–MP–CG–Odisha–AP). IST is **uniform** for all of India — never “only east of 82°30′ E.”
 
 ### Tropic of Cancer (23°30′ N)
 
@@ -782,7 +783,7 @@ D. Only 1
 - It does **not** pass through Bihar, Odisha, Maharashtra, Karnataka, Kerala, Tamil Nadu, Punjab, Haryana, Delhi, Assam, Nagaland, Manipur, Arunachal, Sikkim, Himachal, Uttarakhand, Goa, Andhra Pradesh, or Telangana.
 - NCERT says the Tropic passes through the **middle** of the country. That does **not** mean equal land area north and south of 23°30′ N: **more land lies north** of the Tropic.
 
-> **Note:** Rank = **7th**, not 6th. Area **2.4%**. Tropic through the **middle** matches the NCERT wording used in statement 3. India is **not** wholly tropical. UP is **not** on the Tropic.
+> **Logic:** Rank = **7th**, not 6th. Area **2.4%**. Tropic through the **middle** matches the NCERT wording used in statement 3. India is **not** wholly tropical. UP is **not** on the Tropic.
 
 **PYQ — UPPCS Prelims 2022, Q35Logic:** Stmt 1 tests rank (7th vs 6th). Stmt 2 tests area share. Stmt 3 is the NCERT “middle” wording (do not upgrade it to equal land area). Stmt 4 traps “wholly tropical.”
 
@@ -841,7 +842,7 @@ D. 1 and 2
 - The Andaman and Nicobar coastline is long (about **1962 km**) but it is **not** in the **state** ranking.
 - **Telangana** is not a coastal state. **Puducherry** is a coastal UT with enclaves, not a “tenth coastal state” in this ranking.
 
-> ** note:Gujarat** has the longest **state** mainland coastline — not Maharashtra, Andhra Pradesh, or Kerala.
+> **Logic:** Gujarat** has the longest **state** mainland coastline — not Maharashtra, Andhra Pradesh, or Kerala.
 
 ---
 

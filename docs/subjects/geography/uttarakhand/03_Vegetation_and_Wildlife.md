@@ -2,8 +2,16 @@
 
 ### ★ UKPCS state card (Unit 2)
 
-> **High-yield 2025:** Nanda Devi BR (Q20) · sanctuary–district match (Q104) · forest A/R (Q108) · NP years (Q114).
+> **Sources:** UKPCS sanctuary–district and NP-year keys, UNESCO Nanda Devi BR, altitude forest stack.  
+> **High-yield 2025:** Nanda Devi BR (Q20) · sanctuary–district match (Q104) · forest A/R (Q108) · NP years (Q114).  
 > **Ghatnachakra vegetation points:** birch · deodar belt · Lisa (pine resin) · khair = sub-tropical · highest-elevation tree.
+
+---
+
+## Current Affairs (this topic)
+
+- New sanctuary notifications or UNESCO / BR news can refresh fauna lists; keep district–sanctuary pairs stable.
+- NP foundation years (Corbett 1936, Rajaji 1983, Gangotri 1989, Govind 1990) are high-recycle traps.
 
 ---
 

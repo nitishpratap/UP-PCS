@@ -14,6 +14,13 @@ Carbon Dioxide (CO₂) | Methane (CH₄) | Nitrous Oxide (N₂O) | Water Vapour 
 
 ---
 
+## Current Affairs (this topic)
+
+- WMO GHG Bulletin and methane CA refresh this twin of Climate Change.
+- GWP order traps (CO₂ / CH₄ / N₂O / fluorinated) stay core.
+
+---
+
 ## Consolidated — 30 Must-Score Facts
 
 1. A greenhouse gas absorbs outgoing infrared radiation and traps heat in the atmosphere.
@@ -87,7 +94,7 @@ Options: A. China B. USA C. India D. France
 
 </details>
 
-> ** note:** Highest GWP ≠ most total warming. **CO₂ wins on volume.**
+> **Logic:** Highest GWP ≠ most total warming. **CO₂ wins on volume.**
 
 ---
 
@@ -155,7 +162,7 @@ Options: A. 1 and 3 B. 3 and 4 C. 2 and 3 D. 1 and 2
 
 </details>
 
-> ** note:** Paddy temperature gas = **methane**, not CO or N₂.
+> **Logic:** Paddy temperature gas = **methane**, not CO or N₂.
 
 ---
 
@@ -183,7 +190,7 @@ Options: A. Ammonia B. Nitrous Oxide C. Carbon Monoxide D. Chlorofluorocarbon
 
 </details>
 
-> ** note:** Laughing gas = **N₂O only**.
+> **Logic:** Laughing gas = **N₂O only**.
 
 ---
 
@@ -197,7 +204,7 @@ Options: A. Ammonia B. Nitrous Oxide C. Carbon Monoxide D. Chlorofluorocarbon
 - Concentration varies widely (about **0–4%**) with place and weather; most is in the troposphere.
 - Condenses into clouds; linked to the hydrological cycle.
 
-> ** note:** “Largest anthropogenic GHG” is **not** water vapour — that label belongs to **CO₂** by forcing share.
+> **Logic:** “Largest anthropogenic GHG” is **not** water vapour — that label belongs to **CO₂** by forcing share.
 
 ---
 
@@ -234,7 +241,7 @@ Options: A. Nitrogen oxide B. CO₂ C. Methane D. Ozone
 
 </details>
 
-> ** note:** Ozone can be a GHG **and** a pollutant — layer decides the story.
+> **Logic:** Ozone can be a GHG **and** a pollutant — layer decides the story.
 
 ---
 
@@ -264,7 +271,7 @@ Options: A. Argon B. CFC C. Methane D. Carbon dioxide
 
 Ozone depletion has been linked to CFCs — **TRUE** (with UV-protection statement).
 
-> ** note:** CFC = climate warmer **and** ozone destroyer.
+> **Logic:** CFC = climate warmer **and** ozone destroyer.
 
 ---
 
@@ -283,7 +290,7 @@ Ozone depletion has been linked to CFCs — **TRUE** (with UV-protection stateme
 | HFC | No | High GWP GHG | Kyoto + Kigali |
 | HCFC | Yes (lower) | Transitional | Montreal phase-out |
 
-> ** note:** Replacing CFCs with HFCs fixed ozone risk but created a climate problem.
+> **Logic:** Replacing CFCs with HFCs fixed ozone risk but created a climate problem.
 
 ---
 

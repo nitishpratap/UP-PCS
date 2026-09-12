@@ -171,7 +171,7 @@ D. Official Language — Part XVII
 - First Commission: **B.G. Kher**, 1955 (report 1956).
 - First 344 committee: **Govind Ballabh Pant**.
 
-> ** note:** After 1960 the **Official Languages Act** carries the policy. Do not look for a 344 Commission every five years today.
+> **Logic:** After 1960 the **Official Languages Act** carries the policy. Do not look for a 344 Commission every five years today.
 
 ---
 
@@ -371,7 +371,7 @@ Operational title: **Commissioner for Linguistic Minorities** (first **1957**). 
 
 **29 / 30:** Constitution **never defines** “minority”. It **uses** linguistic and religious minorities (**2019 A/R** — both true; R does not define A). **350A/350B** are the **linguistic** machinery; NCM is **religious**.
 
-> ** note:** “One officer **per State**” is **false**. “350B by the **9th** Amd” is **false** — **7th, 1956**.
+> **Logic:** “One officer **per State**” is **false**. “350B by the **9th** Amd” is **false** — **7th, 1956**.
 
 **PYQ — UPPCS Prelims 2024, Q142**
 
@@ -436,7 +436,7 @@ D. Both 1 and 2
 - *In Re: Article 370* (**11 Dec 2023**) — SC **upheld** the 2019 orders. 370 was **temporary**. Restore **statehood** “as soon as possible.” Assembly polls followed **2024**.
 - J&K OL Act **2020** — **Kashmiri, Dogri, Hindi, Urdu, English** — five official languages.
 
-> ** note:** “35A = an Amendment Act” is **false**. “370 was deleted from the book by the 103rd Amd” is **false**. “J&K is still a State with 370” is **false**.
+> **Logic:** “35A = an Amendment Act” is **false**. “370 was deleted from the book by the 103rd Amd” is **false**. “J&K is still a State with 370” is **false**.
 
 ---
 

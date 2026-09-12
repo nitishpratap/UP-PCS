@@ -72,7 +72,7 @@ D. Lazzatnama
 
 1. Three Culture akademis sit at Rabindra Bhavan: **Sangeet Natak Akademi (1952)** for performing arts, **Sahitya Akademi (1954)** for letters, and **Lalit Kala Akademi (1954)** for visual arts.
 2. SNA gives the annual **Akademi Award**, the lifetime **Akademi Ratna (Fellowship)** for a small living cohort, and the **Bismillah Khan Yuva** award for young performing artists.
-3. Sahitya Akademi works in **24** languages: the **22** Eighth Schedule languages plus **English** and **Rajasthani**. **Bhojpuri** is not a separate Akademi language.
+3. Sahitya Akademi works in **24** languages: the **22** Eighth Schedule languages plus **English** and **Rajasthani. Bhojpuri** is not a separate Akademi language.
 4. Sahitya prizes include the annual book award, Fellowship, **Yuva Puraskar (authors ≤35)**, and Bal Sahitya. Yuva ran in **23** languages in **2025** with **no Dogri** that year.
 5. **Jnanpith** is given by the **Bharatiya Jnanpith** trust from **1965** (first winner **G. Sankara Kurup**). It is **not** a Sahitya Akademi award. The **58th** Jnanpith went to **Rambhadracharya** (with Gulzar).
 6. Lalit Kala gives National Awards and **Kala Ratna**, runs **Triennale India**, and has a regional centre at **Lucknow**. It is not the same body as **NGMA**.
@@ -81,7 +81,7 @@ D. Lazzatnama
 9. Dr **Zakir Husain** (Bharat Ratna **1963**) was the statesman-President. He is **not** the tabla maestro Ustad Zakir Hussain.
 10. **Sahitya Yuva Puraskar** is for young authors ≤35. **Bismillah Khan Yuva** is SNA’s young **performing** award. Do not swap the two Yuva names.
 11. **GI** follows the **1999** Act. Registry is at **Chennai** under **DPIIT / Commerce**, not Culture. First Indian GI was **Darjeeling Tea (2004)**.
-12. Culture-facing UP GIs include **Banarasi** brocade and **Chikankari**. **Blue Pottery** is Jaipur, not UP.
+12. Culture-facing UP GIs include **Banarasi** brocade and **Chikankari. Blue Pottery** is Jaipur, not UP.
 13. **Bismillah Khan** is the shehnai maestro of **Varanasi**, Bharat Ratna **2001**, and namesake of SNA Yuva. **Birju Maharaj** is Lucknow Kathak and not Bharat Ratna.
 14. **Premchand** is the UP Hindi-Urdu fiction fact. **Tulsidas** wrote *Ramcharitmanas* in Awadhi. **Rambhadracharya** is the Sanskrit Jnanpith fact.
 15. Akademi Award is the annual discipline prize. **Akademi Ratna** is the lifetime Fellowship. Papers often treat every SNA prize as Fellowship.
@@ -90,7 +90,7 @@ D. Lazzatnama
 18. **M. S. Subbulakshmi** is the first musician Bharat Ratna (**1998**, Carnatic). **Lata Mangeshkar** is the playback Bharat Ratna of **2001**.
 19. **Padma Vibhushan** is the second Padma tier, below Bharat Ratna. A Padma Vibhushan for Art is not automatic Bharat Ratna.
 20. Sahitya Akademi’s **24** languages are not identical to the **22** Eighth Schedule languages because English and Rajasthani are added.
-21. Lalit Kala is the visual **academy**. **NGMA** is the modern-art **gallery**. Do not merge academy and gallery.
+21. Lalit Kala is the visual **academy. NGMA** is the modern-art **gallery**. Do not merge academy and gallery.
 22. SNA is older (**1952**) than Sahitya and Lalit Kala (**1954**). Year order is a frequent match trap.
 23. **Bharat Ratna** is the highest civilian honour; the Prime Minister recommends names to the President. It is not an akademi prize.
 24. Jnanpith is a literary trust award from **1965**. Sahitya Akademi Award is the annual Culture-academy book prize. Keep trust versus academy clear.
@@ -136,7 +136,7 @@ D. Lazzatnama
 - **Pandit Birju Maharaj** is Padma Vibhushan and SNA Ratna. He is **not** Bharat Ratna.
 - **Rabindranath Tagore** won the **Nobel Prize in 1913**. He died in **1941**, before Bharat Ratna existed.
 
-> ** note:First musician BR = Subbulakshmi 1998**. **Bismillah = shehnai + 2001 + Varanasi**. Tabla Zakir ≠ 1963 BR.
+> **Logic:** First musician BR = Subbulakshmi 1998. Bismillah = shehnai + 2001 + Varanasi**. Tabla Zakir ≠ 1963 BR.
 
 ---
 
@@ -157,7 +157,7 @@ D. Lazzatnama
 - **Ebrahim Alkazi** is an SNA Ratna-level theatre-direction name.
 - An artist may hold SNA honours and a Padma or Bharat Ratna. The bodies are different.
 
-> ** note:SNA = 1952**. **Bismillah Khan Yuva = SNA**, not Sahitya.
+> **Logic:** SNA = 1952. Bismillah Khan Yuva = SNA**, not Sahitya.
 
 ---
 
@@ -172,7 +172,7 @@ D. Lazzatnama
 - The UP regional centre is at **Lucknow**.
 - Same founding year as Sahitya Akademi: **1954**. Not 1952.
 
-> ** note:Lalit Kala = visual, 1954**. **Lucknow** is the UP centre. Literature = Sahitya.
+> **Logic:** Lalit Kala = visual, 1954. Lucknow** is the UP centre. Literature = Sahitya.
 
 ---
 
@@ -271,7 +271,7 @@ D. Sudha Murthy
 - **Kalamkari** painting GI belongs to **Andhra Pradesh**.
 - **Blue Pottery of Jaipur** is Rajasthan, not Lucknow.
 
-> ** note:GI = Commerce, Chennai**. **First = Darjeeling Tea 2004**. **Banarasi + Chikan = UP**.
+> **Logic:** GI = Commerce, Chennai. First = Darjeeling Tea 2004. Banarasi + Chikan = UP**.
 
 ---
 
@@ -330,7 +330,7 @@ D. 3 2 4 1
 
 </details>
 
-> ** note:Bismillah = shehnai**. **Birju = Kathak, not BR**. **Tabla Zakir ≠ BR 1963**.
+> **Logic:** Bismillah = shehnai. Birju = Kathak, not BR. Tabla Zakir ≠ BR 1963**.
 
 ---
 

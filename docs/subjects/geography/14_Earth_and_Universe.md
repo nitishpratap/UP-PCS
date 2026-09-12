@@ -3668,8 +3668,6 @@ D. 2 and 4 only
 
 Older stems from Ghatnachakra CB–51+ (rock cycle → volcanoes). Teaching lives in N.16A–N.18 of Topic 14. Do not rewrite the year-coded UPPCS 2018–2025 bank. Skip an exact Rainier–Etna–Paricutin–Apo 2021 duplicate (already in UPPCS bank); other Match Lists OK.
 
-**Logic:** Multi-statement sedimentary desk — surface formation, weathered parents, fossils, and strata. All four are true; the trap is cutting one classic trait.
-
 **Q-GC1. IAS (Pre) 2001 / Ghatnachakra**
 
 Consider the following statements about **sedimentary rocks**:
@@ -3691,6 +3689,8 @@ D. 1, 2, 3 and 4
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Multi-statement sedimentary desk — surface formation, weathered parents, fossils, and strata. All four are true; the trap is cutting one classic trait.
 
 **Ans: D.** Statement **1** is true — sedimentary rocks form at or near the surface. Statement **2** is true — fragments come from weathered preexisting rocks. Statement **3** is true — fossils favour sedimentary burial. Statement **4** is true — beds occur as **strata**. Trap: dropping fossils or layering as “optional.”
 
@@ -3772,8 +3772,6 @@ D. Granite
 
 </details>
 
-**Logic:** Origin of metamorphic rocks — heat and pressure remake any preexisting rock, not one family alone.
-
 **Q-GC6. Jharkhand P.C.S. (Pre) 2011 / Ghatnachakra**
 
 Metamorphic rocks can originate from
@@ -3789,11 +3787,11 @@ D. neither igneous nor sedimentary rocks
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Origin of metamorphic rocks — heat and pressure remake any preexisting rock, not one family alone.
+
 **Ans: C.** **Metamorphism** remakes **igneous** and **sedimentary** parents (and older metamorphic rock too). Trap: locking the family to sedimentary parents alone because fossils favour sediment.
 
 </details>
-
-**Logic:** NOT-metamorphic trap — marble, quartzite and slate are remade rocks; granite cools from magma.
 
 **Q-GC7. Uttarakhand P.C.S. (Pre) 2006 / Ghatnachakra**
 
@@ -3810,11 +3808,11 @@ D. Granite
 <details>
 <summary>Show answer</summary>
 
+**Logic:** NOT-metamorphic trap — marble, quartzite and slate are remade rocks; granite cools from magma.
+
 **Ans: D.** **Granite** is **igneous** (intrusive). **Marble** comes from limestone. **Quartzite** comes from sandstone. **Slate** comes from shale. Trap: calling granite metamorphic because gneiss is its metamorphic child.
 
 </details>
-
-**Logic:** Odd-one-out — sandstone, limestone and shale share the sedimentary family; gneiss is metamorphic.
 
 **Q-GC8. Uttarakhand P.C.S. (Pre) 2012 / Ghatnachakra**
 
@@ -3830,6 +3828,8 @@ D. Shale
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Odd-one-out — sandstone, limestone and shale share the sedimentary family; gneiss is metamorphic.
 
 **Ans: A.** **Sandstone, limestone and shale** are sedimentary. **Gneiss** is metamorphic (often from granite). Trap: picking limestone because it also drives karst landforms.
 
@@ -4148,8 +4148,6 @@ D. Baltic Sea region
 
 </details>
 
-**Logic:** Magma vs lava naming — options list surface melt and rock names; the underground melt word is missing, so the key is “none.”
-
 **Q-GC25. Uttarakhand P.C.S. (Pre) 2006 / Ghatnachakra**
 
 Molten material **inside** the Earth is called
@@ -4165,11 +4163,11 @@ D. none of the above
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Magma vs lava naming — options list surface melt and rock names; the underground melt word is missing, so the key is “none.”
+
 **Ans: D.** The correct name is **magma**, which is not listed. **Lava** is melt that has reached the surface. **Basalt** and **obsidian** are solidified volcanic rocks. Trap: equating lava with underground melt.
 
 </details>
-
-**Logic:** Magma cools deep → plutonic (intrusive); surface lava cools → volcanic (extrusive).
 
 **Q-GC26. Uttarakhand P.C.S. (Pre) 2006 / Ghatnachakra**
 
@@ -4185,6 +4183,8 @@ D. sedimentary rock
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Magma cools deep → plutonic (intrusive); surface lava cools → volcanic (extrusive).
 
 **Ans: A.** **Plutonic / intrusive** igneous rock crystallises slowly at depth (e.g. granite, gabbro). **Volcanic** rock cools at the surface. Trap: calling deep-cooled granite “volcanic” because magma is linked to volcanoes.
 
@@ -4782,8 +4782,6 @@ D. the Bundelkhand granite plateau
 
 </details>
 
-**Logic:** Constructional vs erosional landforms — a volcanic cone is built by erupted material; residual mountain, monadnock, and erosional waterfall are carved leftovers.
-
 **Q-GC56. Uttarakhand P.C.S. (Pre) 2016**
 
 Which of the following is a **basic** landform?
@@ -4799,11 +4797,11 @@ D. Erosional waterfall
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Constructional vs erosional landforms — a volcanic cone is built by erupted material; residual mountain, monadnock, and erosional waterfall are carved leftovers.
+
 **Ans: A.** A **volcanic cone** is a **constructional / basic** landform built by lava, ash, and cinders. **Residual mountain**, **monadnock**, and **erosional waterfall** are erosional leftovers. Trap: calling every highland “basic” because it stands above the plain.
 
 </details>
-
-**Logic:** Fossils need sedimentary burial — granite is igneous magma cool; option order places granite second.
 
 **Q-GC57. Jharkhand P.C.S. (Pre) 2013**
 
@@ -4819,6 +4817,8 @@ D. Sandstone
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Fossils need sedimentary burial — granite is igneous magma cool; option order places granite second.
 
 **Ans: B.** **Granite** is **igneous** and crystallises from magma, so fossils do not survive. **Conglomerate**, **shale**, and **sandstone** are sedimentary and may hold fossils. Trap: picking shale because it looks “hard and crystalline.”
 

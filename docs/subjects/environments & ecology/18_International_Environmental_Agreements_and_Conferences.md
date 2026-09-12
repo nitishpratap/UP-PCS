@@ -15,6 +15,13 @@
 
 ---
 
+## Current Affairs (this topic)
+
+- COP outcomes and new listings refresh CA; treaty years and Montreal≠Kyoto stay fixed.
+- Ramsar / CITES / CMS updates — verify live lists; UP Ramsar baseline remains **12**.
+
+---
+
 ## Consolidated — 30 Must-Score Facts
 
 1. Conference spine: **Stockholm 1972 → Brundtland 1987 → Rio 1992 → Johannesburg 2002 → Rio+20 2012 → SDGs and Paris 2015**.
@@ -199,7 +206,7 @@ D. CITES
 - The **Kigali Amendment (2016)** phases down **HFCs** under the Montreal framework.
 - Montreal controls **ozone/ODS** — **not climate change mitigation** trap logic.
 
-> ** note:** Full ozone chemistry and Antarctic hole → **Topic 11**.
+> **Logic:** Full ozone chemistry and Antarctic hole → **Topic 11**.
 
 ---
 
@@ -233,7 +240,7 @@ D. CITES
 
 - The **Ramsar Convention (1971)** conserves **wetlands** through the **"Wise Use"** principle.
 - **World Wetlands Day** is **2 February**.
-- India has about **80** Ramsar sites; state ranks often tested are **Tamil Nadu 16**, **Uttar Pradesh 10**, **Punjab 6**.
+- India has about **100** Ramsar sites; state ranks often tested are **Tamil Nadu 16**, **Uttar Pradesh 10**, **Punjab 6**.
 - The **Montreux Record** lists Ramsar sites where ecological character has changed or may change from human interference.
 - India has many Ramsar sites including several in **UP**.
 

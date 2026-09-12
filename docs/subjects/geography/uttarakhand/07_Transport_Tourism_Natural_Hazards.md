@@ -2,7 +2,17 @@
 
 ### ★ UKPCS state card (Unit 2)
 
+> **Sources:** UKPCS coaching maps, Char Dham / Silkyara project briefs, SCCC–UAPCC institutional keys, NDMA-style hazard framing.  
+> **Pair with:** national [Disaster Geography](../13_Disaster_Geography.md) · [Transport](../09_Transport_Communication.md).  
 > **High-yield 2025:** Silkyara length (Q51) · airports mismatch (Q103) · climate vulnerability (Q105) · SCCC / UAPCC (Q106).
+
+---
+
+## Current Affairs (this topic)
+
+- Keep **Silkyara** length and Char Dham corridor news current.
+- Track **Joshimath**-type subsidence, cloudburst seasons, and any new GLOF advisories as living hazard CA.
+- Airport / helipad naming traps (Gauchar district) still recycle in mismatch stems.
 
 ---
 
@@ -27,10 +37,10 @@
 
 | Pair | Correct |
 |------|---------|
-| Gauchar–Rudraprayag | **Wrong** — Gauchar is **Chamoli** |
-| Silkyara 3.531 / 6.531 | Correct length **4.531 km** |
-| UAPCC by Revenue Dept | **False** — wrong department |
-| SCCC year 2011 vs 2009 | **2011** is correct |
+| Gauchar–Rudraprayag | **Gauchar** airstrip is in **Chamoli**, not Rudraprayag |
+| Silkyara 3.531 / 6.531 | Correct length is **4.531 km** on the Char Dham corridor |
+| UAPCC by Revenue Dept | **False** — UAPCC drafting sits with forest / environment, not Revenue |
+| SCCC year 2011 vs 2009 | **2011** is the State Council for Climate Change year |
 
 ---
 
@@ -81,17 +91,36 @@
 - Fragile slopes make the state highly disaster-prone.
 - Intense monsoon bursts add to that risk.
 - Seismic belts keep the baseline hazard high.
-- **Landslides** are common on cut hill roads.
-- Soft Shiwalik–Lesser Himalayan slopes also slide frequently.
-- **Cloudbursts** dump extreme rainfall in small catchments.
-- Those bursts trigger debris flows.
-- Flash floods hit valley floors during the monsoon.
-- Riverine floods do the same.
+- **Landslides** are common on cut hill roads and soft Shiwalik–Lesser Himalayan slopes.
+- **Cloudbursts** dump extreme rainfall in small catchments and trigger debris flows.
+- Flash floods and riverine floods hit valley floors during the monsoon.
 - The Himalayan seismic belt keeps earthquake risk permanently high.
-- Glacial lake outburst flood (**GLOF**) risk rises as glaciers retreat.
-- Expanding high lakes raise that GLOF risk further.
-- Settlements on river terraces face high exposure.
-- Settlements on landslide toes face high exposure as well.
+- Glacial lake outburst flood (**GLOF**) risk rises as glaciers retreat and high lakes expand.
+- Settlements on river terraces and landslide toes face the highest exposure.
+
+### Kedarnath cascade (June 2013) — Cause, Course, Result
+
+**Cause:** Extreme monsoon rain and cloudburst-scale bursts over the **Mandakini** catchment, plus slope failure and debris release on glacier-fed slopes above Kedarnath.
+
+**Course:** Flash floods and debris flows devastated Kedarnath and the Mandakini valley. Roads, bridges, and settlements were buried or washed out across large stretches of Garhwal.
+
+**Result:** The state’s defining modern monsoon disaster. It shaped Char Dham corridor debate, disaster institutions, and the national cloudburst–landslide–flood teaching card for Uttarakhand.
+
+### Joshimath subsidence (2022–2023) — Cause, Course, Result
+
+**Cause:** The town sits on old landslide / glacial debris with high groundwater and construction load. Tunnelling and drainage stress added to slope distress.
+
+**Course:** Cracks spread through buildings as slow **subsidence** and slope movement continued. Authorities evacuated pockets and halted some works.
+
+**Result:** A living CA card for **subsidence**, not an overnight rockfall. Do not merge it with Kedarnath 2013’s rain–debris cascade.
+
+### GLOF and cloudburst belts — Cause, Course, Result
+
+**Cause:** Warming and glacier retreat enlarge high glacial lakes; steep valleys concentrate cloudburst runoff.
+
+**Course:** A lake breach or extreme burst can send a sudden debris-laden flood down a narrow valley floor.
+
+**Result:** High-mountain tehsils and terrace settlements stay on permanent watch lists. Pair this vocabulary with national Disaster Geography hall events.
 
 ---
 
@@ -99,15 +128,13 @@
 
 **Identity:** High vulnerability | SCCC established in 2011 | UAPCC not under Revenue.
 
-- Uttarakhand is treated as **highly vulnerable** to climate change.
+- Uttarakhand is treated as **highly vulnerable** to climate change because **steep Himalayan relief**, **glacier- and snow-fed rivers**, and **concentrated monsoon / cloudburst rain** amplify water stress, landslides, and habitat pressure.
 - Climate change intensifies **water stress**.
 - Climate change also pressures **biodiversity**.
 - The **State Council for Climate Change (SCCC)** of Uttarakhand was established in **2011**.
 - Preparation of the **Uttarakhand Action Plan on Climate Change (UAPCC)** was **not** given to the State Revenue Department.
 - UAPCC work sits with the forest / environment institutional set-up.
-- It does not sit with Revenue.
-- Both vulnerability statements were treated as true in the 2025 climate stem.
-- In the institutional stem, only the SCCC year held as correct.
+- Institutional years sit **on top of** that physical vulnerability picture — they do not replace it.
 
 ---
 

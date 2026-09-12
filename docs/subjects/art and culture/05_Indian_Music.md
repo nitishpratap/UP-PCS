@@ -35,13 +35,13 @@ Vedic chanting UNESCO ICH **2008**. Sankirtana (Manipur) **2013**.
 3. The medieval encyclopedia is **Sangeet Ratnakar** by **Sharngadeva** (**13th** century, Devagiri).
 4. There are **seven** swaras (**Sa Re Ga Ma Pa Dha Ni**) and traditionally **22** shrutis in an octave.
 5. **Hindustani** is the north Indian system of khayal / dhrupad, tabla / pakhawaj, and gharanas. **Carnatic** is the south Indian system of kriti, **72** melakarta, and mridangam.
-6. **Dhrupad** is the oldest surviving classical form and uses **pakhawaj**. **Khayal** is dominant today and uses **tabla**.
+6. **Dhrupad** is the oldest surviving classical form and uses **pakhawaj. Khayal** is dominant today and uses **tabla**.
 7. **Thumri** is light romantic song of the Awadh–Banaras belt. **Tappa** has camel-song origin and is linked with **Muhammad Shah**’s court, not Akbar.
 8. **Tarana** uses nonsense syllables. **Qawwali** is linked with **Amir Khusrau** at Nizamuddin’s circle.
 9. The Carnatic Trinity is **Tyagaraja** (Telugu Rama kritis), **Muthuswami Dikshitar** (Sanskrit), and **Syama Sastri** (Devi kritis). They are not Tansen’s line.
 10. Treatise matchs are **Ragamala–Pundrik Vitthal**, **Rasa Kaumudi–Sri Kantha**, **Raga Vibodh–Somanath**, and **Chaturdandi Prakashika–Venkatamakhin**.
 11. **Gwalior** is the oldest khayal gharana. **Agra** gharana is of Agra city in UP. **Kirana** gharana is of Kirana village in the western UP belt.
-12. **Patiala** facts **Bade Ghulam Ali Khan**. **Jaipur–Atrauli** facts **Kishori Amonkar**. **Maihar** facts **Allauddin Khan** and is in **Madhya Pradesh**, not UP.
+12. **Patiala** facts **Bade Ghulam Ali Khan. Jaipur–Atrauli** facts **Kishori Amonkar. Maihar** facts **Allauddin Khan** and is in **Madhya Pradesh**, not UP.
 13. **Kirana** is strongly linked with **Bhimsen Joshi**. Do not place Maihar or Tyagaraja Aradhana inside UP.
 14. Instrument families are **tata** (plucked string), **vitat** (bowed string), **sushira** (wind), **avanaddha** (membrane), and **ghana** (solid / idiophone).
 15. **Tabla** pairs with khayal and thumri. **Pakhawaj** pairs with dhrupad. **Mridangam** is the Carnatic primary drum.
@@ -187,7 +187,7 @@ D. Muhammad Shah
 
 ## 5.3 Carnatic Classical Music
 
-**Region:** Tamil Nadu, Karnataka, Andhra/Telangana, Kerala | **Core form:kriti** | **Bhakti** more than Mughal court
+**Region:** Tamil Nadu, Karnataka, Andhra/Telangana, Kerala | **Core form:** kriti** | **Bhakti** more than Mughal court
 
 - **Kriti** parts are pallavi → anupallavi → charanam. The composer *mudra* sits inside the song.
 - **72 Melakarta** are parent (sampurna) ragas. Child ragas are **janya**.
@@ -208,7 +208,7 @@ D. Muhammad Shah
 - **Purandara Dasa** (**16th** c., Vijayanagara) is “Pitamaha of Carnatic music” if the paper asks a founder-teacher before the Trinity.
 - **Tyagaraja Aradhana** is at **Thiruvaiyaru**, January. Musicians sing the **Pancharatna** kritis together.
 
-> ** note:Tyagaraja** is Telugu Rama. **Dikshitar** is Sanskrit. The Trinity never includes Tansen.
+> **Logic:** Tyagaraja** is Telugu Rama. **Dikshitar** is Sanskrit. The Trinity never includes Tansen.
 
 ---
 
@@ -254,7 +254,7 @@ D. Muhammad Shah
 - **Ajrada** is a tabla *baaj* name if the paper matches drums.
 - **Lucknow** is a tabla *baaj* name if the paper matches drums.
 
-> ** note:Kirana** is **Bhimsen Joshi**. **Patiala** is **Bade Ghulam Ali Khan**. **Maihar** is **Allauddin Khan**. Gharana is not raga.
+> **Logic:** Kirana** is **Bhimsen Joshi. Patiala** is **Bade Ghulam Ali Khan. Maihar** is **Allauddin Khan**. Gharana is not raga.
 
 ---
 
@@ -297,7 +297,7 @@ Later set splits string into **Tata** as plucked and **Vitat** as bowed.
 - **Kanjira** is a Carnatic frame drum.
 - **Harmonium** is a reed-box. It is used in khayal/ghazal. Purists argue it is not a classical Indian *vadya*.
 
-> ** note:** Sitar is Tata. Sarangi is Vitat. Shehnai is Sushira. Tabla is Avanaddha. Ghatam is not tabla family.
+> **Logic:** Sitar is Tata. Sarangi is Vitat. Shehnai is Sushira. Tabla is Avanaddha. Ghatam is not tabla family.
 
 ---
 
@@ -356,7 +356,7 @@ Later set splits string into **Tata** as plucked and **Vitat** as bowed.
 - **Tyagaraja Aradhana** is at Thiruvaiyaru, January.
 - **Sawai Gandharva** is at Pune. It is the Paluskar–Bhimsen line.
 
-> **Logic:** Tansen before Akbar served **Raja Ramchandra of Bhata**. **Bismillah Khan** is shehnai + Banaras. MS Subbulakshmi is Carnatic, not Hindustani.
+> **Logic:** Tansen before Akbar served **Raja Ramchandra of Bhata. Bismillah Khan** is shehnai + Banaras. MS Subbulakshmi is Carnatic, not Hindustani.
 
 **PYQ — UPPCS Prelims 2019, Q89**
 

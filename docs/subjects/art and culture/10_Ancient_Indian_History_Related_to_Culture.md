@@ -34,21 +34,21 @@ No scheme/ministry CA changes the static craft and school lists (verified August
 1. Ancient Indian cultural span runs from **Bhimbetka** rock art through **Indus Valley** cities (about **2600–1900 BCE**), then **Maurya**, **Shunga–Kushan**, and **Gupta** (4th–6th century CE).
 2. Indus art facts are **steatite seals**, **terracotta mother goddess**, planned brick cities, and the **Dancing Girl** bronze made by **lost-wax**.
 3. **Northern Black Polished Ware (NBPW)** is the Mauryan fine pottery fact. **Ajanta** murals are the **Gupta–Vakataka** painting fact.
-4. Sculpture schools: **Gandhara** uses grey **schist** with Greco-Roman Buddha style in the north-west. **Mathura** uses red **sandstone** and is indigenous in **Uttar Pradesh**. **Amaravati** uses white **limestone** narrative panels in Andhra.
+4. Sculpture schools: **Gandhara** uses grey **schist** with Greco-Roman Buddha style in the north-west. **Mathura** uses red **sandstone** and is indigenous in **Uttar Pradesh. Amaravati** uses white **limestone** narrative panels in Andhra.
 5. **Mauryan polish** on **Chunar** sandstone (Mirzapur belt) gives a mirror finish. The **Didarganj Yakshi** is the classic Mauryan polish figure.
 6. **Bharhut** and early **Sanchi** are **Shunga** narrative reliefs. Early Sanchi is largely **aniconic** (wheel, tree, throne), not a human Buddha.
 7. The **Gupta Sarnath Buddha** shows the **dharmachakra** mudra, a transparent robe, and calm idealism. It is the peak of classical Buddhist sculpture.
 8. Architecture spine: Indus **grid and drains**, **Great Bath** at Mohenjo-daro, **Lothal dock**, Mauryan **Barabar** rock-cut caves, and Gupta **first structural temples** such as **Deogarh** and **Bhitargaon**.
 9. A **stupa** is a solid relic mound. A **chaitya** is a rock-cut prayer hall with an apse stupa. Do not swap the two.
 10. **Rock-cut** architecture (Barabar, chaityas) is carved into living rock. **Structural** temples are built from the Gupta age onward as freestanding buildings.
-11. Uttar Pradesh Indus sites are **Alamgirpur**, **Mandi**, and **Hulas**. **Alamgirpur** (Meerut belt) is the **easternmost** Indus site.
+11. Uttar Pradesh Indus sites are **Alamgirpur**, **Mandi**, and **Hulas. Alamgirpur** (Meerut belt) is the **easternmost** Indus site.
 12. **Rakhigarhi** is in **Haryana** and is the largest Indus site in India. It is **not** in Uttar Pradesh.
 13. **Sanauli** in **Baghpat** is a late Harappan / OCP **chariot** site. It is an extra UP fact and not the easternmost Indus city.
 14. These are **not** UP Indus sites: Lothal and Dholavira (**Gujarat**), Kalibangan (**Rajasthan**), Manda (**Jammu & Kashmir**), and Mohenjo-daro (**Sindh**).
 15. Match fact: **Balu–Haryana**, **Manda–Jammu & Kashmir**, **Padri–Gujarat**, **Hulas–Uttar Pradesh**.
-16. Boat / dock evidence appears at **Mohenjo-daro** and **Lothal**. **Kalibangan** holds the famous **ploughed-field** evidence.
+16. Boat / dock evidence appears at **Mohenjo-daro** and **Lothal. Kalibangan** holds the famous **ploughed-field** evidence.
 17. Indus crops include **wheat**, **barley**, and **cotton**. Cotton is an Indus fact, not a modern-only crop. Rice expands strongly in the eastern later Vedic belt.
-18. The **Arthashastra** shows state interest in agriculture and craft regulation. **Sreni** are craft **guilds**. **Nanadesi** were itinerant “many-country” merchants.
+18. The **Arthashastra** shows state interest in agriculture and craft regulation. **Sreni** are craft **guilds. Nanadesi** were itinerant “many-country” merchants.
 19. **Chanhudaro** is the Indus **bead** craft centre. Punch-marked coins are the early Mauryan money fact. Gupta gold **dinara** are die-struck gold coins.
 20. **Wootz** steel is the South Indian high-carbon steel fact in the ancient–early historic craft map.
 21. **Mathura** is the red-sandstone school home in UP. **Sarnath** is known for the **Lion Capital** and the Gupta Buddha. **Bhitargaon** is a Gupta brick temple in the Kanpur belt.
@@ -91,7 +91,7 @@ No scheme/ministry CA changes the static craft and school lists (verified August
 - UP art centres include **Mathura**, **Sarnath**, **Ahichhatra** (terracotta) and **Kaushambi**.
 - Ashoka’s cultural staff were the **Dhamma-mahamatras**, appointed in the **14th** year of coronation. Some papers tie his Dhamma wording to the *Rahulovada-sutta*.
 
-> ** note:Bhimbetka = Wakankar + prehistoric**. **NBPW = Maurya**. **Seals = steatite**.
+> **Logic:** Bhimbetka = Wakankar + prehistoric. NBPW = Maurya. Seals = steatite**.
 
 **PYQ — UPPCS Prelims 2020, Q10**
 
@@ -146,7 +146,7 @@ D. Only 2
 - **Gupta / Sarnath** sculpture is the classical ideal. It shows transparent drapery and the **Dharmachakra mudra** Buddha.
 - Terracotta sculpture is huge at **Ahichhatra** and Kaushambi (UP). It is not a “stone school.”
 
-> ** note:Mathura = red sandstone, UP**. **Gandhara = grey schist, Greco-Roman**. **Amaravati = limestone + Aryaka-pillars**.
+> **Logic:** Mathura = red sandstone, UP. Gandhara = grey schist, Greco-Roman. Amaravati = limestone + Aryaka-pillars**.
 
 **PYQ — UPPCS Prelims 2022, Q80**
 
@@ -186,7 +186,7 @@ D. Bodhgaya
 - The **Gupta** age sees the first Hindu **structural** temples. The **Dashavatara** temple is at **Deogarh** (MP). **Bhitargaon** is a brick temple (**Kanpur district, UP**).
 - Pre-Islamic spans use **corbel**, not the true radiating arch.
 
-> ** note:Mandi + Hulas = UP**. **Rakhigarhi ≠ UP**. **Alamgirpur = eastern boundary**.
+> **Logic:** Mandi + Hulas = UP. Rakhigarhi ≠ UP. Alamgirpur = eastern boundary**.
 
 **PYQ — UPPCS Prelims 2025, Q87**
 
@@ -324,7 +324,7 @@ D. III, IV
 - Gupta copper-plate **land grants** are known. Inscriptions record tanks and wells. Faxian notes a prosperous countryside.
 - Maize, potato and tobacco are **New World**. They are not IVC crops.
 
-> **Logic:** IVC economy = **wheat + barley + cotton**. **Rigvedic** society is **pastoral**. **Later Vedic** society turns **agrarian**.
+> **Logic:** IVC economy = **wheat + barley + cotton. Rigvedic** society is **pastoral. Later Vedic** society turns **agrarian**.
 
 **PYQ — UPPCS Prelims 2020, Q21**
 
@@ -376,7 +376,7 @@ D. 4 3 1 2
 - **Nanadesis** were itinerant merchants of “many countries.”
 - **Manigrama** was a South Indian merchant guild with long-distance / overseas trade.
 
-> ** note:Beads = Chanhudaro**. **Dancing Girl = bronze**. **Punch-marked ≠ Gupta gold**. **Sreni ≠ Nanadesi**.
+> **Logic:** Beads = Chanhudaro. Dancing Girl = bronze. Punch-marked ≠ Gupta gold. Sreni ≠ Nanadesi**.
 
 **PYQ — UPPCS Prelims 2018, Q89**
 

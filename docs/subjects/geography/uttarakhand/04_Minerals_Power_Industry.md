@@ -2,7 +2,16 @@
 
 ### ★ UKPCS state card (Unit 2)
 
+> **Sources:** UKPCS mineral–district keys, Tehri / Bhagirathi hydropower map, SIIDCUL and Tarai industrial coaching lists.  
+> **Pair with:** national [Minerals & Energy](../08_Minerals_Energy_Industry.md).  
 > **High-yield 2025:** mineral–district pairs; silica sand wrong district (Q112).
+
+---
+
+## Current Affairs (this topic)
+
+- Watch new SIIDCUL allotments, hydropower clearances, and any revised mineral-district keys in state releases.
+- Tehri and Alaknanda-belt project news often doubles as power CA.
 
 ---
 
@@ -58,42 +67,30 @@
 
 **Identity:** Steep Himalayan gradients | Tehri flagship on the Bhagirathi.
 
-- Hydropower dominates the power-resource story.
-- Steep Himalayan gradients and glacier-fed rivers explain that dominance.
-- Major project belts follow the **Bhagirathi** system.
-- They also follow the **Alaknanda** system.
-- They also follow the **Yamuna** system.
-- The **Tehri** hydropower complex sits on the Bhagirathi.
-- Tehri’s landscape also includes the Bhilangana confluence.
-- Tehri is the flagship multipurpose project of the state.
-- Tehri combines power generation with flood moderation.
-- Tehri also plays a water-storage role in the upper Ganga basin narrative.
-- Run-of-river schemes appear along Garhwal trunks.
-- Storage schemes also appear along those trunks.
-- High alpine sites face glacial constraints.
-- High alpine sites also face seismic constraints.
-- Thermal coal is not the core identity of Uttarakhand’s power map.
-- Water power is the core identity.
+- Hydropower dominates the power-resource story because of steep gradients and glacier-fed rivers.
+- Major project belts follow the **Bhagirathi**, **Alaknanda**, and **Yamuna** systems.
+- The **Tehri** hydropower complex sits on the Bhagirathi near the Bhilangana confluence.
+- Tehri is the flagship multipurpose project: power, flood moderation, and upper-Ganga storage memory.
+- Other named coaching heads include run-of-river and storage schemes on Garhwal trunks such as **Vishnuprayag**, **Srinagar** (Alaknanda belt), and Yamuna-side projects in western Garhwal.
+- High alpine sites face glacial and seismic constraints.
+- Thermal coal is **not** the core identity of Uttarakhand’s power map — water power is.
 
 ---
 
 ## 4.3 Industry belts
 
-**Identity:** Tarai plains and Dehradun dun | services and light manufacturing.
+**Identity:** Tarai plains and Dehradun dun | SIIDCUL nodes | services and light manufacturing.
 
-- Industrial development concentrates more in **Tarai / plains** districts than in high alpine tehsils.
-- The **Dehradun** dun is the other main concentration belt.
-- **Udham Singh Nagar** hosts agro-based manufacturing nodes.
-- Neighbouring Tarai towns also host such nodes.
-- **Dehradun** carries administration and education.
-- Dehradun also carries pharma, IT, and service-industry pockets.
-- Forest-based services remain important across mid-hill towns.
-- Tourism-linked services also remain important there.
-- Heavy smokestack industry is limited by terrain.
-- Ecology and transport cost also limit heavy industry.
+- Industrial development concentrates in **Tarai / plains** districts and the **Dehradun** dun more than in high alpine tehsils.
+- **SIIDCUL** (State Infrastructure and Industrial Development Corporation of Uttarakhand) anchors planned estates in the plains–dun belt.
+- Coaching maps remember industrial nodes around **Haridwar**, **Pantnagar / Rudrapur** (Udham Singh Nagar), and **Sitarganj**-side Tarai estates.
+- **Udham Singh Nagar** hosts agro-based and light manufacturing nodes linked to the Tarai farm belt.
+- **Haridwar** mixes pilgrimage services with industrial estate memory on the plains fringe.
+- **Dehradun** carries administration, education, pharma, IT, and service-industry pockets.
+- Forest-based and tourism-linked services remain important across mid-hill towns.
+- Heavy smokestack industry is limited by terrain, ecology, and transport cost.
 - Light manufacturing and services dominate instead.
-- Keep detailed new factory names for Current Affairs.
-- The geography spine here is plains–dun concentration plus hydropower.
+- Keep brand-new factory names for Current Affairs; the geography spine is plains–dun concentration plus hydropower.
 
 ---
 

@@ -14,6 +14,13 @@ Ozone Layer | Ozone Depletion | Ozone Hole | Montreal Protocol
 
 ---
 
+## Current Affairs (this topic)
+
+- Montreal / Kigali compliance headlines stay ozone-family CA — do not park them under Paris NDC.
+- ODS vs GHG trap is permanent; HFC phase-down is Kigali, not Kyoto.
+
+---
+
 ## Consolidated — 30 Must-Score Facts
 
 1. Ozone (O₃) is triatomic oxygen. **Stratospheric ozone** (about **15–30/35 km**) is protective “good” ozone. **Tropospheric ozone** is a ground-level pollutant.
@@ -78,7 +85,7 @@ Ozone Layer | Ozone Depletion | Ozone Hole | Montreal Protocol
 - **Stratospheric ozone** is protective. **Tropospheric ozone** is a harmful air pollutant and greenhouse gas.
 - Without the ozone layer, lethal UV levels would reach Earth's surface and damage DNA, crops, and marine plankton.
 
-> ** note:** UPPCS 2023 pattern — ozone layer is in the **stratosphere**, not troposphere.
+> **Logic:** UPPCS 2023 pattern — ozone layer is in the **stratosphere**, not troposphere.
 
 **PYQ — UPPCS Prelims 2025, Q45**
 
@@ -123,7 +130,7 @@ D. Only 1
 - Increased UV-B raises **skin cancer, cataracts, crop damage, and marine food chain stress**.
 - After the Montreal Protocol, ODS emissions fell about **99%**. Mid-latitude recovery is expected around **2040**.
 
-> ** note:** CFCs destroy ozone by **UV chemistry**, not by greenhouse trapping — that is a separate effect.
+> **Logic:** CFCs destroy ozone by **UV chemistry**, not by greenhouse trapping — that is a separate effect.
 
 | ODS | Main use |
 |-----|----------|
@@ -149,7 +156,7 @@ D. Only 1
 - India is not under the ozone hole, but **Himalayan high altitude** increases UV-B exposure risk.
 - WMO projects **Antarctic recovery to 1980 levels around 2066** if Montreal controls continue.
 
-> ** note:** Trap — "ozone hole over Arctic every winter" is **false**. Classic hole = **Antarctic spring**.
+> **Logic:** Trap — "ozone hole over Arctic every winter" is **false**. Classic hole = **Antarctic spring**.
 
 | Feature | Antarctic | Arctic |
 |---------|-----------|--------|

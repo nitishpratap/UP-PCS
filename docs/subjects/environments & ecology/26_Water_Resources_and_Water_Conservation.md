@@ -14,6 +14,13 @@ Water Resources | IWRM | Rainwater Harvesting | Watershed Management | River Con
 
 ---
 
+## Current Affairs (this topic)
+
+- Jal Jeevan / Namami Gange / wetland CA refresh water chapters.
+- Keep watershed vs command-area and BOD water-quality traps stable.
+
+---
+
 ## Consolidated — 38 Must-Score Facts
 
 1. World water rough shares: oceans about **97.2%**, ice/glaciers about **2%**, groundwater about **0.6%**, rivers about **0.01%**. Descending order is **Oceans > Polar ice > Groundwater > Rivers**.
@@ -156,7 +163,7 @@ Options: A. 1, 3, 4, 2 B. 1, 2, 4, 3 C. 1, 2, 3, 4 D. 1, 4, 3, 2
 | Check dam | Slow runoff + percolation |
 | Johad/taanka | Traditional arid storage |
 
-> ** note:** RWH = both storage **and** recharge — not tanks alone.
+> **Logic:** RWH = both storage **and** recharge — not tanks alone.
 
 ---
 

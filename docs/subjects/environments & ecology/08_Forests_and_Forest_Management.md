@@ -14,6 +14,13 @@ Forests and their Types | Forest Types in India | Forest Conservation | Forest M
 
 ---
 
+## Current Affairs (this topic)
+
+- Keep ISFR / FSI function traps stable; new ISFR cycle is the usual forest CA refresh.
+- FCA / forest-conservation wording may appear in CA — separate from WPA PA categories.
+
+---
+
 ## Consolidated — 36 Must-Score Facts
 
 1. Forest cover in ISFR means a patch of at least **1 ha** with canopy **≥10%**, on any land ownership.
@@ -96,7 +103,7 @@ Forests and their Types | Forest Types in India | Forest Conservation | Forest M
 | **Protected Forest** | Moderate — state controls but some rights allowed |
 | **Unclassed Forest** | Not yet formally classified |
 
-> ** note:** Trap — "forest cover counts only government forest land" is **false**.
+> **Logic:** Trap — "forest cover counts only government forest land" is **false**.
 
 ---
 
@@ -244,7 +251,7 @@ D. Neither
 - **MoEFCC** sets national policy. State Forest Departments implement protection, working plans, and JFM on the ground.
 - **Van Panchayats** in Uttarakhand manage local forest patches through customary community institutions.
 
-> ** note:** ISFR is published by **FSI**, not CPCB, ICFRE, or MoEFCC directly.
+> **Logic:** ISFR is published by **FSI**, not CPCB, ICFRE, or MoEFCC directly.
 
 ---
 
@@ -265,7 +272,7 @@ D. Neither
 - **Native species** planting is preferred under NFP 1988 and Green India Mission over exotic monocultures such as eucalyptus.
 - Farm and agroforestry plantations add to **tree cover** and **Trees Outside Forests (TOF)** in ISFR, which helps plain states like UP.
 
-> ** note:** CAMPA money is used mainly for afforestation and forest protection, not wildlife alone.
+> **Logic:** CAMPA money is used mainly for afforestation and forest protection, not wildlife alone.
 
 ---
 
@@ -284,7 +291,7 @@ D. Neither
 - **Social forestry is not JFM**. JFM co-manages existing degraded forest, not non-forest land.
 - **Social forestry is not agroforestry**. Agroforestry integrates trees with active crop or livestock systems on farmland.
 
-> ** note:** Social forestry roots lie in **NCA 1976**, not JFM 1990.
+> **Logic:** Social forestry roots lie in **NCA 1976**, not JFM 1990.
 
 ---
 
@@ -302,7 +309,7 @@ D. Neither
 - **Taungya** allows temporary farming between rows of planted trees in forest department plantations.
 - FAO treats agroforestry as a **climate-smart agriculture** practice.
 
-> ** note:** Agroforestry Policy = **2014**, not 2006. CAFRI = **Jhansi**, not Banda.
+> **Logic:** Agroforestry Policy = **2014**, not 2006. CAFRI = **Jhansi**, not Banda.
 
 **PYQ — UPPCS Prelims 2021, Q15**
 
@@ -332,7 +339,7 @@ Which is NOT correctly matched? A. ICRAF — Nairobi B. IIFM — Bhopal C. CAFRI
 - **JFM is an executive scheme**, not a statute like FRA 2006.
 - **JFM does not grant permanent land title**. FRA can grant recognized forest rights.
 
-> ** note:** UPPCS 2021 asked JFM launch year — answer **1990**.
+> **Logic:** UPPCS 2021 asked JFM launch year — answer **1990**.
 
 ---
 
@@ -356,7 +363,7 @@ Which is NOT correctly matched? A. ICRAF — Nairobi B. IIFM — Bhopal C. CAFRI
 - In **Niyamgiri (2013)**, Gram Sabhas rejected Vedanta bauxite mining under FRA community consent powers.
 - **FRA grants rights**. **FCA controls diversion**. Both can apply to the same forest landscape.
 
-> ** note:** IFR cap = **4 ha**, not 5 or 10. Cutoff date = **13 December 2005**.
+> **Logic:** IFR cap = **4 ha**, not 5 or 10. Cutoff date = **13 December 2005**.
 
 ---
 

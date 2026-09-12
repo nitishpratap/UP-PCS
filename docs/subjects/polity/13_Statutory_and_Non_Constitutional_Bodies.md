@@ -212,7 +212,7 @@ The **Anna Hazare / India Against Corruption movement (2011)** is the street-pol
 - A complainant must give his **identity and particulars** — **anonymous complaints are not** the default route.
 - The **competent authority** to act against a member is the **Chairperson**; against the Chairperson, it is the **President** — as the Act allots.
 
-> ** note:** “Lokpal Rules” in the syllabus = **how you complain and the clocks**, not a second statute. Selection Committee remains the **2013 Act** (2024).
+> **Logic:** “Lokpal Rules” in the syllabus = **how you complain and the clocks**, not a second statute. Selection Committee remains the **2013 Act** (2024).
 
 ---
 
@@ -256,7 +256,7 @@ The **Anna Hazare / India Against Corruption movement (2011)** is the street-pol
 
 The **CBI Director** is **not** appointed by the CVC. That appointment panel — under the DSPE Act, after the Vineet Narain and Lokpal-era reforms — is the **Prime Minister, the Leader of Opposition in the Lok Sabha, and the CJI**. The CVC only **supervises** the CBI on PCA work; it does **not** appoint the Director.
 
-> ** note:** CVC ≠ CBI ≠ Lokpal. Lokpal can *direct* CBI; CVC *supervises* CBI on PCA; CBI *investigates*.
+> **Logic:** CVC ≠ CBI ≠ Lokpal. Lokpal can *direct* CBI; CVC *supervises* CBI on PCA; CBI *investigates*.
 
 **PYQ — UPPCS Prelims 2020, Q104**
 
@@ -301,7 +301,7 @@ The **UP Information Commission** is appointed by the **Governor**, on the recom
 - A **public-interest override** can still require disclosure even within an exempted category.
 - The **Official Secrets Act** does **not automatically defeat** an RTI request if disclosure is otherwise due.
 
-> ** note:** CIC is **not** a constitutional body and **not** NHRC. 2019 amendment is the current-affairs knife.
+> **Logic:** CIC is **not** a constitutional body and **not** NHRC. 2019 amendment is the current-affairs knife.
 
 **PYQ — UPPCS Prelims 2019, Q100**
 
@@ -518,7 +518,7 @@ To sum up: the **CAT is a 1985 statutory body**, **enabled by Art. 323A**. **Arm
 | **Statutory** | **Act of Parliament / State** | Lokpal, CVC, CIC, NHRC, NGT, CAT, RBI… (above) |
 | **Executive / extra-constitutional** | **Resolution / order** | **NITI, NDC, CBI, IB, RAW, ED, NSC**. **NIA** is the odd one: **statutory** terror agency parked here because the syllabus lists it with the police/intel set |
 
-> ** note:** “Extra-constitutional agency” (2018) = **NITI**, not UPSC/FC/ECI. CBI is **not** a 2003-style statutory commission even though DSPE 1946 gives it teeth.
+> **Logic:** “Extra-constitutional agency” (2018) = **NITI**, not UPSC/FC/ECI. CBI is **not** a 2003-style statutory commission even though DSPE 1946 gives it teeth.
 
 ---
 

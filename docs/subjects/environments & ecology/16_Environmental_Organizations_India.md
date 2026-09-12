@@ -14,6 +14,13 @@ MoEFCC | CPCB | SPCB | NGT | NEERI | WII | BSI | ZSI | FSI
 
 ---
 
+## Current Affairs (this topic)
+
+- MoEFCC / CPCB / SPCB / NBA HQ and function traps stay stable; scheme rebrands are the CA layer.
+- NEERI = Nagpur remains a classic organisation location trap.
+
+---
+
 ## Consolidated — 26 Must-Score Facts
 
 1. **MoEFCC** is India’s nodal ministry for environment, forests, wildlife, and climate change. It began as MoEF in **1985** and was renamed MoEFCC in **2014**. Headquarters is **New Delhi**.
@@ -80,7 +87,7 @@ MoEFCC | CPCB | SPCB | NGT | NEERI | WII | BSI | ZSI | FSI
 - MoEFCC **does not** set **NAAQS** pollution standards — that is **CPCB's** role.
 - MoEFCC **does not** publish **ISFR** — that is **FSI's** role.
 
-> ** note:** MoEFCC was **not** created in 1972. **1972** = Stockholm Conference + WPA.
+> **Logic:** MoEFCC was **not** created in 1972. **1972** = Stockholm Conference + WPA.
 
 | Function | Body |
 |----------|------|
@@ -155,7 +162,7 @@ Annual Groundwater Quality Report 2024 prepared by:
 - The older **National Environment Appellate Authority (NEAA / NEA)** was created under the **NEAA Act, 1997** to hear appeals on restricted-area industrial siting under EPA.
 - After NGT began functioning (**18 October 2010**), the **NEAA stood dissolved**.
 
-> ** note:** NGT Act = **2010**, not 1986. NEAA 1997 → dissolved after NGT.
+> **Logic:** NGT Act = **2010**, not 1986. NEAA 1997 → dissolved after NGT.
 
 ---
 

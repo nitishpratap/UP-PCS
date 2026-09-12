@@ -14,6 +14,13 @@ National Parks of Uttar Pradesh | Wildlife Sanctuaries of Uttar Pradesh | Nation
 
 ---
 
+## Current Affairs (this topic)
+
+- New NP / TR notifications refresh advanced PA CA — cross-check with the Protected Areas hierarchy.
+- Location-match traps stay high-yield; UP has no marine PA.
+
+---
+
 ## Consolidated — 32 Must-Score Facts
 
 1. Uttar Pradesh has **one National Park — Dudhwa** — in **Lakhimpur Kheri** on the Indo-Nepal Terai.
@@ -90,7 +97,7 @@ Options: A. Bahraich B. Lakhimpur Kheri C. Pilibhit D. Sitapur
 
 </details>
 
-> ** note:** “UP has two NPs — Dudhwa and Valmiki” is **false**.
+> **Logic:** “UP has two NPs — Dudhwa and Valmiki” is **false**.
 
 ---
 
@@ -173,7 +180,7 @@ Options: A. 1 and 3 B. 3 and 4 C. 2 and 3 D. 1 and 2
 | 24 | Vijai Sagar | Mahoba | Bundelkhand lake |
 | 25 | Sarsai Nawar | Etawah | **IN UP** (Q58) |
 
-> ** note:** Samaspur and Sarsai Nawar are **in UP** — do not mark them “NOT in UP.”
+> **Logic:** Samaspur and Sarsai Nawar are **in UP** — do not mark them “NOT in UP.”
 
 ---
 
@@ -291,7 +298,7 @@ Which pair is NOT correctly matched?
 | Papikonda | Andhra Pradesh | — |
 | Phawngpui | Mizoram | Blue Mountain |
 
-### River / species / wrong-pair locks
+### River / species / wrong-pair keys
 
 | Stem | Correct lock |
 |------|----------------|
@@ -325,7 +332,7 @@ Which pair is NOT correctly matched?
 | 3 | Mahatma Gandhi Marine | Andaman | Wandoor |
 | 4 | Rani Jhansi Marine | Andaman | Ritchie’s Archipelago |
 
-> ** note:** First Marine NP = **Gulf of Kutch**, not Mannar or Sundarbans.
+> **Logic:** First Marine NP = **Gulf of Kutch**, not Mannar or Sundarbans.
 
 ---
 
@@ -347,7 +354,7 @@ Which pair is NOT correctly matched?
 | Kakadu | Australia | Wetland/rock art landscape |
 | Galápagos | Ecuador | Evolution / WH |
 
-> ** note:** World first ≠ India’s first.
+> **Logic:** World first ≠ India’s first.
 
 ---
 
@@ -373,7 +380,7 @@ Which pair is NOT correctly matched?
 | Great Himalayan | Himachal | **2014** |
 | Khangchendzonga | Sikkim | Mixed **2016** |
 
-> ** note:** “All UNESCO WH in India are cultural” is **false**.
+> **Logic:** “All UNESCO WH in India are cultural” is **false**.
 
 ---
 
@@ -396,7 +403,7 @@ Which pair is NOT correctly matched?
 | Gulf of Kutch Marine NP | West | First Marine NP |
 | MG / Rani Jhansi Marine | Andaman | Island marine |
 
-> ** note:** Coastal ≠ automatically “first marine NP.”
+> **Logic:** Coastal ≠ automatically “first marine NP.”
 
 ---
 

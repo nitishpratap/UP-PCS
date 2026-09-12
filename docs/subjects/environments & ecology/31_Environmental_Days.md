@@ -14,6 +14,13 @@ World Environment Day | World Wetlands Day | Earth Day | International Day for B
 
 ---
 
+## Current Affairs (this topic)
+
+- Annual themes for WED / Earth Day / IDF refresh; calendar dates stay fixed (WED = **5 June**).
+- Do not invent UP-only international day dates.
+
+---
+
 ## Consolidated — 24 Must-Score Facts
 
 1. **World Wetlands Day** falls on **2 February** and marks the **Ramsar Convention (1971)**. It is not 2 March or 3 March.
@@ -87,7 +94,7 @@ Options: A. 1 and 2 B. Only 3 C. 2 and 3 D. Only 1
 
 </details>
 
-> ** note:** WED = **5 June** — Stockholm opening. Pair "WED — 2 February" is false.
+> **Logic:** WED = **5 June** — Stockholm opening. Pair "WED — 2 February" is false.
 
 ---
 
@@ -97,7 +104,7 @@ Options: A. 1 and 2 B. Only 3 C. 2 and 3 D. Only 1
 
 - **World Wetlands Day** marks adoption of the **Ramsar Convention on Wetlands** at Ramsar, Iran (**2 February 1971**).
 - Focus is wetland conservation and **wise use** — sustainable human use, not a total ban.
-- India has about **80** Ramsar sites; **Uttar Pradesh has 10**; **Tamil Nadu** leads with **16** (geography overlap).
+- India has about **100** Ramsar sites; **Uttar Pradesh has 10**; **Tamil Nadu** leads with **16** (geography overlap).
 - Date traps: **not 2 March**, **not 3 March** (Wildlife), **not 22 March** (Water).
 
 **PYQ — UPPCS Prelims 2023, Q147**
@@ -112,7 +119,7 @@ Options: A. 10 January B. 15 January C. 1 February D. 2 February
 
 </details>
 
-> ** note:** Wetlands Day = **2 February only**.
+> **Logic:** Wetlands Day = **2 February only**.
 
 ---
 
@@ -125,7 +132,7 @@ Options: A. 10 January B. 15 January C. 1 February D. 2 February
 - Globally recognised civic movement — **not** the same UN treaty day as WED.
 - Trap pairs: ≠ WED (**5 June**); ≠ Water Day (**22 March**); ≠ Biodiversity Day (**22 May**); ≠ **Earth Hour** (last Saturday of March, WWF — not on this syllabus).
 
-> ** note:** Earth Day = **22 April** — same “22” number as Water and Biodiversity, different months.
+> **Logic:** Earth Day = **22 April** — same “22” number as Water and Biodiversity, different months.
 
 ---
 
@@ -156,7 +163,7 @@ Options: A. 10 January B. 15 January C. 1 February D. 2 February
 - Sits in the March ladder between **Wildlife (3 Mar)** and **Water (22 Mar)** — easy to drop in match lists.
 - India observance links to ISFR messaging and plantation drives (Van Mahotsav is a separate July campaign).
 
-> ** note:** Forests = **21 March** — not 22 March (Water) and not 3 March (Wildlife).
+> **Logic:** Forests = **21 March** — not 22 March (Water) and not 3 March (Wildlife).
 
 ---
 
