@@ -60,8 +60,6 @@
 
 ## UKPCS Inline PYQ
 
-**Logic:** Date is testable; objective statement is uncontroversial and keyed true.
-
 **UKPCS Prelims 2025, Q140**
 
 Consider the following statements:
@@ -76,6 +74,8 @@ D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Date is testable; objective statement is uncontroversial and keyed true.
 
 **Ans: C (Series B provisional key).** Both the May 2013 commencement and the accountability–transparency objective are keyed correct.
 

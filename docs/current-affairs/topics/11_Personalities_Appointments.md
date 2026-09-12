@@ -146,8 +146,6 @@ Around mid-March, coverage said **Vikram K. Doraiswami** was appointed India’s
 > Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.
 > Full cross-topic index → [Practice Zone hub](15_Practice_Zone.md).
 
-**Logic:** CDS succession — Subramani after Chauhan.
-
 **Q1.** Who among the following succeeded General Anil Chauhan as the Chief of Defence Staff (end-May 2026 coverage)?
 
 A. General Manoj Pande
@@ -158,13 +156,13 @@ D. Admiral Dinesh K. Tripathi
 <details>
 <summary>Show answer</summary>
 
+**Logic:** CDS succession — Subramani after Chauhan.
+
 **Ans: B.** General **N. S. Raja Subramani** is the CDS fact. Trap: inserting a recent Army Chief name as CDS.
 
 </details>
 
 ---
-
-**Logic:** Kankaria water-neutral depot; Harivansh / Ashok Lahiri.
 
 **Q2.** Which of the following statements is/are correct for April–May 2026 national coverage?
 
@@ -182,13 +180,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Kankaria water-neutral depot; Harivansh / Ashok Lahiri.
+
 **Ans: D.** Firsts + appointments. Trap: swapping NITI Vice Chair with CEO (Anurag Jain appears later).
 
 </details>
 
 ---
-**Logic:** Match List — post ↔ name (UPPCS favourite).
-
 **Q3.** Match List-I with List-II and select the correct answer using the code given below the lists.
 
 | List-I (Post) | List-II (Name in 2026 coverage) |
@@ -208,13 +206,13 @@ D. 2 3 1 4
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Match List — post ↔ name (UPPCS favourite).
+
 **Ans: A.** CDS→Subramani; NITI Vice Chair→Lahiri; Education→Joshi; NITI CEO→Jain. Trap: swapping Vice Chair and CEO.
 
 </details>
 
 ---
-
-**Logic:** Naval / service chiefs.
 
 **Q4.** With reference to May–August 2026 service appointments, which of the following statements is/are correct?
 
@@ -232,13 +230,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Naval / service chiefs.
+
 **Ans: A.** (3) false — Subramani succeeded Chauhan around end-May. Trap: stale CDS name.
 
 </details>
 
 ---
-
-**Logic:** April–June civilian appointments cluster.
 
 **Q5.** Which of the following pairs is/are correctly matched?
 
@@ -257,13 +255,13 @@ D. 1, 2, 3 and 4
 <details>
 <summary>Show answer</summary>
 
+**Logic:** April–June civilian appointments cluster.
+
 **Ans: D.** All four appear in personalities coverage. Trap: putting CBSE chair under UGC.
 
 </details>
 
 ---
-
-**Logic:** EU leaders + Ambassador Doraiswami.
 
 **Q6.** With reference to diplomacy names in 2026 coverage, which of the following statements is/are correct?
 
@@ -281,13 +279,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** EU leaders + Ambassador Doraiswami.
+
 **Ans: A.** (3) swaps the two EU presidents. Classic personality Match trap.
 
 </details>
 
 ---
-
-**Logic:** Soft regulators / House names.
 
 **Q7.** Which of the following statements is/are correct?
 
@@ -305,13 +303,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Soft regulators / House names.
+
 **Ans: D.** Media / chess / sports admin cluster. Trap: writing Anand as permanent elected FIDE president without “Interim”.
 
 </details>
 
 ---
-
-**Logic:** Sitharaman ninth Budget.
 
 **Q8.** Which of the following statements is/are correct?
 
@@ -328,13 +326,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Sitharaman ninth Budget.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** Doraiswami China ambassador.
 
 **Q9.** Which of the following statements is/are correct?
 
@@ -352,13 +350,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Doraiswami China ambassador.
+
 **Ans: A.** (3) false.
 
 </details>
 
 ---
-
-**Logic:** Suryakumar T20 captain.
 
 **Q10.** Which of the following statements is/are correct?
 
@@ -375,13 +373,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Suryakumar T20 captain.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** Ashwini Bhide BMC first woman.
 
 **Q11.** Which of the following statements is/are correct?
 
@@ -398,13 +396,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Ashwini Bhide BMC first woman.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** UIDAI / IndiaAI Saurabh Vijay care.
 
 **Q12.** Which of the following statements is/are correct?
 
@@ -421,13 +419,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** UIDAI / IndiaAI Saurabh Vijay care.
+
 **Ans: C.** Both true — stem-specific.
 
 </details>
 
 ---
-
-**Logic:** Tushar Mehta SG extension.
 
 **Q13.** Which of the following statements is/are correct?
 
@@ -444,13 +442,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Tushar Mehta SG extension.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** Andy Burnham UK PM soft July.
 
 **Q14.** Which of the following statements is/are correct?
 
@@ -467,13 +465,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Andy Burnham UK PM soft July.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** Bangladesh President soft Aug.
 
 **Q15.** Which of the following statements is/are correct?
 
@@ -490,13 +488,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Bangladesh President soft Aug.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** Roman Gofman Mossad soft.
 
 **Q16.** Which of the following statements is/are correct?
 
@@ -513,13 +511,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Roman Gofman Mossad soft.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** Lee Jae-myung Korea visit.
 
 **Q17.** Which of the following statements is/are correct?
 
@@ -536,13 +534,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Lee Jae-myung Korea visit.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** Raghav Chadha RS petitions.
 
 **Q18.** Which of the following statements is/are correct?
 
@@ -559,13 +557,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Raghav Chadha RS petitions.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** Kunal Shah WhatsApp soft.
 
 **Q19.** Which of the following statements is/are correct?
 
@@ -582,13 +580,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Kunal Shah WhatsApp soft.
+
 **Ans: D.** (2) false.
 
 </details>
 
 ---
-
-**Logic:** Neelkanth Mishra World Bank ED.
 
 **Q20.** Which of the following statements is/are correct?
 
@@ -604,6 +602,8 @@ D. Only 1
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Neelkanth Mishra World Bank ED.
 
 **Ans: C.** Both true.
 

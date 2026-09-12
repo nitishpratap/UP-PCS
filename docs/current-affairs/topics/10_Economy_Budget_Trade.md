@@ -256,8 +256,6 @@ I-Day coverage recalled about **3.25 crore** families helped and assets worth ab
 > Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.
 > Full cross-topic index → [Practice Zone hub](15_Practice_Zone.md).
 
-**Logic:** Budget identity facts — Kartavya Bhawan + Yuva Shakti framing + capex figure.
-
 **Q1.** With reference to the Union Budget 2026–27, which of the following statements is/are correct?
 
 1. It was the first Union Budget prepared in Kartavya Bhawan.
@@ -274,13 +272,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Budget identity facts — Kartavya Bhawan + Yuva Shakti framing + capex figure.
+
 **Ans: A.** (1) and (2) true. (3) false — fiscal deficit fact is **4.3%** of GDP, not 5.1%. Trap: confusing older deficit bands with 2026–27 speech.
 
 </details>
 
 ---
-
-**Logic:** Budget transport / Orange Economy facts.
 
 **Q2.** With reference to Union Budget 2026–27 announcements, which of the following statements is/are correct?
 
@@ -298,13 +296,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Budget transport / Orange Economy facts.
+
 **Ans: D.** All three appear in February economy / scheme sheets. Trap: replacing Varanasi with only coastal yards.
 
 </details>
 
 ---
-
-**Logic:** Match Budget / Cabinet scheme ↔ money.
 
 **Q3.** Match List-I with List-II and select the correct answer using the code given below the lists.
 
@@ -325,13 +323,13 @@ D. 2 1 4 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Match Budget / Cabinet scheme ↔ money.
+
 **Ans: A.** Biopharma→2; CCUS→1; Cotton→3; Gasification→4. Trap: swapping Biopharma with Container scheme (also ₹10,000 crore) is fine for money but wrong if stem asks name→outlay without reading List carefully — here money pairs are distinct except remember Container also ₹10k.
 
 </details>
 
 ---
-
-**Logic:** Sugar export ban window.
 
 **Q4.** With reference to the sugar export ban reported in May 2026 coverage, which of the following statements is/are correct?
 
@@ -348,13 +346,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Sugar export ban window.
+
 **Ans: C.** Economy CA soft fact. Trap: shifting end date to 31 March.
 
 </details>
 
 ---
-
-**Logic:** Chronology — big scheme / trade dates.
 
 **Q5.** Consider the following and arrange them in correct chronological order:
 
@@ -373,13 +371,13 @@ D. 4, 3, 1, 2
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Chronology — big scheme / trade dates.
+
 **Ans: A.** Budget 1 Feb → Oman CEPA early June → VB-G 1 Jul → UK CETA 15 Jul. Trap: putting CETA before VB-G.
 
 </details>
 
 ---
-
-**Logic:** New Income Tax Act force date.
 
 **Q6.** With reference to tax / Budget law messaging for 2026, which of the following statements is/are correct?
 
@@ -396,13 +394,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** New Income Tax Act force date.
+
 **Ans: C.** Same calendar fact, different subjects — easy “both true” if you revised January + February together.
 
 </details>
 
 ---
-
-**Logic:** Semicon 2.0 economy fact.
 
 **Q7.** With reference to Semicon 2.0, which of the following statements is/are correct?
 
@@ -420,13 +418,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Semicon 2.0 economy fact.
+
 **Ans: A.** ₹2741 = UP CAMP.
 
 </details>
 
 ---
-
-**Logic:** MMDR Amendment 2026 core idea.
 
 **Q8.** With reference to the MMDR Amendment Act, 2026, which of the following statements is/are correct?
 
@@ -444,13 +442,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** MMDR Amendment 2026 core idea.
+
 **Ans: A.** (3) opposite.
 
 </details>
 
 ---
-
-**Logic:** Fiscal deficit 4.3%.
 
 **Q9.** Which of the following statements is/are correct for Budget 2026–27?
 
@@ -468,13 +466,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Fiscal deficit 4.3%.
+
 **Ans: A.** Wrong band.
 
 </details>
 
 ---
-
-**Logic:** New IT Act 1 April 2026.
 
 **Q10.** Which of the following statements is/are correct?
 
@@ -491,13 +489,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** New IT Act 1 April 2026.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** GST Day 1 July.
 
 **Q11.** Which of the following statements is/are correct?
 
@@ -515,13 +513,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** GST Day 1 July.
+
 **Ans: A.** 1 July 2017.
 
 </details>
 
 ---
-
-**Logic:** RELIEF exporters ECGC.
 
 **Q12.** With reference to RELIEF, which of the following statements is/are correct?
 
@@ -539,13 +537,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** RELIEF exporters ECGC.
+
 **Ans: A.** Scheme collision.
 
 </details>
 
 ---
-
-**Logic:** India–UK CETA 99% duty relief idea.
 
 **Q13.** Which of the following statements is/are correct?
 
@@ -563,13 +561,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** India–UK CETA 99% duty relief idea.
+
 **Ans: A.** DCC = social security.
 
 </details>
 
 ---
-
-**Logic:** Oman CEPA June economy.
 
 **Q14.** Which of the following statements is/are correct?
 
@@ -586,13 +584,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Oman CEPA June economy.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** SVAMITVA I-Day soft numbers.
 
 **Q15.** With reference to SVAMITVA I-Day recall, which of the following statements is/are correct?
 
@@ -609,13 +607,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** SVAMITVA I-Day soft numbers.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** Dankuni–Surat freight corridor.
 
 **Q16.** Which of the following statements is/are correct?
 
@@ -633,13 +631,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Dankuni–Surat freight corridor.
+
 **Ans: A.** (3) wrong.
 
 </details>
 
 ---
-
-**Logic:** Total expenditure ~53.5 lakh crore BE idea.
 
 **Q17.** Which of the following statements is/are correct?
 
@@ -656,13 +654,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Total expenditure ~53.5 lakh crore BE idea.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** Sugar export ban till 30 Sep.
 
 **Q18.** Which of the following statements is/are correct?
 
@@ -679,13 +677,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Sugar export ban till 30 Sep.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** Critical Mineral Mission soft link with MMDR.
 
 **Q19.** Which of the following statements is/are correct?
 
@@ -702,13 +700,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Critical Mineral Mission soft link with MMDR.
+
 **Ans: D.** Related but not same.
 
 </details>
 
 ---
-
-**Logic:** Yuva Shakti Budget label.
 
 **Q20.** Which of the following statements is/are correct?
 
@@ -724,6 +722,8 @@ D. Only 1
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Yuva Shakti Budget label.
 
 **Ans: C.** Both true.
 

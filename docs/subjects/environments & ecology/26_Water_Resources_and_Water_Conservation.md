@@ -610,8 +610,6 @@ D. Interlinking of Himalayan rivers
 
 ## Extra Drill (Ghatnachakra Water Resources map)
 
-**Logic:** Bank traps on biotic vs freshwater, NWM scope, disinfection, lakes, Ganga institutions, and personalities.
-
 **Q31.** Which is not a biotic resource?
 
 A. Coal
@@ -624,6 +622,8 @@ D. Freshwater
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Bank traps on biotic vs freshwater, NWM scope, disinfection, lakes, Ganga institutions, and personalities.
 
 **Ans: D.** Freshwater is abiotic; coal/petroleum counted biotic via organic origin.
 

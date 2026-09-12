@@ -402,8 +402,6 @@ Which pair is NOT correctly matched?
 
 ## Complete PYQ Bank (Topic 32)
 
-**Logic:** Four-NP state match — Dachigam J&K, Keoladeo Rajasthan, Kanha MP, Periyar Kerala.
-
 **Q1. UPPCS Prelims 2025, Q90**
 
 Match List-I with List-II:
@@ -428,13 +426,13 @@ D. 4 2 1 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Four-NP state match — Dachigam J&K, Keoladeo Rajasthan, Kanha MP, Periyar Kerala.
+
 **Ans: D.** Dachigam=J&K (4); Keoladeo=Rajasthan (2); Kanha=MP (1); Periyar=Kerala (3). **Trap:** Swapping Kanha–Periyar states or placing Keoladeo in UP.
 
 </details>
 
 ---
-
-**Logic:** UP Ramsar trap — Sarsai Nawar and Samaspur are in UP; Rudrasagar Tripura and Sultanpur Haryana are not.
 
 **Q2. UPPCS Prelims 2025, Q58**
 
@@ -456,13 +454,13 @@ D. 1 and 2
 <details>
 <summary>Show answer</summary>
 
+**Logic:** UP Ramsar trap — Sarsai Nawar and Samaspur are in UP; Rudrasagar Tripura and Sultanpur Haryana are not.
+
 **Ans: B.** **Sarsai Nawar** and **Samaspur** are in UP. **Rudrasagar = Tripura**; **Sultanpur NP = Haryana**. **Trap:** Assuming every bird wetland in the Gangetic plain is UP.
 
 </details>
 
 ---
-
-**Logic:** Chandraprabha WLS district — Chandauli, among earliest UP sanctuaries (1957).
 
 **Q3. UPPCS Prelims 2023, Q56**
 
@@ -479,13 +477,13 @@ D. Lakhimpur Kheri
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Chandraprabha WLS district — Chandauli, among earliest UP sanctuaries (1957).
+
 **Ans: B.** Chandraprabha lies in **Chandauli** district. **Trap:** Sonbhadra (Kaimur forests) or Bahraich (Terai trio with Katarniaghat).
 
 </details>
 
 ---
-
-**Logic:** National Parks conserve wild populations in natural habitat — in-situ genetic diversity maintenance.
 
 **Q4. UPPCS Prelims 2023, Q118**
 
@@ -502,13 +500,13 @@ D. None
 <details>
 <summary>Show answer</summary>
 
+**Logic:** National Parks conserve wild populations in natural habitat — in-situ genetic diversity maintenance.
+
 **Ans: A.** NPs are strict in-situ sites under WPA. **Trap:** "Gene pool" label or botanical garden (ex-situ) distractors.
 
 </details>
 
 ---
-
-**Logic:** Katarniaghat establishment year among UP Terai sanctuaries — 1975.
 
 **Q5. UPPCS Prelims 2022, Q36**
 
@@ -525,13 +523,13 @@ D. Kishanpur
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Katarniaghat establishment year among UP Terai sanctuaries — 1975.
+
 **Ans: B.** **Katarniaghat (Bahraich)** was established **1975** in the Dudhwa Terai Arc. **Trap:** Kishanpur (same corridor, different year) or National Chambal (multi-state).
 
 </details>
 
 ---
-
-**Logic:** Dudhwa NP district — Lakhimpur Kheri, not Pilibhit or Bahraich.
 
 **Q6. UPPCS Prelims 2022, Q56**
 
@@ -548,13 +546,13 @@ D. Sitapur
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Dudhwa NP district — Lakhimpur Kheri, not Pilibhit or Bahraich.
+
 **Ans: B.** Dudhwa — UP's only full NP — sits in **Lakhimpur Kheri**. **Trap:** Pilibhit Tiger Reserve (adjacent Terai, not Dudhwa district).
 
 </details>
 
 ---
-
-**Logic:** Keibul Lamjao — world's only floating NP on Loktak, Manipur (phumdis, Sangai deer).
 
 **Q7. UPPCS Prelims 2022, Q73**
 
@@ -571,13 +569,13 @@ D. Kolleru
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Keibul Lamjao — world's only floating NP on Loktak, Manipur (phumdis, Sangai deer).
+
 **Ans: A.** Keibul Lamjao floats on **Loktak (Manipur)**. **Trap:** Dal/Wular (J&K) or Kolleru (AP) lake-NP pairs.
 
 </details>
 
 ---
-
-**Logic:** 2020 four-NP state code — Indravati CG, Mollem Goa, Kalesar Haryana, Betla Jharkhand.
 
 **Q8. UPPCS Prelims 2020, Q62**
 
@@ -603,13 +601,13 @@ D. 3 4 2 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 2020 four-NP state code — Indravati CG, Mollem Goa, Kalesar Haryana, Betla Jharkhand.
+
 **Ans: A.** Indravati=Chhattisgarh (4); Mollem=Goa (3); Kalesar=Haryana (2); Betla=Jharkhand (1). **Trap:** Betla/Betva OCR confusion or Mollem placed in Karnataka.
 
 </details>
 
 ---
-
-**Logic:** Dachigam flagship species — Hangul (Kashmir stag), not musk deer or Gir lion.
 
 **Q9. UPPCS Prelims 2018, Q49**
 
@@ -626,13 +624,13 @@ D. Hangul or Kashmir Stag
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Dachigam flagship species — Hangul (Kashmir stag), not musk deer or Gir lion.
+
 **Ans: D.** **Hangul** is the Kashmir stag of **Dachigam (J&K)**. **Trap:** Musk deer (Himalayan sanctuaries) or Sangai (Loktak).
 
 </details>
 
 ---
-
-**Logic:** Simlipal state trap — Odisha, not Madhya Pradesh (Bandipur/Kanha are MP/Karnataka).
 
 **Q10. UPPCS Prelims 2018, Q58**
 
@@ -649,6 +647,8 @@ D. Simlipal National Park — Madhya Pradesh
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Simlipal state trap — Odisha, not Madhya Pradesh (Bandipur/Kanha are MP/Karnataka).
+
 **Ans: D.** **Simlipal = Odisha**; A, B, C are correct. **Trap:** Simlipal grouped with central-Indian tiger landscapes (MP).
 
 </details>
@@ -656,8 +656,6 @@ D. Simlipal National Park — Madhya Pradesh
 ---
 
 ## Extra Drill — Sanctuary / NP Match Bank (Q31–Q40)
-
-**Logic:** River–park, species–park, and state–park mismatches are the densest traps in this chapter.
 
 **Q31.** Which river–park pair is correct?
 
@@ -671,6 +669,8 @@ D. Corbett — Kaveri
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** River–park, species–park, and state–park mismatches are the densest traps in this chapter.
 
 **Ans: C.** Corbett = Ramganga + Kosi; Kaziranga = Brahmaputra / Diphlu system; Silent Valley = Kunthipuzha.
 

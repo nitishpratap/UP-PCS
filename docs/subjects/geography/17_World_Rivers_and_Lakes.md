@@ -25,8 +25,6 @@ World Rivers by Continent | Superlatives (longest / discharge / deepest) | Delta
 
 ### UKPCS Prelims 2025
 
-**Logic:** Only one of the four North American rivers cut the Arizona canyon.
-
 **Q. UKPCS Prelims 2025, Q94**
 
 The Grand Canyon of the U.S.A. is formed by which river?
@@ -38,6 +36,8 @@ D. Colorado
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Only one of the four North American rivers cut the Arizona canyon.
 
 **Ans: D (Series B provisional key).** The Colorado River cut the Grand Canyon through the Colorado Plateau.
 

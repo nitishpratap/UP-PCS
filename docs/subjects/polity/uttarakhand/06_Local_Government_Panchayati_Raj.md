@@ -64,8 +64,6 @@
 
 ## UKPCS Inline PYQs
 
-**Logic:** Three registers are standard — the odd one is the answer.
-
 **UKPCS Prelims 2025, Q134**
 
 Which record is not maintained by the Panchayats in Uttarakhand?
@@ -78,11 +76,11 @@ D. Grant register
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Three registers are standard — the odd one is the answer.
+
 **Ans: A (Series B provisional key).** Health register is with the health department; the other three are Panchayat records.
 
 </details>
-
-**Logic:** Four state cities — 2006 conference venue.
 
 **UKPCS Prelims 2025, Q133**
 
@@ -95,6 +93,8 @@ D. Rishikesh
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Four state cities — 2006 conference venue.
 
 **Ans: C (Series B provisional key).** Hosted at Dehradun in 2006.
 

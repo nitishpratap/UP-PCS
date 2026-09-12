@@ -69,8 +69,6 @@
 
 ## UKPCS Inline PYQs
 
-**Logic:** Both statements restate the standard state executive.
-
 **UKPCS Prelims 2025, Q139**
 
 Consider the following statements:
@@ -86,11 +84,11 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Both statements restate the standard state executive.
+
 **Ans: B (Series B provisional key).** Governor is constitutional head; CM and CoM are the real executive — both statements correct.
 
 </details>
-
-**Logic:** Nityanand Swami and Indu Kumar Pandey held different first posts.
 
 **UKPCS Prelims 2025, Q135**
 
@@ -109,11 +107,11 @@ D. Both 1 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Nityanand Swami and Indu Kumar Pandey held different first posts.
+
 **Ans: C (Series B provisional key).** Pair 4 is correct (Margaret Alva). Pair 3 is wrong because Nityanand Swami was first CM and Indu Kumar Pandey was first Chief Secretary.
 
 </details>
-
-**Logic:** Only one legislator held both Speaker and Protem roles repeatedly.
 
 **UKPCS Prelims 2025, Q141**
 
@@ -126,6 +124,8 @@ D. Prakash Pant
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Only one legislator held both Speaker and Protem roles repeatedly.
 
 **Ans: A (Series B provisional key).** Harbans Kapoor served as Speaker and as pro-tem Speaker on more than one occasion.
 

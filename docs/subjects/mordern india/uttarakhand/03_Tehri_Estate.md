@@ -68,8 +68,6 @@
 
 ## UKPCS Inline PYQ
 
-**Logic:** Four Tehri rulers in sequence — the reign tied to modern English education decides it.
-
 **UKPCS Prelims 2025, Q79**
 
 During whose reign did English education start in the Tehri princely state?
@@ -82,6 +80,8 @@ D. Narendra Shah
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Four Tehri rulers in sequence — the reign tied to modern English education decides it.
+
 **Ans: C (Series B provisional key).** English education began under Pratap Shah in the later nineteenth century. Sudarshan Shah is the 1815 founder; Narendra Shah is twentieth century.
 
 </details>
@@ -89,8 +89,6 @@ D. Narendra Shah
 ---
 
 ## Practice Zone
-
-**Logic:** Founder vs education.
 
 **Q1.** Which pairing is correct?
 
@@ -101,6 +99,8 @@ D. Narendra Shah — Anglo-Gorkha War commander
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Founder vs education.
 
 **Ans: C.** Sudarshan Shah receives the restored estate; Pratap Shah is the English-education reign.
 

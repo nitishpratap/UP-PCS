@@ -74,8 +74,6 @@
 
 ## UKPCS Inline PYQ
 
-**Logic:** Incorrectly matched date — Mussoorie firing is the planted error.
-
 **UKPCS Prelims 2025, Q78**
 
 Which is not correctly matched?
@@ -88,6 +86,8 @@ D. Black Day — 1 September, 1994
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Incorrectly matched date — Mussoorie firing is the planted error.
+
 **Ans: C (Series B provisional key).** Mussoorie firing was on **2 September 1994**, so the 3 September pairing is wrong. Khatima / Black Day on 1 September and Muzaffarnagar in early October are the correct cluster.
 
 </details>
@@ -95,8 +95,6 @@ D. Black Day — 1 September, 1994
 ---
 
 ## Practice Zone
-
-**Logic:** Day-after relationship.
 
 **Q1.** Mussoorie firing (1994) took place:
 
@@ -107,6 +105,8 @@ D. In October 1994
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Day-after relationship.
 
 **Ans: B.** Khatima 1 September; Mussoorie 2 September.
 

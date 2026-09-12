@@ -307,8 +307,6 @@ The UP Cabinet cleared two big road projects to grow the state’s expressway ne
 > Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.
 > Full cross-topic index → [Practice Zone hub](15_Practice_Zone.md).
 
-**Logic:** Jewar open date + first flight route (UP must-score).
-
 **Q1.** With reference to Noida International Airport (Jewar), which of the following statements is/are correct?
 
 1. Commercial operations began on 15 June 2026.
@@ -324,13 +322,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Jewar open date + first flight route (UP must-score).
+
 **Ans: C.** Both are UP facts. Trap: keeping the slipped “late May” target as the actual open date.
 
 </details>
 
 ---
-
-**Logic:** UP Budget size + Amethi Sher plant.
 
 **Q2.** With reference to Uttar Pradesh Current Affairs in 2026, which of the following statements is/are correct?
 
@@ -347,13 +345,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** UP Budget size + Amethi Sher plant.
+
 **Ans: C.** Budget + defence plant are separate months but both are UPPCS-style UP facts.
 
 </details>
 
 ---
-
-**Logic:** Match UP site / project ↔ place.
 
 **Q3.** Match List-I with List-II and select the correct answer using the code given below the lists.
 
@@ -374,13 +372,13 @@ D. 3 2 1 4
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Match UP site / project ↔ place.
+
 **Ans: A.** Shekha→Aligarh; Surha→Ballia; Sher→Amethi; Ganga extension→Haridwar. Trap: Shekha↔Surha district swap.
 
 </details>
 
 ---
-
-**Logic:** Chronology of Ramsar / airport news order.
 
 **Q4.** Consider the following events and arrange them in correct chronological order:
 
@@ -399,13 +397,13 @@ D. 2, 3, 4, 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Chronology of Ramsar / airport news order.
+
 **Ans: B.** Shekha (Apr) → Surha Tal WED 5 Jun → Jewar 15 Jun → Glaw (Aug). Trap: putting Jewar before Surha because both are “June UP news”.
 
 </details>
 
 ---
-
-**Logic:** UP expressways August Cabinet.
 
 **Q5.** With reference to Uttar Pradesh expressway clearances (August 2026), which of the following statements is/are correct?
 
@@ -423,13 +421,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** UP expressways August Cabinet.
+
 **Ans: A.** (3) is invented. Trap: mixing defence plant news (Sher) with expressway Cabinet.
 
 </details>
 
 ---
-
-**A/R logic:** A = Jewar opened 15 Jun; R = HC cleared land in April — both true; R helps timeline but is not the full explanation of the commercial open date (ops also needed airline readiness).
 
 **Q6.** Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
 
@@ -447,13 +445,13 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
+**A/R logic:** A = Jewar opened 15 Jun; R = HC cleared land in April — both true; R helps timeline but is not the full explanation of the commercial open date (ops also needed airline readiness).
+
 **Ans: A.** Land clearance helped the path, but the commercial open date is not *explained solely* by that April order. Trap: picking D because both are Jewar facts.
 
 </details>
 
 ---
-
-**Logic:** Older UP Ramsar recognition (2025-style NOT in UP).
 
 **Q7.** Which of the following Ramsar sites are **NOT** located in Uttar Pradesh?
 
@@ -472,13 +470,13 @@ D. 3 and 4
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Older UP Ramsar recognition (2025-style NOT in UP).
+
 **Ans: B.** Rudrasagar (Tripura) and Sultanpur (Haryana) are outside UP. Sarsai Nawar (Etawah) and Bakhira (Sant Kabir Nagar) are UP — mirrors 2025 Q58 pattern.
 
 </details>
 
 ---
-
-**Logic:** UP soft industry — CCSU Meerut AI; Pharma Conclave; sarus.
 
 **Q8.** With reference to Uttar Pradesh February–March style CA, which of the following statements is/are correct?
 
@@ -496,13 +494,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** UP soft industry — CCSU Meerut AI; Pharma Conclave; sarus.
+
 **Ans: D.** Soft UP cluster — still -useful with Ramsar / Jewar.
 
 </details>
 
 ---
-
-**Logic:** UP CAMP airshed first.
 
 **Q9.** With reference to UP CAMP, which of the following statements is/are correct?
 
@@ -520,13 +518,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** UP CAMP airshed first.
+
 **Ans: A.** ₹9.13 lakh crore is UP Budget.
 
 </details>
 
 ---
-
-**Logic:** YEIDA electronics cluster Sector 10.
 
 **Q10.** Which of the following statements is/are correct?
 
@@ -543,13 +541,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** YEIDA electronics cluster Sector 10.
+
 **Ans: D.** Soft industry note.
 
 </details>
 
 ---
-
-**Logic:** Dhanauri wetland conflict soft.
 
 **Q11.** With reference to Dhanauri wetland near Jewar, which of the following statements is/are correct?
 
@@ -566,13 +564,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Dhanauri wetland conflict soft.
+
 **Ans: D.** 100th is Surha Tal.
 
 </details>
 
 ---
-
-**Logic:** Patna Bird Sanctuary Etah January.
 
 **Q12.** Which of the following statements is/are correct?
 
@@ -590,13 +588,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Patna Bird Sanctuary Etah January.
+
 **Ans: A.** Name trap.
 
 </details>
 
 ---
-
-**Logic:** Ganga Expressway Haridwar money.
 
 **Q13.** With reference to August UP expressways, which of the following statements is/are correct?
 
@@ -613,13 +611,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Ganga Expressway Haridwar money.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** Sher Korwa Amethi.
 
 **Q14.** Which of the following statements is/are correct?
 
@@ -637,13 +635,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Sher Korwa Amethi.
+
 **Ans: A.** Amethi.
 
 </details>
 
 ---
-
-**Logic:** Jewar Phase-1 cost.
 
 **Q15.** With reference to Jewar Airport, which of the following statements is/are correct?
 
@@ -661,13 +659,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Jewar Phase-1 cost.
+
 **Ans: A.** May target slipped.
 
 </details>
 
 ---
-
-**Logic:** UP Budget 9.13.
 
 **Q16.** Which of the following statements is/are correct?
 
@@ -684,13 +682,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** UP Budget 9.13.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** Sarus census soft.
 
 **Q17.** Which of the following statements is/are correct?
 
@@ -707,13 +705,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Sarus census soft.
+
 **Ans: D.** Glaw is Arunachal.
 
 </details>
 
 ---
-
-**Logic:** WED Lucknow Surha certificate.
 
 **Q18.** With reference to Surha Tal announcement, which of the following statements is/are correct?
 
@@ -731,13 +729,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** WED Lucknow Surha certificate.
+
 **Ans: A.** Lucknow WED stage.
 
 </details>
 
 ---
-
-**Logic:** UP Ramsar 13 after Surha.
 
 **Q19.** Which of the following statements is/are correct?
 
@@ -755,13 +753,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** UP Ramsar 13 after Surha.
+
 **Ans: A.** Glaw not UP.
 
 </details>
 
 ---
-
-**Logic:** IndiGo Lucknow–Jewar–Bengaluru path.
 
 **Q20.** With reference to Jewar opening flights, which of the following statements is/are correct?
 
@@ -777,6 +775,8 @@ D. Only 1
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** IndiGo Lucknow–Jewar–Bengaluru path.
 
 **Ans: C.** Both true.
 

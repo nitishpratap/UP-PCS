@@ -275,8 +275,6 @@ A Bench of the High Court of Jammu and Kashmir and Ladakh was established for **
 > Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.
 > Full cross-topic index → [Practice Zone hub](15_Practice_Zone.md).
 
-**Logic:** Gujarat UCC — second state after Uttarakhand; Art 44.
-
 **Q1.** With reference to the Uniform Civil Code notified / brought into force in Gujarat in March 2026, which of the following statements is/are correct?
 
 1. Gujarat became the first Indian state to implement a Uniform Civil Code.
@@ -292,13 +290,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Gujarat UCC — second state after Uttarakhand; Art 44.
+
 **Ans: A.** Statement 1 is false — **Uttarakhand** was first; Gujarat is second. Statement 2 is true. Classic “first” second-sentence trap.
 
 </details>
 
 ---
-
-**Logic:** Supreme Court strength rise to 38 with CJI.
 
 **Q2.** With reference to the strength of the Supreme Court of India (May 2026 coverage), which of the following statements is/are correct?
 
@@ -315,13 +313,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Supreme Court strength rise to 38 with CJI.
+
 **Ans: C.** Both statements fact together. Trap: leaving the total at 34 or forgetting to include the CJI.
 
 </details>
 
 ---
-
-**Logic:** South Coast Railway Zone HQ + zone count.
 
 **Q3.** With reference to the South Coast Railway Zone, which of the following statements is/are correct?
 
@@ -338,13 +336,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** South Coast Railway Zone HQ + zone count.
+
 **Ans: C.** Both are May national-infra facts. Trap: putting HQ at Vijayawada or keeping zone count at 18.
 
 </details>
 
 ---
-
-**Logic:** I-Day / Shakti Ki Saptadhara — national CA.
 
 **Q4.** With reference to Independence Day 2026 messaging, which of the following statements is/are correct?
 
@@ -362,13 +360,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** I-Day / Shakti Ki Saptadhara — national CA.
+
 **Ans: D.** All three are August facts. Trap: shrinking Saptadhara to “five schemes” or writing 50 GW nuclear by 2030 as the I-Day fact.
 
 </details>
 
 ---
-
-**Logic:** Ladakh — High Court Bench vs new High Court.
 
 **Q5.** Which of the following statements is/are correct regarding Ladakh (August 2026 coverage)?
 
@@ -385,13 +383,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Ladakh — High Court Bench vs new High Court.
+
 **Ans: D.** Bench ≠ new High Court. Trap: upgrading “Bench” language to “new High Court”.
 
 </details>
 
 ---
-
-**Logic:** Ladakh new districts list.
 
 **Q6.** With reference to new districts created in Ladakh (April 2026 coverage), which of the following statements is/are correct?
 
@@ -409,13 +407,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Ladakh new districts list.
+
 **Ans: A.** (3) contradicts the named list. Trap: dropping Drass or Zanskar from the five.
 
 </details>
 
 ---
-
-**Logic:** SC footpath judgment — Arts 19(1)(d) and 21.
 
 **Q7.** With reference to the Supreme Court footpath judgment (June 2026 coverage), which of the following statements is/are correct?
 
@@ -432,13 +430,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** SC footpath judgment — Arts 19(1)(d) and 21.
+
 **Ans: C.** Rare judiciary CA — hot when loud. Trap: citing only Article 21 or only DPSPs.
 
 </details>
 
 ---
-
-**Logic:** Kartavya Bhawan Complex + Nilekani panel.
 
 **Q8.** With reference to July 2026 national / education coverage, which of the following statements is/are correct?
 
@@ -456,13 +454,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Kartavya Bhawan Complex + Nilekani panel.
+
 **Ans: D.** Appointments + naming facts. Trap: keeping an older Education Minister name.
 
 </details>
 
 ---
-
-**Logic:** Meghalaya official languages April.
 
 **Q9.** With reference to Meghalaya language coverage (April 2026), which of the following statements is/are correct?
 
@@ -479,13 +477,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Meghalaya official languages April.
+
 **Ans: D.** English stays in the trio. Trap: “replace English” extreme option.
 
 </details>
 
 ---
-
-**Logic:** SC strength Act name.
 
 **Q10.** With reference to the Supreme Court strength rise, which of the following statements is/are correct?
 
@@ -503,13 +501,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** SC strength Act name.
+
 **Ans: A.** 34 was the older total.
 
 </details>
 
 ---
-
-**Logic:** South Coast divisions.
 
 **Q11.** With reference to South Coast Railway Zone, which of the following statements is/are correct?
 
@@ -527,13 +525,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** South Coast divisions.
+
 **Ans: A.** HQ ≠ division city trap.
 
 </details>
 
 ---
-
-**Logic:** Kartavya Bhawan Complex naming.
 
 **Q12.** Which of the following statements is/are correct?
 
@@ -550,13 +548,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Kartavya Bhawan Complex naming.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** Shakti Ki Saptadhara seven streams.
 
 **Q13.** Which of the following is/are among Shakti Ki Saptadhara streams?
 
@@ -574,13 +572,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Shakti Ki Saptadhara seven streams.
+
 **Ans: A.** (3) invents.
 
 </details>
 
 ---
-
-**Logic:** Vande Mataram 150 + Yuva Shakti dual themes.
 
 **Q14.** With reference to I-Day 2026 themes, which of the following statements is/are correct?
 
@@ -598,13 +596,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Vande Mataram 150 + Yuva Shakti dual themes.
+
 **Ans: A.** (3) wrong.
 
 </details>
 
 ---
-
-**Logic:** Modi 13th Red Fort speech.
 
 **Q15.** Which of the following statements is/are correct?
 
@@ -621,13 +619,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Modi 13th Red Fort speech.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** Meghalaya Khasi Garo English.
 
 **Q16.** With reference to Meghalaya language coverage, which of the following statements is/are correct?
 
@@ -644,13 +642,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Meghalaya Khasi Garo English.
+
 **Ans: D.** English stays.
 
 </details>
 
 ---
-
-**Logic:** Kankaria water-neutral depot.
 
 **Q17.** Which of the following statements is/are correct?
 
@@ -667,13 +665,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Kankaria water-neutral depot.
+
 **Ans: D.** Ahmedabad.
 
 </details>
 
 ---
-
-**Logic:** Ladakh HC Bench not new HC.
 
 **Q18.** With reference to Ladakh judiciary (August 2026), which of the following statements is/are correct?
 
@@ -690,13 +688,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Ladakh HC Bench not new HC.
+
 **Ans: D.** Bench ≠ new HC.
 
 </details>
 
 ---
-
-**Logic:** GO-EAST Odisha soft.
 
 **Q19.** Which of the following statements is/are correct?
 
@@ -713,13 +711,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** GO-EAST Odisha soft.
+
 **Ans: D.** Soft state investment note.
 
 </details>
 
 ---
-
-**Logic:** Direct freight India–Nepal Biratnagar.
 
 **Q20.** With reference to July infra coverage, which of the following statements is/are correct?
 
@@ -735,6 +733,8 @@ D. Only 1
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Direct freight India–Nepal Biratnagar.
 
 **Ans: D.** Biratnagar fact.
 

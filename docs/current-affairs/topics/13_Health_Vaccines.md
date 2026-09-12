@@ -173,8 +173,6 @@ Independence Day speeches also spoke about wider free hospital cover under **Ayu
 > Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.
 > Full cross-topic index → [Practice Zone hub](15_Practice_Zone.md).
 
-**Logic:** Yoga Day theme only.
-
 **Q1.** The theme of International Day of Yoga 2026 was:
 
 A. Yoga for Vasudhaiva Kutumbakam
@@ -185,13 +183,13 @@ D. Yoga for Heart Health
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Yoga Day theme only.
+
 **Ans: B.** Direct day–theme recall. Trap: older Yoga Day themes.
 
 </details>
 
 ---
-
-**Logic:** World Zoonoses Day theme.
 
 **Q2.** The 2026 theme of World Zoonoses Day locked in coverage is:
 
@@ -203,13 +201,13 @@ D. Wetlands and traditional knowledge
 <details>
 <summary>Show answer</summary>
 
+**Logic:** World Zoonoses Day theme.
+
 **Ans: A.** Direct theme recall. Trap: recycling Earth Day / Biodiversity themes.
 
 </details>
 
 ---
-
-**Logic:** WHO Health Day vs Ebola emergency (May soft health).
 
 **Q3.** Which of the following statements is/are correct?
 
@@ -227,13 +225,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** WHO Health Day vs Ebola emergency (May soft health).
+
 **Ans: A.** (3) false — Health Day is **7 April**; 22 April is Earth Day. Trap: day collision.
 
 </details>
 
 ---
-
-**Logic:** WHO / Ayush soft health from Budget.
 
 **Q4.** With reference to health institutes in Budget / early-2026 coverage, which of the following statements is/are correct?
 
@@ -251,13 +249,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** WHO / Ayush soft health from Budget.
+
 **Ans: D.** Health CA is thin post-COVID but Budget clusters still appear. Trap: putting NIMHANS-2 in Bengaluru only by habit.
 
 </details>
 
 ---
-**Logic:** NIMHANS-2 / Ayurveda institutes / Jamnagar WHO centre.
-
 **Q5.** With reference to Budget 2026–27 health messaging, which of the following statements is/are correct?
 
 1. NIMHANS-2 was proposed for North India.
@@ -274,13 +272,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** NIMHANS-2 / Ayurveda institutes / Jamnagar WHO centre.
+
 **Ans: D.** Soft health cluster. Trap: putting NIMHANS-2 only in Bengaluru by habit.
 
 </details>
 
 ---
-
-**Logic:** Biopharma SHAKTI trial sites + NIPER.
 
 **Q6.** With reference to Biopharma SHAKTI, which of the following statements is/are correct?
 
@@ -298,13 +296,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Biopharma SHAKTI trial sites + NIPER.
+
 **Ans: D.** Health–scheme hybrid. Trap: equating with old PLI Pharma only.
 
 </details>
 
 ---
-
-**Logic:** World Health Day date 7 April.
 
 **Q7.** Which of the following statements is/are correct?
 
@@ -322,13 +320,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** World Health Day date 7 April.
+
 **Ans: A.** 22 April = Earth Day.
 
 </details>
 
 ---
-
-**Logic:** Yoga Day health sheet.
 
 **Q8.** Which of the following statements is/are correct?
 
@@ -345,13 +343,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Yoga Day health sheet.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** Zoonoses Day One Health.
 
 **Q9.** Which of the following statements is/are correct?
 
@@ -368,13 +366,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Zoonoses Day One Health.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** Ebola WHO emergency DRC Uganda.
 
 **Q10.** Which of the following statements is/are correct?
 
@@ -391,13 +389,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Ebola WHO emergency DRC Uganda.
+
 **Ans: D.** (2) false.
 
 </details>
 
 ---
-
-**Logic:** Medical tourism five regional hubs.
 
 **Q11.** Which of the following statements is/are correct?
 
@@ -414,13 +412,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Medical tourism five regional hubs.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** Allied health 1 lakh professionals.
 
 **Q12.** Which of the following statements is/are correct?
 
@@ -438,13 +436,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Allied health 1 lakh professionals.
+
 **Ans: A.** (3) invented.
 
 </details>
 
 ---
-
-**Logic:** Youth Day theme Aug health-adjacent.
 
 **Q13.** Which of the following statements is/are correct?
 
@@ -461,13 +459,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Youth Day theme Aug health-adjacent.
+
 **Ans: D.** 12 Aug.
 
 </details>
 
 ---
-
-**Logic:** CDSCO stronger under Biopharma SHAKTI.
 
 **Q14.** Which of the following statements is/are correct?
 
@@ -484,13 +482,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** CDSCO stronger under Biopharma SHAKTI.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** Mental health NIMHANS-2.
 
 **Q15.** Which of the following statements is/are correct?
 
@@ -507,13 +505,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Mental health NIMHANS-2.
+
 **Ans: D.** (2) false.
 
 </details>
 
 ---
-
-**Logic:** Optometry radiology allied disciplines.
 
 **Q16.** Which of the following statements is/are correct?
 
@@ -530,13 +528,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Optometry radiology allied disciplines.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** Ayush Anudan Portal soft.
 
 **Q17.** Which of the following statements is/are correct?
 
@@ -553,13 +551,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Ayush Anudan Portal soft.
+
 **Ans: D.** (2) false.
 
 </details>
 
 ---
-
-**Logic:** WHO traditional medicine Jamnagar.
 
 **Q18.** Which of the following statements is/are correct?
 
@@ -576,13 +574,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** WHO traditional medicine Jamnagar.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** Stand with science Health Day.
 
 **Q19.** Which of the following statements is/are correct?
 
@@ -599,13 +597,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Stand with science Health Day.
+
 **Ans: C.** Both true — day collision drill.
 
 </details>
 
 ---
-
-**Logic:** Prevent Zoonoses wording.
 
 **Q20.** Which of the following statements is/are correct?
 
@@ -621,6 +619,8 @@ D. Only 1
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Prevent Zoonoses wording.
 
 **Ans: D.** (2) false.
 

@@ -79,8 +79,6 @@
 
 ## UKPCS Inline PYQs
 
-**Logic:** Colonial village functionaries in Kumaon worked on revenue.
-
 **UKPCS Prelims 2025, Q71**
 
 What were the duties of ‘Kamin’ in Uttarakhand during the colonial period?
@@ -93,11 +91,11 @@ D. Arranging marriages
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Colonial village functionaries in Kumaon worked on revenue.
+
 **Ans: A (Series B provisional key).** The Kamin collected land revenue from villages assigned to him in the colonial intermediary chain.
 
 </details>
-
-**Logic:** Traill’s Kumaon headquarters narrows the place.
 
 **UKPCS Prelims 2025, Q86**
 
@@ -111,6 +109,8 @@ D. Srinagar
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Traill’s Kumaon headquarters narrows the place.
+
 **Ans: B (Series B provisional key).** Traill appointed native doctors at Almora, the Kumaon headquarters. Nainital rises as a station later (about 1841).
 
 </details>
@@ -118,8 +118,6 @@ D. Srinagar
 ---
 
 ## Practice Zone
-
-**Logic:** Princely vs British district.
 
 **Q1.** Which unit remained a princely estate after the Anglo-Gorkha settlement rather than a Company hill district?
 
@@ -130,6 +128,8 @@ D. Nainital
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Princely vs British district.
 
 **Ans: C.** Tehri under Sudarshan Shah stayed princely; Kumaon and eastern Garhwal went to the Company.
 

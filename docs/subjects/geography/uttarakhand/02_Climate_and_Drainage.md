@@ -132,8 +132,6 @@
 
 ## UKPCS Inline PYQ
 
-**Logic:** Yamuna brackets the west and Gori the east.
-
 **UKPCS Prelims 2025, Q109**
 
 What is the correct order of rivers from west to east in Uttarakhand?
@@ -146,6 +144,8 @@ D. Bhilangana, Yamuna, Gori, Alaknanda
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Yamuna brackets the west and Gori the east.
+
 **Ans: A (Series B provisional key).** Yamuna west → Bhilangana (Tehri/Bhagirathi) → Alaknanda (central Garhwal) → Gori (east / Pithoragarh).
 
 </details>
@@ -153,8 +153,6 @@ D. Bhilangana, Yamuna, Gori, Alaknanda
 ---
 
 ## Practice Zone
-
-**Logic:** Confluence identity.
 
 **Q1.** Bhagirathi and Alaknanda meet to form the Ganga at:
 
@@ -166,11 +164,11 @@ D. Vishnuprayag
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Confluence identity.
+
 **Ans: C.** Devprayag is the Bhagirathi–Alaknanda confluence.
 
 </details>
-
-**Logic:** Tributary at Vishnuprayag.
 
 **Q2.** At Vishnuprayag, the Alaknanda is joined by the:
 
@@ -181,6 +179,8 @@ D. Dhauliganga
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Tributary at Vishnuprayag.
 
 **Ans: D.** Vishnuprayag is Alaknanda + Dhauliganga. Mandakini joins at Rudraprayag; Pindar at Karnaprayag; Nandakini at Nandaprayag.
 

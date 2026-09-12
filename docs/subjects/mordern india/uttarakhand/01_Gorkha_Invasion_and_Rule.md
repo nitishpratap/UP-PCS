@@ -89,8 +89,6 @@
 
 ## UKPCS Inline PYQs
 
-**Logic:** Drop any option that omits statement 1; Divya is the planted officer trap.
-
 **UKPCS Prelims 2025, Q69**
 
 Consider the following statements:
@@ -109,11 +107,11 @@ D. 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Drop any option that omits statement 1; Divya is the planted officer trap.
+
 **Ans: C (Series B provisional key).** Vichari names the judge and Sabha names associated judicial workers. Divya is trial by ordeal, not an officer’s post.
 
 </details>
-
-**Logic:** Four Anglo-Gorkha commanders — the one killed at Nalapani is Gillespie.
 
 **UKPCS Prelims 2025, Q82**
 
@@ -127,6 +125,8 @@ D. Major General Morley
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Four Anglo-Gorkha commanders — the one killed at Nalapani is Gillespie.
+
 **Ans: B (Series B provisional key).** Rollo Gillespie led the Dehradun column and died at Nalapani / Kalanga. Ochterlony belongs to the Sutlej front.
 
 </details>
@@ -134,8 +134,6 @@ D. Major General Morley
 ---
 
 ## Practice Zone
-
-**Logic:** Map outcome after Sugauli.
 
 **Q1.** After the Anglo-Gorkha War, western Garhwal under Sudarshan Shah became known as:
 
@@ -147,11 +145,11 @@ D. Dotyal
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Map outcome after Sugauli.
+
 **Ans: B.** Sudarshan Shah’s restored principality is the Tehri Estate; eastern Garhwal and Kumaon stayed with the Company.
 
 </details>
-
-**Logic:** Divya meaning.
 
 **Q2.** In Gorkha-period justice vocabulary of the hills, ‘Divya’ refers to:
 
@@ -162,6 +160,8 @@ D. A village headman
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Divya meaning.
 
 **Ans: C.** Divya is ordeal procedure; the judge’s title is Vichari.
 

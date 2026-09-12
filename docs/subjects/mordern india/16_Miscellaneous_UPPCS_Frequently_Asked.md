@@ -734,8 +734,6 @@ D. C A B D
 
 Teaching sits in **16.1, 16.4, 16.6, 16.14** (and linked Topics 2 / 4 / 14 / 15).
 
-**Logic:** Anglo-Afghan policy fear = Russia (Great Game), not France alone.
-
 **Q1. UPPCS / IAS**
 
 British anxiety behind the First Anglo-Afghan War was mainly the fear of which power?
@@ -751,11 +749,11 @@ D. Persia alone
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Anglo-Afghan policy fear = Russia (Great Game), not France alone.
+
 **Ans: B.** Fear of **Russian** advance (Great Game). Treaties such as **Turkmenchay** sit in the same Russia–Persia memory.
 
 </details>
-
-**Logic:** Odisha famine nickname = Sea of Calamity (1866–67).
 
 **Q2. UPPCS**
 
@@ -772,11 +770,11 @@ D. Doji Bara Famine
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Odisha famine nickname = Sea of Calamity (1866–67).
+
 **Ans: B.** **Sea of Calamity** — Odisha **1866–67**.
 
 </details>
-
-**Logic:** Famine Codes ← Strachey Commission (1880).
 
 **Q3. UPPCS / IAS**
 
@@ -793,11 +791,11 @@ D. Fraser Commission
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Famine Codes ← Strachey Commission (1880).
+
 **Ans: B.** **Richard Strachey (1880)**. Do not swap with Campbell / MacDonnell famine enquiries.
 
 </details>
-
-**Logic:** Match Frazer–MacDonnell–Moncrieff–Robertson.
 
 **Q4. UPPCS**
 
@@ -823,11 +821,11 @@ D. 4 3 2 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Match Frazer–MacDonnell–Moncrieff–Robertson.
+
 **Ans: A.** Frazer → **Police**; MacDonnell → **Famine**; Moncrieff → **Irrigation**; Robertson → **Railway**.
 
 </details>
-
-**Logic:** Whitley Commission = labour / industrial conditions (not education).
 
 **Q5. UPPCS / UKPCS-style labour trap**
 
@@ -844,11 +842,11 @@ D. Famine codes
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Whitley Commission = labour / industrial conditions (not education).
+
 **Ans: B.** Royal Commission on **Labour** (Whitley). Education traps = Hunter / Sadler / Sargeant.
 
 </details>
-
-**Logic:** Gandhi’s title from Tagore = Great Sentinel.
 
 **Q6. UPPCS / UKPCS**
 
@@ -865,11 +863,11 @@ D. Sarojini Naidu
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Gandhi’s title from Tagore = Great Sentinel.
+
 **Ans: B.** **Tagore** — Great Sentinel.
 
 </details>
-
-**Logic:** Jai Jawan Jai Kisan = Lal Bahadur Shastri.
 
 **Q7. UPPCS**
 
@@ -886,11 +884,11 @@ D. Morarji Desai
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Jai Jawan Jai Kisan = Lal Bahadur Shastri.
+
 **Ans: B.** **Lal Bahadur Shastri**.
 
 </details>
-
-**Logic:** First woman PM worldwide often keyed = Sirimavo Bandaranaike (Sri Lanka).
 
 **Q8. UPPCS / IAS**
 
@@ -907,11 +905,11 @@ D. Margaret Thatcher
 <details>
 <summary>Show answer</summary>
 
+**Logic:** First woman PM worldwide often keyed = Sirimavo Bandaranaike (Sri Lanka).
+
 **Ans: C.** **Sirimavo Bandaranaike** (Sri Lanka). Indira Gandhi is India’s first woman PM, not the world’s first.
 
 </details>
-
-**Logic:** First communist ministry in India = Kerala, 1957 (E.M.S. Namboodiripad).
 
 **Q9. UPPCS / UKPCS**
 
@@ -928,11 +926,11 @@ D. Andhra Pradesh, 1952
 <details>
 <summary>Show answer</summary>
 
+**Logic:** First communist ministry in India = Kerala, 1957 (E.M.S. Namboodiripad).
+
 **Ans: B.** **Kerala, 1957**.
 
 </details>
-
-**Logic:** Operation Polo = Hyderabad, 1948.
 
 **Q10. UPPCS**
 
@@ -948,6 +946,8 @@ D. Goa
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Operation Polo = Hyderabad, 1948.
 
 **Ans: B.** **Hyderabad (1948)**. Goa is later (**Vijay**, 1961).
 

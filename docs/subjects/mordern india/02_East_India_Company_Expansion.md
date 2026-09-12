@@ -1524,8 +1524,6 @@ D. Jamadani
 
 Teaching for these stems sits in **2.1–2.5** (and Wandiwash chronology with Carnatic markers in Topic 12 / §2.0 phase map).
 
-**Logic:** Last Mughal-appointed Bengal governor = Murshid Quli Khan.
-
 **Q1. UPPCS (Mains) 2013 / UP R.O./A.R.O. (Pre) 2021**
 
 Who was the last Governor / Subedar of Bengal appointed by the Mughal Emperor?
@@ -1541,11 +1539,11 @@ D. Shujauddin Muhammad Khan
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Last Mughal-appointed Bengal governor = Murshid Quli Khan.
+
 **Ans: B.** **Murshid Quli Khan** (promoted under **Farrukhsiyar**, **1717**). Later Nawabs were hereditary/local successions ratified at court, not fresh independent Mughal appointments in the same sense.
 
 </details>
-
-**Logic:** Plassey = political foothold; Clive = founder / Heaven-Born General.
 
 **Q2. MPPCS / UKPCS / UPPCS**
 
@@ -1562,11 +1560,11 @@ D. Lord Cornwallis
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Plassey = political foothold; Clive = founder / Heaven-Born General.
+
 **Ans: B.** **Robert Clive** after **Plassey (1757)**. Pitt’s phrase **Heaven-Born General** is tied to Clive. Many texts still call **Buxar (1764)** the more decisive military proof of supremacy.
 
 </details>
-
-**Logic:** Plassey field = West Bengal (Nadia / Bhagirathi).
 
 **Q3. Uttarakhand PCS (Pre) 2010**
 
@@ -1583,11 +1581,11 @@ D. West Bengal
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Plassey field = West Bengal (Nadia / Bhagirathi).
+
 **Ans: D.** **Palashi**, Nadia district, on the **Bhagirathi**.
 
 </details>
-
-**Logic:** Capital shift Murshidabad → Munger = Mir Qasim.
 
 **Q4. IAS (Pre) 2005 / UP Lower Sub. 2003**
 
@@ -1604,11 +1602,11 @@ D. Mir Qasim
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Capital shift Murshidabad → Munger = Mir Qasim.
+
 **Ans: D.** **Mir Qasim** — distance from Calcutta; European-style army; matchlock works at Munger.
 
 </details>
-
-**Logic:** Most decisive military supremacy in Bengal politics = Buxar under Munro; Diwani after Allahabad.
 
 **Q5. UPPCS / MPPCS / BPSC cluster**
 
@@ -1625,11 +1623,11 @@ D. Third Panipat, 1761
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Most decisive military supremacy in Bengal politics = Buxar under Munro; Diwani after Allahabad.
+
 **Ans: C.** **Buxar (22/23 Oct 1764)** under **Hector Munro**. Delhi ruler then: **Shah Alam II**. Bengal Nawab: **Mir Jafar**. Treaty: **Allahabad (Aug 1765)**. Diwani from **Shah Alam II** on **12 August 1765** under **Clive**.
 
 </details>
-
-**Logic:** Deputy Diwan Murshidabad/Bengal = Mohammad Reza Khan; Bihar = Shitab Rai.
 
 **Q6. BPSC (Pre) 2001**
 
@@ -1646,11 +1644,11 @@ D. Syed Ghulam Hussain
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Deputy Diwan Murshidabad/Bengal = Mohammad Reza Khan; Bihar = Shitab Rai.
+
 **Ans: A.** **Muhammad Reza Khan** (Bengal); **Raja Shitab Rai** for Bihar.
 
 </details>
-
-**Logic:** After Diwani, first hill contact = Khasi (Tirot Sing).
 
 **Q7. IAS (Pre) 2002**
 
@@ -1667,11 +1665,11 @@ D. Tipperah
 <details>
 <summary>Show answer</summary>
 
+**Logic:** After Diwani, first hill contact = Khasi (Tirot Sing).
+
 **Ans: B.** **Khasi** resistance under **Tirot Sing** as roads pushed from Sylhet.
 
 </details>
-
-**Logic:** Chronology Ambur → Plassey → Wandiwash → Buxar; Wandiwash = British beat French (Lally).
 
 **Q8. IAS 2005 / UKPCS / UPPCS / BPSC**
 
@@ -1693,11 +1691,11 @@ D. 3, 4, 2, 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Chronology Ambur → Plassey → Wandiwash → Buxar; Wandiwash = British beat French (Lally).
+
 **Ans: A.** **Ambur (1749) → Plassey (1757) → Wandiwash (1760) → Buxar (1764)**. Do not place **Buxar** before **Wandiwash**.
 
 </details>
-
-**Logic:** Wandiwash (1760) = decisive British victory over French in the Carnatic phase.
 
 **Q9. IAS 2005 / UKPCS / UPPCS / BPSC**
 
@@ -1714,11 +1712,11 @@ D. Robert Clive against Siraj-ud-Daula
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Wandiwash (1760) = decisive British victory over French in the Carnatic phase.
+
 **Ans: B.** **British (EIC)** under **Sir Eyre Coote** defeated the **French**. Trap: **Clive/Plassey** and **Buxar/Mir Qasim** belong to Bengal, not Wandiwash.
 
 </details>
-
-**Logic:** French commander at Wandiwash = Count de Lally.
 
 **Q10. IAS 2005 / UKPCS / UPPCS / BPSC**
 
@@ -1735,11 +1733,11 @@ D. Admiral Suffren
 <details>
 <summary>Show answer</summary>
 
+**Logic:** French commander at Wandiwash = Count de Lally.
+
 **Ans: B.** **Count de Lally** — Wandiwash broke French hopes in the Carnatic; **Dupleix** belongs to an earlier Carnatic phase.
 
 </details>
-
-**Logic:** Correct match = Wandiwash French vs EIC (not Buxar as Mir Jafar vs Clive).
 
 **Q11. IAS (Pre) 1995**
 
@@ -1756,11 +1754,11 @@ D. Khurda – Nizam vs EIC
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Correct match = Wandiwash French vs EIC (not Buxar as Mir Jafar vs Clive).
+
 **Ans: B.** Buxar was Munro vs Mir Qasim–Shuja–Shah Alam II, not Mir Jafar vs Clive.
 
 </details>
-
-**Logic:** Strongest Indian resistance to British among options often keyed Marathas.
 
 **Q12. UPPCS (Pre) 1993**
 
@@ -1777,11 +1775,11 @@ D. Sikh
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Strongest Indian resistance to British among options often keyed Marathas.
+
 **Ans: A.** **Marathas** — three Anglo-Maratha wars before final suppression (**1818**).
 
 </details>
-
-**Logic:** Oudh Hindu officers — Tikait Rai as Asaf-ud-Daula’s diwan.
 
 **Q13. UP R.O./A.R.O. (Mains) 2016**
 
@@ -1801,6 +1799,8 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Oudh Hindu officers — Tikait Rai as Asaf-ud-Daula’s diwan.
+
 **Ans: C (Both 1 and 2).**
 
 </details>
@@ -1810,8 +1810,6 @@ D. Neither 1 nor 2
 ## Ghatnachakra Extra Drill — Regional States: Punjab & Mysore
 
 Teaching for these stems sits in **2.10–2.12** (Begum Samru in the UP / Sardhana note).
-
-**Logic:** Among common options, Srinagar/Kashmir (1819) was inside Ranjit’s kingdom — not Delhi/Kabul/Makran.
 
 **Q1. UPPCS Spl (Mains) 2004 / UPPCS (Pre) 1997 / MPPCS 2021 / UKPCS 2006**
 
@@ -1828,11 +1826,11 @@ D. Makran
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Among common options, Srinagar/Kashmir (1819) was inside Ranjit’s kingdom — not Delhi/Kabul/Makran.
+
 **Ans: C.** **Kashmir/Srinagar (1819)** was under Ranjit. Capital = **Lahore** (from **1799**); Amritsar was the religious capital (**1802**).
 
 </details>
-
-**Logic:** Ranjit’s misl = Sukerchakia.
 
 **Q2. UPPCS / UKPCS**
 
@@ -1849,11 +1847,11 @@ D. Bhangi
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Ranjit’s misl = Sukerchakia.
+
 **Ans: C.** **Sukerchakia (Shukarchakiya)** misl.
 
 </details>
-
-**Logic:** Adalat-i-Ala = Lahore (not Amritsar).
 
 **Q3. UPPCS (Pre) 2021**
 
@@ -1870,11 +1868,11 @@ D. Multan
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Adalat-i-Ala = Lahore (not Amritsar).
+
 **Ans: B.** Highest appeal court at **Lahore**.
 
 </details>
-
-**Logic:** Treaty of Amritsar 1809 under Lord Minto (Metcalfe negotiated).
 
 **Q4. Jharkhand PCS / BPSC / UPPCS (Mains)**
 
@@ -1891,11 +1889,11 @@ D. Lord Auckland
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Treaty of Amritsar 1809 under Lord Minto (Metcalfe negotiated).
+
 **Ans: B.** **Lord Minto**; Charles Metcalfe signed. Kohinoor later came from **Shah Shuja**.
 
 </details>
-
-**Logic:** “One eye” religious harmony quote = Ranjit Singh.
 
 **Q5. UPPCS (Mains)**
 
@@ -1912,11 +1910,11 @@ D. Baba Ram Singh
 <details>
 <summary>Show answer</summary>
 
+**Logic:** “One eye” religious harmony quote = Ranjit Singh.
+
 **Ans: B.** **Maharaja Ranjit Singh**.
 
 </details>
-
-**Logic:** Last Sikh king = Duleep Singh; successor of Ranjit = Kharak Singh.
 
 **Q6. Jharkhand / UPPCS (Mains) / UP R.O. 2023**
 
@@ -1933,11 +1931,11 @@ D. Duleep Singh
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Last Sikh king = Duleep Singh; successor of Ranjit = Kharak Singh.
+
 **Ans: D.** **Duleep Singh (1843–49)**. Ranjit’s immediate successor was **Kharak Singh**. Duleep died in **Paris (1893)**.
 
 </details>
-
-**Logic:** Board of Three after annexation = Henry Lawrence, John Lawrence, Charles Mansel — not Elliot/Montgomery.
 
 **Q7. UPPCS (Mains) 2013**
 
@@ -1954,11 +1952,11 @@ D. H.M. Elliot
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Board of Three after annexation = Henry Lawrence, John Lawrence, Charles Mansel — not Elliot/Montgomery.
+
 **Ans: D.** Board = **Henry Lawrence, John Lawrence, Charles Grenville Mansel**.
 
 </details>
-
-**Logic:** First Anglo-Mysore — Haidar strong; Treaty of Madras 1769.
 
 **Q8. UPPCS / Jharkhand**
 
@@ -1975,11 +1973,11 @@ D. Salbai
 <details>
 <summary>Show answer</summary>
 
+**Logic:** First Anglo-Mysore — Haidar strong; Treaty of Madras 1769.
+
 **Ans: B.** **Treaty of Madras (4 April 1769)** — Haidar Ali remained strong.
 
 </details>
-
-**Logic:** Porto Novo 1781 — Eyre Coote defeated Haidar.
 
 **Q9. UPPCS**
 
@@ -1996,11 +1994,11 @@ D. Cornwallis
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Porto Novo 1781 — Eyre Coote defeated Haidar.
+
 **Ans: A.** **Sir Eyre Coote** at **Porto Novo**.
 
 </details>
-
-**Logic:** Tipu’s capital = Srirangapatna; died in Fourth War 1799.
 
 **Q10. BPSC / IAS / UPPCS**
 
@@ -2017,11 +2015,11 @@ D. Mandya
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Tipu’s capital = Srirangapatna; died in Fourth War 1799.
+
 **Ans: C.** **Srirangapatna**. Tipu died in the **Fourth** Anglo-Mysore War (**1799**). Treaty of Srirangapatna (**1792**) ended the Third War.
 
 </details>
-
-**Logic:** British defeat at Pollilur 1780 under Tipu/Haidar stream.
 
 **Q11. UPPCS / BPSC**
 
@@ -2038,11 +2036,11 @@ D. Plassey
 <details>
 <summary>Show answer</summary>
 
+**Logic:** British defeat at Pollilur 1780 under Tipu/Haidar stream.
+
 **Ans: B.** **Pollilur (1780)**.
 
 </details>
-
-**Logic:** Match treaty years — Allahabad 1765, Mangalore 1784, Salbai 1782, Madras 1769.
 
 **Q12. UPPCS (Pre) 2019**
 
@@ -2068,11 +2066,11 @@ D. 2 4 1 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Match treaty years — Allahabad 1765, Mangalore 1784, Salbai 1782, Madras 1769.
+
 **Ans: A.** Allahabad **1765**; Mangalore **1784**; Salbai **1782**; Madras **1769**.
 
 </details>
-
-**Logic:** Begum Samru church = Sardhana (Meerut).
 
 **Q13. UPPCS (Mains) 2012**
 
@@ -2089,6 +2087,8 @@ D. Kanpur
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Begum Samru church = Sardhana (Meerut).
+
 **Ans: C.** **Sardhana** (Meerut region).
 
 </details>
@@ -2096,8 +2096,6 @@ D. Kanpur
 ---
 
 ### UKPCS Complete PYQ Bank (EIC / Punjab / Mysore)
-
-**Logic:** Plassey battlefield state — Nadia / West Bengal.
 
 **Q1. Uttarakhand PCS (Pre) 2010**
 
@@ -2114,11 +2112,11 @@ D. West Bengal
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Plassey battlefield state — Nadia / West Bengal.
+
 **Ans: D.** **Palashi**, Nadia district, West Bengal.
 
 </details>
-
-**Logic:** Ranjit’s territorial extent among options.
 
 **Q2. UKPCS 2006 / UPPCS cluster**
 
@@ -2135,11 +2133,11 @@ D. Makran
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Ranjit’s territorial extent among options.
+
 **Ans: C.** **Srinagar (Kashmir, 1819)**.
 
 </details>
-
-**Logic:** IAS 2003 — Ali Mardan Khan did NOT introduce revenue farming in Bengal (Murshid Quli did).
 
 **Q3. IAS (Pre) 2003**
 
@@ -2156,11 +2154,11 @@ D. Tipu Sultan of Mysore gave money for the construction of the Shringeri temple
 <details>
 <summary>Show answer</summary>
 
+**Logic:** IAS 2003 — Ali Mardan Khan did NOT introduce revenue farming in Bengal (Murshid Quli did).
+
 **Ans: A.** Revenue farming in Bengal is linked to **Murshid Quli Khan**, not Ali Mardan Khan.
 
 </details>
-
-**Logic:** Tipu died in Fourth Anglo-Mysore War; Panipat III was not vs Ibrahim Lodi.
 
 **Q4. IAS (Pre) 2004**
 
@@ -2179,6 +2177,8 @@ D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Tipu died in Fourth Anglo-Mysore War; Panipat III was not vs Ibrahim Lodi.
 
 **Ans: B (3 only).** Panipat III = Marathas vs Abdali. Tipu died in the **Fourth** war (**1799**).
 

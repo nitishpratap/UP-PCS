@@ -59,8 +59,6 @@
 
 ## Practice Zone
 
-**Logic:** Union vs state law officer.
-
 **Q1.** The constitutional law officer of Uttarakhand corresponding to the Union Attorney General is the:
 
 A. Solicitor General 
@@ -70,6 +68,8 @@ D. Lokayukta
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Union vs state law officer.
 
 **Ans: B.** Article 165 framework — Advocate General for the state.
 

@@ -705,8 +705,6 @@ D. 1, 2, 3 and 4
 
 **Inline PYQ — UPPCS Prelims 2019, Q (Himalaya A/R)**
 
-**A/R logic:** A tests India’s highest seismic concentration in the Himalaya. R tests the many longitudinal thrust zones from Indian–Eurasian collision. R is the geological reason A is true.
-
 Assertion (A): The highest concentration of seismic zones lies in the Himalayan region in India.
 Reason (R): There are many longitudinal thrust zones in the Himalayas.
 
@@ -720,6 +718,8 @@ D. A is false but R is true
 
 <details>
 <summary>Show answer</summary>
+
+**A/R logic:** A tests India’s highest seismic concentration in the Himalaya. R tests the many longitudinal thrust zones from Indian–Eurasian collision. R is the geological reason A is true.
 
 **Ans: A.** Both true, and R explains A — collision and thrust zones (MCT, MBT, HFT) concentrate Himalayan seismicity. This does **not** mean all of India is Zone V, and peninsular shocks like Latur still occur.
 
@@ -1280,8 +1280,6 @@ D. Only wind speed
 
 **Q15.** Indian Ocean tsunami of 26 Dec 2004 originated near:
 
-**Logic:** Tests the **Sumatra megathrust** source, not a peninsular inland quake. Trap options are **Koyna** / **Latur** (India land shocks) and **Kilimanjaro** (rift volcano, not 2004).
-
 A. Koyna dam
 
 B. Sumatra megathrust
@@ -1293,6 +1291,8 @@ D. Kilimanjaro
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Tests the **Sumatra megathrust** source, not a peninsular inland quake. Trap options are **Koyna** / **Latur** (India land shocks) and **Kilimanjaro** (rift volcano, not 2004).
+
 **Ans: B.** The **26 Dec 2004** Indian Ocean tsunami began on the **Sumatra** megathrust / Sunda subduction zone. Waves then hit Andaman & Nicobar, Tamil Nadu, Kerala and other Indian Ocean coasts. Koyna and Latur are inland Indian quakes; they did not launch that basin tsunami.
 
 </details>
@@ -1300,8 +1300,6 @@ D. Kilimanjaro
 ---
 
 **Q16.** India’s tsunami early-warning centre is at:
-
-**Logic:** India’s ocean / tsunami alert hub is **INCOIS**. Trap: naming **NDMA** (policy apex), **IMD** (weather), or **NIDM** (training) as the tsunami sensor centre.
 
 A. NDMA HQ only
 
@@ -1313,6 +1311,8 @@ D. NIDM Jaipur
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** India’s ocean / tsunami alert hub is **INCOIS**. Trap: naming **NDMA** (policy apex), **IMD** (weather), or **NIDM** (training) as the tsunami sensor centre.
 
 **Ans: B.** The **Indian National Centre for Ocean Information Services (INCOIS)** at **Hyderabad** (MoES) runs the national tsunami early-warning system. NDMA chairs policy; IMD handles weather; NIDM handles training.
 
@@ -1569,8 +1569,6 @@ D. Only when Tmax is 47°C
 **Q30.** Assertion (A): S-waves do not travel through the outer core.
 Reason (R): S-waves are shear waves that need a solid.
 
-**A/R logic:** A tests the liquid-outer-core block on S; R tests shear = solids only. If both true and R is the reason S stop in the outer core, the code is “R explains A.” Trap: treating S like P and saying they cross liquids.
-
 A. Both true, R explains A
 
 B. Both true, R not explanation
@@ -1581,6 +1579,8 @@ D. A false R true
 
 <details>
 <summary>Show answer</summary>
+
+**A/R logic:** A tests the liquid-outer-core block on S; R tests shear = solids only. If both true and R is the reason S stop in the outer core, the code is “R explains A.” Trap: treating S like P and saying they cross liquids.
 
 **Ans: A.** A is true — the **liquid outer core** stops **S-waves**, which creates the S shadow beyond about **103–105°**. R is true — S are **shear / transverse** and need a **solid**. R explains A. P-waves can still cross liquids, so do not swap P and S here.
 
@@ -1701,8 +1701,6 @@ D. Only Zone V Himalaya inside UP
 1. P-waves arrive before S-waves.
 2. Surface waves generally cause the worst shaking at the ground.
 
-**Logic:** Statement 1 tests body-wave arrival order (**P** then **S**). Statement 2 tests that **surface** waves (Love / Rayleigh), not the first-arriving P, usually do the worst surface damage. Trap: thinking the fastest wave is also the most destructive.
-
 A. Only 1
 
 B. Only 2
@@ -1713,6 +1711,8 @@ D. Neither
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Statement 1 tests body-wave arrival order (**P** then **S**). Statement 2 tests that **surface** waves (Love / Rayleigh), not the first-arriving P, usually do the worst surface damage. Trap: thinking the fastest wave is also the most destructive.
 
 **Ans: C.** Both are true. **P** is the fastest body wave and arrives before **S**; **surface waves** arrive last but usually cause the worst shaking at the ground. Do not confuse speed with damage.
 

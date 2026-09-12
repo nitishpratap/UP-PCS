@@ -102,8 +102,6 @@
 
 ## UKPCS Practice
 
-**Logic:** Site–district–find matching is the usual UKPCS prehistoric pattern.
-
 **Q1.** Lakhu Udyar prehistoric paintings are located in which district belt?
 
 A. Chamoli 
@@ -114,11 +112,11 @@ D. Udham Singh Nagar
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Site–district–find matching is the usual UKPCS prehistoric pattern.
+
 **Ans: B.** Lakhu Udyar lies in the Almora district on the Suyal near Barechhina.
 
 </details>
-
-**Logic:** Do not confuse burial Malari with painted Lakhu.
 
 **Q2.** Which site is chiefly remembered for Himalayan burial / megalithic finds rather than rock paintings?
 
@@ -129,6 +127,8 @@ D. Kimni
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Do not confuse burial Malari with painted Lakhu.
 
 **Ans: C.** Malari in Chamoli is the burial/megalithic card; Lakhu is the painted shelter card.
 

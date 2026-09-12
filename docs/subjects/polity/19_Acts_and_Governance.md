@@ -905,8 +905,6 @@ The **1997** Conference of Chief Ministers also floated a draft Code of Ethics, 
 
 ### UKPCS Prelims 2025
 
-**Logic:** Extreme options (abolish / nationalise) are distractors.
-
 **Q. UKPCS Prelims 2025, Q27**
 
 What was the key focus of the Waqf Amendment Bill introduced in April 2025?
@@ -919,11 +917,11 @@ D. Nationalization of religious institutions
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Extreme options (abolish / nationalise) are distractors.
+
 **Ans: B (Series B provisional key).** Focus was transparency and better governance of waqf properties — not abolition or nationalisation.
 
 </details>
-
-**Logic:** Untouchability enforcement ministries — Series B keys Home + Social Justice + Tribal Affairs.
 
 **Q. UKPCS Prelims 2025, Q123**
 
@@ -942,11 +940,11 @@ D. 2, 3 and 4
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Untouchability enforcement ministries — Series B keys Home + Social Justice + Tribal Affairs.
+
 **Ans: C (Series B provisional key).** Home Affairs + Social Justice and Empowerment + Tribal Affairs. Minority Affairs is the excluded ministry in this key.
 
 </details>
-
-**Logic:** Punjab early and Maharashtra later bracket the sequence used in the paper.
 
 **Q. UKPCS Prelims 2025, Q124**
 
@@ -964,6 +962,8 @@ D. (iii), (iv), (i), (ii)
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Punjab early and Maharashtra later bracket the sequence used in the paper.
 
 **Ans: A (Series B provisional key).** Order taken by the paper: Punjab → Assam → Maharashtra → Gujarat.
 

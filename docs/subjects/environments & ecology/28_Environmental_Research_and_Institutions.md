@@ -220,8 +220,6 @@ Options: A. 1 and 2 B. Only 3 C. 2 and 3 D. Only 1
 
 ## Complete PYQ Bank (Topic 28)
 
-**Logic:** ISFR 2023 UP district trap — Terai Bahraich is not automatically above 20% cover.
-
 **Q1. UPPCS Prelims 2025, Q8**
 
 ISFR 2023 — Uttar Pradesh districts with forest over more than 20% of geographical area:
@@ -241,13 +239,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** ISFR 2023 UP district trap — Terai Bahraich is not automatically above 20% cover.
+
 **Ans: C.** Chandauli and Shravasti crossed 20%; Bahraich stays near ~10% despite Terai location. **Trap:** Listing every Terai border district as high-cover.
 
 </details>
 
 ---
-
-**Logic:** ISFR 2021 absolute gain leader among the four options — Andhra Pradesh, not percentage-leader Mizoram.
 
 **Q2. UPPCS Prelims 2022, Q61**
 
@@ -264,13 +262,13 @@ D. Andhra Pradesh
 <details>
 <summary>Show answer</summary>
 
+**Logic:** ISFR 2021 absolute gain leader among the four options — Andhra Pradesh, not percentage-leader Mizoram.
+
 **Ans: D.** Andhra Pradesh led absolute gain in that ISFR cycle (~647 km² class), with Telangana and Odisha also high. **Trap:** Picking Mizoram or Madhya Pradesh because they lead on percentage or total area respectively.
 
 </details>
 
 ---
-
-**Logic:** BSI/ZSI split — plants vs animals; both Kolkata, not Dehradun.
 
 **Q3. UPPCS / UPSC pattern**
 
@@ -287,13 +285,13 @@ D. Zoological Survey of India — forest cover mapping, Dehradun
 <details>
 <summary>Show answer</summary>
 
+**Logic:** BSI/ZSI split — plants vs animals; both Kolkata, not Dehradun.
+
 **Ans: C.** BSI (1890) documents plants; ZSI (1916) documents animals — both HQ Kolkata. **Trap:** Swapping plant/animal mandates or placing survey institutes in Dehradun with FSI/FRI/WII.
 
 </details>
 
 ---
-
-**Logic:** ISFR publisher, city, and frequency — FSI Dehradun, every two years.
 
 **Q4. UPPCS / UPSC pattern**
 
@@ -310,13 +308,13 @@ D. CPCB, New Delhi, annually
 <details>
 <summary>Show answer</summary>
 
+**Logic:** ISFR publisher, city, and frequency — FSI Dehradun, every two years.
+
 **Ans: A.** FSI (1981, Dehradun) maps forest and tree cover and releases ISFR biennially. **Trap:** FRI publishes ISFR, or ISFR is annual/CPCB product.
 
 </details>
 
 ---
-
-**Logic:** Dehradun duo — FRI researches forestry; FSI maps cover; same city, different output.
 
 **Q5. UPPCS / UPSC pattern**
 
@@ -334,6 +332,9 @@ D. Both false
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Dehradun duo — FRI researches forestry; FSI maps cover; same city, different output.
+
+
 **A/R logic:** A tests ISFR publisher; R tests shared Dehradun HQ — same city does not mean same mandate.
 
 **Ans: C.** A is false — **FSI** publishes ISFR; FRI (1906) does silviculture/forestry research under ICFRE. R is true. **Trap:** “Both in Dehradun → same body.”
@@ -341,8 +342,6 @@ D. Both false
 </details>
 
 ---
-
-**Logic:** WII founding year and wildlife-science role.
 
 **Q6. UPPCS / UPSC pattern**
 
@@ -359,13 +358,13 @@ D. 1978 at New Delhi
 <details>
 <summary>Show answer</summary>
 
+**Logic:** WII founding year and wildlife-science role.
+
 **Ans: A.** WII (1982, Dehradun) trains IFS officers and designs tiger-estimation protocols — not BSI/ZSI taxonomy or ISFR mapping. **Trap:** Confusing WII with ZSI (1916) or NBA (BDA 2002).
 
 </details>
 
 ---
-
-**Logic:** NBA seat under Biological Diversity Act 2002 — Chennai, not Delhi.
 
 **Q7. UPPCS / UPSC pattern**
 
@@ -382,13 +381,13 @@ D. Lucknow
 <details>
 <summary>Show answer</summary>
 
+**Logic:** NBA seat under Biological Diversity Act 2002 — Chennai, not Delhi.
+
 **Ans: B.** NBA regulates foreign access and ABS from **Chennai**. **Trap:** Placing NBA in Delhi with MoEFCC, or in Kolkata with BSI/ZSI.
 
 </details>
 
 ---
-
-**Logic:** PBR is a local BMC duty under BDA — not NBA headquarters work.
 
 **Q8. UPSC pattern**
 
@@ -405,13 +404,13 @@ D. State Pollution Control Board
 <details>
 <summary>Show answer</summary>
 
+**Logic:** PBR is a local BMC duty under BDA — not NBA headquarters work.
+
 **Ans: A.** BMCs at panchayat/municipality level document local species and traditional knowledge in the PBR. **Trap:** “Biodiversity authority → national register.”
 
 </details>
 
 ---
-
-**Logic:** NBPGR = ICAR plant gene bank, New Delhi (Pusa) — ex-situ germplasm.
 
 **Q9. UPSC pattern**
 
@@ -428,13 +427,13 @@ D. Chennai
 <details>
 <summary>Show answer</summary>
 
+**Logic:** NBPGR = ICAR plant gene bank, New Delhi (Pusa) — ex-situ germplasm.
+
 **Ans: A.** NBPGR (1978, ICAR) conserves crop genetic resources ex-situ. **Trap:** Kolkata because BSI is there, or Karnal because that is the animal gene bank.
 
 </details>
 
 ---
-
-**Logic:** Plant gene bank (NBPGR Delhi) vs livestock gene bank (NBAGR Karnal).
 
 **Q10. Topic 20 crossover**
 
@@ -450,6 +449,8 @@ D. NBAGR publishes ISFR
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Plant gene bank (NBPGR Delhi) vs livestock gene bank (NBAGR Karnal).
 
 **Ans: A.** NBPGR = plants, Delhi; NBAGR = animals/livestock, Karnal — do not interchange. **Trap:** Treating any “gene bank” as one Kolkata institute.
 

@@ -658,8 +658,6 @@ D. Bipin Chandra
 
 Teaching sits in **10.1–10.2a, 10.4–10.5, 10.10**. Full stems below are Ghatnachakra / multi-state Prelims patterns. **UKPCS** stems continue in the bank after this Extra.
 
-**Logic:** Pair *New India* with Annie Besant — not Tilak (*Kesari* / *Mahratta*). *Commonweal* is also hers (**1914**).
-
 **Q1. UPPCS (Spl) (Mains) 2004**
 
 Which one of the following pairs is correctly matched?
@@ -675,13 +673,13 @@ D. Mahatma Gandhi — India Wins Freedom
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Pair *New India* with Annie Besant — not Tilak (*Kesari* / *Mahratta*). *Commonweal* is also hers (**1914**).
+
 **Ans: B.** Annie Besant published **New India** and **The Commonweal** from **1914**. *Hind Swaraj* is Gandhi; *India Wins Freedom* is Azad.
 
 **Trap:** Tilak ≠ *Commonweal*.
 
 </details>
-
-**Logic:** *Tuhfat-ul-Muwahhidin* = Persian; English title *Gift to Monotheists* is a later translation. UKPSC cancelled one wording of this stem.
 
 **Q2. UKPCS (Pre) 2021 / UP R.O./A.R.O. (Mains) 2021**
 
@@ -698,11 +696,11 @@ D. Bengali
 <details>
 <summary>Show answer</summary>
 
+**Logic:** *Tuhfat-ul-Muwahhidin* = Persian; English title *Gift to Monotheists* is a later translation. UKPSC cancelled one wording of this stem.
+
 **Ans: A (Persian).** Maulavi Obaidullah Al Obaidi’s English *A Gift to Monotheists* is **1884**. UKPSC cancelled a related stem in its revised key — keep the Persian fact.
 
 </details>
-
-**Logic:** Anasakti Yoga English rendering — Kausani (Uttarakhand), **1929**.
 
 **Q3. UKPCS (Pre) 2021**
 
@@ -719,11 +717,11 @@ D. Ranikhet
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Anasakti Yoga English rendering — Kausani (Uttarakhand), **1929**.
+
 **Ans: A.** Gandhi stayed at **Kausani** (Uttarakhand) and rendered Anasakti Yoga from the Gita into English in **1929**.
 
 </details>
-
-**Logic:** Autobiography original language = Gujarati (not Hindi/English).
 
 **Q4. UKPCS (Pre) 2010 / UKPCS (Mains) 2006**
 
@@ -740,11 +738,11 @@ D. English
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Autobiography original language = Gujarati (not Hindi/English).
+
 **Ans: C.** *The Story of My Experiments with Truth* was written in **Gujarati**.
 
 </details>
-
-**Logic:** Discovery of India jail = Ahmednagar Fort (not Yeravda / Naini / Alipore).
 
 **Q5. UPPCS (Mains) 2010 / UKPCS (Mains) 2006 / UP Lower Sub. (Pre) 2004**
 
@@ -761,11 +759,11 @@ D. Ahmadnagar Fort Jail
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Discovery of India jail = Ahmednagar Fort (not Yeravda / Naini / Alipore).
+
 **Ans: D.** Nehru wrote *Discovery of India* at **Ahmednagar Fort** during the Quit India detention.
 
 </details>
-
-**Logic:** *Gita Rahasya* = Tilak, Mandalay; Marathi commentary stream.
 
 **Q6. UKPCS Lower Sub. (Pre) 2010 / IAS (Pre) 2005**
 
@@ -782,11 +780,11 @@ D. Mohandas Karamchand Gandhi
 <details>
 <summary>Show answer</summary>
 
+**Logic:** *Gita Rahasya* = Tilak, Mandalay; Marathi commentary stream.
+
 **Ans: B.** Tilak wrote *Gita Rahasya* in **Mandalay** jail. Do not give it to Gandhi or Aurobindo (*The Life Divine*).
 
 </details>
-
-**Logic:** *Amar Sonar Bangla* = Tagore, 1905; Bangladesh anthem (first ten lines, 1972).
 
 **Q7. IAS (Pre) 2007**
 
@@ -803,11 +801,11 @@ D. Rabindranath Tagore
 <details>
 <summary>Show answer</summary>
 
+**Logic:** *Amar Sonar Bangla* = Tagore, 1905; Bangladesh anthem (first ten lines, 1972).
+
 **Ans: D.** Composed in the **1905** Partition/Swadeshi protest; first ten lines adopted by Bangladesh in **1972**. Tagore also wrote *Jana Gana Mana*.
 
 </details>
-
-**Logic:** *Bandi Jivan* = Sachindranath Sanyal — not Bose, not Bhagat Singh.
 
 **Q8. UPPCS (Mains) 2007**
 
@@ -824,11 +822,11 @@ D. Sachindranath Sanyal
 <details>
 <summary>Show answer</summary>
 
+**Logic:** *Bandi Jivan* = Sachindranath Sanyal — not Bose, not Bhagat Singh.
+
 **Ans: D.** *Bandi Jivan* is Sachindranath Sanyal’s revolutionary primer. Bose = *The Indian Struggle*.
 
 </details>
-
-**Logic:** *Indian Sociologist* = Shyamji Krishna Varma (London), not Bhagat Singh.
 
 **Q9. UPPCS (Pre) 2014**
 
@@ -845,11 +843,11 @@ D. Bhagwati Charan Vohra — The Philosophy of Bomb
 <details>
 <summary>Show answer</summary>
 
+**Logic:** *Indian Sociologist* = Shyamji Krishna Varma (London), not Bhagat Singh.
+
 **Ans: A.** *The Indian Sociologist* was published by **Shyamji Krishna Varma** in London. The other three pairs are correctly keyed.
 
 </details>
-
-**Logic:** *Bharat Bharati* = Maithili Sharan Gupta (Rashtrakavi).
 
 **Q10. UKPCS U.D.A./L.D.A. (Pre) 2007**
 
@@ -866,11 +864,11 @@ D. Bankim Chandra
 <details>
 <summary>Show answer</summary>
 
+**Logic:** *Bharat Bharati* = Maithili Sharan Gupta (Rashtrakavi).
+
 **Ans: C.** Maithili Sharan Gupta — also *Saket*, *Yashodhara*, *Jayadrath Vadh*.
 
 </details>
-
-**Logic:** *Ae Mere Watan Ke Logo* = Pradeep (Ramchandra Narayanji Dwivedi), 1962 China-war tribute.
 
 **Q11. UKPCS (Mains) 2006**
 
@@ -887,11 +885,11 @@ D. Maithili Sharan Gupta
 <details>
 <summary>Show answer</summary>
 
+**Logic:** *Ae Mere Watan Ke Logo* = Pradeep (Ramchandra Narayanji Dwivedi), 1962 China-war tribute.
+
 **Ans: B.** Pradeep (born Ujjain; real name Ramchandra Narayanji Dwivedi) wrote it for the martyrs of the **1962** Indo-China war.
 
 </details>
-
-**Logic:** *Landmarks in Indian Constitutional and National Development* = Gurmukh Nihal Singh.
 
 **Q12. UKPCS U.D.A./L.D.A. (Pre) 2007**
 
@@ -908,11 +906,11 @@ D. Ram Gopal
 <details>
 <summary>Show answer</summary>
 
+**Logic:** *Landmarks in Indian Constitutional and National Development* = Gurmukh Nihal Singh.
+
 **Ans: B.** Gurmukh Nihal Singh — later Governor of Rajasthan (**1956–62**).
 
 </details>
-
-**Logic:** Editor of *Congress Presidential Addresses* = G.A. Natesan (two parts, 1885–1934).
 
 **Q13. UKPCS U.D.A./L.D.A. (Pre) 2007**
 
@@ -929,11 +927,11 @@ D. H.N. Mitra
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Editor of *Congress Presidential Addresses* = G.A. Natesan (two parts, 1885–1934).
+
 **Ans: A.** Two parts: Congress presidential addresses **1885–1910** and **1911–1934**.
 
 </details>
-
-**Logic:** *Das Kapital* = Karl Marx; Engels edited vols 2–3.
 
 **Q14. UKPCS U.D.A./L.D.A. (Pre) 2007**
 
@@ -950,11 +948,11 @@ D. Jawaharlal Nehru
 <details>
 <summary>Show answer</summary>
 
+**Logic:** *Das Kapital* = Karl Marx; Engels edited vols 2–3.
+
 **Ans: B.** Marx; volumes **2** and **3** edited/published by **Friedrich Engels**.
 
 </details>
-
-**Logic:** *Silent Spring* = Rachel Carson (pesticides).
 
 **Q15. UKPCS (Pre) 2005 / Chhattisgarh PCS (Pre) 2019**
 
@@ -971,11 +969,11 @@ D. Joseph Fourier
 <details>
 <summary>Show answer</summary>
 
+**Logic:** *Silent Spring* = Rachel Carson (pesticides).
+
 **Ans: A.** American biologist Rachel Carson — critique of pesticide use.
 
 </details>
-
-**Logic:** *Ignited Minds* = A.P.J. Abdul Kalam (also *Wings of Fire*).
 
 **Q16. UKPCS (Pre) 2002**
 
@@ -992,11 +990,11 @@ D. Nayantara Sahgal
 <details>
 <summary>Show answer</summary>
 
+**Logic:** *Ignited Minds* = A.P.J. Abdul Kalam (also *Wings of Fire*).
+
 **Ans: A.** Former President and “Missile Man”; also wrote *Wings of Fire*.
 
 </details>
-
-**Logic:** Match traps — Unhappy India ≠ Tilak; Mother India = Mayo; Guilty Men = Lohia.
 
 **Q17. UPPCS (Mains) 2009 / UPPCS (Pre) 2014**
 
@@ -1013,11 +1011,11 @@ D. Poverty and Un-British Rule in India — Dadabhai Naoroji
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Match traps — Unhappy India ≠ Tilak; Mother India = Mayo; Guilty Men = Lohia.
+
 **Ans: A.** *Unhappy India* is **Lala Lajpat Rai** (reply to Mayo’s *Mother India*). Tilak edited *Kesari* / *The Mahratta*.
 
 </details>
-
-**Logic:** *Bahuvivah* = Vidyasagar (Widow Remarriage Act 1856 efforts).
 
 **Q18. IAS (Pre) 2007**
 
@@ -1034,6 +1032,8 @@ D. Rabindranath Tagore
 <details>
 <summary>Show answer</summary>
 
+**Logic:** *Bahuvivah* = Vidyasagar (Widow Remarriage Act 1856 efforts).
+
 **Ans: B.** Vidyasagar also wrote *Balya Vivaher Dosh*; Widow Remarriage Act **1856** is tied to his campaign.
 
 </details>
@@ -1043,8 +1043,6 @@ D. Rabindranath Tagore
 ### UKPCS Complete PYQ Bank (Books & Authors)
 
 > Stems tagged **UKPCS**. UPPCS Complete Bank sits above the Extra. Practice Zone follows this section.
-
-**Logic:** British official on Muslims / Wahabi question — not Sir Syed.
 
 **Q1. UKPCS Prelims 2025, Q66**
 
@@ -1061,11 +1059,11 @@ D. S. N. Roy
 <details>
 <summary>Show answer</summary>
 
+**Logic:** British official on Muslims / Wahabi question — not Sir Syed.
+
 **Ans: A (Series B provisional key).** William Wilson Hunter published *The Indian Musalmans* (**1871**).
 
 </details>
-
-**Logic:** Persian original vs English title trap (see Extra Q2).
 
 **Q2. UKPCS (Pre) 2021**
 
@@ -1082,11 +1080,11 @@ D. Bengali
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Persian original vs English title trap (see Extra Q2).
+
 **Ans: (*)** UKPSC cancelled this stem in a revised key. Standard teaching: *Tuhfat-ul-Muwahhidin* = **Persian**; English title is a later translation (**1884**).
 
 </details>
-
-**Logic:** Kausani = Anasakti Yoga, 1929.
 
 **Q3. UKPCS (Pre) 2021**
 
@@ -1103,11 +1101,11 @@ D. Ranikhet
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Kausani = Anasakti Yoga, 1929.
+
 **Ans: A.** **Kausani**, Uttarakhand.
 
 </details>
-
-**Logic:** Autobiography language = Gujarati.
 
 **Q4. UKPCS (Pre) 2010**
 
@@ -1124,11 +1122,11 @@ D. English
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Autobiography language = Gujarati.
+
 **Ans: C.**
 
 </details>
-
-**Logic:** Author of *My Experiments with Truth*.
 
 **Q5. UKPCS (Mains) 2006**
 
@@ -1145,11 +1143,11 @@ D. Mahatma Gandhi
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Author of *My Experiments with Truth*.
+
 **Ans: D.**
 
 </details>
-
-**Logic:** Discovery of India — author + Ahmednagar Fort.
 
 **Q6. UKPCS Lower Sub. (Pre) 2010 / UKPCS (Mains) 2006**
 
@@ -1166,11 +1164,11 @@ D. Tilak — Mandalay
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Discovery of India — author + Ahmednagar Fort.
+
 **Ans: C.** Nehru at **Ahmednagar Fort**; published **1946**.
 
 </details>
-
-**Logic:** *Gita Rahasya* = Tilak.
 
 **Q7. UKPCS Lower Sub. (Pre) 2010**
 
@@ -1187,11 +1185,11 @@ D. Mohandas Karamchand Gandhi
 <details>
 <summary>Show answer</summary>
 
+**Logic:** *Gita Rahasya* = Tilak.
+
 **Ans: B.**
 
 </details>
-
-**Logic:** *Bharat Bharati* = Maithili Sharan Gupta.
 
 **Q8. UKPCS U.D.A./L.D.A. (Pre) 2007**
 
@@ -1208,11 +1206,11 @@ D. Bankim Chandra
 <details>
 <summary>Show answer</summary>
 
+**Logic:** *Bharat Bharati* = Maithili Sharan Gupta.
+
 **Ans: C.**
 
 </details>
-
-**Logic:** *Ae Mere Watan Ke Logo* = Pradeep.
 
 **Q9. UKPCS (Mains) 2006**
 
@@ -1229,11 +1227,11 @@ D. Maithili Sharan Gupta
 <details>
 <summary>Show answer</summary>
 
+**Logic:** *Ae Mere Watan Ke Logo* = Pradeep.
+
 **Ans: B.** Tribute to **1962** Indo-China war martyrs.
 
 </details>
-
-**Logic:** Gurmukh Nihal Singh constitutional landmarks book.
 
 **Q10. UKPCS U.D.A./L.D.A. (Pre) 2007**
 
@@ -1250,11 +1248,11 @@ D. Ram Gopal
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Gurmukh Nihal Singh constitutional landmarks book.
+
 **Ans: B.**
 
 </details>
-
-**Logic:** Natesan edited Congress presidential addresses.
 
 **Q11. UKPCS U.D.A./L.D.A. (Pre) 2007**
 
@@ -1271,11 +1269,11 @@ D. H.N. Mitra
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Natesan edited Congress presidential addresses.
+
 **Ans: A.**
 
 </details>
-
-**Logic:** *Das Kapital* = Marx.
 
 **Q12. UKPCS U.D.A./L.D.A. (Pre) 2007**
 
@@ -1292,11 +1290,11 @@ D. Jawaharlal Nehru
 <details>
 <summary>Show answer</summary>
 
+**Logic:** *Das Kapital* = Marx.
+
 **Ans: B.**
 
 </details>
-
-**Logic:** *Silent Spring* = Carson.
 
 **Q13. UKPCS (Pre) 2005**
 
@@ -1313,11 +1311,11 @@ D. Joseph Fourier
 <details>
 <summary>Show answer</summary>
 
+**Logic:** *Silent Spring* = Carson.
+
 **Ans: A.**
 
 </details>
-
-**Logic:** *Ignited Minds* = Kalam.
 
 **Q14. UKPCS (Pre) 2002**
 
@@ -1334,11 +1332,11 @@ D. Nayantara Sahgal
 <details>
 <summary>Show answer</summary>
 
+**Logic:** *Ignited Minds* = Kalam.
+
 **Ans: A.**
 
 </details>
-
-**Logic:** *A Passage to India* = E.M. Forster.
 
 **Q15. UKPCS (Pre) 2010 / UKPCS (Pre) 2006**
 
@@ -1355,11 +1353,11 @@ D. None of them
 <details>
 <summary>Show answer</summary>
 
+**Logic:** *A Passage to India* = E.M. Forster.
+
 **Ans: C.** Novel on British India / freedom-struggle background of the 1920s.
 
 </details>
-
-**Logic:** *Soj-e-Vatan* = Premchand.
 
 **Q16. UKPCS (Pre) 2010**
 
@@ -1376,11 +1374,11 @@ D. Suryakant Tripathi ‘Nirala’
 <details>
 <summary>Show answer</summary>
 
+**Logic:** *Soj-e-Vatan* = Premchand.
+
 **Ans: B.**
 
 </details>
-
-**Logic:** Sumitra Nandan Pant = Chhayavadi poet.
 
 **Q17. UKPCS (Mains) 2002**
 
@@ -1397,11 +1395,11 @@ D. Veer ras poet
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Sumitra Nandan Pant = Chhayavadi poet.
+
 **Ans: B.** Works include *Chidambara*, *Lokayatan*, *Pallav*, *Yugvani*.
 
 </details>
-
-**Logic:** *Bharat Durdasha* = Bharatendu Harishchandra.
 
 **Q18. UKPCS (Mains) 2002**
 
@@ -1418,11 +1416,11 @@ D. Chandra Kanta Santati
 <details>
 <summary>Show answer</summary>
 
+**Logic:** *Bharat Durdasha* = Bharatendu Harishchandra.
+
 **Ans: B.** He also wrote the play *Andher Nagari*.
 
 </details>
-
-**Logic:** *Lajja* = Taslima Nasrin.
 
 **Q19. UKPCS U.D.A./L.D.A. (Pre) 2007**
 
@@ -1439,11 +1437,11 @@ D. Arundhati Roy
 <details>
 <summary>Show answer</summary>
 
+**Logic:** *Lajja* = Taslima Nasrin.
+
 **Ans: B.**
 
 </details>
-
-**Logic:** *Geographical Factors in Indian History* = K.M. Panikkar.
 
 **Q20. UKPCS Lower Sub. (Pre) 2010**
 
@@ -1459,6 +1457,8 @@ D. Jamna Das
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** *Geographical Factors in Indian History* = K.M. Panikkar.
 
 **Ans: A.**
 

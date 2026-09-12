@@ -123,8 +123,6 @@
 
 ## UKPCS Inline PYQs
 
-**Logic:** Series B accepts only the supplementary-occupation statement.
-
 **UKPCS Prelims 2025, Q102**
 
 Consider the following statements:
@@ -140,11 +138,11 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Series B accepts only the supplementary-occupation statement.
+
 **Ans: C (Series B provisional key).** Statement 1 is treated as correct. Statement 2 is not accepted in this key — mark Only 1 unless an amended key changes it.
 
 </details>
-
-**Logic:** Plains districts lead; Series B marks Haridwar for highest agricultural land.
 
 **UKPCS Prelims 2025, Q107**
 
@@ -158,6 +156,8 @@ D. Nainital
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Plains districts lead; Series B marks Haridwar for highest agricultural land.
+
 **Ans: A (Series B provisional key).** Haridwar is the Series B district. Udham Singh Nagar is the frequent Tarai rival in many notes — keep the provisional letter for this paper.
 
 </details>
@@ -165,8 +165,6 @@ D. Nainital
 ---
 
 ## Practice Zone
-
-**Logic:** Plains–hills irrigation contrast.
 
 **Q1.** Canal and tubewell irrigation in Uttarakhand is most characteristic of:
 
@@ -178,11 +176,11 @@ D. Only Chamoli and Uttarkashi
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Plains–hills irrigation contrast.
+
 **Ans: B.** Tarai and plains districts rely on canals and tubewells; mid-hills lean on springs and guls.
 
 </details>
-
-**Logic:** Role of animal husbandry in the farm economy.
 
 **Q2.** In Uttarakhand’s rural economy, animal husbandry is best described as:
 
@@ -193,6 +191,8 @@ D. Unrelated to manure or milk
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Role of animal husbandry in the farm economy.
 
 **Ans: B.** Animal husbandry supplements crop farming through milk, wool, draught, and manure.
 

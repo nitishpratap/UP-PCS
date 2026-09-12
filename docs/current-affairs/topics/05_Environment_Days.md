@@ -311,8 +311,6 @@ First national guide to India’s grasslands and open natural ecosystems launche
 > Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.
 > Full cross-topic index → [Practice Zone hub](15_Practice_Zone.md).
 
-**Logic:** Match day ↔ 2026 theme (high-yield Environment CA format).
-
 **Q1.** Match List-I with List-II and select the correct answer using the code given below the lists.
 
 | List-I (Day) | List-II (2026 theme / fact) |
@@ -332,13 +330,13 @@ D. 2 1 3 4
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Match day ↔ 2026 theme (high-yield Environment CA format).
+
 **Ans: A.** Wetlands→2; Water→1; Yoga→4; WED→3. Trap: swapping Water Day theme with WED, or putting Yoga theme on Wetlands Day.
 
 </details>
 
 ---
-
-**Logic:** UP Ramsar confused pairs — Etah / Aligarh / Ballia (2025-style NOT / location stems).
 
 **Q2.** Which of the following pairs is/are **NOT** correctly matched?
 
@@ -356,13 +354,13 @@ D. Only 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** UP Ramsar confused pairs — Etah / Aligarh / Ballia (2025-style NOT / location stems).
+
 **Ans: A.** Pair 1 is wrong — Patna Bird Sanctuary is in **Etah**, not Aligarh. Pairs 2 and 3 are correct. Trap: mixing the 2026 UP Ramsar trio.
 
 </details>
 
 ---
-
-**Logic:** India’s Ramsar count after Surha Tal and Glaw Lake.
 
 **Q3.** With reference to Ramsar sites notified / announced in public coverage in 2026, which of the following statements is/are correct?
 
@@ -380,13 +378,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** India’s Ramsar count after Surha Tal and Glaw Lake.
+
 **Ans: A.** (1) and (2) true. (3) false — Glaw Lake is inside **Kamlang** Tiger Reserve, not Corbett. Trap: attaching a famous UP/Uttarakhand reserve name to Arunachal’s first Ramsar.
 
 </details>
 
 ---
-
-**Logic:** SWM Rules date trap — notified vs commence.
 
 **Q4.** With reference to the Solid Waste Management Rules, 2026, which of the following statements is/are correct?
 
@@ -403,13 +401,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** SWM Rules date trap — notified vs commence.
+
 **Ans: D.** Notified 28 January; **commencement 1 April 2026**. Trap: equating notification date with force date.
 
 </details>
 
 ---
-
-**Logic:** NOT matched days — Constitution Day style from 2025 Q133.
 
 **Q5.** Which of the following pairs is/are **NOT** correctly matched?
 
@@ -427,13 +425,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** NOT matched days — Constitution Day style from 2025 Q133.
+
 **Ans: A.** Pair 2 is wrong — Yoga for Healthy Ageing is **International Day of Yoga**, not Tiger Day. Tiger Day theme facts indigenous peoples / local communities. Pairs 1 and 3 are correct.
 
 </details>
 
 ---
-
-**A/R logic:** A = Surha Tal 100th; R = WED theme — both true; R does not explain why Surha Tal is 100th.
 
 **Q6.** Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
 
@@ -451,13 +449,13 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
+**A/R logic:** A = Surha Tal 100th; R = WED theme — both true; R does not explain why Surha Tal is 100th.
+
 **Ans: A.** Timing overlap does not make the theme the cause of the 100th listing. Trap: choosing D because both floated on the same news day.
 
 </details>
 
 ---
-
-**Logic:** Chhari-Dhand + Patna pair (Jan Ramsar).
 
 **Q7.** Which of the following Ramsar-related pairs is/are correctly matched for January 2026 public news?
 
@@ -475,13 +473,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Chhari-Dhand + Patna pair (Jan Ramsar).
+
 **Ans: A.** Name “Patna” does **not** mean Bihar’s capital — place fact is **Etah**. Trap designed exactly for that word confusion.
 
 </details>
 
 ---
-
-**Logic:** Women’s Day + Water Day themes (Match / NOT).
 
 **Q8.** Which of the following pairs is/are **NOT** correctly matched?
 
@@ -499,13 +497,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Women’s Day + Water Day themes (Match / NOT).
+
 **Ans: A.** Pair 2 is wrong — Water Day theme is **Water and Gender**. Earth Day is Our Power, Our Planet. Pair 1 is correct.
 
 </details>
 
 ---
-
-**Logic:** Health / Earth Day April themes.
 
 **Q9.** Match List-I with List-II and select the correct answer using the code given below the lists.
 
@@ -526,13 +524,13 @@ D. 2 3 4 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Health / Earth Day April themes.
+
 **Ans: A.** Health→2; Earth→3; Biodiversity→1; Youth→4. Trap: swapping Earth and Biodiversity themes.
 
 </details>
 
 ---
-
-**A/R logic:** A = Glaw is Arunachal’s first Ramsar; R = it is India’s 101st — both true; R does not explain why it is Arunachal’s first.
 
 **Q10.** Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
 
@@ -550,13 +548,13 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
+**A/R logic:** A = Glaw is Arunachal’s first Ramsar; R = it is India’s 101st — both true; R does not explain why it is Arunachal’s first.
+
 **Ans: A.** Being 101st nation-wide does not by itself explain “first for Arunachal”. Trap: D because both numbers feel linked.
 
 </details>
 
 ---
-
-**Logic:** Mixed false-statement machine across months (final drill).
 
 **Q11.** Which of the following statements is/are correct?
 
@@ -574,13 +572,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Mixed false-statement machine across months (final drill).
+
 **Ans: A.** (3) false — Patna Bird Sanctuary is in **Etah**. Final Ramsar confused-pair drill.
 
 </details>
 
 ---
-
-**Logic:** UP CAMP clean air facts.
 
 **Q12.** With reference to UP CAMP (June 2026), which of the following statements is/are correct?
 
@@ -598,13 +596,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** UP CAMP clean air facts.
+
 **Ans: A.** Ramsar tag ≠ UP CAMP outlay.
 
 </details>
 
 ---
-
-**Logic:** UNEP leads WED.
 
 **Q13.** With reference to World Environment Day, which of the following statements is/are correct?
 
@@ -622,13 +620,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** UNEP leads WED.
+
 **Ans: A.** 22 April = Earth Day.
 
 </details>
 
 ---
-
-**Logic:** Surha Tal bird / flyway facts.
 
 **Q14.** With reference to Surha Tal ecology facts, which of the following statements is/are correct?
 
@@ -646,13 +644,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Surha Tal bird / flyway facts.
+
 **Ans: A.** Ballia.
 
 </details>
 
 ---
-
-**Logic:** India Ramsar global rank soft.
 
 **Q15.** Which of the following statements is/are correct?
 
@@ -669,13 +667,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** India Ramsar global rank soft.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** SWM Rules replace 2016.
 
 **Q16.** With reference to SWM Rules, 2026, which of the following statements is/are correct?
 
@@ -693,13 +691,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** SWM Rules replace 2016.
+
 **Ans: A.** (3) wrong law.
 
 </details>
 
 ---
-
-**Logic:** Elephant Day / Youth Day same date.
 
 **Q17.** Which of the following statements is/are correct?
 
@@ -716,13 +714,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Elephant Day / Youth Day same date.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** Tiger Day theme July.
 
 **Q18.** With reference to International Tiger Day 2026, which of the following statements is/are correct?
 
@@ -740,13 +738,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Tiger Day theme July.
+
 **Ans: A.** Yoga is 21 June.
 
 </details>
 
 ---
-
-**Logic:** Glaw Lake Kamlang.
 
 **Q19.** With reference to Glaw Lake, which of the following statements is/are correct?
 
@@ -764,13 +762,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Glaw Lake Kamlang.
+
 **Ans: A.** UP count unchanged.
 
 </details>
 
 ---
-
-**Logic:** Ek Ped Maa Ke Naam soft WED UP.
 
 **Q20.** Which of the following statements is/are correct for UP’s WED 2026 package?
 
@@ -786,6 +784,8 @@ D. Only 1
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Ek Ped Maa Ke Naam soft WED UP.
 
 **Ans: C.** Both true.
 

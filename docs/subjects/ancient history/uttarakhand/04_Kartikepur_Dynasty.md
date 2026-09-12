@@ -81,8 +81,6 @@
 
 ## UKPCS Inline PYQ
 
-**Logic:** Capital name vs traveller’s regional name vs inscription sites.
-
 **UKPCS Prelims 2025, Q75**
 
 By which name did Hiuen-Tsang address the Kumaon region?
@@ -95,6 +93,8 @@ D. Pandukeshwar
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Capital name vs traveller’s regional name vs inscription sites.
+
 **Ans: B (Series B provisional key).** Brahmapura is the Chinese-account regional name. Kartikeyapur is the Katyuri capital. Taleshwar and Pandukeshwar are separate inscription/sacred-site distractors.
 
 </details>
@@ -102,8 +102,6 @@ D. Pandukeshwar
 ---
 
 ## Practice Zone
-
-**Logic:** Modern identification of Kartikeyapura.
 
 **Q1.** Kartikeyapura of the Katyuri age is identified with which place?
 
@@ -114,6 +112,8 @@ D. Kashipur
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Modern identification of Kartikeyapura.
 
 **Ans: B.** Kartikeyapura is identified with Baijnath in Bageshwar district.
 

@@ -27,8 +27,6 @@ None mandatory. 12 / 24 / 200 nm are static.
 
 ### UKPCS Prelims 2025
 
-**Logic:** Mainland excludes islands — southern limit is Kanyakumari, not Indira Point.
-
 **Q. UKPCS Prelims 2025, Q89**
 
 What is the correct latitudinal extent of the mainland of India?
@@ -40,6 +38,8 @@ D. 8 degrees 4' N to 37 degrees 6' N
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Mainland excludes islands — southern limit is Kanyakumari, not Indira Point.
 
 **Ans: D (Series B provisional key).** Mainland: 8°4'N to 37°6'N. 6°4'N is Indira Point (islands).
 

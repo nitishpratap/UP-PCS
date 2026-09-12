@@ -124,8 +124,6 @@
 
 ## UKPCS Inline PYQs
 
-**Logic:** Precise length on the Char Dham route.
-
 **UKPCS Prelims 2025, Q51**
 
 The Silkyara Tunnel spanning ____ is expected to shorten the distance between Gangotri and Yamunotri by above 20 km.
@@ -138,11 +136,11 @@ D. 6.531 km
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Precise length on the Char Dham route.
+
 **Ans: C (Series B provisional key).** Silkyara Bend–Barkot tunnel is **4.531 km**.
 
 </details>
-
-**Logic:** Gauchar’s district is the planted error.
 
 **UKPCS Prelims 2025, Q103**
 
@@ -156,11 +154,11 @@ D. Pantnagar — Udham Singh Nagar
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Gauchar’s district is the planted error.
+
 **Ans: B (Series B provisional key).** Gauchar airstrip is in **Chamoli**, not Rudraprayag.
 
 </details>
-
-**Logic:** Both statements repeat state climate-plan findings.
 
 **UKPCS Prelims 2025, Q105**
 
@@ -175,11 +173,11 @@ D. Both incorrect
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Both statements repeat state climate-plan findings.
+
 **Ans: C (Series B provisional key).** Both vulnerability and water-stress / biodiversity effects are treated as correct.
 
 </details>
-
-**Logic:** Department entrusted with UAPCC is the planted error.
 
 **UKPCS Prelims 2025, Q106**
 
@@ -194,6 +192,8 @@ D. Both correct
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Department entrusted with UAPCC is the planted error.
+
 **Ans: A (Series B provisional key).** SCCC in 2011 is correct. UAPCC was prepared through the forest/environment set-up, not Revenue.
 
 </details>
@@ -201,8 +201,6 @@ D. Both correct
 ---
 
 ## Practice Zone
-
-**Logic:** Tourism pillars versus hazard vocabulary.
 
 **Q1.** Which set best represents the main tourism pillars of Uttarakhand?
 
@@ -214,11 +212,11 @@ D. Only coastal beaches
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Tourism pillars versus hazard vocabulary.
+
 **Ans: B.** Pilgrimage, hill stations, wildlife, and adventure structure the visitor map.
 
 </details>
-
-**Logic:** GLOF as a high-mountain flood risk.
 
 **Q2.** A glacial lake outburst flood (GLOF) risk in Uttarakhand is most closely linked to:
 
@@ -229,6 +227,8 @@ D. Only sex-ratio tables of Census 2011
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** GLOF as a high-mountain flood risk.
 
 **Ans: A.** GLOF risk rises where glacial lakes expand and can breach into steep valleys.
 

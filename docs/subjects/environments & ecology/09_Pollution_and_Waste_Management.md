@@ -688,8 +688,6 @@ D. 5th
 
 ## Extra Drill (Ghatnachakra Pollution chapter)
 
-**Logic:** Bank stems on types, diseases, disasters, standards, and remediation so the chapter dump is absorbed.
-
 **Q31.** Anthropogenic pollution mainly raises—
 
 A. Only always instantly biodegradable gases
@@ -702,6 +700,8 @@ D. Only stratospheric ozone repair
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Bank stems on types, diseases, disasters, standards, and remediation so the chapter dump is absorbed.
 
 **Ans: B.** Human-driven pollution often adds slow/non-biodegradable loads.
 

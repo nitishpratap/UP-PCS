@@ -169,8 +169,6 @@ Gases lighter than air among listed options — only **helium** fits; **SO₂ an
 
 ## Complete PYQ Bank (Topic 39)
 
-**Logic:** pH scale basics — acidic < 7, basic > 7; both statements in the stem are reversed.
-
 **Q1. UPPCS Prelims 2025, Q103**
 
 Consider the following statements:
@@ -186,11 +184,11 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** pH scale basics — acidic < 7, basic > 7; both statements in the stem are reversed.
+
 **Ans: B (Neither).** Acidic **< 7**; basic **> 7** — both statements are wrong. **Trap:** Normal rain ~5.6 confused with “neutral = 7.”
 
 </details>
-
-**A/R logic:** A tests whether CO₂/SO₂/NO₂ dissolve in rain; R tests air pollution — CO₂ gives only weak acid, so R does not explain strong acid rain.
 
 **Q2. UPPCS Prelims 2024, Q108**
 
@@ -206,11 +204,11 @@ D. A true, R false
 <details>
 <summary>Show answer</summary>
 
+**A/R logic:** A tests whether CO₂/SO₂/NO₂ dissolve in rain; R tests air pollution — CO₂ gives only weak acid, so R does not explain strong acid rain.
+
 **Ans: C.** All three dissolve (A true); R true about pollution but **does not explain** why **CO₂ = weak H₂CO₃** while **SO₂/NOx → strong H₂SO₄/HNO₃**. **Trap:** Treating CO₂ as main severe acid-rain driver.
 
 </details>
-
-**Logic:** Gas density relative to air — SO₂ and HCl are heavier; helium is lighter.
 
 **Q3. UPPCS Prelims 2025, Q43 (pattern)**
 
@@ -224,11 +222,11 @@ D. All of the above
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Gas density relative to air — SO₂ and HCl are heavier; helium is lighter.
+
 **Ans: B (Only helium).** **SO₂** and **HCl** are denser than air; helium rises. **Trap:** Assuming all pollutant gases sink — only SO₂ density is tested here.
 
 </details>
-
-**Logic:** Lichens are SO₂-sensitive bio-indicators — they indicate pollution but do not thrive in it.
 
 **Q4. UPPCS Prelims 2025, Q61**
 
@@ -245,11 +243,11 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Lichens are SO₂-sensitive bio-indicators — they indicate pollution but do not thrive in it.
+
 **Ans: D (Only 1).** Lichens die in high-SO₂ air — indicator ≠ thrives in pollution. **Trap:** Same lichen stem as Topic 38; answer is **Only 1**.
 
 </details>
-
-**Logic:** Taj marble damage — acid reacts with CaCO₃ to form gypsum crust; SO₂ from nearby industry is the classic Indian fact.
 
 **Q5. UPPCS Prelims (pattern)**
 
@@ -263,11 +261,11 @@ D. Biogas methane
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Taj marble damage — acid reacts with CaCO₃ to form gypsum crust; SO₂ from nearby industry is the classic Indian fact.
+
 **Ans: A.** **CaCO₃ + acid → gypsum crust** (yellowing/spalling); Mathura refinery SO₂ corridor. **Trap:** Blaming CO₂ alone or ozone hole for marble damage.
 
 </details>
-
-**Logic:** Acid rain threshold pH < 5.6; normal rain ~5.6 from weak carbonic acid — not pH 7.
 
 **Q6. UPPCS Prelims (pattern)**
 
@@ -281,11 +279,11 @@ D. 2.0
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Acid rain threshold pH < 5.6; normal rain ~5.6 from weak carbonic acid — not pH 7.
+
 **Ans: A.** **~5.6** from CO₂ → H₂CO₃; acid rain is **< 5.6**. **Trap:** “Natural = neutral 7.”
 
 </details>
-
-**Logic:** Treaty pairing — Montreal = ozone ODS; Gothenburg/CLRTAP = acidifying pollutants.
 
 **Q7. UPPCS Prelims (pattern)**
 
@@ -299,11 +297,11 @@ D. Minamata Convention
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Treaty pairing — Montreal = ozone ODS; Gothenburg/CLRTAP = acidifying pollutants.
+
 **Ans: B.** **Gothenburg/CLRTAP** cuts acidification; **Montreal** is ozone. **Trap:** Montreal as catch-all “environment” treaty.
 
 </details>
-
-**Logic:** FGD scrubbers remove SO₂ from power-plant stacks; catalytic converters cut vehicle NOx.
 
 **Q8. UPPCS Prelims (pattern)**
 
@@ -317,11 +315,11 @@ D. Groundwater fluoride only
 <details>
 <summary>Show answer</summary>
 
+**Logic:** FGD scrubbers remove SO₂ from power-plant stacks; catalytic converters cut vehicle NOx.
+
 **Ans: A.** **FGD** uses lime/limestone to trap **SO₂**. **Trap:** FGD for NOx only, or confusing with catalytic converters (mainly NOx/CO/HC).
 
 </details>
-
-**Logic:** Acid deposition includes dry deposition — acidic gases/particles settling without rain.
 
 **Q9. UPPCS Prelims (pattern)**
 
@@ -335,11 +333,11 @@ D. Only indoor chulha smoke
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Acid deposition includes dry deposition — acidic gases/particles settling without rain.
+
 **Ans: A.** **Dry deposition** = acids settle without rain; **wet** = with rain/snow/fog. **Trap:** “Acid rain = only liquid rain.”
 
 </details>
-
-**Logic:** H₂SO₄ and HNO₃ form in the atmosphere from primary SO₂ and NOx — a secondary-pollutant pathway.
 
 **Q10. UPPCS Prelims (pattern)**
 
@@ -352,6 +350,8 @@ D. Only carbon dioxide alone
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** H₂SO₄ and HNO₃ form in the atmosphere from primary SO₂ and NOx — a secondary-pollutant pathway.
 
 **Ans: A.** **SO₂ → H₂SO₄**; **NOx → HNO₃** in air; CO₂ gives only weak baseline. **Trap:** CO₂ as “main acid rain gas.”
 

@@ -717,8 +717,6 @@ D. Nana Saheb
 
 ### UKPCS Prelims 2025
 
-**Logic:** Nana Saheb led Kanpur, not Bareilly — drop any option that keeps statement 4.
-
 **Q. UKPCS Prelims 2025, Q72**
 
 Consider the following statements:
@@ -736,6 +734,8 @@ D. Only 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Nana Saheb led Kanpur, not Bareilly — drop any option that keeps statement 4.
+
 **Ans: D (Series B provisional key).** Statements 1–3 are keyed correct; statement 4 is wrong because Nana Saheb led Kanpur while Khan Bahadur Khan led Bareilly. Many textbooks date Mangal Pandey’s hanging to 8 April 1857 (29 March as the Barrackpore rising day) — follow the provisional key for this paper.
 
 </details>
@@ -746,8 +746,6 @@ D. Only 1, 2 and 3
 ## Ghatnachakra Extra Drill — Revolt of 1857
 
 Teaching for these stems sits in **5.0–5.15**.
-
-**Logic:** Enfield rifle decision December 1856; trials at Dum Dum, Ambala and Sialkot.
 
 **Q1. BPSC / RAS**
 
@@ -764,11 +762,11 @@ D. June 1857
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Enfield rifle decision December 1856; trials at Dum Dum, Ambala and Sialkot.
+
 **Ans: B.** The Enfield decision came in **December 1856**, with trials at **Dum Dum, Ambala and Sialkot**.
 
 </details>
-
-**Logic:** Immediate cause = greased-cartridge rumours and fear of religious interference — not Doctrine of Lapse alone.
 
 **Q2. BPSC / RAS / UPPCS**
 
@@ -785,11 +783,11 @@ D. Abolition of the Mughal court at Delhi
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Immediate cause = greased-cartridge rumours and fear of religious interference — not Doctrine of Lapse alone.
+
 **Ans: B.** Rumours from **January 1857** centred on **cow–pig fat** cartridges. Exploitative **British policies** were the deeper cause; the cartridge was the **spark**.
 
 </details>
-
-**Logic:** Mangal Pandey = Barrackpore, 29 March 1857 — not Meerut.
 
 **Q3. UKPCS / UPPCS**
 
@@ -806,11 +804,11 @@ D. Kanpur
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Mangal Pandey = Barrackpore, 29 March 1857 — not Meerut.
+
 **Ans: B.** Mangal Pandey rose at **Barrackpore on 29 March 1857**, before the **Meerut** outbreak of **10 May**.
 
 </details>
-
-**Logic:** Mangal Pandey belonged to 34th Bengal Native Infantry — standard distractor trap.
 
 **Q4. UKPCS / UPPCS**
 
@@ -827,11 +825,11 @@ D. 1st Bengal Light Cavalry
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Mangal Pandey belonged to 34th Bengal Native Infantry — standard distractor trap.
+
 **Ans: B.** He belonged to the **34th Bengal Native Infantry** (not **19th** or **49th** distractors).
 
 </details>
-
-**Logic:** Mass start of the war = Meerut 10 May 1857.
 
 **Q5. UPPCS / BPSC / UP R.O.**
 
@@ -848,11 +846,11 @@ D. 4 June 1857 at Lucknow
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Mass start of the war = Meerut 10 May 1857.
+
 **Ans: B.** The war's mass start is keyed to **Meerut, 10 May 1857**, though Barrackpore (**29 March**) was an earlier spark.
 
 </details>
-
-**Logic:** First organised event after Meerut = march to Delhi's Red Fort.
 
 **Q6. UPPCS / BPSC**
 
@@ -869,11 +867,11 @@ D. Kunwar Singh's rising at Jagdishpur
 <details>
 <summary>Show answer</summary>
 
+**Logic:** First organised event after Meerut = march to Delhi's Red Fort.
+
 **Ans: B.** Sepoys from Meerut **marched to Delhi's Red Fort** — the first major organised event of the war.
 
 </details>
-
-**Logic:** Bakht Khan held title Saheb-e-Alam Bahadur — not Azimullah or Birjis Qadr.
 
 **Q7. UPPCS / BPSC**
 
@@ -890,11 +888,11 @@ D. Khan Bahadur Khan
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Bakht Khan held title Saheb-e-Alam Bahadur — not Azimullah or Birjis Qadr.
+
 **Ans: B.** **Bakht Khan** organised Delhi's rebel army and bore the title **Saheb-e-Alam Bahadur**.
 
 </details>
-
-**Logic:** Main cause = overall exploitative British policies; cartridge was spark.
 
 **Q8. UPPCS / MPPCS**
 
@@ -911,11 +909,11 @@ D. Inefficiency of British officers in the field
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Main cause = overall exploitative British policies; cartridge was spark.
+
 **Ans: B.** **Exploitative British policies** (annexations, religious fears, pay cuts) formed the main cause; the **cartridge** was the immediate spark.
 
 </details>
-
-**Logic:** Symbols of the revolt = lotus and chapatis — not eagle or two swords.
 
 **Q9. UPPCS / MPPCS**
 
@@ -932,11 +930,11 @@ D. Cow and peepal tree only
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Symbols of the revolt = lotus and chapatis — not eagle or two swords.
+
 **Ans: A.** **Lotus and chapatis** circulated as rebel symbols across North India in **1857**.
 
 </details>
-
-**Logic:** W.H. Russell = *Times* correspondent who wrote that North India had turned hostile to Europeans.
 
 **Q10. UPPCS / MPPCS**
 
@@ -953,11 +951,11 @@ D. James Outram
 <details>
 <summary>Show answer</summary>
 
+**Logic:** W.H. Russell = *Times* correspondent who wrote that North India had turned hostile to Europeans.
+
 **Ans: B.** **W.H. Russell** of **The Times** filed the classic hostile-North-India dispatch.
 
 </details>
-
-**Logic:** Bareilly leader = Khan Bahadur Khan — not Hazrat Mahal or Nana Sahib.
 
 **Q11. UPPCS / BPSC / UKPCS / RAS**
 
@@ -974,11 +972,11 @@ D. Kunwar Singh
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Bareilly leader = Khan Bahadur Khan — not Hazrat Mahal or Nana Sahib.
+
 **Ans: B.** **Khan Bahadur Khan** led **Bareilly**. Bahadur Shah II named him **Viceroy** in rebel parlance.
 
 </details>
-
-**Logic:** Lucknow = Begum Hazrat Mahal with son Birjis Qadr.
 
 **Q12. UPPCS / BPSC / UKPCS**
 
@@ -995,11 +993,11 @@ D. Bakht Khan
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Lucknow = Begum Hazrat Mahal with son Birjis Qadr.
+
 **Ans: B.** **Begum Hazrat Mahal** led **Lucknow** and seated her minor son **Birjis Qadr** on the masnad.
 
 </details>
-
-**Logic:** Lakshmibai born Varanasi (Golghar); died Gwalior fighting Hugh Rose 18 June 1858.
 
 **Q13. UPPCS / UKPCS**
 
@@ -1016,11 +1014,11 @@ D. Colin Campbell
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Lakshmibai born Varanasi (Golghar); died Gwalior fighting Hugh Rose 18 June 1858.
+
 **Ans: B.** She died at **Gwalior** fighting **Sir Hugh Rose** on **18 June 1858**.
 
 </details>
-
-**Logic:** Kanpur military commander = Tatya Tope (Ramchandra Pandurang); betrayed by Man Singh.
 
 **Q14. UPPCS / BPSC / UKPCS**
 
@@ -1037,11 +1035,11 @@ D. Mangal Pandey
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Kanpur military commander = Tatya Tope (Ramchandra Pandurang); betrayed by Man Singh.
+
 **Ans: B.** **Tantia Tope** was **Ramchandra Pandurang**. He was betrayed by **Man Singh** and hanged at **Shivpuri on 18 April 1859**.
 
 </details>
-
-**Logic:** Kunwar Singh = Jagdishpur / Arrah in Bihar.
 
 **Q15. UPPCS / UKPCS**
 
@@ -1058,11 +1056,11 @@ D. Assam
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Kunwar Singh = Jagdishpur / Arrah in Bihar.
+
 **Ans: B.** **Kunwar Singh**, zamindar of **Jagdishpur** in **Bihar (Arrah)**, led the Bihar theatre.
 
 </details>
-
-**Logic:** Assam leader = Maniram Dutta; Auwa = Thakur Kushal Singh; Faizabad = Maulvi Ahmadullah Shah.
 
 **Q16. UPPCS / UKPCS**
 
@@ -1079,11 +1077,11 @@ D. Maulvi Liyaqat Ali
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Assam leader = Maniram Dutta; Auwa = Thakur Kushal Singh; Faizabad = Maulvi Ahmadullah Shah.
+
 **Ans: B.** **Maniram Dutta** (also keyed **Kandarpeshwar Singh** in some lists) led the **Assam** stream.
 
 </details>
-
-**Logic:** Auwa in Rajasthan = Thakur Kushal Singh — not Jaipur or Chittor as centres.
 
 **Q17. UPPCS / UKPCS**
 
@@ -1100,11 +1098,11 @@ D. Bakht Khan
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Auwa in Rajasthan = Thakur Kushal Singh — not Jaipur or Chittor as centres.
+
 **Ans: A.** **Thakur Kushal Singh** led the **Auwa** rising in Rajasthan.
 
 </details>
-
-**Logic:** Faizabad bitterest enemy = Maulvi Ahmadullah Shah; Allahabad = Maulvi Liyaqat Ali.
 
 **Q18. UPPCS / UKPCS**
 
@@ -1121,11 +1119,11 @@ D. Kanpur
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Faizabad bitterest enemy = Maulvi Ahmadullah Shah; Allahabad = Maulvi Liyaqat Ali.
+
 **Ans: B.** **Maulvi Ahmadullah Shah** led the **Faizabad / Awadh** stream. **Maulvi Liyaqat Ali** was linked to **Allahabad (Khusro Bagh)**.
 
 </details>
-
-**Logic:** Nana Sahib and Begum Hazrat Mahal fled to Nepal after defeat.
 
 **Q19. Chhattisgarh / BPSC / IAS / MPPCS / UKPCS**
 
@@ -1142,11 +1140,11 @@ D. Khan Bahadur Khan and Man Singh
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Nana Sahib and Begum Hazrat Mahal fled to Nepal after defeat.
+
 **Ans: B.** **Nana Sahib** and **Begum Hazrat Mahal** escaped to **Nepal** after British recovery of Kanpur and Lucknow.
 
 </details>
-
-**Logic:** Inefficiency of British officers was NOT a standard sepoy grievance — odd-one-out trap.
 
 **Q20. Chhattisgarh / BPSC / UKPCS**
 
@@ -1163,11 +1161,11 @@ D. Fear of conversion and interference with religion
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Inefficiency of British officers was NOT a standard sepoy grievance — odd-one-out trap.
+
 **Ans: C.** **Inefficiency of British officers** is the odd-one-out. Cartridges, **bhatta** cuts and religious fears were real grievances.
 
 </details>
-
-**Logic:** Mirza Ghalib witnessed Delhi 1857; born Agra.
 
 **Q21. UKPCS / UPPCS**
 
@@ -1184,11 +1182,11 @@ D. Harivansh Rai Bachchan
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Mirza Ghalib witnessed Delhi 1857; born Agra.
+
 **Ans: B.** **Mirza Ghalib** witnessed Delhi **1857**. He was born at **Agra**.
 
 </details>
-
-**Logic:** Scindias of Gwalior gave maximum help to the British.
 
 **Q22. UKPCS / UPPCS**
 
@@ -1205,11 +1203,11 @@ D. Nizam of Hyderabad
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Scindias of Gwalior gave maximum help to the British.
+
 **Ans: A.** The **Scindias of Gwalior** stayed loyal and gave major military help to the British.
 
 </details>
-
-**Logic:** Educated middle class largely neutral; Chittor/Jaipur not centres; Munger largely unaffected in Bihar.
 
 **Q23. UKPCS / IAS**
 
@@ -1229,11 +1227,11 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Educated middle class largely neutral; Chittor/Jaipur not centres; Munger largely unaffected in Bihar.
+
 **Ans: A.** Only statement **1** is correct. **Chittor** and **Jaipur** were **not** centres; **Munger** in Bihar was largely unaffected.
 
 </details>
-
-**Logic:** Standard leader–place match — Bakht Khan Delhi, Ahmadullah Faizabad, Kunwar Arrah, Nana Kanpur.
 
 **Q24. Chhattisgarh / UPPCS 2010 / 2018 / 2023**
 
@@ -1256,11 +1254,11 @@ D. A-2, B-1, C-3, D-4
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Standard leader–place match — Bakht Khan Delhi, Ahmadullah Faizabad, Kunwar Arrah, Nana Kanpur.
+
 **Ans: A.** **Bakht Khan–Delhi**; **Ahmadullah–Faizabad/Awadh**; **Kunwar Singh–Arrah/Jagdishpur**; **Nana Sahib–Kanpur**.
 
 </details>
-
-**Logic:** Wrong pair trap — Liyaqat Ali = Allahabad, not Lucknow.
 
 **Q25. UPPCS / Chhattisgarh**
 
@@ -1277,11 +1275,11 @@ D. Khan Bahadur Khan — Bareilly
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Wrong pair trap — Liyaqat Ali = Allahabad, not Lucknow.
+
 **Ans: C.** **Maulvi Liyaqat Ali** belonged to **Allahabad**, not **Lucknow**. **Begum Hazrat Mahal** led **Lucknow**.
 
 </details>
-
-**Logic:** Jhansi rose in June 1857 — not 11 May (Meerut date trap).
 
 **Q26. UPPCS 2023 / Chhattisgarh**
 
@@ -1298,11 +1296,11 @@ D. Lucknow — 4 June 1857
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Jhansi rose in June 1857 — not 11 May (Meerut date trap).
+
 **Ans: C.** **Jhansi** rose in **June 1857**, not **11 May**. **Meerut** was **10 May**; **Barrackpore** **29 March**.
 
 </details>
-
-**Logic:** Governor-General during 1857 = Lord Canning.
 
 **Q27. UPPCS / IAS / BPSC / UKPCS**
 
@@ -1319,11 +1317,11 @@ D. Lord Ripon
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Governor-General during 1857 = Lord Canning.
+
 **Ans: B.** **Lord Canning** was Governor-General during **1857** and became the first **Viceroy** after the Crown takeover.
 
 </details>
-
-**Logic:** Barrackpore British commanding officer = John Bennet Hearsey.
 
 **Q28. UKPCS / UPPCS**
 
@@ -1340,11 +1338,11 @@ D. Hugh Rose
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Barrackpore British commanding officer = John Bennet Hearsey.
+
 **Ans: B.** **John Bennet Hearsey** commanded at **Barrackpore** when Mangal Pandey rose.
 
 </details>
-
-**Logic:** Canning shifted emergency headquarters to Allahabad.
 
 **Q29. UKPCS / UPPCS**
 
@@ -1361,11 +1359,11 @@ D. Bombay
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Canning shifted emergency headquarters to Allahabad.
+
 **Ans: B.** **Allahabad** served as Canning's **emergency headquarters** during the crisis.
 
 </details>
-
-**Logic:** British PM in 1857 = Palmerston — not Gladstone or Churchill.
 
 **Q30. UPPCS / UKPCS / IAS**
 
@@ -1382,11 +1380,11 @@ D. Winston Churchill
 <details>
 <summary>Show answer</summary>
 
+**Logic:** British PM in 1857 = Palmerston — not Gladstone or Churchill.
+
 **Ans: B.** **Lord Palmerston** was Prime Minister in **1857**.
 
 </details>
-
-**Logic:** Peel Commission = army reorganisation after 1857 — not education or ICS.
 
 **Q31. UPPCS / BPSC / UKPCS**
 
@@ -1403,11 +1401,11 @@ D. Introduction of dyarchy
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Peel Commission = army reorganisation after 1857 — not education or ICS.
+
 **Ans: B.** The **Peel Commission** recommended **army reorganisation** after the mutiny.
 
 </details>
-
-**Logic:** Queen's Proclamation 1 November 1858 at Allahabad — end annexation policy and Crown rule.
 
 **Q32. UPPCS / IAS / UKPCS**
 
@@ -1424,11 +1422,11 @@ D. 15 August 1947
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Queen's Proclamation 1 November 1858 at Allahabad — end annexation policy and Crown rule.
+
 **Ans: B.** The Proclamation was read on **1 November 1858** at **Allahabad**, ending the Company's rule.
 
 </details>
-
-**Logic:** Proclamation objects = end of annexation policy and Crown rule — not Company trade regulation as third aim.
 
 **Q33. IAS / UPPCS**
 
@@ -1448,11 +1446,11 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Proclamation objects = end of annexation policy and Crown rule — not Company trade regulation as third aim.
+
 **Ans: C.** Both **1 and 2** are correct. Regulating **Company trade** was **not** a third object in the standard IAS triad.
 
 </details>
-
-**Logic:** Main cause of rebel failure = lack of common strategy and central organisation.
 
 **Q34. BPSC / UPPCS**
 
@@ -1469,11 +1467,11 @@ D. Universal support from the educated middle class
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Main cause of rebel failure = lack of common strategy and central organisation.
+
 **Ans: B.** Rebels lacked **common strategy and central organisation**, though limited area, loyal princes and British resources also mattered.
 
 </details>
-
-**Logic:** Nicholson died taking Delhi (Sept 1857) — not at Lucknow.
 
 **Q35. BPSC / UPPCS**
 
@@ -1490,11 +1488,11 @@ D. Henry Havelock
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Nicholson died taking Delhi (Sept 1857) — not at Lucknow.
+
 **Ans: B.** **John Nicholson** died taking **Delhi**. **Neill, Havelock and Henry Lawrence** died in the **Lucknow** theatre.
 
 </details>
-
-**Logic:** Outram and W. Taylor = Hindu–Muslim conspiracy reading.
 
 **Q36. BPSC / MPPCS / UPPCS / RAS**
 
@@ -1511,11 +1509,11 @@ D. R.C. Majumdar
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Outram and W. Taylor = Hindu–Muslim conspiracy reading.
+
 **Ans: B.** **Sir James Outram and W. Taylor** pushed the **conspiracy** reading.
 
 </details>
-
-**Logic:** Savarkar 1909 = First War of Independence.
 
 **Q37. BPSC / UPPCS / RAS**
 
@@ -1532,11 +1530,11 @@ D. Karl Marx
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Savarkar 1909 = First War of Independence.
+
 **Ans: B.** **V.D. Savarkar** titled his **1909** work *The Indian War of Independence*.
 
 </details>
-
-**Logic:** S.N. Sen = official historian (*Eighteen Fifty-Seven*, 1957); Sir Syed = *Asbab* 1859.
 
 **Q38. BPSC / UPPCS**
 
@@ -1553,11 +1551,11 @@ D. V.D. Savarkar
 <details>
 <summary>Show answer</summary>
 
+**Logic:** S.N. Sen = official historian (*Eighteen Fifty-Seven*, 1957); Sir Syed = *Asbab* 1859.
+
 **Ans: B.** **Sir Syed Ahmad Khan** wrote ***Asbab-e-Baghawat-e-Hind*** in **1859**. **S.N. Sen** wrote the official *Eighteen Fifty-Seven* (**1957**).
 
 </details>
-
-**Logic:** Majumdar — neither first, nor national, nor a war of independence.
 
 **Q39. BPSC / UPPCS**
 
@@ -1574,11 +1572,11 @@ D. A Hindu–Muslim conspiracy
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Majumdar — neither first, nor national, nor a war of independence.
+
 **Ans: C.** Majumdar held it was **neither first, nor national, nor a war of independence**.
 
 </details>
-
-**Logic:** UPPCS 2024 — Kunwar Singh statement true; Dalhousie did not recognise Lakshmibai's adopted heir.
 
 **Q40. UPPCS (Pre) 2024**
 
@@ -1598,6 +1596,8 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
+**Logic:** UPPCS 2024 — Kunwar Singh statement true; Dalhousie did not recognise Lakshmibai's adopted heir.
+
 **Ans: A.** Only statement **1** is correct. Jhansi was annexed under the **Doctrine of Lapse (1854)** and the adopted heir was **not** recognised.
 
 </details>
@@ -1606,8 +1606,6 @@ D. Neither 1 nor 2
 ## UKPCS Complete PYQ Bank (Extra harvest)
 
 Stems below mirror UKPCS-tagged facts from the Extra Drill above. The **UKPCS Prelims 2025** set in Complete PYQ Bank stays unchanged.
-
-**Logic:** Mangal Pandey = Barrackpore spark before Meerut mass start.
 
 **Q1. UKPCS**
 
@@ -1624,11 +1622,11 @@ D. Lucknow, 4 June 1857
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Mangal Pandey = Barrackpore spark before Meerut mass start.
+
 **Ans: B.** **Barrackpore, 29 March 1857** — he belonged to the **34th Bengal Native Infantry**.
 
 </details>
-
-**Logic:** Begum Hazrat Mahal = Lucknow; Khan Bahadur Khan = Bareilly — classic UKPCS pair trap.
 
 **Q2. UKPCS**
 
@@ -1645,11 +1643,11 @@ D. Bakht Khan
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Begum Hazrat Mahal = Lucknow; Khan Bahadur Khan = Bareilly — classic UKPCS pair trap.
+
 **Ans: B.** **Begum Hazrat Mahal** led **Lucknow** and placed **Birjis Qadr** on the masnad. **Khan Bahadur Khan** led **Bareilly**.
 
 </details>
-
-**Logic:** Nana Sahib and Hazrat Mahal fled to Nepal — not Delhi leaders.
 
 **Q3. UKPCS**
 
@@ -1666,11 +1664,11 @@ D. Mangal Pandey and Man Singh
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Nana Sahib and Hazrat Mahal fled to Nepal — not Delhi leaders.
+
 **Ans: B.** **Nana Sahib** and **Begum Hazrat Mahal** took refuge in **Nepal**.
 
 </details>
-
-**Logic:** Canning + Allahabad HQ + Hearsey at Barrackpore = UKPCS admin spine.
 
 **Q4. UKPCS**
 
@@ -1689,6 +1687,8 @@ D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Canning + Allahabad HQ + Hearsey at Barrackpore = UKPCS admin spine.
 
 **Ans: C.** Both statements are correct. At **Barrackpore**, the British CO was **John Bennet Hearsey**.
 
@@ -2675,8 +2675,6 @@ D. Hugh Wheeler
 
 Reason (R): The British increased European troops and recruited more from Gurkhas, Sikhs and Punjabis.
 
-**A/R logic:** A tests the commission’s purpose; R tests the recruitment shift — R explains how Peel’s line worked.
-
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)
@@ -2687,6 +2685,8 @@ D. (A) is false but (R) is true
 
 <details>
 <summary>Show answer</summary>
+
+**A/R logic:** A tests the commission’s purpose; R tests the recruitment shift — R explains how Peel’s line worked.
 
 **Ans: A.** Both true; R is the core Peel outcome (Europeans ↑, Bengal Army weight ↓, “loyal” northern recruitment ↑). Approximate ratios: Bengal 1:2, Madras/Bombay 1:3.
 

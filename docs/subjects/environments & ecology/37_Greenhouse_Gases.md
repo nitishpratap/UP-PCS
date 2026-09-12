@@ -289,8 +289,6 @@ Ozone depletion has been linked to CFCs — **TRUE** (with UV-protection stateme
 
 ## Complete PYQ Bank (Topic 37)
 
-**Logic:** Tests biogas composition — methane plus carbon dioxide, not butane or CO alone.
-
 **Q1. UPPCS Prelims 2025, Q28**
 
 Major constituents of biogas:
@@ -308,11 +306,11 @@ D. 1 and 2
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Tests biogas composition — methane plus carbon dioxide, not butane or CO alone.
+
 **Ans: A.** Biogas is mainly **CH₄ + CO₂** from anaerobic digestion. **Trap:** Butane and carbon monoxide are distractors; paddy gas is methane, not CO.
 
 </details>
-
-**Logic:** CFC dual role — greenhouse gas and ozone-depleting substance under Montreal.
 
 **Q2. UPPCS Prelims 2025, Q45**
 
@@ -329,11 +327,11 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
+**Logic:** CFC dual role — greenhouse gas and ozone-depleting substance under Montreal.
+
 **Ans: A (Only 1).** CFCs destroy stratospheric ozone **and** are potent GHGs — statement 2 is false. **Trap:** Treating CFC as ODS-only or as “not a GHG.”
 
 </details>
-
-**Logic:** Common-name recall — laughing gas is nitrous oxide, not ammonia or CO.
 
 **Q3. UPPCS Prelims 2023, Q105**
 
@@ -347,11 +345,11 @@ D. Chlorofluorocarbon
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Common-name recall — laughing gas is nitrous oxide, not ammonia or CO.
+
 **Ans: B.** **N₂O** is laughing gas (GWP ~265; fertiliser soils). **Trap:** Ammonia (NH₃) or CFC as distractors.
 
 </details>
-
-**Logic:** Noble gases and dry-air major components are not greenhouse gases; CFC is a GHG.
 
 **Q4. UPPCS Prelims 2022, Q102**
 
@@ -365,11 +363,11 @@ D. Carbon dioxide
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Noble gases and dry-air major components are not greenhouse gases; CFC is a GHG.
+
 **Ans: A.** **Argon** does not absorb outgoing infrared; CFC, CH₄, and CO₂ are GHGs. **Trap:** Picking CFC because it is “synthetic/industrial.”
 
 </details>
-
-**Logic:** Photochemical smog chemistry always yields tropospheric ozone as a secondary product.
 
 **Q5. UPPCS Prelims 2022, Q46**
 
@@ -383,11 +381,11 @@ D. Aluminium ion
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Photochemical smog chemistry always yields tropospheric ozone as a secondary product.
+
 **Ans: B.** NOx + VOCs + sunlight → **O₃** (and PAN). **Trap:** Confusing with London SO₂ smog or stratospheric ozone shield.
 
 </details>
-
-**Logic:** CNG fuel composition — compressed natural gas is mainly methane.
 
 **Q6. UPPCS Prelims 2022, Q113**
 
@@ -401,11 +399,11 @@ D. Butane
 <details>
 <summary>Show answer</summary>
 
+**Logic:** CNG fuel composition — compressed natural gas is mainly methane.
+
 **Ans: A.** **CNG ≈ 90% methane.** **Trap:** Propane/butane as LPG distractors.
 
 </details>
-
-**Logic:** Flooded paddy fields emit marsh gas (methane) under anaerobic soils.
 
 **Q7. UPPCS Prelims 2019, Q62**
 
@@ -419,11 +417,11 @@ D. Methane
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Flooded paddy fields emit marsh gas (methane) under anaerobic soils.
+
 **Ans: D.** Anaerobic rice paddies release **CH₄**. **Trap:** CO₂ or CO — paddies are classic methane stems.
 
 </details>
-
-**Logic:** Methane sources include wetlands, paddies, and termite mounds — not “paddy only.”
 
 **Q8. UPPCS Prelims 2018, Q63**
 
@@ -437,11 +435,11 @@ D. None
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Methane sources include wetlands, paddies, and termite mounds — not “paddy only.”
+
 **Ans: C.** **Both** paddies and termites emit CH₄ (also landfills, cattle, wetlands). **Trap:** “Only one source” options.
 
 </details>
-
-**Logic:** Absolute CO₂ emissions ranking — China was largest emitter in 2015 framing.
 
 **Q9. UPPCS Prelims 2018, Q132**
 
@@ -455,11 +453,11 @@ D. France
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Absolute CO₂ emissions ranking — China was largest emitter in 2015 framing.
+
 **Ans: A.** **China** #1 by absolute CO₂; India ~3rd with low per capita. **Trap:** Picking India because of population alone.
 
 </details>
-
-**Logic:** Among listed options, nitrogen oxides are pollutants — CO₂, CH₄, and O₃ are treated as natural GHGs in the stem.
 
 **Q10. UPPCS Prelims 2020, Q139**
 
@@ -472,6 +470,8 @@ D. Ozone
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Among listed options, nitrogen oxides are pollutants — CO₂, CH₄, and O₃ are treated as natural GHGs in the stem.
 
 **Ans: A.** **NO/NO₂** are air pollutants, not classic GHGs in this list; CO₂, CH₄, and tropospheric O₃ qualify. **Trap:** Confusing N₂O (GHG) with nitrogen oxide.
 

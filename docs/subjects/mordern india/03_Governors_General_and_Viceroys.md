@@ -1779,8 +1779,6 @@ D. Lord Lansdown
 
 Teaching for these stems sits across **3.1–3.41** (Ring Fence, Dual Government, Subsidiary Alliance, Lapse, Viceroys).
 
-**Logic:** First GG of Bengal = Warren Hastings (1773); first GG of India = Bentinck (1833); Clive ≠ first GG.
-
 **Q1. IAS 2007 / RAS / BPSC**
 
 Consider the following statements:
@@ -1801,11 +1799,11 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
+**Logic:** First GG of Bengal = Warren Hastings (1773); first GG of India = Bentinck (1833); Clive ≠ first GG.
+
 **Ans: B.** Statement **1** is false — the first **Governor-General of Bengal** was **Warren Hastings** under the **Regulating Act, 1773**. Statement **2** is true — **William Bentinck** became the first **Governor-General of India** under the **Charter Act, 1833**. Trap: Clive was Governor of Bengal, not the first GG.
 
 </details>
-
-**Logic:** Chronology Buxar → Clive return → Allahabad → Hastings Governor of Bengal 1772.
 
 **Q2. UP R.O./A.R.O. Re-Exam 2016**
 
@@ -1822,11 +1820,11 @@ D. Treaty of Allahabad → Buxar → Clive’s re-arrival → Warren Hastings be
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Chronology Buxar → Clive return → Allahabad → Hastings Governor of Bengal 1772.
+
 **Ans: A.** Order: **Buxar (1764) → Clive’s return (1765) → Allahabad (1765) → Hastings as Governor of Bengal (1772)**. He became **Governor-General of Bengal** from **1774** under the Regulating Act. Trap: Allahabad and Clive’s return both belong to **1765**, but Buxar must come first.
 
 </details>
-
-**Logic:** Bentinck is tagged to social/admin reform, not war consolidation — common “NOT true” stem.
 
 **Q3. UPPSC GIC / BPSC / UPPCS / MPPCS / Jharkhand**
 
@@ -1843,11 +1841,11 @@ D. He annexed **Mysore in 1831** on grounds of misgovernment.
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Bentinck is tagged to social/admin reform, not war consolidation — common “NOT true” stem.
+
 **Ans: B.** Bentinck is remembered for **social and administrative reform**, not war consolidation. **Sati (1829)**, **Thug suppression**, and **Mysore (1831)** are his correct tags. Trap: students swap Bentinck with **Wellesley** or **Dalhousie** on annexation stems.
 
 </details>
-
-**Logic:** Cornwallis = covenanted ICS line + Permanent Settlement; tomb at Ghazipur (UP).
 
 **Q4. IAS / UPPCS / UP R.O.**
 
@@ -1864,11 +1862,11 @@ D. Annexation of **Awadh** on grounds of misrule in **1856**
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Cornwallis = covenanted ICS line + Permanent Settlement; tomb at Ghazipur (UP).
+
 **Ans: A.** **Cornwallis** introduced the **Covenanted Civil Service**, the **Cornwallis Code**, the **Daroga** police system, and the **Permanent Settlement (1793)**. He died at **Ghazipur (UP)** in **1805**. Trap: **Bentinck** = Sati; **Wellesley** = Subsidiary Alliance; **Dalhousie** = Awadh **1856**.
 
 </details>
-
-**Logic:** Subsidiary Alliance aim trap — securing fixed Company income is NOT the stated aim (IAS 2018 pattern).
 
 **Q5. IAS / BPSC / UPPCS**
 
@@ -1885,11 +1883,11 @@ D. Controlling the foreign relations of the protected state
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Subsidiary Alliance aim trap — securing fixed Company income is NOT the stated aim (IAS 2018 pattern).
+
 **Ans: C.** The alliance aimed at **political control**, not a guaranteed fixed income for the Company. Wellesley’s first major alliance was **Hyderabad (1798)**; the first Maratha ruler to accept it was **Bajirao II** under the **Treaty of Bassein (1802)**. Trap: “fixed income” sounds plausible but is the classic wrong option.
 
 </details>
-
-**Logic:** Anglo-Nepal War and Sugauli treaty belong to **Lord Hastings**, not Warren Hastings.
 
 **Q6. UPPCS / UKPCS / IAS / BPSC / Jharkhand**
 
@@ -1906,11 +1904,11 @@ D. Lord William Bentinck
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Anglo-Nepal War and Sugauli treaty belong to **Lord Hastings**, not Warren Hastings.
+
 **Ans: C.** The **Anglo-Nepal War** and **Sugauli** belong to **Lord Hastings (1813–23)**. Trap: **Warren Hastings** is a different person — always separate **Warren** vs **Lord Hastings**.
 
 </details>
-
-**Logic:** Third Maratha War = Lord Hastings; Cornwallis fought the Third **Mysore** War.
 
 **Q7. UPPCS / UKPCS / IAS / BPSC**
 
@@ -1927,11 +1925,11 @@ D. Lord William Bentinck
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Third Maratha War = Lord Hastings; Cornwallis fought the Third **Mysore** War.
+
 **Ans: B.** The **Third Anglo-Maratha War** was fought under **Lord Hastings**. **Cornwallis** led the **Third Anglo-Mysore War** to the **Treaty of Seringapatam (1792)** — a frequent swap trap.
 
 </details>
-
-**Logic:** Mysore 1831 = Bentinck maladministration; Third Mysore = Cornwallis.
 
 **Q8. UPPCS / UKPCS / IAS**
 
@@ -1948,11 +1946,11 @@ D. Lord Ellenborough
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Mysore 1831 = Bentinck maladministration; Third Mysore = Cornwallis.
+
 **Ans: B.** **Bentinck** annexed **Mysore in 1831** for misgovernment. **Cornwallis** fought the **Third Anglo-Mysore War**; **Dalhousie** used the **Doctrine of Lapse** from **1848**.
 
 </details>
-
-**Logic:** Thug suppression = Sleeman under Bentinck.
 
 **Q9. UPPCS / BPSC / Jharkhand**
 
@@ -1969,11 +1967,11 @@ D. Sir Charles Napier
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Thug suppression = Sleeman under Bentinck.
+
 **Ans: B.** **Captain William Sleeman** led Thug suppression under **Lord William Bentinck**. Trap: **Outram** belongs to **Awadh (1856)**; **Napier** to **Sindh (1843)**.
 
 </details>
-
-**Logic:** Sati abolition year and GG — Bentinck 1829.
 
 **Q10. UPPCS / IAS**
 
@@ -1990,11 +1988,11 @@ D. Lord Canning
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Sati abolition year and GG — Bentinck 1829.
+
 **Ans: B.** **Bentinck** abolished **Sati in 1829** with **Raja Ram Mohan Roy’s** support. **Dalhousie** and **Canning** belong to a later phase. Trap: **1829** is sometimes swapped with **1843** (slavery abolition).
 
 </details>
-
-**Logic:** Slavery abolished in India = Ellenborough, Act V 1843.
 
 **Q11. UPPCS / UKPCS / BPSC**
 
@@ -2011,11 +2009,11 @@ D. Lord Canning
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Slavery abolished in India = Ellenborough, Act V 1843.
+
 **Ans: B.** **Lord Ellenborough** passed **Act V of 1843** abolishing slavery in India. Trap: **1789** marks an earlier **export** ban from Bengal, not full abolition.
 
 </details>
-
-**Logic:** Awadh 1856 = misadministration, not Doctrine of Lapse.
 
 **Q12. UPPCS / IAS / BPSC / UKPCS**
 
@@ -2032,11 +2030,11 @@ D. Request of the Nawab for British protection
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Awadh 1856 = misadministration, not Doctrine of Lapse.
+
 **Ans: B.** **Awadh (1856)** was taken for **misgovernment**, not **Lapse**. **James Outram** was the Resident. Trap: **Satara (1848)** was the first classic **Lapse** case under **Dalhousie**.
 
 </details>
-
-**Logic:** First Doctrine of Lapse victim = Satara 1848.
 
 **Q13. UPPCS / UKPCS / IAS**
 
@@ -2053,11 +2051,11 @@ D. Baghat
 <details>
 <summary>Show answer</summary>
 
+**Logic:** First Doctrine of Lapse victim = Satara 1848.
+
 **Ans: B.** **Satara (1848)** was the first **Lapse** annexation. **Baghat (1850)** came later. Trap: **Jaipur** and **Gwalior** were **not** classic Lapse victims.
 
 </details>
-
-**Logic:** First railway = Bombay–Thane 1853, GIPR, Dalhousie era.
 
 **Q14. UPPCS / UKPCS / BPSC**
 
@@ -2074,11 +2072,11 @@ D. 1858
 <details>
 <summary>Show answer</summary>
 
+**Logic:** First railway = Bombay–Thane 1853, GIPR, Dalhousie era.
+
 **Ans: B.** The **Bombay–Thane** line opened in **1853** under the **Great Indian Peninsula Railway (GIPR)** in **Dalhousie’s** time. Trap: **1856** tags **Awadh annexation** or the **Widow Remarriage Act**.
 
 </details>
-
-**Logic:** Queen’s Proclamation read at Allahabad — Canning, 1 November 1858.
 
 **Q15. UPPCS / UKPCS / IAS**
 
@@ -2095,11 +2093,11 @@ D. Lord Lytton
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Queen’s Proclamation read at Allahabad — Canning, 1 November 1858.
+
 **Ans: B.** **Lord Canning** read the Proclamation at **Allahabad** and became the first **Viceroy**. **UP focus:** Allahabad, not Calcutta. Trap: **Dalhousie** left before **1857**; he never became Viceroy.
 
 </details>
-
-**Logic:** Sindh 1843 = Ellenborough; Napier led military action.
 
 **Q16. IAS / UPPCS / BPSC / UKPCS**
 
@@ -2116,11 +2114,11 @@ D. Lord Hardinge I
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Sindh 1843 = Ellenborough; Napier led military action.
+
 **Ans: B.** **Ellenborough** annexed **Sindh in 1843**; **Charles Napier** led the military campaign. Trap: **Dalhousie** is over-used as the default “annexation” answer.
 
 </details>
-
-**Logic:** Masterly Inactivity on Afghanistan = John Lawrence.
 
 **Q17. UPPCS / UKPCS / BPSC**
 
@@ -2137,11 +2135,11 @@ D. Lord Curzon
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Masterly Inactivity on Afghanistan = John Lawrence.
+
 **Ans: B.** **John Lawrence** followed **Masterly Inactivity**. **Lytton’s** opposite tag is **Forward Policy / Proud Reserve**. Trap: **Auckland** fought the **First Afghan War (1838–42)**.
 
 </details>
-
-**Logic:** Ripon = local self-government 1882; Lytton = Vernacular Press 1878, not Ilbert.
 
 **Q18. IAS / UPPCS / UKPCS**
 
@@ -2158,11 +2156,11 @@ D. Lord Mayo
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Ripon = local self-government 1882; Lytton = Vernacular Press 1878, not Ilbert.
+
 **Ans: B.** **Lord Ripon’s** resolution of **1882** expanded local self-government. **Lytton** passed the **Vernacular Press Act, 1878**; the **Ilbert Bill (1883)** belongs to **Ripon’s** era, not Lytton’s.
 
 </details>
-
-**Logic:** Vernacular Press Act 1878 = Lytton; Curzon is a common wrong match.
 
 **Q19. UPPCS / UKPCS / IAS**
 
@@ -2179,11 +2177,11 @@ D. Lord Dufferin
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Vernacular Press Act 1878 = Lytton; Curzon is a common wrong match.
+
 **Ans: B.** **Lytton** passed the **Vernacular Press Act (1878)**, often called the **Gagging Act**. **Ripon repealed** it. Trap: **Curzon** is wrongly matched in many pair lists — his tag is **Partition of Bengal (1905)**.
 
 </details>
-
-**Logic:** Capital shift Calcutta → Delhi = Hardinge II, 1911 announcement.
 
 **Q20. UPPCS / UKPCS / BPSC**
 
@@ -2200,11 +2198,11 @@ D. Lord Irwin
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Capital shift Calcutta → Delhi = Hardinge II, 1911 announcement.
+
 **Ans: B.** **Hardinge II** announced the shift at the **1911 Delhi Durbar**; the move took effect in **1912**. Trap: **Curzon** partitioned **Bengal** but did not shift the capital.
 
 </details>
-
-**Logic:** Only Jewish Viceroy = Reading.
 
 **Q21. UP R.O. / MPPCS / IAS**
 
@@ -2221,11 +2219,11 @@ D. Lord Mountbatten
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Only Jewish Viceroy = Reading.
+
 **Ans: A.** **Lord Reading (1921–26)** was the only Jewish Viceroy. He faced **Chauri Chaura** and the early **Swaraj Party** years. Trap: do not confuse with **Irwin** (Gandhi–Irwin Pact).
 
 </details>
-
-**Logic:** Morley–Minto separate electorates tied to Minto, not dyarchy.
 
 **Q22. UP R.O. / MPPCS / IAS**
 
@@ -2242,6 +2240,8 @@ D. Lord Chelmsford
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Morley–Minto separate electorates tied to Minto, not dyarchy.
+
 **Ans: B.** The **Morley–Minto reforms (1909)** introduced **Muslim separate electorates** under **Lord Minto**. **Dyarchy** came only in **1919** under **Chelmsford**. Trap: **1909 ≠ 1919**.
 
 </details>
@@ -2251,8 +2251,6 @@ D. Lord Chelmsford
 ## Ghatnachakra Extra Drill — Morley–Minto and Delhi Durbar
 
 Teaching sits in **3.36–3.38**. Home Rule / Lucknow Pact teaching lives in **Topic 12**.
-
-**Logic:** Official name = Indian Councils Act 1909; key provision = communal / separate electorates; not dyarchy.
 
 **Q1. UPPCS / BPSC**
 
@@ -2269,11 +2267,11 @@ D. Government of India Act, 1935
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Official name = Indian Councils Act 1909; key provision = communal / separate electorates; not dyarchy.
+
 **Ans: B.** The **Morley–Minto reforms** are the **Indian Councils Act, 1909**. Their best-known provision is **communal / separate electorates** for Muslims. Trap: **1919** introduced **dyarchy**, not **1909**.
 
 </details>
-
-**Logic:** Rajendra Prasad’s “Father of Pakistan” tag points to Minto, not Morley alone.
 
 **Q2. UPPCS / BPSC**
 
@@ -2290,11 +2288,11 @@ D. Lord Chelmsford
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Rajendra Prasad’s “Father of Pakistan” tag points to Minto, not Morley alone.
+
 **Ans: B.** **Lord Minto** is Rajendra Prasad’s **“Father of Pakistan”** tag for backing **Muslim separate electorates** in **1909**. **Morley** was the Secretary of State in London; the viceroy tag keys **Minto**.
 
 </details>
-
-**Logic:** Capital before Delhi = Calcutta; Hardinge II announced shift at 1911 Durbar.
 
 **Q3. UPPCS / UKPCS / BPSC / RAS**
 
@@ -2311,11 +2309,11 @@ D. Simla
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Capital before Delhi = Calcutta; Hardinge II announced shift at 1911 Durbar.
+
 **Ans: C.** The capital was **Calcutta** until **Hardinge II** announced the shift at the **1911 Delhi Durbar**; the move took effect in **1912**. **Bihar and Orissa** were separated as a province in **1912**.
 
 </details>
-
-**Logic:** Hardinge bomb 23 December 1912 — Anushilan Samiti; Bhagwati Charan Vohra is the common “NOT involved” distractor.
 
 **Q4. UPPCS / UKPCS / BPSC / RAS**
 
@@ -2332,6 +2330,8 @@ D. Abhinav Bharat Society
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Hardinge bomb 23 December 1912 — Anushilan Samiti; Bhagwati Charan Vohra is the common “NOT involved” distractor.
+
 **Ans: B.** The **Hardinge bomb case (23 December 1912)** is linked to the **Anushilan Samiti** and **Rash Behari Bose**. **Bhagwati Charan Vohra** was **not** involved — a frequent “NOT” trap in state papers.
 
 </details>
@@ -2341,8 +2341,6 @@ D. Abhinav Bharat Society
 ## Ghatnachakra Extra Drill — Constitutional Acts Map
 
 Teaching sits across **3.3–3.5, 3.12–3.15, 3.22, 3.44** (and related Councils Acts).
-
-**Logic:** Regulating Act office vs Supreme Court year — 1773 creates the post, 1774 starts the court.
 
 **Q1. UPPCS / IAS**
 
@@ -2359,11 +2357,11 @@ D. Board of Control in London
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Regulating Act office vs Supreme Court year — 1773 creates the post, 1774 starts the court.
+
 **Ans: B.** The **Regulating Act, 1773** created the **Governor-General of Bengal**; **Warren Hastings** was the first holder. The **Supreme Court at Calcutta** began in **1774**. Trap: **Board of Control** belongs to **Pitt’s India Act, 1784**.
 
 </details>
-
-**Logic:** Pitt’s India Act 1784 = Board of Control for political control in London.
 
 **Q2. UPPCS / IAS**
 
@@ -2380,11 +2378,11 @@ D. Privy Council alone
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Pitt’s India Act 1784 = Board of Control for political control in London.
+
 **Ans: B.** **Pitt’s India Act, 1784** set up the **Board of Control** for **political** affairs and left **commercial** affairs with the **Court of Directors**. Trap: students pick **Court of Directors** for every pre-1858 London body.
 
 </details>
-
-**Logic:** Charter 1813 ended Indian trade monopoly but kept tea/China; 1833 ended all Company trade.
 
 **Q3. UPPCS / IAS**
 
@@ -2401,11 +2399,11 @@ D. The **1833** Act created the Governor-General of Bengal; the **1813** Act cre
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Charter 1813 ended Indian trade monopoly but kept tea/China; 1833 ended all Company trade.
+
 **Ans: B.** **1813** ended the **India monopoly** but kept **tea and China** trade; it also set aside **₹1 lakh** a year for education. **1833** ended **all** Company trade and created the **Governor-General of India**. Trap: reversing **1813** and **1833** trade clauses.
 
 </details>
-
-**Logic:** First Law Member under Charter 1833 = Macaulay.
 
 **Q4. UPPCS / IAS**
 
@@ -2422,11 +2420,11 @@ D. Lord Dalhousie
 <details>
 <summary>Show answer</summary>
 
+**Logic:** First Law Member under Charter 1833 = Macaulay.
+
 **Ans: A.** The **Charter Act, 1833** added a **Law Member** to the Council; **Lord Macaulay** was the first. His **Minute of 1835** later shaped English education policy. Trap: **Wood’s Despatch (1854)** belongs to **Dalhousie’s** era.
 
 </details>
-
-**Logic:** Open competition for ICS = Charter Act 1853.
 
 **Q5. UPPCS / IAS**
 
@@ -2443,11 +2441,11 @@ D. Indian Councils Act, 1861
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Open competition for ICS = Charter Act 1853.
+
 **Ans: B.** The **Charter Act, 1853** introduced **open competition** for the **ICS**. **1858** ended Company rule; **1861** legalised the **portfolio system**. Trap: **1833** added the **Law Member**, not competitive exams.
 
 </details>
-
-**Logic:** Provincial dyarchy = GOI Act 1919; Lionel Curtis tagged as father of dyarchy.
 
 **Q6. UPPCS / IAS**
 
@@ -2464,11 +2462,11 @@ D. Indian Independence Act, 1947
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Provincial dyarchy = GOI Act 1919; Lionel Curtis tagged as father of dyarchy.
+
 **Ans: B.** The **Government of India Act, 1919** (Montagu–Chelmsford) introduced **provincial dyarchy**. **Lionel Curtis** is often called the **father of dyarchy** for this scheme. Trap: **1909** gave **separate electorates**, not dyarchy.
 
 </details>
-
-**Logic:** 1935 abolished provincial dyarchy and gave provincial autonomy from 1937.
 
 **Q7. UPPCS / IAS**
 
@@ -2485,11 +2483,11 @@ D. Government of India Act, 1858
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 1935 abolished provincial dyarchy and gave provincial autonomy from 1937.
+
 **Ans: B.** The **Government of India Act, 1935** **abolished provincial dyarchy** and provided **provincial autonomy**, which worked from **1937** after elections. **Centre dyarchy** and **federation** on the **1935** scheme stayed largely on paper. Trap: **1919** **introduced** dyarchy; it did not abolish it.
 
 </details>
-
-**Logic:** Nehru’s two famous tags on the 1935 Act at Lucknow Congress 1936.
 
 **Q8. UPPCS / IAS**
 
@@ -2506,11 +2504,11 @@ D. The foundation of responsible government at the Centre
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Nehru’s two famous tags on the 1935 Act at Lucknow Congress 1936.
+
 **Ans: A.** Nehru mocked the **1935 Act** as a car with **brakes but no engine** and as a **Charter of Slavery**; the **Lucknow Congress (1936)** rejected it. Trap: “federation” wording in the Act sounds positive but the **federation never started**.
 
 </details>
-
-**Logic:** Instrument of Instructions under 1935 fed later DPSP vocabulary — not Fundamental Rights.
 
 **Q9. UPPCS / IAS**
 
@@ -2527,11 +2525,11 @@ D. Union List subjects
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Instrument of Instructions under 1935 fed later DPSP vocabulary — not Fundamental Rights.
+
 **Ans: B.** The **Instrument of Instructions** style guidance under **1935** later fed the vocabulary of the **Directive Principles of State Policy**. Trap: students wrongly pick **Fundamental Rights** — the memory link is to **DPSP**, not FR.
 
 </details>
-
-**Logic:** Lionel Curtis authorship tag for dyarchy idea in 1919 reforms.
 
 **Q10. UPPCS / IAS**
 
@@ -2548,6 +2546,8 @@ D. B. R. Ambedkar
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Lionel Curtis authorship tag for dyarchy idea in 1919 reforms.
+
 **Ans: A.** **Lionel Curtis** is commonly tagged as the **father of dyarchy** for the **1919** scheme. Under **1935**, dyarchy shifted to the **Centre on paper** but never worked in practice. Trap: **Morley** belongs to **1909**, not dyarchy.
 
 </details>
@@ -2556,8 +2556,6 @@ D. B. R. Ambedkar
 ### UKPCS Complete PYQ Bank (Governors-General & Viceroys)
 
 > Stems tagged **UKPCS** from the Extra Drills above. UPPCS Complete Bank sits earlier in this chapter. Practice Zone follows this section.
-
-**Logic:** Anglo-Nepal and Sugauli — Lord Hastings vs Warren Hastings name trap.
 
 **Q1. UKPCS (Extra Drill — GG & Viceroys Q6)**
 
@@ -2574,11 +2572,11 @@ D. Lord William Bentinck
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Anglo-Nepal and Sugauli — Lord Hastings vs Warren Hastings name trap.
+
 **Ans: C.** **Lord Hastings (1813–23)** fought Nepal and signed **Sugauli**. **Warren Hastings** is a different person — the classic UKPCS name trap.
 
 </details>
-
-**Logic:** Third Maratha War commander tag — not Cornwallis.
 
 **Q2. UKPCS (Extra Drill — GG & Viceroys Q7)**
 
@@ -2595,11 +2593,11 @@ D. Lord William Bentinck
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Third Maratha War commander tag — not Cornwallis.
+
 **Ans: B.** **Lord Hastings** led the **Third Anglo-Maratha War**. **Cornwallis** belongs to the **Third Anglo-Mysore War** — a frequent confused pair.
 
 </details>
-
-**Logic:** Awadh 1856 = misrule, not Lapse.
 
 **Q3. UKPCS (Extra Drill — GG & Viceroys Q12)**
 
@@ -2616,11 +2614,11 @@ D. Request of the Nawab for British protection
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Awadh 1856 = misrule, not Lapse.
+
 **Ans: B.** **Awadh (1856)** was annexed for **misgovernment** under **Dalhousie**; **James Outram** was Resident. **Satara (1848)** was the first **Lapse** case.
 
 </details>
-
-**Logic:** Capital before Delhi — Calcutta until Hardinge II.
 
 **Q4. UKPCS (Extra Drill — Morley–Minto Q3)**
 
@@ -2637,11 +2635,11 @@ D. Simla
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Capital before Delhi — Calcutta until Hardinge II.
+
 **Ans: C.** **Calcutta** was the capital until **Hardinge II** announced the shift at the **1911 Delhi Durbar**; the move took effect in **1912**.
 
 </details>
-
-**Logic:** Hardinge bomb case organisation — Anushilan Samiti.
 
 **Q5. UKPCS (Extra Drill — Morley–Minto Q4)**
 
@@ -2657,6 +2655,8 @@ D. Abhinav Bharat Society
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Hardinge bomb case organisation — Anushilan Samiti.
 
 **Ans: B.** The **Hardinge bomb case (23 December 1912)** is linked to the **Anushilan Samiti** and **Rash Behari Bose**. **Bhagwati Charan Vohra** was not involved.
 

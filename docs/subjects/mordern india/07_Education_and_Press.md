@@ -731,8 +731,6 @@ D. C A B D
 
 ### UKPCS Prelims 2025
 
-**Logic:** Places a war-years education report among earlier and later reform dates.
-
 **Q. UKPCS Prelims 2025, Q68**
 
 When was the ‘Sargeant Plan’ of education started?
@@ -745,6 +743,8 @@ D. 1856
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Places a war-years education report among earlier and later reform dates.
+
 **Ans: B (Series B provisional key).** The Sargeant Plan of 1944 (Central Advisory Board of Education under John Sargeant) proposed universal free and compulsory education for ages six to eleven within forty years.
 
 </details>
@@ -755,8 +755,6 @@ D. 1856
 ## Ghatnachakra Extra Drill — Education
 
 Teaching sits in **7.1–7.13**.
-
-**Logic:** First British madrasa = Calcutta under Hastings (~1780–81).
 
 **Q1. UPPCS / UKPCS / IAS**
 
@@ -773,11 +771,11 @@ D. Madras
 <details>
 <summary>Show answer</summary>
 
+**Logic:** First British madrasa = Calcutta under Hastings (~1780–81).
+
 **Ans: B.** **Calcutta** — Hastings, about **1780–81**.
 
 </details>
-
-**Logic:** Asiatic Society of Bengal (1784) = Sir William Jones; Hastings declined presidency.
 
 **Q2. UPPCS / UKPCS / IAS**
 
@@ -794,11 +792,11 @@ D. Charles Wilkins
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Asiatic Society of Bengal (1784) = Sir William Jones; Hastings declined presidency.
+
 **Ans: B.** **Sir William Jones (1784)** — Hastings declined the chair.
 
 </details>
-
-**Logic:** Banaras Sanskrit College (1791) = Jonathan Duncan — not Jones.
 
 **Q3. UPPCS / UKPCS / IAS**
 
@@ -815,11 +813,11 @@ D. William Bentinck
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Banaras Sanskrit College (1791) = Jonathan Duncan — not Jones.
+
 **Ans: B.** **Jonathan Duncan (1791)** — Sanskrit revival at Banaras.
 
 </details>
-
-**Logic:** First English translation of the Bhagavad Gita = Charles Wilkins.
 
 **Q4. UPPCS / UKPCS / IAS**
 
@@ -836,11 +834,11 @@ D. Henry Thomas Colebrooke
 <details>
 <summary>Show answer</summary>
 
+**Logic:** First English translation of the Bhagavad Gita = Charles Wilkins.
+
 **Ans: B.** **Charles Wilkins** — first English **Gita**.
 
 </details>
-
-**Logic:** First English Shakuntala = William Jones.
 
 **Q5. UPPCS / UKPCS / IAS**
 
@@ -857,11 +855,11 @@ D. Horace Hayman Wilson
 <details>
 <summary>Show answer</summary>
 
+**Logic:** First English Shakuntala = William Jones.
+
 **Ans: B.** **William Jones** — first English **Shakuntala**.
 
 </details>
-
-**Logic:** Charter Act 1813 = Rs 1 lakh for education — first statutory grant.
 
 **Q6. UPPCS / IAS / UKPCS / BPSC / MPPCS**
 
@@ -878,11 +876,11 @@ D. Government of India Act 1858
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Charter Act 1813 = Rs 1 lakh for education — first statutory grant.
+
 **Ans: B.** **Charter Act 1813** — first statutory education grant.
 
 </details>
-
-**Logic:** Wood’s Despatch 1854 = Magna Carta of English education; grants-in-aid and universities true; English at all levels false.
 
 **Q7. UPPCS / IAS / UKPCS / BPSC / MPPCS**
 
@@ -899,11 +897,11 @@ D. Sadler Commission Report of 1917
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Wood’s Despatch 1854 = Magna Carta of English education; grants-in-aid and universities true; English at all levels false.
+
 **Ans: B.** **Wood’s Despatch 1854** — graded system and grants-in-aid.
 
 </details>
-
-**Logic:** Wood recommended English for higher education only — not every level.
 
 **Q8. UPPCS / IAS / UKPCS / BPSC / MPPCS**
 
@@ -920,11 +918,11 @@ D. It abolished primary schooling
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Wood recommended English for higher education only — not every level.
+
 **Ans: C.** Grants-in-aid and universities are **true**; English at **all** levels is **false**.
 
 </details>
-
-**Logic:** Hunter Commission 1882 = primary education emphasis under Ripon.
 
 **Q9. UPPCS / IAS / UKPCS / BPSC / MPPCS**
 
@@ -941,11 +939,11 @@ D. Female education only
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Hunter Commission 1882 = primary education emphasis under Ripon.
+
 **Ans: B.** **Primary education** — Ripon era (**1882**).
 
 </details>
-
-**Logic:** Sadler Commission 1917 = education review; Calcutta University inquiry.
 
 **Q10. UPPCS / IAS / UKPCS / BPSC / MPPCS**
 
@@ -962,11 +960,11 @@ D. Army recruitment
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Sadler Commission 1917 = education review; Calcutta University inquiry.
+
 **Ans: B.** **Education** — appointed **1917**.
 
 </details>
-
-**Logic:** Downward filtration theory = education field; Macaulay as propounder.
 
 **Q11. RAS / IAS / UPPCS / BPSC**
 
@@ -983,11 +981,11 @@ D. Currency
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Downward filtration theory = education field; Macaulay as propounder.
+
 **Ans: B.** **Education** — elite training supposed to trickle down.
 
 </details>
-
-**Logic:** Macaulay’s Minute 1835 = foundation tag for modern English education system.
 
 **Q12. RAS / IAS / UPPCS / BPSC**
 
@@ -1004,11 +1002,11 @@ D. John Sargeant
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Macaulay’s Minute 1835 = foundation tag for modern English education system.
+
 **Ans: B.** **Macaulay** — Minute **2 February 1835**.
 
 </details>
-
-**Logic:** Bentinck accepted Macaulay’s English-education policy.
 
 **Q13. RAS / IAS / UPPCS / BPSC**
 
@@ -1025,11 +1023,11 @@ D. Lord Canning
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Bentinck accepted Macaulay’s English-education policy.
+
 **Ans: B.** **Bentinck** — English education policy adopted **1835**.
 
 </details>
-
-**Logic:** Macaulay’s Minute date = 2 February 1835.
 
 **Q14. RAS / IAS / UPPCS / BPSC**
 
@@ -1046,11 +1044,11 @@ D. 15 August 1906
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Macaulay’s Minute date = 2 February 1835.
+
 **Ans: A.** **2 February 1835** — foundation tag for modern system.
 
 </details>
-
-**Logic:** First three universities = Calcutta, Bombay, Madras in 1857.
 
 **Q15. RAS / UPPCS / IAS**
 
@@ -1067,11 +1065,11 @@ D. 1904
 <details>
 <summary>Show answer</summary>
 
+**Logic:** First three universities = Calcutta, Bombay, Madras in 1857.
+
 **Ans: B.** **1857** — Calcutta, Bombay and Madras.
 
 </details>
-
-**Logic:** First women’s university in India = D.K. Karve.
 
 **Q16. RAS / UPPCS / IAS**
 
@@ -1088,11 +1086,11 @@ D. Pandita Ramabai
 <details>
 <summary>Show answer</summary>
 
+**Logic:** First women’s university in India = D.K. Karve.
+
 **Ans: B.** **D.K. Karve** — women’s university pioneer.
 
 </details>
-
-**Logic:** Deccan Education Society linked to Tilak (with Chiplunkar and Agarkar).
 
 **Q17. RAS / UPPCS / IAS**
 
@@ -1109,11 +1107,11 @@ D. Dadabhai Naoroji
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Deccan Education Society linked to Tilak (with Chiplunkar and Agarkar).
+
 **Ans: B.** **Tilak** — with Chiplunkar and Agarkar (Ranade as patron).
 
 </details>
-
-**Logic:** Earliest among listed colleges = Hindu College Calcutta 1817.
 
 **Q18. RAS / UPPCS / IAS**
 
@@ -1130,11 +1128,11 @@ D. MAO College, Aligarh (1877)
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Earliest among listed colleges = Hindu College Calcutta 1817.
+
 **Ans: A.** **Hindu College Calcutta 1817** — earliest in the set.
 
 </details>
-
-**Logic:** Fort William College (1800) = Richard Wellesley to train British civilians.
 
 **Q19. RAS / UPPCS / IAS**
 
@@ -1151,11 +1149,11 @@ D. Conduct civil-service competitive papers
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Fort William College (1800) = Richard Wellesley to train British civilians.
+
 **Ans: B.** **Richard Wellesley, 1800** — train **British civilians**.
 
 </details>
-
-**Logic:** Correct pair trap — Calcutta Madrasa–Hastings; Duncan≠Jones for Sanskrit College.
 
 **Q20. RAS / UPPCS / IAS**
 
@@ -1172,11 +1170,11 @@ D. Asiatic Society — Jonathan Duncan
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Correct pair trap — Calcutta Madrasa–Hastings; Duncan≠Jones for Sanskrit College.
+
 **Ans: B.** **Calcutta Madrasa–Hastings** only — Sanskrit College = **Duncan**; Fort William = **Richard Wellesley**.
 
 </details>
-
-**Logic:** National Council of Education = 15 August 1906 — swadeshi education response.
 
 **Q21. BPSC / UKPCS / UPPCS**
 
@@ -1193,11 +1191,11 @@ D. 15 August 1908
 <details>
 <summary>Show answer</summary>
 
+**Logic:** National Council of Education = 15 August 1906 — swadeshi education response.
+
 **Ans: B.** **15 August 1906** — swadeshi education stream.
 
 </details>
-
-**Logic:** Curzon’s Raleigh University Commission included Bilgrami and Gurudas Banerjee.
 
 **Q22. BPSC / UKPCS / UPPCS**
 
@@ -1214,11 +1212,11 @@ D. Rabindranath Tagore and Ashutosh Mukherjee
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Curzon’s Raleigh University Commission included Bilgrami and Gurudas Banerjee.
+
 **Ans: A.** **Syed Hussain Bilgrami** and **Justice Gurudas Banerjee**.
 
 </details>
-
-**Logic:** Malaviya championed religious/moral education and founded BHU.
 
 **Q23. BPSC / UKPCS / UPPCS**
 
@@ -1235,11 +1233,11 @@ D. Syed Ahmad Khan
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Malaviya championed religious/moral education and founded BHU.
+
 **Ans: B.** **Madan Mohan Malaviya** — BHU and religious education.
 
 </details>
-
-**Logic:** BHU foundation stone laid by Lord Hardinge.
 
 **Q24. BPSC / UKPCS / UPPCS**
 
@@ -1256,11 +1254,11 @@ D. Lord Irwin
 <details>
 <summary>Show answer</summary>
 
+**Logic:** BHU foundation stone laid by Lord Hardinge.
+
 **Ans: B.** **Lord Hardinge** — BHU foundation stone.
 
 </details>
-
-**Logic:** Central Hindu College = Annie Besant at Banaras.
 
 **Q25. BPSC / UKPCS / UPPCS**
 
@@ -1277,6 +1275,8 @@ D. Syed Ahmad Khan
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Central Hindu College = Annie Besant at Banaras.
+
 **Ans: B.** **Annie Besant** — Central Hindu College, Banaras.
 
 </details>
@@ -1286,8 +1286,6 @@ D. Syed Ahmad Khan
 ## Ghatnachakra Extra Drill — Press
 
 Teaching sits in **7.14–7.16**.
-
-**Logic:** First printing press in India = Portuguese at Goa, 1556.
 
 **Q26. Jharkhand / UPPCS / IAS / BPSC**
 
@@ -1304,11 +1302,11 @@ D. The French at Pondicherry in 1674
 <details>
 <summary>Show answer</summary>
 
+**Logic:** First printing press in India = Portuguese at Goa, 1556.
+
 **Ans: B.** **Portuguese, 1556 (Goa)** — first press.
 
 </details>
-
-**Logic:** First newspaper = Bengal Gazette (Hicky, 1780).
 
 **Q27. Jharkhand / UPPCS / IAS / BPSC**
 
@@ -1325,11 +1323,11 @@ D. Indian Mirror
 <details>
 <summary>Show answer</summary>
 
+**Logic:** First newspaper = Bengal Gazette (Hicky, 1780).
+
 **Ans: B.** **Bengal Gazette (Hicky, 1780)** — first newspaper.
 
 </details>
-
-**Logic:** First press censorship = Wellesley 1799.
 
 **Q28. Jharkhand / UPPCS / IAS / BPSC**
 
@@ -1346,11 +1344,11 @@ D. Lord Lytton (1878)
 <details>
 <summary>Show answer</summary>
 
+**Logic:** First press censorship = Wellesley 1799.
+
 **Ans: B.** **Wellesley (1799)** — first press censorship.
 
 </details>
-
-**Logic:** Vernacular Press Act 1878 = Lytton; repealed by Ripon.
 
 **Q29. Jharkhand / UPPCS / IAS / BPSC**
 
@@ -1367,11 +1365,11 @@ D. Lord Dufferin
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Vernacular Press Act 1878 = Lytton; repealed by Ripon.
+
 **Ans: B.** **Lytton 1878**, repealed by **Ripon**.
 
 </details>
-
-**Logic:** Metcalfe’s 1835 Press Act = “liberator of the press”; Bentinck prepared ground.
 
 **Q30. MPPCS / UPPCS / BPSC**
 
@@ -1388,11 +1386,11 @@ D. Lord Ripon
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Metcalfe’s 1835 Press Act = “liberator of the press”; Bentinck prepared ground.
+
 **Ans: B.** **Metcalfe, 1835** — Bentinck prepared the ground.
 
 </details>
-
-**Logic:** First Indian journalist jailed tag = Tilak.
 
 **Q31. MPPCS / UPPCS / BPSC**
 
@@ -1409,11 +1407,11 @@ D. Bipin Chandra Pal
 <details>
 <summary>Show answer</summary>
 
+**Logic:** First Indian journalist jailed tag = Tilak.
+
 **Ans: A.** **Tilak** — first jailed journalist tag.
 
 </details>
-
-**Logic:** Free Hindustan = Tarak Nath Das — revolutionary paper abroad.
 
 **Q32. MPPCS / UPPCS / BPSC**
 
@@ -1430,11 +1428,11 @@ D. Vinayak Damodar Savarkar
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Free Hindustan = Tarak Nath Das — revolutionary paper abroad.
+
 **Ans: B.** **Tarak Nath Das** — revolutionary weekly abroad.
 
 </details>
-
-**Logic:** Mirat-ul-Akhbar = Raja Ram Mohan Roy’s Persian paper.
 
 **Q33. MPPCS / UPPCS / BPSC**
 
@@ -1451,11 +1449,11 @@ D. Keshab Chandra Sen
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Mirat-ul-Akhbar = Raja Ram Mohan Roy’s Persian paper.
+
 **Ans: B.** **Raja Ram Mohan Roy** — Persian reform paper.
 
 </details>
-
-**Logic:** Indian Mirror = Calcutta — Brahmo-linked paper.
 
 **Q34. MPPCS / UPPCS / BPSC**
 
@@ -1472,11 +1470,11 @@ D. Lahore
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Indian Mirror = Calcutta — Brahmo-linked paper.
+
 **Ans: B.** **Calcutta** — reform-era paper.
 
 </details>
-
-**Logic:** Ghadar = Urdu weekly from 1 November 1913.
 
 **Q35. UPPCS / Chhattisgarh / BPSC / IAS**
 
@@ -1493,11 +1491,11 @@ D. Punjabi bi-weekly
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Ghadar = Urdu weekly from 1 November 1913.
+
 **Ans: B.** **Urdu weekly** — **1 November 1913**.
 
 </details>
-
-**Logic:** Amrita Bazar Patrika switched to English overnight in 1878 to escape VPA.
 
 **Q36. UPPCS / Chhattisgarh / BPSC / IAS**
 
@@ -1514,11 +1512,11 @@ D. The Hindu
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Amrita Bazar Patrika switched to English overnight in 1878 to escape VPA.
+
 **Ans: B.** **Amrita Bazar Patrika** — overnight English shift **1878**.
 
 </details>
-
-**Logic:** Kesari = Tilak’s Marathi paper (also Mahratta in English).
 
 **Q37. UPPCS / Chhattisgarh / BPSC / IAS**
 
@@ -1535,11 +1533,11 @@ D. Bipin Chandra Pal
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Kesari = Tilak’s Marathi paper (also Mahratta in English).
+
 **Ans: B.** **Tilak** — *Kesari* (also *Mahratta*).
 
 </details>
-
-**Logic:** Revolutionary advocacy papers = Sandhya, Yugantar, Kaal — not Young India.
 
 **Q38. UPPCS / Chhattisgarh / BPSC / IAS**
 
@@ -1556,11 +1554,11 @@ D. Commonweal and New India
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Revolutionary advocacy papers = Sandhya, Yugantar, Kaal — not Young India.
+
 **Ans: A.** **Sandhya, Yugantar, Kaal** — revolutionary trio. **Young India** is **not** in this set.
 
 </details>
-
-**Logic:** Som Prakash = Ishwar Chandra Vidyasagar.
 
 **Q39. UPPCS / Chhattisgarh / BPSC / IAS**
 
@@ -1577,11 +1575,11 @@ D. Madan Mohan Malaviya
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Som Prakash = Ishwar Chandra Vidyasagar.
+
 **Ans: B.** **Ishwar Chandra Vidyasagar** — *Som Prakash*.
 
 </details>
-
-**Logic:** Indian Opinion first editor = Mansukhlal Nazar — Gandhi’s South Africa paper.
 
 **Q40. UPPCS / Chhattisgarh / Jharkhand**
 
@@ -1598,11 +1596,11 @@ D. C.F. Andrews
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Indian Opinion first editor = Mansukhlal Nazar — Gandhi’s South Africa paper.
+
 **Ans: B.** **Mansukhlal Nazar** — first editor.
 
 </details>
-
-**Logic:** Indian Opinion did not use Urdu among its language set.
 
 **Q41. UPPCS / Chhattisgarh / Jharkhand**
 
@@ -1619,11 +1617,11 @@ D. Hindi
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Indian Opinion did not use Urdu among its language set.
+
 **Ans: C.** **Urdu** was **not** used — English, Gujarati, Hindi and Tamil were.
 
 </details>
-
-**Logic:** Harijan first published from Pune, 11 February 1933.
 
 **Q42. UPPCS / Chhattisgarh / Jharkhand**
 
@@ -1640,11 +1638,11 @@ D. Wardha
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Harijan first published from Pune, 11 February 1933.
+
 **Ans: B.** **Pune** — first issue **11 February 1933**.
 
 </details>
-
-**Logic:** Udant Martand = first Hindi newspaper from Calcutta.
 
 **Q43. UPPCS / Chhattisgarh / Jharkhand**
 
@@ -1661,11 +1659,11 @@ D. Agra
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Udant Martand = first Hindi newspaper from Calcutta.
+
 **Ans: B.** **Calcutta** — first Hindi paper.
 
 </details>
-
-**Logic:** Hindoo Patriot indigo campaign = Harish Chandra Mukherjee.
 
 **Q44. UPPCS / Chhattisgarh / Jharkhand**
 
@@ -1682,11 +1680,11 @@ D. Girish Chandra Ghosh
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Hindoo Patriot indigo campaign = Harish Chandra Mukherjee.
+
 **Ans: B.** **Harish Chandra Mukherjee** — indigo voice in *Hindoo Patriot*.
 
 </details>
-
-**Logic:** Vande Mataram English weekly linked to Aurobindo Ghosh stream.
 
 **Q45. UPPCS / Chhattisgarh / Jharkhand**
 
@@ -1703,11 +1701,11 @@ D. Dadabhai Naoroji
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Vande Mataram English weekly linked to Aurobindo Ghosh stream.
+
 **Ans: B.** **Aurobindo Ghosh** — with Pal in the founding line.
 
 </details>
-
-**Logic:** Wrong pair = Tahzeeb-ul-Akhbar–Jinnah; correct editor = Sir Syed Ahmad Khan.
 
 **Q46. UPPCS / IAS / UKPCS / BPSC**
 
@@ -1724,11 +1722,11 @@ D. Samvad Kaumudi — Raja Ram Mohan Roy
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Wrong pair = Tahzeeb-ul-Akhbar–Jinnah; correct editor = Sir Syed Ahmad Khan.
+
 **Ans: C.** **Tahzeeb-ul-Akhbar** = **Sir Syed Ahmad Khan**, not Jinnah.
 
 </details>
-
-**Logic:** Qaumi Awaz = Jawaharlal Nehru with Rafi Ahmad Kidwai.
 
 **Q47. UPPCS / IAS / UKPCS / BPSC**
 
@@ -1745,11 +1743,11 @@ D. B. R. Ambedkar
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Qaumi Awaz = Jawaharlal Nehru with Rafi Ahmad Kidwai.
+
 **Ans: B.** **Nehru** with **Kidwai** — *Qaumi Awaz*.
 
 </details>
-
-**Logic:** Pioneer = George Allen — Anglo-Indian daily.
 
 **Q48. UPPCS / IAS / UKPCS / BPSC**
 
@@ -1766,11 +1764,11 @@ D. James Augustus Hicky
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Pioneer = George Allen — Anglo-Indian daily.
+
 **Ans: B.** **George Allen** — *The Pioneer*.
 
 </details>
-
-**Logic:** Independent = Motilal Nehru — not Ambedkar.
 
 **Q49. UPPCS / IAS / UKPCS / BPSC**
 
@@ -1787,11 +1785,11 @@ D. Lala Lajpat Rai
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Independent = Motilal Nehru — not Ambedkar.
+
 **Ans: B.** **Motilal Nehru** — *The Independent*.
 
 </details>
-
-**Logic:** Bahishkrit Bharat = B.R. Ambedkar.
 
 **Q50. UPPCS / IAS / UKPCS / BPSC**
 
@@ -1808,11 +1806,11 @@ D. E.V. Ramaswami Naicker
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Bahishkrit Bharat = B.R. Ambedkar.
+
 **Ans: B.** **B.R. Ambedkar** — *Bahishkrit Bharat*.
 
 </details>
-
-**Logic:** Commonweal = Annie Besant.
 
 **Q51. UPPCS / IAS / UKPCS / BPSC**
 
@@ -1829,6 +1827,8 @@ D. Kamaladevi Chattopadhyay
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Commonweal = Annie Besant.
+
 **Ans: B.** **Annie Besant** — *Commonweal*.
 
 </details>
@@ -1836,8 +1836,6 @@ D. Kamaladevi Chattopadhyay
 ---
 
 ### UKPCS Complete PYQ Bank (Education and Press)
-
-**Logic:** Sargeant Plan 1944 — war-years universal elementary education blueprint.
 
 **Q1. UKPCS Prelims 2025, Q68**
 
@@ -1854,11 +1852,11 @@ D. 1856
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Sargeant Plan 1944 — war-years universal elementary education blueprint.
+
 **Ans: B (Series B provisional key).** The Sargeant Plan of **1944** proposed universal free and compulsory education for ages six to eleven within forty years.
 
 </details>
-
-**Logic:** First British madrasa Calcutta — UKPCS-tagged Extra cluster.
 
 **Q2. UKPCS / UPPCS**
 
@@ -1875,11 +1873,11 @@ D. Madras
 <details>
 <summary>Show answer</summary>
 
+**Logic:** First British madrasa Calcutta — UKPCS-tagged Extra cluster.
+
 **Ans: B.** **Calcutta** — Hastings, about **1780–81**.
 
 </details>
-
-**Logic:** Wood’s Despatch 1854 Magna Carta tag — UKPCS-tagged cluster.
 
 **Q3. UKPCS / UPPCS**
 
@@ -1896,11 +1894,11 @@ D. Sadler Commission Report of 1917
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Wood’s Despatch 1854 Magna Carta tag — UKPCS-tagged cluster.
+
 **Ans: B.** **Wood’s Despatch 1854**.
 
 </details>
-
-**Logic:** National Council of Education 1906 — UKPCS-tagged swadeshi education.
 
 **Q4. UKPCS / UPPCS**
 
@@ -1917,11 +1915,11 @@ D. 15 August 1908
 <details>
 <summary>Show answer</summary>
 
+**Logic:** National Council of Education 1906 — UKPCS-tagged swadeshi education.
+
 **Ans: B.** **15 August 1906**.
 
 </details>
-
-**Logic:** Tahzeeb–Jinnah wrong pair — UKPCS-tagged Press trap.
 
 **Q5. UKPCS / UPPCS**
 
@@ -1937,6 +1935,8 @@ D. Samvad Kaumudi — Raja Ram Mohan Roy
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Tahzeeb–Jinnah wrong pair — UKPCS-tagged Press trap.
 
 **Ans: C.** **Tahzeeb-ul-Akhbar** = **Sir Syed Ahmad Khan**, not Jinnah.
 

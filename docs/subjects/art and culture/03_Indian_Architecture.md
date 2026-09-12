@@ -3923,10 +3923,10 @@ B. Shiva — Dhanga
 C. Surya — Vidyadhara
 D. Parvati — Paramara
 
-**Logic:** Matangeshvara = Shiva linga temple of Dhanga’s age; Kandariya = Vidyadhara.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Matangeshvara = Shiva linga temple of Dhanga’s age; Kandariya = Vidyadhara.
 
 **Ans: B.** **Shiva** under **Dhanga**.
 
@@ -3941,10 +3941,10 @@ B. Elephanta Trimurti — mainly Shaiva, Rashtrakuta age
 C. Meenakshi Madurai — Pallava Mamalla style
 D. Dilwara Vimal Vasahi — Vimal Shah, Solanki milieu
 
-**Logic:** Meenakshi is Nayaka / Madurai gopuram peak, not Pallava.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Meenakshi is Nayaka / Madurai gopuram peak, not Pallava.
 
 **Ans: C.** **Meenakshi** ≠ Pallava.
 
@@ -3961,10 +3961,10 @@ D. Dilwara Vimal Vasahi — Vimal Shah, Solanki milieu
 How many of the above statements are correct?
 A. Only one B. Only two C. All three D. None
 
-**Logic:** 1 and 3 true; 2 false (not the only circular temple).
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** 1 and 3 true; 2 false (not the only circular temple).
 
 **Ans: B.** 1 and 3. Statement 2 is false.
 
@@ -3980,10 +3980,10 @@ A. Only one B. Only two C. All three D. None
 
 A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
-**Logic:** Omkareshwar is Shiva; only Arasavalli among that trap set is Sun.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Omkareshwar is Shiva; only Arasavalli among that trap set is Sun.
 
 **Ans: A.** 1 and 2. **Omkareshwar** is Shiva, not Surya.
 

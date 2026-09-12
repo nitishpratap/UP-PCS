@@ -343,8 +343,6 @@ India launched the first **Guide to Grasslands and Other Open Natural Ecosystems
 > Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.
 > Full cross-topic index → [Practice Zone hub](15_Practice_Zone.md).
 
-**Logic:** Two-statement trap on India–EU January meeting — FTA status vs defence/mobility MoUs.
-
 **Q1.** With reference to the India–European Union meeting held in January 2026, which of the following statements is/are correct?
 
 1. Both sides announced that the Free Trade Agreement talks had been concluded.
@@ -360,13 +358,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Two-statement trap on India–EU January meeting — FTA status vs defence/mobility MoUs.
+
 **Ans: D.** Statement 1 is true (talks finished / concluded messaging). Statement 2 is false — entry into force is a later legal step, not automatic on 27 January. Trap: treating “talks concluded” as “already in force”.
 
 </details>
 
 ---
-
-**Logic:** Venue + Sutras of AI Impact Summit; distractors Hyderabad/Mumbai and wrong pillars.
 
 **Q2.** With reference to the India–AI Impact Summit 2026, which of the following statements is/are correct?
 
@@ -383,13 +381,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Venue + Sutras of AI Impact Summit; distractors Hyderabad/Mumbai and wrong pillars.
+
 **Ans: C.** Both facts are correct. Trap: shifting venue to Hyderabad/Mumbai or replacing Sutras with random tech buzzwords.
 
 </details>
 
 ---
-
-**Logic:** CETA vs DCC — same date, different nature (FTA extra facts).
 
 **Q3.** With reference to India–United Kingdom agreements that entered into force on 15 July 2026, which of the following statements is/are correct?
 
@@ -407,13 +405,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** CETA vs DCC — same date, different nature (FTA extra facts).
+
 **Ans: A.** (1) and (2) true. (3) false — Oman deal is **CEPA**, not CETA. Trap: using CETA as a generic label for every trade pact.
 
 </details>
 
 ---
-
-**Logic:** IBCA — Saudi as 26th / first Arab member.
 
 **Q4.** With reference to the International Big Cat Alliance (IBCA), which of the following statements is/are correct?
 
@@ -431,13 +429,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** IBCA — Saudi as 26th / first Arab member.
+
 **Ans: A.** (1) and (2) true. (3) false — the summit was **rescheduled / postponed**. Trap: assuming every announced summit date was kept.
 
 </details>
 
 ---
-
-**Logic:** India–EU — NDMA partner and leaders (org / personality trap).
 
 **Q5.** With reference to the India–EU leaders’ meeting (January 2026), which of the following statements is/are correct?
 
@@ -455,13 +453,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** India–EU — NDMA partner and leaders (org / personality trap).
+
 **Ans: A.** (3) is the classic wrong partner. Trap: swapping Costa / von der Leyen roles or inserting NATO.
 
 </details>
 
 ---
-
-**Logic:** WTO MC14 venue + outcome.
 
 **Q6.** With reference to WTO Ministerial Conference 14 (MC14), which of the following statements is/are correct?
 
@@ -479,13 +477,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** WTO MC14 venue + outcome.
+
 **Ans: A.** (3) false — India (with partners such as South Africa in coverage) **opposed** that IFD push. Trap: Geneva as venue.
 
 </details>
 
 ---
-
-**Logic:** India–Korea Summit April 2026.
 
 **Q7.** With reference to the India–Republic of Korea Summit (April 2026), which of the following statements is/are correct?
 
@@ -503,13 +501,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** India–Korea Summit April 2026.
+
 **Ans: A.** (3) false — CEPA has been in force since **2010**; 2026 news is **review**. Trap: treating every CEPA headline as a brand-new deal.
 
 </details>
 
 ---
-
-**Logic:** G7 host + theme; Operation Amistad.
 
 **Q8.** With reference to June 2026 international coverage, which of the following statements is/are correct?
 
@@ -527,13 +525,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** G7 host + theme; Operation Amistad.
+
 **Ans: A.** (3) contradicts (1). Trap: recycling an older G7 host year.
 
 </details>
 
 ---
-
-**Logic:** Seychelles honour + Oman CEPA timing.
 
 **Q9.** With reference to June 2026 diplomacy / trade, which of the following statements is/are correct?
 
@@ -551,13 +549,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Seychelles honour + Oman CEPA timing.
+
 **Ans: A.** UK CETA is **15 July**. Trap: bundling all trade deals into June.
 
 </details>
 
 ---
-
-**Logic:** Hormuz soft understanding — Iran–Oman.
 
 **Q10.** With reference to soft West Asia coverage in August 2026, which of the following statements is/are correct?
 
@@ -574,13 +572,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Hormuz soft understanding — Iran–Oman.
+
 **Ans: D.** Soft IR — do not upgrade MoU-style language into a binding UNSC resolution. Trap: over-legalising soft coverage.
 
 </details>
 
 ---
-
-**Logic:** Pax Silica + GPAI at AI Summit.
 
 **Q11.** With reference to the India–AI Impact Summit 2026, which of the following statements is/are correct?
 
@@ -598,13 +596,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Pax Silica + GPAI at AI Summit.
+
 **Ans: A.** Sutras are **People, Planet, Progress**. Trap: economics triad as fake Sutras.
 
 </details>
 
 ---
-
-**Logic:** India–EU Green Hydrogen Task Force + Horizon Europe exploratory talks.
 
 **Q12.** With reference to India–EU January 2026 outcomes, which of the following statements is/are correct?
 
@@ -622,13 +620,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** India–EU Green Hydrogen Task Force + Horizon Europe exploratory talks.
+
 **Ans: A.** (3) false — partner is **DG-ECHO**.
 
 </details>
 
 ---
-
-**Logic:** Pax Silica is supply-chain / critical minerals — not a climate treaty.
 
 **Q13.** With reference to Pax Silica (AI Summit window), which of the following statements is/are correct?
 
@@ -646,13 +644,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Pax Silica is supply-chain / critical minerals — not a climate treaty.
+
 **Ans: A.** (3) invents a climate-treaty swap.
 
 </details>
 
 ---
-
-**Logic:** G7 membership recall.
 
 **Q14.** Which of the following is/are G7 members?
 
@@ -669,13 +667,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** G7 membership recall.
+
 **Ans: D.** India/Brazil are not G7 members. Trap: BRICS confusion.
 
 </details>
 
 ---
-
-**Logic:** Islamabad MoU soft IR — mediator Pakistan; IAEA monitoring language.
 
 **Q15.** With reference to the Islamabad MoU coverage (June 2026), which of the following statements is/are correct?
 
@@ -693,13 +691,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Islamabad MoU soft IR — mediator Pakistan; IAEA monitoring language.
+
 **Ans: A.** (3) over-legalises soft coverage.
 
 </details>
 
 ---
-
-**Logic:** Operation Amistad Venezuela HADR.
 
 **Q16.** With reference to Operation Amistad, which of the following statements is/are correct?
 
@@ -717,13 +715,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Operation Amistad Venezuela HADR.
+
 **Ans: A.** (3) invents a military blockade.
 
 </details>
 
 ---
-
-**Logic:** Uzbekistan honour name fact.
 
 **Q17.** Which honour did PM Modi receive in Uzbekistan (August 2026 coverage)?
 
@@ -735,13 +733,13 @@ D. Guardian of the Blue Horizon
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Uzbekistan honour name fact.
+
 **Ans: B.** Dustlik = Uzbekistan. Others are Slovakia / Indonesia / Seychelles.
 
 </details>
 
 ---
-
-**Logic:** IBCA summit theme / Delhi Declaration expectation.
 
 **Q18.** With reference to the postponed IBCA Summit (June window), which of the following statements is/are correct?
 
@@ -759,13 +757,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** IBCA summit theme / Delhi Declaration expectation.
+
 **Ans: A.** (3) false — rescheduled.
 
 </details>
 
 ---
-
-**Logic:** India–Oman CEPA duty-free share idea.
 
 **Q19.** With reference to India–Oman CEPA, which of the following statements is/are correct?
 
@@ -783,13 +781,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** India–Oman CEPA duty-free share idea.
+
 **Ans: A.** (3) CEPA ≠ CETA.
 
 </details>
 
 ---
-
-**Logic:** WTO MC14 Africa second ministerial.
 
 **Q20.** With reference to WTO MC14, which of the following statements is/are correct?
 
@@ -806,6 +804,8 @@ D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** WTO MC14 Africa second ministerial.
 
 **Ans: A.** (3) wrong African capital.
 

@@ -3918,8 +3918,6 @@ D. A-3, B-1, C-2, D-4
 
 Reason (R): The Supreme Court in *I.R. Coelho* held that the Ninth Schedule is not a complete immunity from judicial review.
 
-**A/R logic:** A tests the post-*Kesavananda* cut-off for Ninth Schedule entries. R tests the *I.R. Coelho* holding. R correctly explains why A is true.
-
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 C. (A) is true, but (R) is false
@@ -3927,6 +3925,8 @@ D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
+
+**A/R logic:** A tests the post-*Kesavananda* cut-off for Ninth Schedule entries. R tests the *I.R. Coelho* holding. R correctly explains why A is true.
 
 **Ans: A** — Cut-off is **24 April 1973** (*Kesavananda* date). *I.R. Coelho* (2007) opened post-cut-off Ninth Schedule laws to Basic Structure review. A true; R true; R explains A.
 </details>

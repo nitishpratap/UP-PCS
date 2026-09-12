@@ -594,8 +594,6 @@ D. None of the above
 
 ## Extra Drill — Ghatnachakra Forest & Wildlife (Q31–Q40)
 
-**Logic:** These stems recycle evergreen/teak/mangrove/NFP/ISFR traps from standard banks.
-
 **Q31.** Tropical evergreen forests in India are typically found in:
 
 A. Malwa Plateau
@@ -608,6 +606,8 @@ D. Only Himachal Pradesh
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** These stems recycle evergreen/teak/mangrove/NFP/ISFR traps from standard banks.
 
 **Ans: C.** Evergreen belts need >**200 cm** rain — Western Ghats, NE hills, A&N. Himachal is mainly pine/temperate, not tropical wet evergreen.
 

@@ -251,8 +251,6 @@ Options: A. 25 December B. 21 April C. 16 September D. 30 January
 
 ## Complete PYQ Bank (Topic 31)
 
-**Logic:** Wildlife Day on 22 March is the classic wrong pair — correct date is 3 March (CITES); Water Day is 22 March.
-
 **Q1. UPPCS Prelims 2025, Q62**
 
 Which of the following pair(s) is/are **NOT** correctly matched?
@@ -272,13 +270,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Wildlife Day on 22 March is the classic wrong pair — correct date is 3 March (CITES); Water Day is 22 March.
+
 **Ans: B.** Pairs 1 and 2 are correct. **World Wildlife Day = 3 March** (CITES 1973); **22 March = World Water Day**. **Trap:** Same “22” number chain — Wildlife vs Water vs Biodiversity (22 May).
 
 </details>
 
 ---
-
-**Logic:** Ramsar adoption date — World Wetlands Day is 2 February only.
 
 **Q2. UPPCS Prelims 2023, Q147**
 
@@ -295,13 +293,13 @@ D. 2 February
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Ramsar adoption date — World Wetlands Day is 2 February only.
+
 **Ans: D.** Marks Ramsar Convention adoption at Ramsar, Iran (**2 February 1971**). **Trap:** 2 March, 3 March (Wildlife), or 22 March (Water).
 
 </details>
 
 ---
-
-**Logic:** Ozone Day = Montreal signing date, 16 September — not WED 5 June.
 
 **Q3. UPPCS Prelims 2022, Q82**
 
@@ -318,13 +316,13 @@ D. January 30
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Ozone Day = Montreal signing date, 16 September — not WED 5 June.
+
 **Ans: B.** **16 September** — Montreal Protocol signed **1987**; entered into force **1 January 1989**. **Trap:** Gandhi Jayanti (2 Oct), Earth Day (22 Apr), or WED (5 Jun).
 
 </details>
 
 ---
-
-**Logic:** Same Ozone Day fact — UPPCS 2021 stem wording variant.
 
 **Q4. UPPCS Prelims 2021, Q114**
 
@@ -341,13 +339,13 @@ D. 30 January
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Same Ozone Day fact — UPPCS 2021 stem wording variant.
+
 **Ans: C.** International Day for the Preservation of the Ozone Layer = **16 September**. **Trap:** 21 April (Earth Day) or 5 June (WED).
 
 </details>
 
 ---
-
-**Logic:** World Population Day = 11 July — 5 June is WED distractor in 2018-style stems.
 
 **Q5. UPPCS Prelims 2018 — pattern**
 
@@ -364,13 +362,13 @@ D. 2 February
 <details>
 <summary>Show answer</summary>
 
+**Logic:** World Population Day = 11 July — 5 June is WED distractor in 2018-style stems.
+
 **Ans: A.** **Population Day = 11 July**. **Trap:** 5 June looks “environmental” but is **World Environment Day (Stockholm 1972)**.
 
 </details>
 
 ---
-
-**Logic:** WED anchor — 5 June, Stockholm Conference opening 1972, run by UNEP.
 
 **Q6. UPSC / pattern**
 
@@ -387,13 +385,13 @@ D. 16 September (Montreal Protocol)
 <details>
 <summary>Show answer</summary>
 
+**Logic:** WED anchor — 5 June, Stockholm Conference opening 1972, run by UNEP.
+
 **Ans: A.** WED = **5 June** — UNEP-led UN day from Stockholm **1972**. **Trap:** Earth Day (22 Apr) or Ozone Day (16 Sep) as “the” global environment day.
 
 </details>
 
 ---
-
-**Logic:** Earth Day civic origin — 22 April 1970 USA teach-ins; not a UN treaty day like WED.
 
 **Q7. Pattern**
 
@@ -410,13 +408,13 @@ D. 21 March
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Earth Day civic origin — 22 April 1970 USA teach-ins; not a UN treaty day like WED.
+
 **Ans: A.** **Earth Day = 22 April** — global civic movement from 1970 US origin. **Trap:** 22 March (Water), 22 May (Biodiversity), or 5 June (WED).
 
 </details>
 
 ---
-
-**Logic:** CBD text adoption — Biological Diversity Day = 22 May (not March/April).
 
 **Q8. Pattern**
 
@@ -433,13 +431,13 @@ D. 3 March
 <details>
 <summary>Show answer</summary>
 
+**Logic:** CBD text adoption — Biological Diversity Day = 22 May (not March/April).
+
 **Ans: A.** **22 May** marks Nairobi **1992** CBD text adoption (observed from 2000 onward in UN calendar). **Trap:** 22 March (Water) or 3 March (Wildlife/CITES).
 
 </details>
 
 ---
-
-**Logic:** UN-Water coordinates World Water Day — 22 March in the March ladder after Wildlife (3) and Forests (21).
 
 **Q9. Pattern**
 
@@ -456,13 +454,13 @@ D. 2 February
 <details>
 <summary>Show answer</summary>
 
+**Logic:** UN-Water coordinates World Water Day — 22 March in the March ladder after Wildlife (3) and Forests (21).
+
 **Ans: A.** **Water = 22 March** — between International Day of Forests (**21 March**) and Earth Day (**22 April**). **Trap:** 3 March (Wildlife) — the 2025 Q62 killer pair.
 
 </details>
 
 ---
-
-**Logic:** CITES anniversary — Wildlife Day 3 March; proclaimed by UN 2013.
 
 **Q10. Pattern**
 
@@ -478,6 +476,8 @@ D. 29 July (International Tiger Day)
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** CITES anniversary — Wildlife Day 3 March; proclaimed by UN 2013.
 
 **Ans: A.** **Wildlife Day = 3 March** — CITES **1973**; UN proclaimed **2013**. **Trap:** 22 March (Water), October Wildlife Week, or 29 July Tiger Day.
 

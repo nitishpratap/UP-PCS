@@ -56,8 +56,6 @@
 
 ## UKPCS Inline PYQ
 
-**Logic:** Both working description and purpose are true.
-
 **UKPCS Prelims 2025, Q129**
 
 With reference to mobile courts in Uttarakhand, consider the following statements:
@@ -72,6 +70,8 @@ D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Both working description and purpose are true.
 
 **Ans: C (Series B provisional key).** Equipment-on-wheels and remote-access purpose are both correct.
 

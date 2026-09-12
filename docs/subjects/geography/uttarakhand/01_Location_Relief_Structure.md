@@ -136,8 +136,6 @@
 
 ## UKPCS Inline PYQs
 
-**Logic:** Thrusts bound Himalayan zones from south to north.
-
 **UKPCS Prelims 2025, Q101**
 
 Which part of the Himalaya is situated between the Main Boundary Thrust and the Main Central Thrust?
@@ -150,11 +148,11 @@ D. Tethys Himalayan zone
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Thrusts bound Himalayan zones from south to north.
+
 **Ans: B (Series B provisional key).** Lesser Himalaya lies between MBT (south) and MCT (north). Shiwalik is south of MBT.
 
 </details>
-
-**Logic:** Direction of reading is the trap; Tarai is at the southern edge.
 
 **UKPCS Prelims 2025, Q110**
 
@@ -168,6 +166,8 @@ D. Great Himalaya, Tarai, Lesser Himalaya, Shiwalik
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Direction of reading is the trap; Tarai is at the southern edge.
+
 **Ans: C (Series B provisional key).** Plains-edge Tarai first, then Shiwalik, Lesser Himalaya, Great Himalaya.
 
 </details>
@@ -175,8 +175,6 @@ D. Great Himalaya, Tarai, Lesser Himalaya, Shiwalik
 ---
 
 ## Practice Zone
-
-**Logic:** Which belt is wrong for “between MBT and MCT”?
 
 **Q1.** The Shiwalik zone of Uttarakhand lies:
 
@@ -188,11 +186,11 @@ D. In the Tethys Himalaya
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Which belt is wrong for “between MBT and MCT”?
+
 **Ans: C.** Shiwalik is south of the Main Boundary Thrust.
 
 </details>
-
-**Logic:** Porous gravel belt versus marshy reappearance belt.
 
 **Q2.** In the foothill sequence of Uttarakhand, streams often sink in the Bhabar and reappear in the:
 
@@ -203,6 +201,8 @@ D. Central crystalline zone
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Porous gravel belt versus marshy reappearance belt.
 
 **Ans: B.** Bhabar is porous gravel where streams sink; Tarai is where water reappears as marshy fertile land.
 

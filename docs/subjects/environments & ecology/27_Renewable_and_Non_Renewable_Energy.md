@@ -687,8 +687,6 @@ D. Trading Ramsar wetland credits
 
 ## Extra Drill — Energy Classification & Biofuels (Q31–Q40)
 
-**Logic:** Classification swaps (renewable / fossil / nuclear / biomass) and biofuel feedstock pairs are the densest traps.
-
 **Q31.** Energy crisis commonly means:
 
 A. Only shortage of hydroelectricity
@@ -701,6 +699,8 @@ D. Only shortage of thermal power plants
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Classification swaps (renewable / fossil / nuclear / biomass) and biofuel feedstock pairs are the densest traps.
 
 **Ans: C.** UN Decade of Sustainable Energy for All = **2014–2024** (UN initiative).
 

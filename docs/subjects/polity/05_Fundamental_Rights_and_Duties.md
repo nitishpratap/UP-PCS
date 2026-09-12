@@ -1133,8 +1133,6 @@ D. To abide by the Constitution and respect its ideals
 
 ### UKPCS Prelims 2025
 
-**Logic:** Equality of opportunity sits in Article 16, not Article 19(1).
-
 **Q. UKPCS Prelims 2025, Q120**
 
 Which right is/are not included in the 'Right to Freedom' under Article 19(1)?

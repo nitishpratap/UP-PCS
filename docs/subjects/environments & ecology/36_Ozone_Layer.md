@@ -252,8 +252,6 @@ World / International Ozone Day date:
 
 ## Complete PYQ Bank (Topic 36)
 
-**Logic:** Both UV-shield role and CFC–depletion link are standard facts — answer both statements.
-
 **Q1. UPPCS Prelims 2025, Q45**
 
 With reference to the ozone layer:
@@ -272,13 +270,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Both UV-shield role and CFC–depletion link are standard facts — answer both statements.
+
 **Ans: C.** Stratospheric ozone absorbs **UV-B/C**; **CFCs** release stratospheric chlorine radicals. **Trap:** Treating ground-level O3 smog as the protective layer.
 
 </details>
 
 ---
-
-**Logic:** International Ozone Day = Montreal signing date, 16 September.
 
 **Q2. UPPCS Prelims 2025, Q62 — Ozone Day pair**
 
@@ -295,13 +293,13 @@ D. 2 February
 <details>
 <summary>Show answer</summary>
 
+**Logic:** International Ozone Day = Montreal signing date, 16 September.
+
 **Ans: B.** **16 September** marks Montreal Protocol signature (**1987**). **Trap:** 5 June (WED) or 22 March (Water Day).
 
 </details>
 
 ---
-
-**Logic:** Montreal = ozone/ODS; Kyoto = climate — 2024 Q35 mitigation stem.
 
 **Q3. UPPCS Prelims 2024, Q35**
 
@@ -318,13 +316,13 @@ D. CITES
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Montreal = ozone/ODS; Kyoto = climate — 2024 Q35 mitigation stem.
+
 **Ans: C.** **Kyoto** mitigates GHGs; **Montreal** phases out **ODS**. **Trap:** Montreal because it is the headline ozone treaty in this chapter.
 
 </details>
 
 ---
-
-**Logic:** Ozone layer stratosphere location — overlaps Topic 35 but anchored here for ozone science.
 
 **Q4. UPPCS Prelims 2023, Q52**
 
@@ -341,13 +339,13 @@ D. Thermosphere
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Ozone layer stratosphere location — overlaps Topic 35 but anchored here for ozone science.
+
 **Ans: C.** ~**90%** of ozone is stratospheric. **Trap:** Troposphere pair in NOT-matched lists.
 
 </details>
 
 ---
-
-**Logic:** Ozone Day date recurrence — 2022 wording variant.
 
 **Q5. UPPCS Prelims 2022, Q82**
 
@@ -364,13 +362,13 @@ D. January 30
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Ozone Day date recurrence — 2022 wording variant.
+
 **Ans: B.** **16 September** — Montreal Protocol date. **Trap:** Gandhi Jayanti or Earth Day month swaps.
 
 </details>
 
 ---
-
-**Logic:** Photochemical smog always contains tropospheric ozone — secondary pollutant, distinct from stratospheric shield.
 
 **Q6. UPPCS Prelims 2022, Q46**
 
@@ -387,13 +385,13 @@ D. Aluminium ion
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Photochemical smog always contains tropospheric ozone — secondary pollutant, distinct from stratospheric shield.
+
 **Ans: B.** **NOx + VOCs + sunlight → O3 + PAN** in photochemical smog. **Trap:** Confusing this bad ground O3 with stratospheric good ozone location.
 
 </details>
 
 ---
-
-**Logic:** 2021 Ozone Day stem — same 16 September key.
 
 **Q7. UPPCS Prelims 2021, Q114**
 
@@ -410,13 +408,13 @@ D. 30 January
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 2021 Ozone Day stem — same 16 September key.
+
 **Ans: C.** **16 September** worldwide. **Trap:** 21 April (Earth Day).
 
 </details>
 
 ---
-
-**Logic:** Treaty match trap — Kyoto is climate/GHG, not save water; Montreal–ozone is correct.
 
 **Q8. UPPCS Prelims 2019, Q132**
 
@@ -433,13 +431,13 @@ D. Kyoto — Save water
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Treaty match trap — Kyoto is climate/GHG, not save water; Montreal–ozone is correct.
+
 **Ans: D.** **Kyoto = climate/GHG mitigation**, not a water treaty. Montreal–ozone is correct. **Trap:** Kyoto paired with ozone or water because of generic environment label.
 
 </details>
 
 ---
-
-**Logic:** UV radiation produces ozone photochemically; wrong pair = ozone layer in troposphere.
 
 **Q9. UPPCS Prelims 2018, Q52 / Q55 / Q57 — set**
 
@@ -459,13 +457,13 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
+**Logic:** UV radiation produces ozone photochemically; wrong pair = ozone layer in troposphere.
+
 **Ans: A.** Statement 1 is true (UV-driven O3 chemistry). Statement 2 is false — ozone **layer = stratosphere**. **Trap:** Accepting pair ozone layer — troposphere on match lists (2018 Q57).
 
 </details>
 
 ---
-
-**Logic:** Vienna 1985 framework → Montreal 1987 binding ODS phase-out; force date 1 Jan 1989.
 
 **Q10. Pattern**
 
@@ -481,6 +479,8 @@ D. Vienna alone banned all CFCs without Montreal schedules
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Vienna 1985 framework → Montreal 1987 binding ODS phase-out; force date 1 Jan 1989.
 
 **Ans: A.** **Vienna = framework/cooperation**; **Montreal = binding ODS cuts** (signed 16 Sep 1987, force **1 Jan 1989**). **Trap:** Vienna alone as full CFC ban, or reversing treaty order.
 

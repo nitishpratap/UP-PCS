@@ -330,8 +330,6 @@ LiFE: (1) Launched in June 2022. (2) Idea proposed at COP-25 in Madrid.
 
 ## Complete PYQ Bank (Topic 44)
 
-**Logic:** LiFE — launch June 2022 true; idea was at COP26 Glasgow 2021, not COP-25 Madrid.
-
 **Q1. UPPCS Prelims 2025, Q139**
 
 With reference to Mission LiFE, consider the following statements:
@@ -347,11 +345,11 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** LiFE — launch June 2022 true; idea was at COP26 Glasgow 2021, not COP-25 Madrid.
+
 **Ans: D (Only 1).** Launch **June 2022** true; idea = **COP26 Glasgow 2021**, not COP-25 Madrid. **Trap:** Madrid 2019 COP number swap.
 
 </details>
-
-**Logic:** MISHTI restores mangroves (true) but was announced in Union Budget 2023–24, not 2019.
 
 **Q2. UPPCS Prelims 2025, Q93**
 
@@ -368,11 +366,11 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** MISHTI restores mangroves (true) but was announced in Union Budget 2023–24, not 2019.
+
 **Ans: A (Only 2).** Mangrove restoration aim true; year is **Budget 2023–24**, not 2019. **Trap:** Any coastal scheme dated to 2019 by habit.
 
 </details>
-
-**Logic:** Org–report match — Emissions Gap Report publisher is UNEP, not IPCC or UNDP.
 
 **Q3. UPPCS Prelims 2024, Q6**
 
@@ -386,11 +384,11 @@ D. WWF
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Org–report match — Emissions Gap Report publisher is UNEP, not IPCC or UNDP.
+
 **Ans: A.** Full paper code **A (3 1 4 2)** — Gap→**UNEP**; HDR→UNDP; WEO→IMF; WIR→UNCTAD. **Trap:** IPCC because “emissions” sounds like climate science body.
 
 </details>
-
-**Logic:** Net zero allows balance via removals — not the same as gross zero (all emissions to absolute zero by 2050).
 
 **Q4. UPPCS Prelims 2021, Q70**
 
@@ -407,11 +405,11 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Net zero allows balance via removals — not the same as gross zero (all emissions to absolute zero by 2050).
+
 **Ans: B (Only 2).** Stmt 1 = **gross zero** wording; net zero **balances** with sinks/removals. **Trap:** Treating net zero as “no emissions at all.”
 
 </details>
-
-**Logic:** Ecological footprint measures human pressure on nature in global hectares (gha) — broader than GHG-only carbon accounting.
 
 **Q5. UPPCS Prelims (pattern)**
 
@@ -425,11 +423,11 @@ D. BOD in mg/L only
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Ecological footprint measures human pressure on nature in global hectares (gha) — broader than GHG-only carbon accounting.
+
 **Ans: A.** **EF in gha** includes cropland, forest, carbon uptake land, etc. **Trap:** Same unit as carbon footprint (tCO₂e).
 
 </details>
-
-**Logic:** Carbon footprint unit is tCO₂e; Scope 1 direct, Scope 2 purchased energy, Scope 3 value chain.
 
 **Q6. UPPCS Prelims (pattern)**
 
@@ -443,11 +441,11 @@ D. Dobson Units
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Carbon footprint unit is tCO₂e; Scope 1 direct, Scope 2 purchased energy, Scope 3 value chain.
+
 **Ans: A.** **tCO₂e** for GHG totals; scopes 1/2/3 cover direct, purchased energy, and indirect chain. **Trap:** gha unit from ecological footprint.
 
 </details>
-
-**Logic:** India pledged net zero by 2070 at COP26 Glasgow 2021 — not 2050 like EU/UK.
 
 **Q7. UPPCS Prelims (pattern)**
 
@@ -461,11 +459,11 @@ D. 2100
 <details>
 <summary>Show answer</summary>
 
+**Logic:** India pledged net zero by 2070 at COP26 Glasgow 2021 — not 2050 like EU/UK.
+
 **Ans: A.** **Net zero by 2070** (COP26, 2021); NDC 2030 has 45% intensity cut and 50% non-fossil capacity tracks. **Trap:** 2050 EU/UK year applied to India.
 
 </details>
-
-**Logic:** Microplastics are plastic particles smaller than 5 mm — primary (microbeads) or secondary (fragmentation).
 
 **Q8. UPPCS Prelims (pattern)**
 
@@ -479,11 +477,11 @@ D. 50 km
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Microplastics are plastic particles smaller than 5 mm — primary (microbeads) or secondary (fragmentation).
+
 **Ans: A.** Threshold **<5 mm**; India’s **SUP ban July 2022** cuts primary sources. **Trap:** 5 cm or “biodegrade in weeks” distractors.
 
 </details>
-
-**Logic:** Green hydrogen from renewable-powered electrolysis; National Green Hydrogen Mission January 2023 targets ~5 MMT/year by 2030.
 
 **Q9. UPPCS Prelims (pattern)**
 
@@ -497,11 +495,11 @@ D. Diesel generator electrolysis
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Green hydrogen from renewable-powered electrolysis; National Green Hydrogen Mission January 2023 targets ~5 MMT/year by 2030.
+
 **Ans: A.** **Green H₂** = renewables + electrolysis; **Mission 2023 → ~5 MMT by 2030**. **Trap:** Grey hydrogen labelled “green.”
 
 </details>
-
-**Logic:** Blue economy = SDG 14 oceans; circular economy = material loops (SDG 12); NbS = ecosystem actions, not geoengineering; climate migrants lack 1951 Refugee Convention status.
 
 **Q10. UPPCS Prelims (pattern)**
 
@@ -514,6 +512,8 @@ D. Ecological footprint in tCO₂e; carbon footprint in gha; NbS = sulphate aero
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Blue economy = SDG 14 oceans; circular economy = material loops (SDG 12); NbS = ecosystem actions, not geoengineering; climate migrants lack 1951 Refugee Convention status.
 
 **Ans: A.** Consolidates syllabus traps: **SDG 14**, **circular ⊂ green**, **NbS ≠ geoengineering**, **no 1951 climate-refugee status**. **Trap:** Any option mixing footprint units or LiFE/MISHTI dates.
 

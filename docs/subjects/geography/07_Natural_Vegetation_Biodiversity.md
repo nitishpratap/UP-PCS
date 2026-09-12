@@ -350,8 +350,6 @@ Also called **tropical thorn forests** or arid forests. Plants are **xerophytes*
 
 Montane forests are an **altitude elevator**, not a plains rain ladder. Above about **900 m**, temperature (height) rules the belt. Mountain forests split into two sets: **northern (Himalayan)** and **southern (peninsular hills)**.
 
-**Logic:** Different Himalayan vegetation appears **because** climate changes with altitude.
-
 #### Quick Himalayan stack (foothills up to snow)
 
 | Height (approx.) | Belt | What you see |
@@ -1988,8 +1986,6 @@ D. Fern
 
 ### UKPCS Prelims 2025
 
-**Logic:** Three Himalayan conifers vs one tropical deciduous hardwood.
-
 **Q. UKPCS Prelims 2025, Q91**
 
 Which tree is not of the evergreen forest type?
@@ -2002,11 +1998,11 @@ D. Blue pine
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Three Himalayan conifers vs one tropical deciduous hardwood.
+
 **Ans: C (Series B provisional key).** Sal is tropical moist deciduous; the three conifers are evergreen.
 
 </details>
-
-**Logic:** Kanha–Madhya Pradesh anchors the match code.
 
 **Q. UKPCS Prelims 2025, Q99**
 
@@ -2028,6 +2024,8 @@ D. A-1, B-3, C-2, D-4
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Kanha–Madhya Pradesh anchors the match code.
 
 **Ans: A (Series B provisional key).** Simlipal–Odisha; Indravati–Chhattisgarh; Kanha–MP; Bandipur–Karnataka.
 

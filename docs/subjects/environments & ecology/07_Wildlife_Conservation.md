@@ -491,8 +491,6 @@ D. October 28
 
 ## Extra Drill — Species, Schedules & Institutions (Q31–Q40)
 
-**Logic:** Schedule levels, Indian vs exotic fauna, and institution years are high-yield traps.
-
 **Q31.** If a tortoise is listed under Schedule I of WPA 1972, it implies:
 
 A. It is extinct in the wild
@@ -505,6 +503,8 @@ D. It may be hunted as vermin
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Schedule levels, Indian vs exotic fauna, and institution years are high-yield traps.
 
 **Ans: B.** Schedule I = maximum protection, same band as tiger.
 

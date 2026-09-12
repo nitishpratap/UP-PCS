@@ -870,8 +870,6 @@ D. Pulin Bihari
 
 Teaching sits in **11.5–11.16**.
 
-**Logic:** Mitra Mela → Abhinav Bharat (Savarkar, Maharashtra); RSS 1925 Hedgewar ≠ revolutionary HRA; Chapekar → Tilak Lokmanya / 124-A.
-
 **Q1. UPPCS / IAS / BPSC / MPPCS**
 
 Who transformed the Mitra Mela into Abhinav Bharat?
@@ -887,11 +885,11 @@ D. Lala Lajpat Rai
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Mitra Mela → Abhinav Bharat (Savarkar, Maharashtra); RSS 1925 Hedgewar ≠ revolutionary HRA; Chapekar → Tilak Lokmanya / 124-A.
+
 **Ans: B.** **V.D. Savarkar** organised **Abhinav Bharat** from **Mitra Mela** in **Maharashtra**.
 
 </details>
-
-**Logic:** Abhinav Bharat region = Maharashtra, not Bengal or Punjab.
 
 **Q2. UPPCS / IAS / BPSC / MPPCS**
 
@@ -908,11 +906,11 @@ D. United Provinces
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Abhinav Bharat region = Maharashtra, not Bengal or Punjab.
+
 **Ans: B.** **Maharashtra** — Savarkar’s circle. Do not confuse with Bengal’s Anushilan or Yugantar.
 
 </details>
-
-**Logic:** RSS = Hedgewar, 27 Sep 1925, Nagpur — not a bomb society like HRA.
 
 **Q3. UPPCS / IAS / BPSC / MPPCS**
 
@@ -929,11 +927,11 @@ D. B.S. Moonje at Wardha in 1930
 <details>
 <summary>Show answer</summary>
 
+**Logic:** RSS = Hedgewar, 27 Sep 1925, Nagpur — not a bomb society like HRA.
+
 **Ans: B.** **K.B. Hedgewar**, **Nagpur**, **27 September 1925**. RSS is a cultural organisation — not Kakori/HRA/HSRA.
 
 </details>
-
-**Logic:** Lokmanya rise = after 1897 sedition in Chapekar/Rand climate under IPC 124-A.
 
 **Q4. UPPCS / IAS / BPSC / MPPCS**
 
@@ -950,11 +948,11 @@ D. the Lucknow Pact of 1916
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Lokmanya rise = after 1897 sedition in Chapekar/Rand climate under IPC 124-A.
+
 **Ans: B.** **July 1897** sedition under **IPC 124-A** after the **Chapekar/Rand** episode made Tilak an all-India name.
 
 </details>
-
-**Logic:** Yugantar/Bagha Jatin; Anushilan founders; Patna branch Sanyal 1913; Barrah = Pulin / East Bengal; Muzaffarpur = Khudiram–Chaki 1908; Alipore defence = C.R. Das.
 
 **Q5. UPPCS / IAS / BPSC**
 
@@ -971,11 +969,11 @@ D. Sachindra Nath Sanyal
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Yugantar/Bagha Jatin; Anushilan founders; Patna branch Sanyal 1913; Barrah = Pulin / East Bengal; Muzaffarpur = Khudiram–Chaki 1908; Alipore defence = C.R. Das.
+
 **Ans: B.** **Bagha Jatin** leads **Yugantar** tags. Anushilan Calcutta = **P. Mitra** circle; Dhaka = **Pulin Behari Das**.
 
 </details>
-
-**Logic:** Patna Anushilan branch = Sachindra Nath Sanyal, 1913.
 
 **Q6. UPPCS / IAS / BPSC**
 
@@ -992,11 +990,11 @@ D. Barindra Kumar Ghosh
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Patna Anushilan branch = Sachindra Nath Sanyal, 1913.
+
 **Ans: B.** **Sachindra Nath Sanyal** opened the **Patna** branch in **1913**.
 
 </details>
-
-**Logic:** Kingsford bomb attempt = Muzaffarpur, 30 April 1908 (Khudiram–Prafulla Chaki).
 
 **Q7. UPPCS / IAS / BPSC**
 
@@ -1013,11 +1011,11 @@ D. Chittagong
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Kingsford bomb attempt = Muzaffarpur, 30 April 1908 (Khudiram–Prafulla Chaki).
+
 **Ans: B.** **Muzaffarpur**, **30 April 1908** — **Khudiram Bose** and **Prafulla Chaki**. **Barrah dacoity (1908)** = **East Bengal** under **Pulin Behari Das**.
 
 </details>
-
-**Logic:** Alipore bomb trial defence counsel = Chittaranjan Das for Aurobindo.
 
 **Q8. UPPCS / IAS / BPSC**
 
@@ -1034,11 +1032,11 @@ D. Mohammad Ali Jinnah
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Alipore bomb trial defence counsel = Chittaranjan Das for Aurobindo.
+
 **Ans: B.** **Chittaranjan Das** defended **Aurobindo** at **Alipore**.
 
 </details>
-
-**Logic:** HRA Kanpur 1924; Kakori 9 Aug 1925 HRA not HSRA; hanged Bismil–Ashfaq–Roshan–Lahiri; Azad escaped; Ashfaq first Muslim hanged; Bismil Gorakhpur; Sarfaroshi ≠ Ram Prasad.
 
 **Q9. UPPCS / UKPCS / BPSC / MPPCS**
 
@@ -1055,11 +1053,11 @@ D. 1928
 <details>
 <summary>Show answer</summary>
 
+**Logic:** HRA Kanpur 1924; Kakori 9 Aug 1925 HRA not HSRA; hanged Bismil–Ashfaq–Roshan–Lahiri; Azad escaped; Ashfaq first Muslim hanged; Bismil Gorakhpur; Sarfaroshi ≠ Ram Prasad.
+
 **Ans: B.** **Kanpur, October 1924** — **Sachindra Nath Sanyal** was president. **1928** = **HSRA** at **Feroz Shah Kotla**.
 
 </details>
-
-**Logic:** Kakori = 9 Aug 1925 under HRA, not HSRA.
 
 **Q10. UPPCS / UKPCS / BPSC / MPPCS**
 
@@ -1076,11 +1074,11 @@ D. Indian Republican Army, Chittagong
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Kakori = 9 Aug 1925 under HRA, not HSRA.
+
 **Ans: B.** **Kakori = HRA (1925)**. Labelling it **HSRA** is a standard trap — **Socialist** was added only in **1928**.
 
 </details>
-
-**Logic:** Azad escaped Kakori hangings; Bismil, Ashfaqulla, Roshan Singh, Rajendra Lahiri hanged.
 
 **Q11. UPPCS / UKPCS / BPSC / MPPCS**
 
@@ -1097,11 +1095,11 @@ D. Rajendra Lahiri
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Azad escaped Kakori hangings; Bismil, Ashfaqulla, Roshan Singh, Rajendra Lahiri hanged.
+
 **Ans: C.** **Azad** escaped. Hanged include **Bismil**, **Ashfaqulla** (Faizabad), **Roshan Singh**, **Rajendra Lahiri**. Bismil was hanged at **Gorakhpur**; he refused offered milk before hanging.
 
 </details>
-
-**Logic:** *Sarfaroshi ki Tamanna* = Bismil Azimabadi, not Ram Prasad Bismil.
 
 **Q12. UPPCS / UKPCS / BPSC / MPPCS**
 
@@ -1118,11 +1116,11 @@ D. Muhammad Iqbal
 <details>
 <summary>Show answer</summary>
 
+**Logic:** *Sarfaroshi ki Tamanna* = Bismil Azimabadi, not Ram Prasad Bismil.
+
 **Ans: B.** **Bismil Azimabadi** (Patna) — not **Ram Prasad Bismil**. A frequent wrong-pair trap in Kakori questions.
 
 </details>
-
-**Logic:** HSRA Feroz Shah Kotla 1928; Assembly bomb Bhagat + B.K. Dutt 8 Apr 1929; Lahore hangings 23 Mar 1931; Jatin Das hunger strike; Chittagong Master-da 18 Apr 1930; IRA Chittagong.
 
 **Q13. UPPCS / IAS / BPSC**
 
@@ -1139,11 +1137,11 @@ D. Alfred Park, Allahabad
 <details>
 <summary>Show answer</summary>
 
+**Logic:** HSRA Feroz Shah Kotla 1928; Assembly bomb Bhagat + B.K. Dutt 8 Apr 1929; Lahore hangings 23 Mar 1931; Jatin Das hunger strike; Chittagong Master-da 18 Apr 1930; IRA Chittagong.
+
 **Ans: B.** **Feroz Shah Kotla, Delhi, 1928** — HRA renamed with a **socialist** goal.
 
 </details>
-
-**Logic:** Central Assembly bomb = Bhagat Singh + Batukeshwar Dutt, 8 April 1929.
 
 **Q14. UPPCS / IAS / BPSC**
 
@@ -1160,11 +1158,11 @@ D. Surya Sen and Pritilata Waddedar
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Central Assembly bomb = Bhagat Singh + Batukeshwar Dutt, 8 April 1929.
+
 **Ans: B.** **Bhagat Singh** and **Batukeshwar Dutt** — deliberate arrest for propaganda, not a massacre plan.
 
 </details>
-
-**Logic:** Lahore hangings 23 March 1931; Jatin Das died 13 September 1929 after hunger strike.
 
 **Q15. UPPCS / IAS / BPSC**
 
@@ -1181,11 +1179,11 @@ D. 18 April 1930
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Lahore hangings 23 March 1931; Jatin Das died 13 September 1929 after hunger strike.
+
 **Ans: B.** **23 March 1931** at Lahore. **Jatin Das** died after a **63-day** hunger strike on **13 September 1929**.
 
 </details>
-
-**Logic:** Chittagong armoury raid = Surya Sen (Master-da), 18 April 1930.
 
 **Q16. UPPCS / IAS / BPSC**
 
@@ -1202,11 +1200,11 @@ D. Rash Behari Bose
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Chittagong armoury raid = Surya Sen (Master-da), 18 April 1930.
+
 **Ans: B.** **Surya Sen**, **18 April 1930** — **Indian Republican Army, Chittagong**. **Bhagat Singh** was not in the Kakori or Chittagong raids — common distractor.
 
 </details>
-
-**Logic:** Passive Resistance = Aurobindo; Forward Bloc 1939 Bose; Bina Das convocation; Bhagat criticism quote; Naujawan = Bhagat 1926.
 
 **Q17. BPSC / UPPCS**
 
@@ -1223,11 +1221,11 @@ D. Lala Lajpat Rai
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Passive Resistance = Aurobindo; Forward Bloc 1939 Bose; Bina Das convocation; Bhagat criticism quote; Naujawan = Bhagat 1926.
+
 **Ans: B.** **Aurobindo Ghosh** in ***Bande Mataram*** — assertive resistance short of Moderate petition politics.
 
 </details>
-
-**Logic:** Forward Bloc = Subhas Chandra Bose, 1939.
 
 **Q18. BPSC / UPPCS**
 
@@ -1244,11 +1242,11 @@ D. M.N. Roy in 1925
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Forward Bloc = Subhas Chandra Bose, 1939.
+
 **Ans: B.** **Subhas Chandra Bose**, **1939**, after breaking with the Congress high command.
 
 </details>
-
-**Logic:** Naujawan Bharat Sabha = Bhagat Singh, 1926, Lahore.
 
 **Q19. BPSC / UPPCS**
 
@@ -1265,6 +1263,8 @@ D. Sachindra Nath Sanyal
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Naujawan Bharat Sabha = Bhagat Singh, 1926, Lahore.
+
 **Ans: B.** **Bhagat Singh (1926)** at **Lahore** — open youth front linked to HSRA later. Bhagat held that **criticism and independent thinking** are indispensable revolutionary qualities.
 
 </details>
@@ -1272,8 +1272,6 @@ D. Sachindra Nath Sanyal
 ## Ghatnachakra Extra Drill — Revolutionary Activities Outside India
 
 Teaching sits in **11.8–11.11** and Other Events.
-
-**Logic:** India House / Home Rule Society = Shyamji London 1905 + *Indian Sociologist*; Ghadar 1913 San Francisco, first chair Sohan Singh Bhakna, torchbearer Hardayal; Cama Stuttgart 1907 Mother of Revolution; Dhingra Wyllie; Udham O’Dwyer.
 
 **Q20. UPPCS / IAS / BPSC / UKPCS**
 
@@ -1290,11 +1288,11 @@ D. V.D. Savarkar
 <details>
 <summary>Show answer</summary>
 
+**Logic:** India House / Home Rule Society = Shyamji London 1905 + *Indian Sociologist*; Ghadar 1913 San Francisco, first chair Sohan Singh Bhakna, torchbearer Hardayal; Cama Stuttgart 1907 Mother of Revolution; Dhingra Wyllie; Udham O’Dwyer.
+
 **Ans: B.** **Shyamji Krishna Varma (London, 1905)** — also published ***The Indian Sociologist***.
 
 </details>
-
-**Logic:** Ghadar Party = San Francisco 1913; first chairman Sohan Singh Bhakna.
 
 **Q21. UPPCS / IAS / BPSC / UKPCS**
 
@@ -1311,11 +1309,11 @@ D. Raja Mahendra Pratap
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Ghadar Party = San Francisco 1913; first chairman Sohan Singh Bhakna.
+
 **Ans: B.** **Sohan Singh Bhakna** — first chairman. **Lala Hardayal** was the intellectual torchbearer, not the first chair tag.
 
 </details>
-
-**Logic:** Bhikaji Cama = Mother of Indian Revolution; flag unfurled at Stuttgart 1907, not Paris.
 
 **Q22. UPPCS / IAS / BPSC / UKPCS**
 
@@ -1332,11 +1330,11 @@ D. Berlin (1915)
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Bhikaji Cama = Mother of Indian Revolution; flag unfurled at Stuttgart 1907, not Paris.
+
 **Ans: B.** **Stuttgart (1907)** — not Paris. **Dhingra** killed **Curzon Wyllie (1909)**; **Udham Singh** killed **Michael O’Dwyer (1940)**.
 
 </details>
-
-**Logic:** Kamagata Maru = Japanese ship, Gurdit Singh, Canada refusal, Budge Budge firing; Provisional Govt Kabul 1915 Mahendra Pratap + Barkatullah; India Independence League = Rash Behari Bose Japan; chronology Ghadar → Berlin → Assembly → Chittagong.
 
 **Q23. IAS / UPPCS / BPSC**
 
@@ -1353,11 +1351,11 @@ D. the ship used in the Annie Larsen arms affair on the American coast
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Kamagata Maru = Japanese ship, Gurdit Singh, Canada refusal, Budge Budge firing; Provisional Govt Kabul 1915 Mahendra Pratap + Barkatullah; India Independence League = Rash Behari Bose Japan; chronology Ghadar → Berlin → Assembly → Chittagong.
+
 **Ans: B.** **Japanese steamship**, **Gurdit Singh**, **Canada refusal (1914)**, clash at **Budge Budge** near Calcutta on return.
 
 </details>
-
-**Logic:** Provisional government Kabul 1915 — President Mahendra Pratap, PM Barkatullah.
 
 **Q24. IAS / UPPCS / BPSC**
 
@@ -1374,11 +1372,11 @@ D. Virendranath Chattopadhyay
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Provisional government Kabul 1915 — President Mahendra Pratap, PM Barkatullah.
+
 **Ans: B.** **Raja Mahendra Pratap** (President); **Maulana Barkatullah** (Prime Minister). **India Independence League** in Japan = **Rash Behari Bose**.
 
 </details>
-
-**Logic:** 2022-style chronology: Ghadar (1913) → Berlin Committee (1915) → Assembly bomb (1929) → Chittagong (1930).
 
 **Q25. IAS / UPPCS / BPSC**
 
@@ -1401,6 +1399,9 @@ D. 3, 1, 2, 4
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** 2022-style chronology: Ghadar (1913) → Berlin Committee (1915) → Assembly bomb (1929) → Chittagong (1930).
+
 
 **Logic:** Ghadar (1913) → Berlin Committee (1915) → Assembly bomb (1929) → Chittagong (1930).
 

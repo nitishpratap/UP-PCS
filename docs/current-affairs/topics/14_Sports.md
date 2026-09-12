@@ -270,8 +270,6 @@ The **23rd** Commonwealth Games ended in **Glasgow, Scotland**. **Australia** to
 > Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.
 > Full cross-topic index → [Practice Zone hub](15_Practice_Zone.md).
 
-**Logic:** Sports — T20 WC final facts (host / margin / firsts).
-
 **Q1.** With reference to the Men’s T20 World Cup final (March 2026), which of the following statements is/are correct?
 
 1. India defeated New Zealand in the final at Ahmedabad.
@@ -287,13 +285,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Sports — T20 WC final facts (host / margin / firsts).
+
 **Ans: C.** Both facts appear in March CA. Trap: writing Melbourne/Lord’s as final venue.
 
 </details>
 
 ---
-
-**Logic:** FIFA final — Spain beat Argentina (even if sports CA is thin lately, WC finals still appear).
 
 **Q2.** Who among the following won the FIFA World Cup final held in July 2026?
 
@@ -305,13 +303,13 @@ D. Brazil
 <details>
 <summary>Show answer</summary>
 
+**Logic:** FIFA final — Spain beat Argentina (even if sports CA is thin lately, WC finals still appear).
+
 **Ans: C.** **Spain** beat Argentina 1–0 after extra time (Ferran Torres). Trap: defaulting to the previous champion Argentina.
 
 </details>
 
 ---
-
-**Logic:** CWG Glasgow — India rank / medals (sports CA still asked when mega-event falls in window).
 
 **Q3.** With reference to the Commonwealth Games at Glasgow (2026), which of the following statements is/are correct?
 
@@ -329,13 +327,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** CWG Glasgow — India rank / medals (sports CA still asked when mega-event falls in window).
+
 **Ans: A.** (3) false — CWG mascot is **Finnie**; Morveer was linked with Khelo India Tribal Games coverage earlier. Trap: recycling tribal-games mascot into CWG.
 
 </details>
 
 ---
-
-**Logic:** IPL 2026 final.
 
 **Q4.** With reference to IPL 2026, which of the following statements is/are correct?
 
@@ -353,13 +351,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** IPL 2026 final.
+
 **Ans: D.** All three are May sports facts. Trap: writing Mumbai Indians as winners by habit.
 
 </details>
 
 ---
-
-**Logic:** Thomas Cup / Uber Cup.
 
 **Q5.** Which of the following pairs is/are correctly matched for May 2026 badminton team events?
 
@@ -377,13 +375,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Thomas Cup / Uber Cup.
+
 **Ans: D.** Winner + host. Trap: swapping Thomas/Uber winners.
 
 </details>
 
 ---
-
-**Logic:** FIFA WC hosts + mascots.
 
 **Q6.** With reference to the FIFA World Cup 2026, which of the following statements is/are correct?
 
@@ -401,13 +399,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** FIFA WC hosts + mascots.
+
 **Ans: A.** (3) false — **Spain** won the final. Trap: previous champion inertia.
 
 </details>
 
 ---
-
-**Logic:** Women’s T20 WC final July.
 
 **Q7.** Who won the Women’s T20 World Cup final (5 July 2026 coverage)?
 
@@ -419,13 +417,13 @@ D. New Zealand
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Women’s T20 WC final July.
+
 **Ans: C.** Australia beat England at Lord’s. Trap: writing India by default after men’s title.
 
 </details>
 
 ---
-
-**Logic:** PV Sindhu Japan Open + Pragg Grand Chess Tour.
 
 **Q8.** Which of the following statements is/are correct?
 
@@ -442,13 +440,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** PV Sindhu Japan Open + Pragg Grand Chess Tour.
+
 **Ans: C.** Sports “first” stems. Trap: swapping names with other Indian athletes.
 
 </details>
 
 ---
-
-**Logic:** FIH Hockey World Cup winners August.
 
 **Q9.** Which of the following pairs is/are correctly matched for FIH Hockey World Cup coverage in 2026?
 
@@ -466,13 +464,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** FIH Hockey World Cup winners August.
+
 **Ans: A.** (3) false. Trap: home bias for India as men’s winner.
 
 </details>
 
 ---
-
-**Logic:** Direct freight India–Nepal; Gabon/Togo CWG debut.
 
 **Q10.** Which of the following statements is/are correct?
 
@@ -490,13 +488,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Direct freight India–Nepal; Gabon/Togo CWG debut.
+
 **Ans: D.** Neighbour infra + sports debuts. Trap: writing Kathmandu as the rail terminal instead of Biratnagar.
 
 </details>
 
 ---
-
-**Logic:** T20 final scoreboard soft.
 
 **Q11.** With reference to Men’s T20 WC final 2026, which of the following statements is/are correct?
 
@@ -514,13 +512,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** T20 final scoreboard soft.
+
 **Ans: A.** Ahmedabad.
 
 </details>
 
 ---
-
-**Logic:** Ferran Torres Spain winner.
 
 **Q12.** Which of the following statements is/are correct?
 
@@ -538,13 +536,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Ferran Torres Spain winner.
+
 **Ans: A.** (3) false.
 
 </details>
 
 ---
-
-**Logic:** Ellyse Perry multi-trophy soft.
 
 **Q13.** Which of the following statements is/are correct?
 
@@ -561,13 +559,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Ellyse Perry multi-trophy soft.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** IPL RCB back-to-back third franchise.
 
 **Q14.** Which of the following statements is/are correct?
 
@@ -584,13 +582,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** IPL RCB back-to-back third franchise.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** Thomas Uber Denmark host.
 
 **Q15.** Which of the following statements is/are correct?
 
@@ -607,13 +605,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Thomas Uber Denmark host.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** FIFA mascots Maple Zayu Clutch.
 
 **Q16.** Which of the following statements is/are correct?
 
@@ -631,13 +629,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** FIFA mascots Maple Zayu Clutch.
+
 **Ans: A.** Finnie = CWG.
 
 </details>
 
 ---
-
-**Logic:** CWG India 13G-17S-9B.
 
 **Q17.** Which of the following statements is/are correct?
 
@@ -654,13 +652,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** CWG India 13G-17S-9B.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** FIH Belgium Argentina.
 
 **Q18.** Which of the following statements is/are correct?
 
@@ -678,13 +676,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** FIH Belgium Argentina.
+
 **Ans: A.** (3) false.
 
 </details>
 
 ---
-
-**Logic:** Pragg Grand Chess Tour.
 
 **Q19.** Which of the following statements is/are correct?
 
@@ -701,13 +699,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Pragg Grand Chess Tour.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** Khelo India Tribal Games Morveer.
 
 **Q20.** Which of the following statements is/are correct?
 
@@ -723,6 +721,8 @@ D. Only 1
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Khelo India Tribal Games Morveer.
 
 **Ans: D.** CWG = Finnie.
 

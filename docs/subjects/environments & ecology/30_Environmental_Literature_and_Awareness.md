@@ -232,8 +232,6 @@ Options: A. Only 2 B. Neither C. Both D. Only 1
 
 ## Complete PYQ Bank (Topic 30)
 
-**A/R logic:** A tests Brundtland → SD popularisation; R wrongly names Limits to Growth as Brundtland Report.
-
 **Q1. UPPCS Prelims 2024, Q51**
 
 Assertion (A): Sustainable Development was popularised by the Brundtland Report.
@@ -250,13 +248,13 @@ D. A true; R false
 <details>
 <summary>Show answer</summary>
 
+**A/R logic:** A tests Brundtland → SD popularisation; R wrongly names Limits to Growth as Brundtland Report.
+
 **Ans: D.** A is true — *Our Common Future* (1987) popularised SD. R is false — *Limits to Growth* (1972) is **Club of Rome**, not Brundtland. **Trap:** Club of Rome title glued to Brundtland name.
 
 </details>
 
 ---
-
-**Logic:** Silent Spring authorship — Rachel Carson 1962, not Hardin or Club of Rome.
 
 **Q2. UPPCS Prelims 2020, Q17**
 
@@ -273,13 +271,13 @@ D. Rajgopalan
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Silent Spring authorship — Rachel Carson 1962, not Hardin or Club of Rome.
+
 **Ans: C.** Carson exposed pesticide harm (especially DDT) and catalysed modern environmental awareness. **Trap:** Garrett Hardin (*Tragedy of the Commons*, 1968) or Brundtland for Carson works.
 
 </details>
 
 ---
-
-**Logic:** 1987 WCED report title — Our Common Future = Brundtland Report.
 
 **Q3. UPPCS Prelims 2020 — pattern**
 
@@ -296,13 +294,13 @@ D. Hind Swaraj
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 1987 WCED report title — Our Common Future = Brundtland Report.
+
 **Ans: B.** Brundtland Commission / WCED produced ***Our Common Future* (1987)**. **Trap:** Limits to Growth (1972) or Silent Spring (1962) year-title swap.
 
 </details>
 
 ---
-
-**Logic:** Agenda 21 primary frame — Rio 1992 sustainable-development action plan (Chapter 36 covers EE as one part).
 
 **Q4. UPPCS Prelims 2023, Q132**
 
@@ -319,13 +317,13 @@ D. Ozone Layer
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Agenda 21 primary frame — Rio 1992 sustainable-development action plan (Chapter 36 covers EE as one part).
+
 **Ans: A.** Agenda 21 is Rio's non-binding **SD** action plan; EE appears inside it but is not the sole headline. **Trap:** Picking "Environmental Education only" because Tbilisi/EE syllabus overlap.
 
 </details>
 
 ---
-
-**Logic:** LiFE launch June 2022 true; COP-25 Madrid idea false — idea at COP-26 Glasgow 2021.
 
 **Q5. UPPCS Prelims 2025, Q139**
 
@@ -345,13 +343,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** LiFE launch June 2022 true; COP-25 Madrid idea false — idea at COP-26 Glasgow 2021.
+
 **Ans: D.** Launch **June 2022** is correct; the idea came at **COP-26 Glasgow (2021)**, not COP-25 Madrid. **Trap:** Any "COP-25 LiFE" distractor.
 
 </details>
 
 ---
-
-**Logic:** Tragedy of the Commons essay — Garrett Hardin 1968.
 
 **Q6. UPSC pattern**
 
@@ -368,13 +366,13 @@ D. Club of Rome
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Tragedy of the Commons essay — Garrett Hardin 1968.
+
 **Ans: A.** Hardin's essay on overuse of shared resources — distinct from Carson (1962) and Club of Rome *Limits* (1972). **Trap:** Hardin credited with *Silent Spring*.
 
 </details>
 
 ---
-
-**Logic:** Tbilisi 1977 — landmark Environmental Education declaration; not Stockholm UNEP birth (1972).
 
 **Q7. UPSC pattern**
 
@@ -391,13 +389,13 @@ D. Carbon credit trading
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Tbilisi 1977 — landmark Environmental Education declaration; not Stockholm UNEP birth (1972).
+
 **Ans: A.** **Tbilisi (1977)** formalised global EE principles after Stockholm (1972) put EE on the agenda. **Trap:** Stockholm 1972 = UNEP creation, not Tbilisi EE milestone.
 
 </details>
 
 ---
-
-**Logic:** Art 51A(g) — Fundamental Duty to protect environment; distinct from Art 48A State policy.
 
 **Q8. Pattern**
 
@@ -414,13 +412,13 @@ D. Wildlife Protection Act 1972 Section 35
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Art 51A(g) — Fundamental Duty to protect environment; distinct from Art 48A State policy.
+
 **Ans: A.** **Art 51A(g)** is the citizen's fundamental duty; **Art 48A** is the State's directive principle. **Trap:** Mixing fundamental duty with DPSP or WPA sections.
 
 </details>
 
 ---
-
-**Logic:** ECO Club / National Green Corps under MoEFCC — not CPCB pollution enforcement.
 
 **Q9. Pattern**
 
@@ -437,13 +435,13 @@ D. International Solar Alliance secretariat only
 <details>
 <summary>Show answer</summary>
 
+**Logic:** ECO Club / National Green Corps under MoEFCC — not CPCB pollution enforcement.
+
 **Ans: A.** NGC/ECO Club is MoEFCC's school EE network (~2001-02 national push). **Trap:** CPCB because "environment" appears in both names.
 
 </details>
 
 ---
-
-**Logic:** Van Mahotsav — July plantation week; K.M. Munshi; not February or WED June.
 
 **Q10. Pattern**
 
@@ -459,6 +457,8 @@ D. 22 April
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Van Mahotsav — July plantation week; K.M. Munshi; not February or WED June.
 
 **Ans: A.** **Van Mahotsav = July** mass planting drive in India. **Trap:** 5 June (WED), 22 April (Earth Day), or 21 March (International Day of Forests).
 

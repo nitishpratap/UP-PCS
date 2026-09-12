@@ -35,8 +35,6 @@
 
 ### UKPCS Prelims 2025
 
-**Logic:** Digboi is oldest, not largest.
-
 **Q. UKPCS Prelims 2025, Q100**
 
 Which is the largest centre of the petrochemical industry in India?
@@ -48,6 +46,8 @@ D. Vadodara
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Digboi is oldest, not largest.
 
 **Ans: B.** Jamnagar hosts the largest refining–petrochemical complex. Digboi is oldest but small.
 

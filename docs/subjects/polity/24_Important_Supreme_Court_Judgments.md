@@ -41,8 +41,6 @@ Newest first. One event, one fact.
 
 ### UKPCS Prelims 2025
 
-**Logic:** Nilabati Behera is the custodial-compensation distractor.
-
 **Q. UKPCS Prelims 2025, Q132**
 
 Under Article 32, in which case was 'wilful non-compliance' with a court order declared as contempt of the court?
@@ -54,6 +52,8 @@ D. Gopi Aqua vs. Union of India
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Nilabati Behera is the custodial-compensation distractor.
 
 **Ans: B (Series B provisional key).** M. L. Sachdev vs Union of India is keyed for wilful non-compliance as contempt. Nilabati Behera is the compensation / custodial death trap.
 

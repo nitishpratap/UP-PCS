@@ -26,8 +26,6 @@ Ancient Indian Painting | Classical Painting | Mural Paintings | Ajanta Painting
 
 ### UKPCS Prelims 2025
 
-**Logic:** Both the 1658 arrival and the Tasbirdar title must be true.
-
 **Q. UKPCS Prelims 2025, Q85**
 
 Consider the following statements about the 'Garhwal painting' style:
@@ -42,6 +40,8 @@ D. None of the above
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Both the 1658 arrival and the Tasbirdar title must be true.
 
 **Ans: C (Series B provisional key).** Both statements are correct. The Garhwal Pahari line later includes Mola Ram. Full UK card: Art & Culture `uttarakhand/` Topic 3.
 

@@ -364,8 +364,6 @@ The first **fully indigenous** AK-203 assault rifle, named **Sher**, was manufac
 > Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.
 > Full cross-topic index → [Practice Zone hub](15_Practice_Zone.md).
 
-**Logic:** PFBR Kalpakkam — MOX vs thorium trap (science false second sentence).
-
 **Q1.** With reference to the Prototype Fast Breeder Reactor (PFBR) at Kalpakkam, which of the following statements is/are correct?
 
 1. It achieved first criticality in April 2026.
@@ -381,13 +379,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** PFBR Kalpakkam — MOX vs thorium trap (science false second sentence).
+
 **Ans: D.** Statement 1 is true. Statement 2 is false — criticality used **MOX** fuel; thorium belongs to a later stage of India’s three-stage nuclear plan. Trap: equating “Stage-2 bridge to thorium” with “already running on thorium”.
 
 </details>
 
 ---
-
-**Logic:** NavIC vs GPS identity.
 
 **Q2.** With reference to NavIC / IRNSS developments in March 2026, which of the following statements is/are correct?
 
@@ -404,13 +402,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** NavIC vs GPS identity.
+
 **Ans: C.** Both are correct facts. Trap: calling NavIC a substitute name for US GPS.
 
 </details>
 
 ---
-
-**Logic:** Kusha is SAM / air defence, not Agni-class ballistic.
 
 **Q3.** Which of the following pairs is/are **NOT** correctly matched?
 
@@ -428,13 +426,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Kusha is SAM / air defence, not Agni-class ballistic.
+
 **Ans: A.** Pair 3 is wrong. Kusha is air-defence; Agni MIRV is a separate May 2026 defence story. Pairs 1 and 2 are correct.
 
 </details>
 
 ---
-
-**Logic:** Match missile / platform ↔ identity.
 
 **Q4.** Match List-I with List-II and select the correct answer using the code given below the lists.
 
@@ -455,13 +453,13 @@ D. 2 3 4 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Match missile / platform ↔ identity.
+
 **Ans: A.** Aridhaman→2; NASM-SR→3; Aagaman/Vikram-1→1; Sher→4. Trap: swapping Aridhaman with a diesel Project-75 boat, or putting Sher in Kanpur/Jhansi.
 
 </details>
 
 ---
-
-**Logic:** DAC money + platform names.
 
 **Q5.** With reference to the Defence Acquisition Council decision around 27 March 2026, which of the following statements is/are correct?
 
@@ -478,13 +476,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** DAC money + platform names.
+
 **Ans: C.** Big money + named platforms. Trap: swapping the figure with ECLGS 5.0 (~₹2.55 lakh crore credit) from May.
 
 </details>
 
 ---
-
-**Logic:** LR-AShM range / nature.
 
 **Q6.** With reference to LR-AShM displayed around Republic Day 2026, which of the following statements is/are correct?
 
@@ -502,13 +500,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** LR-AShM range / nature.
+
 **Ans: A.** (3) mixes LR-AShM with Kusha. Trap: writing 55 km (NASM-SR class) as LR-AShM range.
 
 </details>
 
 ---
-
-**Logic:** INS Taragiri + Aridhaman same day cluster.
 
 **Q7.** With reference to naval platforms commissioned / covered around 3 April 2026, which of the following statements is/are correct?
 
@@ -526,13 +524,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** INS Taragiri + Aridhaman same day cluster.
+
 **Ans: D.** SSBN vs frigate — do not merge into one class. Trap: calling Aridhaman a diesel Project-75 boat.
 
 </details>
 
 ---
-
-**Logic:** Agni MIRV test place / nature.
 
 **Q8.** With reference to the advanced Agni MIRV test (8 May 2026), which of the following statements is/are correct?
 
@@ -550,13 +548,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Agni MIRV test place / nature.
+
 **Ans: A.** (3) false — Kusha is July air-defence SAM. Same island, different missile family.
 
 </details>
 
 ---
-
-**Logic:** Navy June platforms Match.
 
 **Q9.** Match List-I with List-II and select the correct answer using the code given below the lists.
 
@@ -577,13 +575,13 @@ D. 2 3 1 4
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Navy June platforms Match.
+
 **Ans: A.** Dunagiri→Navy June; Akshay→ICG; Mahendragiri→6th 17A; Nipun→Nistar-class. Trap: putting all under one service.
 
 </details>
 
 ---
-
-**Logic:** National Space Day theme / mission counts.
 
 **Q10.** With reference to National Space Day 2026 (23 August), which of the following statements is/are correct?
 
@@ -601,13 +599,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** National Space Day theme / mission counts.
+
 **Ans: A.** (3) false — National Space Day is **23 August** (Chandrayaan-3 landing anniversary logic). Trap: merging with I-Day.
 
 </details>
 
 ---
-
-**Logic:** Chronology — defence / science firsts.
 
 **Q11.** Consider the following events and arrange them in correct chronological order:
 
@@ -626,13 +624,13 @@ D. 3, 4, 2, 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Chronology — defence / science firsts.
+
 **Ans: A.** PFBR 6 Apr → Agni MIRV 8 May → Vikram-1 18 Jul → Kusha 23 Jul. Trap: putting Kusha before Vikram because both are July.
 
 </details>
 
 ---
-
-**Logic:** Exercise Pragati 2026.
 
 **Q12.** With reference to Exercise Pragati 2026, which of the following statements is/are correct?
 
@@ -650,13 +648,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Exercise Pragati 2026.
+
 **Ans: A.** (3) invents a different exercise. Trap: recycling Varuna/Malabar venues.
 
 </details>
 
 ---
-
-**Logic:** Agni-1 under SFC May.
 
 **Q13.** With reference to May 2026 missile tests, which of the following statements is/are correct?
 
@@ -674,13 +672,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Agni-1 under SFC May.
+
 **Ans: A.** (3) Kusha is July.
 
 </details>
 
 ---
-
-**Logic:** NASM-SR range and nature.
 
 **Q14.** With reference to NASM-SR, which of the following statements is/are correct?
 
@@ -698,13 +696,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** NASM-SR range and nature.
+
 **Ans: A.** (3) is LR-AShM range.
 
 </details>
 
 ---
-
-**Logic:** INS Dunagiri / Sanshodhak / Agray June navy.
 
 **Q15.** Which of the following statements is/are correct for June 2026 naval coverage?
 
@@ -722,13 +720,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** INS Dunagiri / Sanshodhak / Agray June navy.
+
 **Ans: A.** (3) service mix-up.
 
 </details>
 
 ---
-
-**Logic:** Mission Sudarshan Chakra / Kusha induction window.
 
 **Q16.** With reference to Project Kusha coverage, which of the following statements is/are correct?
 
@@ -746,13 +744,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Mission Sudarshan Chakra / Kusha induction window.
+
 **Ans: A.** (3) wrong family.
 
 </details>
 
 ---
-
-**Logic:** ACV H-561 Coast Guard first indigenous.
 
 **Q17.** With reference to ACV H-561, which of the following statements is/are correct?
 
@@ -769,13 +767,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** ACV H-561 Coast Guard first indigenous.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** Pralay / K-4 January soft.
 
 **Q18.** Which of the following statements is/are correct?
 
@@ -793,13 +791,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Pralay / K-4 January soft.
+
 **Ans: A.** (3) absurd distractor.
 
 </details>
 
 ---
-
-**Logic:** PFBR power rating.
 
 **Q19.** The PFBR at Kalpakkam is locked in coverage as which capacity class?
 
@@ -811,13 +809,13 @@ D. 1000 MWe
 <details>
 <summary>Show answer</summary>
 
+**Logic:** PFBR power rating.
+
 **Ans: B.** 500 MWe fast breeder.
 
 </details>
 
 ---
-
-**Logic:** INS Nipun Nistar-class.
 
 **Q20.** With reference to INS Nipun (August 2026), which of the following statements is/are correct?
 
@@ -833,6 +831,8 @@ D. Only 1
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** INS Nipun Nistar-class.
 
 **Ans: D.** Mahendragiri is sixth 17A.
 

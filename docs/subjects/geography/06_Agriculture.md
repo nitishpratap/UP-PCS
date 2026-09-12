@@ -1061,8 +1061,6 @@ D. Peace
 
 **Q57.** Which pair is NOT correctly matched?
 
-**Logic:** Find the one false pair. Golden rice–Vitamin A is true; ozone lives in the **stratosphere**, not the troposphere.
-
 A. Renneting–Cheese
 
 B. Genetic Engineering–Plasmids
@@ -1073,6 +1071,8 @@ D. Ozone layer–Troposphere
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Find the one false pair. Golden rice–Vitamin A is true; ozone lives in the **stratosphere**, not the troposphere.
 
 **Ans: D.** Ozone layer = **stratosphere**. **C** is correct (golden rice → Vitamin A). Trap is picking golden rice because another question once mixed science pairs.
 
@@ -3432,8 +3432,6 @@ D. Sugarcane
 
 **Q11.** Which aquatic plant is used as a biofertiliser in water-logged rice fields?
 
-**Logic:** Tests Azolla as a flooded-rice biofertiliser. Trap is calling it an insecticide or pesticide.
-
 A. Water hyacinth only as insecticide
 
 B. Azolla
@@ -3444,6 +3442,8 @@ D. Salvinia as urea substitute only in deserts
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Tests Azolla as a flooded-rice biofertiliser. Trap is calling it an insecticide or pesticide.
 
 **Ans: B.** Azolla hosts **Anabaena**, which fixes nitrogen in flooded fields; decayed Azolla returns that N to the soil. **A / C** push the insecticide–pesticide trap. **D** invents a desert-only urea story.
 
@@ -3920,8 +3920,6 @@ D. Latvia
 
 **Q40.** Golden rice is associated with:
 
-**Logic:** Golden rice = beta-carotene / Vitamin A in the grain. Distractors steal tags from other science pairs (ozone, petroleum, nitrogen).
-
 A. Vitamin A enrichment
 
 B. Nitrogen gas storage only
@@ -3932,6 +3930,8 @@ D. Petroleum blending
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Golden rice = beta-carotene / Vitamin A in the grain. Distractors steal tags from other science pairs (ozone, petroleum, nitrogen).
 
 **Ans: A.** Golden rice is engineered to make **beta-carotene** (provitamin A) in the endosperm. **B** belongs to Azolla / Rhizobium-type nitrogen stories. **C** belongs to the ozone–stratosphere pair (not rice). **D** is unrelated.
 
@@ -4477,10 +4477,10 @@ C. K.B. Thomas
 
 D. M.S. Randhawa
 
-**Logic:** Author pair vs “Father of Green Revolution” name trap.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Author pair vs “Father of Green Revolution” name trap.
 
 **Ans: D.M.S. Randhawa** (Mohinder Singh Randhawa) wrote *History of Indian Agriculture*. Swaminathan is the Green / Evergreen face, not this book’s author.
 
@@ -4496,10 +4496,10 @@ C. 1970
 
 D. 1980
 
-**Logic:** Year pair for Pantnagar / GBPUAT inauguration.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Year pair for Pantnagar / GBPUAT inauguration.
 
 **Ans: B.** Opened in **1960** at Pantnagar as Uttar Pradesh Agricultural University; inaugurated by Nehru on **17 November 1960**; later renamed G.B. Pant University of Agriculture and Technology.
 
@@ -4521,10 +4521,10 @@ C. 1 and 3 only
 
 D. 1, 2 and 3
 
-**Logic:** Three number systems — do not swap 15 and 20.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Three number systems — do not swap 15 and 20.
 
 **Ans: D.** ACZ **15**, AER **20**, Sengupta–Sdasyuk micro regions **60**. Trap questions swap 15 and 20.
 
@@ -4540,10 +4540,10 @@ C. A regulated egg market
 
 D. A quality certification mark for agricultural produce
 
-**Logic:** Agmark = grading mark under the 1937 Act, not a co-op body.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Agmark = grading mark under the 1937 Act, not a co-op body.
 
 **Ans: D.** Agmark is the government quality mark under the **Agricultural Produce (Grading and Marking) Act, 1937**.
 
@@ -4559,10 +4559,10 @@ C. Cowpea
 
 D. Guar
 
-**Logic:** Percentage N pair among common green manures.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Percentage N pair among common green manures.
 
 **Ans: C.** Cowpea is taught at about **0.49%** N; sunhemp ~0.43%, dhaincha ~0.42%, guar ~0.34%. Sunhemp may still return the highest **kg N/ha**.
 
@@ -4578,10 +4578,10 @@ C. Whole villages are reserved only for certified-seed companies
 
 D. Only urban entrepreneurs get seed-company finance
 
-**Logic:** Seed Village = farmer training + local affordable seed supply.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Seed Village = farmer training + local affordable seed supply.
 
 **Ans: B.** The concept trains village groups to produce and supply quality seed locally — not a ban on purchase and not a company-only village.
 
@@ -4606,10 +4606,10 @@ C. A-2, B-4, C-1, D-3
 
 D. A-4, B-1, C-2, D-3
 
-**Logic:** Board HQ pairs; Coffee is Bengaluru, not Hyderabad.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Board HQ pairs; Coffee is Bengaluru, not Hyderabad.
 
 **Ans: A.** Coffee → Bengaluru; Rubber → Kottayam; Tea → Kolkata; Tobacco → Guntur. Trap: Coffee Board–Hyderabad.
 
@@ -4619,10 +4619,10 @@ D. A-4, B-1, C-2, D-3
 
 Reason (R): Sikkim has less than 10% of its land available for agriculture.
 
-**A/R logic:** A tests contract-farming pioneer; R tests Sikkim land-use; both true but R does not explain A.
-
 <details>
 <summary>Show answer</summary>
+
+**A/R logic:** A tests contract-farming pioneer; R tests Sikkim land-use; both true but R does not explain A.
 
 **Ans: B.** Both true, but R is not the explanation of A. Punjab = contract farming pioneer; Sikkim = forest hill state with under 10% cultivable share.
 

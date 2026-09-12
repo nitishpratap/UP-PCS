@@ -6,10 +6,10 @@ Drill file for dual-exam Modern. Year banks: [UKPCS PYQs](../../../ukpcs/pyqs/in
 
 ### UKPCS Prelims 2025, Q61 — AITUC / trade unions
 
-**Logic:** 1929 split — N. M. Joshi’s federation, not S. A. Dange as founder of AITUF.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** 1929 split — N. M. Joshi’s federation, not S. A. Dange as founder of AITUF.
 
 **Ans: A — Only 1 and 2 (Series B).** Home: [Home Rule & Labour Politics](../12_Home_Rule_and_Labour_Politics.md).
 

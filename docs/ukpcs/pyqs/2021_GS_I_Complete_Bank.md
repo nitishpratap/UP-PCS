@@ -9,8 +9,6 @@
 
 ### Q1. Which of the following countries is not located in the continent of Afri
 
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
-
 Which of the following countries is not located in the continent of Africa?
 
 A. Gabon
@@ -21,13 +19,13 @@ D. Guinea-Bissau
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q2. The longest surface mountain range in the world is
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 The longest surface mountain range in the world is:
 
@@ -39,13 +37,13 @@ D. Andes mountain range
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q3. Which of the following hills are present where Eastern Ghats and Western
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Which of the following hills are present where Eastern Ghats and Western Ghats meet?
 
@@ -57,13 +55,13 @@ D. Sahyadri hills
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q4. Which of the following oceanic currents does not flow in the North Atlan
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Which of the following oceanic currents does not flow in the North Atlantic Ocean?
 
@@ -75,13 +73,13 @@ D. Florida
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q5. The second largest island of the world is
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 The second largest island of the world is:
 
@@ -93,13 +91,13 @@ D. Sumatra
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q6. Which one of the following pairs is not correctly matched?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Which one of the following pairs is not correctly matched?
 
@@ -111,13 +109,13 @@ D. Khamsin – Egypt
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q7. Which one of the following rivers is the second longest river of the wor
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Which one of the following rivers is the second longest river of the world?
 
@@ -129,13 +127,13 @@ D. Yangtze
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q8. Which of the following is not an example of metamorphic rock?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Which of the following is not an example of metamorphic rock?
 
@@ -147,13 +145,13 @@ D. Dolomite
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q9. Which plateau lies between the Aravali and the Vindhya ranges?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Which plateau lies between the Aravali and the Vindhya ranges?
 
@@ -165,13 +163,13 @@ D. Bundelkhand
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q10. Which country is called the “Bowl of Sugar” in the world?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Which country is called the “Bowl of Sugar” in the world?
 
@@ -183,13 +181,13 @@ D. Pakistan
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q11. Out of the following rivers, which is not a tributary of the river Sutle
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Out of the following rivers, which is not a tributary of the river Sutlej?
 
@@ -201,13 +199,13 @@ D. Beas
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q12. Who made the statement – “Vegetation is the true index of climate.”?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Who made the statement – “Vegetation is the true index of climate.”?
 
@@ -219,13 +217,13 @@ D. Koteshwaram
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q13. Which of the following layers is not included in the Homosphere?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Which of the following layers is not included in the Homosphere?
 
@@ -237,13 +235,13 @@ D. Stratosphere
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q14. Kodarma is famous for which mineral?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Kodarma is famous for which mineral?
 
@@ -255,13 +253,13 @@ D. Bauxite
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q15. The “Pittsburgh of India” is –
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 The “Pittsburgh of India” is –
 
@@ -273,13 +271,13 @@ D. Jamshedpur
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q16. In which river is the Mata Tila Dam situated?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 In which river is the Mata Tila Dam situated?
 
@@ -291,13 +289,13 @@ D. Betwa
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q17. The HVJ natural gas pipeline does not have which of the following gas pu
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 The HVJ natural gas pipeline does not have which of the following gas pumping stations?
 
@@ -309,13 +307,13 @@ D. Guna
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q18. Which of the following states had the highest sex-ratio in 2011?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Which of the following states had the highest sex-ratio in 2011?
 
@@ -327,13 +325,13 @@ D. Andhra Pradesh
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q19. Which of the following islands is NOT a part of the Laccadive Islands?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Which of the following islands is NOT a part of the Laccadive Islands?
 
@@ -345,13 +343,13 @@ D. Kalpeni
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q20. Koppen used which of the following symbols for the climate of the Great
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Koppen used which of the following symbols for the climate of the Great Plains of India?
 
@@ -363,13 +361,13 @@ D. Aw
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q21. How many districts of Uttarakhand share international boundaries?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 How many districts of Uttarakhand share international boundaries?
 
@@ -381,13 +379,13 @@ D. 06
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q22. Which districts of Uttarakhand state recorded negative population growth
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Which districts of Uttarakhand state recorded negative population growth during 2001-2011 as per Census of India, 2011?
 
@@ -399,13 +397,13 @@ D. Chamoli and Rudraprayag
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q23. 'Govind National Park' includes
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 'Govind National Park' includes :
 
@@ -417,13 +415,13 @@ D. Source region of Tons river
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q24. Which one of the following places is NOT associated with SIDCUL?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Which one of the following places is NOT associated with SIDCUL?
 
@@ -435,13 +433,13 @@ D. Haridwar
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q25. 'Khair' (Catechu) is a tree of which type of forest?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 'Khair' (Catechu) is a tree of which type of forest?
 
@@ -453,13 +451,13 @@ D. Temperate Forests
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q26. If a Panchayat is dissolved, elections are to be held within _____ month
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 If a Panchayat is dissolved, elections are to be held within _____ month(s).
 
@@ -471,13 +469,13 @@ D. Nine
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q27. Which one of the following schedules of the Constitution of India contai
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Which one of the following schedules of the Constitution of India contains provisions regarding the Anti-defection Act?
 
@@ -489,13 +487,13 @@ D. 10th Schedule
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q28. How many members are elected from the Lok Sabha for the Public Accounts
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 How many members are elected from the Lok Sabha for the Public Accounts Committee?
 
@@ -507,13 +505,13 @@ D. 22
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q29. The Congress declared complete Independence for India as its goal at whi
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 The Congress declared complete Independence for India as its goal at which session?
 
@@ -525,13 +523,13 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q30. When was the Hindi version of the National Anthem 'Jana-Gana-Mana' adopt
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 When was the Hindi version of the National Anthem 'Jana-Gana-Mana' adopted by the Constituent Assembly of India?
 
@@ -543,13 +541,13 @@ D. 9 December, 1946
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q31. Among the following, who was the first President of the Human Rights Com
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Among the following, who was the first President of the Human Rights Commission of India?
 
@@ -561,13 +559,13 @@ D. Justice Rangnath Mishra
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q32. Who among the following was the first Lieutenant Governor of the newly c
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Who among the following was the first Lieutenant Governor of the newly created Union Territory of Jammu & Kashmir?
 
@@ -579,13 +577,13 @@ D. Satyapal Malik
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q33. To whom is the Chief of Defence Staff (CDS) a military advisor on Tri-se
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 To whom is the Chief of Defence Staff (CDS) a military advisor on Tri-services matters?
 
@@ -597,13 +595,13 @@ D. Home Minister of India
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q34. In which year was the International Labour Organisation (ILO) establishe
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 In which year was the International Labour Organisation (ILO) established?
 
@@ -615,13 +613,13 @@ D. 1922
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q35. Right to Property belongs to which category amongst the following?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Right to Property belongs to which category amongst the following?
 
@@ -633,13 +631,13 @@ D. Human Right
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q36. Who among the following chairs the Zonal Council?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Who among the following chairs the Zonal Council?
 
@@ -651,13 +649,13 @@ D. Finance Minister of India
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q37. Match List-I with List-II and select the correct answer using the code g
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Match List-I with List-II and select the correct answer using the code given below the lists : List-I (Name of States) A. Jharkhand B. Uttarakhand C. Chhattisgarh D. Punjab List-II (Seats in Rajya Sabha) 1. 07 2. 05 3. 03 4. 06
 
@@ -669,13 +667,13 @@ D. 4 3 2 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q38. In which year was the SAARC Summit, for the first time, held in India?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 In which year was the SAARC Summit, for the first time, held in India?
 
@@ -687,13 +685,13 @@ D. None of these
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q39. Which of the following Constitutional Amendments is related to the forma
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Which of the following Constitutional Amendments is related to the formation of the National Commission for Backward Classes in India?
 
@@ -705,13 +703,13 @@ D. None of these
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q40. What is the tenure of a member of the State Legislative Council?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 What is the tenure of a member of the State Legislative Council?
 
@@ -723,13 +721,13 @@ D. 4 years
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q41. Who was the Prime Minister of India when the basic principle of India’s
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Who was the Prime Minister of India when the basic principle of India’s Nuclear Doctrine of ‘No First Use’ was adopted?
 
@@ -741,13 +739,13 @@ D. Indira Gandhi
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q42. On which of the following dates is the ‘Civil Services Day’ celebrated i
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 On which of the following dates is the ‘Civil Services Day’ celebrated in India?
 
@@ -759,13 +757,13 @@ D. April 21
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q43. In which year was the Central Information Commission established?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 In which year was the Central Information Commission established?
 
@@ -777,13 +775,13 @@ D. 2008
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q44. In which year was ‘The Air (Prevention and Control of Pollution) Act’ en
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 In which year was ‘The Air (Prevention and Control of Pollution) Act’ enacted?
 
@@ -795,13 +793,13 @@ D. 1986
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q45. In which year was the number of women members of Parliament the lowest i
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 In which year was the number of women members of Parliament the lowest in the Lok Sabha?
 
@@ -813,13 +811,13 @@ D. 1989
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q46. Who among the following has the right to participate in the parliamentar
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Who among the following has the right to participate in the parliamentary proceedings?
 
@@ -831,13 +829,13 @@ D. None of these
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q47. The Uttaranchal (Change of Name) Act, came into existence in which of th
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 The Uttaranchal (Change of Name) Act, came into existence in which of the following years?
 
@@ -849,13 +847,13 @@ D. None of these
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q48. The State of Uttarakhand came into existence on which of the following d
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 The State of Uttarakhand came into existence on which of the following dates?
 
@@ -867,13 +865,13 @@ D. 5-11-2001
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q49. Who among the following was the Chief Minister of Uttarakhand, who decla
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Who among the following was the Chief Minister of Uttarakhand, who declared in the Legislative Assembly that Gairsain would be the summer capital of Uttarakhand?
 
@@ -885,13 +883,13 @@ D. Pushkar Singh Dhami
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q50. Which one of the following commissioners of colonial Kumaon and Garhwal
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Which one of the following commissioners of colonial Kumaon and Garhwal introduced the ‘Revenue Police’ system?
 
@@ -903,13 +901,13 @@ D. Daniel Ibbetson
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q51. How many Lok Sabha members are elected from Uttarakhand?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 How many Lok Sabha members are elected from Uttarakhand?
 
@@ -921,13 +919,13 @@ D. 8
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q52. 'Tobin Tax' is levied on
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 'Tobin Tax' is levied on:
 
@@ -939,13 +937,13 @@ D. on the basis of value
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q53. Who regulates the market of Agricultural Products in India?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Who regulates the market of Agricultural Products in India?
 
@@ -957,13 +955,13 @@ D. Food Products Order, 1956
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q54. Which of the following statement is not correct about ‘National Developm
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Which of the following statement is not correct about ‘National Development Council’?
 
@@ -975,13 +973,13 @@ D. It should meet at least twice in a year.
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q55. Which of the following was not a part of 11th Five Year Plan inclusive g
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Which of the following was not a part of 11th Five Year Plan inclusive growth strategy?
 
@@ -993,13 +991,13 @@ D. Strengthening of capital market
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q56. Which one is correct about IMF?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Which one is correct about IMF?
 
@@ -1011,13 +1009,13 @@ D. It grants loan to the Central Bank of a country.
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q57. The rise in value of one currency relative to another is –
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 The rise in value of one currency relative to another is –
 
@@ -1029,13 +1027,13 @@ D. A debasement of a currency
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q58. Which of the following statement is correct?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Which of the following statement is correct?
 
@@ -1047,13 +1045,13 @@ D. None of these
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q59. Which of the following changes have taken place in Indian Economy after
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Which of the following changes have taken place in Indian Economy after Economic Reforms in 1991?
 
@@ -1065,13 +1063,13 @@ D. Both (b) and (c)
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q60. Sweat Equity shares are issued to which of the following?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Sweat Equity shares are issued to which of the following?
 
@@ -1083,13 +1081,13 @@ D. Employees of the company
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q61. “National Food Security Mission” was launched to increase the production
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 “National Food Security Mission” was launched to increase the production of which commodity/commodities?
 
@@ -1101,13 +1099,13 @@ D. All of these
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q62. What kind of Tax System is found in India?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 What kind of Tax System is found in India?
 
@@ -1119,13 +1117,13 @@ D. Regressive
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q63. Which of the following plan is called “Rolling Plan”?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Which of the following plan is called “Rolling Plan”?
 
@@ -1137,13 +1135,13 @@ D. Eighth Plan
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q64. Which of the following is not an example of foreign direct investment?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Which of the following is not an example of foreign direct investment?
 
@@ -1155,13 +1153,13 @@ D. The construction of a new steel plant overseas
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q65. The World Trade Organisation (WTO) is sometimes criticised for all of th
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 The World Trade Organisation (WTO) is sometimes criticised for all of the following reasons except that:
 
@@ -1173,13 +1171,13 @@ D. it favours free trade over the quality of products.
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q66. If Primary deficit is zero, then the amount of borrowing will be
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 If Primary deficit is zero, then the amount of borrowing will be:
 
@@ -1191,13 +1189,13 @@ D. None of these
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q67. Gender Inequality Index (GII) was introduced in which Human Development
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Gender Inequality Index (GII) was introduced in which Human Development Report (HDR) of UNDP?
 
@@ -1209,13 +1207,13 @@ D. HDR 2010
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q68. What is the Human Development Index (HDI) rank of India in the Human Dev
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 What is the Human Development Index (HDI) rank of India in the Human Development Report 2020 of UNDP?
 
@@ -1227,13 +1225,13 @@ D. 131
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q69. In which of the following year, the latest classification of MSME was do
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 In which of the following year, the latest classification of MSME was done?
 
@@ -1245,13 +1243,13 @@ D. 2020
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q70. Which of the following are called gilt edged securities?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Which of the following are called gilt edged securities?
 
@@ -1263,13 +1261,13 @@ D. Stocks of Mutual Funds
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q71. Multilateral Investment Guarantee Agency (MIGA) is related to
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Multilateral Investment Guarantee Agency (MIGA) is related to:
 
@@ -1281,13 +1279,13 @@ D. International Development Association (IDA)
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q72. Which of the following taxes are abolished by the Goods and Services Tax
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Which of the following taxes are abolished by the Goods and Services Tax?
 
@@ -1299,13 +1297,13 @@ D. Income Tax
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q73. Which one of the following organisations is not located in Uttarakhand?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Which one of the following organisations is not located in Uttarakhand?
 
@@ -1317,13 +1315,13 @@ D. B.H.E.L.
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q74. In which year VAT was introduced in Uttarakhand?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 In which year VAT was introduced in Uttarakhand?
 
@@ -1335,13 +1333,13 @@ D. 2005
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q75. In how many hill districts of Uttarakhand, Tea Development Programme was
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 In how many hill districts of Uttarakhand, Tea Development Programme was carried out during the year 2020-2021?
 
@@ -1353,13 +1351,13 @@ D. 7
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q76. Which among the following banks have the lowest number of branches in Ut
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Which among the following banks have the lowest number of branches in Uttarakhand in the year 2020-2021?
 
@@ -1371,13 +1369,13 @@ D. District Co-operative Banks
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q77. Who is known as father of Genetics?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Who is known as father of Genetics?
 
@@ -1389,13 +1387,13 @@ D. Johann Gregor Mendel
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q78. What are ‘Ramsar Sites’?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 What are ‘Ramsar Sites’?
 
@@ -1407,13 +1405,13 @@ D. Volcanoes of International Importance
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q79. In the year 2021, the Nobel Prize in Chemistry was awarded to
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 In the year 2021, the Nobel Prize in Chemistry was awarded to:
 
@@ -1425,13 +1423,13 @@ D. Abdulrazak Gurnah
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q80. In the year 2021 where was the 26th United Nations Climate Change Confer
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 In the year 2021 where was the 26th United Nations Climate Change Conference COP-26 held?
 
@@ -1443,13 +1441,13 @@ D. Beijing
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q81. The logo of International Organisation – WWF (World Wide Fund for Nature
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 The logo of International Organisation – WWF (World Wide Fund for Nature) is:
 
@@ -1461,13 +1459,13 @@ D. Indian Wild Ass
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q82. At present, the highest civilian award of the ‘Republic of India’ is –
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 At present, the highest civilian award of the ‘Republic of India’ is –
 
@@ -1479,13 +1477,13 @@ D. Bharat Ratna
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q83. Remote Sensing uses which of the following in its applications?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Remote Sensing uses which of the following in its applications?
 
@@ -1497,13 +1495,13 @@ D. Electromagnetic waves
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q84. The substance which has a large number of free electrons and offer a low
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 The substance which has a large number of free electrons and offer a low resistance is called:
 
@@ -1515,13 +1513,13 @@ D. Semi-conductor
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q85. Light travels at a maximum speed in
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Light travels at a maximum speed in:
 
@@ -1533,13 +1531,13 @@ D. None of these
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q86. Which among the following animal is called as – “Ploughers of the soil”?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Which among the following animal is called as – “Ploughers of the soil”?
 
@@ -1551,13 +1549,13 @@ D. None of these
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q87. Scurvy disease is caused by the deficiency of which vitamin?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Scurvy disease is caused by the deficiency of which vitamin?
 
@@ -1569,13 +1567,13 @@ D. Vitamin D
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q88. The sperms used for artificial insemination of cattle are stored in
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 The sperms used for artificial insemination of cattle are stored in:
 
@@ -1587,13 +1585,13 @@ D. Liquid ammonia
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q89. To which of the following chemical groups – Cellulose belongs?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 To which of the following chemical groups – Cellulose belongs?
 
@@ -1605,13 +1603,13 @@ D. Nucleic acids
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q90. Two bacteria found to be very useful in genetic engineering experiments
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Two bacteria found to be very useful in genetic engineering experiments are ________.
 
@@ -1623,13 +1621,13 @@ D. Rhizobium and Diplococcus
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q91. A transition zone between two biological communities is referred to as
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 A transition zone between two biological communities is referred to as:
 
@@ -1641,13 +1639,13 @@ D. Eco-barrier
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q92. If any one input is HIGH (or 1), and output is also HIGH (or 1), such Ga
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 If any one input is HIGH (or 1), and output is also HIGH (or 1), such Gate is:
 
@@ -1659,13 +1657,13 @@ D. NOR Gate
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q93. The output C of given logic circuit is
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 The output C of given logic circuit is:
 
@@ -1677,13 +1675,13 @@ D. B
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q94. IP addresses are used on which layer of OSI reference model?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 IP addresses are used on which layer of OSI reference model?
 
@@ -1695,13 +1693,13 @@ D. Datalink Layer
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q95. Which of the following is primary memory in Computer System?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Which of the following is primary memory in Computer System?
 
@@ -1713,13 +1711,13 @@ D. Pen Drive
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q96. Which of the following is function of Control Unit in CPU?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Which of the following is function of Control Unit in CPU?
 
@@ -1731,13 +1729,13 @@ D. None of these
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q97. Who initiated the ‘Maiti Movement’ in Uttarakhand?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Who initiated the ‘Maiti Movement’ in Uttarakhand?
 
@@ -1749,13 +1747,13 @@ D. Medha Patkar
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q98. At which place in Uttarakhand did the Indian Meteorological Department i
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 At which place in Uttarakhand did the Indian Meteorological Department install a Doppler Weather Radar?
 
@@ -1767,13 +1765,13 @@ D. Chamoli
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q99. In which year the Forest Research Institute was established in India?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 In which year the Forest Research Institute was established in India?
 
@@ -1785,13 +1783,13 @@ D. 1950
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q100. Kedarnath Wildlife Sanctuary has been established for the conservation o
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Kedarnath Wildlife Sanctuary has been established for the conservation of which animal?
 
@@ -1803,13 +1801,13 @@ D. Monal
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q101. Which of the following is a state tree of Uttarakhand?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Which of the following is a state tree of Uttarakhand?
 
@@ -1821,13 +1819,13 @@ D. Brahma Kamal
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q102. Who among the following was awarded Nobel Peace Prize – 2021?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Who among the following was awarded Nobel Peace Prize – 2021?
 
@@ -1839,13 +1837,13 @@ D. Abiy Ahmed
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q103. Who is the first Indian woman to scale Mt. Annapurna?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Who is the first Indian woman to scale Mt. Annapurna?
 
@@ -1857,13 +1855,13 @@ D. Anita Devi
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q104. In which year India’s highest Civilian Honour ‘Bharat Ratna’ was awarded
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 In which year India’s highest Civilian Honour ‘Bharat Ratna’ was awarded to Late Lata Mangeshkar?
 
@@ -1875,13 +1873,13 @@ D. 1996
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q105. ‘Mitali Express’, a new passenger train, which was inaugurated recently
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 ‘Mitali Express’, a new passenger train, which was inaugurated recently, connects Dhaka with which Indian city?
 
@@ -1893,13 +1891,13 @@ D. Gangtok
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q106. “The World Beneath His Feet” is the biography of whom of the following?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 “The World Beneath His Feet” is the biography of whom of the following?
 
@@ -1911,13 +1909,13 @@ D. Sachin Tendulkar
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q107. Which Indian documentary was nominated for the Oscars – 2022?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Which Indian documentary was nominated for the Oscars – 2022?
 
@@ -1929,13 +1927,13 @@ D. Writing with Fire
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q108. Which Indian state has launched the Student Startup and Innovation Polic
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Which Indian state has launched the Student Startup and Innovation Policy (SSIP) 2.0 in January 2022?
 
@@ -1947,13 +1945,13 @@ D. Haryana
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q109. Name the unique strategy adopted by North-East Frontier Railway to keep
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Name the unique strategy adopted by North-East Frontier Railway to keep wild elephants away from railway tracks.
 
@@ -1965,13 +1963,13 @@ D. Plan Sweep
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q110. Who won World Rapid Chess 2021?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Who won World Rapid Chess 2021?
 
@@ -1983,13 +1981,13 @@ D. Hikaru Nakamura
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q111. When is the ‘World Ozone Day’ celebrated?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 When is the ‘World Ozone Day’ celebrated?
 
@@ -2001,13 +1999,13 @@ D. 30th January
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q112. Which of the following newspapers won ‘Pulitzer Prize 2021’ in prestigio
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Which of the following newspapers won ‘Pulitzer Prize 2021’ in prestigious public service category?
 
@@ -2019,13 +2017,13 @@ D. New York Post
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q113. Which of the following is not rightly matched? Name of Player – Medals W
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Which of the following is not rightly matched? Name of Player – Medals Won in Tokyo Olympics 2020
 
@@ -2037,13 +2035,13 @@ D. Neeraj Chopra – Gold Medal
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q114. Major Dhyan Chand Sports University is being established at which place
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Major Dhyan Chand Sports University is being established at which place in India?
 
@@ -2055,13 +2053,13 @@ D. Kanpur
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q115. In December 2020, the Home Ministry declared which of the following stat
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 In December 2020, the Home Ministry declared which of the following states 'Disturbed Area' for six months under Armed Forces Special Powers Act, 1958?
 
@@ -2073,13 +2071,13 @@ D. Punjab
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q116. Which of the following railway stations of India has been recently devel
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Which of the following railway stations of India has been recently developed with modern amenities like the airport with Public Private Partnership?
 
@@ -2091,13 +2089,13 @@ D. Chhatrapati Shivaji Terminus, Mumbai
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q117. Where did the Prime Minister Sri Narendra Modi lay the foundation stone
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Where did the Prime Minister Sri Narendra Modi lay the foundation stone of the largest airport in Asia in November 2021?
 
@@ -2109,13 +2107,13 @@ D. Kempegowda International Airport in Bengaluru
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q118. The famous ‘Gangasagar Mela’ is held in which of the following states of
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 The famous ‘Gangasagar Mela’ is held in which of the following states of India?
 
@@ -2127,13 +2125,13 @@ D. Rajasthan
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q119. Which of the following films won Golden Globe Award-2022 for Best Motion
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Which of the following films won Golden Globe Award-2022 for Best Motion Picture (Drama)?
 
@@ -2145,13 +2143,13 @@ D. The Lost Daughter
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q120. Match the following: Dance – State A. Bharatanatyam 1. Uttar Pradesh B.
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Match the following: Dance – State A. Bharatanatyam 1. Uttar Pradesh B. Kathak 2. Tamil Nadu C. Kuchipudi 3. Kerala D. Mohiniattam 4. Andhra Pradesh Codes:
 
@@ -2163,13 +2161,13 @@ D. 4 2 1 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q121. The largest hymns of Rigveda is dedicated to which Vedic god?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 The largest hymns of Rigveda is dedicated to which Vedic god?
 
@@ -2181,13 +2179,13 @@ D. Aditya
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q122. In which of the following place was the first Jain Council held?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 In which of the following place was the first Jain Council held?
 
@@ -2199,13 +2197,13 @@ D. Ujjain
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q123. Which among the following play was written by Harshavardhan?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Which among the following play was written by Harshavardhan?
 
@@ -2217,13 +2215,13 @@ D. Priyadarshika
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q124. Which of the following dynasty is associated with the female king Rudrma
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Which of the following dynasty is associated with the female king Rudrma Devi?
 
@@ -2235,13 +2233,13 @@ D. Western Chalukya
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q125. The author of ‘Lilavati’, Bhaskar-II was –
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 The author of ‘Lilavati’, Bhaskar-II was –
 
@@ -2253,13 +2251,13 @@ D. Sculptor
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q126. The religious text which explains about the eight different phases of ag
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 The religious text which explains about the eight different phases of agriculture works is –
 
@@ -2271,13 +2269,13 @@ D. Deepavansa
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q127. What was the ratio of Gold-Silver coins in the Shaka-Kshtrapa period?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 What was the ratio of Gold-Silver coins in the Shaka-Kshtrapa period?
 
@@ -2289,13 +2287,13 @@ D. 1 : 10
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q128. Gadhaiya was a ________.
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Gadhaiya was a ________.
 
@@ -2307,13 +2305,13 @@ D. Military Officer
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q129. Udayinjiral belongs to which dynasty?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Udayinjiral belongs to which dynasty?
 
@@ -2325,13 +2323,13 @@ D. Satavahana dynasty
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q130. Which among the following Rashtrakuta ruler built the Kailas temple of E
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Which among the following Rashtrakuta ruler built the Kailas temple of Ellora?
 
@@ -2343,13 +2341,13 @@ D. Krishna-Ist
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q131. In Mauryan period ‘Pranaym’ was –
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 In Mauryan period ‘Pranaym’ was –
 
@@ -2361,13 +2359,13 @@ D. Land Tax
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q132. Which among the following Rashtrakuta King defeated Pratihara ruler Naga
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Which among the following Rashtrakuta King defeated Pratihara ruler Nagabhata-II?
 
@@ -2379,13 +2377,13 @@ D. Krishna-IIIrd
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q133. Who was known as ‘Hazar-Dinari’?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Who was known as ‘Hazar-Dinari’?
 
@@ -2397,13 +2395,13 @@ D. Qutubuddin Aibak
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q134. Who among the following was not the rival of Iltutmish?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Who among the following was not the rival of Iltutmish?
 
@@ -2415,13 +2413,13 @@ D. Malik Altunia
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q135. Which South Indian dance tradition was firstly developed during the time
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Which South Indian dance tradition was firstly developed during the time of Vijaynagar?
 
@@ -2433,13 +2431,13 @@ D. Bharatanatyam
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q136. Who among the following wrote the book ‘Khazain-ul-Futuh’?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Who among the following wrote the book ‘Khazain-ul-Futuh’?
 
@@ -2451,13 +2449,13 @@ D. Ziauddin Barni
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q137. Who among the following was not a member of ‘Nurjahan’s Junta’?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Who among the following was not a member of ‘Nurjahan’s Junta’?
 
@@ -2469,13 +2467,13 @@ D. Khurram
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q138. Who among the following was not a member of Cabinet Mission?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Who among the following was not a member of Cabinet Mission?
 
@@ -2487,13 +2485,13 @@ D. Sir Stafford Cripps
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q139. Who introduced ‘Financial Decentralisation’ in India?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Who introduced ‘Financial Decentralisation’ in India?
 
@@ -2505,13 +2503,13 @@ D. Lord Mayo
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q140. During which movement were the two brothers Gangaram and Khemdiev martyr
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 During which movement were the two brothers Gangaram and Khemdiev martyred?
 
@@ -2523,13 +2521,13 @@ D. Quit India Movement
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q141. In which language was Raja Rammohan Roy’s famous work ‘Gift to Monotheis
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 In which language was Raja Rammohan Roy’s famous work ‘Gift to Monotheists’ written?
 
@@ -2541,13 +2539,13 @@ D. Bengali
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q142. In 1929 at which place did Mahatma Gandhi complete his translation of ‘A
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 In 1929 at which place did Mahatma Gandhi complete his translation of ‘Anasakti Yoga’?
 
@@ -2559,13 +2557,13 @@ D. Ranikhet
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q143. Who was the ruler of the Tehri state at the time of its merger in the In
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Who was the ruler of the Tehri state at the time of its merger in the Indian Union?
 
@@ -2577,13 +2575,13 @@ D. Manvendra Shah
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q144. Who was the first ruler of Tehri State?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Who was the first ruler of Tehri State?
 
@@ -2595,13 +2593,13 @@ D. Fateh Shah
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q145. Kalu Mahra is associated with ______.
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Kalu Mahra is associated with ______.
 
@@ -2613,13 +2611,13 @@ D. Chipko Movement
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q146. Which of the following medieval book is not the source of the history of
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 Which of the following medieval book is not the source of the history of Uttarakhand?
 
@@ -2631,13 +2629,13 @@ D. Babarnama
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q147. The equator does not pass through which of the following countries?
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 The equator does not pass through which of the following countries?
 
@@ -2649,13 +2647,13 @@ D. Brazil
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q148. IDeepak sells an item for ₹555 and receives a profit of 11%. What will b
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 IDeepak sells an item for ₹555 and receives a profit of 11%. What will be his profit or loss in case he sells the item for ₹455?
 
@@ -2667,13 +2665,13 @@ D. Loss of 9%
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q149. IRohit can complete a work in t hours. Due to some reason, he stopped wo
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 IRohit can complete a work in t hours. Due to some reason, he stopped working after 1½ hours. Unfinished part of the work is:
 
@@ -2685,13 +2683,13 @@ D. (2t – 3) ⁄ 2t
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
+
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 
 </details>
 
 ### Q150. IFind the missing terms : A, Z, X, B, V, T, C, R, ___, ___.
-
-**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 IFind the missing terms : A, Z, X, B, V, T, C, R, ___, ___.
 
@@ -2702,6 +2700,8 @@ D. O, Q
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Topic recall from this year’s Prelims paper; confirm with the official key.
 
 **Ans: pending official key.** Match this stem to the UKPSC answer key PDF for the correct series.
 

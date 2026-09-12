@@ -841,8 +841,6 @@ D. (A) is false, but (R) is true
 
 Teaching sits in **14.2, 14.6–14.8**.
 
-**Logic:** League celebrated Congress resignations after WWII began — Deliverance Day date.
-
 **Q1. UPPCS / IAS**
 
 After Congress ministries resigned in 1939, the Muslim League observed ‘Day of Deliverance’ on:
@@ -858,11 +856,11 @@ D. 8 August 1942
 <details>
 <summary>Show answer</summary>
 
+**Logic:** League celebrated Congress resignations after WWII began — Deliverance Day date.
+
 **Ans: B.** **22 December 1939**. Ministries had resigned in **October 1939** after about **28 months** in office.
 
 </details>
-
-**Logic:** “Pakistan” coinage = Choudhry Rahmat Ali (1933), not Iqbal’s 1930 Allahabad address alone.
 
 **Q2. UPPCS / BPSC**
 
@@ -879,11 +877,11 @@ D. Aga Khan
 <details>
 <summary>Show answer</summary>
 
+**Logic:** “Pakistan” coinage = Choudhry Rahmat Ali (1933), not Iqbal’s 1930 Allahabad address alone.
+
 **Ans: B.** **Rahmat Ali (1933)**. Iqbal’s **1930** Allahabad address argued a Muslim north-west state idea; League’s Lahore resolution is **March 1940**.
 
 </details>
-
-**Logic:** Gandhi on Cripps — “post-dated cheque”; Cripps Mission **1942**.
 
 **Q3. UPPCS / IAS**
 
@@ -900,11 +898,11 @@ D. Crossed cheque
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Gandhi on Cripps — “post-dated cheque”; Cripps Mission **1942**.
+
 **Ans: B.** Cripps Mission **March 1942**; Congress negotiators with Cripps were largely **Nehru and Azad**.
 
 </details>
-
-**Logic:** Do or Die / QI slogan stream often keyed to Yusuf Meher Ali; QI **8–9 Aug 1942**.
 
 **Q4. UPPCS / BPSC**
 
@@ -921,11 +919,11 @@ D. Abul Kalam Azad
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Do or Die / QI slogan stream often keyed to Yusuf Meher Ali; QI **8–9 Aug 1942**.
+
 **Ans: B.** QI resolution **8 August 1942**; Gandhi detained at **Aga Khan Palace**. Linlithgow called QI the most serious revolt since **1857**.
 
 </details>
-
-**Logic:** Tripuri — Bose defeated Pattabhi; after Bose resigned, Rajendra Prasad became Congress President; Forward Bloc **1939**.
 
 **Q5. UPPCS / BPSC**
 
@@ -942,6 +940,8 @@ D. Abul Kalam Azad
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Tripuri — Bose defeated Pattabhi; after Bose resigned, Rajendra Prasad became Congress President; Forward Bloc **1939**.
+
 **Ans: A.** After Bose resigned, **Rajendra Prasad** took over. Bose founded **Forward Bloc** in **1939**.
 
 </details>
@@ -951,8 +951,6 @@ D. Abul Kalam Azad
 ## Ghatnachakra Extra Drill — Bose, INA and Red Fort Trials
 
 Teaching sits in **14.4–14.5, 14.9–14.10**.
-
-**Logic:** Birthplace = Cuttack; Tagore = Desh Nayak; Gandhi = Patriot of Patriots.
 
 **Q6. UPPCS / IAS**
 
@@ -969,11 +967,11 @@ D. Howrah
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Birthplace = Cuttack; Tagore = Desh Nayak; Gandhi = Patriot of Patriots.
+
 **Ans: B.** **Cuttack** (Odisha). Tagore called him **Desh Nayak**; Gandhi called him **Patriot of Patriots**.
 
 </details>
-
-**Logic:** First INA commander = Mohan Singh (1942); Bose took charge **4 July 1943**.
 
 **Q7. UPPCS / IAS / BPSC**
 
@@ -990,11 +988,11 @@ D. Shah Nawaz Khan
 <details>
 <summary>Show answer</summary>
 
+**Logic:** First INA commander = Mohan Singh (1942); Bose took charge **4 July 1943**.
+
 **Ans: C.** Idea often linked to **Pritam Singh** and Japanese officer **Fujiwara**. Bose assumed INA leadership on **4 July 1943**.
 
 </details>
-
-**Logic:** Azad Hind Government date–place = 21 Oct 1943, Singapore.
 
 **Q8. UPPCS / BPSC**
 
@@ -1011,11 +1009,11 @@ D. 7 November 1941 at Berlin
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Azad Hind Government date–place = 21 Oct 1943, Singapore.
+
 **Ans: B.** **21 October 1943**, **Singapore**.
 
 </details>
-
-**Logic:** Red Fort trio = Sahgal, Shah Nawaz, Dhillon; defence lead Bhulabhai Desai; remission under Auchinleck.
 
 **Q9. UPPCS / IAS**
 
@@ -1032,6 +1030,8 @@ D. Asaf Ali
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Red Fort trio = Sahgal, Shah Nawaz, Dhillon; defence lead Bhulabhai Desai; remission under Auchinleck.
+
 **Ans: B.** Famous trio: **Prem Sahgal, Shah Nawaz Khan, Gurbaksh Singh Dhillon**. Sentences were remitted under pressure with **Auchinleck** in the picture.
 
 </details>
@@ -1041,8 +1041,6 @@ D. Asaf Ali
 ## Ghatnachakra Extra Drill — Cabinet Mission, Interim Government, Partition
 
 Teaching sits in **14.13, 14.15–14.19**.
-
-**Logic:** Cabinet Mission members = Pethick-Lawrence, Cripps, Alexander — **not** Wavell.
 
 **Q10. UPPCS / IAS**
 
@@ -1059,11 +1057,11 @@ D. Lord Wavell
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Cabinet Mission members = Pethick-Lawrence, Cripps, Alexander — **not** Wavell.
+
 **Ans: D.** Wavell was Viceroy, not a Mission member. Chair/stream: **Pethick-Lawrence**.
 
 </details>
-
-**Logic:** Interim Government took office **2 Sep 1946** under Nehru; after League joined, Liaquat = Finance.
 
 **Q11. UPPCS / BPSC**
 
@@ -1080,11 +1078,11 @@ D. Abul Kalam Azad
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Interim Government took office **2 Sep 1946** under Nehru; after League joined, Liaquat = Finance.
+
 **Ans: B.** Took office **2 September 1946**. When the League joined, **Liaquat Ali Khan** took **Finance**.
 
 </details>
-
-**Logic:** Direct Action Day = 16 Aug 1946 — UKPCS 2025 favourite.
 
 **Q12. UKPCS Prelims 2025 / UPPCS**
 
@@ -1101,11 +1099,11 @@ D. 14 August 1947
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Direct Action Day = 16 Aug 1946 — UKPCS 2025 favourite.
+
 **Ans: A.** **16 August 1946** — Calcutta killings opened the Partition endgame.
 
 </details>
-
-**Logic:** Mountbatten Plan = 3 June 1947; Boundary Commission = Radcliffe; AICC President at acceptance = Kripalani.
 
 **Q13. UPPCS / IAS**
 
@@ -1122,6 +1120,8 @@ D. 15 August 1947
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Mountbatten Plan = 3 June 1947; Boundary Commission = Radcliffe; AICC President at acceptance = Kripalani.
+
 **Ans: B.** **3 June 1947**. Boundary Commission chair: **Cyril Radcliffe**. Congress President at Partition acceptance: **J.B. Kripalani**.
 
 </details>
@@ -1129,8 +1129,6 @@ D. 15 August 1947
 ---
 
 ### UKPCS Complete PYQ Bank (Final Phase)
-
-**Logic:** Direct Action Day date — League’s mass mobilisation before Interim/Partition.
 
 **Q1. UKPCS Prelims 2025, Q65**
 
@@ -1146,6 +1144,8 @@ D. 16 November, 1946
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Direct Action Day date — League’s mass mobilisation before Interim/Partition.
 
 **Ans: B (Series B provisional key).** Direct Action Day was **16 August 1946** after rejection of the Cabinet Mission plan; it led to the Great Calcutta Killings.
 

@@ -61,8 +61,6 @@
 
 ## UKPCS Practice
 
-**Logic:** Separates literary tribe labels from the first coin polity.
-
 **Q1.** Which of the following is the earliest well-attested coin-issuing polity linked to the Uttarakhand foothills?
 
 A. Chand dynasty 
@@ -72,6 +70,8 @@ D. Gorkha
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Separates literary tribe labels from the first coin polity.
 
 **Ans: C.** Kuninda coinage marks the early historic foothill polity. Chand and Parmar are medieval; Gorkha is modern.
 

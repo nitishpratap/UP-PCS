@@ -1286,10 +1286,10 @@ D. (A) is false, but (R) is true
 
 A. Varanasi B. Mathura C. Kannauj D. Nalanda
 
-**Logic:** Xuanzang textile pair — Mathura cotton, Varanasi silk.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Xuanzang textile pair — Mathura cotton, Varanasi silk.
 
 **Ans: B.** **Mathura** = cotton; **Varanasi** = silk.
 
@@ -1306,10 +1306,10 @@ A. Varanasi B. Mathura C. Kannauj D. Nalanda
 How many of the above statements are correct?
 A. Only one B. Only two C. All three D. None
 
-**Logic:** 1–2 are standard; kausheya is silk.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** 1–2 are standard; kausheya is silk.
 
 **Ans: B.** 1 and 2. **Kausheya** = silk.
 
@@ -1321,10 +1321,10 @@ A. Only one B. Only two C. All three D. None
 
 A. Pulakeshin I B. Pulakeshin II C. Vikramaditya II D. Shashanka
 
-**Logic:** Aihole / Xuanzang fact = Pulakeshin II of Badami.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Aihole / Xuanzang fact = Pulakeshin II of Badami.
 
 **Ans: B.** **Pulakeshin II** of Vatapi.
 

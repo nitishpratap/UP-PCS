@@ -163,8 +163,6 @@ Biodiversity | Levels of Biodiversity | Genetic Diversity | Species Diversity | 
 
 **PYQ — UPPCS Prelims 2019, Q139**
 
-**Logic:** Stem tests India's richest mainland biodiversity region among standard distractors — Gangetic Plain, Trans-Himalaya, and Central India are species-poorer than the Western Ghats hotspot.
-
 The most biodiversity rich area in India is
 
 A. Gangetic plain
@@ -177,6 +175,8 @@ D. Central India
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Stem tests India's richest mainland biodiversity region among standard distractors — Gangetic Plain, Trans-Himalaya, and Central India are species-poorer than the Western Ghats hotspot.
 
 **Ans: C.** The **Western Ghats** hold the highest species richness among these options. Gangetic Plain, Trans-Himalaya, and Central India are classic weaker distractors. Silent Valley (Kerala) sits inside this Western Ghats richness belt — do not confuse it with Valley of Flowers (Chamoli, Uttarakhand).
 
@@ -1316,8 +1316,6 @@ D. Keystone species loss alone
 
 ### UKPCS Prelims 2025
 
-**Logic:** Statement 3 denies co-extinction — that is the planted error.
-
 **Q. UKPCS Prelims 2025, Q33**
 
 Which of the following statements about causes of biodiversity loss is/are correct?
@@ -1334,11 +1332,11 @@ D. Only 2
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Statement 3 denies co-extinction — that is the planted error.
+
 **Ans: C (Series B provisional key).** Statements 1 and 2 are correct. Statement 3 is wrong because associated species can disappear with their host (co-extinction).
 
 </details>
-
-**Logic:** Tansley and Darwin belong to other concepts.
 
 **Q. UKPCS Prelims 2025, Q97**
 
@@ -1351,6 +1349,8 @@ D. David
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Tansley and Darwin belong to other concepts.
 
 **Ans: A (Series B provisional key).** Walter G. Rosen coined biodiversity in 1985. Tansley = ecosystem; Darwin = natural selection.
 

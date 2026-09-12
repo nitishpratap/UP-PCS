@@ -148,8 +148,6 @@ Miss Universe India 2026 winner card → [Awards](04_Awards.md).
 > Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.
 > Full cross-topic index → [Practice Zone hub](15_Practice_Zone.md).
 
-**Logic:** Awards — International Booker 2026 winner pair.
-
 **Q1.** With reference to the International Booker Prize 2026, which of the following statements is/are correct?
 
 1. The winning book was *Taiwan Travelogue* by Yáng Shuāng-zǐ.
@@ -165,13 +163,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Awards — International Booker 2026 winner pair.
+
 **Ans: C.** Author + translator both matter in Booker stems (as in 2025 Banu Mushtaq / Deepa Bhasthi pattern).
 
 </details>
 
 ---
-**Logic:** Dalrymple book–prize pair.
-
 **Q2.** With reference to William Dalrymple’s 2026 prize coverage, which of the following statements is/are correct?
 
 1. He won the Mark Lynton History Prize for *The Golden Road*.
@@ -187,13 +185,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Dalrymple book–prize pair.
+
 **Ans: C.** Book + award. Trap: writing Booker instead of Mark Lynton.
 
 </details>
 
 ---
-
-**Logic:** Tides of Time / Sudha Murty Parliament murals book.
 
 **Q3.** With reference to *Tides of Time: Bharat’s History through Murals in Parliament*, which of the following statements is/are correct?
 
@@ -210,13 +208,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Tides of Time / Sudha Murty Parliament murals book.
+
 **Ans: C.** Soft book–ceremony fact. Trap: assigning a wrong Cabinet author.
 
 </details>
 
 ---
-
-**Logic:** Second Orbit / Shubhanshu Shukla.
 
 **Q4.** With reference to *The Second Orbit* (June 2026 coverage), which of the following statements is/are correct?
 
@@ -233,13 +231,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Second Orbit / Shubhanshu Shukla.
+
 **Ans: C.** Book–astronaut hybrid. Trap: writing Rakesh Sharma as ISS citizen fact.
 
 </details>
 
 ---
-
-**Logic:** Vande Mataram @ 150 — composer / years.
 
 **Q5.** With reference to Vande Mataram @ 150 years (August 2026), which of the following statements is/are correct?
 
@@ -257,13 +255,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Vande Mataram @ 150 — composer / years.
+
 **Ans: D.** Culture CA must-score for I-Day year. Trap: writing Rabindranath Tagore as composer.
 
 </details>
 
 ---
-
-**Logic:** Orange Economy / AVGC + UP heritage sites in Budget.
 
 **Q6.** With reference to Budget 2026–27 culture messaging, which of the following statements is/are correct?
 
@@ -281,13 +279,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Orange Economy / AVGC + UP heritage sites in Budget.
+
 **Ans: A.** (3) invents a fake limit. Trap: expanding AVGC into “all creative arts” without the four letters.
 
 </details>
 
 ---
-
-**Logic:** Booker Taiwan Travelogue.
 
 **Q7.** Which of the following statements is/are correct?
 
@@ -305,13 +303,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Booker Taiwan Travelogue.
+
 **Ans: A.** Dalrymple is Mark Lynton.
 
 </details>
 
 ---
-
-**Logic:** Apnapan soft Chouhan book.
 
 **Q8.** Which of the following statements is/are correct?
 
@@ -328,13 +326,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Apnapan soft Chouhan book.
+
 **Ans: D.** Soft only.
 
 </details>
 
 ---
-
-**Logic:** Bhawaiya cultural history soft.
 
 **Q9.** Which of the following statements is/are correct?
 
@@ -351,13 +349,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Bhawaiya cultural history soft.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** Venice Biennale soft Feb.
 
 **Q10.** Which of the following statements is/are correct?
 
@@ -374,13 +372,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Venice Biennale soft Feb.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** IICT Mumbai AVGC.
 
 **Q11.** Which of the following statements is/are correct?
 
@@ -397,13 +395,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** IICT Mumbai AVGC.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** 15 archaeological sites Budget.
 
 **Q12.** Which of the following statements is/are correct?
 
@@ -421,13 +419,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 15 archaeological sites Budget.
+
 **Ans: A.** (3) false.
 
 </details>
 
 ---
-
-**Logic:** Anandamath 1882 fact.
 
 **Q13.** With reference to Vande Mataram, which of the following statements is/are correct?
 
@@ -445,13 +443,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Anandamath 1882 fact.
+
 **Ans: A.** Tagore = Jana Gana Mana.
 
 </details>
 
 ---
-
-**Logic:** Equal honour 1950.
 
 **Q14.** Which of the following statements is/are correct?
 
@@ -468,13 +466,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Equal honour 1950.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** Homebound Oscar soft.
 
 **Q15.** Which of the following statements is/are correct?
 
@@ -491,13 +489,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Homebound Oscar soft.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** Finnie culture crossover.
 
 **Q16.** Which of the following statements is/are correct?
 
@@ -514,13 +512,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Finnie culture crossover.
+
 **Ans: D.** (2) false.
 
 </details>
 
 ---
-
-**Logic:** Padma culture names Mammootty Alka.
 
 **Q17.** Which of the following statements is/are correct?
 
@@ -537,13 +535,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Padma culture names Mammootty Alka.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** Second Orbit ISS Axiom-4.
 
 **Q18.** Which of the following statements is/are correct?
 
@@ -561,13 +559,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Second Orbit ISS Axiom-4.
+
 **Ans: A.** Citizen/ISS fact ≠ first Indian in space.
 
 </details>
 
 ---
-
-**Logic:** Tides of Time Sudha Murty.
 
 **Q19.** Which of the following statements is/are correct?
 
@@ -584,13 +582,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Tides of Time Sudha Murty.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** 3 AIIA + Jamnagar WHO.
 
 **Q20.** Which of the following statements is/are correct?
 
@@ -606,6 +604,8 @@ D. Only 1
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** 3 AIIA + Jamnagar WHO.
 
 **Ans: C.** Both true — culture/health hybrid.
 

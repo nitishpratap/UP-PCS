@@ -628,8 +628,6 @@ D. Ramsar Convention
 
 ## Extra Drill — Solar, Hydrogen & Geothermal (Q31–Q40)
 
-**Logic:** ISA membership, DCR, firsts (Kochi/Diu), and hydrogen/fuel-cell physics dominate recent stems.
-
 **Q31.** International Solar Alliance — which is correct?
 
 A. Launched at UN Climate Change Conference 2015; includes all UN members
@@ -642,6 +640,8 @@ D. First Summit only in New York
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** ISA membership, DCR, firsts (Kochi/Diu), and hydrogen/fuel-cell physics dominate recent stems.
 
 **Ans: B.** First Summit New Delhi **2018**. USD ~1 trillion solar finance ambition by **2030**.
 

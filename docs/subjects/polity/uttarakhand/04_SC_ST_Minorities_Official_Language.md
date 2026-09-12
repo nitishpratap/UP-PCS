@@ -59,8 +59,6 @@
 
 ## UKPCS Inline PYQ
 
-**Logic:** Four consecutive years — the notification year must be exact.
-
 **UKPCS Prelims 2025, Q136**
 
 In which year were the Jaunsari, Tharu, Bhotia, Buksa and Raji tribes declared Scheduled Tribes in Uttarakhand?
@@ -72,6 +70,8 @@ D. 1970
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Four consecutive years — the notification year must be exact.
 
 **Ans: A (Series B provisional key).** The five communities were notified as STs in **1967**.
 

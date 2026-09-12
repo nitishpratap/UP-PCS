@@ -525,8 +525,6 @@ About **33** gods are grouped in three layers: **earth**, **air (antariksha)**, 
 
 **PYQ — UPPCS Prelims 2018, Q13**
 
-**Logic:** Stem asks which Samhita belongs to **Shukla** Yajurveda. Three distractors are famous **Krishna (Black)** Samhitas. Paper spelling **Vajasanami** = standard **Vajasaneyi**.
-
 Which of the following is a Samhita of Shukla Yajurveda?
 
 A. Vajasanami
@@ -536,6 +534,8 @@ D. Kathak
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Stem asks which Samhita belongs to **Shukla** Yajurveda. Three distractors are famous **Krishna (Black)** Samhitas. Paper spelling **Vajasanami** = standard **Vajasaneyi**.
 
 **Ans: A** — **Vajasaneyi / Vajasanami** is the Shukla Samhita (mantra and Brahmana kept apart).
 **B Maitrayani**, **C Taittiriya**, and **D Kathak** are all **Krishna (Black) Yajurveda** — that is why the cryptic note “B, C, D are all Krishna” appears in coaching facts.
@@ -750,8 +750,6 @@ D. 4 3 1 2
 
 **Q3. UPPCS Prelims 2018, Q13**
 
-**Logic:** Identify the **Shukla** Samhita. B/C/D are all **Krishna (Black)** Yajurveda names — classic three-trap pattern.
-
 Which of the following is a Samhita of Shukla Yajurveda?
 
 A. Vajasanami
@@ -762,14 +760,14 @@ D. Kathak
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Identify the **Shukla** Samhita. B/C/D are all **Krishna (Black)** Yajurveda names — classic three-trap pattern.
+
 **Ans: A** — Vajasaneyi (paper spelling Vajasanami).
 **B/C/D** = Krishna (Black) Yajurveda Samhitas. **Krishna** = Black school, not the deity.
 
 </details>
 
 ### UKPCS Prelims 2025
-
-**Logic:** Same Krishna/Shukla split as UPPCS 2018, but the stem asks for the **Veda**, not the Samhita name.
 
 **Q4. UKPCS Prelims 2025, Q62**
 
@@ -782,6 +780,8 @@ D. Atharva Veda
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Same Krishna/Shukla split as UPPCS 2018, but the stem asks for the **Veda**, not the Samhita name.
 
 **Ans: C (Series B provisional key).** Only the Yajurveda has Krishna (Black) and Shukla (White) branches. Krishna mixes mantra with prose; Shukla keeps them apart.
 

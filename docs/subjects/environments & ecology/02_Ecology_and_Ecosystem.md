@@ -1069,8 +1069,6 @@ D. Becomes cyclic
 
 ## Extra drill — Ghatnachakra ecology stems
 
-**Logic:** These stems recycle Tansley / open system / hierarchy / artificial ecosystem / marine stability / succession / MEA / productivity order traps.
-
 **Q31.** The term ecosystem was proposed by:
 
 A. G. Taylor
@@ -1083,6 +1081,8 @@ D. A.G. Tansley
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** These stems recycle Tansley / open system / hierarchy / artificial ecosystem / marine stability / succession / MEA / productivity order traps.
 
 **Ans: D.** Tansley coined *ecosystem* in **1935**.
 

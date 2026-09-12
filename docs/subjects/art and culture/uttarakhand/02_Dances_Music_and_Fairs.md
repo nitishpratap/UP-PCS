@@ -67,8 +67,6 @@
 
 ## UKPCS Inline PYQ
 
-**Logic:** Field of the award decides it — social work vs folk music.
-
 **UKPCS Prelims 2025, Q53**
 
 Who among the following received the Padma Shri Award in 2025 for social work from Uttarakhand?
@@ -81,6 +79,8 @@ D. Shri Hugh and Colleen Gantzer (posthumously)
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Field of the award decides it — social work vs folk music.
+
 **Ans: C (Series B provisional key).** Radha Bahin Bhatt (Lakshmi Ashram, Kausani) received Padma Shri 2025 for social work. Madhuri Barthwal is the folk-music distractor.
 
 </details>
@@ -88,8 +88,6 @@ D. Shri Hugh and Colleen Gantzer (posthumously)
 ---
 
 ## Practice Zone
-
-**Logic:** Fair place.
 
 **Q1.** Uttarayani fair is classically associated with:
 
@@ -100,6 +98,8 @@ D. Puducherry
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Fair place.
 
 **Ans: A.** Uttarayani is the major Bageshwar fair in Kumaon coaching lists.
 

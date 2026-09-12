@@ -526,10 +526,10 @@ The earliest extant coins of India were of —
 
 A. Copper B. Gold C. Lead D. Silver
 
-**Logic:** Earliest extant = punch-marked silver (Aahat), not later gold.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Earliest extant = punch-marked silver (Aahat), not later gold.
 
 **Ans: D.** Punch-marked / Aahat coins are of **silver**.
 
@@ -543,10 +543,10 @@ Which Buddha text has described 16 Mahajanapadas of 6th century BCE?
 
 A. Digha Nikaya B. Tripitaka C. Deepavamsa D. Anguttara Nikaya
 
-**Logic:** Canonical list-source is Anguttara Nikaya; Jain parallel is Bhagavati Sutra.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Canonical list-source is Anguttara Nikaya; Jain parallel is Bhagavati Sutra.
 
 **Ans: D.** **Anguttara Nikaya**. Tripitaka is the whole basket, not the specific list text.
 
@@ -560,10 +560,10 @@ Which one of the following Buddhist texts describes the sixteen Mahajanapadas?
 
 A. Anguttara Nikaya B. Majjhima Nikaya C. Khuddaka Nikaya D. Digha Nikaya
 
-**Logic:** Same list-source trap across Nikayas.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Same list-source trap across Nikayas.
 
 **Ans: A.** **Anguttara Nikaya**.
 
@@ -582,10 +582,10 @@ B. Kosala — Ahichchhatra
 C. Vatsa — Kaushambi 
 D. Matsya — Viratnagar 
 
-**Logic:** Wrong capital glued to Kosala.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Wrong capital glued to Kosala.
 
 **Ans: B.** Kosala = Saket / Shravasti. Ahichchhatra = North Panchala.
 
@@ -606,10 +606,10 @@ Match List-I (Ancient places of U.P.) with List-II (Capital):
 
 A. 1 2 3 4 B. 4 3 1 2 C. 3 4 2 1 D. 4 2 3 1
 
-**Logic:** UP four; Indraprastha = Kuru, Ahichchhatra = Panchala.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** UP four; Indraprastha = Kuru, Ahichchhatra = Panchala.
 
 **Ans: B.** Kuru–Indraprastha; Panchala–Ahichchhatra; Kosala–Saket; Vatsa–Kaushambi.
 
@@ -630,10 +630,10 @@ Match List-I with List-II:
 
 A. 4 2 1 3 B. 3 1 4 2 C. 3 4 1 2 D. 2 3 4 1
 
-**Logic:** Classic 2020 four; Mathura is Surasena, never Matsya.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Classic 2020 four; Mathura is Surasena, never Matsya.
 
 **Ans: C.** 3-4-1-2. Matsya–Viratnagar, Kuru–Indraprastha, Surasena–Mathura, Asmaka–Potana.
 
@@ -650,10 +650,10 @@ B. Ashmak — Potan / Potil
 C. Shurasen — Kaushambi 
 D. Koshal — Shravasti 
 
-**Logic:** Surasena–Mathura vs Vatsa–Kaushambi.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Surasena–Mathura vs Vatsa–Kaushambi.
 
 **Ans: C.** Surasena = Mathura.
 
@@ -667,10 +667,10 @@ How many Mahajanapadas were located in present-day Uttar Pradesh among the oldes
 
 A. 06 B. 07 C. 08 D. 09 
 
-**Logic:** Eight UP-touching states.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Eight UP-touching states.
 
 **Ans: C.** Eight mahajanapadas touch present UP.
 
@@ -684,10 +684,10 @@ The capital of North Panchala, according to the Mahabharata, was located at —
 
 A. Hastinapur B. Indraprastha C. Ahichchhatra D. Mathura 
 
-**Logic:** North vs South Panchala split.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** North vs South Panchala split.
 
 **Ans: C.** North Panchala = **Ahichchhatra**; South = Kampilya.
 
@@ -701,10 +701,10 @@ Champa was the capital of which Mahajanapada?
 
 A. Magadha B. Vajji C. Kosala D. Anga 
 
-**Logic:** Anga port vs Magadha Rajgir.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Anga port vs Magadha Rajgir.
 
 **Ans: D.** Anga = **Champa** (Bhagalpur–Munger).
 
@@ -718,10 +718,10 @@ In the sixth century BCE Suktimati was the capital of —
 
 A. Panchala B. Kuru C. Chedi D. Avanti 
 
-**Logic:** Sotthivati / Suktimati = Chedi.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Sotthivati / Suktimati = Chedi.
 
 **Ans: C.** Chedi.
 
@@ -735,10 +735,10 @@ Matsya Mahajanapada of 6th century BCE was located in —
 
 A. Western Uttar Pradesh B. Rajasthan C. Bundelkhand D. Rohilkhand 
 
-**Logic:** Jaipur–Alwar–Bharatpur; not Rohilkhand (Panchala).
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Jaipur–Alwar–Bharatpur; not Rohilkhand (Panchala).
 
 **Ans: B.** Rajasthan; capital Viratnagar.
 
@@ -752,10 +752,10 @@ What is the town configuration of ancient Shravasti?
 
 A. Circular B. Crescentic C. Triangular D. Quadratic 
 
-**Logic:** Saheth–Maheth excavation plan.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Saheth–Maheth excavation plan.
 
 **Ans: B.** Crescentic.
 
@@ -769,10 +769,10 @@ The town of Kalpi is situated on the bank of the river —
 
 A. Ganga B. Yamuna C. Narmada D. Krishna 
 
-**Logic:** Jalaun Yamuna town.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Jalaun Yamuna town.
 
 **Ans: B.** Yamuna.
 
@@ -786,10 +786,10 @@ The Legend of Udayan–Vasavadatta is related to —
 
 A. Ujjain B. Mathura C. Mahishmati D. Kaushambi 
 
-**Logic:** Story setting is Ujjain imprisonment; Vatsa king loves Avanti princess.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Story setting is Ujjain imprisonment; Vatsa king loves Avanti princess.
 
 **Ans: A.** Related to **Ujjain** (Bhasa’s *Svapnavasavadattam*).
 
@@ -803,10 +803,10 @@ What was the ancient name of Ujjain?
 
 A. Taxila B. Indraprastha C. Avantika D. None of the above 
 
-**Logic:** Avantika / Ujjayini = northern Avanti capital.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Avantika / Ujjayini = northern Avanti capital.
 
 **Ans: C.** **Avantika**.
 
@@ -829,10 +829,10 @@ Match List-I with List-II:
 
 A. 1 2 3 4 B. 4 3 2 1 C. 3 2 4 1 D. 4 1 3 2
 
-**Logic:** Big Four kings.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Big Four kings.
 
 **Ans: C.** Pradyota–Avanti; Udayana–Vatsa; Prasenjit–Kosala; Ajatashatru–Magadha.
 
@@ -846,10 +846,10 @@ Which initial ruler of Magadha killed his father for enthroning and was also kil
 
 A. Bimbisara B. Ajatashatru C. Udayin D. Nagadasaka 
 
-**Logic:** Middle link of the parricide chain.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Middle link of the parricide chain.
 
 **Ans: B.** Ajatashatru.
 
@@ -863,10 +863,10 @@ The Prince who was responsible for the death of his father was —
 
 A. Ajatashatru B. Chandapradyota C. Prasenjit D. Udayana 
 
-**Logic:** Same Ajatashatru fact; Udayana of Vatsa is a distractor.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Same Ajatashatru fact; Udayana of Vatsa is a distractor.
 
 **Ans: A.** Ajatashatru.
 
@@ -880,10 +880,10 @@ Power of Magadha was extended over the Malwa region during the reign period of �
 
 A. Bimbisara B. Ajatashatru C. Udayabhadra D. Shishunaga 
 
-**Logic:** Avanti / Malwa falls to Shishunaga, not Bimbisara.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Avanti / Malwa falls to Shishunaga, not Bimbisara.
 
 **Ans: D.** Shishunaga annexes Avanti (Malwa).
 
@@ -897,10 +897,10 @@ Which King of Magadha is known as Aparoparashurama?
 
 A. Bindusara B. Ajatasatru C. Kalasoka D. Mahapadmananda 
 
-**Logic:** Nanda founder titles.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Nanda founder titles.
 
 **Ans: D.** Mahapadma Nanda.
 
@@ -914,10 +914,10 @@ Jivaka, the famous physician of the time of Mahatma Buddha, was associated with 
 
 A. Bimbisara B. Chanda Pradyota C. Prasenjit D. Udayana 
 
-**Logic:** Magadha court physician; also sent to treat Pradyota.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Magadha court physician; also sent to treat Pradyota.
 
 **Ans: A.** Court of **Bimbisara**.
 
@@ -934,10 +934,10 @@ B. Rummindei pillar inscription
 C. Junagarh inscription of Rudradaman 
 D. Ayodhya inscription of Dhandeva 
 
-**Logic:** Nanda canal / Jina image memory sits in Kharavela’s text.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Nanda canal / Jina image memory sits in Kharavela’s text.
 
 **Ans: A.** **Hathigumpha** of Kharavela.
 
@@ -951,10 +951,10 @@ The epigraphical evidence reveals that under the instructions of a Nanda king, a
 
 A. Anga B. Vanga C. Kalinga D. Magadha 
 
-**Logic:** Same Hathigumpha canal fact.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Same Hathigumpha canal fact.
 
 **Ans: C.** Kalinga.
 
@@ -968,10 +968,10 @@ Who among the following made Varanasi his second capital?
 
 A. Ajatashatru B. Kalashoka C. Mahapadmananda D. Shishunaga 
 
-**Logic:** Ambiguous stem; accepted key = Shishunaga.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Ambiguous stem; accepted key = Shishunaga.
 
 **Ans: D (accepted).** Shishunaga / Varanasi deputy-king tradition.
 
@@ -987,10 +987,10 @@ Which one was not in the earlier Republic?
 
 A. Shakya B. Lichchhavi C. Yaudheya D. All of the above 
 
-**Logic:** Buddha-age gana list vs later Yaudheya gana.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Buddha-age gana list vs later Yaudheya gana.
 
 **Ans: C.** **Yaudheya** is not in the earlier Buddha-period republic list used by this stem.
 
@@ -1006,10 +1006,10 @@ Who was the founder of Nanda Dynasty in Magadha?
 
 A. Mahapadmananda B. Dhanananda C. Nandivardhana D. Mahanandin 
 
-**Logic:** Founder vs last Nanda vs Shishunaga tail.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Founder vs last Nanda vs Shishunaga tail.
 
 **Ans: A.** Mahapadma Nanda (Ugrasena).
 
@@ -1026,10 +1026,10 @@ Read the statements (A) and (B):
 
 A. Both false B. Both true C. A true, B false D. A false, B true 
 
-**A/R logic:** Global upheaval + Vedic ritual complexity; both accepted true.
-
 <details>
 <summary>Show answer</summary>
+
+**A/R logic:** Global upheaval + Vedic ritual complexity; both accepted true.
 
 **Ans: B.** Both (A) and (B) are true.
 
@@ -1043,10 +1043,10 @@ A. Both false B. Both true C. A true, B false D. A false, B true
 
 A. Kashi B. Anga C. Avanti D. Vajji 
 
-**Logic:** Avanti king treated by Jivaka.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Avanti king treated by Jivaka.
 
 **Ans: C.** Avanti.
 
@@ -1058,10 +1058,10 @@ A. Kashi B. Anga C. Avanti D. Vajji
 
 A. Chandragupta Maurya B. Ashoka C. Mahapadma Nanda D. Ajatashatru 
 
-**Logic:** Long Vajji war = Ajatashatru.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Long Vajji war = Ajatashatru.
 
 **Ans: D.** Ajatashatru.
 
@@ -1073,10 +1073,10 @@ A. Chandragupta Maurya B. Ashoka C. Mahapadma Nanda D. Ajatashatru
 
 A. 2-1-4-3 B. 4-1-3-2 C. 3-2-1-4 D. 1-3-4-2 
 
-**Logic:** Haryanka → (Shishunaga omitted in options) → Nanda → Maurya → Shunga. Code uses 4,1,3,2.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Haryanka → (Shishunaga omitted in options) → Nanda → Maurya → Shunga. Code uses 4,1,3,2.
 
 **Ans: B.** Haryanka → Nanda → Maurya → Shunga (Shishunaga absent from the option set).
 
@@ -2023,10 +2023,10 @@ B. Kosala — Ahichchhatra
 C. Vatsa — Kaushambi 
 D. Matsya — Viratnagar 
 
-**Logic:** Capital–state match; Ahichchhatra belongs to Panchala, not Kosala (Kosala = Saket / Shravasti).
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Capital–state match; Ahichchhatra belongs to Panchala, not Kosala (Kosala = Saket / Shravasti).
 
 **Ans: B.** Kosala capitals are **Saket / Ayodhya** and **Shravasti**. Ahichchhatra is **North Panchala**.
 
@@ -2045,10 +2045,10 @@ D. Matsya — Viratnagar
 
 A. 1 2 3 4 B. 4 3 2 1 C. 3 2 4 1 D. 4 1 3 2
 
-**Logic:** Four contemporary monarchs of the Big Four age — do not swap Udayana (Vatsa) with Udayin (Magadha).
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Four contemporary monarchs of the Big Four age — do not swap Udayana (Vatsa) with Udayin (Magadha).
 
 **Ans: C.** Pradyota = Avanti (3); Udayana = Vatsa (2); Prasenjit = Kosala (4); Ajatashatru = Magadha (1). Trap: Magadha’s **Udayin** is a different man.
 
@@ -2060,10 +2060,10 @@ A. 1 2 3 4 B. 4 3 2 1 C. 3 2 4 1 D. 4 1 3 2
 
 A. Copper B. Gold C. Lead D. Silver 
 
-**Logic:** Punch-marked / Aahat coins of the mahajanapada age are silver, not Gupta gold.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Punch-marked / Aahat coins of the mahajanapada age are silver, not Gupta gold.
 
 **Ans: D.** **Aahat / punch-marked** coins are the earliest extant Indian coins and are of **silver**.
 
@@ -2075,10 +2075,10 @@ A. Copper B. Gold C. Lead D. Silver
 
 A. 06 B. 07 C. 08 D. 09 
 
-**Logic:** Count the UP eight; do not add Magadha / Vajji / Anga (Bihar).
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Count the UP eight; do not add Magadha / Vajji / Anga (Bihar).
 
 **Ans: C.** Eight: Kashi, Kosala, Vatsa, Malla, Kuru, Panchala, Surasena, Chedi.
 
@@ -2090,10 +2090,10 @@ A. 06 B. 07 C. 08 D. 09
 
 A. Circular B. Crescentic C. Triangular D. Quadratic 
 
-**Logic:** Cunningham’s Saheth–Maheth identification; excavation plan fact for UPPCS.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Cunningham’s Saheth–Maheth identification; excavation plan fact for UPPCS.
 
 **Ans: B.** Ancient Shravasti is remembered as **crescentic** in plan.
 
@@ -2105,10 +2105,10 @@ A. Circular B. Crescentic C. Triangular D. Quadratic
 
 A. Ganga B. Yamuna C. Narmada D. Krishna 
 
-**Logic:** Jalaun (UP) Yamuna town; ancient Kalpriya.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Jalaun (UP) Yamuna town; ancient Kalpriya.
 
 **Ans: B.** Kalpi sits on the **Yamuna** in Jalaun district.
 
@@ -2120,10 +2120,10 @@ A. Ganga B. Yamuna C. Narmada D. Krishna
 
 A. Bimbisara B. Ajatashatru C. Udayin D. Nagadasaka 
 
-**Logic:** Parricide chain — Ajatashatru kills Bimbisara; Udayin kills Ajatashatru.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Parricide chain — Ajatashatru kills Bimbisara; Udayin kills Ajatashatru.
 
 **Ans: B.** **Ajatashatru** kills Bimbisara and is later killed by **Udayin**.
 
@@ -2135,10 +2135,10 @@ A. Bimbisara B. Ajatashatru C. Udayin D. Nagadasaka
 
 A. Panchala B. Kuru C. Chedi D. Avanti 
 
-**Logic:** Sotthivati / Suktimati = Chedi in Bundelkhand.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Sotthivati / Suktimati = Chedi in Bundelkhand.
 
 **Ans: C.** Chedi capital = **Sotthivati / Suktimati**.
 
@@ -2153,10 +2153,10 @@ B. Asmaka — Potana / Potali
 C. Surasena — Kaushambi 
 D. Kosala — Shravasti 
 
-**Logic:** Surasena capital is Mathura; Kaushambi is Vatsa.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Surasena capital is Mathura; Kaushambi is Vatsa.
 
 **Ans: C.** Surasena = **Mathura**. Kaushambi = **Vatsa**.
 
@@ -2168,10 +2168,10 @@ D. Kosala — Shravasti
 
 A. Ajatashatru B. Kalashoka C. Mahapadma Nanda D. Shishunaga 
 
-**Logic:** Shishunaga as Kashi viceroy / Vaishali capital with a son as deputy at Varanasi.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Shishunaga as Kashi viceroy / Vaishali capital with a son as deputy at Varanasi.
 
 **Ans: D.** Coaching / UPPSC line accepts **Shishunaga** for the Varanasi second-capital stem.
 
@@ -2183,10 +2183,10 @@ A. Ajatashatru B. Kalashoka C. Mahapadma Nanda D. Shishunaga
 
 A. Bindusara B. Ajatashatru C. Kalashoka D. Mahapadma Nanda 
 
-**Logic:** Puranic title cluster with ekarat / sarvakshatrantaka.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Puranic title cluster with ekarat / sarvakshatrantaka.
 
 **Ans: D.** **Mahapadma Nanda** = ekarat / sarvakshatrantaka / aparoparashurama.
 
@@ -2198,10 +2198,10 @@ A. Bindusara B. Ajatashatru C. Kalashoka D. Mahapadma Nanda
 
 A. Mahapadmananda B. Dhanananda C. Nandivardhana D. Mahanandin 
 
-**Logic:** Founder vs last Nanda vs last Shishunaga names.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Founder vs last Nanda vs last Shishunaga names.
 
 **Ans: A.** **Mahapadma / Ugrasena** founds the Nandas. Dhana is last; Nandivardhana / Mahanandin belong to the Shishunaga tail.
 
@@ -2219,10 +2219,10 @@ B. Both (A) and (B) are true
 C. (A) is true, while (B) is false 
 D. (A) is false, while (B) is true 
 
-**A/R logic:** A tests global parallel (new faiths / questioning); B tests ritual complexity and priestly weight inside Vedic religion. Both stand; full religious teaching is Topic 4.
-
 <details>
 <summary>Show answer</summary>
+
+**A/R logic:** A tests global parallel (new faiths / questioning); B tests ritual complexity and priestly weight inside Vedic religion. Both stand; full religious teaching is Topic 4.
 
 **Ans: B.** Both true. Middle-Ganga new faiths rise while Vedic ritual grows complex; parallel questioning appears elsewhere in the same broad age.
 

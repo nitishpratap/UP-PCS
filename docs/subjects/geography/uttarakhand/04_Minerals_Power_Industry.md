@@ -110,8 +110,6 @@
 
 ## UKPCS Inline PYQ
 
-**Logic:** Test each district list; silica sand is the planted error.
-
 **UKPCS Prelims 2025, Q112**
 
 Which pair is not correctly matched?
@@ -124,6 +122,8 @@ D. Silica sand — Pauri Garhwal
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Test each district list; silica sand is the planted error.
+
 **Ans: D (Series B provisional key).** Silica sand associates with Dehradun, Nainital and Tehri Garhwal rather than Pauri Garhwal. A–C are treated as correctly matched.
 
 </details>
@@ -131,8 +131,6 @@ D. Silica sand — Pauri Garhwal
 ---
 
 ## Practice Zone
-
-**Logic:** Correct silica sand districts.
 
 **Q1.** Silica sand in Uttarakhand is associated with which set?
 
@@ -144,11 +142,11 @@ D. Almora, Pithoragarh
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Correct silica sand districts.
+
 **Ans: B.** Silica sand associates with Dehradun, Nainital and Tehri Garhwal — that corrects the 2025 wrong pair.
 
 </details>
-
-**Logic:** Flagship hydropower identity.
 
 **Q2.** The flagship multipurpose hydropower project on the Bhagirathi system in Uttarakhand is:
 
@@ -159,6 +157,8 @@ D. Silkyara
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Flagship hydropower identity.
 
 **Ans: B.** Tehri is the flagship hydropower complex on the Bhagirathi. Pantnagar and Gauchar are airfields; Silkyara is a road tunnel.
 

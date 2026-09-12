@@ -275,8 +275,6 @@ With reference to the ozone layer:
 
 ## Complete PYQ Bank (Topic 35)
 
-**Logic:** Ozone layer location — ~90% of atmospheric ozone sits in the stratosphere, not troposphere.
-
 **Q1. UPPCS Prelims 2023, Q52**
 
 The ozone layer, which absorbs ultraviolet radiation, exists in which layer of the atmosphere?
@@ -292,13 +290,13 @@ D. Thermosphere
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Ozone layer location — ~90% of atmospheric ozone sits in the stratosphere, not troposphere.
+
 **Ans: C.** Protective ozone maximum is in the **stratosphere** (~15–35 km). **Trap:** Troposphere because of ground-level photochemical ozone pollution.
 
 </details>
 
 ---
-
-**Logic:** Atmospheric heating — surface emits longwave IR that warms the lower atmosphere from below.
 
 **Q2. UPPCS Prelims 2022, Q138**
 
@@ -315,13 +313,13 @@ D. Short-wave solar radiation
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Atmospheric heating — surface emits longwave IR that warms the lower atmosphere from below.
+
 **Ans: A.** The surface absorbs shortwave solar energy and re-emits **longwave terrestrial radiation** that heats the troposphere. **Trap:** Direct shortwave heats the ground first, not the main lower-air heating mechanism.
 
 </details>
 
 ---
-
-**Logic:** Maximum ozone concentration layer — stratosphere in both 2018 and 2023 stems.
 
 **Q3. UPPCS Prelims 2018, Q52**
 
@@ -338,13 +336,13 @@ D. Exosphere
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Maximum ozone concentration layer — stratosphere in both 2018 and 2023 stems.
+
 **Ans: C.** **Stratosphere** holds peak ozone column. **Trap:** Mesosphere (meteors) or exosphere (satellites).
 
 </details>
 
 ---
-
-**Logic:** Wrong pair trap — ozone layer is never in troposphere on match lists.
 
 **Q4. UPPCS Prelims 2018, Q57**
 
@@ -361,13 +359,13 @@ D. Ozone layer — Troposphere
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Wrong pair trap — ozone layer is never in troposphere on match lists.
+
 **Ans: D.** Ozone layer = **stratosphere**. A, B, C are correctly matched distractors. **Trap:** Accepting ozone anywhere in the atmosphere as the protective layer location.
 
 </details>
 
 ---
-
-**Logic:** Stratospheric ozone protects from UV; CFCs linked to depletion — both statements true.
 
 **Q5. UPPCS Prelims 2025, Q45**
 
@@ -387,13 +385,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Stratospheric ozone protects from UV; CFCs linked to depletion — both statements true.
+
 **Ans: C.** Good stratospheric ozone shields **UV**; **CFCs/ODS** drive anthropogenic depletion. **Trap:** Denying CFC link or treating all ozone as harmful ground pollutant.
 
 </details>
 
 ---
-
-**Logic:** Light scattering — dust aerosols scatter sunlight (blue sky, red sunset).
 
 **Q6. UPPCS Prelims 2021, Q134**
 
@@ -410,13 +408,13 @@ D. Water vapours
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Light scattering — dust aerosols scatter sunlight (blue sky, red sunset).
+
 **Ans: B.** **Dust/aerosols** scatter visible light. **Trap:** CO2 (GHG IR trapping) or water vapour alone without aerosol context.
 
 </details>
 
 ---
-
-**Logic:** Natural GHG set — CO2, CH4, O3 yes; nitrogen oxides not in the classic natural GHG list tested here.
 
 **Q7. UPPCS Prelims 2020, Q139**
 
@@ -433,13 +431,13 @@ D. Ozone
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Natural GHG set — CO2, CH4, O3 yes; nitrogen oxides not in the classic natural GHG list tested here.
+
 **Ans: A.** **CO2, CH4, O3** are natural GHGs in this stem set; **NOx** is not treated as that major natural GHG basket. **Trap:** Confusing N2 (not GHG) with N2O (is GHG).
 
 </details>
 
 ---
-
-**Logic:** Weather phenomena — confined to troposphere where water vapour and convection dominate.
 
 **Q8. Pattern**
 
@@ -456,13 +454,13 @@ D. Thermosphere
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Weather phenomena — confined to troposphere where water vapour and convection dominate.
+
 **Ans: A.** **Troposphere** alone has day-to-day weather. **Trap:** Stratosphere because ozone or jet streams are taught nearby.
 
 </details>
 
 ---
-
-**Logic:** Meteors burn in mesosphere; aurora/ISS in thermosphere — layer-function pairing.
 
 **Q9. Pattern**
 
@@ -479,13 +477,13 @@ D. International Space Station orbit — Exosphere only
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Meteors burn in mesosphere; aurora/ISS in thermosphere — layer-function pairing.
+
 **Ans: A.** **Meteors ~50–85 km (mesosphere)**; aurora/ISS sit in **thermosphere** band. **Trap:** Putting meteors in troposphere because shooting stars appear in the sky below.
 
 </details>
 
 ---
-
-**Logic:** Dry air composition — N2 ~78%, O2 ~21%, Ar ~0.93%; N2 is not a GHG.
 
 **Q10. Pattern**
 
@@ -501,6 +499,8 @@ D. Nitrogen and oxygen both major greenhouse gases
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Dry air composition — N2 ~78%, O2 ~21%, Ar ~0.93%; N2 is not a GHG.
 
 **Ans: A.** Permanent gases **N2/O2/Ar** dominate by volume; trace **CO2 ~0.04%** still drives enhanced greenhouse effect. **Trap:** Percentage dominance mistaken for radiative importance, or argon listed as GHG.
 

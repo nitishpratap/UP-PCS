@@ -272,8 +272,6 @@ Options: A. Club of Rome B. UNESCO C. Brundtland D. Agenda 21
 
 ## Complete PYQ Bank (Topic 42)
 
-**Logic:** Org–report match — Emissions Gap Report is UNEP’s; HDR is UNDP’s; WEO is IMF’s; WIR is UNCTAD’s.
-
 **Q1. UPPCS Prelims 2024, Q6**
 
 Match List-I (Organisation) with List-II (Report):
@@ -295,11 +293,11 @@ D. 4 2 3 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Org–report match — Emissions Gap Report is UNEP’s; HDR is UNDP’s; WEO is IMF’s; WIR is UNCTAD’s.
+
 **Ans: A (3 1 4 2).** HDR→**UNDP**; WEO→**IMF**; WIR→**UNCTAD**; Emissions Gap→**UNEP**. **Trap:** Crediting IPCC or UNDP with Emissions Gap Report.
 
 </details>
-
-**Logic:** HDR/HDI started 1990 under UNDP with Mahbub ul Haq and Amartya Sen — not “Priesner-led” team.
 
 **Q2. UPPCS Prelims 2025, Q132**
 
@@ -316,11 +314,11 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** HDR/HDI started 1990 under UNDP with Mahbub ul Haq and Amartya Sen — not “Priesner-led” team.
+
 **Ans: D (Only 1).** Stmt 1 true; stmt 2 false — **Haq–Sen** lineage, not Priesner. **Trap:** Accepting any plausible Western name on stmt 2.
 
 </details>
-
-**Logic:** GEF established 1991; donors are not “developed countries only.”
 
 **Q3. UPPCS Prelims 2025, Q145**
 
@@ -337,11 +335,11 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** GEF established 1991; donors are not “developed countries only.”
+
 **Ans: D (Only 1).** **1991** true; donor statement **false** — developing countries also contribute. **Trap:** Treating GEF as Annex-I-only club.
 
 </details>
-
-**Logic:** HDI is UNDP’s flagship index — not IMF, UNICEF, or UNCTAD.
 
 **Q4. UPPCS Prelims 2018, Q35**
 
@@ -355,11 +353,11 @@ D. UNCTAD
 <details>
 <summary>Show answer</summary>
 
+**Logic:** HDI is UNDP’s flagship index — not IMF, UNICEF, or UNCTAD.
+
 **Ans: A.** **UNDP** publishes HDR/HDI from **1990**. **Trap:** UNEP because “environment” sounds related.
 
 </details>
-
-**Logic:** Jaipur inscribed as UNESCO World Heritage Site at the 43rd session in Baku (2019).
 
 **Q5. UPPCS Prelims 2019, Q35**
 
@@ -373,11 +371,11 @@ D. Marrakesh
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Jaipur inscribed as UNESCO World Heritage Site at the 43rd session in Baku (2019).
+
 **Ans: A (Baku).** **43rd WHC session — Baku, 2019.** **Trap:** Marrakesh/Istanbul as other recent host cities.
 
 </details>
-
-**Logic:** Limits to Growth (1972) was Club of Rome — not UNESCO, Brundtland, or Agenda 21.
 
 **Q6. UPPCS Prelims 2019, Q146**
 
@@ -391,11 +389,11 @@ D. Agenda 21
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Limits to Growth (1972) was Club of Rome — not UNESCO, Brundtland, or Agenda 21.
+
 **Ans: A.** **Club of Rome** (1972); Brundtland = Our Common Future; Agenda 21 = Rio 1992. **Trap:** UNESCO because of “education/science” label.
 
 </details>
-
-**Logic:** IPCC created 1988 by WMO + UNEP; shared Nobel Peace Prize 2007 — does not set NDCs.
 
 **Q7. UPPCS Prelims (pattern)**
 
@@ -409,11 +407,11 @@ D. UNDP and UNESCO alone
 <details>
 <summary>Show answer</summary>
 
+**Logic:** IPCC created 1988 by WMO + UNEP; shared Nobel Peace Prize 2007 — does not set NDCs.
+
 **Ans: A.** **WMO + UNEP → IPCC (1988)**; Nobel **2007**. **Trap:** IPCC = UNFCCC treaty body (policy is UNFCCC/COP).
 
 </details>
-
-**Logic:** IUCN Red List assesses extinction risk; CITES regulates international wildlife trade — different jobs.
 
 **Q8. UPPCS Prelims (pattern)**
 
@@ -427,11 +425,11 @@ D. Red List Appendix I–III sets trade permits
 <details>
 <summary>Show answer</summary>
 
+**Logic:** IUCN Red List assesses extinction risk; CITES regulates international wildlife trade — different jobs.
+
 **Ans: A.** **IUCN** = risk assessment; **CITES** = trade regulation (Appendices I–III). **Trap:** “IUCN bans trade” or WWF authorship of Red List.
 
 </details>
-
-**Logic:** WWF publishes Living Planet Report/LPI; IUCN publishes Red List — both HQ in Gland but different roles.
 
 **Q9. UPPCS Prelims (pattern)**
 
@@ -445,11 +443,11 @@ D. FAO
 <details>
 <summary>Show answer</summary>
 
+**Logic:** WWF publishes Living Planet Report/LPI; IUCN publishes Red List — both HQ in Gland but different roles.
+
 **Ans: A.** **WWF** = Living Planet / LPI; **IUCN** = Red List. **Trap:** Same city (Gland) → same organisation.
 
 </details>
-
-**Logic:** HQ ladder — UNEP Nairobi; FAO Rome; UNESCO Paris; IPCC/WMO Geneva; UNDP New York.
 
 **Q10. UPPCS Prelims (pattern)**
 
@@ -462,6 +460,8 @@ D. UNEP — New York; FAO — Gland; UNESCO — Geneva
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** HQ ladder — UNEP Nairobi; FAO Rome; UNESCO Paris; IPCC/WMO Geneva; UNDP New York.
 
 **Ans: A.** **UNEP Nairobi**, **FAO Rome**, **UNESCO Paris** (IPCC/WMO Geneva; UNDP New York). **Trap:** UNEP in Geneva because “environment = Geneva agencies.”
 

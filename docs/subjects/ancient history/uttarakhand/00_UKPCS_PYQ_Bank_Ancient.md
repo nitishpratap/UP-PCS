@@ -6,8 +6,6 @@ Drill file for dual-exam Ancient. Full year banks remain under [UKPCS PYQs](../.
 
 ### UKPCS Prelims 2025, Q62 — Yajurveda Krishna / Shukla
 
-**Logic:** Only Yajurveda has the black/white recension split; UPPCS 2018 asked Samhita names of the same split.
-
 Which Veda is divided into Krishna and Shukla branches?
 
 A. Rig Veda 
@@ -18,13 +16,13 @@ D. Atharva Veda
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Only Yajurveda has the black/white recension split; UPPCS 2018 asked Samhita names of the same split.
+
 **Ans: C (Series B provisional key).** Krishna (Black) mixes mantra and prose; Shukla (White) keeps them apart. Teaching home: [Vedic Civilization](../03_Vedic_Civilization.md).
 
 </details>
 
 ### UKPCS Prelims 2025, Q63 — Palibothra
-
-**Logic:** Greek form of Pataliputra; Purushapura distractor is Peshawar.
 
 Which ancient city was named Palibothra in Greek texts?
 
@@ -36,13 +34,13 @@ D. Pataliputra
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Greek form of Pataliputra; Purushapura distractor is Peshawar.
+
 **Ans: D (Series B provisional key).** Megasthenes and other Greek writers call Mauryan Pataliputra **Palibothra**. Teaching home: [Mauryan Empire](../07_Mauryan_Empire.md).
 
 </details>
 
 ### UKPCS Prelims 2025, Q64 — Ashokan scripts
-
-**Logic:** Prakrit+Brahmi is the default; NW exceptions use Kharoshthi.
 
 Consider the statements on Ashokan inscriptions:
 
@@ -57,6 +55,8 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Prakrit+Brahmi is the default; NW exceptions use Kharoshthi.
+
 **Ans: C (Series B provisional key).** Both statements are correct. Teaching home: [Mauryan Empire](../07_Mauryan_Empire.md).
 
 </details>
@@ -64,8 +64,6 @@ D. Neither 1 nor 2
 ## Uttarakhand Ancient — keyed / consensus
 
 ### UKPCS Prelims 2025, Q75 — Brahmapura
-
-**Logic:** Traveller’s regional name vs Katyuri capital vs inscription sites.
 
 By which name did Hiuen-Tsang address the Kumaon region?
 
@@ -77,13 +75,13 @@ D. Pandukeshwar
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Traveller’s regional name vs Katyuri capital vs inscription sites.
+
 **Ans: B (Series B provisional key).** Brahmapura. Homes: [Kuninda and Yaudheya](03_Kuninda_and_Yaudheya.md) · [Kartikepur](04_Kartikepur_Dynasty.md).
 
 </details>
 
 ### UKPCS Prelims 2016 — Kuninda in Mahabharata
-
-**Logic:** Epic title for Kuninda kings.
 
 In the Mahabharata, by what name were the Kuninda kings known?
 
@@ -95,6 +93,8 @@ D. Dwij
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Epic title for Kuninda kings.
+
 **Ans: C (coaching consensus; confirm official key).** Dwij Srestha. Home: [Kuninda and Yaudheya](03_Kuninda_and_Yaudheya.md).
 
 </details>
@@ -102,8 +102,6 @@ D. Dwij
 ## Bridge literature (early medieval biographies)
 
 ### UKPCS Prelims 2025, Q55 — Sanskrit biographies
-
-**Logic:** Match author to court biography; Pala / Paramara / Chalukya / Hemachandra traps.
 
 | Biography | Author |
 |-----------|--------|
@@ -114,6 +112,8 @@ D. Dwij
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Match author to court biography; Pala / Paramara / Chalukya / Hemachandra traps.
 
 **Ans: C in the 2025 Series B key (A-3, B-1, C-2, D-4).** National teaching homes: Post-Gupta / early medieval literature cards. Not a Uttarakhand-only stem.
 

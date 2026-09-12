@@ -412,8 +412,6 @@ D. All three
 
 ## Extra drill — food-chain / energy / biomagnification stems
 
-**Logic:** Classic chain order, human trophic role, marine producers, 10% law, inverted biomass, DDT biomagnification.
-
 **Q31.** Correct grassland food-chain order:
 
 A. Grass–Grasshopper–Frog–Snake
@@ -426,6 +424,8 @@ D. Grasshopper–Snake–Frog–Grass
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Classic chain order, human trophic role, marine producers, 10% law, inverted biomass, DDT biomagnification.
 
 **Ans: A.** Producer → primary → secondary → tertiary consumer.
 

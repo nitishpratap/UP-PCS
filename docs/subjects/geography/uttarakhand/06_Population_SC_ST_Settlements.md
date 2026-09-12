@@ -107,8 +107,6 @@
 
 ## UKPCS Inline PYQs
 
-**Logic:** Almora tops and Haridwar trails.
-
 **UKPCS Prelims 2025, Q111**
 
 Which group of districts is in descending order of sex ratio as per Census 2011?
@@ -121,11 +119,11 @@ D. Haridwar, Rudraprayag, Almora, Tehri Garhwal
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Almora tops and Haridwar trails.
+
 **Ans: A (Series B provisional key).** Almora highest, then Rudraprayag, Tehri Garhwal, with Haridwar last.
 
 </details>
-
-**Logic:** Home district plus cultivation practice.
 
 **UKPCS Prelims 2025, Q113**
 
@@ -140,6 +138,8 @@ D. Both incorrect
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Home district plus cultivation practice.
+
 **Ans: A (Series B provisional key).** Both the Pithoragarh home and the shifting-cultivation history are treated as correct.
 
 </details>
@@ -147,8 +147,6 @@ D. Both incorrect
 ---
 
 ## Practice Zone
-
-**Logic:** Distinguish Tarai tribal groups from Pithoragarh Vanrawats.
 
 **Q1.** Vanrawats (Raji) of Uttarakhand are primarily associated with:
 
@@ -160,11 +158,11 @@ D. Nainital lake towns only
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Distinguish Tarai tribal groups from Pithoragarh Vanrawats.
+
 **Ans: B.** Vanrawats/Raji are the forest-dwelling PTG of Pithoragarh. Tharu and Boksa belong to the Tarai story.
 
 </details>
-
-**Logic:** Settlement contrast.
 
 **Q2.** Compact nucleated villages on terrace slopes are most typical of:
 
@@ -175,6 +173,8 @@ D. Only industrial estates of Rudrapur
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Settlement contrast.
 
 **Ans: B.** Mid-hill belts often show compact villages tied to scarce terrace land; Tarai shows more dispersed farm patterns.
 

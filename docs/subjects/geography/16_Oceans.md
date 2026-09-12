@@ -763,8 +763,6 @@ A strait is a narrow natural waterway joining two larger water bodies. Always as
 
 **2026 news frame:** From late February 2026, conflict around Iran turned Hormuz into a live chokepoint story — restricted transit, tanker risk, insurance spikes, and talk of dual blockades. Geography stays the same: **only sea door** out of the Persian Gulf.
 
-**Logic:** Do not mark **Oman** as a Persian Gulf coastal state. Do not mark **UAE alone** as both shores of Hormuz. Hormuz is **not** Red Sea–Mediterranean (that is Suez) and **not** Black–Marmara (that is Bosphorus).
-
 ### Other high-yield straits — seas joined + shores
 
 | Strait | Joins | Shore / country cue |
@@ -818,8 +816,6 @@ A **canal** is a dug waterway. A **strait** is a natural narrows. For every cana
 | Famous lake | Canal lakes (Manzala…Bitter) | **Gatun Lake** (fresh reservoir on the climb) |
 | Shortcut avoids | **Cape of Good Hope** (Africa) | **Cape Horn** (South America) |
 | India–Europe | Cut about **7000 km** | Not the India–Europe Med route |
-
-**Logic:** “Sea-level” means the canal floor follows the sea surface — ships do **not** need gated lift chambers. Panama’s land is higher, so ships must be raised and lowered through stepped chambers, with **Gatun Lake** in the middle.
 
 ---
 
@@ -888,8 +884,6 @@ Before 1869, Europe–India steamers often rounded **Africa**. Suez cut that mar
 
 **Inline PYQ — UPPCS Prelims 2025, Q138**
 
-**Logic:** Stem lists four water bodies. Suez’s own ends are only **Mediterranean** and **Red Sea**. Atlantic is wrong. Indian Ocean is reached **after** the Red Sea, so it is not a canal-end pair in this paper.
-
 The Suez Canal connects which of the following?
 
 1. Atlantic Ocean
@@ -908,13 +902,13 @@ D. 1 and 2
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Stem lists four water bodies. Suez’s own ends are only **Mediterranean** and **Red Sea**. Atlantic is wrong. Indian Ocean is reached **after** the Red Sea, so it is not a canal-end pair in this paper.
+
 **Ans: C.** Ends = **2 Red Sea** and **3 Mediterranean**. Trap: picking Indian Ocean because India–Europe ships use Suez as a **route**; the canal itself stops at the Red Sea.
 
 </details>
 
 **Inline PYQ — UPPCS Prelims 2019, Q76**
-
-**Logic:** North→south lake order starts at the Mediterranean end. Mnemonic **“Man Takes Great Little”** = Manzala → Timsah → Great Bitter → Little Bitter.
 
 Which of the following is the correct sequence of lakes of the Suez Canal from north to south?
 
@@ -929,13 +923,13 @@ D. Manzala — Timsah — Great Bitter — Little Bitter
 <details>
 <summary>Show answer</summary>
 
+**Logic:** North→south lake order starts at the Mediterranean end. Mnemonic **“Man Takes Great Little”** = Manzala → Timsah → Great Bitter → Little Bitter.
+
 **Ans: D.** **Manzala → Timsah → Great Bitter → Little Bitter**. Trap: starting with Timsah or reversing from the Red Sea end.
 
 </details>
 
 **Inline PYQ — UPPCS Prelims 2018, Q29**
-
-**Logic:** Classic distance cut after Suez opened. Coaching / UPPCS figure is about **7000 km**, not 5000 / 8000 / 10000.
 
 After the opening of the Suez Canal, the distance between India and Europe was reduced by about:
 
@@ -949,6 +943,8 @@ D. 10,000 km
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Classic distance cut after Suez opened. Coaching / UPPCS figure is about **7000 km**, not 5000 / 8000 / 10000.
 
 **Ans: B.** About **7000 km**. Trap: neighbouring round numbers in the options.
 
@@ -1685,8 +1681,6 @@ D. Aral Sea
 
 **Q-GC15. MPPCS 1991**
 
-**Logic:** Stem tests Türkiye’s **north** coast only. Caspian is east of the Caucasus, not Türkiye’s northern sea. Mediterranean is **south**.
-
 Towards the North of Turkey is –
 
 A. Black Sea
@@ -1700,6 +1694,8 @@ D. Mediterranean Sea
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Stem tests Türkiye’s **north** coast only. Caspian is east of the Caucasus, not Türkiye’s northern sea. Mediterranean is **south**.
+
 **Ans: A.** Türkiye’s north coast is the **Black Sea**. Clock cue: north = Black, south = Mediterranean. Trap: picking Caspian because it is “near” on a small atlas zoom.
 
 </details>
@@ -1707,8 +1703,6 @@ D. Mediterranean Sea
 ---
 
 **Q-GC16. IAS 2014**
-
-**Logic:** Stem wants the big **north–south frame** of Türkiye. Caspian is not a Turkish coast. Suez / Aqaba options belong to Egypt–Levant–Red Sea, not Türkiye.
 
 Turkey is located between –
 
@@ -1723,6 +1717,8 @@ D. Gulf of Aqaba and the Dead Sea
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Stem wants the big **north–south frame** of Türkiye. Caspian is not a Turkish coast. Suez / Aqaba options belong to Egypt–Levant–Red Sea, not Türkiye.
+
 **Ans: B.** North = **Black Sea**, south = **Mediterranean**. Aegean and Marmara sit on the west connector chain. Trap: A swaps in the Caspian.
 
 </details>
@@ -1730,8 +1726,6 @@ D. Gulf of Aqaba and the Dead Sea
 ---
 
 **Q-GC17. UP RO/ARO Pre 2016**
-
-**Logic:** West→east Eurasian ladder. Mnemonic **“My Black Cat Ate”** = Mediterranean → Black → Caspian → Aral. Do not put Black before Mediterranean.
 
 The correct sequence of the following seas from west to east is:
 
@@ -1745,6 +1739,8 @@ D. Black Sea, Mediterranean Sea, Aral Sea, Caspian Sea
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** West→east Eurasian ladder. Mnemonic **“My Black Cat Ate”** = Mediterranean → Black → Caspian → Aral. Do not put Black before Mediterranean.
 
 **Ans: C.** Order = **Mediterranean → Black → Caspian → Aral**. Trap: A starts with Black; D swaps Aral and Caspian.
 
@@ -1901,8 +1897,6 @@ D. Tunisia
 
 **Q-GC25. IAS 2015**
 
-**Logic:** Levant Med coasts = Syria, Lebanon, Israel. Jordan’s only sea tip is **Aqaba** on the Red Sea, so it does not “open out” to the Mediterranean.
-
 Which one of the following countries of South-West Asia does not open out to the Mediterranean Sea?
 
 A. Syria
@@ -1916,6 +1910,8 @@ D. Israel
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Levant Med coasts = Syria, Lebanon, Israel. Jordan’s only sea tip is **Aqaba** on the Red Sea, so it does not “open out” to the Mediterranean.
+
 **Ans: B.** **Jordan** has no Mediterranean coast. Its sea outlet is the **Gulf of Aqaba**. Trap: thinking every Levant state touches the Med.
 
 </details>
@@ -1923,8 +1919,6 @@ D. Israel
 ---
 
 **Q-GC26. MPPCS 2023**
-
-**Logic:** Gaza is a Mediterranean coastal strip of the Levant. Red Sea is far south via Sinai / Aqaba; Black and Caspian are unrelated.
 
 Which of the following seas is near the 'Gaza Strip'?
 
@@ -1938,6 +1932,8 @@ D. Caspian Sea
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Gaza is a Mediterranean coastal strip of the Levant. Red Sea is far south via Sinai / Aqaba; Black and Caspian are unrelated.
 
 **Ans: A.** Gaza faces the **Mediterranean**. Trap: linking Gaza to the Red Sea because of regional Middle East maps.
 
@@ -2020,8 +2016,6 @@ D. Bulgaria
 
 **Q-GC30. UP RO/ARO Mains 2021**
 
-**Logic:** Baltic ring = Denmark, Germany, Poland, three Baltics, Russia, Finland, Sweden. **Norway** faces North Sea / Norwegian Sea, so any option that pairs Norway with a Baltic state is the odd one out.
-
 Which one of the following countries is not situated along the coast of Baltic Sea?
 
 A. Latvia and Poland
@@ -2034,6 +2028,8 @@ D. Sweden and Norway
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Baltic ring = Denmark, Germany, Poland, three Baltics, Russia, Finland, Sweden. **Norway** faces North Sea / Norwegian Sea, so any option that pairs Norway with a Baltic state is the odd one out.
 
 **Ans: D.** **Norway** is not a Baltic coastal state. Sweden is on the Baltic; Norway is not. Trap: treating all Scandinavia as Baltic.
 
@@ -4486,8 +4482,6 @@ D. Ross Sea only
 
 **Q54.** Suez Canal (unlike Panama) is famous for:
 
-**Logic:** Suez is a **sea-level** cut. Panama needs **stepped chambers** and Gatun Lake. Do not swap.
-
 A. Many stepped chambers like Panama
 
 B. Sea-level passage (ships do not climb chambers)
@@ -4498,6 +4492,8 @@ D. Being in Panama
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Suez is a **sea-level** cut. Panama needs **stepped chambers** and Gatun Lake. Do not swap.
 
 **Ans: B.** Suez = **sea-level**. Panama = stepped chambers + Gatun. Trap: treating both canals as the same engineering type.
 
@@ -4876,8 +4872,6 @@ D. Hydrothermal vent — only found on continental shelves under 50 m
 2. Its shores are held by Iran on the north and Oman on the south.
 3. Oman is a classic Persian Gulf coastal state along with Iraq and Kuwait.
 
-**Logic:** Hormuz door = Persian Gulf ↔ Gulf of Oman. Shore pair = Iran–Oman. Oman faces the **Gulf of Oman / Arabian Sea**, so statement 3 is false.
-
 A. 1 and 2 only
 
 B. 1 and 3 only
@@ -4888,6 +4882,8 @@ D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Hormuz door = Persian Gulf ↔ Gulf of Oman. Shore pair = Iran–Oman. Oman faces the **Gulf of Oman / Arabian Sea**, so statement 3 is false.
 
 **Ans: A.** 1 true — Hormuz = **Persian Gulf ↔ Gulf of Oman**. 2 true — shores = **Iran (N) + Oman (S)**. 3 false — Persian Gulf coasts = Iran, Iraq, Kuwait, Saudi Arabia, Bahrain, Qatar, UAE; **Oman is out**. Trap: putting Oman inside the Gulf list because it borders Hormuz.
 
@@ -4902,8 +4898,6 @@ D. 1, 2 and 3
 3. Caspian Sea
 4. Mediterranean Sea
 
-**Logic:** Mnemonic **“My Black Cat Ate”** = Mediterranean → Black → Caspian → Aral.
-
 A. 2–4–3–1
 
 B. 4–2–3–1
@@ -4915,6 +4909,8 @@ D. 2–4–1–3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Mnemonic **“My Black Cat Ate”** = Mediterranean → Black → Caspian → Aral.
+
 **Ans: B.** Order = **4 Mediterranean → 2 Black → 3 Caspian → 1 Aral**. Trap: starting with Black, or swapping Aral before Caspian.
 
 </details>
@@ -4922,8 +4918,6 @@ D. 2–4–1–3
 ---
 
 **Q78.** Which one of the following is correctly matched?
-
-**Logic:** Eliminate three stock traps — Gaza/Jordan/Med mix-ups and Norway-on-Baltic — leave Türkiye north = Black.
 
 A. Gaza Strip — faces the Red Sea
 
@@ -4935,6 +4929,8 @@ D. Türkiye’s north coast — Black Sea
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Eliminate three stock traps — Gaza/Jordan/Med mix-ups and Norway-on-Baltic — leave Türkiye north = Black.
 
 **Ans: D.** Türkiye north = **Black Sea**. Gaza faces the **Mediterranean**; Jordan has **no** Med coast; **Norway** is not on the Baltic.
 

@@ -175,8 +175,6 @@ Options: A. Pliocene B. Paleocene C. Pleistocene and recent deposits D. Oligocen
 
 ## Complete PYQ Bank (Topic 40)
 
-**Logic:** SDG 15.3 Land Degradation Neutrality target year for India is 2030.
-
 **Q1. UPPCS Prelims 2019, Q42**
 
 India aims to achieve land degradation neutrality by the year
@@ -189,11 +187,11 @@ D. 2040
 <details>
 <summary>Show answer</summary>
 
+**Logic:** SDG 15.3 Land Degradation Neutrality target year for India is 2030.
+
 **Ans: B.** **LDN by 2030** under SDG 15.3 / UNCCD framing. **Trap:** 2025 or 2040 as round-number distractors.
 
 </details>
-
-**Logic:** Chronology of rural employment/welfare programmes — CDP 1952 → DPAP 1973 → Food for Work 1977 → TRYSEM 1979.
 
 **Q2. UPPCS Prelims 2025, Q134**
 
@@ -212,11 +210,11 @@ D. 4, 2, 1, 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Chronology of rural employment/welfare programmes — CDP 1952 → DPAP 1973 → Food for Work 1977 → TRYSEM 1979.
+
 **Ans: B.** Order: **CDP (1952) → DPAP (1973) → Food for Work (1977) → TRYSEM (1979)**. **Trap:** Placing DPAP before CDP or TRYSEM before Food for Work.
 
 </details>
-
-**Logic:** Thar desert surficial deposits — Pleistocene and recent, not Paleocene/Oligocene alone.
 
 **Q3. UPPCS Prelims 2018, Q101**
 
@@ -230,11 +228,11 @@ D. Oligocene
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Thar desert surficial deposits — Pleistocene and recent, not Paleocene/Oligocene alone.
+
 **Ans: C.** Thar cover is **Pleistocene + recent** aeolian/alluvial material. **Trap:** Picking older Tertiary epochs as “desert = ancient only.”
 
 </details>
-
-**Logic:** UNCCD adopted 1994; Desertification and Drought Day is 17 June.
 
 **Q4. UPPCS Prelims (pattern)**
 
@@ -248,11 +246,11 @@ D. 2015
 <details>
 <summary>Show answer</summary>
 
+**Logic:** UNCCD adopted 1994; Desertification and Drought Day is 17 June.
+
 **Ans: A.** **UNCCD adopted 17 June 1994** (Paris); in force 1996. **Trap:** Confusing with Rio 1992 or UNFCCC alone.
 
 </details>
-
-**Logic:** Desertification is productivity loss in ASDM drylands — not merely sand-dune expansion.
 
 **Q5. UPPCS Prelims (pattern)**
 
@@ -266,11 +264,11 @@ D. Permanent ocean acidification
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Desertification is productivity loss in ASDM drylands — not merely sand-dune expansion.
+
 **Ans: A.** **ASDM dryland** productivity loss from climate + human pressure. **Trap:** “Desertification = dunes moving only.”
 
 </details>
-
-**Logic:** Water erosion stages — sheet → rill → gully → ravine; Chambal is the classic ravine belt.
 
 **Q6. UPPCS Prelims (pattern)**
 
@@ -284,11 +282,11 @@ D. Wind abrasion → BOD assay
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Water erosion stages — sheet → rill → gully → ravine; Chambal is the classic ravine belt.
+
 **Ans: A.** Thin **sheet** loss → **rill** channels → **gullies** → deep **ravines** (Chambal badlands). **Trap:** Reversing ravine and sheet.
 
 </details>
-
-**Logic:** Afforestation and shelter belts prevent erosion — they are mitigation, not causes of degradation.
 
 **Q7. UPPCS Prelims (pattern)**
 
@@ -302,11 +300,11 @@ D. Improper irrigation without drainage (salinization)
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Afforestation and shelter belts prevent erosion — they are mitigation, not causes of degradation.
+
 **Ans: A.** **Afforestation** stabilises soil; overgrazing and salinization **cause** degradation. **Trap:** Statement stems that list afforestation as a “cause.”
 
 </details>
-
-**Logic:** Overgrazing is the leading human driver of dryland desertification in standard teaching.
 
 **Q8. UPPCS Prelims (pattern)**
 
@@ -320,11 +318,11 @@ D. Watershed management
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Overgrazing is the leading human driver of dryland desertification in standard teaching.
+
 **Ans: A.** **Overgrazing** removes cover → erosion; conservation structures are responses. **Trap:** Picking a conservation measure as the “cause.”
 
 </details>
-
-**Logic:** Bundelkhand spans seven UP districts — drought and degradation hotspot linked to desertification risk.
 
 **Q9. UPPCS Prelims (pattern)**
 
@@ -338,11 +336,11 @@ D. Zero
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Bundelkhand spans seven UP districts — drought and degradation hotspot linked to desertification risk.
+
 **Ans: A.** **Seven districts** — Jhansi, Lalitpur, Jalaun, Hamirpur, Mahoba, Banda, Chitrakoot. **Trap:** Treating Bundelkhand as only Rajasthan.
 
 </details>
-
-**Logic:** Meteorological drought — rainfall well below long-period average (IMD often uses <75% LPA as severe marker).
 
 **Q10. UPPCS Prelims (pattern)**
 
@@ -355,6 +353,8 @@ D. Zero rainfall for one hour
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Meteorological drought — rainfall well below long-period average (IMD often uses <75% LPA as severe marker).
 
 **Ans: A.** **<75% LPA** is a standard severe meteorological drought marker. **Trap:** Confusing meteorological with agricultural soil-moisture drought only.
 

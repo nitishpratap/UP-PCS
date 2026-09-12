@@ -369,8 +369,6 @@ D. 3, 2, 1, 4
 
 Reason (R): Xuanzang visited the court of Chandragupta II.
 
-**A/R logic:** A tests Fa-Hien’s period; R wrongly places Xuanzang.
-
 A. Both (A) and (R) true and (R) explains (A) 
 B. Both (A) and (R) true but (R) does not explain (A) 
 C. (A) true but (R) false 
@@ -378,6 +376,8 @@ D. (A) false but (R) true
 
 <details>
 <summary>Show answer</summary>
+
+**A/R logic:** A tests Fa-Hien’s period; R wrongly places Xuanzang.
 
 **Ans: C.** Fa-Hien = Gupta / Chandragupta II; Xuanzang = Harsha.
 

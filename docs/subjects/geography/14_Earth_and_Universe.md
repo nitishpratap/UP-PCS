@@ -31,8 +31,6 @@ Origin of Universe | Solar System | Earth System (spheres / **rock cycle**) | Mo
 
 ### UKPCS Prelims 2025
 
-**Logic:** Farthest planet among the four has the longest year.
-
 **Q. UKPCS Prelims 2025, Q95**
 
 Which planet takes the longest time completing one revolution around the sun?
@@ -44,6 +42,8 @@ D. Jupiter
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Farthest planet among the four has the longest year.
 
 **Ans: C (Series B provisional key).** Neptune (~165 Earth years) outranks Uranus, Saturn and Jupiter.
 
@@ -512,8 +512,6 @@ Abundance order for dry air is **nitrogen**, then **oxygen**, then **argon**, th
 
 **Inline PYQ — UPPCS Prelims 2025, Q45**
 
-**Logic:** Statement 1 tests the UV-shield role of ozone. Statement 2 tests the CFC–depletion link. Both are true; the shield itself sits in the **stratosphere**, not the troposphere.
-
 With reference to the ozone layer, which of the following statements is/are correct?
 
 1. It protects the Earth’s surface from solar ultraviolet radiation.
@@ -530,13 +528,13 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Statement 1 tests the UV-shield role of ozone. Statement 2 tests the CFC–depletion link. Both are true; the shield itself sits in the **stratosphere**, not the troposphere.
+
 **Ans: C.** Both statements are correct. Stratospheric ozone absorbs harmful UV. CFCs release chlorine that destroys ozone. Trap: do not place the protective ozone layer in the troposphere.
 
 </details>
 
 **Inline PYQ — UPPCS Prelims 2022, Q138**
-
-**Logic:** The stem tests how the air is warmed. Incoming short-wave mainly heats the ground; the atmosphere takes most of its heat from **outgoing long-wave**.
 
 The atmosphere is heated mainly by:
 
@@ -550,6 +548,8 @@ D. Only geothermal heat
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** The stem tests how the air is warmed. Incoming short-wave mainly heats the ground; the atmosphere takes most of its heat from **outgoing long-wave**.
 
 **Ans: B.** Earth’s surface absorbs short-wave insolation and re-radiates long-wave infrared. Greenhouse gases and the lower air absorb that long-wave, so heating is mainly from below. Trap: “direct short-wave alone” is the usual wrong option.
 
@@ -795,8 +795,6 @@ Why winter rain happens: pressure belts **follow the Sun**. Around the NH **wint
 
 Do not freeze the idea as “only the Mediterranean Sea.” Any similar west-coast subtropical latitude can show the same dry-summer / wet-winter rhythm.
 
-**Logic:** Statement 1 tests the classic Mediterranean rainfall season. Statement 2 tests the solstice shift of pressure belts. Both are true together. The same belt-shift logic also explains California, Chile, SW Australia and Cape Town-type climates.
-
 **Inline PYQ — UPPCS Prelims 2024, Q79**
 
 With reference to the Mediterranean region, which of the following statements is/are correct?
@@ -814,6 +812,8 @@ D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Statement 1 tests the classic Mediterranean rainfall season. Statement 2 tests the solstice shift of pressure belts. Both are true together. The same belt-shift logic also explains California, Chile, SW Australia and Cape Town-type climates.
 
 **Ans: C.** Mediterranean coasts get most rain in **winter**. Pressure belts follow the Sun and shift **south** around the NH winter solstice. Trap: do not swap this with monsoon summer rain.
 
@@ -876,8 +876,6 @@ Montreal protects the ozone layer. Kyoto and Paris address climate greenhouse ga
 
 **Inline PYQ — UPPCS Prelims 2019, Q132**
 
-**Logic:** The stem asks for the **wrong** pair. Three protocols are matched to their true themes. Kyoto is climate / GHG, so “save water” is the false match.
-
 Which of the following is NOT correctly matched?
 
 A. Cartagena Protocol — Biosafety
@@ -891,13 +889,13 @@ D. Kyoto Protocol — Save water
 <details>
 <summary>Show answer</summary>
 
+**Logic:** The stem asks for the **wrong** pair. Three protocols are matched to their true themes. Kyoto is climate / GHG, so “save water” is the false match.
+
 **Ans: D.** Kyoto deals with climate change and greenhouse gases, including the carbon-credit idea. It does **not** deal with saving water. Trap: Montreal correctly pairs with the ozone layer, so do not mark C.
 
 </details>
 
 **Inline PYQ — UPPCS Prelims 2024, Q35**
-
-**Logic:** The stem asks which agreement is about **climate-change mitigation**. Montreal is ozone. Ramsar is wetlands. CITES is wildlife trade. Only Kyoto is the climate / GHG treaty among the options.
 
 Which of the following international agreements is related to climate change mitigation?
 
@@ -912,13 +910,13 @@ D. CITES
 <details>
 <summary>Show answer</summary>
 
+**Logic:** The stem asks which agreement is about **climate-change mitigation**. Montreal is ozone. Ramsar is wetlands. CITES is wildlife trade. Only Kyoto is the climate / GHG treaty among the options.
+
 **Ans: C.** Kyoto targets greenhouse-gas mitigation. Montreal protects ozone. Ramsar protects wetlands. CITES regulates wildlife trade. Trap: Montreal is the usual wrong climate option.
 
 </details>
 
 **Inline PYQ — UPPCS Prelims 2021, Q125**
-
-**Logic:** The stem asks where the **carbon credit** idea comes from. That framing belongs to the Kyoto climate path, not Montreal ozone control.
 
 The concept of 'carbon credit' originated from
 
@@ -932,6 +930,8 @@ D. G-8 Summit, Heiligendum
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** The stem asks where the **carbon credit** idea comes from. That framing belongs to the Kyoto climate path, not Montreal ozone control.
 
 **Ans: B.** Carbon credits are linked with the **Kyoto** climate framework. Montreal is the ozone / CFC treaty, so it is the common distractor.
 
@@ -1012,8 +1012,6 @@ Under **Ferrel’s law**, deflection is to the **right in the Northern Hemispher
 
 Coriolis shapes the **trade winds**, **westerlies** and the sense of spiral in cyclones and anticyclones. It also bends **ocean currents**. It is **not** caused by Earth’s magnetic field. Temperature and pressure differences start the motion; Coriolis only steers that motion.
 
-**Logic:** The stem asks why Southern Hemisphere winds turn left. The key is Coriolis / Ferrel’s law, not magnetism or pressure alone.
-
 **Inline PYQ — UPPCS Prelims 2023, Q68**
 
 Winds deflect to the left in the Southern Hemisphere because of:
@@ -1029,6 +1027,8 @@ D. Pressure alone
 <details>
 <summary>Show answer</summary>
 
+**Logic:** The stem asks why Southern Hemisphere winds turn left. The key is Coriolis / Ferrel’s law, not magnetism or pressure alone.
+
 **Ans: B.** Southern Hemisphere deflection is **leftward** under Coriolis (Ferrel’s law). Trap: magnetic field is a common distractor; pressure starts motion but does not set the left/right rule.
 
 </details>
@@ -1042,8 +1042,6 @@ D. Pressure alone
 The main **polar jet** and the **subtropical westerly jet (STWJ)** both blow from **west to east**. Speeds are often **300–500 km/h**. Pilots and WWII meteorology first mapped these cores as high-altitude **westerlies**, not as a global easterly belt.
 
 Over India, the subtropical westerly jet sits south of the Himalaya in winter and helps winter western disturbances. In the southwest monsoon season that jet weakens or shifts, and a **Tropical Easterly Jet (TEJ)** appears near about **14°N** in the upper troposphere. TEJ is the important **easterly** exception; it must not be used to call all jets easterly.
-
-**A/R logic:** A claims WWII jets were easterlies — false for the main jets. R’s speed band is true but does not fix A’s direction error.
 
 **Inline PYQ — UPPCS Prelims 2024, Q60**
 
@@ -1060,6 +1058,8 @@ D. A is false but R is true
 
 <details>
 <summary>Show answer</summary>
+
+**A/R logic:** A claims WWII jets were easterlies — false for the main jets. R’s speed band is true but does not fix A’s direction error.
 
 **Ans: D.** Main jets are **westerly**; TEJ is the easterly Indian-summer exception. The **300–500 km/h** speed figure is true, so R stands alone.
 

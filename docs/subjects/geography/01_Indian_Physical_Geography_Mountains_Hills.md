@@ -32,8 +32,6 @@
 
 ### UKPCS Prelims 2025
 
-**Logic:** Youth of the Shiwaliks explains unconsolidated sediment fill.
-
 **Q. UKPCS Prelims 2025, Q84**
 
 The Shiwalik range is primarily composed of which type of material?
@@ -46,11 +44,11 @@ D. Metamorphic rocks
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Youth of the Shiwaliks explains unconsolidated sediment fill.
+
 **Ans: C.** Shiwaliks are thick unconsolidated sediments from rising Himalaya — landslide-prone and dun-forming.
 
 </details>
-
-**Logic:** Among Karakoram glaciers, relative length decides it.
 
 **Q. UKPCS Prelims 2025, Q90**
 
@@ -63,6 +61,8 @@ D. Hispar
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Among Karakoram glaciers, relative length decides it.
 
 **Ans: B.** Siachen (~76 km) is the largest Trans-Himalayan / Karakoram glacier among the options.
 
@@ -1761,8 +1761,6 @@ D. 1, 2 and 3
 
 **Q22.** With reference to India's locational framework, which of the following statements is/are correct?
 
-**Logic:** Stmt 1 tests IST maths + place; stmt 2 tests the eight-state Tropic chain; stmt 3 mixes the equal-area overclaim with the Ladakh trap.
-
 1. Standard Meridian of India is 82°30′ E (Mirzapur); IST is 5 hours 30 minutes ahead of GMT; the meridian crosses UP, Madhya Pradesh, Chhattisgarh, Odisha and Andhra Pradesh.
 2. Tropic of Cancer (23°30′ N) passes through eight states: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura and Mizoram.
 3. Tropic of Cancer divides India into two equal land-area halves, and it also crosses Ladakh.
@@ -1779,6 +1777,8 @@ D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Stmt 1 tests IST maths + place; stmt 2 tests the eight-state Tropic chain; stmt 3 mixes the equal-area overclaim with the Ladakh trap.
 
 **Ans: A** — (1) and (2) correct: 82°30′ E / Mirzapur / +5:30 / five states UP–MP–CG–Odisha–AP; Tropic = eight states W→E as listed. **(3) fails:** more land lies **north** of 23°30′ N, and the Tropic does **not** cross Ladakh (or UP). Trap: the **2022 Q35** NCERT “through the middle” wording is **true** with 2.4% → answer **A (2 and 3)** on that paper; this drill adds the equal-area + Ladakh false claims. **C/D** accept Ladakh / equal-area traps.
 
@@ -1982,8 +1982,6 @@ D. 1, 2 and 3
 
 **Q32.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
 
-**A/R logic:** (A) tests the 82°30′ E → IST link. (R) tests whether IST is regional or nationwide. If (R) were true it would “explain” a split zone — but India has **one** zone, so (R) fails.
-
 **Assertion (A):** Indian Standard Time (IST) is based on the Standard Meridian 82°30′ E.
 
 **Reason (R):** IST applies only to the states east of the Standard Meridian, not the whole country.
@@ -2000,6 +1998,8 @@ D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
+
+**A/R logic:** (A) tests the 82°30′ E → IST link. (R) tests whether IST is regional or nationwide. If (R) were true it would “explain” a split zone — but India has **one** zone, so (R) fails.
 
 **Ans: C** — **(A) true:** 82°30′ E (Mirzapur) → UTC+5:30. **(R) false:** IST is uniform for **all of India** (single time zone), including Gujarat west of the meridian. **A/B** accept the false regional-IST claim. **D** rejects correct Assertion.
 

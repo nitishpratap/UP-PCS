@@ -76,8 +76,6 @@
 
 ## UKPCS Inline PYQs
 
-**Logic:** Epic name recall for Kuninda; options mix praise titles.
-
 **UKPCS Prelims 2016**
 
 In the Mahabharata, by what name were the Kuninda kings known?
@@ -90,11 +88,11 @@ D. Dwij
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Epic name recall for Kuninda; options mix praise titles.
+
 **Ans: C (coaching consensus; confirm on official key).** Standard UKPSC ratta lists call Kuninda kings **Dwij Srestha** in the epic reference set. Do not confuse with generic “Dwij” alone.
 
 </details>
-
-**Logic:** Chinese name for Kumaon vs later capital name.
 
 **UKPCS Prelims 2025, Q75**
 
@@ -108,6 +106,8 @@ D. Pandukeshwar
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Chinese name for Kumaon vs later capital name.
+
 **Ans: B (Series B provisional key).** Hiuen Tsang’s account remembers the region as **Brahmapura**. Kartikeyapur is the later Katyuri capital. Taleshwar and Pandukeshwar are inscription / sacred-site names.
 
 </details>
@@ -115,8 +115,6 @@ D. Pandukeshwar
 ---
 
 ## Practice Zone
-
-**Logic:** Separates Kuninda chronology from medieval dynasties.
 
 **Q1.** Kuninda power is best placed in which broad phase?
 
@@ -128,11 +126,11 @@ D. British Garhwal only
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Separates Kuninda chronology from medieval dynasties.
+
 **Ans: B.** Kuninda belongs to the early historic coin age of the foothills, not medieval or colonial rule.
 
 </details>
-
-**Logic:** Yaudheya political form.
 
 **Q2.** Yaudheyas are correctly described as:
 
@@ -143,6 +141,8 @@ D. A Mughal mansabdar clan
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Yaudheya political form.
 
 **Ans: B.** Yaudheya is an ancient warrior gana tradition of north India.
 

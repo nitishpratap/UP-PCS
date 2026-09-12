@@ -145,8 +145,6 @@ On **27 January 2026**, India and the EU announced that FTA negotiations were co
 > Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.
 > Full cross-topic index → [Practice Zone hub](15_Practice_Zone.md).
 
-**Logic:** Mixed “which is correct” on firsts — paperless judiciary / offshore airport / private rocket.
-
 **Q1.** Which of the following statements is/are correct?
 
 1. Sikkim was covered as the first paperless judiciary state in May 2026 coverage.
@@ -163,13 +161,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Mixed “which is correct” on firsts — paperless judiciary / offshore airport / private rocket.
+
 **Ans: D.** All three are “first / record” facts — UPPCS loves the second detail, so revise place names carefully.
 
 </details>
 
 ---
-**Logic:** T20 WC “first” claims — defend / host / three titles.
-
 **Q2.** With reference to India’s Men’s T20 World Cup win (March 2026), which of the following statements is/are correct?
 
 1. India became the first team to defend the Men’s T20 World Cup title.
@@ -186,13 +184,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** T20 WC “first” claims — defend / host / three titles.
+
 **Ans: A.** (3) false — Gujarat is **second** after Uttarakhand. Classic “first” second-sentence trap mixed into a sports firsts stem.
 
 </details>
 
 ---
-
-**Logic:** Digital Census + PFBR first criticality + NASM-SR first indigenous air-launched AShM.
 
 **Q3.** Which of the following statements is/are correct?
 
@@ -210,13 +208,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Digital Census + PFBR first criticality + NASM-SR first indigenous air-launched AShM.
+
 **Ans: D.** All three are April “first” facts. Trap: writing thorium as the first-criticality fuel (that belongs under Science).
 
 </details>
 
 ---
-
-**Logic:** AI Summit Global South first + Kartavya Bhawan Budget first.
 
 **Q4.** With reference to February 2026 “firsts”, which of the following statements is/are correct?
 
@@ -234,13 +232,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** AI Summit Global South first + Kartavya Bhawan Budget first.
+
 **Ans: A.** (3) false — negotiations concluded ≠ already in force. Firsts sheet must keep the second-fact trap.
 
 </details>
 
 ---
-
-**Logic:** Surha Tal 100 / Glaw first Arunachal / Sher 100% indigenous.
 
 **Q5.** Which of the following statements is/are correct?
 
@@ -258,13 +256,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Surha Tal 100 / Glaw first Arunachal / Sher 100% indigenous.
+
 **Ans: D.** June–August firsts cluster. Trap: putting Glaw Lake in UP.
 
 </details>
 
 ---
-
-**Logic:** Ashwini Bhide / Susan Coyle / Saanya woman firsts.
 
 **Q6.** Which of the following pairs is/are correctly matched?
 
@@ -282,13 +280,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Ashwini Bhide / Susan Coyle / Saanya woman firsts.
+
 **Ans: D.** Personality–first hybrids. Trap: swapping BMC with a municipal body in another city.
 
 </details>
 
 ---
-
-**Logic:** RCB back-to-back third franchise; Spain dual FIFA fact; Pragg Grand Chess Tour.
 
 **Q7.** Which of the following statements is/are correct?
 
@@ -306,13 +304,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** RCB back-to-back third franchise; Spain dual FIFA fact; Pragg Grand Chess Tour.
+
 **Ans: D.** Sports firsts. Trap: writing MI as the 2026 IPL winner.
 
 </details>
 
 ---
-
-**Logic:** Vande Mataram Army band first at Red Fort I-Day.
 
 **Q8.** With reference to Independence Day 2026 culture firsts, which of the following statements is/are correct?
 
@@ -329,13 +327,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Vande Mataram Army band first at Red Fort I-Day.
+
 **Ans: D.** Space Day is **23 August**. Trap: merging I-Day and Space Day.
 
 </details>
 
 ---
-
-**Logic:** LR-AShM parade showcase careful claim.
 
 **Q9.** Which of the following statements is/are correct?
 
@@ -352,13 +350,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** LR-AShM parade showcase careful claim.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** Census first digital.
 
 **Q10.** Which of the following statements is/are correct?
 
@@ -376,13 +374,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Census first digital.
+
 **Ans: A.** Phase 2 people/caste.
 
 </details>
 
 ---
-
-**Logic:** Taiwan Travelogue Booker first Taiwanese Mandarin.
 
 **Q11.** Which of the following statements is/are correct?
 
@@ -399,13 +397,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Taiwan Travelogue Booker first Taiwanese Mandarin.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** Saudi first Arab IBCA.
 
 **Q12.** Which of the following statements is/are correct?
 
@@ -423,13 +421,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Saudi first Arab IBCA.
+
 **Ans: A.** (3) false.
 
 </details>
 
 ---
-
-**Logic:** 100 Ramsar milestone.
 
 **Q13.** Which of the following statements is/are correct?
 
@@ -446,13 +444,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 100 Ramsar milestone.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** Vikram-1 private orbital first.
 
 **Q14.** Which of the following statements is/are correct?
 
@@ -470,13 +468,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Vikram-1 private orbital first.
+
 **Ans: A.** Private Skyroot.
 
 </details>
 
 ---
-
-**Logic:** Paperless judiciary Sikkim.
 
 **Q15.** Which of the following statements is/are correct?
 
@@ -493,13 +491,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Paperless judiciary Sikkim.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** Palghar offshore airport first path.
 
 **Q16.** Which of the following statements is/are correct?
 
@@ -516,13 +514,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Palghar offshore airport first path.
+
 **Ans: D.** Different projects.
 
 </details>
 
 ---
-
-**Logic:** Spain second FIFA + dual men’s women’s fact.
 
 **Q17.** Which of the following statements is/are correct?
 
@@ -539,13 +537,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Spain second FIFA + dual men’s women’s fact.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** Gabon Togo CWG debut.
 
 **Q18.** Which of the following statements is/are correct?
 
@@ -563,13 +561,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Gabon Togo CWG debut.
+
 **Ans: A.** Morveer = Tribal Games.
 
 </details>
 
 ---
-
-**Logic:** Kaziah Kerala Miss Universe India first in ~64 years.
 
 **Q19.** Which of the following statements is/are correct?
 
@@ -586,13 +584,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Kaziah Kerala Miss Universe India first in ~64 years.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** C-295 Made-in-India I-Day highlight.
 
 **Q20.** Which of the following statements is/are correct?
 
@@ -608,6 +606,8 @@ D. Only 1
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** C-295 Made-in-India I-Day highlight.
 
 **Ans: D.** Defence transport fact.
 

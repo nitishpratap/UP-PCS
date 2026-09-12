@@ -190,8 +190,6 @@ The Mauryas built the first large pan-North Indian state. Their capital was **Pa
 - The coin is the punch-marked **pana / karshapana**. There are no royal portraits on it.
 - Pliny gives an army of about **600,000** foot, **30,000** horse, and **9,000** elephants. Treat this as order of size, not a muster roll.
 
-**Logic:** The Vishnu Purana is asked for Maurya genealogy. The Vayu Purana lists Gupta kings; it is not a Gupta administration manual.
-
 **PYQ — UPPCS Prelims 2023, Q29**
 
 With reference to the Puranas, which one of the following statements is correct?
@@ -203,6 +201,8 @@ A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** The Vishnu Purana is asked for Maurya genealogy. The Vayu Purana lists Gupta kings; it is not a Gupta administration manual.
 
 **Ans: A — Only 1.** The Vishnu Purana carries the Maurya genealogy. The Vayu Purana lists Gupta *kings*; it is not a Gupta *admin* manual.
 
@@ -516,8 +516,6 @@ Ashoka’s **Dhamma** is a **public code of conduct**. It asks people of all sec
 - Pillar Edict **VII** says the **gift of dhamma is the best gift**.
 - Material gifts matter less than teaching this ethic.
 
-**Logic:** Tests whether state Dhamma is copied from *Rahulovada* (false) and whether dhamma-mahamatras in the **14th year** is true (true). Trap = treating Bhabru’s monk-list as the PE II definition.
-
 **PYQ — UPPCS Prelims 2024, Q20**
 
 Consider the following statements with respect to Ashoka:
@@ -529,6 +527,8 @@ A. Both 1 and 2 B. Neither 1 nor 2 C. Only 1 D. Only 2
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Tests whether state Dhamma is copied from *Rahulovada* (false) and whether dhamma-mahamatras in the **14th year** is true (true). Trap = treating Bhabru’s monk-list as the PE II definition.
 
 **Ans: D — Only 2.** Statement 1 is false: PE II defines Dhamma; *Rahulovada* is only listed for monks at Bhabru. Statement 2 is true: RE V creates **dhamma-mahamatras** in the **14th year**.
 
@@ -940,8 +940,6 @@ D. Revenue management
 
 ### UKPCS Prelims 2025
 
-**Logic:** Greek spelling of the Mauryan capital; Purushapura is the Peshawar distractor.
-
 **Q5. UKPCS Prelims 2025, Q63**
 
 Which ancient city was named ‘Palibothra’ in the Greek texts?
@@ -954,11 +952,11 @@ D. Pataliputra
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Greek spelling of the Mauryan capital; Purushapura is the Peshawar distractor.
+
 **Ans: D (Series B provisional key).** Greek writers call Pataliputra **Palibothra**. Purushapura is Peshawar.
 
 </details>
-
-**Logic:** Default Ashokan package is Prakrit + Brahmi; NW exceptions use Kharoshthi.
 
 **Q6. UKPCS Prelims 2025, Q64**
 
@@ -974,6 +972,8 @@ D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Default Ashokan package is Prakrit + Brahmi; NW exceptions use Kharoshthi.
 
 **Ans: C (Series B provisional key).** Statement 1 is the general rule. Statement 2 is the north-western exception pair.
 

@@ -1081,8 +1081,6 @@ D. III, I, IV, II
 
 Teaching sits in **13.1A–13.3**.
 
-**Logic:** Karamchand Gandhi was Diwan of Porbandar, Rajkot and Wankaner — not one state alone.
-
 **Q1. UPPCS / MPPCS / BPSC**
 
 Karamchand Gandhi (Kaba Gandhi) was Diwan of:
@@ -1098,11 +1096,11 @@ D. Bhavnagar and Junagadh
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Karamchand Gandhi was Diwan of Porbandar, Rajkot and Wankaner — not one state alone.
+
 **Ans: C.** Diwan of **Porbandar, Rajkot and Wankaner**.
 
 </details>
-
-**Logic:** South Africa paper = *Indian Opinion*; Phoenix Ashram near Durban.
 
 **Q2. UPPCS / BPSC**
 
@@ -1119,11 +1117,11 @@ D. Navajivan
 <details>
 <summary>Show answer</summary>
 
+**Logic:** South Africa paper = *Indian Opinion*; Phoenix Ashram near Durban.
+
 **Ans: C.** ***Indian Opinion***. Phoenix Ashram stood near **Durban** — his oldest ashram experiment.
 
 </details>
-
-**Logic:** About 21 years in South Africa; return **1915**; political guru = Gokhale.
 
 **Q3. UPPCS / CGPCS**
 
@@ -1140,11 +1138,11 @@ D. 1919
 <details>
 <summary>Show answer</summary>
 
+**Logic:** About 21 years in South Africa; return **1915**; political guru = Gokhale.
+
 **Ans: B.** About **21 years** in South Africa; return **1915**. Political guru = **Gokhale**.
 
 </details>
-
-**Logic:** *Unto This Last* (Ruskin) transformed him — good of the individual in the good of all.
 
 **Q4. IAS / UPPCS**
 
@@ -1161,11 +1159,11 @@ D. Hind Swaraj (his own tract)
 <details>
 <summary>Show answer</summary>
 
+**Logic:** *Unto This Last* (Ruskin) transformed him — good of the individual in the good of all.
+
 **Ans: B.** Ruskin’s ***Unto This Last*** — the good of the individual is contained in the good of all. Influences also include **Thoreau** and **Tolstoy**.
 
 </details>
-
-**Logic:** Thrown off train at Pietermaritzburg; first INC session attended = Calcutta 1901.
 
 **Q5. UPPCS / IAS**
 
@@ -1182,6 +1180,8 @@ D. Pretoria
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Thrown off train at Pietermaritzburg; first INC session attended = Calcutta 1901.
+
 **Ans: C.** **Pietermaritzburg**. First INC session he attended: **Calcutta 1901**.
 
 </details>
@@ -1191,8 +1191,6 @@ D. Pretoria
 ## Ghatnachakra Extra Drill — Champaran, Kheda, Ahmedabad and Circle
 
 Teaching sits in **13.4–13.4A**.
-
-**Logic:** First satyagraha in India = Champaran 1917; tinkathia = indigo on 3/20 of holding.
 
 **Q6. UPPCS / BPSC / IAS / UKPCS**
 
@@ -1209,11 +1207,11 @@ D. Bardoli
 <details>
 <summary>Show answer</summary>
 
+**Logic:** First satyagraha in India = Champaran 1917; tinkathia = indigo on 3/20 of holding.
+
 **Ans: C.** **Champaran, 1917**. *Tinkathia* = indigo on **3/20** of the holding. Invite = **Raj Kumar Shukla**.
 
 </details>
-
-**Logic:** Mahatma title = Tagore (not Nehru / Annie Besant in standard keys).
 
 **Q7. UPPCS / BPSC**
 
@@ -1230,11 +1228,11 @@ D. C.F. Andrews
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Mahatma title = Tagore (not Nehru / Annie Besant in standard keys).
+
 **Ans: B.** **Rabindranath Tagore**.
 
 </details>
-
-**Logic:** First hunger strike = Ahmedabad mill strike 1918; industrial workers struggle = Ahmedabad.
 
 **Q8. UPPCS / IAS**
 
@@ -1251,11 +1249,11 @@ D. Rowlatt Satyagraha
 <details>
 <summary>Show answer</summary>
 
+**Logic:** First hunger strike = Ahmedabad mill strike 1918; industrial workers struggle = Ahmedabad.
+
 **Ans: C.** **Ahmedabad mill strike, 1918** (~35% wage demand stream). Early order: **Champaran → Ahmedabad → Kheda → Rowlatt**.
 
 </details>
-
-**Logic:** Bardoli was led by Patel — not Gandhi.
 
 **Q9. UPPCS / BPSC**
 
@@ -1272,11 +1270,11 @@ D. Bardoli
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Bardoli was led by Patel — not Gandhi.
+
 **Ans: D.** **Bardoli** was led by **Vallabhbhai Patel**.
 
 </details>
-
-**Logic:** Father of the Nation phrase first keyed to Subhas Bose; Dinabandhu = C.F. Andrews.
 
 **Q10. UPPCS / BPSC / IAS**
 
@@ -1293,11 +1291,11 @@ D. Vallabhbhai Patel
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Father of the Nation phrase first keyed to Subhas Bose; Dinabandhu = C.F. Andrews.
+
 **Ans: B.** **Subhas Chandra Bose**. **C.F. Andrews** = Dinabandhu. **Jamnalal Bajaj** = Congress treasurer / Flag Satyagraha associate.
 
 </details>
-
-**Logic:** Champaran is local — first all-India Gandhi venture = Rowlatt Satyagraha.
 
 **Q11. UPPCS / BPSC**
 
@@ -1314,6 +1312,8 @@ D. It began after the Rowlatt Act
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Champaran is local — first all-India Gandhi venture = Rowlatt Satyagraha.
+
 **Ans: B.** Champaran is **local**. First all-India = **Rowlatt Satyagraha**. JP / Lohia are common false “colleague” traps. Swadeshi **1905** is not Gandhi-led (he was in South Africa).
 
 </details>
@@ -1323,8 +1323,6 @@ D. It began after the Rowlatt Act
 ## Ghatnachakra Extra Drill — Rowlatt, Jallianwala, Khilafat
 
 Teaching sits in **13.5–13.8**.
-
-**Logic:** Rowlatt 1919 = detention without trial; Viceroy Chelmsford; first all-India Gandhi venture.
 
 **Q12. UPPCS / IAS / BPSC**
 
@@ -1341,11 +1339,11 @@ D. Permanent Settlement extension
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Rowlatt 1919 = detention without trial; Viceroy Chelmsford; first all-India Gandhi venture.
+
 **Ans: B.** Detention without trial (“No Vakil, No Appeal, No Dalil”) under **Chelmsford**. First all-India Gandhi venture = **Rowlatt Satyagraha**.
 
 </details>
-
-**Logic:** Jallianwala 13 April 1919; Tagore returned knighthood; Sankaran Nair quit Council; Udham Singh killed O’Dwyer (1940).
 
 **Q13. UPPCS / IAS / BPSC**
 
@@ -1362,11 +1360,11 @@ D. Madan Mohan Malaviya
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Jallianwala 13 April 1919; Tagore returned knighthood; Sankaran Nair quit Council; Udham Singh killed O’Dwyer (1940).
+
 **Ans: B.** Massacre **13 April 1919**. **Sankaran Nair** resigned from the Viceroy’s Executive Council. **Udham Singh** killed **O’Dwyer** in **1940**.
 
 </details>
-
-**Logic:** Khilafat starters = Ali brothers; Gandhi Delhi Khilafat Conference President Nov 1919; Jinnah opposed mixing.
 
 **Q14. UPPCS / BPSC**
 
@@ -1383,6 +1381,8 @@ D. Hasrat Mohani
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Khilafat starters = Ali brothers; Gandhi Delhi Khilafat Conference President Nov 1919; Jinnah opposed mixing.
+
 **Ans: C.** **Jinnah** opposed the mix. Main Khilafat stream: **Shaukat Ali and Muhammad Ali**. Gandhi chaired the Delhi Khilafat Conference (**Nov 1919**). **Hakim Ajmal Khan** renounced the title *Haziq-ul-Mulk*.
 
 </details>
@@ -1392,8 +1392,6 @@ D. Hasrat Mohani
 ## Ghatnachakra Extra Drill — Non-Cooperation, Swaraj Party, Simon–Nehru
 
 Teaching sits in **13.7, 13.9–13.11**.
-
-**Logic:** Nagpur NCM resolution moved by C.R. Das; withdrawal after Chauri Chaura.
 
 **Q15. UPPCS / BPSC / IAS**
 
@@ -1410,11 +1408,11 @@ D. Lala Lajpat Rai
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Nagpur NCM resolution moved by C.R. Das; withdrawal after Chauri Chaura.
+
 **Ans: B.** **C.R. Das** at Nagpur. NCM withdrawn after **Chauri Chaura**. **Dr Moonje** censured the withdrawal. Tagore called cloth-burning a **ruthless waste**.
 
 </details>
-
-**Logic:** Swaraj Party = C.R. Das and Motilal Nehru (Jan 1923).
 
 **Q16. UPPCS / IAS**
 
@@ -1431,11 +1429,11 @@ D. Bose and Patel
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Swaraj Party = C.R. Das and Motilal Nehru (Jan 1923).
+
 **Ans: B.** **C.R. Das** (Deshbandhu) and **Motilal Nehru**. First Indian President of the Central Legislative Assembly often keyed: **Vithalbhai Patel**.
 
 </details>
-
-**Logic:** Simon Commission boycott — all-white / no Indian member.
 
 **Q17. UPPCS / BPSC**
 
@@ -1452,6 +1450,8 @@ D. It cancelled the Rowlatt Act
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Simon Commission boycott — all-white / no Indian member.
+
 **Ans: B.** All-British commission (**1927** announce / **1928** arrival). Independence for India League: **Jawaharlal Nehru and Subhas Bose**.
 
 </details>
@@ -1461,8 +1461,6 @@ D. It cancelled the Rowlatt Act
 ## Ghatnachakra Extra Drill — Lahore, Purna Swaraj and Civil Disobedience
 
 Teaching sits in **13.12–13.14**.
-
-**Logic:** Complete independence definition at Ahmedabad 1921 = Hasrat Mohani.
 
 **Q18. IAS / UPPCS / BPSC / UKPCS**
 
@@ -1479,11 +1477,11 @@ D. C.R. Das
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Complete independence definition at Ahmedabad 1921 = Hasrat Mohani.
+
 **Ans: C.** **Hasrat Mohani** (Ahmedabad **1921**). Lahore **1929** President = **Jawaharlal Nehru** (Purna Swaraj).
 
 </details>
-
-**Logic:** Flag on Ravi bank midnight 31 Dec 1929 = Nehru; 26 Jan 1930 = Purna Swaraj Day.
 
 **Q19. UPPCS / IAS**
 
@@ -1500,11 +1498,11 @@ D. Sardar Patel
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Flag on Ravi bank midnight 31 Dec 1929 = Nehru; 26 Jan 1930 = Purna Swaraj Day.
+
 **Ans: B.** **Nehru** at Lahore. **26 January 1930** was observed as **Purna Swaraj Day** before Independence.
 
 </details>
-
-**Logic:** Dandi 12 Mar → 6 Apr 1930; after arrest Abbas Tyabji then Sarojini; Webb Miller at Dharasana.
 
 **Q20. UPPCS / BPSC**
 
@@ -1521,11 +1519,11 @@ D. 5 March 1931
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Dandi 12 Mar → 6 Apr 1930; after arrest Abbas Tyabji then Sarojini; Webb Miller at Dharasana.
+
 **Ans: B.** **12 March → 6 April 1930** (salt law broken). After Gandhi’s arrest: **Abbas Tyabji**, then **Sarojini Naidu**. Dharasana reporter: **Webb Miller**.
 
 </details>
-
-**Logic:** Red Shirts = Abdul Ghaffar Khan; Peshawar refuse-to-fire = Chandra Singh Garhwali.
 
 **Q21. UPPCS / UKPCS**
 
@@ -1542,6 +1540,8 @@ D. Muhammad Ali
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Red Shirts = Abdul Ghaffar Khan; Peshawar refuse-to-fire = Chandra Singh Garhwali.
+
 **Ans: A.** **Abdul Ghaffar Khan**. At Peshawar, **Chandra Singh Garhwali** is remembered for refusing to fire on satyagrahis.
 
 </details>
@@ -1551,8 +1551,6 @@ D. Muhammad Ali
 ## Ghatnachakra Extra Drill — Gandhi–Irwin, Karachi, RTC, Poona Pact
 
 Teaching sits in **13.15–13.17**.
-
-**Logic:** Gandhi–Irwin Pact = 5 March 1931; mediators Sapru and Jayakar; “Two Mahatmas” = Sarojini Naidu.
 
 **Q22. UPPCS / IAS / BPSC**
 
@@ -1569,11 +1567,11 @@ D. 24 September 1932
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Gandhi–Irwin Pact = 5 March 1931; mediators Sapru and Jayakar; “Two Mahatmas” = Sarojini Naidu.
+
 **Ans: B.** **5 March 1931**. Mediators: **Tej Bahadur Sapru** and **M.R. Jayakar**. “Two Mahatmas” phrase: **Sarojini Naidu**.
 
 </details>
-
-**Logic:** Karachi 1931 President = Patel; FR resolution draft Nehru (with M.N. Roy stream).
 
 **Q23. UPPCS / BPSC**
 
@@ -1590,11 +1588,11 @@ D. Rajendra Prasad
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Karachi 1931 President = Patel; FR resolution draft Nehru (with M.N. Roy stream).
+
 **Ans: B.** **Vallabhbhai Patel**. Fundamental Rights / NEP resolution draft stream: **Nehru** (with **M.N. Roy** association in keys).
 
 </details>
-
-**Logic:** Gandhi attended only the Second RTC; stayed at Kingsley Hall; ship S.S. Rajputana.
 
 **Q24. UPPCS / IAS**
 
@@ -1611,11 +1609,11 @@ D. All three
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Gandhi attended only the Second RTC; stayed at Kingsley Hall; ship S.S. Rajputana.
+
 **Ans: B.** **Second RTC only**. London stay: **Kingsley Hall** (ship **S.S. Rajputana**). **Ambedkar** (and often **Sapru**) attended all three.
 
 </details>
-
-**Logic:** Communal Award MacDonald 16 Aug 1932; Poona Pact seats ~71→148; Harijan Sevak first President G.D. Birla.
 
 **Q25. UPPCS / BPSC**
 
@@ -1632,6 +1630,8 @@ D. 26 January 1930
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Communal Award MacDonald 16 Aug 1932; Poona Pact seats ~71→148; Harijan Sevak first President G.D. Birla.
+
 **Ans: B.** **16 August 1932**. Poona Pact followed (**24 September 1932**); reserved seats memory often **~71 → 148**. Harijan Sevak Sangh first President: **G.D. Birla**.
 
 </details>
@@ -1639,8 +1639,6 @@ D. 26 January 1930
 ---
 
 ### UKPCS Complete PYQ Bank (Gandhian Era)
-
-**Logic:** National Planning Committee 1938 — Nehru as Chairman under Bose’s Congress presidency.
 
 **Q1. UKPCS Prelims 2025, Q74**
 
@@ -1657,11 +1655,11 @@ D. J. B. Kripalani
 <details>
 <summary>Show answer</summary>
 
+**Logic:** National Planning Committee 1938 — Nehru as Chairman under Bose’s Congress presidency.
+
 **Ans: C (Series B provisional key).** Nehru chaired the Committee set up in **1938** during **Subhas Chandra Bose’s** Congress presidency.
 
 </details>
-
-**Logic:** First satyagraha in India = Champaran (UKPCS-tagged Extra cluster).
 
 **Q2. UKPCS / UPPCS**
 
@@ -1678,11 +1676,11 @@ D. Bardoli
 <details>
 <summary>Show answer</summary>
 
+**Logic:** First satyagraha in India = Champaran (UKPCS-tagged Extra cluster).
+
 **Ans: C.** **Champaran, 1917**.
 
 </details>
-
-**Logic:** Complete independence proposal Ahmedabad 1921 = Hasrat Mohani.
 
 **Q3. UKPCS / IAS / UPPCS**
 
@@ -1699,11 +1697,11 @@ D. C.R. Das
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Complete independence proposal Ahmedabad 1921 = Hasrat Mohani.
+
 **Ans: C.** **Hasrat Mohani**.
 
 </details>
-
-**Logic:** Red Shirts / Khudai Khidmatgar = Abdul Ghaffar Khan.
 
 **Q4. UKPCS / UPPCS**
 
@@ -1720,11 +1718,11 @@ D. Muhammad Ali
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Red Shirts / Khudai Khidmatgar = Abdul Ghaffar Khan.
+
 **Ans: A.** **Abdul Ghaffar Khan** (Frontier Gandhi).
 
 </details>
-
-**Logic:** Anasakti Yoga English rendering at Kausani (Uttarakhand), 1929 — UKPCS place-fact.
 
 **Q5. UKPCS (Pre) 2021**
 
@@ -1740,6 +1738,8 @@ D. Ranikhet
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Anasakti Yoga English rendering at Kausani (Uttarakhand), 1929 — UKPCS place-fact.
 
 **Ans: A.** **Kausani** (Uttarakhand). Full book-author home also in Topic **10**.
 

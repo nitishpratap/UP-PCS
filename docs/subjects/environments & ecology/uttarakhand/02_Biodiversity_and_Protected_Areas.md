@@ -78,8 +78,6 @@
 
 ## UKPCS Inline PYQs
 
-**Logic:** Heritage status plus signature fauna.
-
 **UKPCS Prelims 2025, Q20**
 
 Consider the following statements about Nanda Devi Biosphere Reserve:
@@ -95,11 +93,11 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Heritage status plus signature fauna.
+
 **Ans: C (Series B provisional key).** WHS status and the three fauna names are both correct.
 
 </details>
-
-**Logic:** Govind–Uttarkashi anchors the match code.
 
 **UKPCS Prelims 2025, Q104**
 
@@ -122,11 +120,11 @@ D. A-1, B-2, C-3, D-4
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Govind–Uttarkashi anchors the match code.
+
 **Ans: C (Series B provisional key).** Askot–4; Binsar–3; Govind–1; Nandhaur–2.
 
 </details>
-
-**A/R logic:** A tests richness; R tests whether relief/climate explain it.
 
 **UKPCS Prelims 2025, Q108**
 
@@ -141,11 +139,11 @@ D. A false, R true
 <details>
 <summary>Show answer</summary>
 
+**A/R logic:** A tests richness; R tests whether relief/climate explain it.
+
 **Ans: B (Series B provisional key).** Both true; altitudinal climate zones explain the richness.
 
 </details>
-
-**Logic:** Corbett 1936 is certain — find the wrong later year.
 
 **UKPCS Prelims 2025, Q114**
 
@@ -158,6 +156,8 @@ D. Gangotri National Park — 1989
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Corbett 1936 is certain — find the wrong later year.
 
 **Ans: A (Series B provisional key).** Govind NP was notified in **1990**, so 1989 is wrong.
 

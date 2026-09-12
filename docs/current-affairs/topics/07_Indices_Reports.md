@@ -187,8 +187,6 @@ A Candere Hurun India Women Leaders list put **Meena Bindra** (BIBA) at the top.
 > Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.
 > Full cross-topic index → [Practice Zone hub](15_Practice_Zone.md).
 
-**Logic:** Indices — publisher / top / India band.
-
 **Q1.** With reference to indices covered in 2026 Current Affairs, which of the following statements is/are correct?
 
 1. In the World Happiness Report coverage, Finland remained at the top.
@@ -204,13 +202,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Indices — publisher / top / India band.
+
 **Ans: C.** Publisher-style traps matter less here than top country + India band. Soft trap: swapping Singapore with Japan/Germany for passport rank 1.
 
 </details>
 
 ---
-
-**Logic:** Happiness Report + Global Terrorism Index.
 
 **Q2.** With reference to March 2026 indices / reports coverage, which of the following statements is/are correct?
 
@@ -227,13 +225,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Happiness Report + Global Terrorism Index.
+
 **Ans: C.** Publisher + top country + India band — classic indices checklist.
 
 </details>
 
 ---
-
-**Logic:** SOFI 2026 hunger numbers.
 
 **Q3.** With reference to SOFI 2026, which of the following statements is/are correct?
 
@@ -251,13 +249,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** SOFI 2026 hunger numbers.
+
 **Ans: A.** (3) false — SOFI is an FAO / IFAD / UNICEF / WFP / WHO family report, not World Bank alone. Trap: wrong publisher.
 
 </details>
 
 ---
-
-**Logic:** QS rankings + Future Skills Index.
 
 **Q4.** With reference to June 2026 ranking coverage, which of the following statements is/are correct?
 
@@ -275,13 +273,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** QS rankings + Future Skills Index.
+
 **Ans: D.** Indices family — top + India/IIT band. Trap: writing IIT Bombay as the only IIT named.
 
 </details>
 
 ---
-**Logic:** Henley Passport — publisher / top / India.
-
 **Q5.** With reference to the Henley Passport Index 2026, which of the following statements is/are correct?
 
 1. Singapore was at the top in coverage.
@@ -298,13 +296,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Henley Passport — publisher / top / India.
+
 **Ans: A.** (3) false — Henley & Partners (IATA data), not WEF. Publisher trap.
 
 </details>
 
 ---
-
-**Logic:** National Statistics Day theme.
 
 **Q6.** With reference to National Statistics Day 2026 coverage, which of the following statements is/are correct?
 
@@ -322,13 +320,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** National Statistics Day theme.
+
 **Ans: A.** (3) wrong date. Trap: colliding with World Population Day (11 July).
 
 </details>
 
 ---
-
-**Logic:** Budget multidimensional poverty figure vs MPI publisher care.
 
 **Q7.** With reference to multidimensional poverty messaging in Budget 2026–27, which of the following statements is/are correct?
 
@@ -345,13 +343,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Budget multidimensional poverty figure vs MPI publisher care.
+
 **Ans: D.** Speech figure ≠ full index methodology fact. Trap: treating every poverty number as NITI MPI.
 
 </details>
 
 ---
-
-**A/R logic:** A = Finland #1 Happiness; R = India ~116 — both true; R does not explain Finland’s rank.
 
 **Q8.** Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
 
@@ -369,13 +367,13 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
+**A/R logic:** A = Finland #1 Happiness; R = India ~116 — both true; R does not explain Finland’s rank.
+
 **Ans: A.** Two separate rank facts. Trap: picking D because both are from one report.
 
 </details>
 
 ---
-
-**Logic:** GTI publisher IEP.
 
 **Q9.** With reference to Global Terrorism Index 2026, which of the following statements is/are correct?
 
@@ -393,13 +391,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** GTI publisher IEP.
+
 **Ans: A.** Wrong publisher.
 
 </details>
 
 ---
-
-**Logic:** QS Future Skills USA top.
 
 **Q10.** With reference to QS World Future Skills Index coverage, which of the following statements is/are correct?
 
@@ -417,13 +415,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** QS Future Skills USA top.
+
 **Ans: A.** (3) false.
 
 </details>
 
 ---
-
-**Logic:** World Population Day theme July.
 
 **Q11.** Which of the following statements is/are correct?
 
@@ -441,13 +439,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** World Population Day theme July.
+
 **Ans: A.** 29 June = Statistics Day.
 
 </details>
 
 ---
-
-**Logic:** 16th FC period.
 
 **Q12.** With reference to the 16th Finance Commission, which of the following statements is/are correct?
 
@@ -465,13 +463,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 16th FC period.
+
 **Ans: A.** Wrong chair.
 
 </details>
 
 ---
-
-**Logic:** Happiness Finland ninth year messaging.
 
 **Q13.** Which of the following statements is/are correct?
 
@@ -488,13 +486,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Happiness Finland ninth year messaging.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** Henley visa-free soft numbers.
 
 **Q14.** With reference to Henley Passport Index 2026, which of the following statements is/are correct?
 
@@ -512,13 +510,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Henley visa-free soft numbers.
+
 **Ans: A.** (3) false.
 
 </details>
 
 ---
-
-**Logic:** SOFI five UN agencies.
 
 **Q15.** With reference to SOFI 2026, which of the following statements is/are correct?
 
@@ -536,13 +534,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** SOFI five UN agencies.
+
 **Ans: A.** (3) wrong.
 
 </details>
 
 ---
-
-**Logic:** Census mascots Pragati Vikas.
 
 **Q16.** Which of the following statements is/are correct?
 
@@ -559,13 +557,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Census mascots Pragati Vikas.
+
 **Ans: C.** Both true — data mega-event.
 
 </details>
 
 ---
-
-**Logic:** UP Deregulation ranking soft.
 
 **Q17.** Which of the following statements is/are correct?
 
@@ -582,13 +580,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** UP Deregulation ranking soft.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** QS 52 Indian institutions soft.
 
 **Q18.** With reference to QS World University Rankings coverage, which of the following statements is/are correct?
 
@@ -606,13 +604,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** QS 52 Indian institutions soft.
+
 **Ans: A.** ~118 not 10.
 
 </details>
 
 ---
-
-**Logic:** Nutrient-dense foods drive healthy diet cost SOFI.
 
 **Q19.** Which of the following statements is/are correct for SOFI findings?
 
@@ -629,13 +627,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Nutrient-dense foods drive healthy diet cost SOFI.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** Sampoornata not a global index.
 
 **Q20.** With reference to Sampoornata Abhiyan 2.0 in the indices sheet, which of the following statements is/are correct?
 
@@ -651,6 +649,8 @@ D. Only 1
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Sampoornata not a global index.
 
 **Ans: C.** Both true.
 

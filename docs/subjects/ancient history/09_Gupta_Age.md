@@ -204,8 +204,6 @@ Samudragupta’s wars are remembered as a **digvijaya**. The main source is the 
 
 > ** note:** South = **tribute and restore**. North = **uproot**. Vishnugopa ≠ a Magadha king.
 
-**Logic:** Tests south-king ↔ kingdom pairs from the Prayag Prashasti. Trap = swapping Kanchi and Kusthalapura.
-
 **PYQ — UPPCS Prelims 2018, Q87**
 
 Match List-I with List-II (Samudragupta’s contemporary kings of South India).
@@ -223,6 +221,8 @@ A. 1 2 3 4 B. 2 1 4 3 C. 3 1 4 2 D. 4 3 2 1
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Tests south-king ↔ kingdom pairs from the Prayag Prashasti. Trap = swapping Kanchi and Kusthalapura.
 
 **Ans: C — 3 1 4 2.** Dhananjaya = Kusthalapura. Nilaraja = Avamukta. Ugrasena = Palaka. Vishnugopa = Kanchi. Trap = putting Vishnugopa at Kusthalapura.
 
@@ -1710,10 +1710,10 @@ A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
 A. Chandragupta I B. Samudragupta C. Chandragupta II D. Skandagupta
 
-**Logic:** Digvijaya / Prayag campaigns = Samudragupta, not Vikramaditya.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Digvijaya / Prayag campaigns = Samudragupta, not Vikramaditya.
 
 **Ans: B.** **Samudragupta** — *Early History of India* tag for his conquests.
 
@@ -1728,10 +1728,10 @@ B. Skandagupta — Bhitari (Ghazipur) Huna war
 C. Kumaragupta I — Dashpur silk weavers / Sun temple
 D. Pravarasena I — Navaratna poet of Chandragupta II
 
-**Logic:** Pravarasena I is Vakataka Samrat with four ashvamedhas, not a Navaratna.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Pravarasena I is Vakataka Samrat with four ashvamedhas, not a Navaratna.
 
 **Ans: D.** **Pravarasena I** is Vakataka. Navaratna names sit with Chandragupta II tradition.
 
@@ -1748,10 +1748,10 @@ D. Pravarasena I — Navaratna poet of Chandragupta II
 How many of the above statements are correct?
 A. Only one B. Only two C. All three D. None
 
-**Logic:** 1–2 are standard; 3 confuses Fa-Hien’s hospital note with Nalanda’s founder-patron (Kumaragupta I).
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** 1–2 are standard; 3 confuses Fa-Hien’s hospital note with Nalanda’s founder-patron (Kumaragupta I).
 
 **Ans: B.** 1 and 2. Nalanda founder-patron = **Kumaragupta I**.
 
@@ -1763,10 +1763,10 @@ A. Only one B. Only two C. All three D. None
 
 A. Junagadh, 150 CE B. Eran, about 510 CE C. Bhitari, 326 BCE D. Sanchi, 78 CE
 
-**Logic:** Eran / Goparaja’s widow ~510 CE is the coaching sati peg.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Eran / Goparaja’s widow ~510 CE is the coaching sati peg.
 
 **Ans: B.** **Eran** inscription of about **510 CE**.
 

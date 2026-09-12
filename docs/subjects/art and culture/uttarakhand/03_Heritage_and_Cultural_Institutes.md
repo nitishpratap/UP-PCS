@@ -82,8 +82,6 @@
 
 ## UKPCS Inline PYQs
 
-**Logic:** Kaziranga and Mountain Railways lie outside the state.
-
 **UKPCS Prelims 2025, Q52**
 
 Which of the following UNESCO World Heritage Sites is/are located in Uttarakhand?
@@ -101,11 +99,11 @@ D. A and D only
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Kaziranga and Mountain Railways lie outside the state.
+
 **Ans: D (Series B provisional key).** Valley of Flowers and Nanda Devi (one WHS property) are in Uttarakhand. Kaziranga is in Assam; Mountain Railways are elsewhere.
 
 </details>
-
-**Logic:** Both arrival facts and Tasbirdar title must be true.
 
 **UKPCS Prelims 2025, Q85**
 
@@ -122,11 +120,11 @@ D. None of the above
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Both arrival facts and Tasbirdar title must be true.
+
 **Ans: C (Series B provisional key).** Both statements are correct; the line later includes Mola Ram.
 
 </details>
-
-**Logic:** Food-history author — pick the title keyed as not his.
 
 **UKPCS Prelims 2025, Q49**
 
@@ -140,11 +138,11 @@ D. Lazzatnama
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Food-history author — pick the title keyed as not his.
+
 **Ans: C (Series B provisional key).** The keyed “not written by him” title is **Himalaya Ke Barf**. Follow the Series B letter for this paper if coaching dumps name a different distractor title.
 
 </details>
-
-**Logic:** Bhimtal vs Haldwani in Nainital district is the planted swap.
 
 **UKPCS Prelims 2025, Q54**
 
@@ -157,6 +155,8 @@ D. Directorate of Coldwater Fisheries — Haldwani
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Bhimtal vs Haldwani in Nainital district is the planted swap.
 
 **Ans: D (Series B provisional key).** Coldwater Fisheries Research Directorate is at **Bhimtal**, not Haldwani. FRI and ASI memory sit at Dehradun; NIH at Roorkee.
 

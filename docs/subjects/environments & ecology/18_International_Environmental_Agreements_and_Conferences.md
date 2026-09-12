@@ -1034,8 +1034,6 @@ D. Gujarat
 
 ### UKPCS Prelims 2025
 
-**Logic:** Baku for COP29 anchors the match code.
-
 **Q. UKPCS Prelims 2025, Q148**
 
 Match the COP session to its location:
@@ -1057,11 +1055,11 @@ D. 1-D, 2-C, 3-B, 4-A
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Baku for COP29 anchors the match code.
+
 **Ans: D (Series B provisional key).** COP27 Sharm El-Sheikh; COP28 Dubai; COP29 Baku; COP30 Belem.
 
 </details>
-
-**Logic:** All three GEF statements are standard — partial option is the trap.
 
 **Q. UKPCS Prelims 2025, Q149**
 
@@ -1079,11 +1077,11 @@ D. All of the above statements
 <details>
 <summary>Show answer</summary>
 
+**Logic:** All three GEF statements are standard — partial option is the trap.
+
 **Ans: D (Series B provisional key).** Pilot agreed 1990; UNDP–UNEP–World Bank partners; India is both donor and recipient.
 
 </details>
-
-**Logic:** Among env/heritage options, the ILO labour convention is the odd one India has not ratified.
 
 **Q. UKPCS Prelims 2025, Q117**
 
@@ -1096,6 +1094,8 @@ D. International Whaling Commission
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Among env/heritage options, the ILO labour convention is the odd one India has not ratified.
 
 **Ans: C (Series B provisional key).** India has not ratified the ILO Occupational Safety and Health Convention (1981). It is party to CITES and the World Heritage Convention and a member of the IWC.
 

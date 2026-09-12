@@ -90,8 +90,6 @@
 
 ## UKPCS Inline PYQs
 
-**Logic:** Three options are swamis — the 1918 Dehradun founder is the keyed name.
-
 **UKPCS Prelims 2025, Q76**
 
 Who founded a branch of the ‘Home Rule League’ at Dehradun in 1918?
@@ -104,11 +102,11 @@ D. Tara Dutt Gairola
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Three options are swamis — the 1918 Dehradun founder is the keyed name.
+
 **Ans: C (Series B provisional key).** Vicharanand Saraswati is keyed for the Dehradun Home Rule branch. Dayanand had died in 1883.
 
 </details>
-
-**Logic:** 1918 meeting city for the Coolie-Begar briefing — Series B keys Calcutta.
 
 **UKPCS Prelims 2025, Q77**
 
@@ -122,11 +120,11 @@ D. Bombay
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 1918 meeting city for the Coolie-Begar briefing — Series B keys Calcutta.
+
 **Ans: B (Series B provisional key).** The keyed place is Calcutta. Delhi is the usual rival city in coaching dumps; Gandhi’s later Kumaon visit (1929) is a different date.
 
 </details>
-
-**Logic:** Session count of the Kumaon Parishad — fourth venue is Kashipur.
 
 **UKPCS Prelims 2025, Q80**
 
@@ -140,11 +138,11 @@ D. Almora
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Session count of the Kumaon Parishad — fourth venue is Kashipur.
+
 **Ans: C (Series B provisional key).** Fourth session at Kashipur (1920). Almora is the 1916 founding seat; Haldwani and Kotdwar are earlier session venues.
 
 </details>
-
-**Logic:** Garhwali reformers — Union and Hitkarini Sabha share one founder.
 
 **UKPCS Prelims 2025, Q87**
 
@@ -158,6 +156,8 @@ D. Tara Dutt Gairola
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Garhwali reformers — Union and Hitkarini Sabha share one founder.
+
 **Ans: D (Series B provisional key).** Tara Dutt Gairola founded both bodies.
 
 </details>
@@ -165,8 +165,6 @@ D. Tara Dutt Gairola
 ---
 
 ## Practice Zone
-
-**Logic:** Chronology of hill politics.
 
 **Q1.** Arrange: 1. Coolie-Begar briefing to Gandhi  2. Kumaon Parishad founding  3. Fourth Parishad at Kashipur
 
@@ -177,6 +175,8 @@ D. 3-2-1
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Chronology of hill politics.
 
 **Ans: B.** Almora Parishad 1916 → Badri Dutt–Gandhi 1918 → Kashipur fourth session 1920.
 

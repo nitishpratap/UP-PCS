@@ -25,8 +25,6 @@ None mandatory. Producer ranks and “leading country” freeze to the **paper�
 
 ### UKPCS Prelims 2025
 
-**Logic:** South Africa is the historic leader, not the 2023 leader.
-
 **Q. UKPCS Prelims 2025, Q83**
 
 Which country is the leading producer of gold in the world in the year 2023?
@@ -38,6 +36,8 @@ D. South Africa
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** South Africa is the historic leader, not the 2023 leader.
 
 **Ans: A (Series B provisional key).** China leads recent world gold output; South Africa is the twentieth-century trap.
 

@@ -320,8 +320,6 @@ Professor **Deepak Dhar** shared the **Dirac Medal 2026** of the Abdus Salam Int
 > Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.
 > Full cross-topic index → [Practice Zone hub](15_Practice_Zone.md).
 
-**Logic:** Global Teacher Prize — Indian winner.
-
 **Q1.** Who among the following won the Global Teacher Prize 2026?
 
 A. Rouble Nagi
@@ -332,13 +330,13 @@ D. Ziauddin Yousafzai
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Global Teacher Prize — Indian winner.
+
 **Ans: A.** **Rouble Nagi** is the 2026 fact. Trap: inserting an older Indian education activist / earlier prize name.
 
 </details>
 
 ---
-
-**Logic:** Padma / Bose Aapda — national awards CA style.
 
 **Q2.** With reference to national awards announced around January 2026, which of the following statements is/are correct?
 
@@ -355,13 +353,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Padma / Bose Aapda — national awards CA style.
+
 **Ans: C.** Both are January facts. Soft UP angle: remember **N Rajam** among Padma names for state CA.
 
 </details>
 
 ---
-
-**Logic:** Dalrymple / Abel Prize awards.
 
 **Q3.** Match List-I with List-II and select the correct answer using the code given below the lists.
 
@@ -382,13 +380,13 @@ D. 2 3 1 4
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Dalrymple / Abel Prize awards.
+
 **Ans: A.** Dalrymple→2; Faltings→1; Dhar→3; Nagi→4. Trap: swapping Abel (math) with Dirac (physics honour to Dhar).
 
 </details>
 
 ---
-
-**Logic:** Laureus 2026 winners (Madrid).
 
 **Q4.** Which of the following pairs is/are correctly matched for Laureus World Sports Awards 2026 (Madrid coverage)?
 
@@ -406,13 +404,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Laureus 2026 winners (Madrid).
+
 **Ans: D.** All three are April awards facts. Trap: inserting an older Laureus winner as 2026 fact.
 
 </details>
 
 ---
-
-**Logic:** Nordic PM honours Match.
 
 **Q5.** Match List-I with List-II and select the correct answer using the code given below the lists.
 
@@ -433,13 +431,13 @@ D. 2 3 1 4
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Nordic PM honours Match.
+
 **Ans: A.** Norway→Merit; Sweden→Polar Star; Slovakia→White Double Cross; Indonesia→Bintang Adipurna. Trap: swapping Norway/Sweden.
 
 </details>
 
 ---
-
-**Logic:** Uzbekistan Dustlik + Miss Universe India.
 
 **Q6.** Match List-I with List-II and select the correct answer using the code given below the lists.
 
@@ -460,13 +458,13 @@ D. 2 3 1 4
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Uzbekistan Dustlik + Miss Universe India.
+
 **Ans: A.** Dustlik→Uzbekistan; Miss Universe India→Kaziah; Dirac→Dhar; Bintang→Indonesia.
 
 </details>
 
 ---
-
-**Logic:** Padma 2026 split counts.
 
 **Q7.** With reference to Padma Awards 2026, which of the following statements is/are correct?
 
@@ -484,13 +482,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Padma 2026 split counts.
+
 **Ans: A.** Padma Shri = **113**.
 
 </details>
 
 ---
-
-**Logic:** Padma Vibhushan UP fact N Rajam.
 
 **Q8.** Which of the following statements is/are correct?
 
@@ -508,13 +506,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Padma Vibhushan UP fact N Rajam.
+
 **Ans: A.** (3) Kerala mix with other Vibhushan names.
 
 </details>
 
 ---
-
-**Logic:** Padma Vibhushan Kerala cluster.
 
 **Q9.** Which of the following Padma Vibhushan 2026 pairs is/are correct?
 
@@ -532,13 +530,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Padma Vibhushan Kerala cluster.
+
 **Ans: A.** P Narayanan is Literature & Education, Kerala.
 
 </details>
 
 ---
-
-**Logic:** Bose Aapda Puraskar January.
 
 **Q10.** With reference to Bose Aapda Puraskar 2026, which of the following statements is/are correct?
 
@@ -556,13 +554,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Bose Aapda Puraskar January.
+
 **Ans: A.** (3) different award.
 
 </details>
 
 ---
-
-**Logic:** Nordic PM honours May.
 
 **Q11.** Which of the following statements is/are correct?
 
@@ -579,13 +577,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Nordic PM honours May.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** Slovakia / Seychelles June honours.
 
 **Q12.** Which of the following statements is/are correct?
 
@@ -603,13 +601,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Slovakia / Seychelles June honours.
+
 **Ans: A.** Bintang = Indonesia.
 
 </details>
 
 ---
-
-**Logic:** Abel Prize 2026.
 
 **Q13.** Who won the Abel Prize 2026 in coverage?
 
@@ -621,13 +619,13 @@ D. Lin King
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Abel Prize 2026.
+
 **Ans: B.** Faltings — mathematics. Dhar is Dirac Medal.
 
 </details>
 
 ---
-
-**Logic:** Sudarsan Pattnaik Russia sand honour.
 
 **Q14.** With reference to Sudarsan Pattnaik (June 2026), which of the following statements is/are correct?
 
@@ -644,13 +642,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Sudarsan Pattnaik Russia sand honour.
+
 **Ans: D.** Booker is Taiwan Travelogue.
 
 </details>
 
 ---
-
-**Logic:** Femina / Miss Universe India soft.
 
 **Q15.** Which of the following statements is/are correct?
 
@@ -667,13 +665,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Femina / Miss Universe India soft.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** Harvard South Asian Person of the Year soft April.
 
 **Q16.** With reference to April 2026 awards coverage, which of the following statements is/are correct?
 
@@ -690,13 +688,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Harvard South Asian Person of the Year soft April.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** Oscars soft Homebound.
 
 **Q17.** Which of the following statements is/are correct?
 
@@ -713,13 +711,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Oscars soft Homebound.
+
 **Ans: D.** Booker ≠ Oscars.
 
 </details>
 
 ---
-
-**Logic:** Women Padma count.
 
 **Q18.** With reference to Padma Awards 2026 totals, which of the following statements is/are correct?
 
@@ -737,13 +735,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Women Padma count.
+
 **Ans: A.** Six in that category.
 
 </details>
 
 ---
-
-**Logic:** Rohit Sharma Padma Shri.
 
 **Q19.** Which of the following statements is/are correct?
 
@@ -760,13 +758,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Rohit Sharma Padma Shri.
+
 **Ans: C.** Both true.
 
 </details>
 
 ---
-
-**Logic:** Dirac vs Abel confused pair.
 
 **Q20.** Which of the following pairs is/are correctly matched?
 
@@ -783,6 +781,8 @@ D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Dirac vs Abel confused pair.
 
 **Ans: A.** (3) swaps the two.
 

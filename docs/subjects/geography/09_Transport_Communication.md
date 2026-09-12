@@ -36,8 +36,6 @@ Sagarmala / Bharatmala remain living umbrella programmes; still tests **name swa
 
 ### UKPCS Prelims 2025
 
-**Logic:** Three eastern ports — one western settles it.
-
 **Q. UKPCS Prelims 2025, Q88**
 
 Which of the following ports is on the western coastline?
@@ -50,11 +48,11 @@ D. Tuticorin
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Three eastern ports — one western settles it.
+
 **Ans: A.** Nhava Sheva (JNPT) near Mumbai is western; the other three are eastern.
 
 </details>
-
-**Logic:** Density is route length per area — Series B keys USA among the four.
 
 **Q. UKPCS Prelims 2025, Q92**
 
@@ -67,6 +65,8 @@ D. India
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Density is route length per area — Series B keys USA among the four.
 
 **Ans: B.** Among the given options, the answer is the **U.S.A.** India is a common distractor on railway-density stems.
 

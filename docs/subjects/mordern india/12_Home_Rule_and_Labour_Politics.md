@@ -663,8 +663,6 @@ D. Joseph Baptista
 
 Teaching sits in **12.0** and **Topic 3**.
 
-**Logic:** Official name and year of the Act — not dyarchy, not 1919.
-
 **Q1. UPPCS / BPSC**
 
 The **Indian Councils Act, 1909** is also known as the:
@@ -680,11 +678,11 @@ D. Pitt’s India Act
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Official name and year of the Act — not dyarchy, not 1919.
+
 **Ans: B.** The **1909** Act is the **Morley–Minto** package. **Dyarchy** belongs to the **1919** Act.
 
 </details>
-
-**Logic:** The headline provision is communal / separate electorates — the classic dyarchy trap.
 
 **Q2. UPPCS / BPSC / IAS**
 
@@ -701,11 +699,11 @@ D. Direct election of all central legislature members
 <details>
 <summary>Show answer</summary>
 
+**Logic:** The headline provision is communal / separate electorates — the classic dyarchy trap.
+
 **Ans: B.** **Separate electorates for Muslims** began in **1909**. **Dyarchy** came only in **1919**.
 
 </details>
-
-**Logic:** Rajendra Prasad’s “Father of Pakistan” tag targets Minto, not Jinnah.
 
 **Q3. UPPCS / BPSC**
 
@@ -722,11 +720,11 @@ D. Lord Curzon
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Rajendra Prasad’s “Father of Pakistan” tag targets Minto, not Jinnah.
+
 **Ans: B.** **Lord Minto II** is tagged for the **1909 separate-electorate** seed. The system itself began in **1909**; Congress **accepted** it at **Lucknow 1916**.
 
 </details>
-
-**Logic:** 1909 creates the system; 1916 is Congress acceptance — do not swap the years.
 
 **Q4. UPPCS / IAS**
 
@@ -743,11 +741,11 @@ D. 1919
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 1909 creates the system; 1916 is Congress acceptance — do not swap the years.
+
 **Ans: A.** **1909** = British Act creates separate electorates. **1916 Lucknow Pact** = Congress **accepts** them as a bargain.
 
 </details>
-
-**Logic:** Gandhi’s remembered verdict on Morley–Minto — destroyed unity politics.
 
 **Q5. UPPCS / BPSC**
 
@@ -764,6 +762,8 @@ D. Introduced dyarchy in the provinces
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Gandhi’s remembered verdict on Morley–Minto — destroyed unity politics.
+
 **Ans: B.** Gandhi held that the package **destroyed** Indian unity. It did **not** create dyarchy — that trap belongs to **1919**.
 
 </details>
@@ -773,8 +773,6 @@ D. Introduced dyarchy in the provinces
 ## Ghatnachakra Extra Drill — Lucknow Pact (1916)
 
 Teaching sits in **12.2**.
-
-**Logic:** Session year and president — not 1911 Delhi Durbar.
 
 **Q1. UPPCS / MPPCS / RAS**
 
@@ -791,11 +789,11 @@ D. Madan Mohan Malaviya
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Session year and president — not 1911 Delhi Durbar.
+
 **Ans: B.** **Lucknow, December 1916**, President **A.C. Majumdar**. Do not place the Pact at the **1911** Delhi Durbar.
 
 </details>
-
-**Logic:** Tilak–Jinnah as architects of the Congress–League bargain.
 
 **Q2. UPPCS / BPSC / IAS**
 
@@ -812,11 +810,11 @@ D. Gokhale and Jinnah
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Tilak–Jinnah as architects of the Congress–League bargain.
+
 **Ans: B.** **Tilak** and **Jinnah** shaped the League deal. **Besant** and **Tilak** pushed **Extremist reunion** inside Congress.
 
 </details>
-
-**Logic:** Congress first formal acceptance of separate electorates — 1916, not 1909.
 
 **Q3. UPPCS / IAS**
 
@@ -833,11 +831,11 @@ D. 1919
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Congress first formal acceptance of separate electorates — 1916, not 1909.
+
 **Ans: C.** Congress accepted separate electorates at the **Lucknow Pact (1916)**. The **system itself** began in **1909**.
 
 </details>
-
-**Logic:** Raj Kumar Shukla and Champaran briefing at Lucknow 1916.
 
 **Q4. UPPCS / BPSC**
 
@@ -854,11 +852,11 @@ D. Motilal Nehru
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Raj Kumar Shukla and Champaran briefing at Lucknow 1916.
+
 **Ans: B.** **Raj Kumar Shukla** placed the **Champaran** problem before Gandhi at **Lucknow 1916**.
 
 </details>
-
-**Logic:** Reunion of Moderates and Extremists after Surat 1907.
 
 **Q5. UPPCS / MPPCS**
 
@@ -875,11 +873,11 @@ D. Congress and the Justice Party
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Reunion of Moderates and Extremists after Surat 1907.
+
 **Ans: B.** The Pact reunited **Moderates and Extremists** after **Surat 1907** and sealed a **Congress–League** electoral bargain.
 
 </details>
-
-**Logic:** Jinnah’s “Ambassador of Hindu–Muslim Unity” tag for the Lucknow season.
 
 **Q6. UPPCS / IAS**
 
@@ -896,6 +894,8 @@ D. Montagu Declaration (1917)
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Jinnah’s “Ambassador of Hindu–Muslim Unity” tag for the Lucknow season.
+
 **Ans: B.** The tag belongs to the **Lucknow Pact** season when Congress and the League worked jointly.
 
 </details>
@@ -905,8 +905,6 @@ D. Montagu Declaration (1917)
 ## Ghatnachakra Extra Drill — Home Rule League Movement
 
 Teaching sits in **12.1, 12.4–12.5**.
-
-**Logic:** Tilak league — April 1916, Poona; first in the field after Besant’s 1914 press campaign.
 
 **Q1. UPPCS / BPSC / UKPCS**
 
@@ -923,11 +921,11 @@ D. August 1917 at Bombay
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Tilak league — April 1916, Poona; first in the field after Besant’s 1914 press campaign.
+
 **Ans: B.** **Tilak — April 1916, Poona**. **Besant — September 1916, Madras/Adyar**.
 
 </details>
-
-**Logic:** Besant league — September 1916; rest of India including Bombay city.
 
 **Q2. UPPCS / BPSC / IAS**
 
@@ -944,11 +942,11 @@ D. 1920 at Ahmedabad
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Besant league — September 1916; rest of India including Bombay city.
+
 **Ans: B.** Besant’s league covered the **rest of India including Bombay city**. Tilak’s zone excluded **Bombay city**.
 
 </details>
-
-**Logic:** Besant’s Home Rule papers — Commonweal and New India.
 
 **Q3. UPPCS / BPSC**
 
@@ -965,11 +963,11 @@ D. *Bande Mataram* and *Sandhya*
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Besant’s Home Rule papers — Commonweal and New India.
+
 **Ans: B.** ***Commonweal*** and ***New India*** were Besant’s papers. She floated the Home Rule idea in ***Commonweal*** from **1914**. Tilak used ***Kesari*** and ***Mahratta***.
 
 </details>
-
-**Logic:** Olcott = Theosophy founder, not Home Rule leader.
 
 **Q4. UPPCS / BPSC / IAS / UKPCS**
 
@@ -986,11 +984,11 @@ D. Joseph Baptista
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Olcott = Theosophy founder, not Home Rule leader.
+
 **Ans: C.** **H.S. Olcott** co-founded the **Theosophical Society (1875)** with Blavatsky. Home Rule leaders include **Tilak, Besant, Baptista, Arundale, Wadia**.
 
 </details>
-
-**Logic:** Lucknow 1916 as the show of strength for both leagues.
 
 **Q5. UPPCS / MPPCS**
 
@@ -1007,11 +1005,11 @@ D. Lahore Congress (1929)
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Lucknow 1916 as the show of strength for both leagues.
+
 **Ans: B.** **Lucknow 1916** was the show of strength — Tilak’s supporters even ran a special train often nicknamed the Home Rule / Congress Special.
 
 </details>
-
-**Logic:** Besant as Fabian socialist — distinct from Theosophy-only trap.
 
 **Q6. UPPCS / IAS**
 
@@ -1028,11 +1026,11 @@ D. Benthamite legal reform
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Besant as Fabian socialist — distinct from Theosophy-only trap.
+
 **Ans: B.** Besant was a **Fabian** as well as a Theosophist–Home Rule leader.
 
 </details>
-
-**Logic:** 1920 Gandhi presidency and Swarajya Sabha rename.
 
 **Q7. UPPCS / BPSC**
 
@@ -1049,11 +1047,11 @@ D. Indian National Congress
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 1920 Gandhi presidency and Swarajya Sabha rename.
+
 **Ans: A.** Gandhi’s **1920** presidency led to the rename **Swarajya Sabha**. The two wartime leagues had **not permanently merged** in 1916–18.
 
 </details>
-
-**Logic:** Besant — first woman Congress President, December 1917 Calcutta.
 
 **Q8. UPPCS / BPSC / UKPCS**
 
@@ -1070,11 +1068,11 @@ D. Nagpur (1920)
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Besant — first woman Congress President, December 1917 Calcutta.
+
 **Ans: B.** Besant presided at **Calcutta, December 1917** — the **first woman** Congress President.
 
 </details>
-
-**Logic:** Besant statements — Home Rule yes; Theosophy founder no; Congress President yes.
 
 **Q9. IAS-pattern**
 
@@ -1097,11 +1095,11 @@ D. Both 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Besant statements — Home Rule yes; Theosophy founder no; Congress President yes.
+
 **Ans: B.** Statements **1 and 3** are correct. The Theosophical Society was founded by **Blavatsky and Olcott (1875)**; Besant **led** it later.
 
 </details>
-
-**Logic:** Two leagues cooperated but did not permanently merge in 1916–18.
 
 **Q10. UPPCS / BPSC**
 
@@ -1121,6 +1119,8 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Two leagues cooperated but did not permanently merge in 1916–18.
+
 **Ans: A.** Two leagues **cooperated** but **did not permanently merge** in 1916–18.
 
 </details>
@@ -1130,8 +1130,6 @@ D. Neither 1 nor 2
 ## Ghatnachakra Extra Drill — Trade Union and Communist Party
 
 Teaching sits in **12.8–12.9** (and Topic 8 labour cards).
-
-**Logic:** First modern union — Madras Labour Union 1918, B.P. Wadia.
 
 **Q1. UPPCS / BPSC / IAS**
 
@@ -1148,11 +1146,11 @@ D. Lala Lajpat Rai
 <details>
 <summary>Show answer</summary>
 
+**Logic:** First modern union — Madras Labour Union 1918, B.P. Wadia.
+
 **Ans: B.** **B.P. Wadia** (with V. Kalyanasundaram) led the **Madras Labour Union (1918)** at the Buckingham & Carnatic mills.
 
 </details>
-
-**Logic:** Ahmedabad Textile Labour Association — Gandhi 1918.
 
 **Q2. UPPCS / BPSC**
 
@@ -1169,11 +1167,11 @@ D. Jawaharlal Nehru
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Ahmedabad Textile Labour Association — Gandhi 1918.
+
 **Ans: B.** Gandhi founded the **Ahmedabad Textile Labour Association** in **1918** — the same year as Wadia’s Madras union.
 
 </details>
-
-**Logic:** AITUC founding date and first president — Lala Lajpat Rai, not Joshi.
 
 **Q3. UPPCS / BPSC / IAS**
 
@@ -1190,11 +1188,11 @@ D. B.P. Wadia
 <details>
 <summary>Show answer</summary>
 
+**Logic:** AITUC founding date and first president — Lala Lajpat Rai, not Joshi.
+
 **Ans: B.** **AITUC (1920)** — first President **Lala Lajpat Rai**. **N.M. Joshi** is the **ILO 1919** labour representative tag.
 
 </details>
-
-**Logic:** Nagpur 1929 AITUC session — Nehru presided; 1929 split context.
 
 **Q4. UPPCS / IAS**
 
@@ -1211,11 +1209,11 @@ D. S.A. Dange
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Nagpur 1929 AITUC session — Nehru presided; 1929 split context.
+
 **Ans: C.** **Jawaharlal Nehru** presided at **Nagpur 1929**. The **1929** split saw moderates under **N.M. Joshi** break away to form the All India Trade Union Federation.
 
 </details>
-
-**Logic:** M.N. Roy — first Indian linked to Comintern; Tashkent memory.
 
 **Q5. UPPCS / BPSC / IAS**
 
@@ -1232,11 +1230,11 @@ D. Shaukat Usmani
 <details>
 <summary>Show answer</summary>
 
+**Logic:** M.N. Roy — first Indian linked to Comintern; Tashkent memory.
+
 **Ans: B.** **M.N. Roy** is keyed with **Comintern** and the **Tashkent** group (**October 1920** memory).
 
 </details>
-
-**Logic:** Kanpur Conspiracy 1924 — communist accused; Ansari NOT in list.
 
 **Q6. UPPCS / BPSC**
 
@@ -1253,11 +1251,11 @@ D. Home Rule League organisers
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Kanpur Conspiracy 1924 — communist accused; Ansari NOT in list.
+
 **Ans: B.** Kanpur Conspiracy (**1924**) hit **communist** leaders such as Muzaffar Ahmed, Nalini Gupta, Shaukat Usmani and S.A. Dange. **M.A. Ansari** was **not** in the list.
 
 </details>
-
-**Logic:** Meerut Conspiracy 1929 — worldwide protest.
 
 **Q7. UPPCS / IAS**
 
@@ -1274,11 +1272,11 @@ D. Gandhi and Jinnah jointly
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Meerut Conspiracy 1929 — worldwide protest.
+
 **Ans: B.** Meerut (**1929**) drew world protest — **Einstein, Wells, Laski** and others. CPI’s formal tag is often keyed to **1925, Kanpur**.
 
 </details>
-
-**Logic:** Radical Democratic Party — M.N. Roy 1940.
 
 **Q8. UPPCS / BPSC**
 
@@ -1295,11 +1293,11 @@ D. Acharya Narendra Dev
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Radical Democratic Party — M.N. Roy 1940.
+
 **Ans: B.** **M.N. Roy** founded the **Radical Democratic Party (1940)**. **Saumyendra Nath Tagore** founded the **Revolutionary Communist Party of India (1934)**.
 
 </details>
-
-**Logic:** Saumyendra Tagore — Revolutionary Communist Party 1934; do not swap with Roy’s Radical Democratic.
 
 **Q9. UPPCS / BPSC**
 
@@ -1316,11 +1314,11 @@ D. Forward Bloc (1939)
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Saumyendra Tagore — Revolutionary Communist Party 1934; do not swap with Roy’s Radical Democratic.
+
 **Ans: B.** Tagore’s **Revolutionary Communist Party of India (1934)** must not be confused with Roy’s **Radical Democratic Party (1940)**.
 
 </details>
-
-**Logic:** AITUC year trap — 1920, not 1919 or 1925.
 
 **Q10. UPPCS / IAS**
 
@@ -1342,6 +1340,8 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
+**Logic:** AITUC year trap — 1920, not 1919 or 1925.
+
 **Ans: A.** **AITUC (31 October 1920, Bombay)** is correct. First President = **Lala Lajpat Rai**, not Baptista (though Baptista sat in early leadership).
 
 </details>
@@ -1349,8 +1349,6 @@ D. Neither 1 nor 2
 ---
 
 ### UKPCS Complete PYQ Bank
-
-**Logic:** Statements 1–2 test AITUC birth facts; statement 3 swaps the 1929 breakaway leader — Dange did not form the moderate federation.
 
 **Q1. UKPCS Prelims 2025, Q61**
 
@@ -1370,6 +1368,8 @@ D. Only 2
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Statements 1–2 test AITUC birth facts; statement 3 swaps the 1929 breakaway leader — Dange did not form the moderate federation.
 
 **Ans: A (Series B key).** Statements **1 and 2** are correct: **AITUC (1920)** with **Lala Lajpat Rai** as first president. Statement **3** is false — moderates led by **N.M. Joshi** broke away in **1929** to form the **All India Trade Union Federation**, not Dange.
 

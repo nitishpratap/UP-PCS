@@ -297,10 +297,10 @@ B. Greeks — Kushans — Sakas
 C. Sakas — Greeks — Kushans
 D. Sakas — Kushans — Greeks
 
-**Logic:** Stem tests relative order only; “Greeks” here means the Hellenistic entry (Alexander + Indo-Greek), not Darius.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Stem tests relative order only; “Greeks” here means the Hellenistic entry (Alexander + Indo-Greek), not Darius.
 
 **Ans: A** — Hellenistic Greeks (Alexander + Indo-Greek) **before** Shakas **before** Kushans. Trap B flips the last two.
 
@@ -375,10 +375,10 @@ D. Sakas — Kushans — Greeks
 
 A. Nagarjun B. Nagbhatt C. Nagasena D. Kumaril Bhatt
 
-**Logic:** Stem tests the monk of *Milinda Panha*, not the later Madhyamaka philosopher.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Stem tests the monk of *Milinda Panha*, not the later Madhyamaka philosopher.
 
 **Ans: C — Nagasena.** King = Menander / Milinda. Trap A swaps in **Nagarjuna**.
 
@@ -513,10 +513,10 @@ B. Greeks — Kushans — Sakas
 C. Sakas — Greeks — Kushans
 D. Sakas — Kushans — Greeks
 
-**Logic:** Stem tests relative order of the three Hellenistic / Central Asian waves; trap B flips Sakas and Kushans.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Stem tests relative order of the three Hellenistic / Central Asian waves; trap B flips Sakas and Kushans.
 
 **Ans: A** — Greeks before Sakas before Kushans. Kanishka’s Kushans are the last of the three.
 
@@ -614,10 +614,10 @@ B. Both true but R does not explain A
 C. A true, R false 
 D. A false, R true 
 
-**A/R logic:** A tests return date (~325); R tests a false defeat story.
-
 <details>
 <summary>Show answer</summary>
+
+**A/R logic:** A tests return date (~325); R tests a false defeat story.
 
 **Ans: C.** He returned about **325 BCE**; he was **not** defeated by Chandragupta.
 
@@ -631,10 +631,10 @@ The women of which Indian republic or kingdom had taken up arms against Alexande
 
 A. Abhisara B. Glausai C. Katha D. Massaga 
 
-**Logic:** Massaga / Assakenoi.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Massaga / Assakenoi.
 
 **Ans: D.** Massaga.
 
@@ -653,10 +653,10 @@ Alexander’s success in India was due to:
 
 A. 1 and 2 B. 1, 2 and 3 C. 2, 3 and 4 D. All 
 
-**Logic:** Drop statement 4.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Drop statement 4.
 
 **Ans: B.** 1, 2 and 3.
 
@@ -670,10 +670,10 @@ Name the brave Indian King whom Alexander defeated on the bank of river Jhelum.
 
 A. Ambhi B. Porus C. Chandragupta Maurya D. Mahapadma Nanda 
 
-**Logic:** Hydaspes = Porus; Ambhi was ally.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Hydaspes = Porus; Ambhi was ally.
 
 **Ans: B.** Porus.
 
@@ -687,10 +687,10 @@ Who one of the following had not come to India with Alexander?
 
 A. Nearchus B. Onesicritus C. Deimachus D. Aristobulus 
 
-**Logic:** Deimachus → Bindusara.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Deimachus → Bindusara.
 
 **Ans: C.** Deimachus.
 
@@ -702,10 +702,10 @@ A. Nearchus B. Onesicritus C. Deimachus D. Aristobulus
 
 A. Nanda B. Maurya C. Sunga D. Kanva 
 
-**Logic:** Dhana Nanda contemporary; Mauryas come after.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Dhana Nanda contemporary; Mauryas come after.
 
 **Ans: A.** Nanda (Dhana / Agrammes).
 
@@ -1605,10 +1605,10 @@ D. (A) is false, but (R) is true
 
 A. Abhisara B. Glausai C. Katha D. Massaga 
 
-**Logic:** Assakenoi capital Massaga; women fighters after male losses.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Assakenoi capital Massaga; women fighters after male losses.
 
 **Ans: D.** **Massaga** of the Assakenoi.
 
@@ -1620,10 +1620,10 @@ A. Abhisara B. Glausai C. Katha D. Massaga
 
 A. Nearchus B. Onesicritus C. Deimachus D. Aristobulus 
 
-**Logic:** Deimachus = later envoy to Bindusara, not a companion of 326.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Deimachus = later envoy to Bindusara, not a companion of 326.
 
 **Ans: C.** **Deimachus** belongs to Bindusara’s court horizon.
 
@@ -1640,10 +1640,10 @@ A. Nearchus B. Onesicritus C. Deimachus D. Aristobulus
 
 A. 1 and 2 only B. 1, 2 and 3 C. 2, 3 and 4 D. All the above 
 
-**Logic:** Standard three causes; administrator is not a victory cause in this stem.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Standard three causes; administrator is not a victory cause in this stem.
 
 **Ans: B.** 1, 2 and 3. Ambhi-type allies matter; “good administrator” does not.
 
@@ -1659,10 +1659,10 @@ A. 1 and 2 only B. 1, 2 and 3 C. 2, 3 and 4 D. All the above
 
 A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
-**Logic:** Stem tests the three headline Indo-Greek name-facts; none is a Shaka or Kushan name.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Stem tests the three headline Indo-Greek name-facts; none is a Shaka or Kushan name.
 
 **Ans: D.** All three. Demetrius = early push; Menander = Milinda / Sagala; Antialcidas → Heliodorus / Besnagar.
 
@@ -1679,10 +1679,10 @@ A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 How many of the above statements are correct?
 A. Only one B. Only two C. All three D. None
 
-**Logic:** Statements 1–2 are standard Kushan / school facts; statement 3 confuses Chola Tamil bronze with Mathura Kushan sculpture.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Statements 1–2 are standard Kushan / school facts; statement 3 confuses Chola Tamil bronze with Mathura Kushan sculpture.
 
 **Ans: B.** 1 and 2. Classic **Nataraja** is later **Chola** lost-wax work, not Kushan Mathura.
 
@@ -1697,10 +1697,10 @@ B. Nahapana — Kshaharata; defeated by Gautamiputra Satakarni
 C. Rudradaman I — Kardamaka; Junagadh Sanskrit inscription
 D. Gondophares — Kushan founder who issued the first wide gold coinage
 
-**Logic:** Gondophares is Parthian; gold headline and founder facts belong to Vima / Kujula.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Gondophares is Parthian; gold headline and founder facts belong to Vima / Kujula.
 
 **Ans: D.** **Gondophares** is **Parthian / Pahlava**. Kushan founder = **Kujula**; wide gold = **Vima Kadphises**.
 
@@ -1721,10 +1721,10 @@ D. Gondophares — Kushan founder who issued the first wide gold coinage
 
 A. 2 3 1 4 B. 2 1 3 4 C. 3 2 1 4 D. 2 3 4 1
 
-**Logic:** Tests the Kushan succession spine, not Indo-Greek names.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Tests the Kushan succession spine, not Indo-Greek names.
 
 **Ans: A.** Kujula = founder/copper; Vima = gold; Kanishka = peak / era; Huvishka = after Kanishka.
 
@@ -1739,10 +1739,10 @@ B. Shaka–Kushan Central Asian / northern (*udichya-vesa*) influence
 C. Only Chola temple bronze ateliers of Tamil Nadu
 D. Only Mauryan polished sandstone pillars of Ashoka
 
-**Logic:** Booted Surya is a Shaka–Kushan northern-dress iconography fact, not Macedonian battle kit or Chola bronze.
-
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Booted Surya is a Shaka–Kushan northern-dress iconography fact, not Macedonian battle kit or Chola bronze.
 
 **Ans: B.** Boot-clad north Indian **Surya** reflects **Shaka–Kushan** northern dress influence.
 

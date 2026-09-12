@@ -417,8 +417,6 @@ The **National Bureau of Soil Survey and Land Use Planning** released India’s 
 > Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.
 > Full cross-topic index → [Practice Zone hub](15_Practice_Zone.md).
 
-**Logic:** VB-G RAM G vs MGNREGA — days, date, replacement (scheme false-statement machine).
-
 **Q1.** With reference to VB-G RAM G, which of the following statements is/are correct?
 
 1. It provides a wage employment guarantee of up to 125 days.
@@ -435,13 +433,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** VB-G RAM G vs MGNREGA — days, date, replacement (scheme false-statement machine).
+
 **Ans: D.** All three are core facts. Trap variant: keeping “100 days” or shifting force date to 15 August.
 
 </details>
 
 ---
-
-**A/R logic:** A tests day-count change; R tests funding pattern — both true but R does not explain why days rose to 125.
 
 **Q2.** Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
 
@@ -459,13 +457,13 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
+**A/R logic:** A tests day-count change; R tests funding pattern — both true but R does not explain why days rose to 125.
+
 **Ans: A.** Both facts are true, but funding ratio does not explain the rise from 100 to 125 days. Trap: picking D because both lines look “scheme-like”.
 
 </details>
 
 ---
-
-**Logic:** Census 2027 Phase-1 facts — digital + self-fill; Phase-2 timing.
 
 **Q3.** With reference to Census 2027, which of the following statements is/are correct?
 
@@ -482,13 +480,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Census 2027 Phase-1 facts — digital + self-fill; Phase-2 timing.
+
 **Ans: D.** Statement 1 is true. Statement 2 is false — people count / caste enumeration is linked with **Phase 2 (around February 2027)**, not Phase 1 housing list. Trap: compressing both phases into April 2026.
 
 </details>
 
 ---
-
-**Logic:** Scheme money / ministry-style incorrect statement.
 
 **Q4.** Which of the following pairs is/are **NOT** correctly matched?
 
@@ -506,13 +504,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Scheme money / ministry-style incorrect statement.
+
 **Ans: A.** Pair 3 is wrong — **Samudra Manthan** is deep-sea oil & gas (~₹84,084 crore). Floating solar is **PM Surya Sarovar**. Pairs 1 and 2 are correct.
 
 </details>
 
 ---
-
-**Logic:** RELIEF vs farm subsidy confusion.
 
 **Q5.** With reference to the RELIEF package announced in March 2026 coverage, which of the following statements is/are correct?
 
@@ -530,13 +528,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** RELIEF vs farm subsidy confusion.
+
 **Ans: A.** (3) confuses RELIEF with **NBS** fertiliser (~₹41,534 crore). Classic scheme-name mix-up.
 
 </details>
 
 ---
-
-**Logic:** Biopharma SHAKTI Budget scheme facts.
 
 **Q6.** With reference to Biopharma SHAKTI announced with the Union Budget 2026–27, which of the following statements is/are correct?
 
@@ -553,13 +551,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Biopharma SHAKTI Budget scheme facts.
+
 **Ans: C.** Money + institute counts. Trap: equating it with older PLI Pharma without the new ₹10,000 crore fact.
 
 </details>
 
 ---
-
-**Logic:** Sampoornata Abhiyan 2.0 — NITI, dates, district/block counts.
 
 **Q7.** With reference to Sampoornata Abhiyan 2.0, which of the following statements is/are correct?
 
@@ -577,13 +575,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Sampoornata Abhiyan 2.0 — NITI, dates, district/block counts.
+
 **Ans: D.** All three are January scheme facts. Trap: putting the scheme under Ministry of Rural Development instead of NITI.
 
 </details>
 
 ---
-
-**Logic:** 16th Finance Commission chair + grants.
 
 **Q8.** With reference to the 16th Finance Commission (Budget 2026–27 coverage), which of the following statements is/are correct?
 
@@ -600,13 +598,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 16th Finance Commission chair + grants.
+
 **Ans: C.** Chair + money. Trap: inserting N. K. Singh or an older FC chair.
 
 </details>
 
 ---
-
-**Logic:** IVFRT ministry + outlay period.
 
 **Q9.** With reference to the IVFRT scheme (2026–31 coverage), which of the following statements is/are correct?
 
@@ -624,13 +622,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** IVFRT ministry + outlay period.
+
 **Ans: A.** Coverage links IVFRT with **Home Ministry**. (3) is false. Trap: shifting every “foreigner” scheme automatically to MEA.
 
 </details>
 
 ---
-
-**Logic:** NBS Kharif — fertiliser subsidy window.
 
 **Q10.** With reference to Nutrient Based Subsidy for Kharif 2026, which of the following statements is/are correct?
 
@@ -648,13 +646,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** NBS Kharif — fertiliser subsidy window.
+
 **Ans: A.** (3) confuses farm subsidy with exporter RELIEF. Classic scheme-name collision.
 
 </details>
 
 ---
-
-**Logic:** ECLGS 5.0 credit target.
 
 **Q11.** With reference to ECLGS 5.0 (May 2026 Cabinet coverage), which of the following statements is/are correct?
 
@@ -672,13 +670,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** ECLGS 5.0 credit target.
+
 **Ans: A.** DAC AoN is about **₹2.38 lakh crore** — close but different. Trap designed for number collision.
 
 </details>
 
 ---
-
-**Logic:** PM-KISAN extension money + Khelo India.
 
 **Q12.** With reference to the late-July 2026 Cabinet window, which of the following statements is/are correct?
 
@@ -696,13 +694,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** PM-KISAN extension money + Khelo India.
+
 **Ans: D.** Three separate Cabinet facts — do not merge names. Trap: attaching Surya Sarovar money to Samudra Manthan.
 
 </details>
 
 ---
-
-**Logic:** I-Day number facts cluster.
 
 **Q13.** With reference to Independence Day 2026 number facts, which of the following statements is/are correct?
 
@@ -720,13 +718,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** I-Day number facts cluster.
+
 **Ans: D.** Memorise as a trio with nuclear 100 GW. Trap: swapping 1 crore / 6 crore.
 
 </details>
 
 ---
-
-**Logic:** VB-G funding special category.
 
 **Q14.** With reference to VB-G RAM G funding, which of the following statements is/are correct?
 
@@ -744,13 +742,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** VB-G funding special category.
+
 **Ans: D.** Deeper than “125 days only”. Trap: writing 90:10 for all states.
 
 </details>
 
 ---
-
-**Logic:** NOT matched — scheme ↔ ministry / nature.
 
 **Q15.** Which of the following pairs is/are **NOT** correctly matched?
 
@@ -768,13 +766,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** NOT matched — scheme ↔ ministry / nature.
+
 **Ans: A.** Pair 3 swaps Surya Sarovar (floating solar) with Samudra Manthan. Pairs 1 and 2 are correct.
 
 </details>
 
 ---
-
-**Logic:** Semicon 2.0 outlay vs ISM 1.0.
 
 **Q16.** With reference to Semicon 2.0 / ISM 2.0, which of the following statements is/are correct?
 
@@ -792,13 +790,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Semicon 2.0 outlay vs ISM 1.0.
+
 **Ans: A.** (3) confuses Biopharma SHAKTI.
 
 </details>
 
 ---
-
-**Logic:** Sampoornata links ADP/ABP.
 
 **Q17.** With reference to Sampoornata Abhiyan 2.0, which of the following statements is/are correct?
 
@@ -816,13 +814,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Sampoornata links ADP/ABP.
+
 **Ans: A.** (3) invents a census swap.
 
 </details>
 
 ---
-
-**Logic:** PM-RKVY merger money.
 
 **Q18.** With reference to the January farm-scheme merger idea into PM-RKVY, which of the following statements is/are correct?
 
@@ -840,13 +838,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** PM-RKVY merger money.
+
 **Ans: A.** (3) different rural schemes.
 
 </details>
 
 ---
-
-**Logic:** Container Manufacturing + CCUS Budget cluster.
 
 **Q19.** Which of the following statements is/are correct for Budget 2026–27 scheme messaging?
 
@@ -864,13 +862,13 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Container Manufacturing + CCUS Budget cluster.
+
 **Ans: A.** (3) Semicon figure collision.
 
 </details>
 
 ---
-
-**Logic:** Electronics Components Manufacturing raise.
 
 **Q20.** With reference to Electronics Components Manufacturing (Budget 2026–27), which of the following statements is/are correct?
 
@@ -886,6 +884,8 @@ D. Only 1
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Electronics Components Manufacturing raise.
 
 **Ans: C.** Both true.
 

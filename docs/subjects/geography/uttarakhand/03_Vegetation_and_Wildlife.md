@@ -156,8 +156,6 @@
 
 ## UKPCS Inline PYQs
 
-**Logic:** Heritage status plus signature fauna.
-
 **UKPCS Prelims 2025, Q20**
 
 Consider the following statements about Nanda Devi Biosphere Reserve:
@@ -173,11 +171,11 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Heritage status plus signature fauna.
+
 **Ans: C (Series B provisional key).** Nanda Devi / Valley of Flowers WHS status and the three fauna names are both correct.
 
 </details>
-
-**Logic:** Govind–Uttarkashi is the firmest pair and fixes the code.
 
 **UKPCS Prelims 2025, Q104**
 
@@ -200,11 +198,11 @@ D. A-1, B-2, C-3, D-4
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Govind–Uttarkashi is the firmest pair and fixes the code.
+
 **Ans: C (Series B provisional key).** Askot–Pithoragarh (4); Binsar–Almora (3); Govind–Uttarkashi (1); Nandhaur–Nainital (2).
 
 </details>
-
-**A/R logic:** A tests forest richness; R tests whether relief/climate explain it.
 
 **UKPCS Prelims 2025, Q108**
 
@@ -219,11 +217,11 @@ D. A false, R true
 <details>
 <summary>Show answer</summary>
 
+**A/R logic:** A tests forest richness; R tests whether relief/climate explain it.
+
 **Ans: B (Series B provisional key).** Both are true and altitudinal climate zones explain the richness.
 
 </details>
-
-**Logic:** Corbett 1936 is certain — find the wrong later year.
 
 **UKPCS Prelims 2025, Q114**
 
@@ -237,11 +235,11 @@ D. Gangotri National Park — 1989
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Corbett 1936 is certain — find the wrong later year.
+
 **Ans: A (Series B provisional key).** Govind NP was notified in **1990**, so 1989 is wrong. Gangotri correctly pairs with 1989.
 
 </details>
-
-**Logic:** Birch is Himalayan, not peninsular or Aravalli.
 
 **UKPCS Prelims 2006**
 
@@ -255,11 +253,11 @@ D. Vindhyas
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Birch is Himalayan, not peninsular or Aravalli.
+
 **Ans: B.** Birch is a Himalayan alpine / moist alpine scrub tree. White paper-like bark was used for writing scriptures.
 
 </details>
-
-**Logic:** Temperate western Himalaya abundance — deodar, not the distractor pines alone.
 
 **UKPCS UDA/LDA Prelims 2003**
 
@@ -273,11 +271,11 @@ D. Blue pine
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Temperate western Himalaya abundance — deodar, not the distractor pines alone.
+
 **Ans: B.** Deodar dominates the western Himalayan temperate belt at about **1500–2500 m**.
 
 </details>
-
-**Logic:** Elevation rank among common timber names.
 
 **UKPCS Prelims 2002**
 
@@ -291,11 +289,11 @@ D. Teak
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Elevation rank among common timber names.
+
 **Ans: A.** Deodar at about **1500–2500 m**. Chir/pine lower; sal and teak are plains / peninsula deciduous.
 
 </details>
-
-**Logic:** Product–tree pair for Uttarakhand resin economy.
 
 **UKPCS Mains 2002**
 
@@ -309,11 +307,11 @@ D. Sheesham
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Product–tree pair for Uttarakhand resin economy.
+
 **Ans: A.** Lisa is pine resin of Uttarakhand. Distillation gives turpentine oil and industrial resin. Burans is rhododendron; do not swap.
 
 </details>
-
-**Logic:** Forest-type classification of khair (catechu).
 
 **UKPCS Prelims 2021**
 
@@ -327,11 +325,11 @@ D. Temperate Forests
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Forest-type classification of khair (catechu).
+
 **Ans: C.** Khair belongs to sub-tropical forests of the Shiwaliks and western Himalaya (with keekar / acacia scrub). Katha comes from khair wood.
 
 </details>
-
-**Logic:** Wrong mangrove–state pair; Vembanad is Kerala (shared national trap also asked in UK papers).
 
 **UKPCS UDA Prelims 2003**
 
@@ -345,6 +343,8 @@ D. Vembanad — Karnataka
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Wrong mangrove–state pair; Vembanad is Kerala (shared national trap also asked in UK papers).
+
 **Ans: D.** Vembanad mangroves are in **Kerala**, not Karnataka.
 
 </details>
@@ -352,8 +352,6 @@ D. Vembanad — Karnataka
 ---
 
 ## Practice Zone
-
-**Logic:** Altitude product versus flowering shrub.
 
 **Q1.** Lisa, a major forest product of Uttarakhand, is obtained from:
 
@@ -365,11 +363,11 @@ D. Teak
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Altitude product versus flowering shrub.
+
 **Ans: B.** Lisa is pine resin. Burans is rhododendron; do not swap the two.
 
 </details>
-
-**Logic:** Alpine meadow belt above the tree-line.
 
 **Q2.** Bugyals in Uttarakhand are best described as:
 
@@ -380,6 +378,8 @@ D. Only silica sand quarries
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Alpine meadow belt above the tree-line.
 
 **Ans: B.** Bugyals are high alpine meadows used as seasonal pastures above the tree-line.
 

@@ -59,8 +59,6 @@
 
 ## Practice Zone
 
-**Logic:** Which fund meets sudden unforeseen spending first?
-
 **Q1.** Advances for unforeseen state expenditure pending legislative authorisation come from the:
 
 A. Consolidated Fund only 
@@ -70,6 +68,8 @@ D. Consolidated Fund of India
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Which fund meets sudden unforeseen spending first?
 
 **Ans: B.** Contingency Fund of the State is the advance account for unforeseen expenditure.
 

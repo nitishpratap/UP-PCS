@@ -533,8 +533,6 @@ Teach CPCB industrial day standard as **75 dB** in general notes.
 
 ## Complete PYQ Bank (Topic 38)
 
-**Logic:** Lichens are sensitive bio-indicators — they die back in polluted air; they do not thrive in it.
-
 **Q1. UPPCS Prelims 2025, Q61**
 
 Consider the following statements:
@@ -550,11 +548,11 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Lichens are sensitive bio-indicators — they die back in polluted air; they do not thrive in it.
+
 **Ans: D (Only 1).** Statement 1 true; statement 2 false — lichens are **sensitive**, not pollution-tolerant. **Trap:** “Indicator” mistaken for “thrives in dirty air.”
 
 </details>
-
-**Logic:** Groundwater quality reporting is CGWB’s mandate — not CPCB or CWC.
 
 **Q2. UPPCS Prelims 2025, Q70**
 
@@ -572,11 +570,11 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Groundwater quality reporting is CGWB’s mandate — not CPCB or CWC.
+
 **Ans: B (Only 3).** **CGWB** publishes the annual groundwater quality report. **Trap:** Swapping CPCB (air/surface water) with CGWB.
 
 </details>
-
-**Logic:** BOD measures microbial oxygen demand in water — an aquatic pollution assay, not blood oxygen.
 
 **Q3. UPPCS Prelims 2023, Q103**
 
@@ -590,11 +588,11 @@ D. Forest O₂
 <details>
 <summary>Show answer</summary>
 
+**Logic:** BOD measures microbial oxygen demand in water — an aquatic pollution assay, not blood oxygen.
+
 **Ans: A.** **BOD** assays organic pollution in rivers/lakes. **Trap:** “Oxygen” in the name → blood or altitude distractors.
 
 </details>
-
-**Logic:** Pesticides persist and are not readily biodegradable unlike domestic organic waste.
 
 **Q4. UPPCS Prelims 2023, Q120**
 
@@ -608,11 +606,11 @@ D. Pesticide
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Pesticides persist and are not readily biodegradable unlike domestic organic waste.
+
 **Ans: D.** **Pesticides** are persistent; domestic waste, urine, and faecal matter biodegrade. **Trap:** Assuming all “natural” chemicals biodegrade quickly.
 
 </details>
-
-**Logic:** Photochemical smog always contains ozone as a key secondary product.
 
 **Q5. UPPCS Prelims 2022, Q46**
 
@@ -626,11 +624,11 @@ D. Aluminium ion
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Photochemical smog always contains ozone as a key secondary product.
+
 **Ans: B.** NOx + VOCs + sunlight → **O₃** (+ PAN). **Trap:** London SO₂ smog without ozone chemistry.
 
 </details>
-
-**Logic:** UNEP Frontier Report 2022 ranked Moradabad among the world’s noisiest cities.
 
 **Q6. UPPCS Prelims 2022, Q81**
 
@@ -644,11 +642,11 @@ D. Patna
 <details>
 <summary>Show answer</summary>
 
+**Logic:** UNEP Frontier Report 2022 ranked Moradabad among the world’s noisiest cities.
+
 **Ans: B.** **Moradabad** (UP brassware hub) was #2 in that report. **Trap:** Kota/Indore as generic UP/North India distractors.
 
 </details>
-
-**Logic:** Natural arsenic in groundwater is classically associated with Bangladesh / lower Gangetic basin.
 
 **Q7. UPPCS Prelims 2022, Q63**
 
@@ -662,11 +660,11 @@ D. Pakistan
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Natural arsenic in groundwater is classically associated with Bangladesh / lower Gangetic basin.
+
 **Ans: B.** **Bangladesh** is the textbook arsenic hotspot (Gangetic plains geology). **Trap:** Assuming arsenic is India-exclusive only.
 
 </details>
-
-**Logic:** CPCB daytime noise limits — silence zone lowest, then residential, commercial, industrial highest.
 
 **Q8. UPPCS Prelims 2022, Q115**
 
@@ -689,11 +687,11 @@ D. All zones at 75 dB
 <details>
 <summary>Show answer</summary>
 
+**Logic:** CPCB daytime noise limits — silence zone lowest, then residential, commercial, industrial highest.
+
 **Ans: C.** Residential **55**, Silence **50**, Industrial **70**, Commercial **65** — silence < residential < commercial < industrial (paper industrial **70**; teach CPCB day industrial **75 dB** in notes). **Trap:** Reversing silence vs residential or using one dB for all zones.
 
 </details>
-
-**Logic:** Fly ash is a primary pollutant from coal thermal power plants — usable in bricks/cement.
 
 **Q9. UPPCS Prelims 2021, Q143**
 
@@ -707,11 +705,11 @@ D. Mining
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Fly ash is a primary pollutant from coal thermal power plants — usable in bricks/cement.
+
 **Ans: C.** **Thermal power plants** emit fly ash (SiO₂/Al₂O₃/CaO plus toxic metals). **Trap:** Calling fly ash a secondary pollutant like smog.
 
 </details>
-
-**Logic:** Smog is a secondary pollutant; classical smog links to oxides of nitrogen and sulphur.
 
 **Q10. UPPCS Prelims 2019, Q136 / 2018, Q121**
 
@@ -728,6 +726,8 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Smog is a secondary pollutant; classical smog links to oxides of nitrogen and sulphur.
+
 **Ans: C.** Statement 1 matches **2019 Q136** (oxides of N and S); statement 2 matches **2018 Q121** (smog secondary; fly ash/CO primary). **Trap:** Treating fly ash or stack SO₂ alone as “smog” without atmospheric formation.
 
 </details>
@@ -735,8 +735,6 @@ D. Neither 1 nor 2
 ---
 
 ## Extra Drill (Ghatnachakra Pollution map)
-
-**Logic:** These stems recycle bank traps on anthropogenic pollution, AQI gases, control devices, diseases, and remediation.
 
 **Q31.** Human-made pollutants / human-modified environment are called—
 
@@ -750,6 +748,8 @@ D. Humalins
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** These stems recycle bank traps on anthropogenic pollution, AQI gases, control devices, diseases, and remediation.
 
 **Ans: B.** Anthropogenic means caused or influenced by humans.
 

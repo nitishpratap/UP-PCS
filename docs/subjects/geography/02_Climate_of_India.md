@@ -35,8 +35,6 @@ El Niño **tendency** ≠ guaranteed all-India drought — still the 2026 -relev
 
 ### UKPCS Prelims 2025
 
-**Logic:** A = tropical, w = dry winter — western coastal strip.
-
 **Q. UKPCS Prelims 2025, Q96**
 
 According to Koppen's climatic classification, the (Amw) climate is found predominantly in which part of India?
@@ -49,11 +47,11 @@ D. Northern plain
 <details>
 <summary>Show answer</summary>
 
+**Logic:** A = tropical, w = dry winter — western coastal strip.
+
 **Ans: B.** Amw marks the western coastal strip (and parts of the north-east). Thar is BWhw; northern plain largely Cwg.
 
 </details>
-
-**Logic:** Loo and Kal Baisakhi are northern — southern pre-monsoon is mango shower.
 
 **Q. UKPCS Prelims 2025, Q98**
 
@@ -66,6 +64,8 @@ D. Mistral
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Loo and Kal Baisakhi are northern — southern pre-monsoon is mango shower.
 
 **Ans: B.** Mango showers help ripen mangoes in Kerala and coastal Tamil Nadu.
 
@@ -2489,8 +2489,6 @@ D. English
 
 **Q57.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
 
-**A/R logic:** (A) tests whether India is monsoonal. (R) tests Himalaya as climatic divide. Does Himalaya **explain** monsoonal character?
-
 **Assertion (A):** India is a monsoonal country.
 
 **Reason (R):** The high Himalayas impart it climatic distinctiveness.
@@ -2506,13 +2504,13 @@ D. (A) is false, but (R) is true
 <details>
 <summary>Show answer</summary>
 
+**A/R logic:** (A) tests whether India is monsoonal. (R) tests Himalaya as climatic divide. Does Himalaya **explain** monsoonal character?
+
 **Ans: A** — UPPCS 1996/1998 pattern: India is monsoonal; Himalaya blocks cold northern winds and forces monsoon moisture to shed inside the subcontinent — R explains A. **B** denies the link.
 
 </details>
 
 **Q58.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
-
-**A/R logic:** (A) tropical monsoon climate. (R) claims India lies **exactly** between the Tropics — check latitude span to 37°6′ N.
 
 **Assertion (A):** India has a tropical monsoon type climate.
 
@@ -2528,6 +2526,8 @@ D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
+
+**A/R logic:** (A) tropical monsoon climate. (R) claims India lies **exactly** between the Tropics — check latitude span to 37°6′ N.
 
 **Ans: B** — Climate is tropical monsoonal, but India is **not** wholly between 23°30′ N–S (extends to ~37°6′ N). **A/C** wrongly accept R.
 
@@ -2591,8 +2591,6 @@ D. Neither 1 nor 2
 
 **Q62.** With reference to the Indian Ocean Dipole (IOD), which of the following statements is/are correct?
 
-**Logic:** Stmt 1 misplaces the eastern pole into the **Pacific**. Stmt 2 tests whether IOD can offset/modify El Niño’s monsoon hit.
-
 1. IOD is characterised by a difference in sea-surface temperature between the tropical western Indian Ocean and the tropical eastern Pacific Ocean.
 2. An IOD phenomenon can influence an El Niño’s impact on the monsoon.
 
@@ -2606,6 +2604,8 @@ D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Stmt 1 misplaces the eastern pole into the **Pacific**. Stmt 2 tests whether IOD can offset/modify El Niño’s monsoon hit.
 
 **Ans: B** — UPSC 2017: IOD = west vs **east Indian Ocean**, not eastern Pacific. Stmt 2 true (+IOD can rescue a weak El Niño year). **C** keeps the Pacific trap.
 
@@ -2780,8 +2780,6 @@ D. the winds do not come across barriers that force the necessary uplift to cool
 
 **Q72.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
 
-**A/R logic:** (A) winter dryness over most of India. (R) NE trade / land winds. Check whether R explains A (yes for most of India; Coromandel is the exception after Bay pickup).
-
 **Assertion (A):** During the winter season, most parts of India are dry.
 
 **Reason (R):** Most parts of the country are under the influence of the north-east trade winds during the winter season.
@@ -2796,6 +2794,8 @@ D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
+
+**A/R logic:** (A) winter dryness over most of India. (R) NE trade / land winds. Check whether R explains A (yes for most of India; Coromandel is the exception after Bay pickup).
 
 **Ans: A** — NE trades move land → sea and stay dry until they cross the Bay (TN exception). UP RO/ARO 2023 pattern keys both true with R explaining A.
 

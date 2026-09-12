@@ -69,8 +69,6 @@
 
 ## Practice Zone
 
-**Logic:** Kumaon ritual art identity.
-
 **Q1.** Aipan is best described as:
 
 A. A classical SNA dance of Uttarakhand 
@@ -81,11 +79,11 @@ D. A Tehri princely court title
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Kumaon ritual art identity.
+
 **Ans: B.** Aipan is Kumaon ritual rice-paste art for ceremonies and festivals.
 
 </details>
-
-**Logic:** Sword dance region.
 
 **Q2.** Chholiya is associated with:
 
@@ -96,6 +94,8 @@ D. Manipuri Ras
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Sword dance region.
 
 **Ans: B.** Chholiya is the Kumaon sword folk dance linked with weddings.
 

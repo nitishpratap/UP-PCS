@@ -392,8 +392,6 @@ Options: A. Only 2 B. Neither C. Both D. Only 1
 
 ## Complete PYQ Bank (Topic 34)
 
-**Logic:** Report–agency match — Emissions Gap = UNEP; HDR = UNDP; WEO = IMF; WIR = UNCTAD.
-
 **Q1. UPPCS Prelims 2024, Q6**
 
 Match List-I with List-II:
@@ -418,13 +416,13 @@ D. 2 3 4 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Report–agency match — Emissions Gap = UNEP; HDR = UNDP; WEO = IMF; WIR = UNCTAD.
+
 **Ans: A.** HDR=UNDP (3); WEO=IMF (1); WIR=UNCTAD (4); Emissions Gap=**UNEP (2)**. **Trap:** Emissions Gap credited to IPCC or UNDP.
 
 </details>
 
 ---
-
-**Logic:** Kyoto = climate mitigation; Montreal = ozone/ODS — never swap treaty families.
 
 **Q2. UPPCS Prelims 2024, Q35**
 
@@ -441,13 +439,13 @@ D. CITES
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Kyoto = climate mitigation; Montreal = ozone/ODS — never swap treaty families.
+
 **Ans: C.** **Kyoto Protocol (1997)** sets GHG mitigation for developed parties. **Trap:** Montreal (ozone) or Ramsar (wetlands) as climate treaties.
 
 </details>
 
 ---
-
-**Logic:** 2023 Q109 keyed 10th — distinct from absolute total-emissions rank (~3rd).
 
 **Q3. UPPCS Prelims 2023, Q109**
 
@@ -464,13 +462,13 @@ D. 12th
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 2023 Q109 keyed 10th — distinct from absolute total-emissions rank (~3rd).
+
 **Ans: B.** Paper answer **10th** (performance-index framing). India is ~**3rd** in **absolute** total emissions — do not mix frames. **Trap:** Picking 3rd when options stop at 12th without reading the stem metric.
 
 </details>
 
 ---
-
-**Logic:** Noble gases — argon is not a greenhouse gas; CO2, CH4, CFCs are.
 
 **Q4. UPPCS Prelims 2022, Q102**
 
@@ -487,13 +485,13 @@ D. Carbon dioxide
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Noble gases — argon is not a greenhouse gas; CO2, CH4, CFCs are.
+
 **Ans: A.** **Argon** is inert air (~0.93%) and not a GHG. **Trap:** Confusing N2 or Ar with N2O (which is a GHG).
 
 </details>
 
 ---
-
-**Logic:** Carbon credit market origin — Kyoto CDM/JI/ET, not Montreal or Rio alone.
 
 **Q5. UPPCS Prelims 2021, Q125**
 
@@ -510,13 +508,13 @@ D. G-8 Summit
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Carbon credit market origin — Kyoto CDM/JI/ET, not Montreal or Rio alone.
+
 **Ans: B.** Kyoto (1997) created **CDM/JI/Emissions Trading** — **1 credit ≈ 1 tCO2e**. **Trap:** Montreal (ozone) or Green Credit Programme (2023) as Kyoto twin.
 
 </details>
 
 ---
-
-**Logic:** 2015 largest CO2 emitter — China ahead of USA and India.
 
 **Q6. UPPCS Prelims 2018, Q132**
 
@@ -533,13 +531,13 @@ D. France
 <details>
 <summary>Show answer</summary>
 
+**Logic:** 2015 largest CO2 emitter — China ahead of USA and India.
+
 **Ans: A.** **China** led absolute CO2 emissions in 2015. **Trap:** India because of recent growth narrative, or USA historical cumulative confusion in a single-year stem.
 
 </details>
 
 ---
-
-**Logic:** LiFE June 2022 launch true; COP-25 Madrid idea false — COP-26 Glasgow 2021.
 
 **Q7. UPPCS Prelims 2025, Q139**
 
@@ -559,13 +557,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
+**Logic:** LiFE June 2022 launch true; COP-25 Madrid idea false — COP-26 Glasgow 2021.
+
 **Ans: D.** Launch **June 2022** correct; idea at **COP-26 Glasgow (2021)**, not COP-25. **Trap:** Any Madrid COP-25 LiFE distractor.
 
 </details>
 
 ---
-
-**Logic:** IPCC assesses science; UNFCCC hosts treaty/NDC negotiations — different mandates.
 
 **Q8. Pattern**
 
@@ -582,13 +580,13 @@ D. IPCC and UNEP Emissions Gap Report are the same document
 <details>
 <summary>Show answer</summary>
 
+**Logic:** IPCC assesses science; UNFCCC hosts treaty/NDC negotiations — different mandates.
+
 **Ans: A.** **IPCC = science (WMO+UNEP parents)**; **UNFCCC = treaty/COP/NDCs**. **Trap:** IPCC sets targets or publishes Emissions Gap (that is **UNEP**).
 
 </details>
 
 ---
-
-**Logic:** One carbon credit = one tonne CO2 equivalent under Kyoto market tools.
 
 **Q9. Pattern**
 
@@ -605,13 +603,13 @@ D. One megawatt of solar capacity only
 <details>
 <summary>Show answer</summary>
 
+**Logic:** One carbon credit = one tonne CO2 equivalent under Kyoto market tools.
+
 **Ans: A.** Standard unit = **1 tCO2e**. **Trap:** Confusing with PAT **ESCerts** (energy efficiency) or green credits (2023).
 
 </details>
 
 ---
-
-**Logic:** India net-zero year 2070 announced at COP-26; NAPCC launched 2008.
 
 **Q10. Pattern**
 
@@ -627,6 +625,8 @@ D. Net zero 2070; NAPCC 2023
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** India net-zero year 2070 announced at COP-26; NAPCC launched 2008.
 
 **Ans: A.** **Net zero = 2070** (COP-26, 2021); **NAPCC = 2008** with eight missions. **Trap:** 2050 net-zero or Paris 2015 mistaken as NAPCC birth year.
 

@@ -29,8 +29,6 @@ Bharat Ratna (Culture) | Sangeet Natak Akademi Awards | Lalit Kala Akademi Award
 
 ### UKPCS Prelims 2025
 
-**Logic:** Field of the award — social work vs folk music.
-
 **Q. UKPCS Prelims 2025, Q53**
 
 Who among the following received the Padma Shri Award in 2025 for social work from Uttarakhand?
@@ -43,11 +41,11 @@ D. Shri Hugh and Colleen Gantzer (posthumously)
 <details>
 <summary>Show answer</summary>
 
+**Logic:** Field of the award — social work vs folk music.
+
 **Ans: C (Series B provisional key).** Radha Bahin Bhatt (Lakshmi Ashram, Kausani) — social work. Madhuri Barthwal is the folk-music distractor.
 
 </details>
-
-**Logic:** Cuisine / food-history author — Series B keys option C as not his.
 
 **Q. UKPCS Prelims 2025, Q49**
 
@@ -60,6 +58,8 @@ D. Lazzatnama
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Cuisine / food-history author — Series B keys option C as not his.
 
 **Ans: C (Series B provisional key).** Keyed title not by him is **Himalaya Ke Barf**. Follow Series B letter for this paper.
 

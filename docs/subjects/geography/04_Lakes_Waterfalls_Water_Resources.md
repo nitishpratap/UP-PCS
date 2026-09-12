@@ -33,8 +33,6 @@
 
 ### UKPCS Prelims 2025
 
-**Logic:** Superior vs Victoria decides the head of the sequence.
-
 **Q. UKPCS Prelims 2025, Q93**
 
 What is the correct sequence of lakes in descending order of size?
@@ -46,6 +44,8 @@ D. Chilka, Michigan, Superior, Victoria
 
 <details>
 <summary>Show answer</summary>
+
+**Logic:** Superior vs Victoria decides the head of the sequence.
 
 **Ans: B (Series B provisional key).** Superior > Victoria > Michigan >> Chilka. Victoria-first is the tropical-lake trap.
 
