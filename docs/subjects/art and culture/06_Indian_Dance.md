@@ -29,24 +29,6 @@ Kalbelia UNESCO **2010**. Chhau **2010**. Sankirtana **2013**. SNA **1952**.
 ---
 
 
-## Confused Pairs
-
-| A | B | Correct | Hindi |
-|---|----|------|-------|
-| Kathak | Kathakali | North spins + Hindustani vs Kerala dance-drama + chutti | कथक / कथकली |
-| Kathakali | Mohiniyattam | Kerala male, heavy aharya vs Kerala female solo lasya | कथकली / मोहिनीअट्टम् |
-| Bharatanatyam | Odissi | Araimandi geometry vs tribhangi three bends | भरतनाट्यम् / ओडिसी |
-| Bharatanatyam | Kuchipudi | TN temple margam vs AP village dance-drama + plate | भरतनाट्यम् / कुचिपुड़ी |
-| Manipuri Ras Lila | Braj Raslila | Classical Manipur vs **UP folk** Krishna play | मणिपुरी रास / ब्रज रासलीला |
-| Lasya | Tandava | Grace (Parvati / Mohini) vs vigour (Shiva / Kathakali) | लास्य / तांडव |
-| Nritta | Nritya | Pure dance, no story vs expressive abhinaya | नृत्त / नृत्य |
-| Mahari | Gotipua | Odissi temple women vs boys dressed as women | महारी / गोटिपुआ |
-| SNA 8 | Chhau | Official classical eight vs UNESCO martial/folk, **not** the 8 | 8 शास्त्रीय / छऊ |
-| Folk | Tribal | Regional peasant festival vs adivasi ritual | लोक / आदिवासी |
-| Garba | Dandiya | Circle around lamp vs sticks | गरबा / डांडिया |
-
----
-
 ## Consolidated — 24 Must-Score Facts
 
 1. Sangeet Natak Akademi recognises **eight** classical dances. **Sattriya** of Assam was added in **2000**. A paper that says seven has dropped Sattriya.
@@ -73,6 +55,24 @@ Kalbelia UNESCO **2010**. Chhau **2010**. Sankirtana **2013**. SNA **1952**.
 22. **Yamini Krishnamurthy** danced Bharatanatyam and Kuchipudi. She died on **3 August 2024**.
 23. **Abhinaya Darpana** by **Nandikesvara** is the hasta-mudra companion text often asked beside Natyashastra.
 24. Sankirtana of Manipur is UNESCO ICH **2013**. It is music–dance ritual, not a ninth SNA classical dance.
+
+---
+
+## Confused Pairs
+
+| A | B | Correct | Hindi |
+|---|----|------|-------|
+| Kathak | Kathakali | North spins + Hindustani vs Kerala dance-drama + chutti | कथक / कथकली |
+| Kathakali | Mohiniyattam | Kerala male, heavy aharya vs Kerala female solo lasya | कथकली / मोहिनीअट्टम् |
+| Bharatanatyam | Odissi | Araimandi geometry vs tribhangi three bends | भरतनाट्यम् / ओडिसी |
+| Bharatanatyam | Kuchipudi | TN temple margam vs AP village dance-drama + plate | भरतनाट्यम् / कुचिपुड़ी |
+| Manipuri Ras Lila | Braj Raslila | Classical Manipur vs **UP folk** Krishna play | मणिपुरी रास / ब्रज रासलीला |
+| Lasya | Tandava | Grace (Parvati / Mohini) vs vigour (Shiva / Kathakali) | लास्य / तांडव |
+| Nritta | Nritya | Pure dance, no story vs expressive abhinaya | नृत्त / नृत्य |
+| Mahari | Gotipua | Odissi temple women vs boys dressed as women | महारी / गोटिपुआ |
+| SNA 8 | Chhau | Official classical eight vs UNESCO martial/folk, **not** the 8 | 8 शास्त्रीय / छऊ |
+| Folk | Tribal | Regional peasant festival vs adivasi ritual | लोक / आदिवासी |
+| Garba | Dandiya | Circle around lamp vs sticks | गरबा / डांडिया |
 
 ---
 

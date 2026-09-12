@@ -15,24 +15,6 @@ Rajput Warriors | Maharana Pratap | Battle of Haldighati | Rana Sanga | Rajput S
 
 ---
 
-## Confused Pairs
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Khanwa vs Haldighati | 1527 Babur–Sanga vs 1576 Man Singh–Pratap | खानवा / हल्दीघाटी |
-| Mewar vs Marwar | Sisodia Chittor–Udaipur vs Rathore Jodhpur | मेवाड़ / मारवाड़ |
-| Rana Chunda vs Rao Chunda | Mewar vs Marwar founder line — 2021 trap | राणा चुंडा / राव चुंडा |
-| Sanga vs Pratap | Fought Babur vs fought Akbar | सांगा / प्रताप |
-| Man Singh vs Pratap | Kachhwaha on Mughal side vs Sisodia holdout | मान सिंह / प्रताप |
-| Chittor vs Udaipur | Old fort (1303, 1568) vs new capital 1559 | चित्तौड़ / उदयपुर |
-| Jauhar vs Saka | Women’s immolation vs warriors’ last charge | जौहर / साका |
-| Hamir vs Kumbha | 14th c. restorer vs 15th c. Vijay Stambha builder | हमीर / कुम्भा |
-| Rana Hammir vs Hamir Deva | Mewar restorer (1326) vs Ranthambore Chauhan (died 1301) | मेवाड़ हमीर / रणथम्भौर हमीर |
-| Vijay Stambha vs Kirti Stambha | Kumbha’s victory tower vs older Jain tower, both at Chittor | विजय स्तम्भ / कीर्ति स्तम्भ |
-| Alauddin’s Chittor vs Akbar’s | 1303 vs 1567–68 | अलाउद्दीन / अकबर |
-
----
-
 ## Consolidated — 24 Must-Score Facts
 
 1. **Sisodia** ruled **Mewar** (Chittor → Udaipur); **Rathore** ruled **Marwar** (Jodhpur); **Kachhwaha** ruled **Amber/Jaipur**.
@@ -59,6 +41,24 @@ Rajput Warriors | Maharana Pratap | Battle of Haldighati | Rana Sanga | Rajput S
 22. Cause–course–result for Khanwa: Sanga built a post-Panipat confederacy, Babur used Araba and Tulughma, and the Rajput challenge to early Mughal power broke.
 23. Cause–course–result for Haldighati: Pratap refused submission, Man Singh led the imperial wing, and Pratap withdrew to continue guerrilla resistance.
 24. **Tansen** served Rewa/Bhata before Akbar; do not treat **Udai Singh of Mewar** as his pre-Akbar patron fact.
+
+---
+
+## Confused Pairs
+
+| A | B | Difference | Hindi |
+|---|----|------------|-------|
+| Khanwa vs Haldighati | 1527 Babur–Sanga vs 1576 Man Singh–Pratap | खानवा / हल्दीघाटी |
+| Mewar vs Marwar | Sisodia Chittor–Udaipur vs Rathore Jodhpur | मेवाड़ / मारवाड़ |
+| Rana Chunda vs Rao Chunda | Mewar vs Marwar founder line — 2021 trap | राणा चुंडा / राव चुंडा |
+| Sanga vs Pratap | Fought Babur vs fought Akbar | सांगा / प्रताप |
+| Man Singh vs Pratap | Kachhwaha on Mughal side vs Sisodia holdout | मान सिंह / प्रताप |
+| Chittor vs Udaipur | Old fort (1303, 1568) vs new capital 1559 | चित्तौड़ / उदयपुर |
+| Jauhar vs Saka | Women’s immolation vs warriors’ last charge | जौहर / साका |
+| Hamir vs Kumbha | 14th c. restorer vs 15th c. Vijay Stambha builder | हमीर / कुम्भा |
+| Rana Hammir vs Hamir Deva | Mewar restorer (1326) vs Ranthambore Chauhan (died 1301) | मेवाड़ हमीर / रणथम्भौर हमीर |
+| Vijay Stambha vs Kirti Stambha | Kumbha’s victory tower vs older Jain tower, both at Chittor | विजय स्तम्भ / कीर्ति स्तम्भ |
+| Alauddin’s Chittor vs Akbar’s | 1303 vs 1567–68 | अलाउद्दीन / अकबर |
 
 ---
 

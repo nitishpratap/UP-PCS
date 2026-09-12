@@ -21,22 +21,6 @@ Acid Rain | Causes | Effects | Prevention
 
 ---
 
-## Confused Pairs
-
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **Acid rain** | Deposition with pH below 5.6 from SO₂/NOx acids | अम्ल वर्षा |
-| **Normal rain** | Unpolluted rain at pH ~5.6 from dissolved CO₂ | सामान्य वर्षा |
-| **Wet deposition** | Acids fall dissolved in precipitation | ओसा निक्षेप |
-| **Dry deposition** | Acidic gases/particles settle without rain | शुष्क निक्षेप |
-| **SO₂** | Primary pollutant from coal/oil → H₂SO₄ | सल्फर डाइऑक्साइड |
-| **NOx** | Primary pollutant from combustion → HNO₃ | नाइट्रोजन ऑक्साइड |
-| **FGD** | Flue Gas Desulphurisation — removes SO₂ from chimneys | फ्लू गैस डिसल्फुराइजेशन |
-| **Gothenburg Protocol** | 1999 CLRTAP treaty to cut transboundary acidifying emissions | गोथेनबर्ग प्रोटोकॉल |
-| **Taj Trapezium Zone** | ~10,400 km² pollution-control belt around Taj Mahal | ताज ट्रapezium क्षेत्र |
-
----
-
 ## Consolidated — 24 Must-Score Facts
 
 1. **Acid rain** means wet or dry acidic deposition with pH below **5.6**.
@@ -63,6 +47,22 @@ Acid Rain | Causes | Effects | Prevention
 22. FGD is flue-gas desulphurisation at power-plant chimneys — a mitigation hardware fact, not a treaty name.
 23. Calling CO₂ the chief severe acid-rain driver is wrong; SO₂ and NOx are the pair.
 24. Montreal Protocol does **not** control acid rain. Keep ozone chemistry out of acid-rain treaty options.
+
+---
+
+## Confused Pairs
+
+| Term | One-line difference | Hindi |
+|------|---------------------|-------|
+| **Acid rain** | Deposition with pH below 5.6 from SO₂/NOx acids | अम्ल वर्षा |
+| **Normal rain** | Unpolluted rain at pH ~5.6 from dissolved CO₂ | सामान्य वर्षा |
+| **Wet deposition** | Acids fall dissolved in precipitation | ओसा निक्षेप |
+| **Dry deposition** | Acidic gases/particles settle without rain | शुष्क निक्षेप |
+| **SO₂** | Primary pollutant from coal/oil → H₂SO₄ | सल्फर डाइऑक्साइड |
+| **NOx** | Primary pollutant from combustion → HNO₃ | नाइट्रोजन ऑक्साइड |
+| **FGD** | Flue Gas Desulphurisation — removes SO₂ from chimneys | फ्लू गैस डिसल्फुराइजेशन |
+| **Gothenburg Protocol** | 1999 CLRTAP treaty to cut transboundary acidifying emissions | गोथेनबर्ग प्रोटोकॉल |
+| **Taj Trapezium Zone** | ~10,400 km² pollution-control belt around Taj Mahal | ताज ट्रapezium क्षेत्र |
 
 ---
 

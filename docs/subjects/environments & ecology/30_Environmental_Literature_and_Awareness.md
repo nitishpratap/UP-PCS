@@ -21,26 +21,6 @@ Environmental Literature | Environmental Education | Environmental Awareness | E
 
 ---
 
-## Confused Pairs
-
-| Term | One-line difference |
-|------|---------------------|
-| **Environmental Literature** | Books/reports shaping env thought |
-| **Environmental Education** | Formal learning — curriculum, ECO Clubs |
-| **Environmental Awareness** | Public consciousness + behaviour change |
-| **Environmental Communication** | Transmitting science/policy to citizens |
-| **Silent Spring** | Carson 1962 — pesticide harm |
-| **Tragedy of the Commons** | Hardin 1968 — shared resource overuse |
-| **Limits to Growth** | Club of Rome 1972 |
-| **Brundtland Report** | *Our Common Future* 1987 — SD definition |
-| **NGC / ECO Club** | MoEFCC school eco-action programme |
-| **LiFE** | 2022 lifestyle awareness mission |
-| **Eco-mark** | BIS 1991 — environment-friendly products |
-| **Greenwashing** | False eco-friendly marketing claims |
-| **Greendex** | Sustainable consumer-behaviour score |
-
----
-
 ## Consolidated — 22 Must-Score Facts
 
 1. Four pillars on this sheet: **literature** (landmark books/reports), **education** (formal EE), **awareness** (public campaigns), and **communication** (science to citizens).
@@ -65,6 +45,26 @@ Environmental Literature | Environmental Education | Environmental Awareness | E
 20. Silent Spring’s year is **1962**; Limits to Growth is **1972**; Brundtland is **1987** — three different decades.
 21. Hardin’s commons logic is shared-resource overuse; it is not Carson’s pesticide narrative.
 22. Match pillar → flagship before matching author names: Carson/Hardin/Brundtland for literature; Tbilisi/ECO Club for education; 51A(g)/LiFE for awareness; Down To Earth for communication.
+
+---
+
+## Confused Pairs
+
+| Term | One-line difference |
+|------|---------------------|
+| **Environmental Literature** | Books/reports shaping env thought |
+| **Environmental Education** | Formal learning — curriculum, ECO Clubs |
+| **Environmental Awareness** | Public consciousness + behaviour change |
+| **Environmental Communication** | Transmitting science/policy to citizens |
+| **Silent Spring** | Carson 1962 — pesticide harm |
+| **Tragedy of the Commons** | Hardin 1968 — shared resource overuse |
+| **Limits to Growth** | Club of Rome 1972 |
+| **Brundtland Report** | *Our Common Future* 1987 — SD definition |
+| **NGC / ECO Club** | MoEFCC school eco-action programme |
+| **LiFE** | 2022 lifestyle awareness mission |
+| **Eco-mark** | BIS 1991 — environment-friendly products |
+| **Greenwashing** | False eco-friendly marketing claims |
+| **Greendex** | Sustainable consumer-behaviour score |
 
 ---
 

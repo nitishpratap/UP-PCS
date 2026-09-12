@@ -32,36 +32,6 @@ Masai habitat remains **East Africa**. Do not “update” it to West Africa.
 ---
 
 
-## Confused Pairs
-
-| Pair | Correct | Trap | Hindi |
-|------|------------|------|-------|
-| Khasi | **Meghalaya** | Arunachal | मेघालय |
-| Rengma | **Nagaland** | Andaman | नागालैंड |
-| Kuki | **North-East** | UP | पूर्वोत्तर |
-| Yanadi | **Andhra Pradesh** | Rajasthan | आंध्र |
-| Toda / Paliyan | **Tamil Nadu** | Nagaland | तमिलनाडु |
-| Birhor | **Jharkhand** | Islands / TN | झारखंड |
-| Keria/Kharia | **Odisha** (also JH) | Random west | ओडिशा |
-| Masai | **East Africa** | West Africa | पूर्वी अफ्रीका |
-| Khirghiz | **Central Asia** | Sudan | मध्य एशिया |
-| Koryak | **NE Siberia** | Alaska | साइबेरिया |
-| Semang | **Malaysia** | Indonesia | सेमांग |
-| Maasai | **East Africa** | West Africa / Zambia | मसाई |
-| Bantu | E / C / S Africa | Sahara | बांटू |
-| Transhumance | Seasonal herd move | Permanent emigration | ट्रांसह्यूमेंस |
-| Tharu | **Terai** | Sonbhadra only | तराई |
-| Agariya | Iron smelting | Farming-only tag | लोहा गलाना |
-| Saharya | **Lalitpur** | Terai | ललितपुर |
-| NDRI | **Karnal** | Lucknow / Izatnagar | करनाल |
-| IVRI | **Izatnagar (Bareilly)** | Karnal | इज्जतनगर |
-| FRI | **Dehradun** | Delhi / Lucknow | देहरादून |
-| NDRI vs NDDB | Karnal **lab** vs Anand **co-op board** | Same body | एनडीआरआई ≠ एनडीडीबी |
-| PVTG count | **75** groups | 95 | 75 पीवीटीजी |
-| Fifth vs Sixth Schedule | Fifth = many Scheduled Areas; Sixth = **four** NE states’ councils | Swap | पाँचवीं ≠ छठी |
-
----
-
 ## Consolidated — 24 Must-Score Facts
 
 1. Scheduled Tribe lists are **state-wise** under **Article 342**. Parliament can amend the lists by law. A community listed in one State need not be listed in another.
@@ -90,6 +60,36 @@ Masai habitat remains **East Africa**. Do not “update” it to West Africa.
 22. The **Forest Rights Act** is **2006**. **Adi Karmayogi** (June 2025) is a **Ministry of Tribal Affairs** programme.
 23. Main tribal belts are the North-Eastern hills, the central Indian plateau, western Bhil country, and the Andaman–Nicobar isolates.
 24. Krishi Vigyan Kendras (KVKs) are the frontline **extension** arms under the ICAR system.
+
+---
+
+## Confused Pairs
+
+| Pair | Correct | Trap | Hindi |
+|------|------------|------|-------|
+| Khasi | **Meghalaya** | Arunachal | मेघालय |
+| Rengma | **Nagaland** | Andaman | नागालैंड |
+| Kuki | **North-East** | UP | पूर्वोत्तर |
+| Yanadi | **Andhra Pradesh** | Rajasthan | आंध्र |
+| Toda / Paliyan | **Tamil Nadu** | Nagaland | तमिलनाडु |
+| Birhor | **Jharkhand** | Islands / TN | झारखंड |
+| Keria/Kharia | **Odisha** (also JH) | Random west | ओडिशा |
+| Masai | **East Africa** | West Africa | पूर्वी अफ्रीका |
+| Khirghiz | **Central Asia** | Sudan | मध्य एशिया |
+| Koryak | **NE Siberia** | Alaska | साइबेरिया |
+| Semang | **Malaysia** | Indonesia | सेमांग |
+| Maasai | **East Africa** | West Africa / Zambia | मसाई |
+| Bantu | E / C / S Africa | Sahara | बांटू |
+| Transhumance | Seasonal herd move | Permanent emigration | ट्रांसह्यूमेंस |
+| Tharu | **Terai** | Sonbhadra only | तराई |
+| Agariya | Iron smelting | Farming-only tag | लोहा गलाना |
+| Saharya | **Lalitpur** | Terai | ललितपुर |
+| NDRI | **Karnal** | Lucknow / Izatnagar | करनाल |
+| IVRI | **Izatnagar (Bareilly)** | Karnal | इज्जतनगर |
+| FRI | **Dehradun** | Delhi / Lucknow | देहरादून |
+| NDRI vs NDDB | Karnal **lab** vs Anand **co-op board** | Same body | एनडीआरआई ≠ एनडीडीबी |
+| PVTG count | **75** groups | 95 | 75 पीवीटीजी |
+| Fifth vs Sixth Schedule | Fifth = many Scheduled Areas; Sixth = **four** NE states’ councils | Swap | पाँचवीं ≠ छठी |
 
 ---
 

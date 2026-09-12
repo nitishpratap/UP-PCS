@@ -21,21 +21,6 @@ National Parks of Uttar Pradesh | Wildlife Sanctuaries of Uttar Pradesh | Nation
 
 ---
 
-## Confused Pairs
-
-| Term | One-line fact |
-|------|---------------|
-| **National Park** | WPA Sec 35 — strictest; boundary change needs **State Legislature** |
-| **Wildlife Sanctuary** | WPA Sec **18** — more flexible than NP |
-| **Marine NP** | NP on marine/coral/mangrove coast |
-| **Coastal NP** | On/near coast (may or may not be fully marine) |
-| **Dudhwa** | Only UP NP — Terai |
-| **Valmiki / Sultanpur** | Bihar / Haryana — NOT UP |
-| **Yellowstone / Corbett** | World first 1872 / India first 1936 |
-| **Gulf of Kutch** | India’s first Marine NP |
-
----
-
 ## Consolidated — 32 Must-Score Facts
 
 1. Uttar Pradesh has **one National Park — Dudhwa** — in **Lakhimpur Kheri** on the Indo-Nepal Terai.
@@ -70,6 +55,21 @@ National Parks of Uttar Pradesh | Wildlife Sanctuaries of Uttar Pradesh | Nation
 30. **Sathyamangalam TR** links Eastern and Western Ghats. **Nagarjunsagar–Srisailam** holds the largest critical tiger habitat among common options.
 31. Bird/butterfly facts: first butterfly park = **Bannerghatta (Karnataka)**; first State butterfly = **Blue Mormon (Maharashtra)**; Great Indian Hornbill = **Western Ghats**.
 32. World-first versus India-first is a fixed pair: **Yellowstone 1872** versus **Corbett 1936**.
+
+---
+
+## Confused Pairs
+
+| Term | One-line fact |
+|------|---------------|
+| **National Park** | WPA Sec 35 — strictest; boundary change needs **State Legislature** |
+| **Wildlife Sanctuary** | WPA Sec **18** — more flexible than NP |
+| **Marine NP** | NP on marine/coral/mangrove coast |
+| **Coastal NP** | On/near coast (may or may not be fully marine) |
+| **Dudhwa** | Only UP NP — Terai |
+| **Valmiki / Sultanpur** | Bihar / Haryana — NOT UP |
+| **Yellowstone / Corbett** | World first 1872 / India first 1936 |
+| **Gulf of Kutch** | India’s first Marine NP |
 
 ---
 

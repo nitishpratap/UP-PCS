@@ -22,18 +22,6 @@
 
 ---
 
-## Confused Pairs
-
-| Pair | Key |
-|------|-----|
-| Kuninda vs Katyuri | Kuninda = early historic **coins**; Katyuri = early medieval **Kartikeyapur** kingdom |
-| Yaudheya vs Yadava | Yaudheya = ancient **gana**; not medieval Yadava of Devagiri |
-| Kalsi Ashokan edict vs Kuninda Kalkut | **Kalsi** is famous for **Ashokan** edicts; coaching also uses Kalkut/Kalsi as a Kuninda seat name — keep the **edict** and **Kuninda capital** facts separate in the stem |
-| Kuninda “Amoghabhuti” coins | Named coin series of Kuninda rulers; do not invent a Mauryan title here |
-| Brahmapura vs Kartikeyapur | Hiuen Tsang’s **regional** name vs later Katyuri **capital** |
-
----
-
 ## Must-Score Facts
 
 1. Kuninda = earliest strong UK foothill coin polity.
@@ -43,6 +31,18 @@
 5. Yaudheya = gana; Skanda imagery on coins.
 6. Hill Yaudheya coins = contact, not proof of one hill capital.
 7. Kuninda ≠ Katyuri; Brahmapura ≠ Kartikeyapur.
+
+---
+
+## Confused Pairs
+
+| Pair | Key |
+|------|-----|
+| Kuninda vs Katyuri | Kuninda = early historic **coins**; Katyuri = early medieval **Kartikeyapur** kingdom |
+| Yaudheya vs Yadava | Yaudheya = ancient **gana**; not medieval Yadava of Devagiri |
+| Kalsi Ashokan edict vs Kuninda Kalkut | **Kalsi** is famous for **Ashokan** edicts; coaching also uses Kalkut/Kalsi as a Kuninda seat name — keep the **edict** and **Kuninda capital** facts separate in the stem |
+| Kuninda “Amoghabhuti” coins | Named coin series of Kuninda rulers; do not invent a Mauryan title here |
+| Brahmapura vs Kartikeyapur | Hiuen Tsang’s **regional** name vs later Katyuri **capital** |
 
 ---
 

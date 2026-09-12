@@ -33,22 +33,6 @@
 ---
 
 
-## Confused Pairs
-
-| A | B | Correct | Hindi |
-|--------|--------|-----------------|-------|
-| **352** | **356** | National / security | State constitutional machinery |
-| **352** | **360** | War / aggression / rebellion | Financial stability / credit |
-| **358** | **359** | Art. **19** auto (war/external only) | Other FRs by **order**; not **20 & 21** |
-| **Special majority (352)** | **Simple (356/360)** | Total membership + 2/3 P&V, both Houses | Ordinary majority, both Houses |
-| **1 month (352)** | **2 months (356/360)** | Time to get parliamentary approval | |
-| **Martial law** | **National Emergency** | Military, local, Art. **34** | Constitutional, civilian, **352** |
-| **355** | **356** | Union **duty** to protect States | The **proclamation** that takes over |
-| **National Emergency** | **State Emergency** | Textbook name for **352** | Textbook name for **356** (the Constitution never uses that phrase) |
-| **External 352** | **Internal 352** | War / external aggression (1962, 1971) | Armed rebellion (1975 was still “internal disturbance”) |
-
----
-
 ## Consolidated — 26 Must-Score Facts
 
 1. Emergency Provisions sit in **Part XVIII** (**Articles 352–360**). There are three proclamations: **National Emergency (352)**, **President’s Rule (356)**, and **Financial Emergency (360)**.
@@ -77,6 +61,22 @@
 24. The Emergency FR map is simple if memorised as a triangle: **358** auto-hits **19** (war/external only); **359** can suspend enforcement of other named rights by order; **20 and 21** stay awake.
 25. Cabinet written advice, armed rebellion wording, unsuspendable 20/21, and emergency nexus are the four **44th Amendment** knives every prelims answer should recall together.
 26. Punchhi later suggested **localising** 356 rather than dismissing a whole State government for a local breakdown — useful for mains, while *Bommai* remains the judicial fact for prelims.
+
+---
+
+## Confused Pairs
+
+| A | B | Correct | Hindi |
+|--------|--------|-----------------|-------|
+| **352** | **356** | National / security | State constitutional machinery |
+| **352** | **360** | War / aggression / rebellion | Financial stability / credit |
+| **358** | **359** | Art. **19** auto (war/external only) | Other FRs by **order**; not **20 & 21** |
+| **Special majority (352)** | **Simple (356/360)** | Total membership + 2/3 P&V, both Houses | Ordinary majority, both Houses |
+| **1 month (352)** | **2 months (356/360)** | Time to get parliamentary approval | |
+| **Martial law** | **National Emergency** | Military, local, Art. **34** | Constitutional, civilian, **352** |
+| **355** | **356** | Union **duty** to protect States | The **proclamation** that takes over |
+| **National Emergency** | **State Emergency** | Textbook name for **352** | Textbook name for **356** (the Constitution never uses that phrase) |
+| **External 352** | **Internal 352** | War / external aggression (1962, 1971) | Armed rebellion (1975 was still “internal disturbance”) |
 
 ---
 

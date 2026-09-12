@@ -15,28 +15,6 @@ Morley–Minto Reforms (context) | Lucknow Pact | Home Rule Movement | National 
 
 ---
 
-## Confused Pairs
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Morley–Minto 1909 | Lucknow Pact 1916 | British Act creates Muslim separate electorates vs Congress **accepts** them in a bargain | मार्ले–मिंटो / लखनऊ |
-| Home Rule leagues | One merged league 1916 | Two parallel leagues that cooperated vs permanent single body | दो लीग / विलय |
-| Olcott / Blavatsky | Annie Besant | Founded Theosophical Society 1875 vs later leader + Home Rule | अल्कॉट / बेसेंट |
-| Tilak League | Besant League | Apr 1916 Poona, limited provinces vs Sep 1916 Madras, rest of India + Bombay city | तिलक लीग / बेसेंट लीग |
-| Home Rule | Gandhian Swaraj | Wartime constitutional self-govt vs later mass satyagraha | होम रूल / स्वराज |
-| Besant | Blavatsky | Later Theosophy + Home Rule vs co-founder of Theosophical Society 1875 | बेसेंट / ब्लावत्स्की |
-| NCE 1906 | BHU 1916 | Swadeshi national-education body vs Banaras Hindu University | राष्ट्रीय शिक्षा परिषद / बीएचयू |
-| AITUC 1920 | INTUC 1947 | CPI stream vs Congress labour wing | एटक / इंटक |
-| CSP | CPI | Socialists **inside Congress** (1934) vs separate communist party | सीएसपी / सीपीआई |
-| WPP | CSP | Late-1920s left inside Congress vs 1934 socialist party inside Congress | डब्ल्यूपीपी / सीएसपी |
-| Justice Party | Congress | Madras non-Brahmin regional vs all-India nationalist | जस्टिस पार्टी / कांग्रेस |
-| Baptista | N.M. Joshi | Tilak League President vs ILO 1919 labour rep | बैपटिस्टा / जोशी |
-| Malaviya | Besant (BHU) | Chief BHU organiser vs Central Hindu College nucleus | मालवीय / बेसेंट |
-| Lucknow Pact 1916 | Montagu Declaration 1917 | Congress–League electoral deal vs British statement of policy goal | लखनऊ पैक्ट / मॉण्टेग्यू घोषणा |
-| Montagu Declaration | August Offer 1940 | 1917 promise of responsible government vs 1940 wartime offer to Congress/League | मॉण्टेग्यू / अगस्त प्रस्ताव |
-
----
-
 ## Consolidated — 34 Must-Score Facts
 
 1. **Tilak’s Indian Home Rule League** was founded in **April 1916** at **Poona**. **Joseph Baptista** was President; **N.C. Kelkar** was Secretary.
@@ -73,6 +51,43 @@ Morley–Minto Reforms (context) | Lucknow Pact | Home Rule Movement | National 
 32. **Jinnah** is remembered as **Ambassador of Hindu–Muslim Unity** for the Lucknow Pact season; Tilak and Besant pushed Extremist reunion.
 33. Home Rule leagues **did not permanently merge** into one body in 1916–18; Gandhi renamed the All-India league **Swarajya Sabha** in **1920**.
 34. **Annie Besant** was a **Fabian** as well as a Theosophist–Home Rule leader; she did **not** found the Theosophical Society.
+
+---
+
+## Confused Pairs
+
+| A | B | Difference | Hindi |
+|---|----|------------|-------|
+| Morley–Minto 1909 | Lucknow Pact 1916 | British Act creates Muslim separate electorates vs Congress **accepts** them in a bargain | मार्ले–मिंटो / लखनऊ |
+| Home Rule leagues | One merged league 1916 | Two parallel leagues that cooperated vs permanent single body | दो लीग / विलय |
+| Olcott / Blavatsky | Annie Besant | Founded Theosophical Society 1875 vs later leader + Home Rule | अल्कॉट / बेसेंट |
+| Tilak League | Besant League | Apr 1916 Poona, limited provinces vs Sep 1916 Madras, rest of India + Bombay city | तिलक लीग / बेसेंट लीग |
+| Home Rule | Gandhian Swaraj | Wartime constitutional self-govt vs later mass satyagraha | होम रूल / स्वराज |
+| Besant | Blavatsky | Later Theosophy + Home Rule vs co-founder of Theosophical Society 1875 | बेसेंट / ब्लावत्स्की |
+| NCE 1906 | BHU 1916 | Swadeshi national-education body vs Banaras Hindu University | राष्ट्रीय शिक्षा परिषद / बीएचयू |
+| AITUC 1920 | INTUC 1947 | CPI stream vs Congress labour wing | एटक / इंटक |
+| CSP | CPI | Socialists **inside Congress** (1934) vs separate communist party | सीएसपी / सीपीआई |
+| WPP | CSP | Late-1920s left inside Congress vs 1934 socialist party inside Congress | डब्ल्यूपीपी / सीएसपी |
+| Justice Party | Congress | Madras non-Brahmin regional vs all-India nationalist | जस्टिस पार्टी / कांग्रेस |
+| Baptista | N.M. Joshi | Tilak League President vs ILO 1919 labour rep | बैपटिस्टा / जोशी |
+| Malaviya | Besant (BHU) | Chief BHU organiser vs Central Hindu College nucleus | मालवीय / बेसेंट |
+| Lucknow Pact 1916 | Montagu Declaration 1917 | Congress–League electoral deal vs British statement of policy goal | लखनऊ पैक्ट / मॉण्टेग्यू घोषणा |
+| Montagu Declaration | August Offer 1940 | 1917 promise of responsible government vs 1940 wartime offer to Congress/League | मॉण्टेग्यू / अगस्त प्रस्ताव |
+
+---
+
+## Must-Score Facts
+
+- Two Home Rule Leagues, not one: **Tilak — April 1916, Poona, Baptista President**; **Besant — September 1916, Madras/Adyar**, and Bombay city sits in **Besant's** zone, not Tilak's.
+- The **Lucknow Pact (December 1916)** is Congress and the League reuniting with a seat-sharing and weightage deal — never place it at the 1911 Delhi Durbar.
+- The **Montagu Declaration (20 August 1917)** is a British statement of intent promising responsible government; the actual reform is the **Government of India Act, 1919**, two years later.
+- Besant was interned in **June 1917** and became Congress's **first woman President in December 1917** at Calcutta — she never led Non-Cooperation and later opposed it.
+- Tilak **never** presided over a Congress session; his Home Rule role is President of the **1916 Poona** league only.
+- BHU is **Malaviya's 1916 Varanasi** project; Besant's **1898 Central Hindu College** is the folded-in nucleus, and Hardinge only laid the foundation stone.
+- National education has **four separate waves and years**: NCE **1906**, BHU **1916**, the Vidyapiths and Jamia **1920–21**, and Wardha **1937** — never merge them.
+- AITUC (**1920, Lajpat Rai**) is the political birth of organised labour; the party-affiliation fact is **BMS–BJP, INTUC–Congress, UTUC–CPI(M), AITUC–CPI**.
+- CSP was formed at Patna/Bombay in **1934**, never January 1934, and **Nehru sympathised but never formally joined**.
+- The Workers and Peasants Party's aim (work inside Congress) is true from the mid-1920s, but its **All-India form is December 1928**, not 1927.
 
 ---
 
@@ -499,21 +514,6 @@ D. Only 2
 | Acharya Narendra Dev | CSP ideologue, UP |
 | Home Rule in UP towns | Besant league branches; not Tilak’s Poona HQ |
 | Kashi Vidyapith | Varanasi, **1921**, Non-Cooperation national university |
-
----
-
-## Must-Score Facts
-
-- Two Home Rule Leagues, not one: **Tilak — April 1916, Poona, Baptista President**; **Besant — September 1916, Madras/Adyar**, and Bombay city sits in **Besant's** zone, not Tilak's.
-- The **Lucknow Pact (December 1916)** is Congress and the League reuniting with a seat-sharing and weightage deal — never place it at the 1911 Delhi Durbar.
-- The **Montagu Declaration (20 August 1917)** is a British statement of intent promising responsible government; the actual reform is the **Government of India Act, 1919**, two years later.
-- Besant was interned in **June 1917** and became Congress's **first woman President in December 1917** at Calcutta — she never led Non-Cooperation and later opposed it.
-- Tilak **never** presided over a Congress session; his Home Rule role is President of the **1916 Poona** league only.
-- BHU is **Malaviya's 1916 Varanasi** project; Besant's **1898 Central Hindu College** is the folded-in nucleus, and Hardinge only laid the foundation stone.
-- National education has **four separate waves and years**: NCE **1906**, BHU **1916**, the Vidyapiths and Jamia **1920–21**, and Wardha **1937** — never merge them.
-- AITUC (**1920, Lajpat Rai**) is the political birth of organised labour; the party-affiliation fact is **BMS–BJP, INTUC–Congress, UTUC–CPI(M), AITUC–CPI**.
-- CSP was formed at Patna/Bombay in **1934**, never January 1934, and **Nehru sympathised but never formally joined**.
-- The Workers and Peasants Party's aim (work inside Congress) is true from the mid-1920s, but its **All-India form is December 1928**, not 1927.
 
 ---
 

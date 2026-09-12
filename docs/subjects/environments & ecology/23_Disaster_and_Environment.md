@@ -21,24 +21,6 @@ Floods | Drought | Landslides | Cyclones | Heat Waves | Forest Fires
 
 ---
 
-## Confused Pairs
-
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **Flood** | Water overflow onto normally dry land | बाढ़ |
-| **Drought** | Prolonged abnormally low water availability | सूखा |
-| **Landslide** | Downhill mass movement of rock/soil under gravity | भू-स्खलन |
-| **Cyclone** | Rotating tropical storm over warm oceans | चक्रवात |
-| **Heat wave** | Prolonged abnormally high temperatures (IMD criteria) | लू |
-| **Forest fire** | Uncontrolled fire through forest vegetation | वन आग |
-| **Storm surge** | Sea-level rise driven by cyclone winds | तूफानी ज्वार |
-| **Cloudburst** | Extreme localized rainfall in short time | बादल फटना |
-| **Meteorological drought** | Rainfall deficiency below normal | मौसमी सूखा |
-| **Agricultural drought** | Soil moisture insufficient for crops | कृषि सूखा |
-| **NDMA** | Apex disaster policy body — PM is Chair | NDMA |
-
----
-
 ## Consolidated — 24 Must-Score Facts
 
 1. Environmental degradation raises disaster risk (deforestation worsens floods and landslides). Disasters also damage ecosystems through erosion, pollution, and forest loss.
@@ -65,6 +47,24 @@ Floods | Drought | Landslides | Cyclones | Heat Waves | Forest Fires
 22. Cyclone naming and Bay of Bengal dominance are coastal facts; UP’s disaster map is flood–drought–heat first.
 23. NDRF is the specialised response force; NDMA is the apex policy body chaired by the PM.
 24. Bundelkhand drought and Terai/Ganga floods are the two UP geography disaster anchors on this sheet.
+
+---
+
+## Confused Pairs
+
+| Term | One-line difference | Hindi |
+|------|---------------------|-------|
+| **Flood** | Water overflow onto normally dry land | बाढ़ |
+| **Drought** | Prolonged abnormally low water availability | सूखा |
+| **Landslide** | Downhill mass movement of rock/soil under gravity | भू-स्खलन |
+| **Cyclone** | Rotating tropical storm over warm oceans | चक्रवात |
+| **Heat wave** | Prolonged abnormally high temperatures (IMD criteria) | लू |
+| **Forest fire** | Uncontrolled fire through forest vegetation | वन आग |
+| **Storm surge** | Sea-level rise driven by cyclone winds | तूफानी ज्वार |
+| **Cloudburst** | Extreme localized rainfall in short time | बादल फटना |
+| **Meteorological drought** | Rainfall deficiency below normal | मौसमी सूखा |
+| **Agricultural drought** | Soil moisture insufficient for crops | कृषि सूखा |
+| **NDMA** | Apex disaster policy body — PM is Chair | NDMA |
 
 ---
 

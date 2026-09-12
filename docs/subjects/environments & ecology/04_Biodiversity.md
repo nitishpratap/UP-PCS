@@ -21,23 +21,6 @@ Biodiversity | Levels of Biodiversity | Genetic Diversity | Species Diversity | 
 
 ---
 
-## Confused Pairs
-
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **Genetic diversity** | Variation of genes **within** a species | आनुवंशिक विविधता |
-| **Species diversity** | Variety of **different species** in an area | प्रजाति विविधता |
-| **Ecosystem diversity** | Variety of **habitats/ecosystems** | पारिस्थितिक तंत्र विविधता |
-| **Endemic** | Found **only** in one geographic area | स्थानिक |
-| **Threatened** | IUCN **VU + EN + CR** combined | संकटग्रस्त |
-| **Endangered** | IUCN **EN** category only | लुप्तप्राय |
-| **Invasive alien** | Non-native species causing harm | आक्रामक विदेशी |
-| **In-situ** | Conservation **in natural habitat** | स्थानिक संरक्षण |
-| **Ex-situ** | Conservation **outside** natural habitat | पारजी संरक्षण |
-| **PBR** | People's Biodiversity Register at local level | जन जैव विविधता रजिस्टर |
-
----
-
 ## Consolidated — 36 Must-Score Facts
 
 1. Biodiversity is variability among living organisms at **genetic, species, and ecosystem** levels — the range of plants and animals in an area.
@@ -76,6 +59,23 @@ Biodiversity | Levels of Biodiversity | Genetic Diversity | Species Diversity | 
 34. Maximum butterflies in tropics because they **cannot tolerate low temperatures**.
 35. **Gulf of Mannar Biosphere Reserve** is often cited as India’s richest marine biodiversity region (21 islands mosaic).
 36. Afforestation does **not** cause biodiversity loss; road expansion, urbanisation, and agriculture expansion do (UKPCS-style stems).
+
+---
+
+## Confused Pairs
+
+| Term | One-line difference | Hindi |
+|------|---------------------|-------|
+| **Genetic diversity** | Variation of genes **within** a species | आनुवंशिक विविधता |
+| **Species diversity** | Variety of **different species** in an area | प्रजाति विविधता |
+| **Ecosystem diversity** | Variety of **habitats/ecosystems** | पारिस्थितिक तंत्र विविधता |
+| **Endemic** | Found **only** in one geographic area | स्थानिक |
+| **Threatened** | IUCN **VU + EN + CR** combined | संकटग्रस्त |
+| **Endangered** | IUCN **EN** category only | लुप्तप्राय |
+| **Invasive alien** | Non-native species causing harm | आक्रामक विदेशी |
+| **In-situ** | Conservation **in natural habitat** | स्थानिक संरक्षण |
+| **Ex-situ** | Conservation **outside** natural habitat | पारजी संरक्षण |
+| **PBR** | People's Biodiversity Register at local level | जन जैव विविधता रजिस्टर |
 
 ---
 

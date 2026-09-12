@@ -17,24 +17,6 @@ Taught so the method comes before the site: who runs the dig → how layers and 
 
 ---
 
-## Confused Pairs
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Site | Excavation | Place with remains vs the **dig** | स्थल / उत्खनन |
-| Stratigraphy | C-14 | Relative (layers) vs **calendar years** | स्तरिकी / कार्बन-14 |
-| Relative | Absolute | Older/younger vs **5730-year** clock | सापेक्ष / निरपेक्ष |
-| Marshall | Wheeler | Announces IVC **1924** vs grid dig **1946** | मार्शल / व्हीलर |
-| Sahni | Banerjee | **Harappa 1921** vs **Mohenjo-daro 1922** | साहनी / बनर्जी |
-| Wakankar | Sankalia | **Bhimbetka** vs Deccan prehistory | वाकणकर / संकलिया |
-| Alamgirpur | Rakhigarhi | Easternmost **UP** vs largest **Haryana** | आलमगीरपुर / राखीगढ़ी |
-| Mandi | Manda | **Bijnor UP** vs **J&K** Chenab | मंडी / मांडा |
-| Hulas | Lothal | Baghpat **UP** vs Gujarat **dock** | हुलास / लोथल |
-| Rock shelter | Cave | Bhimbetka overhang vs hollow | शैल आश्रय / गुफा |
-| ASI HQ | Lucknow | **New Delhi** vs UP state archaeology | दिल्ली / लखनऊ |
-
----
-
 ## Consolidated — 28 Must-Score Facts
 
 1. The **Archaeological Survey of India** was founded in **1861** under Viceroy Canning. The first Director-General was **Alexander Cunningham**.
@@ -65,6 +47,24 @@ Taught so the method comes before the site: who runs the dig → how layers and 
 26. Cunningham used Chinese pilgrim routes to hunt Buddhist sites such as Sarnath, Sanchi, and Bharhut — Survey foundation, not IVC discovery.
 27. Mature Harappan chronology near **about 2600–1900 BCE** rests on absolute clocks plus pottery and stratigraphy, not “guesswork from bricks.”
 28. Site is the place with remains; **excavation** is the dig. Papers ask present **state / UT** for site matching, not the excavator’s birthplace.
+
+---
+
+## Confused Pairs
+
+| A | B | Difference | Hindi |
+|---|----|------------|-------|
+| Site | Excavation | Place with remains vs the **dig** | स्थल / उत्खनन |
+| Stratigraphy | C-14 | Relative (layers) vs **calendar years** | स्तरिकी / कार्बन-14 |
+| Relative | Absolute | Older/younger vs **5730-year** clock | सापेक्ष / निरपेक्ष |
+| Marshall | Wheeler | Announces IVC **1924** vs grid dig **1946** | मार्शल / व्हीलर |
+| Sahni | Banerjee | **Harappa 1921** vs **Mohenjo-daro 1922** | साहनी / बनर्जी |
+| Wakankar | Sankalia | **Bhimbetka** vs Deccan prehistory | वाकणकर / संकलिया |
+| Alamgirpur | Rakhigarhi | Easternmost **UP** vs largest **Haryana** | आलमगीरपुर / राखीगढ़ी |
+| Mandi | Manda | **Bijnor UP** vs **J&K** Chenab | मंडी / मांडा |
+| Hulas | Lothal | Baghpat **UP** vs Gujarat **dock** | हुलास / लोथल |
+| Rock shelter | Cave | Bhimbetka overhang vs hollow | शैल आश्रय / गुफा |
+| ASI HQ | Lucknow | **New Delhi** vs UP state archaeology | दिल्ली / लखनऊ |
 
 ---
 

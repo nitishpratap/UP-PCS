@@ -28,23 +28,6 @@ Indological Studies | Gurukul System | Ancient Indian Education System | Nalanda
 ---
 
 
-## Confused Pairs
-
-| A | B | Correct | Hindi |
-|---|----|------|-------|
-| Indology | Orientalism | Textual/philological study of India vs colonial framing of the “East” | भारतविद्या / प्राच्यवाद |
-| Gurukul | Mahavihara | Residential guru-shishya vs large Buddhist monastic university | गुरुकुल / महाविहार |
-| Taxila | Nalanda | NW multi-teacher city (Pakistan) vs E mahavihara campus (Bihar) | तक्षशिला / नालंदा |
-| ASI ruins Nalanda | New Nalanda Univ. | ASI + UNESCO 2016 vs **MEA**, Act **2010**, Rajgir campus | ASI खंडहर / नालंदा विश्वविद्यालय |
-| ASI | IGNCA | Monument protection vs arts research/documentation | पुरातत्व सर्वेक्षण / कला केंद्र |
-| National Museum | Indian Museum | Delhi **1949** vs Kolkata **1814** (oldest) | राष्ट्रीय / भारतीय संग्रहालय |
-| SNA | Sahitya / Lalit Kala | Performing **1952** vs literature **1954** / visual **1954** | संगीत नाटक / साहित्य / ललित कला |
-| Sahitya Akademi | Jnanpith | Mo Culture academy vs Bharatiya Jnanpith trust **1965** | साहित्य अकादेमी / ज्ञानपीठ |
-| ICCR | Mo Culture bodies | **MEA** cultural diplomacy vs Culture ministry akademis | ICCR = विदेश मंत्रालय |
-| Protected monument | Site museum | AMASR-notified structure vs ASI museum at the excavation | संरक्षित स्मारक / स्थल संग्रहालय |
-
----
-
 ## Consolidated — 24 Must-Score Facts
 
 1. The **Asiatic Society of Bengal** was founded in **1784** at Calcutta by **Sir William Jones. Warren Hastings** declined the Presidentship in Jones’s favour.
@@ -71,6 +54,23 @@ Indological Studies | Gurukul System | Ancient Indian Education System | Nalanda
 22. **HRIDAY** (**2015**) includes **Varanasi. PRASAD** is a **Tourism** ministry scheme, not Culture.
 23. The **National Culture Fund** began in **1996. Ek Bharat Shreshtha Bharat** began in **2015**.
 24. The **National Mission for Manuscripts** (**2003**) was restructured as **Gyan Bharatam** for **2024–31**.
+
+---
+
+## Confused Pairs
+
+| A | B | Correct | Hindi |
+|---|----|------|-------|
+| Indology | Orientalism | Textual/philological study of India vs colonial framing of the “East” | भारतविद्या / प्राच्यवाद |
+| Gurukul | Mahavihara | Residential guru-shishya vs large Buddhist monastic university | गुरुकुल / महाविहार |
+| Taxila | Nalanda | NW multi-teacher city (Pakistan) vs E mahavihara campus (Bihar) | तक्षशिला / नालंदा |
+| ASI ruins Nalanda | New Nalanda Univ. | ASI + UNESCO 2016 vs **MEA**, Act **2010**, Rajgir campus | ASI खंडहर / नालंदा विश्वविद्यालय |
+| ASI | IGNCA | Monument protection vs arts research/documentation | पुरातत्व सर्वेक्षण / कला केंद्र |
+| National Museum | Indian Museum | Delhi **1949** vs Kolkata **1814** (oldest) | राष्ट्रीय / भारतीय संग्रहालय |
+| SNA | Sahitya / Lalit Kala | Performing **1952** vs literature **1954** / visual **1954** | संगीत नाटक / साहित्य / ललित कला |
+| Sahitya Akademi | Jnanpith | Mo Culture academy vs Bharatiya Jnanpith trust **1965** | साहित्य अकादेमी / ज्ञानपीठ |
+| ICCR | Mo Culture bodies | **MEA** cultural diplomacy vs Culture ministry akademis | ICCR = विदेश मंत्रालय |
+| Protected monument | Site museum | AMASR-notified structure vs ASI museum at the excavation | संरक्षित स्मारक / स्थल संग्रहालय |
 
 ---
 

@@ -21,23 +21,6 @@ Microplastics | Carbon Credit | Carbon Trading | Net Zero Emissions | Green Fina
 
 ---
 
-## Confused Pairs
-
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **Microplastics** | Plastic particles **<5 mm** | सूक्ष्म प्लास्टिक |
-| **Carbon credit** | Certificate for **1 tCO₂e** reduced/removed | कार्बन क्रेडिट |
-| **Carbon trading** | Market exchanging emission allowances/credits | कार्बन ट्रेडिंग |
-| **Carbon offset** | Using credits to compensate for own emissions | कार्बन ऑफसेट |
-| **Net zero** | Emissions balanced by equivalent removals | शुद्ध शून्य |
-| **Green finance** | Funding for environmentally sustainable projects | हरित वित्त |
-| **Blue economy** | Sustainable use of ocean/coastal resources | नीली अर्थव्यवस्था |
-| **Blue carbon** | Carbon stored in mangroves/seagrass | नीला कार्बन |
-| **LiFE Mission** | Pro-planet lifestyle behaviour change programme | LiFE |
-| **Green Credit** | India 2023 eco-action incentive — not same as carbon credit | ग्रीन क्रेडिट |
-
----
-
 ## Consolidated — 26 Must-Score Facts
 
 1. **Microplastics** are plastic fragments **smaller than 5 mm**. Primary sources include microbeads; secondary sources come from larger plastic breaking down. They are not “fast biodegradable.”
@@ -66,6 +49,23 @@ Microplastics | Carbon Credit | Carbon Trading | Net Zero Emissions | Green Fina
 24. Glasgow **2021** facts both India’s 2070 net-zero announcement track and the LiFE idea pitch.
 25. Offset means using credits to compensate one’s own emissions — related to, but not identical with, “trading” as a market design.
 26. Keep MISHTI dated **2023**, not 2019, when mangrove restoration is asked.
+
+---
+
+## Confused Pairs
+
+| Term | One-line difference | Hindi |
+|------|---------------------|-------|
+| **Microplastics** | Plastic particles **<5 mm** | सूक्ष्म प्लास्टिक |
+| **Carbon credit** | Certificate for **1 tCO₂e** reduced/removed | कार्बन क्रेडिट |
+| **Carbon trading** | Market exchanging emission allowances/credits | कार्बन ट्रेडिंग |
+| **Carbon offset** | Using credits to compensate for own emissions | कार्बन ऑफसेट |
+| **Net zero** | Emissions balanced by equivalent removals | शुद्ध शून्य |
+| **Green finance** | Funding for environmentally sustainable projects | हरित वित्त |
+| **Blue economy** | Sustainable use of ocean/coastal resources | नीली अर्थव्यवस्था |
+| **Blue carbon** | Carbon stored in mangroves/seagrass | नीला कार्बन |
+| **LiFE Mission** | Pro-planet lifestyle behaviour change programme | LiFE |
+| **Green Credit** | India 2023 eco-action incentive — not same as carbon credit | ग्रीन क्रेडिट |
 
 ---
 

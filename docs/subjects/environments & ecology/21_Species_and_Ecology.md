@@ -21,23 +21,6 @@ Red Data Book | IUCN Red List Categories | Wetlands | Mangroves | Coral Reefs | 
 
 ---
 
-## Confused Pairs
-
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **Red Data Book** | **National** endangered-species list — BSI/ZSI | रेड डेटा बुक |
-| **IUCN Red List** | **Global** extinction-risk categories | IUCN रेड लिस्ट |
-| **Threatened species** | **VU + EN + CR** — not Endangered alone | संकटग्रस्त |
-| **Wetland** | Water-saturated land — marsh, swamp, floodplain | आर्द्रभूmi |
-| **Mangrove** | Salt-tolerant coastal forest with breathing roots | मैंग्रोव |
-| **Coral bleaching** | Corals expel zooxanthellae under heat stress | प्रवाल विरंजन |
-| **Grassland** | Grass-dominated ecosystem with few trees | घासlands |
-| **Neritic zone** | Shallow continental shelf — high marine productivity | neritic |
-| **Pneumatophore** | Mangrove aerial root for gas exchange | वात-मूल |
-| **Zooxanthellae** | Symbiotic algae inside coral polyps | zooxanthellae |
-
----
-
 ## Consolidated — 26 Must-Score Facts
 
 1. India’s **Red Data Book** is a **national** catalogue — **BSI** for plants, **ZSI** for animals (both Kolkata). The **IUCN Red List** is the **global** extinction-risk system from IUCN (Gland).
@@ -66,6 +49,23 @@ Red Data Book | IUCN Red List Categories | Wetlands | Mangroves | Coral Reefs | 
 24. Threatened = three IUCN tiers combined. Memorise VU, EN, CR as the band.
 25. CMS covers migratory species; Ramsar covers wetlands; do not swap those treaty jobs when ecosystems are asked.
 26. Dudhwa = Terai grassland–forest and barasingha; Sundarbans = mangrove; Lakshadweep/Mannar = coral — keep the flagship map clean.
+
+---
+
+## Confused Pairs
+
+| Term | One-line difference | Hindi |
+|------|---------------------|-------|
+| **Red Data Book** | **National** endangered-species list — BSI/ZSI | रेड डेटा बुक |
+| **IUCN Red List** | **Global** extinction-risk categories | IUCN रेड लिस्ट |
+| **Threatened species** | **VU + EN + CR** — not Endangered alone | संकटग्रस्त |
+| **Wetland** | Water-saturated land — marsh, swamp, floodplain | आर्द्रभूmi |
+| **Mangrove** | Salt-tolerant coastal forest with breathing roots | मैंग्रोव |
+| **Coral bleaching** | Corals expel zooxanthellae under heat stress | प्रवाल विरंजन |
+| **Grassland** | Grass-dominated ecosystem with few trees | घासlands |
+| **Neritic zone** | Shallow continental shelf — high marine productivity | neritic |
+| **Pneumatophore** | Mangrove aerial root for gas exchange | वात-मूल |
+| **Zooxanthellae** | Symbiotic algae inside coral polyps | zooxanthellae |
 
 ---
 

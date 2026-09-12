@@ -32,17 +32,6 @@
 
 ---
 
-## Confused Pairs
-
-| Pair | Correct |
-|------|---------|
-| Almora vs Haridwar on sex ratio | Highest vs among lowest |
-| Vanrawat vs Bhotia / Tharu | Raji/Vanrawat = Pithoragarh forest PTG |
-| Shifting cultivation banned narrative | Statement 2 treated as **true** with stmt 1 in 2025 |
-| City vs district airport names | Separate transport card |
-
----
-
 ## Must-Score Facts
 
 1. Sex ratio desc.: Almora, Rudraprayag, Tehri Garhwal, Haridwar.
@@ -51,6 +40,17 @@
 4. Do not put Haridwar first in a “descending sex ratio” list.
 5. Raji / Vanrawat naming variants refer to the same group in standard notes.
 6. Bhotia = high Himalaya; Tharu / Boksa = Tarai.
+
+---
+
+## Confused Pairs
+
+| Pair | Correct |
+|------|---------|
+| Almora vs Haridwar on sex ratio | Highest vs among lowest |
+| Vanrawat vs Bhotia / Tharu | Raji/Vanrawat = Pithoragarh forest PTG |
+| Shifting cultivation banned narrative | Statement 2 treated as **true** with stmt 1 in 2025 |
+| City vs district airport names | Separate transport card |
 
 ---
 

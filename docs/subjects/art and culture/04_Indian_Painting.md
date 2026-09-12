@@ -50,26 +50,6 @@ D. None of the above
 ---
 
 
-## Confused Pairs
-
-| A | B | Correct | Hindi |
-|---|----|------|-------|
-| Fresco | Tempera / secco | Pigment on **wet** plaster (Ajanta) vs binder on **dry** surface | भित्ति-फ्रेस्को / टेम्पेरा |
-| Mural | Miniature | Wall/ceiling integral to building vs small album/manuscript | भित्ति / लघु चित्र |
-| Mughal | Rajput | Imperial Persianised court vs Hindu princely, bhakti/ragamala | मुग़ल / राजपूत |
-| Rajput | Pahari | Rajasthan plains (Mewar, Marwar) vs Himalayan hills (Kangra) | राजपूत / पहाड़ी |
-| Basohli | Kangra | Early bold flat colour vs late lyrical Krishna–nature | बसोहली / कांगड़ा |
-| Company | Bengal School | Colonial documentary for EIC vs nationalist wash revival | कंपनी / बंगाल स्कूल |
-| Ravi Varma | Abanindranath | Oil + oleograph realism vs wash / anti-academic revival | रवि वर्मा / अवनिंद्रनाथ |
-| Ajanta | Ellora | Famous for **paintings** vs famous for **sculpture** (Kailasa) | अजंता / एलोरा |
-| Aniconic | Iconic (Ajanta) | Phase I symbols vs Phase II Buddha/Bodhisattva figures | अप्रतिमेय / प्रतिमेय |
-| Hamzanama | Ragamala | Akbar adventure manuscript vs Rajput/Pahari musical-mode series | हमज़ानामा / रागमाला |
-| Tanjore | Mysore | Gold foil + gems on wood vs finer gesso, less gem-studded | तंजावुर / मैसूर |
-| Srikalahasti Kalamkari | Machilipatnam Kalamkari | Temple kalam (pen) religious vs block-print trade cloth | श्रीकालहस्ती / मछलीपट्टनम |
-| Jogimara | Ajanta | Earliest secular fresco (Ramgarh, CG) vs Buddhist narrative peak | जोगीमारा / अजंता |
-
----
-
 ## Consolidated — 24 Must-Score Facts
 
 1. **Bhimbetka** rock shelters are in Raisen, **Madhya Pradesh. V.S. Wakankar** demonstrated their prehistoric importance in **1957**. They are UNESCO **2003**, not fresco.
@@ -96,6 +76,26 @@ D. None of the above
 22. Ajanta technique is pigment on **wet** plaster (fresco tradition). Tempera / secco puts binder on a **dry** surface.
 23. A **mural** is wall or ceiling paint integral to a building. A **miniature** is a small album or manuscript picture.
 24. *Venushilpa* of Upendra Maharathi is a **bamboo** craft fact, not a painting school.
+
+---
+
+## Confused Pairs
+
+| A | B | Correct | Hindi |
+|---|----|------|-------|
+| Fresco | Tempera / secco | Pigment on **wet** plaster (Ajanta) vs binder on **dry** surface | भित्ति-फ्रेस्को / टेम्पेरा |
+| Mural | Miniature | Wall/ceiling integral to building vs small album/manuscript | भित्ति / लघु चित्र |
+| Mughal | Rajput | Imperial Persianised court vs Hindu princely, bhakti/ragamala | मुग़ल / राजपूत |
+| Rajput | Pahari | Rajasthan plains (Mewar, Marwar) vs Himalayan hills (Kangra) | राजपूत / पहाड़ी |
+| Basohli | Kangra | Early bold flat colour vs late lyrical Krishna–nature | बसोहली / कांगड़ा |
+| Company | Bengal School | Colonial documentary for EIC vs nationalist wash revival | कंपनी / बंगाल स्कूल |
+| Ravi Varma | Abanindranath | Oil + oleograph realism vs wash / anti-academic revival | रवि वर्मा / अवनिंद्रनाथ |
+| Ajanta | Ellora | Famous for **paintings** vs famous for **sculpture** (Kailasa) | अजंता / एलोरा |
+| Aniconic | Iconic (Ajanta) | Phase I symbols vs Phase II Buddha/Bodhisattva figures | अप्रतिमेय / प्रतिमेय |
+| Hamzanama | Ragamala | Akbar adventure manuscript vs Rajput/Pahari musical-mode series | हमज़ानामा / रागमाला |
+| Tanjore | Mysore | Gold foil + gems on wood vs finer gesso, less gem-studded | तंजावुर / मैसूर |
+| Srikalahasti Kalamkari | Machilipatnam Kalamkari | Temple kalam (pen) religious vs block-print trade cloth | श्रीकालहस्ती / मछलीपट्टनम |
+| Jogimara | Ajanta | Earliest secular fresco (Ramgarh, CG) vs Buddhist narrative peak | जोगीमारा / अजंता |
 
 ---
 

@@ -34,37 +34,6 @@ Million-city **population ranks**. Missions and settlement types
 ---
 
 
-## Confused Pairs
-
-| Pair | Correct | Trap | Hindi |
-|------|------------|------|-------|
-| Census town | 5,000 + 400/km² + 75% non-agri male main | Any big village / always a municipality | जनगणना नगर |
-| Clustered village | Plains + **Rajasthan water** + Bundelkhand/Nagaland defence | “Thar = dispersed” | संकुल |
-| Dispersed village | **Meghalaya, UK, HP, Kerala**, NE forests/hills | Ganga plain / all Rajasthan | प्रकीर्ण |
-| Hamleted local names | **panna, para, palli, nagla, dhani** | A separate census town | पुरवा/ढाणी |
-| Semi-clustered | Dominant caste **centre**; lower strata **flanks** (GJ/RJ) | Same as hamleted | अर्ध-संकुल |
-| Class I town | ≥**1 lakh** (468 in 2011; ~**60%** urban pop) | ≥10 lakh | श्रेणी I |
-| Metropolitan (NCERT) | **10 lakh–50 lakh** | 10 million | महानगर |
-| Mega city (NCERT) | **> 50 lakh**; **six** in 2011 | Only 1 crore / only Mumbai | मेगा |
-| UN megacity | ≥ **1 crore** | Mixing with NCERT 50-lakh mega | UN मेगा |
-| 2011 size rank | **Mumbai > Delhi > Kolkata > Chennai** | Mumbai > Kolkata > Delhi (that is **2001**) | 2011 क्रम |
-| Bhopal | **Not** on a major river bank | Agra/Patna/Kolkata are | भोपाल ≠ नदी |
-| UP Smart Cities (papers) | **10 Central** listed | 12/15/18; Ghaziabad | 10 शहर |
-| Ghaziabad | Not in **Mission-100 / Central-10** | “Is a Smart City” (only **State** 2019) | गाजियाबाद नहीं |
-| SPMRM year | **2016 launch** | 2015 | 2016 |
-| HRIDAY in UP | **Varanasi + Mathura** | Prayagraj / Ayodhya | काशी+मथुरा |
-| AMRUT | **Jun 2015** | 2005 (that is JNNURM) | 2015 |
-| JNNURM | **2005** | 2015 | 2005 |
-| Smart Cities vs SPMRM | MoHUA vs **MoRD** | Same ministry | आवास vs ग्राम |
-| Global Village | Transport + communication | UN / politics only | परिवहन+संचार |
-| Rurbanization (options) | **G.S. Ghurye** | M.N. Srinivas | घुर्ये |
-| Determinism | Nature controls man (**Ratzel / Semple**) | Possibilism | नियतिवाद |
-| Possibilism | Man chooses within nature (**Vidal de la Blache**) | Determinism | संभावनावाद |
-| Neo-determinism | Stop-and-go determinism (**Griffith Taylor**) | Pure free will | नव-नियतिवाद |
-| Site vs situation | Local ground vs wider regional location | Same thing | स्थल ≠ स्थिति |
-
----
-
 ## Consolidated — 26 Must-Score Facts
 
 1. Human geography studies the **man–environment relationship** and the spatial patterns of human life, settlements and economy.
@@ -93,6 +62,37 @@ Million-city **population ranks**. Missions and settlement types
 24. **Bhopal** is the classic “not on a major river bank” city trap against Agra, Patna or Kolkata.
 25. NCR slice of Uttar Pradesh includes Ghaziabad, Noida, Greater Noida and Meerut in the urban–industrial belt.
 26. Hamleted villages break the main settlement into secondary units (**panna / para / palli / nagla / dhani**); they are a rural pattern, not a separate census-town category.
+
+---
+
+## Confused Pairs
+
+| Pair | Correct | Trap | Hindi |
+|------|------------|------|-------|
+| Census town | 5,000 + 400/km² + 75% non-agri male main | Any big village / always a municipality | जनगणना नगर |
+| Clustered village | Plains + **Rajasthan water** + Bundelkhand/Nagaland defence | “Thar = dispersed” | संकुल |
+| Dispersed village | **Meghalaya, UK, HP, Kerala**, NE forests/hills | Ganga plain / all Rajasthan | प्रकीर्ण |
+| Hamleted local names | **panna, para, palli, nagla, dhani** | A separate census town | पुरवा/ढाणी |
+| Semi-clustered | Dominant caste **centre**; lower strata **flanks** (GJ/RJ) | Same as hamleted | अर्ध-संकुल |
+| Class I town | ≥**1 lakh** (468 in 2011; ~**60%** urban pop) | ≥10 lakh | श्रेणी I |
+| Metropolitan (NCERT) | **10 lakh–50 lakh** | 10 million | महानगर |
+| Mega city (NCERT) | **> 50 lakh**; **six** in 2011 | Only 1 crore / only Mumbai | मेगा |
+| UN megacity | ≥ **1 crore** | Mixing with NCERT 50-lakh mega | UN मेगा |
+| 2011 size rank | **Mumbai > Delhi > Kolkata > Chennai** | Mumbai > Kolkata > Delhi (that is **2001**) | 2011 क्रम |
+| Bhopal | **Not** on a major river bank | Agra/Patna/Kolkata are | भोपाल ≠ नदी |
+| UP Smart Cities (papers) | **10 Central** listed | 12/15/18; Ghaziabad | 10 शहर |
+| Ghaziabad | Not in **Mission-100 / Central-10** | “Is a Smart City” (only **State** 2019) | गाजियाबाद नहीं |
+| SPMRM year | **2016 launch** | 2015 | 2016 |
+| HRIDAY in UP | **Varanasi + Mathura** | Prayagraj / Ayodhya | काशी+मथुरा |
+| AMRUT | **Jun 2015** | 2005 (that is JNNURM) | 2015 |
+| JNNURM | **2005** | 2015 | 2005 |
+| Smart Cities vs SPMRM | MoHUA vs **MoRD** | Same ministry | आवास vs ग्राम |
+| Global Village | Transport + communication | UN / politics only | परिवहन+संचार |
+| Rurbanization (options) | **G.S. Ghurye** | M.N. Srinivas | घुर्ये |
+| Determinism | Nature controls man (**Ratzel / Semple**) | Possibilism | नियतिवाद |
+| Possibilism | Man chooses within nature (**Vidal de la Blache**) | Determinism | संभावनावाद |
+| Neo-determinism | Stop-and-go determinism (**Griffith Taylor**) | Pure free will | नव-नियतिवाद |
+| Site vs situation | Local ground vs wider regional location | Same thing | स्थल ≠ स्थिति |
 
 ---
 

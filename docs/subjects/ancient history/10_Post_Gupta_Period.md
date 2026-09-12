@@ -15,30 +15,6 @@ Post-Gupta Age | Harshavardhana | Administration of Harsha | Policies of Harshav
 
 ---
 
-## Confused Pairs
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Gupta | Post-Gupta | Imperial ~320–550 vs fragment then **Harsha** | गुप्त / उत्तर-गुप्त |
-| Thanesar | Kannauj | Early capital **Haryana** vs later capital **UP** | थानेसर / कन्नौज |
-| Banabhatta | Kalidasa | Harsha’s **prose** vs Gupta **poetry/drama** | बाणभट्ट / कालिदास |
-| Harshacharita | Kadambari | Harsha **biography** vs **romance** (same Bana) | हर्षचरित / कादम्बरी |
-| Harshacharita | Si-Yu-Ki | Sanskrit kavya vs Xuanzang’s **Chinese** record | हर्षचरित / सी-यू-की |
-| Fa-Hien | Hiuen Tsang | CG II ~400 vs Harsha **~630** | फाह्यान / ह्वेन त्सांग |
-| Hiuen Tsang | I-Tsing | Harsha’s guest vs **after** Harsha, still Nalanda | ह्वेन त्सांग / इ-त्सिंग |
-| Pulakeshin II | Shashanka | **Narmada** Chalukya stop vs **Gauda** who killed the brother | पुलकेशिन / शशांक |
-| Maukhari | Pushyabhuti | Kannauj house vs **Thanesar** house | मौखरी / पुष्यभूति |
-| Ishanavarman | Ishvaravarman | **Haraha** 554 CE vs father. **Jaunpur** in 2022 key | ईशानवर्मन / ईश्वरवर्मन |
-| Haraha | Gaya copper plate | Maukhari Ishanavarman vs **Samudragupta** plate (2022 trap) | हराहा / गया |
-| Harsha | Kharavela | 7th c. Kannauj vs **Hathigumpha** (2018 trap C) | हर्ष / खारवेल |
-| Mathura cotton | Varanasi silk | Xuanzang textile pair | मथुरा कपास / वाराणसी रेशम |
-| Kausheya | Cotton | Silk cloth word vs ordinary cotton | कौशेय / कपास |
-| Hundi | Royal edict | Bill of exchange vs king’s order | हुंडी / आज्ञा |
-| Sung-yun | Fa-Hien | ~518 Wei envoy vs CG II pilgrim ~400 | सुंगयुन / फाह्यान |
-| Harsha | Shankaracharya | 7th c. Kannauj king vs 8th c. Advaita maths | हर्ष / शंकर |
-
----
-
 ## Consolidated — 32 Must-Score Facts
 
 1. After the imperial Guptas break about **550 CE**, the **Hunas** are led first by **Toramana**, then by **Mihirakula** of **Sakala (Sialkot)**. **Yashodharman** of Malwa boasts the Huna check at **Mandasor** about **532 CE**. **Vasula** is remembered as composer of Yashodharman’s Sondani / Sondhni record.
@@ -73,6 +49,30 @@ Post-Gupta Age | Harshavardhana | Administration of Harsha | Policies of Harshav
 30. **I-tsing** comes by sea after Harsha (~671–695), studies at Nalanda, and returns via Sumatra.
 31. Nalanda’s final medieval destruction is linked to **Bakhtiyar Khalji** (~1193) — Pala–Sena age, not Harsha’s lifetime.
 32. Shankaracharya’s four maths and Chardham traps belong to Bhakti / Vedanta notes — do not merge them into Harsha’s court card.
+
+---
+
+## Confused Pairs
+
+| A | B | Difference | Hindi |
+|---|----|------------|-------|
+| Gupta | Post-Gupta | Imperial ~320–550 vs fragment then **Harsha** | गुप्त / उत्तर-गुप्त |
+| Thanesar | Kannauj | Early capital **Haryana** vs later capital **UP** | थानेसर / कन्नौज |
+| Banabhatta | Kalidasa | Harsha’s **prose** vs Gupta **poetry/drama** | बाणभट्ट / कालिदास |
+| Harshacharita | Kadambari | Harsha **biography** vs **romance** (same Bana) | हर्षचरित / कादम्बरी |
+| Harshacharita | Si-Yu-Ki | Sanskrit kavya vs Xuanzang’s **Chinese** record | हर्षचरित / सी-यू-की |
+| Fa-Hien | Hiuen Tsang | CG II ~400 vs Harsha **~630** | फाह्यान / ह्वेन त्सांग |
+| Hiuen Tsang | I-Tsing | Harsha’s guest vs **after** Harsha, still Nalanda | ह्वेन त्सांग / इ-त्सिंग |
+| Pulakeshin II | Shashanka | **Narmada** Chalukya stop vs **Gauda** who killed the brother | पुलकेशिन / शशांक |
+| Maukhari | Pushyabhuti | Kannauj house vs **Thanesar** house | मौखरी / पुष्यभूति |
+| Ishanavarman | Ishvaravarman | **Haraha** 554 CE vs father. **Jaunpur** in 2022 key | ईशानवर्मन / ईश्वरवर्मन |
+| Haraha | Gaya copper plate | Maukhari Ishanavarman vs **Samudragupta** plate (2022 trap) | हराहा / गया |
+| Harsha | Kharavela | 7th c. Kannauj vs **Hathigumpha** (2018 trap C) | हर्ष / खारवेल |
+| Mathura cotton | Varanasi silk | Xuanzang textile pair | मथुरा कपास / वाराणसी रेशम |
+| Kausheya | Cotton | Silk cloth word vs ordinary cotton | कौशेय / कपास |
+| Hundi | Royal edict | Bill of exchange vs king’s order | हुंडी / आज्ञा |
+| Sung-yun | Fa-Hien | ~518 Wei envoy vs CG II pilgrim ~400 | सुंगयुन / फाह्यान |
+| Harsha | Shankaracharya | 7th c. Kannauj king vs 8th c. Advaita maths | हर्ष / शंकर |
 
 ---
 

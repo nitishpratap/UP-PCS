@@ -21,18 +21,6 @@ Acid Rain | Causes | Effects | Prevention
 
 ---
 
-## Confused Pairs
-
-| Term | One-line fact |
-|------|---------------|
-| **Acid rain / Normal rain** | pH < 5.6 / pH ≈ 5.6 from CO₂ |
-| **Wet / Dry deposition** | With precipitation / without rain |
-| **SO₂ / CO₂ role** | Strong H₂SO₄ / weak H₂CO₃ baseline |
-| **Gothenburg / Montreal** | Acidifying pollutants / ozone ODS |
-| **Taj Trapezium** | Pollution-control belt around Taj |
-
----
-
 ## Consolidated — 22 Must-Score Facts
 
 1. **Acid rain** means acidic deposition with **pH below 5.6**.
@@ -57,6 +45,18 @@ Acid Rain | Causes | Effects | Prevention
 20. Cultural-heritage damage and forest dieback are both valid effect facts alongside aquatic harm.
 21. India’s focus pairs chemistry (SO₂/NOx) with Taj protection geography.
 22. Calling Montreal the acid-rain treaty is a standard distractor.
+
+---
+
+## Confused Pairs
+
+| Term | One-line fact |
+|------|---------------|
+| **Acid rain / Normal rain** | pH < 5.6 / pH ≈ 5.6 from CO₂ |
+| **Wet / Dry deposition** | With precipitation / without rain |
+| **SO₂ / CO₂ role** | Strong H₂SO₄ / weak H₂CO₃ baseline |
+| **Gothenburg / Montreal** | Acidifying pollutants / ozone ODS |
+| **Taj Trapezium** | Pollution-control belt around Taj |
 
 ---
 

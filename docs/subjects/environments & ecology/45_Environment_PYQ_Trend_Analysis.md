@@ -8,18 +8,6 @@
 
 ---
 
-## Confused Pairs
-
-| Pair | Fact |
-|------|------|
-| Tagged count vs true ROI | Tagged Qs understate env marks — add Economy/Geography leakage |
-| 2020/2024 dip vs trend | Dips are anomalies; plan for **15–20** env marks |
-| Direct MCQ habit vs 2025 format | Multi-statement / A/R / Match now dominate |
-| LiFE COP-25 vs COP-26 | Idea **COP-26 2021**; launch **June 2022** |
-| MISHTI 2019 vs 2023 | **2023–24 Budget** mangrove scheme |
-| Montreal vs Kyoto | Ozone vs climate |
-| Nokrek–Manipur / UP BR claims | Nokrek = **Meghalaya**; UP has **zero** BRs |
-
 ## Consolidated — 18 Must-Score Facts
 
 1. Recent UPPCS papers give roughly **15–20 tagged environment marks** most years. Planning for only 8–10 is outdated.
@@ -42,6 +30,18 @@
 18. Volume formula for the next attempt: budget about **15–20 tagged** plus a few cross-subject environment hits.
 
 ---
+
+## Confused Pairs
+
+| Pair | Fact |
+|------|------|
+| Tagged count vs true ROI | Tagged Qs understate env marks — add Economy/Geography leakage |
+| 2020/2024 dip vs trend | Dips are anomalies; plan for **15–20** env marks |
+| Direct MCQ habit vs 2025 format | Multi-statement / A/R / Match now dominate |
+| LiFE COP-25 vs COP-26 | Idea **COP-26 2021**; launch **June 2022** |
+| MISHTI 2019 vs 2023 | **2023–24 Budget** mangrove scheme |
+| Montreal vs Kyoto | Ozone vs climate |
+| Nokrek–Manipur / UP BR claims | Nokrek = **Meghalaya**; UP has **zero** BRs |
 
 ## How to Use This File
 

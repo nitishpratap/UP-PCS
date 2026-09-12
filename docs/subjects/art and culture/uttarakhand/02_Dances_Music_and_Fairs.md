@@ -29,6 +29,16 @@
 
 ---
 
+## Must-Score Facts
+
+1. Chholiya = Kumaon sword wedding dance.
+2. Padma Shri 2025 social work (UK) = **Radha Bahin Bhatt**.
+3. Madhuri Barthwal ≠ that 2025 social-work key.
+4. Uttarayani = **Bageshwar**; Nanda Raj Jat ≠ only wildlife park.
+5. Pandav Nritya (UK) ≠ Pandavani (Chhattisgarh).
+
+---
+
 ## Confused Pairs
 
 | Pair | Key |
@@ -37,16 +47,6 @@
 | Classical SNA dance of UK | UKPCS usually tests **folk** forms, not a new classical SNA school |
 | Nanda Devi fair vs Nanda Devi NP | Cultural fair / pilgrimage ≠ only the wildlife WHS card |
 | Pandav Nritya vs Pandavani | UK ritual dance-drama ≠ Chhattisgarh Pandavani |
-
----
-
-## Must-Score Facts
-
-1. Chholiya = Kumaon sword wedding dance.
-2. Padma Shri 2025 social work (UK) = **Radha Bahin Bhatt**.
-3. Madhuri Barthwal ≠ that 2025 social-work key.
-4. Uttarayani = **Bageshwar**; Nanda Raj Jat ≠ only wildlife park.
-5. Pandav Nritya (UK) ≠ Pandavani (Chhattisgarh).
 
 ---
 

@@ -21,20 +21,6 @@ World Environment Day | World Wetlands Day | Earth Day | International Day for B
 
 ---
 
-## Confused Pairs
-
-| Pair | Fact |
-|------|------|
-| Wildlife Day vs Water Day | **3 March** vs **22 March** — never swap |
-| WED vs Earth Day | **5 June** vs **22 April** |
-| Wetlands vs Wildlife | **2 February** (Ramsar) vs **3 March** (CITES) |
-| Forests vs Water | **21 March** vs **22 March** |
-| Biodiversity vs Water / Earth | **22 May** vs **22 March** / **22 April** |
-| Ozone Day vs WED | **16 September** (Montreal) vs **5 June** (Stockholm) |
-| Earth Day vs Earth Hour | **22 April** civic day vs last Saturday of March (WWF) |
-
----
-
 ## Consolidated — 24 Must-Score Facts
 
 1. **World Wetlands Day** falls on **2 February** and marks the **Ramsar Convention (1971)**. It is not 2 March or 3 March.
@@ -64,6 +50,20 @@ World Environment Day | World Wetlands Day | Earth Day | International Day for B
 25. **World Toilet Day = 19 November** (UN, from 2013). **World No Tobacco Day = 31 May** (not 5 May). **World Habitat Day** = first Monday of October (not a fixed 5 October).
 26. **Swachh Bharat Mission** launched **2 October 2014** (Gandhi Jayanti). Sierra Leone observes national cleanliness on the last Saturday of every month.
 27. Earth Day theme teaching: **2024 = Planet vs. Plastics**. WED **2023 = Beat Plastic Pollution**.
+
+---
+
+## Confused Pairs
+
+| Pair | Fact |
+|------|------|
+| Wildlife Day vs Water Day | **3 March** vs **22 March** — never swap |
+| WED vs Earth Day | **5 June** vs **22 April** |
+| Wetlands vs Wildlife | **2 February** (Ramsar) vs **3 March** (CITES) |
+| Forests vs Water | **21 March** vs **22 March** |
+| Biodiversity vs Water / Earth | **22 May** vs **22 March** / **22 April** |
+| Ozone Day vs WED | **16 September** (Montreal) vs **5 June** (Stockholm) |
+| Earth Day vs Earth Hour | **22 April** civic day vs last Saturday of March (WWF) |
 
 ---
 

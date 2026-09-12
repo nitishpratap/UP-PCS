@@ -31,21 +31,6 @@
 
 ---
 
-## Confused Pairs
-
-| Pair | Key |
-|------|------|
-| 4th Kumaon Parishad vs founding | **Kashipur 1920** vs Almora **1916** founding |
-| Home Rule Dehradun founder | Key: **Vicharanand Saraswati** — not Dayanand (dead 1883) |
-| Badri Dutt meeting city | Series B key **Calcutta**; Delhi is the planted rival city |
-| Almora Akhbar vs Shakti | Earlier Almora paper vs **1918** weekly founded after Akhbar’s closure |
-| Gairola vs Raturi / Nautiyal | **Tara Dutt Gairola** for Garhwal Union & Hitkarini Sabha |
-| Coolie-Begar vs Chipko | Colonial forced labour vs later forest movement |
-| Suman vs Saklani | Hunger-strike martyr of Tehri jail (**1944**) vs Kirtinagar martyr (**1948**) |
-| Garhwali vs Ghaffar Khan | Peshawar refuse-to-fire = **Chandra Singh Garhwali**; Red Shirts = **Abdul Ghaffar Khan** |
-
----
-
 ## Must-Score Facts
 
 1. Kumaon Parishad founded Almora **1916**; 4th session **Kashipur 1920**.
@@ -58,6 +43,21 @@
 8. **Sridev Suman** dies after Tehri jail hunger strike, **25 July 1944**.
 9. **Nagendra Saklani** martyred at **Kirtinagar, 11 January 1948**.
 10. Coolie-Begar ≠ Chipko; Suman ≠ Saklani.
+
+---
+
+## Confused Pairs
+
+| Pair | Key |
+|------|------|
+| 4th Kumaon Parishad vs founding | **Kashipur 1920** vs Almora **1916** founding |
+| Home Rule Dehradun founder | Key: **Vicharanand Saraswati** — not Dayanand (dead 1883) |
+| Badri Dutt meeting city | Series B key **Calcutta**; Delhi is the planted rival city |
+| Almora Akhbar vs Shakti | Earlier Almora paper vs **1918** weekly founded after Akhbar’s closure |
+| Gairola vs Raturi / Nautiyal | **Tara Dutt Gairola** for Garhwal Union & Hitkarini Sabha |
+| Coolie-Begar vs Chipko | Colonial forced labour vs later forest movement |
+| Suman vs Saklani | Hunger-strike martyr of Tehri jail (**1944**) vs Kirtinagar martyr (**1948**) |
+| Garhwali vs Ghaffar Khan | Peshawar refuse-to-fire = **Chandra Singh Garhwali**; Red Shirts = **Abdul Ghaffar Khan** |
 
 ---
 

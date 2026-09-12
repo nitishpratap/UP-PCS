@@ -68,24 +68,6 @@ D. 86th Constitutional Amendment Act, 2002
 ---
 
 
-## Confused Pairs
-
-| A | B | Correct | Hindi |
-|--------|--------|-----------------|-------|
-| **Simple majority** | **Special (368)** | Ordinary legislative majority; **outside** 368 | Total membership + 2/3 P&V |
-| **368 only** | **368 + States** | Unitary-looking amendments | Federal provisions; **half** State legislatures |
-| **13** | **368** | Laws inconsistent with FR void | Power to **amend** the Constitution |
-| **Golaknath** | **Kesavananda** | FR cannot be amended | FR can, **basic structure** cannot |
-| **42nd** | **44th** | Mini-Constitution (Emergency era) | Janata unwind: property, 20/21, 352 |
-| **9th Schedule** | **9th Amendment** | 1st Amd — shield for laws | 1960 — Berubari / boundary (not 350B) |
-| **73rd** | **74th** | Panchayats · 11th Sch · 24 Apr 1993 | Municipalities · 12th Sch · 1 Jun 1993 |
-| **86th** | **103rd** | RTE as FR (21A), 2002 | EWS 10%, 2019 |
-| **102nd** | **105th** | NCBC + Central SEBC list | State power to identify OBC **restored** |
-| **52nd** | **91st** | 10th Schedule inserted | 1/3 split killed; CoM 15% |
-| **104th** | **106th** | Anglo-Indian nomination **ends** | Women 33% — **not yet** in force |
-
----
-
 ## Consolidated — 28 Must-Score Facts
 
 1. Amendment power sits in **Part XX, Article 368**. An amendment Bill may start in **either House**. There is **no joint sitting**. After the **24th Amendment**, the President **shall** assent.
@@ -116,6 +98,24 @@ D. 86th Constitutional Amendment Act, 2002
 26. Ninth **Schedule** (from the 1st Amendment) is a protective list of laws; Ninth **Amendment** is Berubari. Mixing Schedule and Amendment number is a classic trap.
 27. Local-government amendments are the pair **73rd + 74th**. Rights-education is **86th**. Goods and services tax is **101st**. EWS is **103rd**. Women reservation awaiting delimitation is **106th**.
 28. The **42nd (1976)** added **Socialist** and **Secular** to the Preamble. The **44th (1978)** unwound Emergency excesses and moved property out of Part III to **Article 300A**.
+
+---
+
+## Confused Pairs
+
+| A | B | Correct | Hindi |
+|--------|--------|-----------------|-------|
+| **Simple majority** | **Special (368)** | Ordinary legislative majority; **outside** 368 | Total membership + 2/3 P&V |
+| **368 only** | **368 + States** | Unitary-looking amendments | Federal provisions; **half** State legislatures |
+| **13** | **368** | Laws inconsistent with FR void | Power to **amend** the Constitution |
+| **Golaknath** | **Kesavananda** | FR cannot be amended | FR can, **basic structure** cannot |
+| **42nd** | **44th** | Mini-Constitution (Emergency era) | Janata unwind: property, 20/21, 352 |
+| **9th Schedule** | **9th Amendment** | 1st Amd — shield for laws | 1960 — Berubari / boundary (not 350B) |
+| **73rd** | **74th** | Panchayats · 11th Sch · 24 Apr 1993 | Municipalities · 12th Sch · 1 Jun 1993 |
+| **86th** | **103rd** | RTE as FR (21A), 2002 | EWS 10%, 2019 |
+| **102nd** | **105th** | NCBC + Central SEBC list | State power to identify OBC **restored** |
+| **52nd** | **91st** | 10th Schedule inserted | 1/3 split killed; CoM 15% |
+| **104th** | **106th** | Anglo-Indian nomination **ends** | Women 33% — **not yet** in force |
 
 ---
 

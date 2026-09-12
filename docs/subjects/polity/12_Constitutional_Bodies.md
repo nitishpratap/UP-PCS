@@ -35,22 +35,6 @@
 ---
 
 
-## Confused Pairs
-
-| A | B | Correct | Hindi |
-|--------|--------|-----------------|-------|
-| **CEC** removal | **EC** removal | Like **SC judge** (impeachment) | Only on **CEC’s recommendation** |
-| **UPSC** | **SPSC** | President appoints **and** (in effect) removal path is Presidential | **Governor** appoints; **President** removes |
-| **ECI** | **SEC** | Parliament, State Houses, President, VP | Panchayat + ULB only (**243K/ZA**) |
-| **AG** | **SC judge** | Pleasure of President; private practice | Impeachment; no private practice |
-| **CAG** | **PAC** | Audits and **reports** | **Examines** the CAG report |
-| **FC** | **NITI** | Constitutional, tax-share | Executive think-tank; **not** 280 |
-| **350B** | **350A** | Special Officer (Union) | States’ duty: mother-tongue primary |
-| **338B NCBC** | **340 commission** | Standing constitutional body (2018) | Ad hoc inquiry (Kalelkar / Mandal) |
-| **338A NCST** | **339(1) commission** | Standing ST commission | Ad hoc Scheduled Areas / ST-welfare inquiry |
-
----
-
 ## Consolidated — 28 Must-Score Facts
 
 1. A **constitutional body** is created by the Constitution itself. Pay is often **charged** on the Consolidated Fund, and removal is often on the lines of a **Supreme Court judge**.
@@ -81,6 +65,22 @@
 26. The Special Officer for Linguistic Minorities (**350B**) is **one** officer for India. Do not confuse that office with the **National Commission for Minorities**, which is statutory.
 27. Joint State PSCs exist only when **two or more States** ask through a **Parliamentary** law. A single State cannot invent a JPSC by State Act alone.
 28. Constitutional bodies with “like SC judge” removal include the **CEC**, **UPSC** members (after SC inquiry), and the **CAG**. The **Attorney General** is the classic pleasure-doctrine contrast — easy removal, no impeachment.
+
+---
+
+## Confused Pairs
+
+| A | B | Correct | Hindi |
+|--------|--------|-----------------|-------|
+| **CEC** removal | **EC** removal | Like **SC judge** (impeachment) | Only on **CEC’s recommendation** |
+| **UPSC** | **SPSC** | President appoints **and** (in effect) removal path is Presidential | **Governor** appoints; **President** removes |
+| **ECI** | **SEC** | Parliament, State Houses, President, VP | Panchayat + ULB only (**243K/ZA**) |
+| **AG** | **SC judge** | Pleasure of President; private practice | Impeachment; no private practice |
+| **CAG** | **PAC** | Audits and **reports** | **Examines** the CAG report |
+| **FC** | **NITI** | Constitutional, tax-share | Executive think-tank; **not** 280 |
+| **350B** | **350A** | Special Officer (Union) | States’ duty: mother-tongue primary |
+| **338B NCBC** | **340 commission** | Standing constitutional body (2018) | Ad hoc inquiry (Kalelkar / Mandal) |
+| **338A NCST** | **339(1) commission** | Standing ST commission | Ad hoc Scheduled Areas / ST-welfare inquiry |
 
 ---
 

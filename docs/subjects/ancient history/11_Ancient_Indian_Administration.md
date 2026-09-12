@@ -17,25 +17,6 @@ Taught in time-order: Vedic → Magadha → Maurya → Post-Mauryan → Gupta �
 
 ---
 
-## Confused Pairs
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Rajan | Maharajadhiraja | Vedic chief vs Gupta/Harsha **king of kings** | राजन / महाराजाधिराज |
-| Devanampiya | Vikramaditya | Ashoka on edicts vs **Chandragupta II** | देवानंप्रिय / विक्रमादित्य |
-| Sabha | Samiti | Smaller/elder council vs larger tribal assembly | सभा / समिति |
-| Bhagadugha | Akshavapa | Vedic **revenue** vs **dice** (2023 C) | भागदुघ / अक्षावाप |
-| Bhagadugha | Samaharta | Vedic share-collector vs Mauryan **chief** collector | भागदुघ / समाहर्ता |
-| Samaharta | Sannidhata | Collects vs **stores** | समाहर्ता / संनिधाता |
-| Agronomai | Pautavadhyaksha | Megasthenes **revenue** vs weights | एग्रोनोमाई / पौतवाध्यक्ष |
-| Rajuka | Uparika | Mauryan district land/justice vs Gupta **province** | राजुक / उपरिक |
-| Sandhivigrahika | Mahasandhivigrahika | Gupta war-peace vs Harsha’s **maha-** grade | संधिविग्रहिक / महा- |
-| Hathigumpha | Prayag Prashasti | **Kharavela** vs **Samudragupta** | हाथीगुम्फा / प्रयाग |
-| Ayodhya inscription | Besnagar | Pushyamitra ashwamedha vs **Heliodorus** | अयोध्या / बेसनगर |
-| Gaya copper plate | Asirgarh seal | **Samudragupta** plate vs Maukhari **Sarvavarman** | गया / असीरगढ़ |
-
----
-
 ## Consolidated — 28 Must-Score Facts
 
 1. Political time-order for titles and inscriptions runs **Vedic rajan → Magadha houses → Maurya → Shunga / Kharavela / Kushan / Satavahana → Gupta → Harsha**.
@@ -66,6 +47,25 @@ Taught in time-order: Vedic → Magadha → Maurya → Post-Mauryan → Gupta �
 26. **Chandragupta Maurya** is Greek **Sandrokottos** (~322 BCE). He is **not** Chandragupta I or Chandragupta II of the Gupta house.
 27. **Rummindei** pillar records Ashoka’s Lumbini visit. **Rabatak** gives Kanishka genealogy. **Haraha** (554 CE) is Maukhari Ishanavarman in Barabanki, UP.
 28. Title inflation grows from Gupta grants onward. **Chakravartin** is the ideal wheel-turning monarch, not one king’s exclusive stamp; a feudatory is **samanta / mahasamanta**.
+
+---
+
+## Confused Pairs
+
+| A | B | Difference | Hindi |
+|---|----|------------|-------|
+| Rajan | Maharajadhiraja | Vedic chief vs Gupta/Harsha **king of kings** | राजन / महाराजाधिराज |
+| Devanampiya | Vikramaditya | Ashoka on edicts vs **Chandragupta II** | देवानंप्रिय / विक्रमादित्य |
+| Sabha | Samiti | Smaller/elder council vs larger tribal assembly | सभा / समिति |
+| Bhagadugha | Akshavapa | Vedic **revenue** vs **dice** (2023 C) | भागदुघ / अक्षावाप |
+| Bhagadugha | Samaharta | Vedic share-collector vs Mauryan **chief** collector | भागदुघ / समाहर्ता |
+| Samaharta | Sannidhata | Collects vs **stores** | समाहर्ता / संनिधाता |
+| Agronomai | Pautavadhyaksha | Megasthenes **revenue** vs weights | एग्रोनोमाई / पौतवाध्यक्ष |
+| Rajuka | Uparika | Mauryan district land/justice vs Gupta **province** | राजुक / उपरिक |
+| Sandhivigrahika | Mahasandhivigrahika | Gupta war-peace vs Harsha’s **maha-** grade | संधिविग्रहिक / महा- |
+| Hathigumpha | Prayag Prashasti | **Kharavela** vs **Samudragupta** | हाथीगुम्फा / प्रयाग |
+| Ayodhya inscription | Besnagar | Pushyamitra ashwamedha vs **Heliodorus** | अयोध्या / बेसनगर |
+| Gaya copper plate | Asirgarh seal | **Samudragupta** plate vs Maukhari **Sarvavarman** | गया / असीरगढ़ |
 
 ---
 

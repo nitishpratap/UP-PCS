@@ -37,23 +37,6 @@
 ---
 
 
-## Confused Pairs
-
-| A | B | Correct | Hindi |
-|--------|--------|-----------------|-------|
-| Art. **249** | Art. **250** | RS resolution, **1 year**, national interest | Emergency proclamation — Parliament on State List while Emergency is on |
-| Art. **252** | Art. **253** | **Two or more States** request; others may adopt | Treaties / international conferences — **no** State request needed |
-| Art. **254(1)** | Art. **254(2)** | Union law on Concurrent **prevails** | State Concurrent law **reserved + President assents** → State law prevails *until* Parliament legislates again |
-| Art. **275** | Art. **282** | FC-recommended, **charged** on CFI; tribal proviso | **Discretionary** grant for any public purpose (Union **and** States) |
-| Pith & substance | Colourable legislation | Incidental encroachment **OK** if true nature is in your list | Cannot do **indirectly** what you cannot do directly |
-| Entry **97** residuary | Art. **246A** GST | Leftover subjects → **Union** | GST is a **special** concurrent-style power, **not** residuary |
-| 2/3 **present and voting** (312 / 249) | 2/3 of **total membership** | AIS creation & 249 RS resolution | That formula is for **other** special majorities (e.g. 368 with majority of total) |
-| **ISC (263)** | **Zonal Council** | Constitutional, **PM**, 1990 | Statutory **SRA 1956**, **Union HM**, five zones |
-| **Art. 131** | **Art. 262** | SC original for Union/State **legal** disputes | Water: Parliament **may bar** courts — **1956 Act did** |
-| **Sarkaria** | **Rajamannar** | Strong Centre; keep AIS & 356; ISC **done** | Residuary to States; **abolish AIS**; **repeal 356** |
-
----
-
 ## Consolidated — 30 Must-Score Facts
 
 1. Centre–State rules sit mainly in **Part XI** (legislative and administrative, **245–263**), **Part XII** (finance, **264–293** slice), and **Part XIII** (trade, **301–307**). The **7th Schedule** carries the Union, State, and Concurrent Lists.
@@ -86,6 +69,23 @@
 28. The **42nd Amendment** moved **five** subjects from the State List to the Concurrent List.
 29. Profession tax under **Article 276** has a constitutional ceiling (figure **₹2,500** after the **60th Amendment**). Jute export-duty grants under **273** go to Assam, Bihar, Odisha, and West Bengal.
 30. Border and inter-State settlements are often political (Union Home Minister plus Chief Ministers), not automatic **Article 131** cases. Read whether a **legal right** is pleaded before jumping to the Supreme Court’s original jurisdiction.
+
+---
+
+## Confused Pairs
+
+| A | B | Correct | Hindi |
+|--------|--------|-----------------|-------|
+| Art. **249** | Art. **250** | RS resolution, **1 year**, national interest | Emergency proclamation — Parliament on State List while Emergency is on |
+| Art. **252** | Art. **253** | **Two or more States** request; others may adopt | Treaties / international conferences — **no** State request needed |
+| Art. **254(1)** | Art. **254(2)** | Union law on Concurrent **prevails** | State Concurrent law **reserved + President assents** → State law prevails *until* Parliament legislates again |
+| Art. **275** | Art. **282** | FC-recommended, **charged** on CFI; tribal proviso | **Discretionary** grant for any public purpose (Union **and** States) |
+| Pith & substance | Colourable legislation | Incidental encroachment **OK** if true nature is in your list | Cannot do **indirectly** what you cannot do directly |
+| Entry **97** residuary | Art. **246A** GST | Leftover subjects → **Union** | GST is a **special** concurrent-style power, **not** residuary |
+| 2/3 **present and voting** (312 / 249) | 2/3 of **total membership** | AIS creation & 249 RS resolution | That formula is for **other** special majorities (e.g. 368 with majority of total) |
+| **ISC (263)** | **Zonal Council** | Constitutional, **PM**, 1990 | Statutory **SRA 1956**, **Union HM**, five zones |
+| **Art. 131** | **Art. 262** | SC original for Union/State **legal** disputes | Water: Parliament **may bar** courts — **1956 Act did** |
+| **Sarkaria** | **Rajamannar** | Strong Centre; keep AIS & 356; ISC **done** | Residuary to States; **abolish AIS**; **repeal 356** |
 
 ---
 

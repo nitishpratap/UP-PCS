@@ -33,6 +33,16 @@
 
 ---
 
+## Must-Score Facts
+
+1. Forest richness explained by topography + climate (A/R both true, R explains A).
+2. Nanda Devi BR: WHS + snow leopard / musk deer / blue sheep.
+3. Askot–Pithoragarh; Binsar–Almora; Govind–Uttarkashi; Nandhaur–Nainital.
+4. Corbett 1936; Rajaji 1983; Gangotri 1989; Govind **1990**.
+5. Chipko / FSI–FRI–WII stay on Topic 1.
+
+---
+
 ## Confused Pairs
 
 | Pair | Key |
@@ -42,16 +52,6 @@
 | Nanda Devi fauna set | All three named species in |
 | A true / R not explain | UKPCS keys **R explains A** |
 | NP vs WLS vs BR | Strict NP / regulated WLS / BR zonation — different legal and management ideas |
-
----
-
-## Must-Score Facts
-
-1. Forest richness explained by topography + climate (A/R both true, R explains A).
-2. Nanda Devi BR: WHS + snow leopard / musk deer / blue sheep.
-3. Askot–Pithoragarh; Binsar–Almora; Govind–Uttarkashi; Nandhaur–Nainital.
-4. Corbett 1936; Rajaji 1983; Gangotri 1989; Govind **1990**.
-5. Chipko / FSI–FRI–WII stay on Topic 1.
 
 ---
 

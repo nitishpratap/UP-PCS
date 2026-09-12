@@ -27,16 +27,6 @@
 
 ---
 
-## Confused Pairs
-
-| Pair | Key |
-|------|-----|
-| HC seat Nainital vs capital Dehradun | Court at **Nainital**; executive capital **Dehradun** |
-| Mobile court vs Lok Adalat only | Mobile e-court is a **van-based courtroom** project |
-| Only purpose true / only tech true | 2025 keys **both** |
-
----
-
 ## Must-Score Facts
 
 1. High Court seat = **Nainital**.
@@ -44,6 +34,16 @@
 3. Aim = doorstep justice for remote areas.
 4. Working description and purpose of mobile courts can both be true in the same stem.
 5. Do not relocate the High Court to Dehradun in a seat stem.
+
+---
+
+## Confused Pairs
+
+| Pair | Key |
+|------|-----|
+| HC seat Nainital vs capital Dehradun | Court at **Nainital**; executive capital **Dehradun** |
+| Mobile court vs Lok Adalat only | Mobile e-court is a **van-based courtroom** project |
+| Only purpose true / only tech true | 2025 keys **both** |
 
 ---
 

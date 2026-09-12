@@ -20,42 +20,6 @@ Peasant Movements | Peasant Revolts | Leaders | Tribal Revolts | Tribal Leaders 
 
 ---
 
-## Confused Pairs
-
-| A | B | Difference | Hindi |
-
-|---|----|------------|-------|
-
-| Peasant revolt | Tribal revolt | Rent / indigo / zamindar of settled cultivators vs land–forest–*diku* in tribal belts | किसान / जनजातीय |
-
-| Indigo 1859–60 | Pabna 1873–85 | European planters vs zamindar rent-hikes | नील / पाबना |
-
-| Santhal 1855 | Munda Ulgulan 1899–1900 | Sidhu–Kanhu vs Birsa Munda | संथाल / मुंडा |
-
-| Kol 1831 | Khasi 1829 | Chotanagpur vs Meghalaya hills (Tirut Singh) | कोल / खासी |
-
-| Ahom 1828 | Ahom 1815 | Correct year vs **2018 trap year** | अहोम |
-
-| Moplah 1921 | Bardoli 1928 | Malabar tenants (violent phase) vs Gujarat no-tax satyagraha | मोपला / बारडोली |
-
-| Tebhaga | Eka | Bengal 1946 share 2/3 vs Awadh 1921–22 rent receipts | तेभागा / एका |
-
-| AITUC 1920 | INTUC 1947 | CPI stream vs Congress labour wing | एटक / इंटक |
-
-| UTUC | CITU | UPPCS maps UTUC â†’ CPI(M); CITU is the real CPI(M) centre (1970) | à¤¯à¥‚à¤Ÿà¥€à¤¯à¥‚à¤¸à¥€ / à¤¸à¥€à¤Ÿà¥‚ |
-
-| Dwivedi | Baba Ramchandra | UP Kisan Sabha **1918** founder tag vs Awadh peasant mobiliser | द्विवेदी / बाबा रामचंद्र |
-
-| Bareilly 1816 | Bareilly 1857 | Mufti Muhammad Aiwaz vs Khan Bahadur Khan | बरेली |
-
-| Bonded labour | Wage labour | Debt-tied unfree work vs paid factory / mill labour | बंधुआ मजदूरी / मजदूरी |
-
-| Tebhaga 1946–47 | Telangana 1946–51 | Bengal sharecrop share-demand vs Hyderabad armed anti-*jagirdar* struggle | तेभागा / तेलंगाना |
-
-| Eka 1921–22 | Awadh Kisan Sabha ~1920 | Madari Pasi's rent-receipt oath vs Baba Ramchandra's broader mobilisation | एका / अवध |
-
----
-
 ## Consolidated — 30 Must-Score Facts
 
 1. Hold three streams: **peasant** (rent, indigo, share), **tribal** (land–forest–*diku*), and **labour** (unions and wages). Method can overlap; the target of protest does not.
@@ -117,6 +81,126 @@ Peasant Movements | Peasant Revolts | Leaders | Tribal Revolts | Tribal Leaders 
 29. **Thakkar Bapa** popularised the word **Adivasi**; **Jadonang** is tagged as the first Gandhi-inspired Naga tribal leader; **N.M. Lokhande** pioneered organised mill labour.
 
 30. After Santhal Hul: **Santhal Parganas** + ban on transfer of Santhal land to non-Santhals. Indigo faded in the early twentieth century mainly because of **synthetic dyes**.
+
+---
+
+## Confused Pairs
+
+| A | B | Difference | Hindi |
+
+|---|----|------------|-------|
+
+| Peasant revolt | Tribal revolt | Rent / indigo / zamindar of settled cultivators vs land–forest–*diku* in tribal belts | किसान / जनजातीय |
+
+| Indigo 1859–60 | Pabna 1873–85 | European planters vs zamindar rent-hikes | नील / पाबना |
+
+| Santhal 1855 | Munda Ulgulan 1899–1900 | Sidhu–Kanhu vs Birsa Munda | संथाल / मुंडा |
+
+| Kol 1831 | Khasi 1829 | Chotanagpur vs Meghalaya hills (Tirut Singh) | कोल / खासी |
+
+| Ahom 1828 | Ahom 1815 | Correct year vs **2018 trap year** | अहोम |
+
+| Moplah 1921 | Bardoli 1928 | Malabar tenants (violent phase) vs Gujarat no-tax satyagraha | मोपला / बारडोली |
+
+| Tebhaga | Eka | Bengal 1946 share 2/3 vs Awadh 1921–22 rent receipts | तेभागा / एका |
+
+| AITUC 1920 | INTUC 1947 | CPI stream vs Congress labour wing | एटक / इंटक |
+
+| UTUC | CITU | UPPCS maps UTUC â†’ CPI(M); CITU is the real CPI(M) centre (1970) | à¤¯à¥‚à¤Ÿà¥€à¤¯à¥‚à¤¸à¥€ / à¤¸à¥€à¤Ÿà¥‚ |
+
+| Dwivedi | Baba Ramchandra | UP Kisan Sabha **1918** founder tag vs Awadh peasant mobiliser | द्विवेदी / बाबा रामचंद्र |
+
+| Bareilly 1816 | Bareilly 1857 | Mufti Muhammad Aiwaz vs Khan Bahadur Khan | बरेली |
+
+| Bonded labour | Wage labour | Debt-tied unfree work vs paid factory / mill labour | बंधुआ मजदूरी / मजदूरी |
+
+| Tebhaga 1946–47 | Telangana 1946–51 | Bengal sharecrop share-demand vs Hyderabad armed anti-*jagirdar* struggle | तेभागा / तेलंगाना |
+
+| Eka 1921–22 | Awadh Kisan Sabha ~1920 | Madari Pasi's rent-receipt oath vs Baba Ramchandra's broader mobilisation | एका / अवध |
+
+---
+
+## Must-score facts — revolt â†” leader â†” year
+
+### Peasant / tribal revolt fact table
+
+| Revolt | Year | Leader | Region |
+
+|--------|------|--------|--------|
+
+| Sanyasi–Fakir | ~1763–1800 | Majnu Shah, Bhawani Pathak | Bengal–Bihar |
+
+| Paika | 1817 | Jagabandhu Bidyadhar | Odisha |
+
+| Ahom | ~1828 (**not 1815**) | Gomdhar Konwar | Assam |
+
+| Khasi | 1829 | Tirut Singh | Meghalaya |
+
+| Kol | 1831–32 | Buddhu Bhagat | Chotanagpur |
+
+| Santhal | 1855–56 | Sidhu & Kanhu | Rajmahal / Santhal Parganas |
+
+| Indigo | 1859–60 | Digambar & Bishnu Biswas | Bengal (Nadia) |
+
+| Kuka | ~1872 | Baba Ram Singh | Punjab |
+
+| Pabna | 1873–85 | Ishan Chandra Roy | Bengal |
+
+| Deccan Riots | 1875 | crowds vs *sahukars* | Poona–Ahmednagar |
+
+| Munda Ulgulan | 1899–1900 | Birsa Munda | Chotanagpur |
+
+| Tana Bhagat | 1914 | Jatra Oraon | Chotanagpur |
+
+| Champaran | 1917 | M.K. Gandhi | Bihar |
+
+| Kheda | 1918 | Gandhi, Patel | Gujarat |
+
+| UP Kisan Sabha | 1918 | Indra Narayan Dwivedi | Lucknow |
+
+| Oudh Kisan Sabha | Oct 1920 | Baba Ramchandra | Pratapgarh |
+
+| Moplah | 1921 | Ali Musliyar, Variyamkunnath | Malabar |
+
+| Eka | 1921–22 | Madari Pasi | Awadh |
+
+| Rampa / Manyam | 1922–24 | Alluri Sitarama Raju | East Godavari |
+
+| AIKS | 1936 | Swami Sahajanand Saraswati | Lucknow session |
+
+| Bardoli | 1928 | Vallabhbhai Patel | Gujarat |
+
+| Tebhaga | 1946–47 | Bengal Kisan Sabha / CPI | North Bengal |
+
+| **Telangana** | **1946–51** | Sundarayya, Ravi Narayan Reddy (CPI-led) | Hyderabad State |
+
+### Labour body ↔ tag (founding facts only — full politics in Topic 12)
+
+| Body | Year | Tag |
+
+|------|------|-----|
+
+| Madras Labour Union | 1918 | V.P. Wadia |
+
+| ILO Washington rep | 1919 | N.M. Joshi |
+
+| AITUC | 1920 | Lala Lajpat Rai first president; UPPCS maps â†’ CPI |
+
+| INTUC | 1947 | Congress |
+
+| UTUC | 1949 | UPPCS maps â†’ CPI(M) |
+
+| BMS | 1955 | Dattopant Thengadi; BJP/RSS |
+
+### One-home rule (do not duplicate)
+
+- **AITUC / union founding facts** = home here (Topic 8). **Workers and Peasants Party, Congress Socialist Party, and deeper left-labour party politics** = home in **Topic 12**.
+
+- **Telangana** = home here as a **peasant-stream** movement. Its constitutional/integration angle (Police Action, Hyderabad's accession) is a **Topic 15 (Post-Independence)** cross-reference, not repeated here.
+
+- **Champaran / Kheda / Bardoli satyagraha mechanics** = home here. Gandhi's **broader constructive programme** = home in Topic 13.
+
+> **Logic:** If the stem says **Nizam / Razakars / dalams**, fact **Telangana 1946–51**, closing on the **CPI's 1951 withdrawal**, not the 1948 Police Action.
 
 ---
 
@@ -1523,90 +1607,6 @@ Local `pyq/2022` option strings do not list `4 1 3 2` (OCR/set mismatch). Learn 
 | Eka 1921–22 | Madari Pasi; Hardoi–Bahraich–Sitapur |
 
 | Awadh begar / bedakhli | Core tenant grievances |
-
----
-
-## Must-score facts — revolt â†” leader â†” year
-
-### Peasant / tribal revolt fact table
-
-| Revolt | Year | Leader | Region |
-
-|--------|------|--------|--------|
-
-| Sanyasi–Fakir | ~1763–1800 | Majnu Shah, Bhawani Pathak | Bengal–Bihar |
-
-| Paika | 1817 | Jagabandhu Bidyadhar | Odisha |
-
-| Ahom | ~1828 (**not 1815**) | Gomdhar Konwar | Assam |
-
-| Khasi | 1829 | Tirut Singh | Meghalaya |
-
-| Kol | 1831–32 | Buddhu Bhagat | Chotanagpur |
-
-| Santhal | 1855–56 | Sidhu & Kanhu | Rajmahal / Santhal Parganas |
-
-| Indigo | 1859–60 | Digambar & Bishnu Biswas | Bengal (Nadia) |
-
-| Kuka | ~1872 | Baba Ram Singh | Punjab |
-
-| Pabna | 1873–85 | Ishan Chandra Roy | Bengal |
-
-| Deccan Riots | 1875 | crowds vs *sahukars* | Poona–Ahmednagar |
-
-| Munda Ulgulan | 1899–1900 | Birsa Munda | Chotanagpur |
-
-| Tana Bhagat | 1914 | Jatra Oraon | Chotanagpur |
-
-| Champaran | 1917 | M.K. Gandhi | Bihar |
-
-| Kheda | 1918 | Gandhi, Patel | Gujarat |
-
-| UP Kisan Sabha | 1918 | Indra Narayan Dwivedi | Lucknow |
-
-| Oudh Kisan Sabha | Oct 1920 | Baba Ramchandra | Pratapgarh |
-
-| Moplah | 1921 | Ali Musliyar, Variyamkunnath | Malabar |
-
-| Eka | 1921–22 | Madari Pasi | Awadh |
-
-| Rampa / Manyam | 1922–24 | Alluri Sitarama Raju | East Godavari |
-
-| AIKS | 1936 | Swami Sahajanand Saraswati | Lucknow session |
-
-| Bardoli | 1928 | Vallabhbhai Patel | Gujarat |
-
-| Tebhaga | 1946–47 | Bengal Kisan Sabha / CPI | North Bengal |
-
-| **Telangana** | **1946–51** | Sundarayya, Ravi Narayan Reddy (CPI-led) | Hyderabad State |
-
-### Labour body ↔ tag (founding facts only — full politics in Topic 12)
-
-| Body | Year | Tag |
-
-|------|------|-----|
-
-| Madras Labour Union | 1918 | V.P. Wadia |
-
-| ILO Washington rep | 1919 | N.M. Joshi |
-
-| AITUC | 1920 | Lala Lajpat Rai first president; UPPCS maps â†’ CPI |
-
-| INTUC | 1947 | Congress |
-
-| UTUC | 1949 | UPPCS maps â†’ CPI(M) |
-
-| BMS | 1955 | Dattopant Thengadi; BJP/RSS |
-
-### One-home rule (do not duplicate)
-
-- **AITUC / union founding facts** = home here (Topic 8). **Workers and Peasants Party, Congress Socialist Party, and deeper left-labour party politics** = home in **Topic 12**.
-
-- **Telangana** = home here as a **peasant-stream** movement. Its constitutional/integration angle (Police Action, Hyderabad's accession) is a **Topic 15 (Post-Independence)** cross-reference, not repeated here.
-
-- **Champaran / Kheda / Bardoli satyagraha mechanics** = home here. Gandhi's **broader constructive programme** = home in Topic 13.
-
-> **Logic:** If the stem says **Nizam / Razakars / dalams**, fact **Telangana 1946–51**, closing on the **CPI's 1951 withdrawal**, not the 1948 Police Action.
 
 ---
 

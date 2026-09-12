@@ -32,6 +32,45 @@ Oceans & Seas | Ocean Floor | Trenches | Ocean Currents (Warm & Cold) | Temperat
 ---
 
 
+## Consolidated — 34 Must-Score Facts
+
+1. By area the oceans rank **Pacific > Atlantic > Indian > Southern > Arctic**. The Indian Ocean was the Greek **Erythraean Sea** and straddles **both sides of the Equator**.
+2. Ocean-floor order from the shore is **shelf → slope → rise (or trench) → abyssal plain**. A **guyot** is a flat-topped seamount. The continental shelf is shallow (about **200 m**), rich in fish and oil, and covers roughly **7.5%** of the ocean floor.
+3. India’s **west shelf is wider than the east**. The Gujarat–Mumbai belt is widest and holds **Bombay High**. The east shelf is narrower but carries large delta fans.
+4. The **Telegraphic Plateau** is part of the **North Atlantic Ridge**, not a separate land plateau.
+5. Trench–ocean pairs: **Mariana–Pacific**, **Puerto Rico–Atlantic**, **Sunda/Java–Indian**, and **Molloy–Arctic**.
+6. **Agulhas** and **Brazil** are **warm** currents. **Humboldt (Peru)** and **California** are **cold**. Do not mark Agulhas or Brazil as cold.
+7. The **Benguela** is an **Atlantic** cold current off south-west Africa. It is **not** a Pacific current.
+8. Among classic MCQ options, the current linked to the **Indian Ocean** is the **Agulhas**.
+9. **El Niño** sends warm water off Peru, weakens upwelling, and cuts plankton and fish catch.
+10. Open-ocean **salinity** is about **35‰**. The maximum sits near the **Tropics of Cancer and Capricorn**, not on the Equator. The **Red Sea** is high; the **Baltic** is low.
+11. Seawater density rises when water is **colder** and **saltier**. Cold salty water sinks and drives the **thermohaline** circulation. **NaCl** is about **77%** of dissolved salts.
+12. Surface temperature peaks near the equator. The **thermocline** lies roughly **300–1000 m**. Deep water is cold in every ocean.
+13. A **spring tide** forms at **syzygy** (new/full moon) and is **large**. A **neap tide** forms at **quadrature** and is **small**. The tidal period is about **12 h 25 min**, not 12 h 30.
+14. A **tidal bore** is famous on the **Hooghly** and the **Amazon**. The **Bay of Fundy** has the world’s greatest tidal range. India’s tidal-energy coast fact is the **Gulf of Khambhat**.
+15. **Upwelling** is strongest on **west coasts**: Peru, California, Canary, Benguela, and Somalia.
+16. **Constructive** waves build beaches; **destructive** waves erode them. A **tsunami** is not a tide.
+17. Ocean currents shape climate (mild or foggy coasts, west-coast deserts), concentrate fish where warm and cold meet or upwelling occurs, and affect navigation routes.
+18. Deepest deposit is **red clay**. **Globigerina** and **pteropod** oozes are **calcareous**. **Diatom** and **radiolarian** oozes are **siliceous**. **Manganese nodules** sit on abyssal plains, especially in the Pacific and the Central Indian Ocean Basin.
+19. The **Suez Canal** (Egypt, **1869**) joins the **Mediterranean** and the **Red Sea**. It is a **sea-level** cut — ships stay at one water height and do **not** climb stepped chambers. Lakes north→south: **Manzala → Timsah → Great Bitter → Little Bitter**. Ends: **Port Said** (N) and **Suez** (S). India–Europe sea route is shorter by about **7000 km**. It does **not** itself touch the Atlantic or the open Indian Ocean.
+20. The **Panama Canal** (**1914**) joins the **Atlantic/Caribbean** and the **Pacific**. Ships **climb stepped chambers** and use **Gatun Lake** to cross the isthmus. The **Kiel Canal** (Germany) joins the **North Sea** and the **Baltic**.
+21. UNCLOS belts: **territorial sea 12 nm**, **contiguous zone 24 nm**, **EEZ 200 nm**. The continental shelf starts at **200 nm** and may extend to **350 nm**.
+22. Classic fishery centres: **Grand Banks** (Labrador meets Gulf Stream), **Dogger Bank**, Peru upwelling, and the **Kuroshio–Oyashio** mix.
+23. India’s **operational** Antarctic stations are **Maitri** and **Bharati**. **Dakshin Gangotri** is not the operational pair. **Himadri** is India’s **Arctic** station, not Antarctic.
+24. The **Antarctic Treaty** dates to **1959/61**. India joined in **1983**. India is an **observer** in the Arctic Council.
+25. Key straits: **Hormuz** (Persian Gulf ↔ Gulf of Oman; **Iran north / Oman south**; ~**25%** seaborne oil), **Malacca**, **Gibraltar**, **Bering**, **Bab-el-Mandeb**, **Palk**, and the **10° Channel**. Persian Gulf coasts = Iran, Iraq, Kuwait, Saudi Arabia, Bahrain, Qatar, UAE — **not Oman**.
+26. The **Carlsberg Ridge** lies in the north-west Indian Ocean. The **Ninetyeast Ridge** is not the Mid-Atlantic Ridge.
+27. The International Seabed Authority manages the seabed **Area** beyond national zones (HQ Jamaica). India’s inland waterway **NW-1** is the **Ganga** from Haldia to Prayagraj.
+28. **Drake Passage** is not the Strait of Magellan. Panama opened in **1914** with stepped chambers; Suez opened in **1869** as a sea-level cut.
+29. Hydrosphere ≈ **71%** of Earth. Usable fresh ≈ **<1%** of all water. Of fresh water, ice ≫ groundwater ≫ rivers/lakes.
+30. **Datum line** = mean-sea-level height/depth zero. Abyssal plains ≈ most extensive ocean-floor province (~**76%**).
+31. **Sargasso** = North Atlantic, **no coast**. **Red Sea** = axial trough. **NAD** = Blanket of Europe. **OMT** (26°C isotherm) helps monsoon rainfall forecast.
+32. Lake salinity pairs: Assal / Van / Dead Sea / Great Salt Lake. **Halocline** = salinity gradient with depth. **Diamantina** = Indian Ocean.
+33. Türkiye clock: **N = Black**, **S = Mediterranean**, **W = Aegean**, **NW = Marmara**. West→east ladder: **Mediterranean → Black → Caspian → Aral** (“My Black Cat Ate”).
+34. **Gaza** faces the **Mediterranean**. Baltic coasts = Denmark, Germany, Poland, Lithuania, Latvia, Estonia, Russia, Finland, Sweden — **not Norway**. **Jordan** has no Mediterranean coast (only **Aqaba** / Red Sea).
+
+---
+
 ## Confused Pairs
 
 | Pair | Correct | Trap | Hindi |
@@ -86,45 +125,6 @@ Oceans & Seas | Ocean Floor | Trenches | Ocean Currents (Warm & Cold) | Temperat
 | Gaza water | **Mediterranean** | Red / Dead Sea as coast | गाजा |
 
 ---
-
----
-
-## Consolidated — 34 Must-Score Facts
-
-1. By area the oceans rank **Pacific > Atlantic > Indian > Southern > Arctic**. The Indian Ocean was the Greek **Erythraean Sea** and straddles **both sides of the Equator**.
-2. Ocean-floor order from the shore is **shelf → slope → rise (or trench) → abyssal plain**. A **guyot** is a flat-topped seamount. The continental shelf is shallow (about **200 m**), rich in fish and oil, and covers roughly **7.5%** of the ocean floor.
-3. India’s **west shelf is wider than the east**. The Gujarat–Mumbai belt is widest and holds **Bombay High**. The east shelf is narrower but carries large delta fans.
-4. The **Telegraphic Plateau** is part of the **North Atlantic Ridge**, not a separate land plateau.
-5. Trench–ocean pairs: **Mariana–Pacific**, **Puerto Rico–Atlantic**, **Sunda/Java–Indian**, and **Molloy–Arctic**.
-6. **Agulhas** and **Brazil** are **warm** currents. **Humboldt (Peru)** and **California** are **cold**. Do not mark Agulhas or Brazil as cold.
-7. The **Benguela** is an **Atlantic** cold current off south-west Africa. It is **not** a Pacific current.
-8. Among classic MCQ options, the current linked to the **Indian Ocean** is the **Agulhas**.
-9. **El Niño** sends warm water off Peru, weakens upwelling, and cuts plankton and fish catch.
-10. Open-ocean **salinity** is about **35‰**. The maximum sits near the **Tropics of Cancer and Capricorn**, not on the Equator. The **Red Sea** is high; the **Baltic** is low.
-11. Seawater density rises when water is **colder** and **saltier**. Cold salty water sinks and drives the **thermohaline** circulation. **NaCl** is about **77%** of dissolved salts.
-12. Surface temperature peaks near the equator. The **thermocline** lies roughly **300–1000 m**. Deep water is cold in every ocean.
-13. A **spring tide** forms at **syzygy** (new/full moon) and is **large**. A **neap tide** forms at **quadrature** and is **small**. The tidal period is about **12 h 25 min**, not 12 h 30.
-14. A **tidal bore** is famous on the **Hooghly** and the **Amazon**. The **Bay of Fundy** has the world’s greatest tidal range. India’s tidal-energy coast fact is the **Gulf of Khambhat**.
-15. **Upwelling** is strongest on **west coasts**: Peru, California, Canary, Benguela, and Somalia.
-16. **Constructive** waves build beaches; **destructive** waves erode them. A **tsunami** is not a tide.
-17. Ocean currents shape climate (mild or foggy coasts, west-coast deserts), concentrate fish where warm and cold meet or upwelling occurs, and affect navigation routes.
-18. Deepest deposit is **red clay**. **Globigerina** and **pteropod** oozes are **calcareous**. **Diatom** and **radiolarian** oozes are **siliceous**. **Manganese nodules** sit on abyssal plains, especially in the Pacific and the Central Indian Ocean Basin.
-19. The **Suez Canal** (Egypt, **1869**) joins the **Mediterranean** and the **Red Sea**. It is a **sea-level** cut — ships stay at one water height and do **not** climb stepped chambers. Lakes north→south: **Manzala → Timsah → Great Bitter → Little Bitter**. Ends: **Port Said** (N) and **Suez** (S). India–Europe sea route is shorter by about **7000 km**. It does **not** itself touch the Atlantic or the open Indian Ocean.
-20. The **Panama Canal** (**1914**) joins the **Atlantic/Caribbean** and the **Pacific**. Ships **climb stepped chambers** and use **Gatun Lake** to cross the isthmus. The **Kiel Canal** (Germany) joins the **North Sea** and the **Baltic**.
-21. UNCLOS belts: **territorial sea 12 nm**, **contiguous zone 24 nm**, **EEZ 200 nm**. The continental shelf starts at **200 nm** and may extend to **350 nm**.
-22. Classic fishery centres: **Grand Banks** (Labrador meets Gulf Stream), **Dogger Bank**, Peru upwelling, and the **Kuroshio–Oyashio** mix.
-23. India’s **operational** Antarctic stations are **Maitri** and **Bharati**. **Dakshin Gangotri** is not the operational pair. **Himadri** is India’s **Arctic** station, not Antarctic.
-24. The **Antarctic Treaty** dates to **1959/61**. India joined in **1983**. India is an **observer** in the Arctic Council.
-25. Key straits: **Hormuz** (Persian Gulf ↔ Gulf of Oman; **Iran north / Oman south**; ~**25%** seaborne oil), **Malacca**, **Gibraltar**, **Bering**, **Bab-el-Mandeb**, **Palk**, and the **10° Channel**. Persian Gulf coasts = Iran, Iraq, Kuwait, Saudi Arabia, Bahrain, Qatar, UAE — **not Oman**.
-26. The **Carlsberg Ridge** lies in the north-west Indian Ocean. The **Ninetyeast Ridge** is not the Mid-Atlantic Ridge.
-27. The International Seabed Authority manages the seabed **Area** beyond national zones (HQ Jamaica). India’s inland waterway **NW-1** is the **Ganga** from Haldia to Prayagraj.
-28. **Drake Passage** is not the Strait of Magellan. Panama opened in **1914** with stepped chambers; Suez opened in **1869** as a sea-level cut.
-29. Hydrosphere ≈ **71%** of Earth. Usable fresh ≈ **<1%** of all water. Of fresh water, ice ≫ groundwater ≫ rivers/lakes.
-30. **Datum line** = mean-sea-level height/depth zero. Abyssal plains ≈ most extensive ocean-floor province (~**76%**).
-31. **Sargasso** = North Atlantic, **no coast**. **Red Sea** = axial trough. **NAD** = Blanket of Europe. **OMT** (26°C isotherm) helps monsoon rainfall forecast.
-32. Lake salinity pairs: Assal / Van / Dead Sea / Great Salt Lake. **Halocline** = salinity gradient with depth. **Diamantina** = Indian Ocean.
-33. Türkiye clock: **N = Black**, **S = Mediterranean**, **W = Aegean**, **NW = Marmara**. West→east ladder: **Mediterranean → Black → Caspian → Aral** (“My Black Cat Ate”).
-34. **Gaza** faces the **Mediterranean**. Baltic coasts = Denmark, Germany, Poland, Lithuania, Latvia, Estonia, Russia, Finland, Sweden — **not Norway**. **Jordan** has no Mediterranean coast (only **Aqaba** / Red Sea).
 
 ---
 

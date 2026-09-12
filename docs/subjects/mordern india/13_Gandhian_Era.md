@@ -15,33 +15,6 @@ Gandhi early life | Gandhi in South Africa | Gandhian Ideology | Father of Natio
 
 ---
 
-## Confused Pairs
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Phoenix Ashram 1904 | Sabarmati Ashram | Oldest (South Africa) vs Ahmedabad bank ashram after 1917 move | फीनिक्स / साबरमती |
-| Father of the Nation (Bose) | Mahatma (Tagore) | Azad Hind Radio 1944 title vs Champaran-era honorific | राष्ट्रपिता / महात्मा |
-| Satyagraha | Passive resistance | Truth-force aiming at conversion vs mere obstruction | सत्याग्रह / निष्क्रिय प्रतिरोध |
-| Champaran aides | N.G. Ranga / JP / Lohia | Prasad–Kripalani circle vs common “not connected / opposed” distractors | चंपारण सहयोगी |
-| Vaikom Satyagraha | Temple-entry Acts later | 1924–25 Travancore road/temple-entry struggle vs later legal temple-entry statutes | वैकोम / मंदिर प्रवेश |
-| NCM 1920–22 | CDM 1930–34 | Boycott titles/schools/courts vs salt and civil-law defiance | असहयोग / सविनय अवज्ञा |
-| Khilafat | NCM | Caliphate issue of Indian Muslims vs Congress mass boycott (joined 1920–22) | खिलाफत / असहयोग |
-| No-changers | Pro-changers (Swarajists) | Gaya 1922: stay out, constructive work only vs enter councils and obstruct from inside | नो-चेंजर / प्रो-चेंजर |
-| Nehru Report | Jinnah's 14 Points | 1928 dominion draft vs Muslim League's counter-demands, 1929 | नेहरू रिपोर्ट / 14 सूत्र |
-| Gandhi's 11 Points | Jinnah's 14 Points | Jan 1930 ultimatum to Irwin (economic + political demands) vs 1929 League charter | 11 सूत्र / 14 सूत्र |
-| Dominion status | Purna Swaraj | Self-govt within Empire vs complete independence (Lahore 1929) | डोमिनियन / पूर्ण स्वराज |
-| Gandhi–Irwin Pact | Poona Pact | Mar 1931 Congress–Viceroy truce vs Sep 1932 reserved-seats deal | गांधी-इरविन / पूना पैक्ट |
-| Communal Award | Poona Pact | Separate electorates for Depressed Classes vs reserved seats in joint electorates | सांप्रदायिक पंचाट / पूना पैक्ट |
-| Tagore knighthood | Sankaran Nair | Returned title vs resigned Viceroy's Executive Council | टैगोर / शंकरन नायर |
-| Hunter Committee 1919 | Hunter Commission 1882 | Jallianwala firing inquiry (Lord William Hunter) vs W.W. Hunter's education commission | हंटर कमेटी 1919 / हंटर आयोग 1882 |
-| 1st RTC | 2nd RTC | 1930 Congress absent vs 1931 Gandhi sole Congress representative | प्रथम / द्वितीय गोलमेज |
-| Champaran | Kheda | 1917 indigo Bihar vs 1918 revenue Gujarat | चंपारण / खेड़ा |
-| Chauri Chaura | Dandi | 1922 NCM withdrawal vs 1930 CDM launch | चौरी चौरा / दांडी |
-| August Offer 1940 | Cripps Mission 1942 | Linlithgow's dominion-after-war + minority veto vs Cripps's Constituent Assembly + provincial opt-out | अगस्त प्रस्ताव / क्रिप्स मिशन |
-| Individual Satyagraha 1940 | Civil Disobedience 1930–34 | One person at a time, symbolic vs mass nationwide defiance | व्यक्तिगत सत्याग्रह / सविनय अवज्ञा |
-
----
-
 ## Consolidated — 42 Must-Score Facts
 
 1. Gandhi founded the **Natal Indian Congress (1894)**, ran ***Indian Opinion***, and wrote ***Hind Swaraj* (1909)** before returning to India in **1915**. **Gokhale** was his political guru.
@@ -86,6 +59,75 @@ Gandhi early life | Gandhi in South Africa | Gandhian Ideology | Father of Natio
 40. **Batak Mian** saved Gandhi from poison at Champaran. **N.G. Ranga** opposed Champaran; **Jai Prakash Narayan / Ram Manohar Lohia** are common “not connected” distractors.
 41. Associates: **Jamnalal Bajaj** (Congress treasurer, fifth son tag); **C.F. Andrews = Dinbandhu**; **Pyarelal** (Noakhali secretary). **Yerawada** jail he called **Mandir**.
 42. At Independence Gandhi was **not** a formal Congress member (resigned **1934**). Mountbatten’s **one-man boundary force** tribute refers to Gandhi in Bengal. Nehru’s death line: **“the light has gone out of our lives.”**
+
+---
+
+## Confused Pairs
+
+| A | B | Difference | Hindi |
+|---|----|------------|-------|
+| Phoenix Ashram 1904 | Sabarmati Ashram | Oldest (South Africa) vs Ahmedabad bank ashram after 1917 move | फीनिक्स / साबरमती |
+| Father of the Nation (Bose) | Mahatma (Tagore) | Azad Hind Radio 1944 title vs Champaran-era honorific | राष्ट्रपिता / महात्मा |
+| Satyagraha | Passive resistance | Truth-force aiming at conversion vs mere obstruction | सत्याग्रह / निष्क्रिय प्रतिरोध |
+| Champaran aides | N.G. Ranga / JP / Lohia | Prasad–Kripalani circle vs common “not connected / opposed” distractors | चंपारण सहयोगी |
+| Vaikom Satyagraha | Temple-entry Acts later | 1924–25 Travancore road/temple-entry struggle vs later legal temple-entry statutes | वैकोम / मंदिर प्रवेश |
+| NCM 1920–22 | CDM 1930–34 | Boycott titles/schools/courts vs salt and civil-law defiance | असहयोग / सविनय अवज्ञा |
+| Khilafat | NCM | Caliphate issue of Indian Muslims vs Congress mass boycott (joined 1920–22) | खिलाफत / असहयोग |
+| No-changers | Pro-changers (Swarajists) | Gaya 1922: stay out, constructive work only vs enter councils and obstruct from inside | नो-चेंजर / प्रो-चेंजर |
+| Nehru Report | Jinnah's 14 Points | 1928 dominion draft vs Muslim League's counter-demands, 1929 | नेहरू रिपोर्ट / 14 सूत्र |
+| Gandhi's 11 Points | Jinnah's 14 Points | Jan 1930 ultimatum to Irwin (economic + political demands) vs 1929 League charter | 11 सूत्र / 14 सूत्र |
+| Dominion status | Purna Swaraj | Self-govt within Empire vs complete independence (Lahore 1929) | डोमिनियन / पूर्ण स्वराज |
+| Gandhi–Irwin Pact | Poona Pact | Mar 1931 Congress–Viceroy truce vs Sep 1932 reserved-seats deal | गांधी-इरविन / पूना पैक्ट |
+| Communal Award | Poona Pact | Separate electorates for Depressed Classes vs reserved seats in joint electorates | सांप्रदायिक पंचाट / पूना पैक्ट |
+| Tagore knighthood | Sankaran Nair | Returned title vs resigned Viceroy's Executive Council | टैगोर / शंकरन नायर |
+| Hunter Committee 1919 | Hunter Commission 1882 | Jallianwala firing inquiry (Lord William Hunter) vs W.W. Hunter's education commission | हंटर कमेटी 1919 / हंटर आयोग 1882 |
+| 1st RTC | 2nd RTC | 1930 Congress absent vs 1931 Gandhi sole Congress representative | प्रथम / द्वितीय गोलमेज |
+| Champaran | Kheda | 1917 indigo Bihar vs 1918 revenue Gujarat | चंपारण / खेड़ा |
+| Chauri Chaura | Dandi | 1922 NCM withdrawal vs 1930 CDM launch | चौरी चौरा / दांडी |
+| August Offer 1940 | Cripps Mission 1942 | Linlithgow's dominion-after-war + minority veto vs Cripps's Constituent Assembly + provincial opt-out | अगस्त प्रस्ताव / क्रिप्स मिशन |
+| Individual Satyagraha 1940 | Civil Disobedience 1930–34 | One person at a time, symbolic vs mass nationwide defiance | व्यक्तिगत सत्याग्रह / सविनय अवज्ञा |
+
+---
+
+## Must-score chronology facts
+
+### Year ↔ event fact
+
+| Year | Facts |
+|------|-------|
+| 1917 | Champaran |
+| 1918 | Kheda; Ahmedabad mill strike |
+| 1919 | Rowlatt Act; Jallianwala Bagh (13 Apr); Hunter Committee |
+| 1920 | NCM launched (Calcutta Sep; Nagpur Dec) |
+| 1922 | Chauri Chaura (Feb); Gaya session (Dec) |
+| 1923 | Swaraj Party (Jan) |
+| 1924 | Belgaum Congress (Gandhi president); Vaikom begins |
+| 1925 | Vaikom continues; C.R. Das dies |
+| 1927 | Simon Commission appointed (Nov) |
+| 1928 | Nehru Report; Simon tours India |
+| 1929 | Sharda Act; Lahore session, Purna Swaraj (Dec); Jinnah's 14 Points |
+| 1930 | Eleven Points (Jan); 26 Jan pledge; Dandi (Mar–Apr); 1st RTC |
+| 1931 | Gandhi–Irwin Pact (5 Mar); Karachi session; 2nd RTC (Sep–Dec) |
+| 1932 | Communal Award (16 Aug); Poona Pact (24 Sep); 3rd RTC |
+| 1934 | CDM withdrawn (Apr) |
+| 1937 | Wardha Conference, Nai Talim |
+| 1940 | August Offer (Aug); Individual Satyagraha (Oct) |
+
+### Same-year traps
+
+| Year | Two events not to merge |
+|------|--------------------------|
+| 1919 | Rowlatt Act (no-trial law) **≠** Government of India Act 1919 (dyarchy) |
+| 1919 | Hunter Committee (Jallianwala inquiry) **≠** Hunter Commission 1882 (education — a different year entirely) |
+| 1922 | Chauri Chaura (Feb, NCM ends) **≠** Gaya session (Dec, council-entry split) |
+| 1930 | Eleven Points (Jan, ultimatum) **≠** Dandi (Mar–Apr, action) |
+| 1931 | Gandhi–Irwin Pact (Mar) **≠** 2nd RTC (Sep–Dec) — Pact comes first |
+| 1932 | Communal Award (16 Aug) **≠** Poona Pact (24 Sep) — five weeks apart |
+| 1940 | August Offer (Aug) **≠** Individual Satyagraha (Oct) — offer rejected, then symbolic protest |
+
+### Chronology ladder — drill this order end-to-end
+
+1917 Champaran → 1918 Kheda/Ahmedabad → 1919 Rowlatt → 1919 Jallianwala → 1920 NCM launch → 1922 Chauri Chaura → 1922 Gaya → 1923 Swaraj Party → 1927 Simon → 1928 Nehru Report → 1929 Lahore/Purna Swaraj → 1930 Eleven Points → 1930 Dandi/CDM → 1931 Gandhi–Irwin → 1931 2nd RTC → 1932 Communal Award → 1932 Poona Pact → 1934 CDM ends → 1937 Wardha → 1940 August Offer → 1940 Individual Satyagraha → *(Topic 14: 1942 Cripps/Quit India → 1945–47 endgame)*
 
 ---
 
@@ -867,48 +909,6 @@ D. Neither 1 nor 2
 | Chauri Chaura | **Gorakhpur**, 5 Feb 1922; NCM withdrawn |
 | Ahmedabad / Kheda / Dandi | Gujarat satyagrahas; Dandi is Gujarat coast |
 | Motilal / Swaraj Party | Allahabad Nehrus; Swaraj Party founded at Allahabad, Jan 1923 |
-
----
-
-## Must-score chronology facts
-
-### Year ↔ event fact
-
-| Year | Facts |
-|------|-------|
-| 1917 | Champaran |
-| 1918 | Kheda; Ahmedabad mill strike |
-| 1919 | Rowlatt Act; Jallianwala Bagh (13 Apr); Hunter Committee |
-| 1920 | NCM launched (Calcutta Sep; Nagpur Dec) |
-| 1922 | Chauri Chaura (Feb); Gaya session (Dec) |
-| 1923 | Swaraj Party (Jan) |
-| 1924 | Belgaum Congress (Gandhi president); Vaikom begins |
-| 1925 | Vaikom continues; C.R. Das dies |
-| 1927 | Simon Commission appointed (Nov) |
-| 1928 | Nehru Report; Simon tours India |
-| 1929 | Sharda Act; Lahore session, Purna Swaraj (Dec); Jinnah's 14 Points |
-| 1930 | Eleven Points (Jan); 26 Jan pledge; Dandi (Mar–Apr); 1st RTC |
-| 1931 | Gandhi–Irwin Pact (5 Mar); Karachi session; 2nd RTC (Sep–Dec) |
-| 1932 | Communal Award (16 Aug); Poona Pact (24 Sep); 3rd RTC |
-| 1934 | CDM withdrawn (Apr) |
-| 1937 | Wardha Conference, Nai Talim |
-| 1940 | August Offer (Aug); Individual Satyagraha (Oct) |
-
-### Same-year traps
-
-| Year | Two events not to merge |
-|------|--------------------------|
-| 1919 | Rowlatt Act (no-trial law) **≠** Government of India Act 1919 (dyarchy) |
-| 1919 | Hunter Committee (Jallianwala inquiry) **≠** Hunter Commission 1882 (education — a different year entirely) |
-| 1922 | Chauri Chaura (Feb, NCM ends) **≠** Gaya session (Dec, council-entry split) |
-| 1930 | Eleven Points (Jan, ultimatum) **≠** Dandi (Mar–Apr, action) |
-| 1931 | Gandhi–Irwin Pact (Mar) **≠** 2nd RTC (Sep–Dec) — Pact comes first |
-| 1932 | Communal Award (16 Aug) **≠** Poona Pact (24 Sep) — five weeks apart |
-| 1940 | August Offer (Aug) **≠** Individual Satyagraha (Oct) — offer rejected, then symbolic protest |
-
-### Chronology ladder — drill this order end-to-end
-
-1917 Champaran → 1918 Kheda/Ahmedabad → 1919 Rowlatt → 1919 Jallianwala → 1920 NCM launch → 1922 Chauri Chaura → 1922 Gaya → 1923 Swaraj Party → 1927 Simon → 1928 Nehru Report → 1929 Lahore/Purna Swaraj → 1930 Eleven Points → 1930 Dandi/CDM → 1931 Gandhi–Irwin → 1931 2nd RTC → 1932 Communal Award → 1932 Poona Pact → 1934 CDM ends → 1937 Wardha → 1940 August Offer → 1940 Individual Satyagraha → *(Topic 14: 1942 Cripps/Quit India → 1945–47 endgame)*
 
 ---
 

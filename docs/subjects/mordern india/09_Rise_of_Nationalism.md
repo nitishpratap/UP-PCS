@@ -15,27 +15,6 @@ Political Organisations before INC | Zamindari Association | Bangabhasha Prakash
 
 ---
 
-## Confused Pairs
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Zamindari / Landholders 1838 | Indian Association 1876 | First organised political body (zamindar rights) vs strongest middle-class pre-Congress body | जमींदारी / इंडियन एसोसिएशन |
-| Moderate | Extremist | Petition / faith in British justice vs boycott, Swadeshi, assertive Swaraj | नरम दल / गरम दल |
-| East India Association 1866 | Indian Association 1876 | London, Naoroji vs Calcutta, Banerjee–Bose | ईस्ट इंडिया एसोसिएशन / इंडियन एसोसिएशन |
-| INC 1885 | Indian National Conference | Hume–Bonnerjee Congress vs Banerjee’s 1883/85 all-India meets | कांग्रेस / नेशनल कॉन्फ्रेंस |
-| Tilak | Gokhale | Extremist; **never** INC President vs Moderate; Banaras 1905 President | तिलक / गोखले |
-| Drain Theory | Un-British rule | Wealth outflow vs rule that betrays British liberal ideals | ड्रेन / अन-ब्रिटिश शासन |
-| Surat Split 1907 | Lucknow Pact 1916 | Moderate–Extremist break vs reunion + Congress–League deal | सूरत / लखनऊ |
-| Safety Valve | National awakening | Hume as a British vent vs Indians using Hume for a national forum | सेफ्टी वाल्व |
-| Poona Sarvajanik Sabha 1870 | Bombay Presidency Association 1885 | Deccan public body vs Bombay elite association | पूना सार्वजनिक सभा / बंबई प्रेसीडेंसी |
-| Lucknow Pact 1916 | 1911 Delhi Durbar year | Pact is **1916**; 1911 = Bengal partition revoked + capital to Delhi | लखनऊ पैक्ट |
-| Besant 1917 | Sarojini 1925 | First woman INC President vs first **Indian** woman President | एनी बेसेंट / सरोजिनी |
-| Belgaum 1924 | Lahore 1929 | Only Gandhi President vs Purna Swaraj (Nehru) | बेलगाव / लाहौर |
-| Safety Valve theory | National awakening view | Hume as a British-designed vent for discontent vs Congress as the natural culmination of decades of Indian political work | सेफ्टी वाल्व / राष्ट्रीय जागरण |
-| Lajpat Rai's Mandalay | Tilak's Mandalay | Six-month deportation, 1907 vs six-year sedition sentence, 1908–14 | लाजपत राय / तिलक मंडाले |
-
----
-
 ## Consolidated — 32 Must-Score Facts
 
 1. The **East India Association** was founded in **1866** in **London** by **Dadabhai Naoroji**. It is not the Calcutta Indian Association of 1876.
@@ -70,6 +49,50 @@ Political Organisations before INC | Zamindari Association | Bangabhasha Prakash
 30. **Poona Sarvajanik Sabha** petitioned the **House of Commons in 1875**. **Indian Association** is the strongest pre-Congress all-India-leaning body; Banerjee was dismissed from ICS (**~1874**).
 31. **Lord Dufferin** called Congress a **microscopic minority**. British Committee of INC in London (**1889**, **Wedderburn**) published weekly *India*.
 32. **Valentine Chirol** called Tilak the **Father of Indian Unrest**. Tilak’s **Ganapati / Shivaji** festivals politicised public religion; he wrote *Gita Rahasya* in Mandalay jail.
+
+---
+
+## Confused Pairs
+
+| A | B | Difference | Hindi |
+|---|----|------------|-------|
+| Zamindari / Landholders 1838 | Indian Association 1876 | First organised political body (zamindar rights) vs strongest middle-class pre-Congress body | जमींदारी / इंडियन एसोसिएशन |
+| Moderate | Extremist | Petition / faith in British justice vs boycott, Swadeshi, assertive Swaraj | नरम दल / गरम दल |
+| East India Association 1866 | Indian Association 1876 | London, Naoroji vs Calcutta, Banerjee–Bose | ईस्ट इंडिया एसोसिएशन / इंडियन एसोसिएशन |
+| INC 1885 | Indian National Conference | Hume–Bonnerjee Congress vs Banerjee’s 1883/85 all-India meets | कांग्रेस / नेशनल कॉन्फ्रेंस |
+| Tilak | Gokhale | Extremist; **never** INC President vs Moderate; Banaras 1905 President | तिलक / गोखले |
+| Drain Theory | Un-British rule | Wealth outflow vs rule that betrays British liberal ideals | ड्रेन / अन-ब्रिटिश शासन |
+| Surat Split 1907 | Lucknow Pact 1916 | Moderate–Extremist break vs reunion + Congress–League deal | सूरत / लखनऊ |
+| Safety Valve | National awakening | Hume as a British vent vs Indians using Hume for a national forum | सेफ्टी वाल्व |
+| Poona Sarvajanik Sabha 1870 | Bombay Presidency Association 1885 | Deccan public body vs Bombay elite association | पूना सार्वजनिक सभा / बंबई प्रेसीडेंसी |
+| Lucknow Pact 1916 | 1911 Delhi Durbar year | Pact is **1916**; 1911 = Bengal partition revoked + capital to Delhi | लखनऊ पैक्ट |
+| Besant 1917 | Sarojini 1925 | First woman INC President vs first **Indian** woman President | एनी बेसेंट / सरोजिनी |
+| Belgaum 1924 | Lahore 1929 | Only Gandhi President vs Purna Swaraj (Nehru) | बेलगाव / लाहौर |
+| Safety Valve theory | National awakening view | Hume as a British-designed vent for discontent vs Congress as the natural culmination of decades of Indian political work | सेफ्टी वाल्व / राष्ट्रीय जागरण |
+| Lajpat Rai's Mandalay | Tilak's Mandalay | Six-month deportation, 1907 vs six-year sedition sentence, 1908–14 | लाजपत राय / तिलक मंडाले |
+
+---
+
+## Must-score facts — 12 must-know INC sessions
+
+Every list-matching or chronology question draws from this spine. Learn **year, place, President, and the one fact** — nothing more is needed for prelims.
+
+| # | Year | Place | President | The one fact |
+|---|------|-------|-----------|---------------|
+| 1 | 1885 | Bombay | **W.C. Bonnerjee** | First session; Hume organised, did not preside |
+| 2 | 1887 | Madras | **Badruddin Tyabji** | First Muslim President |
+| 3 | 1888 | Allahabad | **George Yule** | First English President |
+| 4 | 1905 | Banaras | **G.K. Gokhale** | Moderate stalwart; proof Gokhale **did** preside |
+| 5 | 1906 | Calcutta | **Dadabhai Naoroji** (3rd time) | **Swaraj** adopted as a Congress goal |
+| 6 | 1907 | Surat | Session **broke up**; Ghosh vs Extremists | The **split**, not a normal presidency |
+| 7 | 1916 | Lucknow | **A.C. Majumdar** | Moderate–Extremist **reunion** + **Lucknow Pact** |
+| 8 | 1917 | Calcutta | **Annie Besant** | First **woman** President |
+| 9 | 1924 | Belgaum | **M.K. Gandhi** | Gandhi's **only** INC presidentship |
+| 10 | 1925 | Kanpur | **Sarojini Naidu** | First **Indian** woman President |
+| 11 | 1929 | Lahore | **Jawaharlal Nehru** | **Purna Swaraj** resolution |
+| 12 | 1931 | Karachi | **Vallabhbhai Patel** | **Fundamental Rights** resolution |
+
+> **Logic:** If a question gives four sessions and asks for the **odd one out** or a chronology, these twelve cover almost every UPPCS angle seen 2018–2025. Sessions after 1931 (Faizpur, Haripura, Tripuri, Ramgarh) belong with the Gandhian-era and final-phase topics but are listed here too (see 9.4) for completeness.
 
 ---
 
@@ -680,29 +703,6 @@ D. 4 3 2 1
 **Ans: A** — Lajpat Rai; Tilak; Banerjee; Azad. Duplicate allowed with Topic 10.
 
 </details>
-
----
-
-## Must-score facts — 12 must-know INC sessions
-
-Every list-matching or chronology question draws from this spine. Learn **year, place, President, and the one fact** — nothing more is needed for prelims.
-
-| # | Year | Place | President | The one fact |
-|---|------|-------|-----------|---------------|
-| 1 | 1885 | Bombay | **W.C. Bonnerjee** | First session; Hume organised, did not preside |
-| 2 | 1887 | Madras | **Badruddin Tyabji** | First Muslim President |
-| 3 | 1888 | Allahabad | **George Yule** | First English President |
-| 4 | 1905 | Banaras | **G.K. Gokhale** | Moderate stalwart; proof Gokhale **did** preside |
-| 5 | 1906 | Calcutta | **Dadabhai Naoroji** (3rd time) | **Swaraj** adopted as a Congress goal |
-| 6 | 1907 | Surat | Session **broke up**; Ghosh vs Extremists | The **split**, not a normal presidency |
-| 7 | 1916 | Lucknow | **A.C. Majumdar** | Moderate–Extremist **reunion** + **Lucknow Pact** |
-| 8 | 1917 | Calcutta | **Annie Besant** | First **woman** President |
-| 9 | 1924 | Belgaum | **M.K. Gandhi** | Gandhi's **only** INC presidentship |
-| 10 | 1925 | Kanpur | **Sarojini Naidu** | First **Indian** woman President |
-| 11 | 1929 | Lahore | **Jawaharlal Nehru** | **Purna Swaraj** resolution |
-| 12 | 1931 | Karachi | **Vallabhbhai Patel** | **Fundamental Rights** resolution |
-
-> **Logic:** If a question gives four sessions and asks for the **odd one out** or a chronology, these twelve cover almost every UPPCS angle seen 2018–2025. Sessions after 1931 (Faizpur, Haripura, Tripuri, Ramgarh) belong with the Gandhian-era and final-phase topics but are listed here too (see 9.4) for completeness.
 
 ---
 

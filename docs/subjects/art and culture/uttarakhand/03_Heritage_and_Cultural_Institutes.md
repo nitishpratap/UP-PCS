@@ -34,6 +34,16 @@
 
 ---
 
+## Must-Score Facts
+
+1. UK WHS pair = Valley of Flowers + Nanda Devi (together).
+2. Kaziranga / Mountain Railways ≠ UK.
+3. Ramman = UNESCO ICH 2009, Garhwal, Bhumiyal Devta.
+4. 1658 + Shyamdas/Hardas + Tasbirdar + Prithvipati Shah → Garhwal painting.
+5. Coldwater Fisheries = **Bhimtal**; Q49 Series B = **C** (Himalaya Ke Barf not his).
+
+---
+
 ## Confused Pairs
 
 | Pair | Key |
@@ -43,16 +53,6 @@
 | Tasbirdar vs mansabdar | Court painter post ≠ Mughal rank |
 | Ramman vs Ramlila | Garhwal UNESCO ritual theatre ≠ plains Ramlila |
 | Q49 letter vs explanation dump | Series B keys **C**; follow the option letter on the keyed paper |
-
----
-
-## Must-Score Facts
-
-1. UK WHS pair = Valley of Flowers + Nanda Devi (together).
-2. Kaziranga / Mountain Railways ≠ UK.
-3. Ramman = UNESCO ICH 2009, Garhwal, Bhumiyal Devta.
-4. 1658 + Shyamdas/Hardas + Tasbirdar + Prithvipati Shah → Garhwal painting.
-5. Coldwater Fisheries = **Bhimtal**; Q49 Series B = **C** (Himalaya Ke Barf not his).
 
 ---
 

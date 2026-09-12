@@ -32,33 +32,6 @@
 ---
 
 
-## Confused Pairs
-
-| A | B | Correct | Hindi |
-|---|----|------|-------|
-| Integrated judiciary | Independent judiciary | One hierarchy apexed in the SC vs separation from executive/legislature | एकीकृत / स्वतंत्र |
-| Art. 124 | Art. 214 | Supreme Court established vs High Court for each State | अनु. 124 / 214 |
-| SC age 65 | HC age 62 | Retirement ages must not be swapped | 65 / 62 |
-| Distinguished jurist | HC qualification | Jurist route for **SC only**; HC needs 10y office or advocacy | विशिष्ट विधिवेत्ता |
-| First Judges Case | Second Judges Case | Executive primacy (1981) vs Collegium born (1993) | प्रथम / द्वितीय न्यायाधीश |
-| CJI+4 Collegium | CJI+2 Collegium | SC appointments vs HC appointments (Third Judges) | सीजेआई+4 / +2 |
-| Art. 131 | Art. 71 | Federal original disputes vs President/VP election disputes | अनु. 131 / 71 |
-| Art. 131 | Art. 262 | Federal disputes vs river water (Parliament may bar courts) | अनु. 131 / 262 |
-| Art. 32 | Art. 226 | SC writs for FR only vs HC writs for FR + any legal right | अनु. 32 / 226 |
-| Art. 136 | Armed-forces courts | SLP is widest but **not** against court-martial type forums | अनु. 136 |
-| Art. 137 | Curative petition | Review first vs *Rupa Hurra* after review fails | पुनर्विचार / क्यूरेटिव |
-| Art. 143(1) | Art. 143(2) | Court **may** decline vs **shall** report (pre-Const treaties) | परामर्शी |
-| Art. 233 | Art. 235 | DJ appointment (Governor + HC) vs **control** with HC | अनु. 233 / 235 |
-| Part XIVA | Part XI | Tribunals (323A–323B) vs Centre–State relations | भाग XIVA / XI |
-| Art. 323A | Art. 323B | Parliament only (admin) vs Parliament **or** State (other) | 323A / 323B |
-| *Sampath Kumar* | *L. Chandra Kumar* | Tribunal as substitute vs tribunal as **supplement**; 226/227 survive | सम्पथ / एल चंद्र |
-| Lok Adalat | Permanent Lok Adalat | Compromise only vs public-utility merits + pre-litigation | लोक अदालत / PLA |
-| Fathima Beevi | Leila Seth | First woman **SC** judge vs first woman **HC Chief Justice** | फातिमा / लीला सेठ |
-| Art. 127 ad hoc | Art. 128 retired | Sitting HC judge vs retired judge sitting | तदर्थ / सेवानिवृत्त |
-| Chartered HCs 1862 | Allahabad 1866 | Calcutta–Bombay–Madras vs Allahabad (not Chartered 1862) | चार्टर्ड / इलाहाबाद |
-
----
-
 ## Consolidated — 30 Must-Score Facts
 
 1. India’s judiciary is **integrated** (one hierarchy from district courts to the Supreme Court) and **independent** (separate from the executive and legislature). The United States uses a **dual** court system; India does not.
@@ -91,6 +64,33 @@
 28. An **ad hoc** Supreme Court judge under **Article 127** is a **sitting** High Court judge. A **retired** judge may sit under **Article 128**. Do not swap these two articles.
 29. Election petitions for MPs and MLAs go to the **High Court** under the Representation of the People Act and **Article 329**, not straight to the Supreme Court. President and Vice-President election disputes stay under **Article 71**.
 30. The USA Supreme Court does **not** give advisory opinions. India’s Supreme Court **does**, under **Article 143**, but those opinions are **not binding** on the President.
+
+---
+
+## Confused Pairs
+
+| A | B | Correct | Hindi |
+|---|----|------|-------|
+| Integrated judiciary | Independent judiciary | One hierarchy apexed in the SC vs separation from executive/legislature | एकीकृत / स्वतंत्र |
+| Art. 124 | Art. 214 | Supreme Court established vs High Court for each State | अनु. 124 / 214 |
+| SC age 65 | HC age 62 | Retirement ages must not be swapped | 65 / 62 |
+| Distinguished jurist | HC qualification | Jurist route for **SC only**; HC needs 10y office or advocacy | विशिष्ट विधिवेत्ता |
+| First Judges Case | Second Judges Case | Executive primacy (1981) vs Collegium born (1993) | प्रथम / द्वितीय न्यायाधीश |
+| CJI+4 Collegium | CJI+2 Collegium | SC appointments vs HC appointments (Third Judges) | सीजेआई+4 / +2 |
+| Art. 131 | Art. 71 | Federal original disputes vs President/VP election disputes | अनु. 131 / 71 |
+| Art. 131 | Art. 262 | Federal disputes vs river water (Parliament may bar courts) | अनु. 131 / 262 |
+| Art. 32 | Art. 226 | SC writs for FR only vs HC writs for FR + any legal right | अनु. 32 / 226 |
+| Art. 136 | Armed-forces courts | SLP is widest but **not** against court-martial type forums | अनु. 136 |
+| Art. 137 | Curative petition | Review first vs *Rupa Hurra* after review fails | पुनर्विचार / क्यूरेटिव |
+| Art. 143(1) | Art. 143(2) | Court **may** decline vs **shall** report (pre-Const treaties) | परामर्शी |
+| Art. 233 | Art. 235 | DJ appointment (Governor + HC) vs **control** with HC | अनु. 233 / 235 |
+| Part XIVA | Part XI | Tribunals (323A–323B) vs Centre–State relations | भाग XIVA / XI |
+| Art. 323A | Art. 323B | Parliament only (admin) vs Parliament **or** State (other) | 323A / 323B |
+| *Sampath Kumar* | *L. Chandra Kumar* | Tribunal as substitute vs tribunal as **supplement**; 226/227 survive | सम्पथ / एल चंद्र |
+| Lok Adalat | Permanent Lok Adalat | Compromise only vs public-utility merits + pre-litigation | लोक अदालत / PLA |
+| Fathima Beevi | Leila Seth | First woman **SC** judge vs first woman **HC Chief Justice** | फातिमा / लीला सेठ |
+| Art. 127 ad hoc | Art. 128 retired | Sitting HC judge vs retired judge sitting | तदर्थ / सेवानिवृत्त |
+| Chartered HCs 1862 | Allahabad 1866 | Calcutta–Bombay–Madras vs Allahabad (not Chartered 1862) | चार्टर्ड / इलाहाबाद |
 
 ---
 

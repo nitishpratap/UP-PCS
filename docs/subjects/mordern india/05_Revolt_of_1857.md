@@ -15,27 +15,6 @@ Revolt of 1857 | Causes | Beginning of Revolt | Centres of Revolt | Leaders of R
 
 ---
 
-## Confused Pairs
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Sepoy Mutiny | First War of Independence | British / Lawrence–Seeley name vs Savarkar’s name (1909) | सिपाही विद्रोह / प्रथम स्वतंत्रता संग्राम |
-| Barrackpore | Meerut | Spark on 29 March vs actual start of the war on 10 May | बैरकपुर / मेरठ |
-| Nana Sahib | Tantia Tope | Political leader at Kanpur vs his military commander (Ramchandra Pandurang) | नाना साहेब / तात्या टोपे |
-| Begum Hazrat Mahal | Khan Bahadur Khan | Lucknow / Awadh vs Bareilly | हज़रत महल / खान बहादुर खान |
-| Kunwar Singh | Rani Lakshmibai | Jagdishpur (Bihar) vs Jhansi (dies at Gwalior) | कुंवर सिंह / लक्ष्मीबाई |
-| Annexation of Awadh | Doctrine of Lapse | Awadh taken for “misrule” in 1856 vs states taken when there was no natural heir | अवध अधिग्रहण / विलुप्ति सिद्धांत |
-| Bahadur Shah Zafar | Bakht Khan | Nominal emperor at Delhi vs real military organiser (Saheb-e-Alam Bahadur) | बहादुर शाह ज़फ़र / बख़्त खान |
-| Company rule | Crown rule | Revolt took place under the Company; Crown took over in 1858 | कंपनी शासन / क्राउन शासन |
-| Savarkar | R.C. Majumdar | First War of Independence vs “neither first, nor national, nor a war of independence” | सावरकर / मजूमदार |
-| Outram–Taylor | John Lawrence | Hindu–Muslim conspiracy reading vs pure Sepoy Mutiny reading | आउटराम / लॉरेंस |
-| Maulvi Liaquat Ali | Maulvi Ahmadullah Shah | Allahabad (Khusro Bagh) vs Faizabad | लियाक़त अली / अहमदुल्लाह शाह |
-| Brown Bess | Enfield rifle | Old musket replaced Dec 1856 vs new greased-cartridge rifle | ब्राउन बेस / एन्फ़ील्ड |
-| Jaipur / Chittor | Auwa | Not centres of 1857 vs Thakur Kushal Singh’s Rajasthan rising | जयपुर-चित्तौड़ / आउवा |
-| S.N. Sen | Sir Syed Ahmad Khan | Official historian (*Eighteen Fifty-Seven*, 1957) vs *Asbab-e-Baghawat-e-Hind* (1859) | एस.एन. सेन / सैयद अहमद खान |
-
----
-
 ## Consolidated — 40 Must-Score Facts
 
 1. **Causes (long):** Doctrine of Lapse, **Awadh annexation 1856** for misrule, heavy revenue, missionary fear, and sepoy service grievances. **Immediate spark:** greased cartridges.
@@ -78,6 +57,61 @@ Revolt of 1857 | Causes | Beginning of Revolt | Centres of Revolt | Leaders of R
 38. Sepoy military grievances also included stoppage of **bhatta/batta** (foreign-service allowance) and fear of **sea voyage** (kalapani) under the **General Service Enlistment Act, 1856**.
 39. **Sahukars / moneylenders** and many landlords did **not** support the revolt; inefficiency of British officers was **not** a standard sepoy grievance.
 40. Prioritise **Meerut 10 May**, centre↔leader matches, and **1858 Crown** over long historiography debates.
+
+---
+
+## Confused Pairs
+
+| A | B | Difference | Hindi |
+|---|----|------------|-------|
+| Sepoy Mutiny | First War of Independence | British / Lawrence–Seeley name vs Savarkar’s name (1909) | सिपाही विद्रोह / प्रथम स्वतंत्रता संग्राम |
+| Barrackpore | Meerut | Spark on 29 March vs actual start of the war on 10 May | बैरकपुर / मेरठ |
+| Nana Sahib | Tantia Tope | Political leader at Kanpur vs his military commander (Ramchandra Pandurang) | नाना साहेब / तात्या टोपे |
+| Begum Hazrat Mahal | Khan Bahadur Khan | Lucknow / Awadh vs Bareilly | हज़रत महल / खान बहादुर खान |
+| Kunwar Singh | Rani Lakshmibai | Jagdishpur (Bihar) vs Jhansi (dies at Gwalior) | कुंवर सिंह / लक्ष्मीबाई |
+| Annexation of Awadh | Doctrine of Lapse | Awadh taken for “misrule” in 1856 vs states taken when there was no natural heir | अवध अधिग्रहण / विलुप्ति सिद्धांत |
+| Bahadur Shah Zafar | Bakht Khan | Nominal emperor at Delhi vs real military organiser (Saheb-e-Alam Bahadur) | बहादुर शाह ज़फ़र / बख़्त खान |
+| Company rule | Crown rule | Revolt took place under the Company; Crown took over in 1858 | कंपनी शासन / क्राउन शासन |
+| Savarkar | R.C. Majumdar | First War of Independence vs “neither first, nor national, nor a war of independence” | सावरकर / मजूमदार |
+| Outram–Taylor | John Lawrence | Hindu–Muslim conspiracy reading vs pure Sepoy Mutiny reading | आउटराम / लॉरेंस |
+| Maulvi Liaquat Ali | Maulvi Ahmadullah Shah | Allahabad (Khusro Bagh) vs Faizabad | लियाक़त अली / अहमदुल्लाह शाह |
+| Brown Bess | Enfield rifle | Old musket replaced Dec 1856 vs new greased-cartridge rifle | ब्राउन बेस / एन्फ़ील्ड |
+| Jaipur / Chittor | Auwa | Not centres of 1857 vs Thakur Kushal Singh’s Rajasthan rising | जयपुर-चित्तौड़ / आउवा |
+| S.N. Sen | Sir Syed Ahmad Khan | Official historian (*Eighteen Fifty-Seven*, 1957) vs *Asbab-e-Baghawat-e-Hind* (1859) | एस.एन. सेन / सैयद अहमद खान |
+
+---
+
+## Must-score facts — centres, leaders, aftermath
+
+### Centre ↔ leader
+
+| Centre | Leader |
+|--------|--------|
+| Delhi | Bahadur Shah Zafar (symbol) / Bakht Khan (army; Saheb-e-Alam Bahadur) |
+| Kanpur | Nana Sahib + Tantia Tope (Ramchandra Pandurang) + Azimullah |
+| Lucknow | Begum Hazrat Mahal / Birjis Qadr |
+| Jhansi / Gwalior | Rani Lakshmibai (Manikarnika; Varanasi birth) |
+| Bareilly | Khan Bahadur Khan (named Viceroy by Zafar) |
+| Jagdishpur | Kunwar Singh (then Amar Singh) |
+| Faizabad | Maulvi Ahmadullah Shah |
+| Allahabad | Maulvi Liaquat Ali |
+| Assam | Maniram Dutta / Kandarpeshwar Singh |
+| Auwa | Thakur Kushal Singh |
+
+### Date / admin facts
+
+| Event | Date / fact |
+|-------|-------------|
+| Enfield decision (replace Brown Bess) | **December 1856** (trials: Dum Dum, Ambala, Sialkot) |
+| Mangal Pandey, Barrackpore | **29 March 1857** (CO: Hearsey) |
+| Meerut outbreak | **10 May 1857** (Hewitt fails to stop) |
+| Jhansi rising | **June 1857** (not 11 May) |
+| Nana declared Peshwa | **5 June 1857** |
+| Queen’s Proclamation, Allahabad | **1 November 1858** |
+| First Viceroy / emergency HQ | **Canning** / **Allahabad** |
+| Peel Commission army reorg | Europeans ↑, Indians ↓; Gurkha–Sikh–Punjabi recruitment |
+| Symbols | **Lotus** and **chapatis** |
+| British PM (1857) | **Palmerston** |
 
 ---
 
@@ -466,40 +500,6 @@ Centre, leader and start-date are in the table above. These are the other places
 - Racial distrust hardened after 1857; later colonial writing often blamed Muslims specially, and social distance between rulers and ruled widened.
 
 > **Logic:** Crown rule begins in **1858**, not on 10 May 1857. Canning, not Dalhousie, was the first Viceroy. Peel = army reorg after 1857. Partial success ≠ rebel victory.
-
----
-
-## Must-score facts — centres, leaders, aftermath
-
-### Centre ↔ leader
-
-| Centre | Leader |
-|--------|--------|
-| Delhi | Bahadur Shah Zafar (symbol) / Bakht Khan (army; Saheb-e-Alam Bahadur) |
-| Kanpur | Nana Sahib + Tantia Tope (Ramchandra Pandurang) + Azimullah |
-| Lucknow | Begum Hazrat Mahal / Birjis Qadr |
-| Jhansi / Gwalior | Rani Lakshmibai (Manikarnika; Varanasi birth) |
-| Bareilly | Khan Bahadur Khan (named Viceroy by Zafar) |
-| Jagdishpur | Kunwar Singh (then Amar Singh) |
-| Faizabad | Maulvi Ahmadullah Shah |
-| Allahabad | Maulvi Liaquat Ali |
-| Assam | Maniram Dutta / Kandarpeshwar Singh |
-| Auwa | Thakur Kushal Singh |
-
-### Date / admin facts
-
-| Event | Date / fact |
-|-------|-------------|
-| Enfield decision (replace Brown Bess) | **December 1856** (trials: Dum Dum, Ambala, Sialkot) |
-| Mangal Pandey, Barrackpore | **29 March 1857** (CO: Hearsey) |
-| Meerut outbreak | **10 May 1857** (Hewitt fails to stop) |
-| Jhansi rising | **June 1857** (not 11 May) |
-| Nana declared Peshwa | **5 June 1857** |
-| Queen’s Proclamation, Allahabad | **1 November 1858** |
-| First Viceroy / emergency HQ | **Canning** / **Allahabad** |
-| Peel Commission army reorg | Europeans ↑, Indians ↓; Gurkha–Sikh–Punjabi recruitment |
-| Symbols | **Lotus** and **chapatis** |
-| British PM (1857) | **Palmerston** |
 
 ---
 

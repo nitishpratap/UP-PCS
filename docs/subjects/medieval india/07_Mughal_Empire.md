@@ -15,31 +15,6 @@ Babur | Establishment of the Mughal Empire | Literary Contribution of Babur | Ma
 
 ---
 
-## Confused Pairs
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Panipat I vs II vs III | 1526 Babur–Ibrahim; 1556 Akbar–Hemu; 1761 Marathas–Abdali | पानीपत I / II / III |
-| Chausa vs Kannauj | 1539 Humayun escaped; 1540 decisive Sher Shah win | चौसा / कन्नौज |
-| Daurah vs Dharmat | **1532** Humayun vs Afghans; **Apr 1658** Aurangzeb vs Jaswant Singh | दौराह / धर्मत |
-| Dharmat vs Samugarh | Apr 1658 Jaswant Singh; May 1658 Dara defeated | धर्मत / समुगढ़ |
-| Zabt vs Dahsala | Measurement-based assessment vs 10-year average yield | ज़ब्त / दहसाला |
-| Zat vs Sawar | Personal rank vs cavalry obligation | ज़ात / सवार |
-| Jagir vs Khalsa | Assigned to mansabdars vs crown land | जागीर / खालसा |
-| Sulh-i-Kul vs Din-i-Ilahi | Universal peace policy vs 1582 small court cult | सुलह-ए-कुल / दीन-ए-इलाही |
-| Akbarnama vs Ain-i-Akbari | Narrative history vs admin gazetteer — both Abul Fazl | अकबरनामा / आइन-ए-अकबरी |
-| Buland Darwaza vs Panch Mahal | Gujarat victory gate vs five-storey palace at Sikri | बुलंद दरवाज़ा / पंच महल |
-| Padshah at Kabul vs after Panipat | **1504 Kabul** title vs **27 April 1526** Indian empire proclamation | काबुल पादशाह / पानीपत |
-| Chagatai vs Timurid claim | Ethnic **Chagatai Turk** line vs **Timur** descent for legitimacy | चगताई / तैमूर |
-| Alam Khan vs Daulat Khan | Ibrahim's **uncle**/pretender vs Punjab governor invite | आलम खान / दौलत खान |
-| Bairam Khan vs Rahim | Regent; **Khan-i-Khana from Akbar** vs son, Hindi poet | बैरम खान / रहीम |
-| Dara vs Aurangzeb | Scholar, syncretic; orthodox, won 1658 | दारा / औरंगज़ेब |
-| Balkh failure vs Deccan annexation | Shah Jahan’s **1646–47** prestige flop vs Aurangzeb’s **Bijapur 1686 / Golkonda 1687** | बल्ख / दक्कन |
-| Bahadur Shah I vs Zafar | **1707** successor of Aurangzeb vs **last** Mughal **1837–57** | बहादुर शाह I / ज़फ़र |
-| Rangeela vs Farrukhsiyar | **Nadir / Peacock Throne 1739** vs **1717** Company farman + Sayyid peak | रंगीला / फ़र्रुख़ |
-
----
-
 ## Consolidated — 30 Must-Score Facts
 
 1. **Babur** founded the Mughal empire after defeating **Ibrahim Lodi** at the **First Battle of Panipat** on **21 April 1526** (GC; also cited as 20 April), using **Tulughma** flanking and **Araba** cart-forts.
@@ -72,6 +47,31 @@ Babur | Establishment of the Mughal Empire | Literary Contribution of Babur | Ma
 28. **Hamida Banu** was Humayun's wife; **Gulbadan** wrote *Humayunnama*.
 29. **Dara Shikoh** wrote *Majma-ul-Bahrain* and *Sirr-i-Akbar*; Aurangzeb had him killed in **1659**.
 30. Later Mughals: **Bahadur Shah I** wins **Jajau 1707**; **Sayyid Brothers** under **Farrukhsiyar**; **Muhammad Shah Rangeela** faces **Nadir Shah at Karnal 1739**; last emperor **Bahadur Shah II Zafar** in **1857**.
+
+---
+
+## Confused Pairs
+
+| A | B | Difference | Hindi |
+|---|----|------------|-------|
+| Panipat I vs II vs III | 1526 Babur–Ibrahim; 1556 Akbar–Hemu; 1761 Marathas–Abdali | पानीपत I / II / III |
+| Chausa vs Kannauj | 1539 Humayun escaped; 1540 decisive Sher Shah win | चौसा / कन्नौज |
+| Daurah vs Dharmat | **1532** Humayun vs Afghans; **Apr 1658** Aurangzeb vs Jaswant Singh | दौराह / धर्मत |
+| Dharmat vs Samugarh | Apr 1658 Jaswant Singh; May 1658 Dara defeated | धर्मत / समुगढ़ |
+| Zabt vs Dahsala | Measurement-based assessment vs 10-year average yield | ज़ब्त / दहसाला |
+| Zat vs Sawar | Personal rank vs cavalry obligation | ज़ात / सवार |
+| Jagir vs Khalsa | Assigned to mansabdars vs crown land | जागीर / खालसा |
+| Sulh-i-Kul vs Din-i-Ilahi | Universal peace policy vs 1582 small court cult | सुलह-ए-कुल / दीन-ए-इलाही |
+| Akbarnama vs Ain-i-Akbari | Narrative history vs admin gazetteer — both Abul Fazl | अकबरनामा / आइन-ए-अकबरी |
+| Buland Darwaza vs Panch Mahal | Gujarat victory gate vs five-storey palace at Sikri | बुलंद दरवाज़ा / पंच महल |
+| Padshah at Kabul vs after Panipat | **1504 Kabul** title vs **27 April 1526** Indian empire proclamation | काबुल पादशाह / पानीपत |
+| Chagatai vs Timurid claim | Ethnic **Chagatai Turk** line vs **Timur** descent for legitimacy | चगताई / तैमूर |
+| Alam Khan vs Daulat Khan | Ibrahim's **uncle**/pretender vs Punjab governor invite | आलम खान / दौलत खान |
+| Bairam Khan vs Rahim | Regent; **Khan-i-Khana from Akbar** vs son, Hindi poet | बैरम खान / रहीम |
+| Dara vs Aurangzeb | Scholar, syncretic; orthodox, won 1658 | दारा / औरंगज़ेब |
+| Balkh failure vs Deccan annexation | Shah Jahan’s **1646–47** prestige flop vs Aurangzeb’s **Bijapur 1686 / Golkonda 1687** | बल्ख / दक्कन |
+| Bahadur Shah I vs Zafar | **1707** successor of Aurangzeb vs **last** Mughal **1837–57** | बहादुर शाह I / ज़फ़र |
+| Rangeela vs Farrukhsiyar | **Nadir / Peacock Throne 1739** vs **1717** Company farman + Sayyid peak | रंगीला / फ़र्रुख़ |
 
 ---
 

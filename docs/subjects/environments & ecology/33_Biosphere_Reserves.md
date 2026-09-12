@@ -21,19 +21,6 @@ Biosphere Reserve | Major Biosphere Reserves of India | Biosphere Reserves of Ut
 
 ---
 
-## Confused Pairs
-
-| Term | One-line fact |
-|------|---------------|
-| **Biosphere Reserve** | Conservation + sustainable use + research (MAB) |
-| **National Park** | Strictest WPA protection |
-| **Core / Buffer / Transition** | No exploitation / limited use / livelihoods |
-| **WNBR** | UNESCO World Network subset of national BRs |
-| **Nokrek** | **Meghalaya** — never Manipur |
-| **Nilgiri** | India’s first BR (1986) |
-
----
-
 ## Consolidated — 24 Must-Score Facts
 
 1. A Biosphere Reserve is a **UNESCO MAB (1971)** landscape with **core → buffer → transition**. It is **not** a Wildlife Protection Act category.
@@ -61,6 +48,19 @@ Biosphere Reserve | Major Biosphere Reserves of India | Biosphere Reserves of Ut
 23. Agasthyamalai paired only with Kerala is accepted as correct in recent papers even though the landscape also spans Tamil Nadu.
 24. Biosphere Reserves can overlap National Parks and World Heritage tags, but the MAB label is still a separate tool.
 25. Among common options, **biosphere reserves** are the best strategy for conserving biodiversity **together with traditional human life / cultural diversity**. **Gulf of Mannar** is often cited as India’s richest marine biodiversity BR mosaic.
+
+---
+
+## Confused Pairs
+
+| Term | One-line fact |
+|------|---------------|
+| **Biosphere Reserve** | Conservation + sustainable use + research (MAB) |
+| **National Park** | Strictest WPA protection |
+| **Core / Buffer / Transition** | No exploitation / limited use / livelihoods |
+| **WNBR** | UNESCO World Network subset of national BRs |
+| **Nokrek** | **Meghalaya** — never Manipur |
+| **Nilgiri** | India’s first BR (1986) |
 
 ---
 

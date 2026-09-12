@@ -54,27 +54,6 @@ D. Governor
 ---
 
 
-## Confused Pairs
-
-| A | B | Correct | Hindi |
-|---|----|------|-------|
-| Art. 79 Parliament | “Two Houses only” | President **+** RS **+** LS | संसद |
-| Art. 108 joint sitting | Art. 109 Money Bill procedure | Joint sitting ≠ 109 | संयुक्त बैठक / धन विधेयक |
-| Money Bill (110) | Financial Bill (117) | LS only + RS 14 days vs 117(1)/117(3) paths | धन / वित्तीय |
-| Finance Bill | Financial Bill | Annual tax Bill vs Art. 117 categories | वित्त / वित्तीय |
-| RS permanent House | Member’s 6-year term | House **never** dissolved vs individual term | राज्य सभा |
-| VP as Chairman | VP as RS member | Ex-officio Chairman vs **not** a member | सभापति |
-| Question Hour | Zero Hour | First hour vs **after** Question Hour | प्रश्न / ज़ीरो ऑवर |
-| PAC (22; opp. chair) | Estimates (30 LS-only) | Mixed Houses + opposition chair vs LS-only largest | लोक लेखा / प्राक्कलन |
-| CFI / Public Account (266) | Contingency Fund (267) | Do not park Contingency under 266 | निधि |
-| Charged expenditure | Voted expenditure | Discussed **not** voted vs needs vote | भारित / मतदेय |
-| No-confidence | Rajya Sabha | **Lok Sabha only** | अविश्वास |
-| Civil privilege | Criminal process | Privilege covers civil arrest window, **not** crime | विशेषाधिकार |
-| Anglo-Indian nomination | SC/ST reservation | Ended by **104th** vs continues till **25 Jan 2030** | एंग्लो-इंडियन / आरक्षण |
-| Speaker Money Bill certificate | Office-of-profit decision | Speaker final on Money Bill vs **President + EC** on office of profit | अध्यक्ष / लाभ का पद |
-
----
-
 ## Consolidated — 30 Must-Score Facts
 
 1. **Article 79**: Parliament of the Union = the **President** + **Rajya Sabha** + **Lok Sabha**. The President is an integral part of Parliament even though he sits in neither House.
@@ -107,6 +86,27 @@ D. Governor
 28. Leader of Opposition rests on the **1977** statutory recognition with a practical **~10%** strength convention. Party **whips** (one-/two-/three-line) are **extra-constitutional**.
 29. Each House has its own **Secretariat** under **Article 98**. Ministers and the Attorney General may **speak in both Houses** (**Article 88**) but vote only in the House where they are members.
 30. **Meira Kumar** is the first woman Speaker of the Lok Sabha. Business Advisory Committee is chaired by the **Speaker**.
+
+---
+
+## Confused Pairs
+
+| A | B | Correct | Hindi |
+|---|----|------|-------|
+| Art. 79 Parliament | “Two Houses only” | President **+** RS **+** LS | संसद |
+| Art. 108 joint sitting | Art. 109 Money Bill procedure | Joint sitting ≠ 109 | संयुक्त बैठक / धन विधेयक |
+| Money Bill (110) | Financial Bill (117) | LS only + RS 14 days vs 117(1)/117(3) paths | धन / वित्तीय |
+| Finance Bill | Financial Bill | Annual tax Bill vs Art. 117 categories | वित्त / वित्तीय |
+| RS permanent House | Member’s 6-year term | House **never** dissolved vs individual term | राज्य सभा |
+| VP as Chairman | VP as RS member | Ex-officio Chairman vs **not** a member | सभापति |
+| Question Hour | Zero Hour | First hour vs **after** Question Hour | प्रश्न / ज़ीरो ऑवर |
+| PAC (22; opp. chair) | Estimates (30 LS-only) | Mixed Houses + opposition chair vs LS-only largest | लोक लेखा / प्राक्कलन |
+| CFI / Public Account (266) | Contingency Fund (267) | Do not park Contingency under 266 | निधि |
+| Charged expenditure | Voted expenditure | Discussed **not** voted vs needs vote | भारित / मतदेय |
+| No-confidence | Rajya Sabha | **Lok Sabha only** | अविश्वास |
+| Civil privilege | Criminal process | Privilege covers civil arrest window, **not** crime | विशेषाधिकार |
+| Anglo-Indian nomination | SC/ST reservation | Ended by **104th** vs continues till **25 Jan 2030** | एंग्लो-इंडियन / आरक्षण |
+| Speaker Money Bill certificate | Office-of-profit decision | Speaker final on Money Bill vs **President + EC** on office of profit | अध्यक्ष / लाभ का पद |
 
 ---
 

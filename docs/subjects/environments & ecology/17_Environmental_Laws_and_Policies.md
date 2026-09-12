@@ -22,23 +22,6 @@
 
 ---
 
-## Confused Pairs
-
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **EPA 1986** | Umbrella law — EIA, CRZ, ESZ, GEAC, CGWA under Section 3 | EPA 1986 |
-| **GEAC** | Genetic Engineering Appraisal Committee — under EPA 1986 | GEAC |
-| **CGWA** | Groundwater regulation under EPA Sec 3(3) — ≠ CGWB | CGWA |
-| **WPA 1972** | Wildlife schedules and protected areas | WPA 1972 |
-| **FCA 1980** | Controls **diversion** of forest land | FCA 1980 |
-| **FRA 2006** | Recognizes **rights** of forest dwellers | FRA 2006 |
-| **Water Act 1974** | Water pollution — created CPCB/SPCB | जल अधिनियम 1974 |
-| **Air Act 1981** | Air pollution — NAAQS | वायु अधिनियम 1981 |
-| **BDA 2002** | Biodiversity — NBA, BMC, ABS | BDA 2002 |
-| **Consent vs EC** | SPCB consent (Water/Air) ≠ MoEFCC EC (EPA) | अनुमति vs मंजूरी |
-
----
-
 ## Consolidated — 26 Must-Score Facts
 
 1. Memorise the act-year chain: **WPA 1972 → Water 1974 → FCA 1980 → Air 1981 → EPA 1986 → BDA 2002 → FRA 2006 → NGT Act 2010**.
@@ -67,6 +50,23 @@
 24. NGT hears appeals; it does not rewrite the year of EPA or replace CPCB’s standards role.
 25. CAMPA/NPV issues arise after forest diversion under FCA — they are not FRA Gram Sabha rights tools.
 26. Match clearance labels carefully: **SPCB consent**, **MoEFCC/SEIAA EC**, **MoEFCC forest clearance**.
+
+---
+
+## Confused Pairs
+
+| Term | One-line difference | Hindi |
+|------|---------------------|-------|
+| **EPA 1986** | Umbrella law — EIA, CRZ, ESZ, GEAC, CGWA under Section 3 | EPA 1986 |
+| **GEAC** | Genetic Engineering Appraisal Committee — under EPA 1986 | GEAC |
+| **CGWA** | Groundwater regulation under EPA Sec 3(3) — ≠ CGWB | CGWA |
+| **WPA 1972** | Wildlife schedules and protected areas | WPA 1972 |
+| **FCA 1980** | Controls **diversion** of forest land | FCA 1980 |
+| **FRA 2006** | Recognizes **rights** of forest dwellers | FRA 2006 |
+| **Water Act 1974** | Water pollution — created CPCB/SPCB | जल अधिनियम 1974 |
+| **Air Act 1981** | Air pollution — NAAQS | वायु अधिनियम 1981 |
+| **BDA 2002** | Biodiversity — NBA, BMC, ABS | BDA 2002 |
+| **Consent vs EC** | SPCB consent (Water/Air) ≠ MoEFCC EC (EPA) | अनुमति vs मंजूरी |
 
 ---
 

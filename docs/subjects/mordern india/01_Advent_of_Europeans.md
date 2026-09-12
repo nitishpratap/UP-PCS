@@ -15,33 +15,6 @@ Advent of Europeans | Arrival of European Companies | Portuguese in India | Dutc
 
 ---
 
-## Confused Pairs
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Factory | Colony | Trading post with local permission vs territorial rule | फैक्टरी / उपनिवेश |
-| EIC 1600 | VOC 1602 | English company vs Dutch company | ईस्ट इंडिया कंपनी / वीओसी |
-| Cartaze | Farman | Portuguese sea-pass vs Mughal trade grant | कार्टाज़ / फ़रमान |
-| Chinsurah | Chandernagore | Dutch settlement in Bengal vs French settlement in Bengal | चिन्सुरा / चंद्रनगर |
-| Goa | Pondicherry | Portuguese capital vs French headquarters | गोवा / पांडिचेरी |
-| Aix-la-Chapelle 1748 | Paris 1763 | Ends First Carnatic War (Madras returned) vs ends Third Carnatic War (French political defeat) | एक्स-ला-शापेल / पेरिस |
-| Carnatic Wars | Anglo-Mysore Wars | English vs French in the 1740s–60s vs English vs Hyder/Tipu later | कर्नाटक युद्ध / आंग्ल-मैसूर |
-| Hawkins 1608 | Roe 1615–19 | EIC captain at Jahangir’s court vs ambassador of James I | हॉकिन्स / रो |
-| Wandiwash 1760 | Plassey 1757 | Anglo-French battle (Eyre Coote) vs Bengal battle (Clive) | वांडिवाश / प्लासी |
-| Presidency | Factory | Madras / Bombay / Bengal administrative unit vs a local trading station | प्रेसीडेंसी / फैक्टरी |
-| Cochin fort 1503 | Goa 1510 | First European fort (Albuquerque, not yet Governor) vs Estado capital | कोचीन / गोवा |
-| Masulipatnam 1611 | Surat 1613 | First English temporary factory vs first permanent English factory | मसूलीपट्टनम / सूरत |
-| Chinsurah | Bandel | Dutch Bengal (Fort Gustavus) vs Portuguese Bengal pocket | चिन्सुरा / बन्देल् |
-| Levant 1592 | EIC 1600 | Land-route charter vs sea East Indies charter | लेवेंट / ईआईसी |
-| Colachel 1741 | Bedara 1759 | Travancore vs Dutch (De Lannoy) vs English vs Dutch (Forde) | कोलाचेल / बेदारा |
-| Fort Geldria | Fort Gustavus | Dutch Pulicat fort vs Dutch Chinsurah fort | गेल्ड्रिया / गुस्तावस |
-| Lenoir / Dumas | Dupleix | Mid governors before Dupleix vs Carnatic proxy architect **1742–54** | लनोआ–डूमा / डूप्ले |
-| Capitanias | Cartaze | Portuguese coastal captaincies under fort captains vs Portuguese sea-pass | कैपिटानिया / कार्टाज़ |
-| Farman 1717 | Diwani 1765 | Farrukhsiyar trade privilege in Bengal vs revenue grant after Buxar | फ़रमान 1717 / दीवानी 1765 |
-| Swally 1612 | Surat factory 1613 | Thomas Best’s naval win vs first permanent English factory | स्वाली / सूरत |
-
----
-
 ## Consolidated — 32 Must-Score Facts
 
 1. Vasco da Gama reached **Calicut** on **20 May 1498**, guided by the Gujarati navigator **Ahmad ibn Majid**. He opened the all-sea Atlantic route for Portugal. He did **not** capture **Goa**.
@@ -76,6 +49,97 @@ Advent of Europeans | Arrival of European Companies | Portuguese in India | Dutc
 30. Carnatic Wars are **English vs French** in the 1740s–60s. Anglo–Mysore Wars are **English vs Hyder/Tipu** later — never merge the two series.
 31. Portuguese **capitanias** were coastal captaincies under fort captains. A **cartaze** was the sea-pass sold for Ocean traffic — do not swap the two.
 32. **Farrukhsiyar’s farman of 1717** gave the English Company major duty-free trade privileges in Bengal. It is **not** the **Diwani of 1765**.
+
+---
+
+## Confused Pairs
+
+| A | B | Difference | Hindi |
+|---|----|------------|-------|
+| Factory | Colony | Trading post with local permission vs territorial rule | फैक्टरी / उपनिवेश |
+| EIC 1600 | VOC 1602 | English company vs Dutch company | ईस्ट इंडिया कंपनी / वीओसी |
+| Cartaze | Farman | Portuguese sea-pass vs Mughal trade grant | कार्टाज़ / फ़रमान |
+| Chinsurah | Chandernagore | Dutch settlement in Bengal vs French settlement in Bengal | चिन्सुरा / चंद्रनगर |
+| Goa | Pondicherry | Portuguese capital vs French headquarters | गोवा / पांडिचेरी |
+| Aix-la-Chapelle 1748 | Paris 1763 | Ends First Carnatic War (Madras returned) vs ends Third Carnatic War (French political defeat) | एक्स-ला-शापेल / पेरिस |
+| Carnatic Wars | Anglo-Mysore Wars | English vs French in the 1740s–60s vs English vs Hyder/Tipu later | कर्नाटक युद्ध / आंग्ल-मैसूर |
+| Hawkins 1608 | Roe 1615–19 | EIC captain at Jahangir’s court vs ambassador of James I | हॉकिन्स / रो |
+| Wandiwash 1760 | Plassey 1757 | Anglo-French battle (Eyre Coote) vs Bengal battle (Clive) | वांडिवाश / प्लासी |
+| Presidency | Factory | Madras / Bombay / Bengal administrative unit vs a local trading station | प्रेसीडेंसी / फैक्टरी |
+| Cochin fort 1503 | Goa 1510 | First European fort (Albuquerque, not yet Governor) vs Estado capital | कोचीन / गोवा |
+| Masulipatnam 1611 | Surat 1613 | First English temporary factory vs first permanent English factory | मसूलीपट्टनम / सूरत |
+| Chinsurah | Bandel | Dutch Bengal (Fort Gustavus) vs Portuguese Bengal pocket | चिन्सुरा / बन्देल् |
+| Levant 1592 | EIC 1600 | Land-route charter vs sea East Indies charter | लेवेंट / ईआईसी |
+| Colachel 1741 | Bedara 1759 | Travancore vs Dutch (De Lannoy) vs English vs Dutch (Forde) | कोलाचेल / बेदारा |
+| Fort Geldria | Fort Gustavus | Dutch Pulicat fort vs Dutch Chinsurah fort | गेल्ड्रिया / गुस्तावस |
+| Lenoir / Dumas | Dupleix | Mid governors before Dupleix vs Carnatic proxy architect **1742–54** | लनोआ–डूमा / डूप्ले |
+| Capitanias | Cartaze | Portuguese coastal captaincies under fort captains vs Portuguese sea-pass | कैपिटानिया / कार्टाज़ |
+| Farman 1717 | Diwani 1765 | Farrukhsiyar trade privilege in Bengal vs revenue grant after Buxar | फ़रमान 1717 / दीवानी 1765 |
+| Swally 1612 | Surat factory 1613 | Thomas Best’s naval win vs first permanent English factory | स्वाली / सूरत |
+
+---
+
+## Must-score facts — settlements, wars, treaties
+
+### Power ↔ settlement
+
+| Settlement | Power |
+|------------|-------|
+| **Goa / Daman / Diu / Bandel** | Portuguese |
+| **Pulicat / Chinsurah / Sadras / Cochin (1663–1824)** | Dutch |
+| **Surat / Madras / Calcutta / Bombay** | English |
+| **Pondicherry / Chandernagore / Karaikal / Mahe / Yanam** | French |
+| **Tranquebar / Serampore** | Danish |
+
+### Carnatic treaty ladder
+
+| War | Years | End treaty | Fact |
+|-----|-------|------------|------|
+| First | 1746–48 | **Aix-la-Chapelle 1748** | Immediate cause: French ships seized; Madras returned |
+| Second | 1749–54 | **Treaty of Pondicherry 1754** | **Ambur 1749**; **Arcot 1751**; Dupleix recalled |
+| Third | 1758–63 | **Paris 1763** | **Wandiwash 1760** (Coote vs Lally) |
+
+### French Governors order
+
+| Order | Person | Years |
+|------:|--------|-------|
+| 1 | **François Martin** | Pondicherry founder / **1699–1706** |
+| 2 | **Lenoir** | **1727–34** |
+| 3 | **Dumas** | **1735–41** |
+| 4 | **Dupleix** | **1742–54** |
+| 5 | **Lally** | **1758–61** (war command) |
+
+### English arrival order
+
+| Person / event | Year |
+|----------------|------|
+| Levant Company (land charter) | **1592** |
+| EIC charter (Akbar still emperor) | **1600** |
+| Hawkins at Jahangir’s court | **1608** |
+| Masulipatnam temporary factory | **1611** |
+| Swally (Thomas Best) | **1612** |
+| Surat permanent factory | **1613** |
+| Sir Thomas Roe | **1615–19** |
+| Bombay from Portugal (Catherine dowry path) | **1661–62 / 1668** to Company (£10) |
+| John Child expelled by Aurangzeb | **1688** |
+| First Municipal Corporation — Madras | **1687–88** |
+| Job Charnock at Sutanuti / Calcutta | **1690** |
+| Farrukhsiyar’s farman (Bengal trade) | **1717** |
+
+### Portuguese ladder
+
+| Event | Year / tag |
+|-------|------------|
+| Gama at Calicut | **20 May 1498** |
+| Cabral / Calicut factory | **1500** |
+| First European fort — Cochin | **1503** |
+| Almeida Viceroy / Blue Water | **1505** |
+| Albuquerque takes Goa | **1510** (Yusuf Adil Shah) |
+| Malacca / Hormuz | **1511 / 1515** |
+| Capitanias + cartaze system | Estado coastal / sea control |
+| Satgaon–Chatgaon leave | **1534** |
+| Hooghly crushed | **1632** |
+| Goa liberated / Portuguese exit | **1961** |
 
 ---
 
@@ -1112,70 +1176,6 @@ Ended the **Seven Years’ War** globally and closed the **Third Carnatic War** 
 | **Paris** | **1763** | Third Carnatic / Seven Years’ War | French **political** defeat; factories remain |
 
 > **Logic:** Paris did **not** return Madras after 1746 — that was Aix-la-Chapelle. Paris did **not** expel every Frenchman forever.
-
----
-
-## Must-score facts — settlements, wars, treaties
-
-### Power ↔ settlement
-
-| Settlement | Power |
-|------------|-------|
-| **Goa / Daman / Diu / Bandel** | Portuguese |
-| **Pulicat / Chinsurah / Sadras / Cochin (1663–1824)** | Dutch |
-| **Surat / Madras / Calcutta / Bombay** | English |
-| **Pondicherry / Chandernagore / Karaikal / Mahe / Yanam** | French |
-| **Tranquebar / Serampore** | Danish |
-
-### Carnatic treaty ladder
-
-| War | Years | End treaty | Fact |
-|-----|-------|------------|------|
-| First | 1746–48 | **Aix-la-Chapelle 1748** | Immediate cause: French ships seized; Madras returned |
-| Second | 1749–54 | **Treaty of Pondicherry 1754** | **Ambur 1749**; **Arcot 1751**; Dupleix recalled |
-| Third | 1758–63 | **Paris 1763** | **Wandiwash 1760** (Coote vs Lally) |
-
-### French Governors order
-
-| Order | Person | Years |
-|------:|--------|-------|
-| 1 | **François Martin** | Pondicherry founder / **1699–1706** |
-| 2 | **Lenoir** | **1727–34** |
-| 3 | **Dumas** | **1735–41** |
-| 4 | **Dupleix** | **1742–54** |
-| 5 | **Lally** | **1758–61** (war command) |
-
-### English arrival order
-
-| Person / event | Year |
-|----------------|------|
-| Levant Company (land charter) | **1592** |
-| EIC charter (Akbar still emperor) | **1600** |
-| Hawkins at Jahangir’s court | **1608** |
-| Masulipatnam temporary factory | **1611** |
-| Swally (Thomas Best) | **1612** |
-| Surat permanent factory | **1613** |
-| Sir Thomas Roe | **1615–19** |
-| Bombay from Portugal (Catherine dowry path) | **1661–62 / 1668** to Company (£10) |
-| John Child expelled by Aurangzeb | **1688** |
-| First Municipal Corporation — Madras | **1687–88** |
-| Job Charnock at Sutanuti / Calcutta | **1690** |
-| Farrukhsiyar’s farman (Bengal trade) | **1717** |
-
-### Portuguese ladder
-
-| Event | Year / tag |
-|-------|------------|
-| Gama at Calicut | **20 May 1498** |
-| Cabral / Calicut factory | **1500** |
-| First European fort — Cochin | **1503** |
-| Almeida Viceroy / Blue Water | **1505** |
-| Albuquerque takes Goa | **1510** (Yusuf Adil Shah) |
-| Malacca / Hormuz | **1511 / 1515** |
-| Capitanias + cartaze system | Estado coastal / sea control |
-| Satgaon–Chatgaon leave | **1534** |
-| Hooghly crushed | **1632** |
-| Goa liberated / Portuguese exit | **1961** |
 
 ---
 

@@ -31,6 +31,17 @@
 
 ---
 
+## Must-Score Facts
+
+1. Gorkha entry into Kumaon ≈ **1790**; Garhwal climax ≈ **1804** (Pradyuman Shah at Khurbura); war with Company **1814–16**.
+2. **Amar Singh Thapa** = western Gorkha commander memory; Gillespie dies at **Nalapani**; Balbhadra defends; Ochterlony ≠ Dehradun column.
+3. **Subba** = governor; revenue + **begar** are the harsh-rule memories that later bridge Coolie-Begar.
+4. Sugauli / Segauli → British Kumaon / E. Garhwal + Tehri for Sudarshan Shah.
+5. Judge = **Vichari**; workers = **Sabha**; **Divya** = ordeal.
+6. Do not place Chand Char Aal facts inside Gorkha admin cards.
+
+---
+
 ## Confused Pairs
 
 | Pair | Key |
@@ -42,17 +53,6 @@
 | Gorkha end vs Chand end | Chand political end ≈ **1790**; Gorkha hill rule ends **1815** settlement |
 | Full Garhwal under British | Eastern Garhwal to Company; **Tehri** princely state for Sudarshan Shah |
 | Sugauli vs Segauli | Same treaty — **Sugauli** is the usual spelling; **Segauli** appears in older texts |
-
----
-
-## Must-Score Facts
-
-1. Gorkha entry into Kumaon ≈ **1790**; Garhwal climax ≈ **1804** (Pradyuman Shah at Khurbura); war with Company **1814–16**.
-2. **Amar Singh Thapa** = western Gorkha commander memory; Gillespie dies at **Nalapani**; Balbhadra defends; Ochterlony ≠ Dehradun column.
-3. **Subba** = governor; revenue + **begar** are the harsh-rule memories that later bridge Coolie-Begar.
-4. Sugauli / Segauli → British Kumaon / E. Garhwal + Tehri for Sudarshan Shah.
-5. Judge = **Vichari**; workers = **Sabha**; **Divya** = ordeal.
-6. Do not place Chand Char Aal facts inside Gorkha admin cards.
 
 ---
 

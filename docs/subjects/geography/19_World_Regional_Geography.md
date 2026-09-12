@@ -28,6 +28,40 @@ None mandatory — static political-map chapter.
 ---
 
 
+## Consolidated — 28 Must-Score Facts
+
+1. Continent area order: **Asia > Africa > North America > South America > Antarctica > Europe > Australia/Oceania**.
+2. The **Nobi** and **Kanto** plains are in **Japan**, not Korea.
+3. Iraq’s **Sunni Triangle** is **Baghdad, Tikrit, and Ramadi**. **Basra** (Shia south) is the trap.
+4. West Asia mountains west to east: **Pontic → Zagros → Hindu Kush → Karakoram**.
+5. Central Asia capitals: Uzbekistan **Tashkent**, Tajikistan **Dushanbe**, Kyrgyzstan **Bishkek**, Turkmenistan **Ashgabat**, Kazakhstan **Astana**.
+6. The **Kara Kum** desert is in **Turkmenistan**.
+7. **Borneo** is shared by Indonesia, Malaysia, and Brunei and is **not** a volcanic island dump.
+8. Philippines cane and coconut history fact: **Spanish and Americans**.
+9. Korea: **Seoul** south, **Pyongyang** north, roughly the **38th parallel**. Nobi/Kanto are not Korean plains.
+10. Palestine map: **Gaza** on the Egypt side, **West Bank** on the Jordan side, with the **Jordan River / Dead Sea** belt. Neighbours include Israel, Jordan, Egypt, Lebanon, and Syria.
+11. Western Europe has **westerlies** and rain in **all months**.
+12. The **Suez Canal** shortened the India–Europe sea route by about **7000 km**.
+13. **Cape Verde**’s capital is **Praia**. **Bamako** is Mali’s capital — do not swap them.
+14. Maghreb capitals: Morocco **Rabat**, Algeria **Algiers**, Tunisia **Tunis**.
+15. Brazil points: **Selva** rainforest and **Terra Roxa** coffee soil are both true.
+16. Australia’s **interior is desert**. The **north is tropical**, not temperate. The **Darling Range** lies in **south-west** Australia.
+17. India’s operational Antarctic stations are **Maitri** and **Bharati**. **Dakshin Gangotri** is not the operational answer.
+18. **Madeira** is Atlantic Portugal and is **not** Caribbean.
+19. Indonesia west to east: **Sumatra → Java → Bali → Lombok**.
+20. The **Mekong** delta is in **southern Vietnam**, not Cambodia.
+21. South America’s landlocked pair is **Bolivia** and **Paraguay**. Uruguay, Peru, and Suriname have coasts.
+22. **Igarka** is in **Russia**, not China.
+23. New Zealand’s capital is **Wellington**. NZ has North and South Islands with **Cook Strait** and is **not** an Australian state.
+24. **Ethiopia** is landlocked after Eritrea’s secession; **Eritrea** holds the Red Sea coast. The Horn is Ethiopia–Somalia–Eritrea–Djibouti.
+25. Only **double-landlocked** states in the usual set are **Uzbekistan** and **Liechtenstein**.
+26. Capitals that are not the country’s most-famous tourist city: Turkey **Ankara**, Australia **Canberra**, Brazil **Brasília**, UAE **Abu Dhabi**, NZ **Wellington**.
+27. Boundary parallels: **38th** ≈ Koreas; **49th** ≈ Canada–USA.
+28. South Asia map: Nepal and Bhutan are landlocked; Maldives and Sri Lanka are islands; **Kabul** is Afghanistan’s capital. The Caucasus trio is Georgia–Armenia–Azerbaijan; Istanbul is not Turkey’s capital.
+29. **Esperanto** is an artificial world auxiliary language. **Tamil** is an official language of **Singapore**. Spanish is official in Chile/Colombia/Cuba — **not** Congo. **Bahasa** = Indonesia (not Thailand). Mandarin leads classic L-1 speaker counts; English often leads total L-1+L-2.
+
+---
+
 ## Confused Pairs
 
 | Pair | Correct | Trap | Hindi |
@@ -66,40 +100,6 @@ None mandatory — static political-map chapter.
 | Capital ≠ mega-city | Ankara / Canberra / Brasília / Abu Dhabi | Istanbul / Sydney / Rio / Dubai | राजधानी |
 
 ---
-
----
-
-## Consolidated — 28 Must-Score Facts
-
-1. Continent area order: **Asia > Africa > North America > South America > Antarctica > Europe > Australia/Oceania**.
-2. The **Nobi** and **Kanto** plains are in **Japan**, not Korea.
-3. Iraq’s **Sunni Triangle** is **Baghdad, Tikrit, and Ramadi**. **Basra** (Shia south) is the trap.
-4. West Asia mountains west to east: **Pontic → Zagros → Hindu Kush → Karakoram**.
-5. Central Asia capitals: Uzbekistan **Tashkent**, Tajikistan **Dushanbe**, Kyrgyzstan **Bishkek**, Turkmenistan **Ashgabat**, Kazakhstan **Astana**.
-6. The **Kara Kum** desert is in **Turkmenistan**.
-7. **Borneo** is shared by Indonesia, Malaysia, and Brunei and is **not** a volcanic island dump.
-8. Philippines cane and coconut history fact: **Spanish and Americans**.
-9. Korea: **Seoul** south, **Pyongyang** north, roughly the **38th parallel**. Nobi/Kanto are not Korean plains.
-10. Palestine map: **Gaza** on the Egypt side, **West Bank** on the Jordan side, with the **Jordan River / Dead Sea** belt. Neighbours include Israel, Jordan, Egypt, Lebanon, and Syria.
-11. Western Europe has **westerlies** and rain in **all months**.
-12. The **Suez Canal** shortened the India–Europe sea route by about **7000 km**.
-13. **Cape Verde**’s capital is **Praia**. **Bamako** is Mali’s capital — do not swap them.
-14. Maghreb capitals: Morocco **Rabat**, Algeria **Algiers**, Tunisia **Tunis**.
-15. Brazil points: **Selva** rainforest and **Terra Roxa** coffee soil are both true.
-16. Australia’s **interior is desert**. The **north is tropical**, not temperate. The **Darling Range** lies in **south-west** Australia.
-17. India’s operational Antarctic stations are **Maitri** and **Bharati**. **Dakshin Gangotri** is not the operational answer.
-18. **Madeira** is Atlantic Portugal and is **not** Caribbean.
-19. Indonesia west to east: **Sumatra → Java → Bali → Lombok**.
-20. The **Mekong** delta is in **southern Vietnam**, not Cambodia.
-21. South America’s landlocked pair is **Bolivia** and **Paraguay**. Uruguay, Peru, and Suriname have coasts.
-22. **Igarka** is in **Russia**, not China.
-23. New Zealand’s capital is **Wellington**. NZ has North and South Islands with **Cook Strait** and is **not** an Australian state.
-24. **Ethiopia** is landlocked after Eritrea’s secession; **Eritrea** holds the Red Sea coast. The Horn is Ethiopia–Somalia–Eritrea–Djibouti.
-25. Only **double-landlocked** states in the usual set are **Uzbekistan** and **Liechtenstein**.
-26. Capitals that are not the country’s most-famous tourist city: Turkey **Ankara**, Australia **Canberra**, Brazil **Brasília**, UAE **Abu Dhabi**, NZ **Wellington**.
-27. Boundary parallels: **38th** ≈ Koreas; **49th** ≈ Canada–USA.
-28. South Asia map: Nepal and Bhutan are landlocked; Maldives and Sri Lanka are islands; **Kabul** is Afghanistan’s capital. The Caucasus trio is Georgia–Armenia–Azerbaijan; Istanbul is not Turkey’s capital.
-29. **Esperanto** is an artificial world auxiliary language. **Tamil** is an official language of **Singapore**. Spanish is official in Chile/Colombia/Cuba — **not** Congo. **Bahasa** = Indonesia (not Thailand). Mandarin leads classic L-1 speaker counts; English often leads total L-1+L-2.
 
 ---
 

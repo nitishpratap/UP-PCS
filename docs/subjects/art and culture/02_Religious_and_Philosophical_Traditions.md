@@ -24,28 +24,6 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 ---
 
 
-## Confused Pairs
-
-| A | B | Correct | Hindi |
-|---|----|------|-------|
-| Astika | Nastika | Accepts Veda as pramana vs rejects Vedic authority | आस्तिक / नास्तिक |
-| Nyaya | Vaisheshika | Logic (Gautama) vs atomism (Kanada) | न्याय / वैशेषिक |
-| Samkhya | Yoga | Theory (25 tattva) vs 8-limb practice | सांख्य / योग |
-| Purva Mimamsa | Uttara Mimamsa | Ritual (Jaimini) vs Vedanta (Badarayana) | पूर्व / उत्तर मीमांसा |
-| Advaita | Vishishtadvaita / Dvaita | Shankara vs Ramanuja vs Madhva | अद्वैत / विशिष्टाद्वैत / द्वैत |
-| Anicca | Anatta | Impermanence vs no-self | अनित्य / अनात्म |
-| Theravada | Mahayana | Arhat / Pali vs Bodhisattva / Sanskrit | थेरवाद / महायान |
-| Digambara | Svetambara | Sky-clad; no women monks vs white-clad; women monks | दिगंबर / श्वेतांबर |
-| Anekantavada | Syadvada | Many-sided reality vs seven-fold “syad” speech | अनेकांतवाद / स्याद्वाद |
-| Saguna | Nirguna | Formed God vs formless Absolute | सगुण / निर्गुण |
-| Alvar | Nayanar | 12 Vaishnava vs 63 Shaiva (Tamil) | आलवार / नायनार |
-| Parshva’s 4 vows | Mahavira’s 5 | Brahmacharya is the added fifth | पार्श्व / महावीर व्रत |
-| Chishti | Naqshbandi | Sama/qawwali, open vs silent dhikr, Sharia-leaning | चिश्ती / नक्शबंदी |
-| Wujud | Shuhud | Unity of being (Ibn Arabi) vs unity of witness (Sirhindi) | वजूद / शुहूद |
-| Tangible WH | Intangible ICH | Monument (Qutub) vs living rite (Kumbh, Yoga) | मूर्त / अमूर्त |
-
----
-
 ## Consolidated — 28 Must-Score Facts
 
 1. The six **Astika** schools that accept the Veda as pramana are **Nyaya–Gautama**, **Vaisheshika–Kanada**, **Samkhya–Kapila**, **Yoga–Patanjali**, **Mimamsa–Jaimini**, and **Vedanta–Badarayana**.
@@ -76,6 +54,28 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 26. **Kumbh Mela** is UNESCO **intangible** heritage (**2017**). It is not a monument World Heritage site.
 27. Salim Chishti’s dargah at **Fatehpur Sikri** is the high-yield UP Sufi site fact.
 28. Mathura’s **Kankali Tila** is the classic UP Jain archaeological fact.
+
+---
+
+## Confused Pairs
+
+| A | B | Correct | Hindi |
+|---|----|------|-------|
+| Astika | Nastika | Accepts Veda as pramana vs rejects Vedic authority | आस्तिक / नास्तिक |
+| Nyaya | Vaisheshika | Logic (Gautama) vs atomism (Kanada) | न्याय / वैशेषिक |
+| Samkhya | Yoga | Theory (25 tattva) vs 8-limb practice | सांख्य / योग |
+| Purva Mimamsa | Uttara Mimamsa | Ritual (Jaimini) vs Vedanta (Badarayana) | पूर्व / उत्तर मीमांसा |
+| Advaita | Vishishtadvaita / Dvaita | Shankara vs Ramanuja vs Madhva | अद्वैत / विशिष्टाद्वैत / द्वैत |
+| Anicca | Anatta | Impermanence vs no-self | अनित्य / अनात्म |
+| Theravada | Mahayana | Arhat / Pali vs Bodhisattva / Sanskrit | थेरवाद / महायान |
+| Digambara | Svetambara | Sky-clad; no women monks vs white-clad; women monks | दिगंबर / श्वेतांबर |
+| Anekantavada | Syadvada | Many-sided reality vs seven-fold “syad” speech | अनेकांतवाद / स्याद्वाद |
+| Saguna | Nirguna | Formed God vs formless Absolute | सगुण / निर्गुण |
+| Alvar | Nayanar | 12 Vaishnava vs 63 Shaiva (Tamil) | आलवार / नायनार |
+| Parshva’s 4 vows | Mahavira’s 5 | Brahmacharya is the added fifth | पार्श्व / महावीर व्रत |
+| Chishti | Naqshbandi | Sama/qawwali, open vs silent dhikr, Sharia-leaning | चिश्ती / नक्शबंदी |
+| Wujud | Shuhud | Unity of being (Ibn Arabi) vs unity of witness (Sirhindi) | वजूद / शुहूद |
+| Tangible WH | Intangible ICH | Monument (Qutub) vs living rite (Kumbh, Yoga) | मूर्त / अमूर्त |
 
 ---
 

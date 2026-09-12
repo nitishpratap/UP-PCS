@@ -28,6 +28,16 @@
 
 ---
 
+## Must-Score Facts
+
+1. UKPSC = state PSC.
+2. Advocate General ≠ Attorney General of India.
+3. First AG often listed as Nanda Ballabh Tiwari — still verify against the specific stem.
+4. Do not confuse State Finance Commission chair with PSC chair.
+5. Fund articles belong with the Funds chapter, not this PSC card.
+
+---
+
 ## Confused Pairs
 
 | Pair | Key |
@@ -36,16 +46,6 @@
 | Advocate General vs Attorney General | State (**Art. 165**) vs Union (**Art. 76**) |
 | AG vs Governor’s private counsel | AG is the State’s constitutional law officer |
 | State Finance Commission vs UKPSC | Different bodies — do not merge “first” chairs |
-
----
-
-## Must-Score Facts
-
-1. UKPSC = state PSC.
-2. Advocate General ≠ Attorney General of India.
-3. First AG often listed as Nanda Ballabh Tiwari — still verify against the specific stem.
-4. Do not confuse State Finance Commission chair with PSC chair.
-5. Fund articles belong with the Funds chapter, not this PSC card.
 
 ---
 

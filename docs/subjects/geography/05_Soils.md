@@ -32,6 +32,41 @@
 ---
 
 
+## Consolidated — 28 Must-Score Facts
+
+1. Ancient Indian names: **Urvara** = fertile and **Usara** = sterile. Jenny’s five factors are Climate, Living organisms, Relief, Parent rock, and Time (**CLORPT**).
+2. **Edaphic** means a **soil** factor — not climate, biotic, or topography. Residual / sedentary soils form on bedrock (regur, red). Transported / azonal soils are the alluvium of the plains.
+2a. World zonal pairs: **Podzol** = cold temperate woods; **Chernozem** = temperate steppe; **Laterite** = hot humid; **Terra Rossa** = limestone/dolomite weathering; **Sierozem** = mid-latitude desert.
+2b. Capillary action strongest in **clay** (Clay > silt/loam > sand). Halophytes = saline soils. Contour bunding = **hill slopes**, not desert margins or flood plains.
+3. Profile downward is **O → A (topsoil) → E → B → C → R**. **Eluviation** washes material **out** of A/E; **illuviation** deposits it **into B**. Young khadar has weak horizons; mature residual soils show clear horizons.
+4. The usual eight-type teaching set is Alluvial, Black / Regur, Red & Yellow, Laterite, Arid, Saline / Usara, Peaty, and Forest / Mountain.
+5. Parent material pairs: crystalline rock → red; Cuddapah–Vindhyan → calcareous / clay; Gondwana → immature poor; Deccan Trap → regur; extra-peninsular sediment → alluvium. Climate can override rock — granite becomes laterite if wet, or sandy if arid.
+6. **Pedocal** soils accumulate lime in arid tracts such as Rajasthan. Himalayan soils develop better on gentler **north-facing** slopes; many south faces are too steep.
+7. **Alluvial** is India’s **largest** soil group (about **40%** in the Class 11 frame). It is rich in potash, **poor in phosphorus**, low in nitrogen–humus, and supports over **40%** of the people. Uttar Pradesh is about **90%** alluvial. Do not crown red as the largest group.
+8. **Khadar** is new, fine, and fertile. **Bangar** is older, coarser, and has **more kankar**. **Bhur** is sandy ridges of the western Gangetic belt. **Rarh** is older West Bengal / Jharkhand fringe upland — not active khadar.
+9. **Bhabar** (about 8–16 km) is pebble fans where streams **disappear**. **Tarai** (about 15–30 km) lies south, where streams **re-emerge**; it is moist and nitrogen-rich but phosphorus-poor.
+10. **Black / regur** soils sit mainly on Deccan and Rajmahal Trap (fissure volcanic); Tamil Nadu black may sit on gneiss / schist. Clay is often **≥62%**, montmorillonite is the key clay, and cotton is the crop. Aliases include Tropical Black Earth / Tropical Chernozem. Black soil is **not** Himalayan.
+11. Keep black soil area about **16.6% / ~5.46 lakh km²** — not a “46 lakh km²” slip. Valley black is more fertile than upland black. Sticky when wet and cracked when dry. Jharkhand black points to **Rajmahal**.
+12. **Red / yellow** soils form on crystalline granite–gneiss–quartzite. Colour comes from **ferric oxides** / iron diffusion. They are **not** laterite and are **not** India’s largest soil. Upland gravelly red is poor; lower-slope deep red is fertile.
+13. **Laterite** was named by Buchanan in 1807 from *later* (brick). It needs high temperature, heavy rain, and a wet–dry rhythm. It is **rich in iron and aluminium**. Strongest on the Western Ghats / Malabar (Kerala), then Maharashtra. Crops: cashew, **tapioca**, tea, coffee, rubber — not Rajasthan or Uttar Pradesh plains.
+14. **Desert / arid** soils are about **90–95%** aeolian sand, often **calcareous** in western Rajasthan, with phosphate roughly like alluvium and nitrogen mainly as nitrates. Sand is blown from the Indus basin and coasts by south-west winds.
+15. **Saline / usara** soils carry sodium–potassium–magnesium salts and **reh**. The **Rann** and Gulf of Khambhat mouths are classic crust belts. Gujarat usually leads salt-affected area. Remedy for alkali / sodic soil is **gypsum**, not lime. Acid soils take **lime**.
+16. **Peaty / kari** soils of Kerala (Kottayam–Alappuzha / Kuttanad), plus Sundarbans and north Bihar pockets, grow paddy after rains. Their black colour is **not** Deccan cotton regur.
+17. **Forest / mountain** soils cover about **8.67%**. Himalaya soils on the **north face** and Ghats plantation soils often hold rich humus. Mountain soils are thin on steep slopes and loamy in valleys.
+18. **Karewa** soils are Kashmir **lacustrine** terraces famous for saffron, almond, and apple — not ordinary Gangetic alluvium.
+19. Texture: sand drains, clay holds, loam is best for crops. Clay particles are smaller than **0.002 mm**. Among copper, iron, manganese, and zinc, **zinc** is the most often deficient micronutrient.
+20. Water erosion ladder: **Splash → Sheet → Rill → Gully → Ravine / badland**. Classic badlands sit on the Chambal and the Agra–Etawah–Jalaun belt. Wind / deflation rules the Thar; coastal wave erosion hits Kerala–Tamil Nadu–Odisha–West Bengal–Gujarat coasts.
+21. **Jhum** (shifting cultivation) drives erosion in the north-east and parts of the Ghats. Conservation: contour plough / bund / trench, terrace on steep slopes, strip cropping, **shelter belts** against wind, **check dams** for gullies, mulch / rotation, and **zero tillage plus crop residue**.
+22. **Mitti Bachao** is linked to **Hoshangabad / Narmadapuram, Madhya Pradesh**. World Soil Day is **5 December**. The Central Soil Conservation Board prepares conservation plans.
+23. Uttar Pradesh local names: **Mar / Kabar** = Bundelkhand **black**; **Parua / Rakar (pathari)** = **red**; **Bhonta / Monta** = Vindhyan; **Usar / Reh / Kallar / Thur** = western–central canal tracts.
+24. Tea prefers **slightly acidic**, well-drained soils — not black cotton as a default. Canal irrigation without drainage can create usar even on the Indira Gandhi Canal belt.
+25. **Terra Roxa** is Brazil’s basaltic coffee soil and **Selva** is the Brazilian rainforest — not Indian regur labels.
+26. Earthworms are friends of farmers and raise fertility. The point is that they do **not** have two pairs of hearts.
+27. Climate can make the same granite lateritic in wet belts or sandy in arid Rajasthan. Tamil Nadu can hold black soil even on gneiss under hot–dry conditions.
+28. Saline and sodic are not the same: saline means soluble salts; sodic means exchangeable sodium with high pH. Use gypsum for sodic / usar and lime only for acid soils.
+
+---
+
 ## Confused Pairs
 
 | Pair | Correct | Trap | Hindi |
@@ -72,41 +107,6 @@
 | Karewa vs alluvium | Karewa = **Kashmir lacustrine** (saffron) | Call it ordinary Gangetic alluvium | करेवा = कश्मीर |
 
 ---
-
----
-
-## Consolidated — 28 Must-Score Facts
-
-1. Ancient Indian names: **Urvara** = fertile and **Usara** = sterile. Jenny’s five factors are Climate, Living organisms, Relief, Parent rock, and Time (**CLORPT**).
-2. **Edaphic** means a **soil** factor — not climate, biotic, or topography. Residual / sedentary soils form on bedrock (regur, red). Transported / azonal soils are the alluvium of the plains.
-2a. World zonal pairs: **Podzol** = cold temperate woods; **Chernozem** = temperate steppe; **Laterite** = hot humid; **Terra Rossa** = limestone/dolomite weathering; **Sierozem** = mid-latitude desert.
-2b. Capillary action strongest in **clay** (Clay > silt/loam > sand). Halophytes = saline soils. Contour bunding = **hill slopes**, not desert margins or flood plains.
-3. Profile downward is **O → A (topsoil) → E → B → C → R**. **Eluviation** washes material **out** of A/E; **illuviation** deposits it **into B**. Young khadar has weak horizons; mature residual soils show clear horizons.
-4. The usual eight-type teaching set is Alluvial, Black / Regur, Red & Yellow, Laterite, Arid, Saline / Usara, Peaty, and Forest / Mountain.
-5. Parent material pairs: crystalline rock → red; Cuddapah–Vindhyan → calcareous / clay; Gondwana → immature poor; Deccan Trap → regur; extra-peninsular sediment → alluvium. Climate can override rock — granite becomes laterite if wet, or sandy if arid.
-6. **Pedocal** soils accumulate lime in arid tracts such as Rajasthan. Himalayan soils develop better on gentler **north-facing** slopes; many south faces are too steep.
-7. **Alluvial** is India’s **largest** soil group (about **40%** in the Class 11 frame). It is rich in potash, **poor in phosphorus**, low in nitrogen–humus, and supports over **40%** of the people. Uttar Pradesh is about **90%** alluvial. Do not crown red as the largest group.
-8. **Khadar** is new, fine, and fertile. **Bangar** is older, coarser, and has **more kankar**. **Bhur** is sandy ridges of the western Gangetic belt. **Rarh** is older West Bengal / Jharkhand fringe upland — not active khadar.
-9. **Bhabar** (about 8–16 km) is pebble fans where streams **disappear**. **Tarai** (about 15–30 km) lies south, where streams **re-emerge**; it is moist and nitrogen-rich but phosphorus-poor.
-10. **Black / regur** soils sit mainly on Deccan and Rajmahal Trap (fissure volcanic); Tamil Nadu black may sit on gneiss / schist. Clay is often **≥62%**, montmorillonite is the key clay, and cotton is the crop. Aliases include Tropical Black Earth / Tropical Chernozem. Black soil is **not** Himalayan.
-11. Keep black soil area about **16.6% / ~5.46 lakh km²** — not a “46 lakh km²” slip. Valley black is more fertile than upland black. Sticky when wet and cracked when dry. Jharkhand black points to **Rajmahal**.
-12. **Red / yellow** soils form on crystalline granite–gneiss–quartzite. Colour comes from **ferric oxides** / iron diffusion. They are **not** laterite and are **not** India’s largest soil. Upland gravelly red is poor; lower-slope deep red is fertile.
-13. **Laterite** was named by Buchanan in 1807 from *later* (brick). It needs high temperature, heavy rain, and a wet–dry rhythm. It is **rich in iron and aluminium**. Strongest on the Western Ghats / Malabar (Kerala), then Maharashtra. Crops: cashew, **tapioca**, tea, coffee, rubber — not Rajasthan or Uttar Pradesh plains.
-14. **Desert / arid** soils are about **90–95%** aeolian sand, often **calcareous** in western Rajasthan, with phosphate roughly like alluvium and nitrogen mainly as nitrates. Sand is blown from the Indus basin and coasts by south-west winds.
-15. **Saline / usara** soils carry sodium–potassium–magnesium salts and **reh**. The **Rann** and Gulf of Khambhat mouths are classic crust belts. Gujarat usually leads salt-affected area. Remedy for alkali / sodic soil is **gypsum**, not lime. Acid soils take **lime**.
-16. **Peaty / kari** soils of Kerala (Kottayam–Alappuzha / Kuttanad), plus Sundarbans and north Bihar pockets, grow paddy after rains. Their black colour is **not** Deccan cotton regur.
-17. **Forest / mountain** soils cover about **8.67%**. Himalaya soils on the **north face** and Ghats plantation soils often hold rich humus. Mountain soils are thin on steep slopes and loamy in valleys.
-18. **Karewa** soils are Kashmir **lacustrine** terraces famous for saffron, almond, and apple — not ordinary Gangetic alluvium.
-19. Texture: sand drains, clay holds, loam is best for crops. Clay particles are smaller than **0.002 mm**. Among copper, iron, manganese, and zinc, **zinc** is the most often deficient micronutrient.
-20. Water erosion ladder: **Splash → Sheet → Rill → Gully → Ravine / badland**. Classic badlands sit on the Chambal and the Agra–Etawah–Jalaun belt. Wind / deflation rules the Thar; coastal wave erosion hits Kerala–Tamil Nadu–Odisha–West Bengal–Gujarat coasts.
-21. **Jhum** (shifting cultivation) drives erosion in the north-east and parts of the Ghats. Conservation: contour plough / bund / trench, terrace on steep slopes, strip cropping, **shelter belts** against wind, **check dams** for gullies, mulch / rotation, and **zero tillage plus crop residue**.
-22. **Mitti Bachao** is linked to **Hoshangabad / Narmadapuram, Madhya Pradesh**. World Soil Day is **5 December**. The Central Soil Conservation Board prepares conservation plans.
-23. Uttar Pradesh local names: **Mar / Kabar** = Bundelkhand **black**; **Parua / Rakar (pathari)** = **red**; **Bhonta / Monta** = Vindhyan; **Usar / Reh / Kallar / Thur** = western–central canal tracts.
-24. Tea prefers **slightly acidic**, well-drained soils — not black cotton as a default. Canal irrigation without drainage can create usar even on the Indira Gandhi Canal belt.
-25. **Terra Roxa** is Brazil’s basaltic coffee soil and **Selva** is the Brazilian rainforest — not Indian regur labels.
-26. Earthworms are friends of farmers and raise fertility. The point is that they do **not** have two pairs of hearts.
-27. Climate can make the same granite lateritic in wet belts or sandy in arid Rajasthan. Tamil Nadu can hold black soil even on gneiss under hot–dry conditions.
-28. Saline and sodic are not the same: saline means soluble salts; sodic means exchangeable sodium with high pH. Use gypsum for sodic / usar and lime only for acid soils.
 
 ---
 

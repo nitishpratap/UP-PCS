@@ -15,39 +15,6 @@ Turkish Invasions of India | Arab Invasion of Sind (Muhammad bin Qasim) | Mahmud
 
 ---
 
-## Confused Pairs
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Arabs vs Turks | **Qasim 712** Sindh foothold vs Ghazni/Ghori north India | अरब / तुर्क |
-| Ghaznavid vs Ghurid | Mahmud raided; Ghori conquered and stayed | गज़नवी / गौर |
-| Firdausi vs Firishta | **Shahnama** (Mahmud’s court) vs **Tarikh-i-Firishta** (Bijapur) | फिरदौसी / फरिश्ता |
-| Tarain I vs II | **1191** Prithviraj wins; **1192** Ghori wins | तराइन प्रथम / द्वितीय |
-| Naika Devi vs Prithviraj | Ghori’s **first India defeat (1178 Abu)** vs Tarain **1191** win | नायका देवी / पृथ्वीराज |
-| Tarain vs Chandawar vs Panipat | 1192 Prithviraj; **1194** Jaichand (**Firozabad/Yamuna**); **1526** Ibrahim Lodi | तराइन / चंदावर / पानीपत |
-| Vidyadhar vs other Chandelas | Only Chandela who **resisted Mahmud** (**1019–20**) | विद्याधर |
-| Mamluk vs Khalji | Turkish slave rulers **1206–1290** vs Turko-Afghan **1290+** | मामलूक / खिलजी |
-| Aibak Lahore vs Iltutmish Delhi | Aibak capital **Lahore**; Iltutmish first lasting **Delhi** capital | लाहौर / दिल्ली |
-| Firuz vs Ghiyasuddin on Qutub | **Firuz** repaired 4th/added 5th; **Ghiyasuddin Tughlaq** did not build it | कुतुब मीनार |
-| Yalduz/Qabacha vs Altunia | Iltutmish rivals vs Razia’s **Bhatinda** rebel | अल्तुनिया |
-| Devgiri vs Warangal rulers | **Ramachandra** (Devgiri) vs **Prataparudra** (Warangal) | देवगिरि / वारंगल |
-| Hazar-Dinari vs Zafar Khan | **Malik Kafur** vs Mongol-martyr general | हजार दिनारी |
-| Iqta vs Khalsa | Assigned revenue to **Muqti** (not direct Sultan deposit) vs **crown** land; **Iltutmish** institutionalised Iqta; **Siyasatnama** = Muqti source | इक्ता / खालसा |
-| Khalsa vs Jagir (2025) | Direct Sultan land vs assigned noble land | खालसा / जागीर |
-| Dagh vs Chehra | Horse branding vs soldier descriptive roll (Alauddin) | दाग / चेहरा |
-| Sijda vs Paibos | Prostration vs kissing feet (Balban rituals) | सिजदा / पैबोस |
-| Barani vs Ibn Battuta | Sultanate historian vs Moroccan traveller (**Rihla**) | बरनी / इब्न बतूता |
-| Qutub Minar vs Alai Darwaza | Aibak/Iltutmish minar vs **Alauddin** gateway **1311** | क़ुतुब / अलाई दरवाज़ा |
-| Muhammad bin Tughlaq vs Firoz Shah | Experiments (Daulatabad, token, Amir-i-Kohi) vs canals, welfare, hereditary iqta | मुहम्मद बिन तुग़लक / फ़िरोज़ शाह |
-| Amir-i-Kohi vs Shahna-i-Mandi | Agriculture dept (Muhammad) vs market control (Alauddin) | आमिर-ए-कोही / शहना-ए-मंडी |
-| Haqq-i-Sharb vs Ghari/Charai | Firoz irrigation tax vs Alauddin house/grazing taxes | हक़-ए-शर्ब |
-| Gulrukhi vs Lakh Baksh | Sikandar Lodi’s pen-name vs Aibak’s generosity title | गुलरुखी |
-| Token currency | **Muhammad bin Tughlaq (1329–30)** — UPPCS 2008 fact | टोकन मुद्रा |
-| Sikandar Lodi vs Ibrahim | **Agra** builder vs **Panipat 1526** last Sultan | सिकंदर / इब्राहिम |
-| chakla vs Sarkar | Between Subah and Pargana vs **Mughal** term trap | चकला / सरकार |
-
----
-
 ## Consolidated — 30 Must-Score Facts
 
 1. In **712**, Arab **Muhammad bin Qasim** took **Sindh** from **Dahir** (**Chachnama**; capital **Arod**); this was an Indus foothold, not Gangetic conquest.
@@ -80,6 +47,39 @@ Turkish Invasions of India | Arab Invasion of Sind (Muhammad bin Qasim) | Mahmud
 28. **Sikandar Lodi** built up **Agra**; do not confuse him with **Ibrahim Lodi** at Panipat **1526**. UP facts: **Chandawar** **1194**; **Jaunpur** **1484**; **Kol (Aligarh)** garrison.
 29. Turkish success rested on Rajput **disunity** after Pratihara decline — Chauhans, Gahadavalas, Chandelas (**Vidyadhar** alone held Mahmud in **1019–20**), and Paramaras fought separately.
 30. Ghaznavids **raided**; Ghurids **conquered and stayed** — that contrast is the first Turkish-invasion trap. **Firdausi ≠ Firishta** (Shahnama vs Bijapur chronicle).
+
+---
+
+## Confused Pairs
+
+| A | B | Difference | Hindi |
+|---|----|------------|-------|
+| Arabs vs Turks | **Qasim 712** Sindh foothold vs Ghazni/Ghori north India | अरब / तुर्क |
+| Ghaznavid vs Ghurid | Mahmud raided; Ghori conquered and stayed | गज़नवी / गौर |
+| Firdausi vs Firishta | **Shahnama** (Mahmud’s court) vs **Tarikh-i-Firishta** (Bijapur) | फिरदौसी / फरिश्ता |
+| Tarain I vs II | **1191** Prithviraj wins; **1192** Ghori wins | तराइन प्रथम / द्वितीय |
+| Naika Devi vs Prithviraj | Ghori’s **first India defeat (1178 Abu)** vs Tarain **1191** win | नायका देवी / पृथ्वीराज |
+| Tarain vs Chandawar vs Panipat | 1192 Prithviraj; **1194** Jaichand (**Firozabad/Yamuna**); **1526** Ibrahim Lodi | तराइन / चंदावर / पानीपत |
+| Vidyadhar vs other Chandelas | Only Chandela who **resisted Mahmud** (**1019–20**) | विद्याधर |
+| Mamluk vs Khalji | Turkish slave rulers **1206–1290** vs Turko-Afghan **1290+** | मामलूक / खिलजी |
+| Aibak Lahore vs Iltutmish Delhi | Aibak capital **Lahore**; Iltutmish first lasting **Delhi** capital | लाहौर / दिल्ली |
+| Firuz vs Ghiyasuddin on Qutub | **Firuz** repaired 4th/added 5th; **Ghiyasuddin Tughlaq** did not build it | कुतुब मीनार |
+| Yalduz/Qabacha vs Altunia | Iltutmish rivals vs Razia’s **Bhatinda** rebel | अल्तुनिया |
+| Devgiri vs Warangal rulers | **Ramachandra** (Devgiri) vs **Prataparudra** (Warangal) | देवगिरि / वारंगल |
+| Hazar-Dinari vs Zafar Khan | **Malik Kafur** vs Mongol-martyr general | हजार दिनारी |
+| Iqta vs Khalsa | Assigned revenue to **Muqti** (not direct Sultan deposit) vs **crown** land; **Iltutmish** institutionalised Iqta; **Siyasatnama** = Muqti source | इक्ता / खालसा |
+| Khalsa vs Jagir (2025) | Direct Sultan land vs assigned noble land | खालसा / जागीर |
+| Dagh vs Chehra | Horse branding vs soldier descriptive roll (Alauddin) | दाग / चेहरा |
+| Sijda vs Paibos | Prostration vs kissing feet (Balban rituals) | सिजदा / पैबोस |
+| Barani vs Ibn Battuta | Sultanate historian vs Moroccan traveller (**Rihla**) | बरनी / इब्न बतूता |
+| Qutub Minar vs Alai Darwaza | Aibak/Iltutmish minar vs **Alauddin** gateway **1311** | क़ुतुब / अलाई दरवाज़ा |
+| Muhammad bin Tughlaq vs Firoz Shah | Experiments (Daulatabad, token, Amir-i-Kohi) vs canals, welfare, hereditary iqta | मुहम्मद बिन तुग़लक / फ़िरोज़ शाह |
+| Amir-i-Kohi vs Shahna-i-Mandi | Agriculture dept (Muhammad) vs market control (Alauddin) | आमिर-ए-कोही / शहना-ए-मंडी |
+| Haqq-i-Sharb vs Ghari/Charai | Firoz irrigation tax vs Alauddin house/grazing taxes | हक़-ए-शर्ब |
+| Gulrukhi vs Lakh Baksh | Sikandar Lodi’s pen-name vs Aibak’s generosity title | गुलरुखी |
+| Token currency | **Muhammad bin Tughlaq (1329–30)** — UPPCS 2008 fact | टोकन मुद्रा |
+| Sikandar Lodi vs Ibrahim | **Agra** builder vs **Panipat 1526** last Sultan | सिकंदर / इब्राहिम |
+| chakla vs Sarkar | Between Subah and Pargana vs **Mughal** term trap | चकला / सरकार |
 
 ---
 

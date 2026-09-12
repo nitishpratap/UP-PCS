@@ -28,6 +28,16 @@
 
 ---
 
+## Must-Score Facts
+
+1. Five STs = Jaunsari, Tharu, Bhotia, Buksa, Raji.
+2. Declared ST in **1967**.
+3. Do not pick 1969/1970 on year stems.
+4. Official language card = Hindi.
+5. Raji geography detail → Geography UK Topic 6.
+
+---
+
 ## Confused Pairs
 
 | Pair | Key |
@@ -36,16 +46,6 @@
 | Five STs vs many hill castes | Only the notified five are STs of UK |
 | Raji vs Bhotia | Both in the five; different ecological niches |
 | Language Hindi vs English only | Hindi is the official language card for state polity |
-
----
-
-## Must-Score Facts
-
-1. Five STs = Jaunsari, Tharu, Bhotia, Buksa, Raji.
-2. Declared ST in **1967**.
-3. Do not pick 1969/1970 on year stems.
-4. Official language card = Hindi.
-5. Raji geography detail → Geography UK Topic 6.
 
 ---
 

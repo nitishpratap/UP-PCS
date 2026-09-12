@@ -21,23 +21,6 @@ Forests and their Types | Forest Types in India | Forest Conservation | Forest M
 
 ---
 
-## Confused Pairs
-
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **Forest cover** | Trees ≥1 ha patch, ≥10% canopy — any land | वन आवरण |
-| **Tree cover** | Scattered trees outside forest patches | वृक्ष आवरण |
-| **Reserved Forest** | Strictest IFA class — most acts prohibited unless permitted | संरक्षित वन |
-| **Protected Forest** | State-regulated forest — some customary rights may continue | संरक्षित वन (अधिकार सहित) |
-| **Recorded Forest Area** | Land legally notified as forest on records | अभिलिखित वन क्षेत्र |
-| **FCA 1980** | Controls **diversion** of forest land for non-forest use | वन संरक्षण अधिनियम |
-| **FRA 2006** | Recognizes **dweller rights** on forest land | वन अधिकार अधिनियम |
-| **Social forestry** | Trees on **non-forest** land for local needs | सामाजिक वानिकी |
-| **Agroforestry** | Trees integrated with **crops/livestock** | कृषि वानिकी |
-| **JFM** | State + village co-manage **degraded forest** | संयुक्त वन प्रबंधन |
-
----
-
 ## Consolidated — 36 Must-Score Facts
 
 1. Forest cover in ISFR means a patch of at least **1 ha** with canopy **≥10%**, on any land ownership.
@@ -76,6 +59,23 @@ Forests and their Types | Forest Types in India | Forest Conservation | Forest M
 34. Bamboo on **non-forest** land was omitted from “tree” under the **Indian Forest (Amendment) Act, 2017**.
 35. **FRI Dehradun (1906)**; **ICFRE HQ Dehradun**; **IIFM Bhopal**; Survey of India ≠ environment agency.
 36. CAMPA manages compensatory afforestation funds after diversion — it is not FRA Gram Sabha rights recognition.
+
+---
+
+## Confused Pairs
+
+| Term | One-line difference | Hindi |
+|------|---------------------|-------|
+| **Forest cover** | Trees ≥1 ha patch, ≥10% canopy — any land | वन आवरण |
+| **Tree cover** | Scattered trees outside forest patches | वृक्ष आवरण |
+| **Reserved Forest** | Strictest IFA class — most acts prohibited unless permitted | संरक्षित वन |
+| **Protected Forest** | State-regulated forest — some customary rights may continue | संरक्षित वन (अधिकार सहित) |
+| **Recorded Forest Area** | Land legally notified as forest on records | अभिलिखित वन क्षेत्र |
+| **FCA 1980** | Controls **diversion** of forest land for non-forest use | वन संरक्षण अधिनियम |
+| **FRA 2006** | Recognizes **dweller rights** on forest land | वन अधिकार अधिनियम |
+| **Social forestry** | Trees on **non-forest** land for local needs | सामाजिक वानिकी |
+| **Agroforestry** | Trees integrated with **crops/livestock** | कृषि वानिकी |
+| **JFM** | State + village co-manage **degraded forest** | संयुक्त वन प्रबंधन |
 
 ---
 

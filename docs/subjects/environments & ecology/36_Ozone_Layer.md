@@ -21,19 +21,6 @@ Ozone Layer | Ozone Depletion | Ozone Hole | Ozone Depleting Substances (ODS) | 
 
 ---
 
-## Confused Pairs
-
-| Term | One-line fact |
-|------|---------------|
-| **Stratospheric / Tropospheric O₃** | UV shield / pollutant + GHG |
-| **Ozone depletion / Ozone hole** | Column loss / Antarctic region < 220 DU |
-| **ODS / HFC** | Ozone destroyers / climate warmers (Kigali) |
-| **Vienna / Montreal** | 1985 framework / 1987 binding phase-out |
-| **ODP / GWP** | Ozone damage potential / heat-trapping potential |
-| **Dobson Unit** | Column ozone measure |
-
----
-
 ## Consolidated — 34 Must-Score Facts
 
 1. **Ozone (O₃)** is triatomic oxygen. **Good ozone** sits in the **stratosphere** (about **15–30/35 km**). Ground-level ozone is a harmful pollutant.
@@ -70,6 +57,19 @@ Ozone Layer | Ozone Depletion | Ozone Hole | Ozone Depleting Substances (ODS) | 
 32. Ozone as a gas near the surface is poisonous to lungs/respiratory systems; as a stratospheric layer it is essential for biotic life via UV shielding.
 33. Formation of ozone is slower over polar regions, so depletion effects are strongest there.
 34. Acid rain is driven by **SO₂ / NOx**, not “nitric acid alone” as a matched pair with ozone–CFC style keys.
+
+---
+
+## Confused Pairs
+
+| Term | One-line fact |
+|------|---------------|
+| **Stratospheric / Tropospheric O₃** | UV shield / pollutant + GHG |
+| **Ozone depletion / Ozone hole** | Column loss / Antarctic region < 220 DU |
+| **ODS / HFC** | Ozone destroyers / climate warmers (Kigali) |
+| **Vienna / Montreal** | 1985 framework / 1987 binding phase-out |
+| **ODP / GWP** | Ozone damage potential / heat-trapping potential |
+| **Dobson Unit** | Column ozone measure |
 
 ---
 

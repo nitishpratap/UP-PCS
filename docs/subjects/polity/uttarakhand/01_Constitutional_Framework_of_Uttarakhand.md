@@ -30,6 +30,16 @@
 
 ---
 
+## Must-Score Facts
+
+1. Executive = Governor + CM + CoM (both statements true).
+2. First CM = Nityanand Swami; first CS = Indu Kumar Pandey.
+3. First woman Governor = Margaret Alva.
+4. Harbans Kapoor = Speaker + Protem more than once.
+5. State created **9 Nov 2000**.
+
+---
+
 ## Confused Pairs
 
 | Pair | Key |
@@ -38,16 +48,6 @@
 | First Finance Commission Chair vs first CM | Do not auto-pair Swami to every “first” post |
 | Governor vs CM in executive | Both belong in the executive description |
 | Speaker once vs more than once | Harbans Kapoor held Speaker **and** Protem **more than once** |
-
----
-
-## Must-Score Facts
-
-1. Executive = Governor + CM + CoM (both statements true).
-2. First CM = Nityanand Swami; first CS = Indu Kumar Pandey.
-3. First woman Governor = Margaret Alva.
-4. Harbans Kapoor = Speaker + Protem more than once.
-5. State created **9 Nov 2000**.
 
 ---
 

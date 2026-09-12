@@ -22,23 +22,6 @@ Renewable | Non-renewable | Conventional | Non-conventional | Solar | Wind | Bio
 
 ---
 
-## Confused Pairs
-
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **Renewable** | Replenished on human timescale | नवीकरणीय |
-| **Non-renewable** | Finite fossil/mineral stock | अनवीकरणीय |
-| **Conventional** | Traditional grid: coal, oil, gas, large hydro, nuclear | पारंपरिक |
-| **Non-conventional** | Newer alternatives: solar, wind, biomass, tidal, SHP | गैर-पारंपरिक |
-| **Bioethanol** | Ethanol from biomass blended with petrol | बायो-इथेनॉल |
-| **Biodiesel** | Methyl ester from oils blended with diesel | बायो-डीजल |
-| **Biogas** | CH₄ + CO₂ from anaerobic digestion | बायोगैस |
-| **OTEC** | Ocean thermal energy — warm surface vs cold deep water | OTEC |
-| **PAT** | BEE energy-efficiency trading via ESCerts | PAT |
-| **BEE** | Bureau of Energy Efficiency under EC Act 2001 | BEE |
-
----
-
 ## Consolidated — 34 Must-Score Facts
 
 1. **Renewable** sources replenish on a human timescale (sun, wind, water, biomass, geothermal). **Non-renewable** sources are finite stocks (coal, oil, gas, uranium). Notes usually treat **nuclear as non-renewable** even though it is low-carbon.
@@ -75,6 +58,23 @@ Renewable | Non-renewable | Conventional | Non-conventional | Solar | Wind | Bio
 32. Small hydro cutoff **≤25 MW** is the recurring MNRE number.
 33. Nuclear’s classification is usually non-renewable/conventional, not “renewable because low carbon.”
 34. Energy conservation (using less) and energy efficiency (more service per unit energy) are neighbours under BEE/PAT, not synonyms for renewable capacity addition alone.
+
+---
+
+## Confused Pairs
+
+| Term | One-line difference | Hindi |
+|------|---------------------|-------|
+| **Renewable** | Replenished on human timescale | नवीकरणीय |
+| **Non-renewable** | Finite fossil/mineral stock | अनवीकरणीय |
+| **Conventional** | Traditional grid: coal, oil, gas, large hydro, nuclear | पारंपरिक |
+| **Non-conventional** | Newer alternatives: solar, wind, biomass, tidal, SHP | गैर-पारंपरिक |
+| **Bioethanol** | Ethanol from biomass blended with petrol | बायो-इथेनॉल |
+| **Biodiesel** | Methyl ester from oils blended with diesel | बायो-डीजल |
+| **Biogas** | CH₄ + CO₂ from anaerobic digestion | बायोगैस |
+| **OTEC** | Ocean thermal energy — warm surface vs cold deep water | OTEC |
+| **PAT** | BEE energy-efficiency trading via ESCerts | PAT |
+| **BEE** | Bureau of Energy Efficiency under EC Act 2001 | BEE |
 
 ---
 

@@ -37,34 +37,6 @@ Newest first. One event, one fact.
 ---
 
 
-## Confused Pairs
-
-| Term A | Term B | Core difference |
-|--------|--------|-----------------|
-| **UP capital** | **UP High Court** | **Lucknow** | Principal seat **Prayagraj**; Lucknow = **Bench** |
-| **Lucknow Bench** | **Second High Court** | Permanent bench of Allahabad HC (1948) | Uttarakhand’s HC is **Nainital** (2000) — a different court |
-| **UP LA 403** | **Art. 170 cap** | Actual elected strength | Constitutional max **500** / min **60** |
-| **UP LC 100** | **Art. 171 cap** | Actual strength | Max **1/3 of LA** (= 134) and min **40** |
-| **LS 80** | **RS 31** | Directly elected from UP | Indirect; largest RS contingent |
-| **Pre-2000 UP** | **Post-9 Nov 2000** | LA 425 · LS 85 · RS 34 | LA **403** · LS **80** · RS **31** |
-| **Hindi (1951)** | **Urdu (1989)** | Official language | **Second** official language |
-| **Allahabad HC 1866** | **Chartered HCs 1862** | NWP Letters Patent; first seat **Agra** | Bombay, Calcutta, Madras |
-| **First Governor** | **First CM** | **Sarojini Naidu** | **Govind Ballabh Pant** |
-| **Uttaranchal** | **Uttarakhand** | Name from **9 Nov 2000** | Rename **1 Jan 2007** |
-| **UPPSC** | **UPSC** | SPSC · HQ **Prayagraj** · retire **62** | Union · Delhi · retire **65** |
-| **UP SEC** | **ECI** | Panchayat + ULB polls (243K / 243ZA) | Parliament + State **legislature** + President/VP |
-| **UP SFC (243I/Y)** | **Union FC (280)** | Governor; PRI + municipal share | President; Union–State CFI share |
-| **Lokayukta** | **Lokpal** | UP Act **1975** + Up-Lokayukta | Union Act **2013** |
-| **Kshetra Panchayat** | **Panchayat Samiti** | UP’s intermediate tier | Generic / other-State name |
-| **Nagar Nigam** | **Nagar Palika Parishad** | Municipal Corporation (1959 Act) | Municipal Council (1916 Act) |
-| **Mayor** | **Nagar Ayukt** | Political head of a Nigam | State-appointed **executive** |
-| **Cantonment Board** | **Nagar Nigam** | Defence / Cantonments Act | 74th municipality |
-| **Noida / GNIDA / YEIDA** | **Nagar Nigam** | Industrial development **authority** (243Q exception) | Elected 74th municipality |
-| **Art. 371 States** | **Uttar Pradesh** | Special provisions in 371–371J | **None** |
-| **CoM cap (91st)** | **Art. 164 pleasure** | ≤ **15%** of LA (UP ≈ **60** incl. CM); floor **12** | Governor dismisses a ministry that has lost the floor |
-
----
-
 ## Consolidated — 32 Must-Score Facts
 
 1. Uttar Pradesh’s **capital** is **Lucknow** (Raj Bhavan and Vidhan Bhavan). The High Court’s **principal seat** is **Prayagraj**. Lucknow hosts a **Bench**, not a second High Court.
@@ -99,6 +71,34 @@ Newest first. One event, one fact.
 30. Cantonment Boards are under **Defence**, not the 74th municipal track. Development authorities such as **Noida, Greater Noida, and YEIDA** are industrial township exceptions under Article **243Q** — **not** Nagar Nigams.
 31. Lucknow runs the political executive; Prayagraj runs the High Court and UPPSC. That geography-of-power split is a recurring prelims trap.
 32. Reorganisation arithmetic (**425/85/34 → 403/80/31**) plus Council **100** and bicameral status are the densest number facts on this sheet.
+
+---
+
+## Confused Pairs
+
+| Term A | Term B | Core difference |
+|--------|--------|-----------------|
+| **UP capital** | **UP High Court** | **Lucknow** | Principal seat **Prayagraj**; Lucknow = **Bench** |
+| **Lucknow Bench** | **Second High Court** | Permanent bench of Allahabad HC (1948) | Uttarakhand’s HC is **Nainital** (2000) — a different court |
+| **UP LA 403** | **Art. 170 cap** | Actual elected strength | Constitutional max **500** / min **60** |
+| **UP LC 100** | **Art. 171 cap** | Actual strength | Max **1/3 of LA** (= 134) and min **40** |
+| **LS 80** | **RS 31** | Directly elected from UP | Indirect; largest RS contingent |
+| **Pre-2000 UP** | **Post-9 Nov 2000** | LA 425 · LS 85 · RS 34 | LA **403** · LS **80** · RS **31** |
+| **Hindi (1951)** | **Urdu (1989)** | Official language | **Second** official language |
+| **Allahabad HC 1866** | **Chartered HCs 1862** | NWP Letters Patent; first seat **Agra** | Bombay, Calcutta, Madras |
+| **First Governor** | **First CM** | **Sarojini Naidu** | **Govind Ballabh Pant** |
+| **Uttaranchal** | **Uttarakhand** | Name from **9 Nov 2000** | Rename **1 Jan 2007** |
+| **UPPSC** | **UPSC** | SPSC · HQ **Prayagraj** · retire **62** | Union · Delhi · retire **65** |
+| **UP SEC** | **ECI** | Panchayat + ULB polls (243K / 243ZA) | Parliament + State **legislature** + President/VP |
+| **UP SFC (243I/Y)** | **Union FC (280)** | Governor; PRI + municipal share | President; Union–State CFI share |
+| **Lokayukta** | **Lokpal** | UP Act **1975** + Up-Lokayukta | Union Act **2013** |
+| **Kshetra Panchayat** | **Panchayat Samiti** | UP’s intermediate tier | Generic / other-State name |
+| **Nagar Nigam** | **Nagar Palika Parishad** | Municipal Corporation (1959 Act) | Municipal Council (1916 Act) |
+| **Mayor** | **Nagar Ayukt** | Political head of a Nigam | State-appointed **executive** |
+| **Cantonment Board** | **Nagar Nigam** | Defence / Cantonments Act | 74th municipality |
+| **Noida / GNIDA / YEIDA** | **Nagar Nigam** | Industrial development **authority** (243Q exception) | Elected 74th municipality |
+| **Art. 371 States** | **Uttar Pradesh** | Special provisions in 371–371J | **None** |
+| **CoM cap (91st)** | **Art. 164 pleasure** | ≤ **15%** of LA (UP ≈ **60** incl. CM); floor **12** | Governor dismisses a ministry that has lost the floor |
 
 ---
 

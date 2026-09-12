@@ -15,27 +15,6 @@ Development of Education | Orientalist–Anglicist Controversy | Serampore Missi
 
 ---
 
-## Confused Pairs
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Orientalist | Anglicist | Sanskrit / Arabic / Persian learning vs English and Western science | प्राच्यवादी / आंग्लवादी |
-| Macaulay's Minute 1835 | Wood's Despatch 1854 | English-policy decision vs full education blueprint | मैकॉले मिनट / वुड्स डिस्पैच |
-| Hunter 1882 | Sadler 1917–19 | Primary education vs Calcutta University / higher education | हंटर / सैडलर |
-| Sadler 1917–19 | Hartog 1929 | University-stage review vs primary-stage wastage review | सैडलर / हार्टोग |
-| Hartog 1929 | Sargent 1944 | Simon Commission's education wing vs stand-alone post-war plan | हार्टोग / सार्जेंट |
-| Jones | Hastings | Founder-president of Asiatic Society vs GG who declined the chair | जोन्स / हेस्टिंग्स |
-| Wardha 1937 | Sargent 1944 | Gandhi's Basic Education vs British official plan | वर्धा / सार्जेंट |
-| National Council of Education 1906 | Wardha Scheme 1937 | Swadeshi-era nationalist schooling vs Gandhian Basic Education | एन.सी.ई. / वर्धा |
-| Licensing Regulations 1823 | Metcalfe's Press Act 1835 | Adam's control vs Metcalfe's freedom | लाइसेंसिंग / मेटकाफ |
-| Vernacular Press Act 1878 | Ilbert Bill 1883 | Lytton 1878 censorship vs Ripon 1883 Indian judges | वर्नाक्युलर प्रेस / इल्बर्ट |
-| Vernacular Press Act 1878 | Indian Press Act 1910 | Lytton's vernacular-only curb vs Minto–Hardinge general pre-censorship | 1878 / 1910 |
-| Tilak's Kesari | Swadesh | Pune vs Gorakhpur (2022 UP match) | केसरी / स्वदेश |
-| MAO College | Muir Central College | Aligarh (Sir Syed) vs Allahabad — both in Archbold's career | एमएओ / म्योर |
-| Serampore College | Fort William College | Danish missionary college (Carey, 1818) vs Company civil-servant college (Wellesley, 1800) | सेरामपुर / फोर्ट विलियम |
-
----
-
 ## Consolidated — 31 Must-Score Facts
 
 1. The **Charter Act, 1813** set aside **₹1 lakh a year** for education and also allowed missionary entry. How to spend the grant sparked the Orientalist–Anglicist fight.
@@ -69,6 +48,69 @@ Development of Education | Orientalist–Anglicist Controversy | Serampore Missi
 29. **D.K. Karve** = first women’s university (Bombay stream, **1916**) and widows’ home (**1896**, Poona). **Deccan Education Society** = Tilak, Chiplunkar, Agarkar, Namjoshi (**Ranade** = patron, not core founder).
 30. Press openers: **Portuguese press Goa 1556**; **Hicky 1780**; **Tilak** first jailed Indian journalist tag; **Amrita Bazar Patrika** flipped to English overnight (**1878**) to dodge Vernacular Press Act.
 31. Paper↔person extras: **Ghadar** first issue **Urdu (1 Nov 1913)**; **Free Hindustan** = **Tarak Nath Das**; **Al-Hilal** = Azad; **Bahishkrit Bharat** = Ambedkar; **Qaumi Awaz** = Nehru + Kidwai; **Pioneer** = George Allen (Allahabad).
+
+---
+
+## Confused Pairs
+
+| A | B | Difference | Hindi |
+|---|----|------------|-------|
+| Orientalist | Anglicist | Sanskrit / Arabic / Persian learning vs English and Western science | प्राच्यवादी / आंग्लवादी |
+| Macaulay's Minute 1835 | Wood's Despatch 1854 | English-policy decision vs full education blueprint | मैकॉले मिनट / वुड्स डिस्पैच |
+| Hunter 1882 | Sadler 1917–19 | Primary education vs Calcutta University / higher education | हंटर / सैडलर |
+| Sadler 1917–19 | Hartog 1929 | University-stage review vs primary-stage wastage review | सैडलर / हार्टोग |
+| Hartog 1929 | Sargent 1944 | Simon Commission's education wing vs stand-alone post-war plan | हार्टोग / सार्जेंट |
+| Jones | Hastings | Founder-president of Asiatic Society vs GG who declined the chair | जोन्स / हेस्टिंग्स |
+| Wardha 1937 | Sargent 1944 | Gandhi's Basic Education vs British official plan | वर्धा / सार्जेंट |
+| National Council of Education 1906 | Wardha Scheme 1937 | Swadeshi-era nationalist schooling vs Gandhian Basic Education | एन.सी.ई. / वर्धा |
+| Licensing Regulations 1823 | Metcalfe's Press Act 1835 | Adam's control vs Metcalfe's freedom | लाइसेंसिंग / मेटकाफ |
+| Vernacular Press Act 1878 | Ilbert Bill 1883 | Lytton 1878 censorship vs Ripon 1883 Indian judges | वर्नाक्युलर प्रेस / इल्बर्ट |
+| Vernacular Press Act 1878 | Indian Press Act 1910 | Lytton's vernacular-only curb vs Minto–Hardinge general pre-censorship | 1878 / 1910 |
+| Tilak's Kesari | Swadesh | Pune vs Gorakhpur (2022 UP match) | केसरी / स्वदेश |
+| MAO College | Muir Central College | Aligarh (Sir Syed) vs Allahabad — both in Archbold's career | एमएओ / म्योर |
+| Serampore College | Fort William College | Danish missionary college (Carey, 1818) vs Company civil-servant college (Wellesley, 1800) | सेरामपुर / फोर्ट विलियम |
+
+---
+
+## Must-score facts — commission/act ↔ year ↔ core recommendation
+
+### Education bodies
+
+| Body | Year | GG / Viceroy | Core recommendation |
+|------|------|---------------|----------------------|
+| Charter Act education clause | **1813** | Minto/Hastings-era Parliament | ₹1 lakh/year; missionaries allowed in |
+| Committee of Public Instruction split | **1823 onward** | Amherst | Orientalist vs Anglicist funding fight |
+| Macaulay's Minute | **1835** | Bentinck | English medium for higher education |
+| Wood's Despatch | **1854** | Dalhousie | School-to-university ladder; grants-in-aid; women's education |
+| Hunter Commission | **1882** | Ripon | Primary focus; govt to step back from secondary/collegiate direct management |
+| Raleigh Commission | **1902** | Curzon | Groundwork for the 1904 Act |
+| Indian Universities Act | **1904** | Curzon | Smaller senates, tighter affiliation, more control |
+| National Council of Education | **1906** | — (nationalist body) | Literary/technical colleges free of government control |
+| Sadler Commission | **1917–19** | Chelmsford | Intermediate stage; Boards of Secondary Education |
+| Hartog Committee | **1929** | Irwin | Consolidate primary (wastage/stagnation); diversify secondary |
+| Wardha Scheme | **1937** | — (Gandhi/Congress) | Basic Education / Nai Talim |
+| Sargent Plan | **1944** | — (Central Advisory Board of Education) | Free compulsory education 6–14; 40-year target |
+
+### Press-control laws
+
+| Law | Year | GG / Viceroy | Core effect |
+|-----|------|---------------|-------------|
+| Censorship of Press Act | **1799** | Wellesley | Wartime pre-censorship |
+| Licensing Regulations | **1823** | John Adam | Licence needed to run a press |
+| Press Act ("liberation") | **1835** | Metcalfe | Licence dropped; only declaration needed |
+| Licensing Act | **1857** | Canning | Temporary wartime control |
+| Vernacular Press Act | **1878** | Lytton | Curbed vernacular papers only |
+| Repeal | **1882** | Ripon | Vernacular Press Act withdrawn |
+| Newspapers (Incitement to Offences) Act | **1908** | Minto | Curbed revolutionary press |
+| Indian Press Act | **1910** | Minto/Hardinge | Revived pre-censorship powers |
+| Press (Emergency Powers) Act | **1931** | Irwin | Civil Disobedience-era curbs |
+
+### Battle-tested traps this table kills
+
+- Wood's Despatch is **not** 1835; Macaulay's Minute is **not** 1854.
+- Hunter is **not** Sadler, and neither is Hartog.
+- Metcalfe **freed** the press; Adam had **licensed** it — do not swap the two names.
+- Lytton **passed** the Vernacular Press Act; Ripon **repealed** it.
 
 ---
 
@@ -598,48 +640,6 @@ D. A-1, B-2, C-3, D-4
 - **Tilak** is the standard first-jailed-Indian-journalist tag (Kesari/Mahratta line; also the **1897** Rand–Ayerst / Shivaji-speech case).
 - **Metcalfe (1835)**, not Bentinck alone, is the **Liberator of the Indian Press** — Bentinck prepared the ground; the Act passed under Metcalfe.
 
-
-## Must-score facts — commission/act ↔ year ↔ core recommendation
-
-### Education bodies
-
-| Body | Year | GG / Viceroy | Core recommendation |
-|------|------|---------------|----------------------|
-| Charter Act education clause | **1813** | Minto/Hastings-era Parliament | ₹1 lakh/year; missionaries allowed in |
-| Committee of Public Instruction split | **1823 onward** | Amherst | Orientalist vs Anglicist funding fight |
-| Macaulay's Minute | **1835** | Bentinck | English medium for higher education |
-| Wood's Despatch | **1854** | Dalhousie | School-to-university ladder; grants-in-aid; women's education |
-| Hunter Commission | **1882** | Ripon | Primary focus; govt to step back from secondary/collegiate direct management |
-| Raleigh Commission | **1902** | Curzon | Groundwork for the 1904 Act |
-| Indian Universities Act | **1904** | Curzon | Smaller senates, tighter affiliation, more control |
-| National Council of Education | **1906** | — (nationalist body) | Literary/technical colleges free of government control |
-| Sadler Commission | **1917–19** | Chelmsford | Intermediate stage; Boards of Secondary Education |
-| Hartog Committee | **1929** | Irwin | Consolidate primary (wastage/stagnation); diversify secondary |
-| Wardha Scheme | **1937** | — (Gandhi/Congress) | Basic Education / Nai Talim |
-| Sargent Plan | **1944** | — (Central Advisory Board of Education) | Free compulsory education 6–14; 40-year target |
-
-### Press-control laws
-
-| Law | Year | GG / Viceroy | Core effect |
-|-----|------|---------------|-------------|
-| Censorship of Press Act | **1799** | Wellesley | Wartime pre-censorship |
-| Licensing Regulations | **1823** | John Adam | Licence needed to run a press |
-| Press Act ("liberation") | **1835** | Metcalfe | Licence dropped; only declaration needed |
-| Licensing Act | **1857** | Canning | Temporary wartime control |
-| Vernacular Press Act | **1878** | Lytton | Curbed vernacular papers only |
-| Repeal | **1882** | Ripon | Vernacular Press Act withdrawn |
-| Newspapers (Incitement to Offences) Act | **1908** | Minto | Curbed revolutionary press |
-| Indian Press Act | **1910** | Minto/Hardinge | Revived pre-censorship powers |
-| Press (Emergency Powers) Act | **1931** | Irwin | Civil Disobedience-era curbs |
-
-### Battle-tested traps this table kills
-
-- Wood's Despatch is **not** 1835; Macaulay's Minute is **not** 1854.
-- Hunter is **not** Sadler, and neither is Hartog.
-- Metcalfe **freed** the press; Adam had **licensed** it — do not swap the two names.
-- Lytton **passed** the Vernacular Press Act; Ripon **repealed** it.
-
----
 
 ## Complete PYQ Bank (Topic 7)
 

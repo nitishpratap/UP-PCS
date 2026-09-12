@@ -21,20 +21,6 @@ Chipko | Appiko | Silent Valley | Narmada Bachao Andolan | Bishnoi | Jungle Bach
 
 ---
 
-## Confused Pairs
-
-| Movement | State | Year | Core issue |
-|----------|-------|------|------------|
-| **Bishnoi** | Rajasthan | **1730** | Khejri martyrdom |
-| **Chipko** | Uttarakhand (then UP) | **1973** | Anti-logging tree hug |
-| **Silent Valley** | Kerala | **1970s** | Anti-hydro rainforest dam |
-| **Jungle Bachao** | Jharkhand (Singhbhum) | **1982** | Tribal forest rights |
-| **Appiko** | **Karnataka** | **1983** | Southern tree embrace |
-| **Narmada Bachao** | MP, GJ, MH | **1985+** | Anti-large dam displacement |
-| **Save Western Ghats** | Multi-state | **2011+** | Gadgil/Kasturirangan politics |
-
----
-
 ## Consolidated — 22 Must-Score Facts
 
 1. **Bishnoi** resistance at **Khejarli, Rajasthan (1730)** is led in memory by **Amrita Devi** and the **363** martyrs who died protecting khejri trees. It is centuries older than Chipko.
@@ -59,6 +45,20 @@ Chipko | Appiko | Silent Valley | Narmada Bachao Andolan | Bishnoi | Jungle Bach
 20. Gadgil report is often read as stronger ecological protection; Kasturirangan as a later recalibration — both sit inside Save Western Ghats politics.
 21. Tree-hugging method travelled from Chipko north to Appiko south — same method family, different states and years.
 22. Match movement → year → state → leader before answering “which state” stems; state alone often decides the key.
+
+---
+
+## Confused Pairs
+
+| Movement | State | Year | Core issue |
+|----------|-------|------|------------|
+| **Bishnoi** | Rajasthan | **1730** | Khejri martyrdom |
+| **Chipko** | Uttarakhand (then UP) | **1973** | Anti-logging tree hug |
+| **Silent Valley** | Kerala | **1970s** | Anti-hydro rainforest dam |
+| **Jungle Bachao** | Jharkhand (Singhbhum) | **1982** | Tribal forest rights |
+| **Appiko** | **Karnataka** | **1983** | Southern tree embrace |
+| **Narmada Bachao** | MP, GJ, MH | **1985+** | Anti-large dam displacement |
+| **Save Western Ghats** | Multi-state | **2011+** | Gadgil/Kasturirangan politics |
 
 ---
 

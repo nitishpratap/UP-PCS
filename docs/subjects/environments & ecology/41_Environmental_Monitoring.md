@@ -21,20 +21,6 @@ Environmental Indicators | Environmental Monitoring | Environmental Audit
 
 ---
 
-## Confused Pairs
-
-| Term | One-line fact |
-|------|---------------|
-| **Indicator** | Signal of environmental condition/trend |
-| **Monitoring** | Systematic repeated measurement |
-| **Audit** | Verified compliance check against law/EC |
-| **BOD / COD** | Microbial O₂ demand / chemical O₂ demand |
-| **CPCB / CGWB** | Air–surface water / groundwater |
-| **NAMP / CAAQMS** | Manual air trend / real-time continuous |
-| **Ringelmann** | Smoke opacity scale 0–5 |
-
----
-
 ## Consolidated — 22 Must-Score Facts
 
 1. The **PSR** model runs **Pressure → State → Response** for environmental indicators.
@@ -59,6 +45,20 @@ Environmental Indicators | Environmental Monitoring | Environmental Audit
 20. Ringelmann is about visible smoke shade, not a water-quality number.
 21. Do not call an audit “just another AQI reading.” Audit checks legal conformity.
 22. Surface-water networks (NWMP) do not replace groundwater networks (CGWB).
+
+---
+
+## Confused Pairs
+
+| Term | One-line fact |
+|------|---------------|
+| **Indicator** | Signal of environmental condition/trend |
+| **Monitoring** | Systematic repeated measurement |
+| **Audit** | Verified compliance check against law/EC |
+| **BOD / COD** | Microbial O₂ demand / chemical O₂ demand |
+| **CPCB / CGWB** | Air–surface water / groundwater |
+| **NAMP / CAAQMS** | Manual air trend / real-time continuous |
+| **Ringelmann** | Smoke opacity scale 0–5 |
 
 ---
 

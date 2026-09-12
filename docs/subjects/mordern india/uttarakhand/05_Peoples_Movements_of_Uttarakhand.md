@@ -31,6 +31,18 @@
 
 ---
 
+## Must-Score Facts
+
+1. Khatima = **1 Sep 1994** = Black Day.
+2. Mussoorie = **2 Sep 1994** — not 3 September.
+3. Muzaffarnagar / Rampur Tiraha = night of **1–2 October 1994**.
+4. Chipko: **Mandal 1973** · **Reni / Gaura Devi 1974** · **Bhatt** · **Bahuguna**.
+5. Coolie-Begar is the colonial people’s struggle bridge.
+6. State formed **9 November 2000** as **Uttaranchal**; rename **Uttarakhand, 1 January 2007**.
+7. **Uttarakhand Kranti Dal (1979)** carries the early separate-state party card.
+
+---
+
 ## Confused Pairs
 
 | Pair | Key |
@@ -43,18 +55,6 @@
 | Gaura Devi vs Bahuguna at Reni | Village women’s lead at **Reni** is **Gaura Devi** |
 | Uttaranchal vs Uttarakhand | Birth name **2000** vs rename **2007** |
 | Dola-Palki vs Coolie-Begar | Caste / dignity ritual struggle vs colonial forced porterage |
-
----
-
-## Must-Score Facts
-
-1. Khatima = **1 Sep 1994** = Black Day.
-2. Mussoorie = **2 Sep 1994** — not 3 September.
-3. Muzaffarnagar / Rampur Tiraha = night of **1–2 October 1994**.
-4. Chipko: **Mandal 1973** · **Reni / Gaura Devi 1974** · **Bhatt** · **Bahuguna**.
-5. Coolie-Begar is the colonial people’s struggle bridge.
-6. State formed **9 November 2000** as **Uttaranchal**; rename **Uttarakhand, 1 January 2007**.
-7. **Uttarakhand Kranti Dal (1979)** carries the early separate-state party card.
 
 ---
 

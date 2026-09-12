@@ -28,6 +28,16 @@
 
 ---
 
+## Must-Score Facts
+
+1. Animal husbandry is a **supplementary** occupation in Uttarakhand, not the sole primary livelihood for most households.
+2. On cultivated-area / AH stems, often **only the first statement** holds — read both carefully.
+3. Major sugarcane / irrigated plains district rivalry often pits **Haridwar** against **Udham Singh Nagar**.
+4. Plains lead cultivated area; hills lead terrace / horticulture stories.
+5. Tarai = canal–tubewell; hills = springs / guls.
+
+---
+
 ## Confused Pairs
 
 | Pair | Correct |
@@ -36,16 +46,6 @@
 | AH as main vs supplementary | Correct reading is **supplementary** occupation |
 | Q102 both vs only 1 | Series B **Only 1** — do not mark both unless an amended key says so |
 | Hill vs plain irrigation | Tubewell–canal plains ≠ spring-fed hill systems |
-
----
-
-## Must-Score Facts
-
-1. Animal husbandry is a **supplementary** occupation in Uttarakhand, not the sole primary livelihood for most households.
-2. On cultivated-area / AH stems, often **only the first statement** holds — read both carefully.
-3. Major sugarcane / irrigated plains district rivalry often pits **Haridwar** against **Udham Singh Nagar**.
-4. Plains lead cultivated area; hills lead terrace / horticulture stories.
-5. Tarai = canal–tubewell; hills = springs / guls.
 
 ---
 

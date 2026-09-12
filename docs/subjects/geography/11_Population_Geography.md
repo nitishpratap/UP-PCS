@@ -30,36 +30,6 @@ Census of India | Factors of Distribution | Population Density (arithmetic / phy
 ---
 
 
-## Confused Pairs
-
-| Pair | Correct | Trap | Hindi |
-|------|------------|------|-------|
-| First census | **1872** non-sync; paper **1871** (2023) | 1881 as “first ever” | प्रथम जनगणना |
-| First synchronous | **1881** | 1872 | समकालिक |
-| 2011 rank | **15th** / **7th** after Independence | 14th / 8th | 15वीं |
-| Density India | **382** | 324 (2001) | 382 |
-| Highest density **state** | **Bihar** | WB / UP / Delhi | बिहार |
-| Lowest density | **Arunachal** | HP / Mizoram | अरुणाचल |
-| Sex ratio | **943** | CSR 919 | 943 |
-| Lowest CSR (rural+urban) | **Haryana** | UP / J&K | हरियाणा |
-| Literacy | **74.04%**, age **7+** | 0–6 / 18+ | 74.04 |
-| TFR 2.1 | Children **per woman** | “per thousand” (that is CBR) | कुल प्रजनन दर |
-| Natural growth | **CBR − CDR** | Includes migration | प्राकृतिक वृद्धि |
-| Dividend | **15–59** | 60+ or 0–6 | जनसांख्यिकीय लाभांश |
-| Acceleration (urban curve) | **2nd stage** | 3rd / 4th | द्वितीय |
-| Most urbanised religion | **Jains** | Christians | जैन |
-| Kanpur / Lucknow million | **1971 / 1981** | 1961/1971 | कानपुर 1971 |
-| Shrawasti | Lowest **female literacy** district (UP) | Balrampur / Bahraich | श्रावस्ती |
-| Lorenz curve | **Income inequality** | Illiteracy | लोरेंज |
-| World Population Report | **UNFPA** | IMF / WHO / UNDP | यूएनएफपीए |
-| Arithmetic density | **Population / total area** | Physiological density | अंकगणितीय घनत्व |
-| Physiological density | **Population / net sown area** | Agricultural density | शारीरिक घनत्व |
-| Natural vs induced growth | Natural = CBR−CDR; induced = migration | Same thing | प्राकृतिक ≠ प्रेरित |
-| Immigration / emigration | In / out | Swap | आप्रवास / उत्प्रवास |
-| SC / ST share (2011) | SC ~**16.6%** · ST ~**8.6%** | Swap or invent | अनुसूचित जाति / जनजाति |
-
----
-
 ## Consolidated — 26 Must-Score Facts
 
 1. India’s first non-synchronous census was in **1872** (some papers key **1871**). The first **synchronous** all-India census was in **1881**.
@@ -88,6 +58,36 @@ Census of India | Factors of Distribution | Population Density (arithmetic / phy
 24. Keep **Census 2011** numbers for Prelims until **Census 2027** results replace them. UN estimates that India became the most populous country around **2023** do not rewrite the 2011 tables.
 25. A broad-base population pyramid signals high fertility. Ageing shows earlier in southern States than in the high-fertility northern belt.
 26. Occupational structure is taught as primary / secondary / tertiary. Primary still takes a large share of India’s workforce, with a slow shift toward secondary and tertiary as development proceeds.
+
+---
+
+## Confused Pairs
+
+| Pair | Correct | Trap | Hindi |
+|------|------------|------|-------|
+| First census | **1872** non-sync; paper **1871** (2023) | 1881 as “first ever” | प्रथम जनगणना |
+| First synchronous | **1881** | 1872 | समकालिक |
+| 2011 rank | **15th** / **7th** after Independence | 14th / 8th | 15वीं |
+| Density India | **382** | 324 (2001) | 382 |
+| Highest density **state** | **Bihar** | WB / UP / Delhi | बिहार |
+| Lowest density | **Arunachal** | HP / Mizoram | अरुणाचल |
+| Sex ratio | **943** | CSR 919 | 943 |
+| Lowest CSR (rural+urban) | **Haryana** | UP / J&K | हरियाणा |
+| Literacy | **74.04%**, age **7+** | 0–6 / 18+ | 74.04 |
+| TFR 2.1 | Children **per woman** | “per thousand” (that is CBR) | कुल प्रजनन दर |
+| Natural growth | **CBR − CDR** | Includes migration | प्राकृतिक वृद्धि |
+| Dividend | **15–59** | 60+ or 0–6 | जनसांख्यिकीय लाभांश |
+| Acceleration (urban curve) | **2nd stage** | 3rd / 4th | द्वितीय |
+| Most urbanised religion | **Jains** | Christians | जैन |
+| Kanpur / Lucknow million | **1971 / 1981** | 1961/1971 | कानपुर 1971 |
+| Shrawasti | Lowest **female literacy** district (UP) | Balrampur / Bahraich | श्रावस्ती |
+| Lorenz curve | **Income inequality** | Illiteracy | लोरेंज |
+| World Population Report | **UNFPA** | IMF / WHO / UNDP | यूएनएफपीए |
+| Arithmetic density | **Population / total area** | Physiological density | अंकगणितीय घनत्व |
+| Physiological density | **Population / net sown area** | Agricultural density | शारीरिक घनत्व |
+| Natural vs induced growth | Natural = CBR−CDR; induced = migration | Same thing | प्राकृतिक ≠ प्रेरित |
+| Immigration / emigration | In / out | Swap | आप्रवास / उत्प्रवास |
+| SC / ST share (2011) | SC ~**16.6%** · ST ~**8.6%** | Swap or invent | अनुसूचित जाति / जनजाति |
 
 ---
 

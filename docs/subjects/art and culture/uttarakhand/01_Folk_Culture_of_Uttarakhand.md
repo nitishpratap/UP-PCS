@@ -30,6 +30,16 @@
 
 ---
 
+## Must-Score Facts
+
+1. Aipan = Kumaon ritual floor/wall art.
+2. Chholiya = Kumaon sword wedding dance.
+3. Ramman = Garhwal UNESCO ritual theatre (Topic 3).
+4. Garhwal painting = Pahari school; Mola Ram is the named artist.
+5. Do not swap Chholiya with Chhau.
+
+---
+
 ## Confused Pairs
 
 | Pair | Key |
@@ -38,16 +48,6 @@
 | Chholiya vs Chhau | Kumaon sword wedding dance ≠ Odisha / Jharkhand Chhau |
 | Ramman vs Ramlila | Garhwal ritual theatre (UNESCO) ≠ North Indian Ramlila |
 | Garhwal painting vs Kangra only | Related Pahari family; Garhwal has its own **1658 Tasbirdar** origin card |
-
----
-
-## Must-Score Facts
-
-1. Aipan = Kumaon ritual floor/wall art.
-2. Chholiya = Kumaon sword wedding dance.
-3. Ramman = Garhwal UNESCO ritual theatre (Topic 3).
-4. Garhwal painting = Pahari school; Mola Ram is the named artist.
-5. Do not swap Chholiya with Chhau.
 
 ---
 

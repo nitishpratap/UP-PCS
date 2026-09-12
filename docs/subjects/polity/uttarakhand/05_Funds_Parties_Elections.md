@@ -28,6 +28,16 @@
 
 ---
 
+## Must-Score Facts
+
+1. Consolidated Fund ≠ Contingency Fund.
+2. Contingency Fund = unforeseen advances (Art. 267(2) idea).
+3. Assembly polls → ECI; local polls → SEC.
+4. State Finance Commission ≠ UKPSC.
+5. Do not invent UK-only fund articles beyond the general state pattern.
+
+---
+
 ## Confused Pairs
 
 | Pair | Key |
@@ -36,16 +46,6 @@
 | State Finance Commission vs Finance Commission of India | Local devolution vs Centre–State finance |
 | SEC vs ECI | Local elections vs Parliament / Assembly (ECI for Assembly) |
 | First SFC Chair = first CM automatically | Test the pair; 2025 did not key Swami as SFC chair |
-
----
-
-## Must-Score Facts
-
-1. Consolidated Fund ≠ Contingency Fund.
-2. Contingency Fund = unforeseen advances (Art. 267(2) idea).
-3. Assembly polls → ECI; local polls → SEC.
-4. State Finance Commission ≠ UKPSC.
-5. Do not invent UK-only fund articles beyond the general state pattern.
 
 ---
 

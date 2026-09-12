@@ -15,27 +15,6 @@ Congress Socialist Party | Subhash Chandra Bose | Forward Bloc | Quit India Move
 
 ---
 
-## Confused Pairs
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Cripps 1942 | Cabinet Mission 1946 | Wartime dominion offer vs transfer plan with grouping | क्रिप्स / कैबिनेट मिशन |
-| Wavell Plan | Mountbatten Plan | 1945 interim executive vs 1947 partition + transfer | वेवेल / माउंटबेटन |
-| Simla 1945 | Cabinet Mission 1946 | Wavell Plan conference vs three-minister plan | शिमला / कैबिनेट मिशन |
-| Forward Bloc | CSP | Bose 1939 left-nationalist vs socialists inside Congress 1934 | फॉरवर्ड ब्लॉक / सीएसपी |
-| INA | Quit India | Armed abroad under Bose vs mass struggle inside India 1942 | आजाद हिंद फौज / भारत छोड़ो |
-| Azad Hind Fauj | Azad Hind Government | Army vs provisional government 21 Oct 1943 | फौज / सरकार |
-| August Offer | Cripps | Aug 1940 Linlithgow vs Mar 1942 Cripps | अगस्त प्रस्ताव / क्रिप्स |
-| C.R. Formula | C.R. Das | Rajagopalachari 1944 vs Swaraj Party Das (dead 1925) | सी.आर. फॉर्मूला |
-| 3 June Plan | Independence Act | Mountbatten framework vs statute 18 July 1947 | 3 जून योजना / अधिनियम |
-| Interim announce | Interim form | **24 Aug 1946** vs **2 Sep 1946** | घोषणा / गठन |
-| Shanti Ghosh | Aruna Asaf Ali | 1931 Bengal revolutionary vs Quit India 1942 | शांति घोष / अरुणा |
-| Congress ministries 1937 | Congress ministries resign 1939 | Formed after provincial elections vs quit over WWII without consultation | कांग्रेस मंत्रिमंडल गठन / त्यागपत्र |
-| RIN Revolt Feb 1946 | Quit India Aug 1942 | Ratings' mutiny, Bombay/Karachi vs Congress mass movement | नौसेना विद्रोह / भारत छोड़ो |
-| Direct Action Day 1946 | Partition Aug 1947 | League's call for mass action vs the final territorial split | डायरेक्ट एक्शन / विभाजन |
-
----
-
 ## Consolidated — 30 Must-Score Facts
 
 1. Congress ministries were **formed in 1937** after provincial elections and **resigned in 1939** when war was declared without consultation.
@@ -68,6 +47,42 @@ Congress Socialist Party | Subhash Chandra Bose | Forward Bloc | Quit India Move
 28. Do not swap **Simla 1945** (Wavell conference) with **Cabinet Mission 1946** (three-minister grouping plan).
 29. Bose’s INA and the Red Fort trials turned military defeat into a political storm that pressed the endgame of **1945–47**.
 30. Hold the endgame arc: Cripps fail → Quit India → INA/RIN pressure → Cabinet Mission → Direct Action → Mountbatten Plan → Independence Act.
+
+---
+
+## Confused Pairs
+
+| A | B | Difference | Hindi |
+|---|----|------------|-------|
+| Cripps 1942 | Cabinet Mission 1946 | Wartime dominion offer vs transfer plan with grouping | क्रिप्स / कैबिनेट मिशन |
+| Wavell Plan | Mountbatten Plan | 1945 interim executive vs 1947 partition + transfer | वेवेल / माउंटबेटन |
+| Simla 1945 | Cabinet Mission 1946 | Wavell Plan conference vs three-minister plan | शिमला / कैबिनेट मिशन |
+| Forward Bloc | CSP | Bose 1939 left-nationalist vs socialists inside Congress 1934 | फॉरवर्ड ब्लॉक / सीएसपी |
+| INA | Quit India | Armed abroad under Bose vs mass struggle inside India 1942 | आजाद हिंद फौज / भारत छोड़ो |
+| Azad Hind Fauj | Azad Hind Government | Army vs provisional government 21 Oct 1943 | फौज / सरकार |
+| August Offer | Cripps | Aug 1940 Linlithgow vs Mar 1942 Cripps | अगस्त प्रस्ताव / क्रिप्स |
+| C.R. Formula | C.R. Das | Rajagopalachari 1944 vs Swaraj Party Das (dead 1925) | सी.आर. फॉर्मूला |
+| 3 June Plan | Independence Act | Mountbatten framework vs statute 18 July 1947 | 3 जून योजना / अधिनियम |
+| Interim announce | Interim form | **24 Aug 1946** vs **2 Sep 1946** | घोषणा / गठन |
+| Shanti Ghosh | Aruna Asaf Ali | 1931 Bengal revolutionary vs Quit India 1942 | शांति घोष / अरुणा |
+| Congress ministries 1937 | Congress ministries resign 1939 | Formed after provincial elections vs quit over WWII without consultation | कांग्रेस मंत्रिमंडल गठन / त्यागपत्र |
+| RIN Revolt Feb 1946 | Quit India Aug 1942 | Ratings' mutiny, Bombay/Karachi vs Congress mass movement | नौसेना विद्रोह / भारत छोड़ो |
+| Direct Action Day 1946 | Partition Aug 1947 | League's call for mass action vs the final territorial split | डायरेक्ट एक्शन / विभाजन |
+
+---
+
+## Must-Score Facts
+
+- Congress ministries were **formed in 1937** after the provincial elections and **resigned in 1939** over the war declaration without consultation — eight provinces, not all of British India.
+- CSP (**1934**) and Forward Bloc (**1939**) are both left-of-Congress but never the same body; **Nehru sympathised with CSP but never formally joined**.
+- Bose presided at **Haripura (1938)** and **Tripuri (1939)**, then founded **Forward Bloc**; the **Azad Hind Government** dates from **21 October 1943, Singapore**.
+- Cripps (**March 1942**) offered dominion status with a province opt-out; Quit India (**8 August 1942**) followed its rejection with "Do or Die".
+- The **RIN Mutiny (February 1946)** is a ratings' revolt over pay, race and demobilisation, not a Congress satyagraha and not the same event as Quit India.
+- **Direct Action Day (16 August 1946)** was the League's call; it triggered the Calcutta–Noakhali–Bihar violence that hardened both parties toward Partition.
+- **Attlee's statement (20 February 1947)** fixed the first hard deadline, June 1948, and named Mountbatten as Viceroy; **Mountbatten's own Plan (3 June 1947)** then advanced that date to 15 August.
+- Keep the three 1947 dates apart: **Plan — 3 June**, **Act — 18 July**, **Independence — 15 August**.
+- The **C.R. Formula (1944)** is Rajagopalachari's, never C.R. Das, who died in 1925.
+- INA trials ran at the **Red Fort**, tried **Sahgal, Shah Nawaz Khan and Dhillon**; sentences were remitted after mass protest, not carried out.
 
 ---
 
@@ -694,21 +709,6 @@ D. 2, 4, 1, 3
 | Ramgarh 1940 | Congress session (Azad) — 2024 Q133 |
 | UP Congress ministry, 1937 | Formed after the provincial elections; **G.B. Pant** as Premier |
 | Bihar violence after Direct Action | Reprisal killings spread from Noakhali/Calcutta into **Bihar**, 1946 |
-
----
-
-## Must-Score Facts
-
-- Congress ministries were **formed in 1937** after the provincial elections and **resigned in 1939** over the war declaration without consultation — eight provinces, not all of British India.
-- CSP (**1934**) and Forward Bloc (**1939**) are both left-of-Congress but never the same body; **Nehru sympathised with CSP but never formally joined**.
-- Bose presided at **Haripura (1938)** and **Tripuri (1939)**, then founded **Forward Bloc**; the **Azad Hind Government** dates from **21 October 1943, Singapore**.
-- Cripps (**March 1942**) offered dominion status with a province opt-out; Quit India (**8 August 1942**) followed its rejection with "Do or Die".
-- The **RIN Mutiny (February 1946)** is a ratings' revolt over pay, race and demobilisation, not a Congress satyagraha and not the same event as Quit India.
-- **Direct Action Day (16 August 1946)** was the League's call; it triggered the Calcutta–Noakhali–Bihar violence that hardened both parties toward Partition.
-- **Attlee's statement (20 February 1947)** fixed the first hard deadline, June 1948, and named Mountbatten as Viceroy; **Mountbatten's own Plan (3 June 1947)** then advanced that date to 15 August.
-- Keep the three 1947 dates apart: **Plan — 3 June**, **Act — 18 July**, **Independence — 15 August**.
-- The **C.R. Formula (1944)** is Rajagopalachari's, never C.R. Das, who died in 1925.
-- INA trials ran at the **Red Fort**, tried **Sahgal, Shah Nawaz Khan and Dhillon**; sentences were remitted after mass protest, not carried out.
 
 ---
 

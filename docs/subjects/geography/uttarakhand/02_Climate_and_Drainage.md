@@ -33,6 +33,16 @@
 
 ---
 
+## Must-Score Facts
+
+1. West→east: Yamuna → Bhilangana → Alaknanda → Gori.
+2. Yamunotri → Yamuna; Gangotri/Gaumukh → Bhagirathi; Devprayag → Ganga.
+3. Panch Prayag: Vishnu (Dhauliganga) → Nanda (Nandakini) → Karna (Pindar) → Rudra (Mandakini) → Dev (Bhagirathi).
+4. Bhilangana → Bhagirathi (Tehri); Kali/Sharda = Nepal-border eastern trunk.
+5. Altitude = primary climate control; monsoon + western disturbances.
+
+---
+
 ## Confused Pairs
 
 | Pair | Correct |
@@ -42,16 +52,6 @@
 | Gori vs Kali | **Gori** is the 2025 eastern marker; **Kali/Sharda** is the Nepal-border trunk nearby |
 | Two Dhauligangas | Vishnuprayag uses **western Dhauli Ganga**; **Eastern Dhauliganga** → Kali/Sharda |
 | Devprayag vs other prayags | Only Devprayag forms the **Ganga** (Bhagirathi + Alaknanda) |
-
----
-
-## Must-Score Facts
-
-1. West→east: Yamuna → Bhilangana → Alaknanda → Gori.
-2. Yamunotri → Yamuna; Gangotri/Gaumukh → Bhagirathi; Devprayag → Ganga.
-3. Panch Prayag: Vishnu (Dhauliganga) → Nanda (Nandakini) → Karna (Pindar) → Rudra (Mandakini) → Dev (Bhagirathi).
-4. Bhilangana → Bhagirathi (Tehri); Kali/Sharda = Nepal-border eastern trunk.
-5. Altitude = primary climate control; monsoon + western disturbances.
 
 ---
 

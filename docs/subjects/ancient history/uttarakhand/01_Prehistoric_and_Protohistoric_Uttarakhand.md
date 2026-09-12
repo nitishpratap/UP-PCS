@@ -21,6 +21,16 @@
 
 ---
 
+## Must-Score Facts
+
+1. Lakhu Udyar = Almora + Suyal + red/black/white rock art.
+2. Malari = Chamoli burial / high Himalaya card.
+3. Bankot = Pithoragarh copper anthropomorphs.
+4. Kalsi / Srinagar belts = Palaeolithic tool geography.
+5. Protohistoric ≠ Harappan city culture in the high hills.
+
+---
+
 ## Confused Pairs
 
 | Pair | Key |
@@ -30,16 +40,6 @@
 | Bankot copper vs IVC bronze | Bankot figures are **Copper Hoard / early metal** anthropomorphs, not Harappan city bronze |
 | Kartikeyapur vs Lakhu | Kartikeyapur = later **Katyuri capital**; Lakhu = **prehistoric** shelter |
 | Kalsi tools vs Kalsi edict | Palaeolithic **tool belt** near Kalsi ≠ Ashokan **edict** card (same place-name, different age) |
-
----
-
-## Must-Score Facts
-
-1. Lakhu Udyar = Almora + Suyal + red/black/white rock art.
-2. Malari = Chamoli burial / high Himalaya card.
-3. Bankot = Pithoragarh copper anthropomorphs.
-4. Kalsi / Srinagar belts = Palaeolithic tool geography.
-5. Protohistoric ≠ Harappan city culture in the high hills.
 
 ---
 

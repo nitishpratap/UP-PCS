@@ -20,6 +20,16 @@
 
 ---
 
+## Must-Score Facts
+
+1. “Ancient tribes” = literary Himalayan ethnonyms + early coin polities.
+2. **Kirata** and **Khasa** are ethnonym cards, not one-capital dynasties.
+3. **Kuninda** is the first strong Uttarakhand-linked political name for Prelims.
+4. **Yaudheya** is a **gana**; do not call it a Chandela-style monarchy.
+5. Kartikeyapur is later kingdom geography, not a prehistoric tribe capital.
+
+---
+
 ## Confused Pairs
 
 | Pair | Key |
@@ -29,16 +39,6 @@
 | Yaudheya vs Kuninda | Yaudheya = famous **plains republic/gana**; Kuninda = **foothill** coin power rooted in UK–HP |
 | Literary tribe vs coin polity | Kirata/Khasa prove early **naming**; Kuninda/Yaudheya prove early **political economy** |
 | Yaudheya vs Yadava | Ancient **gana** ≠ medieval Yadava of Devagiri |
-
----
-
-## Must-Score Facts
-
-1. “Ancient tribes” = literary Himalayan ethnonyms + early coin polities.
-2. **Kirata** and **Khasa** are ethnonym cards, not one-capital dynasties.
-3. **Kuninda** is the first strong Uttarakhand-linked political name for Prelims.
-4. **Yaudheya** is a **gana**; do not call it a Chandela-style monarchy.
-5. Kartikeyapur is later kingdom geography, not a prehistoric tribe capital.
 
 ---
 

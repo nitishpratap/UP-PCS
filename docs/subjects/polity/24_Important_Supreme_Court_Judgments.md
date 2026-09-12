@@ -62,32 +62,6 @@ D. Gopi Aqua vs. Union of India
 ---
 
 
-## Confused Pairs
-
-| Term A | Term B | Core difference |
-|--------|--------|-----------------|
-| ***Gopalan* 1950** | ***Maneka* 1978** | Any procedure in a valid law; FRs in **silos** | Procedure must be **fair/just/reasonable**; **14-19-21** together |
-| ***Golaknath* 1967** | ***Kesavananda* 1973** | FR **cannot** be amended | FR **can**; **basic structure** cannot |
-| ***Shankari / Sajjan*** | ***Golaknath*** | 368 includes Part III | 368 is “law” under **13** → Part III frozen |
-| ***Berubari* 1960** | ***Kesavananda* 1973** | Preamble **not** part of the Constitution | Preamble **is** part |
-| **9th Schedule** | **9th Amendment** | 1st Amd **1951** — FR-shield for listed laws | **1960** — Berubari / boundary |
-| ***Waman Rao* 1981** | ***I.R. Coelho* 2007** | Cut-off date **24 Apr 1973** | 9-judge fact: post-cut-off 9th Schedule still faces **BS** |
-| ***Kesavananda*** | ***Minerva Mills*** | Invented the ceiling | Struck 42nd’s “no court / unlimited 368”; FR–DPSP **harmony** |
-| ***ADM Jabalpur* 1976** | **44th Amd / *Puttaswamy* 2017** | Majority: no Art. 21 habeas in Emergency | 44th: **20 & 21** cannot be suspended. *Puttaswamy*: majority was **wrong** |
-| **Art. 13 “law”** | **Art. 368 amendment** | Ordinary legislation | 24th → **13(4)**: amendment is **not** 13-law. Still capped by BS |
-| **Sikri list** | **Later BS additions** | Supremacy, republic/democracy, secular, SOP, federal | *Indira*: RoL / review / free-fair polls. *Minerva*: limited 368 + FR–DPSP. *Bommai*: secularism/federalism for **356**. *NJAC*: judicial independence |
-| **First Judges 1981** | **Second Judges 1993** | Consultation ≠ concurrence; **executive** primacy | Consultation = concurrence; **CJI+2** Collegium |
-| **Second Judges** | **Third Judges 1998** | SC Collegium = CJI + **2** | SC Collegium = CJI + **4**; HC = CJI + **2** |
-| **Collegium** | **NJAC (99th)** | Judge-made; not in the text | Was **in** Arts. 124A–C; **struck 16 Oct 2015** |
-| ***Kihoto* 1992** | **Speaker “final”** | 10th Schedule **valid** | Para 7 ouster **dies**; Speaker’s order is **reviewable** |
-| ***Indra Sawhney*** | **77th Amd** | No reservation in **promotion** | **16(4A)** restores SC/ST promotion |
-| ***Vishaka* 1997** | **POSH Act 2013** | Court-made guidelines (CEDAW) | Statute takes over; guidelines were a **stop-gap** |
-| ***Navtej* 2018** | **Art. 377** | **s.377 IPC** (consensual adult sex struck) | Art. 377 = **transitory CAG** provision — **not** this case (2018 PYQ) |
-| ***Joseph Shine*** | **Divorce adultery** | s.497 **crime** struck | Adultery can still be a **civil** matrimonial ground |
-| ***M.C. Mehta* Oleum** | **Rylands v Fletcher** | **Absolute** liability — no exceptions | English **strict** liability — several exceptions |
-
----
-
 ## Consolidated — 32 Must-Score Facts
 
 1. *A.K. Gopalan* (**1950**) held that Article **21** is satisfied by any procedure in a valid law and read Fundamental Rights in silos. *Maneka Gandhi* (**1978**) requires a **fair, just, and reasonable** procedure and reads Articles **14, 19, and 21** together.
@@ -122,6 +96,32 @@ D. Gopi Aqua vs. Union of India
 30. Collegium versus NJAC is not “which is older in the text.” Collegium is precedent; NJAC was constitutional text and was struck for independence reasons.
 31. Floor test (*Bommai*) is the majority fact for Assembly confidence. Raj Bhavan letters and media claims do not replace a House vote.
 32. Rights-expansion neighbours often tested together are privacy (*Puttaswamy*), expression online (*Shreya Singhal*), sexual autonomy (*Navtej*), gender equality in adultery law (*Joseph Shine*), and environmental absolute liability (*Mehta*).
+
+---
+
+## Confused Pairs
+
+| Term A | Term B | Core difference |
+|--------|--------|-----------------|
+| ***Gopalan* 1950** | ***Maneka* 1978** | Any procedure in a valid law; FRs in **silos** | Procedure must be **fair/just/reasonable**; **14-19-21** together |
+| ***Golaknath* 1967** | ***Kesavananda* 1973** | FR **cannot** be amended | FR **can**; **basic structure** cannot |
+| ***Shankari / Sajjan*** | ***Golaknath*** | 368 includes Part III | 368 is “law” under **13** → Part III frozen |
+| ***Berubari* 1960** | ***Kesavananda* 1973** | Preamble **not** part of the Constitution | Preamble **is** part |
+| **9th Schedule** | **9th Amendment** | 1st Amd **1951** — FR-shield for listed laws | **1960** — Berubari / boundary |
+| ***Waman Rao* 1981** | ***I.R. Coelho* 2007** | Cut-off date **24 Apr 1973** | 9-judge fact: post-cut-off 9th Schedule still faces **BS** |
+| ***Kesavananda*** | ***Minerva Mills*** | Invented the ceiling | Struck 42nd’s “no court / unlimited 368”; FR–DPSP **harmony** |
+| ***ADM Jabalpur* 1976** | **44th Amd / *Puttaswamy* 2017** | Majority: no Art. 21 habeas in Emergency | 44th: **20 & 21** cannot be suspended. *Puttaswamy*: majority was **wrong** |
+| **Art. 13 “law”** | **Art. 368 amendment** | Ordinary legislation | 24th → **13(4)**: amendment is **not** 13-law. Still capped by BS |
+| **Sikri list** | **Later BS additions** | Supremacy, republic/democracy, secular, SOP, federal | *Indira*: RoL / review / free-fair polls. *Minerva*: limited 368 + FR–DPSP. *Bommai*: secularism/federalism for **356**. *NJAC*: judicial independence |
+| **First Judges 1981** | **Second Judges 1993** | Consultation ≠ concurrence; **executive** primacy | Consultation = concurrence; **CJI+2** Collegium |
+| **Second Judges** | **Third Judges 1998** | SC Collegium = CJI + **2** | SC Collegium = CJI + **4**; HC = CJI + **2** |
+| **Collegium** | **NJAC (99th)** | Judge-made; not in the text | Was **in** Arts. 124A–C; **struck 16 Oct 2015** |
+| ***Kihoto* 1992** | **Speaker “final”** | 10th Schedule **valid** | Para 7 ouster **dies**; Speaker’s order is **reviewable** |
+| ***Indra Sawhney*** | **77th Amd** | No reservation in **promotion** | **16(4A)** restores SC/ST promotion |
+| ***Vishaka* 1997** | **POSH Act 2013** | Court-made guidelines (CEDAW) | Statute takes over; guidelines were a **stop-gap** |
+| ***Navtej* 2018** | **Art. 377** | **s.377 IPC** (consensual adult sex struck) | Art. 377 = **transitory CAG** provision — **not** this case (2018 PYQ) |
+| ***Joseph Shine*** | **Divorce adultery** | s.497 **crime** struck | Adultery can still be a **civil** matrimonial ground |
+| ***M.C. Mehta* Oleum** | **Rylands v Fletcher** | **Absolute** liability — no exceptions | English **strict** liability — several exceptions |
 
 ---
 

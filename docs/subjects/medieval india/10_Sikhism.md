@@ -15,28 +15,6 @@ Sikhism | Guru Tradition | Ten Sikh Gurus | Guru Granth Sahib | Khalsa | Guru Go
 
 ---
 
-## Confused Pairs
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Lehna vs Sri Chand | Nanak’s chosen successor (Angad) vs Nanak’s son (not Guru) | लेहना / श्रीचंद |
-| Manji vs Masand | Amar Das’s 22 preaching circles vs Arjan’s tenth collection | मंजी / मसंद |
-| Nanak vs Gobind Singh | Founder 1469 vs 10th Guru + Khalsa 1699 | नानक / गोबिंद सिंह |
-| Adi Granth vs Guru Granth Sahib | Compiled 1604 by Arjan vs eternal Guru after 1708 | आदि ग्रंथ / गुरु ग्रंथ साहिब |
-| Harmandir vs Akal Takht | Golden Temple (spiritual) vs temporal seat (Hargobind) | हरमंदिर / अकाल तख़्त |
-| Miri vs Piri | Temporal sword vs spiritual sword (Hargobind) | मीरी / पीरी |
-| Arjan vs Tegh Bahadur | 1606 Jahangir vs 1675 Aurangzeb | अर्जुन / तेग बहादुर |
-| Khalsa (Sikh) vs Khalsa (Mughal) | 1699 initiated Panth vs crown land | सिख खालसा / मुगल खालसा |
-| Mardana vs Nanak | Disciple/rababi vs Guru | मर्दाना / नानक |
-| Anandpur vs Amritsar | Khalsa 1699 vs Ram Das tank / Harmandir | अनंदपुर / अमृतसर |
-| Hargobind vs Gobind Singh | Miri-Piri start vs Khalsa ritual | हरगोबिंद / गोबिंद सिंह |
-| Har Krishan vs Gobind Singh | 8th child Guru vs 10th last human Guru | हर कृष्ण / गोबिंद सिंह |
-| Dasam Granth vs Guru Granth | Gobind Singh corpus vs eternal Guru | दसम ग्रंथ / गुरु ग्रंथ |
-| Panj Pyare vs Ten Gurus | First five Khalsa 1699 vs 1469–1708 line | पंज प्यारे / दस गुरु |
-| Langar vs Sangat | Community kitchen vs congregation | लंगर / संगत |
-
----
-
 ## Consolidated — 28 Must-Score Facts
 
 1. **Guru Nanak (1469–1539)** founded Sikhism on **Ik Onkar**, the householder path, **langar**, and **sangat**.
@@ -67,6 +45,28 @@ Sikhism | Guru Tradition | Ten Sikh Gurus | Guru Granth Sahib | Khalsa | Guru Go
 26. **Banda Bahadur**’s earlier name was **Lachman Dev** (Lachhman Dev); Gobind Singh gave him the Sikh name.
 27. **Hem Kund** (Chamoli, Uttarakhand) is a famous Sikh gurudwara site linked to Gobind Singh tradition.
 28. Among early Adi Granth compositions is **Jayadev**; among the last human additions is **Guru Tegh Bahadur**.
+
+---
+
+## Confused Pairs
+
+| A | B | Difference | Hindi |
+|---|----|------------|-------|
+| Lehna vs Sri Chand | Nanak’s chosen successor (Angad) vs Nanak’s son (not Guru) | लेहना / श्रीचंद |
+| Manji vs Masand | Amar Das’s 22 preaching circles vs Arjan’s tenth collection | मंजी / मसंद |
+| Nanak vs Gobind Singh | Founder 1469 vs 10th Guru + Khalsa 1699 | नानक / गोबिंद सिंह |
+| Adi Granth vs Guru Granth Sahib | Compiled 1604 by Arjan vs eternal Guru after 1708 | आदि ग्रंथ / गुरु ग्रंथ साहिब |
+| Harmandir vs Akal Takht | Golden Temple (spiritual) vs temporal seat (Hargobind) | हरमंदिर / अकाल तख़्त |
+| Miri vs Piri | Temporal sword vs spiritual sword (Hargobind) | मीरी / पीरी |
+| Arjan vs Tegh Bahadur | 1606 Jahangir vs 1675 Aurangzeb | अर्जुन / तेग बहादुर |
+| Khalsa (Sikh) vs Khalsa (Mughal) | 1699 initiated Panth vs crown land | सिख खालसा / मुगल खालसा |
+| Mardana vs Nanak | Disciple/rababi vs Guru | मर्दाना / नानक |
+| Anandpur vs Amritsar | Khalsa 1699 vs Ram Das tank / Harmandir | अनंदपुर / अमृतसर |
+| Hargobind vs Gobind Singh | Miri-Piri start vs Khalsa ritual | हरगोबिंद / गोबिंद सिंह |
+| Har Krishan vs Gobind Singh | 8th child Guru vs 10th last human Guru | हर कृष्ण / गोबिंद सिंह |
+| Dasam Granth vs Guru Granth | Gobind Singh corpus vs eternal Guru | दसम ग्रंथ / गुरु ग्रंथ |
+| Panj Pyare vs Ten Gurus | First five Khalsa 1699 vs 1469–1708 line | पंज प्यारे / दस गुरु |
+| Langar vs Sangat | Community kitchen vs congregation | लंगर / संगत |
 
 ---
 

@@ -31,26 +31,6 @@ Official Language | Arts. 343–351 | 8th Schedule | Classical languages | Lingu
 ---
 
 
-## Confused Pairs
-
-| Term A | Term B | Core difference |
-|--------|--------|-----------------|
-| **Official language (Union)** | **National language** | Hindi in Devanagari (**343**). Constitution **never** names a national language |
-| **8th Schedule** | **Classical language** | Constitutional **list of 22**. Executive **tag** (now **11**) — overlap is **not** 1:1 |
-| **343 English clock** | **OL Act 1963/67** | Text said **15 years**. Statute keeps English **with** Hindi, no sunset |
-| **344 Commission** | **1976 OL Committee** | Constitutional, **two** reports (5y / 10y) | Statutory, **Home Minister** chairs, standing |
-| **350A** | **350B** | States’ duty: mother-tongue **primary** | **One** Union officer for linguistic minorities |
-| **350B officer** | **NCM** | Constitutional, **linguistic** | Statutory 1992, **religious** |
-| **345** | **347** | State legislature adopts OL | **President** may direct a language of a section of the population |
-| **8th Schedule language** | **Union official language** | 22 recognised languages | Only **Hindi** (343). Being in the 8th does **not** make a language the Union OL |
-| **Simple law (343(3))** | **368 Amd of 343** | Parliament **provides** for English — ordinary Bill (2018) | Changing 343’s *text* — special majority, **not** on the federal list |
-| **Fifth Schedule** | **Sixth Schedule** | 10 States · TAC · PESA | **AMTM** · ADC · no PESA |
-| **371A** | **Sixth Schedule** | Nagaland custom/land | AMTM autonomous councils |
-| **371I** | **371J** | Goa Assembly ≥30 | Kalyana-Karnataka board + local quota |
-| **370** | **35A** | Temporary J&K article (now inoperative) | 1954 Order on permanent residents — **not** an Amd |
-
----
-
 ## Consolidated — 28 Must-Score Facts
 
 1. Part **XVII** (Arts. **343–351**) deals with official language. The Constitution **never** names a **national language**.
@@ -81,6 +61,26 @@ Official Language | Arts. 343–351 | 8th Schedule | Classical languages | Lingu
 26. Linguistic minorities are protected through Articles **350–350B**. The National Commission for Minorities (1992) is a **statutory** body for **religious** minorities — not a substitute for the 350B officer.
 27. Classical languages may overlap with Eighth Schedule names, but the tags are **not** one-to-one: classical status does not add a language to the Eighth Schedule, and Eighth Schedule listing does not create classical status.
 28. Special provisions for States sit mainly in Part **XXI** (Arts. **371–371J**). Memorise the letter facts (**371A** Nagaland, **371I** Goa seats, **371J** Kalyana-Karnataka) rather than treating “371” as one generic article.
+
+---
+
+## Confused Pairs
+
+| Term A | Term B | Core difference |
+|--------|--------|-----------------|
+| **Official language (Union)** | **National language** | Hindi in Devanagari (**343**). Constitution **never** names a national language |
+| **8th Schedule** | **Classical language** | Constitutional **list of 22**. Executive **tag** (now **11**) — overlap is **not** 1:1 |
+| **343 English clock** | **OL Act 1963/67** | Text said **15 years**. Statute keeps English **with** Hindi, no sunset |
+| **344 Commission** | **1976 OL Committee** | Constitutional, **two** reports (5y / 10y) | Statutory, **Home Minister** chairs, standing |
+| **350A** | **350B** | States’ duty: mother-tongue **primary** | **One** Union officer for linguistic minorities |
+| **350B officer** | **NCM** | Constitutional, **linguistic** | Statutory 1992, **religious** |
+| **345** | **347** | State legislature adopts OL | **President** may direct a language of a section of the population |
+| **8th Schedule language** | **Union official language** | 22 recognised languages | Only **Hindi** (343). Being in the 8th does **not** make a language the Union OL |
+| **Simple law (343(3))** | **368 Amd of 343** | Parliament **provides** for English — ordinary Bill (2018) | Changing 343’s *text* — special majority, **not** on the federal list |
+| **Fifth Schedule** | **Sixth Schedule** | 10 States · TAC · PESA | **AMTM** · ADC · no PESA |
+| **371A** | **Sixth Schedule** | Nagaland custom/land | AMTM autonomous councils |
+| **371I** | **371J** | Goa Assembly ≥30 | Kalyana-Karnataka board + local quota |
+| **370** | **35A** | Temporary J&K article (now inoperative) | 1954 Order on permanent residents — **not** an Amd |
 
 ---
 

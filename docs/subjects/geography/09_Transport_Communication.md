@@ -75,33 +75,6 @@ D. India
 ---
 
 
-## Confused Pairs
-
-| Pair | Correct | Trap | Hindi |
-|------|------------|------|-------|
-| NER HQ | **Gorakhpur** | Hajipur | गोरखपुर |
-| SER HQ | **Garden Reach, Kolkata** | Cuttack | कटक नहीं |
-| ECR HQ | **Hajipur** | Gorakhpur | हाजीपुर |
-| Amrit Bharat | Station **modernisation**; UP **149 stations** (Feb 2023) | 149 new railway lines | 149 स्टेशन |
-| Bharatmala | **Highways** | Ports | सड़क |
-| Sagarmala | **Port-led** | Highways | पत्तन |
-| Gati Shakti year | **2021** | 2022 | 2021 |
-| Purvanchal (built) | **Passes Mau**; not Basti | Blind 2018 “not Mau” as today’s map | मऊ हाँ |
-| Atal Tunnel | **Pir Panjal** | “World’s longest highway” | पीर पंजाल |
-| Igarka | **Russia** | China | रूस |
-| NW-1 | **Ganga** | Brahmaputra | गंगा |
-| NW-3 | **Kerala canal** | Ganga | केरल |
-| Harbour vs port | Shelter vs shelter+facilities | Same thing | पोताश्रय ≠ पत्तन |
-| Fibre | **TIR** | Refraction | पूर्ण आंतरिक परावर्तन |
-| Motihari pipe | **Amlekhganj** | Kathmandu | अमलेखगंज |
-| Solar airport | **Cochin** | Delhi / Ahmedabad | कोच्चि |
-| Paradip | **Odisha** | AP / WB | पारादीप = ओडिशा |
-| Alappuzha | **Kerala** | TN | आलप्पुझा |
-| NH vs rural roads | NH ~**2%** length but ~**40%** traffic | Think NH = most km | राष्ट्रीय राजमार्ग |
-| Silchar spelling | EW corridor = **Silchar / Silcher** Assam | Mix with Shillong | सिलचर |
-
----
-
 ## Consolidated — 27 Must-Score Facts
 
 1. Transport moves people and goods; communication moves information. About **95%** of India’s trade by **volume** moves by sea.
@@ -131,6 +104,33 @@ D. India
 25. **Incredible India** is the MoT tourism brand; **ITDC** dates from **1966**. Match hill stations carefully: Chakrata–UK, Haflong–Assam, Kalimpong–WB, Kufri–HP.
 26. **City of Lakes = Udaipur** (not Jaisalmer). **Pink City = Jaipur**. **Sabarimala = Kerala**. UNESCO tourist set includes Champaner–Pavagarh, CST Mumbai, Mamallapuram and Konark.
 27. **Srisailam = Nallamala**; Omkareshwar and Pushkar are **not** on Satmala / Mahadeo in the IAS 2015 trap. **Biligiriranga** holds the standing Ranganatha note in Karnataka.
+---
+
+## Confused Pairs
+
+| Pair | Correct | Trap | Hindi |
+|------|------------|------|-------|
+| NER HQ | **Gorakhpur** | Hajipur | गोरखपुर |
+| SER HQ | **Garden Reach, Kolkata** | Cuttack | कटक नहीं |
+| ECR HQ | **Hajipur** | Gorakhpur | हाजीपुर |
+| Amrit Bharat | Station **modernisation**; UP **149 stations** (Feb 2023) | 149 new railway lines | 149 स्टेशन |
+| Bharatmala | **Highways** | Ports | सड़क |
+| Sagarmala | **Port-led** | Highways | पत्तन |
+| Gati Shakti year | **2021** | 2022 | 2021 |
+| Purvanchal (built) | **Passes Mau**; not Basti | Blind 2018 “not Mau” as today’s map | मऊ हाँ |
+| Atal Tunnel | **Pir Panjal** | “World’s longest highway” | पीर पंजाल |
+| Igarka | **Russia** | China | रूस |
+| NW-1 | **Ganga** | Brahmaputra | गंगा |
+| NW-3 | **Kerala canal** | Ganga | केरल |
+| Harbour vs port | Shelter vs shelter+facilities | Same thing | पोताश्रय ≠ पत्तन |
+| Fibre | **TIR** | Refraction | पूर्ण आंतरिक परावर्तन |
+| Motihari pipe | **Amlekhganj** | Kathmandu | अमलेखगंज |
+| Solar airport | **Cochin** | Delhi / Ahmedabad | कोच्चि |
+| Paradip | **Odisha** | AP / WB | पारादीप = ओडिशा |
+| Alappuzha | **Kerala** | TN | आलप्पुझा |
+| NH vs rural roads | NH ~**2%** length but ~**40%** traffic | Think NH = most km | राष्ट्रीय राजमार्ग |
+| Silchar spelling | EW corridor = **Silchar / Silcher** Assam | Mix with Shillong | सिलचर |
+
 ---
 
 ## N.0 Framework (map first)

@@ -31,6 +31,17 @@
 
 ---
 
+## Must-Score Facts
+
+1. Lat–long ~28°43′–31°27′ N · 77°34′–81°02′ E; HP west, Nepal/Tibet E–N, UP south.
+2. South→north full stack: Tarai → Bhabar → Shiwalik → Dun → Lesser → Great Himalaya.
+3. Bhabar = streams sink; Tarai = streams reappear, marshy, fertile.
+4. Between MBT and MCT = **Lesser Himalaya**; Shiwalik = south of MBT.
+5. Dehradun = classic dun; Nanda Devi ~7816–7817 m (Chamoli); Kamet ~7756 m.
+6. Garhwal = west; Kumaon = east.
+
+---
+
 ## Confused Pairs
 
 | Pair | Correct |
@@ -40,17 +51,6 @@
 | Bhabar vs Tarai | Bhabar = porous gravel, streams **sink**; Tarai = streams **reappear**, marshy, fertile |
 | Great Himalaya vs Tethys | Tethys / Trans-Himalaya lies farther north — a different question family |
 | UK vs HP relief vocabulary | Same thrust names; apply to **Uttarakhand** districts in state papers |
-
----
-
-## Must-Score Facts
-
-1. Lat–long ~28°43′–31°27′ N · 77°34′–81°02′ E; HP west, Nepal/Tibet E–N, UP south.
-2. South→north full stack: Tarai → Bhabar → Shiwalik → Dun → Lesser → Great Himalaya.
-3. Bhabar = streams sink; Tarai = streams reappear, marshy, fertile.
-4. Between MBT and MCT = **Lesser Himalaya**; Shiwalik = south of MBT.
-5. Dehradun = classic dun; Nanda Devi ~7816–7817 m (Chamoli); Kamet ~7756 m.
-6. Garhwal = west; Kumaon = east.
 
 ---
 

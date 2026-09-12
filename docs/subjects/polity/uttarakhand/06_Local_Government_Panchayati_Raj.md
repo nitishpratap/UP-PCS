@@ -27,6 +27,16 @@
 
 ---
 
+## Must-Score Facts
+
+1. Health register = **not** a Panchayat record (Q134).
+2. Family / birth–death / grant registers = yes.
+3. Asian Mayors’ Conference 2006 = **Dehradun**.
+4. 73rd/74th skeleton still frames UK local bodies.
+5. Do not pick Mussoorie for the 2006 mayors’ conference.
+
+---
+
 ## Confused Pairs
 
 | Pair | Key |
@@ -35,16 +45,6 @@
 | Mayors’ Conference Mussoorie / Haridwar | Keyed venue **Dehradun** |
 | Grant register vs health register | Grant register is maintained; health is not |
 | Municipal vs Panchayat records | Stem is about **Panchayats** |
-
----
-
-## Must-Score Facts
-
-1. Health register = **not** a Panchayat record (Q134).
-2. Family / birth–death / grant registers = yes.
-3. Asian Mayors’ Conference 2006 = **Dehradun**.
-4. 73rd/74th skeleton still frames UK local bodies.
-5. Do not pick Mussoorie for the 2006 mayors’ conference.
 
 ---
 

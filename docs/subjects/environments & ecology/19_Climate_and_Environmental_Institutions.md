@@ -21,21 +21,6 @@ IPCC | UNEP | UNDP | IUCN | WWF | FAO (Environment-related Role)
 
 ---
 
-## Confused Pairs
-
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **IPCC** | Climate **science assessment** body | IPCC |
-| **UNFCCC** | Climate **treaty** framework — COP, NDCs | UNFCCC |
-| **UNEP** | UN **environment** programme — Nairobi | UNEP |
-| **UNDP** | UN **development** agency — HDI, HDR | UNDP |
-| **IUCN** | **Red List** extinction risk assessment | IUCN |
-| **CITES** | **Trade** regulation — not IUCN | CITES |
-| **WWF** | Conservation **NGO** — Living Planet Report | WWF |
-| **FAO** | Food/agriculture agency — Rome | FAO |
-
----
-
 ## Consolidated — 24 Must-Score Facts
 
 1. **IPCC** sits in **Geneva**, issues Assessment Reports, and synthesises climate science. It does **not** set NDCs and is **not** the UNFCCC treaty body.
@@ -62,6 +47,21 @@ IPCC | UNEP | UNDP | IUCN | WWF | FAO (Environment-related Role)
 22. Living Planet Index tracks vertebrate abundance trends; it is not a legal trade permit system.
 23. SOFO is FAO’s forest flagship — not FSI’s India State of Forest Report.
 24. Match org → city → product before matching slogans. Geography of headquarters is a frequent prelims filter.
+
+---
+
+## Confused Pairs
+
+| Term | One-line difference | Hindi |
+|------|---------------------|-------|
+| **IPCC** | Climate **science assessment** body | IPCC |
+| **UNFCCC** | Climate **treaty** framework — COP, NDCs | UNFCCC |
+| **UNEP** | UN **environment** programme — Nairobi | UNEP |
+| **UNDP** | UN **development** agency — HDI, HDR | UNDP |
+| **IUCN** | **Red List** extinction risk assessment | IUCN |
+| **CITES** | **Trade** regulation — not IUCN | CITES |
+| **WWF** | Conservation **NGO** — Living Planet Report | WWF |
+| **FAO** | Food/agriculture agency — Rome | FAO |
 
 ---
 

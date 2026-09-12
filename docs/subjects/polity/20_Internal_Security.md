@@ -43,32 +43,6 @@ Newest first. One event, one fact — not a dump of keywords.
 ---
 
 
-## Confused Pairs
-
-| Term A | Term B | Core difference |
-|--------|--------|-----------------|
-| **IB** | **RAW** | Internal intel, **MHA**, **1887** | External intel, **Cabinet Secretariat**, **1968** |
-| **CBI** | **NIA** | DSPE; **State consent s.6** | Statute **2008**; **no** consent on scheduled offences |
-| **CAPF** | **Army** | **MHA**, police-style | **MoD**, armed forces |
-| **BSF** | **ITBP** | Pak + Bangladesh | China / **LAC**, Himalayan |
-| **SSB** | **Assam Rifles** | Nepal + Bhutan borders | Oldest; **NE**; dual MHA/Army |
-| **NSG** | **SPG (1988)** | Federal strike / anti-terror | Close protection of **PM** |
-| **SPG (1988)** | **SPG (NSC)** | Special **Protection** Group | Strategic **Policy** Group (NSA chairs) |
-| **NSC** | **CCS** | 1998 council; PM + NSA | Cabinet committee on security |
-| **CRPF** | **BSF** | Internal / LWE / RAF / CoBRA | International land border (W+E) |
-| **CISF** | **CRPF** | Static industry / airport / metro | Mobile internal-security grid |
-| **NCTC** | **MAC** | Proposed, **never** stood up | **2001**, lives inside **IB** |
-| **Coast Guard** | **BSF Water Wing** | **MoD 1978**, sea | Riverine **Pak/BD** frontier, MHA |
-| **CERT-In** | **I4C** | MeitY, **s.70B**, incidents | MHA, **crime** portal |
-| **CERT-In** | **NCIIPC** | All-India CER | **CII** only, under **NTRO** |
-| **UAPA** | **NSA 1980** | Criminal trial / NIA / terror tag | **Preventive detention** (Art. 22 preventive detention) |
-| **UAPA** | **POTA / TADA** | Living 1967 law (2004/08/19 teeth) | **Repealed / lapsed** |
-| **AFSPA 1958** | **AFSPA J&K 1990** | NE disturbed areas | Separate J&K statute |
-| **AFSPA** | **UAPA** | Army powers in a **disturbed** notification | Police/NIA **trial** statute |
-| **NCTC (terror)** | **NCTC (I4C)** | Counter-terror centre — **never born** | National **Cybercrime Training** Centre |
-
----
-
 ## Consolidated — 30 Must-Score Facts
 
 1. Police and public order are **State List** subjects. The Union still has a duty under Article **355** to protect States against external aggression and internal disturbance. The **Ministry of Home Affairs** is the internal-security nodal ministry.
@@ -101,6 +75,32 @@ Newest first. One event, one fact — not a dump of keywords.
 28. **TADA** (**1985–95**) lapsed. **POTA** (**2002**) was repealed. The living central terror-trial tool for scheduled offences is **UAPA**, often with **NIA**.
 29. CRPF is the main internal mobile force (including RAF and CoBRA for LWE). BSF holds the western and eastern international land borders. CISF holds static industry and airport security. Do not swap roles.
 30. Emergency Articles **352, 356, and 360** are constitutional emergency tools. Internal security day-to-day work still runs through police, CAPFs, intelligence, and special statutes — not only through Emergency proclamations.
+
+---
+
+## Confused Pairs
+
+| Term A | Term B | Core difference |
+|--------|--------|-----------------|
+| **IB** | **RAW** | Internal intel, **MHA**, **1887** | External intel, **Cabinet Secretariat**, **1968** |
+| **CBI** | **NIA** | DSPE; **State consent s.6** | Statute **2008**; **no** consent on scheduled offences |
+| **CAPF** | **Army** | **MHA**, police-style | **MoD**, armed forces |
+| **BSF** | **ITBP** | Pak + Bangladesh | China / **LAC**, Himalayan |
+| **SSB** | **Assam Rifles** | Nepal + Bhutan borders | Oldest; **NE**; dual MHA/Army |
+| **NSG** | **SPG (1988)** | Federal strike / anti-terror | Close protection of **PM** |
+| **SPG (1988)** | **SPG (NSC)** | Special **Protection** Group | Strategic **Policy** Group (NSA chairs) |
+| **NSC** | **CCS** | 1998 council; PM + NSA | Cabinet committee on security |
+| **CRPF** | **BSF** | Internal / LWE / RAF / CoBRA | International land border (W+E) |
+| **CISF** | **CRPF** | Static industry / airport / metro | Mobile internal-security grid |
+| **NCTC** | **MAC** | Proposed, **never** stood up | **2001**, lives inside **IB** |
+| **Coast Guard** | **BSF Water Wing** | **MoD 1978**, sea | Riverine **Pak/BD** frontier, MHA |
+| **CERT-In** | **I4C** | MeitY, **s.70B**, incidents | MHA, **crime** portal |
+| **CERT-In** | **NCIIPC** | All-India CER | **CII** only, under **NTRO** |
+| **UAPA** | **NSA 1980** | Criminal trial / NIA / terror tag | **Preventive detention** (Art. 22 preventive detention) |
+| **UAPA** | **POTA / TADA** | Living 1967 law (2004/08/19 teeth) | **Repealed / lapsed** |
+| **AFSPA 1958** | **AFSPA J&K 1990** | NE disturbed areas | Separate J&K statute |
+| **AFSPA** | **UAPA** | Army powers in a **disturbed** notification | Police/NIA **trial** statute |
+| **NCTC (terror)** | **NCTC (I4C)** | Counter-terror centre — **never born** | National **Cybercrime Training** Centre |
 
 ---
 

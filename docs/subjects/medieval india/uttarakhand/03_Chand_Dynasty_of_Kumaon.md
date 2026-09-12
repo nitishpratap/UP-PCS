@@ -23,6 +23,17 @@
 
 ---
 
+## Must-Score Facts
+
+1. Somchand founded the Chand house of Kumaon.
+2. Champawat → Almora capital shift (Kalyan Chand / 1563 tradition).
+3. Char Aal = Karki + Bora + Taragi + Chaudhary.
+4. Chand ≠ Chandela of Khajuraho.
+5. Chand ≠ Parmar of Garhwal.
+6. Gorkha conquest ends Chand rule (modern UK folder for Gorkha admin).
+
+---
+
 ## Confused Pairs
 
 | Pair | Key |
@@ -32,17 +43,6 @@
 | Char Aal vs Char Dham | Four guard clans ≠ four Himalayan shrines |
 | Chand of Kumaon vs Chandela of Bundelkhand | Hill Kumaon house ≠ Khajuraho Chandela |
 | Kalyan Chand vs Somchand | Capital-shifter to Almora vs founder at Champawat |
-
----
-
-## Must-Score Facts
-
-1. Somchand founded the Chand house of Kumaon.
-2. Champawat → Almora capital shift (Kalyan Chand / 1563 tradition).
-3. Char Aal = Karki + Bora + Taragi + Chaudhary.
-4. Chand ≠ Chandela of Khajuraho.
-5. Chand ≠ Parmar of Garhwal.
-6. Gorkha conquest ends Chand rule (modern UK folder for Gorkha admin).
 
 ---
 

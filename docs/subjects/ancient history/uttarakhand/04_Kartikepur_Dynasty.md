@@ -23,18 +23,6 @@
 
 ---
 
-## Confused Pairs
-
-| Pair | Key |
-|------|-----|
-| Kartikeyapur vs Brahmapura | Capital city vs Chinese **regional** name |
-| Kartikeyapur vs Joshimath | Later Katyuri capital vs earlier seat tradition |
-| Kartikeya god vs Kartikeyapura | Capital named in Skanda/Kartikeya sacred geography; not only a temple label |
-| Kuninda vs Kartikepur | Early historic coins vs early medieval kingdom |
-| Taleshwar / Pandukeshwar vs Brahmapura | Inscription / sacred-site names ≠ Hiuen Tsang’s regional key |
-
----
-
 ## Must-Score Facts
 
 1. Kartikeyapura = Baijnath (Bageshwar).
@@ -44,6 +32,18 @@
 5. Taleshwar and Pandukeshwar are separate inscription / sacred-site distractors.
 6. Kuninda coins come **before** Kartikepur kingship.
 7. Full Chand/Parmar story = Medieval UK folder.
+
+---
+
+## Confused Pairs
+
+| Pair | Key |
+|------|-----|
+| Kartikeyapur vs Brahmapura | Capital city vs Chinese **regional** name |
+| Kartikeyapur vs Joshimath | Later Katyuri capital vs earlier seat tradition |
+| Kartikeya god vs Kartikeyapura | Capital named in Skanda/Kartikeya sacred geography; not only a temple label |
+| Kuninda vs Kartikepur | Early historic coins vs early medieval kingdom |
+| Taleshwar / Pandukeshwar vs Brahmapura | Inscription / sacred-site names ≠ Hiuen Tsang’s regional key |
 
 ---
 

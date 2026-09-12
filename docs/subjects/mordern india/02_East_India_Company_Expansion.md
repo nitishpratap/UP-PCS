@@ -15,30 +15,6 @@ East India Company and Nawabs of Bengal | Nawabs of Bengal | Battle of Plassey |
 
 ---
 
-## Confused Pairs
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Plassey 1757 | Buxar 1764 | Conspiracy + puppet Nawab vs real battle vs triple alliance; Diwani after Buxar | प्लासी / बक्सर |
-| Mir Jafar | Mir Qasim | Puppet after Plassey vs Nawab who fought at Buxar | मीर जाफ़र / मीर कासिम |
-| Diwani | Nizamat | Revenue (1765) vs police and criminal justice in the Nawab’s name | दीवानी / निज़ामत |
-| Dual Government 1765–72 | Direct rule 1772 | Clive created it; Hastings ended it | दोहरी सरकार |
-| Ring Fence | Subsidiary Alliance | Informal buffer around Bengal vs British troops + subsidy + Resident | रिंग फेंस / सहायक संधि |
-| Subsidiary Alliance | Doctrine of Lapse | Wellesley’s protection treaty vs Dalhousie’s annexation if no natural heir | सहायक संधि / विलुप्ति सिद्धांत |
-| Treaty of Madras 1769 | Treaty of Mangalore 1784 | First Anglo-Mysore War vs Second | मद्रास / मैंगलोर |
-| Salbai 1782 | Bassein 1802 | Peace after First Maratha War vs Peshwa’s subsidiary treaty | सालबाई / बसीन |
-| Treaty of Lahore 1846 | Punjab annexation 1849 | First Anglo-Sikh settlement vs annexation after Second War | लाहौर / पंजाब |
-| Sugauli 1816 | Lahore 1846 | Nepal hills vs Sikh Punjab | सुगौली / लाहौर |
-| Warren Hastings | Lord Hastings | Dual Govt / Ring Fence / Salbai / Banaras vs Nepal / Pindaris / Third Maratha | वारेन / लॉर्ड हेस्टिंग्स |
-| Chauth | Subsidiary Alliance | Maratha claim of one-fourth revenue vs British protection payment | चौथ |
-| Sindh 1843 | Punjab 1849 | Napier / Ellenborough vs Dalhousie after Second Sikh War | सिंध / पंजाब |
-| Awadh 1856 | Jhansi 1853 | Misgovernance annexation vs Lapse | अवध / झाँसी |
-| Treaty of Amritsar 1809 | Treaty of Lahore 1846 | Ranjit’s Sutlej peace vs First Sikh War settlement | अमृतसर / लाहौर |
-| Masterly Inactivity | Proud Reserve / Forward Policy | Lawrence’s caution on Afghanistan vs Lytton’s forward Afghan line | मास्टरी इनएक्टिविटी / प्राउड रिजर्व |
-| Surat 1775 | Purandhar 1776 | Bombay’s Raghoba deal vs Calcutta’s revised Maratha treaty before Salbai | सूरत / पुरंदर |
-
----
-
 ## Consolidated — 26 Must-Score Facts
 
 1. Company rule grew in phases: factories → **Plassey puppet (1757)** → **Diwani (1765)** → Dual Government ends **1772** → Ring Fence → **Subsidiary Alliance (Wellesley from 1798)** → Paramountcy → **Lapse and annexations (Dalhousie)**.
@@ -67,6 +43,172 @@ East India Company and Nawabs of Bengal | Nawabs of Bengal | Battle of Plassey |
 24. Farrukhsiyar’s **farman of 1717** gave the Company major duty-free privileges in Bengal. Later Nawabs fought private misuse of **dastaks** — that quarrel helps explain Plassey, but it is **not** Diwani.
 25. **Hyder Ali** seized real power in Mysore in **1761** and built an armoury at **Dindigal (1755)**. **Tipu** succeeded in **1782** and died at Seringapatam in **1799**.
 26. Paramountcy under **Lord Hastings** meant smashing rivals and claiming overlordship after Nepal, Pindaris and the Third Maratha War — the bridge from Subsidiary diplomacy to open supremacy.
+
+---
+
+## Confused Pairs
+
+| A | B | Difference | Hindi |
+|---|----|------------|-------|
+| Plassey 1757 | Buxar 1764 | Conspiracy + puppet Nawab vs real battle vs triple alliance; Diwani after Buxar | प्लासी / बक्सर |
+| Mir Jafar | Mir Qasim | Puppet after Plassey vs Nawab who fought at Buxar | मीर जाफ़र / मीर कासिम |
+| Diwani | Nizamat | Revenue (1765) vs police and criminal justice in the Nawab’s name | दीवानी / निज़ामत |
+| Dual Government 1765–72 | Direct rule 1772 | Clive created it; Hastings ended it | दोहरी सरकार |
+| Ring Fence | Subsidiary Alliance | Informal buffer around Bengal vs British troops + subsidy + Resident | रिंग फेंस / सहायक संधि |
+| Subsidiary Alliance | Doctrine of Lapse | Wellesley’s protection treaty vs Dalhousie’s annexation if no natural heir | सहायक संधि / विलुप्ति सिद्धांत |
+| Treaty of Madras 1769 | Treaty of Mangalore 1784 | First Anglo-Mysore War vs Second | मद्रास / मैंगलोर |
+| Salbai 1782 | Bassein 1802 | Peace after First Maratha War vs Peshwa’s subsidiary treaty | सालबाई / बसीन |
+| Treaty of Lahore 1846 | Punjab annexation 1849 | First Anglo-Sikh settlement vs annexation after Second War | लाहौर / पंजाब |
+| Sugauli 1816 | Lahore 1846 | Nepal hills vs Sikh Punjab | सुगौली / लाहौर |
+| Warren Hastings | Lord Hastings | Dual Govt / Ring Fence / Salbai / Banaras vs Nepal / Pindaris / Third Maratha | वारेन / लॉर्ड हेस्टिंग्स |
+| Chauth | Subsidiary Alliance | Maratha claim of one-fourth revenue vs British protection payment | चौथ |
+| Sindh 1843 | Punjab 1849 | Napier / Ellenborough vs Dalhousie after Second Sikh War | सिंध / पंजाब |
+| Awadh 1856 | Jhansi 1853 | Misgovernance annexation vs Lapse | अवध / झाँसी |
+| Treaty of Amritsar 1809 | Treaty of Lahore 1846 | Ranjit’s Sutlej peace vs First Sikh War settlement | अमृतसर / लाहौर |
+| Masterly Inactivity | Proud Reserve / Forward Policy | Lawrence’s caution on Afghanistan vs Lytton’s forward Afghan line | मास्टरी इनएक्टिविटी / प्राउड रिजर्व |
+| Surat 1775 | Purandhar 1776 | Bombay’s Raghoba deal vs Calcutta’s revised Maratha treaty before Salbai | सूरत / पुरंदर |
+
+---
+
+## Must-score facts — treaties, battles, GG tags
+
+### Treaty ↔ year
+
+| Treaty | Year | War / context |
+|--------|------|----------------|
+| Allahabad | **1765** | Diwani after Buxar |
+| Madras | **1769** | 1st Mysore |
+| Surat / Purandhar | **1775 / 1776** | 1st Maratha openings |
+| Salbai | **1782** | 1st Maratha peace |
+| Mangalore | **1784** | 2nd Mysore |
+| Seringapatam | **1792** | 3rd Mysore |
+| Bassein | **1802** | Peshwa subsidiary |
+| Amritsar (Ranjit) | **1809** | Sutlej peace with Ranjit |
+| Sugauli | **1816** | Nepal |
+| Yandabo | **1826** | 1st Burma |
+| Lahore | **1846** | 1st Sikh |
+| Sinchula | **1865** | Bhutan |
+
+### Battle year facts
+
+| Battle | Year | War / theatre |
+|--------|------|----------------|
+| **Shakarkheda** | **1724** | Nizam-ul-Mulk vs Mubariz Khan; Hyderabad Asaf Jahi hold |
+| Plassey | 1757 | Bengal |
+| **Bedara / Chinsurah** | **1759** | English vs Dutch in Bengal |
+| Buxar | 1764 | Bengal / Awadh / Mughal |
+| Porto Novo | 1781 | 2nd Mysore (Eyre Coote vs Hyder) |
+| Assaye | 1803 | 2nd Maratha |
+| Miani | 1843 | Sindh |
+| Mudki | 1845 | 1st Sikh |
+| Gujrat | 1849 | 2nd Sikh |
+
+**UPPCS 2022 chronology stem (I Mudki, II Porto Novo, III Shakarkheda, IV Bedara):**
+
+| Order | Battle | Year |
+|------:|--------|------|
+| 1 | Shakarkheda | **1724** |
+| 2 | Bedara | **1759** |
+| 3 | Porto Novo | **1781** |
+| 4 | Mudki | **1845** |
+
+Code = **III, IV, II, I**.
+
+### Governor-General ↔ expansion tag
+
+| GG | Tag |
+|----|-----|
+| Clive | Plassey; Allahabad; Dual Government |
+| Warren Hastings | Dual Govt ends; Ring Fence; Salbai; Banaras; Rohilla War |
+| Wellesley | Subsidiary Alliance; 4th Mysore; 2nd Maratha; recalled 1805 |
+| Lord Hastings | Nepal; Pindaris; 3rd Maratha |
+| Amherst | 1st Burma / Yandabo |
+| Auckland | 1st Afghan War 1839–42 |
+| Ellenborough | Sindh 1843 |
+| Hardinge | 1st Sikh War |
+| Dalhousie | Lapse; Punjab 1849; Awadh 1856; 2nd Burma |
+| Lawrence | Masterly Inactivity (Afghan caution) |
+| Lytton | Proud Reserve / Forward Policy; 2nd Afghan context |
+
+**PYQ — UPPCS Prelims 2019, Q93**
+
+Match List-I with List-II:
+
+**List-I** A. Treaty of Allahabad B. Treaty of Manglore C. Treaty of Salbai D. Treaty of Madras
+**List-II** 1. 1782 2. 1784 3. 1769 4. 1765
+
+A. 4 2 3 1
+
+B. 2 4 3 1
+
+C. 4 2 1 3
+
+D. 2 4 1 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Allahabad 1765, Mangalore 1784, Salbai 1782, Madras 1769.
+
+</details>
+
+**PYQ — UPPCS Prelims 2025, Q26**
+
+Consider the following wars and arrange them in correct chronological order.
+
+1. First Anglo-Mysore War
+2. Second Anglo-French War
+3. First Anglo-Sikh War
+4. First Anglo-Afghan War
+
+A. 2, 1, 4, 3
+
+B. 1, 2, 3, 4
+
+C. 1, 2, 4, 3
+
+D. 2, 1, 3, 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — 2nd Anglo-French (c.1749–54) → 1st Mysore (1767–69) → 1st Afghan (1839–42) → 1st Sikh (1845–46).
+
+</details>
+
+**PYQ — UPPCS Prelims 2022, Q64**
+
+Consider the following events and arrange them in chronological order.
+
+I. Battle of Mudki
+II. Battle of Porto Novo
+III. Battle of Shakarkheda
+IV. Battle of Bedara
+
+A. II, III, IV, I
+
+B. III, IV, II, I
+
+C. IV, III, II, I
+
+D. I, II, III, IV
+
+<details>
+<summary>Show answer</summary>
+
+
+**Logic:**
+
+| Battle | Year | Theatre |
+|--------|------|---------|
+| Shakarkheda | **1724** | Nizam-ul-Mulk vs Mubariz Khan |
+| Bedara | **1759** | English vs Dutch (Bengal) |
+| Porto Novo | **1781** | 2nd Anglo-Mysore |
+| Mudki | **1845** | 1st Anglo-Sikh |
+
+**Ans: B** — III, IV, II, I.
+
+</details>
 
 ---
 
@@ -1252,148 +1394,6 @@ Banaras (Benares) was a semi-autonomous zamindari under Company overlordship aft
 | **Rohilkhand** | Rohilla War 1774; later Awadh cessions |
 
 > **Logic:** Banaras **1781** = **Warren Hastings** vs **Chait Singh**. Do not merge with 1857. Akbar Fort = **Prayagraj**. Prayagraj fort transfer = **1798**, not 1790–97.
-
----
-
-## Must-score facts — treaties, battles, GG tags
-
-### Treaty ↔ year
-
-| Treaty | Year | War / context |
-|--------|------|----------------|
-| Allahabad | **1765** | Diwani after Buxar |
-| Madras | **1769** | 1st Mysore |
-| Surat / Purandhar | **1775 / 1776** | 1st Maratha openings |
-| Salbai | **1782** | 1st Maratha peace |
-| Mangalore | **1784** | 2nd Mysore |
-| Seringapatam | **1792** | 3rd Mysore |
-| Bassein | **1802** | Peshwa subsidiary |
-| Amritsar (Ranjit) | **1809** | Sutlej peace with Ranjit |
-| Sugauli | **1816** | Nepal |
-| Yandabo | **1826** | 1st Burma |
-| Lahore | **1846** | 1st Sikh |
-| Sinchula | **1865** | Bhutan |
-
-### Battle year facts
-
-| Battle | Year | War / theatre |
-|--------|------|----------------|
-| **Shakarkheda** | **1724** | Nizam-ul-Mulk vs Mubariz Khan; Hyderabad Asaf Jahi hold |
-| Plassey | 1757 | Bengal |
-| **Bedara / Chinsurah** | **1759** | English vs Dutch in Bengal |
-| Buxar | 1764 | Bengal / Awadh / Mughal |
-| Porto Novo | 1781 | 2nd Mysore (Eyre Coote vs Hyder) |
-| Assaye | 1803 | 2nd Maratha |
-| Miani | 1843 | Sindh |
-| Mudki | 1845 | 1st Sikh |
-| Gujrat | 1849 | 2nd Sikh |
-
-**UPPCS 2022 chronology stem (I Mudki, II Porto Novo, III Shakarkheda, IV Bedara):**
-
-| Order | Battle | Year |
-|------:|--------|------|
-| 1 | Shakarkheda | **1724** |
-| 2 | Bedara | **1759** |
-| 3 | Porto Novo | **1781** |
-| 4 | Mudki | **1845** |
-
-Code = **III, IV, II, I**.
-
-### Governor-General ↔ expansion tag
-
-| GG | Tag |
-|----|-----|
-| Clive | Plassey; Allahabad; Dual Government |
-| Warren Hastings | Dual Govt ends; Ring Fence; Salbai; Banaras; Rohilla War |
-| Wellesley | Subsidiary Alliance; 4th Mysore; 2nd Maratha; recalled 1805 |
-| Lord Hastings | Nepal; Pindaris; 3rd Maratha |
-| Amherst | 1st Burma / Yandabo |
-| Auckland | 1st Afghan War 1839–42 |
-| Ellenborough | Sindh 1843 |
-| Hardinge | 1st Sikh War |
-| Dalhousie | Lapse; Punjab 1849; Awadh 1856; 2nd Burma |
-| Lawrence | Masterly Inactivity (Afghan caution) |
-| Lytton | Proud Reserve / Forward Policy; 2nd Afghan context |
-
-**PYQ — UPPCS Prelims 2019, Q93**
-
-Match List-I with List-II:
-
-**List-I** A. Treaty of Allahabad B. Treaty of Manglore C. Treaty of Salbai D. Treaty of Madras
-**List-II** 1. 1782 2. 1784 3. 1769 4. 1765
-
-A. 4 2 3 1
-
-B. 2 4 3 1
-
-C. 4 2 1 3
-
-D. 2 4 1 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Allahabad 1765, Mangalore 1784, Salbai 1782, Madras 1769.
-
-</details>
-
-**PYQ — UPPCS Prelims 2025, Q26**
-
-Consider the following wars and arrange them in correct chronological order.
-
-1. First Anglo-Mysore War
-2. Second Anglo-French War
-3. First Anglo-Sikh War
-4. First Anglo-Afghan War
-
-A. 2, 1, 4, 3
-
-B. 1, 2, 3, 4
-
-C. 1, 2, 4, 3
-
-D. 2, 1, 3, 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 2nd Anglo-French (c.1749–54) → 1st Mysore (1767–69) → 1st Afghan (1839–42) → 1st Sikh (1845–46).
-
-</details>
-
-**PYQ — UPPCS Prelims 2022, Q64**
-
-Consider the following events and arrange them in chronological order.
-
-I. Battle of Mudki
-II. Battle of Porto Novo
-III. Battle of Shakarkheda
-IV. Battle of Bedara
-
-A. II, III, IV, I
-
-B. III, IV, II, I
-
-C. IV, III, II, I
-
-D. I, II, III, IV
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:**
-
-| Battle | Year | Theatre |
-|--------|------|---------|
-| Shakarkheda | **1724** | Nizam-ul-Mulk vs Mubariz Khan |
-| Bedara | **1759** | English vs Dutch (Bengal) |
-| Porto Novo | **1781** | 2nd Anglo-Mysore |
-| Mudki | **1845** | 1st Anglo-Sikh |
-
-**Ans: B** — III, IV, II, I.
-
-</details>
 
 ---
 

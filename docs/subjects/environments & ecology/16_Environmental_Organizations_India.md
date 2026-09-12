@@ -21,23 +21,6 @@ MoEFCC | CPCB | SPCB | NGT | NEERI | WII | BSI | ZSI | FSI
 
 ---
 
-## Confused Pairs
-
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **MoEFCC** | Nodal ministry — policy, clearances, forest/wildlife laws | MoEFCC |
-| **CPCB** | Central pollution standards and national monitoring | CPCB |
-| **SPCB** | State pollution enforcement — consent to industries | SPCB |
-| **NGT** | Green tribunal — environmental appeals | NGT |
-| **WII** | Wildlife research and officer training | WII |
-| **BSI** | Plant survey and taxonomy | BSI |
-| **ZSI** | Animal survey and taxonomy | ZSI |
-| **FSI** | Forest cover assessment — ISFR publisher | FSI |
-| **ISFR** | India State of Forest Report — biennial | ISFR |
-| **NEERI** | CSIR environmental engineering lab — **Nagpur 1958** | NEERI |
-
----
-
 ## Consolidated — 26 Must-Score Facts
 
 1. **MoEFCC** is India’s nodal ministry for environment, forests, wildlife, and climate change. It began as MoEF in **1985** and was renamed MoEFCC in **2014**. Headquarters is **New Delhi**.
@@ -68,6 +51,23 @@ MoEFCC | CPCB | SPCB | NGT | NEERI | WII | BSI | ZSI | FSI
 26. NEERI is **Nagpur 1958**, not New Delhi 1970 and not a pollution-standards board.
 27. **CAZRI = Jodhpur**; **IIFM = Bhopal**; operational Antarctica stations = **Maitri + Bharati**.
 28. **INCOIS = Hyderabad**; ENVIS population–environment centre = **IIPS Mumbai**.
+
+---
+
+## Confused Pairs
+
+| Term | One-line difference | Hindi |
+|------|---------------------|-------|
+| **MoEFCC** | Nodal ministry — policy, clearances, forest/wildlife laws | MoEFCC |
+| **CPCB** | Central pollution standards and national monitoring | CPCB |
+| **SPCB** | State pollution enforcement — consent to industries | SPCB |
+| **NGT** | Green tribunal — environmental appeals | NGT |
+| **WII** | Wildlife research and officer training | WII |
+| **BSI** | Plant survey and taxonomy | BSI |
+| **ZSI** | Animal survey and taxonomy | ZSI |
+| **FSI** | Forest cover assessment — ISFR publisher | FSI |
+| **ISFR** | India State of Forest Report — biennial | ISFR |
+| **NEERI** | CSIR environmental engineering lab — **Nagpur 1958** | NEERI |
 
 ---
 

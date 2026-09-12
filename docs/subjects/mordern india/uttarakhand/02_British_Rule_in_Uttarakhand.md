@@ -27,6 +27,17 @@
 
 ---
 
+## Must-Score Facts
+
+1. British hill rule from **1815**; Tehri separate; Almora early HQ; Nainital ≈ **1841**.
+2. Officers: **Gardner** early → **Traill** long early Commissioner → **Ramsay** later Commissioner; **Batten** settlement memory.
+3. Traill → native doctors at **Almora**, **1833**.
+4. **Padhan** = one village; **Kamin** = revenue from assigned villages; **Sayana** = higher grade; ≠ plains Patwari dump.
+5. Coolie-Begar = Cause (porter need) → Course (standing grievance) → Result (1920s politics) — full agitation in the Freedom Movement card.
+6. Forest reservation is the colonial forest burden that later bridges Chipko.
+
+---
+
 ## Confused Pairs
 
 | Pair | Key |
@@ -38,17 +49,6 @@
 | British Garhwal vs Tehri | Company districts ≠ Tehri princely state |
 | Coolie-Begar vs Begar only | Forced porter / labour system of the hills — political issue by 1910s–20s |
 | Forest reservation vs Chipko | Colonial restriction is the burden; Chipko is the later people’s movement |
-
----
-
-## Must-Score Facts
-
-1. British hill rule from **1815**; Tehri separate; Almora early HQ; Nainital ≈ **1841**.
-2. Officers: **Gardner** early → **Traill** long early Commissioner → **Ramsay** later Commissioner; **Batten** settlement memory.
-3. Traill → native doctors at **Almora**, **1833**.
-4. **Padhan** = one village; **Kamin** = revenue from assigned villages; **Sayana** = higher grade; ≠ plains Patwari dump.
-5. Coolie-Begar = Cause (porter need) → Course (standing grievance) → Result (1920s politics) — full agitation in the Freedom Movement card.
-6. Forest reservation is the colonial forest burden that later bridges Chipko.
 
 ---
 

@@ -15,27 +15,6 @@ Raja Ram Mohan Roy | Ishwar Chandra Vidyasagar | Jyotiba Phule | Satyashodhak Sa
 
 ---
 
-## Confused Pairs
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Brahmo Samaj | Arya Samaj | Reasoned monotheism and anti-idolatry vs “Back to the Vedas” and shuddhi | ब्रह्म समाज / आर्य समाज |
-| Aligarh | Deoband | Modern Western-style college vs traditional madrasa revival | अलीगढ़ / देवबंद |
-| Jyotiba Phule | Raja Ram Mohan Roy | Anti-caste work in Maharashtra vs Bengal elite religious reform | ज्योतिबा फुले / राम मोहन राय |
-| Malabari | Tilak (1891) | Pushed the Age of Consent Act vs opposed British interference in Hindu marriage | मालाबारी / तिलक |
-| Vidyasagar | D.K. Karve | Bengal widow remarriage and Sanskrit College vs Widow Remarriage Association in western India | विद्यासागर / कर्वे |
-| Ramakrishna | Vivekananda | Saint of Dakshineswar vs disciple who founded the Mission and spoke at Chicago | रामकृष्ण / विवेकानंद |
-| Prarthana Samaj | Brahmo Samaj | Bombay reform circle vs Bengal origin | प्रार्थना समाज / ब्रह्म समाज |
-| Satyashodhak Samaj | Prarthana Samaj | Phule’s truth-seeking anti-caste sabha vs Ranade’s liberal religious reform | सत्यशोधक / प्रार्थना |
-| Paramahansa Mandali | Prarthana Samaj | Secret 1849 Bombay circle against caste and idolatry vs public 1867 Bombay reform body | परमहंस मंडली / प्रार्थना समाज |
-| SNDP Yogam | Self-Respect Movement | Narayana Guru’s Kerala one-caste-one-god Ezhava uplift vs Periyar’s Tamil anti-Brahmin rationalism | एसएनडीपी / स्वाभिमान आंदोलन |
-| Singh Sabha | Arya Samaj | Sikh identity revival at Amritsar/Lahore vs Dayanand’s Vedic revival; both answered missionary and reform pressure | सिंह सभा / आर्य समाज |
-| Pandita Ramabai | D.K. Karve | Poona/Bombay women’s education, Sharada Sadan and Mukti Mission vs Widow Remarriage Association and SNDT | रमाबाई / कर्वे |
-| Wahabi movement | Ahmadiyya movement | Sayyid Ahmad of Rae Bareli’s militant revivalist stream vs Mirza Ghulam Ahmad’s peaceful messianic stream | वहाबी / अहमदिया |
-| Aligarh | Sir Syed Ahmad Khan | The institution (MAO College, 1875) vs its founder-reformer; always paired, never separated in a match | अलीगढ़ / सर सैयद |
-
----
-
 ## Consolidated — 31 Must-Score Facts
 
 1. **Raja Ram Mohan Roy** founded **Atmiya Sabha (1815)** and **Brahmo Sabha / Brahmo Samaj (1828)**. He campaigned against Sati; **Bentinck** banned Sati in **1829**.
@@ -70,6 +49,74 @@ Raja Ram Mohan Roy | Ishwar Chandra Vidyasagar | Jyotiba Phule | Satyashodhak Sa
 30. Law ladder: Sati ban **1829** → slavery illegal **1843** (Ellenborough) → Widow Remarriage **1856** → Native/Brahmo Marriage Act **1872** (ages 14/18) → Age of Consent **1891** (Malabari; Tilak opposed) → **Sharda Act 1929** (Har Bilas Sharda; girls 14 / boys 18).
 31. **Indian National Social Conference (1887)** = Ranade + Raghunath Rao (social issues kept off Congress platform). **Bahujan Samaj (1910)** = Mukund Rao Patil / Shankar Rao Jadhav.
 
+
+---
+
+## Confused Pairs
+
+| A | B | Difference | Hindi |
+|---|----|------------|-------|
+| Brahmo Samaj | Arya Samaj | Reasoned monotheism and anti-idolatry vs “Back to the Vedas” and shuddhi | ब्रह्म समाज / आर्य समाज |
+| Aligarh | Deoband | Modern Western-style college vs traditional madrasa revival | अलीगढ़ / देवबंद |
+| Jyotiba Phule | Raja Ram Mohan Roy | Anti-caste work in Maharashtra vs Bengal elite religious reform | ज्योतिबा फुले / राम मोहन राय |
+| Malabari | Tilak (1891) | Pushed the Age of Consent Act vs opposed British interference in Hindu marriage | मालाबारी / तिलक |
+| Vidyasagar | D.K. Karve | Bengal widow remarriage and Sanskrit College vs Widow Remarriage Association in western India | विद्यासागर / कर्वे |
+| Ramakrishna | Vivekananda | Saint of Dakshineswar vs disciple who founded the Mission and spoke at Chicago | रामकृष्ण / विवेकानंद |
+| Prarthana Samaj | Brahmo Samaj | Bombay reform circle vs Bengal origin | प्रार्थना समाज / ब्रह्म समाज |
+| Satyashodhak Samaj | Prarthana Samaj | Phule’s truth-seeking anti-caste sabha vs Ranade’s liberal religious reform | सत्यशोधक / प्रार्थना |
+| Paramahansa Mandali | Prarthana Samaj | Secret 1849 Bombay circle against caste and idolatry vs public 1867 Bombay reform body | परमहंस मंडली / प्रार्थना समाज |
+| SNDP Yogam | Self-Respect Movement | Narayana Guru’s Kerala one-caste-one-god Ezhava uplift vs Periyar’s Tamil anti-Brahmin rationalism | एसएनडीपी / स्वाभिमान आंदोलन |
+| Singh Sabha | Arya Samaj | Sikh identity revival at Amritsar/Lahore vs Dayanand’s Vedic revival; both answered missionary and reform pressure | सिंह सभा / आर्य समाज |
+| Pandita Ramabai | D.K. Karve | Poona/Bombay women’s education, Sharada Sadan and Mukti Mission vs Widow Remarriage Association and SNDT | रमाबाई / कर्वे |
+| Wahabi movement | Ahmadiyya movement | Sayyid Ahmad of Rae Bareli’s militant revivalist stream vs Mirza Ghulam Ahmad’s peaceful messianic stream | वहाबी / अहमदिया |
+| Aligarh | Sir Syed Ahmad Khan | The institution (MAO College, 1875) vs its founder-reformer; always paired, never separated in a match | अलीगढ़ / सर सैयद |
+
+---
+
+## Must-score facts — founders, years, regions
+
+### Founder ↔ institution ↔ year (consolidated)
+
+| Person | Institution | Year / place |
+|--------|-------------|--------------|
+| Raja Ram Mohan Roy | Atmiya Sabha; Brahmo Sabha | 1815; 1828, Calcutta |
+| Debendranath Tagore | Tattvabodhini Sabha; Adi Brahmo Samaj | 1839, Calcutta |
+| Dadoba Pandurang | Paramahansa Mandali | 1849, Bombay (secret) |
+| Ishwar Chandra Vidyasagar | Widow Remarriage campaign; Sanskrit College Principal | Act **1856** |
+| Atmaram Pandurang | Prarthana Samaj | 1867, Bombay |
+| Jyotiba Phule | Satyashodhak Samaj | 1873, Maharashtra |
+| Khem Singh Bedi / Thakur Singh Sandhawalia | Singh Sabha (Amritsar) | 1873, Amritsar |
+| Dayanand Saraswati | Arya Samaj | 1875, Bombay |
+| Sir Syed Ahmad Khan | MAO College, Aligarh | 1875, Aligarh |
+| Blavatsky and Olcott | Theosophical Society | 1875, New York; Adyar 1882 |
+| Gurmukh Singh / Bhai Ditt Singh | Singh Sabha (Lahore, Tat Khalsa) | 1879, Lahore |
+| Pandita Ramabai | Arya Mahila Samaj; Sharada Sadan; Mukti Mission | 1882; 1889; 1898 |
+| Annie Besant / Bhagwan Das | Central Hindu College | 1898, Banaras |
+| Swami Vivekananda | Ramakrishna Mission | 1897, Belur |
+| Dr Palpu / Kumaran Asan / Narayana Guru | SNDP Yogam | 1903, Kerala |
+| D.K. Karve | Widow Remarriage Association; Indian Women’s University (SNDT from 1920) | 1896 home; 1916 university |
+| E.V. Ramaswami Naicker (Periyar) | Self-Respect Movement | 1925, Tamil country |
+| Naoroji Furdunji / Dadabhai Naoroji | Rahnumai Mazdayasnan Sabha (*Rast Goftar*) | 1851, Bombay |
+| Dr. B.R. Ambedkar | Bahishkrit Hitakarini Sabha (*Mooknayak*) | 1924, Bombay |
+
+### British social legislation ↔ year (the four-law ladder)
+
+| Law | Year | Linked reformer |
+|-----|------|------------------|
+| Sati Regulation (Bentinck) | **1829** | Raja Ram Mohan Roy campaigned |
+| Hindu Widows’ Remarriage Act | **1856** | Ishwar Chandra Vidyasagar campaigned |
+| Native Marriage Act (civil/Brahmo marriage) | **1872** | Brahmo Samaj context |
+| Age of Consent Act | **1891** | Behramji Malabari advocated; Tilak opposed |
+
+### Region ↔ stream quick fact
+
+| Region | Signature stream | Founder anchor |
+|--------|-------------------|-----------------|
+| Bengal | Brahmo Samaj; Young Bengal | Roy; Derozio |
+| Maharashtra | Prarthana Samaj; Satyashodhak Samaj; Paramahansa Mandali | Ranade circle; Phule; Dadoba Pandurang |
+| Punjab | Arya Samaj (base); Singh Sabha | Dayanand; Khem Singh Bedi / Gurmukh Singh |
+| South (Kerala/Tamil) | SNDP; Self-Respect | Narayana Guru; Periyar |
+| Muslim streams | Aligarh; Deoband; Wahabi; Faraizi; Ahmadiyya | Sir Syed; Nanautawi–Gangohi; Sayyid Ahmad; Shariatullah; Ghulam Ahmad |
 
 ---
 
@@ -744,53 +791,6 @@ D. Neither 1 nor 2
 - Do **not** confuse *Bahishkrit Hitakarini Sabha* (1924, Ambedkar) with *Depressed Classes Mission Society* (1906, V.R. Shinde) or *All India Anti-Untouchability League / Harijan Sevak Sangh* (1932, Mahatma Gandhi).
 
 > **Logic:** Bahishkrit Hitakarini Sabha = **1924, Bombay** + **Dr. B.R. Ambedkar** + motto *"Educate, Agitate, Organise"*.
-
-## Must-score facts — founders, years, regions
-
-### Founder ↔ institution ↔ year (consolidated)
-
-| Person | Institution | Year / place |
-|--------|-------------|--------------|
-| Raja Ram Mohan Roy | Atmiya Sabha; Brahmo Sabha | 1815; 1828, Calcutta |
-| Debendranath Tagore | Tattvabodhini Sabha; Adi Brahmo Samaj | 1839, Calcutta |
-| Dadoba Pandurang | Paramahansa Mandali | 1849, Bombay (secret) |
-| Ishwar Chandra Vidyasagar | Widow Remarriage campaign; Sanskrit College Principal | Act **1856** |
-| Atmaram Pandurang | Prarthana Samaj | 1867, Bombay |
-| Jyotiba Phule | Satyashodhak Samaj | 1873, Maharashtra |
-| Khem Singh Bedi / Thakur Singh Sandhawalia | Singh Sabha (Amritsar) | 1873, Amritsar |
-| Dayanand Saraswati | Arya Samaj | 1875, Bombay |
-| Sir Syed Ahmad Khan | MAO College, Aligarh | 1875, Aligarh |
-| Blavatsky and Olcott | Theosophical Society | 1875, New York; Adyar 1882 |
-| Gurmukh Singh / Bhai Ditt Singh | Singh Sabha (Lahore, Tat Khalsa) | 1879, Lahore |
-| Pandita Ramabai | Arya Mahila Samaj; Sharada Sadan; Mukti Mission | 1882; 1889; 1898 |
-| Annie Besant / Bhagwan Das | Central Hindu College | 1898, Banaras |
-| Swami Vivekananda | Ramakrishna Mission | 1897, Belur |
-| Dr Palpu / Kumaran Asan / Narayana Guru | SNDP Yogam | 1903, Kerala |
-| D.K. Karve | Widow Remarriage Association; Indian Women’s University (SNDT from 1920) | 1896 home; 1916 university |
-| E.V. Ramaswami Naicker (Periyar) | Self-Respect Movement | 1925, Tamil country |
-| Naoroji Furdunji / Dadabhai Naoroji | Rahnumai Mazdayasnan Sabha (*Rast Goftar*) | 1851, Bombay |
-| Dr. B.R. Ambedkar | Bahishkrit Hitakarini Sabha (*Mooknayak*) | 1924, Bombay |
-
-### British social legislation ↔ year (the four-law ladder)
-
-| Law | Year | Linked reformer |
-|-----|------|------------------|
-| Sati Regulation (Bentinck) | **1829** | Raja Ram Mohan Roy campaigned |
-| Hindu Widows’ Remarriage Act | **1856** | Ishwar Chandra Vidyasagar campaigned |
-| Native Marriage Act (civil/Brahmo marriage) | **1872** | Brahmo Samaj context |
-| Age of Consent Act | **1891** | Behramji Malabari advocated; Tilak opposed |
-
-### Region ↔ stream quick fact
-
-| Region | Signature stream | Founder anchor |
-|--------|-------------------|-----------------|
-| Bengal | Brahmo Samaj; Young Bengal | Roy; Derozio |
-| Maharashtra | Prarthana Samaj; Satyashodhak Samaj; Paramahansa Mandali | Ranade circle; Phule; Dadoba Pandurang |
-| Punjab | Arya Samaj (base); Singh Sabha | Dayanand; Khem Singh Bedi / Gurmukh Singh |
-| South (Kerala/Tamil) | SNDP; Self-Respect | Narayana Guru; Periyar |
-| Muslim streams | Aligarh; Deoband; Wahabi; Faraizi; Ahmadiyya | Sir Syed; Nanautawi–Gangohi; Sayyid Ahmad; Shariatullah; Ghulam Ahmad |
-
----
 
 ## Complete PYQ Bank (Topic 6)
 

@@ -33,17 +33,6 @@
 
 ---
 
-## Confused Pairs
-
-| Pair | Correct |
-|------|---------|
-| Gauchar–Rudraprayag | **Gauchar** airstrip is in **Chamoli**, not Rudraprayag |
-| Silkyara 3.531 / 6.531 | Correct length is **4.531 km** on the Char Dham corridor |
-| UAPCC by Revenue Dept | **False** — UAPCC drafting sits with forest / environment, not Revenue |
-| SCCC year 2011 vs 2009 | **2011** is the State Council for Climate Change year |
-
----
-
 ## Must-Score Facts
 
 1. Silkyara = **4.531 km**.
@@ -52,6 +41,17 @@
 4. Vulnerability: both statements correct (Q105).
 5. SCCC **2011**; UAPCC ≠ Revenue Dept (Q106 → Only stmt 1).
 6. Hazard set: landslide / cloudburst / flood / earthquake / GLOF.
+
+---
+
+## Confused Pairs
+
+| Pair | Correct |
+|------|---------|
+| Gauchar–Rudraprayag | **Gauchar** airstrip is in **Chamoli**, not Rudraprayag |
+| Silkyara 3.531 / 6.531 | Correct length is **4.531 km** on the Char Dham corridor |
+| UAPCC by Revenue Dept | **False** — UAPCC drafting sits with forest / environment, not Revenue |
+| SCCC year 2011 vs 2009 | **2011** is the State Council for Climate Change year |
 
 ---
 

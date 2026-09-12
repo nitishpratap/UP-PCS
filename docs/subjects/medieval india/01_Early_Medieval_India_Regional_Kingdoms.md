@@ -15,43 +15,6 @@ Early Medieval India | Major Dynasties of South India | Major Rulers of South In
 
 ---
 
-## Confused Pairs
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Early Medieval | Delhi Sultanate | ~750–1200 regional/feudal vs from **1206** Turkish rule | प्रारंभिक मध्यकाल / दिल्ली सल्तनत |
-| Tripartite Struggle | South P-C-R-C cycle | Kannauj contest (Pala+Pratihara+Rashtrakuta) vs Tamil–Deccan power rotation | त्रिपक्षीय संघर्ष / दक्षिण चक्र |
-| Pallava | Chola | **Kanchi**, pre-9th structural temples vs **Thanjavur** empire from Vijayalaya **850** | पल्लव / चोल |
-| Early Chalukya | Western Chalukya | **Badami/Vatapi** (6th–8th) vs **Kalyani** (10th–12th) | प्राचीन चालुक्य / पश्चिमी चालुक्य |
-| Ur | Sabha/Mahasabha | General village assembly vs Brahmana **agrahara** assembly | उर / सभा |
-| Nadu | Mandalam | Basic unit (village cluster) vs province (empire had **4**) | नाडु / मंडलम |
-| Mihir Bhoja | Bhoja I (Paramara) | **Pratihara**, title **Adivaraha**, Kannauj vs **Malwa/Dhara** scholar-king | मिहिर भोज / परमार भोज |
-| Gahadavala | Pratihara | 11th–12th Kannauj+Banaras Rajputs vs 8th–10th imperial Kannauj holders | गहड़वाल / गुर्जर-प्रतिहार |
-| Chandela | Paramara | Bundelkhand/**Khajuraho**/Mahoba vs Malwa/**Dhara** | चंदेल / परमार |
-| Devagiri | Warangal | **Yadava** (later Daulatabad) vs **Kakatiya** (Orugallu) | देवगिरी / वारंगल |
-| Kannauj | Kanchi | UP sovereignty prize vs Tamil Pallava capital | कन्नौज / कांची |
-| Shore Temple | Brihadishwara | Pallava Mahabalipuram ~7th vs Chola Rajaraja **1010** Tanjore | शोर मंदिर / बृहदीश्वर |
-| Adivaraha | Gangaikondachola | Mihir Bhoja (Pratihara) vs Rajendra I (Chola) | आदिवराह / गंगैकोंडचोल |
-| Vijayalaya | Rajaraja I | Imperial Chola **founder ~850** vs peak navy / Brihadishwara builder | विजयालय / राजराज |
-| Rajaraja I (N. Lanka) | Rajendra I (whole Lanka) | Northern conquest vs full island + Mahendra V prisoner | राजराज / राजेन्द्र |
-| Thotta Variyam | Eri Variyam | Gardens / horticulture vs tanks and water | तोट्टा / एरी |
-| Eripatti | Taniyur | Tank-maintenance land vs large single-unit village | एरिपट्टी / तनियूर |
-| Nataraja | Dakshinamurti | Four-armed dancing Shiva vs teacher form facing south | नटराज / दक्षिणामूर्ति |
-| Badami / Vatapi | Vanavasi | Early Chalukya capital vs **Kadamba** capital | वातापी / वनवासी |
-| Vengi (Pedavegi) | Rajahmundry | Eastern Chalukya capital **Pedavegi** near **Eluru** vs later seat **Rajamahendravaram** | वेंगी / राजमहेन्द्रवरम |
-| Vanchi / Karur | Madurai | Chera capital vs Pandya capital | वंची / मदुरै |
-| Tarain | Chandawar | **1192** Prithviraj vs **1194** Jay Chandra | तराइन / चंदावर |
-| Mihir Bhoja (Pratihara) | Bhoja (Paramara) | Adivaraha / Kannauj vs Dhara scholar-king / Bhojshala | मिहिर भोज / परमार भोज |
-| Jejakabhukti | Kaushambi | Ancient **Bundelkhand** vs doab city | जेजाकभुक्ति / कौशांबी |
-| Vikramashila | Odantapuri | **Dharmapala** vs **Gopala** (Bihar seats) | विक्रमशिला / ओदन्तपुरी |
-| Prithviraj Raso | Prithviraja Vijaya | Chand Bardai vs **Jayanaka** | पृथ्वीराज रासो / विजय |
-| Hammir Raso | Hammira Mahakavya | **Sharangadeva** vs Nayachandra Suri epic | हम्मीर रासो / महाकाव्य |
-| Rajasekhara | Hemadri / Vijnaneshwara | Pratihara court poet vs early medieval **jurists** | राजशेखर / हेमाद्रि–विज्ञानेश्वर |
-| Anhilwada | Dhara | Solanki capital vs Paramara capital | अणहिलवाड़ / धारा |
-
----
-![early_medieval.png](images/early_medieval.png)
-
 ## Consolidated — 55 Must-Score Facts
 
 1. Early Medieval India runs roughly **750–1200 CE** after Harsha as an age of regional kingdoms and hereditary **samantas**, not the Delhi Sultanate that begins in **1206**.
@@ -111,6 +74,43 @@ Early Medieval India | Major Dynasties of South India | Major Rulers of South In
 55. **Pundravardhana bhukti** was in **north Bengal** (later into north Bihar under Pala–Chandra–Sena). **Araghatta** = Persian-wheel style water device for irrigation.
 
 ---
+
+## Confused Pairs
+
+| A | B | Difference | Hindi |
+|---|----|------------|-------|
+| Early Medieval | Delhi Sultanate | ~750–1200 regional/feudal vs from **1206** Turkish rule | प्रारंभिक मध्यकाल / दिल्ली सल्तनत |
+| Tripartite Struggle | South P-C-R-C cycle | Kannauj contest (Pala+Pratihara+Rashtrakuta) vs Tamil–Deccan power rotation | त्रिपक्षीय संघर्ष / दक्षिण चक्र |
+| Pallava | Chola | **Kanchi**, pre-9th structural temples vs **Thanjavur** empire from Vijayalaya **850** | पल्लव / चोल |
+| Early Chalukya | Western Chalukya | **Badami/Vatapi** (6th–8th) vs **Kalyani** (10th–12th) | प्राचीन चालुक्य / पश्चिमी चालुक्य |
+| Ur | Sabha/Mahasabha | General village assembly vs Brahmana **agrahara** assembly | उर / सभा |
+| Nadu | Mandalam | Basic unit (village cluster) vs province (empire had **4**) | नाडु / मंडलम |
+| Mihir Bhoja | Bhoja I (Paramara) | **Pratihara**, title **Adivaraha**, Kannauj vs **Malwa/Dhara** scholar-king | मिहिर भोज / परमार भोज |
+| Gahadavala | Pratihara | 11th–12th Kannauj+Banaras Rajputs vs 8th–10th imperial Kannauj holders | गहड़वाल / गुर्जर-प्रतिहार |
+| Chandela | Paramara | Bundelkhand/**Khajuraho**/Mahoba vs Malwa/**Dhara** | चंदेल / परमार |
+| Devagiri | Warangal | **Yadava** (later Daulatabad) vs **Kakatiya** (Orugallu) | देवगिरी / वारंगल |
+| Kannauj | Kanchi | UP sovereignty prize vs Tamil Pallava capital | कन्नौज / कांची |
+| Shore Temple | Brihadishwara | Pallava Mahabalipuram ~7th vs Chola Rajaraja **1010** Tanjore | शोर मंदिर / बृहदीश्वर |
+| Adivaraha | Gangaikondachola | Mihir Bhoja (Pratihara) vs Rajendra I (Chola) | आदिवराह / गंगैकोंडचोल |
+| Vijayalaya | Rajaraja I | Imperial Chola **founder ~850** vs peak navy / Brihadishwara builder | विजयालय / राजराज |
+| Rajaraja I (N. Lanka) | Rajendra I (whole Lanka) | Northern conquest vs full island + Mahendra V prisoner | राजराज / राजेन्द्र |
+| Thotta Variyam | Eri Variyam | Gardens / horticulture vs tanks and water | तोट्टा / एरी |
+| Eripatti | Taniyur | Tank-maintenance land vs large single-unit village | एरिपट्टी / तनियूर |
+| Nataraja | Dakshinamurti | Four-armed dancing Shiva vs teacher form facing south | नटराज / दक्षिणामूर्ति |
+| Badami / Vatapi | Vanavasi | Early Chalukya capital vs **Kadamba** capital | वातापी / वनवासी |
+| Vengi (Pedavegi) | Rajahmundry | Eastern Chalukya capital **Pedavegi** near **Eluru** vs later seat **Rajamahendravaram** | वेंगी / राजमहेन्द्रवरम |
+| Vanchi / Karur | Madurai | Chera capital vs Pandya capital | वंची / मदुरै |
+| Tarain | Chandawar | **1192** Prithviraj vs **1194** Jay Chandra | तराइन / चंदावर |
+| Mihir Bhoja (Pratihara) | Bhoja (Paramara) | Adivaraha / Kannauj vs Dhara scholar-king / Bhojshala | मिहिर भोज / परमार भोज |
+| Jejakabhukti | Kaushambi | Ancient **Bundelkhand** vs doab city | जेजाकभुक्ति / कौशांबी |
+| Vikramashila | Odantapuri | **Dharmapala** vs **Gopala** (Bihar seats) | विक्रमशिला / ओदन्तपुरी |
+| Prithviraj Raso | Prithviraja Vijaya | Chand Bardai vs **Jayanaka** | पृथ्वीराज रासो / विजय |
+| Hammir Raso | Hammira Mahakavya | **Sharangadeva** vs Nayachandra Suri epic | हम्मीर रासो / महाकाव्य |
+| Rajasekhara | Hemadri / Vijnaneshwara | Pratihara court poet vs early medieval **jurists** | राजशेखर / हेमाद्रि–विज्ञानेश्वर |
+| Anhilwada | Dhara | Solanki capital vs Paramara capital | अणहिलवाड़ / धारा |
+
+---
+![early_medieval.png](images/early_medieval.png)
 
 ## 1.1 Early Medieval India
 

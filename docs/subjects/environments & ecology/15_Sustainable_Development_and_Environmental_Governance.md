@@ -22,24 +22,6 @@
 
 ---
 
-## Confused Pairs
-
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **Brundtland Report** | 1987 *Our Common Future* — SD definition | ब्रंटलैंड रिपोर्ट |
-| **Agenda 21** | Rio 1992 non-binding SD action blueprint | एजेंडा 21 |
-| **MDGs** | 8 goals 2000–2015 — predecessor to SDGs | सहस्राब्दी विकास लक्ष्य |
-| **SDGs** | 17 goals adopted 2015, deadline 2030 | सतत विकास लक्ष्य |
-| **Environmental justice** | Fair sharing of environmental benefits and burdens | पर्यावरण न्याय |
-| **Green economy** | Low-carbon, resource-efficient, inclusive growth | हरित अर्थव्यवस्था |
-| **Circular economy** | Waste eliminated through reuse/recycle design loops | परिपत्र अर्थव्यवस्था |
-| **LiFE Mission** | India 2022 programme for pro-planet lifestyles | LiFE मिशन |
-| **Natural capital** | Nature-made resources — air, water, land, minerals, forests | प्राकृतिक पूंजी |
-| **Sustainable agriculture** | Farming that keeps land quality intact | सतत कृषि |
-| **NMSA** | NAPCC mission for sustainable farm pathways | NMSA |
-
----
-
 ## Consolidated — 32 Must-Score Facts
 
 1. **Sustainable development** (Brundtland **1987**, *Our Common Future*) means meeting present needs without compromising future generations’ ability to meet theirs.
@@ -74,6 +56,24 @@
 30. HDI is an UNDP development indicator; it is not itself an MoEFCC clearance tool.
 31. Polluter Pays allocates cleanup cost to the polluter; Precautionary Principle acts under scientific uncertainty — different tools.
 32. Public Trust treats certain natural resources as held for public benefit, not absolute private exhaustion.
+
+---
+
+## Confused Pairs
+
+| Term | One-line difference | Hindi |
+|------|---------------------|-------|
+| **Brundtland Report** | 1987 *Our Common Future* — SD definition | ब्रंटलैंड रिपोर्ट |
+| **Agenda 21** | Rio 1992 non-binding SD action blueprint | एजेंडा 21 |
+| **MDGs** | 8 goals 2000–2015 — predecessor to SDGs | सहस्राब्दी विकास लक्ष्य |
+| **SDGs** | 17 goals adopted 2015, deadline 2030 | सतत विकास लक्ष्य |
+| **Environmental justice** | Fair sharing of environmental benefits and burdens | पर्यावरण न्याय |
+| **Green economy** | Low-carbon, resource-efficient, inclusive growth | हरित अर्थव्यवस्था |
+| **Circular economy** | Waste eliminated through reuse/recycle design loops | परिपत्र अर्थव्यवस्था |
+| **LiFE Mission** | India 2022 programme for pro-planet lifestyles | LiFE मिशन |
+| **Natural capital** | Nature-made resources — air, water, land, minerals, forests | प्राकृतिक पूंजी |
+| **Sustainable agriculture** | Farming that keeps land quality intact | सतत कृषि |
+| **NMSA** | NAPCC mission for sustainable farm pathways | NMSA |
 
 ---
 

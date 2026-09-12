@@ -21,18 +21,6 @@ Carbon Dioxide (CO₂) | Methane (CH₄) | Nitrous Oxide (N₂O) | Water Vapour 
 
 ---
 
-## Confused Pairs
-
-| Term | One-line fact |
-|------|---------------|
-| **GWP** | Heat-trapping power vs CO₂ over 100 years (CO₂=1) |
-| **CO₂e** | All GHGs converted to CO₂ equivalent via GWP |
-| **CFC / HFC** | ODS+GHG / GHG only (Kigali) |
-| **Tropospheric / Stratospheric O₃** | Pollutant+GHG / UV shield |
-| **Feedback gas** | Rises because Earth warms (water vapour) |
-
----
-
 ## Consolidated — 30 Must-Score Facts
 
 1. A greenhouse gas absorbs outgoing infrared radiation and traps heat in the atmosphere.
@@ -65,6 +53,18 @@ Carbon Dioxide (CO₂) | Methane (CH₄) | Nitrous Oxide (N₂O) | Water Vapour 
 28. **Methane hydrates** in Arctic/seafloor can release CH₄ if warmed; CH₄ oxidises to CO₂ in about a decade or two.
 29. **China** is the largest CO₂ emitter; India ~3rd absolute; **Bhutan** often carbon-negative.
 30. CO₂ is both **useful** (photosynthesis) and **harmful** (enhanced greenhouse effect) to life on Earth.
+
+---
+
+## Confused Pairs
+
+| Term | One-line fact |
+|------|---------------|
+| **GWP** | Heat-trapping power vs CO₂ over 100 years (CO₂=1) |
+| **CO₂e** | All GHGs converted to CO₂ equivalent via GWP |
+| **CFC / HFC** | ODS+GHG / GHG only (Kigali) |
+| **Tropospheric / Stratospheric O₃** | Pollutant+GHG / UV shield |
+| **Feedback gas** | Rises because Earth warms (water vapour) |
 
 ---
 

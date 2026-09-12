@@ -24,18 +24,6 @@
 
 ---
 
-## Confused Pairs
-
-| Pair | Key |
-|------|-----|
-| Katyuri vs Kuninda | Early medieval kingdom vs early historic **coin** polity |
-| Kartikeyapura vs Brahmapura | Capital vs Hiuen Tsang’s **regional** name |
-| Katyuri vs Chand | Predecessor house vs Champawat–Almora successors |
-| Joshimath vs Baijnath | Earlier seat vs later Kartikeyapura capital |
-| Katyuri vs Parmar | Central-hill house vs Garhwal consolidators |
-
----
-
 ## Must-Score Facts
 
 1. Kartikeyapura = Baijnath (Bageshwar).
@@ -45,6 +33,18 @@
 5. Chand succeeds in Kumaon; Parmar consolidates Garhwal.
 6. Kuninda is earlier — do not merge the two.
 7. Brahmapura ≠ Kartikeyapur.
+
+---
+
+## Confused Pairs
+
+| Pair | Key |
+|------|-----|
+| Katyuri vs Kuninda | Early medieval kingdom vs early historic **coin** polity |
+| Kartikeyapura vs Brahmapura | Capital vs Hiuen Tsang’s **regional** name |
+| Katyuri vs Chand | Predecessor house vs Champawat–Almora successors |
+| Joshimath vs Baijnath | Earlier seat vs later Kartikeyapura capital |
+| Katyuri vs Parmar | Central-hill house vs Garhwal consolidators |
 
 ---
 

@@ -22,23 +22,6 @@
 
 ---
 
-## Confused Pairs
-
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **Stockholm 1972** | First global environment conference; created UNEP | स्टॉकहोम 1972 |
-| **Rio 1992** | Launched UNFCCC, CBD, Agenda 21 | रियो 1992 |
-| **Agenda 21** | Rio 1992 non-binding SD action plan | एजेंडा 21 |
-| **UNFCCC** | 1992 climate framework convention | UNFCCC |
-| **Kyoto Protocol** | 1997 binding targets for developed countries | क्योटो |
-| **Paris Agreement** | 2015 universal NDC climate pact | पेरिस |
-| **Montreal Protocol** | 1987 ODS phase-out — **not climate** | मॉन्ट्रियल |
-| **Ramsar** | 1971 wetland conservation treaty | रामसर |
-| **CITES** | 1973 regulation of endangered species trade | CITES |
-| **Basel Convention** | 1989 transboundary hazardous waste control | बेसल |
-
----
-
 ## Consolidated — 30 Must-Score Facts
 
 1. Conference spine: **Stockholm 1972 → Brundtland 1987 → Rio 1992 → Johannesburg 2002 → Rio+20 2012 → SDGs and Paris 2015**.
@@ -71,6 +54,23 @@
 28. “Only One Earth” and UNEP creation fact to Stockholm **1972**, not to Paris **2015**.
 29. Wise Use is the Ramsar philosophy. It is not the CBD’s three objectives word-for-word.
 30. Master year table worth ratta: Ramsar 1971, CITES 1973, Vienna 1985, Montreal 1987, Basel 1989, UNFCCC/CBD 1992, UNCCD 1994, Kyoto 1997, Rotterdam 1998, Stockholm POPs 2001, Nagoya 2010, Minamata 2013, New York Forests Declaration 2014, Paris 2015, Kigali 2016.
+
+---
+
+## Confused Pairs
+
+| Term | One-line difference | Hindi |
+|------|---------------------|-------|
+| **Stockholm 1972** | First global environment conference; created UNEP | स्टॉकहोम 1972 |
+| **Rio 1992** | Launched UNFCCC, CBD, Agenda 21 | रियो 1992 |
+| **Agenda 21** | Rio 1992 non-binding SD action plan | एजेंडा 21 |
+| **UNFCCC** | 1992 climate framework convention | UNFCCC |
+| **Kyoto Protocol** | 1997 binding targets for developed countries | क्योटो |
+| **Paris Agreement** | 2015 universal NDC climate pact | पेरिस |
+| **Montreal Protocol** | 1987 ODS phase-out — **not climate** | मॉन्ट्रियल |
+| **Ramsar** | 1971 wetland conservation treaty | रामसर |
+| **CITES** | 1973 regulation of endangered species trade | CITES |
+| **Basel Convention** | 1989 transboundary hazardous waste control | बेसल |
 
 ---
 

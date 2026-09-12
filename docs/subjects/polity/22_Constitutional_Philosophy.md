@@ -37,40 +37,6 @@ Newest first. One event, one fact.
 ---
 
 
-## Confused Pairs
-
-| Term A | Term B | Core difference |
-|--------|--------|-----------------|
-| **Constitution** | **Constitutionalism** | A document can exist | Power is *limited* and reviewable |
-| **Constitutional morality** | **Public / social morality** | Fidelity to the Constitution’s norms | Majority sentiment; Art. **19/25** “morality” |
-| **Rule of Law** | **Rule by law** | Law binds the ruler too | Ruler uses statutes as a whip |
-| **Dicey limb 1–2** | **Dicey limb 3** | India **yes** (Art. 14 / no arbitrary power) | UK-only: constitution as *ordinary* law. India **no** |
-| **Procedure established by law** | **Due process of law** | Art. **21** text (Japan) | US 5th/14th. *Maneka* imports the *content*, not the words |
-| **Gopalan 1950** | **Maneka 1978** | FRs in silos; any procedure in a valid law | 14-19-21 read together; procedure must be fair/just/reasonable |
-| **Separation of powers** | **Checks and balances** | Organs have distinct *functions* | Each organ can **restrain** the others |
-| **US SOP** | **Indian SOP** | Rigid, three closed chambers | Functional; **fusion** of executive & legislature |
-| **Parliamentary sovereignty** | **Constitutional supremacy** | UK Dicey — Parliament’s word is last | India — Constitution’s word is last |
-| **Judicial review** | **Judicial supremacy** | Court tests a law against the Constitution | Court as the *sovereign*. India claims the first, not the second |
-| **Limited amending power** | **UK-style sovereignty** | *Kesavananda / Minerva* | No Basic Structure in classic UK |
-| **Procedural due process** | **Substantive due process** | Hearing / notice / unbiased judge | Even a tidy procedure cannot save an unjust law |
-| **Natural justice** | **Art. 21 text** | *audi alteram* + *nemo judex* | Still “procedure established by law”; *Maneka* pours NJ into it |
-| **Art. 50** | **SOP as Basic Structure** | DPSP: judiciary↔executive in *services* | Broader organ-map; *Ram Jawaya* / *Indira Gandhi* |
-| **24th Amd / Art. 13(4)** | **Basic Structure** | Amendment is not “law” under 13 | 368 still cannot destroy identity |
-| **Police State** | **Welfare State** | Law-and-order only | Socio-economic goals; Part IV / Art. **38** |
-| **Democratic socialism** | **Marxist socialism** | Mixed economy, ballot, FRs | One-party / total nationalisation textbook |
-| **Indian (positive) secularism** | **US (negative) wall** | Equal respect; State may reform/regulate 25(2) | Strict non-establishment |
-| **Democracy** | **Republic** | Who rules (the people) | What the Head is (elected, not hereditary) |
-| **Preamble liberty (5)** | **Art. 19 freedoms (6)** | Thought, expression, belief, faith, worship | Speech, assembly, association, movement, residence, profession |
-| **Equality of status** | **Equality of opportunity** | 14 / 15 / 17 | **16** (public employment, citizens) |
-| **Secularism the word** | **Secularism the code** | 42nd Preamble | Arts. **25–28** from 1950 |
-| **Political sovereignty** | **Legal sovereignty** | **People** (“We, the People”) | **Constitution** (India) / Parliament (classic UK) |
-| **Internal sovereignty** | **External sovereignty** | Supreme *inside* the territory | No foreign master |
-| **Preamble liberty (5)** | **Personal liberty (Art. 21)** | Thought, expression, belief, faith, worship | Body/life — **not** a Preamble-five word |
-| **Constituent power** | **Legislative power** | Art. **368** (amend, within Basic Structure) | Art. **245** (laws, subject to the Constitution) |
-| **French triad** | **Indian four** | Liberty, Equality, Fraternity | **Justice** first, then the three |
-
----
-
 ## Consolidated — 30 Must-Score Facts
 
 1. The Preamble counts are **Justice 3**, **Liberty 5**, **Equality 2**, and **Fraternity 1**. The word **Federal** is **not** in the Preamble. The **42nd** Amendment added **Socialist**, **Secular**, and **integrity**.
@@ -103,6 +69,40 @@ Newest first. One event, one fact.
 28. After *Maneka*, Article **21** has been read to include livelihood, privacy, health, shelter, and dignity. Privacy was treated as a Fundamental Right in *Puttaswamy* (**2017**).
 29. Indian secularism is often summarised as **Sarva Dharma Sambhava** / equal respect — not a US establishment-clause wall and not State indifference to reform needs.
 30. Rule by law (ruler uses statutes as a whip) is the trap opposite of Rule of Law (law binds the ruler too). Mark the second.
+
+---
+
+## Confused Pairs
+
+| Term A | Term B | Core difference |
+|--------|--------|-----------------|
+| **Constitution** | **Constitutionalism** | A document can exist | Power is *limited* and reviewable |
+| **Constitutional morality** | **Public / social morality** | Fidelity to the Constitution’s norms | Majority sentiment; Art. **19/25** “morality” |
+| **Rule of Law** | **Rule by law** | Law binds the ruler too | Ruler uses statutes as a whip |
+| **Dicey limb 1–2** | **Dicey limb 3** | India **yes** (Art. 14 / no arbitrary power) | UK-only: constitution as *ordinary* law. India **no** |
+| **Procedure established by law** | **Due process of law** | Art. **21** text (Japan) | US 5th/14th. *Maneka* imports the *content*, not the words |
+| **Gopalan 1950** | **Maneka 1978** | FRs in silos; any procedure in a valid law | 14-19-21 read together; procedure must be fair/just/reasonable |
+| **Separation of powers** | **Checks and balances** | Organs have distinct *functions* | Each organ can **restrain** the others |
+| **US SOP** | **Indian SOP** | Rigid, three closed chambers | Functional; **fusion** of executive & legislature |
+| **Parliamentary sovereignty** | **Constitutional supremacy** | UK Dicey — Parliament’s word is last | India — Constitution’s word is last |
+| **Judicial review** | **Judicial supremacy** | Court tests a law against the Constitution | Court as the *sovereign*. India claims the first, not the second |
+| **Limited amending power** | **UK-style sovereignty** | *Kesavananda / Minerva* | No Basic Structure in classic UK |
+| **Procedural due process** | **Substantive due process** | Hearing / notice / unbiased judge | Even a tidy procedure cannot save an unjust law |
+| **Natural justice** | **Art. 21 text** | *audi alteram* + *nemo judex* | Still “procedure established by law”; *Maneka* pours NJ into it |
+| **Art. 50** | **SOP as Basic Structure** | DPSP: judiciary↔executive in *services* | Broader organ-map; *Ram Jawaya* / *Indira Gandhi* |
+| **24th Amd / Art. 13(4)** | **Basic Structure** | Amendment is not “law” under 13 | 368 still cannot destroy identity |
+| **Police State** | **Welfare State** | Law-and-order only | Socio-economic goals; Part IV / Art. **38** |
+| **Democratic socialism** | **Marxist socialism** | Mixed economy, ballot, FRs | One-party / total nationalisation textbook |
+| **Indian (positive) secularism** | **US (negative) wall** | Equal respect; State may reform/regulate 25(2) | Strict non-establishment |
+| **Democracy** | **Republic** | Who rules (the people) | What the Head is (elected, not hereditary) |
+| **Preamble liberty (5)** | **Art. 19 freedoms (6)** | Thought, expression, belief, faith, worship | Speech, assembly, association, movement, residence, profession |
+| **Equality of status** | **Equality of opportunity** | 14 / 15 / 17 | **16** (public employment, citizens) |
+| **Secularism the word** | **Secularism the code** | 42nd Preamble | Arts. **25–28** from 1950 |
+| **Political sovereignty** | **Legal sovereignty** | **People** (“We, the People”) | **Constitution** (India) / Parliament (classic UK) |
+| **Internal sovereignty** | **External sovereignty** | Supreme *inside* the territory | No foreign master |
+| **Preamble liberty (5)** | **Personal liberty (Art. 21)** | Thought, expression, belief, faith, worship | Body/life — **not** a Preamble-five word |
+| **Constituent power** | **Legislative power** | Art. **368** (amend, within Basic Structure) | Art. **245** (laws, subject to the Constitution) |
+| **French triad** | **Indian four** | Liberty, Equality, Fraternity | **Justice** first, then the three |
 
 ---
 

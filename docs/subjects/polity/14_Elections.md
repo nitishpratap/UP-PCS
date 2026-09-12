@@ -38,27 +38,6 @@
 ---
 
 
-## Confused Pairs
-
-| A | B | Correct | Hindi |
-|--------|--------|-----------------|-------|
-| **ECI** | **SEC** | Parliament, State Houses, President, VP | PRI + ULB only (**243K/ZA**) |
-| **ECI** | **Delimitation Commission** | Conducts polls (324) | Statutory panel that **draws** seats |
-| **RPA 1950** | **RPA 1951** | Rolls, seats, delimitation machinery | Conduct, corrupt practices, petitions |
-| **FPTP** | **PR-STV** | LS / Assembly | President, VP, RS, Councils |
-| **325** | **326** | One roll; no communal electoral roll | Adult suffrage (age) |
-| **330/332** | **331/333** | SC/ST reserved *constituencies* | Anglo-Indian *nomination* — **ended 104th** |
-| **MCC** | **s.126 RPA** | ECI convention | Statutory 48-hour ban |
-| **327** | **328** | Parliament’s election law | State law, **subject to** 327 |
-| **General election** | **Bye-election** | Whole House | Casual vacancy (6 months / skip if <1y) |
-| **Registration (29A)** | **Recognition** | Any association → RUPP | National / State party (Symbols Order) |
-| **Reserved symbol** | **Free symbol** | Recognised parties | RUPP / independents |
-| **NOTA** | **Re-poll** | Button; result still the highest candidate | Booth cancelled / countermanded |
-| **EVM** | **VVPAT** | Records the vote | Paper slip the voter sees |
-| **Election petition** | **Art. 71** | LS/Assembly → **HC** | President/VP → **SC** |
-
----
-
 ## Consolidated — 28 Must-Score Facts
 
 1. **Article 324** gives the Election Commission superintendence over elections to Parliament, State legislatures, the President, and the Vice-President. It does **not** cover the Speaker’s election inside the House or Panchayat/ULB polls (those are **SEC**).
@@ -89,6 +68,27 @@
 26. Free and fair elections are part of the Constitution’s basic electoral design through **324–329**, adult suffrage, one roll, and independent machinery. Delimitation freezes and reserved seats are separate but related facts.
 27. The Election Commission’s multi-member form and the CEC’s harder removal protect independence, but day-to-day election law still comes from the **RPAs** and Rules — Article **324** is not a blank cheque to ignore statute.
 28. Reserved constituencies change only through delimitation and constitutional extension dates. Women’s reservation under the **106th** waits for post-census delimitation; SC/ST reservation currently runs to **2030** under the **104th**.
+
+---
+
+## Confused Pairs
+
+| A | B | Correct | Hindi |
+|--------|--------|-----------------|-------|
+| **ECI** | **SEC** | Parliament, State Houses, President, VP | PRI + ULB only (**243K/ZA**) |
+| **ECI** | **Delimitation Commission** | Conducts polls (324) | Statutory panel that **draws** seats |
+| **RPA 1950** | **RPA 1951** | Rolls, seats, delimitation machinery | Conduct, corrupt practices, petitions |
+| **FPTP** | **PR-STV** | LS / Assembly | President, VP, RS, Councils |
+| **325** | **326** | One roll; no communal electoral roll | Adult suffrage (age) |
+| **330/332** | **331/333** | SC/ST reserved *constituencies* | Anglo-Indian *nomination* — **ended 104th** |
+| **MCC** | **s.126 RPA** | ECI convention | Statutory 48-hour ban |
+| **327** | **328** | Parliament’s election law | State law, **subject to** 327 |
+| **General election** | **Bye-election** | Whole House | Casual vacancy (6 months / skip if <1y) |
+| **Registration (29A)** | **Recognition** | Any association → RUPP | National / State party (Symbols Order) |
+| **Reserved symbol** | **Free symbol** | Recognised parties | RUPP / independents |
+| **NOTA** | **Re-poll** | Button; result still the highest candidate | Booth cancelled / countermanded |
+| **EVM** | **VVPAT** | Records the vote | Paper slip the voter sees |
+| **Election petition** | **Art. 71** | LS/Assembly → **HC** | President/VP → **SC** |
 
 ---
 

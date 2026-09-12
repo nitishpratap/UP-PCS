@@ -37,21 +37,6 @@
 
 ---
 
-## Confused Pairs
-
-| Pair | Correct |
-|------|------|
-| Askot vs Binsar districts | Pithoragarh vs Almora — classic swap |
-| Govind 1989 vs 1990 | **1990** is correct; 1989 pairs with Gangotri |
-| Nanda Devi fauna | Snow leopard + musk deer + blue sheep (bharal) all in |
-| A true but R not explain | UKPCS 2025 treats **R as explaining A** for forest richness |
-| Lisa vs Burans | Lisa = **pine** resin; not Burans / deodar / sheesham |
-| Khair forest type | **Sub-tropical** (not sub-alpine / cool temperate) |
-| Deodar vs chir height | Deodar temperate **1500–2500 m**; chir sub-tropical pine lower (**~900–2000 m**) |
-| Birch location | **Himalayas** — not Nilgiris / Aravallis / Vindhyas |
-
----
-
 ## Must-Score Facts
 
 1. Nanda Devi BR: WHS + snow leopard / musk deer / blue sheep.
@@ -64,6 +49,21 @@
 8. **Lisa** comes from **pine** (resin → turpentine).
 9. **Khair** = **sub-tropical** forest type (UKPCS 2021); also the katha tree.
 10. **Bugyal** = alpine meadow above the tree-line.
+
+---
+
+## Confused Pairs
+
+| Pair | Correct |
+|------|------|
+| Askot vs Binsar districts | Pithoragarh vs Almora — classic swap |
+| Govind 1989 vs 1990 | **1990** is correct; 1989 pairs with Gangotri |
+| Nanda Devi fauna | Snow leopard + musk deer + blue sheep (bharal) all in |
+| A true but R not explain | UKPCS 2025 treats **R as explaining A** for forest richness |
+| Lisa vs Burans | Lisa = **pine** resin; not Burans / deodar / sheesham |
+| Khair forest type | **Sub-tropical** (not sub-alpine / cool temperate) |
+| Deodar vs chir height | Deodar temperate **1500–2500 m**; chir sub-tropical pine lower (**~900–2000 m**) |
+| Birch location | **Himalayas** — not Nilgiris / Aravallis / Vindhyas |
 
 ---
 

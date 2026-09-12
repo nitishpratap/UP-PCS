@@ -28,6 +28,16 @@
 
 ---
 
+## Must-Score Facts
+
+1. UHRC = **13 May 2013**.
+2. Both UHRC-date and related governance statements can be true together — do not reject one automatically.
+3. Lokayukta ≠ UHRC.
+4. Samadhan / Citizen Charter = grievance–service governance, not fundamental rights text.
+5. National Lokpal / RTE / NITI stems → parent Topics 13 / 05 / 19.
+
+---
+
 ## Confused Pairs
 
 | Pair | Key |
@@ -36,16 +46,6 @@
 | Only date true / only objective true | 2025 keys **both** |
 | UHRC vs Lokayukta | Human rights commission ≠ Lokayukta |
 | National NHRC vs UHRC | State commission under PHRA framework |
-
----
-
-## Must-Score Facts
-
-1. UHRC = **13 May 2013**.
-2. Both UHRC-date and related governance statements can be true together — do not reject one automatically.
-3. Lokayukta ≠ UHRC.
-4. Samadhan / Citizen Charter = grievance–service governance, not fundamental rights text.
-5. National Lokpal / RTE / NITI stems → parent Topics 13 / 05 / 19.
 
 ---
 

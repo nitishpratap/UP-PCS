@@ -21,22 +21,6 @@ Environmental Pollution | Environmental Degradation | Air Pollution | Water Poll
 
 ---
 
-## Confused Pairs
-
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **Pollution** | Harmful substance/energy beyond tolerance | प्रदूषण |
-| **Degradation** | Broader environmental quality decline | पर्यावरण क्षरण |
-| **BOD** | O₂ used by microbes decomposing **organic** waste | जैव रासायनिक ऑक्सीजन मांग |
-| **Eutrophication** | Nutrient overload → algal bloom → DO crash | अतिपोषण |
-| **Primary pollutant** | Emitted directly (SO₂, PM) | प्राथमिक प्रदूषक |
-| **Secondary pollutant** | Formed in atmosphere (O₃, acid rain) | द्वितीयक प्रदूषक |
-| **CPCB** | Air/surface water standards and monitoring | केंद्रीय प्रदूषण नियंत्रण बोर्ड |
-| **CGWB** | Groundwater assessment and quality reports | केंद्रीय भूजल बोर्ड |
-| **EPR** | Producer responsibility for end-of-life product/waste | विस्तारित उत्पादक जिम्मेदारी |
-
----
-
 ## Consolidated — 36 Must-Score Facts
 
 1. **Pollution** is harmful addition beyond the environment’s absorption capacity. **Degradation** is the broader fall in environmental quality and productivity.
@@ -75,6 +59,22 @@ Environmental Pollution | Environmental Degradation | Air Pollution | Water Poll
 34. Hazardous waste follows HW Rules **2016** plus Basel controls — not SWM municipal rules alone.
 35. **Asian Brown Cloud** / atmospheric brown cloud is especially noted over **South Asia** (winter aerosols, black carbon, sulphate).
 36. Bag filters trap finer particulates (**<~50 μm**); cyclone separators/collectors handle coarser (**>~50 μm**). **Cyclone divider** is not a standard control device name.
+
+---
+
+## Confused Pairs
+
+| Term | One-line difference | Hindi |
+|------|---------------------|-------|
+| **Pollution** | Harmful substance/energy beyond tolerance | प्रदूषण |
+| **Degradation** | Broader environmental quality decline | पर्यावरण क्षरण |
+| **BOD** | O₂ used by microbes decomposing **organic** waste | जैव रासायनिक ऑक्सीजन मांग |
+| **Eutrophication** | Nutrient overload → algal bloom → DO crash | अतिपोषण |
+| **Primary pollutant** | Emitted directly (SO₂, PM) | प्राथमिक प्रदूषक |
+| **Secondary pollutant** | Formed in atmosphere (O₃, acid rain) | द्वितीयक प्रदूषक |
+| **CPCB** | Air/surface water standards and monitoring | केंद्रीय प्रदूषण नियंत्रण बोर्ड |
+| **CGWB** | Groundwater assessment and quality reports | केंद्रीय भूजल बोर्ड |
+| **EPR** | Producer responsibility for end-of-life product/waste | विस्तारित उत्पादक जिम्मेदारी |
 
 ---
 

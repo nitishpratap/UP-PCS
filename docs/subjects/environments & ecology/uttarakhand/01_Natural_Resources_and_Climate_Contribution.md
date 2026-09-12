@@ -21,21 +21,6 @@ Natural Resources of Uttarakhand | Forests | Water | Biodiversity hooks | Himala
 
 ---
 
-## Confused Pairs
-
-| Term | One-line difference |
-|------|---------------------|
-| **FSI** | Forest cover / ISFR — Dehradun |
-| **FRI** | Forestry research — Dehradun |
-| **WII** | Wildlife research + training — Dehradun |
-| **Chipko** | 1973 Reni — forest protection movement |
-| **Weathering** | In-situ rock breakdown |
-| **Erosion** | Transport of weathered material |
-| **NEERI** | Nagpur 1958 — CSIR env. engineering |
-| **Natural capital** | Forests, water, minerals — not roads |
-
----
-
 ## Consolidated — 20 Must-Score Facts
 
 1. Uttarakhand is a **Himalayan state** whose forests, glaciers, rivers, and biodiversity contribute to India’s climate and water security.
@@ -58,6 +43,21 @@ Natural Resources of Uttarakhand | Forests | Water | Biodiversity hooks | Himala
 18. Natural capital of UK includes forests, water, minerals, and biodiversity. Roads are **not** natural capital.
 19. Over-urbanisation and unplanned industrialisation stress ecology and biodiversity in hill towns as well as plains.
 20. Shared national ecology stems (sustainable development, institutions, agreements, days) also appear in UKPCS — learn them as national facts with UK colour where needed.
+
+---
+
+## Confused Pairs
+
+| Term | One-line difference |
+|------|---------------------|
+| **FSI** | Forest cover / ISFR — Dehradun |
+| **FRI** | Forestry research — Dehradun |
+| **WII** | Wildlife research + training — Dehradun |
+| **Chipko** | 1973 Reni — forest protection movement |
+| **Weathering** | In-situ rock breakdown |
+| **Erosion** | Transport of weathered material |
+| **NEERI** | Nagpur 1958 — CSIR env. engineering |
+| **Natural capital** | Forests, water, minerals — not roads |
 
 ---
 

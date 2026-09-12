@@ -22,6 +22,18 @@
 
 ---
 
+## Must-Score Facts
+
+1. Sudarshan Shah founds / restores Tehri after **1815**.
+2. Tehri = princely; British Garhwal = Company.
+3. Capitals: **Tehri** early; **Narendra Nagar** with **Narendra Shah**.
+4. English education starts under **Pratap Shah**; Kirti and Narendra are later.
+5. Praja Mandal / responsible government = politics bridge to the Freedom Movement card.
+6. Merger into UP / United Provinces ≈ **1949**.
+7. Do not answer Tehri education stems with Sudarshan Shah only because he is the founder.
+
+---
+
 ## Confused Pairs
 
 | Pair | Key |
@@ -32,18 +44,6 @@
 | Narendra Shah vs Pratap Shah | Twentieth-century ruler / Narendra Nagar ≠ English-education starter |
 | Tehri town vs Narendra Nagar | Older capital memory vs later capital associated with Narendra Shah |
 | Tehri Lake / dam CA | Geography / CA — not this dynasty education stem |
-
----
-
-## Must-Score Facts
-
-1. Sudarshan Shah founds / restores Tehri after **1815**.
-2. Tehri = princely; British Garhwal = Company.
-3. Capitals: **Tehri** early; **Narendra Nagar** with **Narendra Shah**.
-4. English education starts under **Pratap Shah**; Kirti and Narendra are later.
-5. Praja Mandal / responsible government = politics bridge to the Freedom Movement card.
-6. Merger into UP / United Provinces ≈ **1949**.
-7. Do not answer Tehri education stems with Sudarshan Shah only because he is the founder.
 
 ---
 

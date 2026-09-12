@@ -15,36 +15,6 @@ Origin · Chandragupta I · Samudragupta · Chandragupta II · Kumaragupta I · 
 
 ---
 
-## Confused Pairs
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Chandragupta I | Chandragupta II | Licchavi marriage founder vs **Vikramaditya**, Shaka war | प्रथम / द्वितीय |
-| Chandragupta II | Chandragupta Maurya | Gupta ~380 CE vs Mauryan **322 BCE** | गुप्त / मौर्य |
-| Samudragupta | Chandragupta II | **Digvijaya** / Prayag vs Shaka silver + Fa-Hien | समुद्रगुप्त / चंद्रगुप्त II |
-| Prayag Prashasti | Allahabad pillar | Harishena’s **text** vs the **shaft** it sits on | प्रशस्ति / स्तंभ |
-| Gold dinara | Silver rupaka | Prestige types vs **2022 Shaka-victory** proof (~33 grains) | दीनार / रूपक |
-| Bhukti | Vishaya | Province (**Uparika**) vs district (**Kumaramatya**) | भुक्ति / विषय |
-| Kalidasa | Bhartrihari | Meghaduta / Raghuvamsa vs **Shringara Shataka** (2025) | कालिदास / भर्तृहरि |
-| Fa-Hien | Hiuen Tsang | CG II ~400 CE vs **Harsha** ~630s | फाह्यान / ह्वेन त्सांग |
-| Kumaragupta I | Skandagupta | **Nalanda** patron vs **Huna** wars (Bhitari) | कुमारगुप्त / स्कंदगुप्त |
-| Somadeva | Kshemendra | *Kathasaritsagara* vs *Brihatkathamanjari* (2025) | सोमदेव / क्षेमेन्द्र |
-| Jayadeva | Trivikrama Bhatta | *Gita Govinda* vs *Nala Champu* (2025) | जयदेव / त्रिविक्रम |
-| Aryabhata | Varahamihira | *Aryabhatiya*, rotation vs *Brihatsamhita* | आर्यभट / वराहमिहिर |
-| Sarnath Buddha | Gandhara Buddha | Gupta **plain drape** vs Kushan Greco-Buddhist | सारनाथ / गांधार |
-| Sandhivigrahika | Samaharta | Gupta peace-and-war minister vs Mauryan collector | संधिविग्रहिक / समाहर्ता |
-| Nalanda | Takshashila | Gupta **Kumaragupta I** vs older **Gandhara** town | नालंदा / तक्षशिला |
-| Vikramashila | Vallabhi | Pala **Dharmapala** vs Maitraka **Gujarat** (also Jain council) | विक्रमशिला / वल्लभी |
-| Gold dinara | Silver rupaka | Prestige types vs **Shaka-victory** proof (~33 grains) | दीनार / रूपक |
-| Dhanvantari | Bhaskara II | Navaratna medicine vs **12th-c.** *Lilavati* | धन्वंतरि / भास्कर |
-| Eran sati | Junagadh | **Goparaja** widow ~510 CE vs Rudradaman / Skandagupta lake texts | एरण सती / जूनागढ़ |
-| Tamralipti | Bhrigukachchha | East Bengal port vs west **Bharuch** port | ताम्रलिप्ति / भृगुकच्छ |
-| Pravarasena I | Prabhavatigupta | Vakataka **Samrat** / 4 ashvamedhas vs Gupta **princess-regent** | प्रवरसेन / प्रभावती |
-| Devagupta | Chandragupta Maurya | CG II alias vs Mauryan founder | देवगुप्त / मौर्य |
-| Vishti | Bhaga | Forced labour as tax vs produce share (~1/6) | विष्टि / भाग |
-
----
-
 ## Consolidated — 40 Must-Score Facts
 
 1. The imperial Gupta line runs **Sri Gupta → Ghatotkacha → Chandragupta I → Samudragupta → Chandragupta II → Kumaragupta I → Skandagupta**. Coaching often pegs Sri Gupta about **275 CE**; the imperial span is roughly **320–550 CE**, with capital **Pataliputra**.
@@ -87,6 +57,36 @@ Origin · Chandragupta I · Samudragupta · Chandragupta II · Kumaragupta I · 
 38. Sri Lankan king **Meghavarman** sought Samudragupta’s leave to build a Buddhist monastery at **Bodh Gaya**.
 39. *Mrichchhakatika* by **Sudraka** is the urban love story of **Charudatta** and **Vasantasena**. Chess as **Chaturanga** is a Gupta-age culture note.
 40. **Dhanvantari** is the Navaratna medicine name. **Bhaskara II** (*Lilavati*, *Siddhanta Shiromani*) is **12th century**, not a Gupta contemporary.
+
+---
+
+## Confused Pairs
+
+| A | B | Difference | Hindi |
+|---|----|------------|-------|
+| Chandragupta I | Chandragupta II | Licchavi marriage founder vs **Vikramaditya**, Shaka war | प्रथम / द्वितीय |
+| Chandragupta II | Chandragupta Maurya | Gupta ~380 CE vs Mauryan **322 BCE** | गुप्त / मौर्य |
+| Samudragupta | Chandragupta II | **Digvijaya** / Prayag vs Shaka silver + Fa-Hien | समुद्रगुप्त / चंद्रगुप्त II |
+| Prayag Prashasti | Allahabad pillar | Harishena’s **text** vs the **shaft** it sits on | प्रशस्ति / स्तंभ |
+| Gold dinara | Silver rupaka | Prestige types vs **2022 Shaka-victory** proof (~33 grains) | दीनार / रूपक |
+| Bhukti | Vishaya | Province (**Uparika**) vs district (**Kumaramatya**) | भुक्ति / विषय |
+| Kalidasa | Bhartrihari | Meghaduta / Raghuvamsa vs **Shringara Shataka** (2025) | कालिदास / भर्तृहरि |
+| Fa-Hien | Hiuen Tsang | CG II ~400 CE vs **Harsha** ~630s | फाह्यान / ह्वेन त्सांग |
+| Kumaragupta I | Skandagupta | **Nalanda** patron vs **Huna** wars (Bhitari) | कुमारगुप्त / स्कंदगुप्त |
+| Somadeva | Kshemendra | *Kathasaritsagara* vs *Brihatkathamanjari* (2025) | सोमदेव / क्षेमेन्द्र |
+| Jayadeva | Trivikrama Bhatta | *Gita Govinda* vs *Nala Champu* (2025) | जयदेव / त्रिविक्रम |
+| Aryabhata | Varahamihira | *Aryabhatiya*, rotation vs *Brihatsamhita* | आर्यभट / वराहमिहिर |
+| Sarnath Buddha | Gandhara Buddha | Gupta **plain drape** vs Kushan Greco-Buddhist | सारनाथ / गांधार |
+| Sandhivigrahika | Samaharta | Gupta peace-and-war minister vs Mauryan collector | संधिविग्रहिक / समाहर्ता |
+| Nalanda | Takshashila | Gupta **Kumaragupta I** vs older **Gandhara** town | नालंदा / तक्षशिला |
+| Vikramashila | Vallabhi | Pala **Dharmapala** vs Maitraka **Gujarat** (also Jain council) | विक्रमशिला / वल्लभी |
+| Gold dinara | Silver rupaka | Prestige types vs **Shaka-victory** proof (~33 grains) | दीनार / रूपक |
+| Dhanvantari | Bhaskara II | Navaratna medicine vs **12th-c.** *Lilavati* | धन्वंतरि / भास्कर |
+| Eran sati | Junagadh | **Goparaja** widow ~510 CE vs Rudradaman / Skandagupta lake texts | एरण सती / जूनागढ़ |
+| Tamralipti | Bhrigukachchha | East Bengal port vs west **Bharuch** port | ताम्रलिप्ति / भृगुकच्छ |
+| Pravarasena I | Prabhavatigupta | Vakataka **Samrat** / 4 ashvamedhas vs Gupta **princess-regent** | प्रवरसेन / प्रभावती |
+| Devagupta | Chandragupta Maurya | CG II alias vs Mauryan founder | देवगुप्त / मौर्य |
+| Vishti | Bhaga | Forced labour as tax vs produce share (~1/6) | विष्टि / भाग |
 
 ---
 

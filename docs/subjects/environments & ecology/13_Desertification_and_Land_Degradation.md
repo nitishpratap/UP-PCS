@@ -21,21 +21,6 @@ Desertification | Land Degradation | Soil Erosion
 
 ---
 
-## Confused Pairs
-
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **Desertification** | Productivity loss in ASDM drylands from human + climate stress | मरुस्थलीकरण |
-| **Land degradation** | Broader decline in productive capacity of any land | भू-क्षरण |
-| **Soil erosion** | Physical removal of topsoil by water, wind, or gravity | मृदा अपरदन |
-| **Wasteland** | Degraded land unsuitable for cultivation | बंजर भूमि |
-| **Sheet erosion** | Uniform thin topsoil removal — first water-erosion stage | पत्र अपरदन |
-| **Gully/ravine erosion** | Deep channels — Chambal badlands | गर्त/बंजर अपरदन |
-| **UNCCD** | 1994 treaty to combat desertification | UNCCD |
-| **LDN** | SDG 15.3 — no net loss of healthy land by 2030 | भू-क्षरण तटस्थता |
-
----
-
 ## Consolidated — 24 Must-Score Facts
 
 1. **Desertification** is land degradation in **arid, semi-arid, and dry sub-humid (ASDM)** areas from climate variation plus human pressure.
@@ -62,6 +47,21 @@ Desertification | Land Degradation | Soil Erosion
 22. **Sonbhadra** is a UP mining-related land-degradation hotspot.
 23. Wasteland means degraded land poorly suited to cultivation — related to, but not identical with, desertification’s ASDM definition.
 24. LDN by 2030 is an SDG land target; do not date UNCCD itself as 2030.
+
+---
+
+## Confused Pairs
+
+| Term | One-line difference | Hindi |
+|------|---------------------|-------|
+| **Desertification** | Productivity loss in ASDM drylands from human + climate stress | मरुस्थलीकरण |
+| **Land degradation** | Broader decline in productive capacity of any land | भू-क्षरण |
+| **Soil erosion** | Physical removal of topsoil by water, wind, or gravity | मृदा अपरदन |
+| **Wasteland** | Degraded land unsuitable for cultivation | बंजर भूमि |
+| **Sheet erosion** | Uniform thin topsoil removal — first water-erosion stage | पत्र अपरदन |
+| **Gully/ravine erosion** | Deep channels — Chambal badlands | गर्त/बंजर अपरदन |
+| **UNCCD** | 1994 treaty to combat desertification | UNCCD |
+| **LDN** | SDG 15.3 — no net loss of healthy land by 2030 | भू-क्षरण तटस्थता |
 
 ---
 

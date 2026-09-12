@@ -15,26 +15,6 @@ Books and Authors | History Books | Books on Freedom Movement | Political Books 
 
 ---
 
-## Confused Pairs
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Anandamath | Hind Swaraj | Bankim novel 1882 vs Gandhi tract 1909 | आनंदमठ / हिंद स्वराज |
-| Discovery of India | India Wins Freedom | Nehru civilisation-nation vs Azad freedom memoir | भारत एक खोज / इंडिया विन्स फ्रीडम |
-| Gita Rahasya | Arctic Home in the Vedas | Both Tilak; Gita politics vs Vedic homeland | गीता रहस्य / आर्कटिक होम |
-| Gulamgiri | Annihilation of Caste | Phule 1873 caste-slavery vs Ambedkar 1936 destroy-caste | गुलामगिरी / जाति का विनाश |
-| Poverty… (Naoroji) | Economic Nationalism (Bipan) | 1901 drain classic vs later historiography | दरिद्रता… / आर्थिक राष्ट्रवाद |
-| Nation in Making | Story of My Deportation | Banerjee vs Lajpat Rai | ए नेशन इन मेकिंग / डिपोर्टेशन |
-| Neel Darpan | Anandamath | Dinabandhu Mitra indigo play vs Bankim sanyasi novel | नील दर्पण / आनंदमठ |
-| Mother India | Unhappy India | Katherine Mayo’s 1927 hostile tract vs Lala Lajpat Rai’s reply | मदर इंडिया / अनहैप्पी इंडिया |
-| Firangiya | Bidesiya | Sinha 1921 anti-British poem vs Thakur migrant play | फिरंगिया / बिदेसिया |
-| Batohiya (poem) | Batohiya (character) | Raghuveer Narayan 1911 poem vs traveller in *Bidesiya* | बटोहिया |
-| India Divided | Pakistan or Partition | Rajendra Prasad vs Ambedkar | इंडिया डिवाइडेड |
-| Godaan | Anandamath | Premchand social realism vs Bankim political romance | गोदान / आनंदमठ |
-| The Indian War of Independence | Anandamath | Savarkar's 1857-as-war history, 1909 vs Bankim's Sanyasi-rising novel, 1882 | इंडियन वॉर ऑफ इंडिपेंडेंस / आनंदमठ |
-
----
-
 ## Consolidated — 28 Must-Score Facts
 
 1. ***Anandamath*** (**1882**) is by **Bankim Chandra Chattopadhyay** and carries **Vande Mataram**. It is not the national anthem.
@@ -65,6 +45,54 @@ Books and Authors | History Books | Books on Freedom Movement | Political Books 
 26. Sort books by type first: primary tract, memoir, later historiography, GG-linked, or partition narrative — that sorting kills most author traps.
 27. A book written **in** 1901 about the drain is a **primary tract**. A book written **about** that age decades later is **historiography**.
 28. Drill order for prelims: the **syllabus eight**, then the match-four above, then twins, then the **Bhojpuri four**.
+
+---
+
+## Confused Pairs
+
+| A | B | Difference | Hindi |
+|---|----|------------|-------|
+| Anandamath | Hind Swaraj | Bankim novel 1882 vs Gandhi tract 1909 | आनंदमठ / हिंद स्वराज |
+| Discovery of India | India Wins Freedom | Nehru civilisation-nation vs Azad freedom memoir | भारत एक खोज / इंडिया विन्स फ्रीडम |
+| Gita Rahasya | Arctic Home in the Vedas | Both Tilak; Gita politics vs Vedic homeland | गीता रहस्य / आर्कटिक होम |
+| Gulamgiri | Annihilation of Caste | Phule 1873 caste-slavery vs Ambedkar 1936 destroy-caste | गुलामगिरी / जाति का विनाश |
+| Poverty… (Naoroji) | Economic Nationalism (Bipan) | 1901 drain classic vs later historiography | दरिद्रता… / आर्थिक राष्ट्रवाद |
+| Nation in Making | Story of My Deportation | Banerjee vs Lajpat Rai | ए नेशन इन मेकिंग / डिपोर्टेशन |
+| Neel Darpan | Anandamath | Dinabandhu Mitra indigo play vs Bankim sanyasi novel | नील दर्पण / आनंदमठ |
+| Mother India | Unhappy India | Katherine Mayo’s 1927 hostile tract vs Lala Lajpat Rai’s reply | मदर इंडिया / अनहैप्पी इंडिया |
+| Firangiya | Bidesiya | Sinha 1921 anti-British poem vs Thakur migrant play | फिरंगिया / बिदेसिया |
+| Batohiya (poem) | Batohiya (character) | Raghuveer Narayan 1911 poem vs traveller in *Bidesiya* | बटोहिया |
+| India Divided | Pakistan or Partition | Rajendra Prasad vs Ambedkar | इंडिया डिवाइडेड |
+| Godaan | Anandamath | Premchand social realism vs Bankim political romance | गोदान / आनंदमठ |
+| The Indian War of Independence | Anandamath | Savarkar's 1857-as-war history, 1909 vs Bankim's Sanyasi-rising novel, 1882 | इंडियन वॉर ऑफ इंडिपेंडेंस / आनंदमठ |
+
+---
+
+## Must-score facts — author ↔ definitive book
+
+| Author | Definitive book(s) | Never confuse with |
+|--------|----------------------|----------------------|
+| Bankim Chandra Chattopadhyay | *Anandamath* (1882) | *Neel Darpan* (Dinabandhu Mitra) |
+| Dadabhai Naoroji | *Poverty and Un-British Rule in India* (1901) | *Rise and Growth of Economic Nationalism* (Bipan Chandra) |
+| M.K. Gandhi | *Hind Swaraj* (1909) | *My Experiments with Truth* (his own autobiography — a different book) |
+| Jawaharlal Nehru | *The Discovery of India* (1946) | *Toward Freedom* (his autobiography) |
+| Abul Kalam Azad | *India Wins Freedom* | *Freedom at Midnight* (Collins & Lapierre) |
+| B.G. Tilak | *Gita Rahasya* | *Arctic Home in the Vedas* (his **other** book) |
+| Jyotiba Phule | *Gulamgiri* (1873) | *Annihilation of Caste* (Ambedkar) |
+| B.R. Ambedkar | *Annihilation of Caste* (1936) | *Pakistan or the Partition of India* (his **other** book, not Jinnah's) |
+| Lala Lajpat Rai | *The Story of My Deportation*; *Unhappy India* (1928) | *Mother India* (Katherine Mayo — the book he was replying to) |
+| V.D. Savarkar | *The Indian War of Independence* (1909) | *Hindutva* (1923, his **other** book); *Anandamath* (Bankim, not Savarkar) |
+| Rajendra Prasad | *India Divided* | *Pakistan or the Partition of India* (Ambedkar) |
+| Surendranath Banerjee | *A Nation in Making* | never Lajpat Rai or Gokhale |
+| Subhas Chandra Bose | *The Indian Struggle*; *An Indian Pilgrim* | never Bhagat Singh |
+| Katherine Mayo | *Mother India* (1927) | never an Indian author |
+
+### One-home rule
+
+- **Book ↔ author fact** lives here (Topic 10). The **political context** behind a book (why Naoroji wrote the drain critique, why Savarkar wrote from London) has its fuller home in **Topics 9 and 11**; this topic keeps only the title-and-author fact plus one line of context.
+- Bhojpuri literature stays a **UP-focus block** here — do not scatter it into the socio-religious reform topic.
+
+> **Logic:** Any twin pair above (same author, two books) is a **standing UPPCS trap**. Learn the pair, not just one title.
 
 ---
 
@@ -571,34 +599,6 @@ D. Bipin Chandra
 - Heera Dom is **not** Bhikhari Thakur.
 
 > **Logic:** Firangiya → **Sinha 1921**. Batohiya → **Raghuveer Narayan**. Bidesiya → **Bhikhari Thakur**. Achhut Kee Shikayat → **Heera Dom**.
-
----
-
-## Must-score facts — author ↔ definitive book
-
-| Author | Definitive book(s) | Never confuse with |
-|--------|----------------------|----------------------|
-| Bankim Chandra Chattopadhyay | *Anandamath* (1882) | *Neel Darpan* (Dinabandhu Mitra) |
-| Dadabhai Naoroji | *Poverty and Un-British Rule in India* (1901) | *Rise and Growth of Economic Nationalism* (Bipan Chandra) |
-| M.K. Gandhi | *Hind Swaraj* (1909) | *My Experiments with Truth* (his own autobiography — a different book) |
-| Jawaharlal Nehru | *The Discovery of India* (1946) | *Toward Freedom* (his autobiography) |
-| Abul Kalam Azad | *India Wins Freedom* | *Freedom at Midnight* (Collins & Lapierre) |
-| B.G. Tilak | *Gita Rahasya* | *Arctic Home in the Vedas* (his **other** book) |
-| Jyotiba Phule | *Gulamgiri* (1873) | *Annihilation of Caste* (Ambedkar) |
-| B.R. Ambedkar | *Annihilation of Caste* (1936) | *Pakistan or the Partition of India* (his **other** book, not Jinnah's) |
-| Lala Lajpat Rai | *The Story of My Deportation*; *Unhappy India* (1928) | *Mother India* (Katherine Mayo — the book he was replying to) |
-| V.D. Savarkar | *The Indian War of Independence* (1909) | *Hindutva* (1923, his **other** book); *Anandamath* (Bankim, not Savarkar) |
-| Rajendra Prasad | *India Divided* | *Pakistan or the Partition of India* (Ambedkar) |
-| Surendranath Banerjee | *A Nation in Making* | never Lajpat Rai or Gokhale |
-| Subhas Chandra Bose | *The Indian Struggle*; *An Indian Pilgrim* | never Bhagat Singh |
-| Katherine Mayo | *Mother India* (1927) | never an Indian author |
-
-### One-home rule
-
-- **Book ↔ author fact** lives here (Topic 10). The **political context** behind a book (why Naoroji wrote the drain critique, why Savarkar wrote from London) has its fuller home in **Topics 9 and 11**; this topic keeps only the title-and-author fact plus one line of context.
-- Bhojpuri literature stays a **UP-focus block** here — do not scatter it into the socio-religious reform topic.
-
-> **Logic:** Any twin pair above (same author, two books) is a **standing UPPCS trap**. Learn the pair, not just one title.
 
 ---
 

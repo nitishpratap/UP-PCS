@@ -34,31 +34,6 @@
 ---
 
 
-## Confused Pairs
-
-| A | B | Correct | Hindi |
-|---|----|------|-------|
-| Part IX | Part IXA | Panchayats (73rd) vs Municipalities (74th) | भाग IX / IXA |
-| 24 April 1993 | 1 June 1993 | 73rd in force / National PR Day vs 74th in force | 24 अप्रैल / 1 जून |
-| Art. 40 | Urban local bodies | Village panchayats DPSP only — **no** urban Art. 40 | अनु. 40 |
-| ECI | SEC (243K / 243ZA) | Parliament / State Houses / President / VP vs PRI + ULB only | निर्वाचन आयोग / राज्य निर्वाचन आयोग |
-| Gram Sabha | All residents | **Electoral-roll** voters of that GP vs every resident | ग्राम सभा |
-| Ashok Mehta | Balwant Rai Mehta | **2-tier**, district first vs classic **3-tier** | अशोक मेहता / बलवंत राय |
-| G.V.K. Rao | Dantwala | **District** planning vs **block** planning | जीवीके राव / दांताला |
-| 11th Schedule | 12th Schedule | **29** rural subjects vs **18** urban subjects | 11वीं / 12वीं अनुसूची |
-| DPC 4/5 | MPC 2/3 | District plans (PRIs+ULBs) vs metro ≥10 lakh | जिला / महानगर योजना समिति |
-| Age 21 | Age 25 | Local body member age is **21** (243F / 243V) | 21 वर्ष |
-| Women 1/3 | Women 50% | Constitutional **floor** vs optional **State law** (e.g. UP) | एक-तिहाई / 50% |
-| Mayor | Municipal Commissioner | Political / ceremonial vs executive (IAS) | मेयर / आयुक्त |
-| Cantonment Board | 74th municipality | Defence / Station Commander vs constitutional ULB | छावनी बोर्ड |
-| NAC | Nagar Panchayat | **All nominated** vs elected transitional ULB | अधिसूचित क्षेत्र / नगर पंचायत |
-| PESA 1996 | Sixth Schedule | Extends 73rd to **Fifth Schedule** areas | पेसा / छठी अनुसूची |
-| 64th / 65th Bills | 73rd / 74th | Failed in RS vs enacted local-government pair | विफल / अधिनियमित |
-| Kshetra Panchayat | Panchayat Samiti | UP intermediate name vs generic / other-State label | क्षेत्र पंचायत |
-| Part IXB co-ops | State cooperatives | 97th insert; SC 2021 — IXB **inoperative for State co-ops** | भाग IXB |
-
----
-
 ## Consolidated — 30 Must-Score Facts
 
 1. **Article 40** (Gandhian DPSP) asks the State to organise village panchayats. The **73rd Amendment** gave Panchayats constitutional status in **Part IX** (**Articles 243–243O**) plus the **11th Schedule** (**29** subjects).
@@ -91,6 +66,31 @@
 28. Property tax is the main **own** municipal tax. A **Development Authority** is usually **not elected** and is not the same as a municipality, even when it holds town-planning powers in practice.
 29. Uttar Pradesh urban labels are **Nagar Nigam** (Corporation), **Nagar Palika Parishad** (Council), and **Nagar Panchayat**. NDMC-style bodies that are largely nominated are not the typical 74th elected corporation model.
 30. National Panchayati Raj Day is **24 April**. The 74th came into force on **1 June 1993**. Keep the two in-force dates separate in every match list.
+
+---
+
+## Confused Pairs
+
+| A | B | Correct | Hindi |
+|---|----|------|-------|
+| Part IX | Part IXA | Panchayats (73rd) vs Municipalities (74th) | भाग IX / IXA |
+| 24 April 1993 | 1 June 1993 | 73rd in force / National PR Day vs 74th in force | 24 अप्रैल / 1 जून |
+| Art. 40 | Urban local bodies | Village panchayats DPSP only — **no** urban Art. 40 | अनु. 40 |
+| ECI | SEC (243K / 243ZA) | Parliament / State Houses / President / VP vs PRI + ULB only | निर्वाचन आयोग / राज्य निर्वाचन आयोग |
+| Gram Sabha | All residents | **Electoral-roll** voters of that GP vs every resident | ग्राम सभा |
+| Ashok Mehta | Balwant Rai Mehta | **2-tier**, district first vs classic **3-tier** | अशोक मेहता / बलवंत राय |
+| G.V.K. Rao | Dantwala | **District** planning vs **block** planning | जीवीके राव / दांताला |
+| 11th Schedule | 12th Schedule | **29** rural subjects vs **18** urban subjects | 11वीं / 12वीं अनुसूची |
+| DPC 4/5 | MPC 2/3 | District plans (PRIs+ULBs) vs metro ≥10 lakh | जिला / महानगर योजना समिति |
+| Age 21 | Age 25 | Local body member age is **21** (243F / 243V) | 21 वर्ष |
+| Women 1/3 | Women 50% | Constitutional **floor** vs optional **State law** (e.g. UP) | एक-तिहाई / 50% |
+| Mayor | Municipal Commissioner | Political / ceremonial vs executive (IAS) | मेयर / आयुक्त |
+| Cantonment Board | 74th municipality | Defence / Station Commander vs constitutional ULB | छावनी बोर्ड |
+| NAC | Nagar Panchayat | **All nominated** vs elected transitional ULB | अधिसूचित क्षेत्र / नगर पंचायत |
+| PESA 1996 | Sixth Schedule | Extends 73rd to **Fifth Schedule** areas | पेसा / छठी अनुसूची |
+| 64th / 65th Bills | 73rd / 74th | Failed in RS vs enacted local-government pair | विफल / अधिनियमित |
+| Kshetra Panchayat | Panchayat Samiti | UP intermediate name vs generic / other-State label | क्षेत्र पंचायत |
+| Part IXB co-ops | State cooperatives | 97th insert; SC 2021 — IXB **inoperative for State co-ops** | भाग IXB |
 
 ---
 

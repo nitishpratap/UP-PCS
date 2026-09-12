@@ -23,6 +23,17 @@
 
 ---
 
+## Must-Score Facts
+
+1. Ajay Pal = 52 garhis unifier.
+2. Srinagar (Garhwal) = classic consolidated capital.
+3. Kanakpal = founder tradition at Chandpur.
+4. 1658 + Prithvipati Shah + Shyamdas/Hardas + Tasbirdar.
+5. Mola Ram continues the school later.
+6. Fateh Shah invites Guru Ram Rai; village set is Khurbura–Rajpur–Chamasari–Dhamawala.
+
+---
+
 ## Confused Pairs
 
 | Pair | Key |
@@ -33,17 +44,6 @@
 | Tasbirdar vs mansabdar | Court **painter** post ≠ Mughal mansab rank |
 | Fateh Shah vs Ajay Pal | Early-modern sacred/Dehradun card vs medieval unifier |
 | Garhwal painting vs Kangra only | Origin card is **1658 Tasbirdar** line; Kangra contacts come later |
-
----
-
-## Must-Score Facts
-
-1. Ajay Pal = 52 garhis unifier.
-2. Srinagar (Garhwal) = classic consolidated capital.
-3. Kanakpal = founder tradition at Chandpur.
-4. 1658 + Prithvipati Shah + Shyamdas/Hardas + Tasbirdar.
-5. Mola Ram continues the school later.
-6. Fateh Shah invites Guru Ram Rai; village set is Khurbura–Rajpur–Chamasari–Dhamawala.
 
 ---
 

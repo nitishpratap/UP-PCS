@@ -55,25 +55,6 @@ D. A and D only
 ---
 
 
-## Confused Pairs
-
-| A | B | Correct | Hindi |
-|---|----|------|-------|
-| Tangible heritage | Intangible heritage | Physical monument/site vs living practice/skill | भौतिक / अभौतिक विरासत |
-| WH Convention 1972 | ICH Convention 2003 | Sites and OUV vs living traditions | 1972 / 2003 |
-| World Heritage | Ramsar | 1972 outstanding sites vs 1971 wetlands | विश्व धरोहर / रामसर |
-| Cultural WHS | Natural WHS | Criteria **i–vi** vs **vii–x** | सांस्कृतिक / प्राकृतिक |
-| Mixed WHS | Cultural WHS | Both criteria sets. India has **one**: Khangchendzonga | मिश्रित / सांस्कृतिक |
-| Representative List | Urgent Safeguarding List | Living identity vs endangered ICH needing emergency action | प्रतिनिधि / तात्कालिक संरक्षण |
-| Tentative List | Inscribed List | India’s proposed pipeline vs official WHS | अस्थायी / अंकित |
-| ASI monument | UNESCO WHS | AMASR 1958 national protection vs WHC international inscription | ASI / यूनेस्को |
-| Sarnath WHS | Varanasi ghats | Inscribed **2026** vs still **Tentative** | सारनाथ / वाराणसी घाट |
-| Ramlila ICH | Taj Mahal WHS | Intangible 2008 performance vs tangible 1983 tomb | रामलीला / ताज |
-| Masterpiece year | Representative List year | Kutiyattam **2001** / Vedic **2003** / Ramlila **2005** vs all three on RL in **2008** | घोषणा / प्रतिनिधि सूची |
-| World Heritage Day | ICH Convention day | **18 April** vs **17 October 2003** | 18 अप्रैल / 17 अक्टूबर |
-
----
-
 ## Consolidated — 26 Must-Score Facts
 
 1. **Tangible** cultural heritage is a monument or site you can touch. **Intangible** cultural heritage is a living practice or skill you perform.
@@ -102,6 +83,25 @@ D. A and D only
 24. **Deepavali** entered UNESCO ICH on **10 December 2025** as India’s **16th** element. It is intangible festival heritage, not a monument inscription.
 25. **Qutub Minar** is a Delhi WHS, not an Uttar Pradesh site. **Khajuraho** is Madhya Pradesh, not UP.
 26. Tangible vs intangible is the first filter: if you can walk into it as a monument, it is tangible; if you perform it as living culture, it is intangible.
+
+---
+
+## Confused Pairs
+
+| A | B | Correct | Hindi |
+|---|----|------|-------|
+| Tangible heritage | Intangible heritage | Physical monument/site vs living practice/skill | भौतिक / अभौतिक विरासत |
+| WH Convention 1972 | ICH Convention 2003 | Sites and OUV vs living traditions | 1972 / 2003 |
+| World Heritage | Ramsar | 1972 outstanding sites vs 1971 wetlands | विश्व धरोहर / रामसर |
+| Cultural WHS | Natural WHS | Criteria **i–vi** vs **vii–x** | सांस्कृतिक / प्राकृतिक |
+| Mixed WHS | Cultural WHS | Both criteria sets. India has **one**: Khangchendzonga | मिश्रित / सांस्कृतिक |
+| Representative List | Urgent Safeguarding List | Living identity vs endangered ICH needing emergency action | प्रतिनिधि / तात्कालिक संरक्षण |
+| Tentative List | Inscribed List | India’s proposed pipeline vs official WHS | अस्थायी / अंकित |
+| ASI monument | UNESCO WHS | AMASR 1958 national protection vs WHC international inscription | ASI / यूनेस्को |
+| Sarnath WHS | Varanasi ghats | Inscribed **2026** vs still **Tentative** | सारनाथ / वाराणसी घाट |
+| Ramlila ICH | Taj Mahal WHS | Intangible 2008 performance vs tangible 1983 tomb | रामलीला / ताज |
+| Masterpiece year | Representative List year | Kutiyattam **2001** / Vedic **2003** / Ramlila **2005** vs all three on RL in **2008** | घोषणा / प्रतिनिधि सूची |
+| World Heritage Day | ICH Convention day | **18 April** vs **17 October 2003** | 18 अप्रैल / 17 अक्टूबर |
 
 ---
 

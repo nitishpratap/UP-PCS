@@ -29,22 +29,6 @@ No scheme/ministry CA changes the static craft and school lists (verified August
 ---
 
 
-## Confused Pairs
-
-| A | B | Correct | Hindi |
-|---|----|------|-------|
-| Gandhara | Mathura | Grey schist, Greco-Roman Buddha vs **red sandstone**, indigenous, **UP** | गांधार / मथुरा |
-| Mathura | Amaravati | UP red sandstone vs Andhra white limestone narrative | मथुरा / अमरावती |
-| Stupa | Chaitya | Solid relic mound vs rock-cut hall with apse stupa | स्तूप / चैत्य |
-| Rock-cut | Structural | Barabar / chaitya vs Gupta built temple | शैल-कट / संरचनात्मक |
-| Punch-marked | Gupta dinara | Irregular silver/copper vs die-struck **gold** | आहत मुद्रा / दीनार |
-| IVC | Rigvedic | Urban brick + seals vs pastoral | सिंधु / ऋग्वैदिक |
-| Alamgirpur | Rakhigarhi | **UP** eastern edge vs **Haryana** (largest, not UP) | आलमगीरपुर / राखीगढ़ी |
-| Terracotta | Bronze | Mother goddess / plough models vs **Dancing Girl** lost-wax | पकी मिट्टी / कांस्य |
-| Sreni | Nanadesi | General craft guild vs itinerant “many-country” merchants | श्रेणी / नानादेशी |
-
----
-
 ## Consolidated — 26 Must-Score Facts
 
 1. Ancient Indian cultural span runs from **Bhimbetka** rock art through **Indus Valley** cities (about **2600–1900 BCE**), then **Maurya**, **Shunga–Kushan**, and **Gupta** (4th–6th century CE).
@@ -73,6 +57,22 @@ No scheme/ministry CA changes the static craft and school lists (verified August
 24. Terracotta mother-goddess and plough models differ from bronze: the **Dancing Girl** is **lost-wax bronze**, not terracotta.
 25. Punch-marked coins are irregular silver or copper pieces. Gupta **dinara** are die-struck **gold**. Do not call every ancient coin a dinara.
 26. **Sarnath** as a World Heritage monument fact (inscribed **2026**) strengthens the Lion Capital and Gupta Buddha site, but it does not create a new sculpture school.
+
+---
+
+## Confused Pairs
+
+| A | B | Correct | Hindi |
+|---|----|------|-------|
+| Gandhara | Mathura | Grey schist, Greco-Roman Buddha vs **red sandstone**, indigenous, **UP** | गांधार / मथुरा |
+| Mathura | Amaravati | UP red sandstone vs Andhra white limestone narrative | मथुरा / अमरावती |
+| Stupa | Chaitya | Solid relic mound vs rock-cut hall with apse stupa | स्तूप / चैत्य |
+| Rock-cut | Structural | Barabar / chaitya vs Gupta built temple | शैल-कट / संरचनात्मक |
+| Punch-marked | Gupta dinara | Irregular silver/copper vs die-struck **gold** | आहत मुद्रा / दीनार |
+| IVC | Rigvedic | Urban brick + seals vs pastoral | सिंधु / ऋग्वैदिक |
+| Alamgirpur | Rakhigarhi | **UP** eastern edge vs **Haryana** (largest, not UP) | आलमगीरपुर / राखीगढ़ी |
+| Terracotta | Bronze | Mother goddess / plough models vs **Dancing Girl** lost-wax | पकी मिट्टी / कांस्य |
+| Sreni | Nanadesi | General craft guild vs itinerant “many-country” merchants | श्रेणी / नानादेशी |
 
 ---
 

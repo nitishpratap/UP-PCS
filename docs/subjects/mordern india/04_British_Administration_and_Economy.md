@@ -16,36 +16,6 @@ Administrative System of British India | Local Administration | Cornwallis Code 
 
 ---
 
-## Confused Pairs
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Permanent Settlement | Ryotwari | Zamindar is proprietor in Bengal (1793) vs direct settlement with the cultivator in Madras/Bombay | स्थायी बंदोबस्त / रैयतवारी |
-| Ryotwari | Mahalwari | Individual cultivator vs the village or mahal as the unit | रैयतवारी / महलवारी |
-| Cornwallis | Munro | Permanent Settlement vs Ryotwari | कॉर्नवालिस / मुनरो |
-| Munro | Mackenzie | Ryotwari vs Mahalwari (1822) | मुनरो / मैकेंज़ी |
-| Drain of Wealth | Deindustrialization | Transfer of Indian wealth to Britain vs decline of Indian handicrafts | धन निष्कासन / विऔद्योगीकरण |
-| Home Charges | Overseas war costs | London-side charges on Indian revenue vs wars outside India (not Home Charges) | होम चार्जेस / विदेशी युद्ध |
-| Imperial Preference | Racial privilege only | Concessions on British imports in India vs a vague “race” label | इंपीरियल प्रेफरेंस |
-| Naoroji | Sir Syed Ahmad Khan | Drain Theory vs rejection of Drain / loyalty to British rule | नौरोजि / सर सैयद |
-| Permanent Settlement ~19% | Ryotwari ~51% | Zamindar Bengal belt vs direct ryot south/west | 19% / 51% |
-| Ripon 1882 | Mayo 1870 | Local self-government resolution vs financial decentralisation | रिपन / मेयो |
-| Hastings post 1774 | Dalhousie post 1854 | Start of Company postal system vs cheap uniform postage | हेस्टिंग्स / डलहौज़ी |
-| Naoroji 1901 | Wood 1854 | Drain book vs education despatch | नौरोजि / वुड |
-| Munsiff's Court | Sadar Diwani Adalat | Lowest civil court, small claims, Indian officer vs final civil court at Calcutta | मुनसिफ़ / सदर दीवानी अदालत |
-| District (Diwani) Judge | Sadar Nizamat Adalat | Same officer doubled as district Magistrate vs the top criminal appeal court at Calcutta | ज़िला न्यायाधीश / सदर निज़ामत अदालत |
-| Haileybury College | Fort William College | Company's England training college for civil servants (1806) vs Wellesley's 1800 Calcutta language college | हेलीबरी / फोर्ट विलियम |
-| Charter Act 1833 | Charter Act 1853 | Proposed open competition, never enforced vs actually opened competition | चार्टर 1833 / चार्टर 1853 |
-| Guarantee System | Managing Agency System | State-backed 5% return on railway capital vs British firms running Indian joint-stock companies for fees and control | गारंटी प्रणाली / प्रबंध अभिकरण |
-| Nij cultivation | Ryoti cultivation | Indigo on the planter's own land vs indigo forced on the peasant's land under a cash advance (dadan) | निज / रैयती |
-| Famine of 1876–78 | Famine of 1943 | Peacetime laissez-faire famine under Lytton vs wartime famine under Linlithgow | 1876-78 / 1943 |
-| Famine Commission 1880 | Woodhead Commission 1945 | Strachey's post-1876-78 body that produced the Famine Codes vs the post-1943 inquiry that played down British fault | स्ट्रेची आयोग / वुडहेड आयोग |
-| Ripon's 1882 Resolution | 1919 Dyarchy | Resolution only asked for elected local boards vs Montford reforms that actually transferred local self-government to Indian ministers | रिपन संकल्प / द्वैध शासन |
-| Herschell Committee 1893 | Fowler Committee 1898 | Closed free silver coinage / rupee crisis vs gold-exchange standard at 1s 4d | हर्शल / फाउलर |
-| Dual economy | Drain of Wealth | Split modern-export pocket vs mass distress vs unrequited transfer of surplus to Britain | द्वैत अर्थव्यवस्था / धन निष्कासन |
-
----
-
 ## Consolidated — 28 Must-Score Facts
 
 1. Colonial economic policy moved through three phases: **mercantilism (Plassey–1813)**, **one-way free trade (1813–1858)**, and **finance capital / Drain (1858 onward)** with railway guarantees and Home Charges.
@@ -76,6 +46,108 @@ Administrative System of British India | Local Administration | Cornwallis Code 
 26. Local administration ladder for matching: Mayo = money decentralisation (**1870**); Ripon = local boards ideology (**1882**); Montford = actual transfer under dyarchy (**1919**).
 27. **Monetisation:** land revenue in **cash**, railways and cash crops, then currency reforms — **Herschell (1893)** closed free silver minting; **Fowler (1898)** set the **gold-exchange standard** with the rupee at **1s 4d**.
 28. **Dual economy** critiques: a thin modern / export sector sat beside a distressed agrarian mass — nationalist Drain writers and later historians both used this picture against “modernisation” claims.
+
+---
+
+## Confused Pairs
+
+| A | B | Difference | Hindi |
+|---|----|------------|-------|
+| Permanent Settlement | Ryotwari | Zamindar is proprietor in Bengal (1793) vs direct settlement with the cultivator in Madras/Bombay | स्थायी बंदोबस्त / रैयतवारी |
+| Ryotwari | Mahalwari | Individual cultivator vs the village or mahal as the unit | रैयतवारी / महलवारी |
+| Cornwallis | Munro | Permanent Settlement vs Ryotwari | कॉर्नवालिस / मुनरो |
+| Munro | Mackenzie | Ryotwari vs Mahalwari (1822) | मुनरो / मैकेंज़ी |
+| Drain of Wealth | Deindustrialization | Transfer of Indian wealth to Britain vs decline of Indian handicrafts | धन निष्कासन / विऔद्योगीकरण |
+| Home Charges | Overseas war costs | London-side charges on Indian revenue vs wars outside India (not Home Charges) | होम चार्जेस / विदेशी युद्ध |
+| Imperial Preference | Racial privilege only | Concessions on British imports in India vs a vague “race” label | इंपीरियल प्रेफरेंस |
+| Naoroji | Sir Syed Ahmad Khan | Drain Theory vs rejection of Drain / loyalty to British rule | नौरोजि / सर सैयद |
+| Permanent Settlement ~19% | Ryotwari ~51% | Zamindar Bengal belt vs direct ryot south/west | 19% / 51% |
+| Ripon 1882 | Mayo 1870 | Local self-government resolution vs financial decentralisation | रिपन / मेयो |
+| Hastings post 1774 | Dalhousie post 1854 | Start of Company postal system vs cheap uniform postage | हेस्टिंग्स / डलहौज़ी |
+| Naoroji 1901 | Wood 1854 | Drain book vs education despatch | नौरोजि / वुड |
+| Munsiff's Court | Sadar Diwani Adalat | Lowest civil court, small claims, Indian officer vs final civil court at Calcutta | मुनसिफ़ / सदर दीवानी अदालत |
+| District (Diwani) Judge | Sadar Nizamat Adalat | Same officer doubled as district Magistrate vs the top criminal appeal court at Calcutta | ज़िला न्यायाधीश / सदर निज़ामत अदालत |
+| Haileybury College | Fort William College | Company's England training college for civil servants (1806) vs Wellesley's 1800 Calcutta language college | हेलीबरी / फोर्ट विलियम |
+| Charter Act 1833 | Charter Act 1853 | Proposed open competition, never enforced vs actually opened competition | चार्टर 1833 / चार्टर 1853 |
+| Guarantee System | Managing Agency System | State-backed 5% return on railway capital vs British firms running Indian joint-stock companies for fees and control | गारंटी प्रणाली / प्रबंध अभिकरण |
+| Nij cultivation | Ryoti cultivation | Indigo on the planter's own land vs indigo forced on the peasant's land under a cash advance (dadan) | निज / रैयती |
+| Famine of 1876–78 | Famine of 1943 | Peacetime laissez-faire famine under Lytton vs wartime famine under Linlithgow | 1876-78 / 1943 |
+| Famine Commission 1880 | Woodhead Commission 1945 | Strachey's post-1876-78 body that produced the Famine Codes vs the post-1943 inquiry that played down British fault | स्ट्रेची आयोग / वुडहेड आयोग |
+| Ripon's 1882 Resolution | 1919 Dyarchy | Resolution only asked for elected local boards vs Montford reforms that actually transferred local self-government to Indian ministers | रिपन संकल्प / द्वैध शासन |
+| Herschell Committee 1893 | Fowler Committee 1898 | Closed free silver coinage / rupee crisis vs gold-exchange standard at 1s 4d | हर्शल / फाउलर |
+| Dual economy | Drain of Wealth | Split modern-export pocket vs mass distress vs unrequited transfer of surplus to Britain | द्वैत अर्थव्यवस्था / धन निष्कासन |
+
+---
+
+## Must-score facts — administration, economy, dates
+
+### Land revenue ↔ architect ↔ year ↔ region
+
+| System | Year | Architect | Region | Payer |
+|--------|------|-----------|--------|-------|
+| Permanent Settlement | 1793 | Cornwallis | Bengal, Bihar, Orissa, Varanasi (~19%) | Zamindar (Istamrari) |
+| Ryotwari | 1820s (Baramahal trial from the 1790s) | Munro / Read | Madras, Bombay (~51%) | Ryot |
+| Mahalwari | 1822 | Holt Mackenzie | NWP/UP, CP, Punjab (~30%) | Village / mahal |
+
+### Judiciary and police ↔ level (Cornwallis Code, 1793)
+
+| Level | Civil | Criminal |
+|-------|-------|----------|
+| Lowest | Munsiff's Court | Thana (daroga) |
+| Middle | Registrar's Court | — |
+| District | District (Diwani) Judge | Same Judge sat as Magistrate |
+| Appeal | 4 Provincial Courts of Appeal | 4 Circuit Courts |
+| Highest | Sadar Diwani Adalat | Sadar Nizamat Adalat |
+
+### Civil service ↔ milestone
+
+| Milestone | Year |
+|-----------|------|
+| Fort William College founded (Wellesley) | 1800 |
+| Haileybury College opened (England) | 1806 |
+| Charter Act proposes competition (dead letter) | 1833 |
+| Charter Act opens real competition | 1853 |
+| First Indian ICS — Satyendranath Tagore | 1863 |
+| Aitchison Committee — 3 service tiers | 1886 |
+| Simultaneous begins in India | 1922 |
+
+### Infrastructure and enterprise ↔ date
+
+| Item | Date |
+|------|------|
+| Railway guarantee contracts begin (EIR, GIPR) | 1849 |
+| First railway (Bombay–Thane) | 1853 |
+| Guarantee contracts renegotiated | 1869 |
+| Telegraph experiment (Calcutta–Diamond Harbour) | 1851 |
+| Company post begins | 1774 |
+| Uniform penny postage | 1854 |
+| Post Office Savings Bank | 1882 |
+| Assam Company (tea) founded | 1839 |
+
+### Monetisation ↔ currency milestone
+
+| Milestone | Year |
+|-----------|------|
+| Herschell Committee — closes free silver minting | 1893 |
+| Fowler Committee — gold-exchange standard; rupee at 1s 4d | 1898 |
+
+### Famine ↔ Viceroy/GG ↔ policy marker
+
+| Famine | Year | GG / Viceroy | Policy marker |
+|--------|------|--------------|----------------|
+| Bengal | 1770 | Dual Government; Hastings after | — |
+| Great Famine | 1876–78 | Lytton | Laissez-faire; Strachey Commission 1880; Famine Codes 1883 |
+| Bengal | 1943 | Linlithgow | Codes ignored; Woodhead Commission 1945 |
+
+### Local self-government ↔ milestone
+
+| Milestone | Year |
+|-----------|------|
+| First Municipal Corporation, Madras | 1688 |
+| Mayo — financial decentralisation | 1870 |
+| Ripon — local self-government Resolution | 1882 |
+| Royal Commission on Decentralisation | 1907 |
+| Local self-government "transferred" under dyarchy | 1919 |
 
 ---
 
@@ -666,78 +738,6 @@ This section only joins the results. The mechanisms are already taught above.
 - Land revenue in the North-Western Provinces (later UP) was mainly **Mahalwari**.
 - The main rail junctions were **Kanpur, Lucknow and Allahabad**.
 - Indigo was the cash crop of the Bihar–Bengal belt, with an eastern UP fringe.
-
----
-
-## Must-score facts — administration, economy, dates
-
-### Land revenue ↔ architect ↔ year ↔ region
-
-| System | Year | Architect | Region | Payer |
-|--------|------|-----------|--------|-------|
-| Permanent Settlement | 1793 | Cornwallis | Bengal, Bihar, Orissa, Varanasi (~19%) | Zamindar (Istamrari) |
-| Ryotwari | 1820s (Baramahal trial from the 1790s) | Munro / Read | Madras, Bombay (~51%) | Ryot |
-| Mahalwari | 1822 | Holt Mackenzie | NWP/UP, CP, Punjab (~30%) | Village / mahal |
-
-### Judiciary and police ↔ level (Cornwallis Code, 1793)
-
-| Level | Civil | Criminal |
-|-------|-------|----------|
-| Lowest | Munsiff's Court | Thana (daroga) |
-| Middle | Registrar's Court | — |
-| District | District (Diwani) Judge | Same Judge sat as Magistrate |
-| Appeal | 4 Provincial Courts of Appeal | 4 Circuit Courts |
-| Highest | Sadar Diwani Adalat | Sadar Nizamat Adalat |
-
-### Civil service ↔ milestone
-
-| Milestone | Year |
-|-----------|------|
-| Fort William College founded (Wellesley) | 1800 |
-| Haileybury College opened (England) | 1806 |
-| Charter Act proposes competition (dead letter) | 1833 |
-| Charter Act opens real competition | 1853 |
-| First Indian ICS — Satyendranath Tagore | 1863 |
-| Aitchison Committee — 3 service tiers | 1886 |
-| Simultaneous begins in India | 1922 |
-
-### Infrastructure and enterprise ↔ date
-
-| Item | Date |
-|------|------|
-| Railway guarantee contracts begin (EIR, GIPR) | 1849 |
-| First railway (Bombay–Thane) | 1853 |
-| Guarantee contracts renegotiated | 1869 |
-| Telegraph experiment (Calcutta–Diamond Harbour) | 1851 |
-| Company post begins | 1774 |
-| Uniform penny postage | 1854 |
-| Post Office Savings Bank | 1882 |
-| Assam Company (tea) founded | 1839 |
-
-### Monetisation ↔ currency milestone
-
-| Milestone | Year |
-|-----------|------|
-| Herschell Committee — closes free silver minting | 1893 |
-| Fowler Committee — gold-exchange standard; rupee at 1s 4d | 1898 |
-
-### Famine ↔ Viceroy/GG ↔ policy marker
-
-| Famine | Year | GG / Viceroy | Policy marker |
-|--------|------|--------------|----------------|
-| Bengal | 1770 | Dual Government; Hastings after | — |
-| Great Famine | 1876–78 | Lytton | Laissez-faire; Strachey Commission 1880; Famine Codes 1883 |
-| Bengal | 1943 | Linlithgow | Codes ignored; Woodhead Commission 1945 |
-
-### Local self-government ↔ milestone
-
-| Milestone | Year |
-|-----------|------|
-| First Municipal Corporation, Madras | 1688 |
-| Mayo — financial decentralisation | 1870 |
-| Ripon — local self-government Resolution | 1882 |
-| Royal Commission on Decentralisation | 1907 |
-| Local self-government "transferred" under dyarchy | 1919 |
 
 ---
 

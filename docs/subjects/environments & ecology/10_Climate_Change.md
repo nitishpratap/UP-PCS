@@ -21,21 +21,6 @@ Global Warming | Greenhouse Effect | Greenhouse Gases (GHGs) | Carbon Footprint 
 
 ---
 
-## Confused Pairs
-
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **Global warming** | Rise in average temperature | वैश्विक ऊष्मीकरण |
-| **Climate change** | Long-term shift in temperature, rain, extremes | जलवायु परिवर्तन |
-| **Greenhouse effect** | IR trapping by GHGs in atmosphere | ग्रीनहाउस प्रभाव |
-| **GWP** | Heat-trapping power relative to CO₂ over 100 years | वैश्विक ऊष्मीकरण क्षमता |
-| **Carbon sink** | Reservoir absorbing net CO₂ | कार्बन सिंक |
-| **Carbon sequestration** | Process of long-term carbon storage | कार्बन अनुक्रमण |
-| **Adaptation** | Coping with climate impacts | जलवायु अनुकूलन |
-| **Mitigation** | Reducing emissions / enhancing sinks | जलवायु शमन |
-
----
-
 ## Consolidated — 36 Must-Score Facts
 
 1. **Global warming** is the long-term rise in average surface temperature. It is a subset of broader **climate change**, which also includes rainfall, extremes, and sea-level shifts.
@@ -74,6 +59,21 @@ Global Warming | Greenhouse Effect | Greenhouse Gases (GHGs) | Carbon Footprint 
 34. **Ice cores** are the classic **cryogenic** climate archive (Greenland / Antarctica).
 35. **Solar flares** are **not** a primary cause of recent climate change in standard NASA/IPCC framing.
 36. Farm practices that help soil carbon storage include **contour bunding, relay cropping, and zero tillage**.
+
+---
+
+## Confused Pairs
+
+| Term | One-line difference | Hindi |
+|------|---------------------|-------|
+| **Global warming** | Rise in average temperature | वैश्विक ऊष्मीकरण |
+| **Climate change** | Long-term shift in temperature, rain, extremes | जलवायु परिवर्तन |
+| **Greenhouse effect** | IR trapping by GHGs in atmosphere | ग्रीनहाउस प्रभाव |
+| **GWP** | Heat-trapping power relative to CO₂ over 100 years | वैश्विक ऊष्मीकरण क्षमता |
+| **Carbon sink** | Reservoir absorbing net CO₂ | कार्बन सिंक |
+| **Carbon sequestration** | Process of long-term carbon storage | कार्बन अनुक्रमण |
+| **Adaptation** | Coping with climate impacts | जलवायु अनुकूलन |
+| **Mitigation** | Reducing emissions / enhancing sinks | जलवायु शमन |
 
 ---
 

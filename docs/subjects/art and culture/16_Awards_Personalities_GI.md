@@ -68,24 +68,6 @@ D. Lazzatnama
 ---
 
 
-## Confused Pairs
-
-| A | B | Correct | Hindi |
-|---|----|------|-------|
-| SNA | Sahitya / Lalit Kala | Performing **1952** vs letters **1954** / visual **1954** | संगीत नाटक / साहित्य / ललित कला |
-| Sahitya Akademi Award | Jnanpith | Culture academy, annual book vs **Bharatiya Jnanpith trust, 1965** | साहित्य अकादमी / ज्ञानपीठ |
-| Sahitya Yuva Puraskar | Bismillah Khan Yuva | Authors **≤35** vs young **performing** artists (SNA) | युवा पुरस्कार / बिस्मिल्लाह खां युवा |
-| Akademi Award | Akademi Ratna | Annual discipline prize vs lifetime Fellowship | अकादमी पुरस्कार / अकादमी रत्न |
-| Lalit Kala | NGMA | Visual **academy** vs modern-art **gallery** | ललित कला / राष्ट्रीय आधुनिक कला गैलरी |
-| Bharat Ratna | Padma Vibhushan | Highest civilian vs second Padma tier | भारत रत्न / पद्म विभूषण |
-| 24 Akademi languages | 22 Eighth Schedule | Adds **English + Rajasthani** | 24 भाषाएँ / 22 अनुसूची |
-| GI tag | Trademark | Place + community vs a firm’s brand | भौगोलिक संकेत / व्यापार चिह्न |
-| GI ministry | Culture ministry | **Commerce / DPIIT** runs GI; Culture runs Akademis | वाणिज्य / संस्कृति |
-| MS Subbulakshmi | Lata Mangeshkar | First musician BR **1998** Carnatic vs playback BR **2001** | एम.एस. / लता |
-| Bismillah Khan | Birju Maharaj | Shehnai, Varanasi, BR 2001 vs Kathak Lucknow, **not** BR | बिस्मिल्लाह / बिरजू |
-
----
-
 ## Consolidated — 26 Must-Score Facts
 
 1. Three Culture akademis sit at Rabindra Bhavan: **Sangeet Natak Akademi (1952)** for performing arts, **Sahitya Akademi (1954)** for letters, and **Lalit Kala Akademi (1954)** for visual arts.
@@ -114,6 +96,24 @@ D. Lazzatnama
 24. Jnanpith is a literary trust award from **1965**. Sahitya Akademi Award is the annual Culture-academy book prize. Keep trust versus academy clear.
 25. Lucknow’s Lalit Kala regional centre is a UP institutional fact. It does not make every visual artist of Lucknow a National Award winner by default.
 26. filter: first identify the body (SNA / Sahitya / Lalit Kala / Jnanpith / Bharat Ratna / GI ministry), then the person or craft, then the year if asked.
+
+---
+
+## Confused Pairs
+
+| A | B | Correct | Hindi |
+|---|----|------|-------|
+| SNA | Sahitya / Lalit Kala | Performing **1952** vs letters **1954** / visual **1954** | संगीत नाटक / साहित्य / ललित कला |
+| Sahitya Akademi Award | Jnanpith | Culture academy, annual book vs **Bharatiya Jnanpith trust, 1965** | साहित्य अकादमी / ज्ञानपीठ |
+| Sahitya Yuva Puraskar | Bismillah Khan Yuva | Authors **≤35** vs young **performing** artists (SNA) | युवा पुरस्कार / बिस्मिल्लाह खां युवा |
+| Akademi Award | Akademi Ratna | Annual discipline prize vs lifetime Fellowship | अकादमी पुरस्कार / अकादमी रत्न |
+| Lalit Kala | NGMA | Visual **academy** vs modern-art **gallery** | ललित कला / राष्ट्रीय आधुनिक कला गैलरी |
+| Bharat Ratna | Padma Vibhushan | Highest civilian vs second Padma tier | भारत रत्न / पद्म विभूषण |
+| 24 Akademi languages | 22 Eighth Schedule | Adds **English + Rajasthani** | 24 भाषाएँ / 22 अनुसूची |
+| GI tag | Trademark | Place + community vs a firm’s brand | भौगोलिक संकेत / व्यापार चिह्न |
+| GI ministry | Culture ministry | **Commerce / DPIIT** runs GI; Culture runs Akademis | वाणिज्य / संस्कृति |
+| MS Subbulakshmi | Lata Mangeshkar | First musician BR **1998** Carnatic vs playback BR **2001** | एम.एस. / लता |
+| Bismillah Khan | Birju Maharaj | Shehnai, Varanasi, BR 2001 vs Kathak Lucknow, **not** BR | बिस्मिल्लाह / बिरजू |
 
 ---
 

@@ -21,18 +21,6 @@ Desertification | Land Degradation | Drought | Soil Erosion
 
 ---
 
-## Confused Pairs
-
-| Term | One-line fact |
-|------|---------------|
-| **Desertification / Land degradation** | ASDM drylands only / any land productivity loss |
-| **Drought / Desertification** | Temporary water deficit / lasting dryland productivity loss |
-| **Sheet / Gully / Ravine** | Thin film / channels / deep badlands |
-| **UNCCD / UNFCCC** | Desertification 1994 / climate treaty |
-| **LDN** | No net loss of healthy land by 2030 |
-
----
-
 ## Consolidated — 22 Must-Score Facts
 
 1. **Desertification** is land degradation in **arid, semi-arid, and dry sub-humid (ASDM)** drylands. It is not merely “the desert expanding.”
@@ -57,6 +45,18 @@ Desertification | Land Degradation | Drought | Soil Erosion
 20. SDG 15.3 LDN is the policy end-state; UNCCD is the global legal home.
 21. Thar wind processes and Chambal water ravines are twin Indian landform facts.
 22. Deforestation removes cover and raises runoff and erosion risk in drylands and beyond.
+
+---
+
+## Confused Pairs
+
+| Term | One-line fact |
+|------|---------------|
+| **Desertification / Land degradation** | ASDM drylands only / any land productivity loss |
+| **Drought / Desertification** | Temporary water deficit / lasting dryland productivity loss |
+| **Sheet / Gully / Ravine** | Thin film / channels / deep badlands |
+| **UNCCD / UNFCCC** | Desertification 1994 / climate treaty |
+| **LDN** | No net loss of healthy land by 2030 |
 
 ---
 

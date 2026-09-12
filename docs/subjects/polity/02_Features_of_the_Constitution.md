@@ -26,36 +26,6 @@
 
 ---
 
-## Confused Pairs
-
-| Pair | Correct | Trap | Hindi |
-|------|------------|------|-------|
-| Rigid vs Flexible | Blend under Art. 368 + simple-majority paths | “Only rigid like USA” | कठोर+लचीला |
-| Federal vs Unitary | Dual polity + strong Centre = **quasi-federal** | Pure classical federation | अर्ध-संघीय |
-| Quasi-federal (Wheare) | Unitary bias label | Call Austin “quasi” | व्हीयर = अर्ध |
-| Cooperative (Austin) | Centre–State collaboration | Mix with Wheare | ऑस्टिन = सहयोगी |
-| Bargaining (Morris-Jones) | Political bargaining federalism | Mix with Jennings | मॉरिस-जोन्स |
-| Parliamentary vs Presidential | Executive responsible to legislature | President = Presidential system | संसदीय |
-| Independent vs Integrated judiciary | Free of organ control vs one hierarchy under SC | Swap meanings | स्वतंत्र / एकीकृत |
-| Preamble is part vs enforceable | Part after Kesavananda; **still not enforceable** | Treat as FR | उद्देशिका |
-| Adopt date vs enforce date | Preamble date = **26 Nov 1949**; force = **26 Jan 1950** | Swap | अंगीकरण / प्रवर्तन |
-| 26 Jan 1950 status | **Sovereign Democratic Republic** | Include Socialist/Secular already | 1950 स्थिति |
-| 42nd Preamble words | **Socialist + Secular** (+ integrity) | Sovereignty / Republic | समाजवादी+धर्मनिरपेक्ष |
-| Single vs Dual citizenship | India = **single**; USA = dual | India has state citizenship | एकल नागरिकता |
-| Rule of Law vs Constitutional supremacy | No one above law vs Constitution highest law | Treat as identical | विधि / संविधान |
-| Residuary powers | **Centre** (Canada pattern) | States like USA | अवशिष्ट = केंद्र |
-| Art. 3 vs Art. 368 | Boundary change = simple majority path | Call every change “special majority” | अनुच्छेद 3 |
-| Residual vs Concurrent source | **Canada** vs **Australia** | Swap the pair | कनाडा / ऑस्ट्रेलिया |
-| FR vs DPSP source | **USA** vs **Ireland** | Swap or mix with UK | अमेरिका / आयरलैंड |
-| GOI 1935 vs full copy | **Structural skeleton** only | “Pure carbon copy” | 1935 = ढांचा |
-| Type of govt vs polity | **Parliamentary** form vs **quasi-federal** structure | Call India “Presidential” because of President | संसदीय ≠ राष्ट्रपति |
-| Original vs 42nd Preamble | **1950 = SDR**; Socialist/Secular later | Call 1950 already Socialist Secular | 1950 ≠ समाजवादी |
-| Palkhivala tag | Preamble = **identity card** | Mix with Austin / Wheare | पहचान पत्र |
-| Munshi vs Ambedkar tags | Munshi = **political horoscope** (Preamble); Ambedkar **heart and soul** = **Art. 32** | Swap Preamble / Art. 32 | मुंशी / आंबेडकर |
-| Berubari vs Kesavananda | *Berubari* = Preamble **not** part (1960); *Kesavananda* = **is** part (1973) | Say Kesavananda first denied it | बेरुबारी / केशवानंद |
-
----
-
 ## Consolidated — 28 Must-Score Facts
 
 1. India’s Constitution is the **lengthiest written** Constitution of any sovereign country. It is a **single** Constitution for both the Union and the States.
@@ -86,6 +56,56 @@
 26. In normal times the system is meant to work **federally**; in Emergency it can work **like a unitary** system — a flexibility Ambedkar stressed against a rigid USA-style federation.
 27. Cooperative federalism stresses Centre–State collaboration (Austin’s line); competitive federalism stresses States competing for growth — both appear in current-affairs examples such as the GST Council and NITI Aayog, without changing the constitutional quasi-federal core.
 28. Criticisms such as “bag of borrowings” or “carbon copy of 1935” are distractors: the structure was borrowed, but republic, adult franchise, Fundamental Rights politics, and Basic Structure are not a mere copy.
+
+---
+
+## Confused Pairs
+
+| Pair | Correct | Trap | Hindi |
+|------|------------|------|-------|
+| Rigid vs Flexible | Blend under Art. 368 + simple-majority paths | “Only rigid like USA” | कठोर+लचीला |
+| Federal vs Unitary | Dual polity + strong Centre = **quasi-federal** | Pure classical federation | अर्ध-संघीय |
+| Quasi-federal (Wheare) | Unitary bias label | Call Austin “quasi” | व्हीयर = अर्ध |
+| Cooperative (Austin) | Centre–State collaboration | Mix with Wheare | ऑस्टिन = सहयोगी |
+| Bargaining (Morris-Jones) | Political bargaining federalism | Mix with Jennings | मॉरिस-जोन्स |
+| Parliamentary vs Presidential | Executive responsible to legislature | President = Presidential system | संसदीय |
+| Independent vs Integrated judiciary | Free of organ control vs one hierarchy under SC | Swap meanings | स्वतंत्र / एकीकृत |
+| Preamble is part vs enforceable | Part after Kesavananda; **still not enforceable** | Treat as FR | उद्देशिका |
+| Adopt date vs enforce date | Preamble date = **26 Nov 1949**; force = **26 Jan 1950** | Swap | अंगीकरण / प्रवर्तन |
+| 26 Jan 1950 status | **Sovereign Democratic Republic** | Include Socialist/Secular already | 1950 स्थिति |
+| 42nd Preamble words | **Socialist + Secular** (+ integrity) | Sovereignty / Republic | समाजवादी+धर्मनिरपेक्ष |
+| Single vs Dual citizenship | India = **single**; USA = dual | India has state citizenship | एकल नागरिकता |
+| Rule of Law vs Constitutional supremacy | No one above law vs Constitution highest law | Treat as identical | विधि / संविधान |
+| Residuary powers | **Centre** (Canada pattern) | States like USA | अवशिष्ट = केंद्र |
+| Art. 3 vs Art. 368 | Boundary change = simple majority path | Call every change “special majority” | अनुच्छेद 3 |
+| Residual vs Concurrent source | **Canada** vs **Australia** | Swap the pair | कनाडा / ऑस्ट्रेलिया |
+| FR vs DPSP source | **USA** vs **Ireland** | Swap or mix with UK | अमेरिका / आयरलैंड |
+| GOI 1935 vs full copy | **Structural skeleton** only | “Pure carbon copy” | 1935 = ढांचा |
+| Type of govt vs polity | **Parliamentary** form vs **quasi-federal** structure | Call India “Presidential” because of President | संसदीय ≠ राष्ट्रपति |
+| Original vs 42nd Preamble | **1950 = SDR**; Socialist/Secular later | Call 1950 already Socialist Secular | 1950 ≠ समाजवादी |
+| Palkhivala tag | Preamble = **identity card** | Mix with Austin / Wheare | पहचान पत्र |
+| Munshi vs Ambedkar tags | Munshi = **political horoscope** (Preamble); Ambedkar **heart and soul** = **Art. 32** | Swap Preamble / Art. 32 | मुंशी / आंबेडकर |
+| Berubari vs Kesavananda | *Berubari* = Preamble **not** part (1960); *Kesavananda* = **is** part (1973) | Say Kesavananda first denied it | बेरुबारी / केशवानंद |
+
+---
+
+## Must-score facts
+
+1. **Type of government** = **Parliamentary** + **Democratic Republic**; polity = **quasi-federal Union** — **not** Presidential.
+2. Ambedkar: **federal in form, unitary in spirit**; federation **not** born from State agreement; no secession.
+3. Parliamentary test = executive **responsible to legislature** (Lok Sabha); dual executive = President nominal, PM real.
+4. Lengthiest written Constitution; reasons include single Constitution for Centre and States + diversity + GOI Act 1935 base.
+5. Blend of rigidity and flexibility — Arts. 2–4 path ≠ Art. 368 for every change.
+6. Quasi-federal = **K.C. Wheare**; Cooperative = **Austin**; Bargaining = **Morris-Jones**; Centralising = **Jennings**.
+7. Parliamentary system first introduced in **UK**; eight parliamentary features = majority rule, collective responsibility, homogeneity, double membership, PM leadership, dissolution, Cabinet secrecy, Official Opposition.
+8. Preamble counts **3, 5, 2, 1**; **Federal** not in Preamble; 42nd added **Socialist + Secular** (+ integrity); Palkhivala = **identity card**; Munshi = **political horoscope**; Ambedkar **heart and soul** = **Art. 32**, not Preamble.
+9. On **26 Jan 1950** = **Sovereign Democratic Republic** only; full present text = Sovereign Socialist Secular Democratic Republic.
+10. Preamble is **part** of Constitution (*Kesavananda* / *Bommai*) but **non-justiciable**; *Berubari* earlier said not part.
+11. Basic Structure = **Kesavananda 1973**; Minerva Mills 1980 restored limits.
+12. Single citizenship; voting age 18 by **61st**; third tier **1992**.
+13. Residuary with **Centre** (Canada); **Concurrent List** = Australia; FR = USA; DPSP = Ireland.
+14. GOI Act **1935** = structural borrow; UAF + Basic Structure = Indian originality.
+15. Flag adopted **22 July 1947**; Anthem **24 Jan 1950** (~52 sec); Emblem **26 Jan 1950**; Saka calendar **22 Mar 1957**.
 
 ---
 
@@ -931,26 +951,6 @@ D. Emergency powers - Germany
 - National bird = **Indian Peacock** (*Pavo cristatus*).
 - National flower = **Lotus** (*Nelumbo nucifera*) — coaching default; note official notification debates separately if asked.
 - National fruit = **Mango**; national tree = **Banyan**; national aquatic animal = **Ganges River Dolphin**; national river = **Ganga** (declared **2008**).
-
----
-
-## Must-score facts
-
-1. **Type of government** = **Parliamentary** + **Democratic Republic**; polity = **quasi-federal Union** — **not** Presidential.
-2. Ambedkar: **federal in form, unitary in spirit**; federation **not** born from State agreement; no secession.
-3. Parliamentary test = executive **responsible to legislature** (Lok Sabha); dual executive = President nominal, PM real.
-4. Lengthiest written Constitution; reasons include single Constitution for Centre and States + diversity + GOI Act 1935 base.
-5. Blend of rigidity and flexibility — Arts. 2–4 path ≠ Art. 368 for every change.
-6. Quasi-federal = **K.C. Wheare**; Cooperative = **Austin**; Bargaining = **Morris-Jones**; Centralising = **Jennings**.
-7. Parliamentary system first introduced in **UK**; eight parliamentary features = majority rule, collective responsibility, homogeneity, double membership, PM leadership, dissolution, Cabinet secrecy, Official Opposition.
-8. Preamble counts **3, 5, 2, 1**; **Federal** not in Preamble; 42nd added **Socialist + Secular** (+ integrity); Palkhivala = **identity card**; Munshi = **political horoscope**; Ambedkar **heart and soul** = **Art. 32**, not Preamble.
-9. On **26 Jan 1950** = **Sovereign Democratic Republic** only; full present text = Sovereign Socialist Secular Democratic Republic.
-10. Preamble is **part** of Constitution (*Kesavananda* / *Bommai*) but **non-justiciable**; *Berubari* earlier said not part.
-11. Basic Structure = **Kesavananda 1973**; Minerva Mills 1980 restored limits.
-12. Single citizenship; voting age 18 by **61st**; third tier **1992**.
-13. Residuary with **Centre** (Canada); **Concurrent List** = Australia; FR = USA; DPSP = Ireland.
-14. GOI Act **1935** = structural borrow; UAF + Basic Structure = Indian originality.
-15. Flag adopted **22 July 1947**; Anthem **24 Jan 1950** (~52 sec); Emblem **26 Jan 1950**; Saka calendar **22 Mar 1957**.
 
 ---
 

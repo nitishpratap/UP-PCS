@@ -30,47 +30,6 @@ Lakes-as-wetlands. This file keeps the **geography** facts.
 
 ---
 
-## Confused Pairs
-
-| Pair | Correct | Trap | Hindi |
-|------|------------|------|-------|
-| Thornthwaite vs Köppen | Vegetation = climate **index** → Thornthwaite | Köppen | थॉर्नथ्वेट |
-| Evergreen vs moist deciduous | Evergreen **>200**; moist **100–200**, **largest area** | Evergreen = largest | पर्णपाती सबसे बड़ा |
-| Simlipal | **Odisha** | Madhya Pradesh (2018) | सिमलीपाल = ओडिशा |
-| Nokrek | **Meghalaya** | Manipur (2025) | नोकरेक = मेघालय |
-| Nanda Devi | **Uttarakhand** | Uttar Pradesh | नंदा देवी = उत्तराखंड |
-| Botanical garden | **Ex-situ** | In-situ | वनस्पति उद्यान = वाह्य |
-| Dudhwa district | **Lakhimpur Kheri** | Bahraich / Pilibhit | दुधवा = लखीमपुर |
-| NP vs TR in UP | Only NP = Dudhwa; Pilibhit/Amangarh/Ranipur = **TR** | Extra NPs | केवल एक NP |
-| Chandraprabha | **Chandauli** | Sonbhadra (2023) | चंदप्रभा = चंदौली |
-| Hangul | **Dachigam / Kashmir** | Assam rhino belt | हांगुल = कश्मीर |
-| Keibul Lamjao | **Loktak, Manipur** | Wular/Dal | केइबुल = लोकटक |
-| Diversity vs latitude | **Decreases** equator → poles | Increases toward poles | विविधता ध्रुव की ओर घटती |
-| MISHTI year | Budget **2023–24** | 2019 | मिश्टी ≠ 2019 |
-| Olivia season | Nesting **Nov–May** | August | ऑलिविया ≠ अगस्त |
-| Ramsar NOT UP | Rudrasagar Tripura; Sultanpur HR; Surinsar–Mansar J&K | Mark as UP | रुद्रसागर = त्रिपुरा |
-| Ballia | Near-nil **forest**; **Surha Tal** Ramsar | “No wetland” | बलिया = वन नहीं, रामसर हाँ |
-| Forest cover vs RFA | ISFR **cover** ≠ legal recorded forest | Mix the two | आवरण ≠ अधिसूचित |
-| Agasthyamalai | Kerala **and TN** | Only one state as if exclusive | अगस्त्यमलाई = केरल–TN |
-| Nilgiri BR | **First** Indian BR (1986) | Call Nanda Devi first | नीलगिरि पहला |
-| Hotspot count | **Four** Indian hotspots | Mix with 18 BRs | चार हॉटस्पॉट |
-| 2010 hotspot names | Himalaya + WG–SL + Indo-Burma + Sundaland (Nicobar) | Split Himalaya E/W + Andaman as the four | निकोबार = सुंडालैंड |
-| Wet evergreen rain | NCERT **>200 cm**; many notes also use **>250** for wet evergreen | Mix the two numbers in one question | 200 / 250 |
-| Dry evergreen vs wet evergreen | Dry evergreen = **TN coast**, NE monsoon ~100 cm | Call it Western Ghat rain forest | कोरोमंडल शुष्क सदाबहार |
-| Chir vs deodar belt | Chir = **subtropical pine** 1000–2000 m west; deodar = temperate | Swap belts | चीड़ निचला; देवदार ऊँचा |
-| Keystone vs flagship | Keystone = ecosystem collapse if lost; flagship = public mascot | Call panda a keystone fact for India | कीस्टोन ≠ फ्लैगशिप |
-| Flame of the forest | **Butea monosperma** / Palash / Dhak; UP state flower | Bauhinia / Jacaranda / Teak | पलाश = UP फूल |
-| Katha wood | **Khair** | Sal / babool / saaja | कत्था = खैर |
-| Tree-line E vs W | **Lower** in **Western** Himalaya | Higher in west | पश्चिम ट्री-लाइन नीची |
-| Himalaya aspect | **Southern** slopes denser (more rain + sun) | Northern denser | दक्षिणी ढाल सघन |
-| Vembanad mangrove | **Kerala** | Karnataka | वेम्बनाड = केरल |
-| Mahogany belt | Tropical evergreen (not Himalaya) | Call it Himalayan with fir/spruce | महोगनी ≠ हिमालय |
-| Khejri vs Dhak | Khejri = desert social forestry; Dhak/Palash = flame of forest | Swap uses | खेजड़ी ≠ पलाश |
-
----
-
----
-
 ## Consolidated — 36 Must-Score Facts
 
 1. “Vegetation is the true index of climate” is **Thornthwaite’s** line, not Köppen’s letter codes. Controls are climate, soil, relief, biotic factors, and time.
@@ -109,6 +68,47 @@ Lakes-as-wetlands. This file keeps the **geography** facts.
 34. **Deodar** is abundant in the **western** Himalayan temperate belt at about **1500–2500 m**. Among common options (deodar, pine/chir, sal, teak), deodar grows at the **highest** elevation.
 35. Classic mangrove match: **Achra–Ratnagiri = Maharashtra**; **Coondapur = Karnataka**; **Pichavaram = Tamil Nadu**; **Vembanad = Kerala** (not Karnataka). **Silent Valley (Kerala)** = tropical evergreen.
 36. **Mahogany** is **not** a Himalayan species (tropical American origin / Indian evergreen belts). Himalayan set = juniper, silver fir, spruce, deodar, birch.
+
+---
+
+## Confused Pairs
+
+| Pair | Correct | Trap | Hindi |
+|------|------------|------|-------|
+| Thornthwaite vs Köppen | Vegetation = climate **index** → Thornthwaite | Köppen | थॉर्नथ्वेट |
+| Evergreen vs moist deciduous | Evergreen **>200**; moist **100–200**, **largest area** | Evergreen = largest | पर्णपाती सबसे बड़ा |
+| Simlipal | **Odisha** | Madhya Pradesh (2018) | सिमलीपाल = ओडिशा |
+| Nokrek | **Meghalaya** | Manipur (2025) | नोकरेक = मेघालय |
+| Nanda Devi | **Uttarakhand** | Uttar Pradesh | नंदा देवी = उत्तराखंड |
+| Botanical garden | **Ex-situ** | In-situ | वनस्पति उद्यान = वाह्य |
+| Dudhwa district | **Lakhimpur Kheri** | Bahraich / Pilibhit | दुधवा = लखीमपुर |
+| NP vs TR in UP | Only NP = Dudhwa; Pilibhit/Amangarh/Ranipur = **TR** | Extra NPs | केवल एक NP |
+| Chandraprabha | **Chandauli** | Sonbhadra (2023) | चंदप्रभा = चंदौली |
+| Hangul | **Dachigam / Kashmir** | Assam rhino belt | हांगुल = कश्मीर |
+| Keibul Lamjao | **Loktak, Manipur** | Wular/Dal | केइबुल = लोकटक |
+| Diversity vs latitude | **Decreases** equator → poles | Increases toward poles | विविधता ध्रुव की ओर घटती |
+| MISHTI year | Budget **2023–24** | 2019 | मिश्टी ≠ 2019 |
+| Olivia season | Nesting **Nov–May** | August | ऑलिविया ≠ अगस्त |
+| Ramsar NOT UP | Rudrasagar Tripura; Sultanpur HR; Surinsar–Mansar J&K | Mark as UP | रुद्रसागर = त्रिपुरा |
+| Ballia | Near-nil **forest**; **Surha Tal** Ramsar | “No wetland” | बलिया = वन नहीं, रामसर हाँ |
+| Forest cover vs RFA | ISFR **cover** ≠ legal recorded forest | Mix the two | आवरण ≠ अधिसूचित |
+| Agasthyamalai | Kerala **and TN** | Only one state as if exclusive | अगस्त्यमलाई = केरल–TN |
+| Nilgiri BR | **First** Indian BR (1986) | Call Nanda Devi first | नीलगिरि पहला |
+| Hotspot count | **Four** Indian hotspots | Mix with 18 BRs | चार हॉटस्पॉट |
+| 2010 hotspot names | Himalaya + WG–SL + Indo-Burma + Sundaland (Nicobar) | Split Himalaya E/W + Andaman as the four | निकोबार = सुंडालैंड |
+| Wet evergreen rain | NCERT **>200 cm**; many notes also use **>250** for wet evergreen | Mix the two numbers in one question | 200 / 250 |
+| Dry evergreen vs wet evergreen | Dry evergreen = **TN coast**, NE monsoon ~100 cm | Call it Western Ghat rain forest | कोरोमंडल शुष्क सदाबहार |
+| Chir vs deodar belt | Chir = **subtropical pine** 1000–2000 m west; deodar = temperate | Swap belts | चीड़ निचला; देवदार ऊँचा |
+| Keystone vs flagship | Keystone = ecosystem collapse if lost; flagship = public mascot | Call panda a keystone fact for India | कीस्टोन ≠ फ्लैगशिप |
+| Flame of the forest | **Butea monosperma** / Palash / Dhak; UP state flower | Bauhinia / Jacaranda / Teak | पलाश = UP फूल |
+| Katha wood | **Khair** | Sal / babool / saaja | कत्था = खैर |
+| Tree-line E vs W | **Lower** in **Western** Himalaya | Higher in west | पश्चिम ट्री-लाइन नीची |
+| Himalaya aspect | **Southern** slopes denser (more rain + sun) | Northern denser | दक्षिणी ढाल सघन |
+| Vembanad mangrove | **Kerala** | Karnataka | वेम्बनाड = केरल |
+| Mahogany belt | Tropical evergreen (not Himalaya) | Call it Himalayan with fir/spruce | महोगनी ≠ हिमालय |
+| Khejri vs Dhak | Khejri = desert social forestry; Dhak/Palash = flame of forest | Swap uses | खेजड़ी ≠ पलाश |
+
+---
 
 ---
 

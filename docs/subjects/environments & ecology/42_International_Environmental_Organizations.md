@@ -21,18 +21,6 @@ UNEP | UNDP | FAO | UNESCO | IUCN | WWF | IPCC | WMO | GEF | Greenpeace
 
 ---
 
-## Confused Pairs
-
-| Pair | Fact |
-|------|------|
-| **UNEP / UNDP** | Environment programme / development + HDR |
-| **IPCC / UNFCCC** | Science assessment / climate treaty |
-| **IUCN / CITES** | Red List risk / trade regulation |
-| **IUCN / WWF** | Assessment union / conservation NGO |
-| **UNESCO / UNEP** | Heritage–education–MAB / environment coordination |
-
----
-
 ## Consolidated — 24 Must-Score Facts
 
 1. **UNEP** was created after **Stockholm 1972**. Its HQ is **Nairobi**. Flagship products include the **Emissions Gap Report** and **GEO**.
@@ -59,6 +47,18 @@ UNEP | UNDP | FAO | UNESCO | IUCN | WWF | IPCC | WMO | GEF | Greenpeace
 22. Treaty secretariats hosted or supported by UNEP (Montreal, Basel, Stockholm POPs, Minamata) are still treaty bodies, not UNEP synonyms.
 23. WWF is not the Red List author. IUCN is.
 24. FAO HQ is Rome, not Paris or Geneva.
+
+---
+
+## Confused Pairs
+
+| Pair | Fact |
+|------|------|
+| **UNEP / UNDP** | Environment programme / development + HDR |
+| **IPCC / UNFCCC** | Science assessment / climate treaty |
+| **IUCN / CITES** | Red List risk / trade regulation |
+| **IUCN / WWF** | Assessment union / conservation NGO |
+| **UNESCO / UNEP** | Heritage–education–MAB / environment coordination |
 
 ---
 

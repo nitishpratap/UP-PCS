@@ -15,27 +15,6 @@ Sher Shah Suri | Administration | Revenue Reforms | Road System | Currency Refor
 
 ---
 
-## Confused Pairs
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Farid Khan vs Sher Shah | Birth name vs Padshah title after 1540 | फरीद खान / शेर शाह |
-| Sher Khan vs Sher Shah | Tiger-kill title in Bihar vs imperial title | शेर खान / शेर शाह |
-| Chausa vs Kannauj | 1539 escape vs 1540 exile | चौसा / कन्नौज |
-| Bilgram vs Kannauj | Same 1540 battle | बिलग्राम / कन्नौज |
-| Daurah vs Chausa | 1532 Humayun–Afghans vs 1539 Sher Shah | दौराह / चौसा |
-| Jarib vs Rai | Measuring rope vs crop-rate per bigha | जरीब / रै |
-| Patta vs Qabuliat | State document vs peasant acceptance | पट्टा / क़बूलियत |
-| Dam vs Rupiya vs Mohur | Copper vs silver vs gold | दाम / रुपया / मोहर |
-| Shiqdar vs Munshif | Law/order vs accounts | शिकदार / मुंशिफ |
-| Rohtas vs Purana Qila | Bihar hill fort vs Delhi citadel | रोहतास / पुराना किला |
-| Sasaram vs Kalinjar | Birth + tomb vs death siege 1545 | सासाराम / कालिंजर |
-| Hazrat-e-Ala vs Sher Shah | Bengal-service title vs imperial **Sher Shah** after **Chausa 1539** | हज़रत-ए-आला / शेर शाह |
-| Jaunpur education vs Sasaram birth | **Siraj-i-Hind** schooling vs birthplace/tomb | जौनपुर / सासाराम |
-| Marwar vs Mewar (Jayata–Kumpa) | Rathore Maldeo vs Sisodia Pratap/Sanga | मारवाड़ / मेवाड़ |
-
----
-
 ## Consolidated — 25 Must-Score Facts
 
 1. **Farid Khan** of **Sasaram** became **Sher Khan** after the tiger-kill tradition, then **Sher Shah Suri** as Padshah from **1540**.
@@ -63,6 +42,27 @@ Sher Shah Suri | Administration | Revenue Reforms | Road System | Currency Refor
 23. Sher Shah kept a standing force with registered men; he did **not** create hereditary mansabdari like Akbar.
 24. **Farid Khan** was educated at **Jaunpur** (**Siraj-i-Hind**). He took **Hazrat-e-Ala** in Bengal service, then **Sher Shah** after **Chausa (1539)**.
 25. **Khayr-ul-Manazil** near Purana Qila was built by **Maham Anaga** in Akbar's era, not by Sher Shah. **Qila-i-Kuhna** mosque stands **inside** Purana Qila — Sher Shah's work.
+
+---
+
+## Confused Pairs
+
+| A | B | Difference | Hindi |
+|---|----|------------|-------|
+| Farid Khan vs Sher Shah | Birth name vs Padshah title after 1540 | फरीद खान / शेर शाह |
+| Sher Khan vs Sher Shah | Tiger-kill title in Bihar vs imperial title | शेर खान / शेर शाह |
+| Chausa vs Kannauj | 1539 escape vs 1540 exile | चौसा / कन्नौज |
+| Bilgram vs Kannauj | Same 1540 battle | बिलग्राम / कन्नौज |
+| Daurah vs Chausa | 1532 Humayun–Afghans vs 1539 Sher Shah | दौराह / चौसा |
+| Jarib vs Rai | Measuring rope vs crop-rate per bigha | जरीब / रै |
+| Patta vs Qabuliat | State document vs peasant acceptance | पट्टा / क़बूलियत |
+| Dam vs Rupiya vs Mohur | Copper vs silver vs gold | दाम / रुपया / मोहर |
+| Shiqdar vs Munshif | Law/order vs accounts | शिकदार / मुंशिफ |
+| Rohtas vs Purana Qila | Bihar hill fort vs Delhi citadel | रोहतास / पुराना किला |
+| Sasaram vs Kalinjar | Birth + tomb vs death siege 1545 | सासाराम / कालिंजर |
+| Hazrat-e-Ala vs Sher Shah | Bengal-service title vs imperial **Sher Shah** after **Chausa 1539** | हज़रत-ए-आला / शेर शाह |
+| Jaunpur education vs Sasaram birth | **Siraj-i-Hind** schooling vs birthplace/tomb | जौनपुर / सासाराम |
+| Marwar vs Mewar (Jayata–Kumpa) | Rathore Maldeo vs Sisodia Pratap/Sanga | मारवाड़ / मेवाड़ |
 
 ---
 

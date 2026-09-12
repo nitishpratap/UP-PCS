@@ -21,32 +21,6 @@ Ecology – Meaning | Ecosystem | Types of Ecosystems | Terrestrial Ecosystem | 
 
 ---
 
-## Confused Pairs
-
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **Ecology** | *Study* of organism–environment interactions | पारिस्थितिकी |
-| **Ecosystem** | Functional *unit* of biotic + abiotic interaction | पारिस्थितिकी तंत्र |
-| **Habitat** | *Place* where organism lives | निवास स्थान |
-| **Niche** | *Role/function* of species in ecosystem | पारिस्थितिक niche |
-| **Community** | All populations of different species in an area | समुदाय |
-| **Population** | Same species, same area, interbreeding group | जनसंख्या |
-| **Sere** | Entire sequence of communities in succession | अनुक्रमण श्रृंखला |
-| **Climax community** | Final stable, self-perpetuating community | चरम समुदाय |
-| **GPP** | Total energy fixed by producers (gross) | सकल प्राथमिक उत्पादकता |
-| **NPP** | GPP minus plant respiration | शुद्ध प्राथमिक उत्पादकता |
-| **Fundamental niche** | Full potential role without competition | मूल niche |
-| **Realized niche** | Actual role after competition limits | वास्तविक niche |
-| **Primary succession** | Starts on lifeless substrate | प्राथमिक अनुक्रमण |
-| **Secondary succession** | Starts where soil already exists | द्वितीयक अनुक्रमण |
-| **r-strategist** | Many offspring, fast growth, short life | r-रणनीतिकारी |
-| **K-strategist** | Few offspring, slow growth, long life | K-रणनीतिकारी |
-| **Ecotone** | Transition zone between two communities | इकोटोन |
-| **Bionomics** | Synonym of ecology — not “management of life” | बायोनॉमिक्स |
-| **Carrying capacity** | Max sustainable population for available resources | वहन क्षमता |
-
----
-
 ## Consolidated — 36 Must-Score Facts
 
 1. **Ecology** is the **study** of organism–environment interactions. **Haeckel (1866)** coined the term. **Ramdeo Misra** is called the father of Indian ecology. **Bionomics** is synonymous with ecology; it does **not** mean “management of life.”
@@ -85,6 +59,32 @@ Ecology – Meaning | Ecosystem | Types of Ecosystems | Terrestrial Ecosystem | 
 34. UP lotic examples include the **Ganga, Yamuna, and Gomti**. Terai forest and Vindhyan scrub are terrestrial examples.
 35. UP wetland examples include **Sur Sarovar (Agra)** and **Nawabganj (Unnao)**. Western UP sugarcane belts are classic agro-ecosystems.
 36. Odum is linked to modern ecosystem ecology; keep him separate from Haeckel (term ecology) and Tansley (term ecosystem). **Deep ecology** was coined by **Arne Næss (1973)**. **Ecological Transition** was used by **John W. Bennett**.
+
+---
+
+## Confused Pairs
+
+| Term | One-line difference | Hindi |
+|------|---------------------|-------|
+| **Ecology** | *Study* of organism–environment interactions | पारिस्थितिकी |
+| **Ecosystem** | Functional *unit* of biotic + abiotic interaction | पारिस्थितिकी तंत्र |
+| **Habitat** | *Place* where organism lives | निवास स्थान |
+| **Niche** | *Role/function* of species in ecosystem | पारिस्थितिक niche |
+| **Community** | All populations of different species in an area | समुदाय |
+| **Population** | Same species, same area, interbreeding group | जनसंख्या |
+| **Sere** | Entire sequence of communities in succession | अनुक्रमण श्रृंखला |
+| **Climax community** | Final stable, self-perpetuating community | चरम समुदाय |
+| **GPP** | Total energy fixed by producers (gross) | सकल प्राथमिक उत्पादकता |
+| **NPP** | GPP minus plant respiration | शुद्ध प्राथमिक उत्पादकता |
+| **Fundamental niche** | Full potential role without competition | मूल niche |
+| **Realized niche** | Actual role after competition limits | वास्तविक niche |
+| **Primary succession** | Starts on lifeless substrate | प्राथमिक अनुक्रमण |
+| **Secondary succession** | Starts where soil already exists | द्वितीयक अनुक्रमण |
+| **r-strategist** | Many offspring, fast growth, short life | r-रणनीतिकारी |
+| **K-strategist** | Few offspring, slow growth, long life | K-रणनीतिकारी |
+| **Ecotone** | Transition zone between two communities | इकोटोन |
+| **Bionomics** | Synonym of ecology — not “management of life” | बायोनॉमिक्स |
+| **Carrying capacity** | Max sustainable population for available resources | वहन क्षमता |
 
 ---
 

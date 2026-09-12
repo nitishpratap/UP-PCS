@@ -30,25 +30,6 @@ Festivals of India | State-wise Festivals | Folk Festivals | Tribal Festivals | 
 ---
 
 
-## Confused Pairs
-
-| A | B | Correct | Hindi |
-|---|----|------|-------|
-| Kumbh (4 sites) | Pushkar Fair | Prayagraj–Haridwar–Nashik–Ujjain vs Rajasthan camel fair | कुंभ / पुष्कर मेला |
-| Pushkar Fair | Pushkar Kumbh 2025 | Ajmer **Rajasthan**, Kartik vs **Mana, Uttarakhand**, May | पुष्कर मेला / पुष्कर कुंभ |
-| Magh Mela | Kumbh | Annual Prayagraj bath vs 12-year mega at a Kumbh site | माघ मेला / कुंभ |
-| Pongal | Onam | **Tamil Nadu** January vs **Kerala** Aug–Sep | पोंगल / ओणम |
-| Bihu | Hornbill | **Assam** harvest trio vs **Nagaland** Dec showcase | बिहू / हॉर्नबिल |
-| Garba | Bhangra | **Gujarat** Navratri vs **Punjab** Baisakhi | गरबा / भांगड़ा |
-| Durga Puja | Navratri | **Bengal** pandals vs 9-night goddess (Gujarat Garba) | दुर्गा पूजा / नवरात्रि |
-| Ramlila | Dussehra | Ramayana play (UNESCO 2008) vs Vijayadashami / Ravana effigy | रामलीला / दशहरा |
-| Surajkund | Pushkar Fair | **Haryana** Feb crafts vs **Rajasthan** Kartik livestock | सूरजकुंड / पुष्कर |
-| Ugadi | Gudi Padwa | AP/Telangana/Karnataka New Year vs Maharashtra New Year (same season) | उगादि / गुड़ी पड़वा |
-| Folk | Tribal | Peasant/community (Braj Holi) vs adivasi ritual (Sarhul) | लोक / आदिवासी |
-| Eid-ul-Fitr | Eid-ul-Adha | End of Ramadan vs Bakrid / sacrifice | ईद उल फितर / बकरीद |
-
----
-
 ## Consolidated — 26 Must-Score Facts
 
 1. The four **Kumbh** sites are **Prayagraj**, **Haridwar**, **Nashik**, and **Ujjain**. Their rivers are Ganga–Yamuna–Saraswati, Ganga, Godavari, and Shipra. **Pushkar** is not a Kumbh site.
@@ -77,6 +58,25 @@ Festivals of India | State-wise Festivals | Folk Festivals | Tribal Festivals | 
 24. Folk festivals such as **Braj Holi** are peasant / regional joy. Tribal festivals such as **Sarhul** are adivasi ritual calendars. Do not collapse folk and tribal into one label.
 25. **Kullu Dussehra** is Himachal. **Ratha Yatra** of Puri is Odisha. **Ganesh Chaturthi** is Maharashtra’s flagship. **Hemis** is the Ladakh monastery festival.
 26. These are **not** Uttar Pradesh festival homes: Pushkar Fair (Rajasthan), Pushkar Kumbh 2025 (Uttarakhand), Surajkund (Haryana), Onam (Kerala), Hornbill (Nagaland), and Tansen Samaroh (Gwalior).
+
+---
+
+## Confused Pairs
+
+| A | B | Correct | Hindi |
+|---|----|------|-------|
+| Kumbh (4 sites) | Pushkar Fair | Prayagraj–Haridwar–Nashik–Ujjain vs Rajasthan camel fair | कुंभ / पुष्कर मेला |
+| Pushkar Fair | Pushkar Kumbh 2025 | Ajmer **Rajasthan**, Kartik vs **Mana, Uttarakhand**, May | पुष्कर मेला / पुष्कर कुंभ |
+| Magh Mela | Kumbh | Annual Prayagraj bath vs 12-year mega at a Kumbh site | माघ मेला / कुंभ |
+| Pongal | Onam | **Tamil Nadu** January vs **Kerala** Aug–Sep | पोंगल / ओणम |
+| Bihu | Hornbill | **Assam** harvest trio vs **Nagaland** Dec showcase | बिहू / हॉर्नबिल |
+| Garba | Bhangra | **Gujarat** Navratri vs **Punjab** Baisakhi | गरबा / भांगड़ा |
+| Durga Puja | Navratri | **Bengal** pandals vs 9-night goddess (Gujarat Garba) | दुर्गा पूजा / नवरात्रि |
+| Ramlila | Dussehra | Ramayana play (UNESCO 2008) vs Vijayadashami / Ravana effigy | रामलीला / दशहरा |
+| Surajkund | Pushkar Fair | **Haryana** Feb crafts vs **Rajasthan** Kartik livestock | सूरजकुंड / पुष्कर |
+| Ugadi | Gudi Padwa | AP/Telangana/Karnataka New Year vs Maharashtra New Year (same season) | उगादि / गुड़ी पड़वा |
+| Folk | Tribal | Peasant/community (Braj Holi) vs adivasi ritual (Sarhul) | लोक / आदिवासी |
+| Eid-ul-Fitr | Eid-ul-Adha | End of Ramadan vs Bakrid / sacrifice | ईद उल फितर / बकरीद |
 
 ---
 

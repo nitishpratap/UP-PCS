@@ -15,25 +15,6 @@ Slogans | Newspapers & Journals | Books & Authors | Committees & Commissions | B
 
 ---
 
-## Confused Pairs
-
-| A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Do or Die | Give me blood | Gandhi QI vs Bose INA | करो या मरो / खून दो |
-| Inquilab | Swaraj birthright | Hasrat/Bhagat vs Tilak | इंकलाब / स्वराज |
-| Besant 1917 | Sarojini 1925 | First woman INC President vs first **Indian** woman | एनी / सरोजिनी |
-| Kesari (Pune) | Swadesh (Gorakhpur) | Tilak vs 2022 UP place-match | केसरी / स्वदेश |
-| Hunter 1882 | Hunter 1919 | Education vs Jallianwala inquiry | हंटर शिक्षा / हंटर पंजाब |
-| Belgaum 1924 | Lahore 1929 | Only Gandhi President vs Purna Swaraj | बेलगाव / लाहौर |
-| Shanti Ghosh | Aruna Asaf Ali | 1931 Bengal revolutionary vs QI 1942 | शांति / अरुणा |
-| Liyaqat Ali | Hazrat Mahal | Allahabad 1857 vs Lucknow 1857 | लियाकत / हजरत महल |
-| Red Fort | Gwalior Fort | INA trials vs **not** the INA court | लाल किला |
-| Rani Lakshmibai | Jhalkari Bai | The Rani herself vs the Dalit soldier who resembled her in battle | लक्ष्मीबाई / झलकारी बाई |
-| Cripps Mission 1942 | Cabinet Mission 1946 | Solo envoy, failed vs three-member mission with a grouping plan | क्रिप्स / कैबिनेट मिशन |
-| Nehru Report 1928 | Simon Commission 1927 | Indian response vs all-white British body | नेहरू रिपोर्ट / साइमन |
-
----
-
 ## Consolidated — 28 Must-Score Facts
 
 1. **“Swaraj is my birthright and I shall have it”** is **Tilak**. **“Do or Die”** is **Gandhi** at Quit India (**8 August 1942**).
@@ -64,6 +45,75 @@ Slogans | Newspapers & Journals | Books & Authors | Committees & Commissions | B
 26. **Garibi Hatao** is a later Indira-era slogan, not a 1920s freedom-struggle fact.
 27. This file is a **match vault**: slogans, press, sessions, treaties and UP names — event stories live in earlier chapters.
 28. Drill first the slogan six, the INC “first” six, the committee/mission six, and the British-official six — those rows carry the heaviest repeat weight.
+
+---
+
+## Confused Pairs
+
+| A | B | Difference | Hindi |
+|---|----|------------|-------|
+| Do or Die | Give me blood | Gandhi QI vs Bose INA | करो या मरो / खून दो |
+| Inquilab | Swaraj birthright | Hasrat/Bhagat vs Tilak | इंकलाब / स्वराज |
+| Besant 1917 | Sarojini 1925 | First woman INC President vs first **Indian** woman | एनी / सरोजिनी |
+| Kesari (Pune) | Swadesh (Gorakhpur) | Tilak vs 2022 UP place-match | केसरी / स्वदेश |
+| Hunter 1882 | Hunter 1919 | Education vs Jallianwala inquiry | हंटर शिक्षा / हंटर पंजाब |
+| Belgaum 1924 | Lahore 1929 | Only Gandhi President vs Purna Swaraj | बेलगाव / लाहौर |
+| Shanti Ghosh | Aruna Asaf Ali | 1931 Bengal revolutionary vs QI 1942 | शांति / अरुणा |
+| Liyaqat Ali | Hazrat Mahal | Allahabad 1857 vs Lucknow 1857 | लियाकत / हजरत महल |
+| Red Fort | Gwalior Fort | INA trials vs **not** the INA court | लाल किला |
+| Rani Lakshmibai | Jhalkari Bai | The Rani herself vs the Dalit soldier who resembled her in battle | लक्ष्मीबाई / झलकारी बाई |
+| Cripps Mission 1942 | Cabinet Mission 1946 | Solo envoy, failed vs three-member mission with a grouping plan | क्रिप्स / कैबिनेट मिशन |
+| Nehru Report 1928 | Simon Commission 1927 | Indian response vs all-white British body | नेहरू रिपोर्ट / साइमन |
+
+---
+
+## Must-score facts — highest-yield vault rows
+
+### Slogan ↔ person (top 6)
+
+| Slogan | Person |
+|--------|--------|
+| Swaraj is my birthright | Tilak |
+| Inquilab Zindabad | Hasrat Mohani (coined); Bhagat Singh (popularised) |
+| Do or Die | Gandhi, 1942 |
+| Give me blood and I will give you freedom | Bose |
+| One caste, one religion, one God | Sri Narayana Guru |
+| Educate, Agitate, Organise | Ambedkar |
+
+### INC President ↔ "first" tag (top 6)
+
+| President | "First" tag |
+|-----------|--------------|
+| W.C. Bonnerjee, 1885 | First session, Bombay |
+| Badruddin Tyabji, 1887 | First Muslim President |
+| George Yule, 1888 | First English President |
+| Annie Besant, 1917 | First woman President |
+| Sarojini Naidu, 1925 | First **Indian** woman President |
+| M.K. Gandhi, 1924 | **Only** session Gandhi presided — Belgaum |
+
+### Committee/Mission ↔ year (top 6)
+
+| Body | Year |
+|------|------|
+| Hunter Commission (education) | 1882 |
+| Hunter Committee (Punjab) | 1919–20 |
+| Simon Commission | 1927–30 |
+| Nehru Report | 1928 |
+| Cripps Mission | 1942 |
+| Cabinet Mission | 1946 |
+
+### British official ↔ signature policy (top 6)
+
+| Official | Signature |
+|----------|-----------|
+| Curzon | Partition of Bengal, 1905 |
+| Minto | Separate electorates, 1909 |
+| Chelmsford | Montford Act, 1919 |
+| Irwin | Gandhi–Irwin Pact, 1931 |
+| Willingdon | Communal Award, 1932 |
+| Mountbatten | 3 June Plan; last Viceroy |
+
+> **Logic:** These four tables carry the heaviest repeat weight across 2018–2025 papers. Drill them first if short on time.
 
 ---
 
@@ -485,56 +535,6 @@ Use this table to drill Governor-General–reform matching.
 | 1945 | Wavell / Simla; INA Trials |
 | 1946 | Cabinet Mission; RIN; Direct Action; Interim Govt |
 | 1947 | Mountbatten Plan 3 Jun; Independence Act 18 Jul; 15 Aug |
-
----
-
-## Must-score facts — highest-yield vault rows
-
-### Slogan ↔ person (top 6)
-
-| Slogan | Person |
-|--------|--------|
-| Swaraj is my birthright | Tilak |
-| Inquilab Zindabad | Hasrat Mohani (coined); Bhagat Singh (popularised) |
-| Do or Die | Gandhi, 1942 |
-| Give me blood and I will give you freedom | Bose |
-| One caste, one religion, one God | Sri Narayana Guru |
-| Educate, Agitate, Organise | Ambedkar |
-
-### INC President ↔ "first" tag (top 6)
-
-| President | "First" tag |
-|-----------|--------------|
-| W.C. Bonnerjee, 1885 | First session, Bombay |
-| Badruddin Tyabji, 1887 | First Muslim President |
-| George Yule, 1888 | First English President |
-| Annie Besant, 1917 | First woman President |
-| Sarojini Naidu, 1925 | First **Indian** woman President |
-| M.K. Gandhi, 1924 | **Only** session Gandhi presided — Belgaum |
-
-### Committee/Mission ↔ year (top 6)
-
-| Body | Year |
-|------|------|
-| Hunter Commission (education) | 1882 |
-| Hunter Committee (Punjab) | 1919–20 |
-| Simon Commission | 1927–30 |
-| Nehru Report | 1928 |
-| Cripps Mission | 1942 |
-| Cabinet Mission | 1946 |
-
-### British official ↔ signature policy (top 6)
-
-| Official | Signature |
-|----------|-----------|
-| Curzon | Partition of Bengal, 1905 |
-| Minto | Separate electorates, 1909 |
-| Chelmsford | Montford Act, 1919 |
-| Irwin | Gandhi–Irwin Pact, 1931 |
-| Willingdon | Communal Award, 1932 |
-| Mountbatten | 3 June Plan; last Viceroy |
-
-> **Logic:** These four tables carry the heaviest repeat weight across 2018–2025 papers. Drill them first if short on time.
 
 ---
 

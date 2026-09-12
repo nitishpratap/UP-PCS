@@ -28,17 +28,6 @@
 
 ---
 
-## Confused Pairs
-
-| Pair | Correct |
-|------|---------|
-| Silica sand–Pauri | **Wrong** in the 2025 question — use Dehradun / Nainital / Tehri |
-| Soapstone–Pithoragarh | Soapstone card is Chamoli–Bageshwar |
-| Dolomite–Almora | Dolomite card is Dehradun–Pithoragarh |
-| Power vs mineral | Do not answer hydropower questions with mineral districts |
-
----
-
 ## Must-Score Facts
 
 1. Silica sand ≠ Pauri Garhwal — use Dehradun, Nainital, Tehri Garhwal.
@@ -47,6 +36,17 @@
 4. Graphite — Almora, Nainital.
 5. Hydropower is the core power narrative; Tehri is the flagship on Bhagirathi.
 6. Industry concentrates in Tarai plains and Dehradun belt.
+
+---
+
+## Confused Pairs
+
+| Pair | Correct |
+|------|---------|
+| Silica sand–Pauri | **Wrong** in the 2025 question — use Dehradun / Nainital / Tehri |
+| Soapstone–Pithoragarh | Soapstone card is Chamoli–Bageshwar |
+| Dolomite–Almora | Dolomite card is Dehradun–Pithoragarh |
+| Power vs mineral | Do not answer hydropower questions with mineral districts |
 
 ---
 
