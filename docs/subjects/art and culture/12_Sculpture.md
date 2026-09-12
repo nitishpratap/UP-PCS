@@ -72,6 +72,37 @@ No new school-vs-stone CA (verified August 2026).
 
 ---
 
+## Must-score facts — schools, mudras, materials
+
+### Timeline / schools
+
+| School | Material / tag |
+|--------|----------------|
+| Mauryan polish | Mirror **Chunar** surface |
+| Bharhut / Sanchi | Shunga relief; early **aniconic** |
+| Gandhara | Grey **schist**; Greco-Roman |
+| Mathura | Red **sandstone**; **UP** |
+| Amaravati | **Limestone** narrative |
+| Gupta Sarnath | Ideal calm Buddha; dharmachakra |
+
+### Mudras / bronze
+
+| Mudra | Meaning |
+|-------|---------|
+| Dharmachakra | Teaching |
+| Bhumisparsha | Earth-touching |
+| Abhaya | Fearlessness |
+| Dhyana | Meditation |
+
+| Item | Lock |
+|------|------|
+| Human Buddha image | Common from **Kushan** age |
+| Dancing Girl | Indus **lost-wax** bronze |
+| Chola Nataraja | Processional bronze; damaru + fire; foot on Apasmara |
+| Stone map | Mathura red sandstone · Gandhara schist · Hoysala soapstone teaching |
+
+---
+
 ## 12.1 Indian Sculpture
 
 **Identity:** Stone, bronze and terracotta | Religion and court pay for it | Period ↔ school ↔ region

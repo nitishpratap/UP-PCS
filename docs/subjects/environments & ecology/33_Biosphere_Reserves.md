@@ -64,6 +64,24 @@ Biosphere Reserve | Major Biosphere Reserves of India | Biosphere Reserves of Ut
 
 ---
 
+## Must-score facts — MAB zones, India list tags
+
+### Frame
+
+| Item | Lock |
+|------|------|
+| BR model | UNESCO MAB **1971**; core → buffer → transition |
+| India count | **18** national; ~**13** UNESCO WNBR |
+| First / largest / smallest | Nilgiri **1986** / Great Rann of Kutch / Nokrek |
+| Nokrek state | **Meghalaya** (≠ Manipur) |
+| Manas UNESCO | Removed from WNBR **2011** (still national BR) |
+| UP BRs | **Zero**; Nanda Devi = Uttarakhand |
+| Newest notified | Panna **2011** (MP) |
+| MP trio | Pachmarhi · Achanakmar–Amarkantak · Panna |
+| Multi-state | Nilgiri TN–KA–KL; Agasthyamalai KL–TN |
+
+---
+
 ## 33.1 Biosphere Reserve
 
 **Identity:** UNESCO MAB 1971 | Core–Buffer–Transition | MoEFCC executive | No WPA category

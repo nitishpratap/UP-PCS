@@ -62,6 +62,56 @@ Rajput Warriors | Maharana Pratap | Battle of Haldighati | Rana Sanga | Rajput S
 
 ---
 
+## Must-score facts — clan, battle, Chittor
+
+### Clan ↔ state
+
+| Clan | State / seat |
+|------|--------------|
+| Sisodia | **Mewar** (Chittor → Udaipur) |
+| Rathore | **Marwar** (Jodhpur); Bikaner branch |
+| Kachhwaha | **Amber / Jaipur** |
+| Bhati | **Jaisalmer** |
+| Hada | **Bundi–Kota** |
+
+### Title tags
+
+| Title | House |
+|-------|-------|
+| Maharana / Rana | **Mewar** |
+| Rao | **Marwar / Bikaner** |
+
+### Battle ↔ year
+
+| Battle | Year | Lock |
+|--------|------|------|
+| Khanwa | **16 March 1527** | Babur vs **Rana Sanga** |
+| Haldighati | **18 June 1576** | Man Singh vs **Pratap** (Akbar absent) |
+| Sammel | **1544** | Sher Shah vs Maldeo; **Jayata–Kumpa** (Marwar) |
+| Alauddin’s Chittor | **1303** | Khalji sack |
+| Akbar’s Chittor | **1567–68** | Jaimal–Patta; jauhar |
+| Amar Singh–Jahangir peace | **1615** | Mewar honour kept |
+
+### Ruler ↔ lock
+
+| Ruler | Lock |
+|-------|------|
+| Rana Hammir | Mewar restorer (~**1326**); not Hamir Deva of Ranthambore |
+| Rana Kumbha | **Vijay Stambha** at Chittor |
+| Rana Sanga | Khanwa **1527** |
+| Maharana Pratap | Haldighati; died **1597** |
+| Rao Jodha | Founded **Jodhpur 1459** |
+| Man Singh | Amber; ~**7000** zat; Haldighati commander |
+
+### Monument pair (Chittor)
+
+| Tower | Lock |
+|-------|------|
+| Vijay Stambha | **Kumbha** victory tower |
+| Kirti Stambha | Older **Jain** tower |
+
+---
+
 ## 9.1 Rajput Warriors
 
 - Rajputs were **clan-lineages** claiming Kshatriya status, not a single empire.

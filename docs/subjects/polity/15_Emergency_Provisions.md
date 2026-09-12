@@ -80,6 +80,35 @@
 
 ---
 
+## Must-score facts — 352, 356, 360
+
+### Three Emergencies
+
+| Type | Article | Grounds / tag |
+|------|---------|---------------|
+| National | **352** | War, external aggression, armed rebellion |
+| President’s Rule | **356** | Failure of constitutional machinery (linked **355**) |
+| Financial | **360** | Threat to financial stability / credit |
+
+### National Emergency locks
+
+| Item | Lock |
+|------|------|
+| Advice | **Written Cabinet** advice (not PM alone) — 44th lesson |
+| Duration | **6 months** slices with approval; LS can disapprove |
+| Used | **1962**, **1971**, **1975–77** |
+| Art. 358 | Auto-suspends **Art. 19** only for war/external (not armed rebellion alone in refined teaching) |
+| Art. 359 | Can suspend enforcement; **20 & 21 never** |
+
+### President’s Rule
+
+| Item | Lock |
+|------|------|
+| Floor test | *Bommai* — majority in House |
+| Approval | Parliament within **2 months**; renewable |
+
+---
+
 ## Frame
 
 Emergency Provisions sit in **Part XVIII** (Arts. **352–360**).

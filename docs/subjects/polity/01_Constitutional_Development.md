@@ -100,20 +100,42 @@
 | English vs Hindi Calligrapher | **Prem Behari Narain Raizada** (English) vs **Vasant Krishan Vaidya** (Hindi) | Assume same person wrote both | अंग्रेज़ी = रायज़ादा; हिंदी = वैद्य |
 ---
 
-## Must-score facts
+## Must-score facts — Acts, missions, CA dates
 
-1. **1773** = GG Bengal + SC Calcutta **1774**; **1833** = GG India (Bentinck).
-2. **1853** = open ICS competition; **1861** = portfolio legal recognition.
-3. **1909** = Muslim separate electorates; Minto = Father of Communal Electorate; first Indian EC member = **S.P. Sinha**.
-4. **1919** = Dyarchy in provinces + Chamber of Princes; **1935** = Provincial Autonomy.
-5. Under 1935: Autonomy **yes**; Federation and Centre Dyarchy **no**; residuary with **Viceroy**; Federal Court **1937**.
-6. Bicameral provinces (6): Bengal, Bombay, Madras, Bihar, Assam, United Provinces.
-7. Communal Award **1932** (not 1933); Poona Pact = reserved seats + joint electorate.
-8. Interim announced **24 Aug 1946**; CA first meet **9 Dec 1946**; Drafting Committee **29 Aug 1947**.
-9. CA **389 (292+93+4) → 299**; **~15 women**; **indirect** election; Gandhi **not** a member; **284** signed.
-10. Minorities Sub-Committee = **H.C. Mukherjee**; Advisory Committee = **Patel**; joint electorates recommended.
-11. Adopt **26 Nov 1949**; enforce **26 Jan 1950**; Flag **22 Jul 1947**; last CA meet **24 Jan 1950**.
-12. Residuary source = **Canada**; Concurrent = **Australia**; FR = **USA**; DPSP = **Ireland**; Rau = Adviser; Ambedkar = Drafting Chair.
+### Act ↔ year / lock
+
+| Act | Lock |
+|-----|------|
+| Regulating Act | **1773** — GG of **Bengal**; SC Calcutta **1774** |
+| Pitt’s India Act | **1784** — Board of Control (political) / Court of Directors (commercial) |
+| Charter 1833 | GG of **India** (Bentinck first) |
+| Charter 1853 | Open **ICS** competition |
+| GOI Act 1858 | Crown rule; first Viceroy **Canning** |
+| Councils Act 1861 | Portfolio system legal recognition |
+| Councils Act 1909 | Muslim separate electorates; **S.P. Sinha** first Indian EC member |
+| GOI Act 1919 | **Dyarchy** in provinces; Chamber of Princes |
+| GOI Act 1935 | **Provincial Autonomy** (worked); Federation / Centre Dyarchy **did not** |
+| Communal Award | **1932** (not 1933); Poona Pact = reserved seats + joint electorate |
+
+### CA / transfer tags
+
+| Item | Lock |
+|------|------|
+| Interim announced / office | **24 Aug 1946** / **2 Sep 1946** |
+| CA first meet | **9 Dec 1946** |
+| Drafting Committee | **29 Aug 1947**; Chair **Ambedkar**; Adviser **B.N. Rau** |
+| CA strength | **389 → 299**; ~**15** women; **284** signed |
+| Adopt / Enforce | **26 Nov 1949** / **26 Jan 1950** |
+| Flag | **22 Jul 1947** |
+
+### Borrowed features (quick)
+
+| Feature | Source |
+|---------|--------|
+| Residuary | **Canada** |
+| Concurrent List | **Australia** |
+| Fundamental Rights | **USA** |
+| DPSP | **Ireland** |
 
 ---
 

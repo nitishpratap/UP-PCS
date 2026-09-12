@@ -78,6 +78,25 @@ Renewable | Non-renewable | Conventional | Non-conventional | Solar | Wind | Bio
 
 ---
 
+## Must-score facts — conventional vs non-conventional
+
+### Classifications
+
+| Item | Lock |
+|------|------|
+| Renewable | Sun, wind, water, biomass, geothermal |
+| Non-renewable | Coal, oil, gas, uranium (nuclear fuel ≠ fossil) |
+| Indian conventional | Coal, oil, gas, **large hydro**, nuclear |
+| Non-conventional | Solar, wind, biomass, biogas, tidal, SHP… |
+| Fossil ultimate source | **Sun** (ancient photosynthesis) |
+| UN Decade Sustainable Energy | **2014–2024** (UNGA; SDG 7) |
+| Biogas majors | CH₄ + CO₂ |
+| Bioethanol / Biodiesel | Petrol blend / diesel blend (Jatropha, UCO…) |
+| OTEC vs tidal | Warm–cold water ΔT / Moon-driven sea level |
+| SHP | ≤**25 MW** |
+
+---
+
 ## 27.1 Renewable Energy
 
 **Identity:** Human-timescale replenishment | MNRE sources | Cleaner than fossils | Intermittency challenge

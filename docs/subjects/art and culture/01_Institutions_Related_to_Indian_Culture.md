@@ -74,6 +74,35 @@ Indological Studies | Gurukul System | Ancient Indian Education System | Nalanda
 
 ---
 
+## Must-score facts — societies, colleges, museums
+
+### Institution ↔ year / founder
+
+| Institution | Lock |
+|-------------|------|
+| Asiatic Society of Bengal | **1784**, Calcutta; **William Jones** (Hastings declined presidency) |
+| Fort William College | **1800**; **Wellesley** |
+| Benares Sanskrit College | **1791**; **Jonathan Duncan** |
+| Sanskrit College, Calcutta | **1824** |
+| Bhandarkar O.R.I., Pune | **1917** |
+| Kangri Gurukul, Haridwar | **1902**; Dayananda / Arya Samaj line |
+| Indian Museum, Kolkata | **1814** — India’s oldest museum |
+| National Museum, Delhi | **1949** |
+
+### Learning / mahavihara tags
+
+| Item | Lock |
+|------|------|
+| Gurukul | Residential guru–shishya; dakshina ≠ monthly fee |
+| 18 Vidyas / 64 Kalas | Classical learning counts |
+| Ashrama order | Brahmacharya → Grihastha → Vanaprastha → Sannyasa |
+| Nalanda | Pala Bihar; Hiuen Tsang; destroyed ~1193 |
+| New Nalanda University | **MEA**, Act **2010**, campus **Rajgir** (≠ Culture Ministry) |
+| Taxila | Gandhara / **Pakistan**; Panini–Chanakya link |
+| Vikramashila | Bhagalpur; **Dharmapala**; Atisha; fell ~1203 |
+
+---
+
 ## 1.1 Indological Studies
 
 **Fact event:** Asiatic Society of Bengal, **15 January 1784**, Calcutta.

@@ -97,6 +97,30 @@
 
 ---
 
+## Must-score facts — key Acts & chairs
+
+### Act ↔ lock
+
+| Act | Lock |
+|-----|------|
+| DM Act 2005 | NDMA = **PM**; SDMA = CM; NDRF ≠ Response **Fund** |
+| RTI 2005 | Assent 15 Jun; force **12 Oct 2005**; s.22 overrides OSA to that extent |
+| RTE 2009 | Force **1 Apr 2010**; ages **6–14** |
+| NFSA 2013 | Up to **75%** rural / **50%** urban |
+| FRA 2006 | Starts at **Gram Sabha** |
+| PHRA 1993 | NHRC; **1-year** complaint limit |
+| Lokpal Act 2013 | Statutory anti-corruption apex |
+| CAA 2019 | Selected minorities; cut-off **31 Dec 2014** |
+
+### Governance tags
+
+| Item | Lock |
+|------|------|
+| NITI Aayog | 2015; think-tank; replaced Planning Commission |
+| GST | 101st Amd; GST Council |
+
+---
+
 ## Frame
 
 This chapter is about **which Act, which year, and which coverage trap** — plus **how the State actually delivers** on the ground (e-governance, citizen charters, the ARCs).

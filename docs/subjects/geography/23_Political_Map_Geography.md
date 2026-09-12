@@ -142,6 +142,42 @@ D. 8 degrees 4' N to 37 degrees 6' N
 
 ---
 
+## Must-score facts — UNCLOS, borders, straits
+
+### UNCLOS distances
+
+| Zone | Distance |
+|------|----------|
+| Territorial sea | **12 nm** |
+| Contiguous zone | **24 nm** |
+| EEZ | **200 nm** |
+| Continental shelf max | Up to **350 nm** (conditions) |
+| Innocent passage | Territorial sea |
+| Transit passage | International straits |
+
+### Borders / lines
+
+| Line | Lock |
+|------|------|
+| McMahon | India–China (1914) |
+| Durand | Pakistan–Afghanistan (1893) |
+| Radcliffe | 1947 India–Pakistan |
+| Longest Indian state coastline | **Gujarat** |
+| Longest land border | **Bangladesh** |
+| Shortest land border | **Afghanistan** (teaching) |
+| Area ladder | Russia > Canada > USA > China > Brazil > Australia > **India (7th)** |
+
+### Straits
+
+| Strait | Lock |
+|--------|------|
+| Hormuz | Gulf oil |
+| Malacca | Indian Ocean–South China Sea |
+| Gibraltar | Med–Atlantic |
+| Bosporus | Black Sea–Marmara |
+
+---
+
 ## N.0 Framework — Political & Map Geography
 
 **Identity:** This chapter is the **atlas + UNCLOS** home. Distances, boundary lines, capitals, landlocked status and chokepoints all live here.

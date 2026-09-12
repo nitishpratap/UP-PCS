@@ -64,6 +64,25 @@ Carbon Footprint | Ecological Footprint | Net Zero Emissions | Green Economy | B
 
 ---
 
+## Must-score facts — footprints, net zero, hydrogen, plastics
+
+### Current locks
+
+| Item | Lock |
+|------|------|
+| Carbon footprint | tCO₂e; Scope 1/2/3 |
+| Ecological footprint | gha demand (≠ tCO₂e) |
+| India net zero | **2070** |
+| Emissions Gap | **UNEP** |
+| Green / Blue / Circular | Low-carbon inclusive / ocean SDG14 / 3R–EPR SDG12 |
+| MISHTI | Budget **2023** (≠ 2019) |
+| Green H₂ mission | Jan **2023**; ~5 MMT by 2030 |
+| Grey / Blue / Green H₂ | Gas reform / +CCS / RE electrolysis |
+| Microplastics | <5 mm; SUP ban push **2022** |
+| Climate refugees | Mostly IDPs; not 1951 Refugee Convention category |
+
+---
+
 ## 44.1 Carbon Footprint
 
 **Identity:** Total GHGs as tCO₂e | Scope 1/2/3 | India low per capita, high total

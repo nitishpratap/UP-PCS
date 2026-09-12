@@ -117,6 +117,38 @@ D. Lazzatnama
 
 ---
 
+## Must-score facts — akademis, Bharat Ratna, GI
+
+### Three Culture akademis (Rabindra Bhavan)
+
+| Akademi | Year / remit |
+|---------|----------------|
+| Sangeet Natak | **1952** — music, dance, **theatre** |
+| Sahitya | **1954** — literature (**24** languages) |
+| Lalit Kala | Visual arts; National Awards; Lucknow centre |
+
+### Awards / traps
+
+| Item | Lock |
+|------|------|
+| Sahitya languages | 22 Eighth Schedule + English + Rajasthani (**Bhojpuri out**) |
+| Jnanpith | Bharatiya Jnanpith trust from **1965** (≠ government akademi) |
+| Bharat Ratna (culture) | M.S. Subbulakshmi **1998** first musician; etc. |
+| **Not** Bharat Ratna | Birju Maharaj; Ustad Zakir Hussain (tabla); Tagore already Nobel era trap |
+| Zakir Husain vs Zakir Hussain | President **1963** BR ≠ tabla maestro |
+| Yuva Puraskar vs Bismillah Khan Yuva | Sahitya ≤35 authors / SNA young **performing** |
+
+### GI
+
+| Item | Lock |
+|------|------|
+| Act / Registry | **1999**; **Chennai**; DPIIT/Commerce |
+| First Indian GI | Darjeeling Tea teaching |
+| UP culture GIs | Banarasi brocade; Chikankari |
+| Blue Pottery | **Jaipur** (≠ UP) |
+
+---
+
 ## 16.1 Bharat Ratna (Culture)
 
 **Identity:** Highest civilian honour | Instituted **1954** | PM recommends to the President

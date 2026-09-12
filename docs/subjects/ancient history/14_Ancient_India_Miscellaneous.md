@@ -76,6 +76,61 @@ Taught in that order. World cores start with Mesopotamia, not with the later-fam
 
 ---
 
+## Must-score facts — world civs, Puranas, Kakatiya
+
+### Old World Bronze cores
+
+| Civilization | Lock |
+|--------------|------|
+| Mesopotamia | Tigris–Euphrates; **cuneiform**; **ziggurat** (temple) |
+| Egypt | Nile; hieroglyphs; **pyramid** (tomb) |
+| Indus | ~2600–1900 BCE; grid / drains; undeciphered script |
+| Shang China | Yellow River; readable **oracle-bone** script |
+
+### Purana / philosophy tags
+
+| Item | Lock |
+|------|------|
+| Mahapuranas | **18** (+ 18 Upapuranas) |
+| Vishnu Purana | Preserves **Mauryan** genealogy |
+| Vayu Purana | Does **not** give usable Gupta governance |
+| Shriparvatiya | **Ikshvakus** of Nagarjunakonda |
+| Charvaka / Lokayata | Perception only; denies soul / karma fruit |
+| Charaka | Ayurveda (*Charaka Samhita* **120** ch / **8** sections) ≠ Charvaka |
+| Sushruta | Surgery fact |
+
+### Kakatiya tags
+
+| Item | Lock |
+|------|------|
+| Capital | **Warangal (Orugallu)**; early **Hanamkonda** |
+| Order | Prola II → Rudradeva → Ganapati → **Rudrama Devi** → Prataparudra II (last) |
+| Rudrama | Reigning queen as **Rudradeva Maharaja** |
+| Thousand Pillar Temple | Hanamkonda; **Rudradeva** (~1163) |
+| Ramappa Temple | Palampet **1213**; UNESCO **2021** |
+| Fall | Tribute to Malik Kafur **1310**; end **1323** |
+| Motupalli | Ganapati sea-merchant charter (*Mutfili* in Marco Polo) |
+
+### Capital match set
+
+| Dynasty | Capital |
+|---------|---------|
+| Pallava | Kanchi |
+| Pandya | Madurai |
+| Yadava | Devagiri |
+| Kakatiya | **Warangal** |
+
+### Historiography books
+
+| Author | Book |
+|--------|------|
+| Jayaswal | *Hindu Polity* |
+| Basham | *Wonder that was India* |
+| Kosambi | *Introduction to the Study of Indian History* |
+| Smith | *Early History of India* |
+
+---
+
 ## Books and Writers — Miscellaneous
 
 **Book–writer pairs | historiography four + medical samhitas**

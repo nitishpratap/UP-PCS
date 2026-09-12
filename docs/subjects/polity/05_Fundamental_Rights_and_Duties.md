@@ -78,18 +78,48 @@
 
 ---
 
-## Must-score facts
+## Must-score facts — FR groups, writs, DPSP, Duties
 
-1. Citizens-only FRs: **15, 16, 19, 29, 30**; Art. **14/20/21** = all persons.
-2. Property **not** in present Art. 19 — deleted by **44th**; now **300A**.
-3. Art. **20** = three protections only; **torture ≠ 20**.
-4. Privacy = **Art. 21** (*Puttaswamy* 2017); RTE = **21A / 86th**.
-5. Exploitation = **23–24**; Untouchability = **17**.
-6. Art. **32** = FR only (heart and soul); **226** wider; Prohibition **before** / Certiorari **after**.
-7. Emergency: **358** suspends Art. 19 (war/external); **359** never suspends **20 & 21**.
-8. DPSP Ireland / non-justiciable (**37**); **43A** workers ≠ **43B** co-ops; **48** ≠ **50**.
-9. Environment in **both** 48A and 51A(g); monuments = **49 DPSP**, not a Duty.
-10. Duties: **42nd** (10) + **86th** (51A(k)); **vote is NOT a Duty** (2021).
+### Citizens-only vs all persons
+
+| Only citizens | All persons |
+|---------------|-------------|
+| **15, 16, 19, 29, 30** | **14, 20, 21, 21A, 22, 23–24, 25–28, 32** |
+
+### Six FR groups (present)
+
+| Group | Articles |
+|-------|----------|
+| Equality | **14–18** |
+| Freedom | **19–22** |
+| Against exploitation | **23–24** |
+| Religion | **25–28** |
+| Culture & education | **29–30** |
+| Constitutional remedies | **32** |
+
+### Key article locks
+
+| Article | Lock |
+|---------|------|
+| 17 | Untouchability (≠ exploitation 23–24) |
+| 19 | Six freedoms; property **19(1)(f)** deleted by **44th** → **300A** |
+| 20 | Ex post facto · double jeopardy · self-incrimination (torture ≠ 20 alone) |
+| 21 | Life / liberty; privacy = *Puttaswamy* **2017** |
+| 21A | RTE ages **6–14** (**86th**) |
+| 32 vs 226 | FR only / FR + other legal rights |
+| Prohibition vs Certiorari | **Before** decision / **After** to quash |
+| 358 / 359 | Art. 19 auto-suspend (war/external); **20 & 21 never** suspended |
+
+### DPSP / Duties
+
+| Item | Lock |
+|------|------|
+| DPSP | Part IV **36–51**; Ireland; non-justiciable (**37**) |
+| 43A vs 43B | Workers’ participation vs cooperatives |
+| 48 vs 50 | Cattle/agriculture vs separation of judiciary |
+| 48A + 51A(g) | Environment in **both** Parts |
+| Duties | **42nd** (10) + **86th** 51A(k); **vote is NOT a Duty** |
+| Monuments | DPSP **49** (not a Duty) |
 
 ---
 

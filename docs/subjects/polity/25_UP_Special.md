@@ -102,6 +102,37 @@ Newest first. One event, one fact.
 
 ---
 
+## Must-score facts — UP polity tags
+
+### Capitals / firsts
+
+| Item | Lock |
+|------|------|
+| Capital | **Lucknow** (Raj Bhavan / Vidhan Bhavan) |
+| HC principal seat | **Prayagraj (Allahabad)** |
+| First Governor | **Sarojini Naidu** (15 Aug 1947) |
+| First CM | **Govind Ballabh Pant** |
+| First woman CM | **Sucheta Kripalani** |
+
+### Legislature / CoM
+
+| Item | Lock |
+|------|------|
+| Assembly | **403** elected (largest in India) |
+| Council | **100**; 1/3 retire every 2 years |
+| Council mix | 36 local + 8 graduates + 8 teachers + 36 MLAs + 12 Governor nominees |
+| CoM size cap | **15%** of Assembly (**91st**) |
+| Art. 371 series | **None** for UP |
+| Secretariat | **Lucknow** |
+
+### Pre-Uttarakhand
+
+| Item | Lock |
+|------|------|
+| Before **9 Nov 2000** | Larger Assembly strength (Uttarakhand carved out) |
+
+---
+
 ## Frame
 
 UP’s meat is **numbers plus one geography of power**: Lucknow runs the government; Prayagraj runs the High Court **and UPPSC**; Uttarakhand (9 Nov 2000) is why 425/85/34 became **403/80/31**. Local polls = SEC; recruitment = UPPSC. **Noida is not a Nagar Nigam.**

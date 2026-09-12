@@ -102,6 +102,41 @@
 
 ---
 
+## Must-score facts — parks, rivers, soils, Census
+
+### Parks / wetlands
+
+| Item | Lock |
+|------|------|
+| Only National Park | **Dudhwa** (Lakhimpur Kheri) |
+| Chandraprabha | Sanctuary — **Chandauli** |
+| Forest cover | ~**6%** (not 12.8%) |
+| Ramsar count (teaching) | **13** in UP |
+| Not in UP | Rudrasagar, Sultanpur, Surinsar–Mansar |
+
+### Rivers / soils / agri
+
+| Item | Lock |
+|------|------|
+| Ramganga–Ganga meet | **Kannauj** |
+| Betwa–Yamuna meet | **Hamirpur** (≠ Prayagraj) |
+| Bundelkhand soils | Mar/Kabar = **black**; Parua/Rakar = **red** |
+| Alluvial share | ~**90%** of UP |
+| Matatila | Betwa — **Lalitpur** |
+| Potato | UP leads quantity; CIP **Agra (Singna)** |
+| Mentha | Rohilkhand / Tarai belts |
+
+### Admin / Census traps
+
+| Item | Lock |
+|------|------|
+| Devipatan HQ | **Gonda** (≠ Basti) |
+| Lowest female literacy (common) | **Shrawasti** |
+| NER HQ | **Gorakhpur** |
+| Smart Cities | **10**; **Ghaziabad** out of central list teaching |
+
+---
+
 ## N.0 Framework — Geography of Uttar Pradesh
 
 **Identity:** Uttar Pradesh is a **Gangetic plains state**. After **9 November 2000**, the Himalaya sits in Uttarakhand, not inside present UP.

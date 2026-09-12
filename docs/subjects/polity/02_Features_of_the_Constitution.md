@@ -89,23 +89,52 @@
 
 ---
 
-## Must-score facts
+## Must-score facts — type, Preamble, scholars
 
-1. **Type of government** = **Parliamentary** + **Democratic Republic**; polity = **quasi-federal Union** — **not** Presidential.
-2. Ambedkar: **federal in form, unitary in spirit**; federation **not** born from State agreement; no secession.
-3. Parliamentary test = executive **responsible to legislature** (Lok Sabha); dual executive = President nominal, PM real.
-4. Lengthiest written Constitution; reasons include single Constitution for Centre and States + diversity + GOI Act 1935 base.
-5. Blend of rigidity and flexibility — Arts. 2–4 path ≠ Art. 368 for every change.
-6. Quasi-federal = **K.C. Wheare**; Cooperative = **Austin**; Bargaining = **Morris-Jones**; Centralising = **Jennings**.
-7. Parliamentary system first introduced in **UK**; eight parliamentary features = majority rule, collective responsibility, homogeneity, double membership, PM leadership, dissolution, Cabinet secrecy, Official Opposition.
-8. Preamble counts **3, 5, 2, 1**; **Federal** not in Preamble; 42nd added **Socialist + Secular** (+ integrity); Palkhivala = **identity card**; Munshi = **political horoscope**; Ambedkar **heart and soul** = **Art. 32**, not Preamble.
-9. On **26 Jan 1950** = **Sovereign Democratic Republic** only; full present text = Sovereign Socialist Secular Democratic Republic.
-10. Preamble is **part** of Constitution (*Kesavananda* / *Bommai*) but **non-justiciable**; *Berubari* earlier said not part.
-11. Basic Structure = **Kesavananda 1973**; Minerva Mills 1980 restored limits.
-12. Single citizenship; voting age 18 by **61st**; third tier **1992**.
-13. Residuary with **Centre** (Canada); **Concurrent List** = Australia; FR = USA; DPSP = Ireland.
-14. GOI Act **1935** = structural borrow; UAF + Basic Structure = Indian originality.
-15. Flag adopted **22 July 1947**; Anthem **24 Jan 1950** (~52 sec); Emblem **26 Jan 1950**; Saka calendar **22 Mar 1957**.
+### Type / design tags
+
+| Item | Lock |
+|------|------|
+| Type of government | **Parliamentary** + Democratic Republic |
+| Polity structure | **Quasi-federal Union** (not Presidential) |
+| Ambedkar line | Federal in form, **unitary in spirit** |
+| Dual executive | President nominal; PM real; responsible to **Lok Sabha** |
+| Art. 1 | **Union of States** (word “federation” unused) |
+| Third tier | **73rd / 74th**, **1992** |
+| Voting age 18 | **61st** Amendment |
+
+### Federalism scholars
+
+| Scholar | Label |
+|---------|-------|
+| K.C. Wheare | Quasi-federal |
+| Granville Austin | Cooperative |
+| Morris-Jones | Bargaining |
+| Jennings | Centralising tendency |
+
+### Preamble locks
+
+| Item | Lock |
+|------|------|
+| Counts | Justice **3** · Liberty **5** · Equality **2** · Fraternity **1** |
+| Word **Federal** | **Not** in Preamble |
+| 26 Jan 1950 text | Sovereign Democratic Republic only |
+| 42nd (1976) | Added **Socialist + Secular** (+ integrity) |
+| Status | Part of Constitution; **non-justiciable** |
+| Palkhivala | **Identity card** |
+| Ambedkar “heart and soul” | **Art. 32** (not Preamble) |
+
+### Borrowed map
+
+| Feature | Source |
+|---------|--------|
+| Parliamentary / writs | UK |
+| FR / judicial review | USA |
+| DPSP | Ireland |
+| Residuary with Centre | Canada |
+| Concurrent List | Australia |
+| Emergency model | Germany |
+| Procedure established by law (21) | Japan |
 
 ---
 

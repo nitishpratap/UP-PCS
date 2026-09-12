@@ -71,6 +71,23 @@ MoEFCC | CPCB | SPCB | NGT | NEERI | WII | BSI | ZSI | FSI
 
 ---
 
+## Must-score facts — MoEFCC, CPCB, NGT, surveys
+
+### HQ map
+
+| Item | Lock |
+|------|------|
+| MoEF → MoEFCC | **1985** → **2014**; Delhi |
+| CPCB | Water Act **1974**; Delhi; NAAQS; coordinates SPCBs |
+| UPPCB | Lucknow |
+| NGT | Act **2010** (ops 2011); Delhi + Bhopal/Pune/Kolkata/Chennai |
+| NGT Chair | Retired SC judge **or** HC Chief Justice |
+| WII / FSI | **1982** / **1981**; both **Dehradun** |
+| BSI / ZSI | **1890** / **1916**; both **Kolkata** |
+| NEERI | **1958** Nagpur; CSIR (≠ MoEFCC) |
+
+---
+
 ## 16.1 Ministry of Environment, Forest and Climate Change (MoEFCC)
 
 **Identity:** Nodal ministry | 1985/2014 | Delhi | Category A EC | PARIVESH

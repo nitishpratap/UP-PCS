@@ -76,6 +76,38 @@ No 2025–26 scheme rewrites mansab or Din-i-Ilahi (verified August 2026).
 
 ---
 
+## Must-score facts — painting, architecture, admin culture
+
+### Painting / books
+
+| Item | Lock |
+|------|------|
+| Humayun masters | Mir Sayyid Ali, Abdus Samad |
+| Akbar | Kitabkhana; illustrated atelier |
+| Baburnama language | **Chagatai Turki** (court = **Persian**) |
+| Abul Fazl | *Akbarnama* (narrative) + *Ain-i-Akbari* (gazetteer) |
+| Death order | Faizi 1595 → Mubarak 1597 → Abul Fazl 1602 → Daniyal 1604 |
+
+### Architecture / tombs
+
+| Item | Lock |
+|------|------|
+| Sultanate spine | Qutub → Alai Darwaza → Jaunpur Sharqi |
+| Mughal spine | Humayun’s Tomb (charbagh) → Fatehpur Sikri → Taj |
+| Tomb places | Babur **Kabul** · Humayun **Delhi** · Jahangir **Lahore** · Shah Jahan **Agra** |
+| Buland Darwaza | Akbar’s **Gujarat victory** (≠ Jahangir birth) |
+
+### Admin culture tags
+
+| Term | Lock |
+|------|------|
+| Iqta / Khalsa | Muqti revenue / crown land |
+| Mansab | Zat + sawar (not originally hereditary) |
+| Zabt / Dahsala | Measurement / Todar Mal 10-year average (~1580) |
+| Dam | Copper coin Sher Shah → Akbar |
+
+---
+
 ## 11.1 Medieval Indian Art
 
 **Identity:** Sultanate book-art + Mughal kitabkhana + Rajput/Pahari courts

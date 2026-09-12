@@ -79,6 +79,40 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 
 ---
 
+## Must-score facts — Darshanas, Vedanta, Buddhism
+
+### Astika six (accept Veda)
+
+| School | Founder / tag |
+|--------|---------------|
+| Nyaya | **Gautama** — logic (≠ Buddha) |
+| Vaisheshika | **Kanada** — atomism |
+| Samkhya | **Kapila** — Purusha–Prakriti; 25 tattvas; classically nirishvara |
+| Yoga | **Patanjali** — practical partner of Samkhya |
+| Purva Mimamsa | **Jaimini** — Vedic ritual |
+| Uttara Mimamsa / Vedanta | **Badarayana** — Upanishads |
+
+### Nastika / Yoga / Vedanta
+
+| Item | Lock |
+|------|------|
+| Nastika set | Charvaka, Buddhism, Jainism (+ Ajivika / Gosala) |
+| Ashtanga Yoga order | yama → niyama → asana → pranayama → pratyahara → dharana → dhyana → samadhi |
+| Shankara / Ramanuja / Madhva | Advaita / Vishishtadvaita / Dvaita |
+| Shankara mathas | Sringeri–Yajur · Dwaraka–Sama · Puri–Rig · Badri–Atharva |
+| Vedic stack | Samhita → Brahmana → Aranyaka → Upanishad |
+
+### Buddhism quick
+
+| Item | Lock |
+|------|------|
+| Life geography | Lumbini → Bodh Gaya → **Sarnath** → **Kushinagar** |
+| Councils | Rajagriha → Vaishali → Pataliputra → Kundalvana |
+| Theravada / Mahayana | Arhat + Pali / Bodhisattva + Sanskrit |
+| *Milindapanha* | Menander–**Nagasena** |
+
+---
+
 ## 2.1 Six Schools of Indian Philosophy (Shad Darshana)
 
 **Meaning:** Darshana = a “view” aimed at liberation. Astika = Veda is a valid pramana. Nastika = rejects Vedic infallibility (not the same as modern “atheist”).

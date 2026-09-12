@@ -92,6 +92,36 @@
 
 ---
 
+## Must-score facts — suffrage, systems, RPA
+
+### Articles
+
+| Article | Lock |
+|---------|------|
+| 324 | EC superintendence |
+| 326 | Universal adult suffrage |
+| 327 / 328 | Parliament / State election law |
+| 329 | Bar on court interference (election petition path) |
+| 61st | Voting age **21 → 18** |
+
+### Systems
+
+| System | Used for |
+|--------|----------|
+| First Past the Post | Lok Sabha; Vidhan Sabha |
+| PR-STV | President; VP; Rajya Sabha; State Councils |
+
+### Quick locks
+
+| Item | Lock |
+|------|------|
+| Prisoner vote | Generally **no** (RPA 62(5)); undertrial nuance in teaching |
+| Bye-election | Ordinarily within **6 months** |
+| Presidential MLA vote value | **1971** population formula |
+| Model Code | EC-enforced; not in Constitution text |
+
+---
+
 ## Frame
 
 The **poll**: who votes, how seats are drawn, which system, parties, devices, petitions. ECI itself: Art. **324**; CEC removed like an **SC judge**; other ECs only on the **CEC’s recommendation**; 2023 panel = PM + LoP LS + Cabinet Minister (**CJI out**); first CEC **Sukumar Sen**; first woman **V.S. Ramadevi (1990)**.

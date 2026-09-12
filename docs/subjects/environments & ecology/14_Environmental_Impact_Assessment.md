@@ -65,6 +65,25 @@ Environmental Impact Assessment (EIA) | Strategic Environmental Assessment (SEA)
 
 ---
 
+## Must-score facts — EIA stages, categories, SEA
+
+### Framework
+
+| Item | Lock |
+|------|------|
+| Legal base | EPA **1986**; Notification **1994** → **2006** frame |
+| Category A / B | MoEFCC–EAC central / SEIAA–SEAC state |
+| B1 / B2 | Full EIA (+ hearing usual) / simplified |
+| General Condition | Sensitive-area B treated as A |
+| Four stages | Screening → scoping → public consultation → appraisal |
+| Screening | Category **B** only |
+| Rapid vs comprehensive | One season / all seasons |
+| EC granter | MoEFCC/SEIAA (EAC/SEAC recommend only) |
+| NGT / PARIVESH | Act **2010** appeals / MoEFCC online portal |
+| SEA | Policies–plans–programmes; India has no standalone SEA statute |
+
+---
+
 ## 14.1 Environmental Impact Assessment (EIA)
 
 **Identity:** EPA 1986 | EIA Notification 2006 | Category A/B | Four stages | EC before construction

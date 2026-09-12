@@ -102,6 +102,43 @@ Yuva Puraskar is Sahitya Akademi’s young-writer prize (under 35), not Jnanpith
 
 ---
 
+## Must-score facts — Vedas, authors, classical languages
+
+### Shruti / epics
+
+| Item | Lock |
+|------|------|
+| Shruti stack | Samhita → Brahmana → Aranyaka → Upanishad |
+| Four Vedas | Rig · Sama · Yajur · Atharva |
+| Ramayana / Mahabharata | Valmiki **7** kandas / Vyasa **18** parvas |
+| Itihasa vs Purana | Epics vs 18 Maha Puranas |
+
+### Author ↔ work (high-yield)
+
+| Author | Work |
+|--------|------|
+| Kalidasa | *Meghaduta*, *Raghuvamsha*, *Shakuntala*… |
+| Bhartrihari | *Shringara Shataka* |
+| Panini / Patanjali | *Ashtadhyayi* / *Mahabhashya* |
+| Charaka / Sushruta | Medicine / surgery |
+| Banabhatta | *Harshacharita*, *Kadambari* |
+| Jayadeva | *Gita Govinda* |
+| Tulsidas / Surdas | Awadhi *Ramcharitmanas* / Braj |
+| Kabir | Maghar / Sant Kabir Nagar |
+
+### Language tags
+
+| Item | Lock |
+|------|------|
+| 8th Schedule | **22** languages; **Bhojpuri out** |
+| Sahitya Akademi | **24** languages (22 + English + Rajasthani) |
+| Classical languages | **11** after **3 Oct 2024** |
+| Early classical years | Tamil 2004 · Sanskrit 2005 · Kannada/Telugu 2008 · Malayalam 2013 · Odia 2014 |
+| Alvars / Nayanars | **12** Vaishnava / **63** Shaiva |
+| Court–poet | CG II–Kalidasa; Samudragupta–Harisena; Harsha–Bana |
+
+---
+
 ## 8.1 Ancient Indian Literature
 
 **Span:** Vedic oral → sutra → epic → classical Sanskrit | **Split:** Shruti vs Smriti

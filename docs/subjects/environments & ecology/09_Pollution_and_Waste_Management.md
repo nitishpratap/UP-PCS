@@ -78,6 +78,23 @@ Environmental Pollution | Environmental Degradation | Air Pollution | Water Poll
 
 ---
 
+## Must-score facts — pollutants, AQI, smog, laws
+
+### Basics
+
+| Item | Lock |
+|------|------|
+| Primary / Secondary | Emitted direct / formed in air (O₃, PAN, acid rain) |
+| Point / Non-point | Chimney–drain / farm runoff–roads |
+| Law years | Water **1974** → Air **1981** → EPA **1986**; Noise Rules **2000** |
+| AQI 8 pollutants | PM10, PM2.5, NO₂, CO, O₃, SO₂, NH₃, Pb (**not** CO₂/CH₄) |
+| London / LA smog | SO₂+smoke / NOx+VOCs+sun → O₃+PAN |
+| CO / Lead | Hb affinity ~200–300× / IQ–brain harm |
+| Lichens / Radon | SO₂ bio-indicator / top indoor pollutant |
+| NCAP / BS-VI | **2019** / **2020** |
+
+---
+
 ## 9.1 Environmental Pollution
 
 **Identity:** Beyond absorption capacity | Point/non-point | Primary/secondary | Water–Air–EPA laws

@@ -87,6 +87,65 @@ Indus Valley Civilization | Features of Harappan Civilization | Major Harappan S
 
 ![img_1.png](img_1.png)
 
+## Must-score facts — site, excavator, UP trio
+
+### Discoverer / excavator ↔ site
+
+| Person | Lock |
+|--------|------|
+| Charles Masson | Noticed Harappa **1826** |
+| Daya Ram Sahni | Excavated **Harappa 1921** |
+| R.D. Banerji | Excavated **Mohenjo-daro 1922** |
+| John Marshall | Announced civilization **1924** |
+| S.R. Rao | **Lothal** dockyard |
+| B.B. Lal | **Kalibangan** |
+| R.S. Bisht | **Dholavira** |
+
+### Site ↔ specialty
+
+| Site | Lock |
+|------|------|
+| Mohenjo-daro | **Great Bath**; boat models |
+| Lothal | **Dockyard**; boat models |
+| Dholavira | Reservoirs; 3-part plan; signboard; UNESCO **2021** |
+| Kalibangan | Ploughed field; fire altars |
+| Chanhudaro | Bead craft; **no citadel** |
+| Rakhigarhi | Largest Harappan site in **India** (Haryana) |
+| Surkotada | Horse-bone claims (careful) |
+| Sanauli (Baghpat, UP) | Late Harappan / OCP **chariots** (2018) |
+
+### Geographic extremes
+
+| Extreme | Site |
+|---------|------|
+| West | **Sutkagen-dor** |
+| East | **Alamgirpur** (Meerut, UP) |
+| North | **Manda** (Chenab, J&K) |
+| South | **Daimabad** (MH) |
+
+### UP Harappan trio
+
+| Site | District |
+|------|----------|
+| Alamgirpur | Meerut (eastern boundary) |
+| Hulas | Saharanpur / Baghpat belt |
+| Mandi | Muzaffarnagar / Bijnor belt |
+
+**Trap:** Mandi (UP) ≠ Manda (J&K). Rakhigarhi ≠ UP.
+
+### Quick locks
+
+| Fact | Lock |
+|------|------|
+| Mature phase | ~**2600–1900 BCE** |
+| Brick ratio | **1 : 2 : 4** |
+| Metal | Bronze; **no iron**; **no coined money** |
+| Script | Undeciphered seals |
+| Common seal animal | **Unicorn** |
+| Economy type | **Urban** (not pastoral) |
+
+---
+
 ## 2.1 Indus Valley Civilization
 
 **Bronze Age urban culture | Mature ~2600–1900 BCE | also called Harappan | proto-historic**

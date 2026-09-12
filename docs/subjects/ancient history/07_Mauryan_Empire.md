@@ -84,6 +84,49 @@ Mauryan Empire · Chandragupta Maurya · Bindusara · Ashoka · then Admin / Off
 
 ---
 
+## Must-score facts — kings, edicts, officials
+
+### King order
+
+**Chandragupta (322–297) → Bindusara Amitraghata (297–273) → Ashoka (c. 272/268–232) → … → Brihadratha** (killed by Pushyamitra **185 BCE**)
+
+### Edict / title tags
+
+| Item | Lock |
+|------|------|
+| Devanampiya Piyadassi | Ashoka on edicts |
+| Personal name “Ashoka” | **Maski**, Gujarra, Nittur, Udegolam |
+| RE XIII | **Kalinga war** (~261 BCE) |
+| RE XII | **Samavaya** (religious concord) |
+| RE V | **Dhamma-mahamatras** (14th year) |
+| Scripts | Brahmi main; Kharoshthi at Shahbazgarhi / Mansehra; Greek–Aramaic at Kandahar |
+| Barabar | Gifted to **Ajivikas** |
+| Sarnath lions | National emblem |
+| Ahraura (Mirzapur) | UP **Minor Rock Edict** |
+
+### Official / tax tags
+
+| Term | Lock |
+|------|------|
+| Samaharta | Collects revenue |
+| Sannidhata | Stores treasury (**kosha**) |
+| Rajuka | Land / justice |
+| Agronomai | Greek = rural revenue / land officers |
+| Bhaga | Produce share |
+| Bali | Extra / religious levy |
+| Pranaya | Emergency tax |
+| Sita | Crown-land produce |
+
+### Kumara posts
+
+**Taxila · Ujjain · Suvarnagiri · Tosali**
+
+### Neighbours (not provinces)
+
+**Chola · Pandya · Satiyaputra · Keralaputra · Sri Lanka (Tamraparni)**
+
+---
+
 ## Books and Writers — Mauryan Age
 
 **Book–writer pairs | book → writer | keep play vs statecraft separate**

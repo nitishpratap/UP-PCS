@@ -85,17 +85,57 @@ Partition of Bengal | Swadeshi Movement | Delhi Durbar | Revolutionary Organisat
 
 ---
 
-## Must-Score Facts
+## Must-score facts — partition, orgs, chronology
 
-- Partition of Bengal is **1905** (Curzon); annulment plus capital shift to Delhi is **1911** (Hardinge). The **1877** Durbar (Lytton) only proclaimed Victoria as Empress — do not merge the three Durbars.
-- The Boycott Resolution is **7 August 1905**; the National Council of Education follows in **August 1906**.
-- Bengal's Swadeshi voice runs through **Banerjee (Moderate), Pal (Extremist orator), Tagore (song and Rakhi) and Aurobindo (National College, then Jugantar)**.
-- Madam Cama's flag at **Stuttgart is 1907**; the **Berlin Committee is 1915** — two different generations of émigré politics, not the same event.
-- The Hardinge bomb of **1912** is **Anushilan**, not Jugantar; the Muzaffarpur bomb of **1908** is Jugantar's Khudiram–Chaki pair.
-- Abhinav Bharat is **Savarkar**; India House is **Shyamji Krishna Varma** — never swap the two founders.
-- HRA is **1924**; Kakori (**1925**) is HRA's action; HSRA only exists from **1928**. Kakori is never HSRA.
-- Chittagong (**1930**, Surya Sen) and the Central Assembly bomb (**1929**, Bhagat Singh and B.K. Dutt) are the two capstone HSRA-era events — keep their years apart.
-- Bismil was born at **Shahjahanpur** and hanged at **Gorakhpur**; Ashfaqulla was hanged at **Faizabad**; Azad escaped Kakori and died at **Allahabad in 1931**.
+### Year ↔ event
+
+| Year | Lock |
+|------|------|
+| **1905** | Partition (Curzon); Boycott Resolution **7 Aug**; effective **16 Oct** |
+| **1906** | National Council of Education; Calcutta Congress stamps Swaraj |
+| **1907** | Surat Split; Madam Cama Stuttgart flag |
+| **1908** | Muzaffarpur / Alipore (Khudiram–Chaki; Manicktolla) |
+| **1911** | Partition annulled; capital **Calcutta → Delhi** (Hardinge Durbar) |
+| **1912** | Hardinge bomb (**Anushilan**) |
+| **1913** | **Ghadar** Party, San Francisco |
+| **1915** | Berlin Committee (≠ Ghadar; ≠ Stuttgart 1907) |
+| **1924** | **HRA** formed |
+| **1925** | **Kakori** (9 Aug) — **HRA**, never HSRA |
+| **1926** | Naujawan Bharat Sabha |
+| **1928** | **HSRA** (socialist turn) |
+| **1929** | Central Assembly bomb (Bhagat Singh + B.K. Dutt) |
+| **1930** | Chittagong Armoury (Surya Sen) |
+
+### Org ↔ founder / tag
+
+| Org | Lock |
+|-----|------|
+| Abhinav Bharat | **Savarkar** |
+| India House | **Shyamji Krishna Varma** (London) |
+| Anushilan | Hardinge bomb **1912** |
+| Jugantar | Barindra / *Yugantar* / Manicktolla |
+| Ghadar | **1913** San Francisco |
+| HRA | **1924**; Kakori **1925** |
+| HSRA | From **1928** only |
+
+### UP revolutionary tags
+
+| Person | Lock |
+|--------|------|
+| Ram Prasad Bismil | Born **Shahjahanpur**; hanged **Gorakhpur** (19 Dec 1927) |
+| Ashfaqulla | Hanged **Faizabad** |
+| Roshan Singh | Hanged **Naini** |
+| Chandrashekhar Azad | Died Alfred Park, **Allahabad, 27 Feb 1931** |
+
+### Region ↔ centre
+
+| Region | Lock |
+|--------|------|
+| Bengal | Anushilan / Jugantar / Chittagong |
+| Maharashtra | Abhinav Bharat / Nasik |
+| Punjab | Ghadar / HSRA / Lahore |
+| UP | Kakori / Shahjahanpur / Allahabad |
+| Abroad | India House (London); Ghadar (N. America); Berlin **1915** |
 
 ---
 

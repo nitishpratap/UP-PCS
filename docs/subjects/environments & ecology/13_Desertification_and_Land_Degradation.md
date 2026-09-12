@@ -65,6 +65,23 @@ Desertification | Land Degradation | Soil Erosion
 
 ---
 
+## Must-score facts — drylands, erosion, UNCCD, schemes
+
+### Concepts
+
+| Item | Lock |
+|------|------|
+| Desertification | Degradation in arid–semi-arid–dry sub-humid (ASDM) |
+| ≠ expanding desert only | Any dryland productivity loss can count |
+| India degraded land | ~**96.4 mha**; ~**29–30%** (ISRO Atlas 2016) |
+| Water erosion sequence | Sheet → rill → gully → ravine (Chambal) |
+| Wind tools | Deflation + abrasion |
+| UNCCD / Day | **1994** / **17 June** |
+| LDN | SDG **15.3**; no net loss by **2030** |
+| DPAP / DDP / IWMP | **1973** / **1977–78** / **2009** |
+
+---
+
 ## 13.1 Desertification
 
 **Identity:** ASDM drylands | Productivity loss | Overgrazing | UNCCD 1994

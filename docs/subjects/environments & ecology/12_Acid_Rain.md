@@ -66,6 +66,23 @@ Acid Rain | Causes | Effects | Prevention
 
 ---
 
+## Must-score facts — pH, acids, Taj, Gothenburg
+
+### Chemistry
+
+| Item | Lock |
+|------|------|
+| Acid rain pH | Below **5.6** |
+| Normal rain | ~pH **5.6** from CO₂ → H₂CO₃ (≠ 7) |
+| Wet / Dry | Rain–snow–fog / gases–particles without rain |
+| SO₂ / NOx paths | → H₂SO₄ (TPPs) / → HNO₃ (vehicles) |
+| CO₂ role | Sets 5.6 baseline — **not** main severe-acid culprit |
+| Receptors | Fish <~pH 5; Al³⁺ release; conifers; marble → gypsum |
+| Lichens | SO₂ bio-indicators |
+| Gothenburg / CLRTAP | **1999** / **1979** acidifying emissions |
+
+---
+
 ## 12.1 Acid Rain
 
 **Identity:** pH < 5.6 | H₂SO₄ + HNO₃ | Wet + dry deposition | Secondary pollutant

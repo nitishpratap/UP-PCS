@@ -70,6 +70,52 @@ Taught in time-order: no coins in IVC → Vedic nishka → punch-marked silver �
 
 ---
 
+## Must-score facts — coins, ports, guilds
+
+### Coin ladder
+
+| Stage | Lock |
+|-------|------|
+| Indus | Weights / seals; **no coins** |
+| Vedic nishka | Gold ornament / unit; **not minted** |
+| Punch-marked silver | First coins (~6th c. BCE); **karshapana / pana** |
+| Indo-Greek | First **portrait** die-struck coins |
+| Kushan (Vima) | Gold coinage becomes common |
+| Gupta dinara | Prestige gold (~120–144 grains) |
+| Chandragupta II silver | ~**33 grains** = Shaka-victory proof |
+| Yajna Sri Satakarni | **Ship** on coins |
+
+### Economy type ladder
+
+**Indus = Urban · Rigvedic = Pastoral · Later Vedic = Agrarian · Medieval = landlordism**
+
+### Port ↔ lock
+
+| Port | Lock |
+|------|------|
+| Lothal | Harappan **dockyard** |
+| Barygaza | **Broach** (Narmada); Periplus |
+| Barbarikon | **Indus-mouth** port |
+| Tamralipti | Ganga mouth; Bay of Bengal |
+| Muziris | Malabar; Roman **pepper** |
+| Puhar / Kaveripattinam | Sangam Chola port |
+| Arikamedu | Periplus **Poduke**; Roman amphorae |
+| Sopara / Kalyan | Konkan (Mauryan onward) |
+
+### Guild / road tags
+
+| Term | Lock |
+|------|------|
+| Shreni | Craft / trade guild; head = **shreshthin** |
+| Manigrama | **Foreign / overseas** trade body |
+| Nanadesi | Merchants of many lands |
+| Nagaram | South town merchant body |
+| Uttarapatha | Taxila → Pataliputra |
+| Dakshinapatha | Ganga belt → **Ujjain** → Deccan (**road**, not only sea) |
+| Yavanapriya | Sanskrit for **pepper** |
+
+---
+
 ## Books and Writers — Economy Sources
 
 **Book–writer pairs | trade handbooks and statecraft**

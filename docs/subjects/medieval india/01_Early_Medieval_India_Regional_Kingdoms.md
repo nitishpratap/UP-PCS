@@ -112,6 +112,73 @@ Early Medieval India | Major Dynasties of South India | Major Rulers of South In
 ---
 ![early_medieval.png](images/early_medieval.png)
 
+## Must-score facts — dynasty, capital, temple, UP tags
+
+### Dynasty ↔ capital
+
+| Dynasty | Capital / seat |
+|---------|----------------|
+| Pallava | **Kanchi** |
+| Pandya | **Madurai** |
+| Early Chalukya | **Badami / Vatapi** |
+| Eastern Chalukya | **Vengi** |
+| Western Chalukya | **Kalyani** |
+| Rashtrakuta | **Manyakheta (Malkhed)** |
+| Imperial Chola | **Thanjavur** → **Gangaikondacholapuram** (Rajendra) |
+| Hoysala | **Halebid / Dvarasamudra** |
+| Kakatiya | **Warangal** |
+| Yadava | **Devagiri** (later Daulatabad) |
+| Gurjara-Pratihara | **Bhinmal** → **Kannauj** |
+| Pala | Bengal–Bihar belt (episodic Kannauj) |
+| Chandela | **Khajuraho / Mahoba / Kalinjar** |
+| Paramara | **Malwa / Dhara** |
+| Gahadavala | **Kannauj + Banaras** |
+| Kalachuri | **Tripuri** |
+| Kadamba | **Vanavasi** |
+| Solanki / Chaulukya | **Anhilwada** |
+
+### Ruler ↔ dynasty tag
+
+| Ruler | Tag |
+|-------|-----|
+| Mahendravarman I | Pallava; *Mattavilasa Prahasana* |
+| Narasimhavarman I | Pallava; **Vatapikonda / Mahamalla** |
+| Pulakeshin II | Badami Chalukya; Harsha defeat; **Aihole** prasasti |
+| Dantidurga | Rashtrakuta founder; **Hiranyagarbha** |
+| Amoghavarsha I | Rashtrakuta |
+| Vijayalaya | Imperial Chola founder (~**850**) |
+| Rajaraja I | Chola navy; **Brihadishwara 1010** |
+| Rajendra I | **Gangaikondachola**; whole Lanka; Chola Lake |
+| Gopala | Pala founder (elected) |
+| Dharmapala | **Vikramashila**; Paramasaugata |
+| Mihir Bhoja | Pratihara; **Adivaraha** |
+| Bhoja (Paramara) | Malwa / Dhara scholar-king |
+| Jay Chandra | Gahadavala; killed **Chandawar 1194** |
+
+### Temple / event ↔ year
+
+| Item | Year / lock |
+|------|-------------|
+| Shore Temple (Mahabalipuram) | ~7th c., Pallava |
+| Brihadishwara (Thanjavur) | **1010**, Rajaraja |
+| Gangaikondacholapuram temple | ~**1025**, Rajendra |
+| Battle of Takkolam | **949** (Krishna III vs Cholas) |
+| First Tarain | **1191** (Prithviraj wins) |
+| Second Tarain | **1192** (Ghori wins) |
+| Chandawar | **1194** (Jay Chandra dies) |
+
+### UP medieval name tags
+
+| Modern | Medieval name |
+|--------|---------------|
+| Kannauj | **Kanyakubja / Mahodaya** |
+| Ayodhya | **Saketa** |
+| Varanasi | **Kashi / Avimukta** |
+| Mahoba | **Mahotsava Nagar** (Chandela) |
+| Aligarh | **Koil** |
+
+---
+
 ## 1.1 Early Medieval India
 
 **Period:** ~**750–1200 CE** (after Harsha; before full Turkish takeover of the north).

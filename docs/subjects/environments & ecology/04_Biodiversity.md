@@ -79,6 +79,36 @@ Biodiversity | Levels of Biodiversity | Genetic Diversity | Species Diversity | 
 
 ---
 
+## Must-score facts — levels, hotspots, CBD, IUCN
+
+### Concepts
+
+| Item | Lock |
+|------|------|
+| Term / populariser | Rosen **1985** / E.O. Wilson |
+| Alpha / Beta / Gamma | Local / between ecosystems / regional |
+| Genetic / Species / Ecosystem | Within species / among species / habitats |
+| Richest land / sea | Tropical rainforest / coral reefs |
+| India land vs species | ~**2.4%** land; ~**7–8%** species |
+| 4 Indian hotspots | Himalaya · Indo-Burma · WG–SL · Sundaland |
+| Andaman / Nicobar | Indo-Burma / Sundaland |
+| Hotspot criteria | ≥1500 endemic plants + ≥70% habitat lost; **36** global |
+
+### Law / lists
+
+| Item | Lock |
+|------|------|
+| In-situ / Ex-situ | Natural habitat / outside (zoo, seed bank) |
+| CBD / Cartagena / Nagoya | 1992 Rio / biosafety LMOs / ABS **2010** |
+| BDA / NBA | **2002** / NBA **Chennai 2003** |
+| Threatened (IUCN) | **VU + EN + CR** (Endangered ≠ all Threatened) |
+| Biodiversity Day | **22 May** |
+| Kunming–Montreal | **2022**; 30×30 |
+| India Ramsar | **80** sites; TN highest; UP **10** class fact |
+| Hotspot concept | Norman Myers (≠ BirdLife) |
+
+---
+
 ## 4.1 Biodiversity – Meaning
 
 **Identity:** CBD Art 2 | Three nested levels | Rosen coined · Wilson popularised

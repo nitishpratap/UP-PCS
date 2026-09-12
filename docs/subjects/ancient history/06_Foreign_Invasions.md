@@ -96,6 +96,51 @@ Greek Invasion | Alexander's Invasion | Persons Accompanying Alexander | Foreign
 
 ---
 
+## Must-score facts — Alexander, order, kings
+
+### Invader order
+
+**Greeks → Sakas → (Parthians) → Kushans**
+
+### Alexander tags
+
+| Item | Lock |
+|------|------|
+| Entry | ~**327–325 BCE** (~19 months) |
+| Ally | **Ambhi** (Taxila) |
+| Battle | **Hydaspes (Jhelum)** vs Porus |
+| Turn-back | Army mutiny at **Hyphasis (Beas)** |
+| Admiral | **Nearchus** |
+| Death | Babylon **323 BCE** |
+| Sandrokottos | **Chandragupta Maurya** |
+
+### Seleucus / Indo-Greek
+
+| Item | Lock |
+|------|------|
+| Seleucus treaty | ~**305–303 BCE**; **500 elephants**; envoy **Megasthenes** |
+| Menander (Milinda) | Capital **Sagala**; *Milinda Panha* with **Nagasena** |
+| Heliodorus pillar | Besnagar ~**113 BCE**; Bhagavata |
+| Sagala vs Sangala | Menander’s Sialkot vs Alexander’s stormed town |
+
+### Shaka / Parthian / Kushan
+
+| King | Lock |
+|------|------|
+| Maues / Moga | First strong Shaka at Taxila |
+| Nahapana | Kshaharata; checked by Gautamiputra |
+| Rudradaman | Kardamaka; **Junagadh** Sanskrit; Sudarshana repair |
+| Gondophares | Parthian; **Takht-i-Bahi** |
+| Kujula | Kushan unifier (mainly copper) |
+| Vima | Imperial **gold**; *Shaonanoshao* |
+| Kanishka | Peak; **Shaka era 78 CE**; 4th Council Kashmir; **Devaputra** |
+
+### Art pair
+
+**Gandhara** (Greco-Buddhist schist) · **Mathura** (red sandstone)
+
+---
+
 ## Books and Writers — Foreign Invasions Age
 
 **Book–writer pairs | Greek and companion sources**

@@ -133,6 +133,42 @@ D. Mistral
 
 ![img_6.png](../img_6.png)
 
+## Must-score facts — seasons, monsoon, onset
+
+### Frame
+
+| Item | Lock |
+|------|------|
+| Climate type | **Tropical monsoon** (not wholly tropical) |
+| Etymology | Arabic **mausim** (season) |
+| SW monsoon share | ~**75–90%** of annual rain |
+
+### IMD seasons
+
+| Season | Months | Tag |
+|--------|--------|-----|
+| Cold | Dec–Feb | Western Disturbances (NW) |
+| Hot | Mar–May | Pre-monsoon / loo |
+| SW monsoon | Jun–Sep | Main rains |
+| Retreating / NE | Oct–Dec | TN coast rain |
+
+### Onset / branch tags
+
+| Place | Typical onset |
+|-------|---------------|
+| Kerala | ~**1 June** |
+| Mumbai / Kolkata | ~**10 June** |
+| Delhi | ~**29 June** |
+
+| Branch | Lock |
+|--------|------|
+| Arabian Sea | Windward Western Ghats wet; leeward Deccan dry |
+| Tamil Nadu SE coast | **Dry in SW monsoon**; rain in **NE monsoon** |
+| Active vs break | Trough on Ganga plain vs shift to Himalaya foothills |
+| Plains rain | Declines **east → west** |
+
+---
+
 ## 2.1 Climate Basics
 
 Climate is the long-term weather pattern of a place. India’s climate is **tropical monsoon** because winds reverse with the seasons. Latitude, the Himalaya, the sea, relief, pressure systems, jets, and ENSO/IOD all shape that pattern.

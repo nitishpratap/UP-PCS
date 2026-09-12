@@ -66,6 +66,44 @@ Union and its Territory | Formation of States | State Reorganisation | States Re
 
 ---
 
+## Must-score facts — Arts. 1–4, SRC, citizenship
+
+### Article tags
+
+| Article | Lock |
+|---------|------|
+| 1 | Union of States; territory = States + UTs + acquired |
+| 2 | Admit / establish **new** States (not already in Union) |
+| 3 | Form / alter **existing** States; President’s recommendation; State views **not binding** |
+| 4 | May amend 1st & 4th Schedules; **not** Art. 368 |
+| 239 | UT via Administrator / LG |
+| 239A | Puducherry legislature |
+| 239AA | NCT Delhi (69th) — public order / police / land with Centre |
+
+### Reorganisation tags
+
+| Item | Lock |
+|------|------|
+| Dhar / JVP | Rejected immediate linguistic States |
+| Andhra | First linguistic State **1 Oct 1953**; capital **Kurnool** |
+| SRC (1953) | Fazl Ali, Panikkar, Kunzru |
+| 7th Amd + SRA | **1 Nov 1956** — States + UTs scheme |
+| Today | **28 States + 8 UTs** |
+| Cession | Needs constitutional amendment (*Berubari*); 9th / 100th |
+
+### Citizenship (Part II)
+
+| Item | Lock |
+|------|------|
+| Arts. | **5–11**; single citizenship |
+| Statute | Citizenship Act **1955** (Art. 11) |
+| Acquire | Birth, descent, registration, naturalisation, incorporation |
+| Lose | Renunciation, termination, deprivation |
+| OCI ≠ dual citizenship | No vote / no constitutional office |
+| NIC | Extra-constitutional (**1961**); ISC = Art. **263** |
+
+---
+
 ## Union and its Territory (Part I)
 
 - **Part I = Arts. 1–4.** Names and extent sit in the **First Schedule**.

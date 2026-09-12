@@ -80,6 +80,24 @@ Water Resources | IWRM | Rainwater Harvesting | Watershed Management | River Con
 
 ---
 
+## Must-score facts — water shares, IWRM, days, schemes
+
+### Shares / policy
+
+| Item | Lock |
+|------|------|
+| World water order | Oceans ~97.2% > ice ~2% > GW ~0.6% > rivers ~0.01% |
+| India freshwater share | ~**4%** water for ~**18%** population |
+| Water cycle driver | Solar radiation / evaporation |
+| World Water Day | **22 March** |
+| Rajendra Singh | Jal Purush; Magsaysay 2001; Stockholm Water Prize 2015 |
+| IWRM / Dublin | **1992**; basin as planning unit |
+| NWM | NAPCC; from **30 Jun 2008** |
+| Jal Shakti Ministry | **2019** merger |
+| Freshwater resource type | **Abiotic** (≠ biotic) |
+
+---
+
 ## 26.1 Water Resources
 
 **Identity:** Oceans dominate | Rivers tiny fraction | India water-stressed | Surface + groundwater

@@ -110,6 +110,35 @@
 
 ---
 
+## Must-score facts — profile, types, doab belts
+
+### Profile / terms
+
+| Item | Lock |
+|------|------|
+| Profile (down) | **O → A → E → B → C → R** |
+| Eluviation | Washes **out** of A/E |
+| Illuviation | Deposits **into** B |
+| Edaphic | **Soil** factor |
+| Urvara / Usara | Fertile / sterile (ancient names) |
+| Pedocal | Lime accumulation in arid tracts |
+
+### Soil type tags
+
+| Soil | Lock |
+|------|------|
+| Alluvial | Largest (~**40%**); potash-rich; **poor in P & N** |
+| Khadar | New, fine, fertile |
+| Bangar | Older; more **kankar** |
+| Bhur | Sandy doab ridges |
+| Bhabar | Pebble fans; streams **disappear** (~8–16 km) |
+| Tarai | South of Bhabar; streams reappear (~15–30 km) |
+| Black / regur | Deccan Trap; cotton soil |
+| Laterite | High rain leaching; brick-like |
+| Red & yellow | Crystalline parent |
+
+---
+
 ## N.1 Formation, Profile, Classification
 
 **Pedogenesis** is soil formation — rock weathers, organics mix in, and horizons appear over time.

@@ -93,6 +93,47 @@ Masai habitat remains **East Africa**. Do not “update” it to West Africa.
 
 ---
 
+## Must-score facts — tribe↔state, PVTG, institutes
+
+### Frame
+
+| Item | Lock |
+|------|------|
+| ST lists | State-wise Art. **342** |
+| ST share (2011) | ~**8.6%**; largest groups **Bhil, Gond, Santhal** |
+| PVTGs | **75**; most in **Odisha**; PM-JANMAN outreach |
+| 5th vs 6th Schedule | Many States’ Scheduled Areas vs Assam–Meghalaya–Tripura–Mizoram councils |
+
+### Tribe ↔ state
+
+| Tribe | Lock |
+|-------|------|
+| Angami / Rengma | **Nagaland** |
+| Toda / Paliyan | **Tamil Nadu** |
+| Birhor | **Jharkhand** |
+| Khasi / Garo | **Meghalaya** (matrilineal) |
+| Kuki | NE (**not** UP ST) |
+| UP classic five | Tharu, Bhotia, Buksa, Jaunsari, Raji (**15** notified) |
+| UP PVTGs | **Buksa + Raji** |
+| Tharu / Buksa / Saharya | Terai / Bijnor fringe / **Lalitpur** |
+| Jharkhand core | Santhal, Munda, Oraon, Ho… |
+| Andaman Negrito | Great Andamanese, Onge, Jarawa, Sentinelese |
+
+### World habitats / institutes
+
+| Pair | Lock |
+|------|------|
+| Bushman / Eskimo / Pygmy / Masai | Kalahari / N. Canada / Congo / **East Africa** |
+| IMD / ICAR HQ | **New Delhi** (1875 / 1929) |
+| IARI | **Pusa, New Delhi** |
+| FRI / ICFRE / WII | **Dehradun** (WII ≠ FRI answer) |
+| NDRI / IVRI | **Karnal** / Izatnagar teaching |
+| CISH | **Lucknow**; CSAUAT **Kanpur** |
+| FRA | **2006** |
+| Janjatiya Gaurav Diwas | **15 Nov** (Birsa birth) |
+
+---
+
 ## N.0 Framework (map first)
 
 The Constitution does **not** define “tribe” in a detailed article. **Article 342** lets the President notify Scheduled Tribes for each State or Union Territory, after consulting the Governor in a State. **Parliament** may later include or exclude communities by law. ST lists are therefore **state-specific**. A community that is Scheduled Tribe in one State may not be listed in another.

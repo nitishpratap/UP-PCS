@@ -104,6 +104,30 @@ Newest first. One event, one fact — not a dump of keywords.
 
 ---
 
+## Must-score facts — agencies, CAPF, NSC
+
+### Division of labour
+
+| Item | Lock |
+|------|------|
+| Police / public order | **State List** |
+| Union duty | Art. **355** |
+| Defence forces | Ministry of **Defence** |
+| CAPFs | Ministry of **Home** |
+
+### Agency ↔ tag
+
+| Agency | Lock |
+|--------|------|
+| IB | Internal intel; **1887**; under MHA |
+| RAW | External; **21 Sep 1968**; **R.N. Kao** |
+| NIA | Act **2008** (post 26/11); scheduled offences without State consent in listed cases |
+| CBI | Interpol NCB India; BHARATPOL channel |
+| NSC | **1998**; Chair **PM**; first NSA **Brajesh Mishra** |
+| CCS | Cabinet committee (≠ NSC) |
+
+---
+
 ## Frame
 
 **Who holds the gun, under which ministry, for which border / offence.** Police is a **State** subject; the Union still walks in under **Art. 355**, CAPF deployment, and scheduled-offence statutes. IB 1887 MHA; RAW 1968 Cabinet Secretariat; NIA Act 2008; NSC 1998 PM chairs. Interpol NCB = **CBI**. IT Act s.66A struck 2015; **66F / 70A / 70B** are the security-use sections. NSA 1980 = preventive detention (Art. 22).

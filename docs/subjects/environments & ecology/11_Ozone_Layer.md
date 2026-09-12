@@ -71,6 +71,30 @@ Ozone Layer | Ozone Depletion | Ozone Hole | Montreal Protocol
 
 ---
 
+## Must-score facts — good/bad ozone, Montreal, Kigali
+
+### Science
+
+| Item | Lock |
+|------|------|
+| Good / bad ozone | Stratosphere (~15–35 km) / tropospheric pollutant |
+| Share | ~90% stratospheric; ~10% tropospheric |
+| UV-A / B / C | Reaches surface / mostly blocked / fully blocked |
+| Ozone hole | Column <**220 DU** (not a physical hole) |
+| Antarctic peak | SH spring Sep–Oct; PSCs + vortex + CFCs |
+| Discovery | **1985** Farman–Gardiner–Shanklin (BAS) |
+
+### Treaties
+
+| Item | Lock |
+|------|------|
+| Chain | Vienna **1985** → Montreal **1987** → Kigali **2016** |
+| Montreal vs Kyoto/Paris | Ozone ODS / climate GHGs — never swap |
+| Kigali | Phases down **HFCs** (high GWP; not classic ODS) |
+| Ozone Day | **16 September** |
+
+---
+
 ## 11.1 Ozone Layer
 
 **Identity:** O₃ in stratosphere | UV shield | Chapman cycle | Dobson Unit

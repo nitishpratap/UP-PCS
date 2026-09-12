@@ -99,6 +99,34 @@ D. None of the above
 
 ---
 
+## Must-score facts — murals, Mughal, Rajput/Pahari
+
+### Prehistoric / mural
+
+| Site | Lock |
+|------|------|
+| Bhimbetka | Raisen, **MP**; Wakankar **1957–58** |
+| Jogimara | Ramgarh, **Chhattisgarh**; earliest fresco fact |
+| UP rock-art belt | **Mirzapur–Sonbhadra** (Bagh = MP, not UP) |
+| Ajanta vs Ellora | **Paintings** vs **sculpture** (Kailasa) |
+| Ajanta Cave 1 / 16 / 17 | Padmapani–Vajrapani / Dying Princess / Vessantara themes |
+
+### Shadanga (six limbs)
+
+**Rupabheda · Pramanam · Bhava · Lavanyam · Sadrisyam · Varnikabhanga**
+
+### Court / school tags
+
+| School | Lock |
+|--------|------|
+| Akbar atelier | Hamzanama, Tuti-nama, Razmnama; Daswanth, Basawan |
+| Jahangir | **Ustad Mansur** (birds/flowers); Bishandas (portraits) |
+| Deccani | Ahmadnagar, Bijapur, Golconda |
+| Rajput vs Pahari | Rajasthan princely / ragamala vs Himalayan hills |
+| Mewar / Kishangarh / Nathdwara | Sahibdin / **Bani Thani** / Pichwai |
+
+---
+
 ## 4.1 Ancient Indian Painting
 
 **Span:** Prehistoric rock art → early historic (before Gupta classical murals)

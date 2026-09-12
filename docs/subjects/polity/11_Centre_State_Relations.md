@@ -89,6 +89,37 @@
 
 ---
 
+## Must-score facts — Lists, 249–263, Finance
+
+### Legislative frame
+
+| Item | Lock |
+|------|------|
+| Parts | XI (245–263) + XII (finance) |
+| Art. 246 | Union > Concurrent > State; residuary with **Centre** (**248**) |
+| 249 | RS resolution → Parliament on State List (national interest) |
+| 252 | Two or more States request; only Parliament legislates |
+| 254 | Union prevails on Concurrent; State law can prevail with assent under 254(2) until repugnant Union law |
+
+### Doctrines
+
+| Doctrine | Lock |
+|----------|------|
+| Pith and substance | Incidental encroachment can be valid |
+| Colourable legislation | You cannot do indirectly what you cannot do directly |
+| Repugnancy | Concurrent clash → Union wins (with 254(2) nuance) |
+
+### Administrative / bodies
+
+| Item | Lock |
+|------|------|
+| 256 / 257 | States comply with Union laws / directions |
+| 263 | Inter-State Council |
+| 280 | Finance Commission |
+| GST Council | Cooperative federalism example |
+
+---
+
 ## Frame — three Parts, one federal bargain
 
 India is **federal with a Unitary bias**. Operating rules:

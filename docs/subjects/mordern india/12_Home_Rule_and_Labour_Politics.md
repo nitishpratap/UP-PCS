@@ -76,18 +76,50 @@ Morley–Minto Reforms (context) | Lucknow Pact | Home Rule Movement | National 
 
 ---
 
-## Must-Score Facts
+## Must-score facts — Home Rule, education, labour
 
-- Two Home Rule Leagues, not one: **Tilak — April 1916, Poona, Baptista President**; **Besant — September 1916, Madras/Adyar**, and Bombay city sits in **Besant's** zone, not Tilak's.
-- The **Lucknow Pact (December 1916)** is Congress and the League reuniting with a seat-sharing and weightage deal — never place it at the 1911 Delhi Durbar.
-- The **Montagu Declaration (20 August 1917)** is a British statement of intent promising responsible government; the actual reform is the **Government of India Act, 1919**, two years later.
-- Besant was interned in **June 1917** and became Congress's **first woman President in December 1917** at Calcutta — she never led Non-Cooperation and later opposed it.
-- Tilak **never** presided over a Congress session; his Home Rule role is President of the **1916 Poona** league only.
-- BHU is **Malaviya's 1916 Varanasi** project; Besant's **1898 Central Hindu College** is the folded-in nucleus, and Hardinge only laid the foundation stone.
-- National education has **four separate waves and years**: NCE **1906**, BHU **1916**, the Vidyapiths and Jamia **1920–21**, and Wardha **1937** — never merge them.
-- AITUC (**1920, Lajpat Rai**) is the political birth of organised labour; the party-affiliation fact is **BMS–BJP, INTUC–Congress, UTUC–CPI(M), AITUC–CPI**.
-- CSP was formed at Patna/Bombay in **1934**, never January 1934, and **Nehru sympathised but never formally joined**.
-- The Workers and Peasants Party's aim (work inside Congress) is true from the mid-1920s, but its **All-India form is December 1928**, not 1927.
+### Two Home Rule Leagues
+
+| Feature | Tilak | Besant |
+|---------|-------|--------|
+| Founded | **April 1916** | **September 1916** |
+| HQ | **Poona** | **Madras / Adyar** |
+| Office | Baptista Pres.; Kelkar Sec. | Besant; Arundale, Wadia |
+| Area | MH except Bombay city + Karnataka/CP/Berar | Rest of India **including Bombay city** |
+
+### Year ↔ political tag
+
+| Year | Lock |
+|------|------|
+| **1909** | Morley–Minto; Muslim separate electorates |
+| **Dec 1916** | **Lucknow Pact** (Congress–League; ≠ 1911 Durbar) |
+| **Jun 1917** | Besant interned |
+| **20 Aug 1917** | **Montagu Declaration** (intent; ≠ 1919 Act) |
+| **Dec 1917** | Besant first woman Congress President (Calcutta) |
+| **1919** | Government of India Act (dyarchy) |
+| **1920** | Gandhi renames Home Rule League → **Swarajya Sabha** |
+
+### National education waves
+
+| Wave | Year |
+|------|------|
+| NCE | **1906** |
+| BHU | Act **1915**; foundation **1916** (Malaviya; Varanasi) |
+| Gujarat / Kashi Vidyapith | **1920–21** |
+| Wardha / Nai Talim | **1937** |
+
+### Labour / left map
+
+| Body | Lock |
+|------|------|
+| Madras Labour Union | **1918**; B.P. Wadia |
+| AITUC | **31 Oct 1920**; first Pres. **Lajpat Rai** → CPI stream |
+| INTUC | **1947** → Congress |
+| BMS | **1955** → BJP |
+| UTUC | CPI(M) stream |
+| CSP | Patna/Bombay **1934**; Nehru never formally joined |
+| WPP All-India form | **Dec 1928** (not 1927) |
+| Justice Party | **1916** Madras non-Brahmin |
 
 ---
 

@@ -67,6 +67,24 @@ In-situ Conservation | Ex-situ Conservation | Gene Bank | Seed Bank | Botanical 
 
 ---
 
+## Must-score facts — in-situ, ex-situ, gene banks
+
+### Methods
+
+| Item | Lock |
+|------|------|
+| In-situ | Natural habitat — preferred primary |
+| Ex-situ | Zoo, botanic garden, seed/gene/cryobank — backup |
+| Gene bank vs seed bank | Broad genetic material / seeds only |
+| Orthodox / Recalcitrant | Dry+cold OK (wheat/rice) / cannot (mango/coconut) |
+| Cryopreservation | ~−196°C liquid nitrogen |
+| NBPGR / NBAGR | Plants Delhi / animals Karnal |
+| Indian Botanic Garden | Howrah **1787**; BSI link |
+| Svalbard | Norway backup vault (≠ NBPGR) |
+| CZA | Statutory zoo regulator, MoEFCC |
+
+---
+
 ## 20.1 In-situ Conservation
 
 **Identity:** On-site | Natural habitat | Preferred primary strategy | WPA 1972 protected areas

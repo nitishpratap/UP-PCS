@@ -118,6 +118,41 @@ D. South Africa
 
 ---
 
+## Must-score facts — coalfields, ores, energy types
+
+### Coalfield ↔ country
+
+| Field | Country |
+|-------|---------|
+| Appalachian | USA |
+| Lancashire | England |
+| Ruhr | Germany |
+| Kuzbass | Russia |
+
+### Ore / oil tags
+
+| Item | Lock |
+|------|------|
+| Pilbara / Newman / Hamersley | Australia **iron** |
+| Krivoy Rog | Ukraine iron |
+| Chile copper | Andes porphyry (Chuquicamata) |
+| Kinta Valley | Malaysia **tin** |
+| Pegu Yoma | Myanmar **oil** (≠ tin) |
+| Kashagan | **Kazakhstan** oil (≠ Kuwait) |
+| Burgan | Kuwait |
+| Postmasburg | South Africa **manganese** |
+| Hematite / magnetite | Red bulk / black high-grade |
+
+### Energy
+
+| Item | Lock |
+|------|------|
+| Natural gas main | **Methane** |
+| LPG ≠ CNG | Different fuel forms |
+| Nuclear / geothermal | **Not** “stored solar” |
+
+---
+
 ## N.0 Framework — World Minerals & Energy
 
 **Identity:** This chapter is a field–country / mineral–place match set. Geology comes first, then the standard field names.

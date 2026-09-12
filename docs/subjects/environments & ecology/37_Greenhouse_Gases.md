@@ -68,6 +68,24 @@ Carbon Dioxide (CO₂) | Methane (CH₄) | Nitrous Oxide (N₂O) | Water Vapour 
 
 ---
 
+## Must-score facts — GWP, shares, Kyoto basket
+
+### Gases
+
+| Item | Lock |
+|------|------|
+| Natural effect temps | ~−18°C without; ~+15°C with |
+| CO₂ GWP / levels | **1**; pre-ind ~280 ppm; now >415–420 |
+| Shares order | CO₂~64% > CH₄~19% > CFCs+~11% > N₂O~6% |
+| CH₄ GWP / lifetime | ~28–36; ~12 years; paddies–cattle–landfills |
+| N₂O | GWP ~**265**; fertilizers; “laughing gas” |
+| Water vapour | Most abundant natural GHG; mainly **feedback** |
+| CFCs / HFCs | GHG+ODS (Montreal) / GHG only (Kigali) |
+| Not GHGs | Ar, N₂, O₂, He, H₂, propane |
+| Kyoto basket | CO₂ CH₄ N₂O HFCs PFCs SF₆ (+NF₃) |
+
+---
+
 ## 37.1 Carbon Dioxide (CO₂)
 
 **Identity:** Dominant by volume | GWP = 1 | Fossil fuels / cement / deforestation

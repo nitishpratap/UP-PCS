@@ -104,6 +104,37 @@ None mandatory — static world-map chapter. No living scheme tag.
 
 ---
 
+## Must-score facts — continents, mountains, grasslands
+
+### Continent area (large → small)
+
+**Asia → Africa → N. America → S. America → Antarctica → Europe → Australia**
+
+### Mountain / plateau tags
+
+| Item | Lock |
+|------|------|
+| Longest fold chain | **Andes** |
+| Highest chain | **Himalaya** |
+| Pyrenees | Spain–France |
+| Alps | Central Europe (**≠ England**) |
+| Kilimanjaro | East African Rift (**≠ Ring of Fire**) |
+| Roof of the world | **Pamir** |
+| Highest large plateau | **Tibet** |
+| Colorado vs Columbia Plateau | Grand Canyon vs lava plateau |
+
+### Grasslands
+
+| Name | Region |
+|------|--------|
+| Pampas | Argentina |
+| Campos | Brazil |
+| Llanos | Venezuela–Colombia |
+| Puszta | Hungary |
+| Prairie / Steppe / Veld | N. America / Eurasia / S. Africa |
+
+---
+
 ## N.0 Framework — World Landforms & Natural Regions
 
 **Identity:** This chapter is Lucent **map-matching** for landform → country, desert → size/country, grassland → local name, and climate → rain timing.

@@ -119,6 +119,38 @@ D. 86th Constitutional Amendment Act, 2002
 
 ---
 
+## Must-score facts — 368 lanes, landmark Amendments
+
+### Amendment lanes (Art. 368 / outside)
+
+| Lane | Lock |
+|------|------|
+| Simple majority (not “under 368”) | Arts. 2–4; Art. 169 Councils, etc. |
+| Special majority (368) | Most amendments |
+| Special + half States | Federal provisions (election of President, Lists, SC/HC, etc.) |
+
+### Basic-structure chain
+
+**Shankari Prasad (1951) → Sajjan Singh (1965) → Golaknath (1967) → 24th (1971) → Kesavananda (1973) → Indira Gandhi (1975) → 42nd (1976) → Minerva Mills (1980)**
+
+### Landmark Amendments
+
+| Amd | Lock |
+|-----|------|
+| 1st (1951) | 15(4); 19(2); 31A/31B + 9th Schedule |
+| 7th (1956) | States reorganisation; 350A/350B |
+| 24th (1971) | Parliament can amend Part III; President shall assent |
+| 42nd (1976) | Mini-Constitution; Socialist/Secular; Duties |
+| 44th (1978) | Property out of FR; Emergency safeguards |
+| 61st | Voting age 18 |
+| 73rd / 74th | Panchayats / Municipalities |
+| 86th | 21A + Duty 51A(k) |
+| 101st | GST |
+| 103rd | EWS |
+| 104th | Anglo-Indian LS nomination ended |
+
+---
+
 ## Frame
 
 **How** you amend (Art. **368**) + **which Amd** inserted/moved a provision: 1st → 15(4)/9th Sch · 42nd Preamble words · 44th Emergency rewrite · 61st voting age 18 · 73rd/74th PRIs/ULBs · 86th 21A · 101st GST Council · 102nd NCBC 338B.

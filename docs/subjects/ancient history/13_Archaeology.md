@@ -68,6 +68,55 @@ Taught so the method comes before the site: who runs the dig → how layers and 
 
 ---
 
+## Must-score facts — ASI, dating, site↔state
+
+### ASI / method tags
+
+| Item | Lock |
+|------|------|
+| ASI founded | **1861**; first DG **Alexander Cunningham** |
+| HQ | **24 Tilak Marg, New Delhi** (not Lucknow) |
+| John Marshall | Announced IVC **1924** |
+| Mortimer Wheeler | Balk-and-grid; re-dug Harappa **1946** (≠ discoverer) |
+| Stratigraphy | Deeper = older (undisturbed) |
+| Carbon-14 | Libby; ~**5730** yr half-life; **organic** only |
+| TL | Fired pottery clock |
+
+### Excavator ↔ site
+
+| Excavator | Site |
+|-----------|------|
+| Daya Ram Sahni | Harappa **1921** |
+| R.D. Banerjee | Mohenjo-daro **1922** |
+| S.R. Rao | **Lothal** |
+| B.B. Lal | **Kalibangan** |
+| R.S. Bisht | **Dholavira** |
+| V.S. Wakankar | **Bhimbetka** (MP) **1957–58** |
+| Robert Bruce Foote | Pallavaram Paleolithic **1863** |
+
+### Site ↔ state (high-yield)
+
+| Site | State / UT |
+|------|------------|
+| Nevasa | Maharashtra |
+| Isampur | Karnataka |
+| Didwana | Rajasthan |
+| Gudiyam | Tamil Nadu |
+| Balu | Haryana |
+| Manda | J&K |
+| Padri | Gujarat |
+| Hulas | **Uttar Pradesh** |
+| Alamgirpur | **UP** (easternmost Harappan) |
+| Mandi | **UP** (≠ Manda J&K) |
+| Rakhigarhi | Haryana (largest; not UP) |
+| Sanauli | Baghpat, UP (chariots **2018**) |
+
+### UP trenches (beyond IVC)
+
+**Koldihwa / Mahagara · Hastinapur · Kaushambi · Ahichchhatra · Sarnath · Shravasti · Atranjikhera**
+
+---
+
 ## 13.1 ASI
 
 **Archaeological Survey of India | 1861 | Union body under Culture**

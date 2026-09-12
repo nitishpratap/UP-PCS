@@ -70,6 +70,63 @@ Maratha Empire | Shivaji | Administrative Structure of Shivaji | Peshwas | Peshw
 
 ---
 
+## Must-score facts — Ashtapradhan, Peshwa, battles
+
+### Ashtapradhan portfolio
+
+| Minister | Charge |
+|----------|--------|
+| Peshwa | Administration |
+| Amatya | Finance |
+| Mantri | Records |
+| Senapati | Army |
+| Sumant | Foreign affairs |
+| Nyayadish | Justice |
+| Pandit Rao | Religion |
+| Sachiv | Correspondence |
+
+### Revenue tags
+
+| Term | Lock |
+|------|------|
+| Chauth | **25%** protection levy |
+| Sardeshmukhi | Extra **10%** hereditary chief claim |
+| Saranzami | Jagirdar livelihood land |
+| Modi script | Maratha admin / revenue papers |
+
+### Peshwa order
+
+**Balaji Vishwanath → Bajirao I → Balaji Bajirao → Madhav Rao I → Narayan Rao → Raghunath Rao → … → Baji Rao II (last)**
+
+### Battle / treaty ↔ year
+
+| Event | Year | Lock |
+|-------|------|------|
+| Pratapgad (Afzal Khan) | **1659** | Shivaji |
+| Shaista Khan raid (Pune) | **1663** | Shivaji |
+| Treaty of Purandar | **1665** | 23 forts to Jai Singh |
+| Salher | **1672** | vs Mughals |
+| Coronation (Raigad) | **1674** | Chhatrapati |
+| Shivaji death | **1680** | Raigad |
+| Sambhaji executed | **1689** | — |
+| Lanavada | **1718** | Chauth recognition |
+| Palkhed | **1728** | Bajirao vs Nizam |
+| Sangola | **1750** | Peshwa real head |
+| Panipat III | **14 Jan 1761** | Abdali vs Bhau |
+| Maratha power ends | **1818** | Baji Rao II |
+
+### Confederacy seats
+
+| House | Seat |
+|-------|------|
+| Peshwa | **Pune** |
+| Scindia | **Gwalior** |
+| Holkar | **Indore** |
+| Gaekwad | **Baroda** |
+| Bhonsle | **Nagpur** |
+
+---
+
 ## 11.1 Maratha Empire — Phases
 
 - The Maratha base was the **Western Ghats**, Konkan, and Deccan hill-forts.

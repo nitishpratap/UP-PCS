@@ -89,7 +89,7 @@ Gandhi early life | Gandhi in South Africa | Gandhian Ideology | Father of Natio
 
 ---
 
-## Must-score chronology facts
+## Must-score facts — chronology, same-year traps
 
 ### Year ↔ event fact
 

@@ -70,6 +70,32 @@ Food Chain | Food Web | Trophic Levels | Energy Flow in Ecosystem | Ecological P
 
 ---
 
+## Must-score facts — chains, pyramids, biomagnification
+
+### Chain types
+
+| Item | Lock |
+|------|------|
+| Food chain vs web | Linear sequence / interconnected network (more stable) |
+| Grazing vs detritus | Living green plants / dead organic matter |
+| Trophic ranks | T1 producers → T2 herbivores → T3–T5 carnivores |
+| Sun | Energy **source** — **not** a trophic level |
+| Lindeman 10% | ~10% up; ~90% lost; energy ↓ upward |
+| Humans | Primary **and** secondary consumers |
+| Decomposers | Fungi + bacteria (≠ viruses) |
+
+### Pyramids / toxins
+
+| Item | Lock |
+|------|------|
+| Energy pyramid | **Always upright** |
+| Biomass / numbers invert | Pond–marine / parasitic chain |
+| Biomagnification | Toxin ↑ up chain (DDT highest in apex) |
+| Diclofenac | Vulture crash → scavenging pathway break |
+| UP grazing example | Dudhwa grass → deer → tiger |
+
+---
+
 ## 3.1 Food Chain
 
 **Identity:** Linear feeding sequence | Grazing vs detritus | 3–5 levels max

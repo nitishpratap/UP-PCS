@@ -133,6 +133,45 @@ D. India
 
 ---
 
+## Must-score facts — rail, road, ports, waterways
+
+### Rail / freight
+
+| Item | Lock |
+|------|------|
+| First passenger train | Mumbai–Thane **1853** |
+| Zones | ~**18** (older books: 16) |
+| Northern / NER / SER HQ | New Delhi / **Gorakhpur** / Garden Reach, Kolkata |
+| Western DFC | **Dadri–JNPT** |
+| Eastern DFC | **Ludhiana–Dankuni** |
+| Amrit Bharat | Station modernisation (≠ new lines); ~**149** UP stations |
+| New Pamban | RVNL; first **vertical-lift** railway sea bridge |
+
+### Road / schemes
+
+| Item | Lock |
+|------|------|
+| Golden Quadrilateral | Delhi–Mumbai–Chennai–Kolkata (~5846 km) |
+| NS / EW | Srinagar–Kanyakumari / Porbandar–Silchar |
+| Bharatmala vs Sagarmala | Highways vs **port-led** |
+| PMGSY | Rural all-weather (**2000**) |
+| Atal Tunnel | Under **Rohtang** (Pir Panjal; BRO) |
+| Gati Shakti | **13 Oct 2021**; NLP **Sep 2022** |
+
+### Ports / waterways / air
+
+| Item | Lock |
+|------|------|
+| Sea trade volume | ~**95%** of India’s trade volume |
+| Major ports | **12** + many non-major |
+| NW-1 / NW-2 / NW-3 | Ganga Haldia–Prayagraj / Brahmaputra / Kerala W. Coast Canal |
+| Paradip / Tuticorin / Kakinada | Odisha / TN / AP |
+| Harbour vs port | Sheltered water vs harbour + cargo facilities |
+| Kushinagar intl | **24 Jun 2020**; Jewar = Noida greenfield |
+| UP | **No major seaport**; rail HQ NER Gorakhpur; **NW-1** |
+
+---
+
 ## N.0 Framework (map first)
 
 Transport and communication are the **arteries of circulation** of the economy.

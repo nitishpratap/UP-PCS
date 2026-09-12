@@ -66,6 +66,52 @@ Sher Shah Suri | Administration | Revenue Reforms | Road System | Currency Refor
 
 ---
 
+## Must-score facts — battles, revenue, roads
+
+### Battle / event ↔ year
+
+| Event | Year | Lock |
+|-------|------|------|
+| Daurah | **1532** | Humayun vs Afghans (not Sher Shah) |
+| Chausa | **26 June 1539** | Humayun escapes on mashak |
+| Kannauj / Bilgram | **17 May 1540** | Humayun exile begins |
+| Sammel / Giri-Sumel | **1544** | vs Rao Maldeo (Marwar) |
+| Kalinjar death | **May 1545** | Gunpowder blast |
+| Islam Shah | **1545–1553** | Successor |
+| Humayun return | **1555** | Delhi–Agra recovered |
+
+### Revenue / office tags
+
+| Term | Lock |
+|------|------|
+| Jarib | Measuring **rope** (not a tax) |
+| Rai | Crop rate per **bigha** |
+| Zabt | Annual cash demand |
+| Patta | State document to peasant |
+| Qabuliat | Peasant’s written acceptance |
+| Shiqdar | Law and order (pargana) |
+| Munshif | Accounts |
+| Amil / Desai | Collection |
+| Dagh | Horse branding |
+
+### Roads / currency / forts
+
+| Item | Lock |
+|------|------|
+| Grand Trunk Road | **Sonargaon → Peshawar**; sarais ~12 kos |
+| Rupiya | Silver (~178 grains) |
+| Dam | Copper; ~**1/40** rupiya |
+| Mohur | Gold |
+| Rohtas | Bihar fort vs Humayun return |
+| Purana Qila | Delhi citadel; **Qila-i-Kuhna** mosque |
+| Sasaram tomb | Lake mausoleum; birth + burial |
+
+### Name ladder
+
+**Farid Khan → Sher Khan → Sher Shah (Padshah from 1540)**
+
+---
+
 ## 8.1 Life, Rise, Reign
 
 **Farid Khan** (c. 1472, **Sasaram**) | Father **Hasan Khan Sur** | Afghan **Sur**

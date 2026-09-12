@@ -67,6 +67,25 @@ World Environment Day | World Wetlands Day | Earth Day | International Day for B
 
 ---
 
+## Must-score facts — calendar order of key days
+
+### Day ↔ date
+
+| Item | Lock |
+|------|------|
+| Wetlands | **2 February** (Ramsar) |
+| Wildlife | **3 March** (CITES) — ≠ 22 Mar |
+| Forests | **21 March** |
+| Water | **22 March** |
+| Earth | **22 April** (US 1970) |
+| Biological Diversity | **22 May** (CBD) |
+| Environment | **5 June** (Stockholm/UNEP) |
+| Ozone | **16 September** (Montreal) |
+| March ladder | Wildlife 3 → Forests 21 → Water 22 |
+| India WED hosts | **2011** Forests; **2018** Beat Plastic |
+
+---
+
 ## 31.1 World Environment Day
 
 **Identity:** 5 June | UNEP | Stockholm 1972 | Host country rotates

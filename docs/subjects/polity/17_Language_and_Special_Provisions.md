@@ -84,6 +84,32 @@ Official Language | Arts. 343–351 | 8th Schedule | Classical languages | Lingu
 
 ---
 
+## Must-score facts — official language, 8th Schedule, 371
+
+### Official language (Part XVII)
+
+| Item | Lock |
+|------|------|
+| National language | Constitution **never** names one |
+| Union official | **Hindi in Devanagari** |
+| English | 15 years from 1950; continued by Official Languages Act **1963** |
+| Art. 344 | Official Language Commission (5 yrs / 10 yrs) |
+| Art. 345 | State official language(s) |
+| Art. 351 | Union duty to promote Hindi (composite culture) |
+| SC / HC authoritative texts | English until Parliament otherwise provides |
+
+### Eighth Schedule / special
+
+| Item | Lock |
+|------|------|
+| Languages | **22** |
+| In | Nepali, Dogri, Bodo, etc. |
+| Out | **Bhojpuri** (classic trap) |
+| Special States | **371–371J** (Part XXI) |
+| UP | **No** 371-series special article |
+
+---
+
 ## Frame
 
 Part **XVII** (how the Union and States talk) + Parts **X** and **XXI** (Scheduled Areas / 371-series). 350B officer = **7th Amd**. 5th Sch vs 6th (AMTM). **370** inoperative **5 Aug 2019** (J&K + Ladakh UTs). PESA = Fifth-Schedule Gram Sabha; **UP has no PESA**.

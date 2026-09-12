@@ -81,6 +81,34 @@ Folk Arts | Folk Traditions | Folk Beliefs | Folk Culture of India | Handloom | 
 
 ---
 
+## Must-score facts — folk painting, handloom, GI
+
+### Painting ↔ region
+
+| Art | Region |
+|-----|--------|
+| Madhubani | Bihar Mithila (GI) |
+| Warli | **Maharashtra** (≠ Bihar/UP) |
+| Pattachitra | Odisha |
+| Phad | Rajasthan |
+| Gond | Central India |
+| Sanjhi | Braj / Mathura–Vrindavan (**UP**; GI) |
+| Kalighat | West Bengal |
+| Cheriyal | Telangana |
+
+### Craft / scheme tags
+
+| Item | Lock |
+|------|------|
+| Folk vs classical | Community/oral/ritual ≠ Natyashastra court school |
+| Handloom vs khadi | Manual loom cloth vs **hand-spun + hand-woven** (KVIC) |
+| Handicraft | Handmade object (≠ handloom cloth) |
+| Handloom Day | **7 August** (1905 Swadeshi recall; first **2015**) |
+| GI Act / Registry | **1999**; **Chennai**; DPIIT/Commerce (**≠ Culture**) |
+| PEHCHAN | Artisan cards from **2016** |
+
+---
+
 ## 13.1 Folk Arts
 
 **Identity:** Community-owned visual and craft forms | Region + ritual | Not a classical akademi school

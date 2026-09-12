@@ -80,6 +80,39 @@ Festivals of India | State-wise Festivals | Folk Festivals | Tribal Festivals | 
 
 ---
 
+## Must-score facts — Kumbh, harvest, UNESCO, UP
+
+### Kumbh / fairs
+
+| Item | Lock |
+|------|------|
+| Four Kumbh sites | Prayagraj, Haridwar, Nashik, Ujjain |
+| Kumbh UNESCO ICH | **2017** |
+| Magh Mela | Annual Prayagraj bathing (≠ full Kumbh) |
+| Pushkar Fair | **Rajasthan** camel fair (Kartik) |
+| Surajkund | **Haryana** crafts (≠ RJ / UP) |
+| Sonepur / Gangasagar | Bihar / West Bengal |
+
+### Festival ↔ state
+
+| Festival | State / tag |
+|----------|-------------|
+| Pongal / Onam | Tamil Nadu / Kerala (do not swap) |
+| Bihu / Hornbill | Assam / Nagaland (Kisama) |
+| Ugadi / Gudi Padwa | AP–TS–KA / Maharashtra New Year |
+| Garba | Gujarat; UNESCO **2023** |
+| Durga Puja (Kolkata) | UNESCO **2021** |
+| Ramlila | UNESCO **2008**; Dussehra = effigy day |
+| Sarhul / Bastar Dussehra | Jharkhand / Chhattisgarh (~75 days) |
+
+### UP spine
+
+**Prayagraj Kumbh/Magh · Braj Holi · Ramlila · Chhath · Deva Mela (Barabanki) · Bateshwar (Agra)**
+
+Not UP: Pushkar, Surajkund, Onam, Hornbill, Kullu Dussehra.
+
+---
+
 ## 9.1 Festivals of India
 
 **Identity:** Recurring community celebration | Season, harvest, faith, or nation | ask = type + state

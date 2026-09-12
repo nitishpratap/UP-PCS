@@ -121,6 +121,40 @@ Read as: **this** is correct · **that** is the usual wrong option.
 
 ---
 
+## Must-score facts — city–river, deltas, lakes
+
+### City ↔ river
+
+| City | River |
+|------|-------|
+| New Orleans | **Mississippi** (≠ Missouri) |
+| Budapest | **Danube** |
+| Cologne | **Rhine** |
+| Hyderabad (India) | **Musi** (≠ Godavari) |
+| Khartoum | White + Blue Nile meet |
+
+### Direction / border
+
+| River | Lock |
+|-------|------|
+| Mekong | Tibet → SE; delta **S. Vietnam** |
+| Amur | North-east |
+| Syr Darya | North-west into Aral |
+| Rio Grande | Main USA–Mexico border (≠ Colorado trap) |
+
+### Superlatives / deltas
+
+| Item | Lock |
+|------|------|
+| Longest (Prelims) | **Nile** |
+| Largest discharge | **Amazon** |
+| Bird’s-foot delta | **Mississippi** |
+| Arcuate | Nile, Hwang Ho, Niger |
+| Onega | **Russia** (≠ Canada) |
+| Michigan | Wholly **USA** |
+
+---
+
 ## N.0 Framework — World Rivers & Lakes
 
 **Identity:** This is a **map-matching** chapter for city–river, river–direction, lake–country, dam–river, and a few superlatives.

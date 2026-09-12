@@ -78,6 +78,42 @@ Vedic chanting UNESCO ICH **2008**. Sankirtana (Manipur) **2013**.
 
 ---
 
+## Must-score facts — forms, treatises, gharanas
+
+### Frame
+
+| Item | Lock |
+|------|------|
+| Sangeet | Gita + vadya + nritya |
+| Earliest chant | **Samaveda** |
+| Natyashastra | **Bharata Muni** |
+| First clear “raga” | Matanga *Brihaddeshi* |
+| Sangeet Ratnakar | **Sharngadeva**, 13th c., Devagiri |
+| Swaras / shrutis | **7** / traditionally **22** |
+
+### Forms / systems
+
+| Form | Lock |
+|------|------|
+| Hindustani vs Carnatic | North khayal–dhrupad vs South kriti–melakarta |
+| Dhrupad | Oldest; **pakhawaj** |
+| Khayal | Dominant today; **tabla** |
+| Thumri | Awadh–Banaras romantic |
+| Tappa | Camel-song origin; **Muhammad Shah** court |
+| Qawwali / Tarana | Khusrau–Nizamuddin / nonsense syllables |
+| Carnatic Trinity | Tyagaraja, Dikshitar, Syama Sastri |
+
+### Treatise / gharana
+
+| Item | Lock |
+|------|------|
+| Ragamala / Rasa Kaumudi / Raga Vibodh / Chaturdandi | Pundrik Vitthal / Sri Kantha / **Somanath** / Venkatamakhin |
+| Oldest khayal gharana | **Gwalior** |
+| Agra / Kirana | Agra city UP / Kirana village |
+| Patiala / Jaipur–Atrauli / Maihar | Bade Ghulam Ali / Kishori Amonkar / Allauddin Khan |
+
+---
+
 ## 5.1 Indian Music
 
 **Identity:** Raga–tala art music | Two classical branches after ~12th–13th c. | Folk and film run parallel

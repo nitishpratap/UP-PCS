@@ -64,6 +64,24 @@ Structure of the Atmosphere | Atmospheric Composition | Atmospheric Layers | Tro
 
 ---
 
+## Must-score facts — layers, composition, radiation
+
+### Structure
+
+| Item | Lock |
+|------|------|
+| Order (bottom→top) | Tropo → Strato → Meso → Thermo → Exo |
+| Weather / ozone layer | Troposphere / Stratosphere |
+| Coldest / meteors | Mesosphere |
+| Aurora / ISS | Thermosphere |
+| Dry air | N₂ ~78% · O₂ ~21% · Ar ~0.93% · CO₂ ~0.04% |
+| N₂ vs N₂O | Not GHG / is GHG |
+| Not GHGs | Ar, N₂, O₂, He |
+| Air heating | Mainly longwave from warmed surface |
+| Homosphere | Well mixed to ~**80 km** |
+
+---
+
 ## 35.1 Structure of the Atmosphere
 
 **Identity:** Gaseous envelope | Temp-based layers | Heated from below

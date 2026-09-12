@@ -68,6 +68,24 @@ Floods | Drought | Landslides | Cyclones | Heat Waves | Forest Fires
 
 ---
 
+## Must-score facts — NDMA, drought, cyclone, fire
+
+### Institutions / hazards
+
+| Item | Lock |
+|------|------|
+| NDMA | DM Act **2005**; Chair = **PM**; NDRF response |
+| Sendai | Disaster risk reduction framework |
+| Drought ladder | Meteorological → agricultural → hydrological |
+| DPAP | **1973** (≠ 1952) |
+| Cyclone needs | Warm sea ~26–27°C; BoB > Arabian Sea |
+| Eye / Eyewall | Calm core / strongest winds |
+| Heat wave (plains) | ≥40°C + departure rules; severe ≥47°C or +6.4°C |
+| Forest fire season | Roughly Mar–Jun; chir pine fuel |
+| Piral Lao–Paise Pao | UK pine-needle scheme (≠ Delhi) |
+
+---
+
 ## 23.1 Floods
 
 **Identity:** Riverine / flash / urban | UP Ganga–Yamuna–Terai | NDMA 2005 | Sendai 2015

@@ -110,6 +110,37 @@ D. Governor
 
 ---
 
+## Must-score facts — RS, LS, Money Bill, seats
+
+### Composition
+
+| House | Lock |
+|-------|------|
+| Parliament | President + RS + LS (Art. **79**) |
+| Rajya Sabha max | **250** (238 + **12** nominated) |
+| RS election / term | Elected MLAs; PR-STV; **6 years**; 1/3 retire every 2 years |
+| Nominated 12 | Literature, science, art, social service |
+| Lok Sabha max | **550** (530 States + 20 UTs) |
+| Anglo-Indian LS nomination | Ended by **104th** |
+
+### Special RS powers
+
+| Article | Lock |
+|---------|------|
+| 249 | State List for national interest (1 year) |
+| 312 | All-India Services |
+
+### High-yield seats / Money Bill
+
+| Item | Lock |
+|------|------|
+| UP in RS | **31** (highest) |
+| Money Bill | Art. **110**; Speaker’s certificate; RS **14 days** only |
+| Joint sitting | Art. **108** (not for Money / Constitution amendment Bills) |
+| Quorum | 1/10 of total membership |
+
+---
+
 ## Parliament — the frame (Art. 79–81)
 
 - **Art. 79:** Parliament of the Union = the **President** + **Rajya Sabha** (Council of States) + **Lok Sabha** (House of the People).

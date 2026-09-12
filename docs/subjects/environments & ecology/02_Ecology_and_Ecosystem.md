@@ -88,6 +88,34 @@ Ecology – Meaning | Ecosystem | Types of Ecosystems | Terrestrial Ecosystem | 
 
 ---
 
+## Must-score facts — terms, succession, productivity
+
+### Founders / levels
+
+| Item | Lock |
+|------|------|
+| Ecology term / Indian ecology | Haeckel **1866** / Ramdeo Misra |
+| Ecosystem term | Tansley **1935**; normally **open** system |
+| Levels (short) | Population → Community → Ecosystem → Landscape |
+| Niche coined | Grinnell **1917** (role ≠ place) |
+| Lindeman | **10%** energy transfer (**1942**) |
+| NPP | GPP − plant respiration; plants ~**1%** of sunlight |
+
+### Succession / services
+
+| Item | Lock |
+|------|------|
+| Primary vs secondary | Lifeless substrate / soil already present |
+| Sere phases | Nudation → Migration → Ecesis → Reaction → Stabilisation |
+| Monoclimax | F.E. Clements |
+| r vs K | Many offspring–short life / few–long life |
+| MEA 2005 services | Provisioning · regulating · supporting · cultural |
+| Eutrophication | Nutrient overload → bloom → DO crash |
+| Energy vs nutrients | Energy **one-way**; nutrients **cycle** |
+| Ecotone / Deep ecology | Transition zone / Arne Næss **1973** |
+
+---
+
 ## 2.1 Ecology – Meaning
 
 **Identity:** Study of interactions | Haeckel 1866 | 7 levels | Autoecology vs Synecology | Bionomics

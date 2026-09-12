@@ -78,6 +78,24 @@ Solar Energy | Wind Energy | Biomass Energy | Geothermal Energy | Tidal Energy |
 
 ---
 
+## Must-score facts — solar, wind, biomass, tidal
+
+### Solar / wind
+
+| Item | Lock |
+|------|------|
+| NSM / JNNSM | **2010** under NAPCC |
+| Targets class | ~100 GW solar by 2022; **500 GW** non-fossil by 2030 |
+| Bhadla | Rajasthan mega solar park |
+| ISA | **2015** India–France COP21; HQ **Gurugram** |
+| PM-KUSUM / OSOWOG | Farmer solar pumps / One Sun One World One Grid |
+| Wind leaders | TN, Gujarat (power ∝ speed³) |
+| Biogas majors | **CH₄ + CO₂** (≠ butane/CO) |
+| Tidal best India | Gulf of Khambhat → Gulf of Kutch |
+| SHP (MNRE) | ≤**25 MW** |
+
+---
+
 ## 22.1 Solar Energy
 
 **Identity:** PV + CSP | National Solar Mission 2010 | ISA Gurugram 2015 | 500 GW non-fossil 2030

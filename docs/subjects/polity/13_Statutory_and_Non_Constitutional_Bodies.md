@@ -139,6 +139,30 @@ D. 2 and 3
 
 ---
 
+## Must-score facts — Lokpal, CVC, RTI, NITI
+
+### Constitutional vs statutory vs executive
+
+| Type | Lock |
+|------|------|
+| Constitutional | Created by Constitution |
+| Statutory | Created by **Act** |
+| Executive / extra-constitutional | Created by resolution / order (e.g. NITI Aayog) |
+
+### Body ↔ tag
+
+| Body | Lock |
+|------|------|
+| Lokpal | Act **2013**; Chair + ≤8; half judicial; first **P.C. Ghose (2019)** |
+| Lokpal selection | PM, LS Speaker, LoP LS, CJI (or nominee), eminent jurist |
+| CVC | Santhanam idea; statutory **2003**; 4 years / age 65 |
+| CVC selection | PM, HM, LoP |
+| CIC / SIC | RTI Act **2005** (in force **12 Oct 2005**); reply **30 days** |
+| NITI Aayog | **1 Jan 2015**; replaced Planning Commission; **not** constitutional |
+| NHRC | PHRA **1993**; 1-year complaint limit |
+
+---
+
 ## Frame
 
 Bodies **created by Act** or by **executive resolution**. None of them (except CAT’s **enabling** article **323A**) live in the Constitution.

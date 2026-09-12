@@ -85,6 +85,32 @@ None mandatory. If a paper quotes a **year** (e.g. 2016 coffee), freeze **that**
 
 ---
 
+## Must-score facts — plantation, shifting, leaders
+
+### Crop / system tags
+
+| Item | Lock |
+|------|------|
+| Classic plantation crop (MCQ) | **Tea** (estate/capital/labour) |
+| Coffee order (2016 teaching) | Brazil > Vietnam > Colombia > Indonesia |
+| Cocoa majors | Côte d’Ivoire, Ghana, Cameroon |
+| India rubber | **Kerala** (*Hevea* Amazon origin) |
+| Oil palm majors | Indonesia, Malaysia |
+| Olive majors | Spain, Italy, Greece |
+| Sugarcane leader | **Brazil**; sugar beet = temperate Europe |
+| Citrus belt | **Mediterranean** |
+
+### Shifting cultivation names
+
+| Name | Region |
+|------|--------|
+| Jhum | NE India |
+| Podu | Andhra / Odisha |
+| Ladang | Malaysia |
+| Milpa | Mexico |
+
+---
+
 ## N.0 Framework — World Agriculture
 
 **Identity:** This chapter links **farming systems** to **crop belts** and the **producer ≠ exporter** trap.

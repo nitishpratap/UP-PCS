@@ -103,6 +103,31 @@ None mandatory — static political-map chapter.
 
 ---
 
+## Must-score facts — capitals, deserts, regional traps
+
+### Central Asia capitals
+
+| Country | Capital |
+|---------|---------|
+| Uzbekistan | **Tashkent** |
+| Tajikistan | **Dushanbe** |
+| Kyrgyzstan | **Bishkek** |
+| Turkmenistan | **Ashgabat** |
+
+### Regional locks
+
+| Item | Lock |
+|------|------|
+| Nobi / Kanto plains | **Japan** (≠ Korea) |
+| Sunni Triangle | Baghdad–Tikrit–**Ramadi** (≠ Basra) |
+| W Asia mountains W→E | Pontic → Zagros → Hindu Kush → Karakoram |
+| Kara Kum | **Turkmenistan** |
+| Borneo | Indonesia + Malaysia + Brunei |
+| Korea | Seoul south / Pyongyang north (~38th parallel) |
+| Gaza / West Bank | Egypt side / Jordan side |
+
+---
+
 ## N.0 Framework — World Regional Geography
 
 **Identity:** This is a **political + regional map** chapter. Capitals, “which is NOT in the region”, landlocked status, equator crossings, and a few physical facts inside each belt all live here.

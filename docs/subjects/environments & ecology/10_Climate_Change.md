@@ -77,6 +77,25 @@ Global Warming | Greenhouse Effect | Greenhouse Gases (GHGs) | Carbon Footprint 
 
 ---
 
+## Must-score facts — warming, GHGs, sinks
+
+### Frame
+
+| Item | Lock |
+|------|------|
+| Warming vs climate change | Temp rise subset / broader incl. rainfall & extremes |
+| Natural GHG effect | ~+15°C with; ~−18°C without |
+| Fourier | 1820s greenhouse-effect idea |
+| Main recent driver | Anthropogenic **CO₂** |
+| Kyoto basket | CO₂, CH₄, N₂O, HFCs, PFCs, SF₆ (+NF₃ later) |
+| Relative shares (WMO-style) | CO₂~64% > CH₄~19% > CFCs+~11% > N₂O~6% |
+| Not GHGs | Ar, N₂, O₂, H₂, propane |
+| India rank / Bhutan | ~3rd absolute / often carbon-negative |
+| Sink / sequestration | Net CO₂ absorb / storage process |
+| Blue carbon | Ocean–coastal sinks (mangroves etc.) |
+
+---
+
 ## 10.1 Global Warming
 
 **Identity:** Temperature rise since industrial era | IPCC 1.1°C | Anthropogenic dominant

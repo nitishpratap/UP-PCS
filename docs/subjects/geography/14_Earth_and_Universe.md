@@ -156,6 +156,29 @@ D. Jupiter
 
 ---
 
+## Must-score facts — motions, structure, latitudes
+
+### Earth motions / shape
+
+| Item | Lock |
+|------|------|
+| Rotation | Day–night; west→east |
+| Revolution | Seasons; elliptical orbit |
+| Shape | Oblate spheroid |
+| Axial tilt | ~**23½°** |
+
+### Structure / circles
+
+| Item | Lock |
+|------|------|
+| Crust / mantle / core | Silicates · denser rocks · iron–nickel |
+| Tropic of Cancer | **23½°N** (cuts India) |
+| Equator | 0° |
+| International Date Line | ~180° (zigzag) |
+| Atmosphere layers | Troposphere → Stratosphere → Mesosphere → Thermosphere |
+
+---
+
 ## N.0 Framework — Earth as a System
 
 Physical geography studies Earth as interacting spheres.

@@ -78,6 +78,48 @@ Origin of Human Beings | Stone Age | Paleolithic Age | Mesolithic Age | Neolithi
 
 ---
 
+## Must-score facts — period, site, excavator
+
+### Period ↔ tool / economy
+
+| Period | Lock |
+|--------|------|
+| Lower Paleolithic | Handaxes / cleavers (**Acheulian**) |
+| Middle Paleolithic | Flakes (Levallois) |
+| Upper Paleolithic | Blades, burins, scrapers |
+| Mesolithic | **Microliths** (1–8 cm); hunting–gathering |
+| Neolithic | Polished stone; pottery; farming |
+| Chalcolithic | Copper + stone; **rural** villages |
+| Soanian | Pebble chopper–chopping (Soan–Siwalik) |
+| Acheulian | Handaxe–cleaver (peninsula / Narmada) |
+
+### Site ↔ specialty
+
+| Site | Lock |
+|------|------|
+| Hathnora (MP) | *Homo erectus*; **Arun Sonakia 1982** |
+| Attirampakkam (TN) | Old Acheulian **tools** (~1.5 mya); no fossil |
+| Pallavaram (TN) | First Paleolithic tools; **Foote 1863** |
+| Bagor (RJ) | Mesolithic **domestication** (V.N. Misra) |
+| Baghor (MP) | Upper Paleolithic **shrine** (Son valley) |
+| Sarai Nahar Rai / Mahadaha / Damdama | UP Mesolithic **burials** (Pratapgarh) |
+| Mehrgarh | Earliest farming (~**7000 BCE**); wheat–barley; aceramic I |
+| Koldihwa | Belan **rice-husk** pottery (G.R. Sharma) |
+| Mahagara | Belan **cattle pen / hoof marks** |
+| Lahuradewa | Sant Kabir Nagar early **rice** (not Belan) |
+| Burzahom | Kashmir **pit dwellings** + dog burial |
+| Chirand (Bihar) | Bone / antler tools |
+| Bhimbetka (MP) | Rock shelters; **Wakankar 1957–58**; UNESCO 2003 |
+| Inamgaon | **Jorwe** type site (MH) |
+| Navdatoli | **Malwa** culture (Sankalia) |
+| Hastinapur | Classic **OCP** (B.B. Lal) |
+
+### UP Stone Age cluster
+
+**Belan** (Chopani Mando, Koldihwa, Mahagara) · **Lahuradewa** · Pratapgarh Mesolithic · **Morhana Pahar** · **Lekhahia**
+
+---
+
 ## 1.1 Origin of Human Beings
 
 **Modern *Homo sapiens* | Africa first | South Asia ~65,000–45,000 BP**

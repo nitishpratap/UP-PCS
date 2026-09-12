@@ -68,6 +68,23 @@ Environmental Literature | Environmental Education | Environmental Awareness | E
 
 ---
 
+## Must-score facts — books, EE, LiFE
+
+### Books / campaigns
+
+| Item | Lock |
+|------|------|
+| Silent Spring | Rachel Carson **1962**; pesticides/DDT |
+| Tragedy of the Commons | Garrett Hardin **1968** |
+| Limits to Growth | Club of Rome **1972** |
+| Our Common Future | Brundtland **1987** |
+| Tbilisi | EE landmark **1977** |
+| LiFE | COP26 idea **2021**; launch Jun **2022** |
+| NGC / ECO Clubs | MoEFCC school programmes |
+| CSE flagship | *Down To Earth* / Gobar Times |
+
+---
+
 ## 30.1 Environmental Literature
 
 **Identity:** Carson / Hardin / Limits / Brundtland | Author ↔ work matching

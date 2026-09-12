@@ -109,6 +109,40 @@ D. Members of Lok Sabha only
 
 ---
 
+## Must-score facts — President, VP, PM, ordinances
+
+### Frame
+
+| Item | Lock |
+|------|------|
+| Part / Arts. | **Part V, 52–78** |
+| Nominal / real | President / PM + CoM |
+| Executive power | Art. **53**; aid & advice Art. **74** |
+
+### President election / office
+
+| Item | Lock |
+|------|------|
+| Electoral College | Elected MPs + elected MLAs of States/UTs with Assemblies |
+| Do **not** vote | Nominated MPs; Legislative Council members |
+| Method | PR-STV; secret ballot |
+| Age | **35**; qualified for Lok Sabha |
+| Term | **5 years**; re-election unlimited |
+| Impeachment | Art. **61** |
+| Pardon | Art. **72** (death + court-martial stay with President) |
+| Ordinance | Art. **123** |
+
+### VP / PM tags
+
+| Item | Lock |
+|------|------|
+| VP election | Parliament only (Art. **66**) — no State MLAs |
+| VP role | Ex-officio RS Chair |
+| PM | Appointed by President; real executive; collective responsibility to LS |
+| AG | Art. **76**; may speak both Houses; no vote |
+
+---
+
 ## Union Executive — the frame
 
 - **Part V, Articles 52–78.** The Union Executive consists of the **President, Vice-President, Prime Minister, Council of Ministers, and the Attorney General**.

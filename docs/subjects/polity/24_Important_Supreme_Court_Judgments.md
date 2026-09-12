@@ -125,6 +125,35 @@ D. Gopi Aqua vs. Union of India
 
 ---
 
+## Must-score facts — case ↔ holding
+
+### Amendment / Basic Structure chain
+
+| Case / step | Lock |
+|-------------|------|
+| *Shankari Prasad* (1951) | 368 can amend FR |
+| *Golaknath* (1967) | FR cannot be amended (6:5) |
+| 24th (1971) | 13(4) — 368 amendment not “law” under 13 |
+| *Kesavananda* (1973) | Can amend FR but **not Basic Structure** (7:6) |
+| *Indira Gandhi* (1975) | Struck 39th election-shield clauses; Rule of Law in BS |
+| *Minerva Mills* (1980) | Restored limits after 42nd excesses |
+
+### Rights / Emergency / privacy
+
+| Case | Lock |
+|------|------|
+| *A.K. Gopalan* (1950) | Art. 21 = any procedure in valid law |
+| *Maneka Gandhi* (1978) | Fair, just, reasonable procedure |
+| *ADM Jabalpur* (1976) | Habeas fails if 21 suspended (later overruled line) |
+| *Puttaswamy* (2017) | Privacy = FR under 21 |
+| *Bommai* (1994) | Floor test for majority; federalism |
+
+### Order trap
+
+**1951 → 1965 → 1967 → 1973** (*Shankari → Sajjan → Golaknath → Kesavananda*)
+
+---
+
 ## Frame
 
 Two clusters: **can Parliament amend FR / is Art. 21 any procedure or a fair one**, then **who appoints judges, when 356 can be used, what the 10th Schedule really does, which later rights cases held what**. *Golaknath* is still not Basic Structure.

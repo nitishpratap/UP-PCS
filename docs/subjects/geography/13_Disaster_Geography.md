@@ -102,6 +102,29 @@ Cyclone **formation** (SST ~27°C, Coriolis, low shear) and IMD wind ladder are 
 
 ---
 
+## Must-score facts — hazard types, DM cycle, India belts
+
+### Terms
+
+| Term | Lock |
+|------|------|
+| Hazard | Potential threat |
+| Vulnerability | Susceptibility |
+| Risk | Hazard × vulnerability |
+| DM cycle | Mitigation → Preparedness → Response → Recovery |
+
+### India belts
+
+| Hazard | Lock |
+|--------|------|
+| Earthquake | Himalayan / Indo-Gangetic / peninsular zones |
+| Cyclone | Bay of Bengal > Arabian Sea frequency |
+| Flood | Ganga–Brahmaputra plains; flash floods hills |
+| Drought | Rain-shadow / arid west; monsoon failure |
+| Landslide | Himalaya / WG steep slopes |
+
+---
+
 ## N.0 Framework — Hazard, Vulnerability, Risk & DM Cycle
 
 A **hazard** is a potentially damaging natural or man-made event. A **disaster** occurs when that hazard hits exposed people or assets and **capacity** is too weak to cope.

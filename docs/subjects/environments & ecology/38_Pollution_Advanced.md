@@ -74,6 +74,25 @@ Air Pollution (Sources | Air Quality | AQI | NCAP | Smog | Photochemical Smog | 
 
 ---
 
+## Must-score facts — AQI, smog, BOD, disease traps
+
+### Air / water
+
+| Item | Lock |
+|------|------|
+| Primary / Secondary | Direct emit / form in air |
+| AQI 8 | PM10 PM2.5 NO₂ CO O₃ SO₂ NH₃ Pb |
+| NCAP / BS-VI | **2019** / **1 Apr 2020** |
+| London / Photochemical | SO₂+smoke / NOx+VOC+sun → O₃+PAN |
+| SAFAR | IITM AQ + weather forecast |
+| BOD / COD / clean water | Microbial O₂ demand / COD≥BOD; DO>~6, BOD<~3 mg/L |
+| Eutrophication | N/P overload → bloom → DO crash (**water**) |
+| CGWB ≠ CPCB | GW quality report / ambient air–surface water |
+| Disease locks | Fluoride knock-knee · As Black Foot · Hg Minamata · Cd Itai-itai |
+| Damodar / Ganga BOD | Biological desert / Kanpur–Allahabad peak class |
+
+---
+
 ## 38.1 Sources of Air Pollution
 
 **Identity:** Point / non-point | Sectoral | Primary pollutants

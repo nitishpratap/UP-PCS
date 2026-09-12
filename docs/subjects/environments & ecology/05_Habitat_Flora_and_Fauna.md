@@ -66,6 +66,29 @@ Habitat | Habitat Conservation | Flora and Fauna
 
 ---
 
+## Must-score facts — habitat, flora–fauna, schemes
+
+### Tags
+
+| Item | Lock |
+|------|------|
+| Habitat / Niche / Ecosystem | Place / role / functional unit |
+| Habitat classes | Terrestrial · aquatic · transitional |
+| Arboreal / Fossorial / Cursorial / Xericole | Trees / burrows / open plains / desert |
+| #1 threat | Habitat loss (+ fragmentation; corridors reconnect) |
+| Flora / Fauna | Plants / animals — do not swap |
+| India species share | ~45k plants; ~91k+ animals on ~2.4% land |
+
+### Schemes
+
+| Item | Lock |
+|------|------|
+| MISHTI | Mangrove initiative; Budget **2023–24** (≠ 2019) |
+| NUHHP | Urban Housing & Habitat Policy **2007** |
+| Chronology | JNNURM 2005 → NUHHP 2007 → AMRUT 2015 → JJM 2019 |
+
+---
+
 ## 5.1 Habitat
 
 **Identity:** Place where species lives | Terrestrial / aquatic / transitional | Adaptation-based types

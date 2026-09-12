@@ -76,6 +76,57 @@ Political Condition of Sixth Century BCE | Sixteen Mahajanapadas | Mahajanapadas
 
 ---
 
+## Must-score facts — capitals, UP list, Magadha order
+
+### Classic capital matches
+
+| Mahajanapada | Capital |
+|--------------|---------|
+| Matsya | **Viratnagar** |
+| Kuru | **Indraprastha / Hastinapur** |
+| Surasena | **Mathura** |
+| Asmaka | **Potana** (only south of Vindhyas) |
+| Chedi | **Suktimati / Sotthivati** |
+| Anga | **Champa** |
+| Vajji | **Vaishali** (gana-sangha) |
+| Malla | **Kushinagar / Pava** |
+| Magadha | **Rajagriha** → later **Pataliputra** |
+| Kashi | **Varanasi** |
+| Kosala | **Ayodhya / Shravasti** |
+| Vatsa | **Kaushambi** |
+| Panchala | **Ahichchhatra / Kampilya** |
+| Avanti | **Ujjain / Mahishmati** |
+
+### Eight UP-touching mahajanapadas
+
+**Kashi · Kosala · Vatsa · Kuru · Panchala · Malla · Surasena · Chedi**
+
+Not UP: Magadha / Anga / Vajji (Bihar), Avanti (MP), Matsya (RJ).
+
+### Magadha dynasty order
+
+**Haryanka → Shishunaga → Nanda → Maurya**
+
+| King | Tag |
+|------|-----|
+| Bimbisara | Alliances; took **Anga** |
+| Ajatashatru | War on **Vajji**; *rathamusala*; Pataligrama seed |
+| Udayin | First makes **Pataliputra** capital |
+| Shishunaga | Took **Avanti** |
+| Kalashoka | Linked with **2nd Buddhist Council** |
+| Mahapadma Nanda | *Ekarat / Sarvakshatrantaka* |
+| Dhana Nanda | Last; Greek **Agrammes** |
+
+### Pottery / money
+
+| Item | Lock |
+|------|------|
+| NBPW | Deluxe black pottery of 2nd urbanisation |
+| PGW | Later Vedic (earlier) |
+| Punch-marked silver | **Aahat / karshapana** |
+
+---
+
 ## Books and Writers — Sixth Century BCE
 
 **Book–writer pairs | named texts of the mahajanapada age**

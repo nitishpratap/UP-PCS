@@ -76,6 +76,55 @@ Post-Gupta Age | Harshavardhana | Administration of Harsha | Policies of Harshav
 
 ---
 
+## Must-score facts — Harsha, travellers, houses
+
+### Regional houses after Guptas
+
+| House | Seat |
+|-------|------|
+| Pushyabhuti | **Thanesar** → later **Kannauj** |
+| Maukhari | **Kannauj** |
+| Later Gupta | Magadha |
+| Maitraka | **Valabhi** |
+| Gauda (Shashanka) | **Karnasuvarna** |
+| Huna | Toramana → **Mihirakula** (Sakala) |
+
+### Harsha tags
+
+| Item | Lock |
+|------|------|
+| Reign | **606–647 CE**; Harsha-samvat **606** |
+| Chinese title | **Siladitya** |
+| Early capital | **Thanesar** (Haryana) |
+| Later capital | **Kannauj** (UP) |
+| Ally | **Bhaskaravarman** (Kamarupa) |
+| Narmada stop | **Pulakeshin II**; **Aihole** (Ravikirti) ~630–634 |
+| Assemblies | Kannauj **643**; Prayag Moksha every 5 years |
+| Grants | **Banskhera** (signature); **Madhuban** |
+| Court poet | **Banabhatta** — *Harshacharita* (bio); *Kadambari* (romance) |
+| Plays | *Nagananda*, *Ratnavali*, *Priyadarshika* |
+
+### Traveller chronology
+
+| Traveller | When / under |
+|-----------|--------------|
+| Fa-Hien | ~399–414; Chandragupta II |
+| Sung-yun | ~518–521 |
+| Hiuen Tsang | ~630–644; Harsha; *Si-Yu-Ki*; Nalanda / Shilabhadra |
+| I-Tsing | ~671–695; after Harsha |
+| Al-Biruni | ~1017 |
+
+### Maukhari inscription pairs
+
+| Ruler | Record |
+|-------|--------|
+| Ishanavarman | **Haraha** (Barabanki, UP, 554) |
+| Ishvaravarman | **Jaunpur** stone |
+| Jivitagupta II | **Deo-Baranark** |
+| Sarvavarman | **Asirgarh** seal (≠ Gaya plate) |
+
+---
+
 ## Books and Writers — Post-Gupta / Harsha Age
 
 **Book–writer pairs | Bana, Harsha’s plays, Chinese travellers**

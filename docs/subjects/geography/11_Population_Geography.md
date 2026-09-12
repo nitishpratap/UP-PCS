@@ -91,6 +91,29 @@ Census of India | Factors of Distribution | Population Density (arithmetic / phy
 
 ---
 
+## Must-score facts — density, growth, Census tags
+
+### Terms
+
+| Term | Lock |
+|------|------|
+| Density | Population ÷ area |
+| Physiological density | Population ÷ arable land |
+| Agricultural density | Farmers ÷ arable land |
+| Sex ratio | Females / 1000 males |
+| Literacy | 7+ who can read & write with understanding |
+
+### India Census 2011 spine (teaching)
+
+| Item | Lock |
+|------|------|
+| Highest density state (usual) | Bihar |
+| Lowest density (large state) | Arunachal teaching |
+| Highest literacy (usual) | Kerala |
+| Phase model | High stationary → early expanding → late expanding → low stationary |
+
+---
+
 ## N.0 Framework (UPSC / NCERT map first)
 
 Population geography asks **how many people live where**, **how that number changes**, and **what structure** the population has.

@@ -84,6 +84,28 @@
 
 ---
 
+## Must-score facts — EC, UPSC, CAG, FC
+
+### What is a constitutional body?
+
+Created by the **Constitution**; often charged expenditure; removal harder than ordinary civil servants.
+
+### Body ↔ Article / tag
+
+| Body | Lock |
+|------|------|
+| Election Commission | Art. **324**; multi-member; CEC + ECs |
+| EC term | **6 years or age 65** |
+| First CEC | **Sukumar Sen** |
+| President/VP election dispute | SC under Art. **71** (not EC) |
+| UPSC | Arts. **315–323**; President appoints; advice **not binding** |
+| SPSC | Appointed by Governor; **removed by President** |
+| CAG | Arts. **148–151**; 6 years / age 65 |
+| Finance Commission | Art. **280** |
+| National Commission for SCs/STs/BCs | Constitutional (related Articles 338 etc.) |
+
+---
+
 ## Frame — what “constitutional body” means
 
 Created **by the Constitution**, not by an ordinary Act. Contrast: **statutory** (Lokpal, NHRC, CVC) · **executive** (NITI, NDC) — full table below.

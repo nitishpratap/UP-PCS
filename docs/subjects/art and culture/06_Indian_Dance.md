@@ -76,6 +76,33 @@ Kalbelia UNESCO **2010**. Chhau **2010**. Sankirtana **2013**. SNA **1952**.
 
 ---
 
+## Must-score facts — eight classical, gharanas, markers
+
+### SNA eight (+ trap)
+
+| Dance | State / tag |
+|-------|-------------|
+| Bharatanatyam | Tamil Nadu; araimandi; sadir → Rukmini Devi |
+| Kathak | North / **UP**; chakkar, tatkar |
+| Kathakali | Kerala; chutti; pacha colour code |
+| Kuchipudi | Andhra; **tarangam** plate dance |
+| Odissi | Odisha |
+| Manipuri | Manipur |
+| Mohiniyattam | Kerala; female lasya; white–gold |
+| Sattriya | Assam; added **2000** |
+| **Chhau** | **Not** in SNA eight (UNESCO / martial-folk) |
+
+### Theory / Kathak gharanas
+
+| Item | Lock |
+|------|------|
+| Root text | Natyashastra; **9** rasas; 4 abhinaya |
+| Nritta / Nritya / Natya | Pure / expressive / dance-drama |
+| Lasya / Tandava | Graceful / vigorous |
+| Kathak gharanas | **Lucknow** (Wajid Ali, Birju), Jaipur, Banaras |
+
+---
+
 ## 6.1 Indian Classical Dances
 
 **Count:** 8** (Sangeet Natak Akademi) | **Root text:** Natyashastra (Bharata) | **8th added:** Sattriya **2000**

@@ -60,6 +60,22 @@ Acid Rain | Causes | Effects | Prevention
 
 ---
 
+## Must-score facts — pH, Taj Trapezium, protocols
+
+### Locks
+
+| Item | Lock |
+|------|------|
+| Acid rain | pH <**5.6** |
+| Normal rain | ~5.6 from CO₂ (≠ alkaline) |
+| Main acids | H₂SO₄ (SO₂) + HNO₃ (NOx) |
+| Taj marble | → gypsum (CaSO₄) under sulphuric attack |
+| Taj Trapezium | Pollution-control belt for Taj |
+| Gothenburg/CLRTAP | Acidifying air (≠ Montreal ozone) |
+| Prevention | FGD, converters, BS-VI, cleaner fuel |
+
+---
+
 ## 39.1 Acid Rain
 
 **Identity:** pH < 5.6 | H₂SO₄ + HNO₃ | Wet + dry | Secondary pollutant

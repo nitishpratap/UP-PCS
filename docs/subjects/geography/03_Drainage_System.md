@@ -99,6 +99,47 @@ Namami Gange and GAP are Ganga cleaning programmes. They are not river-origin fa
 
 ![img_9.png](../img_9.png)
 
+## Must-score facts — basins, types, dam–river
+
+### Area / water share
+
+| Item | Lock |
+|------|------|
+| Bay of Bengal drainage area | ~**77%** |
+| Arabian Sea drainage area | ~**23%** |
+| Water volume | Brahmaputra ~**40%** · Ganga ~**25%** · Godavari ~**6%** |
+| Largest basin in India | **Ganga** |
+| Largest peninsular basin | **Godavari** |
+| Main peninsular divide | **Western Ghats** |
+| Amarkantak radial | **Narmada** west · **Son** east |
+
+### Drainage types
+
+| Type | Lock |
+|------|------|
+| Consequent | Follows original slope |
+| Subsequent | Follows weak belts later |
+| Antecedent | Cuts rising land (Indus, Sutlej, Brahmaputra) |
+| Himalayan vs peninsular | Mostly perennial vs mostly rain-fed / seasonal |
+
+### Dam ↔ river
+
+| Dam | River |
+|-----|-------|
+| Baglihar | **Chenab** |
+| Pandoh | **Beas** (≠ Ravi) |
+| Srisailam | **Krishna** (≠ Tungabhadra) |
+
+### Name locks
+
+| Item | Lock |
+|------|------|
+| Ganga named at | **Devprayag** (Alaknanda + Bhagirathi) |
+| Punjab five (E→W teaching) | Jhelum–Chenab–Ravi–Beas–Sutlej spine |
+| Trans-Himalayan | Rise north of Great Himalaya (e.g. Sutlej, Indus, Brahmaputra) |
+
+---
+
 ## 3.0 Drainage framework
 
 ### River basics (must know before systems)

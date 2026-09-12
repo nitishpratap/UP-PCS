@@ -107,6 +107,28 @@ Sitting AG / CAG / SG names are **CA colour** — don’t raata a 2026 occupant 
 
 ---
 
+## Must-score facts — AG, SG, AdvG, CAG
+
+### Union law officers
+
+| Office | Lock |
+|--------|------|
+| Attorney General | Art. **76**; SC-judge qualification |
+| Art. 88 | Speak in both Houses / committees; **no vote** |
+| AG oath / pay | Not Third Schedule; pay fixed by President |
+| Solicitor General | **Not** in Constitution; assists AG; no Art. 88 |
+
+### State / audit
+
+| Office | Lock |
+|--------|------|
+| Advocate General | Art. **165**; HC-judge qualification |
+| “AdvG of India” | **Does not exist** |
+| CAG | Arts. **148–151**; 6 yrs / age 65 |
+| CAG oath / salary | Third Schedule; Second Schedule; charged |
+
+---
+
 ## Frame
 
 Law officers, auditor, CEC/ECs, PSC chairs, two Chief Justices — each as an **office** (appoint / remove / qualify / tenure / oath / resign). Each card is appoint / remove / oath / resign. **SG is the only one of the ten not in the text.**

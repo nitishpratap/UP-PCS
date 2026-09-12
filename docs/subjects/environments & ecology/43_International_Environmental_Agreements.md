@@ -63,6 +63,24 @@ UNFCCC | Kyoto Protocol | Paris Agreement | CBD | Ramsar | CITES | Bonn Conventi
 
 ---
 
+## Must-score facts — UNFCCC Kyoto Paris CBD Basel
+
+### Ladders / tags
+
+| Item | Lock |
+|------|------|
+| Climate | UNFCCC **1992** → Kyoto **1997** → Paris **2015** |
+| Kyoto vs Paris | Annex-I binding / universal NDCs |
+| Montreal | Ozone (**1987**) — not climate |
+| CBD / Cartagena | **1992** / biosafety protocol |
+| Ramsar / CITES / CMS | **1971** / **1973** / Bonn **1979** |
+| Basel / Rotterdam / Stockholm POPs | **1989** / **1998** / **2001** |
+| Minamata | Mercury **2013** |
+| Two Stockholms | **1972** conference→UNEP / **2001** POPs treaty |
+| UNFCCC secretariat | **Bonn** |
+
+---
+
 ## 43.1 UNFCCC
 
 **Identity:** 1992 Rio framework | Stabilize GHGs | COP | Bonn secretariat

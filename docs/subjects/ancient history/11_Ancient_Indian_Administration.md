@@ -69,6 +69,56 @@ Taught in time-order: Vedic → Magadha → Maurya → Post-Mauryan → Gupta �
 
 ---
 
+## Must-score facts — titles, inscriptions, officials
+
+### Title ↔ ruler
+
+| Title | Ruler |
+|-------|-------|
+| Devanampiya Piyadassi | **Ashoka** |
+| Amitraghata | **Bindusara** |
+| Maharajadhiraja (first Gupta) | **Chandragupta I** |
+| Vikramaditya | **Chandragupta II** |
+| Siladitya | **Harsha** |
+| Devaputra | **Kanishka** |
+| Dakshinapathapati | **Gautamiputra Satakarni** |
+| Mahameghavahana | **Kharavela** |
+| Mahakshatrapa | **Rudradaman I** |
+| Ekarat / Sarvakshatrantaka | **Mahapadma Nanda** |
+| Sandrokottos | **Chandragupta Maurya** |
+
+### Inscription ↔ owner
+
+| Inscription | Lock |
+|-------------|------|
+| Hathigumpha | **Kharavela** |
+| Ayodhya | Pushyamitra **ashwamedhas** |
+| Besnagar | **Heliodorus** (≠ Pushyamitra) |
+| Prayag Prashasti | **Samudragupta** / Harishena |
+| Aihole | **Pulakeshin II** vs Harsha |
+| Junagadh / Girnar | Ashoka → Rudradaman → Skandagupta |
+| Nasik prasasti | Gautamiputra vs Nahapana |
+| Bhitari | **Skandagupta** vs Hunas |
+| Mehrauli iron pillar | Usually **Chandragupta II** |
+| Banskhera / Madhuban | **Harsha** |
+| Rummindei | Ashoka at Lumbini |
+| Haraha | Maukhari **Ishanavarman** |
+
+### Official ↔ age
+
+| Official | Age / role |
+|----------|------------|
+| Bhagadugha | Vedic revenue |
+| Akshavapa | Vedic dice (trap) |
+| Samaharta | Mauryan collector |
+| Sannidhata | Mauryan treasurer |
+| Agronomai | Mauryan rural revenue (Greek) |
+| Rajuka | Mauryan land / justice |
+| Uparika | Gupta province |
+| Sandhivigrahika | Gupta / Harsha peace–war |
+
+---
+
 ## Books and Writers — Administration Sources
 
 **Short source table | fuller Mauryan literature list is in Topic 7**

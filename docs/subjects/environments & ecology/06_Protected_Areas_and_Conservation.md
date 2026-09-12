@@ -92,6 +92,32 @@ Wildlife Sanctuary | National Park | Biosphere Reserve | Conservation Reserve | 
 
 ---
 
+## Must-score facts — WPA categories, tiger, Ramsar
+
+### Strictness / categories
+
+| Item | Lock |
+|------|------|
+| WPA year | **1972** |
+| Strictness (terrestrial) | NP > Sanctuary > Conservation/Community Reserve |
+| NP / Sanctuary | Sec. **35** strictest / Sec. **18** limited use |
+| Biosphere Reserve | UNESCO MAB; core → buffer → transition (**not** WPA) |
+| India BRs | **18** national; first **Nilgiri 1986** |
+| Conservation / Community Res. | Sec. 36A / 36B (**2002**) |
+| Tiger Reserve | Sec. **38V**; NTCA; **58** TRs; Corbett first **1973** |
+| Elephant Reserve | Project Elephant **1992**; ~**33**; **no** WPA statute |
+
+### Marine / wetland / ESZ
+
+| Item | Lock |
+|------|------|
+| First Marine NP | Gulf of Kutch, Gujarat **1980** |
+| Ramsar | **1971**; India joined **1982** |
+| Rudrasagar / Sultanpur | Tripura / Haryana (**not** UP) |
+| ESZ | EPA **1986** buffer (≠ WPA category) |
+
+---
+
 ## 6.1 Wildlife Sanctuary
 
 **Identity:** WPA Sec 18 | State declares | Human use with CWLW permission

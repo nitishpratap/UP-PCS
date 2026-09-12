@@ -70,6 +70,56 @@ Sikhism | Guru Tradition | Ten Sikh Gurus | Guru Granth Sahib | Khalsa | Guru Go
 
 ---
 
+## Must-score facts — Gurus, Granth, Khalsa
+
+### Ten Gurus (order)
+
+| # | Guru | Tag |
+|---|------|-----|
+| 1 | Nanak | Founder; Ik Onkar; langar |
+| 2 | Angad (Lehna) | **Gurmukhi** |
+| 3 | Amar Das | **22 Manjis**; Goindwal langar |
+| 4 | Ram Das | Amritsar / Ramdaspur (Akbar grant to Bibi Bhani) |
+| 5 | Arjan | **Adi Granth 1604**; Harmandir; martyred **1606** (Jahangir) |
+| 6 | Hargobind | **Miri–Piri**; Akal Takht |
+| 7 | Har Rai | Continuity |
+| 8 | Har Krishan | Child Guru; Delhi epidemic service |
+| 9 | Tegh Bahadur | Martyred **Delhi 1675** (Aurangzeb) |
+| 10 | Gobind Singh | **Khalsa 1699**; eternal Granth **1708** Nanded |
+
+### Book / institution ↔ lock
+
+| Item | Lock |
+|------|------|
+| Adi Granth | Compiled **1604** by Arjan |
+| Guru Granth Sahib | Eternal Guru after **1708** |
+| Dasam Granth | Separate Gobind Singh corpus (not eternal Guru) |
+| Harmandir Sahib | Spiritual centre |
+| Akal Takht | Temporal seat (Hargobind) |
+| Khalsa | **Anandpur, Vaisakhi 1699**; Panj Pyare |
+| Five Ks | Kesh, Kangha, Kara, Kachha, Kirpan |
+| Zafarnama | Gobind Singh’s **Persian** letter to Aurangzeb |
+| Bhangani | **1688** vs Pahari rajas |
+
+### Martyrdom pair
+
+| Guru | Year | Emperor |
+|------|------|---------|
+| Arjan | **1606** | Jahangir |
+| Tegh Bahadur | **1675** | Aurangzeb |
+
+### Place tags
+
+| Place | Lock |
+|-------|------|
+| Patna | Gobind Singh **birth** |
+| Nanded / Hazur Sahib | Gobind Singh **death**; eternal Granth |
+| Amritsar | Ram Das tank / Harmandir |
+| Anandpur | Khalsa founding |
+| Hem Kund (Chamoli, UK) | Gobind Singh tradition gurudwara |
+
+---
+
 ## 10.1 Sikhism — Identity
 
 **Founder:** **Guru Nanak** | **1469–1539** | **Punjab** (Talwandi / Nankana Sahib)

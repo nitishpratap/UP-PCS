@@ -137,6 +137,41 @@ D. Hispar
 
 ![img_5.png](../img_5.png)
 
+## Must-score facts — belts, peaks, passes
+
+### Himalayan belts (N → S)
+
+**Trans-Himalaya → Himadri (Greater) → Himachal (Lesser) → Shiwalik**
+
+| Item | Lock |
+|------|------|
+| Youngest belt (usual options) | **Himadri** |
+| Oldest fold system (usual options) | **Aravalli** |
+| Kashmir Valley | Pir Panjal **south**; Himadri **north** |
+
+### Central India hills (W → E)
+
+**Satpura → Mahadeo → Maikal → Chhotanagpur** · **Vindhya** lies **north** of Narmada
+
+### State ↔ peak
+
+| State | Peak |
+|-------|------|
+| Tamil Nadu | **Doddabetta** |
+| Rajasthan | **Guru Shikhar** (Aravalli) |
+| Nagaland | **Saramati** |
+
+### Passes / temple
+
+| Item | Lock |
+|------|------|
+| Lipulekh / Niti / Mana | All in **Uttarakhand** (Lipulekh ≠ Ladakh) |
+| Venkateswara / Tirupati | **Tirumala / Mallamalla** — Eastern Ghats (AP) |
+| Intertrappean beds | Land / freshwater fossils (not marine) |
+| India area rank | **7th** (~3.28 million km²; ~2.4% world land) |
+
+---
+
 ## 1.0 Physiographic framework
 
 - NCERT splits India’s geology into **three** structural units. Standard relief maps then teach **six** relief divisions on that skeleton.

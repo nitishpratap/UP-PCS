@@ -43,6 +43,24 @@
 | Montreal vs Kyoto | Ozone vs climate |
 | Nokrek–Manipur / UP BR claims | Nokrek = **Meghalaya**; UP has **zero** BRs |
 
+## Must-score facts — volume, hot clusters, year traps
+
+### Trend locks
+
+| Item | Lock |
+|------|------|
+| Typical tagged marks | ~**15–20**/year (not 8–10) |
+| Peak / recent strong | **2023** ~25; **2025** ~19 |
+| Hottest clusters | SDGs → pollution → ecology/ecosystem |
+| Also hot | Climate · wildlife · biodiversity · BR · ISFR · Ramsar–UP |
+| 2025 format shift | ~2/3 multi-statement / A/R / Match / NOT |
+| LiFE / MISHTI years | COP26’21→Jun’22 / Budget **2023** |
+| DPAP / Net zero / GEF | **1973** / **2070** / **1991** |
+| UP negatives | Rudrasagar Tripura · Sultanpur Haryana · no UP BR · Nokrek≠Manipur |
+| Montreal / Kyoto–Paris | Ozone / climate |
+
+---
+
 ## How to Use This File
 
 | When | Read what | Time |

@@ -62,6 +62,24 @@ UNEP | UNDP | FAO | UNESCO | IUCN | WWF | IPCC | WMO | GEF | Greenpeace
 
 ---
 
+## Must-score facts — UNEP UNDP IUCN IPCC HQs
+
+### Org ↔ HQ / product
+
+| Item | Lock |
+|------|------|
+| UNEP | Nairobi; Emissions Gap + GEO; post-Stockholm 1972 |
+| UNDP | New York; HDR/HDI |
+| FAO | Rome; SOFO |
+| UNESCO | Paris; WH + MAB |
+| IUCN | Gland; Red List |
+| WWF | Gland; Living Planet |
+| IPCC | Geneva; WMO+UNEP 1988; Nobel 2007 |
+| IUCN ≠ CITES | Risk assess / trade regulate |
+| GEF | **1991** multilateral funder |
+
+---
+
 ## 42.1 UNEP
 
 **Identity:** Stockholm 1972 | Nairobi | Emissions Gap | GEO | Treaty host

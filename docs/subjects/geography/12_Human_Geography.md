@@ -96,6 +96,27 @@ Million-city **population ranks**. Missions and settlement types
 
 ---
 
+## Must-score facts — approaches, settlements, activities
+
+### Nature & scope
+
+| Item | Lock |
+|------|------|
+| Human geography | Study of human–environment relations / spatial organisation |
+| Approaches | Welfare, behavioural, radical, humanistic (coaching set) |
+| Primary / secondary / tertiary | Extraction · manufacturing · services |
+| Quaternary / quinary | Knowledge / high decision-making |
+
+### Settlements
+
+| Item | Lock |
+|------|------|
+| Rural patterns | Compact, dispersed, linear, circular |
+| Urban functions | Administrative, industrial, commercial, transport, garrison |
+| Primate city / rank-size | Coaching definitions |
+
+---
+
 ## N.0 Framework — Nature & Scope of Human Geography
 
 Human geography studies the **relationship between people and the physical earth**, the **spatial distribution** of human phenomena, and social–economic differences across places.

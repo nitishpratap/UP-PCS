@@ -58,6 +58,54 @@ Medieval Music | Later Mughal Music | Mughal Court Patronage | Amir Khusrau | Ta
 
 ---
 
+## Must-score facts — form, patron, treatise
+
+### Form ↔ tag
+
+| Form | Lock |
+|------|------|
+| Dhrupad | Oldest art form; **pakhawaj**; Man Singh Tomar → **Tansen** |
+| Khayal | Dominant today; **tabla**; **Muhammad Shah** / Sadarang–Adarang |
+| Qawwali | Sufi chorus; **Khusrau–Nizamuddin** |
+| Tappa | Refined at **Muhammad Shah Rangeela** court (not Akbar) |
+| Tarana | Nonsense syllables; Khusrau tradition |
+| Thumri | Awadh–Banaras romantic light classical |
+| Sama | Chishti musical assembly |
+
+### Patron ↔ musician
+
+| Patron | Musician / lock |
+|--------|-----------------|
+| Raja Ramchandra (Rewa / Bhata) | **Tansen** before Akbar |
+| Akbar | Tansen as **Navratna**; dhrupad peak |
+| Muhammad Shah | Khayal / tappa bloom |
+| Nizamuddin circle | **Amir Khusrau** (Sultanate age) |
+
+### Treatise ↔ author
+
+| Treatise | Author |
+|----------|--------|
+| Ragamala | **Pundrik Vitthal** |
+| Rasa Kaumudi | **Sri Kantha** |
+| Raga Vibodh | **Somanath** (music code) |
+| Chaturdandi Prakashika | **Venkatamakhin** |
+| Sangeet Ratnakar | **Sharngadeva** |
+| Brihaddeshi | **Matanga** (clear “raga”) |
+
+### Tansen raga tags
+
+**Miyan Ki Todi · Miyan Ki Malhar · Darbari Kanada**
+
+### UP music geography
+
+| Centre | Lock |
+|--------|------|
+| Agra gharana | Khayal |
+| Lucknow–Banaras | Thumri |
+| Mirzapur–Banaras belt | **Kajri** |
+
+---
+
 ## 6.1 Medieval Music — Overview
 
 - Medieval Indian music fused **Sanskritic raga–tala theory** with **Persianate court culture** and **Sufi devotion**.

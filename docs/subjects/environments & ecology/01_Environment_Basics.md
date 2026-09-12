@@ -83,6 +83,43 @@ Environment – Meaning | Environmental Components | Classification of Environme
 
 ---
 
+## Must-score facts — spheres, laws, articles, days
+
+### Core tags
+
+| Item | Lock |
+|------|------|
+| Ecology / Ecosystem / Habitat / Niche | Study / functional unit / place / role |
+| Four spheres | Lithosphere · hydrosphere · atmosphere · biosphere |
+| Biosphere span | ~200 m below soil → ~6 km above sea level |
+| Edaphic / Climatic / Topographic | Soil / weather / slope–altitude |
+| Liebig / Shelford | Scarcest resource / min–max tolerance |
+| Lentic / Lotic | Standing / flowing water |
+| Thought chain | Ratzel determinism → Vidal possibilism → Griffith Taylor neo-determinism |
+| IPAT / Tragedy of Commons | P×A×T / Hardin **1968** |
+
+### Milestones & law
+
+| Item | Lock |
+|------|------|
+| Brundtland / Rio | **1987** SD definition / **1992** Agenda 21 + UNFCCC + CBD |
+| LiFE | Idea COP26 **2021**; launch **2022** |
+| Chipko / JFM / FRA | **1973** Reni / **1990** / **2006** |
+| Art. 48A / 51A(g) / 48 | State DPSP env / citizen duty / agri–cows (**not** env) |
+| 42nd Amd / EPA | **1976** adds 48A+51A(g) / EPA **1986** post-Bhopal |
+| MoEF → MoEFCC | **1985** → **2014**; HQ New Delhi |
+| Stockholm / UNEP | **1972** → UNEP **Nairobi** |
+| GAP / Namami Gange | **1985** / **2014** |
+
+### Days (quick)
+
+| Item | Lock |
+|------|------|
+| WED / Earth / Wildlife | 5 Jun / 22 Apr / **3 Mar** (≠ 22 Mar) |
+| Wetlands / Ozone / Desertif. / Biodiversity | 2 Feb / 16 Sep / 17 Jun / 22 May |
+
+---
+
 ## 1.1 Environment – Meaning
 
 **Scope:** NCERT definition | four spheres | atmosphere basics | scales & types | milestones & law

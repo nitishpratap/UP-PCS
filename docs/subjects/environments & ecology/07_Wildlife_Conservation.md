@@ -77,6 +77,31 @@ Wildlife Conservation | Wildlife Protection | Project Tiger | Project Elephant |
 
 ---
 
+## Must-score facts — projects, schedules, NTCA
+
+### Law / schedules
+
+| Item | Lock |
+|------|------|
+| WPA Schedules | Six; **Schedule I** = maximum protection |
+| Schedule VI | Plants; licence from CWLW (not absolute ban) |
+| NBWL / CWLW | PM-chaired advisory / State implementing officer |
+| NTCA | Statutory via 2005–06 path; Tiger Reserves only |
+
+### Projects
+
+| Item | Lock |
+|------|------|
+| Project Tiger | **1973**; Corbett first; **58** TRs; ~3682 (2022) |
+| Project Elephant | **1992**; ~33 reserves; wild + captive |
+| Crocodile Project | **1975**; gharial–mugger–saltwater; Chambal |
+| Project Lion | **2020**; Gir only (no wild UP lions) |
+| IRV 2020 | Rhino recovery; includes **Dudhwa** |
+| Project Snow Leopard / GSLEP | **2009** / **2013** (no UP habitat) |
+| Vulture plan / diclofenac ban | **2006** / **2006** |
+
+---
+
 ## 7.1 Wildlife Conservation
 
 **Identity:** In-situ primary | Species programmes + community participation | MoEFCC nodal

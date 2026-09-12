@@ -71,18 +71,60 @@ Congress Socialist Party | Subhash Chandra Bose | Forward Bloc | Quit India Move
 
 ---
 
-## Must-Score Facts
+## Must-score facts — missions, INA, 1947 dates
 
-- Congress ministries were **formed in 1937** after the provincial elections and **resigned in 1939** over the war declaration without consultation — eight provinces, not all of British India.
-- CSP (**1934**) and Forward Bloc (**1939**) are both left-of-Congress but never the same body; **Nehru sympathised with CSP but never formally joined**.
-- Bose presided at **Haripura (1938)** and **Tripuri (1939)**, then founded **Forward Bloc**; the **Azad Hind Government** dates from **21 October 1943, Singapore**.
-- Cripps (**March 1942**) offered dominion status with a province opt-out; Quit India (**8 August 1942**) followed its rejection with "Do or Die".
-- The **RIN Mutiny (February 1946)** is a ratings' revolt over pay, race and demobilisation, not a Congress satyagraha and not the same event as Quit India.
-- **Direct Action Day (16 August 1946)** was the League's call; it triggered the Calcutta–Noakhali–Bihar violence that hardened both parties toward Partition.
-- **Attlee's statement (20 February 1947)** fixed the first hard deadline, June 1948, and named Mountbatten as Viceroy; **Mountbatten's own Plan (3 June 1947)** then advanced that date to 15 August.
-- Keep the three 1947 dates apart: **Plan — 3 June**, **Act — 18 July**, **Independence — 15 August**.
-- The **C.R. Formula (1944)** is Rajagopalachari's, never C.R. Das, who died in 1925.
-- INA trials ran at the **Red Fort**, tried **Sahgal, Shah Nawaz Khan and Dhillon**; sentences were remitted after mass protest, not carried out.
+### Chronology ladder (1937–47)
+
+| Year | Lock |
+|------|------|
+| **1937** | Congress ministries formed |
+| **1939** | Ministries resign; Forward Bloc |
+| **Mar 1940** | Ramgarh; League Lahore / Pakistan resolution |
+| **Aug 1940** | August Offer |
+| **Oct 1940** | Individual Satyagraha (Vinoba first) |
+| **Mar 1942** | **Cripps Mission** |
+| **8 Aug 1942** | **Quit India** (Do or Die) |
+| **21 Oct 1943** | **Azad Hind Government**, Singapore |
+| **Jun–Jul 1945** | Wavell Plan + Simla |
+| **Nov 1945–46** | INA Trials, Red Fort |
+| **Feb 1946** | **RIN Mutiny**; Cabinet Mission announced |
+| **16 May 1946** | Cabinet Mission Plan |
+| **16 Aug 1946** | Direct Action Day |
+| **2 Sep 1946** | Interim Government (League joins 26 Oct) |
+| **20 Feb 1947** | Attlee statement (to June 1948) |
+| **3 Jun 1947** | **Mountbatten Plan** |
+| **18 Jul 1947** | **Indian Independence Act** |
+| **15 Aug 1947** | Independence / Partition |
+
+### Mission / formula tags
+
+| Item | Lock |
+|------|------|
+| Cripps | Dominion after war + province opt-out; rejected |
+| C.R. Formula | **Rajagopalachari 1944** (≠ C.R. Das, d. 1925) |
+| Wavell / Simla | **1945** — after Cripps, before Cabinet Mission |
+| Cabinet Mission | Grouping + union centre (**16 May 1946**) |
+| Three 1947 dates | Plan **3 Jun** · Act **18 Jul** · Independence **15 Aug** |
+
+### Bose / INA / QI tags
+
+| Item | Lock |
+|------|------|
+| Haripura / Tripuri | Bose President **1938 / 1939** |
+| Forward Bloc | **1939** |
+| Azad Hind Fauj | Army abroad |
+| Azad Hind Government | Provisional govt **21 Oct 1943**, Singapore |
+| Rani of Jhansi Regiment | **Lakshmi Sehgal** |
+| INA Trials | Sahgal, Shah Nawaz, Dhillon at **Red Fort** |
+| QI women | Aruna Asaf Ali, Matangini Hazra, Kanaklata, Usha Mehta |
+| Parallel governments | Ballia (Chittu Pandey, UP), Tamluk, Satara |
+
+### Left bodies (not the same)
+
+| Body | Lock |
+|------|------|
+| CSP | **1934** inside Congress; Nehru never formally joined |
+| Forward Bloc | **1939** Bose’s separate body |
 
 ---
 

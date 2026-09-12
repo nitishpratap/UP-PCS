@@ -120,76 +120,44 @@ Peasant Movements | Peasant Revolts | Leaders | Tribal Revolts | Tribal Leaders 
 
 ---
 
-## Must-score facts — revolt â†” leader â†” year
-
+## Must-score facts — revolt ↔ leader ↔ year
 ### Peasant / tribal revolt fact table
 
 | Revolt | Year | Leader | Region |
-
 |--------|------|--------|--------|
-
 | Sanyasi–Fakir | ~1763–1800 | Majnu Shah, Bhawani Pathak | Bengal–Bihar |
-
 | Paika | 1817 | Jagabandhu Bidyadhar | Odisha |
-
 | Ahom | ~1828 (**not 1815**) | Gomdhar Konwar | Assam |
-
 | Khasi | 1829 | Tirut Singh | Meghalaya |
-
 | Kol | 1831–32 | Buddhu Bhagat | Chotanagpur |
-
 | Santhal | 1855–56 | Sidhu & Kanhu | Rajmahal / Santhal Parganas |
-
 | Indigo | 1859–60 | Digambar & Bishnu Biswas | Bengal (Nadia) |
-
 | Kuka | ~1872 | Baba Ram Singh | Punjab |
-
 | Pabna | 1873–85 | Ishan Chandra Roy | Bengal |
-
 | Deccan Riots | 1875 | crowds vs *sahukars* | Poona–Ahmednagar |
-
 | Munda Ulgulan | 1899–1900 | Birsa Munda | Chotanagpur |
-
 | Tana Bhagat | 1914 | Jatra Oraon | Chotanagpur |
-
 | Champaran | 1917 | M.K. Gandhi | Bihar |
-
 | Kheda | 1918 | Gandhi, Patel | Gujarat |
-
 | UP Kisan Sabha | 1918 | Indra Narayan Dwivedi | Lucknow |
-
 | Oudh Kisan Sabha | Oct 1920 | Baba Ramchandra | Pratapgarh |
-
 | Moplah | 1921 | Ali Musliyar, Variyamkunnath | Malabar |
-
 | Eka | 1921–22 | Madari Pasi | Awadh |
-
 | Rampa / Manyam | 1922–24 | Alluri Sitarama Raju | East Godavari |
-
 | AIKS | 1936 | Swami Sahajanand Saraswati | Lucknow session |
-
 | Bardoli | 1928 | Vallabhbhai Patel | Gujarat |
-
 | Tebhaga | 1946–47 | Bengal Kisan Sabha / CPI | North Bengal |
-
 | **Telangana** | **1946–51** | Sundarayya, Ravi Narayan Reddy (CPI-led) | Hyderabad State |
 
 ### Labour body ↔ tag (founding facts only — full politics in Topic 12)
 
 | Body | Year | Tag |
-
 |------|------|-----|
-
 | Madras Labour Union | 1918 | V.P. Wadia |
-
 | ILO Washington rep | 1919 | N.M. Joshi |
-
 | AITUC | 1920 | Lala Lajpat Rai first president; UPPCS maps â†’ CPI |
-
 | INTUC | 1947 | Congress |
-
 | UTUC | 1949 | UPPCS maps â†’ CPI(M) |
-
 | BMS | 1955 | Dattopant Thengadi; BJP/RSS |
 
 ### One-home rule (do not duplicate)

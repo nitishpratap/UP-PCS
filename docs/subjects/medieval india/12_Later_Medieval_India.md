@@ -90,6 +90,66 @@ Later Mughals | Disintegration of the Mughal Empire | Nadir Shah | Hyderabad Niz
 
 ---
 
+## Must-score facts — Europeans, Awadh, Later Mughals
+
+### European arrival order
+
+**Portuguese 1498 → Dutch ~1605 → English Surat 1613 → Danish Tranquebar 1620 → French Pondicherry 1674**
+
+| Company | Charter year |
+|---------|--------------|
+| EIC | **1600** |
+| VOC | **1602** |
+| Danish | **1616** |
+| French | **1664** |
+
+### Person ↔ tag
+
+| Person | Lock |
+|--------|------|
+| Vasco da Gama | Calicut **1498** |
+| Albuquerque | Goa **1510**; real founder |
+| Almeida | First Viceroy; Blue Water |
+| William Hawkins | *Hector* **1608**; Turkish; Jahangir |
+| Sir Thomas Roe | Ambassador **1615–19** |
+| Job Charnock | Calcutta / Sutanuti |
+| Dupleix | French troops in succession wars |
+| Colbert | French company **1664** |
+
+### English factory spine
+
+| Place | Year |
+|-------|------|
+| Masulipatnam (temporary) | **1611** |
+| Surat (permanent) | **1613** |
+| Madras / Fort St George | **1640** |
+| Bombay lease | **1668** |
+| Calcutta | Charnock / Sutanuti |
+
+### Carnatic / treaty tags
+
+| Event | Year | Lock |
+|-------|------|------|
+| First Carnatic War | **1746–48** | Aix-la-Chapelle returns Madras |
+| Ambur | **1749** | Second Carnatic opens |
+| Wandiwash | **1760** | Eyre Coote vs Lally |
+| Treaty of Paris | **1763** | Ends Third / Seven Years’ War |
+
+### Awadh / Later Mughal tags
+
+| Item | Lock |
+|------|------|
+| Saadat Khan | Awadh Nawabi **1722** |
+| Asaf-ud-Daula | Lucknow capital; **Bara Imambara** |
+| Wajid Ali Shah | Last Nawab; annexation **1856** |
+| Farrukh Siyar farman | **1717** duty-free Bengal trade |
+| Sayyid brothers | King-makers **1713–1720** |
+| Nadir Shah | **Karnal 1739**; Peacock Throne / Kohinoor |
+| Nizam-ul-Mulk | Hyderabad after **Shakar Kheda 1724** |
+| Sawai Jai Singh II | Jantar Mantar (Delhi, Jaipur, Ujjain, Mathura, Varanasi) |
+
+---
+
 ## 12.1 European companies — frame
 
 - Europeans came for **spices, textiles, and bullion**. Sea routes mattered after Ottoman control of older land paths.

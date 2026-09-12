@@ -75,6 +75,35 @@ SNA / NSD standing dates are static, not news.
 
 ---
 
+## Must-score facts — Sanskrit drama, folk theatre, puppets
+
+### Texts / playwrights
+
+| Item | Lock |
+|------|------|
+| Natyashastra | Bharata; ~10 rupaka; 9 rasa |
+| Abhinavabharati / Dasharupaka | Abhinavagupta / Dhananjaya |
+| Bhasa / Kalidasa | ~13 plays / *Shakuntala* trio |
+| Shudraka / Vishakhadatta / Bhavabhuti | *Mrichchhakatika* / *Mudrarakshasa* / *Uttararamacharita* |
+| Bhartrihari | *Shringara Shataka* (≠ Kalidasa) |
+| Stage vocab | Yavanika = curtain; nepathya = backstage; sutradhara = presenter |
+
+### Folk / UNESCO / UP
+
+| Form | Lock |
+|------|------|
+| Koodiyattam | Kerala living Sanskrit; UNESCO **2001/2008** |
+| Nautanki | **UP** folk opera; Kanpur–Lucknow; *Ain-i-Akbari* |
+| Ramlila | Ramnagar–Varanasi / Braj; UNESCO **2008** |
+| Raslila | Braj Krishna folk (≠ Manipuri classical) |
+| Gulabo–Sitabo | **Lucknow** glove puppets |
+| Indra Sabha | Amanat, **Lucknow 1853** |
+| Bidesiya / Bhartendu | E. UP–Bhojpuri / Banaras modern Hindi |
+| IPTA / NSD | **1943** / **1959** Delhi |
+| Not UP | Kathputli (RJ), Yakshagana (KA), Tamasha (MH), Ramman (UK) |
+
+---
+
 ## 7.1 Indian Theatre
 
 **Identity:** Live drama with speech, song, dance, costume | Three layers: Sanskrit, folk, modern

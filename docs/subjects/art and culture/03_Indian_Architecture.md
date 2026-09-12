@@ -101,6 +101,40 @@ Indian Temple Architecture | Nagara Style | Dravida Style | Vesara Style | Templ
 
 ---
 
+## Must-score facts — Nagara/Dravida, temples, pillars
+
+### Style locks
+
+| Style | Lock |
+|-------|------|
+| Nagara | Curvilinear **shikhara**; generally **no** monumental gopuram |
+| Dravida | Pyramidal **vimana**; monumental **gopuram** gateway |
+| Sequence | Garbhagriha → antarala → mandapa (+ pradakshina) |
+| Trap | Gopuram ≠ shikhara |
+
+### Temple ↔ dynasty / place
+
+| Temple / set | Lock |
+|--------------|------|
+| Odisha order | Parasuramesvara → Mukteshvara → Lingaraja → Jagannath → **Konark** |
+| Konark | Stone chariot; **24** wheels, **7** horses; Narasimhadeva I |
+| Khajuraho | **Chandela**, MP; sandstone Nagara |
+| Modhera / Dilwara | Solanki Gujarat; Dilwara = **marble** (Mt Abu) |
+| Pallava phases | Mahendra rock-cut → Mamalla rathas → Rajasimha structural |
+| Chola peaks | Brihadeeswara **1010** · Gangaikonda · Airavatesvara |
+| Aihole / Badami / Pattadakal | Early Chalukya cradle · 4 caves · mixed styles |
+
+### Ashokan pillars
+
+| Site | Capital |
+|------|---------|
+| Sarnath | Four lions |
+| Rampurva | Bull / lion |
+| Sankisa | Elephant |
+| Vaishali | Single lion |
+
+---
+
 ## 3.1 Indian Temple Architecture
 
 **Meaning:** House of the deity organised on an east–west axis from gateway to garbhagriha. This is also the syllabus home for **Temple Architecture**.

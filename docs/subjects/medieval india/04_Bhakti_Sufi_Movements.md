@@ -71,6 +71,62 @@ Bhakti Movement | Major Bhakti Saints | Chronology of Bhakti Saints | Indian Sai
 
 ---
 
+## Must-score facts — saints, silsilah, Vedanta
+
+### Saint ↔ region / work
+
+| Saint | Lock |
+|-------|------|
+| Nayanars | Tamil **Shiva** devotees |
+| Alvars | Tamil **Vishnu** devotees |
+| Ramananda | North Rama bhakti; **Prayag** birth; Hindi |
+| Kabir | Nirguna; **Bijak**; death **Maghar** |
+| Nanak | Sikh founder; Ik Onkar |
+| Surdas | **Braj**; *Sursagar*; Vallabh disciple |
+| Tulsidas | **Awadhi**; *Ramcharitmanas* |
+| Chaitanya | Bengal Gaudiya Vaishnavism |
+| Mirabai | Rajasthan Krishna devotee |
+| Andal | Tamil **Alvar** woman saint |
+| Basavanna | Karnataka **Lingayat** |
+| Jayadeva | Odisha; *Gita Govinda* |
+| Shankaradeva | Assam; satra / kirtana-ghosha |
+| Ravidas | Banaras; Ramananda circle |
+
+### Guru ↔ disciple
+
+| Guru | Disciple |
+|------|----------|
+| Ramananda | Kabir; Ravidas |
+| Vallabhacharya | Surdas |
+| Nizamuddin Auliya | Amir Khusrau |
+| Guru Nanak | Mardana (rababi companion) |
+
+### Chishti line
+
+**Moinuddin (Ajmer) → Qutbuddin Bakhtiyar Kaki → Baba Farid → Nizamuddin → Nasiruddin Chiragh**
+
+| Order | Tag |
+|-------|-----|
+| Chishti | Poverty; **sama**; reject state wealth |
+| Suhrawardi | Multan; accept patronage (**Bahauddin Zakariya**) |
+| Naqshbandi | Ahmad Sirhindi; anti-syncretism |
+
+### Vedanta school ↔ founder
+
+| School | Founder |
+|--------|---------|
+| Advaita | **Shankara** |
+| Vishishtadvaita | **Ramanuja** |
+| Dvaita | **Madhva** |
+| Dvaitadvaita | **Nimbarka** |
+| Shuddhadvaita | **Vallabhacharya** |
+
+### Saint chronology (north)
+
+**Namdev (~1270–1350) → Kabir (15th c.) → Nanak (1469–1539) → Chaitanya (1486–1533) → Surdas → Tulsidas → Dadu**
+
+---
+
 ## 4.1 Bhakti Movement — Origins
 
 **Personal devotion to God** | Vernacular hymns | Social equality | South (**7th c.**) → North (**14th–17th c.**)

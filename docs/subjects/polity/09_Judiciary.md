@@ -94,6 +94,37 @@
 
 ---
 
+## Must-score facts — SC, HC, collegium, writs
+
+### Supreme Court
+
+| Item | Lock |
+|------|------|
+| Inaugurated | **28 Jan 1950**; first CJI **H.J. Kania** |
+| Art. 124 / 130 | Establishment / seat **Delhi** |
+| Court of record / binding law | **129** / **141** |
+| Resignation / oath | To / before **President** |
+| Removal | 100 LS or 50 RS members → inquiry → special majority both Houses |
+
+### Collegium / NJAC
+
+| Item | Lock |
+|------|------|
+| Collegium | Judge-made (not in text) |
+| First Judges (1981) | Executive primacy |
+| NJAC | **99th** Amd — struck down (*Fourth Judges*) |
+
+### High Court / writs
+
+| Item | Lock |
+|------|------|
+| HC for each State | Art. **214**; age **62** (Art. 217) |
+| 226 vs 227 | Writs (wider than 32) / superintendence |
+| Common HC | Art. **231** |
+| Integrated + independent | One hierarchy; security of tenure / salaries |
+
+---
+
 ## Integrated vs independent — the frame
 
 India’s judiciary is **both** integrated (one hierarchy) **and** independent (separate from the other organs) — those are **not** the same claim.

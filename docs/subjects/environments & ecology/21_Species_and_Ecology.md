@@ -69,6 +69,24 @@ Red Data Book | IUCN Red List Categories | Wetlands | Mangroves | Coral Reefs | 
 
 ---
 
+## Must-score facts — Red List, Ramsar, biomes
+
+### Lists / wetlands
+
+| Item | Lock |
+|------|------|
+| India Red Data | BSI plants + ZSI animals (Kolkata) |
+| IUCN 9 categories | EX EW CR EN VU NT LC DD NE |
+| Threatened | VU+EN+CR only |
+| IUCN vs CITES | Extinction risk / trade regulation |
+| Ramsar / Wetlands Day | **1971** / **2 February** |
+| Rudrasagar / Sultanpur | Tripura / Haryana |
+| MISHTI | Budget **2023–24** mangroves |
+| India corals | Mannar · Lakshadweep · A&N · Kutch (**not** Sundarbans) |
+| Gangetic dolphin | Freshwater river (≠ marine trap) |
+
+---
+
 ## 21.1 Red Data Book
 
 **Identity:** National endangered-species catalogue | BSI plants | ZSI animals | Kolkata HQ | ≠ IUCN Red List

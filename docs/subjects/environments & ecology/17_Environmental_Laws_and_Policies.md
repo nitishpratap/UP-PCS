@@ -70,6 +70,23 @@
 
 ---
 
+## Must-score facts — act years, articles, clearances
+
+### Act chain
+
+| Item | Lock |
+|------|------|
+| Spine | WPA 72 → Water 74 → FCA 80 → Air 81 → EPA 86 → BDA 02 → FRA 06 → NGT 10 |
+| 48A / 51A(g) / 48 | State DPSP env / duty / agri–cattle (**not** env) |
+| EPA umbrella | Post-Bhopal; Art. 253; EIA/CRZ/ESZ/GEAC power |
+| WPA Schedules | I–IV animals; V vermin; VI plants |
+| NP vs Sanctuary | Sec. 35 stricter / Sec. 18 |
+| FCA vs FRA | Central diversion approval / forest-dweller rights |
+| BDA ladder | NBA → SBB → BMC + PBR |
+| Consent vs EC vs forest | SPCB Water/Air / MoEFCC–SEIAA EPA / FCA Central |
+
+---
+
 ## 17.1 Environmental Law (Constitutional Framework)
 
 **Identity:** Art 48A | Art 51A(g) | Art 21 expansion | Concurrent List | Rio principles in SC

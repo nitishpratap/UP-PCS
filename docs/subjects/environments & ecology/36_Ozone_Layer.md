@@ -73,6 +73,25 @@ Ozone Layer | Ozone Depletion | Ozone Hole | Ozone Depleting Substances (ODS) | 
 
 ---
 
+## Must-score facts — DU, ODS, Vienna–Montreal–Kigali
+
+### Science / treaties
+
+| Item | Lock |
+|------|------|
+| Good / bad | Stratospheric UV shield / tropospheric pollutant |
+| Share | ~90% / ~10% |
+| 1 DU | ≈0.01 mm pure O₃; hole often <**220 DU** |
+| Antarctic season | Sep–Oct spring |
+| 1985 discovery | Farman–Gardiner–Shanklin (BAS) |
+| ODS set | CFCs, Halons, CCl₄, CH₃CCl₃, CH₃Br, HCFCs… |
+| HFCs | High GWP; **not** classic ODS → **Kigali** |
+| Vienna / Montreal / Kigali | **1985** / **1987** (force 1989) / **2016** |
+| Ozone Day | **16 Sep** |
+| Montreal ≠ Kyoto | Ozone / climate |
+
+---
+
 ## 36.1 Ozone Layer
 
 **Identity:** Stratosphere ~15–30 km | UV shield | Dobson Unit | Chapman cycle | NO₂ regulation

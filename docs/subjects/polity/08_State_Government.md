@@ -84,6 +84,36 @@ Governor | Governor's Discretionary Powers | Absolute vs Situational Discretion 
 
 ---
 
+## Must-score facts — Governor, CM, AG, legislature
+
+### Governor
+
+| Article | Lock |
+|---------|------|
+| 153 | Office of Governor (same person for ≥2 States — 7th Amd) |
+| 155 / 156 | Appointment by President / tenure–removal |
+| 157 | Citizen; age **35** |
+| 163 | Aid & advice except constitutional **discretion** |
+| 161 | Pardon (no court-martial / death like President’s 72) |
+| 213 | Ordinance |
+
+### Discretion / majority
+
+| Item | Lock |
+|------|------|
+| Hung House / floor test | *Bommai* — majority on **House floor** |
+| Classic discretion | Choose CM; dismiss lost CoM; reserve Bill; dissolve |
+
+### State legislature / AG
+
+| Item | Lock |
+|------|------|
+| Advocate General | Art. **165**; HC-judge qualification |
+| Bicameral States | Include UP (Council exists) |
+| Money Bill in State | Similar Speaker role; Council limited time |
+
+---
+
 ## State Executive — the frame
 
 - **Part VI (Arts. 153–167).** Every State has a Governor (**Art. 153**). The State Executive = **Governor + Chief Minister + Council of Ministers + Advocate General**.

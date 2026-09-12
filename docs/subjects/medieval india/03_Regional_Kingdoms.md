@@ -67,6 +67,56 @@ Sharqi Sultanate (Jaunpur) | Kashmir under Zain-ul-Abidin | Gujarat Sultanate (q
 
 ---
 
+## Must-score facts — capitals, books, chronology
+
+### State ↔ capital / founder
+
+| State | Capital / founder lock |
+|-------|------------------------|
+| Sharqi | **Jaunpur**; independent by **Malik Sarwar (~1394)** |
+| Vijayanagara | **Hampi**; **Harihara–Bukka 1336** (Sangama) |
+| Bahmani | **Gulbarga → Bidar**; **Hasan Gangu 1347** |
+| Bijapur | **Adil Shahi**; Gol Gumbaz |
+| Golkonda | **Qutb Shahi**; later Hyderabad |
+| Ahmadnagar | **Nizam Shahi** |
+| Bidar | **Barid Shahi** |
+| Berar | **Imad Shahi** |
+| Gujarat Sultanate | Founded **Muzaffar Shah (1407)** |
+
+### Book / monument ↔ context
+
+| Item | Lock |
+|------|------|
+| Atala / Lal Darwaza Masjid | **Sharqi Jaunpur (UP)** |
+| Amuktamalyada | **Krishnadevaraya** (Telugu) |
+| Kitab-i-Nauras | **Ibrahim Adil Shah II** (Bijapur) |
+| Riyaz-ul-Insha | **Mahmud Gawan** letters |
+| Riyaz-us-Salatin | **Bengal** history (not Gawan) |
+| Padmavat | **Malik Muhammad Jaisi** (Jaunpur circle) |
+| Vitthala Temple | Vijayanagara **Hampi** |
+| Charminar | Qutb Shahi **Hyderabad** |
+| Tin Darwaza | **Bidar Fort** (not Ahmedabad Teen Darwaza) |
+
+### Chronology spine
+
+| Event | Year |
+|-------|------|
+| Vijayanagara founded | **1336** |
+| Bahmani founded | **1347** |
+| Sharqi independent | **~1394** |
+| Zain-ul-Abidin (Bud Shah) | **1420–1470** |
+| Gawan executed | **1481** |
+| Jaunpur annexed (Lodi) | **1479 / 1484** |
+| Bahmani split (5 Deccan states) | **1518** |
+| Raichur (Krishnadevaraya win) | **1520** |
+| Talikota | **1565** |
+
+### Vijayanagara dynasty order
+
+**Sangama → Saluva → Tuluva → Aravidu**
+
+---
+
 ## 3.1 Sharqi Sultanate (Jaunpur)
 
 **Period: ~1394–1479/1484** | **Capital: Jaunpur** (eastern UP) | **Founder of state: Malik Sarwar**

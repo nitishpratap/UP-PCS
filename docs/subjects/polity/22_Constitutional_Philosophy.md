@@ -106,6 +106,30 @@ Newest first. One event, one fact.
 
 ---
 
+## Must-score facts — Rule of Law, Art. 21, Basic Structure
+
+### Keywords / counts
+
+| Item | Lock |
+|------|------|
+| Preamble counts | J3 · L5 · E2 · F1 |
+| Federal in Preamble | **No** |
+| Constitutionalism | Limited government under higher law |
+| Constitutional morality | Ambedkar — fidelity to constitutional norms |
+
+### Rule of Law / Art. 21
+
+| Item | Lock |
+|------|------|
+| Dicey limbs | No arbitrary power; equality before law; rights from ordinary law (UK) |
+| Rule of Law | Basic Structure (*Indira Gandhi* **1975**) |
+| Art. 21 text | “Procedure established by law” (Japan) |
+| US contrast | Due process |
+| *Gopalan* (1950) | Any procedure in valid law; rights in silos |
+| *Maneka* (1978) | Fair, just, reasonable; procedural + substantive |
+
+---
+
 ## Frame
 
 First half: **how the Constitution ties the State down**. Second half: what the Preamble *ideals* mean. Counts (already locked): Justice **3** · Liberty **5** · Equality **2** · Fraternity **1**; “Federal” **not** in the Preamble; 42nd = Socialist + Secular.

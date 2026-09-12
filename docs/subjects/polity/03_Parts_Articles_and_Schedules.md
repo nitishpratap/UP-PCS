@@ -78,6 +78,60 @@ Parts of Constitution | Important Parts (III, IV, IVA, IX, IXA, IXB, XV, XVIII, 
 
 ---
 
+## Must-score facts — Parts, Schedules, Articles
+
+### Part ↔ subject
+
+| Part | Subject |
+|------|---------|
+| II | Citizenship |
+| III | Fundamental Rights |
+| IV | DPSP |
+| IVA | Fundamental Duties |
+| V / VI / VIII | Union / States / UTs |
+| IX / IXA / IXB | Panchayats / Municipalities / Cooperatives |
+| XI | Centre–State relations |
+| XIVA | Tribunals |
+| XV | Elections |
+| XVII | Official Language |
+| XVIII | Emergency |
+| XX | Amendment |
+| XXI | Temporary / special (**371–371J**) |
+
+### Schedule ↔ subject
+
+| Schedule | Lock |
+|----------|------|
+| 1st | Territories of States / UTs |
+| 2nd | Emoluments |
+| 3rd | Oaths |
+| 4th | Rajya Sabha seats |
+| 5th | Scheduled Areas / STs (many States) |
+| 6th | Assam, Meghalaya, Tripura, Mizoram Autonomous Councils |
+| 7th | Union / State / Concurrent Lists |
+| 8th | **22** languages (Bhojpuri **out**) |
+| 9th | Validation of Acts |
+| 10th | Anti-defection |
+| 11th | **29** Panchayat subjects (73rd) |
+| 12th | **18** Municipality subjects (74th) |
+
+### High-yield Articles
+
+| Article | Lock |
+|---------|------|
+| 1 / 3 | Union of States / form–alter States |
+| 32 / 226 | SC FR remedy / HC wider writs |
+| 72 / 161 | President / Governor pardon |
+| 110 | Money Bill |
+| 123 / 213 | President / Governor ordinance |
+| 148 | CAG |
+| 263 / 280 / 324 | ISC / Finance Commission / Election Commission |
+| 300A | Legal right to property |
+| 352 / 356 / 360 | National / State / Financial Emergency |
+| 368 | Amendment |
+
+---
+
 ## Parts of the Constitution
 
 - Constitution organised into **Parts** (now **25 Parts**, including IVA, IXA, IXB, XIVA).

@@ -117,6 +117,37 @@
 
 ---
 
+## Must-score facts — seasons, crop–state, irrigation
+
+### Land-use terms
+
+| Term | Lock |
+|------|------|
+| NSA | Land sown ≥ once a year |
+| GCA | Counts every sowing |
+| Cropping intensity | (GCA/NSA) × 100 |
+| Irrigation share | Groundwater ~**64%** (tubewell heavy) |
+
+### Season crops
+
+| Season | Lock |
+|--------|------|
+| Kharif (Jun–Oct) | Rice, maize, millets, cotton, jute, groundnut, soy, tur |
+| Rabi (Oct–Mar) | Wheat, barley, gram, mustard, potato |
+
+### Crop ↔ leader / need
+
+| Crop | Lock |
+|------|------|
+| Rice | WB volume often; Punjab yield; hot-wet; clayey alluvium |
+| Wheat | Cool grow / bright ripen; ~50–75 cm; **rabi** |
+| Jowar / Bajra / Ragi | **MH** / **RJ** / **KA** |
+| Groundnut / Mustard / Soy | **GJ** / **RJ** (rabi) / **MP** (kharif) |
+| Cotton | ~21°C+; 50–100 cm; ~210 frost-free days; black soil preferred |
+| Pulses | Rhizobium N-fix; India top producer |
+
+---
+
 ## N.1 Land Use, Farming Types, Seasons
 
 India’s land-use reporting (NCERT / Ministry of Agriculture) splits reported area into seven heads. These are accounting classes for the agricultural year — not a soil map.

@@ -92,6 +92,32 @@ Process chapter — no living scheme tag. Static PYQ surface (trellis, deltas, I
 
 ---
 
+## Must-score facts — agents, landforms, rocks
+
+### Endogenic / exogenic
+
+| Item | Lock |
+|------|------|
+| Endogenic | Diastrophism, volcanism, earthquakes |
+| Exogenic | Weathering, erosion, deposition |
+| Weathering types | Physical, chemical, biological |
+
+### Agent ↔ landform
+
+| Agent | Landforms |
+|-------|-----------|
+| River | V-valley, meander, oxbow, floodplain, delta |
+| Glacier | U-valley, cirque, moraine, fjord |
+| Wind | Yardang, dune, loess |
+| Wave | Cliff, beach, spit, stack |
+| Karst | Sinkhole, cave, stalactite |
+
+### Rock cycle
+
+**Igneous → Sedimentary → Metamorphic** (with melting / uplift loops)
+
+---
+
 ## N.0 Framework — Geomorphic Processes
 
 Geomorphology studies how landforms are made and destroyed.

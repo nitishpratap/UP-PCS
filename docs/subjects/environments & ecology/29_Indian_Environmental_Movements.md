@@ -62,6 +62,23 @@ Chipko | Appiko | Silent Valley | Narmada Bachao Andolan | Bishnoi | Jungle Bach
 
 ---
 
+## Must-score facts — Chipko, Appiko, Narmada, Silent Valley
+
+### Movement ↔ place / year
+
+| Item | Lock |
+|------|------|
+| Bishnoi / Khejarli | **1730** Rajasthan; Amrita Devi; 363 martyrs |
+| Chipko | **1973** Reni, Uttarakhand; Bahuguna / Bhatt / Gaura Devi |
+| Silent Valley | 1970s **Kerala** rainforest–dam; KSSP |
+| Jungle Bachao | **1982** Singhbhum, Jharkhand |
+| Appiko | **1983** Sirsi, **Karnataka**; Panduranga Hegde |
+| Narmada Bachao | From **1985**; MP–GJ–MH; Medha Patkar / Baba Amte |
+| Chipko ≠ Appiko | UK / Karnataka |
+| NBA letters trap | Narmada Bachao ≠ National Biodiversity Authority |
+
+---
+
 ## 29.1 Chipko Movement
 
 **Identity:** 1973 | Reni, Uttarakhand | Tree hugging | Bahuguna, Bhatt, Gaura Devi

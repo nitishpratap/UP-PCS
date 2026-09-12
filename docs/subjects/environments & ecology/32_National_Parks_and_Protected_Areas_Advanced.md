@@ -73,6 +73,26 @@ National Parks of Uttar Pradesh | Wildlife Sanctuaries of Uttar Pradesh | Nation
 
 ---
 
+## Must-score facts — UP PAs, firsts, marine
+
+### UP / India firsts
+
+| Item | Lock |
+|------|------|
+| UP National Park | **Only Dudhwa** (Lakhimpur Kheri) |
+| Dudhwa path | Sanctuary 1958 → NP **1977** → TR core **1987** |
+| Valmiki / Sultanpur / Corbett | Bihar / Haryana / Uttarakhand (**not** UP NP) |
+| UP marine NP | **Zero** (landlocked) |
+| UP sanctuaries | **25**; Hastinapur largest |
+| India first NP | Hailey/Corbett **1936** (UK) |
+| World first NP | Yellowstone **1872** |
+| Largest India NP | Hemis (Ladakh) |
+| Most NPs / most WLS | MP / A&N |
+| First Marine NP | Gulf of Kutch **1980** |
+| Gir / Kaziranga | Only Asiatic lions / one-horned rhino classic |
+
+---
+
 ## 32.1 National Parks of Uttar Pradesh
 
 **Identity:** Dudhwa only | Lakhimpur Kheri | Terai | Tiger + rhino + barasingha

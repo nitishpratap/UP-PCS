@@ -69,6 +69,23 @@ Microplastics | Carbon Credit | Carbon Trading | Net Zero Emissions | Green Fina
 
 ---
 
+## Must-score facts — carbon markets, net zero, LiFE
+
+### Markets / targets
+
+| Item | Lock |
+|------|------|
+| Microplastics | <**5 mm**; primary beads / secondary fragments |
+| 1 carbon credit | 1 tCO₂e reduced/removed/avoided |
+| PAT | ESCerts — ≠ carbon credit under CCTS |
+| Green Credit | **2023** eco-action rewards (≠ carbon credit) |
+| India net zero | **2070** (COP26 Glasgow) |
+| LiFE | Idea COP26 **2021**; launch Jun **2022** |
+| MISHTI | Budget **2023** mangroves |
+| Blue economy | Sustainable ocean use; SDG **14** |
+
+---
+
 ## 24.1 Microplastics
 
 **Identity:** <5 mm | Primary vs secondary | Persistent | Ganga/food-chain contamination

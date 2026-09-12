@@ -105,6 +105,38 @@ D. A and D only
 
 ---
 
+## Must-score facts — WHS, ICH, UP sites
+
+### Conventions / India counts
+
+| Item | Lock |
+|------|------|
+| Tangible vs intangible | Monument you can touch vs living practice |
+| WHS Convention / ICH | **1972** / **2003** |
+| WH Committee | **21** states; ICOMOS cultural / IUCN natural |
+| India WHS | **45** (~37 cultural, 7 natural, 1 mixed) |
+| Mixed site | **Khangchendzonga** (Sikkim) only |
+| Criteria | Cultural **i–vi**; natural **vii–x** |
+
+### UP WHS / ICH
+
+| Site | Year |
+|------|------|
+| Taj Mahal / Agra Fort | **1983** |
+| Fatehpur Sikri | **1986** |
+| Sarnath | **2026** |
+| Varanasi ghats | **Tentative only** (not a 5th WHS) |
+
+| ICH element | Year |
+|-------------|------|
+| Kutiyattam / Vedic chanting | 2001 / 2003 |
+| Yoga / Kumbh | **2016** / **2017** |
+| Durga Puja Kolkata / Garba | **2021** / **2023** |
+
+**Not** named UNESCO ICH: Bharatanatyam, Kathak, Nautanki, Holi (standalone).
+
+---
+
 ## 14.1 Tangible Cultural Heritage
 
 **Identity:** Physical cultural property | Monument, site, city, cave, museum object | ASI + UNESCO are different doors

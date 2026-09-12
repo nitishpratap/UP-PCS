@@ -76,6 +76,40 @@ No scheme/ministry CA changes the static craft and school lists (verified August
 
 ---
 
+## Must-score facts — Indus, schools, UP sites
+
+### Culture spine
+
+| Phase | Lock |
+|-------|------|
+| Bhimbetka | Prehistoric rock art |
+| Indus (~2600–1900 BCE) | Seals, terracotta, Dancing Girl (lost-wax), drains |
+| Mauryan | NBPW; Chunar polish; Barabar rock-cut |
+| Shunga | Bharhut / early Sanchi (aniconic) |
+| Kushan | Gandhara + Mathura Buddha images |
+| Gupta | Sarnath Buddha peak; structural temples begin |
+
+### Sculpture schools
+
+| School | Lock |
+|--------|------|
+| Gandhara | Grey **schist**; Greco-Roman; NW (≠ UP) |
+| Mathura | Red **sandstone**; indigenous; **UP** |
+| Amaravati | **Limestone** narrative; Andhra |
+| Gupta Sarnath | Dharmachakra mudra; transparent robe |
+
+### UP Indus / craft
+
+| Site | Lock |
+|------|------|
+| Alamgirpur | Easternmost Indus (Meerut) |
+| Mandi / Hulas | UP (≠ Rakhigarhi Haryana) |
+| Sanauli | Baghpat; Late Harappan / OCP chariots |
+| Stupa vs chaitya | Solid relic mound vs rock-cut prayer hall |
+| Balu / Manda / Padri / Hulas | Haryana / J&K / Gujarat / **UP** |
+
+---
+
 ## 10.1 Ancient Indian Art
 
 **Span:** Prehistoric rock art → Gupta | **Ask:** period ↔ medium ↔ site

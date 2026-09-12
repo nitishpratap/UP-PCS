@@ -66,6 +66,56 @@ Medieval Literature | Medieval Books and Their Authors | Delhi Sultanate Literat
 
 ---
 
+## Must-score facts — book ↔ author
+
+### Sultanate chronicles
+
+| Book | Author |
+|------|--------|
+| Tabaqat-i-Nasiri | **Minhaj-us-Siraj** |
+| Tarikh-i-Firoz Shahi | **Barani** (also **Afif** for later Firuz) |
+| Tughlaqnama | **Barani** (this chapter’s lock; do not pair with Ibn Battuta) |
+| Fatawa-i-Jahandari | **Barani** (political theory) |
+| Taj-ul-Maasir | **Hasan Nizami** |
+| Kitab-ul-Hind | **Alberuni** |
+| Rihla | **Ibn Battuta** |
+| Khazain-ul-Futuh | **Amir Khusrau** (Alauddin) |
+| Miftah-ul-Futuh | **Amir Khusrau** (Jalaluddin Khalji) |
+| Rag Vibodh | **Amir Khusrau** (literary list) / **Somanath** (music treatise code) |
+| Futuh-us-Salatin | **Isami** |
+| Tutinama | **Nakhshabi** (not Khusrau) |
+
+### Mughal texts
+
+| Book | Author |
+|------|--------|
+| Baburnama | **Babur** (**Chagatai Turki**) |
+| Humayunnama | **Gulbadan Begum** |
+| Akbarnama | **Abul Fazl** (narrative) |
+| Ain-i-Akbari | **Abul Fazl** (gazetteer) |
+| Tuzuk-i-Jahangiri | **Jahangir** (own memoir) |
+| Padshahnama | **Abdul Hamid Lahori** (Shah Jahan) |
+| Muntakhab-ut-Tawarikh | **Badauni** |
+| Alamgirnama | **Mirza Muhammad Kazim** |
+
+### Vernacular / regional
+
+| Book | Author / region |
+|------|-----------------|
+| Padmavat | **Malik Muhammad Jaisi** (Awadhi) |
+| Chandayan | **Mulla Daud** |
+| Padmavati Katha | **Damodar Kavi** (not Jaisi) |
+| Mirat-e-Sikandari | Gujarat |
+| Burhan-e-Masir | Ahmadnagar |
+| Riyaz-us-Salatin | Bengal |
+| Riyaz-ul-Insha | **Gawan** letters |
+
+### Death chronology (Akbar circle)
+
+**Faizi 1595 → Sheikh Mubarak 1597 → Abul Fazl murdered 1602 → Daniyal 1604**
+
+---
+
 ## 5.1 Medieval Literature — Overview
 
 - Medieval Indian literature spans **1206–1707**, from the Delhi Sultanate through the Mughal zenith.

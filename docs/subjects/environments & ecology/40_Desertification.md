@@ -60,6 +60,24 @@ Desertification | Land Degradation | Drought | Soil Erosion
 
 ---
 
+## Must-score facts — ASDM, Chambal, UNCCD, LDN
+
+### Locks
+
+| Item | Lock |
+|------|------|
+| Desertification | ASDM dryland degradation (≠ only desert expand) |
+| India share | ~29–30%; ~96.4 mha; Rajasthan worst hotspot |
+| Drought types | Met → hydro → agri; met often <75% normal rain |
+| DPAP | **1973** |
+| Bundelkhand UP | Seven districts drought–degradation hotspot |
+| Erosion sequence | Sheet → rill → gully → ravine (Chambal) |
+| UNCCD / Day | **1994** / **17 June** |
+| LDN | No net loss by **2030** (SDG 15.3) |
+| UNCCD ≠ UNFCCC | Desertification / climate |
+
+---
+
 ## 40.1 Desertification
 
 **Identity:** ASDM drylands | Productivity loss | Overgrazing | UNCCD 1994

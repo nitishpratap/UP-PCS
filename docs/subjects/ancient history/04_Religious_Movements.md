@@ -90,6 +90,61 @@ Buddhism | Buddha | Buddhist Philosophy | Buddhist Councils | Buddhist Texts | T
 
 ---
 
+## Must-score facts — Buddha life, councils, Jain tags
+
+### Buddha life geography
+
+| Event | Place |
+|-------|-------|
+| Birth | **Lumbini** (Nepal) |
+| Enlightenment | **Bodh Gaya** |
+| First sermon | **Sarnath** (UP) |
+| Mahaparinirvana | **Kushinagar** (UP) |
+
+### Buddhist Councils (order)
+
+**Rajagriha → Vaishali → Pataliputra → Kundalvana**
+
+| Vehicle | Lock |
+|---------|------|
+| Hinayana | Arhat ideal; Pali |
+| Mahayana | Bodhisattva; Sanskrit |
+| Vajrayana | Tantra / mantra |
+| Tripitaka | Vinaya · Sutta · Abhidhamma |
+
+### Jain tirthankara tags
+
+| Item | Lock |
+|------|------|
+| Mahavira (24th) | **Lion**; nirvana **Pavapuri** |
+| Parshvanatha (23rd) | **Serpent**; Varanasi birth tradition |
+| Rishabhanatha | **Ayodhya** birth tradition |
+| ~20 tirthankaras | Nirvana at **Sammed Shikhar** |
+| Digambara vs Svetambara | Sky-clad vs white; women’s moksha dispute |
+| Anatta vs jiva | Buddhism = no permanent soul; Jainism = real soul |
+
+### Key persons / texts
+
+| Pair | Lock |
+|------|------|
+| Menander–Nagasena | *Milinda Panha* |
+| Nagarjuna | Madhyamaka (≠ Nagasena) |
+| Barabar caves | Gifted to **Ajivikas** |
+| Chaitya vs Vihara | Prayer hall vs monastery |
+| Ashoka 3rd Council | **Pataliputra**; Dhamma-mahamatras in **14th** year |
+
+### Buddha life symbols
+
+| Event | Symbol |
+|-------|--------|
+| Birth | Lotus / bull |
+| Great Departure | Horse |
+| Enlightenment | Bodhi tree |
+| First sermon | Wheel |
+| Nirvana | Stupa |
+
+---
+
 ## Books and Writers — Religious Movements
 
 **Book–writer pairs | named Buddhist and Jain works | canons stay separate**

@@ -65,6 +65,23 @@ IPCC | UNEP | UNDP | IUCN | WWF | FAO (Environment-related Role)
 
 ---
 
+## Must-score facts — IPCC, UNEP, IUCN HQs & reports
+
+### HQ / product
+
+| Item | Lock |
+|------|------|
+| IPCC | Geneva; WMO+UNEP **1988**; Nobel Peace **2007**; ARs |
+| UNEP | Nairobi; Emissions Gap + GEO |
+| UNDP | New York; HDR/HDI from **1990** |
+| IUCN | Gland; Red List (risk ≠ CITES trade) |
+| WWF | Gland; Living Planet Report/LPI |
+| FAO | Rome; SOFO |
+| Threatened | VU + EN + CR |
+| IPCC ≠ UNFCCC | Science assessment ≠ climate treaty/COP |
+
+---
+
 ## 19.1 IPCC
 
 **Identity:** 1988 WMO+UNEP | Geneva | Assessment Reports | Nobel 2007 | Not policy body

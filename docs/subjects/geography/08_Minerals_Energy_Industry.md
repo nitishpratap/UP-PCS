@@ -137,6 +137,37 @@ D. Vadodara
 
 ---
 
+## Must-score facts — ore belts, mine–state, energy
+
+### Frame
+
+| Item | Lock |
+|------|------|
+| Mineral wealth map | Mostly **east of Mangalore–Kanpur line** |
+| Non-ferrous | Poor many metals; rich in **bauxite** |
+| Mica belt | **Koderma–Gaya–Hazaribagh** |
+
+### Iron / Mn / bauxite
+
+| Item | Lock |
+|------|------|
+| Iron leaders (2021–22 teaching) | **Odisha**, Chhattisgarh |
+| Gurumahisani | Odisha |
+| Bailadila | Chhattisgarh |
+| Noamundi | Jharkhand |
+| Manganese leaders | Odisha, MH, MP |
+| Bauxite | Feeds aluminium; laterite link |
+
+### Energy / industry tags
+
+| Item | Lock |
+|------|------|
+| Coal belts | Damodar, Mahanadi, Godavari, Son |
+| Petroleum | Mumbai High; Assam; Gujarat |
+| Atomic minerals | Beach sands (monazite) South India |
+
+---
+
 ## N.0 Framework (map first)
 
 **Mineral** is a naturally occurring inorganic substance with a definite chemical composition. **Ore** is the rock from which a metal can be extracted at a profit.

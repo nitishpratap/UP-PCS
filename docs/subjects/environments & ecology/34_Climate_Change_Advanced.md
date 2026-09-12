@@ -73,6 +73,24 @@ Climate Change | Atmospheric Studies | Global Climate Monitoring | Greenhouse Ga
 
 ---
 
+## Must-score facts — AR6, sinks, NAPCC, NDC
+
+### Advanced tags
+
+| Item | Lock |
+|------|------|
+| AR6 warming | ~**1.1°C** above 1850–1900 |
+| Keeling Curve | Mauna Loa CO₂ since **1958** |
+| Emissions Gap Report | **UNEP** (≠ IPCC) |
+| Mitigation / Adaptation | Cut emissions+sinks / adjust to impacts |
+| Montreal ≠ Kyoto | Ozone / climate |
+| NAPCC | **2008**; **eight** missions (no nuclear) |
+| NDC class facts | ~45% intensity cut; ~50% non-fossil capacity |
+| 1 carbon credit | 1 tCO₂e |
+| Green Credit / PAT | **2023** / ESCerts — ≠ Kyoto credit |
+
+---
+
 ## 34.1 Climate Change
 
 **Identity:** Long-term climate system change | Anthropogenic + natural | Broader than warming

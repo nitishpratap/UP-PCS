@@ -62,6 +62,25 @@ Environmental Indicators | Environmental Monitoring | Environmental Audit
 
 ---
 
+## Must-score facts — PSR, NAMP, audit, BOD
+
+### Tools
+
+| Item | Lock |
+|------|------|
+| PSR | Pressure → State → Response |
+| Noise / smoke | dB / Ringelmann **0–5** |
+| Lichens | SO₂ bio-indicators |
+| CPCB networks | NAMP · CAAQMS · NWMP |
+| CGWB | Groundwater quality + levels report |
+| SAFAR | IITM forecast (2018 launch messaging) |
+| SAMEER | AQI public app |
+| Form V | EPA Rule 14 Environmental Statement → SPCB yearly |
+| ISO 14001 | EMS standard |
+| Monitoring ≠ audit | Repeated measurement / compliance verification |
+
+---
+
 ## 41.1 Environmental Indicators
 
 **Identity:** PSR framework | BOD/COD/DO/AQI/dB | Bio-indicators | Ringelmann

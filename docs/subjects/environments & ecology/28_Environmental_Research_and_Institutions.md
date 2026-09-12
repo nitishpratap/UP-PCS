@@ -68,6 +68,23 @@ BSI | ZSI | FSI | FRI | WII | NBA | SBB | BMC | NBPGR
 
 ---
 
+## Must-score facts — BSI ZSI FSI NBA NBPGR
+
+### HQ map
+
+| Item | Lock |
+|------|------|
+| Kolkata | BSI **1890** plants; ZSI **1916** animals |
+| Dehradun | FSI **1981** ISFR; FRI **1906**; WII **1982** |
+| New Delhi | NBPGR plant gene bank |
+| Chennai | NBA (≠ Delhi) |
+| Karnal | NBAGR animals |
+| ISFR | Biennial (≠ annual); FSI product |
+| BDA ladder | NBA → SBB → BMC → PBR |
+| SBB ≠ SPCB | Biodiversity board ≠ pollution board |
+
+---
+
 ## 28.1 Botanical Survey of India (BSI)
 
 **Identity:** 1890 | Kolkata | Plants only | Flora of India | Red Data Book (plants)

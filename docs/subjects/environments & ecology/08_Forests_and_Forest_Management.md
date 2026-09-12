@@ -79,6 +79,31 @@ Forests and their Types | Forest Types in India | Forest Conservation | Forest M
 
 ---
 
+## Must-score facts — ISFR, types, law chain
+
+### Cover definitions
+
+| Item | Lock |
+|------|------|
+| Forest cover (ISFR) | ≥1 ha; canopy ≥**10%**; any ownership |
+| VDF / MDF / OF | ≥70% / 40–70% / 10–40% |
+| ISFR 2023 class | Forest ~**21.76%**; tree ~3.41%; total green ~25.17% |
+| Largest area / highest % | MP / Mizoram |
+| Cover ≠ RFA ≠ tree cover | Legal RFA ~23% class figure |
+
+### Types / law
+
+| Item | Lock |
+|------|------|
+| Champion & Seth | **1968**; 16 types / 6 groups; Tropical Dry Deciduous largest |
+| Wet evergreen rain | >**200 cm**; max diversity/biomass |
+| Teak / Red Sanders | Moist deciduous / dry-deciduous S. India endemic |
+| UP belts | Terai moist deciduous · Vindhyan dry · Bundelkhand thorn |
+| Law chain | IFA 1927 → FCA 1980 → NFP 1988 → JFM 1990 → FRA 2006 → CAMPA 2016 |
+| Reserved vs Protected Forest | Strictest IFA / State-regulated lighter |
+
+---
+
 ## 8.1 Forests and their Types
 
 **Identity:** Tree-dominated ecosystem | Global + legal + ISFR classes

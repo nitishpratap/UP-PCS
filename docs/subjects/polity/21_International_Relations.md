@@ -130,6 +130,29 @@ Newest first. One event, one fact.
 
 ---
 
+## Must-score facts — Panchsheel, UN, groupings
+
+### India doctrine tags
+
+| Item | Lock |
+|------|------|
+| Panchsheel | **29 Apr 1954** India–China Tibet trade |
+| Bandung | **1955** Afro-Asian echo |
+| NAM | Movement; **Belgrade 1961** (Nehru, Nasser, Tito…) |
+| Non-alignment | **Policy** (≠ NAM the movement) |
+
+### UN / alliances
+
+| Item | Lock |
+|------|------|
+| UNSC | **15** = P5 + 10 elected (2 years) |
+| G4 | India, Japan, Germany, Brazil |
+| NATO | **4 Apr 1949**; Art. 5; HQ Brussels |
+| QUAD | India–Japan–US–Australia (dialogue) |
+| AUKUS | Australia–UK–US **2021** (subs) |
+
+---
+
 ## Frame
 
 **How independent India chose not to join a Cold-War camp**, what **Panchsheel / NAM** actually were, who can **veto** at the UN, and which **clubs** (UN family, Bretton Woods, SAARC/BIMSTEC/G20) India is in or out of. Art. 51 (promote international peace) is a DPSP — Art. 51 is a DPSP: promote international peace.

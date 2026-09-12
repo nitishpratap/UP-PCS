@@ -74,6 +74,30 @@
 
 ---
 
+## Must-score facts — conferences, treaty–issue map
+
+### Conferences
+
+| Item | Lock |
+|------|------|
+| Spine | Stockholm 72 → Brundtland 87 → Rio 92 → Joburg 02 → Rio+20 12 → SDGs/Paris 15 |
+| Stockholm → UNEP | **1972**; UNEP Nairobi; WED **5 June** |
+| Rio products | Agenda 21 · UNFCCC · CBD (CITES **not** Rio product) |
+| Climate ladder | UNFCCC 92 → Kyoto 97 → Paris 15 |
+| Ozone ladder | Vienna 85 → Montreal 87 → Kigali 16 |
+
+### Issue tags
+
+| Item | Lock |
+|------|------|
+| Montreal / Kyoto–Paris | Ozone / climate |
+| CBD / Ramsar / CITES | Biodiversity / wetlands / wildlife trade |
+| Basel / Rotterdam / Stockholm POPs | Haz. waste / PIC chemicals / POPs |
+| CMS (Bonn) | Migratory species |
+| GEF / UNCCD | **1991** finance / **1994** desertification |
+
+---
+
 ## 18.1 Conferences — Stockholm, Brundtland, Rio, Agenda 21 & SD Summits
 
 **Identity:** UNEP 1972 | SD definition 1987 | Rio triple outcome 1992 | Agenda 21 trap | Earth Summit +5 | Rio+20

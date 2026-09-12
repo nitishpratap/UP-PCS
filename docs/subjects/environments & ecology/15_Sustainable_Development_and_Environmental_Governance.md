@@ -77,6 +77,23 @@
 
 ---
 
+## Must-score facts — Brundtland, SDGs, NITI Index
+
+### Spine
+
+| Item | Lock |
+|------|------|
+| Brundtland | **1987** *Our Common Future* (≠ Limits to Growth 1972) |
+| Three pillars | Economic · social · environmental |
+| SDGs | **Sep 2015** → **2030**; **17** goals / **169** targets |
+| MDGs → SDGs | 8 goals 2000–15 / universal to all countries |
+| Key goals | 6 water · 7 energy · 13 climate · 14 ocean · 15 land |
+| Conference chain | Stockholm 72 → Brundtland 87 → Rio 92 → SDGs 15 |
+| Agenda 21 | Rio **1992** (≠ 1995) |
+| NITI SDG Index top | Kerala repeatedly first; HP/TN near top |
+
+---
+
 ## 15.1 Sustainable Development
 
 **Identity:** Brundtland 1987 | Three pillars | Inter/intra-generational equity | Indicators | Natural capital

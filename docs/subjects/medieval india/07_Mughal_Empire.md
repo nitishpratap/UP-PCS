@@ -75,6 +75,53 @@ Babur | Establishment of the Mughal Empire | Literary Contribution of Babur | Ma
 
 ---
 
+## Must-score facts — battles, tombs, admin
+
+### Battle ↔ year
+
+| Battle | Year | Lock |
+|--------|------|------|
+| First Panipat | **1526** | Babur vs Ibrahim Lodi |
+| Khanwa | **1527** | Babur vs **Rana Sanga** |
+| Chanderi | **1528** | Babur vs Medini Rai |
+| Ghagra | **1529** | Babur vs eastern Afghans |
+| Daurah | **1532** | Humayun vs Afghan chiefs |
+| Chausa | **1539** | Sher Shah; Humayun escapes |
+| Kannauj / Bilgram | **1540** | Sher Shah decisive |
+| Second Panipat | **1556** | Akbar–Bairam vs **Hemu** |
+| Dharmat | **Apr 1658** | Aurangzeb vs Jaswant Singh |
+| Samugarh | **May 1658** | Aurangzeb vs Dara |
+| Deorai | **1659** | Aurangzeb succession close |
+| Jajau | **1707** | Bahadur Shah I vs Azam |
+
+### Tomb ↔ place
+
+| Emperor | Tomb |
+|---------|------|
+| Babur | **Kabul** |
+| Humayun | **Delhi** |
+| Jahangir | **Lahore** |
+| Shah Jahan | **Agra** |
+
+### Admin / policy tags
+
+| Term | Lock |
+|------|------|
+| Mansabdari | Dual **zat + sawar**; not hereditary |
+| Zabt | Measurement-based cash demand (**Todar Mal**) |
+| Dahsala | **10-year** average (**1580–81**) |
+| Rupiya / Dam / Mohur | Silver / copper (~1/40) / gold |
+| Sulh-i-Kul | Universal peace policy |
+| Din-i-Ilahi | **1582** small court circle |
+| Jizya | Abolished **1564**; reimposed **1679** |
+| Buland Darwaza | Gujarat victory **1572** (not Jahangir birth) |
+
+### Court death order
+
+**Sheikh Mubarak → Faizi → Abul Fazl (1602) → Daniyal**
+
+---
+
 ## 7.1 Babur — Foundation & Literature
 
 **Zahiruddin Muhammad Babur** | 1526–1530 | **Chagatai Turk** / Timurid (Timur + Chinggis claim) | Base **Kabul 1504**

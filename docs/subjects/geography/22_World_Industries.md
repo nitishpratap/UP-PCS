@@ -87,6 +87,42 @@ None mandatory.
 
 ---
 
+## Must-score facts — city–industry, canals, winds
+
+### City ↔ industry
+
+| City | Industry |
+|------|----------|
+| Osaka | Cotton |
+| Detroit | Auto |
+| Cuba | Cigar |
+| St Petersburg | Shipbuilding |
+| Ruhr | Heavy industry (Germany) |
+| Lancashire / Yorkshire | Cotton / wool |
+| Pittsburgh–Great Lakes | Steel |
+
+### Japan belts
+
+| Belt | Lock |
+|------|------|
+| Keihin | Tokyo–Yokohama |
+| Hanshin | Osaka–Kobe |
+| Chukyo | Nagoya autos |
+
+### Canals / winds / industry type
+
+| Item | Lock |
+|------|------|
+| Suez | Med ↔ Red Sea; ~7000 km shorter India–Europe |
+| Panama | Atlantic/Caribbean ↔ Pacific |
+| Kiel | North Sea ↔ Baltic |
+| Chinook / Foehn | Rockies / Alps warm dry winds |
+| Mistral | S. France (**≠ Australia**) |
+| Footloose | Electronics; aluminium seeks hydel; steel seeks ore+coal |
+| Entrepôt | Singapore, Rotterdam, Hong Kong |
+
+---
+
 ## N.0 Framework — World Industries
 
 **Identity:** This chapter bundles **secondary-activity geography** with Lucent’s usual **port / canal / local-wind** match-lists.

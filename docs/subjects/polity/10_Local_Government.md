@@ -94,6 +94,39 @@
 
 ---
 
+## Must-score facts — 73rd/74th, committees, Schedules
+
+### Timeline
+
+| Item | Lock |
+|------|------|
+| Art. 40 | Village panchayats (Gandhian DPSP) |
+| First PR inauguration | **Nagaur, Rajasthan — 2 Oct 1959** |
+| 73rd / force | **1992** / **24 Apr 1993** (National Panchayat Day) |
+| 74th | Municipalities (Part IXA) |
+| Local govt List | State List **Entry 5** |
+
+### Committees
+
+| Committee | Lock |
+|-----------|------|
+| Balwant Rai Mehta | Three-tier PR foundation |
+| Ashok Mehta (1977) | Two-tier; district as first point |
+| Dantwala (1978) | Block-level planning |
+| L.M. Singhvi (1986) | Constitutional status push |
+| 64th Bill (1989) | Failed in Rajya Sabha |
+
+### Structure locks
+
+| Item | Lock |
+|------|------|
+| Gram Sabha | Art. **243A** — registered voters |
+| 11th Schedule | **29** subjects |
+| 12th Schedule | **18** subjects |
+| Reservations | SC/ST + women (≥1/3; many States 50%) |
+
+---
+
 ## Frame — why PRIs exist
 
 - **Art. 40**, a Gandhian DPSP, directs the State to organise village panchayats and to endow them with powers to function as units of **self-government**.

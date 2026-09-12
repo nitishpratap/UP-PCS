@@ -73,6 +73,24 @@ Global Environmental Geography (biomes · climate zones · world deserts · flor
 
 ---
 
+## Must-score facts — biomes, Köppen, grasslands
+
+### Biomes / climate
+
+| Item | Lock |
+|------|------|
+| Köppen letters | A tropical · B arid · C temperate · D cold · E polar |
+| India / Thar / Gobi | Monsoon Am-type / BWh hot desert / Mongolia–China |
+| Largest hot / driest | Sahara / Atacama |
+| Selva / Terra Roxa | Amazon rainforest name / fertile volcanic soil (Brazil) |
+| Temperate grasslands | Pampas AR · Prairie NA · Steppe Eurasia · Puszta HU |
+| Taiga / Tundra / Savanna | Boreal conifer / moss–lichen treeless / tropical grass+trees |
+| Permafrost | Taiga–tundra (≠ savanna) |
+| Biome ≠ ecosystem | Large climate region / local functional unit |
+| India biogeographic zones | **10** (Rodgers & Panwar) ≠ global biome count |
+
+---
+
 ## 25.1 Scope & Climate Controls
 
 **Identity:** Spatial environment patterns | Climate primary control | Latitude + continentality + altitude

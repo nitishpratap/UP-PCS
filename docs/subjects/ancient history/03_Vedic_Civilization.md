@@ -84,6 +84,48 @@ Vedic Period | Rigvedic Society | Later Vedic Society | Vedic Administration | R
 
 ---
 
+## Must-score facts — Early vs Later, assemblies, texts
+
+### Age ↔ geography / economy
+
+| Age | Lock |
+|-----|------|
+| Early / Rigvedic (~1500–1000 BCE) | **Sapta Sindhu**; **pastoral** |
+| Later Vedic (~1000–600 BCE) | **Ganga–Yamuna doab**; **agrarian**; iron + **PGW** |
+
+### Assembly / official ↔ role
+
+| Term | Lock |
+|------|------|
+| Sabha | Elders / nobles |
+| Samiti | Wider assembly; could **choose the rajan** |
+| Vidatha | Oldest gathering; fades first |
+| Bhagadugha | King’s share (**bhaga**) collector |
+| Sangrahitri | Treasurer |
+| Akshavapa | Dice / gambling (not revenue) |
+
+### Veda / text tags
+
+| Item | Lock |
+|------|------|
+| Rigveda | **1028** hymns; 10 mandalas; 2–7 oldest; 9 = Soma |
+| Shukla Yajurveda | **Vajasaneyi**; mantra/prose separate |
+| Krishna Yajurveda | Black; mixed mantra + Brahmana |
+| Literature order | Samhita → Brahmana → Aranyaka → Upanishad |
+| Six Vedangas | Shiksha, Kalpa, Vyakarana, Nirukta, Chhanda, Jyotisha |
+| PGW | ~1100–600 BCE Later Vedic doab marker |
+| OCP → PGW → NBPW | Pottery ladder |
+
+### Economy type ladder
+
+**Indus = Urban · Rigvedic = Pastoral · Later Vedic = Agrarian**
+
+### UP Later Vedic sites
+
+**Hastinapur · Atranjikhera · Ahichchhatra** (Kuru–Panchala belt)
+
+---
+
 ## Books and Writers — Vedic Age
 
 **Book–writer pairs | Vedanga authors | corpus heads stay without personal writers**

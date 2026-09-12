@@ -112,6 +112,30 @@ Lakes-as-wetlands. This file keeps the **geography** facts.
 
 ---
 
+## Must-score facts — rain ladder, hotspots, zones
+
+### Rain ↔ forest
+
+| Forest | Rain / tag |
+|--------|------------|
+| Tropical evergreen | **>200 cm** |
+| Moist deciduous | **100–200 cm** (largest area ~**37%**) |
+| Dry deciduous | Lower rain; teak–sal belts |
+| Dry evergreen (TN Coromandel) | ~**100 cm** **NE monsoon** |
+| Thorn / scrub | Rajasthan, Gujarat, rain-shadow; acacia–babool |
+
+### Biodiversity tags
+
+| Item | Lock |
+|------|------|
+| “Vegetation is true index of climate” | **Thornthwaite** |
+| Hotspots touching India | Himalaya · WG–Sri Lanka · Indo-Burma · Sundaland |
+| Chir pine belt | W. Himalaya ~**1000–2000 m** |
+| Realms | Palearctic (Himalaya) + Indomalayan |
+| Biogeographic zones | About **10** zones |
+
+---
+
 ## N.1 Natural Vegetation & Forest Types
 
 Natural vegetation grows without human planting.

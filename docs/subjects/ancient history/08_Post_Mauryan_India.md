@@ -90,6 +90,53 @@ Post-Mauryan Period | Satavahana Rulers | South Indian History | Indo-Greeks | S
 
 ---
 
+## Must-score facts — Shunga, Satavahana, Sangam, Kushan
+
+### House / inscription tags
+
+| Item | Lock |
+|------|------|
+| Pushyamitra Shunga | Kills Brihadratha **185 BCE**; two ashwamedhas (**Ayodhya** inscription) |
+| Hathigumpha | **Kharavela** (Kalinga Jain) |
+| Besnagar | **Heliodorus** Bhagavata pillar (≠ Pushyamitra) |
+| Satavahana founder | **Simuka**; capitals **Pratishthana / Amaravati** |
+| Gautamiputra | Defeats **Nahapana**; **Nasik** prasasti of Balashri |
+| Hala | *Gatha Saptasati* (Prakrit) |
+| Yajna Sri | **Ship** on coins |
+| Ikshvakus | Post-Satavahana Andhra; **Nagarjunakonda** |
+
+### Sangam Muvendar
+
+| Dynasty | Emblem | Capital |
+|---------|--------|---------|
+| Chera | Bow | **Vanji / Karur** |
+| Chola | Tiger | **Uraiyur** |
+| Pandya | Fish | **Madurai** |
+
+| Port | Lock |
+|------|------|
+| Muziris | Chera / Roman pepper |
+| Puhar | Chola |
+| Korkai | Pandya pearls |
+| Arikamedu | Periplus **Poduke**; Roman amphorae |
+
+**Karikala** = Sangam Chola (**Kallanai**); ≠ imperial Rajaraja I.
+
+### Kushan quick tags
+
+| Item | Lock |
+|------|------|
+| Capitals | **Purushapura** + **Mathura** |
+| Shaka era | **78 CE** (≠ Vikrama 57 BCE) |
+| 4th Council | Kashmir **Kundalvana** |
+| Art | Gandhara + Mathura |
+
+### Invader order
+
+**Greeks → Sakas → Kushans**
+
+---
+
 ## Books and Writers — Post-Mauryan Age
 
 **Book–writer pairs | book → writer | Shunga / Satavahana / Kushan / Sangam**

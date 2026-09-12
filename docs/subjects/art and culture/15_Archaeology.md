@@ -74,6 +74,39 @@ Archaeology | Archaeological Discoveries | Excavations | Ancient Sites
 
 ---
 
+## Must-score facts — methods, ASI, Indus excavators
+
+### Method tags
+
+| Item | Lock |
+|------|------|
+| Stratigraphy | Lower undisturbed layer = older |
+| Vertical / horizontal dig | Time sequence / one-period layout |
+| C-14 | **Organic** carbon only (not bare stone) |
+| TL | Fired pottery / ceramics |
+| ASI | **1861**; first DG **Cunningham**; Culture ministry |
+
+### Excavator ↔ site
+
+| Person | Site |
+|--------|------|
+| Daya Ram Sahni | **Harappa 1921** |
+| R.D. Banerji | **Mohenjo-daro 1922** |
+| John Marshall | Announced civilization |
+| Mortimer Wheeler | Method reform (≠ discoverer) |
+
+### Geography traps
+
+| Site | State |
+|------|-------|
+| Alamgirpur | UP — easternmost |
+| Mandi / Hulas | **UP** |
+| Rakhigarhi | **Haryana** (largest in India) |
+| Balu / Manda / Padri / Hulas | Haryana / J&K / Gujarat / UP |
+| Lothal / Dholavira | Gujarat (dock / reservoirs) |
+
+---
+
 ## 15.1 Archaeology
 
 **Identity:** Past humans from things they left | Dig + date + read context | Not the same as a history textbook

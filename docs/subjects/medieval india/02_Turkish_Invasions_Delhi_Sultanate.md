@@ -83,6 +83,58 @@ Turkish Invasions of India | Arab Invasion of Sind (Muhammad bin Qasim) | Mahmud
 
 ---
 
+## Must-score facts — battles, dynasties, admin tags
+
+### Battle ↔ year
+
+| Battle | Year | Lock |
+|--------|------|------|
+| Mount Abu (Naika Devi) | **1178** | Ghori’s first India defeat |
+| First Tarain | **1191** | Prithviraj wins |
+| Second Tarain | **1192** | Ghori wins |
+| Chandawar | **1194** | Jay Chandra killed (Yamuna / Firozabad) |
+| First Panipat | **1526** | Babur vs Ibrahim Lodi |
+| Timur sack of Delhi | **1398** | Late Tughlaq crisis |
+
+### Dynasty chronology
+
+| Dynasty | Span |
+|---------|------|
+| Slave (Mamluk) | **1206–1290** |
+| Khalji | **1290–1320** |
+| Tughlaq | **1320–1414** |
+| Sayyid | **1414–1451** |
+| Lodi | **1451–1526** |
+
+### Sultan ↔ tag
+
+| Sultan | Tag |
+|--------|-----|
+| Aibak | **Lahore**; Lakh Baksh; chaugan death; started Qutub |
+| Iltutmish | Delhi capital; **tanka/jital**; Iqta; Caliph **1229** |
+| Razia | Only woman Sultan; Altunia / Yaqut |
+| Balban | Blood and Iron; Sijda/Paibos; Diwan-i-Arz |
+| Alauddin | Dagh/Chehra; market control; Siri; Alai Darwaza **1311** |
+| Muhammad bin Tughlaq | Daulatabad; token currency; Amir-i-Kohi; Ibn Battuta |
+| Firoz Shah | Canals; Haqq-i-Sharb; hereditary iqta; jizya on Brahmins |
+| Sikandar Lodi | Built up **Agra** |
+| Ibrahim Lodi | Last Delhi Sultan; Panipat **1526** |
+
+### Admin / architecture match
+
+| Term | Lock |
+|------|------|
+| Iqta | Revenue assignment to **Muqti** (Iltutmish) |
+| Khalsa | Crown land |
+| Shahna-i-Mandi | Alauddin market controller |
+| Amir-i-Kohi | Muhammad bin Tughlaq agriculture dept |
+| Dhai Din Ka Jhopra | **Aibak** |
+| Sultan Garhi | **Iltutmish** |
+| Alai Darwaza | **Alauddin, 1311** |
+| Qutub Minar | Aibak start → Iltutmish finish |
+
+---
+
 ## 2.1 Turkish Invasions of India
 
 **Phases:** Arab foothold in Sind (**712**) | Ghaznavid **raids** | Ghurid **territorial conquest** | Delhi Sultanate from **1206**

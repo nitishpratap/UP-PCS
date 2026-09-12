@@ -90,6 +90,55 @@ Origin · Chandragupta I · Samudragupta · Chandragupta II · Kumaragupta I · 
 
 ---
 
+## Must-score facts — kings, coins, admin, travellers
+
+### Imperial line
+
+**Sri Gupta → Ghatotkacha → Chandragupta I → Samudragupta → Chandragupta II → Kumaragupta I → Skandagupta**
+
+| King | Tag |
+|------|-----|
+| Chandragupta I | First **Maharajadhiraja**; Kumaradevi; era ~**319–320** |
+| Samudragupta | Digvijaya; **Prayag Prashasti** (Harishena); Napoleon of India |
+| Chandragupta II | **Vikramaditya / Sakari**; ends Western Kshatrapas; Fa-Hien |
+| Kumaragupta I | **Nalanda** founder-patron |
+| Skandagupta | Last great; **Bhitari** Huna war; Sudarsana repair |
+
+### Coin types
+
+| Type | King |
+|------|------|
+| King–queen | Chandragupta I |
+| Lyrist / horse / battle-axe / tiger | Samudragupta |
+| Archer | Chandragupta II |
+| Silver ~**33 grains** | Chandragupta II Shaka-victory proof |
+| Peacock types | Often Kumaragupta I |
+
+### Admin ladder
+
+**Bhukti (uparika) → Vishaya (kumaramatya) → Vithi → Grama**
+
+| Term | Lock |
+|------|------|
+| Sandhivigrahika | Peace and war |
+| Bhaga / udranga | Land tax ~**1/6** |
+| Vishti | Forced labour |
+
+### Traveller order
+
+**Fa-Hien → Hiuen Tsang → I-Tsing → Al-Biruni**
+
+### South Prashasti matches
+
+| King | Place |
+|------|-------|
+| Dhananjaya | Kusthalapura |
+| Nilaraja | Avamukta |
+| Ugrasena | Palaka |
+| Vishnugopa | **Kanchi** |
+
+---
+
 ## Books and Writers — Gupta Age
 
 **Book–writer pairs | literature + science | later pairs kept for 2025-style stems**

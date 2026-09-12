@@ -128,6 +128,30 @@ Oceans & Seas | Ocean Floor | Trenches | Ocean Currents (Warm & Cold) | Temperat
 
 ---
 
+## Must-score facts — relief, currents, El Niño
+
+### Ocean relief
+
+| Feature | Lock |
+|---------|------|
+| Continental shelf | Shallow margin |
+| Slope / rise | Steep then gentle to floor |
+| Abyssal plain | Deep flat floor |
+| Trench | Deepest (e.g. Mariana) |
+| Mid-ocean ridge | Divergent volcanism |
+
+### Currents / climate
+
+| Item | Lock |
+|------|------|
+| Open-ocean salinity | ~**35‰**; max near Tropics (not Equator) |
+| Warm / cold currents | Affect coasts & fog / desert margins |
+| Agulhas | Into Indian Ocean (S. Africa teaching) |
+| El Niño | Warm water off Peru; weak upwelling; fish crash |
+| Tides | Spring / neap; lunar–solar alignment |
+
+---
+
 ## N.0 Framework — The World Ocean
 
 Oceans cover most of Earth and set climate, fish wealth and geopolitics.

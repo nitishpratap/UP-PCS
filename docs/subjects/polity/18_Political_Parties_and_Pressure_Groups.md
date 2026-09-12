@@ -72,6 +72,34 @@ National Parties | Regional Parties | Recognition of Political Parties | Symbols
 
 ---
 
+## Must-score facts — recognition, symbols, defection
+
+### Hooks in Constitution / law
+
+| Item | Lock |
+|------|------|
+| Association | Art. **19(1)(c)** |
+| Anti-defection | **Tenth Schedule** |
+| Registration | RPA **s.29A** |
+
+### National / State party (any one route)
+
+| Type | Classic route |
+|------|---------------|
+| National | **6%** votes in **4** States + **4** LS seats **or** **2%** LS seats from ≥3 States, etc. |
+| State | **6%** + **2** MLAs / **1** MP **or** **3%** Assembly seats (min 3), etc. |
+
+### Quick locks
+
+| Item | Lock |
+|------|------|
+| National parties (2024–26 set) | AAP, BSP, BJP, CPI(M), INC, NPP (verify current ECI list) |
+| Symbols | Reserved = recognised; free = unrecognised / Independents |
+| Founding order trap | TDP **1982** → BSP **1984** → SP **1992** → TMC **1998** |
+| System | Multi-party (not classic two-party) |
+
+---
+
 ## Frame
 
 Parties as a **system** + groups that **push** the system. **who is a national party, who founded when, coalition/hung, unions/pressure groups**. UP paper loves **BSP / SP years** and **union–party match**.

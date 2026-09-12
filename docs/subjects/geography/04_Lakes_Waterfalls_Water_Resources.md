@@ -153,6 +153,37 @@ D. Chilka, Michigan, Superior, Victoria
 
 ---
 
+## Must-score facts — lakes, lagoons, Ramsar traps
+
+### Lake ↔ type / state
+
+| Lake | Lock |
+|------|------|
+| Chilika | Largest **east-coast lagoon** (Odisha) |
+| Sambhar | Largest **inland saline** (Rajasthan) |
+| Wular | Largest freshwater volume (J&K; Jhelum; tectonic) |
+| Loktak | Phumdis; Keibul Lamjao; Sangai (Manipur) |
+| Pulicat | 2nd major brackish lagoon (AP–TN) |
+| Kolleru | Mainly **freshwater** (AP) |
+| Vembanad | Kerala’s largest; India’s **longest**; west-coast kayal |
+| Kabartal | Bihar oxbow Ramsar |
+| Phulhar | Pilibhit; Gomti source link |
+| Kodaikanal | **Artificial** |
+
+### Not in UP (common traps)
+
+**Rudrasagar (Tripura) · Sultanpur (Haryana) · Surinsar–Mansar (J&K)**
+
+### World lake traps
+
+| Lake | Lock |
+|------|------|
+| Onega / Ladoga | **Russia** (≠ Canada) |
+| Michigan | Wholly **USA** |
+| Superior | USA + Canada |
+
+---
+
 ## N.0 Framework
 
 - A **lake** is standing water in a basin on land. It is not the ocean, and it is larger and deeper than a pond.
