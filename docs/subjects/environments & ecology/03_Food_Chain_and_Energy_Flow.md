@@ -622,543 +622,595 @@ D. None of the above
 
 ## Practice Zone — UPPCS Format Drill
 
-> **30 questions** | multi-statement + A/R + match + NOT-matched
+> **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D
 
-**Q1.** With reference to food chains, which statements is/are correct?
+**Q1.** With reference to food chain and food web, which of the following statements is/are correct?
 
-1. A grazing food chain starts from living green plants.
-2. A detritus food chain starts from dead organic matter.
+1. A food chain is a single linear who-eats-whom sequence.
+2. A food web is a network of interconnected chains and is generally more stable than one chain alone.
+3. Food chains commonly occur entirely within a single species.
 
-A. Only 1
+A. 2 and 3 only
+B. 1 and 3 only
+C. 1, 2 and 3
+D. 1 and 2 only
 
-B. Only 2
+<details>
+<summary>Show answer</summary>
 
-C. Both 1 and 2
+**Logic:** Food chains are not within a single species.
 
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q2.** With reference to energy flow, which statements is/are correct?
-
-1. Energy flow is unidirectional.
-2. Nutrients flow in a cyclic manner.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
+**Ans: D.**
 
 </details>
 
-**Q3.** With reference to ecological pyramids, which statements is/are correct?
+**Q2.** Which of the following pairs is/are NOT correctly matched?
 
-1. Pyramid of energy is always upright.
-2. Pyramid of biomass can never be inverted.
+1. Grazing food chain — starts from dead organic matter
+2. Detritus food chain — starts from living green plants
+3. Marine primary producers — mainly phytoplankton
 
-A. Only 1
+A. 2 and 3 only
+B. 1 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
 
-B. Only 2
+<details>
+<summary>Show answer</summary>
 
-C. Both 1 and 2
+**Logic:** Grazing from living plants; detritus from dead matter. Pair 3 correct.
 
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A** — Biomass pyramid can invert in open ocean.
-
-</details>
-
-**Q4.** With reference to Ecosystem (UPPCS 2025 pattern), which statements is/are correct?
-
-1. Green plants capture about 1% of sunlight on leaves.
-2. About 10% of organic matter reaches the next higher consumer level.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: C** — UPPCS 2025 Q5.
+**Ans: C.**
 
 </details>
 
-**Q5.** With reference to food webs, which statements is/are correct?
+**Q3.** With reference to trophic levels, which of the following statements is/are correct?
 
-1. A food web is more stable than a single food chain.
-2. Energy flow in a food web is cyclic.
+1. T1 denotes producers and T2 herbivores.
+2. The Sun is counted as trophic level T1 in standard pyramids.
+3. Energy decreases as one moves to higher trophic levels.
 
-A. Only 1
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
 
-B. Only 2
+<details>
+<summary>Show answer</summary>
 
-C. Both 1 and 2
+**Logic:** Sun is energy source — not a trophic level.
 
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q6.** With reference to trophic levels, which statements is/are correct?
-
-1. Producers occupy trophic level 1.
-2. The Sun is trophic level 0 in standard NCERT pyramids.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A** — Sun = energy source, not a numbered level.
+**Ans: B.**
 
 </details>
 
-**Q7.** With reference to food chain length, which statements is/are correct?
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-1. Food chains rarely exceed 4–5 trophic levels.
-2. Energy increases at higher trophic levels.
+Assertion (A): About 10% of energy passes to the next trophic level (Lindeman, 1942).
 
-A. Only 1
+Reason (R): Energy flow is cyclic in ecosystems just like nutrient cycling.
 
-B. Only 2
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-C. Both 1 and 2
+<details>
+<summary>Show answer</summary>
 
-D. Neither
+**A/R logic:** A true; energy is unidirectional — R false.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q8.** Which statements about ecological pyramids is/are correct?
-
-1. Pyramid of numbers can be inverted in a parasitic food chain.
-2. Pyramid of energy can be inverted in marine ecosystems.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Ans: C.**
 
 </details>
 
-**Q9.** With reference to decomposers, which statements is/are correct?
+**Q5.** Match List-I with List-II:
 
-1. They recycle nutrients from all trophic levels.
-2. They are always shown as the top trophic level in energy pyramids.
+| List-I | List-II |
+|--------|--------|
+| A. Energy pyramid | 1. May invert in pond/marine systems |
+| B. Biomass pyramid | 2. Always upright |
+| C. Numbers pyramid | 3. May invert in a parasitic chain |
 
-A. Only 1
+Code:
 
-B. Only 2
+A. A-1, B-2, C-3
+B. A-2, B-3, C-1
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
 
-C. Both 1 and 2
+<details>
+<summary>Show answer</summary>
 
-D. Neither
+**Logic:** Energy always upright; biomass may invert at sea/pond; numbers with parasites.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q10.** With reference to Lindeman's rule, which statements is/are correct?
-
-1. About 10% of energy transfers between trophic levels.
-2. The rule was proposed by Charles Darwin.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A** — Lindeman **1942**, not Darwin.
+**Ans: C.**
 
 </details>
 
-**Q11.** Assertion (A): Food chains in nature are generally short.
-Reason (R): Only about 10% of energy transfers to the next higher trophic level.
+**Q6.** Consider the following statements:
 
-A. Both true; R explains A
+1. Humans are primary as well as secondary consumers.
+2. Decomposers are mainly fungi and bacteria.
+3. Viruses are the principal decomposers in terrestrial systems.
 
-B. Both true; R not explanation
+A. 2 and 3 only
+B. 1 and 3 only
+C. 1, 2 and 3
+D. 1 and 2 only
 
-C. A true, R false
+<details>
+<summary>Show answer</summary>
 
-D. A false, R true
+**Logic:** Viruses are not principal decomposers.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q12.** Assertion (A): Pyramid of energy is always upright.
-Reason (R): Energy is lost as heat at each trophic transfer.
-
-A. Both true; R explains A
-
-B. Both true; R not explanation
-
-C. A true, R false
-
-D. A false, R true
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Ans: D.**
 
 </details>
 
-**Q13.** Assertion (A): Energy flow in an ecosystem is cyclic.
-Reason (R): Decomposers return nutrients to the soil.
+**Q7.** Arrange a classic terrestrial grazing chain in correct order:
 
-A. Both true; R explains A
+1. Frog  2. Grass  3. Snake  4. Grasshopper
 
-B. Both true; R not explanation
+A. 2-4-1-3
+B. 2-1-4-3
+C. 4-2-1-3
+D. 2-4-3-1
 
-C. A true, R false
+<details>
+<summary>Show answer</summary>
 
-D. A false, R true
+**Logic:** Grass → Grasshopper → Frog → Snake.
 
-<details><summary>Show answer</summary>
-
-**Ans: D** — A false (energy unidirectional). R describes nutrient cycling.
-
-</details>
-
-**Q14.** Assertion (A): In open ocean, pyramid of biomass may be inverted.
-Reason (R): Phytoplankton reproduce and are consumed very rapidly.
-
-A. Both true; R explains A
-
-B. Both true; R not explanation
-
-C. A true, R false
-
-D. A false, R true
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Ans: A.**
 
 </details>
 
-**Q15.** Match chain type with starting point:
+**Q8.** With reference to biomagnification, which of the following statements is/are correct?
 
-List-I: A. Grazing B. Detritus C. Parasitic
-List-II: 1. Dead organic matter 2. Living green plants 3. Living host
+1. Toxin concentration generally rises up the food chain.
+2. For DDT-type stems, apex consumers often show higher concentration than primary consumers.
+3. Biomagnification means energy increases at each trophic level.
 
-A. 2 1 3
+A. 2 and 3 only
+B. 1 and 3 only
+C. 1, 2 and 3
+D. 1 and 2 only
 
-B. 1 2 3
+<details>
+<summary>Show answer</summary>
 
-C. 2 3 1
+**Logic:** Energy decreases upward — statement 3 is false.
 
-D. 3 2 1
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q16.** Match pyramid type with feature:
-
-List-I: A. Energy B. Biomass C. Numbers
-List-II: 1. Can invert in sea 2. Always upright 3. Inverts in tree-insect chain
-
-A. 2 1 3
-
-B. 1 2 3
-
-C. 3 1 2
-
-D. 2 3 1
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Ans: D.**
 
 </details>
 
-**Q17.** Match organism with trophic level (grassland chain):
+**Q9.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-List-I: A. Grass B. Grasshopper C. Frog D. Snake
-List-II: 1. T3 2. T1 3. T4 4. T2
+Assertion (A): Food chains usually remain short (about 3–5 levels).
 
-A. 2 4 1 3
+Reason (R): Usable energy runs out as transfers continue upward.
 
-B. 4 2 1 3
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-C. 2 4 3 1
+<details>
+<summary>Show answer</summary>
 
-D. 1 4 2 3
+**A/R logic:** Both true and R explains why chains stay short.
 
-<details><summary>Show answer</summary>
-
-**Ans: A** — Grass-T1, Grasshopper-T2, Frog-T3, Snake-T4.
-
-</details>
-
-**Q18.** Match scientist with contribution:
-
-List-I: A. Lindeman B. Elton C. Tansley
-List-II: 1. Ecosystem concept 2. 10% energy rule 3. Ecological pyramids
-
-A. 2 3 1
-
-B. 3 2 1
-
-C. 1 2 3
-
-D. 2 1 3
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Ans: D.**
 
 </details>
 
-**Q19.** Which pair is NOT correctly matched?
+**Q10.** Which of the following UP-linked examples is/are correctly matched?
 
-A. Grazing chain — starts from dead matter
+1. Dudhwa grass → deer → tiger — grazing chain with tiger as apex
+2. Terai sal leaf litter → earthworm — detritus start
+3. Terai leaf litter → earthworm — grazing food chain start
 
-B. Lindeman — 10% rule
+A. 2 and 3 only
+B. 1 and 3 only
+C. 1, 2 and 3
+D. 1 and 2 only
 
-C. Energy pyramid — always upright
+<details>
+<summary>Show answer</summary>
 
-D. Food web — interconnected chains
+**Logic:** Leaf litter path is detritus — not grazing.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q20.** Which pair is NOT correctly matched?
-
-A. Open ocean — inverted biomass pyramid
-
-B. Parasitic chain — inverted number pyramid
-
-C. Energy flow — cyclic
-
-D. Detritus chain — dead organic matter
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
+**Ans: D.**
 
 </details>
 
-**Q21.** Which pyramid best represents ecosystem function?
+**Q11.** Match List-I with List-II:
 
-A. Numbers
+| List-I | List-II |
+|--------|--------|
+| A. Classic marine chain start | 1. Phytoplankton / diatoms |
+| B. Primary consumer example | 2. Deer |
+| C. Apex predator example | 3. Tiger |
 
-B. Biomass
+Code:
 
-C. Energy
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-1, B-3, C-2
+D. A-3, B-2, C-1
 
-D. All equally
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Logic:** Diatoms/phytoplankton → deer → tiger associations.
 
-**Ans: C**
-
-</details>
-
-**Q22.** Inverted pyramid of numbers is seen in:
-
-A. Grassland
-
-B. Parasitic chain on a tree
-
-C. Open ocean
-
-D. Desert
-
-<details><summary>Show answer</summary>
-
-**Ans: B** — Ocean shows inverted **biomass**, not numbers.
+**Ans: B.**
 
 </details>
 
-**Q23.** The immediate starting point of a detritus food chain is:
+**Q12.** With reference to ecological pyramids, which of the following statements is/are correct?
 
-A. Sunlight
+1. An inverted energy pyramid is a normal feature of terrestrial forests.
+2. A biomass pyramid can invert in aquatic systems.
+3. A numbers pyramid can invert in a parasitic chain.
 
-B. Living plants
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. Dead organic matter
+<details>
+<summary>Show answer</summary>
 
-D. Top carnivores
+**Logic:** Energy pyramid never inverts.
 
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q24.** With reference to omnivores, which statements is/are correct?
-
-1. They can occupy more than one trophic level.
-2. They always weaken food web stability.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Ans: B.**
 
 </details>
 
-**Q25.** With reference to grazing and detritus chains, which statements is/are correct?
+**Q13.** Consider the following statements about diclofenac and vultures:
 
-1. Both operate simultaneously in most natural ecosystems.
-2. Detritus chains begin with active photosynthesis in green leaves.
+1. Veterinary diclofenac is linked to India’s vulture crash.
+2. Vulture decline disrupts scavenging / detritus pathways.
+3. Diclofenac primarily boosted vulture populations through better carcass quality.
 
-A. Only 1
+A. 2 and 3 only
+B. 1 and 3 only
+C. 1, 2 and 3
+D. 1 and 2 only
 
-B. Only 2
+<details>
+<summary>Show answer</summary>
 
-C. Both 1 and 2
+**Logic:** Statement 3 is false.
 
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q26.** With reference to pyramid of biomass, which statements is/are correct?
-
-1. It can be inverted in open ocean ecosystems.
-2. It measures energy flow per unit time.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A** — Biomass = g/m² standing crop, not kcal/m²/yr.
+**Ans: D.**
 
 </details>
 
-**Q27.** Which occupies the lowest trophic level?
+**Q14.** Which one of the following correctly states Lindeman’s approximate rule?
 
-A. Tiger
+A. 90% of energy passes to the next trophic level
+B. 50% of energy passes to the next trophic level
+C. About 10% of energy passes to the next trophic level
+D. Energy doubles at each trophic level
 
-B. Phytoplankton
+<details>
+<summary>Show answer</summary>
 
-C. Snake
+**Logic:** ~10% transfer; ~90% lost.
 
-D. Eagle
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q28.** In a food chain, the largest amount of energy is found at:
-
-A. Tertiary consumer
-
-B. Secondary consumer
-
-C. Producer level
-
-D. Decomposer level
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
+**Ans: C.**
 
 </details>
 
-**Q29.** Match UP example with concept:
+**Q15.** With reference to butterfly decline impacts, which of the following statements is/are correct?
 
-List-I: A. Dudhwa tiger B. Ganga algae-fish web C. Terai leaf litter
-List-II: 1. Detritus chain 2. Top carnivore 3. Aquatic food web
+1. Decline can harm pollination services.
+2. It can cut populations of predators such as wasps, spiders, and birds that feed on them.
+3. It necessarily forces a drastic rise in fungal infections of all crops as the only outcome.
 
-A. 2 3 1
+A. 2 and 3 only
+B. 1 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
 
-B. 1 2 3
+<details>
+<summary>Show answer</summary>
 
-C. 3 2 1
+**Logic:** Statement 3 is an overclaim / false trap.
 
-D. 2 1 3
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Ans: C.**
 
 </details>
 
-**Q30.** Which pair is NOT correctly matched?
+**Q16.** Arrange the following in the direction of energy flow:
 
-A. Pyramid of energy — kcal/m²/yr
+A. Consumers → producers → Sun → heat
+B. Sun → producers → consumers → heat
+C. Heat → consumers → producers → Sun
+D. Producers → Sun → consumers → heat
 
-B. Pyramid of biomass — g/m²
+<details>
+<summary>Show answer</summary>
 
-C. Pyramid of numbers — always inverted
+**Logic:** Sun → producers → consumers → heat.
 
-D. Lindeman — 1942
+**Ans: B.**
 
-<details><summary>Show answer</summary>
+</details>
 
-**Ans: C** — Number pyramid is usually upright.
+**Q17.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): More links in a food web generally raise stability compared with a single chain.
+
+Reason (R): Energy begins to cycle in a closed loop once a food web forms.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** A true; energy still one-way — R false.
+
+**Ans: C.**
+
+</details>
+
+**Q18.** Which of the following pairs is/are correctly matched?
+
+1. Detritivores — help close the detritus pathway
+2. Apex predators — often scarce because little energy remains at the top
+3. Primary consumers — typically tigers in all terrestrial systems
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Tigers are apex — not primary consumers.
+
+**Ans: A.**
+
+</details>
+
+**Q19.** With reference to cropland chains, which of the following statements is/are correct?
+
+1. Western UP sugarcane → pest → predator is a short cropland chain of about three levels.
+2. Cropland chains are always longer than marine chains because of higher energy.
+3. Food chains stay short mainly because usable energy runs out.
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Statement 2 is false.
+
+**Ans: B.**
+
+</details>
+
+**Q20.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. Grazing start | 1. Dead organic matter |
+| B. Detritus start | 2. Living green plants |
+| C. Driving force | 3. Solar energy |
+
+Code:
+
+A. A-1, B-2, C-3
+B. A-2, B-1, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Grazing = living plants; detritus = dead matter; driver = solar.
+
+**Ans: B.**
+
+</details>
+
+**Q21.** How many of the following statements are correct?
+
+1. Energy pyramid is always upright.
+2. Nutrients cycle while energy flows one way.
+3. About 90% energy is typically lost between trophic levels.
+
+A. Only one
+B. Only two
+C. All three
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** All three are standard locks.
+
+**Ans: C.**
+
+</details>
+
+**Q22.** Which of the following is/are correct about ants in consumer roles?
+
+A. Ants can never be primary consumers
+B. Ants may act as primary consumers (and in broader roles as scavengers)
+C. Ants are always apex predators only
+D. Ants replace phytoplankton as marine producers
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Teaching allows ants as primary consumers / broader roles.
+
+**Ans: B.**
+
+</details>
+
+**Q23.** With reference to Ganga aquatic webs, which of the following statements is/are correct?
+
+1. Algae → fish → dolphin is a standard UP lotic aquatic food-web teaching example.
+2. Gangetic dolphin is a freshwater river dolphin.
+3. Gangetic dolphin is primarily a marine open-ocean species.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Dolphin is freshwater — not marine open-ocean.
+
+**Ans: A.**
+
+</details>
+
+**Q24.** Consider the following statements:
+
+1. Saying “energy is cyclic like nutrients” is a frequent false statement.
+2. Ecological pyramids may show energy, biomass, or numbers.
+3. Lindeman’s 10% rule is an exact laboratory constant for every ecosystem on Earth.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 10% is approximate — not an exact universal constant.
+
+**Ans: A.**
+
+</details>
+
+**Q25.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): A biomass pyramid can be inverted in some aquatic systems.
+
+Reason (R): Phytoplankton biomass can be lower than consumer biomass at a given time while productivity remains high.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** Both true; R explains the aquatic invert case.
+
+**Ans: D.**
+
+</details>
+
+**Q26.** Which of the following pairs is/are NOT correctly matched?
+
+1. Fox — typical primary consumer in all stems
+2. Tiger — typical primary consumer in all stems
+3. Deer — typical primary consumer / herbivore
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Fox/tiger are not primary consumers; deer is.
+
+**Ans: A.**
+
+</details>
+
+**Q27.** Arrange trophic ranks from producers upward for a simple chain ending at tertiary consumer:
+
+A. Herbivore → producer → tertiary → secondary
+B. Producer → herbivore → secondary carnivore → tertiary carnivore
+C. Tertiary → secondary → herbivore → producer
+D. Producer → tertiary → herbivore → secondary
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** T1 producer → T2 herbivore → T3 → T4.
+
+**Ans: B.**
+
+</details>
+
+**Q28.** With reference to energy loss, which of the following statements is/are correct?
+
+1. About 90% is lost as heat, respiration, and movement between levels.
+2. Energy increases steadily toward apex predators.
+3. Food webs raise stability but do not make energy cyclic.
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Energy decreases toward apex — statement 2 false.
+
+**Ans: B.**
+
+</details>
+
+**Q29.** Which one of the following is a correct marine chain teaching sequence?
+
+A. Herrings → Crustaceans → Diatoms
+B. Diatoms → Crustaceans → Herrings
+C. Crustaceans → Diatoms → Herrings
+D. Herrings → Diatoms → Crustaceans
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Diatoms → Crustaceans → Herrings.
+
+**Ans: B.**
+
+</details>
+
+**Q30.** With reference to pyramid exceptions, which of the following statements is/are correct?
+
+1. Match pyramid type before claiming an invert is possible.
+2. Energy pyramid invert is never correct.
+3. Numbers pyramid invert is impossible even in parasitic chains.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Numbers can invert with parasites — statement 3 false.
+
+**Ans: A.**
 
 </details>
 

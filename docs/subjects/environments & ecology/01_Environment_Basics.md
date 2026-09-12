@@ -1204,551 +1204,675 @@ D. Mangrove
 
 ## Practice Zone — UPPCS Format Drill
 
-> **30 questions** | ≥60% multi-statement | includes A/R, Match-List, chronology, NOT-matched
+> **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D
 
-**Q1.** With reference to 'Environment', which statements is/are correct?
+**Q1.** With reference to the meaning of ‘environment’, which of the following statements is/are correct?
 
-1. NCERT defines environment as biotic + abiotic factors influencing living organisms.
-2. In competitive papers, social/economic components are always the primary focus of "environment."
+1. NCERT treats environment as the sum of biotic and abiotic factors influencing living organisms.
+2. In most Prelims stems, “environment” primarily means social and economic surroundings rather than natural/physical factors.
 
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A** — Scientific sense = natural/physical (biotic + abiotic).
-
-</details>
-
-**Q2.** With reference to Earth's spheres, which statements is/are correct?
-
-1. Biosphere is where lithosphere, hydrosphere, and atmosphere interact.
-2. Hydrosphere covers approximately 71% of Earth's surface.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: C** — Both correct.
-
-</details>
-
-**Q3.** With reference to constitutional provisions on environment, which statements is/are correct?
-
-1. Article 48A directs the State to protect environment (DPSP).
-2. Article 51A(g) imposes a Fundamental Duty on citizens to protect natural environment.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: C** — Both added by 42nd Amendment, 1976. Trap: Art 48 = agriculture.
-
-</details>
-
-**Q4.** With reference to abiotic components, which statements is/are correct?
-
-1. Edaphic factors relate to soil properties.
-2. Humus in soil is classified as abiotic because it is found in soil.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A** — Humus is organic (biotic-origin).
-
-</details>
-
-**Q5.** With reference to biotic components, which statements is/are correct?
-
-1. Decomposers recycle nutrients from dead organic matter.
-2. Producers are heterotrophs depending on others for food.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A** — Producers are autotrophs.
-
-</details>
-
-**Q6.** With reference to Liebig and Shelford, which statements is/are correct?
-
-1. Liebig's law identifies the scarcest essential resource as the limiting factor.
-2. Shelford's law states survival is possible at any level of a factor if other factors are abundant.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A** — Shelford = min–max tolerance range required.
-
-</details>
-
-**Q7.** With reference to nitrogen fixation, which statements is/are correct?
-
-1. Rhizobium fixes nitrogen in legume root nodules.
-2. Most organisms can directly use atmospheric N₂ without fixation.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A** — N₂ (~78% air) needs fixation by bacteria/cyanobacteria.
-
-</details>
-
-**Q8.** With reference to environment classification, which statements is/are correct?
-
-1. Lentic ecosystems are standing water bodies like lakes.
-2. Anthropogenic environment exists without any human modification.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A** — Anthropogenic = human-modified.
-
-</details>
-
-**Q9.** Which of the following pairs is/are NOT correctly matched?
-
-1. Lentic — River
-2. Lotic — Stream
-3. Mangrove — Purely terrestrial ecosystem
-
-A. Only 1
-
-B. 1 and 3
-
-C. Only 3
-
-D. 2 and 3
-
-<details><summary>Show answer</summary>
-
-**Ans: B** — Lentic = standing (not river). Mangrove = transitional coastal.
-
-</details>
-
-**Q10.** With reference to India's biogeographic zones, which statements is/are correct?
-
-1. India has 10 biogeographic zones per Rodgers & Panwar (1988).
-2. Gangetic Plain is one of the 10 zones covering most of UP.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: C** — Both correct.
-
-</details>
-
-**Q11.** Assertion (A): Weather phenomena occur in the troposphere.
-
-Reason (R): The ozone layer that absorbs UV radiation is located in the troposphere.
-
-A. Both true; R explains A
-
-B. Both true; R not explanation
-
-C. A true, R false
-
-D. A false, R true
-
-<details><summary>Show answer</summary>
-
-**Ans: C** — Ozone is in **stratosphere**, not troposphere.
-
-</details>
-
-**Q12.** Assertion (A): Resource extraction must remain below the rate of regeneration for carrying capacity.
-
-Reason (R): Waste generation should exceed environmental absorption capacity.
-
-A. Both true; R explains A
-
-B. Both true; R not explanation
-
-C. A true, R false
-
-D. A false, R true
-
-<details><summary>Show answer</summary>
-
-**Ans: C** — Waste must stay **within** absorption capacity.
-
-</details>
-
-**Q13.** Assertion (A): Sustainable Development was popularised by the Brundtland Report.
-
-Reason (R): The Brundtland Report is also known as "The Limits to Growth."
-
-A. Both true; R not explanation
-
-B. A false, R true
-
-C. Both true; R explains A
-
-D. A true, R false
-
-<details><summary>Show answer</summary>
-
-**Ans: D** — *Limits to Growth* = Club of Rome (1972). Brundtland = *Our Common Future* (1987).
-
-</details>
-
-**Q14.** Assertion (A): Possibilism is the widely accepted model of human–environment interaction.
-
-Reason (R): Environmental determinism holds that environment offers multiple choices to humans.
-
-A. Both true; R explains A
-
-B. Both true; R not explanation
-
-C. A true, R false
-
-D. A false, R true
-
-<details><summary>Show answer</summary>
-
-**Ans: C** — Determinism = environment **dictates**; possibilism = environment offers choices.
-
-</details>
-
-**Q15.** Match List-I with List-II:
-
-List-I: A. Stockholm B. Brundtland C. Rio D. LiFE
-List-II: 1. 1992 Agenda 21 2. 1972 UNEP 3. 2022 launch 4. 1987 SD definition
-
-A. A-2,B-4,C-1,D-3
-
-B. A-4,B-2,C-3,D-1
-
-C. A-1,B-3,C-2,D-4
-
-D. A-3,B-1,C-4,D-2
-
-<details><summary>Show answer</summary>
-
-**Ans: A** — Stockholm 1972 | Brundtland 1987 | Rio 1992 | LiFE 2022.
-
-</details>
-
-**Q16.** Match List-I with List-II:
-
-List-I: A. Ratzel B. Hardin C. Rhizobium D. Rodgers & Panwar
-List-II: 1. Tragedy of Commons 2. Determinism 3. 10 biogeographic zones 4. N-fixation
-
-A. A-2,B-1,C-4,D-3
-
-B. A-1,B-2,C-3,D-4
-
-C. A-4,B-3,C-2,D-1
-
-D. A-2,B-4,C-1,D-3
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q17.** Match environmental days to dates:
-
-A. 5 June B. 22 April C. 3 March D. 16 September
-1. Earth Day 2. World Wildlife Day 3. WED 4. Ozone Day
-
-A. A-3,B-1,C-2,D-4
-
-B. A-1,B-3,C-4,D-2
-
-C. A-4,B-2,C-1,D-3
-
-D. A-2,B-4,C-3,D-1
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q18.** Which pairs is/are NOT correctly matched?
-
-1. World Environment Day — 5 June
-2. World Wildlife Day — 22 March
-3. International Ozone Day — 16 September
+Select the correct answer from the code given below:
 
 A. Only 2
-
-B. 1 and 2
-
-C. Only 1
-
-D. 2 and 3
-
-<details><summary>Show answer</summary>
-
-**Ans: A** — Wildlife Day = 3 March (UPPCS 2025 trap).
-
-</details>
-
-**Q19.** Which pairs is/are NOT correctly matched?
-
-1. Chipko — Reni, Uttarakhand
-2. Appiko — Karnataka
-3. JFM — 1972
-
-A. Only 3
-
-B. 1 and 3
-
-C. Only 1
-
-D. 2 and 3
-
-<details><summary>Show answer</summary>
-
-**Ans: A** — JFM = **1990**.
-
-</details>
-
-**Q20.** Arrange chronologically (earliest first):
-
-1. Stockholm Conference 2. EPA 1986 3. Brundtland Report 4. Rio Earth Summit
-
-A. 1-3-4-2
-
-B. 1-2-3-4
-
-C. 2-1-3-4
-
-D. 1-3-2-4
-
-<details><summary>Show answer</summary>
-
-**Ans: B** — 1972 → 1986 → 1987 → 1992.
-
-</details>
-
-**Q21.** With reference to LiFE Mission, which statements is/are correct?
-
-1. It was launched in June 2022.
-2. The idea was proposed at COP-25 Madrid.
-
-A. Only 2
-
-B. Neither
-
-C. Both
-
+B. Both 1 and 2
+C. Neither 1 nor 2
 D. Only 1
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: D** — Idea at COP26 Glasgow 2021.
+**Logic:** Statement 1 is the NCERT lock. Statement 2 reverses the Prelims default (natural/physical sense).
+
+**Ans: D.** Only 1 is correct.
 
 </details>
 
-**Q22.** With reference to IPAT equation, which statements is/are correct?
+**Q2.** Consider the following pairs:
 
-1. T stands for Technology.
-2. Impact decreases if population increases while affluence and technology stay constant.
+| Term | Meaning |
+|------|---------|
+| 1. Ecology | Functional unit of living + non-living interaction |
+| 2. Ecosystem | Study of organism–environment links |
+| 3. Habitat | Place where an organism lives |
+| 4. Niche | Role of a species in an ecosystem |
 
-A. Only 1
+Which of the pairs given above is/are **correctly** matched?
 
-B. Only 2
+A. 1 and 2 only
+B. 3 and 4 only
+C. 1, 3 and 4 only
+D. 2, 3 and 4 only
 
-C. Both
+<details>
+<summary>Show answer</summary>
 
-D. Neither
+**Logic:** Ecology = study; ecosystem = functional unit. Pairs 1–2 are swapped; 3–4 are correct.
 
-<details><summary>Show answer</summary>
+**Ans: B.** Only habitat and niche are correctly matched.
 
-**Ans: A** — Higher P increases impact if A and T unchanged.
+</details>
+
+**Q3.** With reference to Earth’s environmental spheres, which of the following statements is/are correct?
+
+1. Lithosphere covers roughly 29% of Earth’s surface and hydrosphere about 71%.
+2. Biosphere extends from about 200 m below the soil surface to about 6 km above sea level.
+3. Pedosphere is counted as a fifth sphere equal in status to lithosphere in standard four-sphere teaching.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 1 and 2 are standard locks. Pedosphere is usually grouped with lithosphere/edaphic factors — not a fifth sphere.
+
+**Ans: A.** Only 1 and 2.
+
+</details>
+
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Liebig’s law states that organism growth is limited by the scarcest essential resource.
+
+Reason (R): Shelford’s law states that a species can survive only within a minimum–maximum tolerance range for environmental factors.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** Both laws are correctly stated, but tolerance range does not explain why the scarcest resource limits growth.
+
+**Ans: A.** Both true; R does not explain A.
+
+</details>
+
+**Q5.** Match List-I with List-II and select the correct answer using the code given below the lists:
+
+| List-I (Factor type) | List-II (Concerned with) |
+|----------------------|--------------------------|
+| A. Edaphic | 1. Slope and altitude |
+| B. Climatic | 2. Soil |
+| C. Topographic | 3. Weather elements |
+
+Code:
+
+A. A-3, B-2, C-1
+B. A-2, B-1, C-3
+C. A-2, B-3, C-1
+D. A-1, B-3, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Edaphic = soil; climatic = weather; topographic = slope/altitude.
+
+**Ans: C.** A-2, B-3, C-1.
+
+</details>
+
+**Q6.** Which of the following pairs is/are **NOT** correctly matched?
+
+1. Lentic ecosystem — flowing water such as rivers
+2. Lotic ecosystem — standing water such as ponds and lakes
+3. Mangrove / wetland — transitional habitat between land and water
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Lentic = standing; lotic = flowing. Pair 3 is correct. So 1 and 2 are wrong matches.
+
+**Ans: A.** 1 and 2 only are not correctly matched.
+
+</details>
+
+**Q7.** With reference to biotic structure of an ecosystem, which of the following statements is/are correct?
+
+1. The usual sequence is producers → consumers → decomposers.
+2. Rhizobium is associated with nitrogen fixation in leguminous plants.
+3. Viruses are the principal decomposers in terrestrial ecosystems.
+
+Select the correct answer from the code given below:
+
+A. 2 and 3 only
+B. 1 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 1 and 2 are correct. Decomposers are mainly fungi and bacteria — not viruses.
+
+**Ans: C.** Only 1 and 2.
+
+</details>
+
+**Q8.** Consider the following statements about human–environment schools of thought:
+
+1. Environmental determinism is linked with Friedrich Ratzel.
+2. Possibilism is linked with Vidal de la Blache.
+3. Neo-determinism / stop-and-go determinism is linked with Griffith Taylor.
+
+Which of the statements given above are correct?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** All three associations are standard.
+
+**Ans: D.** 1, 2 and 3.
+
+</details>
+
+**Q9.** With reference to the IPAT identity and related ideas, which of the following statements is/are correct?
+
+1. In IPAT, Impact = Population × Affluence × Technology.
+2. Garrett Hardin’s “Tragedy of the Commons” appeared in 1968.
+3. If population rises while affluence and technology stay constant, impact necessarily falls.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 1 and 2 are correct. Higher P with fixed A and T raises Impact — statement 3 is false.
+
+**Ans: A.** Only 1 and 2.
+
+</details>
+
+**Q10.** Arrange the following in correct chronological order:
+
+1. Stockholm Conference on the Human Environment
+2. Brundtland Report (*Our Common Future*)
+3. Rio Earth Summit / UNCED
+4. Launch of India’s LiFE Mission
+
+Select the correct answer from the code given below:
+
+A. 1-3-2-4
+B. 1-2-3-4
+C. 2-1-3-4
+D. 1-2-4-3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Stockholm 1972 → Brundtland 1987 → Rio 1992 → LiFE 2022.
+
+**Ans: B.** 1-2-3-4.
+
+</details>
+
+**Q11.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Sustainable development was popularised by the Brundtland Report of 1987.
+
+Reason (R): Agenda 21 was adopted at the Rio Summit in 1995 as a binding climate treaty.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** A is true. Agenda 21 is Rio **1992**, non-binding SD action plan — not a 1995 binding climate treaty. R is false.
+
+**Ans: C.** A true, R false.
+
+</details>
+
+**Q12.** With reference to India’s LiFE Mission, which of the following statements is/are correct?
+
+1. The idea was floated at COP26 (Glasgow) in 2021.
+2. The Mission was launched in 2022.
+3. The idea was first announced at COP25 (Madrid).
+
+Select the correct answer from the code given below:
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** COP26 2021 + launch 2022 are correct. COP25 is the classic trap.
+
+**Ans: B.** Only 1 and 2.
+
+</details>
+
+**Q13.** Match List-I with List-II and select the correct answer using the code given below the lists:
+
+| List-I (Event / law) | List-II (Year) |
+|----------------------|----------------|
+| A. Chipko movement (Reni) | 1. 1986 |
+| B. Environment (Protection) Act | 2. 1973 |
+| C. Joint Forest Management guidelines | 3. 2006 |
+| D. Forest Rights Act | 4. 1990 |
+
+Code:
+
+A. A-2, B-4, C-1, D-3
+B. A-4, B-1, C-2, D-3
+C. A-2, B-1, C-3, D-4
+D. A-2, B-1, C-4, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Chipko 1973; EPA 1986; JFM 1990; FRA 2006.
+
+**Ans: D.** A-2, B-1, C-4, D-3.
+
+</details>
+
+**Q14.** Which of the following pairs is/are correctly matched?
+
+1. Article 48A — Directive Principle directing the State to protect the environment
+2. Article 51A(g) — Fundamental Duty of citizens to protect nature
+3. Article 48 — Constitutional provision on environment protection
+
+Select the correct answer from the code given below:
+
+A. 2 and 3 only
+B. 1 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 48A and 51A(g) are environment provisions. Article 48 is agriculture and cattle — not environment.
+
+**Ans: C.** Only 1 and 2.
+
+</details>
+
+**Q15.** With reference to constitutional developments on environment, which of the following statements is/are correct?
+
+1. The 42nd Amendment (1976) inserted Article 48A and Article 51A(g).
+2. Article 21 has been interpreted to include the right to a healthy environment.
+3. The Environment (Protection) Act, 1986 was enacted before the Bhopal gas tragedy.
+
+Select the correct answer from the code given below:
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 1 and 2 are correct. EPA 1986 is post-Bhopal (1984).
+
+**Ans: B.** Only 1 and 2.
+
+</details>
+
+**Q16.** Consider the following statements:
+
+1. MoEF was created in 1985 and renamed MoEFCC in 2014.
+2. UNEP headquarters is in Nairobi.
+3. CPCB headquarters is in Mumbai.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** MoEF→MoEFCC and UNEP Nairobi are correct. CPCB sits in New Delhi, not Mumbai.
+
+**Ans: D.** Only 1 and 2.
+
+</details>
+
+**Q17.** Which of the following pairs is/are **NOT** correctly matched?
+
+| Day | Date |
+|-----|------|
+| 1. World Environment Day | 5 June |
+| 2. Earth Day | 22 April |
+| 3. World Wildlife Day | 22 March |
+| 4. International Day for Biological Diversity | 22 May |
+
+Select the correct answer from the code given below:
+
+A. 1 and 3 only
+B. 3 only
+C. 3 and 4 only
+D. 2 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Wildlife Day is **3 March** (CITES), not 22 March (Water Day trap). Others are correct.
+
+**Ans: B.** Only pair 3 is not correctly matched.
+
+</details>
+
+**Q18.** Arrange the following observances in the order of their calendar dates within a year (earliest to latest):
+
+1. World Wetlands Day
+2. World Wildlife Day
+3. World Environment Day
+4. International Ozone Day
+
+Select the correct answer from the code given below:
+
+A. 2-1-3-4
+B. 1-2-4-3
+C. 1-2-3-4
+D. 1-3-2-4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 2 Feb → 3 Mar → 5 Jun → 16 Sep.
+
+**Ans: C.** 1-2-3-4.
+
+</details>
+
+**Q19.** With reference to environment classification, which of the following statements is/are correct?
+
+1. A common triad classifies environment as physical, biological, and cultural.
+2. “Operational environment” is a standard fourth member of that triad in Prelims teaching.
+3. Cropland is an example of an anthropogenic / human-modified environment.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Triad is physical–biological–cultural; operational is not part of it. Cropland is anthropogenic.
+
+**Ans: D.** 1 and 3 only.
+
+</details>
+
+**Q20.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Uttar Pradesh mainly falls in the Gangetic Plain biogeographic zone (Zone 7).
+
+Reason (R): Uttar Pradesh has several marine national parks along its coastline.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** A is true. UP is landlocked — no marine national parks — R is false.
+
+**Ans: C.** A true, R false.
+
+</details>
+
+**Q21.** Match List-I with List-II and select the correct answer using the code given below the lists:
+
+| List-I (River) | List-II (City association often tested) |
+|----------------|-----------------------------------------|
+| A. Ganga | 1. Agra |
+| B. Yamuna | 2. Lucknow |
+| C. Gomti | 3. Varanasi / Kanpur |
+
+Code:
+
+A. A-1, B-3, C-2
+B. A-3, B-2, C-1
+C. A-3, B-1, C-2
+D. A-2, B-1, C-3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Ganga–Varanasi/Kanpur; Yamuna–Agra; Gomti–Lucknow.
+
+**Ans: C.** A-3, B-1, C-2.
+
+</details>
+
+**Q22.** With reference to Ganga cleaning programmes, which of the following statements is/are correct?
+
+1. Ganga Action Plan began in 1985.
+2. Namami Gange was launched in 2014.
+3. Namami Gange was launched in the same year as the Stockholm Conference.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** GAP 1985 and Namami Gange 2014 are correct. Stockholm is 1972 — not 2014.
+
+**Ans: A.** Only 1 and 2.
 
 </details>
 
 **Q23.** How many of the following are abiotic components?
 
-Soil minerals, green algae, rainfall, decomposers, wind
+1. Soil minerals  
+2. Rainfall  
+3. Green algae  
+4. Wind  
+5. Decomposers  
 
-A. Two
+Select the correct answer from the code given below:
 
-B. Three
-
-C. Four
-
+A. Only two
+B. Only three
+C. Only four
 D. All five
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: B** — Minerals, rainfall, wind = three abiotic.
+**Logic:** Abiotic = minerals, rainfall, wind (three). Algae and decomposers are biotic.
 
-</details>
-
-**Q24.** Which is an example of anthropogenic environment?
-
-A. Thar Desert
-
-B. Cropland
-
-C. Western Ghats forest
-
-D. Ganga river (natural course)
-
-<details><summary>Show answer</summary>
-
-**Ans: B** — Cropland is human-modified (UPPCS 2018 pattern).
+**Ans: B.** Only three.
 
 </details>
 
-**Q25.** Which is a lotic ecosystem?
+**Q24.** Which of the following pairs is/are correctly matched?
 
-A. Pond
+1. Internal environment — physiological conditions inside the organism
+2. External environment — surroundings outside the organism (ecology default)
+3. Micro-scale environment — regional or global systems
 
-B. Lake
+Select the correct answer from the code given below:
 
-C. River
+A. 2 and 3 only
+B. 1 and 3 only
+C. 1, 2 and 3
+D. 1 and 2 only
 
-D. Swamp
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Logic:** 1 and 2 are correct. Micro-scale is immediate surroundings; macro is regional/global.
 
-**Ans: C**
-
-</details>
-
-**Q26.** The edaphic factor is concerned with:
-
-A. Soil
-
-B. Climate
-
-C. Altitude
-
-D. Wind
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Ans: D.** Only 1 and 2.
 
 </details>
 
-**Q27.** 'Tragedy of the Commons' is associated with:
+**Q25.** Consider the following statements about Agenda 21:
 
-A. Thomas Malthus
+1. Agenda 21 belongs to the Rio Summit of 1992.
+2. Agenda 21 is often wrongly dated to 1995 in trap options.
+3. Agenda 21 is identical with the Brundtland Report of 1987.
 
-B. Garrett Hardin
+Which of the statements given above is/are correct?
 
-C. Rachel Carson
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-D. Ernst Haeckel
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Logic:** 1 and 2 are teaching traps. Brundtland 1987 ≠ Agenda 21 1992.
 
-**Ans: B** — Hardin, 1968.
-
-</details>
-
-**Q28.** When was the Environment (Protection) Act passed?
-
-A. 1974
-
-B. 1981
-
-C. 1986
-
-D. 1992
-
-<details><summary>Show answer</summary>
-
-**Ans: C** — Post-Bhopal 1984.
+**Ans: A.** Only 1 and 2.
 
 </details>
 
-**Q29.** Provisions for protection of environment and safeguarding forests appear in:
+**Q26.** With reference to atmospheric layers in environment basics, which of the following statements is/are correct?
 
-A. DPSP only
+1. Weather phenomena occur mainly in the troposphere.
+2. The protective ozone layer that absorbs UV sits mainly in the stratosphere.
+3. Maximum ozone concentration is found in the troposphere.
 
-B. Fundamental Duties only
+Select the correct answer from the code given below:
 
-C. Both
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-D. Neither
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Logic:** Weather = troposphere; protective ozone = stratosphere. Statement 3 swaps the layers.
 
-**Ans: C** — Art 48A + Art 51A(g).
+**Ans: B.** Only 1 and 2.
 
 </details>
 
-**Q30.** Agenda-21 of the Rio Summit (1992) is related to:
+**Q27.** Which one of the following is the correct sequence of Chipko → JFM guidance → Forest Rights Act?
 
-A. Sustainable Development
+A. 1973 → 2006 → 1990
+B. 1990 → 1973 → 2006
+C. 1986 → 1990 → 2006
+D. 1973 → 1990 → 2006
 
-B. Polluter Pays
+<details>
+<summary>Show answer</summary>
 
-C. Ozone preservation
+**Logic:** Reni Chipko 1973; JFM 1990; FRA 2006. EPA 1986 is a distractor year.
 
-D. Wildlife trade
+**Ans: D.** 1973 → 1990 → 2006.
 
-<details><summary>Show answer</summary>
+</details>
 
-**Ans: A**
+**Q28.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Stockholm 1972 was the first UN Conference on the Human Environment and led to the creation of UNEP.
+
+Reason (R): World Environment Day is observed on 22 April to mark the opening of the Stockholm Conference.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** A is true. WED is **5 June**; 22 April is Earth Day. R is false.
+
+**Ans: C.** A true, R false.
+
+</details>
+
+**Q29.** Which of the following UP-linked pairs is/are correctly matched?
+
+1. Kanpur — tannery pollution hotspot teaching
+2. Varanasi — Ganga ghat pollution hotspot teaching
+3. Surajkund crafts fair — principal UP environment festival lock
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Kanpur and Varanasi are standard UP pollution locks. Surajkund is Haryana — not a UP environment festival lock.
+
+**Ans: A.** Only 1 and 2.
+
+</details>
+
+**Q30.** With reference to Brundtland Commission, which of the following statements is/are correct?
+
+1. It worked roughly during 1983–1987 as the World Commission on Environment and Development (WCED).
+2. It defined sustainable development in *Our Common Future*.
+3. *Limits to Growth* (Club of Rome, 1972) is another name for the Brundtland Report.
+
+Which of the statements given above is/are correct?
+
+A. 2 and 3 only
+B. 1 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 1 and 2 are correct. *Limits to Growth* is a different 1972 Club of Rome study.
+
+**Ans: C.** Only 1 and 2.
 
 </details>
 

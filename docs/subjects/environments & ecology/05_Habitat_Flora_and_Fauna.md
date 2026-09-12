@@ -457,534 +457,602 @@ D. Zoo
 
 ## Practice Zone — UPPCS Format Drill
 
-> **30 questions** | multi-statement + A/R + match + chronology + NOT-matched
+> **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D
 
-**Q1.** With reference to habitat, which statements is/are correct?
+**Q1.** With reference to habitat and niche, which of the following statements is/are correct?
 
-1. Habitat refers to the physical place where an organism lives.
-2. Habitat and niche mean the same thing in ecology.
+1. Habitat is the physical place where an organism lives.
+2. Niche is the role of a species.
+3. Habitat and niche are interchangeable terms in all Prelims keys.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** They are not interchangeable.
+
+**Ans: A.**
+
+</details>
+
+**Q2.** Which of the following habitat classes is/are correctly matched?
+
+1. Terrestrial — land
+2. Aquatic — water
+3. Mangrove/wetland — purely terrestrial only
+
+A. 2 and 3 only
+B. 1 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Mangrove/wetland are transitional.
+
+**Ans: C.**
+
+</details>
+
+**Q3.** Match List-I with List-II:
+
+| List-I (Adaptation) | List-II |
+|---------------------|--------|
+| A. Arboreal | 1. Burrows |
+| B. Fossorial | 2. Trees |
+| C. Cursorial | 3. Open plains |
+| D. Xericole | 4. Desert |
+
+Code:
+
+A. A-1, B-2, C-3, D-4
+B. A-2, B-1, C-3, D-4
+C. A-2, B-3, C-1, D-4
+D. A-3, B-1, C-2, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Arboreal trees; fossorial burrows; cursorial plains; xericole desert.
+
+**Ans: B.**
+
+</details>
+
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Habitat loss is the number-one biodiversity threat.
+
+Reason (R): Habitat corridors are used to reconnect fragmented patches.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** Both true; corridors respond to fragmentation but do not define why loss is #1.
+
+**Ans: A.**
+
+</details>
+
+**Q5.** With reference to MISHTI, which of the following statements is/are correct?
+
+1. It is the Mangrove Initiative for Shoreline Habitats & Tangible Income.
+2. It comes from Union Budget 2023–24 under MoEFCC.
+3. It was launched as a 2019 mangrove mission.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Not a 2019 scheme.
+
+**Ans: A.**
+
+</details>
+
+**Q6.** Arrange the following in correct chronological order:
+
+1. JNNURM  2. NUHHP  3. AMRUT  4. Jal Jeevan Mission
+
+A. 2-1-3-4
+B. 1-2-3-4
+C. 1-3-2-4
+D. 1-2-4-3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 2005 → 2007 → 2015 → 2019.
+
+**Ans: B.**
+
+</details>
+
+**Q7.** Which of the following pairs is/are NOT correctly matched?
+
+1. Flora — animal life of a region
+2. Fauna — plant life of a region
+3. BSI — plant survey (Kolkata)
+4. ZSI — animal survey (Kolkata)
+
+A. 3 and 4 only
+B. 1 and 2 only
+C. 1, 2 and 3 only
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Flora/fauna swapped in 1–2; BSI/ZSI correct.
+
+**Ans: B.**
+
+</details>
+
+**Q8.** With reference to India species counts, which of the following statements is/are correct?
+
+1. Roughly 45,000 plant species and 91,000+ animal species are cited on about 2.4% of world land.
+2. BSI (1890) surveys plants; ZSI (1916) surveys animals.
+3. Both BSI and ZSI have headquarters in Mumbai.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Both sit in Kolkata — not Mumbai.
+
+**Ans: A.**
+
+</details>
+
+**Q9.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): NUHHP is the National Urban Housing and Habitat Policy of 2007.
+
+Reason (R): NUHHP is administered as a MoEFCC forest-conservation statute.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** A true; NUHHP is MoHUA housing/habitat policy — R false.
+
+**Ans: C.**
+
+</details>
+
+**Q10.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. Engler | 1. Planting hearths |
+| B. C.O. Sauer | 2. World floral regions |
+| C. Microhabitat | 3. Small subdivision inside a larger habitat |
+
+Code:
+
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Engler floral regions; Sauer planting hearths; microhabitat subdivision.
+
+**Ans: A.**
+
+</details>
+
+**Q11.** With reference to fragmentation, which of the following statements is/are correct?
+
+1. Fragmentation splits habitat into patches.
+2. Corridors help reconnect patches.
+3. Fragmentation always increases genetic diversity of every species.
+
+A. 2 and 3 only
+B. 1 and 3 only
+C. 1, 2 and 3
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Fragmentation typically harms connectivity/genetics — statement 3 false.
+
+**Ans: D.**
+
+</details>
+
+**Q12.** Which one of the following correctly distinguishes flora and fauna?
+
+A. Flora = animals; fauna = plants
+B. Flora = plants; fauna = animals
+C. Both mean only microorganisms
+D. Both mean only domesticated species
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Flora plants; fauna animals.
+
+**Ans: B.**
+
+</details>
+
+**Q13.** Consider the following statements:
+
+1. Transitional habitats include mangroves and wetlands.
+2. Transitional habitats are identical to purely terrestrial forests in all classifications.
+3. Aquatic habitats include both lentic and lotic systems.
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Statement 2 is false.
+
+**Ans: B.**
+
+</details>
+
+**Q14.** With reference to Budget-linked mangrove policy, which of the following statements is/are correct?
+
+1. MISHTI is from Budget 2023–24.
+2. Dating MISHTI to 2019 is a common trap.
+3. MISHTI is a Ministry of Coal statute for underground mining.
+
+A. 2 and 3 only
+B. 1 and 3 only
+C. 1, 2 and 3
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Statement 3 is false.
+
+**Ans: D.**
+
+</details>
+
+**Q15.** Arrange adaptation labels to habitats:
+
+1. Desert specialist label among options — xericole
+2. Tree-dwelling — arboreal
+3. Burrowing — fossorial
 
 A. Only 1
+B. 1 and 2 only
+C. 2 and 3 only
+D. 1, 2 and 3
 
-B. Only 2
+<details>
+<summary>Show answer</summary>
 
-C. Both 1 and 2
+**Logic:** All three correct.
 
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q2.** With reference to MISHTI, which statements is/are correct?
-
-1. It was announced in Union Budget 2023–24.
-2. It aims to restore mangrove forests.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
+**Ans: D.**
 
 </details>
 
-**Q3.** With reference to flora and fauna, which statements is/are correct?
+**Q16.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-1. Flora refers to plant life of a region.
-2. BSI surveys Indian animal diversity.
+Assertion (A): BSI and ZSI both sit in Kolkata.
 
-A. Only 1
+Reason (R): BSI surveys animals and ZSI surveys plants.
 
-B. Only 2
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-C. Both 1 and 2
+<details>
+<summary>Show answer</summary>
 
-D. Neither
+**A/R logic:** A true; kingdoms are swapped in R — R false.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q4.** With reference to habitat conservation, which statements is/are correct?
-
-1. In-situ conservation protects species in natural habitat.
-2. Zoos are the main form of in-situ conservation.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Ans: C.**
 
 </details>
 
-**Q5.** With reference to Indian biodiversity content, which statements is/are correct?
+**Q17.** Which of the following pairs is/are correctly matched?
 
-1. India has about 45,000 plant species.
-2. India occupies about 2.4% of the world's land area.
+1. JNNURM — 2005
+2. NUHHP — 2007
+3. AMRUT — 2019
+4. Jal Jeevan Mission — 2015
 
-A. Only 1
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 4 only
+D. 3 and 4 only
 
-B. Only 2
+<details>
+<summary>Show answer</summary>
 
-C. Both 1 and 2
+**Logic:** AMRUT 2015; JJM 2019 — 1 and 2 correct.
 
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q6.** With reference to habitat types, which statements is/are correct?
-
-1. Fossorial organisms live by burrowing underground.
-2. Arboreal organisms live in open grasslands.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Ans: B.**
 
 </details>
 
-**Q7.** With reference to urban habitat policy, which statements is/are correct?
+**Q18.** With reference to environment vs ecosystem vs habitat, which statements is/are correct?
 
-1. NUHHP was launched in 2007.
-2. JNNURM was launched after NUHHP.
+1. Environment is total surroundings.
+2. Ecosystem is the functional unit.
+3. Habitat is the place; niche is the role.
 
-A. Only 1
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-B. Only 2
+<details>
+<summary>Show answer</summary>
 
-C. Both 1 and 2
+**Logic:** All three correct.
 
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q8.** With reference to terrestrial habitats, which statements is/are correct?
-
-1. Land-dwelling organisms are terrestrial habitants.
-2. Mangrove is a purely terrestrial ecosystem.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Ans: D.**
 
 </details>
 
-**Q9.** With reference to survey organisations, which statements is/are correct?
+**Q19.** How many of the following are correctly associated with MoEFCC?
 
-1. BSI headquarters is in Kolkata.
-2. ZSI was established before BSI.
+1. MISHTI mangrove initiative teaching
+2. NUHHP as a MoEFCC Act
+3. Wildlife protected-area governance broadly under environment/forest ministry world
 
-A. Only 1
+A. Only two
+B. Only one
+C. All three
+D. None
 
-B. Only 2
+<details>
+<summary>Show answer</summary>
 
-C. Both 1 and 2
+**Logic:** MISHTI MoEFCC yes; NUHHP MoHUA no; PA governance broadly yes → two.
 
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A** — BSI 1890 is older than ZSI 1916.
-
-</details>
-
-**Q10.** With reference to UP flora and fauna, which statements is/are correct?
-
-1. Barasingha is the state animal of Uttar Pradesh.
-2. Mangrove flora is widespread in UP Terai forests.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Ans: A.**
 
 </details>
 
-**Q11.** Assertion (A): Habitat conservation is central to biodiversity protection.
-Reason (R): In-situ conservation preserves ecological relationships within natural habitats.
+**Q20.** Which of the following is/are correct about microhabitat?
 
-A. Both true; R explains A
+A. It is always larger than a biome
+B. It is a small subdivision inside a larger habitat
+C. It replaces the biosphere concept
+D. It means only deep ocean trenches
 
-B. Both true; R not explanation
+<details>
+<summary>Show answer</summary>
 
-C. A true, R false
+**Logic:** Small subdivision inside larger habitat.
 
-D. A false, R true
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q12.** Assertion (A): MISHTI was initiated in 2019.
-Reason (R): MISHTI aims to restore mangrove shoreline habitats.
-
-A. Both true; R explains A
-
-B. Both true; R not explanation
-
-C. A true, R false
-
-D. A false, R true
-
-<details><summary>Show answer</summary>
-
-**Ans: D**
+**Ans: B.**
 
 </details>
 
-**Q13.** Match habitat type with example:
+**Q21.** With reference to habitat threat pathways, which of the following statements is/are correct?
 
-List-I: A. Fossorial B. Arboreal C. Lotic aquatic D. Mangrove
-List-II: 1. Lion-tailed macaque 2. Pangolin 3. Ganga dolphin 4. Sundarbans
+1. Loss removes habitat area.
+2. Fragmentation splits remaining patches.
+3. Corridors are irrelevant once fragmentation begins.
 
-A. 2 1 3 4
+A. 2 and 3 only
+B. 1 and 3 only
+C. 1, 2 and 3
+D. 1 and 2 only
 
-B. 1 2 4 3
+<details>
+<summary>Show answer</summary>
 
-C. 2 3 1 4
+**Logic:** Corridors matter — statement 3 false.
 
-D. 3 4 2 1
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q14.** Match concept with scientist/region:
-
-List-I: A. World Floral Regions B. Planting Hearth C. Puszta Grassland D. Cryophyte Steppe
-List-II: 1. Hungary 2. Adolf Engler 3. C.O. Sauer 4. Arctic Tundra
-
-A. 2 3 1 4
-
-B. 3 2 4 1
-
-C. 2 1 3 4
-
-D. 3 4 2 1
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Ans: D.**
 
 </details>
 
-**Q15.** Match organisation with role:
+**Q22.** Match scheme to year:
 
-List-I: A. BSI B. ZSI C. WII
-List-II: 1. Animal surveys 2. Plant surveys 3. Wildlife research
+| List-I | List-II |
+|--------|--------|
+| A. AMRUT | 1. 2007 |
+| B. NUHHP | 2. 2015 |
+| C. JJM | 3. 2019 |
 
-A. 2 1 3
+Code:
 
-B. 1 2 3
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
 
-C. 2 3 1
+<details>
+<summary>Show answer</summary>
 
-D. 3 1 2
+**Logic:** AMRUT 2015; NUHHP 2007; JJM 2019.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q16.** Arrange in chronological order (earliest first):
-
-1. AMRUT 2. JNNURM 3. Jal Jeevan Mission 4. NUHHP
-
-A. 2, 4, 1, 3
-
-B. 4, 2, 1, 3
-
-C. 2, 4, 3, 1
-
-D. 4, 2, 3, 1
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Ans: A.**
 
 </details>
 
-**Q17.** Plants and animals that live on land are called:
+**Q23.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Abiotic
+Assertion (A): Cursorial adaptations suit open plains.
 
-B. Aquatic habitants
+Reason (R): Fossorial organisms are specialised for tree canopies.
 
-C. Terrestrial habitants
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. Biotic
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**A/R logic:** A true; fossorial = burrows — R false.
 
-**Ans: C**
-
-</details>
-
-**Q18.** Which tribe–habitat pair is NOT correctly matched?
-
-A. Bushman — Kalahari
-
-B. Eskimo — Northern Canada
-
-C. Pygmy — Congo Basin
-
-D. Masai — West Africa
-
-<details><summary>Show answer</summary>
-
-**Ans: D**
+**Ans: C.**
 
 </details>
 
-**Q19.** MISHTI programme is related to:
+**Q24.** Which of the following statements is/are correct?
 
-A. Urban housing
+1. India’a species richness on small land share is a recurring Prelims lock.
+2. Flora/fauna swap is a recurring trap.
+3. MISHTI year trap is 2019 vs 2023–24.
 
-B. Mangrove habitat restoration
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. Tiger conservation
+<details>
+<summary>Show answer</summary>
 
-D. Desert afforestation
+**Logic:** All three correct.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q20.** Which organisation publishes the *Fauna of India* series?
-
-A. BSI
-
-B. ZSI
-
-C. WII
-
-D. IUCN
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Ans: D.**
 
 </details>
 
-**Q21.** National Urban Housing and Habitat Policy was launched in:
+**Q25.** With reference to urban habitat policy, which of the following statements is/are correct?
 
-A. 2005
+1. NUHHP 2007 is a housing/habitat policy.
+2. JNNURM preceded NUHHP.
+3. Jal Jeevan Mission is primarily a 2005 urban renewal mission identical to JNNURM.
 
-B. 2007
+A. 2 and 3 only
+B. 1 and 3 only
+C. 1, 2 and 3
+D. 1 and 2 only
 
-C. 2015
+<details>
+<summary>Show answer</summary>
 
-D. 2019
+**Logic:** JJM is 2019 drinking-water mission — not JNNURM.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q22.** Which is NOT a terrestrial habitat type?
-
-A. Desert
-
-B. Mangrove
-
-C. Grassland
-
-D. Alpine
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Ans: D.**
 
 </details>
 
-**Q23.** Desert-dwelling animals are called:
+**Q26.** Which one of the following is transitional habitat teaching?
 
-A. Arboreal
+A. Pure continental desert only
+B. Mangrove / wetland
+C. Inner core of a Himalayan glacier only
+D. Stratospheric ozone layer
 
-B. Terrestrial
+<details>
+<summary>Show answer</summary>
 
-C. Fossorial
+**Logic:** Mangrove/wetland transitional.
 
-D. Xericole
-
-<details><summary>Show answer</summary>
-
-**Ans: D** — UPPCS 2023 Q115 pattern.
-
-</details>
-
-**Q24.** Headquarters of both BSI and ZSI is:
-
-A. New Delhi
-
-B. Dehradun
-
-C. Kolkata
-
-D. Chennai
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
+**Ans: B.**
 
 </details>
 
-**Q25.** Match UP species with category:
+**Q27.** Consider the following statements about BSI/ZSI:
 
-List-I: A. Barasingha B. Sarus crane C. Sal tree
-List-II: 1. State bird 2. State animal 3. Dominant Terai flora
+1. BSI year lock is 1890.
+2. ZSI year lock is 1916.
+3. Both publish Red Data Book components for their kingdoms.
 
-A. 2 1 3
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-B. 1 2 3
+<details>
+<summary>Show answer</summary>
 
-C. 2 3 1
+**Logic:** All three teaching locks.
 
-D. 3 2 1
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q26.** Which pair is NOT correctly matched?
-
-A. Flora — plant life
-
-B. Fauna — animal life
-
-C. BSI — animal surveys
-
-D. Habitat — place of living
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
+**Ans: D.**
 
 </details>
 
-**Q27.** With reference to habitat and niche, which statements is/are correct?
+**Q28.** Which of the following pairs is/are NOT correctly matched?
 
-1. Two species can share a habitat but occupy different niches.
-2. Habitat and niche are interchangeable terms.
+1. Arboreal — desert only
+2. Xericole — trees only
+3. Fossorial — burrows
 
-A. Only 1
+A. 2 and 3 only
+B. 1 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
 
-B. Only 2
+<details>
+<summary>Show answer</summary>
 
-C. Both 1 and 2
+**Logic:** Pair 3 correct; 1 and 2 wrong.
 
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q28.** Which pair is NOT correctly matched?
-
-A. Engler — World Floral Regions
-
-B. Sauer — Planting Hearth
-
-C. Hungary — Puszta Grassland
-
-D. Arctic — Cryophyte Steppe of Hungary
-
-<details><summary>Show answer</summary>
-
-**Ans: D** — Cryophyte steppe = Arctic tundra.
+**Ans: C.**
 
 </details>
 
-**Q29.** Terai Arc Landscape is mainly a:
+**Q29.** With reference to MoHUA vs MoEFCC, which of the following statements is/are correct?
 
-A. Seed bank network
+1. NUHHP sits with MoHUA teaching.
+2. MISHTI sits with MoEFCC teaching.
+3. Both NUHHP and MISHTI are identical CAMPA statutes.
 
-B. Wildlife habitat corridor
+A. 2 and 3 only
+B. 1 and 3 only
+C. 1, 2 and 3
+D. 1 and 2 only
 
-C. Mangrove mission
+<details>
+<summary>Show answer</summary>
 
-D. Desert park chain
+**Logic:** Statement 3 false.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Ans: D.**
 
 </details>
 
-**Q30.** Which statement about flora is correct?
+**Q30.** Arrange from broadest to narrowest conceptual scale among the options:
 
-A. Flora means only flowering plants
+A. Microhabitat → habitat → biome-level surroundings
+B. Biome-level surroundings → habitat → microhabitat
+C. Habitat → biome → microhabitat
+D. Microhabitat → biome → habitat
 
-B. Flora includes all plant life of a region
+<details>
+<summary>Show answer</summary>
 
-C. Flora means animal life
+**Logic:** Broad surroundings/biome → habitat → microhabitat.
 
-D. Flora excludes grasses and ferns
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Ans: B.**
 
 </details>
 

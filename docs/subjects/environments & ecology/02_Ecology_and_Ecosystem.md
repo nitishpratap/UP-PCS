@@ -1281,528 +1281,610 @@ D. Peepal
 
 ## Practice Zone — UPPCS Format Drill
 
-> **30 questions** | multi-statement + A/R + match + chronology + NOT-matched
+> **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D
 
-**Q1.** With reference to Ecology, which statements is/are correct?
+**Q1.** With reference to ecology and ecosystem, which of the following statements is/are correct?
 
-1. Ernst Haeckel coined the term Ecology in 1866.
-2. A.G. Tansley coined the term Ecology in 1935.
+1. Ernst Haeckel coined the term ecology in 1866.
+2. A.G. Tansley coined the term ecosystem in 1935.
+3. Ecosystems are normally closed systems with no energy exchange.
 
-A. Only 1
+A. 2 and 3 only
+B. 1 and 3 only
+C. 1, 2 and 3
+D. 1 and 2 only
 
-B. Only 2
+<details>
+<summary>Show answer</summary>
 
-C. Both
+**Logic:** Haeckel and Tansley years are correct. Ecosystems are normally open systems.
 
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A** — Tansley coined **Ecosystem** (1935), not Ecology.
-
-</details>
-
-**Q2.** With reference to Ecosystem, which statements is/are correct?
-
-1. Green plants capture about 1% of sunlight energy incident on leaves.
-2. About 10% of organic matter passes to the next higher consumer level.
-
-A. Only 1
-
-B. Only 2
-
-C. Both
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: C** — UPPCS 2025 Q5.
+**Ans: D.**
 
 </details>
 
-**Q3.** With reference to ecological niche, which statements is/are correct?
+**Q2.** Consider the following pairs:
 
-1. Niche refers to the functional role of a species.
-2. When resources are sufficient, fewer species can coexist in a natural ecosystem.
+| Term | Lock |
+|------|------|
+| 1. Habitat | Role of a species |
+| 2. Niche | Place where an organism lives |
+| 3. Community | Populations of different species in an area |
 
-A. Only 1
+Which of the pairs given above is/are correctly matched?
 
-B. Only 2
+A. 1 and 2 only
+B. 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
 
-C. Both
+<details>
+<summary>Show answer</summary>
 
-D. Neither
+**Logic:** Habitat = place; niche = role — pairs 1–2 are swapped. Community is correctly matched.
 
-<details><summary>Show answer</summary>
-
-**Ans: A** — More resources → **more** species.
-
-</details>
-
-**Q4.** With reference to succession, which statements is/are correct?
-
-1. Primary succession begins where soil already exists.
-2. Lichens are common pioneer species on bare rock.
-
-A. Only 1
-
-B. Only 2
-
-C. Both
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: B** — Primary = no soil; secondary = soil exists.
+**Ans: B.**
 
 </details>
 
-**Q5.** With reference to lichens, which statements is/are correct?
+**Q3.** Arrange the following ecological levels in the correct ascending order of organisation:
 
-1. Lichens are good indicators of air pollution.
-2. Lichens grow well in heavily polluted areas.
+1. Community  2. Population  3. Ecosystem  4. Landscape
 
-A. Only 1
+A. 1-2-3-4
+B. 2-1-3-4
+C. 2-1-4-3
+D. 1-2-4-3
 
-B. Only 2
+<details>
+<summary>Show answer</summary>
 
-C. Both
+**Logic:** Population → Community → Ecosystem → Landscape.
 
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A** — UPPCS 2025 Q61.
-
-</details>
-
-**Q6.** With reference to productivity, which statements is/are correct?
-
-1. NPP equals GPP minus plant respiration.
-2. GPP equals NPP plus decomposer activity.
-
-A. Only 1
-
-B. Only 2
-
-C. Both
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A** — GPP − R = NPP.
+**Ans: B.**
 
 </details>
 
-**Q7.** With reference to aquatic ecosystems, which statements is/are correct?
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-1. Rivers are lotic ecosystems.
-2. The limnetic zone is the open-water zone of a lake.
+Assertion (A): Energy flow in an ecosystem is unidirectional.
 
-A. Only 1
+Reason (R): Nutrients also flow in only one direction and do not cycle.
 
-B. Only 2
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-C. Both
+<details>
+<summary>Show answer</summary>
 
-D. Neither
+**A/R logic:** A is true. Nutrients cycle — R is false.
 
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q8.** With reference to eutrophication, which statements is/are correct?
-
-1. It involves nutrient enrichment of a water body.
-2. It can deplete dissolved oxygen.
-
-A. Only 1
-
-B. Only 2
-
-C. Both
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: C** — UPPCS 2019 Q56.
+**Ans: C.**
 
 </details>
 
-**Q9.** Assertion (A): Energy decreases at successive trophic levels in an ecosystem.
+**Q5.** Match List-I with List-II and select the correct answer using the code given below the lists:
 
-Reason (R): About 90% energy is lost as heat and respiration at each transfer.
+| List-I | List-II |
+|--------|--------|
+| A. Liebig | 1. 10% energy transfer |
+| B. Shelford | 2. Limiting factor / scarcest resource |
+| C. Lindeman | 3. Tolerance range |
 
-A. Both true; R explains A
+Code:
 
-B. Both true; R not explanation
+A. A-3, B-2, C-1
+B. A-2, B-1, C-3
+C. A-2, B-3, C-1
+D. A-1, B-3, C-2
 
-C. A true, R false
+<details>
+<summary>Show answer</summary>
 
-D. A false, R true
+**Logic:** Liebig = limiting; Shelford = tolerance; Lindeman = 10%.
 
-<details><summary>Show answer</summary>
-
-**Ans: A** — Lindeman 10% rule logic.
-
-</details>
-
-**Q10.** Assertion (A): Phytoplankton grow abundantly in the limnetic zone.
-
-Reason (R): The limnetic zone is the open-water zone of a lake.
-
-A. A false, R true
-
-B. A true, R false
-
-C. Both true; R not explanation
-
-D. Both true; R explains A
-
-<details><summary>Show answer</summary>
-
-**Ans: D** — UPPCS 2022 Q34.
+**Ans: C.**
 
 </details>
 
-**Q11.** Assertion (A): Ecosystem components are not interdependent.
+**Q6.** Which of the following pairs is/are NOT correctly matched?
 
-Reason (R): Human activities impact the environment.
+1. Primary succession — starts where soil already exists
+2. Secondary succession — starts on a lifeless substrate
+3. Climax community — relatively stable end community of a sere
 
-A. Both true; R explains A
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-B. Both true; R not explanation
+<details>
+<summary>Show answer</summary>
 
-C. A true, R false
+**Logic:** Primary = lifeless; secondary = soil present. Pair 3 is correct.
 
-D. A false, R true
-
-<details><summary>Show answer</summary>
-
-**Ans: D** — UPPCS 2021 Q41.
-
-</details>
-
-**Q12.** Match List-I with List-II:
-
-List-I: A. GPP B. NPP C. Sere D. Climax
-List-II: 1. GPP − R 2. Final stable community 3. Succession sequence 4. Total producer fixation
-
-A. A-4,B-1,C-3,D-2
-
-B. A-1,B-4,C-2,D-3
-
-C. A-3,B-2,C-1,D-4
-
-D. A-4,B-3,C-1,D-2
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Ans: A.**
 
 </details>
 
-**Q13.** Match ecosystem type with example:
+**Q7.** With reference to ecological succession, which of the following statements is/are correct?
 
-A. Lentic B. Lotic C. Anthropogenic D. Xericole habitat
-1. River 2. Cropland 3. Lake 4. Desert animal
+1. Full phases include Nudation → Migration → Ecesis → Reaction → Stabilisation.
+2. Monoclimax theory is linked with F.E. Clements.
+3. Hydrosere develops in dry habitats and xerosere in wet habitats.
 
-A. A-3,B-1,C-2,D-4
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-B. A-1,B-3,C-4,D-2
+<details>
+<summary>Show answer</summary>
 
-C. A-2,B-1,C-3,D-4
+**Logic:** Hydrosere = wet; xerosere = dry — statement 3 is swapped.
 
-D. A-3,B-2,C-1,D-4
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q14.** Match MEA service category:
-
-A. Provisioning B. Regulating C. Supporting D. Cultural
-1. Pollination 2. Timber 3. Recreation 4. Nutrient cycling
-
-A. A-2,B-1,C-4,D-3
-
-B. A-1,B-2,C-3,D-4
-
-C. A-4,B-3,C-2,D-1
-
-D. A-2,B-4,C-1,D-3
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Ans: A.**
 
 </details>
 
-**Q15.** Which pairs is/are NOT correctly matched?
+**Q8.** With reference to productivity, which of the following statements is/are correct?
 
-1. Migration — first phase of biotic succession
-2. Ecesis — establishment of species
-3. Sere — nutrient cycling process
+1. NPP = GPP − plant respiration.
+2. Plants capture only about 1% of incident sunlight on leaves.
+3. Among common options, oceans are more productive per unit area than mangroves.
 
-A. Only 3
+A. 2 and 3 only
+B. 1 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
 
-B. 1 and 3
+<details>
+<summary>Show answer</summary>
 
-C. Only 1
+**Logic:** Usual order: mangroves > grasslands > lakes > oceans.
 
-D. 2 and 3
-
-<details><summary>Show answer</summary>
-
-**Ans: A** — Sere = succession community sequence.
-
-</details>
-
-**Q16.** Arrange succession phases (earliest first):
-
-1. Stabilisation 2. Migration 3. Reaction 4. Ecesis
-
-A. 2-4-3-1
-
-B. 4-2-1-3
-
-C. 2-3-4-1
-
-D. 4-2-3-1
-
-<details><summary>Show answer</summary>
-
-**Ans: A** — Migration → Ecesis → Reaction → Stabilisation.
+**Ans: C.**
 
 </details>
 
-**Q17.** Which is NOT true about ecological niche?
+**Q9.** Consider the following statements:
 
-Options:
-A. Dominant species may occupy a broader niche.
-B. More species coexist when resources are sufficient.
-C. Fewer species coexist when resources are sufficient.
-D. Equitable resource distribution reduces single-species dominance.
+1. A fundamental niche is the full potential role without competitors.
+2. A realized niche is narrower after competition.
+3. Gause’s competitive exclusion says identical niches can stably coexist when resources are limited.
 
-<details><summary>Show answer</summary>
+A. 1 and 3 only
+B. 1 and 2 only
+C. 2 and 3 only
+D. 1, 2 and 3
 
-**Ans: C** — UPPCS 2024 Q9.
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Logic:** Identical niches cannot stably coexist when resources are limited.
 
-**Q18.** Trophic levels are formed by:
-
-A. Organisms linked in a food chain
-
-B. Plants only
-
-C. Animals only
-
-D. Carnivores only
-
-<details><summary>Show answer</summary>
-
-**Ans: A** — UPPCS 2023 Q117.
+**Ans: B.**
 
 </details>
 
-**Q19.** Movement of nutrient elements through ecosystem components is called:
+**Q10.** Match List-I with List-II:
 
-A. Bio-geochemical cycle
+| List-I (Cline) | List-II |
+|----------------|--------|
+| A. Pycnocline | 1. Temperature-with-depth gradient |
+| B. Halocline | 2. Density gradient |
+| C. Thermocline | 3. Salinity gradient |
 
-B. Bio-geological cycle
+Code:
 
-C. Ecological succession
+A. A-1, B-3, C-2
+B. A-2, B-1, C-3
+C. A-3, B-2, C-1
+D. A-2, B-3, C-1
 
-D. Biological cycle
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Logic:** Pycnocline = density; Halocline = salinity; Thermocline = temperature.
 
-**Ans: A** — UPPCS 2020 Q79.
-
-</details>
-
-**Q20.** Entire sequence of communities that successively change in an area is called:
-
-A. Ecological succession
-
-B. Sere
-
-C. Community dynamics
-
-D. Pyramid of biomass
-
-<details><summary>Show answer</summary>
-
-**Ans: B** — UPPCS 2020 Q85.
+**Ans: D.**
 
 </details>
 
-**Q21.** In which ecosystem is species diversity relatively highest?
+**Q11.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Deep sea
+Assertion (A): An ecotone is the transition zone between two communities or ecosystems.
 
-B. Tropical rainforest
+Reason (R): Edge effect often raises species richness in ecotones compared with adjoining communities.
 
-C. Coral reefs
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. Desert
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**A/R logic:** Both true. Edge effect is associated, but does not define what an ecotone is.
 
-**Ans: C** — UPPCS 2018 Q122 (among given options).
-
-</details>
-
-**Q22.** Which is the most stable ecosystem?
-
-A. Marine
-
-B. Forest
-
-C. Mountain
-
-D. Desert
-
-<details><summary>Show answer</summary>
-
-**Ans: A** — UPPCS 2018 Q127.
+**Ans: A.**
 
 </details>
 
-**Q23.** Desert-dwelling animals are called:
+**Q12.** With reference to r- and K-strategists, which of the following statements is/are correct?
 
-A. Arboreal
+1. r-strategists produce many offspring with fast growth and short life.
+2. K-strategists produce few offspring with slow growth and long life.
+3. Humans are classic pure r-strategists in all ecological classifications.
 
-B. Terrestrial
+A. 2 and 3 only
+B. 1 and 3 only
+C. 1, 2 and 3
+D. 1 and 2 only
 
-C. Fossorial
+<details>
+<summary>Show answer</summary>
 
-D. Xericole
+**Logic:** Humans are generally K-leaning — not pure r.
 
-<details><summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q24.** Plants and animals living on land are called:
-
-A. Abiotic
-
-B. Aquatic
-
-C. Terrestrial
-
-D. Biotic
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
+**Ans: D.**
 
 </details>
 
-**Q25.** Which factor is concerned with soil?
+**Q13.** Which of the following is/are correctly matched?
 
-A. Edaphic
+1. J-curve — exponential growth
+2. S-curve — logistic growth leveling near carrying capacity
+3. Carrying capacity — unlimited maximum population with no resource limit
 
-B. Climatic
+A. 2 and 3 only
+B. 1 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
 
-C. Biotic
+<details>
+<summary>Show answer</summary>
 
-D. Topographic
+**Logic:** Carrying capacity is the sustainable max under resource limits.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q26.** Energy during transfer from one trophic level to another:
-
-A. Increases
-
-B. Decreases
-
-C. Remains constant
-
-D. May increase or decrease
-
-<details><summary>Show answer</summary>
-
-**Ans: B** — UPPCS 2019 Q134.
+**Ans: C.**
 
 </details>
 
-**Q27.** In a typical ecosystem, which is generally true?
+**Q14.** With reference to MEA (2005) ecosystem services, which of the following statements is/are correct?
 
-A. Primary consumers least dependent on producers
+1. Provisioning, regulating, supporting, and cultural are the usual four categories.
+2. Nutrient cycling is a supporting service.
+3. Roads and bridges are counted as natural capital provisioning services.
 
-B. Producers more than primary consumers
+A. 2 and 3 only
+B. 1 and 3 only
+C. 1, 2 and 3
+D. 1 and 2 only
 
-C. Secondary consumers most numerous
+<details>
+<summary>Show answer</summary>
 
-D. Producers least important
+**Logic:** Roads are not natural capital.
 
-<details><summary>Show answer</summary>
-
-**Ans: B** — UPPCS 2019 Q55.
-
-</details>
-
-**Q28.** Aquatic plant used as biofertilizer in water-logged rice fields:
-
-A. Lemna
-
-B. Azolla
-
-C. Wolffia
-
-D. Trapa
-
-<details><summary>Show answer</summary>
-
-**Ans: B** — Azolla–Anabaena mutualism; UPPCS 2023 Q104.
+**Ans: D.**
 
 </details>
 
-**Q29.** Example of anthropogenic biome:
+**Q15.** Consider the following statements about eutrophication:
 
-A. Fresh water
+1. It is nutrient overload that drives algal bloom and a dissolved-oxygen crash.
+2. It is primarily an air-pollution phenomenon linked to ozone holes.
+3. Nitrogen and phosphorus enrichment are common drivers in water bodies.
 
-B. Grassland
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
 
-C. Rain forest
+<details>
+<summary>Show answer</summary>
 
-D. Cropland
+**Logic:** Eutrophication is aquatic — not an ozone-hole story.
 
-<details><summary>Show answer</summary>
-
-**Ans: D**
+**Ans: B.**
 
 </details>
 
-**Q30.** Which is a lotic ecosystem?
+**Q16.** Which of the following pairs is/are NOT correctly matched?
 
-A. Pond
+1. Deep ecology — Arne Næss (1973)
+2. Ecological niche concept — Joseph Grinnell (1917)
+3. Father of Indian ecology — A.G. Tansley
 
-B. Marsh
+A. 1 and 2 only
+B. 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
 
-C. River
+<details>
+<summary>Show answer</summary>
 
-D. Lake
+**Logic:** Ramdeo Misra is father of Indian ecology; Tansley coined ecosystem.
 
-<details><summary>Show answer</summary>
+**Ans: B.**
 
-**Ans: C**
+</details>
+
+**Q17.** With reference to pond zones, which of the following is the correct sequence from shore toward deeper water?
+
+A. Profundal → limnetic → littoral
+B. Limnetic → littoral → profundal
+C. Littoral → limnetic → profundal
+D. Littoral → profundal → limnetic
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Littoral → limnetic → profundal.
+
+**Ans: C.**
+
+</details>
+
+**Q18.** Arrange the following in correct chronological order of coining/publication association:
+
+1. Haeckel — ecology term
+2. Grinnell — niche concept
+3. Tansley — ecosystem term
+4. Lindeman — trophic-dynamic / 10% idea era
+
+A. 1-2-3-4
+B. 1-3-2-4
+C. 2-1-3-4
+D. 1-2-4-3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 1866 → 1917 → 1935 → 1942.
+
+**Ans: A.**
+
+</details>
+
+**Q19.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Among ecosystem types, the marine/ocean ecosystem covers the largest area of Earth.
+
+Reason (R): The biosphere is not considered an ecosystem at any scale.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** A is true. Biosphere is the largest ecosystem of Earth — R is false.
+
+**Ans: C.**
+
+</details>
+
+**Q20.** With reference to UP examples, which of the following statements is/are correct?
+
+1. Ganga, Yamuna and Gomti are lotic examples.
+2. Sur Sarovar (Agra) and Nawabganj (Unnao) are wetland examples.
+3. Western UP sugarcane belts are classic natural climax forests.
+
+A. 2 and 3 only
+B. 1 and 3 only
+C. 1, 2 and 3
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Sugarcane belts are agro-ecosystems — not climax forests.
+
+**Ans: D.**
+
+</details>
+
+**Q21.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. Artificial ecosystem | 1. Ganga river |
+| B. Lotic ecosystem | 2. Aquarium / rice field |
+| C. Lentic ecosystem | 3. Pond / lake |
+
+Code:
+
+A. A-1, B-2, C-3
+B. A-2, B-3, C-1
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Artificial = aquarium/rice field; lotic = river; lentic = pond/lake.
+
+**Ans: C.**
+
+</details>
+
+**Q22.** With reference to phosphorus cycle, which of the following statements is/are correct?
+
+1. Weathering of rocks is a main source releasing phosphorus into the cycle.
+2. Upwelling brings cold, nutrient-rich water to the surface and raises marine productivity.
+3. Phosphorus has a large gaseous reservoir like nitrogen in the atmosphere.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Phosphorus lacks a major atmospheric gaseous reservoir like N₂.
+
+**Ans: A.**
+
+</details>
+
+**Q23.** Which one of the following correctly describes resilience of an ecosystem?
+
+A. Complete absence of any disturbance forever
+B. Capacity to recover after disturbance
+C. Permanent conversion to a desert biome
+D. Energy becoming cyclic like nutrients
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Resilience = recovery capacity after disturbance.
+
+**Ans: B.**
+
+</details>
+
+**Q24.** Consider the following statements:
+
+1. Eucalyptus is often treated as an environmental concern because it can draw heavy groundwater.
+2. Deforestation is a main cause of ecological imbalance in India.
+3. Ecosystem balance is a static equilibrium that never changes.
+
+A. 2 and 3 only
+B. 1 and 3 only
+C. 1, 2 and 3
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Balance is dynamic equilibrium — statement 3 is false.
+
+**Ans: D.**
+
+</details>
+
+**Q25.** Which of the following pairs is/are correctly matched?
+
+1. Bionomics — synonymous with ecology in older usage
+2. Bionomics — management of life / wildlife budgets in Prelims lock
+3. Ramdeo Misra — father of Indian ecology
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Bionomics ≠ management of life; that is a trap.
+
+**Ans: B.**
+
+</details>
+
+**Q26.** With reference to producers and consumers, which of the following statements is/are correct?
+
+1. Producers generally outnumber primary consumers.
+2. Core functions include productivity, decomposition, nutrient cycling, and unidirectional energy flow.
+3. Calling energy cyclic like nutrients is a correct statement.
+
+A. 2 and 3 only
+B. 1 and 3 only
+C. 1, 2 and 3
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Energy is one-way — statement 3 is false.
+
+**Ans: D.**
+
+</details>
+
+**Q27.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Secondary succession begins where soil already exists after disturbance.
+
+Reason (R): Primary succession always begins on farmland abandoned for one season.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** A is true. Farmland abandonment is typically secondary — R is false.
+
+**Ans: C.**
+
+</details>
+
+**Q28.** How many of the following are anthropogenic ecosystems?
+
+1. Rice field  2. Aquarium  3. Natural coral reef  4. Orchard  5. Human-made reservoir
+
+A. Only two
+B. Only three
+C. Only four
+D. All five
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Rice field, aquarium, orchard, reservoir = four.
+
+**Ans: C.**
+
+</details>
+
+**Q29.** Which of the following statements about Odum / Haeckel / Tansley is/are correct?
+
+1. Haeckel is linked to the term ecology.
+2. Tansley is linked to the term ecosystem.
+3. Odum is linked to modern ecosystem ecology teaching.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** All three associations are standard.
+
+**Ans: D.**
+
+</details>
+
+**Q30.** With reference to grassland succession limits, which of the following statements is/are correct?
+
+1. In many grasslands, trees often fail to replace grasses because of water limits and fire.
+2. Every grassland globally must succeed to tropical rainforest climax within a decade.
+3. A sere is the full community sequence in succession.
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Statement 2 is false.
+
+**Ans: B.**
 
 </details>
 

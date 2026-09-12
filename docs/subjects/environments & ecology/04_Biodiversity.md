@@ -810,536 +810,608 @@ D. A false; R true
 
 ## Practice Zone — UPPCS Format Drill
 
-> **30 questions** | multi-statement + A/R + match + NOT-matched
+> **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D
 
-**Q1.** With reference to biodiversity, which statements is/are correct?
+**Q1.** With reference to biodiversity, which of the following statements is/are correct?
 
-1. Biodiversity includes genetic, species, and ecosystem diversity.
-2. Biodiversity is evenly distributed across all latitudes.
+1. Biodiversity spans genetic, species, and ecosystem levels.
+2. Walter G. Rosen (1985) coined the word biodiversity; E.O. Wilson popularised it.
+3. The most significant aspect is only pharmaceutical drug discovery.
 
-A. Only 1
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-B. Only 2
+<details>
+<summary>Show answer</summary>
 
-C. Both 1 and 2
+**Logic:** Ecosystem maintenance is the key significance — not drugs alone.
 
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q2.** With reference to biodiversity hotspots, which statements is/are correct?
-
-1. They have high species endemism.
-2. They have experienced significant habitat loss.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: C** — UPPCS 2024 Q33.
+**Ans: A.**
 
 </details>
 
-**Q3.** With reference to IUCN categories, which statements is/are correct?
-
-1. Threatened species include Vulnerable, Endangered, and Critically Endangered.
-2. Endangered and Threatened mean the same category.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q4.** With reference to biodiversity loss, which statements is/are correct?
-
-1. Habitat destruction is the leading direct cause of biodiversity loss.
-2. Invasive species never affect native biodiversity.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q5.** With reference to conservation, which statements is/are correct?
-
-1. In-situ conservation protects species in natural habitat.
-2. Ex-situ conservation is always preferred over in-situ conservation.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q6.** With reference to India, which statements is/are correct?
-
-1. India is one of 17 megadiverse countries.
-2. India has six recognised global biodiversity hotspots.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A** — India has **4** hotspots.
-
-</details>
-
-**Q7.** With reference to species categories, which statements is/are correct?
-
-1. An endemic species is found only in a defined geographic area.
-2. Every rare species is automatically endemic.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q8.** With reference to indicator species, which statements is/are correct?
-
-1. Lichens can indicate air pollution levels.
-2. Lichens grow best in heavily polluted air.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A** — UPPCS 2025 Q61 pattern.
-
-</details>
-
-**Q9.** Which of the following is **not** a biodiversity hotspot in India?
-
-A. Western Ghats
-
-B. Himalaya
-
-C. Gangetic Plain
-
-D. Indo-Burma
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q10.** The Biological Diversity Act of India was enacted in:
-
-A. 1992
-
-B. 2002
-
-C. 2010
-
-D. 1972
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q11.** The headquarters of the National Biodiversity Authority is at:
-
-A. New Delhi
-
-B. Chennai
-
-C. Kolkata
-
-D. Bengaluru
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q12.** International Day for Biological Diversity is observed on:
-
-A. 3 March
-
-B. 22 April
-
-C. 22 May
-
-D. 5 June
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q13.** Assertion (A): In-situ conservation is generally preferred over ex-situ conservation.
-Reason (R): In-situ conservation maintains natural ecosystems and evolutionary processes.
-
-A. Both true; R explains A
-
-B. Both true; R not explanation
-
-C. A true, R false
-
-D. A false, R true
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q14.** Assertion (A): Biodiversity hotspots have high endemism.
-Reason (R): Hotspots are deserts with very few species.
-
-A. Both true; R explains A
-
-B. Both true; R not explanation
-
-C. A true, R false
-
-D. A false, R true
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q15.** Match List-I with List-II:
-
-List-I: A. Endemic B. Keystone C. Umbrella D. Flagship
-List-II: 1. Charismatic fundraiser 2. Found nowhere else 3. Large habitat protects many 4. Disproportionate ecosystem impact
-
-A. 2 4 3 1
-
-B. 2 4 1 3
-
-C. 4 2 3 1
-
-D. 1 2 3 4
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q16.** Match hotspot with Indian region:
-
-*Row order is not the answer code.*
+**Q2.** Match List-I with List-II:
 
 | List-I | List-II |
-|--------|---------|
-| A. Sundaland | 1. Nicobar Islands |
-| B. Western Ghats | 2. West coast mountains |
-| C. Himalaya | 3. Terai belt |
+|--------|--------|
+| A. Alpha diversity | 1. Overall regional diversity |
+| B. Beta diversity | 2. Local habitat mean diversity |
+| C. Gamma diversity | 3. Change between ecosystems |
 
-A. 1 2 3
+Code:
 
-B. 2 1 3
+A. A-2, B-3, C-1
+B. A-3, B-2, C-1
+C. A-2, B-1, C-3
+D. A-1, B-3, C-2
 
-C. 3 2 1
+<details>
+<summary>Show answer</summary>
 
-D. 1 3 2
+**Logic:** Alpha local; beta between; gamma regional.
 
-<details><summary>Show answer</summary>
-
-**Logic:** Sundaland in India = **Nicobar** (Andamans sit under Indo-Burma). WG = west-coast mountains. Himalaya hotspot fringe includes Terai.
-
-**Ans: A**
-
-</details>
-
-**Q17.** Match IUCN term with meaning:
-
-List-I: A. Threatened B. Endangered C. Extinct
-List-II: 1. EX 2. VU + EN + CR 3. EN only
-
-A. 2 3 1
-
-B. 3 2 1
-
-C. 1 2 3
-
-D. 2 1 3
-
-<details><summary>Show answer</summary>
-
-**Ans: A** — Threatened = VU+EN+CR; Endangered = EN; Extinct = EX.
+**Ans: A.**
 
 </details>
 
-**Q18.** Which pair is NOT correctly matched?
+**Q3.** Which of the following pairs is/are NOT correctly matched?
 
-A. CBD — 1992
+1. Genetic diversity — variation among different ecosystems only
+2. Species diversity — variety among species
+3. Ecosystem diversity — variety of habitats/ecosystems
 
-B. Nagoya Protocol — 2010
+A. 1 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
 
-C. BDA — 1992
+<details>
+<summary>Show answer</summary>
 
-D. 30×30 target — 2022 framework
+**Logic:** Genetic diversity is within a species — pair 1 is wrong.
 
-<details><summary>Show answer</summary>
-
-**Ans: C** — BDA = **2002**.
-
-</details>
-
-**Q19.** Which pair is NOT correctly matched?
-
-A. Water hyacinth — invasive species
-
-B. Asiatic lion — endemic to Gir
-
-C. Gangetic Plain — global hotspot
-
-D. PBR — local biodiversity register
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
+**Ans: A.**
 
 </details>
 
-**Q20.** Which is an example of **ex-situ** conservation?
+**Q4.** With reference to India’s biodiversity hotspots, which of the following statements is/are correct?
 
-A. National Park
+1. The four are Himalaya, Indo-Burma, Western Ghats–Sri Lanka, and Sundaland.
+2. Andamans fall under Indo-Burma and Nicobar under Sundaland.
+3. Eastern Ghats are one of India’s four hotspots.
 
-B. Wildlife Sanctuary
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. Seed bank
+<details>
+<summary>Show answer</summary>
 
-D. Biosphere Reserve
+**Logic:** Eastern Ghats are not a hotspot.
 
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q21.** Which is an example of **in-situ** conservation?
-
-A. Zoo
-
-B. Botanical garden
-
-C. Captive breeding centre
-
-D. Wildlife Sanctuary
-
-<details><summary>Show answer</summary>
-
-**Ans: D**
+**Ans: A.**
 
 </details>
 
-**Q22.** The most biodiversity-rich area among these Indian regions is:
+**Q5.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Gangetic Plain
+Assertion (A): A biodiversity hotspot needs high endemism and severe habitat loss.
 
-B. Western Ghats
+Reason (R): Hotspot criteria often cite about ≥1500 endemic vascular plants and ≥70% original habitat lost.
 
-C. Thar Desert
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. Central Deccan scrub
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**A/R logic:** Both true; R states the quantitative criteria that define A.
 
-**Ans: B**
-
-</details>
-
-**Q23.** Hotspot criteria include:
-
-A. 500 endemic plants + 50% habitat lost
-
-B. 1500 endemic vascular plants + 70% habitat lost
-
-C. Any tropical forest
-
-D. Only marine zones
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Ans: D.**
 
 </details>
 
-**Q24.** Which statement is NOT true?
+**Q6.** Arrange richness ideas correctly:
 
-A. Species diversity increases from equator toward poles
-
-B. Tropics harbour more species than temperate areas
-
-C. Amazon rainforest has very high biodiversity
-
-D. Species diversity decreases from temperate areas toward poles
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q25.** With reference to HIPPO, which statements is/are correct?
-
-1. H stands for habitat loss.
-2. I stands for invasive species.
+1. Species richness generally increases toward the equator.
+2. On land, tropical rainforest is among the richest biomes.
+3. In the sea, coral reefs are among the richest systems.
 
 A. Only 1
+B. 1 and 2 only
+C. 2 and 3 only
+D. 1, 2 and 3
 
-B. Only 2
+<details>
+<summary>Show answer</summary>
 
-C. Both 1 and 2
+**Logic:** All three are standard.
 
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q26.** With reference to CBD objectives, which statements is/are correct?
-
-1. Conservation of biodiversity.
-2. Sustainable use of biodiversity components.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: C** — Fair benefit-sharing is the third objective.
+**Ans: D.**
 
 </details>
 
-**Q27.** Which species category best describes the tiger in Project Tiger?
+**Q7.** With reference to in-situ and ex-situ conservation, which of the following statements is/are correct?
 
-A. Indicator only
+1. In-situ protects biodiversity in the natural habitat.
+2. Ex-situ includes zoos, seed banks, and botanic gardens.
+3. A National Park is an ex-situ method.
 
-B. Flagship and umbrella
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. Invasive alien
+<details>
+<summary>Show answer</summary>
 
-D. Extinct
+**Logic:** National Park is in-situ.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q28.** Narcondam hornbill is endemic to:
-
-A. Western Ghats
-
-B. Gir forest
-
-C. Narcondam Island (Andaman)
-
-D. Dudhwa
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
+**Ans: A.**
 
 </details>
 
-**Q29.** Match organisation with HQ:
+**Q8.** Match List-I with List-II:
 
-List-I: A. IUCN B. NBA C. IPBES
-List-II: 1. Chennai 2. Gland 3. Bonn
+| List-I | List-II |
+|--------|--------|
+| A. CBD | 1. Biosafety / LMOs |
+| B. Cartagena Protocol | 2. ABS |
+| C. Nagoya Protocol | 3. 1992 Rio biodiversity convention |
 
-A. 2 1 3
+Code:
 
-B. 1 2 3
+A. A-3, B-1, C-2
+B. A-1, B-3, C-2
+C. A-3, B-2, C-1
+D. A-2, B-1, C-3
 
-C. 3 1 2
+<details>
+<summary>Show answer</summary>
 
-D. 2 3 1
+**Logic:** CBD 1992; Cartagena biosafety; Nagoya ABS.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Ans: A.**
 
 </details>
 
-**Q30.** Which is the main factor responsible for biodiversity loss?
+**Q9.** Consider the following statements:
 
-A. Habitat destruction
+1. On IUCN Red List, Threatened = VU + EN + CR.
+2. Endangered alone equals the full Threatened set.
+3. India’s Biological Diversity Act is 2002 with NBA at Chennai.
 
-B. Solar radiation
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
 
-C. Natural seasonal cycles
+<details>
+<summary>Show answer</summary>
 
-D. Keystone species loss alone
+**Logic:** Endangered ≠ all Threatened.
 
-<details><summary>Show answer</summary>
+**Ans: B.**
 
-**Ans: A** — UPPCS 2023 Q100.
+</details>
+
+**Q10.** Which of the following pairs is/are correctly matched?
+
+1. Silent Valley — Kerala
+2. Valley of Flowers — Chamoli, Uttarakhand
+3. Hotspot concept — BirdLife International
+
+A. 2 and 3 only
+B. 1 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Hotspot concept = Norman Myers — not BirdLife.
+
+**Ans: C.**
+
+</details>
+
+**Q11.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Habitat destruction is the top cause of biodiversity loss.
+
+Reason (R): Vegetarianism is classified as a primary HIPPO threat driver.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** A true; vegetarianism is not a HIPPO threat — R false.
+
+**Ans: C.**
+
+</details>
+
+**Q12.** With reference to India land/species share, which of the following statements is/are correct?
+
+1. India holds about 2.4% of world land but about 7–8% of global species.
+2. India aims for Land Degradation Neutrality by 2030.
+3. India has only one global biodiversity hotspot.
+
+A. 2 and 3 only
+B. 1 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** India has four hotspots — statement 3 false.
+
+**Ans: C.**
+
+</details>
+
+**Q13.** Arrange the following in correct chronological order:
+
+1. CBD opened at Rio
+2. Nagoya Protocol on ABS
+3. Kunming–Montreal Global Biodiversity Framework
+
+A. 2-1-3
+B. 1-3-2
+C. 1-2-3
+D. 3-1-2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** 1992 → 2010 → 2022.
+
+**Ans: C.**
+
+</details>
+
+**Q14.** Which of the following coral areas is/are correctly listed for India?
+
+1. Gulf of Mannar
+2. Lakshadweep
+3. Sundarbans mangrove belt as a coral-reef hotspot
+4. Gulf of Kutch
+
+A. 1, 2 and 3 only
+B. 1, 2 and 4 only
+C. 2, 3 and 4 only
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Sundarbans = mangroves — not coral reef list.
+
+**Ans: B.**
+
+</details>
+
+**Q15.** With reference to Ramsar, which of the following statements is/are correct?
+
+1. India has about 80 Ramsar sites in recent teaching counts.
+2. Tamil Nadu often leads state counts; Uttar Pradesh is also among high-count states.
+3. Montreux Record lists sites with adverse ecological change from human interference.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** All three are teaching locks.
+
+**Ans: D.**
+
+</details>
+
+**Q16.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. Dugong | 1. Western Ghats |
+| B. Lion-tailed macaque | 2. Gulf of Mannar / Palk teaching |
+| C. Indian wild ass | 3. Rann of Kachchh |
+
+Code:
+
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Dugong marine herbivore; LTM Western Ghats; wild ass Kachchh.
+
+**Ans: A.**
+
+</details>
+
+**Q17.** Which of the following pairs is/are NOT correctly matched?
+
+1. NBA headquarters — Chennai
+2. International Day for Biological Diversity — 22 May
+3. TRAFFIC — UNEP bureau for climate finance
+
+A. 1 and 2 only
+B. 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** TRAFFIC is WWF–IUCN wildlife trade monitor — not UNEP climate finance.
+
+**Ans: B.**
+
+</details>
+
+**Q18.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Endemic species occur only in a restricted area.
+
+Reason (R): Prosopis juliflora is an invasive alien that can reduce native biodiversity.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** Both true but R does not explain endemism.
+
+**Ans: A.**
+
+</details>
+
+**Q19.** With reference to UP biodiversity fringe facts, which of the following statements is/are correct?
+
+1. UP Terai (Dudhwa, Pilibhit) sits on the Himalaya hotspot fringe.
+2. Sarus crane is the state bird of Uttar Pradesh.
+3. Water hyacinth, Parthenium and Lantana are common UP invasives teaching.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** All three correct.
+
+**Ans: D.**
+
+</details>
+
+**Q20.** How many of the following are biodiversity threats under HIPPO framing?
+
+Habitat destruction, Invasive species, Pollution, Population pressure, Over-exploitation
+
+A. All five
+B. Only two
+C. Only three
+D. Only four
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** All five letters of HIPPO.
+
+**Ans: A.**
+
+</details>
+
+**Q21.** With reference to cryo-banks, which of the following statements is/are correct?
+
+1. Cryo-banks use liquid nitrogen.
+2. Ex-situ methods can include cryopreservation.
+3. Cryo-banks replace the need for any in-situ protected areas.
+
+A. 2 and 3 only
+B. 1 and 3 only
+C. 1, 2 and 3
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Ex-situ is backup — does not replace in-situ.
+
+**Ans: D.**
+
+</details>
+
+**Q22.** Which one of the following is India’s first National Centre for Marine Biodiversity (NCMB) location teaching?
+
+A. Kochi
+B. Jamnagar (Gujarat)
+C. Port Blair
+D. Chennai
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Jamnagar, Gujarat.
+
+**Ans: B.**
+
+</details>
+
+**Q23.** Consider the following statements:
+
+1. UN Decade on Biodiversity was 2011–2020.
+2. Kunming–Montreal GBF includes the 30×30 target.
+3. CBD COP-11 was held at Hyderabad in 2012.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** All three correct.
+
+**Ans: D.**
+
+</details>
+
+**Q24.** Which of the following pairs is/are correctly matched?
+
+1. Sea buckthorn — Ladakh / cold Himalaya erosion check + nutrition
+2. Sea buckthorn — primarily a coastal mangrove tree of Sundarbans
+3. Maximum butterflies in tropics — linked to intolerance of low temperatures
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Pair 2 is wrong.
+
+**Ans: B.**
+
+</details>
+
+**Q25.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Afforestation does not cause biodiversity loss in standard threat lists.
+
+Reason (R): Road expansion, urbanisation, and agriculture expansion can cause biodiversity loss.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**A/R logic:** Both true; R does not explain A (different point).
+
+**Ans: A.**
+
+</details>
+
+**Q26.** With reference to Biological Diversity Act institutions, which of the following statements is/are correct?
+
+1. NBA sits at national level; SBBs at state; BMCs at local level.
+2. BMCs prepare People’s Biodiversity Registers (PBRs).
+3. NBA headquarters is New Delhi.
+
+A. 2 and 3 only
+B. 1 and 3 only
+C. 1, 2 and 3
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** NBA HQ is Chennai — not Delhi.
+
+**Ans: D.**
+
+</details>
+
+**Q27.** Arrange hotspot / protocol chronology:
+
+1. Myers hotspot concept era (1980s teaching)
+2. CBD 1992
+3. Nagoya 2010
+
+A. 2-1-3
+B. 1-2-3
+C. 1-3-2
+D. 3-2-1
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Hotspot concept → CBD → Nagoya.
+
+**Ans: B.**
+
+</details>
+
+**Q28.** Which of the following statements about coral bleaching is/are correct?
+
+1. Bleaching is mainly linked to warming seawater / global warming stress.
+2. Zooxanthellae expulsion is part of the bleaching story.
+3. Bleaching is caused only by freshwater flooding of the Sahara.
+
+A. 2 and 3 only
+B. 1 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Statement 3 is false.
+
+**Ans: C.**
+
+</details>
+
+**Q29.** With reference to keystone / flagship / umbrella / indicator roles, which statement is correct?
+
+A. All four terms mean exactly the same thing
+B. The roles stay conceptually distinct in teaching
+C. Flagship means only invasive aliens
+D. Indicator species never reflect ecosystem health
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Roles remain distinct.
+
+**Ans: B.**
+
+</details>
+
+**Q30.** Which of the following UP / India traps is/are correctly stated?
+
+1. Threatened ≠ Endangered alone
+2. NBA HQ = Chennai
+3. CBD year = Nagoya year
+
+A. 2 and 3 only
+B. 1 and 3 only
+C. 1, 2 and 3
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** CBD 1992 ≠ Nagoya 2010.
+
+**Ans: D.**
 
 </details>
 

@@ -304,7 +304,7 @@ If **any** are true, the file is **NOT complete**:
 | F5 | 2025 overlap cited but concept not in matching N.X teaching home |
 | F6 | Common Trap date/number missing from its teaching home (Quick Revision or N.X/Consolidated) |
 | F7 | `> **Exam note:**` missing from any substantial N.X |
-| F8 | Practice Zone not in **UPPCS 2024–25 format**: **<60% multi-statement/application**, OR missing any of {A/R, Match-List, chronology, NOT-matched}, OR dominated by direct single-fact recall (`"X is under: A…B…"`) **when Practice Zone is included** |
+| F8 | Practice Zone not in **UPPCS 2024–25 format**: **<60% multi-statement/application**, OR missing any of {A/R, Match-List, chronology, NOT-matched}, OR dominated by direct single-fact recall (`"X is under: A…B…"`), OR **answer key skewed** (any of A/B/C/D **>35%** of keys), OR A/R options not in 2024–25 order (**A** = both true R not explanation; **D** = both true R explains) **when Practice Zone is included** |
 | F9 | PYQs or PYQ Bank use summary-table only (no full question text); PYQ Bank answers visible without `<details>`; **any UPPCS Prelims (2018–2025) or RO-ARO question in `pyq/` that maps to this topic is missing from the topic file** |
 | F10 | Internal syllabus audit fails — bullet lacks N.X |
 | F11 | UP-relevant topic lacks UP Focus table |
@@ -492,12 +492,18 @@ Syllabus Coverage Map, Checklist, How to Use, How UPPCS Tests, Exam Intelligence
 - Use the **full UPPCS format toolkit**, spread across the set:
   - **"Which of the following statement(s) is/are correct?"** — 2–3 numbered statements + code (Only 1 / Only 2 / Both / Neither).
   - **"How many of the above statements are correct?"** — 3–4 statements + code (Only one / Only two / All three / None).
-  - **Assertion–Reason (A/R)** — use the standard four options verbatim (A: both true & R explains A; B: both true, R not explanation; C: A true, R false; D: A false, R true).
+  - **Assertion–Reason (A/R)** — use **UPPCS 2024–25 option order verbatim**:
+    - A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+    - B. (A) is false, but (R) is true
+    - C. (A) is true, but (R) is false
+    - D. Both (A) and (R) are true and (R) is the correct explanation of (A)
   - **Match List-I with List-II** — 4 pairs + four code permutations (A-1,B-2,…).
   - **Chronological order** — arrange events/cases/amendments + code.
   - **"NOT correctly matched"** — numbered pairs + code (Only 2 / 1 and 2 / …).
 - Each set should contain **at least one** of: A/R, Match-List, chronology, and NOT-matched.
 - Answers hidden in `<details>`; give the **trap/why**, not just the letter.
+- **Answer-key balance:** each of A/B/C/D roughly **20–30%** of the set; no key above **~35%**. Rotate which statement is false and which Match code is correct.
+- Distractors must be **plausible confused pairs** — reject easily eliminable junk options.
 
 > **Anti-pattern (fails F8):** a Practice Zone that is mostly `"X is guaranteed by: A. Art.12 B. Art.14 …"` direct recall. That is **not** UPPCS format.
 
