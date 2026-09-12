@@ -1610,751 +1610,180 @@ D. Only (A), (C) and (D)
 
 ## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden.** Full stems (not cryptic stubs). **55 questions.** ≥60% multi-statement / application. Mix: A/R, Match List, chronology, NOT-correctly-matched.
+> **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D | **Ans first, then Logic**
 
-**Q1.** Arrange in order of establishment: I BSP II SP III TDP IV TMC
-A. III, I, II, IV
-B. II, I, III, IV
-C. III, II, I, IV
-D. I, II, III, IV
+**Q1.** With reference to political parties in the constitutional scheme, which of the following statements is/are correct?
 
-<details>
-<summary>Show answer</summary>
+1. Main hooks include Article 19(1)(c), the Tenth Schedule, and Article 324.
+2. Parties were largely extra-constitutional until the 52nd Amendment inserted anti-defection.
 
-**Ans: A** — 1982 → 1984 → 1992 → 1998.
-
-</details>
-
-**Q2.** Registration of a political party is under which of the following?
-A. Symbols Order 1968
-B. s.29A RPA 1951
-C. Art. 324 alone
-D. 10th Schedule
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q3.** With reference to recognition, which of the following is/are correct?
-1. A party becomes a National Party merely by registering under s.29A.
-2. One route to national status is to be a State party in four States.
 A. Only 1
 B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
+C. Neither 1 nor 2
+D. Both 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: D.** Both are correct.
+
+**Logic:** Sparse constitutional naming + 52nd milestone.
 
 </details>
 
-**Q4.** Which one of the following is **not** correctly matched?
-A. BJP — Lotus
-B. INC — Hand
-C. AAP — Broom
-D. NPP — Elephant
+**Q2.** Consider the following pairs:
 
-<details>
-<summary>Show answer</summary>
+1. Registration — RPA section 29A (RUPP)
+2. Recognition — Election Symbols Order, 1968
+3. Recognition — automatic upon registration alone
 
-**Ans: D** — NPP = **Book**. Elephant = **BSP**.
+Which of the pairs given above is/are correctly matched?
 
-</details>
-
-**Q5.** Match List-I with List-II and select the correct answer using the code given below the lists:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | BMS |
-| B | INTUC |
-| C | AITUC |
-| D | CITU |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | INC |
-| 2 | CPI |
-| 3 | BJP/RSS |
-| 4 | CPI(M) |
-
-> Note: Row order in the tables is **not** the answer.
-
-A. A-3, B-1, C-2, D-4
-B. A-1, B-3, C-4, D-2
-C. A-3, B-1, C-4, D-2
-D. A-3, B-2, C-1, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q6.** The first central trade-union federation in India is?
-A. INTUC 1947
-B. AITUC 1920
-C. BMS 1955
-D. CITU 1970
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q7.Assertion (A):** India has a multi-party system.
-
-**Reason (R):** The BJP won a single-party majority in 2014 and 2019.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q8.** A hung Lok Sabha means?
-A. Rajya Sabha is dissolved
-B. No single party has a majority of total membership
-C. The President must impose 356
-D. NOTA has won
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q9.** Which of the following is/are correct?
-1. CPI lost its national-party status in the 2023 ECI review.
-2. NPP is the first national party from the North-East.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q10.** Bahujan Samaj Party was founded in which of the following?
-A. 1982
-B. 1984
-C. 1992
-D. 1998
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q11.** Samajwadi Party was founded by which of the following?
-A. Kanshi Ram
-B. Mulayam Singh Yadav
-C. V.P. Singh
-D. Ram Manohar Lohia
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — **1992**.
-
-</details>
-
-**Q12.** Which one of the following is **not** correctly matched?
-A. TDP — 1982
-B. BSP — 1984
-C. SP — 1992
-D. TMC — 1984
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — TMC **1998**.
-
-</details>
-
-**Q13.** A pressure group differs from a political party because it?
-A. Always contests elections
-B. Seeks to influence policy rather than (normally) capture office
-C. Is mentioned in Part XV
-D. Cannot be associational
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q14.** FICCI is an example of Almond’s?
-A. Anomic group
-B. Associational group
-C. Institutional group
-D. Non-associational group
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q15.** Consider the following statements:
-1. An interest group becomes a pressure group when it pressures the government.
-2. The two terms are used interchangeably in many Indian questions.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q16.** Match List-I with List-II and select the correct answer using the code given below the lists:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | 1977 |
-| B | 1989 |
-| C | 2014 |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | First BJP solo majority at Centre |
-| 2 | Janata coalition at Centre |
-| 3 | Start of the long coalition era at Centre |
-
-> Note: Row order in the tables is **not** the answer.
-
-A. A-2, B-3, C-1
-B. A-3, B-2, C-1
-C. A-2, B-1, C-3
-D. A-1, B-3, C-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q17.** After the 2024 Lok Sabha election, the BJP’s own seat tally was?
-A. 303
-B. 272
-C. 240
-D. 543
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — NDA formed a **coalition**.
-
-</details>
-
-**Q18.** Which of the following is/are a route to **State** party recognition?
-1. 8% of valid votes in the State even without winning a seat.
-2. Being a national party in one other State.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q19.** The Election Symbols Order is?
-A. A constitutional amendment
-B. An ECI order of **1968**
-C. A Supreme Court rule
-D. Part of the 10th Schedule
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q20.** On a party split, the reserved symbol is decided by which of the following?
-A. The Speaker alone
-B. ECI under Para 15 of the Symbols Order
-C. The Supreme Court as a first forum
-D. The President
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q21.Assertion (A):** A hung House must lead to President’s Rule.
-
-**Reason (R):** The head of State first invites the combination most likely to prove a majority on the floor.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q22.** Rajni Kothari’s “Congress system” refers to which of the following?
-A. 1989–2014 coalitions
-B. One-party dominant politics roughly 1952–67
-C. The 2024 NDA
-D. The Janata Party of 1977
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q23.** Which of the following is **not** correctly matched?
-A. Madras Labour Union — 1918
-B. AITUC — 1920
-C. INTUC — 1947
-D. CITU — 1955
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — CITU **1970**; BMS is 1955.
-
-</details>
-
-**Q24.** BMS is politically affiliated with which of the following?
-A. INC
-B. CPI
-C. CPI(M)
-D. BJP / RSS
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q25.** A caste mahasabha agitating for reservation is typically Almond’s?
-A. Associational (if formally organised) / non-associational (if loose)
-B. A national party
-C. Anomic only
-D. A constitutional body
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q26.** Star campaigners allowed to a recognised national party are?
-A. 20
-B. 30
-C. 40
-D. Unlimited
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — unrecognised registered = **20**.
-
-</details>
-
-**Q27.** Which of the following statements is/are correct?
-1. NPP’s reserved symbol is the Book.
-2. BSP cannot use the elephant in Assam.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q28.** The first non-Congress government at the Centre was formed in which of the following?
-A. 1967
-B. 1977
-C. 1989
-D. 2014
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q29.** Which one of the following is **not** correctly matched?
-A. 371J — Karnataka
-B. SP — 1992
-C. AAP — 2012
-D. CPI(M) — 1920
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — CPI(M) **1964**; AITUC/CPI 1920.
-
-</details>
-
-**Q30.** A coalition government is?
-A. Always a hung House with no ministry
-B. Two or more parties sharing (or supporting) the ministry
-C. Rule by independents only
-D. President’s Rule
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q31.** Consider the following statements:
-1. Free symbols are for unrecognised parties and independents.
-2. A national party’s reserved symbol is not a free symbol in any State.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q32.** UTUC’s true political affiliation is?
-A. INC
-B. BJP
-C. RSP
-D. NPP
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q33.** Match UP parties:
-A. BSP — 1. 1992, Mulayam
-B. SP — 2. 1984, Kanshi Ram
-A. A-2, B-1
-B. A-1, B-2
-C. Both founded 1984
-D. Both founded 1992
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q34.** Which of the following is/are correct about 2024?
-1. BJP crossed 272 on its own.
-2. A coalition (NDA) formed the Union government.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q35.** Anomic pressure in Almond’s scheme means?
-A. FICCI-style lobbying
-B. Spontaneous / riot-like outburst
-C. A recognised national party
-D. The 10th Schedule
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q36.** Trade Unions Act was passed in which of the following?
-A. 1918
-B. 1920
-C. 1926
-D. 1947
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q37.Assertion (A):** Electoral bonds are the present legal route for anonymous party funding.
-
-**Reason (R):** The Supreme Court struck the electoral-bond scheme down in 2024.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q38.** Which of the following is **not** a national party (2024–26 roster)?
-A. AAP
-B. BSP
-C. Samajwadi Party
-D. NPP
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q39.** 1967 in the Indian party system is remembered for which of the following?
-A. First LS hung House
-B. First large wave of non-Congress coalitions in States
-C. Formation of BJP
-D. NPP’s national status
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q40.** Which of the following statements is/are correct?
-1. Parties seek governmental power; pressure groups seek to influence those who hold it.
-2. The 10th Schedule is the anti-defection home, not the pressure-group home.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q41.** Which of the following is a feature of the Indian party system?
-1. Multi-party character
-2. Strong inner-party democracy mandated by the Constitution
-3. Regionalisation after 1967
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** Registration ≠ recognition.
 
 </details>
 
-**Q42.** The first president of AITUC was?
-A. M.K. Gandhi
-B. Lala Lajpat Rai
-C. S.A. Dange
-D. B.P. Wadia
+**Q3.** Which of the following is/are NOT correctly matched?
+
+1. National party route — 6% votes in four States plus four Lok Sabha seats (one route)
+2. State party route — 8% of votes even with zero seats (one route)
+3. Reserved symbol — unrecognised parties and independents
+
+A. 1 and 3 only
+B. 3 only
+C. 2 and 3 only
+D. 1 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B.** Pair 3 is wrong — reserved symbols go to recognised parties.
+
+**Logic:** Free symbols for unrecognised/independents.
 
 </details>
 
-**Q43.** Match List-I with List-II and select the correct answer using the code given below the lists:
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**List-I**
+Assertion (A): As of the 2024–26 teaching set there are six national parties including AAP, BSP, BJP, CPI(M), INC, and NPP.
 
-| Code | Item |
-|------|------|
-| A | FICCI |
-| B | RSS |
-| C | ASSOCHAM |
+Reason (R): CPI lost national status in 2023; NPP was the first north-eastern national party (2019).
 
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | 1925 |
-| 2 | 1927 |
-| 3 | 1920 |
-
-> Note: Row order in the tables is **not** the answer.
-
-A. A-2, B-1, C-3
-B. A-1, B-2, C-3
-C. A-2, B-3, C-1
-D. A-3, B-1, C-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q44.** Sarkaria’s preferred invite order in a hung Assembly is?
-A. Post-poll combination, then largest party, then pre-poll
-B. Pre-poll alliance, then largest party, then post-poll combination
-C. Always the previous CM
-D. Always President’s Rule first
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q45.** Which of the following is/are correct?
-1. The right to form a trade union is under Article 19(1)(c).
-2. The right to strike is a Fundamental Right.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q46.** CPI was founded in (Kanpur session commonly cited)?
-A. 1885
-B. 1920 (AITUC year) as the party date
-C. 1925
-D. 1964
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — **1964** is the CPI(M) split.
-
-</details>
-
-**Q47.** Which one of the following is **not** correctly matched?
-A. SAD — 1920
-B. NC — 1932
-C. DMK — 1949
-D. TDP — 1992
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — TDP **1982**. SP is 1992.
-
-</details>
-
-**Q48.Assertion (A):** A registered unrecognised party never gets any common symbol.
-
-**Reason (R):** Reserved symbols are only for recognised National and State parties.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — RUPPs may get a **common free** symbol if they contest a notified minimum of seats; it is still **not** a reserved recognised-party symbol.
+**Ans: D.** Both true and R supports the current six-party national roster described in A.
+
+**A/R logic:** Roster + CPI drop + NPP first NE national.
 
 </details>
 
-**Q49.** Chipko is an example of which of the following?
-A. A national party
-B. A promotional / environmental pressure group
-C. A CTUO
-D. An ECI symbol
+**Q5.** Match List-I with List-II:
+
+| List-I (Union) | List-II (Link) |
+|----------------|----------------|
+| A. AITUC | 1. Congress (1947) |
+| B. INTUC | 2. CPI (1920) |
+| C. BMS | 3. CPI(M) (1970) |
+| D. CITU | 4. BJP/RSS (1955) |
+
+Codes:
+
+A. A-1, B-2, C-4, D-3
+B. A-2, B-1, C-4, D-3
+C. A-2, B-1, C-3, D-4
+D. A-2, B-4, C-1, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B.** A-2, B-1, C-4, D-3.
+
+**Logic:** Do not swap AITUC/CITU or INTUC/BMS.
 
 </details>
 
-**Q50.** The official opposition in a House requires, as a convention fact?
-A. Any second party
-B. **10%** of the membership
-C. 1/3 of the membership
-D. Recognition as a national party
+**Q6.** Arrange the following party founding years in correct chronological order:
+
+1. SP
+2. TDP
+3. TMC
+4. BSP
+
+A. 4-2-1-3
+B. 2-4-1-3
+C. 2-1-4-3
+D. 2-4-3-1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B.** 1982 → 1984 → 1992 → 1998.
+
+**Logic:** TDP → BSP → SP → TMC.
 
 </details>
 
-**Q51.** Consider the following statements:
-1. Mayawati has been Chief Minister of UP four times.
-2. BSP is a recognised national party.
+**Q7.** With reference to India’s party system, which of the following statements is/are correct?
+
+1. India has a multi-party system, not a classic two-party system.
+2. 1967 brought large state coalitions; 1989–2014 was a long coalition era at the Centre.
+3. 2014 returned a single-party majority; 2024 again produced an NDA coalition with BJP on 240 seats.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All three are correct.
+
+**Logic:** System type + coalition eras + 2014/2024.
+
+</details>
+
+**Q8.** Consider the following statements:
+
+1. A hung House means no single party has a majority.
+2. A coalition means two or more parties govern together.
+3. A hung House can never produce a coalition.
+
+A. 2 and 3 only
+B. 1 and 3 only
+C. 1, 2 and 3
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2 are correct.
+
+**Logic:** Hung House may still produce a coalition.
+
+</details>
+
+**Q9.** With reference to Sarkaria’s invite order for a hung House, which of the following is/are correct?
+
+1. Pre-poll alliance → largest single party → post-poll alliance, then floor test.
+2. After Bommai, majority is tested on the House floor, not by Raj Bhavan arithmetic alone.
+
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -2363,39 +1792,119 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: C.** Both are correct.
+
+**Logic:** Invite order + floor test.
 
 </details>
 
-**Q52.** Which of the following is **not** correctly matched?
-A. 1977 — Morarji Desai
-B. 1989 — V.P. Singh
-C. 2004 — Manmohan Singh
-D. 1996 — first Modi majority
+**Q10.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): A political party contests elections and seeks office; a pressure group usually does not contest and seeks to influence policy.
+
+Reason (R): An interest group becomes a pressure group when it presses the State.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — 1996 = UF / 13-day Vajpayee. Modi majority = **2014**.
+**Ans: D.** Both true and R fits the interest→pressure transition next to A’s party/pressure distinction.
+
+**A/R logic:** Party vs pressure vs interest vocabulary.
 
 </details>
 
-**Q53.** Ahmedabad’s Majoor Mahajan (1920) is associated with which of the following?
-A. Lala Lajpat Rai
-B. The Gandhi / Anasuya Sarabhai stream
-C. BMS
-D. CITU
+**Q11.** How many of the following labour-history facts are correct?
+
+1. First trade union commonly locked as Madras Labour Union (1918).
+2. AITUC formed in 1920 with Lala Lajpat Rai as president.
+3. Right to strike is a Fundamental Right under Article 19(1)(c).
+
+A. Only one
+B. Only two
+C. All three
+D. None
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B.** Statements 1 and 2 are correct.
+
+**Logic:** 19(1)(c) is form associations/unions — strike is not an FR.
 
 </details>
 
-**Q54.** Which of the following statements is/are correct?
-1. A national party’s reserved symbol is the same in every State.
-2. A State party’s symbol is reserved only in the State(s) where it is recognised.
+**Q12.** With reference to symbols, which of the following statements is/are correct?
+
+1. National parties get an all-India reserved symbol.
+2. State parties get a reserved symbol only in that State.
+3. Free symbols go to recognised national parties only.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Free symbols = unrecognised + independents.
+
+</details>
+
+**Q13.** Consider the following pairs of national-party symbols in the teaching set:
+
+1. AAP — broom
+2. BSP — elephant
+3. NPP — book
+
+Which of the pairs given above is/are correctly matched?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All three are correct.
+
+**Logic:** Broom / elephant / book.
+
+</details>
+
+**Q14.** Which of the following is/are NOT correctly matched?
+
+1. UTUC (1949) — linked to RSP
+2. CITU (1970) — linked to CPI
+3. BMS (1955) — linked to BJP/RSS
+
+A. 2 only
+B. 1 and 2 only
+C. 2 and 3 only
+D. 1 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Pair 2 is wrong — CITU links to CPI(M).
+
+**Logic:** AITUC=CPI; CITU=CPI(M).
+
+</details>
+
+**Q15.** With reference to electoral bonds and funding neighbours, which of the following is/are correct?
+
+1. Electoral bonds were struck down in February 2024 (ADR).
+2. Party funding transparency remains a live neighbour to registration and recognition.
+
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -2404,24 +1913,312 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: C.** Both are correct.
+
+**Logic:** Struck-down scheme + transparency theme.
 
 </details>
 
-**Q55.** Rajni Kothari + 1967 + 1989 together describe?
-A. The shift from a Congress *system* to State coalitions to a Centre coalition era
-B. The birth of NPP
-C. The 10th Schedule
-D. PESA
+**Q16.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): A hung Assembly automatically means President’s Rule under Article 356.
+
+Reason (R): The constitutional path is invitation based on likely majority, then floor test; 356 is a last resort.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** (A) is false, but (R) is true.
+
+**A/R logic:** Hung ≠ automatic 356.
 
 </details>
 
----
+**Q17.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. Registration | 1. Tenth Schedule |
+| B. Recognition | 2. RPA s.29A |
+| C. Defection | 3. Symbols Order 1968 |
+
+Codes:
+
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-2, C-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** A-2, B-3, C-1.
+
+**Logic:** Three different tools — do not merge.
+
+</details>
+
+**Q18.** Arrange the following in correct chronological order:
+
+1. BMS founded
+2. AITUC founded
+3. CITU founded
+4. INTUC founded
+
+A. 2-4-1-3
+B. 2-1-4-3
+C. 4-2-1-3
+D. 2-4-3-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** 1920 → 1947 → 1955 → 1970.
+
+**Logic:** AITUC → INTUC → BMS → CITU.
+
+</details>
+
+**Q19.** With reference to national-party tests, which of the following statements is/are correct?
+
+1. One route is 2% of Lok Sabha seats from at least three States.
+2. Another route is State-party status in four States.
+3. Recognition criteria use ‘old party’ status rather than votes/seats.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Votes/seats tests — not mere antiquity.
+
+</details>
+
+**Q20.** Consider the following statements about pressure groups:
+
+1. They include business associations, farmer bodies, trade unions, and professional lobbies.
+2. They work through persuasion, media, litigation, and access.
+3. Their normal path is to form the ministry after winning a majority of seats.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Pressure groups influence — they do not normally form the ministry.
+
+</details>
+
+**Q21.** Which of the following pairs is/are correctly matched?
+
+1. Coalition government — common programme + support arithmetic
+2. Withdrawal of support — can trigger floor test and change of government
+3. Multi-party system — means every election must end in a coalition
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Multi-party describes system type — not mandatory coalition every time.
+
+</details>
+
+**Q22.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): The Tenth Schedule creates the Election Commission’s recognition rules for national parties.
+
+Reason (R): Registration, recognition, and defection are three different tools.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** (A) is false, but (R) is true.
+
+**A/R logic:** Tenth Schedule = defection; recognition = Symbols Order.
+
+</details>
+
+**Q23.** With reference to State-party routes, which of the following is/are correct?
+
+1. One route is 6% votes plus two MLAs or one MP.
+2. Another route is 3% of Assembly seats or three seats, whichever is higher.
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both are correct.
+
+**Logic:** Classic State-party thresholds.
+
+</details>
+
+**Q24.** How many of the following are true?
+
+1. Indian party-system features often include multi-party competition and regionalisation after 1967.
+2. Weak inner-party democracy is a frequently noted feature.
+3. The Constitution comprehensively defines party constitutions in Part XV.
+
+A. Only one
+B. Only two
+C. All three
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Statements 1 and 2 are true.
+
+**Logic:** Parties remain thinly named in the constitutional text.
+
+</details>
+
+**Q25.** Which of the following is/are NOT correctly matched?
+
+1. Political party — contests; seeks power
+2. Pressure group — normally does not contest; seeks to influence
+3. Interest group — identical in meaning to national party under the Symbols Order
+
+A. 3 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Pair 3 is wrong.
+
+**Logic:** Interest group ≠ national party.
+
+</details>
+
+**Q26.** With reference to Uttar Pradesh high-yield neighbours, which of the following statements is/are correct?
+
+1. BSP and SP founding years sit in the standard founding-order drill with TDP and TMC.
+2. National roster and UP regional set should be kept separate in revision.
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both are correct.
+
+**Logic:** Founding order + separate national/UP sets.
+
+</details>
+
+**Q27.** Consider the following statements:
+
+1. A registered party without recognition remains a RUPP with a free symbol.
+2. Reserved symbols are for recognised parties.
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both are correct.
+
+**Logic:** RUPP + free symbol fact.
+
+</details>
+
+**Q28.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): The right to form associations and unions is under Article 19(1)(c).
+
+Reason (R): The right to strike is also a Fundamental Right under the same clause.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** (A) is true, but (R) is false.
+
+**A/R logic:** Form unions ≠ strike as FR.
+
+</details>
+
+**Q29.** With reference to coalition arithmetic after 2024, which of the following is/are correct?
+
+1. 2024 produced an NDA coalition with the BJP on 240 seats in the teaching set.
+2. Multi-party democracy can still produce stable majorities.
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both are correct.
+
+**Logic:** 2024 NDA + multi-party ≠ permanent instability.
+
+</details>
+
+**Q30.** Which of the following pairs is/are correctly matched?
+
+1. First trade union fact — Madras Labour Union (1918)
+2. AITUC president (1920) — Lala Lajpat Rai
+3. INTUC — 1947; Congress-linked
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All three are correct.
+
+**Logic:** Labour origin facts.
+
+</details>
 
 ## Mains link (one frame)
 

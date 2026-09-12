@@ -691,306 +691,591 @@ D. Only agricultural produce storage
 ---
 
 
-## Practice Zone
+## Practice Zone — UPPCS Format Drill
 
-**Q1.** India’s first Biosphere Reserve:
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-Options: A. Nilgiri B. Nokrek C. Manas D. Panna
+**Q1.** With reference to Biosphere Reserves, which of the following statements is/are correct?
 
-<details><summary>Show answer</summary>
+1. UNESCO MAB (1971) landscape: core → buffer → transition.
+2. Not a Wildlife Protection Act category.
+3. Identical to Section 35 National Park only.
 
-**Ans: A**
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q2.** Nokrek BR is in:
+**Ans: B.** Only 1 and 2.
 
-Options: A. Meghalaya B. Manipur C. Assam D. Odisha
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q3.** Simlipal BR is in:
-
-Options: A. Odisha B. Madhya Pradesh C. Meghalaya D. Kerala
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** MAB ≠ WPA category.
 
 </details>
 
-**Q4.** Manas BR is in:
+**Q2.** Match List-I with List-II:
 
-Options: A. Assam B. Meghalaya C. Kerala D. UP
+| List-I | List-II |
+|--------|--------|
+| A. First BR (India) | 1. Great Rann of Kutch |
+| B. Largest BR | 2. Nilgiri 1986 |
+| C. Smallest BR | 3. Nokrek |
 
-<details><summary>Show answer</summary>
+Code:
 
-**Ans: A**
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q5.** Agasthyamalai BR is mainly associated with:
+**Ans: C.** A-2, B-1, C-3.
 
-Options: A. Kerala (also TN) B. Only Assam C. Only Meghalaya D. Only Gujarat
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q6.** UP number of Biosphere Reserves:
-
-Options: A. Zero B. One C. Two D. Eighteen
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Nilgiri / Kutch / Nokrek.
 
 </details>
 
-**Q7.** Nanda Devi BR is in:
+**Q3.** Which of the following pairs is/are correctly matched?
 
-Options: A. Uttarakhand B. Uttar Pradesh C. Assam D. Odisha
+1. India — 18 notified national BRs
+2. About 13 on UNESCO World Network
+3. UP — three Biosphere Reserves
 
-<details><summary>Show answer</summary>
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: D.** Only 1 and 2.
 
-**Q8.** Which is NOT in-situ?
-
-Options: A. Botanical garden B. Biosphere reserve C. National Park D. Sacred grove
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q9.** Core zone of a BR allows:
-
-Options: A. No exploitative human use B. Full commercial logging C. Free settlement expansion D. Mining by default
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** UP has zero BRs.
 
 </details>
 
-**Q10.** MAB Programme started in:
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Options: A. 1971 B. 1986 C. 1972 only D. 2011
+Assertion (A): Nokrek is in Meghalaya.
 
-<details><summary>Show answer</summary>
+Reason (R): Pairing Nokrek with Manipur is correct.
 
-**Ans: A**
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q11.** Largest Indian BR:
+**Ans: C.** A true, R false.
 
-Options: A. Great Rann of Kutch B. Nokrek C. Panna D. Gulf of Mannar only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q12.** Smallest Indian BR:
-
-Options: A. Nokrek B. Great Rann C. Sundarbans D. Nilgiri
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**A/R logic:** Nokrek ≠ Manipur.
 
 </details>
 
-**Q13.** Manas was removed from UNESCO WNBR in:
+**Q5.** With reference to Manas, which of the following statements is/are correct?
 
-Options: A. 2011 B. 1986 C. 1971 D. 2024
+1. Remains a national Biosphere Reserve.
+2. Removed from UNESCO World Network in 2011.
+3. National listing alone guarantees WNBR membership.
 
-<details><summary>Show answer</summary>
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: A.** Only 1 and 2.
 
-**Q14.** Pachmarhi BR is in:
-
-Options: A. Madhya Pradesh B. Odisha C. Meghalaya D. Sikkim
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q15.** Panna BR is in:
-
-Options: A. Madhya Pradesh B. Kerala C. Assam D. UP
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** WNBR is a UNESCO subset.
 
 </details>
 
-**Q16.** Cold Desert BR is in:
+**Q6.** Arrange zone permissions:
 
-Options: A. Himachal Pradesh B. Rajasthan C. Gujarat D. UP
+A. Core = livelihoods first
+B. Core no exploitation; buffer limited research/education; transition livelihoods
+C. Transition = no human use ever
+D. Buffer = identical to core ban
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Core / buffer / transition uses.
 
-</details>
-
-**Q17.** Sundarbans BR is in:
-
-Options: A. West Bengal B. Assam C. Odisha D. Gujarat
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** MAB zoning.
 
 </details>
 
-**Q18.** Which pair is WRONG?
+**Q7.** Which of the following pairs is/are NOT correctly matched?
 
-Options: A. Nokrek — Manipur B. Manas — Assam C. Simlipal — Odisha D. Nilgiri — first BR
+1. Nanda Devi BR — Uttarakhand
+2. Dudhwa — UP Biosphere Reserve
+3. Valmiki — Bihar NP (not UP BR)
 
-<details><summary>Show answer</summary>
+A. 1 and 3 only
+B. 2 and 3 only
+C. 2 only
+D. 1, 2 and 3
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: C.** Only pair 2 is not correctly matched.
 
-**Q19.** BR legal basis in India is mainly:
-
-Options: A. MoEFCC executive / MAB B. WPA Sec 35 alone C. Only municipal Act D. Only CITES listing
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q20.** Transition zone is for:
-
-Options: A. Sustainable livelihoods B. Absolute no-go only C. Only space launch D. Only oil drilling
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Dudhwa = NP — not UP BR.
 
 </details>
 
-**Q21.** Khangchendzonga BR is in:
+**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Options: A. Sikkim B. Assam C. Odisha D. Gujarat
+Assertion (A): Panna (MP, 2011) is India’s newest notified Biosphere Reserve.
 
-<details><summary>Show answer</summary>
+Reason (R): Madhya Pradesh has three BRs: Pachmarhi, Achanakmar–Amarkantak, Panna.
 
-**Ans: A**
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q22.** Gulf of Mannar BR is in:
+**Ans: A.** Both true; MP count does not itself prove Panna is newest.
 
-Options: A. Tamil Nadu B. Gujarat C. Odisha D. UP
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q23.** Achanakmar–Amarkantak spans:
-
-Options: A. MP and Chhattisgarh B. Only Kerala C. Only Assam D. Only UP
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**A/R logic:** Newest vs MP trio.
 
 </details>
 
-**Q24.** Dudhwa is:
+**Q9.** With reference to multi-state BRs, which of the following statements is/are correct?
 
-Options: A. National Park / TR — not a BR B. UNESCO BR of UP C. World’s first BR D. Manipur BR
+1. Nilgiri — TN–Karnataka–Kerala.
+2. Agasthyamalai — Kerala–TN.
+3. Achanakmar–Amarkantak — MP–Chhattisgarh.
 
-<details><summary>Show answer</summary>
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: D.** All three.
 
-**Q25.** Simlipal–Nokrek–Agasthyamalai–Manas correct states:
-
-Options: A. Odisha, Meghalaya, Kerala, Assam B. MP, Manipur, Assam, Kerala C. Assam, Odisha, Manipur, Kerala D. Kerala, Assam, Odisha, Meghalaya
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q26.** Newest notified Indian BR among these:
-
-Options: A. Panna (2011) B. Nilgiri (1986) C. Nokrek (1988) D. Manas (1989)
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Multi-state classics.
 
 </details>
 
-**Q27.** Assertion (A): Nokrek is in Meghalaya.
-Reason (R): It is India’s largest Biosphere Reserve.
+**Q10.** Match List-I with List-II:
 
-Options: A. Both true; R explains A B. Both true; R does not explain A C. A true, R false D. Both false
+| List-I | List-II |
+|--------|--------|
+| A. Simlipal | 1. Meghalaya |
+| B. Nokrek | 2. Odisha |
+| C. Agasthyamalai | 3. Kerala (also TN landscape) |
 
-<details><summary>Show answer</summary>
+Code:
 
-**Ans: C** — Nokrek is smallest, not largest.
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q28.** Valmiki is:
+**Ans: A.** A-2, B-1, C-3.
 
-Options: A. Bihar National Park — not UP BR B. UP Biosphere Reserve C. Meghalaya BR D. Kerala BR
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q29.** World MAB network example:
-
-Options: A. Galápagos / Serengeti-type sites B. Only Indian NPs C. Only Ramsar wetlands D. Only ozone stations
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Simlipal/Nokrek/Agasthyamalai.
 
 </details>
 
-**Q30.** Correct set:
+**Q11.** Arrange NP vs BR tool:
 
-Options: A. Nilgiri first; Nokrek=Meghalaya; UP=0 BR; Manas UNESCO removed 2011 B. Nokrek=Manipur; UP=3 BRs C. First BR=Panna; Simlipal=MP D. BR = WPA Sec 35 only
+A. Identical WPA labels always
+B. NP = strictest WPA site; BR adds sustainable use/research under MAB
+C. BR replaces all NPs
+D. BR is only Section 18 sanctuary
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** WPA vs MAB tools.
+
+**Logic:** Separate instruments.
+
+</details>
+
+**Q12.** With reference to zero-BR states, which of the following statements is/are correct?
+
+1. UP has zero BRs.
+2. Bihar and Rajasthan also have zero BRs.
+3. Valmiki is a Bihar Biosphere Reserve.
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Valmiki remains NP.
+
+</details>
+
+**Q13.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Do not place Nanda Devi in Uttar Pradesh on a match list.
+
+Reason (R): After bifurcation it is an Uttarakhand site.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R explains A.
+
+**A/R logic:** Statehood trap.
+
+</details>
+
+**Q14.** Which one of the following correctly states Gulf of Mannar BR?
+
+A. Sikkim only
+B. Cold Desert HP only
+C. UP Terai BR only
+D. Marine BR in Tamil Nadu
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Marine BR TN.
+
+**Logic:** Gulf of Mannar.
+
+</details>
+
+**Q15.** How many of the following state–BR locks are correct?
+
+Cold Desert–HP; Khangchendzonga–Sikkim; Seshachalam–AP; Great Nicobar–A&N
+
+A. All four
+B. Only two
+C. Only three
+D. Only one
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** All four.
+
+**Logic:** State map.
+
+</details>
+
+**Q16.** With reference to world BR icons, which of the following statements is/are correct?
+
+1. Yellowstone, Serengeti–Ngorongoro, Galápagos appear in classic lists.
+2. Lake Baikal, Doñana, Mount Kenya also appear.
+3. Dudhwa is a UNESCO World Network BR in UP.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Dudhwa ≠ UP BR.
+
+</details>
+
+**Q17.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. Pachmarhi | 1. Assam |
+| B. Manas | 2. Madhya Pradesh |
+| C. Sundarbans BR | 3. West Bengal |
+
+Code:
+
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A-2, B-1, C-3.
+
+**Logic:** Pachmarhi/Manas/Sundarbans.
+
+</details>
+
+**Q18.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Among common options, BRs best conserve biodiversity together with traditional human life / sustainable use.
+
+Reason (R): Transition zone supports livelihoods under MAB design.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R explains the strategy edge.
+
+**A/R logic:** Livelihood zoning.
+
+</details>
+
+**Q19.** Which of the following pairs is/are correctly matched?
+
+1. Agasthyamalai paired only with Kerala — accepted as correct in recent papers
+2. Landscape also spans Tamil Nadu
+3. Agasthyamalai is only in Assam
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Not Assam.
+
+</details>
+
+**Q20.** Arrange UNESCO review idea:
+
+A. Periodic UNESCO review can delist from World Network — Manas 2011 example
+B. National BR can never be reviewed
+C. Delisting deletes the national BR always
+D. Only Yellowstone can be delisted
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Manas 2011 delist example.
+
+**Logic:** WNBR ≠ national forever.
+
+</details>
+
+**Q21.** With reference to overlaps, which of the following statements is/are correct?
+
+1. BRs can overlap NPs and World Heritage tags.
+2. MAB label remains a separate tool.
+3. Overlap means BR is a WPA Section 35 synonym.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Separate tool.
+
+</details>
+
+**Q22.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): World Network membership is a UNESCO subset of national BRs.
+
+Reason (R): National listing alone is not enough for WNBR.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R restates the subset rule.
+
+**A/R logic:** National ≠ WNBR auto.
+
+</details>
+
+**Q23.** How many of the following match facts are correct?
+
+Simlipal–Odisha; Pachmarhi–MP; Nanda Devi–UK; Nokrek–Meghalaya
+
+A. Only one
+B. Only two
+C. All four
+D. Only three
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All four.
+
+**Logic:** Match set.
+
+</details>
+
+**Q24.** Which one of the following correctly states India’s first BR year?
+
+A. Dudhwa 1977 as BR first
+B. Panna 2011 only as first
+C. Manas 2011 as first
+D. Nilgiri 1986
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Nilgiri 1986.
+
+**Logic:** First BR.
+
+</details>
+
+**Q25.** With reference to Cold Desert / Khangchendzonga, which of the following statements is/are correct?
+
+1. Cold Desert BR — Himachal Pradesh.
+2. Khangchendzonga BR — Sikkim.
+3. Both are UP Biosphere Reserves.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Not UP.
+
+</details>
+
+**Q26.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. Core | 1. Livelihoods |
+| B. Buffer | 2. No exploitation |
+| C. Transition | 3. Limited research/education |
+
+Code:
+
+A. A-1, B-2, C-3
+B. A-2, B-3, C-1
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** A-2, B-3, C-1.
+
+**Logic:** Zone uses.
+
+</details>
+
+**Q27.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Great Rann of Kutch is India’s largest BR.
+
+Reason (R): Nokrek is the smallest.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; smallest fact does not explain why Kutch is largest.
+
+**A/R logic:** Largest vs smallest.
+
+</details>
+
+**Q28.** Arrange Seshachalam / Great Nicobar:
+
+A. Both UP only
+B. Both Meghalaya only
+C. Seshachalam AP; Great Nicobar A&N
+D. Both Kerala only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** AP / A&N.
+
+**Logic:** State placement.
+
+</details>
+
+**Q29.** With reference to MP BRs, which of the following statements is/are correct?
+
+1. Pachmarhi, Achanakmar–Amarkantak, Panna.
+2. Achanakmar–Amarkantak shared with Chhattisgarh.
+3. MP has zero Biosphere Reserves.
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** MP has three.
+
+</details>
+
+**Q30.** Which one of the following correctly states why BR ≠ NP alone?
+
+A. BR adds sustainable use and research under MAB beyond strict protection
+B. BR deletes all cores
+C. BR is only a city municipal park
+D. BR is only a carbon credit
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** MAB sustainable-use design.
+
+**Logic:** Strategy difference.
 
 </details>
 

@@ -862,306 +862,593 @@ D. Lies entirely in Andhra Pradesh
 ---
 
 
-## Practice Zone
+## Practice Zone — UPPCS Format Drill
 
-**Q1.** Dudhwa NP district:
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-Options: A. Lakhimpur Kheri B. Pilibhit C. Bahraich D. Sitapur
+**Q1.** With reference to UP protected areas, which of the following statements is/are correct?
 
-<details><summary>Show answer</summary>
+1. UP has one National Park — Dudhwa (Lakhimpur Kheri).
+2. UP is landlocked — zero marine/coastal NPs.
+3. Valmiki NP is a UP national park.
 
-**Ans: A**
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q2.** Chandraprabha WLS district:
+**Ans: B.** Only 1 and 2.
 
-Options: A. Chandauli B. Sonbhadra C. Bahraich D. Etawah
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q3.** UP WLS established in 1975:
-
-Options: A. Katarniaghat B. Chambal C. Kishanpur D. Okhla
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Valmiki = Bihar.
 
 </details>
 
-**Q4.** India’s first NP:
+**Q2.** Match List-I with List-II:
 
-Options: A. Jim Corbett B. Dudhwa C. Gir D. Yellowstone
+| List-I | List-II |
+|--------|--------|
+| A. Corbett | 1. Haryana |
+| B. Sultanpur | 2. Uttarakhand |
+| C. Rudrasagar | 3. Tripura |
 
-<details><summary>Show answer</summary>
+Code:
 
-**Ans: A**
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q5.** World’s first NP:
+**Ans: C.** A-2, B-1, C-3.
 
-Options: A. Yellowstone 1872 B. Corbett 1936 C. Banff 1972 D. Serengeti 1872
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q6.** First Marine NP of India:
-
-Options: A. Gulf of Kutch B. Gulf of Mannar C. Sundarbans D. Gahirmatha
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** None is UP NP.
 
 </details>
 
-**Q7.** Hangul is associated with:
+**Q3.** Which of the following pairs is/are correctly matched?
 
-Options: A. Dachigam B. Gir C. Keoladeo D. Kanha
+1. World’s first NP — Yellowstone 1872
+2. India’s first NP — Corbett/Hailey 1936
+3. India’s largest NP — Hemis (Ladakh)
 
-<details><summary>Show answer</summary>
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: D.** All three.
 
-**Q8.** Keibul Lamjao is on:
-
-Options: A. Loktak Lake B. Dal Lake C. Wular Lake D. Chilika only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q9.** Genetic diversity in NPs is maintained by:
-
-Options: A. In-situ conservation B. Only zoos C. Only seed banks D. Only cryopreservation
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Firsts + largest.
 
 </details>
 
-**Q10.** Which is NOT in UP?
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Options: A. Sultanpur NP B. Samaspur Bird Sanctuary C. Sarsai Nawar D. Dudhwa NP
+Assertion (A): Dudhwa moved sanctuary (1958) → NP (1977) → Tiger Reserve core (1987).
 
-<details><summary>Show answer</summary>
+Reason (R): Pilibhit (2014) and Ranipur (2023) are additional full state national parks of UP.
 
-**Ans: A**
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q11.** Valmiki NP is in:
+**Ans: C.** A true, R false.
 
-Options: A. Bihar B. Uttar Pradesh C. Haryana D. Gujarat
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q12.** Match wrong: Simlipal — Madhya Pradesh
-
-Options: A. Wrong (Simlipal = Odisha) B. Correct C. Simlipal = Gujarat D. Simlipal = Kerala
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**A/R logic:** Pilibhit/Ranipur = TRs — not extra NPs.
 
 </details>
 
-**Q13.** Largest NP in India:
+**Q5.** With reference to UP sanctuaries, which of the following statements is/are correct?
 
-Options: A. Hemis B. Guindy C. Dudhwa D. Sultanpur
+1. UP has 25 Wildlife Sanctuaries.
+2. Hastinapur is the largest.
+3. Chandraprabha is in Chandauli.
 
-<details><summary>Show answer</summary>
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: A.** All three.
 
-**Q14.** Only wild Asiatic lions:
-
-Options: A. Gir NP B. Kaziranga C. Corbett D. Kanha
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q15.** Mollem NP is in:
-
-Options: A. Goa B. Haryana C. Jharkhand D. Chhattisgarh
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Sanctuary map.
 
 </details>
 
-**Q16.** Indravati NP is in:
+**Q6.** Arrange WPA categories idea:
 
-Options: A. Chhattisgarh B. Goa C. Haryana D. Jharkhand
+A. Sanctuary stricter than NP always
+B. NP strictest (Sec 35); Sanctuary more flexible (Sec 18)
+C. Both identical Section 18 only
+D. NP needs no legislature for boundary change
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** NP stricter; boundary change needs legislature.
 
-</details>
-
-**Q17.** Betla NP is in:
-
-Options: A. Jharkhand B. Goa C. Haryana D. Kerala
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Category lock.
 
 </details>
 
-**Q18.** Kalesar NP is in:
+**Q7.** Which of the following pairs is/are NOT correctly matched?
 
-Options: A. Haryana B. Goa C. Assam D. Kerala
+1. Gir — only wild Asiatic lions
+2. Kaziranga — one-horned rhino stronghold
+3. Keoladeo Ghana — Asiatic lion
 
-<details><summary>Show answer</summary>
+A. 1 and 2 only
+B. 2 and 3 only
+C. 3 only
+D. 1, 2 and 3
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: C.** Only pair 3 is not correctly matched.
 
-**Q19.** Periyar NP is in:
-
-Options: A. Kerala B. Madhya Pradesh C. Rajasthan D. J&K
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q20.** Keoladeo NP is in:
-
-Options: A. Rajasthan B. Kerala C. Madhya Pradesh D. Uttar Pradesh
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Keoladeo = birds.
 
 </details>
 
-**Q21.** Kanha NP is in:
+**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Options: A. Madhya Pradesh B. Kerala C. Rajasthan D. Haryana
+Assertion (A): India’s first Marine NP is Gulf of Kutch (Gujarat).
 
-<details><summary>Show answer</summary>
+Reason (R): UP has multiple marine national parks.
 
-**Ans: A**
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q22.** Largest WLS in UP:
+**Ans: C.** A true, R false.
 
-Options: A. Hastinapur B. Turtle WLS C. Okhla D. Vijai Sagar
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q23.** Gahirmatha is primarily a:
-
-Options: A. Marine sanctuary (not NP) B. First Marine NP C. UP coastal NP D. Desert NP
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**A/R logic:** UP landlocked — zero marine NPs.
 
 </details>
 
-**Q24.** UP natural UNESCO WH site count:
+**Q9.** With reference to Dudhwa fauna, which of the following statements is/are correct?
 
-Options: A. Zero B. Two C. Five D. Ten
+1. Tiger, reintroduced one-horned rhino, barasingha.
+2. Terai Arc pieces include Kishanpur and Katarniaghat.
+3. Dudhwa is a marine national park.
 
-<details><summary>Show answer</summary>
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: D.** Only 1 and 2.
 
-**Q25.** Banff NP country:
-
-Options: A. Canada B. USA only C. Tanzania D. India
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q26.** Sundarbans NP state:
-
-Options: A. West Bengal B. Gujarat C. Kerala D. UP
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Not marine.
 
 </details>
 
-**Q27.** Assertion (A): Gulf of Kutch is India’s first Marine NP.
-Reason (R): It is located in Tamil Nadu.
+**Q10.** Match List-I with List-II:
 
-Options: A. Both true; R explains A B. Both true; R does not explain A C. A true, R false D. Both false
+| List-I | List-II |
+|--------|--------|
+| A. Dachigam | 1. MP — barasingha / Bhoorsingh |
+| B. Kanha | 2. J&K — Hangul |
+| C. Keoladeo | 3. Rajasthan — birds |
 
-<details><summary>Show answer</summary>
+Code:
 
-**Ans: C** — Gujarat, not Tamil Nadu (Mannar is TN).
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q28.** Dachigam — Keoladeo — Kanha — Periyar correct state order:
+**Ans: A.** A-2, B-1, C-3.
 
-Options: A. J&K, Rajasthan, MP, Kerala B. RJ, J&K, Kerala, MP C. MP, Kerala, RJ, J&K D. Kerala, MP, J&K, RJ
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q29.** Rudrasagar Lake is in:
-
-Options: A. Tripura B. Uttar Pradesh C. Haryana D. Rajasthan
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Classic match set.
 
 </details>
 
-**Q30.** Correct set:
+**Q11.** Arrange MP parks / A&N teaching:
 
-Options: A. Dudhwa=UP; Corbett=UK; Yellowstone=world first; Kutch=first marine NP B. Valmiki=UP; Sultanpur=UP C. Simlipal=MP; Keoladeo=UP D. First marine=Sundarbans
+A. A&N has most NPs among states always false
+B. MP has most NPs (~11); A&N has most among UT/island set teaching
+C. UP has most NPs in India
+D. Haryana has most NPs
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** MP most; A&N island lead teaching.
+
+**Logic:** Count traps.
+
+</details>
+
+**Q12.** With reference to river–park traps, which of the following statements is/are correct?
+
+1. Corbett — Ramganga + Kosi.
+2. Kaziranga — Brahmaputra / Diphlu.
+3. Silent Valley — Kunthipuzha.
+4. Corbett — Brahmaputra only.
+
+A. 2, 3 and 4 only
+B. 1, 2 and 4 only
+C. 1, 2 and 3 only
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** 1, 2 and 3 only.
+
+**Logic:** Corbett ≠ Brahmaputra.
+
+</details>
+
+**Q13.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): UP has no natural UNESCO World Heritage site of its own.
+
+Reason (R): National Parks automatically equal World Heritage listing.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true, R false.
+
+**A/R logic:** WH is a separate overlay.
+
+</details>
+
+**Q14.** Which one of the following correctly states Keibul Lamjao?
+
+A. Hemis Ladakh only
+B. Gujarat lion park only
+C. UP Dudhwa twin only
+D. Only floating NP on Loktak; Sangai / phumdis
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Floating NP Manipur.
+
+**Logic:** Sangai lock.
+
+</details>
+
+**Q15.** How many of the following are correct UP negative locks?
+
+Valmiki≠UP; Sultanpur≠UP; Rudrasagar≠UP
+
+A. All three
+B. Only two
+C. Only one
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** All three.
+
+**Logic:** State traps.
+
+</details>
+
+**Q16.** With reference to species–park traps, which of the following statements is/are correct?
+
+1. Eravikulam — Nilgiri Tahr (not Hoolock).
+2. Hoolock — NE Assam neighbourhood.
+3. Bhitarkanika — saltwater crocodile neighbourhood.
+
+A. 1 and 2 only
+B. 1, 2 and 3
+C. 1 and 3 only
+D. 2 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** All three.
+
+**Logic:** Species–park map.
+
+</details>
+
+**Q17.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. National Chambal | 1. Gujarat largest WLS |
+| B. Wild Ass Sanctuary | 2. UP–MP–Rajasthan; gharial/dolphin |
+| C. Kuno–Palpur | 3. Asiatic lion second-home neighbourhood |
+
+Code:
+
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A-2, B-1, C-3.
+
+**Logic:** Chambal / Wild Ass / Kuno.
+
+</details>
+
+**Q18.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Samaspur and Sarsai Nawar are in Uttar Pradesh.
+
+Reason (R): Sultanpur NP is also in Uttar Pradesh.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true, R false.
+
+**A/R logic:** Sultanpur = Haryana.
+
+</details>
+
+**Q19.** Which of the following pairs is/are correctly matched?
+
+1. Pin Valley — Himachal (Lahaul–Spiti)
+2. Van Vihar — Bhopal
+3. Pin Valley — J&K only
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Pin ≠ J&K.
+
+</details>
+
+**Q20.** Arrange Katarniaghat year teaching:
+
+A. 1975
+B. 1936
+C. 2014
+D. 2023
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** 1975.
+
+**Logic:** Katarniaghat established.
+
+</details>
+
+**Q21.** With reference to Rajaji, which of the following statements is/are correct?
+
+1. UK — Dehradun–Haridwar–Pauri merge 1983.
+2. Tiger Reserve 2015.
+3. Named after C. Rajagopalachari neighbourhood teaching.
+4. It is UP’s second national park.
+
+A. 1, 2 and 4 only
+B. 1, 2 and 3 only
+C. 2, 3 and 4 only
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** 1, 2 and 3 only.
+
+**Logic:** Rajaji = UK — not UP NP.
+
+</details>
+
+**Q22.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Nagarjunsagar–Srisailam holds the largest critical tiger habitat among common options.
+
+Reason (R): Sathyamangalam TR links Eastern and Western Ghats.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; Sathyamangalam link does not explain NSTR size.
+
+**A/R logic:** Two TR locks.
+
+</details>
+
+**Q23.** How many of the following Andaman marine NP locks are correct?
+
+Mahatma Gandhi Marine; Rani Jhansi Marine (1996)
+
+A. Only one
+B. None
+C. Both
+D. Three including Dudhwa
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both.
+
+**Logic:** Andaman marine pair.
+
+</details>
+
+**Q24.** Which one of the following correctly states first butterfly park teaching?
+
+A. Yellowstone only
+B. Dudhwa only
+C. Hemis only
+D. Bannerghatta (Karnataka)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Bannerghatta.
+
+**Logic:** Butterfly park first.
+
+</details>
+
+**Q25.** With reference to Bandhavgarh / Indravati, which of the following statements is/are correct?
+
+1. Bandhavgarh (Umaria, MP) — white tiger association teaching.
+2. Indravati — Bastar Chhattisgarh NP 1981 / TR 1983.
+3. Both are UP national parks.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Not UP.
+
+</details>
+
+**Q26.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. Govind NP | 1. Kullu HP |
+| B. Great Himalayan NP | 2. Tons source region (UK) |
+| C. Salim Ali NP | 3. Srinagar |
+
+Code:
+
+A. A-1, B-2, C-3
+B. A-2, B-1, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** A-2, B-1, C-3.
+
+**Logic:** Govind/GHNP/Salim Ali.
+
+</details>
+
+**Q27.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): National Parks are in-situ conservation.
+
+Reason (R): Boundary change of an NP needs the State Legislature.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; legislature rule does not define in-situ meaning.
+
+**A/R logic:** In-situ vs boundary rule.
+
+</details>
+
+**Q28.** Arrange UK west→east sanctuary line teaching:
+
+A. Askot → Kedarnath only reversed always
+B. Only Gir → Kaziranga
+C. Kedarnath → Nanda Devi → Binsar → Askot
+D. Only Dudhwa → Corbett east of Assam
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Kedarnath → Nanda Devi → Binsar → Askot.
+
+**Logic:** Musk deer country ends.
+
+</details>
+
+**Q29.** With reference to natural WH overlaps, which of the following statements is/are correct?
+
+1. Include Kaziranga, Keoladeo, Manas, Sundarbans, Nanda Devi–VoF, Western Ghats…
+2. UP has its own natural UNESCO WH site.
+3. WH overlay ≠ automatic NP identity.
+
+A. 1, 2 and 3
+B. 1 and 2 only
+C. 2 and 3 only
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 3.
+
+**Logic:** UP has no natural WH of its own.
+
+</details>
+
+**Q30.** Which one of the following correctly states Valley of Flowers setting?
+
+A. Wholly temperate alpine neighbourhood teaching
+B. Only Rann of Kachchh
+C. Only Gulf of Kutch marine
+D. Only Loktak phumdis
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Temperate alpine.
+
+**Logic:** VoF lock.
 
 </details>
 

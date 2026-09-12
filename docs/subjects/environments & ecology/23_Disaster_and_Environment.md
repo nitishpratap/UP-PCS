@@ -545,486 +545,587 @@ D. Stratosphere above the storm
 
 ---
 
-## Practice Zone
+## Practice Zone — UPPCS Format Drill
 
-**Q1.** Ex-officio Chairman of NDMA is:
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-A. Home Minister
+**Q1.** With reference to environment and disasters, which of the following statements is/are correct?
 
-B. Prime Minister
+1. Degradation raises disaster risk (e.g., deforestation worsens floods/landslides).
+2. Disasters also damage ecosystems.
+3. Deforestation always prevents landslides.
 
-C. Defence Minister
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-D. Health Minister
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: B.** Only 1 and 2.
 
-**Ans: B**
-
-</details>
-
-**Q2.** DPAP was launched in:
-
-A. 1952
-
-B. 1973
-
-C. 1977
-
-D. 1979
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Vegetation loss worsens slides.
 
 </details>
 
-**Q3.** Correct chronological order: CDP, DPAP, FWP, TRYSEM:
+**Q2.** Match List-I with List-II:
 
-A. CDP → DPAP → FWP → TRYSEM
+| List-I | List-II |
+|--------|--------|
+| A. NDMA | 1. Response force |
+| B. NDRF | 2. DM Act 2005; PM chairs |
+| C. Sendai | 3. DRR framework |
 
-B. DPAP → CDP → FWP → TRYSEM
+Code:
 
-C. FWP → CDP → DPAP → TRYSEM
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
 
-D. TRYSEM → CDP → DPAP → FWP
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: C.** A-2, B-1, C-3.
 
-**Ans: A**
-
-</details>
-
-**Q4.** Bundelkhand drought hotspot includes how many UP districts?
-
-A. 3
-
-B. 5
-
-C. 7
-
-D. 12
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
+**Logic:** NDMA/NDRF/Sendai.
 
 </details>
 
-**Q5.** Agricultural drought means:
+**Q3.** Arrange drought ladder:
 
-A. Only river levels low
+A. Hydrological → meteorological → agricultural
+B. No sequence
+C. Agricultural → meteorological only
+D. Meteorological → agricultural → hydrological
 
-B. Soil moisture insufficient for crops
+<details>
+<summary>Show answer</summary>
 
-C. Only urban waterlogging
+**Ans: D.** Met → agri → hydro.
 
-D. Only cyclone rain deficit
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q6.** Strongest winds in a tropical cyclone are in the:
-
-A. Eye
-
-B. Eyewall
-
-C. Outer rain band only
-
-D. Stratosphere
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Standard teaching order.
 
 </details>
 
-**Q7.** India's cyclone nursery is mainly:
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Arabian Sea only
+Assertion (A): DPAP began in 1973.
 
-B. Bay of Bengal
+Reason (R): DPAP began in 1952 as the first Five-Year Plan only.
 
-C. Caspian Sea
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. Red Sea
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: C.** A true, R false.
 
-**Ans: B**
-
-</details>
-
-**Q8.** Storm surge is:
-
-A. Earthquake wave only
-
-B. Sea water pushed onshore by cyclone winds
-
-C. Drought dust storm
-
-D. Glacier melt flood only
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**A/R logic:** DPAP 1973 — not 1952 (CDP trap).
 
 </details>
 
-**Q9.** Mangroves reduce cyclone damage by:
+**Q5.** With reference to cyclones, which of the following statements is/are correct?
 
-A. Increasing wind speed
+1. Need warm seas ~26–27°C.
+2. Bay of Bengal produces more than Arabian Sea.
+3. Eye has the strongest winds; eyewall is calm.
 
-B. Acting as coastal buffer against surge
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. Causing drought
+<details>
+<summary>Show answer</summary>
 
-D. Producing ozone
+**Ans: A.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q10.** Match: Baguios — Philippines; Hurricanes — USA; Typhoons — China; Willy-Willies — Australia. How many pairs correct?
-
-A. 1
-
-B. 2
-
-C. 3
-
-D. 4
-
-<details><summary>Show answer</summary>
-
-**Ans: D**
+**Logic:** Eye calm; eyewall strongest.
 
 </details>
 
-**Q11.** Kedarnath 2013 disaster primarily involved:
+**Q6.** Which of the following pairs is/are correctly matched?
 
-A. Cyclone surge
+1. Fani — 2019
+2. Amphan — 2020
+3. Mangroves — reduce storm-surge damage
 
-B. Cloudburst, landslides, flash floods
+A. 1 and 2 only
+B. 1, 2 and 3
+C. 1 and 3 only
+D. 2 and 3 only
 
-C. Desertification only
+<details>
+<summary>Show answer</summary>
 
-D. Ozone hole
+**Ans: B.** All three.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q12.** Deforestation increases landslide risk because:
-
-A. Roots bind soil — removal weakens slope
-
-B. Trees create earthquakes
-
-C. Forests increase gravity
-
-D. Roots increase rainfall only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Named cyclones + mangroves.
 
 </details>
 
-**Q13.** IMD plains heat wave typically needs:
+**Q7.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. ≥40°C with +4.5°C departure
+Assertion (A): Landslides need gravity, water, weak slopes, and often vegetation loss.
 
-B. Temperature below 20°C
+Reason (R): Kedarnath 2013 is a Himalayan disaster teaching landmark.
 
-C. Only night frost
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. Only coastal humidity
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: A.** Both true; Kedarnath year does not define landslide mechanics.
 
-**Ans: A**
-
-</details>
-
-**Q14.** Urban heat island is caused by:
-
-A. More vegetation in cities
-
-B. Built surfaces retaining heat
-
-C. Decreased population
-
-D. Increased snowfall
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**A/R logic:** Mechanics vs case.
 
 </details>
 
-**Q15.** North India heat-wave peak season is usually:
+**Q8.** With reference to heat waves (plains), which of the following statements is/are correct?
 
-A. December–January
+1. About ≥40°C with departure rules for heat wave teaching.
+2. Severe when departure ≥+6.4°C or temperature ≥47°C teaching.
+3. Heat waves occur only at −10°C.
 
-B. May–June
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
 
-C. Peak monsoon July only
+<details>
+<summary>Show answer</summary>
 
-D. November only
+**Ans: C.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q16.** Piral Lao–Paise Pao campaign is related to:
-
-A. Reducing forest fires and villager income
-
-B. Coral bleaching only
-
-C. Tidal energy
-
-D. Grey hydrogen
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Statement 3 false.
 
 </details>
 
-**Q17.** Piral Lao campaign was launched in:
+**Q9.** Match List-I with List-II:
 
-A. Uttar Pradesh
+| List-I | List-II |
+|--------|--------|
+| A. Forest fire season | 1. UK pine-needle scheme |
+| B. Chir pine needles | 2. Roughly Mar–Jun peak |
+| C. Piral Lao–Paise Pao | 3. Himalayan fuel fact |
 
-B. Uttarakhand
+Code:
 
-C. Kerala
+A. A-3, B-1, C-2
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-2, B-3, C-1
 
-D. Rajasthan
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: D.** A-2, B-3, C-1.
 
-**Ans: B**
-
-</details>
-
-**Q18.** Chir pine needle accumulation mainly worsens:
-
-A. Forest fires
-
-B. Coral bleaching
-
-C. Tidal range
-
-D. Ozone hole
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Season/fuel/UK scheme.
 
 </details>
 
-**Q19.** Sendai Framework (2015) relates to:
+**Q10.** Arrange NDMA Chair lock:
+
+A. Prime Minister
+B. Chief Justice of India only
+C. UNEP Executive Director only
+D. State Forest Officer only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Prime Minister.
+
+**Logic:** Recurring institution fact.
+
+</details>
+
+**Q11.** With reference to floods, which of the following statements is/are correct?
+
+1. Riverine floods on Ganga plains.
+2. Flash floods/cloudbursts in Himalaya–Terai.
+3. Urban waterlogging is never a flood type.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Urban waterlogging is taught.
+
+</details>
+
+**Q12.** Which of the following pairs is/are NOT correctly matched?
+
+1. Eye — calm core
+2. Eyewall — strongest winds
+3. Eye — strongest winds always
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only pair 3 is not correctly matched.
+
+**Logic:** Eye ≠ strongest.
+
+</details>
+
+**Q13.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): FSI issues satellite-based forest-fire alerts teaching.
+
+Reason (R): Forest fires need fuel, oxygen, and ignition.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; fire triangle does not explain FSI’s alert role specifically.
+
+**A/R logic:** Institution vs chemistry.
+
+</details>
+
+**Q14.** With reference to Bundelkhand, which of the following statements is/are correct?
+
+1. Drought–degradation hotspot including seven UP districts teaching.
+2. Links meteorological to agricultural stress.
+3. Bundelkhand is a coastal cyclone capital of India.
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Not coastal cyclone capital.
+
+</details>
+
+**Q15.** How many of the following landslide belts are core teaching?
+
+Himalaya, north-eastern hills, deep ocean abyssal plain as primary Indian landslide belt
+
+A. Only two
+B. Only one
+C. All three
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only two.
+
+**Logic:** Abyssal plain not the Indian landslide belt.
+
+</details>
+
+**Q16.** Arrange programme spine teaching trap:
+
+A. DPAP 1952 → CDP 1973
+B. CDP 1952 → DPAP 1973 → …
+C. Both identical 2015
+D. Both identical 2005 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** CDP 1952 → DPAP 1973.
+
+**Logic:** Year traps.
+
+</details>
+
+**Q17.** With reference to Sendai Framework, which of the following statements is/are correct?
+
+1. Disaster risk reduction framework.
+2. Sits with NDMA/DM Act neighbourhood teaching.
+3. Identical to Montreal Protocol ODS list.
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Not Montreal.
+
+</details>
+
+**Q18.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Mangroves reduce storm-surge damage.
+
+Reason (R): Coastal vegetation can buffer surge energy.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R explains A.
+
+**A/R logic:** Buffering mechanism.
+
+</details>
+
+**Q19.** Which one of the following correctly states NDRF?
+
+A. National Dobson Radiation Force
+B. National Desert Research Forest
+C. National Dairy Reform Fund
+D. National Disaster Response Force
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Response force.
+
+**Logic:** NDRF expansion.
+
+</details>
+
+**Q20.** With reference to cloudbursts, which of the following statements is/are correct?
+
+1. Linked to Himalaya–Terai flash floods teaching.
+2. Can worsen with steep slopes and debris.
+3. Occur only in Thar as the sole Indian setting.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Not Thar-only.
+
+</details>
+
+**Q21.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. Meteorological drought | 1. Rivers/wells |
+| B. Agricultural drought | 2. Low rain |
+| C. Hydrological drought | 3. Soil moisture |
+
+Code:
+
+A. A-1, B-2, C-3
+B. A-2, B-3, C-1
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** A-2, B-3, C-1.
+
+**Logic:** Rain/soil/rivers.
+
+</details>
+
+**Q22.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Landslides are not “purely natural” when options ignore slope cutting and deforestation.
+
+Reason (R): Human slope modification can raise landslide risk.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R explains A.
+
+**A/R logic:** Anthropogenic trigger.
+
+</details>
+
+**Q23.** How many of the following cyclone locks are correct?
+
+Warm sea ~26–27°C; BoB > Arabian Sea; mangroves buffer surge
+
+A. Only one
+B. Only two
+C. All three
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All three.
+
+**Logic:** Cyclone trio.
+
+</details>
+
+**Q24.** With reference to Piral Lao–Paise Pao, which of the following statements is/are correct?
+
+1. Uttarakhand pine-needle collection scheme teaching.
+2. Cuts fire risk and raises income teaching.
+3. It is a Delhi NCR metro statute only.
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** UK flagship — not Delhi metro.
+
+</details>
+
+**Q25.** Arrange fire triangle:
+
+A. Fuel + oxygen + ignition
+B. Only ignition
+C. Only argon
+D. Only nitrogen
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Fuel, oxygen, ignition.
+
+**Logic:** Fire needs all three.
+
+</details>
+
+**Q26.** Which of the following pairs is/are correctly matched?
+
+1. DM Act — 2005
+2. NDMA Chair — PM
+3. NDRF — grants Environmental Clearance Category A
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** NDRF ≠ EC granter.
+
+</details>
+
+**Q27.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Urban waterlogging is a flood-related teaching type.
+
+Reason (R): Poor drainage and intense rain interact in cities.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R explains A.
+
+**A/R logic:** Urban flood mechanism.
+
+</details>
+
+**Q28.** With reference to Ganga plains floods, which of the following statements is/are correct?
+
+1. Riverine floods are classic.
+2. Link to monsoon discharge.
+3. Ganga plains never flood in any year in teaching.
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Statement 3 false.
+
+</details>
+
+**Q29.** Arrange eyewall vs eye:
+
+A. Eyewall calm; eye violent
+B. Neither exists
+C. Both identical always
+D. Eye calm; eyewall violent
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Eye calm; eyewall violent.
+
+**Logic:** Classic trap.
+
+</details>
+
+**Q30.** Which one of the following correctly states Sendai’s theme neighbourhood?
 
 A. Disaster risk reduction
+B. Ozone ODS phase-out only
+C. Eighth Schedule languages only
+D. GST Council only
 
-B. Ozone protection
+<details>
+<summary>Show answer</summary>
 
-C. Wildlife trade
+**Ans: A.** DRR framework.
 
-D. Carbon trading only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q20.** Which UP region is most associated with chronic drought?
-
-A. Terai
-
-B. Bundelkhand
-
-C. Sundarbans
-
-D. Nicobar
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q21.** Flash floods in mountains are commonly triggered by:
-
-A. Cloudburst
-
-B. Desert sandstorm only
-
-C. Ozone depletion
-
-D. Coral mining
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q22.** Consider: (1) NDMA Chair is PM. (2) India is a disaster-free country.
-
-A. Only 1
-
-B. Only 2
-
-C. Both
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q23.** Formation of tropical cyclone needs sea surface roughly:
-
-A. ≥26–27°C
-
-B. Below 10°C
-
-C. Frozen sea only
-
-D. No temperature role
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q24.** Crown fire means fire in:
-
-A. Tree canopy
-
-B. Only soil organic matter
-
-C. Only ocean algae
-
-D. Only urban drains
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q25.** FSI monitors forest fires mainly using:
-
-A. Satellite data
-
-B. Only ground census of birds
-
-C. Tidal gauges
-
-D. Ozone sondes only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q26.** Natural flood-control mechanism includes:
-
-A. Wetland and floodplain absorption
-
-B. Floodplain encroachment
-
-C. Deforestation
-
-D. River channel mining
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q27.** Community Development Programme year:
-
-A. 1952
-
-B. 1973
-
-C. 1977
-
-D. 1979
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q28.** Heat wave and urban heat island:
-
-A. Same phenomenon
-
-B. Different — regional weather vs city microclimate
-
-C. Both are cyclones
-
-D. Both are droughts
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q29.** Landslides are most frequent in:
-
-A. Himalaya and NE hills
-
-B. Thar desert flats
-
-C. Lakshadweep atolls
-
-D. Gangetic delta only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q30.** Assertion (A): Mangroves reduce cyclone impact.
-Reason (R): They act as coastal buffers against wind and storm surge.
-
-A. Both true; R explains A
-
-B. Both true; R does not explain A
-
-C. A true, R false
-
-D. Both false
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Sendai identity.
 
 </details>
 

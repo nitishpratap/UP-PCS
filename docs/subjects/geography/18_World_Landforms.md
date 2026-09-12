@@ -5843,1326 +5843,675 @@ D. Pampas
 
 ---
 
-## Practice Zone — UPPCS Format Questions
+## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden** — click **Show answer** under each question to reveal.
-> **Format mix:** 60 questions — Match List | multi-statement | Assertion–Reason | NOT correctly matched | direct recall (PYQ + standard gaps)
+> **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D
 
-**Q1.** Match List-I with List-II and select the correct answer using the codes given below the lists:
+**Q1.** With reference to continent area order (largest → smallest), which of the following statements is/are correct?
 
-| List-I (Country pair / country) | List-II (Mountain) |
-|---------------------------------|--------------------|
-| A. Spain–France | 1. Alps |
-| B. Switzerland | 2. Apennine |
-| C. Bulgaria | 3. Pyrenees |
-| D. Italy | 4. Balkan |
+1. Asia is the largest continent by area.
+2. Australia is the smallest continent.
+3. Africa has the largest number of countries (~54).
 
-**Options:**
+Select the correct answer from the code given below:
 
-A. 3 1 2 4
-
-B. 3 1 4 2
-
-C. 2 3 1 4
-
-D. 4 1 2 3
+A. 1 and 2 only
+B. 1, 2 and 3
+C. 1 and 3 only
+D. 2 and 3 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B.** All three are correct.
+
+**Logic:** Area ladder: Asia → Africa → N. America → S. America → Antarctica → Europe → Australia.
 
 </details>
 
----
+**Q2.** Consider the following pairs:
 
-**Q2.** Which of the following volcanoes is **not** located in the Pacific Ring of Fire?
+| Feature | Association |
+|---------|-------------|
+| 1. Highest mean elevation | Antarctica |
+| 2. Highest share of plains | Europe |
+| 3. Guyana | Africa |
 
-**Options:**
+Which of the pairs given above is/are correctly matched?
 
-A. Mount Fuji
-
-B. Mount Pinatubo
-
-C. Mount Kilimanjaro
-
-D. Mount St. Helens
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — East African Rift.
+**Ans: C.** Only 1 and 2 are correctly matched.
+
+**Logic:** Guyana is in South America, not Africa.
 
 </details>
 
----
+**Q3.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Q3.** With reference to Borneo Island, which of the following statements is/are true?
+Assertion (A): The Andes are the world’s longest fold mountain chain.
 
-1. It is divided among three countries.
-2. It has been formed due to volcanic deposition.
+Reason (R): The Himalaya are the world’s highest mountain chain.
 
-**Options:**
+Select the correct answer from the code given below:
 
-A. Neither 1 nor 2
-
-B. Both 1 and 2
-
-C. Only 2
-
-D. Only 1
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: A.** Both true; R does not explain A.
+
+**A/R logic:** Longest and highest are separate records — do not swap Andes/Himalaya labels.
 
 </details>
 
----
+**Q4.** Match List-I with List-II and select the correct answer using the code given below the lists:
 
-**Q4.** The Gobi Desert extends into which of the following countries?
+| List-I (Range / peak) | List-II (Location) |
+|------------------------|--------------------|
+| A. Pyrenees | 1. Italy |
+| B. Apennine | 2. Spain–France |
+| C. Toubkal | 3. Morocco (Atlas) |
+| D. Kilimanjaro | 4. Tanzania (E African Rift) |
 
-1. Mongolia 2. China 3. Russia 4. Kazakhstan
+Code:
 
-**Options:**
-
-A. Only 1 and 2
-
-B. Only 1, 2 and 4
-
-C. Only 1, 2 and 3
-
-D. Only 1
+A. A-1, B-2, C-4, D-3
+B. A-2, B-1, C-3, D-4
+C. A-2, B-3, C-1, D-4
+D. A-4, B-1, C-3, D-2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Pyrenees Spain–France; Apennine Italy; Toubkal Morocco; Kilimanjaro Tanzania.
+
+**Logic:** Do not park the Alps on the Spain–France border MCQ or put Kilimanjaro in the Pacific Ring of Fire.
 
 </details>
 
----
+**Q5.** Arrange the following mountain chains by length (longest → shorter) among the usual teaching set:
 
-**Q5.** Consider the following deserts and arrange them in **increasing** order of size:
+1. Rockies
+2. Andes
+3. Himalaya
+4. Great Dividing Range
 
-(I) Great Sandy Desert (II) Arabian Desert (III) Sahara Desert (IV) Gobi Desert
+Select the correct answer from the code given below:
 
-**Options:**
-
-A. I, II, IV, III
-
-B. II, I, III, IV
-
-C. I, IV, II, III
-
-D. II, I, IV, III
+A. 1-2-4-3
+B. 2-1-3-4
+C. 2-1-4-3
+D. 2-4-1-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Great Sandy < Gobi < Arabian < Sahara.
+**Ans: C.** Andes > Rockies > Great Dividing Range > Himalaya.
+
+**Logic:** Himalaya are highest, not longest.
 
 </details>
 
----
+**Q6.** Which of the following pairs is/are **NOT** correctly matched?
 
-**Q6.** Match List-I with List-II:
+1. Pamir — ‘Roof of the world’
+2. Tibet — highest large plateau
+3. Colorado Plateau — lava plateau; Columbia Plateau — Grand Canyon
 
-| List-I (Mountain) | List-II (Country) |
-|-------------------|-------------------|
-| A. Kilimanjaro | 1. Morocco |
-| B. Toubkal | 2. Algeria |
-| C. Stanley | 3. Tanzania |
-| D. Hoggar | 4. Uganda |
+Select the correct answer from the code given below:
 
-**Options:**
-
-A. A-4, B-3, C-2, D-1
-
-B. A-3, B-1, C-4, D-2
-
-C. A-3, B-4, C-1, D-2
-
-D. A-4, B-2, C-3, D-1
+A. 1 only
+B. 3 only
+C. 1 and 2 only
+D. 2 and 3 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B.** Only pair 3 is not correctly matched.
+
+**Logic:** Colorado Plateau holds the Grand Canyon; Columbia is the lava plateau — the stem swaps them.
 
 </details>
 
----
+**Q7.** With reference to grasslands, which of the following statements is/are correct?
 
-**Q7.** Match List-I with List-II:
+1. Pampas = Argentina; Campos = Brazil; Llanos = Venezuela–Colombia.
+2. Prairie = North America; Steppe = Eurasia; Veld = South Africa; Downs = Australia.
+3. Puszta is associated with Hungary.
 
-| List-I (Vegetation) | List-II (Region) |
-|---------------------|------------------|
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are correct.
+
+**Logic:** Do not dump Pampas into Brazil or Veld into Australia.
+
+</details>
+
+**Q8.** Consider the following statements about deserts:
+
+1. Hot-desert size order includes Great Sandy < Gobi < Arabian < Sahara.
+2. The Gobi is a cold desert of Mongolia and China.
+3. The Atacama is among the driest deserts; the Thar is the densest populated desert.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are correct.
+
+**Logic:** Do not place the Gobi in Kazakhstan/Russia as a sole-country dump.
+
+</details>
+
+**Q9.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Hot deserts favour west coasts near about 15–30° latitude.
+
+Reason (R): Subtropical highs plus cold ocean currents strengthen aridity on those coasts.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R explains A.
+
+**A/R logic:** West-coast desert belt is a classic Horse Latitudes + cold-current combination.
+
+</details>
+
+**Q10.** Match List-I with List-II and select the correct answer using the code given below the lists:
+
+| List-I (Scrub / biome tag) | List-II (Region) |
+|-----------------------------|------------------|
 | A. Maquis | 1. California |
-| B. Fynbos | 2. Mediterranean Sea coastal region |
-| C. Chaparral | 3. South Africa |
-| D. Matorral | 4. Chile |
+| B. Chaparral | 2. Mediterranean basin |
+| C. Fynbos | 3. Chile |
+| D. Matorral | 4. South Africa |
 
-**Options:**
+Code:
 
-A. 2 3 1 4
-
-B. 4 3 2 1
-
-C. 3 4 1 2
-
-D. 4 2 3 1
+A. A-2, B-4, C-1, D-3
+B. A-1, B-2, C-3, D-4
+C. A-2, B-1, C-4, D-3
+D. A-4, B-1, C-2, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: C.** Maquis–Med; Chaparral–California; Fynbos–South Africa; Matorral–Chile.
+
+**Logic:** Same sclerophyll idea, different west-coast names — do not swap Fynbos/Matorral.
 
 </details>
 
----
+**Q11.** With reference to island size ranking, which of the following statements is/are correct?
 
-**Q8.** Match List-I with List-II:
+1. Greenland is the largest island; Australia is treated as a continent, not in that island list.
+2. New Guinea ranks after Greenland among islands.
+3. Honshu is Japan’s largest island.
 
-| List-I | List-II |
-|--------|---------|
-| A. Epiphytes | 1. Mediterranean |
-| B. Acacia | 2. Equatorial |
-| C. Baobab | 3. Sahara |
-| D. Cedars | 4. Savanna |
-
-**Options:**
-
-A. 2 3 4 1
-
-B. 2 3 1 4
-
-C. 2 4 3 1
-
-D. 2 4 1 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q9.** Which one of the following natural regions is known as “Land of Big Games”?
-
-**Options:**
-
-A. Temperate Grassland
-
-B. Tropical Monsoon Region
-
-C. Hot Desert Region
-
-D. Tropical Savanna Region
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q10.** Pampas grasslands are situated in:
-
-**Options:**
-
-A. Argentina
-
-B. Brazil
-
-C. Chile
-
-D. Ecuador
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q11.** Which pair is **NOT** correctly matched? (Desert — Country)
-
-**Options:**
-
-A. Sonoran – USA
-
-B. Taklamakan – China
-
-C. Karakum – Turkmenistan
-
-D. Gibson – Brazil
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Gibson = Australia.
-
-</details>
-
----
-
-**Q12.** Consider the following statements with reference to Mediterranean climate:
-
-1. It receives rainfall in winter season.
-2. Due to winter solstice, air pressure belts shift to the south.
-
-**Options:**
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Only 1
-
-D. Both 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q13.** Assertion (A): Rainfall occurs in the winter season in Mediterranean climate.
-
-Reason (R): In summer these regions remain under the influence of dry terrestrial winds.
-
-**Options:**
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Summer subtropical high / dry land winds keep rain for the winter westerlies.
-
-</details>
-
----
-
-**Q14.** Match List-I with List-II:
-
-| List-I (Volcano) | List-II (Country) |
-|------------------|-------------------|
-| A. Mount Rainier | 1. Italy |
-| B. Mount Etna | 2. Mexico |
-| C. Mount Paricutin | 3. Philippines |
-| D. Mount Apo | 4. U.S.A. |
-
-**Options:**
-
-A. 4 2 1 3
-
-B. 4 1 2 3
-
-C. 2 1 4 3
-
-D. 4 3 2 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q15.** Match List-I with List-II:
-
-| List-I (Mountain) | List-II (Country) |
-|-------------------|-------------------|
-| A. Atlas | 1. France/Spain |
-| B. Kilimanjaro | 2. Ecuador |
-| C. Chimborazo | 3. Tanzania |
-| D. Pyrenees | 4. Morocco |
-
-**Options:**
-
-A. 4 3 2 1
-
-B. 4 1 2 3
-
-C. 2 3 4 1
-
-D. 1 3 4 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q16.** With reference to Brazil, which of the following statements is/are correct?
-
-1. The equatorial rainforests of Brazil are called “Selva”.
-2. The fertile dark-coloured soil found there is known as “Terra Roxa”.
-
-**Options:**
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q17.** Match List-I with List-II:
-
-| List-I | List-II |
-|--------|---------|
-| A. Planting Hearth | 1. Hungary |
-| B. Cryophyte Steppe | 2. Adolf Engler |
-| C. World Floral Regions | 3. C.O. Sauer |
-| D. Puszta Grassland | 4. Arctic Tundra |
-
-**Options:**
-
-A. 3 4 2 1
-
-B. 2 1 4 3
-
-C. 3 4 1 2
-
-D. 2 3 4 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q18.** In which of the following regions of the world is the production of citrus fruits well developed?
-
-**Options:**
-
-A. Between Kangra and Dhauladhar
-
-B. Between Pir Panjal and Himadri
-
-C. Mediterranean regions
-
-D. Equatorial regions
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Winter rain + bright summer. Equatorial is too wet/cloudy.
-
-</details>
-
----
-
-**Q19.** Which of the following statements is/are correct?
-
-1. The Andes are the longest fold mountain chain.
-2. The Himalaya contain the world’s highest peaks.
-
-**Options:**
-
-A. 1 only
-
-B. 2 only
-
-C. Both 1 and 2
-
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q20.** Which one of the following is **NOT** correctly matched?
-
-**Options:**
-
-A. Prairie – North America
-
-B. Veld – South Africa
-
-C. Downs – Australia
-
-D. Pampas – Brazil
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Pampas = Argentina; Brazil = Campos.
-
-</details>
-
----
-
-**Q21.** Assertion (A): Kilimanjaro is not a Pacific Ring of Fire volcano.
-
-Reason (R): It stands on the East African Rift.
-
-**Options:**
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q22.** Which of the following statements is/are correct about the Gobi?
-
-1. It is a cold desert.
-2. It extends into Kazakhstan.
-
-**Options:**
-
-A. 1 only
-
-B. 2 only
-
-C. Both
-
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q23.** Match List-I with List-II:
-
-| List-I (Grassland) | List-II (Country / region) |
-|--------------------|----------------------------|
-| A. Pampas | 1. Hungary |
-| B. Puszta | 2. Argentina |
-| C. Campos | 3. Venezuela–Colombia |
-| D. Llanos | 4. Brazil |
-
-**Options:**
-
-A. 2 1 4 3
-
-B. 2 4 1 3
-
-C. 4 1 2 3
-
-D. 2 1 3 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q24.** Which one is **NOT** a Mediterranean-type west-coast shrub name?
-
-**Options:**
-
-A. Maquis
-
-B. Chaparral
-
-C. Fynbos
-
-D. Selva
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Selva = equatorial rainforest.
-
-</details>
-
----
-
-**Q25.** Arrange the islands in decreasing order of area:
-
-1. Borneo 2. Greenland 3. Madagascar 4. New Guinea
-
-**Options:**
-
-A. 2, 4, 1, 3
-
-B. 2, 1, 4, 3
-
-C. 4, 2, 1, 3
-
-D. 2, 4, 3, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Greenland > New Guinea > Borneo > Madagascar.
-
-</details>
-
----
-
-**Q26.** Which plateau is called the “Roof of the World”?
-
-**Options:**
-
-A. Tibet
-
-B. Pamir
-
-C. Altiplano
-
-D. Colorado
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Tibet is the highest *large* plateau; the stock phrase is Pamir.
-
-</details>
-
----
-
-**Q27.** Consider the following statements:
-
-1. Taiga is a treeless cold biome.
-2. Tundra vegetation is mainly moss, lichen and dwarf shrub.
-
-**Options:**
-
-A. 1 only
-
-B. 2 only
-
-C. Both
-
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Taiga = conifer **forest**.
-
-</details>
-
----
-
-**Q28.** The Urals are important in map questions because they:
-
-**Options:**
-
-A. Separate Africa from Asia
-
-B. Form the conventional Europe–Asia divide
-
-C. Are the highest range on Earth
-
-D. Lie entirely in China
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q29.** Which pair is **NOT** correctly matched?
-
-**Options:**
-
-A. Atacama – Chile
-
-B. Kalahari – southern Africa
-
-C. Namib – Namibia coast
-
-D. Karakum – Brazil
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Karakum = Turkmenistan.
-
-</details>
-
----
-
-**Q30.** Mediterranean climate is typically found on:
-
-**Options:**
-
-A. East coasts 10–20°
-
-B. West coasts about 30–45°
-
-C. Equatorial west coasts
-
-D. Polar east coasts
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q31.** How many of the following are correctly matched?
-
-1. Meseta – Spain
-2. Altiplano – Bolivia–Peru
-3. Deccan – Brazil
-
-**Options:**
-
-A. Only one
-
-B. Only two
-
-C. All three
-
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Deccan is India.
-
-</details>
-
----
-
-**Q32.** Assertion (A): Savanna regions are called the Land of Big Games.
-
-Reason (R): They are hot deserts with no trees.
-
-**Options:**
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Savanna is tropical **grassland** with scattered trees, not a desert.
-
-</details>
-
----
-
-**Q33.** Mount Etna is in:
-
-**Options:**
-
-A. Japan
-
-B. USA
-
-C. Italy
-
-D. Mexico
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Mediterranean arm, not Ring of Fire.
-
-</details>
-
----
-
-**Q34.** Which of the following statements is/are correct?
-
-1. Chaparral is the California name for Mediterranean-type shrub.
-2. Fynbos is the Chilean name for the same belt.
-
-**Options:**
-
-A. 1 only
-
-B. 2 only
-
-C. Both
-
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Chile = **Matorral**; Fynbos = South Africa.
-
-</details>
-
----
-
-**Q35.** The Great Sandy Desert is in:
-
-**Options:**
-
-A. Sahara fringe
-
-B. Mongolia
-
-C. Australia
-
-D. USA
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q36.** Match List-I with List-II:
-
-| List-I (Plateau) | List-II (Location) |
-|------------------|--------------------|
-| A. Colorado | 1. Spain |
-| B. Meseta | 2. USA |
-| C. Brazilian | 3. Bolivia–Peru |
-| D. Altiplano | 4. South America (Brazil) |
-
-**Options:**
-
-A. 2 1 4 3
-
-B. 2 4 1 3
-
-C. 1 2 4 3
-
-D. 2 1 3 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q37.** Which one of the following is a **cold** desert?
-
-**Options:**
-
-A. Sahara
-
-B. Arabian
-
-C. Gobi
-
-D. Great Sandy
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q38.** Consider the following statements:
-
-1. Iceland lies on the Mid-Atlantic Ridge and is volcanic.
-2. Borneo is a similar Mid-Atlantic volcanic island.
-
-**Options:**
-
-A. 1 only
-
-B. 2 only
-
-C. Both
-
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q39.** Which grassland is **NOT** correctly matched?
-
-**Options:**
-
-A. Prairie – USA/Canada
-
-B. Veld – South Africa
-
-C. Downs – Australia
-
-D. Steppe – Argentina
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Steppe = Eurasia; Argentina = Pampas.
-
-</details>
-
----
-
-**Q40.** Assertion (A): Citrus cultivation is well developed in Mediterranean regions.
-
-Reason (R): These regions receive heavy convectional rain throughout the year like the Amazon.
-
-**Options:**
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Bright dry summer + winter rain, not equatorial wetness.
-
-</details>
-
----
-
-
-**Q41.** Hot deserts on the western margins of continents are best explained by:
-
-A. Only warm western boundary currents
-
-B. Subtropical high (Horse Latitudes) plus cold ocean currents that suppress rain
-
-C. Only equatorial low pressure all year
-
-D. Only monsoon summer rain
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q42.** Chernozem (black earth) is classically associated with:
-
-A. Equatorial selva soils only
-
-B. Temperate grassland / steppe–prairie belts
-
-C. Only Mediterranean maquis
-
-D. Only tundra permafrost
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q43.** Which mountain family best fits the Appalachians in the usual classification?
-
-A. Young volcanic cone like Fuji
-
-B. Old worn **fold** / residual highland
-
-C. Mid-ocean ridge only
-
-D. Pure ice-sheet nunatak only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q44.** Assertion (A): The Pamir Knot is often called the “Roof of the world.”
-Reason (R): The Tibetan Plateau is the highest *large* plateau on Earth.
-
-A. Both A and R are true and R explains A
-
-B. Both A and R are true but R does not explain A
-
-C. A is true but R is false
-
-D. A is false but R is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Both facts are true; they are parallel identity lines, not one explaining the other.
-</details>
-
----
-
-**Q45.** Which pair is correctly matched?
-
-A. Downs — Argentina
-
-B. Puszta — Hungary
-
-C. Campos — USA
-
-D. Prairie — Brazil
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q46.** The driest desert in the usual Prelims fact is:
-
-A. Gobi
-
-B. Great Sandy
-
-C. Atacama
-
-D. Thar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Atacama (Chile), cold-current fog coast.
-</details>
-
----
-
-**Q47.** Which of the following is/are correctly matched?
-
-1. Fold mountains — Himalaya, Andes, Alps
-2. Block / rift — Vosges, East African Rift peaks
-3. Residual — young Himalaya still rising only
+Select the correct answer from the code given below:
 
 A. 1 and 2 only
-
 B. 2 and 3 only
-
 C. 1 and 3 only
-
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Residual = worn leftovers of old highlands, not the rising Himalaya.
+**Ans: D.** All three are correct.
+
+**Logic:** Do not rank Australia as an island in the Greenland–New Guinea ladder.
+
 </details>
 
----
+**Q12.** Which of the following pairs is/are correctly matched?
 
-**Q48.** Temperate grasslands are treeless mainly because:
+1. Gibson Desert — Australia
+2. Sonoran Desert — USA
+3. Taklamakan — China
+4. Karakum — Turkmenistan
 
-A. Rainfall is usually too low to support forest
+Select the correct answer from the code given below:
 
-B. They lie only under permanent ice
-
-C. They receive equatorial convection every day
-
-D. They are always above 8,000 m
+A. 1, 2 and 3 only
+B. 2, 3 and 4 only
+C. 1, 3 and 4 only
+D. 1, 2, 3 and 4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: D.** All four pairs are correct.
+
+**Logic:** Gibson–Brazil is a frequent wrong dump.
+
 </details>
 
----
+**Q13.** With reference to Mediterranean climate, which of the following statements is/are correct?
 
-**Q49.** Colorado Plateau and Columbia Plateau differ because:
+1. Rain falls mainly in winter on five west coasts near about 30–45°.
+2. Summers are dry under the subtropical high.
+3. ‘Land of Big Games’ points to Mediterranean scrub rather than savanna.
 
-A. Both are only lava plateaus
+Select the correct answer from the code given below:
 
-B. Colorado is famous for Grand Canyon dissection; Columbia is a classic lava plateau
-
-C. Both lie only in China
-
-D. Both are Mediterranean scrub names
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q50.** Which statement about world deserts is/are correct?
-
-1. Sahara is the largest hot desert.
-2. Gobi is a cold desert of Mongolia and China.
-3. Gibson Desert is in Brazil.
-
-A. 1 and 2 only
-
-B. 2 and 3 only
-
+A. 2 and 3 only
+B. 1 and 2 only
 C. 1 and 3 only
-
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Gibson = **Australia**.
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** ‘Land of Big Games’ = tropical savanna, not Mediterranean scrub.
+
 </details>
 
----
+**Q14.** Arrange the following vegetation/climate tags from warmer/wetter teaching pair to cold treeless:
 
-**Q51.** Canterbury Downs are associated with:
+1. Tundra (ET)
+2. Equatorial forest with epiphytes
+3. Taiga (boreal conifer)
+4. Savanna (Aw) with baobab
 
-A. Hungary
+Select the most coherent teaching order from equatorial → savanna → boreal → tundra:
 
-B. New Zealand
-
-C. Venezuela
-
-D. Morocco
+A. 2-4-3-1
+B. 2-3-4-1
+C. 4-2-3-1
+D. 2-4-1-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: A.** Equatorial forest → savanna → taiga → tundra.
+
+**Logic:** Taiga = conifer forest; tundra = treeless — do not reverse them.
+
 </details>
 
----
+**Q15.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Q52.** Which peak is the highest outside Asia in the standard fact?
+Assertion (A): Kilimanjaro sits on the East African Rift.
 
-A. Mont Blanc
+Reason (R): Kilimanjaro is a classic Pacific Ring of Fire volcano like Fuji.
 
-B. Kilimanjaro
+Select the correct answer from the code given below:
 
-C. Aconcagua
-
-D. Elbrus
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Andes / Argentina.
+**Ans: C.** (A) is true, but (R) is false.
+
+**A/R logic:** Rift-volcano identity is correct; Ring of Fire placement is the trap.
+
 </details>
 
----
+**Q16.** Which of the following pairs is/are **NOT** correctly matched?
 
-**Q53.** Sahel is best described as:
+1. Sierra Nevada — young fold mountain like the Alps
+2. Appalachians — Caledonian / old fold belt
+3. Death Valley — rift setting with extreme heat in California
 
-A. The core of the Amazon selva
+Select the correct answer from the code given below:
 
-B. The semi-arid fringe south of the Sahara
-
-C. The Hungarian puszta
-
-D. The Pamir knot
+A. 1 only
+B. 2 only
+C. 1 and 3 only
+D. 2 and 3 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: A.** Only pair 1 is not correctly matched.
+
+**Logic:** Sierra Nevada is taught as a block mountain, not a young fold twin of Alps/Rockies/Himalaya.
+
 </details>
 
----
+**Q17.** With reference to Brazil’s regional tags, which of the following statements is/are correct?
 
-**Q54.** Which volcano belt includes Etna and Vesuvius?
+1. Selva refers to the Amazon rainforest.
+2. Terra Roxa is the famous coffee soil.
+3. Campos grassland is associated with Brazil.
 
-A. Circum-Pacific Ring of Fire only
+Select the correct answer from the code given below:
 
-B. Mid-Atlantic ridge only
-
-C. Alpine–Himalayan / Mediterranean belt
-
-D. Hawaiian hot-spot only
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: D.** All three are correct.
+
+**Logic:** Do not treat Selva as a grassland name.
+
 </details>
 
----
+**Q18.** Match List-I with List-II and select the correct answer using the code given below the lists:
 
-**Q55.** Assertion (A): Atacama is among the driest deserts on Earth.
-Reason (R): A cold ocean current and subtropical high suppress rainfall on Chile’s west coast.
+| List-I (Peak) | List-II (Continent / region) |
+|----------------|------------------------------|
+| A. Elbrus | 1. Australia mainland |
+| B. Denali / McKinley | 2. Europe (Caucasus) |
+| C. Kosciuszko | 3. North America |
+| D. Aconcagua | 4. Andes (Argentina) |
 
-A. Both A and R are true and R explains A
+Code:
 
-B. Both A and R are true but R does not explain A
-
-C. A is true but R is false
-
-D. A is false but R is true
+A. A-2, B-3, C-1, D-4
+B. A-3, B-2, C-1, D-4
+C. A-2, B-1, C-3, D-4
+D. A-4, B-3, C-1, D-2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: A.** Elbrus–Europe; Denali–N America; Kosciuszko–Australia; Aconcagua–Andes Argentina.
+
+**Logic:** Cook/Aoraki is New Zealand, not Australia mainland.
+
 </details>
 
----
+**Q19.** Consider the following statements:
 
-**Q56.** Which plateau is correctly matched?
+1. Borneo is shared by three countries and is not a volcanic-arc dump like Java/Sumatra.
+2. Telegraphic Plateau sits on the North Atlantic Ridge.
+3. Faroe Islands are nicknamed the Sheep Islands (Denmark).
 
-A. Meseta — Spain
+Which of the statements given above is/are correct?
 
-B. Altiplano — Australia
-
-C. Deccan — Brazil
-
-D. Pamir — Argentina
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: D.** All three are correct.
+
+**Logic:** Do not dump Telegraphic Plateau into the Indian Ocean.
+
 </details>
 
----
+**Q20.** With reference to temperate grasslands and soils, which of the following statements is/are correct?
 
-**Q57.** “Land of Big Games” is:
+1. Prairie, Steppe, Pampas, Veld and Downs sit on chernozem-type wheat soils.
+2. Chernozem is the typical equatorial laterite of the Amazon.
+3. Residual mountains are worn leftovers of old folds, not young Himalayan folds.
 
-A. Temperate prairie of Canada only
+Select the correct answer from the code given below:
 
-B. Tropical savanna
-
-C. Hot desert Sahara only
-
-D. Tundra of Siberia only
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: C.** Only 1 and 3 are correct.
+
+**Logic:** Chernozem belongs with temperate grassland belts, not equatorial laterite.
+
 </details>
 
----
+**Q21.** Which one of the following is correctly matched?
 
-**Q58.** Which island ranking is correct?
-
-A. New Guinea > Greenland > Borneo
-
-B. Greenland > New Guinea > Borneo
-
-C. Borneo > Greenland > Madagascar
-
-D. Australia > Greenland as the largest island
+A. Hoggar — Algeria
+B. Atlas high peak Toubkal — Spain
+C. Stanley / Rwenzori — Morocco
+D. Darling Range — eastern Australia only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Australia is a **continent**, not ranked as the largest island.
+**Ans: A.** Hoggar is in Algeria.
+
+**Logic:** Toubkal = Morocco; Rwenzori = Uganda; Darling Range = SW Australia.
+
 </details>
 
----
+**Q22.** With reference to volcano pairs, which of the following is/are correctly matched?
 
-**Q59.** Foehn winds on the Alps are warm downslope winds typically discussed for the:
+1. Etna — Italy
+2. Paricutin — Mexico
+3. Apo — Philippines
+4. Rainier — USA
 
-A. Southern ocean only
+Select the correct answer from the code given below:
 
-B. North side of the Alps
-
-C. Only Amazon basin
-
-D. Only Gobi desert
+A. 1, 2 and 3 only
+B. 1, 3 and 4 only
+C. 2, 3 and 4 only
+D. 1, 2, 3 and 4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: D.** All four pairs are correct.
+
+**Logic:** Standard volcano–country desk.
+
 </details>
 
----
+**Q23.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Q60.** Which pair is NOT correctly matched?
+Assertion (A): Mediterranean climates show winter rain.
 
-A. Prairie — North America
+Reason (R): Monsoon climates of South Asia show their main rain season in summer.
 
-B. Steppe — Eurasia
+Select the correct answer from the code given below:
 
-C. Pampas — Argentina
-
-D. Campos — Chile
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Campos = **Brazil**.
+**Ans: A.** Both true; R does not explain A.
+
+**A/R logic:** Both seasonality facts are true, but monsoon summer rain does not explain Med winter rain.
+
 </details>
 
----
+**Q24.** Which of the following pairs is/are **NOT** correctly matched?
+
+1. Galápagos — Ecuador
+2. Socotra — Oman
+3. Majuli — Brahmaputra river island
+
+Select the correct answer from the code given below:
+
+A. 1 only
+B. 2 only
+C. 1 and 3 only
+D. 2 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only pair 2 is not correctly matched.
+
+**Logic:** Socotra belongs with Yemen, not Oman.
+
+</details>
+
+**Q25.** With reference to plateaus, which of the following statements is/are correct?
+
+1. Altiplano is associated with Bolivia–Peru.
+2. Meseta / Madrid plateau fact is Spain.
+3. Patagonia Plateau is taught as a mineral storehouse pair.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are correct.
+
+**Logic:** Do not swap Pamir ‘Roof’ phrasing with Tibet’s highest-large-plateau identity.
+
+</details>
+
+**Q26.** Consider the following statements about Namib and Patagonia:
+
+1. The Namib is a fog-coast desert of south-west Africa.
+2. Patagonia is Argentina’s rain-shadow / temperate desert belt.
+3. Atacama lies only in southern Chile and never touches Peru.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Atacama is N Chile / S Peru — not southern Chile alone.
+
+</details>
+
+**Q27.** Match List-I with List-II and select the correct answer using the code given below the lists:
+
+| List-I (Tag) | List-II (Place) |
+|---------------|-----------------|
+| A. Black Forest | 1. Myanmar hills belt |
+| B. Arakan Yoma | 2. Germany (east of Rhine) |
+| C. Great Artesian Basin | 3. Middle East heights |
+| D. Golan Heights | 4. Australia |
+
+Code:
+
+A. A-2, B-1, C-4, D-3
+B. A-1, B-2, C-4, D-3
+C. A-2, B-4, C-1, D-3
+D. A-4, B-1, C-2, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Black Forest–Germany; Arakan Yoma–Myanmar; GAB–Australia; Golan–Middle East.
+
+**Logic:** Vosges lie west of the Rhine opposite the Black Forest teaching pair.
+
+</details>
+
+**Q28.** With reference to plant indicators, which of the following statements is/are correct?
+
+1. Epiphytes mark equatorial forest.
+2. Baobab marks savanna.
+3. Cedars mark Mediterranean belts; acacia marks Sahara fringe.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are correct.
+
+**Logic:** Do not swap baobab into taiga or epiphytes into hot desert.
+
+</details>
+
+**Q29.** Which one of the following statements about Europe’s desertification problem among continents is correct in the chapter teaching?
+
+A. Europe has the least desertification problem among continents in the usual set.
+B. Europe has the greatest hot-desert area.
+C. Europe’s mean elevation leads the world.
+D. Europe has the most countries.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Europe is taught as having the least desertification problem among continents.
+
+**Logic:** Most countries = Africa; highest mean elevation = Antarctica.
+
+</details>
+
+**Q30.** With reference to Urals and British Columbia tags, which of the following statements is/are correct?
+
+1. The Urals mark the Europe–Asia boundary in teaching maps.
+2. British Columbia is nicknamed the ‘Sea of Mountains’.
+3. The Alps are correctly placed as a mountain system of England.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Alps = Switzerland / central Europe — not England.
+
+</details>
 
 ## Common Traps — Don't Fall For These
 

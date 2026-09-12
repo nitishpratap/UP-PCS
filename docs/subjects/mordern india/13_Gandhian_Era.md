@@ -1814,1175 +1814,794 @@ D. Ranikhet
 
 ## Practice Zone — UPPCS Format Drill
 
-> **56 questions.** Mix: chronology, multi-statement, Match-List, A/R, NOT-matched.
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
----
 
-**Q1.** Arrange: 1. Poona Pact 2. End of CDM 3. Gandhi-Irwin Pact 4. Second RTC
+**Q1.** With reference to Gandhi’s early India satyagrahas, which of the following statements is/are correct?
 
-A. 3, 4, 2, 1
+1. Champaran 1917 fought the tinkathia indigo system; Raj Kumar Shukla brought Gandhi.
+2. Kheda 1918 sought revenue remission (Patel).
+3. Ahmedabad mill strike 1918 saw Gandhi’s first fast in India (Anasuya Sarabhai link).
 
-B. 4, 3, 1, 2
+Select the correct answer from the code given below:
 
-C. 4, 3, 2, 1
+A. 1 and 2 only
 
-D. 3, 4, 1, 2
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: D.** All three.
+
+**Logic:** Local satyagraha ladder before Rowlatt/Jallianwala.
 
 </details>
 
 ---
 
-**Q2.** Arrange: I. Sharda Act II. Nehru Report III. Simon Commission IV. Dandi March
+**Q2.** Arrange the following in chronological order:
 
-A. III, II, I and IV
+1. Champaran Satyagraha
+2. Rowlatt Act / Jallianwala Bagh
+3. Non-Cooperation launch (Calcutta special / Nagpur)
+4. Chauri Chaura and withdrawal of NCM
 
-B. I, II, III and IV
+A. 2, 1, 3, 4
 
-C. IV, III, II and I
+B. 1, 2, 3, 4
 
-D. I, IV, II and III
+C. 1, 3, 2, 4
+
+D. 1, 2, 4, 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** 1917 → 1919 → 1920 → Feb 1922.
+
+**Logic:** Cause–course arc into NCM withdrawal.
 
 </details>
 
 ---
 
-**Q3.** Who returned the Knighthood after Jallianwala Bagh?
+**Q3.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Md. Ali Jinnah
+**Assertion (A):** The Hunter Committee (1919) inquired into the Jallianwala Bagh firing.
 
-B. Rabindranath Tagore
+**Reason (R):** The Hunter Commission (1882) was the same body under another name.
 
-C. Rameshwar Singh
+Select the correct answer from the code given below:
 
-D. Shankaran Nair
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 
-<details>
-<summary>Show answer</summary>
+B. (A) is false, but (R) is true
 
-**Ans: B**
-
-</details>
-
----
-
-**Q4.** Who resigned from the Viceroy's Executive Council after Jallianwala Bagh?
-
-1. Chettur Sankaran Nair 2. Ishwari Prasad 3. Muhammad Shafi 4. Iqbal Narayan Gurtu
-
-A. 2 and 3
-
-B. Only 4
-
-C. 3 and 4
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q5.** Who did NOT participate in the Second Round Table Conference?
-
-A. M.K. Gandhi
-
-B. Sarojini Naidu
-
-C. Pt. Madan Mohan Malviya
-
-D. Dr. Rajendra Prasad
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q6.** The foreign journalist who reported Dharasana salt satyagraha was
-
-A. Francis Louis
-
-B. Mark Tully
-
-C. Web Miller
-
-D. Philip Sprat
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q7.** Which of the following is NOT correctly matched?
-
-A. Indian Navy Act 1927
-
-B. Civil Disobedience 1930
-
-C. Second RTC 1931
-
-D. Communal Award 1933
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q8.** Arrange: I. Poona Pact II. Gandhi-Irwin Pact III. Cripps Mission IV. Civil Disobedience Movement
-
-A. IV, II, III, I
-
-B. II, IV, I, III
-
-C. IV, II, I, III
-
-D. III, I, IV, II
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q9.** With reference to Champaran, which of the following statements is/are correct?
-
-1. Tinkathia meant indigo on 3/20 of the holding.
-2. Raj Kumar Shukla brought Gandhi to Champaran.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q10.** With reference to Vaikom Satyagraha, which of the following statements is/are correct?
-
-1. It was against untouchability and caste discrimination.
-2. Gandhi participated in it.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q11.** Assertion (A): Gandhi withdrew Non-Cooperation after Chauri Chaura.
-
-Reason (R): A police station was burnt at Chauri Chaura in Gorakhpur district in February 1922.
-
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: C.** A true; R false.
+
+**A/R logic:** 1919 Punjab inquiry ≠ 1882 education commission.
 
 </details>
 
 ---
 
-**Q12.** Match List-I with List-II.
+**Q4.** Match List-I with List-II:
 
-**List-I** A. Champaran B. Kheda C. Ahmedabad mill D. Dandi
-**List-II** 1. 1918 revenue 2. 1917 indigo 3. 1930 salt 4. 1918 wages
+| List-I | List-II |
+|--------|---------|
+| A. NCM | 1. Salt and civil-law defiance |
+| B. CDM | 2. Boycott of titles, schools and courts |
+| C. No-changers | 3. Stay out; constructive work (Gaya 1922) |
+| D. Pro-changers / Swarajists | 4. Enter councils and obstruct |
 
-A. 2 1 4 3
+*Row order is not the answer code.*
 
-B. 2 1 3 4
+A. A-1, B-2, C-4, D-3
 
-C. 1 2 4 3
+B. A-2, B-1, C-3, D-4
 
-D. 2 4 1 3
+C. A-2, B-3, C-1, D-4
+
+D. A-2, B-1, C-4, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Method pairs + Gaya split.
+
+**Logic:** NCM ≠ CDM; No-changers ≠ Swarajists.
 
 </details>
 
 ---
 
-**Q13.** With reference to the Rowlatt Act, which of the following statements is/are correct?
+**Q5.** With reference to Jallianwala responses, which of the following statements is/are correct?
 
-1. It allowed detention without ordinary trial.
-2. It is the same as the Government of India Act, 1919.
+1. Tagore returned his knighthood.
+2. Sankaran Nair resigned from the Viceroy’s Executive Council.
+3. Both responses are identical with Gandhi’s Belgaum presidentship of 1919.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
+A. 1 and 3 only
 
-C. Both 1 and 2
+B. 1 and 2 only
 
-D. Neither 1 nor 2
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Belgaum 1924 is Gandhi’s only INC presidentship — not 1919.
 
 </details>
 
 ---
 
-**Q14.** Consider the following statements:
+**Q6.** Which of the following pairs is NOT correctly matched?
 
-1. Tagore returned his knighthood after Jallianwala.
-2. Sankaran Nair returned his knighthood after Jallianwala.
+A. Chauri Chaura — 5 February 1922, Gorakhpur; NCM withdrawn
 
-A. Only 1
+B. Gaya session — December 1922; No-changers vs Pro-changers
 
-B. Only 2
+C. Swaraj Party — January 1923; C.R. Das and Motilal Nehru
 
-C. Both 1 and 2
-
-D. Neither 1 nor 2
+D. Chauri Chaura — December 1922; opened the council-entry split at Gaya
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Nair **resigned from the Executive Council**.
+**Ans: D.** Chauri Chaura (Feb) ends NCM; Gaya (Dec) opens council-entry split.
+
+**Logic:** Same-year trap: do not merge Feb and Dec 1922.
 
 </details>
 
 ---
 
-**Q15.** Which of the following pairs is NOT correctly matched?
+**Q7.** Arrange the following in chronological order:
 
-A. Swaraj Party — C.R. Das and Motilal Nehru
+1. Simon Commission appointed
+2. Nehru Report
+3. Lahore Congress / Purna Swaraj
+4. Dandi March launch of CDM
 
-B. Nehru Report — Motilal Nehru
+A. 2, 1, 3, 4
 
-C. Lahore 1929 — Jawaharlal Nehru
+B. 1, 2, 3, 4
 
-D. Nehru Report — Jawaharlal Nehru as author
+C. 1, 3, 2, 4
+
+D. 1, 2, 4, 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: B.** 1927 → 1928 → 1929 → 1930.
+
+**Logic:** Simon → Nehru Report → Lahore → Dandi.
 
 </details>
 
 ---
 
-**Q16.** With reference to Purna Swaraj, which of the following statements is/are correct?
+**Q8.** With reference to dominion status vs Purna Swaraj, which of the following statements is/are correct?
 
-1. It was adopted at the Lahore session, 1929.
-2. 26 January 1930 was observed as Independence Day.
+1. Nehru Report (1928) answered Simon with a dominion draft.
+2. Lahore 1929 (Nehru) declared Purna Swaraj; pledge day 26 January 1930.
+3. Dominion status and complete independence are the same goal under different names.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
+A. 2 and 3 only
 
-C. Both 1 and 2
+B. 1 and 3 only
 
-D. Neither 1 nor 2
+C. 1 and 2 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Within Empire ≠ complete independence.
 
 </details>
 
 ---
 
-**Q17.** Match List-I with List-II.
+**Q9.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**List-I** A. 1st RTC B. 2nd RTC C. Communal Award D. Poona Pact
-**List-II** 1. 16 Aug 1932 2. 1930–31 Congress absent 3. 24 Sep 1932 4. Gandhi sole Congress rep
+**Assertion (A):** Gandhi’s Eleven Points (January 1930) were an ultimatum to Irwin.
 
-A. 2 4 1 3
+**Reason (R):** Jinnah’s Fourteen Points (1929) are the same charter under another label.
 
-B. 2 4 3 1
+Select the correct answer from the code given below:
 
-C. 4 2 1 3
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 
-D. 2 1 4 3
+B. (A) is false, but (R) is true
 
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q18.** With reference to the Gandhi–Irwin Pact, which of the following statements is/are correct?
-
-1. It was signed on 5 March 1931.
-2. CDM was to be suspended and Gandhi was to attend the 2nd RTC.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q19.** Consider the following statements:
-
-1. The Communal Award gave separate electorates to Depressed Classes.
-2. The Poona Pact replaced that with reserved seats in joint electorates.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q20.** Which of the following pairs are NOT correctly matched?
-
-1. Chauri Chaura — Gorakhpur 2. Dandi March started — 12 March 1930 3. Jallianwala — 13 April 1920
-
-A. Only 3
-
-B. Only 1 and 3
-
-C. Only 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Jallianwala **13 April 1919**.
-
-</details>
-
----
-
-**Q21.** Assertion (A): Gandhi attended only the Second Round Table Conference.
-
-Reason (R): Rajendra Prasad was the sole Congress representative at the Second RTC.
-
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: C.** A true; R false.
+
+**A/R logic:** Eleven Points ≠ Fourteen Points.
 
 </details>
 
 ---
 
-**Q22.** With reference to Simon Commission, which of the following statements is/are correct?
+**Q10.** Match List-I with List-II:
 
-1. It had no Indian member.
-2. It was appointed in November 1927.
+| List-I | List-II |
+|--------|---------|
+| A. Gandhi–Irwin Pact | 1. 24 September 1932; reserved seats in joint electorate |
+| B. Communal Award | 2. 5 March 1931; Congress–Viceroy truce |
+| C. Poona Pact | 3. 16 August 1932; separate electorates for Depressed Classes |
+| D. Second RTC | 4. Sep–Dec 1931; Gandhi sole Congress representative |
 
-A. Only 1
+*Row order is not the answer code.*
 
-B. Only 2
+A. A-3, B-2, C-4, D-1
 
-C. Both 1 and 2
+B. A-2, B-3, C-1, D-4
 
-D. Neither 1 nor 2
+C. A-2, B-1, C-3, D-4
+
+D. A-2, B-3, C-4, D-1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: B.** Truce → Award → Poona → 2nd RTC season facts.
+
+**Logic:** Communal Award ≠ Poona Pact.
 
 </details>
 
 ---
 
-**Q23.** Consider the following statements:
+**Q11.** With reference to Round Table Conferences, which of the following statements is/are correct?
 
-1. Swarajists wanted council entry after NCM.
-2. No-changers wanted only constructive work.
+1. First RTC (1930) had Congress absent.
+2. Second RTC (1931) had Gandhi as the sole Congress representative.
+3. Rajendra Prasad went as the Congress delegate to the Second RTC in Gandhi’s place.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
+A. 2 and 3 only
 
-C. Both 1 and 2
+B. 1 and 3 only
 
-D. Neither 1 nor 2
+C. 1 and 2 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Prasad did not go as Congress delegate to 2nd RTC.
 
 </details>
 
 ---
 
-**Q24.** Match List-I with List-II.
+**Q12.** Which one of the following correctly contrasts NCM and CDM?
 
-**List-I** A. Natal Indian Congress B. Hind Swaraj C. Sabarmati Ashram D. Belgaum Congress
-**List-II** 1. 1909 2. 1894 3. 1924 Gandhi president 4. After 1915 return
+A. NCM centred on salt; CDM boycotted titles and courts
 
-A. 2 1 4 3
+B. NCM boycotted titles, schools and courts; CDM centred on salt and civil-law defiance
 
-B. 2 1 3 4
+C. Both were identical Individual Satyagraha campaigns of 1940
 
-C. 1 2 4 3
-
-D. 2 4 1 3
+D. CDM ended at Chauri Chaura in 1922
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Method contrast from Must-Score.
+
+**Logic:** Chauri Chaura ends NCM, not CDM.
 
 </details>
 
 ---
 
-**Q25.** With reference to Khilafat, which of the following statements is/are correct?
+**Q13.** Which of the following statements about 1919 same-year traps is/are correct?
 
-1. It was allied with Non-Cooperation in 1920–22.
-2. Mohammad Ali and Shaukat Ali were leading figures.
+1. Rowlatt Act 1919 is a no-trial law controversy.
+2. Government of India Act 1919 introduced dyarchy.
+3. Both are the same statute under two popular names.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
+A. 1 and 2 only
 
-C. Both 1 and 2
+B. 1 and 3 only
 
-D. Neither 1 nor 2
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Rowlatt ≠ Montford Act.
 
 </details>
 
 ---
 
-**Q26.** Which of the following is NOT correctly matched?
+**Q14.** Arrange the following in chronological order:
 
-A. Dharasana — Webb Miller
-
-B. Vedaranyam — Rajagopalachari
-
-C. Dandi March — 12 March 1930 start
-
-D. Dandi March — 12 March 1929 start
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q27.** Arrange: 1. Rowlatt Act 2. Jallianwala 3. NCM launch climate 4. Chauri Chaura
+1. Gandhi–Irwin Pact
+2. Second Round Table Conference
+3. Poona Pact
+4. End of CDM (around April 1934)
 
 A. 1, 2, 3, 4
 
 B. 2, 1, 3, 4
 
-C. 1, 2, 4, 3
+C. 1, 3, 2, 4
 
-D. 1, 3, 2, 4
+D. 1, 2, 4, 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — 1919 Act → 13 Apr 1919 → 1920 → Feb 1922.
+**Ans: A.** Mar 1931 → late 1931 → Sep 1932 → 1934.
+
+**Logic:** CDM endgame ladder.
 
 </details>
 
 ---
 
-**Q28.** With reference to Karachi 1931, which of the following statements is/are correct?
+**Q15.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-1. Vallabhbhai Patel was President.
-2. Congress adopted a Fundamental Rights resolution.
+**Assertion (A):** Satyagraha aims at converting the opponent through truth-force.
 
-A. Only 1
+**Reason (R):** Satyagraha is merely passive obstruction without a moral aim of conversion.
 
-B. Only 2
+Select the correct answer from the code given below:
 
-C. Both 1 and 2
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 
-D. Neither 1 nor 2
+B. (A) is false, but (R) is true
 
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q29.** Consider the following statements:
-
-1. Dominion Status was the Nehru Report demand.
-2. Purna Swaraj replaced that as Congress goal at Lahore 1929.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q30.** Which of the following pairs are NOT correctly matched?
-
-1. Ahmedabad mill strike — Anasuya Sarabhai
-2. Champaran — tinkathia
-3. Kheda — salt law 1930
-
-A. Only 3
-
-B. Only 1 and 3
-
-C. Only 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Kheda = **revenue 1918**.
-
-</details>
-
----
-
-**Q31.** Assertion (A): The Communal Award is not correctly matched with 1933.
-
-Reason (R): Ramsay MacDonald announced it on 16 August 1932.
-
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: C.** A true; R false.
+
+**A/R logic:** Truth-force ≠ mere passive resistance.
 
 </details>
 
 ---
 
-**Q32.** With reference to Gandhi's return, which of the following statements is/are correct?
+**Q16.** With reference to August Offer and Individual Satyagraha, which of the following statements is/are correct?
 
-1. He returned to India in 1915.
-2. Gokhale is remembered as his political guru.
+1. August Offer (8 August 1940, Linlithgow) promised dominion-after-war with a minority veto and was rejected.
+2. Individual Satyagraha (Oct 1940) began with Vinoba — symbolic one-person protest.
+3. Individual Satyagraha was identical with mass Civil Disobedience of 1930–34.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
+A. 1 and 2 only
 
-C. Both 1 and 2
+B. 1 and 3 only
 
-D. Neither 1 nor 2
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: A.** Only 1 and 2.
+
+**Logic:** One-person symbolic ≠ mass CDM.
 
 </details>
 
 ---
 
-**Q33.** Match List-I with List-II.
+**Q17.** Match List-I with List-II:
 
-**List-I** A. Hunter Committee B. Tilak Swaraj Fund C. Eleven Points D. Jinnah 14 Points
-**List-II** 1. NCM finance 2. Jallianwala inquiry 3. 1929 4. Jan 1930 to Irwin
+| List-I | List-II |
+|--------|---------|
+| A. Phoenix Ashram | 1. Ahmedabad bank ashram after move |
+| B. Sabarmati Ashram | 2. Oldest; South Africa, 1904 |
+| C. ‘Mahatma’ title association | 3. Tagore during Champaran era |
+| D. ‘Father of the Nation’ | 4. Subhas Bose, Azad Hind Radio, 1944 |
 
-A. 2 1 4 3
+*Row order is not the answer code.*
 
-B. 2 1 3 4
+A. A-2, B-1, C-3, D-4
 
-C. 1 2 4 3
+B. A-1, B-2, C-4, D-3
 
-D. 2 4 1 3
+C. A-2, B-3, C-1, D-4
+
+D. A-2, B-1, C-4, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: A.** Ashram twin + honorific twin.
+
+**Logic:** Phoenix ≠ Sabarmati; Tagore ≠ Bose titles.
 
 </details>
 
 ---
 
-**Q34.** Consider the following statements:
+**Q18.** Which of the following statements is/are correct?
 
-1. Gandhi was the sole Congress representative at the 2nd RTC.
-2. Congress attended the 1st RTC in full strength.
+1. Gokhale was Gandhi’s political guru.
+2. First Congress session Gandhi attended is keyed as Calcutta 1901 (Dinshaw Wacha).
+3. At Independence Gandhi was still the formal Congress President continuously since 1924.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
+A. 1 and 2 only
 
-C. Both 1 and 2
+B. 1 and 3 only
 
-D. Neither 1 nor 2
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Gandhi resigned Congress membership in 1934; Belgaum was his only presidentship.
 
 </details>
 
 ---
 
-**Q35.** Which of the following is NOT correctly matched?
+**Q19.** Which of the following pairs is NOT correctly matched?
 
-A. Poona Pact — 24 September 1932
+A. Dandi March — 12 March–6 April 1930; launches CDM
 
-B. Gandhi–Irwin — 5 March 1931
+B. Dharasana — tied to Webb Miller’s reportage
 
-C. Jallianwala — 13 April 1919
+C. Karachi 1931 — Fundamental Rights and economic programme (Patel)
 
-D. Chauri Chaura — 5 February 1920
+D. Karachi 1931 — Purna Swaraj pledge under Motilal Nehru
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — **1922**.
+**Ans: D.** Purna Swaraj = Lahore 1929; Karachi = Fundamental Rights.
+
+**Logic:** Lahore ↔ Karachi session swap.
 
 </details>
 
 ---
 
-**Q36.** With reference to CDM, which of the following statements is/are correct?
+**Q20.** With reference to Constructive Programme, which of the following statements is/are correct?
 
-1. It was launched with the salt satyagraha of 1930.
-2. It was finally withdrawn around April 1934.
+1. It stressed khadi, village industries, untouchability removal, prohibition and sanitation.
+2. Nai Talim (1937) sits in this constructive stream.
+3. Constructive Programme replaced the need for any political satyagraha after 1922 permanently.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
+A. 1 and 2 only
 
-C. Both 1 and 2
+B. 1 and 3 only
 
-D. Neither 1 nor 2
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Constructive work coexists with later CDM/QI arcs.
 
 </details>
 
 ---
 
-**Q37.** Arrange: 1. Death of Ferozeshah Mehta 2. Jallianwala 3. Simon Commission 4. Dandi March
+**Q21.** Arrange the following in chronological order:
+
+1. Natal Indian Congress founded by Gandhi
+2. *Hind Swaraj*
+3. Gandhi returns to India
+4. Champaran Satyagraha
 
 A. 1, 2, 3, 4
 
 B. 2, 1, 3, 4
 
-C. 1, 2, 4, 3
+C. 1, 3, 2, 4
 
-D. 1, 3, 2, 4
+D. 1, 2, 4, 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — 1915 → 1919 → 1927 → 1930.
+**Ans: A.** 1894 → 1909 → 1915 → 1917.
+
+**Logic:** South Africa → tract → return → first India satyagraha.
 
 </details>
 
 ---
 
-**Q38.** With reference to ideology, which of the following statements is/are correct?
+**Q22.** Which of the following statements about Champaran associates / distractors is/are correct?
 
-1. Satyagraha aims at converting the opponent.
-2. Gandhi held that immoral means could still produce a moral Swaraj.
+1. Batak Mian is remembered for saving Gandhi from poison at Champaran.
+2. N.G. Ranga opposed Champaran in the common distractor list.
+3. Jai Prakash Narayan and Ram Manohar Lohia are common ‘not connected’ distractors for Champaran.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
+A. 1 and 2 only
 
-C. Both 1 and 2
+B. 2 and 3 only
 
-D. Neither 1 nor 2
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: D.** All three.
+
+**Logic:** Prasad–Kripalani circle vs common wrong names.
 
 </details>
 
 ---
 
-**Q39.** Consider the following statements:
+**Q23.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-1. Phoenix Settlement and Tolstoy Farm are South Africa ashrams.
-2. Natal Indian Congress was founded in 1894.
+**Assertion (A):** Individual Satyagraha (1940) was a symbolic one-person protest beginning with Vinoba.
 
-A. Only 1
+**Reason (R):** August Offer (1940) and Cripps Mission (1942) are the same wartime British proposal.
 
-B. Only 2
+Select the correct answer from the code given below:
 
-C. Both 1 and 2
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 
-D. Neither 1 nor 2
+B. (A) is false, but (R) is true
 
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q40.** Which of the following pairs are NOT correctly matched?
-
-1. Belgaum 1924 — Gandhi's only Congress presidentship
-2. Karachi 1931 — Patel President
-3. Lahore 1929 — Motilal Nehru President
-
-A. Only 3
-
-B. Only 1 and 3
-
-C. Only 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Lahore 1929 = **Jawaharlal**.
-
-</details>
-
----
-
-**Q41.** Assertion (A): Webb Miller's report is linked with Dharasana.
-
-Reason (R): Dharasana was a salt-works satyagraha during CDM.
-
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: C.** A true; R false.
+
+**A/R logic:** Linlithgow 1940 ≠ Cripps 1942.
 
 </details>
 
 ---
 
-**Q42.** With reference to Poona Pact, which of the following statements is/are correct?
+**Q24.** With reference to Cause → Course → Result of Non-Cooperation, which of the following statements is/are correct?
 
-1. It was signed in September 1932 after Gandhi's Yeravada fast.
-2. It retained MacDonald's separate electorates for Depressed Classes.
+1. Causes: Rowlatt/Jallianwala climate and Khilafat alliance widened mass anger.
+2. Course: Boycott of titles, schools, courts; Calcutta Sep / Nagpur Dec 1920 launches.
+3. Result: Chauri Chaura violence led Gandhi to withdraw NCM in February 1922.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
+A. 1 and 2 only
 
-C. Both 1 and 2
+B. 1 and 3 only
 
-D. Neither 1 nor 2
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — it **replaced** separate electorates with reserved seats.
+**Ans: D.** All three.
+
+**Logic:** Full NCM card: cause–course–result.
 
 </details>
 
 ---
 
-**Q43.** Match List-I with List-II.
+**Q25.** Which one of the following is correctly matched?
 
-**List-I** A. C.R. Das B. Raj Kumar Shukla C. Anasuya Sarabhai D. Michael O'Dwyer
-**List-II** 1. Champaran 2. Swaraj Party 3. Punjab Lt Governor 1919 4. Ahmedabad mill
+A. Vaikom satyagraha — temple-entry/road struggle in Travancore mid-1920s stream
 
-A. 2 1 4 3
+B. Vaikom — identical with the Communal Award of 1932
 
-B. 2 1 3 4
+C. Yerawada — Gandhi’s name for Sabarmati Ashram
 
-C. 1 2 4 3
-
-D. 2 4 1 3
+D. Unto This Last — Tilak’s Mandalay reading list only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: A.** Vaikom sits in constructive/temple-entry continuity.
+
+**Logic:** Yerawada jail he called Mandir; Ruskin influenced Gandhi.
 
 </details>
 
 ---
 
-**Q44.** Consider the following statements:
+**Q26.** Which of the following statements is/are correct?
 
-1. NCM boycotted schools, courts and foreign cloth.
-2. CDM's opening symbol was the salt law.
+1. Twin principles of Ram Rajya in Gandhi’s teaching = truth and non-violence.
+2. Influences commonly keyed: Ruskin, Thoreau, Tolstoy.
+3. Fasting is often keyed as the last weapon; strike as the first step in satyagraha strategy teaching.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
+A. 1 and 2 only
 
-C. Both 1 and 2
+B. 1 and 3 only
 
-D. Neither 1 nor 2
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Fasting early/first; strike often last — reverse is the trap.
 
 </details>
 
 ---
 
-**Q45.** Which of the following is NOT correctly matched?
+**Q27.** Match List-I with List-II:
 
-A. Sharda Act — 1929
+| List-I | List-II |
+|--------|---------|
+| A. Simon Commission | 1. All-white; Nov 1927 |
+| B. Nehru Report | 2. Dominion draft; Motilal; 1928 |
+| C. Gandhi’s 11 Points | 3. Jan 1930 ultimatum to Irwin |
+| D. Jinnah’s 14 Points | 4. 1929 League charter |
 
-B. Nehru Report — 1928
+*Row order is not the answer code.*
 
-C. Simon appointed — 1927
+A. A-1, B-2, C-3, D-4
 
-D. Purna Swaraj session — 1928
+B. A-2, B-1, C-4, D-3
+
+C. A-1, B-3, C-2, D-4
+
+D. A-1, B-2, C-4, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Lahore **1929**. 1928 = Nehru Report.
+**Ans: A.** Four pre-Dandi constitutional tags.
+
+**Logic:** 11 ≠ 14; Simon ≠ Nehru Report.
 
 </details>
 
 ---
 
-**Q46.** With reference to the Gaya session of 1922, which of the following statements is/are correct?
+**Q28.** With reference to CDM Cause → Course → Result, which of the following statements is/are correct?
 
-1. It split Congress into No-changers and Pro-changers.
-2. C.R. Das favoured immediate council entry.
+1. Cause: Lahore Purna Swaraj and Irwin’s rejection climate after Eleven Points.
+2. Course: Dandi March (12 Mar–6 Apr 1930) launches salt satyagraha; nationwide civil defiance.
+3. Result arc includes Gandhi–Irwin Pact, 2nd RTC, Communal Award/Poona Pact, and CDM winding down by 1934.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
+A. 1 and 2 only
 
-C. Both 1 and 2
+B. 2 and 3 only
 
-D. Neither 1 nor 2
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: D.** All three.
+
+**Logic:** CDM is not only Dandi — hold the full result ladder.
 
 </details>
 
 ---
 
-**Q47.** Match List-I with List-II.
+**Q29.** Which of the following statements is/are correct?
 
-**List-I** A. No-changers B. Pro-changers C. Swaraj Party founding D. First Indian CLA President with Swarajist support
-**List-II** 1. Vithalbhai Patel 2. Gandhi and Rajaji 3. January 1923 4. Das and Motilal Nehru
+1. C.F. Andrews is remembered as Dinbandhu.
+2. Jamnalal Bajaj is tagged as Congress treasurer / ‘fifth son’.
+3. Pyarelal is keyed as Noakhali secretary in the associate list.
 
-A. 2 4 3 1
+Select the correct answer from the code given below:
 
-B. 2 4 1 3
+A. 1 and 2 only
 
-C. 4 2 3 1
+B. 1 and 3 only
 
-D. 2 1 4 3
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: D.** All three.
+
+**Logic:** Associate tags from Must-Score.
 
 </details>
 
 ---
 
-**Q48.** Which of the following was NOT among Gandhi's Eleven Points (January 1930)?
+**Q30.** Which of the following pairs is NOT correctly matched?
 
-A. Fifty per cent cut in land revenue
+A. Khilafat — Caliphate issue of Indian Muslims; joined with NCM 1920–22
 
-B. Total prohibition
+B. Belgaum 1924 — Gandhi’s only Congress presidentship
 
-C. A separate Muslim-majority province called Pakistan
+C. First RTC 1930 — Congress absent
 
-D. Release of political prisoners not convicted of violence
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q49.** Assertion (A): The Hunter Committee (1919) and the Hunter Commission (1882) refer to the same body.
-
-Reason (R): Both were headed by a person named Hunter.
-
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+D. First RTC 1930 — Gandhi sole Congress representative
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — different bodies, six decades apart; the shared surname is coincidence.
+**Ans: D.** Gandhi at 2nd RTC (1931); First RTC had Congress absent.
+
+**Logic:** 1st vs 2nd RTC attendance trap.
 
 </details>
-
----
-
-**Q50.** Which of the following is NOT part of Gandhi's Constructive Programme?
-
-A. Khadi and village industries
-
-B. Removal of untouchability
-
-C. Entry into legislative councils to obstruct government business
-
-D. Basic education (Nai Talim)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — that was the Swarajists' method, not the Constructive Programme.
-
-</details>
-
----
-
-**Q51.** With reference to the August Offer (1940), which of the following statements is/are correct?
-
-1. It was made by Viceroy Linlithgow.
-2. It promised immediate Dominion status.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — it promised Dominion status **after the war**, not immediately.
-
-</details>
-
----
-
-**Q52.** With reference to the Individual Satyagraha of 1940, which of the following statements is/are correct?
-
-1. Vinoba Bhave was the first satyagrahi.
-2. It was a mass Civil-Disobedience-style campaign.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — it was symbolic, one person at a time.
-
-</details>
-
----
-
-**Q53.** Arrange in chronological order: 1. August Offer 2. Poona Pact 3. Gaya Session 4. Dandi March
-
-A. 3, 4, 2, 1
-
-B. 1, 4, 3, 2
-
-C. 3, 2, 4, 1
-
-D. 4, 3, 2, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 1922 → 1930 → 1932 → 1940.
-
-</details>
-
----
-
-**Q54.** Which of the following pairs is NOT correctly matched?
-
-A. Vinoba Bhave — first Individual Satyagrahi
-
-B. C.R. Das — No-changer
-
-C. Vithalbhai Patel — Central Legislative Assembly President
-
-D. Nai Talim — Wardha, 1937
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Das was a **Pro-changer / Swarajist**, not a No-changer.
-
-</details>
-
----
-
-**Q55.** Consider the following statements:
-
-1. Gandhi's Eleven Points included abolition of the salt tax.
-2. Jinnah's Fourteen Points included separate electorates for Muslims.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q56.** Match List-I with List-II.
-
-**List-I** A. Nai Talim B. Vaikom-type work C. All-India Spinners' Association D. Village sanitation
-**List-II** 1. Hygiene and drainage 2. Self-supporting basic education 3. Untouchability removal 4. Khadi organisation
-
-A. 2 3 4 1
-
-B. 2 3 1 4
-
-C. 3 2 4 1
-
-D. 2 4 3 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
 
 ## Common Traps — Don't Fall For These
 

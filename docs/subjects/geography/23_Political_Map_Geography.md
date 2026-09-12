@@ -4151,1365 +4151,674 @@ D. Mindanao
 
 ---
 
-## Practice Zone — UPPCS Format Questions
+## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden** — click **Show answer** under each question to reveal.
-> **Format mix:** 65 questions — Match List | multi-statement | Assertion–Reason | NOT correctly matched | direct recall (PYQ + standard gaps)
+> **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D
 
-**Q1.** MacMohan line forms the boundary between:
+**Q1.** With reference to UNCLOS belts, which of the following statements is/are correct?
 
-**Options:**
+1. Territorial sea = 12 nm; contiguous zone = 24 nm; EEZ = 200 nm.
+2. Continental shelf may extend to 350 nm but that does not push EEZ water beyond 200.
+3. Innocent passage applies in the territorial sea; transit passage in international straits.
 
-A. India and China
+Select the correct answer from the code given below:
 
-B. India and Pakistan
-
-C. India and Myanmar
-
-D. India and Nepal
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q2.** Longest coastline among these Indian states:
-
-**Options:**
-
-A. Maharashtra
-
-B. Andhra Pradesh
-
-C. Kerala
-
-D. Gujarat
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: D.** All three are correct.
+
+**Logic:** Shelf rights beyond 200 are seabed rights, not a wider EEZ water column.
 
 </details>
 
----
+**Q2.** Match List-I with List-II and select the correct answer using the code given below the lists:
 
-**Q3.** Territorial sea under UNCLOS is:
+| List-I (Line) | List-II (Pair) |
+|----------------|----------------|
+| A. McMahon | 1. Pakistan–Afghanistan (1893) |
+| B. Durand | 2. India–China (1914) |
+| C. Radcliffe | 3. 1947 India–Pakistan/Bangladesh |
+| D. 49th Parallel | 4. USA–Canada stretch |
 
-**Options:**
+Code:
 
-A. 200 nm
-
-B. 12 nm
-
-C. 24 nm
-
-D. 350 nm
+A. A-2, B-3, C-1, D-4
+B. A-1, B-2, C-4, D-3
+C. A-2, B-1, C-3, D-4
+D. A-4, B-1, C-2, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: C.** McMahon India–China; Durand Pak–Afghan; Radcliffe 1947; 49th USA–Canada.
+
+**Logic:** 38th ≈ Koreas — do not swap with 49th.
 
 </details>
 
----
+**Q3.** Which of the following pairs is/are **NOT** correctly matched?
 
-**Q4.** EEZ extends to:
+1. Longest Indian state coastline — Gujarat
+2. Longest land border — China
+3. Shortest land border — Afghanistan
 
-**Options:**
-
-A. 12 nm
-
-B. 24 nm
-
-C. 200 nm
-
-D. Always 350 nm
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q5.** Match Central Asian capitals:
-
-| Country | Capital |
-|---------|---------|
-| A. Uzbekistan | 1. Tashkent |
-| B. Tajikistan | 2. Dushanbe |
-| C. Kyrgyzstan | 3. Bishkek |
-| D. Turkmenistan | 4. Ashgabat |
-
-**Options:**
-
-A. 1 2 3 4
-
-B. 1 2 4 3
-
-C. 1 3 4 2
-
-D. 1 4 2 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q6.** Landlocked among these:
-
-**Options:**
-
-A. Uruguay
-
-B. Suriname
-
-C. Peru
-
-D. Bolivia
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q7.** Suez Canal connects:
-
-1. Atlantic Ocean 2. Red Sea 3. Mediterranean Sea 4. Indian Ocean
-
-**Options:**
-
-A. 1 and 3
-
-B. 3 and 4
-
-C. 2 and 3
-
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q8.** Vegetation is the true index of climate — associated with:
-
-**Options:**
-
-A. Thornthwaite
-
-B. Koppen
-
-C. Trewartha
-
-D. Stamp
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q9.** Mediterranean climate: winter rain; belts shift south at NH winter solstice.
-
-**Options:**
-
-A. Only 2
-
-B. Neither
-
-C. Only 1
-
-D. Both 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q10.** Western Europe: rain all months; westerlies belt.
-
-**Options:**
-
-A. Both 1 and 2
-
-B. Neither
-
-C. Only 1
-
-D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q11.** Mountains west → east: Pontic, Zagros, Hindu Kush, Karakoram.
-
-**Options:**
-
-A. 2, 4, 3, 1
-
-B. 2, 3, 4, 1
-
-C. 4, 2, 3, 1
-
-D. 4, 1, 2, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — if numbered Karakoram=1, Pontic=2, Hindu Kush=3, Zagros=4.
-
-</details>
-
----
-
-**Q12.** Nobi and Kanto plains:
-
-**Options:**
-
-A. North Korea
-
-B. South Korea
-
-C. Japan
-
-D. China
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q13.** Port–country NOT matched:
-
-**Options:**
-
-A. Rotterdam — Netherlands
-
-B. Igarka — China
-
-C. Montevideo — Uruguay
-
-D. Jakarta — Indonesia
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q14.** Durand Line is between:
-
-**Options:**
-
-A. India and China
-
-B. Pakistan and Afghanistan
-
-C. India and Nepal
-
-D. India and Myanmar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q15.** Radcliffe Line is of:
-
-**Options:**
-
-A. 1914
-
-B. 1893
-
-C. 1947
-
-D. 1962
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q16.** How many of the following are land neighbours of India?
-
-1. Nepal 2. Bhutan 3. Sri Lanka 4. Myanmar
-
-**Options:**
-
-A. Only two
-
-B. Only three
-
-C. All four
-
-D. Only one
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Sri Lanka is maritime.
-
-</details>
-
----
-
-**Q17.** Longest land border of India is with:
-
-**Options:**
-
-A. China
-
-B. Pakistan
-
-C. Bangladesh
-
-D. Nepal
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q18.** Contiguous zone is:
-
-**Options:**
-
-A. 12 nm
-
-B. 24 nm
-
-C. 200 nm
-
-D. 350 nm
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q19.** Hormuz joins:
-
-**Options:**
-
-A. Persian Gulf and Gulf of Oman
-
-B. Med and Atlantic
-
-C. Black Sea and Marmara
-
-D. Andaman Sea and South China Sea
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q20.** Gibraltar joins:
-
-**Options:**
-
-A. Med and Atlantic
-
-B. Black Sea and Marmara
-
-C. Red Sea and Aden
-
-D. Arctic and Pacific
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q21.** Bering Strait is between:
-
-**Options:**
-
-A. Russia and USA
-
-B. UK and France
-
-C. Spain and Morocco only as a name swap for Gibraltar
-
-D. Malaysia and Indonesia
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q22.** Bosporus joins:
-
-**Options:**
-
-A. Black Sea and Sea of Marmara
-
-B. Med and Red Sea
-
-C. North Sea and Baltic
-
-D. Persian Gulf and Oman
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q23.** Malacca is vital between:
-
-**Options:**
-
-A. Indian Ocean / Andaman side and South China Sea
-
-B. Arctic and Pacific
-
-C. Med and Atlantic
-
-D. Black Sea and Aegean
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q24.** Kiel Canal links:
-
-**Options:**
-
-A. North Sea and Baltic
-
-B. Med and Red Sea
-
-C. Atlantic and Pacific
-
-D. Black Sea and Caspian
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q25.** Panama Canal uses:
-
-**Options:**
-
-A. No facts (Suez type)
-
-B. Facts and Gatun Lake
-
-C. Only the Bosporus current
-
-D. Only Lake Manzala
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q26.** Köppen **Cs** means:
-
-**Options:**
-
-A. Ice cap
-
-B. Mediterranean winter-rain
-
-C. Equatorial rain all year
-
-D. Tundra
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q27.** Köppen **Cfb** (W Europe) means:
-
-**Options:**
-
-A. Rain only in winter like Cs
-
-B. Marine west coast; rain in all months
-
-C. Hot desert
-
-D. Ice cap
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q28.** Assertion (A): Mediterranean regions get winter rain.
-
-Reason (R): In summer they stay under dry terrestrial / subtropical-high winds.
-
-**Options:**
-
-A. (A) is false but (R) is true
-
-B. (A) is true but (R) is false
-
-C. Both true, R does not explain A
-
-D. Both true and R explains A
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q29.** Innocent passage applies in:
-
-**Options:**
-
-A. The Area only
-
-B. Territorial sea
-
-C. Only the ISA office
-
-D. Only EEZ fisheries
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q30.** Continental shelf may extend to:
-
-**Options:**
-
-A. 12 nm only
-
-B. 24 nm only
-
-C. 350 nm if geology allows
-
-D. The South Pole always
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q31.** Palk Strait is between:
-
-**Options:**
-
-A. India and Sri Lanka
-
-B. India and Maldives
-
-C. India and Myanmar
-
-D. India and Indonesia
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q32.** 10° Channel separates:
-
-**Options:**
-
-A. Andaman and Nicobar
-
-B. India and Sri Lanka
-
-C. Lakshadweep and Maldives only as the 8° name
-
-D. Gujarat and Oman
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q33.** How many of the following are coastal states of India?
-
-1. Gujarat 2. Telangana 3. Odisha 4. Goa
-
-**Options:**
-
-A. Only two
-
-B. Only three
-
-C. All four
-
-D. Only one
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Telangana is inland.
-
-</details>
-
----
-
-**Q34.** Shortest land border of India is with:
-
-**Options:**
-
-A. Bangladesh
-
-B. China
-
-C. Afghanistan
-
-D. Pakistan
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q35.** Myanmar’s capital is:
-
-**Options:**
-
-A. Yangon
-
-B. Naypyidaw
-
-C. Mandalay as the official capital
-
-D. Thimphu
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q36.** Which pair is **NOT** correctly matched?
-
-**Options:**
-
-A. Uzbekistan — Tashkent
-
-B. Kyrgyzstan — Bishkek
-
-C. Turkmenistan — Dushanbe
-
-D. Tajikistan — Dushanbe
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Turkmenistan = Ashgabat. Dushanbe = Tajikistan.
-
-</details>
-
----
-
-**Q37.** Caspian Sea is bordered by how many countries?
-
-**Options:**
-
-A. Two
-
-B. Three
-
-C. Five
-
-D. Nine
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — RU, KZ, TM, IR, AZ.
-
-</details>
-
----
-
-**Q38.** Mekong delta is in:
-
-**Options:**
-
-A. Cambodia as the sea mouth
-
-B. Southern Vietnam
-
-C. Laos
-
-D. Thailand only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q39.** Mississippi bird-foot delta opens into:
-
-**Options:**
-
-A. Mediterranean
-
-B. Gulf of Mexico
-
-C. Bay of Bengal
-
-D. North Sea
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q40.** Bab el-Mandeb joins:
-
-**Options:**
-
-A. Red Sea and Gulf of Aden
-
-B. Med and Atlantic
-
-C. Persian Gulf and Oman
-
-D. Black Sea and Marmara
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q41.** Which is **NOT** a land neighbour of India?
-
-**Options:**
-
-A. Bhutan
-
-B. Myanmar
-
-C. Maldives
-
-D. Nepal
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q42.** ISA (seabed) sits in:
-
-**Options:**
-
-A. The EEZ of India only
-
-B. The Area beyond national jurisdiction; HQ Kingston
-
-C. Territorial 12 nm only
-
-D. Lake Manzala
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q43.** Australia’s federal capital is:
-
-**Options:**
-
-A. Sydney
-
-B. Melbourne
-
-C. Canberra
-
-D. Perth
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q44.** Which is correct?
-
-**Options:**
-
-A. Cape Verde capital = Praia; Bamako = Mali
-
-B. Bamako is the capital of Cape Verde
-
-C. Cape Verde is landlocked in the Sahel
-
-D. Cape Verde’s capital is Kabul
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q45.** Suez lakes north to south:
-
-**Options:**
-
-A. Timsah → Little Bitter → Great Bitter → Manzala
-
-B. Manzala → Timsah → Great Bitter → Little Bitter
-
-C. Great Bitter → Manzala → Timsah → Little Bitter
-
-D. Little Bitter → Great Bitter → Timsah → Manzala
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q46.** Consider:
-
-1. EEZ is 200 nm.
-2. Territorial sea is full sovereignty with innocent passage.
-
-**Options:**
+Select the correct answer from the code given below:
 
 A. 1 only
-
 B. 2 only
-
-C. Both
-
-D. Neither
+C. 1 and 3 only
+D. 2 and 3 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: B.** Only pair 2 is not correctly matched.
+
+**Logic:** Longest land border is Bangladesh; shortest is Afghanistan.
 
 </details>
 
----
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Q47.** Kilimanjaro is in:
+Assertion (A): India is wholly tropical because the Tropic of Cancer passes through it.
 
-**Options:**
+Reason (R): India is the seventh-largest country and about 2.4% of world land.
 
-A. Kenya as the country fact
+Select the correct answer from the code given below:
 
-B. Tanzania
-
-C. Morocco
-
-D. Iran
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B.** (A) is false, but (R) is true.
+
+**A/R logic:** Tropic through the middle means India is not wholly tropical; area rank/share is true.
 
 </details>
 
----
+**Q5.** Arrange country area ladder (largest → smaller) for the first four in the usual set:
 
-**Q48.** Which Köppen type is hot desert?
+1. Canada
+2. Russia
+3. China
+4. USA
 
-**Options:**
+Select the correct answer from the code given below:
 
-A. Af
-
-B. BWh
-
-C. Cs
-
-D. EF
+A. 1-2-4-3
+B. 2-1-3-4
+C. 2-1-4-3
+D. 2-4-1-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: C.** Russia > Canada > USA > China.
+
+**Logic:** India is 7th in the fuller ladder.
 
 </details>
 
----
+**Q6.** With reference to India’s neighbours, which of the following statements is/are correct?
 
-**Q49.** Assertion (A): McMahon Line is the India–Pakistan boundary.
+1. Seven land neighbours include Pakistan, China, Nepal, Bhutan, Myanmar, Bangladesh and Afghanistan via Wakhan/PoK teaching.
+2. Maritime neighbours are Sri Lanka and the Maldives.
+3. Uttar Pradesh’s only foreign neighbour is Nepal.
 
-Reason (R): It was drawn in 1914 between India and Tibet/China.
-
-**Options:**
-
-A. Both true and R explains A
-
-B. Both true, R does not explain A
-
-C. A true, R false
-
-D. A false, R true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q50.** How many are correctly matched?
-
-1. Hormuz — oil gulf mouth
-2. Kiel — North Sea–Baltic
-3. Durand — India–China
-4. Gujarat — longest state coastline
-
-**Options:**
-
-A. Only two
-
-B. Only three
-
-C. All four
-
-D. Only one
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1, 2, 4. Durand = Pak–Afghan.
-
-</details>
-
----
-
-
-**Q51.** Which country is double landlocked?
-
-A. Nepal
-
-B. Bolivia
-
-C. Uzbekistan
-
-D. Uruguay
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — With Liechtenstein. Nepal/Bolivia are landlocked, not double.
-</details>
-
----
-
-**Q52.** The largest landlocked country by area is:
-
-A. Ethiopia
-
-B. Kazakhstan
-
-C. Liechtenstein
-
-D. Lesotho
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Caspian shore does not give ocean access.
-</details>
-
----
-
-**Q53.** Lesotho is best described as:
-
-A. A Pacific island state
-
-B. An enclave inside South Africa
-
-C. India’s maritime neighbour
-
-D. A double-landlocked Central Asian state
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q54.** Which of the following is/are correctly matched?
-
-1. 49th Parallel — USA–Canada stretch
-2. 38th Parallel — Korean divide story
-3. Maginot Line — historical France–Germany fortification
+Select the correct answer from the code given below:
 
 A. 1 and 2 only
-
 B. 2 and 3 only
-
 C. 1 and 3 only
-
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: D.** All three are correct.
+
+**Logic:** UP–Nepal is a state-level neighbour fact used again in Topic 24.
+
 </details>
 
----
+**Q7.** Consider the following strait pairs:
 
-**Q55.** Assertion (A): Continental shelf rights may extend beyond 200 nm up to about 350 nm.
-Reason (R): Therefore the EEZ water column automatically extends to 350 nm.
+1. Hormuz — Persian Gulf ↔ Gulf of Oman
+2. Malacca — Indian Ocean ↔ South China Sea approaches
+3. Gibraltar — Med ↔ Atlantic; Bosporus — Black Sea ↔ Marmara
 
-A. Both A and R are true and R explains A
-
-B. Both A and R are true but R does not explain A
-
-C. A is true but R is false
-
-D. A is false but R is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Extra shelf is seabed rights; EEZ water stops at 200 nm.
-</details>
-
----
-
-**Q56.** Innocent passage applies in the:
-
-A. High seas only
-
-B. Territorial sea
-
-C. Only beyond 350 nm
-
-D. Only in landlocked Bolivia
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Transit passage is the international-strait fact.
-</details>
-
----
-
-**Q57.** Which pair is NOT correctly matched?
-
-A. McMahon — India–China
-
-B. Durand — Pakistan–Afghanistan
-
-C. Radcliffe — 1947 Partition
-
-D. Oder–Neisse — India–Nepal
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Oder–Neisse = Germany–Poland.
-</details>
-
----
-
-**Q58.** The most populous landlocked country is:
-
-A. Liechtenstein
-
-B. Ethiopia
-
-C. Uruguay
-
-D. Sri Lanka
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q59.** Which of the following is/are correctly matched?
-
-1. Hormuz — Persian Gulf oil mouth
-2. Malacca — Indian Ocean–South China Sea approach
-3. Bosporus — Black Sea outlet toward Marmara
+Which of the statements given above is/are correct?
 
 A. 1 and 2 only
-
 B. 2 and 3 only
-
 C. 1 and 3 only
-
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: D.** All three are correct.
+
+**Logic:** Do not swap Hormuz with Malacca or Gibraltar with Bosporus.
+
 </details>
 
----
+**Q8.** Match List-I with List-II and select the correct answer using the code given below the lists:
 
-**Q60.** UP among India’s land neighbours touches:
+| List-I (Sobriquet) | List-II |
+|---------------------|--------|
+| A. Land of the Midnight Sun | 1. Japan |
+| B. Land of the Rising Sun | 2. Norway |
+| C. Thousand Lakes | 3. (South) Korea |
+| D. Morning Calm | 4. Finland |
 
-A. China and Myanmar only
+Code:
 
-B. Nepal only
-
-C. Bangladesh and Pakistan
-
-D. Sri Lanka
+A. A-2, B-4, C-1, D-3
+B. A-1, B-2, C-3, D-4
+C. A-2, B-1, C-4, D-3
+D. A-4, B-1, C-2, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: C.** Norway; Japan; Finland; Korea.
+
+**Logic:** Thailand = White Elephants among related tags.
+
 </details>
 
----
+**Q9.** Which of the following pairs is/are correctly matched?
 
-**Q61.** Which capital pair is correctly matched?
+1. Köppen — letter-code climate classes; Thornthwaite — vegetation as true climate index
+2. Mediterranean — winter rain; Western Europe — rain all months (Cfb / westerlies)
+3. Tropic of Cancer crosses Uttar Pradesh
 
-A. Myanmar — Yangon as the current capital fact
+Select the correct answer from the code given below:
 
-B. Australia — Canberra
-
-C. Brazil — Rio de Janeiro as capital
-
-D. Nigeria — Lagos as capital
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Myanmar = Naypyidaw; Brazil = Brasília; Nigeria = Abuja.
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** Tropic does not cross UP.
+
 </details>
 
----
+**Q10.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Q62.** Transit passage is classically linked to:
+Assertion (A): Bolivia is landlocked among common South America traps.
 
-A. Only internal lagoons
+Reason (R): Laos is the only SE Asia landlocked state in the usual set.
 
-B. International straits
+Select the correct answer from the code given below:
 
-C. Only 350 nm shelf claims
-
-D. Only landlocked Kazakhstan
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: A.** Both true; R does not explain A.
+
+**A/R logic:** Both are correct regional landlocked facts but different continents.
+
 </details>
 
----
+**Q11.** With reference to the Horn of Africa and Balkans, which of the following statements is/are correct?
 
-**Q63.** Which statement about India’s Tropic of Cancer is correct?
+1. Horn = Djibouti, Eritrea, Ethiopia, Somalia — not Sudan.
+2. Austria is not a Balkan state in the usual list.
+3. Oceania teaching excludes Indonesia; Caspian five exclude Armenia/Iraq.
 
-A. It passes through Uttar Pradesh
+Select the correct answer from the code given below:
 
-B. It does not pass through any Indian state
-
-C. It passes through eight states but not UP
-
-D. India lies wholly south of it
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: D.** All three are correct.
+
+**Logic:** Sudan-in-Horn and Austria-in-Balkans are over-inclusion traps.
+
 </details>
 
----
+**Q12.** Which of the following is/are **NOT** correctly matched?
 
-**Q64.** Which canal pair is correctly matched?
+1. Cape Verde capital — Praia
+2. Double-landlocked pair — Uzbekistan and Liechtenstein
+3. Gold Coast old name — Suriname
 
-A. Suez — Atlantic ↔ Pacific with facts
+Select the correct answer from the code given below:
 
-B. Panama — Mediterranean ↔ Red Sea, sea-level
-
-C. Kiel — North Sea ↔ Baltic
-
-D. Suez — North Sea ↔ Baltic
+A. 1 only
+B. 3 only
+C. 1 and 2 only
+D. 2 and 3 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: B.** Only pair 3 is not correctly matched.
+
+**Logic:** Gold Coast → Ghana; Dutch Guiana → Suriname.
+
 </details>
 
----
+**Q13.** Arrange old names to modern names in teaching pairs:
 
-**Q65.** Which pair is NOT correctly matched?
+1. Formosa → Taiwan
+2. Siam → Thailand
+3. Southern Rhodesia → Zimbabwe
+4. Dutch Guiana → Suriname
 
-A. Territorial sea — 12 nm
+Which code is 2-1-4-3?
 
-B. Contiguous zone — 24 nm
-
-C. EEZ — 200 nm
-
-D. Double landlocked — Nepal and Bolivia
+A. Siam→Thailand; Suriname; Taiwan; Zimbabwe
+B. Formosa→Taiwan; Siam→Thailand; Zimbabwe; Suriname
+C. Siam→Thailand; Formosa→Taiwan; Dutch Guiana→Suriname; Southern Rhodesia→Zimbabwe
+D. Gold Coast→Ghana; Siam→Thailand; Formosa→Taiwan; Zimbabwe
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Double = Uzbekistan and Liechtenstein.
+**Ans: C.** Siam, Formosa, Dutch Guiana, Southern Rhodesia in that coded order.
+
+**Logic:** Keep Gold Coast→Ghana separate from Dutch Guiana→Suriname.
+
 </details>
 
----
+**Q14.** With reference to capitals ≠ famous cities, which of the following statements is/are correct?
+
+1. Australia — Canberra; Japan — Tokyo; Nigeria — Abuja; Myanmar — Naypyidaw.
+2. Slovenia — Ljubljana (Bratislava is Slovakia).
+3. Istanbul is Turkey’s capital.
+
+Select the correct answer from the code given below:
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** Ankara is Turkey’s capital.
+
+</details>
+
+**Q15.** Match List-I with List-II and select the correct answer using the code given below the lists:
+
+| List-I (City tag) | List-II |
+|--------------------|--------|
+| A. Venice | 1. Golden Gate |
+| B. San Francisco | 2. Canals |
+| C. Chicago | 3. Paris of South America |
+| D. Buenos Aires | 4. City of Smoke |
+
+Code:
+
+A. A-2, B-4, C-1, D-3
+B. A-1, B-2, C-3, D-4
+C. A-2, B-1, C-4, D-3
+D. A-4, B-1, C-2, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Venice canals; SF Golden Gate; Chicago smoke; Buenos Aires Paris of SA.
+
+**Logic:** Osaka = Manchester of the East; St Petersburg = Venice of the North among related tags.
+
+</details>
+
+**Q16.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Kazakhstan is the largest landlocked country by area.
+
+Reason (R): Ethiopia is the most populous landlocked country in standard teaching.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; R does not explain A.
+
+**A/R logic:** Area leader and population leader are different landlocked records.
+
+</details>
+
+**Q17.** With reference to Gaza and Greenland, which of the following statements is/are correct?
+
+1. Gaza borders Egypt and Israel.
+2. Greenland is Denmark politically / North America geographically.
+3. Afghanistan borders Russia.
+
+Select the correct answer from the code given below:
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2 are correct.
+
+**Logic:** Afghanistan does not border Russia.
+
+</details>
+
+**Q18.** Which of the following pairs is/are correctly matched?
+
+1. Pamir — Roof of the World
+2. Baikal — Pearl of Siberia
+3. Bahrain — Island of Pearls; Aberdeen — Oil Capital of Europe
+4. Ninety East Ridge — Indian Ocean
+
+Select the correct answer from the code given below:
+
+A. 1, 2 and 3 only
+B. 2, 3 and 4 only
+C. 1, 3 and 4 only
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All four are correct.
+
+**Logic:** Sobriquet desk — do not swap Pamir/Tibet identities.
+
+</details>
+
+**Q19.** Consider the following statements about India coastline and states:
+
+1. Mainland plus islands coastline ≈ 7516 km.
+2. Gujarat has the longest state coastline; Telangana is not coastal.
+3. Egypt and Mexico are equatorial countries in the usual MCQ sense.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Egypt/Mexico are classic non-equatorial traps.
+
+</details>
+
+**Q20.** Which one of the following is correct?
+
+A. Lesotho is an enclave inside South Africa.
+B. Nobi/Kanto plains are in Korea.
+C. Igarka is in China.
+D. Oder–Neisse is the India–China line.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Lesotho is an enclave in South Africa.
+
+**Logic:** Nobi/Kanto–Japan; Igarka–Russia; Oder–Neisse–Germany/Poland historic line.
+
+</details>
+
+**Q21.** With reference to canals in this political-map chapter, which of the following statements is/are correct?
+
+1. Suez joins Med and Red Sea and shortens India–Europe by about 7000 km.
+2. Panama joins Atlantic and Pacific.
+3. Kiel joins North Sea and Baltic.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are correct.
+
+**Logic:** Same canal triad as industries chapter — keep waters unswapped.
+
+</details>
+
+**Q22.** Which of the following pairs is/are **NOT** correctly matched?
+
+1. South America — Bird Continent
+2. Sri Lanka — Pearl of the Indian Ocean / Mistress of the Eastern Sea tags
+3. Singapore — Land of the Midnight Sun
+
+Select the correct answer from the code given below:
+
+A. 1 only
+B. 3 only
+C. 1 and 2 only
+D. 2 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only pair 3 is not correctly matched.
+
+**Logic:** Singapore = Gateway to Asia; Midnight Sun = Norway.
+
+</details>
+
+**Q23.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Contiguous zone extends to 24 nm.
+
+Reason (R): EEZ extends to 200 nm.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; R does not explain A.
+
+**A/R logic:** Both are correct UNCLOS distances but different belts.
+
+</details>
+
+**Q24.** With reference to Central Asia capitals reused here, which of the following is/are correctly matched?
+
+1. Uzbekistan — Tashkent
+2. Tajikistan — Dushanbe
+3. Kyrgyzstan — Bishkek
+4. Turkmenistan — Ashgabat
+
+Select the correct answer from the code given below:
+
+A. 1, 2 and 3 only
+B. 2, 3 and 4 only
+C. 1, 3 and 4 only
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All four are correct.
+
+**Logic:** Swapped stan capitals remain the trap.
+
+</details>
+
+**Q25.** Arrange boundary parallels / lines by identity teaching:
+
+1. Radcliffe — 1947 Partition line
+2. 38th — Koreas
+3. Durand — Pak–Afghan
+4. McMahon — India–China
+
+Select the order 4-3-1-2:
+
+A. McMahon → Durand → Radcliffe → 38th
+B. Durand → McMahon → 38th → Radcliffe
+C. Radcliffe → McMahon → Durand → 38th
+D. 38th → Durand → McMahon → Radcliffe
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** McMahon, Durand, Radcliffe, then 38th parallel.
+
+**Logic:** Keep each line’s pair fixed.
+
+</details>
+
+**Q26.** Consider the following statements:
+
+1. Longest world coastline among usual options is Canada.
+2. Baikonur is in Kazakhstan.
+3. Malta is Mediterranean; Alaska is USA.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are correct.
+
+**Logic:** Megacity coastal-gateway note is separate map diet.
+
+</details>
+
+**Q27.** Which one of the following correctly states a Rio Grande / Maginot teaching point?
+
+A. Rio Grande ≈ USA–Mexico; Maginot ≈ France–Germany historic line teaching.
+B. Rio Grande ≈ USA–Canada.
+C. Maginot ≈ India–China.
+D. Both are UNCLOS EEZ limits.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Rio Grande and Maginot are boundary-line tags, not EEZ numbers.
+
+**Logic:** 49th is the long USA–Canada parallel stretch.
+
+</details>
+
+**Q28.** With reference to India’s area rank, which of the following statements is/are correct?
+
+1. India is 7th largest by area.
+2. India is about 2.4% of world land.
+3. India is 6th largest and wholly tropical.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** 7th + 2.4% are the desk; wholly tropical is false.
+
+</details>
+
+**Q29.** Match List-I with List-II and select the correct answer using the code given below the lists:
+
+| List-I | List-II |
+|--------|--------|
+| A. Istanbul | 1. Gateway to Asia |
+| B. Singapore | 2. Gateway to the West |
+| C. Sri Lanka | 3. White Elephants |
+| D. Thailand | 4. Pearl / Mistress tags (Indian Ocean) |
+
+Code:
+
+A. A-2, B-1, C-4, D-3
+B. A-1, B-2, C-3, D-4
+C. A-2, B-4, C-1, D-3
+D. A-4, B-1, C-2, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Istanbul West gateway; Singapore Asia gateway; Sri Lanka ocean pearl tags; Thailand white elephants.
+
+**Logic:** Sobriquet matching — reject Midnight Sun on Singapore.
+
+</details>
+
+**Q30.** With reference to Bering Strait and related facts, which of the following statements is/are correct?
+
+1. Bering Strait separates Russia and the USA.
+2. Most megacities are coastal as ocean gateways in teaching notes.
+3. Contiguous zone is 200 nm.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Contiguous = 24 nm; EEZ = 200 nm.
+
+</details>
 
 ## Common Traps — Don't Fall For These
 

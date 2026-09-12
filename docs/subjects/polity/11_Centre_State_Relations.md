@@ -2546,168 +2546,179 @@ D. Article 307
 
 ## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden.** Full stems (not cryptic stubs). **78 questions in UPPCS / RO-ARO 2024–25 format.** ≥60% multi-statement. Q1–Q48 = legislative/admin/finance; Q49–Q78 = inter-State machinery.
+> **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D | **Ans first, then Logic**
 
-**Q1.** With reference to legislative relations, which of the following statements is/are correct?
-1. Parliament may make extra-territorial laws.
-2. A State legislature may make extra-territorial laws without any territorial nexus.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
+**Q1.** With reference to Centre–State legislative relations, which of the following statements is/are correct?
+
+1. Under Article 246, Union List prevails over Concurrent, and Concurrent over State List.
+2. Residuary powers, including residuary taxation, belong to the States as in the US model.
+
+A. Only 2
+B. Only 1
 C. Both 1 and 2
 D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — 245(2) is **Parliament**. State needs **nexus**.
+**Ans: B.** Only 1 is correct.
+
+**Logic:** Residuary powers are with the Union (248 / Entry 97), unlike the US.
 
 </details>
 
-**Q2.** Consider the following statements:
-1. In case of overlapping, the Union List prevails over the State List.
-2. Residuary powers are vested in the States on the U.S. pattern.
-Which of the statements given above is/are correct?
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
+**Q2.** Consider the following pairs:
+
+1. Article 249 — Rajya Sabha resolution; Parliament on State List in national interest (one year)
+2. Article 250 — Parliament on State List during National Emergency
+3. Article 253 — two or more States must request before a treaty law
+
+Which of the pairs given above is/are correctly matched?
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — residuary = **Union**.
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** 253 needs no State request — treaties/international obligations suffice.
 
 </details>
 
-**Q3.** Match List-I with List-II and select the correct answer using the code given below the lists:
+**Q3.** Which of the following pairs is/are NOT correctly matched?
 
-**List-I**
+1. Article 252 — two or more States request; only Parliament can amend/repeal that law
+2. Article 254(1) — State Concurrent law always prevails over Union law
+3. Article 254(2) — reserved State law with Presidential assent can prevail until Parliament re-legislates
 
-| Code | Item |
-|------|------|
-| A | Art. 249 |
-| B | Art. 250 |
-| C | Art. 252 |
-| D | Art. 253 |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Two or more States request Parliament |
-| 2 | RS resolution, national interest |
-| 3 | Treaty / international conference |
-| 4 | Legislation on State List during Emergency |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-2, B-4, C-1, D-3
-B. A-2, B-1, C-4, D-3
-C. A-4, B-2, C-1, D-3
-D. A-2, B-4, C-3, D-1
+A. 1 and 2 only
+B. 2 only
+C. 2 and 3 only
+D. 1 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Pair 2 is wrong; 1 and 3 are correct.
+
+**Logic:** 254(1): Union prevails on Concurrent clash; 254(2) is the assent carve-out.
 
 </details>
 
-**Q4.** With reference to Article 249, which of the following statements is/are correct?
-1. The Rajya Sabha resolution must be passed by a two-thirds majority of the total membership of the House.
-2. A law made under Article 249 ceases to have effect on the expiration of six months after the resolution has ceased to be in force.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-<details>
-<summary>Show answer</summary>
+Assertion (A): The Rajya Sabha special majority for Articles 249 and 312 is two-thirds of members present and voting.
 
-**Ans: B** — majority is **2/3 present and voting**.
+Reason (R): That formula is the same as two-thirds of the total membership of the House.
 
-</details>
-
-**Q5.** Which of the following is **not** a situation in which Parliament may legislate on a State List subject?
-A. Rajya Sabha resolution under Article 249
-B. Implementation of an international treaty under Article 253
-C. A request by a single State legislature under Article 252
-D. Proclamation of Emergency under Article 250
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — 252 needs **two or more** States.
-
-</details>
-
-**Q6.Assertion (A):** A State law on a Concurrent subject may prevail in that State even if it is repugnant to an earlier Union law.
-
-**Reason (R):** Article 254(2) saves such a State law if it was reserved for the President and received his assent.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Parliament can still override later.
+**Ans: C.** (A) is true, but (R) is false.
+
+**A/R logic:** Present-and-voting ≠ total membership — a classic special-majority trap.
 
 </details>
 
-**Q7.** The doctrine of pith and substance is used to which of the following?
-A. Strike down a law that is labelled wrongly even if its true nature is intra vires
-B. Save a law if its true nature is within the legislature’s competence despite incidental encroachment
-C. Decide repugnancy between two Concurrent statutes only
-D. Transfer residuary subjects to the States
+**Q5.** Match List-I with List-II:
+
+| List-I (Doctrine) | List-II (Idea) |
+|--------------------|----------------|
+| A. Pith and substance | 1. Cannot do indirectly what you cannot do directly |
+| B. Colourable legislation | 2. Incidental encroachment can still be valid |
+| C. Repugnancy | 3. Concurrent clash — Union generally prevails |
+
+Codes:
+
+A. A-1, B-2, C-3
+B. A-2, B-1, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B.** A-2, B-1, C-3.
+
+**Logic:** Pith & substance ≠ colourable legislation.
 
 </details>
 
-**Q8.** Which of the following is **not** correctly matched?
-A. Colourable legislation — cannot do indirectly what cannot be done directly
-B. Harmonious construction — both provisions of the same instrument to be given effect
-C. Repugnancy under 254 — clash between Union List and State List
-D. Pith and substance — look at the true nature of the law
+**Q6.** Arrange the following committees/reports in correct chronological order:
+
+1. Punchhi Commission
+2. Rajamannar Committee
+3. Sarkaria Commission
+
+A. 3-2-1
+B. 2-1-3
+C. 3-1-2
+D. 2-3-1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — 254 is **Concurrent**. List clash = **246**.
+**Ans: D.** 1969 → 1983–88 → 2007–10.
+
+**Logic:** Rajamannar, then Sarkaria, then Punchhi.
 
 </details>
 
-**Q9.** The 42nd Amendment transferred which of the following to the Concurrent List?
-1. Education
-2. Forests
-3. Police
-4. Protection of wild animals and birds
-Select the correct answer using the code given below:
-A. 1, 2 and 3 only
-B. 1, 2 and 4 only
-C. 2, 3 and 4 only
-D. 1, 2, 3 and 4
+**Q7.** With reference to administrative relations, which of the following statements is/are correct?
+
+1. Articles 256 and 257 require States to comply with Union laws and directions.
+2. Ignoring Union directions under Article 365 can open the path to Article 356.
+3. Article 258A allows the Union to entrust functions to a State without any constitutional basis for reverse entrustment.
+
+A. 2 and 3 only
+B. 1 and 3 only
+C. 1, 2 and 3
+D. 1 and 2 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — police stays **State**.
+**Ans: D.** Only 1 and 2 are correct.
+
+**Logic:** 258A (7th Amendment) lets a State entrust functions to the Union.
 
 </details>
 
-**Q10.** With reference to the Seventh Schedule, consider the following pairs:
-1. Census — Union List
-2. Public health and sanitation — State List
-3. Adulteration of foodstuffs — Concurrent List
-Which of the pairs given above are correctly matched?
+**Q8.** Consider the following statements about All-India Services:
+
+1. Article 312 needs a Rajya Sabha resolution by two-thirds present and voting, then a Parliament law.
+2. The three AIS are IAS, IPS, and IFoS.
+3. Rajamannar recommended strengthening and expanding All-India Services.
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2 are correct.
+
+**Logic:** Rajamannar wanted abolition of AIS — opposite of Sarkaria’s keep-AIS line.
+
+</details>
+
+**Q9.** With reference to financial relations, which of the following is/are correct?
+
+1. Article 271 surcharge on certain Union taxes belongs to the Union only and is not shared.
+2. Article 268 stamp duties are levied by the Union but collected by the States.
+3. Article 275 grants recommended by the Finance Commission are discretionary like Article 282.
+
 A. 1 and 2 only
 B. 2 and 3 only
 C. 1 and 3 only
@@ -2716,14 +2727,38 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** 275 = FC-recommended, charged; 282 = discretionary — do not swap.
 
 </details>
 
-**Q11.** How many of the following statements about All-India Services are correct?
-1. A new AIS can be created only after a Rajya Sabha resolution.
-2. The resolution requires two-thirds of the total membership of the Rajya Sabha.
-3. IAS, IPS and IFoS are the existing All-India Services.
+**Q10.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): The Finance Commission under Article 280 reports to the President.
+
+Reason (R): NITI Aayog replaced the Finance Commission in 2015 and now decides vertical tax shares.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** (A) is true, but (R) is false.
+
+**A/R logic:** NITI replaced the Planning Commission, not the Finance Commission.
+
+</details>
+
+**Q11.** How many of the following Finance Commission facts are correct?
+
+1. Composition is a Chair plus four other members.
+2. 14th FC vertical share was 42%; 15th FC set 41%.
+3. First Chair was K.C. Neogy; 16th is chaired by Arvind Panagariya.
+
 A. Only one
 B. Only two
 C. All three
@@ -2732,183 +2767,18 @@ D. None
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — 1 and 3. Statement 2 fails (**present and voting**).
+**Ans: C.** All three are correct.
+
+**Logic:** Standard FC facts from Must-Score.
 
 </details>
 
-**Q12.Assertion (A):** Article 365 can lead to President’s Rule.
+**Q12.** With reference to GST, which of the following statements is/are correct?
 
-**Reason (R):** Failure of a State to comply with Union directions may be treated as a situation in which the State government cannot be carried on in accordance with the Constitution.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+1. GST rests on Article 246A, not residuary Entry 97.
+2. The GST Council is chaired by the Union Finance Minister.
+3. Centre has two-thirds voting weight and States one-third.
 
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q13.** Article 258A, inserted by the 7th Amendment, enables?
-A. The Union to give directions to States regarding railways
-B. A State to entrust its executive functions to the Union with the latter’s consent
-C. Parliament to create additional courts
-D. Full faith and credit to public acts of States
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q14.** Full faith and credit throughout the territory of India is provided in which of the following?
-A. Article 131
-B. Article 256
-C. Article 261
-D. Article 301
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q15.** With reference to Union–State taxation, which of the following statements is/are correct?
-1. A surcharge under Article 271 forms part of the divisible pool.
-2. Stamp duties under Article 268 are levied by the Union but collected by the States.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — surcharge is **Union-only**.
-
-</details>
-
-**Q16.** Match List-I with List-II and select the correct answer using the code given below the lists:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | Art. 270 |
-| B | Art. 269A |
-| C | Art. 271 |
-| D | Art. 276 |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | IGST |
-| 2 | Divisible pool |
-| 3 | Profession tax ceiling |
-| 4 | Surcharge for Union purposes |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-2, B-1, C-4, D-3
-B. A-1, B-2, C-4, D-3
-C. A-2, B-4, C-1, D-3
-D. A-2, B-1, C-3, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q17.** With reference to the Finance Commission, which of the following statements is/are correct?
-1. It consists of a Chairman and four other members.
-2. It submits its report to the NITI Aayog.
-3. Qualifications of members are determined by Parliament.
-Select the correct answer using the code given below:
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q18.** Arrange the following Finance Commissions in **chronological order** of constitution:
-1. Y.V. Reddy
-2. N.K. Singh
-3. C. Rangarajan
-4. Vijay Kelkar
-Select the correct answer using the code given below:
-A. 3 – 4 – 1 – 2
-B. 4 – 3 – 1 – 2
-C. 3 – 1 – 4 – 2
-D. 3 – 4 – 2 – 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 12th, 13th, 14th, 15th.
-
-</details>
-
-**Q19.** Which of the following is **not** correctly matched?
-A. First Finance Commission — K.C. Neogy
-B. Fourteenth Finance Commission — Y.V. Reddy
-C. Sixteenth Finance Commission — N.K. Singh
-D. Eleventh Finance Commission — A.M. Khusro
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — 16th = **Arvind Panagariya**; N.K. Singh = **15th**.
-
-</details>
-
-**Q20.Assertion (A):** Article 275 grants are charged on the Consolidated Fund of India.
-
-**Reason (R):** Article 282 grants can be made by the Union or a State for any public purpose.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — both true; R does not explain A.
-
-</details>
-
-**Q21.** The GST Council takes a decision by which of the following?
-A. Simple majority of members present and voting
-B. Two-thirds of the total membership
-C. A majority of not less than three-fourths of the weighted votes of members present and voting
-D. Unanimity only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q22.** With reference to the GST Council, consider the following statements:
-1. The Union Finance Minister is the Chairperson.
-2. The vote of the Central Government has a weightage of one-third of the total votes cast.
-3. Its recommendations are binding on Parliament in the same way as a Money Bill.
-Which of the statements given above are correct?
 A. 1 and 2 only
 B. 2 and 3 only
 C. 1 and 3 only
@@ -2917,70 +2787,58 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — *Mohit Minerals* (2022): **not** binding legislation.
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Weights are Centre one-third and States two-thirds.
 
 </details>
 
-**Q23.** GST was given constitutional status by the?
-A. 73rd Amendment
-B. 86th Amendment
-C. 101st Amendment
-D. 102nd Amendment
+**Q13.** Consider the following statements about the GST Council:
+
+1. Decisions need three-fourths weighted majority; quorum is half.
+2. Recommendations are strictly binding in all cases after Mohit Minerals (2022).
+3. Liquor stays outside GST; five petroleum items stay out until the Council decides otherwise.
+
+A. 1 and 3 only
+B. 1 and 2 only
+C. 2 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: A.** Only 1 and 3 are correct.
+
+**Logic:** Mohit Minerals held recommendations are not strictly binding.
 
 </details>
 
-**Q24.** Which of the following statements about Article 301 is/are correct?
-1. It guarantees freedom of trade, commerce and intercourse throughout the territory of India.
-2. It is a Fundamental Right available only to citizens.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
+**Q14.** Which of the following is/are NOT correctly matched?
+
+1. Inter-State Council (263) — constitutional; PM chairs; 1990 order on Sarkaria advice
+2. Zonal Councils — constitutional bodies under Article 263
+3. North Eastern Council — sixth Zonal Council under SRA 1956
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Part **XIII**, not Art. 19.
+**Ans: A.** Pairs 2 and 3 are wrong.
+
+**Logic:** Zonal Councils are statutory (SRA 1956); NEC is under a 1971 Act, not a sixth zone.
 
 </details>
 
-**Q25.** A State law imposing reasonable restrictions on freedom of trade under Article 304(b) requires?
-A. Subsequent approval of the Governor
-B. Previous sanction of the President
-C. Ratification by Parliament
-D. A Rajya Sabha resolution
+**Q15.** With reference to Zonal Councils, which of the following statements is/are correct?
 
-<details>
-<summary>Show answer</summary>
+1. The Union Home Minister chairs them.
+2. Uttar Pradesh sits in the Northern Zonal Council.
+3. There are five Zonal Councils.
 
-**Ans: B**
-
-</details>
-
-**Q26.** Inter-State migration is a subject of the?
-A. State List
-B. Concurrent List
-C. Union List
-D. Residuary field only, unnamed
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Entry **81**.
-
-</details>
-
-**Q27.** Consider the following pairs (List — subject):
-1. Inter-State trade and commerce — Union List
-2. Trade and commerce within the State — State List
-3. Trade in foodstuffs (Entry 33-type) — Concurrent List
-Which of the pairs given above are correctly matched?
 A. 1 and 2 only
 B. 1 and 3 only
 C. 2 and 3 only
@@ -2989,226 +2847,38 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: B.** Only 1 and 3 are correct.
+
+**Logic:** UP is in the Central Zonal Council with UK, MP, and Chhattisgarh.
 
 </details>
 
-**Q28.** Which one of the following pairs is **not** correctly matched?
-A. Finance Commission — Article 280
-B. GST Council — Article 279A
-C. Inter-State Council — Article 263
-D. Full faith and credit — Article 312
+**Q16.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-<details>
-<summary>Show answer</summary>
+Assertion (A): Article 301 freedom of trade is a Fundamental Right under Article 19.
 
-**Ans: D** — 312 = AIS; full faith = **261**.
+Reason (R): A State restriction under Article 304(b) needs previous Presidential sanction.
 
-</details>
-
-**Q29.** Arrange the following in **correct chronological order**:
-1. 7th Amendment (Art. 258A)
-2. 42nd Amendment (five subjects to Concurrent List)
-3. 101st Amendment (GST)
-4. 60th Amendment (profession-tax ceiling)
-Select the correct answer using the code given below:
-A. 1 – 2 – 4 – 3
-B. 1 – 4 – 2 – 3
-C. 2 – 1 – 4 – 3
-D. 1 – 2 – 3 – 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 1956, 1976, 1988, 2016.
-
-</details>
-
-**Q30.** With reference to Article 252, which of the following statements is/are correct?
-1. Parliament may legislate for two or more States by their consent on a State List matter.
-2. Other States may adopt the law by passing a resolution in their legislatures.
-3. A participating State may amend that law by its own Act.
-Select the correct answer using the code given below:
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — amend/repeal = **Parliament only**.
-
-</details>
-
-**Q31.Assertion (A):** The Union may issue directions to a State for the construction of means of communication of national or military importance.
-
-**Reason (R):** Article 257 expressly authorises such directions.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** (A) is false, but (R) is true.
+
+**A/R logic:** 301 is not an Article 19 FR; 304(b) sanction fact is correct.
 
 </details>
 
-**Q32.** A State indebted to the Government of India cannot raise a further loan without?
-A. RBI approval only
-B. Consent of the Government of India
-C. A Finance Commission award
-D. A GST Council resolution
+**Q17.** With reference to inter-State river water disputes, which of the following is/are correct?
 
-<details>
-<summary>Show answer</summary>
+1. Water is State List Entry 17, subject to Union List Entry 56 for inter-State rivers.
+2. Article 262 lets Parliament bar courts; the 1956 Act barred Article 131 for such disputes.
+3. The 2019 tribunal Bill is presently in force as the sole water-dispute statute.
 
-**Ans: B** — Art. **293**.
-
-</details>
-
-**Q33.** Which of the following is/are among the duties of the Finance Commission?
-1. Distribution of net proceeds of taxes between Union and States
-2. Principles governing grants-in-aid under Article 275
-3. Preparation of the Union Budget
-Select the correct answer using the code given below:
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q34.** NITI Aayog is?
-A. A constitutional body under Article 280
-B. A statutory body under Article 263
-C. An extra-constitutional / executive body
-D. A Part XIVA tribunal
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — 2018 fact vs FC / ECI / UPSC.
-
-</details>
-
-**Q35.** With reference to colourable legislation, which of the following statements is/are correct?
-1. The court looks at the substance of the law, not merely its form.
-2. It is another name for the doctrine of pith and substance.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — pith **saves**; colourable **strikes**.
-
-</details>
-
-**Q36.** Article 257A, which provided for Union assistance to States by deployment of armed forces, was?
-A. Original and still in force
-B. Inserted by the 42nd Amendment and repealed by the 44th
-C. Inserted by the 44th Amendment
-D. Inserted by the 7th Amendment
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q37.** Consider the following statements about the GST constitutional scheme:
-1. Article 246A is a special provision for GST, distinct from residuary Article 248.
-2. IGST is levied and collected by the Union under Article 269A.
-Which of the statements given above is/are correct?
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q38.** The ceiling of tax on professions, trades, callings and employments is provided in which of the following?
-A. Article 270
-B. Article 276
-C. Article 280
-D. Article 289
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — **₹2,500** after the **60th** Amendment.
-
-</details>
-
-**Q39.** Which of the following statements is/are correct?
-1. Allocation of seats in the Rajya Sabha is in the Fourth Schedule.
-2. The Seventh Schedule contains the Union, State and Concurrent Lists.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q40.Assertion (A):** Inter-State migration is a Union List subject.
-
-**Reason (R):** Entry 81 of the Union List mentions inter-State migration and inter-State quarantine.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q41.** With reference to the President’s role in State legislation, which of the following statements is/are correct?
-1. A Bill reserved under Article 200 may be withheld by the President under Article 201.
-2. If a reserved Bill is returned and passed again by the State legislature, the President is bound to assent.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — unlike the Governor after reconsideration, the President **need not** assent.
-
-</details>
-
-**Q42.** Consider the following statements:
-1. Article 258(1) requires the consent of the State before Union functions are entrusted to it.
-2. Article 258(2) allows Parliament to confer Union-law powers on a State even without its consent.
-3. Article 258A is an original provision of 1950.
-Which of the statements given above are correct?
 A. 1 and 2 only
 B. 2 and 3 only
 C. 1 and 3 only
@@ -3217,28 +2887,18 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — 258A = **7th Amendment**.
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** The 2019 Bill lapsed — do not treat it as in force.
 
 </details>
 
-**Q43.** Which of the following is **not** correctly matched?
-A. Art. 339(2) — Union directions on ST welfare schemes
-B. Art. 350A — mother-tongue primary education; President may direct
-C. Art. 273 — grants in lieu of jute export duty to all States
-D. Art. 279 — “net proceeds” certified with CAG’s role
+**Q18.** Consider the following statements about Article 131:
 
-<details>
-<summary>Show answer</summary>
+1. It is the Supreme Court’s exclusive original jurisdiction for Union–State or inter-State disputes involving a legal right.
+2. Private parties can routinely invoke Article 131.
+3. Full faith and credit across India is Article 261, not 131.
 
-**Ans: C** — only **Assam, Bihar, Odisha, West Bengal**.
-
-</details>
-
-**Q44.** With reference to Finance Commission devolution, which of the following statements is/are correct?
-1. The 14th Finance Commission recommended 42 per cent as the States’ share of the divisible pool.
-2. The 15th Finance Commission recommended 41 per cent.
-3. Qualifications of FC members are laid down by the President by order, not by Parliament.
-Select the correct answer using the code given below:
 A. 1 and 2 only
 B. 1 and 3 only
 C. 2 and 3 only
@@ -3247,394 +2907,182 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — qualifications = **1951 Act / Parliament**.
+**Ans: B.** Only 1 and 3 are correct.
+
+**Logic:** Private parties are out of 131.
 
 </details>
 
-**Q45.** With reference to GST, which of the following statements is/are correct?
-1. Alcoholic liquor for human consumption is outside GST and remains a State tax field.
-2. Crude oil, petrol, diesel, natural gas and ATF are outside GST until the GST Council recommends their inclusion.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
+**Q19.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. Sarkaria | 1. Residuary to States; abolish AIS; repeal 356 |
+| B. Rajamannar | 2. Strong Centre; keep AIS & 356; ISC created |
+| C. Punchhi | 3. Localise 356; time-cap bills under 201 |
+
+Codes:
+
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: A.** A-2, B-1, C-3.
+
+**Logic:** Do not credit Punchhi for creating the Inter-State Council.
 
 </details>
 
-**Q46.** Match List-I with List-II and select the correct answer using the code given below the lists:
+**Q20.** Arrange the following in correct chronological order:
 
-**List-I**
+1. GST goes live
+2. 101st Amendment
+3. NITI Aayog replaces Planning Commission
+4. Inter-State Council established by Presidential order
 
-| Code | Item |
-|------|------|
-| A | All-India Services Act |
-| B | IFoS as AIS |
-| C | Art. 258A |
-| D | NITI Aayog |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | 7th Amendment |
-| 2 | 1951 |
-| 3 | 1966 |
-| 4 | 2015 |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-2, B-3, C-1, D-4
-B. A-2, B-1, C-3, D-4
-C. A-3, B-2, C-1, D-4
-D. A-2, B-3, C-4, D-1
+A. 4-3-2-1
+B. 4-2-3-1
+C. 3-4-2-1
+D. 4-3-1-2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: A.** 1990 → 2015 → 2016 → 1 July 2017.
+
+**Logic:** ISC order, NITI, 101st Amendment, then GST live date.
 
 </details>
 
-**Q47.Assertion (A):** NITI Aayog is not a substitute for the Finance Commission.
+**Q21.** With reference to taxation limits and grants, which of the following is/are correct?
 
-**Reason (R):** NITI Aayog is an extra-constitutional body; the Finance Commission is a constitutional body under Article 280.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+1. Profession tax ceiling under Article 276 is ₹2,500 after the 60th Amendment.
+2. Article 273 jute export-duty grants go to Assam, Bihar, Odisha, and West Bengal.
+3. A State indebted to the Centre needs Union consent to borrow further (Article 293).
 
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — NITI replaced the **Planning Commission**, not the FC.
-
-</details>
-
-**Q48.** Which of the following statements about Article 261 is/are correct?
-1. It requires full faith and credit to public acts, records and judicial proceedings of the Union and of every State.
-2. It is the article under which the Supreme Court decides Centre–State disputes.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — disputes = **131**.
-
-</details>
-
-**Q49.** On the recommendation of which Commission/Committee was the Inter-State Council set up in India?
-A. Punchhi Commission
-B. Rajamannar Committee
-C. Kothari Committee
-D. Sarkaria Commission
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — constituted **1990** after Sarkaria (**1988**). Rajamannar asked earlier; Punchhi came **after** the Council already existed.
-
-</details>
-
-**Q50.** With reference to the Inter-State Council, which of the following statements is/are correct?
-1. It is established under Article 263.
-2. The Union Home Minister is the Chairperson of the Council.
-3. It was set up by a Presidential Order in 1990.
-Select the correct answer using the code given below:
 A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 3 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Chair = **PM**. HM chairs the **Standing Committee** and the **Zonal Councils**.
+**Ans: C.** All three are correct.
+
+**Logic:** 276 ceiling + 273 States + 293 borrowing consent.
 
 </details>
 
-**Q51.** Match List-I with List-II and select the correct answer using the code given below the lists:
+**Q22.** Which of the following statements about the 42nd Amendment’s list shift is/are correct?
 
-**List-I**
+1. It moved five subjects from the State List to the Concurrent List.
+2. Inter-State migration and quarantine sit in Union List Entry 81.
 
-| Code | Item |
-|------|------|
-| A | Inter-State Council |
-| B | Zonal Council |
-| C | GST Council |
-| D | NEC (after 2002) |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Union Home Minister |
-| 2 | Union Finance Minister |
-| 3 | Prime Minister |
-| 4 | Prime Minister |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-3, B-1, C-2, D-4
-B. A-1, B-3, C-2, D-4
-C. A-3, B-1, C-4, D-2
-D. A-3, B-2, C-1, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — ISC and NEC both **PM**; Zonal **HM**; GST **FM**.
-
-</details>
-
-**Q52.** Uttar Pradesh is a member of which Zonal Council?
-A. Northern
-B. Central
-C. Eastern
-D. Western
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — with Uttarakhand, MP, Chhattisgarh.
-
-</details>
-
-**Q53.** Which of the following statements is/are correct?
-1. Zonal Councils are constitutional bodies under Article 263.
-2. There are five Zonal Councils created by the States Reorganisation Act, 1956.
-3. The North Eastern Council is the sixth Zonal Council under the same Act.
-Select the correct answer using the code given below:
-A. Only 2
-B. 1 and 2 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Zonal = **statutory SRA 1956**. NEC = **1971 Act**, not a sixth zonal.
-
-</details>
-
-**Q54.Assertion (A):** The Supreme Court has no original jurisdiction over inter-State river water disputes if Parliament so provides.
-
-**Reason (R):** Article 262(2) permits Parliament to bar the Supreme Court and other courts, and the 1956 Act did so.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q55.** Which of the following is **not** correctly matched?
-A. Inter-State River Water Disputes Act — 1956, adjudication
-B. River Boards Act — 1956, advisory
-C. ISRWD Amendment Bill, 2019 — in force as a permanent tribunal
-D. Article 262 — Parliament may bar all courts
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Bill **lapsed**; ad-hoc tribunals continue.
-
-</details>
-
-**Q56.** Arrange the following in **correct chronological order**:
-1. Punchhi Commission constituted
-2. Sarkaria Commission constituted
-3. Rajamannar Committee
-4. Inter-State Council set up
-Select the correct answer using the code given below:
-A. 3 – 2 – 4 – 1
-B. 3 – 2 – 1 – 4
-C. 2 – 3 – 4 – 1
-D. 3 – 4 – 2 – 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 1969, 1983, 1990, 2007.
-
-</details>
-
-**Q57.** Match List-I with List-II and select the correct answer using the code given below the lists:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | Rajamannar |
-| B | Sarkaria |
-| C | Punchhi |
-| D | Anandpur Sahib |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Strong Centre; keep AIS; ISC under 263 |
-| 2 | Localised emergency; strengthen ISC; 201 time-cap |
-| 3 | Residuary to States; abolish AIS; repeal 356 |
-| 4 | Centre limited to defence, foreign, currency, communications |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-3, B-1, C-2, D-4
-B. A-1, B-3, C-2, D-4
-C. A-3, B-2, C-1, D-4
-D. A-3, B-1, C-4, D-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q58.** With reference to Article 131, consider the following statements:
-1. It is the exclusive original jurisdiction of the Supreme Court over Union–State and inter-State disputes involving a legal right.
-2. A State may sue a private company under Article 131 merely because the Union holds shares in it.
-3. Inter-State river water disputes are heard under Article 131 as a matter of course.
-Which of the statements given above is/are correct?
 A. Only 1
-B. 1 and 2 only
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both are correct.
+
+**Logic:** List-shift + Entry 81 fact.
+
+</details>
+
+**Q23.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Article 285 bars a State from taxing Union property.
+
+Reason (R): Article 289 allows the Union to tax State property without any constitutional exception framework.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** (A) is true, but (R) is false.
+
+**A/R logic:** Union taxation of State property is restricted — 289 is not a free pass.
+
+</details>
+
+**Q24.** With reference to Parts governing Centre–State rules, which of the following is/are correct?
+
+1. Part XI covers legislative and administrative relations (245–263).
+2. Part XII carries the finance slice including Articles 264–293 territory.
+3. The 7th Schedule carries the three Lists.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All three are correct.
+
+**Logic:** XI + XII + 7th Schedule frame.
+
+</details>
+
+**Q25.** Consider the following statements:
+
+1. During President’s Rule, Parliament can legislate on State List matters.
+2. Article 248 residuary taxation is a Union power.
+3. GST is best classified as a pure residuary Entry 97 tax.
+
+A. 1 and 2 only
+B. 2 and 3 only
 C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — *Bihar v UoI*: private/PSU shareholding ≠ 131. Water = **262**.
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** GST is Article 246A special power — not Entry 97.
 
 </details>
 
-**Q59.** Which of the following recommendations is **not** associated with the Sarkaria Commission?
-A. A strong Centre is necessary
-B. All-India Services should continue
-C. Residuary powers should vest in the States
-D. Inter-State Council should be set up under Article 263
+**Q26.** How many of the following are correctly stated?
 
-<details>
-<summary>Show answer</summary>
+1. North Eastern Council is chaired by the Prime Minister (from 2002).
+2. Zonal Councils are five in number under SRA 1956.
+3. Inter-State Council is recommendatory.
 
-**Ans: C** — residuary-to-States is **Rajamannar**.
-
-</details>
-
-**Q60.** The recommendations of the Sarkaria Commission relate to which of the following?
-A. Distribution of revenue only
-B. Powers and functions of the President only
-C. Membership of Parliament
-D. Centre–State relations
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q61.** With reference to Zonal Councils, which of the following statements is/are correct?
-1. The Union Home Minister is the common Chairman of all five Zonal Councils.
-2. The Vice-Chairman is the Chief Minister of the host State, holding office for one year by rotation.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q62.Assertion (A):** The Rajamannar Committee recommended abolition of the All-India Services.
-
-**Reason (R):** The Sarkaria Commission also recommended abolition of the IAS and IPS.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Sarkaria said **continue** AIS.
-
-</details>
-
-**Q63.** Which one of the following pairs is **not** correctly matched?
-A. Cauvery — Karnataka, Tamil Nadu, Kerala, Puducherry
-B. Narmada — Madhya Pradesh, Gujarat, Maharashtra, Rajasthan
-C. Ravi–Beas — Punjab, Haryana, Rajasthan
-D. Krishna — Uttar Pradesh, Bihar, West Bengal
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Krishna = MH, KA, AP/Telangana.
-
-</details>
-
-**Q64.** How many of the following bodies are **constitutional**?
-1. Inter-State Council
-2. Zonal Councils
-3. GST Council
-4. NITI Aayog
 A. Only one
 B. Only two
-C. Only three
-D. All four
+C. All three
+D. None
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — ISC **263** + GST **279A**. Zonal = statute. NITI = executive.
+**Ans: C.** All three are correct.
+
+**Logic:** NEC / Zonal / ISC institutional facts.
 
 </details>
 
-**Q65.** The Punchhi Commission is associated with which of the following ideas?
-1. A localised application of emergency instead of dissolving the whole State apparatus for a local disturbance
-2. A time-limit on Presidential action on State Bills reserved under Article 201
-3. Abolition of Article 356 from the Constitution
-Select the correct answer using the code given below:
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+**Q27.** Which of the following pairs is/are correctly matched?
 
-<details>
-<summary>Show answer</summary>
+1. Article 261 — full faith and credit
+2. Article 265 — no tax without authority of law
+3. Article 301 — Fundamental Right to trade under Part III
 
-**Ans: A** — repeal 356 = **Rajamannar**, not Punchhi.
-
-</details>
-
-**Q66.** Article 263 expressly lists which of the following as a possible duty of the Council?
-1. Advising upon disputes between States
-2. Recommending better coordination of policy and action
-3. Levying IGST
-Select the correct answer using the code given below:
 A. 1 and 2 only
 B. 2 and 3 only
 C. 1 and 3 only
@@ -3643,124 +3091,17 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — IGST = **269A / GST Council**.
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** 301 is not a Part III Fundamental Right.
 
 </details>
 
-**Q67.** Which of the following statements about the North Eastern Council is/are correct?
-1. It was created by the States Reorganisation Act, 1956.
-2. Sikkim was brought in by a 2002 amendment.
-3. After 2002 the Prime Minister is the ex-officio Chairman.
-Select the correct answer using the code given below:
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+**Q28.** With reference to Punchhi Commission suggestions often tested, which of the following is/are correct?
 
-<details>
-<summary>Show answer</summary>
+1. It favoured localising Article 356 rather than dismissing an entire State government for a local breakdown.
+2. It created the Inter-State Council in 1990.
 
-**Ans: B** — NEC Act **1971**, not SRA 1956.
-
-</details>
-
-**Q68.** With reference to Article 131, which of the following disputes **can** go to the Supreme Court’s original jurisdiction?
-A. A fundamental-right petition by a citizen against a State
-B. A river-water sharing dispute already covered by the 1956 Act
-C. A legal-right dispute between two States not barred by any law
-D. A dispute arising solely from a pre-Constitution sanad, with no Parliamentary law
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q69.** Match List-I (year) with List-II:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | 1969 |
-| B | 1973 |
-| C | 1977 |
-| D | 1990 |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Inter-State Council constituted |
-| 2 | Rajamannar Committee |
-| 3 | Anandpur Sahib Resolution |
-| 4 | West Bengal Memorandum |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-2, B-3, C-4, D-1
-B. A-2, B-4, C-3, D-1
-C. A-3, B-2, C-4, D-1
-D. A-2, B-3, C-1, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q70.Assertion (A):** Finance Commission is not the Inter-State Council.
-
-**Reason (R):** Article 280 constitutes the Finance Commission; Article 263 constitutes (permits) the Inter-State Council.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 2024 trap: FC ≠ 263.
-
-</details>
-
-**Q71.** Which of the following is/are correct about water-dispute tribunals under the 1956 Act?
-1. A tribunal is constituted if the Centre is satisfied that negotiation has failed.
-2. After the 2002 amendment, a published award has the same force as an order of the Supreme Court.
-3. The 2019 Bill’s permanent tribunal has replaced all existing tribunals.
-Select the correct answer using the code given below:
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q72.** Which one of the following is **not** correctly matched?
-A. Sarkaria Commission — Justice R.S. Sarkaria
-B. Punchhi Commission — Justice M.M. Punchhi
-C. Rajamannar Committee — P.V. Rajamannar
-D. First Finance Commission — P.V. Rajamannar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — 1st FC = **K.C. Neogy**. Rajamannar = TN Centre–State committee.
-
-</details>
-
-**Q73.** With reference to water, which of the following statements is/are correct?
-1. Water is in the State List, subject to Union List Entry 56 on inter-State rivers.
-2. Article 262 is the legislative list entry for irrigation.
-Select the correct answer using the code given below:
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -3769,78 +3110,50 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — 262 = **adjudication** article, not a list entry. List = **17 / 56**.
+**Ans: A.** Only 1 is correct.
+
+**Logic:** ISC was set up in 1990 on Sarkaria advice — before Punchhi.
 
 </details>
 
-**Q74.** Extra cost incurred by a State in carrying out Union directions under Article 257(2) and (3) is?
-A. Always borne by the State
-B. Charged on the State Contingency Fund
-C. Borne by the Union if the State so claims
-D. Decided by the GST Council
+**Q29.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-<details>
-<summary>Show answer</summary>
+Assertion (A): On Concurrent subjects, a State law reserved for the President and assented to can prevail in that State until Parliament legislates again.
 
-**Ans: C** — Art. **257(4)**.
+Reason (R): Article 254(2) provides this assent-based carve-out from the general rule of Union predominance.
 
-</details>
-
-**Q75.** Who signed the March 2022 agreement to resolve the Assam–Meghalaya border dispute?
-A. Home Secretary and the two Chief Secretaries
-B. Home Secretary and the two DGPs
-C. The two Chief Ministers only
-D. Union Home Minister and the Chief Ministers of Assam and Meghalaya
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q76.** Which of the following is **not** a Rajamannar recommendation?
-A. Residuary powers to the States
-B. Abolition of All-India Services
-C. Repeal of Articles 356, 357 and 360
-D. Setting up of the Inter-State Council was unnecessary because 263 is optional
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Rajamannar wanted an ISC **immediately**.
-
-</details>
-
-**Q77.Assertion (A):** The Punchhi Commission could not have been the body on whose recommendation the Inter-State Council was first set up.
-
-**Reason (R):** The Council was constituted in 1990; Punchhi was appointed in 2007.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: D.** Both true and R correctly explains A.
+
+**A/R logic:** 254(2) is exactly the mechanism behind the assertion.
 
 </details>
 
-**Q78.** Nodal institution for implementation of Sustainable Development Goals in India is?
-A. Planning Commission
-B. Finance Commission
-C. Inter-State Council
-D. NITI Aayog
+**Q30.** Consider the following statements about border/dispute handling:
+
+1. Every inter-State border disagreement automatically becomes an Article 131 case.
+2. Article 131 requires a pleaded legal right, not mere political negotiation.
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — 2019 fact. FC does **not** implement SDGs.
+**Ans: B.** Only 2 is correct.
+
+**Logic:** Many border settlements stay political (UHM + CMs) unless a legal right is pleaded.
 
 </details>
-
----
 
 ## Mains link (one frame)
 

@@ -7386,797 +7386,623 @@ D. Principal Secretary to the Prime Minister
 
 ## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden.** Full stems (not cryptic stubs). **44 questions in UPPCS / RO-ARO 2024–25 format** — *which statement is/are correct*, *how-many-are-correct*, **Assertion–Reason**, **Match List-I/II**, **chronological order**, and *which pairs are NOT correctly matched* (numbered codes). **>60% multi-statement / application.Q1.** Consider the following statements regarding the election of the President of India:
-1. Only elected members of both Houses of Parliament take part.
-2. Elected members of State Legislative Assemblies take part.
-3. Members of State Legislative Councils take part.
-How many of the above statements are correct?
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 2; Legislative **Councils** do not participate.
-
-</details>
-
-**Q2.** With reference to the Electoral College for the President, which of the following is/are correct?
-1. Nominated members of Parliament are excluded.
-2. Elected members of the Legislative Assemblies of Delhi and Puducherry are included.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Delhi & Puducherry MLAs added by the 70th Amendment.
-
-</details>
-
-**Q3.Assertion (A):** The value of an MLA's vote in the Presidential election is based on the 1971 census.
-
-**Reason (R):** The population figures for this purpose are frozen until the first census after 2026.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q4.** Match List-I with List-II and select the correct answer using the code below:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | Article 54 |
-| B | Article 56 |
-| C | Article 61 |
-| D | Article 60 |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Term of the President |
-| 2 | Election of the President |
-| 3 | Oath by the President |
-| 4 | Impeachment of the President |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-2, B-1, C-4, D-3
-B. A-1, B-2, C-4, D-3
-C. A-2, B-1, C-3, D-4
-D. A-2, B-4, C-1, D-3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q5.** How many of the following are correct about the President's qualifications and conditions?
-1. Must have completed 35 years of age.
-2. Must be qualified for election to the Rajya Sabha.
-3. Must not hold any office of profit.
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 3; the benchmark is eligibility for the **Lok Sabha**, not Rajya Sabha.
-
-</details>
-
-**Q6.** With reference to the impeachment of the President, which of the following is/are correct?
-1. The only ground is violation of the Constitution.
-2. Nominated members of Parliament can participate.
-3. Elected members of State Legislative Assemblies can participate.
-How many of the above statements are correct?
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 2; State MLAs do **not** take part in impeachment.
-
-</details>
-
-**Q7.** Consider the following statements about the President's oath:
-1. It is administered by the Chief Justice of India.
-2. In his absence, it is administered by the senior-most judge of the Supreme Court.
-Which of the above is/are correct?
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q8.Assertion (A):** The President cannot return a Money Bill for reconsideration.
-
-**Reason (R):** A Money Bill is introduced only on the recommendation of the President.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q9.** Which of the following types of veto are available to the President of India?
-1. Absolute veto
-2. Suspensive veto
-3. Pocket veto
-4. Qualified veto
-How many of the above are correct?
-A. Only two
-B. Only three
-C. All four
-D. Only one
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — absolute, suspensive, pocket; **qualified** veto is the US system.
-
-</details>
-
-**Q10.** With reference to the pocket veto, which of the following is/are correct?
-1. The Constitution prescribes no time limit within which the President must act on a Bill.
-2. President Giani Zail Singh used it on the Indian Post Office (Amendment) Bill.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q11.** Match List-I (Power) with List-II (Article) and select the correct answer:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | Pardoning power |
-| B | Ordinance-making power |
-| C | Special address |
-| D | Advisory opinion of SC |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Article 123 |
-| 2 | Article 72 |
-| 3 | Article 143 |
-| 4 | Article 87 |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-2, B-1, C-4, D-3
-B. A-1, B-2, C-4, D-3
-C. A-2, B-1, C-3, D-4
-D. A-2, B-4, C-1, D-3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q12.** Consider the following statements regarding Article 72 and Article 161:
-1. The President can pardon a death sentence; the Governor cannot.
-2. The Governor can pardon punishments awarded by a court-martial.
-Which of the above is/are correct?
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — only the President can deal with court-martial and death-sentence pardons.
-
-</details>
-
-**Q13.** Which of the following pairs are **NOT** correctly matched?
-1. Pardon — completely absolves the convict of the sentence
-2. Commutation — reduces the period of a sentence without changing its character
-3. Respite — awarding a lesser sentence due to special facts such as pregnancy
-Select the correct answer using the code given below:
-A. Only 2
-B. 1 and 2
-C. 2 and 3
-D. Only 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — that definition describes **remission**; commutation **substitutes a lighter kind** of punishment.
-
-</details>
-
-**Q14.** With reference to the ordinance-making power (Article 123), which of the following is/are correct?
-1. An ordinance can be promulgated only when both Houses are in session.
-2. An ordinance must be laid before Parliament and ceases to operate six weeks after it reassembles.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — an ordinance is issued only when Parliament (or a House) is **not** in session.
-
-</details>
-
-**Q15.Assertion (A):** An ordinance cannot be used to amend the Constitution.
-
-**Reason (R):** The President's ordinance-making power is co-extensive with the legislative power of Parliament.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — both true; the bar on amending the Constitution flows from Art. 368's special procedure, not merely from the co-extensive scope.
-
-</details>
-
-**Q16.** With reference to the Vice-President of India, which of the following statements is/are correct?
-1. He is the ex-officio Chairman of the Rajya Sabha.
-2. He is a member of the Rajya Sabha.
-3. State legislatures participate in his election.
-How many of the above statements are correct?
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — only 1; he is not a member, and states are not part of his electoral college.
-
-</details>
-
-**Q17.** Consider the following statements about the Vice-President's election and the President's election:
-1. Nominated members of Parliament vote in the Vice-President's election.
-2. Nominated members of Parliament vote in the President's election.
-Which of the above is/are correct?
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — nominated members vote for the VP but **not** the President.
-
-</details>
-
-**Q18.** With reference to the removal of the Vice-President (Article 67), which of the following is/are correct?
-1. A resolution must be passed by the Rajya Sabha by an effective majority and agreed to by the Lok Sabha.
-2. The Constitution specifies the grounds for his removal.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — no ground is specified; 14 days' notice is required.
-
-</details>
-
-**Q19.** Arrange the following Presidents of India in correct **chronological order**:
-1. K. R. Narayanan
-2. Giani Zail Singh
-3. Pratibha Patil
-4. R. Venkataraman
-Select the correct answer using the code given below:
-A. 2 – 4 – 1 – 3
-B. 2 – 1 – 4 – 3
-C. 4 – 2 – 1 – 3
-D. 2 – 4 – 3 – 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Zail Singh (1982–87), Venkataraman (1987–92), Narayanan (1997–2002), Pratibha Patil (2007–12).
-
-</details>
-
-**Q20.** Which one of the following did **NOT** hold the office of Vice-President before becoming President?
-1. Dr. S. Radhakrishnan
-2. Neelam Sanjiva Reddy
-3. R. Venkataraman
-Identify the correct answer using the code:
-A. Only 2
-B. 1 and 2
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — only Neelam Sanjiva Reddy was never Vice-President.
-
-</details>
-
-**Q21.Assertion (A):** The Council of Ministers is collectively responsible to the Lok Sabha.
-
-**Reason (R):** Ministers can be drawn from both the Lok Sabha and the Rajya Sabha.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — both true, but ministerial eligibility from either House is not the reason for collective responsibility to the Lok Sabha.
-
-</details>
-
-**Q22.** With reference to Article 74, which of the following statements is/are correct?
-1. There shall be a Council of Ministers with the Prime Minister at the head to aid and advise the President.
-2. The President may require the Council to reconsider its advice, but must act on the advice tendered after such reconsideration.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — the 44th Amendment allows one reconsideration, after which the advice is binding.
-
-</details>
-
-**Q23.** Consider the following statements about the size of the Council of Ministers:
-1. The 91st Amendment caps the total number of ministers, including the Prime Minister, at 15% of the strength of the Lok Sabha.
-2. The same amendment fixes a minimum of twelve ministers for the States.
-Which of the above is/are correct?
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q24.** How many of the following are extra-constitutional (not mentioned in the original Constitution)?
-1. Cabinet Committees
-2. Kitchen Cabinet
-3. Prime Minister's Office
-4. Cabinet Secretariat
-A. Only two
-B. Only three
-C. All four
-D. Only one
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — all four are extra-constitutional; the word "Cabinet" entered the text only via the 44th Amendment (Art. 352).
-
-</details>
-
-**Q25.** Match List-I with List-II and select the correct answer using the code given below the lists:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | Cabinet Secretariat |
-| B | PMO |
-| C | Attorney General |
-| D | Solicitor General |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Headed by the Principal Secretary |
-| 2 | Headed by the Cabinet Secretary |
-| 3 | First law officer |
-| 4 | Statutory office assisting the AG |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-2, B-1, C-3, D-4
-B. A-1, B-2, C-3, D-4
-C. A-2, B-1, C-4, D-3
-D. A-2, B-3, C-1, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q26.** With reference to the Attorney General of India, which of the following statements is/are correct?
-1. He must be qualified to be appointed as a Judge of the Supreme Court.
-2. He holds office during the pleasure of the President.
-3. He can vote in the House in which he speaks.
-How many of the above statements are correct?
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 2; under Art. 88 he may speak in both Houses but has **no right to vote**.
-
-</details>
-
-**Q27.Assertion (A):** The Attorney General is not a full-time counsel for the Government.
-
-**Reason (R):** He is not debarred from private legal practice.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — he may take private briefs, but not against the Government of India.
-
-</details>
-
-**Q28.** Consider the following statements about the Prime Minister:
-1. Article 78 lays down the duty of the PM to communicate the decisions of the Council of Ministers to the President.
-2. A person who is not a member of either House can be appointed PM but must become a member within six months.
-Which of the above is/are correct?
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q29.** Which of the following pairs are **NOT** correctly matched?
-1. Article 76 — Attorney General
-2. Article 75 — Appointment of the Council of Ministers
-3. Article 79 — Pardoning power of the President
-Select the correct answer using the code given below:
-A. Only 3
-B. 1 and 3
-C. 2 and 3
-D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Art. 79 relates to the constitution of Parliament; the pardoning power is Art. 72.
-
-</details>
-
-**Q30.** With reference to the ranks in the Council of Ministers, arrange them in **descending order** of rank:
-1. Deputy Minister
-2. Cabinet Minister
-3. Minister of State
-Select the correct answer using the code given below:
-A. 2 – 3 – 1
-B. 2 – 1 – 3
-C. 3 – 2 – 1
-D. 1 – 2 – 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Cabinet Minister > Minister of State > Deputy Minister.
-
-</details>
-
-**Q31.** Consider the following statements about the President's veto over State Bills reserved by the Governor (Article 201):
-1. The President can withhold assent to such a Bill.
-2. The President is bound to assent if the State legislature passes it again.
-Which of the above is/are correct?
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — for a reserved State Bill the President is **not** bound to assent even on repassage.
-
-</details>
-
-**Q32.Assertion (A):** The President must give his assent to a Constitutional Amendment Bill.
-
-**Reason (R):** The 24th Amendment made the President's assent to such a Bill obligatory.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q33.** How many of the following powers of the President are exercised on the advice of the Council of Ministers?
-1. Pardoning power under Article 72
-2. Appointment of the Prime Minister after a general election giving a clear majority
-3. Promulgation of an ordinance
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — all are exercised on ministerial advice (the PM's appointment becomes discretionary only in a hung situation).
-
-</details>
-
-**Q34.** With reference to the Vice-President acting as President, which of the following is/are correct?
-1. He can act as President during a casual vacancy for a maximum of six months.
-2. During that period he performs the duties of the Chairman of the Rajya Sabha as well.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — while acting as President he does **not** perform the RS Chairman's duties.
-
-</details>
-
-**Q35.** Match List-I (Office) with List-II (Constitutional Article) and select the correct answer:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | President |
-| B | Vice-President |
-| C | Council of Ministers |
-| D | Attorney General |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Article 63 |
-| 2 | Article 52 |
-| 3 | Article 76 |
-| 4 | Article 74 |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-2, B-1, C-4, D-3
-B. A-1, B-2, C-4, D-3
-C. A-2, B-1, C-3, D-4
-D. A-2, B-4, C-1, D-3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q36.** Consider the following statements about the special address under Article 87:
-1. The President addresses both Houses assembled together at the first session after each general election.
-2. He also addresses them at the commencement of the first session of each year.
-Which of the above is/are correct?
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q37.** Which of the following are functions or rights of the Attorney General?
-1. Right of audience in all courts in India
-2. Right to participate in the proceedings of both Houses
-3. Right to vote in Parliament
-How many of the above are correct?
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 2; he has no right to vote.
-
-</details>
-
-**Q38.Assertion (A):** The Prime Minister's Office is not headed by the Cabinet Secretary.
-
-**Reason (R):** The Cabinet Secretary heads the Cabinet Secretariat, while the PMO is headed by the Principal Secretary.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q39.** Consider the following statements about the doctrine of pleasure:
-1. Under Article 310, civil servants hold office during the pleasure of the President or Governor.
-2. This pleasure is unrestricted and not subject to any constitutional safeguard.
-Which of the above is/are correct?
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — it is restricted by Article 311 safeguards.
-
-</details>
-
-**Q40.** With reference to the value of votes in the Presidential election, which of the following is/are correct?
-1. The value of an MLA's vote depends on the population of the State.
-2. The total value of all MLAs' votes equals the total value of all MPs' votes.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — parity is maintained between the States (all MLAs) and the Union (all elected MPs).
-
-</details>
-
-**Q41.** Which of the following pairs are **NOT** correctly matched?
-1. Cabinet Committee on Security — chaired by the Prime Minister
-2. Attorney General — assisted by the Solicitor General
-3. Cabinet Secretary — head of the Prime Minister's Office
-Select the correct answer using the code given below:
-A. Only 3
-B. 1 and 3
-C. 2 and 3
-D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — the PMO is headed by the Principal Secretary; the Cabinet Secretary heads the Cabinet Secretariat.
-
-</details>
-
-**Q42.** How many of the following statements about the Vice-President are correct?
-1. His term is five years and he is eligible for re-election.
-2. His resignation is addressed to the President.
-3. He is elected by an Electoral College that includes State Legislative Assemblies.
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 2; state assemblies are **not** part of his Electoral College.
-
-</details>
-
-**Q43.** With reference to the Warrant of Precedence in India, consider the following statements:
-
-1. It determines the constitutional line of succession to the office of the President.
-2. The Chief Justice of India and the Speaker of the Lok Sabha have equal rank.
-3. The Attorney General of India ranks above Union Cabinet Ministers.
-
-Which of the statements given above is/are correct?
+> **Answers hidden.** **30 questions** in UPPCS 2024–25 format. ≥60% multi-statement/application. Includes A/R, Match List, chronology/arrange, and NOT-matched. Drawn from Consolidated Must-Score Facts and Confused Pairs — original stems, not verbatim past papers.
+
+**Q1.** With reference to the President’s election, consider the following statements:
+1. Nominated members of Parliament do not vote in the Presidential election.
+2. Members of State Legislative Councils do not vote in the Presidential election.
+3. Elected MLAs of Delhi and Puducherry form part of the Electoral College.
 
 A. 1 and 2 only
-B. 2 only
+B. 1, 2 and 3
+C. 2 and 3 only
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** All three statements are correct.
+
+**Logic:** Presidential college = elected MPs + elected State MLAs + Delhi/Puducherry elected MLAs; nominated MPs and MLCs out.
+
+</details>
+
+**Q2.** Consider the following Assertion and Reason:
+
+Assertion (A): The Vice-President is ex-officio Chairman of the Rajya Sabha.
+
+Reason (R): The Vice-President is a member of the Rajya Sabha.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** (A) is true, but (R) is false.
+
+**A/R logic:** Ex-officio Chairman is not membership of the House.
+
+</details>
+
+**Q3.** Match List-I with List-II:
+
+**List-I**
+
+| Code | Item |
+|------|------|
+| A | Article 61 |
+| B | Article 72 |
+| C | Article 123 |
+| D | Article 74 |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | Ordinance-making power of President |
+| 2 | Impeachment of President |
+| 3 | Aid and advice of Council of Ministers |
+| 4 | Pardoning power of President |
+
+> Note: Row order in the tables is **not** the answer.
+
+A. A-2, B-1, C-4, D-3
+B. A-4, B-2, C-1, D-3
+C. A-2, B-4, C-1, D-3
+D. A-2, B-4, C-3, D-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A-2, B-4, C-1, D-3 is correct.
+
+**Logic:** 61 impeachment; 72 pardon; 123 ordinance; 74 aid and advice.
+
+</details>
+
+**Q4.** Which of the following pairs is NOT correctly matched?
+A. Money Bill — President may assent or withhold, cannot return
+B. Constitution Amendment Bill — President must assent after 24th Amendment line
+C. Pocket veto — no fixed time limit in India
+D. Qualified veto — available to the Indian President like the USA
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** India has no USA-type qualified veto.
+
+**Logic:** Absolute, suspensive and pocket vetoes; no qualified veto.
+
+</details>
+
+**Q5.** Arrange the following offices in Warrant of Precedence rank order (highest first):
+1. Chief Justice of India
+2. Prime Minister
+3. Vice-President
+4. Attorney General
+
+A. 3 – 2 – 1 – 4
+B. 2 – 3 – 1 – 4
+C. 3 – 1 – 2 – 4
+D. 3 – 2 – 4 – 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** VP (2) → PM (3) → CJI (6) → AG (11).
+
+**Logic:** Precedence: President, VP, PM, … CJI=Speaker at 6, AG at 11.
+
+</details>
+
+**Q6.** With reference to impeachment of the President, which of the following is/are correct?
+1. Impeachment is for violation of the Constitution under Article 61.
+2. Nominated MPs can vote in impeachment.
+3. State MLAs take part in the impeachment voting in Parliament.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** State MLAs do not vote in impeachment.
+
+</details>
+
+**Q7.** Consider the following statements about the Council of Ministers:
+1. Size is capped at 15% of the Lok Sabha by the 91st Amendment.
+2. Collective responsibility under Article 75(3) is to the Lok Sabha only.
+3. Cabinet Committees are expressly created by the Constitution.
+
+A. 2 and 3 only
+B. 1 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2 are correct.
+
+**Logic:** Cabinet Committees are extra-constitutional practice.
+
+</details>
+
+**Q8.** Consider the following Assertion and Reason:
+
+Assertion (A): On a Money Bill, the President cannot return the Bill for reconsideration.
+
+Reason (R): A Money Bill can be returned by the President like an ordinary Bill.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** (A) is true, but (R) is false.
+
+**A/R logic:** Money Bill: assent or withhold only — no return.
+
+</details>
+
+**Q9.** With reference to the Attorney General, which of the following is/are correct?
+1. Qualifications are those of a Supreme Court judge.
+2. He holds office during the pleasure of the President.
+3. He may speak in both Houses and can vote in either House.
+
+A. 2 and 3 only
+B. 1 only
+C. 1, 2 and 3
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2 are correct.
+
+**Logic:** AG may speak but cannot vote.
+
+</details>
+
+**Q10.** Match List-I with List-II:
+
+**List-I**
+
+| Code | Item |
+|------|------|
+| A | President electoral college |
+| B | Vice-President electoral college |
+| C | Presidential qualification age |
+| D | Vacancy fill outer limit |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | Both Houses including nominated members; no State legislatures |
+| 2 | 35 years |
+| 3 | Elected MPs + elected MLAs (incl. Delhi/Puducherry) |
+| 4 | Six months |
+
+> Note: Row order in the tables is **not** the answer.
+
+A. A-3, B-1, C-2, D-4
+B. A-1, B-3, C-2, D-4
+C. A-3, B-1, C-4, D-2
+D. A-3, B-2, C-1, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** A-3, B-1, C-2, D-4 is correct.
+
+**Logic:** President vs VP college swap is the high-yield trap.
+
+</details>
+
+**Q11.** Which of the following pairs is/are NOT correctly matched?
+1. Speaker of Lok Sabha — Warrant rank 6 (with CJI)
+2. Cabinet Ministers — Warrant rank 7
+3. Attorney General — Warrant rank 6
+
+A. 1 only
+B. 3 only
+C. 1 and 2 only
+D. 2 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only pair 3 is NOT correctly matched.
+
+**Logic:** AG is rank 11, not 6.
+
+</details>
+
+**Q12.** Consider the following statements about Article 72 and Article 161:
+1. President’s pardon covers death sentences and court-martial sentences.
+2. Governor’s pardon does not cover death sentence or court-martial.
+3. Governor and President have identical pardon coverage.
+
+A. 2 and 3 only
+B. 1 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2 are correct.
+
+**Logic:** 72 vs 161 coverage difference is a Must-Score confused pair.
+
+</details>
+
+**Q13.** Arrange the following in the constitutional article order:
+1. Article 52 (President)
+2. Article 63 (Vice-President)
+3. Article 74 (aid and advice)
+4. Article 76 (Attorney General)
+
+A. 1 – 3 – 2 – 4
+B. 2 – 1 – 3 – 4
+C. 1 – 2 – 4 – 3
+D. 1 – 2 – 3 – 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** 52 → 63 → 74 → 76.
+
+**Logic:** Union Executive article spine.
+
+</details>
+
+**Q14.** With reference to ordinances under Article 123, which of the following is/are correct?
+1. Houses must not be in session.
+2. Ordinance must be laid and lapses if not approved within six weeks of reassembly.
+3. An ordinance can amend the Constitution.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Ordinance cannot amend the Constitution.
+
+</details>
+
+**Q15.** Consider the following Assertion and Reason:
+
+Assertion (A): The Warrant of Precedence is the constitutional line of succession to the office of President.
+
+Reason (R): The Warrant / Table of Precedence (1979) is ceremonial only.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** (A) is false, but (R) is true.
+
+**A/R logic:** Precedence is ceremonial; it is not succession.
+
+</details>
+
+**Q16.** Consider the following statements about Vice-President removal:
+1. Removal under Article 67 starts in the Rajya Sabha.
+2. Lok Sabha agreement is required.
+3. Fourteen days’ notice is required.
+
+A. 1 and 2 only
+B. 1, 2 and 3
+C. 2 and 3 only
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** All three statements are correct.
+
+**Logic:** VP removal is not labelled a full impeachment like Article 61.
+
+</details>
+
+**Q17.** With reference to Presidential qualifications (Article 58), which of the following is/are correct?
+1. Citizen of India.
+2. Completed 35 years.
+3. Qualified for election to the Rajya Sabha rather than Lok Sabha.
+
+A. 2 and 3 only
+B. 1 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2 are correct.
+
+**Logic:** Qualification is for Lok Sabha election eligibility, not Rajya Sabha.
+
+</details>
+
+**Q18.** Which one of the following pairs is NOT correctly matched?
+A. PMO head — Principal Secretary to the PM
+B. Cabinet Secretariat head — Cabinet Secretary
+C. Presidential election disputes — Article 71 / Supreme Court
+D. Presidential resignation addressed to — Prime Minister
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Resignation of the President is addressed to the Vice-President.
+
+**Logic:** Office-channel traps: PMO vs Cabinet Secretariat; resignation addressee.
+
+</details>
+
+**Q19.** Consider the following statements:
+1. Aid and advice under Article 74 is binding on the President (42nd/44th line).
+2. Article 78 casts a duty on the Prime Minister to communicate information to the President.
+3. Individual ministers hold office during the pleasure of the President.
+
+A. 1, 2 and 3
+B. 1 and 2 only
+C. 2 and 3 only
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** All three statements are correct.
+
+**Logic:** 74 / 78 / 75(2) pleasure are core executive facts.
+
+</details>
+
+**Q20.** Match List-I (Warrant rank teaching) with List-II:
+
+**List-I**
+
+| Code | Item |
+|------|------|
+| A | Rank 1 |
+| B | Rank 6 |
+| C | Rank 7 |
+| D | Rank 11 |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | CJI = Speaker |
+| 2 | President |
+| 3 | Attorney General |
+| 4 | Cabinet Ministers / CMs in State / former PMs / LoPs |
+
+> Note: Row order in the tables is **not** the answer.
+
+A. A-2, B-4, C-1, D-3
+B. A-2, B-1, C-4, D-3
+C. A-1, B-2, C-4, D-3
+D. A-2, B-1, C-3, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** A-2, B-1, C-4, D-3 is correct.
+
+**Logic:** Speaker does not sit below Cabinet Ministers; AG is 11.
+
+</details>
+
+**Q21.** Consider the following Assertion and Reason:
+
+Assertion (A): Nominated members of Parliament vote in the election of the Vice-President.
+
+Reason (R): State legislatures take part in the election of the Vice-President.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** (A) is true, but (R) is false.
+
+**A/R logic:** VP college is both Houses of Parliament including nominated members; States out.
+
+</details>
+
+**Q22.** With reference to vacancy in the office of President, which of the following is/are correct?
+1. A vacancy by death, resignation or removal must be filled within six months.
+2. The Vice-President acts until a new President is elected.
+3. Re-election of a President is barred after one term.
+
+A. 2 and 3 only
+B. 1 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2 are correct.
+
+**Logic:** Re-election is allowed any number of times.
+
+</details>
+
+**Q23.** Consider the following statements about nomination for President:
+1. Nomination needs 50 proposers and 50 seconders.
+2. Disputes relating to Presidential election go to the Supreme Court under Article 71.
+3. Oath of the President is before the Chief Justice of India.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three statements are correct.
+
+**Logic:** Proposers/seconders, Art. 71, and CJI oath are Must-Score.
+
+</details>
+
+**Q24.** Arrange the following political executive designations from highest Cabinet rank teaching to lower:
+1. Cabinet Ministers
+2. Ministers of State
+3. Deputy Ministers
+
+A. 1 – 2 – 3
+B. 2 – 1 – 3
+C. 1 – 3 – 2
+D. 3 – 2 – 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Cabinet → MoS → Deputy.
+
+**Logic:** Standard rank order inside the Council.
+
+</details>
+
+**Q25.** Which of the following pairs is NOT correctly matched?
+A. CEC / CAG / UPSC Chair — Warrant band 9A teaching
+B. Deputy Prime Minister — separate constitutional office under Part V
+C. Supreme Court judges — Warrant band 9 teaching
+D. Kitchen Cabinet — political practice, not a constitutional office
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Deputy Prime Minister is a political designation, not a separate constitutional post.
+
+**Logic:** Extra-constitutional labels vs Warrant bands.
+
+</details>
+
+**Q26.** With reference to Droupadi Murmu, which of the following is/are correct?
+1. She became the 15th President.
+2. She took office on 25 July 2022.
+3. She is the first tribal President and the second woman President.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All three statements are correct.
+
+**Logic:** Current-affairs Must-Score on Union Executive.
+
+</details>
+
+**Q27.** Consider the following Assertion and Reason:
+
+Assertion (A): The Prime Minister is the real executive in India’s parliamentary system.
+
+Reason (R): Executive power of the Union is vested in the President under Article 53 and is exercised on aid and advice under Article 74.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A).
+
+**A/R logic:** Nominal President + binding aid and advice explains why PM/CoM is the real executive.
+
+</details>
+
+**Q28.** How many of the following statements are correct?
+1. Vote-value population for Presidential election is frozen at the 1971 census until the first census after 2026.
+2. Election uses proportional representation by single transferable vote.
+3. The President shall not be a member of either House of Parliament.
+
+A. Only one
+B. Only two
+C. None
+D. All three
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three statements are correct.
+
+**Logic:** PR-STV, 1971 freeze, and non-membership are standard.
+
+</details>
+
+**Q29.** Consider the following statements about pocket veto:
+1. India recognises a pocket veto in teaching because there is no fixed time limit to assent.
+2. Pocket veto is identical to the USA qualified veto.
+3. Absolute and suspensive vetoes are also part of the Indian veto map.
+
+A. 1 and 3 only
+B. 1 and 2 only
 C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Only **2** is correct. The table is **ceremonial**; AG = **rank 11**, below Cabinet Ministers (**7**).
+**Ans: A.** Only 1 and 3 are correct.
+
+**Logic:** Qualified veto is the USA device India does not have.
 
 </details>
 
-**Q44.** In the Table of Precedence of India, the Comptroller and Auditor General of India, the Chief Election Commissioner and the Chairman of the Union Public Service Commission are placed in which rank group?
+**Q30.** With reference to Article 75, which of the following is/are correct?
+1. Ministers are appointed by the President on the advice of the Prime Minister in the working system.
+2. Collective responsibility is to the Lok Sabha.
+3. A minister who is not a member of Parliament can continue indefinitely without getting elected.
 
-A. Rank 6
-B. Rank 9
-C. Rank 9A
-D. Rank 11
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — **Rank 9A** (after **Supreme Court judges — rank 9**).
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** Non-member minister has a six-month outer limit to get a seat.
 
 </details>
-
----
 
 ## Mains link (one frame)
 

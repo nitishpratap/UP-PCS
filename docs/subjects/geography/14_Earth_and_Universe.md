@@ -6731,1305 +6731,638 @@ D. Neither 1 nor 2
 
 ---
 
-## Practice Zone — UPPCS Format Questions
+## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden** — click **Show answer** under each question to reveal.
-> **Format mix:** 70 questions — multi-statement | Assertion–Reason | Match List | NOT correctly matched | direct recall (asked + standard NCERT angles)
+> **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D | **Ans first, then Logic**
 
-**Q1.** The ozone layer that absorbs UV exists in the:
+**Q1.** With reference to the solar system, which of the following statements is/are correct?
 
-A. Troposphere
+1. Venus is the hottest planet due to greenhouse effect.
+2. Earth has the highest mean density among planets in the teaching set.
+3. Mercury has the fastest orbit and (with Venus) no moon.
 
-B. Mesosphere
-
-C. Stratosphere
-
-D. Thermosphere
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q2.** With reference to the ozone layer:
-
-1. It protects the surface from solar UV.
-2. Depletion has been linked to CFCs.
-
-A. Only 2
-
-B. Neither
-
-C. Both
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q3.** Which pair is NOT correctly matched?
-
-A. Renneting–Cheese
-
-B. Golden rice–Vitamin A
-
-C. Montreal–Ozone
-
-D. Ozone layer–Troposphere
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-</details>
-
----
-
-**Q4.** With reference to El Niño:
-
-1. Warm current off Peru in the eastern Pacific.
-2. That warmth increases plankton off Peru.
-
-A. Only 1
-
-B. Only 2
-
-C. Both
-
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-</details>
-
----
-
-**Q5.** Winds deflect to the **left** in the Southern Hemisphere because of:
-
-A. Temperature
-
-B. Coriolis Force
-
-C. Magnetic Field
-
-D. Pressure
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q6.** Assertion (A): Jet streams discovered in WWII are high-altitude **easterly** winds.
-Reason (R): Jet streams flow at about 300–500 km/h.
-
-A. Both true, R explains A
-
-B. A false, R true
-
-C. Both true, R not explanation
-
-D. A true, R false
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Jets are mainly **westerly**.
-</details>
-
----
-
-**Q7.** Earth’s atmosphere is mainly heated by:
-
-A. Long-wave terrestrial radiation
-
-B. Scattered solar
-
-C. Reflected solar
-
-D. Incoming short-wave solar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-</details>
-
----
-
-**Q8.** Which is NOT a greenhouse gas?
-
-A. Argon
-
-B. CFC
-
-C. Methane
-
-D. Carbon dioxide
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-</details>
-
----
-
-**Q9.** Saturn’s atmosphere in the 2022 paper is linked to which gas in large quantity among the options?
-
-A. Sulphur dioxide
-
-B. Carbon monoxide
-
-C. Methane
-
-D. Nitrogen
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q10.** India’s first Mars mission is:
-
-A. Chandrayaan-1
-
-B. Mangalyaan
-
-C. Aditya-L1
-
-D. Astrosat
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q11.** 2018 Science report: massive underground lake on:
-
-A. Jupiter
-
-B. Saturn
-
-C. Venus
-
-D. Mars
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-</details>
-
----
-
-**Q12.** Which planet is most suitable for life among these options?
-
-A. Mars
-
-B. Mercury
-
-C. Venus
-
-D. Jupiter
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-</details>
-
----
-
-**Q13.** Which volcano is NOT in the Pacific Ring of Fire?
-
-A. Fuji
-
-B. Pinatubo
-
-C. Kilimanjaro
-
-D. St. Helens
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q14.** Match List-I with List-II.
-
-| List-I (Volcano) | List-II (Country) |
-|---|---|
-| A. Rainier | 1. Italy |
-| B. Etna | 2. Mexico |
-| C. Paricutin | 3. Philippines |
-| D. Apo | 4. USA |
-
-> Row order is **not** the answer — use the option codes.
-
-A. 4 2 1 3
-
-B. 4 1 2 3
-
-C. 2 1 4 3
-
-D. 4 3 2 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q15.** Agra and Darjeeling, nearly same latitude, January T ~16°C vs 4°C because:
-
-A. A false R true
-
-B. A true R false
-
-C. Both true, R not explanation
-
-D. Both true, R explains A
-
-(R = temperature falls with height / thinner air)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-</details>
-
----
-
-**Q16.** With reference to India:
-
-1. Sixth-largest country.
-2. About 2.4% of world area.
-3. Tropic of Cancer through the middle (two latitudinal halves as stated).
-4. Lies completely in the tropical zone.
-Correct are:
-
-A. 2 and 3
-
-B. 2 and 4
-
-C. 3 and 4
-
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — **2 and 3**. Rank is **7th**, not 6th. **2.4%** true. Tropic through the middle = NCERT fact. **Not** wholly tropical.
-</details>
-
----
-
-**Q17.** Mediterranean climate:
-
-1. Rain in winter.
-2. Winter solstice → pressure belts shift south.
-
-A. Only 2
-
-B. Neither
-
-C. Only 1
-
-D. Both
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-</details>
-
----
-
-**Q18.** Carbon credit originated from:
-
-A. Rio Earth Summit only
-
-B. Kyoto Protocol
-
-C. Montreal Protocol
-
-D. G-8 Heiligendamm
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q19.** NOT correctly matched:
-
-A. Cartagena — Biosafety
-
-B. Stockholm — POPs
-
-C. Montreal — Ozone
-
-D. Kyoto — Save water
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-</details>
-
----
-
-**Q20.** Climate-change mitigation agreement among these:
-
-A. Montreal Protocol
-
-B. Ramsar
-
-C. Kyoto Protocol
-
-D. CITES
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q21.** Maximum ozone concentration is in the:
-
-A. Troposphere
-
-B. Mesosphere
-
-C. Stratosphere
-
-D. Exosphere
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q22.** Diffusion of light in the atmosphere takes place due to:
-
-A. Carbon dioxide
-
-B. Dust particles
-
-C. Helium
-
-D. Water vapours
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q23.** IST is based on:
-
-A. 0°
-
-B. 82°30′ E
-
-C. 180°
-
-D. 23½° N
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — GMT+5:30; whole country.
-</details>
-
----
-
-**Q24.** 15° of longitude equal:
-
-A. 4 minutes
-
-B. 1 hour
-
-C. 1 day
-
-D. 1 month
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1° = 4 minutes.
-</details>
-
----
-
-**Q25.** International Date Line is based near:
-
-A. 0°
-
-B. 23½°
-
-C. **180°**
-
-D. 82½° E
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q26.** Perihelion occurs about:
-
-A. 4 July
-
-B. **3 January**
-
-C. 21 June
-
-D. 23 September
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — NH winter, Earth closest.
-</details>
-
----
-
-**Q27.** Seasons on Earth are caused primarily by:
-
-A. Changing distance only
-
-B. **Axial tilt 23½°**
-
-C. Moon’s phases
-
-D. El Niño only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q28.** ITCZ is a:
-
-A. Polar high
-
-B. Subtropical high
-
-C. **Equatorial low / convergence**
-
-D. Jet of easterlies only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q29.** Which is a **fold** mountain?
-
-A. Vosges
-
-B. Sierra Nevada (block)
-
-C. **Himalaya**
-
-D. Black Forest
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q30.** Which is a **block/fault** mountaple?
-
-A. Andes
-
-B. Alps
-
-C. **Vosges**
-
-D. Rockies
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q31.** Wegener’s supercontinent was:
-
-A. Panthalassa
-
-B. **Pangaea**
-
-C. Ring of Fire
-
-D. ITCZ
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Panthalassa = ocean.
-</details>
-
----
-
-**Q32.** S-waves do not pass through the:
-
-A. Crust
-
-B. Mantle rock
-
-C. **Outer core (liquid)**
-
-D. Inner core as a concept of solidity
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Gutenberg discontinuity.
-</details>
-
----
-
-**Q33.** Moho separates:
-
-A. Inner and outer core
-
-B. **Crust and mantle**
-
-C. Troposphere and stratosphere
-
-D. Land and sea
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q34.** Shield volcano example:
-
-A. Vesuvius
-
-B. Fuji
-
-C. **Mauna Loa**
-
-D. Paricutin cone
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q35.** Trade winds blow from the subtropical highs toward the:
-
-A. Poles
-
-B. **ITCZ**
-
-C. Stratosphere
-
-D. IDL only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q36.** Which energy is NOT ultimately from the Sun?
-
-1. Biomass 2. Nuclear 3. Wind 4. Geothermal
-
-A. 1 and 3
-
-B. **2 and 4**
-
-C. Only 1
-
-D. 1, 2, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q37.** Big Bang timescale is about:
-
-A. 4.6 million years
-
-B. 4.6 billion (that is the **solar system**)
-
-C. **13.8 billion years** (universe)
-
-D. 2000 years
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q38.** Correct order from the Sun:
-
-A. Earth, Venus, Mercury
-
-B. **Mercury, Venus, Earth, Mars**
-
-C. Jupiter, Mars, Earth
-
-D. Neptune, Mercury, Earth
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q39.** Coriolis force is zero at the:
-
-A. Poles
-
-B. **Equator**
-
-C. Tropic of Cancer only
-
-D. IDL
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q40.** Weather phenomena are confined to the:
-
-A. Stratosphere
-
-B. **Troposphere**
-
-C. Exosphere
-
-D. Outer core
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q41.** East African Rift volcano:
-
-A. Fuji
-
-B. Pinatubo
-
-C. **Kilimanjaro**
-
-D. Rainier
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q42.** Divergent plate boundary makes:
-
-A. Himalaya collision
-
-B. **Mid-ocean ridge / rift**
-
-C. Only IDL
-
-D. Only ozone hole
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q43.** India–Eurasia convergence produced:
-
-A. Mid-Atlantic Ridge
-
-B. **Himalaya (fold)**
-
-C. Hawaiian shield only
-
-D. Sahara
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q44.** Leap year exists because revolution is about:
-
-A. 24 hours
-
-B. **365¼ days**
-
-C. 23½ degrees
-
-D. 15° per hour
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q45.** Crossing the IDL westward you:
-
-A. Repeat the day
-
-B. **Skip a calendar day**
-
-C. Gain 15° latitude
-
-D. Enter the core
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q46.** Polar easterlies blow from:
-
-A. ITCZ to 30°
-
-B. **Polar high toward subpolar low**
-
-C. Only the stratosphere
-
-D. Only in El Niño years
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q47.** Composite volcano example:
-
-A. Mauna Loa
-
-B. **Mount Fuji / Etna**
-
-C. Deccan fissure only
-
-D. Kilimanjaro as Ring of Fire
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q48.** Which is NOT correctly matched?
-
-A. Montreal — ozone
-
-B. Kyoto — GHG/climate
-
-C. Fold mountain — Himalaya
-
-D. Jet stream — always easterly
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-</details>
-
----
-
-**Q49.** Tropic of Cancer value:
-
-A. 0°
-
-B. **23½° N**
-
-C. 66½° N
-
-D. 82½° E
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q50.** Assertion (A): S-waves are not recorded in the outer-core shadow.
-Reason (R): The outer core behaves as a liquid.
-
-A. Both true, R explains A
-
-B. Both true, R not explanation
-
-C. A true R false
-
-D. A false R true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-</details>
-
----
-
-**Q51.** Which of the following (Theory — Propounder) is **not** correctly matched?
-
-A. Nebular — Kant–Laplace
-
-B. Big Bang — Gamow
-
-C. Steady State — Hoyle
-
-D. Nebular — Wegener
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Wegener = continental drift (1912).
-</details>
-
----
-
-**Q52.** Hottest planet in the solar system is:
-
-A. Mercury
-
-B. **Venus**
-
-C. Mars
-
-D. Jupiter
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — CO₂ greenhouse; Mercury is closer but airless.
-</details>
-
----
-
-**Q53.** Asteroid belt lies between:
-
-A. Earth and Venus
-
-B. **Mars and Jupiter**
-
-C. Jupiter and Saturn
-
-D. Neptune and Pluto
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q54.** Largest moon in the solar system is:
-
-A. Titan
-
-B. Moon of Earth
-
-C. **Ganymede**
-
-D. Phobos
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Titan = Saturn (atmosphere). Phobos = Mars.
-</details>
-
----
-
-**Q55.** Solar eclipse can occur only at:
-
-A. Full Moon
-
-B. **New Moon**
-
-C. Equinox only
-
-D. Perihelion only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Lunar eclipse = Full Moon.
-</details>
-
----
-
-**Q56.** Of 100 units of insolation, Earth’s surface absorbs about:
-
-A. 100
-
-B. 14
-
-C. **51**
-
-D. 0
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — ~35 reflected (planetary albedo); ~14 atmosphere.
-</details>
-
----
-
-**Q57.** Roaring Forties are:
-
-A. Trade winds at 40°N
-
-B. **Strong SH westerlies ~40°S**
-
-C. Polar easterlies
-
-D. ITCZ calms
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q58.** Horse latitudes correspond to:
-
-A. ITCZ
-
-B. **~30° subtropical highs**
-
-C. 60° subpolar lows
-
-D. IDL
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q59.** Sial is typical of:
-
-A. Oceanic crust
-
-B. **Continental crust**
-
-C. Outer core
-
-D. Stratosphere
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Sima = ocean.
-</details>
-
----
-
-**Q60.** Gutenberg discontinuity lies near:
-
-A. 8 km
-
-B. **2900 km** (mantle / outer core)
-
-C. Tropopause
-
-D. IDL
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q61.** ‘Lighthouse of the Mediterranean’ is:
-
-A. Fuji
-
-B. Kilimanjaro
-
-C. **Stromboli**
-
-D. Mauna Loa
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q62.** India’s only active volcano is:
-
-A. Vesuvius
-
-B. **Barren Island (Andaman)**
-
-C. Deccan Trap currently erupting
-
-D. Kilimanjaro
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q63.** Sea-floor spreading is associated with:
-
-A. Kant
-
-B. Wegener only
-
-C. **Harry Hess**
-
-D. Hoyle
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Wegener = drift without a mechanism; Holmes = convection.
-</details>
-
----
-
-**Q64.** Which of the following (Belt — Example) is **not** correctly matched?
-
-A. Ring of Fire — Fuji
-
-B. East African Rift — Kilimanjaro
-
-C. Mediterranean — Stromboli/Etna
-
-D. Ring of Fire — Kilimanjaro
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-</details>
-
----
-
-**Q65.** Pluto was reclassified as a dwarf planet in:
-
-A. 1912
-
-B. 1987
-
-C. **2006 (IAU)**
-
-D. 2024
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q66.** Which set correctly names Earth’s four interacting spheres in physical geography?
-
-A. Only crust and core
-
-B. Lithosphere, atmosphere, hydrosphere, biosphere
-
-C. Only troposphere and stratosphere
-
-D. Only Pangaea and Panthalassa
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q67.** Igneous rocks form from:
-
-A. Cooling and solidification of magma / lava
-
-B. Only compaction of river mud with no heat history ever
-
-C. Only metamorphism of limestone always
-
-D. Only condensation of water vapour
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-</details>
-
----
-
-**Q68.** Which boundary type creates mid-ocean ridges?
-
-A. Convergent only
-
-B. Divergent
-
-C. Transform only
-
-D. Only collision of two continents
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Plates move apart at divergent boundaries.
-</details>
-
----
-
-**Q69.** Assertion (A): Seasons on Earth are caused mainly by perihelion and aphelion distance.
-Reason (R): Earth’s axis is tilted about 23½° to the orbital plane.
-
-A. Both A and R are true and R explains A
-
-B. Both A and R are true but R does not explain A
-
-C. A is true but R is false
-
-D. A is false but R is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Seasons come from **tilt**, not from perihelion distance. NH winter is near perihelion.
-</details>
-
----
-
-**Q70.** Which of the following pairs is/are correctly matched?
-
-1. Gutenberg discontinuity — mantle / outer core; S-waves stop
-2. Lehmann discontinuity — outer / inner core
-3. Moho — crust / mantle
+Select the correct answer from the code given below:
 
 A. 1 and 2 only
+B. 1, 2 and 3
+C. 2 and 3 only
+D. 1 and 3 only
 
-B. 2 and 3 only
+<details>
+<summary>Show answer</summary>
 
-C. 1 and 3 only
+**Ans: B.** All three statements are correct.
 
+**Logic:** Do not mark Mercury as hottest.
+
+</details>
+
+**Q2.** Consider the following pairs:
+
+| Feature | Location / fact |
+|---|---|
+| 1. Asteroid belt | Between Mars and Jupiter |
+| 2. Largest moon | Ganymede (Jupiter) |
+| 3. Titan | Mars |
+
+Which of the pairs given above is/are correctly matched?
+
+A. 1 and 3 only
+B. 1, 2 and 3
+C. 1 and 2 only
+D. 2 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only pairs 1 and 2 are correct.
+
+**Logic:** Titan belongs to Saturn; Phobos/Deimos belong to Mars.
+
+</details>
+
+**Q3.** Which of the following is NOT correctly matched?
+
+A. Solar eclipse — New Moon
+B. Lunar eclipse — Full Moon
+C. Ozone layer — Stratosphere
+D. Ozone layer — Troposphere
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Ozone UV shield is in the stratosphere.
+
+**Logic:** Troposphere holds weather.
+
+</details>
+
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Seasons are caused by Earth’s 23½° axial tilt.
+
+Reason (R): Perihelion in early January makes Northern Hemisphere summer.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** (A) is true; (R) is false — perihelion is NH winter.
+
+**A/R logic:** Do not equate closest Sun with summer.
+
+</details>
+
+**Q5.** Arrange Earth’s atmospheric layers from the surface upward:
+
+1. Stratosphere
+2. Troposphere
+3. Mesosphere
+4. Thermosphere
+
+Select the correct answer from the code given below:
+
+A. 2-3-1-4
+B. 2-1-4-3
+C. 2-1-3-4
+D. 1-2-3-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Troposphere → Stratosphere → Mesosphere → Thermosphere.
+
+**Logic:** Ionosphere reflects radio waves; exosphere hosts many communication satellites.
+
+</details>
+
+**Q6.** With reference to IST and the Date Line, which of the following statements is/are correct?
+
+1. IST is based on 82°30′ E near Mirzapur and is GMT+5:30 for the whole country.
+2. The International Date Line is near 180° (zigzag); the west side is a day ahead.
+
+Select the correct answer from the code given below:
+
+A. 1 only
+B. 2 only
+C. Neither 1 nor 2
+D. Both 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both statements are correct.
+
+**Logic:** Do not limit IST to only east of Mirzapur.
+
+</details>
+
+**Q7.** Match List-I with List-II and select the correct answer from the code given below:
+
+| List-I | List-II |
+|---|---|
+| A. Montreal Protocol | 1. Ozone |
+| B. Kyoto Protocol | 2. Climate / GHG |
+| C. Fujita scale | 3. Tornado |
+| D. Saffir–Simpson | 4. Hurricane |
+
+*Row order is not the answer code.*
+
+A. A-2, B-1, C-3, D-4
+B. A-1, B-3, C-2, D-4
+C. A-1, B-2, C-4, D-3
+D. A-1, B-2, C-3, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All four protocol/scale pairs are correct.
+
+**Logic:** Do not swap Montreal/Kyoto or Fujita/Saffir–Simpson.
+
+</details>
+
+**Q8.** With reference to El Niño, which of the following statements is/are correct?
+
+1. Warm eastern Pacific / Peru phase weakens upwelling.
+2. Plankton and fish catch fall during El Niño off Peru.
+3. It can disturb the Indian monsoon.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 1, 2 and 3
+C. 2 and 3 only
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** All three El Niño statements are correct.
+
+**Logic:** Warm water does not mean more plankton here.
+
+</details>
+
+**Q9.** Which of the following pairs is NOT correctly matched?
+
+A. Coriolis Northern Hemisphere — right
+B. Coriolis Southern Hemisphere — left
+C. ITCZ — low / rising air
+D. Horse latitudes — subtropical low ~30°
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Horse latitudes are subtropical high ~30°.
+
+**Logic:** ITCZ is the low-pressure rising belt.
+
+</details>
+
+**Q10.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Earth’s atmosphere is heated mainly by long-wave terrestrial radiation.
+
+Reason (R): Normal lapse rate is about 6.5°C/km.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; lapse rate does not explain the long-wave heating mechanism.
+
+**A/R logic:** Direct short-wave alone is the wrong heating story.
+
+</details>
+
+**Q11.** With reference to greenhouse gases, which of the following statements is/are correct?
+
+1. Water vapour, CO₂, CH₄, N₂O, O₃ and CFCs are greenhouse gases.
+2. Argon is a greenhouse gas.
+
+Select the correct answer from the code given below:
+
+A. 2 only
+B. Neither 1 nor 2
+C. 1 only
+D. Both 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only statement 1 is correct.
+
+**Logic:** Argon is permanent gas but not a GHG.
+
+</details>
+
+**Q12.** Match List-I with List-II and select the correct answer from the code given below:
+
+| List-I | List-II |
+|---|---|
+| A. Big Bang | 1. Lemaître / Gamow; Hubble expansion |
+| B. Steady State | 2. Hoyle |
+| C. Nebular hypothesis | 3. Kant–Laplace |
+| D. Milky Way | 4. Barred spiral |
+
+*Row order is not the answer code.*
+
+A. A-1, B-2, C-3, D-4
+B. A-2, B-1, C-3, D-4
+C. A-1, B-3, C-2, D-4
+D. A-1, B-2, C-4, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** All four cosmology/galaxy pairs are correct.
+
+**Logic:** Chandrasekhar limit ≈ 1.44 M☉ for white dwarfs.
+
+</details>
+
+**Q13.** Arrange the following from perihelion to aphelion season facts:
+
+1. Perihelion ~3–4 January
+2. Aphelion ~4 July
+3. Equinoxes ~21 March / 23 September
+
+Which statements are correct?
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: D.** All three calendar facts are correct.
+
+**Logic:** Solstices ~21 June / 22 December.
+
 </details>
 
----
+**Q14.** With reference to plate tectonics and mountains, which of the following statements is/are correct?
+
+1. Wegener (1912) proposed continental drift with Pangaea and Panthalassa.
+2. Fold mountains include Himalaya, Alps, Andes and Rockies.
+3. Fault/block mountains include Vosges, Black Forest, Sierra Nevada and Rhine graben.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 1, 2 and 3
+C. 2 and 3 only
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** All three statements are correct.
+
+**Logic:** New ocean crust forms at divergent mid-ocean ridges.
+
+</details>
+
+**Q15.** Which one of the following correctly states the Chandrasekhar limit teaching value?
+
+A. About 0.5 M☉
+B. About 1.44 M☉
+C. About 10 M☉
+D. About 100 M☉
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Chandrasekhar limit ≈ 1.44 solar masses.
+
+**Logic:** Beyond it the path goes toward neutron star / black hole.
+
+</details>
+
+**Q16.** Consider the following volcano pairs:
+
+1. Rainier — USA
+2. Etna — Italy
+3. Paricutin — Mexico
+4. Kilimanjaro — Pacific Ring of Fire
+
+Which of the pairs given above is/are correctly matched?
+
+A. 1, 2 and 3 only
+B. 1, 2 and 4 only
+C. 2, 3 and 4 only
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Kilimanjaro is East African Rift, not Ring of Fire.
+
+**Logic:** Apo = Philippines in the match set.
+
+</details>
+
+**Q17.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Jet streams are mainly westerly.
+
+Reason (R): The Tropical Easterly Jet appears in summer near about 14°N.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; TEJ is a special easterly case and does not overturn the mainly-westerly rule.
+
+**A/R logic:** Do not claim all jets are easterly.
+
+</details>
+
+**Q18.** With reference to albedo and heat budget, which of the following statements is/are correct?
+
+1. Albedo is reflecting power; fresh snow is among the highest.
+2. About 35/100 of insolation is reflected and about 51/100 reaches the surface in the teaching budget.
+
+Select the correct answer from the code given below:
+
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both statements are correct.
+
+**Logic:** Surface then returns energy as long-wave radiation.
+
+</details>
+
+**Q19.** Which of the following is NOT correctly matched?
+
+A. Willy-Willy — Australia
+B. Hurricane — USA
+C. Baguio — Philippines
+D. Willy-Willy — USA hurricane name
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Willy-Willy is Australia.
+
+**Logic:** Same cyclone-name trap family as Disaster Geography.
+
+</details>
+
+**Q20.** Match List-I with List-II and select the correct answer from the code given below:
+
+| List-I (Rock) | List-II |
+|---|---|
+| A. Granite → | 1. Gneiss |
+| B. Limestone → | 2. Marble |
+| C. Igneous | 3. Cooled magma/lava; no fossils |
+| D. Sedimentary | 4. Layered + fossils |
+
+*Row order is not the answer code.*
+
+A. A-1, B-2, C-3, D-4
+B. A-2, B-1, C-3, D-4
+C. A-1, B-3, C-2, D-4
+D. A-1, B-2, C-4, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** All four rock pairs are correct.
+
+**Logic:** Metamorphic = heat/pressure remake.
+
+</details>
+
+**Q21.** With reference to energy and latitude facts, which of the following statements is/are correct?
+
+1. Nuclear and geothermal energy are not forms of stored solar energy.
+2. India’s Tropic of Cancer runs through the middle of the country — India is not wholly tropical.
+
+Select the correct answer from the code given below:
+
+A. Both 1 and 2
+B. 1 only
+C. 2 only
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both statements are correct.
+
+**Logic:** One degree of latitude ≈ 111 km; tropics at 23½°.
+
+</details>
+
+**Q22.** Consider the following statements about the Moon and Pluto:
+
+1. The Moon always shows roughly the same face because rotation ≈ revolution (~27.3 days).
+2. Pluto was reclassified as a dwarf planet by the IAU in 2006.
+
+Which of the statements given above is/are correct?
+
+A. 1 only
+B. Both 1 and 2
+C. 2 only
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Both statements are correct.
+
+**Logic:** Weight on the Moon ≈ 1/6 of Earth weight.
+
+</details>
+
+**Q23.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Weather is short-term; climate is the long-term average.
+
+Reason (R): Stratosphere is nearly weather-free and ideal for jet flight.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; jet-flight layer fact does not define weather vs climate.
+
+**A/R logic:** Troposphere holds weather.
+
+</details>
+
+**Q24.** With reference to earthquake waves and shadows, which of the following statements is/are correct?
+
+1. P-wave shadow is about 103–142°.
+2. S-wave shadow lies beyond about 103° because the outer core is liquid.
+
+Select the correct answer from the code given below:
+
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both shadow statements are correct.
+
+**Logic:** Focus/hypocentre is the rupture point; epicentre is the surface point.
+
+</details>
+
+**Q25.** Which of the following pairs is/are NOT correctly matched?
+
+1. Hottest planet — Venus
+2. Largest planet — Jupiter
+3. Clearest rings — Saturn
+4. Largest moon — Titan
+
+A. 4 only
+B. 1 and 4 only
+C. 2 and 3 only
+D. 3 and 4 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only pair 4 is wrong — largest moon is Ganymede.
+
+**Logic:** Titan is Saturn’s large moon but not the largest overall.
+
+</details>
+
+**Q26.** Arrange MVEMJSUN planet order — which statement is correct?
+
+A. Mars comes before Earth
+B. Mercury–Venus–Earth–Mars–Jupiter–Saturn–Uranus–Neptune
+C. Jupiter comes before Mars
+D. Neptune comes before Uranus
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Standard MVEMJSUN order.
+
+**Logic:** Mnemonic order is a frequent direct check.
+
+</details>
+
+**Q27.** With reference to volcano types, which of the following statements is/are correct?
+
+1. Shield — Mauna Loa; composite — Fuji/Etna/Vesuvius; cinder — Paricutin.
+2. Fissure — Deccan; caldera — Krakatoa; Stromboli = Mediterranean lighthouse.
+3. Barren Island is India’s active volcano note.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 1, 2 and 3
+C. 2 and 3 only
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** All three statements are correct.
+
+**Logic:** Most abundant volcanic gas is water vapour.
+
+</details>
+
+**Q28.** Which one of the following correctly states 0° latitude and 0° longitude meeting place?
+
+A. Indian Ocean
+B. Pacific Ocean
+C. Atlantic (Gulf of Guinea)
+D. Arctic Ocean
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** 0°,0° meets in the Atlantic (Gulf of Guinea).
+
+**Logic:** Time zones use roughly 15° = 1 hour.
+
+</details>
+
+**Q29.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Light-year measures distance.
+
+Reason (R): Star colour tracks temperature.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; temperature–colour link does not define the light-year unit.
+
+**A/R logic:** Brittle star is not an astronomical object; Earth Day is 22 April.
+
+</details>
+
+**Q30.** With reference to Ring of Fire and India, which of the following statements is/are correct?
+
+1. Ring of Fire accounts for about 90% of world quakes.
+2. NW India shakes mainly from Indian–Eurasian plate convergence.
+
+Select the correct answer from the code given below:
+
+A. Both 1 and 2
+B. 1 only
+C. 2 only
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both statements are correct.
+
+**Logic:** Tsunami is Japanese for harbour wave.
+
+</details>
 
 ## Common Traps — Don't Fall For These
 

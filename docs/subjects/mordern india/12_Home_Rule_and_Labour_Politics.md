@@ -1431,961 +1431,794 @@ D. Only 2
 
 ## Practice Zone — UPPCS Format Drill
 
-> **45 questions.** Mix: multi-statement, chronology, Match-List, A/R, NOT-matched.
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
----
 
-**Q1.** Match List-I with List-II.
+**Q1.** With reference to the two Home Rule Leagues, which of the following statements is/are correct?
 
-**List-I** A. Tilak Home Rule League B. Besant Home Rule League C. Montagu Declaration D. Besant INC President
-**List-II** 1. Sep 1916 2. Apr 1916 3. Dec 1917 4. 20 Aug 1917
+1. Tilak’s Indian Home Rule League was founded in April 1916 at Poona.
+2. Besant’s All India Home Rule League was founded in September 1916 at Madras/Adyar.
+3. Bombay city fell in Tilak’s charge, not Besant’s.
 
-A. 2 1 4 3
+Select the correct answer from the code given below:
 
-B. 1 2 3 4
+A. 1 and 3 only
 
-C. 2 1 3 4
+B. 1 and 2 only
 
-D. 2 4 1 3
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Bombay city belonged to Besant’s league.
 
 </details>
 
 ---
 
-**Q2.** With reference to the Justice Party, which of the following statements is/are correct?
+**Q2.** Match List-I with List-II:
 
-1. It opposed Congress by calling it a Brahmin-dominated organisation.
-2. It claimed the same communal representation for non-Brahmins as Morley-Minto had given to Muslims.
+| List-I (Feature) | List-II |
+|------------------|---------|
+| A. Tilak League President | 1. N.C. Kelkar |
+| B. Tilak League Secretary | 2. Joseph Baptista |
+| C. Besant’s papers | 3. *New India* and *Commonweal* |
+| D. Theosophical Society founders | 4. Blavatsky and Olcott, New York 1875 |
 
-A. Both 1 and 2
+*Row order is not the answer code.*
 
-B. Neither 1 nor 2
+A. A-1, B-2, C-4, D-3
 
-C. Only 1
+B. A-2, B-1, C-3, D-4
 
-D. Only 2
+C. A-2, B-3, C-1, D-4
+
+D. A-2, B-1, C-4, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Baptista / Kelkar / Besant papers / Blavatsky–Olcott.
+
+**Logic:** Besant led Theosophy in India but did not found the Society.
 
 </details>
 
 ---
 
-**Q3.** With reference to the Workers and Peasants Party, which of the following statements is/are correct?
+**Q3.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-1. It was formed in 1927 and given All-India form in that same packaging.
-2. Its objective was to work within Congress and radicalise it.
+**Assertion (A):** Home Rule demanded self-government within the Empire on the Irish model.
 
-A. Both 1 and 2
+**Reason (R):** Home Rule was identical with later Gandhian mass satyagraha methods of 1920–22.
 
-B. Neither 1 nor 2
+Select the correct answer from the code given below:
 
-C. Only 1
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 
-D. Only 2
+B. (A) is false, but (R) is true
 
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q4.** With reference to the Congress Socialist Party, which of the following statements is/are correct?
-
-1. It was formed in January 1934.
-2. Jawaharlal Nehru formally joined this party.
-
-A. Both 1 and 2
-
-B. Neither 1 nor 2
-
-C. Only 1
-
-D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q5.** Who was sent as labour representative to the ILO Washington Summit in 1919?
-
-A. V.P. Wadia
-
-B. N.M. Joshi
-
-C. C.F. Andrews
-
-D. Joseph Baptista
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q6.** Match List-I with List-II.
-
-**List-I** A. BMS B. INTUC C. UTUC D. AITUC
-**List-II** 1. INC 2. CPI 3. CPI(M) 4. BJP
-
-A. 2 4 3 1
-
-B. 4 1 3 2
-
-C. 4 1 2 3
-
-D. 1 4 3 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q7.** Which of the following events was the last in chronological order?
-
-A. Home Rule Movement
-
-B. Khilafat Movement
-
-C. Jallianwala Bagh Massacre
-
-D. Moplah Revolt
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q8.** Who among the following was NOT associated with the Kanpur Conspiracy Case of 1924?
-
-A. Muzaffar Ahmed
-
-B. Nalini Gupta
-
-C. Shaukat Usmani
-
-D. M.A. Ansari
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q9.** With reference to Tilak’s Home Rule League, which of the following statements is/are correct?
-
-1. It was founded in April 1916 at Poona.
-2. Joseph Baptista was its President.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q10.** With reference to Besant’s Home Rule League, which of the following statements is/are correct?
-
-1. It was founded in September 1916 at Madras/Adyar.
-2. Its area included Bombay city.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q11.** Which of the following pairs is NOT correctly matched?
-
-A. Tilak League HQ — Poona
-
-B. Besant League HQ — Madras
-
-C. Tilak League area — included Bombay city
-
-D. Besant internment — 1917
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Bombay city = **Besant** zone.
-
-</details>
-
----
-
-**Q12.** Assertion (A): Annie Besant was the first woman President of the Indian National Congress.
-
-Reason (R): She founded the Theosophical Society in 1875.
-
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Theosophical Society founded by **Blavatsky and Olcott**.
+**Ans: C.** A true; R false.
+
+**A/R logic:** Wartime constitutional politics ≠ NCM mass boycott.
 
 </details>
 
 ---
 
-**Q13.** With reference to BHU, which of the following statements is/are correct?
+**Q4.** Arrange the following in chronological order:
 
-1. Madan Mohan Malaviya is the chief founder/organiser tag.
-2. Lord Hardinge laid the foundation stone in February 1916.
+1. Lucknow Pact
+2. Montagu Declaration
+3. Besant’s internment (with Arundale and Wadia)
+4. Government of India Act, 1919
 
-A. Only 1
+A. 1, 2, 3, 4
 
-B. Only 2
+B. 1, 3, 2, 4
 
-C. Both 1 and 2
+C. 3, 1, 2, 4
 
-D. Neither 1 nor 2
+D. 1, 3, 4, 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: B.** Dec 1916 → Jun 1917 → 20 Aug 1917 → 1919 Act.
+
+**Logic:** Internment precedes Montagu Declaration; Declaration ≠ 1919 Act.
 
 </details>
 
 ---
 
-**Q14.** Which of the following pairs are NOT correctly matched?
+**Q5.** With reference to Montagu and related offers, which of the following statements is/are correct?
 
-1. NCE — 1906
-2. BHU — 1916
-3. BHU — 1906 with the National Council of Education
+1. The Montagu Declaration (20 August 1917) stated the goal of responsible government in India.
+2. It is a statement of intent, not the Government of India Act, 1919 itself.
+3. The Montagu Declaration of 1917 is the same document as the August Offer of 1940.
 
-A. Only 3
+Select the correct answer from the code given below:
 
-B. Only 1 and 3
+A. 1, 2 and 3
 
-C. Only 2 and 3
+B. 1 and 3 only
 
-D. Only 1
+C. 2 and 3 only
+
+D. 1 and 2 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: D.** Only 1 and 2.
+
+**Logic:** 1917 intent ≠ 1940 Linlithgow offer.
 
 </details>
 
 ---
 
-**Q15.** Consider the following statements:
+**Q6.** Which of the following pairs is NOT correctly matched?
 
-1. AITUC was founded in 1920.
-2. INTUC was founded in 1920 as the Congress labour wing.
+A. AITUC founded 31 October 1920 — Lala Lajpat Rai first president
 
-A. Only 1
+B. Madras Labour Union 1918 — linked to B.P. Wadia
 
-B. Only 2
+C. India’s ILO 1919 labour representative — N.M. Joshi
 
-C. Both 1 and 2
-
-D. Neither 1 nor 2
+D. India’s ILO 1919 labour representative — Joseph Baptista
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: D.** ILO 1919 face is Joshi; Baptista is Tilak League President.
+
+**Logic:** Baptista ↔ Joshi name swap.
 
 </details>
 
 ---
 
-**Q16.** Match List-I with List-II.
+**Q7.** With reference to BHU and national education waves, which of the following statements is/are correct?
 
-**List-I** A. Central Hindu College B. Kesari C. New India D. AITUC first president
-**List-II** 1. Tilak 2. Besant 3. Lajpat Rai 4. Besant (1898 Banaras)
+1. BHU: Act 1915; foundation stone 4 February 1916 (Hardinge); Malaviya founder tag; Varanasi.
+2. NCE 1906 is the same body as BHU 1916.
+3. Gujarat Vidyapith (1920) and Kashi Vidyapith (1921) belong to the Non-Cooperation national-university wave.
 
-A. 4 1 2 3
+Select the correct answer from the code given below:
 
-B. 2 1 4 3
+A. 1 and 2 only
 
-C. 4 2 1 3
+B. 1 and 3 only
 
-D. 4 1 3 2
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Central Hindu College and *New India* are both Besant, different years/roles.
+**Ans: B.** Only 1 and 3.
+
+**Logic:** NCE (Swadeshi) ≠ BHU.
 
 </details>
 
 ---
 
-**Q17.** Arrange: 1. Tilak Home Rule League 2. Besant Home Rule League 3. Montagu Declaration 4. CSP Bombay conference
+**Q8.** Match List-I (Labour / party stream) with List-II:
+
+| List-I | List-II |
+|--------|---------|
+| A. AITUC | 1. Congress labour wing (1947) |
+| B. INTUC | 2. CPI stream |
+| C. BMS | 3. BJP-linked (1955) |
+| D. CSP | 4. Socialists inside Congress (1934) |
+
+*Row order is not the answer code.*
+
+A. A-2, B-1, C-4, D-3
+
+B. A-1, B-2, C-4, D-3
+
+C. A-2, B-3, C-1, D-4
+
+D. A-2, B-1, C-3, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** AITUC–CPI; INTUC–Congress; BMS–BJP; CSP inside Congress.
+
+**Logic:** Party–labour map from Must-Score.
+
+</details>
+
+---
+
+**Q9.** Among the following, which is the correct chronological order from earliest to latest?
+
+1. Home Rule Leagues
+2. Jallianwala Bagh
+3. Non-Cooperation / Khilafat peak years
+4. Moplah rebellion
+
+A. 2, 1, 3, 4
+
+B. 1, 2, 3, 4
+
+C. 1, 3, 2, 4
+
+D. 1, 2, 4, 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** 1916 → 1919 → 1920–22 → 1921 Moplah (last among this set in teaching order).
+
+**Logic:** Home Rule earliest; Moplah last among the named cluster.
+
+</details>
+
+---
+
+**Q10.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+**Assertion (A):** Annie Besant became the first woman Congress President at Calcutta in December 1917.
+
+**Reason (R):** Annie Besant founded the Theosophical Society in New York in 1875.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true; R false.
+
+**A/R logic:** Founders = Blavatsky and Olcott; Besant was a later leader.
+
+</details>
+
+---
+
+**Q11.** With reference to the Lucknow Pact (1916), which of the following statements is/are correct?
+
+1. It reunited Moderates and Extremists and sealed a Congress–League deal on separate electorates and weightage.
+2. Separate electorates themselves first appeared in the Indian Councils Act, 1909 (Morley–Minto).
+3. Congress first accepted separate electorates as a bargain in 1909, not in 1916.
+
+Select the correct answer from the code given below:
+
+A. 2 and 3 only
+
+B. 1 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** System begins 1909; Congress bargain acceptance is Lucknow 1916.
+
+</details>
+
+---
+
+**Q12.** Which one of the following is correctly matched?
+
+A. CSP formed — January 1934 only, with Nehru as founding general secretary
+
+B. CSP — Patna (May 1934) / Bombay (October 1934); Nehru never formally joined
+
+C. Workers and Peasants Party — identical with CSP from 1934
+
+D. Justice Party (1916) — all-India Congress labour wing
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** CSP dates and Nehru’s non-membership.
+
+**Logic:** CSP ≠ CPI; WPP is late-1920s left inside Congress.
+
+</details>
+
+---
+
+**Q13.** Which of the following statements is/are correct?
+
+1. In 1920 Gandhi became All-India Home Rule League President and renamed it Swarajya Sabha.
+2. Tilak died on 1 August 1920, before Non-Cooperation’s peak.
+3. Tilak presided over the Belgaum Congress of 1924.
+
+Select the correct answer from the code given below:
+
+A. 1, 2 and 3
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Tilak never INC President; Belgaum 1924 is Gandhi.
+
+</details>
+
+---
+
+**Q14.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|---------|
+| A. Morley–Minto 1909 | 1. Congress–League electoral bargain |
+| B. Lucknow Pact 1916 | 2. Muslim separate electorates created by British Act |
+| C. Montagu Declaration 1917 | 3. Responsible government as policy goal |
+| D. August Offer 1940 | 4. Wartime dominion-after-war offer with minority veto |
+
+*Row order is not the answer code.*
+
+A. A-1, B-2, C-4, D-3
+
+B. A-2, B-1, C-3, D-4
+
+C. A-2, B-3, C-1, D-4
+
+D. A-2, B-1, C-4, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Create → accept → declare → later offer.
+
+**Logic:** Four constitutional milestones often merged.
+
+</details>
+
+---
+
+**Q15.** With reference to Besant’s educational work, which of the following statements is/are correct?
+
+1. She founded Central Hindu College, Varanasi, in 1898, later a nucleus of BHU.
+2. Malaviya is the chief BHU organiser tag.
+3. Central Hindu College and NCE 1906 are the same Swadeshi university.
+
+Select the correct answer from the code given below:
+
+A. 2 and 3 only
+
+B. 1 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Besant college nucleus ≠ NCE.
+
+</details>
+
+---
+
+**Q16.** Arrange the national-education milestones in chronological order:
+
+1. National Council of Education
+2. Banaras Hindu University foundation stone
+3. Gujarat Vidyapith
+4. Wardha scheme / Nai Talim context (1937)
 
 A. 1, 2, 3, 4
 
 B. 2, 1, 3, 4
 
-C. 1, 2, 4, 3
+C. 1, 3, 2, 4
 
-D. 1, 3, 2, 4
+D. 1, 2, 4, 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Apr 1916 → Sep 1916 → Aug 1917 → Oct 1934.
+**Ans: A.** 1906 → 1916 → 1920 → 1937.
+
+**Logic:** Swadeshi → BHU → NCM vidyapiths → Wardha.
 
 </details>
 
 ---
 
-**Q18.** With reference to CSP, which of the following statements is/are correct?
+**Q17.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-1. It was a socialist group inside Congress.
-2. Acharya Narendra Dev and Jayaprakash Narayan were leading figures.
+**Assertion (A):** Jinnah is remembered as ‘Ambassador of Hindu–Muslim Unity’ for the Lucknow Pact season.
 
-A. Only 1
+**Reason (R):** Tilak and Besant pushed Extremist reunion around the same Lucknow politics.
 
-B. Only 2
+Select the correct answer from the code given below:
 
-C. Both 1 and 2
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 
-D. Neither 1 nor 2
+B. (A) is false, but (R) is true
 
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q19.** Assertion (A): The Congress Socialist Party was not formed in January 1934.
-
-Reason (R): Its all-India organisation is tied to the 1934 Patna/Bombay conferences after Nasik jail discussions.
-
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: A.** Both true; R does not explain Jinnah’s ‘Ambassador’ tag.
+
+**A/R logic:** Parallel roles in 1916 politics.
 
 </details>
 
 ---
 
-**Q20.** Consider the following statements:
+**Q18.** Which of the following statements about Home Rule decline is/are correct?
 
-1. N.C. Kelkar was President of Tilak’s Home Rule League.
-2. Joseph Baptista was President of Tilak’s Home Rule League.
+1. Home Rule declined after Montagu–Chelmsford hope and Tilak’s time abroad.
+2. Rise of Gandhi’s mass methods further overshadowed league politics.
+3. The two leagues permanently merged into one body in 1916 and never operated in parallel.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
+A. 1 and 2 only
 
-C. Both 1 and 2
+B. 1 and 3 only
 
-D. Neither 1 nor 2
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Kelkar = **Secretary**.
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Two parallel leagues cooperated; they did not permanently merge in 1916–18.
 
 </details>
 
 ---
 
-**Q21.** Which of the following is NOT correctly matched?
+**Q19.** Which of the following pairs is NOT correctly matched?
 
-A. Madras Labour Union — 1918
+A. Justice Party 1916 — Madras non-Brahmin regional force
 
-B. AITUC — 1920
+B. Self-Respect movement — Periyar after leaving Congress in 1925
 
-C. BMS — 1955
+C. Kanpur Conspiracy 1924 — M.A. Ansari as a standard associated accused
 
-D. ILO labour rep 1919 — Joseph Baptista
+D. Workers and Peasants Party — clearer all-India form from December 1928
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: C.** Ansari is not in the associated list for Kanpur 1924.
+
+**Logic:** Standing ‘not associated’ trap.
 
 </details>
 
 ---
 
-**Q22.** With reference to the Montagu Declaration, which of the following statements is/are correct?
+**Q20.** With reference to readings of the Montagu Declaration, which of the following statements is/are correct?
 
-1. It was issued on 20 August 1917.
-2. It promised gradual development of self-governing institutions in India.
+1. Extremists read it as proof that Home Rule pressure worked.
+2. Moderates read it as proof that constitutional agitation still worked.
+3. Both readings treated it as identical with the August Offer of 1940.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
+A. 1 and 2 only
 
-C. Both 1 and 2
+B. 1 and 3 only
 
-D. Neither 1 nor 2
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Same declaration, two political readings — not 1940.
 
 </details>
 
 ---
 
-**Q23.** Match List-I with List-II.
+**Q21.** Match List-I with List-II:
 
-**List-I** A. Justice Party B. CSP C. WPP All-India conference D. CPI tag
-**List-II** 1. 1934 2. 1916 3. 1925 4. 1928
+| List-I | List-II |
+|--------|---------|
+| A. Rajendra Prasad on Minto | 1. ‘Father of Pakistan’ tag for communal electorates |
+| B. Annie Besant | 2. Fabian as well as Theosophist–Home Rule leader |
+| C. AITUC 1920 | 3. Lala Lajpat Rai first president |
+| D. INTUC 1947 | 4. Congress labour wing |
 
-A. 2 1 4 3
+*Row order is not the answer code.*
 
-B. 2 1 3 4
+A. A-1, B-2, C-3, D-4
 
-C. 1 2 4 3
+B. A-2, B-1, C-4, D-3
 
-D. 2 4 1 3
+C. A-1, B-3, C-2, D-4
+
+D. A-1, B-2, C-4, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: A.** Minto tag / Besant Fabian / AITUC / INTUC.
+
+**Logic:** Labour wing years and Besant’s multiple identities.
 
 </details>
 
 ---
 
-**Q24.** Consider the following statements:
+**Q22.** Which of the following statements is/are correct?
 
-1. Besant later opposed Gandhi’s Non-Cooperation methods.
-2. Besant was the first woman Congress President.
+1. UP Focus: BHU and Kashi Vidyapith are Varanasi facts.
+2. Besant league branches reached UP towns, but Tilak’s HQ stayed Poona.
+3. Tilak’s league area included Bombay city and excluded Karnataka/CP/Berar.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
+A. 1 and 2 only
 
-C. Both 1 and 2
+B. 1 and 3 only
 
-D. Neither 1 nor 2
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Tilak: MH except Bombay city + Karnataka/CP/Berar.
 
 </details>
 
 ---
 
-**Q25.** Which of the following pairs are NOT correctly matched?
+**Q23.** Arrange the following in chronological order:
 
-1. BHU — Varanasi
-2. Central Hindu College — Besant
-3. BHU founder tag — Lord Hardinge alone
+1. Indian Councils Act (Morley–Minto)
+2. Tilak Home Rule League
+3. Besant Home Rule League
+4. AITUC foundation
 
-A. Only 3
+A. 1, 2, 3, 4
 
-B. Only 1 and 3
+B. 1, 3, 2, 4
 
-C. Only 2 and 3
+C. 2, 1, 3, 4
 
-D. Only 1
+D. 1, 2, 4, 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — founder tag = **Malaviya**; Hardinge laid the stone.
+**Ans: A.** 1909 → Apr 1916 → Sep 1916 → Oct 1920.
+
+**Logic:** Electorates → two leagues → labour federation.
 
 </details>
 
 ---
 
-**Q26.** With reference to CPI and CSP, which of the following statements is/are correct?
+**Q24.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-1. CPI is a separate communist party.
-2. CSP worked as a socialist group inside Congress.
+**Assertion (A):** The Government of India Act, 1919 followed Montagu–Chelmsford talks and introduced dyarchy in the provinces.
 
-A. Only 1
+**Reason (R):** Dyarchy was first introduced by the Morley–Minto reforms of 1909.
 
-B. Only 2
+Select the correct answer from the code given below:
 
-C. Both 1 and 2
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 
-D. Neither 1 nor 2
+B. (A) is false, but (R) is true
 
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q27.** Arrange: 1. AITUC 2. ILO Washington (Joshi) 3. Madras Labour Union 4. Meerut Conspiracy
-
-A. 3, 2, 1, 4
-
-B. 2, 3, 1, 4
-
-C. 3, 1, 2, 4
-
-D. 3, 2, 4, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 1918 → 1919 → 1920 → 1929.
-
-</details>
-
----
-
-**Q28.** Assertion (A): Home Rule demanded self-government within the Empire.
-
-Reason (R): The slogan copied the Irish Home Rule vocabulary.
-
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: C.** A true; R false.
+
+**A/R logic:** 1909 = separate electorates, not dyarchy.
 
 </details>
 
 ---
 
-**Q29.** Consider the following statements:
+**Q25.** With reference to CSP and left politics inside Congress, which of the following statements is/are correct?
 
-1. In 1920 Gandhi became president of the All-India Home Rule League.
-2. The league was renamed Swarajya Sabha.
+1. CSP formed at Patna (May 1934) / Bombay (October 1934).
+2. WPP’s clearer all-India form is from December 1928, not identical with CSP.
+3. CSP is simply another name for the Communist Party of India.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
+A. 1 and 2 only
 
-C. Both 1 and 2
+B. 1 and 3 only
 
-D. Neither 1 nor 2
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Socialists inside Congress ≠ separate CPI.
 
 </details>
 
 ---
 
-**Q30.** Which of the following is NOT correctly matched?
+**Q26.** Which one of the following correctly states a Home Rule organisational fact?
 
-A. Forward Bloc — 1939
+A. Tilak League HQ — Madras/Adyar
 
-B. Meerut Conspiracy — 1929
+B. Besant League HQ — Poona
 
-C. Kanpur Conspiracy — 1924
+C. Tilak League HQ — Poona; Besant League HQ — Madras/Adyar
 
-D. CSP — January 1934
+D. Both leagues shared a single HQ at Bombay from April 1916
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: C.** Poona vs Madras/Adyar.
+
+**Logic:** Geography of the two leagues.
 
 </details>
 
 ---
 
-**Q31.** With reference to Annie Besant’s internment, which of the following statements is/are correct?
+**Q27.** Which of the following statements is/are correct?
 
-1. Besant, Arundale and Wadia were interned in June 1917.
-2. The internment reduced Home Rule to a tiny elite club with no public protest.
+1. Cause of Besant’s 1917 surge: internment of Besant, Arundale and Wadia made Home Rule a mass slogan.
+2. Course: Montagu Declaration answered wartime pressure with a responsible-government goal.
+3. Result: Home Rule permanently replaced Congress as the only nationalist organisation after 1919.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
+A. 1 and 2 only
 
-C. Both 1 and 2
+B. 1 and 3 only
 
-D. Neither 1 nor 2
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — internment **widened** the protest.
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Leagues declined as Gandhi’s mass methods rose — they did not replace Congress.
 
 </details>
 
 ---
 
-**Q32.** Match List-I with List-II.
+**Q28.** With reference to labour politics, which of the following statements is/are correct?
 
-**List-I** A. Acharya Narendra Dev B. Joseph Baptista C. N.M. Joshi D. P. Theagaraya Chetty
-**List-II** 1. Justice Party circle 2. CSP 3. Tilak League President 4. ILO 1919
+1. Madras Labour Union (1918) is linked to B.P. Wadia.
+2. AITUC (1920) had Lala Lajpat Rai as first president.
+3. UTUC is keyed to the CPI(M) stream in the party–labour map.
 
-A. 2 3 4 1
+Select the correct answer from the code given below:
 
-B. 2 3 1 4
+A. 1 and 2 only
 
-C. 3 2 4 1
+B. 2 and 3 only
 
-D. 2 4 3 1
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: D.** All three.
+
+**Logic:** Labour chronology + party map.
 
 </details>
 
 ---
 
-**Q33.** Consider the following statements:
+**Q29.** Which of the following pairs is NOT correctly matched?
 
-1. Tilak never presided over a Congress session.
-2. Besant presided over the Calcutta session of 1917.
+A. Central Hindu College 1898 — Besant; Varanasi
 
-A. Only 1
+B. BHU foundation stone 1916 — Hardinge
 
-B. Only 2
+C. Kashi Vidyapith 1921 — Varanasi; NCM wave
 
-C. Both 1 and 2
-
-D. Neither 1 nor 2
+D. NCE 1906 — identical with BHU Act 1915
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: D.** NCE and BHU are different national-education waves.
+
+**Logic:** 1906 Swadeshi body ≠ 1915–16 BHU.
 
 </details>
 
 ---
 
-**Q34.** Which of the following pairs are NOT correctly matched?
+**Q30.** With reference to Home Rule organisational geography, which of the following statements is/are correct?
 
-1. Justice Party — Madras 1916
-2. Justice Party — claimed Morley-Minto-style communal representation for non-Brahmins
-3. Justice Party — founded by Annie Besant
+1. Tilak’s area was Maharashtra except Bombay city, plus Karnataka, CP and Berar.
+2. Besant’s league covered the rest of India including Bombay city.
+3. Both leagues permanently fused into one HQ at Adyar from April 1916.
 
-A. Only 3
+Select the correct answer from the code given below:
 
-B. Only 1 and 3
+A. 1 and 2 only
 
-C. Only 2 and 3
+B. 1 and 3 only
 
-D. Only 1
+C. 2 and 3 only
 
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q35.** With reference to WPP, which of the following statements is/are correct?
-
-1. Its strategy was to work within Congress.
-2. It is the same body as the Congress Socialist Party of 1934.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Two parallel leagues — no permanent 1916 merger.
 
 </details>
-
----
-
-**Q36.** Consider the following statements:
-
-1. BMS is linked with BJP.
-2. AITUC is linked with CPI in the UPPCS map.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q37.** Which of the following is NOT correctly matched?
-
-A. *New India* — Besant
-
-B. *Commonweal* — Besant
-
-C. *Kesari* — Tilak
-
-D. *Commonweal* — Tilak
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q38.** Arrange: 1. Central Hindu College 2. BHU foundation stone 3. NCE 4. Wardha Scheme
-
-A. 1, 3, 2, 4
-
-B. 3, 1, 2, 4
-
-C. 1, 2, 3, 4
-
-D. 3, 1, 4, 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 1898 → 1906 → 1916 → 1937.
-
-</details>
-
----
-
-**Q39.** Assertion (A): Nehru did not formally join the Congress Socialist Party.
-
-Reason (R): He had no sympathy for socialist ideas.
-
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — he **sympathised** but did not join.
-
-</details>
-
----
-
-**Q40.** With reference to labour, which of the following statements is/are correct?
-
-1. Lala Lajpat Rai was associated with the first presidentship of AITUC.
-2. The Meerut Conspiracy Case (1929) hit labour-left organisers.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q41.** Consider the following statements:
-
-1. Home Rule peaked during World War I.
-2. Home Rule is the same movement as Quit India 1942.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q42.** Match List-I with List-II.
-
-**List-I** A. Blavatsky B. Malaviya C. M.N. Roy D. Jayaprakash Narayan
-**List-II** 1. CSP 2. Theosophical Society founder circle 3. BHU 4. Early communism
-
-A. 2 3 4 1
-
-B. 2 3 1 4
-
-C. 3 2 4 1
-
-D. 2 4 3 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q43.** Which of the following pairs are NOT correctly matched?
-
-1. Tilak died — 1 August 1920
-2. Besant INC President — 1917
-3. Montagu Declaration — 1916
-
-A. Only 3
-
-B. Only 1 and 3
-
-C. Only 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Montagu Declaration **20 August 1917**.
-
-</details>
-
----
-
-**Q44.** With reference to national education, which of the following statements is/are correct?
-
-1. Central Hindu College (1898) is linked to the later BHU.
-2. Wardha Basic Education is a Home Rule League syllabus of 1916.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Wardha = **Gandhi 1937** (Topic 7).
-
-</details>
-
----
-
-**Q45.** Consider the following statements:
-
-1. CITU, not UTUC, is the classic CPI(M) trade-union centre.
-2. In the 2022 UPPCS map, UTUC is still matched with CPI(M).
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — learn the **paper’s pairs** for 2022; know CITU as the real CPI(M) centre.
-
-</details>
-
----
 
 ## Common Traps — Don't Fall For These
 

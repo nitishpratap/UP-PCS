@@ -592,484 +592,597 @@ D. Elimination of all industrial activity
 
 ## Practice Zone — UPPCS Format Drill
 
-> **30 questionsQ1.** Brundtland Report was published in:
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-A. 1972
+**Q1.** With reference to sustainable development, which of the following statements is/are correct?
 
-B. 1987
+1. Brundtland 1987 (*Our Common Future*) defines meeting present needs without compromising future generations.
+2. Brundtland is identical to *Limits to Growth* (1972).
+3. SD rests on economic, social, and environmental pillars.
 
-C. 1992
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
 
-D. 2015
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: B.** Only 1 and 3.
 
-**Ans: B**
-
-</details>
-
-**Q2.** Brundtland Report is titled:
-
-A. Limits to Growth
-
-B. Our Common Future
-
-C. Agenda 21
-
-D. Silent Spring
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** *Limits to Growth* ≠ Brundtland.
 
 </details>
 
-**Q3.** Agenda 21 was adopted at:
+**Q2.** Arrange conference chain:
 
-A. Stockholm 1972
+A. SDGs 2015 → Rio 1992 → Stockholm 1972
+B. Rio 1992 → Stockholm 1972 → Brundtland 1987
+C. Stockholm 1972 → Brundtland 1987 → Rio 1992 → SDGs 2015
+D. Brundtland 1987 → Stockholm 1972 → SDGs 2015
 
-B. Rio 1992
+<details>
+<summary>Show answer</summary>
 
-C. Paris 2015
+**Ans: C.** 1972 → 1987 → 1992 → 2015.
 
-D. Kyoto 1997
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q4.** SDGs were adopted in:
-
-A. 2000
-
-B. 2010
-
-C. 2015
-
-D. 2020
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
+**Logic:** Stockholm–Brundtland–Rio–SDGs.
 
 </details>
 
-**Q5.** SDG deadline year is:
+**Q3.** With reference to SDGs, which of the following statements is/are correct?
 
-A. 2025
+1. Adopted September 2015; run to 2030.
+2. 17 goals and 169 targets.
+3. SDGs replaced MDGs and apply universally to all countries.
 
-B. 2030
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. 2035
+<details>
+<summary>Show answer</summary>
 
-D. 2050
+**Ans: D.** All three.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q6.** Number of SDGs is:
-
-A. 8
-
-B. 12
-
-C. 17
-
-D. 21
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
+**Logic:** 2015–2030; 17/169; universal.
 
 </details>
 
-**Q7.** SDG 6 relates to:
+**Q4.** Match List-I with List-II:
 
-A. Climate
+| List-I | List-II |
+|--------|--------|
+| A. SDG 6 | 1. Climate |
+| B. SDG 7 | 2. Water |
+| C. SDG 13 | 3. Energy |
+| D. SDG 15 | 4. Life on land |
 
-B. Clean Water and Sanitation
+Code:
 
-C. Gender
+A. A-2, B-3, C-1, D-4
+B. A-3, B-2, C-1, D-4
+C. A-2, B-1, C-3, D-4
+D. A-1, B-3, C-2, D-4
 
-D. Industry
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: A.** A-2, B-3, C-1, D-4.
 
-**Ans: B**
-
-</details>
-
-**Q8.** SDG 13 relates to:
-
-A. Climate Action
-
-B. Zero Hunger
-
-C. Peace
-
-D. Partnerships
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** 6 water; 7 energy; 13 climate; 15 land.
 
 </details>
 
-**Q9.** MDGs had how many goals?
+**Q5.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. 8
+Assertion (A): Agenda 21 belongs to Rio 1992.
 
-B. 17
+Reason (R): Agenda 21 was signed in 1995 as a binding climate treaty.
 
-C. 169
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. 231
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: C.** A true, R false.
 
-**Ans: A**
-
-</details>
-
-**Q10.** Three pillars of SD exclude:
-
-A. Economic
-
-B. Social
-
-C. Environmental
-
-D. Military
-
-<details><summary>Show answer</summary>
-
-**Ans: D**
+**A/R logic:** 1992 non-binding SD action plan — not 1995 climate treaty.
 
 </details>
 
-**Q11.** HDI is published by:
+**Q6.** Which of the following pairs is/are correctly matched?
 
-A. UNDP
+1. Natural capital — air, water, land, minerals, forests
+2. Roads — natural capital in standard teaching
+3. HDI — UNDP
 
-B. IMF
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
 
-C. WTO
+<details>
+<summary>Show answer</summary>
 
-D. IPCC
+**Ans: B.** Only 1 and 3.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q12.** SDG India Index is published by:
-
-A. NITI Aayog
-
-B. RBI
-
-C. SEBI
-
-D. ISRO
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Roads are not natural capital.
 
 </details>
 
-**Q13.** India's nodal environment ministry is:
+**Q7.** With reference to NITI SDG Index, which of the following statements is/are correct?
 
-A. MoEFCC
+1. Kerala has repeatedly placed first.
+2. Himachal Pradesh and Tamil Nadu sit near the top in many editions.
+3. The Index is published by UNEP Nairobi as India’s only SDG tool.
 
-B. MoHFW
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
 
-C. MoRD
+<details>
+<summary>Show answer</summary>
 
-D. MoP
+**Ans: C.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q14.** NGT was established under Act of:
-
-A. 1986
-
-B. 2010
-
-C. 2015
-
-D. 1972
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** NITI Aayog product — not UNEP-only.
 
 </details>
 
-**Q15.** Bhopal Gas Tragedy occurred in:
+**Q8.** Arrange MDGs → SDGs:
 
-A. 1972
+A. SDGs 2000–2015 → MDGs 2015–2030
+B. MDGs started in 2030
+C. Both identical 8 goals forever
+D. MDGs 8 goals 2000–2015 → SDGs 17 goals 2015–2030
 
-B. 1984
+<details>
+<summary>Show answer</summary>
 
-C. 1992
+**Ans: D.** MDGs 2000–15 (8) → SDGs 2015–30 (17).
 
-D. 2005
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q16.** Environmental justice mainly concerns:
-
-A. Fair distribution of environmental benefits/burdens
-
-B. Only wildlife photography
-
-C. Only ozone chemistry
-
-D. Only GDP growth
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Replacement lock.
 
 </details>
 
-**Q17.** Land Ethic is associated with:
+**Q9.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Aldo Leopold
+Assertion (A): SD is not environment-only.
 
-B. Darwin only
+Reason (R): Economic and social pillars sit with the environmental pillar.
 
-C. Newton
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. Mendel
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: D.** Both true and R explains A.
 
-**Ans: A**
-
-</details>
-
-**Q18.** Gandhi's environmental idea is:
-
-A. Trusteeship
-
-B. Unlimited consumption
-
-C. Polluter reward
-
-D. Resource privatisation only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**A/R logic:** Three pillars.
 
 </details>
 
-**Q19.** LiFE Mission was launched in:
+**Q10.** Which of the following indicators is/are used in SD teaching?
 
-A. June 2022
+1. HDI
+2. Ecological footprint
+3. NITI SDG Index
+4. EPI
 
-B. 1992
+A. 1, 2, 3 and 4
+B. 1, 2 and 3 only
+C. 2, 3 and 4 only
+D. 1 and 2 only
 
-C. COP-25 Madrid
+<details>
+<summary>Show answer</summary>
 
-D. 1972
+**Ans: A.** All four.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q20.** Green economy (UNEP) emphasises:
-
-A. Low carbon, resource efficient, inclusive growth
-
-B. High coal dependence
-
-C. Waste maximisation
-
-D. Ozone depletion
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Indicator set.
 
 </details>
 
-**Q21.** Circular economy aims to:
+**Q11.** With reference to SDG 14, which of the following statements is/are correct?
 
-A. Eliminate waste through reuse/recycle loops
+1. Life below water.
+2. Links to oceans/blue economy neighbourhood.
+3. SDG 14 is identical to Article 370.
 
-B. Increase landfill use only
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. Stop all industry
+<details>
+<summary>Show answer</summary>
 
-D. Ban all plastics instantly worldwide
+**Ans: B.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q22.** Circular economy is ______ green economy.
-
-A. Broader than
-
-B. A component/subset of
-
-C. Unrelated to
-
-D. Identical to
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Not Art. 370.
 
 </details>
 
-**Q23.** EPR means:
+**Q12.** Match List-I with List-II:
 
-A. Extended Producer Responsibility
+| List-I | List-II |
+|--------|--------|
+| A. Brundtland Report | 1. 1972 Club of Rome |
+| B. Limits to Growth | 2. 1987 |
+| C. Rio Agenda 21 | 3. 1992 |
 
-B. Environmental Protection Reserve only
+Code:
 
-C. Extra Pollution Release
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
 
-D. European Patent Rule
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: C.** A-2, B-1, C-3.
 
-**Ans: A**
-
-</details>
-
-**Q24.** UP SDG Progress Report is prepared by:
-
-A. Planning Department
-
-B. Home Department only
-
-C. Tourism Department
-
-D. Police Department
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** 1987 / 1972 / 1992.
 
 </details>
 
-**Q25.** Inter-generational equity means:
+**Q13.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Fairness to future generations
+Assertion (A): Global SDG Index ranks often place Nordic countries like Finland near the top.
 
-B. Only today's rich
+Reason (R): India’s rank has been far from first in recent global SDG Index teaching figures.
 
-C. Only urban areas
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. Only exports
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: A.** Both true; India’s rank does not explain Finland’s top place.
 
-**Ans: A**
-
-</details>
-
-**Q26.** Which pair is NOT correctly matched?
-
-A. Brundtland — 1987
-
-B. Agenda 21 — 1992
-
-C. SDGs — 2030 deadline
-
-D. Limits to Growth — Brundtland Report
-
-<details><summary>Show answer</summary>
-
-**Ans: D**
+**A/R logic:** Two separate rank facts.
 
 </details>
 
-**Q27.** Ecocentrism values:
+**Q14.** With reference to equity in SD, which of the following statements is/are correct?
 
-A. Whole ecosystems
+1. Intra-generational equity matters.
+2. Inter-generational equity matters.
+3. Ecological limits and participation matter.
 
-B. Only stock markets
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. Only fossil fuels
+<details>
+<summary>Show answer</summary>
 
-D. Nothing in nature
+**Ans: D.** All three.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q28.** Precautionary principle was adopted in Indian law through cases like:
-
-A. Vellore Citizens' Welfare Forum
-
-B. Kesavananda Bharati only
-
-C. Golaknath only
-
-D. Shah Bano only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Core SD objectives.
 
 </details>
 
-**Q29.** SDG 12 focuses on:
+**Q15.** Which of the following pairs is/are NOT correctly matched?
 
-A. Responsible Consumption and Production
+1. SDG 13 — climate
+2. SDG 7 — energy
+3. SDG 6 — life on land
 
-B. No Poverty
+A. 3 only
+B. 1 and 2 only
+C. 2 and 3 only
+D. 1, 2 and 3
 
-C. Life Below Water
+<details>
+<summary>Show answer</summary>
 
-D. Gender Equality
+**Ans: A.** Only pair 3 is not correctly matched.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** SDG 6 = water; 15 = life on land.
 
 </details>
 
-**Q30.** Assertion (A): SD balances economic, social, and environmental progress.
-Reason (R): SD means stopping all industrial development.
+**Q16.** Arrange poverty reduction / biodiversity / pollution control as SD priority objectives teaching:
 
-A. Both true; R explains A
+A. They are excluded from SD
+B. They are among priority objectives alongside equity and ecological limits
+C. Only pollution control exists
+D. Only GDP growth is SD
 
-B. A true, R false
+<details>
+<summary>Show answer</summary>
 
-C. A false, R true
+**Ans: B.** Among priority objectives.
 
-D. Both false
+**Logic:** Not GDP-only.
 
-<details><summary>Show answer</summary>
+</details>
 
-**Ans: B** — SD integrates development; it does not mean zero industry.
+**Q17.** With reference to institutional capacity, which of the following statements is/are correct?
+
+1. Governance capacity supports SD delivery.
+2. Integrated planning is a core idea.
+3. SD means ignoring future generations.
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Future generations are central.
+
+</details>
+
+**Q18.** How many of the following conference facts are correct?
+
+1. Stockholm 1972 first UN human environment conference
+2. Rio 1992 produced Agenda 21
+3. SDGs 2015
+
+A. Only one
+B. Only two
+C. None
+D. All three
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three.
+
+**Logic:** Spine facts.
+
+</details>
+
+**Q19.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): MDGs had 8 goals.
+
+Reason (R): SDGs have 17 goals and apply to all countries.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; SDG design does not explain why MDGs had 8.
+
+**A/R logic:** Sequential frameworks; R not explanation of MDG count.
+
+</details>
+
+**Q20.** Which one of the following correctly states ecological footprint?
+
+A. Resource demand in global hectares (gha)
+B. Identical to tCO₂e only always
+C. A forest canopy % only
+D. A UN Security Council seat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** gha demand.
+
+**Logic:** ≠ carbon footprint unit only.
+
+</details>
+
+**Q21.** With reference to EPI, which of the following statements is/are correct?
+
+1. Environmental Performance Index is used among SD-related indicators teaching.
+2. It replaces the Constitution of India.
+3. It can appear beside HDI/footprint in indicator lists.
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 3.
+
+**Logic:** Does not replace Constitution.
+
+</details>
+
+**Q22.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. SDG 14 | 1. Energy |
+| B. SDG 7 | 2. Life below water |
+| C. SDG 6 | 3. Water |
+
+Code:
+
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A-2, B-1, C-3.
+
+**Logic:** 14 ocean; 7 energy; 6 water.
+
+</details>
+
+**Q23.** With reference to Gujarat in older NITI Index traps, which of the following statements is/are correct?
+
+1. Kerala has been repeatedly first.
+2. Assuming Gujarat was first in every 2019-style stem is unsafe.
+3. NITI Index is irrelevant to Indian SD teaching.
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Index matters; Gujarat-first is a trap in some years.
+
+</details>
+
+**Q24.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Rio 1992 is a pivot for Agenda 21, UNFCCC, and CBD openings.
+
+Reason (R): Stockholm 1972 created UNEP.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; UNEP origin does not explain Rio’s 1992 products.
+
+**A/R logic:** Two conference locks.
+
+</details>
+
+**Q25.** Which of the following statements about basic needs in SD is/are correct?
+
+1. Meeting basic needs is a core objective.
+2. Participation and integrated planning matter.
+3. SD ignores poverty reduction.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Poverty reduction is a priority.
+
+</details>
+
+**Q26.** Arrange 169 targets association:
+
+A. MDGs only
+B. SDGs
+C. Only Montreal Protocol
+D. Only IFA 1927
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** SDGs.
+
+**Logic:** 17 goals / 169 targets.
+
+</details>
+
+**Q27.** With reference to WCED, which of the following statements is/are correct?
+
+1. Brundtland Commission worked ~1983–1987.
+2. It produced *Our Common Future*.
+3. It is also called the Club of Rome Limits report.
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Not Limits to Growth.
+
+</details>
+
+**Q28.** Which of the following pairs is/are correctly matched?
+
+1. Intra-generational equity — within present generation
+2. Inter-generational equity — across generations
+3. Inter-generational equity — only within one city ward forever
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Pair 3 wrong.
+
+</details>
+
+**Q29.** How many of the following are SDG environment-facing goals in common ratta?
+
+6, 7, 13, 14, 15
+
+A. All five
+B. Only three
+C. Only four
+D. Only two
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** All five.
+
+**Logic:** Water, energy, climate, ocean, land.
+
+</details>
+
+**Q30.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Sustainable development requires respecting ecological limits.
+
+Reason (R): Unlimited resource extraction above regeneration always supports SD.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true, R false.
+
+**A/R logic:** Extraction above regeneration breaks SD.
 
 </details>
 

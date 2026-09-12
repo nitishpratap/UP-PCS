@@ -533,306 +533,591 @@ D. Nitrogen and oxygen both major greenhouse gases
 
 ---
 
-## Practice Zone
+## Practice Zone — UPPCS Format Drill
 
-**Q1.** Ozone layer is in the:
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-Options: A. Stratosphere B. Troposphere C. Mesosphere D. Exosphere
+**Q1.** With reference to atmospheric layers (bottom to top), which of the following statements is/are correct?
 
-<details><summary>Show answer</summary>
+1. Troposphere → Stratosphere → Mesosphere → Thermosphere → Exosphere.
+2. Weather lives in the troposphere.
+3. Ozone layer maximum is in the troposphere.
 
-**Ans: A**
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q2.** Atmosphere is mainly heated by:
+**Ans: B.** Only 1 and 2.
 
-Options: A. Long-wave terrestrial radiation B. Direct shortwave only C. Only reflected sunlight D. Only helium glow
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q3.** Approximate nitrogen share in dry air:
-
-Options: A. 78% B. 21% C. 0.04% D. 50%
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Ozone max = stratosphere.
 
 </details>
 
-**Q4.** Approximate oxygen share in dry air:
+**Q2.** Match List-I with List-II:
 
-Options: A. 21% B. 78% C. 0.93% D. 50%
+| List-I | List-II |
+|--------|--------|
+| A. Troposphere | 1. Ozone layer; T rises with height |
+| B. Stratosphere | 2. Weather; T falls with height |
+| C. Mesosphere | 3. Coldest; most meteors burn |
 
-<details><summary>Show answer</summary>
+Code:
 
-**Ans: A**
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q5.** Weather phenomena occur mainly in the:
+**Ans: C.** A-2, B-1, C-3.
 
-Options: A. Troposphere B. Stratosphere C. Mesosphere D. Exosphere
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q6.** Meteors usually burn in the:
-
-Options: A. Mesosphere B. Troposphere C. Stratosphere only D. Earth’s core
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Tropo/strato/meso.
 
 </details>
 
-**Q7.** Coldest atmospheric region is near the:
+**Q3.** Which of the following pairs is/are correctly matched?
 
-Options: A. Mesopause B. Sea level always C. Stratopause only D. Earth’s core
+1. Thermosphere — very hot but thin; auroras/ISS/ionosphere neighbourhood
+2. Exosphere — outermost fringe merges into space
+3. Exosphere — main weather layer
 
-<details><summary>Show answer</summary>
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: D.** Only 1 and 2.
 
-**Q8.** Which pair is WRONG?
-
-Options: A. Ozone layer — Troposphere B. Weather — Troposphere C. Ozone max — Stratosphere D. Aurora — Thermosphere
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q9.** Temperature in the stratosphere generally:
-
-Options: A. Increases with height B. Always falls with height C. Is constant at −90°C only D. Matches sea level always
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Weather ≠ exosphere.
 
 </details>
 
-**Q10.** Temperature in the troposphere generally:
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Options: A. Decreases with height B. Always rises with height C. Is hottest at tropopause only D. Matches exosphere always
+Assertion (A): Dry air is about N₂ 78%, O₂ 21%, argon ~0.93%, CO₂ ~0.04%.
 
-<details><summary>Show answer</summary>
+Reason (R): Argon is a major greenhouse gas.
 
-**Ans: A**
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q11.** Diffusion of light is mainly due to:
+**Ans: C.** A true, R false.
 
-Options: A. Dust particles B. Only helium C. Only argon glow D. Only nitrogen percentage
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q12.** Argon share is about:
-
-Options: A. 0.93% B. 78% C. 21% D. 50%
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**A/R logic:** Argon is not a GHG.
 
 </details>
 
-**Q13.** Homosphere extends roughly to:
+**Q5.** With reference to N₂ vs N₂O, which of the following statements is/are correct?
 
-Options: A. ~80 km B. 8 km only C. Earth’s core D. Moon orbit only
+1. Nitrogen gas (N₂) is not a greenhouse gas.
+2. Nitrous oxide (N₂O) is a greenhouse gas.
+3. N₂ and N₂O are identical greenhouse gases.
 
-<details><summary>Show answer</summary>
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: A.** Only 1 and 2.
 
-**Q14.** ISS orbits mainly in/near the:
-
-Options: A. Thermosphere B. Troposphere weather belt C. Earth’s mantle D. Mesosphere meteor zone only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q15.** Correct bottom-to-top order:
-
-Options: A. Tropo–Strato–Meso–Thermo–Exo B. Exo–Tropo–Strato C. Meso–Tropo–Strato D. Strato–Tropo–Exo–Meso
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Do not confuse N₂ with N₂O.
 
 </details>
 
-**Q16.** Lapse rate in troposphere is about:
+**Q6.** Arrange how lower atmosphere is heated:
 
-Options: A. 6.5°C per km B. 65°C per metre C. 0°C always D. 100°C per km always
+A. Only direct shortwave alone
+B. Mainly long-wave terrestrial radiation from warmed surface
+C. Only exosphere escape
+D. Only meteor burns
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Long-wave terrestrial radiation.
 
-</details>
-
-**Q17.** Maximum ozone concentration layer:
-
-Options: A. Stratosphere B. Troposphere C. Exosphere D. Mesosphere
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Standard heating answer.
 
 </details>
 
-**Q18.** Which is NOT a major natural GHG among these?
+**Q7.** Which of the following pairs is/are NOT correctly matched?
 
-Options: A. Nitrogen oxide (as in 2020 framing) B. CO₂ C. CH₄ D. Ozone
+1. Sun — shortwave insolation
+2. Surface — longwave emission warming air
+3. Maximum ozone — troposphere
 
-<details><summary>Show answer</summary>
+A. 1 and 2 only
+B. 2 and 3 only
+C. 3 only
+D. 1, 2 and 3
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: C.** Only pair 3 is not correctly matched.
 
-**Q19.** Tropopause is the boundary between:
-
-Options: A. Troposphere and stratosphere B. Mesosphere and exosphere C. Core and mantle D. Only ocean and land
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q20.** Exosphere mainly:
-
-Options: A. Merges into space B. Holds all weather C. Holds the ozone layer D. Is denser than troposphere
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Ozone max = stratosphere.
 
 </details>
 
-**Q21.** Ionosphere is mainly associated with:
+**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Options: A. Thermosphere B. Only troposphere clouds C. Only deep ocean D. Only Earth’s inner core
+Assertion (A): Stratospheric temperature rises with height largely because ozone absorbs UV.
 
-<details><summary>Show answer</summary>
+Reason (R): The ozone layer’s maximum concentration is in the stratosphere.
 
-**Ans: A**
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q22.** CO₂ share in dry air is about:
+**Ans: D.** Both true and R supplies the location for the UV-absorption heating.
 
-Options: A. 0.04% B. 78% C. 21% D. 50%
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q23.** Assertion (A): Ozone layer is in the stratosphere.
-Reason (R): Temperature falls continuously through all layers.
-
-Options: A. Both true; R explains A B. Both true; R does not explain A C. A true, R false D. Both false
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
+**A/R logic:** Ozone heating mechanism.
 
 </details>
 
-**Q24.** Stratospheric heating is mainly due to:
+**Q9.** With reference to tropospheric vs stratospheric ozone, which of the following statements is/are correct?
 
-Options: A. Ozone absorbing UV B. Only surface longwave in that layer C. Only monsoon clouds D. Only argon combustion
+1. Tropospheric ozone — pollutant and GHG.
+2. Stratospheric ozone — UV shield.
+3. Both are identical in role always.
 
-<details><summary>Show answer</summary>
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: D.** Only 1 and 2.
 
-**Q25.** N₂ is:
-
-Options: A. ~78% of dry air and not a GHG B. The main GHG C. Only 0.04% D. Absent from air
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q26.** Auroras are linked mainly to the:
-
-Options: A. Thermosphere / ionosphere B. Troposphere fog only C. Stratospheric ozone hole only D. Earth’s solid inner core only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Different roles.
 
 </details>
 
-**Q27.** Troposphere is thickest near the:
+**Q10.** Match List-I with List-II:
 
-Options: A. Equator B. Poles always thicker C. Exosphere D. Moon
+| List-I | List-II |
+|--------|--------|
+| A. Homosphere | 1. Separates gases by mass |
+| B. Heterosphere | 2. Well mixed to ~80 km |
+| C. Ionosphere radio | 3. Thermosphere–upper-atmosphere feature |
 
-<details><summary>Show answer</summary>
+Code:
 
-**Ans: A**
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q28.** 99% of atmospheric mass is within about:
+**Ans: A.** A-2, B-1, C-3.
 
-Options: A. 32 km of surface B. Only 1 metre C. Only lunar distance D. Only Earth’s core radius
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q29.** Ozone depletion is linked to:
-
-Options: A. CFCs B. Only argon C. Only nitrogen 78% D. Only helium balloons
-
-<details><summary>Show answer</summary>
-
-**Ans: A** — Topic 36 depth.
+**Logic:** Mixing / mass / radio.
 
 </details>
 
-**Q30.** Correct set:
+**Q11.** Arrange temperature inversion location:
 
-Options: A. Ozone=stratosphere; heat=longwave from surface; weather=troposphere; N₂≠GHG B. Ozone=troposphere; heat=shortwave only; weather=exosphere C. Meteors=troposphere; aurora=mesosphere D. N₂=main GHG; Ar=21%
+A. Only exosphere
+B. Troposphere (with weather systems)
+C. Only mesosphere meteors
+D. Only heterosphere
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Troposphere.
+
+**Logic:** Inversion + weather.
+
+</details>
+
+**Q12.** With reference to mesosphere vs thermosphere, which of the following statements is/are correct?
+
+1. Mesosphere is coldest; thermosphere can be very hot but thin.
+2. Both can be true because density differs.
+3. Thin hot air equals surface heat sensation always.
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Density caveat.
+
+</details>
+
+**Q13.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Commercial jets often cruise near the tropopause.
+
+Reason (R): The tropopause sits atop the troposphere neighbourhood.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R places the cruise level.
+
+**A/R logic:** Tropopause cruise.
+
+</details>
+
+**Q14.** Which one of the following correctly states water vapour in composition teaching?
+
+A. Absent from atmosphere always
+B. Fixed at 78% always
+C. Identical to argon always
+D. Varies strongly by place and season; dry-air % exclude it
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Variable; dry-air basis.
+
+**Logic:** H₂O variability.
+
+</details>
+
+**Q15.** How many of the following are NOT greenhouse gases?
+
+N₂, O₂, argon, helium
+
+A. All four
+B. Only two
+C. Only three
+D. Only one
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** All four.
+
+**Logic:** None of these are GHGs.
+
+</details>
+
+**Q16.** With reference to layer order traps, which of the following statements is/are correct?
+
+1. Never reverse troposphere and stratosphere bottom-to-top.
+2. Exosphere atoms can escape to space.
+3. Exosphere is the main weather layer.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Weather = troposphere.
+
+</details>
+
+**Q17.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. N₂ | 1. ~0.04% |
+| B. O₂ | 2. ~78% |
+| C. CO₂ | 3. ~21% |
+
+Code:
+
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A-2, B-3, C-1.
+
+**Logic:** 78 / 21 / 0.04.
+
+</details>
+
+**Q18.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Do not place the ozone layer in the troposphere on a match list.
+
+Reason (R): Maximum ozone concentration is in the stratosphere.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R explains A.
+
+**A/R logic:** Ozone location trap.
+
+</details>
+
+**Q19.** Which of the following pairs is/are correctly matched?
+
+1. Auroras — thermosphere neighbourhood
+2. Most meteors burn — mesosphere
+3. ISS path — thermosphere neighbourhood teaching
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three.
+
+**Logic:** Upper-atmosphere facts.
+
+</details>
+
+**Q20.** Arrange ionosphere radio reflection:
+
+A. Mainly thermosphere–upper-atmosphere feature
+B. Mainly troposphere fog
+C. Only soil conductivity
+D. Only ocean salinity
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Upper atmosphere / thermosphere.
+
+**Logic:** Radio reflection.
+
+</details>
+
+**Q21.** With reference to atmospheric studies for climate, which of the following statements is/are correct?
+
+1. Start from layer ladder.
+2. Plus greenhouse-gas composition facts.
+3. Ignore long-wave terrestrial heating entirely.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Heating mechanism matters.
+
+</details>
+
+**Q22.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Temperature falls with height in the troposphere.
+
+Reason (R): Temperature rises with height in the stratosphere.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; stratosphere lapse does not explain troposphere lapse.
+
+**A/R logic:** Two layer thermal rules.
+
+</details>
+
+**Q23.** How many of the following layer jobs are correct?
+
+Troposphere weather; Stratosphere ozone; Mesosphere meteors; Exosphere escape fringe
+
+A. Only one
+B. Only two
+C. All four
+D. Only three
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All four.
+
+**Logic:** Job map.
+
+</details>
+
+**Q24.** Which one of the following correctly states argon share teaching?
+
+A. Zero in dry air
+B. ~78% and major GHG
+C. ~21% and UV shield
+D. ~0.93% of dry air; not a GHG
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** ~0.93%; not GHG.
+
+**Logic:** Argon lock.
+
+</details>
+
+**Q25.** With reference to Sun vs Earth radiation, which of the following statements is/are correct?
+
+1. Sun sends shortwave insolation.
+2. Surface emits longwave that warms air.
+3. Lower air heated mainly by direct shortwave alone in standard answer.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Standard = terrestrial long-wave.
+
+</details>
+
+**Q26.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. Tropospheric O₃ | 1. UV shield |
+| B. Stratospheric O₃ | 2. Pollutant / GHG |
+| C. Heterosphere | 3. Above ~80 km mass separation |
+
+Code:
+
+A. A-1, B-2, C-3
+B. A-2, B-1, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** A-2, B-1, C-3.
+
+**Logic:** O₃ roles + heterosphere.
+
+</details>
+
+**Q27.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Oxygen and helium are not greenhouse gases.
+
+Reason (R): Only CO₂ among all atmospheric gases can ever affect radiation.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true, R false.
+
+**A/R logic:** Other GHGs exist (CH₄, N₂O, etc.).
+
+</details>
+
+**Q28.** Arrange five-layer ladder (bottom first two):
+
+A. Stratosphere → Troposphere
+B. Exosphere → Troposphere
+C. Troposphere → Stratosphere
+D. Mesosphere → Exosphere as first
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Troposphere then Stratosphere.
+
+**Logic:** Never reverse.
+
+</details>
+
+**Q29.** With reference to mesosphere, which of the following statements is/are correct?
+
+1. Coldest layer.
+2. Most meteors burn here.
+3. Holds the ozone-layer maximum.
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Ozone max = stratosphere.
+
+</details>
+
+**Q30.** Which one of the following correctly states the exosphere?
+
+A. Outermost fringe; atoms can escape to space; not a weather layer
+B. Main monsoon cloud factory
+C. Only ozone UV shield
+D. Only surface inversion layer
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Escape fringe — not weather.
+
+**Logic:** Exosphere identity.
 
 </details>
 

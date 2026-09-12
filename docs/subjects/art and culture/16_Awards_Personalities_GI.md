@@ -458,254 +458,13 @@ D. Sudha Murthy
 
 ## Practice Zone — UPPCS Format Drill
 
-**32 questions.** ≥60% multi-statement. A/R, Match-List, chronology, NOT-matched included.
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-**Q1.** With reference to national akademis, which of the following statements is/are correct?
+**Q1.** With reference to the three Culture akademis at Rabindra Bhavan, which of the following statements is/are correct?
 
-1. Sangeet Natak Akademi was established in 1952.
-2. Sahitya Akademi and Lalit Kala Akademi were both established in 1954.
-3. Lalit Kala Akademi is the national academy of letters.
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Letters = **Sahitya**. Lalit Kala = visual.
-
-</details>
-
-**Q2.** Match List-I with List-II.
-
-**List-I**
-A. Sangeet Natak Akademi
-B. Sahitya Akademi
-C. Lalit Kala Akademi
-D. Jnanpith Award
-
-**List-II**
-1. 1954, visual arts
-2. 1952, performing arts
-3. 1965, Bharatiya Jnanpith trust
-4. 1954, literature
-
-A. 2 4 1 3
-B. 2 1 4 3
-C. 4 2 1 3
-D. 2 4 3 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q3.** Which of the following pairs is/are NOT correctly matched?
-
-1. Ustad Bismillah Khan Yuva Puraskar — Sangeet Natak Akademi
-2. Yuva Puraskar for authors ≤35 — Sahitya Akademi
-3. Jnanpith Award — Sahitya Akademi
-
-A. 1 only
-B. 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Jnanpith = **Bharatiya Jnanpith trust**.
-
-</details>
-
-**Q4.** Assertion (A): M. S. Subbulakshmi was the first musician to receive the Bharat Ratna.
-Reason (R): She received it in 2001 along with Lata Mangeshkar.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Year = **1998**. 2001 = Lata + Bismillah.
-
-</details>
-
-**Q5.** Arrange the following Bharat Ratna conferments in chronological order:
-
-1. Bismillah Khan
-2. M. S. Subbulakshmi
-3. Satyajit Ray
-4. Pandit Jasraj
-
-A. 3, 2, 1, 4
-B. 2, 3, 1, 4
-C. 3, 1, 2, 4
-D. 3, 2, 4, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Ray 1992 → Subbulakshmi 1998 → Bismillah 2001 → Jasraj 2020.
-
-</details>
-
-**Q6.** With reference to Sahitya Akademi Yuva Puraskar announced in June 2025, which of the following statements is/are correct?
-
-1. Yuva Puraskar was announced in 23 Indian languages.
-2. There is no Yuva Puraskar in Dogri this year.
-
-A. Only 2
-B. Neither 1 nor 2
-C. Both 1 and 2
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Same fact as UPPCS 2025 Q20.
-
-</details>
-
-**Q7.** With reference to Jnanpith Award, which of the following statements is/are correct?
-
-1. The 58th Jnanpith Award was conferred upon Jagadguru Rambhadracharya.
-2. The first Jnanpith Award was given in 1965.
-
-A. Only 2
-B. Neither 1 nor 2
-C. Both 1 and 2
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Same fact as UPPCS 2025 Q148.
-
-</details>
-
-**Q8.** Who is the author of the novel *All the Lives We Never Lived*, which received the Sahitya Akademi Award 2022?
-
-A. Anita Desai
-B. Anuradha Roy
-C. Shobha De
-D. Sudha Murthy
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** English. UPPCS 2023 Q76.
-
-</details>
-
-**Q9.** How many of the following are among Sahitya Akademi’s 24 recognised award languages?
-
-1. English
-2. Rajasthani
-3. Bhojpuri as a separate recognised language
-
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Bhojpuri is not a separate Akademi language.
-
-</details>
-
-**Q10.** Match List-I with List-II.
-
-**List-I (Field, Padma Vibhushan 2025)**
-A. Trade and Industry
-B. Literature and Education
-C. Medicine
-D. Art
-
-**List-II (Awardee)**
-1. L. Subramaniam
-2. Osamu Suzuki
-3. M. T. Vasudevan Nair
-4. D. Nageshwar Reddy
-
-A. 3 2 1 4
-B. 2 3 4 1
-C. 2 3 1 4
-D. 3 2 4 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** UPPCS 2025 Q96.
-
-</details>
-
-**Q11.** Assertion (A): GI tags in India are administered by the Ministry of Culture.
-Reason (R): The GI Registry is located in Chennai.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Ministry = **Commerce / DPIIT**. Chennai is correct.
-
-</details>
-
-**Q12.** Which of the following pairs is/are NOT correctly matched?
-
-1. First Indian GI — Darjeeling Tea, 2004
-2. Banarasi Brocade — Uttar Pradesh
-3. Blue Pottery — Lucknow
-
-A. 1 only
-B. 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Blue Pottery = **Jaipur**.
-
-</details>
-
-**Q13.** Consider the following statements:
-
-1. Ustad Bismillah Khan is associated with the shehnai and Varanasi.
-2. Pandit Birju Maharaj is associated with Kathak.
-3. Both received the Bharat Ratna.
-
-Which of the statements given above is/are correct?
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Birju Maharaj is **not** Bharat Ratna.
-
-</details>
-
-**Q14.** With reference to Bharat Ratna, which of the following statements is/are correct?
-
-1. Dr Zakir Husain (1963) was the tabla maestro Ustad Zakir Hussain.
-2. Satyajit Ray received the Bharat Ratna for cinema.
-3. Tagore could not receive Bharat Ratna because he died before 1954.
+1. Sangeet Natak Akademi (1952) covers performing arts.
+2. Sahitya Akademi (1954) covers letters.
+3. Lalit Kala Akademi (1954) covers visual arts.
 
 A. 1 and 2 only
 B. 2 and 3 only
@@ -715,23 +474,427 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** 1963 BR = the **President-educationist**, not the tabla player.
+**Ans: D.** All three statements are correct.
+
+**Logic:** SNA is older (1952) than Sahitya and Lalit Kala (1954).
 
 </details>
 
-**Q15.** Match List-I with List-II.
+**Q2.** Consider the following pairs:
+
+| Award / body | Tag |
+|--------------|-----|
+| 1. Sahitya Akademi Award | Annual Culture-academy book prize |
+| 2. Jnanpith | Bharatiya Jnanpith trust from 1965 |
+| 3. Jnanpith | Identical to Sahitya Akademi Fellowship |
+
+Which of the pairs given above is/are correctly matched?
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only pairs 1 and 2 are correct.
+
+**Logic:** Jnanpith is a trust award, not a Sahitya Akademi prize.
+
+</details>
+
+**Q3.** Which of the following pairs is NOT correctly matched?
+
+A. M. S. Subbulakshmi — first musician Bharat Ratna (1998)
+B. Bismillah Khan — shehnai, Varanasi, Bharat Ratna 2001
+C. Birju Maharaj — Lucknow Kathak, Bharat Ratna
+D. Lata Mangeshkar — playback Bharat Ratna 2001
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Birju Maharaj is not Bharat Ratna.
+
+**Logic:** Also not BR: Ustad Zakir Hussain (tabla) and Tagore Nobel-era trap.
+
+</details>
+
+**Q4.** Assertion (A): Dr Zakir Husain (Bharat Ratna 1963) was the statesman-President.
+Reason (R): Ustad Zakir Hussain the tabla maestro is the same person as President Zakir Husain.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** (A) is true, but (R) is false.
+
+**A/R logic:** President Zakir Husain ≠ tabla maestro Ustad Zakir Hussain.
+
+</details>
+
+**Q5.** Arrange the following akademi founding years in chronological order:
+
+1. Sahitya Akademi
+2. Sangeet Natak Akademi
+3. Lalit Kala Akademi
+
+Select the correct order (treating same-year bodies as listed after SNA).
+
+A. 1-2-3
+B. 2-1-3
+C. 2-3-1
+D. 3-2-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** SNA 1952, then Sahitya and Lalit Kala in 1954.
+
+**Logic:** Year order is a frequent match trap.
+
+</details>
+
+**Q6.** With reference to Sahitya Akademi languages, which of the following statements is/are correct?
+
+1. Sahitya works in 24 languages.
+2. The set is 22 Eighth Schedule languages plus English and Rajasthani.
+3. Bhojpuri is a separate Sahitya Akademi language.
+
+A. 1 and 3 only
+B. 1 and 2 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** Bhojpuri is not a separate Akademi language.
+
+</details>
+
+**Q7.** Match List-I with List-II and select the correct answer using the code given below the Lists.
 
 **List-I**
-A. Bismillah Khan
-B. Ravi Shankar
-C. MS Subbulakshmi
-D. Birju Maharaj
+A. 2 1 3 4
+B. 2 1 4 3
+C. 1 2 4 3
+D. 2 4 1 3
 
 **List-II**
-1. Sitar
-2. Shehnai
-3. Kathak
-4. Carnatic vocal
+1. Lifetime Fellowship (small living cohort)
+2. Annual discipline prize
+3. Young authors ≤35
+4. Young performing artists (SNA)
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+B. 2 1 4 3
+C. 1 2 4 3
+D. 2 4 1 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Award–annual, Ratna–Fellowship, Bismillah Yuva–performing, Sahitya Yuva–authors ≤35.
+
+**Logic:** Do not swap the two Yuva names.
+
+</details>
+
+**Q8.** With reference to GI, which of the following statements is/are correct?
+
+1. GI follows the 1999 Act with Registry at Chennai under DPIIT / Commerce.
+2. First Indian GI was Darjeeling Tea (2004).
+3. Culture ministry runs the GI Registry.
+
+A. 1 and 3 only
+B. 1 and 2 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** Culture runs akademis. Commerce / DPIIT runs GI.
+
+</details>
+
+**Q9.** Which of the following pairs is/are NOT correctly matched?
+
+1. Lalit Kala — visual academy
+2. NGMA — modern-art gallery
+3. Lalit Kala — identical to NGMA as one body
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only pair 3 is not correctly matched.
+
+**Logic:** Academy and gallery must not be merged.
+
+</details>
+
+**Q10.** Assertion (A): Sahitya Yuva Puraskar is for young authors aged ≤35.
+Reason (R): Bismillah Khan Yuva is SNA’s young performing award.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+
+**A/R logic:** Both are true but refer to different bodies and fields.
+
+</details>
+
+**Q11.** With reference to Bharat Ratna culture musicians, which of the following statements is/are correct?
+
+1. Ravi Shankar received Bharat Ratna in 1999.
+2. Bhimsen Joshi received it in 2008.
+3. Bhupen Hazarika received it in 2019 (posthumous).
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three statements are correct.
+
+**Logic:** Jasraj 2020 is another posthumous culture fact.
+
+</details>
+
+**Q12.** Consider the following pairs:
+
+| Person | Tag |
+|--------|-----|
+| 1. Premchand | UP Hindi-Urdu fiction |
+| 2. Tulsidas | Awadhi Ramcharitmanas |
+| 3. Rambhadracharya | Sanskrit Jnanpith fact |
+
+Which of the pairs given above is/are correctly matched?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three pairs are correct.
+
+**Logic:** 58th Jnanpith teaching includes Rambhadracharya (with Gulzar).
+
+</details>
+
+**Q13.** Match List-I with List-II and select the correct answer using the code given below the Lists.
+
+**List-I**
+A. 2 1 3 4
+B. 2 1 4 3
+C. 1 2 4 3
+D. 2 4 1 3
+
+**List-II**
+1. Lucknow embroidery GI
+2. Varanasi handloom GI
+3. First Indian GI (2004)
+4. Jaipur (not UP)
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+B. 2 1 4 3
+C. 1 2 4 3
+D. 2 4 1 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Banarasi–Varanasi, Chikankari–Lucknow, Blue Pottery–Jaipur, Darjeeling–first GI.
+
+**Logic:** Blue Pottery is not UP.
+
+</details>
+
+**Q14.** With reference to Padma and Bharat Ratna, which of the following statements is/are correct?
+
+1. Bharat Ratna is the highest civilian honour.
+2. Padma Vibhushan is the second Padma tier, below Bharat Ratna.
+3. A Padma Vibhushan for Art is automatic Bharat Ratna.
+
+A. 2 and 3 only
+B. 1 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2 are correct.
+
+**Logic:** Padma Vibhushan does not auto-upgrade to Bharat Ratna.
+
+</details>
+
+**Q15.** Arrange the following Bharat Ratna culture years in chronological order:
+
+1. Lata Mangeshkar and Bismillah Khan
+2. M. S. Subbulakshmi
+3. Ravi Shankar
+4. Bhimsen Joshi
+
+Select the correct order.
+
+A. 2-3-1-4
+B. 2-1-3-4
+C. 3-2-1-4
+D. 2-3-4-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** 1998 → 1999 → 2001 → 2008.
+
+**Logic:** Subbulakshmi is first musician Bharat Ratna.
+
+</details>
+
+**Q16.** With reference to Lalit Kala, which of the following statements is/are correct?
+
+1. It gives National Awards and Kala Ratna.
+2. It runs Triennale India.
+3. It has a regional centre at Lucknow.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three statements are correct.
+
+**Logic:** Lucknow centre is a UP institutional fact, not automatic National Award for every local artist.
+
+</details>
+
+**Q17.** Which one of the following is NOT a Bharat Ratna culture name in the chapter map?
+
+A. Satyajit Ray (1992, cinema)
+B. Bhupen Hazarika (2019)
+C. Pandit Jasraj (2020)
+D. Ustad Zakir Hussain (tabla)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Tabla maestro Ustad Zakir Hussain is not Bharat Ratna in this teaching map.
+
+**Logic:** Do not confuse with President Zakir Husain (1963).
+
+</details>
+
+**Q18.** Assertion (A): Akademi Ratna is the lifetime Fellowship of SNA.
+Reason (R): Every SNA prize is automatically Akademi Ratna Fellowship.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** (A) is true, but (R) is false.
+
+**A/R logic:** Akademi Award is the annual discipline prize. Ratna is the small Fellowship cohort.
+
+</details>
+
+**Q19.** With reference to GI versus trademark, which of the following statements is/are correct?
+
+1. GI protects place-linked community quality.
+2. Trademark protects one firm’s brand.
+3. GI is a private logo owned by a single company only.
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** GI is not a private trademark logo.
+
+</details>
+
+**Q20.** Consider the following pairs:
+
+| Item | Tag |
+|------|-----|
+| 1. First Jnanpith | G. Sankara Kurup |
+| 2. Bharat Ratna start | 1954 |
+| 3. SNA founding | 1954 |
+
+Which of the pairs given above is/are correctly matched?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only pairs 1 and 2 are correct.
+
+**Logic:** SNA was founded in 1952.
+
+</details>
+
+**Q21.** Match List-I with List-II and select the correct answer using the code given below the Lists.
+
+**List-I**
+A. Sangeet Natak Akademi
+B. Sahitya Akademi
+C. Lalit Kala Akademi
+D. Jnanpith
+
+**List-II**
+1. Literature; 24 languages
+2. Performing arts; 1952
+3. Trust literary award from 1965
+4. Visual arts; Lucknow centre
+
+*Row order is not the answer code.*
 
 A. 2 1 4 3
 B. 2 1 3 4
@@ -741,15 +904,53 @@ D. 2 4 1 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Ans: A.** SNA–performing 1952, Sahitya–letters, Lalit Kala–visual, Jnanpith–trust 1965.
+
+**Logic:** Filter by body first, then person or craft.
 
 </details>
 
-**Q16.** Which of the following statements is/are correct?
+**Q22.** With reference to Bismillah Khan, which of the following statements is/are correct?
 
-1. Lalit Kala Akademi organises Triennale India.
-2. NGMA is a modern-art gallery, not the visual-arts academy.
-3. Lalit Kala’s UP regional centre is at Varanasi.
+1. He is the shehnai maestro of Varanasi.
+2. He received Bharat Ratna in 2001.
+3. SNA’s young performing award is named after him.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three statements are correct.
+
+**Logic:** Do not swap with Birju Maharaj Kathak facts.
+
+</details>
+
+**Q23.** Which of the following pairs is NOT correctly matched?
+
+A. GI ministry home — Commerce / DPIIT
+B. Akademis — Culture ministry
+C. KVIC / khadi teaching — MSME in craft chapters
+D. GI Registry — Ministry of Culture, New Delhi campus only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** GI Registry is at Chennai under DPIIT / Commerce.
+
+**Logic:** Culture runs akademis, not the GI Registry.
+
+</details>
+
+**Q24.** With reference to Sahitya Yuva 2025 teaching, which of the following statements is/are correct?
+
+1. Yuva Puraskar is for authors ≤35.
+2. Yuva ran in 23 languages in 2025 with no Dogri that year in the chapter fact.
+3. Bismillah Khan Yuva is also a Sahitya Akademi book prize for novelists.
 
 A. 1 and 2 only
 B. 1 and 3 only
@@ -759,48 +960,54 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Regional centre = **Lucknow**.
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Bismillah Khan Yuva is SNA performing, not Sahitya book prize.
 
 </details>
 
-**Q17.** How many of the following honours are conferred by Sangeet Natak Akademi?
+**Q25.** Assertion (A): Tagore received the Nobel Prize in 1913 and died in 1941.
+Reason (R): Therefore Tagore is listed as a Bharat Ratna culture musician of 1954.
 
-1. Akademi Award
-2. Akademi Ratna
-3. Sahitya Akademi Yuva Puraskar
-
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Yuva Puraskar for books = **Sahitya**.
-
-</details>
-
-**Q18.** Assertion (A): SNA Akademi Ratna is limited to five living persons.
-Reason (R): Akademi Ratna is the highest fellowship of Sangeet Natak Akademi.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Living Fellows are capped near **40**, not 5.
+**Ans: C.** (A) is true, but (R) is false.
+
+**A/R logic:** Bharat Ratna began in 1954 after Tagore’s death. He is a not-BR trap name here.
 
 </details>
 
-**Q19.** With reference to GI tags, which of the following statements is/are correct?
+**Q26.** With reference to UP culture GIs, which of the following statements is/are correct?
 
-1. The GI Act was enacted in 1999.
-2. Madhubani painting GI belongs to Bihar.
-3. GI and trademark are legally the same right.
+1. Banarasi brocade is a culture-facing UP GI.
+2. Chikankari is a culture-facing UP GI.
+3. Blue Pottery is a Lucknow UP GI.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Blue Pottery is Jaipur.
+
+</details>
+
+**Q27.** Consider the following statements:
+
+1. Bharat Ratna has no application form and allows posthumous conferment.
+2. The Prime Minister recommends names to the President.
+3. Bharat Ratna is an akademi prize of SNA.
 
 A. 1 and 2 only
 B. 1 and 3 only
@@ -810,17 +1017,37 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** GI = community/place. Trademark = firm.
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Bharat Ratna is the highest civilian honour, not an akademi prize.
 
 </details>
 
-**Q20.** Consider the following pairs:
+**Q28.** Which of the following is/are correctly matched?
 
-1. Chikankari — Lucknow
-2. Warli painting GI — Maharashtra
-3. First GI in India — Banarasi saree
+1. Satyajit Ray — Bharat Ratna 1992 (cinema)
+2. M. S. Subbulakshmi — Carnatic; first musician BR 1998
+3. Bismillah Khan — shehnai; Varanasi
 
-Which of the pairs given above is/are correctly matched?
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are correct.
+
+**Logic:** Person–form–year matching is the culture award spine.
+
+</details>
+
+**Q29.** With reference to bodies and remits, which of the following statements is/are correct?
+
+1. First identify the body (SNA / Sahitya / Lalit Kala / Jnanpith / Bharat Ratna / GI ministry).
+2. Then match the person or craft.
+3. Year is never asked in award stems.
 
 A. 1 and 2 only
 B. 1 and 3 only
@@ -830,236 +1057,27 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** First GI = **Darjeeling Tea 2004**.
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Year is often asked. Body-first filtering reduces traps.
 
 </details>
 
-**Q21.** Which one of the following received the Bharat Ratna in 1999?
+**Q30.** Which of the following pairs is NOT correctly matched?
 
-A. M. S. Subbulakshmi
-B. Pandit Ravi Shankar
-C. Lata Mangeshkar
-D. Bhupen Hazarika
+A. Sahitya Akademi — 24 languages
+B. Eighth Schedule — 22 languages
+C. English and Rajasthani — added beyond Eighth Schedule for Sahitya
+D. Bhojpuri — separate Sahitya Akademi language
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Sitar.
+**Ans: D.** Bhojpuri is not a separate Akademi language.
+
+**Logic:** 24 ≠ 22 because English and Rajasthani are added.
 
 </details>
-
-**Q22.** With reference to Sahitya Akademi, which of the following statements is/are correct?
-
-1. It recognises 24 languages for awards.
-2. That count equals the Eighth Schedule total of 22.
-3. Yuva Puraskar is for authors aged 35 or below.
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 24 = 22 + English + Rajasthani.
-
-</details>
-
-**Q23.** Match List-I with List-II.
-
-**List-I**
-A. Premchand
-B. Anuradha Roy
-C. Rambhadracharya
-D. G. Sankara Kurup
-
-**List-II**
-1. First Jnanpith, 1965
-2. *Godan*, UP Hindi fiction
-3. Sahitya Akademi English 2022
-4. 58th Jnanpith, Sanskrit
-
-A. 2 3 4 1
-B. 2 3 1 4
-C. 3 2 4 1
-D. 2 4 3 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q24.** Which of the following pairs is/are correctly matched?
-
-1. Rukmini Devi Arundale — Bharatanatyam / Kalakshetra
-2. Kelucharan Mohapatra — Odissi
-3. Birju Maharaj — Bharatanatyam
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Birju = **Kathak**.
-
-</details>
-
-**Q25.** Assertion (A): Tagore did not receive the Bharat Ratna.
-Reason (R): Bharat Ratna was instituted only in 1954, after his death.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Nobel 1913. Died 1941.
-
-</details>
-
-**Q26.** How many of the following are Bharat Ratna recipients?
-
-1. Lata Mangeshkar
-2. Pandit Birju Maharaj
-3. Bhupen Hazarika
-4. Ustad Zakir Hussain (tabla)
-
-A. Only one
-B. Only two
-C. Only three
-D. All four
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Lata and Hazarika. Birju and tabla Zakir are not BR.
-
-</details>
-
-**Q27.** With reference to SNA and Sahitya youth prizes, which of the following statements is/are correct?
-
-1. Sahitya Yuva Puraskar is for young writers.
-2. Bismillah Khan Yuva Puraskar is for young performing artists.
-3. Both prizes are given by Sahitya Akademi.
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Bismillah Khan Yuva = **SNA**.
-
-</details>
-
-**Q28.** Which of the following pairs is/are NOT correctly matched?
-
-1. GI Registry — Chennai
-2. GI Act — 1999
-3. GI nodal ministry — Ministry of Textiles
-
-A. 1 only
-B. 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Commerce / DPIIT, not Textiles.
-
-</details>
-
-**Q29.** Consider the following:
-
-1. Pandit Jasraj — Bharat Ratna 2020
-2. Bhimsen Joshi — Bharat Ratna 2008
-3. Ravi Shankar — Bharat Ratna 1998
-
-How many of the above pairs are correctly matched?
-
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Ravi Shankar = **1999**. 1998 = Subbulakshmi.
-
-</details>
-
-**Q30.** With reference to UP cultural honours, which of the following statements is/are correct?
-
-1. Bismillah Khan’s Bharat Ratna is linked to Varanasi shehnai.
-2. Lalit Kala Akademi has a regional centre in Lucknow.
-3. Blue Pottery GI is a Lucknow craft.
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Blue Pottery = Jaipur.
-
-</details>
-
-**Q31.** Match List-I with List-II.
-
-**List-I**
-A. Triennale India
-B. Indian Literature (journal)
-C. Bismillah Khan Yuva Puraskar
-D. Darjeeling Tea
-
-**List-II**
-1. First GI, 2004
-2. Lalit Kala Akademi
-3. Sahitya Akademi
-4. Sangeet Natak Akademi
-
-A. 2 3 4 1
-B. 2 3 1 4
-C. 3 2 4 1
-D. 2 4 3 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q32.** Assertion (A): The Sahitya Akademi Yuva Puraskar 2025 cycle had no award in Dogri.
-Reason (R): Dogri is not among the 24 languages recognised by Sahitya Akademi.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Dogri **is** recognised. That year simply had **no award** in Dogri.
-
-</details>
-
----
 
 ## Common Traps — Don't Fall For These
 

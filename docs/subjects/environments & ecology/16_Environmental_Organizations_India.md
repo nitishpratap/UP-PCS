@@ -484,484 +484,594 @@ D. Central Pollution Control Board
 
 ## Practice Zone — UPPCS Format Drill
 
-> **30 questionsQ1.** MoEFCC was originally established in:
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-A. 1972
+**Q1.** With reference to MoEFCC, which of the following statements is/are correct?
 
-B. 1985
+1. It began as MoEF in 1985 and was renamed MoEFCC in 2014.
+2. It is India’s nodal ministry for environment, forests, wildlife, and climate change.
+3. It sits in Mumbai as its only headquarters lock.
 
-C. 1992
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-D. 2010
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: B.** Only 1 and 2.
 
-**Ans: B**
-
-</details>
-
-**Q2.** MoEFCC was renamed to include climate change in:
-
-A. 2005
-
-B. 2010
-
-C. 2014
-
-D. 2015
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
+**Logic:** HQ New Delhi — not Mumbai.
 
 </details>
 
-**Q3.** CPCB was established under:
+**Q2.** Which of the following pairs is/are correctly matched?
 
-A. EPA 1986
+1. CPCB — Water Act 1974; New Delhi; NAAQS
+2. SPCB — Consent to Establish / Consent to Operate
+3. CPCB — grants Category A Environmental Clearance
 
-B. Water Act 1974
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
 
-C. NGT Act 2010
+<details>
+<summary>Show answer</summary>
 
-D. WPA 1972
+**Ans: C.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q4.** CPCB headquarters is in:
-
-A. Kolkata
-
-B. Dehradun
-
-C. New Delhi
-
-D. Lucknow
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
+**Logic:** EC is MoEFCC/SEIAA — not CPCB.
 
 </details>
 
-**Q5.** Environmental Clearance for Category A projects is granted by:
+**Q3.** Match List-I with List-II:
 
-A. CPCB
+| List-I | List-II |
+|--------|--------|
+| A. WII | 1. Nagpur |
+| B. FSI | 2. Dehradun |
+| C. NEERI | 3. Dehradun |
 
-B. MoEFCC
+Code:
 
-C. NGT
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-3, B-2, C-1
+D. A-2, B-3, C-1
 
-D. BSI
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: D.** A-2, B-3, C-1.
 
-**Ans: B**
-
-</details>
-
-**Q6.** Consent to Operate is issued by:
-
-A. SPCB
-
-B. MoEFCC
-
-C. FSI
-
-D. WII
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** WII & FSI Dehradun; NEERI Nagpur.
 
 </details>
 
-**Q7.** UP Pollution Control Board HQ is in:
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Kanpur
+Assertion (A): NGT was created by the NGT Act, 2010 (operational 2011).
 
-B. Lucknow
+Reason (R): The NGT Chairperson must be a retired Supreme Court judge or a High Court Chief Justice.
 
-C. Agra
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. Noida
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: A.** Both true; chair qualification does not explain why the Act was created in 2010.
 
-**Ans: B**
-
-</details>
-
-**Q8.** NGT was established under Act of:
-
-A. 1986
-
-B. 2005
-
-C. 2010
-
-D. 2015
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
+**A/R logic:** Related NGT facts.
 
 </details>
 
-**Q9.** NGT primarily:
+**Q5.** Arrange HQ map teaching:
 
-A. Grants EC
+1. Delhi — MoEFCC, CPCB, NGT
+2. Dehradun — WII, FSI
+3. Kolkata — BSI, ZSI
+4. Lucknow — UPPCB
 
-B. Hears environmental appeals
+A. 1, 2, 3 and 4
+B. Only 2 and 3
+C. 1, 2 and 3 only
+D. Only 1 and 2
 
-C. Publishes ISFR
+<details>
+<summary>Show answer</summary>
 
-D. Surveys plants
+**Ans: A.** All four.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q10.** WII is located in:
-
-A. Kolkata
-
-B. Dehradun
-
-C. Delhi
-
-D. Mumbai
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Standard HQ locks.
 
 </details>
 
-**Q11.** WII was established in:
+**Q6.** With reference to NGT benches, which of the following statements is/are correct?
 
-A. 1890
+1. HQ New Delhi.
+2. Regional benches include Bhopal, Pune, Kolkata, and Chennai.
+3. NGT grants all Category A ECs instead of MoEFCC.
 
-B. 1916
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. 1982
+<details>
+<summary>Show answer</summary>
 
-D. 2010
+**Ans: B.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q12.** BSI surveys:
-
-A. Animals
-
-B. Plants
-
-C. Forest cover only
-
-D. Groundwater
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** NGT is appellate — not EC granter.
 
 </details>
 
-**Q13.** ZSI headquarters is in:
+**Q7.** Which of the following pairs is/are NOT correctly matched?
 
-A. Delhi
+1. BSI — 1890 Kolkata plants
+2. ZSI — 1916 Kolkata animals
+3. FSI — annual CPCB forest cover report
 
-B. Kolkata
+A. 1 and 2 only
+B. 2 and 3 only
+C. 3 only
+D. 1, 2 and 3
 
-C. Pune
+<details>
+<summary>Show answer</summary>
 
-D. Chennai
+**Ans: C.** Only pair 3 is not correctly matched.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q14.** ZSI was established in:
-
-A. 1890
-
-B. 1916
-
-C. 1981
-
-D. 1982
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** ISFR is biennial FSI — not CPCB.
 
 </details>
 
-**Q15.** FSI publishes:
+**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. ISFR
+Assertion (A): UPPCB headquarters is Lucknow.
 
-B. Flora of India
+Reason (R): UPPCB enforces norms on Kanpur tanneries and Noida–Ghaziabad industry teaching.
 
-C. Fauna of India
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. Groundwater report
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: D.** Both true and R illustrates UPPCB’s state enforcement role.
 
-**Ans: A**
-
-</details>
-
-**Q16.** ISFR is published:
-
-A. Every year
-
-B. Every two years
-
-C. Every five years
-
-D. Only once
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**A/R logic:** HQ + UP enforcement examples.
 
 </details>
 
-**Q17.** Annual Groundwater Quality Report is by:
+**Q9.** With reference to WII, which of the following statements is/are correct?
 
-A. CPCB
+1. Established 1982, Dehradun.
+2. Does wildlife research and trains forest officers.
+3. Publishes ISFR every year from Delhi.
 
-B. CGWB
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
-C. FSI
+<details>
+<summary>Show answer</summary>
 
-D. ZSI
+**Ans: D.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q18.** PARIVESH portal relates to:
-
-A. EC applications
-
-B. Tiger census
-
-C. Plant taxonomy
-
-D. NGT appeals
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** ISFR is FSI — not WII.
 
 </details>
 
-**Q19.** NAAQS is set by:
+**Q10.** Match List-I with List-II:
 
-A. CPCB
+| List-I | List-II |
+|--------|--------|
+| A. PARIVESH | 1. CSIR lab Nagpur |
+| B. NEERI | 2. MoEFCC online EC portal |
+| C. NBA | 3. Chennai (BDA) |
 
-B. NGT
+Code:
 
-C. BSI
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
 
-D. RBI
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: A.** A-2, B-1, C-3.
 
-**Ans: A**
-
-</details>
-
-**Q20.** Red Data Book of Indian Plants is by:
-
-A. ZSI
-
-B. BSI
-
-C. WII
-
-D. CPCB
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** PARIVESH portal; NEERI Nagpur; NBA Chennai.
 
 </details>
 
-**Q21.** Which pair is correctly matched?
+**Q11.** Arrange MoEF → MoEFCC rename:
 
-A. BSI — animals
+A. 2014 → 1985
+B. 1985 → 2014
+C. 1972 → 1986
+D. 2006 → 2010
 
-B. ZSI — plants
+<details>
+<summary>Show answer</summary>
 
-C. FSI — ISFR
+**Ans: B.** MoEF 1985 → MoEFCC 2014.
 
-D. CPCB — EC grant
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q22.** Rodgers & Panwar (1988) relates to:
-
-A. 10 biogeographic zones
-
-B. NAAQS
-
-C. ISFR
-
-D. Agenda 21
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Rename lock.
 
 </details>
 
-**Q23.** Both BSI and ZSI have HQ in:
+**Q12.** With reference to CPCB limits, which of the following statements is/are correct?
 
-A. Delhi
+1. Does not grant EC.
+2. Does not publish ISFR.
+3. Does not prepare Annual Groundwater Quality Report (CGWB does).
 
-B. Kolkata
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 3 only
 
-C. Dehradun
+<details>
+<summary>Show answer</summary>
 
-D. Lucknow
+**Ans: C.** All three.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q24.** Both WII and FSI are in:
-
-A. Kolkata
-
-B. Dehradun
-
-C. Delhi
-
-D. Hyderabad
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** CPCB negative locks.
 
 </details>
 
-**Q25.** SPCB is established under:
+**Q13.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Water Act 1974
+Assertion (A): SPCBs do not grant Category A Environmental Clearance.
 
-B. NGT Act 2010
+Reason (R): Category A is appraised centrally by MoEFCC through EAC.
 
-C. WPA 1972 only
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. IPC
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: D.** Both true and R explains why SPCB is not the A-track granter.
 
-**Ans: A**
-
-</details>
-
-**Q26.** Which body is NOT in Dehradun?
-
-A. WII
-
-B. FSI
-
-C. BSI
-
-D. Both WII and FSI are in Dehradun
-
-<details><summary>Show answer</summary>
-
-**Ans: C** — BSI is in **Kolkata**.
+**A/R logic:** Central A track.
 
 </details>
 
-**Q27.** NGT disposal target is about:
+**Q14.** Which one of the following correctly states NGT’s compensation idea?
 
-A. 6 months
+A. NGT replaces Supreme Court permanently
+B. NGT sets GST rates
+C. NGT issues passports
+D. Polluter Pays awards possible
 
-B. 6 years
+<details>
+<summary>Show answer</summary>
 
-C. 60 days only
+**Ans: D.** Polluter Pays compensation.
 
-D. No target
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q28.** Category B EC is granted by:
-
-A. SEIAA
-
-B. CPCB
-
-C. BSI
-
-D. CGWB
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Environmental appeals body.
 
 </details>
 
-**Q29.** MoEFCC does NOT:
+**Q15.** With reference to BSI/ZSI, which of the following statements is/are correct?
 
-A. Implement WPA
+1. Both sit in Kolkata.
+2. BSI surveys plants; ZSI surveys animals.
+3. Both are identical to CPCB.
 
-B. Grant Category A EC
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. Set NAAQS directly
+<details>
+<summary>Show answer</summary>
 
-D. Handle climate policy
+**Ans: A.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: C**
+**Logic:** Survey bodies ≠ CPCB.
 
 </details>
 
-**Q30.** Assertion (A): CPCB grants Environmental Clearance.
-Reason (R): CPCB sets pollution standards.
+**Q16.** How many of the following Delhi HQ locks are correct?
 
-A. Both true; R explains A
+MoEFCC, CPCB, NGT
 
-B. A true, R false
+A. Only one
+B. All three
+C. Only two
+D. None
 
-C. A false, R true
+<details>
+<summary>Show answer</summary>
 
-D. Both false
+**Ans: B.** All three.
 
-<details><summary>Show answer</summary>
+**Logic:** Delhi trio.
 
-**Ans: C** — R true; A false. CPCB sets standards but **does not grant EC**.
+</details>
+
+**Q17.** Which of the following pairs is/are correctly matched?
+
+1. FSI 1981 — Dehradun — ISFR biennial
+2. FRI — Dehradun forestry research
+3. NEERI — Kolkata plant Red Data Book only
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** NEERI is Nagpur CSIR env lab.
+
+</details>
+
+**Q18.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): NGT aims for disposal within six months under the Act’s design.
+
+Reason (R): NGT regional benches include Guwahati and Shimla as the only two benches.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true, R false.
+
+**A/R logic:** Benches: Bhopal, Pune, Kolkata, Chennai (+ Delhi HQ).
+
+</details>
+
+**Q19.** With reference to MoEFCC functions, which of the following statements is/are correct?
+
+1. Grants Category A EC.
+2. Runs PARIVESH.
+3. Administers EPA, WPA, FCA neighbourhood statutes.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three.
+
+**Logic:** Nodal ministry package.
+
+</details>
+
+**Q20.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. UPPCB | 1. 1974 creation path |
+| B. CPCB | 2. Lucknow |
+| C. NGT Act | 3. 2010 |
+
+Code:
+
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** A-2, B-1, C-3.
+
+**Logic:** UPPCB Lucknow; CPCB Water Act 1974; NGT 2010.
+
+</details>
+
+**Q21.** Arrange BSI / ZSI years:
+
+A. ZSI 1890 → BSI 1916
+B. BSI 1890 → ZSI 1916
+C. Both 2010
+D. Both 1974
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** BSI 1890 → ZSI 1916.
+
+**Logic:** Plant survey older than ZSI.
+
+</details>
+
+**Q22.** Which of the following statements about CTE/CTO is/are correct?
+
+1. Issued by SPCBs under Water/Air Acts.
+2. Not the same as Environmental Clearance under EPA/EIA.
+3. CTE/CTO is granted by UNEP Nairobi only.
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Consent ≠ EC; not UNEP.
+
+</details>
+
+**Q23.** With reference to WII biogeography link, which of the following statements is/are correct?
+
+1. Helped frame India’s ten biogeographic zones teaching.
+2. Supports tiger-census methodology teaching.
+3. WII is identical to NBA Chennai.
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** WII ≠ NBA.
+
+</details>
+
+**Q24.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): NEERI began as CPHERI and is a CSIR laboratory.
+
+Reason (R): NEERI is under the Ministry of Science and Technology world — not MoEFCC.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; ministry home does not explain the CPHERI origin by itself.
+
+**A/R logic:** Origin vs administrative home.
+
+</details>
+
+**Q25.** How many of the following are Dehradun locks?
+
+WII, FSI, FRI
+
+A. All three
+B. Only two
+C. Only one
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** All three.
+
+**Logic:** Dehradun cluster.
+
+</details>
+
+**Q26.** Which of the following pairs is/are correctly matched?
+
+1. NGT — environmental appeals including EC
+2. CPCB — NAAQS
+3. FSI — People’s Biodiversity Register local body
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** PBR is BMC/BDA ladder — not FSI.
+
+</details>
+
+**Q27.** With reference to Air Act and CPCB, which of the following statements is/are correct?
+
+1. Air Act 1981 strengthened the air pollution mandate alongside Water Act origins of CPCB.
+2. CPCB coordinates SPCBs.
+3. CPCB sits in Dehradun.
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** CPCB Delhi.
+
+</details>
+
+**Q28.** Arrange creation years: CPCB path → NGT Act:
+
+A. 2010 → 1974
+B. Both 2006
+C. Both 1985
+D. 1974 → 2010
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** CPCB Water Act 1974 → NGT 2010.
+
+**Logic:** Institution chronology.
+
+</details>
+
+**Q29.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): BSI publishes plant Red Data Book teaching; ZSI animal Red Data Book teaching.
+
+Reason (R): Both organisations are headquartered in Chennai.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true, R false.
+
+**A/R logic:** Both Kolkata — not Chennai.
+
+</details>
+
+**Q30.** Which one of the following correctly separates EC and consent?
+
+A. EC = MoEFCC/SEIAA EPA-EIA; consent = SPCB Water/Air
+B. Both are identical UNEP products
+C. EC is only issued by UPPCB for Category A
+D. Consent replaces NGT appeals
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** EC vs CTE/CTO tracks differ.
+
+**Logic:** Classic separation.
 
 </details>
 

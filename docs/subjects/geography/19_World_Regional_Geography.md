@@ -1695,1391 +1695,664 @@ D. Bahasa — Thailand
 
 ---
 
-## Practice Zone — UPPCS Format Questions
+## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden** — click **Show answer** under each question to reveal.
-> **Format mix:** 65 questions — Match List | multi-statement | Assertion–Reason | NOT correctly matched | direct recall (PYQ + standard gaps)
+> **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D
 
-**Q1.** Nobi and Kanto plains are located in:
+**Q1.** With reference to West Asia, which of the following statements is/are correct?
 
-**Options:**
+1. Iraq’s Sunni Triangle is Baghdad, Tikrit and Ramadi.
+2. Basra is the classic Shia-south trap option for that triangle.
+3. West Asia mountains west to east run Pontic → Zagros → Hindu Kush → Karakoram.
 
-A. North Korea
+Select the correct answer from the code given below:
 
-B. South Korea
-
-C. Japan
-
-D. China
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q2.** Which city is **NOT** part of the Sunni Triangle in Iraq?
-
-**Options:**
-
-A. Tikrit
-
-B. Ramadi
-
-C. Basra
-
-D. Baghdad
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: D.** All three are correct.
+
+**Logic:** Do not insert Basra into the Sunni Triangle.
 
 </details>
 
----
-
-**Q3.** Arrange from west to east:
-
-1. Karakoram 2. Pontic 3. Hindu Kush 4. Zagros
-
-**Options:**
-
-A. 2, 4, 3, 1
-
-B. 2, 3, 4, 1
-
-C. 4, 2, 3, 1
-
-D. 4, 1, 2, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q4.** Match List-I with List-II:
+**Q2.** Match List-I with List-II and select the correct answer using the code given below the lists:
 
 | List-I (Country) | List-II (Capital) |
-|------------------|-------------------|
-| A. Uzbekistan | 1. Tashkent |
-| B. Tajikistan | 2. Dushanbe |
-| C. Kyrgyzstan | 3. Bishkek |
-| D. Turkmenistan | 4. Ashgabat |
+|-------------------|-------------------|
+| A. Uzbekistan | 1. Ashgabat |
+| B. Turkmenistan | 2. Tashkent |
+| C. Kyrgyzstan | 3. Dushanbe |
+| D. Tajikistan | 4. Bishkek |
 
-**Options:**
+Code:
 
-A. 1 2 3 4
-
-B. 1 2 4 3
-
-C. 1 3 4 2
-
-D. 1 4 2 3
+A. A-1, B-2, C-3, D-4
+B. A-2, B-1, C-4, D-3
+C. A-2, B-4, C-1, D-3
+D. A-4, B-1, C-2, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Tashkent, Ashgabat, Bishkek, Dushanbe.
+
+**Logic:** Swapped ‘stans’ capitals are the usual trap.
 
 </details>
 
----
+**Q3.** Which of the following pairs is/are **NOT** correctly matched?
 
-**Q5.** Kara Kum desert is in:
+1. Nobi and Kanto plains — Korea
+2. Kara Kum desert — Turkmenistan
+3. Cape Verde capital — Praia
 
-**Options:**
+Select the correct answer from the code given below:
 
-A. Turkmenistan
-
-B. Tajikistan
-
-C. Kyrgyzstan
-
-D. Kazakhstan
+A. 2 only
+B. 1 only
+C. 1 and 3 only
+D. 2 and 3 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Only pair 1 is not correctly matched.
+
+**Logic:** Nobi/Kanto are in Japan, not Korea. Bamako is Mali — do not swap with Praia.
 
 </details>
 
----
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Q6.** With reference to Borneo, which is/are true?
+Assertion (A): Ethiopia is landlocked after Eritrea’s secession.
 
-1. Divided among three countries.
-2. Formed by volcanic deposition.
+Reason (R): Eritrea holds Red Sea coast in the Horn of Africa set.
 
-**Options:**
-
-A. Neither
-
-B. Both
-
-C. Only 2
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q7.** Coconut and sugarcane agriculture in the Philippines is credited to:
-
-**Options:**
-
-A. French
-
-B. Britishers
-
-C. Hollanders
-
-D. Spanish and Americans
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q8.** Assertion (A): The interior of Australia is desert and semi-desert.
-
-Reason (R): Northern Australia is situated in the temperate zone.
-
-**Options:**
+Select the correct answer from the code given below:
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
 B. (A) is false, but (R) is true
-
 C. (A) is true, but (R) is false
-
 D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: D.** Both true and R explains A.
+
+**A/R logic:** Loss of the Red Sea coast through Eritrea’s independence is why Ethiopia is landlocked.
 
 </details>
 
----
+**Q5.** Arrange Indonesia’s islands from west to east in the usual teaching ladder:
 
-**Q9.** Darling Range is along which Australian coast?
+1. Bali
+2. Sumatra
+3. Lombok
+4. Java
 
-**Options:**
+Select the correct answer from the code given below:
 
-A. North-Eastern
-
-B. Southern
-
-C. Eastern
-
-D. South-Western
+A. 4-2-1-3
+B. 2-4-1-3
+C. 2-1-4-3
+D. 2-4-3-1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: B.** Sumatra → Java → Bali → Lombok.
+
+**Logic:** Wallace Line teaching sits between Bali and Lombok — do not put Lombok before Bali.
 
 </details>
 
----
+**Q6.** With reference to South America, which of the following statements is/are correct?
 
-**Q10.** Western Europe:
+1. Bolivia and Paraguay are the landlocked pair.
+2. Uruguay, Peru and Suriname have coasts.
+3. Igarka is a Chinese river port on the Yangtze.
 
-1. Rainfall in all months.
-2. Lies in the belt of Westerlies.
+Select the correct answer from the code given below:
 
-**Options:**
-
-A. Both 1 and 2
-
-B. Neither
-
-C. Only 1
-
-D. Only 2
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** Igarka is in Russia on the Yenisei, not China.
 
 </details>
 
----
+**Q7.** Consider the following statements about Australia:
 
-**Q11.** India’s operational Antarctic stations are:
+1. The interior is desert.
+2. The north is tropical, not temperate.
+3. The Darling Range lies in south-west Australia.
 
-**Options:**
+Which of the statements given above is/are correct?
 
-A. Bharati and Arya
-
-B. Bharati and Dakshin Gangotri
-
-C. Bharati and Maitri
-
-D. Dakshin Gangotri and Maitri
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: D.** All three are correct.
+
+**Logic:** Northern Australia temperate is a frequent false Reason.
 
 </details>
 
----
+**Q8.** Match List-I with List-II and select the correct answer using the code given below the lists:
 
-**Q12.** Which island is **NOT** in the Caribbean Sea?
+| List-I (Country) | List-II (Capital ≠ tourist mega-city trap) |
+|-------------------|---------------------------------------------|
+| A. Turkey | 1. Canberra |
+| B. Australia | 2. Ankara |
+| C. Brazil | 3. Abu Dhabi |
+| D. UAE | 4. Brasília |
 
-**Options:**
+Code:
 
-A. Grenada
-
-B. Montserrat
-
-C. Madeira
-
-D. Anguilla
+A. A-1, B-2, C-3, D-4
+B. A-2, B-1, C-4, D-3
+C. A-2, B-4, C-1, D-3
+D. A-4, B-1, C-2, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: B.** Ankara, Canberra, Brasília, Abu Dhabi.
+
+**Logic:** Istanbul / Sydney / Rio / Dubai are the famous-city traps.
 
 </details>
 
----
+**Q9.** Which of the following pairs is/are correctly matched?
 
-**Q13.** Which pair is **NOT** correctly matched? (Country — Capital)
+1. Seoul — South Korea; Pyongyang — North Korea
+2. ~38th parallel — Koreas
+3. ~49th parallel — Canada–USA
 
-**Options:**
+Select the correct answer from the code given below:
 
-A. Morocco – Rabat
-
-B. Tunisia – Tunis
-
-C. Algeria – Algiers
-
-D. Cape Verde – Bamako
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Praia; Bamako = Mali.
+**Ans: D.** All three are correct.
+
+**Logic:** Do not swap 38th and 49th parallels.
 
 </details>
 
----
+**Q10.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Q14.** With reference to Brazil, which is/are correct?
+Assertion (A): New Zealand is an Australian state.
 
-1. Equatorial rainforests are called Selva.
-2. Dark fertile soil is Terra Roxa.
+Reason (R): Wellington is New Zealand’s capital and Cook Strait separates North and South Islands.
 
-**Options:**
+Select the correct answer from the code given below:
 
-A. Only 2
-
-B. Neither
-
-C. Both 1 and 2
-
-D. Only 1
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: B.** (A) is false, but (R) is true.
+
+**A/R logic:** NZ is a separate country; capital and Cook Strait facts remain true.
 
 </details>
 
----
+**Q11.** With reference to double-landlocked states, which of the following statements is/are correct?
 
-**Q15.** Suez Canal reduced India–Europe maritime distance by about:
+1. Uzbekistan and Liechtenstein are the usual double-landlocked pair.
+2. Bolivia is double-landlocked because it borders only landlocked states.
+3. Kazakhstan is the largest landlocked country by area.
 
-**Options:**
+Select the correct answer from the code given below:
 
-A. 5,000 km
-
-B. 7,000 km
-
-C. 8,000 km
-
-D. 10,000 km
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: C.** Only 1 and 3 are correct.
+
+**Logic:** Bolivia is landlocked but not double-landlocked in the usual set.
 
 </details>
 
----
+**Q12.** Consider the following statements about Palestine map teaching:
 
-**Q16.** Capital of Kyrgyzstan is:
+1. Gaza lies toward the Egypt side; West Bank toward the Jordan side.
+2. The Jordan River / Dead Sea belt is a map anchor.
+3. Neighbours in the wider set include Israel, Jordan, Egypt, Lebanon and Syria.
 
-**Options:**
+Which of the statements given above is/are correct?
 
-A. Tashkent
-
-B. Dushanbe
-
-C. Bishkek
-
-D. Ashgabat
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: D.** All three are correct.
+
+**Logic:** Map-first teaching — do not erase Gaza/West Bank as map units.
 
 </details>
 
----
+**Q13.** Which of the following is/are **NOT** correctly matched?
 
-**Q17.** Gaza Strip borders the Mediterranean and:
+1. Madeira — Caribbean island of Spain
+2. Maghreb capitals — Rabat, Algiers, Tunis
+3. Suez Canal shortening of India–Europe route — about 7000 km
 
-**Options:**
+Select the correct answer from the code given below:
 
-A. Jordan only
-
-B. Egypt and Israel
-
-C. Syria and Lebanon
-
-D. Iraq
+A. 2 only
+B. 1 only
+C. 1 and 3 only
+D. 2 and 3 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B.** Only pair 1 is not correctly matched.
+
+**Logic:** Madeira is Atlantic Portugal, not Caribbean.
 
 </details>
 
----
+**Q14.** With reference to languages in this chapter’s desk, which of the following statements is/are correct?
 
-**Q18.** Seoul is the capital of:
+1. Esperanto is an artificial world auxiliary language.
+2. Tamil is in Singapore’s official language set.
+3. Bahasa is associated with Indonesia; Spanish is official in Chile/Colombia/Cuba — not Congo.
 
-**Options:**
+Select the correct answer from the code given below:
 
-A. North Korea
-
-B. South Korea
-
-C. Japan
-
-D. Mongolia
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: D.** All three are correct.
+
+**Logic:** Do not dump Bahasa onto Thailand or Spanish onto Congo.
 
 </details>
 
----
+**Q15.** Arrange the following Central Asia capitals north-ish teaching pairs by country identity (UZ → TM → KG → TJ):
 
-**Q19.** How many of the following are correctly matched?
+1. Bishkek
+2. Tashkent
+3. Dushanbe
+4. Ashgabat
 
-1. Pontic – North Turkey
-2. Zagros – Western Iran
-3. Karakoram – westernmost of the 2024 four
+Select the correct answer from the code given below:
 
-**Options:**
-
-A. Only one
-
-B. Only two
-
-C. All three
-
-D. None
+A. 2-4-1-3
+B. 2-1-4-3
+C. 4-2-1-3
+D. 2-4-3-1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Karakoram is the **easternmost** of that four.
+**Ans: A.** Tashkent → Ashgabat → Bishkek → Dushanbe.
+
+**Logic:** Keep the ‘stan’ capital pairs unswapped.
 
 </details>
 
----
+**Q16.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Q20.** Which statement(s) about Australia is/are correct?
+Assertion (A): Western Europe receives rain in all months under westerlies.
 
-1. Tropic of Capricorn passes through it.
-2. Great Dividing Range is on the south-western coast.
+Reason (R): Mediterranean climates are defined by winter-only rain on west coasts.
 
-**Options:**
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; R does not explain A.
+
+**A/R logic:** W Europe all-month rain and Med winter rain are contrasting regimes — R does not explain A.
+
+</details>
+
+**Q17.** With reference to Antarctica and India’s stations, which of the following statements is/are correct?
+
+1. Maitri and Bharati are India’s operational Antarctic stations.
+2. Dakshin Gangotri remains the operational pair answer.
+3. Borneo is shared by Indonesia, Malaysia and Brunei.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 3 are correct.
+
+**Logic:** Dakshin Gangotri is not the operational answer pair.
+
+</details>
+
+**Q18.** Consider the following pairs:
+
+| Item | Association |
+|------|-------------|
+| 1. Mekong delta | Southern Vietnam |
+| 2. Philippines cane/coconut history | Spanish and Americans |
+| 3. Brazil Selva / Terra Roxa | Rainforest / coffee soil |
+
+Which of the pairs given above are correctly matched?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three pairs are correct.
+
+**Logic:** Cambodia delta and Dutch-only Philippines history are traps.
+
+</details>
+
+**Q19.** Which one of the following correctly states a South Asia map fact from this chapter?
+
+A. Nepal and Bhutan are landlocked; Maldives and Sri Lanka are islands.
+B. Kabul is the capital of Pakistan.
+C. Istanbul is Turkey’s capital.
+D. Caucasus trio is Georgia–Armenia–Turkmenistan.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Nepal/Bhutan landlocked; Maldives/Sri Lanka islands.
+
+**Logic:** Kabul–Afghanistan; Ankara–Turkey; Caucasus = Georgia–Armenia–Azerbaijan.
+
+</details>
+
+**Q20.** With reference to the Horn of Africa, which of the following statements is/are correct?
+
+1. The Horn set is Ethiopia–Somalia–Eritrea–Djibouti.
+2. Sudan is always included as a fifth Horn state in the usual MCQ set.
+3. Eritrea’s Red Sea coast is the key contrast with landlocked Ethiopia.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 3 are correct.
+
+**Logic:** Sudan is the common over-inclusion trap for the Horn.
+
+</details>
+
+**Q21.** Which of the following pairs is/are **NOT** correctly matched?
+
+1. Casablanca — capital of Morocco
+2. Rabat — capital of Morocco
+3. Bamako — capital of Mali
+
+Select the correct answer from the code given below:
 
 A. 1 only
-
 B. 2 only
-
-C. Both
-
-D. Neither
+C. 1 and 3 only
+D. 2 and 3 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — GDR is **eastern**. SW = Darling.
+**Ans: A.** Only pair 1 is not correctly matched.
+
+**Logic:** Rabat is the capital; Casablanca is the famous-city trap.
 
 </details>
 
----
-
-**Q21.** Assertion (A): Western Europe receives rainfall throughout the year.
-
-Reason (R): It lies in the belt of westerlies.
-
-**Options:**
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q22.** Which is **NOT** a Greater Antilles island?
-
-**Options:**
-
-A. Cuba
-
-B. Jamaica
-
-C. Hispaniola
-
-D. Madeira
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q23.** Match List-I with List-II:
+**Q22.** Match List-I with List-II and select the correct answer using the code given below the lists:
 
 | List-I | List-II |
-|--------|---------|
-| A. Kanto | 1. Turkmenistan |
-| B. Kara Kum | 2. Japan |
-| C. Darling Range | 3. Iraq (south) |
-| D. Basra | 4. SW Australia |
+|--------|--------|
+| A. UK | 1. Eng + Scot + Wales |
+| B. Great Britain | 2. GB + Northern Ireland |
+| C. Pontic Mountains | 3. Northern Turkey |
+| D. Zagros | 4. Western Iran |
 
-**Options:**
+Code:
 
-A. 2 1 4 3
-
-B. 2 4 1 3
-
-C. 1 2 4 3
-
-D. 2 1 3 4
+A. A-2, B-1, C-3, D-4
+B. A-1, B-2, C-4, D-3
+C. A-2, B-3, C-1, D-4
+D. A-4, B-1, C-3, D-2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: A.** UK = GB + N Ireland; GB = Eng+Scot+Wales; Pontic N Turkey; Zagros W Iran.
+
+**Logic:** Do not put Ireland (Republic) inside the UK definition.
 
 </details>
 
----
+**Q23.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Q24.** Dead Sea is shared by:
+Assertion (A): The Mekong delta lies in southern Vietnam.
 
-**Options:**
+Reason (R): The Mekong rises in Tibet and flows broadly south / south-east.
 
-A. Egypt and Libya
-
-B. Israel and Jordan
-
-C. Syria and Turkey
-
-D. Iran and Iraq
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q25.** Capital of Morocco is:
-
-**Options:**
-
-A. Casablanca
-
-B. Rabat
-
-C. Tunis
-
-D. Algiers
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q26.** Which country does **not** share Borneo?
-
-**Options:**
-
-A. Indonesia
-
-B. Malaysia
-
-C. Brunei
-
-D. Philippines
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q27.** Himadri is India’s station in the:
-
-**Options:**
-
-A. Antarctic Peninsula
-
-B. Arctic (Svalbard)
-
-C. Andes
-
-D. Greenland ice sheet (Indian)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Do not mix with Maitri/Bharati.
-
-</details>
-
----
-
-**Q28.** North Korea’s capital is:
-
-**Options:**
-
-A. Seoul
-
-B. Busan
-
-C. Pyongyang
-
-D. Incheon
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q29.** Which pair is **NOT** correctly matched?
-
-**Options:**
-
-A. Tashkent – Uzbekistan
-
-B. Dushanbe – Tajikistan
-
-C. Bishkek – Kazakhstan
-
-D. Ashgabat – Turkmenistan
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Bishkek = Kyrgyzstan. Kazakhstan = Astana.
-
-</details>
-
----
-
-**Q30.** The West Bank lies mainly to the west of the:
-
-**Options:**
-
-A. Nile
-
-B. Jordan River
-
-C. Tigris
-
-D. Euphrates
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q31.** Consider the following statements:
-
-1. Istanbul is the capital of Turkey.
-2. Ankara is in the interior of Anatolia.
-
-**Options:**
-
-A. 1 only
-
-B. 2 only
-
-C. Both
-
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Capital = **Ankara**.
-
-</details>
-
----
-
-**Q32.** Brazil’s capital is:
-
-**Options:**
-
-A. Rio de Janeiro
-
-B. São Paulo
-
-C. Brasília
-
-D. Buenos Aires
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q33.** Arrange Africa’s north coast capitals west to east among these three: Algiers, Tunis, Rabat.
-
-**Options:**
-
-A. Rabat, Algiers, Tunis
-
-B. Tunis, Algiers, Rabat
-
-C. Algiers, Rabat, Tunis
-
-D. Rabat, Tunis, Algiers
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Morocco → Algeria → Tunisia.
-
-</details>
-
----
-
-**Q34.** Which of the following is/are correct about Greenland?
-
-1. It is the world’s largest island.
-2. It is a US state.
-
-**Options:**
-
-A. 1 only
-
-B. 2 only
-
-C. Both
-
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Denmark.
-
-</details>
-
----
-
-**Q35.** The 38th parallel is associated with:
-
-**Options:**
-
-A. Palestine–Egypt
-
-B. Korean Peninsula
-
-C. Borneo
-
-D. Tasmania–mainland
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q36.** Which mountain is the westernmost among Pontic, Zagros, Hindu Kush, Karakoram?
-
-**Options:**
-
-A. Karakoram
-
-B. Hindu Kush
-
-C. Zagros
-
-D. Pontic
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q37.** Assertion (A): Madeira is not a Caribbean island.
-
-Reason (R): It lies in the north-east Atlantic near the African–Portuguese sphere.
-
-**Options:**
+Select the correct answer from the code given below:
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
 B. (A) is false, but (R) is true
-
 C. (A) is true, but (R) is false
-
 D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: D.** Both true and R helps explain A.
+
+**A/R logic:** SE course from Tibet toward Vietnam underpins the southern Vietnam delta location.
 
 </details>
 
----
+**Q24.** With reference to continent size, which of the following statements is/are correct?
 
-**Q38.** Canberra is the capital of:
+1. Asia is the largest continent.
+2. Australia / Oceania is the smallest inhabited continent unit in the teaching ladder.
+3. Europe is the largest continent by area.
 
-**Options:**
-
-A. New Zealand
-
-B. Australia
-
-C. Papua New Guinea
-
-D. Fiji
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q39.** Which is **NOT** a land neighbour of Israel?
-
-**Options:**
-
-A. Egypt
-
-B. Jordan
-
-C. Lebanon
-
-D. Iraq
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q40.** Dakshin Gangotri today is:
-
-**Options:**
-
-A. India’s only Antarctic station
-
-B. Still a permanent operational station with Maitri
-
-C. Not the operational pair (Maitri + Bharati are)
-
-D. In the Arctic
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q41.** Correct west→east order of Indonesian islands:
-
-**Options:**
-
-A. Java, Sumatra, Lombok, Bali
-
-B. Sumatra, Java, Bali, Lombok
-
-C. Sumatra, Java, Lombok, Bali
-
-D. Bali, Sumatra, Java, Lombok
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q42.** Which one is a landlocked country?
-
-**Options:**
-
-A. Uruguay
-
-B. Suriname
-
-C. Peru
-
-D. Bolivia
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q43.** Which port–country pair is **NOT** correctly matched?
-
-**Options:**
-
-A. Rotterdam — Netherlands
-
-B. Igarka — China
-
-C. Montevideo — Uruguay
-
-D. Jakarta — Indonesia
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Igarka = Russia.
-
-</details>
-
----
-
-**Q44.** Mekong:
-
-1. Rises in the Tibetan Plateau.
-2. Delta is in southern Cambodia.
-
-**Options:**
-
-A. 1 only
-
-B. 2 only
-
-C. Both
-
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Delta = southern **Vietnam**.
-
-</details>
-
----
-
-**Q45.** Capital of New Zealand is:
-
-**Options:**
-
-A. Auckland
-
-B. Wellington
-
-C. Canberra
-
-D. Sydney
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q46.** Which African country is landlocked?
-
-**Options:**
-
-A. Kenya
-
-B. Tanzania
-
-C. Ethiopia
-
-D. Namibia
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Eritrea took the coast. Namibia has Atlantic.
-
-</details>
-
----
-
-**Q47.** How many of the following are landlocked?
-
-1. Nepal 2. Laos 3. Malaysia
-
-**Options:**
-
-A. Only one
-
-B. Only two
-
-C. All three
-
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Malaysia has coast + Borneo.
-
-</details>
-
----
-
-**Q48.** Which country does the Equator **not** cross?
-
-**Options:**
-
-A. Ecuador
-
-B. Indonesia
-
-C. Kenya
-
-D. India
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q49.** Capital of Brazil is:
-
-**Options:**
-
-A. Rio de Janeiro
-
-B. São Paulo
-
-C. Brasília
-
-D. Montevideo
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q50.** Assertion (A): Paraguay is landlocked.
-
-Reason (R): Bolivia is the only landlocked country in South America.
-
-**Options:**
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Paraguay **is** landlocked. Bolivia is **not** the only one.
-
-</details>
-
----
-
-
-**Q51.** Correct descending order of continents by area is:
-
-A. Africa > Asia > Europe > North America
-
-B. Asia > Africa > North America > South America > Antarctica > Europe > Australia
-
-C. Asia > Europe > Africa > Australia
-
-D. North America > Asia > Africa > Europe
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q52.** Which of the following is a double-landlocked country?
-
-A. Bolivia
-
-B. Uzbekistan
-
-C. Paraguay
-
-D. Mongolia
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Surrounded by other landlocked states. Liechtenstein is the European twin.
-</details>
-
----
-
-**Q53.** The 49th parallel is classically associated with:
-
-A. North–South Korea
-
-B. Much of the Canada–USA boundary
-
-C. India–Pakistan Radcliffe Line
-
-D. Chile–Argentina Andes only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Korea uses ~**38th** parallel.
-</details>
-
----
-
-**Q54.** Which pair is correctly matched?
-
-A. Istanbul — capital of Turkey
-
-B. Sydney — capital of Australia
-
-C. Brasília — capital of Brazil
-
-D. Auckland — capital of New Zealand
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Ankara / Canberra / Wellington are the capital traps for A/B/D.
-</details>
-
----
-
-**Q55.** Durand Line lies between:
-
-A. India and China
-
-B. Afghanistan and Pakistan
-
-C. India and Myanmar
-
-D. Russia and China
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q56.** Which statement about the Equator is/are correct?
-
-1. It crosses Ecuador, Colombia and Brazil.
-2. It crosses India.
-3. Australia is cut by the Tropic of Capricorn, not the Equator.
+Select the correct answer from the code given below:
 
 A. 1 and 2 only
-
-B. 1 and 3 only
-
-C. 2 and 3 only
-
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q57.** ASEAN’s classic ten members do NOT include:
-
-A. Vietnam
-
-B. Laos
-
-C. Timor-Leste
-
-D. Brunei
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Timor-Leste is SE Asia but not the classic ASEAN-10 set.
-</details>
-
----
-
-**Q58.** Assertion (A): Kazakhstan is treated as landlocked in ocean terms.
-Reason (R): The Caspian Sea is a lake, not an open ocean.
-
-A. Both A and R are true and R explains A
-
-B. Both A and R are true but R does not explain A
-
-C. A is true but R is false
-
-D. A is false but R is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-</details>
-
----
-
-**Q59.** Maghreb capitals correctly matched are:
-
-A. Morocco–Casablanca; Algeria–Oran; Tunisia–Sfax
-
-B. Morocco–Rabat; Algeria–Algiers; Tunisia–Tunis
-
-C. Morocco–Rabat; Algeria–Tunis; Tunisia–Algiers
-
-D. Morocco–Bamako; Algeria–Praia; Tunisia–Cairo
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q60.** Which country is NOT landlocked?
-
-A. Laos
-
-B. Nepal
-
-C. Vietnam
-
-D. Afghanistan
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Vietnam has a long South China Sea / Pacific-facing coast.
-</details>
-
----
-
-**Q61.** The Horn of Africa core set is:
-
-A. Egypt–Libya–Tunisia–Algeria
-
-B. Ethiopia–Somalia–Eritrea–Djibouti
-
-C. Kenya–Tanzania–Uganda only
-
-D. South Africa–Namibia–Botswana only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q62.** McMahon Line is associated with:
-
-A. India–Pakistan western sector only
-
-B. India–China eastern sector
-
-C. USA–Mexico Rio Grande only
-
-D. France–Germany Maginot only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q63.** Which capital is correctly matched?
-
-A. Kazakhstan — Ashgabat
-
-B. Kyrgyzstan — Bishkek
-
-C. Tajikistan — Tashkent
-
-D. Turkmenistan — Dushanbe
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q64.** Papua New Guinea’s capital is:
-
-A. Wellington
-
-B. Canberra
-
-C. Port Moresby
-
-D. Suva
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q65.** Which of the following pairs is/are correctly matched?
-
-1. Radcliffe Line — India–Pakistan
-2. 38th parallel — Korean Peninsula
-3. Durand Line — India–China
-
-A. 1 and 2 only
-
 B. 2 and 3 only
-
 C. 1 and 3 only
-
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Durand = Afghanistan–Pakistan; McMahon ≈ India–China east.
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Europe is near the bottom of the area ladder, not the top.
+
 </details>
 
----
+**Q25.** Consider the following statements about Brazil and Maghreb:
+
+1. Selva and Terra Roxa are both Brazil tags.
+2. Maghreb capitals include Rabat, Algiers and Tunis.
+3. Praia is Mali’s capital.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Praia = Cape Verde; Bamako = Mali.
+
+</details>
+
+**Q26.** Which one of the following is correct regarding Korea?
+
+A. Seoul is in the South and Pyongyang in the North, roughly along the 38th parallel.
+B. Nobi and Kanto are Korean plains.
+C. Pyongyang is the capital of South Korea.
+D. The 49th parallel divides the Koreas.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Seoul south / Pyongyang north near 38°.
+
+**Logic:** Nobi/Kanto = Japan; 49th ≈ Canada–USA.
+
+</details>
+
+**Q27.** With reference to Borneo and SE Asia, which of the following statements is/are correct?
+
+1. Borneo is shared by Indonesia, Malaysia and Brunei.
+2. Borneo should be treated as a volcanic-arc dump identical to Java.
+3. Sumatra lies west of Java on the west→east island ladder.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 3 are correct.
+
+**Logic:** Borneo is Sunda-shelf shared territory — not a Java-style volcanic dump.
+
+</details>
+
+**Q28.** Which of the following pairs is/are correctly matched?
+
+1. Laos — only SE Asia landlocked state in the usual set
+2. Uruguay — landlocked South America
+3. Lesotho — enclave inside South Africa
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 3 are correct.
+
+**Logic:** Uruguay has an Atlantic coast; Bolivia/Paraguay are the landlocked pair.
+
+</details>
+
+**Q29.** With reference to India’s Antarctic presence as used in this regional chapter, which one is correct?
+
+A. Operational stations are Maitri and Bharati.
+B. Himadri is an Antarctic station.
+C. Dakshin Gangotri is the only operational station.
+D. India has no Antarctic presence.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Maitri and Bharati are the operational pair.
+
+**Logic:** Himadri is Arctic; Dakshin Gangotri is not the operational answer.
+
+</details>
+
+**Q30.** Consider the following statements:
+
+1. Mandarin leads classic L-1 speaker counts; English often leads total L-1+L-2.
+2. Spanish is official in Chile, Colombia and Cuba.
+3. Congo lists Spanish as its sole official language in this desk.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Spanish–Congo is the false dump.
+
+</details>
 
 ## Common Traps — Don't Fall For These
 

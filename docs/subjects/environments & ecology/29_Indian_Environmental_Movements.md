@@ -449,306 +449,591 @@ D. Silent Valley Movement — Tamil Nadu
 
 ---
 
-## Practice Zone
+## Practice Zone — UPPCS Format Drill
 
-**Q1.** Appiko Movement is associated with:
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-Options: A. Karnataka B. Uttarakhand C. Kerala D. Rajasthan
+**Q1.** With reference to Bishnoi, which of the following statements is/are correct?
 
-<details><summary>Show answer</summary>
+1. Khejarli, Rajasthan, 1730.
+2. Amrita Devi and 363 martyrs memory.
+3. It began at Reni, Uttarakhand in 1973.
 
-**Ans: A**
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q2.** Chipko began in:
+**Ans: B.** Only 1 and 2.
 
-Options: A. 1973 B. 1730 C. 1983 D. 2011
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q3.** Chipko origin village:
-
-Options: A. Reni B. Khejarli C. Sirsi D. Silent Valley
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Reni 1973 = Chipko.
 
 </details>
 
-**Q4.** Appiko leader:
+**Q2.** Match List-I with List-II:
 
-Options: A. Panduranga Hegde B. Medha Patkar C. Amrita Devi D. Gaura Devi
+| List-I | List-II |
+|--------|--------|
+| A. Chipko | 1. Sirsi, Karnataka 1983 |
+| B. Appiko | 2. Reni 1973 |
+| C. Jungle Bachao | 3. Singhbhum 1982 |
 
-<details><summary>Show answer</summary>
+Code:
 
-**Ans: A**
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q5.** Silent Valley is in:
+**Ans: C.** A-2, B-1, C-3.
 
-Options: A. Kerala B. Tamil Nadu C. Karnataka D. Rajasthan
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q6.** Silent Valley mainly opposed:
-
-Options: A. Hydroelectric dam B. Only coal mining in Rajasthan C. Only Chipko logging in Garhwal D. Ozone treaty
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Chipko/Appiko/Jungle Bachao.
 
 </details>
 
-**Q7.** Narmada Bachao Andolan leader:
+**Q3.** Which of the following pairs is/are correctly matched?
 
-Options: A. Medha Patkar B. Bahuguna C. Hegde D. Amrita Devi
+1. Silent Valley — Kerala Palakkad rainforest–dam
+2. Narmada Bachao — MP, Gujarat, Maharashtra
+3. Appiko — Uttarakhand only
 
-<details><summary>Show answer</summary>
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: D.** Only 1 and 2.
 
-**Q8.** Bishnoi martyrdom year:
-
-Options: A. 1730 B. 1973 C. 1983 D. 2011
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q9.** Khejarli incident protected:
-
-Options: A. Khejri trees B. Coral reefs C. Mangroves of Sundarbans only D. Alpine meadows only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Appiko = Karnataka.
 
 </details>
 
-**Q10.** Amrita Devi is linked to:
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Options: A. Bishnoi Movement B. Appiko C. Silent Valley D. Narmada Bachao
+Assertion (A): Chipko began at Reni in then Uttar Pradesh (now Uttarakhand).
 
-<details><summary>Show answer</summary>
+Reason (R): Appiko and Silent Valley are UP movements.
 
-**Ans: A**
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q11.** Jungle Bachao Andolan region:
+**Ans: C.** A true, R false.
 
-Options: A. Singhbhum, Jharkhand B. Kerala Palakkad C. Reni Garhwal D. Sirsi Karnataka
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q12.** Gadgil report year:
-
-Options: A. 2011 B. 1730 C. 1973 D. 1985
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**A/R logic:** Appiko Karnataka; Silent Valley Kerala.
 
 </details>
 
-**Q13.** Kasturirangan report year:
+**Q5.** With reference to method families, which of the following statements is/are correct?
 
-Options: A. 2013 B. 1973 C. 1730 D. 1983
+1. Chipko, Appiko, Bishnoi — forest/tree protection.
+2. Silent Valley, Narmada Bachao — anti-dam.
+3. Save Western Ghats — Gadgil/Kasturirangan ESZ politics neighbourhood.
 
-<details><summary>Show answer</summary>
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: A.** All three.
 
-**Q14.** Gaura Devi is associated with:
-
-Options: A. Chipko B. Appiko C. NBA dams D. Bishnoi 1730
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q15.** World Bank withdrew from Sardar Sarovar in:
-
-Options: A. 1993 B. 1730 C. 2011 D. 1947
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Method family map.
 
 </details>
 
-**Q16.** Passive "ecology is permanent economy" is linked to:
+**Q6.** Arrange Chipko leaders teaching:
 
-Options: A. Bahuguna / Chipko B. Only Kasturirangan C. Only Amrita Devi D. Only Medha Patkar
+A. Only Medha Patkar
+B. Sunderlal Bahuguna, Chandi Prasad Bhatt, Gaura Devi
+C. Only Panduranga Hegde
+D. Only Amrita Devi 1730 as Chipko
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Bahuguna / Bhatt / Gaura Devi.
 
-</details>
-
-**Q17.** Passive: (1) Appiko is in Karnataka. (2) Appiko is in Uttarakhand.
-
-Options: A. Only 1 B. Only 2 C. Both D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Chipko leadership.
 
 </details>
 
-**Q18.** Silent Valley NP was notified in:
+**Q7.** Which of the following pairs is/are NOT correctly matched?
 
-Options: A. 1984 B. 1730 C. 2011 D. 1485
+1. Panduranga Hegde — Appiko
+2. Medha Patkar — Narmada Bachao
+3. Gaura Devi — Appiko Karnataka
 
-<details><summary>Show answer</summary>
+A. 1 and 2 only
+B. 2 and 3 only
+C. 3 only
+D. 1, 2 and 3
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: C.** Only pair 3 is not correctly matched.
 
-**Q19.** Passive correctly matched?
-
-Options: A. Appiko — Karnataka B. Chipko — Kerala C. Silent Valley — Rajasthan D. Bishnoi — Karnataka
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q20.** Passive incorrectly matched?
-
-Options: A. Silent Valley — Tamil Nadu B. Chipko — Uttarakhand C. Appiko — Karnataka D. Bishnoi — Rajasthan
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Gaura Devi = Chipko.
 
 </details>
 
-**Q21.** Passive of Big Games is savanna — Appiko protects forests in:
+**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Options: A. Western Ghats Karnataka B. Thar Desert dunes only C. Antarctic ice D. Sundarbans only
+Assertion (A): “NBA” as Narmada Bachao Andolan is not the National Biodiversity Authority.
 
-<details><summary>Show answer</summary>
+Reason (R): Same letters can mean different bodies.
 
-**Ans: A**
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q22.** NBA (movement) states include:
+**Ans: D.** Both true and R explains the acronym trap.
 
-Options: A. MP, Gujarat, Maharashtra B. Only Kerala C. Only Rajasthan D. Only Assam
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q23.** Passive hugging method is shared by:
-
-Options: A. Chipko and Appiko B. Only Silent Valley dam science C. Only Gadgil report drafting D. Only World Bank withdrawal
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**A/R logic:** NBA letters trap.
 
 </details>
 
-**Q24.** Guru Jambheshwar founded:
+**Q9.** With reference to Save Western Ghats, which of the following statements is/are correct?
 
-Options: A. Bishnoi sect (1485) B. KSSP C. Narmada tribunal D. FSI
+1. From about 2011 multi-state ecology politics.
+2. Around Gadgil and Kasturirangan reports.
+3. Identical to Chipko village tree-hugging only.
 
-<details><summary>Show answer</summary>
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: D.** Only 1 and 2.
 
-**Q25.** Number of Bishnoi martyrs at Khejarli traditionally cited:
-
-Options: A. 363 B. 3 C. 2011 D. 1984
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q26.** Save Western Ghats differs from Appiko mainly because it is:
-
-Options: A. 2011+ multi-state policy movement B. Only 1730 desert martyrdom C. Only Reni 1973 logging D. Only Singhbhum 1982
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Expert-committee politics ≠ Chipko method.
 
 </details>
 
-**Q27.** Chipko was in erstwhile:
+**Q10.** Match List-I with List-II:
 
-Options: A. Uttar Pradesh hill districts (now Uttarakhand) B. Only Kerala coast C. Only Gujarat plains D. Only Goa
+| List-I | List-II |
+|--------|--------|
+| A. Bishnoi | 1. 1973 |
+| B. Chipko | 2. 1730 |
+| C. Appiko | 3. 1983 |
 
-<details><summary>Show answer</summary>
+Code:
 
-**Ans: A**
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q28.** Passive of resistance common to Chipko and Dandi March:
+**Ans: A.** A-2, B-1, C-3.
 
-Options: A. Passive resistance B. Armed rebellion C. Only court petitions D. Only World Bank loans
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q29.** Assertion (A): Appiko is associated with Uttarakhand.
-Reason (R): Chipko began in Garhwal Himalaya.
-
-Options: A. Both true; R explains A B. Both true; R does not explain A C. A false, R true D. Both false
-
-<details><summary>Show answer</summary>
-
-**Ans: C** — Appiko = Karnataka; Chipko Garhwal true.
+**Logic:** 1730 / 1973 / 1983.
 
 </details>
 
-**Q30.** Correct chronology (earliest first):
+**Q11.** Arrange century trap:
 
-Options: A. Bishnoi → Chipko → Appiko → Save W Ghats B. Appiko → Bishnoi → Chipko C. Save W Ghats → Chipko → Bishnoi D. Chipko → Bishnoi → Appiko
+A. Bishnoi 1973; Chipko 1730
+B. Bishnoi 1730; Chipko 1973
+C. Both 2011
+D. Both 1985
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: A** — 1730 → 1973 → 1983 → 2011+.
+**Ans: B.** 1730 vs 1973.
+
+**Logic:** Century matters.
+
+</details>
+
+**Q12.** With reference to Jungle Bachao, which of the following statements is/are correct?
+
+1. Singhbhum, Jharkhand, 1982.
+2. Tribal resistance for forest rights.
+3. It is Chipko’s Garhwal story.
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Not Garhwal Chipko.
+
+</details>
+
+**Q13.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Tree-hugging method travelled from Chipko north to Appiko south.
+
+Reason (R): Same method family, different states and years.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R explains A.
+
+**A/R logic:** Method migration.
+
+</details>
+
+**Q14.** Which one of the following correctly states Silent Valley?
+
+A. Only Narmada multi-state dam politics
+B. Only Western Ghats mining slogan in Jharkhand
+C. Only Bishnoi Khejarli 1730
+D. Kerala rainforest opposed hydro project; KSSP/scientists central
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Kerala rainforest–dam.
+
+**Logic:** Silent Valley identity.
+
+</details>
+
+**Q15.** How many of the following leader locks are correct?
+
+Gaura Devi–Chipko; Hegde–Appiko; Patkar–Narmada
+
+A. All three
+B. Only two
+C. Only one
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** All three.
+
+**Logic:** Leader–movement map.
+
+</details>
+
+**Q16.** With reference to anti-dam movements, which of the following statements is/are correct?
+
+1. Silent Valley saved a Kerala valley rainforest project path.
+2. Narmada contested large multi-state valley politics.
+3. Both are identical single-state Kerala stories.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Narmada ≠ Kerala-only.
+
+</details>
+
+**Q17.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. Medha Patkar | 1. Appiko |
+| B. Panduranga Hegde | 2. Narmada |
+| C. Amrita Devi | 3. Bishnoi/Khejarli |
+
+Code:
+
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A-2, B-1, C-3.
+
+**Logic:** Patkar/Hegde/Amrita.
+
+</details>
+
+**Q18.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Gadgil is often read as stronger ecological protection; Kasturirangan as later recalibration.
+
+Reason (R): Both sit inside Save Western Ghats politics.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; SWG umbrella does not itself define the Gadgil vs Kasturirangan reading.
+
+**A/R logic:** Reports vs movement frame.
+
+</details>
+
+**Q19.** Which of the following pairs is/are correctly matched?
+
+1. Chipko ≠ Appiko by state
+2. Khejarli ≠ Chipko by century
+3. Silent Valley = Tamil Nadu only always
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Silent Valley = Kerala.
+
+</details>
+
+**Q20.** Arrange Narmada Bachao start neighbourhood:
+
+A. From 1985
+B. 1730
+C. 1973 only
+D. 2011 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** From 1985.
+
+**Logic:** NBA year.
+
+</details>
+
+**Q21.** With reference to Baba Amte, which of the following statements is/are correct?
+
+1. Leader fact with Medha Patkar for Narmada Bachao.
+2. Multi-state Narmada valley politics.
+3. He led Appiko at Sirsi only.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Appiko = Hegde.
+
+</details>
+
+**Q22.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Match movement → year → state → leader before answering “which state” stems.
+
+Reason (R): State alone often decides the key.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R explains the method.
+
+**A/R logic:** State decides many keys.
+
+</details>
+
+**Q23.** How many of the following are forest/tree-protection family?
+
+Chipko, Appiko, Bishnoi, Narmada Bachao
+
+A. Only one
+B. Only two
+C. Only three
+D. All four
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only three.
+
+**Logic:** Narmada = anti-dam.
+
+</details>
+
+**Q24.** Which one of the following correctly states Appiko?
+
+A. Singhbhum 1982 only
+B. Reni Garhwal 1973 only
+C. Khejarli 1730 only
+D. Southern tree-embrace; Sirsi Karnataka; Hegde
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Karnataka Appiko.
+
+**Logic:** Southern Chipko twin.
+
+</details>
+
+**Q25.** With reference to UP link, which of the following statements is/are correct?
+
+1. Chipko’s Reni lay in erstwhile UP until Uttarakhand statehood (2000).
+2. Appiko is not a UP movement.
+3. Silent Valley is a UP Terai movement.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Silent Valley = Kerala.
+
+</details>
+
+**Q26.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. Silent Valley | 1. 1982 |
+| B. Jungle Bachao | 2. 1970s |
+| C. Save Western Ghats | 3. ~2011 |
+
+Code:
+
+A. A-1, B-2, C-3
+B. A-2, B-1, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** A-2, B-1, C-3.
+
+**Logic:** 1970s / 1982 / 2011.
+
+</details>
+
+**Q27.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Khejarli martyrdom is Rajasthan Bishnoi memory.
+
+Reason (R): It is Uttarakhand Chipko’s founding event.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true, R false.
+
+**A/R logic:** Not Chipko founding.
+
+</details>
+
+**Q28.** Arrange Chipko vs Appiko states:
+
+A. Both Kerala only
+B. Both Jharkhand only
+C. Chipko Uttarakhand; Appiko Karnataka
+D. Both Rajasthan 1730
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** UK vs Karnataka.
+
+**Logic:** North–south twin.
+
+</details>
+
+**Q29.** With reference to KSSP, which of the following statements is/are correct?
+
+1. Central in Silent Valley resistance neighbourhood.
+2. Kerala science movement link.
+3. Led Appiko in Karnataka Sirsi.
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Appiko = Hegde.
+
+</details>
+
+**Q30.** Which one of the following best separates Save Western Ghats from Chipko?
+
+A. SWG leans on expert committee reports; Chipko on village tree hugging
+B. Both are identical 1730 Bishnoi events
+C. Both are only Singhbhum tribal cases
+D. Both are only Narmada multi-state dam politics
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Reports vs hugging.
+
+**Logic:** Method/politics split.
 
 </details>
 

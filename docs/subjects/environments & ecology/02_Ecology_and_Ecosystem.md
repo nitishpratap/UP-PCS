@@ -1297,9 +1297,9 @@ D. 1 and 2 only
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Haeckel and Tansley years are correct. Ecosystems are normally open systems.
-
 **Ans: D.**
+
+**Logic:** Haeckel and Tansley years are correct. Ecosystems are normally open systems.
 
 </details>
 
@@ -1321,9 +1321,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Habitat = place; niche = role — pairs 1–2 are swapped. Community is correctly matched.
-
 **Ans: B.**
+
+**Logic:** Habitat = place; niche = role — pairs 1–2 are swapped. Community is correctly matched.
 
 </details>
 
@@ -1339,9 +1339,9 @@ D. 1-2-4-3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Population → Community → Ecosystem → Landscape.
-
 **Ans: B.**
+
+**Logic:** Population → Community → Ecosystem → Landscape.
 
 </details>
 
@@ -1359,9 +1359,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** A is true. Nutrients cycle — R is false.
-
 **Ans: C.**
+
+**A/R logic:** A is true. Nutrients cycle — R is false.
 
 </details>
 
@@ -1383,9 +1383,9 @@ D. A-1, B-3, C-2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Liebig = limiting; Shelford = tolerance; Lindeman = 10%.
-
 **Ans: C.**
+
+**Logic:** Liebig = limiting; Shelford = tolerance; Lindeman = 10%.
 
 </details>
 
@@ -1403,9 +1403,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Primary = lifeless; secondary = soil present. Pair 3 is correct.
-
 **Ans: A.**
+
+**Logic:** Primary = lifeless; secondary = soil present. Pair 3 is correct.
 
 </details>
 
@@ -1423,9 +1423,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Hydrosere = wet; xerosere = dry — statement 3 is swapped.
-
 **Ans: A.**
+
+**Logic:** Hydrosere = wet; xerosere = dry — statement 3 is swapped.
 
 </details>
 
@@ -1443,9 +1443,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Usual order: mangroves > grasslands > lakes > oceans.
-
 **Ans: C.**
+
+**Logic:** Usual order: mangroves > grasslands > lakes > oceans.
 
 </details>
 
@@ -1463,9 +1463,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Identical niches cannot stably coexist when resources are limited.
-
 **Ans: B.**
+
+**Logic:** Identical niches cannot stably coexist when resources are limited.
 
 </details>
 
@@ -1487,9 +1487,9 @@ D. A-2, B-3, C-1
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Pycnocline = density; Halocline = salinity; Thermocline = temperature.
-
 **Ans: D.**
+
+**Logic:** Pycnocline = density; Halocline = salinity; Thermocline = temperature.
 
 </details>
 
@@ -1507,9 +1507,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** Both true. Edge effect is associated, but does not define what an ecotone is.
-
 **Ans: A.**
+
+**A/R logic:** Both true. Edge effect is associated, but does not define what an ecotone is.
 
 </details>
 
@@ -1527,9 +1527,9 @@ D. 1 and 2 only
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Humans are generally K-leaning — not pure r.
-
 **Ans: D.**
+
+**Logic:** Humans are generally K-leaning — not pure r.
 
 </details>
 
@@ -1547,9 +1547,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Carrying capacity is the sustainable max under resource limits.
-
 **Ans: C.**
+
+**Logic:** Carrying capacity is the sustainable max under resource limits.
 
 </details>
 
@@ -1567,9 +1567,9 @@ D. 1 and 2 only
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Roads are not natural capital.
-
 **Ans: D.**
+
+**Logic:** Roads are not natural capital.
 
 </details>
 
@@ -1587,9 +1587,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Eutrophication is aquatic — not an ozone-hole story.
-
 **Ans: B.**
+
+**Logic:** Eutrophication is aquatic — not an ozone-hole story.
 
 </details>
 
@@ -1607,9 +1607,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Ramdeo Misra is father of Indian ecology; Tansley coined ecosystem.
-
 **Ans: B.**
+
+**Logic:** Ramdeo Misra is father of Indian ecology; Tansley coined ecosystem.
 
 </details>
 
@@ -1623,9 +1623,9 @@ D. Littoral → profundal → limnetic
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Littoral → limnetic → profundal.
-
 **Ans: C.**
+
+**Logic:** Littoral → limnetic → profundal.
 
 </details>
 
@@ -1644,9 +1644,9 @@ D. 1-2-4-3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 1866 → 1917 → 1935 → 1942.
-
 **Ans: A.**
+
+**Logic:** 1866 → 1917 → 1935 → 1942.
 
 </details>
 
@@ -1664,9 +1664,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** A is true. Biosphere is the largest ecosystem of Earth — R is false.
-
 **Ans: C.**
+
+**A/R logic:** A is true. Biosphere is the largest ecosystem of Earth — R is false.
 
 </details>
 
@@ -1684,9 +1684,9 @@ D. 1 and 2 only
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Sugarcane belts are agro-ecosystems — not climax forests.
-
 **Ans: D.**
+
+**Logic:** Sugarcane belts are agro-ecosystems — not climax forests.
 
 </details>
 
@@ -1708,9 +1708,9 @@ D. A-3, B-1, C-2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Artificial = aquarium/rice field; lotic = river; lentic = pond/lake.
-
 **Ans: C.**
+
+**Logic:** Artificial = aquarium/rice field; lotic = river; lentic = pond/lake.
 
 </details>
 
@@ -1728,9 +1728,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Phosphorus lacks a major atmospheric gaseous reservoir like N₂.
-
 **Ans: A.**
+
+**Logic:** Phosphorus lacks a major atmospheric gaseous reservoir like N₂.
 
 </details>
 
@@ -1744,9 +1744,9 @@ D. Energy becoming cyclic like nutrients
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Resilience = recovery capacity after disturbance.
-
 **Ans: B.**
+
+**Logic:** Resilience = recovery capacity after disturbance.
 
 </details>
 
@@ -1764,9 +1764,9 @@ D. 1 and 2 only
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Balance is dynamic equilibrium — statement 3 is false.
-
 **Ans: D.**
+
+**Logic:** Balance is dynamic equilibrium — statement 3 is false.
 
 </details>
 
@@ -1784,9 +1784,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Bionomics ≠ management of life; that is a trap.
-
 **Ans: B.**
+
+**Logic:** Bionomics ≠ management of life; that is a trap.
 
 </details>
 
@@ -1804,9 +1804,9 @@ D. 1 and 2 only
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Energy is one-way — statement 3 is false.
-
 **Ans: D.**
+
+**Logic:** Energy is one-way — statement 3 is false.
 
 </details>
 
@@ -1824,9 +1824,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** A is true. Farmland abandonment is typically secondary — R is false.
-
 **Ans: C.**
+
+**A/R logic:** A is true. Farmland abandonment is typically secondary — R is false.
 
 </details>
 
@@ -1842,9 +1842,9 @@ D. All five
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Rice field, aquarium, orchard, reservoir = four.
-
 **Ans: C.**
+
+**Logic:** Rice field, aquarium, orchard, reservoir = four.
 
 </details>
 
@@ -1862,9 +1862,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** All three associations are standard.
-
 **Ans: D.**
+
+**Logic:** All three associations are standard.
 
 </details>
 
@@ -1882,9 +1882,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Statement 2 is false.
-
 **Ans: B.**
+
+**Logic:** Statement 2 is false.
 
 </details>
 

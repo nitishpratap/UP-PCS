@@ -3296,465 +3296,237 @@ D. Vallabhbhai Patel
 
 ## Practice Zone — UPPCS Format Drill
 
-> **50 questions.** Mix: multi-statement, chronology, Match-List, A/R, NOT-matched.
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
+
+
+**Q1.** With reference to streams of protest, which of the following statements is/are correct?
+
+1. Peasant protest centres on rent, indigo and share issues among settled cultivators.
+2. Tribal protest centres on land–forest–diku intrusion.
+3. Labour protest and peasant protest always share the same target and method.
+
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1, 2 and 3
+
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Method can overlap; target of protest does not.
+
+</details>
 
 ---
 
-**Q1.** Consider the following revolts and arrange them in correct chronological order.
+**Q2.** With reference to the Indigo Revolt (1859–60), which of the following statements is/are correct?
 
-1. Pabna Revolt
+1. Cause — European planters’ forced indigo and dadan advances.
+2. Course — Biswas brothers in Nadia and wider Bengal resistance.
+3. Result — Deccan Agriculturists’ Relief Act, 1879.
 
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1, 2 and 3
+
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Indigo result = Indigo Commission 1860; 1879 Act is Deccan Riots result.
+
+</details>
+
+---
+
+**Q3.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+
+**Assertion (A):** Pabna agrarian leagues and the Indigo Revolt attacked the same European planter system.
+
+**Reason (R):** Pabna (1873–85) fought zamindar rent-hikes; Indigo (1859–60) fought European planters.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** (A) is false; (R) is true.
+
+**A/R logic:** Standing confused pair: indigo planters ≠ Pabna zamindar rents.
+
+</details>
+
+---
+
+**Q4.** Match List-I with List-II and select the correct answer from the code given below:
+
+| List-I (Revolt) | List-II (Leader) |
+|-----------------|------------------|
+| A. Paika 1817 | 1. Sidhu and Kanhu |
+| B. Santhal Hul 1855–56 | 2. Jagabandhu Bidyadhar |
+| C. Munda Ulgulan | 3. Tirut Singh |
+| D. Khasi 1829 | 4. Birsa Munda |
+
+*Row order is not the answer code.*
+
+
+A. A-2, B-1, C-4, D-3
+
+B. A-1, B-2, C-4, D-3
+
+C. A-2, B-1, C-3, D-4
+
+D. A-2, B-4, C-1, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Paika–Jagabandhu; Santhal–Sidhu/Kanhu; Munda–Birsa; Khasi–Tirut Singh.
+
+**Logic:** Revolt↔leader must-score grid.
+
+</details>
+
+---
+
+**Q5.** Which of the following pairs is NOT correctly matched?
+
+
+A. Ahom rising — ~1828 under Gomdhar Konwar
+
+B. Kol Rebellion — 1831–32; Buddhu Bhagat among leaders
+
+C. Tana Bhagat — 1914 under Jatra Oraon
+
+D. Ahom rising — 1815 under Gomdhar Konwar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Correct Ahom year is ~1828 — 1815 is the trap year.
+
+**Logic:** Year trap from Confused Pairs.
+
+</details>
+
+---
+
+**Q6.** Arrange the following in chronological order:
+
+1. Deccan Riots
 2. Indigo Revolt
+3. Santhal Hul
+4. Sanyasi–Fakir rising (openers of the early belt)
 
-3. Kuka Revolt
-
-4. Sanyasi Revolt
 
 A. 4, 3, 2, 1
 
-B. 3, 4, 1, 2
+B. 3, 4, 2, 1
 
-C. 3, 4, 2, 1
+C. 4, 2, 3, 1
 
-D. 4, 2, 3, 1
+D. 4, 3, 1, 2
 
 <details>
-
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: A.** Sanyasi belt → Santhal 1855–56 → Indigo 1859–60 → Deccan 1875.
+
+**Logic:** Early chronology killer set.
 
 </details>
 
 ---
 
-**Q2.** Which of the following pairs is NOT correctly matched?
+**Q7.** With reference to Deccan Riots (1875), which of the following statements is/are correct?
 
-A. Santhal — 1855
+1. Cause — moneylender (sahukar) grip in Poona–Ahmednagar.
+2. Result — Deccan Agriculturists’ Relief Act, 1879.
+3. Result — Indigo Commission of 1860 under the same statute.
 
-B. Kol — 1831
+Select the correct answer from the code given below:
 
-C. Khasi — 1829
 
-D. Ahom — 1815
+A. 1 and 3 only
+
+B. 1 and 2 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
-
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Keep Indigo Commission distinct from Deccan Relief Act.
 
 </details>
 
 ---
 
-**Q3.** Match List-I with List-II.
+**Q8.** With reference to UP peasant organisations, which of the following statements is/are correct?
 
-**List-I** A. Pabna B. Eka C. Santhal D. Tana Bhagat
+1. UP Kisan Sabha (1918) is keyed to Indra Narayan Dwivedi (with Gauri Shankar Mishra).
+2. Oudh Kisan Sabha (October 1920, Pratapgarh) was mobilised by Baba Ramchandra.
+3. Eka (1921–22) under Madari Pasi is identical with UP Kisan Sabha 1918.
 
-**List-II** 1. 1855–56 2. 1873–85 3. 1922 4. 1914
+Select the correct answer from the code given below:
 
-A. 1 2 4 3
 
-B. 2 3 1 4
+A. 1 and 3 only
 
-C. 3 1 4 2
+B. 2 and 3 only
 
-D. 4 3 2 1
+C. 1, 2 and 3
+
+D. 1 and 2 only
 
 <details>
-
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: D.** Only 1 and 2.
+
+**Logic:** UP Focus triple — mixing any two names fails the stem.
 
 </details>
 
 ---
 
-**Q4.** Match List-I with List-II.
+**Q9.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**List-I (Revolt)** A. Paika B. Bareilly C. Malabar D. Sylhet
 
-**List-II (Leader)** 1. Edachena Kungan 2. Radharam 3. Mufti Muhammad Aiwaz 4. Jagabandhu Bidyadhar Mahapatra
+**Assertion (A):** Bardoli (1928) and Moplah (1921) shared the same region and method.
 
-A. 4 3 1 2
+**Reason (R):** Moplah/Malabar mixed tenancy grievance with a violent phase; Bardoli was Patel’s Gujarat no-tax satyagraha.
 
-B. 3 4 1 2
-
-C. 3 2 1 4
-
-D. 2 1 3 4
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q5.** In 1918, the United Provinces Kisan Sabha was formed by
-
-A. Baba Ramchandra
-
-B. Indra Narayan Dwivedi
-
-C. Swami Sahajanand Saraswati
-
-D. Pt. Jawaharlal Nehru
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q6.** Which of the following events was the last in chronological order?
-
-A. Home Rule Movement
-
-B. Khilafat Movement
-
-C. Jallianwala Bagh Massacre
-
-D. Moplah Revolt
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q7.** Who was sent as representative of labourers by the Indian Government to the ILO Washington Summit in 1919?
-
-A. V.P. Wadia
-
-B. N.M. Joshi
-
-C. C.F. Andrews
-
-D. Joseph Baptista
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q8.** Match List-I with List-II.
-
-**List-I** A. BMS B. INTUC C. UTUC D. AITUC
-
-**List-II** 1. Indian National Congress 2. CPI 3. CPI(M) 4. BJP
-
-A. 2 4 3 1
-
-B. 3 2 1 4
-
-C. 1 3 2 4
-
-D. 4 1 3 2
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q9.** Consider the following events and arrange them in correct chronological order.
-
-1. Acquisition of Awadh by the British
-
-2. Ilbert Bill Controversy
-
-3. Indigo Revolt
-
-4. Second Anglo-Afghan War
-
-A. 1, 3, 4, 2
-
-B. 3, 1, 2, 4
-
-C. 3, 1, 4, 2
-
-D. 1, 3, 2, 4
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: A** — 1856 â†’ 1859–60 â†’ 1878–80 â†’ 1883.
-
-</details>
-
----
-
-**Q10.** With reference to the Indigo Revolt, which of the following statements is/are correct?
-
-1. It took place in Bengal in 1859–60 against European planters.
-
-2. The Indigo Commission was appointed in 1860.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q11.** With reference to the Deccan Riots, which of the following statements is/are correct?
-
-1. They broke out in 1875 mainly against moneylenders.
-
-2. The Deccan Agriculturists' Relief Act was passed in 1859.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: A** — Relief Act is **1879**.
-
-</details>
-
----
-
-**Q12.** Consider the following statements:
-
-1. Sidhu and Kanhu led the Santhal Hul of 1855–56.
-
-2. Birsa Munda led the Santhal Hul.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q13.** Consider the following statements:
-
-1. The Kol Rebellion occurred in Chotanagpur around 1831–32.
-
-2. The Munda Ulgulan occurred before the Kol Rebellion.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: A** — Ulgulan is **1899–1900**.
-
-</details>
-
----
-
-**Q14.** With reference to the Munda Ulgulan, which of the following statements is/are correct?
-
-1. It is associated with Birsa Munda around 1899–1900.
-
-2. It defended the khuntkatti land system against *diku* intrusion.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q15.** Which of the following pairs are NOT correctly matched?
-
-1. Paika Rebellion — Jagabandhu Bidyadhar
-
-2. Khasi revolt — Tirut Singh
-
-3. Ahom rising — 1815
-
-A. Only 3
-
-B. Only 1 and 3
-
-C. Only 2 and 3
-
-D. Only 1
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q16.** With reference to the Moplah Rebellion, which of the following statements is/are correct?
-
-1. It broke out in Malabar in 1921.
-
-2. It was a no-tax satyagraha led by Vallabhbhai Patel.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: A** — Patel = **Bardoli 1928**.
-
-</details>
-
----
-
-**Q17.** With reference to Bardoli Satyagraha, which of the following statements is/are correct?
-
-1. It was a 1928 no-tax campaign in Gujarat.
-
-2. Vallabhbhai Patel organised it against a land-revenue enhancement.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q18.** With reference to the Tebhaga Movement, which of the following statements is/are correct?
-
-1. Sharecroppers in Bengal demanded two-thirds of the produce.
-
-2. It took place in 1921–22 in Awadh.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: A** — 1921–22 Awadh = **Eka**.
-
-</details>
-
----
-
-**Q19.** Consider the following statements:
-
-1. The Eka Movement was led by Madari Pasi in Awadh around 1921–22.
-
-2. Tana Bhagat is correctly matched with 1914.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q20.** Assertion (A): The United Provinces Kisan Sabha of 1918 is tagged with Indra Narayan Dwivedi.
-
-Reason (R): Baba Ramchandra was a major Awadh peasant mobiliser in the following years.
-
-Options:
+Select the correct answer from the code given below:
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 
@@ -3765,478 +3537,408 @@ C. (A) is true, but (R) is false
 D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
-
 <summary>Show answer</summary>
 
-**Ans: A** — Both true; Ramchandra's later role does not explain the 1918 founder tag.
+**Ans: B.** (A) is false; (R) is true.
+
+**A/R logic:** Region and method both differ.
 
 </details>
 
 ---
 
-**Q21.** With reference to the Workers and Peasants Party, which of the following statements is/are correct?
+**Q10.** With reference to Tebhaga and Telangana, which of the following statements is/are correct?
 
-1. It was given an all-India form around 1927.
+1. Tebhaga (1946–47) in Bengal demanded a two-thirds share for sharecroppers.
+2. Telangana (1946–51) was the CPI-led armed anti-jagirdar struggle in Hyderabad State.
+3. Tebhaga and Telangana are two names for the same Bengal sharecrop movement.
 
-2. Its objective included working within the Congress to radicalise it.
+Select the correct answer from the code given below:
 
-A. Only 1
 
-B. Only 2
+A. 1 and 3 only
 
-C. Both 1 and 2
+B. 1 and 2 only
 
-D. Neither 1 nor 2
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
-
 <summary>Show answer</summary>
 
-**Ans: B** — All-India form **December 1928** (Topic 12).
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Bengal share demand ≠ Hyderabad armed anti-jagirdar war.
 
 </details>
 
 ---
 
-**Q22.** Consider the following statements:
+**Q11.** Match List-I with List-II and select the correct answer from the code given below:
 
-1. AITUC was founded in 1920.
+| List-I | List-II |
+|--------|---------|
+| A. AITUC 1920 | 1. Congress labour wing |
+| B. INTUC 1947 | 2. Lala Lajpat Rai first president |
+| C. BMS 1955 | 3. V.P. Wadia |
+| D. Madras Labour Union 1918 | 4. Dattopant Thengadi |
 
-2. INTUC was founded in 1920 as the Congress labour wing.
+*Row order is not the answer code.*
 
-A. Only 1
 
-B. Only 2
+A. A-2, B-1, C-4, D-3
 
-C. Both 1 and 2
+B. A-1, B-2, C-4, D-3
 
-D. Neither 1 nor 2
+C. A-2, B-1, C-3, D-4
+
+D. A-2, B-4, C-1, D-3
 
 <details>
-
 <summary>Show answer</summary>
 
-**Ans: A** — INTUC is **1947**.
+**Ans: A.** AITUC–Lajpat Rai; INTUC–Congress; BMS–Thengadi; Madras Labour Union–Wadia.
+
+**Logic:** Labour organisation matching.
 
 </details>
 
 ---
 
-**Q23.** Which of the following pairs is NOT correctly matched?
+**Q12.** Which of the following pairs is NOT correctly matched?
 
-A. BMS — BJP
 
-B. INTUC — Congress
+A. Champaran 1917 — tinkathia indigo; Gandhi satyagraha
 
-C. AITUC — CPI
+B. Kheda 1918 — Gujarat no-revenue satyagraha in crop failure
 
-D. BMS — CPI(M)
+C. Rampa / Manyam 1922–24 — Alluri Sitarama Raju
+
+D. Bareilly 1816 — Khan Bahadur Khan of 1857
 
 <details>
-
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: D.** Bareilly 1816 = Mufti Muhammad Aiwaz; 1857 Bareilly = Khan Bahadur Khan.
+
+**Logic:** Same city, different centuries.
 
 </details>
 
 ---
 
-**Q24.** Arrange the following in chronological order.
+**Q13.** With reference to Munda Ulgulan, which of the following statements is/are correct?
 
-1. Kol Rebellion
+1. It was led by Birsa Munda against diku landlords and colonial intrusion in Chotanagpur.
+2. It is dated 1899–1900.
+3. It is identical with Santhal Hul under Sidhu and Kanhu.
 
-2. Santhal Rebellion
+Select the correct answer from the code given below:
 
-3. Munda Ulgulan
 
-4. Khasi revolt
+A. 1 and 3 only
 
-A. 4, 1, 2, 3
+B. 2 and 3 only
 
-B. 1, 4, 2, 3
+C. 1 and 2 only
 
-C. 4, 2, 1, 3
-
-D. 2, 4, 1, 3
+D. 1, 2 and 3
 
 <details>
-
 <summary>Show answer</summary>
 
-**Ans: A** — 1829 â†’ 1831 â†’ 1855 â†’ 1899.
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Santhal 1855 ≠ Munda 1899–1900.
 
 </details>
 
 ---
 
-**Q25.** Consider the following statements:
+**Q14.** Arrange the following in chronological order:
 
-1. Pabna peasants organised agrarian leagues against zamindar rent-hikes.
+1. Eka movement
+2. Pabna agrarian leagues (start decade)
+3. Tana Bhagat
+4. Santhal Hul
 
-2. Deccan rioters mainly attacked European indigo factories.
 
-A. Only 1
+A. 4, 2, 3, 1
 
-B. Only 2
+B. 2, 4, 3, 1
 
-C. Both 1 and 2
+C. 4, 3, 2, 1
 
-D. Neither 1 nor 2
+D. 4, 2, 1, 3
 
 <details>
-
 <summary>Show answer</summary>
 
-**Ans: A** — Deccan target = **moneylenders**.
+**Ans: A.** Santhal 1855–56 → Pabna 1873–85 → Tana Bhagat 1914 → Eka 1921–22.
+
+**Logic:** Second chronology killer set from Must-Score.
 
 </details>
 
 ---
 
-**Q26.** Match List-I with List-II.
+**Q15.** With reference to All India Kisan Sabha, which of the following statements is/are correct?
 
-**List-I** A. Sidhu–Kanhu B. Birsa Munda C. Madari Pasi D. Digambar Biswas
+1. It is keyed to Swami Sahajanand Saraswati (Lucknow session, 1936).
+2. It is not the same body as UP Kisan Sabha of 1918 under Dwivedi.
+3. Its first president was Lala Lajpat Rai in 1920.
 
-**List-II** 1. Eka 2. Santhal 3. Indigo 4. Ulgulan
+Select the correct answer from the code given below:
 
-A. 2 4 1 3
 
-B. 4 2 3 1
+A. 1 and 3 only
 
-C. 2 1 4 3
+B. 2 and 3 only
 
-D. 3 4 1 2
+C. 1 and 2 only
+
+D. 1, 2 and 3
 
 <details>
-
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Lajpat Rai 1920 = AITUC — labour, not AIKS.
 
 </details>
 
 ---
 
-**Q27.** With reference to bonded labour, which of the following statements is/are correct?
+**Q16.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-1. Indigo *dadon* advances trapped ryots into unfree crop contracts.
 
-2. The Bonded Labour System (Abolition) Act was passed in 1920 with AITUC.
+**Assertion (A):** Bonded labour and factory wage labour are legally the same category of free contract work.
 
-A. Only 1
+**Reason (R):** Bonded labour is debt-tied unfree work; the Bonded Labour System (Abolition) Act, 1976 is the modern legal fact.
 
-B. Only 2
+Select the correct answer from the code given below:
 
-C. Both 1 and 2
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 
-D. Neither 1 nor 2
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: A** — the Act is **1976**.
-
-</details>
-
----
-
-**Q28.** Assertion (A): The Ahom rising is not correctly matched with 1815.
-
-Reason (R): The rising associated with Gomdhar Konwar belongs to about 1828.
-
-Options:
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 
 C. (A) is true, but (R) is false
 
-D. (A) is false, but (R) is true
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
-
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** (A) is false; (R) is true.
+
+**A/R logic:** Confused pair: bonded ≠ wage labour.
 
 </details>
 
 ---
 
-**Q29.** Which of the following pairs are NOT correctly matched?
+**Q17.** With reference to Kuka (Namdhari) rising, which of the following statements is/are correct?
 
-1. Eka — Madari Pasi
+1. It is dated around 1872 under Baba Ram Singh.
+2. It belongs to Punjab.
+3. It is identical with Bengal’s Pabna agrarian leagues.
 
-2. Bardoli — Birsa Munda
+Select the correct answer from the code given below:
 
-3. Tebhaga — Bengal sharecroppers
 
-A. Only 2
+A. 1 and 3 only
 
-B. Only 1 and 2
+B. 2 and 3 only
 
-C. Only 2 and 3
+C. 1 and 2 only
 
-D. Only 1
+D. 1, 2 and 3
 
 <details>
-
 <summary>Show answer</summary>
 
-**Ans: A** — Bardoli = **Patel**.
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Keep Punjab Kuka distinct from Bengal peasant leagues.
 
 </details>
 
 ---
 
-**Q30.** Consider the following statements:
+**Q18.** With reference to labour representation, which of the following statements is/are correct?
 
-1. Lala Lajpat Rai was associated with the early presidentship of AITUC.
+1. N.M. Joshi represented Indian labour at the ILO, Washington, 1919.
+2. Madras Labour Union (1918) is keyed to V.P. Wadia.
+3. N.M. Lokhande pioneered organised mill labour in the standard tag set.
 
-2. V.P. Wadia is associated with the Madras Labour Union (1918).
+Select the correct answer from the code given below:
 
-A. Only 1
 
-B. Only 2
+A. 1 and 2 only
 
-C. Both 1 and 2
+B. 1 and 3 only
 
-D. Neither 1 nor 2
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
-
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: D.** All three labour tags are correct.
+
+**Logic:** ILO / Madras Union / Lokhande trio.
 
 </details>
 
 ---
 
-**Q31.** Arrange the following in chronological order.
+**Q19.** Match List-I with List-II and select the correct answer from the code given below:
+
+| List-I | List-II |
+|--------|---------|
+| A. Dwivedi | 1. Oudh Kisan Sabha 1920 |
+| B. Baba Ramchandra | 2. UP Kisan Sabha 1918 |
+| C. Madari Pasi | 3. Eka 1921–22 |
+| D. Sahajanand | 4. All India Kisan Sabha 1936 |
+
+*Row order is not the answer code.*
+
+
+A. A-2, B-1, C-3, D-4
+
+B. A-1, B-2, C-3, D-4
+
+C. A-2, B-1, C-4, D-3
+
+D. A-2, B-3, C-1, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Dwivedi–1918; Ramchandra–1920; Madari–Eka; Sahajanand–AIKS.
+
+**Logic:** UP Focus + AIKS matching.
+
+</details>
+
+---
+
+**Q20.** Which of the following pairs is NOT correctly matched?
+
+
+A. Paika–Jagabandhu
+
+B. Bareilly 1816–Mufti Muhammad Aiwaz
+
+C. UTUC — always the only real CPI(M) trade-union centre founded 1970
+
+D. Sylhet–Radharam (match-extra tag)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** UPPCS often maps UTUC→CPI(M), but CITU (1970) is the real CPI(M) centre — learn both.
+
+**Logic:** Labour-map correction trap.
+
+</details>
+
+---
+
+**Q21.** With reference to Telangana’s closure, which of the following statements is/are correct?
+
+1. Telangana closed when the CPI withdrew around 1951.
+2. The whole movement cannot be reduced to the 1948 Police Action alone.
+3. Telangana was only a 1928 Bardoli-style no-tax satyagraha in Gujarat.
+
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Hyderabad armed struggle ≠ Bardoli method/region.
+
+</details>
+
+---
+
+**Q22.** Arrange the following in chronological order:
 
 1. Bardoli Satyagraha
+2. Champaran Satyagraha
+3. Moplah / Malabar rising
+4. Tebhaga movement
 
-2. Moplah Rebellion
 
-3. Tebhaga Movement
+A. 2, 3, 1, 4
 
-4. UP Kisan Sabha
+B. 2, 1, 3, 4
 
-A. 4, 2, 1, 3
+C. 3, 2, 1, 4
 
-B. 2, 4, 1, 3
-
-C. 4, 1, 2, 3
-
-D. 4, 2, 3, 1
+D. 2, 3, 4, 1
 
 <details>
-
 <summary>Show answer</summary>
 
-**Ans: A** — 1918 â†’ 1921 â†’ 1928 â†’ 1946.
+**Ans: A.** 1917 Champaran → 1921 Moplah → 1928 Bardoli → 1946–47 Tebhaga.
+
+**Logic:** Peasant chronology across methods/regions.
 
 </details>
 
 ---
 
-**Q32.** With reference to Alluri Sitarama Raju, which of the following statements is/are correct?
+**Q23.** With reference to after-effects of Santhal Hul, which of the following statements is/are correct?
 
-1. He led the Rampa / Manyam rebellion in the early 1920s.
+1. Santhal Parganas administration followed.
+2. Transfer of Santhal land to non-Santhals was banned in the standard result line.
+3. Indigo cultivation expanded mainly because synthetic dyes disappeared.
 
-2. He led the Paika Rebellion of 1817.
+Select the correct answer from the code given below:
 
-A. Only 1
 
-B. Only 2
+A. 1 and 3 only
 
-C. Both 1 and 2
+B. 2 and 3 only
 
-D. Neither 1 nor 2
+C. 1 and 2 only
+
+D. 1, 2 and 3
 
 <details>
-
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Indigo later faded mainly because of synthetic dyes — opposite of stmt 3.
 
 </details>
 
 ---
 
-**Q33.** Consider the following statements:
+**Q24.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-1. Tana Bhagat was an Oraon movement in Chotanagpur.
 
-2. Pabna is correctly dated 1922.
+**Assertion (A):** Thakkar Bapa popularised the word Adivasi.
 
-A. Only 1
+**Reason (R):** Jadonang is tagged as the first Gandhi-inspired Naga tribal leader.
 
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: A** — 1922 = **Eka**; Pabna = **1873–85**.
-
-</details>
-
----
-
-**Q34.** Assertion (A): The Indigo Revolt is placed after the Sanyasi Revolt in the 2025 chronology set.
-
-Reason (R): Sanyasi–Fakir resistance belongs to the late eighteenth century, while Indigo is 1859–60.
-
-Options:
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-C. (A) is true, but (R) is false
-
-D. (A) is false, but (R) is true
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q35.** Which of the following is NOT correctly matched?
-
-A. Champaran — 1917
-
-B. Kuka — ~1872
-
-C. Deccan Riots — 1875
-
-D. Tebhaga — 1928
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: D** — Tebhaga **1946–47**; 1928 = Bardoli.
-
-</details>
-
----
-
-**Q36.** With reference to the Bareilly Revolt in the 2024 matching list, which of the following statements is/are correct?
-
-1. The leader tag is Mufti Muhammad Aiwaz.
-
-2. This is the same as Khan Bahadur Khan's 1857 Bareilly centre.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: A** — 1857 Bareilly = **Khan Bahadur Khan** (Topic 5).
-
-</details>
-
----
-
-**Q37.** Consider the following statements:
-
-1. BMS was founded by Dattopant Thengadi in 1955.
-
-2. CITU, not UTUC, is the classic CPI(M) trade-union centre.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: C** — still mark **UTUC â†’ CPI(M)** when the 2022 list is reproduced.
-
-</details>
-
----
-
-**Q38.** Match List-I with List-II.
-
-**List-I** A. Paika B. Khasi C. Santhal D. Moplah
-
-**List-II** 1. 1921 2. 1817 3. 1829 4. 1855
-
-A. 2 3 4 1
-
-B. 3 2 1 4
-
-C. 2 4 3 1
-
-D. 4 3 2 1
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q39.** With reference to peasant politics in Awadh, which of the following statements is/are correct?
-
-1. Begar and bedakhli were major tenant grievances.
-
-2. The Eka Movement demanded recorded rents and receipts.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q40.** Assertion (A): Article 23 of the Constitution prohibits *begar*.
-
-Reason (R): The Bonded Labour System (Abolition) Act, 1976 gives statutory force to the attack on debt bondage.
-
-Options:
+Select the correct answer from the code given below:
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 
@@ -4247,258 +3949,173 @@ C. (A) is true, but (R) is false
 D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
-
 <summary>Show answer</summary>
 
-**Ans: A** — both true; the 1976 Act does not explain why Article 23 was written that way.
+**Ans: A.** Both true; R is a separate tribal-leadership tag, not the explanation of the Adivasi vocabulary fact.
+
+**A/R logic:** Two true tribal tags without forced cause–effect.
 
 </details>
 
 ---
 
-**Q41.** Consider the following statements:
+**Q25.** With reference to pre-1857 match extras, which of the following statements is/are correct?
 
-1. Swami Sahajanand Saraswati is associated with the later All India Kisan Sabha stream.
+1. Velu Thampi is tagged to Travancore.
+2. Gadakari rising is tagged to Kolhapur, 1844.
+3. Vasudev Balwant Phadke led the Santhal Hul of 1855–56.
 
-2. He formed the United Provinces Kisan Sabha in 1918.
+Select the correct answer from the code given below:
 
-A. Only 1
 
-B. Only 2
+A. 1 and 3 only
 
-C. Both 1 and 2
+B. 2 and 3 only
 
-D. Neither 1 nor 2
+C. 1 and 2 only
+
+D. 1, 2 and 3
 
 <details>
-
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Phadke = Ramosi Krishak Jatha stream — not Sidhu–Kanhu.
 
 </details>
 
 ---
 
-**Q42.** Arrange the following in chronological order.
+**Q26.** Which one of the following correctly states Cause → Result for Deccan Riots?
 
-1. AITUC
 
-2. ILO Washington labour representation by N.M. Joshi
+A. Cause: indigo dadan; Result: Indigo Commission 1860
 
-3. INTUC
+B. Cause: sahukar grip; Result: Deccan Agriculturists’ Relief Act, 1879
 
-4. BMS
+C. Cause: tinkathia; Result: Bardoli Pact 1928
 
-A. 2, 1, 3, 4
-
-B. 1, 2, 3, 4
-
-C. 2, 1, 4, 3
-
-D. 1, 2, 4, 3
+D. Cause: jagirdari in Hyderabad; Result: Pabna leagues 1873
 
 <details>
-
 <summary>Show answer</summary>
 
-**Ans: A** — 1919 â†’ 1920 â†’ 1947 â†’ 1955.
+**Ans: B.** Deccan Cause–Result card kept distinct from indigo/Pabna/Telangana.
+
+**Logic:** Application of CCR filter.
 
 </details>
 
 ---
 
-**Q43.** Which of the following pairs are NOT correctly matched?
+**Q27.** With reference to Eka and Tebhaga, which of the following statements is/are correct?
 
-1. Sylhet Revolt — Radharam
+1. Eka (1921–22) stressed rent receipts and oath-bound unity in Hardoi–Bahraich–Sitapur.
+2. Tebhaga demanded a two-thirds share for Bengal sharecroppers.
+3. Eka is only a 1946 Bengal renaming of Tebhaga.
 
-2. Malabar Revolt — Jagabandhu Bidyadhar
+Select the correct answer from the code given below:
 
-3. Paika Revolt — Edachena Kungan
 
-A. Only 1
+A. 1 and 3 only
 
-B. Only 2 and 3
+B. 2 and 3 only
 
-C. Only 3
+C. 1 and 2 only
 
-D. Only 1 and 2
+D. 1, 2 and 3
 
 <details>
-
 <summary>Show answer</summary>
 
-**Ans: B** — Jagabandhu = Paika; Edachena = Malabar.
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Awadh rent-receipt oath ≠ Bengal sharecrop share.
 
 </details>
 
 ---
 
-**Q44.** With reference to Janjatiya Gaurav Diwas, which of the following statements is/are correct?
+**Q28.** Match List-I with List-II and select the correct answer from the code given below:
 
-1. It is observed on 15 November.
+| List-I | List-II |
+|--------|---------|
+| A. Wahabi | 1. Haji Shariatullah / Dudu Miyan |
+| B. Faraizi | 2. Sayyid Ahmad of Rae Bareli |
+| C. Khairwar | 3. Bhagirath Manjhi, 1874 |
+| D. Surendra Sai | 4. Sambalpur |
 
-2. The date marks Birsa Munda's birth anniversary.
+*Row order is not the answer code.*
 
-A. Only 1
 
-B. Only 2
+A. A-2, B-1, C-3, D-4
 
-C. Both 1 and 2
+B. A-1, B-2, C-3, D-4
 
-D. Neither 1 nor 2
+C. A-2, B-1, C-4, D-3
+
+D. A-2, B-3, C-1, D-4
 
 <details>
-
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: A.** Wahabi–Sayyid Ahmad; Faraizi–Shariatullah/Dudu; Khairwar–Bhagirath; Surendra Sai–Sambalpur.
+
+**Logic:** Socio-religious edge + tribal/peasant extras.
 
 </details>
 
 ---
 
-**Q45.** Consider the following statements:
+**Q29.** With reference to Champaran and Kheda, which of the following statements is/are correct?
 
-1. Kuka (Namdhari) action used in the 2025 chronology sits after Indigo and before Pabna.
+1. Champaran attacked the tinkathia indigo system.
+2. Kheda was a no-revenue satyagraha in crop-failure conditions.
+3. Both were led as armed anti-jagirdar dalams under the Nizam.
 
-2. Pabna Revolt began in the 1760s.
+Select the correct answer from the code given below:
 
-A. Only 1
 
-B. Only 2
+A. 1 and 3 only
 
-C. Both 1 and 2
+B. 2 and 3 only
 
-D. Neither 1 nor 2
+C. 1 and 2 only
+
+D. 1, 2 and 3
 
 <details>
-
 <summary>Show answer</summary>
 
-**Ans: A** — Pabna = **1873–85**; 1760s = Sanyasi.
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Armed anti-jagirdar = Telangana — not Champaran/Kheda.
 
 </details>
 
 ---
 
-**Q46.** With reference to the Telangana Peasant Movement, which of the following statements is/are correct?
+**Q30.** Which of the following pairs is NOT correctly matched?
 
-1. It was organised by the Andhra Mahasabha and, later, the CPI against *deshmukhs* and *vetti* in the Nizam's Hyderabad State.
 
-2. It ended immediately after the Police Action ("Operation Polo") of September 1948.
+A. Peasant revolt — rent / indigo / zamindar among settled cultivators
 
-A. Only 1
+B. Tribal revolt — land–forest–diku in tribal belts
 
-B. Only 2
+C. Moplah 1921 — Gujarat no-tax satyagraha under Patel
 
-C. Both 1 and 2
-
-D. Neither 1 nor 2
+D. Bardoli 1928 — Gujarat no-tax satyagraha under Patel
 
 <details>
-
 <summary>Show answer</summary>
 
-**Ans: A** — the armed struggle continued after 1948 and closed only on the **CPI's withdrawal in October 1951**.
+**Ans: C.** Moplah = Malabar tenants (violent phase); Bardoli = Patel’s Gujarat satyagraha.
+
+**Logic:** Moplah ↔ Bardoli confused pair.
 
 </details>
 
----
-
-**Q47.** Consider the following statements:
-
-1. The Razakars were a private militia of the Nizam of Hyderabad under Kasim Rizvi.
-
-2. The Telangana Peasant Movement redistributed close to a million acres of landlord land in its "liberated" villages.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q48.** With reference to the Oudh (Awadh) Kisan Sabha, which of the following statements is/are correct?
-
-1. It was founded in October 1920 at Pratapgarh under Baba Ramchandra.
-
-2. It is the same body as the 1918 United Provinces Kisan Sabha of Indra Narayan Dwivedi.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: A** — the 1918 and 1920 Sabhas are two separate Awadh-belt bodies.
-
-</details>
-
----
-
-**Q49.** Arrange the following Awadh-belt peasant bodies in chronological order.
-
-1. Eka Movement
-
-2. United Provinces Kisan Sabha
-
-3. Oudh Kisan Sabha
-
-A. 2, 3, 1
-
-B. 3, 2, 1
-
-C. 2, 1, 3
-
-D. 1, 2, 3
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: A** — 1918 â†’ October 1920 â†’ 1921–22.
-
-</details>
-
----
-
-**Q50.** Which of the following pairs is NOT correctly matched?
-
-A. Telangana Peasant Movement — closed 1951
-
-B. Tebhaga Movement — Bengal sharecroppers
-
-C. Oudh Kisan Sabha — Madari Pasi
-
-D. AITUC — 1920
-
-<details>
-
-<summary>Show answer</summary>
-
-**Ans: C** — Oudh Kisan Sabha = **Baba Ramchandra**; Madari Pasi = Eka.
-
-</details>
-
----
 
 ## Common Traps — Don't Fall For These
 

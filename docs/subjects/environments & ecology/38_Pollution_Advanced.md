@@ -937,309 +937,595 @@ D. Only Ramsar wetland birds
 ---
 
 
-## Practice Zone
+## Practice Zone — UPPCS Format Drill
 
-**Q1.** Lichens grow well in polluted areas — True/False fact:
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-Options: A. False (they are sensitive indicators) B. True always C. Only in oceans D. Only for noise
+**Q1.** With reference to air pollutants, which of the following statements is/are correct?
 
-<details><summary>Show answer</summary>
+1. Primary — emitted directly (SO₂, PM, CO, NOx, lead).
+2. Secondary — form in air (O₃, PAN, photochemical smog products).
+3. CO₂ and CH₄ are India’s AQI eight pollutants.
 
-**Ans: A**
-
-</details>
-
-**Q2.** Secondary pollutant among these:
-
-Options: A. Smog B. Fly ash C. CO D. Direct stack SO₂ only as “never secondary”
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q3.** Photochemical smog always contains:
-
-Options: A. Ozone B. Only phosphorus C. Only aluminium D. Only helium
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q4.** BOD is a criterion for:
-
-Options: A. Aquatic pollution assay B. Blood oxygen only C. Forest canopy only D. High-altitude camps only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q5.** Groundwater Quality Report 2024 by:
-
-Options: A. CGWB B. CPCB only C. RBI D. WTO
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q6.** Fly ash pollution is caused by:
-
-Options: A. Thermal power plant B. Only oil refining C. Only mining gold D. Only fertilizer shops
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q7.** Not biodegradable among these:
-
-Options: A. Pesticide B. Urine C. Faecal matter D. Domestic waste
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q8.** Second most noise-polluted city (UNEP Frontier 2022):
-
-Options: A. Moradabad B. Kota C. Indore D. Patna
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q9.** Natural arsenic water contamination classic country:
-
-Options: A. Bangladesh B. Bhutan C. Sri Lanka only D. Iceland only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q10.** NCAP launched in:
-
-Options: A. 2019 B. 1974 C. 1987 D. 1730
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q11.** AQI 401–500 means:
-
-Options: A. Severe B. Good C. Only satisfactory D. Only silence zone
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q12.** Smog is essentially linked to:
-
-Options: A. Oxides of nitrogen and sulphur B. Only helium C. Only argon D. Only O₂ and N₂ alone
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q13.** Residential daytime noise fact (CPCB):
-
-Options: A. 55 dB B. 5 dB C. 150 dB D. 0 dB
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q14.** Silence zone daytime fact:
-
-Options: A. 50 dB B. 75 dB C. 100 dB D. 200 dB
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q15.** SUP ban notification year commonly locked:
-
-Options: A. 2022 B. 1971 C. 1987 D. 1997
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q16.** Microplastics are:
-
-Options: A. < 5 mm B. > 5 km only C. Only gases D. Only noble metals
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q17.** ~80% marine pollution comes from:
-
-Options: A. Land B. Only mid-ocean volcanoes C. Only lunar dust D. Only stratospheric ozone
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q18.** Kanpur tannery metal fact:
-
-Options: A. Chromium B. Only helium C. Only argon D. Only ozone hole gas
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q19.** BS-VI nationwide from:
-
-Options: A. April 2020 B. 1950 C. 1730 D. 1485
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q20.** Drinking water BIS code:
-
-Options: A. IS 10500 B. IS 1 only C. Montreal Annex only D. CITES Appendix only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q21.** Assertion (A): Lichens indicate pollution.
-Reason (R): They grow best in highly polluted cities.
-
-Options: A. Both true; R explains A B. Both true; R does not explain A C. A true, R false D. Both false
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q22.** Eutrophication is driven mainly by:
-
-Options: A. Excess N and P B. Only argon increase C. Only helium balloons D. Only ozone Day celebrations
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q23.** Primary pollutant among these:
-
-Options: A. Fly ash B. Photochemical ozone formed in air C. PAN formed in smog D. Acid mist formed later
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q24.** Water Act year:
-
-Options: A. 1974 B. 1981 C. 1986 only D. 2019 only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q25.** Indoor air major rural source:
-
-Options: A. Biomass chulha smoke B. Only stratospheric ozone C. Only CGWB reports D. Only MARPOL annexes
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q26.** MARPOL relates to:
-
-Options: A. Ship / marine pollution B. Only tiger reserves C. Only Ramsar birds D. Only AQI colours
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q27.** EPR in plastics means:
-
-Options: A. Extended Producer Responsibility B. Only Empty Park Rules C. Only Earth Pressure Rating D. Only Emission Permit for Rhinos
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q28.** Clean river DO fact (approx.):
-
-Options: A. > 6 mg/L B. < 0.1 mg/L always C. Exactly 100 mg/L only D. Zero oxygen required
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q29.** Photochemical smog needs:
-
-Options: A. Sunlight + NOx + VOCs B. Only darkness and helium C. Only pure argon rooms D. Only fluoride toothpaste
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q30.** Correct set:
-
-Options: A. Smog secondary; BOD=aquatic assay; CGWB=groundwater report; Moradabad=noise; pesticide≠biodegradable B. Fly ash secondary; BOD=blood test; CPCB=groundwater report only C. Lichens thrive in pollution; SUP ban 1971 D. NCAP=ozone treaty
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Only 1 and 2.
+
+**Logic:** AQI eight exclude CO₂/CH₄.
 
 </details>
+
+**Q2.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. London smog | 1. NOx + VOCs + sunlight → O₃ + PAN |
+| B. Photochemical smog | 2. SO₂ + smoke |
+| C. PAN | 3. Strong eye irritant |
+
+Code:
+
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A-2, B-1, C-3.
+
+**Logic:** Smog types + PAN.
+
+</details>
+
+**Q3.** Which of the following pairs is/are correctly matched?
+
+1. India’s AQI — eight pollutants including PM2.5, O₃, NH₃, Pb
+2. Good 0–50 to Severe 401–500 bands teaching
+3. Lichens grow best in badly polluted air
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Lichens are indicators — poor in dirty air.
+
+</details>
+
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): NCAP (2019) targets non-attainment cities with ~20–30% particulate cut goal.
+
+Reason (R): SAMEER-type apps replace NCAP city action plans.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true, R false.
+
+**A/R logic:** Apps warn — do not replace NCAP plans.
+
+</details>
+
+**Q5.** With reference to water quality metrics, which of the following statements is/are correct?
+
+1. High BOD = worse quality.
+2. COD ≥ BOD usually.
+3. Clean water often DO >~6 mg/L and BOD <~3 mg/L teaching.
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** All three.
+
+**Logic:** BOD/COD/DO.
+
+</details>
+
+**Q6.** Arrange eutrophication chain:
+
+A. Air-only SO₂ fog
+B. Nutrient N/P overload → algal bloom → DO crash
+C. Only Dobson Unit fall
+D. Only catalytic converter failure
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** N/P → bloom → DO crash.
+
+**Logic:** Water — not air.
+
+</details>
+
+**Q7.** Which of the following pairs is/are NOT correctly matched?
+
+1. Knock-knee — fluoride
+2. Black Foot — arsenic
+3. Minamata — fluoride
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only pair 3 is not correctly matched.
+
+**Logic:** Minamata = mercury.
+
+</details>
+
+**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): CGWB issues the groundwater quality report.
+
+Reason (R): CPCB is identical to CGWB.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true, R false.
+
+**A/R logic:** CGWB ≠ CPCB.
+
+</details>
+
+**Q9.** With reference to plastics, which of the following statements is/are correct?
+
+1. PWM Rules 2016; SUP ban push 2022.
+2. EPR = producer responsibility.
+3. ~80% of marine pollution from land; MARPOL for ships.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three.
+
+**Logic:** Plastic + marine.
+
+</details>
+
+**Q10.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. CO poisoning | 1. Top indoor pollutant teaching |
+| B. Radon | 2. Carboxyhaemoglobin (~200–300× vs O₂) |
+| C. Fly ash | 3. Thermal-power; bricks/cement use |
+
+Code:
+
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** A-2, B-1, C-3.
+
+**Logic:** CO / radon / fly ash.
+
+</details>
+
+**Q11.** Arrange daytime noise standards idea:
+
+A. All zones 100 dB
+B. Silence 50; Residential 55; Commercial 65; Industrial 75
+C. Only industrial 20 dB
+D. No standards taught
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** 50/55/65/75.
+
+**Logic:** Noise bands.
+
+</details>
+
+**Q12.** With reference to disasters/tools, which of the following statements is/are correct?
+
+1. Bhopal MIC Dec 1984; Chernobyl 1986 pair.
+2. Oilzapper (TERI) for oily waste bioremediation.
+3. Bag filter identical to cyclone divider always.
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Bag filter ≠ cyclone.
+
+</details>
+
+**Q13.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Photochemical smog is not a simple SO₂–smoke fog.
+
+Reason (R): Ozone chemistry (NOx/VOCs/sunlight) is the key.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R explains A.
+
+**A/R logic:** Photochemical ≠ London smog.
+
+</details>
+
+**Q14.** Which one of the following correctly states BS-VI start teaching?
+
+A. Only Montreal ODS
+B. Only Euro-I forever
+C. Only 1950 coal norms
+D. India leapfrogged to BS-VI (2020 neighbourhood)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** BS-VI ~2020.
+
+**Logic:** Fuel/vehicle norms.
+
+</details>
+
+**Q15.** How many of the following disease–toxin pairs are correct?
+
+Arsenic–Gangetic/Bangladesh; Fluoride–knock-knee; Mercury–Minamata
+
+A. All three
+B. Only two
+C. Only one
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** All three.
+
+**Logic:** Classic toxin map.
+
+</details>
+
+**Q16.** With reference to Ganga/Damodar, which of the following statements is/are correct?
+
+1. Damodar = biological desert teaching.
+2. Ganga BOD peak classically Kanpur–Allahabad.
+3. Leather industry = high chemical pollution.
+
+A. 1 and 2 only
+B. 1, 2 and 3
+C. 1 and 3 only
+D. 2 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** All three.
+
+**Logic:** River pollution colour.
+
+</details>
+
+**Q17.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. SAFAR | 1. Delhi units teaching |
+| B. WAYU | 2. IITM AQ + weather forecast |
+| C. Green muffler | 3. Tree belts for noise |
+
+Code:
+
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A-2, B-1, C-3.
+
+**Logic:** SAFAR/WAYU/muffler.
+
+</details>
+
+**Q18.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): H-CNG reduces CO/HC/CO₂ vs CNG but does not eliminate CO.
+
+Reason (R): Up to ~1/5 H₂ by volume teaching; not cheaper than CNG.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; blend share/cost does not itself explain residual CO.
+
+**A/R logic:** Benefit vs residual CO.
+
+</details>
+
+**Q19.** Which of the following pairs is/are correctly matched?
+
+1. CCAC — methane, black carbon, HFCs focus
+2. Asian Brown Cloud — South Asia association
+3. CCAC — G20-only initiative
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Not G20-only.
+
+</details>
+
+**Q20.** Arrange catalytic converter metals:
+
+A. Pt/Pd/Rh neighbourhood
+B. Only Na/K
+C. Only Pb/Hg
+D. Only argon
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Platinum group.
+
+**Logic:** Converter catalysts.
+
+</details>
+
+**Q21.** With reference to indoor air, which of the following statements is/are correct?
+
+1. Solid cooking fuels, tobacco, poor ventilation, radon.
+2. Radon top indoor pollutant teaching.
+3. Indoor air pollution is only outdoor AQI copied indoors.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Distinct indoor drivers.
+
+</details>
+
+**Q22.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Many pesticides are not readily biodegradable.
+
+Reason (R): That persistence is a frequent true statement in papers.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R notes why the fact is tested.
+
+**A/R logic:** Persistence fact.
+
+</details>
+
+**Q23.** How many of the following SWM/electronics facts are correct?
+
+SWM Rules 2016 landfill criteria; R2 Code responsible e-recycling
+
+A. Only one
+B. None
+C. Both
+D. Three including Montreal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both.
+
+**Logic:** Waste rules pair.
+
+</details>
+
+**Q24.** Which one of the following correctly states Moradabad noise teaching?
+
+A. Only LDN capital
+B. Silence zone only at 0 dB
+C. Only ozone hole capital
+D. Flagged among world’s noisiest in UNEP Frontier reporting
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Noisiest-city flag.
+
+**Logic:** UP colour.
+
+</details>
+
+**Q25.** With reference to geoengineering teaching, which of the following statements is/are correct?
+
+1. Cirrus thinning and sulphate aerosol injection aim at cooling/offsetting warming.
+2. Not cyclone control tools.
+3. Identical to BS-VI fuel norms.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Not fuel norms.
+
+</details>
+
+**Q26.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. IMO HQ | 1. Mould toxins on grain |
+| B. Aflatoxins | 2. London |
+| C. Steel industry | 3. CO, CO₂, SOx, NOx |
+
+Code:
+
+A. A-1, B-2, C-3
+B. A-2, B-1, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** A-2, B-1, C-3.
+
+**Logic:** IMO / aflatoxin / steel.
+
+</details>
+
+**Q27.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Ocean acidification harms calcifiers.
+
+Reason (R): About 80% of marine pollution comes from land.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; land-share statistic does not explain acidification chemistry.
+
+**A/R logic:** Two ocean facts.
+
+</details>
+
+**Q28.** Arrange Kanpur chromium neighbourhood:
+
+A. Only Himalayan glaciers
+B. Only Dobson Units
+C. Heavy-metal teaching around Kanpur plus Pb/Cd/Hg elsewhere
+D. Only Earth Hour
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Cr–Kanpur + other metals.
+
+**Logic:** Heavy-metal map.
+
+</details>
+
+**Q29.** With reference to bioremediation, which of the following statements is/are correct?
+
+1. Cleans via microbes.
+2. Cd/Pb not readily treated teaching.
+3. Oilzapper for oily waste (TERI).
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three.
+
+**Logic:** Bioremediation set.
+
+</details>
+
+**Q30.** Which one of the following correctly states India’s AQI pollutant set idea?
+
+A. Eight pollutants — not CO₂/CH₄
+B. Only CO₂ and CH₄
+C. Only argon and helium
+D. Only BOD and COD
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Eight criteria pollutants.
+
+**Logic:** AQI composition.
+
+</details>
+
+---
 
 ## Common Traps
 

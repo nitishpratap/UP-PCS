@@ -2132,1384 +2132,670 @@ D. 2 4 1 3
 
 ---
 
-## Practice Zone — UPPCS Format Questions
+## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden** — click **Show answer** under each question to reveal.
-> **Format mix:** 65 questions — Match List | multi-statement | Assertion–Reason | NOT correctly matched | direct recall (PYQ + standard gaps)
+> **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D
 
-**Q1.** Crop predominantly grown under plantation agriculture:
+**Q1.** With reference to plantation agriculture, which of the following statements is/are correct?
 
-**Options:**
+1. In classic MCQs the plantation crop example is tea, not wheat/rice/maize.
+2. Plantation implies estate, capital, monoculture, hired labour and export orientation.
+3. Jhum is a plantation estate system of north-east India.
 
-A. Wheat
+Select the correct answer from the code given below:
 
-B. Tea
-
-C. Rice
-
-D. Maize
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q2.** Coffee producers 2016, descending:
-
-A. Colombia B. Vietnam C. Brazil D. Indonesia
-
-**Options:**
-
-A. D, C, B, A
-
-B. C, B, A, D
-
-C. B, D, C, A
-
-D. C, A, B, D
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: C.** Only 1 and 2 are correct.
+
+**Logic:** Jhum is shifting cultivation, not a tea-estate plantation.
 
 </details>
 
----
+**Q2.** Consider the following statements about coffee:
 
-**Q3.** NOT a major cocoa producer:
+1. A commonly taught 2016 order is Brazil > Vietnam > Colombia > Indonesia.
+2. Brazil is mainly arabica on Terra Roxa; Vietnam supplies bulk robusta.
+3. Vietnam is always placed first in that year-frozen teaching order.
 
-**Options:**
+Which of the statements given above is/are correct?
 
-A. Latvia
-
-B. Cameroon
-
-C. Ghana
-
-D. Ivory Coast
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** Brazil leads the 2016 teaching order; Vietnam is second.
 
 </details>
 
----
+**Q3.** Match List-I with List-II and select the correct answer using the code given below the lists:
 
-**Q4.** Kinta Valley (Malaysia) is famous for:
-
-**Options:**
-
-A. Rubber
-
-B. Tea
-
-C. Tin
-
-D. Coffee
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q5.** Correctly matched:
-
-**Options:**
-
-A. Gujarat — Tea
-
-B. Uttar Pradesh — Jute
-
-C. Kerala — Rubber
-
-D. Assam — Wheat
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q6.** Philippines coconut and sugarcane development is credited to:
-
-**Options:**
-
-A. French
-
-B. Britishers
-
-C. Hollanders
-
-D. Spanish and Americans
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q7.** World citrus production is well developed in:
-
-**Options:**
-
-A. Kangra–Dhauladhar
-
-B. Pir Panjal–Himadri
-
-C. Mediterranean regions
-
-D. Equatorial regions
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q8.** Match List-I with List-II:
-
-| List-I (Name) | List-II (Region) |
-|---------------|------------------|
+| List-I (Shifting name) | List-II (Region) |
+|-------------------------|------------------|
 | A. Jhum | 1. Mexico |
 | B. Ladang | 2. NE India |
-| C. Milpa | 3. Brazil |
-| D. Roca | 4. Malaysia |
+| C. Milpa | 3. Malaysia |
+| D. Roca | 4. Brazil |
 
-**Options:**
+Code:
 
-A. 2 4 1 3
-
-B. 2 1 4 3
-
-C. 4 2 1 3
-
-D. 2 4 3 1
+A. A-2, B-1, C-3, D-4
+B. A-3, B-2, C-1, D-4
+C. A-2, B-3, C-1, D-4
+D. A-4, B-3, C-1, D-2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: C.** Jhum–NE India; Ladang–Malaysia; Milpa–Mexico; Roca–Brazil.
+
+**Logic:** Chena = Sri Lanka; Caingin = Philippines — do not swap Ladang/Milpa.
 
 </details>
 
----
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Q9.** Assertion (A): Tea is a plantation crop.
+Assertion (A): World citrus belts are classically Mediterranean.
 
-Reason (R): Tea is a short-season zaid melon of sandy deserts.
+Reason (R): Five Mediterranean west coasts near about 30–45° carry citrus / vine / olive.
 
-**Options:**
+Select the correct answer from the code given below:
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
 B. (A) is false, but (R) is true
-
 C. (A) is true, but (R) is false
-
 D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: D.** Both true and R explains A.
+
+**A/R logic:** Mediterranean winter-rain west coasts underpin the citrus teaching belt.
 
 </details>
 
----
+**Q5.** Which of the following pairs is/are **NOT** correctly matched?
 
-**Q10.** Vietnam’s coffee role is mainly:
+1. India’s rubber fact — Kerala
+2. Kinta Valley — rubber of Malaysia
+3. Cocoa majors — Côte d’Ivoire, Ghana, Cameroon
 
-**Options:**
-
-A. World #1 arabica, ahead of Brazil
-
-B. Large **robusta** exporter, #2 in the 2016 fact
-
-C. Only wild Ethiopian coffee
-
-D. A Mediterranean citrus estate
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q11.** Hevea rubber originated in:
-
-**Options:**
-
-A. Kerala
-
-B. Malaysia
-
-C. Amazon basin
-
-D. Ghana
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Production later shifted to SE Asia.
-
-</details>
-
----
-
-**Q12.** Which pair is **NOT** correctly matched?
-
-**Options:**
-
-A. Chena — Sri Lanka
-
-B. Caingin — Philippines
-
-C. Masole — Congo
-
-D. Ladang — Mexico
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Ladang = Malaysia. Mexico = milpa.
-
-</details>
-
----
-
-**Q13.** Intensive subsistence wet-rice is typical of:
-
-**Options:**
-
-A. Canadian Prairie
-
-B. Monsoon Asia
-
-C. Sahara oasis only
-
-D. Tundra
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q14.** Côte d’Ivoire is the classic world leader in:
-
-**Options:**
-
-A. Tea
-
-B. Wheat
-
-C. Cocoa
-
-D. Sugar beet
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q15.** India’s leading rubber state is:
-
-**Options:**
-
-A. Assam
-
-B. Gujarat
-
-C. Kerala
-
-D. Punjab
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q16.** How many of the following are plantation crops?
-
-1. Tea 2. Wheat 3. Rubber 4. Maize
-
-**Options:**
-
-A. Only one
-
-B. Only two
-
-C. Only three
-
-D. All four
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Tea and rubber.
-
-</details>
-
----
-
-**Q17.** Oil-palm production is concentrated in:
-
-**Options:**
-
-A. Latvia and Estonia
-
-B. Indonesia and Malaysia
-
-C. Canada and UK
-
-D. Egypt and Libya
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q18.** Shifting cultivation needs:
-
-**Options:**
-
-A. High density + tiny plots only
-
-B. Slash–burn, short cropping, then fallow
-
-C. Greenhouse hydroponics
-
-D. Permanent wet-rice terraces only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q19.** Colombia in the 2016 coffee list stands:
-
-**Options:**
-
-A. First
-
-B. Second
-
-C. Third (after Brazil and Vietnam)
-
-D. Last among the four, after Indonesia
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q20.** Darjeeling is famous for:
-
-**Options:**
-
-A. Rubber tapping
-
-B. Hill tea (GI)
-
-C. Cocoa fermentaries
-
-D. Prairie wheat
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q21.** Which is **NOT** a feature of plantation agriculture?
-
-**Options:**
-
-A. Estate organisation
-
-B. Export orientation
-
-C. Family-only jhum on a 0.2 ha plot
-
-D. Tropical climate
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q22.** Match List-I with List-II:
-
-| List-I | List-II |
-|--------|---------|
-| A. Tea volume India | 1. Kerala |
-| B. Coffee India | 2. Assam |
-| C. Rubber India | 3. Karnataka |
-| D. Jute India | 4. West Bengal |
-
-**Options:**
-
-A. 2 3 1 4
-
-B. 2 1 3 4
-
-C. 3 2 1 4
-
-D. 2 3 4 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q23.** Extensive commercial wheat is typical of:
-
-**Options:**
-
-A. Kerala gardens
-
-B. Canadian Prairies / Pampas
-
-C. Congo jhum
-
-D. Nilgiri tea estates
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q24.** Consider the following:
-
-1. Cocoa originated in the Amazon.
-2. Today’s bulk cocoa crop is West African.
-
-**Options:**
+Select the correct answer from the code given below:
 
 A. 1 only
-
 B. 2 only
-
-C. Both
-
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q25.** Mixed farming means:
-
-**Options:**
-
-A. Only plantation monoculture
-
-B. Crops and livestock on the same farm
-
-C. Only nomadic camel herding
-
-D. Only slash-and-burn
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q26.** Which is correctly matched?
-
-**Options:**
-
-A. Tamrai — Thailand
-
-B. Roca — Malaysia
-
-C. Milpa — Sri Lanka
-
-D. Jhum — Brazil
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q27.** Sugar beet’s commercial home is:
-
-**Options:**
-
-A. Amazon selva
-
-B. Temperate Europe
-
-C. Kerala coast
-
-D. Sahara erg
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q28.** Brazil’s usual world #1 among these is:
-
-**Options:**
-
-A. Tea (ahead of China)
-
-B. Sugarcane (and still coffee #1 in the 2016 fact)
-
-C. Jute (ahead of Bangladesh)
-
-D. Olive oil (ahead of Spain)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q29.** Mediterranean agriculture typically includes:
-
-**Options:**
-
-A. Wet-rice paddies as the staple export
-
-B. Citrus, vine, olive, winter wheat
-
-C. Only jhum millets
-
-D. Only tundra reindeer
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q30.** Ghana is a major producer of:
-
-**Options:**
-
-A. Cocoa
-
-B. Wheat (Prairie type)
-
-C. Sugar beet
-
-D. Tea (Darjeeling type)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q31.** Which country is **least** associated with plantation rubber?
-
-**Options:**
-
-A. Thailand
-
-B. Indonesia
-
-C. Canada
-
-D. Malaysia
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q32.** Assertion (A): Shifting cultivation can damage forest if fallows become too short.
-
-Reason (R): It is identical to capital-intensive tea estates.
-
-**Options:**
-
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. (A) is true, but (R) is false
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q33.** Terra Roxa soil is classically tied to:
-
-**Options:**
-
-A. Brazilian coffee highlands
-
-B. Latvian cocoa
-
-C. Canadian spring wheat only
-
-D. Nilgiri rubber
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q34.** Arrange coffee 2016: Brazil, Vietnam, Colombia, Indonesia — that order is:
-
-**Options:**
-
-A. Ascending
-
-B. Descending production
-
-C. West-to-east location
-
-D. Alphabetical
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q35.** Tamil Nadu’s plantation niche (with KA/KL) is mainly:
-
-**Options:**
-
-A. Prairie wheat
-
-B. Coffee / tea on the southern hills
-
-C. Cocoa of Latvia type
-
-D. Sugar beet
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q36.** Which of the following is/are correct about rubber?
-
-1. Natural rubber tree is native to the Amazon.
-2. Kinta Valley is Malaysia’s main rubber-name PYQ.
-
-**Options:**
-
-A. 1 only
-
-B. 2 only
-
-C. Both
-
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Kinta = **tin**.
-
-</details>
-
----
-
-**Q37.** How many of the following are Mediterranean west-coast agriculture patches?
-
-1. California 2. Central Chile 3. SW Australia 4. Cape of South Africa
-
-**Options:**
-
-A. Only two
-
-B. Only three
-
-C. All four
-
-D. Only one
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Plus the Mediterranean basin itself.
-
-</details>
-
----
-
-**Q38.** Which statement about world rice is correct?
-
-**Options:**
-
-A. China is always the largest rice **exporter**
-
-B. IRRI is headquartered in Los Baños, Philippines
-
-C. Japonica is the only type grown in India
-
-D. Rice needs frost at ripening like spring wheat
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q39.** Match List-I with List-II:
-
-| List-I | List-II |
-|--------|---------|
-| A. Long-staple cotton | 1. Iowa–Illinois |
-| B. Corn Belt | 2. Egypt / Sudan |
-| C. Merino wool | 3. Amazon origin |
-| D. Hevea rubber | 4. Australia |
-
-**Options:**
-
-A. 2 1 4 3
-
-B. 1 2 4 3
-
-C. 2 1 3 4
-
-D. 2 4 1 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q40.** Black tea differs from green tea because black tea is:
-
-**Options:**
-
-A. Grown only in deserts
-
-B. Fully **fermented**
-
-C. A citrus fruit
-
-D. Unplucked rubber latex
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q41.** Consider the following statements:
-
-1. China and India are huge **wheat producers**.
-2. Classic **wheat exporters** include USA, Canada, France, Australia, Argentina, Russia.
-
-**Options:**
-
-A. 1 only
-
-B. 2 only
-
-C. Both
-
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q42.** Which pair is **NOT** correctly matched?
-
-**Options:**
-
-A. Olive — Spain
-
-B. Oil palm — Indonesia
-
-C. Sugar beet — Germany
-
-D. Jute — Canada
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Jute = India + Bangladesh.
-
-</details>
-
----
-
-**Q43.** Norman Borlaug’s Nobel Prize was in:
-
-**Options:**
-
-A. Agriculture
-
-B. Economics
-
-C. Medicine
-
-D. Peace
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q44.** FAO headquarters and World Food Day:
-
-**Options:**
-
-A. New York; 26 January
-
-B. Rome; 16 October
-
-C. Geneva; 10 December
-
-D. Paris; 5 June
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q45.** Which is **NOT** correctly matched?
-
-**Options:**
-
-A. Kumari — Western Ghats
-
-B. Podu — Andhra / Odisha
-
-C. Humah — Java
-
-D. Chena — Mexico
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Chena = Sri Lanka. Mexico = milpa.
-
-</details>
-
----
-
-**Q46.** Banana: producer vs exporter trap
-**Options:**
-
-A. India is always the largest banana **exporter**
-
-B. India is a huge **producer**; **Ecuador** is a classic **exporter**
-
-C. Banana is a Prairie wheat crop
-
-D. Latvia leads world banana estates
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q47.** Assertion (A): Arabica coffee prefers highland shade.
-
-Reason (R): Robusta is Vietnam’s bulk type and is hardier at lower altitude.
-
-**Options:**
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-C. (A) is true, but (R) is false
-
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Both true; R describes robusta, it does not *explain* arabica’s highland preference.
-
-</details>
-
----
-
-**Q48.** Soybean export triangle is typically:
-
-**Options:**
-
-A. Latvia–Estonia–Finland
-
-B. USA–Brazil–Argentina
-
-C. Kenya–Sri Lanka–Assam
-
-D. Egypt–Sudan–Yemen
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q49.** Tea plucking fact:
-
-**Options:**
-
-A. Two leaves and a bud
-
-B. Only the tap-root
-
-C. Only ripe coffee cherries
-
-D. Only latex strips
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q50.** Which of the following is/are correct?
-
-1. Livestock ranching on the Pampas is commercial.
-2. Nomadic herding in the Sahara is subsistence.
-
-**Options:**
-
-A. 1 only
-
-B. 2 only
-
-C. Both
-
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-
-**Q51.** Von Thünen’s model mainly explains agricultural land use by:
-
-A. Only Whittlesey’s 13 climate types
-
-B. Distance / transport cost from a central market
-
-C. Only monsoon rainfall totals
-
-D. Only FAO headquarters location
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q52.** In the classic Von Thünen rings, which activity sits nearest the market?
-
-A. Extensive ranching
-
-B. Intensive dairy / vegetables / flowers
-
-C. Only desert nomadism
-
-D. Only coffee robusta estates
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q53.** Which of the following is/are correctly matched?
-
-1. Whittlesey — world agricultural type regions
-2. Von Thünen — isolated-state market rings
-3. Borlaug — Peace Nobel for HYV wheat work
-
-A. 1 and 2 only
-
-B. 2 and 3 only
-
 C. 1 and 3 only
-
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-</details>
-
----
-
-**Q54.** The soybean export triangle is:
-
-A. India–China–Japan only
-
-B. USA–Brazil–Argentina
-
-C. Kenya–Ghana–Latvia
-
-D. Egypt–Sudan–Kerala
+D. 2 and 3 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B.** Only pair 2 is not correctly matched.
+
+**Logic:** Kinta Valley is tin (cassiterite), not rubber.
+
 </details>
 
----
+**Q6.** With reference to sugar crops, which of the following statements is/are correct?
 
-**Q55.** Assertion (A): India is the world’s largest milk producer by volume.
-Reason (R): New Zealand is therefore not a dairy exporter.
+1. Brazil leads world sugarcane among classic options.
+2. Sugar beet belongs to temperate Europe.
+3. Oil palm volume majors are Indonesia and Malaysia; olive majors include Spain, Italy and Greece.
 
-A. Both A and R are true and R explains A
-
-B. Both A and R are true but R does not explain A
-
-C. A is true but R is false
-
-D. A is false but R is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — India = volume; NZ remains a classic **export** dairy centre.
-</details>
-
----
-
-**Q56.** Which crop–climate pair is correctly matched?
-
-A. Olive — equatorial Congo basin
-
-B. Oil palm — Mediterranean Spain only
-
-C. Sugar beet — temperate Europe
-
-D. Cocoa — Latvia
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q57.** Commercial grain farming in Whittlesey’s map is classically linked to:
-
-A. Only Amazon shifting plots
-
-B. Prairies, Pampas, Downs and steppe wheat belts
-
-C. Only West African cocoa estates
-
-D. Only Japanese wet-rice terraces
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q58.** Which statement about rice is/are correct?
-
-1. China and India are usual high-volume producers.
-2. China is always the classic top rice exporter in older notes.
-3. IRRI is at Los Baños, Philippines.
+Select the correct answer from the code given below:
 
 A. 1 and 2 only
-
-B. 1 and 3 only
-
-C. 2 and 3 only
-
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Exporters are often Thailand / Vietnam / India; China largely consumes its crop.
+**Ans: D.** All three are correct.
+
+**Logic:** Do not park beet in Kerala or oil palm as Kerala-only.
+
 </details>
 
----
+**Q7.** Arrange the following systems from labour-intensive wet rice to machine-extensive wheat teaching:
 
-**Q59.** Viticulture means cultivation of:
+1. Extensive commercial grain (Prairie/Pampas)
+2. Intensive subsistence (monsoon wet rice)
+3. Mixed farming (crops + livestock, W Europe / US Midwest)
 
-A. Silk worms
+Select the correct pedagogical sequence intensive → mixed → extensive:
 
-B. Grapes
-
-C. Bees
-
-D. Fish
+A. 1-2-3
+B. 2-3-1
+C. 2-1-3
+D. 3-2-1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B.** Intensive subsistence → mixed farming → extensive commercial grain.
+
+**Logic:** Do not swap intensive monsoon rice with Prairie extensive wheat.
+
 </details>
 
----
+**Q8.** Consider the following statements about tea:
 
-**Q60.** Which shifting-cultivation name is correctly matched?
+1. Black tea is fermented; green tea is not.
+2. The pluck standard is two leaves and a bud.
+3. Tea likes roughly 20–30°C, 150–300 cm rain, slope and acid soil.
 
-A. Milpa — Malaysia
+Which of the statements given above is/are correct?
 
-B. Ladang — Mexico
-
-C. Roca — Brazil
-
-D. Chena — Philippines
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Milpa = Mexico; ladang = Malaysia; chena = Sri Lanka; caingin = Philippines.
+**Ans: D.** All three are correct.
+
+**Logic:** Do not swap black/green fermentation facts.
+
 </details>
 
----
+**Q9.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Q61.** The five Mediterranean agriculture patches do NOT include:
+Assertion (A): China often leads rice/wheat volume but is not the classic exporter in many stems.
 
-A. California
+Reason (R): Producer rank and exporter rank are the same identity in every crop MCQ.
 
-B. Central Chile
+Select the correct answer from the code given below:
 
-C. Cape of South Africa
-
-D. Amazon Basin
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: C.** (A) is true, but (R) is false.
+
+**A/R logic:** Producer ≠ exporter is the trap; R wrongly merges the two.
+
 </details>
 
----
+**Q10.** Match List-I with List-II and select the correct answer using the code given below the lists:
 
-**Q62.** Long-staple cotton is classically associated with:
+| List-I | List-II |
+|--------|--------|
+| A. IRRI | 1. Rome |
+| B. FAO HQ | 2. Philippines |
+| C. Von Thünen | 3. Thirteen world agricultural types |
+| D. Whittlesey | 4. Market-distance rings |
 
-A. Only Assam hills
+Code:
 
-B. Egypt / Sudan (and Sea Island type)
-
-C. Only Latvia
-
-D. Only New Zealand
+A. A-1, B-2, C-3, D-4
+B. A-2, B-1, C-4, D-3
+C. A-2, B-4, C-1, D-3
+D. A-4, B-1, C-2, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B.** IRRI–Philippines; FAO–Rome; Von Thünen–rings; Whittlesey–world types.
+
+**Logic:** Do not merge Von Thünen with Whittlesey.
+
 </details>
 
----
+**Q11.** Which of the following pairs is/are correctly matched?
 
-**Q63.** Mixed farming means:
+1. Soy export triangle — USA–Brazil–Argentina
+2. Milk volume leader — India; dairy-export story — NZ / Netherlands
+3. Maize Corn Belt — USA; long-staple cotton — Egypt/Sudan
 
-A. Only plantation monoculture for export
+Select the correct answer from the code given below:
 
-B. Crops and livestock on the same farm
-
-C. Only shifting slash-and-burn
-
-D. Only nomadic camel herding
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: D.** All three pairs are correct.
+
+**Logic:** Do not crown India as the cheese-shipping king.
+
 </details>
 
----
+**Q12.** With reference to wrong Indian crop–state dumps, which of the following statements is/are correct?
 
-**Q64.** World Food Day is observed on:
+1. Gujarat–tea, UP–jute and Assam–wheat are classic wrong dumps.
+2. Kerala–rubber and Assam tea volume are the right associations.
+3. Mentha facts sit on Rohilkhand in related teaching.
 
-A. 5 June
+Select the correct answer from the code given below:
 
-B. 16 October
-
-C. 22 April
-
-D. 1 December
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — FAO fact; HQ Rome.
+**Ans: D.** All three are correct.
+
+**Logic:** Reject Gujarat tea / UP jute as positive matches.
+
 </details>
 
----
+**Q13.** Which of the following is/are **NOT** correctly matched?
 
-**Q65.** Which pair is NOT correctly matched?
+1. Golden Crescent — Afghanistan–Iran–Pakistan
+2. Fazenda — Sri Lanka shifting cultivation
+3. Mocha — Yemen; Kona — Hawaii
 
-A. Sericulture — silk
+Select the correct answer from the code given below:
 
-B. Apiculture — bees
-
-C. Pisciculture — fish
-
-D. Viticulture — tea estates
+A. 1 only
+B. 2 only
+C. 1 and 3 only
+D. 2 and 3 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Viticulture = **grapes**.
+**Ans: B.** Only pair 2 is not correctly matched.
+
+**Logic:** Fazenda is a Brazil plantation tag; Chena is Sri Lanka shifting.
+
 </details>
 
----
+**Q14.** Arrange coffee producers in the year-frozen 2016 teaching order (highest → lower):
+
+1. Colombia
+2. Brazil
+3. Indonesia
+4. Vietnam
+
+Select the correct answer from the code given below:
+
+A. 2-4-1-3
+B. 4-2-1-3
+C. 2-1-4-3
+D. 2-4-3-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Brazil > Vietnam > Colombia > Indonesia.
+
+**Logic:** Do not put Vietnam first.
+
+</details>
+
+**Q15.** With reference to livestock and fibres, which of the following statements is/are correct?
+
+1. Silk and wool volume often centres on China; Australia is famous for Merino wool.
+2. Banana: India produces heavily; Ecuador is a classic shipper.
+3. Ranching belts include Pampas, Prairie, Veld and Downs.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are correct.
+
+**Logic:** Standard livestock/fibre desk.
+
+</details>
+
+**Q16.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Rubber (Hevea) originated in the Amazon and later spread as a crop in South-East Asia.
+
+Reason (R): Cocoa also originated in the Amazon basin region in teaching maps.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; R does not explain A.
+
+**A/R logic:** Both origin facts are true, but cocoa origin does not explain rubber’s SE Asia crop shift.
+
+</details>
+
+**Q17.** Consider the following statements:
+
+1. Apiculture = bees; viticulture = grapes; olericulture = vegetables.
+2. Philippines cane and coconut history fact points to Spanish and Americans.
+3. Latvia is a major cocoa producer in West Africa teaching lists.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Latvia is the absurd cocoa distractor — reject it.
+
+</details>
+
+**Q18.** Match List-I with List-II and select the correct answer using the code given below the lists:
+
+| List-I (Crop / tag) | List-II (Association) |
+|----------------------|------------------------|
+| A. Podu | 1. Myanmar |
+| B. Chena | 2. Andhra / Odisha |
+| C. Taungya | 3. Sri Lanka |
+| D. Shahtoosh | 4. Chiru |
+
+Code:
+
+A. A-2, B-3, C-1, D-4
+B. A-3, B-2, C-1, D-4
+C. A-2, B-1, C-3, D-4
+D. A-4, B-3, C-1, D-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Podu–Andhra/Odisha; Chena–Sri Lanka; Taungya–Myanmar; Shahtoosh–Chiru.
+
+**Logic:** Keep shifting names and specialty fibre tags unswapped.
+
+</details>
+
+**Q19.** Which one of the following correctly contrasts Von Thünen and Whittlesey?
+
+A. Von Thünen = distance rings from a market; Whittlesey = world agricultural type map.
+B. Both are identical thirteen-type world maps.
+C. Whittlesey = market rings; Von Thünen = Köppen letters.
+D. Von Thünen explains only plantation tea estates.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Rings vs world-type map is the contrast.
+
+**Logic:** Do not merge the two models.
+
+</details>
+
+**Q20.** With reference to Borlaug and institutions, which of the following statements is/are correct?
+
+1. Borlaug’s Nobel was for Peace.
+2. FAO HQ is Rome.
+3. IRRI is headquartered in the Philippines.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are correct.
+
+**Logic:** Standard Green Revolution / FAO desk.
+
+</details>
+
+**Q21.** Which of the following pairs is/are **NOT** correctly matched?
+
+1. Short-staple cotton belt — India–Pakistan teaching pair
+2. Long-staple cotton — Egypt/Sudan
+3. Oil palm majors — Spain and Greece
+
+Select the correct answer from the code given below:
+
+A. 1 only
+B. 3 only
+C. 1 and 2 only
+D. 2 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only pair 3 is not correctly matched.
+
+**Logic:** Oil palm majors are Indonesia and Malaysia; Spain/Greece are olive majors.
+
+</details>
+
+**Q22.** With reference to shifting cultivation, which of the following statements is/are correct?
+
+1. It is humid-tropics slash-and-burn with short crop years and long fallow.
+2. Caingin is associated with the Philippines.
+3. Plantation monoculture is the same as jhum.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Jhum ≠ plantation estate.
+
+</details>
+
+**Q23.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Mixed farming combines crops with livestock in West Europe / US Midwest teaching.
+
+Reason (R): Extensive commercial grain farming on Prairie/Pampas uses huge holdings and machines.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; R does not explain A.
+
+**A/R logic:** Both system definitions are true but describe different systems.
+
+</details>
+
+**Q24.** Consider the following crop leadership tags:
+
+1. Brazil — sugarcane and coffee #1 in common teaching.
+2. China — tea/tobacco/silk volume tags.
+3. Thailand — rubber among SE Asia facts; India — milk + banana + castor volume tags.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are correct.
+
+**Logic:** Use as comparative desk, not as forever USGS ranks.
+
+</details>
+
+**Q25.** Which one of the following is correct about cocoa?
+
+A. Major producers include Côte d’Ivoire, Ghana and Cameroon; origin teaching points to the Amazon.
+B. Latvia is a major West African cocoa exporter.
+C. Cocoa originated in Malaysia’s Kinta Valley.
+D. Brazil has no role in cocoa history teaching.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** West Africa majors + Amazon origin.
+
+**Logic:** Kinta is tin; Latvia is a junk distractor.
+
+</details>
+
+**Q26.** With reference to Mediterranean agriculture, which of the following statements is/are correct?
+
+1. Citrus, vine and olive are signature crops.
+2. It is identical to equatorial plantation rubber belts.
+3. Winter rain and dry summer structure the calendar.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 3 are correct.
+
+**Logic:** Do not merge Med citrus belts with equatorial rubber.
+
+</details>
+
+**Q27.** Match List-I with List-II and select the correct answer using the code given below the lists:
+
+| List-I | List-II |
+|--------|--------|
+| A. Arabica | 1. Vietnam bulk |
+| B. Robusta | 2. Brazil/Colombia highland teaching |
+| C. Black tea | 3. Not fermented |
+| D. Green tea | 4. Fermented |
+
+Code:
+
+A. A-2, B-1, C-4, D-3
+B. A-1, B-2, C-3, D-4
+C. A-2, B-4, C-1, D-3
+D. A-4, B-1, C-2, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Arabica–Brazil/Colombia; Robusta–Vietnam; black fermented; green not fermented.
+
+**Logic:** Swapped arabica/robusta and black/green are classic traps.
+
+</details>
+
+**Q28.** Which of the following pairs is/are correctly matched?
+
+1. USA maize volume teaching — often USA > China > Brazil
+2. Rice exporters in classic stems — often Thailand/Vietnam rather than China alone
+3. Wheat exporters — Russia/USA/Canada appear in exporter lists
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2, 3 and all
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are correct.
+
+**Logic:** Keep volume vs export distinction alive.
+
+</details>
+
+**Q29.** With reference to India’s plantation/fibre map used here, which of the following statements is/are correct?
+
+1. Kerala is the rubber fact.
+2. Assam leads tea volume among Indian states in common teaching.
+3. UP is a classic jute state like West Bengal.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** UP–jute is a wrong dump.
+
+</details>
+
+**Q30.** Consider the following statements about Whittlesey:
+
+1. It maps world agricultural types.
+2. It is the same as Von Thünen’s concentric rings.
+3. Intensive, extensive, plantation, Mediterranean, dairy, ranching and shifting are named systems in related teaching.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 3 are correct.
+
+**Logic:** Whittlesey ≠ Von Thünen.
+
+</details>
 
 ## Common Traps — Don't Fall For These
 

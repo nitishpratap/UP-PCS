@@ -762,13 +762,15 @@ Acts | Articles | Orgs | Dates | Schemes | Reports | UP Focus.
 
 ### 4. Practice Zone
 
-**Minimum 25** UPPCS-format questions; scale up per sizing table. **Format = current UPPCS/RO-ARO paper** (see §Format mix): ≥60% multi-statement/application; must include A/R (standard 4 options), Match List-I/II, chronological order, and NOT-correctly-matched; single-fact recall ≤25%. Hidden answers:
+**Minimum 25** UPPCS-format questions; scale up per sizing table. **Format = current UPPCS/RO-ARO paper** (see §Format mix): ≥60% multi-statement/application; must include A/R (standard 4 options), Match List-I/II, chronological order, and NOT-correctly-matched; single-fact recall ≤25%. Hidden answers — **Ans first, then Logic** (fast self-check while practising):
 
 ```markdown
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — … trap …
+**Ans: C.** [Complete sentence(s).]
+
+**Logic:** [trap / how to eliminate]
 
 </details>
 ```

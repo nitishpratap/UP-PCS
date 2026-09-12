@@ -1647,866 +1647,401 @@ D. Gopal Krishna Gokhale
 
 ## Practice Zone — UPPCS Format Drill
 
-> **58 questions.** Mixes asked PYQ patterns (land revenue, Drain, infrastructure dates) with standard coaching angles that UPPCS has not yet tested (judiciary ladder, ICS, managing agency, plantation economy, famine policy).
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-**Q1.** Assertion (A): The British introduced different land revenue systems in different parts of India.
 
-Reason (R): This created different classes in the Indian peasantry.
+**Q1.** With reference to colonial land-revenue systems, which of the following statements is/are correct?
 
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)
-C. (A) is true but (R) is false
-D. (A) is false but (R) is true
+1. Permanent Settlement (1793) under Cornwallis made the zamindar proprietor in Bengal, Bihar, Orissa and Varanasi.
+2. Ryotwari settled revenue with the ryot mainly in Madras and Bombay.
+3. Mahalwari settled revenue with the individual ryot in Bengal alone.
+
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
+
+B. 1 and 2 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — 2020 Q30 spine.
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Mahalwari = village/mahal unit in NWP/UP, CP, Punjab — not Bengal ryot.
 
 </details>
 
 ---
 
-**Q2.** Match List-I with List-II.
+**Q2.** With reference to land-system architects, which of the following statements is/are correct?
 
-**List-I** A. Permanent Settlement B. Ryotwari C. Mahalwari
-**List-II** 1. Munro 2. Cornwallis 3. Holt Mackenzie
+1. Munro / Read are tagged to Ryotwari.
+2. Holt Mackenzie is tagged to Mahalwari (1822).
+3. Cornwallis designed Ryotwari for Madras.
 
-A. 2 1 3
+Select the correct answer from the code given below:
 
-B. 1 2 3
 
-C. 2 3 1
+A. 1 and 3 only
 
-D. 3 1 2
+B. 2 and 3 only
+
+C. 1, 2 and 3
+
+D. 1 and 2 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Cornwallis = Permanent Settlement — not Ryotwari.
 
 </details>
 
 ---
 
-**Q3.** With reference to Permanent Settlement, which of the following statements is/are correct?
+**Q3.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-1. It was introduced by Cornwallis in 1793 in Bengal, Bihar and Orissa.
-2. The cultivating ryot was declared proprietor of the soil.
 
-A. Only 1
+**Assertion (A):** Drain of Wealth and deindustrialization are two names for the same process.
 
-B. Only 2
+**Reason (R):** Dadabhai Naoroji published Poverty and Un-British Rule in India in 1901.
 
-C. Both 1 and 2
+Select the correct answer from the code given below:
 
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Proprietor = **zamindar**.
-
-</details>
-
----
-
-**Q4.** Which of the following pairs are NOT correctly matched?
-
-1. Ryotwari — Madras and Bombay
-2. Mahalwari — Bengal Presidency
-3. Permanent Settlement — fixed demand
-
-A. Only 2
-
-B. Only 1 and 2
-
-C. Only 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Bengal = Permanent; Mahalwari = NWP/Punjab.
-
-</details>
-
----
-
-**Q5.** *Poverty and Un-British Rule in India* was published in
-
-A. 1900
-
-B. 1901
-
-C. 1902
-
-D. 1854
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 2021 Q139.
-
-</details>
-
----
-
-**Q6.** With reference to Ryotwari, which of the following statements is/are correct?
-
-1. Thomas Munro is its chief Madras architect.
-2. The ryot was full freehold owner and revenue was fixed forever.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Occupant + periodic revision.
-
-</details>
-
----
-
-**Q7.** Arrange: 1. Uniform penny postage 2. First railway 3. Experimental telegraph (Calcutta) 4. Hastings postal start
-
-A. 4, 3, 2, 1
-
-B. 4, 2, 3, 1
-
-C. 4, 3, 1, 2
-
-D. 3, 4, 2, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 1774 → 1851 → 1853 → 1854.
-
-</details>
-
----
-
-**Q8.** Assertion (A): Dadabhai Naoroji developed the Drain of Wealth theory.
-
-Reason (R): Home Charges transferred Indian revenues to Britain without equivalent return.
-
-Options:
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
 B. (A) is false, but (R) is true
+
 C. (A) is true, but (R) is false
+
 D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Home Charges are a core Drain channel.
+**Ans: B.** (A) is false; (R) is true.
+
+**A/R logic:** Drain = unrequited transfer; deindustrialization = handicraft decline — confused pair.
 
 </details>
 
 ---
 
-**Q9.** Consider the following statements:
+**Q4.** Match List-I with List-II and select the correct answer from the code given below:
 
-1. Lord Ripon is called the Father of local self-government in India.
-2. The first Municipal Corporation in India was set up at Calcutta in 1882.
+| List-I (System) | List-II (Approx share / unit) |
+|-----------------|-------------------------------|
+| A. Permanent Settlement | 1. ~51%; ryot |
+| B. Ryotwari | 2. ~19%; zamindar |
+| C. Mahalwari | 3. ~30%; village / mahal |
+| D. Istamrari | 4. Another name for Permanent Settlement |
 
-Which of the statements given above is/are correct?
+*Row order is not the answer code.*
 
-A. Only 1
 
-B. Only 2
+A. A-2, B-1, C-3, D-4
 
-C. Both 1 and 2
+B. A-1, B-2, C-3, D-4
 
-D. Neither 1 nor 2
+C. A-2, B-3, C-1, D-4
+
+D. A-2, B-1, C-4, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — First Corp = **Madras 1688**.
+**Ans: A.** PS ~19% zamindar; Ryotwari ~51%; Mahalwari ~30%; Istamrari = PS alias.
+
+**Logic:** Percentage and payer tags from Must-Score.
 
 </details>
 
 ---
 
-**Q10.** Match List-I with List-II.
+**Q5.** Which of the following pairs is NOT correctly matched?
 
-**List-I** A. First railway B. Penny postage C. Telegraph experiment D. Post Office Savings Bank
-**List-II** 1. 1854 2. 1853 3. 1882 4. 1851
 
-A. 2 1 4 3
+A. Haileybury College (1806) — Company training college in England
 
-B. 2 1 3 4
+B. Charter Act 1833 — actually opened ICS open competition
 
-C. 1 2 4 3
+C. Fort William College (1800) — Wellesley’s Calcutta language college
 
-D. 2 4 1 3
+D. First Indian ICS — Satyendranath Tagore (1863)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — 1853, 1854, 1851, 1882.
+**Ans: B.** 1833 only carried the spirit; real opening was Charter Act 1853.
+
+**Logic:** 1833 ↔ 1853 competition trap.
 
 </details>
 
 ---
 
-**Q11.** With reference to Mahalwari, which of the following statements is/are correct?
+**Q6.** Arrange the following in chronological order:
 
-1. Holt Mackenzie's 1822 report shaped it in the North-Western Provinces.
-2. Revenue demand was permanently fixed like the 1793 Settlement.
+1. First passenger railway (Bombay–Thane)
+2. Haileybury College opened
+3. Fort William College founded
+4. Simultaneous ICS examinations begin in India
 
-A. Only 1
 
-B. Only 2
+A. 3, 2, 1, 4
 
-C. Both 1 and 2
+B. 2, 3, 1, 4
 
-D. Neither 1 nor 2
+C. 3, 1, 2, 4
+
+D. 3, 2, 4, 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Periodic revision.
+**Ans: A.** Fort William 1800 → Haileybury 1806 → railway 1853 → simultaneous 1922.
+
+**Logic:** Civil-service and infrastructure ladder.
 
 </details>
 
 ---
 
-**Q12.** Which of the following pairs are NOT correctly matched?
+**Q7.** With reference to the Cornwallis judiciary, which of the following statements is/are correct?
 
-1. Drain of Wealth — Naoroji
-2. Deindustrialization — decline of handicrafts
-3. Drain of Wealth — same as deindustrialization
+1. Munsiff’s Court handled small civil claims with an Indian officer.
+2. Sadar Diwani Adalat was the final civil court at Calcutta.
+3. Sadar Nizamat Adalat was the lowest civil court for petty claims.
 
-A. Only 3
+Select the correct answer from the code given below:
 
-B. Only 1 and 3
 
-C. Only 2 and 3
+A. 1 and 3 only
 
-D. Only 1
+B. 2 and 3 only
+
+C. 1, 2 and 3
+
+D. 1 and 2 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Sadar Nizamat Adalat = top criminal appeal — do not swap civil/criminal tops.
 
 </details>
 
 ---
 
-**Q13.** "The Rise and Growth of Economic Nationalism in India" was written by
+**Q8.** With reference to Drain critics, which of the following statements is/are correct?
 
-A. Dadabhai Naoroji
+1. Naoroji called Drain the “evil of all evils.”
+2. R.C. Dutt wrote the Economic History of India.
+3. Sir Syed Ahmad Khan accepted Drain Theory as INC’s official creed in 1875.
 
-B. R.C. Dutt
+Select the correct answer from the code given below:
 
-C. Bipin Chandra
 
-D. M.G. Ranade
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — 2019 Q97. Naoroji wrote the 1901 Drain book.
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Sir Syed rejected Drain; INC Calcutta 1896 accepted it.
 
 </details>
 
 ---
 
-**Q14.** With reference to commercialization of agriculture, which of the following statements is/are correct?
+**Q9.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-1. Cash land revenue pushed peasants into market crops.
-2. It generally ended famines by raising peasant incomes.
 
-A. Only 1
+**Assertion (A):** Home Charges include the costs of British wars fought outside India.
 
-B. Only 2
+**Reason (R):** Home Charges cover India Office, pensions, debt interest and store purchases in England.
 
-C. Both 1 and 2
+Select the correct answer from the code given below:
 
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Food-crop displacement raised famine risk.
-
-</details>
-
----
-
-**Q15.** Arrange: 1. Indigo Revolt 2. Awadh annexation 3. Ilbert Bill 4. Second Anglo-Afghan War
-
-A. 2, 1, 4, 3
-
-B. 1, 2, 4, 3
-
-C. 2, 1, 3, 4
-
-D. 2, 4, 1, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 1856 → 1859 → 1878 → 1883.
-
-</details>
-
----
-
-**Q16.** Consider the following statements about the Collector:
-
-1. He combined revenue collection with magisterial power.
-2. He was only a tax farmer with no civil authority.
-
-Which of the statements given above is/are correct?
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q17.** Assertion (A): Early railways in India were financed under a guarantee system.
-
-Reason (R): Indian revenues assured a return to British private investors.
-
-Options:
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
 B. (A) is false, but (R) is true
+
 C. (A) is true, but (R) is false
+
 D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: B.** (A) is false; (R) is true.
+
+**A/R logic:** Overseas war costs ≠ Home Charges — standing definition trap.
 
 </details>
 
 ---
 
-**Q18.** With reference to the telegraph, which of the following statements is/are correct?
+**Q10.** With reference to railways and managing agencies, which of the following statements is/are correct?
 
-1. O'Shaughnessy pioneered experiments in India.
-2. Dalhousie invented the electric telegraph.
+1. The Guarantee System promised about a 5% return on British capital from Indian revenues.
+2. The Managing Agency System let British firms run companies largely on Indian-raised capital.
+3. Guarantee System and Managing Agency System are two names for the same railway contract.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
 
-C. Both 1 and 2
+A. 1 and 3 only
 
-D. Neither 1 nor 2
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Guarantee = railway return; Managing Agency = firm control fees — confused pair.
 
 </details>
 
 ---
 
-**Q19.** Which of the following statements is/are correct?
+**Q11.** Match List-I with List-II and select the correct answer from the code given below:
 
-1. Dual Government was ended by Hastings in 1772.
-2. Open competition for the civil service began with the Charter Act of 1853.
+| List-I | List-II |
+|--------|---------|
+| A. Mayo 1870 | 1. Father of local self-government resolution |
+| B. Ripon 1882 | 2. Financial decentralisation |
+| C. Montford 1919 | 3. Actual transfer of local self-government under dyarchy |
+| D. Madras 1688 | 4. First Municipal Corporation |
 
-A. Only 1
+*Row order is not the answer code.*
 
-B. Only 2
 
-C. Both 1 and 2
+A. A-2, B-1, C-3, D-4
 
-D. Neither 1 nor 2
+B. A-1, B-2, C-3, D-4
+
+C. A-2, B-1, C-4, D-3
+
+D. A-2, B-3, C-1, D-4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: A.** Mayo money; Ripon boards ideology; 1919 transfer; Madras first corporation.
+
+**Logic:** Local-administration ladder.
 
 </details>
 
 ---
 
-**Q20.** Match List-I with List-II.
+**Q12.** Which of the following pairs is NOT correctly matched?
 
-**List-I (Crop/event)** A. Indigo Revolt B. Raw cotton exports C. Home Charges
-**List-II** 1. Drain channel 2. 1859–60 3. Deindustrialization link
 
-A. 2 3 1
+A. Indigo nij cultivation — planter’s own land
 
-B. 2 1 3
+B. Indigo ryoti cultivation — peasant’s land under dadan advance
 
-C. 3 2 1
+C. Famine Commission 1880 (Strachey) — led toward Famine Codes 1883
 
-D. 1 2 3
+D. Woodhead Commission 1945 — authored Wood’s Despatch of 1854
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Indigo revolt year; cotton export undercuts local weaving; Home Charges = Drain.
+**Ans: D.** Woodhead inquired after 1943; Wood’s Despatch is 1854 education.
+
+**Logic:** Wood ↔ Woodhead name trap.
 
 </details>
 
 ---
 
-**Q21.** With reference to Mayo and Ripon, which of the following statements is/are correct?
+**Q13.** With reference to famines, which of the following statements is/are correct?
 
-1. Mayo (1870) is associated with financial decentralisation.
-2. Ripon (1882) issued the local self-government Resolution.
+1. The 1770 Bengal famine belongs to the Dual Government years.
+2. The 1876–78 famine is tagged to Lytton’s laissez-faire.
+3. The 1943 Bengal famine is tagged to Ripon’s local self-government year.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
 
-C. Both 1 and 2
+A. 1 and 3 only
 
-D. Neither 1 nor 2
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: C.** Only 1 and 2.
+
+**Logic:** 1943 = Linlithgow / WWII — not Ripon.
 
 </details>
 
 ---
 
-**Q22.** Which of the following pairs are NOT correctly matched?
+**Q14.** Arrange the following currency / monetisation milestones in chronological order:
 
-1. First railway — Bombay–Thane, 1853
-2. Penny postage — 1774
-3. Post Office Savings Bank — 1882
+1. Fowler Committee gold-exchange standard
+2. Herschell Committee closes free silver minting
+3. First passenger railway Bombay–Thane
+4. Uniform penny postage under Dalhousie
 
-A. Only 2
 
-B. Only 1 and 2
+A. 3, 4, 2, 1
 
-C. Only 2 and 3
+B. 4, 3, 2, 1
 
-D. Only 1
+C. 3, 2, 4, 1
+
+D. 3, 4, 1, 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Penny postage = **1854**.
+**Ans: A.** Railway 1853 → postage 1854 → Herschell 1893 → Fowler 1898.
+
+**Logic:** Infrastructure then currency-committee ladder.
 
 </details>
 
 ---
 
-**Q23.** With reference to land rights, which of the following statements is/are correct?
+**Q15.** With reference to colonial economic phases, which of the following statements is/are correct?
 
-1. Under Ryotwari the state retained ultimate ownership of land.
-2. Under Permanent Settlement zamindars were recognised as proprietors.
+1. Mercantilism dominates roughly Plassey to 1813.
+2. One-way free trade dominates roughly 1813–1858.
+3. After 1858, finance capital / Drain phases with railway guarantees and Home Charges.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q24.** With reference to deindustrialization, which of the following statements is/are correct?
-
-1. Machine-made British textiles undercut Indian handlooms.
-2. India mainly exported finished cloth and imported raw cotton in the nineteenth century.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Pattern reversed: **raw cotton out**, Manchester cloth in.
-
-</details>
-
----
-
-**Q25.** Mahalwari was mainly applied in which of the following?
-
-A. Bengal and Orissa
-
-B. Madras Presidency only
-
-C. North-Western Provinces and Punjab
-
-D. Hyderabad State
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — UP-relevant NWP. Single-best trap (≤25%).
-
-</details>
-
----
-
-**Q26.** Match List-I with List-II.
-
-**List-I** A. Dalhousie B. Curzon C. Bentinck D. Cornwallis
-**List-II** 1. Permanent Settlement 2. Sati 3. Partition of Bengal 4. Doctrine of Lapse
-
-A. 4 3 1 2
-
-B. 3 4 2 1
-
-C. 3 4 1 2
-
-D. 4 3 2 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — This topic's fact is Cornwallis–Settlement; rest Topic 3.
-
-</details>
-
----
-
-**Q27.** The Sunset Law is associated with
-
-A. Ryotwari revision every 30 years
-
-B. Sale of defaulting zamindari estates under Permanent Settlement
-
-C. Mahalwari lambardar appointment
-
-D. Ripon's municipal tax
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q28.** Assertion (A): Commercialization of agriculture increased peasant dependence on moneylenders.
-
-Reason (R): Land revenue had to be paid in cash.
-
-Options:
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q29.** Who wrote *The Economic History of India* as a critique of colonial exploitation?
-
-A. Dadabhai Naoroji
-
-B. R.C. Dutt
-
-C. Bipan Chandra
-
-D. Gopal Krishna Gokhale
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Naoroji = Drain book 1901; Chandra = economic nationalism 2019 Q97.
-
-</details>
-
----
-
-**Q30.** With reference to Home Charges, which of the following statements is/are correct?
-
-1. Funds used to support the India Office in London and to pay pensions of British personnel engaged in India formed part of Home Charges.
-2. Funds used for waging wars outside India by the British formed part of Home Charges.
-
-A. 1 only
-
-B. 2 only
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** Home Charges = London-side India Office, pensions, debt, stores. Overseas war costs are the classic distractor.
-
-**Ans: A** — Statement 2 is false.
-
-</details>
-
----
-
-**Q30A.** The term “Imperial Preference” was applied to:
-
-A. Racial discrimination by the Britishers
-
-B. Special privileges on British imports in India
-
-C. Preference given to British political agents over Indian princes
-
-D. Subordination of Indian interest only as a political slogan
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** Near-nil / low duty on British goods entering India; Indian exports faced high duty in Britain.
-
-**Ans: B**
-
-</details>
-
----
-
-**Q30B.** Who introduced the Ist-e-Marari / Istamrari settlement?
-
-A. Wellesley
-
-B. Warren Hastings
-
-C. Lord Cornwallis
-
-D. Lord Dufferin
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** Istamrari is another name for the Permanent Settlement of **1793**.
-
-**Ans: C**
-
-</details>
-
----
-
-**Q31.** Which of the following pairs are NOT correctly matched?
-
-1. Alexander Read — Baramahal Ryotwari trials
-2. Holt Mackenzie — Permanent Settlement 1793
-3. Thomas Munro — Madras Ryotwari
-
-A. Only 2
-
-B. Only 1 and 2
-
-C. Only 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Mackenzie = Mahalwari 1822.
-
-</details>
-
----
-
-**Q32.** Consider the following statements:
-
-1. Early nationalists often called British rule providential modernisation.
-2. They still attacked "Un-British rule," including the Drain.
-
-Which of the statements given above is/are correct?
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Both facts true (2024 Q135 A/R then asks whether R *explains* A → **A**).
-
-</details>
-
----
-
-**Q33.** Arrange: 1. Ripon Resolution on local self-government 2. Permanent Settlement 3. Dual Government ended 4. First passenger railway
-
-A. 3, 2, 4, 1
-
-B. 2, 3, 4, 1
-
-C. 3, 2, 1, 4
-
-D. 3, 4, 2, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 1772 → 1793 → 1853 → 1882.
-
-</details>
-
----
-
-**Q34.** With reference to the impact of British rule, which of the following statements is/are correct?
-
-1. India was turned into a supplier of raw materials and a market for British goods.
-2. Traditional handicrafts expanded throughout the nineteenth century under free trade.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q35.** Which of the following is/are correct about the postal system?
-
-1. Warren Hastings began a Company postal system in 1774.
-2. Uniform penny postage came in 1854 under Dalhousie.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q36.** Assertion (A): The Collector was the cornerstone of British district administration.
-
-Reason (R): He combined revenue, magisterial and civil functions.
-
-Options:
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q37.** UP's colonial land-revenue background is closest to which system?
-
-A. Permanent Settlement of Bengal
-
-B. Ryotwari of Madras
-
-C. Mahalwari of the North-Western Provinces
-
-D. Inam settlement of Hyderabad only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q38.** Consider the following statements:
-
-1. The guarantee system shifted railway risk onto Indian revenues.
-2. Primary railway motive was Indian passenger comfort.
-
-Which of the statements given above is/are correct?
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q39.** Which of the following pairs are correctly matched?
-
-1. Indigo Revolt — 1859–60
-2. Bengal Famine (dual govt era) — 1770
-3. Post Office Savings Bank — 1853
 
 A. 1 and 2 only
 
@@ -2519,420 +2054,419 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Savings Bank = **1882**; 1853 = first railway.
+**Ans: D.** All three phase statements are correct.
+
+**Logic:** Three-phase map from Consolidated Must-Score.
 
 </details>
 
 ---
 
-**Q40.** With reference to Charter Acts and administration, which of the following statements is/are correct?
+**Q16.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-1. 1833 created the Governor-General of India.
-2. After 1858 a Secretary of State for India controlled Indian affairs from London.
 
-A. Only 1
+**Assertion (A):** Ripon’s 1882 Resolution transferred local self-government to Indian ministers under dyarchy.
 
-B. Only 2
+**Reason (R):** The 1919 Montford reforms actually transferred local self-government to Indian ministers.
 
-C. Both 1 and 2
+Select the correct answer from the code given below:
 
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q41.** With reference to the Cornwallis Code of 1793, which of the following statements is/are correct?
-
-1. The Munsiff's Court was the lowest civil court, headed by an Indian officer.
-2. The District Collector continued to head the civil court of his district.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Cornwallis transferred civil trial work from the Collector to a separate District Judge.
-
-</details>
-
----
-
-**Q42.** Match List-I (Court) with List-II (Level in the Cornwallis civil ladder).
-
-**List-I** A. Munsiff's Court B. Registrar's Court C. Provincial Court of Appeal D. Sadar Diwani Adalat
-**List-II** 1. Final civil court, Calcutta 2. Lowest, small claims 3. Middle, European officer 4. Four courts, appellate
-
-A. 2 3 4 1
-
-B. 2 3 1 4
-
-C. 3 2 4 1
-
-D. 2 4 3 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q43.** Assertion (A): Cornwallis separated the judiciary from revenue administration in 1793.
-
-Reason (R): The District Collector was stripped of judicial powers and confined to revenue and magisterial duties.
-
-Options:
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
 B. (A) is false, but (R) is true
+
 C. (A) is true, but (R) is false
+
 D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: B.** (A) is false; (R) is true.
+
+**A/R logic:** 1882 = resolution for elected boards; transfer waits for 1919.
 
 </details>
 
 ---
 
-**Q44.** Which of the following pairs are NOT correctly matched?
+**Q17.** With reference to police under Cornwallis, which of the following statements is/are correct?
 
-1. Provincial Courts of Appeal — four courts at Calcutta, Dacca, Murshidabad, Patna
-2. Sadar Nizamat Adalat — highest civil court
-3. Circuit Courts — criminal appeal, staffed by covenanted civil servants
+1. In 1793 the zamindar’s police role was abolished.
+2. The thana–daroga system was placed under the District Magistrate.
+3. The daroga system made the zamindar the sole criminal judge of the district.
 
-A. Only 2
+Select the correct answer from the code given below:
 
-B. Only 1 and 2
 
-C. Only 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Sadar Nizamat Adalat is the highest **criminal** court; Sadar Diwani Adalat is the highest civil court.
-
-</details>
-
----
-
-**Q45.** With reference to police reform under Cornwallis, which of the following statements is/are correct?
-
-1. Zamindars lost their traditional policing role in 1793.
-2. The thana-daroga structure was placed under the District Magistrate's control.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q46.** With reference to the Indian Civil Service, which of the following statements is/are correct?
-
-1. Haileybury College trained civil-service nominees selected by Company patronage.
-2. The Charter Act of 1853 ended patronage and opened competitive examination.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q47.** Who was the first Indian to qualify for the Indian Civil Service?
-
-A. Satyendranath Tagore
-
-B. Surendranath Banerjee
-
-C. Romesh Chunder Dutt
-
-D. Aurobindo Ghosh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 1863. Banerjee and Dutt qualified later in the 1870s.
-
-</details>
-
----
-
-**Q48.** Assertion (A): Simultaneous ICS examinations in India began only in 1922.
-
-Reason (R): Sustained nationalist demand and the Montagu–Chelmsford reforms pushed the government toward it.
-
-Options:
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q49.** Consider the following statements:
-
-1. Fort William College was established by Wellesley at Calcutta in 1800.
-2. Haileybury College opened in England in 1806 to train Company civil servants.
-
-Which of the statements given above is/are correct?
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q50.** With reference to local self-government, which of the following statements is/are correct?
-
-1. Ripon's 1882 Resolution asked for elected non-official majorities on local boards.
-2. Local self-government became a "transferred" subject under Indian ministers only with the 1919 dyarchy.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q51.** Assertion (A): The Royal Commission on Decentralisation sat in 1907.
-
-Reason (R): It reviewed Ripon's 1882 scheme and pushed for wider village-level self-government.
-
-Options:
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q52.** With reference to the Managing Agency System, which of the following statements is/are correct?
-
-1. Managing agents typically held a majority equity stake in the companies they controlled.
-2. British agencies such as Andrew Yule and Bird & Co. dominated jute, coal and tea through management contracts.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Agents usually held a **minority** stake but kept control through the contract.
-
-</details>
-
----
-
-**Q53.** Which of the following pairs are correctly matched?
-
-1. Managing Agency System — industrial/corporate control
-2. Zamindari — agrarian land-revenue control
-3. Managing Agency System and Zamindari — identical in mechanism
-
-A. 1 and 2 only
+A. 1 and 3 only
 
 B. 2 and 3 only
 
-C. 1 and 3 only
+C. 1 and 2 only
 
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Police moved off the zamindar to thana–daroga under the DM.
 
 </details>
 
 ---
 
-**Q54.** With reference to plantation economy, which of the following statements is/are correct?
+**Q18.** With reference to free trade after 1813, which of the following statements is/are correct?
 
-1. Under nij cultivation the planter grew indigo on land he owned or leased.
-2. Under ryoti cultivation the peasant grew indigo on his own land after taking a dadan advance.
+1. Manchester cloth entered freely while Indian crafts stayed unprotected.
+2. “Free trade” mainly freed British goods, not Indian industry.
+3. After 1813 the Company retained a full monopoly on all Indian trade including inland crafts.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
 
-C. Both 1 and 2
+A. 1 and 3 only
 
-D. Neither 1 nor 2
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: C.** Only 1 and 2.
+
+**Logic:** 1813 ended Company monopoly in India (kept tea/China) — not a crafts monopoly.
 
 </details>
 
 ---
 
-**Q55.** The Assam Company, a pioneering tea enterprise, was founded in which year?
+**Q19.** Match List-I with List-II and select the correct answer from the code given below:
 
-A. 1823
+| List-I | List-II |
+|--------|---------|
+| A. Telegraph experiment | 1. 1853 |
+| B. Bombay–Thane railway | 2. 1851 (O’Shaughnessy) |
+| C. Company postal start | 3. 1774 (Hastings) |
+| D. Uniform penny postage | 4. 1854 (Dalhousie) |
 
-B. 1839
+*Row order is not the answer code.*
 
-C. 1853
 
-D. 1859
+A. A-2, B-1, C-3, D-4
+
+B. A-1, B-2, C-3, D-4
+
+C. A-2, B-1, C-4, D-3
+
+D. A-2, B-3, C-1, D-4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — 1823 is when wild tea was discovered in Assam, not the company's founding.
+**Ans: A.** Telegraph 1851; railway 1853; post 1774; penny post 1854.
+
+**Logic:** Infrastructure date matching.
 
 </details>
 
 ---
 
-**Q56.** With reference to the railway guarantee system, which of the following statements is/are correct?
+**Q20.** Which of the following pairs is NOT correctly matched?
 
-1. The government guaranteed a 5 percent return on capital to British companies, paid from Indian revenues.
-2. The guarantee gave companies a strong incentive to keep construction costs low.
 
-A. Only 1
+A. Permanent Settlement ~19% — zamindar Bengal belt
 
-B. Only 2
+B. Ryotwari ~51% — Madras/Bombay
 
-C. Both 1 and 2
+C. Mahalwari ~30% — NWP/UP, CP, Punjab
 
-D. Neither 1 nor 2
+D. Permanent Settlement — Munro as chief architect
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Guaranteed profit removed, rather than created, the incentive to economise.
+**Ans: D.** Permanent Settlement = Cornwallis; Munro = Ryotwari.
+
+**Logic:** Architect swap.
 
 </details>
 
 ---
 
-**Q57.** Consider the following statements about famine policy:
+**Q21.** With reference to dual economy critiques, which of the following statements is/are correct?
 
-1. Lord Lytton enforced a strict laissez-faire relief policy during the Great Famine of 1876–78.
-2. The Famine Codes were closely followed during the Bengal Famine of 1943.
+1. A thin modern / export sector sat beside a distressed agrarian mass.
+2. Nationalist Drain writers used this picture against simple “modernisation” claims.
+3. Dual economy means Home Charges alone without any agrarian distress.
 
-Which of the statements given above is/are correct?
+Select the correct answer from the code given below:
 
-A. Only 1
 
-B. Only 2
+A. 1 and 3 only
 
-C. Both 1 and 2
+B. 2 and 3 only
 
-D. Neither 1 nor 2
+C. 1 and 2 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — The 1943 Codes were largely ignored for wartime reasons.
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Dual economy ≠ Drain; both are related critiques but not identical.
 
 </details>
 
 ---
 
-**Q58.** Match List-I (Phase of colonial economic policy) with List-II (Rough period).
+**Q22.** Arrange the following civil-service milestones in chronological order:
 
-**List-I** A. Mercantilism / trade monopoly B. Free trade C. Finance capital / Drain
-**List-II** 1. 1858 onward 2. Plassey to 1813 3. 1813–1858
+1. Charter Act opens real ICS competition
+2. First Indian ICS (Satyendranath Tagore)
+3. Fort William College founded
+4. Simultaneous examinations begin in India
 
-A. 2 3 1
 
-B. 2 1 3
+A. 3, 1, 2, 4
 
-C. 1 2 3
+B. 1, 3, 2, 4
 
-D. 3 2 1
+C. 3, 2, 1, 4
+
+D. 3, 1, 4, 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Monopoly to 1813, free trade 1813–58, finance capital from 1858.
+**Ans: A.** 1800 → 1853 → 1863 → 1922.
+
+**Logic:** ICS ladder without 1833 false opening.
 
 </details>
 
 ---
+
+**Q23.** With reference to indigo and tea, which of the following statements is/are correct?
+
+1. Indigo ryoti cultivation used a cash advance called dadan.
+2. Tea plantations expanded in Assam from 1839.
+3. Nij cultivation means indigo forced only on the peasant’s holding under dadan.
+
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Nij = planter’s own land; ryoti = peasant land + dadan.
+
+</details>
+
+---
+
+**Q24.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+
+**Assertion (A):** Imperial Preference meant concessions to British imports in India.
+
+**Reason (R):** Guaranteed railway interest and managing-agency profits were other Drain channels after 1858.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; R lists other Drain channels and does not define Imperial Preference.
+
+**A/R logic:** Two true Drain-side facts without cause–effect identity.
+
+</details>
+
+---
+
+**Q25.** With reference to commercialization of agriculture, which of the following statements is/are correct?
+
+1. Cash crops for export left peasants more exposed to price swings and famine.
+2. It formed an economic backdrop to indigo and Deccan unrest.
+3. It abolished land revenue in cash and restored pure kind payments everywhere.
+
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Monetisation pushed cash revenue — opposite of stmt 3.
+
+</details>
+
+---
+
+**Q26.** Which one of the following correctly distinguishes Drain from deindustrialization?
+
+
+A. Both mean decline of Indian handicrafts only
+
+B. Drain is unrequited wealth transfer to Britain; deindustrialization is decline of handicrafts
+
+C. Deindustrialization is only Home Charges; Drain is only railway policy
+
+D. Both are identical with Imperial Preference
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Standing confused-pair definition.
+
+**Logic:** Naoroji/Dutt critique vs artisan-market loss.
+
+</details>
+
+---
+
+**Q27.** With reference to the District (Diwani) Judge under Cornwallis, which of the following statements is/are correct?
+
+1. The same District Judge sat as Magistrate.
+2. Criminal appeals rose to Sadar Nizamat Adalat.
+3. The District Judge was identical with the Munsiff’s Court officer.
+
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Munsiff is the lowest civil rung — not the District Judge.
+
+</details>
+
+---
+
+**Q28.** Match List-I with List-II and select the correct answer from the code given below:
+
+| List-I (Famine / body) | List-II (Tag) |
+|------------------------|---------------|
+| A. 1876–78 | 1. Linlithgow / WWII Bengal |
+| B. 1943 | 2. Lytton laissez-faire |
+| C. Strachey Commission 1880 | 3. Path to Famine Codes 1883 |
+| D. Woodhead 1945 | 4. Post-1943 inquiry playing down British fault |
+
+*Row order is not the answer code.*
+
+
+A. A-2, B-1, C-3, D-4
+
+B. A-1, B-2, C-3, D-4
+
+C. A-2, B-1, C-4, D-3
+
+D. A-2, B-3, C-1, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** 1876–78 Lytton; 1943 Linlithgow; Strachey→Codes; Woodhead post-1943.
+
+**Logic:** Famine year and commission matching.
+
+</details>
+
+---
+
+**Q29.** With reference to Herschell and Fowler, which of the following statements is/are correct?
+
+1. Herschell (1893) closed free silver minting.
+2. Fowler (1898) set a gold-exchange standard with the rupee at 1s 4d.
+3. Fowler preceded Herschell and restored free silver coinage.
+
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Herschell then Fowler — order and content both matter.
+
+</details>
+
+---
+
+**Q30.** Which of the following pairs is NOT correctly matched?
+
+
+A. Naoroji 1901 — Poverty and Un-British Rule in India
+
+B. Hastings post 1774 — start of Company postal system
+
+C. Dalhousie post 1854 — cheap uniform postage
+
+D. Naoroji 1901 — Wood’s education despatch
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Wood’s Despatch is 1854 education; Naoroji 1901 is the Drain book.
+
+**Logic:** Year/author twin trap.
+
+</details>
+
 
 ## Common Traps — Don't Fall For These
 

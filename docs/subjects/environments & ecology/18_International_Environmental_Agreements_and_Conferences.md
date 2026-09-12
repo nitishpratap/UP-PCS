@@ -575,483 +575,593 @@ D. Montreal Protocol, Vienna Convention, and Minamata Convention
 
 ## Practice Zone — UPPCS Format Drill
 
-> **30 questionsQ1.** Stockholm Conference was held in:
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-A. 1962
+**Q1.** Arrange the conference spine:
 
-B. 1972
+Stockholm → Brundtland → Rio → Johannesburg → Rio+20 → SDGs/Paris
 
-C. 1987
+A. 1987-1972-1992-2012-2002-2015
+B. 1972-1987-1992-2002-2012-2015
+C. 1992-1972-1987-2002-2015-2012
+D. 1972-1992-1987-2012-2002-2015
 
-D. 1992
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: B.** 1972→1987→1992→2002→2012→2015.
 
-**Ans: B**
-
-</details>
-
-**Q2.** UNEP headquarters is in:
-
-A. New York
-
-B. Geneva
-
-C. Nairobi
-
-D. Paris
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
+**Logic:** Full conference ladder.
 
 </details>
 
-**Q3.** World Environment Day is:
+**Q2.** With reference to Stockholm 1972, which of the following statements is/are correct?
 
-A. 2 February
+1. First UN Conference on the Human Environment.
+2. Led to UNEP at Nairobi.
+3. World Environment Day is 5 June.
 
-B. 5 June
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 3 only
 
-C. 16 September
+<details>
+<summary>Show answer</summary>
 
-D. 22 March
+**Ans: C.** All three.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q4.** Brundtland Report was published in:
-
-A. 1972
-
-B. 1987
-
-C. 1992
-
-D. 2015
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Stockholm package.
 
 </details>
 
-**Q5.** Rio Earth Summit was in:
+**Q3.** Which of the following pairs is/are NOT correctly matched?
 
-A. 1987
+1. Brundtland 1987 — Our Common Future
+2. Limits to Growth 1972 — Club of Rome
+3. Brundtland — identical to Limits to Growth
 
-B. 1992
+A. 1 and 2 only
+B. 1, 2 and 3
+C. 2 and 3 only
+D. 3 only
 
-C. 1997
+<details>
+<summary>Show answer</summary>
 
-D. 2015
+**Ans: D.** Only pair 3 is not correctly matched.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q6.** Agenda 21 was adopted at:
-
-A. Stockholm 1972
-
-B. Rio 1992
-
-C. Paris 2015
-
-D. Kyoto 1997
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Different books/years.
 
 </details>
 
-**Q7.** UNFCCC was opened at:
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Stockholm
+Assertion (A): Rio 1992 produced Agenda 21 and opened UNFCCC and CBD for signature.
 
-B. Rio 1992
+Reason (R): CITES is a Rio 1992 product identical to Agenda 21.
 
-C. Montreal
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. Ramsar
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: C.** A true, R false.
 
-**Ans: B**
-
-</details>
-
-**Q8.** Kyoto Protocol was adopted in:
-
-A. 1992
-
-B. 1997
-
-C. 2001
-
-D. 2015
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**A/R logic:** CITES is 1973 Washington — not a Rio product.
 
 </details>
 
-**Q9.** Paris Agreement was adopted in:
+**Q5.** Match issue tags:
 
-A. 1997
+| List-I | List-II |
+|--------|--------|
+| A. Montreal/Vienna | 1. Wetlands |
+| B. Kyoto/Paris/UNFCCC | 2. Ozone |
+| C. Ramsar | 3. Climate |
+| D. CITES | 4. Wildlife trade |
 
-B. 2009
+Code:
 
-C. 2015
+A. A-2, B-3, C-1, D-4
+B. A-3, B-2, C-1, D-4
+C. A-2, B-1, C-3, D-4
+D. A-1, B-3, C-2, D-4
 
-D. 2021
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: A.** A-2, B-3, C-1, D-4.
 
-**Ans: C**
-
-</details>
-
-**Q10.** Climate mitigation treaty among these is:
-
-A. Montreal Protocol
-
-B. Ramsar
-
-C. Kyoto Protocol
-
-D. Basel
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
+**Logic:** Ozone/climate/wetlands/trade.
 
 </details>
 
-**Q11.** Montreal Protocol relates to:
+**Q6.** Arrange climate ladder:
 
-A. Ozone/ODS
+A. Paris 1992 → Kyoto 2015 → UNFCCC 1997
+B. UNFCCC 1992 → Kyoto 1997 → Paris 2015
+C. Kyoto 1987 → Paris 1992 → UNFCCC 2015
+D. UNFCCC 2015 → Kyoto 1992 → Paris 1997
 
-B. Wetlands
+<details>
+<summary>Show answer</summary>
 
-C. Wildlife trade
+**Ans: B.** 1992→1997→2015.
 
-D. Mercury
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q12.** Vienna Convention (1985) is the framework for:
-
-A. Climate
-
-B. Ozone layer
-
-C. Wetlands
-
-D. Hazardous waste
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** UNFCCC–Kyoto–Paris.
 
 </details>
 
-**Q13.** CBD was opened at:
+**Q7.** With reference to ozone ladder, which of the following statements is/are correct?
 
-A. Rio 1992
+1. Vienna 1985 → Montreal 1987 → Kigali 2016.
+2. Montreal is ozone — not climate.
+3. Kigali phases down HFCs.
 
-B. Stockholm 1972
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 3 only
 
-C. Washington 1973
+<details>
+<summary>Show answer</summary>
 
-D. Bonn 1979
+**Ans: C.** All three.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q14.** CITES regulates:
-
-A. International trade in endangered species
-
-B. Wetland wise use
-
-C. GHG emissions
-
-D. POPs only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Ozone family + HFC phase-down.
 
 </details>
 
-**Q15.** CITES was signed in:
+**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. 1971
+Assertion (A): Agenda 21 is Rio’s non-binding sustainable-development action plan.
 
-B. 1973
+Reason (R): Agenda 21 was signed in 1995.
 
-C. 1992
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. 2010
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: C.** A true, R false.
 
-**Ans: B**
-
-</details>
-
-**Q16.** Ramsar Convention protects:
-
-A. Forests
-
-B. Wetlands
-
-C. Oceans only
-
-D. Deserts
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**A/R logic:** 1992 — not 1995.
 
 </details>
 
-**Q17.** World Wetlands Day is:
+**Q9.** Which of the following pairs is/are correctly matched?
 
-A. 2 February
+1. CBD — conserve, sustainable use, fair benefit-sharing
+2. Nagoya 2010 — ABS
+3. Cartagena — biosafety/LMOs
 
-B. 5 June
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. 22 March
+<details>
+<summary>Show answer</summary>
 
-D. 16 September
+**Ans: D.** All three.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q18.** CMS (Bonn Convention) protects:
-
-A. Migratory species
-
-B. Wetland plants only
-
-C. ODS
-
-D. Mercury trade
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** CBD family.
 
 </details>
 
-**Q19.** Basel Convention controls:
+**Q10.** Match List-I with List-II:
 
-A. Hazardous waste movement
+| List-I | List-II |
+|--------|--------|
+| A. Basel | 1. Mercury |
+| B. Rotterdam | 2. Hazardous waste |
+| C. Stockholm POPs | 3. PIC chemicals |
+| D. Minamata | 4. POPs |
 
-B. Ozone
+Code:
 
-C. Climate NDCs
+A. A-2, B-3, C-4, D-1
+B. A-3, B-2, C-4, D-1
+C. A-2, B-4, C-3, D-1
+D. A-1, B-3, C-2, D-4
 
-D. Wetland birds only
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: A.** A-2, B-3, C-4, D-1.
 
-**Ans: A**
-
-</details>
-
-**Q20.** Rotterdam Convention uses:
-
-A. Prior Informed Consent for hazardous chemicals
-
-B. ODS schedules
-
-C. Ramsar listing
-
-D. CITES appendices
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Waste/PIC/POPs/mercury.
 
 </details>
 
-**Q21.** Stockholm Convention (2001) targets:
+**Q11.** With reference to CMS/Bonn, which of the following statements is/are correct?
 
-A. POPs
+1. Covers migratory species.
+2. Is identical to CITES trade appendices.
+3. Is different from Ramsar wetlands treaty.
 
-B. Wetlands
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
 
-C. Whaling
+<details>
+<summary>Show answer</summary>
 
-D. Desertification
+**Ans: B.** Only 1 and 3.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q22.** Minamata Convention relates to:
-
-A. Mercury
-
-B. CO₂ only
-
-C. DDT only
-
-D. Wetlands
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** CMS ≠ CITES.
 
 </details>
 
-**Q23.** Nagoya Protocol implements:
+**Q12.** Arrange two Stockholms trap:
 
-A. Access and Benefit Sharing
+A. Stockholm 2001 conference created UNEP; Stockholm 1972 is POPs
+B. Both are identical ozone treaties
+C. Stockholm 1972 conference→UNEP; Stockholm 2001 POPs treaty
+D. Both are Paris Agreement annexes
 
-B. Ozone phase-out
+<details>
+<summary>Show answer</summary>
 
-C. Wetland wise use
+**Ans: C.** 1972 conference vs 2001 POPs.
 
-D. Waste export ban only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q24.** Which pair is NOT correctly matched?
-
-A. Paris — climate
-
-B. Montreal — ozone
-
-C. Montreal — climate mitigation
-
-D. Ramsar — wetlands
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
+**Logic:** Classic double-Stockholm trap.
 
 </details>
 
-**Q25.** GEF was established in:
+**Q13.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. 1972
+Assertion (A): GEF was established in 1991 on the eve of Rio as a finance mechanism.
 
-B. 1991
+Reason (R): UNCCD (1994) is the desertification convention.
 
-C. 2001
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. 2015
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: A.** Both true; UNCCD year does not explain GEF’s 1991 creation.
 
-**Ans: B**
-
-</details>
-
-**Q26.** Kigali Amendment phases down:
-
-A. HFCs
-
-B. CFCs only
-
-C. DDT
-
-D. Mercury
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**A/R logic:** Two finance/land locks.
 
 </details>
 
-**Q27.** Kyoto Protocol mainly bound:
+**Q14.** With reference to Paris Agreement, which of the following statements is/are correct?
 
-A. Annex-I developed countries
+1. Year 2015.
+2. Universal NDCs.
+3. 1.5°C ambition language teaching.
 
-B. Only India
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. All countries equally
+<details>
+<summary>Show answer</summary>
 
-D. Only LDCs
+**Ans: D.** All three.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q28.** Paris Agreement uses:
-
-A. NDCs by all parties
-
-B. Only CDM credits
-
-C. ODS schedules
-
-D. CITES appendices
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Paris package.
 
 </details>
 
-**Q29.** Brundtland Report is titled:
+**Q15.** Which of the following pairs is/are correctly matched?
 
-A. Our Common Future
+1. Ramsar 1971 — Wise Use
+2. World Wetlands Day — 2 February
+3. CITES — IUCN Red List assessment body
 
-B. Limits to Growth
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. Agenda 21
+<details>
+<summary>Show answer</summary>
 
-D. Silent Spring
+**Ans: A.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** IUCN assesses; CITES regulates trade.
 
 </details>
 
-**Q30.** Rudrasagar Lake Ramsar site is in:
+**Q16.** How many of the following issue tags are correct?
 
-A. Uttar Pradesh
+Montreal=ozone; CBD=biodiversity; Basel=hazardous waste
 
-B. Tripura
+A. Only one
+B. All three
+C. Only two
+D. None
 
-C. Kerala
+<details>
+<summary>Show answer</summary>
 
-D. Gujarat
+**Ans: B.** All three.
 
-<details><summary>Show answer</summary>
+**Logic:** Tag ratta.
 
-**Ans: B**
+</details>
+
+**Q17.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. Kyoto | 1. 2015 |
+| B. Paris | 2. 1997 |
+| C. Montreal | 3. 1987 |
+
+Code:
+
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A-2, B-1, C-3.
+
+**Logic:** 1997 / 2015 / 1987.
+
+</details>
+
+**Q18.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Kyoto set binding targets mainly for Annex-I parties.
+
+Reason (R): Paris uses universal NDCs for all parties.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; Paris design contrasts Kyoto but does not explain Kyoto’s Annex-I design as its cause.
+
+**A/R logic:** Kyoto vs Paris architectures.
+
+</details>
+
+**Q19.** With reference to UNCCD, which of the following statements is/are correct?
+
+1. Adopted 1994.
+2. Links environment, development, and sustainable land management.
+3. Is the ozone phase-out treaty.
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Ozone = Montreal.
+
+</details>
+
+**Q20.** Arrange CBD protocol chronology teaching:
+
+A. CBD 1992 → Cartagena biosafety → Nagoya ABS 2010
+B. Nagoya 1992 → CBD 2010
+C. Cartagena 2015 → CBD 1972
+D. Nagoya 1987 → Montreal 2010
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** CBD 1992 then protocols (Cartagena; Nagoya 2010).
+
+**Logic:** Biodiversity law family.
+
+</details>
+
+**Q21.** Which of the following statements about Rio+20 is/are correct?
+
+1. Year 2012.
+2. Sits after Johannesburg 2002 on the spine.
+3. Rio+20 repealed the Wildlife (Protection) Act.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Does not repeal WPA.
+
+</details>
+
+**Q22.** With reference to Minamata, which of the following statements is/are correct?
+
+1. Mercury treaty 2013.
+2. Different from Minamata disease teaching history but shares the name hook.
+3. Minamata is the Forest Rights Act.
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Not FRA.
+
+</details>
+
+**Q23.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): UNFCCC secretariat sits in Bonn.
+
+Reason (R): UNFCCC was opened at Rio 1992.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; Rio opening does not explain Bonn secretariat location by itself.
+
+**A/R logic:** Opening vs HQ/secretariat.
+
+</details>
+
+**Q24.** Which of the following pairs is/are correctly matched?
+
+1. Rotterdam — PIC
+2. Basel — hazardous waste
+3. Stockholm POPs — DDT/PCBs neighbourhood
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three.
+
+**Logic:** Chemicals/waste trio.
+
+</details>
+
+**Q25.** Arrange Ramsar / CITES years:
+
+A. Ramsar 1971 → CITES 1973
+B. CITES 1971 → Ramsar 1973
+C. Both 1992
+D. Both 2015
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Ramsar 1971; CITES 1973.
+
+**Logic:** Wetlands then trade.
+
+</details>
+
+**Q26.** With reference to WED, which of the following statements is/are correct?
+
+1. 5 June marks Stockholm opening.
+2. Run by UNEP neighbourhood teaching.
+3. WED is identical to Earth Day 22 April.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Different days.
+
+</details>
+
+**Q27.** How many of the following climate instruments are correctly dated?
+
+UNFCCC 1992, Kyoto 1997, Paris 2015
+
+A. Only one
+B. Only two
+C. All three
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All three.
+
+**Logic:** Climate ladder years.
+
+</details>
+
+**Q28.** Which one of the following is correct?
+
+A. Montreal = climate NDCs
+B. Ramsar = mercury only
+C. Kyoto = ozone hole only
+D. Montreal = ozone ODS
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Montreal = ozone ODS.
+
+**Logic:** Never swap with climate.
+
+</details>
+
+**Q29.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Johannesburg 2002 sits on the sustainable development conference spine.
+
+Reason (R): SDGs were adopted in 2015.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; SDG year does not explain Johannesburg 2002’s place.
+
+**A/R logic:** Spine vs later SDGs.
+
+</details>
+
+**Q30.** With reference to Forest Principles at Rio, which of the following statements is/are correct?
+
+1. Rio produced Forest Principles among outputs.
+2. Rio Declaration and Agenda 21 were Rio products.
+3. Rio 1992 is identical to Kyoto Protocol.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Kyoto is 1997 climate.
 
 </details>
 

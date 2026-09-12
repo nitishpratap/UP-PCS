@@ -719,689 +719,627 @@ D. All 1, 2, 3 and 4
 
 ## Practice Zone — UPPCS Format Drill
 
-> **43 questions** · answers under Show answer
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-**Q1.** Which is **NOT** correctly matched?
+**Q1.** With reference to medieval court language, which of the following statements is/are correct?
 
-A. Tabaqat-i-Nasiri — Minhaj
-B. Tarikh-i-Firoz Shahi — Barani
-C. Tughlaqnama — Ibn Battuta
-D. Humayunnama — Gulbadan Begum
+1. Persian was the court language of the Sultanate and Mughal empires.
+2. Baburnama alone among major Mughal memoirs is written in Chagatai Turki.
+3. Ain-i-Akbari is Babur’s Turki gazetteer.
 
-<details><summary>Show answer</summary>
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
 
-**Logic:** Tughlaqnama = **Barani**; Ibn Battuta wrote **Rihla**, not Tughlaqnama.
+<details>
+<summary>Show answer</summary>
 
-**Ans: C.**
+**Ans: C.** Only 1 and 2 are correct.
 
-**Trap:** Battuta was at Tughlaq's court but not the author of Tughlaqnama.
-
-</details>
-
-**Q2.** Match: A.Mulla Daud B.Damodar Kavi C.Somnath D.Amir Khusrau with 1.Chandayan 2.Ashiqa 3.Padmavati Katha 4.Rag Vibodh
-
-Options: A.1-3-2-4 | B.1-3-4-2 | C.2-4-1-3 | D.1-2-3-4
-
-<details><summary>Show answer</summary>
-
-**Ans: A (1-3-2-4)** — **UPPCS 2019 Q88Facts:** Mulla Daud–Chandayan (1) | Damodar–Padmavati Katha (3) | Somnath–Ashiqa (2) | Khusrau–Rag Vibodh (4)
-
-**Trap:** Khusrau = code **4** in this literary list.
+**Logic:** Ain-i-Akbari is Abul Fazl’s admin gazetteer, not Babur’s.
 
 </details>
 
-**Q3.** A(A): Babur wrote Tuzk-e-Babri in Chagatai Turki. R(R): Turki was official Mughal court language.
+**Q2.** Match List-I with List-II:
 
-A. Both true, R not explanation
-B. A false, R true
-C. A true, R false
-D. Both true, R explains A
+| List-I (Book) | List-II (Author) |
+|---------------|------------------|
+| A. Tabaqat-i-Nasiri | 1. Ziauddin Barani |
+| B. Tarikh-i-Firoz Shahi | 2. Minhaj-us-Siraj |
+| C. Kitab-ul-Hind | 3. Alberuni |
+| D. Taj-ul-Maasir | 4. Hasan Nizami |
 
-<details><summary>Show answer</summary>
+*Row order is not the answer code.*
 
-**A/R logic:** A is true: Baburnama / Tuzk-e-Babri was written in **Chagatai Turki**.
+Code:
 
-**Ans: C (A true, R false).**
+A. A-1, B-2, C-4, D-3
+B. A-2, B-1, C-3, D-4
+C. A-2, B-3, C-1, D-4
+D. A-3, B-1, C-2, D-4
 
-**R is false:** Mughal **court language** was **Persian**, not Turki.
+<details>
+<summary>Show answer</summary>
 
-**Why not D:** Memoir language ≠ court language.
+**Ans: B.** A-2, B-1, C-3, D-4.
 
-</details>
-
-**Q4.** Arrange: Murder of Abul Fazl (1), Death of Sheikh Mubarak (2), Death of Faizi (3), Death of Daniyal (4)
-
-Options: A.2-1-4-3 | B.3-2-1-4 | C.2-3-1-4 | D.2-4-3-1
-
-<details><summary>Show answer</summary>
-
-**Logic:** Akbarnama = narrative history; **Ain-i-Akbari** = administrative gazetteer — both by Abul Fazl.
-
-**Ans: B.**
-
-**Trap:** Do not call Ain-i-Akbari a biography.
+**Logic:** Afif also wrote a Tarikh-i-Firoz Shahi for later Firuz — double-title trap.
 
 </details>
 
-**Q6.** Amir Khusrau: 1. Wrote Rag Vibodh 2. Wrote prose Tughlaqnama identical to Barani's
+**Q3.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Only 1
-B. Only 2
-C. Both
-D. Neither
+Assertion (A): In this chapter’s teaching map, Tughlaqnama is paired with Barani.
 
-<details><summary>Show answer</summary>
+Reason (R): Rihla is Ibn Battuta’s travelogue, not a Tughlaq court chronicle by Battuta under that title.
 
-**Ans: A (Only 1)Why:** Khusrau wrote **Rag Vibodh**; prose **Tughlaqnama** = **Barani**.
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-**Trap:** Khusrau's Tughluq Nama is a **poem**, not Barani's prose history.
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: A.** Both (A) and (R) are true, but (R) does not explain why Tughlaqnama is attributed to Barani here — it only clears Battuta.
 
-**Q7.** Tughlaqnama authored by:
-
-A. Ibn Battuta
-B. Minhaj
-C. Ziauddin Barani
-D. Hasan Nizami
-
-<details><summary>Show answer</summary>
-
-**Logic:** Ziauddin Barani wrote **Tughlaqnama** on the Tughlaq dynasty.
-
-**Ans: C.**
-
-**Trap:** Ibn Battuta wrote **Rihla**, not Tughlaqnama.
+**A/R logic:** Follow this chapter’s Must-Score pairing; keep Rihla distinct.
 
 </details>
 
-**Q8.** Mughal memoirs: 1. Baburnama in Chagatai Turki 2. Tuzuk-i-Jahangiri by Abul Fazl
+**Q4.** Arrange the following Akbar-circle deaths in chronological order:
 
-A. Only 1
-B. Only 2
-C. Both
-D. Neither
+1. Abul Fazl murdered (1602)
+2. Faizi (1595)
+3. Daniyal (1604)
+4. Sheikh Mubarak (1597)
 
-<details><summary>Show answer</summary>
+A. 4–2–1–3
+B. 2–1–4–3
+C. 2–4–1–3
+D. 2–4–3–1
 
-**Ans: A (Only 1)Why:Baburnama** is Turki; **Tuzuk-i-Jahangiri** was written by **Jahangir** himself in Persian.
+<details>
+<summary>Show answer</summary>
 
-**Trap:** Abul Fazl wrote **Akbarnama**, not Jahangir's memoir.
+**Ans: C.** Faizi 1595 → Sheikh Mubarak 1597 → Abul Fazl 1602 → Daniyal 1604.
 
-</details>
-
-**Q9.** Tabaqat-i-Nasiri associated with:
-
-A. Abul Fazl
-B. Minhaj-us-Siraj
-C. Abdul Hamid Lahori
-D. Gulbadan Begum
-
-<details><summary>Show answer</summary>
-
-**Logic:** Minhaj-us-Siraj Juzjani wrote **Tabaqat-i-Nasiri** (~1260).
-
-**Ans: B.**
-
-**Trap:** Do not confuse with **Tabaqat-i-Akbari** (Mughal work).
+**Logic:** Death chronology is a frequent arrange stem.
 
 </details>
 
-**Q10.** Padshahnama is official history of:
+**Q5.** Which of the following pairs is/are NOT correctly matched?
 
-A. Akbar
-B. Jahangir
-C. Shah Jahan
-D. Aurangzeb
+1. Akbarnama — Abul Fazl narrative history
+2. Ain-i-Akbari — Abul Fazl admin gazetteer
+3. Ain-i-Akbari — Gulbadan Begum’s memoir
 
-<details><summary>Show answer</summary>
+A. 1 only
+B. 3 only
+C. 2 and 3 only
+D. 1 and 2 only
 
-**Logic:** Padshahnama chronicles **Shah Jahan's** reign (Abdul Hamid Lahori).
+<details>
+<summary>Show answer</summary>
 
-**Ans: C.**
+**Ans: B.** Only pair 3 is not correctly matched.
 
-**Trap:** Jahangir wrote his own **Tuzuk-i-Jahangiri**; Akbar's history is **Akbarnama**.
-
-</details>
-
-**Q11.** Match: A.Akbarnama B.Baburnama C.Padshahnama D.Tuzuk-i-Jahangiri with 1.Jahangir 2.Abul Fazl 3.Babur 4.Abdul Hamid Lahori
-
-Options: A.2-3-4-1 | B.4-2-1-3 | C.2-1-4-3 | D.3-2-4-1
-
-<details><summary>Show answer</summary>
-
-**Ans: A (2-3-4-1)Facts:** Akbarnama–Abul Fazl (2) | Baburnama–Babur (3) | Padshahnama–Lahori (4) | Tuzuk–Jahangir (1)
-
-**Trap:** Do not give Padshahnama to Jahangir — that is his **Tuzuk**.
+**Logic:** Humayunnama is Gulbadan; Ain is Abul Fazl’s gazetteer.
 
 </details>
 
-**Q12.** Ibn Battuta: 1. Wrote Rihla 2. Authored Tughlaqnama
+**Q6.** With reference to Amir Khusrau’s works, which statements is/are correct?
 
-A. Only 1
-B. Only 2
-C. Both
-D. Neither
+1. Miftah-ul-Futuh covers Jalaluddin Khalji.
+2. Khazain-ul-Futuh covers Alauddin.
+3. Tutinama is also by Amir Khusrau.
 
-<details><summary>Show answer</summary>
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-**Logic:** ** Ibn Battuta wrote **Rihla** (travelogue); **Tughlaqnama** = **Barani**.
+<details>
+<summary>Show answer</summary>
 
-**Ans: A.**
+**Ans: B.** Only 1 and 2 are correct.
 
-**Trap:** Eyewitness at court ≠ author of official Tughlaq history.
-
-</details>
-
-**Q13.** Humayunnama written by:
-
-A. Babur
-B. Gulbadan Begum
-C. Jahangir
-D. Badauni
-
-<details><summary>Show answer</summary>
-
-**Logic:** Gulbadan Begum (Babur's daughter) wrote **Humayunnama** on Humayun.
-
-**Ans: B.**
-
-**Trap:** Jahangir wrote **Tuzuk-i-Jahangiri**, not Humayunnama.
+**Logic:** Tutinama is by Nakhshabi — not Khusrau.
 
 </details>
 
-**Q14.** Correctly matched:
+**Q7.** Consider the following vernacular pairs:
 
-A. Ain-i-Akbari — Jahangir
-B. Muntakhab-ut-Tawarikh — Badauni
-C. Rag Vibodh — Barani
-D. Khamsa — Ibn Battuta
+1. Mulla Daud — Chandayan
+2. Damodar Kavi — Padmavati Katha
+3. Malik Muhammad Jaisi — Padmavat
 
-<details><summary>Show answer</summary>
+Which of the pairs given above is/are correctly matched?
 
-**Logic:** Badauni wrote the critical **Muntakhab-ut-Tawarikh**.
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-**Ans: B.**
+<details>
+<summary>Show answer</summary>
 
-**Trap:** Ain-i-Akbari = **Abul Fazl**; Rag Vibodh = **Khusrau**; Khamsa = **Khusrau**.
+**Ans: D.** All three pairs are correctly matched.
 
-</details>
-
-**Q15.** Tarikh-i-Firoz Shahi covers:
-
-A. Akbar's reign
-B. Balban to Firuz Shah
-C. Shah Jahan
-D. Ghaznavid only
-
-<details><summary>Show answer</summary>
-
-**Logic:** Barani's Tarikh-i-Firoz Shahi runs from **Balban to early Firuz Shah**.
-
-**Ans: B.**
-
-**Trap:** Alauddin Khalji policy questions also draw on this text.
+**Logic:** Padmavat ≠ Padmavati Katha.
 
 </details>
 
-**Q16.** A(A): Persian was dominant Mughal court language. R(R): Babur wrote memoir in Persian.
+**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Both true, R explains A
-B. Both true, R not explanation
-C. A true, R false
-D. A false, R true
+Assertion (A): Baburnama and Akbarnama are the same kind of text by the same author.
 
-<details><summary>Show answer</summary>
+Reason (R): Baburnama is Babur’s Chagatai Turki memoir, while Akbarnama is Abul Fazl’s Persian history of Akbar.
 
-**A/R logic:** A is true: Persian dominated the Mughal **court language**.
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-**Ans: C (A true, R false).**
+<details>
+<summary>Show answer</summary>
 
-**R is false:Babur** wrote **Baburnama** in **Chagatai Turki**, not Persian.
+**Ans: B.** (A) is false, but (R) is true.
 
-**Why not A:** Babur's memoir language ≠ court language.
-
-</details>
-
-**Q17.** Abdul Hamid Lahori associated with:
-
-A. Akbarnama
-B. Padshahnama
-C. Baburnama
-D. Tabaqat-i-Nasiri
-
-<details><summary>Show answer</summary>
-
-**Logic:** Abdul Hamid Lahori was primary author of **Padshahnama** (Shah Jahan).
-
-**Ans: B.**
-
-**Trap:** Abul Fazl wrote **Akbarnama**, not Lahori.
+**A/R logic:** Author, language, and genre all differ.
 
 </details>
 
-**Q18.** Authorship chronology: 1.Tabaqat-i-Nasiri 2.Tarikh-i-Firoz Shahi 3.Baburnama 4.Akbarnama
+**Q9.** Match List-I with List-II:
 
-Options: A.1-2-3-4 | B.2-1-3-4 | C.1-3-2-4 | D.3-1-2-4
+| List-I | List-II |
+|--------|--------|
+| A. Humayunnama | 1. Jahangir |
+| B. Tuzuk-i-Jahangiri | 2. Gulbadan Begum |
+| C. Padshahnama | 3. Abdul Hamid Lahori |
+| D. Muntakhab-ut-Tawarikh | 4. Badauni |
 
-<details><summary>Show answer</summary>
+*Row order is not the answer code.*
 
-**Ans: A (1-2-3-4)Chronology:** Minhaj (~1260) → Barani (14th c.) → Babur memoir (16th c.) → Abul Fazl (late 16th c.).
+Code:
 
-**Trap:** Sultanate chronicles predate all Mughal court histories.
+A. A-2, B-3, C-1, D-4
+B. A-1, B-2, C-4, D-3
+C. A-2, B-1, C-3, D-4
+D. A-3, B-1, C-2, D-4
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q19.** 1. Khamsa — Amir Khusrau 2. Khamsa — Tansen
+**Ans: C.** A-2, B-1, C-3, D-4.
 
-A. Only 1
-B. Only 2
-C. Both
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A (Only 1)Why:Khamsa** (five masnavis) = **Amir Khusrau**; Tansen was Akbar's dhrupad master.
-
-**Trap:** Khusrau died **1325** — not Akbar's era.
-
-</details>
-
-**Q20.** NOT matched:
-
-A. Minhaj — Tabaqat-i-Nasiri
-B. Barani — Tughlaqnama
-C. Khusrau — Rag Vibodh
-D. Battuta — Akbarnama
-
-<details><summary>Show answer</summary>
-
-**Logic:** ** Ibn Battuta wrote **Rihla**; **Akbarnama** = **Abul Fazl**.
-
-**Ans: D.**
-
-**Trap:** A, B, C are all correct pairs — only D is wrong.
+**Logic:** Badauni is hostile historiography; Abul Fazl is official panegyric.
 
 </details>
 
-**Q21.** Muntakhab-ut-Tawarikh by:
+**Q10.** With reference to Barani, which statements is/are correct?
 
-A. Abul Fazl
-B. Badauni
-C. Faizi
-D. Lahori
+1. Fatawa-i-Jahandari is his political theory text.
+2. Fatwa-i-Firuz Shahi is Firuz Shah’s own regulations.
+3. Fatawa-i-Jahandari and Fatwa-i-Firuz Shahi are the same book.
 
-<details><summary>Show answer</summary>
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-**Logic:** Abdul Qadir Badauni wrote the secret critical **Muntakhab-ut-Tawarikh**.
+<details>
+<summary>Show answer</summary>
 
-**Ans: B.**
+**Ans: B.** Only 1 and 2 are correct.
 
-**Trap:** Abul Fazl wrote the official **Akbarnama** — Badauni's work is the hostile counter-narrative.
-
-</details>
-
-**Q22.** Delhi Sultanate vs Mughal: 1. Both used Persian 2. Both relied exclusively on Sanskrit chronicles
-
-A. Only 1
-B. Only 2
-C. Both
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A (Only 1)Why:** Both periods used **Persian** as court language; chronicles were Persian, not exclusively Sanskrit.
-
-**Trap:** Sanskrit continued in temples but not as the main court chronicle language.
+**Logic:** Name similarity is the trap — different authors and purposes.
 
 </details>
 
-**Q23.** Taj-ul-Maasir linked to:
+**Q11.** Which one of the following is NOT correctly matched?
 
-A. Hasan Nizami
-B. Barani
-C. Minhaj
-D. Khusrau
+A. Tarikh — continuous annals
+B. Tabaqat — generational “classes” of biographies
+C. Riyaz-us-Salatin — Bengal history
+D. Riyaz-ul-Insha — Bengal history by the same author as C
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Logic:** Hasan Nizami wrote **Taj-ul-Maasir** on early Delhi conquests (Aibak–Iltutmish).
+**Ans: D.** Riyaz-ul-Insha is Gawan’s letters.
 
-**Ans: A.**
-
-**Trap:** Do not assign it to Barani (Tarikh/Tughlaqnama author).
-
-</details>
-
-**Q24.** A/R: Abul Fazl wrote Akbarnama and Ain-i-Akbari. R: Ain-i-Akbari is narrative biography while Akbarnama lists revenue.
-
-A. Both true, R explains A
-B. Both true, R not explanation
-C. A true, R false
-D. A false, R true
-
-<details><summary>Show answer</summary>
-
-**A/R logic:** A is true: Abul Fazl wrote both **Akbarnama** and **Ain-i-Akbari**.
-
-**Ans: C (A true, R false).**
-
-**R is false:** R **reverses** the two — Akbarnama is narrative history; Ain-i-Akbari lists revenue/admin data.
-
-**Trap:** "Ain = Admin" mnemonic — never swap the two book types.
+**Logic:** Riyaz-us-Salatin vs Riyaz-ul-Insha is a regional Persian trap.
 
 </details>
 
-**Q25.** Gulbadan Begum was:
+**Q12.** With reference to regional Persian works, which statements is/are correct?
 
-A. Daughter of Babur; author of Humayunnama
-B. Wife of Akbar; author of Akbarnama
-C. Daughter of Jahangir; author of Tuzuk
-D. Sister of Aurangzeb
+1. Mirat-e-Sikandari = Gujarat.
+2. Burhan-e-Masir = Ahmadnagar.
+3. Riyaz-us-Salatin = Bengal.
 
-<details><summary>Show answer</summary>
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-**Logic:** Gulbadan Begum was **Babur's daughter** and wrote **Humayunnama**.
+<details>
+<summary>Show answer</summary>
 
-**Ans: A.**
+**Ans: D.** All three are correct.
 
-**Trap:** Akbarnama = **Abul Fazl**; Tuzuk = **Jahangir** (male emperor).
-
-</details>
-
-**Q26.** Match type: A.Barani B.Abul Fazl (Ain) C.Babur with 1.Turki memoir 2.Admin gazetteer 3.Sultanate tarikh
-
-Options: A.3-2-1 | B.2-3-1 | C.1-2-3 | D.3-1-2
-
-<details><summary>Show answer</summary>
-
-**Ans: A (3-2-1)Facts:** Barani–Sultanate tarikh (3) | Abul Fazl–Admin gazetteer (2) | Babur–Turki memoir (1)
-
-**Trap:** Only **Baburnama** is Turki original; Ain-i-Akbari is Persian admin text.
+**Logic:** Keep Gawan’s Riyaz-ul-Insha off the Bengal shelf.
 
 </details>
 
-**Q27.** Faizi died in:
+**Q13.** Consider the following statements about Afif and Barani:
 
-A. 1595
-B. 1602
-C. 1627
-D. 1658
+1. Both wrote works titled Tarikh-i-Firoz Shahi for different phases.
+2. Afif covers later Firuz; Barani’s Tarikh stops earlier.
+3. Ibn Battuta wrote Tarikh-i-Firoz Shahi as a third identical text.
 
-<details><summary>Show answer</summary>
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
 
-**Logic:** Faizi (Abul Fazl's brother, poet laureate) died in **1595**.
+<details>
+<summary>Show answer</summary>
 
-**Ans: A.**
+**Ans: C.** Only 1 and 2 are correct.
 
-**Trap:** Abul Fazl was **murdered 1602** — do not swap the two brothers' death years.
-
-</details>
-
-**Q28.** Common author traps: 1. **Tarikh-i-Firozshahi — Shams-i-Siraj Alif** is wrong 2. **Tughlaqnama — Ibn Battuta** is wrong
-
-A. Only 1
-B. Only 2
-C. Both
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: C (Both)** — official key **C** (Tughlaqnama–Battuta)
-
-**Why:** Both pairs are wrong — Tarikh = **Barani**; Tughlaqnama = **Barani**.
-
-**Trap:** UPPCS official answer picks **C** as the NOT-matched option in the stem.
+**Logic:** Double-title trap: same name, different authors/periods.
 
 </details>
 
-**Q29.** Jahangir: 1. Wrote Tuzuk-i-Jahangiri 2. Wrote Padshahnama on own reign
+**Q14.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Only 1
-B. Only 2
-C. Both
-D. Neither
+Assertion (A): Amir Khusrau belongs to the Sultanate age.
 
-<details><summary>Show answer</summary>
+Reason (R): He should be placed in Akbar’s Navratna music circle with Tansen.
 
-**Ans: A (Only 1)Why:** Jahangir wrote **Tuzuk-i-Jahangiri** (Persian memoir); **Padshahnama** = Shah Jahan chronicle by Lahori.
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-**Trap:** Emperors did not always write their own official panegyric chronicles.
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: C.** (A) is true, but (R) is false.
 
-**Q30.** Original Baburnama language:
-
-A. Persian
-B. Arabic
-C. Chagatai Turki
-D. Hindavi
-
-<details><summary>Show answer</summary>
-
-**Logic:** **Baburnama** was originally written in **Chagatai Turki**, not Persian.
-
-**Ans: C.** **Baburnama** was originally written in **Chagatai Turki**.
-
-**Trap:** Persian translation came later (Abdur Rahim Khan-i-Khanan).
+**A/R logic:** Khusrau ≠ Tansen contemporaries.
 
 </details>
 
-**Q31.** Amir Khusrau served court of:
+**Q15.** Arrange / identify the correct vernacular match code for:
 
-A. Akbar
-B. Alauddin Khalji among others
-C. Shah Jahan
-D. Aurangzeb
+A. A-4, B-3, C-1, D-2
+with 1. Rag Vibodh  2. Ashiqa  3. Chandayan  4. Padmavati Katha
 
-<details><summary>Show answer</summary>
+A. A-4, B-3, C-1, D-2
+B. A-3, B-4, C-2, D-1
+C. A-3, B-2, C-4, D-1
+D. A-1, B-4, C-2, D-3
 
-**Logic:** ** Khusrau served **Balban, Alauddin Khalji, and Ghiyasuddin Tughlaq** — died **1325**.
+<details>
+<summary>Show answer</summary>
 
-**Ans: B.**
+**Ans: B.** Chandayan–Mulla Daud; Padmavati Katha–Damodar; Ashiqa–Somnath; Rag Vibodh–Khusrau (literary list).
 
-**Trap:** Khusrau ≠ Tansen (Akbar); not a Mughal court poet.
-
-</details>
-
-**Q32.** Padshahnama vs Tuzuk: 1. Padshahnama = Shah Jahan chronicle 2. Tuzuk = Jahangir memoir
-
-A. Only 1
-B. Only 2
-C. Both
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: C (Both)Why:Padshahnama** (Lahori) = Shah Jahan; **Tuzuk-i-Jahangiri** = Jahangir's own memoir.
-
-**Trap:** Both are Mughal texts but different emperors and genres.
+**Logic:** Music-treatise stems may pair Raga Vibodh with Somanath — learn both codes.
 
 </details>
 
-**Q33.** Tutinama translator:
+**Q16.** Which of the following statements about Mughal texts is/are correct?
 
-A. Nakhshabi
-B. Amir Khusrau
-C. Barani
-D. Abul Fazl
+1. Alamgirnama is by Mirza Muhammad Kazim (Aurangzeb age).
+2. Futuh-us-Salatin is by Abdul Malik Isami.
+3. Padshahnama is Jahangir’s own memoir.
 
-<details><summary>Show answer</summary>
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
 
-**Logic:** Nakhshabi translated *Suka Saptati* as **Tutinama**.
+<details>
+<summary>Show answer</summary>
 
-**Ans: A.**
+**Ans: C.** Only 1 and 2 are correct.
 
-**Trap:** Amir Khusrau** is the standard wrong option.
-
-</details>
-
-**Q34.** Match: A.Mirat-e-Sikandari B.Burhan-e-Masir C.Riyaz-us-Salatin D.Riyaz-ul-Insha with 1.Bengal 2.Ahmadnagar 3.Gawan's letters 4.Gujarat
-
-Options: A.4-2-1-3 | B.2-4-1-3 | C.1-2-4-3 | D.4-2-3-1
-
-<details><summary>Show answer</summary>
-
-**Ans: A (4-2-1-3)** — **UPPCS 2023 Q33Facts:** Mirat-e-Sikandari–Gujarat (4) | Burhan-e-Masir–Ahmadnagar (2) | Riyaz-us-Salatin–Bengal (1) | Riyaz-ul-Insha–Gawan (3)
-
-**Trap:** Do not swap the two **Riyaz** titles.
+**Logic:** Padshahnama is Abdul Hamid Lahori on Shah Jahan; Tuzuk is Jahangir’s memoir.
 
 </details>
 
-**Q35.** Which statement is **false**?
+**Q17.** Match List-I with List-II:
 
-A. Abul Fazl wrote Akbarnama
-B. Barani wrote Tughlaqnama
-C. Ibn Battuta wrote Tughlaqnama
-D. Jahangir wrote Tuzuk-i-Jahangiri
+| List-I | List-II |
+|--------|--------|
+| A. Razmnama | 1. Persian Mahabharata rendering under Akbar |
+| B. Hindavi bridge literature | 2. Especially Amir Khusrau |
+| C. Hostile Akbar historiography | 3. Badauni |
+| D. Official Akbar panegyric | 4. Abul Fazl |
 
-<details><summary>Show answer</summary>
+*Row order is not the answer code.*
 
-**Logic:** Ibn Battuta did **not** write Tughlaqnama — **Barani** did.
+Code:
 
-**Ans: C.**
+A. A-1, B-2, C-3, D-4
+B. A-2, B-1, C-4, D-3
+C. A-1, B-3, C-2, D-4
+D. A-3, B-2, C-1, D-4
 
-**Trap:** A, B, D are all true statements.
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: A.** A-1, B-2, C-3, D-4.
 
-**Q36.** Ain-i-Akbari contains:
-
-A. Akbar's birth story
-B. Revenue, army, province data
-C. Jahangir's natural history
-D. Shah Jahan's Deccan campaigns
-
-<details><summary>Show answer</summary>
-
-**Logic:** Ain-i-Akbari is an **administrative gazetteer** — revenue, army, provinces, castes, customs.
-
-**Ans: B.**
-
-**Trap:** Narrative life story belongs to **Akbarnama**, not Ain.
+**Logic:** Akbar’s translation peak also covered Ramayana with Faizi’s circle.
 
 </details>
 
-**Q37.** Barani's Jahandari theory means:
+**Q18.** With reference to UP literary facts, which statements is/are correct?
 
-A. Sultan as worldly ruler balancing Sharia and state needs
-B. Complete rejection of Islam
-C. Hindu-Muslim synthesis
-D. Sufi mysticism
+1. Jaisi–Padmavat is an Awadhi epic landmark.
+2. Mulla Daud–Chandayan belongs to Awadhi / Hindavi romance.
+3. Vernacular Bhakti poetry of Kabir, Tulsidas, and Surdas ran parallel to Persian court literature.
 
-<details><summary>Show answer</summary>
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-**Logic:** Jahandari = worldly kingship balancing **Sharia** with political **zawabit** (state laws).
+<details>
+<summary>Show answer</summary>
 
-**Ans: A.**
+**Ans: D.** All three are correct.
 
-**Trap:** Not sulh-i-kul (Akbar) or Sufi mysticism.
-
-</details>
-
-**Q38.** Baburnama Persian translation by:
-
-A. Abul Fazl
-B. Abdur Rahim Khan-i-Khanan
-C. Badauni
-D. Faizi
-
-<details><summary>Show answer</summary>
-
-**Logic:** Abdur Rahim Khan-i-Khanan (Bairam Khan's son) translated Baburnama into Persian.
-
-**Ans: B.**
-
-**Trap:** Original memoir is **Turki**; Abul Fazl wrote **Akbarnama**, not Baburnama translation.
+**Logic:** Court Persian and vernacular devotion are parallel streams, not one replacement.
 
 </details>
 
-**Q39.** Riyaz-us-Salatin is history of:
+**Q19.** Which of the following pairs is NOT correctly matched?
 
-A. Bengal
-B. Gujarat
-C. Deccan
-D. Kashmir
+A. Khazain-ul-Futuh — Amir Khusrau (Alauddin)
+B. Miftah-ul-Futuh — Amir Khusrau (Jalaluddin Khalji)
+C. Tutinama — Nakhshabi
+D. Tutinama — Amir Khusrau
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Logic:** Riyaz-us-Salatin = **Bengal** history.
+**Ans: D.** Tutinama is Nakhshabi’s, not Khusrau’s.
 
-**Ans: A.**
-
-**Trap:** Riyaz-ul-Insha** = Gawan's letters — do not swap the two Riyaz titles.
-
-</details>
-
-**Q40.** Amir Khusrau's disciple relationship:
-
-A. Disciple of Nizamuddin Auliya
-B. Disciple of Ramananda
-C. Disciple of Vallabhacharya
-D. Disciple of Abul Fazl
-
-<details><summary>Show answer</summary>
-
-**Logic:** Amir Khusrau was disciple of **Nizamuddin Auliya** (Chishti).
-
-**Ans: A.**
-
-**Trap:** Ramananda/Vallabhacharya = Bhakti gurus, not Khusrau's silsilah.
+**Logic:** Khalji pair Miftah vs Khazain must stay straight.
 
 </details>
 
-**Q41.** Khazain-ul-Futuh was written by:
+**Q20.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Ziauddin Barani
-B. Amir Khusrau
-C. Ibn Battuta
-D. Hasan Nizami
+Assertion (A): Gulbadan Begum’s Humayunnama is a rare female voice in Mughal prose.
 
-<details><summary>Show answer</summary>
+Reason (R): Court Persian ran as the main administrative literary language from Iltutmish through Aurangzeb.
 
-**Logic:** Khazain-ul-Futuh is Amir Khusrau's Persian account of **Alauddin Khalji's** conquests. **Miftah-ul-Futuh** covers **Jalaluddin Khalji**.
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-**Ans: B.**
+<details>
+<summary>Show answer</summary>
 
-**Trap:** Barani** wrote **Tarikh-i-Firoz Shahi** and **Fatawa-i-Jahandari**, not Khusrau's victory chronicles.
+**Ans: A.** Both (A) and (R) are true, but (R) does not explain Gulbadan’s rarity — it states a broader language fact.
 
-</details>
-
-**Q42.** Padmavat (Awadhi epic) was composed by:
-
-A. Damodar Kavi
-B. Malik Muhammad Jaisi
-C. Mulla Daud
-D. Tulsidas
-
-<details><summary>Show answer</summary>
-
-**Logic:** Malik Muhammad Jaisi wrote **Padmavat** in **Awadhi** (~16th c.) — a major UP literary fact.
-
-**Ans: B.**
-
-**Trap:** **Damodar Kavi** wrote **Padmavati Katha** — not Jaisi's **Padmavat**.
+**A/R logic:** A is about authorship gender/voice; R is about imperial language continuity.
 
 </details>
 
-**Q43.** Kitab-ul-Hind was written by:
+**Q21.** With reference to genre terms, which statements is/are correct?
 
-A. Amir Khusrau
-B. Alberuni
-C. Abul Fazl
-D. Barani
+1. Tarikh means continuous annals.
+2. Tabaqat means generational biographical “classes.”
+3. Ain-i-Akbari is best read as a pure verse epic like Padmavat.
 
-<details><summary>Show answer</summary>
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-**Logic:** Alberuni (Al-Biruni) wrote **Kitab-ul-Hind** in **Arabic** after studying India under **Mahmud of Ghazni**.
+<details>
+<summary>Show answer</summary>
 
-**Ans: B.**
+**Ans: A.** Only 1 and 2 are correct.
 
-**Trap:** Khusrau and Barani are **Delhi Sultanate Persian** authors — Alberuni belongs to the earlier **Ghaznavid** scientific tradition.
+**Logic:** Ain is an admin/statistical gazetteer beside Akbarnama’s narrative.
 
 </details>
 
----
+**Q22.** Consider the following statements:
+
+1. Somnath is paired with Ashiqa in the vernacular match list.
+2. Amir Khusrau is paired with Rag Vibodh in the literary list.
+3. Padmavat is Damodar Kavi’s Awadhi epic.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Padmavat is Jaisi; Damodar wrote Padmavati Katha.
+
+</details>
+
+**Q23.** Which of the following statements about Badauni and Abul Fazl is/are correct?
+
+1. Badauni wrote Muntakhab-ut-Tawarikh and was critical of Akbar.
+2. Abul Fazl wrote both Akbarnama and Ain-i-Akbari.
+3. Both authors wrote Baburnama in Turki.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Baburnama is Babur’s own Turki memoir.
+
+</details>
+
+**Q24.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. Futuh-us-Salatin | 1. Isami |
+| B. Alamgirnama | 2. Mirza Muhammad Kazim |
+| C. Fatawa-i-Jahandari | 3. Barani |
+| D. Rihla | 4. Ibn Battuta |
+
+*Row order is not the answer code.*
+
+Code:
+
+A. A-1, B-2, C-3, D-4
+B. A-2, B-1, C-4, D-3
+C. A-1, B-3, C-2, D-4
+D. A-3, B-2, C-1, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** A-1, B-2, C-3, D-4.
+
+**Logic:** Keep political theory Fatawa-i-Jahandari off the travelogue shelf.
+
+</details>
+
+**Q25.** With reference to translation under Akbar, which statements is/are correct?
+
+1. Mahabharata was rendered as Razmnama.
+2. Ramayana and related texts were also translated into Persian.
+3. Faizi’s circle participated in the translation peak.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are correct.
+
+**Logic:** Translation peak is an Akbar cultural tag, not a Jahangir memoir fact.
+
+</details>
+
+**Q26.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Tuzuk-i-Jahangiri is the emperor’s own memoir.
+
+Reason (R): Padshahnama is Abdul Hamid Lahori’s chronicle of Shah Jahan.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both (A) and (R) are true, but (R) does not explain (A) — it is a parallel Mughal text fact.
+
+**A/R logic:** Memoir vs court chronicle is the genre contrast.
+
+</details>
+
+**Q27.** Which of the following statements is/are correct?
+
+1. Court Persian remained central from Iltutmish through Aurangzeb.
+2. Hindavi bridge literature is especially associated with Amir Khusrau.
+3. Baburnama proves that all Mughal official histories were written only in Turki.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Babur’s Turki memoir is the exception, not the administrative rule.
+
+</details>
+
+**Q28.** Consider the following pairs:
+
+1. Barani — Tarikh-i-Firoz Shahi (earlier span)
+2. Afif — Tarikh-i-Firoz Shahi (later Firuz)
+3. Hasan Nizami — Taj-ul-Maasir
+
+Which of the pairs given above is/are correctly matched?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three pairs are correctly matched.
+
+**Logic:** Period split is the double-title key.
+
+</details>
+
+**Q29.** Which one of the following is NOT correctly matched?
+
+A. Padmavat — Malik Muhammad Jaisi
+B. Chandayan — Mulla Daud
+C. Padmavati Katha — Damodar Kavi
+D. Padmavat — Damodar Kavi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Padmavat is Jaisi’s; Damodar wrote Padmavati Katha.
+
+**Logic:** Near-identical titles are deliberate distractors.
+
+</details>
+
+**Q30.** With reference to Sultanate chronicles, which statements is/are correct?
+
+1. Tabaqat-i-Nasiri is by Minhaj-us-Siraj.
+2. Kitab-ul-Hind is by Alberuni.
+3. Taj-ul-Maasir is by Hasan Nizami.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are correct.
+
+**Logic:** These are core book↔author Must-Score rows.
+
+</details>
 
 ## Common Traps — Don't Fall For These
 

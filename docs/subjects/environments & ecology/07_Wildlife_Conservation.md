@@ -701,513 +701,605 @@ D. WPA provisions / CWLW authority apply
 
 ## Practice Zone — UPPCS Format Drill
 
-> **30 questionsQ1.** With reference to wildlife conservation, which statements is/are correct?
+> **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D | **Ans first, then Logic**
 
-1. In-situ conservation is the primary strategy in India.
-2. World Wildlife Day is observed on 22 March.
+**Q1.** With reference to wildlife conservation strategy, which of the following statements is/are correct?
 
-A. Only 1
+1. In-situ conservation is the preferred primary strategy.
+2. Ex-situ methods are backup tools.
+3. Ex-situ alone is enough; in-situ parks are optional in all cases.
 
-B. Only 2
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. Both 1 and 2
+<details>
+<summary>Show answer</summary>
 
-D. Neither
+**Ans: B.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q2.** With reference to WPA 1972, which statements is/are correct?
-
-1. Schedule I species enjoy maximum protection.
-2. The Act was enacted in 1973 along with Project Tiger.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** In-situ remains primary.
 
 </details>
 
-**Q3.** With reference to Project Tiger, which statements is/are correct?
+**Q2.** Which of the following is/are major wildlife threats in standard teaching?
 
-1. It was launched in 1973.
-2. NTCA has statutory status under WPA.
+1. Habitat loss
+2. Poaching
+3. Veterinary diclofenac for vultures
+4. Human–wildlife conflict
 
-A. Only 1
+A. 1 and 2 only
+B. 1, 2 and 4 only
+C. 1, 2, 3 and 4
+D. 2, 3 and 4 only
 
-B. Only 2
+<details>
+<summary>Show answer</summary>
 
-C. Both 1 and 2
+**Ans: C.** All four.
 
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q4.** With reference to Project Elephant, which statements is/are correct?
-
-1. It was launched in 1992.
-2. Elephant Reserves have statutory basis under WPA like Tiger Reserves.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** All are standard threat locks including diclofenac.
 
 </details>
 
-**Q5.** With reference to the Crocodile Conservation Project, which statements is/are correct?
+**Q3.** With reference to WPA Schedules, which of the following statements is/are correct?
 
-1. It was launched in 1975.
-2. It covers only the gharial.
+1. Schedule I gives maximum protection.
+2. Schedule VI covers specified plants needing licence for cultivation.
+3. Schedule I animals may be hunted freely with a district collector’s oral order.
 
-A. Only 1
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
-B. Only 2
+<details>
+<summary>Show answer</summary>
 
-C. Both 1 and 2
+**Ans: D.** Only 1 and 2.
 
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q6.** With reference to Asiatic lions, which statements is/are correct?
-
-1. Wild population exists only in Gujarat.
-2. Dudhwa National Park is a major Asiatic lion habitat.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Schedule I is maximum protection — not free hunting.
 
 </details>
 
-**Q7.** With reference to rhino conservation, which statements is/are correct?
+**Q4.** Match List-I with List-II:
 
-1. Kaziranga holds India's largest rhino population.
-2. All Indian rhinos live only in Assam.
+| List-I | List-II |
+|--------|--------|
+| A. Project Tiger | 1. 1992 |
+| B. Project Elephant | 2. 1973 |
+| C. Crocodile Project | 3. 1975 |
 
-A. Only 1
+Code:
 
-B. Only 2
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
 
-C. Both 1 and 2
+<details>
+<summary>Show answer</summary>
 
-D. Neither
+**Ans: A.** A-2, B-1, C-3.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q8.** With reference to snow leopards, which statements is/are correct?
-
-1. Project Snow Leopard was launched in 2009.
-2. Snow leopards are found in Gir forest.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Tiger 1973; Elephant 1992; Crocodile 1975.
 
 </details>
 
-**Q9.** With reference to vulture conservation, which statements is/are correct?
+**Q5.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-1. Veterinary diclofenac was banned in 2006.
-2. Diclofenac poisoning affected vultures feeding on treated cattle carcasses.
+Assertion (A): NTCA governs Tiger Reserves.
 
-A. Only 1
+Reason (R): NTCA became statutory through the 2005/2006 WPA amendments path.
 
-B. Only 2
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-C. Both 1 and 2
+<details>
+<summary>Show answer</summary>
 
-D. Neither
+**Ans: D.** Both true and R explains NTCA’s statutory tiger role.
 
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q10.** Operation Olivia is associated with:
-
-A. Snow leopard in Ladakh
-
-B. Olive Ridley turtles on Odisha coast
-
-C. Gharial on Chambal
-
-D. Vultures in Gangetic plain
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**A/R logic:** Statutory NTCA is tied to the TR governance path.
 
 </details>
 
-**Q11.** Project Tiger was launched in:
+**Q6.** With reference to Project Tiger, which of the following statements is/are correct?
 
-A. 1972
+1. It began in 1973; Corbett was the first tiger reserve.
+2. India has 58 tiger reserves in recent counts.
+3. The 2022 census figure often cited is about 3,682 tigers.
 
-B. 1973
+A. 1 and 2 only
+B. 1, 2 and 3
+C. 1 and 3 only
+D. 2 and 3 only
 
-C. 1992
+<details>
+<summary>Show answer</summary>
 
-D. 2006
+**Ans: B.** All three.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q12.** Pinjore is famous for:
-
-A. Tiger breeding
-
-B. Vulture captive breeding
-
-C. Rhino translocation
-
-D. Lion census
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** 1973/Corbett; 58 TRs; ~3682 (2022).
 
 </details>
 
-**Q13.** India's main gharial stronghold is:
+**Q7.** Which of the following pairs is/are NOT correctly matched?
 
-A. Sundarbans
+1. Project Lion (2020) — Asiatic lions at Gir, Gujarat
+2. Project Snow Leopard (2009) — high Himalaya
+3. Project Lion — wild Asiatic lions across Uttar Pradesh plains
 
-B. National Chambal Sanctuary
+A. 1 and 2 only
+B. 2 and 3 only
+C. 3 only
+D. 1, 2 and 3
 
-C. Bhitar Kanika
+<details>
+<summary>Show answer</summary>
 
-D. Periyar lake
+**Ans: C.** Only pair 3 is not correctly matched.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q14.** Project Lion was launched in:
-
-A. 1973
-
-B. 2009
-
-C. 2020
-
-D. 2022
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
+**Logic:** UP has no wild Asiatic lion population.
 
 </details>
 
-**Q15.** GSLEP involves how many snow leopard range countries?
+**Q8.** Arrange the following in chronological order:
 
-A. 8
+1. Project Tiger
+2. Crocodile Project
+3. Project Elephant
+4. Project Snow Leopard
 
-B. 10
+A. 1-2-4-3
+B. 2-1-3-4
+C. 1-3-2-4
+D. 1-2-3-4
 
-C. 12
+<details>
+<summary>Show answer</summary>
 
-D. 15
+**Ans: D.** 1973 → 1975 → 1992 → 2009.
 
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q16.** Arrange chronologically:
-
-1. WPA 2. Project Tiger 3. Project Elephant 4. Biodiversity Act
-
-A. 1, 2, 3, 4
-
-B. 2, 1, 3, 4
-
-C. 1, 3, 2, 4
-
-D. 4, 1, 2, 3
-
-<details><summary>Show answer</summary>
-
-**Ans: A** — UPPCS 2019 Q67 pattern.
+**Logic:** Tiger 1973; Crocodile 1975; Elephant 1992; Snow Leopard 2009.
 
 </details>
 
-**Q17.** Which UP site has reintroduced one-horned rhino?
+**Q9.** With reference to gharial, which of the following statements is/are correct?
 
-A. Pilibhit
+1. Crocodile Project covers gharial, mugger, and saltwater crocodile.
+2. Chambal is a classic natural gharial viewing landscape.
+3. Gharial is absent from Schedule I teaching lists.
 
-B. Dudhwa
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. Katarniaghat
+<details>
+<summary>Show answer</summary>
 
-D. Nawabganj
+**Ans: A.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q18.** Which pair is NOT correctly matched?
-
-A. Project Elephant — 1992
-
-B. Crocodile Project — 1975
-
-C. Project Snow Leopard — 2013
-
-D. Project Lion — 2020
-
-<details><summary>Show answer</summary>
-
-**Ans: C** — Project Snow Leopard = **2009**; GSLEP = 2013.
+**Logic:** Gharial is a frequent Schedule I fact.
 
 </details>
 
-**Q19.** NBWL is chaired by:
+**Q10.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Environment Minister
+Assertion (A): Veterinary diclofenac ban (2006) addresses vulture decline.
 
-B. Prime Minister
+Reason (R): Diclofenac caused renal failure in Indian vultures feeding on treated carcasses.
 
-C. CWLW
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. NTCA chair
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: D.** Both true and R explains the ban.
 
-**Ans: B**
-
-</details>
-
-**Q20.** 2022 All India Tiger Estimation recorded approximately:
-
-A. 1,411
-
-B. 2,226
-
-C. 3,682
-
-D. 4,500
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
+**A/R logic:** Causal link is renal failure from diclofenac residues.
 
 </details>
 
-**Q21.** Assertion (A): Tiger is an umbrella species.
-Reason (R): Protecting tiger habitat also protects prey and co-predators.
+**Q11.** Match List-I with List-II:
 
-A. Both true; R explains A
+| List-I | List-II |
+|--------|--------|
+| A. NBWL | 1. State implementing officer |
+| B. CWLW | 2. PM-chaired national advisory body |
+| C. IRV 2020 | 3. Rhino recovery plan including Dudhwa |
 
-B. Both true; R not explanation
+Code:
 
-C. A true, R false
+A. A-1, B-2, C-3
+B. A-2, B-1, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
 
-D. A false, R true
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: B.** A-2, B-1, C-3.
 
-**Ans: A**
-
-</details>
-
-**Q22.** Which species is NOT covered under the 1975 Crocodile Project?
-
-A. Gharial
-
-B. Mugger
-
-C. Saltwater crocodile
-
-D. Alligator
-
-<details><summary>Show answer</summary>
-
-**Ans: D**
+**Logic:** NBWL PM-chaired; CWLW state; IRV includes Dudhwa.
 
 </details>
 
-**Q23.** Kuno-Palpur Wildlife Sanctuary is planned as second home for:
+**Q12.** With reference to Project Elephant, which of the following statements is/are correct?
 
-A. Tiger
+1. It began in 1992 with about 33 elephant reserves.
+2. It covers wild and captive elephants.
+3. It has the same WPA Section 38V statutory basis as Tiger Reserves.
 
-B. Cheetah
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
 
-C. Asiatic lion
+<details>
+<summary>Show answer</summary>
 
-D. Snow leopard
+**Ans: C.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q24.** Meloxicam is promoted because it is:
-
-A. Safe alternative NSAID for cattle
-
-B. Pesticide for locusts
-
-C. Rhino anti-poaching drug
-
-D. Tiger tranquiliser only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** No WPA statutory basis like TR.
 
 </details>
 
-**Q25.** Hemis National Park is important for:
+**Q13.** Which of the following Schedule I species facts is/are correctly stated?
 
-A. Asiatic lion
+1. Tiger, elephant, rhino, gharial, and vultures appear in frequent Schedule I teaching.
+2. A Schedule I tortoise enjoys the same maximum protection principle.
+3. Schedule VI plants need CWLW (or authorised officer) licence for cultivation.
 
-B. Saltwater crocodile
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. Snow leopard
+<details>
+<summary>Show answer</summary>
 
-D. Olive Ridley turtle
+**Ans: D.** All three.
 
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q26.** Which is WPA Schedule I species?
-
-A. Common crow
-
-B. Lantana
-
-C. Gharial
-
-D. Wild boar (general)
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
+**Logic:** Schedule I max protection; Schedule VI licence regime.
 
 </details>
 
-**Q27.** Terai Elephant Reserve in UP was notified in:
+**Q14.** With reference to GSLEP, which of the following statements is/are correct?
 
-A. 2009
+1. GSLEP (2013) is linked to snow leopard landscapes.
+2. Uttar Pradesh is the core snow leopard state of India.
+3. Project Snow Leopard began in 2009.
 
-B. 2014
+A. 1 and 3 only
+B. 1 and 2 only
+C. 2 and 3 only
+D. 1, 2 and 3
 
-C. 2020
+<details>
+<summary>Show answer</summary>
 
-D. 2022
+**Ans: A.** Only 1 and 3.
 
-<details><summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q28.** Operation Olivia nesting season is:
-
-A. August
-
-B. May–June
-
-C. November–February
-
-D. July–September
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
+**Logic:** UP has no snow leopard habitat.
 
 </details>
 
-**Q29.** IRV 2020 aimed to spread rhinos to how many protected areas?
+**Q15.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. 3
+Assertion (A): Schedule VI plants cannot be cultivated without a licence from the CWLW (or authorised officer).
 
-B. 5
+Reason (R): Schedule VI plants are banned from cultivation under all circumstances with no licence route.
 
-C. 7
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. 12
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: C.** A true, R false.
 
-**Ans: C**
+**A/R logic:** Licence route exists — not an absolute ban slogan.
 
 </details>
 
-**Q30.** Which institution led research linking diclofenac to vulture decline?
+**Q16.** Arrange: Vulture Action Plan / diclofenac ban teaching year:
 
-A. ZSI
+A. 1992
+B. 2006
+C. 2013
+D. 2020
 
-B. BNHS
+<details>
+<summary>Show answer</summary>
 
-C. FSI
+**Ans: B.** 2006.
 
-D. CPCB
+**Logic:** Vulture Action Plan and diclofenac ban teaching = 2006.
 
-<details><summary>Show answer</summary>
+</details>
 
-**Ans: B**
+**Q17.** Which of the following pairs is/are correctly matched?
+
+1. IRV 2020 — rhino recovery across seven PAs including Dudhwa
+2. Project Lion — Gir focus
+3. SAVE — Nepal–India vulture conservation cooperation teaching
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All three.
+
+**Logic:** IRV/Dudhwa; Gir lions; SAVE vulture cooperation.
+
+</details>
+
+**Q18.** With reference to in-situ vs ex-situ in this chapter, which statements is/are correct?
+
+1. Protected areas are in-situ.
+2. Captive breeding centres are ex-situ.
+3. Kukrail-type crocodile centres are in-situ National Parks.
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Captive centres are ex-situ — not NP in-situ.
+
+</details>
+
+**Q19.** How many of the following projects began before 1990?
+
+Project Tiger, Crocodile Project, Project Elephant, Project Snow Leopard
+
+A. Only two
+B. Only one
+C. Only three
+D. All four
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only two.
+
+**Logic:** Tiger 1973 and Crocodile 1975; Elephant 1992; Snow Leopard 2009.
+
+</details>
+
+**Q20.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. Schedule I | 1. Vermin teaching |
+| B. Schedule V | 2. Maximum protection |
+| C. Schedule VI | 3. Specified plants |
+
+Code:
+
+A. A-1, B-2, C-3
+B. A-2, B-1, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** A-2, B-1, C-3.
+
+**Logic:** I max; V vermin; VI plants.
+
+</details>
+
+**Q21.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Corbett was the first tiger reserve under Project Tiger.
+
+Reason (R): Project Tiger began in 1992.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true, R false.
+
+**A/R logic:** Project Tiger began in 1973 — not 1992.
+
+</details>
+
+**Q22.** With reference to human–wildlife conflict, which of the following statements is/are correct?
+
+1. It is listed among major wildlife threats.
+2. Habitat loss can intensify conflict.
+3. Conflict means wildlife laws are repealed automatically.
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Statement 3 is false.
+
+</details>
+
+**Q23.** Which one of the following correctly identifies NBWL?
+
+A. State pollution board
+B. Only a municipal forest cell
+C. UNEP Nairobi office
+D. PM-chaired national wildlife advisory body
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** PM-chaired national advisory body.
+
+**Logic:** NBWL ≠ SPCB / UNEP.
+
+</details>
+
+**Q24.** With reference to Dudhwa and rhinos, which of the following statements is/are correct?
+
+1. IRV 2020 includes Dudhwa among rhino recovery PAs.
+2. Dudhwa is in Uttar Pradesh.
+3. Project Lion’s wild lion focus is also Dudhwa.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Project Lion = Gir, not Dudhwa.
+
+</details>
+
+**Q25.** Arrange Schedule protection idea from strongest animal protection teaching:
+
+A. Schedule V > Schedule I
+B. Schedule I > lower animal schedules
+C. Schedule VI > Schedule I for animals
+D. Schedule V = Schedule I
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Schedule I is maximum for animals.
+
+**Logic:** Schedule VI is plants; V is vermin teaching.
+
+</details>
+
+**Q26.** Which of the following pairs is/are NOT correctly matched?
+
+1. Project Elephant — 1973
+2. Project Tiger — 1973
+3. Project Lion — 2020
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only pair 1 is not correctly matched.
+
+**Logic:** Project Elephant = 1992.
+
+</details>
+
+**Q27.** With reference to SAVE, which of the following statements is/are correct?
+
+1. It targets vulture conservation cooperation (Nepal–India teaching).
+2. It replaces the Wildlife (Protection) Act.
+3. It sits in the diclofenac / vulture recovery neighbourhood.
+
+A. 1 and 2 only
+B. 1, 2 and 3
+C. 2 and 3 only
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 3.
+
+**Logic:** Does not replace WPA.
+
+</details>
+
+**Q28.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Invasive species are a major wildlife/biodiversity threat.
+
+Reason (R): Poaching is never considered a wildlife threat in Indian teaching.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true, R false.
+
+**A/R logic:** Poaching is a core threat.
+
+</details>
+
+**Q29.** How many of the following are correctly paired with Gujarat/Assam classics?
+
+1. Asiatic lion — Gir
+2. One-horned rhino — Kaziranga teaching stronghold
+3. Snow leopard — Gir
+
+A. Only two
+B. Only one
+C. All three
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only two.
+
+**Logic:** Snow leopard is high Himalaya — not Gir.
+
+</details>
+
+**Q30.** With reference to WPA after Stockholm, which of the following statements is/are correct?
+
+1. WPA 1972 followed the Stockholm environmental moment.
+2. WPA uses six Schedules.
+3. Stockholm 1972 created Project Tiger in the same week as a UN statute.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Project Tiger is India’s 1973 programme — not a Stockholm UN statute.
 
 </details>
 

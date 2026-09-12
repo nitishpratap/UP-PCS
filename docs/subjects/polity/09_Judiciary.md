@@ -5048,626 +5048,43 @@ D. Neither 1 nor 2
 
 ## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden.** Full stems (not cryptic stubs). **90 questions in UPPCS / RO-ARO 2024–25 format.** ≥60% multi-statement/application. Q1–Q50 = SC/HC; Q51–Q90 = PIL, review/activism, subordinate courts, tribunals, ADR, contempt.
+> **Answers hidden.** **30 questions** in UPPCS 2024–25 format. ≥60% multi-statement/application. Includes A/R, Match List, chronology/arrange, and NOT-matched. Drawn from Consolidated Must-Score Facts and Confused Pairs — original stems, not verbatim past papers.
 
-**Q1.** With reference to the Supreme Court of India, which of the following statements is/are correct?
-1. It is established under Article 124.
-2. Article 214 also deals with the Supreme Court.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
+**Q1.** With reference to India’s judiciary, consider the following statements:
+1. It is integrated under one hierarchy apexed in the Supreme Court.
+2. It is independent of the executive and legislature.
+3. India follows a dual court system like the United States.
 
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 214 is High Courts.
-
-</details>
-
-**Q2.** How many of the following are qualifications for appointment as a Supreme Court judge?
-1. Citizen of India
-2. Five years as a High Court judge
-3. Distinguished jurist in the President’s opinion
-A. Only one
-B. Only two
-C. All three
-D. None
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** Integrated ≠ dual USA system; independence is a separate label.
 
 </details>
 
-**Q3.Assertion (A):** A distinguished jurist can be appointed a judge of a High Court.
-
-**Reason (R):** Article 217 does not contain a “distinguished jurist” clause.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+**Q2.** Which of the following pairs is NOT correctly matched?
+A. SC judge retirement age — 65
+B. HC judge retirement age — 62
+C. Distinguished jurist route — available for High Court appointments
+D. SC inauguration — 28 January 1950; first CJI H.J. Kania
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — A is false; R is true.
+**Ans: C.** Distinguished jurist route exists for the Supreme Court only.
+
+**Logic:** HC needs 10 years office or advocacy — no jurist route.
 
 </details>
 
-**Q4.** Match List-I with List-II and select the correct answer using the code given below the lists:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | Acting CJI |
-| B | Ad hoc SC judge |
-| C | Retired judge sitting in SC |
-| D | Seat of the SC |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Article 128 |
-| 2 | Article 126 |
-| 3 | Article 127 |
-| 4 | Article 130 |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-2, B-3, C-1, D-4
-B. A-2, B-1, C-3, D-4
-C. A-3, B-2, C-1, D-4
-D. A-2, B-3, C-4, D-1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q5.** With reference to resignation of judges, which of the following is/are correct?
-1. An SC judge addresses his resignation to the President.
-2. An HC judge addresses his resignation to the Governor.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — both resign to the **President**.
-
-</details>
-
-**Q6.** Consider the following statements about retirement ages:
-1. A Supreme Court judge retires at 65.
-2. A High Court judge retires at 62.
-Which of the above is/are correct?
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q7.** Arrange the following in correct **chronological order**:
-1. First Judges Case
-2. Third Judges Case
-3. Second Judges Case
-4. NJAC struck down
-Select the correct answer using the code given below:
-A. 1 – 3 – 2 – 4
-B. 1 – 2 – 3 – 4
-C. 3 – 1 – 2 – 4
-D. 1 – 3 – 4 – 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 1981, 1993, 1998, 2015.
-
-</details>
-
-**Q8.Assertion (A):** The Collegium system was created by the Second Judges Case.
-
-**Reason (R):** The First Judges Case had given primacy to the executive in appointments.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q9.** With reference to the Third Judges Case (1998), which of the following is/are correct?
-1. For SC appointments the Collegium is the CJI plus four senior-most SC judges.
-2. For HC appointments the Collegium is the CJI plus two senior-most SC judges.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q10.** Which of the following pairs are **NOT** correctly matched?
-1. 99th Amendment — NJAC
-2. NJAC upheld by the Supreme Court in 2015
-3. Collegium revived after the NJAC judgment
-Select the correct answer using the code given below:
-A. Only 2
-B. 1 and 2
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — NJAC was **struck down**.
-
-</details>
-
-**Q11.** With reference to removal of a Supreme Court judge, how many of the following statements are correct?
-1. The only grounds are proved misbehaviour or incapacity.
-2. Each House must pass the address by a special majority.
-3. The CJI can remove a judge by his own order.
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 2.
-
-</details>
-
-**Q12.** Match List-I (Article) with List-II (Subject) and select the correct answer:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | Article 131 |
-| B | Article 136 |
-| C | Article 137 |
-| D | Article 143 |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Advisory jurisdiction |
-| 2 | Original jurisdiction |
-| 3 | Special leave to appeal |
-| 4 | Review of judgments |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-2, B-3, C-4, D-1
-B. A-2, B-3, C-1, D-4
-C. A-1, B-3, C-4, D-2
-D. A-2, B-4, C-3, D-1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q13.** Consider the following statements about Article 131:
-1. It is the exclusive original jurisdiction of the Supreme Court.
-2. A private person can sue the Union under it.
-Which of the above is/are correct?
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q14.Assertion (A):** A Special Leave Petition does not lie against a court or tribunal of the armed forces.
-
-**Reason (R):** Article 136 expressly excepts armed-forces courts from its sweep.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q15.** With reference to the advisory jurisdiction of the Supreme Court, which of the following is/are correct?
-1. It is invoked by the President under Article 143.
-2. The opinion of the Court is binding on the President.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — the opinion is **advisory**.
-
-</details>
-
-**Q16.** How many of the following are courts of record?
-1. Supreme Court
-2. High Courts
-3. District Courts
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Arts. 129 and 215. District courts are **not** courts of record in the constitutional sense.
-
-</details>
-
-**Q17.** Which of the following pairs are **NOT** correctly matched?
-1. Article 141 — law declared by SC binding on all courts
-2. Article 142 — High Court’s power of complete justice
-3. Article 144 — civil and judicial authorities to act in aid of the SC
-Select the correct answer using the code given below:
-A. Only 2
-B. 1 and 2
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 142 is the **Supreme Court** only.
-
-</details>
-
-**Q18.** With reference to High Courts, which of the following statements is/are correct?
-1. Article 214 provides a High Court for each State.
-2. Parliament may establish a common High Court for two or more States under Article 231.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q19.** Match List-I (High Court) with List-II (Also serves) and select the correct answer:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | Punjab & Haryana |
-| B | Madras |
-| C | Calcutta |
-| D | Kerala |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Puducherry |
-| 2 | Chandigarh |
-| 3 | Andaman & Nicobar |
-| 4 | Lakshadweep |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-2, B-1, C-3, D-4
-B. A-2, B-1, C-4, D-3
-C. A-1, B-2, C-3, D-4
-D. A-2, B-3, C-1, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q20.Assertion (A):** Article 226 is wider than Article 32.
-
-**Reason (R):** A High Court may issue writs for the enforcement of legal rights other than Fundamental Rights.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q21.** Consider the following statements about Article 227:
-1. Every High Court has superintendence over all courts and tribunals in its territory.
-2. This superintendence extends to armed-forces tribunals.
-Which of the above is/are correct?
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — armed forces are **excepted**.
-
-</details>
-
-**Q22.** With reference to a retired High Court judge, which of the following is/are correct?
-1. He cannot plead before the High Court where he was a judge, or courts subordinate to it.
-2. He may plead before the Supreme Court and other High Courts.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q23.** How many of the following statements about the transfer of High Court judges are correct?
-1. The President transfers an HC judge under Article 222.
-2. The judge’s consent is mandatory.
-3. After the Judges Cases, the CJI’s concurrence (Collegium) is required.
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 3; consent is **not** required.
-
-</details>
-
-**Q24.** Which of the following is **not** an original-jurisdiction matter under Article 131?
-A. Union vs a State
-B. State vs State
-C. Enforcement of a Fundamental Right
-D. Union + some States vs other States
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — that is Art. **32**.
-
-</details>
-
-**Q25.Assertion (A):** The Supreme Court has exclusive jurisdiction over the constitutional validity of all Central laws.
-
-**Reason (R):** Article 131A, inserted by the 42nd Amendment, was repealed by the 43rd Amendment.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q26.** With reference to a Constitution Bench, which of the following is/are correct?
-1. A minimum of five judges sit for a substantial question of constitutional interpretation.
-2. The same minimum applies to a reference under Article 143.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Art. 145(3).
-
-</details>
-
-**Q27.** Match List-I with List-II and select the correct answer using the code given below the lists:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | Appellate — constitutional question from HC |
-| B | Appellate — criminal from HC |
-| C | Certificate of fitness by HC |
-| D | Court of record (SC) |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Article 134 |
-| 2 | Article 132 |
-| 3 | Article 134A |
-| 4 | Article 129 |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-2, B-1, C-3, D-4
-B. A-2, B-1, C-4, D-3
-C. A-1, B-2, C-3, D-4
-D. A-2, B-3, C-1, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q28.** Consider the following statements about the oath of judges:
-1. An SC judge takes oath before the President.
-2. An HC judge takes oath before the Governor.
-Which of the above is/are correct?
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q29.** Which of the following pairs are **NOT** correctly matched?
-1. Oldest High Court — Calcutta, 1862
-2. Allahabad High Court — 1866
-3. Retirement age of HC judge — 65 years
-Select the correct answer using the code given below:
-A. Only 3
-B. 1 and 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — HC retires at **62**.
-
-</details>
-
-**Q30.** With reference to judicial independence, how many of the following are correct?
-1. Salaries of SC judges are charged on the Consolidated Fund of India.
-2. The conduct of an SC judge cannot be discussed in Parliament except on a removal motion.
-3. A retired SC judge may practise in High Courts.
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 2; a retired SC judge **cannot** practise in any court in India.
-
-</details>
-
-**Q31.Assertion (A):** The High Court controls posting and promotion of district judges.
-
-**Reason (R):** Article 235 vests control over the subordinate courts in the High Court.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q32.** How many of the following High Courts are **common** High Courts for more than one State/UT?
-1. Punjab & Haryana
-2. Allahabad
-3. Bombay
-4. Madras
-A. Only two
-B. Only three
-C. All four
-D. Only one
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — P&H, Bombay, Madras. Allahabad is **UP only** (Lucknow is a **bench**, not another State).
-
-</details>
-
-**Q33.** With reference to ad hoc judges of the Supreme Court, which of the following is/are correct?
-1. They are serving High Court judges requested to sit in the SC.
-2. The CJI needs the President’s consent.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Art. 127.
-
-</details>
-
-**Q34.** Which of the following is/are correct about Article 136?
-1. It is a discretionary jurisdiction.
-2. Leave can be granted from any court or tribunal in India except armed-forces courts.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q35.** Match List-I (Case) with List-II (Holding) and select the correct answer:
+**Q3.** Match List-I with List-II:
 
 **List-I**
 
@@ -5676,881 +5093,487 @@ D. Neither 1 nor 2
 | A | First Judges Case |
 | B | Second Judges Case |
 | C | Third Judges Case |
-| D | NJAC Case |
+| D | NJAC case |
 
 **List-II**
 
 | Code | Item |
 |------|------|
-| 1 | Collegium of CJI + 4 |
-| 2 | Executive primacy |
-| 3 | CJI primacy; Collegium born |
-| 4 | 99th Amendment struck down |
+| 1 | Collegium born (1993) |
+| 2 | Executive primacy (1981) |
+| 3 | NJAC struck down (2015) |
+| 4 | CJI+4 for SC appointments (1998) |
 
 > Note: Row order in the tables is **not** the answer.
 
-Select the correct answer using the code given below:
-A. A-2, B-3, C-1, D-4
-B. A-2, B-1, C-3, D-4
-C. A-3, B-2, C-1, D-4
-D. A-2, B-3, C-4, D-1
+A. A-1, B-2, C-4, D-3
+B. A-2, B-4, C-1, D-3
+C. A-2, B-1, C-3, D-4
+D. A-2, B-1, C-4, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: D.** A-2, B-1, C-4, D-3 is correct.
+
+**Logic:** 1981 → 1993 → 1998 → 2015 chronology of appointment doctrine.
 
 </details>
 
-**Q36.** With reference to the Allahabad High Court, which of the following statements is/are correct?
-1. It was established in 1866.
-2. It has a permanent bench at Lucknow.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
+**Q4.** Consider the following Assertion and Reason:
+
+Assertion (A): Article 226 is wider than Article 32.
+
+Reason (R): High Courts can issue writs for Fundamental Rights and for other legal rights.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A).
+
+**A/R logic:** Width of 226 vs FR-only 32.
 
 </details>
 
-**Q37.** Consider the following statements about the Allahabad High Court:
-1. It first sat at Agra and moved to Allahabad in 1869.
-2. The Lucknow Bench was created by merging the Chief Court of Oudh in 1948.
-3. Its sanctioned strength is the largest among Indian High Courts.
-Which of the above is/are correct?
+**Q5.** Arrange the following in chronological order:
+1. First Judges Case
+2. Second Judges Case
+3. Third Judges Case
+4. NJAC struck down
+
+A. 1 – 2 – 3 – 4
+B. 2 – 1 – 3 – 4
+C. 1 – 3 – 2 – 4
+D. 1 – 2 – 4 – 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** 1981 → 1993 → 1998 → 2015.
+
+**Logic:** Appointment doctrine chronology.
+
+</details>
+
+**Q6.** With reference to Articles 131, 71 and 262, which of the following is/are correct?
+1. Article 131 is exclusive original jurisdiction in federal disputes.
+2. President/VP election disputes go under Article 71.
+3. River-water disputes may be barred from Article 131 by law under Article 262.
+
 A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q38.** Match List-I with List-II and select the correct answer using the code given below the lists:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | Article 71 |
-| B | Article 262 |
-| C | Article 348 |
-| D | Article 139A |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Inter-State river water disputes |
-| 2 | Election of President and Vice-President |
-| 3 | Language of the Supreme Court |
-| 4 | Transfer of certain cases |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-2, B-1, C-3, D-4
-B. A-2, B-1, C-4, D-3
-C. A-1, B-2, C-3, D-4
-D. A-2, B-3, C-1, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q39.** With reference to inter-State river water disputes, which of the following is/are correct?
-1. Article 262 empowers Parliament to bar the jurisdiction of the Supreme Court.
-2. The Inter-State River Water Disputes Act, 1956 did bar Article 131 in such disputes.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q40.Assertion (A):** The Supreme Court has exclusive original jurisdiction over the election of the President.
-
-**Reason (R):** Article 131 covers all disputes to which the Union is a party.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — (A) is true under **Art. 71**, not 131. (R) is false: 131 is only Union–State / State–State legal-right disputes, not “all” Union disputes.
-
-</details>
-
-**Q41.** How many of the following were inserted by the 42nd Amendment and later repealed by the 43rd?
-1. Article 32A
-2. Article 131A
-3. Article 226A
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q42.** Which of the following pairs are **NOT** correctly matched?
-1. 15th Amendment — HC retirement age 60 → 62
-2. 44th Amendment — restored Articles 226 and 227
-3. 42nd Amendment — enlarged writ power of High Courts
-Select the correct answer using the code given below:
-A. Only 3
-B. 1 and 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 42nd **narrowed** 226 and made 227 administrative-only.
-
-</details>
-
-**Q43.** With reference to the NJAC, which of the following statements is/are correct?
-1. It had six members including the Union Law Minister.
-2. Two eminent persons were selected by the Prime Minister, the CJI and the Leader of Opposition in the Lok Sabha.
-3. Any two members could veto an appointment.
-Select the correct answer using the code given below:
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q44.Assertion (A):** Salaries of High Court judges are charged on the Consolidated Fund of India.
-
-**Reason (R):** Pensions of High Court judges are charged on the Consolidated Fund of India.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — salary on **State CFI**; pension on **CFI**.
-
-</details>
-
-**Q45.** Consider the following statements:
-1. An additional High Court judge is appointed for a period not exceeding two years.
-2. An additional judge must vacate office on attaining 62 years even if two years are not over.
-Which of the above is/are correct?
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Art. 224.
-
-</details>
-
-**Q46.** Match List-I (High Court) with List-II (Year) and select the correct answer:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | Calcutta |
-| B | Allahabad |
-| C | Delhi |
-| D | Uttarakhand |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | 1866 |
-| 2 | 1862 |
-| 3 | 1966 |
-| 4 | 2000 |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-2, B-1, C-3, D-4
-B. A-2, B-1, C-4, D-3
-C. A-1, B-2, C-3, D-4
-D. A-2, B-3, C-1, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q47.** With reference to Article 143, which of the following is/are correct?
-1. Under clause (1) the Supreme Court may decline to give an opinion.
-2. Under clause (2) the Court shall report its opinion on a pre-Constitution treaty dispute.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q48.** Which of the following pairs are **NOT** correctly matched?
-1. Ad hoc SC judge — Article 127 — sitting High Court judge
-2. Retired judge sitting in SC — Article 128
-3. Acting Chief Justice of a High Court — Article 126
-Select the correct answer using the code given below:
-A. Only 3
-B. 1 and 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Acting HC CJ is **Art. 223**; 126 is Acting **CJI**.
-
-</details>
-
-**Q49.** How many of the following statements about election disputes are correct?
-1. Election of the President is decided by the Supreme Court under Article 71.
-2. An election petition of a Member of Parliament is tried by the Supreme Court.
-3. If a Presidential election is declared void, acts done before that date remain valid.
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 3. MP/MLA petitions lie in the **High Court**.
-
-</details>
-
-**Q50.** Arrange the following in correct **chronological order**:
-1. Indian High Courts Act
-2. Federal Court of India
-3. Allahabad High Court Letters Patent
-4. Supreme Court of India inaugurated
-Select the correct answer using the code given below:
-A. 1 – 3 – 2 – 4
-B. 1 – 2 – 3 – 4
-C. 3 – 1 – 2 – 4
-D. 1 – 3 – 4 – 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 1861 → 1866 → 1937 → 28 Jan 1950.
-
-</details>
-
-**Q51.** With reference to Public Interest Litigation in India, which of the following statements is/are correct?
-1. It is expressly provided in Article 32.
-2. It relaxes the traditional rule of locus standi.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — PIL is **judge-made**, using 32/226; it is not written into 32.
-
-</details>
-
-**Q52.** Match List-I (Case) with List-II (PIL fact) and select the correct answer:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | *Hussainara Khatoon* |
-| B | *S.P. Gupta* |
-| C | *Bandhua Mukti Morcha* |
-| D | *Vishaka* |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Bonded labour |
-| 2 | Undertrials / speedy trial |
-| 3 | Public-interest locus standi |
-| 4 | Sexual harassment guidelines |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-2, B-3, C-1, D-4
-B. A-2, B-1, C-3, D-4
-C. A-3, B-2, C-1, D-4
-D. A-2, B-3, C-4, D-1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q53.Assertion (A):** Public Interest Litigation is essential for the rule of law in India.
-
-**Reason (R):** Public Interest Litigation provides effective access to justice to socially and economically weaker sections.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — same fact as UPPCS 2025 Q47 (option-order differs; both true and R explains A).
-
-</details>
-
-**Q54.** How many of the following are vehicles of judicial review in India?
-1. Article 13
-2. Article 32
-3. Article 226
-4. Article 227
-A. Only two
-B. Only three
-C. All four
-D. Only one
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q55.** Which of the following pairs are **NOT** correctly matched?
-1. Judicial review of primary legislation in the UK — ordinary
-2. *Marbury v. Madison* — USA
-3. Judicial review as basic structure — India
-Select the correct answer using the code given below:
-A. Only 1
-B. 1 and 2
-C. 2 and 3
-D. Only 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — UK has **parliamentary supremacy**; no JR of primary Acts.
-
-</details>
-
-**Q56.Assertion (A):** Indian federalism is called quasi-federal.
-
-**Reason (R):** India has an independent judiciary with power of judicial review.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q57.** With reference to a curative petition, which of the following is/are correct?
-1. It is provided in Article 137.
-2. It lies only after a review petition is dismissed.
-3. It was recognised in *Rupa Ashok Hurra* (2002).
-Select the correct answer using the code given below:
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 137 is **review**; curative is judge-made.
-
-</details>
-
-**Q58.** Arrange the following remedies in the order in which they are ordinarily exhausted in the Supreme Court:
-1. Curative petition
-2. Special Leave Petition
-3. Review petition
-Select the correct answer using the code given below:
-A. 2 – 3 – 1
-B. 3 – 2 – 1
-C. 2 – 1 – 3
-D. 1 – 3 – 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q59.** Consider the following statements about Fathima Beevi:
-1. She was the first woman judge of the Supreme Court of India.
-2. She served as the Governor of Kerala from 1997 to 2001.
-Which of the above is/are correct?
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Governor of **Tamil Nadu**.
-
-</details>
-
-**Q60.** Match List-I with List-II and select the correct answer using the code given below the lists:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | First woman SC judge |
-| B | First woman HC judge |
-| C | First woman Chief Justice of an HC |
-| D | First CJI |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Leila Seth |
-| 2 | M. Fathima Beevi |
-| 3 | Anna Chandy |
-| 4 | H.J. Kania |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-2, B-3, C-1, D-4
-B. A-2, B-1, C-3, D-4
-C. A-3, B-2, C-1, D-4
-D. A-2, B-3, C-4, D-1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q61.** With reference to district judges, which of the following statements is/are correct?
-1. They are appointed by the Governor in consultation with the High Court.
-2. Control over district courts is vested in the Governor.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — control is **Art. 235 / High Court**.
-
-</details>
-
-**Q62.** How many of the following statements about Article 233(2) are correct?
-1. It applies to a person not already in the service of the Union or the State.
-2. The person must have been an advocate for at least seven years.
-3. The High Court must recommend the name.
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q63.** Match List-I (Article) with List-II (Subject) and select the correct answer:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | Article 233 |
-| B | Article 234 |
-| C | Article 235 |
-| D | Article 236 |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Control over subordinate courts |
-| 2 | Appointment of district judges |
-| 3 | Recruitment other than district judges |
-| 4 | Interpretation / definitions |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-2, B-3, C-1, D-4
-B. A-2, B-1, C-3, D-4
-C. A-1, B-3, C-2, D-4
-D. A-2, B-3, C-4, D-1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q64.Assertion (A):** Tribunals in India are dealt with in Part XI of the Constitution.
-
-**Reason (R):** Part XIVA was added by the 42nd Amendment.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Tribunals = **Part XIVA**, not XI.
-
-</details>
-
-**Q65.** With reference to Articles 323A and 323B, which of the following is/are correct?
-1. Article 323A tribunals can be created only by Parliament.
-2. Article 323B tribunals can be created by Parliament or a State legislature.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q66.** Which of the following pairs are **NOT** correctly matched?
-1. CAT established — 1 November 1985
-2. Principal Bench of CAT — Mumbai
-3. *L. Chandra Kumar* — 1997
-Select the correct answer using the code given below:
-A. Only 2
-B. 1 and 2
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Principal Bench is **Delhi**.
-
-</details>
-
-**Q67.** Consider the following statements about the Central Administrative Tribunal:
-1. It covers members of the armed forces.
-2. After *L. Chandra Kumar*, its orders are open to challenge before the High Court under Articles 226/227.
-Which of the above is/are correct?
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q68.** With reference to Lok Adalats, which of the following statements is/are correct?
-1. The award of a Lok Adalat is deemed to be a decree of a civil court.
-2. An appeal lies against the award to the High Court.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — **no appeal**.
-
-</details>
-
-**Q69.** How many of the following statements about a Permanent Lok Adalat are correct?
-1. It deals with public utility services.
-2. It can take pre-litigation disputes.
-3. If parties do not settle, it may decide the dispute on merits.
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q70.** Match List-I with List-II and select the correct answer using the code given below the lists:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | First Lok Adalat (independent India) |
-| B | Legal Services Authorities Act in force |
-| C | Gram Nyayalayas Act in force |
-| D | Fast Track Courts scheme |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | 11th Finance Commission, 2000 |
-| 2 | Gujarat, 1982 |
-| 3 | 9 November 1995 |
-| 4 | 2 October 2009 |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-2, B-3, C-4, D-1
-B. A-2, B-3, C-1, D-4
-C. A-3, B-2, C-4, D-1
-D. A-2, B-4, C-3, D-1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q71.Assertion (A):** A Gram Nyayalaya is a court at the intermediate Panchayat level.
-
-**Reason (R):** The Nyayadhikari is appointed by the State Government in consultation with the High Court.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — both true; R does not explain A.
-
-</details>
-
-**Q72.** With reference to contempt of court, which of the following is/are correct?
-1. Articles 129 and 215 make the SC and HCs courts of record with inherent contempt power.
-2. The Contempt of Courts Act, 1971 can take away that constitutional power.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — the 1971 Act only **regulates**.
-
-</details>
-
-**Q73.** Which of the following pairs are **NOT** correctly matched?
-1. Civil contempt — wilful disobedience of a court order
-2. Criminal contempt — scandalising the court
-3. 2006 Amendment — truth cannot be a defence
-Select the correct answer using the code given below:
-A. Only 3
-B. 1 and 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 2006 made **truth** a defence (public interest + bona fide).
-
-</details>
-
-**Q74.** How many of the following are methods of Alternative Dispute Resolution?
-1. Arbitration
-2. Mediation
-3. Lok Adalat
-4. Fast Track Court
-A. Only two
-B. Only three
-C. All four
-D. Only one
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — FTC is a **regular court** on a fast track, not ADR.
-
-</details>
-
-**Q75.** With reference to NALSA, which of the following statements is/are correct?
-1. The Chief Justice of India is its Patron-in-Chief.
-2. It draws from Article 39A.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q76.** With reference to an All-India Judicial Service, which of the following is/are correct?
-1. Article 312 enables Parliament to create it after a Rajya Sabha resolution.
-2. It can include posts inferior to that of a district judge.
-3. Such a law is not deemed an amendment under Article 368.
-Select the correct answer using the code given below:
-A. 1 and 2 only
-B. 1 and 3 only
+B. 1, 2 and 3
 C. 2 and 3 only
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** All three statements are correct.
+
+**Logic:** 131/71/262 confused-pair set.
+
+</details>
+
+**Q7.** Consider the following statements about Article 136:
+1. Special Leave Petition is the Supreme Court’s widest appellate power.
+2. It does not apply to judgments of armed-forces courts.
+3. Article 143 advisory opinions are binding on the President.
+
+A. 2 and 3 only
+B. 1 only
+C. 1 and 2 only
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — 312(3): **not** inferior to district judge.
+**Ans: C.** Only 1 and 2 are correct.
+
+**Logic:** Advisory opinions under 143 are not binding.
 
 </details>
 
-**Q77.Assertion (A):** *L. Chandra Kumar* (1997) treated administrative tribunals as substitutes for High Courts.
+**Q8.** Consider the following Assertion and Reason:
 
-**Reason (R):** Judicial review under Articles 226 and 227 is part of the basic structure.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+Assertion (A): Tribunals under Part XIVA completely replace High Courts for all purposes.
+
+Reason (R): L. Chandra Kumar held that tribunals only supplement High Courts and Articles 226/227 survive as basic structure.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — *Sampath Kumar* was the substitute theory; *Chandra Kumar* made tribunals **supplemental**.
+**Ans: B.** (A) is false, but (R) is true.
+
+**A/R logic:** Sampath Kumar substitute reading gave way to L. Chandra Kumar supplement reading.
 
 </details>
 
-**Q78.** Match List-I (Tribunal) with List-II (Year / Act) and select the correct answer:
+**Q9.** Which of the following pairs is/are NOT correctly matched?
+1. Article 233 — District Judge appointment
+2. Article 235 — High Court control over subordinate judiciary
+3. Part XI — Tribunals (323A–323B)
+
+A. 1 only
+B. 1 and 2 only
+C. 2 and 3 only
+D. 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only pair 3 is NOT correctly matched.
+
+**Logic:** Tribunals are Part XIVA, not Part XI.
+
+</details>
+
+**Q10.** Match List-I with List-II:
 
 **List-I**
 
 | Code | Item |
 |------|------|
-| A | CAT |
-| B | NGT |
-| C | Armed Forces Tribunal |
-| D | NCLT (operational) |
+| A | Article 129 |
+| B | Article 141 |
+| C | Article 142 |
+| D | Article 143 |
 
 **List-II**
 
 | Code | Item |
 |------|------|
-| 1 | 2007 |
-| 2 | 1985 |
-| 3 | 2010 |
-| 4 | 2016 |
+| 1 | Law declared by SC binding on all courts |
+| 2 | Court of record |
+| 3 | Advisory jurisdiction |
+| 4 | Complete justice (SC only) |
 
 > Note: Row order in the tables is **not** the answer.
 
-Select the correct answer using the code given below:
-A. A-2, B-3, C-1, D-4
-B. A-2, B-1, C-3, D-4
-C. A-3, B-2, C-1, D-4
-D. A-2, B-3, C-4, D-1
+A. A-2, B-1, C-4, D-3
+B. A-1, B-2, C-4, D-3
+C. A-2, B-4, C-1, D-3
+D. A-2, B-1, C-3, D-4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: A.** A-2, B-1, C-4, D-3 is correct.
+
+**Logic:** 129/141/142/143 high-yield SC powers.
 
 </details>
 
-**Q79.** Which of the following pairs are **NOT** correctly matched?
-1. Article 323A — only Parliament may legislate
-2. Article 323B — elections to the State legislature can be a tribunal subject
-3. Article 323B — election of the President can be a tribunal subject
-Select the correct answer using the code given below:
-A. Only 3
-B. 1 and 3
-C. 2 and 3
-D. Only 1
+**Q11.** With reference to High Courts, which of the following is/are correct?
+1. There are 25 High Courts.
+2. A common High Court needs only an ordinary law under Article 231.
+3. HC judge resigns to the Governor and takes oath before the President.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — President/VP = **Art. 71 / SC**, not 323B.
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** Oath before Governor; resignation to President — do not swap.
 
 </details>
 
-**Q80.** With reference to a Permanent Lok Adalat, how many of the following are correct?
-1. It takes up public-utility disputes at the pre-litigation stage.
-2. Its pecuniary jurisdiction is capped at ₹1 crore.
-3. If parties do not settle, it may decide on merits.
+**Q12.** Consider the following statements about removal of SC judges:
+1. Motion needs 100 Lok Sabha or 50 Rajya Sabha members.
+2. Special majority in both Houses in the same session is required.
+3. V. Ramaswami was fully removed after Lok Sabha passed the motion.
+
+A. 2 and 3 only
+B. 1 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2 are correct.
+
+**Logic:** Ramaswami failed in Lok Sabha; no judge has been fully removed.
+
+</details>
+
+**Q13.** Arrange the following High Court landmarks chronologically:
+1. Chartered High Courts of Calcutta, Bombay, Madras
+2. Allahabad High Court begins
+3. Lucknow Bench of Allahabad High Court
+
+A. 2 – 1 – 3
+B. 1 – 3 – 2
+C. 3 – 1 – 2
+D. 1 – 2 – 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** 1862 chartered trio → Allahabad 1866 → Lucknow Bench 1948.
+
+**Logic:** UP Special HC chronology.
+
+</details>
+
+**Q14.** Consider the following Assertion and Reason:
+
+Assertion (A): PIL is expressly written as a separate Part of the Constitution.
+
+Reason (R): PIL grew through Articles 32 and 226; P.N. Bhagwati is a key PIL CJI fact.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** (A) is false, but (R) is true.
+
+**A/R logic:** PIL is judge-made expansion, not a separate constitutional Part.
+
+</details>
+
+**Q15.** With reference to Lok Adalat and Permanent Lok Adalat, which of the following is/are correct?
+1. A Lok Adalat award equals a civil-court decree and has no appeal.
+2. Regular Lok Adalat works only by compromise.
+3. Permanent Lok Adalat can decide merits in public-utility pre-litigation cases.
+
+A. 1, 2 and 3
+B. 1 and 2 only
+C. 2 and 3 only
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** All three statements are correct.
+
+**Logic:** LA vs PLA confused pair.
+
+</details>
+
+**Q16.** Which one of the following pairs is NOT correctly matched?
+A. Gram Nyayalayas — not bound by the Evidence Act
+B. Fast Track Courts — ADR mechanism
+C. CAT start — 1 November 1985
+D. AIJS under Article 312 — enabled but not yet created
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Fast Track Courts are ordinary sessions courts on a fast track, not ADR.
+
+**Logic:** FTC ≠ ADR; Gram Nyayalaya ≠ Evidence Act bound.
+
+</details>
+
+**Q17.** Consider the following statements about Article 143:
+1. Under 143(1) the Court may decline to answer.
+2. Under 143(2) the Court shall report on pre-Constitution treaty questions.
+3. The USA Supreme Court also routinely gives binding advisory opinions.
+
+A. 2 and 3 only
+B. 1 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2 are correct.
+
+**Logic:** USA SC does not give advisory opinions; India’s 143 opinions are not binding.
+
+</details>
+
+**Q18.** Match List-I (woman judge firsts) with List-II:
+
+**List-I**
+
+| Code | Item |
+|------|------|
+| A | Fathima Beevi |
+| B | Anna Chandy |
+| C | Leila Seth |
+| D | Indu Malhotra |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | First woman HC judge |
+| 2 | First woman SC judge |
+| 3 | First woman elevated to SC directly from the Bar |
+| 4 | First woman High Court Chief Justice |
+
+> Note: Row order in the tables is **not** the answer.
+
+A. A-1, B-2, C-4, D-3
+B. A-2, B-4, C-1, D-3
+C. A-2, B-1, C-3, D-4
+D. A-2, B-1, C-4, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** A-2, B-1, C-4, D-3 is correct.
+
+**Logic:** Fathima later Governor of Tamil Nadu, not Kerala — separate trap.
+
+</details>
+
+**Q19.** With reference to ad hoc and retired SC judges, which of the following is/are correct?
+1. Article 127 ad hoc judge is a sitting High Court judge.
+2. Article 128 concerns attendance of retired judges.
+3. Articles 127 and 128 are interchangeable labels.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** 127 vs 128 sitting/retired swap trap.
+
+</details>
+
+**Q20.** Consider the following statements about NJAC:
+1. It was created by the 99th Amendment.
+2. Composition included CJI, two senior SC judges, Law Minister and two eminent persons.
+3. Any two members could veto a name under the NJAC scheme.
+
+A. 1 and 2 only
+B. 1, 2 and 3
+C. 2 and 3 only
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** All three statements are correct.
+
+**Logic:** 99th / six-member NJAC / two-member veto teaching.
+
+</details>
+
+**Q21.** Consider the following Assertion and Reason:
+
+Assertion (A): Article 142 power of complete justice is available to High Courts also.
+
+Reason (R): Article 142 is available to the Supreme Court only.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** (A) is false, but (R) is true.
+
+**A/R logic:** Complete justice under 142 is SC-only.
+
+</details>
+
+**Q22.** Arrange the following in chronological order:
+1. Federal Court begins (1937)
+2. Supreme Court inaugurated (1950)
+3. SC strength raised to 34 (2019)
+
+A. 2 – 1 – 3
+B. 1 – 3 – 2
+C. 1 – 2 – 3
+D. 3 – 1 – 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** 1937 → 1950 → 2019.
+
+**Logic:** Federal Court to SC to strength expansion.
+
+</details>
+
+**Q23.** With reference to contempt of court, which of the following is/are correct?
+1. Contempt powers are inherent under Articles 129 and 215.
+2. Criminal contempt by a private person needs Attorney General consent under section 15, but suo motu does not.
+3. Truth in public interest became a defence by the 2006 amendment.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three statements are correct.
+
+**Logic:** 1971 Act regulates; AG consent / suo motu / truth defence.
+
+</details>
+
+**Q24.** Which of the following pairs is NOT correctly matched?
+A. Election petitions for MPs/MLAs — straight to Supreme Court under Article 71
+B. Review — Article 137
+C. Curative petition — after review fails (Rupa Hurra)
+D. President/VP election disputes — Article 71
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** MP/MLA election petitions go to the High Court under RPA / Article 329 teaching.
+
+**Logic:** 71 is President/VP only.
+
+</details>
+
+**Q25.** Consider the following statements about 42nd/43rd judiciary amendments:
+1. 42nd tried to cut High Court power over Central laws.
+2. 43rd repealed those bars.
+3. High Courts cannot strike down Central laws after the 43rd Amendment.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** After 43rd, High Courts can strike down Central laws.
+
+</details>
+
+**Q26.** How many of the following are correctly matched?
+1. Constitution Bench under 145(3) — at least five judges
+2. Transfer of HC judges — Article 222; consent not required
+3. Additional HC judge — Article 224; at most two years; leave by 62
+
 A. Only one
 B. Only two
 C. All three
@@ -6559,192 +5582,88 @@ D. None
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: C.** All three are correctly matched.
+
+**Logic:** 145(3)/222/224 Must-Score cluster.
 
 </details>
 
-**Q81.** Consider the following statements about Gram Nyayalayas:
-1. They are bound by the Indian Evidence Act, 1872.
-2. The Nyayadhikari is appointed by the State Government in consultation with the High Court.
-Which of the above is/are correct?
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
+**Q27.** Consider the following Assertion and Reason:
 
-<details>
-<summary>Show answer</summary>
+Assertion (A): Fathima Beevi was the first woman Supreme Court judge.
 
-**Ans: B** — guided by **natural justice**, not the Evidence Act.
+Reason (R): She later became Governor of Kerala.
 
-</details>
-
-**Q82.** Match List-I with List-II and select the correct answer using the code given below the lists:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | Family Courts Act |
-| B | Gram Nyayalayas Act in force |
-| C | Fast Track Courts scheme |
-| D | Legal Services Authorities Act in force |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | 11th Finance Commission |
-| 2 | 1984 |
-| 3 | 2 October 2009 |
-| 4 | 9 November 1995 |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-2, B-3, C-1, D-4
-B. A-2, B-1, C-3, D-4
-C. A-3, B-2, C-1, D-4
-D. A-2, B-3, C-4, D-1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q83.** With reference to criminal contempt, which of the following is/are correct?
-1. A private person needs the written consent of the Attorney-General to move the Supreme Court.
-2. The Supreme Court may take suo motu cognizance without that consent.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Contempt of Courts Act, s.15.
-
-</details>
-
-**Q84.Assertion (A):** Truth is never a defence to criminal contempt.
-
-**Reason (R):** The 2006 Amendment allows truth as a defence if it is in the public interest and bona fide.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: C.** (A) is true, but (R) is false.
+
+**A/R logic:** She became Governor of Tamil Nadu, not Kerala.
 
 </details>
 
-**Q85.** How many of the following are methods to which a court may refer parties under Section 89 of the CPC?
-1. Arbitration
-2. Conciliation
-3. Mediation
-4. Lok Adalat
-A. Only two
-B. Only three
-C. All four
-D. Only one
+**Q28.** With reference to salary and pension of High Court judges, which of the following is/are correct?
+1. Salary is charged on the State Consolidated Fund.
+2. Pension is charged on the Consolidated Fund of India.
+3. Both salary and pension are charged only on the State Fund.
+
+A. 2 and 3 only
+B. 1 only
+C. 1, 2 and 3
+D. 1 and 2 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: D.** Only 1 and 2 are correct.
+
+**Logic:** Salary State / pension Union is the independence fact.
 
 </details>
 
-**Q86.** Which of the following pairs are **NOT** correctly matched?
-1. First woman SC judge from the Bar — Indu Malhotra, 2018
-2. First woman Chief Justice of a High Court — Fathima Beevi
-3. First woman High Court judge — Anna Chandy, 1959
-Select the correct answer using the code given below:
-A. Only 2
-B. 1 and 2
-C. 2 and 3
-D. Only 1
+**Q29.** Consider the following statements about Allahabad High Court:
+1. It began on 17 March 1866.
+2. Lucknow Bench is a bench of Allahabad, not a separate High Court.
+3. Allahabad has the largest sanctioned strength among High Courts in the usual teaching.
+
+A. 1, 2 and 3
+B. 1 and 2 only
+C. 2 and 3 only
+D. 1 and 3 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — first woman HC CJ = **Leila Seth**.
+**Ans: A.** All three statements are correct.
+
+**Logic:** UP Special HC facts from Must-Score.
 
 </details>
 
-**Q87.** With reference to PIL, consider the following statements:
-1. A letter to the court may be treated as a petition.
-2. Service disputes of an individual are a standard subject of PIL under the 1998 guidelines.
-Which of the above is/are correct?
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
+**Q30.** With reference to Article 323A and Article 323B, which of the following is/are correct?
+1. Article 323A (administrative tribunals) can be used by Parliament only.
+2. Article 323B (other tribunals) may be used by Parliament or a State.
+3. Both articles sit in Part XI of the Constitution.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — individual service matters are **not** PIL.
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** Tribunals are Part XIVA; 323A Parliament-only vs 323B Parliament or State.
 
 </details>
-
-**Q88.** Arrange the following in correct **chronological order**:
-1. *S.P. Sampath Kumar*
-2. Administrative Tribunals Act
-3. *L. Chandra Kumar*
-4. Part XIVA inserted
-Select the correct answer using the code given below:
-A. 4 – 2 – 1 – 3
-B. 2 – 4 – 1 – 3
-C. 4 – 1 – 2 – 3
-D. 4 – 2 – 3 – 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 1976 → 1985 → 1987 → 1997.
-
-</details>
-
-**Q89.** With reference to Article 233, which of the following statements is/are correct?
-1. A promotee district judge from the judicial service must have been an advocate for seven years.
-2. Control over posting and leave of district judges vests in the High Court.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 7 years is only for a person **not already** in service (233(2)). Control = **235**.
-
-</details>
-
-**Q90.Assertion (A):** A Fast Track Court is a forum of Alternative Dispute Resolution.
-
-**Reason (R):** Fast Track Courts were recommended by the 11th Finance Commission.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
 
 ## Mains link (one frame)
 

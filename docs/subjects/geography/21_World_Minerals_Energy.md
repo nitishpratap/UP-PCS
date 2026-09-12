@@ -2309,1425 +2309,672 @@ D. Iron
 
 ---
 
-## Practice Zone — UPPCS Format Questions
+## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden** — click **Show answer** under each question to reveal.
-> **Format mix:** 65 questions — Match List | multi-statement | Assertion–Reason | NOT correctly matched | direct recall (PYQ + standard gaps)
+> **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D
 
-**Q1.** Match List-I with List-II:
+**Q1.** With reference to world coalfields, which of the following pairs is/are correctly matched?
 
-| List-I (Coal Field) | List-II (Country) |
-|---------------------|-------------------|
-| A. Appalachian | 1. England |
-| B. Lancashire | 2. Germany |
-| C. Ruhr | 3. Russia |
-| D. Kuzbass | 4. USA |
+1. Appalachian — USA
+2. Lancashire — England
+3. Ruhr — Germany
+4. Kuzbass — Russia
 
-**Options:**
-
-A. 4 1 2 3
-
-B. 1 4 3 2
-
-C. 1 4 2 3
-
-D. 4 1 3 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q2.** Largest coal-producing centre of Ukraine among these:
-
-**Options:**
-
-A. Zaporizhzhia
-
-B. Kharkiv
-
-C. Donetsk
-
-D. Kyiv
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q3.** Ruhr coalfield is in:
-
-**Options:**
-
-A. Great Britain
-
-B. Germany
-
-C. Russia
-
-D. France
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q4.** Mount Newman is famous for:
-
-**Options:**
-
-A. Iron ore
-
-B. Manganese
-
-C. Copper
-
-D. Bauxite
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q5.** Assertion (A): Chile is the leading producer of copper in the world.
-
-Reason (R): The Andes Region of North Chile is enriched with the largest deposits of porphyry copper.
-
-**Options:**
-
-A. (A) is false but (R) is true
-
-B. (A) is true but (R) is false
-
-C. Both (A) and (R) are true but (R) is not the correct explanation of (A)
-
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q6.** Important mineral of Pegu Yoma (Myanmar):
-
-**Options:**
-
-A. Mineral oil
-
-B. Tin
-
-C. Copper
-
-D. Silver
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q7.** Kinta Valley (Malaysia) is famous for:
-
-**Options:**
-
-A. Rubber
-
-B. Tea
-
-C. Tin
-
-D. Coffee
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q8.** Which pair (Country – Oil Field) is **NOT** correctly matched?
-
-**Options:**
-
-A. Iran – Haft Kel
-
-B. Kuwait – Kashagan
-
-C. Saudi Arabia – Dhahran
-
-D. Iraq – Zubair
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q9.** Postmasburg (South Africa) is a major producer of:
-
-**Options:**
-
-A. Uranium
-
-B. Bauxite
-
-C. Manganese
-
-D. Mica
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q10.** Leading producer of iodine (2018 fact):
-
-**Options:**
-
-A. Japan
-
-B. U.S.A.
-
-C. Chile
-
-D. China
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q11.** Main constituent of natural gas:
-
-**Options:**
-
-A. Butane
-
-B. Hexane
-
-C. Benzene
-
-D. Methane
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q12.** Which iron-ore pair is **NOT** correctly matched?
-
-**Options:**
-
-A. Kazakhstan – Karaganda
-
-B. Ukrain – Krivoy Rog
-
-C. Germany – Normendy
-
-D. France – Pyrenees
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q13.** Early-2022 top steel producer:
-
-**Options:**
-
-A. China
-
-B. Japan
-
-C. England
-
-D. India
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q14.** How many of the following are correctly matched?
-
-1. Appalachian – USA
-2. Ruhr – France
-3. Kuzbass – Russia
-4. Lancashire – England
-
-**Options:**
-
-A. Only two
-
-B. Only three
-
-C. All four
-
-D. Only one
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1, 3, 4. Ruhr = Germany.
-
-</details>
-
----
-
-**Q15.** Consider the following:
-
-1. Kashagan is in Kazakhstan.
-2. Burgan is Kuwait’s classic giant field.
-
-**Options:**
-
-A. 1 only
-
-B. 2 only
-
-C. Both
-
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q16.** Match List-I with List-II:
-
-| List-I | List-II |
-|--------|---------|
-| A. Chuquicamata | 1. Malaysia tin |
-| B. Kinta | 2. Chile copper |
-| C. Krivoy Rog | 3. Australia iron |
-| D. Mount Newman | 4. Ukraine iron |
-
-**Options:**
-
-A. 2 1 4 3
-
-B. 2 1 3 4
-
-C. 1 2 4 3
-
-D. 2 4 1 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q17.** Assertion (A): Kinta Valley is famous for rubber.
-
-Reason (R): It is Malaysia’s classic tin-mining valley.
-
-**Options:**
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-C. (A) is true, but (R) is false
-
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q18.** LPG differs from CNG because LPG is mainly:
-
-**Options:**
-
-A. Methane only
-
-B. Propane + butane
-
-C. Benzene
-
-D. Pure hydrogen
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q19.** Match List-I with List-II:
-
-| List-I (Ore) | List-II |
-|--------------|---------|
-| A. Hematite | 1. Black; highest Fe |
-| B. Magnetite | 2. Red; bulk trade ore |
-| C. Limonite | 3. Iron carbonate; ~40% Fe |
-| D. Siderite | 4. Yellow-brown hydrated |
-
-**Options:**
-
-A. 2 1 4 3
-
-B. 1 2 4 3
-
-C. 2 1 3 4
-
-D. 2 4 1 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q20.** Itaipu hydel project is on the border of:
-
-**Options:**
-
-A. USA–Canada
-
-B. Brazil–Paraguay
-
-C. China–Mongolia
-
-D. Iran–Iraq
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q21.** Which of the following is/are **not** stored solar energy?
-
-1. Nuclear 2. Geothermal 3. Wind 4. Biomass
-
-**Options:**
-
-A. 1 and 2 only
-
-B. 3 and 4 only
-
-C. 1 only
-
-D. All four
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q22.** Match List-I with List-II:
-
-| List-I (Field) | List-II (Country) |
-|----------------|-------------------|
-| A. Ghawar | 1. Iraq |
-| B. Kirkuk | 2. Saudi Arabia |
-| C. Baku | 3. Kazakhstan |
-| D. Kashagan | 4. Azerbaijan |
-
-**Options:**
-
-A. 2 1 4 3
-
-B. 2 1 3 4
-
-C. 1 2 4 3
-
-D. 2 4 1 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q23.** Match List-I with List-II:
-
-| List-I | List-II |
-|--------|---------|
-| A. Weipa | 1. Gold, South Africa |
-| B. Postmasburg | 2. Bauxite, Australia |
-| C. Witwatersrand | 3. Iron, Australia |
-| D. Mount Newman | 4. Manganese, South Africa |
-
-**Options:**
-
-A. 2 4 1 3
-
-B. 2 4 3 1
-
-C. 4 2 1 3
-
-D. 2 1 4 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q24.** Mesabi Range is known for:
-
-**Options:**
-
-A. Copper of Chile
-
-B. Iron ore of the USA
-
-C. Tin of Malaysia
-
-D. Oil of Kuwait
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q25.** Kiruna is an iron centre in:
-
-**Options:**
-
-A. Brazil
-
-B. Sweden
-
-C. Ukraine
-
-D. Chile
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q26.** Consider the following statements:
-
-1. Porphyry copper of northern Chile supports Chile’s copper lead in the 2022 paper.
-2. Katanga is a DRC copper name.
-
-**Options:**
-
-A. 1 only
-
-B. 2 only
-
-C. Both
-
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q27.** Which pair is **NOT** correctly matched?
-
-**Options:**
-
-A. Donetsk – Ukraine coal
-
-B. Kuzbass – Russia coal
-
-C. Appalachian – England coal
-
-D. Lancashire – England coal
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Appalachian = USA.
-
-</details>
-
----
-
-**Q28.** Uranium mine-leader usually tagged in textbooks:
-
-**Options:**
-
-A. Chile iodine desert
-
-B. Kazakhstan
-
-C. Kinta Valley
-
-D. Mount Newman
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q29.** Three Gorges hydel is on the:
-
-**Options:**
-
-A. Amazon
-
-B. Yangtze
-
-C. Danube
-
-D. Murray
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — China.
-
-</details>
-
----
-
-**Q30.** OPEC headquarters:
-
-**Options:**
-
-A. Geneva
-
-B. Vienna
-
-C. Riyadh
-
-D. New York
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q31.** Original OPEC five (1960) include:
-
-**Options:**
-
-A. Iran, Iraq, Kuwait, Saudi Arabia, Venezuela
-
-B. USA, UK, Norway, Canada, Mexico
-
-C. India, China, Japan, Korea, Australia
-
-D. Chile, Peru, Bolivia, Argentina, Brazil
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q32.** Assertion (A): Kashagan is a Kuwaiti oil field.
-
-Reason (R): Kashagan lies in the Kazakhstan sector of the Caspian.
-
-**Options:**
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-C. (A) is true, but (R) is false
-
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q33.** Carajás / Itabira iron is in:
-
-**Options:**
-
-A. Australia
-
-B. Brazil
-
-C. Sweden
-
-D. France
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q34.** Bangka and Belitung are famous for:
-
-**Options:**
-
-A. Tin (Indonesia)
-
-B. Prairie wheat
-
-C. Ruhr coal
-
-D. Chilean iodine only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q35.** How many of the following oil pairs are correct?
-
-1. Iran – Haft Kel
-2. Saudi Arabia – Dhahran
-3. Iraq – Zubair
-4. Kuwait – Kashagan
-
-**Options:**
-
-A. Only one
-
-B. Only two
-
-C. Only three
-
-D. All four
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — 4 is wrong.
-
-</details>
-
----
-
-**Q36.** Which of the following is/are correct?
-
-1. Sudbury (Canada) is Ni + Cu.
-2. Morocco is the classic phosphate-reserve king.
-3. Broken Hill is Australian Pb–Zn.
-
-**Options:**
-
-A. 1 and 2 only
-
-B. 2 and 3 only
-
-C. 1 and 3 only
-
-D. All three
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q37.** Lorraine iron ore region is in:
-
-**Options:**
-
-A. Ukraine
-
-B. France
-
-C. Australia
-
-D. Malaysia
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q38.** Which is correctly matched?
-
-**Options:**
-
-A. Postmasburg – mica
-
-B. Postmasburg – manganese
-
-C. Mount Newman – bauxite
-
-D. Kinta – coffee
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q39.** CNG is mainly:
-
-**Options:**
-
-A. Methane
-
-B. Butane only
-
-C. Octane
-
-D. Carbon monoxide
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q40.** North Field and South Pars are:
-
-**Options:**
-
-A. Two names for the Qatar–Iran Gulf gas giant
-
-B. Ruhr coal pits
-
-C. Chilean iodine mines
-
-D. Ukrainian iron towns
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q41.** Match List-I with List-II:
-
-| List-I | List-II |
-|--------|---------|
-| A. El Teniente | 1. South Africa Mn |
-| B. Postmasburg | 2. Chile Cu |
-| C. Witwatersrand | 3. Australia iron |
-| D. Hamersley | 4. South Africa Au |
-
-**Options:**
-
-A. 2 1 4 3
-
-B. 2 1 3 4
-
-C. 1 2 4 3
-
-D. 2 4 1 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q42.** Consider the following:
-
-1. Anthracite has higher carbon than lignite.
-2. Ruhr is a lignite-only desert field in Chile.
-
-**Options:**
-
-A. 1 only
-
-B. 2 only
-
-C. Both
-
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q43.** Copperbelt is the tag for:
-
-**Options:**
-
-A. Zambia (with Katanga / DRC next door)
-
-B. Lancashire
-
-C. Kinta rubber estates
-
-D. Pegu Yoma oil only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q44.** Which statement(s) is/are correct?
-
-1. France is a classic high **share** of electricity from nuclear.
-2. Kazakhstan is a classic **uranium** mine leader.
-
-**Options:**
-
-A. 1 only
-
-B. 2 only
-
-C. Both
-
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q45.** Yenangyaung oil story belongs with:
-
-**Options:**
-
-A. Myanmar (Pegu / Irrawaddy belt)
-
-B. Chile Andes copper
-
-C. Mesabi Range
-
-D. Ruhr coal only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q46.** Which is **NOT** correctly matched?
-
-**Options:**
-
-A. Chuquicamata – Chile
-
-B. Kiruna – Sweden
-
-C. Donetsk – Ukraine
-
-D. Kashagan – Kuwait
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q47.** Arrange coal types from lowest to highest carbon:
-
-1. Anthracite 2. Peat 3. Bituminous 4. Lignite
-
-**Options:**
-
-A. 2, 4, 3, 1
-
-B. 1, 3, 4, 2
-
-C. 2, 3, 4, 1
-
-D. 4, 2, 3, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — peat → lignite → bituminous → anthracite.
-
-</details>
-
----
-
-**Q48.** Assertion (A): Mount Newman is a manganese mine in South Africa.
-
-Reason (R): Postmasburg in South Africa is a major manganese producer.
-
-**Options:**
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-C. (A) is true, but (R) is false
-
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Newman = Australian iron.
-
-</details>
-
----
-
-**Q49.** North Sea hydrocarbon producers in the map:
-
-**Options:**
-
-A. UK and Norway
-
-B. Chile and Bolivia
-
-C. Nepal and Bhutan
-
-D. Laos and Cambodia
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q50.** How many of the following are correct?
-
-1. Chile leads the 2018 iodine fact.
-2. Chile leads copper production in the 2022 paper.
-3. Chile’s Atacama is equatorial rainforest.
-
-**Options:**
-
-A. Only one
-
-B. Only two
-
-C. All three
-
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 2. Atacama is desert.
-
-</details>
-
----
-
-
-**Q51.** The Lithium Triangle refers to:
-
-A. Chile–Argentina–Bolivia
-
-B. Brazil–Peru–Colombia
-
-C. USA–Canada–Mexico
-
-D. Australia–Indonesia–Malaysia
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Brine salares; Brazil is not in the triangle.
-</details>
-
----
-
-**Q52.** Which country dominates rare-earth **processing** in the usual classification?
-
-A. Chile
-
-B. China
-
-C. Kuwait
-
-D. Latvia
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q53.** Carajás is famous for:
-
-A. Tin in Malaysia
-
-B. Iron ore in Brazil
-
-C. Oil in Kuwait
-
-D. Manganese in South Africa only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q54.** Which of the following is/are correctly matched?
-
-1. Witwatersrand — gold (South Africa)
-2. Weipa — bauxite (Australia)
-3. Postmasburg — manganese (South Africa)
-4. Mount Newman — copper (Chile)
+Select the correct answer from the code given below:
 
 A. 1, 2 and 3 only
-
-B. 1, 2 and 4 only
-
+B. 1, 3 and 4 only
 C. 2, 3 and 4 only
-
 D. 1, 2, 3 and 4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Mount Newman = **iron**, Australia.
+**Ans: D.** All four pairs are correct.
+
+**Logic:** Donetsk is Ukraine’s classic coal answer among common options.
+
 </details>
 
----
+**Q2.** Match List-I with List-II and select the correct answer using the code given below the lists:
 
-**Q55.** Assertion (A): Sedimentary basins are the classic home of commercial oil and coal.
-Reason (R): Precambrian shields therefore never host metallic ores.
+| List-I (Field / place) | List-II (Mineral) |
+|-------------------------|-------------------|
+| A. Mount Newman / Pilbara | 1. Tin |
+| B. Kinta Valley | 2. Iron |
+| C. Postmasburg | 3. Gold |
+| D. Witwatersrand | 4. Manganese |
 
-A. Both A and R are true and R explains A
+Code:
 
-B. Both A and R are true but R does not explain A
-
-C. A is true but R is false
-
-D. A is false but R is true
+A. A-1, B-2, C-3, D-4
+B. A-2, B-1, C-4, D-3
+C. A-2, B-4, C-1, D-3
+D. A-4, B-1, C-2, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Shields are classic **metal** hosts; R is false.
+**Ans: B.** Newman–iron; Kinta–tin; Postmasburg–Mn; Witwatersrand–gold.
+
+**Logic:** Do not dump Newman as Mn/Cu or Kinta as rubber.
+
 </details>
 
----
+**Q3.** Which of the following pairs is/are **NOT** correctly matched?
 
-**Q56.** Cobalt production volume is classically linked to:
+1. Kashagan oil — Kuwait
+2. Burgan — Kuwait
+3. Pegu Yoma — mineral oil (Myanmar)
 
-A. Dhahran oil fields
+Select the correct answer from the code given below:
 
-B. DRC (Katanga belt with copper)
-
-C. Lancashire coal only
-
-D. Kinta Valley tin only
+A. 2 only
+B. 1 only
+C. 1 and 3 only
+D. 2 and 3 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B.** Only pair 1 is not correctly matched.
+
+**Logic:** Kashagan is Kazakhstan; Burgan is Kuwait; Pegu Yoma is oil, not tin.
+
 </details>
 
----
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Q57.** Which pair is NOT correctly matched?
+Assertion (A): Chile leads copper with northern Andes porphyry deposits.
 
-A. Mesabi Range — USA iron
+Reason (R): Chuquicamata and El Teniente are among Chile’s great copper mines.
 
-B. Kiruna — Sweden iron
+Select the correct answer from the code given below:
 
-C. Krivoy Rog — Ukraine iron
-
-D. Lorraine — Germany iron
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Lorraine = **France**.
+**Ans: D.** Both true and R explains A.
+
+**A/R logic:** Porphyry Andes geology underpins Chile’s copper leadership teaching.
+
 </details>
 
----
+**Q5.** With reference to iron-ore centres, which of the following statements is/are correct?
 
-**Q58.** Original OPEC members (1960) do NOT include:
+1. Krivoy Rog — Ukraine; Lorraine — France; Kiruna — Sweden; Mesabi — USA.
+2. Germany–Normandy iron is a correct country–region pair.
+3. Carajás (Brazil) and Pilbara/Newman (Australia) are iron exporters’ anchors.
 
-A. Venezuela
-
-B. Saudi Arabia
-
-C. Iran
-
-D. Russia
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Russia is OPEC+, not original OPEC.
-</details>
-
----
-
-**Q59.** Which statement about iron trade is correct?
-
-A. China never mines iron ore
-
-B. Australia and Brazil are classic iron **exporters**
-
-C. Mount Newman is in Chile
-
-D. Carajás is Malaysia’s tin capital
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q60.** Bushveld Complex (South Africa) is classically linked to:
-
-A. Only petroleum
-
-B. Platinum / chromite story
-
-C. Only North Sea gas
-
-D. Only Appalachian coal
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q61.** Broken Hill (Australia) is famous for:
-
-A. Lead–zinc
-
-B. Only tin
-
-C. Only Kuwait oil
-
-D. Only Ruhr coal
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-</details>
-
----
-
-**Q62.** Which of the following is/are correctly matched?
-
-1. Morocco — phosphate reserves
-2. Sudbury — nickel (+ copper), Canada
-3. Kimberley — diamond story, South Africa
+Select the correct answer from the code given below:
 
 A. 1 and 2 only
-
 B. 2 and 3 only
-
 C. 1 and 3 only
-
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: C.** Only 1 and 3 are correct.
+
+**Logic:** Normandy is in France — Germany–Normandy is the wrong pair.
+
 </details>
 
----
+**Q6.** Arrange the following energy classes from conventional non-renewable → solar-linked renewable → stand-apart:
 
-**Q63.** Anthracite among coal ranks is:
+1. Wind, biomass, hydro
+2. Coal, oil, gas
+3. Nuclear and geothermal (not ‘stored solar’ in the usual wording)
 
-A. Lowest carbon peat
+Select the correct answer from the code given below:
 
-B. Highest-rank hard coal
-
-C. Only LPG gas
-
-D. Only solar PV silicon
+A. 2-3-1
+B. 1-2-3
+C. 2-1-3
+D. 3-1-2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: C.** Fossil conventional → solar-linked renewables → nuclear/geothermal apart.
+
+**Logic:** Do not mark nuclear as stored solar.
+
 </details>
 
----
+**Q7.** Consider the following statements about natural gas:
 
-**Q64.** Which HQ pair is correctly matched?
+1. Methane is the main constituent of natural gas and of CNG.
+2. LPG is the same as CNG.
+3. Qatar’s North Field and Iran’s South Pars form one continuous Gulf gas giant.
 
-A. OPEC — Riyadh
+Which of the statements given above is/are correct?
 
-B. IAEA — Geneva only as the Prelims fact
-
-C. OPEC — Vienna
-
-D. IRENA — Vienna
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — OPEC and IAEA both Vienna; IRENA = Abu Dhabi.
+**Ans: C.** Only 1 and 3 are correct.
+
+**Logic:** LPG (propane/butane) ≠ CNG (methane).
+
 </details>
 
----
+**Q8.** Match List-I with List-II and select the correct answer using the code given below the lists:
 
-**Q65.** Which pair is NOT correctly matched?
+| List-I | List-II |
+|--------|--------|
+| A. Weipa | 1. Phosphate |
+| B. Morocco | 2. Bauxite |
+| C. Broken Hill | 3. Pb–Zn (Australia) |
+| D. Sudbury | 4. Ni + Cu (Canada) |
 
-A. Ghawar — Saudi Arabia
+Code:
 
-B. Burgan — Kuwait
-
-C. Kashagan — Kazakhstan
-
-D. Haft Kel — Iraq
+A. A-1, B-2, C-4, D-3
+B. A-2, B-1, C-3, D-4
+C. A-2, B-3, C-1, D-4
+D. A-4, B-1, C-2, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Haft Kel = **Iran**.
+**Ans: B.** Weipa–bauxite; Morocco–phosphate; Broken Hill–PbZn; Sudbury–NiCu.
+
+**Logic:** Weipa ≠ Newman; Newman is iron.
+
 </details>
 
----
+**Q9.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Nuclear energy is a form of stored solar energy in the chapter wording.
+
+Reason (R): Wind, biomass and hydro are taught as solar-linked renewables.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** (A) is false, but (R) is true.
+
+**A/R logic:** Nuclear/geothermal stand apart from ‘stored solar’; R’s renewable set is correct.
+
+</details>
+
+**Q10.** With reference to OPEC and hydel giants, which of the following statements is/are correct?
+
+1. OPEC HQ is Vienna; original 1960 five were Iran, Iraq, Kuwait, Saudi Arabia, Venezuela.
+2. Itaipu is Brazil–Paraguay hydel; Three Gorges is China on the Yangtze.
+3. IAEA and OPEC share Vienna but different mandates.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are correct.
+
+**Logic:** Do not swap OPEC oil with IAEA nuclear jobs.
+
+</details>
+
+**Q11.** Which of the following pairs is/are correctly matched?
+
+1. Lithium Triangle — Chile–Argentina–Bolivia
+2. Cobalt volume — DRC
+3. REE processing fact — China
+4. Uranium volume teaching often — Kazakhstan
+
+Select the correct answer from the code given below:
+
+A. 1, 2 and 3 only
+B. 2, 3 and 4 only
+C. 1, 3 and 4 only
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All four are correct.
+
+**Logic:** Brazil is not in the Lithium Triangle.
+
+</details>
+
+**Q12.** With reference to ore mineralogy, which of the following statements is/are correct?
+
+1. Hematite is the red bulk iron ore; magnetite is black and highest grade.
+2. German silver contains no silver (Cu–Ni–Zn).
+3. Brass is Cu+Sn; bronze is Cu+Zn.
+
+Select the correct answer from the code given below:
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2 are correct.
+
+**Logic:** Brass = Cu+Zn; bronze = Cu+Sn — statement 3 swaps them.
+
+</details>
+
+**Q13.** Arrange oil-field identities to separate Kazakhstan from Gulf traps:
+
+1. Burgan — Kuwait
+2. Kashagan — Kazakhstan
+3. Ghawar/Dhahran — Saudi Arabia
+4. Haft Kel — Iran
+
+Which code lists them in the order 2-1-3-4?
+
+A. Burgan, Kashagan, Haft Kel, Ghawar
+B. Kashagan, Burgan, Ghawar/Dhahran, Haft Kel
+C. Ghawar, Burgan, Kashagan, Haft Kel
+D. Haft Kel, Burgan, Kashagan, Ghawar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Kashagan → Burgan → Ghawar/Dhahran → Haft Kel matches 2-1-3-4.
+
+**Logic:** Never dump Kashagan into Kuwait.
+
+</details>
+
+**Q14.** Which of the following is/are **NOT** correctly matched?
+
+1. Iodine fact — Chile
+2. Uranium City — Canada
+3. Peace Pipeline — Russia–Europe only
+
+Select the correct answer from the code given below:
+
+A. 1 only
+B. 3 only
+C. 1 and 2 only
+D. 2 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only pair 3 is not correctly matched.
+
+**Logic:** Peace Pipeline is Iran–Pakistan gas teaching.
+
+</details>
+
+**Q15.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Ancient shields host many metal ores while sedimentary basins host coal, oil and gas.
+
+Reason (R): Karaganda is a classic coal city of Kazakhstan.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; R does not explain A.
+
+**A/R logic:** Shield vs basin is a general rule; Karaganda is a separate coal fact.
+
+</details>
+
+**Q16.** With reference to tin geography, which of the following statements is/are correct?
+
+1. Malaysia’s Kinta Valley is cassiterite tin.
+2. Bangka–Belitung (Indonesia) and Andean Bolivia are other tin centres.
+3. Pegu Yoma is part of the same tin belt as Kinta.
+
+Select the correct answer from the code given below:
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2 are correct.
+
+**Logic:** Pegu Yoma is mineral oil, not tin.
+
+</details>
+
+**Q17.** Consider the following statements about steel and producers:
+
+1. China leads steel volume among common options.
+2. China mines iron yet still imports heavily.
+3. Australia and Brazil are key iron shippers (Pilbara / Carajás).
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are correct.
+
+**Logic:** Producer volume ≠ export king for every mineral.
+
+</details>
+
+**Q18.** Match List-I with List-II and select the correct answer using the code given below the lists:
+
+| List-I (Field) | List-II (Country) |
+|-----------------|-------------------|
+| A. Donetsk | 1. Iraq |
+| B. Kirkuk / Zubair | 2. Ukraine |
+| C. Baku | 3. Azerbaijan |
+| D. North Sea belt | 4. UK–Norway |
+
+Code:
+
+A. A-2, B-1, C-3, D-4
+B. A-1, B-2, C-4, D-3
+C. A-2, B-3, C-1, D-4
+D. A-4, B-1, C-2, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Donetsk–Ukraine; Kirkuk/Zubair–Iraq; Baku–Azerbaijan; North Sea–UK/Norway.
+
+**Logic:** West Siberia is Russia’s giant hydrocarbon province — separate from North Sea.
+
+</details>
+
+**Q19.** Which one of the following is correct?
+
+A. Brent is a North Sea light crude benchmark.
+B. Burgan is in Kazakhstan.
+C. Chuquicamata is a tin mine of Malaysia.
+D. Mesabi is a coalfield of England.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Brent = North Sea light crude.
+
+**Logic:** Burgan–Kuwait; Chuquicamata–Chile copper; Mesabi–USA iron.
+
+</details>
+
+**Q20.** With reference to Katanga and Copperbelt, which of the following statements is/are correct?
+
+1. Katanga (DRC) and Copperbelt (Zambia) are copper regions.
+2. Bingham is a USA copper fact.
+3. Chile’s copper is unrelated to Andes porphyry geology.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Chile copper leadership is tied to Andes porphyry deposits.
+
+</details>
+
+**Q21.** Which of the following pairs is/are **NOT** correctly matched?
+
+1. Ruhr — Britain
+2. Kuzbass — Russia
+3. Appalachian — USA
+
+Select the correct answer from the code given below:
+
+A. 1 only
+B. 2 only
+C. 1 and 3 only
+D. 2 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only pair 1 is not correctly matched.
+
+**Logic:** Ruhr is Germany.
+
+</details>
+
+**Q22.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Weipa is a major bauxite centre.
+
+Reason (R): Mount Newman is primarily an iron-ore centre of Australia.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; R does not explain A.
+
+**A/R logic:** Both are correct Australian mineral facts but different commodities.
+
+</details>
+
+**Q23.** With reference to critical minerals, which of the following statements is/are correct?
+
+1. Lithium Triangle brines sit in Chile–Argentina–Bolivia.
+2. China dominates rare-earth processing in standard teaching.
+3. Cobalt volume leadership points to DRC.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are correct.
+
+**Logic:** Do not insert Brazil into the Lithium Triangle.
+
+</details>
+
+**Q24.** Consider the following statements:
+
+1. Steel seeks ore and coking coal as a weight-losing industry near raw material.
+2. Aluminium seeks cheap hydel power.
+3. These location logics appear again in the industries chapter but start from mineral geography.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are correct.
+
+**Logic:** Link mineral map to industry location without inventing new traps.
+
+</details>
+
+**Q25.** Match List-I with List-II and select the correct answer using the code given below the lists:
+
+| List-I | List-II |
+|--------|--------|
+| A. Dhahran | 1. Iran |
+| B. Haft Kel | 2. Saudi Arabia |
+| C. Zubair | 3. Iraq |
+| D. Karaganda | 4. Kazakhstan (coal renown) |
+
+Code:
+
+A. A-2, B-1, C-3, D-4
+B. A-1, B-2, C-4, D-3
+C. A-2, B-3, C-1, D-4
+D. A-4, B-1, C-2, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Dhahran–Saudi; Haft Kel–Iran; Zubair–Iraq; Karaganda–Kazakhstan.
+
+**Logic:** Keep Gulf fields unswapped across Iran/Iraq/Saudi/Kuwait.
+
+</details>
+
+**Q26.** Which one of the following correctly states a non-renewable vs renewable teaching point?
+
+A. Coal, oil and gas are conventional non-renewables; wind/biomass/hydro are solar-linked renewables.
+B. Nuclear is stored solar.
+C. Geothermal is identical to CNG.
+D. LPG is the main constituent of natural gas.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Fossil vs solar-linked renewable split is standard.
+
+**Logic:** Nuclear ≠ stored solar; methane ≠ LPG.
+
+</details>
+
+**Q27.** With reference to Canada and Australia mineral tags, which of the following statements is/are correct?
+
+1. Sudbury — Ni + Cu (Canada).
+2. Uranium City — Canada.
+3. Broken Hill — Australia Pb–Zn.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are correct.
+
+**Logic:** Do not dump Broken Hill as iron/tin.
+
+</details>
+
+**Q28.** Which of the following pairs is/are correctly matched?
+
+1. Lorraine iron — France
+2. Kiruna iron — Sweden
+3. Mesabi iron — USA
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are correct.
+
+**Logic:** Germany–Normandy remains the wrong iron pair.
+
+</details>
+
+**Q29.** With reference to Myanmar and Malaysia, which of the following statements is/are correct?
+
+1. Pegu Yoma = mineral oil.
+2. Kinta Valley = tin.
+3. Both are interchangeable labels for the same commodity.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Oil vs tin must not be merged.
+
+</details>
+
+**Q30.** Consider the following statements about West Siberia and the North Sea:
+
+1. West Siberia is Russia’s giant hydrocarbon province.
+2. North Sea oil/gas is a UK–Norway belt fact.
+3. Both are identical to Kashagan in Kazakhstan.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Kashagan is a separate Kazakhstan oil identity.
+
+</details>
 
 ## Common Traps — Don't Fall For These
 

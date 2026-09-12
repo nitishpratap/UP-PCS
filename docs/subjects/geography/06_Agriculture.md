@@ -3278,1388 +3278,610 @@ D. Guntur
 
 ---
 
-## Practice Zone — UPPCS Format Questions
+## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden** — click *Show answer* under each question to reveal.
-> **Format mix:** 78 questions — multi-statement | Assertion–Reason | Match List | NOT correctly matched | direct recall (UPPCS Prelims style)
+> **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D
 
-**Q1.** Cropping intensity is correctly expressed as:
+**Q1.** With reference to NSA and GCA, which of the following statements is/are correct?
 
-A. NSA / GCA × 100
+1. Cropping intensity = GCA / NSA × 100.
+2. About 86% of holdings are small or marginal.
+3. Intensity is calculated as NSA / GCA × 100.
 
-B. GCA / NSA × 100
-
-C. GCA − NSA only
-
-D. Forest area / NSA
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Intensity = (Gross Cropped Area ÷ Net Sown Area) × 100. **A** inverts the ratio.
-</details>
-
-**Q2.** With reference to cropping seasons in India, which of the following statements is/are correct?
-
-1. Wheat is mainly a rabi crop in India.
-2. Cotton is mainly a rabi crop in India.
-
-Select the correct answer from the code given below:
-
-A. 1 only
-
-B. 2 only
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Cotton is **kharif**. **B/C** buy the season swap.
-</details>
-
-**Q3.** Which farming type best fits Assam tea estates?
-
-A. Primitive jhum only
-
-B. Plantation agriculture
-
-C. Mediterranean grain farming only
-
-D. Tundra herding
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — UPPCS 2024 Q34 tea: plantation perennial. **A** confuses with NE jhum.
-</details>
-
-**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
-
-**Assertion (A):** Tea is grown under plantation agriculture in India.
-
-**Reason (R):** Tea is a short zaid melon crop of sandy deserts.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-C. (A) is true, but (R) is false
-
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — A true (plantation). R false (zaid melons ≠ tea).
-</details>
-
-**Q5.** Which one of the following is correctly matched?
-
-A. Gujarat — Tea
-
-B. Uttar Pradesh — Jute
-
-C. Kerala — Rubber
-
-D. Assam — Wheat
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — UPPCS 2022 Q142. **A/B/D** are the classic wrong pairs.
-</details>
-
-**Q6.** Who recommends the Minimum Support Price (MSP) for agricultural crops?
-
-A. Reserve Bank of India
-
-B. NITI Aayog
-
-C. Commission for Agricultural Costs and Prices (CACP)
-
-D. Ministry of Finance
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — UPPCS 2024 Q43. Cabinet decides; CACP recommends.
-</details>
-
-**Q7.** The price framework for sugarcane is best labelled as:
-
-A. Only e-NAM fee
-
-B. FRP (with possible state SAP)
-
-C. Only WTO bound tariff
-
-D. Only jute cess
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Cane ≠ cereal MSP. FRP + optional SAP.
-</details>
-
-**Q8.** Norman Borlaug was awarded the Nobel Prize in which field?
-
-A. Agriculture
-
-B. Economics
-
-C. Medicine
-
-D. Peace
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — UPPCS 2018 Q56. Agriculture is the classic distractor.
-</details>
-
-**Q9.** Match List-I with List-II and select the correct answer from the code given below:
-
-| List-I (Revolution) | List-II (Sector) |
-|---|---|
-| A. Golden | 1. Fertilisers |
-| B. Grey | 2. Horticulture and honey |
-| C. Yellow | 3. Petroleum |
-| D. Black | 4. Oilseeds |
-
-A. A-2, B-1, C-4, D-3
-
-B. A-4, B-1, C-2, D-3
-
-C. A-2, B-3, C-4, D-1
-
-D. A-1, B-2, C-4, D-3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — UPPCS 2022 Q136 order. **B** swaps Golden/Yellow.
-</details>
-
-**Q10.** Nitrogen-fixing bacteria form a symbiotic association mainly with the roots of:
-
-A. Rice
-
-B. Wheat
-
-C. Pulses
-
-D. Sugarcane
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — UPPCS 2019 Q46. Rhizobium–legume nodules.
-</details>
-
-**Q11.** Which aquatic plant is used as a biofertiliser in water-logged rice fields?
-
-A. Water hyacinth only as insecticide
-
-B. Azolla
-
-C. Hydrilla as pesticide dust
-
-D. Salvinia as urea substitute only in deserts
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Tests Azolla as a flooded-rice biofertiliser. Trap is calling it an insecticide or pesticide.
-
-**Ans: B.** Azolla hosts **Anabaena**, which fixes nitrogen in flooded fields; decayed Azolla returns that N to the soil. **A / C** push the insecticide–pesticide trap. **D** invents a desert-only urea story.
-
-</details>
-
-**Q12.** The largest producer of cardamom and pepper in India is:
-
-A. Karnataka
-
-B. Tamil Nadu
-
-C. Kerala
-
-D. Andhra Pradesh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — UPPCS 2018 Q107. Chilli is the AP/TG trap, not pepper/cardamom.
-</details>
-
-**Q13.** With reference to sugarcane, which of the following statements is/are correct?
-
-1. Production of sugarcane in Uttar Pradesh is generally higher than in Maharashtra.
-2. Productivity of sugarcane in Maharashtra is generally higher than in Uttar Pradesh.
-
-Select the correct answer from the code given below:
-
-A. 1 only
-
-B. 2 only
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — UP quantity / MH productivity (2019 A/R base). Coops do **not** explain UP’s lower yield.
-</details>
-
-**Q14.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
-
-**Assertion (A):** Ahmedabad is the largest centre of cotton textile industry in India.
-
-**Reason (R):** Ahmedabad is located in a major cotton-growing region.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-C. (A) is true, but (R) is false
-
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — UPPCS 2020 Q58. Traditionally largest centre = **Mumbai**; R true.
-</details>
-
-**Q15.** Arrange the following coffee-producing countries in descending order of production (2016):
-
-1. Colombia
-2. Vietnam
-3. Brazil
-4. Indonesia
-
-A. 3, 2, 1, 4
-
-B. 2, 3, 1, 4
-
-C. 3, 1, 2, 4
-
-D. 3, 2, 4, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Brazil > Vietnam > Colombia > Indonesia (2018 PYQ).
-</details>
-
-**Q16.** Sultana, Gulabi and Kali Champa are varieties of:
-
-A. Grapes
-
-B. Guava
-
-C. Mango
-
-D. Banana
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — UPPCS 2018. Sultana-as-grape is the name trap.
-</details>
-
-**Q17.** Production of citrus fruits is well developed in which of the following regions of the world?
-
-A. Equatorial rainforest interiors only
-
-B. Mediterranean regions
-
-C. Tundra belts
-
-D. Hot deserts without irrigation
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — UPPCS 2020 Q72. Nagpur is India’s orange renown.
-</details>
-
-**Q18.** With reference to Uttar Pradesh, which of the following statements is/are correct?
-
-1. UP is among India’s leading potato producers.
-2. CIP’s South Asia Regional Centre is located at Aligarh.
-
-Select the correct answer from the code given below:
-
-A. 1 only
-
-B. 2 only
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — UPPCS 2025 Q34. CIP-SARC is at **Singna, Agra**, not Aligarh.
-</details>
-
-**Q19.** The Planning Commission divided India into how many agro-climatic zones?
-
-A. 10
-
-B. 15
-
-C. 20
-
-D. 127
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — ACZ = 15. NARP ~127; AER ~20.
-</details>
-
-**Q20.** The Western Dry Region agro-climatic zone is mainly associated with:
-
-A. Kerala coast
-
-B. Western Rajasthan
-
-C. Sundarbans delta
-
-D. Nilgiri hills
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — ACZ 14: bajra, pulses, livestock. Not West Coast Ghats.
-</details>
-
-**Q21.** Tank irrigation is characteristic of:
-
-A. Indo-Gangetic alluvial plains only
-
-B. Peninsular hard-rock regions
-
-C. High Himalayan glaciers only
-
-D. Thar sand dunes only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Peninsula tank country. Canals dominate northern plains.
-</details>
-
-**Q22.** Drip irrigation delivers water primarily to:
-
-A. Flood the whole field uniformly always
-
-B. The root zone with high water-use efficiency
-
-C. Only canal headworks
-
-D. Only rainfed millets without pipes
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Best for horti / cane / cotton / vegetables.
-</details>
-
-**Q23.** The correct order in the formal seed chain is:
-
-A. Certified → Foundation → Breeder
-
-B. Breeder → Foundation → Certified
-
-C. Foundation → Certified → Breeder
-
-D. Breeder → Certified → Foundation
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Purity decreases downhill: Breeder → Foundation → Certified.
-</details>
-
-**Q24.** Red rot of sugarcane is caused by:
-
-A. Bacteria
-
-B. Fungus
-
-C. Virus only
-
-D. Insect only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — UPPCS 2022 Q21 match.
-</details>
-
-**Q25.** Citrus canker is caused by:
-
-A. Fungus
-
-B. Bacteria
-
-C. Nematode only
-
-D. Zinc deficiency only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Same 2022 disease match set.
-</details>
-
-**Q26.** Verghese Kurien is associated with:
-
-A. Green Revolution wheat HYVs
-
-B. White Revolution / Operation Flood
-
-C. Blue Revolution marine fishing only in Latvia
-
-D. Grey Revolution petroleum refining
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — NDDB / Amul / Anand. Swaminathan is GR.
-</details>
-
-**Q27.** Jhum cultivation is best associated with:
-
-A. Punjab canal colonies
-
-B. North-Eastern hills
-
-C. Kerala rubber estates only
-
-D. Rajasthan canal command only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Also podu / bewar / dahiya / kumri elsewhere — NE is the usual default.
-</details>
-
-**Q28.** Which of the following pairs is correctly matched?
-
-A. Bajra — Karnataka
-
-B. Ragi — Rajasthan
-
-C. Jowar — Maharashtra
-
-D. All of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Bajra=RJ; Ragi=KA; Jowar=MH.
-</details>
-
-**Q29.** Which of the following pairs is correctly matched?
-
-A. Groundnut — Madhya Pradesh as the classic core
-
-B. Mustard — Rajasthan (rabi)
-
-C. Soybean — Gujarat as the only belt
-
-D. Mustard — kharif in Assam only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — GN=GJ; Mustard=RJ rabi; Soy=MP kharif.
-</details>
-
-**Q30.** Cotton cultivation needs roughly how many frost-free days (textbook figure)?
-
-A. 90
-
-B. 120
-
-C. 210
-
-D. 365 without exception
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — ~210 frost-free days + black soil + bright sun at boll opening.
-</details>
-
-**Q31.** Jute retting requires:
-
-A. Dry desert wind only
-
-B. Standing / still water
-
-C. Freezing Himalayan streams only
-
-D. No moisture at all
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Golden fibre needs hot-humid delta + retting water.
-</details>
-
-**Q32.** Aus, Aman and Boro refer to:
-
-A. Three wheat grades of Punjab
-
-B. Three paddy crops of Assam / West Bengal / Odisha
-
-C. Three cotton staples only
-
-D. Three coffee species of Karnataka
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Boro = irrigated winter–spring paddy.
-</details>
-
-**Q33.** With reference to coffee, which statement is correct?
-
-A. Arabica prefers lower elevation than Robusta always
-
-B. Arabica is generally higher-elevation and more pest-sensitive than Robusta
-
-C. India grows only Robusta
-
-D. Coffee needs stagnant water like flooded rice
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Shade + well-drained slopes; KA > KL > TN.
-</details>
-
-**Q34.** Mixed cropping means:
-
-A. Growing two or more crops together on the same land at the same time
-
-B. Growing only one crop forever on all fields
-
-C. Leaving land fallow for twenty years
-
-D. Planting trees after abandoning villages only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Intercropping = row ratios; rotation = sequence.
-</details>
-
-**Q35.** Evergreen Revolution emphasises:
-
-A. High productivity without ecological harm
-
-B. Only petroleum extraction
-
-C. Ending all irrigation forever
-
-D. Replacing foodgrains with only jute
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Swaminathan’s sustainable productivity idea.
-</details>
-
-**Q36.** ICAR is:
-
-A. The body that decides MSP in Cabinet meetings
-
-B. India’s apex agricultural research and education organisation (HQ New Delhi)
-
-C. Only a private seed company of Mumbai
-
-D. The UN food agency headquartered in Rome
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — IARI Pusa is the flagship. CACP ≠ ICAR.
-</details>
-
-**Q37.** Warabandi refers to:
-
-A. A type of HYV wheat
-
-B. Roster turns for canal irrigation water
-
-C. A jute retting chemical
-
-D. A coffee curing machine
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Part of CADWM pack with field channels and drainage.
-</details>
-
-**Q38.** Command Area Development (CAD) primarily aims to:
-
-A. Build a brand-new dam in every district
-
-B. Develop the command of an existing project through channels, drainage and warabandi
-
-C. Replace all crops with only tea
-
-D. Stop all irrigation permanently
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — CAD ≠ new dam construction.
-</details>
-
-**Q39.** Which of the following is NOT a major cocoa producer country?
-
-A. Ivory Coast
-
-B. Ghana
-
-C. Cameroon
-
-D. Latvia
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — UPPCS 2021 distractor. West Africa dominates cocoa.
-</details>
-
-**Q40.** Golden rice is associated with:
-
-A. Vitamin A enrichment
-
-B. Nitrogen gas storage only
-
-C. Ozone layer repair
-
-D. Petroleum blending
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Golden rice = beta-carotene / Vitamin A in the grain. Distractors steal tags from other science pairs (ozone, petroleum, nitrogen).
-
-**Ans: A.** Golden rice is engineered to make **beta-carotene** (provitamin A) in the endosperm. **B** belongs to Azolla / Rhizobium-type nitrogen stories. **C** belongs to the ozone–stratosphere pair (not rice). **D** is unrelated.
-
-</details>
-
-**Q41.** Who introduced the concept of entitlements in food security?
-
-A. M.S. Swaminathan
-
-B. Amartya Sen
-
-C. Verghese Kurien
-
-D. Norman Borlaug
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — UPPCS 2025 Q147. Swaminathan = GR / Evergreen.
-</details>
-
-**Q42.** Blue Revolution is associated with:
-
-A. Milk cooperatives
-
-B. Fisheries / aquaculture
-
-C. Oilseeds only
-
-D. Fertiliser factories only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Often tagged with Hiralal Chaudhuri. White = milk.
-</details>
-
-**Q43.** Silver Revolution is associated with:
-
-A. Eggs / poultry
-
-B. Cotton textiles only
-
-C. Petroleum refining
-
-D. Rubber latex only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Silver = egg; Grey = fertiliser.
-</details>
-
-**Q44.** Yellow Revolution is associated with:
-
-A. Horticulture and honey
-
-B. Oilseeds
-
-C. Milk
-
-D. Eggs
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Golden = horti + honey. Do not swap.
-</details>
-
-**Q45.** NARP agro-climatic research zones are about:
-
-A. 15
-
-B. 20
-
-C. 127
-
-D. 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Planning ACZ=15; AER≈20; NARP≈127.
-</details>
-
-**Q46.** NBSS&LUP agro-ecological regions are about:
-
-A. 15
-
-B. 20
-
-C. 127
-
-D. 210
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Soils + Length of Growing Period.
-</details>
-
-**Q47.** Murrah is a famous breed of:
-
-A. Sheep
-
-B. Buffalo
-
-C. Camel
-
-D. Yak only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Haryana high-yield buffalo. Jamunapari = goat (UP).
-</details>
-
-**Q48.** Operation Flood is linked to:
-
-A. Flood-control embankments of Bihar only
-
-B. White Revolution dairy cooperatives / NDDB
-
-C. Blue Revolution deep-sea trawling only
-
-D. Grey Revolution coal mining
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Kurien / Amul / Anand.
-</details>
-
-**Q49.** Credit for coconut and sugarcane agriculture in the Philippines is given to:
-
-A. Dutch and Portuguese only
-
-B. Spanish and Americans
-
-C. Chinese and Japanese only
-
-D. British and Germans only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — UPPCS 2023 Q64.
-</details>
-
-**Q50.** With reference to Delhi Government’s Bio-decomposer Spray Programme, which of the following statements is/are correct?
-
-1. The bio-decomposer is provided free of cost to farmers.
-2. It is a fungal formulation that turns stubble into manure.
-
-Select the correct answer from the code given below:
-
-A. 1 only
-
-B. 2 only
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — UPPCS 2025 Q10 both.
-</details>
-
-**Q51.** Intensive subsistence farming in India is typical of:
-
-A. Large mechanised Canadian prairies only
-
-B. Densely populated rice–wheat small-farm regions
-
-C. Only Amazon slash-and-burn
-
-D. Only Arctic reindeer herding
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — High labour, small holdings, rice/wheat cores.
-</details>
-
-**Q52.** Which crop-condition set is correct for rubber?
-
-A. Cool dry desert; <50 cm rain
-
-B. 25–35°C; >200 cm rain; humid equatorial
-
-C. Frost-prone Himalayan peaks only
-
-D. Mediterranean winter-rain citrus belt only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Kerala (2022 Q142 correct pair).
-</details>
-
-**Q53.** Trans-Gangetic Plains ACZ is best known for:
-
-A. Only jhum spices
-
-B. Intensive wheat–rice (Green Revolution heartland)
-
-C. Only island coconut
-
-D. Only Rann salt farming
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — PB–HR–Delhi fringe; ACZ 6.
-</details>
-
-**Q54.** e-NAM relates to:
-
-A. Electronic national agricultural market network
-
-B. Only fertiliser subsidy DBT for petroleum
-
-C. Only tea auction of London
-
-D. Only MSP Cabinet meetings
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Online mandi network over APMC platforms.
-</details>
-
-**Q55.** Agriculture Infrastructure and Development Cess (Budget 2021–22) was levied on how many products?
-
-A. 10
-
-B. 15
-
-C. 22
-
-D. 29
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — UPPCS 2021 Q103.
-</details>
-
-**Q56.** Precision farming emphasises:
-
-A. Stopping all irrigation forever
-
-B. Site-specific input use with GIS / GPS / sensors
-
-C. Only calendar spraying of every field equally
-
-D. Only jhum fallows of 50 years
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Not the same as organic-by-default.
-</details>
-
-**Q57.** With reference to organic farming, which statement is correct?
-
-1. It avoids synthetic agrochemicals as per standards.
-2. Sikkim is recognised as India’s first fully organic state.
-
-Select the correct answer from the code given below:
-
-A. 1 only
-
-B. 2 only
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Both are standard UPSC associations.
-</details>
-
-**Q58.** With reference to Western Uttar Pradesh, which of the following statements is/are correct?
-
-1. It is part of the Green Revolution wheat–rice belt.
-2. Tube-well and canal irrigation supported HYV adoption here.
-
-Select the correct answer from the code given below:
-
-A. 1 only
-
-B. 2 only
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — UPPCS 2022 Q91 both. Upper Gangetic / Zone 5.
-</details>
-
-**Q59.** Mesta is:
-
-A. A premium long-staple Egyptian cotton only
-
-B. A drier-area substitute fibre related to the jute family use
-
-C. A wheat HYV of Sonora type
-
-D. A coffee curing grade
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Grown where full jute humidity is lacking.
-</details>
-
-**Q60.** Which of the following is correctly paired?
-
-A. White gold — jute
-
-B. Golden fibre — cotton
-
-C. White gold — cotton; golden fibre — jute
-
-D. Golden fibre — rubber latex
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Nicknames: cotton = white gold; jute = golden fibre.
-</details>
-
-**Q61.** With reference to wheat cultivation in India, which of the following statements is/are correct?
-
-1. One major wheat belt lies in the Ganga–Satluj plains of the north-west.
-2. Another wheat belt is associated with the black-soil region of the Deccan.
-
-Select the correct answer from the code given below:
-
-A. 1 only
-
-B. 2 only
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — NCERT two-belt picture. Assam is not a wheat belt.
-</details>
-
-**Q62.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
-
-**Assertion (A):** Rabi crops in north-west India often benefit from winter rainfall.
-
-**Reason (R):** Western disturbances bring precipitation to the north-western plains in winter.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-C. (A) is true, but (R) is false
-
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — WD winter rain + irrigation supports wheat–mustard belts.
-</details>
-
-**Q63.** International Year of Millets was observed in:
-
-A. 2015
-
-B. 2019
-
-C. 2023
-
-D. 2025
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — GoI brand **Shree Anna**.
-</details>
-
-**Q64.** Match List-I with List-II and select the correct answer from the code given below:
-
-| List-I (Crop) | List-II (Nickname) |
-|---|---|
-| A. Cotton | 1. Golden fibre |
-| B. Jute | 2. White gold |
-| C. Soybean | 3. Oilseed of Madhya Pradesh |
-| D. Mustard | 4. Rabi oilseed of Rajasthan |
-
-A. A-2, B-1, C-3, D-4
-
-B. A-1, B-2, C-3, D-4
-
-C. A-2, B-1, C-4, D-3
-
-D. A-2, B-3, C-1, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — White gold / golden fibre / MP soy / RJ mustard.
-</details>
-
-**Q65.** Which HYV set is correctly associated with the early Green Revolution?
-
-A. Lerma Rojo and Sonora 64 (wheat); IR-8 (rice)
-
-B. Only Robusta coffee clones
-
-C. Only Murrah buffalo semen
-
-D. Only Darjeeling orthodox tea clones
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Mexican dwarf wheat + IRRI rice classic names.
-</details>
-
-**Q66.** With reference to rice cultivation in India, which of the following statements is/are correct?
-
-1. Direct seeding of rice (DSR) usually uses less irrigation water than puddled transplantation.
-2. West Bengal is often the leading producer by volume, while Punjab leads in yield.
-3. NCERT-style notes always treat India as a larger rice producer than China.
-
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-
+A. 1 and 3 only
 B. 2 and 3 only
-
-C. 1 and 3 only
-
+C. 1 and 2 only
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — (3) fails. Standard textbooks put India **second after China**. A 2024–25 government claim of #1 is a different, later claim.
+**Ans: C.** Only 1 and 2 are correct.
+
+**Logic:** Do not invert GCA/NSA.
 
 </details>
 
-**Q67.** Cotton in India is best described as
+**Q2.** Which of the following pairs is/are NOT correctly matched?
 
-A. a rabi cereal of the Terai
+1. Wheat — rabi
+2. Cotton — kharif
+3. Wheat — kharif
 
-B. a 6–8 month kharif fibre, mostly rainfed, that dislikes waterlogging
-
-C. a plantation crop of Kerala slopes
-
-D. a frost-loving Himalayan crop
+A. 1 only
+B. 3 only
+C. 1 and 2 only
+D. 2 and 3 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — NCERT cotton facts. About two-thirds rainfed. Frost is injurious.
+**Ans: B.** Pair 3 is wrong.
+
+**Logic:** Never swap wheat/cotton seasons.
 
 </details>
 
-**Q68.** Which of the following is a ratoon crop in Indian farming?
+**Q3.** Arrange the following irrigation source shares (2018–19 provisional) from largest to smallest:
 
-A. Wheat after rice in Punjab
+1. Canals
+2. Tubewells
+3. Tanks
 
-B. Sugarcane sprouting from harvested stubble
-
-C. Gram mixed with mustard
-
-D. Tea plucked as a zaid cereal
+A. 2–3–1
+B. 1–2–3
+C. 2–1–3
+D. 1–3–2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Ratoon = new tillers from cane stubble. Wheat after rice is sequential / rotation.
+**Ans: C.** Tubewells ~48.5% → canals ~23% → tanks ~2.3%.
+
+**Logic:** Wells+tubewells together ~64%.
 
 </details>
 
-**Q69.** BGREI is primarily meant to
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. replace all Punjab paddy with coffee
+Assertion (A): CACP recommends MSP while the Cabinet decides.
 
-B. raise rice-based productivity in **eastern** India by using under-used water and better agronomy
+Reason (R): Sugarcane price policy uses FRP (plus SAP), not the cereal MSP schedule.
 
-C. ban HYV wheat
-
-D. shift jute mills from the Hugli to Gujarat
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Bringing Green Revolution to Eastern India, under the RKVY family.
-
-</details>
-
-**Q70.** Given below are two statements:
-
-**Assertion (A):** Canals work well on clayey alluvial plains.
-
-**Reason (R):** Clayey soils leak less, so canal water is not lost as fast as on coarse sand.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Canal-soil pair. Tanks still dominate much of the hard-rock peninsula.
-
-</details>
-
-**Q71.** Who wrote *History of Indian Agriculture*?
-
-A. M.S. Swaminathan
-
-B. S. Ayyappan
-
-C. K.B. Thomas
-
-D. M.S. Randhawa
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Author pair vs “Father of Green Revolution” name trap.
+**Ans: A.** Both true; R is a related price-policy fact but does not explain the CACP–Cabinet split in A.
 
-**Ans: D.M.S. Randhawa** (Mohinder Singh Randhawa) wrote *History of Indian Agriculture*. Swaminathan is the Green / Evergreen face, not this book’s author.
-
-</details>
-
-**Q72.** The first agricultural university of India was established in:
-
-A. 1950
-
-B. 1960
-
-C. 1970
-
-D. 1980
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Year pair for Pantnagar / GBPUAT inauguration.
-
-**Ans: B.** Opened in **1960** at Pantnagar as Uttar Pradesh Agricultural University; inaugurated by Nehru on **17 November 1960**; later renamed G.B. Pant University of Agriculture and Technology.
+**A/R logic:** Keep MSP vs FRP and recommender vs decider distinct.
 
 </details>
 
-**Q73.** With reference to agro-regions of India, consider the following statements:
+**Q5.** Match List-I with List-II (millets / oilseeds leaders):
 
-1. Planning Commission agro-climatic zones number 15.
-2. NBSS&LUP agro-ecological regions number 20.
-3. Sengupta and Sdasyuk (1968) micro agricultural regions number 60.
-
-Select the correct answer using the code given below:
-
-A. 1 and 2 only
-
-B. 2 and 3 only
-
-C. 1 and 3 only
-
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Three number systems — do not swap 15 and 20.
-
-**Ans: D.** ACZ **15**, AER **20**, Sengupta–Sdasyuk micro regions **60**. Trap questions swap 15 and 20.
-
-</details>
-
-**Q74.** Agmark is:
-
-A. A cooperative for egg marketing
-
-B. A farmers’ cooperative federation
-
-C. A regulated egg market
-
-D. A quality certification mark for agricultural produce
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Agmark = grading mark under the 1937 Act, not a co-op body.
-
-**Ans: D.** Agmark is the government quality mark under the **Agricultural Produce (Grading and Marking) Act, 1937**.
-
-</details>
-
-**Q75.** Which green manure crop has the highest nitrogen content among the following?
-
-A. Dhaincha
-
-B. Sunhemp
-
-C. Cowpea
-
-D. Guar
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Percentage N pair among common green manures.
-
-**Ans: C.** Cowpea is taught at about **0.49%** N; sunhemp ~0.43%, dhaincha ~0.42%, guar ~0.34%. Sunhemp may still return the highest **kg N/ha**.
-
-</details>
-
-**Q76.** Which one of the following is the pathway associated with the Seed Village Concept?
-
-A. Farmers must use only farm-saved seed and never buy seed
-
-B. Trained farmers produce quality seed for self-use and neighbours at the right time and affordable cost
-
-C. Whole villages are reserved only for certified-seed companies
-
-D. Only urban entrepreneurs get seed-company finance
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Seed Village = farmer training + local affordable seed supply.
-
-**Ans: B.** The concept trains village groups to produce and supply quality seed locally — not a ban on purchase and not a company-only village.
-
-</details>
-
-**Q77.** Match List-I with List-II and select the correct answer:
-
-| List-I (Board) | List-II (Headquarters) |
-|----------------|------------------------|
-| A. Coffee Board | 1. Kottayam |
-| B. Rubber Board | 2. Bengaluru |
-| C. Tea Board | 3. Guntur |
-| D. Tobacco Board | 4. Kolkata |
+| List-I | List-II |
+|---|---|
+| A. Jowar | 1. Rajasthan |
+| B. Bajra | 2. Maharashtra |
+| C. Ragi | 3. Karnataka |
+| D. Groundnut | 4. Gujarat |
 
 *Row order is not the answer code.*
 
-A. A-2, B-1, C-4, D-3
+Code:
 
-B. A-1, B-2, C-4, D-3
-
-C. A-2, B-4, C-1, D-3
-
-D. A-4, B-1, C-2, D-3
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Board HQ pairs; Coffee is Bengaluru, not Hyderabad.
-
-**Ans: A.** Coffee → Bengaluru; Rubber → Kottayam; Tea → Kolkata; Tobacco → Guntur. Trap: Coffee Board–Hyderabad.
-
-</details>
-
-**Q78.** Assertion (A): Punjab is the pioneer state for contract farming in India.
-
-Reason (R): Sikkim has less than 10% of its land available for agriculture.
+A. A-2, B-3, C-1, D-4
+B. A-1, B-2, C-3, D-4
+C. A-2, B-1, C-3, D-4
+D. A-3, B-1, C-2, D-4
 
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** A tests contract-farming pioneer; R tests Sikkim land-use; both true but R does not explain A.
+**Ans: C.** Jowar=MH; Bajra=RJ; Ragi=KA; Groundnut=GJ.
 
-**Ans: B.** Both true, but R is not the explanation of A. Punjab = contract farming pioneer; Sikkim = forest hill state with under 10% cultivable share.
+**Logic:** Mustard=RJ (rabi); Soybean=MP (kharif).
 
 </details>
 
----
+**Q6.** With reference to rice and wheat, which of the following statements is/are correct?
+
+1. West Bengal often leads rice volume; Punjab leads yield.
+2. Textbook rank usually places India second in rice after China.
+3. Assam–Wheat is a correct belt pair.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Statements 1 and 2 are correct.
+
+**Logic:** Assam–Wheat is a wrong pair; wheat belts are Ganga–Satluj plains + Deccan black.
+
+</details>
+
+**Q7.** Which one of the following revolution colours is correctly matched?
+
+A. Yellow — horticulture
+B. Golden — oilseeds
+C. Yellow — oilseeds; Golden — horticulture + honey
+D. Grey — petroleum
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Yellow=oilseeds; Golden=horti+honey; Grey=fertiliser; Black=petroleum.
+
+**Logic:** Do not swap Yellow and Golden.
+
+</details>
+
+**Q8.** With reference to cotton, which of the following statements is/are correct?
+
+1. Cotton is kharif, needs frost-free days, prefers black soil, hates waterlogging.
+2. India grows all four species; bulk is hirsutum/Bt; mostly medium staple.
+3. Traditional largest textile mill centre is Ahmedabad, not Mumbai.
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2 are correct.
+
+**Logic:** Ahmedabad is in the belt; traditional largest mill centre is Mumbai.
+
+</details>
+
+**Q9.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Uttar Pradesh leads sugarcane quantity while Maharashtra leads productivity.
+
+Reason (R): Cooperatives and frost-free south help Maharashtra’s productivity edge.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R helps explain the productivity contrast.
+
+**A/R logic:** Do not invert UP quantity vs MH productivity.
+
+</details>
+
+**Q10.** Which of the following pairs is/are NOT correctly matched?
+
+1. Jute — West Bengal leader; golden fibre
+2. Uttar Pradesh — jute leader
+3. Rubber — Kerala
+
+A. 1 only
+B. 2 only
+C. 1 and 3 only
+D. 2 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Pair 2 is wrong.
+
+**Logic:** UP–Jute and Gujarat–Tea / Assam–Wheat are wrong pairs.
+
+</details>
+
+**Q11.** Match List-I with List-II (people / institutions):
+
+| List-I | List-II |
+|---|---|
+| A. M.S. Swaminathan | 1. White Revolution / NDDB / Amul |
+| B. Verghese Kurien | 2. Green / Evergreen face |
+| C. Norman Borlaug | 3. Nobel Peace |
+| D. Hiralal Chaudhuri | 4. Blue Revolution (fish) |
+
+*Row order is not the answer code.*
+
+Code:
+
+A. A-3, B-1, C-2, D-4
+B. A-1, B-2, C-3, D-4
+C. A-2, B-3, C-1, D-4
+D. A-2, B-1, C-3, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Swaminathan=GR; Kurien=milk; Borlaug=Peace Nobel; Chaudhuri=Blue.
+
+**Logic:** Do not give milk to Swaminathan or Agriculture Nobel to Borlaug.
+
+</details>
+
+**Q12.** With reference to agro-climatic counts, which of the following statements is/are correct?
+
+1. Planning Commission agro-climatic zones = 15.
+2. NARP zones ~127; agro-ecological regions ~20.
+3. Trans-Gangetic belt is a classic Green Revolution wheat–rice zone.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are correct.
+
+**Logic:** Do not swap 15 ACZ with 20 AER.
+
+</details>
+
+**Q13.** Arrange seed chain stages in order:
+
+1. Certified
+2. Breeder
+3. Foundation
+
+A. 3–2–1
+B. 2–3–1
+C. 2–1–3
+D. 1–2–3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Breeder → Foundation → Certified.
+
+**Logic:** ICAR Delhi; IARI Pusa; KVK district level.
+
+</details>
+
+**Q14.** Which one of the following is correctly matched?
+
+A. Potato CIP-SARC — Aligarh
+B. Agmark Act — 1957
+C. First agri university — Pantnagar (1960)
+D. Coffee Board HQ — Kolkata
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Pantnagar 1960 is first agri uni; CIP potato centre is Agra (Singna).
+
+**Logic:** Agmark=1937; Coffee Board=Bengaluru; Tea=Kolkata; Rubber=Kottayam.
+
+</details>
+
+**Q15.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Sikkim is India’s first fully organic state.
+
+Reason (R): Organic farming bans synthetic agro-chemicals; Jhum is north-east shifting cultivation.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; R states related definitions but does not by itself explain Sikkim’s first-organic status.
+
+**A/R logic:** Keep the Sikkim organic fact distinct from the Jhum definition.
+
+</details>
+
+**Q16.** With reference to India ranks, which of the following statements is/are correct?
+
+1. India usually ranks first in milk, pulses and jute.
+2. India often ranks second in rice, wheat and cane.
+3. Yellow Revolution is petroleum.
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2 are correct.
+
+**Logic:** Black=petroleum; Yellow=oilseeds.
+
+</details>
+
+**Q17.** Which of the following pairs is correctly matched?
+
+A. Red rot of cane — bacterium
+B. Citrus canker — fungus
+C. Red rot of cane — fungus; citrus canker — bacterium
+D. Azolla — insecticide in rice
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Red rot=fungus; citrus canker=bacterium; Azolla=biofertiliser.
+
+**Logic:** Do not swap pathogen types.
+
+</details>
+
+**Q18.** With reference to Green Revolution, which of the following statements is/are correct?
+
+1. Package = HYV + water + fertiliser in Punjab–Haryana–western UP.
+2. Costs include groundwater stress, monoculture and millet/pulse neglect.
+3. Amartya Sen’s food thesis is entitlements, not Swaminathan’s breeding story.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are correct.
+
+**Logic:** BGREI targets eastern rice systems.
+
+</details>
+
+**Q19.** Match List-I with List-II (board HQs):
+
+| List-I | List-II |
+|---|---|
+| A. Coffee | 1. Kottayam |
+| B. Tea | 2. Bengaluru |
+| C. Rubber | 3. Kolkata |
+| D. Tobacco | 4. Guntur |
+
+*Row order is not the answer code.*
+
+Code:
+
+A. A-2, B-3, C-1, D-4
+B. A-3, B-2, C-1, D-4
+C. A-2, B-1, C-3, D-4
+D. A-1, B-3, C-2, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Coffee=Bengaluru; Tea=Kolkata; Rubber=Kottayam; Tobacco=Guntur.
+
+**Logic:** History of Indian Agriculture = M.S. Randhawa.
+
+</details>
+
+**Q20.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): International Year of Millets 2023 marketed millets as Shree Anna.
+
+Reason (R): Pulses fix nitrogen through Rhizobium.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; R is a separate pulse fact, not the explanation of millet branding in A.
+
+**A/R logic:** Unrelated true statements → A option.
+
+</details>
+
+**Q21.** With reference to plantation crops, which of the following statements is/are correct?
+
+1. Tea needs slopes and high rain — Assam, West Bengal, Nilgiri.
+2. Coffee is strongest in Karnataka, then Kerala and Tamil Nadu.
+3. Rubber correct state pair is Gujarat.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Rubber = Kerala; pepper/cardamom also concentrate in Kerala.
+
+</details>
+
+**Q22.** Which of the following statements about mixed/double/parallel cropping is/are correct?
+
+1. Mixed farming = crops + livestock.
+2. Double cropping = two crops in one year.
+3. Parallel cropping classic = wheat + mustard.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are correct.
+
+**Logic:** Contract farming pioneer often tagged to Punjab.
+
+</details>
+
+**Q23.** Which one of the following cane facts is correct?
+
+A. Sugar Bowl — Maharashtra quantity leader
+B. Breeding centre — Coimbatore; first mill Pratappur 1903
+C. Rice Bowl of India — Punjab alone
+D. Ratoon means changing the crop each year
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Coimbatore breeding; Pratappur 1903 first mill; UP is Sugar Bowl quantity.
+
+**Logic:** Ratoon = crop from stubble; Rice Bowl = Krishna–Godavari delta.
+
+</details>
+
+**Q24.** With reference to jute, which of the following statements is/are correct?
+
+1. Needs hot-wet conditions, alluvial soil and standing water for retting.
+2. White (capsularis) is flood-tolerant; tossa (olitorius) is upland with better fibre.
+3. Mesta is the drier-area allied fibre.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are correct.
+
+**Logic:** India is world number one in jute.
+
+</details>
+
+**Q25.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Mandated MSP crops are 22.
+
+Reason (R): FAO safe grain moisture for storage is often taught as ≤14%.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; R does not explain the MSP crop count.
+
+**A/R logic:** Separate institutional and storage facts.
+
+</details>
+
+**Q26.** Which of the following pairs is/are NOT correctly matched?
+
+1. White gold — cotton
+2. Golden fibre — jute
+3. White gold — jute
+
+A. 1 only
+B. 3 only
+C. 1 and 2 only
+D. 2 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Pair 3 is wrong.
+
+**Logic:** Do not swap nicknames.
+
+</details>
+
+**Q27.** With reference to Zaid and long-duration crops, which of the following statements is/are correct?
+
+1. Zaid (March–June) covers melons, cucumber, fodder and vegetables.
+2. Cane is long-duration; tea/coffee/rubber are perennial.
+3. Cotton is a rabi crop of 6–8 months.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Cotton is kharif.
+
+</details>
+
+**Q28.** Which one of the following is correct about potato / horticulture traps?
+
+A. Potato leadership is with Bihar only
+B. CIP-SARC is at Agra (Singna), not Aligarh
+C. Sultana/Gulabi/Kali Champa are definitively grapes in all keys
+D. Golden rice carries Vitamin C
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** CIP potato centre = Agra (Singna); UP leads potato.
+
+**Logic:** Sultana/Gulabi/Kali Champa: UPPCS 2018 key was guava; some banks list grapes — sources disagree. Golden rice = Vitamin A.
+
+</details>
+
+**Q29.** With reference to irrigation methods, which of the following statements is/are correct?
+
+1. Canals suit clayey plains; tube wells dominate NW and western UP; tanks suit peninsula.
+2. Drip suits horticulture; minor CCA ≤2000 ha creates ~62% of irrigation potential.
+3. Lift irrigation is irrelevant where southern canal layouts are irregular.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Statements 1 and 2 are correct.
+
+**Logic:** Lift irrigation matters where southern layouts are irregular.
+
+</details>
+
+**Q30.** Which of the following statements is/are correct?
+
+1. Mustard is rabi; soybean is kharif.
+2. Gram is rabi; tur/moong/urad are kharif.
+3. Parallel cropping classic is potato + rice.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Parallel cropping classic = wheat + mustard.
+
+</details>
 
 ## Common Traps — Don't Fall For These
 

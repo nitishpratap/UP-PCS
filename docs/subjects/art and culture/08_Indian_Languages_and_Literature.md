@@ -2587,803 +2587,193 @@ D. Tabla
 
 ## Practice Zone — UPPCS Format Drill
 
-**55 questions.** ≥60% multi-statement. A/R, Match-List, chronology, NOT-matched included.
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-**Q1.** With reference to ancient Indian literature, which of the following statements is/are correct?
+**Q1.** With reference to Shruti and Smriti, which of the following statements is/are correct?
 
-1. Vedas are Shruti.
-2. Puranas are Smriti.
-3. The Bhagavad Gita is a separate Veda.
+1. Shruti covers the heard Veda stack of Samhita, Brahmana, Aranyaka and Upanishad.
+2. Smriti covers epics, Puranas, Dharmashastra and related remembered texts.
+3. Itihasa means the eighteen Maha Puranas only.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 1 only
+Select the correct answer from the code given below:
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** Itihasa means Ramayana and Mahabharata. Puranas are a separate Smriti class.
 
 </details>
 
-**Q2.** Match List-I with List-II.
+**Q2.** Consider the following pairs:
 
-**List-I**
-A. Panini
-B. Patanjali
-C. Kautilya
-D. Bhartrihari
+| Text / author | Tag |
+|---------------|-----|
+| 1. Valmiki Ramayana | Seven kandas |
+| 2. Vyasa Mahabharata | Eighteen parvas |
+| 3. Bhagavad Gita | Inside Bhishma Parva |
+| 4. Shukla Yajurveda | Taittiriya |
 
-**List-II**
-1. Arthashastra
-2. Ashtadhyayi
-3. Shringara Shataka
-4. Mahabhashya
+Which of the pairs given above are correctly matched?
 
-A. 2 4 1 3
-B. 2 1 4 3
-C. 4 2 1 3
-D. 2 4 3 1
+A. 1 and 4 only
+B. 1, 2 and 3 only
+C. 2, 3 and 4 only
+D. 1, 2, 3 and 4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Ans: B.** Pairs 1–3 are correct.
+
+**Logic:** Shukla Yajurveda is Vajasaneyi. Krishna Yajurveda is Taittiriya.
 
 </details>
 
-**Q3.** Which of the following pairs is NOT correctly matched?
+**Q3.** With reference to Kalidasa, which of the following statements is/are correct?
 
-A. Meghaduta — Kalidasa
-B. Raghuvamsha — Kalidasa
-C. Shringara Shataka — Kalidasa
-D. Kumarasambhava — Kalidasa
+1. Kavya facts include Meghaduta, Raghuvamsha, Kumarasambhava and Ritusamhara.
+2. His three dramas are Abhijnanashakuntalam, Vikramorvashiya and Malavikagnimitram.
+3. Shringara Shataka is also Kalidasa’s work.
 
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.**
-
-</details>
-
-**Q4.** Assertion (A): Kalidasa wrote both mahakavya and drama.
-Reason (R): *Uttararamacharita* is one of his three plays.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.**
-
-</details>
-
-**Q5.** How many of the following are Kalidasa dramas?
-
-1. Abhijnanashakuntalam
-2. Vikramorvashiya
-3. Malavikagnimitram
-4. Mrichchhakatika
-
-A. Only two
-B. Only three
-C. All four
-D. Only one
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.**
-
-</details>
-
-**Q6.** Match List-I with List-II (2025 pattern).
-
-**List-I**
-A. Jayadeva
-B. Somadeva
-C. Kshemendra
-D. Trivikram Bhatta
-
-**List-II**
-1. Nalachampu
-2. Gita Govinda
-3. Kathasaritsagara
-4. Brihatkathamanjari
-
-A. 2 3 4 1
-B. 2 4 3 1
-C. 3 2 4 1
-D. 2 3 1 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q7.** Which of the following is a Samhita of Shukla Yajurveda?
-
-A. Taittiriya
-B. Maitrayani
-C. Vajasaneyi
-D. Kathaka
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.**
-
-</details>
-
-**Q8.** With reference to the Vedas, which of the following statements is/are correct?
-
-1. Rigveda is the oldest Samhita.
-2. Samaveda is primarily a book of ritual prose like a Brahmana.
-3. Atharvaveda contains charms and healing material.
+Select the correct answer from the code given below:
 
 A. 1 and 3 only
-B. 1 and 2 only
-C. 1 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q9.** Which of the following pairs is NOT correctly matched?
-
-A. Ramayana — Valmiki
-B. Mahabharata — Vyasa
-C. Bhagavad Gita — a stand-alone fourth Veda
-D. Ramcharitmanas — Tulsidas
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.**
-
-</details>
-
-**Q10.** Assertion (A): Vishnu Purana is used as a source for Mauryan genealogy.
-Reason (R): Vayu Purana is used for Gupta polity/genealogy.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.**
-
-</details>
-
-**Q11.** How many Mahapuranas are traditionally counted?
-
-A. 12
-B. 16
-C. 18
-D. 36
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — 18 Maha (plus 18 Upa in a separate count).
-
-</details>
-
-**Q12.** Match List-I with List-II.
-
-**List-I**
-A. Tulsidas
-B. Surdas
-C. Jayasi
-D. Premchand
-
-**List-II**
-1. Braj *Sursagar*
-2. Awadhi *Ramcharitmanas*
-3. *Godan*
-4. Awadhi *Padmavat*
-
-A. 2 1 4 3
-B. 2 4 1 3
-C. 1 2 4 3
-D. 2 1 3 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q13.** Which of the following languages is/are NOT in the Eighth Schedule?
-
-1. Nepali
-2. Dogri
-3. Bhojpuri
-
-A. 1 only
-B. 3 only
-C. 2 and 3 only
-D. 1 and 2 only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.**
-
-</details>
-
-**Q14.** With reference to classical languages of India, which of the following statements is/are correct?
-
-1. Tamil was the first (2004).
-2. After 3 October 2024 the total is 11.
-3. Hindi is one of the eleven.
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 1 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q15.** Arrange the conferment of classical status.
-
-1. Odia
-2. Tamil
-3. Sanskrit
-4. Marathi
-
-A. 2, 3, 1, 4
-B. 2, 3, 4, 1
-C. 3, 2, 1, 4
-D. 2, 1, 3, 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 2004, 2005, 2014, 2024.
-
-</details>
-
-**Q16.** Assertion (A): Babur wrote his memoirs in Chagatai Turki.
-Reason (R): Turki was the official language of the Mughal court.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.**
-
-</details>
-
-**Q17.** *Tutinama* is a Persian rendering of
-
-A. Panchatantra by Vishnusharman
-B. Suka Saptati by Nakhshabi
-C. Gita Govinda by Abdur Rahim
-D. Kathasaritsagara by Amir Khusrau
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.**
-
-</details>
-
-**Q18.** Which of the following pairs is NOT correctly matched?
-
-A. Banabhatta — Harshacharita
-B. Bharavi — Kiratarjuniya
-C. Magha — Shishupalavadha
-D. Dandin — Gita Govinda
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.**
-
-</details>
-
-**Q19.** Match List-I with List-II.
-
-**List-I**
-A. Silappadikaram
-B. Tirukkural
-C. Tripitaka
-D. Ashtadhyayi
-
-**List-II**
-1. Tiruvalluvar
-2. Ilango Adigal
-3. Panini
-4. Pali canon
-
-A. 2 1 4 3
-B. 1 2 4 3
-C. 2 1 3 4
-D. 2 4 1 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q20.** CIIL is located at
-
-A. Varanasi
-B. Mysuru
-C. New Delhi
-D. Shimla
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.**
-
-</details>
-
-**Q21.** How many of the following statements are correct?
-
-1. Eighth Schedule has 22 languages.
-2. Sahitya Akademi awards are given in exactly those 22.
-3. English is in the Eighth Schedule.
-
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Only statement 1. Akademi = 24. English not in Schedule 8.
-
-</details>
-
-**Q22.** Assertion (A): The 2024 Nepal–India Sanskrit Conclave was a three-day event linked to Niti Anusandhan Pratisthan.
-Reason (R): It was held in New Delhi.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Venue **Kathmandu**.
-
-</details>
-
-**Q23.** Kavindra Acharya Saraswati of Banaras was patronised by
-
-A. Akbar
-B. Jahangir
-C. Shah Jahan
-D. Humayun
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.**
-
-</details>
-
-**Q24.** Which of the following pairs is NOT correctly matched?
-
-A. Shukla Yajurveda — Vajasaneyi
-B. Krishna Yajurveda — Taittiriya
-C. Kathaka Samhita — Kathak classical dance
-D. Rigveda — hymns
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.**
-
-</details>
-
-**Q25.** Match List-I with List-II.
-
-**List-I (Eighth Schedule add-on)**
-A. Sindhi
-B. Nepali
-C. Santhali
-D. (Original 1950 set)
-
-**List-II**
-1. 1992
-2. 1967
-3. 14 languages
-4. 2003
-
-A. 2 1 4 3
-B. 2 4 1 3
-C. 1 2 4 3
-D. 2 1 3 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q26.** With reference to epics, which of the following statements is/are correct?
-
-1. Ramayana has seven kandas.
-2. Mahabharata is traditionally divided into 18 parvas.
-3. Harivamsha is an appendix connected with the Krishna cycle.
-
-A. 1 and 2 only
-B. 1 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.**
-
-</details>
-
-**Q27.** Which of the following is/are correctly matched?
-
-1. Ashvaghosha — Buddhacharita
-2. Banabhatta — Kadambari
-3. Jayadeva — Nalachampu
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q28.** Arrange.
-
-1. Tamil classical status
-2. Sanskrit classical status
-3. Five-language classical batch (Marathi etc.)
-
-A. 1, 2, 3
-B. 2, 1, 3
-C. 1, 3, 2
-D. 2, 3, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q29.** Assertion (A): Somadeva wrote Kathasaritsagara.
-Reason (R): It is independent of the Brihatkatha tradition.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — It retells Gunadhya’s Brihatkatha.
-
-</details>
-
-**Q30.** Which of the following pairs is NOT correctly matched?
-
-A. CIIL — Mysuru
-B. Bhojpuri — Eighth Schedule
-C. Maithili — Eighth Schedule
-D. Santhali — Eighth Schedule
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.**
-
-</details>
-
-**Q31.** Firoz Tughlaq’s Nagarkot Sanskrit haul was rendered into Persian by
-
-A. Amir Khusrau
-B. Azizuddin Khan
-C. Abdur Rahim
-D. Nakhshabi
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.**
-
-</details>
-
-**Q32.** How many of the following are Indo-Aryan?
-
-1. Hindi
-2. Tamil
-3. Marathi
-4. Odia
-
-A. Only two
-B. Only three
-C. All four
-D. Only one
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Tamil is Dravidian.
-
-</details>
-
-**Q33.** Match List-I with List-II.
-
-**List-I**
-A. Awadhi
-B. Braj
-C. Pali
-D. Tamil Sangam
-
-**List-II**
-1. Tripitaka
-2. Tulsidas
-3. Silappadikaram
-4. Surdas
-
-A. 2 4 1 3
-B. 2 1 4 3
-C. 4 2 1 3
-D. 2 4 3 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q34.** Which of the following statements is/are correct?
-
-1. Skanda Purana is often called the largest.
-2. Bhagavata Purana is a Krishna-bhakti text.
-3. There are traditionally 18 Mahapuranas.
-
-A. 1 and 2 only
 B. 2 and 3 only
-C. 3 only
+C. 1 and 2 only
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Ans: C.** Only 1 and 2 are correct.
+
+**Logic:** Shringara Shataka is Bhartrihari.
 
 </details>
 
-**Q35.** Assertion (A): Eighth Schedule now has 22 languages.
-Reason (R): Bodo, Dogri, Maithili and Santhali were added by the 92nd Amendment.
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+Assertion (A): Eighth Schedule lists 22 languages while Sahitya Akademi awards in 24 languages.
+
+Reason (R): Classical language status and Eighth Schedule are the same constitutional list with identical counts.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Both true. 22 is the sum of several amendments, not only the 92nd.
+**Ans: C.** (A) is true. (R) is false because classical language is a Culture Ministry recognition tag, not the Eighth Schedule.
+
+**A/R logic:** 22 vs 24 vs classical 11 are three different counts.
 
 </details>
 
-**Q36.** Which of the following pairs is NOT correctly matched?
+**Q5.** Arrange the following classical language recognition years in chronological order:
 
-A. Charaka — medicine
-B. Sushruta — surgery
-C. Aryabhata — Aryabhatiya
-D. Panini — Arthashastra
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.**
-
-</details>
-
-**Q37.** With reference to Kalidasa, which of the following statements is/are correct?
-
-1. *Meghaduta* is a khandakavya.
-2. *Malavikagnimitram* is a drama.
-3. *Shringara Shataka* is his niti poem.
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q38.** Match List-I with List-II.
-
-**List-I (Classical year)**
-A. 2004
-B. 2008
-C. 2014
-D. 2024
-
-**List-II**
-1. Odia
+1. Kannada and Telugu
 2. Tamil
-3. Kannada and Telugu
-4. Marathi, Pali, Prakrit, Assamese, Bengali
+3. Odia
+4. Malayalam
 
-A. 2 3 1 4
-B. 2 1 3 4
-C. 3 2 1 4
-D. 2 3 4 1
+Select the correct answer from the code given below:
+
+A. 2–4–1–3
+B. 2–1–4–3
+C. 1–2–4–3
+D. 2–1–3–4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Ans: B.** The order is Tamil 2004 → Sanskrit 2005 → Kannada/Telugu 2008 → Malayalam 2013 → Odia 2014.
+
+**Logic:** Sanskrit 2005 sits between Tamil and Kannada/Telugu in the full spine.
 
 </details>
 
-**Q39.** Which of the following is/are correct about UP literature?
+**Q6.** With reference to the October 2024 classical language expansion, which of the following were added?
 
-1. *Ramcharitmanas* is Awadhi.
-2. Premchand’s *Godan* is a major Hindi novel.
-3. Tulsidas hymns are included in Guru Granth Sahib.
+1. Marathi
+2. Pali
+3. Prakrit
+4. Assamese and Bengali
+
+Select the correct answer from the code given below:
 
 A. 1 and 2 only
-B. 1 and 3 only
-C. 1 only
-D. 1, 2 and 3
+B. 1, 2 and 3 only
+C. 1, 2, 3 and 4
+D. 2, 3 and 4 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Granth has Kabir/Namdev/Farid, not Tulsidas.
+**Ans: C.** All five languages in the stem set were added, taking the total to 11.
+
+**Logic:** Classical language is not the same as Eighth Schedule membership.
 
 </details>
 
-**Q40.** Which of the following pairs is NOT correctly matched?
+**Q7.** Which one of the following pairs is **NOT** correctly matched?
 
-A. Nakhshabi — Tutinama
-B. Kavindra Acharya — Shah Jahan
-C. CIIL — Varanasi
-D. Jayadeva — Gita Govinda
+A. Tulsidas — Awadhi Ramcharitmanas
+B. Surdas — Braj
+C. Bhojpuri — Eighth Schedule language of India
+D. Malik Muhammad Jayasi — Awadhi Padmavat
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Ans: C.** Bhojpuri is widely spoken in east UP but is not in the Eighth Schedule.
+
+**Logic:** Kabir is linked with Maghar / Sant Kabir Nagar.
 
 </details>
 
----
+**Q8.** Consider the following author–work pairs:
 
-**Q41.** Match List-I with List-II and select the correct answer:
+| Author | Work |
+|--------|------|
+| 1. Panini | Ashtadhyayi |
+| 2. Patanjali | Mahabhashya |
+| 3. Banabhatta | Harshacharita and Kadambari |
+| 4. Harsha | Karpuramanjari |
 
-| List-I | List-II |
-|--------|---------|
-| A. Ashtadhyayi | 1. Yaska |
-| B. Mahabhashya | 2. Katyayana |
-| C. Nirukta | 3. Patanjali |
-| D. Varttika | 4. Panini |
+Which of the pairs given above are correctly matched?
 
-*Row order is not the answer code.*
-
-A. 4 3 1 2
-B. 2 3 1 4
-C. 1 2 3 4
-D. 3 1 4 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Vedanga grammar author chain.
-
-**Ans: A.** Panini–Ashtadhyayi; Patanjali–Mahabhashya; Yaska–Nirukta; Katyayana–Varttika.
-
-**Trap:** Swapping Patanjali and Katyayana.
-
-</details>
-
----
-
-**Q42.** Which of the following classical works were written during the Gupta era?
-
-1. Amarakosha
-2. Kamasutra
-3. Meghaduta
-4. Mudrarakshasa
-
-A. 1 and 2 only
-B. 2 and 3 only
+A. 2, 3 and 4 only
+B. 1 and 4 only
 C. 1, 2 and 3 only
 D. 1, 2, 3 and 4
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Gupta peak of Sanskrit prose and poetry.
+**Ans: C.** Pairs 1–3 are correct.
 
-**Ans: D.** All four belong to the Gupta classical set (Mudrarakshasa’s *plot* is Mauryan; the *composition* is Gupta-age).
-
-**Trap:** Excluding Mudrarakshasa because its story is Mauryan.
+**Logic:** Karpuramanjari is Rajasekhara. Harsha wrote Ratnavali, Priyadarshika and Nagananda.
 
 </details>
 
----
+**Q9.** With reference to Buddhist and Jain language facts, which of the following statements is/are correct?
 
-**Q43.** Which of the following Sanskrit works take their theme from the Mahabharata?
+1. Buddhist canon language is Pali (Tripitaka).
+2. Jain Agamas are largely Prakrit / Ardhamagadhi.
+3. Svetambara Angas number 12.
 
-1. Naishadhiyacharita
-2. Kiratarjuniya
-3. Shishupalavadha
-4. Dashakumaracharita
-
-A. 2 and 3 only
-B. 2, 3 and 4 only
-C. 1 and 3 only
-D. 1, 2 and 3 only
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Mahabharata-theme mahakavya vs Dandin’s ten-princes adventure.
-
-**Ans: D.** Dashakumaracharita is **not** a Mahabharata theme.
-
-**Trap:** Including Dandin because it is a famous Sanskrit classic.
-
-</details>
-
----
-
-**Q44.** With reference to *Rajatarangini*, which of the following statements is/are correct?
-
-1. It was written by Kalhana in Sanskrit.
-2. It chronicles the kings of Kashmir.
-3. It has eight tarangas and was completed under Jayasimha / Jai Singh.
+Select the correct answer from the code given below:
 
 A. 1 and 2 only
 B. 2 and 3 only
@@ -3393,250 +2783,416 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Author, region, structure, contemporary king.
+**Ans: D.** All three statements are correct.
 
-**Ans: D.** Continuators are **Jonaraja** and **Srivara**.
-
-**Trap:** Assigning Rajatarangini to Chandragupta’s reign or Krishna Deva Raya.
+**Logic:** Milindapanha pairs Menander with Nagasena.
 
 </details>
 
----
+**Q10.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Q45.** Which one of the following pairs is **not** correctly matched?
+Assertion (A): Valmiki is the Sanskrit Adikavi of the Ramayana.
 
-A. Kalidasa — Raghuvamsha
-B. Bhasa — Svapnavasavadattam
-C. Subandhu — Kadambari
-D. Harsha — Ratnavali
+Reason (R): Tulsidas’s Ramcharitmanas is the Awadhi retelling fact especially important for Uttar Pradesh revision.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Kadambari authorship.
+**Ans: A.** Both (A) and (R) are true, but Tulsidas’s Awadhi work does not explain Valmiki’s Adikavi status.
 
-**Ans: C.** *Kadambari* is **Banabhatta**, not Subandhu.
-
-**Trap:** Parking every Harsha-court prose work on Subandhu.
+**A/R logic:** Sanskrit original vs Awadhi retelling is a confused pair, not cause and effect.
 
 </details>
 
----
+**Q11.** With reference to Tamil Sangam and related texts, which of the following pairs is/are correctly matched?
 
-**Q46.** Which of the following works were authored by Harsha?
+1. Tolkappiyam — grammar
+2. Tirukkural — Tiruvalluvar
+3. Silappadikaram — Ilango Adigal
+4. Manimekalai — Sattanar
 
-1. Priyadarshika
-2. Nagananda
-3. Harshacharita
-4. Ratnavali
+Select the correct answer from the code given below:
 
-A. 1, 2, 3 and 4
-B. 1, 2 and 4 only
-C. 1, 2 and 3 only
-D. 2 and 3 only
+A. 1 and 2 only
+B. 1, 2 and 3 only
+C. 2, 3 and 4 only
+D. 1, 2, 3 and 4
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Three Harsha plays vs Banabhatta biography.
+**Ans: D.** All four pairs are correctly matched.
 
-**Ans: B.** *Harshacharita* = **Banabhatta**.
-
-**Trap:** Treating Harshacharita as Harsha’s autobiography-play.
+**Logic:** Kamban’s Ramavataram is the Tamil Ramayana. Tirumurai is the Saiva hymn corpus.
 
 </details>
 
----
+**Q12.** Arrange the following court–poet associations in a broad chronological teaching order of the patrons named:
 
-**Q47.** Consider the following pairs:
+1. Alauddin Khalji — Amir Khusrau
+2. Chandragupta II — Kalidasa
+3. Harsha — Banabhatta
+4. Samudragupta — Harisena
 
-| Literary work | Author |
-|---------------|--------|
-| 1. Devichandragupta | Bilhana |
-| 2. Hammira Mahakavya | Nayachandra Suri |
-| 3. Milinda-panha | Nagarjuna |
-| 4. Nitivakyamrita | Somadeva Suri |
+Select the correct answer from the code given below:
 
-How many of the above pairs are correctly matched?
-
-A. Only one
-B. Only two
-C. Only three
-D. All four
+A. 2–4–3–1
+B. 4–2–3–1
+C. 4–3–2–1
+D. 4–2–1–3
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Classic wrong-author traps on drama and Buddhist dialogue.
+**Ans: B.** Samudragupta–Harisena, Chandragupta II–Kalidasa, Harsha–Banabhatta, then Khalji–Khusrau.
 
-**Ans: B.** Correct are **2** and **4**. *Devichandragupta* = **Vishakhadatta**; *Milindapanha* monk tradition = **Nagasena**.
-
-**Trap:** Equating every Buddhist philosophical name with Nagarjuna.
+**Logic:** Jayadeva of Gita Govinda belongs to Lakshmana Sena’s Bengal court.
 
 </details>
 
----
+**Q13.** Which of the following science / technical author matches is/are correct?
 
-**Q48.** The *Panchasiddhantika* of Varahamihira is based upon:
+1. Charaka — medicine
+2. Sushruta — surgery
+3. Aryabhata — Aryabhatiya
+4. Varahamihira — Brihatsamhita
 
-A. Persian astronomy
-B. Greek astronomy
-C. Iranian astronomy
-D. Mesopotamian astronomy
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2, 3 and 4 only
+C. 1, 3 and 4 only
+D. 1, 2, 3 and 4
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Source tradition of Varaha’s five siddhantas digest.
+**Ans: D.** All four matches are correct.
 
-**Ans: B.** Greek astronomy. *Brihatsamhita* is his encyclopedic work; *Amarakosha* is **not** his.
-
-**Trap:** Choosing Persian because of later Indo-Persian science memory.
+**Logic:** Amarakosha is Amarasimha, not Varahamihira.
 
 </details>
 
----
+**Q14.** With reference to Kalhana’s Rajatarangini, which of the following statements is/are correct?
 
-**Q49.** With reference to Mitakshara and Dayabhaga, which statement is correct?
+1. It is a Sanskrit chronicle of Kashmir kings.
+2. It is completed under Jayasimha / Jai Singh (1128–1149) in eight tarangas.
+3. Jonaraja and Srivara are continuators.
 
-A. Mitakshara was civil law for upper castes and Dayabhaga for lower castes
-B. In Mitakshara, sons can claim a right during the father’s lifetime; in Dayabhaga, generally after the father’s death
-C. Mitakshara deals only with male property and Dayabhaga with both male and female
-D. Both were written by Vijnaneshwara
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Inheritance timing is the tested difference.
+**Ans: D.** All three statements are correct.
 
-**Ans: B.** Mitakshara = **Vijnaneshwara**; Dayabhaga = **Jimutavahana**. Statements A and C are wrong traps.
-
-**Trap:** Turning the two schools into a caste hierarchy.
+**Logic:** Do not confuse Kalhana with Banabhatta or Harisena.
 
 </details>
 
----
+**Q15.** Which one of the following pairs is correctly matched?
 
-**Q50.** Who among the following is especially known for contribution in algebra?
-
-A. Aryabhata
-B. Brahmagupta
-C. Bhaskara
-D. Lalla
+A. Dayabhaga — Vijnaneshwara on Manu only
+B. Mitakshara — Vijnaneshwara on Yajnavalkya
+C. Manusmriti — primarily a drama of Kalidasa
+D. Mitakshara — Jimutavahana
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Bijaganita part of Siddhantashiromani.
+**Ans: B.** Mitakshara is Vijnaneshwara. Dayabhaga is Jimutavahana.
 
-**Ans: C.** **Bhaskara II** — *Lilavati* / *Bijaganita*.
-
-**Trap:** Choosing Aryabhata for every maths stem.
+**Logic:** Manusmriti is mainly the social / law system text.
 
 </details>
 
----
+**Q16.** Consider the following wrong-pair traps and their corrections:
 
-**Q51.** Which one of the following pairs is **not** correctly matched?
+| Wrong | Correct |
+|-------|---------|
+| 1. Milindapanha monk = Nagarjuna | Nagasena |
+| 2. Kadambari = Subandhu | Banabhatta |
+| 3. Buddhacharita = Vasubandhu | Ashvaghosha |
+| 4. Devichandragupta = Bilhana | Vishakhadatta |
 
-A. Karpuramanjari — Harsha
-B. Malavikagnimitram — Kalidasa
-C. Mudrarakshasa — Vishakhadatta
-D. Saundarananda — Ashvaghosha
+Which of the corrections above are themselves correct?
+
+A. 1 and 2 only
+B. 2, 3 and 4 only
+C. 1, 3 and 4 only
+D. 1, 2, 3 and 4
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Karpuramanjari authorship.
+**Ans: D.** All four corrections are correct.
 
-**Ans: A.** *Karpuramanjari* = **Rajasekhara**, not Harsha.
-
-**Trap:** Parking every court play on Harsha because he wrote three dramas.
+**Logic:** These author–work swaps are classic distractors.
 
 </details>
 
----
+**Q17.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Q52.** With reference to scholars of ancient India, consider the following statements:
+Assertion (A): Alvars number 12 and Nayanars number 63.
 
-1. Panini is associated with Pushyamitra Shunga.
-2. Amarasimha is associated with Harshavardhana.
-3. Kalidasa is associated with Chandragupta II.
+Reason (R): Tirumurai is the Saiva hymn corpus treated as a Fifth Veda of Tamil Shaivism.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both (A) and (R) are true, but Tirumurai’s Fifth Veda status does not explain the Alvar/Nayanar counts.
+
+**A/R logic:** Counts and Tirumurai are neighbouring Tamil bhakti facts.
+
+</details>
+
+**Q18.** With reference to Mahabharata-theme mahakavyas, which of the following is/are correctly matched?
+
+1. Sriharsha — Naishadhiyacharita
+2. Bharavi — Kiratarjuniya
+3. Magha — Shishupalavadha
+4. Dandin — Dashakumaracharita as a Mahabharata theme poem
+
+Select the correct answer from the code given below:
+
+A. 1, 2 and 3 only
+B. 1 and 4 only
+C. 2, 3 and 4 only
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Pairs 1–3 are correct.
+
+**Logic:** Dashakumaracharita is not a Mahabharata-theme mahakavya.
+
+</details>
+
+**Q19.** Which of the following statements about Panchatantra is/are correct?
+
+1. It is attributed to Vishnu Sharma.
+2. Abul Fazl’s Mughal Persian rendering is Ayar-e-Danish.
+3. It is identical with Amarakosha.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Amarakosha is Amarasimha’s lexicon.
+
+</details>
+
+**Q20.** With reference to Greek and classical foreign notices, which statement is correct?
+
+A. Herodotus is the Father of History; Natural History is Pliny the Elder
+B. Natural History is Ptolemy; Almagest is Pliny
+C. Herodotus wrote Amarakosha under Chandragupta II
+D. Pliny compiled the Adi Granth in Gurmukhi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Herodotus is Father of History. Natural History is Pliny, not Ptolemy.
+
+**Logic:** Ptolemy is geography / Almagest.
+
+</details>
+
+**Q21.** Arrange the following grammar Vedanga names with their works in the teaching set:
+
+1. Yaska — Nirukta
+2. Panini — Ashtadhyayi
+3. Patanjali — Mahabhashya
+4. Katyayana — Varttika
+
+Which of the statements given above are correctly matched?
+
+A. 1 and 2 only
+B. 2, 3 and 4 only
+C. 1, 3 and 4 only
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All four grammar matches are correct.
+
+**Logic:** Panini is not a Pushyamitra court poet. Patanjali is Shunga-linked.
+
+</details>
+
+**Q22.** With reference to UP Hindi–Awadhi–Braj literature, which of the following statements is/are correct?
+
+1. Premchand wrote Godan.
+2. Bhartendu Harishchandra belongs to Banaras.
+3. Kavindra Acharya of Banaras was patronised by Shah Jahan.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three statements are correct.
+
+**Logic:** These are UP court and modern literature tags.
+
+</details>
+
+**Q23.** Which one of the following correctly distinguishes kavya and nataka?
+
+A. Kavya is poem such as Meghaduta; nataka is drama such as Shakuntala
+B. Kavya is always drama; nataka is always grammar
+C. Both are Eighth Schedule language names
+D. Both are identical with Shruti Samhita only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Kavya vs nataka is poem versus drama.
+
+**Logic:** Do not treat every Sanskrit title as a play.
+
+</details>
+
+**Q24.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Zero as a numeral is credited to an anonymous Indian tradition in standard teaching notes.
+
+Reason (R): Aryabhata’s Aryabhatiya teaches a spherical rotating earth and is often tagged for trigonometry and place-value ideas.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both (A) and (R) are true, but Aryabhata’s astronomical tags do not themselves prove the anonymous zero credit line.
+
+**A/R logic:** Neighbouring science facts. Arabs used zero by 873 CE in the same teaching neighbourhood.
+
+</details>
+
+**Q25.** With reference to Bhaskara II’s Siddhantashiromani, which of the following parts is/are correctly listed?
+
+1. Lilavati
+2. Bijaganita
+3. Ganitadhyaya
+4. Goladhyaya
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2, 3 and 4 only
+C. 1, 3 and 4 only
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All four parts are correctly listed.
+
+**Logic:** Algebra fame is especially linked with this set.
+
+</details>
+
+**Q26.** Which of the following pairs is **NOT** correctly matched?
+
+A. Mattavilasa Prahasana — Mahendravarman I
+B. Gaudavaho — Vakpati
+C. Katantra — Sarvavarman
+D. Nitisara — Banabhatta
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Nitisara is Kamandaka, not Banabhatta.
+
+**Logic:** Banabhatta wrote Harshacharita and Kadambari.
+
+</details>
+
+**Q27.** With reference to Charaka Samhita, which statement is correct?
+
+A. It is Ayurveda medicine teaching often tagged with 120 chapters and eight sections
+B. It is a Tamil Sangam grammar identical with Tolkappiyam
+C. It is Kalhana’s eighth taranga
+D. It is the Persian Ayar-e-Danish of Abul Fazl
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Charaka Samhita is the medicine text with the 120/eight teaching tag.
+
+**Logic:** Sushruta remains the surgery contrast.
+
+</details>
+
+**Q28.** Consider the following statements about classical language status after 3 October 2024:
+
+1. The total number of classical languages became 11.
+2. Pali and Prakrit classical tags also touch Buddhist and Jain literary belts.
+3. Classical language status automatically inserts a language into the Eighth Schedule.
 
 Which of the statements given above is/are correct?
 
 A. 1 and 2 only
 B. 2 and 3 only
-C. 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Court associations; only Kalidasa–CG II survives.
+**Ans: A.** Only 1 and 2 are correct.
 
-**Ans: C.** Patanjali (not Panini) is Shunga-linked; Amarasimha is a Gupta Navaratna, not Harsha’s.
-
-**Trap:** Sliding every grammarian into the Shunga court.
+**Logic:** Eighth Schedule remains a separate constitutional list of 22.
 
 </details>
 
----
+**Q29.** With reference to Somadeva, Jayadeva and Kshemendra, which of the following is/are correctly matched?
 
-**Q53.** The title ‘Father of History’ rightly belongs to:
+1. Somadeva — Kathasaritsagara
+2. Jayadeva — Gita Govinda
+3. Kshemendra — Brihatkathamanjari
 
-A. Herodotus
-B. Euripides
-C. Thucydides
-D. Socrates
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Greek historiography label + Indo-Persian content of Historica.
-
-**Ans: A.** Herodotus; *Natural History* = **Pliny**, not Ptolemy.
-
-**Trap:** Choosing Thucydides because of scientific history reputation.
-
-</details>
-
----
-
-**Q54.** Match List-I with List-II:
-
-| List-I (Court poet) | List-II (King) |
-|---------------------|----------------|
-| A. Amir Khusrau | 1. Chandragupta II |
-| B. Kalidasa | 2. Samudragupta |
-| C. Harisena | 3. Harshavardhana |
-| D. Banabhatta | 4. Alauddin Khalji |
-
-*Row order is not the answer code.*
-
-A. 1 2 3 4
-B. 4 1 2 3
-C. 4 3 2 1
-D. 2 4 1 3
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard court-poet match.
-
-**Ans: B.** Khusrau–Alauddin; Kalidasa–CG II; Harisena–Samudragupta; Banabhatta–Harsha.
-
-**Trap:** Swapping Kalidasa with Harisena under the two Gupta emperors.
-
-</details>
-
----
-
-**Q55.** Which of the following is/are correctly matched?
-
-1. Mattavilasa Prahasana — Mahendravarman I
-2. Gita Govinda — Lakshmana Sena’s court poet Jayadeva
-3. Zero as a numeral — anonymous Indian origin later carried by Arabs
+Select the correct answer from the code given below:
 
 A. 1 and 2 only
 B. 2 and 3 only
@@ -3646,15 +3202,27 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Pallava farce, Sena court lyric, and zero transmission.
+**Ans: D.** All three author–work matches are correct.
 
-**Ans: D.** Arabs used zero by about **873 CE**.
-
-**Trap:** Naming Aryabhata alone as the inventor of zero in every stem.
+**Logic:** Trivikram Bhatta–Nalachampu is another high-yield champu tag.
 
 </details>
 
----
+**Q30.** Which one of the following correctly states a feature of Varahamihira’s works?
+
+A. Panchasiddhantika draws on Greek astronomy; Brihatsamhita is encyclopedic; Brihat Jataka is also his
+B. Amarakosha and Meghaduta are both Varahamihira’s dramas
+C. He wrote only the Adi Granth in Gurmukhi
+D. He founded Sahitya Akademi’s 24-language award list
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Panchasiddhantika, Brihatsamhita and Brihat Jataka are Varahamihira’s set.
+
+**Logic:** Amarakosha is Amarasimha. Meghaduta is Kalidasa.
+
+</details>
 
 ## Common Traps — Don't Fall For These
 

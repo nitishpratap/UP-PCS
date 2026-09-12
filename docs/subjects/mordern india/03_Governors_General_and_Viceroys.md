@@ -2790,667 +2790,21 @@ D. Abhinav Bharat Society
 
 ## Practice Zone — UPPCS Format Drill
 
-> **40 questions.**
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-**Q1.** Match List-I with List-II.
 
-**List-I** A. Dalhousie B. Curzon C. Bentinck D. Cornwallis
-**List-II** 1. Permanent Settlement 2. Sati 3. Partition of Bengal 4. Doctrine of Lapse
+**Q1.** With reference to the Regulating Act of 1773, which of the following statements is/are correct?
 
-A. 4 3 1 2
+1. It created the office of Governor-General of Bengal.
+2. Warren Hastings was the first Governor-General of Bengal.
+3. It created the office of Viceroy of India.
 
-B. 3 4 2 1
+Select the correct answer from the code given below:
 
-C. 3 4 1 2
 
-D. 4 3 2 1
+A. 1 and 3 only
 
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Same spine as 2025 Q40.
-
-</details>
-
----
-
-**Q2.** Who among the following ridiculed Congress as a "microscopic minority"?
-
-A. Lord Dufferin
-
-B. Lord Curzon
-
-C. Lord Minto
-
-D. Lord Lansdowne
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 2018 Q76 fact.
-
-</details>
-
----
-
-**Q3.** With reference to the office of Governor-General, which of the following statements is/are correct?
-
-1. Warren Hastings was the first Viceroy of India.
-2. Lord Canning was the first Viceroy after the Government of India Act, 1858.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Hastings = first **GG**.
-
-</details>
-
----
-
-**Q4.** Which of the following pairs are NOT correctly matched?
-
-1. Ilbert Bill — Lord Ripon
-2. Vernacular Press Act — Lord Ripon
-3. Local Self-Government Resolution 1882 — Lord Ripon
-
-A. Only 2
-
-B. Only 1 and 2
-
-C. Only 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Press Act = **Lytton 1878**; Ripon repealed it.
-
-</details>
-
----
-
-**Q5.** Assertion (A): Lord Cornwallis is associated with the Permanent Settlement of Bengal.
-
-Reason (R): He abolished the practice of Sati in 1829.
-
-Options:
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — R is Bentinck.
-
-</details>
-
----
-
-**Q6.** Arrange the following in chronological order:
-
-1. Ilbert Bill Controversy
-2. Acquisition of Awadh
-3. Second Anglo-Afghan War
-4. Indigo Revolt
-
-A. 2, 4, 3, 1
-
-B. 4, 2, 1, 3
-
-C. 2, 4, 1, 3
-
-D. 2, 3, 4, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 1856 → 1859 → 1878 → 1883 (2025 Q127 spine).
-
-</details>
-
----
-
-**Q7.** With reference to Macaulay, which of the following statements is/are correct?
-
-1. The Minute on Education (1835) favoured English as the medium of higher education.
-2. Wood's Despatch (1854) is another name for Macaulay's Minute.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Wood = 1854, Dalhousie era.
-
-</details>
-
----
-
-**Q8.** Match List-I with List-II.
-
-**List-I** A. Wellesley B. Dalhousie C. Lytton D. Ripon
-**List-II** 1. Ilbert Bill 2. Subsidiary Alliance 3. Vernacular Press Act 4. Doctrine of Lapse
-
-A. 2 4 3 1
-
-B. 2 4 1 3
-
-C. 4 2 3 1
-
-D. 2 3 4 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q9.** Consider the following statements:
-
-1. The Chamber of Princes was created by the Indian Councils Act, 1909.
-2. The Chamber of Princes was created by the Government of India Act, 1919.
-
-Which of the statements given above is/are correct?
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Chamber of Princes = **1919**, not 1909.
-
-</details>
-
----
-
-**Q10.** With reference to Lord Hardinge, which of the following statements is/are correct?
-
-1. The capital of India was shifted from Calcutta to Delhi in 1911.
-2. The Partition of Bengal was announced during his tenure in 1905.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Partition **1905 = Curzon**; Hardinge **annulled** it in 1911.
-
-</details>
-
----
-
-**Q11.** Assertion (A): Lord Wavell is associated with the August Offer of 1940.
-
-Reason (R): The Wavell Plan and Simla Conference belong to 1945.
-
-Options:
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — August Offer = **Linlithgow**.
-
-</details>
-
----
-
-**Q12.** Arrange: 1. Cripps Mission 2. Cabinet Mission 3. Shimla Conference 4. Wavell Plan
-
-A. 1, 4, 3, 2
-
-B. 4, 1, 2, 3
-
-C. 1, 4, 2, 3
-
-D. 4, 1, 3, 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 2025 Q41 spine.
-
-</details>
-
----
-
-**Q13.** With reference to Dual Government, which of the following statements is/are correct?
-
-1. It was ended by Warren Hastings in 1772.
-2. It was created by Lord Cornwallis in 1793.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Clive created dual govt (Topic 2); Cornwallis = Permanent Settlement.
-
-</details>
-
----
-
-**Q14.** Which of the following pairs are NOT correctly matched?
-
-1. First GG of Bengal — Warren Hastings
-2. First GG of India — Lord Canning
-3. First Viceroy — Lord Canning
-
-A. Only 2
-
-B. Only 1 and 2
-
-C. Only 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — First GG **of India** = **Bentinck** (1833).
-
-</details>
-
----
-
-**Q15.** Consider the following statements about Curzon:
-
-1. He partitioned Bengal in 1905, creating East Bengal and Assam.
-2. He called the Congress a microscopic minority.
-
-Which of the statements given above is/are correct?
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Stmt 2 = Dufferin.
-
-</details>
-
----
-
-**Q16.** With reference to the Indian Councils Act, 1861, which of the following statements is/are correct?
-
-1. It introduced the portfolio or departmental system.
-2. It was passed during Lord Canning's viceroyalty.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q17.** Arrange in chronological order:
-
-1. Recall of Wellesley
-2. Death of Nana Fadnavis
-3. Anglo-Nepalese War
-4. Vellore Mutiny
-
-A. 2, 1, 4, 3
-
-B. 2, 1, 3, 4
-
-C. 1, 2, 4, 3
-
-D. 2, 4, 1, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 1800 → 1805 → 1806 → 1814–16.
-
-</details>
-
----
-
-**Q18.** Assertion (A): Lord Ripon is called the Father of Local Self-Government in India.
-
-Reason (R): He passed the Vernacular Press Act in 1878.
-
-Options:
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — R describes Lytton; Ripon repealed that Act.
-
-</details>
-
----
-
-**Q19.** Who resigned from the Viceroy's Executive Council after Jallianwala Bagh?
-
-A. Rabindranath Tagore
-
-B. Chettur Sankaran Nair
-
-C. Motilal Nehru
-
-D. Madan Mohan Malaviya
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Tagore returned knighthood (trap).
-
-</details>
-
----
-
-**Q20.** With reference to Lord Hastings (1813–23), which of the following statements is/are correct?
-
-1. He is the same person as Warren Hastings, the first Governor-General.
-2. The Anglo-Nepal War and Treaty of Sugauli fall in his tenure.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q21.** Match List-I with List-II.
-
-**List-I** A. Hardinge B. Minto II C. Linlithgow D. Wavell
-**List-II** 1. August Offer 2. Delhi capital 1911 3. Wavell Plan 4. Separate electorates 1909
-
-A. 2 4 1 3
-
-B. 2 4 3 1
-
-C. 4 2 1 3
-
-D. 2 1 4 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q22.** Consider the following statements:
-
-1. Mountbatten was the last Viceroy of India.
-2. Mountbatten was the last Governor-General of India.
-
-Which of the statements given above is/are correct?
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Last Viceroy = Mountbatten; last GG = **Rajagopalachari**.
-
-</details>
-
----
-
-**Q23.** With reference to Bentinck, which of the following statements is/are correct?
-
-1. Sati was abolished in 1829.
-2. William Sleeman led the campaign against Thuggee.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q24.** Which of the following pairs are NOT correctly matched?
-
-(Commission/Despatch) — (Year)
-
-1. Wood's Despatch — 1854
-2. Hunter Commission — 1882
-3. Sadler Commission — 1854
-
-A. Only 3
-
-B. Only 1 and 3
-
-C. Only 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Sadler = **1917**. 1854 is Wood.
-
-</details>
-
----
-
-**Q25.** Arrange: 1. Cripps Mission 2. Resignation of Congress ministries 3. August Offer 4. Ramgarh Session
-
-A. 2, 4, 3, 1
-
-B. 4, 2, 3, 1
-
-C. 2, 3, 4, 1
-
-D. 2, 4, 1, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 1939 → Mar 1940 → Aug 1940 → 1942.
-
-</details>
-
----
-
-**Q26.** With reference to Dalhousie, which of the following statements is/are correct?
-
-1. Awadh was annexed in 1856 under the Doctrine of Lapse.
-2. The first railway in India ran during his tenure (1853).
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Awadh = misgovernance.
-
-</details>
-
----
-
-**Q27.** Assertion (A): The Asiatic Society of Bengal was founded by Sir William Jones.
-
-Reason (R): Warren Hastings was the first president of the Asiatic Society.
-
-Options:
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Hastings declined; Jones was president.
-
-</details>
-
----
-
-**Q28.** The bomb thrown at Lord Hardinge in Delhi (1912) is associated with which organisation?
-
-A. Ghadar Party
-
-B. Anushilan Samiti
-
-C. Hindustan Republican Association
-
-D. Indian Independence League
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 2023 Q42.
-
-</details>
-
----
-
-**Q29.** With reference to Wellesley, which of the following statements is/are correct?
-
-1. The first Subsidiary Alliance was with Hyderabad in 1798.
-2. He was recalled in 1805.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q30.** Consider the following statements:
-
-1. Queen's Proclamation (1858) was read at Allahabad.
-2. Indian Universities of Calcutta, Bombay and Madras were founded in 1857 under Canning.
-
-Which of the statements given above is/are correct?
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q31.** Which of the following pairs is/are correctly matched?
-
-1. Mayo — assassinated in the Andamans
-2. Irwin — Gandhi–Irwin Pact, 1931
-3. Ellenborough — Partition of Bengal
-
-A. 1 and 2 only
-
-B. 1 and 3 only
+B. 1 and 2 only
 
 C. 2 and 3 only
 
@@ -3459,204 +2813,803 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Ellenborough = Sindh era, not Partition.
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Viceroy begins with GOI Act 1858 under Canning — not 1773.
 
 </details>
 
 ---
 
-**Q32.** With reference to the Age of Consent Act, 1891, which of the following statements is/are correct?
+**Q2.** With reference to the Charter Acts, which of the following statements is/are correct?
 
-1. Behramji Malabari advocated the legislation.
-2. Bal Gangadhar Tilak led extremist support for the Act.
+1. Charter Act 1813 ended the Company’s trade monopoly in India (kept tea/China) and set aside ₹1 lakh a year for education.
+2. Charter Act 1833 created the Governor-General of India and ended all Company trade.
+3. Charter Act 1833 was the Act that first created the Viceroy.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
 
-C. Both 1 and 2
+A. 1 and 3 only
 
-D. Neither 1 nor 2
+B. 2 and 3 only
+
+C. 1, 2 and 3
+
+D. 1 and 2 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Tilak opposed. Lansdowne era.
+**Ans: D.** Only 1 and 2.
+
+**Logic:** 1833 = GG of India (Bentinck); Viceroy = 1858.
 
 </details>
 
 ---
 
-**Q33.** Arrange education landmarks: 1. Hunter Commission 2. Wood's Despatch 3. Macaulay's Minute 4. Sargeant Plan
+**Q3.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. 3, 2, 1, 4
 
-B. 2, 3, 1, 4
+**Assertion (A):** Under Pitt’s India Act, 1784, the Board of Control handled political affairs.
 
-C. 3, 1, 2, 4
+**Reason (R):** The Court of Directors continued to handle commercial affairs.
 
-D. 3, 2, 4, 1
+Select the correct answer from the code given below:
 
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 1835 → 1854 → 1882 → 1944.
-
-</details>
-
----
-
-**Q34.** Which of the following statements is/are correct?
-
-1. Morley–Minto Reforms introduced separate electorates for Muslims.
-2. Dyarchy in the provinces was introduced by the Act of 1909.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Dyarchy = **1919**.
-
-</details>
-
----
-
-**Q35.** Assertion (A): Tagore returned his knighthood after Jallianwala Bagh.
-
-Reason (R): Sankaran Nair resigned from the Viceroy's Executive Council on the same issue.
-
-Options:
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
 B. (A) is false, but (R) is true
+
 C. (A) is true, but (R) is false
+
 D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Both true, independent protests; R does not cause A.
+**Ans: D.** Both true and R completes the dual-control design that explains A.
+
+**A/R logic:** Pitt’s Act = Board (political) + Directors (commercial).
 
 </details>
 
 ---
 
-**Q36.** With reference to Lytton, which of the following statements is/are correct?
+**Q4.** Match List-I with List-II and select the correct answer from the code given below:
 
-1. Delhi Durbar of 1877 proclaimed Victoria as Empress.
-2. Second Anglo-Afghan War began in his tenure.
+| List-I (Person) | List-II (Tag) |
+|-----------------|---------------|
+| A. Cornwallis | 1. Subsidiary Alliance |
+| B. Wellesley | 2. Permanent Settlement 1793 |
+| C. Bentinck | 3. Doctrine of Lapse |
+| D. Dalhousie | 4. Abolition of Sati 1829 |
 
-A. Only 1
+*Row order is not the answer code.*
 
-B. Only 2
 
-C. Both 1 and 2
+A. A-2, B-1, C-4, D-3
 
-D. Neither 1 nor 2
+B. A-1, B-2, C-4, D-3
+
+C. A-2, B-1, C-3, D-4
+
+D. A-2, B-4, C-1, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: A.** Cornwallis–PS; Wellesley–Subsidiary; Bentinck–Sati; Dalhousie–Lapse.
+
+**Logic:** Four standing GG↔reform tags.
 
 </details>
 
 ---
 
-**Q37.** Who among the following was the first Governor-General of India under the Charter Act of 1833?
+**Q5.** Which of the following pairs is NOT correctly matched?
 
-A. Warren Hastings
 
-B. Lord Cornwallis
+A. Indian Councils Act 1861 — portfolio system and Indian nomination
 
-C. Lord William Bentinck
+B. Indian Councils Act 1909 — provincial dyarchy introduced
 
-D. Lord Dalhousie
+C. Indian Councils Act 1892 — budget discussion and indirect election
+
+D. GOI Act 1919 — provincial dyarchy and Chamber of Princes
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Title trap vs first GG of Bengal.
+**Ans: B.** 1909 = Muslim separate electorates; dyarchy is 1919.
+
+**Logic:** 1909 ↔ 1919 is a classic Act-provision swap.
 
 </details>
 
 ---
 
-**Q38.** Consider the following statements about Permanent Settlement:
+**Q6.** Arrange the following in chronological order:
 
-1. It was introduced by Cornwallis in 1793.
-2. It applied to Bengal, Bihar and Orissa.
-3. Zamindars were made proprietors of land.
+1. Government of India Act, 1919
+2. Indian Councils Act, 1909
+3. Government of India Act, 1858
+4. Indian Councils Act, 1861
 
-How many of the above statements are correct?
 
-A. Only one
+A. 3, 4, 2, 1
 
-B. Only two
+B. 3, 2, 4, 1
 
-C. All three
+C. 4, 3, 2, 1
 
-D. None
+D. 3, 4, 1, 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: A.** 1858 → 1861 → 1909 → 1919.
+
+**Logic:** Company end → portfolio → separate electorates → dyarchy.
 
 </details>
 
 ---
 
-**Q39.** Which of the following pairs are NOT correctly matched?
+**Q7.** With reference to Lytton and Ripon, which of the following statements is/are correct?
 
-1. Canning — first Viceroy
-2. Mountbatten — last Viceroy
-3. Warren Hastings — first Viceroy
+1. Lytton passed the Vernacular Press Act, 1878.
+2. Ripon repealed that Press Act and pushed local self-government (1882).
+3. Ripon also authored the Vernacular Press Act as a wartime measure.
 
-A. Only 3
+Select the correct answer from the code given below:
 
-B. Only 1 and 3
 
-C. Only 2 and 3
+A. 1 and 3 only
 
-D. Only 1
+B. 2 and 3 only
+
+C. 1, 2 and 3
+
+D. 1 and 2 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Lytton gagged; Ripon repealed — standing twin.
 
 </details>
 
 ---
 
-**Q40.** With reference to Linlithgow, which of the following statements is/are correct?
+**Q8.** With reference to Curzon and Hardinge II, which of the following statements is/are correct?
 
-1. The August Offer was made in 1940.
-2. Congress ministries resigned in 1939, before the August Offer.
+1. Curzon partitioned Bengal on 16 October 1905.
+2. Hardinge II moved the capital to Delhi in 1911 and annulled the Partition.
+3. Dufferin, not Curzon, partitioned Bengal.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
 
-C. Both 1 and 2
+A. 1 and 3 only
 
-D. Neither 1 nor 2
+B. 1 and 2 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Dufferin = INC 1885 / “microscopic minority,” not Partition.
 
 </details>
 
 ---
+
+**Q9.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+
+**Assertion (A):** Warren Hastings was the first Viceroy of India.
+
+**Reason (R):** Lord Canning became the first Viceroy after the Government of India Act, 1858.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** (A) is false; (R) is true.
+
+**A/R logic:** Hastings = first GG of Bengal; Canning = first Viceroy.
+
+</details>
+
+---
+
+**Q10.** With reference to the Government of India Acts of 1919 and 1935, which of the following statements is/are correct?
+
+1. The 1919 Act introduced provincial dyarchy.
+2. The 1935 Act gave provincial autonomy that actually worked.
+3. The 1935 federation and centre dyarchy fully came into force as planned.
+
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1, 2 and 3
+
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Federation / centre dyarchy stayed largely on paper.
+
+</details>
+
+---
+
+**Q11.** Match List-I with List-II and select the correct answer from the code given below:
+
+| List-I (GG/Viceroy) | List-II (War / event) |
+|---------------------|------------------------|
+| A. Cornwallis | 1. First Anglo-Afghan War |
+| B. Amherst | 2. Third Anglo-Mysore War |
+| C. Auckland | 3. First Anglo-Burmese War |
+| D. Hardinge I | 4. First Anglo-Sikh War |
+
+*Row order is not the answer code.*
+
+
+A. A-2, B-3, C-1, D-4
+
+B. A-3, B-2, C-1, D-4
+
+C. A-2, B-1, C-3, D-4
+
+D. A-2, B-3, C-4, D-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Cornwallis–Mysore III; Amherst–Burma I; Auckland–Afghan I; Hardinge I–Sikh I.
+
+**Logic:** War-tag ladder from Must-Score.
+
+</details>
+
+---
+
+**Q12.** Which of the following pairs is NOT correctly matched?
+
+
+A. Mayo — first census attempt 1872; assassinated at the Andamans
+
+B. Lawrence — Proud Reserve on Afghanistan
+
+C. Ripon — first regular decennial census 1881
+
+D. Metcalfe — Liberator of the Press, 1835
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Lawrence = Masterly Inactivity; Lytton = Proud Reserve.
+
+**Logic:** Afghan-policy confused pair.
+
+</details>
+
+---
+
+**Q13.** With reference to Macaulay and Wood, which of the following statements is/are correct?
+
+1. Macaulay’s Minute (1835) set English for higher education.
+2. Wood’s Despatch (1854) belongs to Dalhousie’s years.
+3. Wood’s Despatch is the same document as Macaulay’s Minute under another name.
+
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1, 2 and 3
+
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Minute = English policy; Wood = full education ladder — different decades.
+
+</details>
+
+---
+
+**Q14.** Arrange the following office shapes in chronological order of creation:
+
+1. Governor-General of India
+2. Viceroy
+3. Governor-General of Bengal
+4. End of Company rule by statute
+
+
+A. 3, 1, 4, 2
+
+B. 3, 1, 2, 4
+
+C. 1, 3, 4, 2
+
+D. 3, 4, 1, 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** GG Bengal 1773 → GG India 1833 → 1858 statute → Viceroy title with Crown.
+
+**Logic:** Same man becomes Viceroy in 1858; office ladder has four shapes.
+
+</details>
+
+---
+
+**Q15.** With reference to late Viceroys, which of the following statements is/are correct?
+
+1. Linlithgow is tagged to the August Offer (1940) and Quit India (1942).
+2. Wavell offered the Wavell Plan / Simla Conference (1945).
+3. Mountbatten announced the 3 June Plan (1947) and was the first Viceroy.
+
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
+
+B. 1 and 2 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Mountbatten is the last Viceroy; Canning is first.
+
+</details>
+
+---
+
+**Q16.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+
+**Assertion (A):** Sir John Shore stood for non-intervention and no new war.
+
+**Reason (R):** Wellesley stood for Subsidiary Alliance and expansion — the opposite style.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; R contrasts Shore but does not itself cause Shore’s policy.
+
+**A/R logic:** Style twin: Shore vs Wellesley.
+
+</details>
+
+---
+
+**Q17.** With reference to Bentinck-era reforms, which of the following statements is/are correct?
+
+1. Bentinck abolished Sati in 1829.
+2. Metcalfe is remembered as Liberator of the Press (1835).
+3. Ellenborough abolished Sati by Act V, 1843.
+
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Ellenborough’s Act V 1843 is slavery abolition, not Sati.
+
+</details>
+
+---
+
+**Q18.** With reference to Dufferin and Curzon, which of the following statements is/are correct?
+
+1. Dufferin saw the founding of the INC in 1885.
+2. Curzon passed the Ancient Monuments Act 1904 and centralised the ASI under John Marshall.
+3. Dufferin partitioned Bengal in 1905.
+
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Partition = Curzon; Dufferin = microscopic minority tag.
+
+</details>
+
+---
+
+**Q19.** Match List-I with List-II and select the correct answer from the code given below:
+
+| List-I (Act) | List-II (Core) |
+|--------------|----------------|
+| A. Charter Act 1853 | 1. Muslim separate electorates |
+| B. Indian Councils Act 1909 | 2. Open competition for civil service |
+| C. GOI Act 1919 | 3. Provincial autonomy (worked) |
+| D. GOI Act 1935 | 4. Provincial dyarchy |
+
+*Row order is not the answer code.*
+
+
+A. A-2, B-1, C-4, D-3
+
+B. A-1, B-2, C-4, D-3
+
+C. A-2, B-1, C-3, D-4
+
+D. A-2, B-4, C-1, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** 1853 competition; 1909 electorates; 1919 dyarchy; 1935 autonomy.
+
+**Logic:** Act↔provision matching without year-only guessing.
+
+</details>
+
+---
+
+**Q20.** Which of the following pairs is NOT correctly matched?
+
+
+A. Queen’s Proclamation — Allahabad, 1 November 1858, under Canning
+
+B. Cornwallis’s tomb — Ghazipur (UP)
+
+C. Chait Singh / Banaras — Lord Hastings, 1818
+
+D. Awadh annexation 1856 — Dalhousie misrule case
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Banaras / Chait Singh belongs to Warren Hastings, 1781.
+
+**Logic:** UP-focus name swap: Warren vs Lord Hastings.
+
+</details>
+
+---
+
+**Q21.** With reference to Mayo and Northbrook, which of the following statements is/are correct?
+
+1. Mayo began financial decentralisation (1870) and was assassinated at the Andamans.
+2. Northbrook resigned over Afghan-policy disagreement.
+3. Mayo authored the Vernacular Press Act of 1878.
+
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Vernacular Press Act = Lytton 1878.
+
+</details>
+
+---
+
+**Q22.** Arrange the following events in chronological order:
+
+1. Ilbert Bill controversy
+2. Vernacular Press Act
+3. Age of Consent Act
+4. Partition of Bengal
+
+
+A. 2, 1, 3, 4
+
+B. 1, 2, 3, 4
+
+C. 2, 3, 1, 4
+
+D. 2, 1, 4, 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** 1878 Press Act → 1883 Ilbert → 1891 Age of Consent → 1905 Partition.
+
+**Logic:** Lytton–Ripon–Lansdowne–Curzon ladder.
+
+</details>
+
+---
+
+**Q23.** With reference to Irwin and Reading, which of the following statements is/are correct?
+
+1. Reading faced Chauri Chaura and the Swaraj Party years.
+2. Irwin is tagged to Dandi and the Gandhi–Irwin Pact (1931).
+3. Reading announced the 3 June Plan of 1947.
+
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** 3 June Plan = Mountbatten.
+
+</details>
+
+---
+
+**Q24.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+
+**Assertion (A):** The Charter Act of 1833 added a Law Member to the Governor-General’s Council.
+
+**Reason (R):** Under the Government of India Act, 1858, a Secretary of State replaced the Board of Control and Court of Directors in London.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; R is a later constitutional change, not the explanation of the 1833 Law Member.
+
+**A/R logic:** Two true Act facts that do not stand as cause–effect.
+
+</details>
+
+---
+
+**Q25.** With reference to Willingdon and Linlithgow, which of the following statements is/are correct?
+
+1. Willingdon’s years saw the GOI Act 1935 passed.
+2. Linlithgow was the longest-serving Viceroy of the late phase and faced 1937 ministries.
+3. Willingdon issued the August Offer of 1940.
+
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** August Offer = Linlithgow 1940.
+
+</details>
+
+---
+
+**Q26.** Which one of the following is correctly paired?
+
+
+A. First Viceroy — Mountbatten
+
+B. Last Viceroy — Canning
+
+C. First Viceroy — Canning; last Viceroy — Mountbatten
+
+D. First GG of India — Warren Hastings
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Canning first; Mountbatten last; Hastings is GG of Bengal, not first GG of India.
+
+**Logic:** Office-title ladder trap.
+
+</details>
+
+---
+
+**Q27.** With reference to Lansdowne, which of the following statements is/are correct?
+
+1. He is tagged to the Age of Consent Act, 1891.
+2. He is tagged to the Indian Councils Act, 1892.
+3. He repealed the Vernacular Press Act in 1882.
+
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Press Act repeal = Ripon.
+
+</details>
+
+---
+
+**Q28.** Match List-I with List-II and select the correct answer from the code given below:
+
+| List-I | List-II |
+|--------|---------|
+| A. Clive | 1. Dual Government ends 1772 |
+| B. Warren Hastings | 2. Dual Government 1765 |
+| C. Cornwallis | 3. Died at Ghazipur 1805 |
+| D. Canning | 4. First Viceroy; Allahabad Proclamation |
+
+*Row order is not the answer code.*
+
+
+A. A-2, B-1, C-3, D-4
+
+B. A-1, B-2, C-3, D-4
+
+C. A-2, B-1, C-4, D-3
+
+D. A-2, B-3, C-1, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Clive creates Dual; Hastings ends it; Cornwallis dies Ghazipur; Canning first Viceroy.
+
+**Logic:** Early-company to Crown bridge tags.
+
+</details>
+
+---
+
+**Q29.** With reference to the Indian Councils Act of 1909, which of the following statements is/are correct?
+
+1. It began Muslim separate electorates.
+2. S. P. Sinha entered the Viceroy’s Executive Council.
+3. It introduced provincial dyarchy.
+
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Dyarchy waits for Montford 1919.
+
+</details>
+
+---
+
+**Q30.** Which of the following pairs is NOT correctly matched?
+
+
+A. Elgin I — died in office at Dharamshala, 1863
+
+B. Reading — only Jewish Viceroy
+
+C. Chelmsford — GOI Act 1935
+
+D. Hardinge II — Delhi capital 1911
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Chelmsford is tagged to GOI Act 1919; 1935 sits with Willingdon’s years.
+
+**Logic:** 1919 ↔ 1935 Viceroy tag trap.
+
+</details>
+
 
 ## Common Traps — Don't Fall For These
 

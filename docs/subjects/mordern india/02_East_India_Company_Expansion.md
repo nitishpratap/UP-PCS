@@ -2394,778 +2394,17 @@ D. 1, 2 and 3
 
 ## Practice Zone — UPPCS Format Drill
 
-> **52 questions.** ≥60% multi-statement. Includes A/R, Match-List, chronology, NOT-matched.
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
+
 
 **Q1.** With reference to the Battle of Plassey, which of the following statements is/are correct?
 
-1. It was fought on 23 June 1757.
-2. The Company obtained the Diwani of Bengal on the same day.
+1. It was fought on 23 June 1757 and ended with Mir Jafar as a puppet Nawab.
+2. The Company obtained the Diwani of Bengal, Bihar and Orissa on the same day.
+3. Court conspiracy with Clive was a major cause behind the short fight.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Diwani = **1765** (Allahabad), not Plassey.
-
-</details>
-
----
-
-**Q2.** With reference to the Battle of Buxar, which of the following statements is/are correct?
-
-1. Hector Munro commanded the English forces.
-2. The defeated coalition included Mir Qasim, Shuja-ud-Daula and Shah Alam II.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Clive negotiated the **1765** settlement; he did not command at Buxar.
-
-</details>
-
----
-
-**Q3.** Which of the following pairs are NOT correctly matched?
-
-1. Dual Government in Bengal — 1765–1772
-2. Dual Government ended by — Robert Clive
-3. Bengal Famine under dual system — 1770
-
-A. Only 2
-
-B. Only 1 and 2
-
-C. Only 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Ended by **Hastings 1772**. Clive created it.
-
-</details>
-
----
-
-**Q4.** Match List-I with List-II.
-
-**List-I (Treaty)** A. Allahabad B. Madras C. Salbai D. Mangalore
-**List-II (Year)** 1. 1769 2. 1765 3. 1784 4. 1782
-
-A. 2 1 4 3
-
-B. 2 1 3 4
-
-C. 1 2 4 3
-
-D. 2 3 4 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 1765, 1769, 1782, 1784.
-
-</details>
-
----
-
-**Q5.** Assertion (A): Subsidiary Alliance was introduced by Lord Wellesley.
-
-Reason (R): The first Subsidiary Alliance in India was concluded with the Nizam of Hyderabad in 1798.
-
-Options:
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Hyderabad 1798 is the opening instance of Wellesley’s system.
-
-</details>
-
----
-
-**Q6.** With reference to Doctrine of Lapse, which of the following statements is/are correct?
-
-1. Awadh was annexed in 1856 under the Doctrine of Lapse.
-2. Jhansi was annexed in 1853 after the adopted heir was not recognised.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Awadh = **misgovernance**, not Lapse.
-
-</details>
-
----
-
-**Q7.** Arrange the following in correct chronological order:
-
-1. First Anglo-Sikh War
-2. First Anglo-Mysore War
-3. Treaty of Sugauli
-4. Sindh annexation
-
-A. 2, 3, 4, 1
-
-B. 2, 3, 1, 4
-
-C. 3, 2, 4, 1
-
-D. 2, 4, 3, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Mysore I 1767–69 → Sugauli 1816 → Sindh 1843 → Sikh I 1845–46.
-
-</details>
-
----
-
-**Q8.** Consider the following statements:
-
-1. Chauth was a British subsidiary payment.
-2. Chauth was a Maratha claim of one-fourth of land revenue.
-3. Sardeshmukhi was an additional Maratha levy.
-
-How many of the above statements are correct?
-
-A. Only one
-
-B. Only two
-
-C. All three
-
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Stmts 2 and 3. Stmt 1 confuses chauth with Subsidiary Alliance.
-
-</details>
-
----
-
-**Q9.** With reference to Tipu Sultan, which of the following statements is/are correct?
-
-1. The Treaty of Seringapatam (1792) made him cede about half of Mysore.
-2. He was killed in the Fourth Anglo-Mysore War in 1799.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Both facts. He did not survive 1799.
-
-</details>
-
----
-
-**Q10.** Which of the following pairs are NOT correctly matched?
-
-1. Treaty of Madras — First Anglo-Mysore War
-2. Treaty of Mangalore — Third Anglo-Mysore War
-3. Treaty of Bassein — Peshwa accepts Subsidiary Alliance
-
-A. Only 2
-
-B. Only 1 and 2
-
-C. Only 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Mangalore = **Second** Mysore (1784). Third = Seringapatam 1792.
-
-</details>
-
----
-
-**Q11.** Assertion (A): Punjab was annexed immediately after the Treaty of Lahore (1846).
-
-Reason (R): The Treaty of Lahore followed the First Anglo-Sikh War.
-
-Options:
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Annexation is **1849** after the Second War. R is true.
-
-</details>
-
----
-
-**Q12.** With reference to the Treaty of Sugauli (1816), which of the following statements is/are correct?
-
-1. Nepal was annexed as a British province.
-2. Nepal remained independent but ceded hill/Tarai tracts.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Kathmandu not taken; independence retained.
-
-</details>
-
----
-
-**Q13.** Match List-I with List-II.
-
-**List-I** A. Battle of Plassey B. Battle of Buxar C. Battle of Mudki D. Battle of Miani
-**List-II** 1. 1843 2. 1757 3. 1764 4. 1845
-
-A. 2 3 4 1
-
-B. 2 3 1 4
-
-C. 3 2 4 1
-
-D. 2 4 3 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 1757, 1764, 1845, 1843.
-
-</details>
-
----
-
-**Q14.** With reference to Mir Qasim, which of the following statements is/are correct?
-
-1. He shifted his capital to Munger and tried to equalise internal trade duties.
-2. He was the Nawab installed immediately after Plassey in 1757.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 1757 Nawab = **Mir Jafar**. Qasim = 1760–63.
-
-</details>
-
----
-
-**Q15.** Arrange the following Peshwas in chronological order of rule:
-
-1. Madhav Rao I
-2. Balaji Vishwanath
-3. Baji Rao I
-4. Balaji Baji Rao
-
-A. 2, 3, 4, 1
-
-B. 2, 4, 3, 1
-
-C. 3, 2, 4, 1
-
-D. 2, 3, 1, 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Same spine as 2025 Q149 plus Madhav Rao I at the end.
-
-</details>
-
----
-
-**Q16.** Consider the following statements about Robert Clive:
-
-1. He commanded the English at Buxar.
-2. He designed Dual Government after the Diwani grant.
-3. He commanded at Plassey.
-
-Which of the statements given above is/are correct?
-
-A. 2 and 3 only
-
-B. 1 and 2 only
-
-C. 1 and 3 only
-
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Buxar = **Munro**.
-
-</details>
-
----
-
-**Q17.** With reference to the First Anglo-Maratha War, which of the following statements is/are correct?
-
-1. It ended with the Treaty of Salbai in 1782.
-2. It ended with the Treaty of Bassein in 1802.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Bassein is the **Second** War prelude.
-
-</details>
-
----
-
-**Q18.** Assertion (A): Lord Wellesley was recalled in 1805.
-
-Reason (R): The Court of Directors considered his wars of expansion too expensive.
-
-Options:
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — 2024 Q137 chronology uses this recall as an anchor.
-
-</details>
-
----
-
-**Q19.** Which of the following pairs are correctly matched?
-
-1. Hyder Ali — Dindigal armoury, 1755
-2. Tipu Sultan — killed 4 May 1799
-3. Eyre Coote — Battle of Porto Novo, 1781
-
-A. 1 and 2 only
-
-B. 2 and 3 only
-
-C. 1 and 3 only
-
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — All three are standard Mysore facts.
-
-</details>
-
----
-
-**Q20.** With reference to Sindh, which of the following statements is/are correct?
-
-1. Charles Napier defeated the Talpur Amirs at Miani in 1843.
-2. Sindh and Punjab were annexed in the same year.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Sindh **1843**, Punjab **1849**.
-
-</details>
-
----
-
-**Q21.** Consider the following statements:
-
-1. Ring Fence policy is associated with Warren Hastings.
-2. Doctrine of Lapse is associated with Lord Wellesley.
-3. First Subsidiary Alliance was with Hyderabad in 1798.
-
-How many of the above statements are correct?
-
-A. Only one
-
-B. Only two
-
-C. All three
-
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Stmts 1 and 3. Lapse = **Dalhousie**.
-
-</details>
-
----
-
-**Q22.** Which of the following pairs is/are NOT correctly matched?
-
-(Battle) — (War)
-
-1. Assaye — Second Anglo-Maratha War
-2. Mudki — Second Anglo-Mysore War
-3. Gujrat — Second Anglo-Sikh War
-
-A. Only 2
-
-B. Only 1 and 2
-
-C. Only 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Mudki = **First Anglo-Sikh 1845**. Porto Novo = 2nd Mysore.
-
-</details>
-
----
-
-**Q23.** With reference to the Banaras Rebellion, which of the following statements is/are correct?
-
-1. It was led by Chait Singh in 1781 against Warren Hastings.
-2. It was a centre of the Revolt of 1857 under Nana Sahib.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 1857 Banaras/Kanpur story is a different event.
-
-</details>
-
----
-
-**Q24.** Arrange the following in chronological order:
-
-1. Death of Nana Fadnavis
-2. Treaty of Bassein
-3. Third Anglo-Maratha War
-4. Treaty of Salbai
-
-A. 4, 1, 2, 3
-
-B. 4, 2, 1, 3
-
-C. 1, 4, 2, 3
-
-D. 4, 1, 3, 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Salbai 1782 → Nana d. 1800 → Bassein 1802 → Third Maratha 1817–18.
-
-</details>
-
----
-
-**Q25.** With reference to Diwani, which of the following statements is/are correct?
-
-1. It was granted by Shah Alam II in 1765.
-2. It meant the Company’s right to collect revenue of Bengal, Bihar and Orissa.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Both are the Allahabad facts.
-
-</details>
-
----
-
-**Q26.** Match List-I with List-II.
-
-**List-I** A. Satara B. Jhansi C. Awadh D. Punjab
-**List-II** 1. 1849 (war) 2. 1848 (lapse) 3. 1856 (misrule) 4. 1853 (lapse)
-
-A. 2 4 3 1
-
-B. 2 4 1 3
-
-C. 4 2 3 1
-
-D. 2 3 4 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Satara 1848, Jhansi 1853, Awadh 1856, Punjab 1849.
-
-</details>
-
----
-
-**Q27.** Assertion (A): Ranjit Singh established the Adalat-i-Ala at Amritsar.
-
-Reason (R): Lahore was the political capital of Ranjit Singh’s empire.
-
-Options:
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Adalat-i-Ala = **Lahore**. R true.
-
-</details>
-
----
-
-**Q28.** With reference to the Third Anglo-Mysore War, which of the following statements is/are correct?
-
-1. Lord Cornwallis personally led the campaign.
-2. It ended with the Treaty of Madras (1769).
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Ended **Seringapatam 1792**. Madras 1769 = First War.
-
-</details>
-
----
-
-**Q29.** Consider the following statements about Anglo-Burmese Wars:
-
-1. The Treaty of Yandabo (1826) followed the First Anglo-Burmese War.
-2. Assam came under British control after the First Anglo-Burmese War.
-3. The First Anglo-Burmese War was fought under Lord Dalhousie.
-
-How many of the above statements are correct?
-
-A. Only one
-
-B. Only two
-
-C. All three
-
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Stmts 1 and 2. First War = **Amherst, 1824–26**.
-
-</details>
-
----
-
-**Q30.** Which of the following statements is/are correct?
-
-1. Akbar Fort associated with this topic stands at Prayagraj (Allahabad).
-2. The Treaty of Allahabad (1765) is linked to the Diwani grant.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Do not shift the fort to Delhi/Agra.
-
-</details>
-
----
-
-**Q31.** With reference to the Second Anglo-Sikh War, which of the following statements is/are correct?
-
-1. Chillianwala was a British setback.
-2. The Battle of Gujrat (1849) decided the war and was followed by annexation.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Both facts.
-
-</details>
-
----
-
-**Q32.** Arrange the following in chronological order:
-
-1. Fourth Anglo-Mysore War
-2. First Anglo-Maratha War ends
-3. Subsidiary Alliance with Hyderabad
-4. Third Anglo-Maratha War
-
-A. 2, 3, 1, 4
-
-B. 2, 1, 3, 4
-
-C. 1, 2, 3, 4
-
-D. 2, 3, 4, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Salbai 1782 → Hyderabad subsidiary 1798 → Fourth Mysore 1799 → Third Maratha 1817–18. **B** puts Tipu before Hyderabad.
-
-</details>
-
----
-
-**Q33.** With reference to Warren Hastings, which of the following statements is/are correct?
-
-1. He ended Dual Government in Bengal in 1772.
-2. The Banaras Rebellion of Chait Singh occurred during his tenure.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q34.** Which of the following pairs are NOT correctly matched?
-
-1. Treaty of Lahore — 1846
-2. Treaty of Sugauli — 1816
-3. Treaty of Yandabo — 1849
-
-A. Only 3
-
-B. Only 1 and 3
-
-C. Only 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Yandabo = **1826**. 1849 = Punjab annexation.
-
-</details>
-
----
-
-**Q35.** Consider the following statements about Subsidiary Alliance:
-
-1. The Indian ruler could not employ other Europeans without British consent.
-2. A British Resident was posted at the court.
-3. It was identical to the Doctrine of Lapse.
-
-Which of the statements given above is/are correct?
 
 A. 1 and 2 only
 
@@ -3178,101 +2417,270 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Lapse is annexation on heirlessness, not a protection treaty.
+**Ans: B.** Only 1 and 3.
+
+**Logic:** Diwani came with Allahabad 1765 after Buxar — not on Plassey day.
 
 </details>
 
 ---
 
-**Q36.** With reference to Kashmir after the First Anglo-Sikh War, which of the following statements is/are correct?
+**Q2.** With reference to the Battle of Buxar, which of the following statements is/are correct?
 
-1. Kashmir was ceded under the Treaty of Lahore (1846).
-2. It was sold to Gulab Singh (Dogras).
+1. Hector Munro commanded the English forces in a pitched battle.
+2. The defeated coalition included Mir Qasim, Shuja-ud-Daula and Shah Alam II.
+3. Robert Clive personally commanded the English line at Buxar.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
 
-C. Both 1 and 2
+A. 1 and 3 only
 
-D. Neither 1 nor 2
+B. 2 and 3 only
+
+C. 1, 2 and 3
+
+D. 1 and 2 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Clive was in England; he later settled Allahabad/Diwani, he did not fight Buxar.
 
 </details>
 
 ---
 
-**Q37.** Assertion (A): The Battle of Wadgaon (1779) was a serious British reverse in the Deccan.
+**Q3.** With reference to Dual Government in Bengal, which of the following statements is/are correct?
 
-Reason (R): The First Anglo-Maratha War nevertheless ended in a British subsidiary over the Peshwa in 1782.
+1. Clive designed Dual Government after the Diwani grant of 1765.
+2. Under Dual Government the Company took Diwani while Nizamat stayed in the Nawab’s name.
+3. Robert Clive abolished Dual Government in 1772.
 
-Options:
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1, 2 and 3
+
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Warren Hastings ended Dual Government in 1772 — Clive created it.
+
+</details>
+
+---
+
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+
+**Assertion (A):** Ring Fence under Warren Hastings was an informal buffer policy around Bengal.
+
+**Reason (R):** Subsidiary Alliance under Wellesley meant British troops, a subsidy and a Resident in the allied state.
+
+Select the correct answer from the code given below:
+
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
 B. (A) is false, but (R) is true
+
 C. (A) is true, but (R) is false
+
 D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — A true. R false: **Salbai 1782** was status quo, not subsidiary. Subsidiary = **Bassein 1802**.
+**Ans: A.** Both true; R describes a different tool, not the explanation of Ring Fence.
+
+**A/R logic:** Standing confused pair: Ring Fence ≠ Subsidiary Alliance.
 
 </details>
 
 ---
 
-**Q38.** Who among the following was the last Maharaja of the Sikh Empire, deposed after Punjab’s annexation?
+**Q5.** Match List-I with List-II and select the correct answer from the code given below:
 
-A. Ranjit Singh
+| List-I (Treaty) | List-II (Year / war) |
+|-----------------|----------------------|
+| A. Allahabad | 1. First Anglo-Mysore peace |
+| B. Madras | 2. Diwani after Buxar |
+| C. Salbai | 3. Second Anglo-Mysore peace |
+| D. Mangalore | 4. First Anglo-Maratha peace |
 
-B. Sher Singh
+*Row order is not the answer code.*
 
-C. Duleep Singh
 
-D. Hira Singh
+A. A-1, B-2, C-4, D-3
+
+B. A-2, B-1, C-4, D-3
+
+C. A-2, B-1, C-3, D-4
+
+D. A-2, B-3, C-4, D-1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Minor; sent to England. Single-best trap item (≤25%).
+**Ans: B.** Allahabad 1765 → Madras 1769 → Salbai 1782 → Mangalore 1784.
+
+**Logic:** Do not swap Madras (1st Mysore) with Mangalore (2nd Mysore).
 
 </details>
 
 ---
 
-**Q39.** With reference to colonial expansion, which of the following statements is/are correct?
+**Q6.** Arrange the following in chronological order:
 
-1. Vellore Mutiny (1806) came after Wellesley’s recall (1805).
-2. Anglo-Nepalese War began before Wellesley’s recall.
+1. Treaty of Bassein
+2. Treaty of Salbai
+3. Treaty of Seringapatam (Third Mysore)
+4. Treaty of Sugauli
 
-A. Only 1
 
-B. Only 2
+A. 2, 3, 1, 4
 
-C. Both 1 and 2
+B. 3, 2, 1, 4
 
-D. Neither 1 nor 2
+C. 2, 1, 3, 4
+
+D. 1, 2, 3, 4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Nepal war **1814–16**, after 1805.
+**Ans: A.** Salbai 1782 → Seringapatam 1792 → Bassein 1802 → Sugauli 1816.
+
+**Logic:** Bassein is Peshwa subsidiary before Second Maratha War — after Mysore III.
 
 </details>
 
 ---
 
-**Q40.** Consider the following pairs:
+**Q7.** Which of the following pairs is NOT correctly matched?
 
-1. Shuja-ud-Daula — Awadh, Buxar coalition
-2. Najm-ud-Daulah — pensioned Bengal Nawab after Allahabad
-3. Wajid Ali Shah — deposed 1856
 
-Which of the pairs given above are correctly matched?
+A. Subsidiary Alliance — Wellesley from 1798; first major state Hyderabad
+
+B. Doctrine of Lapse — Dalhousie; Jhansi a classic Lapse case
+
+C. Ring Fence — Warren Hastings’ informal buffer around Bengal
+
+D. Awadh 1856 — annexed under Doctrine of Lapse
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Awadh 1856 was annexed for alleged misrule, not Lapse.
+
+**Logic:** Jhansi 1853 = Lapse; Awadh = misgovernance — standing twin.
+
+</details>
+
+---
+
+**Q8.** With reference to Anglo-Mysore Wars, which of the following statements is/are correct?
+
+1. The First War ended with the Treaty of Madras (1769).
+2. The Second War ended with the Treaty of Mangalore (1784).
+3. Tipu died in the Third Anglo-Mysore War after the Treaty of Seringapatam.
+
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1, 2 and 3
+
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Tipu died in the Fourth War (1799); Seringapatam 1792 only halved his territory.
+
+</details>
+
+---
+
+**Q9.** With reference to Anglo-Maratha settlements, which of the following statements is/are correct?
+
+1. Salbai (1782) closed the First Anglo-Maratha War.
+2. Bassein (1802) was the Peshwa’s subsidiary treaty before the Second War.
+3. Surat (1775) and Purandhar (1776) are the same treaty under two names.
+
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1, 2 and 3
+
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Surat was Bombay’s Raghoba deal; Purandhar was Calcutta’s revision — not identical.
+
+</details>
+
+---
+
+**Q10.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+
+**Assertion (A):** Warren Hastings and Lord Hastings pursued the same Afghan Forward Policy.
+
+**Reason (R):** Lord Hastings (1813–23) is tagged to Nepal, the Pindaris and the Third Maratha War.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** (A) is false; (R) is true.
+
+**A/R logic:** Never swap Warren Hastings with Lord Hastings; Forward/Proud Reserve is a later Afghan debate.
+
+</details>
+
+---
+
+**Q11.** With reference to Anglo-Sikh and Nepal settlements, which of the following statements is/are correct?
+
+1. Treaty of Amritsar (1809) fixed Ranjit Singh’s Sutlej peace with the English.
+2. Treaty of Lahore (1846) settled the First Anglo-Sikh War.
+3. Treaty of Sugauli (1816) annexed Kathmandu into Company territory.
+
+Select the correct answer from the code given below:
+
 
 A. 1 and 2 only
 
@@ -3285,40 +2693,511 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Sugauli meant hill cessions, not Kathmandu annexation.
 
 </details>
 
 ---
 
-**Q41.** With reference to the Fourth Anglo-Mysore War, which of the following statements is/are correct?
+**Q12.** Consider the following battles and arrange them in chronological order:
 
-1. Mysore was wholly annexed and no Indian dynasty was restored.
-2. Krishna Raja Wodeyar III was placed on the throne under Subsidiary Alliance.
+1. Mudki
+2. Porto Novo
+3. Shakarkheda
+4. Bedara (Chinsurah)
 
-A. Only 1
 
-B. Only 2
+A. 4, 3, 2, 1
 
-C. Both 1 and 2
+B. 3, 4, 2, 1
 
-D. Neither 1 nor 2
+C. 3, 2, 4, 1
+
+D. 2, 3, 4, 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Half annexed; Wodeyar restored.
+**Ans: B.** Shakarkheda 1724 → Bedara 1759 → Porto Novo 1781 → Mudki 1845.
+
+**Logic:** Classic chronology ladder from the chapter’s battle table.
 
 </details>
 
 ---
 
-**Q42.** Arrange the following annexations in chronological order:
+**Q13.** With reference to Sindh and Punjab annexations, which of the following statements is/are correct?
 
-1. Awadh
-2. Sindh
-3. Punjab
-4. Satara (Lapse)
+1. Sindh (1843) was taken under Ellenborough / Napier.
+2. Punjab was annexed in 1849 under Dalhousie after the Second Anglo-Sikh War.
+3. Punjab annexation and the Treaty of Lahore (1846) refer to the same settlement year.
+
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
+
+B. 1 and 2 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Lahore 1846 = First Sikh settlement; annexation 1849 = after Second War.
+
+</details>
+
+---
+
+**Q14.** Which of the following pairs is NOT correctly matched?
+
+
+A. First Anglo-Burmese War — Treaty of Yandabo (1826)
+
+B. First Anglo-Afghan War — Auckland
+
+C. Masterly Inactivity — Lytton’s forward Afghan line
+
+D. Vellore Mutiny — 1806 sepoy rising over dress and religious grievances
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Masterly Inactivity is Lawrence’s caution; Lytton = Proud Reserve / Forward.
+
+**Logic:** Afghan-policy twin from Confused Pairs.
+
+</details>
+
+---
+
+**Q15.** With reference to Subsidiary Alliance and Doctrine of Lapse, which of the following statements is/are correct?
+
+1. Subsidiary Alliance began with Wellesley from 1798.
+2. Doctrine of Lapse is Dalhousie’s tool when there was no natural heir.
+3. Chauth was the British subsidy payment under Subsidiary Alliance.
+
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Chauth is the Maratha one-fourth revenue claim — not the British subsidy.
+
+</details>
+
+---
+
+**Q16.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+
+**Assertion (A):** After Plassey the Company immediately exercised Diwani rights over Bengal.
+
+**Reason (R):** Diwani means revenue collection; Nizamat means police and criminal justice in the Nawab’s name.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** (A) is false; (R) is true.
+
+**A/R logic:** Diwani came in 1765; Plassey only installed a puppet Nawab.
+
+</details>
+
+---
+
+**Q17.** With reference to Mysore rulers, which of the following statements is/are correct?
+
+1. Hyder Ali seized real power in Mysore in 1761.
+2. Tipu succeeded in 1782 and died at Seringapatam in 1799.
+3. After Tipu’s death Mysore was left without any Subsidiary Alliance.
+
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Fourth War placed Mysore under Subsidiary Alliance with a Wodeyar child.
+
+</details>
+
+---
+
+**Q18.** Match List-I with List-II and select the correct answer from the code given below:
+
+| List-I | List-II |
+|--------|---------|
+| A. Plassey | 1. Hector Munro |
+| B. Buxar | 2. Clive / conspiracy short fight |
+| C. Assaye | 3. Second Maratha theatre |
+| D. Miani | 4. Sindh 1843 |
+
+*Row order is not the answer code.*
+
+
+A. A-2, B-1, C-3, D-4
+
+B. A-1, B-2, C-3, D-4
+
+C. A-2, B-1, C-4, D-3
+
+D. A-2, B-3, C-1, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Plassey–Clive; Buxar–Munro; Assaye–Maratha; Miani–Sindh.
+
+**Logic:** Commander/theatre matching from Must-Score battle tags.
+
+</details>
+
+---
+
+**Q19.** With reference to Company expansion phases, which of the following statements is/are correct?
+
+1. Farrukhsiyar’s farman of 1717 gave major duty-free privileges in Bengal.
+2. Misuse of dastaks fed Nawab–Company quarrels before Plassey.
+3. The 1717 farman itself is identical with the 1765 Diwani grant.
+
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Farman = trade privilege; Diwani = revenue grant after Buxar.
+
+</details>
+
+---
+
+**Q20.** Arrange the following annexation / war closures in chronological order:
+
+1. Sindh annexation
+2. Treaty of Sugauli
+3. Punjab annexation
+4. Awadh annexation
+
+
+A. 2, 1, 3, 4
+
+B. 1, 2, 3, 4
+
+C. 2, 3, 1, 4
+
+D. 2, 1, 4, 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Sugauli 1816 → Sindh 1843 → Punjab 1849 → Awadh 1856.
+
+**Logic:** Keeps Nepal / Sindh / Punjab / Awadh years distinct.
+
+</details>
+
+---
+
+**Q21.** With reference to the Third Anglo-Maratha War, which of the following statements is/are correct?
+
+1. It was fought under Lord Hastings in 1817–18.
+2. It crushed the Peshwa and cleared the Pindaris.
+3. It ended with the Treaty of Salbai.
+
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Salbai closes the First Maratha War (1782), not the Third.
+
+</details>
+
+---
+
+**Q22.** Which of the following pairs is NOT correctly matched?
+
+
+A. Treaty of Amritsar 1809 — Ranjit Singh’s Sutlej peace
+
+B. Treaty of Lahore 1846 — First Anglo-Sikh settlement
+
+C. Treaty of Sugauli 1816 — First Anglo-Sikh settlement
+
+D. Treaty of Yandabo 1826 — First Anglo-Burmese War
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Sugauli is Nepal; Lahore is First Sikh.
+
+**Logic:** Sugauli ↔ Lahore is a high-frequency swap.
+
+</details>
+
+---
+
+**Q23.** With reference to Nawabs after Plassey, which of the following statements is/are correct?
+
+1. Mir Jafar became the puppet Nawab after Plassey.
+2. Mir Qasim fought the English at Buxar.
+3. Najm-ud-Daulah personally commanded the triple alliance at Buxar.
+
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Najm-ud-Daulah was a later pensioned figurehead under Diwani.
+
+</details>
+
+---
+
+**Q24.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+
+**Assertion (A):** Paramountcy under Lord Hastings meant claiming overlordship after smashing major rivals.
+
+**Reason (R):** The Anglo-Nepal War, Pindari clearance and Third Maratha War belong to Lord Hastings’ years.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R correctly explains the context of that paramountcy claim.
+
+**A/R logic:** Paramountcy is the bridge from Subsidiary diplomacy to open supremacy.
+
+</details>
+
+---
+
+**Q25.** With reference to Anglo-Burmese Wars, which of the following statements is/are correct?
+
+1. The First War (1824–26) ended with the Treaty of Yandabo.
+2. The Second War is dated 1852.
+3. Complete annexation of Burma was finished in the First War itself.
+
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Third War 1885 completed annexation — not Yandabo alone.
+
+</details>
+
+---
+
+**Q26.** Which one of the following correctly states the result of Plassey?
+
+
+A. Immediate Diwani of Bengal, Bihar and Orissa for the Company
+
+B. Mir Jafar became puppet Nawab; no Diwani yet
+
+C. Hector Munro annexed Awadh on the battlefield
+
+D. Shah Alam II was deposed and exiled the same week
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Plassey = puppet Nawab; Diwani waits for Allahabad 1765.
+
+**Logic:** Cause–course–result card: result is political puppetry, not Diwani.
+
+</details>
+
+---
+
+**Q27.** With reference to Peshwa chronology, which of the following statements is/are correct?
+
+1. Baji Rao II signed the Treaty of Bassein.
+2. After defeat he was later pensioned at Bithoor.
+3. Balaji Vishwanath came after Baji Rao II in the Peshwa line.
+
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Balaji Vishwanath opens the Peshwa order; Baji Rao II is near the end.
+
+</details>
+
+---
+
+**Q28.** Match List-I with List-II and select the correct answer from the code given below:
+
+| List-I (Policy / man) | List-II (Tag) |
+|-----------------------|---------------|
+| A. Wellesley | 1. Doctrine of Lapse |
+| B. Dalhousie | 2. Subsidiary Alliance |
+| C. Lawrence | 3. Proud Reserve / Forward |
+| D. Lytton | 4. Masterly Inactivity |
+
+*Row order is not the answer code.*
+
+
+A. A-2, B-1, C-4, D-3
+
+B. A-1, B-2, C-4, D-3
+
+C. A-2, B-1, C-3, D-4
+
+D. A-2, B-4, C-1, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Wellesley–Subsidiary; Dalhousie–Lapse; Lawrence–Inactivity; Lytton–Forward.
+
+**Logic:** Four standing expansion-policy tags.
+
+</details>
+
+---
+
+**Q29.** With reference to Banaras and Warren Hastings, which of the following statements is/are correct?
+
+1. Warren Hastings faced the Banaras crisis involving Chait Singh in 1781.
+2. Ring Fence is also tagged with Hastings’ Bengal buffer approach.
+3. Lord Hastings, not Warren Hastings, ended Dual Government in 1772.
+
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Dual Government ended under Warren Hastings — name-swap trap.
+
+</details>
+
+---
+
+**Q30.** Arrange the following Mysore-related events in chronological order:
+
+1. Tipu’s death at Seringapatam
+2. Treaty of Madras
+3. Treaty of Seringapatam (territorial cession)
+4. Treaty of Mangalore
+
 
 A. 2, 4, 3, 1
 
@@ -3331,236 +3210,12 @@ D. 2, 4, 1, 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Sindh 1843 → Satara 1848 → Punjab 1849 → Awadh 1856.
+**Ans: A.** Madras 1769 → Mangalore 1784 → Seringapatam 1792 → Tipu’s death 1799.
+
+**Logic:** Keeps Third-war treaty distinct from Fourth-war death.
 
 </details>
 
----
-
-**Q43.** Which of the following statements is/are correct?
-
-1. Mahadji Sindhia was a leading Maratha general in the First Anglo-Maratha War.
-2. Arthur Wellesley fought at Assaye in the Second Anglo-Maratha War.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q44.** With reference to Dual Government, which of the following statements is/are correct?
-
-1. The Company held Diwani while the Nawab nominally held Nizamat.
-2. The system was designed so the Company took revenue without full administrative responsibility.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q45.** Consider the following statements:
-
-1. First Anglo-Mysore War ended before the First Anglo-Sikh War.
-2. Second Anglo-French War ended before the First Anglo-Mysore War.
-3. First Anglo-Afghan War ended before the First Anglo-Sikh War.
-
-How many of the above statements are correct?
-
-A. Only one
-
-B. Only two
-
-C. All three
-
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Same spine as 2025 Q26.
-
-</details>
-
----
-
-**Q46.** With reference to Anglo-Sikh relations before 1845, which of the following statements is/are correct?
-
-1. The Treaty of Amritsar (1809) fixed the Sutlej as a limit of Ranjit Singh’s southward expansion.
-2. The Treaty of Lahore (1846) was signed while Ranjit Singh was still alive.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Ranjit died **1839**. Lahore is after the First Sikh War.
-
-</details>
-
----
-
-**Q47.** Which of the following pairs are NOT correctly matched?
-
-1. Treaty of Surat — 1775
-2. Treaty of Purandhar — 1782
-3. Treaty of Salbai — 1782
-
-A. Only 2
-
-B. Only 1 and 2
-
-C. Only 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Purandhar = **1776** (Calcutta’s revision of Surat). Salbai ends the First Maratha War in **1782**.
-
-</details>
-
----
-
-**Q48.** With reference to British north-west policy, which of the following statements is/are correct?
-
-1. Masterly Inactivity is associated with John Lawrence.
-2. Proud Reserve is associated with Lord Lytton.
-3. The First Anglo-Afghan War was fought under Lord Dalhousie.
-
-How many of the above statements are correct?
-
-A. Only one
-
-B. Only two
-
-C. All three
-
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Stmts 1 and 2. First Afghan War = **Auckland, 1839–42**.
-
-</details>
-
----
-
-**Q49.** Consider the following statements:
-
-1. Farrukhsiyar’s farman of 1717 granted major duty-free trade privileges to the Company in Bengal.
-2. The Diwani of Bengal, Bihar and Orissa was granted in the same farman of 1717.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Diwani = **1765** (Allahabad), not 1717.
-
-</details>
-
----
-
-**Q50.** With reference to the Pindari campaign, which of the following statements is/are correct?
-
-1. It was conducted under Lord Hastings around 1817–18.
-2. It ran alongside the Third Anglo-Maratha War.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q51.** Which of the following pairs is/are correctly matched?
-
-1. Treaty of Sinchula — Bhutan, 1865
-2. Younghusband mission — Tibet, 1904
-3. Treaty of Amritsar (1809) — Gulab Singh gets Kashmir
-
-A. 1 and 2 only
-
-B. 2 and 3 only
-
-C. 1 and 3 only
-
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Kashmir sale to Gulab Singh is **1846**, not the 1809 Ranjit treaty.
-
-</details>
-
----
-
-**Q52.** Assertion (A): The Vellore Mutiny occurred in 1806.
-
-Reason (R): It came after Wellesley’s recall and before the Anglo-Nepalese War.
-
-Options:
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Same chronology spine as 2024 Q137.
-
-</details>
-
----
 
 ## Common Traps — Don't Fall For These
 

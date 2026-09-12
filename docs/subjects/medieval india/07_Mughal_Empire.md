@@ -1444,923 +1444,670 @@ D. All 1, 2, 3 and 4
 
 ## Practice Zone — UPPCS Format Drill
 
-> **50 questions** · answers under Show answer
+> **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D | **Ans first, then Logic**
 
-**Q1.** A(A): Babur wrote Tuzk-e-Babri in Chagatai Turki. R(R): Turki was official Mughal court language.
+**Q1.** With reference to the First Battle of Panipat (1526), which of the following statements is/are correct?
 
-A. Both true, R not explanation
-B. A false, R true
-C. A true, R false
-D. Both true, R explains A
+1. Babur defeated Ibrahim Lodi and founded Mughal rule in India.
+2. Babur used Tulughma flanking and Araba cart-forts with gunpowder.
+3. The battle is remembered mainly as Babur’s defeat of Rana Sanga.
 
-<details><summary>Show answer</summary>
+Select the correct answer from the code given below:
 
-**A/R logic:** A is true: Baburnama / Tuzk-e-Babri was written in **Chagatai Turki**.
-
-**Ans: C (A true, R false).**
-
-**R is false:** Mughal **court language** was **Persian**, not Turki.
-
-**Why not D:** R is factually wrong about court language.
-
-</details>
-
-**Q2.** Match tombs: A.Babur B.Humayun C.Jahangir D.Shah Jahan with 1.Agra 2.Lahore 3.Delhi 4.Kabul
-
-Options: A.4-3-2-1 | B.3-4-1-2 | C.3-4-2-1 | D.4-3-1-2
-
-<details><summary>Show answer</summary>
-
-**Logic:** Tomb locations: **Babur–Kabul**, **Humayun–Delhi**, **Jahangir–Lahore**, **Shah Jahan–Agra**.
-
-**Ans: A.** Babur–Kabul (4), Humayun–Delhi (3), Jahangir–Lahore (2), Shah Jahan–Agra (1).
-
-**Trap:** Akbar tomb Sikandra is outside this four-option list.
-
-</details>
-
-**Q3.** Arrange: 1.Kannauj 2.Daurah 3.Samugarh 4.Chausa
-
-Options: A.2-4-3-1 | B.4-2-1-3 | C.4-2-3-1 | D.2-4-1-3
-
-<details><summary>Show answer</summary>
-
-**Ans: D** — Daurah 1532 → Chausa 1539 → Kannauj 1540 → Samugarh 1658.
-
-**Why:** Daurah 1532 → Chausa 1539 → Kannauj 1540 → Samugarh 1658.
-
-**Trap:** Daurah is **not** Dharmat (1658).
-
-</details>
-
-**Q4.** A(A): Akbar built Buland Darwaza at Fatehpur Sikri. R(R): Built in memory of Jahangir’s birth.
-
-A. Both true, R not explanation
-B. A false, R true
-C. A true, R false
-D. Both true, R explains A
-
-<details><summary>Show answer</summary>
-
-**A/R logic:** A is true: Buland Darwaza stands at **Fatehpur Sikri**, built by **Akbar**.
-
-**Ans: C (A true, R false).**
-
-**R is false:** It commemorated **Gujarat victory (1572)**, not **Jahangir's birth**.
-
-**Why not A:** Wrong motive in R → not an explaining pair.
-
-</details>
-
-**Q5.** Bairam Khan: 1. Akbar gave him Khan-i-Khana 2. Title was not given when appointed Vazir
-
-A. Both
-B. Neither
-C. Only 1
-D. Only 2
-
-<details><summary>Show answer</summary>
-
-**Ans: C (Only 1)** — **Akbar** gave **Khan-i-Khanan**; statement 2 is false.
-
-**Why:** Only statement 1 is true; statement 2 is false per Ghatnachakra key.
-
-**Trap:** Do not pick Humayun / Only 2.
-
-</details>
-
-**Q6.** Mansabdari: 1. Official nobility started by Akbar 2. Hereditary
-
-A. 1 only
-B. Both
-C. 2 only
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Logic:** Mansabdari started under Akbar; mansab was **not hereditary**.
-
-**Ans: A.** Mansabdari started under Akbar; mansab was **not hereditary**.
-
-**Trap:** Zamindari was hereditary; mansab died with holder or on dismissal.
-
-</details>
-
-**Q7.** A(A): Akbar, like Sher Shah, tried to regulate currency. R(R): Chief copper coin was the Dam.
-
-A. Both true, R explains A
-B. Both true, R not explanation
-C. A true, R false
-D. A false, R true
-
-<details><summary>Show answer</summary>
-
-**A/R logic:** A is true: Akbar continued **Sher Shah's** regulated currency system.
-
-**Ans: A (Both true, R explains A).**
-
-**R is true:** Chief **copper coin** under both was the **Dam**.
-
-**Why R explains A:** Shared **Dam** standard shows **how** Akbar carried forward Sher Shah's regulation.
-
-</details>
-
-**Q8.** Aurangzeb events: 1.Deorai 2.Shuja beaten near Banaras 3.Samugarh 4.Dharmat
-
-Options: A.2-4-3-1 | B.1-3-4-2 | C.3-4-2-1 | D.4-2-1-3
-
-<details><summary>Show answer</summary>
-
-**Logic:** Aurangzeb succession order: Shuja beaten near Banaras → Dharmat (Apr 1658) → Samugarh (May 1658) → Deorai (1659).
-
-**Ans: A.** Shuja beaten near Banaras → Dharmat → Samugarh → Deorai.
-
-**Trap:** Do not start with Samugarh or Deorai — Shuja was beaten first.
-
-</details>
-
-**Q9.** Golkonda 1687 last ruler:
-
-A. Abul Hasan Qutb Shah
-B. Sikandar Adil Shah
-C. Ali Adil Shah II
-D. Shayasta Khan
-
-<details><summary>Show answer</summary>
-
-**Logic:** When Aurangzeb captured **Golkonda in 1687**, the last ruler was **Abul Hasan Qutb Shah**.
-
-**Ans: A.** **Abul Hasan Qutb Shah** was the last Qutb Shah ruler.
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-**Q10.** Canal from restored Rajabwah of Firuz Shah:
-
-A. Shekhnu-Ni
-B. Shahab Nahr
-C. Nahr-i-Bihisht
-D. Nahr-i-Agra
-
-<details><summary>Show answer</summary>
-
-**Logic:** **Nahr-i-Bihisht** in Shahjahanabad drew water from the restored **Firuz Rajabwah**.
-
-**Ans: C.** **Nahr-i-Bihisht** used water from the restored **Firuz Rajabwah**.
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-**Q11.** Kavindra Acharya Saraswati of Banaras patronised by:
-
-A. Shah Jahan
-B. Jahangir
-C. Akbar
-D. Humayun
-
-<details><summary>Show answer</summary>
-
-**Logic:** **Kavindra Acharya Saraswati** of Banaras was patronised by **Shah Jahan**.
-
-**Ans: A.** **Shah Jahan** patronised **Kavindra Acharya Saraswati**.
-
-**Trap:** Music-treatise match: Raga Vibodh = Somanath (not Khusrau).
-
-</details>
-
-**Q12.** Hawkins: 1. Came 1611 as James I envoy 2. Well versed in Turkish
-
-A. Only 1
-B. Only 2
-C. Both
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Logic:** **William Hawkins** reached India in **1608**, not 1611; he was well versed in Turkish.
-
-**Ans: B.** Hawkins arrived **1608**; statement 1 (1611 envoy) is false.
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-**Q13.** Deaths: 1.Abul Fazl murdered 2.Sheikh Mubarak 3.Faizi 4.Daniyal
-
-Options: A.2-1-4-3 | B.3-2-1-4 | C.2-3-1-4 | D.2-4-3-1
-
-<details><summary>Show answer</summary>
-
-**Ans: C (2-3-1-4)** — Mubarak **1593** → Faizi **1595** → Abul Fazl **1602** → Daniyal **1605**.
-
-**Why:** Mubarak dies before Faizi in the Ghatnachakra key.
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-**Q14.** Monuments order: I Rabia Daurani II Sher Shah tomb III Humayun IV Atala Jaunpur
-
-Options: A.I-II-IV-III | B.IV-II-III-I | C.II-I-III-IV | D.III-IV-II-I
-
-<details><summary>Show answer</summary>
-
-**Logic:** Monument order: **Atala Jaunpur** → **Sher Shah Sasaram (1545)** → **Humayun Delhi (1565)** → **Rabia Daurani (1678)**.
-
-**Ans: B.** Atala Jaunpur → Sher Shah → Humayun → Rabia Daurani.
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-**Q15.** Battles: I Sarnal II Bilgram III Dharmat IV Jajau
-
-Options: A.II-I-III-IV | B.II-III-IV-I | C.III-II-I-IV | D.III-I-II-IV
-
-<details><summary>Show answer</summary>
-
-**Logic:** Battle order: **Bilgram/Kannauj (1540)** → **Sarnal (1739)** → **Dharmat (1658)** → **Jajau (1707)**.
-
-**Ans: A.** Bilgram → Sarnal → Dharmat → Jajau.
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-**Q16.** First Battle of Panipat year:
-
-A. 1526
-B. 1527
-C. 1556
-D. 1761
-
-<details><summary>Show answer</summary>
-
-**Logic:** A is the correct fact for this stem.
-
-**Ans: A.**
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-**Q17.** Khanwa 1527 opponent of Babur:
-
-A. Ibrahim Lodi
-B. Rana Sanga
-C. Hemu
-D. Sher Shah
-
-<details><summary>Show answer</summary>
-
-**Logic:** Option B is the keyed fact for this stem.
-
-**Ans: B.**
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-**Q18.** Dahsala is:
-
-A. 10-year average assessment
-B. Hereditary mansab
-C. Copper coin
-D. Victory gate
-
-<details><summary>Show answer</summary>
-
-**Logic:** A is the correct fact for this stem.
-
-**Ans: A.**
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-**Q19.** Din-i-Ilahi started:
-
-A. 1564
-B. 1572
-C. 1582
-D. 1679
-
-<details><summary>Show answer</summary>
-
-**Logic:** C is the correct fact for this stem.
-
-**Ans: C.**
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-**Q20.** Jizya under Akbar / Aurangzeb:
-
-A. Abolished 1564; reimposed 1679
-B. Never abolished
-C. Both kept it throughout
-D. Only Jahangir levied it
-
-<details><summary>Show answer</summary>
-
-**Logic:** A is the correct fact for this stem.
-
-**Ans: A.**
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-**Q21.** Zat vs sawar:
-
-A. Zat = cavalry, sawar = personal rank
-B. Zat = personal rank, sawar = cavalry
-C. Both mean jagir
-D. Both hereditary titles
-
-<details><summary>Show answer</summary>
-
-**Logic:** Option B is the keyed fact for this stem.
-
-**Ans: B.**
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-**Q22.** NOT correctly matched:
-
-A. Hamida Banu — Humayun’s wife
-B. Gulbadan — Babur’s daughter
-C. Hamida Banu — Alauddin Khalji’s wife
-D. Nur Jahan — Jahangir’s wife
-
-<details><summary>Show answer</summary>
-
-**Logic:** **Hamida Banu Begum** was **Humayun's** wife, not **Alauddin Khalji's**.
-
-**Ans: C.** **Hamida Banu** = Humayun's wife.
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-**Q23.** Second Panipat:
-
-A. 1526 Babur–Lodi
-B. 1556 Akbar–Hemu
-C. 1761 Marathas–Abdali
-D. 1658 Dara–Aurangzeb
-
-<details><summary>Show answer</summary>
-
-**Logic:** Option B is the keyed fact for this stem.
-
-**Ans: B.**
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-**Q24.** Fatehpur Sikri was Akbar’s capital roughly:
-
-A. 1526–30
-B. 1571–85
-C. 1631–48
-D. 1686–1707
-
-<details><summary>Show answer</summary>
-
-**Logic:** Option B is the keyed fact for this stem.
-
-**Ans: B.**
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-**Q25.** Abul Fazl wrote:
-
-A. Only Ain-i-Akbari
-B. Akbarnama and Ain-i-Akbari
-C. Only Tuzuk-i-Jahangiri
-D. Padshahnama
-
-<details><summary>Show answer</summary>
-
-**Logic:** Option B is the keyed fact for this stem.
-
-**Ans: B.**
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-**Q26.** Birbal died in:
-
-A. Haldighati
-B. Yusufzai campaign 1586
-C. Samugarh
-D. Golkonda
-
-<details><summary>Show answer</summary>
-
-**Logic:** Option B is the keyed fact for this stem.
-
-**Ans: B.**
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-**Q27.** Raja Man Singh belonged to:
-
-A. Mewar Sisodia
-B. Amber Kachhwaha
-C. Marwar Rathore
-D. Bundela
-
-<details><summary>Show answer</summary>
-
-**Logic:** Option B is the keyed fact for this stem.
-
-**Ans: B.**
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-**Q28.** Sulh-i-Kul means:
-
-A. Jizya collection
-B. Universal peace/tolerance
-C. Hereditary mansab
-D. Deccan tribute
-
-<details><summary>Show answer</summary>
-
-**Logic:** Option B is the keyed fact for this stem.
-
-**Ans: B.**
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-**Q29.** Dara Shikoh is associated with:
-
-A. Majma-ul-Bahrain / Upanishad translation
-B. Founding Din-i-Ilahi
-C. Building Buland Darwaza
-D. Battle of Khanwa
-
-<details><summary>Show answer</summary>
-
-**Logic:** A is the correct fact for this stem.
-
-**Ans: A.**
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-**Q30.** Jahangir’s tomb city:
-
-A. Agra
-B. Delhi
-C. Lahore
-D. Kabul
-
-<details><summary>Show answer</summary>
-
-**Logic:** C is the correct fact for this stem.
-
-**Ans: C.**
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-**Q31.** 1. Daurah is 1658 Dharmat 2. Daurah is 1532 Humayun vs Afghans
-
-A. Only 1
-B. Only 2
-C. Both
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Logic:** Option B is the keyed fact for this stem.
-
-**Ans: B.**
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-**Q32.** Todar Mal is linked to:
-
-A. Qawwali
-B. Zabt and dahsala
-C. Peacock Throne
-D. Golkonda siege
-
-<details><summary>Show answer</summary>
-
-**Logic:** Option B is the keyed fact for this stem.
-
-**Ans: B.**
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-**Q33.** Sir Thomas Roe visited:
-
-A. Babur
-B. Akbar
-C. Jahangir
-D. Aurangzeb
-
-<details><summary>Show answer</summary>
-
-**Logic:** C is the correct fact for this stem.
-
-**Ans: C.**
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-**Q34.** Khalsa land means:
-
-A. Jagir of a mansabdar
-B. Crown/direct imperial land
-C. Waqf only
-D. Inam to poets
-
-<details><summary>Show answer</summary>
-
-**Logic:** Option B is the keyed fact for this stem.
-
-**Ans: B.**
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-**Q35.** Jajau 1707 was fought between:
-
-A. Babur and Sanga
-B. Aurangzeb and Dara
-C. Bahadur Shah I and Azam Shah
-D. Akbar and Hemu
-
-<details><summary>Show answer</summary>
-
-**Logic:** C is the correct fact for this stem.
-
-**Ans: C.**
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-**Q36.** Rahim Khan-i-Khana was:
-
-A. Bairam Khan’s son
-B. Akbar’s brother
-C. Aurangzeb’s wazir
-D. Sher Shah’s diwan
-
-<details><summary>Show answer</summary>
-
-**Logic:** A is the correct fact for this stem.
-
-**Ans: A.**
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-**Q37.** Ibadat Khana is at:
-
-A. Agra Fort only
-B. Fatehpur Sikri
-C. Lahore Fort
-D. Golkonda
-
-<details><summary>Show answer</summary>
-
-**Logic:** Option B is the keyed fact for this stem.
-
-**Ans: B.**
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-**Q38.** 1. Mansab jagirs were often rotated 2. Mansab was strictly hereditary like zamindari
-
-A. Only 1
-B. Only 2
-C. Both
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Logic:** A is the correct fact for this stem.
-
-**Ans: A.**
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-**Q39.** Shah Jahan’s Red Fort canal fact:
-
-A. Nahr-i-Bihisht
-B. Grand Trunk Road
-C. Rajabwah built first by Akbar
-D. Dam canal of Todar Mal
-
-<details><summary>Show answer</summary>
-
-**Logic:** A is the correct fact for this stem.
-
-**Ans: A.**
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-**Q40.** Hemu was defeated at:
-
-A. Panipat I
-B. Panipat II
-C. Khanwa
-D. Samugarh
-
-<details><summary>Show answer</summary>
-
-**Logic:** Option B is the keyed fact for this stem.
-
-**Ans: B.**
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-**Q41.** Faizi died in:
-
-A. 1595
-B. 1602
-C. 1604
-D. 1627
-
-<details><summary>Show answer</summary>
-
-**Logic:** A is the correct fact for this stem.
-
-**Ans: A.**
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-**Q42.** Aurangzeb reimposed jizya in:
-
-A. 1564
-B. 1582
-C. 1679
-D. 1707
-
-<details><summary>Show answer</summary>
-
-**Logic:** C is the correct fact for this stem.
-
-**Ans: C.**
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-**Q43.** Babur’s final burial:
-
-A. Agra only
-B. Delhi
-C. Kabul
-D. Lahore
-
-<details><summary>Show answer</summary>
-
-**Logic:** C is the correct fact for this stem.
-
-**Ans: C.**
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-**Q44.** 1. Din-i-Ilahi was a mass conversion movement 2. It remained a small court circle (1582)
-
-A. Only 1
-B. Only 2
-C. Both
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Logic:** Option B is the keyed fact for this stem.
-
-**Ans: B.**
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-**Q45.** Correct pair:
-
-A. Tuzuk-i-Jahangiri — Turki
-B. Baburnama — Persian original
-C. Tuzuk-i-Jahangiri — Persian
-D. Ain-i-Akbari — Jahangir
-
-<details><summary>Show answer</summary>
-
-**Logic:** C is the correct fact for this stem.
-
-**Ans: C.**
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-**Q46.** A(A): The Mughal Empire was originally a Military State. R(R): Vitality of the central government depended on military power.
-
-A. Both true, R explains A
-B. Both true, R not explanation
-C. A true, R false
-D. A false, R true
-
-<details><summary>Show answer</summary>
-
-**A/R logic:** A is true: The Mughal Empire began as a **military state** (conquest-based power).
-
-**Ans: A (Both true, R explains A).**
-
-**R is true:** Central government's **vitality depended on military power** (mansabdars, jagirs for troops).
-
-**Why R explains A:** Army strength **sustained** the administrative centre.
-
-</details>
-
-**Q47.** Akbar organised about how many subahs?
-
-A. 4
-B. 12
-C. 21
-D. 36
-
-<details><summary>Show answer</summary>
-
-**Ans: B** — Aurangzeb later ~21.
-
-**Why:** Aurangzeb later ~21.
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-**Q48.** Du-aspah sih-aspah is linked to:
-
-A. Babur’s Tulughma
-B. Jahangir’s mansab reform
-C. Sher Shah’s jarib
-D. Shah Jahan’s canal
-
-<details><summary>Show answer</summary>
-
-**Logic:** Option B is the keyed fact for this stem.
-
-**Ans: B.**
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-**Q49.** Hamzanama illustrated project belongs to:
-
-A. Babur
-B. Akbar
-C. Aurangzeb
-D. Bahadur Shah II
-
-<details><summary>Show answer</summary>
-
-**Logic:** Option B is the keyed fact for this stem.
-
-**Ans: B.**
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-**Q50.** Ilahi calendar of Akbar:
-
-A. 1564
-B. 1572
-C. 1584
-D. 1679
-
-<details><summary>Show answer</summary>
-
-**Logic:** C is the correct fact for this stem.
-
-**Ans: C.**
-
-**Trap:** Re-read Confused Pairs before eliminating.
-
-</details>
-
-**Q45.** With reference to Shah Jahan, which of the following is/are correct?
-1. He annexed Ahmadnagar in 1636.
-2. His Balkh campaign of 1646–47 permanently added Central Asian territory to the empire.
-
-A. 1 only
-B. 2 only
-C. Both 1 and 2
-D. Neither 1 nor 2
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Ahmadnagar annexation is real; Balkh advanced then collapsed.
+**Ans: C.** Only 1 and 2 are correct.
 
-**Ans: A.** Only statement 1. Balkh–Badakhshan was a prestige failure.
+**Logic:** Statement 3 confuses Panipat I with Khanwa (1527), where Babur defeated Rana Sanga.
 
 </details>
 
-**Q46.** Arrange Aurangzeb’s succession events:
-1. Deorai
-2. Defeat of Shuja near Banaras
-3. Samugarh
-4. Dharmat
+**Q2.** Consider the following pairs:
 
-A. 2-4-3-1
-B. 4-2-1-3
-C. 2-3-4-1
+| Emperor | Tomb place |
+|---------|------------|
+| 1. Babur | Kabul |
+| 2. Humayun | Delhi |
+| 3. Jahangir | Agra |
+| 4. Shah Jahan | Lahore |
+
+Which of the pairs given above is/are correctly matched?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 4 only
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only Babur–Kabul and Humayun–Delhi are correct.
+
+**Logic:** Jahangir’s tomb is at Lahore; Shah Jahan’s is at Agra — pairs 3 and 4 are swapped.
+
+</details>
+
+**Q3.** Which of the following pairs is/are NOT correctly matched?
+
+1. Zabt — measurement-based cash demand associated with Todar Mal
+2. Dahsala — ten-year average of yield and price (c. 1580–81)
+3. Zat — cavalry obligation of a mansabdar
+
+Select the correct answer from the code given below:
+
+A. 1 only
+B. 3 only
+C. 1 and 2 only
+D. 2 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only pair 3 is not correctly matched.
+
+**Logic:** Zat is personal rank; sawar is cavalry obligation — a classic confused pair.
+
+</details>
+
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Babur wrote the Baburnama (Tuzk-e-Babri) in Chagatai Turki.
+
+Reason (R): Turki was the official language of the Mughal court.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A is true and R is false.
+
+**A/R logic:** Memoir language was Chagatai Turki; Mughal court language was Persian — so R is false.
+
+</details>
+
+**Q5.** Arrange the following battles in chronological order:
+
+1. Kannauj (Bilgram)
+2. Daurah
+3. Samugarh
+4. Chausa
+
+Select the correct answer from the code given below:
+
+A. 4-2-1-3
+B. 2-4-1-3
+C. 2-4-3-1
 D. 4-2-3-1
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Banaras → Dharmat (Apr) → Samugarh (May) → Deorai (1659).
+**Ans: B.** Daurah → Chausa → Kannauj → Samugarh.
 
-**Ans: A.** 2-4-3-1.
-
-**Trap:** Do not insert Jajau — that is 1707.
+**Logic:** Order: Daurah 1532 → Chausa 1539 → Kannauj 1540 → Samugarh 1658. Do not swap Daurah with Dharmat.
 
 </details>
 
-**Q47.** Which one of the following pairs is correctly matched?
+**Q6.** With reference to Akbar’s policies, which of the following statements is/are correct?
 
-A. Bahadur Shah I — last Mughal emperor
-B. Muhammad Shah Rangeela — Nadir Shah’s invasion (1739)
-C. Farrukhsiyar — winner of Jajau (1707)
-D. Bahadur Shah Zafar — Sayyid Brothers’ first nominee
+1. Sulh-i-Kul was a universal peace policy.
+2. Din-i-Ilahi (1582) remained a small court circle.
+3. Akbar abolished jizya in 1564 and Aurangzeb reimposed it in 1679.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Nadir Shah hit Rangeela at Karnal/Delhi in 1739.
+**Ans: D.** All three statements are correct.
 
-**Ans: B.** A confuses Zafar; C is Bahadur Shah I; D is wrong era.
+**Logic:** Sulh-i-Kul ≠ Din-i-Ilahi cult; jizya abolition/reimposition years are standard.
 
 </details>
 
-**Q48.** Consider the following statements about Later Mughals:
-1. The Sayyid Brothers were the leading kingmakers in Farrukhsiyar’s reign.
-2. Bahadur Shah II Zafar was the son of Akbar II.
+**Q7.** Match List-I with List-II and select the correct answer from the code given below:
 
-A. 1 only
-B. 2 only
+| List-I (Battle) | List-II (Year / tag) |
+|-----------------|----------------------|
+| A. Khanwa | 1. 1556 — Akbar–Bairam vs Hemu |
+| B. Second Panipat | 2. 1527 — Babur vs Rana Sanga |
+| C. Dharmat | 3. Apr 1658 — Aurangzeb vs Jaswant Singh |
+| D. Jajau | 4. 1707 — Bahadur Shah I vs Azam |
+
+*Row order is not the answer code.*
+
+A. A-2, B-1, C-3, D-4
+B. A-1, B-2, C-4, D-3
+C. A-2, B-3, C-1, D-4
+D. A-3, B-1, C-2, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Khanwa 1527; Second Panipat 1556; Dharmat Apr 1658; Jajau 1707.
+
+**Logic:** Do not confuse Dharmat (Jaswant Singh) with Samugarh (Dara, May 1658).
+
+</details>
+
+**Q8.** With reference to the Battle of Khanwa (1527), consider Cause–Course–Result:
+
+1. Cause: Rana Sanga led a Rajput confederacy after Panipat.
+2. Course: Babur again used artillery and cart-fort methods.
+3. Result: The early Rajput challenge to Mughal power in the Agra–Delhi core was broken.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three Cause–Course–Result statements are correct.
+
+**Logic:** Khanwa is Babur vs Sanga — never pair Pratap with Khanwa.
+
+</details>
+
+**Q9.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Buland Darwaza at Fatehpur Sikri commemorates Akbar’s Gujarat victory of 1572.
+
+Reason (R): It was built to mark the birth of Jahangir.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A is true and R is false.
+
+**A/R logic:** The gate commemorates Gujarat 1572; Jahangir-birth motive is the classic false reason.
+
+</details>
+
+**Q10.** With reference to Bairam Khan, which of the following statements is/are correct?
+
+1. Akbar conferred on him the title Khan-i-Khana.
+2. The title was conferred only when he was first appointed Vazir under Humayun.
+
+Select the correct answer from the code given below:
+
+A. Only 1
+B. Only 2
 C. Both 1 and 2
 D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Sayyids peak under Farrukhsiyar; Zafar = son of Akbar II.
+**Ans: A.** Only statement 1 is correct.
 
-**Ans: C.** Both correct.
+**Logic:** Khan-i-Khana from Akbar is true; the ‘only when appointed Vazir’ claim is false.
 
 </details>
 
----
+**Q11.** Consider the following statements about mansabdari:
+
+1. It used dual ranks of zat and sawar.
+2. Mansabs were hereditary like jagir succession in all cases.
+3. Jagir lands were assigned to mansabdars, while khalsa was crown land.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 3 are correct.
+
+**Logic:** Mansabdari was not hereditary — statement 2 is the trap.
+
+</details>
+
+**Q12.** Arrange the following court-related deaths/events in chronological order:
+
+1. Murder of Abul Fazl
+2. Death of Faizi
+3. Death of Sheikh Mubarak
+4. Death of Daniyal
+
+Select the correct answer from the code given below:
+
+A. 2-3-1-4
+B. 3-2-1-4
+C. 3-2-4-1
+D. 3-1-2-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Sheikh Mubarak → Faizi → Abul Fazl (1602) → Daniyal.
+
+**Logic:** Must-score court order: Mubarak 1593 → Faizi 1595 → Abul Fazl 1602 → Daniyal 1605.
+
+</details>
+
+**Q13.** With reference to Aurangzeb’s war of succession, which of the following statements is/are correct?
+
+1. At Dharmat (April 1658) Aurangzeb defeated Jaswant Singh.
+2. At Samugarh (May 1658) Aurangzeb defeated Dara Shikoh.
+3. Deorai (1659) closed the succession struggle.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three statements are correct.
+
+**Logic:** Succession spine: Shuja near Banaras → Dharmat → Samugarh → Deorai.
+
+</details>
+
+**Q14.** Which of the following pairs is/are NOT correctly matched?
+
+1. Alam Khan — Ibrahim Lodi’s uncle and throne pretender
+2. Daulat Khan — Punjab governor who invited Babur
+3. Padshah title of Babur — first taken only after Panipat 1526
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 3 only
+C. 2 and 3 only
+D. 1 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only pair 3 is not correctly matched.
+
+**Logic:** Babur took Padshah at Kabul (1504); Indian empire proclamation after Panipat is separate.
+
+</details>
+
+**Q15.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): At the Second Battle of Panipat (1556), Akbar and Bairam Khan defeated Hemu.
+
+Reason (R): Victory at Second Panipat secured the young Akbar’s throne after Humayun’s death.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both A and R are true and R correctly explains A.
+
+**A/R logic:** Cause–result link: Hemu’s challenge after Humayun’s death was broken at Second Panipat.
+
+</details>
+
+**Q16.** With reference to Mughal coinage continued from Sher Shah, which of the following statements is/are correct?
+
+1. Rupiya was the silver coin.
+2. Dam was copper, roughly 1/40 of a rupiya.
+3. Mohur was the gold coin.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three statements are correct.
+
+**Logic:** Akbar continued Sher Shah’s rupiya–dam–mohur system.
+
+</details>
+
+**Q17.** Consider the following statements about Abul Fazl and related works:
+
+1. Abul Fazl wrote Akbarnama and Ain-i-Akbari.
+2. Abdur Rahim Khan-i-Khana translated Baburnama into Persian.
+3. Ain-i-Akbari is only a narrative chronicle and has no administrative gazetteer character.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Akbarnama = narrative; Ain-i-Akbari = admin gazetteer — statement 3 reverses that.
+
+</details>
+
+**Q18.** With reference to European visitors under Jahangir, which of the following statements is/are correct?
+
+1. William Hawkins reached the court around 1608 and could speak Turkish.
+2. Sir Thomas Roe stayed as ambassador about 1615–19.
+
+Select the correct answer from the code given below:
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both statements are correct.
+
+**Logic:** Hawkins (trader-envoy) precedes Roe (formal ambassador) — do not swap years.
+
+</details>
+
+**Q19.** Consider Cause–Course–Result for Aurangzeb’s Deccan annexations:
+
+1. Cause: Prolonged Deccan campaigns against Bijapur and Golkonda.
+2. Course: Bijapur fell in 1686 and Golkonda in 1687.
+3. Result: The last Qutb Shah ruler was Abul Hasan Qutb Shah.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All three statements are correct.
+
+**Logic:** Do not confuse Deccan annexation success with Shah Jahan’s Balkh failure (1646–47).
+
+</details>
+
+**Q20.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Dara Shikoh wrote Majma-ul-Bahrain and Sirr-i-Akbar.
+
+Reason (R): Aurangzeb had Dara killed in 1659 after winning the succession war.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both A and R are true, but R does not explain A.
+
+**A/R logic:** A is about Dara’s syncretic scholarship; R is about his political fate — related timeline, not causal explanation of the books.
+
+</details>
+
+**Q21.** With reference to Later Mughals, which of the following statements is/are correct?
+
+1. Bahadur Shah I defeated Azam Shah at Jajau in 1707.
+2. Muhammad Shah Rangeela faced Nadir Shah’s invasion culminating at Karnal (1739).
+3. Bahadur Shah II Zafar was the last Mughal emperor associated with 1857.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three statements are correct.
+
+**Logic:** Do not confuse Bahadur Shah I (1707) with Zafar (last emperor).
+
+</details>
+
+**Q22.** Match List-I with List-II and select the correct answer from the code given below:
+
+| List-I | List-II |
+|--------|---------|
+| A. Hamida Banu | 1. Wrote Humayunnama |
+| B. Gulbadan | 2. Humayun’s wife |
+| C. Kavindra Acharya Saraswati | 3. Patronised by Shah Jahan |
+| D. Nahr-i-Bihisht | 4. Shahjahanabad canal drawing on Firuz’s Rajabwah |
+
+*Row order is not the answer code.*
+
+A. A-2, B-1, C-3, D-4
+B. A-1, B-2, C-4, D-3
+C. A-2, B-3, C-1, D-4
+D. A-3, B-1, C-2, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Hamida Banu–wife; Gulbadan–Humayunnama; Kavindra–Shah Jahan; Nahr-i-Bihisht–canal.
+
+**Logic:** Keep woman/author/patron/canal tags distinct.
+
+</details>
+
+**Q23.** With reference to Humayun’s conflicts with Sher Shah, which of the following statements is/are correct?
+
+1. At Chausa (1539) Humayun was defeated and escaped across the Ganga.
+2. At Kannauj/Bilgram (1540) Sher Shah won decisively and Humayun went into exile.
+3. Daurah (1532) was the same battle as Chausa under another name.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Daurah 1532 was Humayun vs Afghan chiefs — not Chausa.
+
+</details>
+
+**Q24.** Consider the following statements:
+
+1. Akbar organised about 12 subahs; under Aurangzeb the empire reached about 21 subahs.
+2. Fatehpur Sikri served as capital roughly 1571–85; Allahabad fort dates to 1583.
+
+Which of the statements given above is/are correct?
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both statements are correct.
+
+**Logic:** Admin expansion and Sikri–Allahabad tags are both must-score.
+
+</details>
+
+**Q25.** Which one of the following correctly describes Panipat III in relation to the Mughal battle set?
+
+A. 1526 Babur vs Ibrahim Lodi
+B. 1556 Akbar–Bairam vs Hemu
+C. 1761 Marathas vs Ahmad Shah Abdali
+D. 1707 Bahadur Shah I vs Azam Shah
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Panipat III (1761) is Marathas vs Abdali.
+
+**Logic:** Panipat I/II are Mughal foundation battles; Jajau is not a Panipat battle.
+
+</details>
+
+**Q26.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Mansabdari used hereditary transfer of zat–sawar ranks as the normal rule.
+
+Reason (R): Jagir was assigned revenue land for mansabdars, while khalsa remained crown land.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** A is false and R is true.
+
+**A/R logic:** Mansabs were not hereditary; jagir/khalsa distinction in R is correct.
+
+</details>
+
+**Q27.** With reference to Akbar’s Rajput and religious policy, which of the following statements is/are correct?
+
+1. Many Rajput houses entered mansabdari alliances under Akbar.
+2. Sulh-i-Kul aimed at universal peace rather than a mass new religion.
+
+Select the correct answer from the code given below:
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both statements are correct.
+
+**Logic:** Do not collapse Sulh-i-Kul into Din-i-Ilahi.
+
+</details>
+
+**Q28.** Arrange the following in chronological order:
+
+1. First Battle of Panipat
+2. Battle of Ghagra
+3. Battle of Khanwa
+4. Battle of Chanderi
+
+Select the correct answer from the code given below:
+
+A. 1-3-4-2
+B. 1-4-3-2
+C. 1-3-2-4
+D. 3-1-4-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Panipat 1526 → Khanwa 1527 → Chanderi 1528 → Ghagra 1529.
+
+**Logic:** Babur’s early battle ladder is year-tight — keep Chanderi before Ghagra.
+
+</details>
+
+**Q29.** Consider the following pairs:
+
+| Term | Description |
+|------|-------------|
+| 1. Chagatai Turks | Mughal ethnic line linked to Chinggis’s second son |
+| 2. Timurid claim | Legitimacy through Timur’s descent |
+| 3. Court language under later Mughals | Chagatai Turki only |
+
+Which of the pairs given above is/are correctly matched?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correctly matched.
+
+**Logic:** Court language was Persian — pair 3 is false.
+
+</details>
+
+**Q30.** With reference to Shah Jahan’s Balkh episode versus Aurangzeb’s Deccan success, which of the following statements is/are correct?
+
+1. Shah Jahan’s Balkh–Badakhshan venture (1646–47) was a prestige failure.
+2. Aurangzeb annexed Bijapur (1686) and Golkonda (1687).
+
+Select the correct answer from the code given below:
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both statements are correct.
+
+**Logic:** Confused pair: Balkh failure vs Deccan annexation — do not treat them as the same outcome.
+
+</details>
 
 ## Common Traps — Don't Fall For These
 

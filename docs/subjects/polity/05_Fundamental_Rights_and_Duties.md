@@ -6570,382 +6570,194 @@ D. 3 1 4 2
 
 ## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden.56 questions.** Full stems with multi-line options. Mix asked PYQ patterns with standard coaching angles.
+> **Answers hidden.** **30 questions** in UPPCS 2024–25 format. ≥60% multi-statement/application. Includes A/R, Match List, chronology/arrange, and NOT-matched. Drawn from Consolidated Must-Score Facts and Confused Pairs — original stems, not verbatim past papers.
 
-**Q1.** Consider the following statements regarding Fundamental Rights:
-1. They are contained in Part III (Articles 12–35).
-2. Every Fundamental Right is available to citizens as well as foreigners.
-3. Fundamental Rights are justiciable.
-How many of the above statements are correct?
-A. Only one
-B. Only two
-C. All three
-D. None
+**Q1.** With reference to Fundamental Rights, consider the following statements:
+1. Part III originally had seven groups of Fundamental Rights.
+2. After the 44th Amendment removed the Right to Property, six groups remain.
+3. Part III rights are non-justiciable.
 
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: B** — 1 and 3 are correct; some FRs (e.g. Arts. 15, 16, 19) are for **citizens only**.
-
-</details>
-
-**Q2.** With reference to Article 14, which of the following statements is/are correct?
-1. “Equality before law” is of British origin; “equal protection of laws” is of American origin.
-2. Article 14 is available to citizens only.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
+**Ans: B.** Only 1 and 2 are correct.
 
-**Ans: A** — Art. 14 protects **any person**, citizen or foreigner.
+**Logic:** Fundamental Rights are justiciable; property exit via 44th left six groups.
 
 </details>
 
-**Q3.Assertion (A):** The State may make special provisions for women and children.
-
-**Reason (R):** Article 15(3) is an enabling exception to the rule against discrimination.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
+**Q2.** Which of the following pairs is NOT correctly matched?
+A. Articles 15, 16, 19, 29, 30 — citizens only
+B. Articles 14, 20, 21, 22 — all persons
+C. Article 19 — available to foreigners also
+D. Article 32 — available to all persons
 
 <details>
 <summary>Show answer</summary>
 
+**Ans: C.** Article 19 freedoms are for citizens only.
 
-**Ans: A**
+**Logic:** Citizens-only vs all-persons map is the core confused pair.
 
 </details>
 
-**Q4.** Match List-I with List-II and select the correct answer using the code below:
+**Q3.** Match List-I with List-II:
 
 **List-I**
 
 | Code | Item |
 |------|------|
 | A | Article 17 |
-| B | Article 18 |
-| C | Article 23 |
-| D | Article 24 |
+| B | Articles 23–24 |
+| C | Article 21A |
+| D | Article 300A |
 
 **List-II**
 
 | Code | Item |
 |------|------|
-| 1 | Prohibition of traffic in human beings & forced labour |
-| 2 | Abolition of untouchability |
-| 3 | Abolition of titles |
-| 4 | Prohibition of child labour in hazardous work |
+| 1 | RTE ages 6–14 |
+| 2 | Untouchability |
+| 3 | Legal right to property |
+| 4 | Rights against exploitation |
 
 > Note: Row order in the tables is **not** the answer.
 
-
-Select the correct answer using the code given below:
-A. A-2, B-3, C-1, D-4
-B. A-3, B-2, C-1, D-4
-C. A-2, B-3, C-4, D-1
-D. A-1, B-3, C-2, D-4
-
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: A** — 17-untouchability, 18-titles, 23-traffic/forced labour, 24-child labour.
-
-</details>
-
-**Q5.** Which of the following are grounds of discrimination prohibited under Article 15(1)?
-1. Religion
-2. Race
-3. Caste
-4. Place of residence
-How many of the above are correct?
-A. Only two
-B. Only three
-C. All four
-D. Only one
-
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: B** — religion, race, caste (also sex & place of birth). **Place of residence** is **not** in 15(1).
-
-</details>
-
-**Q6.** With reference to the right to property, which of the following is/are correct?
-1. The 44th Amendment deleted Article 19(1)(f).
-2. Property is now a legal right under Article 300A in Part XII.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: C**
-
-</details>
-
-**Q7.** Match List-I with List-II and select the correct answer using the code given below the lists:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | 19(1)(a) |
-| B | 19(1)(b) |
-| C | 19(1)(c) |
-| D | 19(1)(d) |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Form associations or unions |
-| 2 | Move freely throughout India |
-| 3 | Assemble peaceably and without arms |
-| 4 | Speech and expression |
-
-> Note: Row order in the tables is **not** the answer.
-
-
-Select the correct answer using the code given below:
-A. A-4, B-3, C-1, D-2
-B. A-4, B-1, C-3, D-2
-C. A-1, B-3, C-4, D-2
-D. A-4, B-3, C-2, D-1
-
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: A**
-
-</details>
-
-**Q8.** Consider the following statements about Article 19:
-1. It is available to citizens only.
-2. The six freedoms are absolute.
-3. Restrictions on freedom of speech are “reasonable” and fall under Article 19(2).
-How many of the above statements are correct?
-A. Only one
-B. Only two
-C. All three
-D. None
-
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: B** — 1 and 3; the freedoms are **not** absolute.
-
-</details>
-
-**Q9.** With reference to Article 20, which of the following statements is/are correct?
-1. No person shall be convicted under an ex post facto criminal law.
-2. No person shall be prosecuted and punished for the same offence more than once.
-3. No accused shall be compelled to be a witness against himself.
-How many of the above statements are correct?
-A. Only one
-B. Only two
-C. All three
-D. None
-
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: C** — all three (20(1), 20(2), 20(3)).
-
-</details>
-
-**Q10.Assertion (A):** Article 21 is available to foreigners residing in India.
-
-**Reason (R):** Article 21 uses the word “person”, not “citizen”.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: A**
-
-</details>
-
-**Q11.** Consider the following cases and arrange them in correct **chronological order**:
-1. A.K. Gopalan
-2. Maneka Gandhi
-3. Kesavananda Bharati
-4. K.S. Puttaswamy
-Select the correct answer using the code given below:
-A. 1 – 2 – 3 – 4
-B. 1 – 3 – 2 – 4
-C. 3 – 1 – 2 – 4
-D. 1 – 3 – 4 – 2
-
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: B** — Gopalan (1950), Kesavananda (1973), Maneka (1978), Puttaswamy (2017).
-
-</details>
-
-**Q12.** With reference to the Right to Education, which of the following statements is/are correct?
-1. Article 21A was inserted by the 86th Amendment (2002).
-2. Article 21A covers children aged 6 to 14 years.
-3. After the amendment, Article 45 covers early childhood care for children below 6.
-How many of the above statements are correct?
-A. Only one
-B. Only two
-C. All three
-D. None
-
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: C**
-
-</details>
-
-**Q13.** With reference to Article 22, which of the following statements is/are correct?
-1. The protections in 22(1)–(2) are available to persons under preventive detention.
-2. An arrested person must be produced before a magistrate within 24 hours (excluding journey time).
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: B** — 22(1)–(2) do **not** apply to preventive detenus.
-
-</details>
-
-**Q14.** Which of the following pairs are **NOT** correctly matched?
-1. Article 17 — Abolition of untouchability
-2. Article 18 — Right to constitutional remedies
-3. Article 24 — Prohibition of child labour in hazardous employment
-Select the correct answer using the code given below:
-A. Only 2
-B. 1 and 2
-C. 2 and 3
-D. Only 3
-
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: A** — Article 18 is **abolition of titles**, not constitutional remedies.
-
-</details>
-
-**Q15.** Match List-I (Amendment) with List-II (Effect on Part III) and select the correct answer:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | 42nd Amendment |
-| B | 44th Amendment |
-| C | 86th Amendment |
-| D | 103rd Amendment |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Right to property removed from Part III |
-| 2 | Added Fundamental Duties |
-| 3 | EWS reservation (15(6)/16(6)) |
-| 4 | Right to Education (21A) |
-
-> Note: Row order in the tables is **not** the answer.
-
-
-Select the correct answer using the code given below:
-A. A-2, B-1, C-4, D-3
-B. A-1, B-2, C-4, D-3
-C. A-2, B-1, C-3, D-4
+A. A-4, B-2, C-1, D-3
+B. A-2, B-1, C-4, D-3
+C. A-2, B-4, C-3, D-1
 D. A-2, B-4, C-1, D-3
 
-
 <details>
 <summary>Show answer</summary>
 
+**Ans: D.** A-2, B-4, C-1, D-3 is correct.
 
-**Ans: A**
-
-</details>
-
-**Q16.** Consider the following and identify how many are **NOT** Fundamental Duties:
-1. To pay taxes
-2. To protect and improve the natural environment
-3. To protect monuments of national importance
-How many of the above are **NOT** Fundamental Duties?
-A. Only one
-B. Only two
-C. All three
-D. None
-
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: B** — paying taxes and protecting monuments (Art. 49 DPSP) are **not** duties; environment (51A(g)) is.
+**Logic:** 17 untouchability; 23–24 exploitation; 21A RTE; 300A property legal right.
 
 </details>
 
-**Q17.Assertion (A):** Directive Principles cannot be enforced by any court.
+**Q4.** Consider the following Assertion and Reason:
 
-**Reason (R):** Article 37 declares them fundamental in the governance of the country.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+Assertion (A): Article 32 is called the heart and soul of the Constitution.
+
+Reason (R): Article 32 provides the Supreme Court remedy for enforcement of Fundamental Rights.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A).
 
-**Ans: B** — both true, but R is a **separate** clause of Art. 37, not the reason for non-enforceability.
+**A/R logic:** Ambedkar’s tag is tied to the FR enforcement remedy under Article 32.
 
 </details>
 
-**Q18.** Match List-I with List-II and select the correct answer using the code given below the lists:
+**Q5.** With reference to Article 19, which of the following statements is/are correct?
+1. It currently guarantees six freedoms to citizens.
+2. The old property freedom under 19(1)(f) was deleted by the 44th Amendment.
+3. Article 19 freedoms are available to all persons including foreigners.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** 19 is citizens-only; property moved to 300A after 44th.
+
+</details>
+
+**Q6.** Arrange the following in chronological order of insertion/change:
+1. Fundamental Duties added (42nd Amendment)
+2. Right to Education as Article 21A (86th Amendment)
+3. Deletion of Right to Property as a Fundamental Right (44th Amendment)
+
+A. 1 – 2 – 3
+B. 1 – 3 – 2
+C. 3 – 1 – 2
+D. 2 – 1 – 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** 42nd (1976) → 44th (1978) → 86th (2002 teaching).
+
+**Logic:** Duties first; property exit next; 21A later.
+
+</details>
+
+**Q7.** Consider the following statements about Article 20:
+1. It protects against ex post facto criminal law.
+2. It protects against double jeopardy.
+3. It alone exhaustively covers torture and privacy questions.
+
+A. 2 and 3 only
+B. 1 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2 are correct.
+
+**Logic:** Torture/privacy are not solved only by Article 20; life/liberty/privacy map sits mainly with 21.
+
+</details>
+
+**Q8.** Which of the following pairs is/are NOT correctly matched?
+1. Prohibition — before the decision
+2. Certiorari — after the decision to quash
+3. Mandamus — lies against the President in the usual teaching fact
+
+A. 1 only
+B. 1 and 2 only
+C. 2 and 3 only
+D. 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only pair 3 is NOT correctly matched.
+
+**Logic:** Mandamus does not run against the President or a Governor in the usual fact.
+
+</details>
+
+**Q9.** With reference to Articles 358 and 359, which of the following is/are correct?
+1. Article 358 automatically suspends Article 19 freedoms during a National Emergency (subject to later refinements).
+2. Article 359 can suspend enforcement of other rights by order.
+3. Articles 20 and 21 can be suspended under Article 359.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** 20 and 21 cannot be suspended.
+
+</details>
+
+**Q10.** Match List-I (DPSP) with List-II:
 
 **List-I**
 
@@ -6953,871 +6765,422 @@ D. (A) is false, but (R) is true
 |------|------|
 | A | Article 40 |
 | B | Article 44 |
-| C | Article 48A |
-| D | Article 50 |
+| C | Article 50 |
+| D | Article 43B |
 
 **List-II**
 
 | Code | Item |
 |------|------|
 | 1 | Uniform Civil Code |
-| 2 | Organisation of Village Panchayats |
-| 3 | Separation of judiciary from executive |
-| 4 | Protection and improvement of environment |
+| 2 | Village panchayats |
+| 3 | Cooperatives |
+| 4 | Separation of judiciary from executive |
 
 > Note: Row order in the tables is **not** the answer.
 
-
-Select the correct answer using the code given below:
-A. A-2, B-1, C-4, D-3
-B. A-2, B-1, C-3, D-4
-C. A-1, B-2, C-4, D-3
-D. A-2, B-4, C-1, D-3
-
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: A**
-
-</details>
-
-**Q19.** Which of the following pairs are **NOT** correctly matched?
-1. Article 43A — Participation of workers in management
-2. Article 43B — Promotion of cottage industries
-3. Article 47 — Prohibition of intoxicating drinks
-Select the correct answer using the code given below:
-A. Only 2
-B. 1 and 3
-C. 2 and 3
-D. Only 1
-
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: A** — Article 43B = **promotion of co-operative societies**, not cottage industries (that is Art. 43).
-
-</details>
-
-**Q20.** Arrange the following in correct **chronological order**:
-1. *Champakam Dorairajan* case
-2. 25th Amendment (Article 31C)
-3. 42nd Amendment
-4. *Minerva Mills* case
-Select the correct answer using the code given below:
-A. 1 – 2 – 3 – 4
-B. 1 – 3 – 2 – 4
-C. 2 – 1 – 3 – 4
-D. 1 – 2 – 4 – 3
-
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: A** — 1951, 1971, 1976, 1980.
-
-</details>
-
-**Q21.** With reference to Article 31C, which of the following statements is/are correct?
-1. The 25th Amendment inserted Article 31C to protect laws implementing Article 39(b) and (c).
-2. The 42nd Amendment extended the protection of Article 31C to all Directive Principles.
-3. In *Minerva Mills*, the Supreme Court struck down this extension.
-How many of the above statements are correct?
-A. Only one
-B. Only two
-C. All three
-D. None
-
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: C**
-
-</details>
-
-**Q22.** With reference to Article 12, which of the following statements is/are correct?
-1. Article 12 defines the term “State”.
-2. The judiciary, while exercising its judicial functions, is included in “State”.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: A** — “Other authorities” are included; the judiciary in its **judicial** role is generally not “State”.
-
-</details>
-
-**Q23.** Consider the following statements:
-1. The term “untouchability” is not defined in the Constitution.
-2. Article 17 is enforceable even against private individuals.
-Which of the above is/are correct?
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: C**
-
-</details>
-
-**Q24.** How many of the following are exceptions to the rule of equality under Article 14?
-1. Immunity of the President and Governors (Art. 361)
-2. Parliamentary privileges for votes/speech in the House
-3. Immunity enjoyed by foreign diplomats
-A. Only one
-B. Only two
-C. All three
-D. None
-
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: C**
-
-</details>
-
-**Q25.Assertion (A):** The 86th Amendment did not remove the right to property from Part III.
-
-**Reason (R):** The right to property was removed from Part III by the 44th Amendment.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: A**
-
-</details>
-
-**Q26.** Arrange the following landmark cases in correct **chronological order**:
-1. *Champakam Dorairajan*
-2. *Indra Sawhney*
-3. *Kesavananda Bharati*
-Select the correct answer using the code given below:
-A. 1 – 2 – 3
-B. 1 – 3 – 2
-C. 3 – 1 – 2
-D. 2 – 1 – 3
-
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: B** — 1951, 1973, 1992.
-
-</details>
-
-**Q27.** Match List-I (Case) with List-II (Principle) and select the correct answer:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | *Kesavananda Bharati* |
-| B | *Maneka Gandhi* |
-| C | *K.S. Puttaswamy* |
-| D | *Vishaka* |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Right to privacy |
-| 2 | Basic structure doctrine |
-| 3 | Guidelines against sexual harassment |
-| 4 | Due process read into Article 21 |
-
-> Note: Row order in the tables is **not** the answer.
-
-
-Select the correct answer using the code given below:
-A. A-2, B-4, C-1, D-3
+A. A-1, B-2, C-3, D-4
 B. A-2, B-1, C-4, D-3
-C. A-4, B-2, C-1, D-3
-D. A-2, B-4, C-3, D-1
-
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: A**
-
-</details>
-
-**Q28.** Which of the following pairs are **NOT** correctly matched?
-1. Article 19(1)(a) — Freedom of speech and expression
-2. Article 19(1)(g) — Right to property
-3. Article 19(1)(c) — Freedom to form associations
-Select the correct answer using the code given below:
-A. Only 2
-B. 1 and 2
-C. 2 and 3
-D. Only 3
-
+C. A-2, B-4, C-1, D-3
+D. A-2, B-1, C-3, D-4
 
 <details>
 <summary>Show answer</summary>
 
+**Ans: B.** A-2, B-1, C-4, D-3 is correct.
 
-**Ans: A** — 19(1)(g) is **profession/occupation/trade/business**; property (old 19(1)(f)) was deleted.
-
-</details>
-
-**Q29.** With reference to the EWS reservation, which of the following statements is/are correct?
-1. It was introduced by the 103rd Amendment (2019) via Articles 15(6) and 16(6).
-2. It is provided over and above the existing 50% ceiling.
-3. It was upheld in *Janhit Abhiyan* (2022).
-How many of the above statements are correct?
-A. Only one
-B. Only two
-C. All three
-D. None
-
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: C**
+**Logic:** 40 panchayats; 44 UCC; 50 separation; 43B cooperatives.
 
 </details>
 
-**Q30.Assertion (A):** A citizen cannot waive his Fundamental Rights.
+**Q11.** Consider the following Assertion and Reason:
 
-**Reason (R):** Fundamental Rights are conferred in the larger public interest, not merely for individual benefit.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+Assertion (A): Directive Principles are non-justiciable.
+
+Reason (R): Directive Principles were borrowed in form from Ireland.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: A** — *Basheshar Nath* (1959).
-
-</details>
-
-**Q31.** Match List-I (Doctrine) with List-II (Meaning) and select the correct answer:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | Eclipse |
-| B | Severability |
-| C | Waiver |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Only the inconsistent part of a law is void |
-| 2 | A pre-Constitution law becomes dormant, not dead |
-| 3 | FRs cannot be surrendered by an individual |
-
-> Note: Row order in the tables is **not** the answer.
-
-
-Select the correct answer using the code given below:
-A. A-2, B-1, C-3
-B. A-1, B-2, C-3
-C. A-2, B-3, C-1
-D. A-3, B-1, C-2
-
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
+**Ans: A.** Both (A) and (R) are true, but (R) is not the correct explanation of (A).
 
-**Ans: A**
+**A/R logic:** Non-justiciability is Article 37; Irish source explains origin, not why courts cannot enforce them.
 
 </details>
 
-**Q32.** With reference to Articles 358 and 359, which of the following statements is/are correct?
-1. On a National Emergency due to war/external aggression, Article 19 is automatically suspended.
-2. Articles 20 and 21 can never be suspended even during an Emergency.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
+**Q12.** Consider the following statements about Fundamental Duties:
+1. They sit in Part IVA, Article 51A.
+2. They bind citizens.
+3. Originally ten duties were added by the 42nd Amendment; the eleventh came with the 86th.
 
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 3 only
 
 <details>
 <summary>Show answer</summary>
 
+**Ans: C.** All three statements are correct.
 
-**Ans: C**
+**Logic:** Part IVA / citizens / 10+1 map.
 
 </details>
 
-**Q33.** Match List-I (Writ) with List-II (Function) and select the correct answer:
+**Q13.** With reference to Articles 29 and 30, which of the following is/are correct?
+1. Article 29 protects culture of any section of citizens.
+2. Article 30 protects minorities’ educational institutions.
+3. Article 30 exhaustively defines ‘minority’ in the constitutional text.
+
+A. 2 and 3 only
+B. 1 only
+C. 1, 2 and 3
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2 are correct.
+
+**Logic:** Minority is not exhaustively defined in the text.
+
+</details>
+
+**Q14.** Arrange the following rights-history markers in chronological order:
+1. Tilak’s Swaraj Bill demand spine (1895 teaching)
+2. Nehru Report
+3. Karachi Resolution
+
+A. 1 – 2 – 3
+B. 2 – 1 – 3
+C. 1 – 3 – 2
+D. 3 – 2 – 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** 1895 → 1928 → 1931.
+
+**Logic:** Pre-1950 FR demand spine in Must-Score.
+
+</details>
+
+**Q15.** Which one of the following pairs is NOT correctly matched?
+A. Article 43A — workers’ participation in management
+B. Article 48 — separation of judiciary from executive
+C. Article 43B — cooperatives
+D. Article 48A — environment
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Separation of judiciary is Article 50; Article 48 is cattle/agriculture.
+
+**Logic:** 48 vs 50 and 43A vs 43B are classic DPSP traps.
+
+</details>
+
+**Q16.** With reference to Article 22, consider the following statements:
+1. Ordinary arrest needs production before a magistrate within 24 hours.
+2. Preventive detention has a separate constitutional code.
+3. Article 22 applies only to citizens.
+
+A. 2 and 3 only
+B. 1 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2 are correct.
+
+**Logic:** Article 22 is available to all persons.
+
+</details>
+
+**Q17.** Consider the following Assertion and Reason:
+
+Assertion (A): Privacy is a Fundamental Right.
+
+Reason (R): Puttaswamy (2017) treated privacy as a Fundamental Right under the life and liberty framework.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A).
+
+**A/R logic:** Privacy FR status is anchored in Puttaswamy reading of Article 21.
+
+</details>
+
+**Q18.** Consider the following statements about religion cluster Articles 25–28:
+1. Article 25 includes the right to propagate religion.
+2. Article 27 bars a tax for promotion of a religion.
+3. A regulatory fee is treated as identical to a tax under Article 27.
+
+A. 2 and 3 only
+B. 1 only
+C. 1, 2 and 3
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2 are correct.
+
+**Logic:** Tax vs regulatory fee is a deliberate confused pair.
+
+</details>
+
+**Q19.** With reference to reservation / special provisions, which of the following is/are correct?
+1. Article 15(5) is linked to the 93rd Amendment.
+2. Articles 15(6)/16(6) are linked to the 103rd Amendment (EWS).
+3. Article 17 abolishes titles such as Bharat Ratna.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Article 17 is untouchability; Bharat Ratna is not a ‘title’ under Article 18 teaching.
+
+</details>
+
+**Q20.** Match List-I (writ) with List-II (idea):
 
 **List-I**
 
 | Code | Item |
 |------|------|
 | A | Habeas Corpus |
-| B | Mandamus |
-| C | Quo Warranto |
+| B | Quo Warranto |
+| C | Prohibition |
 | D | Certiorari |
 
 **List-II**
 
 | Code | Item |
 |------|------|
-| 1 | Command to perform a public duty |
-| 2 | By what authority a public office is held |
-| 3 | To produce a detained person before the court |
-| 4 | To quash an order already passed |
+| 1 | Before decision — stop lower court/tribunal |
+| 2 | Produce the person / test detention |
+| 3 | After decision — quash |
+| 4 | Illegal occupation of public office |
 
 > Note: Row order in the tables is **not** the answer.
 
-
-Select the correct answer using the code given below:
-A. A-3, B-1, C-2, D-4
-B. A-3, B-2, C-1, D-4
-C. A-1, B-3, C-2, D-4
-D. A-3, B-1, C-4, D-2
-
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: A**
-
-</details>
-
-**Q34.** With reference to Articles 32 and 226, which of the following is/are correct?
-1. Article 226 is wider than Article 32.
-2. Article 32 can be invoked for the enforcement of any legal right.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: A** — Article 32 is confined to **Fundamental Rights**; Article 226 covers FRs **and other legal rights**.
-
-</details>
-
-**Q35.** Which of the following writs can be issued against **judicial or quasi-judicial** bodies?
-1. Prohibition
-2. Certiorari
-3. Mandamus
-4. Quo Warranto
-How many of the above are correct?
-A. Only one
-B. Only two
-C. Only three
-D. All four
-
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: B** — Prohibition (before) and Certiorari (after).
-
-</details>
-
-**Q36.Assertion (A):** The writ of Habeas Corpus can be issued against a private individual.
-
-**Reason (R):** The writ is meant to test the legality of a person’s detention.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: A**
-
-</details>
-
-**Q37.** Which of the following pairs are **NOT** correctly matched?
-1. Mandamus — can be issued against the President in his personal capacity
-2. Certiorari — quashes an order after it is passed
-3. Prohibition — issued before a lower court decides a matter
-Select the correct answer using the code given below:
-A. Only 1
-B. 1 and 2
-C. 2 and 3
-D. Only 3
-
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: A** — Mandamus does **not** lie against the President/Governor personally.
-
-</details>
-
-**Q38.** Consider the following statements about the Right to Property:
-1. It was a Fundamental Right until the 44th Amendment.
-2. Under Article 300A, a person can be deprived of property only by authority of law.
-Which of the above is/are correct?
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: C**
-
-</details>
-
-**Q39.** Match List-I (Article) with List-II (Freedom of Religion) and select the correct answer:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | Article 25 |
-| B | Article 26 |
-| C | Article 27 |
-| D | Article 28 |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | No tax for promotion of a particular religion |
-| 2 | Freedom of conscience and to profess, practise, propagate |
-| 3 | No religious instruction in wholly State-funded institutions |
-| 4 | Freedom to manage religious affairs |
-
-> Note: Row order in the tables is **not** the answer.
-
-
-Select the correct answer using the code given below:
-A. A-2, B-4, C-1, D-3
-B. A-2, B-1, C-4, D-3
+A. A-2, B-1, C-4, D-3
+B. A-2, B-4, C-1, D-3
 C. A-4, B-2, C-1, D-3
 D. A-2, B-4, C-3, D-1
 
-
 <details>
 <summary>Show answer</summary>
 
+**Ans: B.** A-2, B-4, C-1, D-3 is correct.
 
-**Ans: A**
-
-</details>
-
-**Q40.** With reference to Articles 29 and 30, how many of the following statements are correct?
-1. Article 29 protects any section of citizens with a distinct language, script or culture.
-2. Article 30 gives religious and linguistic minorities the right to establish and administer educational institutions.
-3. The Constitution defines the term “minority”.
-A. Only one
-B. Only two
-C. All three
-D. None
-
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: B** — the Constitution does **not** define “minority”.
+**Logic:** Standard writ pair map.
 
 </details>
 
-**Q41.** With reference to the Directive Principles of State Policy, which of the following statements is/are correct?
-1. They are borrowed from the Constitution of Ireland.
-2. Article 37 makes them enforceable through the courts.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: A** — Art. 37 expressly makes them **non-justiciable**.
-
-</details>
-
-**Q42.** Match List-I (Constitutional feature) with List-II (Source) and select the correct answer:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | Fundamental Rights |
-| B | Directive Principles |
-| C | Fundamental Duties |
-| D | Procedure established by law |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Ireland |
-| 2 | USA |
-| 3 | Japan |
-| 4 | Erstwhile USSR |
-
-> Note: Row order in the tables is **not** the answer.
-
-
-Select the correct answer using the code given below:
-A. A-2, B-1, C-4, D-3
-B. A-1, B-2, C-4, D-3
-C. A-2, B-1, C-3, D-4
-D. A-2, B-4, C-1, D-3
-
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: A**
-
-</details>
-
-**Q43.** How many of the following are classified as **Gandhian** Directive Principles?
-1. Article 40 (Village Panchayats)
-2. Article 44 (Uniform Civil Code)
-3. Article 46 (SC/ST/weaker sections)
-4. Article 48 (prohibition of cow slaughter)
-A. Only two
-B. Only three
-C. All four
-D. Only one
-
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: B** — 40, 46, 48 are Gandhian; 44 (UCC) is Liberal–Intellectual.
-
-</details>
-
-**Q44.** Arrange the following amendments in correct **chronological order**:
-1. 1st Amendment
-2. 42nd Amendment
-3. 44th Amendment
-4. 103rd Amendment
-Select the correct answer using the code given below:
-A. 1 – 2 – 3 – 4
-B. 1 – 3 – 2 – 4
-C. 2 – 1 – 3 – 4
-D. 1 – 2 – 4 – 3
-
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: A** — 1951, 1976, 1978, 2019.
-
-</details>
-
-**Q45.** With reference to the Uniform Civil Code, how many of the following statements are correct?
-1. Article 44 directs the State to endeavour to secure a UCC.
-2. Goa has a common civil code (a Portuguese-era legacy).
-3. Uttarakhand enacted a UCC in 2024.
-A. Only one
-B. Only two
-C. All three
-D. None
-
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: C**
-
-</details>
-
-**Q46.** Match List-I (Part) with List-II (Subject) and select the correct answer:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | Part III |
-| B | Part IV |
-| C | Part IVA |
-| D | Part XII |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Directive Principles |
-| 2 | Fundamental Rights |
-| 3 | Right to Property (300A) |
-| 4 | Fundamental Duties |
-
-> Note: Row order in the tables is **not** the answer.
-
-
-Select the correct answer using the code given below:
-A. A-2, B-1, C-4, D-3
-B. A-1, B-2, C-4, D-3
-C. A-2, B-1, C-3, D-4
-D. A-2, B-4, C-1, D-3
-
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: A**
-
-</details>
-
-**Q47.** Consider the following statements about Fundamental Duties:
-1. They were added by the 42nd Amendment on the recommendation of the Swaran Singh Committee.
-2. They were inspired by the Constitution of the erstwhile USSR.
-3. Originally there were eleven Fundamental Duties.
-How many of the above statements are correct?
-A. Only one
-B. Only two
-C. All three
-D. None
-
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: B** — originally **ten**; the 11th (education) was added by the 86th Amendment.
-
-</details>
-
-**Q48.** Which of the following pairs are **NOT** correctly matched?
-1. Article 44 — Uniform Civil Code
-2. Article 48A — Protection of environment
-3. Article 50 — Prohibition of cow slaughter
-Select the correct answer using the code given below:
-A. Only 3
-B. 1 and 3
-C. 2 and 3
-D. Only 1
-
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: A** — Article 50 = separation of judiciary from executive; cow slaughter is Article 48.
-
-</details>
-
-**Q49.** How many of the following are **NOT** Fundamental Duties under Article 51A?
-1. To develop scientific temper
-2. To cast one’s vote in elections
-3. To safeguard public property
-A. Only one
-B. Only two
-C. All three
-D. None
-
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: A** — voting is not a Fundamental Duty; the other two are.
-
-</details>
-
-**Q50.** Which of the following provisions appear in **BOTH** the Directive Principles and the Fundamental Duties?
-1. Protection of the environment
-2. Promotion of international peace
-3. Providing opportunities for education to children
-Select the correct answer using the code given below:
-A. 1 only
-B. 1 and 3
-C. 2 and 3
+**Q21.** Consider the following statements:
+1. Article 14 covers any person.
+2. Article 16 covers equality of opportunity in public employment for citizens.
+3. Article 15 is available to foreigners on the same footing as Article 14.
+
+A. 2 and 3 only
+B. 1 only
+C. 1 and 2 only
 D. 1, 2 and 3
 
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2 are correct.
+
+**Logic:** Article 15 is citizens-only.
+
+</details>
+
+**Q22.** Which of the following pairs is NOT correctly matched?
+A. FR — justiciable
+B. DPSP — non-justiciable
+C. FR source form — USA Bill of Rights style
+D. DPSP source form — USA Bill of Rights style
 
 <details>
 <summary>Show answer</summary>
 
+**Ans: D.** DPSP form is Ireland-style directives, not USA Bill of Rights.
 
-**Ans: B** — environment (48A + 51A(g)) and education (45/21A + 51A(k)); international peace (51) is only a DPSP.
+**Logic:** USA vs Ireland source swap trap.
 
 </details>
 
-**Q51.Assertion (A):** Fundamental Duties are non-justiciable.
+**Q23.** With reference to Article 21 and 21A, which of the following is/are correct?
+1. Article 21 protects life and personal liberty of all persons.
+2. After Maneka Gandhi, procedure must be fair, just and reasonable.
+3. Article 21A covers free and compulsory education for all ages without limit.
 
-**Reason (R):** No law can be enacted to enforce any Fundamental Duty.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** 21A is ages 6–14 only.
+
+</details>
+
+**Q24.** Consider the following Assertion and Reason:
+
+Assertion (A): Property is still a Fundamental Right under Part III.
+
+Reason (R): Article 300A provides that no person shall be deprived of property save by authority of law.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: C** — Parliament **can** legislate to enforce specific duties (e.g. National Honour Act).
-
-</details>
-
-**Q52.** With reference to *Minerva Mills* (1980), which of the following is/are correct?
-1. It held that the balance between Fundamental Rights and DPSP is part of the basic structure.
-2. It upheld the 42nd Amendment’s extension of Article 31C to all Directive Principles.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
+**Ans: B.** (A) is false, but (R) is true.
 
-**Ans: A** — it **struck down** that extension.
-
-</details>
-
-**Q53.** Match List-I (Article) with List-II (Directive) and select the correct answer:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | Article 39A |
-| B | Article 43A |
-| C | Article 43B |
-| D | Article 44 |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Participation of workers in management |
-| 2 | Equal justice and free legal aid |
-| 3 | Uniform Civil Code |
-| 4 | Promotion of co-operative societies |
-
-> Note: Row order in the tables is **not** the answer.
-
-
-Select the correct answer using the code given below:
-A. A-2, B-1, C-4, D-3
-B. A-1, B-2, C-4, D-3
-C. A-2, B-1, C-3, D-4
-D. A-2, B-4, C-1, D-3
-
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: A**
+**A/R logic:** After 44th, property is a legal constitutional right under 300A, not a Part III FR.
 
 </details>
 
-**Q54.** How many of the following Directive Principles were added by the 42nd Amendment (1976)?
-1. Article 39A (free legal aid)
-2. Article 43A (workers’ participation)
-3. Article 48A (environment)
-4. Article 43B (co-operative societies)
-A. Only two
-B. Only three
-C. All four
-D. Only one
+**Q25.** How many of the following are correctly matched?
+1. Article 39A — equal justice and free legal aid
+2. Article 45 — early childhood care (under-6 after 86th shift teaching)
+3. Article 51 — international peace and security
 
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: B** — 39A, 43A, 48A (42nd); 43B was added by the **97th** Amendment.
-
-</details>
-
-**Q55.Assertion (A):** Article 32 is described as the “heart and soul of the Constitution”.
-
-**Reason (R):** Article 32 is itself a Fundamental Right and the Supreme Court is its guarantor.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-
-<details>
-<summary>Show answer</summary>
-
-
-**Ans: A**
-
-</details>
-
-**Q56.** With reference to the equality provisions, how many of the following are correctly matched (Article — Subject)?
-1. Article 15 — Prohibition of discrimination on religion, race, caste, sex, place of birth
-2. Article 16 — Equality of opportunity in public employment
-3. Article 17 — Abolition of titles
 A. Only one
-B. Only two
-C. All three
+B. All three
+C. Only two
 D. None
 
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** All three are correctly matched.
+
+**Logic:** High-yield DPSP map from Must-Score.
+
+</details>
+
+**Q26.** Consider the following statements about private persons and Part III:
+1. Some rights such as Articles 17, 23 and 24 also bind private persons.
+2. Most Part III rights primarily bind the State under Article 12.
+3. Article 12 excludes local authorities from the meaning of State.
+
+A. 2 and 3 only
+B. 1 only
+C. 1 and 2 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
+**Ans: C.** Only 1 and 2 are correct.
 
-**Ans: B** — 1 and 2 are correct; Article 17 is **abolition of untouchability** (titles = Art. 18).
+**Logic:** Local authorities are within Article 12.
 
 </details>
 
----
+**Q27.** Arrange the following amendments in chronological order:
+1. 77th Amendment (promotion-related reservation teaching)
+2. 93rd Amendment (Article 15(5))
+3. 103rd Amendment (EWS)
+
+A. 2 – 1 – 3
+B. 1 – 3 – 2
+C. 3 – 2 – 1
+D. 1 – 2 – 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** 77th → 93rd → 103rd.
+
+**Logic:** Reservation special-provision chronology.
+
+</details>
+
+**Q28.** With reference to Article 51A(g) and DPSP 48A, which of the following is correct?
+A. Both concern protection of the environment in different Parts
+B. Both concern Uniform Civil Code
+C. Both concern workers’ participation
+D. Both concern separation of judiciary
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** 51A(g) and 48A pair on environment across Duties and DPSP.
+
+**Logic:** Same idea in two Parts — Must-Score pairing.
+
+</details>
+
+**Q29.** Which of the following pairs is/are NOT correctly matched?
+1. Article 18 — titles ban (national awards not ‘titles’ in that sense)
+2. Article 24 — child labour under 14 in hazardous work
+3. Article 21A — inserted by 42nd Amendment
+
+A. 1 only
+B. 3 only
+C. 1 and 2 only
+D. 2 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only pair 3 is NOT correctly matched.
+
+**Logic:** 21A came with the 86th Amendment, not the 42nd.
+
+</details>
+
+**Q30.** Consider the following Assertion and Reason:
+
+Assertion (A): Article 13 voids laws inconsistent with Fundamental Rights.
+
+Reason (R): Constitutional amendments are placed outside Article 13 through Article 13(4) after the 24th Amendment line.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+
+**A/R logic:** Both are true doctrine facts; 13(4) explains amendment status, not the basic voiding rule’s meaning for ordinary laws.
+
+</details>
 
 ## Common Traps
 

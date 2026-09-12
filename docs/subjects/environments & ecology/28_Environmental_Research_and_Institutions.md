@@ -482,306 +482,591 @@ D. NBAGR publishes ISFR
 
 ---
 
-## Practice Zone
+## Practice Zone — UPPCS Format Drill
 
-**Q1.** BSI surveys:
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-Options: A. Plants B. Animals only C. Forest cover % D. Oil reserves
+**Q1.** With reference to HQ map, which of the following statements is/are correct?
 
-<details><summary>Show answer</summary>
+1. Kolkata — BSI and ZSI.
+2. Dehradun — FSI, FRI, WII.
+3. NBA — New Delhi.
 
-**Ans: A**
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q2.** ZSI headquarters:
+**Ans: B.** Only 1 and 2.
 
-Options: A. Kolkata B. Chennai C. New Delhi D. Mumbai
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q3.** Red Data Book of Indian plants is by:
-
-Options: A. BSI B. ZSI C. FSI D. WII
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** NBA = Chennai.
 
 </details>
 
-**Q4.** Red Data Book of Indian animals is by:
+**Q2.** Match List-I with List-II:
 
-Options: A. ZSI B. BSI C. FSI D. NBA
+| List-I | List-II |
+|--------|--------|
+| A. BSI | 1. Animals / Fauna |
+| B. ZSI | 2. Plants / Flora |
+| C. NBPGR | 3. New Delhi plant gene bank |
 
-<details><summary>Show answer</summary>
+Code:
 
-**Ans: A**
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q5.** ISFR is published by:
+**Ans: C.** A-2, B-1, C-3.
 
-Options: A. FSI B. FRI C. CPCB D. BSI
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q6.** ISFR frequency:
-
-Options: A. Every 2 years B. Daily C. Every 50 years D. Never
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Plants/animals/gene bank.
 
 </details>
 
-**Q7.** FRI primary role:
+**Q3.** Which of the following pairs is/are correctly matched?
 
-Options: A. Forestry research B. Publish ISFR C. Regulate foreign ABS D. Prepare PBR
+1. FSI — ISFR every two years
+2. FRI — forestry research (ICFRE neighbourhood)
+3. FRI — publishes ISFR
 
-<details><summary>Show answer</summary>
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: D.** Only 1 and 2.
 
-**Q8.** WII is located at:
-
-Options: A. Dehradun B. Chennai C. Kolkata D. Mumbai
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q9.** NBA headquarters:
-
-Options: A. Chennai B. New Delhi C. Kolkata D. Lucknow
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** FRI ≠ ISFR.
 
 </details>
 
-**Q10.** People's Biodiversity Register is prepared by:
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Options: A. BMC B. NBA C. FSI D. CPCB
+Assertion (A): NBA sits in Chennai under the Biological Diversity Act.
 
-<details><summary>Show answer</summary>
+Reason (R): NBA headquarters is New Delhi like NBPGR.
 
-**Ans: A**
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q11.** NBPGR is in:
+**Ans: C.** A true, R false.
 
-Options: A. New Delhi B. Kolkata C. Karnal D. Chennai
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q12.** Animal gene bank (livestock) is:
-
-Options: A. NBAGR Karnal B. NBPGR Delhi C. BSI Kolkata D. FSI Dehradun
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**A/R logic:** Chennai — not Delhi.
 
 </details>
 
-**Q13.** As per ISFR 2023, UP districts >20% forest:
+**Q5.** With reference to biodiversity pyramid, which of the following statements is/are correct?
 
-Options: A. Chandauli and Shravasti B. Bahraich only C. All 75 districts D. None
+1. NBA → SBB → BMC.
+2. BMCs prepare People’s Biodiversity Register.
+3. PBR is an NBA HQ publication series only.
 
-<details><summary>Show answer</summary>
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: A.** Only 1 and 2.
 
-**Q14.** Bahraich forest cover >20%?
-
-Options: A. No B. Yes C. Only in winter D. Only mangrove cover
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q15.** BDA 2002 three-tier order (top to bottom):
-
-Options: A. NBA–SBB–BMC B. BMC–NBA–SBB C. FSI–FRI–WII D. CPCB–SPCB–BMC
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** PBR is local BMC work.
 
 </details>
 
-**Q16.** SBB differs from SPCB because SBB deals with:
+**Q6.** Arrange ISFR frequency:
 
-Options: A. Biodiversity B. Only air quality standards C. Only nuclear waste D. Only ozone
+A. Weekly
+B. Biennial (every two years)
+C. Every decade only
+D. Never published
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Every two years.
 
-</details>
-
-**Q17.** *Flora of India* is associated with:
-
-Options: A. BSI B. ZSI C. FSI D. WII
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Not annual.
 
 </details>
 
-**Q18.** Tiger census methodology is linked to:
+**Q7.** Which of the following pairs is/are NOT correctly matched?
 
-Options: A. WII B. BSI C. NBPGR D. CPCB
+1. NBPGR — New Delhi ICAR plant gene bank
+2. NBAGR — Karnal animals neighbourhood
+3. NBPGR — Kolkata BSI identical
 
-<details><summary>Show answer</summary>
+A. 1 and 2 only
+B. 2 and 3 only
+C. 3 only
+D. 1, 2 and 3
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: C.** Only pair 3 is not correctly matched.
 
-**Q19.** NBPGR comes under:
-
-Options: A. ICAR B. CZA C. CITES Secretariat D. IMF
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q20.** FSI established in:
-
-Options: A. 1981 B. 1890 C. 1916 D. 1906
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Gene bank ≠ BSI Kolkata.
 
 </details>
 
-**Q21.** FRI established in:
+**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Options: A. 1906 B. 1981 C. 1982 D. 2002
+Assertion (A): WII does wildlife research, IFS training, and tiger-census protocols.
 
-<details><summary>Show answer</summary>
+Reason (R): WII publishes ISFR.
 
-**Ans: A**
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q22.** Consider: (1) NBA HQ is Chennai. (2) NBA prepares all PBRs itself.
+**Ans: C.** A true, R false.
 
-Options: A. Only 1 B. Only 2 C. Both D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q23.** Forest cover definition uses canopy density at least:
-
-Options: A. 10% B. 90% C. 1% D. 0%
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**A/R logic:** ISFR = FSI.
 
 </details>
 
-**Q24.** India forest cover ISFR 2023 approx.:
+**Q9.** With reference to ISFR 2023 class figures, which of the following statements is/are correct?
 
-Options: A. 21.76% B. 6.24% C. 90% D. 2%
+1. India ~21.76% forest cover teaching.
+2. UP ~6.24% teaching.
+3. UP districts >20% often hinge on Chandauli + Shravasti teaching.
 
-<details><summary>Show answer</summary>
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: D.** All three.
 
-**Q25.** UP forest cover ISFR 2023 approx.:
-
-Options: A. 6.24% B. 21.76% C. 50% D. 80%
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q26.** ICFRE umbrella includes:
-
-Options: A. FRI B. NBA C. CPCB D. RBI
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Cover figures + UP trap.
 
 </details>
 
-**Q27.** Foreign access to Indian bio-resources needs approval mainly from:
+**Q10.** Match List-I with List-II:
 
-Options: A. NBA B. BMC alone C. FSI D. BSI herbarium clerk
+| List-I | List-II |
+|--------|--------|
+| A. SBB | 1. Local PBR |
+| B. BMC | 2. State biodiversity board |
+| C. UPSBB | 3. Lucknow state lane |
 
-<details><summary>Show answer</summary>
+Code:
 
-**Ans: A**
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q28.** UPSBB is located at:
+**Ans: A.** A-2, B-1, C-3.
 
-Options: A. Lucknow B. Chennai C. Kolkata D. Dehradun
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q29.** Which pair is correctly matched?
-
-Options: A. FSI — ISFR B. FRI — ISFR C. BSI — animals D. ZSI — plants
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** SBB/BMC/UPSBB.
 
 </details>
 
-**Q30.** Assertion (A): FRI and FSI are the same organisation.
-Reason (R): Both are headquartered in Dehradun.
+**Q11.** Arrange Dehradun trio jobs:
 
-Options: A. Both true; R explains A B. Both true; R does not explain A C. A false, R true D. Both false
+A. All three publish ISFR
+B. FSI cover/ISFR; FRI research; WII wildlife
+C. All three are plant gene banks
+D. All three sit in Chennai
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: C** — Same city, different mandates; A false.
+**Ans: B.** Cover / research / wildlife.
+
+**Logic:** Keep jobs separate.
+
+</details>
+
+**Q12.** With reference to BSI/ZSI years, which of the following statements is/are correct?
+
+1. BSI 1890; ZSI 1916 — both Kolkata.
+2. BSI animals; ZSI plants.
+3. National Red Data Books vs IUCN global list differ.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 3.
+
+**Logic:** BSI plants; ZSI animals.
+
+</details>
+
+**Q13.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): SBB is the state biodiversity board.
+
+Reason (R): SBB is identical to the State Pollution Control Board.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true, R false.
+
+**A/R logic:** SBB ≠ SPCB.
+
+</details>
+
+**Q14.** Which one of the following correctly states NBA’s national role?
+
+A. Only FSI satellite mapping
+B. Publishes ISFR
+C. Only Karnal animal gene bank
+D. Foreign access and ABS at national level
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Foreign access / ABS.
+
+**Logic:** BDA national body.
+
+</details>
+
+**Q15.** How many of the following HQ locks are correct?
+
+BSI Kolkata; FSI Dehradun; NBPGR New Delhi; NBA Chennai
+
+A. All four
+B. Only two
+C. Only three
+D. Only one
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** All four.
+
+**Logic:** City map.
+
+</details>
+
+**Q16.** With reference to domestic vs foreign biodiversity access, which of the following statements is/are correct?
+
+1. NBA focuses foreign access.
+2. SBB supervises state-level commercial access and BMC work.
+3. Both are identical to CPCB consent orders.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Not CPCB.
+
+</details>
+
+**Q17.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. FSI | 1. 1906 |
+| B. FRI | 2. 1981 |
+| C. WII | 3. 1982 |
+
+Code:
+
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A-2, B-1, C-3.
+
+**Logic:** 1981 / 1906 / 1982.
+
+</details>
+
+**Q18.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Match institution → city before function in match lists.
+
+Reason (R): Wrong city alone can kill the key.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R explains the method.
+
+**A/R logic:** City-first method.
+
+</details>
+
+**Q19.** Which of the following pairs is/are correctly matched?
+
+1. Gene bank NBPGR serves crop genetic resources including UP
+2. WII supports Terai wildlife science links
+3. NBA sits in Lucknow UPSBB office only
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** NBA = Chennai.
+
+</details>
+
+**Q20.** Arrange BDA institutionalisation neighbourhood:
+
+A. NBA year rides on BDA 2002; HQ Chennai
+B. NBA 1890 Kolkata only
+C. NBA = FSI 1981
+D. NBA = NBPGR Karnal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** BDA 2002; Chennai.
+
+**Logic:** Institution year + city.
+
+</details>
+
+**Q21.** With reference to Red Data Books, which of the following statements is/are correct?
+
+1. BSI/ZSI national catalogues.
+2. IUCN Red List remains global risk ladder.
+3. BSI publishes the global IUCN list for all countries.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** National ≠ global IUCN.
+
+</details>
+
+**Q22.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): FRI research is not the same as FSI satellite forest-cover accounting.
+
+Reason (R): Both are Dehradun forestry institutions with different jobs.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R explains the separation.
+
+**A/R logic:** Same city, different jobs.
+
+</details>
+
+**Q23.** How many of the following traps are valid?
+
+BSI≠animals; ZSI≠plants; FRI≠ISFR; NBA≠Delhi
+
+A. Only one
+B. Only two
+C. All four
+D. Only three
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All four.
+
+**Logic:** Classic trap set.
+
+</details>
+
+**Q24.** Which one of the following correctly states BMC?
+
+A. Animal gene bank Karnal
+B. National ABS only in Chennai
+C. ISFR publisher
+D. Local body preparing PBR
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Local PBR owner.
+
+**Logic:** BMC identity.
+
+</details>
+
+**Q25.** With reference to UP forest-cover traps, which of the following statements is/are correct?
+
+1. >20% districts often hinge on Chandauli + Shravasti.
+2. Long distractor lists of Terai districts can mislead.
+3. UP forest cover is identical to India’s 21.76% always.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** UP ~6.24% — not India figure.
+
+</details>
+
+**Q26.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. BSI | 1. 1916 |
+| B. ZSI | 2. 1890 |
+| C. NBPGR | 3. 1978 |
+
+Code:
+
+A. A-1, B-2, C-3
+B. A-2, B-1, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** A-2, B-1, C-3.
+
+**Logic:** 1890 / 1916 / 1978.
+
+</details>
+
+**Q27.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): PBR documents local biodiversity knowledge.
+
+Reason (R): BMCs prepare PBR at local level.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R explains who prepares PBR.
+
+**A/R logic:** Local documentation.
+
+</details>
+
+**Q28.** Arrange NBPGR vs NBAGR:
+
+A. Both Kolkata plants only
+B. Both Chennai NBA
+C. NBPGR plants Delhi; NBAGR animals Karnal neighbourhood
+D. Both publish ISFR
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Plants Delhi / animals Karnal.
+
+**Logic:** Gene-bank pair.
+
+</details>
+
+**Q29.** With reference to WII, which of the following statements is/are correct?
+
+1. Wildlife science and training.
+2. Not the plant gene bank.
+3. Not the ISFR publisher.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three.
+
+**Logic:** WII job boundaries.
+
+</details>
+
+**Q30.** Which one of the following correctly states FSI’s core product?
+
+A. Forest cover mapping / ISFR
+B. People’s Biodiversity Register only
+C. Foreign ABS approvals only
+D. Animal Red Data Book only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Cover / ISFR.
+
+**Logic:** FSI identity.
 
 </details>
 

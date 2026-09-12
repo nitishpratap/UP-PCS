@@ -484,913 +484,804 @@ A. Kharvela B. Ashok C. Harshavardhan D. Kanishka
 
 ## Practice Zone — UPPCS Format Drill
 
-**Q1.** Arrange in ascending chronological order:
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-1. I-Tsing 2. Al-Biruni 3. Hiuen Tsang 4. Fa-Hien
 
-A. 1, 2, 3, 4 B. 4, 3, 1, 2 C. 2, 1, 4, 3 D. 3, 4, 2, 1
+**Q1.** With reference to the post-Gupta Huna check, which of the following statements is/are correct?
+
+1. Hunas are led first by Toramana, then by Mihirakula of Sakala (Sialkot).
+2. Yashodharman of Malwa boasts the Huna check at Mandasor about 532 CE.
+3. Vasula is remembered as composer of Yashodharman’s Sondani / Sondhni record.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: D.** All three statements are correct.
+
+**Logic:** All three are Must-Score Huna/Yashodharman facts.
 
 </details>
 
 ---
 
-**Q2.** Which one of the following pairs is **NOT** correctly matched?
+**Q2.** Match List-I with List-II and select the correct answer from the code given below the lists:
 
-A. Ishanavarman — Harha stone inscription
-B. Sarvavarman — Gaya Copper Plate
-C. Jivitagupta II — Deva Barnark inscription
-D. Ishwaravarman — Jaunpur stone inscription
+| List-I (House) | List-II (Seat) |
+|---|---|
+| 1. Pushyabhuti | A. Valabhi |
+| 2. Maukhari | B. Thanesar → later Kannauj |
+| 3. Maitraka | C. Kannauj |
+| 4. Gauda (Shashanka) | D. Karnasuvarna |
+
+*Row order is not the answer code.*
+
+A. 1-C, 2-B, 3-A, 4-D
+
+B. 1-B, 2-C, 3-A, 4-D
+
+C. 1-B, 2-A, 3-C, 4-D
+
+D. 1-D, 2-C, 3-A, 4-B
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B.** 1-B, 2-C, 3-A, 4-D.
+
+**Logic:** Do not swap Pushyabhuti early capital with Maukhari Kannauj.
 
 </details>
 
 ---
 
-**Q3.** The Hathigumpha inscription is the source for which king?
+**Q3.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Kharvela B. Ashok C. Harshavardhan D. Kanishka
+**Assertion (A):** Harsha of the Pushyabhuti house ruled 606–647 CE and is a post-Gupta reunion king.
 
-<details>
-<summary>Show answer</summary>
+**Reason (R):** Harsha is the last imperial Gupta emperor of Pataliputra.
 
-**Ans: A** — option C is the Harsha trap.
+Select the correct answer from the code given below:
 
-</details>
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 
----
+B. (A) is false, but (R) is true
 
-**Q4.** Which of the following statements is/are correct?
-
-1. Harsha’s early capital was Thanesar.
-2. Kannauj was the later imperial seat.
-3. Thanesar is in modern Uttar Pradesh.
-
-A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q5.** Given below are two statements:
-
-**Assertion (A):** Pulakeshin II stopped Harsha’s southward push.
-
-**Reason (R):** The Aihole inscription records that boast.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: C.** (A) is true, but (R) is false.
+
+**A/R logic:** Harsha is not a Gupta emperor.
 
 </details>
 
 ---
 
-**Q6.** Match List-I with List-II:
+**Q4.** Arrange the following Chinese travellers in chronological order:
 
-| List-I | List-II |
-|--------|---------|
-| A. Banabhatta | 1. Si-Yu-Ki |
-| B. Hiuen Tsang | 2. Harshacharita |
-| C. Ravikirti | 3. Aihole prasasti |
+1. I-Tsing
+2. Fa-Hien
+3. Sung-yun
+4. Hiuen Tsang
 
-A. 2 1 3 B. 1 2 3 C. 2 3 1 D. 1 3 2
+Select the correct answer from the code given below:
+
+A. 2–4–3–1
+
+B. 2–3–4–1
+
+C. 3–2–4–1
+
+D. 2–3–1–4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Fa-Hien → Sung-yun → Hiuen Tsang → I-Tsing.
+
+**Logic:** Must-Score traveller chronology.
 
 </details>
 
 ---
 
-**Q7.** With reference to Harsha’s family, consider the following statements:
+**Q5.** Which one of the following pairs is NOT correctly matched?
 
-1. Rajyavardhana was killed by Shashanka.
-2. Rajyashri married Grihavarman.
-3. Rajyashri later married Pulakeshin II.
+Select the correct answer from the code given below:
 
-How many of the above statements are correct?
-A. Only one B. Only two C. All three D. None
+A. Ishanavarman — Haraha (Barabanki, UP, 554 CE)
+
+B. Ishvaravarman — Jaunpur stone
+
+C. Sarvavarman — Gaya copper plate
+
+D. Jivitagupta II — Deo-Baranark
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — 1 and 2.
+**Ans: C.** Gaya copper plate is Samudragupta; Sarvavarman’s fact is the Asirgarh seal.
+
+**Logic:** Classic Maukhari NOT-matched trap.
 
 </details>
 
 ---
 
-**Q8.** Which one of the following pairs is **not** correctly matched?
+**Q6.** With reference to Harsha’s capitals and family, which of the following statements is/are correct?
 
-A. Kadambari — romance by Bana
-B. Harshacharita — biography of Harsha
-C. Meghaduta — Banabhatta at Kannauj
-D. Nagananda — play attributed to Harsha
+1. Early capital is Thanesar (Sthaneshvara) in Haryana; later capital is Kannauj in Uttar Pradesh.
+2. Elder brother Rajyavardhana was killed by Shashanka of Gauda.
+3. Sister Rajyashri married Maitraka Dhruvasena of Valabhi.
+
+Select the correct answer from the code given below:
+
+A. 2 and 3 only
+
+B. 1 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: C.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: Rajyashri married Maukhari Grihavarman; she did not marry Dhruvasena.
 
 </details>
 
 ---
 
-**Q9.** Which of the following statements is/are correct?
+**Q7.** Consider the following statements about Harsha and Pulakeshin II:
 
-1. Haraha inscription is of Ishanavarman.
-2. It is from Barabanki district, UP.
-3. It is dated around 554 CE.
+1. About 630–634 CE Pulakeshin II stopped Harsha at the Narmada.
+2. The boast sits in the Aihole inscription of Ravikirti on the Meguti temple.
+3. This Narmada stop is the same as the Battle of Kannauj 1540.
 
-A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+Select the correct answer from the code given below:
+
+A. 1 and 3 only
+
+B. 1 and 2 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: B.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: Kannauj 1540 is Sher Shah / Humayun — different age.
 
 </details>
 
 ---
 
-**Q10.** Arrange:
+**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-1. Gupta imperial peak
-2. Harsha’s death
-3. Huna pressure on the Guptas
-4. Harsha’s accession
+**Assertion (A):** Harshacharita is Banabhatta’s prose biography (akhyayika) of Harsha.
 
-A. 1–3–4–2 B. 1–4–3–2 C. 3–1–4–2 D. 1–3–2–4
+**Reason (R):** Kadambari is Banabhatta’s unfinished prose romance (katha).
 
-<details>
-<summary>Show answer</summary>
+Select the correct answer from the code given below:
 
-**Ans: A**
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 
-</details>
+B. (A) is false, but (R) is true
 
----
-
-**Q11.** Given below are two statements:
-
-**Assertion (A):** Hiuen Tsang studied at Nalanda.
-
-**Reason (R):** His teacher there is named Shilabhadra.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: A.** Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+
+**A/R logic:** Both true as distinct Bana works; R does not explain why Harshacharita is a biography.
 
 </details>
 
 ---
 
-**Q12.** Match List-I with List-II:
+**Q9.** Match List-I with List-II and select the correct answer from the code given below the lists:
 
-| List-I | List-II |
-|--------|---------|
-| A. Shashanka | 1. Valabhi |
-| B. Pulakeshin II | 2. Gauda |
-| C. Dhruvasena II | 3. Vatapi / Badami |
+| List-I (Record) | List-II (Owner / use) |
+|---|---|
+| 1. Banskhera | A. Harsha copper-plate with signature |
+| 2. Madhuban | B. Harsha grant |
+| 3. Sonpat seal | C. Pushyabhuti family |
+| 4. Hathigumpha | D. Kharavela (not Harsha) |
 
-A. 2 3 1 B. 3 2 1 C. 2 1 3 D. 1 3 2
+*Row order is not the answer code.*
+
+A. 1-A, 2-B, 3-C, 4-D
+
+B. 1-B, 2-A, 3-C, 4-D
+
+C. 1-A, 2-C, 3-B, 4-D
+
+D. 1-D, 2-B, 3-C, 4-A
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: A.** 1-A, 2-B, 3-C, 4-D.
+
+**Logic:** Hathigumpha is the classic Harsha distractor.
 
 </details>
 
 ---
 
-**Q13.** Given below are two statements:
+**Q10.** With reference to Hiuen Tsang, which of the following statements is/are correct?
 
-**Assertion (A):** Harsha-samvat begins in 606 CE.
+1. He was in India about 630–644, studied at Nalanda under Shilabhadra, and wrote the Si-Yu-Ki.
+2. He notes Mathura for cotton textiles and Varanasi for silk.
+3. He is Chandragupta II’s Chinese witness, not Harsha’s.
 
-**Reason (R):** That year is taken as Harsha’s accession at Thanesar.
+Select the correct answer from the code given below:
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: Xuanzang is Harsha’s witness; Fa-Hien is CG II’s.
+
+</details>
+
+---
+
+**Q11.** Consider the following statements about Harsha’s assemblies and titles:
+
+1. Chinese title for Harsha is Siladitya; Harsha-samvat starts in 606 CE.
+2. Kannauj assembly in 643 honoured Xuanzang; Prayag Moksha-parishad was held every five years.
+3. East ally is Bhaskaravarman of Kamarupa.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three statements are correct.
+
+**Logic:** All three are Must-Score Harsha tags.
+
+</details>
+
+---
+
+**Q12.** Which one of the following pairs is NOT correctly matched?
+
+Select the correct answer from the code given below:
+
+A. Banabhatta — Harsha’s court poet; ornate Sanskrit prose
+
+B. Kalidasa — Gupta poetry/drama tradition
+
+C. Harshacharita — Chinese Si-Yu-Ki of Xuanzang
+
+D. Nagananda — one of three plays often given to Harsha
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Harshacharita is Bana’s Sanskrit biography; Si-Yu-Ki is Xuanzang’s Chinese record.
+
+**Logic:** Harshacharita vs Si-Yu-Ki confused pair.
+
+</details>
+
+---
+
+**Q13.** Arrange the following events related to Harsha’s age in chronological order:
+
+1. Harsha’s death and north fragmentation
+2. Start of Harsha-samvat / accession
+3. Pulakeshin II’s Narmada check
+4. Kannauj assembly for Xuanzang
+
+Select the correct answer from the code given below:
+
+A. 2–3–4–1
+
+B. 2–4–3–1
+
+C. 3–2–4–1
+
+D. 2–3–1–4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** 606 accession → ~630–34 Narmada → 643 Kannauj → 647 death.
+
+**Logic:** Keep assembly after the Chalukya check.
+
+</details>
+
+---
+
+**Q14.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+**Assertion (A):** After 647 there is no stable heir; Chinese envoy Wang Xuance is attacked by Arunashva of Tirhut.
+
+**Reason (R):** The Harsha-state machine collapses when the personal king dies because it rests on mahasamanta feudatories and agrahara grants.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: D.** Both (A) and (R) are true and (R) explains (A).
+
+**A/R logic:** R correctly explains the post-647 fragmentation.
 
 </details>
 
 ---
 
-**Q14.** Which one of the following pairs is **not** correctly matched?
+**Q15.** With reference to post-Gupta administration vocabulary, which of the following statements is/are correct?
 
-A. Fa-Hien — Chandragupta II
-B. Hiuen Tsang — Harshavardhana
-C. I-Tsing — after Harsha
-D. Fa-Hien — Harshavardhana
+1. Harsha reuses Gupta titles: uparika, mahasandhivigrahika, mahapratihara, bhandagaradhikarana.
+2. Harsha invented the Uparika as a brand-new office.
+3. Post-Gupta north shows clearer feudal / lord–vassal land control than Mauryan central pay.
+
+Select the correct answer from the code given below:
+
+A. 1 and 3 only
+
+B. 1 and 2 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: A.** Statements 1 and 3 are correct.
+
+**Logic:** Stmt 2 false: he reuses Gupta vocabulary; he invents no new machine.
 
 </details>
 
 ---
 
-**Q15.** Which of the following statements is/are correct?
+**Q16.** Consider the following statements about Huna and Later Gupta records:
 
-1. Banskhera copper plate is a Harsha grant.
-2. It is known for Harsha’s signature.
-3. Madhuban plate is a Gupta gold-coin legend.
+1. Mihirakula’s seats include Sakala, the Gwalior inscription, and Kashmir memory in the Rajatarangini.
+2. Toramana appears on the Eran boar inscription.
+3. Later Gupta Adityasena has the Aphsad inscription in Bihar; Maitraka founder-memory is Bhatarka at Valabhi.
 
-A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: D.** All three statements are correct.
+
+**Logic:** All three are Must-Score inscription facts.
 
 </details>
 
 ---
 
-**Q16.** Arrange:
+**Q17.** Match List-I with List-II and select the correct answer from the code given below the lists:
 
-1. Harsha’s accession
-2. Toramana in north India
-3. Harsha’s death
-4. Yashodharman’s Mandasor boast
+| List-I (Term / note) | List-II (Meaning) |
+|---|---|
+| 1. Kausheya | A. Bill of exchange in later trade memory |
+| 2. Hundi | B. Silk cloth word |
+| 3. Yin-tu / Thian-tu | C. Chinese name for India |
+| 4. Nagananda | D. Buddhist-flavoured play among Harsha’s three |
 
-A. 2–4–1–3 B. 4–2–1–3 C. 2–1–4–3 D. 1–2–4–3
+*Row order is not the answer code.*
+
+A. 1-B, 2-A, 3-C, 4-D
+
+B. 1-A, 2-B, 3-C, 4-D
+
+C. 1-B, 2-C, 3-A, 4-D
+
+D. 1-D, 2-A, 3-C, 4-B
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: A.** 1-B, 2-A, 3-C, 4-D.
+
+**Logic:** Textile and credit vocabulary of the Harsha age.
 
 </details>
 
 ---
 
-**Q17.** With reference to Harsha, consider the following statements:
+**Q18.** With reference to Fa-Hien versus Xuanzang, which of the following statements is/are correct?
 
-1. Chinese sources call him Siladitya.
-2. Kannauj was his later capital.
-3. Narmada was his effective southern line.
+1. Fa-Hien came mainly for Vinaya under Chandragupta II.
+2. Xuanzang came for Mahayana texts under Harsha.
+3. Nalanda’s founder-patron remains Kumaragupta I in both ages.
 
-How many of the above statements are correct?
-A. Only one B. Only two C. All three D. None
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: D.** All three statements are correct.
+
+**Logic:** All three are Must-Score pilgrim/Nalanda facts.
 
 </details>
 
 ---
 
-**Q18.** Match List-I with List-II:
+**Q19.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-| List-I | List-II |
-|--------|---------|
-| A. Haraha | 1. Jivitagupta II |
-| B. Deo-Baranark | 2. Ishanavarman |
-| C. Asirgarh seal | 3. Sarvavarman |
+**Assertion (A):** I-tsing comes by sea after Harsha (~671–695), studies at Nalanda, and returns via Sumatra.
 
-A. 2 1 3 B. 1 2 3 C. 2 3 1 D. 3 1 2
+**Reason (R):** Nalanda’s final medieval destruction is linked to Bakhtiyar Khalji (~1193) in Pala–Sena age.
 
-<details>
-<summary>Show answer</summary>
+Select the correct answer from the code given below:
 
-**Ans: A**
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 
-</details>
+B. (A) is false, but (R) is true
 
----
-
-**Q19.** Given below are two statements:
-
-**Assertion (A):** Rajyashri was married into the Maukhari house.
-
-**Reason (R):** Her husband was Grihavarman of Kannauj.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: A.** Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+
+**A/R logic:** Both true as separate chronology facts; R does not explain I-tsing’s voyage.
 
 </details>
 
 ---
 
-**Q20.** Which of the following statements is/are correct?
+**Q20.** Which of the following statements about Harsha’s plays is/are correct?
 
-1. *Kadambari* is a romance by Banabhatta.
-2. Tradition says Bhushanabhatta finished it.
-3. *Kadambari* is a second prose biography of Harsha.
+1. Three plays often given to Harsha are Nagananda, Ratnavali, and Priyadarshika.
+2. Nagananda carries the Buddhist flavour of the three.
+3. Banabhatta wrote ornate Sanskrit prose, not Gupta-age verse drama like Kalidasa.
 
-A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: D.** All three statements are correct.
+
+**Logic:** All three are Must-Score literature facts.
 
 </details>
 
 ---
 
-**Q21.** Which one of the following pairs is **not** correctly matched?
+**Q21.** Which one of the following pairs is NOT correctly matched?
 
-A. Kannauj — Uttar Pradesh
-B. Haraha — Barabanki
-C. Thanesar — Uttar Pradesh
-D. Prayag charity — Prayagraj
+Select the correct answer from the code given below:
+
+A. Thanesar — early Pushyabhuti capital (Haryana)
+
+B. Kannauj — later Harsha capital (UP)
+
+C. Pulakeshin II — Gauda killer of Rajyavardhana
+
+D. Shashanka — Gauda at Karnasuvarna
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: C.** Pulakeshin II is the Chalukya who stopped Harsha at the Narmada; Shashanka killed Rajyavardhana.
+
+**Logic:** Pulakeshin vs Shashanka confused pair.
 
 </details>
 
 ---
 
-**Q22.** Match List-I with List-II:
+**Q22.** With reference to post-Harsha pointers, which of the following statements is/are correct?
 
-| List-I | List-II |
-|--------|---------|
-| A. Nagananda | 1. Play attributed to Harsha |
-| B. Ratnavali | 2. Play attributed to Harsha |
-| C. Priyadarshika | 3. Play attributed to Harsha |
+1. After Harsha, the later Kannauj fight among Pratihara–Pala–Rashtrakuta belongs to early medieval teaching.
+2. Shankaracharya’s four maths belong inside Harsha’s court card as contemporary facts.
+3. Chinese writers call India Yin-tu / Thian-tu.
 
-A. 1 2 3 B. 2 1 3 C. 3 2 1 D. 1 3 2
+Select the correct answer from the code given below:
+
+A. 1 and 3 only
+
+B. 1 and 2 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — all three are the Harsha-play set.
+**Ans: A.** Statements 1 and 3 are correct.
+
+**Logic:** Stmt 2 false: Shankara maths are not to be merged into Harsha’s court card.
 
 </details>
 
 ---
 
-**Q23.** Given below are two statements:
+**Q23.** Harsha’s Chinese title Siladitya is correctly paired with which house?
 
-**Assertion (A):** Harsha’s empire did not survive him.
+A. Maukhari of Kannauj only
 
-**Reason (R):** Wang Xuance met a stable Pushyabhuti heir in 648 CE.
+B. Pushyabhuti of Thanesar–Kannauj
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. Maitraka of Valabhi
+
+D. Later Gupta of Magadha
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Pushyabhuti of Thanesar–Kannauj.
+
+**Logic:** Siladitya = Harsha = Pushyabhuti.
+
+</details>
+
+---
+
+**Q24.** Consider the following statements:
+
+1. Family memory of Harsha’s house starts Shaiva; later he is a loud Buddhist patron while still hosting Brahmans.
+2. Thanesar’s prosperity is remembered as trade-based.
+3. Sung-yun (~518–521) sits between Fa-Hien and Hiuen Tsang in the pilgrim ladder.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three statements are correct.
+
+**Logic:** All three are Must-Score post-Gupta facts.
+
+</details>
+
+---
+
+**Q25.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+**Assertion (A):** Rajyashri had married Maukhari Grihavarman of Kannauj; Harsha later rescued her and united the two houses.
+
+**Reason (R):** Maitraka Dhruvasena II was restored as an ally, but he was not Rajyashri’s husband.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Arunashva attacks the Chinese embassy. No stable heir.
+**Ans: D.** Both (A) and (R) are true and (R) explains (A).
+
+**A/R logic:** R correctly blocks the Dhruvasena marriage trap while affirming the Maukhari–Pushyabhuti union story.
 
 </details>
 
 ---
 
-**Q24.** Which of the following statements is/are correct?
+**Q26.** With reference to Maukhari inscription geography in Uttar Pradesh, which of the following statements is/are correct?
 
-1. Bhaskaravarman of Kamarupa was Harsha’s eastern ally.
-2. Shashanka’s capital is named Karnasuvarna.
-3. Pulakeshin II ruled from Pataliputra.
+1. Haraha of Ishanavarman is in Barabanki, UP (554 CE).
+2. Ishvaravarman’s stone is linked to Jaunpur.
+3. Asirgarh seal is the Sarvavarman fact, not the Gaya plate.
 
-A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: D.** All three statements are correct.
+
+**Logic:** All three are Must-Score Maukhari facts.
 
 </details>
 
 ---
 
-**Q25.** Arrange in ascending chronological order:
+**Q27.** Arrange the following seats/powers from the immediate post-Gupta map:
 
-1. I-Tsing in India
-2. Fa-Hien in India
-3. Hiuen Tsang in India
+1. Harsha’s later capital at Kannauj
+2. Toramana–Mihirakula Huna phase
+3. Yashodharman’s Mandasor boast (~532 CE)
+4. Harsha-samvat start (606 CE)
 
-A. 2–3–1 B. 3–2–1 C. 2–1–3 D. 1–2–3
+Select the correct answer from the code given below:
+
+A. 2–3–4–1
+
+B. 3–2–4–1
+
+C. 2–3–1–4
+
+D. 2–4–3–1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: A.** Hunas → Yashodharman 532 → Harsha 606 → Kannauj as later capital in his reign.
+
+**Logic:** Kannauj later capital sits inside Harsha’s reign after accession.
 
 </details>
 
 ---
 
-**Q26.** With reference to Harsha’s administration, consider the following statements:
+**Q28.** Which of the following statements is/are correct?
 
-1. Uparika is a Gupta provincial title reused under Harsha.
-2. Mahasandhivigrahika deals with peace and war.
-3. Harsha invented the bhukti–vishaya grid.
+1. Pushyabhuti is the founder-memory of Harsha’s house.
+2. Later Guptas hold Magadha while Maukharis hold Kannauj.
+3. Mihirakula’s capital memory is Pataliputra, not Sakala.
 
-How many of the above statements are correct?
-A. Only one B. Only two C. All three D. None
+Select the correct answer from the code given below:
+
+A. 1 and 3 only
+
+B. 1 and 2 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — 1 and 2.
+**Ans: B.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: Mihirakula is of Sakala (Sialkot).
 
 </details>
 
 ---
 
-**Q27.** Match List-I with List-II:
+**Q29.** With reference to Harsha’s religion and allies, which of the following statements is/are correct?
 
-| List-I | List-II |
-|--------|---------|
-| A. Haraha | 1. Karnataka |
-| B. Aihole | 2. Bihar |
-| C. Deo-Baranark | 3. Uttar Pradesh |
+1. Family memory starts Shaiva; later Harsha is a loud Buddhist patron while still hosting Brahmans.
+2. East ally is Bhaskaravarman of Kamarupa.
+3. Hathigumpha is Harsha’s signature copper-plate.
 
-A. 3 1 2 B. 1 3 2 C. 3 2 1 D. 2 1 3
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: A.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: Hathigumpha is Kharavela.
 
 </details>
 
 ---
 
-**Q28.** Given below are two statements:
+**Q30.** Which inscription boasts Pulakeshin II’s stop of Harsha at the Narmada?
 
-**Assertion (A):** Mihirakula belongs to the Huna line after Toramana.
+A. Prayag Prashasti
 
-**Reason (R):** The Eran boar inscription names Toramana.
+B. Aihole inscription of Ravikirti
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+C. Haraha inscription
 
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — both true. Eran facts Toramana, not why Mihirakula follows him.
-
-</details>
-
----
-
-**Q29.** Which of the following statements is/are correct?
-
-1. *Si-Yu-Ki* is Xuanzang’s Chinese record.
-2. *Harshacharita* is Bana’s Sanskrit kavya.
-3. *Si-Yu-Ki* was written at Kannauj in Sanskrit.
-
-A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+D. Bhitari pillar
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Aihole inscription of Ravikirti on the Meguti temple.
+
+**Logic:** Aihole vs Prayag confused pair.
 
 </details>
-
----
-
-**Q30.** Which one of the following pairs is **not** correctly matched?
-
-A. Harshacharita — Banabhatta
-B. Kadambari — Banabhatta
-C. Si-Yu-Ki — Hiuen Tsang
-D. Harshacharita — Hiuen Tsang
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q31.** Match List-I with List-II:
-
-| List-I | List-II |
-|--------|---------|
-| A. Karnasuvarna | 1. Harsha’s later capital |
-| B. Vatapi | 2. Shashanka |
-| C. Kannauj | 3. Pulakeshin II |
-
-A. 2 3 1 B. 3 2 1 C. 2 1 3 D. 1 3 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q32.** Which of the following statements is/are correct?
-
-1. Prayag charity under Harsha was quinquennial.
-2. Xuanzang reports seeing it.
-3. The same assembly is the 1540 Battle of Kannauj.
-
-A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q33.** Given below are two statements:
-
-**Assertion (A):** 2018 Q16 answer is Harshavardhan.
-
-**Reason (R):** Hathigumpha is Kharavela’s inscription.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q34.** With reference to 2022 Q87, consider the following statements:
-
-1. Gaya copper plate is treated as a Gupta / Samudragupta record.
-2. Therefore Sarvavarman — Gaya copper plate is not matched.
-3. Haraha is of Ishanavarman.
-
-How many of the above statements are correct?
-A. Only one B. Only two C. All three D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q35.** Arrange:
-
-1. Haraha inscription (~554 CE)
-2. Harsha’s death
-3. Pulakeshin II stops Harsha (~630)
-4. Harsha’s accession (606)
-
-A. 1–4–3–2 B. 4–1–3–2 C. 1–3–4–2 D. 1–4–2–3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q36.** Which of the following statements is/are correct?
-
-1. *Harshacharita* is divided into eight ucchvasas.
-2. The first ucchvasa is Bana’s own life.
-3. The first four ucchvasas carry most of the usable history.
-
-A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q37.** Match List-I with List-II:
-
-| List-I | List-II |
-|--------|---------|
-| A. Banabhatta | 1. Suryashataka |
-| B. Mayura | 2. Harshacharita |
-| C. Ravikirti | 3. Aihole prasasti |
-
-A. 2 1 3 B. 1 2 3 C. 2 3 1 D. 1 3 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q38.** Given below are two statements:
-
-**Assertion (A):** Kannauj is also called Kanyakubja.
-
-**Reason (R):** Thanesar is also called Sthaneshvara.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q39.** Which one of the following pairs is **not** correctly matched?
-
-A. Hiuen Tsang — Nalanda / Shilabhadra
-B. I-Tsing — sea route, after Harsha
-C. Al-Biruni — Kitab-ul-Hind
-D. I-Tsing — guest at Harsha’s Kannauj assembly of 643
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q40.** Which of the following statements is/are correct?
-
-1. Xuanzang studied at Nalanda.
-2. His teacher there is named Shilabhadra.
-3. Kumaragupta I remains the founder-patron fact for Nalanda.
-
-A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q41.** With reference to Harsha’s officials, consider the following statements:
-
-1. Bhandagaradhikarana is the treasury.
-2. Mahapratihara is the palace / chamberlain.
-3. Samaharta is Harsha’s new foreign-office title.
-
-How many of the above statements are correct?
-A. Only one B. Only two C. All three D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 2. Samaharta is Mauryan.
-
-</details>
-
----
-
-**Q42.** Match List-I with List-II:
-
-| List-I | List-II |
-|--------|---------|
-| A. Toramana | 1. Mandasor |
-| B. Mihirakula | 2. Eran boar |
-| C. Yashodharman | 3. Gwalior inscription |
-
-A. 2 3 1 B. 3 2 1 C. 2 1 3 D. 1 3 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q43.** Given below are two statements:
-
-**Assertion (A):** Al-Biruni is last in the 2024 traveller order.
-
-**Reason (R):** He belongs to Mahmud of Ghazni’s age, ~1017.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q44.** Which of the following statements is/are correct?
-
-1. Harsha is a Pushyabhuti / Vardhana king.
-2. He is not a Gupta emperor.
-3. Later Guptas of Magadha are a different house.
-
-A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q45.** Which one of the following pairs is **not** correctly matched?
-
-A. Shashanka — killer of Rajyavardhana
-B. Pulakeshin II — Narmada stop
-C. Pulakeshin II — killer of Rajyavardhana
-D. Yashodharman — Mandasor boast
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q46.** Arrange:
-
-1. Harsha’s death
-2. Shashanka kills Rajyavardhana
-3. Narmada stop by Pulakeshin II
-4. Harsha’s accession
-
-A. 2–4–3–1 B. 4–2–3–1 C. 2–3–4–1 D. 2–4–1–3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q47.** Which of the following statements is/are correct?
-
-1. Aphsad inscription is of Adityasena.
-2. Adityasena belongs to the later Guptas of Magadha.
-3. Aphsad is in Barabanki, UP.
-
-A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q48.** Given below are two statements:
-
-**Assertion (A):** 2022 Q87 answer is B.
-
-**Reason (R):** Sarvavarman is not the issuer of the Gaya copper plate.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q49.** According to Hiuen Tsang, which city was famous for cotton textiles?
-
-A. Varanasi B. Mathura C. Kannauj D. Nalanda
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Xuanzang textile pair — Mathura cotton, Varanasi silk.
-
-**Ans: B.** **Mathura** = cotton; **Varanasi** = silk.
-
-</details>
-
----
-
-**Q50.** With reference to post-Gupta travellers and trade, consider the following statements:
-
-1. Sung-yun visited India in the early 6th century, after Fa-Hien and before Hiuen Tsang.
-2. Hundi in post-Harsha sources is a bill of exchange.
-3. Kausheya denotes cotton cloth only.
-
-How many of the above statements are correct?
-A. Only one B. Only two C. All three D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** 1–2 are standard; kausheya is silk.
-
-**Ans: B.** 1 and 2. **Kausheya** = silk.
-
-</details>
-
----
-
-**Q51.** Harsha’s southward march was stopped on the Narmada by which ruler?
-
-A. Pulakeshin I B. Pulakeshin II C. Vikramaditya II D. Shashanka
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Aihole / Xuanzang fact = Pulakeshin II of Badami.
-
-**Ans: B.** **Pulakeshin II** of Vatapi.
-
-</details>
-
----
 
 ## Common Traps — Facts
 

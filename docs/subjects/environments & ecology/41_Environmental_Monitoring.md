@@ -398,306 +398,591 @@ D. Replaces all groundwater monitoring by CGWB
 
 ---
 
-## Practice Zone
+## Practice Zone — UPPCS Format Drill
 
-**Q1.** BOD is a criterion for:
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-Options: A. Aquatic pollution assay B. Blood oxygen only C. Forest canopy only D. High-altitude camps only
+**Q1.** With reference to PSR, which of the following statements is/are correct?
 
-<details><summary>Show answer</summary>
+1. Pressure → State → Response.
+2. Indicators turn raw numbers into decision signals.
+3. PSR means only Ringelmann smoke shade.
 
-**Ans: A**
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q2.** Ringelmann scale measures:
+**Ans: B.** Only 1 and 2.
 
-Options: A. Smoke density B. Noise dB C. Fog only D. Polluted water BOD
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q3.** Groundwater Quality Report is by:
-
-Options: A. CGWB B. CPCB only C. RBI D. WTO
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** PSR ≠ Ringelmann.
 
 </details>
 
-**Q4.** SAFAR is mainly:
+**Q2.** Match List-I with List-II:
 
-Options: A. Air quality + weather forecasting B. Only tiger census C. Only Ramsar listing D. Only ozone Day calendar
+| List-I | List-II |
+|--------|--------|
+| A. NAMP | 1. Real-time air |
+| B. CAAQMS | 2. Manual air trends |
+| C. NWMP | 3. Surface water |
 
-<details><summary>Show answer</summary>
+Code:
 
-**Ans: A**
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q5.** CAAQMS provides:
+**Ans: C.** A-2, B-1, C-3.
 
-Options: A. Real-time ambient air data B. Only groundwater atlas C. Only Form V paper filing D. Only noise silence zones
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q6.** Form V is:
-
-Options: A. Annual Environmental Statement to SPCB B. Only Montreal Protocol annex C. Only AQI colour chart D. Only ISFR chapter
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** CPCB network trio.
 
 </details>
 
-**Q7.** ISO 14001 is for:
+**Q3.** Which of the following pairs is/are correctly matched?
 
-Options: A. Environmental Management Systems B. Only carbon trading CERs C. Only CITES permits D. Only noise dB meters
+1. Air indicators — PM2.5, PM10, SO₂, NOx, AQI
+2. Water indicators — BOD, COD, DO, pH, coliform
+3. CGWB — surface-water NWMP identical to CPCB
 
-<details><summary>Show answer</summary>
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: D.** Only 1 and 2.
 
-**Q8.** PSR stands for:
-
-Options: A. Pressure–State–Response B. Plastic–Smoke–Rain C. Paris–Stockholm–Rio only D. PM–SO₂–Ringelmann only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q9.** High BOD means:
-
-Options: A. More organic water pollution B. Cleaner water always C. Only better DO always D. Only silence zone compliance
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** CGWB = groundwater; CPCB air–surface water.
 
 </details>
 
-**Q10.** COD compared to BOD is:
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Options: A. Usually ≥ BOD B. Always much smaller C. Identical to dB D. Identical to AQI
+Assertion (A): Monitoring is systematic repeated measurement against standards.
 
-<details><summary>Show answer</summary>
+Reason (R): An audit is identical to an AQI reading.
 
-**Ans: A**
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q11.** Lichens indicate:
+**Ans: C.** A true, R false.
 
-Options: A. Air pollution (SO₂ sensitivity) B. Only ocean MARPOL oil C. Only noise Moradabad rank D. Only SUP plastic ban year
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q12.** NAMP is:
-
-Options: A. Manual national air monitoring B. Only groundwater board C. Only Form V EMS ISO twin D. Only Desertification Atlas
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**A/R logic:** Audit checks legal conformity — not just another AQI reading.
 
 </details>
 
-**Q13.** NWMP monitors:
+**Q5.** With reference to bio-indicators, which of the following statements is/are correct?
 
-Options: A. Surface water quality B. Only ambient noise in silence zones C. Only Helium balloons D. Only ozone hole DU
+1. Lichens indicate SO₂ stress.
+2. Living organisms can reveal chronic pollution stress.
+3. Ringelmann is a water-quality number.
 
-<details><summary>Show answer</summary>
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: A.** Only 1 and 2.
 
-**Q14.** Audit differs from monitoring because audit:
-
-Options: A. Verifies compliance/systems B. Only reads one AQI number C. Only plants trees D. Only bans rain
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q15.** SAMEER app relates to:
-
-Options: A. CPCB AQI dissemination B. Only UNCCD LDN C. Only Taj Trapezium map D. Only biogas composition
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Ringelmann = smoke shade 0–5.
 
 </details>
 
-**Q16.** NCAP launched in:
+**Q6.** Arrange BOD vs COD:
 
-Options: A. 2019 B. 1974 C. 1987 D. 1730
+A. BOD always > COD
+B. COD usually ≥ BOD; BOD = microbial O₂ demand
+C. Both identical to Noise dB
+D. Both identical to ISO 14001
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** COD ≥ BOD usually.
 
-</details>
-
-**Q17.** Low DO in a river often signals:
-
-Options: A. Stressed aquatic life / pollution or eutrophication B. Perfect drinking water always C. Only silence zone success D. Only Ringelmann zero forever
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Oxygen-demand pair.
 
 </details>
 
-**Q18.** UPPCB mainly:
+**Q7.** Which of the following pairs is/are NOT correctly matched?
 
-Options: A. State consent and enforcement B. Only UNFCCC secretariat C. Only IPCC Working Group I D. Only Montreal Multilateral Fund
+1. SAFAR — IITM AQ + weather forecast
+2. SAMEER — AQI public app
+3. SAFAR — CGWB groundwater report
 
-<details><summary>Show answer</summary>
+A. 1 and 2 only
+B. 2 and 3 only
+C. 3 only
+D. 1, 2 and 3
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: C.** Only pair 3 is not correctly matched.
 
-**Q19.** PARIVESH relates to:
-
-Options: A. EC / compliance portal track B. Only noise Frontier Report C. Only Thar Pleistocene deposits D. Only laughing gas N₂O
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q20.** Pressure indicator example:
-
-Options: A. Emission/discharge load B. Only final AQI colour C. Only ISO certificate frame D. Only Form V stamp ink
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** SAFAR ≠ CGWB.
 
 </details>
 
-**Q21.** Assertion (A): CGWB prepares the Annual Groundwater Quality Report.
-Reason (R): CPCB alone runs all groundwater quality atlases in India.
+**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Options: A. Both true; R explains A B. Both true; R does not explain A C. A true, R false D. Both false
+Assertion (A): Form V Environmental Statement under EPA Rule 14 goes to SPCB yearly.
 
-<details><summary>Show answer</summary>
+Reason (R): ISO 14001 is the Environmental Management System standard.
 
-**Ans: C**
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q22.** State indicator example:
+**Ans: A.** Both true; ISO 14001 does not explain Form V filing.
 
-Options: A. Ambient PM2.5 or river BOD B. Only number of policies announced C. Only Form V page count D. Only ISO brochure photos
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q23.** Response indicator example:
-
-Options: A. STP capacity / NCAP action spend B. Only raw SO₂ molecules in air C. Only Ringelmann chart paper D. Only dB without context
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**A/R logic:** Statement vs EMS standard.
 
 </details>
 
-**Q24.** Consent to Operate is issued by:
+**Q9.** With reference to NCAP, which of the following statements is/are correct?
 
-Options: A. SPCB (e.g. UPPCB) B. Only WTO C. Only IMF D. Only CITES Secretariat
+1. 2019 expands city monitoring and action.
+2. SAMEER publishes AQI for public warning.
+3. SAMEER replaces NCAP city action plans.
 
-<details><summary>Show answer</summary>
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: D.** Only 1 and 2.
 
-**Q25.** Green audit in colleges typically checks:
-
-Options: A. Energy, water, waste, campus ecology B. Only Kyoto CERs trading floor C. Only ozone hole size over UP D. Only Moradabad noise rank
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q26.** AQI is driven by:
-
-Options: A. Worst pollutant sub-index B. Only helium concentration C. Only Form V signature D. Only UNCCD day theme
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** App ≠ action-plan substitute.
 
 </details>
 
-**Q27.** SAFAR inauguration minister (2018 fact):
+**Q10.** Match List-I with List-II:
 
-Options: A. Dr. Harsh Vardhan B. Only RBI Governor always C. Only WTO DG always D. Only FAO DG always
+| List-I | List-II |
+|--------|--------|
+| A. Noise | 1. Visible smoke shade 0–5 |
+| B. Ringelmann | 2. Decibels |
+| C. Consent to Operate | 3. Links permission to monitoring + audit |
 
-<details><summary>Show answer</summary>
+Code:
 
-**Ans: A**
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q28.** Ringelmann is NOT for:
+**Ans: A.** A-2, B-1, C-3.
 
-Options: A. Noise measurement B. Smoke opacity C. Stack plume grading D. Visual smoke density
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q29.** Monitoring without standards is weak because:
-
-Options: A. No benchmark for breach/action B. Data automatically becomes Form V C. ISO issues itself D. CGWB becomes CPCB
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Noise / Ringelmann / CTO.
 
 </details>
 
-**Q30.** Correct set:
+**Q11.** Arrange CPCB vs CGWB homes:
 
-Options: A. BOD=aquatic assay; Ringelmann=smoke; CGWB=GW report; Form V=annual statement; audit≠monitoring B. BOD=blood test; Ringelmann=fog; CPCB=GW report; audit=only AQI glance C. SAFAR=groundwater board; ISO 14001=ozone treaty D. NAMP=only noise law
+A. Both identical always
+B. CPCB air–surface water; CGWB groundwater
+C. CGWB runs NAMP only
+D. CPCB publishes only ISFR
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Do not swap regulator homes.
+
+**Logic:** Institution split.
+
+</details>
+
+**Q12.** With reference to environmental audit, which of the following statements is/are correct?
+
+1. Verifies compliance with law or clearance conditions.
+2. More than raw data logging.
+3. Green audits / EC compliance sit in the audit family.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All three.
+
+**Logic:** Audit family.
+
+</details>
+
+**Q13.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): NWMP surface-water networks do not replace CGWB groundwater networks.
+
+Reason (R): Different media need different monitoring homes.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R explains A.
+
+**A/R logic:** Surface ≠ groundwater networks.
+
+</details>
+
+**Q14.** Which one of the following correctly states NAMP vs CAAQMS?
+
+A. Both only ISO 14001 logos
+B. Both only groundwater
+C. Both only Form V to MoEFCC weekly
+D. NAMP manual long trends; CAAQMS continuous real-time
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Manual trends vs real-time.
+
+**Logic:** Air network pair.
+
+</details>
+
+**Q15.** How many of the following are air indicators in teaching?
+
+PM2.5, PM10, SO₂, NOx, AQI, BOD
+
+A. Only five
+B. Only four
+C. Only three
+D. All six
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only five.
+
+**Logic:** BOD is water.
+
+</details>
+
+**Q16.** With reference to SAFAR launch neighbourhood, which of the following statements is/are correct?
+
+1. IITM system.
+2. Associated with July 2018 launch messaging teaching.
+3. It is the annual CGWB groundwater quality report.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Not CGWB report.
+
+</details>
+
+**Q17.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. BOD | 1. EMS standard |
+| B. COD | 2. Microbial oxygen demand |
+| C. ISO 14001 | 3. Chemical oxygen demand |
+
+Code:
+
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A-2, B-3, C-1.
+
+**Logic:** BOD/COD/ISO.
+
+</details>
+
+**Q18.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Bio-indicators supplement instruments.
+
+Reason (R): Lichens are classic SO₂ stress indicators.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; lichen example does not alone define the whole supplement role.
+
+**A/R logic:** Concept vs example.
+
+</details>
+
+**Q19.** Which of the following pairs is/are correctly matched?
+
+1. Monitoring ≠ audit
+2. Audit checks legal conformity
+3. Monitoring = only one-off casual sampling identical to green audit
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Monitoring ≠ casual one-off audit.
+
+</details>
+
+**Q20.** Arrange Form V destination:
+
+A. SPCB yearly under EPA Rule 14
+B. UNEP Nairobi only
+C. Only IUCN Gland
+D. Only WWF Living Planet
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** SPCB yearly.
+
+**Logic:** Environmental Statement.
+
+</details>
+
+**Q21.** With reference to Consent to Operate, which of the following statements is/are correct?
+
+1. Links industry permission to monitoring data.
+2. Links to audit compliance.
+3. Replaces ISO 14001 entirely as a global EMS.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** CTO ≠ ISO substitute.
+
+</details>
+
+**Q22.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Ringelmann measures visible smoke shade on a 0–5 scale.
+
+Reason (R): It is a standard water BOD substitute.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true, R false.
+
+**A/R logic:** Smoke — not water BOD.
+
+</details>
+
+**Q23.** How many of the following CPCB products are correct?
+
+NAMP, CAAQMS, NWMP
+
+A. Only one
+B. Only two
+C. All three
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All three.
+
+**Logic:** CPCB trio.
+
+</details>
+
+**Q24.** Which one of the following correctly states CGWB’s report role?
+
+A. Only Form V to UNEP
+B. Only NAMP manual air
+C. Only Ringelmann charts
+D. Groundwater quality/levels; annual groundwater quality report
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Groundwater home.
+
+**Logic:** CGWB identity.
+
+</details>
+
+**Q25.** With reference to water indicators, which of the following statements is/are correct?
+
+1. Include BOD, COD, DO, pH, coliform.
+2. COD usually ≥ BOD.
+3. PM2.5 is a classic water coliform test.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** PM2.5 is air.
+
+</details>
+
+**Q26.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. NCAP | 1. AQI app |
+| B. SAMEER | 2. 2019 city action/monitoring |
+| C. Lichens | 3. SO₂ bio-indicator |
+
+Code:
+
+A. A-1, B-2, C-3
+B. A-2, B-1, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** A-2, B-1, C-3.
+
+**Logic:** NCAP/SAMEER/lichens.
+
+</details>
+
+**Q27.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Indicators are decision signals for policy and public warning.
+
+Reason (R): Raw numbers alone without standards are already a full environmental audit.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true, R false.
+
+**A/R logic:** Indicators ≠ audit by themselves.
+
+</details>
+
+**Q28.** Arrange green audit family idea:
+
+A. Only casual one-off sampling
+B. Only AQI colour bands
+C. Green audits and EC compliance reports sit in audit family
+D. Only Ringelmann 5 forever
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Audit family — not casual sampling.
+
+**Logic:** Compliance reports.
+
+</details>
+
+**Q29.** With reference to noise, which of the following statements is/are correct?
+
+1. Measured in decibels.
+2. Distinct from Ringelmann smoke scale.
+3. Noise dB equals COD mg/L always.
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Different metrics.
+
+</details>
+
+**Q30.** Which one of the following best separates monitoring from audit?
+
+A. Monitoring = repeated measurement vs standards; audit = legal/clearance conformity check
+B. Both identical AQI apps only
+C. Both identical groundwater wells only
+D. Both identical ISO logos only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Measurement vs conformity.
+
+**Logic:** Core distinction.
 
 </details>
 

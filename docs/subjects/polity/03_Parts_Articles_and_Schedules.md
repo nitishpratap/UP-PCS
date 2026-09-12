@@ -3357,840 +3357,617 @@ D. Tenth
 
 ## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden. 54 questions.** Full stems (not cryptic stubs). Mix asked PYQ patterns with standard coaching angles.
+> **Answers hidden.** **30 questions** in UPPCS 2024–25 format. ≥60% multi-statement/application. Includes A/R, Match List, chronology/arrange, and NOT-matched. Drawn from Consolidated Must-Score Facts and Confused Pairs — original stems, not verbatim past papers.
 
-**Q1.** In which Part of the Constitution of India do we find the provisions relating to citizenship?
+**Q1.** With reference to Parts of the Constitution, consider the following statements:
+1. Part III deals with Fundamental Rights.
+2. Part IV deals with Directive Principles of State Policy.
+3. Part IVA deals with Municipalities.
 
-A. Part I
-B. Part II
-C. Part III
-D. Part IX
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Part II (Arts. 5–11). Part I is Union and its Territory.
-</details>
-
-**Q2.** Consider the following pairs:
-
-| Part | Subject |
-|------|---------|
-| 1. Part IVA | Fundamental Duties |
-| 2. Part VI | The States |
-| 3. Part XI | The Municipalities |
-
-Which of the pairs given above is/are **NOT** correctly matched?
-
-A. 1 and 2 only
-B. 3 only
-C. 2 and 3 only
-D. 1 only
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Municipalities = **Part IXA**; Part XI = relations between the Union and the States. (UPPCS 2025 Q24 pattern)
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** Part IVA is Fundamental Duties; Municipalities are Part IXA.
+
 </details>
 
-**Q3.** With reference to the Constitution of India, municipalities are provided for in:
-
-A. Part IX
-B. Part IXA
-C. Part XI
-D. Part XIVA
+**Q2.** Which of the following pairs is NOT correctly matched?
+A. Part IX — Panchayats
+B. Part IXA — Municipalities
+C. Part XI — Municipalities
+D. Part IXB — Cooperative Societies
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Part IX = Panchayats; Part IXA = Municipalities; Part IXB = Cooperative Societies.
+**Ans: C.** Part XI is Relations between the Union and the States, not Municipalities.
+
+**Logic:** Classic Part XI vs IXA wrong-match trap.
+
 </details>
 
-**Q4.** Which one of the following (Provision — Part of the Constitution) is **NOT** correctly matched?
-
-A. The Union Territories — Part VIII
-B. The Scheduled and Tribal Areas — Part X
-C. Tribunals — Part XI
-D. Official Language — Part XVII
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Tribunals = **Part XIVA**. Part XI is Union–State relations.
-</details>
-
-**Q5.** Provisions relating to relations between the Union and the States are contained in:
-
-A. Part X
-B. Part XI
-C. Part XII
-D. Part XIII
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Part X = Scheduled and Tribal Areas; Part XII = Finance, Property, Contracts and Suits; Part XIII = Trade, Commerce and Intercourse.
-</details>
-
-**Q6.** Emergency Provisions of the Constitution are placed in:
-
-A. Part XV
-B. Part XVII
-C. Part XVIII
-D. Part XX
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Part XV = Elections; Part XVII = Official Language; Part XX = Amendment.
-</details>
-
-**Q7.** Which one of the following is **NOT** correctly matched?
-
-A. Fundamental Duties — Part IVA
-B. The States — Part VI
-C. Attorney-General — Part XIII
-D. Services under the Union and the States — Part XIV
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Attorney-General is under **Part V** (Art. 76). Part XIII = Trade, Commerce and Intercourse.
-</details>
-
-**Q8.** Forms of Oaths or Affirmations for Union and State Ministers, MPs, MLAs and Judges are contained in the:
-
-A. Second Schedule
-B. Third Schedule
-C. Fourth Schedule
-D. Fifth Schedule
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Second Schedule = emoluments/privileges; Fourth = Rajya Sabha seats.
-</details>
-
-**Q9.** Allocation of seats in the Council of States (Rajya Sabha) to States and Union Territories is provided in the:
-
-A. Second Schedule
-B. Third Schedule
-C. Fourth Schedule
-D. Ninth Schedule
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Ninth Schedule validates certain Acts; it does **not** allocate RS seats.
-</details>
-
-**Q10.** The anti-defection provisions of the Constitution are contained in the:
-
-A. Eighth Schedule
-B. Ninth Schedule
-C. Tenth Schedule
-D. Eleventh Schedule
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Added by the **52nd Amendment, 1985**.
-</details>
-
-**Q11.** The Ninth Schedule was added to the Constitution by the:
-
-A. First Constitutional Amendment
-B. Forty-second Constitutional Amendment
-C. Forty-fourth Constitutional Amendment
-D. Fifty-second Constitutional Amendment
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — **1st Amendment, 1951** (land-reform / validation of Acts).
-</details>
-
-**Q12.** The Tenth Schedule was added to the Constitution by the:
-
-A. First Constitutional Amendment
-B. Forty-second Constitutional Amendment
-C. Fifty-second Constitutional Amendment
-D. Seventy-third Constitutional Amendment
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — **52nd Amendment, 1985** (anti-defection). 73rd added the Eleventh Schedule.
-</details>
-
-**Q13.** How many items are there in the Eleventh Schedule of the Constitution of India?
-
-A. 22
-B. 24
-C. 29
-D. 32
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — 29** (Panchayats; Art. 243G; 73rd Amendment).
-</details>
-
-**Q14.** The Twelfth Schedule of the Constitution contains how many subjects for municipalities?
-
-A. 12
-B. 18
-C. 22
-D. 29
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — 18** (Art. 243W; 74th Amendment). 29 is the Eleventh Schedule count.
-</details>
-
-**Q15.** The Sixth Schedule of the Constitution is applicable in which of the following States?
-
-A. Tripura
-B. Sikkim
-C. Nagaland
-D. All of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Sixth Schedule = tribal areas of **Assam, Meghalaya, Tripura, Mizoram (AMTM)** only. Not Nagaland or Sikkim.
-</details>
-
-**Q16.** How many languages are presently included in the Eighth Schedule of the Constitution?
-
-A. 18
-B. 20
-C. 22
-D. 24
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — 22.** Original 14 (1950); last expansion by the **92nd Amendment, 2003**.
-</details>
-
-**Q17.** Which of the following language(s) is/are **NOT** included in the Eighth Schedule?
-
-1. Nepali
-2. Dogri
-3. Bodo
-4. Bhojpuri
-
-Select the correct answer using the code given below:
-
-A. 1 and 2 only
-B. 4 only
-C. 3 and 4 only
-D. 1 only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — **Bhojpuri** is not in the Eighth Schedule. Nepali, Dogri and Bodo are included.
-</details>
-
-**Q18.** ‘Census’ as a subject of legislation is included in the:
-
-A. Union List
-B. State List
-C. Concurrent List
-D. Residuary field only by convention
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Union List. Public health and sanitation is State List.
-</details>
-
-**Q19.** ‘Public Health and Sanitation’ is a subject in the:
-
-A. Union List
-B. State List
-C. Concurrent List
-D. Twelfth Schedule only, and not in the Seventh Schedule
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — State List (Seventh Schedule).
-</details>
-
-**Q20.** Which of the following is/are included in the Concurrent List of the Seventh Schedule?
-
-1. Trade and Commerce
-2. Adulteration of goods
-3. Succession
-
-Select the correct answer using the code given below:
-
-A. 1 and 3 only
-B. 1, 2 and 3
-C. 1 only
-D. 2 and 3 only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Adulteration of goods and succession are Concurrent. Unqualified “Trade and Commerce” is **not** treated as Concurrent as a whole (Union/State split).
-</details>
-
-**Q21.** Part IXB of the Constitution deals with:
-
-A. The Panchayats
-B. The Municipalities
-C. The Cooperative Societies
-D. Tribunals
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Inserted by the **97th Amendment, 2011**.
-</details>
-
-**Q22.** Provisions relating to Official Language are contained in:
-
-A. Part XV
-B. Part XVI
-C. Part XVII
-D. Part XVIII
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Part XV = Elections; Part XVI = special provisions for certain classes; Part XVIII = Emergency.
-</details>
-
-**Q23.** The Second Schedule of the Constitution deals with:
-
-A. Forms of Oaths or Affirmations
-B. Emoluments, allowances and privileges of certain constitutional functionaries
-C. Allocation of seats in the Rajya Sabha
-D. Recognised languages
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — President, Governors, Speakers, Judges of SC/HC, CAG, etc. **PM/CM salaries are not** in this Schedule.
-</details>
-
-**Q24.** The First Schedule of the Constitution contains:
-
-A. Forms of Oaths or Affirmations
-B. Languages recognised by the Constitution
-C. Names and territorial extent of States and Union Territories
-D. Anti-defection provisions
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Names and extent of **28 States and 8 UTs**.
-</details>
-
-**Q25.** Match List-I with List-II and select the correct answer using the code given below the lists:
-
-**List-I (Schedule)**
-
-| Code | Schedule |
-|------|----------|
-| A | Seventh Schedule |
-| B | Eighth Schedule |
-| C | Ninth Schedule |
+**Q3.** Match List-I (Schedule) with List-II (subject) and select the correct answer:
+
+**List-I**
+
+| Code | Item |
+|------|------|
+| A | Fourth Schedule |
+| B | Fifth Schedule |
+| C | Eighth Schedule |
 | D | Tenth Schedule |
 
-**List-II (Subject)**
+**List-II**
 
-| Code | Subject |
-|------|---------|
-| 1 | Languages |
-| 2 | Anti-defection |
-| 3 | Union, State and Concurrent Lists |
-| 4 | Validation of certain Acts and Regulations |
-
-> Note: Row order in the tables is **not** the answer.
-
-A. 3, 1, 2, 4
-B. 3, 1, 4, 2
-C. 2, 3, 4, 1
-D. 4, 2, 1, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — A-3, B-1, C-4, D-2. (UPPCS 2025 Q113 pattern)
-</details>
-
-**Q26.** Article 368 (power of Parliament to amend the Constitution) is contained in:
-
-A. Part XVIII
-B. Part XIX
-C. Part XX
-D. Part XXI
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Part XVIII = Emergency; Part XXI = Temporary, Transitional and Special Provisions.
-</details>
-
-**Q27.** Article 324 of the Constitution relates to:
-
-A. The Supreme Court
-B. Superintendence, direction and control of elections by the Election Commission
-C. The Comptroller and Auditor-General
-D. The Union Public Service Commission
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Part XV (Elections). CAG = Art. 148; UPSC = Arts. 315–323.
-</details>
-
-**Q28.** Article 32 (constitutional remedies) is placed in:
-
-A. Part II
-B. Part III
-C. Part IV
-D. Part IVA
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Part III (Fundamental Rights). Ambedkar called it the **heart and soul** of the Constitution.
-</details>
-
-**Q29.** Sindhi was added to the Eighth Schedule by which Constitutional Amendment?
-
-A. 21st Amendment
-B. 71st Amendment
-C. 92nd Amendment
-D. 42nd Amendment
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — **21st Amendment, 1967** (14 → 15 languages).
-</details>
-
-**Q30.** Bodo, Dogri, Maithili and Santhali were added to the Eighth Schedule by the:
-
-A. 71st Constitutional Amendment
-B. 92nd Constitutional Amendment
-C. 21st Constitutional Amendment
-D. First Constitutional Amendment
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — **92nd Amendment, 2003** (18 → **22**). The 71st (1992) added Konkani, Manipuri and Nepali.
-</details>
-
-**Q31.** The provision “India, that is Bharat, shall be a Union of States” is contained in:
-
-A. Article 1
-B. Article 2
-C. Article 3
-D. Article 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Article 1. “Union” (not federation) = indestructible Union of destructible States.
-</details>
-
-**Q32.** Parliament may form a new State and alter the area, boundaries or name of an existing State under:
-
-A. Article 1
-B. Article 2
-C. Article 3
-D. Article 368
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — State Legislature’s view is **not** binding. A law under Arts. 2–3 is **not** an amendment under Art. 368 (Art. 4).
-</details>
-
-**Q33.** The Right to Education for children in the age group of 6–14 years is provided in:
-
-A. Article 21
-B. Article 21A
-C. Article 45
-D. Article 51A only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Inserted by the **86th Amendment, 2002**. Article 45 now covers early childhood care below 6; Art. 51A(k) is the corresponding duty.
-</details>
-
-**Q34.** Consider the following statements:
-
-1. Writs under Article 32 lie in the Supreme Court for the enforcement of Fundamental Rights.
-2. The writ jurisdiction of High Courts under Article 226 is wider than that of the Supreme Court under Article 32.
-
-Which of the statements given above is/are correct?
-
-A. 1 only
-B. 2 only
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Art. 226 can be used for Fundamental Rights **and** “for any other purpose.”
-</details>
-
-**Q35.** The Directive Principle relating to a Uniform Civil Code is contained in:
-
-A. Article 40
-B. Article 44
-C. Article 46
-D. Article 50
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Art. 40 = village panchayats; Art. 46 = SC/ST and weaker sections; Art. 50 = separation of judiciary from executive.
-</details>
-
-**Q36.** The Finance Commission is provided for in:
-
-A. Article 263
-B. Article 266
-C. Article 280
-D. Article 312
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Art. 263 = Inter-State Council; Art. 266 = Consolidated Funds; Art. 312 = All-India Services.
-</details>
-
-**Q37.** Which one of the following pairs is **NOT** correctly matched?
-
-A. Article 371A — Nagaland
-B. Article 371F — Sikkim
-C. Article 371J — Goa
-D. Article 371H — Arunachal Pradesh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Art. **371J = Karnataka** (Kalyana-Karnataka). Goa = **Art. 371I**.
-</details>
-
-**Q38.** The oath or affirmation of the President of India is provided in:
-
-A. The Third Schedule
-B. Article 60
-C. The Second Schedule
-D. Article 61
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Third Schedule does **not** contain the oaths of the President, Vice-President or Governor (Arts. **60, 69, 159**). Art. 61 is impeachment.
-</details>
-
-**Q39.** Consider the following statements:
-
-1. The Fifth Schedule deals with Scheduled Areas and Scheduled Tribes in States other than those under the Sixth Schedule.
-2. The Sixth Schedule provides for Autonomous District Councils in Assam, Meghalaya, Tripura and Mizoram.
-
-Which of the statements given above is/are correct?
-
-A. 1 only
-B. 2 only
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Art. **244(1)** = Fifth; Art. **244(2)** = Sixth (AMTM).
-</details>
-
-**Q40.** Consider the following statements:
-
-1. Residuary powers of legislation vest in the States.
-2. After the 42nd Constitutional Amendment, Education is in the Concurrent List.
-
-Which of the statements given above is/are correct?
-
-A. 1 only
-B. 2 only
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Residuary powers vest in the **Union** (Art. 248 / Union List Entry 97). The 42nd also shifted forests, protection of wild animals and birds, weights and measures, and administration of justice (except SC/HC) to the Concurrent List.
-</details>
-
-**Q41.** Match List-I with List-II and select the correct answer using the code given below the lists:
-
-**List-I (Part)**
-
-| Code | Part |
+| Code | Item |
 |------|------|
-| A | Part III |
-| B | Part IV |
-| C | Part IVA |
-| D | Part XIVA |
-
-**List-II (Subject)**
-
-| Code | Subject |
-|------|---------|
-| 1 | Directive Principles of State Policy |
-| 2 | Tribunals |
-| 3 | Fundamental Rights |
-| 4 | Fundamental Duties |
+| 1 | Anti-defection |
+| 2 | Rajya Sabha seat allocation |
+| 3 | Scheduled Areas and Scheduled Tribes (many States) |
+| 4 | Official languages |
 
 > Note: Row order in the tables is **not** the answer.
 
-A. A-3, B-1, C-4, D-2
-B. A-1, B-3, C-4, D-2
-C. A-3, B-4, C-1, D-2
-D. A-3, B-1, C-2, D-4
+A. A-3, B-2, C-1, D-4
+B. A-2, B-4, C-3, D-1
+C. A-1, B-3, C-4, D-2
+D. A-2, B-3, C-4, D-1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: D.** A-2, B-3, C-4, D-1 is correct.
+
+**Logic:** 4th RS seats; 5th Scheduled Areas; 8th languages; 10th anti-defection.
+
 </details>
 
-**Q42.** Assertion (A): Laws placed in the Ninth Schedule after 24 April 1973 can be tested on the ground of Basic Structure.
+**Q4.** With reference to the Eleventh and Twelfth Schedules, which of the following is/are correct?
+1. Eleventh Schedule lists 29 Panchayat subjects.
+2. Twelfth Schedule lists 18 Municipality subjects.
+3. Eleventh Schedule came with the 74th Amendment.
 
-Reason (R): The Supreme Court in *I.R. Coelho* held that the Ninth Schedule is not a complete immunity from judicial review.
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 only
+D. 1, 2 and 3
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** 11th = 73rd (29); 12th = 74th (18). Do not swap amendments.
+
+</details>
+
+**Q5.** Consider the following Assertion and Reason:
+
+Assertion (A): Article 32 writs are available for the enforcement of Fundamental Rights.
+
+Reason (R): Article 226 is narrower than Article 32 because High Courts cannot protect legal rights other than Fundamental Rights.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** A tests the post-*Kesavananda* cut-off for Ninth Schedule entries. R tests the *I.R. Coelho* holding. R correctly explains why A is true.
+**Ans: C.** (A) is true, but (R) is false.
 
-**Ans: A** — Cut-off is **24 April 1973** (*Kesavananda* date). *I.R. Coelho* (2007) opened post-cut-off Ninth Schedule laws to Basic Structure review. A true; R true; R explains A.
+**A/R logic:** 226 is wider — FR plus other legal rights.
+
 </details>
 
-**Q43.** With reference to the Schedules of the Constitution, consider the following statements:
+**Q6.** Arrange the following constitutional insertions in chronological order of the related Amendments:
+1. Fundamental Duties (Part IVA)
+2. Panchayats (Part IX modern scheme)
+3. Cooperative Societies (Part IXB)
 
-1. The original Constitution of 1950 had eight Schedules.
-2. The Eleventh and Twelfth Schedules were added by the 73rd and 74th Amendments respectively.
-3. Part VII of the Constitution has been repealed.
+A. 2 – 1 – 3
+B. 1 – 2 – 3
+C. 1 – 3 – 2
+D. 3 – 1 – 2
 
-Which of the statements given above is/are correct?
+<details>
+<summary>Show answer</summary>
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
+**Ans: B.** 42nd (Duties) → 73rd (Panchayats) → 97th (Cooperatives).
+
+**Logic:** Duties 1976; local government 1992; cooperatives 2011.
+
+</details>
+
+**Q7.** Consider the following statements about Sixth Schedule areas:
+1. Sixth Schedule covers tribal areas of Assam, Meghalaya, Tripura and Mizoram.
+2. It provides for Autonomous District Councils.
+3. It applies uniformly to all States with Scheduled Areas under the Fifth Schedule pattern.
+
+A. 2 and 3 only
+B. 1 only
+C. 1 and 2 only
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Originally **8** Schedules / **22** Parts; now **12** Schedules / **25** Parts (including IVA, IXA, IXB, XIVA). Part VII (States in Part B of the First Schedule) stands repealed.
+**Ans: C.** Only 1 and 2 are correct.
+
+**Logic:** Fifth and Sixth Schedules are different regimes; AMTM is the Sixth Schedule set.
+
 </details>
 
-**Q44.** How many of the following subjects were transferred from the State List to the Concurrent List by the 42nd Constitutional Amendment?
+**Q8.** Which of the following pairs is/are NOT correctly matched?
+1. Article 72 — President’s pardoning power
+2. Article 161 — Governor’s pardoning power
+3. Article 123 — Governor’s ordinance power
 
-1. Education
-2. Forests
-3. Protection of wild animals and birds
-4. Census
-
-A. Only two
-B. Only three
-C. All four
-D. Only one
+A. 1 only
+B. 1 and 2 only
+C. 2 and 3 only
+D. 3 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Education, forests, and protection of wild animals and birds (also weights and measures, and administration of justice except SC/HC). **Census was already Union List.**
+**Ans: D.** Only pair 3 is NOT correctly matched.
+
+**Logic:** Article 123 is President’s ordinance; Governor’s ordinance is Article 213.
+
 </details>
 
-**Q45.** Consider the following statements regarding the Third Schedule:
+**Q9.** With reference to emergency articles, which of the following is/are correct?
+1. Article 352 deals with National Emergency.
+2. Article 356 deals with State Emergency / President’s Rule.
+3. Article 360 deals with Financial Emergency.
 
-1. It contains the oath of the President of India.
-2. It contains the oaths of Union Ministers, Members of Parliament and Judges of the Supreme Court.
-3. The oath of the Governor is provided in Article 159, not in the Third Schedule.
-
-Which of the statements given above is/are correct?
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1, 2 and 3
+B. 1 and 2 only
+C. 2 and 3 only
+D. 1 and 3 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — President = **Art. 60**; Vice-President = **Art. 69**; Governor = **Art. 159**. These three are **outside** the Third Schedule.
+**Ans: A.** All three statements are correct.
+
+**Logic:** Standard 352 / 356 / 360 map.
+
 </details>
 
-**Q46.** Match List-I with List-II and select the correct answer using the code given below the lists:
+**Q10.** Match List-I (Article) with List-II (subject):
 
-**List-I (Article)**
+**List-I**
 
-| Code | Article |
-|------|---------|
-| A | 371A |
-| B | 371F |
-| C | 371I |
-| D | 371J |
+| Code | Item |
+|------|------|
+| A | Article 110 |
+| B | Article 148 |
+| C | Article 263 |
+| D | Article 324 |
 
-**List-II (State)**
+**List-II**
 
-| Code | State |
-|------|-------|
-| 1 | Goa |
-| 2 | Karnataka |
-| 3 | Nagaland |
-| 4 | Sikkim |
+| Code | Item |
+|------|------|
+| 1 | Election Commission |
+| 2 | Money Bill definition |
+| 3 | CAG |
+| 4 | Inter-State Council |
 
 > Note: Row order in the tables is **not** the answer.
 
-A. A-3, B-4, C-1, D-2
-B. A-4, B-3, C-1, D-2
-C. A-3, B-4, C-2, D-1
+A. A-2, B-1, C-3, D-4
+B. A-2, B-3, C-4, D-1
+C. A-3, B-2, C-4, D-1
+D. A-1, B-3, C-4, D-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** A-2, B-3, C-4, D-1 is correct.
+
+**Logic:** 110 Money Bill; 148 CAG; 263 ISC; 324 ECI.
+
+</details>
+
+**Q11.** With reference to Vice-President articles, consider the following statements:
+1. Articles 63–69 relate to the Vice-President.
+2. The Vice-President is elected by an electoral college that includes elected State MLAs.
+3. Article 66 governs election of the Vice-President.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 3 are correct.
+
+**Logic:** VP college is Parliament only; State MLAs vote for President (Art. 54), not VP.
+
+</details>
+
+**Q12.** Consider the following Assertion and Reason:
+
+Assertion (A): Article 226 is often described as wider than Article 32.
+
+Reason (R): High Courts under Article 226 can issue writs for Fundamental Rights and for other legal rights.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A).
+
+**A/R logic:** Width of 226 vs FR-only 32 is the explanation.
+
+</details>
+
+**Q13.** Consider the following statements about High Court articles:
+1. Article 214 provides a High Court for each State.
+2. Article 217 sets High Court judge appointment and retirement age of 62.
+3. Article 227 is the High Court’s writ jurisdiction for Fundamental Rights only.
+
+A. 2 and 3 only
+B. 1 only
+C. 1, 2 and 3
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2 are correct.
+
+**Logic:** Writs = 226; 227 is superintendence over subordinate courts.
+
+</details>
+
+**Q14.** Which one of the following pairs is NOT correctly matched?
+A. Article 300A — Fundamental Right to property
+B. Article 21 — Protection of life and personal liberty
+C. Article 21A — RTE for ages 6–14
+D. Article 32 — SC remedy for Fundamental Rights
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Article 300A is a constitutional legal right to property, not a Fundamental Right.
+
+**Logic:** Property left Part III after the 44th; 300A is the legal-right home.
+
+</details>
+
+**Q15.** With reference to Eighth Schedule languages, which of the following is/are correct?
+1. The Eighth Schedule lists 22 languages.
+2. Nepali, Dogri and Bodo are included.
+3. Bhojpuri is included in the Eighth Schedule.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** Bhojpuri is out of the Eighth Schedule in the standard teaching set.
+
+</details>
+
+**Q16.** Arrange the following articles in ascending numerical order:
+1. Article 51A (Fundamental Duties)
+2. Article 32 (constitutional remedies)
+3. Article 368 (amendment)
+4. Article 352 (National Emergency)
+
+A. 1 – 2 – 4 – 3
+B. 2 – 1 – 3 – 4
+C. 2 – 1 – 4 – 3
+D. 2 – 4 – 1 – 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** 32 → 51A → 352 → 368.
+
+**Logic:** Simple ascending order check on high-yield articles.
+
+</details>
+
+**Q17.** Consider the following statements:
+1. Part VII stands repealed.
+2. Originally there were 22 Parts.
+3. Citizenship is placed in Part I.
+
+A. 2 and 3 only
+B. 1 only
+C. 1, 2 and 3
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2 are correct.
+
+**Logic:** Citizenship is Part II, not Part I.
+
+</details>
+
+**Q18.** With reference to Attorney-General and Advocate-General, which of the following is/are correct?
+1. Attorney-General of India is Article 76.
+2. Advocate-General of a State is Article 165.
+3. Attorney-General sits under Part XIII (Trade, Commerce and Intercourse).
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** AG is under Part V (Union), not Part XIII.
+
+</details>
+
+**Q19.** Consider the following Assertion and Reason:
+
+Assertion (A): Ninth Schedule validates certain Acts.
+
+Reason (R): Fourth Schedule allocates Rajya Sabha seats among States and Union Territories.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+
+**A/R logic:** Both schedule facts are true but unrelated; R does not explain Ninth Schedule validation.
+
+</details>
+
+**Q20.** With reference to Article 51A, consider the following statements:
+1. Fundamental Duties were added by the 42nd Amendment.
+2. Originally there were 10 duties.
+3. Article 51A(k) was added by the 86th Amendment.
+
+A. 1 and 2 only
+B. 1, 2 and 3
+C. 2 and 3 only
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** All three statements are correct.
+
+**Logic:** 42nd added Duties; 86th added 51A(k) education duty.
+
+</details>
+
+**Q21.** Which of the following pairs is NOT correctly matched?
+A. Article 371I — Goa (minimum 30 MLAs)
+B. Article 371J — Karnataka (Kalyana-Karnataka)
+C. Article 66 — Impeachment of President
+D. Article 54 — Election of President
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Article 66 is election of the Vice-President; President’s impeachment is Article 61.
+
+**Logic:** 54/61/66 cluster trap.
+
+</details>
+
+**Q22.** Consider the following statements about Seventh Schedule:
+1. It contains Union, State and Concurrent Lists.
+2. Distribution rests on Article 246.
+3. Eleventh Schedule is also a part of the Seventh Schedule lists.
+
+A. 2 and 3 only
+B. 1 only
+C. 1, 2 and 3
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2 are correct.
+
+**Logic:** 11th/12th are separate local-government schedules.
+
+</details>
+
+**Q23.** With reference to equality and freedom clusters, which of the following is/are correct?
+1. Articles 14–18 form the equality cluster.
+2. Article 19 contains six freedoms.
+3. Article 21A is free and compulsory education for ages 6–14.
+
+A. 1, 2 and 3
+B. 1 and 2 only
+C. 2 and 3 only
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** All three statements are correct.
+
+**Logic:** Standard Part III article map.
+
+</details>
+
+**Q24.** Match List-I with List-II:
+
+**List-I**
+
+| Code | Item |
+|------|------|
+| A | Part XV |
+| B | Part XVII |
+| C | Part XVIII |
+| D | Part XX |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | Official Language |
+| 2 | Elections |
+| 3 | Amendment |
+| 4 | Emergency |
+
+> Note: Row order in the tables is **not** the answer.
+
+A. A-1, B-2, C-3, D-4
+B. A-2, B-1, C-4, D-3
+C. A-2, B-4, C-1, D-3
 D. A-3, B-1, C-4, D-2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Nagaland, Sikkim, Goa, Karnataka.
+**Ans: B.** A-2, B-1, C-4, D-3 is correct.
+
+**Logic:** XV Elections; XVII Language; XVIII Emergency; XX Amendment.
+
 </details>
 
-**Q47.** With reference to Article 244 of the Constitution, which one of the following is correct?
+**Q25.** Consider the following statements:
+1. Article 29 protects culture of any section of citizens.
+2. Article 30 protects minorities’ right to establish and administer educational institutions.
+3. Article 29 and Article 30 are identical in personal scope.
 
-A. Article 244(1) applies the Sixth Schedule to Scheduled Areas
-B. Article 244(2) applies the Fifth Schedule to Assam, Meghalaya, Tripura and Mizoram
-C. Article 244(1) applies the Fifth Schedule to Scheduled Areas (other than Sixth Schedule areas)
-D. Both Fifth and Sixth Schedules apply to Nagaland
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — 244(1) = Fifth Schedule; 244(2) = Sixth Schedule (AMTM). Nagaland is under **Art. 371A**, not the Sixth Schedule.
-</details>
-
-**Q48.** Konkani, Manipuri and Nepali were added to the Eighth Schedule by the:
-
-A. 21st Constitutional Amendment
-B. 71st Constitutional Amendment
-C. 92nd Constitutional Amendment
-D. 101st Constitutional Amendment
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — **71st Amendment, 1992** (15 → 18 languages).
-</details>
-
-**Q49.** With reference to the Vice-President of India, consider the following statements:
-
-1. The Vice-President is elected by an electoral college consisting of the elected members of Parliament and the elected members of the State Legislative Assemblies.
-2. The Vice-President is the ex-officio Chairman of the Rajya Sabha.
-3. The oath of the Vice-President is provided in Article 69, not in the Third Schedule.
-
-Which of the statements given above is/are correct?
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
+A. 2 and 3 only
+B. 1 only
+C. 1 and 2 only
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Statement 1 is wrong. Art. **66** electoral college = members of **both Houses of Parliament** only (elected + nominated). State MLAs vote for the **President** under Art. **54**, not for the VP.
+**Ans: C.** Only 1 and 2 are correct.
+
+**Logic:** 29 = any section; 30 = minorities — classic confused pair.
+
 </details>
 
-**Q50.** Which one of the following pairs is **NOT** correctly matched?
+**Q26.** Consider the following Assertion and Reason:
 
-A. Article 214 — High Courts for States
-B. Article 226 — Power of High Courts to issue writs
-C. Article 227 — Power of Parliament to transfer High Court Judges
-D. Article 231 — Common High Court for two or more States
+Assertion (A): A common High Court for two or more States can be created under Article 231.
+
+Reason (R): Creation of a common High Court always requires a constitutional amendment under Article 368.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Art. **227** is the High Court’s power of **superintendence** over subordinate courts and tribunals. Transfer of a High Court Judge is Art. **222**.
+**Ans: C.** (A) is true, but (R) is false.
+
+**A/R logic:** Article 231 needs only an ordinary law, not a 368 amendment.
+
 </details>
 
-**Q51.** Consider the following statements regarding Article 21:
+**Q27.** With reference to Part XXI special provisions, which of the following is correct?
+A. Part XXI contains only Emergency provisions
+B. Article 393 is placed in Part XXI as a special State article
+C. Part XXI is the same as the Seventh Schedule
+D. Articles 371–371J hold temporary, transitional and special provisions
 
-1. Article 21 is available only to citizens of India.
-2. After *Maneka Gandhi*, the procedure under Article 21 must be fair, just and reasonable.
-3. The right to privacy has been held to be a Fundamental Right under Article 21.
+<details>
+<summary>Show answer</summary>
 
-Which of the statements given above is/are correct?
+**Ans: D.** Articles 371–371J sit in Part XXI special/temporary provisions.
+
+**Logic:** Emergency is Part XVIII; short title Art. 393 is separate.
+
+</details>
+
+**Q28.** Which of the following pairs is/are NOT correctly matched?
+1. Article 76 — Attorney-General of India
+2. Article 165 — Advocate-General of a State
+3. Article 280 — Inter-State Council
+
+A. 3 only
+B. 1 only
+C. 1 and 2 only
+D. 2 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only pair 3 is NOT correctly matched.
+
+**Logic:** Article 280 is Finance Commission; Inter-State Council is Article 263.
+
+</details>
+
+**Q29.** With reference to First and Second Schedules, which of the following is/are correct?
+1. First Schedule deals with territories of States and UTs.
+2. Second Schedule deals with emoluments.
+3. Third Schedule deals with oaths and affirmations.
 
 A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+B. 1, 2 and 3
+C. 2 and 3 only
+D. 1 and 3 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Art. **21** is available to **all persons** (citizens and foreigners). *Maneka Gandhi* (1978) and *Puttaswamy* (2017) support statements 2 and 3.
+**Ans: B.** All three statements are correct.
+
+**Logic:** Opening schedule map: territories / emoluments / oaths.
+
 </details>
 
-**Q52.** How many Fundamental Duties are presently listed in Article 51A?
+**Q30.** How many of the following statements are correct?
+1. Article 12 defines State for Fundamental Rights.
+2. Article 13 voids laws inconsistent with Fundamental Rights.
+3. Part III article span is roughly Articles 12–35.
 
-A. 9
-B. 10
-C. 11
-D. 12
+A. Only one
+B. Only two
+C. All three
+D. None
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C — 11** (clauses **a–k**). Ten were added by the **42nd Amendment**; **51A(k)** by the **86th**.
+**Ans: C.** All three statements are correct.
+
+**Logic:** 12–13 gateway plus Part III span is standard.
+
 </details>
-
-**Q53.** Which one of the following is **NOT** a Fundamental Duty under Article 51A?
-
-A. To develop the scientific temper, humanism and the spirit of inquiry and reform
-B. To safeguard public property and abjure violence
-C. To vote in elections to the Lok Sabha and State Assemblies
-D. To protect and improve the natural environment
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Voting is a statutory / political right theme, **not** listed in Art. **51A**. Environment is **51A(g)**; scientific temper is **51A(h)**; public property is **51A(i)**.
-</details>
-
-**Q54.** The Advocate-General for a State is provided for in:
-
-A. Article 76
-B. Article 148
-C. Article 165
-D. Article 280
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Art. **165**. Art. **76** is the Attorney-General of India. Art. **148** is the CAG. Art. **280** is the Finance Commission.
-</details>
-
----
 
 ## Common Traps
 

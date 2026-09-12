@@ -1221,9 +1221,9 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Statement 1 is the NCERT lock. Statement 2 reverses the Prelims default (natural/physical sense).
-
 **Ans: D.** Only 1 is correct.
+
+**Logic:** Statement 1 is the NCERT lock. Statement 2 reverses the Prelims default (natural/physical sense).
 
 </details>
 
@@ -1246,9 +1246,9 @@ D. 2, 3 and 4 only
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Ecology = study; ecosystem = functional unit. Pairs 1–2 are swapped; 3–4 are correct.
-
 **Ans: B.** Only habitat and niche are correctly matched.
+
+**Logic:** Ecology = study; ecosystem = functional unit. Pairs 1–2 are swapped; 3–4 are correct.
 
 </details>
 
@@ -1268,9 +1268,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 1 and 2 are standard locks. Pedosphere is usually grouped with lithosphere/edaphic factors — not a fifth sphere.
-
 **Ans: A.** Only 1 and 2.
+
+**Logic:** 1 and 2 are standard locks. Pedosphere is usually grouped with lithosphere/edaphic factors — not a fifth sphere.
 
 </details>
 
@@ -1290,9 +1290,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** Both laws are correctly stated, but tolerance range does not explain why the scarcest resource limits growth.
-
 **Ans: A.** Both true; R does not explain A.
+
+**A/R logic:** Both laws are correctly stated, but tolerance range does not explain why the scarcest resource limits growth.
 
 </details>
 
@@ -1314,9 +1314,9 @@ D. A-1, B-3, C-2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Edaphic = soil; climatic = weather; topographic = slope/altitude.
-
 **Ans: C.** A-2, B-3, C-1.
+
+**Logic:** Edaphic = soil; climatic = weather; topographic = slope/altitude.
 
 </details>
 
@@ -1336,9 +1336,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Lentic = standing; lotic = flowing. Pair 3 is correct. So 1 and 2 are wrong matches.
-
 **Ans: A.** 1 and 2 only are not correctly matched.
+
+**Logic:** Lentic = standing; lotic = flowing. Pair 3 is correct. So 1 and 2 are wrong matches.
 
 </details>
 
@@ -1358,9 +1358,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 1 and 2 are correct. Decomposers are mainly fungi and bacteria — not viruses.
-
 **Ans: C.** Only 1 and 2.
+
+**Logic:** 1 and 2 are correct. Decomposers are mainly fungi and bacteria — not viruses.
 
 </details>
 
@@ -1380,9 +1380,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** All three associations are standard.
-
 **Ans: D.** 1, 2 and 3.
+
+**Logic:** All three associations are standard.
 
 </details>
 
@@ -1402,9 +1402,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 1 and 2 are correct. Higher P with fixed A and T raises Impact — statement 3 is false.
-
 **Ans: A.** Only 1 and 2.
+
+**Logic:** 1 and 2 are correct. Higher P with fixed A and T raises Impact — statement 3 is false.
 
 </details>
 
@@ -1425,9 +1425,9 @@ D. 1-2-4-3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Stockholm 1972 → Brundtland 1987 → Rio 1992 → LiFE 2022.
-
 **Ans: B.** 1-2-3-4.
+
+**Logic:** Stockholm 1972 → Brundtland 1987 → Rio 1992 → LiFE 2022.
 
 </details>
 
@@ -1447,9 +1447,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** A is true. Agenda 21 is Rio **1992**, non-binding SD action plan — not a 1995 binding climate treaty. R is false.
-
 **Ans: C.** A true, R false.
+
+**A/R logic:** A is true. Agenda 21 is Rio **1992**, non-binding SD action plan — not a 1995 binding climate treaty. R is false.
 
 </details>
 
@@ -1469,9 +1469,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** COP26 2021 + launch 2022 are correct. COP25 is the classic trap.
-
 **Ans: B.** Only 1 and 2.
+
+**Logic:** COP26 2021 + launch 2022 are correct. COP25 is the classic trap.
 
 </details>
 
@@ -1494,9 +1494,9 @@ D. A-2, B-1, C-4, D-3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Chipko 1973; EPA 1986; JFM 1990; FRA 2006.
-
 **Ans: D.** A-2, B-1, C-4, D-3.
+
+**Logic:** Chipko 1973; EPA 1986; JFM 1990; FRA 2006.
 
 </details>
 
@@ -1516,9 +1516,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 48A and 51A(g) are environment provisions. Article 48 is agriculture and cattle — not environment.
-
 **Ans: C.** Only 1 and 2.
+
+**Logic:** 48A and 51A(g) are environment provisions. Article 48 is agriculture and cattle — not environment.
 
 </details>
 
@@ -1538,9 +1538,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 1 and 2 are correct. EPA 1986 is post-Bhopal (1984).
-
 **Ans: B.** Only 1 and 2.
+
+**Logic:** 1 and 2 are correct. EPA 1986 is post-Bhopal (1984).
 
 </details>
 
@@ -1560,9 +1560,9 @@ D. 1 and 2 only
 <details>
 <summary>Show answer</summary>
 
-**Logic:** MoEF→MoEFCC and UNEP Nairobi are correct. CPCB sits in New Delhi, not Mumbai.
-
 **Ans: D.** Only 1 and 2.
+
+**Logic:** MoEF→MoEFCC and UNEP Nairobi are correct. CPCB sits in New Delhi, not Mumbai.
 
 </details>
 
@@ -1585,9 +1585,9 @@ D. 2 and 3 only
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Wildlife Day is **3 March** (CITES), not 22 March (Water Day trap). Others are correct.
-
 **Ans: B.** Only pair 3 is not correctly matched.
+
+**Logic:** Wildlife Day is **3 March** (CITES), not 22 March (Water Day trap). Others are correct.
 
 </details>
 
@@ -1608,9 +1608,9 @@ D. 1-3-2-4
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 2 Feb → 3 Mar → 5 Jun → 16 Sep.
-
 **Ans: C.** 1-2-3-4.
+
+**Logic:** 2 Feb → 3 Mar → 5 Jun → 16 Sep.
 
 </details>
 
@@ -1630,9 +1630,9 @@ D. 1 and 3 only
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Triad is physical–biological–cultural; operational is not part of it. Cropland is anthropogenic.
-
 **Ans: D.** 1 and 3 only.
+
+**Logic:** Triad is physical–biological–cultural; operational is not part of it. Cropland is anthropogenic.
 
 </details>
 
@@ -1652,9 +1652,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** A is true. UP is landlocked — no marine national parks — R is false.
-
 **Ans: C.** A true, R false.
+
+**A/R logic:** A is true. UP is landlocked — no marine national parks — R is false.
 
 </details>
 
@@ -1676,9 +1676,9 @@ D. A-2, B-1, C-3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Ganga–Varanasi/Kanpur; Yamuna–Agra; Gomti–Lucknow.
-
 **Ans: C.** A-3, B-1, C-2.
+
+**Logic:** Ganga–Varanasi/Kanpur; Yamuna–Agra; Gomti–Lucknow.
 
 </details>
 
@@ -1698,9 +1698,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** GAP 1985 and Namami Gange 2014 are correct. Stockholm is 1972 — not 2014.
-
 **Ans: A.** Only 1 and 2.
+
+**Logic:** GAP 1985 and Namami Gange 2014 are correct. Stockholm is 1972 — not 2014.
 
 </details>
 
@@ -1722,9 +1722,9 @@ D. All five
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Abiotic = minerals, rainfall, wind (three). Algae and decomposers are biotic.
-
 **Ans: B.** Only three.
+
+**Logic:** Abiotic = minerals, rainfall, wind (three). Algae and decomposers are biotic.
 
 </details>
 
@@ -1744,9 +1744,9 @@ D. 1 and 2 only
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 1 and 2 are correct. Micro-scale is immediate surroundings; macro is regional/global.
-
 **Ans: D.** Only 1 and 2.
+
+**Logic:** 1 and 2 are correct. Micro-scale is immediate surroundings; macro is regional/global.
 
 </details>
 
@@ -1766,9 +1766,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 1 and 2 are teaching traps. Brundtland 1987 ≠ Agenda 21 1992.
-
 **Ans: A.** Only 1 and 2.
+
+**Logic:** 1 and 2 are teaching traps. Brundtland 1987 ≠ Agenda 21 1992.
 
 </details>
 
@@ -1788,9 +1788,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Weather = troposphere; protective ozone = stratosphere. Statement 3 swaps the layers.
-
 **Ans: B.** Only 1 and 2.
+
+**Logic:** Weather = troposphere; protective ozone = stratosphere. Statement 3 swaps the layers.
 
 </details>
 
@@ -1804,9 +1804,9 @@ D. 1973 → 1990 → 2006
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Reni Chipko 1973; JFM 1990; FRA 2006. EPA 1986 is a distractor year.
-
 **Ans: D.** 1973 → 1990 → 2006.
+
+**Logic:** Reni Chipko 1973; JFM 1990; FRA 2006. EPA 1986 is a distractor year.
 
 </details>
 
@@ -1826,9 +1826,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** A is true. WED is **5 June**; 22 April is Earth Day. R is false.
-
 **Ans: C.** A true, R false.
+
+**A/R logic:** A is true. WED is **5 June**; 22 April is Earth Day. R is false.
 
 </details>
 
@@ -1848,9 +1848,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Kanpur and Varanasi are standard UP pollution locks. Surajkund is Haryana — not a UP environment festival lock.
-
 **Ans: A.** Only 1 and 2.
+
+**Logic:** Kanpur and Varanasi are standard UP pollution locks. Surajkund is Haryana — not a UP environment festival lock.
 
 </details>
 
@@ -1870,9 +1870,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 1 and 2 are correct. *Limits to Growth* is a different 1972 Club of Rome study.
-
 **Ans: C.** Only 1 and 2.
+
+**Logic:** 1 and 2 are correct. *Limits to Growth* is a different 1972 Club of Rome study.
 
 </details>
 

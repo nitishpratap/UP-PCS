@@ -1532,1413 +1532,674 @@ D. U.K. / India
 
 ---
 
-## Practice Zone — UPPCS Format Questions
+## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden** — click **Show answer** under each question to reveal.
-> **Format mix:** 65 questions — Match List | multi-statement | Assertion–Reason | NOT correctly matched | direct recall (PYQ + standard gaps)
+> **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D
 
-**Q1.** Match List-I with List-II:
-
-| List-I (Centre) | List-II (Industry) |
-|-----------------|-------------------|
-| A. Osaka | 1. Cigar |
-| B. Detroit | 2. Ship building |
-| C. Cuba | 3. Cotton textile |
-| D. St. Petersburg | 4. Automobile |
-
-**Options:**
-
-A. A-2, B-1, C-4, D-3
-
-B. A-4, B-3, C-2, D-1
-
-C. A-1, B-2, C-3, D-4
-
-D. A-3, B-4, C-1, D-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q2.** Which port–country pair is **NOT** correctly matched?
-
-**Options:**
-
-A. Rotterdam — Netherlands
-
-B. Igarka — China
-
-C. Montevideo — Uruguay
-
-D. Jakarta — Indonesia
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q3.** Suez Canal connects:
-
-1. Atlantic Ocean
-2. Red Sea
-3. Mediterranean Sea
-4. Indian Ocean
-
-**Options:**
-
-A. 1 and 3
-
-B. 3 and 4
-
-C. 2 and 3
-
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q4.** India–Europe sea distance cut by Suez is about:
-
-**Options:**
-
-A. 5,000 km
-
-B. 7,000 km
-
-C. 8,000 km
-
-D. 10,000 km
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q5.** Suez lakes, north to south:
-
-**Options:**
-
-A. Timsah → Little Bitter → Great Bitter → Manzala
-
-B. Great Bitter → Little Bitter → Timsah → Manzala
-
-C. Manzala → Great Bitter → Little Bitter → Timsah
-
-D. Manzala → Timsah → Great Bitter → Little Bitter
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q6.** Chinook is warm and dry. Foehn occurs in the Alps.
-
-**Options:**
-
-A. Both 1 and 2
-
-B. Only 1
-
-C. Only 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q7.** Which pair is **NOT** correctly matched?
-
-**Options:**
-
-A. Leveche — Spain
-
-B. Brickfielder — Australia
-
-C. Black roller — North America
-
-D. Shamal — Austria
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q8.** Which pair is **NOT** correctly matched?
-
-**Options:**
-
-A. Santa Ana — California
-
-B. Haboob — Sudan
-
-C. Yamo — Japan
-
-D. Mistral — Australia
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q9.** Ruhr industrial region is in:
-
-**Options:**
-
-A. Great Britain
-
-B. Germany
-
-C. Russia
-
-D. France
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q10.** Lancashire is classically famous for:
-
-**Options:**
-
-A. Wool only
-
-B. Cotton textiles
-
-C. Cigars
-
-D. Gold mining only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q11.** How many of the following are correctly matched?
+**Q1.** With reference to city–industry pairs, which of the following is/are correctly matched?
 
 1. Osaka — cotton
 2. Detroit — automobile
-3. Cuba — shipbuilding
-4. St. Petersburg — cigar
+3. Cuba — cigar
+4. St Petersburg — shipbuilding
 
-**Options:**
+Select the correct answer from the code given below:
 
-A. Only one
-
-B. Only two
-
-C. Only three
-
-D. All four
+A. 1, 2 and 3 only
+B. 1, 3 and 4 only
+C. 1, 2, 3 and 4
+D. 2, 3 and 4 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — 1 and 2. Cuba = cigar; Petersburg = ships.
+**Ans: C.** All four pairs are correct.
+
+**Logic:** Do not swap Osaka cotton with Detroit autos.
 
 </details>
 
----
+**Q2.** Which of the following pairs is/are **NOT** correctly matched?
 
-**Q12.** Assertion (A): Igarka is a major Chinese seaport.
+1. Igarka — China
+2. Rotterdam — Netherlands
+3. Montevideo — Uruguay
 
-Reason (R): Igarka is a timber port on the Yenisei in Russia.
+Select the correct answer from the code given below:
 
-**Options:**
+A. 1 and 3 only
+B. 2 only
+C. 1 only
+D. 2 and 3 only
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+<details>
+<summary>Show answer</summary>
 
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+**Ans: C.** Only pair 1 is not correctly matched.
 
+**Logic:** Igarka is in Russia (Yenisei timber), not China.
+
+</details>
+
+**Q3.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): The Suez Canal joins the Mediterranean and the Red Sea.
+
+Reason (R): It shortened the India–Europe sea route by about 7000 km.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q13.** Panama Canal links:
-
-**Options:**
-
-A. Mediterranean and Red Sea
-
-B. North Sea and Baltic
-
-C. Caribbean / Atlantic and Pacific
-
-D. Black Sea and Caspian
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: D.** Both true and R is linked to A’s route effect.
+
+**A/R logic:** Med–Red cut is why the Europe–India sea distance fell sharply.
 
 </details>
 
----
+**Q4.** Arrange Suez lakes from north to south:
 
-**Q14.** Kiel Canal links:
+1. Great Bitter
+2. Manzala
+3. Little Bitter
+4. Timsah
 
-**Options:**
+Select the correct answer from the code given below:
 
-A. North Sea and Baltic
-
-B. Med and Red Sea
-
-C. Atlantic and Pacific
-
-D. Persian Gulf and Red Sea
+A. 2-1-4-3
+B. 2-4-1-3
+C. 4-2-1-3
+D. 2-4-3-1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Manzala → Timsah → Great Bitter → Little Bitter.
+
+**Logic:** Port Said is north; Suez town is south.
 
 </details>
 
----
+**Q5.** Match List-I with List-II and select the correct answer using the code given below the lists:
 
-**Q15.** Match List-I with List-II:
+| List-I (Canal) | List-II (Waters) |
+|-----------------|------------------|
+| A. Suez | 1. North Sea ↔ Baltic |
+| B. Panama | 2. Med ↔ Red Sea (sea-level) |
+| C. Kiel | 3. Atlantic/Caribbean ↔ Pacific (with stepped chambers) |
 
-| List-I (Region) | List-II |
-|-----------------|---------|
-| A. Keihin | 1. Osaka–Kobe |
-| B. Hanshin | 2. Tokyo–Yokohama |
-| C. Chukyo | 3. Ruhr coal–steel |
-| D. Ruhr | 4. Nagoya autos |
+Code:
 
-**Options:**
-
-A. 2 1 4 3
-
-B. 2 1 3 4
-
-C. 1 2 4 3
-
-D. 2 4 1 3
+A. A-3, B-2, C-1
+B. A-2, B-3, C-1
+C. A-2, B-1, C-3
+D. A-1, B-3, C-2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Suez Med–Red sea-level; Panama with stepped chambers; Kiel North Sea–Baltic.
+
+**Logic:** Do not swap Suez and Panama chamber facts.
 
 </details>
 
----
+**Q6.** With reference to local winds, which of the following statements is/are correct?
 
-**Q16.** Aluminium smelting is pulled mainly by:
+1. Chinook is a warm dry wind of the Rockies; Foehn is the Alps equivalent.
+2. Mistral is southern France, not Australia.
+3. Shamal is Arabia, not Austria; Brickfielder is Australia.
 
-**Options:**
+Select the correct answer from the code given below:
 
-A. Cheap **hydel** power
-
-B. Desert loo winds
-
-C. Cigar tobacco soils
-
-D. Alpine foehn only
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 3 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: C.** All three are correct.
+
+**Logic:** Australia/Austria letter traps are deliberate.
 
 </details>
 
----
+**Q7.** Consider the following Japan industrial belt tags:
 
-**Q17.** Footloose industry example:
+1. Keihin — Tokyo–Yokohama
+2. Hanshin — Osaka–Kobe
+3. Chukyo — Nagoya autos
+4. Osaka nickname — Manchester of Japan; Nagoya — Detroit of Japan
 
-**Options:**
+Which of the statements given above is/are correct?
 
-A. Blast-furnace steel on a coalfield only
-
-B. Electronics / software
-
-C. Cane-sugar mill in a desert with no cane
-
-D. Pit-head power plant only
+A. 1, 2 and 3 only
+B. 2, 3 and 4 only
+C. 1, 2, 3 and 4
+D. 1, 3 and 4 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: C.** All four are correct.
+
+**Logic:** Do not swap Osaka/Nagoya nicknames.
 
 </details>
 
----
+**Q8.** Which of the following pairs is/are correctly matched?
 
-**Q18.** Entrepôt port means:
+1. Footloose industry example — electronics
+2. Aluminium — cheap hydel orientation
+3. Steel — ore + coking coal (weight-losing)
 
-**Options:**
+Select the correct answer from the code given below:
 
-A. Naval dockyard only
-
-B. Import–store–re-export hub
-
-C. Only a fishing harbour
-
-D. Only an inland dry dock with no sea
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 3 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: C.** All three are correct.
+
+**Logic:** Electronics is not forced onto coalfields the way steel is.
 
 </details>
 
----
+**Q9.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Q19.** Yorkshire’s classic textile is:
+Assertion (A): Mistral is a local wind of Australia.
 
-**Options:**
+Reason (R): Brickfielder is a hot wind associated with Australia.
 
-A. Cotton (Lancashire type)
+Select the correct answer from the code given below:
 
-B. Wool
-
-C. Jute
-
-D. Silk of Lyon only
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B.** (A) is false, but (R) is true.
+
+**A/R logic:** Mistral = southern France; Brickfielder = Australia.
 
 </details>
 
----
+**Q10.** Match List-I with List-II and select the correct answer using the code given below the lists:
 
-**Q20.** Pittsburgh–Lake Erie region is famous for:
+| List-I (Wind) | List-II (Region) |
+|----------------|------------------|
+| A. Santa Ana | 1. West Africa |
+| B. Harmattan | 2. California |
+| C. Bora | 3. Egypt |
+| D. Khamsin | 4. Adriatic (cold) |
 
-**Options:**
+Code:
 
-A. Cigars of Cuba
-
-B. Steel
-
-C. Alpine foehn tourism only
-
-D. Mistral vineyards
+A. A-2, B-1, C-4, D-3
+B. A-1, B-2, C-3, D-4
+C. A-2, B-4, C-1, D-3
+D. A-4, B-1, C-2, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: A.** Santa Ana–California; Harmattan–West Africa; Bora–Adriatic; Khamsin–Egypt.
+
+**Logic:** Willy-willy is a cyclone name, not a Brickfielder-type local wind.
 
 </details>
 
----
+**Q11.** With reference to ports and entrepôts, which of the following statements is/are correct?
 
-**Q21.** Consider the following:
+1. Singapore, Rotterdam and Hong Kong are classic entrepôts.
+2. Duisburg is an inland Rhine port in Germany, not a Dutch sea mouth.
+3. Shanghai leads container volume among common port MCQs.
 
-1. Suez connects Med and Red Sea.
-2. Suez itself opens directly into the Atlantic.
+Select the correct answer from the code given below:
 
-**Options:**
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are correct.
+
+**Logic:** Do not dump Duisburg into the Netherlands.
+
+</details>
+
+**Q12.** Which of the following pairs is/are **NOT** correctly matched?
+
+1. Akron — tyres / rubber (USA)
+2. Toulouse — Airbus
+3. Silicon Valley — Detroit auto belt
+
+Select the correct answer from the code given below:
 
 A. 1 only
-
-B. 2 only
-
-C. Both
-
-D. Neither
+B. 3 only
+C. 1 and 2 only
+D. 2 and 3 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Only pair 3 is not correctly matched.
+
+**Logic:** Silicon Valley is California electronics/IT, not Detroit.
 
 </details>
 
----
+**Q13.** Arrange industrial location logics from raw-material oriented to market oriented teaching:
 
-**Q22.** Harmattan blows in:
+1. Soft-drink bottling near consumers
+2. Steel near ore and coking coal
+3. Oil refining often at port / pipeline end
 
-**Options:**
+Select a coherent order raw-material → break-of-bulk → market:
 
-A. The Alps
-
-B. West Africa
-
-C. Japan as Yamo’s opposite
-
-D. California as Santa Ana’s opposite
+A. 2-3-1
+B. 1-2-3
+C. 2-1-3
+D. 3-2-1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: A.** Steel → refining/port break-of-bulk → bottling near market.
+
+**Logic:** Weight-losing vs market-oriented contrast.
 
 </details>
 
----
+**Q14.** With reference to European industrial regions, which of the following statements is/are correct?
 
-**Q23.** Bora is a:
+1. Ruhr = Germany heavy industry.
+2. Lancashire = cotton; Yorkshire = wool.
+3. Italy’s industrial triangle is Po Basin / Milan–Turin–Genoa.
 
-**Options:**
+Select the correct answer from the code given below:
 
-A. Warm Chinook of the Rockies
-
-B. Cold wind of the Adriatic
-
-C. Australian brickfielder
-
-D. Cuban cigar breeze
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: D.** All three are correct.
+
+**Logic:** Pittsburgh–Great Lakes = steel; Detroit = autos.
 
 </details>
 
----
+**Q15.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Q24.** Match List-I with List-II:
+Assertion (A): Chinook and Foehn are both warm dry downslope winds.
 
-| List-I (Wind) | List-II |
-|---------------|---------|
-| A. Chinook | 1. Alps |
-| B. Foehn | 2. Rockies |
-| C. Mistral | 3. Arabia / Gulf |
-| D. Shamal | 4. Southern France |
+Reason (R): Chinook belongs to the Rockies while Foehn belongs to the Alps.
 
-**Options:**
+Select the correct answer from the code given below:
 
-A. 2 1 4 3
-
-B. 2 1 3 4
-
-C. 1 2 4 3
-
-D. 2 4 1 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q25.** Singapore’s trade-route role is mainly:
-
-**Options:**
-
-A. Kiel Canal fact
-
-B. Malacca Strait entrepôt
-
-C. Suez lake Manzala
-
-D. Igarka timber
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q26.** Montevideo is the port of:
-
-**Options:**
-
-A. Argentina
-
-B. Uruguay
-
-C. Chile
-
-D. Peru
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q27.** Which is **NOT** correctly matched?
-
-**Options:**
-
-A. Manchester — cotton
-
-B. Detroit — automobile
-
-C. Sheffield — cigars
-
-D. Glasgow — shipbuilding
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Sheffield = steel / cutlery.
-
-</details>
-
----
-
-**Q28.** Weight-losing industry locates near:
-
-**Options:**
-
-A. The market only, always
-
-B. The bulky raw material
-
-C. The foehn belt only
-
-D. Footloose campuses only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q29.** How many statements are correct?
-
-1. Panama avoids Cape Horn.
-2. Suez avoids Cape of Good Hope.
-3. Kiel links Med and Red Sea.
-
-**Options:**
-
-A. Only one
-
-B. Only two
-
-C. All three
-
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 2. Kiel = North Sea–Baltic.
-
-</details>
-
----
-
-**Q30.** Zonda is a foehn-type wind of:
-
-**Options:**
-
-A. The Andes (Argentina)
-
-B. Japan
-
-C. Sudan haboob belt
-
-D. The Rhône mistral valley
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q31.** Assertion (A): Chinook is a warm and dry wind.
-
-Reason (R): It is a cold katabatic wind of the Adriatic like the Bora.
-
-**Options:**
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q32.** Break-of-bulk point is typically a:
-
-**Options:**
-
-A. Desert erg
-
-B. Port or gauge-change junction
-
-C. Alpine pass with no cargo
-
-D. Only a coal pit with no rail
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: D.** Both true and R specifies the regional identities that complete A.
+
+**A/R logic:** Same wind class, different mountain systems.
 
 </details>
 
----
+**Q16.** Consider the following statements about shipbuilding:
 
-**Q33.** Nagoya (Chukyo) is famous for:
+1. Volume leaders are China–South Korea–Japan.
+2. St Petersburg remains a classic European shipbuilding city tag.
+3. Kawasaki is nicknamed Pittsburgh of Japan in the chapter set.
 
-**Options:**
+Which of the statements given above is/are correct?
 
-A. Cuban cigars
-
-B. Automobiles
-
-C. Yenisei timber
-
-D. Mistral vineyards
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: D.** All three are correct.
+
+**Logic:** Ivanovo = Russian Manchester among nickname traps.
 
 </details>
 
----
-
-**Q34.** Sirocco brings:
-
-**Options:**
-
-A. Cold Alpine air to France only
-
-B. Hot Saharan air toward the Mediterranean
-
-C. Australian brickfielder to Japan
-
-D. Bora cold to California
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q35.** Which pair is correct?
-
-**Options:**
-
-A. Hormuz — Persian Gulf oil gate
-
-B. Suez — North Sea–Baltic
-
-C. Panama — Med–Red Sea
-
-D. Kiel — Atlantic–Pacific
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q36.** Donbas industrial belt is in:
-
-**Options:**
-
-A. Ukraine (coal–steel)
-
-B. California
-
-C. Uruguay
-
-D. Malaysia Kinta
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q37.** Consider the following:
-
-1. Rotterdam is in the Netherlands.
-2. Hamburg is in Belgium.
-
-**Options:**
-
-A. 1 only
-
-B. 2 only
-
-C. Both
-
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Hamburg = Germany. Antwerp = Belgium.
-
-</details>
-
----
-
-**Q38.** Santa Ana is to California as Foehn is to the:
-
-**Options:**
-
-A. Alps
-
-B. Australian desert only
-
-C. Sudan haboob only
-
-D. Yenisei valley
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q39.** Match List-I with List-II:
-
-| List-I (Port) | List-II |
-|---------------|---------|
-| A. Rotterdam | 1. Uruguay |
-| B. Igarka | 2. Netherlands |
-| C. Montevideo | 3. Indonesia |
-| D. Jakarta | 4. Russia |
-
-**Options:**
-
-A. 2 4 1 3
-
-B. 2 4 3 1
-
-C. 4 2 1 3
-
-D. 2 1 4 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q40.** Po Basin industry is in:
-
-**Options:**
-
-A. Italy
-
-B. Japan
-
-C. Canada
-
-D. Egypt
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q41.** Which is **NOT** a foehn-family warm-dry wind?
-
-**Options:**
-
-A. Chinook
-
-B. Foehn
-
-C. Bora
-
-D. Santa Ana
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Bora is cold.
-
-</details>
-
----
-
-**Q42.** Manchester–Liverpool belt sits in:
-
-**Options:**
-
-A. Yorkshire wool district only
-
-B. Lancashire cotton region
-
-C. Ruhr coal only
-
-D. Chukyo auto only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q43.** Cape of Good Hope route is used when:
-
-**Options:**
-
-A. Ships must avoid Suez (size or blockage) and go south of Africa
-
-B. They want the Kiel Canal
-
-C. They want Lake Timsah only
-
-D. They are Great Lakes ore boats only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q44.** Match List-I with List-II:
+**Q17.** Match List-I with List-II and select the correct answer using the code given below the lists:
 
 | List-I | List-II |
-|--------|---------|
-| A. Akron | 1. Inland Rhine port |
-| B. Toulouse | 2. Tyres / rubber |
-| C. Duisburg | 3. Airbus |
-| D. Lyon | 4. Silk |
+|--------|--------|
+| A. Haboob | 1. Sahara → Med |
+| B. Sirocco | 2. Sudan |
+| C. Leveche | 3. Japan |
+| D. Yamo | 4. Spain |
 
-**Options:**
+Code:
 
-A. 2 3 1 4
-
-B. 2 3 4 1
-
-C. 3 2 1 4
-
-D. 2 1 3 4
+A. A-2, B-1, C-4, D-3
+B. A-1, B-2, C-3, D-4
+C. A-2, B-4, C-1, D-3
+D. A-4, B-1, C-2, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: A.** Haboob–Sudan; Sirocco–Sahara to Med; Leveche–Spain; Yamo–Japan.
+
+**Logic:** Keep dusty/hot regional winds unswapped.
 
 </details>
 
----
+**Q18.** Which one of the following is correct about Panama versus Suez?
 
-**Q45.** How many of the following winds are correctly placed?
-
-1. Brickfielder — Australia
-2. Leveche — Spain
-3. Yamo — Japan
-4. Mistral — Australia
-
-**Options:**
-
-A. Only one
-
-B. Only two
-
-C. Only three
-
-D. All four
+A. Panama joins Atlantic/Caribbean and Pacific and uses stepped chambers including Gatun Lake.
+B. Suez uses stepped chambers like Panama.
+C. Kiel joins Mediterranean and Red Sea.
+D. Suez opens directly onto the Atlantic as a canal bank.
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — 4 is wrong.
+**Ans: A.** Panama = stepped chambers + Gatun; Suez = sea-level Med–Red.
+
+**Logic:** Kiel = North Sea–Baltic.
 
 </details>
 
----
+**Q19.** With reference to China’s coastal manufacturing, which of the following statements is/are correct?
 
-**Q46.** Assertion (A): Suez shortened India–Europe voyages.
+1. Pearl River Delta is a classic coastal manufacturing belt in this map diet.
+2. Break-of-bulk points concentrate at ports.
+3. Textiles often seek labour and market more than steel’s raw-material pull.
 
-Reason (R): It links the Mediterranean with the Red Sea and avoids the Cape.
+Select the correct answer from the code given below:
 
-**Options:**
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+<details>
+<summary>Show answer</summary>
 
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+**Ans: D.** All three are correct.
 
+**Logic:** Location-factor contrast, not a single-city dump.
+
+</details>
+
+**Q20.** Which of the following pairs is/are correctly matched?
+
+1. Jakarta — Indonesia
+2. Port Said — northern end of Suez
+3. Willy-willy — Australian cyclone name
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are correct.
+
+**Logic:** Do not treat willy-willy as a Brickfielder-type local wind.
+
+</details>
+
+**Q21.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Shamal is a wind of Austria.
+
+Reason (R): Shamal is associated with Arabia / the Persian Gulf region.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q47.** Chicago–Gary industrial role is mainly:
-
-**Options:**
-
-A. Steel and machinery on the Great Lakes
-
-B. Suez canal lakes
-
-C. Mistral farming
-
-D. Yenisei timber
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** (A) is false, but (R) is true.
+
+**A/R logic:** Austria is the letter-trap; Arabia/Gulf is correct.
 
 </details>
 
----
+**Q22.** With reference to US industrial tags, which of the following statements is/are correct?
 
-**Q48.** Bab el-Mandeb gates:
+1. Pittsburgh–Great Lakes = steel teaching belt.
+2. Detroit = automobiles.
+3. Silicon Valley = California Bay Area electronics/IT.
 
-**Options:**
+Select the correct answer from the code given below:
 
-A. Red Sea and Gulf of Aden
-
-B. Baltic and North Sea
-
-C. Great Lakes ore
-
-D. Panama facts
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: D.** All three are correct.
+
+**Logic:** Do not park Silicon Valley on Detroit.
 
 </details>
 
----
+**Q23.** Match List-I with List-II and select the correct answer using the code given below the lists:
 
-**Q49.** Which statement(s) is/are correct?
+| List-I | List-II |
+|--------|--------|
+| A. Lancashire | 1. Wool |
+| B. Yorkshire | 2. Cotton |
+| C. Ruhr | 3. Heavy industry (Germany) |
+| D. Ivanovo | 4. Russian Manchester |
 
-1. Keihin = Tokyo–Yokohama.
-2. Hanshin = Osaka–Kobe.
+Code:
 
-**Options:**
+A. A-2, B-1, C-3, D-4
+B. A-1, B-2, C-4, D-3
+C. A-2, B-3, C-1, D-4
+D. A-4, B-1, C-2, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Lancashire cotton; Yorkshire wool; Ruhr heavy industry; Ivanovo Russian Manchester.
+
+**Logic:** Keep cotton/wool counties unswapped.
+
+</details>
+
+**Q24.** Which of the following is/are **NOT** correctly matched?
+
+1. Foehn — Alps warm dry wind
+2. Chinook — cold polar wind of Siberia only
+3. Bora — Adriatic cold wind
+
+Select the correct answer from the code given below:
 
 A. 1 only
-
 B. 2 only
-
-C. Both
-
-D. Neither
+C. 1 and 3 only
+D. 2 and 3 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: B.** Only pair 2 is not correctly matched.
+
+**Logic:** Chinook is warm dry Rockies wind, not a cold Siberia-only dump.
 
 </details>
 
----
+**Q25.** With reference to entrepôt versus inland ports, which of the following statements is/are correct?
 
-**Q50.** Which of the following is/are correct?
+1. Rotterdam sits at the Rhine mouth in the Netherlands.
+2. Duisburg is inland on the Rhine in Germany.
+3. Every Rhine port is automatically a Dutch sea entrepôt.
 
-1. Suez is sea-level (no facts).
-2. Panama uses facts and Gatun Lake.
-3. Willy-willy is an Australian local wind like Brickfielder.
-
-**Options:**
+Select the correct answer from the code given below:
 
 A. 1 and 2 only
-
 B. 2 and 3 only
-
 C. 1 and 3 only
-
-D. All three
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Willy-willy is a **cyclone**.
-
-</details>
-
----
-
-
-**Q51.** "Manchester of Japan" refers to:
-
-A. Nagoya
-
-B. Osaka
-
-C. Detroit
-
-D. Igarka
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Osaka cotton. Nagoya = Detroit of Japan.
-</details>
-
----
-
-**Q52.** "Detroit of Japan" is:
-
-A. Osaka
-
-B. Nagoya
-
-C. Manchester
-
-D. Havana
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q53.** Which of the following is/are correctly matched?
-
-1. Kawasaki — Pittsburgh of Japan (steel / heavy)
-2. Ivanovo — Russian Manchester (cotton)
-3. Silicon Valley — California electronics
-
-A. 1 and 2 only
-
-B. 2 and 3 only
-
-C. 1 and 3 only
-
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Inland ≠ sea entrepôt.
+
 </details>
 
----
+**Q26.** Consider the following statements:
 
-**Q54.** Footloose industries are typically:
+1. Weight-losing industries sit near raw material.
+2. Market-oriented industries sit near consumers.
+3. Footloose industries are relatively free of heavy raw-material pull (electronics example).
 
-A. Tied only to Appalachian coal pits
-
-B. Light, high-value, flexible location (electronics)
-
-C. Only sugarcane crushing near the field
-
-D. Only inland timber ports like Igarka
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q55.** Assertion (A): Aluminium smelting often seeks cheap hydroelectric power.
-Reason (R): Electrolysis of alumina is highly energy-intensive.
-
-A. Both A and R are true and R explains A
-
-B. Both A and R are true but R does not explain A
-
-C. A is true but R is false
-
-D. A is false but R is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-</details>
-
----
-
-**Q56.** Modern shipbuilding tonnage leaders are:
-
-A. Only Cuba and Lancashire
-
-B. China, South Korea and Japan
-
-C. Only Uruguay and Igarka
-
-D. Only Austria and Australia
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q57.** Which pair is NOT correctly matched?
-
-A. Lancashire — cotton
-
-B. Yorkshire — wool
-
-C. Ruhr — Germany coal–steel
-
-D. Chukyo — Tokyo–Yokohama cotton only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Chukyo = **Nagoya** automobiles. Keihin = Tokyo–Yokohama.
-</details>
-
----
-
-**Q58.** An entrepôt port mainly:
-
-A. Only mines Appalachian coal
-
-B. Imports, stores/sorts and re-exports
-
-C. Only grows plantation tea
-
-D. Only generates geothermal power
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Singapore / Rotterdam / Hong Kong.
-</details>
-
----
-
-**Q59.** Italy’s classic industrial triangle links:
-
-A. Milan–Turin–Genoa (Po Basin)
-
-B. Osaka–Detroit–Havana
-
-C. Manzala–Timsah–Gatun only
-
-D. Mistral–Shamal–Brickfielder
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-</details>
-
----
-
-**Q60.** Weight-gaining industries (e.g. soft-drink bottling) prefer:
-
-A. Only remote ore mines
-
-B. Near the market
-
-C. Only Yenisei timber ports
-
-D. Only Atacama copper pits
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q61.** Which of the following is/are correctly matched?
-
-1. Toulouse — Airbus
-2. Seattle — Boeing
-3. Akron — tyres / rubber
+Which of the statements given above is/are correct?
 
 A. 1 and 2 only
-
 B. 2 and 3 only
-
 C. 1 and 3 only
-
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: D.** All three are correct.
+
+**Logic:** Core location-factor triad for industry MCQs.
+
 </details>
 
----
+**Q27.** Which one of the following correctly pairs a wind with its region?
 
-**Q62.** Pearl River Delta industrial belt is mainly in:
-
-A. Southern France only
-
-B. China (Guangzhou–Shenzhen–Hong Kong side)
-
-C. Uruguay only
-
-D. Appalachian USA only
+A. Leveche — Spain
+B. Khamsin — Australia
+C. Harmattan — Alps
+D. Santa Ana — Sudan
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: A.** Leveche is Spain.
+
+**Logic:** Khamsin–Egypt; Harmattan–West Africa; Santa Ana–California.
+
 </details>
 
----
+**Q28.** With reference to Suez ends, which of the following statements is/are correct?
 
-**Q63.** Which canal pair is correctly matched?
+1. Port Said is at the north end.
+2. Suez town is at the south end.
+3. The canal itself is a sea-level cut without Panama-style stepped chambers.
 
-A. Suez — Atlantic ↔ Pacific with many facts
+Select the correct answer from the code given below:
 
-B. Panama — Mediterranean ↔ Red Sea, sea-level
-
-C. Kiel — North Sea ↔ Baltic
-
-D. Suez — North Sea ↔ Baltic
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: D.** All three are correct.
+
+**Logic:** Sea-level vs stepped chambers is the Suez/Panama discriminator.
+
 </details>
 
----
+**Q29.** Match List-I with List-II and select the correct answer using the code given below the lists:
 
-**Q64.** Which local wind is correctly matched?
+| List-I (City) | List-II (Tag) |
+|----------------|---------------|
+| A. Osaka | 1. Auto (Detroit of Japan = Nagoya) |
+| B. Nagoya | 2. Cotton (Manchester of Japan) |
+| C. Kawasaki | 3. Pittsburgh of Japan |
+| D. Detroit | 4. Automobile (USA) |
 
-A. Mistral — Australia
+Code:
 
-B. Shamal — Austria
-
-C. Brickfielder — Australia
-
-D. Chinook — Alps only
+A. A-2, B-1, C-3, D-4
+B. A-1, B-2, C-4, D-3
+C. A-2, B-3, C-1, D-4
+D. A-4, B-1, C-2, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Mistral = France; Shamal = Arabia; Chinook = Rockies.
+**Ans: A.** Osaka cotton nickname; Nagoya auto nickname; Kawasaki Pittsburgh tag; Detroit autos.
+
+**Logic:** Option B text clarifies Nagoya’s Detroit nickname while keeping list pairing.
+
 </details>
 
----
+**Q30.** With reference to Cuba and St Petersburg, which of the following statements is/are correct?
 
-**Q65.** Which pair is NOT correctly matched?
+1. Cuba’s classic industry tag is cigar.
+2. St Petersburg’s classic tag is shipbuilding.
+3. Both are cotton-textile first tags like Osaka.
 
-A. Break-of-bulk — port / lake transfer point
+Select the correct answer from the code given below:
 
-B. Duisburg — German inland Rhine port
-
-C. Igarka — Russian Yenisei port
-
-D. Montevideo — Argentina
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Montevideo = **Uruguay**.
-</details>
+**Ans: A.** Only 1 and 2 are correct.
 
----
+**Logic:** Do not dump every city onto cotton.
+
+</details>
 
 ## Common Traps — Don't Fall For These
 

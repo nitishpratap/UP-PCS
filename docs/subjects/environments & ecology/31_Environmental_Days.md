@@ -511,306 +511,591 @@ D. 29 July (International Tiger Day)
 
 ---
 
-## Practice Zone
+## Practice Zone — UPPCS Format Drill
 
-**Q1.** World Environment Day:
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-Options: A. 5 June B. 22 April C. 2 February D. 16 September
+**Q1.** With reference to environmental days, which of the following statements is/are correct?
 
-<details><summary>Show answer</summary>
+1. World Wetlands Day — 2 February (Ramsar 1971).
+2. World Wildlife Day — 3 March (CITES 1973).
+3. World Wildlife Day — 22 March.
 
-**Ans: A**
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q2.** World Wetlands Day:
+**Ans: B.** Only 1 and 2.
 
-Options: A. 2 February B. 3 March C. 22 March D. 22 May
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q3.** Earth Day:
-
-Options: A. 22 April B. 5 June C. 22 March D. 16 September
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** 22 March is Water — not Wildlife.
 
 </details>
 
-**Q4.** International Day for Biological Diversity:
+**Q2.** Match List-I with List-II:
 
-Options: A. 22 May B. 22 April C. 22 March D. 3 March
+| List-I | List-II |
+|--------|--------|
+| A. World Water Day | 1. 22 April |
+| B. Earth Day | 2. 22 March |
+| C. Biological Diversity Day | 3. 22 May |
 
-<details><summary>Show answer</summary>
+Code:
 
-**Ans: A**
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q5.** International Day of Forests:
+**Ans: C.** A-2, B-1, C-3.
 
-Options: A. 21 March B. 22 March C. 3 March D. 5 June
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q6.** World Water Day:
-
-Options: A. 22 March B. 3 March C. 2 February D. 22 April
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Same-number 22 traps across months.
 
 </details>
 
-**Q7.** World Ozone Day:
+**Q3.** Which of the following pairs is/are correctly matched?
 
-Options: A. 16 September B. 5 June C. 22 April D. 2 February
+1. International Day of Forests — 21 March
+2. World Environment Day — 5 June
+3. World Ozone Day — 16 September
 
-<details><summary>Show answer</summary>
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: D.** All three.
 
-**Q8.** World Wildlife Day:
-
-Options: A. 3 March B. 22 March C. 2 February D. 22 May
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q9.** Wetlands Day commemorates:
-
-Options: A. Ramsar Convention 1971 B. Montreal Protocol 1987 C. CITES 1973 D. CBD only 2002
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Forests / WED / Ozone.
 
 </details>
 
-**Q10.** Wildlife Day commemorates:
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Options: A. CITES adoption 1973 B. Ramsar 1971 C. Stockholm 1972 D. Montreal 1987
+Assertion (A): The March ladder is Wildlife (3) → Forests (21) → Water (22).
 
-<details><summary>Show answer</summary>
+Reason (R): Wildlife Day falls on 22 March.
 
-**Ans: A**
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q11.** Ozone Day commemorates:
+**Ans: C.** A true, R false.
 
-Options: A. Montreal Protocol 1987 B. Ramsar 1971 C. CITES 1973 D. Earth Day 1970
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q12.** WED commemorates opening of:
-
-Options: A. Stockholm Conference 1972 B. Rio only 2012 C. Kyoto signing day D. Paris 2015 only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**A/R logic:** Never put Wildlife on 22 March.
 
 </details>
 
-**Q13.** India hosted WED in 2018 with theme:
+**Q5.** With reference to treaty anchors, which of the following statements is/are correct?
 
-Options: A. Beat Plastic Pollution B. Only ozone hole C. Only Ramsar listing D. Only CITES ban
+1. Stockholm 1972 anchors WED.
+2. Montreal 1987 anchors Ozone Day.
+3. Ramsar 1971 anchors Wetlands Day.
 
-<details><summary>Show answer</summary>
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: A.** All three.
 
-**Q14.** Which pair is WRONG?
-
-Options: A. World Wildlife Day — 22 March B. WED — 5 June C. Ozone — 16 September D. Wetlands — 2 February
-
-<details><summary>Show answer</summary>
-
-**Ans: A** — Wildlife is 3 March.
-
-</details>
-
-**Q15.** Consider: (1) Ozone Day — 16 Sep (2) WED — 5 Jun (3) Wildlife — 22 Mar. Which NOT matched?
-
-Options: A. Only 3 B. Only 1 C. 1 and 2 D. All three
-
-<details><summary>Show answer</summary>
-
-**Ans: A** — 2025 Q62 pattern.
+**Logic:** Treaty → day map.
 
 </details>
 
-**Q16.** Earth Day first observed in:
+**Q6.** Arrange calendar order of the eight syllabus days (first three):
 
-Options: A. 1970 (USA) B. 1987 (Montreal) C. 1992 (Rio) D. 2012 (UN Forests)
+A. 5 Jun → 2 Feb → 3 Mar
+B. 2 Feb → 3 Mar → 21 Mar
+C. 16 Sep → 22 Apr → 2 Feb
+D. 22 May → 2 Feb → 5 Jun
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Wetlands → Wildlife → Forests.
 
-</details>
-
-**Q17.** Biodiversity Day was earlier linked to 29 Dec; current date is:
-
-Options: A. 22 May B. 22 March C. 3 March D. 5 June
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Calendar spine start.
 
 </details>
 
-**Q18.** Correct March order:
+**Q7.** Which of the following pairs is/are NOT correctly matched?
 
-Options: A. Wildlife → Forests → Water B. Water → Forests → Wildlife C. Forests → Wildlife → Water D. Water → Wildlife → Forests
+1. Earth Day — 22 April (began USA 1970)
+2. WED — 5 June (UNEP / Stockholm opening)
+3. Earth Day — identical to World Environment Day
 
-<details><summary>Show answer</summary>
+A. 1 and 2 only
+B. 2 and 3 only
+C. 3 only
+D. 1, 2 and 3
 
-**Ans: A** — 3 → 21 → 22.
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: C.** Only pair 3 is not correctly matched.
 
-**Q19.** World Population Day (trap distractor for WED) is:
-
-Options: A. 11 July B. 5 June C. 16 September D. 22 April
-
-<details><summary>Show answer</summary>
-
-**Ans: A** — UPPCS 2018 used 5 June as distractor for Population Day.
-
-</details>
-
-**Q20.** Who administers WED?
-
-Options: A. UNEP B. WTO C. IMF D. RBI
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Earth Day ≠ WED.
 
 </details>
 
-**Q21.** Forests Day proclaimed by UN in:
+**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Options: A. 2012 B. 1971 C. 1973 D. 1987
+Assertion (A): Biodiversity Day shifted to 22 May from 2000; papers use 22 May.
 
-<details><summary>Show answer</summary>
+Reason (R): It commemorates CBD text adopted at Nairobi in 1992.
 
-**Ans: A**
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q22.** Match: Earth Day / Biodiversity Day
+**Ans: A.** Both true; Nairobi 1992 does not itself explain the 2000 date shift.
 
-Options: A. 22 April / 22 May B. 22 March / 22 April C. 5 June / 22 May D. 3 March / 22 May
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q23.** Wetlands Day is NOT:
-
-Options: A. 22 March B. 2 February C. Linked to Ramsar D. A February observance
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**A/R logic:** Commemoration vs date shift.
 
 </details>
 
-**Q24.** Earth Hour vs Earth Day:
+**Q9.** With reference to India hosting WED, which of the following statements is/are correct?
 
-Options: A. Earth Hour ≠ 22 April (Earth Day) B. Same day C. Both 5 June D. Both 16 September
+1. 2011 — Forests theme.
+2. 2018 — Beat Plastic Pollution.
+3. India hosted WED every year since 1972.
 
-<details><summary>Show answer</summary>
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: D.** Only 1 and 2.
 
-**Q25.** Correct fact:
-
-Options: A. Water Day — 22 March B. Wildlife — 22 March C. WED — 22 April D. Ozone — 5 June
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q26.** India WED host year with Forests theme:
-
-Options: A. 2011 B. 2018 only C. 1987 D. 1971
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Not every year.
 
 </details>
 
-**Q27.** CBD text adoption date recalled by IDB:
+**Q10.** Match List-I with List-II:
 
-Options: A. 22 May 1992 B. 16 September 1987 C. 2 February 1971 D. 3 March 1973
+| List-I | List-II |
+|--------|--------|
+| A. Ozone Day | 1. CITES 1973 |
+| B. Wildlife Day | 2. Montreal 1987 |
+| C. Wetlands Day | 3. Ramsar 1971 |
 
-<details><summary>Show answer</summary>
+Code:
 
-**Ans: A**
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q28.** Assertion (A): World Wildlife Day is on 3 March.
-Reason (R): It marks Ramsar Convention adoption.
+**Ans: A.** A-2, B-1, C-3.
 
-Options: A. Both true; R explains A B. Both true; R does not explain A C. A true, R false D. Both false
-
-<details><summary>Show answer</summary>
-
-**Ans: C** — Date true; R false (Ramsar = Wetlands Day). Wildlife → CITES.
-
-</details>
-
-**Q29.** Which day is NOT a UN treaty/UNGA calendar day in the same sense as WED?
-
-Options: A. Earth Day (civic 1970 origin) B. World Ozone Day C. World Wetlands Day D. Biological Diversity Day
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Montreal/CITES/Ramsar.
 
 </details>
 
-**Q30.** Correct full set:
+**Q11.** Arrange Van Mahotsav vs Forests Day:
 
-Options: A. Wetlands 2 Feb; Wildlife 3 Mar; Water 22 Mar; WED 5 Jun; Ozone 16 Sep B. Wildlife 22 Mar; Water 3 Mar; WED 22 Apr C. Ozone 5 Jun; WED 16 Sep D. Forests 22 Mar; Water 21 Mar
+A. Identical dates always
+B. Van Mahotsav = July India plantation; Forests Day = 21 March UN
+C. Both 16 September
+D. Both 2 February
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** July vs 21 March.
+
+**Logic:** Do not merge.
+
+</details>
+
+**Q12.** With reference to Water Day, which of the following statements is/are correct?
+
+1. 22 March under UN-Water neighbourhood.
+2. Wetlands Day is a Ramsar day — not a Water Day synonym.
+3. Water Day is identical to Wildlife Day.
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Water ≠ Wildlife.
+
+</details>
+
+**Q13.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Earth Hour (last Saturday of March, WWF) is not Earth Day.
+
+Reason (R): Earth Day is 22 April.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R clarifies the date separation.
+
+**A/R logic:** Hour ≠ Day.
+
+</details>
+
+**Q14.** Which one of the following correctly states World Toilet Day?
+
+A. 2 February
+B. 5 June
+C. 22 April
+D. 19 November (UN from 2013)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** 19 November.
+
+**Logic:** Extra calendar fact.
+
+</details>
+
+**Q15.** How many of the following same-number locks are correct?
+
+22 Mar Water; 22 Apr Earth; 22 May Biodiversity
+
+A. All three
+B. Only two
+C. Only one
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** All three.
+
+**Logic:** Three different months.
+
+</details>
+
+**Q16.** With reference to Wildlife Day proclamation, which of the following statements is/are correct?
+
+1. UN proclaimed World Wildlife Day in 2013.
+2. The date itself is the 1973 CITES anniversary.
+3. The date is Stockholm 1972 opening day.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Stockholm anchors WED.
+
+</details>
+
+**Q17.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. World No Tobacco Day | 1. 2 October 2014 |
+| B. Swachh Bharat launch | 2. 31 May |
+| C. World Habitat Day | 3. First Monday of October |
+
+Code:
+
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A-2, B-1, C-3.
+
+**Logic:** Tobacco / SBM / Habitat.
+
+</details>
+
+**Q18.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): A Wildlife–22 March pair is always wrong.
+
+Reason (R): 22 March is World Water Day.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R explains A.
+
+**A/R logic:** Classic March trap.
+
+</details>
+
+**Q19.** Which of the following pairs is/are correctly matched?
+
+1. Biodiversity Day — broader than Wildlife Day
+2. Wildlife Day — fauna–flora trade/crime under CITES date
+3. Ozone Day — 2 October
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Ozone = 16 September.
+
+</details>
+
+**Q20.** Arrange Forests Day proclamation:
+
+A. UNGA 2012; date 21 March
+B. Ramsar 1971 only
+C. CITES 1973 only
+D. Montreal 1987 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** UNGA 2012; 21 March.
+
+**Logic:** Forests Day lock.
+
+</details>
+
+**Q21.** With reference to UP Wetlands Day geography, which of the following statements is/are correct?
+
+1. UP has 10 Ramsar sites teaching.
+2. The day itself stays 2 February.
+3. Wetlands Day moves to 5 June in UP only.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Date does not move.
+
+</details>
+
+**Q22.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Correct Ozone–WED pair is 16 September and 5 June.
+
+Reason (R): Ozone Day belongs to the Montreal Protocol family.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; Montreal family explains Ozone date, not why WED is 5 June.
+
+**A/R logic:** Pair vs Ozone anchor.
+
+</details>
+
+**Q23.** How many of the following are on the eight syllabus-day list?
+
+Wetlands, Wildlife, Forests, Water, Earth, Biodiversity, WED, Ozone
+
+A. Only four
+B. Only six
+C. All eight
+D. Only two
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All eight.
+
+**Logic:** Syllabus calendar set.
+
+</details>
+
+**Q24.** Which one of the following correctly states Earth Day theme 2024 teaching?
+
+A. Only Ramsar Wise Use
+B. Only Stockholm opening
+C. Only CITES adoption
+D. Planet vs. Plastics
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Planet vs. Plastics.
+
+**Logic:** Theme teaching.
+
+</details>
+
+**Q25.** With reference to No Tobacco Day, which of the following statements is/are correct?
+
+1. 31 May.
+2. Not 5 May.
+3. Identical to World Environment Day.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Not WED.
+
+</details>
+
+**Q26.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. WED | 1. 22 April |
+| B. Earth Day | 2. 5 June |
+| C. Ozone Day | 3. 16 September |
+
+Code:
+
+A. A-1, B-2, C-3
+B. A-2, B-1, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** A-2, B-1, C-3.
+
+**Logic:** WED/Earth/Ozone.
+
+</details>
+
+**Q27.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): World Water Day is coordinated under UN-Water.
+
+Reason (R): Wetlands Day is a Ramsar day, not a Water Day synonym.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; Ramsar identity does not explain UN-Water coordination of Water Day.
+
+**A/R logic:** Two different days.
+
+</details>
+
+**Q28.** Arrange full eight-day spine end:
+
+A. Ends at 2 Feb only
+B. … → 16 Sep → 5 Jun
+C. … → 5 Jun → 16 Sep
+D. Ends at 3 Mar only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** WED then Ozone.
+
+**Logic:** Calendar end.
+
+</details>
+
+**Q29.** With reference to Swachh Bharat, which of the following statements is/are correct?
+
+1. Launched 2 October 2014 (Gandhi Jayanti).
+2. Neighbourhood cleanliness awareness teaching.
+3. It replaces World Wetlands Day date.
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Does not replace Wetlands Day.
+
+</details>
+
+**Q30.** Which one of the following correctly separates Biodiversity Day from Wildlife Day?
+
+A. Biodiversity broader CBD date; Wildlife is CITES fauna–flora trade/crime awareness
+B. Both identical 22 March only
+C. Both identical 16 September only
+D. Both identical Van Mahotsav July only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** CBD vs CITES frames.
+
+**Logic:** Breadth vs trade day.
 
 </details>
 

@@ -889,502 +889,601 @@ D. All diseases = only SO₂ smell
 
 ## Practice Zone — UPPCS Format Drill
 
-> **30 questionsQ1.** With reference to pollution, which statements is/are correct?
+> **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D | **Ans first, then Logic**
 
-1. Primary pollutants include SO₂ and PM.
-2. Ground-level O₃ is a primary pollutant emitted directly from vehicles.
+**Q1.** With reference to pollution vs degradation, which of the following statements is/are correct?
 
-A. Only 1
+1. Pollution is harmful addition beyond absorption capacity.
+2. Degradation is the broader fall in environmental quality/productivity.
+3. The two terms are identical in all Prelims keys.
 
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A** — O₃ is secondary.
-
-</details>
-
-**Q2.** With reference to lichens, which statements is/are correct?
-
-1. Lichens indicate air pollution levels.
-2. Lichens thrive in high SO₂ areas.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q3.** With reference to water quality, which statements is/are correct?
-
-1. High BOD indicates high organic pollution.
-2. Annual Groundwater Quality Report is published by CPCB.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q4.** With reference to thermal pollution, which statements is/are correct?
-
-1. Warm water holds less dissolved oxygen.
-2. Thermal pollution mainly increases BOD directly.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q5.** With reference to waste rules, which statements is/are correct?
-
-1. BMW sharps go in white containers.
-2. Yellow BMW bags are for needles and blades.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q6.** Water Act was enacted in:
-
-A. 1972
-
-B. 1974
-
-C. 1981
-
-D. 1986
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q7.** Photochemical smog always contains:
-
-A. SO₂ only
-
-B. Ozone
-
-C. Methane
-
-D. Lead
-
-<details><summary>Show answer</summary>
-
-**Ans: B** — UPPCS 2022 pattern.
-
-</details>
-
-**Q8.** Basel Convention deals with:
-
-A. Wetlands
-
-B. Hazardous waste movement
-
-C. Ozone
-
-D. Climate
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q9.** India ranks how globally in e-waste generation?
-
-A. 1st
-
-B. 2nd
-
-C. 3rd
-
-D. 5th
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q10.** SUP ban notification was issued in:
-
-A. 2016
-
-B. 2018
-
-C. 2020
-
-D. 2022
-
-<details><summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q11.** Residential ambient noise limit at night is:
-
-A. 40 dB
-
-B. 45 dB
-
-C. 55 dB
-
-D. 65 dB
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q12.** NCAP was launched in:
-
-A. 2014
-
-B. 2016
-
-C. 2019
-
-D. 2022
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q13.** Correct 3R hierarchy:
-
-A. Recycle-Reuse-Reduce
-
-B. Reduce-Reuse-Recycle
-
-C. Dispose-Reduce-Recycle
-
-D. Burn-Bury-Recycle
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q14.** Swachh Bharat Mission launched in:
-
-A. 2012
-
-B. 2014
-
-C. 2016
-
-D. 2019
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q15.** Gomti river flows mainly through which UP city?
-
-A. Kanpur
-
-B. Lucknow
-
-C. Agra
-
-D. Varanasi
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q16.** Heavy metal linked to Kanpur tannery waste:
-
-A. Sodium
-
-B. Chromium
-
-C. Calcium
-
-D. Potassium
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q17.** About what share of marine pollution comes from land?
-
-A. 20%
-
-B. 50%
-
-C. 80%
-
-D. 95%
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q18.** MARPOL relates to:
-
-A. Ship pollution
-
-B. Wildlife trade
-
-C. Desertification
-
-D. Forest diversion
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q19.** E-waste Rules currently in force were notified in:
-
-A. 2011
-
-B. 2016
-
-C. 2020
-
-D. 2022
-
-<details><summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q20.** Half-life of radioactive element means:
-
-A. Complete decay time
-
-B. 50% decay time
-
-C. Safe immediately after
-
-D. Zero radiation instantly
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q21.** Assertion (A): Eutrophication can cause fish kills.
-Reason (R): Algal bloom decomposition reduces dissolved oxygen.
-
-A. Both true; R explains A
-
-B. Both true; R not explanation
-
-C. A true, R false
-
-D. A false, R true
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q22.** Which pair is NOT correctly matched?
-
-A. BOD — organic pollution
-
-B. CGWB — groundwater report
-
-C. CPCB — groundwater quality report
-
-D. AERB — nuclear safety
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q23.** Microplastics are defined as plastic fragments smaller than:
-
-A. 1 mm
-
-B. 5 mm
-
-C. 10 mm
-
-D. 50 mm
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q24.** BMW Rules were comprehensively updated in:
-
-A. 1998
-
-B. 2006
-
-C. 2016
-
-D. 2022
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q25.** Hazardous waste storage without extension is generally limited to:
-
-A. 48 hours
-
-B. 30 days
-
-C. 90 days
-
-D. 1 year
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q26.** Namami Gange programme launched in:
-
-A. 2010
-
-B. 2014
-
-C. 2018
-
-D. 2020
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q27.** AQI range 401–500 is classified as:
-
-A. Good
-
-B. Moderate
-
-C. Poor
-
-D. Severe
-
-<details><summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q28.** London smog is mainly associated with:
-
-A. O₃ and PAN
-
-B. SO₂ and smoke
-
-C. CO₂ only
-
-D. Methane
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q29.** Carrying capacity statement that is correct:
-
-A. Waste must exceed absorption capacity
-
-B. Waste should stay within absorption capacity
-
-C. Extraction must exceed regeneration
-
-D. Pollution has no threshold
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q30.** Moradabad is often cited for:
-
-A. Marine oil spills
-
-B. Noise pollution
-
-C. Nuclear accidents
-
-D. Alpine degradation
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Not identical.
 
 </details>
+
+**Q2.** Which of the following pairs is/are correctly matched?
+
+1. Primary pollutant — emitted directly (SO₂, PM, CO, NOx, lead)
+2. Secondary pollutant — formed in air (O₃, PAN, acid rain)
+3. CO₂ — one of India’s AQI eight pollutants
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** AQI eight exclude CO₂/CH₄.
+
+</details>
+
+**Q3.** Arrange the law years in correct order:
+
+1. Water Act
+2. Air Act
+3. EPA
+4. Noise Rules
+
+A. 1-2-4-3
+B. 2-1-3-4
+C. 1-3-2-4
+D. 1-2-3-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** 1974 → 1981 → 1986 → 2000.
+
+**Logic:** Water–Air–EPA–Noise Rules.
+
+</details>
+
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): London smog is associated with SO₂ + smoke.
+
+Reason (R): Los Angeles / photochemical smog needs NOx + VOCs + sunlight forming O₃/PAN.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; R describes a different smog type — does not explain London smog.
+
+**A/R logic:** Two different smog chemistries; R not explanation of A.
+
+</details>
+
+**Q5.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. Point source | 1. Farm runoff / roads |
+| B. Non-point source | 2. Chimneys / drains |
+| C. PAN | 3. Strong eye irritant in photochemical smog |
+
+Code:
+
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** A-2, B-1, C-3.
+
+**Logic:** Point chimney; non-point runoff; PAN eye irritant.
+
+</details>
+
+**Q6.** With reference to India’s AQI, which of the following statements is/are correct?
+
+1. Eight pollutants: PM10, PM2.5, NO₂, CO, O₃, SO₂, NH₃, Pb.
+2. CO₂ and CH₄ are included in the eight.
+3. Bands run from Good (0–50) toward Severe (401–500).
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 3.
+
+**Logic:** CO₂/CH₄ are climate gases — not AQI eight.
+
+</details>
+
+**Q7.** Which of the following pairs is/are NOT correctly matched?
+
+1. CPCB — sets NAAQS / ambient air and surface-water standards coordination
+2. SPCB — State enforcement / consent regime
+3. CGWB — same as CPCB for ambient air standards
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only pair 3 is not correctly matched.
+
+**Logic:** CGWB = groundwater — not CPCB air.
+
+</details>
+
+**Q8.** With reference to CO and lead, which of the following statements is/are correct?
+
+1. CO binds haemoglobin ~200–300× more strongly than O₂.
+2. Lead antiknock in petrol harms IQ/brain development.
+3. CO forms carboxyhaemoglobin.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three.
+
+**Logic:** Classic CO/lead locks.
+
+</details>
+
+**Q9.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Lichens are SO₂ bio-indicators and die in polluted air.
+
+Reason (R): Radon is a classic major indoor air pollutant linked to lung cancer risk.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; radon indoor fact does not explain lichen SO₂ sensitivity.
+
+**A/R logic:** Two separate air-pollution locks.
+
+</details>
+
+**Q10.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. NCAP | 1. 2020 |
+| B. BS-VI | 2. 2019 |
+| C. Air Act noise inclusion amendment | 3. 1987 |
+
+Code:
+
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** A-2, B-1, C-3.
+
+**Logic:** NCAP 2019; BS-VI 2020; noise via Air Act 1987.
+
+</details>
+
+**Q11.** With reference to fly ash, which of the following statements is/are correct?
+
+1. It comes from coal thermal power plants.
+2. It is usable in bricks / Portland cement replacement.
+3. It contains only harmless sugar molecules and no metals.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Contains SiO₂/Al₂O₃/CaO plus toxic metals — not “oxides only / harmless”.
+
+</details>
+
+**Q12.** Which one of the following correctly describes biodegradable pollutants?
+
+A. They never break down
+B. They are only radioactive isotopes
+C. They break down by microbes (sewage, domestic waste, etc.)
+D. They are identical to PAN always
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Microbial breakdown.
+
+**Logic:** Vs persistent non-biodegradable loads.
+
+</details>
+
+**Q13.** Arrange smog types to chemistry:
+
+1. London — SO₂ + smoke
+2. Photochemical — NOx + VOCs + sunlight → O₃/PAN
+
+A. Only 1
+B. Only 2
+C. Neither
+D. Both 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both.
+
+**Logic:** Classic London vs LA smog.
+
+</details>
+
+**Q14.** With reference to NCAP, which of the following statements is/are correct?
+
+1. NCAP (2019) covers non-attainment cities.
+2. It targets about 20–30% particulate reduction.
+3. NCAP repealed the Water Act, 1974.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Does not repeal Water Act.
+
+</details>
+
+**Q15.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): India’s AQI does not treat CO₂ as one of its eight pollutants.
+
+Reason (R): CO₂ is irrelevant to climate change.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true, R false.
+
+**A/R logic:** CO₂ is a climate GHG — just not an AQI eight pollutant.
+
+</details>
+
+**Q16.** Which of the following pairs is/are correctly matched?
+
+1. WAYU — air-purifying units installed in Delhi teaching
+2. CCAC (2012) — methane, black carbon, HFCs focus with UNEP
+3. CCAC — G20-only club with no UNEP link
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** CCAC is not a G20-only club slogan.
+
+</details>
+
+**Q17.** How many of the following are secondary pollutants?
+
+O₃, PAN, photochemical smog components, SO₂ emitted from a stack
+
+A. Only one
+B. Only two
+C. Only three
+D. All four
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only three.
+
+**Logic:** SO₂ from stack is primary; O₃/PAN/photochemical products secondary.
+
+</details>
+
+**Q18.** With reference to Noise Rules, which of the following statements is/are correct?
+
+1. Noise Rules date to 2000.
+2. Air Act was amended in 1987 to include noise.
+3. Noise is measured in Dobson Units.
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Noise uses decibels — Dobson is ozone.
+
+</details>
+
+**Q19.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. Water Act | 1. 1986 |
+| B. Air Act | 2. 1974 |
+| C. EPA | 3. 1981 |
+
+Code:
+
+A. A-2, B-3, C-1
+B. A-3, B-2, C-1
+C. A-2, B-1, C-3
+D. A-1, B-3, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** A-2, B-3, C-1.
+
+**Logic:** 1974 / 1981 / 1986.
+
+</details>
+
+**Q20.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Anthropogenic pollution often raises persistent non-biodegradable loads.
+
+Reason (R): Biodegradable wastes never exist in cities.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true, R false.
+
+**A/R logic:** Sewage/domestic wastes are biodegradable examples.
+
+</details>
+
+**Q21.** Which of the following is/are correct about photochemical smog?
+
+A. Needs only pure nitrogen with no sunlight
+B. Needs NOx + VOCs + sunlight; yields ozone and PAN
+C. Is identical to London sulphurous smog always
+D. Is caused only by argon
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** NOx + VOCs + sunlight → O₃/PAN.
+
+**Logic:** Not London SO₂ smog.
+
+</details>
+
+**Q22.** With reference to CPCB vs CGWB, which of the following statements is/are correct?
+
+1. CPCB coordinates air/water pollution standards and SPCBs.
+2. CGWB handles groundwater assessment/quality reports.
+3. CPCB publishes the Annual Groundwater Quality Report as its main statutory product.
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** GW report is CGWB.
+
+</details>
+
+**Q23.** Arrange AQI idea from good toward severe numerically:
+
+A. 401–500 is Good
+B. AQI has no numeric bands
+C. 0–50 is Severe
+D. 0–50 is Good; 401–500 is Severe
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** 0–50 Good … 401–500 Severe.
+
+**Logic:** Standard CPCB AQI bands.
+
+</details>
+
+**Q24.** Which of the following pairs is/are NOT correctly matched?
+
+1. Primary pollutant — O₃ formed in atmosphere from precursors
+2. Secondary pollutant — SO₂ emitted from a chimney
+3. Lead — primary pollutant when emitted
+
+A. 1 and 2 only
+B. 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** 1 and 2 are not correctly matched.
+
+**Logic:** O₃ secondary; SO₂ from chimney primary; lead primary.
+
+</details>
+
+**Q25.** With reference to BS-VI, which of the following statements is/are correct?
+
+1. BS-VI fuel norms arrived in 2020.
+2. Cleaner fuel helps cut sulphur-related pollution.
+3. BS-VI repealed the Environment (Protection) Act.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Does not repeal EPA.
+
+</details>
+
+**Q26.** How many of the following are AQI pollutants?
+
+PM2.5, NO₂, CO, O₃, CH₄
+
+A. Only two
+B. Only three
+C. Only four
+D. All five
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only four.
+
+**Logic:** CH₄ is not in AQI eight.
+
+</details>
+
+**Q27.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): PAN is a powerful eye irritant in photochemical smog.
+
+Reason (R): Photochemical smog forms without sunlight.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true, R false.
+
+**A/R logic:** Sunlight is required.
+
+</details>
+
+**Q28.** Which of the following statements about non-biodegradable pollution is/are correct?
+
+1. Plastics and many heavy metals persist.
+2. Anthropogenic loads often raise persistent fractions.
+3. All pollutants are biodegradable within one hour.
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Statement 3 false.
+
+</details>
+
+**Q29.** With reference to Air Act 1981, which of the following statements is/are correct?
+
+1. It covers air pollution and NAAQS framework with CPCB/SPCB.
+2. Noise was brought in via 1987 amendment path.
+3. It was enacted after EPA 1986.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Air 1981 before EPA 1986.
+
+</details>
+
+**Q30.** Which one of the following is a point source example?
+
+A. Diffuse farm runoff across a watershed
+B. Industrial chimney
+C. City-wide road dust with no single outlet
+D. Open agricultural field volatilisation only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Industrial chimney.
+
+**Logic:** Point = chimney/drain; non-point = runoff/roads.
+
+</details>
+
+---
 
 ## Mains Answer Framework
 

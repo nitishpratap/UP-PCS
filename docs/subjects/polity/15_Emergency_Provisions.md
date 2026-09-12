@@ -1243,74 +1243,384 @@ D. B. R. Ambedkar
 
 ## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden.** Full stems (not cryptic stubs). **60 questions.** ≥60% multi-statement.
+> **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D | **Ans first, then Logic**
 
-**Q1.Assertion (A):** Article 352 of the Indian Constitution deals with the declaration of an Emergency.
+**Q1.** With reference to Emergency Provisions, which of the following statements is/are correct?
 
-**Reason (R):** An Emergency may take place at any time.
+1. They sit in Part XVIII (Articles 352–360).
+2. There are three proclamations: National Emergency, President’s Rule, and Financial Emergency.
+
+A. Only 1
+B. Only 2
+C. Neither 1 nor 2
+D. Both 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both are correct.
+
+**Logic:** Part XVIII triangle: 352 / 356 / 360.
+
+</details>
+
+**Q2.** Consider the following pairs:
+
+1. Article 352 grounds after 44th — war, external aggression, armed rebellion
+2. Pre-44th phrase replaced — internal disturbance
+3. Financial Emergency — Article 356
+
+Which of the pairs given above is/are correctly matched?
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** Financial Emergency is Article 360.
+
+</details>
+
+**Q3.** Which of the following is/are NOT correctly matched?
+
+1. 352 parliamentary approval window — one month; special majority
+2. 356/360 parliamentary approval window — two months; simple majority
+3. 352 approval majority — same simple majority as 356
+
+A. 1 and 3 only
+B. 3 only
+C. 2 and 3 only
+D. 1 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Pair 3 is wrong.
+
+**Logic:** 352 needs special majority; 356/360 use simple majority.
+
+</details>
+
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): A National Emergency proclamation needs written advice of the Union Cabinet.
+
+Reason (R): The 44th Amendment allowed the Prime Minister alone to advise a 352 proclamation in writing.
+
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
-C. Both (A) and (R) are true and (R) is the correct explanation of (A)
-D. (A) is true, but (R) is false
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: C.** (A) is true, but (R) is false.
+
+**A/R logic:** Written Cabinet advice — not PM alone — is the 1975 lesson encoded by the 44th.
 
 </details>
 
-**Q2.** Match List-I with List-II and select the correct answer using the code given below the lists:
+**Q5.** Match List-I with List-II:
 
-**List-I**
+| List-I | List-II |
+|--------|--------|
+| A. Article 358 | 1. Enforcement of named FRs may be suspended by order; 20 & 21 never |
+| B. Article 359 | 2. Article 19 auto-suspends only for war/external aggression |
+| C. Article 355 | 3. Union duty to protect States |
 
-| Code | Item |
-|------|------|
-| A | Consolidated Fund of India |
-| B | Finance Commission |
-| C | Financial Emergency |
-| D | CAG |
+Codes:
 
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | 266 |
-| 2 | 360 |
-| 3 | 280 |
-| 4 | 148 |
-
-> Note: Row order in the tables is **not** the answer.
-
-A. A-3, B-1, C-2, D-4
-B. A-4, B-1, C-3, D-2
-C. A-1, B-3, C-2, D-4
-D. A-1, B-2, C-3, D-4
+A. A-1, B-2, C-3
+B. A-2, B-1, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: B.** A-2, B-1, C-3.
+
+**Logic:** 358/359/355 triangle.
 
 </details>
 
-**Q3.** Which Article provides for the establishment of the Supreme Court?
-A. 124
-B. 214
-C. 226
-D. 356
+**Q6.** Arrange the following National Emergency episodes in correct chronological order:
+
+1. Internal Emergency (1975–77)
+2. China war Emergency (1962)
+3. Pakistan war Emergency (1971)
+
+A. 3-2-1
+B. 2-3-1
+C. 2-1-3
+D. 1-2-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — 356 is President’s Rule.
+**Ans: B.** 1962 → 1971 → 1975–77.
+
+**Logic:** External, external, then Internal Emergency.
 
 </details>
 
-**Q4.** With reference to Article 352 after the 44th Amendment, which of the following is/are correct?
-1. “Internal disturbance” was replaced by “armed rebellion.”
-2. The President needs a written recommendation of the Union Cabinet.
-Select the correct answer using the code given below:
+**Q7.** With reference to Articles 358 and 359, which of the following statements is/are correct?
+
+1. Article 19 automatically suspends under 358 only for war or external aggression — not for armed rebellion alone.
+2. Articles 20 and 21 can never be suspended under 359 after the 44th Amendment.
+
+A. Only 1
+B. Only 2
+C. Neither 1 nor 2
+D. Both 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both are correct.
+
+**Logic:** War/external vs armed rebellion; unsuspendable 20/21.
+
+</details>
+
+**Q8.** Consider the following statements about President’s Rule:
+
+1. Parliamentary approval is needed within two months by simple majority.
+2. Beyond one year, continuation needs a National Emergency in force and an EC certificate that elections cannot be held.
+3. Maximum is normally three years.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All three are correct.
+
+**Logic:** 2 months / 1-year special conditions / 3-year outer normal max.
+
+</details>
+
+**Q9.** With reference to S.R. Bommai (1994), which of the following is/are correct?
+
+1. Article 356 was held justiciable.
+2. Majority should be tested on the floor of the House.
+3. The President may assume High Court powers under 356.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** High Court powers are ring-fenced — cannot be assumed under 356.
+
+</details>
+
+**Q10.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Financial Emergency under Article 360 has never been used.
+
+Reason (R): Once approved, a Financial Emergency continues in six-month renewable slices like Articles 352 and 356.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** (A) is true, but (R) is false.
+
+**A/R logic:** 360 continues until revoked — no six-month renewal clock.
+
+</details>
+
+**Q11.** How many of the following statements are correct?
+
+1. First use of President’s Rule was in Punjab in 1951.
+2. Martial law is identical to National Emergency under Article 352.
+3. Article 34 can provide indemnity related to martial law.
+
+A. Only one
+B. Only two
+C. All three
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Statements 1 and 3 are correct.
+
+**Logic:** Martial law ≠ National Emergency; local military control vs constitutional 352.
+
+</details>
+
+**Q12.** With reference to effects of National Emergency, which of the following statements is/are correct?
+
+1. Article 250 lets Parliament legislate on the State List while 352 is on.
+2. Article 353 lets the Union direct States on almost any matter.
+3. Article 354 can modify Centre–State revenue sharing during 352.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All three are correct.
+
+**Logic:** Unitary tilt under 250/353/354.
+
+</details>
+
+**Q13.** Consider the following pairs:
+
+1. Textbook ‘State Emergency’ — Article 356
+2. Constitution’s phrase ‘State Emergency’ — expressly used in Part XVIII
+3. Textbook ‘National Emergency’ — Article 352
+
+Which of the pairs given above is/are correctly matched?
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1, 2 and 3
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 3 are correct.
+
+**Logic:** The Constitution never uses the phrase ‘State Emergency’.
+
+</details>
+
+**Q14.** Which of the following is/are NOT correctly matched?
+
+1. Internal Emergency dates — 25 June 1975 to 21 March 1977
+2. Lok Sabha can force revocation of 352 by disapproval resolution
+3. One-tenth of Lok Sabha members can compel a sitting within fourteen days — unrelated to Emergency disapproval mechanics
+
+A. 3 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Pair 3 is wrong — that one-tenth/14-day rule is part of the 352 disapproval design.
+
+**Logic:** Keep the Internal Emergency dates and LS disapproval tools together.
+
+</details>
+
+**Q15.** With reference to Financial Emergency directions, which of the following is/are correct?
+
+1. Centre may give directions on financial propriety.
+2. Salaries even of judges may be reduced.
+3. State money bills may be required to be reserved.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All three are correct.
+
+**Logic:** 360’s distinctive financial propriety toolkit.
+
+</details>
+
+**Q16.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Article 365 is a gateway article linking non-compliance with Union directions to President’s Rule.
+
+Reason (R): Article 355 states the Union’s duty to protect States and ensure constitutional government.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true, but R does not by itself explain the 365 gateway mechanism in A.
+
+**A/R logic:** 355 = duty; 365 = directions-failure gateway; 356 = proclamation — related but not the same explanation.
+
+</details>
+
+**Q17.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. 352 approval | 1. Simple majority; 2 months |
+| B. 356 approval | 2. Special majority; 1 month |
+| C. 360 approval | 3. Simple majority; 2 months; then till revoked |
+
+Codes:
+
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** A-2, B-1, C-3.
+
+**Logic:** Approval clocks and majorities differ across the three Emergencies.
+
+</details>
+
+**Q18.** Arrange the following in a logical teaching order of 44th Amendment ‘knives’ often revised together:
+
+1. Armed rebellion wording replaces internal disturbance
+2. Written Cabinet advice for 352
+3. Articles 20 and 21 made unsuspendable
+4. Emergency nexus requirement for laws/executive action
+
+A. 2-1-3-4
+B. 1-2-3-4
+C. 2-3-1-4
+D. 2-1-4-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Cabinet advice → armed rebellion → unsuspendable 20/21 → nexus.
+
+**Logic:** Four 44th knives commonly revised as one set.
+
+</details>
+
+**Q19.** With reference to Assembly term during National Emergency, which of the following is/are correct?
+
+1. State Assembly life can be extended by one year at a time under Article 172 during National Emergency.
+2. Emergency invents a free-for-all over electoral disputes by suspending Article 329.
+
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1319,40 +1629,18 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: A.** Only 1 is correct.
+
+**Logic:** 329 pathway continues to matter — Emergency is not electoral free-for-all.
 
 </details>
 
-**Q5.** A proclamation under Article 352 must be approved by each House by which of the following?
-A. Simple majority
-B. Majority of total membership and 2/3 of those present and voting
-C. 2/3 of total membership
-D. Rajya Sabha special majority only
+**Q20.** Consider the following statements:
 
-<details>
-<summary>Show answer</summary>
+1. External Emergencies of 1962 and 1971 rest on war/external aggression.
+2. The 1975 proclamation used the older internal disturbance language before the 44th rewrite.
+3. Martial law keeps the civilian Constitution running with only emergency overlays identical to 352.
 
-**Ans: B**
-
-</details>
-
-**Q6.** The maximum period within which a 352 proclamation must be approved by Parliament is?
-A. 15 days
-B. One month
-C. Two months
-D. Six months
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 356/360 = **two** months.
-
-</details>
-
-**Q7.** Which of the following National Emergencies is/are correctly matched?
-1. 1962 — China
-2. 1971 — Pakistan
-3. 1975 — internal disturbance
 A. 1 and 2 only
 B. 2 and 3 only
 C. 1 and 3 only
@@ -1361,103 +1649,57 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Martial law is military/local; 352 is constitutional/civilian with overlays.
 
 </details>
 
-**Q8.Assertion (A):** Article 19 is not automatically suspended during a National Emergency proclaimed on the ground of armed rebellion.
+**Q21.** Which of the following pairs is/are correctly matched?
 
-**Reason (R):** Article 358 operates only when the Emergency is on the ground of war or external aggression.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+1. Punchhi — suggested localising 356
+2. Bommai — judicial fact for floor test and justiciability
+3. ADM Jabalpur — contrast case often paired with unsuspendable 20/21 teaching after 44th
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All three are correct.
+
+**Logic:** Punchhi / Bommai / ADM Jabalpur neighbour facts.
+
+</details>
+
+**Q22.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): During 356 the President cannot assume High Court powers.
+
+Reason (R): Judicial independence of the High Court is ring-fenced even when State executive machinery is taken over.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: D.** Both true and R explains A.
+
+**A/R logic:** 356 takeover stops at the High Court’s door.
 
 </details>
 
-**Q9.** Which of the following cannot be suspended even by an order under Article 359?
-A. Article 19
-B. Articles 20 and 21
-C. Article 22
-D. Article 32 as to Article 19
+**Q23.** With reference to renewal of National Emergency, which of the following is/are correct?
 
-<details>
-<summary>Show answer</summary>
+1. Once approved, it continues for six months at a time with fresh approvals.
+2. The Lok Sabha can pass a disapproval resolution to force revocation.
 
-**Ans: B**
-
-</details>
-
-**Q10.** *ADM Jabalpur* (1976) is associated with which of the following?
-A. Delimitation
-B. Habeas corpus during Emergency
-C. GST
-D. Anti-defection
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 44th later locked **21**.
-
-</details>
-
-**Q11.** Match List-I with List-II and select the correct answer using the code given below the lists:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | 352 |
-| B | 356 |
-| C | 360 |
-| D | 355 |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Financial Emergency |
-| 2 | National Emergency |
-| 3 | President’s Rule |
-| 4 | Union’s duty to protect States |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-2, B-3, C-1, D-4
-B. A-2, B-1, C-3, D-4
-C. A-3, B-2, C-1, D-4
-D. A-2, B-3, C-4, D-1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q12.** Which Emergency has **never** been imposed?
-A. 352
-B. 356
-C. 360
-D. 1975 internal Emergency
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q13.** With reference to Article 360, which of the following is/are correct?
-1. It allows reduction of salaries of Supreme Court and High Court judges.
-2. It automatically suspends Article 19.
-Select the correct answer using the code given below:
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1466,221 +1708,18 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: C.** Both are correct.
+
+**Logic:** Six-month slices + LS disapproval.
 
 </details>
 
-**Q14.** President’s Rule requires parliamentary approval within?
-A. One month by special majority
-B. Two months by simple majority
-C. Six months by special majority
-D. Fifteen days by both Houses
+**Q24.** How many of the following are true?
 
-<details>
-<summary>Show answer</summary>
+1. Special majority for 352 is majority of total membership plus two-thirds of those present and voting, in both Houses.
+2. Approval time is one month for 352 and two months for 356/360.
+3. Financial Emergency uses the same six-month renewal clock as President’s Rule.
 
-**Ans: B**
-
-</details>
-
-**Q15.** Extension of President’s Rule beyond one year requires?
-1. A National Emergency in operation in India or that State
-2. An Election Commission certificate that elections cannot be held
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q16.** Maximum life of a 356 proclamation (with all extensions) is?
-A. 6 months
-B. 1 year
-C. 3 years
-D. Indefinite
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q17.** Which one of the following is **not** correctly matched?
-A. First President’s Rule — Punjab 1951
-B. Financial Emergency — never used
-C. Martial law — Article 352
-D. National Emergency 1975 — internal disturbance
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — martial law ≠ 352.
-
-</details>
-
-**Q18.*S.R. Bommai* (1994)** held that?
-1. Article 356 is justiciable.
-2. Majority must be tested on the floor of the House.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q19.Assertion (A):** The President should not dissolve a State Assembly immediately on a 356 proclamation.
-
-**Reason (R):** *Bommai* requires parliamentary approval before dissolution.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q20.** Article 34 is about?
-A. National Emergency
-B. Indemnity for martial-law acts
-C. Financial Emergency
-D. President’s Rule
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q21.** During a National Emergency, Parliament may legislate on the State List under which of the following?
-A. 249 only
-B. 250
-C. 252
-D. 368
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 249 is RS **national-interest** (2/3 present & voting, Concurrent-style); 250 is the Emergency State-List power.
-
-</details>
-
-**Q22.** Life of the Lok Sabha during a 352 Emergency may be extended by which of the following?
-A. Five years at one stroke
-B. One year at a time
-C. Six months only once
-D. It cannot be extended
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — not beyond **6 months** after Emergency ends.
-
-</details>
-
-**Q23.** A resolution of disapproval of a 352 proclamation can be passed by the?
-A. Rajya Sabha only
-B. Lok Sabha
-C. Either House
-D. Both Houses in a joint sitting
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q24.** Which one of the following is **not** correctly matched?
-A. Residual powers — Canada
-B. Emergency (FR suspension) — Germany
-C. Residual powers of Centre — Australia
-D. DPSPs — Ireland
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — 2021 trap; Australia is **concurrent** / joint sitting, not residuary.
-
-</details>
-
-**Q25.** Arrange the following in chronological order:
-1. First National Emergency
-2. *Bommai*
-3. Internal Emergency
-4. 44th Amendment
-A. 1-3-4-2
-B. 1-3-2-4
-C. 3-1-4-2
-D. 1-4-3-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — **1962 → 1975 → 1978 → 1994**.
-
-</details>
-
-**Q26.** Article 365 is best described as which of the following?
-A. A Fundamental Right
-B. A gateway to 356 if a State ignores Union directions
-C. Financial Emergency
-D. Martial law
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q27.** With reference to Article 357, which of the following is/are correct?
-1. Parliament may make laws for a State under President’s Rule.
-2. Those laws lapse automatically the day 356 ends.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — they **continue** until the State changes them.
-
-</details>
-
-**Q28.** Punchhi Commission on 356 recommended?
-A. Repeal of 356
-B. Localising 356 / using 355 first
-C. Making 356 non-justiciable
-D. Abolishing Governors
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — repeal = **Rajamannar**.
-
-</details>
-
-**Q29.** How many of the following require a **special** majority of each House for approval?
-1. 352
-2. 356
-3. 360
 A. Only one
 B. Only two
 C. All three
@@ -1689,41 +1728,115 @@ D. None
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — only **352**.
+**Ans: B.** Statements 1 and 2 are true.
+
+**Logic:** 360 has no six-month renewal clock.
 
 </details>
 
-**Q30.Assertion (A):** Financial Emergency has never been declared in India.
+**Q25.** Which of the following is/are NOT correctly matched?
 
-**Reason (R):** Article 360 was deleted by the 44th Amendment.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+1. Article 358 — auto-hits Article 19 for war/external
+2. Article 359 — can suspend enforcement of other named rights by order
+3. Articles 20 and 21 — suspendable during every Armed Rebellion Emergency
+
+A. 3 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Pair 3 is wrong.
+
+**Logic:** 20 and 21 stay awake after the 44th.
+
+</details>
+
+**Q26.** With reference to mass misuse memory of President’s Rule, which of the following statements is/are correct?
+
+1. Mass misuse is especially remembered around 1977 and 1980.
+2. Bommai later disciplined 356 by insisting on floor majority and justiciability.
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both are correct.
+
+**Logic:** History of misuse + Bommai corrective.
+
+</details>
+
+**Q27.** Consider the following statements about emergency nexus after the 44th:
+
+1. Laws or executive action during Emergency need a real emergency nexus (358(2)/359 theme).
+2. Blanket misuse without nexus is protected merely because an Emergency is in force.
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 is correct.
+
+**Logic:** Nexus requirement blocks blanket misuse.
+
+</details>
+
+**Q28.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Article 355 is the proclamation that takes over a State government.
+
+Reason (R): Article 356 is the proclamation used when constitutional machinery fails.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: B.** (A) is false, but (R) is true.
+
+**A/R logic:** 355 = duty; 356 = proclamation.
 
 </details>
 
-**Q31.** During 352, the President may modify Centre–State distribution of revenues under which of the following?
-A. 280
-B. 354
-C. 360
-D. 266
+**Q29.** With reference to duration design, which of the following pairs is/are correctly matched?
+
+1. National Emergency — six-month slices after approval
+2. President’s Rule — six-month slices; special conditions beyond one year
+3. Financial Emergency — continues until revoked after initial approval
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 3 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: C.** All three are correct.
+
+**Logic:** Three different duration logics.
 
 </details>
 
-**Q32.** Which of the following statements about martial law is/are correct?
-1. The Constitution has a dedicated article to “proclaim” martial law like 352.
-2. Article 34 allows Parliament to indemnify acts done under martial law.
+**Q30.** Which of the following statements is/are correct?
+
+1. Under 352 the civilian Constitution continues with emergency overlays.
+2. Martial law is military control in a locality and is not a substitute for National Emergency.
+
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1732,444 +1845,11 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: C.** Both are correct.
+
+**Logic:** Civilian 352 vs martial law contrast.
 
 </details>
-
-**Q33.** The Internal Emergency of 1975 lasted roughly from which of the following?
-A. 26 January 1975 to 26 January 1977
-B. 25 June 1975 to 21 March 1977
-C. 2 October 1975 to 15 August 1977
-D. 25 June 1976 to 25 June 1978
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q34.** Which one of the following is **not** correctly matched?
-A. 38th Amendment — tried to make 352 satisfaction final
-B. 44th Amendment — armed rebellion; written Cabinet
-C. 42nd Amendment — Mini-Constitution
-D. 44th Amendment — restored “internal disturbance” as a 352 ground
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — 44th **removed** that phrase.
-
-</details>
-
-**Q35.** Under 360, State Money Bills may be?
-A. Introduced in the Legislative Council first
-B. Reserved for the President’s consideration
-C. Struck down by the ECI
-D. Certified by the Speaker as Money Bills of the Union
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q36.** Match List-I with List-II and select the correct answer using the code given below the lists:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | 250 |
-| B | 353 |
-| C | 354 |
-| D | 83(2) |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Union directions to States during 352 |
-| 2 | Parliament’s State-List power during 352 |
-| 3 | Revenue-sharing modification during 352 |
-| 4 | Extension of LS life |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-2, B-1, C-3, D-4
-B. A-1, B-2, C-3, D-4
-C. A-2, B-3, C-1, D-4
-D. A-2, B-1, C-4, D-3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q37.** If the Lok Sabha is dissolved when a 352 proclamation is pending approval?
-A. The proclamation lapses at once
-B. Rajya Sabha may approve and Lok Sabha must approve within 30 days of its first sitting
-C. Only the Supreme Court can continue it
-D. The Election Commission revokes it
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q38.** Which of the following is a **simple**-majority approval Emergency?
-1. 356
-2. 360
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q39.** *Rameshwar Prasad* (2006) is a fact for which of the following?
-A. GST
-B. Dissolution of a State Assembly under 356 on a mere apprehension
-C. NOTA
-D. Finance Commission
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q40.** How many of the following suspend Fundamental Rights by themselves?
-1. 352 (via 358/359)
-2. 356
-3. 360
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — only **National** Emergency has 358/359.
-
-</details>
-
-**Q41.Assertion (A):** Article 355 is not itself President’s Rule.
-
-**Reason (R):** 355 is the Union’s duty to protect States; 356 is the proclamation that takes over a State.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q42.** Sarkaria Commission on 356 recommended that it be?
-A. Repealed
-B. Kept as a last resort with a floor test
-C. Used whenever the Centre loses an Assembly election
-D. Transferred to the Inter-State Council
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q43.** Which one of the following pairs is **not** correctly matched?
-A. 352 approval — 1 month
-B. 356 approval — 2 months
-C. 360 approval — 1 month
-D. 356 outer limit — 3 years
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — 360 approval = **2 months**.
-
-</details>
-
-**Q44.** Justice H.R. Khanna’s famous dissent is in which of the following?
-A. *Kesavananda* only
-B. *ADM Jabalpur*
-C. *Bommai*
-D. *Golaknath*
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — he also sat on *Kesavananda*; the Emergency dissent is **Jabalpur**.
-
-</details>
-
-**Q45.** During President’s Rule, the High Court of the State?
-A. Stands dissolved
-B. Continues
-C. Is replaced by the Supreme Court as a trial court
-D. Becomes a 352 tribunal
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q46.** Which of the following statements is/are correct?
-1. A 352 Emergency can be confined to a part of India.
-2. Martial law, when imposed, is always nationwide.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q47.** Arrange the following in chronological order:
-1. 38th Amendment
-2. 44th Amendment
-3. *Bommai*
-4. First use of 356
-A. 4-1-2-3
-B. 1-4-2-3
-C. 4-2-1-3
-D. 4-1-3-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — **1951 → 1975 → 1978 → 1994**.
-
-</details>
-
-**Q48.** With reference to revocation, which of the following is/are correct?
-1. The President may revoke 352, 356 or 360 at any time.
-2. Only the Rajya Sabha can force revocation of 352.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — LS, not RS, can force 352’s end.
-
-</details>
-
-**Q49.** With reference to Article 353, which of the following statements is/are correct?
-1. The Union may give directions to a State on any matter during a 352 Emergency.
-2. If 352 is confined to one part of India, Parliament may still make a law for another State only as required for that Emergency.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q50.** A special sitting of the Lok Sabha to disapprove a 352 proclamation can be demanded by which of the following?
-A. The Rajya Sabha Chairman
-B. One-tenth of the total members of the Lok Sabha
-C. The Election Commission
-D. Seven Governors
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — sitting within **14 days**.
-
-</details>
-
-**Q51.Assertion (A):** A law made while Article 358 is in force is not protected if it has no connection with the Emergency.
-
-**Reason (R):** The 44th Amendment required an emergency nexus / recital for 358–359 cover.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q52.** During a National Emergency, the term of a State Legislative Assembly?
-A. Cannot be extended
-B. May be extended by one year at a time under Article 172
-C. Becomes five extra years automatically
-D. Is decided by the Governor under 356 alone
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q53.** Which of the following powers can the President **not** assume under Article 356?
-A. State executive power
-B. Power of the Governor
-C. Powers of the High Court
-D. Power to suspend the Council of Ministers
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q54.** The Shah Commission was appointed to inquire into?
-A. *Bommai* floor tests
-B. Excesses of the 1975 Emergency
-C. GST compensation
-D. Delimitation after 2026
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q55.** Which one of the following is **not** correctly matched?
-A. Article 33 — restriction of FRs of armed forces
-B. Article 34 — indemnity for martial-law acts
-C. Article 33 — proclamation of National Emergency
-D. Article 352 — National Emergency
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q56.** How many of the following statements are correct?
-1. Two 352 proclamations on different grounds may run together.
-2. The 1971 and 1975 Emergencies overlapped.
-3. Original 352 approval was by special majority.
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 2. Original approval was **simple**; 44th made it special.
-
-</details>
-
-**Q57.** A 359 Presidential order?
-A. Is automatic like 358
-B. Must be laid before Parliament
-C. Can name Articles 20 and 21 after 44th
-D. Applies only during 360
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q58.** Match List-I with List-II and select the correct answer using the code given below the lists:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | MISA |
-| B | Shah Commission |
-| C | UP 356 (1992) |
-| D | *Rameshwar Prasad* |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | 1975 detentions |
-| 2 | Inquiry into Emergency excesses |
-| 3 | After Babri demolition |
-| 4 | Bihar Assembly dissolution struck |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-1, B-2, C-3, D-4
-B. A-2, B-1, C-3, D-4
-C. A-1, B-2, C-4, D-3
-D. A-1, B-3, C-2, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q59.** Under 360, which of the following is/are correct?
-1. It may be proclaimed for a part of India.
-2. It must be re-approved every six months like 352.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 360 runs till revoked.
-
-</details>
-
-**Q60.** Sarkaria’s advice on 356 did **not** include?
-A. Using it as a last resort
-B. A floor test of majority
-C. Repealing Article 356
-D. Putting material facts in the proclamation
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — repeal = **Rajamannar**.
-
-</details>
-
----
 
 ## Mains link (one frame)
 

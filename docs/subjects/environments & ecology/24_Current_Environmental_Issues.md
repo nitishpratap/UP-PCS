@@ -578,485 +578,591 @@ D. Responsible Consumption
 
 ---
 
-## Practice Zone
+## Practice Zone — UPPCS Format Drill
 
-**Q1.** Microplastics are plastic particles smaller than:
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-A. 5 cm
+**Q1.** With reference to microplastics, which of the following statements is/are correct?
 
-B. 5 mm
+1. Plastic fragments smaller than 5 mm.
+2. Primary = microbeads; secondary = fragmentation.
+3. They are always rapidly biodegradable in hours.
 
-C. 5 m
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-D. 50 mm
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: B.** Only 1 and 2.
 
-**Ans: B**
-
-</details>
-
-**Q2.** Microbeads in cosmetics are:
-
-A. Primary microplastics
-
-B. Secondary microplastics only
-
-C. Biodegradable minerals
-
-D. Not plastic
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Not fast biodegradable.
 
 </details>
 
-**Q3.** One carbon credit generally represents:
+**Q2.** Match List-I with List-II:
 
-A. 1 kg CO₂
+| List-I | List-II |
+|--------|--------|
+| A. 1 carbon credit | 1. 2023 eco-action rewards |
+| B. PAT | 2. 1 tCO₂e |
+| C. Green Credit | 3. ESCerts |
 
-B. 1 tonne CO₂ equivalent
+Code:
 
-C. 1 MW solar
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
 
-D. 1 hectare forest only
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: C.** A-2, B-3, C-1.
 
-**Ans: B**
-
-</details>
-
-**Q4.** Carbon credit concept originated mainly from:
-
-A. Montreal Protocol
-
-B. Kyoto Protocol
-
-C. CITES
-
-D. Ramsar Convention
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Credit/PAT/Green Credit.
 
 </details>
 
-**Q5.** Which agreement relates to climate change mitigation?
+**Q3.** Which of the following pairs is/are correctly matched?
 
-A. Montreal Protocol
+1. India net zero — 2070 (COP26 Glasgow)
+2. China often — 2060 teaching
+3. Green Credit — identical to Kyoto CER always
 
-B. CITES
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
-C. Kyoto Protocol
+<details>
+<summary>Show answer</summary>
 
-D. Ramsar Convention
+**Ans: D.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q6.** World's largest compliance carbon market is:
-
-A. EU ETS
-
-B. PAT scheme
-
-C. CITES
-
-D. Ramsar
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Green Credit ≠ carbon credit.
 
 </details>
 
-**Q7.** India CCTS 2023 designates authority to:
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. BEE
+Assertion (A): PAT creates energy-efficiency certificates (ESCerts).
 
-B. BSI
+Reason (R): PAT is identical to carbon credits under CCTS.
 
-C. CZA
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. FSI
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: C.** A true, R false.
 
-**Ans: A** — Bureau of Energy Efficiency.
-
-</details>
-
-**Q8.** PAT scheme trades:
-
-A. Energy efficiency certificates
-
-B. Wildlife trade permits
-
-C. Ozone credits
-
-D. Ramsar site tags
-
-<details><summary>Show answer</summary>
-
-**Ans: A** — ESCerts, not identical to carbon credits.
+**A/R logic:** PAT ≠ carbon credit.
 
 </details>
 
-**Q9.** India's net zero target year is:
+**Q5.** With reference to LiFE, which of the following statements is/are correct?
 
-A. 2030
+1. Idea pitched at COP26 Glasgow 2021.
+2. Launched June 2022.
+3. Idea first at COP25 Madrid.
 
-B. 2050
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. 2070
+<details>
+<summary>Show answer</summary>
 
-D. 2100
+**Ans: A.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q10.** India announced net zero at:
-
-A. COP26 Glasgow 2021
-
-B. COP-25 Madrid 2019
-
-C. Rio 1992
-
-D. Montreal 1987
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Not COP25.
 
 </details>
 
-**Q11.** Emissions Gap Report is published by:
-
-A. UNEP
-
-B. UNDP
-
-C. WTO
-
-D. IMF
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q12.** Net zero means:
-
-A. Zero gross emissions instantly
-
-B. Emissions balanced by removals
-
-C. Only planting trees
-
-D. Banning all industry
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q13.** India's first Sovereign Green Bonds were issued in:
-
-A. FY 2022–23
-
-B. FY 1991–92
-
-C. FY 2010–11
-
-D. FY 2005–06
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q14.** Green Climate Fund was established under:
-
-A. UNFCCC
-
-B. CITES
-
-C. Montreal Protocol
-
-D. Ramsar
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q15.** Loss and Damage Fund was operationalised at:
-
-A. COP28 2023
-
-B. COP15 2009
-
-C. Montreal 1987
-
-D. Ramsar 1971
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q16.** Blue economy is linked to SDG:
-
-A. SDG 14
-
-B. SDG 1
-
-C. SDG 8 only
-
-D. SDG 17 only
-
-<details><summary>Show answer</summary>
-
-**Ans: A** — Life Below Water.
-
-</details>
-
-**Q17.** MISHTI aims to restore:
-
-A. Mangrove forests
-
-B. Coral reefs in UP
-
-C. Thar desert
-
-D. Alpine meadows
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q18.** MISHTI was announced in:
+**Q6.** Arrange MISHTI year:
 
 A. 2019
+B. Budget 2023
+C. 1972
+D. 2006
 
-B. 2023–24 Union Budget
+<details>
+<summary>Show answer</summary>
 
-C. 1952
+**Ans: B.** Budget 2023.
 
-D. Montreal Protocol
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q19.** LiFE Mission was launched in:
-
-A. June 2022
-
-B. June 2019
-
-C. June 1992
-
-D. June 1987
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Mangrove initiative.
 
 </details>
 
-**Q20.** LiFE idea was proposed at:
+**Q7.** Which of the following pairs is/are NOT correctly matched?
 
-A. COP26 Glasgow 2021
+1. Blue economy — sustainable ocean use; SDG 14
+2. Blue carbon — coastal/ocean sinks
+3. Blue economy — identical to Schedule VI plants
 
-B. COP-25 Madrid 2019
+A. 1 and 2 only
+B. 2 and 3 only
+C. 3 only
+D. 1, 2 and 3
 
-C. Montreal 1987
+<details>
+<summary>Show answer</summary>
 
-D. Ramsar 1971
+**Ans: C.** Only pair 3 is not correctly matched.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q21.** LiFE nodal ministry is:
-
-A. MoEFCC
-
-B. MoD
-
-C. MoHFW
-
-D. MoCI
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Not Schedule VI.
 
 </details>
 
-**Q22.** Green Credit Programme 2023 is:
+**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Same as carbon credit trading
+Assertion (A): Net zero balances remaining emissions with removals.
 
-B. Eco-action incentive separate from carbon credits
+Reason (R): India’s year fact is 2070.
 
-C. Ozone treaty
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. Wildlife trade scheme
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: A.** Both true; 2070 does not define the meaning of net zero globally.
 
-**Ans: B**
-
-</details>
-
-**Q23.** Consider LiFE: (1) Launched June 2022. (2) Idea at COP-25 Madrid.
-
-A. Only 1
-
-B. Only 2
-
-C. Both
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**A/R logic:** Definition vs India year.
 
 </details>
 
-**Q24.** China net zero target year is approximately:
+**Q9.** With reference to carbon markets, which of the following statements is/are correct?
 
-A. 2050
+1. Carbon trading buys/sells allowances or credits.
+2. EU ETS is the largest compliance market teaching.
+3. Kyoto CDM produced CERs.
 
-B. 2060
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. 2070
+<details>
+<summary>Show answer</summary>
 
-D. 2030
+**Ans: D.** All three.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q25.** Blue carbon is stored mainly in:
-
-A. Mangroves and seagrass
-
-B. Thar sand dunes
-
-C. Himalayan snow only
-
-D. Coal mines
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Market locks.
 
 </details>
 
-**Q26.** Fragmentation of plastic bags creates:
+**Q10.** Match List-I with List-II:
 
-A. Secondary microplastics
+| List-I | List-II |
+|--------|--------|
+| A. SUP ban push | 1. Lifestyle mission |
+| B. LiFE | 2. ~2022 |
+| C. Loss & Damage Fund | 3. Climate finance politics |
 
-B. Primary microplastics only
+Code:
 
-C. Ozone
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
 
-D. Acid rain
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: A.** A-2, B-1, C-3.
 
-**Ans: A**
-
-</details>
-
-**Q27.** Kyoto Protocol flexible mechanism includes:
-
-A. CDM
-
-B. CITES appendices
-
-C. Ramsar listing
-
-D. Red List categories
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** SUP/LiFE/L&D.
 
 </details>
 
-**Q28.** India NDC 2030 includes reducing emission intensity of GDP by:
+**Q11.** Arrange Scope 1/2/3 idea:
 
-A. 45% from 2005
+A. Scope 3 direct only
+B. Scope 1 direct; 2 purchased energy; 3 value chain
+C. All scopes mean only methane from cows in one farm
+D. Scopes are IUCN categories
 
-B. 100% instantly
+<details>
+<summary>Show answer</summary>
 
-C. 5% only
+**Ans: B.** 1 direct / 2 energy / 3 chain.
 
-D. 0%
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q29.** Sagarmala relates to:
-
-A. Port-led coastal development
-
-B. Himalayan landslides
-
-C. Desert drought only
-
-D. Ozone layer
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Footprint scopes.
 
 </details>
 
-**Q30.** Carbon trading differs from carbon credit because trading is:
+**Q12.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. The market mechanism
+Assertion (A): Green Credit Programme (2023) rewards eco-actions.
 
-B. Always 1 tonne only
+Reason (R): It is the same instrument as a Kyoto-style carbon credit.
 
-C. Only for ozone
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. Only voluntary forever
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: C.** A true, R false.
 
-**Ans: A** — Credit = unit; trading = market exchange.
+**A/R logic:** Different instruments.
+
+</details>
+
+**Q13.** With reference to climate finance, which of the following statements is/are correct?
+
+1. $100 billion a year pledge is developed-to-developing politics fact.
+2. Loss and Damage Fund operationalisation is current teaching.
+3. Climate finance means only GST compensation.
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Not GST.
+
+</details>
+
+**Q14.** Which one of the following correctly states India’s NDC neighbourhood teaching?
+
+A. Only Article 370 restoration
+B. Only ozone hole targets
+C. Only Eighth Schedule expansion
+D. Intensity cut + non-fossil capacity share toward 2030
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Intensity + non-fossil share.
+
+**Logic:** NDC track.
+
+</details>
+
+**Q15.** How many of the following are true?
+
+Microplastics <5 mm; enter food webs; SUP bans ~2022 push
+
+A. All three
+B. Only two
+C. Only one
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** All three.
+
+**Logic:** Plastics trio.
+
+</details>
+
+**Q16.** With reference to green finance, which of the following statements is/are correct?
+
+1. Capital for climate/environment projects.
+2. Includes green bonds / climate funds / GCF neighbourhood.
+3. India issued Sovereign Green Bonds teaching in recent years.
+
+A. 1 and 2 only
+B. 1, 2 and 3
+C. 1 and 3 only
+D. 2 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** All three.
+
+**Logic:** Green finance set.
+
+</details>
+
+**Q17.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. Net zero India | 1. 2023 |
+| B. Green Credit | 2. 2070 |
+| C. MISHTI Budget | 3. Mangroves |
+
+Code:
+
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A-2, B-1, C-3.
+
+**Logic:** 2070 / 2023 / mangroves.
+
+</details>
+
+**Q18.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Circular economy closes material loops through 3R/9R and EPR teaching.
+
+Reason (R): It links to SDG 12 neighbourhood.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; SDG 12 association does not fully define circular loops by itself.
+
+**A/R logic:** Related SD framing.
+
+</details>
+
+**Q19.** With reference to climate refugees, which of the following statements is/are correct?
+
+1. Mostly internally displaced teaching.
+2. Not a separate legal category under 1951 Refugee Convention teaching.
+3. Automatically get UN Security Council permanent seats.
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Statement 3 false.
+
+</details>
+
+**Q20.** Arrange LiFE chronology:
+
+A. Idea COP26 2021 → launch June 2022
+B. Launch 2021 → idea 2022
+C. Both 2019
+D. Both 2005
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** 2021 idea → 2022 launch.
+
+**Logic:** LiFE years.
+
+</details>
+
+**Q21.** With reference to circular economy neighbourhood, which of the following statements is/are correct?
+
+1. Closes material loops through 3R/9R and EPR teaching.
+2. Links to SDG 12 neighbourhood.
+3. Replaces the Wildlife (Protection) Act.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Circular economy ≠ WPA repeal.
+
+</details>
+
+**Q22.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Microplastics enter food webs from plankton to fish to humans.
+
+Reason (R): Primary microplastics include microbeads.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; microbead source does not fully explain food-web transfer.
+
+**A/R logic:** Source vs pathway.
+
+</details>
+
+**Q23.** With reference to Sagarmala / Deep Ocean Mission neighbourhood, which of the following statements is/are correct?
+
+1. Sit beside blue–coastal policy teaching with MISHTI.
+2. Link to ocean/coastal economy.
+3. They repeal the Wildlife (Protection) Act.
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Do not repeal WPA.
+
+</details>
+
+**Q24.** How many of the following instruments are distinct?
+
+Carbon credit, PAT ESCert, Green Credit
+
+A. Only one
+B. Only two
+C. None exist
+D. All three distinct
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three distinct.
+
+**Logic:** Do not merge.
+
+</details>
+
+**Q25.** Which one of the following correctly states 1 carbon credit?
+
+A. 1 tCO₂e reduced/removed/avoided
+B. 1 hectare forest only always
+C. 1 IUCN category
+D. 1 Dobson Unit
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** 1 tCO₂e.
+
+**Logic:** Credit definition.
+
+</details>
+
+**Q26.** With reference to EU ETS, which of the following statements is/are correct?
+
+1. Largest compliance carbon market teaching.
+2. Cap-and-trade neighbourhood.
+3. Identical to India’s Forest Rights Act.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Not FRA.
+
+</details>
+
+**Q27.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): India’s identified SUP bans tightened around 2022 teaching.
+
+Reason (R): SUP feeds microplastic pathways.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R explains policy push rationale.
+
+**A/R logic:** SUP → microplastics.
+
+</details>
+
+**Q28.** Arrange China / India net-zero teaching years:
+
+A. India 2060; China 2070
+B. Both 2050 only always
+C. China ~2060; India 2070
+D. Both 1992
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** China ~2060; India 2070.
+
+**Logic:** Year pair.
+
+</details>
+
+**Q29.** With reference to MoEFCC LiFE, which of the following statements is/are correct?
+
+1. Behaviour-change / lifestyle mission.
+2. Catalogues pro-planet citizen actions.
+3. Is a carbon-market statute identical to EU ETS.
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Not ETS statute.
+
+</details>
+
+**Q30.** Which of the following statements about voluntary vs compliance markets is/are correct?
+
+1. Compliance markets include ETS teaching.
+2. Voluntary markets use standards/credits outside mandatory caps.
+3. Both are identical to Biosphere Reserve cores.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Not BR cores.
 
 </details>
 

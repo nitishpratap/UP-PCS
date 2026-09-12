@@ -1389,147 +1389,98 @@ D. Neither 1 nor 2
 
 ## Practice Zone — UPPCS Format Drill
 
-> **48 questions** (13+ subtopics). Answers in Show-answer blocks. ≥60% multi-statement / application.
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
+
 
 **Q1.** With reference to the arrival of Europeans in India, which of the following statements is/are correct?
 
-1. The Portuguese were the first to arrive by the Cape route in 1498.
-2. The French East India Company was founded before the Dutch VOC.
+1. Vasco da Gama reached Calicut in 1498 and did not capture Goa.
+2. The Dutch VOC was founded before the English East India Company was chartered.
+3. Arrival order in India was Portuguese → Dutch → English → Danes → French.
 
 Select the correct answer from the code given below:
 
-A. Only 1
+A. 1 and 2 only
 
-B. Only 2
+B. 1 and 3 only
 
-C. Both 1 and 2
+C. 2 and 3 only
 
-D. Neither 1 nor 2
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
+**Ans: B.** 1 and 3 only.
 
-**Logic:** Stmt 1 true. Stmt 2 false: VOC **1602**, French company **1664**
-
-**Ans: A** — Stmt 1 true. Stmt 2 false: VOC **1602**, French company **1664**.
+**Logic:** Stmt 2 swaps years: EIC 1600, VOC 1602.
 
 </details>
 
 ---
 
-**Q2.** Which of the following pairs are correctly matched?
+**Q2.** With reference to Portuguese power in India, which of the following statements is/are correct?
 
-1. Goa — Portuguese
-2. Pulicat — Dutch
-3. Pondicherry — French
-4. Tranquebar — Danish
+1. Francisco de Almeida was the first Portuguese Viceroy and followed the Blue Water Policy.
+2. Afonso de Albuquerque captured Goa in 1510 from Yusuf Adil Shah.
+3. The first European fort in India was built at Goa in 1510.
 
 Select the correct answer from the code given below:
 
-A. 1, 2 and 3 only
+A. 1 and 3 only
 
-B. 2, 3 and 4 only
+B. 2 and 3 only
 
-C. 1, 3 and 4 only
+C. 1 and 2 only
 
-D. 1, 2, 3 and 4
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
+**Ans: C.** 1 and 2 only.
 
-**Logic:** All four are standard settlement–power matches
-
-**Ans: D** — All four are standard settlement–power matches.
+**Logic:** Stmt 3 false: first European fort was Cochin 1503 (Albuquerque, before he became Governor).
 
 </details>
 
 ---
 
-**Q3.** With reference to Portuguese power in India, which of the following statements is/are correct?
+**Q3.** Match List-I with List-II and select the correct answer from the code given below the lists:
 
-1. Vasco da Gama captured Goa in 1498.
-2. Shah Jahan expelled the Portuguese from Hooghly in 1632.
+| List-I (Settlement) | List-II (Power) |
+|---|---|
+| 1. Chinsurah | A. French |
+| 2. Chandernagore | B. Dutch |
+| 3. Serampore | C. Danish |
+| 4. Bandel / Hooghly | D. Portuguese |
 
-A. Only 1
+*Row order is not the answer code.*
 
-B. Only 2
+A. 1-B, 2-C, 3-A, 4-D
 
-C. Both 1 and 2
+B. 1-A, 2-B, 3-C, 4-D
 
-D. Neither 1 nor 2
+C. 1-B, 2-A, 3-C, 4-D
+
+D. 1-D, 2-A, 3-C, 4-B
 
 <details>
 <summary>Show answer</summary>
 
+**Ans: C.** 1-B, 2-A, 3-C, 4-D.
 
-**Logic:** Goa = **Albuquerque 1510**. Gama = Calicut 1498. Hooghly 1632 is correct
-
-**Ans: B** — Goa = **Albuquerque 1510**. Gama = Calicut 1498. Hooghly 1632 is correct.
+**Logic:** Bengal map: Chinsurah Dutch, Chandernagore French, Serampore Danish, Bandel/Hooghly Portuguese.
 
 </details>
 
 ---
 
-**Q4.** Arrange the following in correct chronological order:
+**Q4.** Which of the following pairs is/are correctly matched?
 
-1. Foundation of the French East India Company
-2. Charter of the English East India Company
-3. Foundation of the Dutch VOC
-4. Vasco da Gama at Calicut
-
-A. 4, 2, 3, 1
-
-B. 4, 3, 2, 1
-
-C. 2, 3, 4, 1
-
-D. 4, 2, 1, 3
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** 1498 → 1600 → 1602 → 1664. **D** puts French before Dutch
-
-**Ans: A** — 1498 → 1600 → 1602 → 1664. **D** puts French before Dutch.
-
-</details>
-
----
-
-**Q5.** Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
-
-**Assertion (A):** The Battle of Wandiwash (1760) was decisive for English supremacy over the French in South India.
-
-**Reason (R):** The Treaty of Aix-la-Chapelle immediately followed Wandiwash and transferred Pondicherry permanently to England.
-
-Select the correct answer from the code given below:
-
-Options:
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-
-**A/R logic:** A true. R false: Aix-la-Chapelle is **1748**; after Wandiwash came **Paris 1763**, and France retained commercial foo…
-
-**Ans: C** — A true. R false: Aix-la-Chapelle is **1748**; after Wandiwash came **Paris 1763**, and France retained commercial footholds.
-
-</details>
-
----
-
-**Q6.** Which of the following pairs are NOT correctly matched?
-
-1. Chinsurah — French
-2. Chandernagore — Dutch
-3. Serampore — Danish
+1. Cartaze — Portuguese sea-pass
+2. Farman — Mughal trade grant on land
+3. Capitanias — Portuguese coastal captaincies
 
 Select the correct answer from the code given below:
 
@@ -1544,292 +1495,126 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Ans: D.** 1, 2 and 3.
 
-**Logic:** Chinsurah = **Dutch**; Chandernagore = **French**; Serampore = Danish (3 is correct)
-
-**Ans: A** — Chinsurah = **Dutch**; Chandernagore = **French**; Serampore = Danish (3 is correct).
+**Logic:** All three are standard confused-pair facts; cartaze ≠ farman and cartaze ≠ capitanias.
 
 </details>
 
 ---
 
-**Q7.** With reference to Captain William Hawkins, which of the following statements is/are correct?
+**Q5.** Arrange the following in chronological order:
 
-1. He reached India in 1608 and appeared at Jahangir’s court.
-2. He was the official ambassador of James I throughout 1615–19.
+1. Swally (Thomas Best)
+2. Hawkins at Jahangir’s court
+3. Surat permanent English factory
+4. Sir Thomas Roe’s embassy
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
+A. 2, 1, 3, 4
 
-C. Both 1 and 2
+B. 1, 2, 3, 4
 
-D. Neither 1 nor 2
+C. 2, 3, 1, 4
+
+D. 3, 2, 1, 4
 
 <details>
 <summary>Show answer</summary>
 
+**Ans: A.** 2, 1, 3, 4 — Hawkins 1608 → Swally 1612 → Surat 1613 → Roe 1615–19.
 
-**Logic:** Stmt 2 describes **Sir Thomas Roe**, not Hawkins
-
-**Ans: A** — Stmt 2 describes **Sir Thomas Roe**, not Hawkins.
-
-</details>
-
----
-
-**Q8.** Match List-I with List-II and select the correct answer using the code given below the lists.
-
-**List-I (Settlement)**
-A. Pulicat
-B. Pondicherry
-C. Tranquebar
-D. Goa
-
-**List-II (Power)**
-1. Portuguese
-2. Dutch
-3. French
-4. Danish
-
-A. 2 3 4 1
-
-B. 3 2 4 1
-
-C. 2 3 1 4
-
-D. 4 3 2 1
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** Pulicat-Dutch, Pondicherry-French, Tranquebar-Danish, Goa-Portuguese. **B** swaps Pulicat/Pondicherry
-
-**Ans: A** — Pulicat-Dutch, Pondicherry-French, Tranquebar-Danish, Goa-Portuguese. **B** swaps Pulicat/Pondicherry.
+**Logic:** Masulipatnam temporary factory 1611 sits between Hawkins and Swally; Roe follows permanent Surat.
 
 </details>
 
 ---
 
-**Q9.** Consider the following statements:
+**Q6.** Consider the following statements:
 
-1. Cartaze was a Mughal imperial farman granting duty-free trade.
-2. Francisco de Almeida was the first Portuguese Viceroy in India (1505).
-3. Blue Water Policy meant deep inland conquest of the Deccan.
+Assertion (A): Wandiwash (1760) decided the Anglo–French contest in India in favour of the English.
 
-How many of the above statements are correct?
+Reason (R): Eyre Coote defeated the French under Lally at Wandiwash during the Third Carnatic War.
 
-A. Only one
+Select the correct answer from the code given below:
 
-B. Only two
-
-C. All three
-
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** Only stmt 2. Cartaze = Portuguese ocean pass (not farman). Blue Water = **sea-lane** control
-
-**Ans: A** — Only stmt 2. Cartaze = Portuguese ocean pass (not farman). Blue Water = **sea-lane** control.
-
-</details>
-
----
-
-**Q10.** With reference to English settlements, which of the following statements is/are correct?
-
-1. The first permanent English factory was at Surat in 1612.
-2. Bombay was leased to the EIC in 1668 after coming to the English Crown as dowry in 1661.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** Stmt 2 true. Stmt 1 false: **Swally is 1612**; the first **permanent** Surat factory is **1613**. Masulipatnam **1611…
-
-**Ans: B** — Stmt 2 true. Stmt 1 false: **Swally is 1612**; the first **permanent** Surat factory is **1613**. Masulipatnam **1611** was temporary.
-
-</details>
-
----
-
-**Q11.** Assertion (A): A 17th-century European “factory” in India was a modern industrial mill.
-
-Reason (R): Factories were trading posts with warehouses, agents and often light fortification.
-
-Options:
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
 B. (A) is false, but (R) is true
+
 C. (A) is true, but (R) is false
+
 D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
+**Ans: D.** Both (A) and (R) are true and (R) explains (A).
 
-**A/R logic:** A false (factory ≠ mill). R true and is the actual definition
-
-**Ans: B** — A false (factory ≠ mill). R true and is the actual definition.
+**A/R logic:** Both true; R correctly explains why Wandiwash is the decisive Third Carnatic battle (not Plassey).
 
 </details>
 
 ---
 
-**Q12.** Arrange the following in chronological order:
+**Q7.** With reference to the Carnatic Wars, which of the following statements is/are correct?
 
-1. Battle of Wandiwash
-2. French capture of Madras
-3. Defence of Arcot by Clive
-4. Treaty of Paris
+1. The First Carnatic War ended with the Treaty of Aix-la-Chapelle (1748), returning Madras.
+2. The Second Carnatic War ended with the Treaty of Paris (1763).
+3. Clive’s defence of Arcot belongs to the Second Carnatic War.
 
-A. 2, 3, 1, 4
+Select the correct answer from the code given below:
 
-B. 3, 2, 1, 4
+A. 1 and 2 only
 
-C. 2, 1, 3, 4
+B. 1 and 3 only
 
-D. 2, 3, 4, 1
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
+**Ans: B.** 1 and 3 only.
 
-**Logic:** Madras 1746 → Arcot 1751 → Wandiwash 1760 → Paris 1763. **C** puts Wandiwash before Arcot
-
-**Ans: A** — Madras 1746 → Arcot 1751 → Wandiwash 1760 → Paris 1763. **C** puts Wandiwash before Arcot.
+**Logic:** Stmt 2 false: Second War ends with Treaty of Pondicherry 1754; Paris 1763 ends the Third.
 
 </details>
 
 ---
 
-**Q13.** With reference to the First Carnatic War, which of the following statements is/are correct?
+**Q8.** Which one of the following pairs is NOT correctly matched?
 
-1. It was linked to the War of Austrian Succession.
-2. It ended with the Treaty of Paris (1763).
+Select the correct answer from the code given below:
 
-A. Only 1
+A. Colachel 1741 — Travancore under Marthanda Varma defeats the Dutch
 
-B. Only 2
+B. Bedara / Chinsurah 1759 — English under Francis Forde end Dutch political challenge
 
-C. Both 1 and 2
+C. Plassey 1757 — Eyre Coote’s Anglo–French victory
 
-D. Neither 1 nor 2
+D. Goa 1510 — Albuquerque from Yusuf Adil Shah
 
 <details>
 <summary>Show answer</summary>
 
+**Ans: C.** Plassey is Clive’s Bengal battle; Wandiwash 1760 is Coote’s Anglo–French win.
 
-**Logic:** Ended by **Aix-la-Chapelle 1748**. Paris ends the **Third** War
-
-**Ans: A** — Ended by **Aix-la-Chapelle 1748**. Paris ends the **Third** War.
-
-</details>
-
----
-
-**Q14.** Which of the following statements about the Dutch in India is/are correct?
-
-1. The Battle of Bedara (1759) saw the English defeat the Dutch in Bengal.
-2. The Battle of Colachel (1741) was fought between the English and the French.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** Colachel = **Travancore (Marthanda Varma) vs Dutch**
-
-**Ans: A** — Colachel = **Travancore (Marthanda Varma) vs Dutch**.
+**Logic:** Classic Wandiwash–Plassey commander/theatre swap.
 
 </details>
 
 ---
 
-**Q15.** With reference to Danish settlements, which of the following statements is/are correct?
+**Q9.** With reference to English factories and settlements, which of the following statements is/are correct?
 
-1. Tranquebar was founded in 1620 and is identified with Fort Dansborg.
-2. Denmark sold Tranquebar to the British in 1845.
+1. The first English temporary factory was at Masulipatnam in 1611.
+2. The first permanent English factory rose at Surat in 1613 after Swally.
+3. Francis Day obtained the Madras grant in 1639; Fort St George followed in 1640.
 
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** Both are the two Danish facts worth raata
-
-**Ans: C** — Both are the two Danish facts worth raata.
-
-</details>
-
----
-
-**Q16.** Match List-I with List-II and select the correct answer using the code given below the lists.
-
-**List-I (Event)**
-A. Almeida becomes first Viceroy
-B. English EIC charter
-C. Pondicherry developed as French HQ
-D. Battle of Bedara
-
-**List-II (Year)**
-1. 1600
-2. 1505
-3. 1759
-4. 1674
-
-A. 2 1 4 3
-
-B. 1 2 4 3
-
-C. 2 1 3 4
-
-D. 2 4 1 3
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** 1505, 1600, 1674, 1759. **C** swaps Pondicherry and Bedara years
-
-**Ans: A** — 1505, 1600, 1674, 1759. **C** swaps Pondicherry and Bedara years.
-
-</details>
-
----
-
-**Q17.** Consider the following statements about Dupleix:
-
-1. He was French Governor in India during 1742–1754.
-2. He was recalled to France in 1754 after the Second Carnatic War.
-3. He commanded the French army at Wandiwash in 1760.
-
-Which of the statements given above is/are correct?
+Select the correct answer from the code given below:
 
 A. 1 and 2 only
 
@@ -1842,174 +1627,48 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Ans: D.** 1, 2 and 3.
 
-**Logic:** Wandiwash commander = **Lally**, not Dupleix
-
-**Ans: A** — Wandiwash commander = **Lally**, not Dupleix.
+**Logic:** All three are Must-Score English settlement facts.
 
 </details>
 
 ---
 
-**Q18.** Assertion (A): English naval superiority was a major reason for victory over the French in India.
+**Q10.** Consider the following statements about company foundations:
 
-Reason (R): Long Anglo-French wars in India depended on reinforcement and supply by sea.
+1. The English East India Company was chartered on 31 December 1600 while Akbar was still emperor.
+2. The French East India Company was founded in 1664 by Colbert under Louis XIV.
+3. Pondicherry became the French headquarters from 1674; Goa remained Portuguese.
 
-Options:
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
+**Ans: D.** 1, 2 and 3.
 
-**A/R logic:** R explains why the navy decided the contest
-
-**Ans: D** — R explains why the navy decided the contest.
-
-</details>
-
----
-
-**Q19.** With reference to factories and Presidencies, which of the following statements is/are correct?
-
-1. The three Presidencies were Madras, Bombay and Bengal.
-2. Fort St George is associated with Bombay.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** Fort St George = **Madras**; Fort William = Calcutta
-
-**Ans: A** — Fort St George = **Madras**; Fort William = Calcutta.
+**Logic:** Goa ≠ Pondicherry is the settlement trap; years are standard.
 
 </details>
 
 ---
 
-**Q20.** Which of the following pairs are NOT correctly matched?
+**Q11.** Arrange the Carnatic end-treaties in chronological order:
 
-(Person) — (Association)
+1. Treaty of Paris
+2. Treaty of Aix-la-Chapelle
+3. Treaty of Pondicherry
 
-1. Francisco de Almeida — First Portuguese Viceroy
-2. Afonso de Albuquerque — Capture of Goa (1510)
-3. Eyre Coote — Defence of Arcot (1751)
-4. Count de Lally — French commander, Third Carnatic War
-
-A. Only 3
-
-B. Only 1 and 3
-
-C. Only 3 and 4
-
-D. Only 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** Arcot 1751 = **Clive**. Coote = Wandiwash 1760. Other three pairs are correct
-
-**Ans: A** — Arcot 1751 = **Clive**. Coote = Wandiwash 1760. Other three pairs are correct.
-
-</details>
-
----
-
-**Q21.** With reference to Vasco da Gama, which of the following statements is/are correct?
-
-1. He reached Calicut in 1498 and met the Zamorin.
-2. He opened a direct Atlantic sea route for Portugal; he did not “discover” India.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** Both are the standard Gama facts
-
-**Ans: C** — Both are the standard Gama facts.
-
-</details>
-
----
-
-**Q22.** Consider the following statements:
-
-1. Chanda Sahib was the English client in the Second Carnatic War.
-2. Muhammad Ali was the French client in the Second Carnatic War.
-3. Clive’s defence of Arcot (1751) belongs to the Second Carnatic War.
-
-How many of the above statements are correct?
-
-A. Only one
-
-B. Only two
-
-C. All three
-
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** Only stmt 3. Clients are reversed: Chanda Sahib = **French**; Muhammad Ali = **English**
-
-**Ans: A** — Only stmt 3. Clients are reversed: Chanda Sahib = **French**; Muhammad Ali = **English**.
-
-</details>
-
----
-
-**Q23.** With reference to the Treaty of Paris (1763), which of the following statements is/are correct?
-
-1. It ended the Third Carnatic War / Seven Years’ War in the Indian context.
-2. It restored Madras to the English after the 1746 French capture.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** Madras restoration = **Aix-la-Chapelle 1748**
-
-**Ans: A** — Madras restoration = **Aix-la-Chapelle 1748**.
-
-</details>
-
----
-
-**Q24.** Arrange the following travellers in chronological order of arrival in India:
-
-1. Sir Thomas Roe
-2. Ralph Fitch
-3. William Hawkins
+Select the correct answer from the code given below:
 
 A. 2, 3, 1
 
@@ -2017,232 +1676,53 @@ B. 3, 2, 1
 
 C. 2, 1, 3
 
-D. 1, 3, 2
+D. 1, 2, 3
 
 <details>
 <summary>Show answer</summary>
 
+**Ans: A.** 2, 3, 1 — Aix 1748 → Pondicherry 1754 → Paris 1763.
 
-**Logic:** Fitch (1580s) → Hawkins (1608) → Roe (1615). Downton (**1614**) sits between Hawkins and Roe when all four are asked
-
-**Ans: A** — Fitch (1580s) → Hawkins (1608) → Roe (1615). Downton (**1614**) sits between Hawkins and Roe when all four are asked.
+**Logic:** First / Second / Third Carnatic end-treaty ladder.
 
 </details>
 
 ---
 
-**Q25.** Which one of the following is correctly matched?
+**Q12.** Consider the following statements:
 
-Options:
-A. First Municipal Corporation in India — Calcutta, 1687–88
-B. First Municipal Corporation in India — Madras, 1687–88
-C. First Municipal Corporation in India — Bombay, 1668
-D. First Municipal Corporation in India — Delhi, 1911
+Assertion (A): A factory in early European India was the same as a territorial colony.
 
-<details>
-<summary>Show answer</summary>
+Reason (R): Early European presence rested on coastal trading posts with local permission or a farman.
 
+Select the correct answer from the code given below:
 
-**Logic:** Madras **1687–88**. Calcutta / Bombay / Delhi are the usual wrong cities
-
-**Ans: B** — Madras **1687–88**. Calcutta / Bombay / Delhi are the usual wrong cities.
-
-</details>
-
----
-
-**Q26.** With reference to the Third Carnatic War, which of the following statements is/are correct?
-
-1. It was the Indian theatre of the Seven Years’ War.
-2. The French permanently captured Madras in 1758–59.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** French **siege of Madras failed**. Capture of Madras in **1746** belongs to the First War and was reversed in 1748
-
-**Ans: A** — French **siege of Madras failed**. Capture of Madras in **1746** belongs to the First War and was reversed in 1748.
-
-</details>
-
----
-
-**Q27.** Consider the following pairs:
-
-1. Karaikal — French
-2. Mahe — Dutch
-3. Yanam — French
-4. Masulipatnam — Dutch presence
-
-Which of the pairs given above are correctly matched?
-
-A. 1, 3 and 4 only
-
-B. 1, 2 and 3 only
-
-C. 2, 3 and 4 only
-
-D. 1, 2, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** Mahe = **French** (Malabar), not Dutch
-
-**Ans: A** — Mahe = **French** (Malabar), not Dutch.
-
-</details>
-
----
-
-**Q28.** With reference to Portuguese decline, which of the following statements is/are correct?
-
-1. Union with Spain (1580–1640) pulled Portugal into wars against the Dutch.
-2. By the 17th century their main Indian holdings were Goa, Daman and Diu.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** Both are decline facts
-
-**Ans: C** — Both are decline facts.
-
-</details>
-
----
-
-**Q29.** Assertion (A): The Second Carnatic War is also called the Second Anglo-French War.
-
-Reason (R): It was fought mainly as a direct copy of one European peace treaty crisis, like the First Carnatic War.
-
-Options:
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
 B. (A) is false, but (R) is true
+
 C. (A) is true, but (R) is false
+
 D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
+**Ans: B.** (A) is false, but (R) is true.
 
-**A/R logic:** A tests the alternate name. R tests whether the Second War was Europe-driven like the First.
-
-**Ans: C** — A true. R false: the Second War was driven by **local succession** in the Carnatic and Hyderabad, not by one European peace crisis.
-
-</details>
-
----
-
-**Q30.** Which of the following statements is/are correct?
-
-1. Saltpetre from the Bihar–Bengal belt fed European gunpowder demand.
-2. Coromandel ports specialised mainly in pepper, not cotton textiles.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** Coromandel = **piece-goods / cotton textiles**. Pepper is the Malabar/spice story
-
-**Ans: A** — Coromandel = **piece-goods / cotton textiles**. Pepper is the Malabar/spice story.
+**A/R logic:** A false (factory ≠ colony). R true on coastal commercial presence.
 
 </details>
 
 ---
 
-**Q31.** With reference to Albuquerque, which of the following statements is/are correct?
+**Q13.** With reference to Dutch presence in India, which of the following statements is/are correct?
 
-1. He was the first Portuguese Viceroy of India.
-2. He captured Goa in 1510 and treated it as the capital of Estado da Índia.
+1. Pulicat (Fort Geldria) was a major Coromandel headquarters of the Dutch.
+2. Fort Gustavus at Chinsurah was a Dutch Bengal fort.
+3. At Colachel (1741) the English under Francis Forde defeated the Dutch.
 
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** First Viceroy = **Almeida 1505**
-
-**Ans: B** — First Viceroy = **Almeida 1505**.
-
-</details>
-
----
-
-**Q32.** Match List-I with List-II and select the correct answer using the code given below the lists.
-
-**List-I (War / battle)**
-A. First Carnatic War
-B. Second Carnatic War
-C. Third Carnatic War
-D. Battle of Bedara
-
-**List-II (Year / end marker)**
-1. 1759
-2. Aix-la-Chapelle 1748
-3. Dupleix recalled 1754
-4. Paris 1763
-
-A. 2 3 4 1
-
-B. 2 4 3 1
-
-C. 3 2 4 1
-
-D. 2 3 1 4
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** 1748 / 1754 / 1763 / 1759. **B** swaps Second and Third end markers
-
-**Ans: A** — 1748 / 1754 / 1763 / 1759. **B** swaps Second and Third end markers.
-
-</details>
-
----
-
-**Q33.** Consider the following statements about the English EIC:
-
-1. Queen Elizabeth I granted the charter on 31 December 1600.
-2. Sir Thomas Roe sought stable Mughal farmans rather than immediate conquest.
-3. Hawkins and Roe both dealt with Akbar’s court.
-
-Which of the statements given above is/are correct?
+Select the correct answer from the code given below:
 
 A. 1 and 2 only
 
@@ -2255,391 +1735,459 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
+**Ans: A.** 1 and 2 only.
 
-**Logic:** Both faced **Jahangir**, not Akbar
-
-**Ans: A** — Both faced **Jahangir**, not Akbar.
-
-</details>
-
----
-
-**Q34.** With reference to French settlements, which of the following statements is/are correct?
-
-1. Pondicherry became the French headquarters in 1674 under François Martin.
-2. Chandernagore was the principal Dutch factory in Bengal.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** Chandernagore = **French**; Dutch Bengal = **Chinsurah**
-
-**Ans: A** — Chandernagore = **French**; Dutch Bengal = **Chinsurah**.
+**Logic:** Stmt 3 swaps Colachel (Travancore vs Dutch) with Bedara 1759 (Forde).
 
 </details>
 
 ---
 
-**Q35.** Which of the following pairs are NOT correctly matched?
-
-1. Battle of Swally 1612 — English vs Portuguese near Surat
-2. Battle of Adyar 1746 — English vs Hyder Ali
-3. Battle of Wandiwash 1760 — Coote vs Lally
-
-A. Only 2
-
-B. Only 1 and 2
-
-C. Only 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** Adyar/St Thome = French-trained force vs **Nawabi army** (Anwaruddin), First Carnatic War — not Hyder Ali (Anglo-Mysore)
-
-**Ans: A** — Adyar/St Thome = French-trained force vs **Nawabi army** (Anwaruddin), First Carnatic War — not Hyder Ali (Anglo-Mysore).
-
-</details>
-
----
-
-**Q36.** Consider the following statements:
-
-1. Advent of Europeans means British territorial Raj began in 1498.
-2. Early European factories on the west coast operated under Mughal customs at Surat.
-3. After 1763 other Europeans were reduced mainly to enclaves and trade.
-
-How many of the above statements are correct?
-
-A. Only one
-
-B. Only two
-
-C. All three
-
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** Stmts 2 and 3. Stmt 1 is the classic “advent = Raj” trap
-
-**Ans: B** — Stmts 2 and 3. Stmt 1 is the classic “advent = Raj” trap.
-
-</details>
-
----
-
-**Q37.** With reference to the Battle of Wandiwash, which of the following statements is/are correct?
-
-1. It was fought in 1760 in the Carnatic (present-day Tamil Nadu).
-2. Robert Clive defeated Siraj-ud-Daulah in this battle.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** Stmt 2 is **Plassey 1757**. Wandiwash = **Coote vs Lally**
-
-**Ans: A** — Stmt 2 is **Plassey 1757**. Wandiwash = **Coote vs Lally**.
-
-</details>
-
----
-
-**Q38.** Which of the following is/are correct regarding why the English outpaced the French in India?
-
-1. Stronger navy and company finance.
-2. Recall of Dupleix (1754) and later mismanagement under Lally.
-3. French possession of a larger Indian land-revenue base than Bengal after 1757.
-
-A. 1 and 2 only
-
-B. 1 and 3 only
-
-C. 2 and 3 only
-
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** Stmt 3 reverses the facts: **English** gained Bengal resources after Plassey; France did not
-
-**Ans: A** — Stmt 3 reverses the facts: **English** gained Bengal resources after Plassey; France did not.
-
-</details>
-
----
-
-**Q39.** With reference to trading centres, which of the following statements is/are correct?
-
-1. Europeans used both the Arabian Sea and Bay of Bengal coasts.
-2. A trading centre in the 16th–17th centuries automatically meant full European sovereignty over the hinterland.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** Early centres worked under **local / Mughal** authority
-
-**Ans: A** — Early centres worked under **local / Mughal** authority.
-
-</details>
-
----
-
-**Q40.** Consider the following statements about Carnatic Wars:
-
-1. There were three main Carnatic Wars between 1746 and 1763.
-2. They were fought primarily between the English and Hyder Ali.
-3. The Second Carnatic War is also called the Second Anglo-French War.
-
-Which of the statements given above is/are correct?
-
-A. 1 and 3 only
-
-B. 1 and 2 only
-
-C. 2 and 3 only
-
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** Stmt 2 confuses Carnatic (English vs French) with Anglo-Mysore (English vs Hyder/Tipu).
-
-**Ans: A** — 1 and 3 true; 2 false.
-
-</details>
-
----
-
-**Q41.** With reference to Vasco da Gama’s first voyage, which of the following statements is/are correct?
-
-1. He reached Calicut on 20 May 1498 and was welcomed by the Zamorin.
-2. A Gujarati guide, Ahmad ibn Majid, helped the voyage.
-3. He stayed in India for about one full year on the first trip and revisited in 1501.
-
-A. 1 and 2 only
-
-B. 1 and 3 only
-
-C. 2 and 3 only
-
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** Papers test guide name, Zamorin welcome, and the false “one-year stay / 1501 revisit” trap.
-
-**Ans: A** — Stmt 3 false: first stay was only a few months; revisit was **1502**, not 1501.
-
-</details>
-
----
-
-**Q42.** Match List-I with List-II and select the correct answer from the code given below.
+**Q14.** Match List-I with List-II and select the correct answer from the code given below the lists:
+
+| List-I | List-II |
+|---|---|
+| 1. Hawkins | A. James I’s ambassador, 1615–19 |
+| 2. Sir Thomas Roe | B. EIC captain at Jahangir’s court, 1608 |
+| 3. Job Charnock | C. Sutanuti / Calcutta, 1690 |
+| 4. Thomas Best | D. Swally, 1612 |
 
 *Row order is not the answer code.*
 
-| List-I (Person) | List-II (Tag) |
-|-----------------|---------------|
-| A. Francisco de Almeida | 1. Captured Goa from Yusuf Adil Shah, 1510 |
-| B. Afonso de Albuquerque | 2. Blue Water Policy; first Portuguese Viceroy |
-| C. Nuno da Cunha | 3. Arrival in India, September 1500 |
-| D. Pedro Álvares Cabral | 4. Shifted Portuguese HQ from Cochin to Goa |
+A. 1-B, 2-A, 3-C, 4-D
 
-Code:
+B. 1-A, 2-B, 3-C, 4-D
 
-A. A-2, B-1, C-4, D-3
+C. 1-B, 2-A, 3-D, 4-C
 
-B. A-1, B-2, C-3, D-4
-
-C. A-2, B-4, C-1, D-3
-
-D. A-4, B-1, C-2, D-3
+D. 1-D, 2-A, 3-C, 4-B
 
 <details>
 <summary>Show answer</summary>
 
+**Ans: A.** 1-B, 2-A, 3-C, 4-D.
 
-**Logic:** Almeida = Blue Water / first Viceroy; Albuquerque = Goa; Nuno = HQ shift; Cabral = 1500.
-
-**Ans: A** — Trap: swapping Almeida and Albuquerque, or giving Cabral the fort-of-Cochin tag without year sense.
+**Logic:** Hawkins ≠ Roe envoy trap; Charnock and Best years are fixed.
 
 </details>
 
 ---
 
-**Q43.** At which place did the Portuguese build their first fortress in India?
+**Q15.** Which of the following statements about Farrukhsiyar’s farman (1717) is/are correct?
 
-A. Anjediva
+1. It gave the English Company major duty-free trade privileges in Bengal.
+2. It is the same grant as the Diwani of Bengal, Bihar and Orissa (1765).
+3. Early Company trade at ports such as Surat often rested on a Mughal farman, not conquest.
 
-B. Cannanore
+Select the correct answer from the code given below:
 
-C. Cochin
+A. 1 and 2 only
 
-D. Goa
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
+**Ans: B.** 1 and 3 only.
 
-**Logic:** First fort vs capital vs later Almeida forts.
-
-**Ans: C** — **Cochin 1503** by Albuquerque before he was Governor. Cannanore and Anjediva were fortified later (**1505**). Goa is **1510**.
+**Logic:** Farman 1717 ≠ Diwani 1765 — classic confused pair.
 
 </details>
 
 ---
 
-**Q44.** Which one of the following is the correct chronological order of European arrival in India for trade?
+**Q16.** Which one of the following pairs is NOT correctly matched?
 
-A. English, Dutch, French, Portuguese
+A. Goa — Portuguese capital of Estado da Índia
 
-B. Portuguese, Dutch, English, Danes, French
+B. Pondicherry — French headquarters from 1674
 
-C. Portuguese, English, Dutch, French, Danes
+C. Tranquebar — Dutch Coromandel HQ
 
-D. Dutch, Portuguese, English, French
+D. Pulicat — Dutch (Fort Geldria)
 
 <details>
 <summary>Show answer</summary>
 
+**Ans: C.** Tranquebar is Danish (from 1620); Dutch Coromandel HQ was Pulicat / later Nagapattinam.
 
-**Logic:** Arrival order, not company-charter year alone.
-
-**Ans: B** — Portuguese → Dutch → English → Danes → French. French were last.
+**Logic:** Danish vs Dutch settlement swap.
 
 </details>
 
 ---
 
-**Q45.** With reference to Pondicherry, which of the following statements is/are correct?
+**Q17.** With reference to why the English beat the French in India, which of the following statements is/are correct?
 
-1. The first European power to occupy Pondicherry were the Portuguese.
-2. The English never occupied Pondicherry.
+1. A stronger navy and steadier home support helped the English.
+2. After the Treaty of Paris (1763) France kept an inland empire in the Carnatic.
+3. Recall of Dupleix broke French continuity in the Carnatic.
 
-A. 1 only
+Select the correct answer from the code given below:
 
-B. 2 only
+A. 1 and 2 only
 
-C. Both 1 and 2
+B. 1 and 3 only
 
-D. Neither 1 nor 2
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
+**Ans: B.** 1 and 3 only.
 
-**Logic:** Occupation order and the “English never” trap.
-
-**Ans: A** — Stmt 1 true. Stmt 2 false: English occupied Pondicherry in **1793** and returned it in **1814**.
+**Logic:** Stmt 2 false: Paris 1763 left French with factories/enclaves only.
 
 </details>
 
 ---
 
-**Q46.** Who among the following visitors to India did not belong to Portugal?
+**Q18.** Arrange the following French governors / commanders in the order associated with Pondicherry’s rise to the Third Carnatic War:
 
-A. Duarte Barbosa
+1. Dupleix
+2. François Martin
+3. Lally
+4. Dumas
 
-B. Domingo Paes
+Select the correct answer from the code given below:
 
-C. Peter Mundy
+A. 2, 4, 1, 3
 
-D. Fernao Nuniz
+B. 2, 1, 4, 3
+
+C. 4, 2, 1, 3
+
+D. 2, 4, 3, 1
 
 <details>
 <summary>Show answer</summary>
 
+**Ans: A.** 2, 4, 1, 3 — Martin → (Lenoir) → Dumas → Dupleix → Lally.
 
-**Logic:** Three Portuguese names vs one English traveller under Shah Jahan.
-
-**Ans: C** — **Peter Mundy** was British.
+**Logic:** Must-score French governor ladder before/into the Carnatic wars.
 
 </details>
 
 ---
 
-**Q47.** Which English Governor of the East India Company in India was expelled by Aurangzeb?
+**Q19.** Consider the following statements:
 
-A. Aungier
+Assertion (A): Carnatic Wars and Anglo–Mysore Wars were two names for the same Anglo–French struggle.
 
-B. Sir John Child
+Reason (R): Carnatic Wars were English versus French in the 1740s–60s, while Anglo–Mysore Wars were English versus Hyder/Tipu later.
 
-C. Sir John Gayer
+Select the correct answer from the code given below:
 
-D. Sir Nicholas Waite
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
+**Ans: B.** (A) is false, but (R) is true.
 
-**Logic:** 1688 Bombay crisis — attack on Mughal ports / Mecca pilgrims.
-
-**Ans: B** — **Sir John Child**.
+**A/R logic:** A false (series must not be merged). R true and states the correct distinction.
 
 </details>
 
 ---
 
-**Q48.** Hooghly was used as a base for piracy in the Bay of Bengal by:
+**Q20.** With reference to Bombay and Madras, which of the following statements is/are correct?
 
-A. Portuguese
+1. Bombay came as Portuguese dowry in 1661–62 and was leased to the EIC in 1668 for £10 a year.
+2. The first Municipal Corporation in India was at Bombay in 1687–88.
+3. The three classic presidencies were Madras, Bombay and Bengal.
 
-B. French
+Select the correct answer from the code given below:
 
-C. Danish
+A. 1 and 2 only
 
-D. British
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
+**Ans: B.** 1 and 3 only.
 
-**Logic:** Bengal Portuguese pocket till Shah Jahan’s crackdown in **1632**.
-
-**Ans: A** — Portuguese. Do not swap with Chinsurah (Dutch) or Chandernagore (French).
+**Logic:** Stmt 2 false: first Municipal Corporation was Madras 1687–88.
 
 </details>
 
 ---
+
+**Q21.** Consider the following statements:
+
+1. Portuguese India was a crown empire (Estado da Índia).
+2. Dutch, English, French and Danish presence was mainly company-led under royal charters.
+3. Advent of Europeans is identical with the start of the British Raj.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** 1 and 2 only.
+
+**Logic:** Stmt 3 false: factories/trade precede territorial Raj.
+
+</details>
+
+---
+
+**Q22.** Match List-I with List-II and select the correct answer from the code given below the lists:
+
+| List-I (War / battle) | List-II (Tag) |
+|---|---|
+| 1. First Carnatic War | A. Wandiwash; Treaty of Paris 1763 |
+| 2. Second Carnatic War | B. Aix-la-Chapelle 1748; Madras returned |
+| 3. Third Carnatic War | C. Ambur 1749; Arcot 1751; Pondicherry 1754 |
+
+*Row order is not the answer code.*
+
+A. 1-B, 2-C, 3-A
+
+B. 1-C, 2-B, 3-A
+
+C. 1-B, 2-A, 3-C
+
+D. 1-A, 2-C, 3-B
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** 1-B, 2-C, 3-A.
+
+**Logic:** Cause/course/result tags for the three Carnatic wars.
+
+</details>
+
+---
+
+**Q23.** With reference to Portuguese sea control, which of the following statements is/are correct?
+
+1. Hormuz (1515) and Malacca (1511) were Portuguese choke-points for sea lanes.
+2. A cartaze was a Portuguese sea-pass that Indian Ocean ships had to buy.
+3. Shah Jahan destroyed the Portuguese base at Hooghly in 1632.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** 1, 2 and 3.
+
+**Logic:** All three are Must-Score Portuguese facts.
+
+</details>
+
+---
+
+**Q24.** Which one of the following pairs is NOT correctly matched?
+
+A. EIC charter — 31 December 1600
+
+B. VOC founded — 1602
+
+C. French East India Company — 1664
+
+D. Danish company — 1717
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Danish company dates from 1616 (Tranquebar factory 1620); 1717 is Farrukhsiyar’s farman.
+
+**Logic:** Year swap between Danish company and farman 1717.
+
+</details>
+
+---
+
+**Q25.** Consider the following statements:
+
+Assertion (A): After 1763 the English dominated European rivals in India.
+
+Reason (R): The Treaty of Paris (1763) reduced French power in India to factories and enclaves.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both (A) and (R) are true and (R) explains (A).
+
+**A/R logic:** Both true; R explains the post-Third Carnatic English ascendancy.
+
+</details>
+
+---
+
+**Q26.** With reference to travellers and envoys, which of the following statements is/are correct?
+
+1. Ralph Fitch’s travel belongs before the EIC factory phase.
+2. Hawkins (1608) precedes Roe (1615–19).
+3. Peter Mundy was a Portuguese chronicler under Albuquerque.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** 1 and 2 only.
+
+**Logic:** Stmt 3 false: Peter Mundy was English under Shah Jahan.
+
+</details>
+
+---
+
+**Q27.** Consider the following statements about presidencies:
+
+1. The early western Presidency sat at Surat before shifting to Bombay.
+2. A presidency was only another name for a single factory.
+3. Madras, Bombay and Bengal were the three classic presidencies.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** 1 and 3 only.
+
+**Logic:** Presidency ≠ factory — administrative unit vs local trading station.
+
+</details>
+
+---
+
+**Q28.** Arrange the following in chronological order:
+
+1. Albuquerque captures Goa
+2. Vasco da Gama at Calicut
+3. Almeida becomes first Portuguese Viceroy
+4. First European fort at Cochin
+
+Select the correct answer from the code given below:
+
+A. 2, 4, 3, 1
+
+B. 2, 3, 4, 1
+
+C. 4, 2, 3, 1
+
+D. 2, 4, 1, 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** 2, 4, 3, 1 — 1498 → Cochin fort 1503 → Almeida 1505 → Goa 1510.
+
+**Logic:** Portuguese ladder; Cochin fort before Almeida’s viceroyalty and before Goa.
+
+</details>
+
+---
+
+**Q29.** With reference to the Second Carnatic War, which of the following statements is/are correct?
+
+1. Cause/course: succession politics with battles such as Ambur (1749) and Arcot (1751).
+2. Result: Treaty of Pondicherry (1754) and recall of Dupleix.
+3. Immediate spark of the First Carnatic War was the seizure of French ships.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** 1, 2 and 3.
+
+**Logic:** Stmt 3 is First War spark but still a correct statement in the set; all three hold.
+
+</details>
+
+---
+
+**Q30.** Which one of the following pairs is NOT correctly matched?
+
+A. Levant Company — land-route charter, 1592
+
+B. EIC — sea East Indies charter, 1600
+
+C. Blue Water Policy — Albuquerque’s inland Deccan conquest plan
+
+D. Cartaze — Portuguese sea-pass
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Blue Water Policy belongs to Almeida (sea-lane control), not Albuquerque’s inland conquest image.
+
+**Logic:** Almeida vs Albuquerque policy trap.
+
+</details>
 
 ## Common Traps — Don't Fall For These
 

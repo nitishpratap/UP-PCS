@@ -810,308 +810,599 @@ D. Freshwater glaciers only
 ---
 
 
-## Practice Zone
+## Practice Zone — UPPCS Format Drill
 
-**Q1.** Descending world water: Oceans, Ice, Groundwater, Rivers is coded:
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-Options: A. 1-3-4-2 B. 1-2-4-3 C. 1-2-3-4 D. 1-4-3-2
+**Q1.** With reference to world water shares, which of the following statements is/are correct?
 
-<details><summary>Show answer</summary>
+1. Oceans about 97.2%.
+2. Ice/glaciers about 2% — ahead of rivers in freshwater ranking.
+3. Rivers are second after oceans in global freshwater ranking.
 
-**Ans: A**
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q2.** Smallest fraction among these:
+**Ans: B.** Only 1 and 2.
 
-Options: A. Oceans B. Polar ice C. Groundwater D. Rivers
-
-<details><summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q3.** Annual Groundwater Quality Report is by:
-
-Options: A. CPCB B. CGWB C. CZA D. BSI
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Ice/glaciers beat rivers — not rivers after oceans.
 
 </details>
 
-**Q4.** Jal Jeevan Mission Budget year:
+**Q2.** Match List-I with List-II:
 
-Options: A. 2019–20 B. 2014–15 C. 1985–86 D. 2003–04
+| List-I | List-II |
+|--------|--------|
+| A. World Water Day | 1. 2 February |
+| B. Wetlands Day | 2. 22 March |
+| C. JJM launch | 3. August 2019 |
 
-<details><summary>Show answer</summary>
+Code:
 
-**Ans: A**
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q5.** Namami Gange launched in:
+**Ans: C.** A-2, B-1, C-3.
 
-Options: A. 1985 B. 2014 C. 2019 D. 1974
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q6.** Ganga Action Plan year:
-
-Options: A. 1985 B. 2014 C. 2019 D. 2008
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Water Day / Wetlands Day / JJM.
 
 </details>
 
-**Q7.** Unit that collects, stores and releases water:
+**Q3.** Which of the following pairs is/are correctly matched?
 
-Options: A. Watershed B. Wasteland C. Ozone layer D. Desert
+1. India freshwater share — ~4% for ~18% population
+2. Per-capita ~1400 m³ — water-stress neighbourhood teaching
+3. Freshwater — biotic resource identical to forests
 
-<details><summary>Show answer</summary>
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: D.** Only 1 and 2.
 
-**Q8.** Hariyali relates to:
-
-Options: A. Watershed / water conservation B. Ozone treaty C. Wildlife trade D. Carbon trading
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q9.** First state with mandatory RWH in new buildings:
-
-Options: A. Tamil Nadu B. Punjab C. Kerala only D. Goa only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Freshwater is abiotic.
 
 </details>
 
-**Q10.** Dublin Principles year:
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Options: A. 1992 B. 1971 C. 1985 D. 2019
+Assertion (A): The water cycle is driven primarily by solar radiation through evaporation.
 
-<details><summary>Show answer</summary>
+Reason (R): Amount of rainfall depends strongly on atmospheric humidity.
 
-**Ans: A**
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q11.** National Water Policy 2012 priority starts with:
+**Ans: A.** Both true; humidity–rain link does not explain what drives the cycle.
 
-Options: A. Industry B. Drinking water C. Navigation D. Mining
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q12.** Ministry of Jal Shakti formed in:
-
-Options: A. 2019 B. 1985 C. 1974 D. 1952
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**A/R logic:** Driver vs rainfall control.
 
 </details>
 
-**Q13.** Kanpur Ganga pollution is mainly linked to:
+**Q5.** With reference to Rajendra Singh, which of the following statements is/are correct?
 
-Options: A. Tanneries B. Coral bleaching C. Tundra melting D. Ozone hole
+1. Called Jal Purush / Waterman of India.
+2. Tarun Bharat Sangh, Alwar.
+3. He chairs NGRBA as Prime Minister.
 
-<details><summary>Show answer</summary>
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: A.** Only 1 and 2.
 
-**Q14.** Gomti river is associated with:
-
-Options: A. Lucknow B. Mumbai C. Chennai D. Jaipur
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q15.** CETP treats:
-
-Options: A. Industrial effluent B. Only rainwater C. Only ozone D. Only solid waste plastics
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** PM chairs NGRBA — not Rajendra Singh.
 
 </details>
 
-**Q16.** World Wetlands Day:
+**Q6.** Arrange Ganga cleaning spine years:
 
-Options: A. 2 February B. 5 June C. 16 September D. 22 April
+A. Namami Gange 1985 → GAP 2014
+B. GAP 1985 → NGRBA 2009 → Namami Gange 2014
+C. Both 2020 only
+D. JJM 1985 only
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** GAP → NGRBA → Namami Gange.
 
-</details>
-
-**Q17.** Sultanpur Ramsar/NP is in:
-
-Options: A. Haryana B. Uttar Pradesh C. Tripura D. Kerala
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Year ladder.
 
 </details>
 
-**Q18.** Rudrasagar Lake is in:
+**Q7.** Which of the following pairs is/are NOT correctly matched?
 
-Options: A. Tripura B. UP C. Rajasthan D. Punjab
+1. Kanpur — Ganga tannery pollution
+2. Gomti — Lucknow’s river
+3. Gomti’s main tannery story — Kanpur
 
-<details><summary>Show answer</summary>
+A. 1 and 2 only
+B. 2 and 3 only
+C. 3 only
+D. 1, 2 and 3
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: C.** Only pair 3 is not correctly matched.
 
-**Q19.** Atal Bhujal Yojana focuses on:
-
-Options: A. Community groundwater management B. Space research C. Wildlife trade D. Ozone recovery
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q20.** Arsenic contamination is common in:
-
-Options: A. Ganga–Brahmaputra alluvium B. Atacama only C. Antarctica ice D. Coral reefs only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Do not put Gomti on Kanpur.
 
 </details>
 
-**Q21.** BIS drinking water standard code:
+**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Options: A. IS 10500:2012 B. IS 456 C. ISO 9001 only D. CITES App I
+Assertion (A): JJM launched in August 2019 for rural household taps.
 
-<details><summary>Show answer</summary>
+Reason (R): JJM is identical to Namami Gange’s river-cleaning mission.
 
-**Ans: A**
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q22.** Fluoride desirable max (approx.):
+**Ans: C.** A true, R false.
 
-Options: A. 1.5 mg/L B. 150 mg/L C. 0.001 mg/L D. 50%
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q23.** Ridge-to-valley is principle of:
-
-Options: A. Watershed management B. Ozone depletion C. Carbon trading D. Coral bleaching
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**A/R logic:** JJM ≠ Namami Gange.
 
 </details>
 
-**Q24.** NMCG implements:
+**Q9.** With reference to National Water Policy 2012, which of the following statements is/are correct?
 
-Options: A. Namami Gange B. Montreal Protocol C. CITES D. Ramsar listing alone
+1. Priority language starts with drinking water.
+2. IWRM treats the river basin as the planning unit.
+3. Industry is first priority over drinking water.
 
-<details><summary>Show answer</summary>
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: D.** Only 1 and 2.
 
-**Q25.** India share of world freshwater approx.:
-
-Options: A. 4% B. 40% C. 80% D. 0.01%
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q26.** Consider: (1) CGWB prepares groundwater quality report. (2) CPCB is same as CGWB.
-
-Options: A. Only 1 B. Only 2 C. Both D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Drinking water first.
 
 </details>
 
-**Q27.** Ecological flows mean:
+**Q10.** Match List-I with List-II:
 
-Options: A. Minimum river flow for ecosystem health B. Maximum irrigation diversion only C. Zero dam releases forever D. Ocean tides only
+| List-I | List-II |
+|--------|--------|
+| A. CGWB | 1. Groundwater regulation under EPA |
+| B. CGWA | 2. Annual Groundwater Quality Report |
+| C. Atal Bhujal | 3. 2019 groundwater management |
 
-<details><summary>Show answer</summary>
+Code:
 
-**Ans: A**
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q28.** Johad and taanka are traditional:
+**Ans: A.** A-2, B-1, C-3.
 
-Options: A. Rainwater harvesting structures B. Cyclone shelters C. Ozone monitors D. Gene banks
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q29.** Clean river BOD target roughly:
-
-Options: A. <3 mg/L B. >300 mg/L C. Zero DO forever D. Unlimited BOD
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** CGWB ≠ CGWA.
 
 </details>
 
-**Q30.** Assertion (A): Rivers hold the largest share of Earth's water.
-Reason (R): Oceans hold about 97% of Earth's water.
+**Q11.** Arrange IS 10500:2012 teaching limits idea:
 
-Options: A. Both true; R explains A B. Both true; R does not explain A C. A false, R true D. Both false
+A. Fluoride ≤100 mg/L only
+B. Fluoride ≤1.5 mg/L; arsenic ≤0.01 mg/L; pH ~6.5–8.5
+C. Arsenic ≤50 mg/L only
+D. No pH range taught
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: C** — A false (rivers tiny); R true.
+**Ans: B.** F ≤1.5; As ≤0.01; pH 6.5–8.5.
+
+**Logic:** Drinking-water standards.
 
 </details>
+
+**Q12.** With reference to rainwater harvesting, which of the following statements is/are correct?
+
+1. Captures rain for use or recharge.
+2. Tamil Nadu’s mandatory RWH (2003) is a classic state fact.
+3. RWH means only desalination of ocean water.
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Not desalination.
+
+</details>
+
+**Q13.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): National Aquatic Animal (2009) is the Ganges River Dolphin.
+
+Reason (R): Crocodile is the National Aquatic Animal.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true, R false.
+
+**A/R logic:** Dolphin — not crocodile.
+
+</details>
+
+**Q14.** Which of the following pairs is/are correctly matched?
+
+1. Watershed — land draining to a common outlet
+2. Hariyali — GOI watershed project neighbourhood
+3. Aquifer — surface canal identical always
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Aquifer ≠ surface canal.
+
+</details>
+
+**Q15.** How many of the following are correct?
+
+Ministry of Jal Shakti 2019 merger; Water Act 1974; Water Cess Act 1977
+
+A. All three
+B. Only two
+C. Only one
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** All three.
+
+**Logic:** Institution/law trio.
+
+</details>
+
+**Q16.** With reference to disinfection, which of the following statements is/are correct?
+
+1. UV kills microbes without changing taste/odour teaching.
+2. UV does not remove organic load like BOD treatment.
+3. UV alone is identical to BOD as a pollution metric.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** UV ≠ BOD metric.
+
+</details>
+
+**Q17.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. Yamuna Action Plan | 1. 2014 |
+| B. Namami Gange | 2. 1993 |
+| C. NLCP start | 3. June 2001 |
+
+Code:
+
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A-2, B-1, C-3.
+
+**Logic:** YAP / Namami / NLCP.
+
+</details>
+
+**Q18.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Heavy sand mining can lower water table and pollute groundwater.
+
+Reason (R): A standard consequence is that sand mining decreases river salinity.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true, R false.
+
+**A/R logic:** Salinity decrease is not the standard lock.
+
+</details>
+
+**Q19.** Which one of the following correctly states BOD?
+
+A. Identical to aquifer volume
+B. Ocean volume share only
+C. Glacier mass share only
+D. Organic pollution strength metric (mg/L)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Organic pollution strength.
+
+**Logic:** Quality metric — not volume.
+
+</details>
+
+**Q20.** With reference to National Water Mission, which of the following statements is/are correct?
+
+1. Under NAPCC from 30 June 2008.
+2. Aims conservation, less wastage, equitable distribution via IWRM.
+3. Identical to Lisbon Declaration on oceans.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Lisbon = oceans — not NWM.
+
+</details>
+
+**Q21.** Arrange STP vs CETP:
+
+A. Both identical always
+B. STP domestic; CETP industrial effluent trains
+C. STP industrial only; CETP domestic only
+D. Neither treats wastewater
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** STP domestic; CETP industrial.
+
+**Logic:** Swap trap.
+
+</details>
+
+**Q22.** Which of the following pairs is/are correctly matched?
+
+1. Transplanted seedlings often fail — root-hair loss
+2. Root hairs absorb water and mineral nutrients
+3. Humidity measured with a thermometer only always
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Humidity uses hygrometer neighbourhood — not thermometer-only.
+
+</details>
+
+**Q23.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): NGRBA chair is the Prime Minister.
+
+Reason (R): NGRBA is under EPA neighbourhood teaching with PM chair fact.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R explains the chair lock.
+
+**A/R logic:** PM chairs NGRBA.
+
+</details>
+
+**Q24.** How many of the following UP colour locks are correct?
+
+Bundelkhand scarcity; Kanpur tanneries; Gomti–Lucknow; arsenic plains
+
+A. Only one
+B. Only two
+C. Only three
+D. All four
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All four.
+
+**Logic:** UP water colour set.
+
+</details>
+
+**Q25.** With reference to wetlands, which of the following statements is/are correct?
+
+1. Ramsar 1971 and Wise Use.
+2. World Wetlands Day on 2 February.
+3. Rudrasagar is a UP Ramsar site.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Rudrasagar ≠ UP.
+
+</details>
+
+**Q26.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. Dublin Principles | 1. Local drainage unit |
+| B. Watershed | 2. 1992 IWRM neighbourhood |
+| C. NPCA | 3. NLCP+NWCP merger 2013 |
+
+Code:
+
+A. A-1, B-2, C-3
+B. A-2, B-1, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** A-2, B-1, C-3.
+
+**Logic:** Dublin / watershed / NPCA.
+
+</details>
+
+**Q27.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Desert plants conserve water via hard/waxy leaves, tiny leaves, or thorns.
+
+Reason (R): These are adaptations that reduce water loss.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R explains A.
+
+**A/R logic:** Xeric adaptations.
+
+</details>
+
+**Q28.** Arrange JJM year trap:
+
+A. 2014 Namami identical
+B. 1985 GAP
+C. August 2019 Har Ghar Jal
+D. 1974 Water Act only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** August 2019.
+
+**Logic:** Not 2014.
+
+</details>
+
+**Q29.** With reference to groundwater institutions, which of the following statements is/are correct?
+
+1. CGWB prepares Annual Groundwater Quality Report.
+2. CGWA regulates groundwater under EPA 1986 neighbourhood.
+3. CPCB publishes that same CGWB groundwater quality report as its only job.
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** CGWB ≠ CPCB on that report.
+
+</details>
+
+**Q30.** Which one of the following correctly states IWRM vs watershed?
+
+A. IWRM = basin coordination; watershed = local drainage unit
+B. Both identical surface canals only
+C. IWRM = only rooftop RWH
+D. Watershed = only ocean Lisbon
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Basin vs local drainage.
+
+**Logic:** Scale distinction.
+
+</details>
+
+---
 
 ## Common Traps
 

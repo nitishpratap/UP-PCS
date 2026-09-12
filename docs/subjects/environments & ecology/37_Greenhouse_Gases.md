@@ -504,306 +504,591 @@ D. Ozone
 
 ---
 
-## Practice Zone
+## Practice Zone — UPPCS Format Drill
 
-**Q1.** Which is NOT a GHG?
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-Options: A. Argon B. CFC C. CH₄ D. CO₂
+**Q1.** With reference to the greenhouse effect, which of the following statements is/are correct?
 
-<details><summary>Show answer</summary>
+1. GHGs absorb outgoing IR and trap heat.
+2. Without natural GE Earth ~−18°C; with it ~+15°C.
+3. Argon is the main greenhouse gas.
 
-**Ans: A**
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q2.** Paddy fields mainly emit which warming gas in the classic PYQ?
+**Ans: B.** Only 1 and 2.
 
-Options: A. Methane B. Nitrogen C. Carbon monoxide D. Argon
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q3.** Laughing gas is:
-
-Options: A. N₂O B. NH₃ C. CO D. CFC
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Argon is not a GHG.
 
 </details>
 
-**Q4.** Biogas major constituents:
+**Q2.** Match List-I with List-II:
 
-Options: A. CH₄ and CO₂ B. Butane and CO C. Only argon D. Only O₂ and N₂
+| List-I | List-II |
+|--------|--------|
+| A. CO₂ GWP | 1. ~28–36; lifetime ~12 yr |
+| B. CH₄ GWP | 2. 1 |
+| C. N₂O | 3. Very high GWP (~265); fertiliser link |
 
-<details><summary>Show answer</summary>
+Code:
 
-**Ans: A**
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q5.** CNG is mainly:
+**Ans: C.** A-2, B-1, C-3.
 
-Options: A. Methane B. Butane C. Propane only D. Helium
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q6.** CO₂ GWP is:
-
-Options: A. 1 B. 28 C. 265 D. 10,000
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** GWP ladder.
 
 </details>
 
-**Q7.** Rough CH₄ GWP (100-yr):
+**Q3.** Which of the following pairs is/are correctly matched?
 
-Options: A. 28–36 B. 1 C. 0 D. Equal to argon
+1. Pre-industrial CO₂ ~280 ppm
+2. Present >415–420 ppm teaching
+3. WMO-style share order CO₂ > CH₄ > CFCs > N₂O
 
-<details><summary>Show answer</summary>
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: D.** All three.
 
-**Q8.** Rough N₂O GWP (100-yr):
-
-Options: A. ~265 B. 1 C. 28 only D. Same as N₂
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q9.** Water vapour is mainly a:
-
-Options: A. Climate feedback gas B. Montreal ODS C. Kyoto primary inventory target like coal CO₂ only D. Noble gas
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** CO₂ levels + shares.
 
 </details>
 
-**Q10.** Photochemical smog contains:
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Options: A. Ozone B. Only argon C. Only helium D. Only N₂
+Assertion (A): Water vapour is the most abundant natural GHG (~half of natural effect).
 
-<details><summary>Show answer</summary>
+Reason (R): It mainly acts as a feedback, not the primary anthropogenic driver.
 
-**Ans: A**
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q11.** CFCs are:
+**Ans: D.** Both true and R clarifies its role vs fossil CO₂.
 
-Options: A. GHG and ODS B. Neither C. Only noble gases D. Only fertiliser gases
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q12.** HFCs are:
-
-Options: A. High-GWP GHGs, not ODS B. Classic ozone destroyers like CFC-11 twin C. Same as argon D. Same as N₂
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**A/R logic:** Feedback ≠ primary driver.
 
 </details>
 
-**Q13.** Kigali Amendment targets:
+**Q5.** With reference to CFC vs HFC, which of the following statements is/are correct?
 
-Options: A. HFCs B. Only tiger trade C. Only Ramsar sites D. Only wet rice ban worldwide
+1. CFCs = ODS + GHG (Montreal).
+2. HFCs = GHG only; Kigali phase-down.
+3. HFCs are classic ODS identical to CFCs.
 
-<details><summary>Show answer</summary>
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: A.** Only 1 and 2.
 
-**Q14.** Methane from paddies and termites:
-
-Options: A. Both emit CH₄ B. Neither emits CH₄ C. Only argon from both D. Only CO from both
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q15.** Dominant anthropogenic forcing gas:
-
-Options: A. CO₂ B. Water vapour inventory target C. Argon D. Helium
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** HFC ≠ classic ODS.
 
 </details>
 
-**Q16.** Stratospheric ozone ma role:
+**Q6.** Arrange Kyoto basket teaching:
 
-Options: A. UV shield B. Primary Kyoto inventory gas like coal CO₂ C. Laughing gas D. CNG fuel
+A. Only argon and N₂
+B. CO₂, CH₄, N₂O, HFCs, PFCs, SF₆ (later NF₃)
+C. Only SO₂ and dust
+D. Only BOD and COD
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Kyoto six (+ NF₃ later).
 
-</details>
-
-**Q17.** Pre-industrial CO₂ was about:
-
-Options: A. 280 ppm B. 28 ppm C. 2800 ppm D. 2 ppm
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Basket contents.
 
 </details>
 
-**Q18.** Kyoto basket includes:
+**Q7.** Which of the following pairs is/are NOT correctly matched?
 
-Options: A. CO₂, CH₄, N₂O, HFCs, PFCs, SF₆ B. Only argon and helium C. Only N₂ and O₂ D. Only water vapour
+1. Paddy fields — classic CH₄ source
+2. Biogas — mainly CH₄ + CO₂
+3. Biogas — CO₂-only always
 
-<details><summary>Show answer</summary>
+A. 1 and 2 only
+B. 2 and 3 only
+C. 3 only
+D. 1, 2 and 3
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: C.** Only pair 3 is not correctly matched.
 
-**Q19.** Main N₂O anthropogenic source:
-
-Options: A. Nitrogen fertilisers B. Only helium balloons C. Only argon lights D. Only O₂ tanks
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q20.** Largest CO₂ emitter in 2015 among options:
-
-Options: A. China B. India C. France D. Only Bhutan
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Not CO₂-only.
 
 </details>
 
-**Q21.** Assertion (A): Argon is not a greenhouse gas.
-Reason (R): CFCs are also not greenhouse gases.
+**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Options: A. Both true; R explains A B. Both true; R does not explain A C. A true, R false D. Both false
+Assertion (A): N₂O is not the same as N₂.
 
-<details><summary>Show answer</summary>
+Reason (R): Molecular nitrogen is inert as a greenhouse gas.
 
-**Ans: C**
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q22.** Tropospheric ozone is:
+**Ans: D.** Both true and R supports the separation.
 
-Options: A. Pollutant and GHG B. Only UV shield C. Only noble gas D. Identical to N₂
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q23.** Without natural greenhouse effect, Earth would be about:
-
-Options: A. −18°C B. +15°C C. +100°C D. 0 K always
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**A/R logic:** N₂O ≠ N₂.
 
 </details>
 
-**Q24.** Which is NOT a natural GHG in the 2020 framing?
+**Q9.** With reference to direct vs indirect GHGs, which of the following statements is/are correct?
 
-Options: A. Nitrogen oxide B. CO₂ C. CH₄ D. Ozone
+1. Direct: CO₂, CH₄, N₂O, CFCs, SF₆, NF₃.
+2. Indirect: NOₓ, CO, NMVOCs, SO₂.
+3. Argon is a direct Kyoto gas.
 
-<details><summary>Show answer</summary>
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: D.** Only 1 and 2.
 
-**Q25.** HFC vs CFC:
-
-Options: A. HFC does not deplete ozone; CFC does B. Both are argon twins C. Neither is a GHG D. HFC is only a wetland gas
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q26.** CO₂e is used to:
-
-Options: A. Compare different GHGs on one scale B. Measure only noble gases C. Replace Dobson Units for ozone hole D. Rank only rivers
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Argon not GHG.
 
 </details>
 
-**Q27.** Short-lived relative to CO₂ among major GHGs:
+**Q10.** Match List-I with List-II:
 
-Options: A. Methane (~12 years) B. N₂O only lasts 1 day always C. Argon lasts forever as GHG D. Helium is main Kyoto gas
+| List-I | List-II |
+|--------|--------|
+| A. Tropospheric O₃ | 1. UV shield |
+| B. Stratospheric O₃ | 2. GHG + pollutant |
+| C. CO₂e | 3. Convert GHGs via GWP |
 
-<details><summary>Show answer</summary>
+Code:
 
-**Ans: A**
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q28.** Montreal primarily controls:
+**Ans: A.** A-2, B-1, C-3.
 
-Options: A. ODS including CFCs B. Only CH₄ from paddies C. Only N₂O laughing-gas medical use D. Only CO₂ from cement worldwide alone
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q29.** India’s absolute GHG emitter rank is roughly:
-
-Options: A. Among top 3 B. 78th always C. Zero emissions D. Only 100th always
-
-<details><summary>Show answer</summary>
-
-**Ans: A** — per capita still low; 2023 Q109 “10th” is a different framing trap (Topic 34).
+**Logic:** O₃ roles + CO₂e.
 
 </details>
 
-**Q30.** Correct set:
+**Q11.** Arrange non-GHG set:
 
-Options: A. Argon≠GHG; paddy→CH₄; laughing gas=N₂O; biogas=CH₄+CO₂; HFC≠ODS B. Argon=GHG; paddy→CO; laughing gas=NH₃; biogas=butane C. CFC≠GHG; HFC=ODS twin of CFC-11 D. Water vapour=main Kyoto inventory gas
+A. Only CO₂
+B. Argon, N₂, O₂, helium, hydrogen, propane teaching
+C. Only CH₄
+D. Only N₂O
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Non-GHG list.
+
+**Logic:** Do not list argon as GHG.
+
+</details>
+
+**Q12.** With reference to methane, which of the following statements is/are correct?
+
+1. Links to paddies, cattle, landfills, termites, wetlands neighbourhood.
+2. Short-horizon GWP much higher than 100-year figure teaching.
+3. Longer lifetime than CO₂ always.
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** CH₄ lifetime shorter (~12 yr).
+
+</details>
+
+**Q13.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): F-gases are small by mass but can be huge by GWP.
+
+Reason (R): HFCs, PFCs, SF₆ sit in the F-gas set.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; membership list does not itself explain mass-vs-GWP asymmetry.
+
+**A/R logic:** Mass vs forcing.
+
+</details>
+
+**Q14.** Which one of the following correctly states carbon fertilization?
+
+A. Only Dobson Unit rise
+B. Ocean acidification synonym
+C. Only methane hydrate melt
+D. Higher plant growth from elevated CO₂
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Elevated-CO₂ growth effect.
+
+**Logic:** ≠ acidification.
+
+</details>
+
+**Q15.** How many of the following emitter facts are correct?
+
+China largest CO₂; India ~3rd absolute; Bhutan often carbon-negative
+
+A. All three
+B. Only two
+C. Only one
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** All three.
+
+**Logic:** Emitter map.
+
+</details>
+
+**Q16.** With reference to cement / industry, which of the following statements is/are correct?
+
+1. Cement process emissions are major industrial CO₂ beyond fuel combustion.
+2. CO₂ useful in photosynthesis and harmful via enhanced GE.
+3. CO₂ has GWP defined as 1.
+
+A. 1 and 2 only
+B. 1, 2 and 3
+C. 1 and 3 only
+D. 2 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** All three.
+
+**Logic:** Industrial + dual role + GWP.
+
+</details>
+
+**Q17.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. Methane hydrates | 1. Feedback amplifier |
+| B. Water vapour | 2. Arctic/seafloor CH₄ release risk |
+| C. Rice | 3. Emits CH₄ and links to N₂O fertiliser neighbourhood |
+
+Code:
+
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A-2, B-1, C-3.
+
+**Logic:** Hydrates / vapour / rice.
+
+</details>
+
+**Q18.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): GWP compares heat-trapping power to CO₂ over a stated horizon (usually 100 years).
+
+Reason (R): CO₂e uses GWP to convert other gases into CO₂-equivalent.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; CO₂e definition does not explain what GWP itself measures.
+
+**A/R logic:** GWP vs CO₂e.
+
+</details>
+
+**Q19.** Which of the following pairs is/are correctly matched?
+
+1. Fourier — greenhouse-effect framing neighbourhood
+2. Tropospheric ozone — main GHG form of ozone
+3. Stratospheric ozone — main GHG form of ozone
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Stratospheric O₃ = UV shield, not main GHG form.
+
+</details>
+
+**Q20.** Arrange CH₄ oxidation teaching:
+
+A. CH₄ oxidises to CO₂ in about a decade or two teaching
+B. Never oxidises
+C. Instantly becomes argon
+D. Becomes only N₂
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Oxidises to CO₂.
+
+**Logic:** Lifetime/two-decade idea.
+
+</details>
+
+**Q21.** With reference to N₂O, which of the following statements is/are correct?
+
+1. Called laughing gas.
+2. Strong fertiliser link.
+3. GWP about equal to 1 like CO₂.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Very high GWP (~265).
+
+</details>
+
+**Q22.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Water vapour rises as Earth warms and amplifies warming.
+
+Reason (R): That feedback replaces fossil CO₂ as the primary driver.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true, R false.
+
+**A/R logic:** Feedback does not replace fossil CO₂ driver.
+
+</details>
+
+**Q23.** How many of the following are greenhouse gases?
+
+CO₂, CH₄, N₂O, argon
+
+A. Only one
+B. Only two
+C. Only three
+D. All four
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only three.
+
+**Logic:** Argon out.
+
+</details>
+
+**Q24.** Which one of the following correctly states SF₆ / NF₃ neighbourhood?
+
+A. Only BOD metrics
+B. Only natural water vapour
+C. Only argon isotopes
+D. High-GWP F-gases in Kyoto/expanded basket teaching
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** F-gas basket members.
+
+**Logic:** Huge GWP.
+
+</details>
+
+**Q25.** With reference to relative shares, which of the following statements is/are correct?
+
+1. CO₂ ~64%; CH₄ ~19%; N₂O ~6%; CFCs+others ~11% teaching.
+2. Order CO₂ > CH₄ > CFCs > N₂O.
+3. N₂O share exceeds CO₂.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** CO₂ dominates share.
+
+</details>
+
+**Q26.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. Kigali | 1. ODS + GHG |
+| B. CFCs | 2. HFC phase-down |
+| C. Propane | 3. Not a GHG in teaching list |
+
+Code:
+
+A. A-1, B-2, C-3
+B. A-2, B-1, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** A-2, B-1, C-3.
+
+**Logic:** Kigali/CFC/propane.
+
+</details>
+
+**Q27.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Methane’s shorter lifetime still matters because near-term warming impact is strong.
+
+Reason (R): Short-horizon GWP for methane is much higher than the usual 100-year figure.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R explains why near-term impact matters.
+
+**A/R logic:** Horizon sensitivity.
+
+</details>
+
+**Q28.** Arrange CO₂ dual role:
+
+A. Only harmful always with no photosynthesis role
+B. Only argon substitute
+C. Useful in photosynthesis; harmful via enhanced greenhouse effect
+D. Only ozone ODS
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Useful + harmful.
+
+**Logic:** Dual role.
+
+</details>
+
+**Q29.** With reference to GWP horizon, which of the following statements is/are correct?
+
+1. Usually compared over 100 years.
+2. Horizon choice changes methane’s apparent power.
+3. GWP of CO₂ is defined as 100.
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** CO₂ GWP = 1.
+
+</details>
+
+**Q30.** Which one of the following correctly states laughing gas in this chapter?
+
+A. Nitrous oxide (N₂O)
+B. Argon
+C. Molecular nitrogen only
+D. Helium
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** N₂O.
+
+**Logic:** Laughing gas = N₂O.
 
 </details>
 

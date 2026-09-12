@@ -330,224 +330,274 @@ D. Bodhgaya
 
 ## Practice Zone — UPPCS Format Drill
 
-**40 questions.** ≥60% multi-statement. A/R, Match-List, chronology, NOT-matched included.
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-**Q1.** With reference to Indian sculpture schools, which of the following statements is/are correct?
+**Q1.** With reference to major sculpture schools, which of the following statements is/are correct?
 
-1. Gandhara uses grey schist and shows Greco-Roman influence.
-2. Mathura uses red sandstone and lies in Uttar Pradesh.
-3. Amaravati is a Himalayan grey-schist school.
+1. Gandhara uses grey schist and Greco-Roman modelling in the north-west.
+2. Mathura uses red sandstone and is an Uttar Pradesh school.
+3. Amaravati is a grey-schist freestanding icon school of Punjab.
 
-A. 1 and 2 only
-B. 1 and 3 only
+A. 1 and 3 only
+B. 1 and 2 only
 C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Amaravati = Andhra limestone.
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** Amaravati uses limestone narrative panels in Andhra.
 
 </details>
 
-**Q2.** Match List-I with List-II.
+**Q2.** Consider the following pairs:
 
-**List-I**
-A. Gandhara
-B. Mathura
-C. Amaravati
-D. Hoysala
+| Mudra | Meaning |
+|-------|---------|
+| 1. Dharmachakra | Teaching |
+| 2. Bhumisparsha | Earth-touching |
+| 3. Abhaya | Boon-giving identical to varada |
+
+Which of the pairs given above is/are correctly matched?
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only pairs 1 and 2 are correct.
+
+**Logic:** Abhaya is fearlessness. Varada is the boon mudra.
+
+</details>
+
+**Q3.** Which of the following pairs is NOT correctly matched?
+
+A. Khajuraho — Chandela mithuna sculpture
+B. Konark — Sun temple with 24 wheels and 7 horses
+C. Chola Nataraja — Indus lost-wax dancing girl from Harappa
+D. Hoysala carving — chloritic schist / soapstone teaching
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Chola Nataraja is a South Indian processional bronze, not the Indus Dancing Girl.
+
+**Logic:** Indus Dancing Girl is a tiny Harappan lost-wax figurine.
+
+</details>
+
+**Q4.** Assertion (A): Early Buddhist art is largely aniconic before the Kushan age.
+Reason (R): The human Buddha image becomes common from the Kushan age.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A).
+
+**A/R logic:** Aniconic early art is explained by the later rise of the human Buddha image from Kushan times.
+
+</details>
+
+**Q5.** Arrange the following in sculpture timeline order:
+
+1. Gupta Sarnath Buddha
+2. Mauryan polish
+3. Kushan Gandhara–Mathura Buddha images
+4. Bharhut / early Sanchi relief
+
+Select the correct order.
+
+A. 2-3-4-1
+B. 2-4-3-1
+C. 4-2-3-1
+D. 2-4-1-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Mauryan polish → Shunga relief → Kushan images → Gupta Sarnath.
+
+**Logic:** Aniconic Shunga relief precedes common human Buddha images.
+
+</details>
+
+**Q6.** With reference to Gupta Sarnath Buddha, which of the following statements is/are correct?
+
+1. It often shows the dharmachakra mudra.
+2. Transparent robe and spiritual calm mark the style.
+3. It is identical in heavy volume to Kushan Mathura figures.
+
+A. 1 and 3 only
+B. 1 and 2 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** Mathura Kushan figures are heavier. Gupta Sarnath looks lighter and calmer.
+
+</details>
+
+**Q7.** Match List-I with List-II and select the correct answer using the code given below the Lists.
+
+**List-I (School / work)**
+A. 1 2 4 3
+B. 2 1 3 4
+C. 2 1 4 3
+D. 2 4 1 3
 
 **List-II**
-1. Red sandstone
-2. Grey schist
-3. Soapstone
-4. Limestone
+1. Red sandstone; UP
+2. Grey schist; NW
+3. Mauryan mirror surface (UP belt)
+4. Limestone narrative; Andhra
 
-A. 2 1 4 3
+*Row order is not the answer code.*
+
+A. 1 2 4 3
 B. 2 1 3 4
-C. 1 2 4 3
+C. 2 1 4 3
 D. 2 4 1 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Ans: C.** Gandhara–schist, Mathura–red sandstone, Amaravati–limestone, Chunar–Mauryan polish.
+
+**Logic:** Material decides many school traps.
 
 </details>
 
-**Q3.** Which of the following pairs is/are NOT correctly matched?
+**Q8.** With reference to bronze sculpture, which of the following statements is/are correct?
 
-1. Bharhut — Shunga narrative relief
-2. Bharhut — Mauryan polish pillars
-3. Sanchi toranas — Buddhist narrative sculpture
+1. Indus Dancing Girl is lost-wax bronze.
+2. Chola Nataraja bronzes are processional temple icons.
+3. Dhokra is identical to Chola temple bronze in court atelier origin.
 
-A. 1 and 2 only
-B. 2 only
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** Dhokra is tribal bell-metal craft, not Chola utsava murti.
+
+</details>
+
+**Q9.** Which of the following pairs is/are NOT correctly matched?
+
+1. Lion Capital of Sarnath — National Emblem from 1950
+2. Sarnath — UNESCO World Heritage from 2026
+3. Bharhut — Mauryan polish school identical to Didarganj
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only pair 3 is not correctly matched.
+
+**Logic:** Bharhut is Shunga narrative relief, not Mauryan polish.
+
+</details>
+
+**Q10.** Assertion (A): Mathura school sits in Uttar Pradesh and cuts Buddha and Tirthankara images.
+Reason (R): Gandhara is also an Uttar Pradesh red-sandstone school.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** (A) is true, but (R) is false.
+
+**A/R logic:** Gandhara is north-west grey schist, not UP red sandstone.
+
+</details>
+
+**Q11.** With reference to Nataraja iconography, which of the following statements is/are correct?
+
+1. Nataraja holds damaru and fire.
+2. The right foot is placed on Apasmara.
+3. The figure stands outside any prabhamandala in standard Chola icons.
+
+A. 1 and 3 only
+B. 1 and 2 only
 C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Bharhut is Shunga, not Mauryan.
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** Standard Chola Nataraja stands in a prabhamandala.
 
 </details>
 
-**Q4.** Assertion (A): The Sarnath seated Buddha in dharmachakra mudra is a Gupta classic.
-Reason (R): Gupta images typically show a heavy Kushan body and thick toga folds.
+**Q12.** Consider the following pairs:
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+| Site / school | Tag |
+|---------------|-----|
+| 1. Udayagiri Varaha | Gupta Hindu sculpture |
+| 2. Deogarh Vishnu | Gupta Hindu sculpture |
+| 3. Early Sanchi | Fully iconic human Buddha from the start |
 
-<details>
-<summary>Show answer</summary>
+Which of the pairs given above is/are correctly matched?
 
-**Ans: C.** Gupta = transparent robe and calm, not Kushan bulk.
-
-</details>
-
-**Q5.** Aryaka-pillars on a stupa platform are associated with:
-
-A. Bodhgaya
-B. Sanchi
-C. Amaravati
-D. Sarnath
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** UPPCS 2022 Q80.
-
-</details>
-
-**Q6.** Arrange the following in chronological order.
-
-1. Chola Nataraja bronzes
-2. Harappan Dancing Girl
-3. Gupta Sarnath Buddha
-4. Mauryan Lion Capital
-
-A. 2 4 3 1
-B. 2 4 1 3
-C. 4 2 3 1
-D. 2 3 4 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q7.** Match List-I with List-II.
-
-**List-I (Mudra)**
-A. Dharmachakra
-B. Bhumisparsha
-C. Abhaya
-D. Dhyana
-
-**List-II**
-1. Meditation
-2. First sermon
-3. Earth-witness
-4. Fearlessness
-
-A. 2 3 4 1
-B. 2 3 1 4
-C. 3 2 4 1
-D. 2 4 3 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q8.** With reference to early Buddhist art, which of the following statements is/are correct?
-
-1. Aniconic art uses the wheel, tree and empty throne.
-2. The earliest Sanchi railings already show a standardised Gupta Buddha.
-3. The human Buddha becomes common in the Kushan period.
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Ans: C.** Only pairs 1 and 2 are correct.
+
+**Logic:** Early Sanchi remains largely aniconic before later iconic additions.
 
 </details>
 
-**Q9.** Which of the following is NOT correctly matched?
-
-A. Dancing Girl — bronze, lost-wax
-B. Didarganj Yakshi — Mauryan polish
-C. Nataraja — Chola bronze
-D. Dancing Girl — terracotta mother goddess
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.**
-
-</details>
-
-**Q10.** Consider the following about Nataraja:
-
-1. The upper right hand holds the damaru.
-2. The right foot crushes Apasmara.
-3. It is typically a Hoysala soapstone wall-figure, not a bronze.
-
-How many of the above statements are correct?
-
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 1 and 2. Nataraja = Chola bronze.
-
-</details>
-
-**Q11.** Assertion (A): Mathura produced both Buddha and Tirthankara images.
-Reason (R): Mathura stone is grey Gandhara schist.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.**
-
-</details>
-
-**Q12.** Match List-I with List-II.
+**Q13.** Match List-I with List-II and select the correct answer using the code given below the Lists.
 
 **List-I**
 A. Khajuraho
 B. Konark
 C. Mahabalipuram
-D. Halebidu
+D. Mathura
 
 **List-II**
-1. Pallava open-air relief
-2. Chandela mithuna
-3. Hoysala soapstone
-4. Sun-chariot wheels
+1. Pallava relief
+2. Chandela mithuna (MP)
+3. UP red-sandstone school
+4. Ganga-period Sun chariot (Odisha)
+
+*Row order is not the answer code.*
 
 A. 2 4 1 3
 B. 2 4 3 1
@@ -557,323 +607,114 @@ D. 2 1 4 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Ans: A.** Khajuraho–Chandela, Konark–Odisha Sun chariot, Mahabalipuram–Pallava, Mathura–UP.
+
+**Logic:** Do not swap Khajuraho (MP) and Konark (Odisha).
 
 </details>
 
-**Q13.** Udayagiri (Vidisha) Varaha relief is associated with which period?
+**Q14.** With reference to Uttar Pradesh sculpture homes, which of the following statements is/are correct?
 
-A. Mauryan
-B. Gupta
-C. Chola
-D. Mughal
+1. Mathura school and Sarnath Buddha are UP homes.
+2. Chunar polish stone belongs to the UP belt.
+3. Ahichhatra and Kaushambi are UP terracotta centres.
+4. Gandhara atelier is a Varanasi schist school.
+
+A. 1, 2 and 3 only
+B. 1, 2 and 4 only
+C. 2, 3 and 4 only
+D. 1, 2, 3 and 4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Chandragupta II. Not Odisha’s Jain caves.
+**Ans: A.** Only 1, 2 and 3 are correct.
+
+**Logic:** Gandhara is north-west, not Varanasi.
 
 </details>
 
-**Q14.** With reference to stone, which of the following statements is/are correct?
+**Q15.** Arrange the following Buddhist sculpture ideas in developmental order:
 
-1. Chunar sandstone takes Mauryan polish.
-2. Amaravati panels are typically limestone.
-3. Hoysala temples are typically Chunar sandstone.
+1. Gupta ideal Buddha at Sarnath
+2. Aniconic Maurya–Shunga signs
+3. Kushan human Buddha image
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+Select the correct order.
+
+A. 2-3-1
+B. 3-2-1
+C. 2-1-3
+D. 1-2-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Hoysala = soapstone.
+**Ans: A.** Aniconic signs → Kushan human Buddha → Gupta Sarnath ideal.
+
+**Logic:** Symbol to person to classical ideal is the teaching arc.
 
 </details>
 
-**Q15.** Which of the following pairs is NOT correctly matched?
+**Q16.** With reference to stone materials, which of the following statements is/are correct?
 
-A. Lion Capital — Sarnath
-B. Parkham Yaksha — Mathura region
-C. Elephanta Trimurti — Odisha Konark
-D. Kailasa monolith — Ellora
+1. Mathura work is red sandstone.
+2. Gandhara work is grey schist.
+3. Amaravati work is white limestone narrative.
+4. Hoysala teaching often cites chloritic schist / soapstone.
+
+A. 1, 2 and 3 only
+B. 1, 2 and 4 only
+C. 2, 3 and 4 only
+D. 1, 2, 3 and 4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Elephanta = Mumbai harbour.
+**Ans: D.** All four statements are correct.
+
+**Logic:** Stone map is a high-yield school discriminator.
 
 </details>
 
-**Q16.** Consider the following statements:
+**Q17.** Which one of the following is NOT an Uttar Pradesh sculpture home?
 
-1. Konark has 24 wheels and 7 horses in the usual key fact.
-2. Khajuraho is Dravida in style.
-3. Mithuna panels are a Khajuraho tag.
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Khajuraho = Nagara.
-
-</details>
-
-**Q17.** Assertion (A): Chola temples pair granite architecture with bronze processional images.
-Reason (R): Nataraja is the standard Chola lost-wax fact.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q18.** Gandhara Bodhisattvas often show:
-
-A. Red spotted sandstone only
-B. Hellenistic face, jewellery, sometimes a moustache
-C. Chandela mithuna
-D. Hoysala star-plan walls
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.**
-
-</details>
-
-**Q19.** Match List-I with List-II.
-
-**List-I**
-A. Didarganj Yakshi
+A. Mathura school
 B. Sarnath Lion Capital
-C. Dancing Girl
-D. Gommateshwara
-
-**List-II**
-1. National Emblem stone
-2. Mauryan polish, Patna
-3. Shravanabelagola, Karnataka
-4. Mohenjo-daro bronze
-
-A. 2 1 4 3
-B. 2 1 3 4
-C. 1 2 4 3
-D. 2 4 1 3
+C. Chunar polish stone
+D. Amaravati limestone school
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Ans: D.** Amaravati is an Andhra limestone narrative school.
+
+**Logic:** UP homes are Mathura, Sarnath, Chunar, Ahichhatra–Kaushambi terracotta.
 
 </details>
 
-**Q20.** With reference to Amaravati, which of the following statements is/are correct?
+**Q18.** Assertion (A): Mauryan polish is a mirror finish on Chunar sandstone.
+Reason (R): Gupta finish is the same mirror polish under another name.
 
-1. It is a limestone narrative school of Andhra.
-2. Aryaka-pillars are its UPPCS fact.
-3. It is the same as the Mathura red-sandstone school.
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q21.** Which of the following is/are Gupta sculpture facts?
-
-1. Sarnath dharmachakra Buddha
-2. Udayagiri Varaha
-3. Chola Nataraja
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q22.** Dhokra is best described as:
-
-A. Chola temple Nataraja
-B. Tribal lost-wax bell-metal
-C. Gandhara schist Buddha
-D. Mauryan pillar polish
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.**
-
-</details>
-
-**Q23.** Arrange these schools from north-west to the Krishna–Godavari.
-
-1. Amaravati
-2. Gandhara
-3. Mathura
-
-A. 2 3 1
-B. 3 2 1
-C. 2 1 3
-D. 1 3 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q24.** With reference to the Lion Capital, which of the following statements is/are correct?
-
-1. It is from Sarnath.
-2. It is Mauryan polished sandstone.
-3. It is a Chola bronze.
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q25.** Which of the following pairs is NOT correctly matched?
-
-A. Abhaya — fearlessness
-B. Varada — boon
-C. Bhumisparsha — first sermon
-D. Dhyana — meditation
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** First sermon = dharmachakra. Bhumisparsha = enlightenment.
-
-</details>
-
-**Q26.** Assertion (A): Early Buddhist stupa art at Sanchi is largely aniconic.
-Reason (R): The Kushan age standardises the human Buddha image.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Both true. R explains the later phase, not why early Sanchi is aniconic.
+**Ans: C.** (A) is true, but (R) is false.
+
+**A/R logic:** Gupta finish is smooth idealism, not Mauryan mirror polish.
 
 </details>
 
-**Q27.** Pala bronzes are mainly associated with:
+**Q19.** With reference to freestanding versus narrative sculpture, which of the following statements is/are correct?
 
-A. Chola Nataraja processions in Tamil Nadu
-B. Eastern Indian Buddhist images
-C. Hoysala soapstone walls
-D. Mughal pietra dura
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.**
-
-</details>
-
-**Q28.** Consider the following:
-
-1. Parkham Yaksha belongs to the Mathura region.
-2. Didarganj Yakshi shows Mauryan polish.
-3. Both are Chola bronzes.
-
-How many of the above statements are correct?
-
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 1 and 2.
-
-</details>
-
-**Q29.** Match List-I with List-II.
-
-**List-I**
-A. Ellora Kailasa
-B. Elephanta
-C. Deogarh
-D. Bhitargaon
-
-**List-II**
-1. Gupta Vishnu panels
-2. Rashtrakuta monolith
-3. Gupta brick temple (UP)
-4. Maheshamurti Shiva
-
-A. 2 4 1 3
-B. 2 4 3 1
-C. 4 2 1 3
-D. 2 1 4 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q30.** Gommateshwara (Bahubali) at Shravanabelagola is:
-
-A. A Chola Nataraja
-B. A colossal Jain stone image in Karnataka
-C. A Gandhara schist Buddha
-D. A Mathura red-sandstone Yakshi
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Kayotsarga. Mahamastakabhisheka every 12 years is the ritual tag.
-
-</details>
-
-**Q31.** With reference to UP sculpture, which of the following statements is/are correct?
-
-1. Mathura is the red-sandstone school.
-2. Sarnath holds both the Lion Capital and the Gupta Buddha.
-3. Amaravati is in eastern Uttar Pradesh.
+1. Mathura is known for freestanding icons.
+2. Amaravati is known for long narrative limestone panels around the stupa.
+3. Both schools are identical grey-schist ateliers of the north-west.
 
 A. 1 and 2 only
 B. 1 and 3 only
@@ -883,140 +724,71 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Gandhara is the NW schist school. Mathura and Amaravati differ in form and region.
 
 </details>
 
-**Q32.** Which of the following is/are rock-cut sculpture sites?
+**Q20.** Consider the following pairs:
 
-1. Mahabalipuram reliefs
-2. Ellora Kailasa
-3. Chola Nataraja bronzes
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q33.** Assertion (A): Hoysala sculpture is famous for minute jewellery-like carving.
-Reason (R): The usual stone is soft chloritic schist (soapstone).
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q34.** The National Emblem of India is taken from:
-
-A. Mathura Parkham Yaksha
-B. Sarnath Lion Capital
-C. Konark wheel
-D. Chola Nataraja
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.**
-
-</details>
-
-**Q35.** Consider the following pairs:
-
-1. Ghantasala — Amaravati region
-2. Nagarjunakonda — Andhra Buddhist site
-3. Aryaka-pillars — Bodh Gaya Mahabodhi as the 2022 fact
+| Item | Tag |
+|------|-----|
+| 1. Didarganj Yakshi | Mauryan polish figure |
+| 2. Lion Capital abacus animals | Horse, bull, elephant, lion |
+| 3. Konark | Chandela mithuna complex of Madhya Pradesh |
 
 Which of the pairs given above is/are correctly matched?
 
 A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** 2022 fact = Amaravati, not Bodh Gaya.
+**Ans: A.** Only pairs 1 and 2 are correct.
+
+**Logic:** Konark is Odisha Sun chariot. Khajuraho is Chandela MP.
 
 </details>
 
-**Q36.** Transparent clinging drapery is a hallmark of:
+**Q21.** Match List-I with List-II and select the correct answer using the code given below the Lists.
 
-A. Early aniconic Sanchi
-B. Gupta Sarnath Buddha
-C. IVC terracotta
-D. Dhokra brass
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.**
-
-</details>
-
-**Q37.** With reference to Jain sculpture, which of the following statements is/are correct?
-
-1. Mathura workshops cut Tirthankaras in red sandstone.
-2. Gommateshwara is a Karnataka colossus.
-3. Jain images never appear in the same city as Buddhist images.
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Mathura does both.
-
-</details>
-
-**Q38.** Match List-I with List-II.
-
-**List-I**
-A. Apasmara
-B. Prabhamandala
-C. Utsava murti
-D. Sanghati
+**List-I (Mudra)**
+A. Dhyana
+B. Varada
+C. Abhaya
+D. Bhumisparsha
 
 **List-II**
-1. Buddha’s robe
-2. Dwarf of ignorance
-3. Ring of fire
-4. Processional bronze
+1. Fearlessness
+2. Meditation
+3. Earth-touching
+4. Boon
 
-A. 2 3 4 1
-B. 2 3 1 4
-C. 3 2 4 1
-D. 2 4 3 1
+*Row order is not the answer code.*
+
+A. 2 4 1 3
+B. 2 4 3 1
+C. 4 2 1 3
+D. 2 1 4 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Ans: A.** Dhyana–meditation, Varada–boon, Abhaya–fearlessness, Bhumisparsha–earth-touching.
+
+**Logic:** Do not swap abhaya and varada.
 
 </details>
 
-**Q39.** Which of the following statements is/are correct?
+**Q22.** With reference to sites outside Uttar Pradesh, which of the following statements is/are correct?
 
-1. Pallava rathas at Mahabalipuram are monolithic.
-2. Chola Brihadeeswara is a granite structural temple.
-3. Both are soapstone Hoysala shrines.
+1. Khajuraho, Sanchi and Konark are outside UP.
+2. Gandhara and Amaravati are not UP schools.
+3. Mathura red-sandstone school is outside UP.
 
 A. 1 and 2 only
 B. 1 and 3 only
@@ -1026,26 +798,160 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Mathura is the UP indigenous school.
 
 </details>
 
-**Q40.** Assertion (A): Gandhara and Mathura both made Buddha images in the Kushan period.
-Reason (R): Both schools used the same red spotted sandstone of Mathura.
+**Q23.** Which of the following pairs is NOT correctly matched?
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+A. Pala bronzes — Buddhist bronze tradition
+B. Chola bronze — processional utsava murti
+C. Dhokra — tribal bell-metal
+D. Dancing Girl — Chola temple Nataraja from Thanjavur
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Same age, different stone and region.
+**Ans: D.** Dancing Girl is Indus lost-wax, not Chola Nataraja.
+
+**Logic:** Scale and period separate the two bronzes.
 
 </details>
 
----
+**Q24.** With reference to Sarnath Lion Capital, which of the following statements is/are correct?
+
+1. Four lions stand back to back.
+2. The abacus carries horse, bull, elephant and lion with dharmachakra.
+3. It became the National Emblem in 1950.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three statements are correct.
+
+**Logic:** Sarnath WHS 2026 strengthens the site fact but does not invent a new school.
+
+</details>
+
+**Q25.** Assertion (A): Freestanding Mathura icons differ from Amaravati’s narrative limestone panels.
+Reason (R): Amaravati panels are mainly long narrative reliefs around the stupa.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A).
+
+**A/R logic:** (R) states the Amaravati form that creates the contrast with Mathura icons.
+
+</details>
+
+**Q26.** With reference to temple sculpture, which of the following statements is/are correct?
+
+1. Mahabalipuram is a Pallava relief centre.
+2. Hoysala carving is often taught through soapstone / chloritic schist.
+3. Khajuraho is the Ganga-period Sun chariot temple of Odisha.
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Konark is the Odisha Sun chariot. Khajuraho is Chandela MP.
+
+</details>
+
+**Q27.** Consider the following statements:
+
+1. Human Buddha image becomes common from the Kushan age.
+2. Early Buddhist symbols include wheel, tree and empty throne.
+3. Aniconic art means only bronze Nataraja was allowed.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Aniconic means symbolic representation of the Buddha, not Nataraja rules.
+
+</details>
+
+**Q28.** Which of the following is/are correctly matched?
+
+1. Mathura Kushan — heavier volume figures
+2. Gupta Sarnath — lighter, calmer idealism
+3. Mauryan polish — mirror Chunar surface
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are correct.
+
+**Logic:** Volume and finish contrasts are standard school traps.
+
+</details>
+
+**Q29.** With reference to Ahichhatra and Kaushambi, which of the following statements is/are correct?
+
+1. Both are UP terracotta / craft centres.
+2. They are Gandhara schist ateliers.
+3. They belong to the UP sculpture–craft map alongside Mathura and Sarnath.
+
+A. 1 and 3 only
+B. 1 and 2 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 3 are correct.
+
+**Logic:** They are figurine–craft centres, not Gandhara schist ateliers.
+
+</details>
+
+**Q30.** Which of the following pairs is NOT correctly matched?
+
+A. Varada — boon
+B. Dhyana — meditation
+C. Dharmachakra — teaching
+D. Abhaya — earth-touching
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Abhaya is fearlessness. Bhumisparsha is earth-touching.
+
+**Logic:** Mudras are frequent swap traps.
+
+</details>
 
 ## Common Traps — Don't Fall For These
 

@@ -799,1033 +799,782 @@ UPPCS Prelims **2025, 2024, 2022, 2021, 2020, 2019, 2018** — no further GS-I q
 
 ## Practice Zone — UPPCS Format Drill
 
-**Q1.** With reference to the invaders in Ancient India, which one of the following is the correct chronological order?
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-A. Greeks — Sakas — Kushans
-B. Greeks — Kushans — Sakas
-C. Sakas — Greeks — Kushans
-D. Sakas — Kushans — Greeks
+
+**Q1.** With reference to foreign invaders in north-west India, which of the following is/are correct?
+
+1. Correct order is Greeks → Sakas → Kushans.
+2. Kushans come before Sakas in the standard sequence.
+3. Parthians (Pahlavas) form a brief phase between Sakas and Kushan peak.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: C.** Statements 1 and 3 are correct.
+
+**Logic:** Stmt 2 false: Greeks → Sakas → (Parthians) → Kushans.
 
 </details>
 
 ---
 
-**Q2.** *Milind Panho* is a dialogue between King Milind and which Buddhist saint?
-
-A. Nagarjun B. Nagbhatt C. Nagasena D. Kumaril Bhatt
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q3.** Which of the following statements is/are correct?
-
-1. The Battle of the Hydaspes was fought on the Jhelum.
-2. Alexander’s army mutinied on the Hyphasis (Beas).
-3. Alexander defeated Dhana Nanda on the Ganga.
-
-A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q4.** Match List-I with List-II:
-
-| List-I | List-II |
-|--------|---------|
-| A. Ambhi | 1. Paurava king at Hydaspes |
-| B. Porus | 2. Taxila ally of Alexander |
-| C. Coenus | 3. Spokesman of the Beas mutiny |
-| D. Nearchus | 4. Admiral of the Indus fleet |
-
-A. 2 1 3 4 B. 1 2 3 4 C. 2 1 4 3 D. 2 3 1 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q5.** Given below are two statements:
-
-**Assertion (A):** Alexander restored Porus after Hydaspes.
-
-**Reason (R):** Porus had been Alexander’s ally from the moment the Macedonians crossed the Indus.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — ally from the start = Ambhi.
-
-</details>
-
----
-
-**Q6.** With reference to Achaemenid India, consider the following statements:
-
-1. Darius I created satrapies in Gandhara and the Indus country.
-2. Skylax is associated with an Indus voyage in Herodotus.
-3. Kharoshthi in the NW is linked to Aramaic office script.
-
-How many of the above statements are correct?
-A. Only one B. Only two C. All three D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q7.** Which of the following persons did **not** accompany Alexander into India?
-
-A. Aristobulus B. Nearchus C. Aristotle D. Onesicritus
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q8.** Which of the following statements is/are correct?
-
-1. Megasthenes marched with Alexander to the Beas.
-2. Megasthenes was sent by Seleucus to Chandragupta’s court.
-
-A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q9.** Match List-I with List-II (river — Greek name):
-
-| List-I | List-II |
-|--------|---------|
-| A. Jhelum | 1. Hyphasis |
-| B. Beas | 2. Hydaspes |
-| C. Chenab | 3. Acesines |
-| D. Indus | 4. Entry river of the Indian campaign |
-
-A. 2 1 3 4 B. 2 3 1 4 C. 1 2 3 4 D. 2 1 4 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q10.** Arrange the following in chronological order:
-
-1. Treaty of Seleucus and Chandragupta
-2. Battle of Hydaspes
-3. Death of Alexander at Babylon
-4. Darius I’s Indian satrapies
-
-A. 4–2–3–1 B. 4–2–1–3 C. 2–4–3–1 D. 4–3–2–1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q11.** With reference to the Seleucus–Chandragupta settlement, consider the following statements:
-
-1. Seleucus ceded Arachosia, Gedrosia and the Paropamisadae belt.
-2. Chandragupta is remembered as giving 500 elephants.
-3. Seleucus thereafter ruled Magadha from Pataliputra.
-
-How many of the above statements are correct?
-A. Only one B. Only two C. All three D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 2.
-
-</details>
-
----
-
-**Q12.** Given below are two statements:
-
-**Assertion (A):** Seleucus used Indian elephants in the west after the Indian treaty.
-
-**Reason (R):** The battle of Ipsus (301 BCE) is the usual textbook sequel for those elephants.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q13.** Which one of the following pairs is **not** correctly matched?
-
-A. Menander — Sagala
-B. Demetrius I — early Indo-Greek push into India
-C. Antialcidas — Heliodorus / Besnagar
-D. Kanishka — Indo-Greek king of Taxila in 326 BCE
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q14.** Which of the following statements is/are correct?
-
-1. Menander is the Milinda of *Milinda Panha*.
-2. Heliodorus describes himself as a Bhagavata of Vasudeva.
-3. The Besnagar pillar is the same as the 2018 Ayodhya inscription of Pushyamitra’s ashwamedha.
-
-A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 2018 Q91 answer is **Ayodhya**, not Besnagar.
-
-</details>
-
----
-
-**Q15.** Consider the following statements about Alexander’s return:
-
-1. Nearchus commanded the ocean leg from the Indus.
-2. The Gedrosian / Makran march cost the land army heavily.
-3. Alexander died at Taxila in 326 BCE.
-
-How many of the above statements are correct?
-A. Only one B. Only two C. All three D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 2. Death = Babylon, 323.
-
-</details>
-
----
-
-**Q16.** Match List-I with List-II:
-
-| List-I | List-II |
-|--------|---------|
-| A. Bucephala | 1. Beas mutiny |
-| B. Nicaea | 2. City named after Alexander’s horse |
-| C. Aornos | 3. Victory city after Hydaspes |
-| D. Hyphasis | 4. Rock siege before the Indus plains |
-
-A. 2 3 4 1 B. 2 4 3 1 C. 3 2 4 1 D. 2 3 1 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q17.** Which of the following statements regarding Indo-Greek coins is **not** correct?
-
-A. They are typically die-struck with a royal portrait.
-B. Bilingual Greek–Kharoshthi legends are a NW fact.
-C. Menander’s types often show Athena.
-D. They are punch-marked Magadhan karshapanas with no portrait.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q18.** With reference to the 2023 invader question, consider the following statements:
-
-1. Greeks in that option-set come before Sakas.
-2. Kushans come last of the three.
-3. Persians are named in the four options of 2023 Q23.
-
-How many of the above statements are correct?
-A. Only one B. Only two C. All three D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 2. The paper’s four options are only Greeks/Sakas/Kushans.
-
-</details>
-
----
-
-**Q19.** Which of the following statements is/are correct?
-
-1. Ambhi’s capital is Taxila.
-2. Porus’s country lay on the Hydaspes.
-3. Magadha was Alexander’s winter capital in 326 BCE.
-
-A. 1 and 2 only B. 1 and 3 only C. 2 and 3 only D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q20.** Given below are two statements:
-
-**Assertion (A):** Callisthenes did not write a finished Indian campaign history.
-
-**Reason (R):** He was executed over the proskynesis quarrel before the Indian plains war.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q21.** Arrange the foreign waves from earliest to latest:
-
-1. Kushans 2. Indo-Greeks 3. Achaemenids 4. Shakas
-
-A. 3–2–4–1 B. 3–4–2–1 C. 2–3–4–1 D. 3–2–1–4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q22.** Which one of the following pairs is **not** correctly matched?
-
-A. Gondophares — Parthian / Pahlava
-B. Maues — early Shaka
-C. Diodotus — Greco-Bactrian break from Seleucids
-D. Porus — Seleucid ambassador who wrote *Indica*
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q23.** Which of the following statements is/are correct?
-
-1. Craterus was sent back by the land route with veterans.
-2. Ptolemy’s memoir is a source behind Arrian.
-3. Chanakya commanded the Macedonian left wing at Hydaspes.
-
-A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q24.** Match List-I with List-II:
-
-| List-I | List-II |
-|--------|---------|
-| A. Darius I | 1. 500 elephants |
-| B. Alexander | 2. Gandhara–Hindush satrapies |
-| C. Seleucus | 3. Hydaspes, 326 BCE |
-| D. Menander | 4. Milinda / Sagala |
-
-A. 2 3 1 4 B. 2 3 4 1 C. 3 2 1 4 D. 2 1 3 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q25.** With reference to Hydaspes, consider the following statements:
-
-1. It was fought in 326 BCE.
-2. Porus used war elephants.
-3. After defeat Porus was executed and Taxila was razed.
-
-How many of the above statements are correct?
-A. Only one B. Only two C. All three D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 2. Porus was restored.
-
-</details>
-
----
-
-**Q26.** Which of the following statements regarding the NW gateway is **not** correct?
-
-A. Khyber / Bolan are the usual pass-facts.
-B. Every ancient invader in 6.4 entered through Bengal.
-C. Gandhara is the repeated frontier zone.
-D. Taxila is the entry-city of the Alexander story.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q27.** Which of the following statements is/are correct?
-
-1. Onesicritus wrote of Indian gymnosophists.
-2. Hephaestion was Alexander’s closest companion on the march.
-
-A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q28.** Given below are two statements:
-
-**Assertion (A):** Indo-Greek rule in India is later than Alexander’s own lifetime.
-
-**Reason (R):** Demetrius and Menander belong to the 2nd century BCE Bactrian expansion.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q29.** Consider the following pairs:
-
-| Person | Did he enter India with Alexander? |
-|--------|-------------------------------------|
-| 1. Aristobulus | Yes |
-| 2. Aristotle | No |
-| 3. Megasthenes | Yes |
-
-How many of the above pairs are correctly matched?
-A. Only one B. Only two C. All three D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 2. Megasthenes = later.
-
-</details>
-
----
-
-**Q30.** Which one of the following pairs is **not** correctly matched?
-
-A. Malloi campaign — Alexander wounded
-B. Gedrosia — desert return losses
-C. Ipsus — Seleucus uses Indian elephants
-D. Gaugamela — Alexander vs Porus on the Beas
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Gaugamela = vs Darius III, 331 BCE.
-
-</details>
-
----
-
-**Q31.** Which of the following statements is/are correct?
-
-1. Strabo and Appian are among the Greek memories of the Seleucus treaty.
-2. Seleucus sent Megasthenes to Pataliputra after the ~303 treaty. Megasthenes did not march with Alexander.
-
-A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q32.** With reference to Menander, consider the following statements:
-
-1. Indian/Pali name is Milinda.
-2. Capital traditionally cited is Sagala.
-3. He is identical with Nagarjuna.
-
-How many of the above statements are correct?
-A. Only one B. Only two C. All three D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 2.
-
-</details>
-
----
-
-**Q33.** Arrange Alexander’s Indian moves:
-
-1. Beas mutiny
-2. Taxila / Ambhi
-3. Hydaspes
-4. Aornos
-
-A. 4–2–3–1 B. 2–4–3–1 C. 4–3–2–1 D. 4–2–1–3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q34.** Which of the following statements regarding Persians and Greeks is **not** correct?
-
-A. Xerxes’ army included Indian troops in Greek memory.
-B. Alexander smashed the Achaemenid state before entering India.
-C. The first NW satrapies were planted by Kanishka in 326 BCE.
-D. Satrap as a title is a Persian administrative legacy.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q35.** Match List-I with List-II:
-
-| List-I | List-II |
-|--------|---------|
-| A. Shakas | 1. After Indo-Greeks in the 2023 order |
-| B. Kushans | 2. Last of the 2023 trio |
-| C. Parthians | 3. Gondophares |
-| D. Indo-Greeks | 4. Menander |
-
-A. 1 2 3 4 B. 2 1 3 4 C. 1 2 4 3 D. 1 3 2 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q36.** Which of the following statements is/are correct?
-
-1. Alexander never campaigned in the Awadh–Magadha belt.
-2. Heliodorus’s pillar stands at Besnagar (Vidisha), not in UP.
-
-A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q37.** Which of the following statements is/are correct?
-
-1. Herodotus treats Hindush as a tribute-paying satrapy of Darius.
-2. Skylax is linked to an Indus-to-sea voyage.
-3. Cyrus, not Darius, is the king named for the 20th satrapy in standard notes.
-
-A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — satrapy fact = **Darius I**.
-
-</details>
-
----
-
-**Q38.** Match List-I with List-II:
-
-| List-I | List-II |
-|--------|---------|
-| A. Kalanos | 1. Refused to follow Alexander |
-| B. Dandamis | 2. Gymnosophist who joined the return; later self-immolation |
-| C. Phegeus | 3. Warns of the Nanda army |
-| D. Abisares | 4. Kashmir chief, tribute without battle |
-
-A. 2 1 3 4 B. 1 2 3 4 C. 2 1 4 3 D. 2 3 1 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q39.** With reference to Alexander’s Beas halt, consider the following statements:
-
-1. Twelve altars are a textbook figure for the Hyphasis.
-2. Sangala of the Kathaioi is the same city as Menander’s Sagala.
-3. Coenus voiced the army’s refusal to march on Magadha.
-
-How many of the above statements are correct?
-A. Only one B. Only two C. All three D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 3. Sangala ≠ Sagala.
-
-</details>
-
----
-
-**Q40.** Which one of the following pairs is **not** correctly matched?
-
-A. Agathocles — Brahmi / Balarama–Vasudeva coin types
-B. Agathocleia — regent with Strato I
-C. Hermaeus — last Kabul-belt Indo-Greek names
-D. Vima Kadphises — Menander’s naval admiral on the Indus
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Vima = Kushan gold; admiral = Nearchus.
-
-</details>
-
----
-
-**Q41.** Given below are two statements:
-
-**Assertion (A):** Greek writers’ Sandrokottos is identified with Chandragupta Maurya.
-
-**Reason (R):** That synchronism with Seleucus/Alexander is the usual peg for Mauryan dates.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q42.** Which of the following statements is/are correct?
-
-1. Shaka era keys is commonly 78 CE and tied to Kanishka.
-2. Vikrama Samvat is 57 BCE in the traditional count.
-3. Maues/Moga is an early Shaka name at Taxila.
-
-A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q43.** Consider the following statements:
-
-1. *Yuga Purana* memory of Yavanas toward Pataliputra is hung on the Indo-Greek wave.
-2. Heliodorus’s Besnagar pillar is dated around 113 BCE.
-3. Indo-Greeks are the first Indian kings to issue punch-marked karshapanas without portraits.
-
-How many of the above statements are correct?
-A. Only one B. Only two C. All three D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 2. They introduce **portrait die-struck** coins.
-
-</details>
-
----
-
-**Q44.** Which of the following statements regarding satraps after Alexander is **not** correct?
-
-A. Philip in the Taxila command was later murdered.
-B. Peithon is remembered on the lower Indus.
-C. Porus kept (and enlarged) his country under Macedonian suzerainty.
-D. Seleucus was left as satrap of Magadha in 326 BCE.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q45.** Match List-I with List-II:
-
-| List-I | List-II |
-|--------|---------|
-| A. Gondophares | 1. Kshaharata Shaka |
-| B. Nahapana | 2. Parthian / Pahlava |
-| C. Rudradaman | 3. Kardamaka; Junagadh |
-| D. Kujula Kadphises | 4. Early Kushan |
-
-A. 2 1 3 4 B. 1 2 3 4 C. 2 1 4 3 D. 2 3 1 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q46.** Which of the following statements is/are correct?
-
-1. Deimachus is named as a Greek envoy to Bindusara.
-2. Porus’s famous reply after Hydaspes is remembered as a demand to be treated as a king.
-
-A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q47.** With reference to the Shakas, consider the following statements:
-
-1. Maues / Moga is the earliest Indo-Scythian king named in India.
-2. Nahapana belonged to the Kardamaka line of western kshatrapas.
-3. Rudradaman’s Junagadh inscription is in literary Sanskrit prose.
-
-How many of the above statements are correct?
-A. Only one B. Only two C. All three D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 3. Nahapana is **Kshaharata**, not Kardamaka.
-
-</details>
-
----
-
-**Q48.** Which one of the following pairs is **not** correctly matched?
-
-A. Gondophares — Parthian / Pahlava ruler
-B. Takht-i-Bahi — Parthian-period Buddhist site in the NW
-C. Kujula Kadphises — founder of the Kushan line in India
-D. Rudradaman — first Indo-Greek king at Taxila
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Rudradaman is a **Shaka** mahakshatrapa. First at Taxila among invaders after Greeks = **Maues**.
-
-</details>
-
----
-
-**Q49.** With reference to the Kushanas, consider the following statements:
-
-1. Vima Kadphises is associated with widespread gold coinage.
-2. Purushapura (Peshawar) was a main Kushan capital.
-3. Kanishka convened the Fourth Buddhist Council in Kashmir tradition.
-
-How many of the above statements are correct?
-A. Only one B. Only two C. All three D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q50.** Given below are two statements:
-
-**Assertion (A):** The Shaka era beginning 78 CE is usually tied to Kanishka keys.
-
-**Reason (R):** Vikrama Samvat 57 BCE is the same era as the Shaka era of 78 CE.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — 57 BCE Vikrama ≠ 78 CE Shaka.
-
-</details>
-
----
-
-**Q51.** The women of which Indian republic or kingdom had taken up arms against Alexander after many soldiers were killed?
-
-A. Abhisara B. Glausai C. Katha D. Massaga 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Assakenoi capital Massaga; women fighters after male losses.
-
-**Ans: D.** **Massaga** of the Assakenoi.
-
-</details>
-
----
-
-**Q52.** Who among the following had **not** come to India with Alexander?
-
-A. Nearchus B. Onesicritus C. Deimachus D. Aristobulus 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Deimachus = later envoy to Bindusara, not a companion of 326.
-
-**Ans: C.** **Deimachus** belongs to Bindusara’s court horizon.
-
-</details>
-
----
-
-**Q53.** Alexander’s success in India is correctly linked with which of the following?
-
-1. There was no central power in India at that time 
-2. He had a superior army 
-3. He was helped by traitorous Indian rulers 
-4. He was a good administrator 
-
-A. 1 and 2 only B. 1, 2 and 3 C. 2, 3 and 4 D. All the above 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Standard three causes; administrator is not a victory cause in this stem.
-
-**Ans: B.** 1, 2 and 3. Ambhi-type allies matter; “good administrator” does not.
-
-</details>
-
----
-
-**Q54.** Which of the following statements about Indo-Greek kings is/are correct?
-
-1. Demetrius I led the first major Bactrian-Greek push into India after Alexander.
-2. Menander’s capital is traditionally Sagala (Sialkot).
-3. Antialcidas is remembered for sending Heliodorus to Vidisha.
-
-A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Stem tests the three headline Indo-Greek name-facts; none is a Shaka or Kushan name.
-
-**Ans: D.** All three. Demetrius = early push; Menander = Milinda / Sagala; Antialcidas → Heliodorus / Besnagar.
-
-</details>
-
----
-
-**Q55.** With reference to Kushan royal dress and art, consider the following statements:
-
-1. The Mat statue near Mathura shows Kanishka in a long coat, trousers, and heavy boots.
-2. Gandhara sculpture typically uses grey or green schist with Greco-Roman modelling.
-3. The classic Chola Nataraja bronze belongs to the same Kushan Mathura atelier as the Mat statue.
-
-How many of the above statements are correct?
-A. Only one B. Only two C. All three D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Statements 1–2 are standard Kushan / school facts; statement 3 confuses Chola Tamil bronze with Mathura Kushan sculpture.
-
-**Ans: B.** 1 and 2. Classic **Nataraja** is later **Chola** lost-wax work, not Kushan Mathura.
-
-</details>
-
----
-
-**Q56.** Which one of the following pairs is **not** correctly matched?
-
-A. Maues / Moga — first named Shaka king at Taxila–Gandhara
-B. Nahapana — Kshaharata; defeated by Gautamiputra Satakarni
-C. Rudradaman I — Kardamaka; Junagadh Sanskrit inscription
-D. Gondophares — Kushan founder who issued the first wide gold coinage
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Gondophares is Parthian; gold headline and founder facts belong to Vima / Kujula.
-
-**Ans: D.** **Gondophares** is **Parthian / Pahlava**. Kushan founder = **Kujula**; wide gold = **Vima Kadphises**.
-
-</details>
-
----
-
-**Q57.** Match List-I with List-II:
-
-| List-I | List-II |
-|--------|---------|
-| A. Kujula Kadphises | 1. Greatest Kushan; Shaka era tradition |
-| B. Vima Kadphises | 2. Founder / unifier; mainly copper |
-| C. Kanishka | 3. Wide gold dinaras; Shaonanoshao |
-| D. Huvishka | 4. Successor after Kanishka in the imperial line |
+**Q2.** Match List-I with List-II and select the correct answer from the code given below the lists:
+
+| List-I (Item) | List-II (Association) |
+|---|---|
+| 1. Hydaspes | A. Beas — mutiny / turn-back |
+| 2. Hyphasis | B. Jhelum — battle vs Porus |
+| 3. Ambhi | C. Taxila ally of Alexander |
+| 4. Porus | D. Paurava opponent, then restored |
 
 *Row order is not the answer code.*
 
-A. 2 3 1 4 B. 2 1 3 4 C. 3 2 1 4 D. 2 3 4 1
+A. 1-A, 2-B, 3-C, 4-D
+
+B. 1-B, 2-A, 3-C, 4-D
+
+C. 1-B, 2-A, 3-D, 4-C
+
+D. 1-B, 2-C, 3-A, 4-D
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Tests the Kushan succession spine, not Indo-Greek names.
+**Ans: B.** Hydaspes–Jhelum battle; Hyphasis–Beas turn-back; Ambhi ally; Porus foe-then-satrap.
 
-**Ans: A.** Kujula = founder/copper; Vima = gold; Kanishka = peak / era; Huvishka = after Kanishka.
+**Logic:** Never merge battle river with mutiny river.
 
 </details>
 
 ---
 
-**Q58.** North Indian images of Surya often show tunic, trousers, and boots. This dress fact is correctly linked with which foreign cultural wave?
+**Q3.** Arrange the following in chronological order (earliest first):
 
-A. Only Alexander’s Macedonian officers at Hydaspes
-B. Shaka–Kushan Central Asian / northern (*udichya-vesa*) influence
-C. Only Chola temple bronze ateliers of Tamil Nadu
-D. Only Mauryan polished sandstone pillars of Ashoka
+1. Seleucus–Chandragupta settlement (~305–303 BCE)
+2. Alexander’s Indian campaign (~327–325 BCE)
+3. Battle of Ipsus (301 BCE)
+4. Darius I’s Hindush satrapy (~518 BCE)
+
+Select the correct answer from the code given below:
+
+A. 4, 1, 2, 3
+
+B. 4, 2, 1, 3
+
+C. 2, 4, 1, 3
+
+D. 4, 2, 3, 1
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Booted Surya is a Shaka–Kushan northern-dress iconography fact, not Macedonian battle kit or Chola bronze.
+**Ans: B.** Darius → Alexander → Seleucus treaty → Ipsus.
 
-**Ans: B.** Boot-clad north Indian **Surya** reflects **Shaka–Kushan** northern dress influence.
+**Logic:** Persian door precedes Macedon; elephants from treaty matter at Ipsus.
 
 </details>
 
 ---
+
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+**Assertion (A):** Alexander’s army mutinied at the Hyphasis (Beas) and turned back.
+
+**Reason (R):** Hydaspes is the river of the Porus battle; Beas is the turn-back.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true; R correctly distinguishes the two river events that explain A.
+
+**A/R logic:** Hydaspes ≠ Hyphasis spelling trap.
+
+</details>
+
+---
+
+**Q5.** With reference to Greeks around Alexander, which of the following is/are correct?
+
+1. Aristotle tutored Alexander but never came to India.
+2. Kalanos went with Alexander; Dandamis refused.
+3. Deimachus came with Alexander as his admiral.
+
+Select the correct answer from the code given below:
+
+A. 2 and 3 only
+
+B. 1 and 2 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: Deimachus is later Seleucid envoy to Bindusara; admiral = Nearchus.
+
+</details>
+
+---
+
+**Q6.** Which one of the following pairs is NOT correctly matched?
+
+A. Megasthenes — Seleucid envoy after Chandragupta treaty
+
+B. Nearchus — Alexander’s admiral
+
+C. Sandrokottos — Chandragupta Maurya
+
+D. Agrammes — Menander of Sagala
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Agrammes / Xandrames is Dhana Nanda, not Menander.
+
+**Logic:** Greek name pegs: Sandrokottos = Chandragupta; Agrammes = last Nanda.
+
+</details>
+
+---
+
+**Q7.** With reference to Indo-Greek power, which of the following is/are correct?
+
+1. Demetrius entered India after Diodotus freed Bactria.
+2. Menander (Milinda) ruled from Sagala (Sialkot) and dialogued with Nagasena.
+3. Sagala and Sangala are the same Kathaioi town stormed by Alexander.
+
+Select the correct answer from the code given below:
+
+A. 2 and 3 only
+
+B. 1 and 2 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: Sagala = Menander’s Sialkot; Sangala = town Alexander stormed.
+
+</details>
+
+---
+
+**Q8.** Match List-I with List-II and select the correct answer from the code given below the lists:
+
+| List-I (King) | List-II (Horizon) |
+|---|---|
+| 1. Maues / Moga | A. Parthian at Takht-i-Bahi |
+| 2. Gondophares | B. Shaka first strong at Taxila |
+| 3. Nahapana | C. Kushan imperial climax; era 78 CE |
+| 4. Kanishka | D. Kshaharata; checked by Gautamiputra |
+
+*Row order is not the answer code.*
+
+A. 1-A, 2-B, 3-D, 4-C
+
+B. 1-B, 2-A, 3-D, 4-C
+
+C. 1-B, 2-D, 3-A, 4-C
+
+D. 1-B, 2-A, 3-C, 4-D
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Maues–Shaka; Gondophares–Parthian; Nahapana–Kshaharata; Kanishka–Kushan peak.
+
+**Logic:** Three horizons must not be collapsed into one foreign wave.
+
+</details>
+
+---
+
+**Q9.** Consider the following statements about Shaka Western Kshatrapas:
+
+1. Rudradaman of the Kardamaka line left the Junagadh Sanskrit inscription.
+2. Sudarshana lake history runs Pushyagupta → Tushaspha → Rudradaman repair.
+3. Hathigumpha is Rudradaman’s Shaka rock edict in Gujarat.
+
+Select the correct answer from the code given below:
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: Hathigumpha = Kharavela’s Kalinga cave; Junagadh = Rudradaman.
+
+</details>
+
+---
+
+**Q10.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+**Assertion (A):** The Shaka era of 78 CE is linked with Kanishka.
+
+**Reason (R):** Vikrama era of 57 BCE is the same chronological count as the Shaka era.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true; R false — Vikrama 57 BCE ≠ Shaka 78 CE.
+
+**A/R logic:** Classic era confused pair.
+
+</details>
+
+---
+
+**Q11.** With reference to Kushan polity and art, which of the following is/are correct?
+
+1. Capitals include Purushapura (Peshawar) and Mathura.
+2. Art schools are Gandhara (schist, Greco-Roman) and Mathura (red sandstone).
+3. Kushan royal dress is identical with Mauryan dhoti-style royal memory.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: coat + trousers + boots (Mat statue), not Mauryan dhoti look.
+
+</details>
+
+---
+
+**Q12.** Arrange Kushan rulers in correct order:
+
+1. Kanishka
+2. Kujula Kadphises
+3. Vasudeva I
+4. Vima Kadphises
+
+Select the correct answer from the code given below:
+
+A. 2, 4, 1, 3
+
+B. 2, 1, 4, 3
+
+C. 4, 2, 1, 3
+
+D. 2, 4, 3, 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Kujula → Vima → Kanishka → … → Vasudeva I (Huvishka in between in fuller lists).
+
+**Logic:** Kujula unifier; Vima gold/Shaonanoshao; Kanishka climax.
+
+</details>
+
+---
+
+**Q13.** Heliodorus pillar at Besnagar (c. 113 BCE) shows:
+
+A. A Greek ambassador as a Bhagavata
+
+B. Ashoka’s Kalinga repentance
+
+C. Kanishka’s Fourth Council decree
+
+D. Rudradaman’s lake repair only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Heliodorus is a Greek ambassador turned Bhagavata.
+
+**Logic:** Indo-Greek religious interaction peg; Antialcidas sends Heliodorus.
+
+</details>
+
+---
+
+**Q14.** Which of the following statements about Alexander’s success in India is/are correct?
+
+1. Standard causes include no central power, superior army, and help from traitorous rulers (e.g. Ambhi).
+2. Being a ‘good administrator’ is a standard cause listed for that victory.
+3. There was no Macedonian campaign in Awadh, Kashi or Magadha.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Statements 1 and 3 are correct.
+
+**Logic:** Stmt 2 false: ‘good administrator’ is not a standard cause of the Indian victory.
+
+</details>
+
+---
+
+**Q15.** Which one of the following pairs is NOT correctly matched?
+
+A. Bucephala — city for Alexander’s horse
+
+B. Nicaea — victory-city after Hydaspes
+
+C. Devaputra — Kushan royal title
+
+D. Menander — Madhyamaka philosopher of emptiness
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Menander is Indo-Greek Milinda; Nagarjuna is Madhyamaka.
+
+**Logic:** Menander ≠ Nagarjuna; Nagasena is the monk interlocutor.
+
+</details>
+
+---
+
+**Q16.** With reference to Persian rule, which of the following is/are correct?
+
+1. Darius I took Gandhara and Hindush as the 20th satrapy with gold-dust tribute.
+2. Skylax explored the Indus; Kharoshthi grew from Aramaic.
+3. Ctesias was physician to Artaxerxes II.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three statements are correct.
+
+**Logic:** Persian satrap idea and Aramaic habits later feed Kharoshthi.
+
+</details>
+
+---
+
+**Q17.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+**Assertion (A):** Gandhara art uses grey/green schist and Greco-Roman Buddha modelling.
+
+**Reason (R):** Mathura art uses mottled red sandstone and indigenous types in Uttar Pradesh.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; R describes Mathura school, not the material cause of Gandhara schist style.
+
+**A/R logic:** Two schools, two media — parallel facts.
+
+</details>
+
+---
+
+**Q18.** Consider the following statements about Kushan religious art:
+
+1. North Indian Surya images often wear tunic, trousers and boots (udichya-vesa) under Shaka–Kushan influence.
+2. Classic Chola Nataraja bronze is a standard Kushan Mathura sculpture type.
+3. Early anthropomorphic Buddha images grow under Indo-Greek to Kushan patronage.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Statements 1 and 3 are correct.
+
+**Logic:** Stmt 2 false: Chola Nataraja ≠ Kushan Mathura Shiva/linga/Oesho horizon.
+
+</details>
+
+---
+
+**Q19.** Which inscription helps Kushan genealogy?
+
+A. Rabatak
+
+B. Hathigumpha
+
+C. Rummindei only
+
+D. Junagadh of Rudradaman only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Rabatak helps Kushan genealogy.
+
+**Logic:** Hathigumpha = Kharavela; Junagadh = Rudradaman.
+
+</details>
+
+---
+
+**Q20.** With reference to Indo-Greek coins, which of the following is/are correct?
+
+1. Early coins of Agathocles / Pantaleon show Brahmi and Vaishnava types.
+2. Portrait die-struck coins carry Greek and Kharoshthi.
+3. Menander’s seat is Purushapura as Kushan capital.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: Menander’s Sagala ≠ Kushan Purushapura.
+
+</details>
+
+---
+
+**Q21.** Which of the following statements about Seleucus and Chandragupta is/are correct?
+
+1. Seleucus ceded Arachosia, Gedrosia and Paropamisadae.
+2. Chandragupta received 500 elephants in the settlement.
+3. Those elephants later mattered at Ipsus (301 BCE).
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Statements 1 and 3 are correct.
+
+**Logic:** Stmt 2 reversed: Seleucus received 500 elephants; Chandragupta gained NW districts.
+
+</details>
+
+---
+
+**Q22.** Which one of the following pairs is NOT correctly matched?
+
+A. Kujula Kadphises — Kushan unifier (mainly copper)
+
+B. Vima Kadphises — gold; Shaonanoshao
+
+C. Kanishka — Fourth Council in Kashmir tradition
+
+D. Nahapana — Kardamaka Junagadh Sanskrit author
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Nahapana is Kshaharata (beaten by Gautamiputra); Junagadh = Rudradaman (Kardamaka).
+
+**Logic:** Nahapana vs Rudradaman confused pair.
+
+</details>
+
+---
+
+**Q23.** With reference to Alexander’s return, which of the following is/are correct?
+
+1. He stormed Sangala and was wounded among the Malloi.
+2. Nearchus went by sea; Alexander crossed harsh Gedrosia.
+3. He died at Babylon in 323 BCE.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three statements are correct.
+
+**Logic:** Return narrative tags after the Beas turn-back.
+
+</details>
+
+---
+
+**Q24.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+**Assertion (A):** Indo-Greek political centres stay mainly in the north-west (Taxila / Sagala).
+
+**Reason (R):** The middle-Ganga foreign layer, including Mathura, is mainly Kushan.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true; R explains the geographic contrast implied by A’s NW focus.
+
+**A/R logic:** Geography of foreign waves matters for UP-centred questions.
+
+</details>
+
+---
+
+**Q25.** Who issued the famous gold coinage tagged Shaonanoshao among early Kushans?
+
+A. Kujula Kadphises
+
+B. Vima Kadphises
+
+C. Gondophares
+
+D. Maues
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Vima Kadphises is the gold / Shaonanoshao headline.
+
+**Logic:** Kujula = unifier/copper; Gondophares = Parthian; Maues = Shaka.
+
+</details>
+
+---
+
+**Q26.** Consider the following statements:
+
+1. North-west doors into India include Khyber and Bolan routes.
+2. After Achaemenid Persians came Macedon, then Indo-Greek → Shaka → Parthian → Kushan.
+3. Alexander’s line continued as a lasting Magadhan occupation up to Pataliputra.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: Alexander stops at Beas; no Magadha occupation.
+
+</details>
+
+---
+
+**Q27.** Which of the following headline Indo-Greek kings is/are correctly tagged?
+
+1. Demetrius I — first big Indian push
+2. Apollodotus — early Indian-side silver
+3. Antialcidas — sends Heliodorus
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three tags are correct.
+
+**Logic:** Menander remains the greatest Indo-Greek / Milinda.
+
+</details>
+
+---
+
+**Q28.** With reference to the Mat statue near Mathura, which of the following is/are correct?
+
+1. It shows Kanishka in Central Asian dress with coat, trousers and padded boots.
+2. He holds a mace and sword in the headless royal image tradition.
+3. It proves Kushan kings wore only Indian dhoti in Mathura art.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: Mat / coins keep steppe riding kit.
+
+</details>
+
+---
+
+**Q29.** Yuga Purana remembers Yavanas at:
+
+A. Pataliputra
+
+B. Madurai only
+
+C. Tamralipti only
+
+D. Kaveripattinam only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Yuga Purana remembers Yavanas at Pataliputra.
+
+**Logic:** Indo-Greek memory text peg beyond Sagala.
+
+</details>
+
+---
+
+**Q30.** With reference to early anthropomorphic Buddha images, which of the following is/are correct?
+
+1. They grow under Indo-Greek to Kushan patronage at Gandhara and Mathura schools.
+2. Kanishka’s coins and the Sarnath image of monk Bala (year 3) are dated Buddhist-icon pegs.
+3. Classic Chola Nataraja is the earliest Kushan Buddha type at Mathura.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: Chola Nataraja is not a Kushan Buddha sculpture fact.
+
+</details>
 
 ## Common Traps — Facts
 

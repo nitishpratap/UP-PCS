@@ -2398,402 +2398,73 @@ D. Hindi
 
 ## Practice Zone — UPPCS Format Drill
 
-**Q1.** Match List-I with List-II and select the correct answer using the code given below:
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-| List-I | List-II |
-|--------|---------|
-| A. Indus Valley Civilization | 1. Pastoral |
-| B. Later Vedic Society | 2. Land Lordism |
-| C. Rigvedic Society | 3. Agrarian |
-| D. Medieval Period | 4. Urban |
 
-A. 4 2 3 1
-B. 2 1 4 3
-C. 3 4 1 2
-D. 4 3 1 2
+**Q1.** With reference to Early and Later Vedic ages, which of the following statements is/are correct?
+
+1. Early / Rigvedic age (~1500–1000 BCE) is centred on Sapta Sindhu and is pastoral.
+2. Later Vedic age (~1000–600 BCE) is centred on the Ganga–Yamuna doab and is agrarian.
+3. Rigvedic culture is primarily a Uttar Pradesh heartland story.
+
+Select the correct answer from the code given below:
+
+A. 2 and 3 only
+
+B. 1 and 2 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: B.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: Rigvedic core is Punjab / Sapta Sindhu, not UP heartland.
 
 </details>
 
 ---
 
-**Q2.** Which of the following statements is/are correct?
+**Q2.** Match List-I with List-II and select the correct answer from the code given below the lists:
 
-1. Rigvedic culture is centred on the Sapta Sindhu, not the Ganga–Yamuna doab.
-2. Painted Grey Ware is the usual archaeological correlate of Later Vedic settlements in the doab.
+| List-I (Assembly / Official) | List-II (Role) |
+|---|---|
+| 1. Sabha | A. Collects king’s share (bhaga) |
+| 2. Samiti | B. Elders/nobles assembly |
+| 3. Bhagadugha | C. Wider tribal assembly that can choose the rajan |
+| 4. Akshavapa | D. Dice / gambling officer |
 
-A. Only 1
+*Row order is not the answer code.*
 
-B. Only 2
+A. 1-C, 2-B, 3-A, 4-D
 
-C. Both 1 and 2
+B. 1-B, 2-C, 3-A, 4-D
 
-D. Neither 1 nor 2
+C. 1-B, 2-C, 3-D, 4-A
+
+D. 1-B, 2-A, 3-C, 4-D
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: B.** Sabha–elders; Samiti–chooses rajan; Bhagadugha–bhaga; Akshavapa–dice.
+
+**Logic:** Never swap Bhagadugha (revenue) with Akshavapa (dice) or Sangrahitri (treasurer).
 
 </details>
 
 ---
 
-**Q3.** With reference to Rigvedic society, consider the following statements:
+**Q3.** Consider the following statements about Vedic assemblies:
 
-1. Jana and vis were the main political-social units.
-2. Varna as a rigid birth-order already governed all occupations.
-3. Women such as Apala and Lopamudra are credited with hymns.
+1. Vidatha is the oldest gathering with economic and ritual roles and women’s presence.
+2. Vidatha fades first in Later Vedic times.
+3. Sabha becomes more exclusive while Samiti remains the broader tribal body in Early Vedic memory.
 
-How many of the above statements are correct?
-A. Only one B. Only two C. All three D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 3. Rigid varna is Later Vedic; Purusha Sukta is late and not yet a full caste cage.
-
-</details>
-
----
-
-**Q4.** Given below are two statements:
-
-**Assertion (A):** Later Vedic society is classified as agrarian in UPPCS match-lists.
-
-**Reason (R):** Iron plough agriculture in the Gangetic plain produced a settled surplus.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q5.** Which of the following statements regarding Later Vedic society is **not** correct?
-
-A. Janapadas replaced purely tribal jana as the main territorial unit.
-B. Women’s public and ritual status generally declined.
-C. Upanayana was opened equally to Shudras.
-D. Kuru, Panchala, Kosala and Kashi are Later Vedic polities.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q6.** Which officer was known as ‘Bhagadugha’ during Vedic administration?
-
-A. Messenger
-B. Chief Officer of Forests
-C. Chief Officer of the Gambling Department
-D. Revenue Collector
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q7.** Match List-I with List-II:
-
-| List-I (Officer) | List-II (Charge) |
-|------------------|------------------|
-| A. Bhagadugha | 1. Treasurer |
-| B. Sangrahitri | 2. Village head |
-| C. Akshavapa | 3. King’s share / revenue |
-| D. Gramani | 4. Dice / gambling |
-
-A. 3 1 4 2
-B. 3 4 1 2
-C. 1 3 4 2
-D. 2 1 4 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q8.** Which of the following statements is/are correct?
-
-1. Bali in Vedic polity means a tribute to the chief.
-2. Nishka was a punch-marked silver coin of the Rigvedic age.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — nishka is a gold ornament / value-unit, not a coin.
-
-</details>
-
----
-
-**Q9.** With reference to Rigvedic economy, consider the following statements:
-
-1. Cattle were the chief measure of wealth.
-2. Gavishti refers to cattle-raids.
-3. Iron plough was the basis of Early Vedic agriculture.
-
-How many of the above statements are correct?
-A. Only one B. Only two C. All three D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 2. Iron plough = Later Vedic.
-
-</details>
-
----
-
-**Q10.** The Battle of Ten Kings (Dasarajna) was fought on the bank of which river?
-
-A. Saraswati
-B. Parushni (Ravi)
-C. Yamuna
-D. Sindhu
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Sudas (Bharata / Tritsu) vs a ten-king coalition; Vasishtha as priest.
-
-</details>
-
----
-
-**Q11.** Match List-I with List-II:
-
-| List-I (Assembly) | List-II (Character) |
-|-------------------|---------------------|
-| A. Sabha | 1. General tribal body; king-making |
-| B. Samiti | 2. Oldest gathering; booty / ritual; fades first |
-| C. Vidatha | 3. Elders / nobles; more judicial |
-
-A. 3 1 2
-B. 1 3 2
-C. 3 2 1
-D. 2 1 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q12.** Which of the following statements is/are correct?
-
-1. In the Rigvedic period women could be associated with Sabha and Vidatha.
-2. Later Vedic kingship became more hereditary and less dependent on Samiti.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q13.** Which Vedic assembly is generally said to have disappeared first from Later Vedic literature?
-
-A. Sabha
-B. Samiti
-C. Vidatha (Vidhata)
-D. Paura
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q14.** Given below are two statements:
-
-**Assertion (A):** Samiti is described as a popular tribal assembly.
-
-**Reason (R):** It is identical with the Rajya Sabha of the Constitution of India.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q15.** Arrange the following layers of Vedic literature in the usual order of development:
-
-1. Upanishad
-2. Samhita
-3. Aranyaka
-4. Brahmana
-
-A. 2–4–3–1
-B. 2–3–4–1
-C. 4–2–3–1
-D. 2–4–1–3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q16.** Which of the following is a Samhita of Shukla Yajurveda?
-
-A. Vajasanami
-B. Maitrayani
-C. Taittiriya
-D. Kathak
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q17.** With reference to the Yajurveda, consider the following statements:
-
-1. In the Shukla recension, mantra and Brahmana portions are kept separate.
-2. Taittiriya, Kathaka and Maitrayani belong to the Krishna Yajurveda.
-3. Vajasaneyi is a Krishna Yajurveda Samhita.
-
-How many of the above statements are correct?
-A. Only one B. Only two C. All three D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 2. Vajasaneyi = Shukla.
-
-</details>
-
----
-
-**Q18.** Match List-I with List-II:
-
-| List-I (Veda) | List-II (Fact) |
-|---------------|----------------|
-| A. Rigveda | 1. Spells, healing, 20 books |
-| B. Samaveda | 2. 1028 hymns, 10 mandalas |
-| C. Yajurveda | 3. Melodies for Soma |
-| D. Atharvaveda | 4. Sacrificial formulas (yajus) |
-
-A. 2 3 4 1
-B. 2 4 3 1
-C. 3 2 4 1
-D. 2 3 1 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q19.** Which of the following statements regarding the Rigveda is **not** correct?
-
-A. Mandalas II–VII are the oldest family books.
-B. Mandala IX is devoted mainly to Soma.
-C. Purusha Sukta occurs in Mandala X.
-D. Gayatri mantra is from Atharvaveda Book I.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Gayatri = RV III.62.10.
-
-</details>
-
----
-
-**Q20.** Match List-I with List-II:
-
-| List-I (Priest) | List-II (Veda) |
-|-----------------|----------------|
-| A. Hotri | 1. Samaveda |
-| B. Udgatri | 2. Yajurveda |
-| C. Adhvaryu | 3. Atharvaveda / overall |
-| D. Brahman | 4. Rigveda |
-
-A. 4 1 2 3
-B. 4 2 1 3
-C. 1 4 2 3
-D. 4 1 3 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q21.** Which of the following statements is/are correct?
-
-1. Shatapatha Brahmana is attached to the Shukla Yajurveda and is the largest Brahmana.
-2. Gopatha is the Brahmana of the Atharvaveda.
-3. Aitareya Brahmana belongs to the Samaveda.
+Select the correct answer from the code given below:
 
 A. 1 and 2 only
 
@@ -2806,496 +2477,709 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Aitareya = Rigveda.
+**Ans: D.** All three statements are correct.
+
+**Logic:** Sabha / Samiti / Vidatha triad is a high-yield confused-pair set.
 
 </details>
 
 ---
 
-**Q22.** Consider the following pairs:
+**Q4.** Arrange the following layers of Vedic literature in correct order:
 
-| Brahmana | Veda |
-|----------|------|
-| 1. Tandya / Panchavimsha | Samaveda |
-| 2. Taittiriya Brahmana | Krishna Yajurveda |
-| 3. Kausitaki | Atharvaveda |
+1. Upanishad
+2. Samhita
+3. Brahmana
+4. Aranyaka
 
-How many of the above pairs are correctly matched?
-A. Only one B. Only two C. All three D. None
+Select the correct answer from the code given below:
+
+A. 2, 4, 3, 1
+
+B. 2, 3, 4, 1
+
+C. 3, 2, 4, 1
+
+D. 2, 3, 1, 4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — 1 and 2. Kausitaki = Rigveda.
+**Ans: B.** Samhita → Brahmana → Aranyaka → Upanishad.
+
+**Logic:** Samhitas = hymns; Brahmanas = ritual prose; Aranyakas = forest symbolic ritual; Upanishads = Vedanta.
 
 </details>
 
 ---
 
-**Q23.** Aranyakas are best described as:
+**Q5.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Hymn collections of the Early Vedic age
-B. Forest texts that read ritual in a symbolic way and lead toward Upanishads
-C. Six auxiliary limbs of the Veda
-D. Medieval commentaries of Sayana
+**Assertion (A):** Samiti could choose the rajan in Early Vedic polity.
 
-<details>
-<summary>Show answer</summary>
+**Reason (R):** Sabha was the wider tribal assembly while Samiti was only an elders’ council.
 
-**Ans: B**
+Select the correct answer from the code given below:
 
-</details>
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 
----
+B. (A) is false, but (R) is true
 
-**Q24.** Given below are two statements:
-
-**Assertion (A):** Brihadaranyaka is counted among the principal Upanishads.
-
-**Reason (R):** It grows out of the Shatapatha / Shukla Yajurveda forest-prose line.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: C.** A true; R reverses Sabha and Samiti.
+
+**A/R logic:** Sabha = elders/nobles; Samiti = wider body that chooses the rajan.
 
 </details>
 
 ---
 
-**Q25.** “Tat Tvam Asi” is a mahavakya of which Upanishad?
+**Q6.** With reference to the Rigveda, which of the following statements is/are correct?
 
-A. Katha
-B. Mandukya
-C. Chandogya
-D. Isha
+1. It has 1028 hymns in 10 mandalas.
+2. Mandalas 2–7 are the oldest family books; Mandala 9 is Soma.
+3. Mandalas 1 and 10 are among the latest.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Uddalaka–Shvetaketu.
+**Ans: D.** All three statements are correct.
+
+**Logic:** Standard Rigveda structure tags.
 
 </details>
 
 ---
 
-**Q26.** Match List-I with List-II:
+**Q7.** Which of the following hymn-count statements is/are correct?
 
-| List-I | List-II |
-|--------|---------|
-| A. Nachiketa and Yama | 1. Brihadaranyaka |
-| B. Yajnavalkya and Maitreyi | 2. Katha |
-| C. Om / four states | 3. Chandogya |
-| D. Uddalaka and Shvetaketu | 4. Mandukya |
+1. Indra has roughly 250 hymns.
+2. Agni has roughly 200 hymns.
+3. Varuna has the largest number of hymns, exceeding Indra.
 
-A. 2 1 4 3
-B. 1 2 4 3
-C. 2 1 3 4
-D. 2 4 1 3
+Select the correct answer from the code given below:
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: C.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: Varuna has fewer hymns but guards rita.
 
 </details>
 
 ---
 
-**Q27.** Which of the following is **not** a Vedanga?
+**Q8.** Which one of the following pairs is NOT correctly matched?
 
-A. Shiksha
-B. Nirukta
-C. Upanishad
-D. Jyotisha
+A. Shukla Yajurveda — Vajasaneyi (mantra and prose separate)
+
+B. Krishna Yajurveda — Black Yajurveda schools with mixed mantra-prose
+
+C. Krishna Yajurveda — devotion to the god Krishna as its defining feature
+
+D. Taittiriya / Kathaka / Maitrayani — Black Yajurveda schools
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: C.** Krishna here means Black Yajurveda, not the god Krishna.
+
+**Logic:** Classic trap: Krishna Yajurveda ≠ Krishna-bhakti text.
 
 </details>
 
 ---
 
-**Q28.** Match List-I with List-II:
+**Q9.** With reference to Later Vedic officials and terms, which of the following is/are correct?
 
-| List-I (Vedanga) | List-II |
-|------------------|---------|
-| A. Nirukta | 1. Panini |
-| B. Vyakarana | 2. Yaska |
-| C. Chhanda | 3. Pingala |
-| D. Kalpa | 4. Shrauta / Grihya / Dharma / Sulba |
+1. Sangrahitri was the treasurer.
+2. Gavishti means cattle-raid or war for cows.
+3. Nishka was coined silver money of the Rigvedic age.
 
-A. 2 1 3 4
-B. 1 2 3 4
-C. 2 1 4 3
-D. 2 3 1 4
+Select the correct answer from the code given below:
+
+A. 2 and 3 only
+
+B. 1 and 2 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: Nishka = gold ornament/value-unit; coined money absent.
 
 </details>
 
 ---
 
-**Q29.** With reference to Kalpa, consider the following statements:
+**Q10.** Match List-I with List-II and select the correct answer from the code given below the lists:
 
-1. Shrauta sutras deal with public Vedic sacrifice.
-2. Sulba sutras deal with altar geometry.
-3. Jyotisha is a subdivision of Kalpa.
+| List-I (Term) | List-II (Meaning) |
+|---|---|
+| 1. Shruti | A. Remembered later dharma literature |
+| 2. Smriti | B. Heard Vedic revelation |
+| 3. PGW | C. Later Vedic doab painted grey ware |
+| 4. shyama ayas | D. Later Vedic iron |
 
-How many of the above statements are correct?
-A. Only one B. Only two C. All three D. None
+*Row order is not the answer code.*
+
+A. 1-B, 2-A, 3-D, 4-C
+
+B. 1-A, 2-B, 3-C, 4-D
+
+C. 1-B, 2-A, 3-C, 4-D
+
+D. 1-B, 2-C, 3-A, 4-D
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — 1 and 2. Jyotisha is a separate Vedanga.
+**Ans: C.** Shruti–heard; Smriti–remembered; PGW–Later Vedic; shyama ayas–iron.
+
+**Logic:** Early Rigvedic ayas usually means copper/bronze, not iron.
 
 </details>
 
 ---
 
-**Q30.** Consider the following statements about Vedic religion:
+**Q11.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-1. Early Vedic worship used temples and cult images as the main form.
-2. Indra receives the largest number of Rigvedic hymns (~250).
-3. Vishnu is already the supreme god of the Rigveda.
+**Assertion (A):** Vishnu and Rudra are minor in the Rigveda.
 
-How many of the above statements are correct?
-A. Only one B. Only two C. All three D. None
+**Reason (R):** In Later Vedic religion Vishnu and Rudra rise in importance beside older storm and fire gods.
 
-<details>
-<summary>Show answer</summary>
+Select the correct answer from the code given below:
 
-**Ans: A** — only 2. No temples/idols; Indra ~250 (most); Agni ~200 second; Vishnu is **minor** in RV.
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 
-</details>
+B. (A) is false, but (R) is true
 
----
-
-**Q31.** Match List-I with List-II (Rigvedic river → later name):
-
-| List-I | List-II |
-|--------|---------|
-| A. Vitasta | 1. Beas |
-| B. Asikni | 2. Jhelum |
-| C. Parushni | 3. Chenab |
-| D. Vipas | 4. Ravi |
-
-A. 2 3 4 1
-B. 2 4 3 1
-C. 3 2 4 1
-D. 2 3 1 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q32.** Which of the following statements is/are correct?
-
-1. Ayas in the Rigveda is best read as copper/bronze, not iron.
-2. Shyama / krishna ayas in Later Vedic texts is associated with iron.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q33.** Arrange the following from west/early to east/later as Vedic geography moved:
-
-1. Kashi–Videha belt
-2. Sapta Sindhu
-3. Kuru–Panchala doab
-
-A. 2–3–1
-B. 3–2–1
-C. 2–1–3
-D. 1–2–3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q34.** Which of the following pairs is **not** correctly matched?
-
-A. Hastinapur — Meerut belt, PGW
-B. Atranjikhera — Etah, PGW
-C. Ahichchhatra — Panchala / Bareilly belt
-D. Alamgirpur — Later Vedic capital of Videha
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Alamgirpur is Harappan (eastern boundary), not Videha’s capital.
-
-</details>
-
----
-
-**Q35.** With reference to royal rituals, consider the following statements:
-
-1. Ashvamedha advertised territorial overlordship.
-2. Rajasuya is a royal consecration.
-3. Both belong mainly to the Early Rigvedic pastoral phase, not Later Vedic kingship.
-
-How many of the above statements are correct?
-A. Only one B. Only two C. All three D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 2. These yajnas swell in **Later Vedic** monarchy.
-
-</details>
-
----
-
-**Q36.** Given below are two statements:
-
-**Assertion (A):** Purusha Sukta is used as the locus classicus of four varnas.
-
-**Reason (R):** It is one of the oldest family-book hymns of Mandalas II–VII.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Purusha Sukta is RV X.90 (late).
+**Ans: D.** Both true; R explains the Early vs Later contrast implied by A.
+
+**A/R logic:** Early popular gods: Indra, Agni, Soma, Varuna; Prajapati rises later.
 
 </details>
 
 ---
 
-**Q37.** Which of the following statements regarding Shruti is/are correct?
+**Q12.** Consider the following statements about Vedangas:
 
-1. Brahmanas and Upanishads are included in Shruti.
-2. Sayana’s commentary is itself a Vedic-age Shruti text.
+1. The six Vedangas are Shiksha, Kalpa, Vyakarana, Nirukta, Chhanda and Jyotisha.
+2. Vedangas are tools of the Veda, not identical with the Upanishads.
+3. Vedangas teach Brahman–Atman philosophy as their primary content.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
+A. 2 and 3 only
 
-C. Both 1 and 2
+B. 1 and 2 only
 
-D. Neither 1 nor 2
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: Brahman–Atman = Upanishads / Vedanta, not Vedangas.
 
 </details>
 
 ---
 
-**Q38.** Consider the following pairs:
+**Q13.** With reference to pottery chronology, which of the following is/are correct?
 
-| Term | Meaning |
-|------|---------|
-| 1. Gavishti | Cattle-raid |
-| 2. Dakshina | Priest’s gift after yajna |
-| 3. Shulka | Early Rigvedic name for the Sabha |
+1. OCP is pre-PGW ochre-wash doab rural pottery.
+2. PGW (~1100–600 BCE) is the Later Vedic doab marker.
+3. NBPW precedes PGW in the standard doab sequence.
 
-How many of the above pairs are correctly matched?
-A. Only one B. Only two C. All three D. None
+Select the correct answer from the code given below:
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — 1 and 2. Shulka = toll / customs (later).
+**Ans: C.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: sequence is OCP → PGW → NBPW.
 
 </details>
 
 ---
 
-**Q39.** Which of the following statements is/are correct about Uttar Pradesh in this topic?
+**Q14.** Arrange the following economy types against cultural phases as usually matched:
 
-1. The Later Vedic political centre of gravity includes the Ganga–Yamuna doab.
-2. Rigvedic Sapta Sindhu is essentially the same as the Kosala–Kashi belt.
+1. Later Vedic — Agrarian
+2. Indus — Urban
+3. Rigvedic — Pastoral
 
-A. Only 1
+Select the correct chronological culture order (earliest culture first) for the three economies:
 
-B. Only 2
+A. 3, 2, 1
 
-C. Both 1 and 2
+B. 2, 3, 1
 
-D. Neither 1 nor 2
+C. 2, 1, 3
+
+D. 1, 2, 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Indus (Urban) → Rigvedic (Pastoral) → Later Vedic (Agrarian).
+
+**Logic:** Match-list economy types must not be swapped across cultures.
 
 </details>
 
 ---
 
-**Q40.** Match List-I with List-II:
+**Q15.** Which river is named most often in the Rigveda?
 
-| List-I | List-II |
-|--------|---------|
-| A. Sudas | 1. Videha patron of debates |
-| B. Janaka | 2. Bharata king of Dasarajna |
-| C. Yaska | 3. Nirukta |
-| D. Panini | 4. Ashtadhyayi |
+A. Saraswati
 
-A. 2 1 3 4
-B. 1 2 3 4
-C. 2 1 4 3
-D. 2 3 1 4
+B. Sindhu
+
+C. Ganga
+
+D. Yamuna
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Sindhu is named most often; Saraswati is the most sacred.
+
+**Logic:** Confused pair: frequency (Sindhu) vs piety (Saraswati as Naditama).
 
 </details>
 
 ---
 
-**Q41.** Which of the following statements regarding Vedic polity is **not** correct?
+**Q16.** With reference to Uttar Pradesh Later Vedic geography, which of the following is/are correct?
 
-A. Purohita was the chief priest and a political adviser.
-B. Senani commanded the army.
-C. Bhagadugha collected the king’s share of revenue.
-D. Akshavapa was the messenger of the rajan.
+1. Centres include Kuru–Panchala, Kosala and Kashi.
+2. Key sites include Hastinapur, Atranjikhera and Ahichchhatra.
+3. Videha (north Bihar) is described as west of the UP doab in Later Vedic texts.
+
+Select the correct answer from the code given below:
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Akshavapa = dice / gambling (and related accounts).
+**Ans: C.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: Videha is east of the UP doab (Janaka / Shatapatha tradition).
 
 </details>
 
 ---
 
-**Q42.** With reference to Later Vedic culture, consider the following statements:
+**Q17.** Which of the following statements about Early Vedic polity is/are correct?
 
-1. Gotra rules and ashrama theory become systematic.
-2. PGW sites such as Hastinapur and Atranjikhera lie in / beside the UP doab.
-3. The economy type matched with Later Vedic Society in 2020 is Urban.
+1. The rajan was a tribal chief, not an absolute king.
+2. Later Vedic kingship became more hereditary and stronger over land and ritual.
+3. Bali was a cattle-raid term identical with gavishti.
 
-How many of the above statements are correct?
-A. Only one B. Only two C. All three D. None
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — 1 and 2. 2020: Later Vedic = **Agrarian**; Urban = IVC.
+**Ans: A.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: Bali = tribute; Gavishti = cattle-raid.
 
 </details>
 
 ---
 
-**Q43.** Which of the following statements regarding **Painted Grey Ware (PGW)** is/are correct?
+**Q18.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-1. PGW is the usual archaeological marker of the Later Vedic phase in the doab.
-2. Hastinapur and Ahichchhatra are among the textbook PGW sites.
-3. PGW is the same ware as Northern Black Polished Ware (NBPW).
+**Assertion (A):** Arya in classical Sanskrit means a noble person.
 
-A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+**Reason (R):** Tilak’s Arctic homeland theory is a closed scientific proof of Aryan origins.
 
-<details>
-<summary>Show answer</summary>
+Select the correct answer from the code given below:
 
-**Ans: A** — PGW comes **before** NBPW. NBPW belongs to the mahajanapada / early historic cities (Topic 5).
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 
-</details>
+B. (A) is false, but (R) is true
 
----
-
-**Q44.** Match List-I with List-II:
-
-| List-I | List-II |
-|--------|---------|
-| A. PGW | 1. South / Deccan Iron Age burials with black-and-red ware |
-| B. NBPW | 2. Later Vedic grey painted doab ware |
-| C. OCP | 3. Mahajanapada black polished elite ware |
-| D. Megalithic BRW | 4. Ochre-wash rural doab before PGW |
-
-A. 2 3 4 1 B. 2 1 4 3 C. 3 2 4 1 D. 4 2 1 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — PGW = 2; NBPW = 3; OCP = 4; Megalithic BRW = 1.
-
-</details>
-
----
-
-**Q45.** Given below are two statements:
-
-**Assertion (A):** Later Vedic texts use **shyama ayas** or **krishna ayas** for iron.
-
-**Reason (R):** In the Rigveda, **ayas** usually means copper or bronze, not iron.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: C.** A true; R false — homeland theories (Tilak, Max Müller, etc.) are not closed proofs.
+
+**A/R logic:** Meaning of Arya ≠ settled homeland archaeology.
 
 </details>
 
 ---
 
-**Q46.** With reference to the **Iron Age in India**, consider the following statements:
+**Q19.** Which one of the following pairs is NOT correctly matched?
 
-1. North India links iron spread with PGW and then NBPW city layers.
-2. Megalithic burials with black-and-red ware are mainly a south / Deccan pattern.
-3. **Brahmagiri** is a textbook megalithic site name.
+A. Gayatri — RV III.62.10 (Vishvamitra → Savitr)
 
-How many of the above statements are correct?
-A. Only one B. Only two C. All three D. None
+B. Satyameva Jayate — Mundaka Upanishad
+
+C. Tamaso mā jyotir gamaya — Brihadaranyaka
+
+D. Nachiketa–Yama dialogue — Rigveda Mandala 9
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: D.** Nachiketa–Yama is Katha Upanishad, not Rigveda Mandala 9.
+
+**Logic:** Mandala 9 is Soma; Katha holds Nachiketa.
 
 </details>
 
 ---
+
+**Q20.** Consider the following statements:
+
+1. Atharvaveda adds charms and domestic rites beside the liturgical Trayi.
+2. Trayi means Rig–Yajur–Sama.
+3. Brahmana texts are identical in meaning with the Brahmana varna in every context.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: context decides Brahmana text vs Brahmana varna.
+
+</details>
+
+---
+
+**Q21.** Boghaz-köi (Asia Minor) inscriptions name which set of Vedic deities?
+
+A. Indra, Varuna, Mitra, Nasatya
+
+B. Prajapati, Vishnu, Rudra, Soma
+
+C. Agni, Ushas, Savitr, Ashvins only
+
+D. Only Varuna and Mitra
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Indra, Varuna, Mitra, Nasatya appear at Boghaz-köi.
+
+**Logic:** External Indo-Iranian name peg used in Vedic chronology discussions.
+
+</details>
+
+---
+
+**Q22.** With reference to Later Vedic society, which of the following is/are correct?
+
+1. Stronger raja and rising Brahmana ritual power appear.
+2. Settled agriculture and clearer varna ranking increase versus Early Vedic pastoral tribes.
+3. Varna and jati are identical terms in Vedic Samhitas.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: Varna = four-fold order; Jati = later birth-group identity.
+
+</details>
+
+---
+
+**Q23.** Which of the following statements about Dasharajna is/are correct?
+
+1. It was fought on the Parushni.
+2. Cow is called aghanya in Vedic memory.
+3. It was fought on the Ganga near Hastinapur.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: Parushni (Ravi), not Ganga.
+
+</details>
+
+---
+
+**Q24.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+**Assertion (A):** Aranyakas are forest texts of symbolic ritual.
+
+**Reason (R):** Upanishads teach Brahman–Atman philosophy (Vedanta).
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true, but R describes Upanishads, not why Aranyakas are forest ritual texts.
+
+**A/R logic:** Keep Aranyaka (symbolic ritual) distinct from Upanishad (philosophy).
+
+</details>
+
+---
+
+**Q25.** With reference to Afghanistan rivers in Rigvedic hymns, which of the following is/are correctly named?
+
+1. Kubha
+2. Krumu
+3. Gomati
+4. Suvastu
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 1, 2 and 3 only
+
+C. 2, 3 and 4 only
+
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All four names appear among Afghanistan rivers in the hymns.
+
+**Logic:** Standard north-west river name set in Rigvedic geography.
+
+</details>
+
+---
+
+**Q26.** Karma-kanda and Jnana-kanda are correctly paired as:
+
+A. Samhita + Brahmana ritual vs Aranyaka + Upanishad philosophy
+
+B. Only Atharvaveda vs only Rigveda
+
+C. PGW vs NBPW
+
+D. Sabha vs Samiti
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Ritual corpus vs philosophy corpus is the standard pair.
+
+**Logic:** Confused-pair table: Karma-kanda ↔ Jnana-kanda.
+
+</details>
+
+---
+
+**Q27.** Consider the following statements about Early popular gods:
+
+1. Early popular gods include Indra, Agni, Soma, Varuna, Ushas and Savitr.
+2. Later Vedic ritual elevates Prajapati.
+3. Indra remains the sole Later Vedic supreme without ritual change.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: Prajapati rises; Indra’s war-chief primacy is Early Vedic.
+
+</details>
+
+---
+
+**Q28.** Which of the following is/are correct about iron terminology?
+
+1. Later Vedic iron appears as shyama ayas / krishna ayas.
+2. Early Rigvedic ayas usually means copper or bronze.
+3. PGW is unrelated to Later Vedic iron settlements.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: PGW is the Later Vedic doab marker with iron.
+
+</details>
+
+---
+
+**Q29.** Which one of the following pairs is NOT correctly matched?
+
+A. Bhagadugha — collects bhaga
+
+B. Sangrahitri — treasurer
+
+C. Akshavapa — dice / gambling
+
+D. Samiti — exclusively a dice officer
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Samiti is the wider tribal assembly, not a dice officer.
+
+**Logic:** Dice officer = Akshavapa; Samiti chooses the rajan.
+
+</details>
+
+---
+
+**Q30.** With reference to Later Vedic kingship and ritual, which of the following is/are correct?
+
+1. Kingship becomes more hereditary and stronger over land and ritual.
+2. Clearer varna ranking appears than in Early Vedic pastoral tribes.
+3. Sabha, Samiti and Vidatha all grow equally stronger in Later Vedic times.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: Vidatha fades first; Sabha becomes more exclusive.
+
+</details>
 
 ## Common Traps — Facts
 

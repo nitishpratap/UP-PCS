@@ -1790,673 +1790,669 @@ D. None of the above
 
 ## Practice Zone — UPPCS Format Drill
 
-> **38 questions** · answers under Show answer
+> **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D | **Ans first, then Logic**
 
-**Q1.** Travellers: I Hawkins II Fitch III Roe IV Downton
+**Q1.** With reference to European sea-power arrival order, which of the following statements is/are correct?
 
-A. II-I-IV-III
-B. IV-II-I-III
-C. I-III-II-IV
-D. III-II-IV-I
+1. Portuguese 1498 → Dutch ~1605 → English Surat factory 1613 → Danish Tranquebar 1620 → French Pondicherry 1674.
+2. Portuguese were first to arrive (1498) and last to leave (1961).
+3. French arrived before the Dutch in India.
 
-<details><summary>Show answer</summary>
+Select the correct answer from the code given below:
 
-**Logic:** The keyed fact is **II-I-IV-III**.
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-**Ans: A.**
+<details>
+<summary>Show answer</summary>
 
-**Trap:** Cross-check the Confused Pairs table for this topic.
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** French Pondicherry 1674 is last in this arrival ladder — statement 3 is false.
 
 </details>
 
-**Q2.** Hawkins: 1. Came 1611 as James I envoy 2. Well versed in Turkish
+**Q2.** Consider Cause–Course–Result for Portuguese arrival:
+
+1. Cause: Search for a sea spice route.
+2. Course: Vasco da Gama reached Calicut in 1498; Albuquerque took Goa in 1510.
+3. Result: Goa became Portuguese India’s capital and a coastal maritime base.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All three statements are correct.
+
+**Logic:** Almeida (Blue Water / first Viceroy) ≠ Albuquerque (real founder / Goa).
+
+</details>
+
+**Q3.** Which of the following pairs is/are NOT correctly matched?
+
+1. EIC charter — 1600
+2. VOC charter — 1602
+3. EIC charter — after the Dutch VOC charter
+
+Select the correct answer from the code given below:
+
+A. 1 only
+B. 3 only
+C. 1 and 2 only
+D. 2 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only pair 3 is not correctly matched.
+
+**Logic:** English charter 1600 comes before Dutch VOC 1602.
+
+</details>
+
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): William Hawkins reached India in 1608 on the Hector, spoke Turkish, and met Jahangir.
+
+Reason (R): Hawkins first arrived only in 1611, the same year as the permanent Surat factory.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A is true and R is false.
+
+**A/R logic:** 1608 arrival is correct; 1611 is a trap year — permanent Surat is 1613.
+
+</details>
+
+**Q5.** Arrange the traveller chronology:
+
+1. Sir Thomas Roe
+2. Ralph Fitch
+3. Nicholas Downton
+4. William Hawkins
+
+Select the correct answer from the code given below:
+
+A. 2-4-3-1
+B. 2-3-4-1
+C. 4-2-3-1
+D. 2-4-1-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Fitch 1585 → Hawkins 1608 → Downton 1614 → Roe 1615.
+
+**Logic:** Fitch sees Agra/Banaras in Akbar’s time before lasting EIC factories.
+
+</details>
+
+**Q6.** Match List-I with List-II and select the correct answer from the code given below:
+
+| List-I | List-II |
+|--------|---------|
+| A. Almeida | 1. Goa 1510; real founder |
+| B. Albuquerque | 2. First Viceroy; Blue Water |
+| C. Cartaze | 3. Portuguese ocean pass-fee |
+| D. Colbert | 4. French company 1664 under Louis XIV |
+
+*Row order is not the answer code.*
+
+A. A-2, B-1, C-3, D-4
+B. A-1, B-2, C-4, D-3
+C. A-2, B-3, C-1, D-4
+D. A-3, B-1, C-2, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Almeida–Blue Water; Albuquerque–Goa; Cartaze–pass; Colbert–French company.
+
+**Logic:** Blue Water ≠ cartaze — related sea policy tags, different names.
+
+</details>
+
+**Q7.** With reference to English factories, which of the following statements is/are correct?
+
+1. Temporary Masulipatnam 1611; permanent Surat 1613.
+2. Madras/Fort St George 1640; Bombay leased 1668 (Portuguese dowry context 1662).
+3. Job Charnock is linked to Calcutta via Sutanuti.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three statements are correct.
+
+**Logic:** Masulipatnam temporary ≠ Surat permanent.
+
+</details>
+
+**Q8.** Consider Cause–Course–Result for Awadh’s end:
+
+1. Cause: Nawabi autonomy from 1722 weakened after Buxar.
+2. Course: Dalhousie annexed Awadh in 1856; Wajid Ali Shah was the last Nawab.
+3. Result: Lucknow became a major 1857 centre; Begum Hazrat Mahal led resistance.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All three statements are correct.
+
+**Logic:** Saadat Khan founded Awadh 1722 — do not swap with Murshid Quli Khan of Bengal.
+
+</details>
+
+**Q9.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Aix-la-Chapelle (1748) returned Madras after the First Carnatic War.
+
+Reason (R): Treaty of Paris (1763) is the same settlement under another name.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A is true and R is false.
+
+**A/R logic:** Aix-la-Chapelle 1748 ≠ Paris 1763 (Seven Years’ War / Third Carnatic end).
+
+</details>
+
+**Q10.** With reference to Carnatic wars, which of the following statements is/are correct?
+
+1. First Carnatic War spark included English capture of French ships (Captain Bernett).
+2. French won St. Thome on the Adyar versus Anwaruddin’s force.
+3. Wandiwash (1760) — Eyre Coote defeated Count de Lally.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three statements are correct.
+
+**Logic:** St. Thome (French win) ≠ Wandiwash (British win).
+
+</details>
+
+**Q11.** Arrange Later Mughal / invasion markers:
+
+1. Karnal — Nadir Shah defeats Muhammad Shah
+2. Bahadur Shah I succeeds after Aurangzeb
+3. Farrukh Siyar’s Bengal farman
+4. Shakar Kheda — Nizam founds Hyderabad path
+
+Select the correct answer from the code given below:
+
+A. 2-3-4-1
+B. 2-4-3-1
+C. 3-2-4-1
+D. 2-3-1-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Bahadur Shah I 1707 → farman 1717 → Shakar Kheda 1724 → Karnal 1739.
+
+**Logic:** Rangeela/Nadir is after Sayyid–Farrukh politics.
+
+</details>
+
+**Q12.** Match List-I with List-II and select the correct answer from the code given below:
+
+| List-I | List-II |
+|--------|---------|
+| A. Saadat Khan | 1. Hyderabad after Shakar Kheda 1724 |
+| B. Nizam-ul-Mulk Asaf Jah | 2. Awadh Nawabi 1722 |
+| C. Asaf-ud-Daula | 3. Lucknow capital; Bara Imambara |
+| D. Shuja-ud-Daula | 4. With Abdali at Panipat III; Allahabad 1765 aftermath |
+
+*Row order is not the answer code.*
+
+A. A-2, B-1, C-3, D-4
+B. A-1, B-2, C-4, D-3
+C. A-2, B-3, C-1, D-4
+D. A-3, B-1, C-2, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Saadat–Awadh; Nizam–Hyderabad; Asaf-ud-Daula–Lucknow/Imambara; Shuja–Panipat/Allahabad.
+
+**Logic:** Do not assign Murshid Quli to Awadh.
+
+</details>
+
+**Q13.** With reference to Dutch and Danish settlements, which of the following statements is/are correct?
+
+1. Dutch VOC used Pulicat as South Indian HQ and Chinsurah in Bengal (Fort Gustavus).
+2. Danish facts include Tranquebar (1620) and Serampore; Denmark sold Indian settlements in 1845.
+3. Serampore was the chief French Bengal factory.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** French Bengal factory is Chandernagore; Serampore is Danish.
+
+</details>
+
+**Q14.** Which of the following pairs is/are NOT correctly matched?
+
+1. Pondicherry — French HQ (1674)
+2. Tranquebar — Danish
+3. Chandernagore — Danish Bengal
+
+Select the correct answer from the code given below:
+
+A. 1 only
+B. 3 only
+C. 1 and 2 only
+D. 2 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only pair 3 is not correctly matched.
+
+**Logic:** Chandernagore = French; Serampore = Danish.
+
+</details>
+
+**Q15.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Farrukh Siyar’s 1717 farman gave the English duty-free trade in Bengal for about Rs 3,000 annual lump sum.
+
+Reason (R): Sayyid brothers (Abdullah and Hussain Ali) were later-Mughal king-makers (c. 1713–1720).
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both A and R are true, but R does not explain the farman’s commercial terms.
+
+**A/R logic:** Farman content and Sayyid politics are contemporary but not a direct explanation pair.
+
+</details>
+
+**Q16.** With reference to Sawai Jai Singh II, which of the following statements is/are correct?
+
+1. He built Jantar Mantar observatories at Delhi, Jaipur, Ujjain, Mathura, and Varanasi.
+2. Allahabad is correctly included in that five-city observatory list.
+3. He prepared Zij Muhammad Shahi.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 3 are correct.
+
+**Logic:** Five cities include Mathura — not Allahabad.
+
+</details>
+
+**Q17.** Arrange European charter years:
+
+1. French company
+2. EIC
+3. Danish company
+4. VOC
+
+Select the correct answer from the code given below:
+
+A. 2-4-3-1
+B. 4-2-3-1
+C. 2-3-4-1
+D. 2-4-1-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** EIC 1600 → VOC 1602 → Danish 1616 → French 1664.
+
+**Logic:** Charter order ≠ factory arrival order in every detail — keep both ladders.
+
+</details>
+
+**Q18.** With reference to Hooghly and Portuguese power, which of the following statements is/are correct?
+
+1. Portuguese used Hooghly as a Bay of Bengal base.
+2. Shah Jahan crushed them there in 1632.
+
+Select the correct answer from the code given below:
 
 A. Only 1
 B. Only 2
-C. Both
-D. Neither
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Logic:** **William Hawkins** reached India in **1608**, not 1611.
+**Ans: C.** Both statements are correct.
 
-**Ans: B.** Hawkins arrived **1608**.
-
-**Trap:** Test each statement separately before choosing the code.
-
-</details>
-
-**Q3.** Aix-la-Chapelle 1748: 1. First Carnatic War ended 2. Madras returned to the English
-
-A. Only 2
-B. Neither
-C. Both
-D. Only 1
-
-<details><summary>Show answer</summary>
-
-**Logic:** ** Both statements are correct.
-
-**Ans: C.**
-
-**Logic:** **Aix-la-Chapelle (1748)** ended the First Carnatic War and restored French factories in India.
-
-**Trap:** Test each statement separately before choosing the code.
+**Logic:** Hooghly (Portuguese) ≠ Chinsurah (Dutch).
 
 </details>
 
-**Q4.** Awadh 1, Ilbert 2, Indigo 3, 2nd Afghan 4
+**Q19.** Consider the following pairs:
 
-A. 1-3-4-2
-B. 3-1-2-4
-C. 3-1-4-2
-D. 1-3-2-4
+| Person | Tag |
+|--------|-----|
+| 1. Bernier | French traveller at Aurangzeb’s court |
+| 2. Dupleix | French troops in Indian succession quarrels |
+| 3. Ralph Fitch | English traveller in Akbar’s time |
 
-<details><summary>Show answer</summary>
+Which of the pairs given above is/are correctly matched?
 
-**Logic:** The keyed fact is **1-3-4-2**.
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-**Ans: A.**
+<details>
+<summary>Show answer</summary>
 
-**Trap:** Cross-check the Confused Pairs table for this topic.
+**Ans: D.** All three pairs are correctly matched.
 
-</details>
-
-**Q5.** Wars: 1.First Anglo-Mysore 2.Second Anglo-French 3.First Anglo-Sikh 4.First Anglo-Afghan
-
-A. 2-1-4-3
-B. 1-2-3-4
-C. 1-2-4-3
-D. 2-1-3-4
-
-<details><summary>Show answer</summary>
-
-**Logic:** Apply the chronological fact tested by the stem.
-
-**Ans: A.** Order follows the stem's date sequence.
-
-**Trap:** Check dates before matching option codes.
+**Logic:** Bernier is not an English EIC envoy.
 
 </details>
 
-**Q6.** Goa 1510 was taken by:
+**Q20.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Vasco da Gama
-B. Albuquerque
-C. Dupleix
-D. Hawkins
+Assertion (A): Muhammad Shah Rangeela was the last emperor to sit on the Peacock Throne.
 
-<details><summary>Show answer</summary>
+Reason (R): Nadir Shah defeated him at Karnal (1739) and took the throne and Kohinoor.
 
-**Logic:** The keyed fact is **Albuquerque**.
+Select the correct answer from the code given below:
 
-**Ans: B.**
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-**Trap:** Cross-check the Confused Pairs table for this topic.
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: D.** Both A and R are true and R correctly explains the Peacock Throne loss context.
 
-**Q7.** First lasting English factory:
-
-A. Madras 1498
-B. Surat 1612
-C. Calcutta 1600
-D. Pondicherry 1674
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **Surat 1612**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
+**A/R logic:** Rangeela/Nadir/Karnal is the must-score invasion set.
 
 </details>
 
-**Q8.** Tranquebar is:
+**Q21.** With reference to Bahadur Shah I and Zafar, which of the following statements is/are correct?
 
-A. Portuguese
-B. Dutch
-C. French
-D. Danish
+1. Bahadur Shah I (Muazzam) ruled 1707–1712 after Aurangzeb; Khafi Khan called him Shahe Bekhabar.
+2. Bahadur Shah Zafar was the last Mughal, son of Akbar II, associated with 1857.
 
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **Danish
-
-**Ans: D.**
-
-<details><summary>Show answer</summary>
-
-**Logic:** ** Matches the core teaching fact for this topic.
-
-**Ans: D.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>**.
-
-</details>
-
-**Q9.** Pondicherry is:
-
-A. Dutch
-B. French
-C. Danish
-D. Portuguese
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **French**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
-**Q10.** Awadh Nawabi founder:
-
-A. Murshid Quli Khan
-B. Saadat Khan
-C. Wajid Ali Shah
-D. Dupleix
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **Saadat Khan**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
-**Q11.** Cartaze is:
-
-A. Mughal farman
-B. Portuguese sea-pass
-C. Dutch spice tax
-D. Awadh land grant
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **Portuguese sea-pass**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
-**Q12.** EIC charter year:
-
-A. 1498
-B. 1600
-C. 1602
-D. 1664
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **1600**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
-**Q13.** VOC charter year:
-
-A. 1600
-B. 1602
-C. 1616
-D. 1664
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **1602**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
-**Q14.** Bernier was:
-
-A. English ambassador of 1608
-B. French physician at Aurangzeb’s court
-C. Danish governor of Tranquebar
-D. Founder of Awadh
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **French physician at Aurangzeb’s court**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
-**Q15.** Hooghly expulsion 1632:
-
-A. Akbar vs Dutch
-B. Shah Jahan vs Portuguese
-C. Jahangir vs French
-D. Aurangzeb vs Danes
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **Shah Jahan vs Portuguese**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
-**Q16.** Fort St George is at:
-
-A. Surat
-B. Madras
-C. Bombay
-D. Calcutta
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **Madras**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
-**Q17.** Bombay leased to EIC in:
-
-A. 1608
-B. 1612
-C. 1668
-D. 1748
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **1668**.
-
-**Ans: C.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
-**Q18.** 1. Hawkins came 1608 2. Roe came 1615–19
+Select the correct answer from the code given below:
 
 A. Only 1
 B. Only 2
-C. Both
-D. Neither
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Logic:** ** Both statements are correct.
+**Ans: C.** Both statements are correct.
 
-**Ans: C.**
-
-**Trap:** Test each statement separately before choosing the code.
-
-</details>
-
-**Q19.** Bara Imambara is linked with:
-
-A. Saadat Khan
-B. Asaf-ud-Daula
-C. Albuquerque
-D. Clive
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **Asaf-ud-Daula**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
+**Logic:** Do not merge 1707 successor with 1857 last emperor.
 
 </details>
 
-**Q20.** Last Nawab of Awadh:
+**Q22.** Which of the following pairs is/are NOT correctly matched?
 
-A. Safdar Jung
-B. Shuja-ud-Daula
-C. Wajid Ali Shah
-D. Saadat Khan
+1. First Portuguese factory — Calicut 1500
+2. First Portuguese fort — Cochin 1503
+3. Nuno da Cunha — shifted HQ from Goa to Cochin
 
-<details><summary>Show answer</summary>
+Select the correct answer from the code given below:
 
-**Logic:** The keyed fact is **Wajid Ali Shah**.
+A. 1 only
+B. 3 only
+C. 1 and 2 only
+D. 2 and 3 only
 
-**Ans: C.**
+<details>
+<summary>Show answer</summary>
 
-**Trap:** Cross-check the Confused Pairs table for this topic.
+**Ans: B.** Only pair 3 is not correctly matched.
 
-</details>
-
-**Q21.** Aix-la-Chapelle is the same treaty as Paris 1763.
-
-A. True
-B. False
-C. Only for Bengal
-D. Only for Goa
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **False**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
+**Logic:** Nuno da Cunha shifted HQ Cochin → Goa (not the reverse).
 
 </details>
 
-**Q22.** Pulicat was the HQ of:
+**Q23.** With reference to French factories, which of the following statements is/are correct?
 
-A. Portuguese
-B. Dutch
-C. French
-D. Danish
+1. Earliest French factory Surat 1668 (François Caron); HQ Pondicherry 1674.
+2. Under Dupleix the French took Madras in 1746 before Aix-la-Chapelle restored it.
 
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **Dutch**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
-**Q23.** Chandernagore was:
-
-A. Danish
-B. French Bengal
-C. English Surat
-D. Awadh capital
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **French Bengal**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
-**Q24.** 1. EIC ruled India from 1600 2. 1600 is a trade charter
+Select the correct answer from the code given below:
 
 A. Only 1
 B. Only 2
-C. Both
-D. Neither
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Logic:** ** Statement **1** is false — EIC did **not** rule India from **1600** (trade charter only). Statement **2** is true.
+**Ans: C.** Both statements are correct.
 
-**Ans: B (Only 2).**
-
-**Trap:** Territorial rule begins **1757+**, not 1600.
-
-</details>
-
-**Q25.** Shuja-ud-Daula at Panipat III:
-
-A. Fought for Marathas
-B. Allied with Abdali
-C. Commanded French guns
-D. Founded Goa
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **Allied with Abdali**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
+**Logic:** First Carnatic War Madras capture/return is the Dupleix tag.
 
 </details>
 
-**Q26.** French company founded:
+**Q24.** Arrange later chronology bridge used in teaching:
 
-A. 1498
-B. 1600
-C. 1602
-D. 1664
+1. Second Afghan War
+2. Awadh annexation
+3. Ilbert Bill
+4. Indigo Revolt
 
-<details><summary>Show answer</summary>
+Select the correct answer from the code given below:
 
-**Logic:** The keyed fact is **1664
+A. 2-4-1-3
+B. 2-1-4-3
+C. 4-2-1-3
+D. 2-4-3-1
 
-**Ans: D.**
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: A.** Awadh 1856 → Indigo 1859 → Second Afghan War 1878 → Ilbert 1883.
 
-**Logic:** ** Matches the core teaching fact for this topic.
-
-**Ans: D.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>**.
+**Logic:** Bridge helps chronological elimination even when stems mix eras.
 
 </details>
 
-**Q27.** NOT matched:
+**Q25.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Fitch – 1585
-B. Hawkins – 1608
-C. Roe – 1608
-D. Downton – 1614
+Assertion (A): Jahandar Shah rose with Zulfiqar Khan and was defeated by Farrukh Siyar in 1713.
 
-<details><summary>Show answer</summary>
+Reason (R): Zulfiqar Khan and the Sayyid brothers are the same king-maker faction under one name.
 
-**Logic:** ** One pair breaks the standard fact in this topic.
+Select the correct answer from the code given below:
 
-**Ans: C.**
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-**Trap:** Eliminate pairs you know are correct first.
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: C.** A is true and R is false.
 
-**Q28.** Awadh annexed in:
-
-A. 1722
-B. 1765
-C. 1856
-D. 1748
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **1856**.
-
-**Ans: C.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
+**A/R logic:** Zulfiqar (Jahandar) ≠ Sayyid brothers (Farrukh peak) — confused pair.
 
 </details>
 
-**Q29.** Calicut 1498 visitor:
+**Q26.** With reference to Thomas Best and Sir John Child, which of the following statements is/are correct?
 
-A. Albuquerque
-B. Vasco da Gama
-C. Thomas Roe
-D. Dupleix
+1. Thomas Best broke Portuguese naval monopoly at Swally near Surat.
+2. Sir John Child was expelled by Aurangzeb after attacking Mughal ports (1688 context).
 
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **Vasco da Gama**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
-**Q30.** Serampore was originally:
-
-A. French
-B. Danish
-C. Awadh
-D. Mughal capital
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **Danish**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
-**Q31.** 1. Pondicherry is French 2. Tranquebar is French
+Select the correct answer from the code given below:
 
 A. Only 1
 B. Only 2
-C. Both
-D. Neither
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Logic:** ** Only statement **1** is true — **Pondicherry** is French. Statement **2** is false — **Tranquebar** is **Danish**.
+**Ans: C.** Both statements are correct.
 
-**Ans: A (Only 1).**
-
-**Trap:** Do not confuse French Pondicherry with Danish Tranquebar.
-
-</details>
-
-**Q32.** Hawkins’s court was:
-
-A. Akbar
-B. Jahangir
-C. Aurangzeb
-D. Saadat Khan
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **Jahangir**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
+**Logic:** Naval and diplomatic setbacks are separate English–Mughal tags.
 
 </details>
 
-**Q33.** Treaty of Allahabad 1765 mainly squeezed:
+**Q27.** Consider the following statements:
 
-A. Portuguese Goa
-B. Awadh after Buxar
-C. Danish Tranquebar
-D. VOC Pulicat
+1. First modern Municipal Corporation in India: Madras, 1688.
+2. Europeans prized Bihar for high-grade opium and saltpetre.
+3. Levant Company (1592) sea-charter replaced the EIC before 1600.
 
-<details><summary>Show answer</summary>
+Which of the statements given above is/are correct?
 
-**Logic:** The keyed fact is **Awadh after Buxar**.
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-**Ans: B.**
+<details>
+<summary>Show answer</summary>
 
-**Trap:** Cross-check the Confused Pairs table for this topic.
+**Ans: A.** Only 1 and 2 are correct.
 
-</details>
-
-**Q34.** Dupleix was:
-
-A. English victor of Plassey
-B. French Carnatic governor
-C. First Awadh Nawab
-D. Dutch Pulicat admiral
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **French Carnatic governor**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
+**Logic:** Levant was a land-route charter before the sea EIC — it did not replace EIC.
 
 </details>
 
-**Q35.** 1. Indigo Revolt is before Awadh annexation 2. Awadh annexation is 1856
+**Q28.** With reference to Second Carnatic opening, which one of the following is correct?
 
-A. Only 1
-B. Only 2
-C. Both
-D. Neither
+A. Opens with Wandiwash 1760
+B. Opens with Ambur 1749
+C. Opens with Aix-la-Chapelle 1748 as a French annexation of Bengal
+D. Opens with Karnal 1739
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Logic:** ** Indigo is 1859, after 1856.
+**Ans: B.** Second Carnatic opens with Ambur (1749).
 
-**Ans: B.**
-
-**Trap:** Test each statement separately before choosing the code.
-
-</details>
-
-**Q36.** Factory in this topic means:
-
-A. Modern mill
-B. Trading post
-C. Mughal mint
-D. Awadh imambara
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **Trading post**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
+**Logic:** Wandiwash closes French hopes in the Third; Karnal is Nadir Shah.
 
 </details>
 
-**Q37.** Correct pair:
+**Q29.** Which of the following pairs is/are NOT correctly matched?
 
-A. VOC – 1600
-B. EIC – 1602
-C. French – 1664
-D. Danish – 1498
+1. Safdar Jung — also served as Mughal Wazir
+2. Wajid Ali Shah — last Nawab of Awadh
+3. Saadat Khan — founder of Bengal Nawabi
 
-<details><summary>Show answer</summary>
+Select the correct answer from the code given below:
 
-**Logic:** The keyed fact is **French – 1664**.
+A. 1 only
+B. 3 only
+C. 1 and 2 only
+D. 2 and 3 only
 
-**Ans: C.**
+<details>
+<summary>Show answer</summary>
 
-**Trap:** Cross-check Confused Pairs table before finalising.
+**Ans: B.** Only pair 3 is not correctly matched.
 
-</details>
-
-**Q38.** 2023 trap: Hawkins came to India in 1611.
-
-A. True
-B. False
-C. True only as ambassador Roe
-D. True only for Fitch
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **False**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
+**Logic:** Saadat Khan founded Awadh; Murshid Quli is Bengal.
 
 </details>
 
----
+**Q30.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): An early European factory was a trading post with godowns and guards, not yet a full colony.
+
+Reason (R): Trade still needed Mughal farmans.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both A and R are true and R correctly explains why factories remained dependent on imperial grants.
+
+**A/R logic:** Factory ≠ colony; farman dependence is the explanation.
+
+</details>
 
 ## Common Traps — Don't Fall For These
 

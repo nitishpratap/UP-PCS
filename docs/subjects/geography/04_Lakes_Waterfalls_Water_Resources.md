@@ -3033,1209 +3033,610 @@ D. Madhya Pradesh > Gujarat > Telangana > Rajasthan > Andhra Pradesh
 
 ---
 
-## Practice Zone — UPPCS Format Questions
+## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden** — click *Show answer* under each question to reveal.
-> **Format mix:** 66 questions — asked PYQ patterns plus standard NCERT / dam-map angles
+> **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D
 
-**Q1.** With reference to lakes of India, which of the following statements is/are correct?
+**Q1.** With reference to lake origins, which of the following pairs is/are correctly matched?
 
-1. Wular is the largest freshwater lake in India.
-2. Sambhar is the largest inland saline lake in India.
-3. Chilika is a freshwater lake in Rajasthan.
+1. Wular — tectonic
+2. Chilika — lagoon
+3. Lonar — oxbow
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-
+A. 1 and 3 only
 B. 2 and 3 only
-
-C. 1 and 3 only
-
+C. 1 and 2 only
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — (1) and (2) correct. **(3) false:** Chilika is a coastal lagoon in **Odisha**, not a Rajasthan freshwater lake. **B/C/D** accept Chilika location/type trap.
+**Ans: C.** Statements 1 and 2 are correct.
+
+**Logic:** Lonar is a meteorite crater, not an oxbow; Kabartal is the oxbow Ramsar.
+
 </details>
 
-**Q2.** Which of the following is the largest lagoon lake situated on the east coast of India?
+**Q2.** Which of the following pairs is/are NOT correctly matched?
 
-A. Pulicat
+1. Sambhar — largest inland saline lake
+2. Chilika — largest east-coast lagoon
+3. Kolleru — lagoon king of India
 
-B. Chilka
-
-C. Kulleru
-
-D. Kilivali
+A. 1 only
+B. 3 only
+C. 1 and 2 only
+D. 2 and 3 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — UPPCS 2021 Q144. Pulicat is second. Kolleru is mainly freshwater deltaic. **A/C/D** are distractors.
+**Ans: B.** Pair 3 is wrong.
+
+**Logic:** Kolleru is mainly freshwater; Pulicat is the second major brackish lagoon.
+
 </details>
 
-**Q3.** Given below are two statements:
-**Assertion (A):** Keibul Lamjao National Park is located on Loktak Lake.
+**Q3.** Arrange the following waterfalls by the usual UPPCS teaching crowns:
 
-**Reason (R):** Loktak Lake is famous for floating biomass islands called phumdis.
+1. Jog — width fame on Sharavati
+2. Kunchikal — highest (Varahi)
+3. Shivanasamudra — volume on Cauvery
 
-Select the correct answer from the code given below:
+A. Shivanasamudra is on Sharavati
+B. Jog is highest; Kunchikal is width
+C. Only the associations 1, 2 and 3 as stated are correct
+D. Kunchikal is on Cauvery
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+<details>
+<summary>Show answer</summary>
 
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+**Ans: C.** All three associations as stated are the teaching crowns.
 
+**Logic:** Do not crown Jog as highest or swap rivers.
+
+</details>
+
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Vembanad is India’s overall largest lake.
+
+Reason (R): Vembanad is Kerala’s largest lake and India’s longest, a west-coast kayal/Ramsar.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Park sits on Loktak phumdis; floating vegetation explains the unique NP setting. **B** denies link. **C/D** falsify Loktak facts.
-</details>
-
-**Q4.** Which of the following is the highest waterfall in India?
-
-A. Jog fall
-
-B. Kunchikal fall
-
-C. Rakim Kund fall
-
-D. Kevti fall
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — UPPCS 2018 Q24. Jog is famous but shorter. **A** is the classic trap.
+**Ans: B.** (A) is false; (R) is true.
+
+**A/R logic:** Longest ≠ overall largest; Chilika often leads lagoon/saline framings.
+
 </details>
 
-**Q5.** Which of the following is NOT correctly matched?
+**Q5.** Match List-I with List-II:
 
-A. Hundru Waterfall — Subarnarekha
-
-B. Chachai Waterfall — Bihad River
-
-C. Dhuandhar Waterfall — Narmada
-
-D. Budha Ghagh — Kanchi River
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — UPPCS 2021 Q9: Chachai is not correctly paired with "Bihad." **A/C/D** treated as correct pairs in that paper.
-</details>
-
-**Q6.** Match List-I with List-II:
-
-| List-I (Waterfall) | List-II (Location) |
+| List-I | List-II |
 |---|---|
-| A. Dudhsagar | 1. Karnataka |
-| B. Barkana | 2. Odisha |
-| C. Khandadhar | 3. Himachal Pradesh |
-| D. Palani | 4. Goa |
+| A. Loktak | 1. Mystery / Skeleton Lake, Uttarakhand |
+| B. Roopkund | 2. Phumdis / Keibul Lamjao / Sangai |
+| C. Wular | 3. Largest-freshwater volume fact on Jhelum |
+| D. Kabartal | 4. Bihar oxbow Ramsar |
 
-A. 3 2 4 1
+*Row order is not the answer code.*
 
-B. 4 3 2 1
+Code:
 
-C. 1 2 3 4
-
-D. 4 1 2 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — UPPCS 2022 Q85: Dudhsagar-Goa, Barkana-Karnataka, Khandadhar-Odisha, Palani-HP.
-</details>
-
-**Q7.** Largest saline water lake in India is
-
-A. Chilka
-
-B. Sambhar
-
-C. Lonar
-
-D. Wular
+A. A-2, B-3, C-1, D-4
+B. A-1, B-2, C-3, D-4
+C. A-2, B-1, C-3, D-4
+D. A-3, B-1, C-2, D-4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — UPPCS 2021 Q74: Chilika as largest saline/brackish water body by area. **B** is largest **inland** saline — trap if the question omits "inland." **D** is freshwater.
+**Ans: C.** Loktak=Manipur phumdis; Roopkund=UK; Wular=size; Kabartal=oxbow.
+
+**Logic:** Do not put Keibul on Wular/Dal.
+
 </details>
 
-**Q8.** Match List-I with List-II:
+**Q6.** With reference to dams, which of the following statements is/are correct?
 
-| List-I (Lake) | List-II (Location) |
-|---|---|
-| A. Sala Lake | 1. Arunachal Pradesh |
-| B. Badkhal Lake | 2. Haryana |
-| C. Loktak Lake | 3. Manipur |
-| D. Kaliveli Lake | 4. Tamil Nadu |
+1. Bhakra–Nangal is on the Sutlej with Gobind Sagar.
+2. Tehri is a rock-fill dam on the Bhagirathi (with Bhilangana confluence).
+3. Ban Sagar is on the Narmada.
 
-A. 1 2 3 4
-
-B. 2 1 3 4
-
-C. 1 3 2 4
-
-D. 1 4 2 3
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — UPPCS 2020 Q56 exact order.
+**Ans: D.** Only 1 and 2 are correct.
+
+**Logic:** Ban Sagar is on the Son, not Narmada.
+
 </details>
 
-**Q9.** Which one of the following (Lake—Country) is NOT correctly matched?
+**Q7.** Which one of the following is correctly matched?
 
-A. Baikal — Russia
-
-B. Michigan — United States of America
-
-C. Onega — Canada
-
-D. Maracaibo — Venezuela
+A. Indira Sagar — Narmada, Gujarat
+B. Sardar Sarovar — Narmada, Madhya Pradesh
+C. Indira Sagar — Narmada, Madhya Pradesh
+D. Hirakud — Krishna, Odisha
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — UPPCS 2023 Q66: Onega is in **Russia**, not Canada.
+**Ans: C.** Indira Sagar (Narmada Sagar) is in Madhya Pradesh; SSP is in Gujarat.
+
+**Logic:** Hirakud is on the Mahanadi.
+
 </details>
 
-**Q10.** Which of the following pairs is/are NOT correctly matched?
-(Dam) — (River)
+**Q8.** With reference to India’s water budget teaching figures, which of the following statements is/are correct?
 
-1. Baglihar Dam — Chenab
-2. Pandoh Dam — Ravi
-3. Srisailam Dam — Tungabhadra
-
-A. 1 and 2
-
-B. Only 3
-
-C. 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — UPPCS 2025 Q92: Pandoh on Beas; Srisailam on Krishna.
-</details>
-
-**Q11.** Which one of the following pairs is not correctly matched regarding Ramganga Project?
-
-A. Dam's length – 825.8 metres
-
-B. Hydropower generation capacity – 198 MW
-
-C. Location – Garhwal (Uttarakhand)
-
-D. Irrigated area – 6 lakh hectares
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — UPPCS 2024 Q72: irrigation figure should be ~5.75–5.90 lakh ha.
-</details>
-
-**Q12.** With reference to hydroelectric power in Northern India, which of the following statements is/are correct?
-
-1. The Himalayan region has enormous hydroelectric potential.
-2. Eastern Uttar Pradesh and Bihar cannot utilize this potential because the Himalayas situated to their north lie within the territory of Nepal.
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Both 1 and 2
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — UPPCS 2025 Q31: both statements correct.
-</details>
-
-**Q13.** Which of the following Ramsar sites are NOT located in Uttar Pradesh?
-
-1. Sarsai Nawar Jheel 2. Samaspur Bird Sanctuary 3. Rudrasagar Lake 4. Sultanpur National Park
-
-A. 1 and 3
-
-B. 3 and 4
-
-C. 2 and 3
-
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — UPPCS 2025 Q58: Rudrasagar (Tripura) and Sultanpur (Haryana) not in UP.
-</details>
-
-**Q14.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
-
-**Assertion (A):** Jog Falls is the highest waterfall in India.
-
-**Reason (R):** Jog Falls is formed by the Sharavati river in Karnataka.
-
-A. Both (A) and (R) are true and (R) explains (A)
-
-B. Both (A) and (R) are true, but (R) does not explain (A)
-
-C. (A) is false, but (R) is true
-
-D. (A) is true, but (R) is false
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Jog is on Sharavati (R true) but **Kunchikal** is higher (A false).
-</details>
-
-**Q15.** Which of the following lakes is a crater lake formed by a meteorite impact?
-
-A. Wular
-
-B. Sambhar
-
-C. Lonar
-
-D. Chilika
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Lonar, Maharashtra. Others are tectonic/fluvial/lagoon/inland saline.
-</details>
-
-**Q16.** Match the following:
-
-| Project | River |
-|---|---|
-| A. Hirakud | 1. Sutlej |
-| B. Bhakra | 2. Mahanadi |
-| C. Sardar Sarovar | 3. Narmada |
-| D. Tehri | 4. Bhagirathi |
-
-A. 2 1 3 4
-
-B. 1 2 3 4
-
-C. 2 1 4 3
-
-D. 3 1 2 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Hirakud-Mahanadi, Bhakra-Sutlej, SSP-Narmada, Tehri-Bhagirathi.
-</details>
-
-**Q17.** Which hydropower plant in Bhutan was inaugurated in association with Indian Prime Minister Narendra Modi's visit context (2019 PYQ)?
-
-A. Chhukhu Power Plant
-
-B. Dagachhu Power Plant
-
-C. Kurichha Power Plant
-
-D. Mungdechhu Power Plant
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Mangdechhu / Mungdechhu. **A/B/C** are other Bhutan projects/distractors.
-</details>
-
-**Q18.** With reference to Chilika and Sambhar, which of the following statements is/are correct?
-
-1. Chilika is a coastal lagoon in Odisha.
-2. Sambhar is the largest inland saline lake in Rajasthan.
-3. Both are Ramsar sites.
+1. Precipitation ~4000 BCM; available ~1869 BCM; utilisable ~1122 BCM.
+2. Irrigation takes about 89% of surface water use and about 92% of groundwater use.
+3. India has more than 17% of world people and about 4% of water.
 
 A. 1 and 2 only
-
 B. 2 and 3 only
-
 C. 1 and 3 only
-
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — All three correct. Core lake-type comparison.
-</details>
+**Ans: D.** All three are correct.
 
-**Q19.** Which one of the following pairs is correctly matched?
-
-A. Nagarjuna Sagar — Godavari
-
-B. Hirakud — Krishna
-
-C. Tehri — Bhagirathi
-
-D. Pandoh — Ravi
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Tehri on Bhagirathi. Nagarjuna Sagar = Krishna; Hirakud = Mahanadi; Pandoh = Beas.
-</details>
-
-**Q20.** Consider the following statements about Indira Gandhi Canal:
-
-1. It is the longest canal in India.
-2. It carries water to western Rajasthan from Himalayan river systems.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Both standard canal associations.
-</details>
-
-**Q21.** Which of the following is a freshwater lake?
-
-A. Sambhar
-
-B. Lonar
-
-C. Wular
-
-D. Chilika
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Wular. Others saline/brackish.
-</details>
-
-**Q22.** Given below are two statements:
-**Assertion (A):** Dudhsagar waterfall is located in Goa.
-
-**Reason (R):** Dudhsagar is formed on the Mandovi river.
-
-A. Both true, R explains A
-
-B. Both true, R does not explain A
-
-C. A true, R false
-
-D. A false, R true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Location and river both correct; Mandovi course through Goa explains Goa attribution.
-</details>
-
-**Q23.** Which of the following projects is associated with Wular Lake / Jhelum?
-
-A. Tehri
-
-B. Tulbul
-
-C. Ramganga
-
-D. Baglihar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Tulbul Navigation Project. Baglihar = Chenab; Tehri = Bhagirathi.
-</details>
-
-**Q24.** Which one of the following waterfalls is on the Narmada river?
-
-A. Hundru
-
-B. Jog
-
-C. Dhuandhar
-
-D. Dudhsagar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Dhuandhar at Bhedaghat. Hundru = Subarnarekha; Jog = Sharavati.
-</details>
-
-**Q25.** With reference to multipurpose river valley projects, which of the following pairs is/are correctly matched?
-
-1. Hirakud — flood control in Mahanadi delta
-2. Bhakra — irrigation in Punjab–Haryana
-3. Sardar Sarovar — Narmada
-
-A. 1 and 2 only
-
-B. 2 and 3 only
-
-C. 1 and 3 only
-
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — All correct multipurpose associations.
-</details>
-
-**Q26.** Lonar Lake is situated in which state?
-
-A. Rajasthan
-
-B. Odisha
-
-C. Maharashtra
-
-D. Madhya Pradesh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Buldhana district crater lake.
-</details>
-
-**Q27.** Which of the following statements about Vembanad Lake is/are correct?
-
-1. It lies on the west coast of India in Kerala.
-2. It is the longest lake in India and the largest lake in Kerala.
-3. It is an inland saline desert lake like Sambhar.
-
-A. 1 and 2 only
-
-B. 2 and 3 only
-
-C. 1 and 3 only
-
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** West-coast kayal vs inland saline; longest-in-India ≠ overall largest lake of every type.
-
-**Ans: A** — (1) and (2) true. (3) false: Vembanad is a **west-coast** brackish backwater / kayal (Ramsar), not a Rajasthan inland salt lake. Chilika/Wular remain type-wise size kings for lagoon/freshwater questions.
-</details>
-
-**Q28.** Match the following:
-
-| Canal | Region |
-|---|---|
-| A. Indira Gandhi Canal | 1. Western UP |
-| B. Upper Ganga Canal | 2. Western Rajasthan |
-| C. Agra Canal | 3. Agra–Mathura tract |
-
-A. 2 1 3
-
-B. 1 2 3
-
-C. 2 3 1
-
-D. 3 1 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — IGC-Rajasthan, Upper Ganga-W UP, Agra Canal-Agra–Mathura.
-</details>
-
-**Q29.** Which of the following is NOT a lagoon / coastal lake?
-
-A. Chilika
-
-B. Pulicat
-
-C. Sambhar
-
-D. Vembanad
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Sambhar is inland saline. Chilika, Pulicat, Vembanad are coastal lagoon/backwater systems.
-</details>
-
-**Q30.** Given below are two statements:
-
-1. Nagarjuna Sagar dam is built on the Krishna river.
-2. Srisailam dam is built on the Tungabhadra river.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — (2) false: Srisailam on **Krishna**.
-</details>
-
-**Q31.** Which waterfall is correctly paired with its river?
-
-A. Jog — Narmada
-
-B. Hundru — Sharavati
-
-C. Kunchikal — Varahi
-
-D. Dhuandhar — Subarnarekha
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Kunchikal on Varahi. Jog = Sharavati; Hundru = Subarnarekha; Dhuandhar = Narmada.
-</details>
-
-**Q32.** Consider the following lakes:
-
-1. Dal 2. Wular 3. Loktak
-Which of the above is/are in Jammu & Kashmir?
-
-A. 1 and 2 only
-
-B. 2 and 3 only
-
-C. 1 and 3 only
-
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Loktak is in Manipur.
-</details>
-
-**Q33.** Assertion (A): Hirakud is one of the longest mainstream dams in the world.
-Reason (R): Hirakud is constructed on the Godavari river in Odisha.
-
-A. Both true, R explains A
-
-B. Both true, R does not explain A
-
-C. A true, R false
-
-D. A false, R true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Length claim OK; river is **Mahanadi**, not Godavari.
-</details>
-
-**Q34.** Which of the following artificial lakes / reservoirs is associated with Bhakra Dam?
-
-A. Gobind Sagar
-
-B. Govind Ballabh Pant Sagar
-
-C. Indira Sagar
-
-D. Tehri Lake
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Gobind Sagar. Pant Sagar = Rihand; Indira Sagar = Narmada; Tehri Lake = Bhagirathi.
-</details>
-
-**Q35.** Pulicat Lake lies between which of the following?
-
-A. Odisha and West Bengal
-
-B. Andhra Pradesh and Tamil Nadu
-
-C. Kerala and Karnataka
-
-D. Gujarat and Maharashtra
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Classic Pulicat location.
-</details>
-
-**Q36.** Which of the following statements is/are correct about Tehri Dam?
-
-1. It is built on the Bhagirathi river.
-2. It is located in Uttarakhand.
-3. It is a rock-fill / earth-rock type dam.
-
-A. 1 and 2 only
-
-B. 2 and 3 only
-
-C. 1 and 3 only
-
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — All correct.
-</details>
-
-**Q37.** Arrange the following waterfalls roughly from highest to lowest height:
-
-1. Kunchikal 2. Jog 3. Hundru
-
-A. 1-2-3
-
-B. 2-1-3
-
-C. 1-3-2
-
-D. 2-3-1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Kunchikal (~455) > Jog (~253) > Hundru (~98).
-</details>
-
-**Q38.** Which of the following is a multipurpose project on the Narmada?
-
-A. Hirakud
-
-B. Sardar Sarovar
-
-C. Bhakra
-
-D. Nagarjuna Sagar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — SSP. Others on Mahanadi, Sutlej, Krishna.
-</details>
-
-**Q39.** Badkhal Lake is located in:
-
-A. Haryana
-
-B. Punjab
-
-C. Rajasthan
-
-D. Uttarakhand
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — UPPCS 2020 match (Faridabad region).
-</details>
-
-**Q40.** With reference to India–Bhutan hydropower cooperation, which of the following is/are correct?
-
-1. Bhutan exports hydropower to India.
-2. Chukha and Tala are important cooperative projects.
-3. All Bhutan hydro projects are on the Narmada river.
-
-A. 1 and 2 only
-
-B. 2 and 3 only
-
-C. 1 and 3 only
-
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — (3) absurd; Bhutan rivers feed Brahmaputra system, not Narmada.
-</details>
-
-**Q41.** Which lake is known for salt production in Rajasthan?
-
-A. Wular
-
-B. Chilika
-
-C. Sambhar
-
-D. Loktak
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Sambhar salt.
-</details>
-
-**Q42.** Assertion (A): Eastern Uttar Pradesh has limited ability to develop Himalayan hydro projects within its own territory.
-Reason (R): The Himalayan ranges immediately north of eastern UP lie largely in Nepal.
-
-A. Both true, R explains A
-
-B. Both true, R does not explain A
-
-C. A true R false
-
-D. A false R true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — UPPCS 2025 Q31 logic.
-</details>
-
-**Q43.** Which of the following falls is in Odisha?
-
-A. Barkana
-
-B. Khandadhar
-
-C. Jog
-
-D. Dudhsagar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Khandadhar. Barkana/Jog Karnataka; Dudhsagar Goa.
-</details>
-
-**Q44.** Nagarjuna Sagar Dam serves which river basin?
-
-A. Godavari
-
-B. Krishna
-
-C. Mahanadi
-
-D. Cauvery
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Nagarjuna Sagar is on the Krishna, not the Godavari, Mahanadi, or Cauvery.
-</details>
-
-**Q45.** Ox-bow lakes in the Indian plains are most typical of which setting?
-
-A. Thar Desert salt pans
-
-B. Ganga plain meander belt
-
-C. Ladakh glacial trough only
-
-D. Western Ghats escarpment
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Cut-off meanders in alluvial plains of UP/Bihar. Thar hosts salt pans; Ladakh glacial lakes are a different origin; Ghats are waterfall/escarpment country.
-</details>
-
-**Q46.** Farakka Barrage is associated with which river?
-
-A. Yamuna
-
-B. Ganga
-
-C. Brahmaputra
-
-D. Son
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Diversion to Hooghly.
-</details>
-
-**Q47.** Which pair is correctly matched?
-
-A. Renuka Lake — Rajasthan
-
-B. Dal Lake — Manipur
-
-C. Loktak — Manipur
-
-D. Chilika — Kerala
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Renuka = HP; Dal = J&K; Chilika = Odisha.
-</details>
-
-**Q48.** Consider the following statements:
-
-1. Upper Ganga Canal originates near Haridwar.
-2. Sharda Sahayak canal system irrigates parts of eastern UP.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Upper Ganga Canal offtake near Haridwar irrigates western UP; Sharda Sahayak serves eastern/central UP.
-</details>
-
-**Q49.** Which waterfall is frequently cited among Meghalaya's highest plunges?
-
-A. Jog
-
-B. Nohkalikai
-
-C. Hundru
-
-D. Gokak
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Nohkalikai near Cherrapunji belt.
-</details>
-
-**Q50.** Which one of the following sequences of project–river is correct?
-
-A. Tehri–Alaknanda; Hirakud–Godavari; Bhakra–Beas
-
-B. Tehri–Bhagirathi; Hirakud–Mahanadi; Bhakra–Sutlej
-
-C. Tehri–Bhagirathi; Hirakud–Krishna; Bhakra–Sutlej
-
-D. Tehri–Ganga main; Hirakud–Mahanadi; Bhakra–Ravi
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Standard correct triad.
-</details>
-
-**Q51.** With reference to India’s water resources as given in NCERT, which of the following statements is/are correct?
-
-1. India has about 4 per cent of the world’s water resources and more than 17 per cent of the world’s population.
-2. The Ganga, Brahmaputra and Barak basins together hold about 60 per cent of India’s surface water resources.
-3. Industry uses a larger share of India’s groundwater than agriculture.
-
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-
-B. 2 and 3 only
-
-C. 1 and 3 only
-
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — (1) and (2) are NCERT facts. **(3) fails:** agriculture uses about **92%** of groundwater withdrawn.
+**Logic:** Ganga–Brahmaputra–Barak ~1/3 area but ~60% surface water.
 
 </details>
 
-**Q52.** Which one of the following south Indian states has the highest utilisation of its groundwater potential, as taught in NCERT Class 12?
+**Q9.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Kerala
+Assertion (A): A dam stores water whereas a barrage mainly diverts it.
 
-B. Karnataka
+Reason (R): Farakka (1975) is a classic diversion barrage toward the Hooghly, not a storage dam.
 
-C. Andhra Pradesh
-
-D. Tamil Nadu
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — NCERT exercise fact. Kerala is a low-utilisation contrast.
-
-</details>
-
-**Q53.** Which of the following pairs is/are correctly matched?
-
-| Waterfall | River |
-|-----------|-------|
-| 1. Kapildhara | Godavari |
-| 2. Jog | Sharavati |
-| 3. Shivanasamudra | Cauvery |
-
-A. 1 and 2 only
-
-B. 2 and 3 only
-
-C. 1 and 3 only
-
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — UPSC 2008 pattern. Kapildhara is on the **Narmada**, not the Godavari. Jog is Sharavati. Shivanasamudra is Cauvery.
-
-</details>
-
-**Q54.** Given below are two statements:
-
-**Assertion (A):** Jog Falls is not on the Cauvery.
-
-**Reason (R):** The Sharavati is a west-flowing river of Karnataka that meets the Arabian Sea.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Jog is on Sharavati. West-flow to Honnavar is why it cannot be a Cauvery tributary.
-
-</details>
-
-**Q55.** Which of the following superlatives is correctly matched?
-
-A. Tallest dam in India — Hirakud
-
-B. Longest earthen dam narrative — Tehri
-
-C. Largest reservoir by volume (usual fact) — Indira Sagar
-
-D. Highest waterfall in India — Jog
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Tehri is tallest. Hirakud is the long earthen dam. Jog is famous, not highest.
+**Ans: D.** Both true and R exemplifies A.
+
+**A/R logic:** Storage vs diversion is the dam/barrage distinction.
 
 </details>
 
-**Q56.** Idukki Dam is
+**Q10.** Match List-I with List-II (waterfall–river):
 
-A. a gravity dam on the Cauvery in Tamil Nadu
+| List-I | List-II |
+|---|---|
+| A. Hundru | 1. Indravati |
+| B. Dhuandhar | 2. Subarnarekha |
+| C. Chitrakote | 3. Narmada at Bhedaghat |
+| D. Kapildhara | 4. Narmada (not Godavari) |
 
-B. a double-curvature arch dam on the Periyar in Kerala
+*Row order is not the answer code.*
 
-C. a rock-fill dam on the Bhagirathi in Uttarakhand
+Code:
 
-D. an earthen dam on the Mahanadi in Odisha
+A. A-2, B-1, C-3, D-4
+B. A-3, B-2, C-1, D-4
+C. A-2, B-3, C-1, D-4
+D. A-1, B-3, C-2, D-4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Between the Kuravan and Kurathi hills. **C** is Tehri. **D** is Hirakud.
+**Ans: C.** Hundru=Subarnarekha; Dhuandhar=Narmada; Chitrakote=Indravati; Kapildhara=Narmada.
+
+**Logic:** Lodh/Budha Ghagh is on Burha (JH highest), not Kanchi.
 
 </details>
 
-**Q57.** With reference to Atal Bhujal Yojana, which of the following statements is/are correct?
+**Q11.** Which of the following pairs is/are NOT correctly matched?
 
-1. Uttar Pradesh is among the states covered.
-2. The scheme targets water-stressed gram panchayats rather than a single national canal.
+1. Chachai — Bihad (correct pair)
+2. Dudhsagar — Goa (Mandovi)
+3. Lodh — Burha, Jharkhand’s highest
 
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
+A. 2 and 3 only
+B. 2 only
+C. 1 and 3 only
+D. 1 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Seven states including UP. It is a groundwater-behaviour scheme, not IGC.
+**Ans: D.** Pair 1 is a wrong association treated as if correct.
+
+**Logic:** Chachai–Bihad is a wrong pair in teaching traps.
 
 </details>
 
-**Q58.** Consider the following statements about National Water Policy, 2012:
+**Q12.** With reference to irrigation sources (2018–19 provisional), which of the following statements is/are correct?
 
-1. Safe drinking water and sanitation are treated as pre-emptive needs.
-2. After those needs, water may be treated as an economic good to promote conservation.
+1. Tubewells ~48.5%; canals ~23%; tanks ~2.3%.
+2. Wells + tubewells together ~64%.
+3. Canals alone are the dominant national irrigation source.
 
-Which of the statements given above is/are correct?
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — NCERT highlights of NWP 2012.
+**Ans: C.** Only 1 and 2 are correct.
+
+**Logic:** Wells/tubewells — not canals alone — dominate nationally.
 
 </details>
 
-**Q59.** Which one of the following is a traditional rainwater-harvesting structure of Rajasthan?
+**Q13.** Arrange irrigation project classes by CCA:
 
-A. Phumdi
+1. Major — above 10,000 ha
+2. Minor — up to 2,000 ha
+3. Medium — 2,000–10,000 ha
 
-B. Kund / tanka
-
-C. Dun
-
-D. Karewa
+A. Only major and minor exist
+B. 1, then 2, then 3
+C. 3, then 2, then 1
+D. 2, then 3, then 1 as thresholds rise
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Covered underground tank. Phumdis are Loktak mats. Dun is a Himalayan valley. Karewa is Kashmiri lake deposit.
+**Ans: D.** Minor ≤2000 → medium 2000–10000 → major >10000.
+
+**Logic:** Minor creates ~62% of irrigation potential.
 
 </details>
 
-**Q60.** Koyna Dam is frequently cited in geography because
+**Q14.** With reference to canals and projects, which of the following statements is/are correct?
 
-A. it is India’s tallest dam
+1. Indira Gandhi Canal is India’s longest canal (Harike Barrage waters).
+2. Upper Ganga Canal offtake is at Bhimgoda/Haridwar; Lower at Narora.
+3. Telugu Ganga takes Krishna water to Bengaluru.
 
-B. it is a classic case of reservoir-induced seismicity (1967)
-
-C. it stands on the Periyar in Kerala
-
-D. it is the Indus Waters Treaty storage on the Jhelum
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Koyna is on the Koyna (Krishna system) in Maharashtra. **A** is Tehri. **C** is Idukki. **D** is Tulbul-type confusion.
+**Ans: C.** Statements 1 and 2 are correct.
+
+**Logic:** Telugu Ganga supplies Chennai, not Bengaluru.
 
 </details>
 
-**Q61.** Which one of the following pairs is correctly matched?
+**Q15.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Jog Falls — largest by volume
+Assertion (A): DVC (1948) is the first multipurpose valley project of independent India.
 
-B. Shivanasamudra — Cauvery; largest by volume
+Reason (R): Damodar is called the Sorrow of Bengal.
 
-C. Kunchikal — Sharavati
-
-D. Chitrakote — Narmada
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Separate width / volume / height crowns; river–fall pairs.
+**Ans: A.** Both true; R motivates the project historically but the ‘first multipurpose’ status is a separate institutional fact.
 
-**Ans: B** — Shivanasamudra on the **Cauvery** is the volume king. Jog is width / renown on Sharavati. Kunchikal is on Varahi. Chitrakote is on Indravati.
+**A/R logic:** Keep DVC year 1948; sorrow title alone does not define ‘first’.
+
 </details>
 
-**Q62.** Which one of the following is called the ‘Mystery Lake’?
+**Q16.** Which one of the following hydro chronology is correct?
 
-A. Renuka
-
-B. Ghepan
-
-C. Roopkund
-
-D. Nako
+A. Shivasamudram (1902) is India’s oldest hydro
+B. Sidrapong (Darjeeling, 1897) is oldest; Shivasamudram (1902) second
+C. Bhakra is older than Sidrapong
+D. Koyna (1967 seismicity) is the oldest hydro
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Skeleton / mystery tag is Roopkund in Uttarakhand, not HP lakes.
+**Ans: B.** Sidrapong 1897 oldest; Shivasamudram 1902 second.
 
-**Ans: C** — Roopkund is the glacial Mystery / Skeleton Lake in Uttarakhand. Renuka, Ghepan and Nako are Himachal lakes.
+**Logic:** Do not crown Shivasamudram as oldest.
+
 </details>
 
-**Q63.** Which one of the following is **not** a lagoon?
+**Q17.** With reference to Ramsar and UP lakes, which of the following statements is/are correct?
 
-A. Ashtamudi
+1. India has 100 Ramsar sites; Uttar Pradesh has 13.
+2. Surha Tal / JP Narayan Bird Sanctuary, Ballia is the 100th site.
+3. Rudrasagar and Sultanpur are Uttar Pradesh Ramsars.
 
-B. Chilika
-
-C. Periyar Lake
-
-D. Pulicat
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Artificial reservoir vs bar-separated coastal lagoon / kayal.
+**Ans: A.** Only 1 and 2 are correct.
 
-**Ans: C** — Periyar Lake is artificial. Ashtamudi, Chilika and Pulicat are lagoon / backwater systems.
+**Logic:** Rudrasagar=Tripura; Sultanpur=Haryana; Surinsar–Mansar=J&K.
+
 </details>
 
-**Q64.** Lodh (Budha Ghagh) Falls are on which river?
+**Q18.** Match List-I with List-II:
 
-A. Subarnarekha
+| List-I | List-II |
+|---|---|
+| A. Nagarjuna Sagar | 1. Beas |
+| B. Baglihar / Dulhasti | 2. Krishna |
+| C. Pandoh / Pong | 3. Chenab |
+| D. Tulbul | 4. Jhelum / Wular |
 
-B. Kanchi
+*Row order is not the answer code.*
 
-C. Burha
+Code:
 
-D. Barakar
+A. A-2, B-3, C-1, D-4
+B. A-3, B-2, C-1, D-4
+C. A-2, B-1, C-3, D-4
+D. A-1, B-3, C-2, D-4
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Jharkhand highest fall river fact — Burha, not Hundru’s Subarnarekha or Kanchi/Barakar traps.
+**Ans: A.** Nagarjuna/Srisailam=Krishna; Baglihar=Chenab; Pandoh/Pong=Beas; Tulbul=Jhelum/Wular.
 
-**Ans: C** — Lodh / Budha Ghagh (Latehar) is on the **Burha**. Hundru is Subarnarekha; Dasam is often paired with Kanchi.
+**Logic:** Standard dam–river confused pairs.
+
 </details>
 
-**Q65.** Fulhar / Phulhar Lake, the source of the Gomti, is in:
+**Q19.** Which of the following statements about Lonar is/are correct?
 
-A. Uttarakhand
+1. Lonar is a meteorite crater in Maharashtra basalt.
+2. It is a volcanic caldera like many Deccan lakes.
+3. It is not a tectonic basin like Wular.
 
-B. Madhya Pradesh
-
-C. Uttar Pradesh
-
-D. Jammu and Kashmir
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Gomti plains-origin source lake = Pilibhit, UP.
+**Ans: B.** Statements 1 and 3 are correct.
 
-**Ans: C** — Phulhar / Gomat Taal near Madho Tanda, **Pilibhit**, Uttar Pradesh.
+**Logic:** Not volcanic caldera; not tectonic like Wular.
+
 </details>
 
-**Q66.** With reference to Indian saline lakes, Didwana, Kuchaman, Sargol and Khatu are names of:
+**Q20.** With reference to Cauvery dispute and Chambal chain, which of the following statements is/are correct?
 
-A. glaciers
+1. Cauvery parties are TN–KA–KL–Puducherry.
+2. Chambal chain includes Gandhi Sagar (MP) and Rana Pratap / Jawahar Sagar (RJ).
+3. Cauvery parties include Gujarat.
 
-B. mangrove areas
-
-C. Ramsar sites only
-
-D. saline lakes
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** UPSC 2021 name-set — Rajasthan saline / playa lakes, not glaciers or mangroves.
+**Ans: A.** Only 1 and 2 are correct.
 
-**Ans: D** — They are saline lakes of the Rajasthan belt (with Sambhar as the inland king).
+**Logic:** Do not add Gujarat to Cauvery parties.
+
 </details>
 
----
+**Q21.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): National Water Policy 2012 puts drinking water first.
+
+Reason (R): PMKSY means har khet plus more crop per drop; Atal Jal covers seven states including Uttar Pradesh.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; R is related water-policy context but not the explanation of NWP’s drinking-first priority.
+
+**A/R logic:** Keep NWP priority distinct from PMKSY/Atal Jal scheme facts.
+
+</details>
+
+**Q22.** Which of the following pairs is correctly matched?
+
+A. Hokera — Punjab
+B. Sasthamkotta — Kerala
+C. Renuka — Uttarakhand
+D. Yaya Tso — Assam
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Sasthamkotta is Kerala; Hokera is J&K; Renuka is Himachal; Yaya Tso is Ladakh.
+
+**Logic:** State–lake traps from Must-Score.
+
+</details>
+
+**Q23.** With reference to river linking ideas, which of the following statements is/are correct?
+
+1. Garland Canal idea is tagged to Captain Dinshaw J. Dastur.
+2. First river-linking thought often tagged to M. Visvesvaraya; later K.L. Rao.
+3. Hariyali (27 Jan 2003) is a watershed / rural water storage programme.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are correct.
+
+**Logic:** PMKSY approved 1 July 2015 — separate date fact.
+
+</details>
+
+**Q24.** Which of the following statements about groundwater and peninsula irrigation is/are correct?
+
+1. Groundwater now covers more than 60% of irrigated area.
+2. Peninsula irrigation classic is tanks/ponds on hard rock + seasonal rivers.
+3. Among major states, Gujarat leads available groundwater for irrigation.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** UP leads groundwater resources available for irrigation among major states.
+
+</details>
+
+**Q25.** Arrange India’s lake size teaching trap (descending) for Superior, Victoria, Michigan, Chilika:
+
+A. Victoria > Superior > Michigan > Chilika
+B. Superior > Victoria > Michigan > Chilika
+C. Michigan > Superior > Victoria > Chilika
+D. Chilika > Michigan > Superior > Victoria
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Superior > Victoria > Michigan >> Chilika.
+
+**Logic:** Victoria-first is the tropical-lake trap.
+
+</details>
+
+**Q26.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Narmada Bachao Andolan / Medha Patkar opposed Sardar Sarovar height.
+
+Reason (R): Narmada plan scale is often taught as about 30 major / 135 medium / 3000 small.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; R is plan-scale context, not the direct explanation of NBA’s SSP focus.
+
+**A/R logic:** NBA tag is SSP height; plan numbers are separate.
+
+</details>
+
+**Q27.** With reference to Pulicat and Kayal, which of the following statements is/are correct?
+
+1. Pulicat is a major brackish lagoon (AP–TN) with Sriharikota bar.
+2. Kayal means a Kerala coastal lagoon/backwater.
+3. Wular is a classic kayal.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Do not call Wular a kayal.
+
+</details>
+
+**Q28.** Which of the following pairs is/are NOT correctly matched?
+
+1. Onega / Ladoga — Russia
+2. Michigan — USA only
+3. Onega / Ladoga — Canada
+
+A. 1 only
+B. 3 only
+C. 1 and 2 only
+D. 2 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Pair 3 is wrong.
+
+**Logic:** Onega and Ladoga are Russian lakes, not Canadian.
+
+</details>
+
+**Q29.** With reference to India–Bhutan hydro and eastern UP hydropower, which of the following statements is/are correct?
+
+1. India–Bhutan hydro names include Chukha, Tala, Kurichhu and Mangdechhu.
+2. Eastern UP and Bihar cannot tap Himalayan ranges to their north because those ranges lie in Nepal.
+3. Gobind Sagar is on Rihand in Sonbhadra.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Statements 1 and 2 are correct.
+
+**Logic:** Gobind Sagar = Bhakra/Sutlej; Pant Sagar = Rihand/Sonbhadra.
+
+</details>
+
+**Q30.** Which one of the following is correct about oxbow vs lagoon?
+
+A. Chilika is an oxbow on the Odisha coast
+B. Oxbow lakes are cut-off meanders; lagoons are barred coastal water bodies
+C. Kabartal is a lagoon in Bihar
+D. Lonar is an oxbow in Maharashtra
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Oxbow = cut-off meander; lagoon = barred coastal body — Chilika is a lagoon.
+
+**Logic:** Kabartal oxbow; Lonar crater.
+
+</details>
 
 ## Common Traps — Don't Fall For These
 

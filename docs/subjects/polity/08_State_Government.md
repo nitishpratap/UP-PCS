@@ -3502,611 +3502,514 @@ D. 1, 2, 3 and 4
 
 ## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden.** Full stems (not cryptic stubs). **40 questions in UPPCS / RO-ARO 2024–25 format.** ≥60% multi-statement/application.
+> **Answers hidden.** **30 questions** in UPPCS 2024–25 format. ≥60% multi-statement/application. Includes A/R, Match List, chronology/arrange, and NOT-matched. Drawn from Consolidated Must-Score Facts and Confused Pairs — original stems, not verbatim past papers.
 
-**Q1.** Consider the following statements about the Governor:
-1. There shall be a Governor for each State.
-2. The same person cannot be appointed Governor of two or more States.
-How many of the above statements are correct?
-A. Only one
-B. Only two
-C. Both
-D. None
+**Q1.** With reference to the Governor, consider the following statements:
+1. Article 155 provides for appointment by the President.
+2. Article 156 deals with tenure during the pleasure of the President.
+3. Article 155 itself provides the impeachment procedure for Governors.
 
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — only 1; the 7th Amendment **allows** one person for two or more States.
-
-</details>
-
-**Q2.** Which of the following pairs are **NOT** correctly matched?
-1. Article 153 — Office of Governor
-2. Article 155 — Removal of Governor
-3. Article 156 — Term of office of Governor
-Select the correct answer using the code given below:
-A. Only 2
-B. 1 and 2
-C. 2 and 3
-D. Only 1
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — 155 is **appointment**.
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** 155 ≠ removal; no impeachment of Governor — pleasure under 156.
 
 </details>
 
-**Q3.Assertion (A):** The Governor holds office during the pleasure of the President.
+**Q2.** Consider the following Assertion and Reason:
 
-**Reason (R):** There is no impeachment procedure for the Governor in the Constitution.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+Assertion (A): The same person may be appointed Governor of two or more States.
+
+Reason (R): The 7th Amendment proviso to Article 153 enables one person to be Governor of two or more States.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A).
+
+**A/R logic:** Article 153 proviso is the constitutional basis.
 
 </details>
 
-**Q4.** Match List-I with List-II and select the correct answer using the code given below the lists:
+**Q3.** Match List-I with List-II:
 
 **List-I**
 
 | Code | Item |
 |------|------|
 | A | Article 154 |
-| B | Article 157 |
-| C | Article 158 |
-| D | Article 162 |
+| B | Article 162 |
+| C | Article 163 |
+| D | Article 200 |
 
 **List-II**
 
 | Code | Item |
 |------|------|
-| 1 | Extent of executive power of the State |
-| 2 | Executive power of the State |
-| 3 | Qualifications of Governor |
-| 4 | Conditions of Governor’s office |
+| 1 | Extent of executive power of State |
+| 2 | Vesting of executive power in Governor |
+| 3 | Reservation of Bills for the President |
+| 4 | Aid and advice / discretion |
 
 > Note: Row order in the tables is **not** the answer.
 
-Select the correct answer using the code given below:
-A. A-2, B-3, C-4, D-1
-B. A-2, B-3, C-1, D-4
-C. A-1, B-3, C-4, D-2
-D. A-2, B-4, C-3, D-1
+A. A-1, B-2, C-4, D-3
+B. A-2, B-4, C-1, D-3
+C. A-2, B-1, C-4, D-3
+D. A-2, B-1, C-3, D-4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: C.** A-2, B-1, C-4, D-3 is correct.
+
+**Logic:** 154 vesting vs 162 extent is a classic pair.
 
 </details>
 
-**Q5.** With reference to the Governor’s oath, which of the following is/are correct?
-1. It is administered by the Chief Justice of the High Court of the State.
-2. In his absence, it is administered by the Chief Justice of India.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
+**Q4.** Which of the following pairs is NOT correctly matched?
+A. Governor’s pardon — Article 161
+B. President’s death-sentence pardon — Article 72
+C. Governor cannot pardon death sentence
+D. Governor’s pardon covers court-martial sentences
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — in the CJ’s absence, the **senior-most HC judge**, not the CJI.
+**Ans: D.** Court-martial and death sentence stay with the President under Article 72.
+
+**Logic:** 161 does not cover death / court-martial.
 
 </details>
 
-**Q6.** How many of the following are qualifications for the office of Governor?
-1. Citizen of India
-2. Completed 35 years
-3. Qualified to be a member of the Rajya Sabha
-A. Only one
-B. Only two
-C. All three
-D. None
+**Q5.** Arrange the following State executive articles in ascending order:
+1. Article 153 (Governor)
+2. Article 163 (aid and advice / discretion)
+3. Article 165 (Advocate General)
+4. Article 213 (Governor’s ordinance)
+
+A. 1 – 2 – 3 – 4
+B. 1 – 3 – 2 – 4
+C. 2 – 1 – 3 – 4
+D. 1 – 2 – 4 – 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — 1 and 2; there is **no** RS/LS membership qualification (unlike the President/VP).
+**Ans: A.** 153 → 163 → 165 → 213.
+
+**Logic:** Part VI executive spine.
 
 </details>
 
-**Q7.** With reference to Article 163, which of the following statements is/are correct?
-1. The Governor is generally aided and advised by the Council of Ministers.
-2. The Governor’s decision whether a matter is discretionary is final.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
+**Q6.** With reference to Articles 200 and 201, which of the following is/are correct?
+1. Under Article 200 the Governor may reserve a Bill for the President.
+2. If a reserved Bill is returned and the State re-passes it, the President is still not bound to assent.
+3. After re-passage under Article 200, the Governor is in the same absolute free position as the President under Article 201.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** Governor’s post-repassage path differs from President’s continuing freedom under 201.
 
 </details>
 
-**Q8.Assertion (A):** A Council of Ministers that enjoys a majority in the Legislative Assembly cannot be dismissed by the Governor.
+**Q7.** Consider the following statements about State Council of Ministers:
+1. Collective responsibility is to the Legislative Assembly only.
+2. Maximum size is 15% of the Assembly under the 91st Amendment.
+3. Minimum strength is 12 ministers including the Chief Minister.
 
-**Reason (R):** *S.R. Bommai* held that majority must be tested on the floor of the House.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All three statements are correct.
+
+**Logic:** 15% cap with floor of 12 is the 91st State fact.
+
+</details>
+
+**Q8.** Consider the following Assertion and Reason:
+
+Assertion (A): A Legislative Council can be dissolved by the Governor like the Assembly.
+
+Reason (R): A Legislative Council can be abolished under Article 169 but is never dissolved.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** (A) is false, but (R) is true.
+
+**A/R logic:** Abolition ≠ dissolution for LC.
 
 </details>
 
-**Q9.** Which of the following are instances of the Governor’s **situational** discretion?
-1. Appointing a Chief Minister in a hung Assembly
-2. Reserving a Bill for the President under Article 200
-3. Dismissing a ministry that has lost the floor test but refuses to resign
-How many of the above are correct?
-A. Only one
-B. Only two
-C. All three
-D. None
+**Q9.** With reference to Legislative Council composition, which of the following is/are correct?
+1. Maximum strength is one-third of the Assembly.
+2. Minimum strength is 40.
+3. Members’ term is five years like the Assembly.
+
+A. 2 and 3 only
+B. 1 only
+C. 1, 2 and 3
+D. 1 and 2 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — 1 and 3 are situational; reservation of a Bill is a **constitutional** discretion.
+**Ans: D.** Only 1 and 2 are correct.
+
+**Logic:** LC term is six years with one-third retiring.
 
 </details>
 
-**Q10.** With reference to Articles 200 and 201, which of the following is/are correct?
-1. The Governor may reserve a State Bill for the President.
-2. If the State legislature re-passes a reserved Bill after the President returns it, the President must assent.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — the President is **not** bound, unlike the Governor under Art. 200.
-
-</details>
-
-**Q11.** A Governor **must** reserve a Bill for the President if, in his opinion, it:
-A. Imposes a new tax
-B. Derogates from the powers of the High Court
-C. Is a Money Bill
-D. Abolishes the Legislative Council
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q12.** Match List-I with List-II and select the correct answer using the code given below the lists:
+**Q10.** Match List-I with List-II:
 
 **List-I**
 
 | Code | Item |
 |------|------|
-| A | Governor’s ordinance |
-| B | Pardoning power of Governor |
-| C | Reservation of Bills |
-| D | Appointment of CM |
+| A | Article 169 |
+| B | Article 197 |
+| C | Article 168 |
+| D | Article 192 |
 
 **List-II**
 
 | Code | Item |
 |------|------|
-| 1 | Article 161 |
-| 2 | Article 213 |
-| 3 | Article 164 |
-| 4 | Article 200 |
+| 1 | No joint sitting; Assembly prevails on deadlocks |
+| 2 | Creation/abolition of Legislative Council |
+| 3 | Governor as constituent part of State legislature |
+| 4 | MLA disqualification decided by Governor on EC advice |
 
 > Note: Row order in the tables is **not** the answer.
 
-Select the correct answer using the code given below:
-A. A-2, B-1, C-4, D-3
-B. A-2, B-1, C-3, D-4
-C. A-1, B-2, C-4, D-3
-D. A-2, B-4, C-1, D-3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q13.** With reference to the Governor’s ordinance-making power, how many of the following statements are correct?
-1. It can be exercised when the State legislature is not in session.
-2. An ordinance must be laid before the legislature and ceases after six weeks of reassembly.
-3. President’s instructions are needed in some cases.
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q14.** Consider the following statements about the State Council of Ministers:
-1. It is collectively responsible to the Legislative Assembly.
-2. Its total strength including the Chief Minister cannot exceed 15% of the Assembly.
-3. The minimum strength including the Chief Minister is ten.
-How many of the above statements are correct?
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 2; the floor is **12**, not 10.
-
-</details>
-
-**Q15.Assertion (A):** A person who is not a member of the State legislature can be appointed Chief Minister.
-
-**Reason (R):** He must become a member of either House within six months.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q16.** With reference to the Advocate General of a State, which of the following is/are correct?
-1. He must be qualified to be a Judge of a High Court.
-2. He holds office during the pleasure of the Governor.
-3. He can vote in the Legislative Assembly.
-How many of the above statements are correct?
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 2; he may speak but **cannot vote**.
-
-</details>
-
-**Q17.** Arrange the following in the order of the **Art. 169** process to create a Legislative Council:
-1. Parliament passes a law by simple majority
-2. State Legislative Assembly passes a resolution by special majority
-Select the correct answer using the code given below:
-A. 2 then 1
-B. 1 then 2
-C. Either
-D. Neither is required
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q18.** With reference to a Legislative Council, which of the following statements is/are correct?
-1. It shall not have more than one-third of the total membership of the Legislative Assembly.
-2. It shall have at least forty members.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q19.** Which of the following pairs are **NOT** correctly matched?
-1. 1/3 of LC — elected by local bodies
-2. 1/6 of LC — nominated by the Governor
-3. 1/3 of LC — elected by graduates
-Select the correct answer using the code given below:
-A. Only 3
-B. 1 and 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — graduates elect **1/12**, not 1/3. MLAs elect 1/3.
-
-</details>
-
-**Q20.** How many of the following States presently have a Legislative Council?
-1. Uttar Pradesh
-2. Bihar
-3. Tamil Nadu
-4. Maharashtra
-A. Only two
-B. Only three
-C. All four
-D. Only one
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — UP, Bihar, Maharashtra (and AP, Karnataka, Telangana). **Tamil Nadu** does not.
-
-</details>
-
-**Q21.Assertion (A):** A Legislative Council cannot be dissolved.
-
-**Reason (R):** It can, however, be abolished under Article 169.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — both true; abolition is a separate process, not the *reason* it cannot be dissolved.
-
-</details>
-
-**Q22.** Match List-I with List-II and select the correct answer using the code given below the lists:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | Maximum strength of an LA |
-| B | Minimum strength of an LC |
-| C | UP Legislative Assembly |
-| D | UP Legislative Council |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | 40 |
-| 2 | 500 |
-| 3 | 100 |
-| 4 | 403 |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-2, B-1, C-4, D-3
-B. A-2, B-1, C-3, D-4
-C. A-1, B-2, C-4, D-3
-D. A-2, B-4, C-1, D-3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q23.** With reference to the Speaker of a Legislative Assembly, which of the following is/are correct?
-1. He is elected from among the members of the Assembly.
-2. The Pro Tem Speaker is appointed by the Governor.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q24.** Consider the following statements about a Money Bill in a bicameral State:
-1. It can be introduced only in the Legislative Assembly.
-2. The Legislative Council must return it within 14 days.
-Which of the above is/are correct?
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q25.** Which of the following is **not** a field for nomination to the Legislative Council by the Governor?
-A. Literature
-B. Co-operative movement
-C. Sport
-D. Social service
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — sport is not listed in Art. 171.
-
-</details>
-
-**Q26.Assertion (A):** The Governor of a State cannot pardon a death sentence.
-
-**Reason (R):** Article 161 does not extend to sentences of death or to court-martial.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q27.** With reference to Article 167, which of the following is/are correct?
-1. The Chief Minister must communicate all CoM decisions to the Governor.
-2. The Governor may require a matter to be submitted to the Council of Ministers.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — parallel to Art. 78 for the PM.
-
-</details>
-
-**Q28.** How many of the following are true of a hung Assembly?
-1. No party or pre-poll alliance has a clear majority.
-2. The Governor must invite the largest single party even if a post-poll coalition claims majority.
-3. *Bommai* requires an early floor test.
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 3; the invite-order is a **guideline** (pre-poll alliance first), not a rigid “largest party always”.
-
-</details>
-
-**Q29.** Match List-I (Office) with List-II (Pleasure of) and select the correct answer:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | Governor |
-| B | State Council of Ministers |
-| C | Advocate General |
-| D | Attorney General of India |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Governor |
-| 2 | President |
-| 3 | Governor |
-| 4 | President |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
 A. A-2, B-1, C-3, D-4
-B. A-2, B-3, C-1, D-4
-C. A-1, B-2, C-3, D-4
+B. A-1, B-2, C-3, D-4
+C. A-2, B-3, C-1, D-4
 D. A-2, B-1, C-4, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Governor & AG of India: pleasure of the **President**. State CoM & Advocate General: pleasure of the **Governor**.
+**Ans: A.** A-2, B-1, C-3, D-4 is correct.
+
+**Logic:** 169 / 197 / 168 / 192 map.
 
 </details>
 
-**Q30.** Which of the following pairs are **NOT** correctly matched?
-1. Quorum of the LA — 10 members or 1/10, whichever is greater
-2. Minimum age for LA — 25 years
-3. Minimum age for LC — 25 years
-Select the correct answer using the code given below:
-A. Only 3
-B. 1 and 3
-C. 2 and 3
-D. Only 1
+**Q11.** Which of the following pairs is/are NOT correctly matched?
+1. Bicameral States — AP, Bihar, Karnataka, Maharashtra, Telangana, UP
+2. UP Assembly strength — 403
+3. UP Council strength — 70
+
+A. 1 only
+B. 3 only
+C. 1 and 2 only
+D. 2 and 3 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — LC minimum age is **30**.
+**Ans: B.** Only pair 3 is NOT correctly matched.
+
+**Logic:** UP Council strength is 100, not 70.
 
 </details>
 
-**Q31.** With reference to Uttar Pradesh, which of the following statements is/are correct?
-1. The Legislative Assembly has 403 elected members.
-2. The Legislative Council has 100 members.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
+**Q12.** Consider the following statements about Advocate General:
+1. Article 165 creates the office.
+2. Qualifications are those of a High Court judge.
+3. He may speak in the Houses and can vote.
+
+A. 2 and 3 only
+B. 1 only
+C. 1 and 2 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: C.** Only 1 and 2 are correct.
+
+**Logic:** Speak yes, vote no — parallel to Union AG.
 
 </details>
 
-**Q32.Assertion (A):** Parliament may create or abolish a Legislative Council by a simple majority.
+**Q13.** Arrange the following in the order of a Bill reserved for the President:
+1. Governor reserves Bill under Article 200
+2. President considers under Article 201
+3. State may re-pass if returned; President still not bound
 
-**Reason (R):** Such a law is deemed not to be an amendment of the Constitution for the purposes of Article 368.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+A. 2 – 1 – 3
+B. 1 – 3 – 2
+C. 3 – 1 – 2
+D. 1 – 2 – 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** 200 reservation → 201 consideration → re-passage still not binding on President.
+
+**Logic:** Process order for reserved Bills.
+
+</details>
+
+**Q14.** With reference to discretionary situations of the Governor, which of the following is/are correct?
+1. Choosing a CM in a hung House.
+2. Reserving a Bill under Article 200.
+3. Recommending Article 356 in listed situations.
+
+A. 1, 2 and 3
+B. 1 and 2 only
+C. 2 and 3 only
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** All three are classic discretionary situations.
+
+**Logic:** Hung House / reservation / 356 recommendation set.
+
+</details>
+
+**Q15.** Consider the following Assertion and Reason:
+
+Assertion (A): Majority support of a Council of Ministers is tested on the House floor.
+
+Reason (R): Bommai holds that majority is not decided only by private claim at Raj Bhavan.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Art. 169; a special-majority **resolution of the LA** must come first.
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A).
+
+**A/R logic:** Floor test is the Bommai teaching fact.
 
 </details>
 
-**Q33.** Consider the following statements about the Chairman of a Legislative Council:
-1. He is the Governor, ex-officio.
-2. He is elected from among the members of the Council.
-Which of the above is/are correct?
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
+**Q16.** Consider the following statements about Article 169:
+1. Assembly must pass a resolution by special majority.
+2. Parliament then acts by simple majority.
+3. Creation or abolition of a Council is an Article 368 constitutional amendment.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — unlike the Rajya Sabha (VP as Chairman).
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** 169 path is outside Article 368.
 
 </details>
 
-**Q34.** How many of the following can the Governor **not** do?
-1. Pardon a death sentence
-2. Pardon a court-martial sentence
-3. Reserve a Bill that cuts High Court powers
+**Q17.** Which one of the following pairs is NOT correctly matched?
+A. SPSC appointment — Governor
+B. SPSC removal — President (after SC enquiry)
+C. SPSC removal — Governor alone without Presidential role
+D. Tribal welfare minister compulsory — CG, JH, MP, Odisha
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Removal of SPSC members is by the President, not the Governor alone.
+
+**Logic:** Appointment/removal swap trap.
+
+</details>
+
+**Q18.** With reference to State legislature deadlocks, which of the following is/are correct?
+1. There is no joint sitting in a State legislature.
+2. Under Article 197 the Assembly prevails.
+3. A Bill originating in the Council and rejected by the Assembly dies.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three statements are correct.
+
+**Logic:** No State joint sitting; Assembly supremacy; LC-origin death on rejection.
+
+</details>
+
+**Q19.** Match List-I with List-II:
+
+**List-I**
+
+| Code | Item |
+|------|------|
+| A | Governor oath |
+| B | Governor qualification age |
+| C | Assembly maximum |
+| D | Assembly minimum |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | 35 years |
+| 2 | Before CJ of High Court |
+| 3 | 500 |
+| 4 | 60 |
+
+> Note: Row order in the tables is **not** the answer.
+
+A. A-2, B-1, C-3, D-4
+B. A-1, B-2, C-3, D-4
+C. A-2, B-1, C-4, D-3
+D. A-2, B-3, C-1, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** A-2, B-1, C-3, D-4 is correct.
+
+**Logic:** 159 oath before HC CJ; 157 age 35; LA 500/60.
+
+</details>
+
+**Q20.** Consider the following statements about ordinances under Article 213:
+1. House(s) must not be in session.
+2. Six-week reassembly rhythm mirrors the Union ordinance rule.
+3. In listed cases the Governor needs the President’s instructions before promulgating.
+
+A. 1 and 2 only
+B. 1, 2 and 3
+C. 2 and 3 only
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** All three statements are correct.
+
+**Logic:** 213 parallels 123 with an instructions caveat.
+
+</details>
+
+**Q21.** Consider the following Assertion and Reason:
+
+Assertion (A): The Governor is a constituent part of the State legislature.
+
+Reason (R): The Governor sits as an ex-officio member of the Legislative Assembly.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** (A) is true, but (R) is false.
+
+**A/R logic:** Article 168 makes Governor part of the legislature, but he sits in neither House.
+
+</details>
+
+**Q22.** With reference to Chief Minister, which of the following is/are correct?
+1. Appointment is by the Governor under Article 164.
+2. Communication duty parallels PM’s Article 78 via Article 167.
+3. A non-member may be CM for up to six months while getting elected.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All three statements are correct.
+
+**Logic:** 164 / 167 / six-month non-member path.
+
+</details>
+
+**Q23.** Arrange the following bicameral States alphabetically as commonly listed:
+1. Andhra Pradesh
+2. Bihar
+3. Karnataka
+4. Uttar Pradesh
+
+A. 2 – 1 – 3 – 4
+B. 1 – 3 – 2 – 4
+C. 1 – 2 – 4 – 3
+D. 1 – 2 – 3 – 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** AP → Bihar → Karnataka → UP in this subset.
+
+**Logic:** Full six also include Maharashtra and Telangana; this item checks ordered recall of the set.
+
+</details>
+
+**Q24.** Which of the following pairs is NOT correctly matched?
+A. Governor model — USA-style elected Governor
+B. Governor model — Canada-style appointed by Centre
+C. Elected Governor — USA model (not adopted in India)
+D. Assembly quorum — 10 members or one-tenth, whichever is greater
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** India rejected elected Governors; Canada-style appointment was adopted.
+
+**Logic:** Model-source trap.
+
+</details>
+
+**Q25.** How many of the following statements are correct?
+1. A Bill that cuts High Court powers must be reserved by the Governor.
+2. Punchhi’s fixed-tenure / impeachment-like removal idea for Governors was implemented fully.
+3. Sarkaria conventions on outsider Governors are political expectations, often broken.
+
 A. Only one
 B. Only two
 C. All three
@@ -4115,107 +4018,103 @@ D. None
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — he **cannot** do 1 and 2; he **must** do 3 (mandatory reservation).
+**Ans: B.** Only two are correct.
+
+**Logic:** Punchhi removal idea was not implemented.
 
 </details>
 
-**Q35.** With reference to the 91st Amendment as it applies to States, which of the following is/are correct?
-1. The Council of Ministers including the CM shall not exceed 15% of the LA.
-2. The number of ministers including the CM shall not be less than 12.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
+**Q26.** With reference to Legislative Council electorate mix, which of the following is/are correct?
+1. About one-third from local bodies.
+2. About one-twelfth graduates and one-twelfth teachers.
+3. About one-sixth nominated.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 3 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: C.** All three statements are correct.
+
+**Logic:** 1/3 local, 1/12+1/12 graduates/teachers, 1/3 MLAs, 1/6 nominated.
 
 </details>
 
-**Q36.** Which of the following is/are correct about a Legislative Council member?
-1. He does not vote in the election of the President of India.
-2. His term is six years and one-third of members retire every two years.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
+**Q27.** Consider the following Assertion and Reason:
 
-<details>
-<summary>Show answer</summary>
+Assertion (A): Article 162 vests the executive power of the State in the Governor.
 
-**Ans: C**
+Reason (R): Article 154 vests the executive power of the State in the Governor; Article 162 states its extent.
 
-</details>
-
-**Q37.** With reference to deadlock between the two Houses of a State, which of the following is/are correct?
-1. There is no provision for a joint sitting of the State legislature.
-2. Article 197 lets the Legislative Assembly override the Council on an ordinary Bill that originated in the Assembly.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q38.** How many of the following States must have a minister for tribal welfare?
-1. Madhya Pradesh
-2. Odisha
-3. Uttar Pradesh
-4. Jharkhand
-A. Only two
-B. Only three
-C. All four
-D. Only one
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — MP, Odisha, Jharkhand (and Chhattisgarh). **UP is not** in Art. 164’s compulsory list.
-
-</details>
-
-**Q39.Assertion (A):** A member of the State Public Service Commission is appointed by the Governor.
-
-**Reason (R):** He can be removed by the Governor after an enquiry by the High Court.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — removal is by the **President**, after an enquiry by the **Supreme Court**.
+**Ans: B.** (A) is false, but (R) is true.
+
+**A/R logic:** 154 vs 162 vesting/extent swap.
 
 </details>
 
-**Q40.** With reference to disqualification of an MLA (other than defection), which of the following is/are correct?
-1. The question is decided by the Governor.
-2. The Election Commission’s opinion is binding on the Governor.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
+**Q28.** Consider the following statements about MLA disqualification:
+1. Article 191 disqualifications are decided by the Governor on binding EC advice under Article 192.
+2. Anti-defection track is handled by the Speaker.
+3. Office-of-profit style Art. 192 questions are decided by the Assembly Speaker alone.
+
+A. 2 and 3 only
+B. 1 only
+C. 1, 2 and 3
+D. 1 and 2 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Art. **192**. Defection is the Speaker’s call.
+**Ans: D.** Only 1 and 2 are correct.
+
+**Logic:** 192 EC route vs Tenth Schedule Speaker route.
 
 </details>
 
----
+**Q29.** With reference to first woman Governor teaching, which of the following is correct?
+A. Sarojini Naidu — United Provinces / UP
+B. Indira Gandhi — Uttar Pradesh
+C. Fathima Beevi — Uttar Pradesh
+D. Sucheta Kripalani — first woman Governor of UP
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Sarojini Naidu was the first woman Governor (UP / United Provinces).
+
+**Logic:** Current-affairs / Must-Score personality fact.
+
+</details>
+
+**Q30.** Consider the following statements:
+1. J&K Legislative Council was abolished with State reorganisation teaching.
+2. Both J&K UT (with legislature) and Ladakh UT (without) are under Lieutenant Governors.
+3. Ladakh has a full State Legislative Assembly under Part VI.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** Ladakh UT without legislature.
+
+</details>
 
 ## Mains link (one frame)
 

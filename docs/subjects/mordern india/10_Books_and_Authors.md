@@ -1491,87 +1491,115 @@ D. Jamna Das
 
 ## Practice Zone — UPPCS Format Drill
 
-> **51 questions.** Mix: Match-List, multi-statement, A/R, NOT-matched, chronology of publication.
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
----
 
-**Q1.** Match List-I with List-II.
+**Q1.** Match List-I (Book) with List-II (Author):
 
-**List-I** A. The Story of My Deportation B. Gita Rahasya C. A Nation in Making D. India Wins Freedom
-**List-II** 1. Surendranath Banerjee 2. Abul Kalam Azad 3. Lala Lajpat Rai 4. Bal Gangadhar Tilak
+| List-I | List-II |
+|--------|---------|
+| A. The Story of My Deportation | 1. Surendranath Banerjee |
+| B. Gita Rahasya | 2. Abul Kalam Azad |
+| C. A Nation in Making | 3. Lala Lajpat Rai |
+| D. India Wins Freedom | 4. Bal Gangadhar Tilak |
 
-A. 3 4 1 2
+*Row order is not the answer code.*
 
-B. 4 2 1 3
+A. A-4, B-3, C-2, D-1
 
-C. 2 4 1 3
+B. A-3, B-4, C-1, D-2
 
-D. 4 3 2 1
+C. A-3, B-1, C-4, D-2
+
+D. A-1, B-4, C-3, D-2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Lajpat → Tilak → Banerjee → Azad.
+
+**Logic:** Syllabus match-four; never give Deportation to Banerjee.
 
 </details>
 
 ---
 
-**Q2.** In which year was *Poverty and Un-British Rule in India* published?
+**Q2.** With reference to Bankim and related titles, which of the following statements is/are correct?
 
-A. 1900
+1. *Anandamath* (1882) by Bankim Chandra Chattopadhyay carries *Vande Mataram*.
+2. *Neel Darpan* (1860) is Dinabandhu Mitra’s indigo play.
+3. *Neel Darpan* is Bankim’s novel of the Sanyasi rising.
 
-B. 1901
+Select the correct answer from the code given below:
 
-C. 1902
+A. 2 and 3 only
 
-D. 1903
+B. 1 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Never give *Neel Darpan* to Bankim.
 
 </details>
 
 ---
 
-**Q3.** "The Rise and Growth of Economic Nationalism in India" was written by
+**Q3.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Partha Sarthi Gupta
+**Assertion (A):** *Poverty and Un-British Rule in India* (1901) is Dadabhai Naoroji’s classic drain-of-wealth tract.
 
-B. S. Gopal
+**Reason (R):** *The Rise and Growth of Economic Nationalism in India* is Bipan Chandra’s later historiography of that age.
 
-C. B.R. Nanda
+Select the correct answer from the code given below:
 
-D. Bipan Chandra
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: A.** Both true; R is a different book-type, not the explanation of Naoroji’s 1901 authorship.
+
+**A/R logic:** Primary tract vs later historiography — sort by type first.
 
 </details>
 
 ---
 
-**Q4.** Match List-I with List-II.
+**Q4.** Which of the following pairs is/are correctly matched?
 
-**List-I** A. Anandamath B. Hind Swaraj C. Gulamgiri D. Annihilation of Caste
-**List-II** 1. Gandhi 2. Bankim 3. Ambedkar 4. Phule
+1. *Hind Swaraj* (1909) — Gandhi’s political tract
+2. *My Experiments with Truth* — Gandhi’s autobiography
+3. *The Discovery of India* (1946) — Abul Kalam Azad
 
-A. 2 1 4 3
+Select the correct answer from the code given below:
 
-B. 1 2 3 4
+A. 2 and 3 only
 
-C. 2 1 3 4
+B. 1 and 2 only
 
-D. 2 4 1 3
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Only 1 and 2.
+
+**Logic:** *Discovery of India* = Nehru; *India Wins Freedom* = Azad.
 
 </details>
 
@@ -1579,1006 +1607,679 @@ D. 2 4 1 3
 
 **Q5.** Which of the following pairs is NOT correctly matched?
 
-A. Gita Rahasya — Tilak
+A. Gulamgiri (1873) — Jyotiba Phule
 
-B. Arctic Home in the Vedas — Tilak
+B. Annihilation of Caste (1936) — B.R. Ambedkar
 
-C. Neel Darpan — Bankim Chandra
+C. India Divided — Rajendra Prasad
 
-D. Anandamath — Bankim Chandra
+D. Pakistan or the Partition of India — Rajendra Prasad
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — *Neel Darpan* = **Dinabandhu Mitra**.
+**Ans: D.** *Pakistan or the Partition of India* is Ambedkar’s.
+
+**Logic:** Partition twins: Prasad vs Ambedkar.
 
 </details>
 
 ---
 
-**Q6.** With reference to *Anandamath*, which of the following statements is/are correct?
+**Q6.** Arrange the following books in the order of their publication years:
 
-1. It was written by Bankim Chandra Chattopadhyay in 1882.
-2. Vande Mataram appears in it.
+1. *Neel Darpan*
+2. *Gulamgiri*
+3. *Anandamath*
+4. *Poverty and Un-British Rule in India*
 
-A. Only 1
+A. 1, 3, 2, 4
 
-B. Only 2
+B. 2, 1, 3, 4
 
-C. Both 1 and 2
+C. 1, 2, 3, 4
 
-D. Neither 1 nor 2
+D. 1, 2, 4, 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: C.** 1860 → 1873 → 1882 → 1901.
+
+**Logic:** Indigo play → Phule → Bankim → Naoroji.
 
 </details>
 
 ---
 
-**Q7.** With reference to *Hind Swaraj*, which of the following statements is/are correct?
+**Q7.** With reference to Tilak’s books, which of the following statements is/are correct?
 
-1. Gandhi wrote it in 1909.
-2. It is the same book as *The Story of My Experiments with Truth*.
+1. *Gita Rahasya* is Tilak’s Gita–politics work.
+2. *Arctic Home in the Vedas* is also by Tilak, on a Vedic homeland thesis.
+3. *Arctic Home in the Vedas* is Surendranath Banerjee’s memoir.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
+A. 1 and 3 only
 
-C. Both 1 and 2
+B. 1 and 2 only
 
-D. Neither 1 nor 2
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Same-author twin: never swap Tilak’s two titles with Banerjee’s memoir.
 
 </details>
 
 ---
 
-**Q8.** Assertion (A): *The Discovery of India* was written by Jawaharlal Nehru.
+**Q8.** Match List-I with List-II:
 
-Reason (R): It is Nehru’s autobiography, also titled *Toward Freedom*.
+| List-I | List-II |
+|--------|---------|
+| A. Mother India (1927) | 1. Lala Lajpat Rai’s reply |
+| B. Unhappy India | 2. Katherine Mayo |
+| C. The Indian War of Independence (1909) | 3. V.D. Savarkar on 1857 |
+| D. Hindutva: Who is a Hindu? (1923) | 4. Savarkar’s separate title |
 
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+*Row order is not the answer code.*
+
+A. A-2, B-3, C-1, D-4
+
+B. A-1, B-2, C-4, D-3
+
+C. A-2, B-1, C-3, D-4
+
+D. A-2, B-1, C-4, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Mayo ↔ reply; Savarkar 1909 history ≠ 1923 Hindutva.
+
+**Logic:** Hostile tract vs reply; two Savarkar titles.
+
+</details>
+
+---
+
+**Q9.** With reference to Bhojpuri literature often asked in UP-facing papers, which of the following statements is/are correct?
+
+1. *Firangiya* (1921) is Manoranjan Prasad Sinha’s anti-British poem.
+2. *Batohiya* (1911) is Raghuveer Narayan’s Bhojpuri poem.
+3. *Bidesiya* is Bhikhari Thakur’s migrant folk-drama; he is remembered as the ‘Shakespeare of Bhojpuri’.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three.
+
+**Logic:** Keep poem *Batohiya* distinct from the traveller character in *Bidesiya*.
+
+</details>
+
+---
+
+**Q10.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+**Assertion (A):** *The Discovery of India* is Nehru’s Ahmednagar-jail civilisation–nation book (1946).
+
+**Reason (R):** *India Wins Freedom* is Maulana Abul Kalam Azad’s freedom memoir.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Autobiography = *Toward Freedom*; *Discovery* is a separate 1946 work.
+**Ans: A.** Both true; R does not explain Nehru’s authorship of *Discovery*.
+
+**A/R logic:** Standing Nehru / Azad twin — different genres.
 
 </details>
 
 ---
 
-**Q9.** Consider the following statements:
+**Q11.** Which one of the following is correctly matched?
 
-1. *India Wins Freedom* was written by Maulana Abul Kalam Azad.
-2. *Freedom at Midnight* was written by Azad.
+A. Why I Am an Atheist — Subhas Chandra Bose
 
-A. Only 1
+B. Why I Am an Atheist — Bhagat Singh
 
-B. Only 2
+C. The Indian Struggle — Bhagat Singh
 
-C. Both 1 and 2
-
-D. Neither 1 nor 2
+D. An Indian Pilgrim — Lala Lajpat Rai
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — *Freedom at Midnight* = **Collins and Lapierre**.
+**Ans: B.** Atheist essay = Bhagat Singh; Bose wrote *Indian Struggle* / *Indian Pilgrim*.
+
+**Logic:** Bose ↔ Bhagat book swap.
 
 </details>
 
 ---
 
-**Q10.** Match List-I with List-II.
+**Q12.** Which of the following statements is/are correct?
 
-**List-I** A. Firangiya B. Batohiya C. Bidesiya D. Achhut Kee Shikayat
-**List-II** 1. Raghuveer Narayan 2. Manoranjan Prasad Sinha 3. Heera Dom 4. Bhikhari Thakur
+1. *Gitanjali* is Tagore’s; he received the Nobel in 1913.
+2. *Jana Gana Mana* is the national anthem; *Vande Mataram* is the national song.
+3. *Vande Mataram* is the national anthem adopted from *Anandamath*.
 
-A. 2 1 4 3
+Select the correct answer from the code given below:
 
-B. 1 2 3 4
+A. 1 and 3 only
 
-C. 2 4 1 3
+B. 1 and 2 only
 
-D. 4 1 2 3
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Anthem vs song — never reverse.
 
 </details>
 
 ---
 
-**Q11.** Which of the following pairs are NOT correctly matched?
+**Q13.** Arrange the following in chronological order of publication / appearance:
 
-1. Gulamgiri — Jyotiba Phule
-2. Annihilation of Caste — Jyotiba Phule
-3. Annihilation of Caste — B.R. Ambedkar
+1. *Hind Swaraj*
+2. *Annihilation of Caste*
+3. *The Discovery of India*
+4. *Mother India* (Katherine Mayo)
 
-A. Only 2
+A. 4, 1, 2, 3
 
-B. Only 1 and 2
+B. 1, 2, 4, 3
 
-C. Only 2 and 3
+C. 1, 4, 2, 3
 
-D. Only 1
+D. 1, 4, 3, 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: C.** 1909 → 1927 → 1936 → 1946.
+
+**Logic:** Gandhi tract → Mayo → Ambedkar → Nehru.
 
 </details>
 
 ---
 
-**Q12.** With reference to Ambedkar’s books, which of the following statements is/are correct?
+**Q14.** With reference to economic-nationalist writing, which of the following statements is/are correct?
 
-1. *Annihilation of Caste* was published in 1936.
-2. *Pakistan or the Partition of India* was written by Rajendra Prasad.
+1. *Economic History of India* is R.C. Dutt’s classic of that age.
+2. A book written in 1901 about the drain is a primary tract.
+3. A book written decades later about that age is still classified as a primary Naoroji tract.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
+A. 2 and 3 only
 
-C. Both 1 and 2
+B. 1 and 2 only
 
-D. Neither 1 nor 2
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Prasad wrote ***India Divided***.
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Later historiography ≠ primary drain tract.
 
 </details>
 
 ---
 
-**Q13.** Arrange the following books in the order of first publication.
+**Q15.** Which of the following pairs is NOT correctly matched?
 
-1. Gulamgiri
-2. Anandamath
-3. Poverty and Un-British Rule in India
-4. Hind Swaraj
+A. Satyarth Prakash — Dayanand Saraswati
+
+B. Tuhfat-ul-Muwahhidin — Raja Rammohan Roy
+
+C. Godaan — Premchand
+
+D. Godaan — Bankim Chandra Chattopadhyay
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** *Godaan* is Premchand’s social realism, not Bankim’s romance.
+
+**Logic:** Social novel vs political romance trap.
+
+</details>
+
+---
+
+**Q16.** With reference to Savarkar’s titles, which of the following statements is/are correct?
+
+1. *The Indian War of Independence* (1909) reads 1857 as a national war.
+2. *Hindutva: Who is a Hindu?* (1923) is a separate Savarkar title.
+3. *Anandamath* is Savarkar’s novel of the Sanyasi rising.
+
+Select the correct answer from the code given below:
+
+A. 2 and 3 only
+
+B. 1 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** *Anandamath* = Bankim, not Savarkar.
+
+</details>
+
+---
+
+**Q17.** Match List-I (Author) with List-II (Definitive book):
+
+| List-I | List-II |
+|--------|---------|
+| A. Dadabhai Naoroji | 1. *Hind Swaraj* |
+| B. M.K. Gandhi | 2. *Poverty and Un-British Rule in India* |
+| C. Jawaharlal Nehru | 3. *The Discovery of India* |
+| D. Abul Kalam Azad | 4. *India Wins Freedom* |
+
+*Row order is not the answer code.*
+
+A. A-2, B-1, C-4, D-3
+
+B. A-1, B-2, C-4, D-3
+
+C. A-2, B-3, C-1, D-4
+
+D. A-2, B-1, C-3, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Syllabus eight core tags.
+
+**Logic:** Never swap Nehru *Discovery* with Azad *India Wins Freedom*.
+
+</details>
+
+---
+
+**Q18.** Which of the following statements about *Achhut Kee Shikayat* is/are correct?
+
+1. It is associated with Heera Dom (1914).
+2. It belongs to the same author as *Firangiya*.
+3. It is a Bhojpuri-linked title in the UP-facing literature set.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 3.
+
+**Logic:** *Firangiya* = Manoranjan Prasad Sinha, not Heera Dom.
+
+</details>
+
+---
+
+**Q19.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+**Assertion (A):** *Unhappy India* is Lala Lajpat Rai’s reply to Katherine Mayo’s *Mother India* (1927).
+
+**Reason (R):** *The Story of My Deportation* is also by Lala Lajpat Rai.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; R does not explain why *Unhappy India* answers Mayo.
+
+**A/R logic:** Same author, two different book purposes.
+
+</details>
+
+---
+
+**Q20.** With reference to Governor-General–linked titles, which of the following statements is/are correct?
+
+1. Curzon-linked titles include *Problems of the Far East* / *British Government in India*.
+2. *My Indian Years* is associated with Hardinge.
+3. *My Indian Years* is Bankim’s English memoir of the Ilbert controversy.
+
+Select the correct answer from the code given below:
+
+A. 2 and 3 only
+
+B. 1 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** GG-linked shelf ≠ nationalist novelists.
+
+</details>
+
+---
+
+**Q21.** Which one of the following correctly pairs author and book?
+
+A. R.C. Dutt — *Rise and Growth of Economic Nationalism in India*
+
+B. Bipan Chandra — *Economic History of India*
+
+C. R.C. Dutt — *Economic History of India*
+
+D. Dadabhai Naoroji — *Annihilation of Caste*
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Dutt’s economic-nationalist classic of that age.
+
+**Logic:** Dutt vs Bipan vs Naoroji authorship triangle.
+
+</details>
+
+---
+
+**Q22.** Which of the following statements is/are correct?
+
+1. Sorting books by type (primary tract, memoir, historiography, GG-linked, partition narrative) kills many author traps.
+2. *Toward Freedom* / Autobiography is a different Nehru title from *The Discovery of India*.
+3. *Freedom at Midnight* (Collins & Lapierre) is Azad’s memoir under another name.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** *Freedom at Midnight* ≠ *India Wins Freedom*.
+
+</details>
+
+---
+
+**Q23.** Arrange these author–book events / publications chronologically:
+
+1. *Gulamgiri*
+2. *The Indian War of Independence*
+3. *Hindutva: Who is a Hindu?*
+4. *Annihilation of Caste*
 
 A. 1, 2, 3, 4
 
 B. 2, 1, 3, 4
 
-C. 1, 2, 4, 3
+C. 1, 3, 2, 4
 
-D. 2, 1, 4, 3
+D. 1, 2, 4, 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — 1873 → 1882 → 1901 → 1909.
+**Ans: A.** 1873 → 1909 → 1923 → 1936.
+
+**Logic:** Phule → Savarkar 1857 → Savarkar Hindutva → Ambedkar.
 
 </details>
 
 ---
 
-**Q14.** Consider the following statements:
+**Q24.** With reference to Ambedkar’s books, which of the following statements is/are correct?
 
-1. *Godaan* is a realistic novel by Premchand.
-2. *Anandamath* is a realistic social novel by Premchand.
+1. *Annihilation of Caste* (1936) is Ambedkar’s destroy-caste tract.
+2. *Pakistan or the Partition of India* is also Ambedkar’s.
+3. *India Divided* is Ambedkar’s partition narrative.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
+A. 1 and 2 only
 
-C. Both 1 and 2
+B. 1 and 3 only
 
-D. Neither 1 nor 2
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: A.** Only 1 and 2.
+
+**Logic:** *India Divided* = Rajendra Prasad.
 
 </details>
 
 ---
 
-**Q15.** Which of the following is NOT correctly matched?
+**Q25.** Match List-I with List-II:
 
-A. Problems of the Far East — Curzon
+| List-I | List-II |
+|--------|---------|
+| A. Firangiya | 1. Bhikhari Thakur |
+| B. Batohiya (1911 poem) | 2. Manoranjan Prasad Sinha |
+| C. Bidesiya | 3. Raghuveer Narayan |
+| D. Achhut Kee Shikayat | 4. Heera Dom |
 
-B. My Indian Years — Hardinge
+*Row order is not the answer code.*
 
-C. Train to Pakistan — Khushwant Singh
+A. A-2, B-3, C-1, D-4
 
-D. India Divided — Ambedkar
+B. A-3, B-2, C-1, D-4
+
+C. A-2, B-1, C-3, D-4
+
+D. A-2, B-3, C-4, D-1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — *India Divided* = **Rajendra Prasad**.
+**Ans: A.** Bhojpuri four vault.
+
+**Logic:** Poem vs play vs complaint title — keep authors separate.
 
 </details>
 
 ---
 
-**Q16.** With reference to *Gita Rahasya*, which of the following statements is/are correct?
+**Q26.** Which of the following statements is/are correct?
 
-1. It was written by Bal Gangadhar Tilak.
-2. It was written in Mandalay jail.
+1. *A Nation in Making* is Surendranath Banerjee’s.
+2. *The Story of My Deportation* is Lala Lajpat Rai’s.
+3. Both titles are memoirs of Motilal Nehru.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
+A. 1 and 2 only
 
-C. Both 1 and 2
+B. 1 and 3 only
 
-D. Neither 1 nor 2
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Banerjee ↔ Lajpat standing swap.
 
 </details>
 
 ---
 
-**Q17.** Match List-I with List-II.
+**Q27.** Which of the following pairs is NOT correctly matched?
 
-**List-I** A. Durgeshnandini B. Neel Darpan C. Satyarth Prakash D. Gitanjali
-**List-II** 1. Dayanand 2. Bankim 3. Tagore 4. Dinabandhu Mitra
+A. Katherine Mayo — *Mother India* (1927)
 
-A. 2 4 1 3
+B. Lala Lajpat Rai — *Unhappy India*
 
-B. 2 1 4 3
+C. V.D. Savarkar — *The Indian War of Independence* (1909)
 
-C. 4 2 1 3
-
-D. 2 4 3 1
+D. Bankim Chandra — *The Indian War of Independence* (1909)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: D.** 1857-as-war history is Savarkar’s, not Bankim’s.
+
+**Logic:** Savarkar history vs Bankim novel.
 
 </details>
 
 ---
 
-**Q18.** Assertion (A): Lala Lajpat Rai wrote *Unhappy India*.
+**Q28.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Reason (R): Katherine Mayo’s *Mother India* was a hostile tract about India, and *Unhappy India* answered it.
+**Assertion (A):** *Hind Swaraj* (1909) sets out Gandhi’s critique of modern civilisation and Swaraj.
 
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+**Reason (R):** *My Experiments with Truth* is Gandhi’s autobiography and must not be treated as the same book as *Hind Swaraj*.
 
-<details>
-<summary>Show answer</summary>
+Select the correct answer from the code given below:
 
-**Ans: A**
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 
-</details>
-
----
-
-**Q19.** Consider the following statements:
-
-1. *The Indian War of Independence* was written by V.D. Savarkar.
-2. It treats the Revolt of 1857 as a national war.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q20.** Which of the following pairs are NOT correctly matched?
-
-1. Firangiya — Bhikhari Thakur
-2. Bidesiya — Bhikhari Thakur
-3. Batohiya — Raghuveer Narayan
-
-A. Only 1
-
-B. Only 1 and 2
-
-C. Only 2
-
-D. Only 1 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Firangiya = **Manoranjan Prasad Sinha**.
-
-</details>
-
----
-
-**Q21.** With reference to Nehru’s books, which of the following statements is/are correct?
-
-1. *The Discovery of India* was published in 1946.
-2. *Glimpses of World History* is a set of letters to Indira.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q22.** Match List-I with List-II.
-
-**List-I** A. Economic History of India B. Rise and Growth of Economic Nationalism C. Poverty and Un-British Rule D. Causes of the Indian Mutiny
-**List-II** 1. Naoroji 2. R.C. Dutt 3. Sir Syed 4. Bipan Chandra
-
-A. 2 4 1 3
-
-B. 4 2 1 3
-
-C. 2 1 4 3
-
-D. 2 4 3 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q23.** Consider the following statements:
-
-1. *The Buddha and His Dhamma* is by B.R. Ambedkar.
-2. *What Congress and Gandhi have done to the Untouchables* is by Gandhi.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — the 1945 critique is **Ambedkar’s**.
-
-</details>
-
----
-
-**Q24.** Which of the following is NOT correctly matched?
-
-A. Devi Chaudhurani — Bankim
-
-B. Kapalkundala — Bankim
-
-C. Sevasadan — Premchand
-
-D. Godaan — Bankim
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q25.** With reference to *Gulamgiri*, which of the following statements is/are correct?
-
-1. Phule wrote it in Marathi in 1873.
-2. He compared caste oppression to slavery.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q26.** Arrange the following in chronological order of publication / writing.
-
-1. Annihilation of Caste
-2. Hind Swaraj
-3. Discovery of India
-4. Anandamath
-
-A. 4, 2, 1, 3
-
-B. 4, 2, 3, 1
-
-C. 2, 4, 1, 3
-
-D. 4, 1, 2, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 1882 → 1909 → 1936 → 1946.
-
-</details>
-
----
-
-**Q27.** Assertion (A): *A Nation in Making* is the autobiography of Surendranath Banerjee.
-
-Reason (R): Banerjee founded the Indian Association in 1876.
-
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — both true; founding the Association does not by itself explain the book title.
-
-</details>
-
----
-
-**Q28.** Consider the following statements:
-
-1. Bhikhari Thakur is called the Shakespeare of Bhojpuri.
-2. Heera Dom wrote *Achhut Kee Shikayat* in 1914.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q29.** Which of the following pairs are NOT correctly matched?
-
-1. The Indian Struggle — Subhas Chandra Bose
-2. An Indian Pilgrim — Subhas Chandra Bose
-3. Why I Am an Atheist — Lala Lajpat Rai
-
-A. Only 3
-
-B. Only 1 and 3
-
-C. Only 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — *Why I Am an Atheist* = **Bhagat Singh**.
-
-</details>
-
----
-
-**Q30.** With reference to Partition books, which of the following statements is/are correct?
-
-1. *Train to Pakistan* is a novel by Khushwant Singh.
-2. *India Wins Freedom* is a novel by Khushwant Singh.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q31.** Match List-I with List-II.
-
-**List-I** A. Tuhfat-ul-Muwahhidin B. History of the INC C. Why I Am an Atheist D. The Indian War of Independence
-**List-II** 1. Pattabhi Sitaramayya 2. Rammohan Roy 3. Savarkar 4. Bhagat Singh
-
-A. 2 1 4 3
-
-B. 2 1 3 4
-
-C. 1 2 4 3
-
-D. 2 4 1 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q32.** Consider the following statements:
-
-1. *Young India* as a **newspaper** is associated with Gandhi.
-2. *Young India* as a **book** in the 2020-style match set is Lala Lajpat Rai’s nationalist work.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — do not mix paper and book.
-
-</details>
-
----
-
-**Q33.** Which of the following is NOT correctly matched?
-
-A. Hind Swaraj — 1909
-
-B. Gulamgiri — 1873
-
-C. Annihilation of Caste — 1936
-
-D. Poverty and Un-British Rule — 1882
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — 1882 = *Anandamath*; Poverty = **1901**.
-
-</details>
-
----
-
-**Q34.** With reference to Bankim, which of the following statements is/are correct?
-
-1. *Durgeshnandini* is his early Bengali novel.
-2. He edited *Bangadarshan*.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q35.** Assertion (A): *The Rise and Growth of Economic Nationalism in India* was written by Dadabhai Naoroji.
-
-Reason (R): Naoroji wrote *Poverty and Un-British Rule in India* in 1901.
-
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. (A) is false, but (R) is true
+
 C. (A) is true, but (R) is false
-D. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: D.** Both true; R correctly explains why the two titles must not be swapped in stems.
+
+**A/R logic:** Same author, two books — R states the twin rule that protects A’s identity.
 
 </details>
 
 ---
 
-**Q36.** Consider the following statements:
+**Q29.** With reference to drilling this topic, which of the following statements is/are correct?
 
-1. Firangiya is an anti-British Bhojpuri poem of 1921.
-2. Batohiya (the patriotic poem) is by Manoranjan Prasad Sinha.
+1. The match-four (Deportation / Gita Rahasya / Nation in Making / India Wins Freedom) is a high-yield set.
+2. Political context of why a book was written may live in other Modern topics; this chapter homes title↔author.
+3. *Gulamgiri* and *Annihilation of Caste* can be treated as interchangeable titles of one author.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
+A. 1 and 2 only
 
-C. Both 1 and 2
+B. 1 and 3 only
 
-D. Neither 1 nor 2
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Batohiya poem = **Raghuveer Narayan**.
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Phule 1873 ≠ Ambedkar 1936.
 
 </details>
 
 ---
 
-**Q37.** Match List-I with List-II.
+**Q30.** With reference to memoir and autobiography twins, which of the following statements is/are correct?
 
-**List-I** A. Godaan B. Train to Pakistan C. Mother India D. Unhappy India
-**List-II** 1. Katherine Mayo 2. Premchand 3. Lajpat Rai 4. Khushwant Singh
+1. *Toward Freedom* is a different Nehru title from *The Discovery of India*.
+2. *My Experiments with Truth* is Gandhi’s autobiography, distinct from *Hind Swaraj*.
+3. *A Nation in Making* is Lala Lajpat Rai’s deportation memoir.
 
-A. 2 4 1 3
+Select the correct answer from the code given below:
 
-B. 2 1 4 3
+A. 1 and 2 only
 
-C. 4 2 1 3
+B. 1 and 3 only
 
-D. 2 4 3 1
+C. 2 and 3 only
 
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q38.** With reference to Bose’s books, which of the following statements is/are correct?
-
-1. *The Indian Struggle* is by Subhas Chandra Bose.
-2. *An Indian Pilgrim* is Bose’s autobiography.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: A.** Only 1 and 2.
+
+**Logic:** *A Nation in Making* = Banerjee; Deportation = Lajpat Rai.
 
 </details>
-
----
-
-**Q39.** Which of the following pairs are NOT correctly matched?
-
-1. My Experiments with Truth — Gandhi
-2. Toward Freedom — Azad
-3. Discovery of India — Nehru
-
-A. Only 2
-
-B. Only 1 and 2
-
-C. Only 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — *Toward Freedom* = **Nehru**.
-
-</details>
-
----
-
-**Q40.** Consider the following statements:
-
-1. *States and Minorities* is a constitutional memorandum by Ambedkar.
-2. *The Buddha and His Dhamma* was published after Ambedkar’s death.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q41.** Which of the following is NOT correctly matched?
-
-A. Shakespeare of Bhojpuri — Bhikhari Thakur
-
-B. Firangiya — 1921
-
-C. Batohiya poem — 1911
-
-D. Bidesiya — Premchand
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q42.** With reference to *Neel Darpan*, which of the following statements is/are correct?
-
-1. Dinabandhu Mitra wrote it.
-2. It is a play on indigo planter oppression.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q43.** Match List-I with List-II.
-
-**List-I** A. Who Were the Shudras? B. India Divided C. Glimpses of World History D. Arctic Home in the Vedas
-**List-II** 1. Nehru 2. Ambedkar 3. Tilak 4. Rajendra Prasad
-
-A. 2 4 1 3
-
-B. 2 1 4 3
-
-C. 4 2 1 3
-
-D. 2 4 3 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q44.** Assertion (A): Vande Mataram is taken from *Anandamath*.
-
-Reason (R): *Anandamath* was written by Dinabandhu Mitra.
-
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q45.** Consider the following statements:
-
-1. *Poverty and Un-British Rule in India* and *The Rise and Growth of Economic Nationalism in India* are by the same author.
-2. The first is Naoroji (1901); the second is Bipan Chandra.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q46.** With reference to *The Indian War of Independence*, which of the following statements is/are correct?
-
-1. It was written by V.D. Savarkar and published in 1909.
-2. It treats the Revolt of 1857 as India's first war of independence rather than a mutiny.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q47.** Which of the following pairs is NOT correctly matched?
-
-A. The Indian War of Independence — V.D. Savarkar
-
-B. Hindutva: Who is a Hindu? — V.D. Savarkar
-
-C. Mother India — Lala Lajpat Rai
-
-D. Unhappy India — Lala Lajpat Rai
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — *Mother India* = **Katherine Mayo**; Lajpat Rai wrote the reply, *Unhappy India*.
-
-</details>
-
----
-
-**Q48.** Assertion (A): *Mother India* by Katherine Mayo was criticised as colonial propaganda by Indian nationalists.
-
-Reason (R): Lala Lajpat Rai wrote *Unhappy India* as a direct reply to it.
-
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — both true; the reply is evidence of the criticism, not its cause.
-
-</details>
-
----
-
-**Q49.** Match List-I with List-II.
-
-**List-I (GG/Viceroy)** A. Lord Curzon B. Lord Hardinge C. Lord Lytton D. Lord Wavell
-**List-II (Book)** 1. My Indian Years 2. The Viceroy's Journal 3. Problems of the Far East 4. Lucile (as Owen Meredith)
-
-A. 3 1 4 2
-
-B. 1 3 4 2
-
-C. 3 1 2 4
-
-D. 4 1 3 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q50.** With reference to Warren Hastings and the *Bhagavad Gita*, which of the following statements is/are correct?
-
-1. Charles Wilkins produced the first English translation of the Gita in 1785.
-2. Warren Hastings himself translated the Gita and wrote its preface.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Hastings **patronised** the translation and wrote the preface; he did not translate it himself.
-
-</details>
-
----
-
-**Q51.** Which of the following is NOT correctly matched?
-
-A. Problems of the Far East — Curzon
-
-B. My Indian Years — Hardinge
-
-C. The Viceroy's Journal — Wavell
-
-D. The Viceroy's Journal — Mountbatten
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — *The Viceroy's Journal* is **Wavell's** posthumous diary, not Mountbatten's.
-
-</details>
-
----
 
 ## Common Traps — Don't Fall For These
 

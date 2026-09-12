@@ -467,187 +467,13 @@ D. Noida
 
 ## Practice Zone — UPPCS Format Drill
 
-**40 questions.** ≥60% multi-statement. A/R, Match-List, chronology, NOT-matched included.
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-**Q1.** With reference to Kumbh Mela, which of the following statements is/are correct?
+**Q1.** With reference to the Kumbh Mela geography, which of the following statements is/are correct?
 
-1. It is inscribed on UNESCO’s Representative List of Intangible Cultural Heritage.
-2. The four traditional sites include Pushkar in Rajasthan.
-3. Prayagraj’s bathing site is the Triveni Sangam.
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** UNESCO 2017. Four sites = Prayagraj, Haridwar, Nashik, Ujjain. Pushkar is not one of them.
-
-</details>
-
-**Q2.** Match List-I with List-II.
-
-**List-I**
-A. Prayagraj
-B. Haridwar
-C. Nashik
-D. Ujjain
-
-**List-II**
-1. Godavari
-2. Shipra
-3. Ganga–Yamuna–Saraswati
-4. Ganga
-
-A. 3 4 1 2
-B. 3 4 2 1
-C. 4 3 1 2
-D. 3 1 4 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q3.** Which of the following pairs is/are NOT correctly matched?
-
-1. Pongal — Kerala
-2. Onam — Tamil Nadu
-3. Bihu — Assam
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Pongal = Tamil Nadu. Onam = Kerala. Bihu = Assam is correct.
-
-</details>
-
-**Q4.** Assertion (A): The Pushkar camel fair is held in Rajasthan.
-Reason (R): Pushkar Kumbh Mela of May 2025 was organised only in Rajasthan.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Camel fair = Pushkar, Ajmer, Rajasthan. May 2025 Pushkar Kumbh = Mana, Uttarakhand.
-
-</details>
-
-**Q5.** Consider the following statements about Maha Kumbh 2025:
-
-1. It was held at Prayagraj.
-2. It ran for about 45 days from mid-January to late February 2025.
-3. It was held at Haridwar on the Godavari.
-
-How many of the above statements are correct?
-
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 1 and 2. Haridwar is Ganga, not Godavari. 2025 mega event = Prayagraj.
-
-</details>
-
-**Q6.** Arrange the following UNESCO inscriptions in chronological order.
-
-1. Garba of Gujarat
-2. Ramlila
-3. Kumbh Mela
-4. Durga Puja of Kolkata
-
-A. 2 3 4 1
-B. 2 4 3 1
-C. 3 2 4 1
-D. 2 3 1 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Ramlila 2008 → Kumbh 2017 → Durga Puja 2021 → Garba 2023.
-
-</details>
-
-**Q7.** With reference to harvest festivals, which of the following statements is/are correct?
-
-1. Pongal is a four-day January festival of Tamil Nadu.
-2. Mattu Pongal is the cattle-worship day.
-3. Onam commemorates King Mahabali in Kerala.
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.**
-
-</details>
-
-**Q8.** Match List-I with List-II.
-
-**List-I**
-A. Hornbill
-B. Sangai
-C. Chapchar Kut
-D. Wangala
-
-**List-II**
-1. Mizoram
-2. Nagaland
-3. Meghalaya
-4. Manipur
-
-A. 2 4 1 3
-B. 2 1 4 3
-C. 4 2 1 3
-D. 2 4 3 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q9.** Which of the following is NOT correctly matched?
-
-A. Sarhul — Jharkhand
-B. Bastar Dussehra — Odisha
-C. Medaram Jatara — Telangana
-D. Bhagoria — Madhya Pradesh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Bastar Dussehra = Chhattisgarh.
-
-</details>
-
-**Q10.** With reference to Bastar Dussehra, which of the following statements is/are correct?
-
-1. It lasts about 75 days.
-2. It is identical with the pan-India Rama–Ravana Dussehra.
-3. The principal deity associated with it is Danteshwari.
+1. The four traditional Kumbh sites are Prayagraj, Haridwar, Nashik and Ujjain.
+2. Pushkar is one of the four classical Kumbh bathing sites.
+3. The river associated with Ujjain Kumbh is the Shipra.
 
 A. 1 and 2 only
 B. 1 and 3 only
@@ -657,369 +483,99 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Tribal Devi Danteshwari. Not the standard Rama play.
+**Ans: B.** Only 1 and 3 are correct.
+
+**Logic:** Pushkar is a Rajasthan camel fair, not a classical Kumbh site.
 
 </details>
 
-**Q11.** Assertion (A): Magh Mela is held every year at Prayagraj.
-Reason (R): Magh Mela is the same event as the 12-year Kumbh at Ujjain.
+**Q2.** Consider the following pairs:
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Magh Mela is the annual Prayagraj bath. Ujjain Kumbh is a different 12-year site.
-
-</details>
-
-**Q12.** Consider the following pairs:
-
-1. Surajkund Mela — Haryana
-2. Sonepur Mela — Bihar
-3. Gangasagar Mela — Gujarat
+| Festival / fair | State / tag |
+|-----------------|-------------|
+| 1. Pongal | Tamil Nadu January harvest |
+| 2. Onam | Kerala Aug–Sep harvest |
+| 3. Bihu | Nagaland December showcase |
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1 and 2 only
+A. 1, 2 and 3
 B. 2 and 3 only
-C. 1 only
-D. 1, 2 and 3
+C. 1 and 3 only
+D. 1 and 2 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Gangasagar = West Bengal, Makar Sankranti.
+**Ans: D.** Only pairs 1 and 2 are correct.
+
+**Logic:** Bihu is Assam’s harvest trio. Hornbill is the Nagaland showcase.
 
 </details>
 
-**Q13.** With reference to Chhath Puja, which of the following statements is/are correct?
+**Q3.** Which of the following pairs is NOT correctly matched?
 
-1. It is dedicated to the Sun.
-2. It is mainly associated with Bihar and eastern Uttar Pradesh.
-3. It is a moon-worship festival of Rajasthan.
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Surajkund crafts mela — Haryana
+B. Pushkar Fair — Rajasthan
+C. Sonepur cattle fair — West Bengal
+D. Gangasagar mela — West Bengal
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Ans: C.** Sonepur cattle fair is in Bihar, not West Bengal.
+
+**Logic:** Gangasagar is West Bengal. Surajkund is Haryana. Pushkar Fair is Rajasthan.
 
 </details>
 
-**Q14.** Match List-I with List-II.
+**Q4.** Assertion (A): Magh Mela at Prayagraj is the same event as the twelve-year mega Kumbh held at every Kumbh site.
+Reason (R): Magh Mela is the annual bathing fair at Prayagraj.
 
-**List-I**
-A. Taj Mahotsav
-B. Tansen Samaroh
-C. Bharat Rang Mahotsav
-D. Konark Dance Festival
-
-**List-II**
-1. Gwalior
-2. Agra
-3. Odisha
-4. National School of Drama
-
-A. 2 1 4 3
-B. 2 1 3 4
-C. 1 2 4 3
-D. 2 4 1 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q15.** Hornbill Festival is held at which of the following?
-
-A. Kaziranga, Assam, April
-B. Kisama, Nagaland, 1–10 December
-C. Imphal, Manipur, November
-D. Shillong, Meghalaya, March
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.**
-
-</details>
-
-**Q16.** With reference to Bihu, which of the following statements is/are correct?
-
-1. Rongali or Bohag Bihu is the spring festival of Assam.
-2. Bhogali or Magh Bihu is a January harvest bonfire.
-3. Bihu is the state festival of Nagaland.
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Bihu = Assam. Nagaland = Hornbill.
-
-</details>
-
-**Q17.** Which of the following pairs is NOT correctly matched?
-
-A. Ugadi — Andhra Pradesh / Telangana / Karnataka
-B. Gudi Padwa — Maharashtra
-C. Vishu — Tamil Nadu
-D. Puthandu — Tamil Nadu
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Vishu = Kerala New Year.
-
-</details>
-
-**Q18.** Consider the following statements:
-
-1. Garba of Gujarat is on the UNESCO ICH list.
-2. Garba is an SNA classical dance.
-3. Garba is performed mainly during Navratri.
-
-How many of the above statements are correct?
-
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 1 and 3. UNESCO 2023. Not one of the SNA eight.
-
-</details>
-
-**Q19.** Assertion (A): Ramlila is recognised by UNESCO as intangible cultural heritage.
-Reason (R): Ramlila is the ninth classical dance of Sangeet Natak Akademi.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** UNESCO 2008 folk theatre. Not SNA classical.
+**Ans: B.** (A) is false, but (R) is true.
+
+**A/R logic:** Magh Mela is annual at Prayagraj. The mega Kumbh cycle is different. (R) states the Magh fact correctly.
 
 </details>
 
-**Q20.** Match List-I with List-II.
+**Q5.** Arrange the following UNESCO Intangible Heritage festival-related inscriptions in chronological order of listing year:
 
-**List-I**
-A. Eid-ul-Fitr
-B. Eid-ul-Adha
-C. Baisakhi
-D. Buddha Purnima
+1. Ramlila
+2. Kumbh Mela
+3. Durga Puja of Kolkata
+4. Garba of Gujarat
 
-**List-II**
-1. Khalsa founded 1699
-2. End of Ramadan
-3. Birth, enlightenment, parinirvana fact
-4. Bakrid
+Select the correct order.
 
-A. 2 4 1 3
-B. 2 4 3 1
-C. 4 2 1 3
-D. 2 1 4 3
+A. 1-2-4-3
+B. 1-3-2-4
+C. 2-1-3-4
+D. 1-2-3-4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Ans: D.** The order is Ramlila (2008), Kumbh (2017), Durga Puja (2021), Garba (2023).
+
+**Logic:** Ramlila entered the Representative List in 2008 after earlier Masterpiece proclamation.
 
 </details>
 
-**Q21.** With reference to Onam, which of the following statements is/are correct?
+**Q6.** With reference to harvest and New Year festivals, which of the following statements is/are correct?
 
-1. It is the harvest festival of Kerala.
-2. Vallamkali snake-boat races are associated with it.
-3. It is the same festival as Pongal.
+1. Ugadi is New Year in Andhra Pradesh, Telangana and Karnataka.
+2. Gudi Padwa is the Maharashtra New Year in the same season.
+3. Vishu is the Odisha harvest festival also called Nuakhai.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q22.** Which of the following is/are correctly matched?
-
-1. Lathmar Holi — Barsana, UP
-2. Bathukamma — Telangana
-3. Thrissur Pooram — Karnataka
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Thrissur Pooram = Kerala.
-
-</details>
-
-**Q23.** Consider the following about Sarhul:
-
-1. It is associated with sal-tree worship.
-2. It is a major festival of Munda and Oraon communities in Jharkhand.
-3. It is the harvest festival of Tamil Nadu.
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q24.** Arrange the following in the order they typically fall in the calendar year.
-
-1. Pongal
-2. Hornbill Festival
-3. Onam
-4. Rongali Bihu
-
-A. 1 4 3 2
-B. 1 3 4 2
-C. 4 1 3 2
-D. 1 4 2 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Pongal Jan → Rongali Bihu April → Onam Aug–Sep → Hornbill December.
-
-</details>
-
-**Q25.** With reference to government cultural festivals, which of the following statements is/are correct?
-
-1. Taj Mahotsav is organised in Agra.
-2. Tansen Samaroh is organised in Varanasi.
-3. Bharat Rang Mahotsav is organised by the National School of Drama.
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Tansen Samaroh = Gwalior, MP.
-
-</details>
-
-**Q26.** Which of the following pairs is NOT correctly matched?
-
-A. Ambubachi Mela — Kamakhya, Assam
-B. Hemis Festival — Ladakh
-C. Kullu Dussehra — Himachal Pradesh
-D. Pushkar Camel Fair — Uttarakhand
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Camel fair = Rajasthan. Uttarakhand’s May event is Pushkar **Kumbh** at Mana.
-
-</details>
-
-**Q27.** Assertion (A): Losar is celebrated in Sikkim and Arunachal Pradesh.
-Reason (R): Losar is the Tibetan Buddhist New Year and is also observed in Ladakh.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Same festival across Himalayan Buddhist belts.
-
-</details>
-
-**Q28.** Consider the following statements about Sangai Festival:
-
-1. It is held in Manipur.
-2. It is named after Manipur’s state animal.
-3. It is held at Kisama Heritage Village.
-
-How many of the above statements are correct?
-
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 1 and 2. Kisama is Hornbill, Nagaland.
-
-</details>
-
-**Q29.** Match List-I with List-II.
-
-**List-I**
-A. Nuakhai
-B. Baisakhi
-C. Lohri
-D. Uttarayan
-
-**List-II**
-1. Punjab winter bonfire
-2. Odisha harvest
-3. Gujarat kite festival
-4. Punjab April harvest / Khalsa
-
-A. 2 4 1 3
-B. 2 1 4 3
-C. 4 2 1 3
-D. 2 4 3 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q30.** With reference to Durga Puja, which of the following statements is/are correct?
-
-1. UNESCO inscribed Durga Puja of Kolkata in 2021.
-2. It is the same inscription as Garba of Gujarat.
-3. It is a tangible World Heritage monument.
-
-A. 1 only
+A. 1 and 3 only
 B. 1 and 2 only
 C. 2 and 3 only
 D. 1, 2 and 3
@@ -1027,83 +583,144 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Garba is a separate 2023 ICH. Not a monument.
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** Vishu is Kerala New Year. Nuakhai is Odisha harvest. Do not merge them.
 
 </details>
 
-**Q31.** Which of the following is/are tribal festivals?
+**Q7.** Match List-I with List-II and select the correct answer using the code given below the Lists.
 
-1. Medaram Jatara
-2. Mysore Dasara
-3. Bhagoria Haat
+**List-I (Festival)**
+A. 2 1 3 4
+B. 2 4 1 3
+C. 1 2 4 3
+D. 2 1 4 3
 
-A. 1 and 2 only
+**List-II (State / people)**
+1. Manipur
+2. Nagaland (Kisama)
+3. Meghalaya Garo
+4. Mizoram
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+B. 2 4 1 3
+C. 1 2 4 3
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Hornbill–Nagaland, Sangai–Manipur, Chapchar Kut–Mizoram, Wangala–Meghalaya Garo.
+
+**Logic:** Hornbill is Kisama showcase. Wangala is Garo harvest, not Mizo.
+
+</details>
+
+**Q8.** With reference to Gujarat and Punjab festive dance, which of the following statements is/are correct?
+
+1. Garba / Dandiya is linked to Gujarat Navratri and is UNESCO ICH from 2023.
+2. Bhangra / Giddha is Punjab harvest dance linked to Baisakhi.
+3. Garba is counted among the nine SNA classical dances.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** Garba is folk / festive dance, not one of the SNA classical eight.
+
+</details>
+
+**Q9.** Which of the following is/are correctly matched?
+
+1. Bastar Dussehra — Chhattisgarh, about 75 days around Danteshwari
+2. Sarhul — Jharkhand tribal sal-flower festival
+3. Medaram Jatara — Madhya Pradesh Bhil festival
+
+A. 2 and 3 only
 B. 1 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2 are correct.
+
+**Logic:** Medaram Jatara is Telangana Koya pilgrimage. Bhagoria is MP Bhil.
+
+</details>
+
+**Q10.** Assertion (A): Chhath is a sun-worship festival of the eastern UP–Bihar–Jharkhand belt.
+Reason (R): Chhath rituals centre on moon worship on river ghats.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** (A) is true, but (R) is false.
+
+**A/R logic:** Chhath is sun worship. Calling it moon worship is a common trap.
+
+</details>
+
+**Q11.** With reference to Uttar Pradesh festival geography, which of the following statements is/are correct?
+
+1. Deva Mela is associated with Barabanki.
+2. Bateshwar Fair is in Agra district.
+3. Tansen Samaroh is a major government cultural festival of Varanasi.
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2 are correct.
+
+**Logic:** Tansen Samaroh is at Gwalior in Madhya Pradesh, not Varanasi.
+
+</details>
+
+**Q12.** Consider the following statements about Eid festivals:
+
+1. Eid-ul-Fitr marks the end of Ramadan.
+2. Eid-ul-Adha is also called Bakrid and is the sacrifice festival.
+3. Both names refer to one identical festival day in the Islamic calendar.
+
+A. 1 and 3 only
+B. 1 and 2 only
 C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Mysore Dasara is a royal / state Dasara, not a tribal jatara.
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** Eid-ul-Fitr and Eid-ul-Adha are distinct festivals.
 
 </details>
 
-**Q32.** Consider the following statements:
+**Q13.** Which of the following pairs is/are NOT correctly matched?
 
-1. Jallikattu is associated with Pongal in Tamil Nadu.
-2. Pulikali is associated with Onam in Kerala.
-3. Both are classical dances of Sangeet Natak Akademi.
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Folk / festival sports and performances. Not SNA 8.
-
-</details>
-
-**Q33.** The Saras Ajeevika Mela 2021 was organised in:
-
-A. Lucknow
-B. Patna
-C. Noida
-D. Raipur
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Noida Haat. Rural Development / NRLM. UPPCS 2021 Q39.
-
-</details>
-
-**Q34.** With reference to the SCO Film Festival 2023, which of the following statements is/are correct?
-
-1. It was held during India’s Presidency of the SCO.
-2. It showcased films from SCO member countries.
-3. It was organised at Prayagraj during Maha Kumbh.
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Mumbai, January 2023. Not Kumbh.
-
-</details>
-
-**Q35.** Which of the following pairs is/are NOT correctly matched?
-
-1. Ratha Yatra — Puri, Odisha
-2. Ganesh Chaturthi — Maharashtra
-3. Carnival — Punjab
+1. Kullu Dussehra — Himachal Pradesh
+2. Ratha Yatra of Puri — Odisha
+3. Hemis festival — Kerala monastery festival
 
 A. 1 and 2 only
 B. 3 only
@@ -1113,76 +730,47 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Goa Carnival.
+**Ans: B.** Only pair 3 is not correctly matched.
+
+**Logic:** Hemis is the Ladakh monastery festival, not Kerala.
 
 </details>
 
-**Q36.** Assertion (A): Surajkund Mela is a crafts fair of Haryana.
-Reason (R): Surajkund lies in Faridabad district and the mela is usually held in February.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q37.** Consider the following about Ek Bharat Shreshtha Bharat:
-
-1. It was launched in 2015.
-2. It is a Ministry of Culture programme of state-pair cultural exchange.
-3. It is the official name of the Surajkund Mela.
-
-How many of the above statements are correct?
-
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 1 and 2.
-
-</details>
-
-**Q38.** Match List-I with List-II.
+**Q14.** Match List-I with List-II and select the correct answer using the code given below the Lists.
 
 **List-I**
-A. Lai Haraoba
-B. Yaoshang
-C. Kharchi Puja
-D. Solung
+A. 2 1 3 4
+B. 1 2 4 3
+C. 1 2 3 4
+D. 1 3 2 4
 
 **List-II**
-1. Tripura
-2. Manipur indigenous creation festival
-3. Arunachal (Adi)
-4. Manipur spring / Holi-type
+1. Agra
+2. Varanasi
+3. Madhya Pradesh
+4. Haryana
 
-A. 2 4 1 3
-B. 4 2 1 3
-C. 2 4 3 1
-D. 2 1 4 3
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+B. 1 2 4 3
+C. 1 2 3 4
+D. 1 3 2 4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Ans: C.** Taj–Agra, Ganga–Varanasi, Khajuraho–MP, Surajkund–Haryana.
+
+**Logic:** Surajkund is Haryana crafts, not Rajasthan or UP.
 
 </details>
 
-**Q39.** With reference to national festivals of India, which of the following statements is/are correct?
+**Q15.** With reference to folk and tribal festivals, which of the following statements is/are correct?
 
-1. Republic Day is 26 January.
-2. Independence Day is 15 August.
-3. Gandhi Jayanti is 2 October.
+1. Braj Holi is a regional folk celebration of Mathura–Vrindavan–Barsana.
+2. Sarhul belongs to the adivasi ritual calendar of Jharkhand.
+3. Folk and tribal festivals are identical labels for the same ritual class.
 
 A. 1 and 2 only
 B. 1 and 3 only
@@ -1192,15 +780,39 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Folk (peasant/community) and tribal (adivasi ritual) should not be collapsed into one label.
 
 </details>
 
-**Q40.** Which of the following statements is/are correct?
+**Q16.** Arrange the following national days in calendar order within a year:
 
-1. Navroz is the Parsi New Year.
-2. Muharram processions are a major cultural fact of Lucknow.
-3. Christmas is observed on 25 December.
+1. Independence Day
+2. Republic Day
+3. Gandhi Jayanti
+
+Select the correct chronological order.
+
+A. 2-1-3
+B. 1-2-3
+C. 2-3-1
+D. 3-2-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Republic Day (26 Jan), Independence Day (15 Aug), Gandhi Jayanti (2 Oct).
+
+**Logic:** These sit beside harvest calendars, not inside Kumbh geography.
+
+</details>
+
+**Q17.** With reference to Pushkar-related events, which of the following statements is/are correct?
+
+1. Pushkar Fair is the Rajasthan camel and livestock fair of Kartik near Ajmer.
+2. Pushkar Kumbh of May 2025 was held at Mana / Keshav Prayag in Uttarakhand.
+3. Pushkar Fair and Pushkar Kumbh 2025 refer to the same Rajasthan venue.
 
 A. 1 and 2 only
 B. 2 and 3 only
@@ -1210,11 +822,267 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Pushkar Kumbh 2025 was Uttarakhand, not the Ajmer camel fair.
 
 </details>
 
----
+**Q18.** Which one of the following is NOT a classical four-site Kumbh location?
+
+A. Nashik
+B. Ujjain
+C. Haridwar
+D. Pushkar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Pushkar is not among Prayagraj–Haridwar–Nashik–Ujjain.
+
+**Logic:** Pushkar Fair is Rajasthan livestock. Pushkar Kumbh 2025 was Mana, UK.
+
+</details>
+
+**Q19.** Assertion (A): Ramlila is a Ramayana theatrical performance recognised on UNESCO’s Intangible Heritage list.
+Reason (R): Dussehra / Vijayadashami is the same as Ramlila because both are classical dance forms.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** (A) is true, but (R) is false.
+
+**A/R logic:** Ramlila is theatre (UNESCO from the 2008 Representative List path). Dussehra is the Ravana-effigy day, not classical dance.
+
+</details>
+
+**Q20.** With reference to South Indian festivals, which of the following statements is/are correct?
+
+1. Mysore Dasara is associated with Karnataka.
+2. Thrissur Pooram is associated with Kerala.
+3. Bathukamma is associated with Tamil Nadu.
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Bathukamma is Telangana’s floral festival, not Tamil Nadu.
+
+</details>
+
+**Q21.** Consider the following pairs:
+
+| Item | Tag |
+|------|-----|
+| 1. Baisakhi | Punjab harvest |
+| 2. Lohri | Punjab–Haryana–Himachal winter fire festival |
+| 3. Nuakhai | Kerala New Year |
+
+Which of the pairs given above is/are correctly matched?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only pairs 1 and 2 are correct.
+
+**Logic:** Nuakhai is Odisha harvest. Vishu is Kerala New Year.
+
+</details>
+
+**Q22.** With reference to Maha Kumbh at Prayagraj in 2025, which of the following statements is/are correct?
+
+1. It ran roughly from mid-January to late February for about 45 days.
+2. The bathing focus is the Sangam of Ganga, Yamuna and the mythical Saraswati.
+3. Kumbh Mela entered UNESCO ICH in 2017.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three statements are correct.
+
+**Logic:** 2025 Prayagraj Maha Kumbh window and UNESCO 2017 are both standard facts.
+
+</details>
+
+**Q23.** Which of the following is NOT an Uttar Pradesh festival home?
+
+A. Braj Holi
+B. Chhath on eastern ghats
+C. Hornbill Festival
+D. Ayodhya Deepotsav
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Hornbill Festival is Nagaland’s cultural showcase.
+
+**Logic:** UP spine includes Braj Holi, Chhath, Ramlila, Deepotsav, Magh/Kumbh.
+
+</details>
+
+**Q24.** Match List-I with List-II and select the correct answer using the code given below the Lists.
+
+**List-I**
+A. Bhagoria
+B. Medaram Jatara
+C. Losar
+D. Ganesh Chaturthi
+
+**List-II**
+1. Telangana Koya pilgrimage
+2. Madhya Pradesh Bhil festival
+3. Maharashtra flagship festival
+4. Buddhist New Year (Sikkim–Arunachal–Ladakh belt)
+
+*Row order is not the answer code.*
+
+A. 2 1 4 3
+B. 1 2 4 3
+C. 2 1 3 4
+D. 2 4 1 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Bhagoria–MP Bhil, Medaram–Telangana, Losar–Buddhist New Year, Ganesh Chaturthi–Maharashtra.
+
+**Logic:** Do not put Medaram in Madhya Pradesh.
+
+</details>
+
+**Q25.** With reference to Navratri and Durga Puja, which of the following statements is/are correct?
+
+1. Durga Puja of Kolkata is UNESCO ICH from 2021.
+2. Navratri is the nine-night goddess cycle.
+3. Gujarat Garba sits only inside Bengal pandal culture and not within Navratri.
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Garba is Gujarat Navratri dance. It is not confined to Bengal pandals.
+
+</details>
+
+**Q26.** Consider the following statements:
+
+1. Prayagraj Kumbh / Magh Mela is part of the UP festival spine.
+2. Lucknow Mahotsav is a government cultural festival of Uttar Pradesh.
+3. Onam is an Uttar Pradesh harvest festival of eastern districts.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Onam is Kerala. It is not a UP harvest home.
+
+</details>
+
+**Q27.** Which of the following pairs is NOT correctly matched?
+
+A. Ambubachi — Kamakhya, Assam
+B. Wangala — Meghalaya Garo
+C. Sarhul — Telangana Koya
+D. Sangai — Manipur
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Sarhul is Jharkhand’s tribal sal-flower festival.
+
+**Logic:** Medaram Jatara is the Telangana Koya pilgrimage.
+
+</details>
+
+**Q28.** With reference to government-organised cultural festivals, which of the following statements is/are correct?
+
+1. Taj Mahotsav is held at Agra, typically in February.
+2. Ganga Mahotsav is associated with Varanasi.
+3. Khajuraho Dance Festival is organised in Uttar Pradesh.
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Khajuraho Dance Festival is Madhya Pradesh.
+
+</details>
+
+**Q29.** Assertion (A): Hornbill Festival is Assam’s three-part harvest cycle known as Bihu.
+Reason (R): Hornbill is Nagaland’s cultural showcase usually held at Kisama in early December.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** (A) is false, but (R) is true.
+
+**A/R logic:** Bihu is Assam. Hornbill is Nagaland. (R) correctly places Hornbill.
+
+</details>
+
+**Q30.** With reference to festival classification, which of the following statements is/are correct?
+
+1. Harvest festivals include Pongal, Onam, Bihu and Baisakhi.
+2. National days such as Republic Day sit inside Kumbh geography as bathing days.
+3. Religious festivals include Diwali, Eid, Christmas and Buddha Purnima.
+
+A. 1 and 3 only
+B. 1 and 2 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 3 are correct.
+
+**Logic:** National days are a separate civic calendar, not Kumbh bathing geography.
+
+</details>
 
 ## Common Traps — Don't Fall For These
 

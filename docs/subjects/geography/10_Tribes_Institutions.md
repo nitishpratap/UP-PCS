@@ -1599,917 +1599,637 @@ D. Threatened species
 
 ---
 
-## Practice Zone — UPPCS Format Questions
+## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden** — click **Show answer** under each question to reveal.
-> **Format mix:** 55 questions — multi-statement | Assertion–Reason | Match List | NOT correctly matched | direct recall (UPPCS Prelims style)
+> **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D | **Ans first, then Logic**
 
-**Q1.** Tharu tribe of UP is mainly associated with which belt?
+**Q1.** With reference to Scheduled Tribes in India, which of the following statements is/are correct?
 
-A. Sonbhadra plateau only
+1. ST lists are State-wise under Article 342.
+2. A community listed as ST in one State is automatically ST in every other State.
 
-B. Terai
+Select the correct answer from the code given below:
 
-C. Pure Thar desert
-
-D. Nicobar Islands
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Tharu = Terai.
-</details>
-
-**Q2.** Which pair is a PVTG pair in the UP tribal set?
-
-A. Tharu and Gond
-
-B. Buksa and Raji
-
-C. Angami and Toda
-
-D. Santhal and Masai
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q3.** Which tribe is NOT native to Andaman and Nicobar Islands?
-
-A. Onge
-
-B. Shompen
-
-C. Rengma
-
-D. Jarawa
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Rengma = Nagaland.
-</details>
-
-**Q4.** Khasi tribe is correctly matched with:
-
-A. Arunachal Pradesh
-
-B. Meghalaya
-
-C. Rajasthan
-
-D. Tamil Nadu
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q5.** Birhor tribe is correctly matched with:
-
-A. Tamil Nadu
-
-B. Jharkhand
-
-C. Nagaland
-
-D. Kerala
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q6.** Toda tribe is correctly matched with:
-
-A. Nagaland
-
-B. Tamil Nadu
-
-C. Gujarat
-
-D. Punjab
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q7.** Kuki is correctly associated with:
-
-A. Uttar Pradesh
-
-B. North-East India
-
-C. Kalahari
-
-D. Nicobar only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q8.** Masai habitat is:
-
-A. West Africa
-
-B. East Africa
-
-C. Kalahari only
-
-D. Congo Basin only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q9.** Which pair is NOT correctly matched?
-
-A. Bushman — Kalahari
-
-B. Pygmy — Congo Basin
-
-C. Eskimo — Northern Canada
-
-D. Masai — West Africa
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-</details>
-
-**Q10.** Khirghiz are NOT correctly matched with:
-
-A. Central Asia
-
-B. Sudan
-
-C. Steppe pastoral tradition
-
-D. Neither A nor C as wrong labels
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Sudan is the wrong pairing. Khirghiz / Kyrgyz are Central Asian.
-</details>
-
-**Q11.** Koryak people are associated with:
-
-A. Alaska
-
-B. North-east Siberia
-
-C. Congo Basin
-
-D. Nilgiris
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q12.** Ainu are correctly matched with:
-
-A. Sudan
-
-B. Japan
-
-C. Nagaland
-
-D. Borneo
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q13.** Headquarters of IMD is at:
-
-A. Pune only as national HQ claim
-
-B. New Delhi
-
-C. Dehradun
-
-D. Karnal
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q14.** Headquarters of ICAR is at:
-
-A. Karnal
-
-B. New Delhi
-
-C. Izatnagar
-
-D. Bengaluru
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q15.** IARI is located at:
-
-A. Pantnagar
-
-B. Pusa, New Delhi
-
-C. Lucknow
-
-D. Dehradun
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q16.** Forest Research Institute (FRI) is at:
-
-A. New Delhi
-
-B. Dehradun
-
-C. Bareilly
-
-D. Shimla only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q17.** NDRI is at:
-
-A. Izatnagar
-
-B. Karnal
-
-C. Lucknow
-
-D. Port Blair
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q18.** IVRI is at:
-
-A. Karnal
-
-B. Izatnagar (Bareilly), UP
-
-C. Pusa only
-
-D. Anand only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q19.** IIHR is mainly associated with:
-
-A. Dairy at Karnal
-
-B. Horticulture research at Bengaluru
-
-C. Cyclone warning only
-
-D. Sentinelese census only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q20.** CISH (subtropical horticulture) is at:
-
-A. Bengaluru
-
-B. Lucknow
-
-C. Kohima
-
-D. Kalahari
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q21.** Shompen tribe belongs to:
-
-A. Nicobar (Great Nicobar)
-
-B. Nagaland
-
-C. Rajasthan
-
-D. Punjab
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-</details>
-
-**Q22.** Sentinelese are associated with:
-
-A. Nicobar plains towns
-
-B. Andaman Islands
-
-C. Meghalaya plateau
-
-D. Terai of UP
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q23.** Saharya tribe in UP notification is linked mainly with:
-
-A. Lakhimpur Kheri only
-
-B. Lalitpur
-
-C. Nicobar
-
-D. Japan
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q24.** Which of the following pairs is/are correctly matched?
-
-1. Keria — Odisha
-2. Paliyan — Tamil Nadu
-
-A. 1 only
-
+A. Both 1 and 2
 B. 2 only
-
-C. Both 1 and 2
-
+C. 1 only
 D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Both are correct (2022 logic).
+**Ans: C.** Only statement 1 is correct.
+
+**Logic:** Lists are State-specific; Parliament amends by law.
+
 </details>
 
-**Q25.** Yanadi tribe is NOT correctly matched with:
+**Q2.** Consider the following pairs:
 
-A. Andhra Pradesh
+| Tribe | State / region |
+|---|---|
+| 1. Angami / Rengma | Nagaland |
+| 2. Toda / Paliyan | Tamil Nadu |
+| 3. Khasi | Arunachal Pradesh |
 
-B. Rajasthan
+Which of the pairs given above is/are correctly matched?
 
-C. Coastal plains tradition
-
-D. None of these
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Rajasthan was the wrong 2022 pairing.
-</details>
-
----
-
-**Q26.** Agariya tribe of UP is specially remembered for:
-
-A. Sea fishing in Nicobar
-
-B. Traditional iron smelting in Sonbhadra–Mirzapur
-
-C. Matriliny of Meghalaya
-
-D. Being a Naga group
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q27.** Saharya tribe in UP is mainly notified in:
-
-A. Lakhimpur Kheri
-
-B. Lalitpur
-
-C. Nagaland
-
-D. Nicobar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q28.** Khasi and Garo societies are classically described as:
-
-A. Strictly patrilineal only
-
-B. Matrilineal
-
-C. Andaman Negrito only
-
-D. Kyrgyz steppe only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q29.** Sentinelese live on:
-
-A. Great Nicobar town belt
-
-B. North Sentinel Island (Andaman)
-
-C. Nilgiri plateau
-
-D. Kalahari
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q30.** Which is a correct Jharkhand PVTG / mainland fact?
-
-A. Birjia — Andaman
-
-B. Birhor — Jharkhand
-
-C. Rengma — Jharkhand
-
-D. Toda — Jharkhand
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q31.** Chenchu tribe is mainly associated with:
-
-A. Rajasthan desert
-
-B. Andhra–Telangana forests
-
-C. Nagaland hills only
-
-D. Terai of UP
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q32.** Warli painting tradition is linked with tribes of:
-
-A. Nagaland
-
-B. Maharashtra
-
-C. Nicobar
-
-D. Sikkim only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q33.** Scheduled Tribe lists in India are notified:
-
-A. As one single all-India roster only
-
-B. State/UT-wise under Article 342
-
-C. Only by state governors without President
-
-D. Only for Andaman
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q34.** Two geographic tribal clusters of UP are:
-
-A. Kalahari and Congo
-
-B. Terai (north) and Vindhyan/Sonbhadra (south)
-
-C. Only Nicobar and Japan
-
-D. Only Punjab and Kerala
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q35.** Meena (Mina) tribe is mainly associated with:
-
-A. Meghalaya
-
-B. Rajasthan
-
-C. Andaman
-
-D. Kerala
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q36.** According to Census 2011, Scheduled Tribes form about what share of India’s population?
-
-A. About 2%
-
-B. About 8.6%
-
-C. About 25%
-
-D. About 50%
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — ST share is about **8.6%**.
-</details>
-
-**Q37.** Particularly Vulnerable Tribal Groups (PVTGs) number about:
-
-A. 25
-
-B. 50
-
-C. 75
-
-D. 95
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — There are **75** PVTGs.
-</details>
-
-**Q38.** Primitive Tribal Groups (PTGs) were renamed PVTGs in:
-
-A. 1973
-
-B. 1986
-
-C. 2006
-
-D. 2016
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Renamed in **2006**. Dhebar identified Primitive Tribal Groups in 1973.
-</details>
-
-**Q39.** Which state has the highest number of PVTG communities?
-
-A. Uttar Pradesh
-
-B. Kerala
-
-C. Odisha
-
-D. Punjab
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — **Odisha** has the most PVTG communities.
-</details>
-
-**Q40.** Which of the following is a correct PVTG identification criterion?
-
-A. Very high urban literacy with industrial surplus
-
-B. Pre-agricultural technology and subsistence economy
-
-C. Being any coastal fishing village
-
-D. Being any Naga surname
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q41.** Sixth Schedule autonomous tribal areas are associated with which set?
-
-A. Punjab, Haryana, Delhi, Goa
-
-B. Assam, Meghalaya, Tripura, Mizoram
-
-C. Only Uttar Pradesh and Bihar
-
-D. Only Andaman and Lakshadweep
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q42.** The Forest Rights Act was enacted in:
-
-A. 1950
-
-B. 1980
-
-C. 2006
-
-D. 2020
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — **FRA 2006**.
-</details>
-
-**Q43.** PM-JANMAN is mainly associated with:
-
-A. Only metro airport privatisation
-
-B. Outreach for PVTG habitations
-
-C. Only National Highway tolls
-
-D. Only dairy cooperatives of Anand
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q44.** Assertion (A): Scheduled Tribe lists in India are state/UT-specific.
-Reason (R): Article 342 provides for notification of STs for each State/UT.
-
-A. Both A and R are true and R explains A
-
-B. Both A and R are true but R does not explain A
-
-C. A is true but R is false
-
-D. A is false but R is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Lists are state-wise because Art. 342 works that way.
-</details>
-
-**Q45.** Which of the following pairs is/are correctly matched?
-
-1. Santhal — Ol Chiki script tradition
-2. Birsa Munda — Janjatiya Gaurav Diwas association
-3. Hul 1855 — Santhal rebellion
-
-A. 1 and 2 only
-
+A. 1 and 3 only
 B. 2 and 3 only
-
-C. 1 and 3 only
-
+C. 1 and 2 only
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: C.** Only pairs 1 and 2 are correct.
+
+**Logic:** Khasi is Meghalaya — Arunachal is the trap.
+
 </details>
 
-**Q46.** Which of the following is NOT correctly matched?
+**Q3.** Which of the following is NOT correctly matched?
 
-A. NDRI — Karnal
-
-B. IVRI — Izatnagar, Bareilly
-
-C. NDDB — Anand association / Operation Flood
-
-D. NDRI — Izatnagar veterinary campus
+A. Birhor — Jharkhand
+B. Yanadi — Andhra Pradesh
+C. Kuki — Uttar Pradesh Scheduled Tribe
+D. Meena — Rajasthan
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — NDRI is the Karnal dairy lab; Izatnagar is IVRI.
+**Ans: C.** Kuki is a North-East tribe and is not a UP ST.
+
+**Logic:** Do not park NE tribes into the UP ST list.
+
 </details>
 
-**Q47.** Which statement about IMD is correct?
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Headquarters is at Dehradun
+Assertion (A): There are 75 Particularly Vulnerable Tribal Groups (PVTGs) in India.
 
-B. Founded in 1875 with HQ at New Delhi
+Reason (R): Odisha has the largest number of PVTG communities among States.
 
-C. It is the apex agricultural research council
+Select the correct answer from the code given below:
 
-D. It runs only dairy cooperatives
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: A.** Both true; Odisha’s count does not define why the national total is 75.
+
+**A/R logic:** PM-JANMAN is the outreach mission — not needed to explain the count.
+
 </details>
 
-**Q48.** Match List-I with List-II and choose the correct answer.
+**Q5.** With reference to Schedules and tribal areas, which of the following statements is/are correct?
 
-| List-I (Institute) | List-II (Place) |
+1. The Fifth Schedule covers Scheduled Areas in many States.
+2. The Sixth Schedule covers autonomous councils in Assam, Meghalaya, Tripura and Mizoram only.
+
+Select the correct answer from the code given below:
+
+A. 1 only
+B. Both 1 and 2
+C. 2 only
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Both statements are correct.
+
+**Logic:** Do not swap Fifth and Sixth Schedule coverage.
+
+</details>
+
+**Q6.** Arrange the following as a correct Uttar Pradesh ST / PVTG fact set:
+
+1. UP has 15 notified ST entries.
+2. Classic five include Tharu, Bhotia, Buksa, Jaunsari and Raji.
+3. UP PVTGs are Buksa and Raji.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three statements are correct.
+
+**Logic:** Keep Buksa + Raji as the UP PVTG pair.
+
+</details>
+
+**Q7.** Match List-I with List-II and select the correct answer from the code given below:
+
+| List-I (UP group) | List-II (Region / note) |
 |---|---|
-| A. FRI | 1. Karnal |
-| B. NDRI | 2. Dehradun |
-| C. IIHR | 3. Bengaluru |
-| D. CISH | 4. Lucknow |
+| A. Tharu | 1. Terai |
+| B. Buksa | 2. Bijnor fringe |
+| C. Saharya | 3. Lalitpur |
+| D. Agariya | 4. Iron smelting (Sonbhadra–Mirzapur belt) |
 
-> Row order is **not** the answer — use the option codes.
+*Row order is not the answer code.*
 
-A. 1 2 3 4
-
-B. 2 1 3 4
-
-C. 2 1 4 3
-
-D. 3 2 1 4
+A. A-1, B-2, C-3, D-4
+B. A-2, B-1, C-3, D-4
+C. A-1, B-3, C-2, D-4
+D. A-1, B-2, C-4, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — FRI–Dehradun; NDRI–Karnal; IIHR–Bengaluru; CISH–Lucknow.
+**Ans: A.** All four UP location/occupation pairs are correct.
+
+**Logic:** Do not put Saharya in the Terai or Agariya as farming-only.
+
 </details>
 
-**Q49.** Which of the following tribes is correctly matched with Andhra–Telangana forests?
+**Q8.** With reference to PVTGs, which of the following statements is/are correct?
 
-A. Toda
+1. PVTG criteria stress pre-agricultural technology, stagnant or declining population, extremely low literacy and subsistence economy.
+2. Dhebar-era PTG was renamed PVTG in 2006.
 
-B. Chenchu
+Select the correct answer from the code given below:
 
-C. Angami
-
-D. Rengma
+A. Both 1 and 2
+B. 1 only
+C. 2 only
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: A.** Both statements are correct.
+
+**Logic:** Do not invent a 95-group count.
+
 </details>
 
-**Q50.** Which of the following is NOT a native Andaman / Nicobar tribe?
+**Q9.** Which of the following pairs is/are NOT correctly matched?
 
-A. Jarawa
+1. Khasi and Garo — matrilineal societies of Meghalaya
+2. Masai — West Africa
+3. Bushman — Kalahari
 
-B. Onge
-
-C. Nicobarese
-
-D. Toda
+A. 1 only
+B. 2 only
+C. 1 and 2 only
+D. 2 and 3 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Toda = Tamil Nadu (Nilgiris).
+**Ans: B.** Only pair 2 is wrong — Masai are East Africa.
+
+**Logic:** West Africa is the classic Masai trap.
+
 </details>
 
-**Q51.** Lepcha tribe is mainly associated with:
+**Q10.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Sikkim
+Assertion (A): Birjia is an Andaman Negrito tribe.
 
-B. Rajasthan
+Reason (R): Andaman Negrito natives include Great Andamanese, Onge, Jarawa and Sentinelese.
 
-C. Kalahari
+Select the correct answer from the code given below:
 
-D. Congo Basin
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** (A) is false — Birjia is a Jharkhand tribe; (R) is true.
+
+**A/R logic:** Rengma is also not an island tribe.
+
 </details>
 
-**Q52.** Apatani tribe is mainly associated with:
+**Q11.** Consider the following world habitat pairs:
 
-A. Tamil Nadu
+1. Eskimo — northern Canada
+2. Pygmy — Congo
+3. Semang — Indonesia
+4. Ainu — Japan
 
-B. Arunachal Pradesh
+Which of the pairs given above is/are correctly matched?
 
-C. Gujarat
-
-D. Kerala
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q53.** In June 2025, the "Adi Karmayogi Beta Version - A Responsive Governance Initiative" was launched by which of the following Ministries?
-
-A. Ministry of AYUSH
-
-B. Ministry of Tribal Affairs
-
-C. Ministry of Civil Aviation
-
-D. Ministry of Ports
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q54.** Assertion (A): PVTGs are a more vulnerable subset identified within Scheduled Tribes.
-Reason (R): PVTG identification criteria include pre-agricultural technology, stagnant or declining population, extremely low literacy and subsistence economy.
-
-A. Both A and R are true and R explains A
-
-B. Both A and R are true but R does not explain A
-
-C. A is true but R is false
-
-D. A is false but R is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — PVTGs are the most vulnerable ST subset, and those criteria define that vulnerability.
-</details>
-
-**Q55.** Which of the following pairs is/are correctly matched?
-
-1. Bodo — Assam
-2. Warli — Maharashtra
-3. Meena — Rajasthan
-4. Toda — Nagaland
-
-A. 1, 2 and 3 only
-
-B. 2, 3 and 4 only
-
-C. 1 and 4 only
-
+A. 1, 2 and 4 only
+B. 1, 2 and 3 only
+C. 2, 3 and 4 only
 D. 1, 2, 3 and 4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Toda = Tamil Nadu, not Nagaland.
+**Ans: A.** Semang = Malaysia, not Indonesia.
+
+**Logic:** Indonesia is the Semang trap.
+
 </details>
 
----
+**Q12.** With reference to Jharkhand tribes, which of the following statements is/are correct?
+
+1. Core groups include Santhal, Munda and Oraon.
+2. Santhali uses the Ol Chiki script.
+3. Janjatiya Gaurav Diwas is observed on 15 November (Birsa Munda’s birth anniversary).
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three statements are correct.
+
+**Logic:** Hul of 1855 pairs with Santhal history in teaching notes.
+
+</details>
+
+**Q13.** Arrange the following institute–place pairs as a correct set and identify how many are right:
+
+1. IMD HQ — New Delhi (1875)
+2. FRI / ICFRE / WII — Dehradun
+3. NDRI — Karnal
+4. IVRI — Izatnagar (Bareilly)
+
+Select the correct answer from the code given below:
+
+A. Only two
+B. Only three
+C. All four
+D. Only one
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All four institute–place pairs are correct.
+
+**Logic:** Do not swap NDRI (Karnal) with IVRI (Izatnagar) or NDDB (Anand).
+
+</details>
+
+**Q14.** Match List-I with List-II and select the correct answer from the code given below:
+
+| List-I | List-II |
+|---|---|
+| A. CISH | 1. Lucknow |
+| B. CSAUAT | 2. Kanpur |
+| C. IARI | 3. Pusa, New Delhi |
+| D. ICAR HQ | 4. New Delhi (1929 teaching) |
+
+*Row order is not the answer code.*
+
+A. A-1, B-2, C-3, D-4
+B. A-2, B-1, C-3, D-4
+C. A-1, B-3, C-2, D-4
+D. A-1, B-2, C-4, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** All four UP/national institute pairs match.
+
+**Logic:** Keep CISH at Lucknow, not Karnal.
+
+</details>
+
+**Q15.** Which one of the following correctly states the Forest Rights Act year in the Must-Score set?
+
+A. 2002
+B. 2005
+C. 2006
+D. 2013
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** FRA is 2006.
+
+**Logic:** Do not confuse with other forest policy years.
+
+</details>
+
+**Q16.** With reference to ST population facts (Census 2011 teaching), which of the following statements is/are correct?
+
+1. STs are about 8.6% of India’s population.
+2. Among the largest groups are Bhil, Gond and Santhal.
+3. Madhya Pradesh often leads in absolute ST population.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 1, 2 and 3
+C. 2 and 3 only
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** All three statements are correct.
+
+**Logic:** Absolute population leadership is distinct from share leadership.
+
+</details>
+
+**Q17.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Khasi and Garo of Meghalaya are classic matrilineal societies.
+
+Reason (R): Matriliny means descent and inheritance are traced through the female line.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R correctly explains what matrilineal means for A.
+
+**A/R logic:** Do not relocate Khasi/Garo to Arunachal.
+
+</details>
+
+**Q18.** Which of the following is NOT correctly matched?
+
+A. Khirghiz — Central Asia
+B. Koryak — north-east Siberia
+C. Semang — Malaysia
+D. Koryak — Alaska
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Koryak live in NE Siberia, not Alaska.
+
+**Logic:** Alaska is the Koryak trap.
+
+</details>
+
+**Q19.** With reference to Andaman and Nicobar tribes, which of the following statements is/are correct?
+
+1. Negrito natives include Great Andamanese, Onge, Jarawa and Sentinelese.
+2. Nicobar Mongoloid groups include Nicobarese and Shompen.
+3. Rengma is an Andaman island tribe.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Rengma is Nagaland — not an island tribe.
+
+</details>
+
+**Q20.** Consider the following statements about Lokur Committee criteria:
+
+1. Criteria include primitive traits, distinctive culture, geographical isolation, shyness of contact and economic backwardness.
+2. These criteria are used in the ST listing discourse.
+
+Which of the statements given above is/are correct?
+
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both statements are correct.
+
+**Logic:** Keep Lokur as the listing-criteria frame.
+
+</details>
+
+**Q21.** Match List-I with List-II and select the correct answer from the code given below:
+
+| List-I | List-II |
+|---|---|
+| A. Lepcha | 1. Sikkim |
+| B. Bodo | 2. Assam |
+| C. Warli | 3. Maharashtra |
+| D. Apatani | 4. Arunachal Pradesh |
+
+*Row order is not the answer code.*
+
+A. A-1, B-2, C-3, D-4
+B. A-2, B-1, C-3, D-4
+C. A-1, B-3, C-2, D-4
+D. A-1, B-2, C-4, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** All four tribe–state pairs are correct.
+
+**Logic:** Standard NE / West India matches.
+
+</details>
+
+**Q22.** With reference to transhumance, which one of the following is correct?
+
+A. Permanent one-way emigration to cities
+B. Seasonal valley–mountain herding movement
+C. Only maritime fishing migration
+D. Only international refugee movement
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Transhumance is seasonal herd movement between altitudes.
+
+**Logic:** Do not confuse with permanent emigration.
+
+</details>
+
+**Q23.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): NDRI and NDDB are the same institution.
+
+Reason (R): NDRI is the Karnal research institute, while NDDB is the Anand cooperative board.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** (A) is false; (R) correctly separates NDRI and NDDB.
+
+**A/R logic:** Lab vs co-op board is the confused pair.
+
+</details>
+
+**Q24.** Which of the following pairs is NOT correctly matched?
+
+A. Chenchu — Andhra / Telangana
+B. Toda — Tamil Nadu
+C. Keria/Kharia — Odisha (also Jharkhand for Kharia)
+D. Yanadi — Rajasthan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Yanadi is Andhra Pradesh, not Rajasthan.
+
+**Logic:** Rajasthan is the Yanadi trap.
+
+</details>
+
+**Q25.** With reference to Uttar Pradesh ST notifications after the 2003 Act, which of the following statements is/are correct?
+
+1. Many UP ST notifications are district-limited.
+2. Two clusters that matter are Terai north versus Vindhyan / Sonbhadra south.
+
+Select the correct answer from the code given below:
+
+A. 1 only
+B. 2 only
+C. Neither 1 nor 2
+D. Both 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both statements are correct.
+
+**Logic:** District limits are a UP-specific trap area.
+
+</details>
+
+**Q26.** Consider the following statements:
+
+1. Gypsies’ original home is associated with India in the teaching set.
+2. Cro-Magnon is treated as the most recent among classic fossil-human options.
+
+Which of the statements given above is/are correct?
+
+A. Both 1 and 2
+B. 1 only
+C. 2 only
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both statements are correct.
+
+**Logic:** Africa as cradle of mankind is a separate world-habitat fact.
+
+</details>
+
+**Q27.** Arrange the following from North-East Schedule coverage to national ST share:
+
+1. Sixth Schedule States (Assam–Meghalaya–Tripura–Mizoram)
+2. ST share ~8.6% (2011)
+3. PVTG count 75
+
+Which sequence correctly lists these as true teaching facts (all true)?
+
+A. Only 1 and 2 are true facts
+B. Only 2 and 3 are true facts
+C. 1, 2 and 3 are all true facts
+D. Only 1 is a true fact
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All three are true Must-Score facts.
+
+**Logic:** This is a multi-fact check, not a year chronology.
+
+</details>
+
+**Q28.** With reference to Central Indian tribes, which of the following statements is/are correct?
+
+1. Gond (with Maria/Muria), Bhil, Baiga, Kol and Korku belong to the Central Indian heartland set.
+2. Warli is associated with Maharashtra; Meena with Rajasthan.
+
+Select the correct answer from the code given below:
+
+A. 1 only
+B. Both 1 and 2
+C. 2 only
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Both statements are correct.
+
+**Logic:** Keep Warli–Maharashtra and Meena–Rajasthan unswapped.
+
+</details>
+
+**Q29.** Which one of the following correctly pairs FRI and WII?
+
+A. Both are in Lucknow
+B. Both are in Dehradun, but WII is not the same answer as FRI when stems distinguish them
+C. FRI is Delhi and WII is Dehradun
+D. Both are in Karnal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Both sit in Dehradun; stems may still ask one specific institute.
+
+**Logic:** Do not merge FRI and WII into one interchangeable key.
+
+</details>
+
+**Q30.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): The Sixth Schedule applies to all Scheduled Areas of India.
+
+Reason (R): The Sixth Schedule covers autonomous councils in Assam, Meghalaya, Tripura and Mizoram only.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** (A) is false; (R) correctly limits Sixth Schedule States.
+
+**A/R logic:** Fifth Schedule covers many States’ Scheduled Areas — do not swap.
+
+</details>
 
 ## Common Traps — Don't Fall For These
 

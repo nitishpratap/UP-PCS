@@ -2352,1303 +2352,645 @@ D. Erosional waterfall
 
 ---
 
-## Practice Zone — UPPCS Format Questions
+## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden** — click **Show answer** under each question to reveal.
-> **Format mix:** 70 questions — multi-statement | Assertion–Reason | Match List | NOT correctly matched | direct recall (asked + standard process angles)
+> **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D | **Ans first, then Logic**
 
-**Q1.** Drainage pattern associated with **folded** structures is:
+**Q1.** With reference to endogenic and exogenic processes, which of the following statements is/are correct?
 
-A. Radial
+1. Endogenic processes build relief from inside the Earth.
+2. Exogenic processes wear and deposit at the surface.
+3. Gradation = degradation + aggradation.
 
-B. Trellis
-
-C. Dendritic
-
-D. Rectangular
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q2.** Bird’s-foot delta is classically at the mouth of the:
-
-A. Huang Ho
-
-B. Nile
-
-C. Danube
-
-D. Mississippi
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-</details>
-
----
-
-**Q3.** ‘Moribund Delta’ is a subdivision of the:
-
-A. Krishna–Godavari
-
-B. Mahanadi
-
-C. Bengal
-
-D. Cauvery
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Stem says **subdivision** — Bengal’s moribund–mature–active scheme (UPPCS 2019 family).
-
-**Ans: C** — **Bengal**. Trap D is the Cauvery lobe memory from landform match-lists.
-
-</details>
-
----
-
-**Q4.** Imphal Basin surrounded by Manipur hills is a:
-
-A. Lacustrine plain
-
-B. Loess plain
-
-C. Glacial plain
-
-D. Alluvial plain (MCQ trap)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-</details>
-
----
-
-**Q5.** Marble is metamorphosed:
-
-A. Sandstone
-
-B. Granite
-
-C. Limestone
-
-D. Shale
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q6.** Quartzite comes from:
-
-A. Limestone
-
-B. Sandstone
-
-C. Basalt
-
-D. Shale
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q7.** Granite typically metamorphoses to:
-
-A. Marble
-
-B. Gneiss
-
-C. Slate
-
-D. Quartzite
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q8.** Which is an **extrusive** igneous rock?
-
-A. Granite
-
-B. Gabbro
-
-C. Basalt
-
-D. Gneiss
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q9.** Weathering differs from erosion because weathering:
-
-A. Always involves a river
-
-B. Is **in-situ** breakdown
-
-C. Is only glacial
-
-D. Means deposition
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q10.** Carbonation is most effective on:
-
-A. Granite domes only
-
-B. Limestone
-
-C. Basalt only
-
-D. Ice
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q11.** Ox-bow lakes form in the river’s:
-
-A. Youth gorge
-
-B. Old-age floodplain (cut-off meander)
-
-C. Cirque
-
-D. Barchan field
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q12.** Natural levees are:
-
-A. Glacial moraines
-
-B. Raised silt banks along a channel
-
-C. Coral atolls
-
-D. Yardangs
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q13.** Ganga–Brahmaputra delta type is:
-
-A. Bird’s-foot
-
-B. Arcuate
-
-C. Moribund Cauvery type only
-
-D. Cuspate Tiber type only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q14.** Nile delta is typically classed as:
-
-A. Bird’s-foot
-
-B. Arcuate
-
-C. Fjord
-
-D. Seif
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q15.** With reference to Mekong:
-
-1. Rises in the Tibetan Plateau.
-2. Delta is in southern Cambodia.
-
-A. Only 1
-
-B. Only 2
-
-C. Both
-
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Delta = **southern Vietnam**.
-</details>
-
----
-
-**Q16.** U-shaped valley indicates:
-
-A. Youthful river
-
-B. Glacier
-
-C. Wind
-
-D. Karst only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q17.** A fjord is:
-
-A. A barchan
-
-B. A drowned glacial trough
-
-C. A stalagmite
-
-D. A trellis stream
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q18.** Barchan horns point:
-
-A. Upwind
-
-B. Downwind
-
-C. Always north
-
-D. Toward the cirque
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q19.** Loess is:
-
-A. Glacial till only
-
-B. Wind-laid silt
-
-C. Coral sand
-
-D. Extrusive lava
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q20.** Stalactites hang from the:
-
-A. Floor
-
-B. Cave ceiling
-
-C. Moraine
-
-D. Spit
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q21.** A tombolo:
-
-A. Is a cirque lake
-
-B. Joins an island to the mainland
-
-C. Is a fold mountain
-
-D. Is a drumlin
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q22.** Dendritic drainage develops on:
-
-A. Tight folds only
-
-B. Homogeneous rock
-
-C. Only ice sheets
-
-D. Only limestone caves
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q23.** Rectangular drainage is controlled by:
-
-A. ITCZ
-
-B. Joints / faults
-
-C. Coral growth
-
-D. Barchans
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q24.** Radial drainage is typical of:
-
-A. Fold belts
-
-B. Domes / volcanic cones
-
-C. Loess plateaux only
-
-D. Fjords
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q25.** Rejuvenation of a river produces:
-
-A. Only barchans
-
-B. Knickpoints, terraces, incised meanders
-
-C. Only atolls
-
-D. Only drumlins
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q26.** Alluvial fans form:
-
-A. At deep-sea trenches
-
-B. At the foot of mountains
-
-C. Only on ice caps
-
-D. In the stratosphere
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q27.** Hanging valleys are products of:
-
-A. Wind
-
-B. Glaciers
-
-C. Coral
-
-D. Trellis folds only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q28.** Drumlins are:
-
-A. Wind dunes
-
-B. Streamlined glacial till mounds
-
-C. Coral rings
-
-D. Ox-bows
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q29.** Eskers are deposited by:
-
-A. Trade winds
-
-B. Subglacial meltwater streams
-
-C. Tsunamis only
-
-D. ITCZ
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q30.** Yardangs are:
-
-A. Fluvial levees
-
-B. Wind-eroded ridges
-
-C. Stalagmites
-
-D. Moraines
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q31.** Exfoliation is typical on:
-
-A. Limestone caves
-
-B. Granite / massive igneous
-
-C. Icebergs
-
-D. Atolls
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q32.** Potholes in a river bed are features of:
-
-A. Old-age delta
-
-B. Youthful / turbulent channel
-
-C. Barchan
-
-D. Fjord mouth only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q33.** West-flowing Narmada and Tapi occupy:
-
-A. Himalayan folds
-
-B. Rift / fault valleys
-
-C. Coral lagoons
-
-D. Cirques
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q34.** East coast of India favours deltas because of:
-
-A. Narrow shelf + huge waves only
-
-B. Broader shelf + lower wave energy
-
-C. Only glaciers
-
-D. Only loess
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q35.** Shale metamorphoses first toward:
-
-A. Marble
-
-B. Slate
-
-C. Quartzite
-
-D. Basalt
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q36.** Fossils are expected mainly in:
-
-A. Granite
-
-B. Basalt
-
-C. Sedimentary rocks
-
-D. Fresh obsidian
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q37.** Cirque lake is a:
-
-A. Ox-bow
-
-B. Tarn
-
-C. Lagoon
-
-D. Playa only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q38.** A spit is attached at:
-
-A. Both ends to two continents
-
-B. One end to the coast
-
-C. Only to a glacier
-
-D. Only to a barchan
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q39.** Darwin’s coral sequence is:
-
-A. Atoll → barrier → fringing
-
-B. Fringing → barrier → atoll
-
-C. Stack → spit → cirque
-
-D. Gneiss → granite → magma only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q39a.** The shape of an atoll is:
-
-A. Rectangular
-
-B. Rod-shaped
-
-C. Horseshoe / ring-shaped
-
-D. Triangular
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Atoll = coral rim around a central lagoon — horseshoe / ring, not delta-triangle or rectangle.
-
-**Ans: C.** The reef rim closes around a **lagoon**, so the form is **horseshoe / ring**. Trap: triangular (arcuate delta) or rectangular (joint coasts).
-
-</details>
-
----
-
-**Q40.** Which pair is NOT correctly matched?
-
-A. Mississippi — bird’s-foot
-
-B. Cauvery — moribund
-
-C. Imphal — lacustrine
-
-D. Ganga — bird’s-foot
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-</details>
-
----
-
-**Q41.** Seif dunes are:
-
-A. Crescent barchans
-
-B. Longitudinal, parallel to wind
-
-C. Glacial eskers
-
-D. Stalactites
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q42.** Terminal moraine marks:
-
-A. The ITCZ
-
-B. Maximum former ice stand
-
-C. A spit
-
-D. A trellis junction
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q43.** Chemical weathering is fastest in:
-
-A. Hot dry desert nights only
-
-B. Hot wet tropics
-
-C. Polar ice caps
-
-D. The stratosphere
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q44.** Assertion (A): Trellis drainage is common in folded terrain.
-Reason (R): Alternate hard and soft beds guide subsequent streams in valleys.
-
-A. Both true, R explains A
-
-B. Both true, R not explanation
-
-C. A true R false
-
-D. A false R true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-</details>
-
----
-
-**Q45.** Incised meanders imply:
-
-A. Only wind work
-
-B. Rejuvenation / uplift
-
-C. Only coral growth
-
-D. Only loess
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q46.** Stacks are leftover of:
-
-A. Barchans
-
-B. Coastal arches collapsing
-
-C. Drumlins
-
-D. Gneiss melting
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q47.** Playas are:
-
-A. Alpine horns
-
-B. Desert interior basins / dry lake flats
-
-C. Bird’s-foot toes
-
-D. Ox-bows of Ganga only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q48.** Greater Himalaya sedimentary rocks in the 2019 paper were:
-
-A. Rich in marine fossils like Lesser Himalaya
-
-B. Fossil-poor / fossil-less
-
-C. The same as Shiwalik conglomerates
-
-D. Loess
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q49.** Which agent dominates mushroom/pedestal rocks in deserts?
-
-A. Glacier plucking
-
-B. Wind abrasion
-
-C. Coral
-
-D. Meander cutoff
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q50.** Karst topography requires mainly:
-
-A. Basalt + ice
-
-B. Limestone + carbonation
-
-C. Granite + barchans
-
-D. Gneiss + fjords
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q51.** Which river is famous for **fault valley drainage** in the UPPCS set?
-
-A. Chambal
-
-B. Damodar
-
-C. Gandak
-
-D. Ramganga
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 2019 Q9. Chambal = ravines, not the fault-valley river in that key.
-</details>
-
----
-
-**Q52.** A **sill** is an igneous sheet that:
-
-A. Always cuts bedding
-
-B. Lies **parallel to bedding**
-
-C. Is always a granite batholith
-
-D. Is a barchan
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q53.** A **dyke** is:
-
-A. Concordant with beds
-
-B. Discordant — cuts the beds
-
-C. A spit
-
-D. A moraine
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q54.** Conglomerate differs from breccia because conglomerate pebbles are:
-
-A. Angular
-
-B. Rounded
-
-C. Always limestone
-
-D. Always glassy
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q55.** On a meander, the **point bar** grows on the:
-
-A. Concave cut bank
-
-B. Convex inner bank
-
-C. Cirque floor
-
-D. Stack top
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q56.** A **yazoo** stream:
-
-A. Is a glacial esker
-
-B. Runs parallel behind a levee and joins downstream
-
-C. Is a bird’s-foot toe
-
-D. Is a sill
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q57.** Davis’s end-product of humid old age is a:
-
-A. Fjord
-
-B. Peneplain (leftovers = monadnocks)
-
-C. Atoll
-
-D. Barchan
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q58.Pediplain** is associated with:
-
-A. Only coral coasts
-
-B. King’s pediment retreat (arid/savanna)
-
-C. Only ice sheets
-
-D. Only trellis folds
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q59.** An **antecedent** river:
-
-A. Follows a new fault only
-
-B. Predates and cuts rising land
-
-C. Is always a yazoo
-
-D. Is wind-laid loess
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q60.** A **cuesta** has:
-
-A. Equal steep sides like a hogback
-
-B. Gentle dip slope + steep scarp
-
-C. Only glacial striations
-
-D. Only coral polyps
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q61.** A **ria** coast is:
-
-A. A drowned glacial trough
-
-B. A drowned river valley
-
-C. A barchan chain
-
-D. A batholith
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Fjord = glacial.
-</details>
-
----
-
-**Q62.Subsequent** streams typically follow:
-
-A. Only the ITCZ
-
-B. Weaker beds / faults
-
-C. Only ice shelves
-
-D. Only atolls
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q63.** Batholiths are typically:
-
-A. Thin lava skins
-
-B. Huge intrusive granite masses
-
-C. Wind dunes
-
-D. Ox-bows
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q64.** River **capture** leaves a:
-
-A. Coral atoll
-
-B. Wind gap + elbow of capture
-
-C. Only a seif
-
-D. Only a tarn
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q65.** Foliated metamorphic rock among the following is:
-
-A. Marble
-
-B. Quartzite
-
-C. Gneiss / schist / slate
-
-D. Rock salt
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Marble and quartzite are non-foliated.
-</details>
-
----
-
-**Q66.** Endogenic processes are best described as:
-
-A. Only river deposition on floodplains
-
-B. Internal Earth processes such as folding, faulting and volcanism
-
-C. Only wind abrasion in deserts
-
-D. Only coastal spit growth
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q67.** Weathering differs from erosion because weathering:
-
-A. Always transports material to the sea
-
-B. Breaks rock in place without requiring transport
-
-C. Is only done by glaciers
-
-D. Means building a delta
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q68.** Which intrusive body cuts across bedding planes?
-
-A. Sill
-
-B. Dyke
-
-C. Laccolith only always parallel
-
-D. Lopolith only always parallel
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Dyke is discordant; sill is parallel to beds.
-</details>
-
----
-
-**Q69.** Assertion (A): A peneplain is associated with the old stage of the Davis cycle in humid regions.
-Reason (R): L.C. King’s pediplain idea is framed mainly for arid / savanna pediment retreat.
-
-A. Both A and R are true and R explains A
-
-B. Both A and R are true but R does not explain A
-
-C. A is true but R is false
-
-D. A is false but R is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Both facts are true; they are parallel theories, not one explaining the other.
-</details>
-
----
-
-**Q70.** Which of the following pairs is/are correctly matched?
-
-1. Concave bank of a meander — erosion / river cliff
-2. Convex bank — point bar deposition
-3. Stalactite — grows from cave floor
+Select the correct answer from the code given below:
 
 A. 1 and 2 only
+B. 1, 2 and 3
+C. 2 and 3 only
+D. 1 and 3 only
 
-B. 2 and 3 only
+<details>
+<summary>Show answer</summary>
 
+**Ans: B.** All three statements are correct.
+
+**Logic:** Davis cycle uses structure–process–time.
+
+</details>
+
+**Q2.** Consider the following pairs:
+
+| Rock / body | Fact |
+|---|---|
+| 1. Granite | Intrusive acidic igneous |
+| 2. Basalt | Extrusive basic igneous |
+| 3. Fossils | Typical of igneous rocks |
+
+Which of the pairs given above is/are correctly matched?
+
+A. 1 and 3 only
+B. 1, 2 and 3
+C. 1 and 2 only
+D. 2 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only pairs 1 and 2 are correct.
+
+**Logic:** Fossils belong to sedimentary rocks.
+
+</details>
+
+**Q3.** Which of the following is NOT correctly matched?
+
+A. Limestone → marble
+B. Sandstone → quartzite
+C. Granite → gneiss
+D. Sandstone → marble
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Marble forms from limestone, not sandstone.
+
+**Logic:** Quartzite is the sandstone metamorphic product.
+
+</details>
+
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Weathering breaks rock in situ, while erosion picks up and carries material.
+
+Reason (R): Denudation is weathering plus erosion.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R correctly places weathering+erosion as denudation tied to A’s distinction.
+
+**A/R logic:** Do not treat weathering and erosion as identical.
+
+</details>
+
+**Q5.** Arrange fluvial stage landforms youth → mature → old:
+
+1. Ox-bow / delta / peneplain
+2. V-valley / waterfall / pothole
+3. Meander / floodplain / levee
+
+Select the correct answer from the code given below:
+
+A. 2-1-3
+B. 3-2-1
+C. 2-3-1
+D. 1-3-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Youth V-valley → mature meander → old ox-bow/delta.
+
+**Logic:** Rejuvenation adds knickpoints, terraces and incised meanders.
+
+</details>
+
+**Q6.** With reference to meanders, which of the following statements is/are correct?
+
+1. The concave bank erodes.
+2. The convex bank builds a point bar.
+3. A yazoo stream is deferred behind a levee.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 1, 2 and 3
+C. 2 and 3 only
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** All three meander statements are correct.
+
+**Logic:** Alluvial fans coalesce into a bajada.
+
+</details>
+
+**Q7.** Match List-I with List-II and select the correct answer from the code given below:
+
+| List-I (Delta type) | List-II |
+|---|---|
+| A. Bird’s-foot | 1. Mississippi |
+| B. Arcuate | 2. Nile / Ganga–Brahmaputra |
+| C. Cuspate | 3. Tiber |
+| D. Trellis drainage | 4. Folded beds |
+
+*Row order is not the answer code.*
+
+A. A-1, B-3, C-2, D-4
+B. A-2, B-1, C-3, D-4
+C. A-1, B-2, C-3, D-4
+D. A-1, B-2, C-4, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All four pairs are correct.
+
+**Logic:** Dendritic = homogeneous rock; radial = dome; rectangular = joints/faults.
+
+</details>
+
+**Q8.** With reference to Indian river mouths, which of the following statements is/are correct?
+
+1. Eastern rivers typically build deltas.
+2. West-flowing Narmada and Tapi typically form estuaries.
+
+Select the correct answer from the code given below:
+
+A. 2 only
+B. 1 only
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both statements are correct.
+
+**Logic:** Do not mark all Indian mouths as deltas.
+
+</details>
+
+**Q9.** Which of the following pairs is/are NOT correctly matched?
+
+1. Damodar — fault-valley river tag
+2. Imphal basin — lacustrine
+3. Imphal basin — loess
+
+A. 1 only
+B. 3 only
 C. 1 and 3 only
+D. 2 and 3 only
 
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only pair 3 is wrong — Imphal is lacustrine, not loess.
+
+**Logic:** Loess is wind-laid silt (China belt).
+
+</details>
+
+**Q10.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): A sill is parallel to beds, while a dyke cuts across beds.
+
+Reason (R): Both sill and dyke are igneous intrusive bodies.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R correctly frames why sill/dyke geometry matters within intrusive bodies.
+
+**A/R logic:** Do not swap sill and dyke attitudes.
+
+</details>
+
+**Q11.** With reference to glacial and coastal forms, which of the following statements is/are correct?
+
+1. A fjord is a drowned glacial trough.
+2. A ria is a drowned river valley.
+3. Fjord and ria are the same estuary type.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Stalactite hangs from the **ceiling**; stalagmite grows from the floor.
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Do not merge fjord with ria.
+
 </details>
 
----
+**Q12.** Match List-I with List-II and select the correct answer from the code given below:
+
+| List-I | List-II |
+|---|---|
+| A. Barchan horns | 1. Point downwind |
+| B. Stalactite | 2. Ceiling |
+| C. Stalagmite | 3. Floor |
+| D. U-valley | 4. Glacier |
+
+*Row order is not the answer code.*
+
+A. A-1, B-2, C-3, D-4
+B. A-2, B-1, C-3, D-4
+C. A-1, B-3, C-2, D-4
+D. A-1, B-2, C-4, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** All four pairs are correct.
+
+**Logic:** Parabolic dunes often show horns upwind.
+
+</details>
+
+**Q13.** Arrange stream genetic types often contrasted in notes — which statement is correct?
+
+1. Antecedent streams cut rising land.
+2. Superimposed streams inherit a course from a cover.
+3. Subsequent streams follow structure.
+
+How many of the above are correct?
+
+A. Only one
+B. Only two
+C. All three
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All three genetic statements are correct.
+
+**Logic:** Consequent follows initial slope.
+
+</details>
+
+**Q14.** With reference to mesa, butte, peneplain and pediplain, which of the following statements is/are correct?
+
+1. A mesa is broader than a butte.
+2. Davis’s humid old-age plain is a peneplain with monadnocks.
+3. King’s arid form is a pediplain.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 1, 2 and 3
+C. 2 and 3 only
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** All three statements are correct.
+
+**Logic:** Cuesta has gentle dip + steep scarp; hogback is steep on both sides.
+
+</details>
+
+**Q15.** Which one of the following correctly pairs conglomerate and breccia?
+
+A. Conglomerate — angular; breccia — rounded
+B. Conglomerate — rounded pebbles; breccia — angular fragments
+C. Both always metamorphic
+D. Both lack clasts
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Rounded vs angular is the conglomerate/breccia trap.
+
+**Logic:** Organic sedimentary pair includes coal.
+
+</details>
+
+**Q16.** Consider the following drainage pattern pairs:
+
+1. Folded beds — trellis
+2. Homogeneous rock — dendritic
+3. Dome — radial
+4. Joints/faults — rectangular
+
+Which of the pairs given above is/are correctly matched?
+
+A. 1, 2 and 3 only
+B. 1, 2 and 4 only
+C. 2, 3 and 4 only
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All four drainage pairs are correct.
+
+**Logic:** Do not put dendritic on folded beds.
+
+</details>
+
+**Q17.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Bird’s-foot delta is typified by the Mississippi.
+
+Reason (R): Arcuate deltas include the Nile and Ganga–Brahmaputra.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; arcuate examples do not explain why Mississippi is bird’s-foot.
+
+**A/R logic:** Read moribund stems carefully (Bengal vs Cauvery frames).
+
+</details>
+
+**Q18.** With reference to aeolian and coastal deposition, which of the following statements is/are correct?
+
+1. Yardang, zeugen and mushroom rocks are wind-eroded forms.
+2. Coastal deposition builds spit, bar, tombolo and lagoon with longshore drift.
+
+Select the correct answer from the code given below:
+
+A. 1 only
+B. Both 1 and 2
+C. 2 only
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Both statements are correct.
+
+**Logic:** Coral reefs include fringing, barrier and atoll.
+
+</details>
+
+**Q19.** Which of the following is NOT correctly matched?
+
+A. V-valley — youthful river
+B. U-valley — glacier
+C. Fjord — drowned glacial trough
+D. U-valley — youthful river
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** U-valley is glacial; youthful river cuts V-valleys.
+
+**Logic:** Classic U/V swap trap.
+
+</details>
+
+**Q20.** Match List-I with List-II and select the correct answer from the code given below:
+
+| List-I | List-II |
+|---|---|
+| A. Weathering | 1. In situ breakdown |
+| B. Erosion | 2. Pickup and transport |
+| C. Karst | 3. Sinkhole, cave, stalactite |
+| D. Glacier deposition | 4. Moraine, drumlin, esker, kame |
+
+*Row order is not the answer code.*
+
+A. A-1, B-2, C-3, D-4
+B. A-2, B-1, C-3, D-4
+C. A-1, B-3, C-2, D-4
+D. A-1, B-2, C-4, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** All four process–form pairs are correct.
+
+**Logic:** Chemical routes include carbonation, oxidation, hydrolysis and hydration.
+
+</details>
+
+**Q21.** With reference to Himalayan belts and fossils, which of the following statements is/are correct?
+
+1. Himadri is fossil-poor crystalline rock.
+2. Lesser Himalaya carries marine fossils.
+3. Shiwalik holds human remains in the teaching contrast.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 1, 2 and 3
+C. 2 and 3 only
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** All three belt contrasts are correct.
+
+**Logic:** Keep the three belts distinct in landform stems.
+
+</details>
+
+**Q22.** Consider the following statements:
+
+1. Intertrappean beds between Deccan lava flows hold land and freshwater fossils.
+2. Mekong source is Tibet; its delta is in Vietnam.
+
+Which of the statements given above is/are correct?
+
+A. Both 1 and 2
+B. 1 only
+C. 2 only
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both statements are correct.
+
+**Logic:** Do not place Mekong delta only in Cambodia.
+
+</details>
+
+**Q23.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): The classic fault-valley river tag is the Damodar.
+
+Reason (R): Chambal is primarily a ravine landscape pair rather than that fault-valley tag.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R correctly blocks the Chambal distractor for A.
+
+**A/R logic:** Narmada–Tapi are also rift/fault-line pairs.
+
+</details>
+
+**Q24.** With reference to river capture vocabulary, which of the following statements is/are correct?
+
+1. Terms include pirate stream, beheaded stream, wind gap and elbow of capture.
+2. Mountain-foot dumps are alluvial fans.
+
+Select the correct answer from the code given below:
+
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both statements are correct.
+
+**Logic:** Coalescing fans form a bajada.
+
+</details>
+
+**Q25.** Which of the following pairs is NOT correctly matched?
+
+A. Antecedent — cuts rising land
+B. Superimposed — inherited on cover
+C. Consequent — follows structure
+D. Subsequent — follows structure
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Consequent follows initial slope; subsequent follows structure.
+
+**Logic:** Consequent/subsequent swap is the trap.
+
+</details>
+
+**Q26.** Arrange agents of erosion commonly listed:
+
+1. River, wind, glacier, sea, groundwater (karst), gravity (mass wasting)
+
+Which option is correct?
+
+A. Only river and wind are agents
+B. The full set in statement 1 is the teaching agent list
+C. Only glacier and sea are agents
+D. Groundwater is never an agent
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** All listed agents are in the Must-Score set.
+
+**Logic:** Load moves by traction, saltation, suspension and solution.
+
+</details>
+
+**Q27.** With reference to atolls and coastal reefs, which of the following statements is/are correct?
+
+1. Coral reefs include fringing, barrier and atoll types.
+2. An atoll is typically a ring/horseshoe reef around a lagoon in teaching diagrams.
+
+Select the correct answer from the code given below:
+
+A. Both 1 and 2
+B. 1 only
+C. 2 only
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both statements are correct.
+
+**Logic:** Keep reef typology separate from spit/bar/tombolo.
+
+</details>
+
+**Q28.** Match List-I with List-II and select the correct answer from the code given below:
+
+| List-I | List-II |
+|---|---|
+| A. Cirque / arête / horn | 1. Glacial erosion |
+| B. Moraine / esker / drumlin | 2. Glacial deposition |
+| C. Spit / bar / tombolo | 3. Coastal deposition |
+| D. Sinkhole / cave | 4. Karst |
+
+*Row order is not the answer code.*
+
+A. A-1, B-2, C-3, D-4
+B. A-2, B-1, C-3, D-4
+C. A-1, B-3, C-2, D-4
+D. A-1, B-2, C-4, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** All four agent–landform families are correct.
+
+**Logic:** Hanging valley and tarn also belong to glacial erosion sets.
+
+</details>
+
+**Q29.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Stalactites hang from the ceiling; stalagmites grow from the floor.
+
+Reason (R): Both are karst depositional forms from dripstone processes.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R explains the shared karst process behind A.
+
+**A/R logic:** Ceiling/floor swap is the classic trap.
+
+</details>
+
+**Q30.** Which one of the following correctly states the rock-cycle loop in teaching notes?
+
+A. Igneous material can never become sedimentary
+B. Magma ⇄ igneous → sedimentary → metamorphic → melt (with uplift loops)
+C. Metamorphic rocks cannot remelt
+D. Sedimentary rocks form only in space
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The rock cycle allows reappearance as different rock types after burial, melting or recrystallisation.
+
+**Logic:** Keep igneous → sedimentary → metamorphic as the spine.
+
+</details>
 
 ## Common Traps — Don't Fall For These
 

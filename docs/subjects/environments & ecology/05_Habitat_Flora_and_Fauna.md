@@ -473,9 +473,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** They are not interchangeable.
-
 **Ans: A.**
+
+**Logic:** They are not interchangeable.
 
 </details>
 
@@ -493,9 +493,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Mangrove/wetland are transitional.
-
 **Ans: C.**
+
+**Logic:** Mangrove/wetland are transitional.
 
 </details>
 
@@ -518,9 +518,9 @@ D. A-3, B-1, C-2, D-4
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Arboreal trees; fossorial burrows; cursorial plains; xericole desert.
-
 **Ans: B.**
+
+**Logic:** Arboreal trees; fossorial burrows; cursorial plains; xericole desert.
 
 </details>
 
@@ -538,9 +538,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** Both true; corridors respond to fragmentation but do not define why loss is #1.
-
 **Ans: A.**
+
+**A/R logic:** Both true; corridors respond to fragmentation but do not define why loss is #1.
 
 </details>
 
@@ -558,9 +558,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Not a 2019 scheme.
-
 **Ans: A.**
+
+**Logic:** Not a 2019 scheme.
 
 </details>
 
@@ -576,9 +576,9 @@ D. 1-2-4-3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 2005 → 2007 → 2015 → 2019.
-
 **Ans: B.**
+
+**Logic:** 2005 → 2007 → 2015 → 2019.
 
 </details>
 
@@ -597,9 +597,9 @@ D. 1, 2, 3 and 4
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Flora/fauna swapped in 1–2; BSI/ZSI correct.
-
 **Ans: B.**
+
+**Logic:** Flora/fauna swapped in 1–2; BSI/ZSI correct.
 
 </details>
 
@@ -617,9 +617,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Both sit in Kolkata — not Mumbai.
-
 **Ans: A.**
+
+**Logic:** Both sit in Kolkata — not Mumbai.
 
 </details>
 
@@ -637,9 +637,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** A true; NUHHP is MoHUA housing/habitat policy — R false.
-
 **Ans: C.**
+
+**A/R logic:** A true; NUHHP is MoHUA housing/habitat policy — R false.
 
 </details>
 
@@ -661,9 +661,9 @@ D. A-3, B-1, C-2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Engler floral regions; Sauer planting hearths; microhabitat subdivision.
-
 **Ans: A.**
+
+**Logic:** Engler floral regions; Sauer planting hearths; microhabitat subdivision.
 
 </details>
 
@@ -681,9 +681,9 @@ D. 1 and 2 only
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Fragmentation typically harms connectivity/genetics — statement 3 false.
-
 **Ans: D.**
+
+**Logic:** Fragmentation typically harms connectivity/genetics — statement 3 false.
 
 </details>
 
@@ -697,9 +697,9 @@ D. Both mean only domesticated species
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Flora plants; fauna animals.
-
 **Ans: B.**
+
+**Logic:** Flora plants; fauna animals.
 
 </details>
 
@@ -717,9 +717,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Statement 2 is false.
-
 **Ans: B.**
+
+**Logic:** Statement 2 is false.
 
 </details>
 
@@ -737,9 +737,9 @@ D. 1 and 2 only
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Statement 3 is false.
-
 **Ans: D.**
+
+**Logic:** Statement 3 is false.
 
 </details>
 
@@ -757,9 +757,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** All three correct.
-
 **Ans: D.**
+
+**Logic:** All three correct.
 
 </details>
 
@@ -777,9 +777,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** A true; kingdoms are swapped in R — R false.
-
 **Ans: C.**
+
+**A/R logic:** A true; kingdoms are swapped in R — R false.
 
 </details>
 
@@ -798,9 +798,9 @@ D. 3 and 4 only
 <details>
 <summary>Show answer</summary>
 
-**Logic:** AMRUT 2015; JJM 2019 — 1 and 2 correct.
-
 **Ans: B.**
+
+**Logic:** AMRUT 2015; JJM 2019 — 1 and 2 correct.
 
 </details>
 
@@ -818,9 +818,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** All three correct.
-
 **Ans: D.**
+
+**Logic:** All three correct.
 
 </details>
 
@@ -838,9 +838,9 @@ D. None
 <details>
 <summary>Show answer</summary>
 
-**Logic:** MISHTI MoEFCC yes; NUHHP MoHUA no; PA governance broadly yes → two.
-
 **Ans: A.**
+
+**Logic:** MISHTI MoEFCC yes; NUHHP MoHUA no; PA governance broadly yes → two.
 
 </details>
 
@@ -854,9 +854,9 @@ D. It means only deep ocean trenches
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Small subdivision inside larger habitat.
-
 **Ans: B.**
+
+**Logic:** Small subdivision inside larger habitat.
 
 </details>
 
@@ -874,9 +874,9 @@ D. 1 and 2 only
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Corridors matter — statement 3 false.
-
 **Ans: D.**
+
+**Logic:** Corridors matter — statement 3 false.
 
 </details>
 
@@ -898,9 +898,9 @@ D. A-3, B-1, C-2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** AMRUT 2015; NUHHP 2007; JJM 2019.
-
 **Ans: A.**
+
+**Logic:** AMRUT 2015; NUHHP 2007; JJM 2019.
 
 </details>
 
@@ -918,9 +918,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** A true; fossorial = burrows — R false.
-
 **Ans: C.**
+
+**A/R logic:** A true; fossorial = burrows — R false.
 
 </details>
 
@@ -938,9 +938,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** All three correct.
-
 **Ans: D.**
+
+**Logic:** All three correct.
 
 </details>
 
@@ -958,9 +958,9 @@ D. 1 and 2 only
 <details>
 <summary>Show answer</summary>
 
-**Logic:** JJM is 2019 drinking-water mission — not JNNURM.
-
 **Ans: D.**
+
+**Logic:** JJM is 2019 drinking-water mission — not JNNURM.
 
 </details>
 
@@ -974,9 +974,9 @@ D. Stratospheric ozone layer
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Mangrove/wetland transitional.
-
 **Ans: B.**
+
+**Logic:** Mangrove/wetland transitional.
 
 </details>
 
@@ -994,9 +994,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** All three teaching locks.
-
 **Ans: D.**
+
+**Logic:** All three teaching locks.
 
 </details>
 
@@ -1014,9 +1014,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Pair 3 correct; 1 and 2 wrong.
-
 **Ans: C.**
+
+**Logic:** Pair 3 correct; 1 and 2 wrong.
 
 </details>
 
@@ -1034,9 +1034,9 @@ D. 1 and 2 only
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Statement 3 false.
-
 **Ans: D.**
+
+**Logic:** Statement 3 false.
 
 </details>
 
@@ -1050,9 +1050,9 @@ D. Microhabitat → biome → habitat
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Broad surroundings/biome → habitat → microhabitat.
-
 **Ans: B.**
+
+**Logic:** Broad surroundings/biome → habitat → microhabitat.
 
 </details>
 

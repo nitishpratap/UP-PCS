@@ -523,440 +523,703 @@ No further GS-I archaeology hit after keyword search.
 
 ## Practice Zone — UPPCS Format Drill
 
-**Q1.** Which IVC sites are in present-day Uttar Pradesh?
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-1. Mandi 2. Rakhigarhi 3. Hulas
 
-A. 1 and 2 B. Only 3 C. 1 and 3 D. Only 1
+**Q1.** With reference to the Archaeological Survey of India, which of the following statements is/are correct?
+
+1. ASI was founded in 1861 under Viceroy Canning; first DG was Alexander Cunningham.
+2. ASI headquarters is 24 Tilak Marg, New Delhi — not Lucknow.
+3. Lucknow holds UP State Archaeology and the State Museum, not ASI HQ.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: D.** All three statements are correct.
+
+**Logic:** ASI HQ vs Lucknow trap.
 
 </details>
 
 ---
 
-**Q2.** The eastern boundary of the Harappan culture is indicated by:
+**Q2.** Match List-I with List-II and select the correct answer from the code given below the lists:
 
-A. Harappa B. Alamgirpur C. Rakhigarhi D. Manda
+| List-I (Archaeologist) | List-II (Fact) |
+|---|---|
+| 1. John Marshall | A. Balk-and-grid; re-dug Harappa 1946 |
+| 2. Mortimer Wheeler | B. Announced IVC 1924 |
+| 3. Daya Ram Sahni | C. Harappa 1921 |
+| 4. R.D. Banerjee | D. Mohenjo-daro 1922 |
+
+*Row order is not the answer code.*
+
+A. 1-A, 2-B, 3-C, 4-D
+
+B. 1-B, 2-A, 3-C, 4-D
+
+C. 1-B, 2-C, 3-A, 4-D
+
+D. 1-D, 2-A, 3-C, 4-B
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B.** 1-B, 2-A, 3-C, 4-D.
+
+**Logic:** Wheeler did not discover IVC.
 
 </details>
 
 ---
 
-**Q3.** In which State is the Harappan site Mandi situated?
+**Q3.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Gujarat B. Haryana C. Rajasthan D. Uttar Pradesh
+**Assertion (A):** Stratigraphy is relative dating by layers: in an undisturbed stack, deeper is older.
 
-<details>
-<summary>Show answer</summary>
+**Reason (R):** Carbon-14 alone can date bare stone and metal tools without organic association.
 
-**Ans: D**
+Select the correct answer from the code given below:
 
-</details>
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 
----
+B. (A) is false, but (R) is true
 
-**Q4.** Which Indus centres are in Uttar Pradesh?
-
-I. Kalibanga II. Lothal III. Alamgirpur IV. Hulas
-
-A. I, II, III, IV B. I, II C. II, III D. III, IV
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q5.** Match List-I with List-II:
-
-A. Nevasa B. Isampur C. Didwana D. Gudiyam Cave
-1. Rajasthan 2. Tamil Nadu 3. Maharashtra 4. Karnataka
-
-A. A-3, B-4, C-1, D-2 B. A-4, B-3, C-1, D-2 C. A-3, B-4, C-2, D-1 D. A-3, B-2, C-4, D-1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q6.** Match List-I with List-II:
-
-A. Balu B. Manda C. Padri D. Hulas
-1. Uttar Pradesh 2. Jammu & Kashmir 3. Haryana 4. Gujarat
-
-A. 3 2 1 4 B. 2 3 4 1 C. 2 4 3 1 D. 3 2 4 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q7.** Who first visited Bhimbetka and showed the prehistoric meaning of its paintings?
-
-A. Madho Swaroop Vatsa B. H.D. Sankalia C. V.S. Wakankar D. V.N. Mishra
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q8.** Boat models of the IVC are found at:
-
-A. Dholavira and Bhagatrav B. Harappa and Kot Diji C. Mohenjo-daro and Lothal D. Kalibangan and Ropar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q9.** Given below are two statements:
-
-**Assertion (A):** Daya Ram Sahni excavated Harappa in 1921.
-
-**Reason (R):** Wheeler discovered the Indus civilization in 1946.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: C.** (A) is true, but (R) is false.
+
+**A/R logic:** C-14 works only on organic samples.
 
 </details>
 
 ---
 
-**Q10.** Which of the following statements is/are correct?
+**Q4.** Arrange the following archaeology events in chronological order:
 
-1. C-14 dates organic charcoal and bone.
-2. C-14 dates a stone handaxe directly.
-3. Half-life is about 5730 years.
+1. Marshall announces Indus civilization
+2. ASI founded
+3. Wheeler re-digs Harappa
+4. Sahni opens Harappa
 
-A. 1 and 2 only B. 1 and 3 only C. 2 and 3 only D. 1, 2 and 3
+Select the correct answer from the code given below:
+
+A. 2–1–4–3
+
+B. 2–4–1–3
+
+C. 4–2–1–3
+
+D. 2–4–3–1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B.** 1861 ASI → 1921 Sahni → 1924 Marshall → 1946 Wheeler.
+
+**Logic:** Discovery vs announcement vs method chronology.
 
 </details>
 
 ---
 
-**Q11.** Which one of the following pairs is **not** correctly matched?
+**Q5.** Which one of the following pairs is NOT correctly matched?
 
-A. Alamgirpur — Meerut
-B. Hulas — Baghpat
-C. Mandi — Hisar
-D. Sanauli — Baghpat
+Select the correct answer from the code given below:
+
+A. S.R. Rao — Lothal
+
+B. B.B. Lal — Kalibangan
+
+C. R.S. Bisht — Dholavira
+
+D. V.S. Wakankar — Lothal dockyard
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Mandi = Bijnor. Hisar = Rakhigarhi.
+**Ans: D.** Wakankar established Bhimbetka rock-art prehistory; S.R. Rao excavated Lothal.
+
+**Logic:** Excavator↔site swap.
 
 </details>
 
 ---
 
-**Q12.** Match List-I with List-II:
+**Q6.** With reference to dating methods, which of the following statements is/are correct?
 
-| List-I | List-II |
-|--------|---------|
-| A. Cunningham | 1. Bhimbetka 1957–58 |
-| B. Marshall | 2. First DG, ASI 1861 |
-| C. Wakankar | 3. IVC announcement 1924 |
+1. Carbon-14 half-life is about 5730 years; it works on charcoal, bone, wood, seed, shell.
+2. Thermoluminescence (TL) can date fired pottery.
+3. Stratigraphy alone can give the calendar year 2600 BCE.
 
-A. 2 3 1 B. 3 2 1 C. 2 1 3 D. 1 3 2
+Select the correct answer from the code given below:
+
+A. 1 and 3 only
+
+B. 1 and 2 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: relative dating cannot alone give calendar years.
 
 </details>
 
 ---
 
-**Q13.** With reference to ASI, consider the following statements:
+**Q7.** Consider the following statements about Uttar Pradesh Harappan sites:
 
-1. Headquarters are at 24 Tilak Marg, New Delhi.
-2. Lucknow is the national HQ because of Sarnath.
-3. First DG is Alexander Cunningham.
+1. Alamgirpur (Meerut, Hindon) is the easternmost Harappan site in India.
+2. Hulas (Baghpat) and Mandi (Bijnor, Ramganga) complete the UP trio.
+3. Rakhigarhi is the easternmost UP Harappan site.
 
-How many of the above statements are correct?
-A. Only one B. Only two C. All three D. None
+Select the correct answer from the code given below:
+
+A. 2 and 3 only
+
+B. 1 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — 1 and 3.
+**Ans: C.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: Rakhigarhi is largest mound in Haryana, not UP eastern edge.
 
 </details>
 
 ---
 
-**Q14.** Arrange:
+**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-1. Wheeler at Harappa
-2. Sahni at Harappa
-3. ASI founded
-4. Marshall’s IVC announcement
+**Assertion (A):** Mandi (Bijnor, UP) is not the same as Manda (Chenab belt, J&K).
 
-A. 3–2–4–1 B. 3–4–2–1 C. 2–3–4–1 D. 3–2–1–4
+**Reason (R):** Mixing Mandi and Manda names is a frequent site-match trap.
 
-<details>
-<summary>Show answer</summary>
+Select the correct answer from the code given below:
 
-**Ans: A** — 1861 → 1921 → 1924 → 1946.
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 
-</details>
+B. (A) is false, but (R) is true
 
----
-
-**Q15.** Given below are two statements:
-
-**Assertion (A):** Stratigraphy gives relative order.
-
-**Reason (R):** C-14 gives a calendar-style date on organic carbon.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: D.** Both (A) and (R) are true and (R) explains (A).
+
+**A/R logic:** R states why the name pair is tested.
 
 </details>
 
 ---
 
-**Q16.** Which of the following statements is/are correct?
+**Q9.** Match List-I with List-II and select the correct answer from the code given below the lists:
 
-1. Mandi is in Bijnor, UP.
-2. Manda is in Jammu & Kashmir.
-3. Mandi and Manda are the same mound.
+| List-I (Site) | List-II (State / UT) |
+|---|---|
+| 1. Nevasa | A. Rajasthan |
+| 2. Isampur | B. Maharashtra |
+| 3. Didwana | C. Karnataka |
+| 4. Gudiyam | D. Tamil Nadu |
 
-A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+*Row order is not the answer code.*
+
+A. 1-C, 2-B, 3-A, 4-D
+
+B. 1-B, 2-C, 3-A, 4-D
+
+C. 1-B, 2-A, 3-C, 4-D
+
+D. 1-D, 2-C, 3-A, 4-B
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** 1-B, 2-C, 3-A, 4-D.
+
+**Logic:** Prehistoric site–state Must-Score set.
 
 </details>
 
 ---
 
-**Q17.** Which one of the following pairs is **not** correctly matched?
+**Q10.** With reference to Harappan site–state facts, which of the following statements is/are correct?
 
-A. Nevasa — Maharashtra
-B. Isampur — Karnataka
-C. Didwana — Tamil Nadu
-D. Gudiyam — Tamil Nadu
+1. Balu — Haryana; Manda — Jammu & Kashmir; Padri — Gujarat; Hulas — Uttar Pradesh.
+2. Boat models come from Mohenjo-daro and Lothal.
+3. Mehrgarh (Balochistan) is a safe Indian-state match option for UPPCS site lists.
+
+Select the correct answer from the code given below:
+
+A. 2 and 3 only
+
+B. 1 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Didwana = Rajasthan.
+**Ans: C.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: Mehrgarh is not an Indian-state match option.
 
 </details>
 
 ---
 
-**Q18.** Match List-I with List-II:
+**Q11.** Consider the following statements about Sanauli and Bhimbetka:
 
-| List-I | List-II |
-|--------|---------|
-| A. S.R. Rao | 1. Kalibangan |
-| B. B.B. Lal | 2. Lothal |
-| C. R.S. Bisht | 3. Dholavira |
+1. Sanauli (Baghpat, UP), excavated in 2018, yielded copper chariots, coffins, and antenna swords.
+2. V.S. Wakankar established Bhimbetka rock-art prehistory in 1957–58.
+3. Bhimbetka is in Uttar Pradesh.
 
-A. 2 1 3 B. 1 2 3 C. 2 3 1 D. 3 1 2
+Select the correct answer from the code given below:
+
+A. 1 and 3 only
+
+B. 1 and 2 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: Bhimbetka is in Madhya Pradesh.
 
 </details>
 
 ---
 
-**Q19.** Which of the following statements is/are correct?
+**Q12.** Which one of the following pairs is NOT correctly matched?
 
-1. Sanauli chariots are a 2018 Baghpat find.
-2. Sanauli is the same as Mature Harappan Lothal dock.
-3. Hulas is also in Baghpat.
+Select the correct answer from the code given below:
 
-A. 1 and 2 only B. 1 and 3 only C. 2 and 3 only D. 1, 2 and 3
+A. Alamgirpur — easternmost Harappan in India (UP)
+
+B. Rakhigarhi — largest mound (Haryana)
+
+C. Hulas — Baghpat, UP
+
+D. Mandi — Chenab belt, J&K
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: D.** Mandi is Bijnor UP; Manda is J&K Chenab.
+
+**Logic:** Mandi vs Manda trap.
 
 </details>
 
 ---
 
-**Q20.** Given below are two statements:
+**Q13.** Arrange the following discoveries/announcements in order:
 
-**Assertion (A):** 2025 Q87 answer is 1 and 3.
+1. Banerjee opens Mohenjo-daro
+2. Robert Bruce Foote at Pallavaram recognises Indian Paleolithic tools
+3. Sahni opens Harappa
+4. Marshall announces IVC
 
-**Reason (R):** Rakhigarhi lies in Haryana.
+Select the correct answer from the code given below:
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+A. 3–2–1–4
+
+B. 2–1–3–4
+
+C. 2–3–1–4
+
+D. 2–3–4–1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** 1863 Foote → 1921 Sahni → 1922 Banerjee → 1924 Marshall.
+
+**Logic:** Paleolithic recognition precedes IVC digs.
+
+</details>
+
+---
+
+**Q14.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+**Assertion (A):** A find is useful only in situ, still in its layer.
+
+**Reason (R):** Looting kills the date because context is destroyed.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: D.** Both (A) and (R) are true and (R) explains (A).
+
+**A/R logic:** R explains why in situ context matters.
 
 </details>
 
 ---
 
-**Q21.** With reference to C-14, consider the following statements:
+**Q15.** With reference to law and ASI field units, which of the following statements is/are correct?
 
-1. Libby developed the method.
-2. Thermoluminescence is the same test on charcoal.
-3. Pottery can be dated by TL.
+1. Monument law sits under the AMASR Act 1958.
+2. Antiquities export sits under the 1972 Act.
+3. Field units are ASI Circles; HQ remains New Delhi.
 
-How many of the above statements are correct?
-A. Only one B. Only two C. All three D. None
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — 1 and 3.
+**Ans: D.** All three statements are correct.
+
+**Logic:** Must-Score legal/admin archaeology facts.
 
 </details>
 
 ---
 
-**Q22.** Which one of the following pairs is **not** correctly matched?
+**Q16.** Match List-I with List-II and select the correct answer from the code given below the lists:
 
-A. Banerjee — Mohenjo-daro 1922
-B. Sahni — Harappa 1921
-C. Wheeler — IVC announcement 1924
-D. Foote — Pallavaram 1863
+| List-I (Concept) | List-II (Fact) |
+|---|---|
+| 1. Relative dating | A. Calendar years |
+| 2. Absolute dating | B. Older/younger |
+| 3. Balk | C. Uncut wall left so layers can still be read |
+| 4. Rock shelter | D. Bhimbetka overhang complex (not hollow cave wording) |
+
+*Row order is not the answer code.*
+
+A. 1-B, 2-A, 3-C, 4-D
+
+B. 1-A, 2-B, 3-C, 4-D
+
+C. 1-B, 2-C, 3-A, 4-D
+
+D. 1-D, 2-A, 3-C, 4-B
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: A.** 1-B, 2-A, 3-C, 4-D.
+
+**Logic:** Method vocabulary.
 
 </details>
 
 ---
 
-**Q23.** Which of the following statements is/are correct?
+**Q17.** Which of the following statements about post-1947 IVC trenches is/are correct?
 
-1. Superposition: bottom layer is older if the stack is unflipped.
-2. A balk is left to read the section.
-3. Stratigraphy alone prints the year 2600 BCE.
+1. After 1947 the giant IVC cities Harappa and Mohenjo-daro lie in Pakistan.
+2. Indian trenches shift to Gujarat, Haryana, Rajasthan, Punjab, and Uttar Pradesh.
+3. Cunningham discovered the Indus civilization using Chinese pilgrim routes alone.
 
-A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: A.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: Cunningham founded Survey and hunted Buddhist sites; Marshall announced IVC.
 
 </details>
 
 ---
 
-**Q24.** Arrange these UP IVC papers by year:
+**Q18.** With reference to UP trenches beyond IVC, which of the following statements is/are correct?
 
-1. 2025 Mandi + Hulas
-2. 2018 Alamgirpur + Hulas
-3. 2021 Mandi = UP
-4. 2023 Alamgirpur = east end
+1. Koldihwa / Mahagara (Belan) carry an early rice claim.
+2. Hastinapur is a PGW site; other UP trenches include Kaushambi, Ahichchhatra, Sarnath, Shravasti, Atranjikhera.
+3. UP IVC questions often want Mandi and Hulas together and reject Rakhigarhi.
 
-A. 2–3–4–1 B. 2–4–3–1 C. 3–2–4–1 D. 2–3–1–4
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: D.** All three statements are correct.
+
+**Logic:** UP trench Must-Score set.
 
 </details>
 
 ---
 
-**Q25.** Match List-I with List-II:
+**Q19.** Which one of the following pairs is NOT correctly matched?
 
-| List-I | List-II |
-|--------|---------|
-| A. Kaushambi | 1. Kuru PGW mound |
-| B. Hastinapur | 2. Vatsa capital |
-| C. Ahichchhatra | 3. Panchala |
+Select the correct answer from the code given below:
 
-A. 2 1 3 B. 1 2 3 C. 2 3 1 D. 3 1 2
+A. Site — place with remains
+
+B. Excavation — the dig
+
+C. ASI HQ — Lucknow
+
+D. Carbon-14 — Libby path; organic only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: C.** ASI HQ is New Delhi; Lucknow is UP state archaeology.
+
+**Logic:** HQ vs Lucknow trap.
 
 </details>
 
 ---
 
-**Q26.** Given below are two statements:
+**Q20.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Assertion (A):** 2020 Q12 code is 3-2-4-1.
+**Assertion (A):** Mature Harappan chronology near about 2600–1900 BCE rests on absolute clocks plus pottery and stratigraphy.
 
-**Reason (R):** Hulas is in Gujarat.
+**Reason (R):** It is only guesswork from brick size without any absolute or relative clock.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Hulas = UP. Padri = Gujarat.
+**Ans: C.** (A) is true, but (R) is false.
+
+**A/R logic:** R denies the dating methods that support the chronology.
+
+</details>
+
+---
+
+**Q21.** Arrange the following excavators’ landmark work from earlier to later:
+
+1. Wheeler’s Harappa re-dig
+2. Foote at Pallavaram
+3. Wakankar at Bhimbetka
+4. Sanauli excavation yielding chariots
+
+Select the correct answer from the code given below:
+
+A. 2–1–3–4
+
+B. 2–3–1–4
+
+C. 1–2–3–4
+
+D. 2–1–4–3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** 1863 Foote → 1946 Wheeler → 1957–58 Wakankar → 2018 Sanauli.
+
+**Logic:** Long archaeology chronology drill.
+
+</details>
+
+---
+
+**Q22.** Consider the following statements:
+
+1. Typology sits beside stratigraphy as another relative clock.
+2. Papers ask present state / UT for site matching, not the excavator’s birthplace.
+3. Wheeler announced the Indus civilization in 1924.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: Marshall announced IVC 1924; Wheeler re-dug later.
+
+</details>
+
+---
+
+**Q23.** Match List-I with List-II and select the correct answer from the code given below the lists:
+
+| List-I (Harappan site) | List-II (State) |
+|---|---|
+| 1. Alamgirpur | A. Gujarat |
+| 2. Hulas | B. Uttar Pradesh |
+| 3. Padri | C. Uttar Pradesh |
+| 4. Balu | D. Haryana |
+
+*Row order is not the answer code.*
+
+A. 1-B, 2-C, 3-A, 4-D
+
+B. 1-C, 2-B, 3-A, 4-D
+
+C. 1-B, 2-A, 3-C, 4-D
+
+D. 1-D, 2-C, 3-A, 4-B
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** 1-B, 2-C, 3-A, 4-D.
+
+**Logic:** Both Alamgirpur and Hulas are UP; Padri Gujarat; Balu Haryana.
+
+</details>
+
+---
+
+**Q24.** Who first recognised Indian Paleolithic tools at Pallavaram in 1863?
+
+A. Alexander Cunningham
+
+B. Robert Bruce Foote
+
+C. John Marshall
+
+D. Mortimer Wheeler
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Robert Bruce Foote at Pallavaram in 1863.
+
+**Logic:** Must-Score Paleolithic recognition fact.
+
+</details>
+
+---
+
+**Q25.** With reference to relative vs absolute dating, which of the following statements is/are correct?
+
+1. Relative dating answers older/younger.
+2. Absolute dating answers calendar years.
+3. A balk is the deepest occupation floor in a trench.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: balk is the uncut wall left so layers can still be read.
+
+</details>
+
+---
+
+**Q26.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+**Assertion (A):** John Marshall announced the Indus civilization to the world in 1924.
+
+**Reason (R):** Mortimer Wheeler brought the balk-and-grid method and re-dug Harappa in 1946.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+
+**A/R logic:** Both true as separate DG facts; Wheeler’s method does not explain Marshall’s announcement.
 
 </details>
 
@@ -964,290 +1227,105 @@ D. (A) is false, but (R) is true
 
 **Q27.** Which of the following statements is/are correct?
 
-1. Bhimbetka is in Madhya Pradesh.
-2. Wakankar showed its prehistoric rock art.
-3. Bhimbetka is an eastern IVC site in Meerut.
+1. Hulas also appears with Alamgirpur in older UP pairs.
+2. After Partition, Indian IVC work intensifies in Gujarat–Haryana–Rajasthan–Punjab–UP.
+3. Bhimbetka is best described as a hollow limestone cave system like Ajanta.
 
-A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: A.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: Bhimbetka is an overhang rock-shelter complex.
 
 </details>
 
 ---
 
-**Q28.** Which one of the following pairs is **not** correctly matched?
+**Q28.** Which one of the following pairs is NOT correctly matched?
 
-A. Padri — Gujarat
-B. Balu — Haryana
-C. Manda — Uttar Pradesh
-D. Hulas — Uttar Pradesh
+Select the correct answer from the code given below:
+
+A. Sahni — Harappa 1921
+
+B. Banerjee — Mohenjo-daro 1922
+
+C. Marshall — announced IVC 1924
+
+D. Wheeler — discovered IVC in 1921
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: D.** Wheeler re-dug Harappa in 1946; he did not discover IVC.
+
+**Logic:** Marshall vs Wheeler trap.
 
 </details>
 
 ---
 
-**Q29.** With reference to Sarnath, consider the following statements:
+**Q29.** Consider the following statements about Willard Libby’s path:
 
-1. Cunningham surveyed it in the ASI’s early years.
-2. The lion capital is Ashokan.
-3. It is the easternmost Harappan site.
+1. Carbon-14 is absolute dating on Libby’s path.
+2. Half-life is about 5730 years.
+3. It can date bare metal tools without organic carbon.
 
-How many of the above statements are correct?
-A. Only one B. Only two C. All three D. None
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — 1 and 2.
+**Ans: A.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: organic samples only.
 
 </details>
 
 ---
 
-**Q30.** Match List-I with List-II:
+**Q30.** With reference to excavator–site pairs, which of the following statements is/are correct?
 
-| List-I | List-II |
-|--------|---------|
-| A. Koldihwa | 1. Chariots 2018 |
-| B. Sanauli | 2. Belan Neolithic rice |
-| C. Alamgirpur | 3. Eastern IVC |
+1. S.R. Rao excavated Lothal and its dockyard.
+2. B.B. Lal excavated Kalibangan; R.S. Bisht excavated Dholavira.
+3. Daya Ram Sahni opened Mohenjo-daro in 1922.
 
-A. 2 1 3 B. 1 2 3 C. 2 3 1 D. 3 1 2
+Select the correct answer from the code given below:
 
-<details>
-<summary>Show answer</summary>
+A. 1 and 2 only
 
-**Ans: A**
+B. 1 and 3 only
 
-</details>
+C. 2 and 3 only
 
----
-
-**Q31.** Given below are two statements:
-
-**Assertion (A):** AMASR Act 1958 protects monuments.
-
-**Reason (R):** ASI is a state department of Uttar Pradesh only.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: A.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: Sahni opened Harappa 1921; Banerjee opened Mohenjo-daro 1922.
 
 </details>
-
----
-
-**Q32.** Which of the following statements is/are correct?
-
-1. 2018 Q88 excludes Kalibangan and Lothal from UP.
-2. 2023 Q28 is Alamgirpur, not Manda.
-3. Manda marks the eastern Harappan boundary.
-
-A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Manda = north (J&K).
-
-</details>
-
----
-
-**Q33.** Arrange:
-
-1. Wakankar at Bhimbetka
-2. Foote at Pallavaram
-3. Sanauli chariots
-4. Banerjee at Mohenjo-daro
-
-A. 2–4–1–3 B. 2–1–4–3 C. 4–2–1–3 D. 2–4–3–1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 1863 → 1922 → 1957–58 → 2018.
-
-</details>
-
----
-
-**Q34.** Which one of the following pairs is **not** correctly matched?
-
-A. Wheeler — balk-and-grid
-B. Libby — C-14
-C. Vatsa — Bhimbetka rock art
-D. Manjul / ASI — Sanauli
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q35.** Which of the following statements is/are correct?
-
-1. A find in situ keeps its layer.
-2. Looting destroys provenance.
-3. Horizontal excavation is the only way to get a C-14 date.
-
-A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q36.** Match List-I with List-II:
-
-| List-I | List-II |
-|--------|---------|
-| A. Rakhigarhi | 1. Gujarat dock |
-| B. Lothal | 2. Haryana, largest IVC |
-| C. Kalibangan | 3. Rajasthan |
-
-A. 2 1 3 B. 1 2 3 C. 2 3 1 D. 3 1 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q37.** Given below are two statements:
-
-**Assertion (A):** 2023 Q27 answer is A.
-
-**Reason (R):** Gudiyam Cave is in Karnataka.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Gudiyam = Tamil Nadu. Isampur = Karnataka.
-
-</details>
-
----
-
-**Q38.** With reference to UP mounds, consider the following statements:
-
-1. Hastinapur is a PGW / Kuru site in Meerut.
-2. Kaushambi is the Vatsa capital near Prayagraj.
-3. Ahichchhatra is in Gujarat.
-
-How many of the above statements are correct?
-A. Only one B. Only two C. All three D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 2. Ahichchhatra = Bareilly.
-
-</details>
-
----
-
-**Q39.** Which of the following statements is/are correct?
-
-1. ASI Circles are field offices.
-2. They replace the New Delhi HQ.
-3. Cunningham used pilgrim itineraries to find Buddhist sites.
-
-A. 1 and 2 only B. 1 and 3 only C. 2 and 3 only D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q40.** Which one of the following pairs is **not** correctly matched?
-
-A. Mandi in UP
-B. Wakankar
-C. Rakhigarhi as east end
-D. Alamgirpur and Hulas
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q41.** Match List-I with List-II:
-
-| List-I | List-II |
-|--------|---------|
-| A. Shravasti | 1. First sermon / lion capital |
-| B. Sarnath | 2. Sahet-Mahet, Kosala |
-| C. Rajghat | 3. Old Kashi rampart |
-
-A. 2 1 3 B. 1 2 3 C. 2 3 1 D. 3 1 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q42.** Given below are two statements:
-
-**Assertion (A):** C-14 cannot date a copper chariot metal by itself.
-
-**Reason (R):** The clock needs organic carbon that once lived.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
 
 ## Common Traps — Facts
 

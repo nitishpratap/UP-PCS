@@ -1252,949 +1252,794 @@ D. 16 November, 1946
 
 ## Practice Zone — UPPCS Format Drill
 
-> **45 questions.** Mix: chronology, multi-statement, Match-List, A/R, NOT-matched.
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
----
 
-**Q1.** Arrange: 1. Cripps Mission 2. Cabinet Mission 3. Shimla Conference 4. Wavell Plan
+**Q1.** With reference to Congress ministries, which of the following statements is/are correct?
 
-A. 1, 4, 3, 2
+1. Ministries were formed in 1937 after provincial elections.
+2. They resigned in 1939 when war was declared without consultation.
+3. Forward Bloc (1939) is the same body as CSP (1934).
 
-B. 4, 1, 2, 3
+Select the correct answer from the code given below:
 
-C. 4, 1, 3, 2
+A. 1 and 3 only
 
-D. 1, 4, 2, 3
+B. 1 and 2 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Forward Bloc = Bose 1939; CSP = socialists inside Congress 1934.
 
 </details>
 
 ---
 
-**Q2.** Arrange: 1. RIN Revolt 2. Announcement of Cabinet Mission 3. Formation of Interim Government 4. UK Parliamentary Delegation
-
-A. 4, 3, 2, 1
-
-B. 4, 1, 2, 3
-
-C. 4, 2, 1, 3
-
-D. 2, 4, 1, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q3.** Arrange: 1. August Offer 2. Cripps arrival 3. Ramgarh Session 4. Congress ministries resign
-
-A. 3, 1, 4, 2
-
-B. 4, 3, 1, 2
-
-C. 1, 3, 4, 2
-
-D. 4, 2, 3, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q4.** The women’s regiment of Azad Hind Fauj was
-
-A. Rani Bhabani Regiment
-
-B. Rani Jhansi Regiment
-
-C. Bharat Mata Regiment
-
-D. Veerangana Regiment
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q5.** Who was **not** associated with Quit India?
-
-A. Matangini Hazra
-
-B. Aruna Asaf Ali
-
-C. Kanaklata Barua
-
-D. Shanti Ghosh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q6.** INA officers were tried at
-
-A. Red Fort, Delhi
-
-B. Gwalior Fort
-
-C. Amer Fort
-
-D. Agra Fort
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q7.** Who prepared the C.R. Formula?
-
-A. Jawaharlal Nehru
-
-B. Rajgopalachar
-
-C. Chittaranjan Das
-
-D. V.P. Menon
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q8.** Assertion (A): In 1946 the Muslim League withdrew its acceptance of the Cabinet Mission Plan.
-
-Reason (R): The Muslim League joined the interim government formed in 1946.
-
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q9.** With reference to Cripps Mission, which of the following statements is/are correct?
-
-1. It offered Dominion Status after the war.
-2. Congress accepted it as immediate independence.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q10.** With reference to Quit India, which of the following statements is/are correct?
-
-1. The AICC adopted it at Bombay on 8 August 1942.
-2. Gandhi’s slogan was “Do or Die.”
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q11.** Which of the following pairs is NOT correctly matched?
-
-A. Azad Hind Government — 21 October 1943
-
-B. Quit India — 8 August 1942
-
-C. Mountbatten Plan — 3 June 1947
-
-D. Independence Act — 3 June 1947
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Act = **18 July 1947**.
-
-</details>
-
----
-
-**Q12.** Match List-I with List-II.
-
-**List-I** A. Forward Bloc B. CSP C. August Offer D. Individual Satyagraha
-**List-II** 1. 1934 2. 1939 3. Oct 1940 4. Aug 1940
-
-A. 2 1 4 3
-
-B. 2 1 3 4
-
-C. 1 2 4 3
-
-D. 2 4 1 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q13.** With reference to Bose, which of the following statements is/are correct?
-
-1. He was Congress President at Haripura (1938) and Tripuri (1939).
-2. He founded the Forward Bloc in 1939.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q14.** Consider the following statements:
-
-1. Rani Jhansi Regiment was commanded in memory by Lakshmi Sehgal.
-2. It was a regiment of the 1857 revolt, not of INA.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q15.** Assertion (A): Simla Conference of 1945 failed.
-
-Reason (R): Jinnah insisted that the League alone nominate all Muslim members of the Executive Council.
-
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q16.** With reference to Cabinet Mission, which of the following statements is/are correct?
-
-1. It proposed a weak Centre and three groups of provinces.
-2. It created two sovereign states immediately in May 1946.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q17.** Match List-I with List-II.
-
-**List-I** A. Aruna Asaf Ali B. Usha Mehta C. Matangini Hazra D. Shanti Ghosh
-**List-II** 1. Congress Radio 2. Gowalia Tank flag 3. 1931 Bengal revolutionary 4. Tamluk 1942
-
-A. 2 1 4 3
-
-B. 2 1 3 4
-
-C. 1 2 4 3
-
-D. 2 4 1 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q18.** Consider the following statements:
-
-1. INA trial trio included Shah Nawaz Khan, Sahgal and Dhillon.
-2. The trials were held at Red Fort.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q19.** Which of the following pairs are NOT correctly matched?
-
-1. C.R. Formula — Rajagopalachari
-2. C.R. Formula — C.R. Das
-3. Desai–Liaquat — 1945
-
-A. Only 2
-
-B. Only 1 and 2
-
-C. Only 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q20.** With reference to the August Offer, which of the following statements is/are correct?
-
-1. It was made by Linlithgow in August 1940.
-2. It is the same document as the Cripps proposals.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q21.** Arrange: 1. Direct Action Day 2. Mountbatten Plan 3. Independence Act 4. 15 August 1947
-
-A. 1, 2, 3, 4
-
-B. 1, 2, 4, 3
-
-C. 2, 1, 3, 4
-
-D. 1, 3, 2, 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 16 Aug 1946 → 3 Jun → 18 Jul → 15 Aug.
-
-</details>
-
----
-
-**Q22.** With reference to parallel governments in Quit India, which of the following statements is/are correct?
-
-1. Ballia (UP) is associated with Chittu Pandey.
-2. Satara Prati Sarkar is associated with Nana Patil.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q23.** Which of the following is NOT correctly matched?
-
-A. Individual Satyagraha first — Vinoba Bhave
-
-B. Forward Bloc — 1939
-
-C. Azad Hind Govt — 21 Oct 1943
-
-D. RIN Revolt — 1942
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — RIN **February 1946**.
-
-</details>
-
----
-
-**Q24.** Assertion (A): Gandhi called the Cripps offer a post-dated cheque.
-
-Reason (R): It postponed real transfer of power until after the war.
-
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q25.** Consider the following statements:
-
-1. Interim Government was announced on 24 August 1946 and took office on 2 September 1946.
-2. The Muslim League joined it on 26 October 1946.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q26.** Match List-I with List-II.
-
-**List-I** A. Group A (Cabinet Mission) B. Group B C. Group C D. Centre subjects
-**List-II** 1. Punjab, NWFP, Sindh 2. Bengal, Assam 3. Madras, Bombay, UP, Bihar, CP, Orissa 4. Defence, foreign, communications
-
-A. 3 1 2 4
-
-B. 3 2 1 4
-
-C. 1 3 2 4
-
-D. 3 1 4 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q27.** With reference to the Independence Act, which of the following statements is/are correct?
-
-1. It received assent on 18 July 1947.
-2. It created two dominions, India and Pakistan.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q28.** Which of the following pairs are NOT correctly matched?
-
-1. Mohan Singh — first INA
-2. Rash Behari Bose — Indian Independence League
-3. Lakshmi Sehgal — Quit India Radio
-
-A. Only 3
-
-B. Only 1 and 3
-
-C. Only 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Radio = **Usha Mehta**.
-
-</details>
-
----
-
-**Q29.** Consider the following statements:
-
-1. Attlee announced in February 1947 that power would be transferred by June 1948.
-2. Mountbatten advanced the date to 15 August 1947.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q30.** Which of the following is NOT correctly matched?
-
-A. Haripura — Bose 1938
-
-B. Tripuri — Bose 1939
-
-C. Forward Bloc — 1934
-
-D. CSP — 1934
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Forward Bloc **1939**.
-
-</details>
-
----
-
-**Q31.** With reference to RIN, which of the following statements is/are correct?
-
-1. It broke out in February 1946, centred on Bombay.
-2. It is the same event as Quit India 1942.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q32.** Match List-I with List-II.
-
-**List-I** A. Cripps B. Wavell Plan C. Cabinet Mission D. Mountbatten Plan
-**List-II** 1. 3 June 1947 2. March 1942 3. June 1945 4. May 1946
-
-A. 2 3 4 1
-
-B. 2 3 1 4
-
-C. 3 2 4 1
-
-D. 2 4 3 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q33.** Assertion (A): Shanti Ghosh was not a Quit India leader.
-
-Reason (R): She is associated with a 1931 revolutionary action in Bengal, not the 1942 underground.
-
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q34.** With reference to Mountbatten Plan, which of the following statements is/are correct?
-
-1. Punjab and Bengal could be partitioned.
-2. Transfer of power was fixed for 15 August 1947.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q35.** Consider the following statements:
-
-1. Vinoba Bhave was the first Individual Satyagrahi.
-2. Individual Satyagraha began in October 1940.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q36.** Which of the following pairs are NOT correctly matched?
-
-1. Direct Action Day — 16 August 1946
-2. League joins Interim — 26 October 1946
-3. Cabinet Mission Plan — 16 May 1942
-
-A. Only 3
-
-B. Only 1 and 3
-
-C. Only 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Cabinet Mission Plan **16 May 1946**.
-
-</details>
-
----
-
-**Q37.** With reference to WWII and Congress, which of the following statements is/are correct?
-
-1. Congress ministries resigned in 1939.
-2. Britain had declared India at war without consulting Congress.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q38.** Arrange: 1. Bose escape from India 2. Forward Bloc 3. Azad Hind Government 4. INA Trials
+**Q2.** Arrange the following in chronological order:
+
+1. August Offer
+2. Cripps Mission
+3. Quit India
+4. Azad Hind Government proclaimed at Singapore
 
 A. 2, 1, 3, 4
 
 B. 1, 2, 3, 4
 
-C. 2, 1, 4, 3
+C. 1, 3, 2, 4
 
-D. 2, 3, 1, 4
+D. 1, 2, 4, 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — 1939 → 1941 → 1943 → 1945.
+**Ans: B.** Aug 1940 → Mar 1942 → 8 Aug 1942 → 21 Oct 1943.
+
+**Logic:** Wartime bridge into INA government.
 
 </details>
 
 ---
 
-**Q39.** Consider the following statements:
+**Q3.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-1. Kanaklata Barua is associated with Quit India in Assam.
-2. Matangini Hazra is associated with Tamluk in 1942.
+**Assertion (A):** Quit India was launched on 8 August 1942 at Bombay with Gandhi’s ‘Do or Die’.
 
-A. Only 1
+**Reason (R):** INA armed struggle abroad under Bose was organisationally the same campaign as Quit India inside India.
 
-B. Only 2
+Select the correct answer from the code given below:
 
-C. Both 1 and 2
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q40.** Which of the following is NOT correctly matched?
-
-A. Pethick-Lawrence — Cabinet Mission
-
-B. Stafford Cripps — Cripps Mission 1942
-
-C. A.V. Alexander — Cabinet Mission
-
-D. Cripps Mission — 16 May 1946 plan
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — 16 May 1946 = **Cabinet Mission**.
-
-</details>
-
----
-
-**Q41.** With reference to princely states in 1947, which of the following statements is/are correct?
-
-1. The Independence Act ended British paramountcy.
-2. Full integration of states is the next topic’s story (Patel/Menon).
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q42.** Match List-I with List-II.
-
-**List-I** A. Ballia B. Tamluk C. Satara D. Gowalia Tank
-**List-II** 1. Nana Patil 2. Chittu Pandey 3. Bombay QI 4. Midnapore
-
-A. 2 4 1 3
-
-B. 2 4 3 1
-
-C. 4 2 1 3
-
-D. 2 1 4 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q43.** Assertion (A): The Indian Independence Act and the Mountbatten Plan are the same document.
-
-Reason (R): The Act of 18 July 1947 gave legal effect to partition and two dominions.
-
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. (A) is false, but (R) is true
+
 C. (A) is true, but (R) is false
-D. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Plan = **3 June**; Act = **18 July**.
+**Ans: C.** A true; R false.
+
+**A/R logic:** Different methods and theatres — mass inside India vs armed abroad.
 
 </details>
 
 ---
 
-**Q44.** Consider the following statements:
+**Q4.** Match List-I with List-II:
 
-1. Nehru never formally joined the CSP.
-2. Forward Bloc was founded by Bose after Tripuri.
+| List-I | List-II |
+|--------|---------|
+| A. Cripps Mission | 1. 1945 interim executive / Simla conference season |
+| B. Wavell Plan | 2. Mar 1942 dominion-after-war offer |
+| C. Cabinet Mission | 3. 16 May 1946 grouping plan |
+| D. Mountbatten Plan | 4. 3 June 1947 partition + transfer framework |
 
-A. Only 1
+*Row order is not the answer code.*
 
-B. Only 2
+A. A-1, B-2, C-4, D-3
 
-C. Both 1 and 2
+B. A-2, B-1, C-3, D-4
 
-D. Neither 1 nor 2
+C. A-2, B-3, C-1, D-4
+
+D. A-2, B-1, C-4, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: B.** Mission order spine.
+
+**Logic:** Wavell ≠ Mountbatten; Cripps ≠ Cabinet Mission.
 
 </details>
 
 ---
 
-**Q45.** Which of the following pairs are NOT correctly matched?
+**Q5.** With reference to Quit India women / radio facts, which of the following statements is/are correct?
 
-1. Give me blood… — Bose
-2. Do or Die — Gandhi, 1942
-3. Do or Die — Bose, INA
+1. Aruna Asaf Ali, Matangini Hazra, Kanaklata Barua and Usha Mehta (radio) are QI 1942 names.
+2. Shanti Ghosh is a standard QI 1942 leadership name in the same list.
+3. Parallel governments include Ballia (Chittu Pandey, UP), Tamluk and Satara (Prati Sarkar).
 
-A. Only 3
+Select the correct answer from the code given below:
 
-B. Only 1 and 3
+A. 1 and 2 only
 
-C. Only 2 and 3
+B. 1 and 3 only
 
-D. Only 1
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Only 1 and 3.
+
+**Logic:** Shanti Ghosh = 1931 Bengal revolutionary, not QI 1942.
 
 </details>
 
 ---
+
+**Q6.** Which of the following pairs is NOT correctly matched?
+
+A. C.R. Formula 1944 — Rajagopalachari
+
+B. C.R. Formula 1944 — C.R. Das
+
+C. Desai–Liaquat talks — 1945
+
+D. INA Trials — Red Fort; Shah Nawaz, Prem Sahgal, Dhillon
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** C.R. Das died 1925; Formula is Rajagopalachari’s.
+
+**Logic:** C.R. name collision trap.
+
+</details>
+
+---
+
+**Q7.** Arrange the following 1945–47 events in chronological order:
+
+1. RIN Revolt
+2. Cabinet Mission Plan (16 May 1946)
+3. Direct Action Day
+4. Interim Government takes office
+
+A. 1, 3, 2, 4
+
+B. 2, 1, 3, 4
+
+C. 1, 2, 3, 4
+
+D. 1, 2, 4, 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Feb 1946 → 16 May → 16 Aug → 2 Sep 1946.
+
+**Logic:** RIN and Cabinet announcement season before Direct Action / Interim.
+
+</details>
+
+---
+
+**Q8.** With reference to 1947 dates, which of the following statements is/are correct?
+
+1. Mountbatten Plan — 3 June 1947.
+2. Indian Independence Act assent — 18 July 1947.
+3. Independence / Partition — 15 August 1947.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three.
+
+**Logic:** Keep Plan / Act / Independence as three distinct dates.
+
+</details>
+
+---
+
+**Q9.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+**Assertion (A):** Azad Hind Government was proclaimed on 21 October 1943 at Singapore.
+
+**Reason (R):** Azad Hind Fauj and Azad Hind Government are two names for the identical institution.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true; R false.
+
+**A/R logic:** Army ≠ provisional government.
+
+</details>
+
+---
+
+**Q10.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|---------|
+| A. Interim announced | 1. 2 September 1946 |
+| B. Interim took office | 2. 24 August 1946 |
+| C. League joined Interim | 3. 26 October 1946 |
+| D. Direct Action Day | 4. 16 August 1946 |
+
+*Row order is not the answer code.*
+
+A. A-1, B-2, C-4, D-3
+
+B. A-2, B-1, C-3, D-4
+
+C. A-2, B-3, C-1, D-4
+
+D. A-2, B-1, C-4, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Announce ≠ form; League join later.
+
+**Logic:** August–October 1946 calendar traps.
+
+</details>
+
+---
+
+**Q11.** Which of the following statements about Bose and INA is/are correct?
+
+1. Bose escaped in January 1941; Azad Hind Government 21 October 1943 (Singapore).
+2. Rani of Jhansi Regiment is keyed to Lakshmi Sehgal.
+3. INA slogans include ‘Give me blood…’, ‘Delhi Chalo’ and ‘Jai Hind’.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three.
+
+**Logic:** Proclamation date and slogan set.
+
+</details>
+
+---
+
+**Q12.** Which one of the following correctly contrasts August Offer and Cripps?
+
+A. August Offer 1942; Cripps 1940
+
+B. August Offer (Aug 1940, Linlithgow) vs Cripps (Mar 1942)
+
+C. Both are identical Mountbatten Plan drafts
+
+D. Cripps created the Interim Government of September 1946
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Year and author of each wartime offer.
+
+**Logic:** Do not merge Linlithgow with Cripps.
+
+</details>
+
+---
+
+**Q13.** With reference to RIN Revolt, which of the following statements is/are correct?
+
+1. It occurred in February 1946 as a ratings’ revolt over pay, race and demobilisation.
+2. It was a Congress satyagraha identical with Quit India.
+3. It sits in the 1945–47 pressure ladder before Cabinet Mission politics matured.
+
+Select the correct answer from the code given below:
+
+A. 2 and 3 only
+
+B. 1 and 2 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 3.
+
+**Logic:** RIN ≠ QI; different year and form.
+
+</details>
+
+---
+
+**Q14.** Arrange the following in chronological order:
+
+1. Ramgarh Congress / League Lahore (Pakistan) resolution season
+2. Individual Satyagraha begins (Vinoba)
+3. Quit India
+4. Attlee’s statement naming transfer timeline / Mountbatten
+
+A. 1, 2, 3, 4
+
+B. 2, 1, 3, 4
+
+C. 1, 3, 2, 4
+
+D. 1, 2, 4, 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Mar 1940 → Oct 1940 → Aug 1942 → Feb 1947.
+
+**Logic:** Endgame arc anchors.
+
+</details>
+
+---
+
+**Q15.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+**Assertion (A):** Cabinet Mission Plan (16 May 1946) proposed grouping and a union centre.
+
+**Reason (R):** Simla Conference (1945) was the same three-minister Cabinet Mission under another venue name.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true; R false.
+
+**A/R logic:** Simla 1945 (Wavell) ≠ Cabinet Mission 1946.
+
+</details>
+
+---
+
+**Q16.** Which of the following statements is/are correct?
+
+1. Bose presided at Haripura 1938 and Tripuri 1939, then resigned and founded Forward Bloc.
+2. CSP worked inside Congress; Nehru never formally joined CSP.
+3. Azad Hind Fauj trials were held at Gwalior Fort.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** INA trials = Red Fort, not Gwalior.
+
+</details>
+
+---
+
+**Q17.** Match List-I (Parallel government / place) with List-II:
+
+| List-I | List-II |
+|--------|---------|
+| A. Ballia | 1. Prati Sarkar |
+| B. Satara | 2. Chittu Pandey (UP) |
+| C. Usha Mehta | 3. Quit India underground radio |
+| D. Lakshmi Sehgal | 4. Rani of Jhansi Regiment |
+
+*Row order is not the answer code.*
+
+A. A-2, B-1, C-3, D-4
+
+B. A-1, B-2, C-4, D-3
+
+C. A-2, B-3, C-1, D-4
+
+D. A-2, B-1, C-4, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** UP Ballia + Satara + radio + INA regiment.
+
+**Logic:** QI parallel govts vs INA women’s regiment.
+
+</details>
+
+---
+
+**Q18.** With reference to Cause → Course → Result of Quit India, which of the following statements is/are correct?
+
+1. Cause: Cripps failure and wartime deadlock after ministries’ resignation arc.
+2. Course: 8 August 1942 Bombay launch; mass defiance; parallel governments; leaders jailed.
+3. Result: Short-run repression; long-run contribution to the endgame pressure of 1945–47 alongside INA/RIN.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three.
+
+**Logic:** QI is not only the slogan date — hold the result into 1945–47.
+
+</details>
+
+---
+
+**Q19.** Which of the following pairs is NOT correctly matched?
+
+A. Attlee statement — 20 February 1947; transfer by June 1948 named
+
+B. Mountbatten Plan — 3 June 1947
+
+C. Wavell Plan — 1947 partition statute
+
+D. Indian Independence Act — 18 July 1947 assent
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Wavell Plan is 1945 interim executive — not the 1947 partition statute.
+
+**Logic:** Wavell ↔ Mountbatten swap.
+
+</details>
+
+---
+
+**Q20.** Which of the following statements about the Interim Government is/are correct?
+
+1. Announced 24 August 1946; took office 2 September 1946.
+2. League joined on 26 October 1946.
+3. Direct Action Day (16 August 1946) was a Congress satyagraha supporting the Interim cabinet.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Direct Action = League call; triggered violence hardening Partition politics.
+
+</details>
+
+---
+
+**Q21.** Arrange the mission / plan order correctly:
+
+1. Cripps Mission
+2. Wavell Plan / Simla
+3. Cabinet Mission
+4. Mountbatten Plan
+
+A. 1, 2, 3, 4
+
+B. 2, 1, 3, 4
+
+C. 1, 3, 2, 4
+
+D. 1, 2, 4, 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** 1942 → 1945 → 1946 → 1947.
+
+**Logic:** Standard mission order from Must-Score.
+
+</details>
+
+---
+
+**Q22.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+**Assertion (A):** The Rani of Jhansi Regiment is keyed to Lakshmi Sehgal in INA organisation.
+
+**Reason (R):** Shanti Ghosh is the standard commander tag for that Regiment in 1943 Singapore.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true; R false.
+
+**A/R logic:** Sehgal ≠ Shanti Ghosh (1931 Bengal name).
+
+</details>
+
+---
+
+**Q23.** With reference to UP Focus in the final phase, which of the following statements is/are correct?
+
+1. Ballia parallel government under Chittu Pandey.
+2. Ramgarh 1940 under Abul Kalam Azad.
+3. G.B. Pant as UP Premier after 1937 elections is a provincial ministries fact.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three.
+
+**Logic:** UP tags across ministries → Ramgarh → Ballia.
+
+</details>
+
+---
+
+**Q24.** Which of the following statements is/are correct?
+
+1. League later withdrew support for Cabinet Mission grouping politics but still joined the Interim Government.
+2. Bose’s INA and Red Fort trials turned military defeat into a political storm.
+3. Independence Act created two dominions from 15 August 1947 after 18 July assent.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three.
+
+**Logic:** Endgame political + legal facts.
+
+</details>
+
+---
+
+**Q25.** Which one of the following is correctly matched?
+
+A. Pakistan resolution — March 1940 League Lahore session season
+
+B. Pakistan resolution — August Offer 1940 text
+
+C. Pakistan resolution — Mountbatten Plan clause A
+
+D. Pakistan resolution — Cripps Mission appendix
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** League Lahore / Pakistan resolution sits with Ramgarh season 1940.
+
+**Logic:** Do not park it inside later British offers.
+
+</details>
+
+---
+
+**Q26.** With reference to INA Trials, which of the following statements is/are correct?
+
+1. Trials at the Red Fort involved Shah Nawaz Khan, Prem Sahgal and Gurbaksh Singh Dhillon.
+2. Mass protest forced remission of sentences.
+3. The trials proved Quit India and INA were commanded from a single Bombay HQ in 1942.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Political storm ≠ organisational merger with QI.
+
+</details>
+
+---
+
+**Q27.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|---------|
+| A. Forward Bloc | 1. Socialists inside Congress, 1934 |
+| B. CSP | 2. Bose, 1939 |
+| C. August Offer | 3. Linlithgow, 8 August 1940 |
+| D. ‘Do or Die’ | 4. Gandhi, Quit India, 8 August 1942 |
+
+*Row order is not the answer code.*
+
+A. A-2, B-1, C-3, D-4
+
+B. A-1, B-2, C-4, D-3
+
+C. A-2, B-3, C-1, D-4
+
+D. A-2, B-1, C-4, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Left split vs socialist wing vs two August dates.
+
+**Logic:** 1940 Offer ≠ 1942 QI slogan day.
+
+</details>
+
+---
+
+**Q28.** Which of the following statements about the transfer endgame is/are correct?
+
+1. Attlee (20 Feb 1947) set transfer by June 1948 and named Mountbatten.
+2. Mountbatten Plan (3 June) then advanced the date toward August 1947.
+3. Wavell Plan (1945) is the statute that created the two dominions.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Independence Act 18 July 1947 creates dominions — not Wavell Plan.
+
+</details>
+
+---
+
+**Q29.** Which of the following pairs is NOT correctly matched?
+
+A. INA — armed struggle abroad under Bose
+
+B. Quit India — mass struggle inside India, 1942
+
+C. RIN Revolt — February 1946 ratings’ mutiny
+
+D. RIN Revolt — August 1942 Congress Working Committee satyagraha
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** RIN is Feb 1946 — not QI 1942.
+
+**Logic:** Three pressure streams; keep years straight.
+
+</details>
+
+---
+
+**Q30.** With reference to the 1945–47 pressure ladder, which of the following statements is/are correct?
+
+1. UK Parliamentary Delegation (Jan 1946) sits before the RIN Revolt (Feb 1946) in the ladder.
+2. Cabinet Mission was announced in February 1946 and the Plan dated 16 May 1946.
+3. Mountbatten Plan (3 June 1947) preceded Attlee’s February 1947 statement.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Attlee (20 Feb 1947) precedes Mountbatten Plan (3 June 1947).
+
+</details>
 
 ## Common Traps — Don't Fall For These
 

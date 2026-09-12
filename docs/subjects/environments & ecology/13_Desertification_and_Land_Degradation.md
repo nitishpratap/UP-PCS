@@ -393,483 +393,595 @@ D. Afforestation — primary cause of land degradation
 
 ## Practice Zone — UPPCS Format Drill
 
-> **30 questionsQ1.** Desertification under UN definition occurs in:
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-A. All tropical forests
+**Q1.** With reference to desertification, which of the following statements is/are correct?
 
-B. ASDM dryland areas
+1. It is land degradation in arid, semi-arid, and dry sub-humid (ASDM) areas.
+2. It is only “the desert expanding physically.”
+3. Climate variation plus human pressure drive it.
 
-C. Only polar regions
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
 
-D. Only coastal mangroves
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: B.** Only 1 and 3.
 
-**Ans: B**
-
-</details>
-
-**Q2.** Desertification means:
-
-A. Only sand deserts expanding
-
-B. Productivity loss in qualifying drylands
-
-C. Permanent ice melt
-
-D. Ocean acidification
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Not merely desert expanding.
 
 </details>
 
-**Q3.** Main human cause of desertification in drylands is:
+**Q2.** Which of the following pairs is/are correctly matched?
 
-A. Afforestation
+1. Land degradation — broader productivity decline on any land
+2. Desertification — ASDM dryland subset
+3. Desertification — identical to all waterlogging worldwide only
 
-B. Overgrazing
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
 
-C. Terrace farming
+<details>
+<summary>Show answer</summary>
 
-D. Shelter belts
+**Ans: C.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q4.** UNCCD was adopted in:
-
-A. 1992
-
-B. 1994
-
-C. 1997
-
-D. 2015
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Degradation is broader.
 
 </details>
 
-**Q5.** World Desertification and Drought Day is:
+**Q3.** With reference to India degraded land, which of the following statements is/are correct?
 
-A. 5 June
+1. About 96.4 million ha / ~29–30% (ISRO Atlas 2016 class).
+2. Rajasthan is often the worst state hotspot teaching.
+3. India has zero degraded land.
 
-B. 17 June
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
-C. 22 March
+<details>
+<summary>Show answer</summary>
 
-D. 16 September
+**Ans: D.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q6.** Land Degradation Neutrality target year is:
-
-A. 2025
-
-B. 2030
-
-C. 2035
-
-D. 2050
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Statement 3 false.
 
 </details>
 
-**Q7.** Which is NOT a cause of land degradation?
+**Q4.** Arrange water-erosion sequence:
 
-A. Mining
+A. Sheet → rill → gully → ravine
+B. Ravine → gully → rill → sheet
+C. Gully → sheet → ravine → rill
+D. Rill → sheet → ravine → gully
 
-B. Salinization
+<details>
+<summary>Show answer</summary>
 
-C. Afforestation
+**Ans: A.** Sheet → rill → gully → ravine.
 
-D. Soil erosion
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q8.** Land degradation is ______ desertification in scope.
-
-A. Narrower than
-
-B. Broader than
-
-C. Identical to
-
-D. Unrelated to
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Chambal = ravine end-member.
 
 </details>
 
-**Q9.** First stage of water erosion is:
+**Q5.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Ravine
+Assertion (A): Chambal badlands are the ravine end-member of water erosion.
 
-B. Sheet erosion
+Reason (R): Wind erosion works by deflation and abrasion.
 
-C. Landslide
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. Dune migration
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: A.** Both true; wind processes do not explain Chambal ravines.
 
-**Ans: B**
-
-</details>
-
-**Q10.** Chambal ravines are an example of:
-
-A. Wind deflation
-
-B. Advanced gully/ravine erosion
-
-C. Glacier erosion
-
-D. Coastal erosion
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**A/R logic:** Water vs wind tools.
 
 </details>
 
-**Q11.** Chambal ravines extend across:
+**Q6.** Match List-I with List-II:
 
-A. Kerala-TN-Karnataka
+| List-I | List-II |
+|--------|--------|
+| A. Thar | 1. Salinization belt teaching |
+| B. Chambal | 2. Wind erosion |
+| C. Punjab–Haryana | 3. Ravines |
 
-B. MP, UP, Rajasthan
+Code:
 
-C. Assam only
+A. A-3, B-2, C-1
+B. A-2, B-3, C-1
+C. A-2, B-1, C-3
+D. A-1, B-3, C-2
 
-D. Gujarat only
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: B.** A-2, B-3, C-1.
 
-**Ans: B**
-
-</details>
-
-**Q12.** Wind erosion in arid areas involves:
-
-A. Deflation and abrasion
-
-B. Only chemical weathering
-
-C. Only glacier plucking
-
-D. Tidal action
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Thar wind; Chambal ravines; Punjab–Haryana salinity.
 
 </details>
 
-**Q13.** Contour bunding is used to control:
+**Q7.** With reference to UNCCD, which of the following statements is/are correct?
 
-A. Ozone depletion
+1. Adopted in 1994.
+2. Desertification and Drought Day is 17 June.
+3. UNCCD is identical to UNFCCC.
 
-B. Water erosion on slopes
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
 
-C. Marine pollution
+<details>
+<summary>Show answer</summary>
 
-D. UV radiation
+**Ans: C.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q14.** Shelter belts mainly combat:
-
-A. Wind erosion
-
-B. Earthquakes
-
-C. Acid rain only
-
-D. Groundwater salinity in oceans
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Different conventions.
 
 </details>
 
-**Q15.** Accelerated soil erosion is:
+**Q8.** Which of the following pairs is/are NOT correctly matched?
 
-A. Slower than soil formation
+1. LDN — no net loss of healthy land by 2030 (SDG 15.3)
+2. DPAP — 1973
+3. DPAP — 1952
 
-B. Faster than soil formation
+A. 1 and 2 only
+B. 1, 2 and 3
+C. 2 and 3 only
+D. 3 only
 
-C. Always natural
+<details>
+<summary>Show answer</summary>
 
-D. Only in oceans
+**Ans: D.** Only pair 3 is not correctly matched.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q16.** ISRO Atlas 2016 mapped about what share of India as degraded?
-
-A. 5%
-
-B. 15%
-
-C. ~29%
-
-D. 60%
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
+**Logic:** DPAP = 1973 not 1952.
 
 </details>
 
-**Q17.** Worst-affected Indian state for desertification/degradation is:
+**Q9.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Kerala
+Assertion (A): Accelerated erosion is human-driven and faster than soil formation.
 
-B. Rajasthan
+Reason (R): Normal geological erosion is slow and roughly balanced by formation.
 
-C. Goa
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. Sikkim
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: A.** Both true; R contrasts normal erosion but does not define accelerated erosion’s human driver as explanation.
 
-**Ans: B**
-
-</details>
-
-**Q18.** Excessive canal irrigation can cause:
-
-A. Only forest growth
-
-B. Salinization and waterlogging
-
-C. Ozone hole
-
-D. Coral bleaching
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**A/R logic:** Contrast pair.
 
 </details>
 
-**Q19.** DPAP was launched in:
+**Q10.** Arrange schemes: DPAP → DDP → IWMP teaching:
 
-A. 1952
+A. 1973 → 1977-78 → 2009
+B. 2009 → 1973 → 1977-78
+C. 1977-78 → 1973 → 2009
+D. 1973 → 2009 → 1977-78
 
-B. 1973
+<details>
+<summary>Show answer</summary>
 
-C. 2005
+**Ans: A.** 1973 → 1977–78 → 2009.
 
-D. 2015
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q20.** Soil erosion consequence includes:
-
-A. Increased reservoir siltation
-
-B. Higher topsoil fertility
-
-C. Reduced flood risk always
-
-D. More ozone
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** DPAP–DDP–IWMP.
 
 </details>
 
-**Q21.** Bundelkhand in UP faces:
+**Q11.** With reference to Bundelkhand, which of the following statements is/are correct?
 
-A. Only coral bleaching
+1. It is a classic UP drought–degradation hotspot (seven districts teaching).
+2. Overgrazing and water stress reinforce degradation.
+3. Bundelkhand is a coastal mangrove biosphere in Kerala.
 
-B. Drought-desertification cycle
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. Permafrost melt
+<details>
+<summary>Show answer</summary>
 
-D. Tsunami risk
+**Ans: B.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q22.** Wasteland is:
-
-A. Always pristine forest
-
-B. Degraded uncultivable land
-
-C. Only urban parks
-
-D. Deep ocean floor
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Not Kerala mangroves.
 
 </details>
 
-**Q23.** Gully plugging helps:
+**Q12.** Match List-I with List-II:
 
-A. Trap sediment and reduce gully growth
+| List-I | List-II |
+|--------|--------|
+| A. Deflation | 1. Sandblasting |
+| B. Abrasion | 2. Lifting of particles |
+| C. Shelter belts | 3. Wind-erosion control |
 
-B. Increase wind speed
+Code:
 
-C. Remove topsoil faster
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
 
-D. Stop monsoon rains
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: C.** A-2, B-1, C-3.
 
-**Ans: A**
-
-</details>
-
-**Q24.** Earthworms help farmers mainly by:
-
-A. Eating all crops
-
-B. Improving soil fertility and structure
-
-C. Producing methane in soil only
-
-D. Killing all soil bacteria
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Deflation lift; abrasion sandblast; shelter belts control.
 
 </details>
 
-**Q25.** UNCCD is linked to:
+**Q13.** Which one of the following is a leading dryland cause in coaching facts?
 
-A. Desertification
+A. Montreal Protocol
+B. Building more check dams always worsens deserts only
+C. Earthworms causing deserts
+D. Overgrazing
 
-B. Ozone layer
+<details>
+<summary>Show answer</summary>
 
-C. Whaling
+**Ans: D.** Overgrazing.
 
-D. Marine oil spills
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q26.** Terrace farming is best suited for:
-
-A. Steep hill slopes
-
-B. Open ocean
-
-C. Polar ice caps
-
-D. Deep mines only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Top dryland driver teaching.
 
 </details>
 
-**Q27.** Normal geological erosion is:
+**Q14.** With reference to conservation tools, which of the following statements is/are correct?
 
-A. Always faster than soil formation
+1. Contour bunding, terraces, check dams, watershed management help.
+2. Afforestation and gully plugging help.
+3. Earthworms are soil-fertility allies in restoration narratives.
 
-B. Balanced with soil formation over long time
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
-C. Caused only by mining
+<details>
+<summary>Show answer</summary>
 
-D. Same as ravine formation
+**Ans: A.** All three.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q28.** Which pair is correctly matched?
-
-A. Thar — wind erosion
-
-B. Chambal — ozone hole
-
-C. UNCCD — marine pollution
-
-D. Afforestation — land degradation cause
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Standard restoration toolkit.
 
 </details>
 
-**Q29.** SDG target for land degradation neutrality is:
+**Q15.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. SDG 6.1
+Assertion (A): Excessive irrigation can cause salinization and waterlogging.
 
-B. SDG 15.3
+Reason (R): Salinity from poor irrigation is a human-made degradation path.
 
-C. SDG 13.1
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. SDG 8.7
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: D.** Both true and R explains A.
 
-**Ans: B**
+**A/R logic:** Irrigation mismanagement path.
 
 </details>
 
-**Q30.** Watershed management integrates:
+**Q16.** How many of the following India hotspots are correctly paired?
 
-A. Land, water, and vegetation in a drainage basin
+1. Thar — wind
+2. Chambal — ravines
+3. Bundelkhand — drought–degradation
 
-B. Only space missions
+A. Only one
+B. All three
+C. Only two
+D. None
 
-C. Only wildlife trade
+<details>
+<summary>Show answer</summary>
 
-D. Only ozone chemistry
+**Ans: B.** All three.
 
-<details><summary>Show answer</summary>
+**Logic:** Classic hotspot map.
 
-**Ans: A**
+</details>
+
+**Q17.** With reference to MGNREGA link, which of the following statements is/are correct?
+
+1. MGNREGA (2005) can fund bunds and check dams.
+2. It can support watershed-type works.
+3. MGNREGA repealed UNCCD.
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Does not repeal UNCCD.
+
+</details>
+
+**Q18.** Which of the following pairs is/are correctly matched?
+
+1. SDG 15.3 — LDN
+2. UNCCD — desertification convention
+3. UNFCCC — desertification-only treaty
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** UNFCCC is climate.
+
+</details>
+
+**Q19.** Arrange meteorological → agricultural → hydrological drought idea:
+
+A. Meteorological → agricultural → hydrological
+B. Hydrological → meteorological → agricultural
+C. Agricultural → hydrological → meteorological only always reverse
+D. No sequence exists
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Met → agri → hydro.
+
+**Logic:** Standard drought ladder (variants exist; this is teaching order used here).
+
+</details>
+
+**Q20.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Desertification and drought reinforce each other in a feedback loop.
+
+Reason (R): DPAP began in 1973 to address drought-prone areas.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; DPAP year does not explain the feedback loop.
+
+**A/R logic:** Related but not explanation.
+
+</details>
+
+**Q21.** With reference to sheet erosion, which of the following statements is/are correct?
+
+1. It is the earliest stage in the water-erosion sequence teaching.
+2. Ravine is deeper than gully in the sequence.
+3. Sheet erosion comes after ravine.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Sheet is first — not after ravine.
+
+</details>
+
+**Q22.** Which of the following statements about wind erosion is/are correct?
+
+1. Deflation lifts particles.
+2. Abrasion sandblasts surfaces.
+3. Wind erosion is impossible in the Thar.
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Thar is wind hotspot.
+
+</details>
+
+**Q23.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. DPAP | 1. 2009 |
+| B. DDP | 2. 1973 |
+| C. IWMP | 3. 1977–78 |
+
+Code:
+
+A. A-1, B-3, C-2
+B. A-3, B-2, C-1
+C. A-2, B-1, C-3
+D. A-2, B-3, C-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** A-2, B-3, C-1.
+
+**Logic:** 1973 / 1977–78 / 2009.
+
+</details>
+
+**Q24.** With reference to LDN, which of the following statements is/are correct?
+
+1. Target year 2030.
+2. Linked to SDG 15.3.
+3. Means unlimited land degradation is a goal.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Neutrality = no net loss.
+
+</details>
+
+**Q25.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Afforestation helps prevent further dryland degradation.
+
+Reason (R): Deforestation is a leading degradation driver.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R explains why afforestation helps.
+
+**A/R logic:** Driver ↔ remedy.
+
+</details>
+
+**Q26.** How many of the following causes are standard?
+
+Overgrazing, deforestation, unsustainable farming, excessive irrigation, mining/pollution pathways
+
+A. Only two
+B. All five
+C. Only four
+D. Only three
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** All five.
+
+**Logic:** Leading cause set.
+
+</details>
+
+**Q27.** Which of the following UP-linked locks is/are correct?
+
+1. Chambal ravines touch MP–UP–Rajasthan teaching.
+2. Bundelkhand drought–degradation cycle.
+3. UP has the densest tropical rainforest hotspot identical to Amazon.
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Statement 3 false.
+
+</details>
+
+**Q28.** With reference to Day locks, which of the following statements is/are correct?
+
+1. Desertification and Drought Day — 17 June
+2. World Environment Day — 5 June
+3. Desertification Day — 22 April
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** 22 April is Earth Day.
+
+</details>
+
+**Q29.** Which one of the following correctly states desertification geography?
+
+A. ASDM drylands
+B. Only polar ice caps
+C. Only deep ocean trenches
+D. Only stratospheric ozone
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** ASDM drylands.
+
+**Logic:** Arid–semi-arid–dry sub-humid.
+
+</details>
+
+**Q30.** With reference to check dams/watershed, which of the following statements is/are correct?
+
+1. They are conservation tools against erosion/degradation.
+2. Watershed is land draining to a common outlet.
+3. Check dams increase sheet erosion by design.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Check dams reduce erosion.
 
 </details>
 

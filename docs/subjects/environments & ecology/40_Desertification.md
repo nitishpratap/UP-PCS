@@ -387,306 +387,591 @@ D. Zero rainfall for one hour
 
 ---
 
-## Practice Zone
+## Practice Zone — UPPCS Format Drill
 
-**Q1.** Desertification occurs in:
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-Options: A. ASDM drylands B. Only deep oceans C. Only Antarctic ice D. Only rainforests forever wet
+**Q1.** With reference to desertification, which of the following statements is/are correct?
 
-<details><summary>Show answer</summary>
+1. Land degradation in arid, semi-arid, dry sub-humid (ASDM) drylands.
+2. Not merely “the desert expanding.”
+3. Identical to any bare land in a humid forest belt.
 
-**Ans: A**
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q2.** LDN target year for India/SDG framing:
+**Ans: B.** Only 1 and 2.
 
-Options: A. 2030 B. 2050 only C. 1987 D. 1952
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q3.** UNCCD adopted in:
-
-Options: A. 1994 B. 1972 only C. 1987 only D. 2015 only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** ASDM drylands — not humid forest bare land.
 
 </details>
 
-**Q4.** Desertification & Drought Day:
+**Q2.** Match List-I with List-II:
 
-Options: A. 17 June B. 5 June only C. 16 September D. 22 April
+| List-I | List-II |
+|--------|--------|
+| A. UNCCD | 1. 17 June |
+| B. Desertification Day | 2. Adopted 1994 |
+| C. LDN | 3. No net loss healthy land by 2030 (SDG 15.3) |
 
-<details><summary>Show answer</summary>
+Code:
 
-**Ans: A**
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q5.** Leading human cause in drylands:
+**Ans: C.** A-2, B-1, C-3.
 
-Options: A. Overgrazing B. Afforestation C. Contour bunding D. Shelter belts
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q6.** Which prevents land degradation?
-
-Options: A. Afforestation B. Overgrazing C. Clear-felling D. Unchecked mining
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** UNCCD / Day / LDN.
 
 </details>
 
-**Q7.** Correct water-erosion sequence:
+**Q3.** Which of the following pairs is/are correctly matched?
 
-Options: A. Sheet → rill → gully → ravine B. Ravine → sheet only C. Wind → only BOD D. Noise → gully
+1. Drivers — climate variation + overgrazing/deforestation/bad irrigation
+2. Land degradation — broader; any climate zone
+3. UNCCD identical to UNFCCC
 
-<details><summary>Show answer</summary>
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: D.** Only 1 and 2.
 
-**Q8.** Chambal ravines span:
-
-Options: A. MP–UP–Rajasthan B. Only Kerala C. Only Assam D. Only Goa
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q9.** DPAP launched around:
-
-Options: A. 1973–74 B. 1994 only C. 2019 only D. 1485
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Different conventions.
 
 </details>
 
-**Q10.** Meteorological drought marker often used:
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Options: A. Rainfall << LPA (e.g. <75% LPA severe) B. Only AQI > 500 C. Only ozone hole DU D. Only BOD < 3
+Assertion (A): India’s degraded land share often taught ~29–30% (ISRO Atlas 2016 ~96.4 Mha).
 
-<details><summary>Show answer</summary>
+Reason (R): Rajasthan is the worst state neighbourhood teaching.
 
-**Ans: A**
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q11.** Bundelkhand UP districts count commonly locked:
+**Ans: A.** Both true; Rajasthan rank does not itself prove the national % figure.
 
-Options: A. Seven B. Seventy C. Two only D. Zero
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q12.** Wind erosion processes:
-
-Options: A. Deflation and abrasion B. Only BOD assay C. Only photochemical O₃ D. Only MARPOL annexes
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**A/R logic:** National % vs state worst.
 
 </details>
 
-**Q13.** Thar deposits (2018 fact):
+**Q5.** With reference to drought ladder, which of the following statements is/are correct?
 
-Options: A. Pleistocene and recent B. Only Archean basement always C. Only Oligocene alone as sole answer key D. Only lunar dust
+1. Meteorological → hydrological → agricultural teaching order variants exist; met often first.
+2. DPAP began in 1973.
+3. Drought and desertification reinforce each other.
 
-<details><summary>Show answer</summary>
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: A.** All three.
 
-**Q14.** India degraded area share ~:
-
-Options: A. 29–30% B. 1% only C. 99% always D. Zero
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q15.** Worst-affected state in Atlas framing:
-
-Options: A. Rajasthan B. Goa only C. Sikkim only D. Kerala only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Drought–desertification link.
 
 </details>
 
-**Q16.** Salinization often follows:
+**Q6.** Arrange water erosion stages:
 
-Options: A. Improper irrigation B. Only contour bunding C. Only shelter belts D. Only check dams
+A. Ravine → sheet only
+B. Sheet → rill → gully → ravine
+C. Only wind abrasion
+D. Only LDN certificates
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Sheet→rill→gully→ravine.
 
-</details>
-
-**Q17.** CDP → DPAP → Food for Work → TRYSEM order:
-
-Options: A. 2, 4, 1, 3 B. 4, 2, 3, 1 C. 1, 2, 3, 4 only forever D. 3, 1, 4, 2
-
-<details><summary>Show answer</summary>
-
-**Ans: A** — 2025 Q134.
+**Logic:** Chambal ravines textbook.
 
 </details>
 
-**Q18.** Drought vs desertification:
+**Q7.** Which of the following pairs is/are NOT correctly matched?
 
-Options: A. Drought temporary deficit; desertification lasting dryland productivity loss B. Identical always C. Drought only means ozone hole D. Desertification only means one rainy day
+1. Thar — wind deflation/abrasion
+2. Chambal — water ravines / badlands
+3. Chambal — only coastal mangroves
 
-<details><summary>Show answer</summary>
+A. 1 and 2 only
+B. 2 and 3 only
+C. 3 only
+D. 1, 2 and 3
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: C.** Only pair 3 is not correctly matched.
 
-**Q19.** UNCCD vs UNFCCC:
-
-Options: A. Desertification vs climate B. Same treaty C. Both only plastic bans D. Both only AQI colours
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q20.** Shelter belts mainly fight:
-
-Options: A. Wind erosion B. Only noise in Moradabad C. Only SUP plastics D. Only photochemical smog O₃
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Chambal = ravines.
 
 </details>
 
-**Q21.** Assertion (A): Desertification means only Thar sand dunes moving east forever.
-Reason (R): UN definition is productivity loss in ASDM drylands.
+**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Options: A. Both true; R explains A B. Both true; R does not explain A C. A false, R true D. Both false
+Assertion (A): Desertification can reverse with sustainable land management.
 
-<details><summary>Show answer</summary>
+Reason (R): It is an irreversible death sentence in every plot.
 
-**Ans: C**
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q22.** Agricultural drought focuses on:
+**Ans: C.** A true, R false.
 
-Options: A. Crop soil-moisture failure B. Only stock market crash C. Only ozone DU D. Only AQI severe days
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q23.** Gully plugging helps:
-
-Options: A. Stop gully growth B. Increase SO₂ only C. Raise AQI only D. Ban all rain
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**A/R logic:** Not irreversible always.
 
 </details>
 
-**Q24.** Hydrological drought shows in:
+**Q9.** With reference to Bundelkhand, which of the following statements is/are correct?
 
-Options: A. Rivers/reservoirs/groundwater fall B. Only textbook pH 7 rain C. Only helium balloons D. Only marble gypsum on Taj alone
+1. Seven UP districts — classic drought–degradation hotspot.
+2. Links meteorological and agricultural stress neighbourhood.
+3. It is India’s only coastal desertification capital.
 
-<details><summary>Show answer</summary>
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: D.** Only 1 and 2.
 
-**Q25.** Contour bunding is for:
-
-Options: A. Reducing runoff/erosion on slopes B. Increasing overgrazing C. Expanding ravines D. Removing all vegetation
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q26.** LDN means roughly:
-
-Options: A. No net loss of healthy land B. Only net zero CO₂ by 2070 C. Only Montreal ODS ban D. Only noise silence zones
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Not coastal capital.
 
 </details>
 
-**Q27.** Sheet erosion is:
+**Q10.** Match List-I with List-II:
 
-Options: A. Uniform thin topsoil removal B. Only deep Chambal canyons at first step C. Only wind abrasion always D. Only indoor pollution
+| List-I | List-II |
+|--------|--------|
+| A. Overgrazing | 1. Raises runoff/erosion |
+| B. Afforestation | 2. Top dryland cause in many facts |
+| C. Deforestation | 3. Helps prevent further degradation |
 
-<details><summary>Show answer</summary>
+Code:
 
-**Ans: A**
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q28.** DDP relates to:
+**Ans: A.** A-2, B-3, C-1.
 
-Options: A. Desert Development Programme B. Only Ozone Day Protocol C. Only BOD Act 1974 D. Only AQI colour chart
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q29.** Feedback loop fact:
-
-Options: A. Drought → bare soil → erosion → desertification risk B. Afforestation → always desert expansion C. Contour bunds → create deserts D. LDN → bans all crops
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Cause/prevention/deforestation.
 
 </details>
 
-**Q30.** Correct set:
+**Q11.** Arrange salinity path:
 
-Options: A. Desertification=ASDM; LDN=2030; UNCCD=1994; DPAP=1973; sheet→ravine B. Desertification=only oceans; LDN=1987; UNCCD=Montreal twin C. Afforestation causes degradation; Chambal only in Kerala D. Drought = permanent desert always
+A. Only natural rainforest process
+B. Poor irrigation → salinity — human-made degradation even if rain ≠ zero
+C. Only Antarctic ozone
+D. Only AQI Severe band
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Irrigation salinity.
+
+**Logic:** Human-made path.
+
+</details>
+
+**Q12.** With reference to LDN / SDG, which of the following statements is/are correct?
+
+1. LDN = no net loss of healthy land by 2030.
+2. Linked to SDG 15.3.
+3. UNCCD is the global legal home; UNFCCC is climate.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All three.
+
+**Logic:** LDN + treaty split.
+
+</details>
+
+**Q13.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Accelerated erosion from human misuse is the focus.
+
+Reason (R): Only slow geological erosion matters in desertification teaching.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true, R false.
+
+**A/R logic:** Human-accelerated focus.
+
+</details>
+
+**Q14.** Which one of the following correctly states sheet vs gully vs ravine?
+
+A. All identical BOD metrics
+B. All identical wind dunes only
+C. All identical ozone holes
+D. Sheet thin film; gully channels; ravines deep dense badlands
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Erosion stage meanings.
+
+**Logic:** Water-erosion vocabulary.
+
+</details>
+
+**Q15.** How many of the following twin landform facts are correct?
+
+Thar wind processes; Chambal water ravines
+
+A. Both
+B. Only one
+C. None
+D. Three including Sundarbans BR
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both.
+
+**Logic:** Indian twin facts.
+
+</details>
+
+**Q16.** With reference to IMD / DPAP, which of the following statements is/are correct?
+
+1. IMD drought monitoring often appears beside desertification stems.
+2. DPAP 1973 geography neighbourhood.
+3. DPAP began in 1952 as CDP identical.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** DPAP 1973 — not 1952.
+
+</details>
+
+**Q17.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. Meteorological drought | 1. Rivers/groundwater stress neighbourhood |
+| B. Agricultural drought | 2. Low rainfall |
+| C. Hydrological drought | 3. Soil moisture / crop stress |
+
+Code:
+
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A-2, B-3, C-1.
+
+**Logic:** Drought types.
+
+</details>
+
+**Q18.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): UNCCD was adopted in 1994.
+
+Reason (R): 17 June is Desertification and Drought Day.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; observance date does not explain adoption year.
+
+**A/R logic:** Year vs day.
+
+</details>
+
+**Q19.** Which of the following pairs is/are correctly matched?
+
+1. Desertification — ASDM drylands
+2. Land degradation — broader productivity decline
+3. Desertification — only Yellowstone expansion
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Not Yellowstone.
+
+</details>
+
+**Q20.** Arrange feedback idea:
+
+A. Drought and desertification reinforce each other
+B. Drought never links to desertification
+C. Only Montreal controls deserts
+D. Only AQI controls ravines
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Mutual reinforcement.
+
+**Logic:** Feedback loop.
+
+</details>
+
+**Q21.** With reference to overgrazing, which of the following statements is/are correct?
+
+1. Top dryland cause in many coaching facts.
+2. Afforestation helps prevent further degradation.
+3. Overgrazing improves soil cover always.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Statement 3 false.
+
+</details>
+
+**Q22.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): SDG 15.3 LDN is the policy end-state.
+
+Reason (R): UNCCD is the global legal home for desertification.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; legal home does not itself define the 2030 LDN end-state wording.
+
+**A/R logic:** Policy vs convention.
+
+</details>
+
+**Q23.** How many of the following drivers are human pressures in teaching?
+
+Overgrazing, deforestation, bad irrigation, only solar flares
+
+A. Only one
+B. Only two
+C. Only three
+D. All four
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only three.
+
+**Logic:** Solar flares not the dryland driver set.
+
+</details>
+
+**Q24.** Which one of the following correctly states wind erosion in Thar?
+
+A. Only catalytic converters
+B. Only sheet→ravine water stages
+C. Only BOD crash
+D. Deflation and abrasion
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Deflation + abrasion.
+
+**Logic:** Thar wind.
+
+</details>
+
+**Q25.** With reference to reversibility, which of the following statements is/are correct?
+
+1. Sustainable land management can reverse desertification in many plots.
+2. Not every plot is an irreversible death sentence.
+3. Definition requires humid Amazon only.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** ASDM — not humid Amazon definition.
+
+</details>
+
+**Q26.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. Sheet erosion | 1. Deep badland networks |
+| B. Gully | 2. Thin film removal |
+| C. Ravine | 3. Channel cutting |
+
+Code:
+
+A. A-1, B-2, C-3
+B. A-2, B-3, C-1
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** A-2, B-3, C-1.
+
+**Logic:** Sheet/gully/ravine.
+
+</details>
+
+**Q27.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Do not define desertification as any bare land in a humid forest belt.
+
+Reason (R): Desertification is ASDM dryland degradation.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R explains A.
+
+**A/R logic:** Definition boundary.
+
+</details>
+
+**Q28.** Arrange India’s degraded land teaching figure neighbourhood:
+
+A. 0% always
+B. 100% forests only
+C. ~29–30% / ~96.4 Mha (ISRO Atlas 2016 teaching)
+D. Only 2 February Wetlands
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** ~29–30%.
+
+**Logic:** ISRO Atlas fact.
+
+</details>
+
+**Q29.** With reference to met drought threshold teaching, which of the following statements is/are correct?
+
+1. Often linked to rainfall below about 75% of normal neighbourhood.
+2. Sits beside IMD monitoring stems.
+3. Identical to World Ozone Day.
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Not Ozone Day.
+
+</details>
+
+**Q30.** Which one of the following correctly separates UNCCD from UNFCCC?
+
+A. UNCCD desertification; UNFCCC climate — different treaties
+B. Both identical ozone protocols
+C. Both identical noise standards
+D. Both identical AQI eight pollutants
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Desertification vs climate conventions.
+
+**Logic:** Treaty split.
 
 </details>
 

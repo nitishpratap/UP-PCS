@@ -546,592 +546,113 @@ D. III, IV
 
 ## Practice Zone — UPPCS Format Drill
 
-**32 questions.** ≥60% multi-statement. A/R, Match-List, chronology, NOT-matched included.
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-**Q1.** With reference to archaeological dating, which of the following statements is/are correct?
+**Q1.** With reference to archaeology and history, which of the following statements is/are correct?
 
-1. Stratigraphy uses the law of superposition.
-2. Radiocarbon dating can be applied directly to a stone seal.
-3. Thermoluminescence can date fired pottery.
+1. Archaeology studies material remains through excavation and dating.
+2. History builds narrative mainly from written sources.
+3. The two methods are identical and interchangeable labels.
 
-A. 1 and 2 only
+A. 2 and 3 only
 B. 1 and 3 only
-C. 2 and 3 only
+C. 1 and 2 only
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** C-14 needs **organic** carbon.
+**Ans: C.** Only 1 and 2 are correct.
+
+**Logic:** They work together but are not the same method.
 
 </details>
 
-**Q2.** Match List-I with List-II.
+**Q2.** Consider the following pairs:
 
-**List-I**
-A. Daya Ram Sahni
-B. R. D. Banerji
-C. Mortimer Wheeler
-D. V. S. Wakankar
+| Method | Tag |
+|--------|-----|
+| 1. Stratigraphy | Lower undisturbed layer is older |
+| 2. Typology | Artefact-style comparison |
+| 3. C-14 | Direct dating of bare stone seals |
 
-**List-II**
-1. Mohenjo-daro, 1922
-2. Harappa, 1921
-3. Bhimbetka, 1957
-4. Grid excavation, 1946
+Which of the pairs given above is/are correctly matched?
 
-A. 2 1 4 3
-B. 1 2 4 3
-C. 2 1 3 4
-D. 2 4 1 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q3.** Which of the following pairs is/are NOT correctly matched?
-
-1. Vertical excavation — chronological sequence
-2. Horizontal excavation — one-period layout
-3. Wheeler box-grid — first discovery of Harappa in 1853
-
-A. 1 only
-B. 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 1853 = Cunningham’s seal notice. Wheeler = 1946 method.
-
-</details>
-
-**Q4.** Assertion (A): Lower layers in an undisturbed trench are older than upper layers.
-Reason (R): This principle is called typology.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** The principle is **stratigraphy** / superposition. Typology compares artefact style.
-
-</details>
-
-**Q5.** Arrange the following in chronological order:
-
-1. Marshall announces the Indus civilisation
-2. Sahni excavates Harappa
-3. Cunningham notices a Harappan seal
-4. Wheeler’s grid excavation at Harappa
-
-A. 3, 2, 1, 4
-B. 3, 1, 2, 4
-C. 2, 3, 1, 4
-D. 3, 2, 4, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** 1853 → 1921 → 1924 → 1946.
-
-</details>
-
-**Q6.** Which of the following archaeological sites related to the Indus Valley Civilization are situated in present-day Uttar Pradesh?
-
-1. Mandi
-2. Rakhigarhi
-3. Hulas
-
-A. 1 and 2
-B. Only 3
-C. 1 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Same fact as UPPCS 2025 Q87.
-
-</details>
-
-**Q7.** The eastern boundary of the Harappan culture is indicated by which of the following?
-
-A. Harappa
-B. Alamgirpur
-C. Rakhigarhi
-D. Manda
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Meerut, UP. Manda = northern (J&K).
-
-</details>
-
-**Q8.** Match List-I with List-II.
-
-**List-I**
-A. Nevasa
-B. Isampur
-C. Didwana
-D. Gudiyam Cave
-
-**List-II**
-1. Rajasthan
-2. Tamil Nadu
-3. Maharashtra
-4. Karnataka
-
-A. 3 4 1 2
-B. 4 3 1 2
-C. 3 4 2 1
-D. 3 2 4 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** UPPCS 2023 Q27 code.
-
-</details>
-
-**Q9.** With reference to Harappan geography, which of the following statements is/are correct?
-
-1. Rakhigarhi is in Haryana and is among India’s largest IVC sites.
-2. Alamgirpur is in Uttar Pradesh.
-3. Mandi is in Gujarat.
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Mandi = **UP**.
-
-</details>
-
-**Q10.** Which of the following pairs is/are NOT correctly matched?
-
-1. Lothal — dockyard, Gujarat
-2. Kalibangan — fire altars, Rajasthan
-3. Dholavira — dockyard, Maharashtra
-
-A. 1 only
-B. 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Dholavira = **Gujarat** reservoirs, not a Maharashtra dock.
-
-</details>
-
-**Q11.** From which archaeological sites of the Indus Valley Civilization are figures or models of boats found?
-
-A. Dholavira and Bhagatrav
-B. Harappa and Kot Diji
-C. Mohenjo-daro and Lothal
-D. Kalibangan and Ropar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** UPPCS 2022 Q68.
-
-</details>
-
-**Q12.** Match List-I with List-II.
-
-**List-I**
-A. Balu
-B. Manda
-C. Padri
-D. Hulas
-
-**List-II**
-1. Uttar Pradesh
-2. Jammu & Kashmir
-3. Haryana
-4. Gujarat
-
-A. 3 2 1 4
-B. 2 3 4 1
-C. 2 4 3 1
-D. 3 2 4 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** UPPCS 2020 Q12.
-
-</details>
-
-**Q13.** Assertion (A): Rakhigarhi is an Indus site in Uttar Pradesh.
-Reason (R): Rakhigarhi is among the largest Harappan sites in India.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Site = **Haryana**. Size claim is true.
-
-</details>
-
-**Q14.** Which of the following centres related to Indus Valley are situated in Uttar Pradesh?
-
-I. Kalibanga
-II. Lothal
-III. Alamgirpur
-IV. Hulas
-
-A. I, II, III, IV
-B. I, II
-C. II, III
-D. III, IV
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** UPPCS 2018 Q88.
-
-</details>
-
-**Q15.** In which State of India is the Harappan Civilization site Mandi situated?
-
-A. Gujarat
-B. Haryana
-C. Rajasthan
-D. Uttar Pradesh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** UPPCS 2021 Q100.
-
-</details>
-
-**Q16.** With reference to Bhimbetka, which of the following statements is/are correct?
-
-1. V. S. Wakankar first established its prehistoric importance.
-2. It lies in Uttar Pradesh.
-3. It is a Harappan dockyard.
-
-A. 1 only
+A. 2 and 3 only
 B. 1 and 2 only
-C. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** MP rock shelters, not IVC.
+**Ans: B.** Only pairs 1 and 2 are correct.
+
+**Logic:** C-14 dates organic carbon only, not bare stone.
 
 </details>
 
-**Q17.** Consider the following pairs:
+**Q3.** Which of the following pairs is NOT correctly matched?
 
-1. Sanauli — Baghpat, UP, 2018 chariot burial
-2. Sanauli — easternmost Harappan site
-3. Mehrgarh — Neolithic precursor in Balochistan
-
-Which of the pairs given above is/are correctly matched?
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Daya Ram Sahni — Harappa 1921
+B. R. D. Banerji — Mohenjo-daro 1922
+C. Mortimer Wheeler — discovered Harappa in 1853
+D. John Marshall — announced the civilisation
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Easternmost = **Alamgirpur**.
+**Ans: C.** Cunningham notes a seal in 1853. Wheeler brings 1946 grid methods.
+
+**Logic:** Do not swap excavators or credit Wheeler as first discoverer.
 
 </details>
 
-**Q18.** How many of the following are in Uttar Pradesh?
+**Q4.** Assertion (A): Radiocarbon dating can date a stone seal directly without organic association.
+Reason (R): Thermoluminescence dates fired clay or brick.
 
-1. Hulas
-2. Alamgirpur
-3. Padri
-4. Hastinapur
-
-A. Only one
-B. Only two
-C. Only three
-D. All four
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Padri = Gujarat.
-
-</details>
-
-**Q19.** Assertion (A): Mortimer Wheeler introduced a scientific grid method at Harappa.
-Reason (R): He was the first person to excavate an Indus city.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** First city digs = Sahni / Banerji in the 1920s.
+**Ans: B.** (A) is false, but (R) is true.
+
+**A/R logic:** C-14 needs organic carbon. TL is the pottery / fired-clay fact.
 
 </details>
 
-**Q20.** With reference to Sarnath, which of the following statements is/are correct?
+**Q5.** Arrange the Indus discovery chain in chronological order:
 
-1. Cunningham surveyed the site in the 1830s.
-2. The Lion Capital was found by F. O. Oertel in 1904–05.
-3. Sarnath is in Bihar.
+1. Marshall announces the civilisation
+2. Cunningham notes a seal
+3. Sahni excavates Harappa
+4. Banerji excavates Mohenjo-daro
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+Select the correct order.
+
+A. 3-2-4-1
+B. 2-4-3-1
+C. 2-3-4-1
+D. 2-3-1-4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Sarnath = **UP**. WHS 2026 is a heritage fact, not a Bihar shift.
+**Ans: C.** 1853 seal note → 1921 Harappa → 1922 Mohenjo-daro → 1924 announcement.
+
+**Logic:** Wheeler’s 1946 grid comes later as method reform.
 
 </details>
 
-**Q21.** Match List-I with List-II.
-
-**List-I**
-A. Lothal
-B. Dholavira
-C. Kalibangan
-D. Chanhudaro
-
-**List-II**
-1. Fire altars
-2. Dockyard
-3. Bead factory, no citadel
-4. Reservoirs and signboard
-
-A. 2 4 1 3
-B. 2 4 3 1
-C. 4 2 1 3
-D. 2 1 4 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q22.** Which of the following statements is/are correct?
-
-1. ASI was founded in 1861 with Cunningham as first DG.
-2. A licensed excavation on a protected monument is governed by AMASR 1958.
-3. ASI functions under the Ministry of Tourism.
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Ministry = **Culture**.
-
-</details>
-
-**Q23.** Consider the following:
-
-1. Belan valley
-2. Sarai Nahar Rai
-3. Bhimbetka
-
-How many of the above are prehistoric sites in Uttar Pradesh?
-
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Bhimbetka = **MP**.
-
-</details>
-
-**Q24.** Which of the following pairs is/are correctly matched?
-
-1. Keeladi — Tamil Nadu, Sangam urban excavation
-2. Rakhigarhi aDNA work — bones from a UP mound
-3. BSIP Lucknow — named lab in the 2026 Rakhigarhi scientific transfer
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Skeletons are from **Haryana**. Lucknow is the lab, not the site.
-
-</details>
-
-**Q25.** Which of the following Indian Archaeologists first visited Bhimbetka Caves and discovered prehistoric significance of its rock paintings?
-
-A. Madho Swaroop Vatsa
-B. H. D. Sankalia
-C. V. S. Wakankar
-D. V. N. Mishra
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** UPPCS 2020 Q10.
-
-</details>
-
-**Q26.** With reference to excavation method, which of the following statements is/are correct?
-
-1. Balks are earth walls left between grid squares.
-2. Salvage excavation is done before a site is destroyed by a dam or road.
-3. Horizontal digging is the best single method for a full time-sequence.
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Time-sequence = **vertical**.
-
-</details>
-
-**Q27.** Match List-I with List-II.
-
-**List-I**
-A. Hastinapur
-B. Nalanda
-C. Hampi
-D. Burzahom
-
-**List-II**
-1. Bihar mahavihara
-2. UP, B. B. Lal
-3. J&K Neolithic
-4. Karnataka Vijayanagara
-
-A. 2 1 4 3
-B. 2 1 3 4
-C. 1 2 4 3
-D. 2 4 1 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q28.** How many of the following statements are correct?
-
-1. Mohenjo-daro is in present-day India.
-2. Harappa was first excavated by Daya Ram Sahni.
-3. John Marshall announced the Indus civilisation in 1924.
-
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Mohenjo-daro is in **Pakistan** (Sindh).
-
-</details>
-
-**Q29.** Assertion (A): Alamgirpur indicates the eastern limit of Harappan culture.
-Reason (R): It lies in the Meerut belt of Uttar Pradesh.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q30.** Which of the following pairs is/are NOT correctly matched?
-
-1. Bruce Foote — Pallavaram palaeolith, 1863
-2. James Prinsep — Brahmi decipherment, 1837
-3. Arun Sonakia — first excavation of Harappa
-
-A. 1 only
-B. 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Sonakia = **Narmada / Hathnora** hominin, 1982.
-
-</details>
-
-**Q31.** With reference to UP archaeology, which of the following statements is/are correct?
-
-1. Hulas is a Harappan site in Saharanpur.
-2. Sanauli chariot burials are in Baghpat.
-3. Rakhigarhi is a Harappan site in Bijnor.
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Bijnor’s named IVC village is **Santhali**, not Rakhigarhi.
-
-</details>
-
-**Q32.** Consider the following pairs:
-
-1. Great Bath — Mohenjo-daro
-2. Ploughed field — Kalibangan
-3. Lion Capital — Sarnath
-
-Which of the pairs given above is/are correctly matched?
+**Q6.** With reference to ASI, which of the following statements is/are correct?
+
+1. ASI began in 1861.
+2. Alexander Cunningham was the first Director General.
+3. ASI sits under the Culture ministry.
 
 A. 1 and 2 only
 B. 2 and 3 only
@@ -1141,11 +662,512 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Ans: D.** All three statements are correct.
+
+**Logic:** Digging needs licence under AMASR 1958.
 
 </details>
 
----
+**Q7.** Match List-I with List-II and select the correct answer using the code given below the Lists.
+
+**List-I (Site)**
+A. 2 1 3 4
+B. 2 1 4 3
+C. 1 2 4 3
+D. 2 4 1 3
+
+**List-II**
+1. Haryana; largest in India
+2. Meerut UP; easternmost Indus
+3. Rajasthan; ploughed field
+4. Gujarat; dockyard
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4
+B. 2 1 4 3
+C. 1 2 4 3
+D. 2 4 1 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Alamgirpur–easternmost UP, Rakhigarhi–Haryana, Lothal–dock, Kalibangan–Rajasthan.
+
+**Logic:** Lab location does not move Rakhigarhi into UP.
+
+</details>
+
+**Q8.** With reference to excavation methods, which of the following statements is/are correct?
+
+1. Vertical excavation reads time sequence.
+2. Horizontal excavation reads one-period layout.
+3. Wheeler’s box-grid kept balks between squares.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three statements are correct.
+
+**Logic:** Vertical vs horizontal is a method trap pair.
+
+</details>
+
+**Q9.** Which of the following pairs is/are NOT correctly matched?
+
+1. Mandi / Hulas — UP
+2. Rakhigarhi — Uttar Pradesh
+3. Balu — Haryana
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only pair 2 is not correctly matched.
+
+**Logic:** Rakhigarhi is Haryana. Mandi/Hulas are UP.
+
+</details>
+
+**Q10.** Assertion (A): Sahni excavated Harappa and Banerji excavated Mohenjo-daro.
+Reason (R): Marshall announced the civilisation after the early 1920s excavations.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A).
+
+**A/R logic:** Announcement follows the Sahni–Banerji excavation sequence.
+
+</details>
+
+**Q11.** With reference to Gujarat Harappan cities, which of the following statements is/are correct?
+
+1. Lothal is the dockyard fact.
+2. Dholavira is known for reservoirs and the signboard fact.
+3. Both Lothal and Dholavira are Uttar Pradesh Indus cities.
+
+A. 1 and 3 only
+B. 1 and 2 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** Keep both in Gujarat, not UP.
+
+</details>
+
+**Q12.** Consider the following pairs:
+
+| Person | Tag |
+|--------|-----|
+| 1. V. S. Wakankar | Bhimbetka 1957 (MP) |
+| 2. S. R. Rao | Lothal |
+| 3. R. S. Bisht | Dholavira |
+| 4. B. B. Lal | Kalibangan–Hastinapur |
+
+Which of the pairs given above is/are correctly matched?
+
+A. 1, 2 and 3 only
+B. 1, 2 and 4 only
+C. 2, 3 and 4 only
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All four pairs are correct.
+
+**Logic:** Excavator spine is a chronology-and-match favourite.
+
+</details>
+
+**Q13.** Match List-I with List-II and select the correct answer using the code given below the Lists.
+
+**List-I**
+A. 4 2 1 3
+B. 2 4 3 1
+C. 2 4 1 3
+D. 2 1 4 3
+
+**List-II**
+1. Gujarat
+2. Haryana
+3. UP
+4. Jammu & Kashmir
+
+*Row order is not the answer code.*
+
+A. 4 2 1 3
+B. 2 4 3 1
+C. 2 4 1 3
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Balu–Haryana, Manda–J&K, Padri–Gujarat, Hulas–UP.
+
+**Logic:** Same match set as Topic 10 culture geography.
+
+</details>
+
+**Q14.** With reference to Sanauli, which of the following statements is/are correct?
+
+1. Sanauli is in Baghpat, UP.
+2. It is a late Harappan / OCP chariot site excavated around 2018.
+3. It is the easternmost Indus city.
+
+A. 1 and 3 only
+B. 1 and 2 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** Easternmost Indus is Alamgirpur.
+
+</details>
+
+**Q15.** Arrange the following from method idea to Indian institutional start:
+
+1. ASI founded with Cunningham as first DG
+2. Stratigraphy / superposition as dating logic
+3. Wheeler box-grid method reform in 1946
+
+Which order best fits concept → ASI start → later method reform?
+
+A. 2-1-3
+B. 1-2-3
+C. 2-3-1
+D. 3-2-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Stratigraphy concept → ASI 1861 → Wheeler 1946.
+
+**Logic:** Wheeler reforms method; he is not the IVC discoverer.
+
+</details>
+
+**Q16.** With reference to conservation approaches, which of the following statements is/are correct?
+
+1. In-situ conservation keeps remains on the mound.
+2. Ex-situ moves objects to a museum.
+3. Ex-situ means leaving every object untouched on the trench floor forever.
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** In-situ vs ex-situ is a management stem pair.
+
+</details>
+
+**Q17.** Which one of the following is NOT a UP Indus / related site?
+
+A. Alamgirpur
+B. Mandi
+C. Hulas
+D. Kalibangan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Kalibangan is in Rajasthan.
+
+**Logic:** Also not UP: Lothal, Dholavira, Rakhigarhi, Manda.
+
+</details>
+
+**Q18.** Assertion (A): Manda is the eastern boundary Indus site of India.
+Reason (R): Alamgirpur in Meerut belt is the easternmost Indus site.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** (A) is false, but (R) is true.
+
+**A/R logic:** Manda is a northern outpost in J&K. Eastern fact is Alamgirpur.
+
+</details>
+
+**Q19.** With reference to prehistoric sites, which of the following statements is/are correct?
+
+1. Bhimbetka is prehistoric rock shelter art in Madhya Pradesh.
+2. Belan valley, Sarai Nahar Rai and Mahadaha are prehistoric UP belt facts.
+3. Bhimbetka is a Mature Harappan dock city of Gujarat.
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Bhimbetka ≠ Harappa.
+
+</details>
+
+**Q20.** Consider the following pairs:
+
+| Site | Tag |
+|------|-----|
+| 1. Nevasa | Maharashtra prehistoric match |
+| 2. Isampur | Karnataka |
+| 3. Didwana | Rajasthan |
+| 4. Gudiyam | Tamil Nadu |
+
+Which of the pairs given above is/are correctly matched?
+
+A. 1, 2 and 3 only
+B. 1, 2 and 4 only
+C. 2, 3 and 4 only
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All four pairs are correct.
+
+**Logic:** Prehistoric match sets appear in older papers.
+
+</details>
+
+**Q21.** Match List-I with List-II and select the correct answer using the code given below the Lists.
+
+**List-I**
+A. Vertical dig
+B. Horizontal dig
+C. C-14
+D. Thermoluminescence
+
+**List-II**
+1. One-period layout
+2. Time sequence
+3. Fired clay / brick
+4. Organic carbon
+
+*Row order is not the answer code.*
+
+A. 2 1 4 3
+B. 2 1 3 4
+C. 1 2 4 3
+D. 2 4 1 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Vertical–time, horizontal–layout, C-14–organic, TL–fired clay.
+
+**Logic:** Bare stone seal is a false C-14 option.
+
+</details>
+
+**Q22.** With reference to early historic UP sites, which of the following statements is/are correct?
+
+1. Sarnath, Hastinapur, Kaushambi, Ahichhatra and Shravasti are early historic UP sites.
+2. BSIP Lucknow is named in aDNA work linked to Rakhigarhi skeletal study.
+3. Rakhigarhi bones being studied in Lucknow make Rakhigarhi a UP Indus city.
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Lab location does not move the site’s state.
+
+</details>
+
+**Q23.** Which of the following pairs is NOT correctly matched?
+
+A. Harappa — Pakistan Punjab
+B. Mohenjo-daro — Sindh
+C. Dholavira — Gujarat
+D. Alamgirpur — Haryana largest site
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Alamgirpur is Meerut UP easternmost. Rakhigarhi is Haryana largest.
+
+**Logic:** State split is a standing prelims trap.
+
+</details>
+
+**Q24.** With reference to boat and field evidence, which of the following statements is/are correct?
+
+1. Boat / dock evidence is linked to Mohenjo-daro and Lothal.
+2. Kalibangan holds famous ploughed-field evidence.
+3. Kalibangan is an eastern UP Indus capital.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Kalibangan is Rajasthan.
+
+</details>
+
+**Q25.** Assertion (A): Wheeler is remembered for scientific grid methods in 1946.
+Reason (R): Wheeler was the first person to note an Indus seal in 1853.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** (A) is true, but (R) is false.
+
+**A/R logic:** Cunningham notes the seal in 1853. Wheeler reforms method much later.
+
+</details>
+
+**Q26.** With reference to Santhali and UP Indus list teaching, which of the following statements is/are correct?
+
+1. Santhali (Bijnor) appears in the UP Indus site list teaching.
+2. Mandi and Hulas are UP.
+3. Manda (J&K) is the same site as Mandi (UP).
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Manda (J&K) and Mandi (UP) must not be collapsed.
+
+</details>
+
+**Q27.** Consider the following statements:
+
+1. Epigraphy reads inscriptions.
+2. Numismatics reads coins.
+3. Both are archaeological source-types in the teaching map.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three statements are correct.
+
+**Logic:** They are source-types, not separate ministries.
+
+</details>
+
+**Q28.** Which of the following is/are correctly matched?
+
+1. In-situ — conserve on the mound
+2. Ex-situ — shift to a museum
+3. Typology — layer age by superposition only
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Typology compares artefact styles. Stratigraphy uses superposition.
+
+</details>
+
+**Q29.** With reference to twin discovery cities, which of the following statements is/are correct?
+
+1. Harappa and Mohenjo-daro are the twin discovery cities of the 1920s.
+2. Later famous Indian sites fill Gujarat–Rajasthan–Haryana–UP map.
+3. Banerji excavated Harappa and Sahni excavated Mohenjo-daro.
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Sahni = Harappa. Banerji = Mohenjo-daro.
+
+</details>
+
+**Q30.** Which of the following pairs is NOT correctly matched?
+
+A. Stratigraphy — superposition
+B. Vertical excavation — time sequence
+C. Horizontal excavation — one-period layout
+D. C-14 — fired pottery dating identical to TL
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** C-14 is organic carbon. TL dates fired clay/brick.
+
+**Logic:** Do not merge the two dating tools.
+
+</details>
 
 ## Common Traps — Don't Fall For These
 

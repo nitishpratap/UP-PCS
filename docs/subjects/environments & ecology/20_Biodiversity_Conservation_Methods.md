@@ -521,486 +521,596 @@ D. Sacred grove
 
 ---
 
-## Practice Zone
+## Practice Zone — UPPCS Format Drill
 
-**Q1.** Which is an example of **in-situ** conservation?
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-A. Seed bank
+**Q1.** With reference to in-situ conservation, which of the following statements is/are correct?
 
-B. Botanical garden
+1. Protects biodiversity in the natural habitat.
+2. Preferred primary strategy.
+3. Zoo is the best example of in-situ.
 
-C. Biosphere reserve
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-D. Zoological park
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: B.** Only 1 and 2.
 
-**Ans: C**
-
-</details>
-
-**Q2.** Which is **NOT** in-situ conservation?
-
-A. National park
-
-B. Sacred grove
-
-C. Gene bank
-
-D. Community reserve
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
+**Logic:** Zoo is ex-situ.
 
 </details>
 
-**Q3.** Consider: (1) In-situ is the preferred primary strategy. (2) Zoos are in-situ conservation.
+**Q2.** Which of the following pairs is/are correctly matched?
 
-A. Only 1
+1. National Park — in-situ
+2. Sacred grove — in-situ
+3. Seed bank — in-situ
 
-B. Only 2
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
 
-C. Both
+<details>
+<summary>Show answer</summary>
 
-D. Neither
+**Ans: C.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q4.** NBPGR is located at:
-
-A. Kolkata
-
-B. New Delhi
-
-C. Karnal
-
-D. Lucknow
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Seed bank is ex-situ.
 
 </details>
 
-**Q5.** NBAGR (animal genetic resources) is at:
+**Q3.** Match List-I with List-II:
 
-A. New Delhi
+| List-I | List-II |
+|--------|--------|
+| A. Gene bank | 1. Seeds only |
+| B. Seed bank | 2. Broad genetic material |
+| C. Cryopreservation | 3. ~−196°C liquid nitrogen |
 
-B. Karnal
+Code:
 
-C. Howrah
+A. A-3, B-1, C-2
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-2, B-1, C-3
 
-D. Dehradun
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: D.** A-2, B-1, C-3.
 
-**Ans: B**
-
-</details>
-
-**Q6.** Which pair is correctly matched?
-
-A. NBPGR — Karnal — plants
-
-B. NBAGR — Delhi — animals
-
-C. Indian Botanic Garden — Howrah
-
-D. BSI — New Delhi — gene bank
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
+**Logic:** Gene broad; seed only; cryo LN2.
 
 </details>
 
-**Q7.** Orthodox seeds are suitable for seed banks because they:
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Cannot be dried
+Assertion (A): Orthodox seeds (wheat/rice) tolerate drying and cold storage around −18°C.
 
-B. Tolerate desiccation and cold storage
+Reason (R): Recalcitrant seeds (mango/coconut) cannot take simple dry seed-bank storage.
 
-C. Must stay in liquid water
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. Germinate only in zoos
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: A.** Both true; recalcitrant fact contrasts but does not explain orthodoxy’s tolerance mechanism as its cause.
 
-**Ans: B**
-
-</details>
-
-**Q8.** Recalcitrant seeds include:
-
-A. Wheat
-
-B. Rice
-
-C. Mango
-
-D. Chickpea
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
+**A/R logic:** Seed-type pair.
 
 </details>
 
-**Q9.** Svalbard Global Seed Vault is in:
+**Q5.** With reference to Indian flagships, which of the following statements is/are correct?
 
-A. India
+1. NBPGR — plant gene/seed flagship, New Delhi.
+2. NBAGR — animal gene bank, Karnal.
+3. NBPGR HQ is Kolkata BSI campus only.
 
-B. Norway
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. Switzerland
+<details>
+<summary>Show answer</summary>
 
-D. USA
+**Ans: A.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q10.** Cryopreservation in gene banks uses approximately:
-
-A. Room temperature
-
-B. -18°C only
-
-C. -196°C liquid nitrogen
-
-D. 100°C steam
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
+**Logic:** NBPGR Delhi — not Kolkata BSI.
 
 </details>
 
-**Q11.** Central Zoo Authority functions under:
+**Q6.** Arrange four-way pattern teaching:
 
-A. Ministry of Culture
+A. Zoo and seed bank are in-situ; NP is ex-situ
+B. NP and sacred grove in-situ; zoo, seed bank, botanic garden ex-situ
+C. All are ex-situ only
+D. All are in-situ only
 
-B. MoEFCC
+<details>
+<summary>Show answer</summary>
 
-C. Ministry of Agriculture
+**Ans: B.** NP/sacred grove in-situ; zoo/seed/botanic ex-situ.
 
-D. ICAR
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q12.** National Zoological Park (Delhi Zoo) was established in:
-
-A. 1787
-
-B. 1959
-
-C. 1978
-
-D. 1991
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Classic pattern.
 
 </details>
 
-**Q13.** Indian Botanic Garden was established in:
+**Q7.** Which of the following pairs is/are NOT correctly matched?
 
-A. 1760
+1. Indian Botanic Garden Howrah 1787 — BSI link
+2. Svalbard Global Seed Vault — Norway backup
+3. Svalbard — India’s NBPGR headquarters
 
-B. 1787
+A. 1 and 2 only
+B. 2 and 3 only
+C. 3 only
+D. 1, 2 and 3
 
-C. 1959
+<details>
+<summary>Show answer</summary>
 
-D. 1978
+**Ans: C.** Only pair 3 is not correctly matched.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q14.** Gene banks are an example of:
-
-A. In-situ conservation
-
-B. Ex-situ conservation
-
-C. Habitat fragmentation
-
-D. Pollution control
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Svalbard ≠ NBPGR.
 
 </details>
 
-**Q15.** Assertion (A): Seed banks are ex-situ conservation.
-Reason (R): Seeds are stored outside natural field or forest habitat.
+**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Both true; R explains A
+Assertion (A): CZA is the statutory zoo regulator under MoEFCC.
 
-B. Both true; R does not explain A
+Reason (R): Zoos are ex-situ conservation institutions.
 
-C. A true, R false
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. Both false
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: A.** Both true; ex-situ nature does not by itself create CZA’s statute.
 
-**Ans: A**
-
-</details>
-
-**Q16.** Which is ex-situ conservation?
-
-A. Biosphere reserve
-
-B. Ramsar site
-
-C. Zoological park
-
-D. Wildlife sanctuary
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
+**A/R logic:** Regulator vs method.
 
 </details>
 
-**Q17.** Match: Dudhwa NP — in-situ; Delhi Zoo — ex-situ; NBPGR — ex-situ; Sacred grove — in-situ. How many are correctly classified?
+**Q9.** With reference to Dudhwa vs Kukrail teaching, which of the following statements is/are correct?
 
-A. 1
+1. Dudhwa-style PAs are in-situ.
+2. Kukrail crocodile centre is ex-situ.
+3. Both are identical UNESCO Biosphere Reserves of UP.
 
-B. 2
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
-C. 3
+<details>
+<summary>Show answer</summary>
 
-D. 4
+**Ans: D.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q18.** BSI headquarters is in Kolkata. BSI primarily:
-
-A. Stores crop seeds at -18°C
-
-B. Surveys and documents Indian flora
-
-C. Regulates all zoos
-
-D. Runs NBAGR Karnal
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** UP has zero BRs; centres ≠ BR.
 
 </details>
 
-**Q19.** A species surviving only in zoos with no wild population is IUCN category:
+**Q10.** Match List-I with List-II:
 
-A. Least Concern
+| List-I | List-II |
+|--------|--------|
+| A. In-situ | 1. Captive breeding centre |
+| B. Ex-situ | 2. Wildlife Sanctuary |
+| C. Cryobank | 3. Liquid nitrogen storage |
 
-B. Vulnerable
+Code:
 
-C. Extinct in the Wild
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
 
-D. Data Deficient
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: A.** A-2, B-1, C-3.
 
-**Ans: C**
-
-</details>
-
-**Q20.** Reintroduction of captive-bred animals requires:
-
-A. Only more zoos
-
-B. Restored in-situ habitat plus ex-situ stock
-
-C. Seed banks only
-
-D. No habitat preparation
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Sanctuary in-situ; captive ex-situ; cryo LN2.
 
 </details>
 
-**Q21.** Kukrail Crocodile Centre (Lucknow) is:
+**Q11.** Arrange storage temperatures teaching:
 
-A. In-situ national park
+A. Cryo −18°C; orthodox −196°C
+B. Orthodox ~−18°C; cryo ~−196°C
+C. Both +25°C only
+D. Both 100°C
 
-B. Ex-situ captive breeding centre
+<details>
+<summary>Show answer</summary>
 
-C. Gene bank for plants
+**Ans: B.** Orthodox ~−18°C; cryo ~−196°C.
 
-D. Sacred grove
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q22.** Seed bank differs from gene bank because seed bank stores:
-
-A. Only seeds
-
-B. Only animal semen
-
-C. Whole ecosystems
-
-D. Only sacred groves
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Temperature locks.
 
 </details>
 
-**Q23.** Which statement is false?
+**Q12.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. In-situ protects whole ecosystems
+Assertion (A): Ex-situ is a backup strategy.
 
-B. Ex-situ is supplementary to in-situ
+Reason (R): In-situ conserves the whole ecosystem and natural processes better as primary strategy.
 
-C. Botanical gardens are in-situ
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. NBPGR is in New Delhi
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: D.** Both true and R explains why ex-situ is backup.
 
-**Ans: C**
-
-</details>
-
-**Q24.** National Gene Bank at NBPGR is mainly for:
-
-A. Zoo animal breeding
-
-B. Long-term base collection of plant germplasm
-
-C. Ramsar wetland listing
-
-D. Sacred grove notification
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**A/R logic:** Primary vs backup.
 
 </details>
 
-**Q25.** CZA was created under:
+**Q13.** Which of the following is/are ex-situ examples?
 
-A. BDA 2002
+1. Zoo
+2. Botanical garden
+3. Tissue culture
+4. National Park
 
-B. WPA amendment 1991
+A. 2, 3 and 4 only
+B. 1 and 4 only
+C. 1, 2 and 3 only
+D. 1, 2, 3 and 4
 
-C. CBD 1992
+<details>
+<summary>Show answer</summary>
 
-D. Forest Act 1927
+**Ans: C.** 1, 2 and 3 only.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q26.** Genetic bottleneck is mainly a risk in:
-
-A. Large in-situ biosphere reserves
-
-B. Small ex-situ captive populations
-
-C. Sacred groves
-
-D. Ramsar wetlands
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** NP is in-situ.
 
 </details>
 
-**Q27.** Lalbagh Botanical Garden is in:
+**Q14.** With reference to gene bank contents, which of the following statements is/are correct?
 
-A. Howrah
+1. May include seeds, DNA, tissue, pollen, sperm, embryos.
+2. Broader than seed bank.
+3. Gene bank stores only living tigers in a sanctuary.
 
-B. Bengaluru
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
-C. Lucknow
+<details>
+<summary>Show answer</summary>
 
-D. Delhi
+**Ans: D.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q28.** Which is in-situ?
-
-A. Tissue culture lab
-
-B. Community reserve
-
-C. Cryobank
-
-D. Captive vulture centre
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Not a sanctuary substitute definition.
 
 </details>
 
-**Q29.** NBPGR was established in:
+**Q15.** How many of the following are in-situ?
 
-A. 1978
+Wildlife Sanctuary, Biosphere Reserve, Conservation Reserve, sacred grove, zoo
 
-B. 1984
+A. Only four
+B. Only three
+C. Only two
+D. All five
 
-C. 1991
+<details>
+<summary>Show answer</summary>
 
-D. 2002
+**Ans: A.** Only four.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Zoo out.
 
 </details>
 
-**Q30.** NBAGR was established in:
+**Q16.** Which of the following pairs is/are correctly matched?
 
-A. 1978
+1. NBPGR — plants Delhi
+2. NBAGR — animals Karnal
+3. BSI Kolkata — national plant gene bank identical to NBPGR
 
-B. 1984
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. 1996
+<details>
+<summary>Show answer</summary>
 
-D. 2008
+**Ans: B.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
+**Logic:** BSI surveys — not NBPGR.
 
-**Ans: B**
+</details>
+
+**Q17.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Recalcitrant seeds cannot take simple dry cold seed-bank storage.
+
+Reason (R): Mango and coconut are recalcitrant examples.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R exemplifies A.
+
+**A/R logic:** Examples support the rule.
+
+</details>
+
+**Q18.** With reference to National Zoological Park teaching neighbourhood, which of the following statements is/are correct?
+
+1. Zoos are ex-situ.
+2. CZA regulates zoos.
+3. Every zoo is a Tiger Reserve core under Sec. 38V.
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Zoo ≠ TR core.
+
+</details>
+
+**Q19.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. Howrah Botanic Garden | 1. 1976/78 line Delhi plants |
+| B. NBPGR | 2. 1787 |
+| C. NBAGR | 3. 1984 Karnal |
+
+Code:
+
+A. A-3, B-1, C-2
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-2, B-1, C-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** A-2, B-1, C-3.
+
+**Logic:** 1787 / NBPGR Delhi / NBAGR Karnal.
+
+</details>
+
+**Q20.** Arrange preference teaching:
+
+A. In-situ primary; ex-situ backup
+B. Ex-situ primary; in-situ never used
+C. Only cryobanks legally allowed
+D. Only match-list codes without habitats
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** In-situ primary; ex-situ backup.
+
+**Logic:** Strategy hierarchy.
+
+</details>
+
+**Q21.** With reference to Ramsar as conservation method neighbourhood, which of the following statements is/are correct?
+
+1. Ramsar wetlands can be in-situ conservation landscapes.
+2. Ramsar is a WPA Schedule VI plant list.
+3. Wise Use allows sustainable human use teaching.
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 3.
+
+**Logic:** Not Schedule VI.
+
+</details>
+
+**Q22.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Tissue culture is an ex-situ tool.
+
+Reason (R): It conserves material outside the natural habitat.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R defines ex-situ.
+
+**A/R logic:** Outside habitat = ex-situ.
+
+</details>
+
+**Q23.** Which of the following statements about sacred groves is/are correct?
+
+1. In-situ community/traditional conservation.
+2. Natural habitat protection pattern.
+3. Identical to Svalbard vault.
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Not Svalbard.
+
+</details>
+
+**Q24.** How many of the following are ex-situ?
+
+Zoo, botanic garden, seed bank, gene bank, cryobank
+
+A. Only two
+B. Only three
+C. Only four
+D. All five
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All five.
+
+**Logic:** Ex-situ set.
+
+</details>
+
+**Q25.** With reference to pollen/sperm/embryos in banks, which of the following statements is/are correct?
+
+1. Can be part of gene-bank holdings.
+2. Broader than “seeds only.”
+3. Prove the site is a National Park automatically.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Bank ≠ NP.
+
+</details>
+
+**Q26.** Which of the following pairs is/are correctly matched?
+
+1. Captive breeding — ex-situ
+2. Community Reserve — in-situ WPA path
+3. Aquarium gene vault — always in-situ forest
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Aquarium-style holding is ex-situ.
+
+</details>
+
+**Q27.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): BSI surveys plants; it is not the national gene bank.
+
+Reason (R): NBPGR is the plant gene-bank flagship in Delhi.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R separates survey vs gene bank.
+
+**A/R logic:** BSI ≠ NBPGR.
+
+</details>
+
+**Q28.** Arrange NBPGR vs NBAGR:
+
+A. Both animals in Delhi
+B. Both plants in Karnal
+C. Plants Delhi (NBPGR); animals Karnal (NBAGR)
+D. Both in Nairobi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** NBPGR Delhi plants; NBAGR Karnal animals.
+
+**Logic:** Do not swap.
+
+</details>
+
+**Q29.** With reference to Conservation/Community Reserve, which of the following statements is/are correct?
+
+1. They are in-situ WPA categories.
+2. They differ from ex-situ zoos.
+3. They replace cryopreservation entirely.
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Do not replace cryo tools.
+
+</details>
+
+**Q30.** Which one of the following best states why in-situ is preferred?
+
+A. Conserves species with natural ecosystem processes
+B. Because zoos are illegal everywhere
+C. Because seed banks are banned
+D. Because UNEP forbids ex-situ
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Whole ecosystem + natural processes.
+
+**Logic:** Primary strategy rationale.
 
 </details>
 

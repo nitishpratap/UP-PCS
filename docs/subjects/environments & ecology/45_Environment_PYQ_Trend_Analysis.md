@@ -435,3 +435,591 @@ After every UPPCS mock, score yourself on these trend dimensions:
 
 ---
 
+## Practice Zone — UPPCS Format Drill
+
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
+
+**Q1.** With reference to recent UPPCS environment weight, which of the following statements is/are correct?
+
+1. Roughly 15–20 tagged marks most years.
+2. Planning for only 8–10 is outdated.
+3. Tagged volume fell to zero after 2018.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Volume rose — not to zero.
+
+</details>
+
+**Q2.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. 2018–20 avg tagged | 1. ~17.7 |
+| B. 2023–25 avg tagged | 2. ~12 |
+| C. 2023 peak | 3. 25 questions |
+
+Code:
+
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A-2, B-1, C-3.
+
+**Logic:** Volume ladder.
+
+</details>
+
+**Q3.** Which of the following pairs is/are correctly matched?
+
+1. Hottest cluster — SDGs / sustainable development
+2. Then pollution; then ecology/ecosystem
+3. Hottest cluster — only Van Mahotsav dates
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** SDGs lead heat map.
+
+</details>
+
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): 2025 environment paper shifted toward multi-statement, A/R, Match, and NOT-matched.
+
+Reason (R): About two-thirds multi-format teaching — practice must include two-statement and A/R drills.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R explains the practice implication.
+
+**A/R logic:** Format shift → drill mix.
+
+</details>
+
+**Q5.** With reference to scheme year traps, which of the following statements is/are correct?
+
+1. LiFE idea COP26 2021 / launch June 2022 — not COP25.
+2. MISHTI = 2023 Budget — not 2019.
+3. DPAP = 1973; India net zero = 2070; GEF = 1991.
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** All three.
+
+**Logic:** Year trap set.
+
+</details>
+
+**Q6.** Arrange Montreal vs Kyoto in trend checklist:
+
+A. Montreal = climate; Kyoto = ozone
+B. Montreal = ozone; Kyoto/Paris = climate
+C. Both identical Ramsar
+D. Both identical noise dB
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Ozone vs climate.
+
+**Logic:** Recurring trap.
+
+</details>
+
+**Q7.** Which of the following pairs is/are NOT correctly matched?
+
+1. Rudrasagar — Tripura
+2. Sultanpur — Haryana
+3. Nokrek — Manipur
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only pair 3 is not correctly matched.
+
+**Logic:** Nokrek = Meghalaya — not Manipur.
+
+</details>
+
+**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): True environment ROI is higher than tagged count.
+
+Reason (R): Reports and protected-area facts leak into other GS subjects.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R explains A.
+
+**A/R logic:** Cross-subject leakage.
+
+</details>
+
+**Q9.** With reference to 2020/2024 dips, which of the following statements is/are correct?
+
+1. Tagged count dipped.
+2. Cross-subject environment leakage in Economy and Geography still hides weight.
+3. Dips mean environment can be skipped entirely.
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Do not skip.
+
+</details>
+
+**Q10.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. Emissions Gap | 1. 2070 |
+| B. India net zero | 2. UNEP |
+| C. DPAP | 3. 1973 |
+
+Code:
+
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** A-2, B-1, C-3.
+
+**Logic:** Report / NZ / DPAP.
+
+</details>
+
+**Q11.** Arrange study ROI priority teaching:
+
+A. Only Tier-4 rare topics first
+B. SDGs + UP protected-area traps near top; then current issues, ecology, climate/pollution, treaties/orgs
+C. Only Earth Hour
+D. Only Ringelmann
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** ROI order from heat map.
+
+**Logic:** Priority spine.
+
+</details>
+
+**Q12.** With reference to rising 2023–25 lines, which of the following statements is/are correct?
+
+1. SDGs, wildlife, biodiversity, biosphere, forests.
+2. Current schemes such as LiFE and MISHTI.
+3. Only tubeless-tyre CFC stems.
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Rising cluster.
+
+</details>
+
+**Q13.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Many “UP BR” claims are false.
+
+Reason (R): Uttar Pradesh has zero Biosphere Reserves in standard teaching.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R explains A.
+
+**A/R logic:** UP BR trap.
+
+</details>
+
+**Q14.** Which one of the following correctly states 2025 tagged count neighbourhood?
+
+A. Only 2
+B. Zero
+C. Exactly 8 always
+D. Stayed strong at 19
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** 19 in 2025.
+
+**Logic:** Strong year.
+
+</details>
+
+**Q15.** How many of the following UP negative geography facts are correct?
+
+Rudrasagar≠UP; Sultanpur≠UP; Nokrek≠Manipur
+
+A. All three
+B. Only two
+C. Only one
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** All three.
+
+**Logic:** Negative geography set.
+
+</details>
+
+**Q16.** With reference to format formula after 2025, which of the following statements is/are correct?
+
+1. Prepare heavily for multi-statement and Match/NOT-matched.
+2. Smaller share of pure direct MCQ recall.
+3. Only one-line HQ recall is enough.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Multi-format heavy.
+
+</details>
+
+**Q17.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. LiFE false date | 1. 2019 |
+| B. MISHTI false date | 2. COP25 Madrid |
+| C. GEF year | 3. 1991 |
+
+Code:
+
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A-2, B-1, C-3.
+
+**Logic:** False dates + GEF.
+
+</details>
+
+**Q18.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): 2025 blueprint clusters cover SDGs, current schemes, UP geography traps, ecology indicators, and international reports/funds.
+
+Reason (R): Practice should mirror those clusters — not only isolated date recall.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R explains how to train.
+
+**A/R logic:** Blueprint → practice design.
+
+</details>
+
+**Q19.** Which of the following pairs is/are correctly matched?
+
+1. Climate, wildlife, biodiversity, BRs, forests/ISFR, Ramsar–UP traps stay hot
+2. Volume formula — budget ~15–20 tagged plus cross-subject hits
+3. Planning only 8–10 tagged is still optimal
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** 8–10 planning outdated.
+
+</details>
+
+**Q20.** Arrange Emissions Gap in trend sheet:
+
+A. UNEP — cross-subject economy–environment fact
+B. IUCN product
+C. Only CGWB
+D. Only Form V
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** UNEP Gap Report.
+
+**Logic:** Cross-subject.
+
+</details>
+
+**Q21.** With reference to mock self-audit ideas, which of the following statements is/are correct?
+
+1. Check scheme year traps.
+2. Check Montreal vs Kyoto.
+3. Check UP negative geography.
+4. Ignore 2-statement format entirely.
+
+A. 1, 2 and 4 only
+B. 1, 2 and 3 only
+C. 2, 3 and 4 only
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** 1, 2 and 3 only.
+
+**Logic:** Must handle 2-statement.
+
+</details>
+
+**Q22.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Tagged volume rose from ~12 (2018–20) to ~17.7 (2023–25).
+
+Reason (R): 2023 was the peak tagged year at 25.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; 2023 peak does not itself compute the 2018–20 average.
+
+**A/R logic:** Average rise vs peak year.
+
+</details>
+
+**Q23.** How many of the following treaty splits are trend-critical?
+
+Montreal≠climate; Kyoto/Paris=climate; GEF=1991
+
+A. Only one
+B. Only two
+C. All three
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All three.
+
+**Logic:** Checklist facts.
+
+</details>
+
+**Q24.** Which one of the following correctly states why Practice Zones were reframed?
+
+A. Only to delete A/R
+B. Only to add more Ans A keys
+C. Only to remove Match List
+D. Match 2024–25 multi-format paper — not only thin one-liner recall
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Multi-format standard.
+
+**Logic:** Meta purpose of this rewrite.
+
+</details>
+
+**Q25.** With reference to hot vs cool, which of the following statements is/are correct?
+
+1. SDGs heating.
+2. Current schemes heating.
+3. Ignoring UP PA traps is safe because tagged count dipped in some years.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** UP traps stay high-ROI.
+
+</details>
+
+**Q26.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. 2025 tagged | 1. 25 |
+| B. 2023 peak | 2. 19 |
+| C. Outdated plan | 3. Only 8–10 |
+
+Code:
+
+A. A-1, B-2, C-3
+B. A-2, B-1, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** A-2, B-1, C-3.
+
+**Logic:** 19 / 25 / outdated 8–10.
+
+</details>
+
+**Q27.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Report ↔ organisation matching remains high-yield.
+
+Reason (R): Emissions Gap Report = UNEP is a recurring cross-subject fact.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; one example does not exhaust all report matches, but both stand.
+
+**A/R logic:** Reports over pure theory trend.
+
+</details>
+
+**Q28.** Arrange next-attempt volume budget:
+
+A. Only 5 tagged
+B. Only 100 tagged guaranteed
+C. About 15–20 tagged plus a few cross-subject hits
+D. Zero environment
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** 15–20 + leakage.
+
+**Logic:** Volume formula.
+
+</details>
+
+**Q29.** With reference to ecology indicators in 2025 blueprint, which of the following statements is/are correct?
+
+1. Sit among blueprint clusters with SDGs and UP traps.
+2. International reports/funds also appear.
+3. Blueprint means only Van Mahotsav July recall.
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Broader than one festival.
+
+</details>
+
+**Q30.** Which one of the following best states the post-2025 practice rule from this sheet?
+
+A. Heavy multi-statement / Match / NOT-matched / A/R — not only one-line recall
+B. Only HQ city lists forever
+C. Only single-date MCQs
+D. Skip SDGs entirely
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Format formula.
+
+**Logic:** Closes the Environment Practice rewrite logic.
+
+</details>

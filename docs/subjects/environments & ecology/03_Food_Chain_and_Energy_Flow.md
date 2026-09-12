@@ -638,9 +638,9 @@ D. 1 and 2 only
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Food chains are not within a single species.
-
 **Ans: D.**
+
+**Logic:** Food chains are not within a single species.
 
 </details>
 
@@ -658,9 +658,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Grazing from living plants; detritus from dead matter. Pair 3 correct.
-
 **Ans: C.**
+
+**Logic:** Grazing from living plants; detritus from dead matter. Pair 3 correct.
 
 </details>
 
@@ -678,9 +678,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Sun is energy source — not a trophic level.
-
 **Ans: B.**
+
+**Logic:** Sun is energy source — not a trophic level.
 
 </details>
 
@@ -698,9 +698,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** A true; energy is unidirectional — R false.
-
 **Ans: C.**
+
+**A/R logic:** A true; energy is unidirectional — R false.
 
 </details>
 
@@ -722,9 +722,9 @@ D. A-3, B-1, C-2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Energy always upright; biomass may invert at sea/pond; numbers with parasites.
-
 **Ans: C.**
+
+**Logic:** Energy always upright; biomass may invert at sea/pond; numbers with parasites.
 
 </details>
 
@@ -742,9 +742,9 @@ D. 1 and 2 only
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Viruses are not principal decomposers.
-
 **Ans: D.**
+
+**Logic:** Viruses are not principal decomposers.
 
 </details>
 
@@ -760,9 +760,9 @@ D. 2-4-3-1
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Grass → Grasshopper → Frog → Snake.
-
 **Ans: A.**
+
+**Logic:** Grass → Grasshopper → Frog → Snake.
 
 </details>
 
@@ -780,9 +780,9 @@ D. 1 and 2 only
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Energy decreases upward — statement 3 is false.
-
 **Ans: D.**
+
+**Logic:** Energy decreases upward — statement 3 is false.
 
 </details>
 
@@ -800,9 +800,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** Both true and R explains why chains stay short.
-
 **Ans: D.**
+
+**A/R logic:** Both true and R explains why chains stay short.
 
 </details>
 
@@ -820,9 +820,9 @@ D. 1 and 2 only
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Leaf litter path is detritus — not grazing.
-
 **Ans: D.**
+
+**Logic:** Leaf litter path is detritus — not grazing.
 
 </details>
 
@@ -844,9 +844,9 @@ D. A-3, B-2, C-1
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Diatoms/phytoplankton → deer → tiger associations.
-
 **Ans: B.**
+
+**Logic:** Diatoms/phytoplankton → deer → tiger associations.
 
 </details>
 
@@ -864,9 +864,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Energy pyramid never inverts.
-
 **Ans: B.**
+
+**Logic:** Energy pyramid never inverts.
 
 </details>
 
@@ -884,9 +884,9 @@ D. 1 and 2 only
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Statement 3 is false.
-
 **Ans: D.**
+
+**Logic:** Statement 3 is false.
 
 </details>
 
@@ -900,9 +900,9 @@ D. Energy doubles at each trophic level
 <details>
 <summary>Show answer</summary>
 
-**Logic:** ~10% transfer; ~90% lost.
-
 **Ans: C.**
+
+**Logic:** ~10% transfer; ~90% lost.
 
 </details>
 
@@ -920,9 +920,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Statement 3 is an overclaim / false trap.
-
 **Ans: C.**
+
+**Logic:** Statement 3 is an overclaim / false trap.
 
 </details>
 
@@ -936,9 +936,9 @@ D. Producers → Sun → consumers → heat
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Sun → producers → consumers → heat.
-
 **Ans: B.**
+
+**Logic:** Sun → producers → consumers → heat.
 
 </details>
 
@@ -956,9 +956,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** A true; energy still one-way — R false.
-
 **Ans: C.**
+
+**A/R logic:** A true; energy still one-way — R false.
 
 </details>
 
@@ -976,9 +976,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Tigers are apex — not primary consumers.
-
 **Ans: A.**
+
+**Logic:** Tigers are apex — not primary consumers.
 
 </details>
 
@@ -996,9 +996,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Statement 2 is false.
-
 **Ans: B.**
+
+**Logic:** Statement 2 is false.
 
 </details>
 
@@ -1020,9 +1020,9 @@ D. A-3, B-1, C-2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Grazing = living plants; detritus = dead matter; driver = solar.
-
 **Ans: B.**
+
+**Logic:** Grazing = living plants; detritus = dead matter; driver = solar.
 
 </details>
 
@@ -1040,9 +1040,9 @@ D. None
 <details>
 <summary>Show answer</summary>
 
-**Logic:** All three are standard locks.
-
 **Ans: C.**
+
+**Logic:** All three are standard locks.
 
 </details>
 
@@ -1056,9 +1056,9 @@ D. Ants replace phytoplankton as marine producers
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Teaching allows ants as primary consumers / broader roles.
-
 **Ans: B.**
+
+**Logic:** Teaching allows ants as primary consumers / broader roles.
 
 </details>
 
@@ -1076,9 +1076,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Dolphin is freshwater — not marine open-ocean.
-
 **Ans: A.**
+
+**Logic:** Dolphin is freshwater — not marine open-ocean.
 
 </details>
 
@@ -1096,9 +1096,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 10% is approximate — not an exact universal constant.
-
 **Ans: A.**
+
+**Logic:** 10% is approximate — not an exact universal constant.
 
 </details>
 
@@ -1116,9 +1116,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** Both true; R explains the aquatic invert case.
-
 **Ans: D.**
+
+**A/R logic:** Both true; R explains the aquatic invert case.
 
 </details>
 
@@ -1136,9 +1136,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Fox/tiger are not primary consumers; deer is.
-
 **Ans: A.**
+
+**Logic:** Fox/tiger are not primary consumers; deer is.
 
 </details>
 
@@ -1152,9 +1152,9 @@ D. Producer → tertiary → herbivore → secondary
 <details>
 <summary>Show answer</summary>
 
-**Logic:** T1 producer → T2 herbivore → T3 → T4.
-
 **Ans: B.**
+
+**Logic:** T1 producer → T2 herbivore → T3 → T4.
 
 </details>
 
@@ -1172,9 +1172,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Energy decreases toward apex — statement 2 false.
-
 **Ans: B.**
+
+**Logic:** Energy decreases toward apex — statement 2 false.
 
 </details>
 
@@ -1188,9 +1188,9 @@ D. Herrings → Diatoms → Crustaceans
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Diatoms → Crustaceans → Herrings.
-
 **Ans: B.**
+
+**Logic:** Diatoms → Crustaceans → Herrings.
 
 </details>
 
@@ -1208,9 +1208,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Numbers can invert with parasites — statement 3 false.
-
 **Ans: A.**
+
+**Logic:** Numbers can invert with parasites — statement 3 false.
 
 </details>
 

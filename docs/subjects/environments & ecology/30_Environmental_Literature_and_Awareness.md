@@ -490,306 +490,591 @@ D. 22 April
 
 ---
 
-## Practice Zone
+## Practice Zone — UPPCS Format Drill
 
-**Q1.** *Silent Spring* author:
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-Options: A. Rachel Carson B. Garrett Hardin C. Brundtland D. Club of Rome
+**Q1.** With reference to the four pillars, which of the following statements is/are correct?
 
-<details><summary>Show answer</summary>
+1. Literature, education, awareness, communication.
+2. Keep pillar → flagship distinct.
+3. All four are identical to IUCN categories.
 
-**Ans: A**
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q2.** Tragedy of the Commons author:
+**Ans: B.** Only 1 and 2.
 
-Options: A. Garrett Hardin B. Rachel Carson C. Tagore D. Leopold only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q3.** *Our Common Future* is also called:
-
-Options: A. Brundtland Report B. Limits to Growth C. Silent Spring D. Hind Swaraj
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Not IUCN.
 
 </details>
 
-**Q4.** Limits to Growth (1972) is by:
+**Q2.** Match List-I with List-II:
 
-Options: A. Club of Rome B. Brundtland Commission C. Rachel Carson D. Hardin alone
+| List-I | List-II |
+|--------|--------|
+| A. Silent Spring | 1. Garrett Hardin 1968 |
+| B. Tragedy of the Commons | 2. Rachel Carson 1962 |
+| C. Limits to Growth | 3. Club of Rome 1972 |
 
-<details><summary>Show answer</summary>
+Code:
 
-**Ans: A**
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q5.** Tbilisi Declaration relates to:
+**Ans: C.** A-2, B-1, C-3.
 
-Options: A. Environmental Education B. Ozone treaty C. Wildlife trade D. Carbon trading
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q6.** ECO Club scheme is under:
-
-Options: A. MoEFCC (NGC) B. RBI C. CZA only D. WTO
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Carson/Hardin/Club of Rome.
 
 </details>
 
-**Q7.** Art 51A(g) is a:
+**Q3.** Which of the following pairs is/are correctly matched?
 
-Options: A. Fundamental Duty to protect environment B. Fundamental Right to property only C. DPSP on industries only D. Schedule on languages
+1. Our Common Future — Brundtland 1987
+2. Limits to Growth — Club of Rome 1972
+3. Brundtland — identical to Limits to Growth
 
-<details><summary>Show answer</summary>
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: D.** Only 1 and 2.
 
-**Q8.** LiFE launched in:
-
-Options: A. June 2022 B. June 2019 C. 1730 D. 1962
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q9.** Van Mahotsav month:
-
-Options: A. July B. December C. January only D. March only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Different books/years.
 
 </details>
 
-**Q10.** Down To Earth is associated with:
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Options: A. CSE B. FSI only C. WTO D. IMF
+Assertion (A): Silent Spring exposed pesticide/DDT harms.
 
-<details><summary>Show answer</summary>
+Reason (R): It is Hardin’s commons essay.
 
-**Ans: A**
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q11.** Agenda 21 primarily relates to:
+**Ans: C.** A true, R false.
 
-Options: A. Sustainable Development B. Only ozone hole C. Only CITES D. Only Ramsar listing
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q12.** Brundtland Report year:
-
-Options: A. 1987 B. 1962 C. 1972 D. 1977
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**A/R logic:** Carson ≠ Hardin.
 
 </details>
 
-**Q13.** Silent Spring year:
+**Q5.** With reference to EE landmarks, which of the following statements is/are correct?
 
-Options: A. 1962 B. 1987 C. 1977 D. 2011
+1. Tbilisi 1977.
+2. MoEFCC NGC/ECO Clubs.
+3. GSDP 2017 and NEP 2020 ESD language.
 
-<details><summary>Show answer</summary>
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: A.** All three.
 
-**Q14.** GSDP launched in:
-
-Options: A. 2017 B. 1962 C. 1730 D. 1485
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q15.** Consider: (1) Brundtland popularised SD. (2) Brundtland = Limits to Growth.
-
-Options: A. Only 1 B. Only 2 C. Both D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** EE spine.
 
 </details>
 
-**Q16.** LiFE idea was floated at:
+**Q6.** Arrange LiFE years:
 
-Options: A. COP26 2021 B. COP-25 Madrid C. Montreal 1987 D. Ramsar 1971
+A. Idea COP25; launch 2019
+B. Idea COP26 2021; launch June 2022
+C. Both 1962
+D. Both 1977 Tbilisi
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** 2021 idea → 2022 launch.
 
-</details>
-
-**Q17.** World Environment Day:
-
-Options: A. 5 June B. 2 February C. 16 September D. 22 March
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Not COP25.
 
 </details>
 
-**Q18.** Earth Day:
+**Q7.** Which of the following pairs is/are NOT correctly matched?
 
-Options: A. 22 April B. 5 June C. 2 February D. 16 September
+1. Article 51A(g) — citizen duty to protect environment
+2. Van Mahotsav — July tree planting
+3. NGC/ECO Clubs — Bharat Nirman infrastructure scheme
 
-<details><summary>Show answer</summary>
+A. 1 and 2 only
+B. 2 and 3 only
+C. 3 only
+D. 1, 2 and 3
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: C.** Only pair 3 is not correctly matched.
 
-**Q19.** Hind Swaraj author:
-
-Options: A. Gandhi B. Carson C. Hardin D. Club of Rome
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q20.** CEE (Paryavaran Mitra partner) is based in:
-
-Options: A. Ahmedabad B. Only Dehradun FSI C. Only Chennai NBA D. Only Rome FAO
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** ECO Clubs ≠ Bharat Nirman.
 
 </details>
 
-**Q21.** IEC in schemes means:
+**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Options: A. Information, Education, Communication B. Only Industrial Emission Control C. Only International Energy Council D. Only Indian Elephant Census
+Assertion (A): Brundtland popularised sustainable development definition neighbourhood.
 
-<details><summary>Show answer</summary>
+Reason (R): Limits to Growth is the same Brundtland report.
 
-**Ans: A**
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q22.** Which is formal EE tool?
+**Ans: C.** A true, R false.
 
-Options: A. School ECO Club / curriculum B. Only Van Mahotsav rally C. Only newspaper ad D. Only COP speech
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q23.** Which is primarily an awareness campaign tool?
-
-Options: A. LiFE Mission / NEAC B. Only ISFR mapping method C. Only BEE PAT formula D. Only Kyoto CDM CER unit
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**A/R logic:** Different decades/authors.
 
 </details>
 
-**Q24.** Population Bomb author:
+**Q9.** With reference to communication pillar, which of the following statements is/are correct?
 
-Options: A. Paul Ehrlich B. Rachel Carson C. Hardin only D. Brundtland
+1. CSE’s Down To Earth.
+2. Gobar Times / IEC in schemes.
+3. KSSP also sits in communication/awareness neighbourhood teaching.
 
-<details><summary>Show answer</summary>
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: D.** All three.
 
-**Q25.** Land Ethic is associated with:
-
-Options: A. Aldo Leopold B. Club of Rome C. Hardin only D. Carson pesticides only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q26.** Sustainable Development discussion (1987 UN report) refers to:
-
-Options: A. Our Common Future B. Silent Spring C. Limits to Growth title alone D. Hind Swaraj only
-
-<details><summary>Show answer</summary>
-
-**Ans: A** — UPPCS 2020 pattern.
+**Logic:** Media/IEC set.
 
 </details>
 
-**Q27.** Art 48A relates to:
+**Q10.** Match List-I with List-II:
 
-Options: A. State duty to protect environment B. Only Fundamental Rights to speech C. Only emergency provisions D. Only Schedule 7 lists
+| List-I | List-II |
+|--------|--------|
+| A. Literature | 1. 51A(g), Van Mahotsav, LiFE |
+| B. Education | 2. Carson, Hardin, Brundtland |
+| C. Awareness | 3. Tbilisi, ECO Clubs |
 
-<details><summary>Show answer</summary>
+Code:
 
-**Ans: A**
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q28.** Assertion (A): Silent Spring triggered modern env movement.
-Reason (R): It was written by Garrett Hardin in 1968.
+**Ans: A.** A-2, B-3, C-1.
 
-Options: A. Both true; R explains A B. Both true; R does not explain A C. A true, R false D. Both false
-
-<details><summary>Show answer</summary>
-
-**Ans: C** — Carson 1962; Hardin wrote Tragedy of Commons.
-
-</details>
-
-**Q29.** Gobar Times is:
-
-Options: A. Children's env magazine (CSE) B. Forest cover survey C. Ozone protocol D. Carbon market
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Pillar map.
 
 </details>
 
-**Q30.** Correct match:
+**Q11.** Arrange year ladder Carson → Limits → Brundtland:
 
-Options: A. Brundtland — Our Common Future B. Carson — Limits to Growth C. Hardin — Silent Spring D. Club of Rome — Hind Swaraj
+A. 1987 → 1972 → 1962
+B. 1962 → 1972 → 1987
+C. All 2022
+D. All 1977
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** 1962 / 1972 / 1987.
+
+**Logic:** Three decades.
+
+</details>
+
+**Q12.** With reference to Hardin, which of the following statements is/are correct?
+
+1. Tragedy of the Commons 1968.
+2. About overuse of shared resources.
+3. Identical to Carson’s pesticide narrative.
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Commons ≠ pesticides.
+
+</details>
+
+**Q13.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): NEP 2020 supports ESD language.
+
+Reason (R): NEP 2020 replaces Tbilisi as the classic EE conference fact.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true, R false.
+
+**A/R logic:** Tbilisi remains classic EE conference.
+
+</details>
+
+**Q14.** Which one of the following correctly states Agenda 21?
+
+A. Only Van Mahotsav July
+B. Only Carson 1962 book
+C. Only Hardin essay
+D. Rio sustainable-development action plan — not “only EE”
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Rio SD action plan.
+
+**Logic:** Not EE-only.
+
+</details>
+
+**Q15.** How many of the following UP colour locks are correct?
+
+NEAC district campaigns; Van Mahotsav in schools; NCAP city awareness (Kanpur); ECO Clubs
+
+A. All four
+B. Only two
+C. Only three
+D. Only one
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** All four.
+
+**Logic:** UP awareness colour.
+
+</details>
+
+**Q16.** With reference to LiFE, which of the following statements is/are correct?
+
+1. MoEFCC behaviour-change / lifestyle mission.
+2. Not a COP-25 product.
+3. Identical to Brundtland Report 1987.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** LiFE ≠ Brundtland.
+
+</details>
+
+**Q17.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. Tbilisi | 1. June 2022 launch |
+| B. LiFE | 2. 1977 EE conference |
+| C. GSDP | 3. 2017 |
+
+Code:
+
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A-2, B-1, C-3.
+
+**Logic:** 1977 / 2022 / 2017.
+
+</details>
+
+**Q18.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Literature shapes thought; education is curriculum/clubs; awareness is campaigns/duties; communication is media/IEC.
+
+Reason (R): The four pillars should not be collapsed into one label.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R explains why the map matters.
+
+**A/R logic:** Pillar separation.
+
+</details>
+
+**Q19.** Which of the following pairs is/are correctly matched?
+
+1. Down To Earth — CSE journalism
+2. Van Mahotsav — July greening festival
+3. Silent Spring — 1987 Brundtland
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Silent Spring = 1962 Carson.
+
+</details>
+
+**Q20.** Arrange Article 51A(g) role:
+
+A. Constitutional citizen duty to protect environment
+B. Only Union List entry on mines
+C. Only Finance Commission grant
+D. Only ISFR publisher
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Citizen duty.
+
+**Logic:** Awareness/duty fact.
+
+</details>
+
+**Q21.** With reference to A/R traps on this sheet, which of the following statements is/are correct?
+
+1. Brundtland ≠ Limits to Growth.
+2. Carson ≠ Hardin.
+3. Both pairs are interchangeable always.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Classic separations.
+
+</details>
+
+**Q22.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): LiFE idea pitch is Glasgow COP26.
+
+Reason (R): LiFE launch is June 2022.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; launch year does not explain the COP26 pitch itself.
+
+**A/R logic:** Pitch vs launch.
+
+</details>
+
+**Q23.** How many of the following year locks are correct?
+
+Silent Spring 1962; Commons 1968; Limits 1972; Brundtland 1987
+
+A. Only one
+B. Only two
+C. All four
+D. Only three
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All four.
+
+**Logic:** Literature years.
+
+</details>
+
+**Q24.** Which one of the following correctly states NGC/ECO Clubs?
+
+A. Hardin 1968 essay only
+B. Bharat Nirman roads only
+C. Club of Rome 1972 only
+D. MoEFCC school eco-action programmes
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** School eco-action.
+
+**Logic:** Education pillar.
+
+</details>
+
+**Q25.** With reference to pillars vs books, which of the following statements is/are correct?
+
+1. Match pillar → flagship before author names when useful.
+2. Carson/Hardin/Brundtland for literature.
+3. Tbilisi/ECO Club for education.
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** All three.
+
+**Logic:** Match method.
+
+</details>
+
+**Q26.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. Our Common Future | 1. 1962 |
+| B. Silent Spring | 2. 1987 |
+| C. Tragedy of the Commons | 3. 1968 |
+
+Code:
+
+A. A-1, B-2, C-3
+B. A-2, B-1, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** A-2, B-1, C-3.
+
+**Logic:** 1987 / 1962 / 1968.
+
+</details>
+
+**Q27.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Hardin’s commons logic is shared-resource overuse.
+
+Reason (R): It is Carson’s pesticide narrative.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true, R false.
+
+**A/R logic:** Commons ≠ DDT book.
+
+</details>
+
+**Q28.** Arrange NEAC neighbourhood:
+
+A. Only nuclear energy board
+B. Only ISFR publisher
+C. Environmental awareness campaigns (district/public)
+D. Only BSI Kolkata
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Awareness campaigns.
+
+**Logic:** NEAC lock.
+
+</details>
+
+**Q29.** With reference to Club of Rome, which of the following statements is/are correct?
+
+1. Limits to Growth 1972 systems study.
+2. Different from Brundtland 1987.
+3. Identical to Down To Earth CSE magazine.
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Not CSE magazine.
+
+</details>
+
+**Q30.** Which one of the following correctly states Van Mahotsav?
+
+A. July tree-planting / greening festival
+B. Only COP26 LiFE launch
+C. Only Stockholm 1972 conference
+D. Only Montreal Protocol
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** July greening festival.
+
+**Logic:** Awareness hook.
 
 </details>
 

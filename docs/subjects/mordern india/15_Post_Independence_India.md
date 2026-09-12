@@ -1267,1039 +1267,798 @@ D. J. B. Kripalani
 
 ## Practice Zone — UPPCS Format Drill
 
-> **50 questions.** Mix: chronology, multi-statement, Match-List, A/R, NOT-matched.
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
----
 
-**Q1.** Which persons were members of the States Reorganisation Commission?
+**Q1.** With reference to integration of princely states, which of the following statements is/are correct?
 
-1. K. T. Shah 2. K. M. Panikkar 3. P. Sitaramayya 4. H. N. Kunzru
+1. About 562 princely states were integrated under Sardar Patel and V.P. Menon.
+2. The Instrument of Accession covered Defence, External Affairs and Communications.
+3. Standstill Agreement and Instrument of Accession are two names for the same document.
 
-A. 1 and 3
+Select the correct answer from the code given below:
 
-B. 2 and 4
-
-C. 2 and 3
-
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q2.** Arrange: 1. Food for Work 2. CDP 3. TRYSEM 4. DPAP
-
-A. 4, 2, 3, 1
-
-B. 2, 4, 1, 3
-
-C. 2, 4, 3, 1
-
-D. 4, 2, 1, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q3.** Match: A. Union Constitution Committee B. Rules of Procedure C. Drafting D. FR Sub-Committee
-With: 1. Rajendra Prasad 2. J.B. Kripalani 3. Ambedkar 4. Nehru
-
-A. 2 1 3 4
-
-B. 1 4 3 2
-
-C. 4 1 3 2
-
-D. 1 2 3 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q4.** Arrange: (I) Drafting Committee (II) Constitution adopted (III) Commencement (IV) CA first met
-
-A. III, II, I, IV
-
-B. IV, I, III, II
-
-C. I, II, IV, III
-
-D. IV, I, II, III
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q5.** First linguistic state of India:
-
-A. Kerala
-
-B. Madhya Pradesh
-
-C. Andhra Pradesh
-
-D. Uttar Pradesh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q6.** Which of the following was called the Economic Cabinet of India by Ashok Chanda?
-
-A. Planning Commission
-
-B. Finance Commission
-
-C. Central Cabinet
-
-D. Administrative Reform Commission
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q7.** First Vice-Chairman of NITI Aayog:
-
-A. Arvind Panagariya
-
-B. Raghuram Rajan
-
-C. Chandrashekhara Subramanyam
-
-D. Rajiv Kumar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q8.** Five-Year Plan launched with a focus on sustainable growth:
-
-A. 9th
-
-B. 10th
-
-C. 11th
-
-D. 12th
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q9.** CA adopted the National Flag on:
-
-A. 22 January 1950
-
-B. 24 January 1950
-
-C. 22 July 1947
-
-D. 22 July 1948
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q10.** Arrange: I. Hari Singh IoA II. Constitution of India enforced III. J&K CA ratifies accession IV. J&K Constitution in force
-
-A. I, III, IV, II
-
-B. III, IV, I, II
-
-C. I, II, III, IV
-
-D. IV, III, II, I
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q11.** With reference to Etawah Pilot, which of the following statements is/are correct?
-
-1. It began in 1948 in Etawah district, Uttar Pradesh.
-2. It is associated with Albert Mayer.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q12.** With reference to CDP, which of the following statements is/are correct?
-
-1. It was launched on 2 October 1952.
-2. It belongs to the First Five-Year Plan.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q13.** Which of the following pairs is NOT correctly matched?
-
-A. Etawah — Albert Mayer
-
-B. Nilokheri — S.K. Dey
-
-C. CDP — 2 October 1952
-
-D. Etawah — 2 October 1952
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q14.** Match List-I with List-II.
-
-**List-I** A. Junagadh B. Hyderabad C. J&K D. States Department
-**List-II** 1. Operation Polo 2. Plebiscite 3. IoA 26 Oct 1947 4. Patel and V.P. Menon
-
-A. 2 1 3 4
-
-B. 1 2 3 4
-
-C. 2 1 4 3
-
-D. 2 3 1 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q15.** Instrument of Accession ceded which subjects?
-
-1. Defence 2. External Affairs 3. Communications 4. Land revenue
-
-A. 1, 2 and 3
+A. 1 and 3 only
 
 B. 1 and 2 only
 
-C. 1, 2, 3 and 4
+C. 2 and 3 only
 
-D. 2 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Standstill = interim arrangements; IoA = permanent cession of three subjects.
 
 </details>
 
 ---
 
-**Q16.** Assertion (A): Simla Conference of 1945 is the same as States Reorganisation.
+**Q2.** Match List-I (Territory) with List-II (Route / year tag):
 
-Reason (R): SRC was headed by Fazl Ali in the 1950s.
+| List-I | List-II |
+|--------|---------|
+| A. Junagadh | 1. Operation Polo / Police Action, Sep 1948 |
+| B. Hyderabad | 2. Plebiscite, 1948 |
+| C. Goa, Daman and Diu | 3. Operation Vijay, Dec 1961 |
+| D. Pondicherry group | 4. Kizhoor referendum route; de facto 1954; de jure 1962 |
 
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+*Row order is not the answer code.*
+
+A. A-1, B-2, C-4, D-3
+
+B. A-2, B-1, C-3, D-4
+
+C. A-2, B-3, C-1, D-4
+
+D. A-2, B-1, C-4, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Plebiscite vs Police Action vs military vs French referendum.
+
+**Logic:** Never swap Junagadh/Hyderabad methods or French/Portuguese routes.
+
+</details>
+
+---
+
+**Q3.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+**Assertion (A):** The Constitution was adopted on 26 November 1949 and commenced on 26 January 1950.
+
+**Reason (R):** Adoption and commencement are the same constitutional date under two popular names.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Simla 1945 = Wavell (Topic 14).
+**Ans: C.** A true; R false.
+
+**A/R logic:** 26 Nov 1949 ≠ 26 Jan 1950.
 
 </details>
 
 ---
 
-**Q17.** With reference to SRC, which of the following statements is/are correct?
+**Q4.** Arrange the following in chronological order:
 
-1. Fazl Ali was the Chairman.
-2. Pattabhi Sitaramayya was a member of SRC.
+1. Constituent Assembly first meets
+2. Objectives Resolution moved
+3. National Flag adopted
+4. Drafting Committee (Ambedkar) set up
 
-A. Only 1
+A. 2, 1, 3, 4
 
-B. Only 2
+B. 1, 2, 3, 4
 
-C. Both 1 and 2
+C. 1, 3, 2, 4
 
-D. Neither 1 nor 2
+D. 1, 2, 4, 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Sitaramayya = **JVP**.
+**Ans: B.** 9 Dec 1946 → 13 Dec 1946 → 22 Jul 1947 → 29 Aug 1947.
+
+**Logic:** CA calendar before Republic Day.
 
 </details>
 
 ---
 
-**Q18.** Consider the following statements:
+**Q5.** With reference to committee chairs, which of the following statements is/are correct?
 
-1. Dhar Commission (1948) did not recommend language as the basis of provinces.
-2. JVP Committee found linguistic states premature.
+1. Union Constitution Committee — Nehru.
+2. Rules Committee — Prasad; Drafting Committee — Ambedkar.
+3. Fundamental Rights sub-committee — Kripalani.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
+A. 1 and 2 only
 
-C. Both 1 and 2
+B. 2 and 3 only
 
-D. Neither 1 nor 2
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: D.** All three.
+
+**Logic:** Chair tags from Must-Score.
 
 </details>
 
 ---
 
-**Q19.** Which of the following pairs are NOT correctly matched?
+**Q6.** Which of the following pairs is NOT correctly matched?
 
-1. States Reorganisation Act — 1 November 1956
-2. Andhra State — 1 October 1953
-3. Bombay split — 1956
+A. Chandernagore — French referendum route; into West Bengal 2 Oct 1954
 
-A. Only 3
+B. Pondicherry group — Kizhoor referendum; de jure UT 1962
 
-B. Only 1 and 3
+C. Goa — Operation Vijay 1961; statehood 1987
 
-C. Only 2 and 3
-
-D. Only 1
+D. Goa — French referendum 1954; merged into West Bengal
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Bombay split **1 May 1960**.
+**Ans: D.** Goa is Portuguese military route; Chandernagore went to West Bengal.
+
+**Logic:** French vs Portuguese methods; Chandernagore ≠ Goa.
 
 </details>
 
 ---
 
-**Q20.** With reference to the Planning Commission, which of the following statements is/are correct?
+**Q7.** With reference to states reorganisation, which of the following statements is/are correct?
 
-1. It was set up in March 1950 by Cabinet resolution.
-2. It was a constitutional body under Article 280.
+1. First linguistic state — Andhra, 1 October 1953.
+2. States Reorganisation Act took effect on 1 November 1956.
+3. SRC members were Fazl Ali, K.M. Panikkar and H.N. Kunzru.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
+A. 1 and 2 only
 
-C. Both 1 and 2
+B. 1 and 3 only
 
-D. Neither 1 nor 2
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: D.** All three.
+
+**Logic:** Not K.T. Shah; not Pattabhi as SRC member trap.
 
 </details>
 
 ---
 
-**Q21.** Match List-I with List-II.
+**Q8.** Match List-I with List-II:
 
-**List-I** A. 1st Plan B. 2nd Plan C. Plan Holiday D. 12th Plan
-**List-II** 1. 1966–69 2. Agriculture / CDP 3. Sustainable growth 4. Mahalanobis
+| List-I | List-II |
+|--------|---------|
+| A. Dhar Commission 1948 | 1. Language accepted with limits |
+| B. SRC 1953 | 2. Resisted language as main basis |
+| C. Planning Commission | 3. Extra-constitutional; March 1950 |
+| D. Finance Commission | 4. Article 280 |
 
-A. 2 4 1 3
+*Row order is not the answer code.*
 
-B. 2 4 3 1
+A. A-1, B-2, C-4, D-3
 
-C. 4 2 1 3
+B. A-2, B-1, C-3, D-4
 
-D. 2 1 4 3
+C. A-2, B-3, C-1, D-4
+
+D. A-2, B-1, C-4, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Dhar vs SRC; PC vs FC.
+
+**Logic:** Language basis and constitutional vs extra-constitutional planning.
 
 </details>
 
 ---
 
-**Q22.** Assertion (A): NITI Aayog replaced the Planning Commission.
+**Q9.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Reason (R): NITI Aayog was created by a constitutional amendment in 2015.
+**Assertion (A):** The Planning Commission (March 1950) was extra-constitutional.
 
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+**Reason (R):** Ashok Chanda called it an ‘Economic Cabinet’.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — NITI is extra-constitutional (resolution), **1 Jan 2015**.
+**Ans: D.** Both true; R explains the political weight of an extra-constitutional plan body.
+
+**A/R logic:** Extra-constitutional status + ‘Economic Cabinet’ critique/label travel together.
 
 </details>
 
 ---
 
-**Q23.** Consider the following statements:
+**Q10.** Arrange the following in chronological order:
 
-1. Second Plan steel plants include Bhilai, Rourkela and Durgapur.
-2. These three were all built with only US aid.
+1. Etawah Pilot (Albert Mayer)
+2. Community Development Programme nationwide
+3. National Extension Service
+4. Balwant Rai Mehta Committee recommendations context (1957)
 
-A. Only 1
+A. 2, 1, 3, 4
 
-B. Only 2
+B. 1, 2, 3, 4
 
-C. Both 1 and 2
+C. 1, 3, 2, 4
 
-D. Neither 1 nor 2
+D. 1, 2, 4, 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — USSR / West Germany / UK.
+**Ans: B.** 1948 → 2 Oct 1952 → 1953 → 1957.
+
+**Logic:** UP pilot → CDP → NES → Mehta tiers.
 
 </details>
 
 ---
 
-**Q24.** Which of the following is NOT correctly matched?
+**Q11.** Which of the following statements about CDP / Etawah is/are correct?
 
-A. NDC — 1952
+1. Etawah Pilot (1948) was Albert Mayer’s UP village project (Mahewa).
+2. Nilokheri is S.K. Dey’s refugee township model — not the same as Etawah.
+3. Nyaya Panchayat is one of the three Balwant Rai Mehta tiers.
 
-B. Planning Commission — 1950
+Select the correct answer from the code given below:
 
-C. NITI Aayog — 1 Jan 2015
+A. 2 and 3 only
 
-D. CDP — 1948
+B. 1 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Mehta three-tier ≠ Nyaya Panchayat.
 
 </details>
 
 ---
 
-**Q25.** With reference to Hyderabad, which of the following statements is/are correct?
+**Q12.** Which one of the following correctly contrasts the First and Second Five-Year Plans?
 
-1. Operation Polo was in September 1948.
-2. Razakars were associated with Kasim Razvi.
+A. 1st — Mahalanobis heavy industry; 2nd — agriculture/CDP
 
-A. Only 1
+B. 1st — agriculture and CDP; 2nd — Mahalanobis heavy-industry path
 
-B. Only 2
+C. Both identical Garibi Hatao plans of the 1970s
 
-C. Both 1 and 2
-
-D. Neither 1 nor 2
+D. 2nd Plan created NITI Aayog
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: B.** Agriculture/CDP vs heavy industry.
+
+**Logic:** Plan signature facts.
 
 </details>
 
 ---
 
-**Q26.** Match List-I with List-II.
+**Q13.** With reference to Panchsheel and NAM, which of the following statements is/are correct?
 
-**List-I** A. Drafting Committee B. Objective Resolution C. Flag adopted D. CA first met
-**List-II** 1. 9 Dec 1946 2. 13 Dec 1946 3. 29 Aug 1947 4. 22 Jul 1947
+1. Panchsheel was signed on 29 April 1954 (India–China five principles).
+2. First NAM summit was Belgrade 1961.
+3. Bandung 1955 is the first NAM summit.
 
-A. 3 2 4 1
+Select the correct answer from the code given below:
 
-B. 3 2 1 4
+A. 1 and 3 only
 
-C. 2 3 4 1
+B. 1 and 2 only
 
-D. 3 4 2 1
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Bandung = mood; Belgrade = first summit.
 
 </details>
 
 ---
 
-**Q27.** Consider the following statements:
+**Q14.** Match List-I (1950 map category) with List-II:
 
-1. Privy purses were abolished by the 26th Amendment, 1971.
-2. IoA in 1947 already abolished privy purses.
+| List-I | List-II |
+|--------|---------|
+| A. Part A | 1. Princely unions |
+| B. Part B | 2. Governor’s provinces |
+| C. Part C | 3. Chief Commissioner’s provinces |
+| D. Part D | 4. Andaman and Nicobar |
 
-A. Only 1
+*Row order is not the answer code.*
 
-B. Only 2
+A. A-2, B-1, C-3, D-4
 
-C. Both 1 and 2
+B. A-1, B-2, C-4, D-3
 
-D. Neither 1 nor 2
+C. A-2, B-3, C-1, D-4
+
+D. A-2, B-1, C-4, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: A.** A/B/C/D map until 1956 reorganisation.
+
+**Logic:** Part labels before SRC Act.
 
 </details>
 
 ---
 
-**Q28.** Which of the following pairs are NOT correctly matched?
+**Q15.** Arrange the following in chronological order:
 
-1. Part A states (1950) — former Governor’s provinces
-2. Part B states — princely unions
-3. Part D — Hyderabad
+1. Constitution commenced / Republic
+2. Planning Commission set up
+3. Andhra state formed
+4. States Reorganisation Act effect
+5. NITI Aayog begins
 
-A. Only 3
+A. 1, 2, 3, 4, 5
 
-B. Only 1 and 3
+B. 2, 1, 3, 4, 5
 
-C. Only 2 and 3
+C. 1, 3, 2, 4, 5
 
-D. Only 1
+D. 1, 2, 4, 3, 5
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Part D = **Andaman and Nicobar**.
+**Ans: A.** 26 Jan 1950 → Mar 1950 → 1 Oct 1953 → 1 Nov 1956 → 1 Jan 2015.
+
+**Logic:** Post-transfer arc from Must-Score.
 
 </details>
 
 ---
 
-**Q29.** With reference to NES, which of the following statements is/are correct?
+**Q16.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-1. National Extension Service began in 1953.
-2. It was more intensive than CDP project blocks.
+**Assertion (A):** French enclaves used a referendum/treaty route while Portuguese Goa used a military route.
 
-A. Only 1
+**Reason (R):** Pondicherry’s Kizhoor referendum path is therefore identical with Operation Vijay.
 
-B. Only 2
+Select the correct answer from the code given below:
 
-C. Both 1 and 2
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 
-D. Neither 1 nor 2
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — NES was **wider and cheaper**, less intensive.
+**Ans: C.** A true; R false.
+
+**A/R logic:** Method contrast is the point — do not merge routes.
 
 </details>
 
 ---
 
-**Q30.** Balwant Rai Mehta (1957) recommended which three tiers?
+**Q17.** Which of the following statements is/are correct?
 
-1. Gram Panchayat 2. Panchayat Samiti 3. Zila Parishad 4. Nyaya Panchayat
+1. J&K signed the IoA on 26 October 1947 amid tribal invasion.
+2. Privy purses ended with the 26th Amendment, 1971.
+3. Dadra and Nagar Haveli became a UT by the 10th Amendment, 1961 after 1954 local action.
 
-A. 1, 2 and 3
+Select the correct answer from the code given below:
 
-B. 1, 2 and 4
+A. 1 and 2 only
 
-C. 1, 3 and 4
+B. 2 and 3 only
 
-D. 2, 3 and 4
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Nyaya = not a Mehta tier (Polity T10).
+**Ans: D.** All three.
+
+**Logic:** Accession / privy purses / DNH amendment tags.
 
 </details>
 
 ---
 
-**Q31.** Arrange: 1. Etawah Pilot 2. Constitution commencement 3. CDP 4. Andhra State
+**Q18.** Which of the following pairs is NOT correctly matched?
+
+A. NITI Aayog — 1 January 2015; first Vice-Chair Arvind Panagariya
+
+B. 12th Plan — last Five-Year Plan; sustainable growth slogan fact
+
+C. Planning Commission — Article 280 constitutional body
+
+D. 1st Plan — agriculture, irrigation, CDP stress
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Art. 280 is Finance Commission; PC was extra-constitutional.
+
+**Logic:** PC vs FC trap.
+
+</details>
+
+---
+
+**Q19.** With reference to development chronology, which of the following statements is/are correct?
+
+1. A standard order fact is CDP → DPAP → Food for Work → TRYSEM.
+2. CDP began nationwide on 2 October 1952.
+3. Etawah 1948 and CDP 1952 are the same nationwide launch under two names.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Pilot ≠ nationwide programme.
+
+</details>
+
+---
+
+**Q20.** Match List-I (Plan) with List-II (Signature):
+
+| List-I | List-II |
+|--------|---------|
+| A. 1st Plan | 1. Mahalanobis; steel plants |
+| B. 2nd Plan | 2. Agriculture, irrigation, CDP |
+| C. 5th Plan | 3. Garibi Hatao association |
+| D. 12th Plan | 4. Last FYP; sustainable growth fact |
+
+*Row order is not the answer code.*
+
+A. A-2, B-1, C-3, D-4
+
+B. A-1, B-2, C-4, D-3
+
+C. A-2, B-3, C-1, D-4
+
+D. A-2, B-1, C-4, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Plan signatures from Must-Score.
+
+**Logic:** Do not reverse 1st/2nd industry–agriculture stress.
+
+</details>
+
+---
+
+**Q21.** Which of the following UP Focus statements is/are correct?
+
+1. Etawah 1948 (Mayer, Mahewa) is the national CDP model pilot.
+2. UP was a Part A state in the 1950 map.
+3. Uttarakhand was carved on 9 November 2000.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three.
+
+**Logic:** UP pilot + Part A + Uttarakhand date.
+
+</details>
+
+---
+
+**Q22.** Arrange the enclave / territory milestones chronologically:
+
+1. Junagadh plebiscite / Hyderabad Police Action season
+2. Chandernagore into West Bengal
+3. Operation Vijay (Goa)
+4. Goa full statehood
 
 A. 1, 2, 3, 4
 
 B. 2, 1, 3, 4
 
-C. 1, 2, 4, 3
+C. 1, 3, 2, 4
 
-D. 1, 3, 2, 4
+D. 1, 2, 4, 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — 1948 → 26 Jan 1950 → 2 Oct 1952 → 1 Oct 1953.
+**Ans: A.** 1948 → 1954 → 1961 → 1987.
+
+**Logic:** Integration then enclave then Goa statehood.
 
 </details>
 
 ---
 
-**Q32.** Assertion (A): Andhra was created in 1953.
+**Q23.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Reason (R): Potti Sriramulu’s fast and death in 1952 forced the language issue.
+**Assertion (A):** NITI Aayog began on 1 January 2015 as a think-tank replacing the Planning Commission era.
 
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+**Reason (R):** The poverty-line exercise of the earlier decades sat with the Planning Commission, not as a Finance Commission Art. 280 duty.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: A.** Both true; R does not explain why NITI began in 2015.
+
+**A/R logic:** Two planning-era facts — related domain, not cause of NITI’s start date.
 
 </details>
 
 ---
 
-**Q33.** Who said in the Constituent Assembly: “Can you show me one free country where there are separate electorates… left mischief behind”?
+**Q24.** With reference to Goa’s constitutional path, which of the following statements is/are correct?
 
-A. Somnath Lahiri
+1. Operation Vijay — 18–19 December 1961.
+2. UT in 1962; Goa State in 1987.
+3. Goa followed the same French Kizhoor referendum path as Pondicherry.
 
-B. Jawaharlal Nehru
+Select the correct answer from the code given below:
 
-C. Sardar Vallabh Bhai Patel
+A. 1 and 2 only
 
-D. N. G. Ranga
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Military Portuguese route ≠ French referendum.
 
 </details>
 
 ---
 
-**Q34.** “A pledge to our people and a pact with the civilized world” for Fundamental Rights was said by:
+**Q25.** Which one of the following is correctly matched?
 
-A. Pt. Jawahar Lal Nehru
+A. SRC Act effect — 1 October 1953
 
-B. Dr. Bhim Rao Ambedkar
+B. Andhra formation — 1 November 1956
 
-C. Dr. Rajendra Prasad
+C. Andhra formation — 1 October 1953; SRC Act — 1 November 1956
 
-D. Dr. S. Radha Krishnan
+D. Both Andhra and SRC Act — 26 January 1950
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: C.** Linguistic first state before pan-India SRC Act.
+
+**Logic:** Two November/October date traps.
 
 </details>
 
 ---
 
-**Q35.** Which of the following is NOT correctly matched?
+**Q26.** Which of the following statements is/are correct?
 
-A. Chairman, Drafting Committee — Ambedkar
+1. Jammu and Kashmir later constitution steps must not be shuffled with Union Constitution adoption/commencement dates.
+2. Chandernagore merged into West Bengal; Pondicherry group stayed a separate UT path to 1962.
+3. Part B states in 1950 were Governor’s provinces.
 
-B. FR Sub-Committee — J.B. Kripalani
+Select the correct answer from the code given below:
 
-C. Union Constitution Committee — Rajendra Prasad
+A. 1 and 2 only
 
-D. Rules of Procedure — Rajendra Prasad
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Union Constitution = **Nehru**.
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Part A = Governor’s provinces; Part B = princely unions.
 
 </details>
 
 ---
 
-**Q36.** With reference to NDC, which of the following statements is/are correct?
+**Q27.** Match List-I with List-II:
 
-1. It was set up in 1952.
-2. It was chaired by the Prime Minister and included Chief Ministers.
+| List-I | List-II |
+|--------|---------|
+| A. Etawah | 1. S.K. Dey refugee township |
+| B. Nilokheri | 2. Albert Mayer UP pilot |
+| C. CDP | 3. Nationwide, 2 Oct 1952 |
+| D. NES | 4. Wider extension, 1953 |
 
-A. Only 1
+*Row order is not the answer code.*
 
-B. Only 2
+A. A-2, B-1, C-3, D-4
 
-C. Both 1 and 2
+B. A-1, B-2, C-4, D-3
 
-D. Neither 1 nor 2
+C. A-2, B-3, C-1, D-4
+
+D. A-2, B-1, C-4, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: A.** Pilot / township / CDP / NES.
+
+**Logic:** Four development confused pairs.
 
 </details>
 
 ---
 
-**Q37.** Consider the following statements:
+**Q28.** With reference to the post-Independence arc, which of the following statements is/are correct?
 
-1. The 12th Plan was the last Five-Year Plan.
-2. Inclusive growth is the slogan most associated with the 11th Plan.
+1. Independence 15 Aug 1947 → CA last sitting 24 Jan 1950 → Constitution 26 Jan 1950 is the political-legal opening arc.
+2. Planning Commission March 1950 follows immediately in the development arc.
+3. NITI 1 Jan 2015 closes the Planning Commission era in the long arc.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
+A. 1 and 2 only
 
-C. Both 1 and 2
+B. 2 and 3 only
 
-D. Neither 1 nor 2
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: D.** All three.
+
+**Logic:** Hold the long arc from transfer to NITI.
 
 </details>
 
 ---
 
-**Q38.** Match List-I with List-II.
+**Q29.** Which of the following pairs is NOT correctly matched?
 
-**List-I** A. Maharashtra and Gujarat B. Haryana C. Uttarakhand D. Telangana
-**List-II** 1. 2000 2. 1960 3. 2014 4. 1966
+A. IoA — Defence, External Affairs, Communications
 
-A. 2 4 1 3
+B. Hyderabad — Operation Polo 1948
 
-B. 2 4 3 1
+C. Junagadh — Operation Vijay 1961
 
-C. 4 2 1 3
-
-D. 2 1 4 3
+D. Junagadh — plebiscite 1948
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: C.** Operation Vijay is Goa 1961; Junagadh is 1948 plebiscite.
+
+**Logic:** Polo vs Vijay vs plebiscite triangle.
 
 </details>
 
 ---
 
-**Q39.** Which of the following pairs are NOT correctly matched?
+**Q30.** Which of the following statements is/are correct?
 
-1. Avadi session — socialistic pattern of society (1955)
-2. IPR 1956 — commanding heights
-3. First Plan — Mahalanobis heavy industry
+1. Balwant Rai Mehta (1957) recommended the three-tier panchayati scheme.
+2. The then poverty-line exercise sat with the Planning Commission.
+3. Finance Commission is extra-constitutional while Planning Commission is Article 280.
 
-A. Only 3
+Select the correct answer from the code given below:
 
-B. Only 1 and 3
+A. 1 and 2 only
 
-C. Only 2 and 3
+B. 1 and 3 only
 
-D. Only 1
+C. 2 and 3 only
 
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q40.** Poverty line in India (as asked in 2018) was fixed by:
-
-A. Central Council of Ministers
-
-B. Lok Sabha
-
-C. Rajya Sabha
-
-D. Planning Commission (Now NITI Ayog)
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Reverse PC/FC constitutional status is the trap.
 
 </details>
-
----
-
-**Q41.** With reference to the Constituent Assembly, which of the following statements is/are correct?
-
-1. It first met on 9 December 1946.
-2. Temporary President was Sachchidananda Sinha.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q42.** Which of the following is NOT correctly matched?
-
-A. Constitution adopted — 26 Nov 1949
-
-B. Last CA sitting — 24 Jan 1950
-
-C. Constitution commenced — 26 Jan 1950
-
-D. Drafting Committee — 29 Aug 1946
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Drafting Committee **29 August 1947**.
-
-</details>
-
----
-
-**Q43.** Assertion (A): The Finance Commission was replaced by NITI Aayog in 2015.
-
-Reason (R): NITI Aayog replaced the Planning Commission.
-
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q44.** Consider the following statements:
-
-1. Village Level Worker / Gram Sevak was the field functionary of CDP.
-2. CDP launched with 55 project areas.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q45.** Which of the following pairs are NOT correctly matched?
-
-1. Operation Polo — September 1948
-2. J&K IoA — 26 October 1947
-3. Junagadh — Operation Polo
-
-A. Only 3
-
-B. Only 1 and 3
-
-C. Only 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Junagadh = **plebiscite**.
-
-</details>
-
----
-
-**Q46.** With reference to the merger of French settlements in India, which of the following statements is/are correct?
-
-1. Chandernagore merged into West Bengal in 1954.
-2. Pondicherry, Karaikal, Mahe and Yanam became a Union Territory the same year Chandernagore merged.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Pondicherry group's de jure merger was only in **1962**.
-
-</details>
-
----
-
-**Q47.** Operation Vijay, by which Goa, Daman and Diu were freed from Portuguese rule, was conducted in:
-
-A. October 1947
-
-B. December 1961
-
-C. August 1962
-
-D. May 1987
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 18–19 December 1961.
-
-</details>
-
----
-
-**Q48.** Which of the following pairs is NOT correctly matched?
-
-A. Chandernagore — merged into West Bengal, 1954
-
-B. Pondicherry group — de jure merger, 1962
-
-C. Goa — Operation Vijay, 1961
-
-D. Goa — became a Union Territory in 1987
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Goa was a **UT from 1962** and a **full State from 1987**.
-
-</details>
-
----
-
-**Q49.** Panchsheel, the five principles agreed between India and China, was signed in:
-
-A. 1950
-
-B. 1954
-
-C. 1955
-
-D. 1961
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 29 April 1954. Bandung (1955) echoed it; NAM's first summit was Belgrade (1961).
-
-</details>
-
----
-
-**Q50.** Consider the following statements:
-
-1. French enclaves in India were transferred to India mainly through referendums.
-2. Goa was transferred to India in the same manner, through a referendum.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Goa required **Operation Vijay**; Portugal refused a referendum route.
-
-</details>
-
----
 
 ## Common Traps — Don't Fall For These
 

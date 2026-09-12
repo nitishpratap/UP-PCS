@@ -1652,964 +1652,801 @@ D. Ambika Chakravarti
 
 ## Practice Zone — UPPCS Format Drill
 
-> **45 questions.** Mix: multi-statement, chronology, Match-List, A/R, NOT-matched.
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
----
 
-**Q1.** With reference to the Civil Administration in 1905, which of the statements is/are correct?
+**Q1.** With reference to the Partition of Bengal, which of the following statements is/are correct?
 
-1. Lord Curzon decided to rearrange the provincial boundaries.
-2. A new province was constituted, called East Bengal and Assam.
+1. It was announced in July 1905 and became effective on 16 October 1905.
+2. The new province was East Bengal and Assam with capital at Dacca.
+3. The Lucknow Pact of 1911 annulled the Partition at the Delhi Durbar.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Both 1 and 2
+A. 1 and 3 only
 
-C. Only 2
+B. 1 and 2 only
 
-D. Neither 1 nor 2
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Annulment = 1911 Durbar; Lucknow Pact = 1916.
 
 </details>
 
 ---
 
-**Q2.** Which of the following events took place in the year 1911?
+**Q2.** Arrange the following in chronological order:
 
-1. Partition of Bengal revoked
-2. Transfer of capital from Calcutta to Delhi
-3. Lucknow Pact between Congress and Muslim League
+1. Boycott Resolution at Calcutta Town Hall
+2. Partition of Bengal becomes effective
+3. National Council of Education
+4. Surat Split
 
-A. 1 and 2
-
-B. Only 3
-
-C. 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q3.** Which organisation was responsible for throwing a bomb at Viceroy Lord Hardinge in Delhi?
-
-A. All India Labour Association
-
-B. United Patriotic Association
-
-C. Anushilan Samiti
-
-D. Yugantar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q4.** Arrange in chronological order:
-
-I. Foundation of Gadar Party
-II. Chittagong Armoury Raid
-III. Indian Independence Committee at Berlin
-IV. Central Assembly Bomb Case
-
-A. III, I, IV and II
-
-B. I, III, IV and II
-
-C. I, III, II and IV
-
-D. III, I, II and IV
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q5.** Who founded the revolutionary organisation Abhinav Bharat Society?
-
-A. Bhagat Singh
-
-B. Vinayak Damodar Savarkar
-
-C. Barindra Kumar Ghosh
-
-D. Pulin Bihari
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q6.** Who among the following was NOT an early member of the Naujawan Sabha formed in 1926?
-
-A. Bhagat Singh
-
-B. Yashpal
-
-C. Chhabil Das
-
-D. Ambika Chakravarti
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q7.** Who among the following was NOT associated with the Kanpur Conspiracy Case of 1924?
-
-A. Muzaffar Ahmed
-
-B. Nalini Gupta
-
-C. Shaukat Usmani
-
-D. M.A. Ansari
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q8.** Match List-I with List-II.
-
-**List-I** A. Kakori B. Chittagong C. Hardinge bomb D. Assembly bomb
-**List-II** 1. 1930 2. 1925 3. 1929 4. 1912
-
-A. 2 1 4 3
-
-B. 1 2 3 4
-
-C. 2 1 3 4
-
-D. 2 4 1 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q9.** With reference to the Swadeshi Movement, which of the following statements is/are correct?
-
-1. The Boycott Resolution was passed at Calcutta Town Hall on 7 August 1905.
-2. The National Council of Education was set up in August 1906.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q10.** Which of the following pairs is NOT correctly matched?
-
-A. East Bengal and Assam — 1905
-
-B. Annulment of Partition — 1911
-
-C. Lucknow Pact — 1911
-
-D. Calcutta Congress Swaraj goal — 1906
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q11.** Consider the following statements:
-
-1. Kakori action was carried out by the HRA in 1925.
-2. Kakori action was carried out by the HSRA in 1928.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q12.** With reference to Ram Prasad Bismil, which of the following statements is/are correct?
-
-1. He was born at Shahjahanpur.
-2. He was hanged at Gorakhpur Jail in December 1927.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q13.** Assertion (A): The Partition of Bengal was annulled in 1911.
-
-Reason (R): The Lucknow Pact between Congress and the Muslim League was also signed in 1911.
-
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q14.** Match List-I with List-II.
-
-**List-I** A. Ghadar Party B. HRA C. HSRA D. Abhinav Bharat
-**List-II** 1. Savarkar 2. 1913 3. 1924 4. 1928
-
-A. 2 3 4 1
-
-B. 2 4 3 1
-
-C. 3 2 4 1
-
-D. 2 3 1 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q15.** With reference to Chittagong, which of the following statements is/are correct?
-
-1. Surya Sen led the armoury raid on 18 April 1930.
-2. Pritilata Waddedar and Kalpana Datta were associated with this circle.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q16.** Consider the following statements:
-
-1. Khudiram Bose and Prafulla Chaki were associated with the Muzaffarpur bomb of 1908.
-2. The Alipore Conspiracy Case followed the Manicktolla arrests.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q17.** Which of the following pairs are NOT correctly matched?
-
-1. India House — Shyamji Krishna Varma
-2. Ghadar — Lala Hardayal / Sohan Singh Bhakna
-3. Hardinge bomb — Bhagat Singh
-
-A. Only 3
-
-B. Only 1 and 3
-
-C. Only 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Hardinge bomb = **Rash Behari / Anushilan 1912**.
-
-</details>
-
----
-
-**Q18.** With reference to HSRA, which of the following statements is/are correct?
-
-1. It was formed in 1928 at Feroz Shah Kotla, Delhi.
-2. Bhagat Singh and B.K. Dutt threw bombs in the Central Assembly in April 1929.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q19.** Arrange: 1. Partition of Bengal 2. Delhi Durbar annulment 3. Surat Split 4. Kakori
-
-A. 1, 3, 2, 4
+A. 2, 1, 3, 4
 
 B. 1, 2, 3, 4
 
-C. 3, 1, 2, 4
+C. 1, 3, 2, 4
 
-D. 1, 3, 4, 2
+D. 1, 2, 4, 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — 1905 → 1907 → 1911 → 1925.
+**Ans: B.** 7 Aug 1905 → 16 Oct 1905 → Aug 1906 → 1907.
+
+**Logic:** Boycott resolution precedes effective date; NCE before Surat.
 
 </details>
 
 ---
 
-**Q20.** Consider the following statements:
+**Q3.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-1. V.O. Chidambaram Pillai founded the Swadeshi Steam Navigation Company.
-2. Ashwini Kumar Dutt organised the Swadesh Bandhab Samiti at Barisal.
+**Assertion (A):** Swadeshi means the use of Indian goods and institutions.
 
-A. Only 1
+**Reason (R):** Boycott means rejection of British goods and institutions.
 
-B. Only 2
+Select the correct answer from the code given below:
 
-C. Both 1 and 2
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 
-D. Neither 1 nor 2
+B. (A) is false, but (R) is true
 
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q21.** Which of the following is NOT correctly matched?
-
-A. Bismil hanged — Gorakhpur
-
-B. Ashfaqulla hanged — Faizabad
-
-C. Azad hanged in Kakori case — Shahjahanpur
-
-D. Lahiri hanged — Gonda
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Azad **escaped**; died at Allahabad **1931**.
-
-</details>
-
----
-
-**Q22.** Assertion (A): Ghadar Party was founded in 1913 in North America.
-
-Reason (R): The Indian Independence Committee at Berlin was set up in 1915.
-
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: A.** Both true; R defines the twin method, but does not by itself explain the meaning of Swadeshi.
+
+**A/R logic:** Two sides of one programme — complementary definitions, not cause–effect.
 
 </details>
 
 ---
 
-**Q23.** Match List-I with List-II.
+**Q4.** Match List-I with List-II:
 
-**List-I** A. Khudiram Bose B. Madan Lal Dhingra C. Surya Sen D. Bhagat Singh
-**List-II** 1. Curzon Wyllie 2. Muzaffarpur 3. Assembly bomb 4. Chittagong
+| List-I | List-II |
+|--------|---------|
+| A. Abhinav Bharat | 1. Shyamji Krishna Varma |
+| B. India House (London) | 2. V.D. Savarkar |
+| C. Ghadar Party | 3. San Francisco, 1913 |
+| D. Berlin Committee | 4. Wartime Europe plot, 1915 |
 
-A. 2 1 4 3
+*Row order is not the answer code.*
 
-B. 1 2 3 4
+A. A-2, B-3, C-1, D-4
 
-C. 2 1 3 4
+B. A-1, B-2, C-4, D-3
 
-D. 2 4 1 3
+C. A-2, B-1, C-3, D-4
+
+D. A-2, B-1, C-4, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: C.** Savarkar / Shyamji / Ghadar / Berlin.
+
+**Logic:** Ghadar ≠ Berlin Committee year trap.
 
 </details>
 
 ---
 
-**Q24.** With reference to the Saunders case, which of the following statements is/are correct?
+**Q5.** With reference to revolutionary chronology, which of the following statements is/are correct?
 
-1. It was HSRA’s revenge after Lala Lajpat Rai’s death.
-2. It took place in Lahore in December 1928.
+1. Muzaffarpur 1908 is the Kingsford attempt (Khudiram–Chaki).
+2. Alipore 1908 is the Manicktolla conspiracy trial.
+3. Hardinge bomb (1912) and the Central Assembly bomb (1929) were the same event under two names.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
+A. 1 and 3 only
 
-C. Both 1 and 2
+B. 1 and 2 only
 
-D. Neither 1 nor 2
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Delhi Viceroy procession ≠ Central Assembly protest.
 
 </details>
 
 ---
 
-**Q25.** Consider the following statements:
+**Q6.** Which of the following pairs is NOT correctly matched?
 
-1. Anushilan Samiti was founded in Calcutta in 1902.
-2. Pulin Behari Das is associated with Dhaka Anushilan.
+A. HRA — formed 1924
 
-A. Only 1
+B. Kakori (9 August 1925) — HRA action
 
-B. Only 2
+C. HSRA — socialist turn from 1928
 
-C. Both 1 and 2
-
-D. Neither 1 nor 2
+D. Kakori (9 August 1925) — HSRA action
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: D.** Kakori is HRA; never call it HSRA.
+
+**Logic:** HRA 1924 → Kakori 1925 → HSRA 1928 ladder.
 
 </details>
 
 ---
 
-**Q26.** Which of the following pairs are NOT correctly matched?
+**Q7.** Arrange the following events in chronological order:
 
-1. Komagata Maru — 1914
-2. Berlin Committee — 1913
-3. Ghadar Party — 1913
+1. Chapekar brothers
+2. Muzaffarpur / Alipore
+3. Hardinge bomb
+4. Ghadar Party founding
+5. Kakori
 
-A. Only 2
+A. 1, 3, 2, 4, 5
 
-B. Only 1 and 2
+B. 2, 1, 3, 4, 5
 
-C. Only 2 and 3
+C. 1, 2, 3, 4, 5
 
-D. Only 1
+D. 1, 2, 4, 3, 5
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Berlin = **1915**.
+**Ans: C.** 1897 → 1908 → 1912 → 1913 → 1925.
+
+**Logic:** Standard revolutionary ladder from the Consolidated sheet.
 
 </details>
 
 ---
 
-**Q27.** With reference to Chandrashekhar Azad, which of the following statements is/are correct?
+**Q8.** With reference to Kakori and related UP facts, which of the following statements is/are correct?
 
-1. He took part in the HRA/Kakori network and escaped hanging.
-2. He died at Alfred Park, Allahabad, on 27 February 1931.
+1. Ram Prasad Bismil was born at Shahjahanpur and hanged at Gorakhpur on 19 December 1927.
+2. Ashfaqulla Khan was hanged at Faizabad.
+3. Chandrashekhar Azad died at Alfred Park, Allahabad, on 27 February 1931.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
+A. 1 and 2 only
 
-C. Both 1 and 2
+B. 2 and 3 only
 
-D. Neither 1 nor 2
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: D.** All three.
+
+**Logic:** Birth vs hanging places for Bismil must stay separate.
 
 </details>
 
 ---
 
-**Q28.** Match List-I with List-II.
+**Q9.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**List-I (GG/Viceroy)** A. Dalhousie B. Curzon C. Bentinck D. Cornwallis
-**List-II** 1. Permanent Settlement 2. Abolition of Sati 3. Partition of Bengal 4. Doctrine of Lapse
+**Assertion (A):** Extremist Congress politics centred on boycott and Swadeshi.
 
-A. 4 3 2 1
+**Reason (R):** Revolutionary secret societies such as Anushilan and Jugantar were identical with the Extremist wing of Congress.
 
-B. 4 3 1 2
+Select the correct answer from the code given below:
 
-C. 3 4 2 1
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 
-D. 4 2 3 1
+B. (A) is false, but (R) is true
 
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Partition annulment and capital shift (**1911**) → Home Rule (**1916**) → Montagu–Chelmsford (**1919**) → Bengal Partition (**1905**).
-
-</details>
-
----
-
-**Q29.** Consider the following statements:
-
-1. Aurobindo was principal of Bengal National College.
-2. Aurobindo was convicted and hanged in the Alipore case.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — he was **acquitted**.
-
-</details>
-
----
-
-**Q30.** Which of the following is NOT correctly matched?
-
-A. Nasik / Jackson murder — 1909
-
-B. Hardinge bomb — 1912
-
-C. Assembly bomb — 1929
-
-D. Chittagong raid — 1925
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Chittagong **1930**; 1925 = Kakori.
-
-</details>
-
----
-
-**Q31.** With reference to national education in the Swadeshi years, which of the following statements is/are correct?
-
-1. The National Council of Education was formed in 1906.
-2. BHU was founded in 1906 as part of the same NCE resolution.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — BHU is a later/separate stream (Topic 12).
-
-</details>
-
----
-
-**Q32.** Assertion (A): Bhagat Singh and Batukeshwar Dutt courted arrest after the Assembly bomb.
-
-Reason (R): The action was meant as propaganda — to make the deaf hear — not as a massacre.
-
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: C.** A true; R false.
+
+**A/R logic:** Assertive Congress ≠ underground armed groups.
 
 </details>
 
 ---
 
-**Q33.** Consider the following statements:
+**Q10.** Match List-I with List-II:
 
-1. Sachindra Nath Sanyal is associated with the founding of HRA.
-2. The Revolutionary (Yellow Paper) stated HRA’s republican aim.
+| List-I | List-II |
+|--------|---------|
+| A. Central Assembly bomb | 1. Surya Sen; 18 April 1930 |
+| B. Chittagong Armoury Raid | 2. Bhagat Singh & B.K. Dutt; 8 April 1929 |
+| C. Madam Cama’s Stuttgart flag | 3. 1907 |
+| D. Komagata Maru | 4. 1914; Ghadar-era overseas chain |
 
-A. Only 1
+*Row order is not the answer code.*
 
-B. Only 2
+A. A-1, B-2, C-4, D-3
 
-C. Both 1 and 2
+B. A-2, B-1, C-3, D-4
 
-D. Neither 1 nor 2
+C. A-2, B-3, C-1, D-4
+
+D. A-2, B-1, C-4, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: B.** Assembly → Chittagong → Stuttgart → Komagata Maru.
+
+**Logic:** Do not merge Stuttgart 1907 with Berlin Committee 1915.
 
 </details>
 
 ---
 
-**Q34.** Match List-I with List-II.
+**Q11.** Which of the following statements about Swadeshi institutions is/are correct?
 
-**List-I** A. Swadesh Bandhab Samiti B. Swadeshi Steam Navigation C. Bengal National College D. India House
-**List-II** 1. Aurobindo 2. Ashwini Kumar Dutt 3. Shyamji Krishna Varma 4. V.O.C. Pillai
+1. National Council of Education came in August 1906; Aurobindo was principal of Bengal National College.
+2. Ashwini Kumar Dutt’s Swadesh Bandhab Samiti (Barisal) is a classic district volunteer body.
+3. V.O.C. Pillai founded Swadeshi Steam Navigation at Tuticorin.
 
-A. 2 4 1 3
+Select the correct answer from the code given below:
 
-B. 2 4 3 1
+A. 1 and 2 only
 
-C. 4 2 1 3
+B. 1 and 3 only
 
-D. 2 1 4 3
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: D.** All three.
+
+**Logic:** Open Swadeshi orgs ≠ Anushilan/Jugantar secret action.
 
 </details>
 
 ---
 
-**Q35.** Which of the following pairs are NOT correctly matched?
+**Q12.** Which of the following pairs is NOT correctly matched?
 
-1. Bhagat Singh, Rajguru, Sukhdev hanged — 23 March 1931
-2. Surya Sen hanged — 1925
-3. Khudiram hanged after Muzaffarpur — 1908
+A. Dhingra–Curzon Wyllie — 1909, London
 
-A. Only 2
+B. Udham Singh–Michael O’Dwyer — 1940, London
 
-B. Only 1 and 2
+C. Barrah Dacoity — Pulin Behari Das, 1908
 
-C. Only 2 and 3
-
-D. Only 1
+D. Udham Singh–Michael O’Dwyer — 1909, India House
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Surya Sen hanged **1934**.
+**Ans: D.** 1909 India House killing is Dhingra–Wyllie; Udham–O’Dwyer is 1940.
+
+**Logic:** Two London killings decades apart.
 
 </details>
 
 ---
 
-**Q36.** With reference to Ghadar, which of the following statements is/are correct?
+**Q13.** With reference to Anushilan and Jugantar, which of the following statements is/are correct?
 
-1. The party was based among Pacific-coast Indians and published *Ghadar*.
-2. Komagata Maru (1914) was used as proof of racial exclusion.
+1. Anushilan is tied to the Hardinge bomb of 1912 in standard teaching.
+2. Jugantar is the Barindra / *Yugantar* / Manicktolla stream.
+3. RSS founded by Hedgewar at Nagpur (27 Sep 1925) is the same organisation as HRA.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
+A. 2 and 3 only
 
-C. Both 1 and 2
+B. 1 and 3 only
 
-D. Neither 1 nor 2
+C. 1 and 2 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: C.** Only 1 and 2.
+
+**Logic:** RSS 1925 ≠ HRA/Kakori 1925.
 
 </details>
 
 ---
 
-**Q37.** Arrange: 1. Muzaffarpur bomb 2. Kakori 3. Hardinge bomb 4. Chittagong raid
+**Q14.** Arrange the following in chronological order:
 
-A. 1, 3, 2, 4
+1. Ghadar Party
+2. Berlin Committee
+3. Central Assembly bomb
+4. Chittagong Armoury Raid
+
+A. 2, 1, 3, 4
 
 B. 1, 2, 3, 4
 
-C. 3, 1, 2, 4
+C. 1, 3, 2, 4
 
-D. 1, 3, 4, 2
+D. 1, 2, 4, 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — 1908 → 1912 → 1925 → 1930.
+**Ans: B.** 1913 → 1915 → 1929 → 1930.
+
+**Logic:** Standard order fact from Must-Score.
 
 </details>
 
 ---
 
-**Q38.** Consider the following statements:
+**Q15.** Which of the following statements is/are correct?
 
-1. Ambika Chakravarti was an early member of Naujawan Bharat Sabha in 1926.
-2. Ambika Chakravarti belonged to the Chittagong revolutionary circle.
+1. Mitra Mela (1899) became Abhinav Bharat (1904) under V.D. Savarkar.
+2. Provisional Government of India (Kabul, 1915) had Raja Mahendra Pratap as President and Barkatullah as PM.
+3. Jatin Das died after a 63-day hunger strike (13 Sep 1929) in the Lahore Conspiracy jail context.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
+A. 1 and 2 only
 
-C. Both 1 and 2
+B. 2 and 3 only
 
-D. Neither 1 nor 2
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: D.** All three.
+
+**Logic:** Kabul provisional government is wartime, not Ghadar HQ.
 
 </details>
 
 ---
 
-**Q39.** Which of the following is NOT correctly matched?
+**Q16.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Chapekar brothers — 1897
+**Assertion (A):** Partition of Bengal was annulled in 1911 at the Delhi Durbar and the capital moved from Calcutta to Delhi.
 
-B. Dhingra / Curzon Wyllie — 1909
+**Reason (R):** The 1877 Delhi Durbar under Lytton had already annulled the Partition and shifted the capital.
 
-C. Saunders murder — 1928
+Select the correct answer from the code given below:
 
-D. HRA founded — 1930
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 
-<details>
-<summary>Show answer</summary>
+B. (A) is false, but (R) is true
 
-**Ans: D** — HRA **1924**; 1930 = Chittagong.
-
-</details>
-
----
-
-**Q40.** With reference to the Delhi Durbar of 1911, which of the following statements is/are correct?
-
-1. Partition of Bengal was annulled.
-2. The imperial capital was transferred from Calcutta to Delhi.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q41.** Assertion (A): Kakori must not be labelled HSRA.
-
-Reason (R): The socialist reorganisation that produced the HSRA name came in 1928, after Kakori.
-
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: C.** A true; R false.
+
+**A/R logic:** 1877 Durbar proclaimed Victoria Empress — different event.
 
 </details>
 
 ---
 
-**Q42.** Match List-I with List-II.
+**Q17.** With reference to Cause → Course → Result of Partition/Swadeshi, which of the following statements is/are correct?
 
-**List-I** A. Rash Behari Bose B. Barindra Kumar Ghosh C. Sohan Singh Bhakna D. Surya Sen
-**List-II** 1. Jugantar / Manicktolla 2. Hardinge bomb 3. Chittagong 4. Ghadar
+1. Causes: Curzon claimed administrative size; nationalists read divide-and-rule.
+2. Course: 16 October mourning with Rakhi unity and Tagore’s *Amar Sonar Bangla*; protest fused with Swadeshi/boycott.
+3. Results: Mass protest and radicalisation; annulment in 1911 with capital shift.
 
-A. 2 1 4 3
+Select the correct answer from the code given below:
 
-B. 1 2 3 4
+A. 1 and 2 only
 
-C. 2 1 3 4
+B. 1 and 3 only
 
-D. 2 4 1 3
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: D.** All three.
+
+**Logic:** Hold Cause–Course–Result as one card, not year fragments.
 
 </details>
 
 ---
 
-**Q43.** Consider the following statements:
+**Q18.** Match List-I (Place/person) with List-II (Fact):
 
-1. M.A. Ansari was an accused in the Kanpur Conspiracy Case of 1924.
-2. Muzaffar Ahmed and Shaukat Usmani were associated with that case.
+| List-I | List-II |
+|--------|---------|
+| A. Shahjahanpur | 1. Bismil hanged |
+| B. Gorakhpur | 2. Bismil born |
+| C. Faizabad | 3. Ashfaqulla hanged |
+| D. Alfred Park, Allahabad | 4. Azad died, 27 Feb 1931 |
 
-A. Only 1
+*Row order is not the answer code.*
 
-B. Only 2
+A. A-2, B-3, C-1, D-4
 
-C. Both 1 and 2
+B. A-1, B-2, C-4, D-3
 
-D. Neither 1 nor 2
+C. A-2, B-1, C-3, D-4
+
+D. A-2, B-1, C-4, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: C.** Birth ≠ hanging for Bismil.
+
+**Logic:** UP Focus place ladder.
 
 </details>
 
 ---
 
-**Q44.** With reference to Swadeshi methods, which of the following statements is/are correct?
+**Q19.** Which of the following statements about Naujawan Bharat Sabha and related traps is/are correct?
 
-1. Extremists wanted boycott to extend to schools, courts, titles and jobs.
-2. Moderates generally limited boycott to foreign goods and constitutional protest.
+1. Naujawan Bharat Sabha dates to 1926.
+2. Ambika Chakravarti was not an early member of Naujawan Bharat Sabha in the standard trap list.
+3. M.A. Ansari was associated with the Kanpur Conspiracy of 1924 as a core accused in the usual teaching key.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
+A. 1 and 2 only
 
-C. Both 1 and 2
+B. 1 and 3 only
 
-D. Neither 1 nor 2
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Ansari is a ‘not associated’ distractor for Kanpur 1924.
 
 </details>
 
 ---
 
-**Q45.** Which of the following pairs are NOT correctly matched?
+**Q20.** Which one of the following correctly describes the relationship between HRA and HSRA?
 
-1. Alfred Park encounter — Chandrashekhar Azad
-2. Faizabad hanging — Ram Prasad Bismil
-3. Lahore hanging 23 March 1931 — Bhagat Singh, Rajguru, Sukhdev
+A. HSRA (1924) preceded HRA (1928)
 
-A. Only 2
+B. HRA (1924) preceded the socialist turn labelled HSRA (1928)
 
-B. Only 1 and 2
+C. Both names begin in 1908 with Alipore
 
-C. Only 2 and 3
-
-D. Only 1
+D. HSRA conducted Kakori before HRA existed
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Faizabad = **Ashfaqulla**; Bismil = **Gorakhpur**.
+**Ans: B.** HRA 1924 → Kakori 1925 → HSRA 1928.
+
+**Logic:** Socialist turn renaming/stream fact.
 
 </details>
 
 ---
+
+**Q21.** With reference to regional centres of revolutionary activity, which of the following statements is/are correct?
+
+1. Bengal was the Anushilan–Jugantar–Chittagong centre.
+2. Maharashtra is linked with Abhinav Bharat / Nasik.
+3. Punjab is linked with Ghadar / HSRA streams; UP with Kakori and Shahjahanpur.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three.
+
+**Logic:** Map the theatre before matching the event.
+
+</details>
+
+---
+
+**Q22.** Arrange the following in chronological order:
+
+1. Madam Cama’s Stuttgart flag
+2. Partition annulment / capital to Delhi
+3. Ghadar Party founding
+4. Kakori action
+
+A. 1, 2, 3, 4
+
+B. 1, 3, 2, 4
+
+C. 2, 1, 3, 4
+
+D. 1, 2, 4, 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** 1907 → 1911 → 1913 → 1925.
+
+**Logic:** Flag before Durbar package; Ghadar before Kakori.
+
+</details>
+
+---
+
+**Q23.** Which of the following statements is/are correct?
+
+1. Calcutta Congress 1906 (Dadabhai) stamped Swaraj as a Congress goal.
+2. Open Swadeshi faded after about 1908 as youth moved underground.
+3. P.C. Ray’s Bengal Chemical is a Swadeshi enterprise tag.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three.
+
+**Logic:** Swaraj language + enterprise + underground turn.
+
+</details>
+
+---
+
+**Q24.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+**Assertion (A):** Bagha Jatin (Jatindranath Mukherjee) led wartime Yugantar reorganisation.
+
+**Reason (R):** Sachindra Nath Sanyal’s *Bandi Jeevan* is remembered as a ‘Bible of the Revolutionaries’ inspiring North Indian youth toward HRA.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; R does not explain Bagha Jatin’s wartime leadership.
+
+**A/R logic:** Two revolutionary facts from different theatres/roles.
+
+</details>
+
+---
+
+**Q25.** With reference to Barrah and Kakori, which of the following statements is/are correct?
+
+1. Barrah Dacoity (1908, East Bengal) was led by Pulin Behari Das (Dhaka Anushilan).
+2. Kakori (1925) was an HRA train treasury action in the UP belt.
+3. Both actions were HSRA operations of 1930.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Barrah 1908 ≠ Kakori 1925; neither is HSRA-1930.
+
+</details>
+
+---
+
+**Q26.** Which of the following pairs is NOT correctly matched?
+
+A. India House — London hub linked to Shyamji Krishna Varma
+
+B. Ghadar Party — founded 1913 at San Francisco
+
+C. Berlin Committee — 1915 wartime Europe plot
+
+D. Ghadar Party — founded 1915 as the Berlin Committee’s American wing
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Ghadar 1913 ≠ Berlin Committee 1915.
+
+**Logic:** Diaspora party vs wartime Europe plot.
+
+</details>
+
+---
+
+**Q27.** Which of the following statements about Ashfaqulla Khan is/are correct?
+
+1. He is keyed as among the first recorded Muslim freedom fighters hanged in the Kakori cases.
+2. He was hanged at Faizabad on 19 December 1927.
+3. He was hanged at Gorakhpur with Bismil in the same jail.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Faizabad ≠ Gorakhpur hanging places.
+
+</details>
+
+---
+
+**Q28.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|---------|
+| A. Partition effective | 1. 7 August 1905 |
+| B. Boycott Resolution | 2. 16 October 1905 |
+| C. Surat Split | 3. 1907 |
+| D. Partition annulled | 4. 1911 Delhi Durbar |
+
+*Row order is not the answer code.*
+
+A. A-2, B-1, C-3, D-4
+
+B. A-1, B-2, C-4, D-3
+
+C. A-2, B-3, C-1, D-4
+
+D. A-2, B-1, C-4, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Effective date ≠ Boycott Resolution date.
+
+**Logic:** Two 1905 dates must stay distinct.
+
+</details>
+
+---
+
+**Q29.** With reference to *Sarfaroshi* authorship traps, which of the following statements is/are correct?
+
+1. The poem *Sarfaroshi ki tamanna* is associated with Bismil Azimabadi (Patna).
+2. Ram Prasad Bismil of Shahjahanpur is the Kakori martyr — a different person from the poem’s author tag.
+3. Both names refer to one person who wrote the poem in Faizabad jail.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Poet Bismil Azimabadi ≠ martyr Ram Prasad Bismil.
+
+</details>
+
+---
+
+**Q30.** Which of the following statements is/are correct regarding the end of open Swadeshi and the revolutionary turn?
+
+1. After Surat 1907 and repression, open Swadeshi politics weakened.
+2. Youth movement into secret societies intensified in the following years.
+3. Extremist Congress methods and revolutionary bombs remained legally and organisationally identical throughout.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Course → Result: open politics fades; underground rises — still not the same category.
+
+</details>
 
 ## Common Traps — Don't Fall For These
 

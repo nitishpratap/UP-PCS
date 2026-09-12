@@ -1365,1384 +1365,673 @@ D. Rajasthan
 
 ---
 
-## Practice Zone — UPPCS Format Questions
+## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden** — click **Show answer** under each question to reveal.
-> **Format mix:** 65 questions — Match List | multi-statement | Assertion–Reason | NOT correctly matched | direct recall (PYQ + syllabus gaps)
+> **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D
 
-**Q1.** Dudhwa National Park is in:
+**Q1.** With reference to protected areas in Uttar Pradesh, which of the following statements is/are correct?
 
-**Options:**
+1. Dudhwa is UP’s only National Park and lies in Lakhimpur Kheri.
+2. Chandraprabha sanctuary is in Chandauli.
+3. Katarniaghat (1975) is in Bahraich.
 
-A. Bahraich
+Select the correct answer from the code given below:
 
-B. Lakhimpur Kheri
-
-C. Pilibhit
-
-D. Sitapur
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q2.** Chandraprabha Wildlife Sanctuary is in:
-
-**Options:**
-
-A. Sonbhadra
-
-B. Chandauli
-
-C. Bahraich
-
-D. Lakhimpur Kheri
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: D.** All three are correct.
+
+**Logic:** Do not crown Pilibhit as a National Park.
 
 </details>
 
----
+**Q2.** Which of the following pairs is/are **NOT** correctly matched?
 
-**Q3.** UP wildlife sanctuary established in 1975:
+1. UP forest cover — about 6% of TGA
+2. ISFR >20% forest districts fact — Chandauli and Shravasti
+3. Forest cover — 12.8% as the standard teaching figure
 
-**Options:**
-
-A. Chambal
-
-B. Katarniaghat
-
-C. Raipur
-
-D. Kishanpur
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q4.** Forests ~12.8% of UP TGA; Jaunpur–Ghazipur–Ballia have no forest land.
-
-**Options:**
-
-A. Only 1
-
-B. Both
-
-C. Only 2
-
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q5.** ISFR 2023 districts in UP with forest >20% of area:
-
-1. Bahraich 2. Chandauli 3. Shravasti
-
-**Options:**
-
-A. 1 and 2
-
-B. Only 3
-
-C. 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q6.** Ramsar sites NOT in Uttar Pradesh:
-
-1. Sarsai Nawar Jheel 2. Samaspur Bird Sanctuary 3. Rudrasagar Lake 4. Sultanpur National Park
-
-**Options:**
-
-A. 1 and 3
-
-B. 3 and 4
-
-C. 2 and 3
-
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q7.** Devipatan Division districts:
-
-1. Basti 2. Bahraich 3. Balrampur
-
-**Options:**
-
-A. Only 1 and 2
-
-B. Only 3
-
-C. Only 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q8.** District sharing a boundary with only one other UP district:
-
-1. Lalitpur 2. Saharanpur 3. Sonbhadra
-
-**Options:**
-
-A. Only 1 and 2
-
-B. All three
-
-C. Only 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q9.** UP leading potato producer; CIP South Asia centre at Aligarh.
-
-**Options:**
-
-A. Only 2
-
-B. Neither
-
-C. Both
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Centre is **Agra (Singna)**.
-
-</details>
-
----
-
-**Q10.** Dam NOT in Uttar Pradesh:
-
-**Options:**
-
-A. Badua
-
-B. Adwa
-
-C. Baghelkhand
-
-D. Ahraura
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q11.** Lowest female literacy district, Census 2011:
-
-**Options:**
-
-A. Rampur
-
-B. Balrampur
-
-C. Shrawasti
-
-D. Bahraich
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q12.** Smallest area among these:
-
-**Options:**
-
-A. Hamirpur
-
-B. Hardoi
-
-C. Hathras
-
-D. Hapur
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q13.** Cities by 2011 population, descending:
-
-I Ghaziabad II Kanpur III Agra IV Lucknow
-
-**Options:**
-
-A. III, II, I, IV
-
-B. II, I, IV, III
-
-C. II, IV, I, III
-
-D. I, II, III, IV
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Kanpur > Lucknow > Ghaziabad > Agra (UA).
-
-</details>
-
----
-
-**Q14.** Western UP is more developed; it witnessed the Green Revolution.
-
-**Options:**
-
-A. Neither
-
-B. Both
-
-C. Only 2
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q15.** Uttar Pradesh Day:
-
-**Options:**
-
-A. 26 January
-
-B. 25 January
-
-C. 24 January
-
-D. 23 January
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q16.** ODOP pair NOT correctly matched (2022 list):
-
-**Options:**
-
-A. Gautam Buddh Nagar — Readymade Garments
-
-B. Amethi — Moonz Products
-
-C. Agra — Leather Products
-
-D. Baghpat — Wooden Toys
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q17.** Moonj products (ODOP) districts:
-
-1. Amethi 2. Sultanpur 3. Sant Kabir Nagar
-
-**Options:**
-
-A. 1 and 3
-
-B. Only 3
-
-C. 2 and 3
-
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q18.** River tagged ‘biological disaster’ by pollution in the 2018 paper:
-
-**Options:**
-
-A. Yamuna
-
-B. Gomati
-
-C. Sai
-
-D. Tamsa
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q19.** How many National Parks does UP have?
-
-**Options:**
-
-A. One (Dudhwa)
-
-B. Two
-
-C. Four (counting all TRs)
-
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q20.** Mar and Kabar soils are:
-
-**Options:**
-
-A. Bundelkhand red
-
-B. Bundelkhand black
-
-C. Terai peat only
-
-D. Usar saline crust
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q21.** Parua and Rakar are:
-
-**Options:**
-
-A. Bundelkhand red
-
-B. Bundelkhand black
-
-C. Bhabar pebbles
-
-D. Vindhyan Bhonta
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q22.** UP’s only foreign land neighbour:
-
-**Options:**
-
-A. China
-
-B. Nepal
-
-C. Bhutan
-
-D. Bangladesh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q23.** Assertion (A): Dudhwa is in Bahraich.
-
-Reason (R): Katarniaghat sanctuary is in Bahraich.
-
-**Options:**
-
-A. Both true and R explains A
-
-B. Both true, R does not explain A
-
-C. A true, R false
-
-D. A false, R true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q24.** India’s 100th Ramsar site (June 2026) in UP is:
-
-**Options:**
-
-A. Sultanpur, Haryana tagged as UP
-
-B. Surha Tal / JP Narayan BS, Ballia
-
-C. Chilika
-
-D. Rudrasagar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q25.** Narora is important for:
-
-**Options:**
-
-A. Nuclear power
-
-B. Aluminium smelting only
-
-C. The only UP National Park
-
-D. CIP potato HQ
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q26.** Renukoot is associated with:
-
-**Options:**
-
-A. HINDALCO aluminium, Sonbhadra
-
-B. Dudhwa NP
-
-C. Devipatan HQ
-
-D. Moonj of Baghpat
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q27.** Consider:
-
-1. CIP potato centre is at Singna, Agra.
-2. IRRI-SARC rice centre is at Varanasi.
-
-**Options:**
+Select the correct answer from the code given below:
 
 A. 1 only
-
-B. 2 only
-
-C. Both
-
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q28.** Bhabar is:
-
-**Options:**
-
-A. Marshy fertile Terai
-
-B. Pebbly porous foothill where streams sink
-
-C. Black Mar of Jhansi
-
-D. Usar of the doab
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q29.** Which is **not** a Bundelkhand district?
-
-**Options:**
-
-A. Lalitpur
-
-B. Bahraich
-
-C. Jhansi
-
-D. Hamirpur
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q30.** GB Pant Sagar / Rihand is in:
-
-**Options:**
-
-A. Lakhimpur Kheri
-
-B. Sonbhadra
-
-C. Meerut
-
-D. Shrawasti
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q31.** Which of the following is/are correct?
-
-1. Ramganga joins the Ganga near Kannauj.
-2. Betwa joins the Yamuna near Prayagraj.
-
-**Options:**
-
-A. Only 1
-
-B. Only 2
-
-C. Both
-
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Betwa joins at **Hamirpur**.
-
-</details>
-
----
-
-**Q32.** How many of the following are Tiger Reserves in UP (not extra NPs)?
-
-1. Pilibhit 2. Amangarh 3. Dudhwa 4. Ranipur
-
-**Options:**
-
-A. Only two
-
-B. Only three
-
-C. All four
-
-D. Only one
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Dudhwa is NP **and** a TR complex.
-
-</details>
-
----
-
-**Q33.** Yamuna right-bank tributaries west → east:
-
-1. Betwa 2. Ken 3. Sindh 4. Chambal
-
-**Options:**
-
-A. 4, 3, 1, 2
-
-B. 1, 2, 3, 4
-
-C. 2, 1, 4, 3
-
-D. 4, 1, 2, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Chambal → Sind → Betwa → Ken.
-
-</details>
-
----
-
-**Q34.** Firozabad is famous for:
-
-**Options:**
-
-A. Glass (Shankargarh silica story)
-
-B. Dudhwa tigers
-
-C. Moonj of Amethi only
-
-D. Nuclear Narora
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q35.** Aligarh is famous for:
-
-**Options:**
-
-A. Facts
-
-B. The CIP potato campus (false 2025 stmt)
-
-C. The only NP
-
-D. Devipatan HQ
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q36.** Moradabad is famous for:
-
-**Options:**
-
-A. Brassware
-
-B. Chandraprabha
-
-C. Lalitpur peninsula
-
-D. Surha Tal
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q37.** Which statement(s) is/are correct?
-
-1. UP is ~90% alluvial.
-2. Mar is Bundelkhand black soil.
-
-**Options:**
-
-A. 1 only
-
-B. 2 only
-
-C. Both
-
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q38.** Sonbhadra energy belt includes:
-
-**Options:**
-
-A. Obra / Anpara thermal + Rihand
-
-B. Only Dudhwa NP
-
-C. Only potato CIP
-
-D. Only Sharda Canal head
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q39.** Built Purvanchal Expressway **does** pass:
-
-**Options:**
-
-A. Basti city as the main alignment
-
-B. Azamgarh and Mau towards Ballia
-
-C. Lalitpur plateau
-
-D. Dudhwa core
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q40.** Census 2011 sex ratio of UP was about:
-
-**Options:**
-
-A. 912
-
-B. 1084
-
-C. 800 exactly
-
-D. 1200
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q41.** Nawabganj Bird Sanctuary is in:
-
-**Options:**
-
-A. Unnao
-
-B. Sonbhadra
-
-C. Lalitpur
-
-D. Jhansi
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q42.** Assertion (A): Pilibhit is a National Park.
-
-Reason (R): UP’s only National Park is Dudhwa.
-
-**Options:**
-
-A. Both true and R explains A
-
-B. Both true, R does not explain A
-
-C. A true, R false
-
-D. A false, R true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Pilibhit is a **Tiger Reserve**.
-
-</details>
-
----
-
-**Q43.** Which of the following is/are correct?
-
-1. NER headquarters is at Gorakhpur.
-2. Kushinagar airport got international status on 24 June 2020.
-3. Amrit Bharat identified 149 UP stations for new railway lines (Feb 2023).
-
-**Options:**
-
-A. Only 1 and 2
-
-B. All three
-
-C. Only 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Amrit Bharat is station **modernisation**, not new lines.
-
-</details>
-
----
-
-**Q44.** How many of these are correct?
-
-1. Shrawasti = lowest female literacy 2011
-2. Hapur = smallest area among the 2021 four
-3. Bahraich = Dudhwa NP district
-
-**Options:**
-
-A. Only one
-
-B. Only two
-
-C. All three
-
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 2. Dudhwa = Kheri.
-
-</details>
-
----
-
-**Q45.** Sur Sarovar (Keetham) Ramsar is near:
-
-**Options:**
-
-A. Agra
-
-B. Lakhimpur Kheri
-
-C. Shrawasti
-
-D. Lalitpur
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q46.** HRIDAY cities of Uttar Pradesh are:
-
-1. Varanasi 2. Mathura 3. Prayagraj 4. Ayodhya
-
-**Options:**
-
-A. 1 only
-
 B. 3 only
-
-C. 1 and 2
-
-D. 1, 2, 3 and 4
+C. 1 and 2 only
+D. 2 and 3 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: B.** Only statement/pair 3 is not correctly matched.
+
+**Logic:** 12.8% is the trap; ~6% is the desk figure.
 
 </details>
 
----
+**Q3.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Q47.** 2018 Indus sites in present UP:
+Assertion (A): Rudrasagar, Sultanpur and Surinsar–Mansar are Ramsar sites of Uttar Pradesh.
 
-**Options:**
+Reason (R): UP’s Ramsar total in current teaching is 13, and India’s 100th Ramsar is Surha Tal (Ballia).
 
-A. Kalibangan and Lothal
+Select the correct answer from the code given below:
 
-B. Alamgirpur and Hulas
-
-C. Mohenjodaro and Harappa
-
-D. Dholavira and Rakhigarhi
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B.** (A) is false, but (R) is true.
+
+**A/R logic:** Those three are NOT-in-UP Ramsar traps; Surha Tal/Ballia and count 13 are correct.
 
 </details>
 
----
+**Q4.** Match List-I with List-II and select the correct answer using the code given below the lists:
 
-**Q48.** Usar / reh in UP is:
+| List-I | List-II |
+|--------|--------|
+| A. Devipatan HQ | 1. Hamirpur |
+| B. Ramganga–Ganga meet | 2. Gonda |
+| C. Betwa–Yamuna meet | 3. Kannauj |
+| D. Gomti origin | 4. Pilibhit |
 
-**Options:**
+Code:
 
-A. Saline–sodic patch
-
-B. Black Mar
-
-C. Bhabar pebble
-
-D. Laterite of Sonbhadra only
+A. A-2, B-1, C-3, D-4
+B. A-3, B-2, C-1, D-4
+C. A-2, B-3, C-1, D-4
+D. A-4, B-3, C-1, D-2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: C.** Devipatan–Gonda; Ramganga–Kannauj; Betwa–Hamirpur; Gomti–Pilibhit.
+
+**Logic:** Basti is the Devipatan trap; Prayagraj is the Betwa trap.
 
 </details>
 
----
+**Q5.** Arrange Yamuna right-bank tributaries west to east:
 
-**Q49.** Lucknow stands on the:
+1. Betwa
+2. Chambal
+3. Ken
+4. Sind
 
-**Options:**
+Select the correct answer from the code given below:
 
-A. Gomti
-
-B. Yamuna
-
-C. Betwa
-
-D. Rihand
+A. 4-2-1-3
+B. 2-1-4-3
+C. 2-4-1-3
+D. 2-4-3-1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: C.** Chambal → Sind → Betwa → Ken.
+
+**Logic:** Do not put Ken first.
 
 </details>
 
----
+**Q6.** With reference to Bundelkhand soils, which of the following statements is/are correct?
 
-**Q50.** Which is correct?
+1. Mar/Kabar are black; Parua/Rakar are red.
+2. About 90% of UP is alluvial.
+3. Usar needs gypsum and drainage.
 
-**Options:**
+Select the correct answer from the code given below:
 
-A. UP forest cover is about 6% of TGA
-
-B. UP forest cover is 12.8% of TGA in current ISFR
-
-C. Ballia has dense reserved forest as its identity
-
-D. Bahraich was an ISFR 2023 >20% district with Chandauli
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: D.** All three are correct.
+
+**Logic:** Do not swap Mar/Parua colour tags.
 
 </details>
 
----
+**Q7.** Consider the following statements about irrigation and canals:
 
-
-**Q51.** Which district extreme is correctly matched?
-
-A. Northernmost — Ballia
-
-B. Southernmost — Sonbhadra
-
-C. Easternmost — Shamli
-
-D. Westernmost — Saharanpur
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — N Saharanpur · S Sonbhadra · E Ballia · W Shamli.
-</details>
-
----
-
-**Q52.** Among the usual UP rainfall name facts, which is correct?
-
-A. Mathura highest · Gorakhpur lowest
-
-B. Gorakhpur higher · Mathura lower
-
-C. Both equal desert rainfall
-
-D. Only Sonbhadra receives monsoon
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q53.** Which statement about UP irrigation is/are correct?
-
-1. Tubewells dominate share in many standard figures.
-2. Western UP faces groundwater over-exploitation / dark-zone pressure.
+1. Tubewells dominate (~75%); canals are smaller share (~15%).
+2. Western UP faces groundwater dark-zone pressure.
 3. Saryu Canal National Project serves eastern UP.
 
+Which of the statements given above is/are correct?
+
 A. 1 and 2 only
-
 B. 2 and 3 only
-
 C. 1 and 3 only
-
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: D.** All three are correct.
+
+**Logic:** Do not teach canals as universal dominant irrigation.
+
 </details>
 
----
+**Q8.** Which of the following pairs is/are correctly matched?
 
-**Q54.** Bangar soil is:
+1. District extremes — N Saharanpur, S Sonbhadra, E Ballia, W Shamli
+2. Rain — Gorakhpur highest / Mathura lowest among common options
+3. Lalitpur — only one UP-district neighbour
 
-A. New floodplain khadar only
+Select the correct answer from the code given below:
 
-B. Old alluvium, often with kankar
-
-C. Only Bundelkhand Mar black
-
-D. Only Vindhyan Bhonta
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: D.** All three are correct.
+
+**Logic:** Do not swap Ballia with Sonbhadra on E/S extremes.
+
 </details>
 
----
+**Q9.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Q55.** Assertion (A): Dudhwa is UP’s only National Park.
-Reason (R): Pilibhit is therefore not a protected area of any kind.
+Assertion (A): The Tropic of Cancer crosses Uttar Pradesh.
 
-A. Both A and R are true and R explains A
+Reason (R): Nanda Devi lies in Uttarakhand, not UP.
 
-B. Both A and R are true but R does not explain A
+Select the correct answer from the code given below:
 
-C. A is true but R is false
-
-D. A is false but R is true
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Pilibhit is a **Tiger Reserve**.
+**Ans: B.** (A) is false, but (R) is true.
+
+**A/R logic:** Tropic skips UP; Nanda Devi is Uttarakhand.
+
 </details>
 
----
+**Q10.** Match List-I with List-II and select the correct answer using the code given below the lists:
 
-**Q56.** Which pair is NOT correctly matched?
+| List-I | List-II |
+|--------|--------|
+| A. CIP potato centre | 1. Renukoot, Sonbhadra |
+| B. HINDALCO aluminium | 2. Singna, Agra |
+| C. Shankargarh silica → | 3. Firozabad glass |
+| D. Mathura | 4. Oil refinery |
 
-A. CIP potato centre — Singna, Agra
+Code:
 
-B. IRRI-SARC rice centre — Varanasi
-
-C. HINDALCO aluminium — Renukoot, Sonbhadra
-
-D. NER headquarters — Hajipur
+A. A-1, B-2, C-4, D-3
+B. A-2, B-1, C-3, D-4
+C. A-2, B-3, C-1, D-4
+D. A-4, B-1, C-2, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — NER = **Gorakhpur**.
+**Ans: B.** CIP–Agra Singna; HINDALCO–Renukoot; silica–Firozabad; Mathura refinery.
+
+**Logic:** Aligarh is the CIP trap.
+
 </details>
 
----
+**Q11.** With reference to Census 2011 desk facts, which of the following statements is/are correct?
 
-**Q57.** State animal and state bird of UP are:
+1. Lowest female literacy among common facts — Shrawasti.
+2. Smallest-area trap among listed four — Hapur.
+3. City order Kanpur > Lucknow > Ghaziabad > Agra.
 
-A. Tiger and peacock
+Select the correct answer from the code given below:
 
-B. Swamp deer (barasingha) and Sarus crane
-
-C. Elephant and sparrow
-
-D. Blackbuck and bulbul only
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: D.** All three are correct.
+
+**Logic:** Ranks stay frozen to Census 2011 until the next census.
+
 </details>
 
----
+**Q12.** Which of the following is/are **NOT** correctly matched?
 
-**Q58.** Which of the following is/are correctly matched?
+1. Central Smart Cities list of 10 — Ghaziabad included
+2. NER HQ — Gorakhpur
+3. HRIDAY in UP — Varanasi and Mathura
 
-1. Moradabad — brass
-2. Aligarh — facts
-3. Firozabad — glass
-4. Bhadohi — carpets
+Select the correct answer from the code given below:
 
-A. 1, 2 and 3 only
+A. 1 and 3 only
+B. 2 only
+C. 1 only
+D. 2 and 3 only
 
-B. 2, 3 and 4 only
+<details>
+<summary>Show answer</summary>
 
+**Ans: C.** Only pair 1 is not correctly matched.
+
+**Logic:** Ghaziabad is out of the Central-10 Smart City list in teaching.
+
+</details>
+
+**Q13.** Arrange physiographic belts from north pebble soak to southern energy fringe teaching:
+
+1. Vindhyan / Sonbhadra–Mirzapur energy fringe
+2. Bhabar
+3. Terai
+4. Alluvial plain / doab belts
+
+Select the correct north→south teaching order:
+
+A. 3-2-4-1
+B. 2-3-4-1
+C. 2-4-3-1
+D. 2-3-1-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Bhabar → Terai → alluvial/doab → Vindhyan fringe.
+
+**Logic:** Bhabar pebble soak; Terai marshy re-emergence.
+
+</details>
+
+**Q14.** With reference to Bangar and Khadar, which of the following statements is/are correct?
+
+1. Bangar is older alluvium with kankar.
+2. Khadar is newer floodplain.
+3. Bhabar and Terai are identical to Bangar.
+
+Select the correct answer from the code given below:
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2 are correct.
+
+**Logic:** Bhabar/Terai are piedmont belts, not Bangar synonyms.
+
+</details>
+
+**Q15.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): UP leads potato quantity and CIP’s South Asia centre fact is Singna, Agra.
+
+Reason (R): UP is a classic jute, tea and rubber state like West Bengal/Assam/Kerala.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** (A) is true, but (R) is false.
+
+**A/R logic:** Potato/CIP Agra is correct; jute/tea/rubber are wrong dumps for UP.
+
+</details>
+
+**Q16.** Consider the following canal/project pairs:
+
+1. Upper Ganga — Bhimgoda/Haridwar (1854)
+2. Lower Ganga — Narora (1878)
+3. Sharda — Banbasa; longest UP system length among classics
+4. Badua dam — landmark hydel of eastern UP
+
+Which of the statements given above is/are correct?
+
+A. 2, 3 and 4 only
+B. 1, 2 and 3 only
 C. 1, 3 and 4 only
-
 D. 1, 2, 3 and 4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: B.** Only 1, 2 and 3 are correct.
+
+**Logic:** Badua dam is not in UP.
+
 </details>
 
----
+**Q17.** Match List-I with List-II and select the correct answer using the code given below the lists:
 
-**Q59.** Köppen tag commonly taught for the UP Gangetic plain is:
+| List-I (Region) | List-II (Tag) |
+|------------------|---------------|
+| A. Doab | 1. Ramganga belt |
+| B. Awadh | 2. Ganga–Yamuna |
+| C. Rohilkhand | 3. Gomti–Ghaghara |
+| D. Purvanchal | 4. Eastern rice belt |
 
-A. Af equatorial only
+Code:
 
-B. Cwg (monsoon, dry winter) note
-
-C. ET tundra
-
-D. BW absolute desert for whole UP
+A. A-2, B-3, C-1, D-4
+B. A-3, B-2, C-1, D-4
+C. A-2, B-1, C-3, D-4
+D. A-4, B-3, C-1, D-2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: A.** Doab Ganga–Yamuna; Awadh Gomti–Ghaghara; Rohilkhand Ramganga; Purvanchal east rice.
+
+**Logic:** Vindhyan = Sonbhadra–Mirzapur energy fringe.
+
 </details>
 
----
+**Q18.** With reference to state symbols and dates, which of the following statements is/are correct?
 
-**Q60.** Which canal / project is correctly matched?
+1. State animal = swamp deer; state bird = Sarus crane.
+2. UP Day / name date fact = 24 January; Uttarakhand carved 9 November 2000.
+3. Capital Lucknow; High Court at Prayagraj; 75 districts and 18 divisions.
 
-A. Lower Ganga Canal head — Narora
-
-B. Saryu Canal — only western Mathura dark zones
-
-C. Badua dam — Sonbhadra UP
-
-D. Matatila — Ganga at Kannauj
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Badua ≠ UP; Matatila = Betwa / Lalitpur; Saryu = eastern UP.
-</details>
-
----
-
-**Q61.** Westernmost district among the usual extremes is:
-
-A. Ballia
-
-B. Shamli
-
-C. Sonbhadra
-
-D. Maharajganj
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q62.** Which statement is correct?
-
-A. Tropic of Cancer passes through Lucknow
-
-B. Tropic of Cancer does not pass through UP
-
-C. Nanda Devi is inside present UP
-
-D. UP has a seaport at Ballia
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q63.** Which of the following is/are correctly matched?
-
-1. Hastinapur WS — Meerut–Bijnor–Amroha belt
-2. Chandraprabha WS — Chandauli
-3. Katarniaghat — Bahraich
+Select the correct answer from the code given below:
 
 A. 1 and 2 only
-
 B. 2 and 3 only
-
 C. 1 and 3 only
-
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: D.** All three are correct.
+
+**Logic:** Most populous state; fourth by area among Indian states.
+
 </details>
 
----
+**Q19.** Which of the following pairs is/are correctly matched?
 
-**Q64.** Mentha (mint) belt in UP is classically:
+1. Kushinagar international airport — opened 24 June 2020
+2. Amrit Bharat stations fact — 149
+3. Jewar — Noida International Airport host
 
-A. Only Sonbhadra plateau
+Select the correct answer from the code given below:
 
-B. Rohilkhand
-
-C. Only Chambal ravines
-
-D. Only Ballia forest
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: D.** All three are correct.
+
+**Logic:** Transport desk for recent UP map facts.
+
 </details>
 
----
+**Q20.** With reference to Nepal-border districts, which of the following statements is/are correct?
 
-**Q65.** Which pair is NOT correctly matched?
+1. They include Pilibhit, Kheri, Bahraich, Shravasti, Balrampur, Siddharthnagar and Maharajganj.
+2. UP’s only foreign neighbour is Nepal.
+3. Devipatan division includes Basti as HQ.
 
-A. Lakhimpur Kheri — largest area (standard fact)
+Select the correct answer from the code given below:
 
-B. Shrawasti — lowest female literacy 2011
-
-C. Hapur — smallest among the 2021 four options
-
-D. Devipatan — Basti headquarters
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Devipatan HQ = **Gonda**.
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Devipatan HQ is Gonda, not Basti.
+
 </details>
 
----
+**Q21.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Matatila is on the Betwa in Lalitpur.
+
+Reason (R): Ken–Betwa is the Bundelkhand national link project under implementation.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; R does not explain A.
+
+**A/R logic:** Both are correct water facts but Matatila’s site is not explained by Ken–Betwa’s national-link status.
+
+</details>
+
+**Q22.** Which one of the following is correct about Sonbhadra?
+
+A. It is taught as UP’s energy capital and hosts Renukoot aluminium.
+B. It is UP’s only National Park district.
+C. It is the westernmost district.
+D. It has the CIP potato centre.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Sonbhadra = energy capital; Renukoot = HINDALCO.
+
+**Logic:** Dudhwa/Kheri = only NP; Shamli = west extreme; CIP = Agra.
+
+</details>
+
+**Q23.** With reference to Chambal Sanctuary and minerals, which of the following statements is/are correct?
+
+1. Chambal Sanctuary spans UP–MP–RJ — not Haryana.
+2. Sonrai copper is in Lalitpur.
+3. Mentha facts sit on Rohilkhand.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are correct.
+
+**Logic:** Reject Haryana-only Chambal dumps.
+
+</details>
+
+**Q24.** Which of the following pairs is/are **NOT** correctly matched?
+
+1. Amangarh — Bijnor tiger reserve tag
+2. Ranipur — Chitrakoot TR tag
+3. Chandraprabha — Sonbhadra sanctuary
+
+Select the correct answer from the code given below:
+
+A. 1 only
+B. 3 only
+C. 1 and 2 only
+D. 2 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only pair 3 is not correctly matched.
+
+**Logic:** Chandraprabha is in Chandauli.
+
+</details>
+
+**Q25.** Arrange city population order (Census 2011 teaching):
+
+1. Ghaziabad
+2. Kanpur
+3. Agra
+4. Lucknow
+
+Select the correct answer from the code given below:
+
+A. 2-4-1-3
+B. 4-2-1-3
+C. 2-1-4-3
+D. 2-4-3-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Kanpur > Lucknow > Ghaziabad > Agra.
+
+**Logic:** Do not put Lucknow first.
+
+</details>
+
+**Q26.** With reference to eastern UP hydel limits, which of the following statements is/are correct?
+
+1. Eastern UP hydel is constrained by the Nepal Himalaya setting in teaching.
+2. Ken–Betwa addresses Bundelkhand water stress across MP–UP.
+3. Badua dam is the signature eastern UP hydel answer.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Badua is not in UP.
+
+</details>
+
+**Q27.** Match List-I with List-II and select the correct answer using the code given below the lists:
+
+| List-I | List-II |
+|--------|--------|
+| A. Surha Tal / JP Narayan BS | 1. Not in Central-10 Smart Cities |
+| B. Ghaziabad | 2. Ballia; India’s 100th Ramsar |
+| C. Jaunpur–Ghazipur–Ballia | 3. Almost no forest land |
+| D. Sonrai | 4. Copper (Lalitpur) |
+
+Code:
+
+A. A-2, B-1, C-3, D-4
+B. A-1, B-2, C-4, D-3
+C. A-2, B-3, C-1, D-4
+D. A-4, B-1, C-2, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Surha Tal Ballia; Ghaziabad out of Smart-10; east plain low forest; Sonrai copper.
+
+**Logic:** Keep Ramsar NOT-in-UP list separate from Surha Tal.
+
+</details>
+
+**Q28.** Consider the following statements about Mau and Purvanchal Expressway teaching:
+
+1. The built corridor passes Mau on today’s map diet.
+2. Blind ‘not Mau’ older stems should not overwrite the built corridor fact.
+3. NER HQ is Hajipur, not Gorakhpur.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** NER HQ = Gorakhpur.
+
+</details>
+
+**Q29.** Which one of the following correctly states a Gomti fact?
+
+A. The Gomti rises in Pilibhit (Madho Tala teaching).
+B. The Gomti rises at Prayagraj.
+C. The Gomti meets the Yamuna at Hamirpur.
+D. The Gomti is UP’s only National Park river.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Gomti origin = Pilibhit.
+
+**Logic:** Betwa meets Yamuna at Hamirpur; Dudhwa is the NP fact.
+
+</details>
+
+**Q30.** With reference to UP agriculture tags, which of the following statements is/are correct?
+
+1. UP leads potato quantity among Indian states in teaching.
+2. Mentha is associated with Rohilkhand.
+3. UP equals West Bengal as a jute state.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** UP–jute is a wrong dump.
+
+</details>
 
 ## Common Traps — Don't Fall For These
 

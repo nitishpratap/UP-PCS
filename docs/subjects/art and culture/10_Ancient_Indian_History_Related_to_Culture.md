@@ -648,216 +648,385 @@ D. Manigrama
 
 ## Practice Zone — UPPCS Format Drill
 
-**35 questions.** ≥60% multi-statement. A/R, Match-List, chronology, NOT-matched included.
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-**Q1.** With reference to the Indus Valley Civilization, which of the following statements is/are correct?
+**Q1.** With reference to Indus Valley cultural remains, which of the following statements is/are correct?
 
-1. Cities typically show a grid plan and covered drains.
-2. The Great Bath is at Harappa.
-3. Cotton was known.
+1. Steatite seals and terracotta mother goddess figurines are Indus art facts.
+2. The Dancing Girl is a lost-wax bronze figurine.
+3. Northern Black Polished Ware is the classic Indus pottery of Mature Harappan cities.
 
-A. 1 and 2 only
-B. 1 and 3 only
+A. 1 and 3 only
+B. 1 and 2 only
 C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Great Bath = Mohenjo-daro.
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** NBPW is a Mauryan fine pottery fact, not Mature Harappan ware.
 
 </details>
 
-**Q2.** Match List-I with List-II.
+**Q2.** Consider the following pairs:
 
-**List-I**
-A. Alamgirpur
-B. Rakhigarhi
-C. Lothal
-D. Manda
+| School | Material / region |
+|--------|-------------------|
+| 1. Gandhara | Grey schist; north-west Greco-Roman style |
+| 2. Mathura | Red sandstone; indigenous; Uttar Pradesh |
+| 3. Amaravati | Black basalt freestanding icons of Punjab |
 
-**List-II**
-1. Gujarat dockyard
+Which of the pairs given above is/are correctly matched?
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only pairs 1 and 2 are correct.
+
+**Logic:** Amaravati uses white limestone narrative panels in Andhra.
+
+</details>
+
+**Q3.** Which of the following pairs is NOT correctly matched?
+
+A. Stupa — solid relic mound
+B. Chaitya — rock-cut prayer hall with apse stupa
+C. Barabar caves — Gupta structural temples
+D. Deogarh / Bhitargaon — early Gupta structural temples
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Barabar caves are Mauryan rock-cut caves, not Gupta structural temples.
+
+**Logic:** Rock-cut versus structural is a standing architecture trap.
+
+</details>
+
+**Q4.** Assertion (A): Alamgirpur in the Meerut belt is the easternmost Indus site.
+Reason (R): Rakhigarhi is in Haryana and is the largest Indus site in India.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+
+**A/R logic:** Both facts are true. Rakhigarhi’s size does not explain Alamgirpur’s eastern edge location.
+
+</details>
+
+**Q5.** Arrange the following cultural phases in chronological order:
+
+1. Gupta structural temples such as Deogarh
+2. Indus urban phase (about 2600–1900 BCE)
+3. Mauryan polish and Barabar rock-cut caves
+4. Bhimbetka rock art
+
+Select the correct order.
+
+A. 2-4-3-1
+B. 4-2-3-1
+C. 4-3-2-1
+D. 4-2-1-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Bhimbetka → Indus → Maurya → Gupta temples.
+
+**Logic:** Prehistoric rock art precedes Indus cities. Gupta temples follow Mauryan rock-cut work.
+
+</details>
+
+**Q6.** With reference to early Buddhist art, which of the following statements is/are correct?
+
+1. Early Sanchi reliefs are largely aniconic.
+2. Bharhut narrative reliefs belong to the Shunga cultural layer.
+3. The human Buddha image is common from the earliest Mauryan polish figures.
+
+A. 2 and 3 only
+B. 1 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2 are correct.
+
+**Logic:** Human Buddha images become common from the Kushan age, not early Mauryan polish.
+
+</details>
+
+**Q7.** Match List-I with List-II and select the correct answer using the code given below the Lists.
+
+**List-I (Site)**
+A. 2 1 4 3
+B. 2 4 1 3
+C. 4 2 1 3
+D. 2 4 3 1
+
+**List-II (State / UT)**
+1. Gujarat
 2. Haryana
-3. Easternmost Harappan (UP)
+3. Uttar Pradesh
 4. Jammu & Kashmir
 
-A. 3 2 1 4
-B. 3 2 4 1
-C. 2 3 1 4
-D. 3 1 2 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q3.** Which of the following pairs is/are NOT correctly matched?
-
-1. Mandi — Uttar Pradesh
-2. Hulas — Haryana
-3. Kalibangan — Rajasthan
-
-A. 1 and 2 only
-B. 2 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Hulas = UP (Saharanpur).
-
-</details>
-
-**Q4.** Assertion (A): Rakhigarhi is an Indus site in Uttar Pradesh.
-Reason (R): Rakhigarhi is among the largest Harappan sites in India.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Rakhigarhi = Haryana.
-
-</details>
-
-**Q5.** Consider the following statements:
-
-1. Boat models are reported from Mohenjo-daro and Lothal.
-2. A ploughed field is an important find at Kalibangan.
-3. The eastern Harappan edge is marked by Manda.
-
-How many of the above statements are correct?
-
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 1 and 2. Eastern edge = Alamgirpur. Manda = north.
-
-</details>
-
-**Q6.** Arrange the following cultural phases in chronological order.
-
-1. Gupta structural temple
-2. Harappan urbanism
-3. Bhimbetka rock paintings
-4. Mauryan polished pillars
-
-A. 3 2 4 1
-B. 2 3 4 1
-C. 3 2 1 4
-D. 3 4 2 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q7.** Match List-I with List-II.
-
-**List-I**
-A. Gandhara
-B. Mathura
-C. Amaravati
-D. Mauryan polish
-
-**List-II**
-1. Red sandstone
-2. Grey schist
-3. Chunar sandstone
-4. Limestone
+*Row order is not the answer code.*
 
 A. 2 1 4 3
-B. 2 1 3 4
-C. 1 2 4 3
-D. 2 4 1 3
+B. 2 4 1 3
+C. 4 2 1 3
+D. 2 4 3 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Ans: B.** Balu–Haryana, Manda–J&K, Padri–Gujarat, Hulas–UP.
+
+**Logic:** Hulas is UP. Do not put Rakhigarhi’s Haryana label on every northern site.
 
 </details>
 
-**Q8.** With reference to Mathura sculpture, which of the following statements is/are correct?
+**Q8.** With reference to Uttar Pradesh Indus and related sites, which of the following statements is/are correct?
 
-1. It uses red sandstone.
-2. It is the main Greco-Roman Buddha school.
-3. The centre lies in present-day Uttar Pradesh.
+1. Mandi and Hulas are UP Indus / related sites.
+2. Sanauli in Baghpat is a late Harappan / OCP chariot site.
+3. Lothal dockyard is an easternmost UP Indus site.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Greco-Roman = Gandhara.
+**Ans: C.** Only 1 and 2 are correct.
+
+**Logic:** Lothal is Gujarat. Easternmost Indus is Alamgirpur.
 
 </details>
 
-**Q9.** Which of the following is NOT correctly matched?
+**Q9.** Which of the following pairs is/are NOT correctly matched?
 
-A. Didarganj Yakshi — Mauryan polish
-B. Sarnath Lion Capital — National Emblem
-C. Dancing Girl — terracotta
-D. Gupta Buddha — dharmachakra mudra at Sarnath
+1. Kalibangan — ploughed-field evidence (Rajasthan)
+2. Chanhudaro — Indus bead craft centre
+3. Mohenjo-daro — easternmost Indus city in India
+
+A. 1 only
+B. 3 only
+C. 2 and 3 only
+D. 1 and 2 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Dancing Girl = bronze, lost-wax.
+**Ans: B.** Only pair 3 is not correctly matched.
+
+**Logic:** Alamgirpur is the easternmost Indus site. Mohenjo-daro is in Sindh.
 
 </details>
 
-**Q10.** Aryaka-pillars on a stupa platform are a feature associated with:
+**Q10.** Assertion (A): A chaitya is a solid relic mound identical to a stupa.
+Reason (R): A chaitya is a rock-cut prayer hall that typically houses an apse stupa.
 
-A. Bodhgaya
-B. Sanchi
-C. Amaravati
-D. Sarnath
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** UPPCS 2022 Q80.
-
-</details>
-
-**Q11.** Assertion (A): Gupta age sees the first structural Hindu temples.
-Reason (R): Bhitargaon is a Gupta brick temple in Uttar Pradesh.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Deogarh (stone) and Bhitargaon (brick) are the usual pair.
+**Ans: B.** (A) is false, but (R) is true.
+
+**A/R logic:** Stupa and chaitya must not be swapped. (R) correctly defines chaitya.
 
 </details>
 
-**Q12.** With reference to Barabar caves, which of the following statements is/are correct?
+**Q11.** With reference to Mauryan and Gupta cultural markers, which of the following statements is/are correct?
 
-1. They are among the earliest surviving rock-cut caves in India.
-2. They are associated with Ajivika occupation.
-3. They are in present-day Uttar Pradesh.
+1. Mauryan polish is famous on Chunar sandstone.
+2. Didarganj Yakshi is a classic Mauryan polish figure.
+3. Ajanta murals are primarily a Mauryan painting fact.
+
+A. 1 and 3 only
+B. 1 and 2 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** Ajanta murals are a Gupta–Vakataka painting fact.
+
+</details>
+
+**Q12.** Consider the following statements about coins and craft:
+
+1. Punch-marked coins are early irregular silver or copper pieces.
+2. Gupta dinara are die-struck gold coins.
+3. Every ancient Indian coin is correctly called a dinara.
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2 are correct.
+
+**Logic:** Dinara specifically points to Gupta gold. Punch-marked pieces are different.
+
+</details>
+
+**Q13.** Match List-I with List-II and select the correct answer using the code given below the Lists.
+
+**List-I**
+A. 2 4 3 1
+B. 2 3 1 4
+C. 3 2 4 1
+D. 2 3 4 1
+
+**List-II**
+1. Mauryan fine pottery
+2. Craft guilds
+3. Itinerant many-country merchants
+4. South Indian high-carbon steel
+
+*Row order is not the answer code.*
+
+A. 2 4 3 1
+B. 2 3 1 4
+C. 3 2 4 1
+D. 2 3 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Sreni–guilds, Nanadesi–itinerant merchants, Wootz–steel, NBPW–Mauryan pottery.
+
+**Logic:** Do not treat Nanadesi as ordinary local guilds.
+
+</details>
+
+**Q14.** With reference to Gupta Sarnath sculpture, which of the following statements is/are correct?
+
+1. The Sarnath Buddha often shows the dharmachakra mudra.
+2. Transparent robe and calm idealism mark the style.
+3. Mathura red-sandstone school is identical to Gupta Sarnath schist work.
+
+A. 1 and 3 only
+B. 1 and 2 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** Mathura is red sandstone UP school. Gupta Sarnath is a different peak style.
+
+</details>
+
+**Q15.** Arrange the following discoveries / associations in a coherent Indus–UP cultural map sense from west/core facts to eastern UP edge:
+
+1. Alamgirpur as easternmost Indus site
+2. Mohenjo-daro Great Bath
+3. Lothal dock (Gujarat)
+
+Which sequence best reflects core Indus city → western Indian dock → eastern UP edge?
+
+A. 3-2-1
+B. 1-2-3
+C. 2-3-1
+D. 2-1-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Great Bath (core) → Lothal dock → Alamgirpur eastern edge.
+
+**Logic:** Alamgirpur is easternmost. Lothal is Gujarat dock, not UP.
+
+</details>
+
+**Q16.** With reference to Indus agriculture and craft, which of the following statements is/are correct?
+
+1. Wheat, barley and cotton appear in the Indus crop map.
+2. Cotton is only a modern crop with no Indus evidence.
+3. Boat / dock evidence is linked with Mohenjo-daro and Lothal.
+
+A. 1 and 3 only
+B. 1 and 2 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 3 are correct.
+
+**Logic:** Cotton is an Indus fact. Statement 2 is false.
+
+</details>
+
+**Q17.** Which one of the following is NOT an Uttar Pradesh Indus / related site fact?
+
+A. Alamgirpur
+B. Hulas
+C. Mandi
+D. Rakhigarhi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Rakhigarhi is in Haryana.
+
+**Logic:** UP list centres on Alamgirpur, Mandi, Hulas (and Sanauli as related chariot site).
+
+</details>
+
+**Q18.** Assertion (A): Rock-cut architecture such as Barabar is carved into living rock.
+Reason (R): Gupta-age structural temples are freestanding buildings rather than caves alone.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+
+**A/R logic:** Both statements are true cultural facts. (R) describes structural temples; it does not explain why rock-cut caves exist.
+
+</details>
+
+**Q19.** With reference to Indus versus Rigvedic cultural stages, which of the following statements is/are correct?
+
+1. Indus cities show urban brick planning, seals and drains.
+2. Early Rigvedic society is largely pastoral in the standard teaching contrast.
+3. Both stages are treated as one identical urban culture phase.
 
 A. 1 and 2 only
 B. 1 and 3 only
@@ -867,15 +1036,19 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Bihar. Ashoka / Dasharatha.
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Do not collapse Indus urban and early Rigvedic pastoral into one stage.
 
 </details>
 
-**Q13.** Consider the following pairs:
+**Q20.** Consider the following pairs:
 
-1. Stupa — relic mound
-2. Chaitya — rock-cut prayer hall
-3. Vihara — monastery
+| Site / object | Tag |
+|---------------|-----|
+| 1. Mathura | Red-sandstone school home in UP |
+| 2. Sarnath | Lion Capital and Gupta Buddha |
+| 3. Bhitargaon | Gupta brick temple, Kanpur belt |
 
 Which of the pairs given above is/are correctly matched?
 
@@ -887,220 +1060,33 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Ans: D.** All three pairs are correct.
+
+**Logic:** Mathura, Sarnath and Bhitargaon are core UP cultural sites.
 
 </details>
 
-**Q14.** Match List-I with List-II.
+**Q21.** Which of the following pairs is NOT correctly matched?
 
-**List-I**
-A. Indus Valley Civilization
-B. Rigvedic Society
-C. Later Vedic Society
-D. Medieval Period
-
-**List-II**
-1. Pastoral
-2. Landlordism
-3. Agrarian
-4. Urban
-
-A. 4 1 3 2
-B. 4 3 1 2
-C. 3 1 4 2
-D. 4 1 2 3
+A. Terracotta mother goddess — Indus
+B. Dancing Girl — lost-wax bronze
+C. Punch-marked coins — Gupta die-struck gold
+D. Ahichhatra / Kaushambi — UP terracotta centres
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Same fact as 2020 Q21.
+**Ans: C.** Punch-marked coins are early irregular metal pieces, not Gupta dinara.
+
+**Logic:** Gupta dinara are die-struck gold.
 
 </details>
 
-**Q15.** With reference to Harappan agriculture, which of the following statements is/are correct?
+**Q22.** With reference to architecture spine facts, which of the following statements is/are correct?
 
-1. Wheat and barley were staple cereals.
-2. Maize was a major crop.
-3. Cotton was known.
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Maize is New World.
-
-</details>
-
-**Q16.** Which of the following pairs is NOT correctly matched?
-
-A. Kalibangan — ploughed field
-B. Lothal — dockyard
-C. Chanhudaro — bead factory
-D. Great Bath — Alamgirpur
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** Great Bath = Mohenjo-daro.
-
-</details>
-
-**Q17.** Northern Black Polished Ware is mainly associated with which period?
-
-A. Harappan
-B. Mauryan
-C. Gupta
-D. Sultanate
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.**
-
-</details>
-
-**Q18.** Consider the following statements about ancient coinage:
-
-1. Punch-marked coins are typical of the janapada–Maurya span.
-2. Gupta dinaras are die-struck gold coins.
-3. Punch-marked coins are the standard Gupta gold issue.
-
-How many of the above statements are correct?
-
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 1 and 2.
-
-</details>
-
-**Q19.** Assertion (A): The Dancing Girl is a Harappan bronze.
-Reason (R): It was made by the lost-wax process at Mohenjo-daro.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q20.** Match List-I with List-II.
-
-**List-I**
-A. Sreni
-B. Manigrama
-C. NBPW
-D. Wootz
-
-**List-II**
-1. Mauryan glossy pottery
-2. Ancient craft guild
-3. South Indian crucible steel
-4. Overseas merchant guild
-
-A. 2 4 1 3
-B. 2 4 3 1
-C. 4 2 1 3
-D. 2 1 4 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q21.** With reference to Bhimbetka, which of the following statements is/are correct?
-
-1. It is famous for prehistoric rock paintings.
-2. V.S. Wakankar established its prehistoric importance.
-3. It is in Uttar Pradesh.
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Madhya Pradesh.
-
-</details>
-
-**Q22.** Which of the following sites is/are in present-day Uttar Pradesh?
-
-1. Alamgirpur
-2. Hulas
-3. Padri
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Padri = Gujarat.
-
-</details>
-
-**Q23.** Consider the following about Gupta culture:
-
-1. Gold dinaras are a coinage fact.
-2. First structural Hindu temples appear.
-3. Punch-marked silver is the typical Gupta imperial coin.
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q24.** Arrange the following from north-west to the Gangetic heartland as sculpture schools.
-
-1. Mathura
-2. Gandhara
-3. Sarnath Gupta Buddha
-
-A. 2 1 3
-B. 1 2 3
-C. 2 3 1
-D. 3 2 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Gandhara NW → Mathura UP → Sarnath UP.
-
-</details>
-
-**Q25.** Which of the following pairs is/are correctly matched?
-
-1. Balu — Haryana
-2. Padri — Gujarat
-3. Hulas — Uttar Pradesh
+1. The Great Bath is associated with Mohenjo-daro.
+2. Lothal is famous for a dock.
+3. First structural temples in the Gupta age include Deogarh and Bhitargaon.
 
 A. 1 and 2 only
 B. 2 and 3 only
@@ -1110,90 +1096,27 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** 2020 Q12 set.
+**Ans: D.** All three statements are correct.
+
+**Logic:** Indus grid/drains → Great Bath → Lothal dock → Gupta structural temples is the spine.
 
 </details>
 
-**Q26.** With reference to ancient Indian architecture, which of the following statements is/are correct?
-
-1. Harappan builders used a true radiating arch as the normal span.
-2. Gupta temples are the first structural Hindu temples in the usual key fact.
-3. Sanchi’s Great Stupa core is tied to the Mauryan Buddhist programme.
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Corbel, not true arch, in this span.
-
-</details>
-
-**Q27.** Assertion (A): Alamgirpur marks the eastern boundary of Harappan culture.
-Reason (R): Alamgirpur lies in present-day Meerut district of Uttar Pradesh.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.**
-
-</details>
-
-**Q28.** Chunar sandstone is the usual material fact for:
-
-A. Gandhara Buddha
-B. Amaravati panels
-C. Mauryan pillars
-D. Harappan seals
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.**
-
-</details>
-
-**Q29.** Consider the following statements:
-
-1. Dhamma-mahamatras were appointed in Ashoka’s 14th coronation year.
-2. Didarganj Yakshi is a bronze Harappan figurine.
-3. Ahichhatra is a UP terracotta centre.
-
-How many of the above statements are correct?
-
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** 1 and 3. Didarganj = Mauryan stone polish.
-
-</details>
-
-**Q30.** Match List-I with List-II.
+**Q23.** Match List-I with List-II and select the correct answer using the code given below the Lists.
 
 **List-I**
-A. Deogarh
-B. Bhitargaon
-C. Sarnath
-D. Bharhut
+A. Gandhara
+B. Mathura
+C. Amaravati
+D. Gupta Sarnath
 
 **List-II**
-1. Gupta brick temple in UP
-2. Dashavatara structural temple
-3. Shunga narrative railings
-4. Lion Capital
+1. Red sandstone; UP
+2. Grey schist; Greco-Roman
+3. Dharmachakra mudra ideal Buddha
+4. Limestone narrative; Andhra
+
+*Row order is not the answer code.*
 
 A. 2 1 4 3
 B. 2 1 3 4
@@ -1203,15 +1126,17 @@ D. 2 4 1 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Ans: A.** Gandhara–schist, Mathura–red sandstone UP, Amaravati–limestone, Sarnath–ideal Buddha.
+
+**Logic:** Material and region together decide the school.
 
 </details>
 
-**Q31.** Which of the following is/are Harappan industry facts?
+**Q24.** With reference to Sanauli, which of the following statements is/are correct?
 
-1. Bead-making at Chanhudaro
-2. Wootz steel as the standard Harappan export
-3. Shell bangles at coastal sites
+1. Sanauli lies in Baghpat, Uttar Pradesh.
+2. It is known for late Harappan / OCP chariot finds.
+3. It replaces Alamgirpur as the easternmost Indus city.
 
 A. 1 and 2 only
 B. 1 and 3 only
@@ -1221,76 +1146,124 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Wootz = later South Indian steel.
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Sanauli is an extra UP chariot fact. Easternmost Indus remains Alamgirpur.
 
 </details>
 
-**Q32.** With reference to Vedic economy, which of the following statements is/are correct?
+**Q25.** Assertion (A): Mauryan polish produces a mirror-like finish on Chunar sandstone.
+Reason (R): The Didarganj Yakshi is often cited as a classic example of Mauryan polish.
 
-1. Rigvedic society is classed as pastoral in the 2020 match.
-2. Later Vedic society is classed as agrarian.
-3. Indus civilization is classed as pastoral.
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** IVC = urban.
-
-</details>
-
-**Q33.** Which of the following pairs is NOT correctly matched?
-
-A. Sreni — ancient craft guild
-B. Nagaram — town merchant assembly
-C. Manigrama — Mauryan punch-marked mint
-D. Nanadesis — itinerant multi-region traders
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Manigrama = merchant guild, not a mint.
-
-</details>
-
-**Q34.** Consider the following about UP and ancient culture:
-
-1. Mathura is the red-sandstone sculpture centre.
-2. Bhitargaon is a Gupta brick temple.
-3. Rakhigarhi is the easternmost Harappan site in UP.
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Easternmost = Alamgirpur. Rakhigarhi is not in UP.
-
-</details>
-
-**Q35.** Assertion (A): Punch-marked coins belong mainly to the janapada–Maurya monetary world.
-Reason (R): Gupta emperors are especially known for gold dinaras.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Both true, different periods. R does not explain A.
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A).
+
+**A/R logic:** The Yakshi exemplifies the mirror polish described in (A).
 
 </details>
 
----
+**Q26.** With reference to craft centres, which of the following statements is/are correct?
+
+1. Chanhudaro is linked with Indus bead making.
+2. Ahichhatra and Kaushambi are UP terracotta / urban craft centres.
+3. Dholavira is the easternmost Indus site of Uttar Pradesh.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Dholavira is Gujarat, not UP.
+
+</details>
+
+**Q27.** Which of the following is/are correctly matched?
+
+1. Rock-cut — Barabar / chaityas
+2. Structural temple — Gupta freestanding buildings
+3. Aniconic early Sanchi — human Buddha as the only motif
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Early Sanchi is largely aniconic (wheel, tree, throne), not human Buddha.
+
+</details>
+
+**Q28.** Consider the following statements:
+
+1. Arthashastra shows state interest in agriculture and craft regulation.
+2. Sreni are craft guilds.
+3. Nanadesi were only village-bound hereditary priests.
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Nanadesi were itinerant many-country merchants.
+
+</details>
+
+**Q29.** Which of the following pairs is NOT correctly matched?
+
+A. Kalibangan — Rajasthan
+B. Lothal — Gujarat
+C. Manda — Jammu & Kashmir
+D. Rakhigarhi — Uttar Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Rakhigarhi is in Haryana, not Uttar Pradesh.
+
+**Logic:** UP Indus edge is Alamgirpur–Mandi–Hulas.
+
+</details>
+
+**Q30.** With reference to terracotta and bronze, which of the following statements is/are correct?
+
+1. Indus mother-goddess figurines are commonly terracotta.
+2. The Dancing Girl is lost-wax bronze, not terracotta.
+3. All Indus human figurines are bronze processional icons like Chola Nataraja.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Dancing Girl is a tiny Harappan bronze, not a Chola processional Nataraja.
+
+</details>
 
 ## Common Traps — Don't Fall For These
 

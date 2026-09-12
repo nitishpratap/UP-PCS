@@ -4758,940 +4758,635 @@ D. None of the above
 
 ---
 
-## Practice Zone — UPPCS Format Questions
+## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden** — click **Show answer** under each question to reveal.
-> **Format mix:** 55 questions — multi-statement | Assertion–Reason | Match List | NOT correctly matched | direct recall (UPPCS Prelims style)
+> **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D | **Ans first, then Logic**
 
-**Q1.** Headquarters of the North Eastern Railway is at?
+**Q1.** With reference to transport and trade in India, which of the following statements is/are correct?
 
-A. Hajipur
-
-B. Gorakhpur
-
-C. Cuttack
-
-D. Guwahati
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — NER = Gorakhpur. Hajipur = East Central Railway.
-</details>
-
-**Q2.** Headquarters of the South Eastern Railway is at?
-
-A. Cuttack
-
-B. Bhubaneswar
-
-C. Garden Reach, Kolkata
-
-D. Ranchi
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Classic trap: SER is not at Cuttack.
-</details>
-
-**Q3.** Which pairs are correctly matched?
-
-1. Northern Railway — New Delhi
-2. North Eastern Railway — Gorakhpur
-3. South Eastern Railway — Cuttack
-
-A. Only 1 and 2
-
-B. All three
-
-C. Only 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Pair 3 is wrong.
-</details>
-
-**Q4.** Amrit Bharat Station Scheme mainly aims to:
-
-A. Build new freight corridors only
-
-B. Modernise and redevelop passenger railway stations
-
-C. Replace Sagarmala
-
-D. Lay optical fibre on every NH
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Station modernisation, not new track-building.
-</details>
-
-**Q5.** How many railway stations in Uttar Pradesh were identified under Amrit Bharat Station Scheme as on February 2023?
-
-A. 57
-
-B. 82
-
-C. 123
-
-D. 149
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — 149 **stations in Uttar Pradesh** identified for modernisation as on February 2023, not 149 new railway lines.
-</details>
-
-**Q6.** With reference to the New Pamban Bridge, which of the following statements is/are correct?
-
-1. It has been constructed by Rail Vikas Nigam Limited.
-2. It is India's first vertical-lift railway sea bridge.
+1. Transport moves people and goods; communication moves information.
+2. About 95% of India’s trade by volume moves by sea.
 
 Select the correct answer from the code given below:
 
-A. 1 only
-
-B. 2 only
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
+A. 2 only
+B. Both 1 and 2
+C. Neither 1 nor 2
+D. 1 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Both statements are correct.
+**Ans: B.** Both statements are correct.
+
+**Logic:** Sea volume share is the classic trade fact; do not confuse volume with value.
+
 </details>
 
-**Q7.** The built Purvanchal Expressway in Uttar Pradesh passes through which of the following?
+**Q2.** Consider the following pairs:
 
-A. Basti on the main alignment, but not Mau
-
-B. Mau, but not Basti on the main alignment
-
-C. Neither Mau nor Azamgarh
-
-D. Only Bundelkhand districts
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Lucknow–Ballia via Azamgarh and **Mau**. Basti is off the main alignment.
-</details>
-
-**Q8.** With reference to the Atal Tunnel, which of the following statements is/are correct?
-
-1. This tunnel is the world's longest highway tunnel.
-2. This tunnel is built in the Pir Panjal range of the Himalayas.
-
-Select the correct answer from the code given below:
-
-A. 1 only
-
-B. 2 only
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Only the Pir Panjal statement is accepted.
-</details>
-
-**Q9.** Golden Quadrilateral links which cities?
-
-A. Only southern metros
-
-B. Delhi-Mumbai-Chennai-Kolkata
-
-C. Only major ports
-
-D. Only UP cities
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q10.** Bharatmala is mainly concerned with:
-
-A. Port-led clusters
-
-B. Highway corridors
-
-C. Optical fibre only
-
-D. UDAN only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Roads programme; Sagarmala is ports.
-</details>
-
-**Q11.** Sagarmala is mainly concerned with:
-
-A. National Highways
-
-B. Port-led development
-
-C. Gauge conversion only
-
-D. Metro rail only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q12.** National Waterway-1 is the Ganga–Bhagirathi–Hooghly stretch between:
-
-A. Dhubri and Sadiya
-
-B. Haldia and Prayagraj
-
-C. Kottapuram and Kollam
-
-D. Kakinada and Puducherry
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — NW-1 runs Haldia–Prayagraj. Dhubri–Sadiya is NW-2; Kottapuram–Kollam is NW-3; Kakinada–Puducherry is NW-4.
-</details>
-
-**Q13.** Match List-I with List-II and select the correct answer from the code given below:
-
-| List-I (National Waterway) | List-II (Stretch / system) |
+| Railway Zone | Headquarters |
 |---|---|
-| A. NW-1 | 1. West Coast Canal, Kerala |
-| B. NW-2 | 2. Haldia–Prayagraj (Ganga) |
-| C. NW-3 | 3. Kakinada–Puducherry (Godavari–Krishna) |
-| D. NW-4 | 4. Dhubri–Sadiya (Brahmaputra) |
+| 1. Northern Railway | New Delhi |
+| 2. North Eastern Railway | Hajipur |
+| 3. East Central Railway | Gorakhpur |
 
-> Row order is **not** the answer — use the option codes.
+Which of the pairs given above is/are correctly matched?
 
-A. A-2, B-4, C-1, D-3
-
-B. A-4, B-2, C-3, D-1
-
-C. A-2, B-1, C-4, D-3
-
-D. A-1, B-4, C-2, D-3
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1, 2 and 3
+D. 1 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — NW-1 Ganga Haldia–Prayagraj; NW-2 Brahmaputra Dhubri–Sadiya; NW-3 Kerala West Coast Canal; NW-4 Kakinada–Puducherry.
+**Ans: D.** Only pair 1 is correct.
+
+**Logic:** NER HQ is Gorakhpur; ECR HQ is Hajipur — pairs 2 and 3 are swapped traps.
+
 </details>
 
-**Q14.** Igarka port is located in:
+**Q3.** Which of the following is NOT correctly matched?
 
-A. China
-
-B. Russia
-
-C. Uruguay
-
-D. Indonesia
+A. Western Dedicated Freight Corridor — Dadri–JNPT
+B. Eastern Dedicated Freight Corridor — Ludhiana–Dankuni
+C. South Eastern Railway HQ — Cuttack
+D. South Western Railway HQ — Hubballi
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: C.** SER HQ is Garden Reach, Kolkata — not Cuttack.
+
+**Logic:** Cuttack is the classic wrong HQ distractor for SER.
+
 </details>
 
-**Q15.** A natural harbour is best described as:
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. A dry dock alone
+Assertion (A): Amrit Bharat is primarily a station modernisation programme.
 
-B. A naturally sheltered deep inlet
-
-C. A crane yard alone
-
-D. A runway
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q16.** JNPT is best known as:
-
-A. A coal mine
-
-B. A major container port near Mumbai
-
-C. NER headquarters
-
-D. An expressway
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q17.** Which UP airport got international status on 24 June 2020?
-
-A. Agra
-
-B. Prayagraj
-
-C. Gorakhpur
-
-D. Kushinagar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-</details>
-
-**Q18.** India's first solar-powered airport is:
-
-A. New Delhi
-
-B. Cochin
-
-C. Chennai
-
-D. Ahmedabad
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q19.** Motihari-Amlekhganj oil pipeline links:
-
-A. India-Bhutan
-
-B. India-Nepal
-
-C. India-Bangladesh
-
-D. India-Myanmar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q20.** PM Gati Shakti National Master Plan was launched in:
-
-A. 2022
-
-B. 2021
-
-C. 2019
-
-D. 2014
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q21.** With reference to PM Gati Shakti, which of the following statements is/are correct?
-
-1. PM Gati Shakti National Master Plan was launched in 2022.
-2. It integrates seven engines including roads, railways, airports, ports, mass transport, waterways and logistics.
+Reason (R): About 149 Uttar Pradesh stations were listed under Amrit Bharat in February 2023.
 
 Select the correct answer from the code given below:
 
-A. 1 only
-
-B. 2 only
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Launch year is **2021**; the seven-engines statement is true.
-</details>
-
-**Q22.** Optical fibre transmits light energy mainly by:
-
-A. Diffraction
-
-B. Scattering
-
-C. Total internal reflection
-
-D. Absorption only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
-**Q23.** Kolkata-Agartala containership (July 2020) used which Bangladesh port?
-
-A. Benapole
-
-B. Payra
-
-C. Maloti
-
-D. Chattogram
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-</details>
-
-**Q24.** Railway museum dedicated in August 2020 is at:
-
-A. Mysore
-
-B. Hubballi
-
-C. Silvasa
-
-D. Chittaranjan
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q25.** The Western Dedicated Freight Corridor links:
-
-A. Only Assam
-
-B. Dadri to JNPT
-
-C. Only Kerala
-
-D. Atal Tunnel to Rohtang village only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q26.** Blue Economy refers to:
-
-A. Desert resources only
-
-B. Sustainable use of ocean resources — shipping, fisheries, coastal tourism, offshore energy
-
-C. National Highways only
-
-D. Hospitals only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q27.** National Logistics Policy is designed to:
-
-A. Replace MSP
-
-B. Complement PM Gati Shakti
-
-C. Replace Chipko
-
-D. Replace Project Tiger
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q28.** Rotterdam is correctly matched with:
-
-A. China
-
-B. Netherlands
-
-C. Uruguay
-
-D. Russia
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q29.** An artificial harbour is:
-
-A. Formed by wind alone
-
-B. An engineered sheltered basin
-
-C. A desert landform
-
-D. A glacier lake only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q30.** FLY91 inaugural flight took off from:
-
-A. Cochin International only as claim
-
-B. Manohar International Airport
-
-C. Kushinagar
-
-D. Hubballi
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q31.** Kandla primarily serves:
-
-A. Only North-East India
-
-B. North-West India / Gujarat coast
-
-C. Only Nepal
-
-D. Only Ladakh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q32.** Kolkata is distinctive among major ports because it is:
-
-A. A mountain-pass port
-
-B. A riverine major port
-
-C. A salt-lake airport
-
-D. A metro-only terminal
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q33.** Communication differs from transport because it mainly moves:
-
-A. The same things
-
-B. Information rather than people/goods
-
-C. Oil only
-
-D. Fibre poles only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q34.** IWAI is concerned with:
-
-A. Airports
-
-B. National waterways
-
-C. Bharatmala only
-
-D. Hospitals
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q35.** The North–South and East–West highway corridors classically link:
-
-A. Only Purvanchal towns
-
-B. Srinagar–Kanyakumari and Porbandar–Silchar
-
-C. Only oil pipelines
-
-D. Only Igarka and Rotterdam
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — NS = Srinagar–Kanyakumari; EW = Porbandar–Silchar.
-</details>
-
-**Q36.** Does Uttar Pradesh have a major seaport of its own?
-
-A. Yes - Kandla is in UP
-
-B. No - it uses inland links and other states' coastal gateways
-
-C. Yes - JNPT is in Lucknow
-
-D. Yes - Igarka is in UP
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q37.** Rail Vikas Nigam Limited (RVNL) functions under:
-
-A. Ministry of Culture only
-
-B. Ministry of Railways
-
-C. MoEFCC
-
-D. RBI
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q38.** "Mass transport" is listed as one engine of:
-
-A. Chipko
-
-B. PM Gati Shakti
-
-C. MSP
-
-D. Ramsar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q39.** Montevideo is correctly matched with:
-
-A. China
-
-B. Uruguay
-
-C. Netherlands
-
-D. Russia
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q40.** Key feature of an expressway is:
-
-A. No access control
-
-B. Access-controlled high-speed movement
-
-C. Being a cart track
-
-D. Being NW-3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q41.** Hubballi is headquarters of which railway zone?
-
-A. South Eastern
-
-B. South Western
-
-C. East Coast
-
-D. North Eastern
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — South Western Railway HQ; also the Aug 2020 railway museum site.
-</details>
-
-**Q42.** With reference to roads in India, which of the following statements is/are correct?
-
-1. National Highways constitute only about 2 percent of total road length but carry about 40 percent of road traffic.
-2. About 80 percent of India’s total road length is categorised as rural roads.
-
-Select the correct answer from the code given below:
-
-A. 1 only
-
-B. 2 only
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — National Highways are a small share of length but carry heavy traffic; rural roads are most of the kilometres.
-</details>
-
-**Q43.** Which organisation was set up in 1986 to develop and regulate inland waterways for shipping and navigation?
-
-A. NHAI
-
-B. IWAI
-
-C. RVNL
-
-D. GAIL
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Inland Waterways Authority of India.
-</details>
-
-**Q44.** Approximately what share of India’s trade by volume moves through maritime transport?
-
-A. About 10 percent
-
-B. About 35 percent
-
-C. About 95 percent
-
-D. Nearly zero because roads dominate all trade
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Sea carries almost all trade by volume.
-</details>
-
-**Q45.** Which road class is constructed and maintained mainly by state governments to join the state capital with district headquarters?
-
-A. National Highways only
-
-B. State Highways
-
-C. International Highways only
-
-D. Expressways only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — State Highways = state capital ↔ district HQ network.
-</details>
-
-**Q46.** Border Roads Organisation (BRO) was established mainly to:
-
-A. Run all metro airports of India
-
-B. Accelerate strategic border-road building and defence preparedness in frontier areas
-
-C. Own all major seaports
-
-D. Replace Indian Railways zones
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — BRO from 1960; high-altitude / frontier roads; Atal Tunnel association.
-</details>
-
-**Q47.** Which of the following is correctly matched?
-
-A. Golden Quadrilateral — Srinagar to Kanyakumari only
-
-B. North–South Corridor — Delhi–Mumbai–Chennai–Kolkata
-
-C. East–West Corridor — Porbandar to Silchar
-
-D. Bharatmala — port-led coastal shipping only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — GQ = four metros; NS = Srinagar–Kanyakumari; Bharatmala = highways.
-</details>
-
-**Q48.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
-
-**Assertion (A):** Road transport often acts as a feeder to railways, airports and ports.
-
-**Reason (R):** Roads are generally cheaper to build and maintain than railway lines and can provide door-to-door links.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Roads feed other modes because they are cheaper to lay and can reach the door.
-</details>
-
-**Q49.** How many inland waterways were declared as National Waterways under the National Waterways Act, 2016?
-
-A. 5
-
-B. 12
-
-C. 111
-
-D. 275
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — 111 National Waterways.
+**Ans: A.** Both (A) and (R) are true, but (R) does not explain why Amrit Bharat is a modernisation programme.
+
+**A/R logic:** R is a UP count fact; it does not define the programme’s nature. Do not read 149 as new railway lines.
+
 </details>
 
-**Q50.** Which statement about Indian Railways is correct?
+**Q5.** Arrange the following National Waterways in the order NW-1 → NW-2 → NW-3:
 
-A. The first train ran from Delhi to Kolkata in 1947
+1. Brahmaputra (Dhubri–Sadiya)
+2. Ganga (Haldia–Prayagraj)
+3. Kerala West Coast Canal
 
-B. The first passenger train ran from Mumbai to Thane in 1853
+Select the correct answer from the code given below:
 
-C. Indian Railways has never used broad gauge
-
-D. Konkan Railway is the headquarters of South Eastern Railway
+A. 1-2-3
+B. 2-3-1
+C. 3-2-1
+D. 2-1-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Mumbai–Thane 1853 fact.
+**Ans: D.** NW-1 Ganga, NW-2 Brahmaputra, NW-3 Kerala canal.
+
+**Logic:** Do not put Brahmaputra as NW-1.
+
 </details>
 
-**Q51.** NHAI was operationalised in:
+**Q6.** With reference to highway programmes, which of the following statements is/are correct?
 
-A. 1950
+1. Bharatmala is a highway programme.
+2. Sagarmala is a port-led development programme.
+3. PMGSY (2000) targets rural all-weather roads.
 
-B. 1975
+Select the correct answer from the code given below:
 
-C. 1995
-
-D. 2014
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 2 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Autonomous body under MoRTH from 1995.
+**Ans: C.** All three statements are correct.
+
+**Logic:** Keep Bharatmala (roads) and Sagarmala (ports) unswapped.
+
 </details>
 
-**Q52.** Which of the following is NOT correctly matched?
+**Q7.** Match List-I with List-II and select the correct answer from the code given below:
 
-A. Sagarmala — port-led development
-
-B. Bharatmala — highway programme
-
-C. Blue Economy — sustainable ocean-resource use
-
-D. Amrit Bharat — construction of 149 new railway lines in UP
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Amrit Bharat modernises stations; 149 is the UP station count, not new lines.
-</details>
-
-**Q53.** Pipelines are especially suited for:
-
-A. Only passenger tourism
-
-B. Continuous transport of oil, gas and petroleum products after high capital investment
-
-C. Only short village walks
-
-D. Replacing all optical fibre cables
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — High fixed cost, low operating friction for fluids.
-</details>
-
-**Q54.** Which UP fact is correct?
-
-A. Major seaport at Varanasi handling all Indian containers
-
-B. North Eastern Railway headquarters at Gorakhpur; NW-1 on the Ganga
-
-C. SER headquarters at Lucknow
-
-D. Motihari–Kathmandu product pipeline terminus inside UP
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — UP has no major seaport; NER = Gorakhpur; NW-1 = Ganga.
-</details>
-
-**Q55.** Match List-I with List-II and select the correct answer from the code given below:
-
-| List-I (Scheme / body) | List-II (Focus) |
+| List-I (Corridor / tunnel) | List-II (Fact) |
 |---|---|
-| A. PMGSY | 1. Port-led development |
-| B. Sagarmala | 2. Rural all-season roads |
-| C. NHAI | 3. Multimodal national master plan (2021) |
-| D. PM Gati Shakti | 4. National Highways development / operation |
+| A. Golden Quadrilateral | 1. Under Rohtang (Pir Panjal) |
+| B. North–South corridor | 2. Delhi–Mumbai–Chennai–Kolkata |
+| C. East–West corridor | 3. Srinagar–Kanyakumari |
+| D. Atal Tunnel | 4. Porbandar–Silchar |
 
-> Row order is **not** the answer — use the option codes.
+*Row order is not the answer code.*
 
-A. A-2, B-1, C-4, D-3
-
-B. A-1, B-2, C-3, D-4
-
-C. A-2, B-4, C-1, D-3
-
-D. A-4, B-1, C-2, D-3
+A. A-2, B-3, C-1, D-4
+B. A-2, B-3, C-4, D-1
+C. A-3, B-2, C-4, D-1
+D. A-2, B-4, C-3, D-1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — PMGSY rural roads; Sagarmala ports; NHAI highways; Gati Shakti 2021 multimodal plan.
+**Ans: B.** GQ metros; NS Kashmir–Kanyakumari; EW Porbandar–Silchar; Atal under Rohtang.
+
+**Logic:** Corridors meet teaching note at Jhansi; Silchar is Assam, not Shillong.
+
 </details>
 
----
+**Q8.** With reference to the Purvanchal Expressway (built alignment), which of the following statements is/are correct?
+
+1. The alignment passes Mau.
+2. Basti lies on the main Purvanchal Expressway spine.
+
+Select the correct answer from the code given below:
+
+A. Both 1 and 2
+B. 1 only
+C. 2 only
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only statement 1 is correct.
+
+**Logic:** Built spine is Lucknow–Azamgarh–Mau–Ghazipur–Ballia; Basti is off the main line.
+
+</details>
+
+**Q9.** Which of the following pairs is/are NOT correctly matched?
+
+1. Paradip — Odisha
+2. Tuticorin (VOC) — Andhra Pradesh
+3. Kakinada — Andhra Pradesh
+4. Alappuzha — Kerala
+
+A. 1 and 2 only
+B. 2 only
+C. 2 and 4 only
+D. 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only pair 2 is wrong — Tuticorin is in Tamil Nadu.
+
+**Logic:** Do not shift VOC to Andhra; Kakinada is AP.
+
+</details>
+
+**Q10.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): A harbour and a port mean the same facility.
+
+Reason (R): A harbour is sheltered water, while a port adds cargo and berthing facilities.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** (A) is false; (R) correctly distinguishes harbour from port.
+
+**A/R logic:** Treat shelter-only vs shelter-plus-facilities as the trap pair.
+
+</details>
+
+**Q11.** With reference to National Highways in India, which of the following statements is/are correct?
+
+1. National Highways form about 2% of road length but carry about 40% of traffic.
+2. Rural roads account for most of India’s road length and are linked to PMGSY.
+
+Select the correct answer from the code given below:
+
+A. 1 only
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both statements are correct.
+
+**Logic:** Do not assume NH dominate length just because they dominate traffic.
+
+</details>
+
+**Q12.** Consider the following statements about air and pipeline links:
+
+1. Kushinagar became an international airport on 24 June 2020.
+2. Cochin was India’s first solar-powered airport.
+3. The Motihari–Amlekhganj petroleum pipeline links India with Nepal.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three statements are correct.
+
+**Logic:** Amlekhganj is the Nepal end — not Kathmandu as a casual substitute.
+
+</details>
+
+**Q13.** Arrange the following events in chronological order:
+
+1. Launch of PM Gati Shakti
+2. Notification era of National Logistics Policy (September 2022)
+3. First passenger train Mumbai–Thane
+
+Select the correct answer from the code given below:
+
+A. 3-2-1
+B. 2-1-3
+C. 3-1-2
+D. 1-3-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** 1853 train → Gati Shakti (13 Oct 2021) → NLP Sep 2022.
+
+**Logic:** Do not swap Gati Shakti (2021) with NLP (2022).
+
+</details>
+
+**Q14.** With reference to Uttar Pradesh and inland waterways, which of the following statements is/are correct?
+
+1. Uttar Pradesh has no major seaport.
+2. North Eastern Railway headquarters is at Gorakhpur.
+3. NW-1 on the Ganga is the key waterway fact for the State.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 1, 2 and 3
+C. 2 and 3 only
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** All three statements are correct.
+
+**Logic:** UP’s sea-trade dependence is through other States’ ports, not a UP major port.
+
+</details>
+
+**Q15.** Which one of the following correctly states the optical-fibre communication principle used in teaching notes?
+
+A. Simple refraction only
+B. Diffraction through vacuum
+C. Total internal reflection (TIR)
+D. Magnetic induction along the cable
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Optical fibre uses total internal reflection.
+
+**Logic:** Refraction alone is the classic wrong option.
+
+</details>
+
+**Q16.** Match List-I with List-II and select the correct answer from the code given below:
+
+| List-I | List-II |
+|---|---|
+| A. IWAI | 1. 1986 |
+| B. Major ports (teaching count) | 2. 12 + many non-major |
+| C. National Waterways Act notification | 3. 111 National Waterways |
+| D. NHAI set-up year | 4. 1995 |
+
+*Row order is not the answer code.*
+
+A. A-1, B-2, C-3, D-4
+B. A-2, B-1, C-3, D-4
+C. A-1, B-3, C-2, D-4
+D. A-1, B-2, C-4, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** IWAI 1986; 12 majors; 111 NWs; NHAI 1995.
+
+**Logic:** Do not invent a different major-port count for the teaching spine.
+
+</details>
+
+**Q17.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): The new Pamban bridge is India’s first vertical-lift railway sea bridge and an RVNL project.
+
+Reason (R): Hubballi holds the South Western Railway headquarters.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both are true, but Hubballi HQ does not explain the Pamban bridge design.
+
+**A/R logic:** Two independent rail facts — do not force a causal link.
+
+</details>
+
+**Q18.** With reference to ports and coasts, which of the following statements is/are correct?
+
+1. JNPT is India’s container flagship among major ports.
+2. Kolkata–Haldia is a riverine port system.
+3. Igarka is located in China.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Igarka is in Russia — China is the trap.
+
+</details>
+
+**Q19.** Which of the following pairs is NOT correctly matched?
+
+A. City of Lakes — Udaipur
+B. Pink City — Jaipur
+C. Sabarimala — Kerala
+D. City of Lakes — Jaisalmer
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** City of Lakes is Udaipur, not Jaisalmer.
+
+**Logic:** Jaisalmer is the desert-city distractor.
+
+</details>
+
+**Q20.** Consider the following statements about NW-4 and NW-5:
+
+1. NW-4 is linked to the Godavari–Krishna / Kakinada–Puducherry system.
+2. NW-5 is linked to the Brahmani–Mahanadi–East Coast Canal system.
+
+Which of the statements given above is/are correct?
+
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both NW-4 and NW-5 statements are correct.
+
+**Logic:** Do not push NW-4 onto the Ganga–Brahmaputra pair.
+
+</details>
+
+**Q21.** With reference to air connectivity facts, which of the following statements is/are correct?
+
+1. Jewar is associated with Noida International Airport.
+2. FLY91’s inaugural flight (18 March 2024) was from Manohar International Airport (Goa Mopa).
+
+Select the correct answer from the code given below:
+
+A. Both 1 and 2
+B. 1 only
+C. 2 only
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both statements are correct.
+
+**Logic:** Keep Jewar as the greenfield Noida airport fact.
+
+</details>
+
+**Q22.** Which one of the following correctly distinguishes Bharatmala from Sagarmala?
+
+A. Both are exclusively rural road schemes
+B. Bharatmala is port-led; Sagarmala is highway-led
+C. Bharatmala is highway-led; Sagarmala is port-led
+D. Both are only inland waterway schemes
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Bharatmala = highways; Sagarmala = port-led.
+
+**Logic:** Swapping the two names is the main trap.
+
+</details>
+
+**Q23.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): National Highways carry about 40% of traffic though they are only about 2% of road length.
+
+Reason (R): Rural roads form most of India’s road length and are linked to PMGSY.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; rural-road length does not by itself explain NH traffic share.
+
+**A/R logic:** Two complementary network facts — R is not the direct explanation of A’s traffic ratio.
+
+</details>
+
+**Q24.** With reference to the Golden Quadrilateral and NS–EW corridors, which of the following statements is/are correct?
+
+1. Golden Quadrilateral joins Delhi, Mumbai, Chennai and Kolkata.
+2. North–South and East–West corridors meet at Jhansi in the teaching map.
+3. East–West corridor ends at Shillong rather than Silchar.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** EW end is Porbandar–Silchar; Shillong is the spelling/place trap.
+
+</details>
+
+**Q25.** Which of the following is NOT correctly matched?
+
+A. Western DFC — Dadri–JNPT
+B. Eastern DFC — Ludhiana–Dankuni
+C. North Central Railway HQ — Prayagraj
+D. East Coast Railway HQ — Hubballi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** East Coast Railway HQ is Bhubaneswar; Hubballi is SWR.
+
+**Logic:** Do not park every southern HQ at Hubballi.
+
+</details>
+
+**Q26.** Consider the following statements:
+
+1. India’s first passenger train ran Mumbai–Thane in 1853.
+2. Indian Railways is organised into about 18 zones in current teaching (older books may say 16).
+
+Which of the statements given above is/are correct?
+
+A. 1 only
+B. Both 1 and 2
+C. 2 only
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Both statements are correct.
+
+**Logic:** Zone-count updates are a frequent older-book trap.
+
+</details>
+
+**Q27.** With reference to Blue Economy and logistics policy, which of the following statements is/are correct?
+
+1. Blue Economy refers to ocean-based growth.
+2. National Logistics Policy (September 2022) complements PM Gati Shakti.
+
+Select the correct answer from the code given below:
+
+A. 1 only
+B. 2 only
+C. Neither 1 nor 2
+D. Both 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both statements are correct.
+
+**Logic:** Keep Blue Economy as ocean economy, not a rail-only slogan.
+
+</details>
+
+**Q28.** Match List-I with List-II and select the correct answer from the code given below:
+
+| List-I (Port / place) | List-II |
+|---|---|
+| A. Paradip | 1. Odisha |
+| B. Tuticorin | 2. Tamil Nadu |
+| C. Kakinada | 3. Andhra Pradesh |
+| D. Alappuzha | 4. Kerala |
+
+*Row order is not the answer code.*
+
+A. A-1, B-2, C-3, D-4
+B. A-2, B-1, C-3, D-4
+C. A-1, B-3, C-2, D-4
+D. A-1, B-2, C-4, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** All four port–state pairs are correct as listed.
+
+**Logic:** Standard coast-state matches from the Must-Score table.
+
+</details>
+
+**Q29.** Which one of the following statements about the Atal Tunnel is correct?
+
+A. It runs under Rohtang in the Pir Panjal and is a BRO project
+B. It is safely labelled as the world’s longest highway tunnel in all options
+C. It is a vertical-lift railway sea bridge
+D. It links Dadri with JNPT as a freight corridor
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Atal Tunnel = Rohtang / Pir Panjal / BRO.
+
+**Logic:** Avoid absolute “world’s longest” claims; Pamban is the vertical-lift rail bridge.
+
+</details>
+
+**Q30.** With reference to expressways and NHAI, which of the following statements is/are correct?
+
+1. NHAI was set up in 1995.
+2. Expressways are access-controlled highways, distinct from ordinary National Highways.
+
+Select the correct answer from the code given below:
+
+A. Both 1 and 2
+B. 1 only
+C. 2 only
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both statements are correct.
+
+**Logic:** Access control is the expressway differentiator.
+
+</details>
 
 ## Common Traps — Don't Fall For These
 

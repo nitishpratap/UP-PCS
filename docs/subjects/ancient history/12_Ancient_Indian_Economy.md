@@ -504,747 +504,809 @@ A. Śreni B. Nagaram C. Nānādesis D. Manigrama
 
 ## Practice Zone — UPPCS Format Drill
 
-**Q1.** With reference to early trade, which of the following statements is/are correct?
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-1. There are references of numerous river-ports in ancient India.
-2. There were large entrepots of goods and traffic.
 
-A. Both 1 and 2 B. Neither 1 nor 2 C. Only 1 D. Only 2
+**Q1.** With reference to the economy-type ladder, which of the following statements is/are correct?
+
+1. Indus = Urban; Rigvedic = Pastoral; Later Vedic = Agrarian; medieval slot = landlordism.
+2. The Indus uses weights and seals but has no coins.
+3. Vedic nishka is a minted punch-marked silver coin.
+
+Select the correct answer from the code given below:
+
+A. 1 and 3 only
+
+B. 1 and 2 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: nishka is a gold unit/ornament, not a minted coin.
 
 </details>
 
 ---
 
-**Q2.** Which institution belonged to foreign trade?
+**Q2.** Match List-I with List-II and select the correct answer from the code given below the lists:
 
-A. Śreni B. Nagaram C. Nānādesis D. Manigrama
+| List-I (Stage) | List-II (Fact) |
+|---|---|
+| 1. Punch-marked silver | A. First portrait die-struck coins |
+| 2. Indo-Greek | B. First coins (~6th c. BCE); karshapana / pana |
+| 3. Kushan (Vima) | C. Gold coinage becomes common |
+| 4. Gupta dinara | D. Prestige gold (~120–144 grains) |
+
+*Row order is not the answer code.*
+
+A. 1-A, 2-B, 3-C, 4-D
+
+B. 1-B, 2-A, 3-C, 4-D
+
+C. 1-B, 2-C, 3-A, 4-D
+
+D. 1-D, 2-A, 3-C, 4-B
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: B.** 1-B, 2-A, 3-C, 4-D.
+
+**Logic:** Coin ladder Must-Score.
 
 </details>
 
 ---
 
-**Q3.** Boat models of the Indus Valley are found at:
+**Q3.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Dholavira and Bhagatrav B. Harappa and Kot Diji C. Mohenjo-daro and Lothal D. Kalibangan and Ropar
+**Assertion (A):** Chandragupta II’s Shaka-victory proof is silver rupaka coins of about 33 grains.
 
-<details>
-<summary>Show answer</summary>
+**Reason (R):** Gold dinara is the trap option for that proof because it is the prestige type.
 
-**Ans: C**
+Select the correct answer from the code given below:
 
-</details>
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 
----
+B. (A) is false, but (R) is true
 
-**Q4.** With reference to Chandragupta-II, which of the following statements is/are correct?
-
-1. The strongest evidence of Shaka victory is his silver coins.
-2. These coins weighed about 33 grains.
-
-A. Neither 1 nor 2 B. Both 1 and 2 C. Only 2 D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q5.** Match List-I with List-II:
-
-A. Indus Valley B. Later Vedic C. Rigvedic D. Medieval
-1. Pastoral 2. Land Lordism 3. Agrarian 4. Urban
-
-A. 4 2 3 1 B. 2 1 4 3 C. 3 4 1 2 D. 4 3 1 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q6.** Given below are two statements:
-
-**Assertion (A):** The earliest Indian coins are punch-marked silver.
-
-**Reason (R):** Gupta dinaras are the first coins in India.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: D.** Both (A) and (R) are true and (R) explains (A).
+
+**A/R logic:** R correctly explains the dinara distractor.
 
 </details>
 
 ---
 
-**Q7.** Which one of the following pairs is **not** correctly matched?
+**Q4.** Arrange the following coin stages in chronological order:
 
-A. Lothal — dockyard
-B. Muziris — Roman pepper
-C. Tamralipti — west-coast Broach
-D. Arikamedu — Roman amphorae
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q8.** Which of the following statements is/are correct?
-
-1. Shreni is a general craft/trade guild.
-2. Manigrama is the foreign-trade guild answer.
-3. Nanadesi is identical to Manigrama.
-
-A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q9.** Arrange in the order gold becomes common in India:
-
-1. Gupta dinara peak
-2. No coins in IVC
-3. Kushan gold issues
-4. Punch-marked silver
-
-A. 2–4–3–1 B. 2–3–4–1 C. 4–2–3–1 D. 2–4–1–3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q10.** Match List-I with List-II:
-
-| List-I | List-II |
-|--------|---------|
-| A. Barygaza | 1. Indus mouth |
-| B. Barbarikon | 2. Broach |
-| C. Muziris | 3. Malabar pepper |
-
-A. 2 1 3 B. 1 2 3 C. 2 3 1 D. 3 1 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q11.** Given below are two statements:
-
-**Assertion (A):** 2022 Q23 keys silver coins.
-
-**Reason (R):** Those coins weigh about 33 grains.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q12.** With reference to gold types, consider the following statements:
-
-1. King-queen gold = Chandragupta I.
-2. Lyrist gold = Samudragupta.
-3. Archer gold = Chandragupta I.
-
-How many of the above statements are correct?
-A. Only one B. Only two C. All three D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 2.
-
-</details>
-
----
-
-**Q13.** Which one of the following pairs is **not** correctly matched?
-
-A. Uttarapatha — Taxila to Pataliputra
-B. Dakshinapatha — Ganga belt to Deccan
-C. Nishka — Mauryan silver punch-mark
-D. Karshapana — punch-marked silver unit
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q14.** Which of the following statements is/are correct?
-
-1. Periplus is a 1st-century sailing text.
-2. Pliny complains of gold flowing to India.
-3. Tamralipti is the chief Periplus name for Muziris.
-
-A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q15.** Match List-I with List-II:
-
-| List-I | List-II |
-|--------|---------|
-| A. Shreni | 1. Foreign trade (2018) |
-| B. Manigrama | 2. Town merchants |
-| C. Nagaram | 3. General guild |
-
-A. 3 1 2 B. 1 3 2 C. 3 2 1 D. 2 1 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q16.** Arrange:
-
-1. Muziris–Rome peak
-2. Lothal dockyard
-3. Mauryan Broach / Sopara circuit
-
-A. 2–3–1 B. 3–2–1 C. 2–1–3 D. 1–2–3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q17.** Which of the following statements is/are correct?
-
-1. Nishka is a Vedic gold unit, not a mint.
-2. Karshapana is a punch-marked silver unit.
-3. IVC issued dinaras.
-
-A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q18.** Given below are two statements:
-
-**Assertion (A):** 2018 Q89 answer is Manigrama.
-
-**Reason (R):** Shreni is the general craft guild, not the foreign-trade fact in that paper.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q19.** Which one of the following pairs is **not** correctly matched?
-
-A. Yajna Sri Satakarni — ship type
-B. Vima Kadphises — Kushan gold
-C. Chandragupta II Shaka proof — gold dinara
-D. Samudragupta — ashvamedha horse type
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q20.** Match List-I with List-II:
-
-| List-I | List-II |
-|--------|---------|
-| A. Tamralipti | 1. Gujarat dock |
-| B. Lothal | 2. Ganga mouth |
-| C. Puhar | 3. Kaveri mouth |
-
-A. 2 1 3 B. 1 2 3 C. 2 3 1 D. 3 1 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q21.** With reference to Roman trade, consider the following statements:
-
-1. Periplus names Muziris and Barygaza.
-2. Arikamedu yields Roman amphorae.
-3. The main Roman door is Tamralipti.
-
-How many of the above statements are correct?
-A. Only one B. Only two C. All three D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 2.
-
-</details>
-
----
-
-**Q22.** Which of the following statements is/are correct?
-
-1. 2024 Q2 is Both A.
-2. An entrepot stores and redistributes.
-3. River-ports are denied in that paper.
-
-A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q23.** Given below are two statements:
-
-**Assertion (A):** Indo-Greeks introduce portrait die-struck coins.
-
-**Reason (R):** Punch-marked coins carry royal portraits of Bimbisara.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q24.** Match List-I with List-II:
-
-| List-I | List-II |
-|--------|---------|
-| A. Ujjain | 1. Uttarapatha end-node |
-| B. Taxila | 2. Dakshinapatha hub |
-| C. Pataliputra | 3. NW gateway |
-
-A. 2 3 1 B. 3 2 1 C. 2 1 3 D. 1 3 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q25.** Arrange:
-
-1. Gupta dinara art peak
+1. Gupta dinara
 2. Punch-marked silver
-3. Kushan gold flood
-4. Vedic nishka (no mint)
+3. Indo-Greek portraits
+4. Kushan gold becomes common
 
-A. 4–2–3–1 B. 4–3–2–1 C. 2–4–3–1 D. 4–2–1–3
+Select the correct answer from the code given below:
+
+A. 2–4–3–1
+
+B. 2–3–4–1
+
+C. 3–2–4–1
+
+D. 2–3–1–4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Punch-marked → Indo-Greek → Kushan gold → Gupta dinara.
+
+**Logic:** Must-Score coin chronology.
 
 </details>
 
 ---
 
-**Q26.** Which one of the following pairs is **not** correctly matched?
+**Q5.** Which one of the following pairs is NOT correctly matched?
 
-A. 2020 Q21 IVC — Urban
-B. 2020 Q21 Rigvedic — Pastoral
-C. 2020 Q21 Later Vedic — Urban
-D. 2020 Q21 Medieval — landlordism
+Select the correct answer from the code given below:
+
+A. Shreni — general craft or trade guild headed by a shreshthin
+
+B. Manigrama — foreign / overseas trade institution
+
+C. Nanadesi — merchants of many lands
+
+D. Manigrama — only Mauryan inland tax farm
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Later Vedic = Agrarian.
+**Ans: D.** Manigrama is the foreign/overseas trade key, not a Mauryan tax farm.
+
+**Logic:** Shreni vs Manigrama confused pair.
 
 </details>
 
 ---
 
-**Q27.** Which of the following statements is/are correct?
+**Q6.** With reference to ports in the Periplus age, which of the following statements is/are correct?
 
-1. Gold dinara is often 120–144 grains.
-2. CG II silver in 2022 is about 33 grains.
-3. Those two weights are interchangeable.
+1. Barygaza is Broach at the Narmada mouth; Barbarikon is the Indus-mouth port.
+2. Tamralipti at the Ganga mouth faces the Bay of Bengal.
+3. Muziris (Muchiri) on the Malabar is the Roman pepper port.
 
-A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: D.** All three statements are correct.
+
+**Logic:** Do not swap Barygaza and Barbarikon.
 
 </details>
 
 ---
 
-**Q28.** Given below are two statements:
+**Q7.** Consider the following statements about inland highways:
 
-**Assertion (A):** 2022 Q68 answer is Mohenjo-daro and Lothal.
+1. Uttarapatha runs Taxila toward Pataliputra.
+2. Dakshinapatha runs from the Ganga belt through Ujjain into the Deccan.
+3. Dakshinapatha means only sea trade on the Coromandel.
 
-**Reason (R):** Dholavira is the paper’s boat-model pair.
+Select the correct answer from the code given below:
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+A. 1 and 3 only
+
+B. 1 and 2 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: Dakshinapatha is a road, not only sea.
+
+</details>
+
+---
+
+**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+**Assertion (A):** Portraits on Indian coins begin with the Indo-Greeks.
+
+**Reason (R):** Portrait die-struck coins begin only with the Guptas.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: C.** (A) is true, but (R) is false.
+
+**A/R logic:** Portraits do not begin with the Guptas.
 
 </details>
 
 ---
 
-**Q29.** Match List-I with List-II:
+**Q9.** Match List-I with List-II and select the correct answer from the code given below the lists:
 
-| List-I | List-II |
-|--------|---------|
-| A. Nanadesi | 1. Guild head |
-| B. Shreshthin | 2. Many-lands merchants |
-| C. Ainnurruvar | 3. Later south “500” network |
+| List-I (Port / place) | List-II (Fact) |
+|---|---|
+| 1. Lothal | A. Periplus Poduke; Roman amphorae |
+| 2. Arikamedu | B. Harappan dockyard |
+| 3. Puhar / Kaveripattinam | C. Sangam Chola port at Kaveri mouth |
+| 4. Uraiyur | D. Sangam Chola capital; cotton centre |
 
-A. 2 1 3 B. 1 2 3 C. 2 3 1 D. 3 1 2
+*Row order is not the answer code.*
+
+A. 1-A, 2-B, 3-C, 4-D
+
+B. 1-B, 2-A, 3-C, 4-D
+
+C. 1-B, 2-C, 3-A, 4-D
+
+D. 1-D, 2-A, 3-C, 4-B
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** 1-B, 2-A, 3-C, 4-D.
+
+**Logic:** Port and capital facts.
 
 </details>
 
 ---
 
-**Q30.** With reference to Satavahana money, consider the following statements:
+**Q10.** With reference to Roman trade, which of the following statements is/are correct?
 
-1. Lead and potin are common.
-2. A ship type is tied to Yajna Sri.
-3. They issued the first punch-marked silver in Magadha.
+1. Roman trade peaks about the first to third centuries CE.
+2. Pliny complains of a gold drain to India; Periplus is the coastal handbook.
+3. East-coast Tamralipti is the main Roman pepper–gold door.
 
-How many of the above statements are correct?
-A. Only one B. Only two C. All three D. None
+Select the correct answer from the code given below:
+
+A. 2 and 3 only
+
+B. 1 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — 1 and 2.
+**Ans: C.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: pepper–gold circuit centres on Malabar and Broach.
 
 </details>
 
 ---
 
-**Q31.** Which of the following statements is/are correct?
+**Q11.** Consider the following statements about guilds:
 
-1. Yavana in Sangam can mean the western trader.
-2. Roman trade peaks in the 1st–3rd centuries CE.
-3. Gupta dinaras are Roman mint-issues from Rome.
+1. Shreni is the general craft or trade guild; Nagaram is a south Indian town merchant body.
+2. Guild custom is treated as usable law in the Arthashastra; Sanchi–Bharhut gifts name shrenis.
+3. Ainnurruvar (“500”) are a Mauryan guild label for punch-marked mint workers.
 
-A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+Select the correct answer from the code given below:
+
+A. 1 and 3 only
+
+B. 1 and 2 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: Ainnurruvar are a later south merchant network.
 
 </details>
 
 ---
 
-**Q32.** Which one of the following pairs is **not** correctly matched?
+**Q12.** Which one of the following pairs is NOT correctly matched?
 
-A. Sopara — Konkan
-B. Nelcynda — Kerala
-C. Barbarikon — Broach
-D. Kaveripattinam — Puhar
+Select the correct answer from the code given below:
+
+A. Nishka — Vedic gold unit / ornament
+
+B. Karshapana / pana — punch-marked coin
+
+C. Dinara — Gupta gold prestige
+
+D. Rupaka — Gupta gold of 120–144 grains proving Shaka victory
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: D.** Rupaka is CG II silver ~33 grains; dinara is gold prestige.
+
+**Logic:** Dinara vs rupaka confused pair.
 
 </details>
 
 ---
 
-**Q33.** Given below are two statements:
+**Q13.** Arrange the following economy types in historical order:
 
-**Assertion (A):** Dakshinapatha links the Ganga belt to the Deccan.
-
-**Reason (R):** Ujjain sits on that line.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q34.** Arrange 2020 Q21 economies from earliest to latest culture named:
-
-1. Medieval landlordism
-2. IVC urban
-3. Later Vedic agrarian
+1. Later Vedic agrarian
+2. Indus urban
+3. Coin-and-town trade from ~6th c. BCE
 4. Rigvedic pastoral
 
-A. 2–4–3–1 B. 4–2–3–1 C. 2–3–4–1 D. 2–4–1–3
+Select the correct answer from the code given below:
+
+A. 2–1–4–3
+
+B. 4–2–1–3
+
+C. 2–4–1–3
+
+D. 2–4–3–1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: C.** Indus urban → Rigvedic pastoral → Later Vedic agrarian → coin-and-town trade.
+
+**Logic:** Economy-type ladder.
 
 </details>
 
 ---
 
-**Q35.** Which of the following statements is/are correct?
+**Q14.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-1. Arthashastra recognises guild custom.
-2. Sanchi / Bharhut name shreni gifts.
-3. Manigrama is a Mauryan revenue board in *Indica*.
+**Assertion (A):** Yajna Sri Satakarni put a ship on some Satavahana coins as a Deccan sea-trade stamp.
 
-A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+**Reason (R):** Satavahanas issued large imperial gold as their main regular coinage.
 
-<details>
-<summary>Show answer</summary>
+Select the correct answer from the code given below:
 
-**Ans: A**
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 
-</details>
+B. (A) is false, but (R) is true
 
----
-
-**Q36.** Match List-I with List-II:
-
-| List-I | List-II |
-|--------|---------|
-| A. King-queen gold | 1. Chandragupta II |
-| B. Archer gold | 2. Chandragupta I |
-| C. Horse gold | 3. Samudragupta |
-
-A. 2 1 3 B. 1 2 3 C. 2 3 1 D. 3 1 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q37.** Given below are two statements:
-
-**Assertion (A):** Pliny’s gold-drain remark is about Indian exports.
-
-**Reason (R):** Pepper and textiles pulled Roman gold east.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: C.** (A) is true, but (R) is false.
+
+**A/R logic:** Satavahanas do not issue gold as main coinage.
 
 </details>
 
 ---
 
-**Q38.** Which one of the following pairs is **not** correctly matched?
+**Q15.** With reference to Harappan and later port archaeology, which of the following statements is/are correct?
 
-A. Manigrama
-B. Both B
-C. Only 1
-D. C
+1. Boat models come from Mohenjo-daro and Lothal.
+2. Sutkagen-dor is the Harappan west end on the Makran.
+3. An entrepot is identical with any landing point.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — 2024 Q2 is Both A.
+**Ans: A.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: entrepot is warehouse/redistributor hub, not any landing point.
 
 </details>
 
 ---
 
-**Q39.** With reference to inland trade, consider the following statements:
+**Q16.** Match List-I with List-II and select the correct answer from the code given below the lists:
 
-1. Varanasi is a Ganga river-port / textile node.
-2. Kannauj becomes a later entrepot.
-3. Alamgirpur is a Harappan sea-port on the Arabian Sea.
+| List-I (Term) | List-II (Meaning) |
+|---|---|
+| 1. Yavana (Sangam) | A. Pepper |
+| 2. Yavanapriya | B. Western foreign traders |
+| 3. Amphora | C. Tall Roman jar with two handles for wine/oil |
+| 4. Tagara | D. Inland route linking Kalyan with Vengi |
 
-How many of the above statements are correct?
-A. Only one B. Only two C. All three D. None
+*Row order is not the answer code.*
+
+A. 1-B, 2-A, 3-C, 4-D
+
+B. 1-A, 2-B, 3-C, 4-D
+
+C. 1-B, 2-C, 3-A, 4-D
+
+D. 1-D, 2-A, 3-C, 4-B
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — 1 and 2.
+**Ans: A.** 1-B, 2-A, 3-C, 4-D.
+
+**Logic:** Trade vocabulary facts.
 
 </details>
 
 ---
 
-**Q40.** Which of the following statements is/are correct?
+**Q17.** Which of the following statements about punch-marked silver is/are correct?
 
-1. First Indian coins are silver punch-marks.
-2. Kushan gold makes gold common.
-3. Gupta gold is the first coinage of India.
+1. It carries geometric and animal punches — no royal portrait.
+2. Common marks include sun, six-armed symbol, hill, elephant, bull, and tree-in-railing.
+3. Mauryas keep punch-marks and also issue cast copper; weights officer is pautavadhyaksha.
 
-A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: D.** All three statements are correct.
+
+**Logic:** Must-Score punch-mark facts.
 
 </details>
 
 ---
 
-**Q41.** Match List-I with List-II:
+**Q18.** With reference to imports and exports, which of the following statements is/are correct?
 
-| List-I | List-II |
-|--------|---------|
-| A. Periplus | 1. Gold drain complaint |
-| B. Pliny | 2. Sailing manual |
-| C. Yavana | 3. Sangam foreign trader |
+1. Pepper, cotton, ivory, pearls, and gems leave Indian ports.
+2. Horses, wine, gold, and glass are famous western imports.
+3. Sailors ignore monsoon reversal in the Periplus age.
 
-A. 2 1 3 B. 1 2 3 C. 2 3 1 D. 3 1 2
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: A.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: sailors use monsoon reversal.
 
 </details>
 
 ---
 
-**Q42.** Given below are two statements:
+**Q19.** Which one of the following pairs is NOT correctly matched?
 
-**Assertion (A):** 2022 Shaka proof is not the gold dinara.
+Select the correct answer from the code given below:
 
-**Reason (R):** The paper keys silver coins of about 33 grains.
+A. Barygaza — Broach (Narmada)
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. Barbarikon — Indus-mouth
+
+C. Tamralipti — Ganga mouth; Bay of Bengal
+
+D. Muziris — Indus-mouth pepper port
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Muziris is Malabar pepper; Barbarikon is Indus-mouth.
+
+**Logic:** Port swap trap.
+
+</details>
+
+---
+
+**Q20.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+**Assertion (A):** After the Guptas, imperial gold thins.
+
+**Reason (R):** Roman aurei in south Indian hoards remain pepper-trade bullion evidence, not Gupta mintage.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: A.** Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+
+**A/R logic:** Both true as separate coin facts; R does not cause post-Gupta gold thinning.
 
 </details>
 
 ---
+
+**Q21.** Consider the following statements about Gupta markets:
+
+1. Gupta markets still use silver and copper for daily exchange even while gold dinaras advertise prestige.
+2. Gold types include king-queen (CG I), lyrist/horse (Samudra), archer (CG II).
+3. Sopara and Kalyan on the Konkan run from Mauryan times onward.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three statements are correct.
+
+**Logic:** Market and Konkan port facts.
+
+</details>
+
+---
+
+**Q22.** Arrange the following ports/places from Harappan to Sangam–Roman teaching order:
+
+1. Arikamedu Roman amphorae horizon
+2. Lothal dockyard
+3. Punch-marked silver / mahajanapada trade towns
+4. Periplus Barygaza–Muziris pepper circuit peak
+
+Select the correct answer from the code given below:
+
+A. 2–3–4–1
+
+B. 2–3–1–4
+
+C. 3–2–4–1
+
+D. 2–4–3–1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Lothal → punch-marked/mahajanapada → Periplus peak → Arikamedu evidence sits in that Roman horizon.
+
+**Logic:** Teaching order of economy archaeology.
+
+</details>
+
+---
+
+**Q23.** With reference to Later Vedic and mahajanapada dues, which of the following statements is/are correct?
+
+1. Later Vedic dues appear as bali and bhaga.
+2. From the mahajanapada age, towns, NBPW, and punch-marked silver travel with long-distance trade.
+3. Indus cities minted the first karshapana.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: Indus has no coins.
+
+</details>
+
+---
+
+**Q24.** Which institution is the foreign / overseas trade key in standard guild stems?
+
+A. Shreni
+
+B. Nagaram
+
+C. Manigrama
+
+D. Ainnurruvar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Manigrama is the foreign/overseas trade institution.
+
+**Logic:** Nanadesi means merchants of many lands, but the foreign-trade key remains Manigrama.
+
+</details>
+
+---
+
+**Q25.** Which of the following statements is/are correct?
+
+1. An amphora is a tall Roman jar with a long neck and two handles for wine or oil.
+2. Sangam poems call western foreign traders Yavana.
+3. Uttarapatha is only a sea lane from Broach to Alexandria.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: Uttarapatha is the NW–Ganga highway.
+
+</details>
+
+---
+
+**Q26.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+**Assertion (A):** Lothal is the Harappan dockyard.
+
+**Reason (R):** Boat models come from Mohenjo-daro and Lothal, not from Dholavira alone.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both (A) and (R) are true and (R) explains (A).
+
+**A/R logic:** R supports why Lothal sits with Mohenjo-daro in the boat-model pair.
+
+</details>
+
+---
+
+**Q27.** With reference to Konkan and Deccan trade nodes, which of the following statements is/are correct?
+
+1. Sopara and Kalyan on the Konkan run from Mauryan times onward.
+2. Tagara sat on the inland trade route connecting Kalyan with Vengi.
+3. Barbarikon is Broach at the Narmada mouth.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: Barbarikon is Indus-mouth; Barygaza is Broach.
+
+</details>
+
+---
+
+**Q28.** Match List-I with List-II and select the correct answer from the code given below the lists:
+
+| List-I (Confused pair) | List-II (Correct fact) |
+|---|---|
+| 1. Urban | A. Rigvedic |
+| 2. Pastoral | B. Indus |
+| 3. Agrarian | C. Later Vedic |
+| 4. Landlordism | D. Medieval slot |
+
+*Row order is not the answer code.*
+
+A. 1-B, 2-A, 3-C, 4-D
+
+B. 1-A, 2-B, 3-C, 4-D
+
+C. 1-B, 2-C, 3-A, 4-D
+
+D. 1-D, 2-A, 3-C, 4-B
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** 1-B, 2-A, 3-C, 4-D.
+
+**Logic:** Economy-type ladder match.
+
+</details>
+
+---
+
+**Q29.** Which one of the following pairs is NOT correctly matched?
+
+Select the correct answer from the code given below:
+
+A. Port — landing point
+
+B. Entrepot — warehouse / redistributor hub
+
+C. Tamralipti — west Narmada mouth
+
+D. Broach — west Narmada mouth
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Tamralipti is east Ganga mouth; Broach is west Narmada mouth.
+
+**Logic:** Tamralipti vs Broach confused pair.
+
+</details>
+
+---
+
+**Q30.** With reference to Deccan and Konkan trade stamps, which of the following statements is/are correct?
+
+1. Yajna Sri Satakarni’s ship type is a Deccan sea-trade stamp.
+2. Roman aurei in south Indian hoards are pepper-trade bullion evidence.
+3. Nishka is the first minted silver karshapana of the sixth century BCE.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: nishka is Vedic gold unit/ornament, not minted karshapana.
+
+</details>
 
 ## Common Traps — Facts
 

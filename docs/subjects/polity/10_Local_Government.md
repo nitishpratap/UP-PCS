@@ -5468,414 +5468,224 @@ D. General help Donation Programme
 
 ## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden.** Full stems (not cryptic stubs). **82 questions in UPPCS / RO-ARO 2024–25 format.** ≥60% multi-statement/application. Q1–Q48 = PRIs; Q49–Q82 = ULBs.
+> **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D | **Ans first, then Logic**
 
-**Q1.** With reference to Panchayati Raj, which of the following statements is/are correct?
-1. Constitutional provisions are in Part IX.
-2. Article 40 is a justiciable Fundamental Right.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
+**Q1.** With reference to constitutional local government, which of the following statements is/are correct?
 
-<details>
-<summary>Show answer</summary>
+1. Part IX deals with Panchayats and was inserted by the 73rd Amendment.
+2. Article 40 is a justiciable Fundamental Right guaranteeing village panchayats.
 
-**Ans: A** — 40 is a **DPSP**.
-
-</details>
-
-**Q2.** National Panchayati Raj Day is celebrated on?
-A. 2 October
-B. 24 April
-C. 26 January
-D. 15 August
+A. Only 2
+B. Both 1 and 2
+C. Neither 1 nor 2
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: D.** Only 1 is correct.
+
+**Logic:** Article 40 is a Gandhian DPSP, not a Fundamental Right.
 
 </details>
 
-**Q3.Assertion (A):** The 73rd Amendment is a watershed in local self-government.
+**Q2.** Consider the following pairs:
 
-**Reason (R):** It conferred constitutional status on Panchayats.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+| Item | Date / tag |
+|------|------------|
+| 1. National Panchayati Raj Day | 24 April |
+| 2. 74th Amendment in force | 1 June 1993 |
+| 3. First PR inauguration (Nagaur) | 2 October 1959 |
+
+Which of the pairs given above is/are correctly matched?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All three pairs are correct.
+
+**Logic:** Keep 24 April (73rd/PR Day), 1 June (74th), and 2 Oct 1959 (Nagaur) separate.
+
+</details>
+
+**Q3.** Which of the following pairs is/are NOT correctly matched?
+
+1. 11th Schedule — 18 urban subjects
+2. 12th Schedule — 29 rural subjects
+3. State List Entry 5 — local government
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Pairs 1 and 2 are swapped; pair 3 is correct.
+
+**Logic:** 11th = 29 rural; 12th = 18 urban; local government is State List Entry 5.
+
+</details>
+
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): The intermediate Panchayat tier is optional if a State’s population is 20 lakh or less.
+
+Reason (R): Article 243B requires village, intermediate, and district tiers in every State without exception.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: C.** (A) is true, but (R) is false.
 
-</details>
-
-**Q4.** Arrange the following in correct **chronological order**:
-1. Ashok Mehta Committee
-2. L.M. Singhvi Committee
-3. Balwant Rai Mehta Committee
-4. G.V.K. Rao Committee
-Select the correct answer using the code given below:
-A. 3 – 1 – 4 – 2
-B. 3 – 1 – 2 – 4
-C. 1 – 3 – 4 – 2
-D. 3 – 4 – 1 – 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 1957, 1977, 1985, 1986.
+**A/R logic:** 243B allows skipping the intermediate tier when population ≤20 lakh.
 
 </details>
 
 **Q5.** Match List-I with List-II and select the correct answer using the code given below the lists:
 
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | Balwant Rai Mehta |
-| B | Ashok Mehta |
-| C | L.M. Singhvi |
-| D | G.V.K. Rao |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Two-tier; Mandal Panchayat |
-| 2 | Three-tier; Panchayat Samiti |
-| 3 | District as the unit of planning |
-| 4 | Constitutional status; Gram Sabha |
+| List-I (Committee) | List-II (Tag) |
+|--------------------|----------------|
+| A. Balwant Rai Mehta | 1. Two-tier; district first |
+| B. Ashok Mehta | 2. Three-tier foundation |
+| C. Dantwala | 3. Constitutional status; Gram Sabha |
+| D. L.M. Singhvi | 4. Block-level planning |
 
 > Note: Row order in the tables is **not** the answer.
 
-Select the correct answer using the code given below:
-A. A-2, B-1, C-4, D-3
-B. A-2, B-1, C-3, D-4
-C. A-1, B-2, C-4, D-3
+Codes:
+
+A. A-1, B-2, C-4, D-3
+B. A-2, B-1, C-4, D-3
+C. A-2, B-1, C-3, D-4
 D. A-2, B-4, C-1, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** A-2, B-1, C-4, D-3.
+
+**Logic:** Balwant Rai = 3-tier; Ashok Mehta = 2-tier; Dantwala = block; Singhvi = constitutional status.
 
 </details>
 
-**Q6.** Which of the following pairs are **NOT** correctly matched?
-1. G.V.K. Rao — planning at the block level
-2. Dantwala — block-level planning
-3. Santhanam — Panchayati Raj finances
-Select the correct answer using the code given below:
-A. Only 1
-B. 1 and 2
-C. 2 and 3
-D. Only 2
+**Q6.** Arrange the following in correct chronological order:
+
+1. Ashok Mehta Committee
+2. L.M. Singhvi Committee
+3. Balwant Rai Mehta Committee
+4. G.V.K. Rao Committee
+
+A. 3-1-2-4
+B. 3-1-4-2
+C. 1-3-4-2
+D. 3-4-1-2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** 1957 → 1977 → 1985 → 1986.
+
+**Logic:** Balwant Rai (1957), Ashok Mehta (1977), G.V.K. Rao (1985), Singhvi (1986).
 
 </details>
 
-**Q7.** Which one of the following is **not** a level in the three-tier system recommended by the Balwant Rai Mehta Committee?
-A. Gram Panchayat
-B. Panchayat Samiti
-C. Zila Parishad
-D. Nyaya Panchayat
+**Q7.** With reference to the Gram Sabha, which of the following statements is/are correct?
 
-<details>
-<summary>Show answer</summary>
+1. It consists of persons registered in the electoral roll of the village Panchayat.
+2. Its powers are fixed directly and exhaustively in the Constitution, not by State law.
 
-**Ans: D**
-
-</details>
-
-**Q8.** With reference to the Ashok Mehta Committee, which of the following is/are correct?
-1. It recommended replacing three tiers by two.
-2. It recommended the block as the first point of decentralisation below the State.
-Select the correct answer using the code given below:
-A. Only 1
+A. Both 1 and 2
 B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q9.** How many of the following are **compulsory** features of the 73rd Amendment?
-1. Gram Sabha
-2. State Election Commission
-3. Reservation for OBCs
-4. Direct election to all seats
-A. Only two
-B. Only three
-C. All four
-D. Only one
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — OBC reservation is **voluntary**.
-
-</details>
-
-**Q10.** Consider the following statements about the Gram Sabha:
-1. It consists of all persons living in the village.
-2. Its powers are determined by the State Legislature.
-Which of the above is/are correct?
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q11.Assertion (A):** Every State must constitute a Panchayat at the intermediate level.
-
-**Reason (R):** A State with a population not exceeding 20 lakh may not constitute the intermediate tier.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q12.** With reference to reservation in Panchayats, which of the following is/are correct?
-1. Not less than one-third of the total seats are reserved for women.
-2. The Constitution itself mandates fifty percent reservation for women.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q13.** Match List-I (Article) with List-II (Subject) and select the correct answer:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | 243A |
-| B | 243E |
-| C | 243I |
-| D | 243K |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Duration |
-| 2 | Gram Sabha |
-| 3 | State Election Commission |
-| 4 | State Finance Commission |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-2, B-1, C-4, D-3
-B. A-2, B-1, C-3, D-4
-C. A-1, B-2, C-4, D-3
-D. A-2, B-4, C-1, D-3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q14.** All elections to the Panchayats are conducted by the?
-A. Election Commission of India
-B. Governor
-C. State Election Commission
-D. District Magistrate
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q15.** With reference to the State Election Commissioner, which of the following is/are correct?
-1. He is appointed by the Governor.
-2. He is removed in like manner and on like grounds as a Judge of the Supreme Court.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — removal like an **HC** judge.
-
-</details>
-
-**Q16.** How many of the following statements about the duration of a Panchayat are correct?
-1. Tenure is five years from the first meeting.
-2. If dissolved, an election must be held before the expiry of six months.
-3. A Panchayat reconstituted after premature dissolution gets a fresh five-year term.
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 2; it gets only the **remainder**.
-
-</details>
-
-**Q17.** The minimum age for contesting a Panchayat election is?
-A. 18 years
-B. 21 years
-C. 25 years
-D. 30 years
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q18.Assertion (A):** All 29 subjects of the Eleventh Schedule vest automatically in every Gram Panchayat.
-
-**Reason (R):** Article 243G uses the word “may” for endowing Panchayats with powers.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q19.** Which of the following taxes is typically levied by a Gram Panchayat?
-A. Sales tax
-B. Land revenue
-C. Tax on local fairs
-D. Customs duty
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q20.** The Eleventh Schedule contains how many subjects?
-A. 18
-B. 29
-C. 12
-D. 11
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 12th Schedule = **18**.
-
-</details>
-
-**Q21.** Which of the following pairs are **NOT** correctly matched?
-1. 11th Schedule — 29 subjects
-2. 12th Schedule — 18 subjects
-3. Part IX — Municipalities
-Select the correct answer using the code given below:
-A. Only 3
-B. 1 and 3
-C. 2 and 3
+C. Neither 1 nor 2
 D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Municipalities = **Part IXA**.
+**Ans: D.** Only 1 is correct.
+
+**Logic:** 243A = electoral-roll voters; powers depend on State law.
 
 </details>
 
-**Q22.** With reference to the District Planning Committee, which of the following is/are correct?
-1. Not less than four-fifths of members are elected from the elected members of the district Panchayat and of the Municipalities.
-2. It prepares a draft development plan for the district.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
+**Q8.** Consider the following statements about reservation in Panchayats under Article 243D:
+
+1. Women must get at least one-third of total seats and of SC/ST seats.
+2. A State law providing 50% seats for women violates the Constitution.
+3. OBC reservation in Panchayats is optional for the State.
+
+A. 1 and 3 only
+B. 1 and 2 only
+C. 2 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: A.** Only 1 and 3 are correct.
+
+**Logic:** Constitutional floor is 1/3; 50% (as in UP) is permitted by State law.
 
 </details>
 
-**Q23.** The Panchayats (Extension to the Scheduled Areas) Act was passed in which of the following?
-A. 1993
-B. 1995
-C. 1996
-D. 1998
+**Q9.** With reference to Panchayat elections and tenure, which of the following is/are correct?
+
+1. Term is five years from the first meeting.
+2. If dissolved early, the new body always gets a fresh full five-year term.
+3. Minimum age for a member is 21 years.
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: B.** Only 1 and 3 are correct.
+
+**Logic:** After early dissolution, the new body serves only the remainder of the term.
 
 </details>
 
-**Q24.Assertion (A):** PESA extends Part IX to the Sixth Schedule areas.
+**Q10.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Reason (R):** Article 243M allows Parliament to extend Part IX to Scheduled Areas.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+Assertion (A): Local body elections are conducted by the Election Commission of India under Article 324.
+
+Reason (R): The State Election Commission under Articles 243K and 243ZA is appointed by the Governor.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — PESA = **Fifth** Schedule.
+**Ans: B.** (A) is false, but (R) is true.
+
+**A/R logic:** PRI/ULB polls are SEC’s job; ECI handles Parliament, Assemblies, President and VP.
 
 </details>
 
-**Q25.** How many of the following are Gram Sabha / Panchayat powers under PESA?
-1. Minor forest produce
-2. Regulation of liquor
-3. Prior recommendation for minor minerals
+**Q11.** How many of the following statements about the State Finance Commission are correct?
+
+1. It is constituted by the Governor every five years under Article 243I.
+2. It is the same body as the Union Finance Commission under Article 280.
+3. It recommends financial principles for Panchayats (and municipalities via related provisions).
+
 A. Only one
 B. Only two
 C. All three
@@ -5884,50 +5694,18 @@ D. None
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: B.** Statements 1 and 3 are correct.
+
+**Logic:** SFC ≠ Union FC; do not merge 243I with 280.
 
 </details>
 
-**Q26.** Match List-I with List-II and select the correct answer using the code given below the lists:
+**Q12.** With reference to the District Planning Committee, which of the following statements is/are correct?
 
-**List-I**
+1. It consolidates plans of Panchayats and municipalities.
+2. At least four-fifths of members must be elected.
+3. It is identical in function to the Zila Panchayat.
 
-| Code | Item |
-|------|------|
-| A | 64th Amendment Bill |
-| B | 73rd Amendment in force |
-| C | PESA |
-| D | First PRI at Nagaur |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | 1996 |
-| 2 | 1989 |
-| 3 | 24 April 1993 |
-| 4 | 2 October 1959 |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-2, B-3, C-1, D-4
-B. A-2, B-3, C-4, D-1
-C. A-3, B-2, C-1, D-4
-D. A-2, B-1, C-3, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q27.** Part IX does **not** apply, unless Parliament provides, to which of the following?
-1. Nagaland
-2. Meghalaya
-3. Mizoram
-Select the correct answer using the code given below:
 A. 1 and 2 only
 B. 2 and 3 only
 C. 1 and 3 only
@@ -5936,15 +5714,37 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Art. 243M.
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** DPC is a planning body under 243ZD — not the Zila Panchayat itself.
 
 </details>
 
-**Q28.** With reference to the 97th Amendment, which of the following is/are correct?
-1. It added “co-operative societies” to Article 19(1)(c).
-2. It inserted Part IXB.
-3. After 2021, Part IXB still binds all State cooperatives.
-Select the correct answer using the code given below:
+**Q13.** Which of the following statements about PESA, 1996 is/are correct?
+
+1. It extends Part IX to Fifth Schedule areas with Gram Sabha centrality.
+2. It is the direct constitutional route for Sixth Schedule Autonomous District Councils.
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 is correct.
+
+**Logic:** PESA covers Fifth Schedule areas; Sixth Schedule has its own ADC framework.
+
+</details>
+
+**Q14.** With reference to urban local bodies under the 74th Amendment, which of the following is/are correct?
+
+1. Article 243Q lists Nagar Panchayat, Municipal Council, and Municipal Corporation.
+2. A Ward Committee is mandatory where population is 3 lakh or more.
+3. Metropolitan Planning Committee needs at least four-fifths elected members.
+
 A. 1 and 2 only
 B. 2 and 3 only
 C. 1 and 3 only
@@ -5953,59 +5753,185 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — *Rajendra N. Shah* (2021).
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** MPC elected share is at least two-thirds — DPC uses four-fifths.
 
 </details>
 
-**Q29.Assertion (A):** The State Finance Commission is constituted by the Governor every five years.
+**Q15.** Consider the following pairs:
 
-**Reason (R):** Its report is submitted to the President of India.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+1. Cantonment Board — Ministry of Defence; Station Commander as President
+2. Notified Area Committee — all nominated body
+3. Nagar Panchayat — elected transitional urban body under 243Q
+
+Which of the pairs given above is/are correctly matched?
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three pairs are correct.
+
+**Logic:** Cantonment ≠ 74th municipality; NAC is nominated; Nagar Panchayat is elected.
+
+</details>
+
+**Q16.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): In the usual Commissioner system, the Municipal Commissioner is the executive head.
+
+Reason (R): The Mayor is ordinarily the day-to-day executive authority under the 74th Amendment.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — report to the **Governor**, laid in the **State legislature**.
+**Ans: C.** (A) is true, but (R) is false.
+
+**A/R logic:** Mayor is political/ceremonial; Commissioner (often IAS) runs executive work.
 
 </details>
 
-**Q30.** In Uttar Pradesh the intermediate Panchayat is called?
-A. Panchayat Samiti
-B. Kshetra Panchayat
-C. Mandal Panchayat
-D. Nyaya Panchayat
+**Q17.** Which of the following is/are NOT correctly matched?
+
+1. First Municipal Corporation in India — Calcutta, 1688
+2. Urban equivalent of Article 40 — Part IXA creates one
+3. UP intermediate rural body — Kshetra Panchayat
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: A.** Pairs 1 and 2 are wrong; pair 3 is correct.
+
+**Logic:** First corporation was Madras 1688; Article 40 has no urban twin.
 
 </details>
 
-**Q31.** Which of the following pairs are **NOT** correctly matched?
-1. Lord Ripon — 1882
-2. First 3-tier PR — Rajasthan, 2 October 1959
-3. 64th Amendment Bill — enacted as the 73rd Amendment
-Select the correct answer using the code given below:
-A. Only 3
-B. 1 and 3
-C. 2 and 3
-D. Only 1
+**Q18.** With reference to the 97th Amendment and cooperatives, which of the following statements is/are correct?
+
+1. It inserted Article 43B and Part IXB.
+2. In 2021 the Supreme Court held Part IXB inoperative for State cooperatives.
+3. The Fundamental Right to form cooperatives was extinguished in 2021.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — 64th **failed in the Rajya Sabha**.
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** FR to form cooperatives under 19(1)(c) still stands.
 
 </details>
 
-**Q32.** With reference to elections to Panchayats, which of the following is/are correct?
-1. Courts cannot question delimitation laws relating to Panchayats.
-2. An election can be called in question only by an election petition.
-Select the correct answer using the code given below:
+**Q19.** Consider the following statements:
+
+1. All Panchayat seats are filled by direct election under Article 243C.
+2. The State decides the manner of choosing chairpersons.
+3. Property tax is typically the main own municipal tax.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All three are correct.
+
+**Logic:** Direct election of members + State choice of chairperson method + property tax fact.
+
+</details>
+
+**Q20.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. Article 243O | 1. SEC for municipalities |
+| B. Article 243ZA | 2. Bar on courts in Panchayat electoral matters |
+| C. Article 243ZD | 3. District Planning Committee |
+| D. Article 243ZE | 4. Metropolitan Planning Committee |
+
+Codes:
+
+A. A-2, B-1, C-3, D-4
+B. A-1, B-2, C-3, D-4
+C. A-2, B-1, C-4, D-3
+D. A-2, B-3, C-1, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** A-2, B-1, C-3, D-4.
+
+**Logic:** 243O ≈ 329 family; 243ZA = urban SEC; ZD = DPC; ZE = MPC.
+
+</details>
+
+**Q21.** With reference to Uttar Pradesh local bodies, which of the following is/are correct?
+
+1. The rural chain is Gram Panchayat – Kshetra Panchayat – Zila Panchayat.
+2. State law provides 50% reservation for women in Panchayats.
+3. Urban labels include Nagar Nigam, Nagar Palika Parishad, and Nagar Panchayat.
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are correct.
+
+**Logic:** UP vocabulary + 50% women by State law + urban nomenclature.
+
+</details>
+
+**Q22.** Arrange the following in correct chronological order:
+
+1. 74th Amendment comes into force
+2. 73rd Amendment comes into force / National PR Day origin
+3. Failed 64th Amendment Bill in Rajya Sabha
+4. PESA Act
+
+A. 3-2-1-4
+B. 3-1-2-4
+C. 2-3-1-4
+D. 3-2-4-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** 1989 → 24 Apr 1993 → 1 Jun 1993 → 1996.
+
+**Logic:** Failed 64th (1989), then 73rd force, then 74th force, then PESA.
+
+</details>
+
+**Q23.** Which of the following statements is/are correct about devolution under Article 243G?
+
+1. The State may endow Panchayats with 11th Schedule subjects.
+2. The 29 subjects are automatically transferred on the day the 73rd came into force.
+
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -6014,97 +5940,37 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Art. 243O.
+**Ans: A.** Only 1 is correct.
+
+**Logic:** Devolution remains State-law dependent — skeleton in Constitution, flesh in State Acts.
 
 </details>
 
-**Q33.** How many of the following are in the Eleventh Schedule?
-1. Minor forest produce
-2. Rural electrification
-3. Public distribution system
-4. Urban planning
-A. Only two
-B. Only three
-C. All four
-D. Only one
+**Q24.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-<details>
-<summary>Show answer</summary>
+Assertion (A): A Development Authority is ordinarily not an elected municipality under Part IXA.
 
-**Ans: B** — urban planning is **12th Schedule**.
+Reason (R): Town-planning powers in practice always convert a Development Authority into a 243Q Municipal Corporation.
 
-</details>
-
-**Q34.** Match List-I (UP / all-India) with List-II and select the correct answer:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | Village tier in UP |
-| B | Intermediate tier in UP |
-| C | Women reservation in UP PRIs |
-| D | Constitutional women floor |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | 50% by State law |
-| 2 | Gram Panchayat |
-| 3 | Kshetra Panchayat |
-| 4 | One-third |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-2, B-3, C-1, D-4
-B. A-2, B-3, C-4, D-1
-C. A-3, B-2, C-1, D-4
-D. A-2, B-1, C-3, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q35.** Consider the following statements:
-1. All seats in a Panchayat are filled by direct election.
-2. The chairperson of a district Panchayat must be elected directly by the people.
-Which of the above is/are correct?
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — chairperson mode is left to the **State**.
-
-</details>
-
-**Q36.Assertion (A):** The 73rd Amendment failed to become law in 1989.
-
-**Reason (R):** The 64th Amendment Bill was defeated in the Rajya Sabha.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — the **64th** failed in 1989; the **73rd** succeeded in 1992. A is false as worded.
+**Ans: C.** (A) is true, but (R) is false.
+
+**A/R logic:** Development Authorities are usually not elected 74th bodies even if they hold planning powers.
 
 </details>
 
-**Q37.** Which of the following is/are correct about Article 243M?
-1. Part IX does not apply to Nagaland, Meghalaya and Mizoram.
-2. Parliament may extend Part IX to Schedule V areas.
-Select the correct answer using the code given below:
+**Q25.** With reference to removal and independence of the State Election Commissioner, which of the following is/are correct?
+
+1. The SEC is appointed by the Governor.
+2. Removal is on the lines of a High Court judge.
+
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -6113,14 +5979,57 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: C.** Both are correct.
+
+**Logic:** 243K protection mirrors HC-judge removal path.
 
 </details>
 
-**Q38.** With reference to disqualification of a Panchayat member, which of the following is/are correct?
-1. A person below 21 years is disqualified.
-2. A person disqualified from the State legislature is disqualified from the Panchayat, unless the State otherwise provides.
-Select the correct answer using the code given below:
+**Q26.** Consider the following statements about urban member qualifications:
+
+1. Minimum age for a municipal member is 25 years.
+2. Women reservation under 243T is at least one-third.
+3. Municipal term is five years.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 2 and 3 are correct.
+
+**Logic:** Local body age is 21 (243V), not 25.
+
+</details>
+
+**Q27.** Which of the following pairs is/are correctly matched?
+
+1. G.V.K. Rao Committee — district as planning unit
+2. Thungon Committee — constitutional status; three tiers; five-year term
+3. Ashok Mehta — classic three-tier recommendation
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Ashok Mehta recommended two-tier, not three-tier.
+
+</details>
+
+**Q28.** With reference to Article 243H and municipal finance, which of the following is/are correct?
+
+1. Taxes and fees for Panchayats need authorising State law.
+2. Own municipal revenues are dominated in teaching by property tax.
+
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -6129,31 +6038,18 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: C.** Both are correct.
+
+**Logic:** 243H needs State law; property tax is the classic own-source fact.
 
 </details>
 
-**Q39.** Which of the following pairs are **NOT** correctly matched?
-1. Bhuria Committee — PESA
-2. PESA year — 1993
-3. Schedule for PESA — Fifth
-Select the correct answer using the code given below:
-A. Only 2
-B. 1 and 2
-C. 2 and 3
-D. Only 1
+**Q29.** How many of the following are true?
 
-<details>
-<summary>Show answer</summary>
+1. Part IXA covers municipalities (74th Amendment).
+2. There is an industrial-township exception under the urban framework.
+3. NDMC-style largely nominated bodies are the typical elected corporation model under 243Q.
 
-**Ans: A**
-
-</details>
-
-**Q40.** How many of the following statements are correct?
-1. The State Finance Commission is a constitutional body.
-2. The State Election Commission is a constitutional body.
-3. Nyaya Panchayat is a constitutional tier under Part IX.
 A. Only one
 B. Only two
 C. All three
@@ -6162,767 +6058,31 @@ D. None
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — 1 and 2. Nyaya Panchayat is **not** a Part IX tier.
+**Ans: B.** Statements 1 and 2 are true.
+
+**Logic:** Nominated NDMC-style bodies are not the typical elected 74th corporation model.
 
 </details>
 
-**Q41.** With reference to the Gram Sabha, which of the following is/are correct?
-1. It is a fourth constitutional tier of Panchayati Raj.
-2. It may exercise such powers as the State Legislature provides.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
+**Q30.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-<details>
-<summary>Show answer</summary>
+Assertion (A): The 73rd Amendment is treated as a watershed for rural local self-government.
 
-**Ans: B**
+Reason (R): It conferred constitutional status on Panchayats through Part IX and the 11th Schedule.
 
-</details>
-
-**Q42.** Match List-I (PESA fact) with List-II and select the correct answer:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | Bhuria Committee |
-| B | Schedule of PESA |
-| C | Gram Sabha power |
-| D | PESA year |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Ownership of minor forest produce |
-| 2 | 1995 |
-| 3 | Fifth |
-| 4 | 1996 |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-2, B-3, C-1, D-4
-B. A-2, B-1, C-3, D-4
-C. A-3, B-2, C-1, D-4
-D. A-2, B-3, C-4, D-1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q43.Assertion (A):** A District Planning Committee is the same body as the Zila Panchayat.
-
-**Reason (R):** Not less than four-fifths of DPC members are elected from the elected members of the district Panchayat and of the Municipalities.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: D.** Both (A) and (R) are true and (R) explains (A).
+
+**A/R logic:** Constitutional status is precisely why the 73rd is called a watershed.
 
 </details>
-
-**Q44.** With reference to Part IXB, which of the following is/are correct?
-1. The board of a co-operative society shall consist of a maximum of 21 directors.
-2. A board cannot be superseded for more than six months (non-bank coops).
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q45.** How many of the following are in the Eleventh Schedule?
-1. Minor forest produce
-2. Markets and fairs
-3. Urban planning
-4. Public distribution system
-A. Only two
-B. Only three
-C. All four
-D. Only one
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — urban planning is 12th.
-
-</details>
-
-**Q46.** In Uttar Pradesh, which of the following statements is/are correct?
-1. The intermediate Panchayat is called the Kshetra Panchayat.
-2. The Pradhan of a Gram Panchayat is directly elected.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q47.** Which of the following pairs are **NOT** correctly matched?
-1. Lord Ripon — 1882
-2. Ministry of Panchayati Raj — 2004
-3. 74th Amendment in force — 24 April 1993
-Select the correct answer using the code given below:
-A. Only 3
-B. 1 and 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 74th in force **1 June 1993**; 24 April is the **73rd**.
-
-</details>
-
-**Q48.** With reference to PRI finance, which of the following is/are correct?
-1. The State Finance Commission’s report is submitted to the President.
-2. Union Finance Commission grants to PRIs are routed through the State.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — SFC reports to the **Governor**.
-
-</details>
-
-**Q49.** With reference to Municipalities, which of the following statements is/are correct?
-1. The eligible age to be a member of a municipality is 25 years.
-2. Not less than one-third of the seats filled by direct election are reserved for women.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — age is **21**.
-
-</details>
-
-**Q50.** The 74th Amendment came into force on?
-A. 24 April 1993
-B. 1 June 1993
-C. 26 January 1993
-D. 15 August 1993
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q51.** Match List-I (Article) with List-II (Subject) and select the correct answer:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | 243Q |
-| B | 243S |
-| C | 243V |
-| D | 243ZE |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Ward Committees |
-| 2 | Types of municipality |
-| 3 | Metropolitan Planning Committee |
-| 4 | Disqualifications / age |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-2, B-1, C-4, D-3
-B. A-2, B-1, C-3, D-4
-C. A-1, B-2, C-4, D-3
-D. A-2, B-3, C-4, D-1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q52.** How many of the following are constitutional types of municipality under Article 243Q?
-1. Nagar Panchayat
-2. Municipal Council
-3. Municipal Corporation
-4. Cantonment Board
-A. Only two
-B. Only three
-C. All four
-D. Only one
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Cantonment is **statutory / Union**.
-
-</details>
-
-**Q53.Assertion (A):** A Municipal Corporation need not be constituted in an industrial township where the industry already provides municipal services.
-
-**Reason (R):** Article 243Q contains an exception for such areas.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q54.** With reference to the Mayor and the Municipal Commissioner, which of the following is/are correct?
-1. The Commissioner is ordinarily an IAS officer appointed by the State.
-2. The Mayor is the real executive of a Municipal Corporation in the default Indian model.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q55.** Which of the following pairs are **NOT** correctly matched?
-1. Ward Committee — compulsory if population ≥ 3 lakh
-2. Metropolitan area — population ≥ 10 lakh
-3. DPC elected share — not less than two-thirds
-Select the correct answer using the code given below:
-A. Only 3
-B. 1 and 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — DPC is **≥ 4/5**; MPC is **≥ 2/3**.
-
-</details>
-
-**Q56.** The Twelfth Schedule contains how many subjects?
-A. 29
-B. 18
-C. 12
-D. 11
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q57.** How many of the following are in the Twelfth Schedule?
-1. Urban planning
-2. Fire services
-3. Minor forest produce
-4. Slum improvement
-A. Only two
-B. Only three
-C. All four
-D. Only one
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — MFP is **11th**.
-
-</details>
-
-**Q58.Assertion (A):** Elections to Municipal Corporations are conducted by the Election Commission of India.
-
-**Reason (R):** Article 243ZA vests municipal elections in the State Election Commission.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q59.** With reference to a Cantonment Board, which of the following is/are correct?
-1. It is constituted under a Union law and administered under the Ministry of Defence.
-2. The Station Commander is the President of the Board.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q60.** Which of the following pairs are **NOT** correctly matched?
-1. Notified Area Committee — all members nominated
-2. Town Area Committee — created by the 74th Amendment
-3. Cantonment Board — Cantonments Act, 2006
-Select the correct answer using the code given below:
-A. Only 2
-B. 1 and 2
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q61.** The first Municipal Corporation in India was set up at?
-A. Calcutta
-B. Bombay
-C. Madras
-D. Delhi
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — **1688**.
-
-</details>
-
-**Q62.** Match List-I with List-II and select the correct answer using the code given below the lists:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | Nagar Panchayat |
-| B | Municipal Council |
-| C | Municipal Corporation |
-| D | Metropolitan area |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Larger urban area |
-| 2 | Transitional area |
-| 3 | Smaller urban area |
-| 4 | Population 10 lakh or more |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-2, B-3, C-1, D-4
-B. A-2, B-1, C-3, D-4
-C. A-3, B-2, C-1, D-4
-D. A-2, B-3, C-4, D-1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q63.** With reference to the Metropolitan Planning Committee, which of the following is/are correct?
-1. Not less than two-thirds of members are elected from elected municipal members and panchayat chairpersons in the metro.
-2. Every district in India must have an MPC.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — MPC is for a **metropolitan area**, not every district (that is the **DPC**).
-
-</details>
-
-**Q64.** Arrange the following in correct **chronological order**:
-1. 74th Amendment in force
-2. Madras Municipal Corporation
-3. 73rd Amendment in force
-4. 65th Amendment Bill
-Select the correct answer using the code given below:
-A. 2 – 4 – 3 – 1
-B. 2 – 4 – 1 – 3
-C. 4 – 2 – 3 – 1
-D. 2 – 3 – 4 – 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 1688 → 1989 → 24 Apr 1993 → 1 June 1993.
-
-</details>
-
-**Q65.** How many of the following statements about a Ward Committee are correct?
-1. It is compulsory in every Nagar Panchayat.
-2. It is compulsory where the municipality’s population is 3 lakh or more.
-3. If it covers a single ward, that ward’s councillor is the chair.
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 2 and 3.
-
-</details>
-
-**Q66.Assertion (A):** The 64th and 65th Amendment Acts created Panchayats and Municipalities.
-
-**Reason (R):** Local governance institutions were constitutionalised by the 73rd and 74th Amendments.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q67.** In Uttar Pradesh a Municipal Corporation is called?
-A. Nagar Panchayat
-B. Nagar Palika Parishad
-C. Nagar Nigam
-D. Kshetra Panchayat
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q68.** With reference to reservation in Municipalities, which of the following is/are correct?
-1. Seats are reserved for SC/ST in proportion to their population.
-2. Offices of chairpersons are also reserved for women (not less than one-third).
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — 243T.
-
-</details>
-
-**Q69.** Which of the following pairs are **NOT** correctly matched?
-1. 11th Schedule — 29 subjects
-2. 12th Schedule — 18 subjects
-3. Part IXA — Panchayats
-Select the correct answer using the code given below:
-A. Only 3
-B. 1 and 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — IXA = **Municipalities**.
-
-</details>
-
-**Q70.** Consider the following statements about duration of a Municipality:
-1. Tenure is five years from the first meeting.
-2. After premature dissolution the successor sits for a fresh five years.
-Which of the above is/are correct?
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — remainder only, same as 243E.
-
-</details>
-
-**Q71.** The State Finance Commission under Article 243Y reviews the finances of which of the following?
-A. Panchayats only
-B. Municipalities only
-C. Both Panchayats and Municipalities
-D. Cantonment Boards only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — 243Y uses the same SFC as 243I.
-
-</details>
-
-**Q72.** Match List-I (UP name) with List-II (243Q type) and select the correct answer:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | Nagar Nigam |
-| B | Nagar Palika Parishad |
-| C | Nagar Panchayat |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Nagar Panchayat |
-| 2 | Municipal Corporation |
-| 3 | Municipal Council |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-2, B-3, C-1
-B. A-2, B-1, C-3
-C. A-3, B-2, C-1
-D. A-1, B-3, C-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q73.** With reference to persons nominated to a Municipality under 243R, which of the following is/are correct?
-1. The State may provide for persons having special knowledge of municipal administration.
-2. Such persons have the right to vote in the meetings of the Municipality.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — **no vote**.
-
-</details>
-
-**Q74.** How many of the following elections are conducted by the Election Commission of India?
-1. Lok Sabha
-2. Vidhan Sabha
-3. Municipal Corporation
-4. Zila Panchayat
-A. Only one
-B. Only two
-C. All four
-D. Only three
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 2. 3 and 4 = **SEC**.
-
-</details>
-
-**Q75.Assertion (A):** A Ward Committee is the urban analogue of the Gram Sabha.
-
-**Reason (R):** The Constitution does not create an urban Gram Sabha; it creates Ward Committees in large municipalities.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — a Ward Committee is a **committee of councillors**, not the body of all voters. R is true.
-
-</details>
-
-**Q76.** With reference to a Nagar Panchayat, which of the following statements is/are correct?
-1. It is meant for an area in transition from rural to urban.
-2. After the 74th Amendment, many Town Area Committees were converted into Nagar Panchayats.
-3. Its members are all nominated by the State government.
-Select the correct answer using the code given below:
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 243Q body; **all seats directly elected**. Nominated = **Notified Area Committee**.
-
-</details>
-
-**Q77.** Match List-I with List-II and select the correct answer using the code given below the lists:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | Notified Area Committee |
-| B | Town Area Committee |
-| C | Cantonment Board |
-| D | Nagar Panchayat |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Station Commander is President |
-| 2 | All members nominated |
-| 3 | Partly elected, partly nominated (old Acts) |
-| 4 | Elected 243Q transitional municipality |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-2, B-3, C-1, D-4
-B. A-3, B-2, C-1, D-4
-C. A-2, B-3, C-4, D-1
-D. A-2, B-1, C-3, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q78.** Which of the following is **not** correctly matched?
-A. Municipal Council — smaller urban area
-B. Municipal Corporation — larger urban area
-C. Nagar Panchayat — transitional area
-D. Cantonment Board — 12th Schedule body under the State municipal Act
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Cantonments Act, **MoD**.
-
-</details>
-
-**Q79.** With reference to reservation in municipalities (Art. 243T), consider the following statements:
-1. Not less than one-third of the total number of seats to be filled by direct election shall be reserved for women.
-2. The Constitution itself mandates 50 per cent reservation for women in every municipality.
-3. Offices of Chairpersons may be reserved for SC/ST and for women as the State provides, with rotation.
-Which of the statements given above are correct?
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 50% is **State law**, not the constitutional floor.
-
-</details>
-
-**Q80.** Arrange the following in the **correct chronological order**:
-1. U.P. Municipal Corporation Act
-2. Madras Municipal Corporation
-3. Cantonments Act (present)
-4. 74th Amendment in force
-Select the correct answer using the code given below:
-A. 2 – 1 – 4 – 3
-B. 2 – 4 – 1 – 3
-C. 1 – 2 – 4 – 3
-D. 2 – 1 – 3 – 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 1688, 1959, 1 June 1993, **2006**.
-
-</details>
-
-**Q81.Assertion (A):** There is no Directive Principle corresponding to Article 40 for cities.
-
-**Reason (R):** Urban local bodies derive constitutional status only from Part IXA.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q82.** Which of the following statements about municipal finance is/are correct?
-1. Property tax is the principal own-source tax of urban local bodies.
-2. The State Finance Commission under Article 243I also reviews municipal finances.
-3. Octroi remains the largest municipal tax in every State.
-Select the correct answer using the code given below:
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — octroi is largely gone (GST era). 243Y applies 243I to municipalities.
-
-</details>
-
----
 
 ## Mains link (one frame)
 

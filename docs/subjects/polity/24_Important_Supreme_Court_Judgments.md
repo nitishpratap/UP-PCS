@@ -735,2075 +735,620 @@ Tenth Schedule as a *schedule-match* (2023/2025) is the Schedule list, not the *
 
 ## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden.** Full stems (not cryptic stubs). **150 questions.** ≥60% multi-statement / application. Mix: A/R, Match List, chronology, NOT-correctly-matched.
+> **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D
 
-**Q1.** Basic Structure was propounded in which of the following?
-A. *Golaknath* 1967
-B. *Kesavananda Bharati* 1973
-C. *Shankari Prasad* 1951
-D. *Minerva Mills* 1980
+**Q1.** With reference to Gopalan and Maneka, which of the following statements is/are correct?
 
-<details>
-<summary>Show answer</summary>
+1. Gopalan (1950) read Article 21 as any procedure in a valid law and Fundamental Rights in silos.
+2. Maneka Gandhi (1978) requires a fair, just and reasonable procedure and reads Articles 14, 19 and 21 together.
 
-**Ans: B**
+Select the correct answer from the code given below:
 
-</details>
-
-**Q2.** Identify the correct chronological sequence:
-1. *Shankari Prasad*
-2. *Sajjan Singh*
-3. *Golaknath*
-4. *Kesavananda*
-A. 1, 4, 3, 2
-B. 3, 2, 1, 4
-C. 1, 2, 3, 4
-D. 3, 4, 2, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q3.** Arrange the following in chronological order: I *Golaknath* II *Kesavananda* III 24th Amd IV 42nd Amd
-A. I, III, II, IV
-B. I, II, III, IV
-C. III, I, II, IV
-D. III, I, IV, II
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 1967 → 1971 → 1973 → 1976.
-
-</details>
-
-**Q4.** *A.K. Gopalan* (1950) held that Art. 21 is satisfied by which of the following?
-A. US due process
-B. Any procedure in a competent law
-C. Fair/just/reasonable procedure
-D. A 9th Schedule listing
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q5.** Which of the following is/are correct about *Gopalan*?
-1. Fundamental Rights were read in silos.
-2. Fazl Ali J. dissented.
 A. Only 1
-B. Only 2
-C. Both
-D. Neither
+B. Both 1 and 2
+C. Only 2
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: B.** Both 1 and 2 are correct.
+
+**Logic:** This is the core Art. 21 transformation pair.
 
 </details>
+**Q2.** Which one of the following pairs is **NOT** correctly matched?
 
-**Q6.** *Maneka Gandhi* (1978) is authority for which of the following?
-A. FR cannot be amended
-B. Procedure under Art. 21 must be fair, just and reasonable
-C. Preamble is not part of the Constitution
-D. 368(4) is valid
+A. Golaknath (1967) — Fundamental Rights cannot be amended
+B. Golaknath — invented the Basic Structure doctrine
+C. Kesavananda (1973) — can amend FR but not Basic Structure
+D. 24th Amendment (1971) — Article 13(4); comes before Kesavananda
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B.** Basic Structure is Kesavananda 1973, not Golaknath.
+
+**Logic:** Classic trap: marking Golaknath as Basic Structure.
 
 </details>
+**Q3.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Q7.Assertion (A):** After *Maneka*, Article 21’s wording is “due process of law”.
+Assertion (A): ADM Jabalpur (1976) held that habeas corpus fails if Article 21 is suspended in Emergency.
 
-**Reason (R):** *Maneka* required the procedure to be fair, just and reasonable.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both true, R not explanation
-C. A true R false
-D. A false R true
+Reason (R): The 44th Amendment later blocked suspension of Articles 20 and 21; Puttaswamy (2017) said the Jabalpur majority was wrong.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — text unchanged.
+**Ans: A.** Both true; R is the later correction, not the reason the 1976 majority held what it held.
+
+**A/R logic:** R states the constitutional and judicial aftermath; it does not explain why the Jabalpur majority ruled as it did.
 
 </details>
 
-**Q8.** The “golden triangle” means?
-A. 32-226-136
-B. 14-19-21
-C. 352-356-360
-D. 74-75-78
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q9.** *Shankari Prasad* (1951) held that?
-A. FR cannot be amended
-B. 368 can amend Part III; 1st Amd valid
-C. Basic Structure exists
-D. Preamble is part of the Constitution
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q10.** *Sajjan Singh* (1965) concerned the?
-A. 1st Amd
-B. 17th Amd
-C. 24th Amd
-D. 42nd Amd
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q11.** The “basic features” hint in *Sajjan Singh* is associated with which of the following?
-A. Sikri CJ
-B. Mudholkar J.
-C. Khanna J.
-D. Bhagwati J.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q12.** Which of the following is/are correct about *Golaknath*?
-1. 11-judge Bench, 6:5.
-2. It used prospective overruling.
-3. It coined “Basic Structure” as the 1973 doctrine.
-A. 1 and 3
-B. 1 and 2
-C. 2 and 3
-D. All three
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q13.** *Golaknath* treated a constitutional amendment as which of the following?
-A. Outside Art. 13
-B. “Law” under Art. 13
-C. An Art. 143 opinion
-D. A 9th Schedule entry
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q14.** Parliament’s reply to *Golaknath* was the?
-A. 1st Amd
-B. 24th Amd
-C. 42nd Amd
-D. 44th Amd
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q15.** *Kesavananda Bharati* Bench size and majority?
-A. 11-judge, 6:5
-B. 13-judge, 7:6
-C. 9-judge, 8:1
-D. 5-judge, 4:1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q16.** Date of *Kesavananda*?
-A. 26 Jan 1973
-B. 24 Apr 1973
-C. 25 Jun 1975
-D. 24 Apr 1976
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q17.** The petitioner in *Kesavananda* headed a mutt in which of the following?
-A. Tamil Nadu
-B. Kerala (Edneer)
-C. Punjab
-D. West Bengal
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q18.** Which of the following is/are correct about *Kesavananda*?
-1. It overruled *Golaknath* on “FR cannot be amended”.
-2. It upheld the 24th Amendment.
-3. It held that Parliament may destroy the basic structure if it uses 368.
-A. 1 and 2
-B. 1 and 3
-C. 2 and 3
-D. All three
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q19.** On the 25th Amd / Art. 31C, *Kesavananda*?
-A. Struck both limbs
-B. Upheld both limbs
-C. Upheld the 39(b)(c) shield; struck the no-review limb
-D. Did not discuss 31C
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q20.** Sikri CJ’s *Kesavananda* list includes?
-A. NJAC composition
-B. Secular character and federal character
-C. GST Council
-D. 9th Schedule immunity
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q21.Assertion (A):** *Kesavananda* held that the Preamble is part of the Constitution.
-
-**Reason (R):** *Berubari* had held that the Preamble is not part of the Constitution.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both true, R not explanation
-C. A true R false
-D. A false R true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — R is the earlier view being reversed.
-
-</details>
-
-**Q22.** *Indira Nehru Gandhi vs Raj Narain* struck?
-A. The entire 42nd Amd
-B. Art. 329A(4)&(5) of the 39th Amd
-C. Art. 368 itself
-D. The 24th Amd
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q23.** Which BS features are especially tied to the 1975 Election Case?
-A. GST and cooperative federalism
-B. Free and fair elections, rule of law, judicial review, democracy
-C. Official language
-D. 9th Schedule zamindari
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q24.** Allahabad HC judge who voided Indira Gandhi’s 1971 election?
-A. H.R. Khanna
-B. Jagmohan Lal Sinha
-C. Sikri
-D. Fazl Ali
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q25.** *ADM Jabalpur* majority held that during Emergency?
-A. Art. 21 habeas still lies
-B. No habeas if 21 enforcement is suspended
-C. 356 is justiciable
-D. 368 is unlimited
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q26.** The famous dissent in *ADM Jabalpur* was by which of the following?
-A. Ray CJ
-B. H.R. Khanna
-C. Bhagwati (as dissent)
-D. Sikri
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q27.** Which of the following is/are correct?
-1. The 44th Amd bars suspension of Arts. 20 and 21.
-2. *Puttaswamy* (2017) treats the *Jabalpur* majority as wrong.
-A. Only 1
-B. Only 2
-C. Both
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q28.** *Minerva Mills* struck?
-A. Art. 32
-B. Arts. 368(4) and (5), and 31C’s extension to all DPSPs
-C. The 24th Amd
-D. Art. 13(2)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q29.** After *Minerva*, Art. 31C survives for which of the following?
-A. All DPSPs
-B. Arts. 39(b) and 39(c) only
-C. Art. 40 only
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q30.Assertion (A):** Limited amending power is itself Basic Structure.
-
-**Reason (R):** *Minerva Mills* struck 368(4) and (5).
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both true, R not explanation
-C. A true R false
-D. A false R true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q31.** *Berubari* (1960) was invoked under which of the following?
-A. Art. 32
-B. Art. 136
-C. Art. 143
-D. Art. 226
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q32.** *Berubari* held that cession of territory requires?
-A. A Cabinet resolution only
-B. A constitutional amendment
-C. An ordinary law of Parliament
-D. A 356 proclamation
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q33.** Which one is **not** correctly matched?
-A. 9th Schedule — 1st Amd
-B. 9th Amd — 9th Schedule
-C. 9th Amd — Berubari 1960
-D. 350B — 7th Amd
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q34.** *I.R. Coelho* (2007) Bench?
-A. 13-judge
-B. 9-judge
-C. 11-judge
-D. 5-judge
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q35.** The 9th Schedule cut-off date is?
-A. 26 Jan 1950
-B. 18 Jun 1951
-C. 24 Apr 1973
-D. 24 Apr 1976
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q36.** Which of the following is/are correct?
-1. *Waman Rao* (1981) set the 24 Apr 1973 cut-off.
-2. *Coelho* held that post-cut-off 9th Schedule laws still face Basic Structure review.
-A. Only 1
-B. Only 2
-C. Both
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q37.** A post-1973 9th Schedule law that damages Arts. 14, 19, 21 is?
-A. Automatically valid
-B. Open to being struck (*Coelho*)
-C. Reviewable only by a 13-judge Bench
-D. A DPSP
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q38.** Match List-I with List-II and select the correct answer using the code given below the lists:
+**Q4.** Match List-I with List-II and select the correct answer using the code given below the lists:
 
 | List-I | List-II |
-|--------|---------|
-| a. *Gopalan* | 1. Basic Structure |
-| b. *Golaknath* | 2. Any procedure / silos |
-| c. *Kesavananda* | 3. Fair/just/reasonable |
-| d. *Maneka* | 4. FR cannot be amended |
+|--------|--------|
+| A. Shankari Prasad (1951) | 1. FR cannot be amended (6:5) |
+| B. Sajjan Singh (1965) | 2. 368 can amend FR |
+| C. Golaknath (1967) | 3. Upheld 17th; Mudholkar hint |
+| D. Kesavananda (1973) | 4. Basic Structure ceiling (7:6) |
 
-A. a-1 b-2 c-3 d-4
-B. a-2 b-4 c-1 d-3
-C. a-2 b-1 c-4 d-3
-D. a-4 b-2 c-1 d-3
+> Note: Row order is **not** the answer.
 
-<details>
-<summary>Show answer</summary>
+Select the correct answer using the code given below:
 
-**Ans: B**
-
-</details>
-
-**Q39.** Match List-I with List-II and select the correct answer using the code given below the lists:
-
-| Case | Year |
-|------|------|
-| a. *Minerva Mills* | 1. 1975 |
-| b. *Indira Gandhi* | 2. 1980 |
-| c. *Coelho* | 3. 1976 |
-| d. *Jabalpur* | 4. 2007 |
-
-A. a-1 b-2 c-3 d-4
-B. a-2 b-1 c-4 d-3
-C. a-2 b-3 c-4 d-1
-D. a-4 b-1 c-2 d-3
+A. A-1, B-2, C-3, D-4
+B. A-2, B-3, C-1, D-4
+C. A-2, B-1, C-3, D-4
+D. A-3, B-2, C-1, D-4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B.** A-2, B-3, C-1, D-4.
+
+**Logic:** Four-case order: 1951 → 1965 → 1967 → 1973.
 
 </details>
+**Q5.** Arrange chronologically: I. Shankari Prasad II. Sajjan Singh III. Golaknath IV. Kesavananda
 
-**Q40.** Arrange the following in chronological order: 1. *Gopalan* 2. *Maneka* 3. *Jabalpur* 4. *Kesavananda*
-A. 1, 2, 3, 4
-B. 1, 4, 3, 2
-C. 1, 3, 4, 2
-D. 4, 1, 3, 2
+Select the correct answer from the code given below:
+
+A. III–II–I–IV
+B. I–II–III–IV
+C. I–III–II–IV
+D. II–I–III–IV
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — 1950 → 1973 → 1976 → 1978.
+**Ans: B.** 1951 → 1965 → 1967 → 1973.
+
+**Logic:** Standard amendment-case chronology.
 
 </details>
+**Q6.** With reference to Judges Cases and NJAC, which of the following is/are correct?
 
-**Q41.** Which pairing is **not** correctly matched?
-A. *Golaknath* — 11 judges
-B. *Kesavananda* — 13 judges
-C. *Maneka* — 7 judges
-D. *Coelho* — 13 judges
+1. Second Judges (1993) created Collegium (CJI+2); Third Judges (1998) expanded SC Collegium to CJI+4.
+2. 99th Amendment’s NJAC was struck on 16 October 2015 (4:1).
+3. First Judges (1981) already locked judicial primacy over executive.
+
+Select the correct answer from the code given below:
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — 9.
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** First Judges gave executive primacy; Second Judges reversed to Collegium.
 
 </details>
+**Q7.** With reference to Bommai and related 356 cases, which of the following is/are correct?
 
-**Q42.** Which pairing is **not** correctly matched?
-A. *Shankari Prasad* — 1st Amd
-B. *Sajjan Singh* — 17th Amd
-C. *Indira Gandhi* — 39th Amd
-D. *Minerva Mills* — 24th Amd
+1. Bommai (1994) made Article 356 justiciable and locked majority to the floor test.
+2. Rameshwar Prasad (2006) struck Bihar dissolution based on a mere fear of horse-trading.
+3. Nabam Rebia (2016) held that a Governor may freely scramble the Assembly calendar to defeat the Speaker.
+
+Select the correct answer from the code given below:
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — 42nd.
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** Nabam Rebia restricts Governor calendar games — statement 3 reverses it.
 
 </details>
+**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Q43.Assertion (A):** *Golaknath* struck down the 1st Amendment.
+Assertion (A): Navtej Singh Johar (2018) held section 377 IPC unconstitutional for consensual adult sex.
 
-**Reason (R):** *Golaknath* applied prospective overruling.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both true, R not explanation
-C. A true R false
-D. A false R true
+Reason (R): The case is about Article 377, a transitory CAG provision.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: C.** (A) is true; (R) is false.
+
+**A/R logic:** s.377 IPC ≠ Art. 377 (transitory CAG) — a known wording trap.
 
 </details>
 
-**Q44.Assertion (A):** The 9th Schedule is a complete bar to judicial review.
+**Q9.** Which one of the following pairs is **NOT** correctly matched?
 
-**Reason (R):** *Coelho* allows Basic Structure review of post-24 Apr 1973 inserts.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both true, R not explanation
-C. A true R false
-D. A false R true
+A. Indra Sawhney (1992) — 27% OBC; 50% ceiling; creamy layer; no reservation in promotion
+B. 77th Amendment — Article 16(4A) restores SC/ST promotion
+C. Kihoto Hollohan (1992) — Tenth Schedule valid; paragraph 7 ouster struck
+D. Lily Thomas (2013) — preserved RPA s.8(4) three-month cushion for sitting legislators
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: D.** Lily Thomas struck s.8(4)’s cushion; conviction ≥2 years brings immediate DQ under s.8(3).
+
+**Logic:** Immediate disqualification is the holding.
 
 </details>
 
-**Q45.Assertion (A):** *Kesavananda* held that Parliament cannot amend Fundamental Rights.
+**Q10.** With reference to Ninth Schedule and Coelho, which of the following is/are correct?
 
-**Reason (R):** *Golaknath* had held that FR cannot be amended.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both true, R not explanation
-C. A true R false
-D. A false R true
+1. Ninth Schedule (1st Amendment, 1951) is a list-shield for laws; Ninth Amendment (1960) is Berubari boundary.
+2. After 24 April 1973, parking a law in the Ninth Schedule does not save Basic Structure damage (Waman Rao / Coelho).
 
-<details>
-<summary>Show answer</summary>
+Select the correct answer from the code given below:
 
-**Ans: D** — A is *Golaknath*’s holding, not *Kesavananda*’s.
-
-</details>
-
-**Q46.** Which one is **not** correctly matched?
-A. *Berubari* — Preamble not part (1960)
-B. *Kesavananda* — Preamble is part
-C. 9th Amd — 1960
-D. *Berubari* — 9th Schedule created
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — 1st Amd created the Schedule.
-
-</details>
-
-**Q47.** Chief Justice in *Kesavananda*?
-A. Subba Rao
-B. S.M. Sikri
-C. A.N. Ray
-D. Y.V. Chandrachud
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q48.** Chief Justice in *Golaknath*?
-A. Sikri
-B. Subba Rao
-C. Patanjali Sastri
-D. Kania
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q49.** Chief Justice in *Minerva Mills*?
-A. Sikri
-B. Ray
-C. Y.V. Chandrachud
-D. Beg
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q50.** *Maneka Gandhi* arose from which of the following?
-A. Preventive detention
-B. Impounding of a passport
-C. Land ceiling
-D. PM’s election
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q51.** *Gopalan* arose from which of the following?
-A. A passport
-B. Preventive detention
-C. 9th Schedule
-D. Art. 143
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q52.** Which of the following is/are correct?
-1. *Lex* (a valid law) is still required after *Maneka*.
-2. *Jus* (fairness) was added by *Maneka*.
 A. Only 1
-B. Only 2
-C. Both
-D. Neither
+B. Both 1 and 2
+C. Only 2
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: B.** Both 1 and 2 are correct.
+
+**Logic:** Do not swap Schedule and Amendment.
 
 </details>
+**Q11.** With reference to Minerva Mills and Indira Gandhi election case, which of the following is/are correct?
 
-**Q53.** Harmony between Fundamental Rights and DPSPs as Basic Structure is from which of the following?
-A. *Gopalan*
-B. *Golaknath*
-C. *Minerva Mills*
-D. *Berubari*
+1. Indira Gandhi (1975) struck 39th Amendment election-shield clauses and added Rule of Law/free-fair elections themes.
+2. Minerva Mills (1980) struck 42nd’s Articles 368(4)/(5) and kept limited amending power / FR–DPSP harmony.
 
-<details>
-<summary>Show answer</summary>
+Select the correct answer from the code given below:
 
-**Ans: C**
-
-</details>
-
-**Q54.** Which case applied Basic Structure to an amendment that parked the PM’s election beyond court?
-A. *Kesavananda*
-B. *Indira Nehru Gandhi*
-C. *Coelho*
-D. *Maneka*
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q55.** 2022 paper’s wrong options for Basic Structure included?
-A. *Minerva* and *Maneka*
-B. *Chitralekha* (1964) and *Yusuf* (1954)
-C. *Bommai* and *NJAC*
-D. *Berubari* and *Coelho*
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — do not “correct” them into BS cases.
-
-</details>
-
-**Q56.** Arrange the following in chronological order: 1. *Berubari* 2. *Kesavananda* 3. *Coelho* 4. *Shankari Prasad*
-A. 1, 4, 2, 3
-B. 4, 1, 2, 3
-C. 4, 2, 1, 3
-D. 1, 2, 4, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1951 → 1960 → 1973 → 2007.
-
-</details>
-
-**Q57.** Which of the following is/are correct?
-1. Acquisition of territory = ordinary law.
-2. Cession of territory = constitutional amendment (*Berubari*).
 A. Only 1
-B. Only 2
-C. Both
-D. Neither
+B. Both 1 and 2
+C. Only 2
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: B.** Both 1 and 2 are correct.
+
+**Logic:** Amendment line continues after Kesavananda.
 
 </details>
-
-**Q58.** The 9th Amendment (1960) implemented?
-A. GST
-B. Berubari / India–Pakistan boundary
-C. 9th Schedule
-D. NJAC
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q59.Assertion (A):** *Kesavananda* held that the Preamble cannot be amended.
-
-**Reason (R):** The Preamble is part of the Constitution after 1973.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both true, R not explanation
-C. A true R false
-D. A false R true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Preamble **can** be amended within BS (42nd did add words).
-
-</details>
-
-**Q60.** Which one is **not** correctly matched?
-A. *Gopalan* — Kania CJ
-B. *Golaknath* — Subba Rao CJ
-C. *Kesavananda* — Sikri CJ
-D. *Jabalpur* — Khanna CJ
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Khanna dissented; Ray CJ majority.
-
-</details>
-
-**Q61.** Arts. 13(4) and 368(3) (amendment is not “law” under 13) were inserted by the?
-A. 1st Amd
-B. 24th Amd
-C. 42nd Amd
-D. 44th Amd
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q62.** Arts. 368(4) and (5) were inserted by the?
-A. 24th
-B. 42nd
-C. 44th
-D. 39th
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q63.** Which of the following is/are correct?
-1. 24th Amd was upheld in *Kesavananda*.
-2. 42nd’s 368(4)(5) were struck in *Minerva*.
-A. Only 1
-B. Only 2
-C. Both
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q64.** *Coelho* is especially a test of which of the following?
-A. Advisory jurisdiction
-B. 9th Schedule vs Basic Structure
-C. Passport procedure
-D. Preventive detention silos
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q65.** Which case is **not** on the 2024 chronology list?
-A. *Shankari Prasad*
-B. *Sajjan Singh*
-C. *Golaknath*
-D. *Minerva Mills*
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — the four were 1951–73.
-
-</details>
-
-**Q66.** Prospective overruling in *Golaknath* meant?
-A. All past Amds void
-B. Future FR-amending Amds barred; past Amds stood
-C. Only the 42nd stood
-D. 9th Schedule vanished
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q67.** Which of the following is/are correct?
-1. *Champakam Dorairajan* (1951) struck a caste-based admissions GO as violating Arts. 15/29.
-2. The 1st Amendment inserted Art. **15(4)** as the reply, and *Shankari Prasad* then upheld that Amendment.
-A. Only 1
-B. Only 2
-C. Both
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q68.** *Waman Rao* is to *Coelho* what?
-A. *Golaknath* is to *Gopalan*
-B. the cut-off date is to the 9-judge fact
-C. 44th is to *Kesavananda*
-D. NJAC is to *Berubari*
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q69.** Which one is **not** correctly matched?
-A. *Gopalan* — 1950
-B. *Maneka* — 1978
-C. *Kesavananda* — 1973
-D. *Jabalpur* — 1978
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — 1976.
-
-</details>
-
-**Q70.** The day after *Kesavananda*, the government superseded three judges in appointing?
-A. Sikri
-B. A.N. Ray
-C. Khanna
-D. Subba Rao
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q71.** Which of the following is/are correct?
-1. There is no Article titled “Basic Structure”.
-2. Sikri’s list is exhaustive and closed.
-A. Only 1
-B. Only 2
-C. Both
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q72.** Match the dissent / seed:
-
-| Person | Case |
-|--------|------|
-| a. Fazl Ali | 1. *Sajjan Singh* (basic features hint) |
-| b. Mudholkar | 2. *Gopalan* |
-| c. H.R. Khanna | 3. *Jabalpur* |
-
-A. a-2 b-1 c-3
-B. a-1 b-2 c-3
-C. a-2 b-3 c-1
-D. a-3 b-1 c-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q73.Assertion (A):** *Maneka* read Arts. 14, 19 and 21 together.
-
-**Reason (R):** *Gopalan* had read those Articles in silos.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both true, R not explanation
-C. A true R false
-D. A false R true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q74.** Which case is the **first** application of Basic Structure to strike an amendment clause?
-A. *Golaknath*
-B. *Kesavananda* (31C no-review limb + later *Indira* 329A)
-C. *Berubari*
-D. *Gopalan*
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — *Kesavananda* already struck 31C’s second limb; *Indira* struck 329A(4)(5).
-
-</details>
-
-**Q75.** 31C’s “no judicial review” limb was first struck in which of the following?
-A. *Golaknath*
-B. *Kesavananda*
-C. *Maneka*
-D. *Coelho*
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q76.** Which of the following is/are correct?
-1. *Minerva* cut 31C back from all DPSPs to 39(b)(c).
-2. *Kesavananda* had already saved 31C’s first limb for 39(b)(c).
-A. Only 1
-B. Only 2
-C. Both
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q77.** The 24th Amendment (1971) did which of the following?
-1. Inserted Art. 13(4): Art. 13 does not apply to a 368 amendment.
-2. Made the President’s assent to a 368 Bill mandatory.
-A. Only 1
-B. Only 2
-C. Both
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q78.** Which one is **not** correctly matched?
-A. *Kesavananda* — Edneer Mutt / Kerala
-B. *Golaknath* — Punjab land
-C. *Maneka* — passport
-D. *Berubari* — Tamil Nadu Janmam
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — *Coelho* / TN; *Berubari* = West Bengal / Pakistan.
-
-</details>
-
-**Q79.** Best one-line map of these eleven cases?
-A. *Golaknath* = BS; *Maneka* rewrote Art. 21; 9th Schedule = 9th Amd
-B. Ladder 1951-65-67-73; BS = 1973 7:6; Gopalan→Jabalpur→Maneka on 21; Coelho = 9th Schedule after 24 Apr 1973
-C. All eleven cases invent BS
-D. *Jabalpur* majority is still the habeas rule
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q80.** Arrange the Art. 21 chain: 1. *Maneka* 2. *Gopalan* 3. *Puttaswamy* 4. *Jabalpur*
-A. 2, 1, 4, 3
-B. 2, 4, 1, 3
-C. 2, 4, 3, 1
-D. 4, 2, 1, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1950 → 1976 → 1978 → 2017.
-
-</details>
-
-**Q81.** *S.R. Bommai* (1994) held that majority of a State government is tested?
-A. In Raj Bhavan by the Governor
-B. On the floor of the Assembly
-C. By the Election Commission
-D. By a 13-judge Bench
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q82.** Which of the following is/are correct about *Bommai*?
-1. Art. 356 is justiciable.
-2. The Assembly should not be dissolved before Parliament approves 356.
-3. Secularism is a basic-structure feature that can justify 356.
-A. 1 and 2
-B. 1 and 3
-C. 2 and 3
-D. All three
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q83.** *Rameshwar Prasad* (2006) struck the dissolution of the?
-A. Karnataka Assembly 1989
-B. Bihar Assembly 2005
-C. Arunachal Assembly 2016
-D. UP Assembly 1992
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q84.** *Nabam Rebia* (2016) is authority that the Governor?
-A. Has unlimited 163 discretion
-B. Cannot prepone a sitting to help a faction remove the Speaker
-C. Must always dissolve a hung House
-D. Appoints the CJI
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q85.** *Kihoto Hollohan* (1992) held that the 10th Schedule is?
-A. Entirely void
-B. Valid, but the Speaker’s defection order is judicially reviewable
-C. Valid and unreviewable
-D. Only a DPSP
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q86.** Which 10th-Schedule clause did *Kihoto* knock out?
-A. Para 2 (defection ground)
-B. Para 7 (total ouster of courts)
-C. The whole Schedule
-D. Art. 75(1B)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q87.** *Lily Thomas* (2013) struck?
-A. The 10th Schedule
-B. RPA s.8(4) — the three-month cushion for sitting members
-C. s.377 IPC
-D. Art. 356
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q88.** After *Lily Thomas*, a sitting MP sentenced to ≥ 2 years is disqualified?
-A. After 3 months
-B. Immediately
-C. Only if the Speaker agrees
-D. After the next election
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q89.** *Indra Sawhney* (1992) upheld?
-A. 27% EWS
-B. 27% OBC in Union services
-C. 50% OBC
-D. Reservation in all promotions
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q90.** Which of the following is/are correct about *Indra Sawhney*?
-1. 50% is the general ceiling.
-2. Creamy layer must be excluded from OBC reservation.
-3. Art. 16(4) as then read did **not** cover promotion.
-A. 1 and 2
-B. 1 and 3
-C. 2 and 3
-D. All three
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q91.** Parliament’s reply to *Sawhney*’s “no promotion” holding for SC/ST was the?
-A. 24th Amd
-B. 77th Amd (Art. 16(4A))
-C. 99th Amd
-D. 52nd Amd
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q92.** First Judges Case (*S.P. Gupta*, 1981) held that?
-A. Collegium = CJI+4
-B. Consultation ≠ concurrence; executive primacy
-C. NJAC is valid
-D. CJI’s view always binds
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q93.** The Collegium was born in which of the following?
-A. First Judges 1981
-B. Second Judges 1993
-C. Third Judges 1998
-D. NJAC 2015
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q94.** After the Third Judges Case, SC appointments are recommended by which of the following?
-A. CJI alone
-B. CJI + 2
-C. CJI + 4
-D. Law Minister + CJI
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q95.** After the Third Judges Case, HC appointments / transfers are recommended by which of the following?
-A. CJI + 4
-B. CJI + 2
-C. That HC’s CJ alone
-D. The Governor
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q96.** Third Judges Case was?
-A. A PIL by *SCAORA*
-B. An Art. 143 reference by President K.R. Narayanan
-C. A 99th Amd challenge
-D. A 356 case
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q97.** Arrange the following in chronological order: 1. NJAC struck down 2. First Judges 3. Third Judges 4. Second Judges
-A. 2, 3, 4, 1
-B. 2, 4, 3, 1
-C. 4, 2, 3, 1
-D. 2, 4, 1, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1981 → 1993 → 1998 → 2015.
-
-</details>
-
-**Q98.** NJAC as written had how many members?
-A. 3
-B. 5
-C. 6
-D. 9
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q99.** Under the NJAC, an appointment failed if?
-A. The CJI dissented alone
-B. Any two members disagreed
-C. The President returned it twice
-D. The Rajya Sabha vetoed it
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q100.** The NJAC judgment (16 Oct 2015) was?
-A. Unanimous
-B. 4:1 (Khehar majority; Chelameswar dissent)
-C. 7:6
-D. 9:0
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q101.** Which of the following is/are correct?
-1. The 99th Amendment inserted Arts. 124A–C.
-2. The Supreme Court struck the 99th Amendment and the NJAC Act.
-3. Collegium revived after 2015.
-A. 1 and 2
-B. 1 and 3
-C. 2 and 3
-D. All three
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q102.Assertion (A):** Collegium is written in Article 124.
-
-**Reason (R):** NJAC was inserted into the Constitution by the 99th Amendment and was still struck down.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both true, R not explanation
-C. A true R false
-D. A false R true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q103.** *Vishaka* (1997) guidelines were based on?
-A. The POSH Act
-B. CEDAW, until Parliament legislated
-C. s.377 IPC
-D. The 10th Schedule
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q104.** The statute that took over from *Vishaka* guidelines is the?
-A. 99th Amd
-B. POSH Act, 2013
-C. RPA 1951
-D. IT Act 2000
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q105.** *Puttaswamy* (2017) Bench and holding?
-A. 5-judge; Aadhaar wholly struck
-B. 9-judge; privacy is a Fundamental Right under Art. 21
-C. 13-judge; Basic Structure invented
-D. 7-judge; s.66A struck
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q106.** Which of the following is/are correct about *Puttaswamy* (2017)?
-1. It said the *ADM Jabalpur* majority was wrongly decided.
-2. Privacy is absolute and can never be restricted.
-A. Only 1
-B. Only 2
-C. Both
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — restriction needs law + legitimate aim + proportionality.
-
-</details>
-
-**Q107.** *Shreya Singhal* (2015) struck?
-A. The entire IT Act
-B. s.66A of the IT Act
-C. s.69A
-D. Art. 19 itself
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q108.** The 2018 UPPCS question on the homosexuality judgment is answered by which of the following?
-A. Article 377 of the Constitution
-B. Section 377 of the IPC
-C. Article 277
-D. The 10th Schedule
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q109.** *Navtej Singh Johar* (2018) overruled?
-A. *Naz Foundation* (Delhi HC)
-B. *Suresh Kumar Koushal* (2013)
-C. *Joseph Shine*
-D. *Vishaka*
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — *Naz* had already read 377 down; *Koushal* had restored it.
-
-</details>
-
-**Q110.** *Joseph Shine* (2018) struck?
-A. s.377 IPC
-B. s.497 IPC (adultery)
-C. s.66A IT Act
-D. RPA s.8(4)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q111.** After *Joseph Shine*, adultery is?
-A. A Fundamental Right
-B. Not a crime; it can still be a ground for divorce
-C. Still an IPC offence for men only
-D. A 10th-Schedule ground
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q112.** *M.C. Mehta* (Oleum, 1986) laid down?
-A. Strict liability with *Rylands* exceptions
-B. Absolute liability for hazardous industry
-C. Parliamentary sovereignty
-D. Collegium
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q113.** Which of the following is/are correct?
-1. Absolute liability admits no “Act of God” defence.
-2. A clean environment has been read into Art. 21 in the *Mehta* line.
-A. Only 1
-B. Only 2
-C. Both
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q114.** Match List-I with List-II and select the correct answer using the code given below the lists:
+**Q12.** Match List-I with List-II and select the correct answer using the code given below the lists:
 
 | List-I | List-II |
-|--------|---------|
-| a. *Bommai* | 1. Privacy = FR |
-| b. *Kihoto* | 2. 356 / floor test |
-| c. *Puttaswamy* | 3. 10th Schedule / Speaker reviewable |
-| d. *Sawhney* | 4. 50% + creamy layer |
+|--------|--------|
+| A. Puttaswamy (2017) | 1. Privacy = FR under Art. 21 |
+| B. Shreya Singhal (2015) | 2. IT Act s.66A struck |
+| C. Vishaka (1997) | 3. Workplace sexual-harassment guidelines |
+| D. Joseph Shine (2018) | 4. s.497 IPC adultery crime struck |
 
-A. a-1 b-2 c-3 d-4
-B. a-2 b-3 c-1 d-4
-C. a-2 b-1 c-3 d-4
-D. a-3 b-2 c-1 d-4
+> Note: Row order is **not** the answer.
 
-<details>
-<summary>Show answer</summary>
+Select the correct answer using the code given below:
 
-**Ans: B**
-
-</details>
-
-**Q115.** Match List-I with List-II and select the correct answer using the code given below the lists:
-
-| Case | Year |
-|------|------|
-| a. Second Judges | 1. 2015 |
-| b. *Vishaka* | 2. 1993 |
-| c. NJAC struck | 3. 1997 |
-| d. *Navtej* | 4. 2018 |
-
-A. a-1 b-2 c-3 d-4
-B. a-2 b-3 c-1 d-4
-C. a-2 b-1 c-3 d-4
-D. a-3 b-2 c-1 d-4
+A. A-1, B-2, C-4, D-3
+B. A-2, B-1, C-4, D-3
+C. A-1, B-3, C-2, D-4
+D. A-1, B-2, C-3, D-4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: D.** A-1, B-2, C-3, D-4.
+
+**Logic:** Rights-expansion cluster often tested together.
 
 </details>
+**Q13.** Arrange: I. Golaknath II. 24th Amendment III. Kesavananda IV. 42nd Amendment
 
-**Q116.** Which one is **not** correctly matched?
-A. First Judges — 1981
-B. Second Judges — 1993
-C. Third Judges — 1998
-D. NJAC struck — 2014
+Select the correct chronological answer:
+
+A. I–II–IV–III
+B. I–III–II–IV
+C. II–I–III–IV
+D. I–II–III–IV
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Amd **2014**; judgment **16 Oct 2015**.
+**Ans: D.** 1967 → 1971 → 1973 → 1976.
+
+**Logic:** 24th is before Kesavananda; 42nd after.
 
 </details>
+**Q14.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Q117.** Which one is **not** correctly matched?
-A. *Lily Thomas* — RPA s.8(4)
-B. *Shreya Singhal* — s.66A
-C. *Navtej* — s.377 IPC
-D. *Joseph Shine* — s.66A
+Assertion (A): Berubari (1960) held that ceding Indian territory needs a constitutional amendment.
+
+Reason (R): Berubari also treated the Preamble as part of the Constitution — a holding Kesavananda later reversed.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: C.** (A) is true; (R) is false.
+
+**A/R logic:** Berubari treated Preamble as not part; Kesavananda later held it is part.
 
 </details>
 
-**Q118.Assertion (A):** *Bommai* held that a State government can be dismissed without a floor test if the Governor is satisfied.
+**Q15.** With reference to M.C. Mehta Oleum, which of the following is/are correct?
 
-**Reason (R):** Majority is proved on the floor of the House.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both true, R not explanation
-C. A true R false
-D. A false R true
+1. Absolute liability for hazardous industry is stricter than English Rylands strict liability.
+2. Clean environment was read into Article 21.
 
-<details>
-<summary>Show answer</summary>
+Select the correct answer from the code given below:
 
-**Ans: D**
-
-</details>
-
-**Q119.Assertion (A):** Creamy layer exclusion in *Indra Sawhney* applies to SC/ST.
-
-**Reason (R):** The 1992 holding required creamy-layer exclusion for OBC reservation.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both true, R not explanation
-C. A true R false
-D. A false R true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q120.Assertion (A):** The Speaker’s decision under the 10th Schedule cannot be challenged in any court.
-
-**Reason (R):** *Kihoto* held that para 7’s total ouster of jurisdiction is invalid.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both true, R not explanation
-C. A true R false
-D. A false R true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q121.** Bhanwari Devi’s case is the factual root of which of the following?
-A. *Navtej*
-B. *Vishaka*
-C. *Joseph Shine*
-D. *Lily Thomas*
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q122.** Oleum gas leaked in Delhi from which of the following?
-A. Union Carbide
-B. Shriram Foods and Fertiliser
-C. Sterlite
-D. Vedanta
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q123.** Which pairing is **not** correctly matched?
-A. *Bommai* — Karnataka CM
-B. *Rameshwar Prasad* — Bihar 2005
-C. *Nabam Rebia* — Arunachal
-D. *Kihoto* — Kerala land reform
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — 10th Schedule; Kerala land = *Kesavananda*.
-
-</details>
-
-**Q124.** Eminent persons on the NJAC were to be chosen by which of the following?
-A. Parliament
-B. PM + CJI + LoP in LS
-C. The Collegium
-D. The President alone
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q125.** Which of the following is/are correct?
-1. If two or more Collegium judges dissent, the name is not sent (Third Judges).
-2. Government may return a Collegium recommendation once; reiteration binds.
 A. Only 1
 B. Only 2
-C. Both
-D. Neither
+C. Neither 1 nor 2
+D. Both 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: D.** Both 1 and 2 are correct.
+
+**Logic:** Absolute liability has no Rylands-style exceptions.
 
 </details>
+**Q16.** Which one of the following pairs is **NOT** correctly matched?
 
-**Q126.** Arrange the following in chronological order: 1. *Kihoto* 2. *Lily Thomas* 3. 52nd Amd 4. 91st Amd
-A. 1, 3, 2, 4
-B. 3, 1, 4, 2
-C. 3, 4, 1, 2
-D. 1, 3, 4, 2
+A. Second Judges — SC Collegium CJI+2
+B. Third Judges — SC Collegium CJI+4; HC CJI+2
+C. Collegium — written into the original constitutional text of 1950
+D. NJAC — was written into Arts. 124A–C and then struck
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — 1985 → 1992 → 2003 → 2013.
+**Ans: C.** Collegium is judge-made precedent, not original 1950 text.
+
+**Logic:** NJAC was text and fell; Collegium is precedent.
 
 </details>
 
-**Q127.** Arrange the following in chronological order: 1. *Puttaswamy* 2. *Maneka* 3. *Jabalpur* 4. *Navtej*
-A. 2, 3, 1, 4
-B. 3, 2, 1, 4
-C. 3, 2, 4, 1
-D. 2, 3, 4, 1
+**Q17.** With reference to POSH and Vishaka, which of the following is/are correct?
 
-<details>
-<summary>Show answer</summary>
+1. Vishaka (1997) laid workplace guidelines under Articles 14/15/19/21.
+2. POSH Act 2013 later took over as statute.
 
-**Ans: B** — 1976 → 1978 → 2017 → 2018.
+Select the correct answer from the code given below:
 
-</details>
-
-**Q128.** Which case applied Basic Structure to **strike a constitutional amendment** after *Minerva*?
-A. *Bommai*
-B. *NJAC / Fourth Judges*
-C. *Vishaka*
-D. *Shreya Singhal*
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 99th Amd died. *Bommai* applied BS to 356, not to a 368 Amd.
-
-</details>
-
-**Q129.** Which one is **not** correctly matched?
-A. *Sawhney* — 9-judge
-B. *Puttaswamy* (privacy) — 9-judge
-C. *Bommai* — 9-judge
-D. *Navtej* — 9-judge
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — 5-judge.
-
-</details>
-
-**Q130.** Art. 377 of the Constitution is about?
-A. Homosexuality
-B. A transitory provision on the Comptroller and Auditor-General
-C. Adultery
-D. Privacy
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — do not confuse with s.377 IPC.
-
-</details>
-
-**Q131.** Which of the following is/are correct?
-1. *Puttaswamy* (2017) and the Aadhaar (2018) case are the same holding.
-2. The 2018 follow-on largely upheld Aadhaar and struck private-entity use (s.57).
 A. Only 1
 B. Only 2
-C. Both
-D. Neither
+C. Both 1 and 2
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: C.** Both 1 and 2 are correct.
+
+**Logic:** Guidelines were a stop-gap until statute.
 
 </details>
 
-**Q132.** *Keisham Meghachandra* (2020) adds to *Kihoto* that the Speaker?
-A. Is unreviewable
-B. Must decide a defection petition in a reasonable time
-C. Is appointed by the Governor
-D. Can be removed by NJAC
+**Q18.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Kihoto Hollohan upheld the Tenth Schedule but struck paragraph 7’s total court ouster.
+
+Reason (R): Therefore the Speaker’s defection order is immune from judicial review.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: C.** (A) is true; (R) is false.
+
+**A/R logic:** Speaker’s order is judicially reviewable after paragraph 7 fell.
 
 </details>
 
-**Q133.** Which pairing is **not** correctly matched?
-A. 77th Amd — 16(4A) SC/ST promotion
-B. 81st Amd — 16(4B) backlog
-C. 85th Amd — consequential seniority
-D. 99th Amd — 10th Schedule
+**Q19.** With reference to Joseph Shine, which of the following is/are correct?
 
-<details>
-<summary>Show answer</summary>
+1. Section 497 IPC adultery as a crime was struck.
+2. Adultery can still matter as a civil matrimonial ground.
 
-**Ans: D** — 99th = NJAC. 10th Schedule = **52nd**.
+Select the correct answer from the code given below:
 
-</details>
-
-**Q134.** *S.P. Gupta* (1981) is also remembered for which of the following?
-A. Inventing Basic Structure
-B. Liberal standing — any public-spirited person with sufficient interest (PIL colour)
-C. Striking s.66A
-D. Creamy layer
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q135.** Which one is **not** correctly matched?
-A. Second Judges — *SCAORA* 1993
-B. NJAC — *SCAORA* 2015
-C. Third Judges — Art. 143
-D. First Judges — *Kesavananda*
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q136.Assertion (A):** *Shreya Singhal* struck s.69A of the IT Act.
-
-**Reason (R):** s.66A was struck as vague and overbroad.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both true, R not explanation
-C. A true R false
-D. A false R true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q137.Assertion (A):** *Nabam Rebia* held that Art. 163(2) makes every gubernatorial act unreviewable.
-
-**Reason (R):** The Court held that 163 discretion is not a general reservoir of power.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both true, R not explanation
-C. A true R false
-D. A false R true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q138.** The post-Babri 356 dismissals were reasoned in *Bommai* mainly through?
-A. Financial Emergency
-B. Secularism as basic structure
-C. NJAC
-D. s.377
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q139.** Which of the following is/are correct?
-1. *Rameshwar Prasad* restored the dissolved Bihar Assembly of 2005.
-2. The principle still is: no dissolution on a mere fear of horse-trading without a floor test.
 A. Only 1
 B. Only 2
-C. Both
-D. Neither
+C. Both 1 and 2
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — elections had already been held.
+**Ans: C.** Both 1 and 2 are correct.
+
+**Logic:** Crime struck ≠ civil ground erased.
 
 </details>
 
-**Q140.** Best one-line map of the later cluster?
-A. Collegium is in Art. 124; *Navtej* deleted Art. 377; *Lily Thomas* is defection
-B. 1981 exec → 1993 CJI+2 → 1998 CJI+4 → 2015 NJAC dead; *Bommai* = floor; *Kihoto* = Speaker reviewable; *Sawhney* = 50%+creamy layer; *Puttaswamy* = privacy FR; *Navtej* = s.377 IPC
-C. All these cases invent Basic Structure
-D. *Mehta* = Rylands exceptions apply in India
+**Q20.** Arrange rights/Emergency line chronologically: I. Gopalan II. Jabalpur III. Maneka IV. Puttaswamy
+
+Select the correct answer:
+
+A. I–II–III–IV
+B. I–III–II–IV
+C. II–I–III–IV
+D. I–II–IV–III
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: A.** 1950 → 1976 → 1978 → 2017.
+
+**Logic:** Emergency rights line teaching order.
 
 </details>
 
-**Q141.** Which case is **not** a 9-judge Bench?
-A. *Bommai*
-B. *Indra Sawhney*
-C. *Puttaswamy* (privacy)
-D. *Lily Thomas*
+**Q21.** With reference to Sikri’s early Basic Structure list, which of the following is/are typically included?
+
+1. Constitutional supremacy; republican and democratic form
+2. Secular character; separation of powers; federal character
+3. Unlimited amending power under Article 368(5) as upheld forever
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Minerva later struck unlimited-368 attempts; statement 3 is false.
 
 </details>
 
-**Q142.** Transfer of an HC judge does **not** require the judge’s consent — this line begins in which of the following?
-A. *Bommai*
-B. First / Second Judges (with *Sankalchand*)
-C. *Kihoto*
-D. *Vishaka*
+**Q22.** Match List-I with List-II and select the correct answer using the code given below the lists:
+
+| List-I | List-II |
+|--------|--------|
+| A. Waman Rao (1981) | 1. Cut-off date 24 Apr 1973 for 9th Schedule review |
+| B. I.R. Coelho (2007) | 2. 9-judge: post-cut-off 9th Schedule still faces BS |
+| C. Bommai (1994) | 3. Secularism as BS for Art. 356 misuse |
+| D. NJAC (2015) | 4. Judicial independence as BS |
+
+> Note: Row order is **not** the answer.
+
+Select the correct answer using the code given below:
+
+A. A-1, B-2, C-3, D-4
+B. A-2, B-1, C-4, D-3
+C. A-1, B-3, C-2, D-4
+D. A-1, B-2, C-4, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: A.** A-1, B-2, C-3, D-4.
+
+**Logic:** Later Basic Structure additions cluster.
 
 </details>
 
-**Q143.** Which of the following is/are correct?
-1. *Joseph Shine* overruled *Yusuf Abdul Aziz* (1954).
-2. *Navtej* overruled *Koushal* (2013).
+**Q23.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Indra Sawhney barred reservation in promotion.
+
+Reason (R): The 77th Amendment inserted Article 16(4A) to restore SC/ST promotion reservation.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R correctly explains the constitutional response to A.
+
+**A/R logic:** 16(4A) is the post-Sawhney restoration path for SC/ST promotion.
+
+</details>
+
+**Q24.** Which one of the following pairs is **NOT** correctly matched?
+
+A. Kesavananda date — 24 April 1973
+B. Kesavananda strength — 13-judge; 7:6
+C. Golaknath strength — 11-judge; 6:5
+D. NJAC strength — struck unanimously 9:0 in 2015
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** NJAC was struck 4:1, not 9:0.
+
+**Logic:** Bench-strength traps are common.
+
+</details>
+
+**Q25.** With reference to Shreya Singhal, which of the following is/are correct?
+
+1. IT Act section 66A was struck as vague and as chilling Article 19(1)(a).
+2. The case converted section 66A into a Fundamental Right under Article 21.
+
+Select the correct answer from the code given below:
+
 A. Only 1
 B. Only 2
-C. Both
-D. Neither
+C. Both 1 and 2
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: A.** Only 1 is correct.
+
+**Logic:** Holding is void for vagueness/chilling effect — not “66A becomes FR”.
 
 </details>
 
-**Q144.** Clean environment as Art. 21 + polluter pays is the?
-A. *Gopalan* line
-B. *M.C. Mehta* line
-C. *Golaknath* line
-D. *Kihoto* line
+**Q26.** With reference to floor test teaching after Bommai, which of the following is/are correct?
 
-<details>
-<summary>Show answer</summary>
+1. Majority is tested on the House floor.
+2. Raj Bhavan letters and media claims replace a House vote.
 
-**Ans: B**
+Select the correct answer from the code given below:
 
-</details>
-
-**Q145.** Which pairing is **not** correctly matched?
-A. *Vishaka* — 14, 15, 19, 21
-B. *Puttaswamy* — 21 (privacy)
-C. *Shreya Singhal* — 19(1)(a)
-D. *Bommai* — Art. 360
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — **356**.
-
-</details>
-
-**Q146.** The 91st Amendment (2003) deleted?
-A. The 10th Schedule
-B. The 1/3 split; only ≥2/3 merger remains
-C. Creamy layer
-D. Collegium
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q147.** Which one is **not** correctly matched?
-A. *Navtej* — Dipak Misra CJI
-B. NJAC majority — Khehar
-C. NJAC dissent — Chelameswar
-D. *Third Judges* — A.N. Ray CJI
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — 1998 reference; Ray is 1973 CJI.
-
-</details>
-
-**Q148.** Which of the following is/are correct?
-1. *Indra Sawhney* is the Mandal case.
-2. EWS 10% was decided in *Indra Sawhney* itself.
 A. Only 1
 B. Only 2
-C. Both
-D. Neither
+C. Both 1 and 2
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — EWS = *Janhit Abhiyan* 2022 / 103rd.
+**Ans: A.** Only 1 is correct.
+
+**Logic:** Floor test is the majority fact.
 
 </details>
 
-**Q149.** Which chronology is correct?
-A. *Vishaka* → POSH Act → *Mehta* Oleum
-B. Oleum 1986 → *Vishaka* 1997 → POSH 2013
-C. POSH → *Vishaka* → Oleum
-D. *Vishaka* 2013 → POSH 1997
+**Q27.** Arrange: I. Second Judges II. Bommai III. Vishaka IV. Third Judges
+
+Select the correct chronological answer:
+
+A. I–II–III–IV
+B. II–I–III–IV
+C. I–III–II–IV
+D. I–II–IV–III
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: A.** 1993 → 1994 → 1997 → 1998.
+
+**Logic:** Collegium → Bommai → Vishaka → Third Judges.
 
 </details>
 
-**Q150.** A constitutional amendment that created NJAC and then **died** in Court is the?
-A. 52nd
-B. 77th
-C. 99th
-D. 103rd
+**Q28.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Coelho (2007) is a nine-judge affirmation that post-cut-off Ninth Schedule laws still face Basic Structure review.
+
+Reason (R): Pre-cut-off and post-cut-off timing does not matter in Ninth Schedule questions.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: C.** (A) is true; (R) is false.
+
+**A/R logic:** Cut-off timing (24 Apr 1973) matters in Waman Rao / Coelho teaching.
+
+</details>
+
+**Q29.** With reference to Puttaswamy, which of the following is/are correct?
+
+1. Nine judges held privacy is a Fundamental Right under Article 21.
+2. The bench treated the Jabalpur majority as wrongly decided.
+
+Select the correct answer from the code given below:
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both 1 and 2 are correct.
+
+**Logic:** Privacy + Jabalpur correction are twin holdings in teaching.
+
+</details>
+
+**Q30.** Which of the following statements about Kesavananda vs Golaknath is/are correct?
+
+1. Golaknath froze Part III amending power.
+2. Kesavananda restored amending power with a Basic Structure ceiling.
+3. Marking Golaknath as “Basic Structure invented” is correct.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Statement 3 is the classic false claim.
 
 </details>
 

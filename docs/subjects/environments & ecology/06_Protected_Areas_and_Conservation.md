@@ -585,518 +585,604 @@ D. Simlipal NP — Madhya Pradesh
 
 ## Practice Zone — UPPCS Format Drill
 
-> **30 questions** | multi-statement + A/R + match + NOT-matched
+> **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D | **Ans first, then Logic**
 
-**Q1.** With reference to National Parks, which statements is/are correct?
+**Q1.** With reference to the Wildlife (Protection) Act, 1972, which of the following statements is/are correct?
 
-1. They are declared under WPA Section 35.
-2. Grazing is permitted with CWLW approval.
+1. It is India’s main protected-area statute.
+2. Terrestrial WPA strictness runs National Park > Wildlife Sanctuary > Conservation/Community Reserve.
+3. A Community Reserve is stricter than a National Park under WPA.
 
-A. Only 1
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-B. Only 2
+<details>
+<summary>Show answer</summary>
 
-C. Both 1 and 2
+**Ans: B.** Only 1 and 2.
 
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q2.** With reference to Biosphere Reserves, which statements is/are correct?
-
-1. India has 18 notified Biosphere Reserves.
-2. Nokrek Biosphere Reserve is in Manipur.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** National Park is the strictest WPA category — statement 3 is reversed.
 
 </details>
 
-**Q3.** With reference to Ramsar sites, which statements is/are correct?
+**Q2.** Consider the following pairs:
 
-1. India joined the Ramsar Convention in 1982.
-2. Sultanpur National Park is a Ramsar site in Uttar Pradesh.
+| Category | WPA section teaching |
+|----------|----------------------|
+| 1. Wildlife Sanctuary | Section 18 |
+| 2. National Park | Section 35 |
+| 3. Tiger Reserve | Section 38V (2006 path) |
 
-A. Only 1
+Which of the pairs given above is/are correctly matched?
 
-B. Only 2
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 3 only
 
-C. Both 1 and 2
+<details>
+<summary>Show answer</summary>
 
-D. Neither
+**Ans: C.** All three pairs are correct.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q4.** With reference to Tiger Reserves, which statements is/are correct?
-
-1. They are established under WPA Section 38V.
-2. Elephant Reserves have the same WPA statutory backing.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Sanctuary Sec. 18; NP Sec. 35; Tiger Reserve Sec. 38V.
 
 </details>
 
-**Q5.** With reference to Eco-Sensitive Zones, which statements is/are correct?
+**Q3.** Which of the following pairs is/are NOT correctly matched?
 
-1. ESZs are notified under EPA 1986.
-2. ESZs are created under WPA 1972.
+1. Biosphere Reserve — Wildlife (Protection) Act statutory category like National Park
+2. Biosphere Reserve — UNESCO MAB three-zone model (core → buffer → transition)
+3. India’s first Biosphere Reserve — Nilgiri (1986)
 
-A. Only 1
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1 only
 
-B. Only 2
+<details>
+<summary>Show answer</summary>
 
-C. Both 1 and 2
+**Ans: D.** Only pair 1 is not correctly matched.
 
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q6.** With reference to protected areas in UP, which statements is/are correct?
-
-1. Dudhwa is a major National Park in UP.
-2. UP has marine national parks on the Ganga coast.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** BR is MAB/UNESCO model — not a WPA category. Pairs 2–3 are correct.
 
 </details>
 
-**Q7.** With reference to Community and Conservation Reserves, which statements is/are correct?
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-1. Community Reserves require voluntary community consent.
-2. Conservation Reserves are declared only on private individual farmland.
+Assertion (A): A National Park is the strictest terrestrial WPA protected area.
 
-A. Only 1
+Reason (R): Grazing and forestry are largely banned in National Parks, and boundary change needs the State Legislature.
 
-B. Only 2
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-C. Both 1 and 2
+<details>
+<summary>Show answer</summary>
 
-D. Neither
+**Ans: D.** Both true and R explains the strictness of National Parks.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q8.** With reference to wildlife sanctuaries, which statements is/are correct?
-
-1. Hunting is prohibited inside sanctuaries.
-2. No human activity of any kind is ever allowed in sanctuaries.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**A/R logic:** R states the hard restrictions that make NP the strictest WPA category.
 
 </details>
 
-**Q9.** Which is India's first National Park?
+**Q5.** Match List-I with List-II and select the correct answer using the code given below the lists:
 
-A. Kaziranga
+| List-I | List-II |
+|--------|--------|
+| A. Conservation Reserve | 1. Private/community land with voluntary consent (Sec. 36B) |
+| B. Community Reserve | 2. Govt/community forest buffer near PA (Sec. 36A) |
+| C. Elephant Reserve | 3. Project Elephant 1992; no WPA statutory basis |
 
-B. Corbett
+Code:
 
-C. Dudhwa
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
 
-D. Kanha
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: A.** A-2, B-1, C-3.
 
-**Ans: B** — Hailey/Corbett, 1936.
+**Logic:** 36A conservation; 36B community; Elephant Reserve executive (1992).
 
 </details>
 
-**Q10.** India's first Marine National Park is in:
+**Q6.** With reference to Tiger Reserves, which of the following statements is/are correct?
 
-A. Odisha
+1. They rest on WPA Section 38V with core + buffer under NTCA.
+2. India has 58 tiger reserves; Corbett was the first (1973).
+3. Elephant Reserves are also notified under the same WPA Section 38V.
 
-B. Gujarat
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. Tamil Nadu
+<details>
+<summary>Show answer</summary>
 
-D. Maharashtra
+**Ans: B.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
+**Logic:** Elephant Reserves lack WPA statutory basis — not Sec. 38V.
 
-**Ans: B** — Gulf of Kutch, 1980.
+</details>
+
+**Q7.** Arrange the following in correct chronological order:
+
+1. Wildlife (Protection) Act
+2. First Tiger Reserve (Corbett / Project Tiger start)
+3. First Biosphere Reserve (Nilgiri)
+4. Project Elephant
+
+A. 2-1-3-4
+B. 1-2-4-3
+C. 1-2-3-4
+D. 1-3-2-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** 1972 → 1973 → 1986 → 1992.
+
+**Logic:** WPA 1972; Project Tiger/Corbett 1973; Nilgiri BR 1986; Project Elephant 1992.
+
+</details>
+
+**Q8.** With reference to marine protected areas, which of the following statements is/are correct?
+
+1. India’s first Marine National Park is Gulf of Kutch, Gujarat (1980).
+2. Gulf of Mannar (Tamil Nadu) is also a Marine National Park.
+3. Uttar Pradesh has two coastal Marine National Parks.
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** UP is landlocked — zero marine NPs.
+
+</details>
+
+**Q9.** Which of the following pairs is/are correctly matched?
+
+1. Rudrasagar — Tripura Ramsar site
+2. Sultanpur — Haryana
+3. Both Rudrasagar and Sultanpur — Uttar Pradesh Ramsar sites
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Neither Rudrasagar nor Sultanpur is a UP Ramsar site.
+
+</details>
+
+**Q10.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): An Eco-Sensitive Zone (ESZ) is notified as a buffer around protected areas.
+
+Reason (R): ESZ is itself a WPA Schedule category equal to National Park.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true, R false.
+
+**A/R logic:** ESZ flows from EPA 1986 buffering — not a WPA category.
 
 </details>
 
 **Q11.** Match List-I with List-II:
 
-List-I: A. Simlipal B. Nokrek C. Agasthyamalai D. Manas
-List-II: 1. Kerala 2. Odisha 3. Assam 4. Meghalaya
+| List-I | List-II |
+|--------|--------|
+| A. Ramsar Convention | 1. 1982 |
+| B. India joins Ramsar | 2. 1971 |
+| C. WPA | 3. 1972 |
 
-A. 2 4 1 3
+Code:
 
-B. 4 2 1 3
+A. A-1, B-2, C-3
+B. A-2, B-1, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
 
-C. 2 4 3 1
+<details>
+<summary>Show answer</summary>
 
-D. 1 4 2 3
+**Ans: B.** A-2, B-1, C-3.
 
-<details><summary>Show answer</summary>
-
-**Ans: A** — Simlipal=Odisha(2); Nokrek=Meghalaya(4); Agasthyamalai=Kerala(1); Manas=Assam(3).
-
-</details>
-
-**Q12.** Which Ramsar sites are NOT in Uttar Pradesh?
-
-A. Samaspur and Sarsai Nawar
-
-B. Rudrasagar and Sultanpur
-
-C. Nawabganj and Sandi
-
-D. Haiderpur and Bakhira
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Ramsar 1971; India 1982; WPA 1972.
 
 </details>
 
-**Q13.** Project Tiger was launched in:
+**Q12.** With reference to Sanctuary vs National Park, which of the following statements is/are correct?
 
-A. 1972
+1. Sanctuary allows limited human use with CWLW permission.
+2. National Park is stricter; grazing/forestry largely banned.
+3. Sanctuary boundary change always needs a Constitutional amendment.
 
-B. 1973
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
 
-C. 1992
+<details>
+<summary>Show answer</summary>
 
-D. 2006
+**Ans: C.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q14.** Which pair is NOT correctly matched?
-
-A. NTCA — Tiger Reserves
-
-B. Project Elephant — Elephant Reserves
-
-C. Ramsar — Desertification
-
-D. UNESCO MAB — Biosphere Reserves
-
-<details><summary>Show answer</summary>
-
-**Ans: C** — Ramsar = wetlands.
+**Logic:** NP boundary change needs State Legislature — not a Constitutional amendment for sanctuary as stated.
 
 </details>
 
-**Q15.** Assertion (A): National Parks are stricter than Wildlife Sanctuaries.
-Reason (R): Grazing is prohibited in National Parks but may be allowed in sanctuaries with permission.
+**Q13.** How many of the following are WPA-linked protected area categories?
 
-A. Both true; R explains A
+National Park, Wildlife Sanctuary, Conservation Reserve, Community Reserve, Biosphere Reserve
 
-B. Both true; R not explanation
+A. Only two
+B. Only three
+C. All five
+D. Only four
 
-C. A true, R false
+<details>
+<summary>Show answer</summary>
 
-D. A false, R true
+**Ans: D.** Only four.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q16.** Which biosphere reserve is in Meghalaya?
-
-A. Manas
-
-B. Nokrek
-
-C. Simlipal
-
-D. Panna
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Biosphere Reserve is MAB — not a WPA category.
 
 </details>
 
-**Q17.** Chandraprabha Wildlife Sanctuary is in which state?
+**Q14.** With reference to India Biosphere Reserves, which of the following statements is/are correct?
 
-A. Uttarakhand
+1. India has 18 notified national Biosphere Reserves.
+2. About 12–13 are on the UNESCO World Network (count drifts).
+3. Uttar Pradesh has the highest number of Biosphere Reserves in India.
 
-B. Uttar Pradesh
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. Bihar
+<details>
+<summary>Show answer</summary>
 
-D. Madhya Pradesh
+**Ans: A.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: B** — UPPCS 2023 Q21 pattern (Chandauli district).
-
-</details>
-
-**Q18.** Dudhwa National Park is mainly in which UP region?
-
-A. Bundelkhand
-
-B. Terai
-
-C. Vindhyan scrub
-
-D. Rohilkhand plain only
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** UP has zero Biosphere Reserves.
 
 </details>
 
-**Q19.** Which has **no** statutory basis under WPA 1972?
+**Q15.** Which of the following is the correct MAB zonation sequence?
 
-A. Tiger Reserve
+A. Transition → buffer → core
+B. Core → buffer → transition
+C. Buffer → core → transition
+D. Core → transition → buffer
 
-B. Biosphere Reserve
+<details>
+<summary>Show answer</summary>
 
-C. National Park
+**Ans: B.** Core → buffer → transition.
 
-D. Wildlife Sanctuary
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q20.** World Wetlands Day is observed on:
-
-A. 2 February
-
-B. 22 March
-
-C. 5 June
-
-D. 22 May
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Core has no exploitative use; buffer regulated; transition livelihoods.
 
 </details>
 
-**Q21.** Match PA type with WPA section:
+**Q16.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-List-I: A. National Park B. Conservation Reserve C. Tiger Reserve
-List-II: 1. Sec 36A 2. Sec 35 3. Sec 38V
+Assertion (A): Elephant Reserves are created under Project Elephant (1992).
 
-A. 2 1 3
+Reason (R): Elephant Reserves have the same WPA statutory basis as Tiger Reserves under Section 38V.
 
-B. 2 3 1
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-C. 1 2 3
+<details>
+<summary>Show answer</summary>
 
-D. 3 2 1
+**Ans: C.** A true, R false.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q22.** Which is a natural UNESCO World Heritage Site?
-
-A. Jaipur city
-
-B. Kaziranga
-
-C. Taj Mahal
-
-D. Hampi
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**A/R logic:** Elephant Reserves are executive notifications — no WPA statute like TR.
 
 </details>
 
-**Q23.** The core zone of a Biosphere Reserve allows:
+**Q17.** Arrange PA strictness (strictest to least strict among WPA terrestrial set):
 
-A. No exploitative human activity
+A. Sanctuary > National Park > Community Reserve
+B. Community Reserve > Sanctuary > National Park
+C. National Park > Sanctuary > Conservation/Community Reserve
+D. Conservation Reserve > National Park > Sanctuary
 
-B. Free mining
+<details>
+<summary>Show answer</summary>
 
-C. Unrestricted tourism
+**Ans: C.** NP > Sanctuary > Conservation/Community Reserve.
 
-D. Industrial estates
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q24.** Which statement about ESZ is correct?
-
-A. ESZ is notified under WPA
-
-B. ESZ protects PA buffers under EPA
-
-C. ESZ replaces National Parks
-
-D. ESZ applies only to marine areas
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Standard WPA terrestrial strictness ladder.
 
 </details>
 
-**Q25.** Pilibhit Tiger Reserve in UP was notified in:
+**Q18.** Which of the following pairs is/are correctly matched?
 
-A. 1973
+1. NTCA — governs Tiger Reserves
+2. Project Elephant — about 33 elephant reserves class figure
+3. ESZ — EPA 1986 buffer restricting mining/polluting industry near PAs
 
-B. 1987
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. 2014
+<details>
+<summary>Show answer</summary>
 
-D. 2023
+**Ans: D.** All three are correct.
 
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q26.** Which is an example of a Community Reserve category?
-
-A. Buffer forest under Sec 36A
-
-B. Private/community land under Sec 36B
-
-C. Marine NP
-
-D. ESZ notification
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** NTCA–TR; ~33 elephant reserves; ESZ from EPA.
 
 </details>
 
-**Q27.** Keibul Lamjao National Park is located in which lake?
+**Q19.** With reference to Ramsar and UP, which of the following statements is/are correct?
 
-A. Loktak
+1. Ramsar marks wetlands of international importance.
+2. India joined Ramsar in 1982.
+3. Calling Sultanpur a UP Ramsar site is correct.
 
-B. Dal
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. Chilika
+<details>
+<summary>Show answer</summary>
 
-D. Wular
+**Ans: A.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: A** — UPPCS 2022 pattern (Manipur).
-
-</details>
-
-**Q28.** Which pair is NOT correctly matched?
-
-A. Dudhwa — UP National Park
-
-B. Gulf of Kutch — first Marine NP
-
-C. Sultanpur — UP Ramsar site
-
-D. Nokrek — Meghalaya BR
-
-<details><summary>Show answer</summary>
-
-**Ans: C** — Sultanpur is in Haryana.
+**Logic:** Sultanpur is Haryana.
 
 </details>
 
-**Q29.** In National Parks, genetic diversity is maintained through:
+**Q20.** Match List-I with List-II:
 
-A. In-situ conservation
+| List-I | List-II |
+|--------|--------|
+| A. Core (BR) | 1. Livelihoods / sustainable use |
+| B. Buffer (BR) | 2. No exploitative use |
+| C. Transition (BR) | 3. Research, education, regulated use |
 
-B. Ex-situ conservation only
+Code:
 
-C. Seed banks only
+A. A-3, B-2, C-1
+B. A-2, B-3, C-1
+C. A-2, B-1, C-3
+D. A-1, B-3, C-2
 
-D. Zoos only
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: B.** A-2, B-3, C-1.
 
-**Ans: A** — UPPCS 2023 Q118.
+**Logic:** Core no exploitation; buffer research/education; transition livelihoods.
 
 </details>
 
-**Q30.** Arrange chronologically:
+**Q21.** Which of the following statements about Community Reserve is/are correct?
 
-1. WPA enacted 2. Project Tiger 3. India joins Ramsar 4. Conservation Reserve added to WPA
+1. It sits on private or community land with voluntary consent.
+2. It was inserted via 2002 WPA path (Sec. 36B).
+3. It is identical to a Tiger Reserve core.
 
-A. 1, 2, 3, 4
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
 
-B. 2, 1, 3, 4
+<details>
+<summary>Show answer</summary>
 
-C. 1, 3, 2, 4
+**Ans: C.** Only 1 and 2.
 
-D. 3, 1, 2, 4
+**Logic:** Not identical to TR core.
 
-<details><summary>Show answer</summary>
+</details>
 
-**Ans: A** — WPA 1972 → Project Tiger 1973 → Ramsar 1982 → WPA amend 2002.
+**Q22.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Conservation Reserve (Sec. 36A) is typically a buffer near a protected area.
+
+Reason (R): Conservation Reserves are notified only under the Forest Rights Act, 2006.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true, R false.
+
+**A/R logic:** Conservation Reserve is WPA 36A (2002) — not FRA.
+
+</details>
+
+**Q23.** With reference to firsts, which of the following statements is/are correct?
+
+1. First Tiger Reserve associated teaching — Corbett, 1973.
+2. First Biosphere Reserve — Nilgiri, 1986.
+3. First Marine NP — Gulf of Kutch, 1980.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are correct.
+
+**Logic:** Corbett TR; Nilgiri BR; Gulf of Kutch Marine NP.
+
+</details>
+
+**Q24.** Which one of the following correctly states the legal base of Eco-Sensitive Zones?
+
+A. Environment (Protection) Act, 1986 buffer framework
+B. WPA Schedule I only
+C. Forest Rights Act, 2006 alone
+D. Biological Diversity Act, 2002 alone
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** EPA 1986 buffer framework.
+
+**Logic:** ESZ is EPA-linked, not a WPA schedule category.
+
+</details>
+
+**Q25.** How many of the following UP negative geography locks are correct?
+
+1. Rudrasagar ≠ UP
+2. Sultanpur ≠ UP
+3. UP has marine national parks
+
+A. Only one
+B. Only two
+C. All three
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only two.
+
+**Logic:** 1 and 2 correct; 3 is false (UP has no marine NPs).
+
+</details>
+
+**Q26.** With reference to Tiger Reserve structure, which of the following statements is/are correct?
+
+1. Core + buffer model under NTCA.
+2. NTCA became statutory through 2005/2006 WPA path.
+3. NTCA also notifies all Elephant Reserves under the same section.
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Elephant Reserves are Project Elephant executive path.
+
+</details>
+
+**Q27.** Arrange: Conservation Reserve insertion → Community Reserve insertion teaching year path:
+
+A. Both via EPA 1986 only
+B. Both via 1972 original WPA only
+C. Both via FRA 2006 only
+D. Both via 2002 WPA amendments (36A / 36B)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both via 2002 WPA path (36A/36B).
+
+**Logic:** 2002 inserted Conservation and Community Reserves.
+
+</details>
+
+**Q28.** Which of the following pairs is/are NOT correctly matched?
+
+1. Wildlife Sanctuary — limited regulated use possible
+2. National Park — generally no grazing/forestry
+3. Biosphere Reserve core — intensive mining as the default use
+
+A. 3 only
+B. 1 and 2 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only pair 3 is not correctly matched.
+
+**Logic:** Core = no exploitative use.
+
+</details>
+
+**Q29.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): India has about 58 tiger reserves in recent teaching counts.
+
+Reason (R): Project Tiger began in 1992 along with Project Elephant.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true, R false.
+
+**A/R logic:** Project Tiger began in 1973; Project Elephant in 1992.
+
+</details>
+
+**Q30.** With reference to protected-area governance, which of the following statements is/are correct?
+
+1. Chief Wildlife Warden is the State implementing officer under WPA.
+2. NBWL is the PM-chaired national advisory body.
+3. ESZ notification makes a site a UNESCO Biosphere Reserve automatically.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** ESZ ≠ automatic UNESCO BR listing.
 
 </details>
 

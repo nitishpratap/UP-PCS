@@ -3899,954 +3899,788 @@ D. 3 1 4 2
 
 ## Practice Zone — UPPCS Format Drill
 
-**Q1.** The four Buddhist Councils were held at the following places. Arrange them in correct chronological order:
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-1. Vaishali 2. Rajagriha 3. Kundalvana 4. Pataliputra
 
-A. 1, 2, 4, 3 B. 2, 1, 3, 4 C. 2, 1, 4, 3 D. 1, 2, 3, 4
+**Q1.** With reference to Buddha’s life geography, which of the following statements is/are correct?
+
+1. Birth at Lumbini (Nepal), enlightenment at Bodh Gaya.
+2. First sermon at Sarnath (UP) and Mahaparinirvana at Kushinagar (UP).
+3. Lumbini lies in Uttar Pradesh.
+
+Select the correct answer from the code given below:
+
+A. 2 and 3 only
+
+B. 1 and 2 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: B.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: Lumbini is in Nepal — common geography trap.
 
 </details>
 
 ---
 
-**Q2.** *Milind Panho* is a dialogue between King Milind and which Buddhist saint?
+**Q2.** Arrange the Buddhist Councils in correct chronological order of place:
 
-A. Nagarjun B. Nagbhatt C. Nagasena D. Kumaril Bhatt
+1. Pataliputra
+2. Rajagriha
+3. Kundalvana
+4. Vaishali
+
+Select the correct answer from the code given below:
+
+A. 4, 2, 1, 3
+
+B. 2, 1, 4, 3
+
+C. 2, 4, 1, 3
+
+D. 2, 4, 3, 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: C.** Rajagriha → Vaishali → Pataliputra → Kundalvana.
+
+**Logic:** Place order, not a bare code, is the Must-Score memory.
 
 </details>
 
 ---
 
-**Q3.** Consider the following statements with respect to Ashoka:
+**Q3.** Match List-I with List-II and select the correct answer from the code given below the lists:
 
-1. The definition of Dhamma given by Ashoka is taken from "Rahulovada-sutta".
-2. In the 14th year of his coronation, Ashoka appointed Dhamma-mahamatras.
+| List-I (Person) | List-II (Association) |
+|---|---|
+| 1. Yashodhara | A. First nun |
+| 2. Ananda | B. Buddha’s wife |
+| 3. Upali | C. Attendant |
+| 4. Mahapajapati | D. Vinaya specialist |
 
-A. Both 1 and 2 B. Neither 1 nor 2 C. Only 1 D. Only 2
+*Row order is not the answer code.*
+
+A. 1-B, 2-D, 3-C, 4-A
+
+B. 1-B, 2-C, 3-D, 4-A
+
+C. 1-C, 2-B, 3-D, 4-A
+
+D. 1-B, 2-C, 3-A, 4-D
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: B.** Wife–attendant–Vinaya–first nun.
+
+**Logic:** Devadatta is the schismatic; Rahula is the son.
 
 </details>
 
 ---
 
-**Q4.** In which of the following stupas are the features of a platform with 'Aryaka-Pillars' found?
+**Q4.** Consider the following statements about Buddhist schools:
 
-A. Nagarjunakonda B. Ghantasala C. Amaravati D. Bodhgaya
+1. Hinayana aims at the arhat and uses Pali.
+2. Mahayana elevates the bodhisattva ideal and uses Sanskrit.
+3. Mahasanghika and Mahayana are identical names for the same early Vaishali event.
+
+Select the correct answer from the code given below:
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: C.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: Mahasanghika = early Vaishali split; Mahayana = later great vehicle.
 
 </details>
 
 ---
 
-**Q5.** Which one of the following pairs is NOT correctly matched?
-(Tirthankar) — (Nirvan Place)
+**Q5.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Rishabhanath — Ashtapad
-B. Vasupujya — Sammedashikhar
-C. Neminath — Urjayanta
-D. Mahavira — Pavapuri
+**Assertion (A):** Buddhism teaches anatta (no permanent soul).
 
-<details>
-<summary>Show answer</summary>
+**Reason (R):** Jainism teaches a real jiva.
 
-**Ans: B**
+Select the correct answer from the code given below:
 
-</details>
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 
----
+B. (A) is false, but (R) is true
 
-**Q6.** Which of the following statements is/are correct?
-
-1. Buddha was born at Lumbini and attained Mahaparinirvana at Kushinagar.
-2. The first sermon was delivered at Bodh Gaya.
-
-A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — sermon = Sarnath.
-
-</details>
-
----
-
-**Q7.** With reference to the Four Noble Truths, consider the following statements:
-
-1. The second truth identifies craving (tanha) as the cause of dukkha.
-2. The third truth holds that cessation is impossible.
-3. The fourth truth prescribes the Eightfold Path.
-
-How many of the above statements are correct?
-A. Only one B. Only two C. All three D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 3.
-
-</details>
-
----
-
-**Q8.** Match List-I with List-II:
-
-| List-I | List-II |
-|--------|---------|
-| A. Prajna | 1. Right Speech, Action, Livelihood |
-| B. Sila | 2. Right View, Right Resolve |
-| C. Samadhi | 3. Right Effort, Mindfulness, Concentration |
-
-A. 2 1 3 B. 1 2 3 C. 2 3 1 D. 3 1 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q9.** Which of the following statements regarding Buddhist philosophy is **not** correct?
-
-A. Anatta denies a permanent self.
-B. Pratityasamutpada is taught as a 12-link chain.
-C. Early Buddhism affirms a creator God who judges karma.
-D. Anicca means impermanence of conditioned things.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q10.** Given below are two statements:
-
-**Assertion (A):** The Second Buddhist Council is associated with a sangha split.
-
-**Reason (R):** It was held at Kundalvana under Kanishka.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — split = Vaishali (2nd). Kundalvana = 4th.
+**Ans: A.** Both true; R states Jain doctrine but does not explain why Buddhism teaches anatta.
+
+**A/R logic:** Soul contrast is a standard confused pair; explanation relation fails.
 
 </details>
 
 ---
 
-**Q11.** Match List-I with List-II:
+**Q6.** With reference to Jain tirthankaras, which of the following is/are correct?
 
-| List-I (Council) | List-II |
-|------------------|---------|
-| A. First | 1. Moggaliputta Tissa; Ashoka |
-| B. Second | 2. Upali and Ananda recitation |
-| C. Third | 3. Sthaviravada vs Mahasanghika |
-| D. Fourth (Kushan) | 4. Kundalvana, Kashmir |
+1. Mahavira is the 24th with the lion symbol and nirvana at Pavapuri.
+2. Parshvanatha is the 23rd with the serpent and a Varanasi birth tradition.
+3. Bahubali / Gomateshwara is one of the 24 tirthankaras.
 
-A. 2 3 1 4 B. 2 1 3 4 C. 3 2 1 4 D. 2 3 4 1
+Select the correct answer from the code given below:
+
+A. 2 and 3 only
+
+B. 1 and 2 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: Bahubali is famous but not among the 24.
 
 </details>
 
 ---
 
-**Q12.** Which of the following statements is/are correct?
+**Q7.** Which one of the following pairs is NOT correctly matched?
 
-1. Vinaya Pitaka contains monastic discipline.
-2. Dhammapada is placed in the Abhidhamma Pitaka as its first book.
-3. Jataka tales sit in the Khuddaka Nikaya of the Sutta Pitaka.
+A. Chaitya — prayer hall
 
-A. 1 and 2 only B. 1 and 3 only C. 2 and 3 only D. 1, 2 and 3
+B. Vihara — monastery
+
+C. Barabar caves — gifted to Ajivikas
+
+D. Barabar caves — Ajanta-style Buddhist painted caves of the same age
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: D.** Barabar is Mauryan Ajivika gift; Ajanta is later Buddhist painted caves.
+
+**Logic:** Classic Barabar vs Ajanta confused pair.
 
 </details>
 
 ---
 
-**Q13.** Consider the following pairs:
+**Q8.** With reference to the Tripitaka, which of the following is/are correct?
 
-| Text | Association |
-|------|-------------|
-| 1. Milinda Panha | Nagasena |
-| 2. Buddhacharita | Ashvaghosha |
-| 3. Madhyamaka sunyata | Nagasena |
+1. Vinaya contains monk rules.
+2. Sutta contains discourses.
+3. Abhidhamma contains philosophy.
 
-How many of the above pairs are correctly matched?
-A. Only one B. Only two C. All three D. None
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — 3 is Nagarjuna.
+**Ans: D.** All three baskets are correctly described.
+
+**Logic:** Vinaya / Sutta / Abhidhamma triad.
 
 </details>
 
 ---
 
-**Q14.** With reference to Hinayana and Mahayana, consider the following statements:
+**Q9.** Match List-I with List-II and select the correct answer from the code given below the lists:
 
-1. Hinayana’s classic goal is arhatship; Mahayana’s ideal is the bodhisattva.
-2. Theravada is the living school usually mapped to the Hinayana label s.
-3. Vajrayana is simply another name for the First Council’s canon.
+| List-I (Council / School) | List-II (Tag) |
+|---|---|
+| 1. Second Council | A. Moggaliputta Tissa |
+| 2. Third Council | B. Sthaviravada vs Mahasanghika split |
+| 3. Fourth Council | C. Sarvastivada / Kundalvana |
+| 4. Theravada | D. Surviving Hinayana line linked with Third Council |
 
-How many of the above statements are correct?
-A. Only one B. Only two C. All three D. None
+*Row order is not the answer code.*
+
+A. 1-B, 2-C, 3-A, 4-D
+
+B. 1-A, 2-B, 3-C, 4-D
+
+C. 1-B, 2-A, 3-C, 4-D
+
+D. 1-B, 2-A, 3-D, 4-C
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — 1 and 2.
+**Ans: C.** Vaishali split; Pataliputra/Tissa; Kundalvana/Sarvastivada; Theravada line.
+
+**Logic:** Presidents: Mahakassapa (1st), Sabakami (2nd), Moggaliputta Tissa (3rd), Vasumitra (4th).
 
 </details>
 
 ---
 
-**Q15.** Which of the following statements is/are correct?
+**Q10.** Consider the following statements about Digambara and Svetambara:
 
-1. Barabar caves were donated to Ajivika ascetics.
-2. Ajanta is primarily a Buddhist painted cave complex.
-3. Ellora caves 30–34 are Jain.
+1. Digambara monks are sky-clad and deny women’s moksha as women.
+2. Svetambara monks wear white and allow women’s liberation.
+3. Tattvartha Sutra is rejected by both sects.
 
-A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+Select the correct answer from the code given below:
+
+A. 2 and 3 only
+
+B. 1 and 2 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: B.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: Tattvartha Sutra is accepted by both.
 
 </details>
 
 ---
 
-**Q16.** Given below are two statements:
+**Q11.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Assertion (A):** Karle is noted for a large early chaitya hall.
+**Assertion (A):** Ashoka convened the Third Council at Pataliputra.
 
-**Reason (R):** A chaitya is a Buddhist monastery dormitory, while a vihara is the apsidal prayer hall.
+**Reason (R):** Barabar caves were gifted by Ashoka to Buddhists as painted chaityas.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — R reverses chaitya and vihara.
+**Ans: C.** A true; R false — Barabar gifted to Ajivikas, not Buddhists.
+
+**A/R logic:** Dhamma-mahamatras in 14th year; Barabar ≠ Ajanta.
 
 </details>
 
 ---
 
-**Q17.** Which of the following statements regarding Ashoka is **not** correct?
+**Q12.** With reference to Mahayana philosophy, which of the following is/are correct?
 
-A. He convened the Third Buddhist Council at Pataliputra.
-B. Mahinda is associated with the Sri Lanka mission.
-C. Barabar was given exclusively as a Buddhist vihara for the sangha.
-D. Dhamma-mahamatras appear in his inscriptions as a new cadre.
+1. Madhyamaka is associated with Nagarjuna.
+2. Yogacara is associated with Asanga–Vasubandhu.
+3. Nagasena is the Madhyamaka philosopher of emptiness.
+
+Select the correct answer from the code given below:
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: C.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: Nagasena is Milinda Panha monk; Nagarjuna ≠ Nagasena.
 
 </details>
 
 ---
 
-**Q18.** Match List-I with List-II:
+**Q13.** Which of the following bodhisattva associations is/are correct?
 
-| List-I | List-II |
-|--------|---------|
-| A. Rishabhanatha | 1. Lion |
-| B. Parshvanatha | 2. Bull |
-| C. Neminatha | 3. Serpent |
-| D. Mahavira | 4. Conch |
+1. Avalokiteshvara / Padmapani — compassion
+2. Manjushri — wisdom
+3. Maitreya — future Buddha
 
-A. 2 3 4 1 B. 2 4 3 1 C. 3 2 4 1 D. 2 3 1 4
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: D.** All three associations are correct.
+
+**Logic:** Also: Vajrapani (power), Tara.
 
 </details>
 
 ---
 
-**Q19.** With reference to Jain nirvana sites, consider the following statements:
+**Q14.** Arrange the following events of Mahavira’s traditional timeline (earliest first):
 
-1. Twenty tirthankaras attained nirvana at Sammed Shikhar.
-2. Vasupujya’s nirvana place is Champapuri.
-3. Mahavira’s nirvana place is Urjayanta.
+1. Kevala
+2. Birth (~599 BCE)
+3. Nirvana at Pavapuri (~527 BCE)
+4. Renunciation at age 30
 
-How many of the above statements are correct?
-A. Only one B. Only two C. All three D. None
+Select the correct answer from the code given below:
+
+A. 2, 4, 1, 3
+
+B. 2, 1, 4, 3
+
+C. 4, 2, 1, 3
+
+D. 2, 4, 3, 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — 1 and 2. Mahavira = Pavapuri; Urjayanta = Nemi.
+**Ans: A.** Birth → renunciation (30) → kevala (42) → nirvana (~527 BCE).
+
+**Logic:** Alternate school dates exist; this is the usual booklet timeline.
 
 </details>
 
 ---
 
-**Q20.** Which of the following statements is/are correct?
+**Q15.** Milinda Panha is a dialogue between:
 
-1. Parshvanatha is the 23rd tirthankara and is linked in tradition with Varanasi.
-2. Mahavira added brahmacharya as a distinct fifth great vow.
+A. Menander and Nagasena
 
-A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
+B. Menander and Nagarjuna
+
+C. Kanishka and Ashvaghosha
+
+D. Ashoka and Upagupta only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: A.** Indo-Greek Menander (Milinda) and monk Nagasena.
+
+**Logic:** Do not replace Nagasena with Nagarjuna.
 
 </details>
 
 ---
 
-**Q21.** Which one of the following pairs is **not** correctly matched?
+**Q16.** With reference to Jain doctrine, which of the following is/are correct?
 
-A. Digambara — nude monks; original Angas said to be lost
-B. Svetambara — white robes; women can attain moksha
-C. Digambara — Mallinatha as a woman tirthankara
-D. Svetambara — Kalpasutra in the Paryushana cycle
+1. Mahavira taught five great vows; Parshvanatha’s older set is remembered as four.
+2. Anekantavada is many-sided reality; Syadvada is seven-fold predication.
+3. Charvaka doctrine centres on fatalist niyati like Ajivika.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — woman Mallinatha = Svetambara.
+**Ans: A.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: Charvaka = materialist, perception-only; Ajivika = niyati.
 
 </details>
 
 ---
 
-**Q22.** Match List-I with List-II:
+**Q17.** Which one of the following pairs is NOT correctly matched?
 
-| List-I | List-II |
-|--------|---------|
-| A. Ahimsa | 1. Non-possession |
-| B. Asteya | 2. Non-violence |
-| C. Aparigraha | 3. Non-stealing |
-| D. Brahmacharya | 4. Celibacy |
+A. Birth symbol — lotus / bull
 
-A. 2 3 1 4 B. 2 1 3 4 C. 3 2 1 4 D. 2 3 4 1
+B. Mahabhinishkramana — horse
+
+C. First sermon — wheel
+
+D. Mahaparinirvana — Bodhi tree
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: D.** Mahaparinirvana symbol is the stupa; Bodhi tree = enlightenment.
+
+**Logic:** Life-symbol set: lotus/bull, horse, Bodhi, wheel, stupa.
 
 </details>
 
 ---
 
-**Q23.** Consider the following statements about the Shramana tradition:
+**Q18.** With reference to Uttar Pradesh Buddhist circuit facts, which of the following is/are correct?
 
-1. It arose as a renouncer critique of Vedic sacrifice.
-2. Charvaka is counted among nastika schools but denies karma and rebirth.
-3. All Shramana schools accept the authority of the Vedas.
+1. Sarnath — first sermon; Kushinagar — death.
+2. Shravasti / Jetavana and Sankisa (descent tradition) are UP-linked.
+3. Rummindei inscription of Ashoka is in Mathura district.
 
-How many of the above statements are correct?
-A. Only one B. Only two C. All three D. None
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — 1 and 2.
+**Ans: A.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: Rummindei proves Lumbini birthplace (Nepal).
 
 </details>
 
 ---
 
-**Q24.** Given below are two statements:
+**Q19.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Assertion (A):** Ajivikas taught that niyati determines all events.
+**Assertion (A):** Bhagavatism is the early Vasudeva-Krishna cult centred on Mathura.
 
-**Reason (R):** Makkhali Gosala is remembered as the sect’s founder-teacher.
+**Reason (R):** The Heliodorus pillar at Besnagar shows a Greek ambassador as a Bhagavata.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — both true; founder-name does not *explain* fatalism.
+**Ans: D.** Both true; Heliodorus evidence explains the early Bhagavata reach of A.
+
+**A/R logic:** Bhagavatism sits inside the wider Vaishnava world.
 
 </details>
 
 ---
 
-**Q25.** Which of the following statements is/are correct?
+**Q20.** Consider the following statements about Jain councils:
 
-1. Charvaka admits perception as the only valid pramana.
-2. Ajita Kesakambalin is a materialist contemporary of the Buddha.
-3. Charaka Samhita is the root text of Lokayata.
+1. Early Magadhan compilation is linked with Sthulabhadra at Pataliputra.
+2. Final Svetambara writing is linked with Devardhigani at Vallabhi.
+3. Vallabhi is the same Buddhist council site as Vaishali / Kundalvana.
 
-A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Charaka = Ayurveda.
+**Ans: A.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: Vallabhi ≠ Buddhist Vaishali or Kundalvana.
 
 </details>
 
 ---
 
-**Q26.** Which of the following is **not** a nastika school?
+**Q21.** Which of the following statements about Four Noble Truths and Eightfold Path is/are correct?
 
-A. Jainism B. Buddhism C. Mimamsa D. Charvaka
+1. Four Noble Truths diagnose dukkha.
+2. Eightfold Path is the Magga prescription that ends craving.
+3. Eightfold Path replaces the Four Noble Truths as an unrelated doctrine.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: A.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: Magga is the prescription within the Four Truths framework.
 
 </details>
 
 ---
 
-**Q27.** Match List-I with List-II:
+**Q22.** Who is remembered as the Buddha’s last convert?
 
-| List-I | List-II |
-|--------|---------|
-| A. Buddhism | 1. Niyati |
-| B. Jainism | 2. Anatta |
-| C. Ajivika | 3. Pratyaksha-only |
-| D. Charvaka | 4. Anekantavada |
+A. Devadatta
 
-A. 2 4 1 3 B. 2 4 3 1 C. 4 2 1 3 D. 2 1 4 3
+B. Subhadda
+
+C. Upali
+
+D. Ananda
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Subhadda is remembered as the last convert.
+
+**Logic:** Last rains often placed at Vaishali; Mahapajapati ordained through Ananda.
 
 </details>
 
 ---
 
-**Q28.** With reference to Bhagavatism, consider the following statements:
+**Q23.** With reference to Sarvastivada, which of the following is/are correct?
 
-1. It centres on Vasudeva–Krishna and is rooted in the Mathura region.
-2. The Heliodorus pillar shows a Greek ambassador as a Bhagavata.
-3. Bhagavatism is identical with Ajivika niyati.
+1. It teaches sarvam asti and uses Sanskrit.
+2. It is tied to the Fourth Council at Kundalvana.
+3. Vaibhashika trusts sutra only while Sautrantika trusts Abhidharma only.
 
-How many of the above statements are correct?
-A. Only one B. Only two C. All three D. None
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — 1 and 2.
+**Ans: A.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 reversed: Vaibhashika trusts Abhidharma; Sautrantika trusts sutra only.
 
 </details>
 
 ---
 
-**Q29.** Which of the following statements is/are correct?
+**Q24.** Which of the following UP Jain–Hindu geography tags is/are correct?
 
-1. Pashupata is among the earliest named Shaiva sects (Lakulisha).
-2. Kashi Vishwanath is the Jyotirlinga in Uttar Pradesh.
-3. Ellora cave 16 (Kailasa) is a Buddhist chaitya.
+1. Parshvanatha — Varanasi birth tradition
+2. Rishabhanatha — Ayodhya birth tradition
+3. About 20 tirthankaras attain nirvana at Sammed Shikhar; Vasupujya at Champapuri
 
-A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: D.** All three statements are correct.
+
+**Logic:** Pavapuri = Mahavira only; Vasupujya ≠ Sammed Shikhar.
 
 </details>
 
 ---
 
-**Q30.** Arrange the usual Dashavatara sequence up to Vamana:
+**Q25.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-1. Varaha 2. Matsya 3. Narasimha 4. Kurma 5. Vamana
+**Assertion (A):** Shramana traditions are often nastika and include Buddhism, Jainism, Ajivika and Charvaka.
 
-A. 2–4–1–3–5 B. 2–1–4–3–5 C. 4–2–1–3–5 D. 2–4–3–1–5
+**Reason (R):** Astika schools accept the authority of the Veda.
 
-<details>
-<summary>Show answer</summary>
+Select the correct answer from the code given below:
 
-**Ans: A**
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 
-</details>
+B. (A) is false, but (R) is true
 
----
-
-**Q31.** Which one of the following pairs is **not** correctly matched?
-
-A. Alvars — Vaishnava Tamil saints
-B. Nayanars — Shaiva Tamil saints
-C. Smartism — Panchayatana worship
-D. Saura — Ganesha as supreme deity
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Saura = Surya; Ganapatya = Ganesha.
-
-</details>
-
----
-
-**Q32.** Consider the following statements about UP Buddhist geography:
-
-1. Sarnath is the first-sermon site.
-2. Kushinagar is the Mahaparinirvana site.
-3. Lumbini, the birthplace, lies in present-day Uttar Pradesh.
-
-How many of the above statements are correct?
-A. Only one B. Only two C. All three D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Lumbini = Nepal.
-
-</details>
-
----
-
-**Q33.** Given below are two statements:
-
-**Assertion (A):** Jain triratna is samyak darshan, jnana and charitra.
-
-**Reason (R):** It is the same triad as Buddha, Dhamma and Sangha.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: D.** Both true; R correctly explains the nastika/astika contrast implied by A.
+
+**A/R logic:** Shramana vs Brahmana / nastika vs astika are foundational pairs.
 
 </details>
 
 ---
 
-**Q34.** Which of the following statements is/are correct?
+**Q26.** Nayaputta refers to:
 
-1. Mahayana texts are typically in Sanskrit rather than the Pali Tipitaka alone.
-2. Padmasambhava is a fact for Vajrayana’s Tibetan transmission.
-3. Hinayana denies the Four Noble Truths.
+A. Buddha
 
-A. 1 and 2 only B. 1 and 3 only C. 2 and 3 only D. 1, 2 and 3
+B. Mahavira
+
+C. Gosala
+
+D. Nagasena
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Nayaputta is Mahavira, not Buddha.
+
+**Logic:** Titthiya field around Buddha includes Nigantha (Mahavira) among six teachers.
 
 </details>
 
 ---
 
-**Q35.** Match List-I with List-II:
+**Q27.** With reference to Vajrayana, which of the following is/are correct?
 
-| List-I (Event) | List-II |
-|----------------|---------|
-| A. Birth | 1. Sarnath |
-| B. Enlightenment | 2. Lumbini |
-| C. First sermon | 3. Kushinagar |
-| D. Mahaparinirvana | 4. Bodh Gaya |
+1. It adds tantra and mantra.
+2. Padmasambhava is linked with its spread toward Tibet.
+3. It is identical with early Sthaviravada of the Second Council.
 
-A. 2 4 1 3 B. 2 1 4 3 C. 4 2 1 3 D. 2 4 3 1
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: A.** Statements 1 and 2 are correct.
+
+**Logic:** Stmt 3 false: Vajrayana ≠ Vaishali Sthaviravada.
 
 </details>
 
 ---
 
-**Q36.** With reference to Jain vows, consider the following statements:
+**Q28.** Which one of the following pairs is NOT correctly matched?
 
-1. Parshvanatha’s chaturyama did not list brahmacharya separately.
-2. Sallekhana is the sixth mahavrata in both sects.
-3. Ahimsa is the foremost mahavrata.
+A. Triratna — Buddha, Dhamma, Sangha
 
-How many of the above statements are correct?
-A. Only one B. Only two C. All three D. None
+B. Light of Asia — Edwin Arnold (from Lalitavistara)
+
+C. First nun — Mahapajapati
+
+D. Third Council president — Vasumitra
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — 1 and 3.
+**Ans: D.** Third Council president is Moggaliputta Tissa; Vasumitra is Fourth.
+
+**Logic:** Council presidents must not be swapped across councils.
 
 </details>
 
 ---
 
-**Q37.** Which of the following statements regarding cave / stupa architecture is **not** correct?
+**Q29.** Consider the following statements about Ashoka and Buddhism:
 
-A. Lomas Rishi is a Barabar facade.
-B. Ghantasala has the aryaka-pillar platform feature.
-C. Bodh Gaya Mahabodhi is the type-site for ayaka-platform stupas.
-D. Kanheri is a western Indian Buddhist cave group.
+1. Dhamma-mahamatras appear in Ashoka’s 14th year.
+2. Ashoka’s Dhamma is simply identical with the Rahulovada text.
+3. The Bhabru edict lists Buddhist texts such as Laghulovada for monks.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: C.** Statements 1 and 3 are correct.
+
+**Logic:** Stmt 2 false: Dhamma is ethical state policy, not defined as Rahulovada.
 
 </details>
 
 ---
 
-**Q38.** Consider the following pairs:
+**Q30.** Which of the following statements about Shaivism and Vaishnavism is/are correct?
 
-| Site | Tradition |
-|------|-----------|
-| 1. Udayagiri–Khandagiri | Jain (Kharavela) |
-| 2. Sravana Belgola | Digambara |
-| 3. Pavapuri Jal Mandir | Mahavira nirvana |
+1. Shaivism centres on Shiva / linga.
+2. Vaishnavism centres on Vishnu and avatars.
+3. Bhagavatism is the early Krishna-Vasudeva stream inside the wider Vaishnava world.
 
-How many of the above pairs are correctly matched?
-A. Only one B. Only two C. All three D. None
+Select the correct answer from the code given below:
 
-<details>
-<summary>Show answer</summary>
+A. 1 and 2 only
 
-**Ans: C**
+B. 2 and 3 only
 
-</details>
+C. 1 and 3 only
 
----
-
-**Q39.** Which of the following statements is/are correct?
-
-1. Ananda recited suttas at the First Council.
-2. The Third Council is tied to Ashoka and Pataliputra.
-3. The 2025 chronology places Kundalvana immediately after Vaishali, before Pataliputra.
-
-A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Kundalvana is **last** of the four.
+**Ans: D.** All three statements are correct.
+
+**Logic:** Keep Bhagavatism as early stream, not a total synonym swap with later Vaishnavism.
 
 </details>
-
----
-
-**Q40.** Match List-I with List-II:
-
-| List-I | List-II |
-|--------|---------|
-| A. Shaktism | 1. Surya |
-| B. Smartism | 2. Devi |
-| C. Saura | 3. Five deities |
-| D. Kaumara | 4. Skanda / Murugan |
-
-A. 2 3 1 4 B. 2 3 4 1 C. 3 2 1 4 D. 2 1 3 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q41.** Given below are two statements:
-
-**Assertion (A):** Heliodorus’ inscription is early evidence of Vasudeva worship.
-
-**Reason (R):** Bhagavatism originated as a Mathura-region Krishna–Vasudeva cult that later fused with Vishnu.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q42.** Which of the following statements regarding Mahavira is **not** correct?
-
-A. He was a Jnatrika kshatriya of the Vaishali belt.
-B. Kevala jnana is placed at age 42.
-C. His symbol is the serpent.
-D. Gosala was an early companion who later led the Ajivikas.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — lion; serpent = Parshva.
-
-</details>
-
----
-
-**Q43.** With reference to Tripitaka and later books, consider the following statements:
-
-1. Abhidhamma is the third basket, not a fourth Veda.
-2. Mahavamsa is a Sri Lankan chronicle, not a pitaka.
-3. Kumarila Bhatta is the monk of the Milinda dialogue.
-
-How many of the above statements are correct?
-A. Only one B. Only two C. All three D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 2. Kumarila = Mimamsa.
-
-</details>
-
----
-
-**Q44.** Which of the following statements is/are correct?
-
-1. Sarnath and Kushinagar are in Uttar Pradesh.
-2. Parshvanatha’s birth tradition is tied to Varanasi.
-3. Vasupujya attained nirvana at Kashi Vishwanath.
-
-A. 1 and 2 only B. 1 and 3 only C. 2 and 3 only D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q45.** Arrange the following in the order of the Buddha’s life:
-
-1. Mahaparinirvana at Kushinagar
-2. Enlightenment at Bodh Gaya
-3. Renunciation at 29
-4. First sermon at Sarnath
-
-A. 3–2–4–1 B. 3–4–2–1 C. 2–3–4–1 D. 3–2–1–4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q46.** Consider the following statements:
-
-1. Nagarjuna is the Madhyamaka philosopher; Nagasena answers Milinda.
-2. Kanishka is the usual patron named for the Kundalvana council.
-3. Ajatashatru is the usual royal name for the First Council at Rajagriha.
-
-How many of the above statements are correct?
-A. Only one B. Only two C. All three D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q47.** Which one of the following pairs is **not** correctly matched?
-
-A. Hinayana — Pali canon / arhat
-B. Mahayana — bodhisattva / Sanskrit sutras
-C. Vajrayana — tantra / Padmasambhava
-D. Charvaka — niyati fatalism
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — niyati = Ajivika.
-
-</details>
-
----
-
-**Q48.** With reference to Ashokan Dhamma, consider the following statements:
-
-1. The Rahulovada-sutta claim as Ashoka's Dhamma definition is incorrect.
-2. Dhamma-mahamatras are a real Ashokan cadre in the inscriptions.
-3. Ashoka’s Dhamma policy required every subject to become a bhikkhu.
-
-How many of the above statements are correct?
-A. Only one B. Only two C. All three D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 2.
-
-</details>
-
----
-
-**Q49.** Match List-I with List-II (Tirthankara — symbol):
-
-| List-I | List-II |
-|--------|---------|
-| A. Rishabhanatha | 1. Kalasha |
-| B. Mallinatha | 2. Bull |
-| C. Suparshvanatha | 3. Swastika |
-| D. Ajitanatha | 4. Elephant |
-
-A. 2 1 3 4 B. 2 3 1 4 C. 1 2 3 4 D. 2 1 4 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q50.** With reference to Jain councils and texts, consider the following statements:
-
-1. The Vallabhi council is associated with Devardhigani and the Svetambara canon.
-2. *Tattvartha Sutra* of Umasvati is accepted by both Digambara and Svetambara.
-3. Drishtivada is the surviving first Anga of the Svetambara list.
-
-How many of the above statements are correct?
-A. Only one B. Only two C. All three D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 2. Drishtivada is the **lost** 12th Anga.
-
-</details>
-
----
-
-**Q51.** Which of the following pairs is **not** correctly matched?
-
-A. Purana Kassapa — akriya (no moral fruit of acts)
-B. Makkhali Gosala — niyati
-C. Sanjaya Belatthiputta — scepticism
-D. Ajita Kesakambalin — bodhisattva ideal
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Ajita = materialist; bodhisattva = Mahayana.
-
-</details>
-
----
-
-**Q52.** Which of the following statements is/are correct?
-
-1. Rishabhanatha’s birth is placed at Ayodhya in Jain tradition.
-2. Gomateshwara (Bahubali) at Shravanabelagola is linked to Chamundaraya.
-3. Neminatha is Krishna’s cousin in Jain lore.
-
-A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q53.** Given below are two statements:
-
-**Assertion (A):** Kaundinya is remembered as the first of the five companions to understand the Sarnath sermon.
-
-**Reason (R):** Mahapajapati Gotami is remembered as the first Buddhist nun.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q54.** Which one of the following pairs is **not** correctly matched?
-
-A. Kashi Vishwanath — Jyotirlinga in Uttar Pradesh
-B. 12 Alvars — Vaishnava Tamil saints
-C. 63 Nayanars — Shaiva Tamil saints
-D. Vallabhi Jain council — Kanishka of Kashmir
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Vallabhi = Svetambara canon; Kanishka = 4th *Buddhist* council.
-
-</details>
-
----
 
 ## Common Traps — Facts
 

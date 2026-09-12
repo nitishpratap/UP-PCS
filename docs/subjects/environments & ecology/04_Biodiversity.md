@@ -826,9 +826,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Ecosystem maintenance is the key significance — not drugs alone.
-
 **Ans: A.**
+
+**Logic:** Ecosystem maintenance is the key significance — not drugs alone.
 
 </details>
 
@@ -850,9 +850,9 @@ D. A-1, B-3, C-2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Alpha local; beta between; gamma regional.
-
 **Ans: A.**
+
+**Logic:** Alpha local; beta between; gamma regional.
 
 </details>
 
@@ -870,9 +870,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Genetic diversity is within a species — pair 1 is wrong.
-
 **Ans: A.**
+
+**Logic:** Genetic diversity is within a species — pair 1 is wrong.
 
 </details>
 
@@ -890,9 +890,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Eastern Ghats are not a hotspot.
-
 **Ans: A.**
+
+**Logic:** Eastern Ghats are not a hotspot.
 
 </details>
 
@@ -910,9 +910,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** Both true; R states the quantitative criteria that define A.
-
 **Ans: D.**
+
+**A/R logic:** Both true; R states the quantitative criteria that define A.
 
 </details>
 
@@ -930,9 +930,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** All three are standard.
-
 **Ans: D.**
+
+**Logic:** All three are standard.
 
 </details>
 
@@ -950,9 +950,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** National Park is in-situ.
-
 **Ans: A.**
+
+**Logic:** National Park is in-situ.
 
 </details>
 
@@ -974,9 +974,9 @@ D. A-2, B-1, C-3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** CBD 1992; Cartagena biosafety; Nagoya ABS.
-
 **Ans: A.**
+
+**Logic:** CBD 1992; Cartagena biosafety; Nagoya ABS.
 
 </details>
 
@@ -994,9 +994,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Endangered ≠ all Threatened.
-
 **Ans: B.**
+
+**Logic:** Endangered ≠ all Threatened.
 
 </details>
 
@@ -1014,9 +1014,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Hotspot concept = Norman Myers — not BirdLife.
-
 **Ans: C.**
+
+**Logic:** Hotspot concept = Norman Myers — not BirdLife.
 
 </details>
 
@@ -1034,9 +1034,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** A true; vegetarianism is not a HIPPO threat — R false.
-
 **Ans: C.**
+
+**A/R logic:** A true; vegetarianism is not a HIPPO threat — R false.
 
 </details>
 
@@ -1054,9 +1054,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** India has four hotspots — statement 3 false.
-
 **Ans: C.**
+
+**Logic:** India has four hotspots — statement 3 false.
 
 </details>
 
@@ -1074,9 +1074,9 @@ D. 3-1-2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 1992 → 2010 → 2022.
-
 **Ans: C.**
+
+**Logic:** 1992 → 2010 → 2022.
 
 </details>
 
@@ -1095,9 +1095,9 @@ D. 1, 2, 3 and 4
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Sundarbans = mangroves — not coral reef list.
-
 **Ans: B.**
+
+**Logic:** Sundarbans = mangroves — not coral reef list.
 
 </details>
 
@@ -1115,9 +1115,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** All three are teaching locks.
-
 **Ans: D.**
+
+**Logic:** All three are teaching locks.
 
 </details>
 
@@ -1139,9 +1139,9 @@ D. A-3, B-1, C-2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Dugong marine herbivore; LTM Western Ghats; wild ass Kachchh.
-
 **Ans: A.**
+
+**Logic:** Dugong marine herbivore; LTM Western Ghats; wild ass Kachchh.
 
 </details>
 
@@ -1159,9 +1159,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** TRAFFIC is WWF–IUCN wildlife trade monitor — not UNEP climate finance.
-
 **Ans: B.**
+
+**Logic:** TRAFFIC is WWF–IUCN wildlife trade monitor — not UNEP climate finance.
 
 </details>
 
@@ -1179,9 +1179,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** Both true but R does not explain endemism.
-
 **Ans: A.**
+
+**A/R logic:** Both true but R does not explain endemism.
 
 </details>
 
@@ -1199,9 +1199,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** All three correct.
-
 **Ans: D.**
+
+**Logic:** All three correct.
 
 </details>
 
@@ -1217,9 +1217,9 @@ D. Only four
 <details>
 <summary>Show answer</summary>
 
-**Logic:** All five letters of HIPPO.
-
 **Ans: A.**
+
+**Logic:** All five letters of HIPPO.
 
 </details>
 
@@ -1237,9 +1237,9 @@ D. 1 and 2 only
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Ex-situ is backup — does not replace in-situ.
-
 **Ans: D.**
+
+**Logic:** Ex-situ is backup — does not replace in-situ.
 
 </details>
 
@@ -1253,9 +1253,9 @@ D. Chennai
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Jamnagar, Gujarat.
-
 **Ans: B.**
+
+**Logic:** Jamnagar, Gujarat.
 
 </details>
 
@@ -1273,9 +1273,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** All three correct.
-
 **Ans: D.**
+
+**Logic:** All three correct.
 
 </details>
 
@@ -1293,9 +1293,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Pair 2 is wrong.
-
 **Ans: B.**
+
+**Logic:** Pair 2 is wrong.
 
 </details>
 
@@ -1313,9 +1313,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** Both true; R does not explain A (different point).
-
 **Ans: A.**
+
+**A/R logic:** Both true; R does not explain A (different point).
 
 </details>
 
@@ -1333,9 +1333,9 @@ D. 1 and 2 only
 <details>
 <summary>Show answer</summary>
 
-**Logic:** NBA HQ is Chennai — not Delhi.
-
 **Ans: D.**
+
+**Logic:** NBA HQ is Chennai — not Delhi.
 
 </details>
 
@@ -1353,9 +1353,9 @@ D. 3-2-1
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Hotspot concept → CBD → Nagoya.
-
 **Ans: B.**
+
+**Logic:** Hotspot concept → CBD → Nagoya.
 
 </details>
 
@@ -1373,9 +1373,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Statement 3 is false.
-
 **Ans: C.**
+
+**Logic:** Statement 3 is false.
 
 </details>
 
@@ -1389,9 +1389,9 @@ D. Indicator species never reflect ecosystem health
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Roles remain distinct.
-
 **Ans: B.**
+
+**Logic:** Roles remain distinct.
 
 </details>
 
@@ -1409,9 +1409,9 @@ D. 1 and 2 only
 <details>
 <summary>Show answer</summary>
 
-**Logic:** CBD 1992 ≠ Nagoya 2010.
-
 **Ans: D.**
+
+**Logic:** CBD 1992 ≠ Nagoya 2010.
 
 </details>
 

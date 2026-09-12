@@ -3592,1375 +3592,652 @@ D. Pacific Ocean
 
 ---
 
-## Practice Zone — UPPCS Format Questions
+## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden** — click **Show answer** under each question to reveal.
-> **Format mix:** 75 questions — multi-statement | Assertion–Reason | Match List | NOT correctly matched | direct recall (PYQ + standard gaps)
+> **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D | **Ans first, then Logic**
 
-**Q1.** Which are **NOT** cold ocean currents? 1 Agulhas 2 Brazil 3 Humboldt 4 California
+**Q1.** With reference to ocean area ranking, which of the following statements is/are correct?
 
-A. 1 and 3
+1. By area: Pacific > Atlantic > Indian > Southern > Arctic.
+2. The Indian Ocean straddles both sides of the Equator.
 
-B. 3 and 4
+Select the correct answer from the code given below:
 
-C. 2 and 3
+A. 2 only
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. 1 only
 
-D. 1 and 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — 1 Agulhas and 2 Brazil are **warm**. 3 Humboldt and 4 California **are** cold. The stem is **NOT cold**.
-</details>
-
----
-
-**Q2.** Ocean current associated with the **Indian Ocean**:
-
-A. Florida
-
-B. Canary
-
-C. Agulhas
-D. Kurile
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q3.** Benguela Current is a cold current of the:
-
-A. Pacific
-
-B. Atlantic
-C. Arctic
-
-D. Only Indian Ocean
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q4.** Ocean salinity in the open ocean is **maximum** near:
-
-A. Equator
-
-B. Tropics of Cancer and Capricorn
-C. Poles
-
-D. Only river mouths
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q5.** Sun, Earth and Moon in a straight line produce a:
-
-A. Small neap
-
-B. Large spring tide
-C. Tsunami
-
-D. Only EEZ
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q6.** Match oceans to deepest points: Pacific, Arctic, Indian, Atlantic.
-
-A. 4 3 2 1
-
-B. 3 2 1 4
-
-C. 1 2 3 4
-
-D. 3, 4, 1, 2 (Mariana, Molloy, Sunda, Puerto Rico)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-</details>
-
----
-
-**Q7.** Telegraphic Plateau is part of the:
-
-A. North Atlantic Ridge
-B. South Atlantic Ridge
-
-C. Indian Ocean Ridge
-
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-</details>
-
----
-
-**Q8.** Suez Canal connects:
-
-A. Atlantic and Mediterranean only as a pair in 2025 codes
-
-B. Mediterranean and Indian Ocean as the two numbered seas
-
-C. Red Sea and Mediterranean
-D. Atlantic and Red Sea only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — 2025 Q138 code **2 and 3**.
-</details>
-
----
-
-**Q9.** Suez lakes **north → south**:
-
-A. Timsah–Little Bitter–Great Bitter–Manzala
-
-B. Great–Little–Timsah–Manzala
-
-C. Manzala–Great–Little–Timsah
-
-D. Manzala–Timsah–Great Bitter–Little Bitter
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-</details>
-
----
-
-**Q10.** Maritime distance India–Europe fell after Suez by about:
-
-A. 5,000 km
-
-B. 7,000 km
-C. 8,000 km
-
-D. 10,000 km
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q11.** India’s permanent **operational** Antarctic stations:
-
-A. Bharati and Arya
-
-B. Bharati and Dakshin Gangotri
-
-C. Bharati and Maitri
-D. Dakshin Gangotri and Maitri
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q12.** With reference to the Indian Ocean: 1. Greeks called it Erythraean Sea. 2. It spreads on either side of the Equator.
-
-A. Only 2
-
-B. Neither
-
-C. Both
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q13.** Territorial sea under UNCLOS is:
-
-A. 200 nm
-
-B. 12 nm
-C. 24 nm
-
-D. 350 nm
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q14.** EEZ extends to:
-
-A. 12 nm
-
-B. 24 nm
-
-C. 200 nm
-D. Always 350 nm
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q15.** Contiguous zone is:
-
-A. 12 nm
-
-B. 24 nm
-C. 200 nm
-
-D. High seas only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q16.** A guyot is:
-
-A. A spit
-
-B. A flat-topped seamount
-C. A spring tide
-
-D. A cold current
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q17.** Humboldt Current is:
-
-A. Warm Atlantic
-
-B. Cold Pacific (Peru)
-C. Warm Indian
-
-D. Arctic Molloy
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q18.** Kuroshio is:
-
-A. Cold Kurile twin name
-
-B. Warm Pacific (Japan)
-C. Atlantic Canary
-
-D. Agulhas cold
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q19.** Oyashio / Kurile is:
-
-A. Warm
-
-B. Cold
-C. Suez lake
-
-D. EEZ line
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q20.** Canary Current is:
-
-A. Warm Gulf Stream
-
-B. Cold Atlantic (NW Africa)
-C. Indian Agulhas
-
-D. Pacific Kuroshio
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q21.** Gulf Stream is:
-
-A. Cold Labrador
-
-B. Warm Atlantic
-C. Pacific Humboldt
-
-D. Only a tide
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q22.** California Current is:
-
-A. Warm
-
-B. Cold
-C. Indian Ocean only
-
-D. A canal
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q23.** El Niño off Peru: 1. Warm current appears. 2. Plankton **increase**.
-
-A. Only 1
-B. Only 2
-
-C. Both
-
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Plankton **fall**. Monsoon.
-</details>
-
----
-
-**Q24.** Largest tidal-energy coast in standard Indian options:
-
-A. North Circars
-
-B. Mannar
-
-C. Khambhat
-D. Kerala
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q25.** Panama Canal joins:
-
-A. Med and Red
-
-B. Atlantic and Pacific
-C. North Sea and Baltic
-
-D. Black and Marmara
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q26.** Kiel Canal joins:
-
-A. Med–Red
-
-B. Atlantic–Pacific
-
-C. North Sea–Baltic
-D. Red–Aden
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q27.** Strait of Hormuz joins:
-
-A. Red–Aden
-
-B. Persian Gulf–Gulf of Oman
-C. Med–Atlantic
-
-D. Andaman–Nicobar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q28.** Malacca Strait is vital between:
-
-A. Arctic–Pacific only
-
-B. Indian Ocean and the Pacific/S. China side
-C. Black–Marmara
-
-D. Fundy–Atlantic only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q29.** Gibraltar joins:
-
-A. Red–Aden
-
-B. Mediterranean–Atlantic
-C. Bering–Arctic only as a pair
-
-D. Palk–BoB only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q30.** Bering Strait joins:
-
-A. Med–Red
-
-B. Arctic–Pacific (and Asia–America)
-
-C. India–Sri Lanka
-
-D. Sumatra–Java
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q31.** 10° Channel lies between:
-
-A. India and Sri Lanka
-
-B. Andaman and Nicobar
-C. Minicoy and Maldives
-
-D. Little and South Andaman
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q32.** Palk Strait lies between:
-
-A. Andaman–Nicobar
-
-B. India–Sri Lanka
-C. Sumatra–Java
-
-D. Spain–Morocco
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q33.** Sargasso Sea is in the:
-
-A. Indian Ocean
-
-B. North Atlantic (no land boundary)
-
-C. Arctic
-
-D. Red Sea
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q34.** Grand Banks fishery is off:
-
-A. Peru only
-
-B. Newfoundland
-C. Japan only
-
-D. Khambhat only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q35.** Antarctic Treaty was signed in:
-
-A. 1945
-
-B. 1959 (in force 1961)
-
-C. 1983 as the first signing
-
-D. 2012
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — India acceded 1983.
-</details>
-
----
-
-**Q36.** Himadri is India’s station in the:
-
-A. Antarctic Maitri campus
-
-B. Arctic (Svalbard)
-C. Andaman
-
-D. Suez
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q37.** Dakshin Gangotri today is:
-
-A. Still the only operational base
-
-B. Not the operational pair (first base; buried/closed)
-
-C. In the Arctic
-
-D. A guyot
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q38.** Average open-ocean salinity is about:
-
-A. 7‰
-
-B. 35‰
-C. 41‰ everywhere
-
-D. 0‰
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q39.** Continental shelf is typically shallower than about:
-
-A. 6000 m
-
-B. 200 m
-C. 12 nm of water column only
-
-D. The Moho
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q40.** Mid-ocean ridges are:
-
-A. Convergent trenches
-
-B. Divergent spreading centres
-C. Spring tides
-
-D. EEZ lines
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Hess.
-</details>
-
----
-
-**Q41.** Smallest ocean is the:
-
-A. Indian
-
-B. Southern
-
-C. Arctic
-D. Pacific
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q42.** Largest ocean is the:
-
-A. Atlantic
-
-B. Pacific
-C. Indian
-
-D. Southern
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q43.** West Australian Current is generally:
-
-A. Warm Agulhas twin
-
-B. Cold
-C. A Suez lake
-
-D. A strait
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q44.** Labrador Current is:
-
-A. Warm
-
-B. Cold
-C. Pacific only
-
-D. Indian Agulhas
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q45.** Assertion (A): Benguela is a cold current of the Pacific. Reason (R): Salinity is max near the tropics.
-
-A. Both true R explains A
-
-B. Both true R not explanation
-
-C. A true R false
-
-D. A false, R true
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Benguela = Atlantic. R is the 2023 true salinity fact.
-</details>
-
----
-
-**Q46.** Bab-el-Mandeb joins:
-
-A. Med–Atlantic
-
-B. Red Sea–Gulf of Aden
-C. Black–Marmara
-
-D. Palk–Mannar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q47.** Bosphorus joins:
-
-A. Med–Red
-
-B. Black Sea–Marmara
-C. Arctic–Pacific
-
-D. Andaman–Nicobar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q48.** Which is **not** a true sea (inland lake)?
-
-A. Red Sea
-
-B. Caspian
-C. Caribbean
-
-D. Bering
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q49.** Tsunami is:
-
-A. A spring tide
-
-B. A seismic sea wave
-C. An EEZ
-
-D. A guyot
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q50.** UNCLOS was adopted in:
-
-A. 1945
-
-B. 1982 (in force 1994)
-
-C. 1959
-
-D. 1869
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
+**Ans: C.** Both statements are correct.
 
-**Q51.** Continental shelf rights may extend, if geology allows, up to:
-
-A. 12 nm only
-
-B. 24 nm only
-
-C. 350 nm
-D. The South Pole
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q52.** Only circumpolar ocean current is the:
-
-A. Gulf Stream
-
-B. Agulhas
-
-C. Antarctic Circumpolar / West Wind Drift
-D. Canary
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q53.** Dogger Bank is a fishery in the:
-
-A. Arabian Sea
-
-B. North Sea
-C. Sargasso
-
-D. Ross Sea only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q54.** Suez Canal (unlike Panama) is famous for:
-
-A. Many stepped chambers like Panama
-
-B. Sea-level passage (ships do not climb chambers)
-
-C. Joining Atlantic–Pacific
-
-D. Being in Panama
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Suez is a **sea-level** cut. Panama needs **stepped chambers** and Gatun Lake. Do not swap.
-
-**Ans: B.** Suez = **sea-level**. Panama = stepped chambers + Gatun. Trap: treating both canals as the same engineering type.
-
-</details>
-
----
-
-**Q55.** Mariana Trench lies in the:
-
-A. Atlantic
-
-B. Indian
-
-C. Pacific
-D. Arctic
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q56.** Thermocline is a zone of rapid change of:
-
-A. Only salinity at the equator
-
-B. Temperature with depth
-C. Tidal range
-
-D. EEZ width
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q57.** Red clay is typical of:
-
-A. Coral reefs
-
-B. The deepest abyssal floors
-C. Only Hooghly bore
-
-D. Only Suez lakes
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q58.** Diatom ooze is:
-
-A. Calcareous equatorial only
-
-B. Siliceous, high-latitude
-C. A warm current
-
-D. A guyot
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q59.** Globigerina ooze is:
-
-A. Siliceous polar only
-
-B. Calcareous
-C. Pure manganese
-
-D. A strait
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q60.** Ninetyeast Ridge is:
-
-A. The Mid-Atlantic Ridge
-
-B. A N–S volcanic trail in the eastern Indian Ocean (not classic MAR)
-C. Arctic Molloy
-
-D. Suez
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q61.** Carlsberg Ridge lies in the:
-
-A. North Atlantic
-
-B. NW Indian Ocean
-C. Arctic
-
-D. Only Pacific
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q62.** A tidal bore in India is classically associated with the:
-
-A. Indus only
-
-B. Hooghly
-C. Narmada gorge only
-
-D. Maitri station
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q63.** Highest tidal range in the world is in:
-
-A. Khambhat
-
-B. Bay of Fundy
-C. Sargasso
-
-D. Caspian
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Khambhat is India’s energy option, not the world king.
-</details>
-
----
-
-**Q64.** International Seabed Authority sits in:
-
-A. New Delhi
-
-B. Kingston, Jamaica
-C. Svalbard
-
-D. Schirmacher Oasis
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q65.** India in the Arctic Council is:
-
-A. A founding member
-
-B. An observer (2013)
-C. Host of Maitri
-
-D. Owner of Molloy Deep
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q66.** Drake Passage is:
-
-A. The Suez lakes
-
-B. Open water south of Cape Horn
-C. Palk Strait
-
-D. 10° Channel
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q67.** Upwelling is **not** typical of:
-
-A. Peru
-
-B. Benguela
-
-C. California
-
-D. The western North Atlantic Gulf Stream core as a cold-coast upwelling clone
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Gulf Stream is a **warm** western-boundary current, not the Peru-type upwelling list.
-</details>
-
----
-
-**Q68.** Hadal zone means:
-
-A. The mixed layer
-
-B. Ocean trenches
-C. Only Sargasso weed
-
-D. Territorial 12 nm
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q69.** Manganese nodules are mainly on:
-
-A. Beach spits
-
-B. Abyssal plains (Pacific / CIOB)
-
-C. Glacier cirques
-
-D. Suez Canal lakes
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Nodules sit on deep **abyssal plains**, especially Pacific and Central Indian Ocean Basin — not canal lakes.
-
-</details>
-
----
-
-**Q70.** Madrid Protocol (1991) is about:
-
-A. UNCLOS 12 nm
-
-B. Antarctic environment / mining ban
-C. Suez lakes
-
-D. Kuroshio
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-
-**Q71.** Which of the following statements about India’s continental shelf is correct?
-
-A. The eastern shelf is everywhere wider than the western shelf
-
-B. The western shelf is overall wider than the eastern shelf, with Gujarat–Mumbai among the widest stretches
-
-C. India has no continental shelf at all
-
-D. Shelves exist only in the Arctic, never off India
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — ForumIAS / GKToday-style fact: **west wider than east**. Bombay High sits on the west shelf.
-</details>
-
----
-
-**Q72.** Seawater density generally increases when:
-
-A. Temperature rises and salinity falls
-
-B. Temperature falls and salinity rises
-
-C. Only when waves are constructive
-
-D. Only inside the territorial sea of 12 nm
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Cold + salty (+ pressure) → denser → sinks.
-</details>
-
----
-
-**Q73.** Constructive waves typically:
-
-A. Have a strong backwash that erodes beaches
-
-B. Have a strong swash that helps build a beach
-
-C. Are identical to spring tides
-
-D. Are the same as tsunamis
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q74.** The most important fishing grounds of the world are often found where:
-
-A. Only hot deserts meet the coast
-
-B. Warm and cold oceanic currents meet
-
-C. Only mid-ocean ridges break the surface
-
-D. Only EEZ lines are drawn on a map
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Classic UPSC/Drishti fact (Grand Banks type).
-</details>
-
----
-
-**Q75.** Which pair is correctly matched?
-
-A. Seamount — flat-topped drowned island always
-
-B. Guyot — peaked undersea volcano that never had a flat top
-
-C. Bank — shallow flat elevation such as Dogger / Grand Banks
-
-D. Hydrothermal vent — only found on continental shelves under 50 m
-
-<details>
-<summary>Show answer</summary>
+**Logic:** Greek Erythraean Sea is an Indian Ocean name note.
 
-**Ans: C** — Seamount = peaked; guyot = flat-topped. Vents sit on volcanically active ridges.
 </details>
 
----
+**Q2.** Consider the following pairs:
 
-**Q76.** With reference to the Strait of Hormuz, which of the following statements is/are correct?
+| Feature | Fact |
+|---|---|
+| 1. Ocean-floor order from shore | Shelf → slope → rise/trench → abyssal plain |
+| 2. Guyot | Flat-topped seamount |
+| 3. Continental shelf depth (teaching) | About 200 m; ~7.5% of ocean floor |
 
-1. It joins the Persian Gulf with the Gulf of Oman.
-2. Its shores are held by Iran on the north and Oman on the south.
-3. Oman is a classic Persian Gulf coastal state along with Iraq and Kuwait.
+Which of the pairs given above is/are correctly matched?
 
 A. 1 and 2 only
-
-B. 1 and 3 only
-
-C. 2 and 3 only
-
+B. 2 and 3 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Hormuz door = Persian Gulf ↔ Gulf of Oman. Shore pair = Iran–Oman. Oman faces the **Gulf of Oman / Arabian Sea**, so statement 3 is false.
+**Ans: D.** All three relief pairs are correct.
 
-**Ans: A.** 1 true — Hormuz = **Persian Gulf ↔ Gulf of Oman**. 2 true — shores = **Iran (N) + Oman (S)**. 3 false — Persian Gulf coasts = Iran, Iraq, Kuwait, Saudi Arabia, Bahrain, Qatar, UAE; **Oman is out**. Trap: putting Oman inside the Gulf list because it borders Hormuz.
+**Logic:** India’s west shelf is wider than the east; Bombay High sits on the Gujarat–Mumbai belt.
 
 </details>
 
----
+**Q3.** Which of the following is NOT correctly matched?
 
-**Q77.** Arrange the following from west to east:
-
-1. Aral Sea
-2. Black Sea
-3. Caspian Sea
-4. Mediterranean Sea
-
-A. 2–4–3–1
-
-B. 4–2–3–1
-
-C. 4–2–1–3
-
-D. 2–4–1–3
+A. Mariana Trench — Pacific
+B. Puerto Rico Trench — Atlantic
+C. Sunda/Java Trench — Indian
+D. Mariana Trench — Atlantic
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Mnemonic **“My Black Cat Ate”** = Mediterranean → Black → Caspian → Aral.
+**Ans: D.** Mariana is Pacific.
 
-**Ans: B.** Order = **4 Mediterranean → 2 Black → 3 Caspian → 1 Aral**. Trap: starting with Black, or swapping Aral before Caspian.
+**Logic:** Molloy is Arctic.
 
 </details>
 
----
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Q78.** Which one of the following is correctly matched?
+Assertion (A): Agulhas and Brazil are warm currents.
 
-A. Gaza Strip — faces the Red Sea
+Reason (R): Humboldt (Peru) and California are cold currents.
 
-B. Jordan — opens to the Mediterranean
+Select the correct answer from the code given below:
 
-C. Baltic Sea — Norway is a coastal state
-
-D. Türkiye’s north coast — Black Sea
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Eliminate three stock traps — Gaza/Jordan/Med mix-ups and Norway-on-Baltic — leave Türkiye north = Black.
+**Ans: A.** Both true; cold-current examples do not explain why Agulhas/Brazil are warm.
 
-**Ans: D.** Türkiye north = **Black Sea**. Gaza faces the **Mediterranean**; Jordan has **no** Med coast; **Norway** is not on the Baltic.
+**A/R logic:** Do not mark Agulhas or Brazil as cold.
 
 </details>
 
----
+**Q5.** Arrange UNCLOS belts from the coast outward by distance:
+
+1. Contiguous zone (24 nm)
+2. Territorial sea (12 nm)
+3. EEZ (200 nm)
+
+Select the correct answer from the code given below:
+
+A. 2-3-1
+B. 3-2-1
+C. 2-1-3
+D. 1-2-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** 12 nm → 24 nm → 200 nm.
+
+**Logic:** Continental shelf may extend from 200 nm toward 350 nm.
+
+</details>
+
+**Q6.** With reference to salinity, which of the following statements is/are correct?
+
+1. Open-ocean salinity is about 35‰.
+2. Maximum salinity sits near the Tropics of Cancer and Capricorn, not on the Equator.
+3. Red Sea is high; Baltic is low.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 1, 2 and 3
+C. 2 and 3 only
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** All three salinity statements are correct.
+
+**Logic:** NaCl is about 77% of dissolved salts.
+
+</details>
+
+**Q7.** Match List-I with List-II and select the correct answer from the code given below:
+
+| List-I (Current) | List-II |
+|---|---|
+| A. Benguela | 1. Atlantic cold (SW Africa) |
+| B. Humboldt / Peru | 2. Pacific cold |
+| C. Agulhas | 3. Warm; Indian Ocean link |
+| D. Kuroshio | 4. Warm Japan current |
+
+*Row order is not the answer code.*
+
+A. A-1, B-3, C-2, D-4
+B. A-1, B-2, C-4, D-3
+C. A-1, B-2, C-3, D-4
+D. A-2, B-1, C-3, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All four current pairs are correct.
+
+**Logic:** Benguela is not a Pacific current; Oyashio is cold Kurile.
+
+</details>
+
+**Q8.** With reference to tides, which of the following statements is/are correct?
+
+1. Spring tide forms at syzygy (new/full moon) and is large.
+2. Neap tide forms at quadrature and is small.
+3. Tidal period is about 12 h 25 min.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 1, 2 and 3
+C. 2 and 3 only
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** All three tide statements are correct.
+
+**Logic:** Do not use 12 h 30 min as the period.
+
+</details>
+
+**Q9.** Which of the following pairs is/are NOT correctly matched?
+
+1. Suez Canal — Mediterranean ↔ Red Sea; sea-level cut
+2. Panama Canal — Atlantic/Caribbean ↔ Pacific; stepped chambers / Gatun
+3. Suez Canal — ships climb stepped chambers like Panama
+
+A. 1 only
+B. 3 only
+C. 1 and 2 only
+D. 2 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only pair 3 is wrong — Suez is sea-level; Panama has chambers.
+
+**Logic:** Suez ends: Port Said (N) and Suez (S).
+
+</details>
+
+**Q10.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): El Niño sends warm water off Peru and weakens upwelling.
+
+Reason (R): Weak upwelling cuts plankton and fish catch.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R correctly explains the fishery impact of A.
+
+**A/R logic:** Upwelling is strongest on west coasts (Peru, California, Canary, Benguela, Somalia).
+
+</details>
+
+**Q11.** With reference to ocean deposits, which of the following statements is/are correct?
+
+1. Deepest deposit is red clay.
+2. Globigerina and pteropod oozes are calcareous.
+3. Diatom and radiolarian oozes are siliceous.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 1, 2 and 3
+C. 2 and 3 only
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** All three deposit statements are correct.
+
+**Logic:** Manganese nodules sit on abyssal plains.
+
+</details>
+
+**Q12.** Match List-I with List-II and select the correct answer from the code given below:
+
+| List-I | List-II |
+|---|---|
+| A. Suez Canal opening | 1. 1869 |
+| B. Panama Canal opening | 2. 1914 |
+| C. Kiel Canal | 3. North Sea ↔ Baltic |
+| D. Telegraphic Plateau | 4. Part of North Atlantic Ridge |
+
+*Row order is not the answer code.*
+
+A. A-1, B-3, C-2, D-4
+B. A-2, B-1, C-3, D-4
+C. A-1, B-2, C-3, D-4
+D. A-1, B-2, C-4, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All four canal/ridge pairs are correct.
+
+**Logic:** Suez shortens India–Europe sea route by about 7000 km.
+
+</details>
+
+**Q13.** Arrange India’s Antarctic / Arctic station facts — which are correct?
+
+1. Operational Antarctic stations: Maitri and Bharati
+2. Dakshin Gangotri is not the operational pair
+3. Himadri is India’s Arctic station (Svalbard)
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three station statements are correct.
+
+**Logic:** Do not place Himadri in Antarctica.
+
+</details>
+
+**Q14.** With reference to thermocline and density, which of the following statements is/are correct?
+
+1. Thermocline lies roughly 300–1000 m.
+2. Seawater density rises when water is colder and saltier.
+3. Cold salty water sinks and drives thermohaline circulation.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 1, 2 and 3
+C. 2 and 3 only
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** All three statements are correct.
+
+**Logic:** Halocline is the salinity jump; thermocline is temperature.
+
+</details>
+
+**Q15.** Which one of the following correctly states tidal-energy coast fact for India?
+
+A. Only Pulicat
+B. Only Chilika
+C. Gulf of Khambhat
+D. Only Vembanad
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Gulf of Khambhat is the tidal-energy coast fact.
+
+**Logic:** Bay of Fundy has the world’s greatest tidal range; Hooghly/Amazon have tidal bores.
+
+</details>
+
+**Q16.** Consider the following strait / passage pairs:
+
+1. Hormuz — Persian Gulf ↔ Gulf of Oman (~25% seaborne oil)
+2. Drake Passage — same as Strait of Magellan
+3. Malacca — key Indo-Pacific chokepoint
+
+Which of the pairs/statements given above is/are correct?
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 3 are correct.
+
+**Logic:** Drake Passage is not the Strait of Magellan.
+
+</details>
+
+**Q17.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Sargasso Sea has no coastline.
+
+Reason (R): It is a North Atlantic region defined by currents rather than land borders.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R explains why Sargasso lacks coasts.
+
+**A/R logic:** Do not treat it like Black Sea coastal geography.
+
+</details>
+
+**Q18.** With reference to India’s shelf and Ninetyeast Ridge, which of the following statements is/are correct?
+
+1. India’s west shelf is wider than the east.
+2. Ninetyeast Ridge and Diamantina belong to the Indian Ocean teaching set.
+
+Select the correct answer from the code given below:
+
+A. Both 1 and 2
+B. 1 only
+C. 2 only
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both statements are correct.
+
+**Logic:** Carlsberg Ridge lies in the NW Indian Ocean.
+
+</details>
+
+**Q19.** Which of the following is NOT correctly matched?
+
+A. EEZ — 200 nm
+B. Territorial sea — 12 nm
+C. Contiguous zone — 24 nm
+D. EEZ — 12 nm
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** EEZ is 200 nm, not 12 nm.
+
+**Logic:** 12 nm is territorial sea.
+
+</details>
+
+**Q20.** Match List-I with List-II and select the correct answer from the code given below:
+
+| List-I | List-II |
+|---|---|
+| A. Grand Banks | 1. Labrador meets Gulf Stream |
+| B. NAD | 2. Blanket of Europe / warm |
+| C. Datum line | 3. Mean sea-level reference |
+| D. Red Sea form | 4. Axial trough |
+
+*Row order is not the answer code.*
+
+A. A-1, B-2, C-3, D-4
+B. A-2, B-1, C-3, D-4
+C. A-1, B-3, C-2, D-4
+D. A-1, B-2, C-4, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** All four oceanography pairs are correct.
+
+**Logic:** Do not confuse datum line with Date Line.
+
+</details>
+
+**Q21.** With reference to hydrosphere freshwater, which of the following statements is/are correct?
+
+1. Hydrosphere covers about 71% of Earth.
+2. Usable fresh water is <1% of all water.
+3. Of fresh water, ice ≫ groundwater ≫ rivers/lakes.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 1, 2 and 3
+C. 2 and 3 only
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** All three statements are correct.
+
+**Logic:** After ice, largest remaining fresh store is groundwater.
+
+</details>
+
+**Q22.** Consider the following statements about waves and tsunami:
+
+1. Constructive waves build beaches; destructive waves erode them.
+2. A tsunami is not a tide.
+
+Which of the statements given above is/are correct?
+
+A. 1 only
+B. Both 1 and 2
+C. 2 only
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Both statements are correct.
+
+**Logic:** Tsunami ≠ tidal wave.
+
+</details>
+
+**Q23.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Panama Canal uses stepped chambers and Gatun Lake.
+
+Reason (R): Suez is a sea-level cut joining Mediterranean and Red Sea.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; Suez design does not explain Panama’s stepped-chamber system — they are contrasting models.
+
+**A/R logic:** Do not treat Suez and Panama as the same engineering type.
+
+</details>
+
+**Q24.** With reference to Antarctic Treaty and Arctic Council, which of the following statements is/are correct?
+
+1. Antarctic Treaty dates to 1959/61; India joined in 1983.
+2. India is an observer in the Arctic Council.
+
+Select the correct answer from the code given below:
+
+A. Both 1 and 2
+B. 1 only
+C. 2 only
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both statements are correct.
+
+**Logic:** Keep Himadri as Arctic, Maitri/Bharati as Antarctic.
+
+</details>
+
+**Q25.** Which of the following pairs is NOT correctly matched?
+
+A. Gaza — Mediterranean
+B. Jordan — no coastline on Mediterranean teaching contrast
+C. Baltic coasts include Norway
+D. Baltic coasts include Sweden and Finland
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Norway is not a Baltic coast State in the teaching list.
+
+**Logic:** Baltic list: Denmark, Germany, Poland, Baltics, Russia, Finland, Sweden.
+
+</details>
+
+**Q26.** Arrange Suez lakes north → south:
+
+1. Great Bitter
+2. Manzala
+3. Timsah
+4. Little Bitter
+
+Select the correct answer from the code given below:
+
+A. 2-3-1-4
+B. 2-1-3-4
+C. 3-2-1-4
+D. 2-3-4-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Manzala → Timsah → Great Bitter → Little Bitter.
+
+**Logic:** Port Said north; Suez south.
+
+</details>
+
+**Q27.** With reference to ocean currents and climate, which of the following statements is/are correct?
+
+1. Currents shape mild or foggy coasts and west-coast deserts.
+2. Fish concentrate where warm and cold meet or where upwelling occurs.
+
+Select the correct answer from the code given below:
+
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both statements are correct.
+
+**Logic:** Navigation routes are also affected by currents.
+
+</details>
+
+**Q28.** Match List-I with List-II and select the correct answer from the code given below:
+
+| List-I | List-II |
+|---|---|
+| A. Türkiye N | 1. Black Sea |
+| B. Türkiye S | 2. Mediterranean |
+| C. Türkiye W | 3. Aegean |
+| D. Türkiye NW | 4. Marmara |
+
+*Row order is not the answer code.*
+
+A. A-1, B-2, C-3, D-4
+B. A-2, B-1, C-3, D-4
+C. A-1, B-3, C-2, D-4
+D. A-1, B-2, C-4, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** All four Türkiye sea pairs are correct.
+
+**Logic:** West→east ladder teaching: Mediterranean → Black → Caspian → Aral.
+
+</details>
+
+**Q29.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Benguela is a Pacific cold current.
+
+Reason (R): Benguela is an Atlantic cold current off south-west Africa.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** (A) is false; (R) correctly places Benguela in the Atlantic.
+
+**A/R logic:** Pacific cold examples include Humboldt and California.
+
+</details>
+
+**Q30.** With reference to abyssal plains and ISA, which of the following statements is/are correct?
+
+1. Abyssal plains are among the most extensive ocean-floor provinces (~76% teaching).
+2. The International Seabed Authority manages the seabed Area beyond national zones (HQ Jamaica).
+
+Select the correct answer from the code given below:
+
+A. Both 1 and 2
+B. 1 only
+C. 2 only
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both statements are correct.
+
+**Logic:** NW-1 Ganga teaching also appears in ocean–waterway cross-links.
+
+</details>
 
 ## Common Traps — Don't Fall For These
 

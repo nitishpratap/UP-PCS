@@ -2548,1190 +2548,674 @@ D. Cahora Bassa — Zambezi
 
 ---
 
-## Practice Zone — UPPCS Format Questions
+## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden** — click **Show answer** under each question to reveal.
-> **Format mix:** 65 questions — multi-statement | Assertion–Reason | Match List | NOT correctly matched | direct recall (PYQ + standard gaps)
+> **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D
 
-**Q1.** Which pairs are **NOT** correctly matched? 1 Budapest–Danube 2 Cologne–Rhine 3 New Orleans–Missouri 4 Hyderabad–Musi
+**Q1.** With reference to major world rivers, which of the following statements is/are correct?
 
-A. Only 1, 2 and 3
+1. New Orleans stands on the Mississippi.
+2. The Missouri joins the Mississippi at St Louis.
+3. Hyderabad (India) stands on the Godavari.
 
-B. Only 3 and 4
+Select the correct answer from the code given below:
 
-C. Only 2, 3 and 4
-
-D. Only 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: geographically only 3** (New Orleans is on the **Mississippi**). 1, 2 and 4 are matched. Paper has no “Only 3”. Do **not** mark Musi wrong. If the booklet prints **Paleru** as 4 → **B**.
-</details>
-
----
-
-**Q2.** River–direction **NOT** correctly matched:
-
-A. Amur — NE
-
-B. Syr Darya — NW
-
-C. Angara — North
-
-D. Mekong — South-West
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Mekong = **S / SE**.
-</details>
-
----
-
-**Q3.** USA–Mexico border river:
-
-A. Mississippi
-
-B. Rio Grande
-
-C. Amazon
-
-D. Colorado
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q4.** Lake–country **NOT** matched:
-
-A. Baikal — Russia
-
-B. Michigan — USA
-
-C. Onega — Canada
-
-D. Maracaibo — Venezuela
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Onega = **Russia**.
-</details>
-
----
-
-**Q5.** Mekong: 1. Rises in Tibet. 2. Delta in southern Cambodia.
-
-A. Only 1
-
-B. Only 2
-
-C. Both
-
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Delta = **Vietnam**.
-</details>
-
----
-
-**Q6.** Bird’s-foot delta river:
-
-A. Nile
-
-B. Danube
-
-C. Hwang Ho
-
-D. Mississippi
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-</details>
-
----
-
-**Q7.** Budapest stands on the:
-
-A. Rhine
-
-B. Danube
-
-C. Volga
-
-D. Seine
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q8.** Cologne stands on the:
-
-A. Danube
-
-B. Rhine
-
-C. Elbe
-
-D. Thames
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q9.** Hyderabad (India) stands on the:
-
-A. Godavari
-
-B. Musi
-
-C. Paleru
-
-D. Narmada
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q10.** Missouri joins the Mississippi at:
-
-A. New Orleans
-
-B. St Louis
-
-C. Chicago
-
-D. Montreal
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q11.** Longest river in Europe:
-
-A. Danube
-
-B. Rhine
-
-C. Volga
-
-D. Thames
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q12.** Longest river in Asia:
-
-A. Mekong
-
-B. Yangtze
-
-C. Amur
-
-D. Hwang Ho
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q13.** Traditionally longest river:
-
-A. Amazon
-
-B. Nile
-
-C. Mississippi
-
-D. Yangtze
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q14.** Largest discharge:
-
-A. Nile
-
-B. Amazon
-
-C. Congo
-
-D. Volga
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q15.** White Nile and Blue Nile meet at:
-
-A. Cairo
-
-B. Khartoum
-
-C. Aswan
-
-D. Alexandria
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q16.** Paris stands on the:
-
-A. Thames
-
-B. Seine
-
-C. Rhine
-
-D. Rhône
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q17.** London stands on the:
-
-A. Seine
-
-B. Thames
-
-C. Elbe
-
-D. Clyde as the only fact
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q18.** Baghdad stands on the:
-
-A. Euphrates only
-
-B. Tigris
-
-C. Jordan
-
-D. Nile
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q19.** Three Gorges dam is on the:
-
-A. Hwang Ho
-
-B. Yangtze
-
-C. Mekong
-
-D. Amur
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q20.** Aswan High Dam is on the:
-
-A. Congo
-
-B. Nile
-
-C. Niger
-
-D. Zambezi
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q21.** Itaipu dam is on the:
-
-A. Amazon
-
-B. Paraná
-
-C. Orinoco
-
-D. Mississippi
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q22.** Hoover Dam is on the:
-
-A. Columbia
-
-B. Colorado
-
-C. Rio Grande
-
-D. Yukon
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q23.** Kariba dam is on the:
-
-A. Nile
-
-B. Congo
-
-C. Zambezi
-
-D. Orange
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q24.** Largest lake on Earth:
-
-A. Superior
-
-B. Caspian
-
-C. Baikal
-
-D. Victoria
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q25.** Deepest lake:
-
-A. Tanganyika
-
-B. Baikal
-
-C. Superior
-
-D. Dead Sea
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q26.** Largest freshwater lake **by area**:
-
-A. Baikal
-
-B. Superior
-
-C. Caspian
-
-D. Onega
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q27.** Highest waterfall:
-
-A. Victoria
-
-B. Niagara
-
-C. Angel
-
-D. Iguazu
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q28.** Victoria Falls is on the:
-
-A. Nile
-
-B. Congo
-
-C. Zambezi
-
-D. Niger
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q29.** Niagara lies between lakes:
-
-A. Superior–Michigan
-
-B. Erie–Ontario
-
-C. Huron–Erie as the fall itself
-
-D. Baikal–Onega
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q30.** Titicaca is in:
-
-A. Russia
-
-B. Peru–Bolivia
-
-C. Canada
-
-D. Venezuela
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q31.** Dead Sea is fed mainly by the:
-
-A. Nile
-
-B. Jordan
-
-C. Tigris
-
-D. Volga
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q32.** Syr Darya ends in the:
-
-A. Caspian
-
-B. Aral
-
-C. Black Sea
-
-D. Baikal
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q33.** Angara flows out of:
-
-A. Superior
-
-B. Baikal
-
-C. Onega
-
-D. Dead Sea
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q34.** Busiest European inland navigation:
-
-A. Thames
-
-B. Rhine
-
-C. Po
-
-D. Tagus
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q35.** River with the most countries:
-
-A. Rhine
-
-B. Danube
-
-C. Volga
-
-D. Seine
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q36.** St Lawrence Seaway links:
-
-A. Caspian–Volga
-
-B. Great Lakes–Atlantic
-
-C. Baikal–Yenisei only
-
-D. Nile–Med only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q37.** Shanghai is on the:
-
-A. Hwang Ho
-
-B. Yangtze
-
-C. Mekong
-
-D. Amur
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q38.** Iguazu Falls: countries:
-
-A. USA–Canada
-
-B. Brazil–Argentina
-
-C. Zambia–Zimbabwe
-
-D. Peru–Bolivia
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q39.** Maracaibo is in:
-
-A. Russia
-
-B. Canada
-
-C. Venezuela
-
-D. USA
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q40.** Great Lake lying wholly in the USA:
-
-A. Superior
-
-B. Michigan
-
-C. Huron
-
-D. Ontario
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q41.** Volga empties into the:
-
-A. Black Sea
-
-B. Caspian
-
-C. Baltic
-
-D. Mediterranean
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q42.** Niger delta opens into the:
-
-A. Red Sea
-
-B. Gulf of Guinea
-
-C. Mediterranean
-
-D. Indian Ocean
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q43.** Darling Range is:
-
-A. The Murray–Darling mouth
-
-B. A hill range of Western Australia
-
-C. A Canadian lake
-
-D. A Nile dam
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q44.** Cairo stands on the:
-
-A. Congo
-
-B. Nile
-
-C. Niger
-
-D. Zambezi
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q45.** Belgrade stands on the:
-
-A. Rhine
-
-B. Danube
-
-C. Volga
-
-D. Po
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q46.** Hwang Ho is also called:
-
-A. Yangtze
-
-B. Yellow River
-
-C. Mekong
-
-D. Amur
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q47.** Amazon rises in the:
-
-A. Ethiopian Highlands
-
-B. Andes
-
-C. Alps
-
-D. Tibetan Plateau
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q48.** Blue Nile source lake (standard fact):
-
-A. Victoria
-
-B. Tana
-
-C. Malawi
-
-D. Chad
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — White Nile associated with Victoria.
-</details>
-
----
-
-**Q49.** Grand Coulee dam: river:
-
-A. Colorado
-
-B. Columbia
-
-C. Mississippi
-
-D. Yukon
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q50.** Ladoga is in:
-
-A. Canada
-
-B. Russia
-
-C. USA
-
-D. Venezuela
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-
-**Q51.** Which river is both the deepest major river and the only major river that crosses the Equator twice?
-
-A. Amazon
-
-B. Nile
-
-C. Congo
-
-D. Niger
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q52.** The Grand Ethiopian Renaissance Dam (GERD) is on the:
-
-A. White Nile in Uganda
-
-B. Blue Nile in Ethiopia
-
-C. Congo in DRC
-
-D. Zambezi in Mozambique
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q53.** “Super Man Helps Every One” is a mnemonic for Great Lakes order from west to east. The correct sequence starts with:
-
-A. Michigan → Superior → Huron → Erie → Ontario
-
-B. Superior → Michigan → Huron → Erie → Ontario
-
-C. Superior → Huron → Michigan → Erie → Ontario
-
-D. Erie → Ontario → Superior → Michigan → Huron
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q54.** Which of the following pairs is/are correctly matched?
-
-1. Titicaca — highest navigable lake
-2. Dead Sea — lowest land surface / hypersaline
-3. Tanganyika — deepest lake on Earth
-
-A. 1 and 2 only
-
+A. 1 and 3 only
 B. 2 and 3 only
-
-C. 1 and 3 only
-
+C. 1 and 2 only
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Deepest = **Baikal**; Tanganyika is **2nd** deepest.
+**Ans: C.** Only 1 and 2 are correct.
+
+**Logic:** Hyderabad (India) is on the Musi, not the Godavari. Missouri joins the Mississippi at St Louis.
+
 </details>
 
----
+**Q2.** Consider the following pairs:
 
-**Q55.** Niger is called a paradox river mainly because:
+| City | River |
+|------|-------|
+| 1. Budapest | Danube |
+| 2. Cologne | Rhine |
+| 3. Berlin | Rhine |
+| 4. Vienna | Danube |
 
-A. It is the longest river on Earth
+Which of the pairs given above are correctly matched?
 
-B. It arcs inland before reaching the Gulf of Guinea
-
-C. It drains into the Caspian Sea
-
-D. It never forms a delta
+A. 1, 2 and 3 only
+B. 1, 2 and 4 only
+C. 2, 3 and 4 only
+D. 1, 3 and 4 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B.** Budapest–Danube, Cologne–Rhine and Vienna–Danube are correct.
+
+**Logic:** Berlin is on the Spree, not the Rhine. Pair 3 is the trap.
+
 </details>
 
----
+**Q3.** With reference to the Mekong, which of the following statements is/are correct?
 
-**Q56.** Lake Nasser was created by:
+1. It rises in Tibet and flows broadly south / south-east.
+2. Its principal delta lies in southern Vietnam.
+3. The classic Prelims trap places the delta in Cambodia.
 
-A. Hoover Dam on the Colorado
-
-B. Aswan High Dam on the Nile
-
-C. Three Gorges on the Yangtze
-
-D. Itaipu on the Paraná
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q57.** Which lake is endorheic and has shrunk mainly because Amu Darya and Syr Darya water was diverted for irrigation?
-
-A. Superior
-
-B. Baikal
-
-C. Aral
-
-D. Michigan
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q58.** Assertion (A): Volga is the longest river in Europe.
-Reason (R): Volga drains into the Black Sea.
-
-A. Both A and R are true and R explains A
-
-B. Both A and R are true but R does not explain A
-
-C. A is true but R is false
-
-D. A is false but R is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Mouth = **Caspian**.
-</details>
-
----
-
-**Q59.** Which waterfall is correctly matched?
-
-A. Angel — Zambezi
-
-B. Victoria — Venezuela
-
-C. Niagara — USA–Canada
-
-D. Iguazu — Nile
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q60.** Which of the following is an endorheic water body?
-
-A. Superior
-
-B. Dead Sea
-
-C. Ontario
-
-D. Victoria
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q61.** Baghdad stands on the:
-
-A. Euphrates only always
-
-B. Tigris
-
-C. Jordan
-
-D. Nile
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q62.** Lake Tanganyika is shared by Tanzania and which other countries in the standard set?
-
-A. Only Egypt and Sudan
-
-B. DRC, Burundi and Zambia (with Tanzania)
-
-C. Only USA and Canada
-
-D. Only Peru and Bolivia
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q63.** Which dam–river pair is correctly matched?
-
-A. Kariba — Nile
-
-B. Hoover — Zambezi
-
-C. Itaipu — Paraná
-
-D. Three Gorges — Mississippi
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q64.** The Rhine–Main–Danube canal is important because it:
-
-A. Links the Caspian Sea to the Pacific
-
-B. Links the Rhine system to the Danube / Black Sea route
-
-C. Creates the bird’s-foot Mississippi delta
-
-D. Feeds the Aral Sea
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q65.** Which statement about the Congo is/are correct?
-
-1. It is the deepest major river.
-2. It crosses the Equator twice.
-3. It has a larger discharge than the Amazon.
+Select the correct answer from the code given below:
 
 A. 1 and 2 only
-
 B. 2 and 3 only
-
 C. 1 and 3 only
-
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Amazon has the **largest** discharge.
+**Ans: D.** All three statements are correct.
+
+**Logic:** Mekong direction and S. Vietnam delta are standard; Cambodia is the usual wrong option.
+
 </details>
 
----
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): The Nile is treated as the longest river in the usual Prelims set.
+
+Reason (R): The Amazon has the world’s largest discharge and basin.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; R does not explain A.
+
+**A/R logic:** Longest and largest discharge are separate records. R is true but does not explain why Nile is called longest.
+
+</details>
+
+**Q5.** Match List-I with List-II and select the correct answer using the code given below the lists:
+
+| List-I (Dam / project) | List-II (River) |
+|------------------------|-----------------|
+| A. Three Gorges | 1. Colorado |
+| B. Aswan | 2. Yangtze |
+| C. Itaipu | 3. Nile |
+| D. Hoover | 4. Paraná |
+
+Code:
+
+A. A-2, B-4, C-3, D-1
+B. A-3, B-2, C-1, D-4
+C. A-2, B-3, C-4, D-1
+D. A-4, B-3, C-2, D-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Three Gorges–Yangtze; Aswan–Nile; Itaipu–Paraná; Hoover–Colorado.
+
+**Logic:** Do not park Hoover on the Nile or Itaipu on the Colorado.
+
+</details>
+
+**Q6.** Which of the following pairs is/are **NOT** correctly matched?
+
+1. Lake Onega — Canada
+2. Lake Michigan — wholly in the USA
+3. Lake Maracaibo — Venezuela
+
+Select the correct answer from the code given below:
+
+A. 2 only
+B. 1 only
+C. 1 and 3 only
+D. 2 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only pair 1 is not correctly matched.
+
+**Logic:** Onega is in Russia, not Canada. Michigan is wholly USA; Maracaibo is in Venezuela.
+
+</details>
+
+**Q7.** Arrange the Great Lakes from west to east:
+
+1. Huron
+2. Superior
+3. Ontario
+4. Erie
+5. Michigan
+
+Select the correct answer from the code given below:
+
+A. 2-1-5-4-3
+B. 5-2-1-4-3
+C. 2-5-1-4-3
+D. 2-5-4-1-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Superior → Michigan → Huron → Erie → Ontario.
+
+**Logic:** Mnemonic: Super Man Helps Every One. Do not put Erie before Huron.
+
+</details>
+
+**Q8.** With reference to lake superlatives, which of the following statements is/are correct?
+
+1. The Caspian is the largest lake on Earth by area.
+2. Superior is the largest freshwater lake by area.
+3. Baikal holds the greatest volume of fresh water among lakes and is the deepest.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are correct.
+
+**Logic:** Caspian (saline) ≠ Superior (fresh area) ≠ Baikal (depth/volume).
+
+</details>
+
+**Q9.** Consider the following statements about African rivers:
+
+1. The Congo is among the deepest rivers and crosses the Equator twice.
+2. The Limpopo crosses the Tropic of Capricorn twice.
+3. The Niger first flows inland in a paradox arc before turning to the Gulf of Guinea.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three statements are correct.
+
+**Logic:** Congo, Limpopo and Niger each carry a classic ‘twice / paradox’ trap.
+
+</details>
+
+**Q10.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Lake Michigan is shared by the USA and Canada.
+
+Reason (R): Superior, Huron, Erie and Ontario have shores in both the USA and Canada.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** (A) is false, but (R) is true.
+
+**A/R logic:** Michigan lies wholly in the USA. The other four Great Lakes are shared.
+
+</details>
+
+**Q11.** Which of the following pairs is/are correctly matched?
+
+1. Angel Falls — Venezuela
+2. Victoria Falls — Zambezi
+3. Iguazu Falls — Brazil–Argentina
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three pairs are correct.
+
+**Logic:** Angel is highest; Victoria is on the Zambezi; Iguazu straddles Brazil–Argentina.
+
+</details>
+
+**Q12.** With reference to European inland navigation, which of the following statements is/are correct?
+
+1. The Danube crosses the largest number of countries among major European rivers.
+2. The Rhine is Europe’s busiest inland navigation artery.
+3. Budapest stands on the Rhine.
+
+Select the correct answer from the code given below:
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** Budapest is on the Danube. Do not swap Danube (most countries) with Rhine (busiest).
+
+</details>
+
+**Q13.** Match List-I with List-II and select the correct answer using the code given below the lists:
+
+| List-I (Feature) | List-II (Association) |
+|-------------------|------------------------|
+| A. Bird’s-foot delta | 1. Nile / Hwang Ho / Niger |
+| B. Arcuate delta | 2. Mississippi |
+| C. Endorheic lake set | 3. Caspian, Aral, Dead Sea, Chad, Eyre |
+| D. St Lawrence | 4. Great Lakes seaway |
+
+Code:
+
+A. A-2, B-3, C-1, D-4
+B. A-1, B-2, C-3, D-4
+C. A-2, B-1, C-3, D-4
+D. A-4, B-1, C-3, D-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Mississippi = bird’s-foot; Nile/Hwang Ho/Niger = arcuate; endorheic set as listed; St Lawrence = seaway.
+
+**Logic:** Do not call the Mississippi arcuate or dump the Caspian into the open-ocean outlet class.
+
+</details>
+
+**Q14.** Arrange the following from upstream Nile junction to Mediterranean outlet facts in teaching order of identity:
+
+1. Aswan / Lake Nasser
+2. Khartoum (White Nile + Blue Nile)
+3. GERD on the Blue Nile (Ethiopia)
+4. Cairo on the Nile
+
+Which sequence correctly places the Blue Nile dam and the White–Blue meeting before the Egyptian dam and capital?
+
+A. 3-2-1-4
+B. 2-3-1-4
+C. 3-2-4-1
+D. 2-1-3-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** GERD (Blue Nile, Ethiopia) → Khartoum confluence → Aswan/Nasser → Cairo.
+
+**Logic:** GERD is upstream of Khartoum on the Blue Nile arm; Aswan is far downstream in Egypt.
+
+</details>
+
+**Q15.** Which of the following is/are **NOT** correctly matched?
+
+1. USA–Mexico main border river — Colorado
+2. Volga mouth — Caspian Sea
+3. Darling Range — Murray–Darling river system itself
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Pairs 1 and 3 are not correctly matched.
+
+**Logic:** Main border river is the Rio Grande (Colorado is the trap). Darling Range is a SW Australia highland, not the river system name.
+
+</details>
+
+**Q16.** With reference to Tanganyika and Titicaca, which of the following statements is/are correct?
+
+1. Tanganyika is the second-deepest lake and the longest freshwater lake.
+2. Titicaca is the highest navigable lake among classic options.
+3. The Dead Sea is the lowest land surface and is hypersaline.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are correct.
+
+**Logic:** Do not crown Tanganyika deepest (that is Baikal) or treat the Dead Sea as an ordinary open sea.
+
+</details>
+
+**Q17.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): The Aral Sea has shrunk mainly because the Amu Darya and Syr Darya were diverted.
+
+Reason (R): Both rivers are endorheic feeders toward the Aral depression rather than open-ocean outlets.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R explains A.
+
+**A/R logic:** Diversion of endorheic feeders cuts inflow to a closed basin — that is why the Aral shrank.
+
+</details>
+
+**Q18.** Consider the following city–river pairs:
+
+1. Baghdad — Tigris
+2. Paris — Seine
+3. London — Thames
+4. Cairo — Nile
+
+Which of the pairs given above are correctly matched?
+
+A. 1, 2 and 3 only
+B. 1, 3 and 4 only
+C. 2, 3 and 4 only
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All four pairs are correct.
+
+**Logic:** Standard city–river desk; do not swap Baghdad onto the Euphrates-only option in multi-pair stems.
+
+</details>
+
+**Q19.** With reference to Asian rivers, which of the following statements is/are correct?
+
+1. The Yangtze is Asia’s longest river.
+2. The Volga is Europe’s longest river and empties into the Caspian.
+3. The Amur flows broadly north-east.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are correct.
+
+**Logic:** Volga → Caspian (not Black Sea). Amur direction is a frequent map trap.
+
+</details>
+
+**Q20.** Which one of the following correctly pairs the continent with its classic ‘spine’ river system taught in this chapter?
+
+A. Australia — Murray–Darling
+B. Africa — Amazon
+C. South America — Nile
+D. Europe — Yangtze
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Australia’s spine system is Murray–Darling.
+
+**Logic:** Africa–Nile, South America–Amazon, Asia–Yangtze, Europe–Volga are the other spines.
+
+</details>
+
+**Q21.** With reference to Sri Lanka’s drainage, which of the following statements is/are correct?
+
+1. The Mahaweli is Sri Lanka’s longest river.
+2. Drainage is broadly radial from the central highlands.
+3. The Mahaweli is India’s longest east-flowing peninsular river.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Mahaweli is Sri Lanka’s river, not an Indian peninsular river.
+
+</details>
+
+**Q22.** Consider the following statements:
+
+1. Grand Canyon is carved by the Colorado.
+2. The Ganga–Brahmaputra system builds the world’s largest delta among classic options.
+3. An inselberg is a glacial landform identical to a drumlin.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Inselberg is a wind/residual residual hill, not a glacier landform.
+
+</details>
+
+**Q23.** Match List-I with List-II and select the correct answer using the code given below the lists:
+
+| List-I (River) | List-II (Direction / mouth note) |
+|-----------------|----------------------------------|
+| A. Syr Darya | 1. North out of Baikal |
+| B. Angara | 2. North-west into the Aral |
+| C. Volga | 3. Valdai Hills → Caspian |
+| D. Mekong | 4. Tibet → SE; delta in S. Vietnam |
+
+Code:
+
+A. A-2, B-1, C-3, D-4
+B. A-1, B-2, C-4, D-3
+C. A-2, B-3, C-1, D-4
+D. A-4, B-1, C-3, D-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Syr Darya NW to Aral; Angara north from Baikal; Volga to Caspian; Mekong SE to S. Vietnam.
+
+**Logic:** Do not send the Volga to the Black Sea or the Mekong south-west to a Cambodia-only delta.
+
+</details>
+
+**Q24.** Which of the following pairs is/are **NOT** correctly matched?
+
+1. Kariba — Zambezi
+2. Three Gorges — Nile
+3. Hoover — Colorado
+
+Select the correct answer from the code given below:
+
+A. 1 only
+B. 2 only
+C. 1 and 3 only
+D. 2 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only pair 2 is not correctly matched.
+
+**Logic:** Three Gorges is on the Yangtze. Kariba–Zambezi and Hoover–Colorado are correct.
+
+</details>
+
+**Q25.** With reference to lake types, which of the following statements is/are correct?
+
+1. Rift / tectonic lakes include examples such as Baikal and Tanganyika.
+2. Every famous lake in Prelims teaching is simply labelled ‘fresh lake’ without type.
+3. Crater, lagoon and oxbow are recognised lake-origin classes.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 3 are correct.
+
+**Logic:** Statement 2 is false — type (tectonic, glacial, crater, etc.) matters.
+
+</details>
+
+**Q26.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): The Rhine–Main–Danube canal links the Black Sea drainage system with the Rhine.
+
+Reason (R): The St Lawrence Seaway is the navigation outlet of the Great Lakes to the Atlantic.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; R does not explain A.
+
+**A/R logic:** Both are correct navigation facts, but the St Lawrence does not explain the Rhine–Main–Danube link.
+
+</details>
+
+**Q27.** Consider the following statements about endorheic waters:
+
+1. Caspian, Aral, Dead Sea, Chad and Eyre have no ocean outlet.
+2. Lake Chad has also shown long-term shrinkage in teaching maps.
+3. Superior is endorheic because it does not reach the Atlantic.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Superior drains via the St Lawrence system to the Atlantic — it is not endorheic.
+
+</details>
+
+**Q28.** With reference to SE / East Asian city–river pairs, which of the following is/are correctly matched?
+
+1. Phnom Penh — Mekong
+2. Hanoi — Red River
+3. Yangon — Irrawaddy
+4. Bangkok — Chao Phraya
+
+Select the correct answer from the code given below:
+
+A. 1, 2 and 3 only
+B. 1, 3 and 4 only
+C. 2, 3 and 4 only
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All four pairs are correct.
+
+**Logic:** Standard capital/port–river desk for mainland SE Asia.
+
+</details>
+
+**Q29.** Which one of the following statements is correct?
+
+A. Niagara Falls lies on the US–Canada border system linked to the Great Lakes.
+B. Victoria Falls is on the Nile.
+C. Angel Falls is in Brazil.
+D. Iguazu Falls lies wholly inside Chile.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Niagara is the US–Canada Great Lakes falls.
+
+**Logic:** Victoria–Zambezi; Angel–Venezuela; Iguazu–Brazil–Argentina.
+
+</details>
+
+**Q30.** With reference to the Mississippi delta and African arcuate deltas, which of the following statements is/are correct?
+
+1. The Mississippi builds a bird’s-foot delta.
+2. Nile, Hwang Ho and Niger are classic arcuate (bow-shaped) deltas.
+3. Bird’s-foot and arcuate shapes are interchangeable labels for the same Mississippi mouth.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Statement 3 erases the bird’s-foot vs arcuate distinction.
+
+</details>
 
 ## Common Traps — Don't Fall For These
 

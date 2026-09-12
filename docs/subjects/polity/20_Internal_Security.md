@@ -603,1437 +603,640 @@ D. Both
 
 ## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden.** Full stems (not cryptic stubs). **100 questions.** ≥60% multi-statement / application. Mix: A/R, Match List, chronology, NOT-correctly-matched.
+> **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D
 
-**Q1.** BHARATPOL has been developed by which of the following?
-A. RAW
-B. IB
-C. ED
-D. CBI
+**Q1.** With reference to ministries and forces, which of the following statements is/are correct?
 
-<details>
-<summary>Show answer</summary>
+1. CAPFs sit under the Ministry of Home Affairs.
+2. The Indian Coast Guard sits under the Ministry of Defence.
+3. Police and public order are Union List subjects.
 
-**Ans: D**
+Select the correct answer from the code given below:
 
-</details>
-
-**Q2.** With reference to the April 2024 anti-Maoist operation?
-1. It took place in Gadchiroli, Maharashtra.
-2. BSF and District Reserve Guards launched it.
-A. Only 1
-B. Only 2
-C. Both
-D. Neither
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Kanker, **Chhattisgarh**.
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** Police and public order are State List; Coast Guard is MoD, not a CAPF.
 
 </details>
+**Q2.** Which one of the following pairs is **NOT** correctly matched?
 
-**Q3.** Match List-I with List-II and select the correct answer using the code given below the lists:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | IB |
-| B | RAW |
-| C | NIA Act |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | 1968 |
-| 2 | 1887 |
-| 3 | 2008 |
-
-> Note: Row order in the tables is **not** the answer.
-
-A. A-2, B-1, C-3
-B. A-1, B-2, C-3
-C. A-2, B-3, C-1
-D. A-3, B-1, C-2
+A. IB — internal intelligence; MHA; 1887
+B. RAW — external intelligence; Cabinet Secretariat line; 1968
+C. NIA — Act 2008; needs DSPE section 6 State consent for scheduled offences
+D. CBI — India’s Interpol National Central Bureau
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: C.** NIA investigates scheduled offences without State consent; CBI needs s.6 consent.
+
+**Logic:** NIA ≠ CBI on the consent trap.
 
 </details>
 
-**Q4.** NIA can investigate a scheduled offence in a State?
-A. Only after s.6 DSPE consent
-B. Without State consent
-C. Only if IB asks
-D. Never outside Delhi
+**Q3.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): BHARATPOL is built and run as India’s Interpol cooperation portal by the Intelligence Bureau.
+
+Reason (R): India’s Interpol National Central Bureau is the CBI.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B.** (A) is false; (R) is true.
+
+**A/R logic:** BHARATPOL is the CBI-linked Interpol channel because CBI is the NCB — not IB/RAW/ED.
 
 </details>
 
-**Q5.** Which one of the following is **not** correctly matched?
-A. BSF — Pakistan and Bangladesh
-B. ITBP — China / LAC
-C. SSB — Nepal and Bhutan
-D. BSF — India–China border
+**Q4.** Match List-I with List-II and select the correct answer using the code given below the lists:
+
+| List-I (Force) | List-II (Primary beat) |
+|----------------|------------------------|
+| A. BSF | 1. China / LAC belt |
+| B. ITBP | 2. Pakistan and Bangladesh borders |
+| C. SSB | 3. Nepal and Bhutan borders |
+| D. CISF | 4. Industry / airports / metro static security |
+
+> Note: Row order is **not** the answer.
+
+Select the correct answer using the code given below:
+
+A. A-1, B-2, C-4, D-3
+B. A-2, B-1, C-3, D-4
+C. A-2, B-3, C-1, D-4
+D. A-3, B-1, C-2, D-4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: B.** A-2, B-1, C-3, D-4.
+
+**Logic:** BSF = W+E international land borders; ITBP = China/LAC; SSB = Nepal/Bhutan; CISF = static industry/airport.
 
 </details>
+**Q5.** Arrange the following in chronological order of establishment / raising:
 
-**Q6.** CRPF traces to which of the following?
-A. 1962
-B. 1965
-C. 1939
-D. 2008
+1. Intelligence Bureau (Central Special Branch origin)
+2. RAW
+3. NSG (post-1984 raising)
+4. NIA Act
+
+Select the correct answer from the code given below:
+
+A. 2–1–3–4
+B. 1–2–3–4
+C. 1–3–2–4
+D. 1–2–4–3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: B.** 1887 → 1968 → 1984 → 2008.
+
+**Logic:** IB is oldest; RAW 1968; NSG after 1984; NIA Act after 26/11 (2008).
 
 </details>
+**Q6.** With reference to the National Security Council, which of the following is/are correct?
 
-**Q7.** First Director General of BSF was?
-A. R.N. Kao
-B. K.F. Rustamji
-C. Brajesh Mishra
-D. K.P.S. Gill
+1. The NSC (1998) is chaired by the Prime Minister.
+2. The Strategic Policy Group of the NSC is the same body as the Special Protection Group under the 1988 Act.
+3. The first NSA was Brajesh Mishra.
 
-<details>
-<summary>Show answer</summary>
+Select the correct answer from the code given below:
 
-**Ans: B**
-
-</details>
-
-**Q8.** CISF’s core mandate is?
-A. India–Nepal border
-B. Industrial / airport / metro security
-C. LAC
-D. PM’s close protection
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q9.** Assam Rifles headquarters is at?
-A. New Delhi
-B. Guwahati
-C. Shillong
-D. Imphal
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q10.** Dual control of Assam Rifles means?
-A. MHA and MeitY
-B. Admin MHA, operations Army
-C. MoD and MEA
-D. State and panchayat
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q11.** NSG’s two components are?
-A. IB and RAW
-B. SAG (Army) and SRG (CAPF)
-C. RAF and CoBRA
-D. BSF and ITBP
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q12.** NSG Act belongs to which of the following?
-A. 1968
-B. 1978
-C. 1986
-D. 2008
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q13.Assertion (A):** SPG provides close protection to the Prime Minister.
-
-**Reason (R):** SPG also means the Strategic Policy Group under the NSC.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both true, R not explanation
-C. A true R false
-D. A false R true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — two different SPGs.
-
-</details>
-
-**Q14.** After the 2019 amendment, an ex-PM gets SPG cover for which of the following?
-A. Life
-B. **5 years** from demitting office
-C. 6 months
-D. Never
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q15.** NSC is chaired by the?
-A. Home Minister
-B. NSA
-C. Prime Minister
-D. Cabinet Secretary
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q16.** First National Security Advisor was?
-A. R.N. Kao
-B. Brajesh Mishra
-C. Ajit Doval
-D. Rustamji
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q17.** Which of the following is/are correct?
-1. CCS is a Cabinet committee.
-2. NSC is the same body as CCS.
-A. Only 1
-B. Only 2
-C. Both
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q18.** Multi-Agency Centre (MAC) sits with which of the following?
-A. RAW
-B. IB
-C. NIA
-D. SEBI
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q19.** NCTC in India?
-A. Is a constitutional body
-B. Was proposed but not established
-C. Replaced NIA in 2012
-D. Is a CAPF
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q20.** Coast Guard is under the?
-A. MHA
-B. MoD
-C. MEA
-D. MoTA
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q21.** Arrange the following in chronological order: I IB II RAW III NSC IV NIA Act
-A. I, II, III, IV
-B. I, III, II, IV
-C. II, I, III, IV
-D. I, II, IV, III
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — **1887 → 1968 → 1998 → 2008**.
-
-</details>
-
-**Q22.** CoBRA is a specialised unit of which of the following?
-A. BSF
-B. CRPF
-C. ITBP
-D. NSG
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — **2008**, LWE.
-
-</details>
-
-**Q23.** RAF (Rapid Action Force) was raised in which of the following?
-A. 1939
-B. 1992
-C. 2008
-D. 1965
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — communal / riot.
-
-</details>
-
-**Q24.** Which one of the following is **not** a CAPF under MHA?
-A. CRPF
-B. CISF
-C. ITBP
-D. Indian Coast Guard
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q25.** RAW reports, in the executive chain, to the?
-A. Home Minister
-B. Cabinet Secretariat / NSA / PM
-C. Chief of Army Staff
-D. CBI Director
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q26.** Consider the following statements:
-1. Police is a State subject.
-2. Article 355 obliges the Union to protect States against internal disturbance.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q27.** SSB was renamed Sashastra Seema Bal in which of the following?
-A. 1963
-B. 2001
-C. 1965
-D. 1984
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — born **1963** as Special Service Bureau.
-
-</details>
-
-**Q28.** Match motto / tag:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | BSF |
-| B | Assam Rifles |
-| C | NSG |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Sentinels of the North-East |
-| 2 | Duty Unto Death |
-| 3 | Black Cats |
-
-> Note: Row order in the tables is **not** the answer.
-
-A. A-2, B-1, C-3
-B. A-1, B-2, C-3
-C. A-2, B-3, C-1
-D. A-3, B-1, C-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q29.** NATGRID is?
-A. A border guarding force
-B. An MHA data-linkage platform
-C. A 2nd ARC report
-D. The Interpol NCB
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q30.** Which one of the following is **not** correctly matched?
-A. NIA — statutory 2008
-B. CBI — needs State consent
-C. IB — oldest intel
-D. RAW — raised 1887
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — RAW **1968**.
-
-</details>
-
-**Q31.** Post-26/11 coastal security is typically described as which of the following?
-A. Only Navy
-B. Marine police + Coast Guard + Navy
-C. Only BSF
-D. Only NSG
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q32.Assertion (A):** Assam Rifles is the oldest of this paramilitary family.
-
-**Reason (R):** It was raised in 1965 along with BSF.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both true, R not explanation
-C. A true R false
-D. A false R true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — **1835**.
-
-</details>
-
-**Q33.** Special NIA Courts try?
-A. All IPC offences in India
-B. Scheduled offences under the NIA Act
-C. Only FEMA
-D. Only election petitions
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q34.** 2019 NIA amendment is associated with which of the following?
-A. Abolishing NIA
-B. Wider schedule + extra-territorial reach
-C. Shifting NIA to MoD
-D. Making IB statutory
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q35.** Strategic Policy Group of the NSC is chaired (after 2018) by the?
-A. Home Minister
-B. NSA
-C. CJI
-D. RBI Governor
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q36.** Which force was raised immediately after the 1962 war?
-A. BSF
-B. ITBP
-C. NSG
-D. CISF
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q37.** Which force was raised immediately after the 1965 war?
-A. ITBP
-B. BSF
-C. CRPF
-D. Assam Rifles
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q38.** Consider the following statements:
-1. CoBRA is an NSG battalion.
-2. RAF is a CRPF riot-control formation.
-A. Only 1
-B. Only 2
-C. Both
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — CoBRA = **CRPF**.
-
-</details>
-
-**Q39.** District Reserve Guard (DRG) belongs to which of the following?
-A. Maharashtra C-60
-B. Chhattisgarh police
-C. NSG
-D. ITBP
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q40.** Which one of the following is **not** correctly matched?
-A. CISF Act — 1968
-B. NSG Act — 1986
-C. NIA Act — 2008
-D. BSF raised — 1939
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — BSF **1965**; CRPF **1939**.
-
-</details>
-
-**Q41.** Founder of RAW was?
-A. Brajesh Mishra
-B. R.N. Kao
-C. Rustamji
-D. Santhanam
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q42.** NSG headquarters is at?
-A. Shillong
-B. Manesar
-C. Mumbai only
-D. Itanagar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q43.** Operation Black Tornado is associated with which of the following?
-A. Golden Temple 1984
-B. 26/11 Mumbai, NSG
-C. Kargil
-D. Gadchiroli 2024
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q44.** Which of the following statements is/are correct?
-1. CAPFs are under MHA in peacetime.
-2. Indian Army is under MHA.
-A. Only 1
-B. Only 2
-C. Both
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Army = **MoD**.
-
-</details>
-
-**Q45.** Entry 2A of the Union List concerns?
-A. Agriculture
-B. Deployment of armed forces in aid of civil power
-C. Official language
-D. GST
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q46.** Match List-I with List-II and select the correct answer using the code given below the lists:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | NATGRID |
-| B | MAC |
-| C | NCTC |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Proposed, not born |
-| 2 | MHA data backbone |
-| 3 | IB, 2001 |
-
-> Note: Row order in the tables is **not** the answer.
-
-A. A-2, B-3, C-1
-B. A-1, B-2, C-3
-C. A-2, B-1, C-3
-D. A-3, B-2, C-1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q47.** CISF can, as the Act provides, also guard?
-A. Only Union ministries
-B. Certain private establishments on payment
-C. Only the LAC
-D. Only Nepal border
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q48.Assertion (A):** Interpol’s National Central Bureau in India is the CBI.
-
-**Reason (R):** Therefore RAW cannot collect external intelligence.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both true, R not explanation
-C. A true R false
-D. A false R true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q49.** Three-tier of NSC architecture is?
-A. CRPF–BSF–ITBP
-B. NSC–SPG (policy)–NSAB
-C. IB–RAW–ED
-D. Army–Navy–Air Force
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q50.** Which one of the following is **not** correctly matched?
-A. Coast Guard — 1978
-B. NSG — 1984/86
-C. SPG Act — 1988
-D. NIA Act — 1968
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — NIA **2008**; RAW **1968**.
-
-</details>
-
-**Q51.** Public order is in the?
-A. Union List
-B. State List
-C. Concurrent List
-D. 8th Schedule
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q52.** SAMADHAN is?
-A. A CAPF
-B. MHA’s 2017 LWE strategy
-C. An NIA court
-D. A cyber statute
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q53.** Consider the following statements:
-1. ITBP was raised in 1962.
-2. BSF was raised in 1965.
-3. CISF was raised in 1969.
 A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: B.** Only 1 and 3 are correct.
+
+**Logic:** SPG (NSC Strategic Policy Group) ≠ SPG (Special Protection Group 1988).
 
 </details>
 
-**Q54.** Which force is nicknamed Black Cats?
-A. CoBRA
-B. NSG
-C. RAF
-D. DRG
+**Q7.** With reference to cyber institutions, which of the following statements is/are correct?
+
+1. CERT-In is under MeitY and draws power from IT Act section 70B.
+2. I4C is an MHA cybercrime coordination ecosystem.
+3. NCIIPC (section 70A) protects Critical Information Infrastructure and is identical to CERT-In.
+
+Select the correct answer from the code given below:
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** NCIIPC ≠ CERT-In; NCIIPC sits on the NTRO/CII line.
 
 </details>
+**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Q55.** Which of the following is/are correct?
-1. NIA’s scheduled list includes UAPA offences.
-2. BHARATPOL is an IB portal.
-A. Only 1
-B. Only 2
-C. Both
-D. Neither
+Assertion (A): After the 2019 amendment, UAPA allows the Centre to designate individuals as terrorists.
+
+Reason (R): UAPA is a preventive detention law under the Article 22 track, identical to NSA 1980.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — BHARATPOL = **CBI**.
+**Ans: C.** (A) is true; (R) is false.
+
+**A/R logic:** 2019 Fourth Schedule individual designation is correct; UAPA is a criminal-trial statute, NSA is preventive detention.
 
 </details>
 
-**Q56.** CERT-In is the national nodal agency under which of the following?
-A. MHA
-B. MeitY (IT Act s.70B)
-C. MoD
-D. MoTA
+**Q9.** Which one of the following pairs is **NOT** correctly matched?
+
+A. AFSPA 1958 — applies in a notified disturbed area in the north-east
+B. AFSPA J&K 1990 — separate statute for Jammu & Kashmir
+C. NCTC (counter-terror) — established under IB in 2012 and still functional
+D. MAC — Multi-Agency Centre inside IB (2001)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: C.** Proposed NCTC was never stood up.
+
+**Logic:** Do not confuse never-born counter-terror NCTC with I4C’s National Cybercrime Training Centre.
 
 </details>
 
-**Q57.** NCIIPC protects Critical Information Infrastructure and sits with which of the following?
-A. CERT-In
-B. I4C
-C. NTRO (s.70A)
-D. BSF
+**Q10.** With reference to NSG and SPG, which of the following is/are correct?
 
-<details>
-<summary>Show answer</summary>
+1. NSG has SAG (Army) and SRG (CAPF) components and works under MHA.
+2. SPG Act 1988 is close protection of the Prime Minister; after 2019, ex-PM cover is five years from leaving office.
 
-**Ans: C**
+Select the correct answer from the code given below:
 
-</details>
-
-**Q58.** I4C is under the?
-A. MeitY
-B. MHA
-C. NTRO
-D. RBI
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q59.** Match List-I with List-II and select the correct answer using the code given below the lists:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | CERT-In |
-| B | I4C |
-| C | NCIIPC |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Cyber-crime portal, MHA |
-| 2 | Incident response, MeitY |
-| 3 | CII, NTRO |
-
-> Note: Row order in the tables is **not** the answer.
-
-A. A-2, B-1, C-3
-B. A-1, B-2, C-3
-C. A-2, B-3, C-1
-D. A-3, B-1, C-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q60.** CERT-In’s 2022 directions require specified incidents to be reported in which of the following?
-A. 90 days
-B. 6 hours
-C. 1 year
-D. Never
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q61.** Which one of the following is **not** correctly matched?
-A. Defence Cyber Agency — 2019, MoD
-B. National Cyber Security Policy — 2013
-C. CERT-In — 2004
-D. I4C — MeitY 2004
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — I4C = **MHA**, 2018/20.
-
-</details>
-
-**Q62.** India and the Budapest Convention on Cybercrime?
-A. India drafted it
-B. India is a founding party
-C. India is not a party
-D. It repealed the IT Act
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q63.** *Shreya Singhal* (2015)?
-A. Struck s.69A and saved 66A
-B. Struck s.66A; 69A blocking survived
-C. Repealed UAPA
-D. Created CERT-In
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q64.** s.66F of the IT Act deals with which of the following?
-A. Gifts to civil servants
-B. Cyber-terrorism
-C. AFSPA sanction
-D. SPG cover
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q65.** DPDP Act, 2023 is?
-A. The new name of CERT-In
-B. A personal-data statute (MeitY), not the incident-response body
-C. An AFSPA amendment
-D. POTA revived
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q66.** UAPA was originally enacted in which of the following?
-A. 1958
-B. 1967
-C. 2002
-D. 2008
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q67.** POTA was?
-A. Still the main terror law
-B. Repealed 2004; terror provisions folded into UAPA
-C. Renamed AFSPA
-D. A MeitY rule
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — POTA itself passed after a **joint sitting**.
-
-</details>
-
-**Q68.** The 2019 UAPA amendment allows the Union to which of the following?
-A. Repeal NIA
-B. Designate individuals as terrorists
-C. Hand AFSPA to panchayats
-D. Make IB statutory
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q69.** Consider the following statements:
-1. UAPA is a preventive-detention law like NSA 1980.
-2. UAPA cases can be investigated by the NIA without State consent when scheduled.
-A. Only 1
-B. Only 2
-C. Both
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — UAPA is a **criminal** statute.
-
-</details>
-
-**Q70.** s.43D(5) UAPA is about?
-A. CERT-In logs
-B. Stringent bail
-C. SPG tenure
-D. BSF raising day
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q71.** Arrange the following in chronological order: I TADA II POTA III UAPA (original) IV POTA repeal into UAPA
-A. III, I, II, IV
-B. I, III, II, IV
-C. III, II, I, IV
-D. I, II, III, IV
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — **1967 → 1985 → 2002 → 2004**.
-
-</details>
-
-**Q72.** Which one of the following is **not** correctly matched?
-A. TADA — 1985–95
-B. POTA — 2002–04
-C. UAPA — 1967–living
-D. POTA — still in force 2019
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q73.** AFSPA, 1958 applies?
-A. Automatically to all of India
-B. Only in a notified disturbed area
-C. Only to Delhi
-D. Only at sea
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q74.** A disturbed-area notification under AFSPA s.3 may be issued by which of the following?
-A. Gram Sabha
-B. Governor or Central Government
-C. CERT-In
-D. Election Commission
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q75.** Prosecution of armed forces under AFSPA s.6 needs?
-A. State Assembly resolution
-B. Central government sanction
-C. CERT-In nod
-D. No sanction anywhere
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q76.** AFSPA for Jammu & Kashmir is?
-A. The 1958 Act extended by a gazette footnote
-B. A separate 1990 Act
-C. UAPA Chapter IV
-D. Repealed in 1958
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q77.** Jeevan Reddy Committee (2005) on AFSPA recommended?
-A. Extension to all States
-B. **Repeal** (not enacted as a replacement statute)
-C. Transfer of Army to MHA
-D. Abolition of NIA
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q78.** Which one of the following is **not** correctly matched?
-A. Tripura AFSPA lifted — 2015
-B. Punjab AFSPA Act — repealed 1997
-C. AFSPA 1958 — NE
-D. AFSPA — Union-wide standing law without notification
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q79.Assertion (A):** *EEVEFA* (2016) said AFSPA is not a licence for fake encounters.
-
-**Reason (R):** Therefore AFSPA was struck down in its entirety.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both true, R not explanation
-C. A true R false
-D. A false R true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — *NPMHR* 1997 had already **upheld** the Act with limits.
-
-</details>
-
-**Q80.** National Cybercrime Reporting Portal is a vertical of which of the following?
-A. NCIIPC
-B. I4C
-C. BSF
-D. SPG
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q81.** Controller of Certifying Authorities deals with which of the following?
-A. AFSPA sanctions
-B. Digital signature certificates under the IT Act
-C. NIA special courts
-D. CoBRA
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q82.** Defence Cyber Agency is?
-A. A CAPF under MHA
-B. A 2019 tri-service MoD outfit
-C. CERT-In’s VPN cell
-D. The Budapest Secretariat
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q83.** Which of the following is/are correct?
-1. s.70A IT Act → NCIIPC.
-2. s.70B IT Act → CERT-In.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q84.** Cyber Swachhta Kendra is run off?
-A. AFSPA s.4
-B. CERT-In
-C. Assam Rifles HQ
-D. GeM
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q85.** Which one of the following is **not** correctly matched?
-A. NTRO — technical intel, NCIIPC parent
-B. I4C — MHA
-C. CERT-In — MeitY
-D. NCIIPC — CRPF battalion
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q86.** Unlawful-association notifications under UAPA are examined by a?
-A. Gram Sabha
-B. Tribunal headed by a High Court judge
-C. CERT-In DG
-D. NITI Aayog
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q87.** TADA lapsed in which of the following?
-A. 1967
-B. 1995
-C. 2004
-D. 2019
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q88.** Consider the following statements:
-1. AFSPA s.4 allows arrest without warrant in a disturbed area as provided.
-2. Ordinary CrPC warrant rules therefore never apply anywhere in India.
-A. Only 1
-B. Only 2
-C. Both
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q89.** National Cyber Security Coordinator sits in the?
-A. CRPF
-B. NSCS / NSA secretariat
-C. FAO
-D. NGT
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q90.** Which force is an AFSPA “armed forces” user in the NE more than a thana?
-A. Local chowkidar
-B. Assam Rifles / Army as notified
-C. GeM
-D. CIC
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q91.Assertion (A):** UAPA 2019 created a Fourth Schedule for individuals.
-
-**Reason (R):** Before 2019 only organisations could be listed as terrorist organisations.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both true, R not explanation
-C. A true R false
-D. A false R true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q92.** Which one of the following is **not** a CII sector NCIIPC typically lists?
-A. Power
-B. Banking
-C. Telecom
-D. Panchayat own-source revenue
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q93.** NSA 1980 vs UAPA — which is correct?
-1. NSA is preventive detention (Art. 22 track).
-2. UAPA is a criminal statute with special courts / NIA.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q94.** Irom Sharmila’s fast was directed against?
-A. CERT-In
-B. AFSPA in Manipur
-C. Digital India
-D. PESA
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q95.** Which one of the following is **not** correctly matched?
-A. AFSPA NE — 1958
-B. AFSPA J&K — 1990
-C. UAPA — 1967
-D. CERT-In statutory hook — AFSPA s.6
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — CERT-In = **IT Act s.70B**.
-
-</details>
-
-**Q96.** National Cyber Security Policy was issued in which of the following?
-A. 2000
-B. 2013
-C. 2019
-D. 2023 as a notified replacement already
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 2023 was a **draft** successor, not a freeze.
-
-</details>
-
-**Q97.** Match List-I with List-II and select the correct answer using the code given below the lists:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | POTA joint sitting |
-| B | Jeevan Reddy AFSPA report |
-| C | NIA Act |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | 2005 |
-| 2 | 2002 |
-| 3 | 2008 |
-
-> Note: Row order in the tables is **not** the answer.
-
-A. A-2, B-1, C-3
-B. A-1, B-2, C-3
-C. A-2, B-3, C-1
-D. A-3, B-1, C-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q98.** Which of the following is/are correct?
-1. AFSPA can operate without a disturbed-area notification.
-2. Tripura lifted AFSPA in 2015.
-A. Only 1
-B. Only 2
-C. Both
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q99.** The National Cybercrime Training Centre belongs to which of the following?
-A. The never-born terror NCTC
-B. I4C (MHA)
-C. ITBP
-D. SPG 1988
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q100.** Consider the following statements:
-1. 66A IT Act is still a charging section.
-2. CERT-In and I4C are the same body.
-A. Only 1
-B. Only 2
-C. Both
 D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: C.** Both 1 and 2 are correct.
+
+**Logic:** NSG = federal strike; SPG = PM close protection — different jobs.
+
+</details>
+
+**Q11.** With reference to the April 2024 anti-Maoist operation fact often tested, which of the following is/are correct?
+
+1. The theatre was Gadchiroli district of Maharashtra.
+2. Forces included BSF and District Reserve Guards.
+
+Select the correct answer from the code given below:
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 2 is correct.
+
+**Logic:** Theatre = Kanker, Chhattisgarh — not Gadchiroli; DRG is a Chhattisgarh police unit.
+
+</details>
+
+**Q12.** Match List-I with List-II and select the correct answer using the code given below the lists:
+
+| List-I | List-II |
+|--------|--------|
+| A. IT Act s.66A | 1. Critical Information Infrastructure |
+| B. IT Act s.70A | 2. Struck down in 2015 |
+| C. IT Act s.70B | 3. CERT-In statutory hook |
+| D. IT Act s.66F | 4. Cyber-terrorism |
+
+> Note: Row order is **not** the answer.
+
+Select the correct answer using the code given below:
+
+A. A-1, B-2, C-4, D-3
+B. A-2, B-1, C-3, D-4
+C. A-2, B-3, C-1, D-4
+D. A-4, B-1, C-3, D-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** A-2, B-1, C-3, D-4.
+
+**Logic:** Shreya Singhal struck 66A; 70A = NCIIPC/CII; 70B = CERT-In; 66F = cyber-terrorism.
+
+</details>
+**Q13.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Assam Rifles is the oldest central paramilitary force, with administration under MHA and operations under the Army.
+
+Reason (R): Assam Rifles’ north-east headquarters is Shillong.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; R does not explain A.
+
+**A/R logic:** Both facts are correct, but HQ location does not explain the dual MHA/Army control structure.
+
+</details>
+
+**Q14.** With reference to AFSPA, which of the following statements is/are correct?
+
+1. Section 3 notifies a disturbed area; section 6 needs Central sanction for prosecution.
+2. AFSPA was lifted from Tripura in 2015 and from large parts of Assam in 2022.
+3. The Jeevan Reddy Committee recommendation to repeal AFSPA was enacted in full in 2005.
+
+Select the correct answer from the code given below:
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2 are correct.
+
+**Logic:** Jeevan Reddy repeal recommendation was not enacted.
+
+</details>
+**Q15.** Which of the following statements about CCS and NSC is/are correct?
+
+1. The Cabinet Committee on Security is a Cabinet committee.
+2. The National Security Council is an extra-constitutional security council chaired by the PM.
+
+Select the correct answer from the code given below:
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both 1 and 2 are correct.
+
+**Logic:** Do not merge CCS and NSC into one body.
+
+</details>
+
+**Q16.** With reference to coastal security, which of the following is/are correct?
+
+1. The three-tier chain is marine police → Indian Coast Guard → Navy.
+2. Coast Guard (1978) is listed as a CAPF under MHA.
+
+Select the correct answer from the code given below:
+
+A. Neither 1 nor 2
+B. Only 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 is correct.
+
+**Logic:** Coast Guard is MoD — not a CAPF.
+
+</details>
+**Q17.** Arrange the following terror-law milestones chronologically:
+
+I. TADA period begins
+II. POTA enacted
+III. POTA repealed; terror chapters fold into UAPA
+IV. UAPA amendment allowing individual designation
+
+Select the correct answer from the code given below:
+
+A. I–II–IV–III
+B. II–I–III–IV
+C. I–III–II–IV
+D. I–II–III–IV
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** 1985 → 2002 → 2004 → 2019.
+
+**Logic:** Living central terror-trial tool is UAPA, often with NIA.
+
+</details>
+**Q18.** Which one of the following pairs is **NOT** correctly matched?
+
+A. CRPF — main internal mobile force; RAF / CoBRA for LWE
+B. NDRF — disaster-response force under DM Act 2005
+C. RPF — Railways protection force
+D. Defence Cyber Agency (2019) — sits under MeitY with CERT-In
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Defence Cyber Agency is under MoD.
+
+**Logic:** Keep MoD cyber agency distinct from MeitY CERT-In and MHA I4C.
+
+</details>
+
+**Q19.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): CERT-In’s 2022 directions require reporting specified incidents in six hours and retaining logs for five years.
+
+Reason (R): CERT-In is an MHA cybercrime police station network identical to I4C.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** (A) is true; (R) is false.
+
+**A/R logic:** Reporting/log facts are correct; CERT-In is MeitY/s.70B, not MHA I4C.
+
+</details>
+
+**Q20.** With reference to Article 355 and internal security, which of the following is/are correct?
+
+1. Article 355 obliges the Union to protect States against external aggression and internal disturbance.
+2. Day-to-day internal security work runs only through Emergency proclamations under Articles 352/356/360.
+
+Select the correct answer from the code given below:
+
+A. Neither 1 nor 2
+B. Only 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 is correct.
+
+**Logic:** Internal security day-to-day work runs through police, CAPFs, intelligence and special statutes — not only Emergency proclamations.
+
+</details>
+**Q21.** With reference to NSG Act / raising, which of the following is/are correct?
+
+1. NSG was raised after 1984 and given a statute in 1986.
+2. NSG trains at Manesar and works under MHA.
+3. CoBRA is an NSG LWE battalion under MoD.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** CoBRA is CRPF LWE, not NSG/MoD.
+
+</details>
+
+**Q22.** Match List-I with List-II and select the correct answer using the code given below the lists:
+
+| List-I | List-II |
+|--------|--------|
+| A. NATGRID | 1. Post-26/11 data backbone under MHA |
+| B. SAMADHAN | 2. MHA 2017 LWE strategy acrostic |
+| C. NSA 1980 | 3. Preventive detention (Art. 22 track) |
+| D. UAPA | 4. Criminal trial / terror designation statute |
+
+> Note: Row order is **not** the answer.
+
+Select the correct answer using the code given below:
+
+A. A-1, B-2, C-3, D-4
+B. A-2, B-1, C-4, D-3
+C. A-1, B-3, C-2, D-4
+D. A-1, B-2, C-4, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** A-1, B-2, C-3, D-4.
+
+**Logic:** NATGRID ≠ CAPF; SAMADHAN ≠ a new force; NSA ≠ UAPA.
+
+</details>
+
+**Q23.** With reference to India’s National Cyber Security Policy and treaties, which of the following is/are correct?
+
+1. National Cyber Security Policy is 2013 (MeitY).
+2. India is a party to the Budapest Convention on cybercrime.
+
+Select the correct answer from the code given below:
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 is correct.
+
+**Logic:** India is not a party to the Budapest Convention.
+
+</details>
+
+**Q24.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): NIA can investigate listed scheduled offences anywhere in India without State consent.
+
+Reason (R): The 2019 NIA amendment also strengthened extra-territorial investigation of scheduled offences targeting Indians/Indian property, with foreign cooperation as provided.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R correctly elaborates the agency’s reach theme linked to A.
+
+**A/R logic:** A states the core no-consent rule; R’s 2019 extra-territorial strengthening explains the widened investigative design of the same agency.
+
+</details>
+
+**Q25.** Which of the following statements about CAPF roles is/are correct?
+
+1. BSF holds western and eastern international land borders.
+2. CISF holds static industry and airport security.
+3. ITBP’s primary international land-border beat is Pakistan and Bangladesh.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** ITBP is China/LAC; BSF is Pak+Bangladesh.
+
+</details>
+
+**Q26.** With reference to SPG (1988) after the 2019 amendment, which of the following is/are correct?
+
+1. SPG as of right covers the sitting PM and family.
+2. Every former PM has lifelong SPG cover by right under the Act.
+
+Select the correct answer from the code given below:
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 is correct.
+
+**Logic:** Ex-PM cover is five years from leaving office — not lifelong for every former PM.
+
+</details>
+
+**Q27.** Which one of the following is correct about RAW’s founding?
+
+A. Founded 21 September 1968 under R.N. Kao; external intelligence
+B. Founded 1887 under MHA as external intelligence
+C. Founded 2008 under the NIA Act as a charge-sheet agency
+D. Founded 1998 as a Cabinet committee identical to CCS
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** RAW: 21 Sep 1968; R.N. Kao; external line.
+
+**Logic:** IB = internal 1887 MHA; RAW = external 1968 Cabinet Secretariat.
+
+</details>
+
+**Q28.** With reference to IT Act after Shreya Singhal, which of the following is/are correct?
+
+1. Section 66A was struck down in 2015.
+2. Section 69A blocking was upheld in the same line of litigation teaching.
+3. Section 66F covers cyber-terrorism.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are correct.
+
+**Logic:** 66A void; 69A blocking upheld; 66F cyber-terrorism.
+
+</details>
+
+**Q29.** With reference to Entry 2A and CAPF deployment, which of the following is/are correct?
+
+1. Entry 2A (Union List, 42nd Amendment) concerns deployment of armed forces in aid of civil power.
+2. This entry converts police into a permanent Union List subject.
+
+Select the correct answer from the code given below:
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 is correct.
+
+**Logic:** Police remains State List; Union uses 355 + CAPF + Entry 2A.
+
+</details>
+
+**Q30.** Which of the following statements is/are correct?
+
+1. NSC’s Strategic Policy Group is chaired by the NSA (after the 2018 recast teaching fact).
+2. Special Protection Group (1988) is chaired by the Cabinet Secretary as a constitutional body.
+
+Select the correct answer from the code given below:
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 is correct.
+
+**Logic:** Do not confuse Strategic Policy Group with Special Protection Group.
 
 </details>
 

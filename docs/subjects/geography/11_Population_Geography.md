@@ -1147,1228 +1147,630 @@ D. A and B
 
 ---
 
-## Practice Zone — UPPCS Format Questions
+## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden** — click **Show answer** under each question to reveal.
-> **Format mix:** 65 questions — multi-statement | Assertion–Reason | Match List | NOT correctly matched | direct recall (UPPCS Prelims style)
+> **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D | **Ans first, then Logic**
 
-**Q1.** When was the Census conducted for the first time in India? (2023 options)
+**Q1.** With reference to India’s census history, which of the following statements is/are correct?
 
-A. 1850
+1. The first non-synchronous census is taught as 1872 (some papers key 1871).
+2. The first synchronous all-India census was in 1881.
 
-B. 1861
+Select the correct answer from the code given below:
 
-C. 1871
-
-D. 1881
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — 2023 key. Historical non-sync census is **1872**; **1881** = first synchronous.
-</details>
-
----
-
-**Q2.** Assertion (A): 1881 was the first census in India.
-Reason (R): 1881 was the first **synchronous** all-India census.
-
-A. Both true, R explains A
-
-B. Both true, R not explanation
-
-C. A true R false
-
-D. A false R true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-</details>
-
----
-
-**Q3.** The ‘Great Divide’ in India’s population history is associated with:
-
-A. 1872
-
-B. 1881
-
-C. 1921
-
-D. 1951
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q4.** Census 2011 of India is:
-
-1. The 15th census.
-2. The 7th census after Independence.
-
-A. Only 1
-
-B. Only 2
-
-C. Both
-
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q5.** India 2011: density, sex ratio, CSR, literacy (correct set) is closest to:
-
-A. 324, 933, 927, 64.8%
-
-B. 382, 943, 919, 74.04%
-
-C. 382, 919, 943, 82.14%
-
-D. 439, 943, 919, 74.04%
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q6.** Write in descending order of population (Census 2011): 1 Bihar 2 Andhra Pradesh 3 Uttar Pradesh 4 West Bengal
-
-A. 3, 4, 1, 2
-
-B. 1, 3, 2, 4
-
-C. 1, 3, 4, 2
-
-D. 3, 1, 4, 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — UP > Bihar > WB > AP.
-</details>
-
----
-
-**Q7.** Most populous State (Census 2011):
-
-A. Bihar
-
-B. Madhya Pradesh
-
-C. Maharashtra
-
-D. Uttar Pradesh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-</details>
-
----
-
-**Q8.** Largest rural population (Census 2011):
-
-A. Madhya Pradesh
-
-B. Maharashtra
-
-C. Punjab
-
-D. Uttar Pradesh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-</details>
-
----
-
-**Q9.** Lowest density of population (Census 2011):
-
-A. Himachal Pradesh
-
-B. Arunachal Pradesh
-
-C. West Bengal
-
-D. Mizoram
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q10.** Highest density **state** (2011) is:
-
-A. West Bengal
-
-B. Uttar Pradesh
-
-C. Bihar
-
-D. Kerala
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q11.** Lowest child sex-ratio in both rural and urban areas (2011):
-
-A. Uttar Pradesh
-
-B. Kerala
-
-C. Haryana
-
-D. Jammu & Kashmir
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q12.** Lowest female literacy district of UP (2011):
-
-A. Rampur
-
-B. Balrampur
-
-C. Shrawasti
-
-D. Bahraich
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q13.** Natural growth of population is the outcome of:
-
-A. Crude Birth Rate B. Crude Death Rate C. Migration D. Marriages
-
-A. Only A
-
-B. Only C
-
-C. B and D
-
-D. A and B
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-</details>
-
----
-
-**Q14.** Replacement-level TFR is:
-
-A. 1.0
-
-B. 1.6
-
-C. 2.1
-
-D. 2.3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q15.** NFHS-4 (2015–16) TFR of India in the 2018 paper is:
-
-A. 2.2
-
-B. 2.4
-
-C. 3.2
-
-D. 3.4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-</details>
-
----
-
-**Q16.** Assertion (A): TFR 2.1 means 2.1 births per thousand population.
-Reason (R): CBR is measured per thousand; TFR is children per woman.
-
-A. Both true, R explains A
-
-B. Both true, R not explanation
-
-C. A true R false
-
-D. A false R true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-</details>
-
----
-
-**Q17.** With reference to the UP Population Control Bill 2021 statements using “2.1 / 2.7 per thousand” for fertility:
-
-A. Only 1
-
-B. Only 2
-
-C. Both
-
+A. 1 only
+B. Both 1 and 2
+C. 2 only
 D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Wrong unit. TFR ≠ per thousand.
+**Ans: B.** Both statements are correct.
+
+**Logic:** Do not call 1881 the first census ever.
+
 </details>
 
----
+**Q2.** Consider the following pairs:
 
-**Q18.** Demographic dividend in the 2022 paper is:
-
-A. Working population above 60
-
-B. 14 to 50 years
-
-C. 0–6 years
-
-D. Working population 15 to 59 years
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-</details>
-
----
-
-**Q19.** Acceleration stage in the urbanisation curve is the:
-
-A. First stage
-
-B. Second stage
-
-C. Third stage
-
-D. Fourth stage
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q20.** With reference to birth rate:
-
-1. Urbanization helps in reducing the birth rate.
-2. High literacy rate is directly related to low birth rate.
-
-A. Only 1
-
-B. Only 2
-
-C. Both
-
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q21.** Which religious group in India has the highest urban population?
-
-A. Hindu
-
-B. Buddhist
-
-C. Christian
-
-D. Jain
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-</details>
-
----
-
-**Q22.** Kanpur and Lucknow became million cities in:
-
-A. 1951 and 1961
-
-B. 1961 and 1971
-
-C. 1971 and 1981
-
-D. 1981 and 1991
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q23.** Match List-I with List-II.
-
-| List-I (Theory) | List-II (Propounder) |
+| Density type | Definition |
 |---|---|
-| A. Optimum Population | 1. Thompson |
-| B. Social mal-adjustment | 2. Malthus |
-| C. Demographic Transition | 3. Edwin Cannan |
-| D. Population–food | 4. Henry George |
+| 1. Arithmetic density | Population / total area |
+| 2. Physiological density | Population / net sown area |
+| 3. Agricultural density | Agricultural population / net sown area |
 
-> Row order is **not** the answer — use the option codes.
+Which of the pairs given above is/are correctly matched?
 
-A. 3, 4, 1, 2
-
-B. 2, 3, 4, 1
-
-C. 1, 2, 3, 4
-
-D. 4, 3, 1, 2
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: D.** All three density definitions are correct.
+
+**Logic:** Do not swap physiological with agricultural density.
+
 </details>
 
----
+**Q3.** Which of the following is NOT correctly matched (Census 2011 teaching)?
 
-**Q24.** Malthus: population grows in ____ progression; food in ____ progression.
-
-A. Linear, Exponential
-
-B. Exponential, Linear
-
-C. Arithmetic, Geometric
-
-D. Geometric, Arithmetic
+A. Highest density State — Bihar
+B. Lowest density State (usual) — Arunachal Pradesh
+C. India arithmetic density — 382 persons/km²
+D. Highest density State — Delhi as a State answer
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: D.** Delhi is a dense UT — not the “highest density State” key.
+
+**Logic:** Bihar (1106) is the State density leader.
+
 </details>
 
----
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Q25.** The Malthusian Theory is related to:
+Assertion (A): 1921 is called the Great Divide year of Indian census history.
 
-A. Economy only
+Reason (R): 2011 was the 15th census and the 7th after Independence.
 
-B. Population
+Select the correct answer from the code given below:
 
-C. Unemployment
-
-D. Poverty only
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: A.** Both true; 2011 ranking does not explain why 1921 is the Great Divide.
+
+**A/R logic:** Great Divide is a growth-trend turning point — keep it separate from 2011 rank.
+
 </details>
 
----
+**Q5.** With reference to Census 2011 core ratios, which of the following statements is/are correct?
 
-**Q26.** World Population Report, 2021 was released by:
+1. Sex ratio was 943.
+2. Child sex ratio was 919.
+3. Literacy was 74.04% (age 7+).
+4. Urban share was 31.16%.
 
-A. IMF
+Select the correct answer from the code given below:
 
-B. UNFPA
-
-C. WHO
-
-D. UNDP
+A. 1, 2 and 3 only
+B. 1, 3 and 4 only
+C. 2, 3 and 4 only
+D. 1, 2, 3 and 4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: D.** All four 2011 core figures are correct.
+
+**Logic:** Do not swap sex ratio with CSR.
+
 </details>
 
----
+**Q6.** Arrange the following million-crossing years for UP cities:
 
-**Q27.** World Population Day is observed on:
+1. Lucknow crossed one million
+2. Kanpur crossed one million
 
-A. 11 July
+Select the correct chronological order:
 
-B. 8 May
-
-C. 5 June
-
-D. 16 October
+A. 1 then 2
+B. 2 then 1
+C. Same year
+D. Cannot be ordered from teaching notes
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Kanpur 1971, then Lucknow 1981.
+
+**Logic:** Do not reverse the pair.
+
 </details>
 
----
-
-**Q28.** National Population Policy 2000 aimed at a stable population by:
-
-A. 2010
-
-B. 2025
-
-C. 2045
-
-D. 2070
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q29.** Largest internal migration stream in India is:
-
-A. Rural → urban
-
-B. Urban → urban
-
-C. Rural → rural
-
-D. Urban → rural
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q30.** Which of the following (Census town test) is **not** correctly matched?
-
-A. Population ≥ 5,000
-
-B. Density ≥ 400/km²
-
-C. ≥ 75% male main workers non-agri
-
-D. Must already be a municipality
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-</details>
-
----
-
-**Q31.** State ranked economically high but lowest on sex-ratio (2011 / usual set):
-
-A. Madhya Pradesh
-
-B. Maharashtra
-
-C. West Bengal
-
-D. Haryana
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-</details>
-
----
-
-**Q32.** Which statement is/are correct?
-
-1. Literacy in Census is counted from age 7.
-2. CSR is measured in the 0–6 age group.
-
-A. Only 1
-
-B. Only 2
-
-C. Both
-
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q33.** Which state recorded negative decadal growth in 2001–11?
-
-A. Kerala
-
-B. Goa
-
-C. Nagaland
-
-D. Sikkim
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Sikkim is least **populous**, not negative growth.
-</details>
-
----
-
-**Q34.** Least populous state (2011):
-
-A. Goa
-
-B. Sikkim
-
-C. Mizoram
-
-D. Arunachal Pradesh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Arunachal is lowest **density**.
-</details>
-
----
-
-**Q35.** India’s urban percentage (2011) is closest to:
-
-A. 21%
-
-B. 27%
-
-C. 31.16%
-
-D. 45%
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q36.** Number of million+ UAs in Census 2011:
-
-A. 35
-
-B. 53
-
-C. 100
-
-D. 300
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q37.** UP million+ UA order (2011) is:
-
-A. Lucknow > Kanpur > Agra > Ghaziabad
-
-B. Kanpur > Lucknow > Ghaziabad > Agra
-
-C. Ghaziabad > Noida > Kanpur > Lucknow
-
-D. Varanasi > Kanpur > Lucknow > Agra
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q38.** Which of the following (Phase — Character) is **not** correctly matched?
-
-A. 1901–21 — stagnant
-
-B. 1951–81 — rapid
-
-C. 1981–2011 — declining **rate**
-
-D. 1921–51 — Great Divide decade itself
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Great Divide = **1921**.
-</details>
-
----
-
-**Q39.** Working-age band used for dividend in that UPPCS paper:
-
-A. 0–14
-
-B. 15–59
-
-C. 60+
-
-D. 0–6
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q40.** Consider the following:
-
-1. Sex ratio 943 includes children 0–6 only.
-2. CSR 919 is girls per 1,000 boys aged 0–6.
-
-A. Only 1
-
-B. Only 2
-
-C. Both
-
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 943 is **all ages**.
-</details>
-
----
-
-**Q41.** Highest literacy state (2011):
-
-A. Mizoram
-
-B. Kerala
-
-C. Goa
-
-D. Himachal Pradesh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Mizoram is high but Kerala is the fact.
-</details>
-
----
-
-**Q42.** Lowest literacy state (2011):
-
-A. UP
-
-B. Rajasthan
-
-C. Bihar
-
-D. Jharkhand
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q43.** Assertion (A): Kanpur is UP’s largest UA (2011).
-Reason (R): Therefore Kanpur was a Central Smart City and Ghaziabad was not.
-
-A. Both true, R explains A
-
-B. Both true, R not explanation
-
-C. A true R false
-
-D. A false R true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Smart City list does not follow UA rank (Ghaziabad is a large UA but not Central-10).
-</details>
-
----
-
-**Q44.** India’s share of world population is about:
-
-A. One-fiftieth
-
-B. One-sixth
-
-C. One-half
-
-D. 2%
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q45.** Which pair is **not** correctly matched?
-
-A. Density India — 382
-
-B. SR — 943
-
-C. CSR — 919
-
-D. Literacy — counted from birth
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Age **7+**.
-</details>
-
----
-
-**Q46.** Stage 2 of demographic transition is marked by:
-
-A. High CBR and high CDR
-
-B. Falling CDR while CBR stays high
-
-C. Low CBR and low CDR
-
-D. Negative population
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q47.** Census 2011 figures should be treated as official until:
-
-A. NFHS-5
-
-B. UN 2023 estimate
-
-C. Census 2027 results
-
-D. NPP 2000
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q48.** Which of the following statements is/are correct?
-
-1. Female migration in India is dominated by marriage.
-2. Male migration is more often work-related.
-
-A. Only 1
-
-B. Only 2
-
-C. Both
-
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q49.** Match List-I with List-II.
+**Q7.** Match List-I with List-II and select the correct answer from the code given below:
 
 | List-I | List-II |
 |---|---|
-| A. Great Divide | 1. 1881 |
-| B. First sync census | 2. 1921 |
-| C. Kanpur million | 3. 2045 |
-| D. NPP stability | 4. 1971 |
+| A. Highest State sex ratio | 1. Kerala |
+| B. Lowest State sex ratio (usual 2011 set) | 2. Haryana |
+| C. Highest literacy (States) | 3. Kerala |
+| D. Lowest literacy (States) | 4. Bihar |
 
-> Row order is **not** the answer — use the option codes.
+*Row order is not the answer code.*
 
-A. 2 1 4 3
-
-B. 1 2 4 3
-
-C. 2 1 3 4
-
-D. 2 4 1 3
+A. A-1, B-2, C-4, D-3
+B. A-1, B-3, C-2, D-4
+C. A-1, B-2, C-3, D-4
+D. A-2, B-1, C-3, D-4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Great Divide 1921; sync 1881; Kanpur 1971; NPP 2045.
+**Ans: C.** Kerala leads sex ratio and literacy; Haryana lowest SR; Bihar lowest literacy.
+
+**Logic:** CSR lowest (rural+urban) is also Haryana in the usual set.
+
 </details>
 
----
+**Q8.** With reference to growth measures, which of the following statements is/are correct?
 
-**Q50.** Which of the following is **not** correctly matched?
+1. Natural growth = CBR − CDR.
+2. Induced change comes from migration.
+3. Replacement-level TFR is 2.1 children per thousand women.
 
-A. UNFPA — World Population Report
+Select the correct answer from the code given below:
 
-B. 11 July — World Population Day
-
-C. Dividend — 60+ population
-
-D. Jains — highest urban share among religions
+A. 2 and 3 only
+B. 1, 2 and 3
+C. 1 and 2 only
+D. 1 and 3 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: C.** Only 1 and 2 are correct.
+
+**Logic:** TFR 2.1 is children per woman — “per thousand” belongs to CBR/CDR wording.
+
 </details>
 
----
+**Q9.** Which of the following pairs is NOT correctly matched?
 
-**Q51.** Which UP district is the most populous as per Census 2011 note?
-
-A. Mahoba
-
-B. Prayagraj
-
-C. Shrawasti
-
-D. Lalitpur
+A. Demographic dividend window — ages 15–59
+B. National Population Policy 2000 — stability aim by 2045
+C. World Population Day — 11 July
+D. World Population Report — IMF
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — **Prayagraj** (Allahabad) is the most populous district fact.
+**Ans: D.** World Population Report is associated with UNFPA, not IMF.
+
+**Logic:** IMF/WHO/UNDP are common wrong agencies.
+
 </details>
 
----
+**Q10.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Q52.** Which UP district is classically treated as the densest (Census 2011)?
+Assertion (A): Physiological density uses net sown area in the denominator.
 
-A. Sonbhadra
+Reason (R): Agricultural density divides agricultural population by net sown area.
 
-B. Ghaziabad
+Select the correct answer from the code given below:
 
-C. Mahoba
-
-D. Shrawasti
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — **Ghaziabad**.
+**Ans: A.** Both true; R defines a different density and does not explain physiological density.
+
+**A/R logic:** Three density types must stay unswapped.
+
 </details>
 
----
+**Q11.** With reference to Census 2011 State population facts, which of the following statements is/are correct?
 
-**Q53.** Lorenz curve measures:
+1. Uttar Pradesh is the most populous State and has the largest rural population.
+2. Sikkim is the least populous State.
+3. Nagaland showed negative growth in 2001–11.
 
-A. Illiteracy
-
-B. Unemployment
-
-C. Population growth rate
-
-D. Inequality of income
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Income inequality (2018 economy neighbour).
-</details>
-
----
-
-**Q54.** Assertion (A): Natural growth of population excludes migration.
-Reason (R): Natural growth is defined as Crude Birth Rate minus Crude Death Rate.
-
-A. Both A and R are true and R explains A
-
-B. Both A and R are true but R does not explain A
-
-C. A is true but R is false
-
-D. A is false but R is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-</details>
-
----
-
-**Q55.** Which of the following pairs is/are correctly matched?
-
-1. Census literacy age — 7 years and above
-2. CSR age group — 0–6 years
-3. Demographic dividend band (2022 key) — 15–59 years
+Select the correct answer from the code given below:
 
 A. 1 and 2 only
+B. 1, 2 and 3
+C. 2 and 3 only
+D. 1 and 3 only
 
-B. 2 and 3 only
+<details>
+<summary>Show answer</summary>
 
-C. 1 and 3 only
+**Ans: B.** All three statements are correct.
 
+**Logic:** Negative growth in Nagaland is a frequent 2011 trap.
+
+</details>
+
+**Q12.** Consider the following statements about urbanisation and religion:
+
+1. Urbanisation acceleration in the classic curve is linked to the second stage of demographic transition.
+2. Among religions, Jains are the most urbanised.
+
+Which of the statements given above is/are correct?
+
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both statements are correct.
+
+**Logic:** Christians are the common wrong “most urbanised” option.
+
+</details>
+
+**Q13.** Arrange the following demographic ideas with their linked scholars:
+
+1. Demographic Transition Theory — Thompson (with Notestein)
+2. Optimum population — Cannan
+3. Geometric population vs arithmetic food — Malthus
+
+How many of the above pairs are correctly matched?
+
+A. Only one
+B. Only two
+C. All three
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All three scholar pairs are correct.
+
+**Logic:** Keep Malthus geometric/arithmetic wording exact.
+
+</details>
+
+**Q14.** Match List-I with List-II and select the correct answer from the code given below:
+
+| List-I | List-II |
+|---|---|
+| A. Immigration | 1. In-movement |
+| B. Emigration | 2. Out-movement |
+| C. Push factors | 3. Drive from origin |
+| D. Pull factors | 4. Attract to destination |
+
+*Row order is not the answer code.*
+
+A. A-1, B-3, C-2, D-4
+B. A-1, B-2, C-3, D-4
+C. A-2, B-1, C-3, D-4
+D. A-1, B-2, C-4, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** All four migration terms match.
+
+**Logic:** Do not swap immigration/emigration.
+
+</details>
+
+**Q15.** With reference to census towns, which of the following statements is/are correct?
+
+1. Population ≥5,000.
+2. Density ≥400/km².
+3. ≥75% of male main workers in non-agriculture.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: D.** All three census-town criteria are required.
+
+**Logic:** A census town need not be a municipality.
+
 </details>
 
----
+**Q16.** Which of the following is NOT correctly matched?
 
-**Q56.** Which of the following is a socio-economic factor of population distribution?
-
-A. Steep Himalayan terrain alone
-
-B. Extreme arid climate alone
-
-C. Industrialisation and urban job pull
-
-D. Only latitude of a place
+A. SC share (2011) — about 16.6%
+B. ST share (2011) — about 8.6%
+C. Decadal growth 2001–11 — 17.64%
+D. India population 2011 — about 121.09 crore as ST share
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Industry and urban jobs are classic socio-economic pulls; terrain/climate are physical.
+**Ans: D.** 121.09 crore is total population, not ST share.
+
+**Logic:** Do not glue population total onto SC/ST share.
+
 </details>
 
----
+**Q17.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Q57.** Physiological density is best defined as:
+Assertion (A): The largest internal migration stream in India is rural → rural.
 
-A. Total population ÷ total area
+Reason (R): Female migration is often for marriage, while male migration is often for work.
 
-B. Total population ÷ net sown area
+Select the correct answer from the code given below:
 
-C. Agricultural population ÷ total area
-
-D. Urban population ÷ rural area
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Physiological density = population on cultivated land.
+**Ans: A.** Both true; marriage/work motives do not by themselves prove rural→rural is the largest stream.
+
+**A/R logic:** Out-migration sources often UP–Bihar; destinations Maharashtra–Delhi–Gujarat.
+
 </details>
 
----
+**Q18.** With reference to Uttar Pradesh literacy traps, which one of the following is correct?
 
-**Q58.** Agricultural density measures:
-
-A. Total population ÷ total area
-
-B. Total population ÷ net sown area
-
-C. Agricultural population ÷ net sown area
-
-D. Non-workers ÷ workers
+A. Shrawasti has the lowest female literacy among districts in the teaching set
+B. Balrampur always keys as lowest female literacy
+C. Literacy is measured for age 0–6 only
+D. Kerala has the lowest State literacy
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: A.** Shrawasti is the UP lowest female literacy district fact.
+
+**Logic:** Literacy age gate is 7+.
+
 </details>
 
----
+**Q19.** Consider the following statements about NFHS TFR teaching:
 
-**Q59.** Induced component of population growth mainly refers to:
+1. NFHS-4 (2015–16) reported TFR about 2.2.
+2. NFHS-5 reports TFR about 2.0.
 
-A. Births only
+Which of the statements given above is/are correct?
 
-B. Deaths only
-
-C. Migration
-
-D. Marriages only
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Induced growth = migration; natural growth = CBR − CDR.
+**Ans: C.** Both NFHS figures are in the Must-Score set.
+
+**Logic:** Replacement level remains 2.1 per woman.
+
 </details>
 
----
+**Q20.** Match List-I with List-II and select the correct answer from the code given below:
 
-**Q60.** Which pair is correctly matched?
+| List-I (2011 UP UA order teaching) | List-II |
+|---|---|
+| A. Largest | 1. Kanpur |
+| B. Second | 2. Lucknow |
+| C. Third | 3. Ghaziabad |
+| D. Fourth | 4. Agra |
 
-A. Immigration — movement out of a place
+*Row order is not the answer code.*
 
-B. Emigration — movement into a place
-
-C. Push factor — destination attraction
-
-D. Pull factor — destination attraction such as jobs and amenities
+A. A-1, B-2, C-3, D-4
+B. A-2, B-1, C-3, D-4
+C. A-1, B-3, C-2, D-4
+D. A-1, B-2, C-4, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: A.** Kanpur > Lucknow > Ghaziabad > Agra.
+
+**Logic:** Do not import the 2001 national city order into UP UA ranks.
+
 </details>
 
----
+**Q21.** With reference to Lorenz curve in the chapter traps, which one of the following is correct?
 
-**Q61.** According to Census 2011 composition note, Scheduled Tribes form about:
-
-A. 2%
-
-B. 8.6%
-
-C. 16.6%
-
-D. 31.16%
+A. It measures income inequality
+B. It measures only illiteracy
+C. It measures only sex ratio
+D. It replaces the census
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — ST ~**8.6%**; SC ~**16.6%**; urban ~**31.16%**.
+**Ans: A.** Lorenz curve = income inequality.
+
+**Logic:** Illiteracy is the distractor.
+
 </details>
 
----
+**Q22.** Which of the following pairs is/are NOT correctly matched?
 
-**Q62.** Occupational structure in NCERT groups workers into:
+1. Arithmetic density — population / total area
+2. Physiological density — farmers / net sown area
+3. Agricultural density — agricultural population / net sown area
 
-A. Only rural and urban
-
-B. Primary, secondary and tertiary
-
-C. Only male and female
-
-D. Only SC and ST
+A. 1 only
+B. 2 only
+C. 1 and 2 only
+D. 2 and 3 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B.** Only pair 2 is wrong — physiological uses total population / net sown area.
+
+**Logic:** Farmers in the denominator/numerator mix-up is the trap.
+
 </details>
 
----
+**Q23.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Q63.** Which density ladder is closest to Census 2011 high-density state note?
+Assertion (A): Dependency compares young plus aged with workers.
 
-A. Arunachal > Bihar > Kerala > UP
+Reason (R): The demographic dividend window is the large share of ages 15–59.
 
-B. Bihar > West Bengal > Kerala > Uttar Pradesh
+Select the correct answer from the code given below:
 
-C. UP > Bihar > Kerala > West Bengal
-
-D. Kerala > Bihar > Arunachal > UP
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Bihar highest among states; then WB, Kerala, UP in the usual density ladder.
+**Ans: A.** Both true; dividend age-share does not redefine dependency as a formula.
+
+**A/R logic:** Do not place dividend on 60+ or 0–6.
+
 </details>
 
----
+**Q24.** With reference to Census 2011 million-plus UAs, which of the following statements is/are correct?
 
-**Q64.** Assertion (A): Absolute growth and growth rate are not the same thing.
-Reason (R): Absolute growth is P₂ − P₁, while growth rate expresses change as a percentage of the base.
+1. There were 53 million-plus urban agglomerations.
+2. Absolute growth is P₂ − P₁, while growth rate is the percentage change.
 
-A. Both A and R are true and R explains A
+Select the correct answer from the code given below:
 
-B. Both A and R are true but R does not explain A
-
-C. A is true but R is false
-
-D. A is false but R is true
+A. Both 1 and 2
+B. 1 only
+C. 2 only
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: A.** Both statements are correct.
+
+**Logic:** Keep absolute vs rate wording distinct.
+
 </details>
 
----
+**Q25.** Consider the following statements:
 
-**Q65.** Which of the following statements is/are correct?
+1. Uttar Pradesh density (2011 teaching) is 829 persons/km².
+2. Arunachal Pradesh has the lowest State density (17).
 
-1. Fertile alluvial plains favour denser population.
-2. Mineral and industrial belts can raise local population concentration.
-3. Physiological density uses total geographical area in the denominator.
+Which of the statements given above is/are correct?
 
-A. 1 and 2 only
-
-B. 2 and 3 only
-
-C. 1 and 3 only
-
-D. 1, 2 and 3
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Statement 3 is wrong; physiological density uses **net sown** area.
+**Ans: C.** Both density facts are correct.
+
+**Logic:** Bihar remains highest among States.
+
 </details>
 
----
+**Q26.** Which one of the following correctly states SC and ST shares (2011)?
+
+A. SC ~8.6%; ST ~16.6%
+B. SC ~16.6%; ST ~8.6%
+C. Both ~16.6%
+D. Both ~8.6%
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** SC ~16.6%; ST ~8.6%.
+
+**Logic:** Swapping SC/ST shares is a frequent trap.
+
+</details>
+
+**Q27.** With reference to demographic transition and urbanisation, which of the following statements is/are correct?
+
+1. Phase model runs high stationary → early expanding → late expanding → low stationary.
+2. Urbanisation acceleration links to the second stage in the classic curve.
+
+Select the correct answer from the code given below:
+
+A. 1 only
+B. Both 1 and 2
+C. 2 only
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Both statements are correct.
+
+**Logic:** Do not push acceleration to the 3rd/4th stage by default.
+
+</details>
+
+**Q28.** Arrange the following census landmarks chronologically:
+
+1. First synchronous census
+2. Great Divide year
+3. Census 2011
+
+Select the correct answer from the code given below:
+
+A. 1-2-3
+B. 2-1-3
+C. 1-3-2
+D. 2-3-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** 1881 → 1921 → 2011.
+
+**Logic:** Non-synchronous 1872 precedes 1881 but is not in this three-item list.
+
+</details>
+
+**Q29.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Sex ratio is females per 1000 males.
+
+Reason (R): Literacy in Census teaching is the share of persons aged 7+ who can read and write with understanding.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; literacy definition does not explain sex ratio.
+
+**A/R logic:** Independent demographic definitions.
+
+</details>
+
+**Q30.** Which of the following pairs is NOT correctly matched?
+
+A. Highest literacy State — Kerala
+B. Lowest literacy State — Bihar
+C. Lowest CSR (rural+urban) — Haryana
+D. Lowest density State — West Bengal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Lowest density State in the usual set is Arunachal Pradesh.
+
+**Logic:** West Bengal is a high-density State.
+
+</details>
 
 ## Common Traps — Don't Fall For These
 

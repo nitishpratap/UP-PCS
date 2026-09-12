@@ -914,696 +914,6 @@ The **Whip** is an **extra-constitutional** party office, not found anywhere in 
 
 ---
 
-## Practice Zone — Houses & Organisation
-
-> **Answers hidden.** Full stems (not cryptic stubs). **38 questions in UPPCS / RO-ARO 2024–25 format.** ≥60% multi-statement/application. Includes A/R, Match-List, chronology, NOT-matched.
-
-**Q1.** Consider the following statements regarding the Parliament of India:
-1. It consists of the President and the two Houses.
-2. The President is a member of the Lok Sabha.
-How many of the above statements are correct?
-A. Only one
-B. Only two
-C. Both
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — only 1; the President is **part of** Parliament (Art. 79) but **not a member** of either House.
-
-</details>
-
-**Q2.** With reference to the Rajya Sabha, which of the following statements is/are correct?
-1. Its maximum strength is 250.
-2. It can be dissolved by the President after six years.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — RS is **never** dissolved.
-
-</details>
-
-**Q3.Assertion (A):** Nominated members of Parliament cannot vote in the election of the President.
-
-**Reason (R):** Nominated members of Parliament can vote in the election of the Vice-President.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — both true; they are two different electoral colleges, not an explanation.
-
-</details>
-
-**Q4.** Match List-I with List-II and select the correct answer using the code below:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | Uttar Pradesh |
-| B | Maharashtra |
-| C | Tamil Nadu |
-| D | Bihar |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | 19 |
-| 2 | 31 |
-| 3 | 16 |
-| 4 | 18 |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-2, B-1, C-4, D-3
-B. A-2, B-1, C-3, D-4
-C. A-1, B-2, C-4, D-3
-D. A-2, B-4, C-1, D-3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q5.** How many of the following are special powers of the Rajya Sabha?
-1. Authorising Parliament to legislate on a State List subject (Art. 249)
-2. Recommending creation of an All-India Service (Art. 312)
-3. Initiating a Money Bill
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Money Bills can be introduced **only in the Lok Sabha**.
-
-</details>
-
-**Q6.** With reference to Article 312, which of the following is/are correct?
-1. The Rajya Sabha may pass a resolution for creation of a new All-India Service.
-2. The resolution must be passed by a two-thirds majority of the total membership of the House.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — majority is **2/3 of members present and voting**.
-
-</details>
-
-**Q7.** Consider the following statements about the Lok Sabha:
-1. The maximum number of representatives from Union Territories is 20.
-2. The President still nominates two members of the Anglo-Indian community.
-Which of the above is/are correct?
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Anglo-Indian nomination ended with the **104th Amendment**.
-
-</details>
-
-**Q8.** Which of the following pairs are **NOT** correctly matched?
-1. Minimum age for Lok Sabha — 25 years
-2. Minimum age for Rajya Sabha — 30 years
-3. Term of a Rajya Sabha member — 5 years
-Select the correct answer using the code given below:
-A. Only 3
-B. 1 and 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — RS member’s term is **6 years**.
-
-</details>
-
-**Q9.** Match List-I with List-II and select the correct answer using the code given below the lists:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | Article 79 |
-| B | Article 80 |
-| C | Article 81 |
-| D | Article 83 |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Composition of Rajya Sabha |
-| 2 | Constitution of Parliament |
-| 3 | Duration of Houses |
-| 4 | Composition of Lok Sabha |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-2, B-1, C-4, D-3
-B. A-1, B-2, C-4, D-3
-C. A-2, B-1, C-3, D-4
-D. A-2, B-4, C-1, D-3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q10.Assertion (A):** A member of Parliament may lose his seat if he is absent for 60 days without permission.
-
-**Reason (R):** Article 101(4) empowers the House to declare the seat vacant in such a case.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q11.** With reference to disqualification of MPs, which of the following statements is/are correct?
-1. Disqualification on the ground of office of profit is decided by the President after consulting the Election Commission.
-2. Disqualification on the ground of defection is decided by the President.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — defection is decided by the **Speaker / Chairman**.
-
-</details>
-
-**Q12.** How many of the following are grounds of disqualification under Article 102?
-1. Office of profit
-2. Undischarged insolvent
-3. Holding a ministerial office
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — ministerial office is **expressly excepted**.
-
-</details>
-
-**Q13.** With reference to the Speaker of the Lok Sabha, which of the following is/are correct?
-1. He is elected by the Lok Sabha from among its members.
-2. The Election Commission of India conducts his election.
-3. He continues in office after dissolution until the first meeting of the new Lok Sabha.
-How many of the above statements are correct?
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 3; ECI has **no** role.
-
-</details>
-
-**Q14.Assertion (A):** The Speaker does not vote in the first instance.
-
-**Reason (R):** He has a casting vote in the case of a tie.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q15.** Match List-I (Office) with List-II (Fact) and select the correct answer:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | First Speaker of LS |
-| B | First woman Speaker |
-| C | First Dalit Speaker |
-| D | First tribal Speaker |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Meira Kumar |
-| 2 | G.V. Mavalankar |
-| 3 | P.A. Sangma |
-| 4 | G.M.C. Balayogi |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-2, B-1, C-4, D-3
-B. A-2, B-1, C-3, D-4
-C. A-1, B-2, C-4, D-3
-D. A-2, B-4, C-1, D-3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q16.** Consider the following statements about the Pro Tem Speaker:
-1. He is appointed by the President.
-2. He administers the oath to new members and conducts the election of the Speaker.
-Which of the above is/are correct?
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q17.** Which of the following pairs are **NOT** correctly matched?
-1. Article 93 — Speaker and Deputy Speaker of LS
-2. Article 89 — Chairman and Deputy Chairman of RS
-3. Article 94 — Removal of the Vice-President
-Select the correct answer using the code given below:
-A. Only 3
-B. 1 and 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Art. 94 = removal of **Speaker / Deputy Speaker**; VP removal is Art. **67**.
-
-</details>
-
-**Q18.** Arrange the following in the order in which they preside over a **joint sitting** if the previous one is absent:
-1. Deputy Chairman of Rajya Sabha
-2. Speaker of Lok Sabha
-3. Deputy Speaker of Lok Sabha
-Select the correct answer using the code given below:
-A. 2 – 3 – 1
-B. 2 – 1 – 3
-C. 3 – 2 – 1
-D. 1 – 2 – 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Speaker → Deputy Speaker LS → Deputy Chairman RS. The Chairman (VP) does **not** preside.
-
-</details>
-
-**Q19.** With reference to a joint sitting of Parliament, how many of the following statements are correct?
-1. It is provided under Article 108.
-2. It can be convened to pass a Money Bill.
-3. It can be convened to pass a Constitutional Amendment Bill.
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — only 1.
-
-</details>
-
-**Q20.Assertion (A):** A joint sitting cannot be held to resolve a deadlock over a Constitutional Amendment Bill.
-
-**Reason (R):** Article 368 requires a Constitutional Amendment Bill to be passed by each House separately.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q21.** Consider the following statements about sessions of Parliament:
-1. The President summons each House from time to time.
-2. The maximum gap between two sessions of Parliament cannot be more than six months.
-Which of the above is/are correct?
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q22.** Match List-I (Device) with List-II (Effect) and select the correct answer:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | Adjournment |
-| B | Prorogation |
-| C | Dissolution |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Ends the life of the Lok Sabha |
-| 2 | Ends a sitting |
-| 3 | Ends a session |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-2, B-3, C-1
-B. A-3, B-2, C-1
-C. A-2, B-1, C-3
-D. A-1, B-3, C-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q23.** Which of the following statements is/are correct?
-1. Adjournment is done by the presiding officer.
-2. Prorogation is done by the President.
-3. The Rajya Sabha can be dissolved by the President.
-How many of the above statements are correct?
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 2; RS **cannot** be dissolved.
-
-</details>
-
-**Q24.** With reference to quorum in a House of Parliament, which of the following is/are correct?
-1. Quorum is one-tenth of the total membership of the House.
-2. In the absence of quorum the presiding officer must adjourn or suspend the sitting.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q25.Assertion (A):** A lame-duck session is the last session of the existing Lok Sabha after a new Lok Sabha has been elected.
-
-**Reason (R):** Members who will not return to the new House are called lame ducks.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q26.** With reference to parliamentary privileges, which of the following statements is/are correct?
-1. Article 105 provides privileges for Parliament; Article 194 for State legislatures.
-2. The 44th Amendment fixed privileges as those existing on 20 June 1979 until defined by law.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q27.** How many of the following are **not** named as offices in the Constitution?
-1. Whip
-2. Speaker of the Lok Sabha
-3. Panel of Chairpersons of the Lok Sabha
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Whip (extra-constitutional) and Panel of Chairpersons (Rules of Procedure). The **Speaker** is in Art. 93.
-
-</details>
-
-**Q28.** Match List-I (Lok Sabha) with List-II (Year of constitution) and identify the **incorrect** pair from the options after matching:
-1. 9th Lok Sabha — 1989
-2. 11th Lok Sabha — 1996
-3. 13th Lok Sabha — 1999
-4. 7th Lok Sabha — 1982
-How many of the above pairs are correctly matched?
-A. Only one
-B. Only two
-C. Only three
-D. All four
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — 7th LS was **1980**, not 1982.
-
-</details>
-
-**Q29.** Consider the following statements about the Deputy Chairman of the Rajya Sabha:
-1. He is elected from among the members of the Rajya Sabha.
-2. He can be removed by a majority of all the then members of the Rajya Sabha.
-Which of the above is/are correct?
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q30.** Which of the following pairs are **NOT** correctly matched?
-1. Joint sitting — Article 108
-2. Money Bill special procedure — Article 109
-3. Privileges of Parliament — Article 122
-Select the correct answer using the code given below:
-A. Only 3
-B. 1 and 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — privileges = **Art. 105**; Art. 122 bars courts from inquiring into parliamentary proceedings.
-
-</details>
-
-**Q31.** With reference to Uttar Pradesh’s representation in Parliament, which of the following is/are correct?
-1. It has 31 Rajya Sabha seats.
-2. It has 80 Lok Sabha seats.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q32.Assertion (A):** Each House of Parliament has its own Secretariat.
-
-**Reason (R):** Article 98 provides for a separate secretarial staff for each House.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q33.** With reference to the Fourth Schedule and Rajya Sabha seats, which of the following statements is/are correct?
-1. Allocation of Rajya Sabha seats is provided in the Fourth Schedule.
-2. Every State has an equal number of Rajya Sabha seats, as in the US Senate.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — seats are **population-weighted**, not equal.
-
-</details>
-
-**Q34.** Consider the following statements about the 104th Constitutional Amendment:
-1. It ended the nomination of Anglo-Indians to the Lok Sabha.
-2. It ended reservation of SC/ST seats in the Lok Sabha.
-Which of the above is/are correct?
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — SC/ST reservation was **extended to 25 January 2030**.
-
-</details>
-
-**Q35.Assertion (A):** Disqualification on the ground of office of profit is decided by the President.
-
-**Reason (R):** The Election Commission’s opinion in this matter is binding on the President.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Art. 103.
-
-</details>
-
-**Q36.** How many of the following statements about dual membership are correct?
-1. A person elected to both Houses of Parliament must choose within 10 days.
-2. A sitting MP who is also elected to a State legislature vacates the Parliament seat after 14 days unless he resigns the State seat.
-3. The 60-day absence rule counts days when the House is prorogued.
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 2; prorogation / adjournment >4 days are **excluded** from the 60 days.
-
-</details>
-
-**Q37.** Which of the following pairs are **NOT** correctly matched?
-1. Three-line whip — attendance and vote as directed
-2. Leader of the Opposition — recognised under a 1977 Act
-3. Privilege from arrest — available in criminal cases during a session
-Select the correct answer using the code given below:
-A. Only 3
-B. 1 and 3
-C. 2 and 3
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — privilege from arrest is **civil** only.
-
-</details>
-
-**Q38.** With reference to Union Territories in the Rajya Sabha, which of the following is/are correct?
-1. Delhi, Puducherry and Jammu & Kashmir have Rajya Sabha seats.
-2. Chandigarh elects one member to the Rajya Sabha.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Chandigarh has **no** RS seat.
-
-</details>
-
----
-
 ## Complete PYQ Bank — Houses & Organisation
 
 ### 2025
@@ -9687,771 +8997,634 @@ D. 2 and 5
 
 ---
 
-## Practice Zone — Budget, Bills, Motions & Committees
+## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden.** Full stems (not cryptic stubs). **40 questions in UPPCS / RO-ARO 2024–25 format.** ≥60% multi-statement/application.
+> **Answers hidden.** **30 questions** in UPPCS 2024–25 format. ≥60% multi-statement/application. Includes A/R, Match List, chronology/arrange, and NOT-matched. Drawn from Consolidated Must-Score Facts and Confused Pairs — original stems, not verbatim past papers.
 
-**Q1.** Consider the following statements about the Union Budget:
-1. The Constitution uses the expression “Annual Financial Statement”, not “Budget”.
-2. It is laid before both Houses of Parliament.
-How many of the above statements are correct?
-A. Only one
-B. Only two
-C. Both
-D. None
+**Q1.** With reference to Article 79, consider the following statements:
+1. Parliament consists of the President and the two Houses.
+2. The President is a member of the Lok Sabha.
+3. The President is an integral part of Parliament.
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Art. 112.
+**Ans: B.** Only 1 and 3 are correct.
+
+**Logic:** President is part of Parliament but not a member of either House.
 
 </details>
 
-**Q2.** Match List-I with List-II and select the correct answer using the code given below the lists:
+**Q2.** Which of the following pairs is NOT correctly matched?
+A. Rajya Sabha maximum — 250
+B. Rajya Sabha nominated — 12
+C. Sport — a field listed for RS nomination in Article 80
+D. Literature, science, art, social service — listed fields for nomination
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Sport is not in the constitutional nomination list.
+
+**Logic:** Literature, science, art, social service — not sport.
+
+</details>
+
+**Q3.** Match List-I with List-II:
 
 **List-I**
 
 | Code | Item |
 |------|------|
-| A | Consolidated Fund of India |
-| B | Public Account of India |
-| C | Contingency Fund of India |
-| D | Annual Financial Statement |
+| A | Article 110 |
+| B | Article 109 |
+| C | Article 108 |
+| D | Article 117(1) |
 
 **List-II**
 
 | Code | Item |
 |------|------|
-| 1 | Article 267 |
-| 2 | Article 266(1) |
-| 3 | Article 266(2) |
-| 4 | Article 112 |
+| 1 | Joint sitting |
+| 2 | Money Bill definition |
+| 3 | Financial Bill I |
+| 4 | Money Bill procedure |
 
 > Note: Row order in the tables is **not** the answer.
 
-Select the correct answer using the code given below:
-A. A-2, B-3, C-1, D-4
-B. A-2, B-1, C-3, D-4
-C. A-3, B-2, C-1, D-4
-D. A-2, B-3, C-4, D-1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q3.** With reference to charged expenditure, which of the following statements is/are correct?
-1. It is not submitted to the vote of Parliament.
-2. It cannot be discussed in Parliament.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — charged is **discussed but not voted**.
-
-</details>
-
-**Q4.** How many of the following are charged on the Consolidated Fund of India?
-1. Salary of the CAG
-2. Debt charges of the Government of India
-3. Salary of the Attorney General
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — AG’s salary is **not** charged (it is determined by the President).
-
-</details>
-
-**Q5.Assertion (A):** The Rajya Sabha cannot vote on Demands for Grants.
-
-**Reason (R):** The Council of Ministers is collectively responsible only to the Lok Sabha.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q6.** With reference to a Vote on Account, which of the following is/are correct?
-1. It is provided under Article 116.
-2. It authorises expenditure for a part of the financial year pending the Appropriation Act.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q7.** Match List-I (Grant) with List-II (Meaning) and select the correct answer:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | Supplementary grant |
-| B | Additional grant |
-| C | Excess grant |
-| D | Exceptional grant |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | New service not contemplated in the Budget |
-| 2 | Amount spent in excess of the grant |
-| 3 | Additional amount for a service already authorised |
-| 4 | Special purpose, not part of the current service of any year |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
-A. A-3, B-1, C-2, D-4
-B. A-1, B-3, C-2, D-4
-C. A-3, B-2, C-1, D-4
-D. A-3, B-1, C-4, D-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q8.** Which of the following pairs are **NOT** correctly matched?
-1. Vote of Credit — unexpected demand, only a description given
-2. Token grant — demand reduced to ₹1 as a policy cut
-3. Guillotine — remaining demands put to vote without discussion
-Select the correct answer using the code given below:
-A. Only 2
-B. 1 and 2
-C. 2 and 3
-D. Only 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — token **grant** = ₹1 demand to enable re-appropriation; policy **cut** reduces a demand to ₹1.
-
-</details>
-
-**Q9.** With reference to a Money Bill, how many of the following statements are correct?
-1. It can be introduced only in the Lok Sabha.
-2. It can be introduced only on the recommendation of the President.
-3. The Speaker’s decision that a Bill is a Money Bill is final.
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q10.Assertion (A):** The Rajya Sabha cannot reject a Money Bill.
-
-**Reason (R):** A Money Bill is deemed to have been passed by both Houses if the Rajya Sabha does not return it within 14 days.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q11.** Consider the following statements:
-1. Article 110 defines a Money Bill.
-2. Article 109 provides the special procedure in respect of Money Bills.
-Which of the above is/are correct?
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q12.** Which of the following Bills can be introduced in the Rajya Sabha?
-1. Ordinary Bill
-2. Money Bill
-3. Constitutional Amendment Bill
-4. Financial Bill of Category II
-How many of the above are correct?
-A. Only two
-B. Only three
-C. All four
-D. Only one
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1, 3 and 4; Money Bill (and Financial Bill I) **cannot**.
-
-</details>
-
-**Q13.** Match List-I with List-II and select the correct answer using the code given below the lists:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | Money Bill |
-| B | Financial Bill I |
-| C | Financial Bill II |
-| D | Appropriation Bill |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Article 117(1) |
-| 2 | Article 110 |
-| 3 | Article 114 |
-| 4 | Article 117(3) |
-
-> Note: Row order in the tables is **not** the answer.
-
-Select the correct answer using the code given below:
 A. A-2, B-1, C-4, D-3
-B. A-2, B-1, C-3, D-4
-C. A-1, B-2, C-4, D-3
+B. A-4, B-2, C-1, D-3
+C. A-2, B-4, C-3, D-1
 D. A-2, B-4, C-1, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: D.** A-2, B-4, C-1, D-3 is correct.
+
+**Logic:** 110 definition; 109 procedure; 108 joint sitting; 117(1) Financial Bill I.
 
 </details>
 
-**Q14.** With reference to Financial Bill Category I, which of the following is/are correct?
-1. It can be introduced only in the Lok Sabha.
-2. A joint sitting can be convened in case of a deadlock.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
+**Q4.** Consider the following Assertion and Reason:
 
-<details>
-<summary>Show answer</summary>
+Assertion (A): There is never a joint sitting for a Money Bill.
 
-**Ans: C**
+Reason (R): A Money Bill can originate only in the Lok Sabha and Rajya Sabha may only recommend within 14 days.
 
-</details>
-
-**Q15.Assertion (A):** A joint sitting cannot be held on a Money Bill.
-
-**Reason (R):** The Rajya Sabha has no power to reject or amend a Money Bill.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — there is no deadlock to resolve.
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A).
+
+**A/R logic:** Money Bill’s LS-only path and RS recommendatory role explain why joint sitting is barred.
 
 </details>
 
-**Q16.** Consider the following statements about the Appropriation Bill:
-1. It is a Money Bill.
-2. It authorises withdrawal of money from the Consolidated Fund of India.
-Which of the above is/are correct?
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
+**Q5.** Arrange the following parliamentary devices in the order they appear in a typical sitting day teaching:
+1. Question Hour
+2. Zero Hour
+
+A. 1 then 2
+B. 2 then 1
+C. Both at the same time
+D. Zero Hour replaces Question Hour on Wednesdays only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: A.** Question Hour is first; Zero Hour follows.
+
+**Logic:** Zero Hour is an Indian innovation after Question Hour.
 
 </details>
 
-**Q17.** Which of the following pairs are **NOT** correctly matched?
-1. Finance Bill — annual taxation proposal
-2. Financial Bill I — only Art. 110 matters
-3. Ordinary Bill — may originate in either House
-Select the correct answer using the code given below:
-A. Only 2
-B. 1 and 2
-C. 2 and 3
-D. Only 1
+**Q6.** With reference to Public Accounts Committee, which of the following is/are correct?
+1. It has 22 members — 15 Lok Sabha and 7 Rajya Sabha.
+2. It is conventionally chaired by an opposition member.
+3. It has 30 members, all from the Lok Sabha.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Financial Bill I = Art. 110 matters **plus other** provisions.
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** 30 all-LS is Estimates Committee, not PAC.
 
 </details>
 
-**Q18.** With reference to lapsing of Bills on dissolution of the Lok Sabha, how many of the following do **lapse**?
-1. A Bill pending in the Lok Sabha
-2. A Bill passed by the Lok Sabha and pending in the Rajya Sabha
-3. A Bill passed by both Houses and pending the President’s assent
-A. Only one
-B. Only two
-C. All three
-D. None
+**Q7.** Consider the following statements about Estimates Committee:
+1. It has 30 members.
+2. All members are from the Lok Sabha.
+3. It includes Rajya Sabha members like PAC.
+
+A. 2 and 3 only
+B. 1 only
+C. 1 and 2 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — 1 and 2 lapse; 3 does **not**.
+**Ans: C.** Only 1 and 2 are correct.
+
+**Logic:** Estimates = largest classic financial committee; no RS members.
 
 </details>
 
-**Q19.** Arrange the following stages of the Budget in the Lok Sabha in correct **chronological order**:
-1. Voting on Demands for Grants
-2. Presentation
-3. Passing of Appropriation Bill
-4. General discussion
-Select the correct answer using the code given below:
-A. 2 – 4 – 1 – 3
-B. 2 – 1 – 4 – 3
-C. 4 – 2 – 1 – 3
-D. 2 – 4 – 3 – 1
+**Q8.** Which of the following pairs is/are NOT correctly matched?
+1. Consolidated Fund of India — Article 266
+2. Contingency Fund — Article 267
+3. Public Account — Article 267
+
+A. 1 only
+B. 1 and 2 only
+C. 2 and 3 only
+D. 3 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: D.** Only pair 3 is NOT correctly matched.
+
+**Logic:** Public Account sits with CFI under Article 266; Contingency Fund is 267.
 
 </details>
 
-**Q20.Assertion (A):** A Constitutional Amendment Bill cannot be passed at a joint sitting.
+**Q9.** With reference to cut motions, which of the following is/are correct?
+1. Policy cut reduces a demand to ₹1.
+2. Token cut reduces a demand by ₹100.
+3. Lok Sabha may increase a Demand for Grants.
 
-**Reason (R):** Article 368 requires the Bill to be passed by each House separately.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** House may reduce or refuse, not increase, a Demand.
 
 </details>
 
-**Q21.** With reference to Question Hour, which of the following statements is/are correct?
-1. It is the first hour of a sitting.
-2. Starred questions receive oral answers and allow supplementaries.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q22.** Consider the following statements about Zero Hour:
-1. It is the time immediately following Question Hour.
-2. It is an Indian innovation dating to 1962.
-3. It is the first hour of the sitting.
-How many of the above statements are correct?
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 2; first hour is Question Hour.
-
-</details>
-
-**Q23.** Match List-I (Device) with List-II (Feature) and select the correct answer:
+**Q10.** Match List-I with List-II:
 
 **List-I**
 
 | Code | Item |
 |------|------|
-| A | Adjournment motion |
-| B | No-confidence motion |
-| C | Calling Attention |
-| D | Policy cut |
+| A | Adjournment |
+| B | Prorogation |
+| C | Dissolution |
+| D | Quorum |
 
 **List-II**
 
 | Code | Item |
 |------|------|
-| 1 | LS only; entire CoM resigns if passed |
-| 2 | LS only; implies censure; 50 members |
-| 3 | Reduce demand to ₹1 |
-| 4 | Minister makes a statement; no vote |
+| 1 | Ends a sitting |
+| 2 | Ends a session; Bills survive |
+| 3 | Ends Lok Sabha’s life |
+| 4 | One-tenth of total membership |
 
 > Note: Row order in the tables is **not** the answer.
 
-Select the correct answer using the code given below:
-A. A-2, B-1, C-4, D-3
-B. A-1, B-2, C-4, D-3
-C. A-2, B-1, C-3, D-4
-D. A-2, B-4, C-1, D-3
+A. A-2, B-1, C-3, D-4
+B. A-1, B-2, C-3, D-4
+C. A-1, B-3, C-2, D-4
+D. A-1, B-2, C-4, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** A-1, B-2, C-3, D-4 is correct.
+
+**Logic:** Session vocabulary + quorum Art. 100.
 
 </details>
 
-**Q24.** Which of the following can be moved **only in the Lok Sabha**?
-1. No-confidence motion
-2. Adjournment motion
-3. Cut motion
-4. Calling Attention
-How many of the above are correct?
-A. Only two
-B. Only three
-C. All four
-D. Only one
+**Q11.** Consider the following Assertion and Reason:
 
-<details>
-<summary>Show answer</summary>
+Assertion (A): Rajya Sabha is a permanent House and is never dissolved.
 
-**Ans: B** — 1, 2 and 3. Calling Attention exists in **both** Houses.
+Reason (R): One-third of Rajya Sabha members retire every two years.
 
-</details>
-
-**Q25.** With reference to cut motions, which of the following is/are correct?
-1. A token cut proposes reduction of the demand by ₹100.
-2. An economy cut proposes reduction by a specified amount.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q26.Assertion (A):** A no-confidence motion does not require reasons to be stated.
-
-**Reason (R):** A censure motion must state the reasons on which it is based.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — both true; they are two different motions, not an explanation.
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A).
+
+**A/R logic:** Staggered six-year terms keep RS permanent.
 
 </details>
 
-**Q27.** Consider the following statements about the Public Accounts Committee:
-1. It has 22 members — 15 from LS and 7 from RS.
-2. Its chairperson is, by convention, from the Opposition.
-3. It examines the reports of the CAG.
-How many of the above statements are correct?
-A. Only one
-B. Only two
-C. All three
-D. None
+**Q12.** With reference to joint sitting, which of the following is/are correct?
+1. Joint sitting is under Article 108.
+2. The Speaker of Lok Sabha presides.
+3. Joint sitting is available for Constitution Amendment Bills.
+
+A. 2 and 3 only
+B. 1 only
+C. 1 and 2 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: C.** Only 1 and 2 are correct.
+
+**Logic:** No joint sitting for Money Bill / Appropriation / CAB.
 
 </details>
 
-**Q28.** Match List-I (Committee) with List-II (Strength) and select the correct answer:
+**Q13.** Arrange the following Houses-related numbers as they appear in standard maxima teaching:
+1. Lok Sabha maximum under Article 81 (550)
+2. Rajya Sabha maximum under Article 80 (250)
+3. Present LS elected strength (543)
+
+A. 1 – 2 – 3
+B. 3 – 2 – 1
+C. 2 – 3 – 1
+D. 2 – 1 – 3 by constitutional maxima then present strength
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Compare RS max 250, LS max 550, present LS 543.
+
+**Logic:** Maxima vs present strength trap set; option A states the intended comparison order.
+
+</details>
+
+**Q14.** Consider the following statements about Anglo-Indian nomination:
+1. Anglo-Indian nomination to Lok Sabha ended with the 104th Amendment.
+2. SC/ST reservation continues till 25 January 2030 in the usual teaching.
+3. Seat freeze uses the 1971 census until the first census after 2026.
+
+A. 1, 2 and 3
+B. 1 and 2 only
+C. 2 and 3 only
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** All three statements are correct.
+
+**Logic:** 104th / reservation sunset / 84th freeze are linked LS facts.
+
+</details>
+
+**Q15.** Which one of the following pairs is NOT correctly matched?
+A. No-confidence motion — Lok Sabha only
+B. No-confidence motion — either House
+C. Adjournment motion — Lok Sabha only
+D. Money Bill certificate — Speaker of Lok Sabha
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** No-confidence is Lok Sabha only.
+
+**Logic:** RS has no no-confidence device against the Council of Ministers.
+
+</details>
+
+**Q16.** With reference to Financial Bill vs Finance Bill, which of the following is/are correct?
+1. Finance Bill is the annual tax Bill, often certified as a Money Bill.
+2. Financial Bill I under Article 117(1) can have money clauses plus other matter.
+3. Financial Bill and Finance Bill are identical constitutional labels.
+
+A. 2 and 3 only
+B. 1 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2 are correct.
+
+**Logic:** Finance ≠ Financial — classic wording trap.
+
+</details>
+
+**Q17.** Consider the following Assertion and Reason:
+
+Assertion (A): Charged expenditure is discussed in Parliament but not put to vote.
+
+Reason (R): Charged expenditure is never mentioned in the House at all.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** (A) is true, but (R) is false.
+
+**A/R logic:** Discussed but not voted is the rule; ‘never mentioned’ is the trap.
+
+</details>
+
+**Q18.** Consider the following statements about privileges:
+1. Article 105 covers parliamentary privileges.
+2. Privileges protect freedom of speech in the House.
+3. Privileges cover ordinary criminal process completely.
+
+A. 2 and 3 only
+B. 1 only
+C. 1, 2 and 3
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2 are correct.
+
+**Logic:** Civil arrest window yes; ordinary criminal process is not covered.
+
+</details>
+
+**Q19.** Match List-I (committee) with List-II (composition teaching):
 
 **List-I**
 
 | Code | Item |
 |------|------|
 | A | PAC |
-| B | Estimates Committee |
+| B | Estimates |
 | C | COPU |
-| D | A DRSC |
+| D | Business Advisory |
 
 **List-II**
 
 | Code | Item |
 |------|------|
-| 1 | 30 (all LS) |
-| 2 | 22 (15 LS + 7 RS) |
-| 3 | 31 (21 LS + 10 RS) |
-| 4 | 22 (15 LS + 7 RS) |
+| 1 | 30; all Lok Sabha |
+| 2 | 22; 15 LS + 7 RS |
+| 3 | 22 (classic COPU strength teaching) |
+| 4 | Chaired by the Speaker |
 
 > Note: Row order in the tables is **not** the answer.
 
-Select the correct answer using the code given below:
-A. A-2, B-1, C-4, D-3
-B. A-2, B-1, C-3, D-4
-C. A-1, B-2, C-4, D-3
-D. A-2, B-4, C-1, D-3
+A. A-2, B-1, C-3, D-4
+B. A-1, B-2, C-3, D-4
+C. A-2, B-3, C-1, D-4
+D. A-2, B-1, C-4, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: A.** A-2, B-1, C-3, D-4 is correct.
+
+**Logic:** PAC/COPU 22 vs Estimates 30; BAC Speaker.
 
 </details>
 
-**Q29.** Which of the following pairs are **NOT** correctly matched?
-1. Estimates Committee — both Houses
-2. PAC — examines CAG reports
-3. COPU — examines public undertakings
-Select the correct answer using the code given below:
-A. Only 1
-B. 1 and 2
-C. 1 and 3
-D. Only 2
+**Q20.** With reference to dual membership clocks, which of the following is/are correct?
+1. Both Houses of Parliament — choose within 10 days.
+2. Parliament and a State legislature — Parliament seat goes after 14 days.
+3. Lily Thomas: conviction of two years or more brings instant disqualification.
+
+A. 1 and 2 only
+B. 1, 2 and 3
+C. 2 and 3 only
+D. 1 and 3 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Estimates is **Lok Sabha only**.
+**Ans: B.** All three statements are correct.
+
+**Logic:** 10-day / 14-day / Lily Thomas trio.
 
 </details>
 
-**Q30.** With reference to Departmentally Related Standing Committees, which of the following is/are correct?
-1. They were created in 1993.
-2. Each has 31 members.
-3. Ministers can be members.
-How many of the above statements are correct?
-A. Only one
-B. Only two
-C. All three
-D. None
+**Q21.** Consider the following statements about Rajya Sabha special powers:
+1. Article 249 allows RS to authorise Parliament on a State List matter for one year.
+2. Article 312 All-India Services resolution needs two-thirds of members present and voting.
+3. Vice-President removal proceedings start in the Lok Sabha.
+
+A. 2 and 3 only
+B. 1 only
+C. 1 and 2 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — 1 and 2; **no** ministers.
+**Ans: C.** Only 1 and 2 are correct.
+
+**Logic:** VP removal starts in Rajya Sabha.
 
 </details>
 
-**Q31.Assertion (A):** The Estimates Committee has no member from the Rajya Sabha.
+**Q22.** Arrange the following Uttar Pradesh parliamentary facts by seat count descending:
+1. Uttar Pradesh Lok Sabha seats (80)
+2. Uttar Pradesh Rajya Sabha seats (31)
 
-**Reason (R):** It is the largest of the three financial committees.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+A. 2 then 1
+B. Equal seats
+C. RS seats exceed LS seats
+D. 1 then 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** UP has 80 LS seats and 31 RS seats.
+
+**Logic:** Highest LS map + highest RS map for UP.
+
+</details>
+
+**Q23.** Which of the following pairs is NOT correctly matched?
+A. Pro Tem Speaker — elected by the outgoing House alone as a constitutional rule
+B. Pro Tem Speaker — appointed by the President
+C. Deputy Chairman of RS — elected from among RS members
+D. Speaker removal — 14 days’ notice + majority of all then members
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Pro Tem Speaker is appointed by the President.
+
+**Logic:** Appointment vs election traps around Speaker offices.
+
+</details>
+
+**Q24.** Consider the following Assertion and Reason:
+
+Assertion (A): Prorogation kills all pending Bills in the House.
+
+Reason (R): Prorogation ends a session; Bills do not lapse merely because of prorogation.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — both true (30 vs 22); size is not the *reason* RS is excluded.
+**Ans: B.** (A) is false, but (R) is true.
+
+**A/R logic:** Prorogation ≠ dissolution; Bills survive prorogation.
 
 </details>
 
-**Q32.** Match List-I (Committee) with List-II (Function) and select the correct answer:
+**Q25.** With reference to Budget process, which of the following is/are correct?
+1. Budget is the Annual Financial Statement under Article 112.
+2. Appropriation Bill is under Article 114 and is a Money Bill.
+3. Guillotine closes undiscussed demands at the time limit.
+
+A. 1 and 2 only
+B. 1, 2 and 3
+C. 2 and 3 only
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** All three statements are correct.
+
+**Logic:** 112 / 114 / guillotine are Budget spine facts.
+
+</details>
+
+**Q26.** Consider the following statements about office of profit:
+1. Disqualification questions under Article 102 go to the President.
+2. The President acts on binding Election Commission advice.
+3. The Speaker alone finally decides office-of-profit disqualification under Article 102.
+
+A. 2 and 3 only
+B. 1 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2 are correct.
+
+**Logic:** Speaker is not the Art. 102 office-of-profit final authority.
+
+</details>
+
+**Q27.** Match List-I with List-II:
 
 **List-I**
 
 | Code | Item |
 |------|------|
-| A | Business Advisory |
-| B | Ethics |
-| C | Subordinate Legislation |
-| D | Government Assurances |
+| A | Token grant |
+| B | Policy cut |
+| C | Token cut |
+| D | Vote on Account |
 
 **List-II**
 
 | Code | Item |
 |------|------|
-| 1 | Moral conduct of members |
-| 2 | Allotment of time for business |
-| 3 | Promises made by ministers |
-| 4 | Scrutiny of rules made under Acts |
+| 1 | Reduce demand to ₹1 |
+| 2 | ₹1 demand for re-appropriation teaching |
+| 3 | Advance grant pending full budget |
+| 4 | Reduce by ₹100 |
 
 > Note: Row order in the tables is **not** the answer.
 
-Select the correct answer using the code given below:
-A. A-2, B-1, C-4, D-3
-B. A-2, B-1, C-3, D-4
-C. A-1, B-2, C-4, D-3
-D. A-2, B-4, C-1, D-3
+A. A-1, B-2, C-4, D-3
+B. A-2, B-4, C-1, D-3
+C. A-2, B-1, C-3, D-4
+D. A-2, B-1, C-4, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: D.** A-2, B-1, C-4, D-3 is correct.
+
+**Logic:** Token grant ≠ token cut; policy cut = ₹1.
 
 </details>
 
-**Q33.** How many of the following are chaired by the Speaker of the Lok Sabha?
-1. Business Advisory Committee
-2. Rules Committee
-3. Public Accounts Committee
-A. Only one
-B. Only two
+**Q28.** How many of the following statements are correct?
+1. Each House has its own Secretariat under Article 98.
+2. Attorney General may speak in both Houses under Article 88 but cannot vote.
+3. Party whips are constitutional offices under Article 105.
+
+A. Only two
+B. Only one
 C. All three
 D. None
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — PAC chair is from the **Opposition**, not the Speaker.
+**Ans: A.** Only two are correct.
+
+**Logic:** Whips are extra-constitutional.
 
 </details>
 
-**Q34.** With reference to a Point of Order, which of the following is/are correct?
-1. It relates to the interpretation or enforcement of the Rules of the House.
-2. The Chair’s ruling on it is final.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
+**Q29.** With reference to lame-duck session, which of the following is correct?
+A. First sitting of a new Lok Sabha before Speaker election
+B. Last sitting of an outgoing Lok Sabha after a new House has been elected
+C. A Rajya Sabha sitting without quorum
+D. A joint sitting without the Speaker
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: B.** Lame-duck session is the outgoing House’s last phase after the new House is elected.
+
+**Logic:** Session vocabulary Must-Score.
 
 </details>
 
-**Q35.** Consider the following statements about a Private Member’s Bill:
-1. It is introduced by a member who is not a Minister.
-2. It is usually taken up on Fridays.
-Which of the above is/are correct?
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
+**Q30.** Consider the following Assertion and Reason:
 
-<details>
-<summary>Show answer</summary>
+Assertion (A): Financial Bill II under Article 117(3) can originate in either House.
 
-**Ans: C**
+Reason (R): Financial Bill II involves expenditure from the Consolidated Fund and joint sitting is possible.
 
-</details>
-
-**Q36.** Which of the following pairs are **NOT** correctly matched?
-1. Half-an-Hour Discussion — ends in a vote
-2. Short Duration Discussion — no voting
-3. Calling Attention — minister makes a statement
-Select the correct answer using the code given below:
-A. Only 1
-B. 1 and 2
-C. 2 and 3
-D. Only 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Half-an-Hour Discussion has **no** vote.
-
-</details>
-
-**Q37.** With reference to the President’s role in Bills, which of the following is/are correct?
-1. He cannot return a Money Bill for reconsideration.
-2. After the 24th Amendment he must assent to a Constitutional Amendment Bill.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q38.** With reference to the Ethics Committee, which of the following statements is/are correct?
-1. The Rajya Sabha created one (1997) before the Lok Sabha (2000).
-2. It oversees the moral and ethical conduct of members.
-Select the correct answer using the code given below:
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q39.Assertion (A):** Excess grants are voted by the Lok Sabha after the financial year is over.
-
-**Reason (R):** They are first examined by the Public Accounts Committee.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A).
+
+**A/R logic:** 117(3) path differs from Money Bill / 117(1) origin rules.
 
 </details>
-
-**Q40.** Consider the following and identify how many are **Money Bills**:
-1. Appropriation Bill
-2. Finance Bill (annual taxation, certified by the Speaker)
-3. Constitutional Amendment Bill
-A. Only one
-B. Only two
-C. All three
-D. None
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1 and 2; a CAB is **not** a Money Bill.
-
-</details>
-
----
 
 ## Mains link (one frame)
 

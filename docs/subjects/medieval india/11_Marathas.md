@@ -932,656 +932,666 @@ A: Marathas emerged as the strongest native power after Mughal decline. R: Marat
 
 ## Practice Zone — UPPCS Format Drill
 
-> **38 questions** · answers under Show answer
+> **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D | **Ans first, then Logic**
 
-**Q1.** Maratha protection revenue is called:
+**Q1.** With reference to Shivaji, which of the following statements is/are correct?
 
-A. Sardeshmukhi
-B. Chauth
-C. Abwab
-D. Jamadani
+1. He was crowned Chhatrapati at Raigad in 1674; Gaga Bhatt of Banaras declared him Kshatriya.
+2. He was born at Shivneri to Shahji Bhonsle and Jijabai.
+3. He personally commanded the Maratha army at Panipat III in 1761.
 
-<details><summary>Show answer</summary>
+Select the correct answer from the code given below:
 
-**Logic:** The keyed fact is **Chauth**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
-**Q2.** Peshwas (2025): 1.Bajirao I 2.Balaji Bajirao 3.Balaji Vishwanath 4.Madhav Rao I
-
-A. 1-3-2-4
-B. 3-1-4-2
-C. 3-1-2-4
-D. 1-3-4-2
-
-<details><summary>Show answer</summary>
-
-**Ans: COrder:** See teaching chronology spine.
-
-**Trap:** Check dates before matching option codes.
-
-</details>
-
-**Q3.** Peshwas (2023): I Vishwanath II Bajirao I III Narayan Rao IV Madhav Rao I
-
-A. I-III-II-IV
-B. I-II-III-IV
-C. II-I-IV-III
-D. I-II-IV-III
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **I-II-IV-III
-
-**Ans: D.**
-
-<details><summary>Show answer</summary>
-
-**Logic:** ** Matches the core teaching fact for this topic.
-
-**Ans: D.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>**.
-
-</details>
-
-**Q4.** Peshwas (2024): 1.Raghoba 2.Balaji Baji Rao 3.Narayan Rao 4.Balaji Vishwanath
-
-A. 4-2-3-1
-B. 3-4-1-2
-C. 1-2-3-4
-D. 1-3-2-4
-
-<details><summary>Show answer</summary>
-
-**Ans: AOrder:** See teaching chronology spine.
-
-**Trap:** Check dates before matching option codes.
-
-</details>
-
-**Q5.** A: Shivaji faced big Deshmukhs. R: They wanted to remain Bijapur feudal lords.
-
-A. Both true, R explains A
-B. A false R true
-C. Both true, R does not explain
-D. A true R false
-
-<details><summary>Show answer</summary>
-
-**A/R logic:** A is true: Big **Deshmukhs** opposed Shivaji's **swaraj** project.
-
-**Ans: A (Both true, R explains A).**
-
-**R is true:** They preferred remaining **Bijapur feudal lords** to an independent Maratha state.
-
-**Why R explains A:** Feudal self-interest **caused** their opposition.
-
-</details>
-
-**Q6.** Chauth is:
-
-A. 10% extra chief claim
-B. 25% protection levy
-C. Mughal jizya
-D. Sikh initiation
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **25% protection levy**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
-**Q7.** Sardeshmukhi is:
-
-A. 25% protection
-B. Extra 10% deshmukh claim
-C. Ashtapradhan foreign minister
-D. Panipat commander
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **Extra 10% deshmukh claim**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
-**Q8.** Shivaji’s coronation:
-
-A. Pune 1713
-B. Raigad 1674
-C. Panipat 1761
-D. Agra 1666
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **Raigad 1674**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
-**Q9.** Ashtapradhan foreign minister:
-
-A. Amatya
-B. Sumant
-C. Nyayadish
-D. Pandit Rao
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **Sumant**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
-**Q10.** Amatya handled:
-
-A. Army
-B. Finance
-C. Religion
-D. Navy only
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **Finance**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
-**Q11.** First hereditary Peshwa:
-
-A. Bajirao I
-B. Balaji Vishwanath
-C. Madhav Rao I
-D. Nana Fadnavis
-
-<details><summary>Show answer</summary>
-
-**Ans: B (Balaji Vishwanath)Why:Balaji Vishwanath (1713–1720)** was the first **hereditary Peshwa** under Shahu.
-
-**Trap:** Bajirao I** succeeded him in **1720**, not 1713.
-
-</details>
-
-**Q12.** Panipat III year and winner:
-
-A. 1556 Akbar
-B. 1526 Babur
-C. 1761 Abdali
-D. 1761 Marathas
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **1761 Abdali**.
-
-**Ans: C.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
-**Q13.** Maratha commander at Panipat III:
-
-A. Bajirao I
-B. Sadashiv Rao Bhau
-C. Shivaji
-D. Sambhaji
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **Sadashiv Rao Bhau**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
-**Q14.** 1. Peshwa was supreme in Shivaji’s lifetime 2. Peshwa was one of eight ministers then
-
-A. Only 1
-B. Only 2
-C. Both
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Logic:** ** Statement **1** is false — Peshwa was **not** supreme in Shivaji's time. Statement **2** is true — one of **eight** ministers.
-
-**Ans: B (Only 2).**
-
-**Trap:** Hereditary Peshwa power came **after 1713**.
-
-</details>
-
-**Q15.** Treaty of Purandar (1665) was with:
-
-A. Afzal Khan
-B. Raja Jai Singh I
-C. Ahmad Shah Abdali
-D. Nizam of Hyderabad
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **Raja Jai Singh I**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
-**Q16.** Afzal Khan episode:
-
-A. Panipat 1761
-B. Pratapgad 1659
-C. Lanavada 1718
-D. Palkhed 1728
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **Pratapgad 1659**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
-**Q17.** Scindia seat:
-
-A. Pune
-B. Gwalior
-C. Indore
-D. Baroda
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **Gwalior**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
-**Q18.** Holkar seat:
-
-A. Nagpur
-B. Indore
-C. Gwalior
-D. Raigad
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **Indore**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
-**Q19.** 1. Madhav Rao I ruled after Panipat III 2. Narayan Rao ruled before Madhav Rao I
-
-A. Only 1
-B. Only 2
-C. Both
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Logic:** ** Only statement **1** is true — **Madhav Rao I** ruled after Panipat III. Statement **2** is false — **Madhav before Narayan**.
-
-**Ans: A (Only 1).**
-
-**Trap:** Madhav Rao I rules **1761–72**; Narayan Rao follows in **1772–73**.
-
-</details>
-
-**Q20.** Bajirao I’s years:
-
-A. 1713–20
-B. 1720–40
-C. 1740–61
-D. 1761–72
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **1720–40**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
-**Q21.** Palkhed 1728 was:
-
-A. Shivaji vs Bijapur
-B. Bajirao I vs Nizam
-C. Bhau vs Abdali
-D. Raghoba vs British
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **Bajirao I vs Nizam**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
-**Q22.** Shivaji was born at:
-
-A. Raigad
-B. Shivneri
-C. Pune
-D. Panipat
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **Shivneri**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
-**Q23.** NOT matched:
-
-A. Senapati – army
-B. Nyayadish – justice
-C. Sachiv – finance
-D. Pandit Rao – religion
-
-<details><summary>Show answer</summary>
-
-**Logic:** ** One pair breaks the standard fact in this topic.
-
-**Ans: C.**
-
-**Trap:** Eliminate pairs you know are correct first.
-
-</details>
-
-**Q24.** Lanavada 1718 is linked with:
-
-A. Shivaji–Jai Singh
-B. Balaji Vishwanath / Shahu–Mughals
-C. Panipat III
-D. Afzal Khan
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **Balaji Vishwanath / Shahu–Mughals**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
-**Q25.** 1. Chauth is protection quarter 2. Sardeshmukhi is the same 25%
-
-A. Only 1
-B. Only 2
-C. Both
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Logic:** ** Only statement **1** is true — **Chauth** = 25% protection. Statement **2** is false — **Sardeshmukhi** is extra 10%, not 25%.
-
-**Ans: A (Only 1).**
-
-**Trap:** Protection quarter = **Chauth**; **Sardeshmukhi** is the extra 10% hereditary claim.
-
-</details>
-
-**Q26.** Last Peshwa:
-
-A. Balaji Vishwanath
-B. Bajirao I
-C. Baji Rao II
-D. Narayan Rao
-
-<details><summary>Show answer</summary>
-
-**Ans: C (Baji Rao II)Why:Baji Rao II (1795–1818)** was the **last Peshwa** before British annexation.
-
-**Trap:** Narayan Rao** was murdered **1773**, not the last Peshwa.
-
-</details>
-
-**Q27.** Nadir Shah 1739 is the same event as Panipat III.
-
-A. True
-B. False
-C. Only in Punjab
-D. Only in the Doab
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **False**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
-**Q28.** Gaekwad seat:
-
-A. Baroda
-B. Nagpur
-C. Gwalior
-D. Indore
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **Baroda**.
-
-**Ans: A.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
-**Q29.** Shahu’s release is tied to:
-
-A. 1659 Pratapgad
-B. 1707 after Aurangzeb
-C. 1761 Panipat
-D. 1674 coronation
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **1707 after Aurangzeb**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
-**Q30.** 23 forts surrendered at:
-
-A. Panipat
-B. Purandar
-C. Raigad coronation
-D. Palkhed
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **Purandar**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
-**Q31.** Balaji Bajirao is also called:
-
-A. Rau
-B. Nana Saheb (Peshwa)
-C. Bhau
-D. Raghoba
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **Nana Saheb (Peshwa)**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
-**Q32.** 1. Ashtapradhan has eight ministers 2. Deshmukhs were those eight ministers
-
-A. Only 1
-B. Only 2
-C. Both
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Logic:** ** Only statement **1** is true — **Ashtapradhan** has eight ministers. Statement **2** is false — **Deshmukhs** were Bijapur feudal chiefs, not the eight.
-
-**Ans: A (Only 1).**
-
-**Trap:** Deshmukh** ≠ **Ashtapradhan** minister.
-
-</details>
-
-**Q33.** Vishwas Rao died at:
-
-A. Pratapgad 1659
-B. Panipat 1761
-C. Agra 1666
-D. Palkhed 1728
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **Panipat 1761**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
-**Q34.** Correct pair:
-
-A. Khalsa 1699 – Maratha levy
-B. Chauth – 25% protection
-C. Sardeshmukhi – 25%
-D. Chauth – textile
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **Chauth – 25% protection**.
-
-**Ans: B.**
-
-**Trap:** Cross-check Confused Pairs table before finalising.
-
-</details>
-
-**Q35.** Shivaji’s navy forts include:
-
-A. Akal Takht
-B. Sindhudurg
-C. Purana Qila
-D. Gwalior
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **Sindhudurg**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
-**Q36.** 1. Bajirao I died before Panipat III 2. Bhau commanded in 1761
-
-A. Only 1
-B. Only 2
-C. Both
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Logic:** ** Both statements are correct.
-
-**Ans: C.**
-
-**Trap:** Test each statement separately before choosing the code.
-
-</details>
-
-**Q37.** Bhonsle confederacy seat:
-
-A. Pune
-B. Nagpur
-C. Indore
-D. Baroda
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **Nagpur**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
-**Q38.** Sardeshmukhi is the Maratha protection-quarter (25%) name.
-
-A. True
-B. False
-C. Only in the Konkan
-D. Only after 1761
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Protection quarter is **Chauth**; sardeshmukhi is the extra **10%**.
+**Ans: D.** Only 1 and 2 are correct.
 
-**Ans: B.** False.
+**Logic:** Shivaji died in 1680 — Panipat III is a later Peshwa-age battle.
 
 </details>
 
----
+**Q2.** Consider Cause–Course–Result for the Treaty of Purandar (1665):
+
+1. Cause: Aurangzeb sent Raja Jai Singh I against Shivaji.
+2. Course: Shivaji surrendered 23 forts under the treaty; Agra detention followed in 1666.
+3. Result: Shivaji never recovered strength and abandoned the 1674 coronation.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** After Purandar setbacks he recovered toward the 1674 coronation — statement 3 is false.
+
+</details>
+
+**Q3.** Which of the following pairs is/are NOT correctly matched?
+
+1. Chauth — 25% protection levy
+2. Sardeshmukhi — extra 10% hereditary chief claim
+3. Chauth — Mughal crown land under Akbar
+
+Select the correct answer from the code given below:
+
+A. 1 only
+B. 3 only
+C. 1 and 2 only
+D. 2 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only pair 3 is not correctly matched.
+
+**Logic:** Chauth ≠ Mughal khalsa; together chauth+sardeshmukhi reach up to 35%.
+
+</details>
+
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Big Deshmukhs opposed an independent Maratha state.
+
+Reason (R): They preferred remaining Bijapur feudal lords rather than accepting Shivaji’s swaraj order.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both A and R are true and R correctly explains A.
+
+**A/R logic:** Deshmukh vs Ashtapradhan world is the political sociology trap.
+
+</details>
+
+**Q5.** Arrange the core Peshwa order:
+
+1. Balaji Bajirao
+2. Balaji Vishwanath
+3. Madhav Rao I
+4. Bajirao I
+
+Select the correct answer from the code given below:
+
+A. 2-4-1-3
+B. 2-1-4-3
+C. 4-2-1-3
+D. 2-4-3-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Balaji Vishwanath → Bajirao I → Balaji Bajirao → Madhav Rao I.
+
+**Logic:** Do not reverse Madhav Rao I and Narayan Rao later in the line.
+
+</details>
+
+**Q6.** Match List-I with List-II and select the correct answer from the code given below:
+
+| List-I (Ashtapradhan) | List-II (Charge) |
+|-----------------------|------------------|
+| A. Peshwa | 1. Finance |
+| B. Amatya | 2. Administration |
+| C. Senapati | 3. Army |
+| D. Sumant | 4. Foreign affairs |
+
+*Row order is not the answer code.*
+
+A. A-2, B-1, C-3, D-4
+B. A-1, B-2, C-4, D-3
+C. A-2, B-3, C-1, D-4
+D. A-3, B-1, C-2, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Peshwa–admin; Amatya–finance; Senapati–army; Sumant–foreign affairs.
+
+**Logic:** Under Shivaji the Peshwa was one minister, not yet the sovereign.
+
+</details>
+
+**Q7.** With reference to Panipat III (14 January 1761), which of the following statements is/are correct?
+
+1. Ahmad Shah Abdali defeated the Marathas under Sadashiv Rao Bhau.
+2. Heir Vishwas Rao was killed; Kashiraj Pandit called it catastrophic.
+3. Immediate spark included Maratha expulsion of Abdali’s viceroy Timur Shah from Lahore.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three statements are correct.
+
+**Logic:** Do not confuse with Panipat I/II or Nadir Shah’s 1739 Delhi sack.
+
+</details>
+
+**Q8.** Consider Cause–Course–Result for Panipat III:
+
+1. Cause: Maratha northern surge met Abdali and Najib-ud-Daula.
+2. Course: Bhau’s army was crushed on 14 January 1761.
+3. Result: The all-India northern surge broke though the confederacy survived.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All three statements are correct.
+
+**Logic:** Result is strategic setback, not the end of every Maratha house.
+
+</details>
+
+**Q9.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): From 1713 Balaji Vishwanath made the Peshwa office hereditary and de facto ruling under Shahu.
+
+Reason (R): By the Sangola agreement (1750) the Chhatrapati became a do-nothing king and the Peshwa the real head.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both A and R are true, but R is a later milestone, not the direct explanation of 1713 heredity.
+
+**A/R logic:** 1713 heredity and 1750 Sangola are related Peshwa-rise stages, not the same event.
+
+</details>
+
+**Q10.** With reference to revenue terms, which of the following statements is/are correct?
+
+1. Saranzami land supported Maratha jagirdars’ livelihood.
+2. Abwab and Jamadani are the standard names for the 25% protection levy.
+
+Select the correct answer from the code given below:
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only statement 1 is correct.
+
+**Logic:** Protection levy name asked is Chauth — Abwab/Jamadani are distractors.
+
+</details>
+
+**Q11.** Arrange the following in chronological order:
+
+1. Treaty of Purandar
+2. Pratapgad (Afzal Khan)
+3. Coronation at Raigad
+4. Salher
+
+Select the correct answer from the code given below:
+
+A. 2-1-4-3
+B. 2-1-3-4
+C. 1-2-4-3
+D. 2-4-1-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Pratapgad 1659 → Purandar 1665 → Salher 1672 → Coronation 1674.
+
+**Logic:** Shaista Khan raid (1663) sits between Pratapgad and Purandar in fuller timelines.
+
+</details>
+
+**Q12.** Match List-I with List-II and select the correct answer from the code given below:
+
+| List-I (House) | List-II (Seat) |
+|----------------|----------------|
+| A. Peshwa | 1. Gwalior |
+| B. Scindia | 2. Pune |
+| C. Holkar | 3. Indore |
+| D. Gaekwad | 4. Baroda |
+
+*Row order is not the answer code.*
+
+A. A-2, B-1, C-3, D-4
+B. A-1, B-2, C-4, D-3
+C. A-2, B-3, C-1, D-4
+D. A-3, B-1, C-2, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Peshwa–Pune; Scindia–Gwalior; Holkar–Indore; Gaekwad–Baroda.
+
+**Logic:** Bhonsle–Nagpur completes the confederacy set.
+
+</details>
+
+**Q13.** With reference to Bajirao I and Balaji Bajirao, which of the following statements is/are correct?
+
+1. Bajirao I (1720–40) drove northern expansion; Palkhed (1728) is against the Nizam.
+2. Balaji Bajirao (1740–61) belongs to the Panipat III generation.
+
+Select the correct answer from the code given below:
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both statements are correct.
+
+**Logic:** Father–son trap: do not assign 1761 command to Bajirao I (died 1740).
+
+</details>
+
+**Q14.** Which of the following pairs is/are NOT correctly matched?
+
+1. Lanavada (1718) — Mughal recognition of Maratha chauth rights
+2. Sangola (1750) — Peshwa becomes real head
+3. Lanavada (1718) — Shivaji–Jai Singh fort surrender of 23 forts
+
+Select the correct answer from the code given below:
+
+A. 1 only
+B. 3 only
+C. 1 and 2 only
+D. 2 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only pair 3 is not correctly matched.
+
+**Logic:** 23 forts = Purandar 1665, not Lanavada.
+
+</details>
+
+**Q15.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Madhav Rao I (1761–72) comes before Narayan Rao (1772–73).
+
+Reason (R): Narayan Rao ruled the long recovery decade immediately after Panipat III before Madhav Rao I.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A is true and R is false.
+
+**A/R logic:** Madhav Rao I is the post-Panipat recovery Peshwa; do not reverse the pair.
+
+</details>
+
+**Q16.** With reference to post-Shivaji leadership, which of the following statements is/are correct?
+
+1. Sambhaji was executed in 1689.
+2. At Aurangzeb’s death Maratha leadership was with Tarabai.
+3. Shahu was released after 1707 and the Peshwa line rose.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three statements are correct.
+
+**Logic:** Sambhaji → Rajaram/Tarabai → Shahu/Peshwa rise.
+
+</details>
+
+**Q17.** Consider the following statements about Ashtapradhan:
+
+1. It was Shivaji’s eight-minister council.
+2. Ministers headed departments but did not hold independent cabinet power; Shivaji could accept or reject advice.
+3. Under Shivaji the Peshwa was already the sovereign Chhatrapati.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Peshwa sovereignty is a later hereditary phase under Shahu.
+
+</details>
+
+**Q18.** Arrange the following in chronological order:
+
+1. Panipat III
+2. Nadir Shah’s Delhi sack
+3. Sangola agreement
+4. End of Peshwa power (Baji Rao II)
+
+Select the correct answer from the code given below:
+
+A. 2-3-1-4
+B. 3-2-1-4
+C. 2-1-3-4
+D. 2-3-4-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Nadir 1739 → Sangola 1750 → Panipat III 1761 → 1818 end.
+
+**Logic:** Nadir Shah ≠ Abdali; separate Afghan shocks.
+
+</details>
+
+**Q19.** With reference to Maratha navy and script, which of the following statements is/are correct?
+
+1. Konkan forts such as Sindhudurg and Vijaydurg supported naval power.
+2. Modi script was used in Maratha revenue and administrative papers.
+
+Select the correct answer from the code given below:
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both statements are correct.
+
+**Logic:** Navy forts + Modi admin script are must-score side tags.
+
+</details>
+
+**Q20.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Ahilyabai Holkar ruled from the Holkar house of Indore.
+
+Reason (R): Scindia’s seat in the confederacy was Baroda.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A is true and R is false.
+
+**A/R logic:** Holkar–Indore is correct; Scindia is Gwalior, Gaekwad is Baroda.
+
+</details>
+
+**Q21.** With reference to chauth geography, which of the following statements is/are correct?
+
+1. Maratha chauth reached the Doab, Bundelkhand, and Rohilkhand.
+2. Treaty of Lanavada (1718) won Mughal recognition of Maratha chauth rights.
+
+Select the correct answer from the code given below:
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both statements are correct.
+
+**Logic:** Lanavada ≠ Purandar.
+
+</details>
+
+**Q22.** Which one of the following correctly identifies the commander–battle pair for 1761?
+
+A. Bajirao I vs Abdali at Panipat III
+B. Sadashiv Rao Bhau vs Abdali at Panipat III
+C. Shivaji vs Abdali at Panipat III
+D. Balaji Vishwanath vs Nadir Shah at Panipat III
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Bhau commanded; Abdali won on 14 January 1761.
+
+**Logic:** Bajirao I died 1740; Shivaji died 1680; Nadir’s sack is 1739.
+
+</details>
+
+**Q23.** Consider the following pairs:
+
+| Event | Year tag |
+|-------|----------|
+| 1. Shaista Khan raid (Pune) | 1663 |
+| 2. Shivaji death at Raigad | 1680 |
+| 3. Last Peshwa Baji Rao II — power ends | 1818 |
+
+Which of the pairs given above is/are correctly matched?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three pairs are correctly matched.
+
+**Logic:** Raigad coronation/death geography ≠ Pune Peshwa seat.
+
+</details>
+
+**Q24.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Under Shivaji, Ashtapradhan ministers could independently overrule the Chhatrapati.
+
+Reason (R): Chauth is a 25% protection levy and sardeshmukhi an extra 10% claim.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** A is false and R is true.
+
+**A/R logic:** Shivaji could accept/reject advice; revenue percentages in R are correct.
+
+</details>
+
+**Q25.** With reference to Pratapgad (1659), which of the following statements is/are correct?
+
+1. Shivaji killed Bijapur’s Afzal Khan.
+2. The victory expanded western Deccan power.
+
+Select the correct answer from the code given below:
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both statements are correct.
+
+**Logic:** Cause–course–result capsule: Bijapur threat → Pratapgad encounter → Deccan expansion.
+
+</details>
+
+**Q26.** Arrange the following Peshwas/events correctly:
+
+1. Narayan Rao
+2. Madhav Rao I
+3. Raghunath Rao
+4. Balaji Bajirao
+
+Select the correct answer from the code given below:
+
+A. 4-2-1-3
+B. 4-1-2-3
+C. 2-4-1-3
+D. 4-2-3-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Balaji Bajirao → Madhav Rao I → Narayan Rao → Raghunath Rao.
+
+**Logic:** Do not place Narayan Rao before Madhav Rao I.
+
+</details>
+
+**Q27.** Which of the following pairs is/are NOT correctly matched?
+
+1. Panipat I — 1526 Babur vs Ibrahim Lodi
+2. Panipat II — 1556 Akbar–Hemu
+3. Panipat III — 1739 Nadir Shah vs Marathas
+
+Select the correct answer from the code given below:
+
+A. 1 only
+B. 3 only
+C. 1 and 2 only
+D. 2 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only pair 3 is not correctly matched.
+
+**Logic:** Panipat III is 1761 Abdali vs Marathas; Nadir’s sack is 1739 Delhi.
+
+</details>
+
+**Q28.** With reference to Samarth Ramdas and coronation, which of the following statements is/are correct?
+
+1. Tradition remembers Samarth Ramdas as Shivaji’s guru.
+2. Coronation at Raigad in 1674 made him Chhatrapati.
+
+Select the correct answer from the code given below:
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both statements are correct.
+
+**Logic:** Guru tradition + Raigad coronation are paired foundation tags.
+
+</details>
+
+**Q29.** Consider the following statements:
+
+1. Nyayadish handled justice; Pandit Rao religion; Sachiv correspondence in Ashtapradhan.
+2. Mantri handled records.
+
+Which of the statements given above is/are correct?
+
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both statements are correct.
+
+**Logic:** Complete the eight-minister map beyond Peshwa/Amatya/Senapati/Sumant.
+
+</details>
+
+**Q30.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Panipat III is not Panipat I (1526) or Panipat II (1556).
+
+Reason (R): Shivaji commanded the Maratha centre at all three Panipat battles.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A is true and R is false.
+
+**A/R logic:** Three Panipats are distinct; Shivaji was long dead by 1761.
+
+</details>
 
 ## Common Traps — Don't Fall For These
 

@@ -435,484 +435,601 @@ D. IPCC
 
 ## Practice Zone — UPPCS Format Drill
 
-> **30 questionsQ1.** IPCC was established in:
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-A. 1972
+**Q1.** With reference to IPCC, which of the following statements is/are correct?
 
-B. 1988
+1. HQ Geneva; issues Assessment Reports.
+2. Established 1988 by WMO and UNEP.
+3. Sets NDCs for all parties as the UNFCCC treaty body.
 
-C. 1992
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-D. 2015
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: B.** Only 1 and 2.
 
-**Ans: B**
-
-</details>
-
-**Q2.** IPCC was created by:
-
-A. WMO + UNEP
-
-B. UNDP + IMF
-
-C. FAO + WHO
-
-D. IUCN + WWF
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** IPCC ≠ UNFCCC; does not set NDCs.
 
 </details>
 
-**Q3.** IPCC headquarters is in:
+**Q2.** Match List-I with List-II:
 
-A. Nairobi
+| List-I | List-II |
+|--------|--------|
+| A. UNEP | 1. New York; HDR/HDI |
+| B. UNDP | 2. Nairobi; Emissions Gap/GEO |
+| C. FAO | 3. Rome; SOFO |
 
-B. Geneva
+Code:
 
-C. Rome
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
 
-D. New York
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: C.** A-2, B-1, C-3.
 
-**Ans: B**
-
-</details>
-
-**Q4.** IPCC primarily:
-
-A. Sets NDC targets
-
-B. Assesses climate science
-
-C. Regulates wildlife trade
-
-D. Publishes HDI
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Nairobi/NY/Rome.
 
 </details>
 
-**Q5.** IPCC won Nobel Peace Prize in:
+**Q3.** Which of the following pairs is/are correctly matched?
 
-A. 1990
+1. IUCN — Gland; Red List
+2. WWF — Gland; Living Planet Report
+3. IUCN — regulates CITES trade appendices as its only job
 
-B. 2007
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
-C. 2015
+<details>
+<summary>Show answer</summary>
 
-D. 2023
+**Ans: D.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q6.** UNEP was created after:
-
-A. Stockholm 1972
-
-B. Rio 1992
-
-C. Paris 2015
-
-D. Kyoto 1997
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** IUCN assesses risk; CITES regulates trade.
 
 </details>
 
-**Q7.** UNEP headquarters is in:
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Geneva
+Assertion (A): Threatened on IUCN means VU + EN + CR.
 
-B. Nairobi
+Reason (R): Endangered alone equals the full Threatened set.
 
-C. New York
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. Rome
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: C.** A true, R false.
 
-**Ans: B**
-
-</details>
-
-**Q8.** Emissions Gap Report is published by:
-
-A. IPCC
-
-B. UNEP
-
-C. UNDP
-
-D. IMF
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**A/R logic:** Threatened ≠ Endangered alone.
 
 </details>
 
-**Q9.** Human Development Report is published by:
+**Q5.** Arrange HQ memory:
 
-A. UNEP
+Nairobi / New York / Geneva / Gland / Rome
 
-B. UNDP
+A. UNEP / UNDP / IPCC / IUCN-WWF / FAO
+B. UNDP / UNEP / FAO / IPCC / IUCN
+C. FAO / IPCC / UNEP / UNDP / IUCN
+D. IUCN / FAO / UNDP / UNEP / IPCC
 
-C. WWF
+<details>
+<summary>Show answer</summary>
 
-D. FAO
+**Ans: A.** UNEP Nairobi; UNDP NY; IPCC Geneva; IUCN/WWF Gland; FAO Rome.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q10.** First HDR with HDI appeared in:
-
-A. 1972
-
-B. 1990
-
-C. 2000
-
-D. 2015
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** HQ map.
 
 </details>
 
-**Q11.** HDI was developed by:
+**Q6.** With reference to Emissions Gap Report, which of the following statements is/are correct?
 
-A. Mahbub ul Haq and Amartya Sen
+1. UNEP product.
+2. Not an IPCC Assessment Report.
+3. Identical to Human Development Report.
 
-B. Priesner only
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. IPCC
+<details>
+<summary>Show answer</summary>
 
-D. CITES
+**Ans: B.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q12.** UNDP headquarters is in:
-
-A. Nairobi
-
-B. New York
-
-C. Gland
-
-D. Rome
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** HDR is UNDP.
 
 </details>
 
-**Q13.** IUCN publishes:
+**Q7.** Which of the following pairs is/are NOT correctly matched?
 
-A. Red List
+1. HDR — UNDP from 1990
+2. HDI — Mahbub ul Haq / Amartya Sen link
+3. HDR — UNEP Nairobi flagship
 
-B. Living Planet Report
+A. 1 and 2 only
+B. 2 and 3 only
+C. 3 only
+D. 1, 2 and 3
 
-C. Emissions Gap
+<details>
+<summary>Show answer</summary>
 
-D. HDR
+**Ans: C.** Only pair 3 is not correctly matched.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q14.** IUCN headquarters is in:
-
-A. Gland
-
-B. Rome
-
-C. Nairobi
-
-D. Washington
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** HDR ≠ UNEP.
 
 </details>
 
-**Q15.** Threatened species in IUCN terms include:
+**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. LC only
+Assertion (A): IPCC shared the Nobel Peace Prize in 2007.
 
-B. VU, EN, CR
+Reason (R): IPCC was created by WMO + UNEP in 1988.
 
-C. EX only
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. DD only
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: A.** Both true; creation year does not explain the 2007 prize.
 
-**Ans: B**
-
-</details>
-
-**Q16.** International wildlife trade is regulated by:
-
-A. IUCN
-
-B. CITES
-
-C. WWF
-
-D. IPCC
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**A/R logic:** Related IPCC facts.
 
 </details>
 
-**Q17.** WWF publishes:
+**Q9.** Match report → body:
 
-A. Living Planet Report
+| List-I | List-II |
+|--------|--------|
+| A. Assessment Reports | 1. WWF |
+| B. Living Planet | 2. IPCC |
+| C. Red List | 3. IUCN |
 
-B. Red List
+Code:
 
-C. HDR
+A. A-3, B-1, C-2
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-2, B-1, C-3
 
-D. GEO
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: D.** A-2, B-1, C-3.
 
-**Ans: A**
-
-</details>
-
-**Q18.** WWF and IUCN share HQ city:
-
-A. Gland
-
-B. Geneva
-
-C. Nairobi
-
-D. Rome
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** IPCC/WWF/IUCN.
 
 </details>
 
-**Q19.** FAO headquarters is in:
+**Q10.** With reference to UNEP, which of the following statements is/are correct?
 
-A. Rome
+1. Created after Stockholm 1972.
+2. Hosts several MEA secretariats (Montreal/Basel/Minamata lines teaching).
+3. Publishes ISFR for India.
 
-B. Paris
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. Bonn
+<details>
+<summary>Show answer</summary>
 
-D. Nairobi
+**Ans: A.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q20.** FAO co-administers Rotterdam Convention with:
-
-A. UNDP
-
-B. UNEP
-
-C. IMF
-
-D. WTO
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** ISFR is FSI.
 
 </details>
 
-**Q21.** Which pair is correctly matched?
+**Q11.** Arrange IPCC ≠ UNFCCC idea:
 
-A. IPCC — treaty negotiations
+A. Same body sets NDCs and writes all ARs as one office
+B. IPCC = science assessment; UNFCCC = climate treaty/COP process
+C. UNFCCC publishes Red List
+D. IPCC grants India’s forest clearances
 
-B. UNEP — Emissions Gap
+<details>
+<summary>Show answer</summary>
 
-C. UNDP — Red List
+**Ans: B.** Science vs treaty.
 
-D. IUCN — HDI
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q22.** GEF was established in:
-
-A. 1972
-
-B. 1991
-
-C. 2001
-
-D. 2015
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Do not merge.
 
 </details>
 
-**Q23.** UNFCCC COP decides:
+**Q12.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Red List categories
+Assertion (A): UNEP ≠ UNDP.
 
-B. Climate policy and NDCs
+Reason (R): Environment programme versus development agency — swap reports and you lose marks.
 
-C. HDI formula
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. FAO crop codes
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: D.** Both true and R explains the distinction.
 
-**Ans: B**
-
-</details>
-
-**Q24.** IPCC AR6 is a:
-
-A. Assessment Report cycle
-
-B. Wildlife trade treaty
-
-C. Wetland convention
-
-D. Forest policy
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**A/R logic:** Report/HQ separation.
 
 </details>
 
-**Q25.** GEO is associated with:
+**Q13.** Which of the following statements about FAO is/are correct?
 
-A. UNEP
+1. HQ Rome.
+2. SOFO — State of the World’s Forests.
+3. FAO is identical to IUCN Red List office.
 
-B. UNDP
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
 
-C. WWF
+<details>
+<summary>Show answer</summary>
 
-D. RBI
+**Ans: C.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: A** — Global Environment Outlook.
-
-</details>
-
-**Q26.** IUCN was founded in:
-
-A. 1948
-
-B. 1972
-
-C. 1988
-
-D. 2002
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** FAO ≠ IUCN.
 
 </details>
 
-**Q27.** WWF is primarily a:
+**Q14.** How many of the following HQ locks are correct?
 
-A. UN specialised agency
+UNEP Nairobi; UNDP New York; IPCC Geneva; IUCN Gland
 
-B. Conservation NGO
+A. Only one
+B. Only two
+C. Only three
+D. All four
 
-C. Climate treaty
+<details>
+<summary>Show answer</summary>
 
-D. Central bank
+**Ans: D.** All four.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q28.** SOFO relates to:
-
-A. Forests (FAO/UNEP)
-
-B. Ozone
-
-C. Mercury only
-
-D. HDI
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Core HQ set.
 
 </details>
 
-**Q29.** Which organisation is NOT in Geneva?
+**Q15.** With reference to WWF, which of the following statements is/are correct?
 
-A. IPCC
+1. Conservation NGO; panda logo.
+2. Living Planet Report / LPI.
+3. WWF sets Kyoto Annex-I legally binding targets.
 
-B. IUCN
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. WWF
+<details>
+<summary>Show answer</summary>
 
-D. UNEP
+**Ans: A.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: D** — UNEP is in **Nairobi**.
+**Logic:** Not a Kyoto legal body.
 
 </details>
 
-**Q30.** Assertion (A): IUCN and CITES perform the same function.
-Reason (R): Both deal with endangered species.
+**Q16.** Match List-I with List-II:
 
-A. Both true; R explains A
+| List-I | List-II |
+|--------|--------|
+| A. GEO | 1. UNDP |
+| B. HDR | 2. UNEP |
+| C. SOFO | 3. FAO |
 
-B. A true, R false
+Code:
 
-C. A false, R true
+A. A-1, B-2, C-3
+B. A-2, B-1, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
 
-D. Both false
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: B.** A-2, B-1, C-3.
 
-**Ans: C** — R true (both relate to species); A false — IUCN assesses, CITES regulates **trade**.
+**Logic:** GEO UNEP; HDR UNDP; SOFO FAO.
+
+</details>
+
+**Q17.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): IUCN and WWF both link to Gland.
+
+Reason (R): They perform identical jobs: both regulate wildlife trade appendices.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true, R false.
+
+**A/R logic:** Assessment NGO vs trade regulation differ; CITES ≠ IUCN job.
+
+</details>
+
+**Q18.** Which of the following pairs is/are correctly matched?
+
+1. IPCC — synthesises climate science
+2. UNFCCC — COP negotiations
+3. IPCC — issues India’s PARIVESH clearances
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** PARIVESH is MoEFCC.
+
+</details>
+
+**Q19.** With reference to Red List categories risk order, which of the following statements is/are correct?
+
+1. Among living threatened tiers, CR above EN above VU.
+2. Threatened = VU+EN+CR.
+3. LC means Critically Endangered.
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** LC = Least Concern.
+
+</details>
+
+**Q20.** Arrange creation: UNEP moment → IPCC:
+
+A. Stockholm/UNEP 1972 moment → IPCC 1988
+B. IPCC 1972 → UNEP 1988
+C. Both 2015
+D. Both 1997
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** 1972 UNEP moment → 1988 IPCC.
+
+**Logic:** Institution timeline.
+
+</details>
+
+**Q21.** Which one of the following report locks is correct?
+
+A. Emissions Gap → UNDP
+B. Emissions Gap → UNEP
+C. HDR → UNEP
+D. Red List → FAO
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Emissions Gap → UNEP.
+
+**Logic:** Do not swap.
+
+</details>
+
+**Q22.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): GEF works with convention finance neighbourhood teaching.
+
+Reason (R): UNEP interacts with GEF-linked convention finance.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; UNEP-GEF link supports but is not a full definition of GEF alone.
+
+**A/R logic:** Related finance facts.
+
+</details>
+
+**Q23.** With reference to UNESCO vs UNEP, which of the following statements is/are correct?
+
+1. UNESCO — Paris; WH + MAB teaching.
+2. UNEP — Nairobi environment coordination.
+3. They are the same organisation.
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Different bodies.
+
+</details>
+
+**Q24.** How many of the following are true?
+
+1. IPCC Geneva
+2. Threatened = VU+EN+CR
+3. HDR from 1990 UNDP
+
+A. Only one
+B. Only two
+C. None
+D. All three
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three.
+
+**Logic:** High-yield trio.
+
+</details>
+
+**Q25.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. WMO+UNEP | 1. Living Planet |
+| B. IUCN | 2. Created IPCC |
+| C. WWF | 3. Red List |
+
+Code:
+
+A. A-2, B-3, C-1
+B. A-3, B-2, C-1
+C. A-2, B-1, C-3
+D. A-1, B-3, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** A-2, B-3, C-1.
+
+**Logic:** IPCC creators; Red List; Living Planet.
+
+</details>
+
+**Q26.** With reference to HDI names, which of the following statements is/are correct?
+
+1. Linked to Mahbub ul Haq and Amartya Sen teaching.
+2. Inventing a wrong founding-name trap loses marks.
+3. HDI is published by IUCN Gland.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** HDI/HDR = UNDP.
+
+</details>
+
+**Q27.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): CITES regulates international wildlife trade.
+
+Reason (R): IUCN Red List assesses extinction risk — different job.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R clarifies why IUCN ≠ CITES.
+
+**A/R logic:** Risk vs trade.
+
+</details>
+
+**Q28.** Which of the following pairs is/are correctly matched?
+
+1. GEO — UNEP
+2. Assessment Reports — IPCC
+3. SOFO — UNDP
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** SOFO = FAO.
+
+</details>
+
+**Q29.** Arrange Gland organisations teaching:
+
+A. Only FAO
+B. Only IPCC
+C. Only UNEP
+D. IUCN and WWF both link to Gland
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** IUCN and WWF — Gland.
+
+**Logic:** Shared city; different jobs.
+
+</details>
+
+**Q30.** With reference to IPCC products, which of the following statements is/are correct?
+
+1. Assessment Reports synthesise climate science.
+2. IPCC does not set NDCs.
+3. IPCC is the same as MoEFCC.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Not MoEFCC.
 
 </details>
 

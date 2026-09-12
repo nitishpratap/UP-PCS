@@ -1086,1162 +1086,636 @@ D. All of the above
 
 ---
 
-## Practice Zone — UPPCS Format Questions
+## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden** — click **Show answer** under each question to reveal.
-> **Format mix:** 60 questions — multi-statement | Assertion–Reason | Match List | NOT correctly matched | direct recall (asked + standard NDMA/NCERT angles)
+> **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D | **Ans first, then Logic**
 
-**Q1.** Assertion (A): The highest concentration of seismic zones lies in the Himalayan region in India.
-Reason (R): There are many longitudinal thrust zones in Himalayas.
+**Q1.** With reference to disaster risk, which of the following statements is/are correct?
 
-A. Both true, R explains A
+1. Coaching risk fact: Risk ≈ Hazard × Vulnerability / Capacity.
+2. A disaster occurs when a hazard hits exposed people or assets and capacity is too weak.
 
-B. Both true, R not explanation
+Select the correct answer from the code given below:
 
-C. A true R false
-
-D. A false R true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-</details>
-
----
-
-**Q2.** Ex-officio Chairman of NDMA is:
-
-A. The Prime Minister
-
-B. The Home Minister
-
-C. The Defence Minister
-
-D. The Health Minister
+A. 1 only
+B. Both 1 and 2
+C. 2 only
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Both statements are correct.
+
+**Logic:** Hazard is potential; disaster is when capacity fails.
+
 </details>
 
----
+**Q2.** Consider the following pairs:
 
-**Q3.** Match List-I with List-II.
-
-| List-I (Local name) | List-II (Region) |
+| Term | Meaning |
 |---|---|
-| A. Baguios | 1. Australia |
-| B. Hurricanes | 2. China |
-| C. Typhoons | 3. Philippines |
-| D. Willy-Willies | 4. USA |
+| 1. Focus | Point inside the Earth |
+| 2. Epicentre | Surface point above the focus |
+| 3. Richter | Intensity / damage scale |
 
-> Row order is **not** the answer — use the option codes.
+Which of the pairs given above is/are correctly matched?
 
-A. 3 4 1 2
-
-B. 3 4 2 1
-
-C. 2 3 4 1
-
-D. 2 1 3 4
+A. 1 and 3 only
+B. 1, 2 and 3
+C. 1 and 2 only
+D. 2 and 3 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Philippines, USA, China, Australia (3 4 2 1).
+**Ans: C.** Only pairs 1 and 2 are correct.
+
+**Logic:** Richter = magnitude; Mercalli = intensity/damage.
+
 </details>
 
----
+**Q3.** Which of the following is NOT correctly matched?
 
-**Q4.** Match List-I with List-II.
-
-| List-I (Local name) | List-II (Region) |
-|---|---|
-| A. Willy-willies | 1. Philippines |
-| B. Taifu / Typhoon | 2. Australia |
-| C. Baguio | 3. Japan / China (NW Pacific) |
-| D. Hurricanes | 4. USA / Atlantic |
-
-> Row order is **not** the answer — use the option codes.
-
-A. 3 4 1 2
-
-B. 2 3 4 1
-
-C. 1 3 2 4
-
-D. 2 3 1 4
+A. Body waves — P then S through the Earth
+B. Surface waves — arrive last and do most damage
+C. P-wave shadow — about 103–142°
+D. S waves — travel through the liquid outer core
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Australia, Japan, Philippines, USA.
+**Ans: D.** S waves do not travel through the liquid outer core.
+
+**Logic:** S-wave shadow lies beyond about 103°.
+
 </details>
 
----
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Q5.** Which volcano is **not** in the Pacific Ring of Fire?
+Assertion (A): India uses seismic Zones II–V only (Zone I dropped in 2002).
 
-A. Mount Fuji
+Reason (R): Zone V is the highest hazard zone and covers NE, Himalayan pockets, Kutch and Andaman & Nicobar.
 
-B. Mount Pinatubo
+Select the correct answer from the code given below:
 
-C. Mount Kilimanjaro
-
-D. Mount St. Helens
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: A.** Both true; Zone V geography does not by itself explain why Zone I was dropped.
+
+**A/R logic:** Much of Rajasthan and Deccan sits in Zones II–III.
+
 </details>
 
----
+**Q5.** Arrange the disaster-management cycle in correct order:
 
-**Q6.** Which statements are true?
+1. Response
+2. Mitigation
+3. Recovery
+4. Preparedness
 
-1. Natural disasters cause maximum damage in developing countries.
-2. Bhopal gas tragedy was man-made.
-3. India is a disaster-free country.
-4. Mangroves reduce the impact of cyclones.
+Select the correct answer from the code given below:
 
-A. 1, 2 and 3
-
-B. 2, 3 and 4
-
-C. 1, 2 and 4
-
-D. 1, 3 and 4
+A. 2-1-4-3
+B. 1-2-4-3
+C. 2-4-1-3
+D. 4-2-1-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: C.** Mitigation → Preparedness → Response → Recovery.
+
+**Logic:** Mitigation is before impact; response is during/just after.
+
 </details>
 
----
+**Q6.** With reference to Indian earthquakes, which of the following statements is/are correct?
 
-**Q7.** UP river declared a ‘Biological Disaster’ due to pollution (2018):
+1. Koyna 1967 is a reservoir-induced case.
+2. Latur 1993 (Killari) is a peninsular shock in Zone III teaching.
+3. About 59% of India’s landmass is earthquake-prone in the NDMA note.
 
-A. Yamuna
+Select the correct answer from the code given below:
 
-B. Gomati
-
-C. Sai
-
-D. Tamsa
+A. 1 and 2 only
+B. 1, 2 and 3
+C. 2 and 3 only
+D. 1 and 3 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
-</details>
+**Ans: B.** All three statements are correct.
 
----
-
-**Q8.** Chronology: 1 Food for Work 2 CDP 3 TRYSEM 4 DPAP
-
-A. 4, 2, 3, 1
-
-B. 2, 4, 1, 3
-
-C. 2, 4, 3, 1
-
-D. 4, 2, 1, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1952, 1973–74, 1977, 1979.
-</details>
-
----
-
-**Q9.** India’s **highest** BIS seismic zone on the 2016 map is:
-
-A. Zone I
-
-B. Zone II
-
-C. Zone IV
-
-D. Zone V
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Zone I does not exist.
-</details>
-
----
-
-**Q10.** Which of the following (Place — Typical zone) is **not** correctly matched?
-
-A. Andaman & Nicobar — V
-
-B. Entire NE — largely V
-
-C. Kutch — V
-
-D. Entire Uttar Pradesh — V
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — UP is III–IV.
-</details>
-
----
-
-**Q11.** Latur (1993) earthquake is important because it occurred in:
-
-A. Zone V Himalaya
-
-B. The **peninsular** shield
-
-C. Andaman trench only
-
-D. Only the Rann of Kutch
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q12.** Koyna 1967 is classically tagged as:
-
-A. Volcanic
-
-B. Reservoir-induced
-
-C. Tsunami
-
-D. Cloudburst
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q13.** Consider the following:
-
-1. Focus is the surface point of maximum damage.
-2. Epicentre is the surface point above the focus.
-
-A. Only 1
-
-B. Only 2
-
-C. Both
-
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q14.** Richter scale measures:
-
-A. Intensity of damage only
-
-B. Magnitude / energy
-
-C. Only tsunami height
-
-D. Only wind speed
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Mercalli = intensity.
-</details>
-
----
-
-**Q15.** Indian Ocean tsunami of 26 Dec 2004 originated near:
-
-A. Koyna dam
-
-B. Sumatra megathrust
-
-C. Latur
-
-D. Kilimanjaro
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Tests the **Sumatra megathrust** source, not a peninsular inland quake. Trap options are **Koyna** / **Latur** (India land shocks) and **Kilimanjaro** (rift volcano, not 2004).
-
-**Ans: B.** The **26 Dec 2004** Indian Ocean tsunami began on the **Sumatra** megathrust / Sunda subduction zone. Waves then hit Andaman & Nicobar, Tamil Nadu, Kerala and other Indian Ocean coasts. Koyna and Latur are inland Indian quakes; they did not launch that basin tsunami.
+**Logic:** Do not claim only the Himalaya shakes.
 
 </details>
 
----
-
-**Q16.** India’s tsunami early-warning centre is at:
-
-A. NDMA HQ only
-
-B. INCOIS, Hyderabad
-
-C. IMD Pune only
-
-D. NIDM Jaipur
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** India’s ocean / tsunami alert hub is **INCOIS**. Trap: naming **NDMA** (policy apex), **IMD** (weather), or **NIDM** (training) as the tsunami sensor centre.
-
-**Ans: B.** The **Indian National Centre for Ocean Information Services (INCOIS)** at **Hyderabad** (MoES) runs the national tsunami early-warning system. NDMA chairs policy; IMD handles weather; NIDM handles training.
-
-</details>
-
----
-
-**Q17.** IMD cloudburst cut is:
-
-A. 10 mm/day
-
-B. 50 mm/day
-
-C. **≥ 100 mm in one hour**
-
-D. Any rain in hills
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q18.** Heat-wave gate for Indian **plains** is Tmax:
-
-A. 30°C
-
-B. 37°C
-
-C. **40°C**
-
-D. 47°C
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — 30 = hills; 37 = coast; 47 = severe actual.
-</details>
-
----
-
-**Q19.** Severe heat wave by departure from normal is:
-
-A. 1–2°C
-
-B. 4.5–6.4°C
-
-C. **> 6.4°C**
-
-D. Any Tmax 35°C
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q20.** With reference to cyclone basins:
-
-1. Bay of Bengal generates more cyclones than the Arabian Sea.
-2. Arabian Sea cyclones never hit Gujarat.
-
-A. Only 1
-
-B. Only 2
-
-C. Both
-
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Tauktae / Kandla type events hit Gujarat.
-</details>
-
----
-
-**Q21.** Peak seasons for BoB cyclones affecting India are:
-
-A. Only July–August
-
-B. May–June and October–December
-
-C. Only January
-
-D. Only winter WD months
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q22.** SDMA is chaired by the:
-
-A. Governor
-
-B. Chief Minister
-
-C. Chief Secretary only
-
-D. Prime Minister
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q23.** NDRF was raised under the DM Act framework in:
-
-A. 1991
-
-B. 2001
-
-C. **2006**
-
-D. 2016
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q24.** Sendai Framework period is:
-
-A. 1994–2004
-
-B. 2005–2015
-
-C. **2015–2030**
-
-D. 2020–2025 only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — 2005–15 = Hyogo.
-</details>
-
----
-
-**Q25.** Match List-I with List-II.
+**Q7.** Match List-I with List-II and select the correct answer from the code given below:
 
 | List-I | List-II |
 |---|---|
-| A. NDMA | 1. Training, Delhi |
-| B. SDMA | 2. PM |
-| C. NIDM | 3. Tsunami warning |
-| D. INCOIS | 4. CM |
+| A. Tsunami warning hub | 1. INCOIS, Hyderabad |
+| B. NDMA chair | 2. Prime Minister |
+| C. SDMA chair | 3. Chief Minister |
+| D. DDMA chair | 4. District Magistrate / Collector |
 
-> Row order is **not** the answer — use the option codes.
+*Row order is not the answer code.*
 
-A. 2 4 1 3
-
-B. 2 4 3 1
-
-C. 4 2 1 3
-
-D. 2 1 4 3
+A. A-1, B-3, C-2, D-4
+B. A-1, B-2, C-4, D-3
+C. A-1, B-2, C-3, D-4
+D. A-2, B-1, C-3, D-4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — NDMA–PM; SDMA–CM; NIDM–training Delhi; INCOIS–tsunami warning.
+**Ans: C.** All four institutional pairs are correct.
+
+**Logic:** Do not put Home Minister as NDMA chair.
+
 </details>
 
----
+**Q8.** With reference to tsunami, which of the following statements is/are correct?
 
-**Q26.** Which of the following (Cyclone — Country, 2019) is **not** correctly matched?
+1. A tsunami is caused by seafloor displacement (quake, landslide or volcano).
+2. It is the same as an ordinary wind-raised tidal wave.
 
-A. Dorian — Bahamas
+Select the correct answer from the code given below:
 
-B. Hagibis — Japan
-
-C. Lekima — China
-
-D. Mitag — Australia
+A. Both 1 and 2
+B. 2 only
+C. Neither 1 nor 2
+D. 1 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Mitag → Jeju, **South Korea**.
+**Ans: D.** Only statement 1 is correct.
+
+**Logic:** Japanese “harbour wave” — not wind tide.
+
 </details>
 
----
+**Q9.** Which of the following pairs is/are NOT correctly matched?
 
-**Q27.** Landslides in India are **least** typical of:
+1. Cloudburst — ≥100 mm in one hour
+2. Kilimanjaro — Pacific Ring of Fire
+3. Bay of Bengal — more cyclones than Arabian Sea
 
-A. Himalaya
-
-B. Western Ghats
-
-C. NE hills
-
-D. Flat Ganga floodplain of central UP
+A. 1 only
+B. 2 only
+C. 1 and 2 only
+D. 2 and 3 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — plains flood; they do not slide like hills.
+**Ans: B.** Only pair 2 is wrong — Kilimanjaro is East African Rift.
+
+**Logic:** Fuji/Pinatubo/St Helens are Ring of Fire examples.
+
 </details>
 
----
+**Q10.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Q28.** Kedarnath 2013 combined which hazards?
+Assertion (A): P waves are the fastest body waves and travel through solids, liquids and gases.
 
-A. Only drought
+Reason (R): S waves are slower and travel through solids only.
 
-B. Cloudburst + flash flood + landslide/debris
+Select the correct answer from the code given below:
 
-C. Only tsunami
-
-D. Only heat wave
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: A.** Both true; R does not explain why P waves are fastest or multi-state.
+
+**A/R logic:** Independent wave properties — both needed for shadow-zone logic.
+
 </details>
 
----
+**Q11.** With reference to IMD heat-wave criteria on the plains, which of the following statements is/are correct?
 
-**Q29.** Meteorological drought (IMD cut) begins when rainfall is:
+1. When Tmax ≥40°C, a departure of 4.5–6.4°C is a heat wave and >6.4°C is severe.
+2. Absolute gates of ≥45°C / ≥47°C are also used in teaching.
 
-A. 5% below normal
+Select the correct answer from the code given below:
 
-B. **< 75% of normal** (deficiency > 25%)
-
-C. Exactly 100% of normal
-
-D. Only when Tmax is 47°C
+A. 1 only
+B. 2 only
+C. Neither 1 nor 2
+D. Both 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
-</details>
+**Ans: D.** Both heat-wave gates are correct.
 
----
-
-**Q30.** Assertion (A): S-waves do not travel through the outer core.
-Reason (R): S-waves are shear waves that need a solid.
-
-A. Both true, R explains A
-
-B. Both true, R not explanation
-
-C. A true R false
-
-D. A false R true
-
-<details>
-<summary>Show answer</summary>
-
-**A/R logic:** A tests the liquid-outer-core block on S; R tests shear = solids only. If both true and R is the reason S stop in the outer core, the code is “R explains A.” Trap: treating S like P and saying they cross liquids.
-
-**Ans: A.** A is true — the **liquid outer core** stops **S-waves**, which creates the S shadow beyond about **103–105°**. R is true — S are **shear / transverse** and need a **solid**. R explains A. P-waves can still cross liquids, so do not swap P and S here.
+**Logic:** Cold-wave plains gate uses Tmin ≤10°C with a sharp drop.
 
 </details>
 
----
+**Q12.** Match List-I with List-II and select the correct answer from the code given below:
 
-**Q31.** Bhuj earthquake year:
-
-A. 1993
-
-B. 1999
-
-C. **2001**
-
-D. 2004
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q32.** Which pair is **not** correctly matched?
-
-A. Kangra — 1905
-
-B. Bihar–Nepal — 1934
-
-C. Latur — 1993
-
-D. Bhuj — 2004
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Bhuj 2001; 2004 = tsunami.
-</details>
-
----
-
-**Q33.** NEC under the DM Act is chaired by the:
-
-A. Prime Minister
-
-B. **Union Home Secretary**
-
-C. Cabinet Secretary only as NDMA chair
-
-D. Chief of Army Staff
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q34.** Global warming tends to increase the frequency/severity of:
-
-A. Cyclones only
-
-B. Storms only
-
-C. Hurricanes only
-
-D. **All of the above**
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-</details>
-
----
-
-**Q35.** Which UP belt is the classic **drought** fact?
-
-A. Terai flood belt only
-
-B. **Bundelkhand**
-
-C. Andaman
-
-D. Sundarbans
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q36.** Which UP belt is the classic **flood** fact?
-
-A. Entire Bundelkhand equally
-
-B. **Eastern / trans-Ghaghara** (Rapti–Ghaghara–Gandak)
-
-C. Only the Thar
-
-D. Only Zone V Himalaya inside UP
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q37.** Consider:
-
-1. P-waves arrive before S-waves.
-2. Surface waves generally cause the worst shaking at the ground.
-
-A. Only 1
-
-B. Only 2
-
-C. Both
-
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Statement 1 tests body-wave arrival order (**P** then **S**). Statement 2 tests that **surface** waves (Love / Rayleigh), not the first-arriving P, usually do the worst surface damage. Trap: thinking the fastest wave is also the most destructive.
-
-**Ans: C.** Both are true. **P** is the fastest body wave and arrives before **S**; **surface waves** arrive last but usually cause the worst shaking at the ground. Do not confuse speed with damage.
-
-</details>
-
----
-
-**Q38.** NDMP (National Disaster Management Plan) was first released in:
-
-A. 2005
-
-B. **2016**
-
-C. 1991
-
-D. 2025
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q39.** CDRI was launched by India in:
-
-A. 2005
-
-B. 2015
-
-C. **2019**
-
-D. 2024
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q40.** Which is a GLOF-type disaster fact?
-
-A. Latur 1993
-
-B. **Sikkim Teesta / South Lhonak 2023**
-
-C. Bhopal 1984
-
-D. DPAP 1973
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q41.** Coastal Odisha’s disaster signature is primarily:
-
-A. Desertification
-
-B. **Tropical cyclone + storm surge**
-
-C. Only cold wave
-
-D. Only Zone II earthquakes
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q42.** Which of the following (Body — Role) is **not** correctly matched?
-
-A. NDMA — policy, PM chairs
-
-B. NDRF — specialised response
-
-C. NIDM — training
-
-D. INCOIS — drought code in Bundelkhand
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — INCOIS = tsunami/ocean; drought = IMD.
-</details>
-
----
-
-**Q43.** Heat-wave declaration also requires the criterion at:
-
-A. One village for one hour
-
-B. **At least 2 stations, 2 consecutive days**
-
-C. Only satellite data
-
-D. Only Zone V
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q44.** Which statement is/are correct?
-
-1. Mercalli scale is about felt damage.
-2. A magnitude-8 quake releases far more energy than magnitude 7 (logarithmic).
-
-A. Only 1
-
-B. Only 2
-
-C. Both
-
-D. Neither
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-</details>
-
----
-
-**Q45.** Zone I on India’s present BIS map:
-
-A. Covers all of UP
-
-B. **Does not exist (abolished 2002)**
-
-C. Is higher than Zone V
-
-D. Is the tsunami zone
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q46.** Match List-I with List-II (2019 cyclone–region set).
-
-| List-I (Cyclone) | List-II (Region) |
+| List-I (Local name) | List-II |
 |---|---|
-| A. Dorian | 1. Bahamas |
-| B. Hagibis | 2. China |
-| C. Lekima | 3. Korea |
-| D. Mitag | 4. Japan |
+| A. Baguio | 1. Philippines |
+| B. Hurricane | 2. USA |
+| C. Willy-willy | 3. Australia |
+| D. Typhoon / Taifu | 4. China–Japan |
 
-> Row order is **not** the answer — use the option codes.
+*Row order is not the answer code.*
 
-A. 1 2 4 3
-
-B. **1 4 2 3**
-
-C. 4 2 3 1
-
-D. 3 4 2 1
+A. A-1, B-3, C-2, D-4
+B. A-1, B-2, C-4, D-3
+C. A-1, B-2, C-3, D-4
+D. A-2, B-1, C-3, D-4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: C.** All four cyclone-name pairs are correct.
+
+**Logic:** North Indian Ocean uses “cyclone”.
+
 </details>
 
----
+**Q13.** Arrange the following framework years chronologically:
 
-**Q47.** Joshimath (2023) is a CA fact for:
+1. DM Act
+2. NDRF (MHA teaching year)
+3. NPDM
 
-A. Super cyclone
+Select the correct answer from the code given below:
 
-B. **Land subsidence / slope instability**
-
-C. Heat wave of 47°C
-
-D. NDMA chairmanship
+A. 1-2-3
+B. 2-1-3
+C. 1-3-2
+D. 3-1-2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: A.** DM Act 2005 → NDRF 2006 → NPDM 2009.
+
+**Logic:** Sendai is 2015–30 vs Hyogo 2005–15.
+
 </details>
 
----
+**Q14.** With reference to landslides and cloudbursts, which of the following statements is/are correct?
 
-**Q48.** Which of the following is **not** correctly matched?
+1. Landslide belts include Himalaya, Western Ghats and North-East.
+2. Cloudbursts typically hit UK–HP–J&K–NE hill belts around 1000–2500 m.
 
-A. Hurricane — USA
+Select the correct answer from the code given below:
 
-B. Baguio — Philippines
-
-C. Willy-willies — Australia
-
-D. Taifu — Bahamas
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Taifu = **Japan**; Dorian = Bahamas.
+**Ans: C.** Both statements are correct.
+
+**Logic:** Kedarnath 2013 and Joshimath 2023 are landmark cases.
+
 </details>
 
----
+**Q15.** Which one of the following correctly states DPAP’s beginning year?
 
-**Q49.** DDMA is chaired by the:
-
-A. Prime Minister
-
-B. Chief Minister
-
-C. **District Magistrate**
-
-D. NDRF DG only
+A. 1952
+B. 1973–74
+C. 2005
+D. 2015
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: B.** DPAP began in 1973–74.
+
+**Logic:** 1952 is the Community Development Programme trap.
+
 </details>
 
----
+**Q16.** Consider the following statements about Uttar Pradesh hazards:
 
-**Q50.** BIS Zone VI (extremely high) as a **current** Prelims map:
+1. UP sits mainly in seismic Zones III–IV (not Zone V as a whole-State label).
+2. Eastern districts face river floods; Bundelkhand faces drought.
+3. Plains heat waves (Loo) peak in May–June; fog/cold risk peaks in December–January.
 
-A. Official since 1956
-
-B. Draft 2025 **withdrawn Mar 2026** — use **II–V**
-
-C. Replaces Sendai
-
-D. Applies only to UP Bundelkhand
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q51.** Risk in disaster studies is best understood as rising when:
-
-A. Hazard exists but vulnerability and exposure are zero
-
-B. Hazard meets high vulnerability and low capacity
-
-C. Only Mercalli intensity is high on an empty island
-
-D. Only Sendai is signed with no local action needed
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Risk ≈ Hazard × Vulnerability / Capacity.
-</details>
-
----
-
-**Q52.** Which sequence correctly shows the disaster management cycle?
-
-A. Response → Mitigation → Preparedness → Recovery
-
-B. Mitigation → Preparedness → Response → Recovery
-
-C. Recovery → Hazard → Epicentre → Focus
-
-D. Only Response forever
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q53.** Which of the following is a man-made disaster fact?
-
-A. Kangra 1905 earthquake
-
-B. Bhopal gas tragedy 1984
-
-C. 26 Dec 2004 tsunami
-
-D. Odisha Super Cyclone 1999
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q54.** National Policy on Disaster Management (NPDM) was framed in:
-
-A. 2005
-
-B. 2009
-
-C. 2015
-
-D. 2019
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — DM Act is **2005**; NPDM is **2009**.
-</details>
-
----
-
-**Q55.** Which Sendai priority is correctly stated?
-
-A. Ignoring risk so that response stays cheap
-
-B. Understanding disaster risk
-
-C. Abolishing early warning systems
-
-D. Replacing NDMA with a private company
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Priority 1 is understanding disaster risk.
-</details>
-
----
-
-**Q56.** About what share of India’s landmass is earthquake-prone in NDMA note?
-
-A. About 12%
-
-B. About 59%
-
-C. About 5%
-
-D. About 90% of only Rajasthan
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — About **59%** (often cited as 58.6%).
-</details>
-
----
-
-**Q57.** Assertion (A): Mangroves can reduce cyclone impact along coasts.
-Reason (R): Coastal green belts dissipate wave and wind energy before it hits inland settlements.
-
-A. Both A and R are true and R explains A
-
-B. Both A and R are true but R does not explain A
-
-C. A is true but R is false
-
-D. A is false but R is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-</details>
-
----
-
-**Q58.** Which UP hazard pair is correctly matched?
-
-A. Zone V seismic belt — Lucknow–Kanpur core
-
-B. Flood — eastern Ghaghara–Rapti–Gandak belt
-
-C. Drought — only Terai always wet belt
-
-D. Cloudburst — typical Agra plain speciality
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — UP has no Zone V; cloudburst is a hill hazard.
-</details>
-
----
-
-**Q59.** Which body provides India’s tsunami early warning?
-
-A. NDRF Delhi campus only
-
-B. INCOIS, Hyderabad
-
-C. BIS seismic code office only
-
-D. SDMA of every inland district
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
----
-
-**Q60.** Which of the following statements is/are correct?
-
-1. Mitigation happens before a disaster to reduce risk.
-2. Preparedness includes drills and early-warning systems.
-3. NDMA is chaired by the Union Home Minister.
+Which of the statements given above is/are correct?
 
 A. 1 and 2 only
-
-B. 2 and 3 only
-
-C. 1 and 3 only
-
-D. 1, 2 and 3
+B. 1, 2 and 3
+C. 2 and 3 only
+D. 1 and 3 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — NDMA is chaired by the **Prime Minister**.
+**Ans: B.** All three UP hazard statements are correct.
+
+**Logic:** Do not label all UP as Zone V.
+
 </details>
 
----
+**Q17.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): The Bay of Bengal produces more cyclones than the Arabian Sea.
+
+Reason (R): Peak cyclone seasons are roughly May–June and October–December.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; seasonality does not explain why BoB exceeds Arabian Sea frequency.
+
+**A/R logic:** Arabian Sea storms can still hit Gujarat–Maharashtra.
+
+</details>
+
+**Q18.** Which of the following is NOT correctly matched?
+
+A. Sendai Framework — 2015–30
+B. Hyogo Framework — 2005–15
+C. Bhopal 1984 — industrial / chemical disaster
+D. Sendai Framework — 2005–15
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Sendai is 2015–30; Hyogo was 2005–15.
+
+**Logic:** Do not swap Sendai and Hyogo years.
+
+</details>
+
+**Q19.** With reference to drought and floods, which of the following statements is/are correct?
+
+1. Drought is classed as meteorological, hydrological and agricultural.
+2. IMD drought criteria often use rainfall deficiency >25% of normal.
+3. Flood types include riverine, flash, urban and coastal storm surge.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 1, 2 and 3
+C. 2 and 3 only
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** All three statements are correct.
+
+**Logic:** Ganga–Brahmaputra is the classic riverine flood belt.
+
+</details>
+
+**Q20.** Match List-I with List-II and select the correct answer from the code given below:
+
+| List-I | List-II |
+|---|---|
+| A. Kangra | 1. 1905 |
+| B. Bihar–Nepal | 2. 1934 |
+| C. Bhuj | 3. 2001 |
+| D. Indian Ocean tsunami | 4. 26 Dec 2004 |
+
+*Row order is not the answer code.*
+
+A. A-1, B-2, C-3, D-4
+B. A-2, B-1, C-3, D-4
+C. A-1, B-3, C-2, D-4
+D. A-1, B-2, C-4, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** All four event–year pairs are correct.
+
+**Logic:** Sumatra megathrust drove the 2004 tsunami.
+
+</details>
+
+**Q21.** With reference to mangroves and man-made disasters, which of the following statements is/are correct?
+
+1. Mangroves cut cyclone and surge impact.
+2. Bhopal 1984 is the classic man-made industrial / chemical disaster.
+
+Select the correct answer from the code given below:
+
+A. Both 1 and 2
+B. 1 only
+C. 2 only
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both statements are correct.
+
+**Logic:** Natural vs man-made is a frequent classification stem.
+
+</details>
+
+**Q22.** Which of the following pairs is NOT correctly matched?
+
+A. Focus — inside Earth
+B. Epicentre — surface
+C. Mercalli — magnitude
+D. Richter — magnitude
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Mercalli measures intensity/damage, not magnitude.
+
+**Logic:** Richter vs Mercalli is the core confused pair.
+
+</details>
+
+**Q23.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Himalaya is India’s highest seismic belt because of collision and thrust zones.
+
+Reason (R): Peninsular shocks such as Latur show that only Himalaya can shake.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** (A) is true; (R) is false because peninsular shocks do occur.
+
+**A/R logic:** Koyna and Latur break the “only Himalaya” myth.
+
+</details>
+
+**Q24.** With reference to cyclone seasons and Arabian Sea, which of the following statements is/are correct?
+
+1. Peak seasons are roughly May–June and October–December.
+2. Arabian Sea storms can still hit Gujarat–Maharashtra (Tauktae / Kandla note).
+
+Select the correct answer from the code given below:
+
+A. 1 only
+B. 2 only
+C. Neither 1 nor 2
+D. Both 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both statements are correct.
+
+**Logic:** BoB frequency lead does not mean Arabian Sea is inactive.
+
+</details>
+
+**Q25.** Consider the following statements:
+
+1. Hazard is potential danger; disaster is when capacity fails.
+2. In the 2018 UP paper teaching note, the Gomati carried a “biological disaster” pollution label among given rivers.
+
+Which of the statements given above is/are correct?
+
+A. 1 only
+B. Both 1 and 2
+C. 2 only
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Both statements are correct.
+
+**Logic:** Do not treat hazard and disaster as identical words.
+
+</details>
+
+**Q26.** Arrange the following from highest to lowest seismic zone label used in India today:
+
+1. Zone II
+2. Zone V
+3. Zone III
+4. Zone IV
+
+Select the correct answer from the code given below:
+
+A. 2-4-3-1
+B. 1-3-4-2
+C. 2-3-4-1
+D. 4-2-3-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** V > IV > III > II.
+
+**Logic:** Zone I is not in the current map.
+
+</details>
+
+**Q27.** With reference to surface vs body waves, which of the following statements is/are correct?
+
+1. Body waves travel through the Earth (P, S).
+2. Surface waves travel along the ground (Love, Rayleigh).
+
+Select the correct answer from the code given below:
+
+A. Both 1 and 2
+B. 1 only
+C. 2 only
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both statements are correct.
+
+**Logic:** Do not treat all seismic waves as one family.
+
+</details>
+
+**Q28.** Which one of the following correctly pairs INCOIS?
+
+A. Tsunami warning — Hyderabad (MoES)
+B. Tsunami warning — IMD Pune only
+C. NDMA headquarters as the tsunami hub
+D. Only a river-flood agency in Lucknow
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** INCOIS Hyderabad is the tsunami warning hub.
+
+**Logic:** Do not substitute NDMA HQ or IMD Pune as the tsunami centre.
+
+</details>
+
+**Q29.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): NDMA is chaired by the Prime Minister.
+
+Reason (R): SDMA is chaired by the Chief Minister.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; State chair fact does not explain why PM chairs NDMA.
+
+**A/R logic:** DDMA is chaired by the District Magistrate/Collector.
+
+</details>
+
+**Q30.** Which of the following pairs is NOT correctly matched?
+
+A. Willy-willies — Australia
+B. Baguio — Philippines
+C. Hurricane — USA
+D. Willy-willies — USA
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Willy-willies are Australia; USA uses hurricane.
+
+**Logic:** Name–region swaps are classic cyclone traps.
+
+</details>
 
 ## Common Traps — Don't Fall For These
 

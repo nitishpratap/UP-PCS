@@ -382,306 +382,592 @@ D. Only carbon dioxide alone
 
 ---
 
-## Practice Zone
+## Practice Zone — UPPCS Format Drill
 
-**Q1.** Acid rain pH threshold:
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-Options: A. < 5.6 B. > 7 C. Exactly 7 only D. > 14
+**Q1.** With reference to acid rain, which of the following statements is/are correct?
 
-<details><summary>Show answer</summary>
+1. Acidic deposition with pH below 5.6.
+2. Normal rain ~pH 5.6 from CO₂ → weak H₂CO₃ — not pH 7.
+3. Normal rain is alkaline (pH >7).
 
-**Ans: A**
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q2.** Normal rain pH is about:
+**Ans: B.** Only 1 and 2.
 
-Options: A. 5.6 B. 7.0 exactly always C. 14 D. 0
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q3.** Main strong acids in acid rain:
-
-Options: A. H₂SO₄ and HNO₃ B. Only HCl from argon C. Only HF from helium D. Only carbonic as sole strong acid
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Normal rain slightly acidic — not alkaline.
 
 </details>
 
-**Q4.** CO₂ in rain mainly forms:
+**Q2.** Match List-I with List-II:
 
-Options: A. Weak H₂CO₃ B. Strong H₂SO₄ only C. Only ozone D. Only fly ash
+| List-I | List-II |
+|--------|--------|
+| A. Wet deposition | 1. Acidic gases/particles without rain |
+| B. Dry deposition | 2. Rain/snow/fog |
+| C. Main strong path | 3. SO₂ → H₂SO₄ (and NOx → HNO₃) |
 
-<details><summary>Show answer</summary>
+Code:
 
-**Ans: A**
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q5.** Acidic solutions have pH:
+**Ans: C.** A-2, B-1, C-3.
 
-Options: A. < 7 B. > 7 C. Always = 7 D. Always > 14
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q6.** Basic solutions have pH:
-
-Options: A. > 7 B. < 7 C. Always = 0 D. Always = 5.6
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Wet/dry/chemistry.
 
 </details>
 
-**Q7.** SO₂ mainly forms:
+**Q3.** Which of the following pairs is/are correctly matched?
 
-Options: A. Sulphuric acid B. Only nitric acid C. Only argon compounds D. Only helium hydride
+1. CO₂ → H₂CO₃ sets weak baseline
+2. CO₂ alone is the main culprit of severe acid rain
+3. Acid rain is secondary-pollutant story from primary SO₂/NOx
 
-<details><summary>Show answer</summary>
+A. 1, 2 and 3
+B. 1 and 2 only
+C. 2 and 3 only
+D. 1 and 3 only
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: D.** Only 1 and 3.
 
-**Q8.** NOx mainly forms:
-
-Options: A. Nitric acid B. Only sulphuric acid C. Only marble D. Only gypsum from nitrogen alone
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q9.** Taj marble damage involves:
-
-Options: A. Gypsum crust B. Only gold plating C. Only helium bubbles D. Only ozone hole frosting
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** CO₂ not main severe culprit.
 
 </details>
 
-**Q10.** Montreal Protocol relates to:
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Options: A. Ozone / ODS B. Acid rain only C. Only Taj Trapezium law D. Only BOD assay
+Assertion (A): Lake waters below about pH 5 can kill fish.
 
-<details><summary>Show answer</summary>
+Reason (R): Acid soils can release toxic Al³⁺.
 
-**Ans: A**
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q11.** Gothenburg Protocol relates to:
+**Ans: A.** Both true; Al³⁺ release does not itself state the lake fish pH threshold.
 
-Options: A. Acidifying / transboundary air pollution B. Only tiger trade C. Only Ramsar birds D. Only AQI colours
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q12.** FGD mainly reduces:
-
-Options: A. SO₂ B. Only noise dB C. Only plastic SUP items D. Only groundwater fluoride
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**A/R logic:** Aquatic vs soil effects.
 
 </details>
 
-**Q13.** Fish often fail when water pH falls below about:
+**Q5.** With reference to Taj / materials, which of the following statements is/are correct?
 
-Options: A. 5 B. 14 C. 9 always safe forever D. 7 only for deserts
+1. Acid deposition weathers marble/limestone.
+2. Taj marble → gypsum is the classic Indian fact.
+3. Taj Trapezium is the protection belt.
 
-<details><summary>Show answer</summary>
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: A.** All three.
 
-**Q14.** SO₂ relative to air is:
-
-Options: A. Heavier B. Always lighter like helium C. Identical to argon always D. A solid metal
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q15.** Dry deposition means:
-
-Options: A. Acids settle without rain B. Only rain forever C. Only ocean MARPOL oil D. Only indoor chulha smoke
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Taj set.
 
 </details>
 
-**Q16.** Main SO₂ source sector:
+**Q6.** Arrange pH scale basics:
 
-Options: A. Coal thermal power / smelting B. Only helium balloons C. Only wetland methane D. Only ozone Day rallies
+A. Acidic >7; basic <7
+B. Acidic <7; basic >7; neutral 7
+C. Neutral is 5.6 always
+D. No meaning to 7
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Acidic <7 / basic >7.
 
-</details>
-
-**Q17.** Catalytic converters mainly help cut:
-
-Options: A. NOx (among other exhaust toxins) B. Only ocean plastics C. Only CGWB reports D. Only forest fires by law alone
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** pH scale rule.
 
 </details>
 
-**Q18.** Taj Trapezium is around:
+**Q7.** Which of the following pairs is/are NOT correctly matched?
 
-Options: A. Agra / Taj Mahal B. Only Antarctica C. Only Amazon D. Only Moon
+1. Gothenburg/CLRTAP — acidifying air pollutants
+2. Montreal — ozone ODS
+3. Montreal — acid-rain treaty
 
-<details><summary>Show answer</summary>
+A. 1 and 2 only
+B. 2 and 3 only
+C. 3 only
+D. 1, 2 and 3
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: C.** Only pair 3 is not correctly matched.
 
-**Q19.** Each pH unit drop means H⁺ roughly:
-
-Options: A. 10× more B. 2× less always C. Unchanged D. Exactly zero
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q20.** Lichens in high SO₂ areas:
-
-Options: A. Die / indicate pollution B. Grow best always C. Produce only helium D. Neutralise all acid rain alone
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Montreal ≠ acid rain.
 
 </details>
 
-**Q21.** Assertion (A): Acidic solutions have pH > 7.
-Reason (R): Basic solutions have pH < 7.
+**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Options: A. Both true; R explains A B. Both true; R does not explain A C. A true, R false D. Both false
+Assertion (A): Liming lakes is an emergency response.
 
-<details><summary>Show answer</summary>
+Reason (R): It substitutes fully for cutting SO₂/NOx at source.
 
-**Ans: D** — both reversed.
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q22.** Secondary pollutant path:
+**Ans: C.** A true, R false.
 
-Options: A. SO₂/NOx → acids in atmosphere B. Only fly ash stays never secondary C. Only noise becomes acid D. Only BOD becomes pH
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q23.** BS-VI fuel sulphur is about:
-
-Options: A. 10 ppm B. 10,000 ppm only C. Zero forever historically from 1950 D. 50% by mass sulphur
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**A/R logic:** Liming ≠ source control substitute.
 
 </details>
 
-**Q24.** Conifers are:
+**Q9.** With reference to sources, which of the following statements is/are correct?
 
-Options: A. Especially acid-sensitive B. Immune always C. Only ocean plants D. Only indoor pollutants
+1. Coal power / some industries — major SO₂.
+2. Vehicles/combustion — NOx.
+3. SO₂ denser than air; can travel long distances.
 
-<details><summary>Show answer</summary>
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: D.** All three.
 
-**Q25.** Mathura refinery is linked -wise to:
-
-Options: A. Taj SO₂ stress B. Only Antarctic ozone hole C. Only Ramsar listing of Agra fort D. Only CNG composition of methane
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q26.** Acid rain includes:
-
-Options: A. Wet and dry deposition B. Only noise in Moradabad C. Only plastic SUP ban items D. Only biogas CH₄+CO₂
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Sources + transport.
 
 </details>
 
-**Q27.** Soil acidification releases toxic:
+**Q10.** Match List-I with List-II:
 
-Options: A. Al³⁺ B. Only helium ions C. Only argon crystals D. Only pure O₂ bubbles
+| List-I | List-II |
+|--------|--------|
+| A. FGD | 1. Cleaner fuel neighbourhood |
+| B. BS-VI | 2. Flue-gas desulphurisation |
+| C. Catalytic converters | 3. Cut NOx/others in vehicles |
 
-<details><summary>Show answer</summary>
+Code:
 
-**Ans: A**
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q28.** CLRTAP is about:
+**Ans: A.** A-2, B-1, C-3.
 
-Options: A. Long-range transboundary air pollution B. Only tiger corridors C. Only wetlands wise use alone D. Only World Ozone Day date
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q29.** CO₂, SO₂, NO₂ A/R best fact:
-
-Options: A. Both statements can be true; R need not explain strong vs weak acid roles B. Montreal explains acid rain C. Normal rain is pH 14 D. SO₂ is lighter than helium
-
-<details><summary>Show answer</summary>
-
-**Ans: A** — 2024 Q108 → C.
+**Logic:** Prevention tools.
 
 </details>
 
-**Q30.** Correct set:
+**Q11.** Arrange dry deposition idea:
 
-Options: A. Acid rain pH<5.6; SO₂→H₂SO₄; Taj→gypsum; Montreal≠acid; Gothenburg=acidifying B. Normal rain pH7; CO₂=main strong acid; Montreal=acid rain C. Acidic pH>7; SO₂ lighter than air D. FGD increases SO₂ only
+A. Only possible during rainfall
+B. Can damage materials even on rainless days
+C. Only ocean acidification
+D. Only Dobson Units
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Rainless-day damage.
+
+**Logic:** Dry pathway.
+
+</details>
+
+**Q12.** With reference to effects, which of the following statements is/are correct?
+
+1. Conifer harm / forest dieback.
+2. Cultural-heritage damage.
+3. Aquatic harm.
+4. Makes normal rain alkaline.
+
+A. 2, 3 and 4 only
+B. 1, 2 and 4 only
+C. 1, 2 and 3 only
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** 1, 2 and 3 only.
+
+**Logic:** Does not make rain alkaline.
+
+</details>
+
+**Q13.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Do not blame severe acid rain mainly on CO₂.
+
+Reason (R): Normal rain’s weak acidity comes from carbonic acid, but strong acids come from SO₂/NOx.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R explains A.
+
+**A/R logic:** Baseline vs severe pathway.
+
+</details>
+
+**Q14.** Which one of the following correctly states acid mist/fog?
+
+A. Only UV-C beams
+B. Only dry gypsum dust
+C. Only argon deposition
+D. Wet forms even when not classic rainfall
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Wet deposition forms.
+
+**Logic:** Mist/fog.
+
+</details>
+
+**Q15.** How many of the following prevention tools are correct?
+
+FGD; catalytic converters; BS-VI; regional acid protocols
+
+A. All four
+B. Only two
+C. Only three
+D. Only one
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** All four.
+
+**Logic:** Prevention set.
+
+</details>
+
+**Q16.** With reference to India’s focus, which of the following statements is/are correct?
+
+1. Chemistry SO₂/NOx.
+2. Taj protection geography.
+3. Montreal as the acid-rain statute.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Montreal distractor.
+
+</details>
+
+**Q17.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. H₂SO₄ path | 1. NOx |
+| B. HNO₃ path | 2. SO₂ |
+| C. Weak baseline | 3. CO₂ → H₂CO₃ |
+
+Code:
+
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A-2, B-1, C-3.
+
+**Logic:** Acid pathways.
+
+</details>
+
+**Q18.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Calling acid rain alkaline is false.
+
+Reason (R): Acidic means pH below 7 on the scale; acid rain is below 5.6.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R explains why alkaline label fails.
+
+**A/R logic:** pH definition.
+
+</details>
+
+**Q19.** Which of the following pairs is/are correctly matched?
+
+1. Secondary pollutant story — acid rain
+2. Primary emissions — SO₂ and NOx
+3. Only natural sea salt causes Taj gypsum
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Taj story = acid deposition neighbourhood.
+
+</details>
+
+**Q20.** Arrange Taj Trapezium:
+
+A. Pollution-control belt to protect Taj Mahal
+B. Ozone Cell only
+C. Only Antarctic vortex
+D. Only UNCCD LDN
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Taj protection belt.
+
+**Logic:** Geography tool.
+
+</details>
+
+**Q21.** With reference to reversed false statements, which of the following is/are false?
+
+1. Normal rain is alkaline.
+2. Acid rain is alkaline.
+3. Acid rain has pH below 5.6.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** 1 and 2 are false; 3 is true.
+
+**Logic:** Reversed alkaline traps.
+
+</details>
+
+**Q22.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Acid deposition harms conifers.
+
+Reason (R): Cultural-heritage weathering of marble is also a valid effect.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; marble weathering does not explain conifer harm.
+
+**A/R logic:** Two effect families.
+
+</details>
+
+**Q23.** How many of the following are true?
+
+Wet with rain/snow/fog; dry without rain; SO₂→H₂SO₄ major path
+
+A. Only one
+B. Only two
+C. All three
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All three.
+
+**Logic:** Deposition trio.
+
+</details>
+
+**Q24.** Which one of the following correctly states Gothenburg neighbourhood?
+
+A. Only Chipko movement
+B. Ozone ODS phase-out only
+C. Desertification LDN only
+D. Acidifying air pollutants under CLRTAP family
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Acidifying pollutants protocol.
+
+**Logic:** ≠ Montreal.
+
+</details>
+
+**Q25.** With reference to long-range transport, which of the following statements is/are correct?
+
+1. SO₂ can travel long distances before deposition.
+2. SO₂ is denser than air teaching.
+3. Acid rain never crosses regions.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Regional problem.
+
+</details>
+
+**Q26.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. Acid rain pH | 1. ~5.6 |
+| B. Normal rain pH | 2. <5.6 |
+| C. Neutral | 3. 7 |
+
+Code:
+
+A. A-1, B-2, C-3
+B. A-2, B-1, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** A-2, B-1, C-3.
+
+**Logic:** <5.6 / ~5.6 / 7.
+
+</details>
+
+**Q27.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Vehicles and combustion add NOx to the acid-rain pathway.
+
+Reason (R): NOx can form HNO₃.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R explains the NOx path.
+
+**A/R logic:** NOx → nitric acid.
+
+</details>
+
+**Q28.** Arrange emergency vs source control:
+
+A. Liming replaces emission cuts forever
+B. Only liming; never FGD
+C. Liming emergency; source cuts essential
+D. Only Montreal controls SO₂
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Emergency vs prevention.
+
+**Logic:** Hierarchy.
+
+</details>
+
+**Q29.** With reference to secondary-pollutant framing, which of the following statements is/are correct?
+
+1. Acid rain built from primary SO₂/NOx.
+2. Forms strong acids in atmosphere/deposition pathway.
+3. Identical to primary PM emission only.
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Secondary story.
+
+</details>
+
+**Q30.** Which one of the following correctly separates Montreal from acid rain?
+
+A. Montreal = ODS/ozone; acid rain = SO₂/NOx deposition chemistry
+B. Both identical treaties
+C. Both only desertification
+D. Both only noise standards
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Different problems/treaties.
+
+**Logic:** Standard distractor.
 
 </details>
 

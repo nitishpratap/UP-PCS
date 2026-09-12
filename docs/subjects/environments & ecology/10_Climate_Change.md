@@ -678,490 +678,601 @@ D. A false; R true
 
 ## Practice Zone — UPPCS Format Drill
 
-> **30 questionsQ1.** With reference to global warming, which statements is/are correct?
+> **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D | **Ans first, then Logic**
 
-1. IPCC AR6 estimates about 1.1°C warming above pre-industrial levels.
-2. Global warming and climate change are identical in every respect.
+**Q1.** With reference to global warming and climate change, which of the following statements is/are correct?
 
-A. Only 1
+1. Global warming is the long-term rise in average surface temperature.
+2. Climate change is broader and also includes rainfall and extremes.
+3. The two terms are identical in every Prelims key.
 
-B. Only 2
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. Both 1 and 2
+<details>
+<summary>Show answer</summary>
 
-D. Neither
+**Ans: B.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q2.** With reference to the greenhouse effect, which statements is/are correct?
-
-1. Without the natural greenhouse effect, Earth would be far colder.
-2. The greenhouse effect is the same as ozone layer depletion.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Warming is a subset of climate change.
 
 </details>
 
-**Q3.** Which is NOT a greenhouse gas?
+**Q2.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Methane
+Assertion (A): Without the natural greenhouse effect Earth would average about −18°C.
 
-B. Argon
+Reason (R): With the natural greenhouse effect the surface averages about +15°C.
 
-C. CO₂
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. N₂O
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: A.** Both true; R states the with-GHG temperature, not why without-GHG is −18°C — related pair, not explanation of A’s counterfactual.
 
-**Ans: B** — UPPCS 2022 Q103 pattern.
-
-</details>
-
-**Q4.** Which GHG has the highest GWP over 100 years among these?
-
-A. CO₂
-
-B. CH₄
-
-C. N₂O
-
-D. N₂
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
+**A/R logic:** Both are standard temperature locks; R does not explain the −18°C claim.
 
 </details>
 
-**Q5.** India's rank in total global GHG emissions by volume is approximately:
+**Q3.** Match List-I with List-II:
 
-A. 1st
+| List-I | List-II |
+|--------|--------|
+| A. CO₂ GWP | 1. ~28–36 |
+| B. CH₄ GWP | 2. 1 |
+| C. N₂O GWP | 3. ~265 |
 
-B. 3rd
+Code:
 
-C. 10th
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
 
-D. 15th
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: C.** A-2, B-1, C-3.
 
-**Ans: B**
-
-</details>
-
-**Q6.** Carbon footprint is measured in:
-
-A. Hectares
-
-B. tCO₂e
-
-C. dB
-
-D. mg/L BOD
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** CO₂=1; CH₄~28–36; N₂O~265.
 
 </details>
 
-**Q7.** Which is a carbon sink?
+**Q4.** With reference to relative GHG shares (WMO-style teaching), which of the following statements is/are correct?
 
-A. Coal power plant
+1. Order often tested: CO₂ > CH₄ > CFCs+others > N₂O.
+2. Rough shares: CO₂ ~64%, CH₄ ~19%, N₂O ~6%, CFCs+ ~11%.
+3. Argon is the largest Kyoto-basket GHG by share.
 
-B. Growing forest
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
-C. Stubble burning
+<details>
+<summary>Show answer</summary>
 
-D. Cement plant
+**Ans: D.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q8.** Afforestation is an example of:
-
-A. Carbon sequestration
-
-B. Thermal pollution
-
-C. Adaptation only
-
-D. Ocean acidification
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Argon is not a GHG.
 
 </details>
 
-**Q9.** Coral bleaching is mainly linked to:
+**Q5.** Which of the following is/are NOT greenhouse gases?
 
-A. Sea surface warming
+1. Argon
+2. Nitrogen (N₂)
+3. Oxygen
+4. Carbon dioxide
 
-B. Tsunamis
+A. 1, 2 and 3 only
+B. 4 only
+C. 1 and 4 only
+D. 2, 3 and 4 only
 
-C. Oil spills only
+<details>
+<summary>Show answer</summary>
 
-D. Cold currents only
+**Ans: A.** 1, 2 and 3 only.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q10.** NAPCC was launched in:
-
-A. 2002
-
-B. 2008
-
-C. 2015
-
-D. 2022
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** CO₂ is a GHG; Ar/N₂/O₂ are not.
 
 </details>
 
-**Q11.** How many national missions are under NAPCC?
+**Q6.** Arrange IPCC AR6 warming idea:
 
-A. 5
+A. About 5°C cooling since 1900
+B. About 1.1°C above 1850–1900 globally
+C. No human influence in AR6
+D. Exact 0.00°C change
 
-B. 6
+<details>
+<summary>Show answer</summary>
 
-C. 8
+**Ans: B.** About 1.1°C above 1850–1900.
 
-D. 12
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q12.** Building flood-resistant embankments is:
-
-A. Mitigation
-
-B. Adaptation
-
-C. Sequestration
-
-D. Geo-engineering only
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** AR6 global warming lock.
 
 </details>
 
-**Q13.** Kyoto Protocol was adopted in:
+**Q7.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. 1987
+Assertion (A): Water vapour is Earth’s most abundant natural GHG.
 
-B. 1992
+Reason (R): Water vapour is mainly treated as a feedback, not the primary policy lever like CO₂.
 
-C. 1997
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. 2015
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: A.** Both true; R does not explain why vapour is most abundant — it states policy/feedback role.
 
-**Ans: C**
-
-</details>
-
-**Q14.** Paris Agreement was signed in:
-
-A. 1997
-
-B. 2008
-
-C. 2015
-
-D. 2022
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
+**A/R logic:** Abundance vs feedback/policy distinction.
 
 </details>
 
-**Q15.** India pledged Net Zero by:
+**Q8.** With reference to enhanced greenhouse effect, which of the following statements is/are correct?
 
-A. 2030
+1. Excess anthropogenic GHGs trap outgoing infrared.
+2. Main cause of recent warming is CO₂.
+3. Joseph Fourier (1820s) framed the greenhouse-effect idea.
 
-B. 2050
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 3 only
 
-C. 2070
+<details>
+<summary>Show answer</summary>
 
-D. 2100
+**Ans: C.** All three.
 
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q16.** LiFE Mission was launched in:
-
-A. COP-25
-
-B. June 2022
-
-C. 2008
-
-D. 1992
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Enhanced GHG + CO₂ driver + Fourier.
 
 </details>
 
-**Q17.** Montreal Protocol deals with:
+**Q9.** Match List-I with List-II:
 
-A. Climate mitigation
+| List-I | List-II |
+|--------|--------|
+| A. Carbon sink | 1. Storage process |
+| B. Sequestration | 2. Net CO₂ absorption |
+| C. Blue carbon | 3. Ocean/coastal sinks |
 
-B. Ozone-depleting substances
+Code:
 
-C. Wetlands
+A. A-3, B-1, C-2
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-2, B-1, C-3
 
-D. Wildlife trade
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: D.** A-2, B-1, C-3.
 
-**Ans: B**
-
-</details>
-
-**Q18.** Which pair is NOT correctly matched?
-
-A. CH₄ — cattle
-
-B. N₂O — fertilizers
-
-C. Kyoto — climate mitigation
-
-D. Montreal — climate mitigation
-
-<details><summary>Show answer</summary>
-
-**Ans: D**
+**Logic:** Sink absorbs; sequestration stores; blue = coastal/ocean.
 
 </details>
 
-**Q19.** Oceans absorb roughly what share of anthropogenic CO₂?
+**Q10.** Which of the following pairs is/are correctly matched?
 
-A. 5%
+1. India — about third-largest absolute emitter
+2. China — largest absolute emitter
+3. Bhutan — often cited as carbon-negative
 
-B. 25%
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
-C. 60%
+<details>
+<summary>Show answer</summary>
 
-D. 90%
+**Ans: A.** All three.
 
-<details><summary>Show answer</summary>
-
-**Ans: B** — Oceans also absorb ~90% of excess **heat** (different metric).
-
-</details>
-
-**Q20.** Scope 2 emissions come from:
-
-A. Direct factory boilers
-
-B. Purchased electricity
-
-C. Employee commuting
-
-D. Product disposal
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** China #1; India ~3rd; Bhutan carbon-negative teaching.
 
 </details>
 
-**Q21.** Assertion (A): Enhanced greenhouse effect causes global warming.
-Reason (R): GHGs trap outgoing infrared radiation.
+**Q11.** With reference to carbon footprint, which of the following statements is/are correct?
 
-A. Both true; R explains A
+1. It totals GHGs in tCO₂e.
+2. Scope 1 is direct; Scope 2 purchased energy; Scope 3 value chain.
+3. Ecological footprint uses the same unit tCO₂e only.
 
-B. Both true; R not explanation
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. A true, R false
+<details>
+<summary>Show answer</summary>
 
-D. A false, R true
+**Ans: B.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q22.** Bundelkhand in UP is mainly vulnerable to:
-
-A. Sea-level rise
-
-B. Drought/water scarcity
-
-C. Coral bleaching
-
-D. Tsunami
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Ecological footprint uses gha — not only tCO₂e.
 
 </details>
 
-**Q23.** India's emission intensity reduction target by 2030 (updated NDC) is:
+**Q12.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. 25%
+Assertion (A): Montreal Protocol addresses ozone-depleting substances.
 
-B. 33%
+Reason (R): Kyoto/Paris instruments are climate/GHG instruments — not ozone ODS phase-out treaties.
 
-C. 45%
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. 60%
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: A.** Both true; R contrasts climate treaties but does not explain Montreal’s ODS purpose by itself as causal explanation — still both true, R not explanation of A.
 
-**Ans: C**
-
-</details>
-
-**Q24.** UNFCCC was signed at:
-
-A. Stockholm 1972
-
-B. Rio 1992
-
-C. Paris 2015
-
-D. Kyoto 1997
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**A/R logic:** Issue-tag separation; R is true contrast, not the definitional explanation of Montreal.
 
 </details>
 
-**Q25.** Blue carbon refers to carbon stored in:
+**Q13.** Which of the following are direct GHGs in teaching lists?
 
-A. Coal seams
+1. CO₂
+2. CH₄
+3. N₂O
+4. SF₆
 
-B. Mangroves/wetlands
+A. 1 and 2 only
+B. 1, 2 and 3 only
+C. 1, 2, 3 and 4
+D. 2, 3 and 4 only
 
-C. Stratosphere
+<details>
+<summary>Show answer</summary>
 
-D. Granite rock
+**Ans: C.** All four.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q26.** Without natural greenhouse effect, Earth's average temperature would be about:
-
-A. +15°C
-
-B. 0°C
-
-C. −18°C
-
-D. −50°C
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
+**Logic:** Direct GHGs include F-gases too.
 
 </details>
 
-**Q27.** Photochemical smog contains which GHG/pollutant?
+**Q14.** With reference to India warming, which of the following statements is/are correct?
 
-A. Ground-level ozone
+1. IMD-class figure often cites about 0.7°C warming since 1901.
+2. AR6 global figure is about 1.1°C above 1850–1900.
+3. India has cooled by 3°C since 1901 in all datasets.
 
-B. Stratospheric ozone only
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
-C. Argon
+<details>
+<summary>Show answer</summary>
 
-D. Helium
+**Ans: D.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q28.** Deforestation turns forest from sink to:
-
-A. Source
-
-B. Larger sink
-
-C. Neutral always
-
-D. Ozone layer
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Statement 3 false.
 
 </details>
 
-**Q29.** IPCC mainly provides:
+**Q15.** Arrange radiation idea:
 
-A. Binding emission targets
+1. Sun sends shortwave insolation
+2. Earth re-emits longwave IR
+3. GHGs trap outgoing IR
 
-B. Scientific assessment
+A. 1, 2 and 3
+B. 1 and 2 only
+C. 2 and 3 only
+D. Only 1
 
-C. Groundwater reports
+<details>
+<summary>Show answer</summary>
 
-D. Wildlife protection
+**Ans: A.** All three.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Shortwave in → longwave out → GHG trap.
 
 </details>
 
-**Q30.** Closing coal power plants is primarily:
+**Q16.** Which of the following pairs is/are NOT correctly matched?
 
-A. Adaptation
+1. Carbon fertilization — more plant growth from higher CO₂
+2. Ocean acidification — identical to carbon fertilization
+3. Blue carbon — mangroves/seagrass/coastal sinks
 
-B. Mitigation
+A. 1 and 3 only
+B. 2 only
+C. 2 and 3 only
+D. 1, 2 and 3
 
-C. Carbon sequestration
+<details>
+<summary>Show answer</summary>
 
-D. Weather forecasting
+**Ans: B.** Only pair 2 is not correctly matched.
 
-<details><summary>Show answer</summary>
+**Logic:** Acidification ≠ fertilization.
 
-**Ans: B**
+</details>
+
+**Q17.** Match Kyoto-basket teaching:
+
+| List-I | List-II |
+|--------|--------|
+| A. HFCs | 1. Later inventories also |
+| B. PFCs | 2. Kyoto F-gas |
+| C. NF₃ | 3. Kyoto F-gas |
+
+Code:
+
+A. A-3, B-2, C-1
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-2, B-1, C-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A-2, B-3, C-1.
+
+**Logic:** HFCs/PFCs Kyoto basket; NF₃ later inventories.
+
+</details>
+
+**Q18.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): SO₂ and NOx do not contribute to warming as primary direct GHGs in the same way as CO₂.
+
+Reason (R): They may have indirect/other atmospheric roles but are not classic Kyoto-basket GHGs.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R explains the classification.
+
+**A/R logic:** Indirect agents vs direct Kyoto GHGs.
+
+</details>
+
+**Q19.** With reference to carbon sink examples, which of the following statements is/are correct?
+
+1. Forests, oceans, soils, mangroves can act as sinks.
+2. A sink absorbs more CO₂ than it releases.
+3. Every coal plant is a carbon sink by definition.
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Coal plants are sources.
+
+</details>
+
+**Q20.** Which one of the following correctly states GWP?
+
+A. A measure comparing heat-trapping to CO₂ over a stated horizon
+B. A measure of ocean salinity only
+C. A unit of forest canopy density
+D. Identical to Dobson Unit
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Heat-trapping vs CO₂ over a horizon (often 100 years).
+
+**Logic:** GWP ≠ DU.
+
+</details>
+
+**Q21.** How many of the following are Kyoto-basket gases (classic six + note NF₃ later)?
+
+CO₂, CH₄, N₂O, HFCs, PFCs, SF₆
+
+A. Only three
+B. All six
+C. Only five
+D. Only four
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** All six.
+
+**Logic:** Classic Kyoto basket six.
+
+</details>
+
+**Q22.** With reference to propane/hydrogen/argon, which of the following statements is/are correct?
+
+1. They are listed among gases that are not GHGs in standard traps.
+2. CO₂ is also not a GHG.
+3. N₂O is a GHG.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 3.
+
+**Logic:** CO₂ is a GHG.
+
+</details>
+
+**Q23.** Arrange decreasing relative share teaching:
+
+A. N₂O > CO₂ > CH₄
+B. CFCs > CO₂ > CH₄ > N₂O
+C. CH₄ > CO₂ > N₂O
+D. CO₂ > CH₄ > CFCs+others > N₂O
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** CO₂ > CH₄ > CFCs+ > N₂O.
+
+**Logic:** WMO-style order.
+
+</details>
+
+**Q24.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Carbon fertilization can increase plant growth from higher atmospheric CO₂.
+
+Reason (R): Carbon fertilization is the same process as stratospheric ozone depletion.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true, R false.
+
+**A/R logic:** Different processes.
+
+</details>
+
+**Q25.** With reference to India’s emitter rank, which of the following statements is/are correct?
+
+1. Absolute emissions place India near the top (about 3rd).
+2. Per capita emissions remain relatively low versus many developed countries.
+3. Absolute rank and per capita rank are always the same number.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Absolute ≠ per capita.
+
+</details>
+
+**Q26.** Which of the following pairs is/are correctly matched?
+
+1. Direct GHG — CO₂
+2. Indirect agent teaching — NOx, CO, NMVOCs, SO₂
+3. Direct GHG — argon
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Argon not GHG.
+
+</details>
+
+**Q27.** With reference to Scope emissions, which of the following statements is/are correct?
+
+1. Scope 1 — direct
+2. Scope 2 — purchased energy
+3. Scope 3 — wider value chain
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All three.
+
+**Logic:** Standard Scope 1/2/3.
+
+</details>
+
+**Q28.** Which one of the following best states the main recent warming driver in teaching?
+
+A. Argon increase
+B. Montreal Protocol alone
+C. Purely orbital cooling only
+D. Anthropogenic CO₂
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Anthropogenic CO₂.
+
+**Logic:** Main recent driver lock.
+
+</details>
+
+**Q29.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Blue carbon refers to ocean and coastal carbon sinks such as mangroves.
+
+Reason (R): Blue carbon is identical to black carbon soot from incomplete combustion.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true, R false.
+
+**A/R logic:** Blue ≠ black carbon.
+
+</details>
+
+**Q30.** With reference to HFCs, which of the following statements is/are correct?
+
+1. HFCs are high-GWP greenhouse gases.
+2. Kigali Amendment phases down HFCs.
+3. HFCs are classic ozone-depleting substances under Montreal’s original ODS list.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** HFCs are not classic ODS; Kigali is climate/GWP.
 
 </details>
 

@@ -1748,823 +1748,21 @@ D. Neither 1 nor 2
 
 ## Practice Zone — UPPCS Format Drill
 
-> **55 questions.** Ghatnachakra + UPPCS pattern mix.
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-**Q1.** Which one of the following pairs (Place of the Revolt of 1857 — Start of Rebellion) is **not** correctly matched?
 
-Options:
-A. Barrackpore — 29 March 1857
-B. Meerut — 10 May 1857
-C. Lucknow — 4 June 1857
-D. Jhansi — 11 May 1857
+**Q1.** With reference to the causes of the Revolt of 1857, which of the following statements is/are correct?
 
-<details>
-<summary>Show answer</summary>
+1. Long-term causes included Doctrine of Lapse, Awadh annexation 1856, heavy revenue and missionary fear.
+2. The immediate spark was the greased-cartridge rumour around the Enfield rifle.
+3. Awadh was annexed in 1856 strictly under Doctrine of Lapse.
 
-**Ans: D** — Jhansi = **June**.
+Select the correct answer from the code given below:
 
-</details>
 
----
+A. 1 and 3 only
 
-**Q2.** Match List-I with List-II.
-
-**List-I (Centre)** A. Bareilly B. Kanpur C. Lucknow D. Jagdishpur
-**List-II (Leader)** 1. Nana Sahib 2. Kunwar Singh 3. Khan Bahadur Khan 4. Begum Hazrat Mahal
-
-A. 3 1 4 2
-
-B. 1 3 4 2
-
-C. 3 1 2 4
-
-D. 4 1 3 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q3.** With reference to the beginning of 1857, which of the following statements is/are correct?
-
-1. Mangal Pandey’s attack took place at Barrackpore on 29 March 1857.
-2. The mass outbreak of the revolt began at Delhi on 10 May 1857.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Mass outbreak = **Meerut** 10 May; Delhi 11–12 May.
-
-</details>
-
----
-
-**Q4.** Who was the leader of the revolt in Bareilly (Uttar Pradesh) during 1857?
-
-A. Hazrat Mahal
-
-B. Khan Bahadur Khan
-
-C. Kunwar Singh
-
-D. Nana Saheb
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Khan Bahadur Khan led Bareilly.
-
-</details>
-
----
-
-**Q5.** Assertion (A): Awadh’s annexation in 1856 was a major political cause of the 1857 revolt.
-
-Reason (R): Awadh was annexed under the Doctrine of Lapse.
-
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)
-C. (A) is true but (R) is false
-D. (A) is false but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Annexed for **misrule**, not Lapse.
-
-</details>
-
----
-
-**Q6.** Consider the following statements:
-
-1. Kunwar Singh, landlord of Jagdishpur in Bihar, led the rebellion against the British.
-2. Lord Dalhousie recognised the adopted son of Rani Lakshmi Bai as the heir apparent.
-
-Which of the statements given above is/are correct?
-
-A. Only 2
-
-B. Neither 1 nor 2
-
-C. Only 1
-
-D. Both 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Only statement 1 is correct; Lapse refused Damodar Rao.
-
-</details>
-
----
-
-**Q7.** Arrange: 1. Queen’s Proclamation 2. Meerut outbreak 3. Mangal Pandey incident 4. Recapture of Delhi
-
-A. 3, 2, 4, 1
-
-B. 2, 3, 4, 1
-
-C. 3, 2, 1, 4
-
-D. 3, 4, 2, 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 29 Mar → 10 May → Sept 1857 → **1 Nov 1858**.
-
-</details>
-
----
-
-**Q8.** Which of the following pairs are NOT correctly matched?
-
-1. Begum Hazrat Mahal — Lucknow
-2. Khan Bahadur Khan — Bareilly
-3. Nana Sahib — Jhansi
-
-A. Only 3
-
-B. Only 1 and 3
-
-C. Only 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Nana = **Kanpur**.
-
-</details>
-
----
-
-**Q9.** With reference to Bahadur Shah Zafar, which of the following statements is/are correct?
-
-1. Rebels proclaimed him emperor at Delhi.
-2. Bakht Khan, not Zafar, organised the main military command at Delhi.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q10.** Match List-I with List-II.
-
-**List-I** A. Hugh Rose B. John Nicholson C. Henry Lawrence D. Colin Campbell
-**List-II** 1. Delhi assault 2. Lucknow Residency (died) 3. Jhansi–Gwalior 4. Relief of Lucknow / Kanpur
-
-A. 3 1 2 4
-
-B. 1 3 2 4
-
-C. 3 1 4 2
-
-D. 3 2 1 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q11.** Assertion (A): The greased cartridge was the immediate spark of 1857.
-
-Reason (R): Political annexations and sepoy grievances had already accumulated.
-
-Options:
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — R is true background, not why the cartridge sparked *that week*.
-
-</details>
-
----
-
-**Q12.** With reference to Rani Lakshmibai, which of the following statements is/are correct?
-
-1. Jhansi was taken under the Doctrine of Lapse.
-2. She died defending the fort of Jhansi in May 1857.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Died **Gwalior, June 1858**.
-
-</details>
-
----
-
-**Q13.** V.D. Savarkar’s book treating 1857 as the First War of Independence was published in
-
-A. 1858
-
-B. 1885
-
-C. 1909
-
-D. 1947
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q14.** With reference to Nana Sahib, which of the following statements is/are correct?
-
-1. He was the adopted son of Peshwa Baji Rao II.
-2. He was the principal rebel leader at Bareilly.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q15.** Arrange: 1. Indigo Revolt 2. Acquisition of Awadh 3. Ilbert Bill 4. Second Anglo-Afghan War
-
-A. 2, 1, 4, 3
-
-B. 1, 2, 4, 3
-
-C. 2, 1, 3, 4
-
-D. 2, 4, 1, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 1856 → 1859 → 1878 → 1883.
-
-</details>
-
----
-
-**Q16.** Consider the following statements about the consequences of 1857:
-
-1. The Government of India Act 1858 ended Company rule.
-2. Lord Dalhousie became the first Viceroy of India.
-
-Which of the statements given above is/are correct?
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — First Viceroy = **Canning**.
-
-</details>
-
----
-
-**Q17.** Which of the following pairs are NOT correctly matched?
-
-1. Tantia Tope hanged — Shivpuri, 1859
-2. Zafar exiled — Rangoon
-3. Kunwar Singh — Jhansi
-
-A. Only 3
-
-B. Only 1 and 3
-
-C. Only 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Kunwar = **Jagdishpur**.
-
-</details>
-
----
-
-**Q18.** Assertion (A): The 1857 revolt failed to become an all-India war.
-
-Reason (R): Large parts of the South, Punjab, and several princely states did not join or aided the British.
-
-Options:
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q19.** The Queen’s Proclamation transferring India to the Crown was issued on
-
-A. 10 May 1857
-
-B. 1 November 1858
-
-C. 8 April 1857
-
-D. 15 August 1858
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q20.** Match List-I with List-II.
-
-**List-I (Place)** A. Kalpi–Gwalior B. Arrah C. Lucknow Residency D. Barrackpore
-**List-II** 1. Henry Lawrence 2. Mangal Pandey 3. Kunwar Singh 4. Lakshmibai / Tantia last phase
-
-A. 4 3 1 2
-
-B. 4 3 2 1
-
-C. 3 4 1 2
-
-D. 4 1 3 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q21.** With reference to Awadh, which of the following statements is/are correct?
-
-1. Wajid Ali Shah was the Nawab when Awadh was annexed.
-2. Annexation occurred in 1858 as a punishment after the revolt.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Annexed **1856**, cause not consequence.
-
-</details>
-
----
-
-**Q22.** Which of the following pairs are NOT correctly matched?
-
-1. General Service Enlistment Act — 1856
-2. Queen’s Proclamation — 1 November 1858
-3. Meerut outbreak — 29 March 1857
-
-A. Only 3
-
-B. Only 1 and 3
-
-C. Only 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 29 March = Barrackpore; Meerut = **10 May**.
-
-</details>
-
----
-
-**Q23.** With reference to Tantia Tope, which of the following statements is/are correct?
-
-1. He served as Nana Sahib’s principal military commander.
-2. He was hanged at Shivpuri in 1859.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q24.** Consider the following statements:
-
-1. Punjab and the Madras Presidency were the strongest civilian theatres of 1857.
-2. Uttar Pradesh (NWP + Awadh) formed the core geography of the revolt.
-
-Which of the statements given above is/are correct?
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q25.** Maulvi Ahmadullah Shah is associated mainly with
-
-A. Bareilly
-
-B. Jagdishpur
-
-C. Faizabad
-
-D. Jhansi
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q26.** Match List-I with List-II.
-
-**List-I** A. Damodar Rao B. Birjis Qadr C. Baji Rao II D. Wajid Ali Shah
-**List-II** 1. Peshwa (Nana’s adoptive father) 2. Nawab of Awadh 3. Adopted heir of Jhansi 4. Son of Hazrat Mahal
-
-A. 3 4 1 2
-
-B. 3 4 2 1
-
-C. 4 3 1 2
-
-D. 3 1 4 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q27.** Assertion (A): The Government of India Act 1858 created the office of Secretary of State for India.
-
-Reason (R): Company rule was ended after the revolt.
-
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)
-C. (A) is true but (R) is false
-D. (A) is false but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q28.** With reference to Mangal Pandey, which of the following statements is/are correct?
-
-1. He belonged to the 34th Native Infantry at Barrackpore.
-2. He was hanged on 10 May 1857 at Meerut.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Hanged **8 April 1857**.
-
-</details>
-
----
-
-**Q29.** Which of the following was a stated pledge of the Queen’s Proclamation of 1858?
-
-1. End of further aggressive annexation as policy
-2. Non-interference in religious beliefs of Indians
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q30.** Arrange: 1. Fall of Gwalior / death of Lakshmibai 2. Barrackpore incident 3. Lucknow rising (4 June) 4. Delhi seized by rebels
-
-A. 2, 4, 3, 1
-
-B. 2, 3, 4, 1
-
-C. 4, 2, 3, 1
-
-D. 2, 4, 1, 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Mar 1857 → 11–12 May → 4 June → June 1858.
-
-</details>
-
----
-
-**Q31.** Which of the following pairs are NOT correctly matched?
-
-1. Bakht Khan — military organiser at Delhi
-2. Azimullah Khan — adviser of Nana Sahib
-3. Khan Bahadur Khan — leader at Kanpur
-
-A. Only 3
-
-B. Only 1 and 3
-
-C. Only 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — KBK = **Bareilly**.
-
-</details>
-
----
-
-**Q32.** With reference to failure of 1857, which of the following statements is/are correct?
-
-1. Several Sikh and Gurkha units fought on the British side.
-2. Rebels possessed a single national command equal to the Company’s.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q33.** Consider the following statements:
-
-1. The Rani Jhansi Regiment of INA was raised during the Revolt of 1857.
-2. Lakshmibai of Jhansi fought Hugh Rose in 1858.
-
-Which of the statements given above is/are correct?
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — INA regiment = **Subhas Bose**, not 1857.
-
-</details>
-
----
-
-**Q34.** Assertion (A): Taluqdars of Awadh joined the 1857 revolt in large numbers.
-
-Reason (R): Annexation and land-settlement changes had eroded their position.
-
-Options:
-A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-B. (A) is false, but (R) is true
-C. (A) is true, but (R) is false
-D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q35.** Which of the following statements is/are correct?
-
-1. Maulvi Liaquat Ali is associated with Allahabad in 1857.
-2. The Queen’s Proclamation was read at Allahabad.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q36.** With reference to Kanpur (1857), which of the following statements is/are correct?
-
-1. Nana Sahib was the political leader.
-2. Tantia Tope was a British commander sent to relieve the Residency.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Tantia = rebel general; Campbell/Havelock = British.
-
-</details>
-
----
-
-**Q37.** The immediate military grievance most closely tied to the Enfield rifle was
-
-A. Doctrine of Lapse
-
-B. Greased cartridge rumour
-
-C. Subsidiary Alliance
-
-D. Permanent Settlement
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q38.** Consider the following statements:
-
-1. Company rule in India ended in 1857 on the day Meerut rose.
-2. Canning was Governor-General during the revolt and first Viceroy after 1858.
-
-Which of the statements given above is/are correct?
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Crown transfer = **1858**.
-
-</details>
-
----
-
-**Q39.** Which of the following pairs are correctly matched?
-
-1. Jhansi start — June 1857
-2. Lucknow start — 4 June 1857
-3. Barrackpore — 10 May 1857
-
-A. 1 and 2 only
-
-B. 1 and 3 only
+B. 1 and 2 only
 
 C. 2 and 3 only
 
@@ -2573,383 +1771,803 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Barrackpore = **29 March**.
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Awadh = misrule annexation, not Lapse — cause filter.
 
 </details>
 
 ---
 
-**Q40.** With reference to 1857 in Uttar Pradesh, which of the following statements is/are correct?
+**Q2.** With reference to the course of the Revolt’s opening, which of the following statements is/are correct?
 
-1. Meerut, Lucknow, Kanpur and Bareilly were major UP-linked centres.
-2. Kunwar Singh’s home base was Lucknow.
+1. Mangal Pandey’s Barrackpore act on 29 March 1857 was the spark.
+2. The mass outbreak began at Meerut on 10 May 1857.
+3. Delhi’s seizure on 11–12 May was the first outbreak of the Revolt.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
 
-C. Both 1 and 2
+A. 1 and 3 only
 
-D. Neither 1 nor 2
+B. 2 and 3 only
+
+C. 1, 2 and 3
+
+D. 1 and 2 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Kunwar = **Jagdishpur, Bihar**.
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Barrackpore = spark; Meerut = war start; Delhi follows Meerut.
 
 </details>
 
 ---
 
-**Q41.** When was the decision taken to introduce the new Enfield rifle in place of the Brown Bess?
+**Q3.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. November 1856
 
-B. December 1856
+**Assertion (A):** Bahadur Shah Zafar organised the rebel army at Delhi as Saheb-e-Alam Bahadur.
 
-C. January 1857
+**Reason (R):** Bakht Khan was the real military organiser at Delhi and received the title Saheb-e-Alam Bahadur.
 
-D. February 1857
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
+**Ans: B.** (A) is false; (R) is true.
 
-**Logic:** Stem tests the administrative decision date, not the January rumour wave.
-
-**Ans: B.** Decision **December 1856**; fat rumours from **January 1857**. Trial centres were Dum Dum, Ambala and Sialkot.
-
-</details>
-
----
-
-**Q42.** The popular symbols of the 1857 struggle were
-
-A. Eagle and scarf
-
-B. Lotus and chapatis
-
-C. Two swords
-
-D. Tricolour and chakra
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** Coaching keys fix lotus + chapati as the symbol pair for 1857 messaging.
-
-**Ans: B.** Lotus and chapatis.
+**A/R logic:** Zafar = symbolic emperor; Bakht Khan = army — do not swap.
 
 </details>
 
 ---
 
-**Q43.** Who among the following was given the title Saheb-e-Alam Bahadur by Bahadur Shah during 1857?
+**Q4.** Match List-I with List-II and select the correct answer from the code given below:
 
-A. Azimullah
-
-B. Birjis Qadr
-
-C. Bakht Khan
-
-D. Khan Bahadur Khan
-
-<details>
-<summary>Show answer</summary>
-
-
-**Logic:** Title belongs to Delhi’s military organiser, not Bareilly’s Viceroy.
-
-**Ans: C.** Bakht Khan organised Delhi’s army; Khan Bahadur Khan was named Viceroy at Bareilly.
-
-</details>
-
----
-
-**Q44.** Match List-I with List-II.
-
-| List-I | List-II |
-|--------|---------|
-| A. Maniram Dutta | 1. Auwa |
-| B. Thakur Kushal Singh | 2. Assam |
-| C. Maulvi Liaquat Ali | 3. Allahabad |
-| D. Maulvi Ahmadullah Shah | 4. Faizabad |
+| List-I (Centre) | List-II (Leader) |
+|-----------------|------------------|
+| A. Kanpur | 1. Begum Hazrat Mahal |
+| B. Lucknow | 2. Nana Sahib / Tantia Tope |
+| C. Bareilly | 3. Kunwar Singh |
+| D. Jagdishpur | 4. Khan Bahadur Khan |
 
 *Row order is not the answer code.*
 
-A. 2 1 3 4
 
-B. 1 2 3 4
+A. A-2, B-1, C-4, D-3
 
-C. 2 1 4 3
+B. A-1, B-2, C-4, D-3
 
-D. 3 1 2 4
+C. A-2, B-1, C-3, D-4
+
+D. A-2, B-4, C-1, D-3
 
 <details>
 <summary>Show answer</summary>
 
+**Ans: A.** Kanpur–Nana/Tantia; Lucknow–Begum; Bareilly–Khan Bahadur; Jagdishpur–Kunwar.
 
-**Logic:** Assam–Auwa–Allahabad–Faizabad are classic Ghatnachakra place traps.
-
-**Ans: A.** Maniram–Assam; Kushal Singh–Auwa; Liaquat–Allahabad; Ahmadullah–Faizabad.
-
-**Trap:** Do not put Liaquat Ali at Lucknow.
+**Logic:** Centre↔leader must-score grid.
 
 </details>
 
 ---
 
-**Q45.** Who was the British commanding officer at Barrackpore when Mangal Pandey rose?
+**Q5.** Which of the following pairs is NOT correctly matched?
 
-A. Henry Lawrence
 
-B. Colonel Finnis
+A. Sepoy Mutiny — British / Lawrence–Seeley label
 
-C. John Bennet Hearsey
+B. R.C. Majumdar — affirmed it was first, national and a war of independence
 
-D. Hugh Wheeler
+C. First War of Independence — V.D. Savarkar (1909)
+
+D. S.N. Sen — official historian, Eighteen Fifty-Seven (1957)
 
 <details>
 <summary>Show answer</summary>
 
+**Ans: B.** Majumdar denied that it was first, national, or a war of independence.
 
-**Logic:** Barrackpore CO is a name-only stem separate from Meerut’s Hewitt.
-
-**Ans: C.** Hearsey at Barrackpore; Hewitt failed to stop Meerut’s march.
+**Logic:** Historiography twin: Savarkar vs Majumdar.
 
 </details>
 
 ---
 
-**Q46.** Assertion (A): The Peel Commission reorganised the Indian army after 1857.
+**Q6.** Arrange the following in chronological order:
 
-Reason (R): The British increased European troops and recruited more from Gurkhas, Sikhs and Punjabis.
+1. Queen’s Proclamation at Allahabad
+2. Meerut outbreak
+3. Mangal Pandey at Barrackpore
+4. Enfield decision to replace Brown Bess (December)
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)
+A. 4, 3, 2, 1
 
-C. (A) is true but (R) is false
+B. 3, 4, 2, 1
 
-D. (A) is false but (R) is true
+C. 4, 2, 3, 1
+
+D. 4, 3, 1, 2
 
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** A tests the commission’s purpose; R tests the recruitment shift — R explains how Peel’s line worked.
+**Ans: A.** Dec 1856 Enfield → 29 Mar Barrackpore → 10 May Meerut → 1 Nov 1858 Proclamation.
 
-**Ans: A.** Both true; R is the core Peel outcome (Europeans ↑, Bengal Army weight ↓, “loyal” northern recruitment ↑). Approximate ratios: Bengal 1:2, Madras/Bombay 1:3.
+**Logic:** Cause spark → course → result timeline.
 
 </details>
 
 ---
 
-**Q47.** Who first described 1857 as the First Indian War of Independence?
+**Q7.** With reference to results of 1857, which of the following statements is/are correct?
 
-A. R.C. Majumdar
+1. The Government of India Act, 1858 ended Company rule.
+2. Canning became the first Viceroy; the Queen’s Proclamation was read at Allahabad on 1 November 1858.
+3. Crown rule had already begun from the Meerut outbreak in May 1857.
 
-B. S.N. Sen
+Select the correct answer from the code given below:
 
-C. V.D. Savarkar
 
-D. Sir Syed Ahmad Khan
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1, 2 and 3
+
+D. 1 and 2 only
 
 <details>
 <summary>Show answer</summary>
 
+**Ans: D.** Only 1 and 2.
 
-**Logic:** Savarkar vs Majumdar is the standard historiography trap.
-
-**Ans: C.** Savarkar, *The Indian War of Independence* (1909). Majumdar denied the “first national war” label; Sen wrote the official *Eighteen Fifty-Seven* (1957); Sir Syed wrote *Asbab-e-Baghawat-e-Hind* (1859).
+**Logic:** Revolt under Company; Crown begins with 1858 settlement.
 
 </details>
 
 ---
 
-**Q48.** The statement that 1857 was “neither first, nor national, nor a war of independence” is associated with
+**Q8.** With reference to Jhansi in 1857, which of the following statements is/are correct?
 
-A. V.D. Savarkar
+1. Rani Lakshmibai’s rising is dated June 1857, not mid-May Delhi dates.
+2. She died fighting Hugh Rose near Gwalior (18 June 1858).
+3. Jaipur and Chittor were her principal rebel capitals.
 
-B. S.N. Sen
+Select the correct answer from the code given below:
 
-C. R.C. Majumdar
 
-D. Outram and Taylor
+A. 1 and 3 only
+
+B. 1 and 2 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
+**Ans: B.** Only 1 and 2.
 
-**Logic:** Exact quote attribution — Majumdar, not Sen.
-
-**Ans: C.** R.C. Majumdar. Outram–Taylor = conspiracy reading.
+**Logic:** Jaipur/Chittor were not revolt centres; Auwa is the Rajasthan rising tag.
 
 </details>
 
 ---
 
-**Q49.** Who made Allahabad the emergency headquarters during 1857?
+**Q9.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Lord Dalhousie
 
-B. Lord Canning
+**Assertion (A):** British writers and Indian nationalist writers used the same single name for 1857.
 
-C. Lord Ellenborough
+**Reason (R):** Savarkar called it the First War of Independence while many British writers called it a Sepoy Mutiny.
 
-D. Lord Wellesley
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
+**Ans: B.** (A) is false; (R) is true.
 
-**Logic:** Canning was GG in 1857 and later first Viceroy; Allahabad also hosted the Queen’s Proclamation.
-
-**Ans: B.** Canning.
+**A/R logic:** Naming itself is a historiography trap.
 
 </details>
 
 ---
 
-**Q50.** Which of the following pairs is **not** correctly matched?
+**Q10.** With reference to Cause–Course–Result at Kanpur, which of the following statements is/are correct?
 
-A. Sambhalpur — Surendra Sai
+1. Nana Sahib was declared Peshwa on 5 June 1857.
+2. Tantia Tope (Ramchandra Pandurang) served as his commander-in-chief.
+3. Begum Hazrat Mahal was the military commander at Kanpur.
 
-B. Lucknow — Liyaqat Ali
+Select the correct answer from the code given below:
 
-C. Assam — Maniram Dutta
 
-D. Auwa — Kushal Singh
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
+**Ans: C.** Only 1 and 2.
 
-**Logic:** Wrong-pair stem; Lucknow belongs to Hazrat Mahal / Birjis Qadr.
-
-**Ans: B.** Liyaqat Ali = **Allahabad** (Khusro Bagh).
+**Logic:** Begum = Lucknow/Awadh — not Kanpur.
 
 </details>
 
 ---
 
-**Q51.** Who among the following escaped to Nepal after 1857?
+**Q11.** Match List-I with List-II and select the correct answer from the code given below:
 
-A. Kunwar Singh and Nana Sahib
+| List-I | List-II |
+|--------|---------|
+| A. Auwa | 1. Maniram Dutta / Kandarpeshwar Singh |
+| B. Assam | 2. Thakur Kushal Singh |
+| C. Faizabad | 3. Maulvi Liaquat Ali |
+| D. Allahabad | 4. Maulvi Ahmadullah Shah |
 
-B. Nana Sahib and Begum Hazrat Mahal
+*Row order is not the answer code.*
 
-C. Bakht Khan and Khan Bahadur Khan
 
-D. Tantia Tope and Rani Lakshmibai
+A. A-2, B-1, C-4, D-3
+
+B. A-1, B-2, C-4, D-3
+
+C. A-2, B-1, C-3, D-4
+
+D. A-2, B-4, C-1, D-3
 
 <details>
 <summary>Show answer</summary>
 
+**Ans: A.** Auwa–Kushal Singh; Assam–Maniram; Faizabad–Ahmadullah; Allahabad–Liaquat Ali.
 
-**Logic:** Nepal refuge pair is Nana + Begum; Kunwar died in Bihar; Tantia hanged at Shivpuri; Rani died at Gwalior.
-
-**Ans: B.**
+**Logic:** Secondary-centre matching.
 
 </details>
 
 ---
 
-**Q52.** Which territory was **not** affected by the Revolt of 1857?
+**Q12.** Which of the following pairs is NOT correctly matched?
 
-A. Jhansi
 
-B. Chittor
+A. Brown Bess — old musket replaced from December 1856
 
-C. Jagdishpur
+B. Enfield rifle — new greased-cartridge weapon
 
-D. Lucknow
+C. Trial centres — Dum Dum, Ambala and Sialkot
+
+D. General Service Enlistment Act 1856 — abolished all sepoy grievances overnight
 
 <details>
 <summary>Show answer</summary>
 
+**Ans: D.** The 1856 Act fed sea-voyage/kalapani fear — it did not abolish grievances.
 
-**Logic:** Classic “unaffected place” stem.
-
-**Ans: B.** Chittor. Jaipur likewise was not a centre; Auwa was.
+**Logic:** Military-cause card, not a cure-all.
 
 </details>
 
 ---
 
-**Q53.** Who called the Revolt of 1857 a conspiracy?
+**Q13.** With reference to why the Revolt failed, which of the following statements is/are correct?
 
-A. John Lawrence
+1. There was no single national command.
+2. Punjab, Madras, Bombay and Hyderabad stayed mostly quiet or loyal.
+3. The educated middle class provided a unified all-India rebel government.
 
-B. T.R. Holmes
+Select the correct answer from the code given below:
 
-C. Sir James Outram and W. Taylor
 
-D. Seeley
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
+**Ans: C.** Only 1 and 2.
 
-**Logic:** Conspiracy = Outram–Taylor; mutiny = Lawrence/Seeley; civilisation–barbarism = Holmes.
-
-**Ans: C.**
+**Logic:** Educated middle class largely stayed neutral — course/result limit.
 
 </details>
 
 ---
 
-**Q54.** With reference to army reorganisation after 1857, which statements are correct?
+**Q14.** Arrange the following Result-side measures in chronological order of the settlement year context:
 
-1. The Peel Commission reshaped recruitment and European–Indian ratios.
-2. After 1857 the British preferred Gurkha, Sikh and Punjabi recruitment over the old Bengal high-caste pattern.
+1. Peel Commission army reorganisation themes after 1858
+2. Meerut outbreak
+3. Government of India Act ending Company rule
+4. Barrackpore spark
 
-A. Only 1
 
-B. Only 2
+A. 4, 2, 3, 1
 
-C. Both 1 and 2
+B. 2, 4, 3, 1
 
-D. Neither 1 nor 2
+C. 4, 3, 2, 1
+
+D. 4, 2, 1, 3
 
 <details>
 <summary>Show answer</summary>
 
+**Ans: A.** Spark → outbreak → 1858 Act → Peel reorg themes.
 
-**Logic:** Both are Peel outcomes; numbers often cited ~45k→65k Europeans and ~238k→140k Indians.
-
-**Ans: C.**
+**Logic:** Course then Result sequence.
 
 </details>
 
 ---
 
-**Q55.** Consider the following statements:
+**Q15.** With reference to Peel Commission army reorganisation, which of the following statements is/are correct?
 
-1. Mirza Ghalib witnessed the Revolt of 1857.
-2. W.H. Russell reported on 1857 for *The Times* of London.
+1. European troops were increased while Indian troop numbers were reduced.
+2. More recruitment came from Gurkhas, Sikhs and Punjabis.
+3. Bengal European:Indian ratio was set looser than Madras/Bombay.
 
-Which of the statements given above is/are correct?
+Select the correct answer from the code given below:
 
-A. Only 1
 
-B. Only 2
+A. 1 and 3 only
 
-C. Both 1 and 2
+B. 2 and 3 only
 
-D. Neither 1 nor 2
+C. 1 and 2 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
+**Ans: C.** Only 1 and 2.
 
-**Logic:** Witness and correspondent name pairs from the 1857 narrative.
-
-**Ans: C.** Ghalib (Agra-born, Delhi) witnessed the rising; Russell was *The Times* correspondent.
+**Logic:** Bengal ratio 1:2 was tighter than Madras/Bombay 1:3.
 
 </details>
 
 ---
+
+**Q16.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+
+**Assertion (A):** Among Queen’s Proclamation promises, ending further annexation of princely states was among the clearest followed lines.
+
+**Reason (R):** Adoption was again allowed and annexation-stop followed the 1858 settlement.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R explains why that promise is remembered as comparatively followed.
+
+**A/R logic:** Result card: Company ends; annexation policy softens.
+
+</details>
+
+---
+
+**Q17.** With reference to Awadh’s role, which of the following statements is/are correct?
+
+1. The largest share of rebel sepoys is often cited as coming from Awadh.
+2. Peasant, taluqdar and sepoy strands mixed in Awadh.
+3. Awadh stayed entirely quiet while only Delhi rose.
+
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Awadh is core Cause and Course geography — not a quiet zone.
+
+</details>
+
+---
+
+**Q18.** With reference to British allies in 1857, which of the following statements is/are correct?
+
+1. Scindias of Gwalior (minister Dinkar Rao) and the Nizam (Salar Jung) aided the British.
+2. Canning praised loyal princes as a breakwater against the Revolt.
+3. All major princely houses of North India joined Nana Sahib’s command.
+
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Loyal princes help explain British recovery — Result/course limit.
+
+</details>
+
+---
+
+**Q19.** Match List-I with List-II and select the correct answer from the code given below:
+
+| List-I (Reading) | List-II (Tag) |
+|------------------|---------------|
+| A. Outram & W. Taylor | 1. Sepoy Mutiny |
+| B. John Lawrence / Seeley | 2. Hindu–Muslim conspiracy |
+| C. T.R. Holmes | 3. First War of Independence |
+| D. Savarkar | 4. Civilisation vs barbarism |
+
+*Row order is not the answer code.*
+
+
+A. A-2, B-1, C-4, D-3
+
+B. A-1, B-2, C-4, D-3
+
+C. A-2, B-1, C-3, D-4
+
+D. A-2, B-4, C-1, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Outram–conspiracy; Lawrence–mutiny; Holmes–civilisation; Savarkar–First War.
+
+**Logic:** Historiography match grid.
+
+</details>
+
+---
+
+**Q20.** Which of the following pairs is NOT correctly matched?
+
+
+A. Symbols of 1857 — lotus and chapatis
+
+B. British PM (1857) — Palmerston
+
+C. Emergency headquarters of Canning — Allahabad
+
+D. First Viceroy after 1858 — Mountbatten
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** First Viceroy = Canning; Mountbatten is last.
+
+**Logic:** Result-side office trap.
+
+</details>
+
+---
+
+**Q21.** With reference to Tantia Tope after Kanpur’s fall, which of the following statements is/are correct?
+
+1. He continued guerrilla fighting.
+2. Betrayed by Man Singh, he was hanged at Shivpuri on 18 April 1859.
+3. He became the symbolic Mughal emperor at Delhi after Zafar’s exile.
+
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Course continuation after centre fall — not imperial succession.
+
+</details>
+
+---
+
+**Q22.** Arrange the following centre-related dates / tags in chronological order:
+
+1. Nana declared Peshwa
+2. Meerut outbreak
+3. Rani Lakshmibai’s death near Gwalior
+4. Barrackpore spark
+
+
+A. 4, 2, 1, 3
+
+B. 2, 4, 1, 3
+
+C. 4, 1, 2, 3
+
+D. 4, 2, 3, 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** 29 Mar → 10 May → 5 June 1857 → 18 June 1858.
+
+**Logic:** Course chronology across centres.
+
+</details>
+
+---
+
+**Q23.** With reference to Sir Syed and 1857 historiography, which of the following statements is/are correct?
+
+1. Sir Syed wrote Asbab-e-Baghawat-e-Hind (1859) on the causes of 1857.
+2. It is often keyed as a major early Indian-language analysis of the uprising.
+3. Sir Syed’s book is the same as S.N. Sen’s official Eighteen Fifty-Seven (1957).
+
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** 1859 causes tract ≠ 1957 official history.
+
+</details>
+
+---
+
+**Q24.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+
+**Assertion (A):** Inefficiency of British officers was the standard sepoy grievance that sparked Meerut.
+
+**Reason (R):** Sepoy grievances included batta stoppage and fear of sea voyage under the General Service Enlistment Act, 1856, besides the cartridge issue.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** (A) is false; (R) is true.
+
+**A/R logic:** Must-Score: inefficiency is not a standard sepoy grievance list item.
+
+</details>
+
+---
+
+**Q25.** With reference to Cause–Course–Result for Awadh, which of the following statements is/are correct?
+
+1. Cause: annexation for alleged misrule in 1856 deepened anger.
+2. Course: Begum Hazrat Mahal led and seated minor son Birjis Qadr.
+3. Result: Awadh was restored as an independent kingdom under the Begum in 1859.
+
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Result was suppression and Crown settlement — not Begum restoration.
+
+</details>
+
+---
+
+**Q26.** Which one of the following correctly states a Result of 1857?
+
+
+A. Immediate independence of India under Nana Sahib
+
+B. End of Company rule and start of Crown rule under the 1858 settlement
+
+C. Permanent scrap of all European troops in India
+
+D. Transfer of the capital to Delhi in May 1857
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Partial success: Company ends; independence is not won.
+
+**Logic:** Result card — not total victory narrative.
+
+</details>
+
+---
+
+**Q27.** With reference to Kunwar Singh, which of the following statements is/are correct?
+
+1. He led the Jagdishpur (Bihar) rising in the Danapur/Arrah theatre.
+2. After his death (26 April 1858) his brother Amar Singh continued the fight.
+3. He was the military organiser titled Saheb-e-Alam Bahadur at Delhi.
+
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Saheb-e-Alam Bahadur = Bakht Khan.
+
+</details>
+
+---
+
+**Q28.** Match List-I with List-II and select the correct answer from the code given below:
+
+| List-I (British death theatre) | List-II |
+|--------------------------------|---------|
+| A. John Nicholson | 1. Lucknow theatre |
+| B. Henry Lawrence | 2. Taking of Delhi (Sept 1857) |
+| C. Havelock | 3. Lucknow theatre |
+| D. Neill | 4. Lucknow theatre |
+
+*Row order is not the answer code.*
+
+
+A. A-2, B-1, C-3, D-4
+
+B. A-1, B-2, C-3, D-4
+
+C. A-2, B-3, C-1, D-4
+
+D. A-2, B-1, C-4, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Nicholson–Delhi; Lawrence/Havelock/Neill–Lucknow theatre.
+
+**Logic:** Course-side British casualty geography.
+
+</details>
+
+---
+
+**Q29.** With reference to quiet zones and local risings, which of the following statements is/are correct?
+
+1. Punjab, Madras, Bombay and Hyderabad stayed mostly quiet or loyal.
+2. Auwa in Rajasthan saw a rising under Thakur Kushal Singh.
+3. Jaipur and Chittor were principal all-India rebel capitals under Zafar.
+
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Jaipur/Chittor ≠ centres; Auwa is the Rajasthan fact.
+
+</details>
+
+---
+
+**Q30.** Which of the following pairs is NOT correctly matched?
+
+
+A. Company rule — revolt began under the Company
+
+B. Crown rule — begins with the 1858 settlement
+
+C. Bahadur Shah Zafar — tried and exiled to Rangoon
+
+D. Sahukars / moneylenders — principal all-India rebel high command
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Sahukars and many landlords did not support the Revolt.
+
+**Logic:** Social-support limit inside Cause/Course analysis.
+
+</details>
+
 
 ## Common Traps — Don't Fall For These
 

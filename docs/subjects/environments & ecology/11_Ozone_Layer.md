@@ -419,490 +419,599 @@ D. Carbon credit trading under Kyoto
 
 ## Practice Zone — UPPCS Format Drill
 
-> **30 questionsQ1.** With reference to ozone, which statements is/are correct?
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-1. Stratospheric ozone protects from UV radiation.
-2. Tropospheric ozone is always beneficial.
+**Q1.** With reference to ozone, which of the following statements is/are correct?
 
-A. Only 1
+1. Stratospheric ozone is protective “good” ozone.
+2. Tropospheric ozone is a ground-level pollutant.
+3. About 90% of ozone is tropospheric.
 
-B. Only 2
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. Both 1 and 2
+<details>
+<summary>Show answer</summary>
 
-D. Neither
+**Ans: B.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q2.** With reference to ozone depletion, which statements is/are correct?
-
-1. CFCs are linked to ozone depletion.
-2. One chlorine atom can destroy many ozone molecules.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
+**Logic:** ~90% is stratospheric — statement 3 false.
 
 </details>
 
-**Q3.** Ozone layer is mainly located in:
+**Q2.** Match List-I with List-II:
 
-A. Troposphere
+| List-I | List-II |
+|--------|--------|
+| A. UV-A | 1. Fully blocked |
+| B. UV-B | 2. Reaches surface |
+| C. UV-C | 3. Mostly blocked by ozone |
 
-B. Stratosphere
+Code:
 
-C. Mesosphere
+A. A-2, B-1, C-3
+B. A-3, B-2, C-1
+C. A-2, B-3, C-1
+D. A-1, B-3, C-2
 
-D. Thermosphere
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: C.** A-2, B-3, C-1.
 
-**Ans: B**
-
-</details>
-
-**Q4.** Ozone hole threshold is ozone below:
-
-A. 100 DU
-
-B. 220 DU
-
-C. 300 DU
-
-D. 500 DU
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** UV-A reaches; UV-B mostly blocked; UV-C fully blocked.
 
 </details>
 
-**Q5.** Ozone hole is most prominent over:
+**Q3.** Which of the following pairs is/are NOT correctly matched?
 
-A. Antarctica
+1. Ozone hole — physical cavity in the sky
+2. Ozone hole — column ozone often below 220 DU
+3. 1 DU ≈ 0.01 mm pure ozone at 0°C, 1 atm
 
-B. Arctic
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1 only
 
-C. India
+<details>
+<summary>Show answer</summary>
 
-D. Equator
+**Ans: D.** Only pair 1 is not correctly matched.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q6.** Ozone hole mainly occurs in:
-
-A. Arctic winter
-
-B. Antarctic spring
-
-C. Monsoon season
-
-D. Year-round globally
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Hole is a column-ozone definition — not a physical hole.
 
 </details>
 
-**Q7.** Montreal Protocol was adopted in:
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. 1972
+Assertion (A): The Antarctic ozone hole peaks in Southern Hemisphere spring (September–October).
 
-B. 1985
+Reason (R): Polar stratospheric clouds and the polar vortex enable chlorine/bromine catalytic destruction.
 
-C. 1987
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. 1997
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: D.** Both true and R explains the spring peak chemistry.
 
-**Ans: C**
-
-</details>
-
-**Q8.** Vienna Convention was signed in:
-
-A. 1985
-
-B. 1987
-
-C. 1992
-
-D. 2015
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**A/R logic:** PSC + vortex + ODS chemistry.
 
 </details>
 
-**Q9.** International Ozone Day is:
+**Q5.** Arrange the treaty chain:
 
-A. 5 June
+1. Vienna Convention
+2. Montreal Protocol
+3. Kigali Amendment
 
-B. 16 September
+A. 1-2-3
+B. 2-1-3
+C. 1-3-2
+D. 3-2-1
 
-C. 22 March
+<details>
+<summary>Show answer</summary>
 
-D. 2 February
+**Ans: A.** 1985 → 1987 → 2016.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q10.** Which agreement controls ozone-depleting substances?
-
-A. Kyoto Protocol
-
-B. Montreal Protocol
-
-C. CITES
-
-D. Basel Convention
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Vienna–Montreal–Kigali.
 
 </details>
 
-**Q11.** Which is NOT an ozone-depleting substance?
+**Q6.** With reference to ODS, which of the following statements is/are correct?
 
-A. CFCs
+1. Main ODS include CFCs, Halons, CCl₄, methyl chloroform, methyl bromide, HCFCs.
+2. One chlorine atom can destroy on the order of 100,000 ozone molecules.
+3. HFCs are classic ODS under the original Montreal ODS list.
 
-B. Halons
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. CO₂ under Montreal Annex
+<details>
+<summary>Show answer</summary>
 
-D. Methyl bromide
+**Ans: B.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: C** — CO₂ is a GHG, not classified as ODS under Montreal.
-
-</details>
-
-**Q12.** Rowland and Molina predicted ozone loss from:
-
-A. CO₂
-
-B. CFCs
-
-C. SO₂
-
-D. Methane
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** HFCs are high-GWP gases under Kigali — not classic ODS.
 
 </details>
 
-**Q13.** Kigali Amendment mainly targets:
+**Q7.** Which of the following pairs is/are correctly matched?
 
-A. CFCs
+1. Discovery of Antarctic ozone hole — 1985 Farman–Gardiner–Shanklin (BAS)
+2. International Ozone Day — 16 September
+3. Montreal Protocol — climate Kyoto GHG targets
 
-B. HFCs
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
 
-C. DDT
+<details>
+<summary>Show answer</summary>
 
-D. Mercury
+**Ans: C.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q14.** UV-B is mainly blocked by:
-
-A. Tropospheric dust only
-
-B. Stratospheric ozone
-
-C. Clouds only
-
-D. Nitrogen gas
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Montreal = ozone ODS — not Kyoto climate.
 
 </details>
 
-**Q15.** Ozone hole discovered in:
+**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. 1974
+Assertion (A): Kigali Amendment phases down HFCs.
 
-B. 1985
+Reason (R): HFCs are classic ozone-depleting substances identical to CFCs.
 
-C. 1997
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. 2015
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: C.** A true, R false.
 
-**Ans: B**
-
-</details>
-
-**Q16.** Polar Stratospheric Clouds are key to:
-
-A. Acid rain
-
-B. Antarctic ozone hole chemistry
-
-C. Greenhouse effect
-
-D. El Niño
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**A/R logic:** HFCs are high GWP — not classic ODS.
 
 </details>
 
-**Q17.** India completed CFC production phase-out in:
+**Q9.** With reference to the Chapman cycle, which of the following statements is/are correct?
 
-A. 1992
+1. It describes natural formation/destruction balance of stratospheric ozone.
+2. UV acting on O₂ is central to formation.
+3. It means tropospheric smog is caused only by argon.
 
-B. 2000
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
-C. 2010
+<details>
+<summary>Show answer</summary>
 
-D. 2030
+**Ans: D.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q18.** Dobson Unit measures:
-
-A. Air pressure
-
-B. Total ozone column
-
-C. Rainfall
-
-D. CO₂ ppm
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Statement 3 false.
 
 </details>
 
-**Q19.** Which pair is NOT correctly matched?
+**Q10.** Match List-I with List-II:
 
-A. Montreal — ozone
+| List-I | List-II |
+|--------|--------|
+| A. Montreal | 1. 2016 |
+| B. Vienna | 2. 1987 |
+| C. Kigali | 3. 1985 |
 
-B. Kyoto — climate
+Code:
 
-C. Montreal — climate mitigation
+A. A-2, B-3, C-1
+B. A-3, B-2, C-1
+C. A-2, B-1, C-3
+D. A-1, B-3, C-2
 
-D. Vienna — ozone framework
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: A.** A-2, B-3, C-1.
 
-**Ans: C**
-
-</details>
-
-**Q20.** Global average column ozone is about:
-
-A. 100 DU
-
-B. 220 DU
-
-C. 300 DU
-
-D. 600 DU
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
+**Logic:** Montreal 1987; Vienna 1985; Kigali 2016.
 
 </details>
 
-**Q21.** Assertion (A): Montreal Protocol is considered a successful environmental treaty.
-Reason (R): It achieved near-universal ratification and cut ODS emissions drastically.
+**Q11.** Which one of the following correctly states stratospheric ozone height teaching?
 
-A. Both true; R explains A
+A. Only below 2 km
+B. About 15–30/35 km
+C. Only in the exosphere
+D. Only inside Earth’s core
 
-B. Both true; R not explanation
+<details>
+<summary>Show answer</summary>
 
-C. A true, R false
+**Ans: B.** About 15–30/35 km.
 
-D. A false, R true
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q22.** Bromine from halons is:
-
-A. Less destructive than chlorine
-
-B. More destructive per atom than chlorine
-
-C. Not related to ozone
-
-D. A greenhouse gas only
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Good ozone layer height.
 
 </details>
 
-**Q23.** Tropospheric ozone is mainly formed from:
+**Q12.** With reference to Montreal vs Kyoto/Paris, which of the following statements is/are correct?
 
-A. Chapman cycle only
+1. Montreal addresses ODS / ozone.
+2. Kyoto/Paris address climate GHGs.
+3. The two issue tags may be freely swapped in answers.
 
-B. NOx + VOCs + sunlight
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
 
-C. CFCs directly
+<details>
+<summary>Show answer</summary>
 
-D. Ocean evaporation
+**Ans: C.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q24.** Ozone depletion increases risk of:
-
-A. Skin cancer
-
-B. Tsunami
-
-C. Earthquake
-
-D. Soil salinity only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Never swap ozone vs climate tags.
 
 </details>
 
-**Q25.** Multilateral Fund under Montreal helps:
+**Q13.** Arrange UV types from longest to shortest wavelength teaching:
 
-A. Military aid
+A. UV-C → UV-B → UV-A
+B. UV-A → UV-C → UV-B
+C. UV-B → UV-A → UV-C
+D. UV-A → UV-B → UV-C
 
-B. Developing countries phase out ODS
+<details>
+<summary>Show answer</summary>
 
-C. Space research
+**Ans: D.** UV-A → UV-B → UV-C.
 
-D. Wildlife trade
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q26.** HCFCs are:
-
-A. Not ODS at all
-
-B. Transitional lower-ODP substitutes
-
-C. Same as HFCs
-
-D. Used only in agriculture
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** 315–400; 280–315; 100–280 nm.
 
 </details>
 
-**Q27.** Without natural greenhouse effect Earth would be about −18°C; ozone layer mainly blocks:
+**Q14.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Infrared
+Assertion (A): Montreal achieved near-universal ratification and large ODS cuts from peak levels.
 
-B. Ultraviolet
+Reason (R): International Ozone Day marks the Montreal Protocol (16 September).
 
-C. Radio waves
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. Visible light completely
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: A.** Both true; R commemorates Montreal but does not explain ratification success.
 
-**Ans: B**
-
-</details>
-
-**Q28.** Arctic ozone depletion compared to Antarctic is:
-
-A. More severe every year
-
-B. Less severe and less regular
-
-C. Identical
-
-D. Unrelated to chemistry
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**A/R logic:** Related commemorative fact ≠ explanation of success.
 
 </details>
 
-**Q29.** MoEFCC body for ozone compliance in India:
+**Q15.** Which of the following statements about HCFCs is/are correct?
 
-A. CPCB
+1. They are transitional ODS in teaching lists.
+2. They contain chlorine/bromine ozone risk pathways.
+3. They are identical to nitrogen gas (N₂).
 
-B. Ozone Cell
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. CGWB
+<details>
+<summary>Show answer</summary>
 
-D. NTCA
+**Ans: A.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Not N₂.
 
 </details>
 
-**Q30.** Expected Antarctic ozone recovery to 1980 levels around:
+**Q16.** With reference to NO₂ and ozone, which of the following statements is/are correct?
 
-A. 2020
+1. Stratospheric ozone is regulated in part by NO₂.
+2. About 10% of ozone is tropospheric.
+3. Tropospheric ozone is always beneficial UV shield only.
 
-B. 2040
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. 2066
+<details>
+<summary>Show answer</summary>
 
-D. 2100
+**Ans: B.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
+**Logic:** Tropospheric ozone is a pollutant.
 
-**Ans: C**
+</details>
+
+**Q17.** How many of the following are ODS teaching items?
+
+CFCs, Halon-1211/1301, carbon tetrachloride, methyl bromide, argon
+
+A. Only two
+B. Only three
+C. Only four
+D. All five
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only four.
+
+**Logic:** Argon is not ODS.
+
+</details>
+
+**Q18.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. Ozone Day | 1. Climate GHGs |
+| B. Kyoto/Paris | 2. 16 September |
+| C. Good ozone layer | 3. Stratosphere |
+
+Code:
+
+A. A-3, B-1, C-2
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-2, B-1, C-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** A-2, B-1, C-3.
+
+**Logic:** Ozone Day 16 Sep; Kyoto/Paris climate; good ozone stratosphere.
+
+</details>
+
+**Q19.** Which of the following pairs is/are correctly matched?
+
+1. Fridge coolants — often ODS/halocarbon history teaching
+2. Ammonia — used in many large plants
+3. CFCs — tubeless-tyre production as the main use
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** CFCs not mainly tubeless-tyre production.
+
+</details>
+
+**Q20.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): An ozone hole means column ozone below about 220 DU.
+
+Reason (R): Average column is often cited near about 300 DU.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; average 300 DU does not by itself define the 220 DU hole threshold explanation.
+
+**A/R logic:** Related DU facts; R not the definitional explanation.
+
+</details>
+
+**Q21.** With reference to Montreal force date teaching, which of the following statements is/are correct?
+
+1. Montreal Protocol 16 September 1987.
+2. Entered into force 1 January 1989.
+3. Kigali entered into force 1 January 2019 teaching.
+
+A. 1 and 2 only
+B. 1, 2 and 3
+C. 1 and 3 only
+D. 2 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** All three.
+
+**Logic:** 1987/1989 and Kigali force 2019 teaching.
+
+</details>
+
+**Q22.** Which one of the following is correct about carbon trading vs Montreal?
+
+A. Carbon trading = Montreal ODS phase-out
+B. Montreal sets India’s NDCs
+C. Carbon trading ≠ Montreal; climate markets ≠ ozone treaty
+D. Montreal repealed UNFCCC
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Carbon trading ≠ Montreal.
+
+**Logic:** Issue separation.
+
+</details>
+
+**Q23.** Arrange discovery → Vienna → Montreal:
+
+A. 1987 → 1985 → 1985 discovery
+B. 1972 → 1987 → 1985
+C. 2016 → 1985 → 1987
+D. 1985 discovery → 1985 Vienna → 1987 Montreal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** 1985 discovery & Vienna → 1987 Montreal.
+
+**Logic:** Same-year Vienna + discovery teaching; Montreal 1987.
+
+</details>
+
+**Q24.** With reference to chlorine catalysis, which of the following statements is/are correct?
+
+1. ODS release Cl/Br radicals.
+2. Catalytic cycles destroy ozone.
+3. Ozone absorbs infrared as its main protective role against UV.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Main protective role is UV absorption — not IR.
+
+</details>
+
+**Q25.** Which of the following statements is/are correct?
+
+1. Kent Moore reported Tibetan Plateau ozone thinning teaching in some stems.
+2. Antarctic hole is the classic global teaching case.
+3. Ozone hole peaks in Antarctic midsummer January only always.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Peak is SH spring Sep–Oct.
+
+</details>
+
+**Q26.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Tropospheric ozone is a pollutant.
+
+Reason (R): About 10% of atmospheric ozone is tropospheric.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; share does not explain why it is a pollutant.
+
+**A/R logic:** Definition vs share.
+
+</details>
+
+**Q27.** How many of the following treaty issue tags are correct?
+
+1. Montreal — ozone
+2. Kyoto — climate
+3. Paris — climate
+
+A. Only one
+B. Only two
+C. All three
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All three.
+
+**Logic:** Standard tags.
+
+</details>
+
+**Q28.** With reference to Halons, which of the following statements is/are correct?
+
+1. Halon-1211/1301 appear in ODS lists.
+2. They are bromine/chlorine carriers in fire-fighting history teaching.
+3. Halons are identical to nitrogen fertilizer N₂O only.
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Not N₂O.
+
+</details>
+
+**Q29.** Which of the following pairs is/are NOT correctly matched?
+
+1. Good ozone — stratosphere
+2. Bad ozone — troposphere pollutant
+3. Ozone Day — 22 April
+
+A. 3 only
+B. 1 and 2 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only pair 3 is not correctly matched.
+
+**Logic:** Ozone Day 16 Sep; 22 Apr is Earth Day.
+
+</details>
+
+**Q30.** With reference to Kigali, which of the following statements is/are correct?
+
+1. It is an amendment under the Montreal Protocol family.
+2. It phases down HFCs for climate reasons.
+3. It replaces UNFCCC entirely.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Does not replace UNFCCC.
 
 </details>
 

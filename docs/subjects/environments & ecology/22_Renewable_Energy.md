@@ -830,485 +830,587 @@ D. Always cheaper than petrol with zero land use
 ---
 
 
-## Practice Zone
+## Practice Zone — UPPCS Format Drill
 
-**Q1.** Major constituents of biogas are:
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-A. Methane and CO₂
+**Q1.** With reference to renewable energy, which of the following statements is/are correct?
 
-B. Butane and CO₂
+1. Replenishes on a human timescale — sun, wind, water, biomass, geothermal.
+2. Nuclear is low-carbon but usually not counted as renewable in Indian prelims framing.
+3. Coal is a renewable source.
 
-C. Methane and CO
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-D. Propane and O₂
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: B.** Only 1 and 2.
 
-**Ans: A**
-
-</details>
-
-**Q2.** International Solar Alliance headquarters is in:
-
-A. Paris
-
-B. New Delhi
-
-C. Gurugram
-
-D. Nairobi
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
+**Logic:** Coal is non-renewable.
 
 </details>
 
-**Q3.** National Solar Mission is part of:
+**Q2.** Match List-I with List-II:
 
-A. NAPCC
+| List-I | List-II |
+|--------|--------|
+| A. Solar PV | 1. Mirrors → heat → steam |
+| B. CSP | 2. Direct sunlight → electricity |
+| C. NSM/JNNSM | 3. 2010 under NAPCC |
 
-B. Montreal Protocol
+Code:
 
-C. WPA 1972
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
 
-D. Ramsar Convention
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: C.** A-2, B-1, C-3.
 
-**Ans: A**
-
-</details>
-
-**Q4.** Which state is historically the leading wind power producer in India?
-
-A. Kerala
-
-B. Tamil Nadu
-
-C. Bihar
-
-D. Assam
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** PV/CSP/NSM 2010.
 
 </details>
 
-**Q5.** Wind power output most strongly depends on:
+**Q3.** Which of the following pairs is/are correctly matched?
 
-A. Cube of wind speed
+1. Bhadla — Rajasthan mega solar park
+2. ISA — 2015 India–France COP21; HQ Gurugram
+3. Bhadla — Gujarat as the only correct “largest” lock
 
-B. Humidity alone
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
-C. Air pressure alone
+<details>
+<summary>Show answer</summary>
 
-D. Moon's gravity
+**Ans: D.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q6.** Biogas is produced by:
-
-A. Aerobic respiration
-
-B. Anaerobic digestion
-
-C. Nuclear fission
-
-D. Photovoltaic effect
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Bhadla = Rajasthan — not Gujarat largest trap.
 
 </details>
 
-**Q7.** Bagasse is a biomass source from:
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Sugarcane
+Assertion (A): PM-KUSUM supports farmer solar pumps.
 
-B. Coal
+Reason (R): OSOWOG is One Sun One World One Grid.
 
-C. Petroleum
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. Uranium
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: A.** Both true; OSOWOG does not explain PM-KUSUM.
 
-**Ans: A**
-
-</details>
-
-**Q8.** Geothermal energy is derived from:
-
-A. Sun's radiation
-
-B. Earth's interior heat
-
-C. Moon's gravity
-
-D. Ocean waves only
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**A/R logic:** Two solar policy locks.
 
 </details>
 
-**Q9.** Highest geothermal potential in India is associated with:
+**Q5.** With reference to targets, which of the following statements is/are correct?
 
-A. Puga Valley, Ladakh
+1. ~100 GW solar by 2022 chase teaching.
+2. 500 GW non-fossil capacity by 2030 teaching.
+3. Solar has negligible RE potential in India among common options.
 
-B. Thar Desert surface
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. Sundarbans
+<details>
+<summary>Show answer</summary>
 
-D. Indo-Gangetic alluvium
+**Ans: A.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q10.** Tidal energy is primarily driven by:
-
-A. Solar radiation alone
-
-B. Moon's gravity
-
-C. Earth's magnetic field
-
-D. River sediment
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Solar has greatest RE potential teaching.
 
 </details>
 
-**Q11.** Largest tidal energy potential in India is on:
+**Q6.** Arrange ISA facts:
 
-A. Khambhat Coast
+A. HQ Nairobi; began 1972
+B. Began 2015 COP21; HQ Gurugram
+C. HQ Rome; began 2006
+D. HQ Geneva; began 1988
 
-B. Thar Desert
+<details>
+<summary>Show answer</summary>
 
-C. Himalayan rivers
+**Ans: B.** 2015; Gurugram.
 
-D. Kerala backwaters only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q12.** MNRE classifies small hydro as:
-
-A. ≤10 MW
-
-B. ≤25 MW
-
-C. ≤50 MW
-
-D. ≤100 MW
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** ISA lock.
 
 </details>
 
-**Q13.** Ramganga hydropower project is located in:
+**Q7.** Which of the following pairs is/are NOT correctly matched?
 
-A. Garhwal, Uttarakhand
+1. Cochin airport — world’s first fully solar-powered airport teaching
+2. Diu — first Indian UT/smart city 100% solar daytime teaching
+3. DCR — means only imported PV mandatory
 
-B. Sundarbans
+A. 1 and 2 only
+B. 2 and 3 only
+C. 3 only
+D. 1, 2 and 3
 
-C. Thar
+<details>
+<summary>Show answer</summary>
 
-D. Nicobar
+**Ans: C.** Only pair 3 is not correctly matched.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q14.** Himalayan hydro potential statement — which is correct?
-
-A. Himalaya has enormous hydro potential
-
-B. India has zero Himalayan hydro
-
-C. All Himalayas are in Nepal
-
-D. Hydro is non-renewable
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** DCR = domestic content mandate.
 
 </details>
 
-**Q15.** Green hydrogen is produced by:
+**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Coal burning
+Assertion (A): Wind power roughly scales with the cube of wind speed.
 
-B. Water electrolysis with renewable power
+Reason (R): Leading wind states include Tamil Nadu and Gujarat teaching.
 
-C. Natural gas without capture
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. Diesel generators
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: A.** Both true; state leadership does not explain the cube law.
 
-**Ans: B**
-
-</details>
-
-**Q16.** National Green Hydrogen Mission target by 2030:
-
-A. 5 MMT/year
-
-B. 50 MMT/year
-
-C. 500 GW
-
-D. 5 GW solar only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**A/R logic:** Physics vs geography.
 
 </details>
 
-**Q17.** Grey hydrogen is mainly produced from:
+**Q9.** With reference to biogas, which of the following statements is/are correct?
 
-A. Renewable electrolysis
+1. From anaerobic digestion.
+2. Major constituents CH₄ + CO₂.
+3. Major pair is butane + carbon monoxide only.
 
-B. Natural gas reforming
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
-C. Tidal barrages
+<details>
+<summary>Show answer</summary>
 
-D. Wind turbines
+**Ans: D.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q18.** Which is NOT ultimately derived from the Sun's energy?
-
-A. Biomass
-
-B. Wind
-
-C. Geothermal
-
-D. Both biomass and wind
-
-<details><summary>Show answer</summary>
-
-**Ans: C** — Geothermal = Earth's internal heat. (Nuclear is also non-solar when listed.)
+**Logic:** Not butane/CO major pair.
 
 </details>
 
-**Q19.** First airport in India fully powered by solar energy:
+**Q10.** Match List-I with List-II:
 
-A. Cochin
+| List-I | List-II |
+|--------|--------|
+| A. Tidal | 1. ≤25 MW MNRE |
+| B. SHP | 2. Moon-driven sea level |
+| C. Geothermal India | 3. Himalaya, Cambay, West Coast, SONATA… |
 
-B. Chennai
+Code:
 
-C. Ahmedabad
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
 
-D. Lucknow
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: A.** A-2, B-1, C-3.
 
-**Ans: A**
-
-</details>
-
-**Q20.** Solar energy is converted to electricity through:
-
-A. Photovoltaic cells
-
-B. Dry cells only
-
-C. Tidal barrages
-
-D. Geothermal wells
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Tidal/SHP/geothermal.
 
 </details>
 
-**Q21.** PM-KUSUM primarily promotes:
+**Q11.** Arrange tidal potential India teaching:
 
-A. Coal washing
+A. Only Ganga plains
+B. Gulf of Khambhat → Gulf of Kutch best potential teaching
+C. Only Ladakh lakes
+D. Only Chilika as tidal barrage capital
 
-B. Solar pumps for farmers
+<details>
+<summary>Show answer</summary>
 
-C. Diesel subsidies
+**Ans: B.** Khambhat then Kutch.
 
-D. Nuclear fusion
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q22.** MISHTI is mangroves — SATAT relates to:
-
-A. Bio-CNG from biomass
-
-B. Solar airports
-
-C. Tidal power
-
-D. Grey hydrogen
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Tidal geography.
 
 </details>
 
-**Q23.** 500 GW non-fossil capacity by 2030 includes:
+**Q12.** With reference to biomass policy neighbours, which of the following statements is/are correct?
 
-A. Only solar
+1. Bagasse cogeneration.
+2. GOBAR-Dhan.
+3. SATAT (bio-CNG).
 
-B. Solar, wind, hydro, nuclear, biomass
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 3 only
 
-C. Only coal
+<details>
+<summary>Show answer</summary>
 
-D. Only oil
+**Ans: C.** All three.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q24.** Consider: (1) ISA OSOWOG promotes cross-border solar grid. (2) ISA has exactly 38 members forever.
-
-A. Only 1
-
-B. Only 2
-
-C. Both
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Biomass policy cluster.
 
 </details>
 
-**Q25.** Consider hydro in North India: (1) Himalaya has enormous hydro potential. (2) Nepal border means zero Indian hydro development.
+**Q13.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Only 1
+Assertion (A): Small hydro under MNRE is ≤25 MW.
 
-B. Only 2
+Reason (R): Above that is treated as large hydro in Indian classification teaching.
 
-C. Both
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. Neither
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: D.** Both true and R explains the SHP cut-off.
 
-**Ans: A**
-
-</details>
-
-**Q26.** Tidal energy differs from wave energy because tidal is driven by:
-
-A. Wind on sea surface
-
-B. Moon's gravity
-
-C. River flow
-
-D. Solar PV
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**A/R logic:** ≤25 MW rule.
 
 </details>
 
-**Q27.** Ramganga project hydropower capacity is approximately:
+**Q14.** Which one of the following correctly states geothermal energy?
 
-A. 19.8 MW
+A. Only nuclear fission
+B. Only solar PV panels
+C. Only wind turbines
+D. Earth’s internal heat
 
-B. 198 MW
+<details>
+<summary>Show answer</summary>
 
-C. 1980 MW
+**Ans: D.** Earth’s internal heat.
 
-D. 19,800 MW
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q28.** National Green Hydrogen Mission was launched in:
-
-A. 2010
-
-B. 2019
-
-C. 2023
-
-D. 2008
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
+**Logic:** Geothermal definition.
 
 </details>
 
-**Q29.** Which is NOT a biomass energy source?
+**Q15.** How many of the following are renewable in standard lists?
 
-A. Wood
+Sun, wind, biomass, geothermal, coal
 
-B. Gobar (dung)
+A. Only four
+B. Only three
+C. Only two
+D. All five
 
-C. Coal
+<details>
+<summary>Show answer</summary>
 
-D. Bagasse
+**Ans: A.** Only four.
 
-<details><summary>Show answer</summary>
-
-**Ans: C** — Coal is fossil fuel. (Nuclear also not biomass — 2022 Q69 pattern.)
+**Logic:** Coal out.
 
 </details>
 
-**Q30.** CSP differs from PV because CSP:
+**Q16.** With reference to OTEC, which of the following statements is/are correct?
 
-A. Uses mirrors to heat fluid for steam turbine
+1. Uses temperature difference between warm surface and cold deep water.
+2. Not the same as tidal barrage power.
+3. Identical to PM-KUSUM pumps.
 
-B. Has no heat component
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. Works only at night
+<details>
+<summary>Show answer</summary>
 
-D. Uses Moon's gravity
+**Ans: B.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
+**Logic:** OTEC ≠ KUSUM.
 
-**Ans: A**
+</details>
+
+**Q17.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. ISA | 1. Farmer solar pumps |
+| B. PM-KUSUM | 2. Gurugram HQ |
+| C. Bhadla | 3. Rajasthan |
+
+Code:
+
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A-2, B-1, C-3.
+
+**Logic:** ISA/KUSUM/Bhadla.
+
+</details>
+
+**Q18.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): DCR means mandating domestically manufactured PV cells/modules.
+
+Reason (R): DCR means banning all solar generation in India.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true, R false.
+
+**A/R logic:** Domestic content — not ban.
+
+</details>
+
+**Q19.** Which of the following pairs is/are correctly matched?
+
+1. Wind leaders — TN, Gujarat teaching
+2. Solar greatest RE potential among common options
+3. Nuclear — always counted as renewable in Indian prelims
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Nuclear usually not renewable.
+
+</details>
+
+**Q20.** Arrange NAPCC solar mission start:
+
+A. 2010 (JNNSM)
+B. 2023 only
+C. 1972
+D. 2006
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** 2010.
+
+**Logic:** NSM/JNNSM.
+
+</details>
+
+**Q21.** With reference to ocean energy, which of the following statements is/are correct?
+
+1. Wider set includes wave, OTEC, tidal.
+2. Tidal is Moon-driven.
+3. Ocean energy means only coal offshore platforms.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Not coal platforms.
+
+</details>
+
+**Q22.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Himalayan streams hold large SHP potential teaching.
+
+Reason (R): SHP under MNRE is ≤25 MW.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; MW cut-off does not explain Himalayan potential geography.
+
+**A/R logic:** Potential vs definition.
+
+</details>
+
+**Q23.** Which one of the following is correct about CSP?
+
+A. Direct PV only without heat
+B. Only biogas digesters
+C. Concentrating Solar Power — mirrors to heat then turbines
+D. Only geothermal wells
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Mirrors → heat → steam/turbines.
+
+**Logic:** CSP vs PV.
+
+</details>
+
+**Q24.** How many of the following ISA locks are correct?
+
+2015 start; India–France COP21; HQ Gurugram
+
+A. Only one
+B. Only two
+C. None
+D. All three
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three.
+
+**Logic:** ISA trio.
+
+</details>
+
+**Q25.** With reference to SATAT, which of the following statements is/are correct?
+
+1. Bio-CNG neighbourhood.
+2. Biomass/policy neighbour of GOBAR-Dhan.
+3. Identical to Project Tiger.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Not Project Tiger.
+
+</details>
+
+**Q26.** Which of the following pairs is/are correctly matched?
+
+1. Geothermal provinces — Himalaya/Cambay/West Coast/SONATA teaching
+2. Bagasse — sugar industry cogeneration
+3. Wind power — independent of wind speed
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Power ∝ speed³.
+
+</details>
+
+**Q27.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): 500 GW non-fossil by 2030 is a standard teaching target.
+
+Reason (R): It is the same as India’s net-zero year 2070.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true, R false.
+
+**A/R logic:** Capacity target ≠ net-zero year.
+
+</details>
+
+**Q28.** Arrange Cochin / Diu solar firsts teaching:
+
+A. Both false always
+B. Both are coal plants
+C. Cochin airport fully solar first teaching; Diu UT/smart city solar first teaching
+D. Both are nuclear only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Cochin + Diu firsts.
+
+**Logic:** Solar firsts.
+
+</details>
+
+**Q29.** With reference to large vs small hydro, which of the following statements is/are correct?
+
+1. SHP ≤25 MW under MNRE.
+2. Large hydro sits on conventional side in many Indian classifications.
+3. All hydro below 1000 MW is solar PV.
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Statement 3 false.
+
+</details>
+
+**Q30.** Which one of the following best states India’s mega solar-park fact among common options?
+
+A. Bhadla, Rajasthan
+B. Only Antarctica
+C. Only Greenland ice
+D. Only Nicobar coral
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Bhadla, Rajasthan.
+
+**Logic:** Not Gujarat largest trap.
 
 </details>
 

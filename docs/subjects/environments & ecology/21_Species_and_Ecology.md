@@ -676,485 +676,592 @@ D. Deep-sea anglerfish only
 
 ---
 
-## Practice Zone
+## Practice Zone — UPPCS Format Drill
 
-**Q1.** Red Data Book of Indian plants is published by:
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-A. ZSI
+**Q1.** With reference to Red Data sources, which of the following statements is/are correct?
 
-B. BSI
+1. India’s Red Data Book — BSI plants, ZSI animals (Kolkata).
+2. IUCN Red List is the global extinction-risk catalogue.
+3. BSI publishes the IUCN Red List for the whole world.
 
-C. IUCN
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-D. WII
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: B.** Only 1 and 2.
 
-**Ans: B**
-
-</details>
-
-**Q2.** Red Data Book of Indian animals is published by:
-
-A. BSI
-
-B. ZSI
-
-C. IUCN
-
-D. MoEFCC
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** IUCN is global — not BSI’s world list.
 
 </details>
 
-**Q3.** Threatened species in IUCN terms include:
+**Q2.** Which of the following pairs is/are correctly matched?
 
-A. LC, NT, VU
+1. Threatened — VU + EN + CR
+2. Endangered alone — full Threatened set
+3. Risk order — CR > EN > VU among living threatened tiers
 
-B. VU, EN, CR
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. EX, EW
+<details>
+<summary>Show answer</summary>
 
-D. DD, NE
+**Ans: C.** Only 1 and 3.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q4.** Correct IUCN risk hierarchy (highest first among threatened):
-
-A. EN > CR > VU
-
-B. CR > EN > VU
-
-C. VU > EN > CR
-
-D. CR > VU > EN
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Endangered ≠ all Threatened.
 
 </details>
 
-**Q5.** Extinct in the Wild (EW) means:
+**Q3.** Match List-I with List-II:
 
-A. Completely extinct
+| List-I | List-II |
+|--------|--------|
+| A. IUCN | 1. Wildlife trade |
+| B. CITES | 2. Extinction risk |
+| C. Ramsar | 3. Wetlands / Wise Use |
 
-B. Survives only in captivity/cultivation
+Code:
 
-C. Abundant
+A. A-3, B-1, C-2
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-2, B-1, C-3
 
-D. Data insufficient
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: D.** A-2, B-1, C-3.
 
-**Ans: B**
-
-</details>
-
-**Q6.** IUCN Red List is prepared by:
-
-A. CITES
-
-B. IUCN
-
-C. WWF
-
-D. UNEP
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Risk / trade / wetlands.
 
 </details>
 
-**Q7.** World Wetlands Day is observed on:
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. 2 February
+Assertion (A): Rudrasagar is in Tripura and Sultanpur is in Haryana.
 
-B. 22 March
+Reason (R): Both are Uttar Pradesh Ramsar sites.
 
-C. 5 June
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. 16 September
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: C.** A true, R false.
 
-**Ans: A**
-
-</details>
-
-**Q8.** Ramsar Convention relates to:
-
-A. Wetlands
-
-B. Ozone
-
-C. Climate change
-
-D. Desertification
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**A/R logic:** Neither is a UP Ramsar site.
 
 </details>
 
-**Q9.** Which Ramsar site is NOT in Uttar Pradesh?
+**Q5.** With reference to mangroves, which of the following statements is/are correct?
 
-A. Sarsai Nawar
+1. Salt-tolerant coastal forests with pneumatophores.
+2. Often viviparous seeds.
+3. Sundarbans is a coral-reef hotspot identical to Lakshadweep atolls.
 
-B. Samaspur
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. Rudrasagar Lake
+<details>
+<summary>Show answer</summary>
 
-D. Nawabganj
+**Ans: A.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: C** — Rudrasagar = **Tripura**.
-
-</details>
-
-**Q10.** Sultanpur National Park (Ramsar) is in:
-
-A. Uttar Pradesh
-
-B. Haryana
-
-C. Rajasthan
-
-D. Delhi
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Sundarbans = mangroves — not coral list.
 
 </details>
 
-**Q11.** MISHTI aims to:
+**Q6.** Arrange MISHTI year trap:
 
-A. Restore coral reefs only
+A. 2019 mangrove mission
+B. Union Budget 2023–24 mangrove push
+C. 1972 Stockholm statute
+D. 2006 FRA title
 
-B. Restore mangrove forests
+<details>
+<summary>Show answer</summary>
 
-C. Protect alpine meadows
+**Ans: B.** Budget 2023–24.
 
-D. Ban wetland drainage
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q12.** MISHTI was announced in:
-
-A. 2019
-
-B. 2021
-
-C. 2023-24 Union Budget
-
-D. 2015
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
+**Logic:** Not 2019.
 
 </details>
 
-**Q13.** Pneumatophores are found in:
+**Q7.** Which of the following coral belts is/are correctly listed for India?
 
-A. Mangroves
+1. Gulf of Mannar
+2. Lakshadweep
+3. Andaman & Nicobar
+4. Gulf of Kutch
 
-B. Grasslands
+A. 1 and 2 only
+B. 1, 2 and 3 only
+C. 1, 2, 3 and 4
+D. 2, 3 and 4 only
 
-C. Coral
+<details>
+<summary>Show answer</summary>
 
-D. Alpine meadows
+**Ans: C.** All four.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q14.** Largest mangrove forest in the world:
-
-A. Pichavaram
-
-B. Sundarbans
-
-C. Bhitar Kanika
-
-D. Gulf of Kutch
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Standard India coral set.
 
 </details>
 
-**Q15.** Zooxanthellae are associated with:
+**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Corals
+Assertion (A): Coral bleaching is linked to heat stress expelling zooxanthellae.
 
-B. Mangroves
+Reason (R): Corals are built from calcium-carbonate skeletons with symbiotic zooxanthellae.
 
-C. Grasslands
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. Wetlands
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: D.** Both true and R supplies the biology behind bleaching.
 
-**Ans: A**
-
-</details>
-
-**Q16.** Andaman coral bleaching (2024 pattern) was linked to:
-
-A. −4°C cooling
-
-B. +2°C Indian Ocean warming
-
-C. Freshwater flood
-
-D. Ozone depletion
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**A/R logic:** Symbiosis + heat stress.
 
 </details>
 
-**Q17.** India's first marine biosphere reserve with coral reefs:
+**Q9.** With reference to UP Ramsar examples, which of the following statements is/are correct?
 
-A. Gulf of Mannar
+1. Sarsai Nawar, Samaspur, Nawabganj, Upper Ganga, Bakhira, Haiderpur appear in teaching lists.
+2. Sultanpur is a UP Ramsar site.
+3. World Wetlands Day is 2 February.
 
-B. Thar Desert
+A. 1, 2 and 3
+B. 1 and 2 only
+C. 2 and 3 only
+D. 1 and 3 only
 
-C. Dudhwa
+<details>
+<summary>Show answer</summary>
 
-D. Keoladeo
+**Ans: D.** Only 1 and 3.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q18.** Barasingha (swamp deer) is associated with:
-
-A. Terai grassland
-
-B. Mangrove
-
-C. Coral reef
-
-D. Desert
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Sultanpur = Haryana.
 
 </details>
 
-**Q19.** Dudhwa NP primarily protects:
+**Q10.** Match List-I with List-II:
 
-A. Mangrove
+| List-I | List-II |
+|--------|--------|
+| A. Gangetic dolphin | 1. High Himalaya |
+| B. Snow leopard | 2. Freshwater river dolphin |
+| C. Barasingha | 3. Dudhwa Terai teaching |
 
-B. Terai grassland-forest
+Code:
 
-C. Coral reef
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
 
-D. Alpine meadow
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: A.** A-2, B-1, C-3.
 
-**Ans: B**
-
-</details>
-
-**Q20.** Kaziranga is famous for:
-
-A. Coral
-
-B. Floodplain grassland rhino habitat
-
-C. Mangrove tiger
-
-D. Snow leopard
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** River dolphin / Himalaya / Dudhwa.
 
 </details>
 
-**Q21.** Himalayan vegetation varies mainly because:
+**Q11.** Arrange IUCN nine categories memory idea:
 
-A. Soil colour changes
+A. Only three categories exist
+B. EX EW CR EN VU NT LC DD NE
+C. Only Threatened = all nine equally
+D. Only LC and NE
 
-B. Climate varies with altitude
+<details>
+<summary>Show answer</summary>
 
-C. Only human planting
+**Ans: B.** Nine categories including EX…NE.
 
-D. Ocean currents
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q22.** Snow leopard is found in:
-
-A. Terai
-
-B. High Himalayan zone
-
-C. Sundarbans
-
-D. Thar
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Full IUCN set.
 
 </details>
 
-**Q23.** Most productive marine zone for fisheries:
+**Q12.** With reference to grasslands, which of the following statements is/are correct?
 
-A. Open deep ocean
+1. Grass-dominated; maintained by fire and grazing.
+2. UP Terai is a foothill grassland–forest mosaic.
+3. Dudhwa holds barasingha teaching.
 
-B. Neritic continental shelf
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 3 only
 
-C. Aphotic trench
+<details>
+<summary>Show answer</summary>
 
-D. Freshwater lake
+**Ans: C.** All three.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q24.** Gangetic dolphin is:
-
-A. Marine mammal
-
-B. Freshwater river mammal
-
-C. Mangrove reptile
-
-D. Grassland bird
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Terai grassland facts.
 
 </details>
 
-**Q25.** Red Data Book differs from IUCN Red List because Red Data Book is:
+**Q13.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Global and legally binding
+Assertion (A): Marine neritic shelf waters are the highest fisheries-productivity zone teaching.
 
-B. National species documentation
+Reason (R): Pelagic means open ocean.
 
-C. Only for marine species
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. Published by CITES
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: A.** Both true; pelagic definition does not explain neritic productivity.
 
-**Ans: B**
-
-</details>
-
-**Q26.** Consider: (1) IUCN assesses extinction risk. (2) CITES and IUCN perform the same function.
-
-A. Only 1
-
-B. Only 2
-
-C. Both
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**A/R logic:** Neritic vs pelagic.
 
 </details>
 
-**Q27.** Rhizophora is a:
+**Q14.** Which of the following pairs is/are NOT correctly matched?
 
-A. Mangrove genus
+1. Himalayan vegetation — altitude belts tropical→…→nival
+2. India’s coast — about 7516 km teaching
+3. Gangetic dolphin — marine open-ocean whale
 
-B. Coral polyp
+A. 1 and 2 only
+B. 1, 2 and 3
+C. 2 and 3 only
+D. 3 only
 
-C. Grassland grass
+<details>
+<summary>Show answer</summary>
 
-D. Himalayan conifer
+**Ans: D.** Only pair 3 is not correctly matched.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q28.** Which statement is true?
-
-A. Mangroves reduce cyclone impact
-
-B. India has no Ramsar sites
-
-C. Coral bleaching is caused by cooling
-
-D. BSI publishes animal Red Data Book
-
-<details><summary>Show answer</summary>
-
-**Ans: A** — 2018 stmt pattern (mangroves + cyclones).
+**Logic:** Freshwater river dolphin.
 
 </details>
 
-**Q29.** Valley of Flowers NP is in:
+**Q15.** How many of the following UP negative locks are correct?
 
-A. Himachal
+Rudrasagar≠UP; Sultanpur≠UP; dolphin≠marine open ocean
 
-B. Uttarakhand
+A. All three
+B. Only two
+C. Only one
+D. None
 
-C. Sikkim
+<details>
+<summary>Show answer</summary>
 
-D. UP
+**Ans: A.** All three.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Trap trio.
 
 </details>
 
-**Q30.** India coastline length is approximately:
+**Q16.** With reference to Ramsar 1971, which of the following statements is/are correct?
 
-A. 3,000 km
+1. Wetlands of international importance.
+2. Wise Use idea.
+3. Identical to CITES Appendices.
 
-B. 5,000 km
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. 7,516 km
+<details>
+<summary>Show answer</summary>
 
-D. 12,000 km
+**Ans: B.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
+**Logic:** Ramsar ≠ CITES.
 
-**Ans: C**
+</details>
+
+**Q17.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. MISHTI | 1. 2 February |
+| B. Wetlands Day | 2. Budget 2023–24 |
+| C. Coral bleaching | 3. Warming / zooxanthellae loss |
+
+Code:
+
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A-2, B-1, C-3.
+
+**Logic:** MISHTI/Wetlands Day/bleaching.
+
+</details>
+
+**Q18.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): IUCN assesses extinction risk.
+
+Reason (R): CITES regulates international wildlife trade — different institutions, different jobs.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R clarifies the separation.
+
+**A/R logic:** Risk vs trade.
+
+</details>
+
+**Q19.** Which one of the following correctly states LC on IUCN?
+
+A. Not Evaluated identical to CR
+B. Critically Endangered
+C. Extinct in Wild only
+D. Least Concern
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Least Concern.
+
+**Logic:** LC ≠ CR.
+
+</details>
+
+**Q20.** With reference to altitude belts, which of the following statements is/are correct?
+
+1. Tropical → subtropical → temperate → alpine → nival.
+2. Snow leopard is high Himalaya.
+3. Snow leopard is a Dudhwa Terai plains endemic only.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Not Dudhwa plains endemic.
+
+</details>
+
+**Q21.** Arrange Wetlands Day / Wildlife Day trap:
+
+A. Both 22 March
+B. Wetlands 2 Feb; Wildlife 3 March
+C. Both 5 June
+D. Both 16 September
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** 2 Feb / 3 March.
+
+**Logic:** Do not put Wildlife on 22 March.
+
+</details>
+
+**Q22.** Which of the following statements about pneumatophores is/are correct?
+
+1. Associated with mangroves.
+2. Help in gaseous exchange in waterlogged soils.
+3. Prove a site is a desert dune only.
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Mangrove adaptation.
+
+</details>
+
+**Q23.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): India’s coast length is often taught near 7516 km.
+
+Reason (R): Neritic waters over the shelf are high fisheries-productivity zones.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; productivity does not explain the coast-length figure.
+
+**A/R logic:** Two marine locks.
+
+</details>
+
+**Q24.** How many of the following are IUCN Threatened tiers?
+
+VU, EN, CR, LC
+
+A. Only one
+B. Only two
+C. All four
+D. Only three
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only three.
+
+**Logic:** LC is not Threatened.
+
+</details>
+
+**Q25.** With reference to Haiderpur/Bakhira teaching, which of the following statements is/are correct?
+
+1. They appear among UP Ramsar examples.
+2. They prove UP has marine national parks.
+3. They are wetland sites.
+
+A. 1 and 3 only
+B. 1 and 2 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 3.
+
+**Logic:** UP landlocked — no marine NPs.
+
+</details>
+
+**Q26.** Which of the following pairs is/are correctly matched?
+
+1. EX — Extinct
+2. EW — Extinct in the Wild
+3. DD — Data Deficient
+
+A. 1 and 2 only
+B. 1, 2 and 3
+C. 1 and 3 only
+D. 2 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** All three.
+
+**Logic:** Category expansions.
+
+</details>
+
+**Q27.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): MISHTI should not be dated as 2019.
+
+Reason (R): It is a Budget 2023–24 mangrove initiative.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R explains the year trap.
+
+**A/R logic:** 2023–24 not 2019.
+
+</details>
+
+**Q28.** With reference to viviparous mangrove seeds, which of the following statements is/are correct?
+
+1. Seeds may germinate while still on the parent plant teaching.
+2. Helps establishment in tidal habitats.
+3. Means mangroves are identical to alpine conifers only.
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Not alpine conifers.
+
+</details>
+
+**Q29.** Arrange risk severity among CR/EN/VU:
+
+A. VU > EN > CR
+B. All equal always
+C. EN > CR > VU
+D. CR > EN > VU
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** CR > EN > VU.
+
+**Logic:** Living threatened order.
+
+</details>
+
+**Q30.** Which one of the following correctly separates IUCN and CITES?
+
+A. IUCN risk assessment; CITES trade regulation
+B. Same job; same appendices only
+C. Both set India’s NDCs
+D. Both publish ISFR
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Risk vs trade.
+
+**Logic:** Different jobs.
 
 </details>
 

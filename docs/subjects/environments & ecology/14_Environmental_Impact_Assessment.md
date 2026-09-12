@@ -365,483 +365,595 @@ D. CFC phase-out schedules
 
 ## Practice Zone — UPPCS Format Drill
 
-> **30 questionsQ1.** EIA is primarily conducted:
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-A. After project completion
+**Q1.** With reference to EIA, which of the following statements is/are correct?
 
-B. Before project approval
+1. EIA studies likely environmental effects before approval.
+2. Aim is anticipatory prevention, not reactive cleanup.
+3. EIA is only done after project completion always.
 
-C. Only during operation
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-D. Only for mining
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: B.** Only 1 and 2.
 
-**Ans: B**
-
-</details>
-
-**Q2.** Legal base for EIA Notification in India is:
-
-A. Water Act 1974
-
-B. Air Act 1981
-
-C. EPA 1986
-
-D. Wildlife Act 1972
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
+**Logic:** Before approval — not after only.
 
 </details>
 
-**Q3.** Current EIA framework is mainly under Notification of:
+**Q2.** Which of the following pairs is/are correctly matched?
 
-A. 1972
+1. Legal base — EPA 1986 (Section 3)
+2. First EIA Notification — 1994
+3. Current framework — EIA Notification 2006 teaching
 
-B. 1994
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 3 only
 
-C. 2006
+<details>
+<summary>Show answer</summary>
 
-D. 2015
+**Ans: C.** All three.
 
-<details><summary>Show answer</summary>
-
-**Ans: C** — First was 1994; current is **2006**.
-
-</details>
-
-**Q4.** Category A projects are appraised by:
-
-A. SEIAA
-
-B. MoEFCC through EAC
-
-C. CPCB
-
-D. NGT directly
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** EPA → 1994 → 2006 frame.
 
 </details>
 
-**Q5.** Category B projects are appraised by:
+**Q3.** Match List-I with List-II:
 
-A. SEIAA
+| List-I | List-II |
+|--------|--------|
+| A. Category A | 1. SEIAA / SEAC |
+| B. Category B | 2. MoEFCC / EAC |
+| C. B1 | 3. Full EIA (usually with public hearing) |
 
-B. RBI
+Code:
 
-C. UPSC
+A. A-3, B-1, C-2
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-2, B-1, C-3
 
-D. NHRC
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: D.** A-2, B-1, C-3.
 
-**Ans: A**
-
-</details>
-
-**Q6.** Screening stage applies to:
-
-A. All projects
-
-B. Category B only
-
-C. Category A only
-
-D. No projects
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** A central; B state; B1 full EIA.
 
 </details>
 
-**Q7.** B1 category requires:
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. No clearance
+Assertion (A): Under a General Condition, a Category B project in a sensitive area is treated as Category A.
 
-B. Full EIA report
+Reason (R): Category A is appraised centrally by MoEFCC through the EAC.
 
-C. Only forest clearance
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. Only CRZ clearance
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: A.** Both true; central appraisal fact does not by itself define the General Condition rule.
 
-**Ans: B**
-
-</details>
-
-**Q8.** Terms of Reference (ToR) are fixed at:
-
-A. Screening
-
-B. Scoping
-
-C. Appraisal only
-
-D. Post-construction
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**A/R logic:** Related but GC has its own trigger.
 
 </details>
 
-**Q9.** Public hearing occurs in:
+**Q5.** Arrange EIA stages:
 
-A. Public Consultation stage
+A. Screening → scoping → public consultation → appraisal
+B. Appraisal → screening → scoping → public consultation
+C. Public consultation → screening → appraisal → scoping
+D. Scoping → appraisal → screening → public consultation
 
-B. Only after project closure
+<details>
+<summary>Show answer</summary>
 
-C. NGT only
+**Ans: A.** Screening → scoping → public consultation → appraisal.
 
-D. Never for Category A
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q10.** CPCB's role in EIA is:
-
-A. Grants EC
-
-B. Sets pollution standards — not EC authority
-
-C. Hears all appeals
-
-D. Fixes ToR
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Four classic stages.
 
 </details>
 
-**Q11.** Appeals against EC commonly go to:
+**Q6.** With reference to screening, which of the following statements is/are correct?
 
-A. NGT
+1. Screening applies to Category B only.
+2. Scoping fixes Terms of Reference (ToR).
+3. Screening applies to every Category A project as the first statutory filter identical to B.
 
-B. Election Commission
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. Finance Commission
+<details>
+<summary>Show answer</summary>
 
-D. UPSC
+**Ans: B.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q12.** NGT was established under Act of:
-
-A. 2005
-
-B. 2010
-
-C. 1986
-
-D. 1974
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Screening is B-side teaching.
 
 </details>
 
-**Q13.** PARIVESH is:
+**Q7.** Which of the following pairs is/are NOT correctly matched?
 
-A. Wildlife sanctuary
+1. EAC/SEAC — recommend
+2. MoEFCC/SEIAA — grant EC
+3. CPCB — grants Environmental Clearance
 
-B. Online EC portal
+A. 1 and 2 only
+B. 2 and 3 only
+C. 3 only
+D. 1, 2 and 3
 
-C. River project
+<details>
+<summary>Show answer</summary>
 
-D. Ozone treaty
+**Ans: C.** Only pair 3 is not correctly matched.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q14.** Environmental Clearance must be obtained:
-
-A. After construction starts
-
-B. Before construction/land prep
-
-C. Never for highways
-
-D. Only from CPCB
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** CPCB does not grant EC.
 
 </details>
 
-**Q15.** General Condition can elevate:
+**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Category A to B
+Assertion (A): Rapid EIA uses one season; comprehensive EIA covers all seasons.
 
-B. Category B to A in sensitive areas
+Reason (R): EMP is part of the EIA report package.
 
-C. SEA to EIA
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. NGT to Supreme Court
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: A.** Both true; EMP presence does not explain rapid vs comprehensive seasons.
 
-**Ans: B**
-
-</details>
-
-**Q16.** EMP in EIA stands for:
-
-A. Environmental Management Plan
-
-B. Emergency Military Plan
-
-C. Economic Mineral Policy
-
-D. Export Market Programme
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**A/R logic:** Related report facts.
 
 </details>
 
-**Q17.** SEA applies at level of:
+**Q9.** With reference to B1 vs B2, which of the following statements is/are correct?
 
-A. Individual factory only
+1. B1 needs full EIA (usually with public hearing).
+2. B2 is simplified.
+3. B2 always requires a full multi-season EIA identical to B1.
 
-B. Policies, plans, programmes
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
-C. Single tree plantation
+<details>
+<summary>Show answer</summary>
 
-D. Household waste only
+**Ans: D.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q18.** SEA is ______ EIA in decision hierarchy.
-
-A. Downstream of
-
-B. Upstream of
-
-C. Unrelated to
-
-D. Identical to
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** B2 simplified.
 
 </details>
 
-**Q19.** India has standalone mandatory SEA law:
+**Q10.** Match List-I with List-II:
 
-A. Yes, since 1972
+| List-I | List-II |
+|--------|--------|
+| A. NGT | 1. MoEFCC online EC portal |
+| B. PARIVESH | 2. Act 2010; EC/pollution appeals |
+| C. SEA | 3. Policies/plans/programmes upstream |
 
-B. No — project EIA only
+Code:
 
-C. Yes, same as Montreal Protocol
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
 
-D. Yes, under Water Act
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: A.** A-2, B-1, C-3.
 
-**Ans: B**
-
-</details>
-
-**Q20.** SEA Protocol under UNECE was signed at:
-
-A. Rio 1992
-
-B. Kiev 2003
-
-C. Paris 2015
-
-D. Montreal 1987
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** NGT 2010; PARIVESH portal; SEA upstream.
 
 </details>
 
-**Q21.** Rio Principle 17 relates to:
+**Q11.** With reference to SEA, which of the following statements is/are correct?
 
-A. Project EIA
+1. SEA assesses policies, plans, and programmes.
+2. India has project-level EIA law but no standalone SEA statute.
+3. SEA is identical to Consent to Operate under Air Act.
 
-B. Whaling
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. Ozone
+<details>
+<summary>Show answer</summary>
 
-D. Desertification only
+**Ans: B.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q22.** EIA is mandatory for:
-
-A. All activities in India
-
-B. Listed projects in EIA Schedule
-
-C. Only foreign projects
-
-D. Only agriculture
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** SEA ≠ CTO.
 
 </details>
 
-**Q23.** Which pair is correctly matched?
+**Q12.** Arrange Notification chronology teaching:
 
-A. EAC — central expert appraisal
+A. 2006 → 1994 → EPA 1986
+B. 1994 → EPA 1986 → 2006
+C. EPA 1986 → EIA Notification 1994 → 2006 framework
+D. 2010 NGT → EPA 1986 only
 
-B. CPCB — grants EC
+<details>
+<summary>Show answer</summary>
 
-C. SEA — mandatory Indian project law
+**Ans: C.** 1986 → 1994 → 2006.
 
-D. Screening — Category A only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q24.** Comprehensive EIA differs from Rapid EIA because it covers:
-
-A. All seasons
-
-B. No baseline
-
-C. Only winter
-
-D. Only one pollutant
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Legal base then notifications.
 
 </details>
 
-**Q25.** Espoo Convention mainly concerns:
+**Q13.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Transboundary EIA
+Assertion (A): Environmental Clearance is mandatory prior clearance for listed projects.
 
-B. Whaling quotas
+Reason (R): EIA reports include baseline, impact prediction, mitigation, and EMP.
 
-C. Acid rain only
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. CFC phase-out
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: A.** Both true; report contents do not define why EC is mandatory.
 
-**Ans: A**
-
-</details>
-
-**Q26.** EU SEA Directive is:
-
-A. 2001/42/EC
-
-B. 1986/EPA
-
-C. 1994/EIA only
-
-D. 2010/NGT
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**A/R logic:** Related EIA package facts.
 
 </details>
 
-**Q27.** Ex-post facto environmental clearance means:
+**Q14.** Which one of the following correctly states who grants EC?
 
-A. Clearance before work
+A. Only CPCB always
+B. UNEP Nairobi only
+C. Only village panchayat for Category A
+D. MoEFCC/SEIAA (EAC/SEAC recommend)
 
-B. Clearance after work started — illegal/controversial
+<details>
+<summary>Show answer</summary>
 
-C. No clearance ever needed
+**Ans: D.** MoEFCC/SEIAA grant; committees recommend.
 
-D. Only for SEA
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q28.** DEIAA handles some:
-
-A. Category B2 minor mineral mining at district level
-
-B. All Category A dams
-
-C. UNCCD compliance
-
-D. Ozone monitoring
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Grant vs recommend.
 
 </details>
 
-**Q29.** SEA's main advantage over project EIA is assessing:
+**Q15.** With reference to NGT and EC, which of the following statements is/are correct?
 
-A. Single chimney height only
+1. NGT hears EC and pollution appeals.
+2. NGT Act is 2010.
+3. NGT replaces MoEFCC for granting all Category A ECs.
 
-B. Cumulative impacts of multiple projects/plans
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. Only noise at one site
+<details>
+<summary>Show answer</summary>
 
-D. Only ozone layer
+**Ans: A.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** NGT is appellate — not the EC granter.
 
 </details>
 
-**Q30.** First EIA Notification in India was in:
+**Q16.** How many of the following EIA report parts are standard?
 
-A. 1986
+Baseline, impact prediction, mitigation, EMP
 
-B. 1994
+A. Only one
+B. All four
+C. Only three
+D. Only two
 
-C. 2006
+<details>
+<summary>Show answer</summary>
 
-D. 2010
+**Ans: B.** All four.
 
-<details><summary>Show answer</summary>
+**Logic:** Standard EIA report spine.
 
-**Ans: B**
+</details>
+
+**Q17.** Which of the following pairs is/are correctly matched?
+
+1. Kiev SEA Protocol 2003 — Espoo family teaching
+2. EU SEA Directive — SEA reference
+3. SEA — identical to Forest Rights Act titles
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** SEA ≠ FRA.
+
+</details>
+
+**Q18.** With reference to public consultation, which of the following statements is/are correct?
+
+1. It is one of the four classic EIA stages.
+2. B1 usually involves public hearing.
+3. Public consultation means EC is granted by the public by vote only.
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** EC still via MoEFCC/SEIAA.
+
+</details>
+
+**Q19.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. Rapid EIA | 1. All seasons |
+| B. Comprehensive EIA | 2. One season |
+| C. ToR | 3. Fixed at scoping |
+
+Code:
+
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** A-2, B-1, C-3.
+
+**Logic:** Rapid one season; comprehensive all; ToR at scoping.
+
+</details>
+
+**Q20.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): SEAC recommends at state level for Category B.
+
+Reason (R): SEIAA grants Category B Environmental Clearance.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R pairs with SEAC’s recommend role in the state track.
+
+**A/R logic:** Recommend vs grant at state.
+
+</details>
+
+**Q21.** Which of the following statements about Category A is/are correct?
+
+1. Appraised centrally by MoEFCC through EAC.
+2. EAC grants EC by itself without MoEFCC.
+3. Sensitive-area General Condition can pull B into A track.
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 3.
+
+**Logic:** EAC recommends — MoEFCC grants.
+
+</details>
+
+**Q22.** With reference to PARIVESH, which of the following statements is/are correct?
+
+1. It is MoEFCC’s online EC portal.
+2. It replaces the need for any EIA study.
+3. It is part of the clearance workflow digitisation.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 3.
+
+**Logic:** Portal ≠ skip EIA.
+
+</details>
+
+**Q23.** Arrange who does what:
+
+1. EAC/SEAC recommend
+2. MoEFCC/SEIAA grant
+3. CPCB/SPCB set standards/monitor — not grant EC
+
+A. Only 1
+B. 1 and 2 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three.
+
+**Logic:** Grant/recommend/monitor separation.
+
+</details>
+
+**Q24.** Which one of the following is correct about screening?
+
+A. Applies to Category B only in classic teaching
+B. Applies only to UNEP projects abroad
+C. Means NGT grants EC
+D. Means FRA title distribution
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Category B only.
+
+**Logic:** Classic stage rule.
+
+</details>
+
+**Q25.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): India lacks a standalone SEA statute though project EIA exists.
+
+Reason (R): SEA sits upstream of projects at policy/plan/programme level.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; upstream nature explains SEA’s role but does not by itself prove absence of statute — still often keyed as both true R not explanation of the legal gap.
+
+**A/R logic:** Legal gap vs conceptual level — R does not explain the missing statute.
+
+</details>
+
+**Q26.** With reference to EMP, which of the following statements is/are correct?
+
+1. Environmental Management Plan is part of EIA reporting.
+2. It addresses mitigation/management.
+3. EMP is issued by the Election Commission.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Not Election Commission.
+
+</details>
+
+**Q27.** How many of the following are true?
+
+1. EC is prior clearance for listed projects
+2. Category A — central
+3. Category B — state
+
+A. Only one
+B. Only two
+C. All three
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All three.
+
+**Logic:** Core clearance map.
+
+</details>
+
+**Q28.** Which of the following pairs is/are NOT correctly matched?
+
+1. Scoping — fixes ToR
+2. Appraisal — final stage among the four
+3. Screening — Category A only
+
+A. 1 and 2 only
+B. 1, 2 and 3
+C. 2 and 3 only
+D. 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only pair 3 is not correctly matched.
+
+**Logic:** Screening = Category B.
+
+</details>
+
+**Q29.** With reference to sensitive areas and General Condition, which of the following statements is/are correct?
+
+1. B can be treated as A.
+2. This shifts appraisal toward the central track.
+3. General Condition abolishes all State Pollution Control Boards.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Does not abolish SPCBs.
+
+</details>
+
+**Q30.** Which one of the following best states EIA’s purpose?
+
+A. Only post-disaster cleanup manuals
+B. Anticipatory prevention before approval
+C. Replacing the Constitution
+D. Setting GST rates
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Anticipatory prevention.
+
+**Logic:** Before approval.
 
 </details>
 

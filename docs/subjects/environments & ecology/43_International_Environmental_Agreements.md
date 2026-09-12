@@ -502,306 +502,591 @@ D. Stockholm 2001 created UNEP in Nairobi
 
 ---
 
-## Practice Zone
+## Practice Zone — UPPCS Format Drill
 
-**Q1.** Climate mitigation among these:
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-Options: A. Kyoto Protocol B. Montreal Protocol C. Ramsar D. CITES
+**Q1.** With reference to the climate ladder, which of the following statements is/are correct?
 
-<details><summary>Show answer</summary>
+1. UNFCCC 1992 → Kyoto 1997 → Paris 2015.
+2. Kyoto mainly Annex-I binding; Paris universal NDCs.
+3. Montreal is the main climate-mitigation treaty.
 
-**Ans: A**
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q2.** Paris Agreement year:
+**Ans: B.** Only 1 and 2.
 
-Options: A. 2015 B. 1997 C. 1971 D. 1987
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q3.** Ramsar protects:
-
-Options: A. Wetlands B. Only ozone C. Only mercury D. Only hazardous waste shipments
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Montreal = ozone — not climate.
 
 </details>
 
-**Q4.** CITES regulates:
+**Q2.** Match List-I with List-II:
 
-Options: A. Wildlife trade B. Only NDCs C. Only POPs listing D. Only PIC chemicals
+| List-I | List-II |
+|--------|--------|
+| A. Ramsar | 1. 1973 wildlife trade |
+| B. CITES | 2. 1971 wetlands |
+| C. CMS/Bonn | 3. 1979 migratory species |
 
-<details><summary>Show answer</summary>
+Code:
 
-**Ans: A**
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q5.** CMS / Bonn focuses on:
+**Ans: C.** A-2, B-1, C-3.
 
-Options: A. Migratory species B. Only Annex-I CO₂ quotas C. Only ozone hole D. Only plastic SUP ban
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q6.** Basel Convention controls:
-
-Options: A. Transboundary hazardous waste B. Only tiger tourism C. Only World Heritage listing D. Only HDI ranking
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Wetlands/trade/migration.
 
 </details>
 
-**Q7.** Rotterdam uses:
+**Q3.** Which of the following pairs is/are correctly matched?
 
-Options: A. Prior Informed Consent (PIC) B. Only CITES Appendix I C. Only Kyoto CERs D. Only AQI colours
+1. Basel 1989 — hazardous waste
+2. Rotterdam 1998 — PIC chemicals
+3. Stockholm 2001 — POPs (≠ 1972 Conference)
 
-<details><summary>Show answer</summary>
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: D.** All three.
 
-**Q8.** Stockholm Convention targets:
-
-Options: A. POPs B. Only wetlands wise use C. Only NDCs D. Only ozone ODS alone
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q9.** Minamata Convention targets:
-
-Options: A. Mercury B. Only methane from paddies C. Only noise dB D. Only biosphere MAB listing
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Chemicals/waste trio.
 
 </details>
 
-**Q10.** UNFCCC opened at:
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Options: A. Rio 1992 B. Montreal 1987 C. Ramsar 1971 D. Minamata 2013
+Assertion (A): Stockholm 1972 created the UNEP moment.
 
-<details><summary>Show answer</summary>
+Reason (R): Stockholm 2001 is the same as the 1972 Conference.
 
-**Ans: A**
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q11.** Carbon credit origin treaty:
+**Ans: C.** A true, R false.
 
-Options: A. Kyoto Protocol B. Ramsar C. CITES D. Basel
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q12.** Cartagena Protocol is about:
-
-Options: A. Biosafety B. Save water C. Only ozone D. Only mercury thermometers
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**A/R logic:** Keep two Stockholms apart.
 
 </details>
 
-**Q13.** Kyoto “save water” match is:
+**Q5.** With reference to CBD family, which of the following statements is/are correct?
 
-Options: A. Wrong B. Correct C. Same as Ramsar D. Same as Minamata
+1. CBD 1992 — conservation, sustainable use, fair benefit-sharing.
+2. Cartagena — biosafety protocol under CBD.
+3. CBD is identical to Kyoto Annex-I targets.
 
-<details><summary>Show answer</summary>
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: A.** Only 1 and 2.
 
-**Q14.** Paris uses mainly:
-
-Options: A. NDCs B. Only CITES appendices C. Only Basel Ban Amendment alone D. Only Ringelmann scale
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q15.** CBD three objectives include:
-
-Options: A. Conserve, sustainable use, benefit-sharing B. Only ozone phase-out C. Only hazardous waste dump ban alone D. Only HDI calculation
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Biodiversity ≠ Kyoto climate.
 
 </details>
 
-**Q16.** Rudrasagar Ramsar is in:
+**Q6.** Arrange Minamata focus:
 
-Options: A. Tripura B. Uttar Pradesh C. Haryana D. Rajasthan
+A. Only wetlands wise use
+B. Mercury (2013); artisanal gold / product phase-downs neighbourhood
+C. Only ozone ODS
+D. Only forest SOFO
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Mercury convention.
 
-</details>
-
-**Q17.** Sultanpur National Park is in:
-
-Options: A. Haryana B. Uttar Pradesh C. Tripura D. Kerala
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Minamata.
 
 </details>
 
-**Q18.** Montreal Protocol is about:
+**Q7.** Which of the following pairs is/are NOT correctly matched?
 
-Options: A. Ozone / ODS B. Climate Annex-I only as main purpose C. Wetlands only D. Mercury only
+1. CITES — IUCN Red List
+2. CMS — migratory species
+3. CITES — international commercial trade in listed species
 
-<details><summary>Show answer</summary>
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 only
+D. 1, 2 and 3
 
-**Ans: A** — climate distractor trap.
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: C.** Only pair 1 is not correctly matched.
 
-**Q19.** Nagoya Protocol is about:
-
-Options: A. ABS under CBD B. Only Kyoto CDM C. Only Basel waste D. Only Paris Article 6 alone as sole meaning
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q20.** CITES year:
-
-Options: A. 1973 B. 1992 only C. 2015 only D. 2001 only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** CITES ≠ Red List.
 
 </details>
 
-**Q21.** Assertion (A): Kyoto is a climate mitigation treaty.
-Reason (R): It is identical to Montreal Protocol.
+**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Options: A. Both true; R explains A B. Both true; R does not explain A C. A true, R false D. Both false
+Assertion (A): Ramsar “wise use” allows sustainable human use of wetlands.
 
-<details><summary>Show answer</summary>
+Reason (R): Ramsar is a total ban slogan with no human use.
 
-**Ans: C**
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q22.** Stockholm 1972 conference vs Stockholm Convention:
+**Ans: C.** A true, R false.
 
-Options: A. Different (UNEP birth vs POPs treaty) B. Same instrument C. Both only about mercury D. Both only about wetlands
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q23.** Wise Use principle belongs to:
-
-Options: A. Ramsar B. Kyoto C. Minamata D. Montreal
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**A/R logic:** Wise use ≠ total ban.
 
 </details>
 
-**Q24.** Appendices I–III belong to:
+**Q9.** With reference to UNFCCC, which of the following statements is/are correct?
 
-Options: A. CITES B. Paris NDCs C. Basel only D. UNFCCC Article 2 only
+1. Opened at Rio 1992; secretariat Bonn.
+2. Annual COP meetings drive negotiations.
+3. Parent framework for Kyoto and Paris.
 
-<details><summary>Show answer</summary>
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: D.** All three.
 
-**Q25.** Bonn Convention is also called:
-
-Options: A. CMS B. Only UNFCCC C. Only GEF D. Only ISO 14001
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q26.** FAO + UNEP jointly run:
-
-Options: A. Rotterdam Convention B. Only CITES C. Only Paris COP presidency D. Only Ramsar COP alone
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** UNFCCC identity.
 
 </details>
 
-**Q27.** Kyoto mainly bound:
+**Q10.** Match List-I with List-II:
 
-Options: A. Annex-I developed parties B. Only all LDCs with identical caps in 1997 model C. Only ozone secretariats D. Only wetland managers
+| List-I | List-II |
+|--------|--------|
+| A. Montreal | 1. 2015 |
+| B. Kyoto | 2. 1987 |
+| C. Paris | 3. 1997 |
 
-<details><summary>Show answer</summary>
+Code:
 
-**Ans: A**
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q28.** Paris temperature aim:
+**Ans: A.** A-2, B-3, C-1.
 
-Options: A. Well below 2°C; pursue 1.5°C B. Exactly 4°C target C. Cool Earth to −18°C D. No temperature language
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q29.** India BDA 2002 implements mainly:
-
-Options: A. CBD B. Montreal only C. Basel only D. Minamata only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** 1987 / 1997 / 2015.
 
 </details>
 
-**Q30.** Correct set:
+**Q11.** Arrange Bonn Convention meaning:
 
-Options: A. Kyoto=climate; Ramsar=wetlands; CITES=trade; Basel=waste; Minamata=mercury; Stockholm POPs≠1972 conference B. Kyoto=ozone; Ramsar=trade; CITES=wetlands; Basel=NDCs C. Paris=Annex-I only; CMS=hazardous waste D. Montreal=climate mitigation main treaty
+A. Only UNFCCC secretariat building
+B. CMS migratory species — not secretariat alone
+C. Only Minamata mercury
+D. Only Basel waste
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Bonn = CMS.
+
+**Logic:** Name trap.
+
+</details>
+
+**Q12.** With reference to Rotterdam vs others, which of the following statements is/are correct?
+
+1. Rotterdam = chemicals PIC.
+2. Not mercury (Minamata).
+3. Not POPs listing (Stockholm 2001).
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All three.
+
+**Logic:** PIC niche.
+
+</details>
+
+**Q13.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): A stem that says Kyoto is about “saving water” is false.
+
+Reason (R): Kyoto is a climate instrument.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R explains A.
+
+**A/R logic:** Kyoto ≠ water treaty.
+
+</details>
+
+**Q14.** Which one of the following correctly states Paris vs Kyoto design?
+
+A. Both identical CITES Appendices
+B. Both identical Montreal ODS lists
+C. Both identical Ramsar wise use
+D. Paris = nationally determined NDCs; Kyoto = top-down Annex-I binding for listed parties
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** NDCs vs Annex-I.
+
+**Logic:** Design split.
+
+</details>
+
+**Q15.** How many of the following year facts are correct?
+
+Montreal 1987; Kyoto 1997; Paris 2015; Minamata 2013
+
+A. All four
+B. Only two
+C. Only three
+D. Only one
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** All four.
+
+**Logic:** Year ladder.
+
+</details>
+
+**Q16.** With reference to climate-slot traps, which of the following statements is/are correct?
+
+1. Do not put Ramsar/CITES/CBD into climate-mitigation slot when Kyoto is present.
+2. Montreal ≠ climate mitigation.
+3. UNFCCC family = Kyoto/Paris neighbourhood.
+
+A. 1 and 2 only
+B. 1, 2 and 3
+C. 1 and 3 only
+D. 2 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** All three.
+
+**Logic:** Slot discipline.
+
+</details>
+
+**Q17.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. Basel | 1. Mercury |
+| B. Rotterdam | 2. Hazardous waste |
+| C. Minamata | 3. PIC chemicals |
+
+Code:
+
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A-2, B-3, C-1.
+
+**Logic:** Waste/PIC/mercury.
+
+</details>
+
+**Q18.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): CMS protects migratory animals across borders.
+
+Reason (R): CITES controls international commercial trade in listed species.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; trade rules do not explain migration-treaty purpose.
+
+**A/R logic:** CMS vs CITES.
+
+</details>
+
+**Q19.** Which of the following pairs is/are correctly matched?
+
+1. Cartagena — biosafety under CBD
+2. Stockholm POPs — DDT/PCBs neighbourhood
+3. Ramsar year — 1987 Montreal
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Ramsar = 1971.
+
+</details>
+
+**Q20.** Arrange UP Ramsar geography idea:
+
+A. UP geography traps sit beside treaty facts but do not change 1971 identity
+B. Changes Ramsar 1971 identity
+C. Makes Ramsar a climate NDC
+D. Makes Ramsar = CITES
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Treaty year stays 1971.
+
+**Logic:** Geography ≠ identity.
+
+</details>
+
+**Q21.** With reference to Basel vs Rotterdam, which of the following statements is/are correct?
+
+1. Basel — waste shipment/disposal.
+2. Rotterdam — prior informed consent for chemicals trade.
+3. Both are identical mercury treaties.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Mercury = Minamata.
+
+</details>
+
+**Q22.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): UNFCCC is the parent framework.
+
+Reason (R): Kyoto and Paris sit under that climate family.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R explains the family tree.
+
+**A/R logic:** Parent vs protocols.
+
+</details>
+
+**Q23.** How many of the following are climate instruments?
+
+UNFCCC, Kyoto, Paris, Montreal
+
+A. Only one
+B. Only two
+C. Only three
+D. All four
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only three.
+
+**Logic:** Montreal = ozone.
+
+</details>
+
+**Q24.** Which one of the following correctly states CBD’s three objectives?
+
+A. Only ship MARPOL annexes
+B. Only Annex-I emission caps
+C. Only ozone ODS phase-out
+D. Conservation; sustainable use; fair benefit-sharing from genetic resources
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Three CBD objectives.
+
+**Logic:** Biodiversity convention.
+
+</details>
+
+**Q25.** With reference to CITES vs CMS, which of the following statements is/are correct?
+
+1. Trade rules ≠ migration treaties.
+2. CMS is not CITES.
+3. Both are identical to IUCN Red List.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Neither is Red List.
+
+</details>
+
+**Q26.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. CBD | 1. 1971 |
+| B. Ramsar | 2. 1992 |
+| C. CITES | 3. 1973 |
+
+Code:
+
+A. A-1, B-2, C-3
+B. A-2, B-1, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** A-2, B-1, C-3.
+
+**Logic:** 1992 / 1971 / 1973.
+
+</details>
+
+**Q27.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Paris Agreement year fact is 2015.
+
+Reason (R): Kyoto year fact is 1997.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; Kyoto year does not explain Paris year.
+
+**A/R logic:** Two year facts.
+
+</details>
+
+**Q28.** Arrange Montreal vs Kyoto one-liner:
+
+A. Both identical climate NDCs
+B. Both identical Ramsar
+C. Montreal ozone; Kyoto/Paris/UNFCCC climate
+D. Both identical Minamata
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Ozone vs climate.
+
+**Logic:** Never swap.
+
+</details>
+
+**Q29.** With reference to POPs, which of the following statements is/are correct?
+
+1. Stockholm Convention 2001.
+2. Covers POPs such as DDT and PCBs.
+3. Identical to Stockholm Conference 1972 UNEP moment.
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** 2001 ≠ 1972.
+
+</details>
+
+**Q30.** Which one of the following correctly states “Bonn” double meaning caution?
+
+A. Bonn Convention = CMS; UNFCCC secretariat also sits in Bonn — do not collapse them
+B. Bonn means only Montreal
+C. Bonn means only Minamata
+D. Bonn means only SUP ban
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** CMS vs UNFCCC Bonn HQ.
+
+**Logic:** Name caution.
 
 </details>
 

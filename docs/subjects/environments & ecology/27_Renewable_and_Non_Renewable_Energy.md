@@ -888,306 +888,591 @@ D. Renewable
 ---
 
 
-## Practice Zone
+## Practice Zone — UPPCS Format Drill
 
-**Q1.** Non-conventional energy sources are generally:
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-Options: A. Renewable B. Non-renewable C. Only nuclear D. Only coal
+**Q1.** With reference to renewable vs non-renewable, which of the following statements is/are correct?
 
-<details><summary>Show answer</summary>
+1. Renewable replenishes on a human timescale.
+2. Non-renewable are finite stocks (coal, oil, gas, uranium).
+3. Coal is renewable biomass.
 
-**Ans: A**
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q2.** A non-renewable source is:
+**Ans: B.** Only 1 and 2.
 
-Options: A. Solar B. Petroleum C. Wind D. Biogas
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q3.** Major biogas constituents:
-
-Options: A. Methane and CO₂ B. Butane and CO C. Ozone and N₂ D. Helium and neon
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Coal ≠ biomass.
 
 </details>
 
-**Q4.** National Solar Mission year:
+**Q2.** Match List-I with List-II:
 
-Options: A. 2010 B. 2015 C. 2019 D. 2001
+| List-I | List-II |
+|--------|--------|
+| A. Conventional (India) | 1. Solar, wind, SHP, biomass… |
+| B. Non-conventional | 2. Coal, oil, gas, large hydro, nuclear |
+| C. SHP cut-off | 3. ≤25 MW |
 
-<details><summary>Show answer</summary>
+Code:
 
-**Ans: A**
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q5.** Energy Conservation Act year:
+**Ans: C.** A-2, B-1, C-3.
 
-Options: A. 2001 B. 2010 C. 2018 D. 2023
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q6.** BEE was established under:
-
-Options: A. EC Act 2001 B. WPA 1972 C. CITES D. Ramsar
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Indian split + SHP.
 
 </details>
 
-**Q7.** PAT scheme trades:
+**Q3.** Which of the following pairs is/are correctly matched?
 
-Options: A. ESCerts B. Wildlife permits C. Ozone credits D. Ramsar tags
+1. Energy crisis (bank) — danger of fossil exhaustion
+2. Ultimate fossil energy source — Sun
+3. Uranium — fossil fuel identical to coal
 
-<details><summary>Show answer</summary>
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: D.** Only 1 and 2.
 
-**Q8.** E20 means:
-
-Options: A. 20% ethanol in petrol B. 20% coal in petrol C. 20% nuclear D. 20% tidal
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q9.** National Policy on Biofuels year:
-
-Options: A. 2018 B. 1985 C. 1974 D. 1952
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Uranium ≠ fossil.
 
 </details>
 
-**Q10.** Biodiesel is produced mainly by:
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Options: A. Transesterification B. Nuclear fission C. Ozone reaction D. Photosynthesis only
+Assertion (A): Large hydro sits on the conventional side in Indian classification.
 
-<details><summary>Show answer</summary>
+Reason (R): Calling all hydro “non-conventional” is wrong under that split.
 
-**Ans: A**
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q11.** Jatropha is associated with:
+**Ans: D.** Both true and R restates the classification lock.
 
-Options: A. Biodiesel B. Nuclear fuel C. Coal washing D. Ozone recovery
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q12.** Small hydro upper limit (MNRE):
-
-Options: A. 25 MW B. 250 MW C. 2.5 MW D. 2500 MW
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**A/R logic:** Large hydro = conventional.
 
 </details>
 
-**Q13.** OTEC uses:
+**Q5.** With reference to biogas/biofuels, which of the following statements is/are correct?
 
-Options: A. Warm–cold ocean temperature difference B. Moon gravity only C. Coal heat only D. Nuclear waste heat only
+1. Biogas major pair CH₄ + CO₂.
+2. Bioethanol blends with petrol; biodiesel with diesel.
+3. Major biogas pair is butane + CO.
 
-<details><summary>Show answer</summary>
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: A.** Only 1 and 2.
 
-**Q14.** Tidal energy is driven mainly by:
-
-Options: A. Moon's gravity B. Volcanoes only C. Ozone hole D. Desert sand
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q15.** SPR sites include:
-
-Options: A. Visakhapatnam, Mangalore, Padur B. Only Delhi C. Only Leh D. Only Guwahati
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Not butane/CO.
 
 </details>
 
-**Q16.** India crude oil import share is roughly:
+**Q6.** Arrange UN Decade of Sustainable Energy for All:
 
-Options: A. ~85% B. ~5% C. 0% D. 100% nuclear
+A. 2001–2011 World Bank only
+B. 2014–2024 UNGA (SDG 7 neighbourhood)
+C. 1972–1982 UNEP only
+D. 1992–2002 WTO only
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** 2014–2024 UNGA.
 
-</details>
-
-**Q17.** Conventional sources include:
-
-Options: A. Coal and large hydro B. Only solar C. Only wind D. Only OTEC
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Not World Bank.
 
 </details>
 
-**Q18.** Coal is:
+**Q7.** Which of the following pairs is/are NOT correctly matched?
 
-Options: A. Non-renewable fossil B. Biomass C. Biogas D. Tidal fuel
+1. Producer gas — CO, H₂, traces CH₄
+2. OTEC — warm surface vs cold deep water
+3. OTEC — identical to tidal barrage
 
-<details><summary>Show answer</summary>
+A. 1 and 2 only
+B. 2 and 3 only
+C. 3 only
+D. 1, 2 and 3
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: C.** Only pair 3 is not correctly matched.
 
-**Q19.** ISA headquarters:
-
-Options: A. Gurugram B. Paris city hall only C. Nairobi only D. Rome only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q20.** Wind power most strongly depends on:
-
-Options: A. Cube of wind speed B. Moon phase only C. Soil colour D. River silt
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** OTEC ≠ tidal.
 
 </details>
 
-**Q21.** PAT differs from CCTS because PAT is about:
+**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Options: A. Energy efficiency certificates B. Wildlife trade C. Wetland listing D. Ozone CFCs
+Assertion (A): EC Act 2001 created BEE.
 
-<details><summary>Show answer</summary>
+Reason (R): PAT (2012) trades ESCerts under the efficiency architecture.
 
-**Ans: A**
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q22.** UJALA relates to:
+**Ans: A.** Both true; PAT does not explain BEE’s creation under the 2001 Act.
 
-Options: A. LED efficiency programme B. Tidal barrages C. Coal mining only D. Nuclear waste
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q23.** Bioethanol in India mainly from:
-
-Options: A. Sugarcane molasses B. Uranium ore C. Crude oil wells D. Polar ice
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**A/R logic:** Creation vs later PAT.
 
 </details>
 
-**Q24.** Ocean energy is broader than tidal because it also includes:
+**Q9.** With reference to energy security, which of the following statements is/are correct?
 
-Options: A. Wave and OTEC B. Only coal C. Only nuclear D. Only diesel
+1. India imports a very large share of crude (~85% teaching).
+2. Coal is mostly domestic.
+3. SPR locations include Vizag, Mangalore, Padur.
 
-<details><summary>Show answer</summary>
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: D.** All three.
 
-**Q25.** Nuclear energy in most classifications is:
-
-Options: A. Non-renewable B. Solar renewable C. Wind renewable D. Biomass
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q26.** Consider: (1) Non-conventional sources are renewable. (2) Petroleum is renewable.
-
-Options: A. Only 1 B. Only 2 C. Both D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Import + SPR trio.
 
 </details>
 
-**Q27.** Star labeling programme is run under:
+**Q10.** Match List-I with List-II:
 
-Options: A. BEE B. CZA C. BSI D. FSI
+| List-I | List-II |
+|--------|--------|
+| A. ISA | 1. Domestic efficiency |
+| B. BEE | 2. Solar diplomacy / Gurugram |
+| C. E20 | 3. Higher ethanol blend ambition |
 
-<details><summary>Show answer</summary>
+Code:
 
-**Ans: A**
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q28.** 500 GW by 2030 refers to:
+**Ans: A.** A-2, B-1, C-3.
 
-Options: A. Non-fossil capacity target B. Only coal capacity C. Only oil wells D. Only nuclear plants count
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q29.** Biodiesel and biogas:
-
-Options: A. Different — liquid ester vs methane gas B. Identical fuels C. Both are nuclear D. Both are coal
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** ISA/BEE/E20.
 
 </details>
 
-**Q30.** Assertion (A): PAT promotes industrial energy efficiency.
-Reason (R): PAT trades ESCerts among designated consumers.
+**Q11.** Arrange hydroelectricity vs sustainability option set:
 
-Options: A. Both true; R explains A B. Both true; R does not explain A C. A true, R false D. Both false
+A. Coal always best
+B. Among coal/oil-gas/nuclear/hydro, hydro often best sustainability answer for electricity
+C. Nuclear always renewable
+D. Oil always zero carbon
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Hydro often best among that set.
+
+**Logic:** Bank language.
+
+</details>
+
+**Q12.** With reference to hydrogen/fuel cells, which of the following statements is/are correct?
+
+1. H₂ burns to water — least-polluting common fuel option teaching.
+2. Fuel cell output is DC.
+3. Fuel cell output is always AC only.
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** DC — not AC-only.
+
+</details>
+
+**Q13.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): PAT certificates measure energy-savings trading.
+
+Reason (R): Carbon markets measure CO₂ units — related politics, different instruments.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; carbon-market definition does not explain what PAT certificates measure.
+
+**A/R logic:** PAT ≠ carbon credit.
+
+</details>
+
+**Q14.** Which one of the following correctly states conservation vs efficiency?
+
+A. Conservation = only building more coal plants
+B. Both identical always
+C. Efficiency = only importing more oil
+D. Conservation = using less; efficiency = more service per unit energy
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Using less vs more service per unit.
+
+**Logic:** Neighbours — not synonyms.
+
+</details>
+
+**Q15.** How many of the following ocean locks are distinct?
+
+Tidal, wave, OTEC
+
+A. All three distinct
+B. Only two
+C. Only one
+D. None exist
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** All three distinct.
+
+**Logic:** Umbrella ≠ identity.
+
+</details>
+
+**Q16.** With reference to wind/solar, which of the following statements is/are correct?
+
+1. Wind leaders often TN and Gujarat.
+2. NSM 2010; 500 GW non-fossil by 2030 teaching.
+3. UP wind is the dominant national wind leader always.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** UP wind limited.
+
+</details>
+
+**Q17.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. Microbial fuel cell | 1. Non-petroleum paving |
+| B. Bioasphalt | 2. Living microbes as catalysts |
+| C. National Hydrogen Board | 3. Set up teaching neighbourhood |
+
+Code:
+
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A-2, B-1, C-3.
+
+**Logic:** MFC / bioasphalt / H₂ board.
+
+</details>
+
+**Q18.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Nuclear is usually non-renewable/conventional in Indian prelims framing.
+
+Reason (R): Low-carbon status automatically makes nuclear renewable.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true, R false.
+
+**A/R logic:** Low-carbon ≠ renewable.
+
+</details>
+
+**Q19.** Which of the following pairs is/are correctly matched?
+
+1. Green hydrogen routes — IC engines, NG blend, FCEVs
+2. Western UP sugarcane — bioethanol neighbourhood
+3. Bagasse — cogeneration
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three.
+
+**Logic:** H₂ + UP biofuel colour.
+
+</details>
+
+**Q20.** Arrange E10 vs E20:
+
+A. E20 is higher ethanol blend ambition beyond E10
+B. Freeze forever at E10 only
+C. E20 means only diesel biodiesel
+D. E10 means nuclear blend
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** E20 beyond E10.
+
+**Logic:** Do not freeze at E10.
+
+</details>
+
+**Q21.** With reference to UJALA / Star labels, which of the following statements is/are correct?
+
+1. Efficiency/conservation tools under BEE neighbourhood.
+2. Link to EC Act architecture.
+3. They create IUCN Red List categories.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Not IUCN.
+
+</details>
+
+**Q22.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Tidal energy is Moon-driven.
+
+Reason (R): Ocean energy is a wider set that includes wave, OTEC, and tidal.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; umbrella set does not explain Moon-driven mechanism.
+
+**A/R logic:** Member vs umbrella.
+
+</details>
+
+**Q23.** How many of the following are fossils?
+
+Coal, petroleum, natural gas, uranium
+
+A. Only one
+B. Only two
+C. Only three
+D. All four
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only three.
+
+**Logic:** Uranium not fossil.
+
+</details>
+
+**Q24.** Which one of the following correctly states biomass gasification producer gas?
+
+A. Only N₂ always
+B. Only pure O₂
+C. Only argon
+D. CO, H₂, traces CH₄ — not CO₂-only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** CO/H₂/traces CH₄.
+
+**Logic:** Not CO₂-only.
+
+</details>
+
+**Q25.** With reference to PM-KUSUM / ISA, which of the following statements is/are correct?
+
+1. Sit in solar policy neighbourhood with NSM 2010.
+2. ISA HQ Gurugram teaching.
+3. ISA is identical to BEE Star labels.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** ISA ≠ BEE.
+
+</details>
+
+**Q26.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. Bioethanol feedstocks | 1. Jatropha, Pongamia, UCO |
+| B. Biodiesel feedstocks | 2. Maize, sugarcane… |
+| C. SPR | 3. Vizag, Mangalore, Padur |
+
+Code:
+
+A. A-1, B-2, C-3
+B. A-2, B-1, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** A-2, B-1, C-3.
+
+**Logic:** Ethanol/diesel/SPR.
+
+</details>
+
+**Q27.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Microbial fuel cells can be useful in wastewater plants.
+
+Reason (R): Substrates are mainly organic — not “only inorganic salts.”
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R explains the wastewater link.
+
+**A/R logic:** Organic substrates.
+
+</details>
+
+**Q28.** Arrange SHP MNRE cut-off:
+
+A. ≤250 MW only
+B. ≤2.5 MW only
+C. ≤25 MW
+D. No cut-off taught
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** ≤25 MW.
+
+**Logic:** Recurring number.
+
+</details>
+
+**Q29.** With reference to non-conventional ≈ renewable, which of the following statements is/are correct?
+
+1. Often treated as roughly equal in prelims stems.
+2. Large hydro exception sits on conventional side.
+3. All nuclear is therefore renewable.
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Nuclear not renewable.
+
+</details>
+
+**Q30.** Which one of the following best states the Sun–fossil link?
+
+A. Ultimate source of energy in fossils is ancient photosynthesis (Sun)
+B. Fossils store only lunar tidal energy
+C. Fossils are abiotic rocks with no solar past
+D. Fossils are identical to geothermal magma only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Ancient photosynthesis.
+
+**Logic:** Sun ultimate source.
 
 </details>
 

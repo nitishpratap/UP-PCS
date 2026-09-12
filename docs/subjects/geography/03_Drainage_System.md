@@ -1235,1225 +1235,612 @@ D. None of the above
 
 ---
 
-## Practice Zone — UPPCS Format Questions
+## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden** — click *Show answer* under each question to reveal.
-> **Format mix:** 63 questions — mix of multi-statement, A/R, match, NOT-matched, sequence, and direct recall
+> **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D
 
-**Q1.** With reference to the drainage system of India, which of the following statements is/are correct?
+**Q1.** With reference to India’s drainage area shares, which of the following statements is/are correct?
 
-1. The Ganga river is formed at Devprayag by the confluence of the Alaknanda and Bhagirathi.
-2. The Godavari is the largest peninsular river basin in India by area.
-3. The Narmada and Tapi rivers flow eastward into the Bay of Bengal.
-
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-
-B. 2 and 3 only
-
-C. 1 and 3 only
-
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — (1) and (2) correct. **(3) false:** Narmada and Tapi flow **west** to Arabian Sea. **B/C/D** accept east-flowing trap for west-flowing rivers.
-</details>
-
-**Q2.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
-
-**Assertion (A):** Teesta river was earlier a tributary of Ganga but is now a tributary of Brahmaputra.
-
-**Reason (R):** River capturing is a major feature of Himalayan rivers.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-C. (A) is true, but (R) is false
-
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — UPPCS 2021 Q63 pattern: capture explains Teesta shift; Himalayan youthfulness enables piracy. **B** denies explanatory link. **C/D** falsify capture geography.
-</details>
-
-**Q3.** Which one of the following pairs (**Tributary — River**) is **NOT** correctly matched?
-
-A. Pranhita — Godavari
-
-B. Manjra — Godavari
-
-C. Malaprabha — Krishna
-
-D. Pranhita — Mahanadi
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — UPPCS 2023 Q49: Pranhita (Wardha+Wainganga) joins **Godavari**, not Mahanadi. **A/B/C** are valid pairs.
-</details>
-
-**Q4.** Match **List-I** with **List-II**:
-
-| List-I (Prayag) | List-II (Confluence) |
-|---|---|
-| A. Devprayag | 1. Alaknanda + Pindar |
-| B. Karnaprayag | 2. Alaknanda + Bhagirathi |
-| C. Rudraprayag | 3. Alaknanda + Mandakini |
-| D. Vishnuprayag | 4. Alaknanda + Dhauli Ganga |
-
-A. 2 1 3 4
-
-B. 4 1 2 3
-
-C. 2 4 1 3
-
-D. 1 2 3 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Dev-2, Karn-1, Rudra-3, Vishnu-4. **B/C/D** swap Bhagirathi or Mandakini confluences.
-</details>
-
-**Q5.** Which of the following rivers of India does **NOT** originate from the Western Ghats?
-
-A. Godavari
-
-B. Tapti/Tapi
-
-C. Kaveri
-
-D. Kabini
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — UPPCS 2018 Q102: Tapi rises at **Multai (Satpura)**, not Western Ghats. Kaveri/Kabini from Ghats; Godavari near Nashik (Ghats fringe). **A/C/D** originate on or near Western Ghats.
-</details>
-
-**Q6.** With reference to rivers of Uttar Pradesh, which of the following statements is/are correct?
-
-1. Ram Ganga joins the Ganga at Kannauj.
-2. River Betwa joins the Yamuna near Prayagraj.
-3. Gomti has been in news as a 'biological disaster' due to pollution.
-
-Select the correct answer from the code given below:
+1. About 77% of drainage area faces the Bay of Bengal and about 23% the Arabian Sea.
+2. Inland basins cover about 8% of area.
+3. Over 90% of river water still goes to the Arabian Sea.
 
 A. 1 and 3 only
-
 B. 2 and 3 only
-
 C. 1 and 2 only
-
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — UPPCS 2023 Q55 + 2018 Q99: (1) and (3) correct. **(2) false:** Betwa joins Yamuna at **Hamirpur**, upstream of Prayagraj. **B/C/D** place Betwa at Sangam.
+**Ans: C.** Statements 1 and 2 are correct.
+
+**Logic:** Most river water still goes to the Bay of Bengal, not the Arabian Sea.
+
 </details>
 
-**Q7.** Which one of the following rivers is a **Trans-Himalayan** river?
+**Q2.** Arrange the following by water-volume share in the usual teaching set (largest first):
 
-A. Jhelum
+1. Godavari
+2. Brahmaputra
+3. Ganga
 
-B. Sutlej
-
-C. Ganga
-
-D. Ravi
+A. 2–1–3
+B. 3–2–1
+C. 2–3–1
+D. 3–1–2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — UPPCS 2020 Q52: Sutlej originates in Tibet/trans-Himalayan zone. Jhelum/Ravi are Punjab Himalaya rivers. **A/D** trap with Panj Ab names.
+**Ans: C.** Brahmaputra ~40% → Ganga ~25% → Godavari ~6%.
+
+**Logic:** Ganga leads basin area inside India; Brahmaputra leads water volume.
+
 </details>
 
-**Q8.** Which one of the following drainage patterns is associated with **folded structures**?
+**Q3.** Which of the following pairs is/are NOT correctly matched?
 
-A. Radial
+1. Ganga — largest basin inside India
+2. Godavari — largest peninsular basin
+3. Cauvery — largest among Tapti / Narmada / Mahanadi / Cauvery
 
-B. Trellis
-
-C. Dendritic
-
-D. Rectangular
+A. 1 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 3 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — UPPCS 2024 Q31: trellis on alternating resistant/soft folded beds. **C** is uniform rock. **A** is dome/volcano. **D** is joint-controlled.
+**Ans: D.** Pair 3 is wrong.
+
+**Logic:** Among that set, Mahanadi is the largest basin.
+
 </details>
 
-**Q9.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Assertion (A):** The Himalayas form the source of several large perennial rivers.
+Assertion (A): Himalayan rivers are mostly perennial while peninsular rivers are mostly rain-fed.
 
-**Reason (R):** The higher ranges of the Himalayas remain snow-covered throughout the year.
-
-Select the correct answer from the code given below:
+Reason (R): Himalayan systems are fed by snowmelt plus rain; peninsular streams lack comparable glacier feed.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
 B. (A) is false, but (R) is true
-
 C. (A) is true, but (R) is false
-
 D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — UPPCS 2025 Q94: snow cover gives year-round melt → perennial headwaters. **A/C** break snow-melt link. **B** denies Himalayan river source fact.
+**Ans: D.** Both true and R explains A.
+
+**A/R logic:** Perennial vs seasonal contrast rests on melt + rain versus rain-fed regimes.
+
 </details>
 
-**Q10.** Which of the following pairs (**Dam — River**) is/are **NOT** correctly matched?
-
-1. Baglihar Dam — Chenab
-2. Pandoh Dam — Ravi
-3. Srisailam Dam — Tungabhadra
-
-Select the correct answer from the code given below:
-
-A. 1 and 2
-
-B. Only 3
-
-C. 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — UPPCS 2025 Q92: Pandoh on **Beas** (not Ravi); Srisailam on **Krishna** (not Tungabhadra). (1) correct. **B** misses Pandoh trap. **A/D** wrongly flag Baglihar.
-</details>
-
-**Q11.** Which of the following rivers fall into the **Arabian Sea**?
-
-1. Periyar
-2. Pennar
-3. Palar
-
-Select the correct answer from the code given below:
-
-A. Only 1
-
-B. Only 3
-
-C. 2 and 3
-
-D. 1 and 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — UPPCS 2025 Q116: Periyar west-flowing; Pennar and Palar east to BoB. **C/D** treat east-flowing rivers as Arabian Sea.
-</details>
-
-**Q12.** Which one of the following rivers is **NOT** part of the Indian Ganga river basin?
-
-A. Punpun
-
-B. Ajoy
-
-C. Jalangi
-
-D. Jonk
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — UPPCS 2021 Q5: Jonk is in **Mahanadi basin** (Odisha). Others are Ganga tributaries/system. **A/B/C** are Bengal/Bihar Ganga basin streams.
-</details>
-
-**Q13.** At the mouth of which of the following rivers is a **'bird's foot'** type delta formed?
-
-A. Huang Ho
-
-B. Nile
-
-C. Danube
-
-D. Mississippi
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — UPPCS 2018 Q33: Mississippi classic bird's-foot. Ganga is arcuate. **B** is arcuate delta trap.
-</details>
-
-**Q14.** 'Moribund Delta' is a subdivision of which of the following deltas?
-
-A. Krishna-Godavari Delta
-
-B. Mahanadi Delta
-
-C. Bengal Delta
-
-D. Cauvery Delta
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Stem says **subdivision** — that language matches Bengal’s moribund / mature / active scheme, not “which river’s whole delta is old.”
-
-**Ans: C** — UPPCS 2019: “Moribund Delta” is a **subdivision of the Bengal Delta**. Krishna–Godavari, Mahanadi, and Cauvery are distractors; Cauvery is the usual wrong pick.
-</details>
-
-**Q15.** Which of the following rivers is famous for its **fault valley** drainage?
-
-A. Chambal
-
-B. Damodar
-
-C. Gandak
-
-D. Ramganga
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — UPPCS 2019 Q9: Damodar rift valley. Chambal has gorges but tag is Damodar. **A/C/D** are not standard fault-valley answers.
-</details>
-
-**Q16.** In which of the following rivers does the upper course contain fresh water but saline water flow in the lower part?
-
-A. Barak
-
-B. Luni
-
-C. Ghaggar
-
-D. None of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — UPPCS 2019 Q84 pattern: **Luni** inland drainage → saline lower Rann. Ghaggar also inland but Luni is textbook MCQ answer. Barak reaches sea fresh. **A** is NE river trap.
-</details>
-
-**Q17.** Which one of the following river basins is the **largest in respect of area** among the following?
-
-A. Tapti
-
-B. Narmada
-
-C. Mahanadi
-
-D. Cauvery
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — UPPCS 2022 Q16: Mahanadi (~1.41 lakh km²) > Narmada > Cauvery > Tapti among options. Godavari (not listed) is largest peninsular overall.
-</details>
-
-**Q18.** The National Chambal Sanctuary does **NOT** fall in which of the following States?
-
-A. Uttar Pradesh
-
-B. Madhya Pradesh
-
-C. Haryana
-
-D. Rajasthan
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — UPPCS 2020: Sanctuary in **UP, MP, Rajasthan** — not Haryana. **A/B/D** are valid range states.
-</details>
-
-**Q19.** Which of the following rivers of Uttar Pradesh has been declared a **'Biological Disaster'** due to environmental pollution?
-
-A. Yamuna
-
-B. Gomati
-
-C. Sai
-
-D. Tamsa
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — UPPCS 2018 Q99: **Gomti** (Lucknow stretch). Yamuna polluted but not this exact tag. **C/D** minor tributaries.
-</details>
-
-**Q20.** Match the following **rivers** with their **places of origin**:
+**Q5.** Match List-I with List-II:
 
 | List-I | List-II |
 |---|---|
-| A. Yamuna | 1. Sihawa |
-| B. Krishna | 2. Nashik |
-| C. Godavari | 3. Mahabaleshwar |
-| D. Mahanadi | 4. Yamunotri |
-
-A. A-4, B-3, C-2, D-1
-
-B. A-1, B-2, C-3, D-4
-
-C. A-4, B-2, C-1, D-3
-
-D. A-4, B-2, C-3, D-1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — UPPCS 2023 Q53. **D** swaps Krishna/Godavari origins. **B/C** scramble Sihawa/Yamunotri.
-</details>
-
-**Q21.** Which of the following is **NOT** correctly matched?
-
-A. Hundru Waterfall — Subarnarekha
-
-B. Chachai Waterfall — Bihad River
-
-C. Dhuandhar Waterfall — Narmada
-
-D. Budha Ghagh — Kanchi
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — UPPCS 2021 Q9: Chachai on **Son/Bhadar**, not "Bihad." **A/C/D** correct pairs.
-</details>
-
-**Q22.** Consider the following tributaries of River Yamuna and arrange them from **West to East**:
-
-1. Betwa 2. Ken 3. Sindh 4. Chambal
-
-A. 4, 3, 1 and 2
-
-B. 1, 2, 3 and 4
-
-C. 3, 2, 1 and 4
-
-D. 2, 3, 1 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — UPPCS 2020 Q68: geographic west→east is Chambal → Sindh → Betwa → Ken. With this numbering that is **4, 3, 1 and 2**. Do not assume printed numbers are already west–east order.
-</details>
-
-**Q23.** With reference to **National Waterways**, which of the following statements is/are correct?
-
-1. NW-1 is the Ganga-Bhagirathi-Hooghly system.
-2. NW-2 is on the Brahmaputra river.
-3. NW-3 is the West Coast Canal in Kerala.
-
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-
-B. 2 and 3 only
-
-C. 1, 2 and 3
-
-D. 1 and 3 only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — All three classic NW definitions correct. **A/B/D** drop one valid NW.
-</details>
-
-**Q24.** Which of the following statements about **peninsular rivers** is/are correct?
-
-1. Most major peninsular rivers flow eastward into the Bay of Bengal.
-2. Narmada and Tapi occupy fault-guided valleys.
-3. Luni is an example of inland drainage.
-
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-
-B. 2 and 3 only
-
-C. 1 and 3 only
-
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — All standard peninsular drainage associations. **A/B/C** omit one true statement.
-</details>
-
-**Q25.** Given below are two statements:
-**Statement-I:** Estuaries are common on India's west coast where rivers meet the Arabian Sea.
-**Statement-II:** Deltas are generally larger on India's east coast than on the west coast.
-
-Select the correct answer from the code given below:
-
-A. Both Statement-I and Statement-II are correct
-
-B. Both Statement-I and Statement-II are incorrect
-
-C. Statement-I is correct, Statement-II is incorrect
-
-D. Statement-I is incorrect, Statement-II is correct
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Narrow shelf + strong waves → estuaries west; wide shelf east → big deltas (Godavari, Ganga). **B/C/D** deny coastal process contrast.
-</details>
-
-**Q26.** Which one of the following places is the confluence of the rivers **Alaknanda** and **Bhagirathi**?
-
-A. Vishnu Prayag
-
-B. Karn Prayag
-
-C. Rudra Prayag
-
-D. Dev Prayag
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — UPPCS 2023 Q50. Others are Alaknanda + other tributaries. **A/B/C** are pre-Devprayag confluences.
-</details>
-
-**Q27.** Which one of the following pairs is **NOT** correctly matched regarding **Ramganga Project**?
-
-A. Location — Garhwal (Uttarakhand)
-
-B. Hydropower capacity — 198 MW
-
-C. Dam length — 825.8 metres
-
-D. Irrigated area — 6 lakh hectares
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — UPPCS 2024 Q72: official irrigation potential ~**5.75–5.90 lakh ha**; **6 lakh ha** is the imprecise pair. **A/B/C** are exact specs. **A/B/C** as wrong options ignore precise dam data.
-</details>
-
-**Q28.** Match **List-I** with **List-II**:
-
-| List-I (River) | List-II (Sea/Ocean) |
-|---|---|
-| A. Narmada | 1. Bay of Bengal |
-| B. Mahanadi | 2. Arabian Sea |
-
-C. Periyar | 2
-
-D. Pennar | 1
-
-A. A-2, B-1, C-2, D-1
-
-B. A-1, B-2, C-2, D-1
-
-C. A-2, B-1, C-1, D-2
-
-D. A-1, B-1, C-2, D-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Narmada/Periyar → Arabian Sea; Mahanadi/Pennar → BoB. **B/C/D** swap east/west drainage.
-</details>
-
-**Q29.** With reference to the **Indus system**, which of the following statements is/are correct?
-
-1. Sutlej is a trans-Himalayan tributary of the Indus.
-2. Pandoh Dam is located on the Beas river.
-3. Baglihar Dam is on the Ravi river.
-
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-
-B. 2 and 3 only
-
-C. 1 and 3 only
-
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — (1) and (2) correct. **(3) false:** Baglihar on **Chenab**. **B/C/D** accept Ravi error.
-</details>
-
-**Q30.** Which of the following is the correct sequence of **Panch Prayag** from **upstream to downstream** along the Alaknanda?
-
-A. Vishnuprayag → Nandaprayag → Karnaprayag → Rudraprayag → Devprayag
-
-B. Karnaprayag → Rudraprayag → Vishnuprayag → Nandaprayag → Devprayag
-
-C. Vishnuprayag → Karnaprayag → Nandaprayag → Rudraprayag → Devprayag
-
-D. Nandaprayag → Vishnuprayag → Karnaprayag → Devprayag → Rudraprayag
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Standard upstream order before Devprayag. **B/C/D** scramble Nand/Karn/Rudra sequence.
-</details>
-
-**Q31.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
-
-**Assertion (A):** The east coast of India has larger river deltas than the west coast.
-
-**Reason (R):** The continental shelf is wider on the east coast and wave energy is relatively lower.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-C. (A) is true, but (R) is false
-
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Shelf width + energy explain delta asymmetry. **B** denies geomorphic link. **C/D** falsify coastal fact.
-</details>
-
-**Q32.** Which of the following rivers originate from **Amarkantak**?
-
-1. Narmada 2. Son 3. Johilla
-
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-
-B. 2 and 3 only
-
-C. 1 and 3 only
-
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Amarkantak plateau = radial drainage source for Narmada (west), Son (east), Johilla etc. **A/B/C** drop valid Amarkantak headstreams.
-</details>
-
-**Q33.** Which one of the following is **NOT** a left-bank tributary of the Ganga?
-
-A. Ramganga
-
-B. Gomti
-
-C. Yamuna
-
-D. Ghaghra
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Yamuna joins from **south/right bank** at Prayagraj (convention: looking downstream). Ramganga, Gomti, Ghaghra are left-bank Himalayan tributaries. **A/B/D** are left-bank.
-</details>
-
-**Q34.** Match **List-I** with **List-II**:
+| A. Antecedent | 1. Follows original slope |
+| B. Superimposed | 2. Cuts rising Himalaya |
+| C. Consequent | 3. Inherited older course (e.g. Chambal) |
+| D. Subsequent | 4. Later weak-belt tributary |
 
 *Row order is not the answer code.*
 
-| List-I (Delta type) | List-II (Example) |
-|---|---|
-| A. Bird's-foot | 1. Ganga-Brahmaputra (arcuate / Sundarbans) |
-| B. Arcuate | 2. Mississippi |
-| C. Moribund subdivision | 3. Bengal Delta |
+Code:
 
-A. 2 1 3
-
-B. 1 2 3
-
-C. 2 3 1
-
-D. 3 2 1
+A. A-2, B-1, C-3, D-4
+B. A-1, B-2, C-3, D-4
+C. A-2, B-3, C-1, D-4
+D. A-3, B-2, C-1, D-4
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Bird’s-foot ≠ Ganga; Moribund subdivision ≠ Cauvery for the UPPCS subdivision stem.
+**Ans: C.** Antecedent=cuts rising land; superimposed=inherited; consequent=original slope; subsequent=weak belt.
 
-**Ans: A** — Bird's-foot = Mississippi (2); Arcuate = Ganga–Brahmaputra (1); Moribund subdivision = Bengal Delta (3).
+**Logic:** Classic drainage-type confused pairs.
+
 </details>
 
-**Q35.** Which of the following statements about **Brahmaputra** is/are correct?
+**Q6.** With reference to trans-Himalayan rivers, which of the following statements is/are correct?
 
-1. It is known as Yarlung Tsangpo in Tibet.
-2. Teesta is its tributary.
-3. It drains into the Arabian Sea.
+1. They rise north of the Great Himalaya and cut through it.
+2. Among Jhelum / Sutlej / Ganga / Ravi, Sutlej is the trans-Himalayan pick.
+3. Jhelum rises in Tibet like the Sutlej.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-
+A. 1, 2 and 3
 B. 2 and 3 only
-
 C. 1 and 3 only
-
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — (1) and (2) correct. **(3) false:** drains to **Bay of Bengal** via Bangladesh. **B/C/D** accept Arabian Sea trap.
-</details>
-
-**Q36.** Which of the following pairs (**Waterfall — River**) is correctly matched?
-
-A. Jog — Sharavathi
-
-B. Dhuandhar — Narmada
-
-C. Chachai — Son
-
-D. Hundru — Damodar
+D. 1 and 2 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Dhuandhar on Narmada at Bhedaghat. Jog on Sharavathi ✓ but only B listed correctly among single best; Hundru-Subarnarekha; Chachai-Son. **D** wrong river.
+**Ans: D.** Only 1 and 2 are correct.
+
+**Logic:** Jhelum/Ravi are Himalayan-origin; Sutlej/Indus/Brahmaputra are classic trans-Himalayan.
+
 </details>
 
-**Q37.** With reference to **inland drainage**, consider the following statements:
+**Q7.** Arrange the five Punjab rivers from east to west in the usual teaching spine:
 
-1. Luni river ends in the Rann of Kutch.
-2. About 8% of India's area has inland drainage.
-3. Ghaggar river reaches the Arabian Sea.
-Which of the statements given above is/are correct?
+1. Chenab
+2. Sutlej
+3. Jhelum
+4. Beas
+5. Ravi
 
-A. 1 and 2 only
+A. 3–5–1–4–2
+B. 2–4–5–1–3
+C. 3–1–5–4–2
+D. 1–3–5–4–2
 
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Jhelum–Chenab–Ravi–Beas–Sutlej.
+
+**Logic:** Indus Treaty: India gets Ravi–Beas–Sutlej; Pakistan gets Indus–Jhelum–Chenab.
+
+</details>
+
+**Q8.** Which one of the following dam–river pairs is correctly matched?
+
+A. Baglihar — Beas
+B. Pandoh — Ravi
+C. Srisailam — Krishna
+D. Pandoh — Sutlej
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Srisailam is on the Krishna; Baglihar=Chenab; Pandoh=Beas.
+
+**Logic:** Do not put Pandoh on Ravi/Sutlej or Srisailam on Tungabhadra.
+
+</details>
+
+**Q9.** With reference to Ganga naming and Bangladesh names, which of the following statements is/are correct?
+
+1. Ganga is named at Devprayag where Alaknanda meets Bhagirathi.
+2. In Bangladesh, Ganga becomes Padma and Brahmaputra becomes Jamuna.
+3. Rudraprayag is where Bhagirathi meets Alaknanda to form the Ganga.
+
+A. 1, 2 and 3
 B. 2 and 3 only
-
 C. 1 and 3 only
-
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — (1) and (2) correct. **(3) false:** Ghaggar lost in **Thar**, no sea outlet. **B/C/D** accept Ghaggar outlet error.
-</details>
-
-**Q38.** Which of the following is **NOT** a tributary of the Godavari?
-
-A. Manjra
-
-B. Pranhita
-
-C. Penganga
-
-D. Hemavati
+D. 1 and 2 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Hemavati is **Kaveri** tributary. Others join Godavari. **A/B/C** are Godavari system.
+**Ans: D.** Statements 1 and 2 are correct.
+
+**Logic:** Rudraprayag = Alaknanda + Mandakini; Devprayag = Ganga naming.
+
 </details>
 
-**Q39.** Given below are two statements:
+**Q10.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-1. Ken-Betwa river link is an inter-basin transfer project.
-2. NW-4 connects the Krishna and Godavari river systems for navigation.
+Assertion (A): Betwa meets the Yamuna at Prayagraj.
 
-Select the correct answer from the code given below:
+Reason (R): Yamuna right-bank tributes west to east are Chambal–Sind–Betwa–Ken.
 
-A. Both 1 and 2
-
-B. Only 1
-
-C. Only 2
-
-D. Neither 1 nor 2
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Both standard river linking/NW associations. **B/C** drop one correct statement.
+**Ans: B.** (A) is false; (R) is true.
+
+**A/R logic:** Betwa joins at Hamirpur; Ken at Banda — not Prayagraj.
+
 </details>
 
-**Q40.** Arrange the following **west-flowing rivers** from **north to south**:
+**Q11.** Arrange Panch Prayag from upstream to downstream:
 
-1. Narmada 2. Tapi 3. Mahi 4. Periyar
+1. Devprayag
+2. Vishnuprayag
+3. Rudraprayag
+4. Karnaprayag
+5. Nandaprayag
 
-A. 1, 2, 3, 4
-
-B. 3, 1, 2, 4
-
-C. 1, 3, 2, 4
-
-D. 2, 1, 3, 4
+A. 5–2–4–3–1
+B. 2–4–5–3–1
+C. 2–5–4–3–1
+D. 2–5–3–4–1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Narmada (north) → Mahi → Tapi → Periyar (far south Kerala). **A/B/D** swap Tapi/Mahi order incorrectly.
+**Ans: C.** Vishnu → Nanda → Karn → Rudra → Dev.
+
+**Logic:** Badrinath on Alaknanda; Kedarnath on Mandakini.
+
 </details>
 
-**Q41.** Which of the following rivers passes through a **rift valley**?
+**Q12.** Which of the following pairs is/are NOT correctly matched?
 
-A. Godavari
+1. Narmada origin — Amarkantak
+2. Tapi origin — Multai (Satpura)
+3. Tapi origin — Western Ghats
 
-B. Narmada
-
-C. Mahanadi
-
-D. Kaveri
+A. 1 only
+B. 3 only
+C. 1 and 2 only
+D. 2 and 3 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Narmada (with Tapi) in fault between Satpura-Vindhya. Others are east-flowing plateau rivers. **A/C/D** not rift-guided.
+**Ans: B.** Pair 3 is wrong.
+
+**Logic:** Tapi rises at Multai in Satpura, not Western Ghats.
+
 </details>
 
-**Q42.** Consider the following statements about **Himalayan rivers**:
+**Q13.** With reference to peninsular river length order, which of the following is correct?
 
-1. They are in youthful stage and carry heavy sediment.
-2. They form meanders and ox-bow lakes in plain stage.
-3. They are mainly seasonal ephemeral streams.
-Which is/are correct?
-
-A. 1 and 2 only
-
-B. 2 and 3 only
-
-C. 1 and 3 only
-
-D. 1, 2 and 3
+A. Krishna > Godavari > Narmada > Mahanadi > Tapi
+B. Godavari > Krishna > Narmada > Mahanadi > Tapi
+C. Godavari > Narmada > Krishna > Mahanadi > Tapi
+D. Mahanadi > Godavari > Krishna > Narmada > Tapi
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — (1) and (2) correct. **(3) false:** Himalayan rivers are **perennial**, not ephemeral. **B/C/D** accept seasonal trap.
+**Ans: B.** Godavari (~1465) > Krishna (~1400) > Narmada (~1312) > Mahanadi (~851) > Tapi (~724).
+
+**Logic:** Godavari is also called Dakshin/Vriddha Ganga.
+
 </details>
 
-**Q43.** Match **List-I** with **List-II** (Uttarakhand — 2024 Q74 pattern):
+**Q14.** Match List-I with List-II:
 
 | List-I | List-II |
 |---|---|
-| A. Devprayag | 1. Alaknanda + Pindar |
-| B. Rudraprayag | 2. Alaknanda + Bhagirathi |
-| C. Karnaprayag | 3. Bhagirathi + Bhilangana |
-| D. Tehri | 4. Alaknanda + Mandakini |
+| A. Pranhita | 1. Kaveri tributary |
+| B. Hemavati | 2. Godavari tributary |
+| C. Malaprabha | 3. Krishna tributary |
+| D. Jonk | 4. Mahanadi tributary |
 
-A. 2 4 1 3
+*Row order is not the answer code.*
 
-B. 4 1 2 3
+Code:
 
-C. 2 3 1 4
-
-D. 1 2 3 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — UPPCS 2024 Q74 code **D = 2 4 1 3**. **B/C** swap Devprayag or Tehri pairs.
-</details>
-
-**Q44.** Which of the following is the **longest river** of Peninsular India?
-
-A. Krishna
-
-B. Godavari
-
-C. Mahanadi
-
-D. Narmada
+A. A-2, B-1, C-3, D-4
+B. A-1, B-2, C-3, D-4
+C. A-2, B-3, C-1, D-4
+D. A-4, B-1, C-3, D-2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Godavari ~1465 km, "Dakshin Ganga." **A** second by length. **D** west-flowing shorter.
+**Ans: A.** Pranhita→Godavari; Hemavati→Kaveri; Malaprabha→Krishna; Jonk→Mahanadi.
+
+**Logic:** Hyderabad stands on Musi, not Krishna stem.
+
 </details>
 
-**Q45.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
+**Q15.** With reference to deltas and estuaries, which of the following statements is/are correct?
 
-**Assertion (A):** Dendritic drainage pattern develops on uniformly resistant rock.
-
-**Reason (R):** Trellis pattern develops on folded sedimentary rocks with alternating hard and soft beds.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-C. (A) is true, but (R) is false
-
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Both statements true independently; Reason does not explain Assertion (different patterns, different controls). **A** over-links. **C/D** falsify one true pattern fact.
-</details>
-
-**Q46.** Which of the following cities is **NOT** located on the river Ganga?
-
-A. Kanpur
-
-B. Varanasi
-
-C. Lucknow
-
-D. Prayagraj
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Lucknow on **Gomti**, not Ganga directly. **A/B/D** on Ganga. **C** is UP city trap.
-</details>
-
-**Q47.** With reference to **Sundarbans**, which of the following statements is/are correct?
-
-1. It is formed by the Ganga and Brahmaputra delta.
-2. It is the largest mangrove forest in the world.
-3. It is a bird's-foot delta.
-
-Select the correct answer from the code given below:
+1. Most east-flowing peninsular rivers build deltas.
+2. Narmada and Tapi form estuaries in rift valleys.
+3. Sundarbans delta is bird’s-foot type like the Mississippi.
 
 A. 1 and 2 only
-
 B. 2 and 3 only
-
 C. 1 and 3 only
-
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — (1) and (2) correct. **(3) false:** Sundarbans is **arcuate**, not bird's-foot. **B/C/D** accept bird's-foot trap for Ganga delta.
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Sundarbans = arcuate; Mississippi = bird’s-foot.
+
 </details>
 
-**Q48.** Which of the following is **NOT** matched correctly?
+**Q16.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Hirakud — Mahanadi
+Assertion (A): Kosi is called the Sorrow of Bihar.
 
-B. Sardar Sarovar — Narmada
+Reason (R): Damodar is called the Sorrow of Bengal.
 
-C. Tehri — Bhagirathi
-
-D. Mettur — Krishna
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Mettur dam on **Kaveri**, not Krishna. **A/B/C** correct dam-river pairs.
+**Ans: A.** Both true; R is a parallel title fact, not the explanation of Kosi’s Bihar tag.
+
+**A/R logic:** Do not swap the two sorrow titles; R does not explain A.
+
 </details>
 
-**Q49.** Consider the following statements about **river rejuvenation**:
+**Q17.** With reference to National Waterways, which of the following pairs is/are correct?
 
-1. It may result from uplift of the land.
-2. It produces knickpoints and terraces.
-3. It is common in mature peninsular rivers with graded profiles.
-
-Select the correct answer from the code given below:
+1. NW-1 — Ganga–Hooghly
+2. NW-2 — Brahmaputra
+3. NW-3 — Krishna–Godavari
 
 A. 1 and 2 only
-
 B. 2 and 3 only
-
 C. 1 and 3 only
-
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — (1) and (2) correct. **(3) false:** rejuvenation affects previously graded streams after disturbance — peninsular rivers are old/graded, rejuvenation is exception (uplift/capture). **B/C/D** accept blanket peninsular rejuvenation.
+**Ans: A.** Statements 1 and 2 are correct.
+
+**Logic:** NW-3 = Kerala; NW-4 = Krishna–Godavari; NW-5 = Brahmani–Mahanadi.
+
 </details>
 
-**Q50.** Which one of the following sequences shows rivers of the **Panj Ab** (Indus tributaries in Punjab) from **east to west**?
+**Q18.** Which of the following statements about Luni and Barak is/are correct?
 
-A. Sutlej, Beas, Ravi, Chenab, Jhelum
-
-B. Jhelum, Chenab, Ravi, Beas, Sutlej
-
-C. Ravi, Beas, Sutlej, Chenab, Jhelum
-
-D. Chenab, Jhelum, Ravi, Beas, Sutlej
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Classic mnemonic **Jhelum → Chenab → Ravi → Beas → Sutlej** (east to west). **A/C/D** reverse Panj Ab order.
-</details>
-
-**Q51.** With reference to drainage types, which of the following statements is/are correct?
-
-1. Godavari, Krishna and Kaveri descending from the Western Ghats are consequent rivers.
-2. Chambal, Betwa and Son meeting the Yamuna or Ganga at right angles are subsequent streams.
-3. Indus, Sutlej and Brahmaputra are superimposed rivers of the peninsula.
-
-Select the correct answer from the code given below:
+1. Luni is inland with saline lower course.
+2. Barak becomes Meghna and reaches the Bay of Bengal.
+3. Barak is a classic inland drainage river like Luni.
 
 A. 1 and 2 only
-
 B. 2 and 3 only
-
 C. 1 and 3 only
-
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — (1) and (2) are the standard NCERT associations. **(3) fails:** those three are **antecedent Himalayan** rivers. Superimposed example is **Chambal**.
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Barak is not inland drainage.
+
 </details>
 
-**Q52.** Which of the following pairs is/are **NOT** correctly matched?
-(Tributary) — (Main river)
+**Q19.** Arrange east-flowing peninsular rivers roughly north to south:
 
-1. Manjra — Godavari
-2. Tungabhadra — Krishna
-3. Hemavati — Mahanadi
-4. Tawa — Narmada
-
-Select the correct answer from the code given below:
-
-A. Only 3
-
-B. Only 1 and 3
-
-C. Only 2 and 4
-
-D. Only 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Only (3) is wrong. **Hemavati** joins the **Kaveri**. Manjra–Godavari, Tungabhadra–Krishna, and Tawa–Narmada are correct.
-</details>
-
-**Q53.** Dhuandhar Falls and the Marble Rocks near Jabalpur are on which river?
-
-A. Tapi
-
-B. Son
-
-C. Narmada
-
-D. Chambal
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Narmada rift gorge at Bhedaghat / Jabalpur. Tapi is the Satpura twin but not this waterfall pair.
-</details>
-
-**Q54.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
-
-**Assertion (A):** Narmada and Tapi form estuaries rather than deltas.
-
-**Reason (R):** They flow through hard-rock rift valleys and carry little silt, while the west coast is steep and wave-dominated.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-C. (A) is true, but (R) is false
-
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Standard west-flowing estuary fact. East-flowing Godavari–Krishna–Mahanadi–Kaveri build deltas.
-</details>
-
-**Q55.** Jog (Gersoppa) Falls is on which river?
-
-A. Periyar
-
-B. Sharavati
-
-C. Narmada
-
-D. Subarnarekha
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Sharavati on the Karnataka Western Ghats. Hundru is Subarnarekha. Dhuandhar is Narmada.
-</details>
-
-**Q56.** After entering Bangladesh, the main stem of the Ganga is known as:
-
-A. Meghna
-
-B. Padma
-
-C. Jamuna
-
-D. Hooghly
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Tests Bangladesh name chain — Padma (Ganga) vs Jamuna (Brahmaputra) vs Meghna (Barak system after join).
-
-**Ans: B** — In Bangladesh the Ganga’s main stem is the **Padma**. Jamuna is the Brahmaputra. Meghna is the later combined outlet name. Hooghly is the Indian distributary via Farakka.
-</details>
-
-**Q57.** Which one of the following is the only major Ganga tributary that rises in the plains?
-
-A. Son
-
-B. Sharda
-
-C. Gomti
-
-D. Ramganga
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Origin type — plains lake vs Himalayan / plateau sources.
-
-**Ans: C** — **Gomti** rises at **Gomat Taal** (Pilibhit). Son rises at Amarkantak. Sharda/Ramganga are Himalayan-fed systems.
-</details>
-
-**Q58.** Which of the following tributaries of the Ganga flows **northwards** to join it?
-
-A. Kosi
-
-B. Ghaghara
-
-C. Son
-
-D. Gandak
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Bank + direction — Himalayan left-bank streams flow south; Son is the north-flowing right-bank fact.
-
-**Ans: C** — **Son** rises near Amarkantak and flows north to join the Ganga near Patna. The others are left-bank Himalayan streams flowing south.
-</details>
-
-**Q59.** Which one of the following city–river pairs is **NOT** correctly matched?
-
-A. Lucknow — Gomti
-
-B. Hyderabad — Krishna
-
-C. Surat — Tapi
-
-D. Ujjain — Kshipra
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** City on tributary vs main stem — Hyderabad sits on Musi, not Krishna.
-
-**Ans: B** — Hyderabad is on the **Musi** (a Krishna tributary). Vijayawada is the classic Krishna-bank city. Others are correctly matched.
-</details>
-
-**Q60.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
-
-Assertion (A): The Narmada does **not** form a delta at its mouth.
-
-Reason (R): It flows through a rift valley and carries little silt through hard rock.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true, and (R) is the correct explanation of (A)
-
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-C. (A) is true, but (R) is false
-
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**A/R logic:** A tests estuary vs delta at Narmada mouth. R tests structural/silt reason. R explains A.
-
-**Ans: A** — Narmada builds an **estuary**, not a delta. Rift course + hard rock + little silt explain why. Trap: “A true but R false” if you deny the rift fact.
-</details>
-
-**Q61.** The sharp “U” turn of the Brahmaputra near Namcha Barwa is best explained by:
-
-A. Volcanic blocking of the Tsangpo valley
-
-B. Syntaxial bending of the eastern Himalaya
-
-C. Capture by the Ganga in the plains
-
-D. Artificial diversion into the Meghna
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Geomorphic cause of Tsangpo bend — eastern Himalayan syntaxial bend, not capture or diversion.
-
-**Ans: B** — The bend around **Namcha Barwa** is linked to the eastern **syntaxial bend** of the young Himalaya. After the turn the river enters India as Siang/Dihang.
-</details>
-
-**Q62.** Eastern Dhauliganga is a tributary of:
-
-A. Alaknanda
-
-B. Kali river
-
-C. Gomti
-
-D. Mandakini
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Two Dhauligangas — Vishnuprayag Dhauli joins Alaknanda; Eastern Dhauliganga joins Kali/Sharda.
-
-**Ans: B** — Eastern Dhauliganga joins the **Kali**. Do not confuse with Dhauli Ganga of Vishnuprayag on the Alaknanda.
-</details>
-
-**Q63.** Arrange the following rivers in **descending order of length**:
-
-1. Mahanadi
-
-2. Krishna
-
+1. Krishna
+2. Mahanadi
 3. Godavari
+4. Cauvery
 
-4. Narmada
-
-Select the correct answer from the code given below:
-
-A. 4, 1, 2, 3
-
-B. 2, 3, 1, 4
-
-C. 3, 2, 4, 1
-
-D. 3, 1, 4, 2
+A. 2–3–1–4
+B. 3–2–1–4
+C. 2–1–3–4
+D. 2–3–4–1
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Length ranking — Godavari > Krishna > Narmada > Mahanadi.
+**Ans: A.** Mahanadi → Godavari → Krishna → Cauvery (with Subarnarekha north and Pennar/Vaigai in fuller lists).
 
-**Ans: C** — Godavari (~1465) → Krishna (~1400) → Narmada (~1312) → Mahanadi (~851). Trap: putting Narmada first because it is the longest west-flowing river.
+**Logic:** Standard peninsular east-coast order.
+
 </details>
 
----
+**Q20.** Which of the following pairs is/are NOT correctly matched?
+
+1. Trellis — folded structure
+2. Dendritic — homogeneous slope
+3. Radial — Damodar fault valley only
+
+A. 1 only
+B. 3 only
+C. 1 and 2 only
+D. 2 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Pair 3 is wrong.
+
+**Logic:** Radial classic = Amarkantak; Damodar is fault-valley tag.
+
+</details>
+
+**Q21.** With reference to Brahmaputra, which of the following statements is/are correct?
+
+1. It makes a U-turn near Namcha Barwa at the eastern syntaxial bend.
+2. Majuli is the classic river island.
+3. Teesta was captured from the Ganga system into the Brahmaputra.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are correct.
+
+**Logic:** Siang/Dihang entry and capture of Teesta are standard traps.
+
+</details>
+
+**Q22.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Hyderabad stands on the Krishna main stem.
+
+Reason (R): The Musi is a tributary on which Hyderabad is located.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** (A) is false; (R) is true.
+
+**A/R logic:** City-on-Musi trap — not Krishna stem.
+
+</details>
+
+**Q23.** With reference to Uttar Pradesh river tags, which of the following statements is/are correct?
+
+1. Sangam is at Prayagraj.
+2. Gomti is Lucknow’s river; Ghaghara is Ayodhya’s river.
+3. Chambal sanctuary spans only Uttar Pradesh and Haryana.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Statements 1 and 2 are correct.
+
+**Logic:** Chambal sanctuary spans UP–MP–Rajasthan, not Haryana.
+
+</details>
+
+**Q24.** Which one of the following is correct?
+
+A. Ganga is the longest of the four Himalayan systems overall including Pakistan course
+B. Indus is the longest overall, but Ganga is the longest river in India
+C. Brahmaputra is the longest river in India
+D. Godavari is longer than Ganga inside India
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Indus is longest overall; Ganga is longest in India.
+
+**Logic:** Most of Indus course lies in Pakistan.
+
+</details>
+
+**Q25.** With reference to Ken–Betwa and concordant drainage, which of the following statements is/are correct?
+
+1. Ken–Betwa is the National Perspective Plan link under implementation (MP–UP Bundelkhand).
+2. Concordant drainage follows structure; discordant cuts across it.
+3. Himalayan antecedents are classic concordant drainage.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Antecedent Himalayan rivers are classic discordant cases.
+
+</details>
+
+**Q26.** Which of the following pairs is correctly matched?
+
+A. Eastern Dhauliganga — joins Alaknanda at Vishnuprayag
+B. Eastern Dhauliganga — joins the Kali
+C. Badrinath — Mandakini
+D. Kedarnath — Alaknanda
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Eastern Dhauliganga joins the Kali; do not confuse with Vishnuprayag Dhauli.
+
+**Logic:** Badrinath=Alaknanda; Kedarnath=Mandakini.
+
+</details>
+
+**Q27.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): From Amarkantak, drainage is radial — Narmada west and Son toward the Ganga.
+
+Reason (R): The Western Ghats are the main peninsular divide.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; R is a separate divide fact and does not explain Amarkantak radial drainage.
+
+**A/R logic:** Amarkantak radial vs WG divide are different map facts.
+
+</details>
+
+**Q28.** With reference to Ganga tributary banks, which of the following statements is/are correct?
+
+1. Left-bank Himalayan tributes include Ramganga, Ghaghara, Gandak and Kosi.
+2. Yamuna, Son and Damodar are right-bank facts.
+3. Gomti is a plains-origin left-bank river.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are correct.
+
+**Logic:** Do not put Yamuna on the left bank.
+
+</details>
+
+**Q29.** Which of the following statements about Kaveri islands is/are correct?
+
+1. Island sequence includes Srirangapatna–Shivasamudram–Srirangam.
+2. Bhubaneswar is a classic Mahanadi-bank city in the usual trap set.
+3. Ludhiana is on the Sutlej, not the Ravi.
+
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Statements 1 and 3 are correct.
+
+**Logic:** Bhubaneswar is NOT the usual Mahanadi-bank city fact.
+
+</details>
+
+**Q30.** Which of the following pairs is/are NOT correctly matched?
+
+1. Padma — Ganga in Bangladesh
+2. Jamuna — Brahmaputra in Bangladesh
+3. Jamuna — Ganga in Bangladesh
+
+A. 1 only
+B. 3 only
+C. 1 and 2 only
+D. 2 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Pair 3 is wrong.
+
+**Logic:** Do not swap Padma and Jamuna.
+
+</details>
 
 ## Common Traps — Don't Fall For These
 

@@ -1207,74 +1207,146 @@ D. (A) is false, but (R) is true
 
 ## Practice Zone — UPPCS Format Drill
 
-**45 questions.** ≥60% multi-statement. A/R, Match-List, chronology, NOT-matched included.
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-**Q1.** With reference to Shad Darshana, which of the following statements is/are correct?
+**Q1.** With reference to the Astika schools, which of the following statements is/are correct?
 
-1. Nyaya and Vaisheshika form a complementary pair.
-2. Classical Samkhya is theistic because it posits Ishvara as a tattva.
-3. Yoga of Patanjali is the practical counterpart of Samkhya.
+1. Nyaya is associated with Gautama and stresses logic and epistemology.
+2. Vaisheshika is associated with Kanada and stresses atomism.
+3. The Gautama of Nyaya is identical with the Buddha.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
+Select the correct answer from the code given below:
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Classical Samkhya is nirishvara; Yoga adds Ishvara.
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** Nyaya’s Gautama is not the Buddha.
 
 </details>
 
----
+**Q2.** Consider the following pairs:
 
-**Q2.** How many of the following pairs are correctly matched?
+| School | Founder / tag |
+|--------|---------------|
+| 1. Samkhya | Kapila — Purusha–Prakriti; 25 tattvas |
+| 2. Yoga | Patanjali — practical partner of Samkhya |
+| 3. Purva Mimamsa | Badarayana — Vedic ritual |
+| 4. Vedanta | Jaimini — Upanishads |
 
-1. Vaisheshika — Kanada
-2. Mimamsa — Jaimini
-3. Uttara Mimamsa — Kapila
-4. Nyaya — Gautama
+Which of the pairs given above are correctly matched?
 
-A. Only two
-B. Only three
-C. All four
-D. Only one
+A. 1, 2 and 3 only
+B. 1 and 2 only
+C. 3 and 4 only
+D. 1, 2, 3 and 4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Uttara Mimamsa = Badarayana.
+**Ans: B.** Only pairs 1 and 2 are correct.
+
+**Logic:** Purva Mimamsa is Jaimini (ritual). Vedanta / Uttara Mimamsa is Badarayana. Pairs 3–4 are swapped.
 
 </details>
 
----
+**Q3.** Arrange the eight limbs of Ashtanga Yoga in the correct order:
 
-**Q3.** With reference to Vedanta, which of the following statements is/are correct?
+1. Asana
+2. Yama
+3. Pranayama
+4. Niyama
 
-1. Ramanuja propounded Vishishtadvaita.
-2. Madhavacharya propounded Shuddhadvaita.
-3. Sringeri matha is associated with the Yajurveda in the Shankara tradition.
+Select the correct answer for the first four limbs from the code given below:
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. 2–4–1–3
+B. 4–2–1–3
+C. 2–1–4–3
+D. 1–2–4–3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Madhva = Dvaita; Vallabha = Shuddhadvaita.
+**Ans: A.** The opening order is yama → niyama → asana → pranayama.
+
+**Logic:** Full order continues pratyahara → dharana → dhyana → samadhi.
 
 </details>
 
----
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Q4.** With reference to Vedic literature, which of the following statements is/are correct?
+Assertion (A): Classical Samkhya is dualist and is often described as nirishvara.
 
-1. *Tat tvam asi* occurs in the Chandogya Upanishad.
-2. Gandharvaveda is the Upaveda of Samaveda.
-3. Brahmanas constitute the jñāna-kāṇḍa.
+Reason (R): Classical Yoga adds Ishvara as a distinct practical emphasis beside Samkhya theory.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both (A) and (R) are true and (R) correctly explains the Samkhya–Yoga contrast on Ishvara.
+
+**A/R logic:** Samkhya theory without Ishvara pairs with Yoga practice that includes Ishvara.
+
+</details>
+
+**Q5.** With reference to Vedanta acharyas, which of the following pairs is/are correctly matched?
+
+1. Shankara — Advaita
+2. Ramanuja — Vishishtadvaita
+3. Madhva — Dvaita
+4. Vallabha — Shuddhadvaita
+
+Select the correct answer from the code given below:
+
+A. 1, 2 and 3 only
+B. 1, 2, 3 and 4
+C. 2, 3 and 4 only
+D. 1 and 4 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** All four pairs are correctly matched.
+
+**Logic:** Also remember Nimbarka for Dvaitadvaita when that name appears.
+
+</details>
+
+**Q6.** Which of the following pairs is **NOT** correctly matched?
+
+A. Sringeri matha — Yajurveda
+B. Dwaraka matha — Samaveda
+C. Puri matha — Atharvaveda
+D. Badri / Jyotirmath — Atharvaveda
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Puri is linked with Rigveda, not Atharvaveda.
+
+**Logic:** Sringeri–Yajur, Dwaraka–Sama, Puri–Rig, Badri–Atharva.
+
+</details>
+
+**Q7.** With reference to the Vedic textual stack, which of the following statements is/are correct?
+
+1. The usual order is Samhita → Brahmana → Aranyaka → Upanishad.
+2. Tat tvam asi is associated with the Chandogya Upanishad.
+3. Brahman and Brahmin are interchangeable terms in philosophy stems.
+
+Select the correct answer from the code given below:
 
 A. 1 and 2 only
 B. 2 and 3 only
@@ -1284,786 +1356,134 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Brahmanas = karma-kāṇḍa.
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Brahman is the Absolute. Brahmin is the social category.
 
 </details>
 
----
+**Q8.** Consider the following statements about the Buddha’s life geography:
 
-**Q5.** With reference to the Buddha’s life, which of the following statements is/are correct?
+1. Birth — Lumbini
+2. Enlightenment — Bodh Gaya (Bihar)
+3. First sermon — Sarnath (UP)
+4. Mahaparinirvana — Kushinagar (UP)
 
-1. The first sermon was at Sarnath in Uttar Pradesh.
-2. Mahaparinirvana was at Bodh Gaya.
-3. Anatta means there is no permanent self.
+Which of the statements given above are correct?
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. 1, 2 and 3 only
+B. 2, 3 and 4 only
+C. 1, 3 and 4 only
+D. 1, 2, 3 and 4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Death = Kushinagar.
+**Ans: D.** All four geography tags are correct.
+
+**Logic:** Sarnath and Kushinagar are the high-yield UP Buddhist circuit points.
 
 </details>
 
----
-
-**Q6.** With reference to Buddhist Councils, which of the following statements is/are correct?
-
-1. The first council was held at Vaishali under Ashoka.
-2. Moggaliputta Tissa is associated with the third council at Pataliputra.
-3. Kundalvana is linked with Kanishka.
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — First = Rajagriha / Ajatashatru.
-
-</details>
-
----
-
-**Q7.** With reference to Buddhist literature, which of the following statements is/are correct?
-
-1. *Milind Panho* is a dialogue with Nagasena.
-2. *Buddhacharita* was written by Nagarjuna.
-3. Vinaya Pitaka was recited by Upali at the first council.
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — *Buddhacharita* = Ashvaghosha.
-
-</details>
-
----
-
-**Q8.** With reference to Jainism, which of the following statements is/are correct?
-
-1. Mahavira was the first Tirthankara.
-2. Vasupujya attained nirvana at Champapuri.
-3. Parshvanatha’s symbol is the snake.
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Mahavira = 24th; Rishabha = 1st (bull).
-
-</details>
-
----
-
-**Q9.** Which of the following pairs is/are **NOT** correctly matched?
-
-1. Digambara — white-clad monks
-2. Gomateshwara statue — Chamundaraya, Shravanabelagola
-3. Jain Triratna — Buddha, Dharma, Sangha
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. Only 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q10.** With reference to Bhakti, which of the following statements is/are correct?
-
-1. There were 12 Alvars and 63 Nayanars.
-2. Andal is the only woman Alvar.
-3. Nayanars were devoted to Vishnu.
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Nayanars = Shiva.
-
-</details>
-
----
-
-**Q11.** With reference to Bhakti saints, which of the following statements is/are correct?
-
-1. Kabir was a disciple of Ramananda.
-2. Surdas was a disciple of Vallabhacharya.
-3. *Ramcharitmanas* is in Sanskrit.
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Awadhi.
-
-</details>
-
----
-
-**Q12.** Which of the following pairs is/are **NOT** correctly matched?
-
-1. Daya Bai — Vinay Malika
-2. Jnaneshwar — Jnaneshwari
-3. Gangabai — Ganesh Dev Leela
-
-A. Only 3
-B. 1 and 3 only
-C. Only 1
-D. 2 and 3 only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q13.** With reference to Sufi orders, which of the following statements is/are correct?
-
-1. Nizamuddin Auliya’s dargah is at Multan.
-2. Wahdat-ul-shuhud is associated with Ahmad Sirhindi.
-3. Baba Farid’s hymns appear in the Guru Granth Sahib.
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Nizamuddin = Delhi.
-
-</details>
-
----
-
-**Q14.** With reference to Sikh Gurus, which of the following statements is/are correct?
-
-1. Guru Angad developed Gurmukhi.
-2. Guru Arjan compiled the Adi Granth.
-3. The Khalsa was founded by Guru Nanak in 1699.
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Khalsa = Gobind Singh, 1699.
-
-</details>
-
----
-
-**Q15.** With reference to religions of India, which of the following statements is/are correct?
-
-1. Buddhism, Jainism and Sikhism originated in India.
-2. Jains have the highest urban share among major communities.
-3. St. Thomas tradition places early Christianity on the Kerala coast.
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q16.** With reference to heritage, which of the following statements is/are correct?
-
-1. Kumbh Mela is UNESCO Intangible Cultural Heritage (2017).
-2. Qutub Minar is on the same intangible list.
-3. Maha Kumbh 2025 was held at Prayagraj.
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q17.** Match List-I with List-II and select the correct answer from the code given below.
-
-List-I
-A. Kapila
-B. Patanjali
-C. Kanada
-D. Gautama
-
-List-II
-1. Yoga Sutras
-2. Samkhya
-3. Nyaya
-4. Vaisheshika
-
-A. A-2, B-1, C-4, D-3
-B. A-1, B-2, C-3, D-4
-C. A-2, B-4, C-1, D-3
-D. A-3, B-1, C-4, D-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q18.** Match List-I with List-II and select the correct answer from the code given below.
-
-List-I
-A. Ramanuja
-B. Madhva
-C. Nimbarka
-D. Vallabha
-
-List-II
-1. Dvaita
-2. Shuddhadvaita
-3. Vishishtadvaita
-4. Dvaitadvaita
-
-A. A-3, B-1, C-4, D-2
-B. A-1, B-3, C-2, D-4
-C. A-3, B-2, C-1, D-4
-D. A-4, B-1, C-3, D-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q19.** Match List-I with List-II and select the correct answer from the code given below.
-
-List-I (Tirthankara)
-A. Rishabha
-B. Vasupujya
-C. Neminatha
-D. Mahavira
-
-List-II
-1. Lion / Pavapuri
-2. Bull / Ashtapad
-3. Champapuri
-4. Girnar / Urjayanta
-
-A. A-2, B-3, C-4, D-1
-B. A-2, B-4, C-3, D-1
-C. A-1, B-3, C-4, D-2
-D. A-2, B-3, C-1, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q20.** Match List-I with List-II and select the correct answer from the code given below.
-
-List-I
-A. Muinuddin Chishti
-B. Bahauddin Zakariya
-C. Fourth Buddhist Council
-D. First sermon
-
-List-II
-1. Kashmir / Kanishka
-2. Ajmer
-3. Multan
-4. Sarnath
-
-A. A-2, B-3, C-1, D-4
-B. A-3, B-2, C-4, D-1
-C. A-2, B-1, C-3, D-4
-D. A-4, B-3, C-1, D-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q21.** Match List-I with List-II and select the correct answer from the code given below.
-
-List-I (Guru)
-A. Angad
-B. Arjan
-C. Hargobind
-D. Gobind Singh
-
-List-II
-1. Khalsa, 1699
-2. Gurmukhi
-3. Adi Granth
-4. Miri-Piri
-
-A. A-2, B-3, C-4, D-1
-B. A-3, B-2, C-1, D-4
-C. A-2, B-4, C-3, D-1
-D. A-1, B-3, C-4, D-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q22.** Arrange the following in chronological order:
-
-1. Guru Nanak
-2. Chaitanya Mahaprabhu
-3. Namdev
-4. Kabir
-
-A. 3, 4, 1, 2
-B. 4, 3, 2, 1
-C. 3, 4, 2, 1
-D. 4, 3, 1, 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q23.** Arrange the Buddhist Council places in chronological order:
+**Q9.** Arrange the four Buddhist councils in chronological order of place:
 
 1. Vaishali
 2. Rajagriha
 3. Kundalvana
 4. Pataliputra
 
-A. 2, 1, 4, 3
-B. 1, 2, 4, 3
-C. 2, 1, 3, 4
-D. 2, 4, 1, 3
+Select the correct answer from the code given below:
+
+A. 2–1–4–3
+B. 1–2–4–3
+C. 2–4–1–3
+D. 2–1–3–4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: A.** The order is Rajagriha → Vaishali → Pataliputra → Kundalvana.
+
+**Logic:** Do not reverse Vaishali and Pataliputra.
 
 </details>
 
----
+**Q10.** With reference to Theravada and Mahayana, which of the following statements is/are correct?
 
-**Q24.** Assertion (A): The Nyaya school was founded by Gautama.
-Reason (R): This Gautama is the same person as Gautama Buddha.
+1. Theravada aims at the arhat ideal and traditionally uses Pali.
+2. Mahayana aims at the Bodhisattva ideal and often uses Sanskrit.
+3. Milindapanha is a dialogue of Menander with Nagarjuna.
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Milindapanha pairs Menander / Milinda with Nagasena, not Nagarjuna.
+
+</details>
+
+**Q11.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Mahavira added Brahmacharya as the fifth vow beyond Parshva’s four vows.
+
+Reason (R): Digambara monks wear white robes and admit women as monks on the same footing as Svetambara practice.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: C.** (A) is true. (R) is false because Digambara monks are sky-clad and deny women monks.
+
+**A/R logic:** Vow fact is correct. Digambara / Svetambara dress and gender rules are reversed in (R).
 
 </details>
 
----
+**Q12.** Consider the following pairs:
 
-**Q25.** Assertion (A): Nizamuddin Auliya’s hospice was at Multan.
-Reason (R): Amir Khusrau was a disciple of Nizamuddin Auliya.
+| Concept | Meaning |
+|---------|---------|
+| 1. Anekantavada | Many-sided reality |
+| 2. Syadvada | Seven-fold “syad” speech |
+| 3. Anicca | No-self |
+| 4. Anatta | Impermanence |
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q26.** Assertion (A): *Fawaid ul Fawad* was compiled by Amir Khusrau.
-Reason (R): Khusrau was a poet-disciple of Nizamuddin Auliya.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Compiler = Hasan Sijzi.
-
-</details>
-
----
-
-**Q27.** Assertion (A): Kumbh Mela is a UNESCO World Heritage monument.
-Reason (R): Kumbh Mela was inscribed as Intangible Cultural Heritage in 2017.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q28.** With reference to *Milind Panho*, which of the following statements is/are correct?
-
-1. The king is identified with Menander.
-2. The monk is Nagarjuna.
-3. The text is in the question-answer form of a dialogue.
+Which of the pairs given above are correctly matched?
 
 A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+B. 1, 2 and 3 only
+C. 3 and 4 only
+D. 1, 2, 3 and 4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Monk = Nagasena.
+**Ans: A.** Only pairs 1 and 2 are correct.
+
+**Logic:** Anicca is impermanence. Anatta is no-self. Pairs 3–4 are swapped.
 
 </details>
 
----
-
-**Q29.** With reference to Hatha Yoga, which of the following statements is/are correct?
-
-1. It was practised by Nathpanthis.
-2. Some Sufis adopted Hatha techniques.
-3. Patanjali’s eight limbs begin with asana and end with yama.
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Order is yama → samadhi.
-
-</details>
-
----
-
-**Q30.** Which one of the following is correctly matched?
-
-A. First Buddhist Council — Vaishali — Ashoka
-B. Third Buddhist Council — Pataliputra — Ashoka
-C. Fourth Buddhist Council — Rajagriha — Ajatashatru
-D. Second Buddhist Council — Kundalvana — Kanishka
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q31.** With reference to Charvaka and Ajivika, which of the following statements is/are correct?
-
-1. Charvaka accepts only perception as pramana in its classical form.
-2. Ajivika is associated with Makkhali Gosala.
-3. Both are Astika because they arose in India.
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q32.** With reference to UP sacred geography, which of the following statements is/are correct?
-
-1. Sarnath and Kushinagar are in Uttar Pradesh.
-2. Pavapuri is in Uttar Pradesh.
-3. Maghar is associated with Kabir.
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Pavapuri = Bihar.
-
-</details>
-
----
-
-**Q33.** How many of the following statements about the Eightfold Path are correct?
-
-1. It is the Magga of the Four Noble Truths.
-2. It includes Right Livelihood.
-3. It is identical with the five Jain Mahavratas.
-4. It is the practical form of the Middle Path.
-
-A. Only two
-B. Only three
-C. All four
-D. Only one
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1, 2 and 4.
-
-</details>
-
----
-
-**Q34.** With reference to Shankara’s mathas, which of the following statements is/are correct?
-
-1. Dwaraka is the western matha, linked with Samaveda.
-2. Jyotirmath / Badrinath is the northern matha.
-3. Puri Govardhana is linked with Yajurveda.
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Puri = Rig; Sringeri = Yajur.
-
-</details>
-
----
-
-**Q35.** With reference to Vaisheshika and Nyaya, which of the following statements is/are correct?
-
-1. Kanada is the proponent of Vaisheshika atomism.
-2. Upamana is one of the four Nyaya pramanas.
-3. Patanjali wrote the Vaisheshika Sutras.
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q36.** With reference to Chishti saints, which of the following statements is/are correct?
-
-1. Gesu Daraz is associated with Gulbarga.
-2. Burhanuddin Gharib is associated with Daulatabad.
-3. Salim Chishti’s dargah is at Ajmer.
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Salim Chishti = Fatehpur Sikri.
-
-</details>
-
----
-
-**Q37.** Which of the following pairs is/are correctly matched?
-
-1. *Fawaid ul Fawad* — Hasan Sijzi
-2. *Kashf-ul-Mahjub* — Ali Hujwiri
-3. *Ramcharitmanas* — Tulsidas, Awadhi
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q38.** With reference to Mahayana, which of the following statements is/are correct?
-
-1. The Bodhisattva ideal is central.
-2. Nagarjuna is associated with Shunyavada / Madhyamaka.
-3. Theravada’s canonical language is primarily Sanskrit.
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Theravada = Pali.
-
-</details>
-
----
-
-**Q39.** Which of the following is/are **NOT** correctly matched?
-
-1. Sammed Shikhar — Jharkhand
-2. Urjayanta — Neminatha
-3. Ashtapad — Mahavira
-
-A. Only 3
-B. 1 and 3 only
-C. 2 and 3 only
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Ashtapad = Rishabha.
-
-</details>
-
----
-
-**Q40.** With reference to syncretic heritage, which of the following statements is/are correct?
-
-1. Guru Granth Sahib includes hymns of Kabir, Namdev and Baba Farid.
-2. Ajmer Sharif is the dargah of Muinuddin Chishti.
-3. Four traditional Kumbh sites include Prayagraj, Haridwar, Nashik and Ujjain.
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q41.** How many of the following Tirthankara–symbol pairs are correctly matched?
+**Q13.** With reference to Jain Tirthankara symbols, which of the following is/are correctly matched?
 
 1. Rishabha — bull
-2. Padmaprabha — lotus
-3. Vasupujya — lion
-4. Munisuvrata — tortoise
-5. Parshvanatha — snake
+2. Parshva — snake
+3. Mahavira — lion
 
-A. Only three
-B. Only four
-C. All five
-D. Only two
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Vasupujya = **buffalo**; lion = Mahavira.
-
-</details>
-
----
-
-**Q42.** Which of the following statements about Tirthankara nirvana places is/are correct?
-
-1. Twenty Tirthankaras attained nirvana at Sammed Shikhar.
-2. Neminatha’s nirvana is associated with Girnar / Urjayanta.
-3. Vasupujya’s nirvana is at Pavapuri.
+Select the correct answer from the code given below:
 
 A. 1 and 2 only
 B. 2 and 3 only
@@ -2073,17 +1493,35 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Vasupujya = Champapuri; Pavapuri = Mahavira.
+**Ans: D.** All three symbol matches are correct.
+
+**Logic:** Nirvana place tags include Ashtapad, Shikharji and Pavapuri when asked.
 
 </details>
 
----
+**Q14.** Which one of the following sequences of bhakti personalities is in the correct chronological order often used in teaching spines?
 
-**Q43.** With reference to Alvars and Nayanars, which of the following statements is/are correct?
+A. Kabir → Namdev → Nanak → Chaitanya
+B. Namdev → Kabir → Nanak → Chaitanya
+C. Nanak → Namdev → Kabir → Chaitanya
+D. Chaitanya → Namdev → Kabir → Nanak
 
-1. There are 12 Alvars; Andal is the only woman Alvar.
-2. Appar, Sambandar and Sundarar are Shaiva Samayacharyas.
-3. Nammalvar’s *Tiruvaymoli* is a Vaishnava core text.
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** A common spine is Namdev → Kabir → Nanak → Chaitanya.
+
+**Logic:** Kabir is linked with Ramananda. Surdas belongs to Vallabha’s line. Tulsidas wrote in Awadhi.
+
+</details>
+
+**Q15.** With reference to Tamil bhakti, which of the following statements is/are correct?
+
+1. There are 12 Alvars and Andal is the only woman among them.
+2. There are 63 Nayanars.
+3. The four Samayacharyas are Appar, Sambandar, Sundarar and Manikkavachakar.
+
+Select the correct answer from the code given below:
 
 A. 1 and 2 only
 B. 2 and 3 only
@@ -2093,17 +1531,44 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: D.** All three statements are correct.
+
+**Logic:** Do not reverse Alvar and Nayanar counts.
 
 </details>
 
----
+**Q16.** Consider the following pairs:
 
-**Q44.** With reference to Jain vows and texts, which of the following statements is/are correct?
+| Sufi / concept | Tag |
+|----------------|-----|
+| 1. Chishti | Sama and qawwali; Ajmer / Delhi |
+| 2. Suhrawardi | Multan link |
+| 3. Wahdat-ul-wujud | Sirhindi’s formulation |
+| 4. Fawaid-ul-Fuad | Nizamuddin’s conversations via Amir Hasan Sijzi |
 
-1. Parshvanatha taught four vows; Mahavira added brahmacharya.
-2. Kalpasutra is recited during Paryushana.
-3. Drishtivada is the surviving first Anga.
+Which of the pairs given above are correctly matched?
+
+A. 1, 2 and 4 only
+B. 1 and 3 only
+C. 2, 3 and 4 only
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Pairs 1, 2 and 4 are correct.
+
+**Logic:** Wahdat-ul-wujud is Ibn Arabi’s line. Sirhindi is associated with wahdat-ush-shuhud.
+
+</details>
+
+**Q17.** With reference to the Sikh Gurus, which of the following statements is/are correct?
+
+1. Angad gave Gurmukhi script prominence.
+2. Arjan compiled the Adi Granth.
+3. Gobind Singh founded the Khalsa in 1699.
+
+Select the correct answer from the code given below:
 
 A. 1 and 2 only
 B. 2 and 3 only
@@ -2113,17 +1578,35 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Drishtivada is the **lost** 12th Anga; Acharanga is first.
+**Ans: D.** All three statements are correct.
+
+**Logic:** Keep Guru–achievement pairs separate from Takht geography.
 
 </details>
 
----
+**Q18.** Which of the following is **NOT** one of the five Sikh Takhts?
 
-**Q45.** With reference to Sikh Takhts, which of the following statements is/are correct?
+A. Akal Takht
+B. Keshgarh Sahib
+C. Hazur Sahib
+D. Golden Temple as a separate fifth Takht name in the standard five-Takht list
 
-1. Akal Takht is at Amritsar.
-2. Gobind Singh was born at Patna Sahib and died at Nanded (Hazur Sahib).
-3. Khalsa was founded at Talwandi Sabo.
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** The Golden Temple is not listed as a separate fifth Takht in the standard five-Takht set.
+
+**Logic:** The five are Akal Takht, Keshgarh Sahib, Damdama Sahib, Patna Sahib and Hazur Sahib.
+
+</details>
+
+**Q19.** With reference to pramana counts, which of the following statements is/are correct?
+
+1. Charvaka accepts only perception.
+2. Nyaya accepts four pramanas.
+3. Mimamsa–Kumarila / Vedanta traditions often accept six pramanas.
+
+Select the correct answer from the code given below:
 
 A. 1 and 2 only
 B. 2 and 3 only
@@ -2133,11 +1616,244 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Khalsa = **Anandpur / Keshgarh**, 1699. Damdama = Talwandi Sabo.
+**Ans: D.** All three pramana-count statements are correct.
+
+**Logic:** Pramana-number traps are frequent: one vs four vs six.
 
 </details>
 
----
+**Q20.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Kumbh Mela is recognised as UNESCO intangible cultural heritage (2017).
+
+Reason (R): Kumbh Mela is also a monument World Heritage cultural site like the Taj Mahal.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** (A) is true. (R) is false because Kumbh is intangible heritage, not a monument WHS.
+
+**A/R logic:** Do not confuse ICH living rites with tangible monument listings.
+
+</details>
+
+**Q21.** Consider the following UP-linked religious geography statements:
+
+1. Sarnath, Kushinagar, Shravasti, Sankisa and Kaushambi form a Buddhist circuit set.
+2. Kabir’s samadhi is associated with Maghar.
+3. Mathura’s Kankali Tila is a classic Jain archaeological fact.
+
+Which of the statements given above are correct?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three statements are correct.
+
+**Logic:** Also remember Salim Chishti’s dargah at Fatehpur Sikri as the high-yield UP Sufi site.
+
+</details>
+
+**Q22.** With reference to Nastika traditions, which of the following statements is/are correct?
+
+1. The usual Nastika set is Charvaka, Buddhism and Jainism.
+2. Ajivika is linked with Makkhali Gosala and the idea of niyati.
+3. Astika schools reject the Veda as pramana.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Astika schools accept the Veda as pramana. Nastika reject Vedic authority.
+
+</details>
+
+**Q23.** Which one of the following pairs is correctly matched?
+
+A. Saguna bhakti — formless Absolute only
+B. Nirguna bhakti — formed God with attributes only
+C. Surdas — Vallabha’s line; Braj Krishna poetry
+D. Tulsidas — primarily Braj Padavali like Surdas
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Surdas belongs to Vallabha’s line and wrote in Braj.
+
+**Logic:** Saguna is formed God. Nirguna is formless Absolute. Tulsidas wrote the Awadhi Ramcharitmanas.
+
+</details>
+
+**Q24.** Consider the following statements about Svetambara canon and vows:
+
+1. The Svetambara canon has 12 Angas.
+2. Parshva taught four vows.
+3. Digambara monks wear white and admit women monks.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** White dress and women monks are Svetambara features, not Digambara.
+
+</details>
+
+**Q25.** With reference to Nizamuddin Auliya, which of the following is correct?
+
+A. He belongs to the Multan Suhrawardi centre as his primary seat
+B. He belongs to Delhi in the Chishti tradition
+C. Fawaid-ul-Fuad was written by Amir Khusrau as a music treatise only
+D. He rejected all forms of sama in every Chishti account
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Nizamuddin Auliya belongs to Delhi in the Chishti line.
+
+**Logic:** Fawaid-ul-Fuad records his conversations compiled by Amir Hasan Sijzi.
+
+</details>
+
+**Q26.** Arrange the following in the chronological order of the Vedic stack:
+
+1. Upanishad
+2. Samhita
+3. Aranyaka
+4. Brahmana
+
+Select the correct answer from the code given below:
+
+A. 2–4–3–1
+B. 2–3–4–1
+C. 4–2–3–1
+D. 2–4–1–3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** The order is Samhita → Brahmana → Aranyaka → Upanishad.
+
+**Logic:** Do not place Upanishad before Brahmana in the teaching stack.
+
+</details>
+
+**Q27.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Nyaya and Vaisheshika are often paired as logic and atomism respectively.
+
+Reason (R): Both Nyaya and Vaisheshika reject the Veda as pramana and are therefore Nastika.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** (A) is true. (R) is false because both are Astika schools that accept the Veda.
+
+**A/R logic:** Logic vs atomism is correct. Nastika label in (R) is wrong.
+
+</details>
+
+**Q28.** With reference to Jain nirvana places, which of the following is/are correctly associated in standard teaching?
+
+1. Ashtapad
+2. Shikharji
+3. Pavapuri
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three places appear in the nirvana-place set.
+
+**Logic:** Pair them with Tirthankara narratives when the stem asks specifics.
+
+</details>
+
+**Q29.** Which of the following statements about Charvaka is/are correct?
+
+1. It is counted among Nastika traditions.
+2. It accepts only one pramana in the usual teaching contrast.
+3. It is identical with Yoga–Patanjali.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Yoga–Patanjali is Astika and is not Charvaka.
+
+</details>
+
+**Q30.** Consider the following pairs of confused terms:
+
+| Pair | Correct distinction |
+|------|---------------------|
+| 1. Astika / Nastika | Accepts vs rejects Veda as pramana |
+| 2. Alvar / Nayanar | 12 Vaishnava vs 63 Shaiva |
+| 3. Tangible WH / Intangible ICH | Monument vs living rite |
+
+Which of the pairs given above are correctly explained?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three distinctions are correct.
+
+**Logic:** Kumbh and Yoga are ICH examples. Qutub-type monuments are tangible WHS examples.
+
+</details>
 
 ## Common Traps
 

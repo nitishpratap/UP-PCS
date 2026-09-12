@@ -575,305 +575,605 @@ D. peaks at mid-latitudes only
 
 ---
 
-## Practice Zone
+## Practice Zone — UPPCS Format Drill
 
-**Q1.** Interior Australia is desert mainly because of:
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-Options: A. Temperate location of northern Australia B. Subtropical high and continentality C. Permanent ice D. Mangrove cover
+**Q1.** With reference to biomes, which of the following statements is/are correct?
 
-<details><summary>Show answer</summary>
+1. Large climate-defined vegetation–fauna regions.
+2. Ecosystem is a local biotic–abiotic functional unit.
+3. Biome and ecosystem are identical terms always.
 
-**Ans: B**
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q2.** Northern Australia is mainly:
+**Ans: B.** Only 1 and 2.
 
-Options: A. Temperate B. Tropical C. Polar D. Mediterranean only
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q3.** Gobi Desert extends primarily into:
-
-Options: A. Mongolia and China B. India and Pakistan C. Brazil and Chile D. Egypt and Libya
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Do not treat as identical.
 
 </details>
 
-**Q4.** Brazilian equatorial rainforest is called:
+**Q2.** Match Köppen letters:
 
-Options: A. Selva B. Puszta C. Pampas D. Taiga
+| List-I | List-II |
+|--------|--------|
+| A. A | 1. Arid |
+| B. B | 2. Tropical |
+| C. C | 3. Temperate |
+| D. E | 4. Polar |
 
-<details><summary>Show answer</summary>
+Code:
 
-**Ans: A**
+A. A-2, B-3, C-1, D-4
+B. A-2, B-1, C-3, D-4
+C. A-1, B-2, C-3, D-4
+D. A-3, B-1, C-2, D-4
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q5.** Terra Roxa is:
+**Ans: B.** A-2, B-1, C-3, D-4.
 
-Options: A. Fertile dark soil of Brazil B. Cold desert of Mongolia C. Hungarian grassland D. Arctic ice
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q6.** Masai habitat is correctly:
-
-Options: A. West Africa B. East Africa C. Kalahari D. Congo Basin only
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Tropical/arid/temperate/polar.
 
 </details>
 
-**Q7.** Bushman (San) are associated with:
+**Q3.** Which of the following pairs is/are correctly matched?
 
-Options: A. Kalahari Desert B. Gobi C. Thar D. Atacama
+1. Sahara — largest hot desert
+2. Atacama — among the driest
+3. Gobi — Mongolia and China
 
-<details><summary>Show answer</summary>
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: D.** All three.
 
-**Q8.** Pygmy habitat:
-
-Options: A. Congo Basin B. Arctic Canada C. Hungary D. Argentina
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q9.** Puszta grassland is in:
-
-Options: A. Hungary B. Argentina C. Australia D. India
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Desert classics.
 
 </details>
 
-**Q10.** Pampas grassland is in:
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Options: A. Argentina B. Hungary C. Mongolia D. Kenya
+Assertion (A): Australia’s interior desert is explained mainly by subtropical high pressure and continentality.
 
-<details><summary>Show answer</summary>
+Reason (R): Northern Australia is situated in the temperate zone.
 
-**Ans: A**
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q11.** World Floral Regions associated with:
+**Ans: C.** A true, R false.
 
-Options: A. Adolf Engler B. C.O. Sauer C. Koppen only D. Wegener
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q12.** Planting Hearth associated with:
-
-Options: A. C.O. Sauer B. Adolf Engler C. Darwin D. Humboldt only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**A/R logic:** UPPCS-style Australia A/R trap — north is tropical, not temperate.
 
 </details>
 
-**Q13.** Cryophyte Steppe relates to:
+**Q5.** With reference to Brazil, which of the following statements is/are correct?
 
-Options: A. Arctic Tundra B. Sahara C. Amazon D. Mediterranean
+1. Selva = Amazon equatorial rainforest name.
+2. Terra Roxa = fertile dark volcanic soil.
+3. Both can be true together in match stems.
 
-<details><summary>Show answer</summary>
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: A.** All three.
 
-**Q14.** Permafrost is found in:
-
-Options: A. Taiga and Tundra B. Savannah only C. Hot deserts only D. Coral reefs
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q15.** Land of Big Games refers to:
-
-Options: A. Tropical Savanna B. Hot Desert C. Tundra D. Taiga
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Selva + Terra Roxa.
 
 </details>
 
-**Q16.** Largest hot desert:
+**Q6.** Match List-I with List-II:
 
-Options: A. Sahara B. Thar C. Atacama D. Gobi
+| List-I | List-II |
+|--------|--------|
+| A. Planting Hearth | 1. Adolf Engler |
+| B. World Floral Regions | 2. C.O. Sauer |
+| C. Puszta | 3. Hungary grassland |
 
-<details><summary>Show answer</summary>
+Code:
 
-**Ans: A**
+A. A-1, B-2, C-3
+B. A-2, B-1, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q17.** Driest desert among these:
+**Ans: B.** A-2, B-1, C-3.
 
-Options: A. Atacama B. Thar C. Kalahari D. Great Basin only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q18.** India's biogeographic zones number:
-
-Options: A. 10 B. 14 C. 36 D. 7
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Sauer/Engler/Puszta.
 
 </details>
 
-**Q19.** Köppen Group A means:
+**Q7.** Which of the following tribe–region pairs is/are correctly matched?
 
-Options: A. Tropical B. Polar C. Arid only D. Cold continental only
+1. Bushman — Kalahari
+2. Eskimo — northern Canada
+3. Pygmy — Congo
+4. Masai — West Africa
 
-<details><summary>Show answer</summary>
+A. 2, 3 and 4 only
+B. 1, 2 and 4 only
+C. 1, 2 and 3 only
+D. 1, 2, 3 and 4
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: C.** 1, 2 and 3 only.
 
-**Q20.** India's dominant Köppen climate is mainly:
-
-Options: A. Am (monsoon) B. EF ice C. ET tundra everywhere D. Af everywhere
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q21.** Mangrove ecosystem is:
-
-Options: A. Purely terrestrial B. Coastal transitional C. Polar only D. Alpine only
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Masai = East Africa — not West.
 
 </details>
 
-**Q22.** Highest terrestrial biodiversity biome:
+**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Options: A. Tropical rainforest B. Hot desert C. Tundra D. Ice cap
+Assertion (A): Permafrost appears in taiga and tundra.
 
-<details><summary>Show answer</summary>
+Reason (R): Permafrost is a classic savanna feature.
 
-**Ans: A**
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q23.** Epiphytes are typical of:
+**Ans: C.** A true, R false.
 
-Options: A. Equatorial rainforest B. Hot desert C. Tundra D. Ice sheets
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q24.** Baobab and acacia are typical of:
-
-Options: A. Savanna B. Tundra C. Taiga D. Polar ice
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**A/R logic:** Not savanna.
 
 </details>
 
-**Q25.** Cedars are associated with:
+**Q9.** Arrange temperate grassland names:
 
-Options: A. Mediterranean region B. Arctic tundra C. Amazon floodplain only D. Sahara dunes
+A. Only one name globally
+B. Only Sahara
+C. Only Selva
+D. Pampas (AR) · Prairie (NA) · Steppe (Eurasia) · Puszta (HU)
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: A**
+**Ans: D.** Pampas/Prairie/Steppe/Puszta.
 
-</details>
-
-**Q26.** Biodiversity hotspot requires:
-
-Options: A. Endemism + major habitat loss B. Only high rainfall C. Only large area D. Only cold climate
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Grassland synonyms.
 
 </details>
 
-**Q27.** How many biodiversity hotspots in India (standard set)?
+**Q10.** With reference to taiga/tundra/savanna, which of the following statements is/are correct?
 
-Options: A. 4 B. 1 C. 36 D. 17
+1. Taiga — boreal conifer forest.
+2. Tundra — moss–lichen cold treeless belt.
+3. Savanna — tropical grassland with trees.
 
-<details><summary>Show answer</summary>
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
-**Ans: A** — Himalaya, Western Ghats, Indo-Burma, Nicobar/Sundaland.
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: A.** All three.
 
-**Q28.** Horse latitudes (~20–35°) favour:
-
-Options: A. Desert belts B. Tropical rainforest everywhere C. Permanent ice only D. Mangroves only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q29.** Consider Brazil: (1) Selva = equatorial rainforest. (2) Terra Roxa = fertile dark soil.
-
-Options: A. Only 1 B. Only 2 C. Both D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
+**Logic:** Biome trio.
 
 </details>
 
-**Q30.** Which tribe–habitat is WRONG?
+**Q11.** Which of the following pairs is/are NOT correctly matched?
 
-Options: A. Bushman–Kalahari B. Eskimo–Northern Canada C. Pygmy–Congo D. Masai–West Africa
+1. India monsoon — Am-type language teaching
+2. Thar — BWh hot desert teaching
+3. Mangrove — purely inland terrestrial biome only
 
-<details><summary>Show answer</summary>
+A. 1 and 2 only
+B. 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
 
-**Ans: D**
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only pair 3 is not correctly matched.
+
+**Logic:** Mangrove = coastal transitional.
+
+</details>
+
+**Q12.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Global biome counts (often ~14 in textbook lists) are not the same as India’s ten biogeographic zones.
+
+Reason (R): India’s zones follow Rodgers and Panwar teaching.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R explains the India-specific scheme.
+
+**A/R logic:** Biome ≠ 10 zones.
+
+</details>
+
+**Q13.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. Tropical rainforest | 1. <25 cm rain |
+| B. Desert | 2. Amazon Selva |
+| C. Savanna | 3. Tropical grass with trees |
+
+Code:
+
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A-2, B-1, C-3.
+
+**Logic:** Selva/desert/savanna.
+
+</details>
+
+**Q14.** With reference to Cryophyte Steppe, which of the following statements is/are correct?
+
+1. Linked to Arctic tundra setting teaching.
+2. Cold environment vegetation idea.
+3. Identical to Sahara hot desert only.
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Not Sahara.
+
+</details>
+
+**Q15.** How many of the following desert locks are correct?
+
+Sahara largest hot; Atacama driest neighbourhood; Gobi Mongolia–China
+
+A. All three
+B. Only two
+C. Only one
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** All three.
+
+**Logic:** Desert map.
+
+</details>
+
+**Q16.** Arrange Köppen D climate:
+
+A. Tropical
+B. Cold
+C. Polar only
+D. Arid only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Cold.
+
+**Logic:** D = cold.
+
+</details>
+
+**Q17.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Climate (temperature and rainfall) shapes biomes.
+
+Reason (R): Biomes are random with no climate control.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true, R false.
+
+**A/R logic:** Climate controls biomes.
+
+</details>
+
+**Q18.** With reference to Indian monsoon forests, which of the following statements is/are correct?
+
+1. Tropical deciduous neighbourhood teaching.
+2. Linked to monsoon climate.
+3. Identical to polar ice cap biome.
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Not polar.
+
+</details>
+
+**Q19.** Which of the following pairs is/are correctly matched?
+
+1. Prairie — North America
+2. Steppe — Eurasia
+3. Pampas — Argentina
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three.
+
+**Logic:** Grassland geography.
+
+</details>
+
+**Q20.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. Masai | 1. Congo |
+| B. Pygmy | 2. East Africa |
+| C. Bushman | 3. Kalahari |
+
+Code:
+
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** A-2, B-1, C-3.
+
+**Logic:** East Africa/Congo/Kalahari.
+
+</details>
+
+**Q21.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Thar is hot desert (BWh) teaching.
+
+Reason (R): Gobi is a hot Sahara-identical desert in Africa only.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true, R false.
+
+**A/R logic:** Gobi = Mongolia–China.
+
+</details>
+
+**Q22.** With reference to mangrove biome placement, which of the following statements is/are correct?
+
+1. Coastal transitional vegetation.
+2. Not a purely inland terrestrial biome.
+3. Identical to taiga boreal forest.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Not taiga.
+
+</details>
+
+**Q23.** How many of the following floral matches are correct?
+
+Sauer–planting hearths; Engler–world floral regions
+
+A. Only one
+B. None
+C. Both
+D. Three including Montreal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both.
+
+**Logic:** Classic matches.
+
+</details>
+
+**Q24.** Arrange Selva meaning:
+
+A. Hot desert dune only
+B. Temperate grassland only
+C. Polar ice only
+D. Amazon equatorial rainforest name
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Amazon rainforest name.
+
+**Logic:** Selva lock.
+
+</details>
+
+**Q25.** Which of the following statements about continentality is/are correct?
+
+1. Helps explain Australia’s interior dryness with subtropical highs.
+2. Means coastal areas are always wetter inland identically.
+3. Is irrelevant to desert geography.
+
+A. 1 only
+B. 1 and 2 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1.
+
+**Logic:** Interior dryness mechanism.
+
+</details>
+
+**Q26.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Eskimo–northern Canada is a standard tribe–region lock.
+
+Reason (R): Masai are West African rainforest pygmies.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true, R false.
+
+**A/R logic:** Masai East Africa; Pygmy Congo.
+
+</details>
+
+**Q27.** With reference to India’s biogeographic zones, which of the following statements is/are correct?
+
+1. Ten zones (Rodgers and Panwar).
+2. Not the same count as global biome textbook lists.
+3. Identical to Köppen letter A only.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Not Köppen-A only.
+
+</details>
+
+**Q28.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. Taiga | 1. Tropical grass+trees |
+| B. Tundra | 2. Boreal conifer |
+| C. Savanna | 3. Moss–lichen treeless |
+
+Code:
+
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A-2, B-3, C-1.
+
+**Logic:** Boreal/tundra/savanna.
+
+</details>
+
+**Q29.** Arrange Atacama teaching:
+
+A. Wettest place on Earth
+B. Only mangrove swamp
+C. Only polar ice
+D. Among the driest deserts
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Among the driest.
+
+**Logic:** Atacama lock.
+
+</details>
+
+**Q30.** Which one of the following correctly states Puszta?
+
+A. Hungary temperate grassland name
+B. Sahara dune type only
+C. Antarctic ice sheet only
+D. Coral atoll only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Hungary grassland.
+
+**Logic:** Puszta lock.
 
 </details>
 

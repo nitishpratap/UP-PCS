@@ -560,559 +560,661 @@ D. Sammel (1544)
 
 ## Practice Zone — UPPCS Format Drill
 
-> **35 questions** · answers under Show answer
+> **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D | **Ans first, then Logic**
 
-**Q1.** Arrange: 1.Kannauj 2.Daurah 3.Samugarh 4.Chausa
+**Q1.** With reference to Sher Shah’s rise, which of the following statements is/are correct?
 
-Options: A.2-4-3-1 | B.4-2-1-3 | C.4-2-3-1 | D.2-4-1-3
+1. Farid Khan of Sasaram became Sher Khan after the tiger-kill tradition and later Sher Shah as Padshah from 1540.
+2. The Sur imperial phase lasted roughly 1540–1545 yet shaped later Mughal admin practice.
+3. Sher Shah created hereditary mansabdari exactly as Akbar later did.
 
-<details><summary>Show answer</summary>
+Select the correct answer from the code given below:
 
-**Logic:** ** Rathore captains **Jayata** and **Kumpa** fought for **Rao Maldeo** at Sammel (1544).
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-**Ans: D.**
+<details>
+<summary>Show answer</summary>
 
-**Trap:** Mewar** (Sisodia) is the distractor — fact is **Marwar**.
+**Ans: B.** Only 1 and 2 are correct.
 
-</details>
-
-**Q4.** Monuments: I Rabia Daurani II Sher Shah tomb III Humayun IV Atala Jaunpur
-
-Options: A.I-II-IV-III | B.IV-II-III-I | C.II-I-III-IV | D.III-IV-II-I
-
-<details><summary>Show answer</summary>
-
-**Ans: B (IV-II-III-I)** — **UPPCS 2019 Q91Order:** Atala Jaunpur → Sher Shah Sasaram (**1545**) → Humayun Delhi (**1565**) → Rabia Daurani (**1678**).
-
-**Trap:** Do not place Humayun's Tomb before Sher Shah's tomb.
+**Logic:** Sher Shah used branding and standing forces; hereditary mansabdari is Akbar’s system.
 
 </details>
 
-**Q5.** A(A): Akbar, like Sher Shah, tried to regulate currency. R(R): Chief copper coin was the Dam.
+**Q2.** Consider Cause–Course–Result for the Battle of Chausa (1539):
 
-A. Both true, R explains A
-B. Both true, R not explanation
-C. A true, R false
-D. A false, R true
+1. Cause: Contest between Humayun and Sher Shah for Gangetic dominance.
+2. Course: On 26 June 1539 Sher Shah defeated Humayun; Humayun escaped on a mashak.
+3. Result: Humayun immediately recovered Delhi without further fighting.
 
-<details><summary>Show answer</summary>
+Which of the statements given above is/are correct?
 
-**A/R logic:** A is true: Akbar continued **Sher Shah's** regulated currency.
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-**Ans: A (Both true, R explains A).**
+<details>
+<summary>Show answer</summary>
 
-**R is true:** Chief **copper coin** was the **Dam** under both.
+**Ans: A.** Only 1 and 2 are correct.
 
-**Why R explains A:** Shared **Dam** standard shows continuity of regulation.
-
-</details>
-
-**Q6.** Battles: I Sarnal II Bilgram III Dharmat IV Jajau
-
-Options: A.II-I-III-IV | B.II-III-IV-I | C.III-II-I-IV | D.III-I-II-IV
-
-<details><summary>Show answer</summary>
-
-**Ans: A (II-I-III-IV)** — **UPPCS 2019 Q13Order:** Bilgram/Kannauj **1540** → Sarnal **1739** → Dharmat **1658** → Jajau **1707**.
-
-**Trap:** Bilgram = Kannauj 1540 — same decisive battle.
+**Logic:** Decisive exile followed Kannauj 1540, not immediate recovery after Chausa.
 
 </details>
 
-**Q7.** Sher Shah’s birth name and place:
+**Q3.** Which of the following pairs is/are NOT correctly matched?
 
-A. Farid Khan, Sasaram
-B. Jalal Khan, Delhi
-C. Hasan Khan, Kalinjar
-D. Islam Shah, Rohtas
+1. Jarib — measuring rope used to fix the bigha
+2. Rai — crop rate per bigha
+3. Desai — measuring rope tax collected as a separate levy name
 
-<details><summary>Show answer</summary>
+Select the correct answer from the code given below:
 
-**Logic:** The keyed fact is **Farid Khan, Sasaram**.
+A. 1 only
+B. 3 only
+C. 1 and 2 only
+D. 2 and 3 only
 
-**Ans: A.**
+<details>
+<summary>Show answer</summary>
 
-**Trap:** Cross-check the Confused Pairs table for this topic.
+**Ans: B.** Only pair 3 is not correctly matched.
 
-</details>
-
-**Q8.** Died at:
-
-A. Chausa
-B. Sasaram palace
-C. Kalinjar siege
-D. Panipat
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **Kalinjar siege**.
-
-**Ans: C.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
+**Logic:** Jarib is the rope (not a tax); Desai/Amil is the collector.
 
 </details>
 
-**Q9.** GT Road terminals:
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Agra to Lahore only
-B. Sonargaon to Peshawar
-C. Surat to Delhi
-D. Golkonda to Agra
+Assertion (A): At Kannauj/Bilgram (17 May 1540) Sher Shah won decisively over Humayun.
 
-<details><summary>Show answer</summary>
+Reason (R): After Kannauj, Humayun fled into exile and recovered Delhi–Agra only in 1555.
 
-**Logic:** The keyed fact is **Sonargaon to Peshawar**.
+Select the correct answer from the code given below:
 
-**Ans: B.**
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-**Trap:** Cross-check the Confused Pairs table for this topic.
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both A and R are true and R correctly explains the consequence of A.
+
+**A/R logic:** Kannauj is the decisive Sur victory that opens Humayun’s exile years.
 
 </details>
 
-**Q10.** 1. Chausa 1539 Humayun escaped 2. Kannauj 1540 was decisive exile
+**Q5.** Arrange the following in chronological order:
+
+1. Kannauj / Bilgram
+2. Daurah
+3. Kalinjar death of Sher Shah
+4. Chausa
+
+Select the correct answer from the code given below:
+
+A. 2-4-1-3
+B. 4-2-1-3
+C. 2-4-3-1
+D. 2-1-4-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Daurah 1532 → Chausa 1539 → Kannauj 1540 → Kalinjar 1545.
+
+**Logic:** Daurah is Humayun vs Afghans — not Sher Shah’s Chausa.
+
+</details>
+
+**Q6.** Match List-I with List-II and select the correct answer from the code given below:
+
+| List-I | List-II |
+|--------|---------|
+| A. Shiqdar | 1. Accounts at pargana |
+| B. Munshif | 2. Law and order at pargana |
+| C. Amil / Desai | 3. Collection |
+| D. Patta | 4. State document to peasant |
+
+*Row order is not the answer code.*
+
+A. A-2, B-1, C-3, D-4
+B. A-1, B-2, C-4, D-3
+C. A-2, B-3, C-1, D-4
+D. A-3, B-1, C-2, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Shiqdar–law/order; Munshif–accounts; Amil/Desai–collection; Patta–state document.
+
+**Logic:** Qabuliat is the peasant’s written acceptance — do not swap with patta.
+
+</details>
+
+**Q7.** With reference to Sher Shah’s currency, which of the following statements is/are correct?
+
+1. Rupiya was silver (~178 grains).
+2. Dam was copper, about 1/40 of a rupiya.
+3. Mohur was gold; Akbar continued the dam.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three statements are correct.
+
+**Logic:** Rupiya–dam–mohur is the Sur–Mughal continuity tag.
+
+</details>
+
+**Q8.** With reference to the Grand Trunk Road under Sher Shah, which of the following statements is/are correct?
+
+1. It ran from Sonargaon in Bengal to Peshawar.
+2. Sarais stood about every 12 kos.
+
+Select the correct answer from the code given below:
 
 A. Only 1
 B. Only 2
-C. Both
-D. Neither
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Logic:** ** Both statements are correct — Chausa **1539** (Humayun escaped) and Kannauj **1540** (decisive exile).
+**Ans: C.** Both statements are correct.
 
-**Ans: C (Both).**
-
-**Trap:** Do not swap **Chausa** and **Kannauj** dates.
-
-</details>
-
-**Q11.** Jarib is:
-
-A. A land tax
-B. Measuring rope
-C. Gold coin
-D. Spy officer
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **Measuring rope**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
+**Logic:** Sonargaon–Peshawar + sarai spacing is the road must-score.
 
 </details>
 
-**Q12.** Patta vs qabuliat:
+**Q9.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Both are gold coins
-B. Patta to peasant; qabuliat is acceptance
-C. Both mean shiqdar
-D. Patta is a fort
+Assertion (A): Jarib was a major land tax under Sher Shah.
 
-<details><summary>Show answer</summary>
+Reason (R): Land was classed good, middle, or bad and rai fixed the crop rate per bigha.
 
-**Logic:** The keyed fact is **Patta to peasant; qabuliat is acceptance**.
+Select the correct answer from the code given below:
 
-**Ans: B.**
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-**Trap:** Cross-check the Confused Pairs table for this topic.
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: B.** A is false and R is true.
 
-**Q13.** Rohtas Fort is in:
-
-A. Marwar
-B. Bihar
-C. Mewar
-D. Gujarat
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **Bihar**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
+**A/R logic:** Jarib is the measuring rope, not a tax; R correctly states land class and rai.
 
 </details>
 
-**Q14.** Islam Shah was:
+**Q10.** Consider Cause–Course–Result for Sammel / Giri-Sumel (1544):
 
-A. Sher Shah’s father
-B. Jalal Khan, successor 1545–53
-C. Humayun’s title
-D. Rao Maldeo
+1. Cause: Conflict with Rao Maldeo Rathore of Marwar.
+2. Course: Jayata and Kumpa, loyal Marwar Rathore captains, died fighting.
+3. Result: Jayata–Kumpa are correctly remembered as Mewar Sisodia warriors.
 
-<details><summary>Show answer</summary>
+Which of the statements given above is/are correct?
 
-**Logic:** The keyed fact is **Jalal Khan, successor 1545–53**.
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-**Ans: B.**
+<details>
+<summary>Show answer</summary>
 
-**Trap:** Cross-check the Confused Pairs table for this topic.
+**Ans: A.** Only 1 and 2 are correct.
 
-</details>
-
-**Q15.** Sammel 1544 opponent:
-
-A. Rana Sanga
-B. Rao Maldeo of Marwar
-C. Hemu
-D. Ibrahim Lodi
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **Rao Maldeo of Marwar**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
+**Logic:** Jayata–Kumpa are Marwar (Rathore), not Mewar — statement 3 is the trap.
 
 </details>
 
-**Q16.** Shiqdar’s main job:
+**Q11.** Which of the following pairs is/are NOT correctly matched?
 
-A. Mint gold
-B. Pargana law and order
-C. Write Upanishads
-D. Build Taj
+1. Rohtas — Bihar fort against Humayun’s return
+2. Purana Qila — Delhi citadel; Qila-i-Kuhna mosque inside
+3. Khayr-ul-Manazil — built by Sher Shah beside Purana Qila
 
-<details><summary>Show answer</summary>
+Select the correct answer from the code given below:
 
-**Logic:** The keyed fact is **Pargana law and order**.
+A. 1 only
+B. 3 only
+C. 2 and 3 only
+D. 1 and 2 only
 
-**Ans: B.**
+<details>
+<summary>Show answer</summary>
 
-**Trap:** Cross-check the Confused Pairs table for this topic.
+**Ans: B.** Only pair 3 is not correctly matched.
 
-</details>
-
-**Q17.** Munshif’s main job:
-
-A. Accounts/audit
-B. Artillery
-C. Qazi’s deputy only
-D. GT Road inns
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **Accounts/audit**.
-
-**Ans: A.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
+**Logic:** Khayr-ul-Manazil was built by Maham Anaga in Akbar’s era, not by Sher Shah.
 
 </details>
 
-**Q18.** Rupiya metal:
+**Q12.** With reference to Sher Shah’s death and succession, which of the following statements is/are correct?
 
-A. Copper
-B. Silver
-C. Gold
-D. Brass
+1. He died in May 1545 at the Kalinjar siege from a gunpowder blast.
+2. His tomb is the lake mausoleum at Sasaram.
+3. Islam Shah (Jalal Khan) ruled about 1545–1553.
 
-<details><summary>Show answer</summary>
+Select the correct answer from the code given below:
 
-**Logic:** The keyed fact is **Silver**.
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-**Ans: B.**
+<details>
+<summary>Show answer</summary>
 
-**Trap:** Cross-check the Confused Pairs table for this topic.
+**Ans: D.** All three statements are correct.
 
-</details>
-
-**Q19.** Khayr-ul-Manazil opposite Purana Qila:
-
-A. Sher Shah
-B. Maham Anaga
-C. Islam Shah
-D. Todar Mal
-
-<details><summary>Show answer</summary>
-
-**Logic:** Khayr-ul-Manazil opposite **Purana Qila** was built by **Maham Anaga** in Akbar's era, not by Sher Shah.
-
-**Ans: B.**
-
-**Trap:** Sher Shah rebuilt **Purana Qila**, but the mosque opposite is Akbar-era.
+**Logic:** Sasaram = birth + tomb; Kalinjar = death siege.
 
 </details>
 
-**Q20.** 1. Daurah is 1539 Chausa 2. Daurah is 1532 Humayun vs Afghans
+**Q13.** Match List-I with List-II and select the correct answer from the code given below:
+
+| List-I (Office) | List-II (Charge) |
+|-----------------|------------------|
+| A. Diwan-i-Wazarat | 1. Army |
+| B. Diwan-i-Ariz | 2. Finance |
+| C. Diwan-i-Risalat | 3. Grants |
+
+*Row order is not the answer code.*
+
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Wazarat–finance; Ariz–army; Risalat–grants.
+
+**Logic:** Keep centre office tags separate from pargana Shiqdar/Munshif.
+
+</details>
+
+**Q14.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Todar Mal trained under Sher Shah’s revenue measurement practice.
+
+Reason (R): That measurement tradition later fed into Akbar’s zabt–dahsala world.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both A and R are true and R correctly explains the link in A.
+
+**A/R logic:** Sur revenue training is the bridge into Akbar’s Todar Mal system.
+
+</details>
+
+**Q15.** With reference to name titles of Farid, which of the following statements is/are correct?
+
+1. He was educated at Jaunpur (Siraj-i-Hind tradition).
+2. Hazrat-e-Ala belongs to his Bengal-service phase.
+3. The imperial title Sher Shah follows after Chausa (1539) / Padshah from 1540.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three statements are correct.
+
+**Logic:** Name ladder: Farid → Sher Khan → Sher Shah; Hazrat-e-Ala ≠ imperial Sher Shah.
+
+</details>
+
+**Q16.** Consider the following statements about patta and qabuliat:
+
+1. Patta was the state document issued to the peasant.
+2. Qabuliat was the peasant’s written acceptance.
+3. Both terms mean the same copper coin denomination.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Patta/qabuliat are revenue documents, not coin names.
+
+</details>
+
+**Q17.** Arrange the following events in chronological order:
+
+1. Sammel / Giri-Sumel
+2. Chausa
+3. Humayun’s return to Delhi–Agra
+4. Islam Shah’s reign begins
+
+Select the correct answer from the code given below:
+
+A. 2-1-4-3
+B. 2-4-1-3
+C. 1-2-4-3
+D. 2-1-3-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Chausa 1539 → Sammel 1544 → Islam Shah 1545 → Humayun return 1555.
+
+**Logic:** Keep Sur battles before Islam Shah and Humayun’s 1555 recovery.
+
+</details>
+
+**Q18.** With reference to military reforms, which of the following statements is/are correct?
+
+1. Horses were branded with dagh, a precursor to later Mughal chehra–dagh practice.
+2. Barid spies watched officers.
+3. The qazi judged by sharia and stayed outside the revenue chain.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three statements are correct.
+
+**Logic:** Dagh + barid + qazi-outside-revenue are Sur admin tags.
+
+</details>
+
+**Q19.** Which one of the following correctly distinguishes Bilgram from Kannauj in this chapter’s teaching?
+
+A. Bilgram is a different 1539 battle from Chausa
+B. Bilgram and Kannauj name the same 1540 decisive battle
+C. Bilgram is Daurah under another name
+D. Bilgram is Sher Shah’s Kalinjar siege
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Bilgram and Kannauj refer to the same 1540 battle.
+
+**Logic:** Confused pair: Bilgram = Kannauj 1540, not Chausa/Daurah/Kalinjar.
+
+</details>
+
+**Q20.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Sher Shah’s Sasaram tomb is placed after Atala (Jaunpur) and before Humayun’s Delhi tomb in monument order teaching.
+
+Reason (R): Sasaram was also Sher Shah’s birthplace.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both A and R are true, but R does not explain the monument-order statement.
+
+**A/R logic:** Birthplace fact is true yet does not by itself explain relative monument chronology teaching.
+
+</details>
+
+**Q21.** With reference to zabt under Sher Shah’s revenue world, which of the following statements is/are correct?
+
+1. Zabt fixed an annual cash demand.
+2. Jarib measured land to support assessment.
+
+Select the correct answer from the code given below:
 
 A. Only 1
 B. Only 2
-C. Both
-D. Neither
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Logic:** ** Statement **1** is false — Daurah is **1532**, not 1539 Chausa. Statement **2** is true.
+**Ans: C.** Both statements are correct.
 
-**Ans: B (Only 2).**
-
-**Trap:** Daurah (1532)** ≠ **Chausa (1539)**.
-
-</details>
-
-**Q21.** Todar Mal link:
-
-A. Learned measurement under Sur system
-B. Built Sasaram tomb
-C. Killed at Kalinjar
-D. Founded Marwar
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **Learned measurement under Sur system**.
-
-**Ans: A.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
+**Logic:** Measurement (jarib) + cash demand (zabt) work together — jarib ≠ tax name.
 
 </details>
 
-**Q22.** Sarais were:
+**Q22.** Consider the following pairs:
 
-A. Rest-houses on GT Road
-B. Copper coins
-C. Measuring ropes
-D. Spy reports only
+| Item | Tag |
+|------|-----|
+| 1. Farid Khan | Birth name; Sasaram |
+| 2. Sher Khan | Tiger-kill title phase in Bihar |
+| 3. Sher Shah | Imperial Padshah title from 1540 |
 
-<details><summary>Show answer</summary>
+Which of the pairs given above is/are correctly matched?
 
-**Logic:** The keyed fact is **Rest-houses on GT Road**.
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-**Ans: A.**
+<details>
+<summary>Show answer</summary>
 
-**Trap:** Cross-check the Confused Pairs table for this topic.
+**Ans: D.** All three pairs are correctly matched.
 
-</details>
-
-**Q23.** NOT matched:
-
-A. Jayata–Kumpa — Marwar
-B. Tomb — Sasaram
-C. Death — Kalinjar
-D. Jayata–Kumpa — Mewar
-
-<details><summary>Show answer</summary>
-
-**Logic:** ** One pair breaks the standard fact in this topic.
-
-**Ans: D.**
-
-**Trap:** Eliminate pairs you know are correct first.
+**Logic:** Keep Farid / Sher Khan / Sher Shah as a ladder, not synonyms for every phase.
 
 </details>
 
-**Q24.** Diwan-i-Ariz handled:
+**Q23.** With reference to Marwar vs Mewar in Sur conflicts, which of the following statements is/are correct?
 
-A. Army administration
-B. Canal of paradise
-C. Din-i-Ilahi
-D. Taj design
+1. Sammel (1544) was against Rao Maldeo of Marwar.
+2. Jayata and Kumpa were Rathore captains of Marwar.
 
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **Army administration**.
-
-**Ans: A.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
-**Q25.** Humayun restored in:
-
-A. 1540
-B. 1545
-C. 1555
-D. 1556 only as death year
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **1555**.
-
-**Ans: C.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
-**Q26.** Rai means:
-
-A. Spy
-B. Crop-rate per bigha
-C. Gold mohur
-D. Fort
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **Crop-rate per bigha**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
-**Q27.** Purana Qila associated with:
-
-A. Sher Shah’s Delhi citadel
-B. Fatehpur Sikri
-C. Golkonda
-D. Sasaram tomb
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **Sher Shah’s Delhi citadel**.
-
-**Ans: A.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
-
-</details>
-
-**Q28.** 1. Jarib is a tax 2. Desai is a revenue collector
+Select the correct answer from the code given below:
 
 A. Only 1
 B. Only 2
-C. Both
-D. Neither
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Logic:** ** Statement **1** is false — **Jarib** is a measuring rope, not a tax. Statement **2** is true — **Desai** collects revenue.
+**Ans: C.** Both statements are correct.
 
-**Ans: B (Only 2).**
-
-**Trap:** **Jarib** is a **measuring rope**, never a tax.
-
-</details>
-
-**Q29.** Famous bajra/millets quote refers to:
-
-A. Panipat I
-B. Sammel vs Marwar
-C. Golkonda 1687
-D. Jajau 1707
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **Sammel vs Marwar**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
+**Logic:** Do not place Jayata–Kumpa under Mewar Sisodia.
 
 </details>
 
-**Q30.** Land classes under Sher Shah:
+**Q24.** Which of the following pairs is/are NOT correctly matched?
 
-A. Polaj only
-B. Good, middle, bad
-C. Khalsa vs jagir mansab
-D. Suba–sarkar–pargana
+1. Chausa — 26 June 1539; Humayun escapes
+2. Kannauj — 17 May 1540; Humayun exile begins
+3. Daurah — 1539 alternate name for Chausa
 
-<details><summary>Show answer</summary>
+Select the correct answer from the code given below:
 
-**Logic:** The keyed fact is **Good, middle, bad**.
+A. 1 only
+B. 2 only
+C. 3 only
+D. 1 and 2 only
 
-**Ans: B.**
+<details>
+<summary>Show answer</summary>
 
-**Trap:** Cross-check the Confused Pairs table for this topic.
+**Ans: C.** Only pair 3 is not correctly matched.
 
-</details>
-
-**Q31.** Kannauj 1540 is also called:
-
-A. Khanwa
-B. Bilgram
-C. Dharmat
-D. Sarnal
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **Bilgram**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
+**Logic:** Daurah is 1532 Humayun–Afghans — not Chausa.
 
 </details>
 
-**Q32.** Kos-minar is:
+**Q25.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Distance marker
-B. Copper dam
-C. Pargana qazi
-D. Elephant rank
+Assertion (A): Sher Shah kept a standing force with registered men.
 
-<details><summary>Show answer</summary>
+Reason (R): He nevertheless created Akbar-style hereditary mansabdari as the core Sur system.
 
-**Logic:** The keyed fact is **Distance marker**.
+Select the correct answer from the code given below:
 
-**Ans: A.**
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-**Trap:** Cross-check the Confused Pairs table for this topic.
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: C.** A is true and R is false.
 
-**Q33.** Sher Shah ruled as Padshah about:
-
-A. 30 years
-B. 5 years
-C. 50 years
-D. 1 year
-
-<details><summary>Show answer</summary>
-
-**Logic:** The keyed fact is **5 years**.
-
-**Ans: B.**
-
-**Trap:** Cross-check the Confused Pairs table for this topic.
+**A/R logic:** Standing registered force is true; hereditary mansabdari belongs to Akbar, not Sher Shah.
 
 </details>
 
-**Q34.** Correct pair:
+**Q26.** With reference to Purana Qila, which of the following statements is/are correct?
 
-A. Islam Shah — 1526
-B. Kalinjar — death 1545
-C. Chausa — 1556
-D. GT Road — Sonargaon to Golkonda
+1. It is the Delhi citadel associated with Sher Shah’s work.
+2. Qila-i-Kuhna mosque stands inside Purana Qila.
+3. Rohtas in Bihar is the same fort as Purana Qila under another name.
 
-<details><summary>Show answer</summary>
+Select the correct answer from the code given below:
 
-**Logic:** The keyed fact is **Kalinjar — death 1545**.
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-**Ans: B.**
+<details>
+<summary>Show answer</summary>
 
-**Trap:** Cross-check Confused Pairs table before finalising.
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** Rohtas (Bihar) ≠ Purana Qila (Delhi).
 
 </details>
 
-**Q35.** 1. Shiqdar = pargana law/order 2. Munshif = pargana accounts
+**Q27.** Consider the following statements:
+
+1. Each pargana had Shiqdar (law/order), Munshif (accounts), and Amil/Desai (collection).
+2. Diwan-i-Wazarat handled finance at the centre.
+
+Which of the statements given above is/are correct?
 
 A. Only 1
 B. Only 2
-C. Both
-D. Neither
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Logic:** ** Both statements are correct — **Shiqdar** = pargana law/order; **Munshif** = pargana accounts.
+**Ans: C.** Both statements are correct.
 
-**Ans: C (Both).**
-
-**Trap:** Do not swap **Shiqdar** and **Munshif** portfolios.
+**Logic:** Separate pargana trio from centre diwans.
 
 </details>
 
----
+**Q28.** Arrange the following in chronological order:
+
+1. Islam Shah’s death period ends (c. 1553)
+2. Chausa
+3. Humayun recovers Delhi–Agra
+4. Kalinjar death of Sher Shah
+
+Select the correct answer from the code given below:
+
+A. 2-4-1-3
+B. 2-1-4-3
+C. 4-2-1-3
+D. 2-4-3-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Chausa 1539 → Kalinjar 1545 → Islam Shah ends 1553 → Humayun 1555.
+
+**Logic:** Sur collapse window opens the path to Humayun’s return.
+
+</details>
+
+**Q29.** With reference to land documents, which one of the following is correctly matched?
+
+A. Patta — peasant’s acceptance letter only
+B. Qabuliat — state grant of mansab
+C. Patta — state document to peasant; qabuliat — peasant acceptance
+D. Qabuliat — measuring rope
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Patta is state-to-peasant; qabuliat is peasant acceptance.
+
+**Logic:** Do not confuse with jarib (rope) or mansab grants.
+
+</details>
+
+**Q30.** Consider Cause–Course–Result for Sher Shah’s death at Kalinjar:
+
+1. Cause: Siege operations against Kalinjar in 1545.
+2. Course: A gunpowder blast killed Sher Shah in May 1545.
+3. Result: Islam Shah succeeded; Humayun returned in 1555 after Sur decline.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All three statements are correct.
+
+**Logic:** Death at Kalinjar → Islam Shah → path to Humayun’s 1555 return.
+
+</details>
 
 ## Common Traps — Don't Fall For These
 

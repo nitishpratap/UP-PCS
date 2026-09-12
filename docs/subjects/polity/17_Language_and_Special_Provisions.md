@@ -1559,355 +1559,300 @@ E. None of the above/More than one of the above
 
 ## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden.** Full stems (not cryptic stubs). **85 questions.** ≥60% multi-statement / application. Mix: A/R, Match List, chronology, NOT-correctly-matched.
+> **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D | **Ans first, then Logic**
 
-**Q1.** Official language of the Union is provided in which of the following?
-A. Part XVII
-B. Part XVIII
-C. Part IX
-D. Part XI
+**Q1.** With reference to official language, which of the following statements is/are correct?
 
-<details>
-<summary>Show answer</summary>
+1. Part XVII (Articles 343–351) deals with official language.
+2. The Constitution names Hindi as the national language of India.
 
-**Ans: A**
-
-</details>
-
-**Q2.** The Constitution of India initially permitted English for official purposes for which of the following?
-A. 5 years
-B. 10 years
-C. 15 years
-D. 20 years
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q3.** With reference to Article 343, which of the following is/are correct?
-1. Union official language is Hindi in Devanagari script.
-2. The form of numerals is the Devanagari form of Indian numerals.
-A. Only 1
-B. Only 2
+A. Only 2
+B. Only 1
 C. Both 1 and 2
 D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — **international** form of Indian numerals.
+**Ans: B.** Only 1 is correct.
+
+**Logic:** Constitution never names a national language — Hindi is Union official language.
 
 </details>
 
-**Q4.** Which among the following is **not** correctly matched?
-A. Union Territories — Part VIII
-B. Scheduled and Tribal Areas — Part X
-C. Tribunals — Part XI
-D. Official Language — Part XVII
+**Q2.** Consider the following pairs:
+
+1. Union official language — Hindi in Devanagari
+2. English continuance — Official Languages Act 1963/1967 without sunset
+3. Article 344 Commission — standing body meeting every year
+
+Which of the pairs given above is/are correctly matched?
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** 344 Commission is not standing — reports at five years then ten years from 1950.
 
 </details>
 
-**Q5.Assertion (A):** English continues as an associate official language of the Union after 1965.
+**Q3.** Which of the following is/are NOT correctly matched?
 
-**Reason (R):** The Constitution was amended to extend the 15-year period.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+1. Article 344 Commission — constitutional; two reports (5y/10y)
+2. 1976 Committee of Parliament on Official Language — statutory; Home Minister chairs
+3. 1976 OL Committee — same body as the Article 344 Commission
+
+A. 1 and 3 only
+B. 3 only
+C. 2 and 3 only
+D. 1 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Pair 3 is wrong.
+
+**Logic:** 344 Commission ≠ 1976 statutory OL Committee.
+
+</details>
+
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Until Parliament otherwise provides, authoritative texts of Acts and SC/HC proceedings are in English under Article 348.
+
+Reason (R): Article 345 forbids any State from adopting Hindi as an official language.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — 343(3) + **Official Languages Act**, no Amd of the 15-year clause.
+**Ans: C.** (A) is true, but (R) is false.
+
+**A/R logic:** 345 lets a State adopt one or more languages, or Hindi, as official language.
 
 </details>
 
-**Q6.** Which language(s) is/are NOT in the Eighth Schedule?
-1. Nepali
-2. Dogri
-3. Bodo
-4. Bhojpuri
-A. 1 and 2
-B. Only 4
-C. 3 and 4
+**Q5.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. Article 350 | 1. One Special Officer for Linguistic Minorities |
+| B. Article 350A | 2. Representation in any language used in Union/State |
+| C. Article 350B | 3. Mother-tongue instruction at primary stage |
+
+Codes:
+
+A. A-1, B-2, C-3
+B. A-2, B-3, C-1
+C. A-2, B-1, C-3
+D. A-3, B-2, C-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** A-2, B-3, C-1.
+
+**Logic:** 350 / 350A / 350B map.
+
+</details>
+
+**Q6.** Arrange the following Eighth Schedule expansions in correct chronological order:
+
+1. Bodo, Dogri, Maithili, Santhali (92nd) → 22 languages
+2. Sindhi (21st) → 15 languages
+3. Konkani, Manipuri, Nepali (71st) → 18 languages
+4. Original Eighth Schedule — 14 languages
+
+A. 4-3-2-1
+B. 4-2-3-1
+C. 2-4-3-1
+D. 4-2-1-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** 14 → 15 (1967) → 18 (1992) → 22 (2003).
+
+**Logic:** Eighth Schedule growth chronology.
+
+</details>
+
+**Q7.** With reference to languages outside the Eighth Schedule, which of the following statements is/are correct?
+
+1. Bhojpuri, English, Rajasthani, Tulu, and Khasi are not in the Eighth Schedule.
+2. Being in the Eighth Schedule automatically makes a language the Union official language.
+
+A. Only 2
+B. Both 1 and 2
+C. Neither 1 nor 2
 D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: D.** Only 1 is correct.
+
+**Logic:** Only Hindi is Union official under 343.
 
 </details>
 
-**Q7.** Match amendments with languages added:
+**Q8.** Consider the following statements about classical languages:
 
-**List-I**
+1. Classical language is an executive tag, not a constitutional list.
+2. Tamil was the first (2004).
+3. After the 3 October 2024 notifications there are eleven classical languages.
 
-| Code | Item |
-|------|------|
-| A | 21st |
-| B | 71st |
-| C | 92nd |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Bodo, Dogri, Maithili, Santhali |
-| 2 | Sindhi |
-| 3 | Konkani, Manipuri, Nepali |
-
-> Note: Row order in the tables is **not** the answer.
-
-A. A-2, B-3, C-1
-B. A-1, B-2, C-3
-C. A-2, B-1, C-3
-D. A-3, B-2, C-1
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: D.** All three are correct.
+
+**Logic:** Executive tag; Tamil first; eleven after Oct 2024.
 
 </details>
 
-**Q8.** The 96th Amendment?
-A. Added Bhojpuri
-B. Renamed Oriya as Odia
-C. Added Sindhi
-D. Made Hindi the national language
+**Q9.** With reference to Uttar Pradesh language facts, which of the following is/are correct?
+
+1. Hindi is the official language; Urdu is the second official language (from 1989).
+2. Under Official Language Rules 1976, UP falls in Region A.
+3. PESA applies in UP because it has Scheduled Tribes.
+
+A. 2 and 3 only
+B. 1 and 3 only
+C. 1, 2 and 3
+D. 1 and 2 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: D.** Only 1 and 2 are correct.
+
+**Logic:** UP has STs but no Fifth Schedule area — PESA does not apply.
 
 </details>
 
-**Q9.** Arrange the 8th Schedule totals chronologically after each add-on:
-1. 14
-2. 22
-3. 15
-4. 18
-A. 1, 3, 4, 2
-B. 1, 4, 3, 2
-C. 1, 3, 2, 4
-D. 3, 1, 4, 2
+**Q10.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-<details>
-<summary>Show answer</summary>
+Assertion (A): Article 350B creates one Special Officer for Linguistic Minorities for the whole of India.
 
-**Ans: A** — 1950 → 1967 → 1992 → 2003.
+Reason (R): The National Commission for Minorities (1992) is a constitutional substitute for the 350B officer.
 
-</details>
-
-**Q10.** Which one of the following is **not** correctly matched?
-A. Eighth Schedule — Languages
-B. Ninth Schedule — RS seat allocation
-C. Tenth Schedule — Defection
-D. Fourth Schedule — RS seats
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q11.** Consider the following statements:
-1. English is listed in the Eighth Schedule.
-2. The Official Languages Act 1963 permits continued use of English for Union purposes.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q12.** The first language to be declared classical was?
-A. Sanskrit
-B. Tamil
-C. Kannada
-D. Odia
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — **2004**.
-
-</details>
-
-**Q13.** With reference to classical languages, which of the following is/are correct?
-1. The tag is conferred by a constitutional amendment.
-2. Pali was added in October 2024.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q14.** After the October 2024 Cabinet decision, the number of classical languages is?
-A. 6
-B. 8
-C. 11
-D. 22
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q15.** Which one of the following is **not** correctly matched?
-A. Tamil — 2004
-B. Sanskrit — 2005
-C. Odia — 2014
-D. Marathi — 2008
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Marathi = **2024**. 2008 = Kannada/Telugu.
-
-</details>
-
-**Q16.** Special Officer for Linguistic Minorities:
-1. There is one such officer for every State.
-2. Article 350B was added by the 9th Amendment.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q17.** Article 350A was inserted by the?
-A. 1st Amendment
-B. 7th Amendment
-C. 9th Amendment
-D. 42nd Amendment
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q18.** Match List-I with List-II and select the correct answer using the code given below the lists:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | 350 |
-| B | 350A |
-| C | 350B |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | One Special Officer for India |
-| 2 | Representation in any language used |
-| 3 | Mother-tongue at primary stage |
-
-> Note: Row order in the tables is **not** the answer.
-
-A. A-2, B-3, C-1
-B. A-1, B-2, C-3
-C. A-2, B-1, C-3
-D. A-3, B-2, C-1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q19.** The Official Language Commission under Article 344 is to be constituted?
-A. Every five years forever
-B. At 5 years and again at 10 years from commencement
-C. Only once in 1950
-D. By the Home Minister annually
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q20.** First Official Language Commission was headed by which of the following?
-A. G.B. Pant
-B. B.G. Kher
-C. K.M. Munshi
-D. M.C. Chagla
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q21.** The parliamentary committee that examines the 344 Commission report consists of which of the following?
-A. 22 members, all from LS
-B. 30 members — 20 LS + 10 RS
-C. 15 members — 10 LS + 5 RS
-D. The whole Rajya Sabha
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q22.Assertion (A):** The Committee of Parliament on Official Language (1976) is the Article 344 Commission under another name.
-
-**Reason (R):** The 1976 Committee is a statutory body chaired by the Union Home Minister.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: C.** (A) is true, but (R) is false.
+
+**A/R logic:** NCM is statutory and for religious minorities — not a 350B substitute.
 
 </details>
 
-**Q23.** Under Article 348, which of the following is/are correct?
-1. Supreme Court proceedings are in English until Parliament otherwise provides.
-2. A Governor may, with the President’s consent, authorise Hindi in the High Court.
+**Q11.** How many of the following Fifth/Sixth Schedule statements are correct?
+
+1. Article 244(1) → Fifth Schedule; 244(2) → Sixth Schedule (Assam, Meghalaya, Tripura, Mizoram).
+2. Fifth Schedule covers ten States; TAC has up to 20 members with three-fourths ST MLAs.
+3. Sixth Schedule covers Nagaland and Sikkim through Autonomous District Councils.
+
+A. Only one
+B. Only two
+C. All three
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Statements 1 and 2 are correct.
+
+**Logic:** Sixth Schedule = AMTM — not Nagaland/Sikkim.
+
+</details>
+
+**Q12.** With reference to Articles 371A, 371I, and 371J, which of the following statements is/are correct?
+
+1. 371A protects Nagaland’s land and customary law.
+2. 371I requires Goa’s Assembly to have at least thirty seats.
+3. 371J covers Kalyana-Karnataka with a development board and local preference.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All three are correct.
+
+**Logic:** Letter-specific 371 facts.
+
+</details>
+
+**Q13.** Consider the following pairs:
+
+1. Article 370 — made inoperative from 6 August 2019
+2. Article 35A — 1954 Presidential Order on permanent residents; not a constitutional amendment
+3. J&K and Ladakh — separate UTs from 31 October 2019
+
+Which of the pairs given above is/are correctly matched?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All three are correct.
+
+**Logic:** 370 / 35A / UT dates.
+
+</details>
+
+**Q14.** Which of the following is/are NOT correctly matched?
+
+1. Hindi Diwas — 14 September
+2. Authoritative Hindi text of the Constitution — Article 394A / 58th Amendment theme
+3. Article 347 — State legislature adopts official language without Presidential role
+
+A. 3 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Pair 3 is wrong — 347 is Presidential direction for a section’s language.
+
+**Logic:** 345 = State adopts; 347 = President may direct.
+
+</details>
+
+**Q15.** With reference to continuing English, which of the following is/are correct?
+
+1. Parliament may provide for continued English under 343(3), 120, and 348 by ordinary law.
+2. Changing the text of Article 343 itself needs Article 368 special majority.
+
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -1916,129 +1861,83 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: C.** Both are correct.
+
+**Logic:** Ordinary continuance vs textual amendment of 343.
 
 </details>
 
-**Q24.** Article 351 directs the Union to which of the following?
-A. Declare Hindi the national language
-B. Promote Hindi as a medium of India’s composite culture
-C. Delete English from official use in 1965
-D. Add Bhojpuri to the 8th Schedule
+**Q16.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): PESA, 1996 applies only to Fifth Schedule areas.
+
+Reason (R): Sixth Schedule areas are administered through Autonomous District Councils rather than the PESA route.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: D.** Both true and R explains why PESA does not travel the Sixth Schedule path.
+
+**A/R logic:** Fifth = TAC + PESA; Sixth = ADC.
 
 </details>
 
-**Q25.** A State’s official language is adopted under which of the following?
-A. 343
-B. 344
-C. 345
-D. 351
+**Q17.** Match List-I with List-II:
 
-<details>
-<summary>Show answer</summary>
+| List-I | List-II |
+|--------|--------|
+| A. 21st Amendment | 1. Oriya → Odia |
+| B. 71st Amendment | 2. Sindhi |
+| C. 92nd Amendment | 3. Konkani, Manipuri, Nepali |
+| D. 96th Amendment | 4. Bodo, Dogri, Maithili, Santhali |
 
-**Ans: C**
-
-</details>
-
-**Q26.** Article 347 empowers the?
-A. Governor to notify a minority language
-B. President to direct recognition of a language spoken by a section of a State
-C. State Election Commission
-D. 350B officer to notify 8th Schedule languages
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q27.** Which of the following statements is/are correct?
-1. Uttar Pradesh is in Region A under the Official Languages Rules, 1976.
-2. Urdu is the second official language of Uttar Pradesh.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q28.** Which one of the following is **not** correctly matched?
-A. 29 — conserve language/script/culture
-B. 120 — language in Parliament
-C. 343 — Union official language
-D. 350B — National Commission for Minorities
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q29.** Consider the following statements:
-1. Pali is in the Eighth Schedule.
-2. Pali was declared a classical language in 2024.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q30.** Match List-I with List-II and select the correct answer using the code given below the lists:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | 343 |
-| B | 345 |
-| C | 348 |
-| D | 351 |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Promote Hindi |
-| 2 | Union official language |
-| 3 | State official language |
-| 4 | Language of the Supreme Court |
-
-> Note: Row order in the tables is **not** the answer.
+Codes:
 
 A. A-2, B-3, C-4, D-1
-B. A-2, B-4, C-3, D-1
-C. A-3, B-2, C-4, D-1
+B. A-3, B-2, C-4, D-1
+C. A-2, B-4, C-3, D-1
 D. A-2, B-3, C-1, D-4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: A.** A-2, B-3, C-4, D-1.
+
+**Logic:** Eighth Schedule amendment tags.
 
 </details>
 
-**Q31.** Which of the following is/are correct about Article 350?
-1. A representation for redress of a grievance may be in any language used in the Union or the State.
-2. It applies only to 8th Schedule languages.
+**Q18.** Arrange the following in correct chronological order:
+
+1. Official Languages Act
+2. Constitution comes into force (English fifteen-year clock starts)
+3. 1976 Committee of Parliament on Official Language
+4. Article 370 made inoperative
+
+A. 2-1-3-4
+B. 1-2-3-4
+C. 2-3-1-4
+D. 2-1-4-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** 1950 → 1963 → 1976 → 2019.
+
+**Logic:** Clock start, OL Act, 1976 Committee, 370.
+
+</details>
+
+**Q19.** With reference to Article 351, which of the following statements is/are correct?
+
+1. It places a Union duty to promote Hindi as a medium of expression for India’s composite culture.
+2. It draws vocabulary from Eighth Schedule languages.
+
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -2047,84 +1946,77 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: C.** Both are correct.
+
+**Logic:** 351 composite-culture duty.
 
 </details>
 
-**Q32.** The three-language formula is?
-A. Article 351
-B. An education-policy formula, not a constitutional article
-C. Part of the 8th Schedule
-D. Inserted by the 42nd Amendment
+**Q20.** Consider the following statements:
+
+1. Inner Line Permit is itself a Fifth Schedule clause.
+2. Tripura is a Sixth Schedule State; Nagaland is not.
+3. Special provisions for States sit mainly in Part XXI (371–371J).
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: A.** Only 2 and 3 are correct.
+
+**Logic:** ILP is a neighbour control regime — not itself a Fifth/Sixth clause.
 
 </details>
 
-**Q33.** Arrange classical notifications:
-1. Tamil
-2. Odia
-3. Sanskrit
-4. Malayalam
-A. 1, 3, 4, 2
-B. 1, 3, 2, 4
-C. 3, 1, 4, 2
-D. 1, 4, 3, 2
+**Q21.** Which of the following pairs is/are correctly matched?
+
+1. Eighth Schedule languages — 22
+2. Classical languages after Oct 2024 notifications — 11
+3. UP — has a 371-series special article like 371J
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — 2004 → 2005 → 2013 → 2014.
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** UP has no 371-series special article.
 
 </details>
 
-**Q34.Assertion (A):** There is no national language of India in the Constitution.
+**Q22.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Reason (R):** Article 343 names Hindi in Devanagari as the official language of the Union.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+Assertion (A): Classical status automatically adds a language to the Eighth Schedule.
+
+Reason (R): Eighth Schedule listing and classical status are not one-to-one tags.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — official ≠ national; R is why A is the key fact.
+**Ans: B.** (A) is false, but (R) is true.
+
+**A/R logic:** Overlap is possible but tags are independent.
 
 </details>
 
-**Q35.** Which one of the following is **not** correctly matched?
-A. 21st — Sindhi
-B. 71st — Nepali
-C. 92nd — Santhali
-D. 96th — Bhojpuri
+**Q23.** With reference to parliamentary committee size under Article 344’s report examination, which of the following is/are correct?
 
-<details>
-<summary>Show answer</summary>
+1. A parliamentary committee of 30 MPs examines the Official Language Commission’s report.
+2. The composition theme is 20 Lok Sabha + 10 Rajya Sabha.
 
-**Ans: D**
-
-</details>
-
-**Q36.** Mother-tongue instruction at the primary stage is a duty under which of the following?
-A. 343
-B. 345
-C. 350A
-D. 351
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q37.** Which of the following statements is/are correct?
-1. A member of Parliament may, with the Speaker’s permission, address the House in her mother tongue.
-2. This is provided in Article 120, not in Part XVII.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -2133,43 +2025,57 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: C.** Both are correct.
+
+**Logic:** 30 = 20 LS + 10 RS.
 
 </details>
 
-**Q38.** The Commissioner for Linguistic Minorities reports to the?
-A. CAG
-B. President (then Parliament and States)
-C. NCM
-D. Chief Justice of India
+**Q24.** How many of the following are true?
+
+1. International form of Indian numerals is used for official purposes of the Union.
+2. Constitution gave English fifteen years from 26 January 1950.
+3. Eighth Schedule began with 22 languages in 1950.
+
+A. Only one
+B. Only two
+C. All three
+D. None
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B.** Statements 1 and 2 are true.
+
+**Logic:** Eighth Schedule began with 14, not 22.
 
 </details>
 
-**Q39.** Which of the following languages is/are in the Eighth Schedule?
-1. Konkani
-2. Maithili
-3. Bhojpuri
-4. Sindhi
-A. 1, 2 and 4 only
-B. 1, 2 and 3 only
+**Q25.** Which of the following is/are NOT correctly matched?
+
+1. Fifth Schedule tools — Tribes Advisory Council + PESA path
+2. Sixth Schedule tools — Autonomous District Councils for AMTM States
+3. 371A — Goa Assembly minimum seats
+
+A. 3 only
+B. 1 and 3 only
 C. 2 and 3 only
-D. 1, 2, 3 and 4
+D. 1 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: A.** Pair 3 swaps 371A with 371I.
+
+**Logic:** 371A = Nagaland; 371I = Goa seats.
 
 </details>
 
-**Q40.** Consider the following statements:
-1. Article 349 required the President’s prior sanction for certain language Bills during the first 15 years.
-2. Article 346 deals with language for inter-State communication.
+**Q26.** With reference to Jammu & Kashmir developments in notes, which of the following statements is/are correct?
+
+1. From 31 October 2019, J&K and Ladakh became separate Union Territories.
+2. Jammu & Kashmir held Assembly elections in 2024.
+
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -2178,52 +2084,17 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: C.** Both are correct.
+
+**Logic:** UT date + 2024 Assembly elections.
 
 </details>
 
-**Q41.** Parliament can provide for the continued use of English as an official language of the Union by which of the following?
-A. a simple majority law under Article 343(3)
-B. ratification by half the States
-C. a 3/4th majority
-D. an order of the President alone
+**Q27.** Consider the following statements about Article 347:
 
-<details>
-<summary>Show answer</summary>
+1. The President may direct that a language spoken by a section of the population be officially recognised in that State.
+2. Article 345 is the Presidential-direction article; 347 is the State-legislature adoption article.
 
-**Ans: A** — 2018 fact. Changing the *text* of 343 is a separate 368 lane.
-
-</details>
-
-**Q42.** The Munshi–Ayyangar formula was adopted by the Constituent Assembly on?
-A. 26 January 1950
-B. 14 September 1949
-C. 10 January 1949
-D. 26 November 1949
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Hindi Diwas.
-
-</details>
-
-**Q43.** Article 394A (authoritative Hindi text of the Constitution) was inserted by the?
-A. 42nd
-B. 44th
-C. 58th
-D. 96th
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q44.** Which of the following statements is/are correct?
-1. Inclusion in the Eighth Schedule makes a language an official language of the Union.
-2. The Eighth Schedule is used to staff the 344 Commission and to enrich Hindi under 351.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -2232,99 +2103,37 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: A.** Only 1 is correct.
+
+**Logic:** Statement 2 swaps 345 and 347.
 
 </details>
 
-**Q45.** Match List-I with List-II and select the correct answer using the code given below the lists:
+**Q28.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**List-I**
+Assertion (A): Linguistic minorities are protected through Articles 350–350B.
 
-| Code | Item |
-|------|------|
-| A | Region A |
-| B | Region B |
-| C | Region C |
+Reason (R): The National Commission for Minorities is a statutory body for religious minorities.
 
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Tamil Nadu, Kerala, West Bengal |
-| 2 | Uttar Pradesh, Bihar, Rajasthan |
-| 3 | Gujarat, Maharashtra, Punjab |
-
-> Note: Row order in the tables is **not** the answer.
-
-A. A-2, B-3, C-1
-B. A-2, B-1, C-3
-C. A-3, B-2, C-1
-D. A-1, B-3, C-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q46.** Which one of the following is **not** correctly matched?
-A. Santhali — Ol Chiki
-B. Maithili — 92nd Amendment
-C. Bhojpuri — 92nd Amendment
-D. Sindhi — 21st Amendment
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q47.Assertion (A):** Hindi Diwas is observed on 14 September.
-
-**Reason (R):** World Hindi Day is also observed on 14 September.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — World Hindi Day = **10 January**.
+**Ans: A.** Both true, but R does not explain the 350–350B linguistic framework in A.
+
+**A/R logic:** Neighbouring minority tools — linguistic constitutional vs religious statutory.
 
 </details>
 
-**Q48.** The Department of Official Language is under the?
-A. Ministry of Culture
-B. Ministry of Education
-C. Ministry of Home Affairs
-D. Ministry of Minority Affairs
+**Q29.** With reference to Sixth Schedule coverage traps, which of the following is/are correct?
 
-<details>
-<summary>Show answer</summary>
+1. It does not cover Nagaland, Sikkim, Arunachal Pradesh, Manipur, or Ladakh.
+2. Assam, Meghalaya, Tripura, and Mizoram are the AMTM set.
 
-**Ans: C** — created **1975**.
-
-</details>
-
-**Q49.** Kendriya Hindi Samiti is chaired by the?
-A. Union Home Minister
-B. President
-C. Prime Minister
-D. Speaker
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q50.** With reference to Articles 29 and 30, which of the following is/are correct?
-1. The Constitution does not define the word “minorities.”
-2. The Constitution speaks of linguistic and religious minorities.
 A. Only 1
 B. Only 2
 C. Both 1 and 2
@@ -2333,538 +2142,31 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Constitution never defines “minority”; 29/30 still use the word.
+**Ans: C.** Both are correct.
+
+**Logic:** AMTM in; listed States out.
 
 </details>
 
-**Q51.** Consider the following statements:
-1. Uttarakhand has Sanskrit as a second official language.
-2. Uttar Pradesh has Sanskrit as a second official language.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
+**Q30.** Which of the following pairs is/are correctly matched?
+
+1. Official language (Union) — Hindi in Devanagari (343)
+2. National language — not named in the Constitution
+3. 96th Amendment — Oriya renamed Odia
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 3 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — UP’s second OL is **Urdu**.
+**Ans: C.** All three are correct.
+
+**Logic:** Official vs national + Odia rename.
 
 </details>
-
-**Q52.** Which of the following is/are correct?
-1. Section 3 of the Official Languages Act requires specified Union documents in both Hindi and English.
-2. After 26 January 1965, English stood automatically repealed for Union purposes.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q53.** Article 371-J confers special status on?
-A. Nagaland
-B. Hyderabad-Karnataka
-C. Maharashtra and Gujarat
-D. Ladakh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q54.** Match List-I with List-II and select the correct answer using the code given below the lists:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | 371A |
-| B | 371I |
-| C | 371G |
-| D | 371J |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Goa |
-| 2 | Nagaland |
-| 3 | Karnataka |
-| 4 | Mizoram |
-
-> Note: Row order in the tables is **not** the answer.
-
-A. A-2, B-1, C-4, D-3
-B. A-2, B-4, C-1, D-3
-C. A-1, B-2, C-4, D-3
-D. A-2, B-1, C-3, D-4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q55.** Which one of the following is **not** correctly matched?
-A. 371 — Maharashtra & Gujarat
-B. 371C — Manipur
-C. 371H — Arunachal Pradesh
-D. 371J — Goa
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q56.** With reference to Article 371A, which of the following is/are correct?
-1. An Act of Parliament on Naga land and resources applies only if the Nagaland Assembly so decides.
-2. Nagaland is in the Sixth Schedule.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q57.** Sixth Schedule is applicable in which of the following States?
-A. Tripura
-B. Sikkim
-C. Nagaland
-D. All of the above
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q58.** Consider the following statements:
-1. Fifth Schedule areas exist in Uttar Pradesh.
-2. The President notifies Scheduled Areas.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q59.** A Tribes Advisory Council under the Fifth Schedule?
-1. Shall have not more than 20 members.
-2. Three-fourths of the members shall be ST MLAs.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q60.** PESA was passed in which of the following?
-A. 1998
-B. 1996
-C. 1995
-D. 1993
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q61.Assertion (A):** PESA extends Part IX to the Sixth Schedule areas.
-
-**Reason (R):** PESA applies to Fifth Schedule areas.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q62.** Article 244(2) deals with which of the following?
-A. Fifth Schedule
-B. Sixth Schedule
-C. Official language
-D. J&K
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q63.** Which among the following (Provision — Part) is **not** correctly matched?
-A. Union Territories — Part VIII
-B. Scheduled and Tribal Areas — Part X
-C. Tribunals — Part XI
-D. Official Language — Part XVII
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q64.** Article 35A?
-A. Was inserted by the 1st Amendment
-B. Came through a 1954 Presidential Order under 370
-C. Is still in force
-D. Created Ladakh UT
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q65.** With reference to Article 370, which of the following is/are correct?
-1. It was declared inoperative by a Presidential Order in August 2019.
-2. The Supreme Court in 2023 struck down that Order.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — SC **upheld** it.
-
-</details>
-
-**Q66.** From 31 October 2019, Jammu & Kashmir is?
-A. A State with 370
-B. A UT with a legislature; Ladakh a UT without
-C. Two States
-D. Part of Punjab
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q67.** Match List-I with List-II and select the correct answer using the code given below the lists:
-
-**List-I**
-
-| Code | Item |
-|------|------|
-| A | 371D |
-| B | 371E |
-| C | 371F |
-
-**List-II**
-
-| Code | Item |
-|------|------|
-| 1 | Sikkim |
-| 2 | AP & Telangana (equitable employment/education) |
-| 3 | Central University in AP |
-
-> Note: Row order in the tables is **not** the answer.
-
-A. A-2, B-3, C-1
-B. A-1, B-2, C-3
-C. A-2, B-1, C-3
-D. A-3, B-2, C-1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q68.** Which of the following is **not** a Sixth Schedule State?
-A. Meghalaya
-B. Mizoram
-C. Assam
-D. Arunachal Pradesh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — **371H**.
-
-</details>
-
-**Q69.** An Autonomous District Council under the Sixth Schedule ordinarily has?
-A. Not more than 30 members, 5-year term
-B. 543 members
-C. Only nominated members
-D. A term of 6 years like the 42nd LS
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q70.** Inner Line Permit currently applies to which of the following?
-1. Nagaland
-2. Meghalaya
-3. Manipur
-4. Mizoram
-A. 1, 3 and 4 only
-B. 1, 2 and 4 only
-C. 1 and 4 only
-D. 1, 2, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Meghalaya is **not** ILP. Manipur added **2019**.
-
-</details>
-
-**Q71.** Article 244A provides for which of the following?
-A. Official language of Assam
-B. An autonomous State within Assam
-C. Fifth Schedule TAC
-D. ILP
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — **never used** as a living State.
-
-</details>
-
-**Q72.** Which of the following statements is/are correct?
-1. A Governor may disapply a Parliamentary law in a Fifth Schedule area.
-2. The Tribes Advisory Council can repeal a Central Act on its own.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q73.** Arrange the following in chronological order: I 371A II 371F III 371J IV 371I
-A. I, II, IV, III
-B. I, II, III, IV
-C. II, I, IV, III
-D. I, IV, II, III
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 1962 → 1975 → 1987 → 2012.
-
-</details>
-
-**Q74.** Goa’s special constitutional provision is essentially that?
-A. Its land cannot be sold to non-Goans by a 371A-type clause
-B. Its Assembly shall have not less than 30 members
-C. It is in the Sixth Schedule
-D. It has a development board like 371J
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q75.** The J&K Official Languages Act, 2020 recognises?
-A. Only Urdu
-B. Kashmiri, Dogri, Hindi, Urdu and English
-C. Only Kashmiri and Hindi
-D. Only the 8th Schedule list
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q76.** Which one of the following is **not** correctly matched?
-A. BTC — Assam
-B. TTAADC — Tripura
-C. Chakma ADC — Mizoram
-D. Khasi Hills — Nagaland
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Khasi = **Meghalaya**.
-
-</details>
-
-**Q77.Assertion (A):** Having Scheduled Tribes in a State automatically creates Fifth Schedule areas there.
-
-**Reason (R):** The ST list is under Article 342; Scheduled Areas are notified separately by the President.
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
-**Q78.** 371D applies to which of the following?
-A. Only undivided Andhra Pradesh, not Telangana
-B. Andhra Pradesh and Telangana
-C. Only Telangana
-D. Karnataka
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q79.** Which of the following is/are correct about the Sixth Schedule?
-1. District Councils may make laws on land and social customs.
-2. PESA 1996 extends the 73rd Amendment to these areas.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q80.** Ladakh’s hill councils (Leh/Kargil) are?
-A. Sixth Schedule ADCs
-B. Statutory LAHDCs (1995), not 6th Schedule
-C. 371J boards
-D. Fifth Schedule TACs
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q81.** Article 339(1) commission is?
-A. NCST
-B. An ad hoc commission on Scheduled Areas / ST welfare
-C. NCBC
-D. 350B officer
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q82.** Which of the following States have Fifth Schedule areas?
-1. Jharkhand
-2. Odisha
-3. Uttar Pradesh
-4. Rajasthan
-A. 1, 2 and 4 only
-B. 1, 2 and 3 only
-C. 2 and 3 only
-D. 1, 2, 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q83.** Consider the following statements:
-1. 371H gives the Arunachal Governor a special responsibility for law and order.
-2. 371G is a 371A-type shield for Mizo land and custom.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q84.** Which one of the following is **not** correctly matched?
-A. 13th Amd — 371A
-B. 36th Amd — 371F
-C. 98th Amd — 371J
-D. 56th Amd — 371J
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — 56th = **371I Goa**.
-
-</details>
-
-**Q85.** With reference to 2019, which of the following is/are correct?
-1. Article 370 was made inoperative.
-2. Manipur was brought under the Inner Line system.
-A. Only 1
-B. Only 2
-C. Both 1 and 2
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
 
 ## Mains link (one frame)
 

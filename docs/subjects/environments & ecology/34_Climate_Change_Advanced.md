@@ -659,306 +659,593 @@ D. Net zero 2070; NAPCC 2023
 
 ---
 
-## Practice Zone
+## Practice Zone — UPPCS Format Drill
 
-**Q1.** Emissions Gap Report is published by:
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-Options: A. UNEP B. IPCC C. WTO D. RBI
+**Q1.** With reference to climate change vs warming, which of the following statements is/are correct?
 
-<details><summary>Show answer</summary>
+1. Climate change = long-term shift in temperature, rainfall, extremes.
+2. Global warming = temperature-rise part only.
+3. Both terms are identical always.
 
-**Ans: A**
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q2.** Climate change mitigation agreement among these:
+**Ans: B.** Only 1 and 2.
 
-Options: A. Kyoto Protocol B. Montreal Protocol C. Ramsar D. CITES
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q3.** Carbon credit concept originated from:
-
-Options: A. Kyoto Protocol B. Montreal Protocol C. CITES D. Basel
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Warming ⊂ climate change.
 
 </details>
 
-**Q4.** Which is NOT a GHG?
+**Q2.** Match List-I with List-II:
 
-Options: A. Argon B. CO₂ C. CH₄ D. CFC
+| List-I | List-II |
+|--------|--------|
+| A. Keeling Curve | 1. Annual UNEP |
+| B. Emissions Gap Report | 2. Mauna Loa CO₂ since 1958 |
+| C. IPCC | 3. Science assessment; WMO+UNEP parents |
 
-<details><summary>Show answer</summary>
+Code:
 
-**Ans: A**
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q5.** One carbon credit equals:
+**Ans: C.** A-2, B-1, C-3.
 
-Options: A. 1 tCO₂e B. 1 kg only C. 1 hectare forest always D. 1 litre petrol
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q6.** India net zero target year:
-
-Options: A. 2070 B. 2030 C. 2050 only for India pledge D. 1987
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Keeling / Gap / IPCC.
 
 </details>
 
-**Q7.** LiFE idea was floated at:
+**Q3.** Which of the following pairs is/are correctly matched?
 
-Options: A. COP-26 B. COP-25 Madrid C. Montreal 1987 D. Ramsar 1971
+1. Main GHGs — CO₂, CH₄, N₂O, F-gases
+2. Argon — greenhouse gas
+3. N₂ gas — not a greenhouse gas; N₂O is
 
-<details><summary>Show answer</summary>
+A. 1, 2 and 3
+B. 1 and 2 only
+C. 2 and 3 only
+D. 1 and 3 only
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: D.** Only 1 and 3.
 
-**Q8.** IPCC is mainly a:
-
-Options: A. Science assessment body B. Treaty enforcement court C. Carbon exchange D. Ozone secretariat only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q9.** Keeling Curve measures:
-
-Options: A. Atmospheric CO₂ at Mauna Loa B. Only ozone hole size C. Only AQI in Delhi D. Only sea ice in Arctic for fishing
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Argon not GHG; N₂ ≠ N₂O.
 
 </details>
 
-**Q10.** NAPCC launched in:
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Options: A. 2008 B. 1997 C. 1987 D. 2015 only
+Assertion (A): Emissions Gap Report is an annual UNEP product.
 
-<details><summary>Show answer</summary>
+Reason (R): It is published by the IPCC.
 
-**Ans: A**
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q11.** Updated India NDC year:
+**Ans: C.** A true, R false.
 
-Options: A. 2022 B. 1992 only C. 1972 D. 1730
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q12.** Mitigation means:
-
-Options: A. Cutting emissions / enhancing sinks B. Only relocating cities after every flood C. Only printing more reports D. Only ozone hole chemistry
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**A/R logic:** UNEP — not IPCC.
 
 </details>
 
-**Q13.** Adaptation means:
+**Q5.** With reference to relative GHG shares (WMO-style), which of the following statements is/are correct?
 
-Options: A. Adjusting to climate impacts B. Only increasing coal plants C. Only deleting IPCC D. Only banning all forests
+1. CO₂ ~64% > CH₄ ~19% > CFCs+others ~11% > N₂O ~6%.
+2. Water vapour dominates the natural greenhouse effect.
+3. Solar flares are the primary recent warming driver.
 
-<details><summary>Show answer</summary>
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: A.** Only 1 and 2.
 
-**Q14.** Largest CO₂ emitter in 2015 among options:
-
-Options: A. China B. India C. France D. Only Bhutan
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q15.** Montreal Protocol relates to:
-
-Options: A. Ozone / ODS B. Climate carbon markets only C. Wetlands only D. Wildlife trade only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Primary drivers = fossils/autos/deforestation.
 
 </details>
 
-**Q16.** Carbon budget refers to:
+**Q6.** Arrange India emissions teaching:
 
-Options: A. Cumulative CO₂ limit for a temperature target B. Only Union Budget speech C. Only RBI cash reserve D. Only state GST
+A. Highest per capita always
+B. Top absolute (China #1, India ~3rd) but low per capita; Bhutan often carbon-negative
+C. Zero absolute emissions
+D. Only methane hydrates count
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** High absolute / low per capita.
 
-</details>
-
-**Q17.** Major natural carbon sinks include:
-
-Options: A. Forests and oceans B. Only cement plants C. Only petrol pumps D. Only coal mines
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Rank trap.
 
 </details>
 
-**Q18.** AR6 Synthesis Report year:
+**Q7.** Which of the following pairs is/are NOT correctly matched?
 
-Options: A. 2023 B. 1990 C. 1987 D. 1971
+1. Carbon credit — 1 tCO₂e
+2. Green Credit 2023 — identical to Kyoto carbon credit
+3. PAT ESCert — energy-efficiency certificate (≠ carbon credit)
 
-<details><summary>Show answer</summary>
+A. 1 and 3 only
+B. 2 and 3 only
+C. 2 only
+D. 1, 2 and 3
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: C.** Only pair 2 is not correctly matched.
 
-**Q19.** CCTS in India is linked to:
-
-Options: A. Carbon Credit Trading Scheme 2023 B. Only CITES permits C. Only Ramsar listing D. Only Montreal Multilateral Fund
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q20.** Green Credit Programme 2023 is:
-
-Options: A. Broader eco-action credits ≠ identical to 1 tCO₂e carbon credit B. Same as Montreal Protocol C. Same as CITES D. Same as Basel Ban
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Green Credit ≠ carbon credit.
 
 </details>
 
-**Q21.** Without natural greenhouse effect, Earth would be about:
+**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Options: A. −18°C B. +15°C only C. +100°C D. 0 K exactly always
+Assertion (A): Kyoto is climate mitigation; Montreal is ozone protection.
 
-<details><summary>Show answer</summary>
+Reason (R): The two treaties should not be swapped.
 
-**Ans: A**
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q22.** HDR — WEO — WIR — Emissions Gap correct publishers:
+**Ans: D.** Both true and R restates the separation.
 
-Options: A. UNDP, IMF, UNCTAD, UNEP B. IPCC, WTO, RBI, FAO C. UNEP, UNDP, IMF, WTO D. UNCTAD, UNEP, IPCC, IMF
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q23.** PAT scheme trades mainly:
-
-Options: A. ESCerts (energy efficiency) B. Only CERs automatically C. Only ozone quotas D. Only tiger skins
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**A/R logic:** Kyoto ≠ Montreal.
 
 </details>
 
-**Q24.** IPCC parent organisations:
+**Q9.** With reference to India’s climate path, which of the following statements is/are correct?
 
-Options: A. WMO and UNEP B. WTO and IMF C. RBI and SEBI D. FAO and WHO only
+1. NAPCC 2008 — eight missions (not nuclear power).
+2. Net-zero year fact 2070.
+3. Updated NDC — ~45% intensity cut; ~50% non-fossil capacity share teaching.
 
-<details><summary>Show answer</summary>
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: D.** All three.
 
-**Q25.** India’s updated NDC non-fossil capacity target:
-
-Options: A. 50% by 2030 B. 5% by 2030 C. 100% by 2022 D. 0% by 2030
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q26.** Assertion (A): Emissions Gap Report is by UNEP.
-Reason (R): IPCC publishes it every year as a treaty.
-
-Options: A. Both true; R explains A B. Both true; R does not explain A C. A true, R false D. Both false
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
+**Logic:** NAPCC / NZ / NDC.
 
 </details>
 
-**Q27.** Enhanced greenhouse effect is caused mainly by:
+**Q10.** Match List-I with List-II:
 
-Options: A. Extra anthropogenic GHGs B. Only argon increase C. Only helium balloons D. Only Earth’s core cooling
+| List-I | List-II |
+|--------|--------|
+| A. Mitigation | 1. Adjust to impacts |
+| B. Adaptation | 2. Cut emissions / grow sinks |
+| C. Net zero | 3. Balance emissions with removals |
 
-<details><summary>Show answer</summary>
+Code:
 
-**Ans: A**
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q28.** LiFE launched in:
+**Ans: A.** A-2, B-1, C-3.
 
-Options: A. June 2022 B. June 1987 C. 1730 D. 1997 only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q29.** Carbon trading is:
-
-Options: A. Market exchange of credits/allowances B. Only printing currency C. Only planting without registry D. Only ozone layer measurement
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Mitigation/adaptation/NZ.
 
 </details>
 
-**Q30.** Correct set:
+**Q11.** Arrange LiFE chronology:
 
-Options: A. Kyoto=climate mitigation; Emissions Gap=UNEP; credit=1 tCO₂e; India net zero=2070 B. Montreal=climate; Gap=IPCC; credit=1 kg; net zero=2030 C. Ramsar=carbon markets; Gap=WTO D. CITES=NDC enforcement
+A. COP25 idea; 2019 launch
+B. COP26 2021 idea; June 2022 launch
+C. Both 2008 NAPCC
+D. Both 1958 Keeling
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** 2021 → 2022.
+
+**Logic:** Not COP25.
+
+</details>
+
+**Q12.** With reference to carbon concepts, which of the following statements is/are correct?
+
+1. Carbon sink absorbs net CO₂.
+2. Carbon budget = cumulative CO₂ for a temperature target.
+3. Blue carbon = ocean/coastal sinks.
+4. Carbon fertilization = ocean acidification.
+
+A. 2, 3 and 4 only
+B. 1, 2 and 4 only
+C. 1, 2 and 3 only
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** 1, 2 and 3 only.
+
+**Logic:** Fertilization ≠ acidification.
+
+</details>
+
+**Q13.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): IPCC does science assessment; it does not set national targets.
+
+Reason (R): IPCC Assessment Reports are identical to UNFCCC treaty text.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true, R false.
+
+**A/R logic:** Science reports ≠ convention text.
+
+</details>
+
+**Q14.** Which one of the following correctly states greenhouse effect without GHGs teaching?
+
+A. Only argon controls temperature
+B. Earth would be +50°C always
+C. No temperature change possible
+D. Earth would be about −18°C
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** About −18°C.
+
+**Logic:** Natural GE importance.
+
+</details>
+
+**Q15.** How many of the following institution locks are correct?
+
+GCF Cancun 2010; CDM/CERs Kyoto; GHG Protocol WRI+WBCSD; Earth Hour WWF
+
+A. All four
+B. Only two
+C. Only three
+D. Only one
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** All four.
+
+**Logic:** Institution map.
+
+</details>
+
+**Q16.** With reference to India’s CCTS, which of the following statements is/are correct?
+
+1. Carbon Credit Trading Scheme 2023.
+2. Sits with BEE under Power Ministry neighbourhood.
+3. Identical to Montreal Protocol ODS list.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Not Montreal.
+
+</details>
+
+**Q17.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. Milankovitch | 1. Cryogenic climate archive |
+| B. Ice cores | 2. Eccentricity, obliquity, precession |
+| C. Deep Carbon Observatory | 3. Deep-Earth carbon mapping |
+
+Code:
+
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A-2, B-1, C-3.
+
+**Logic:** Orbital / cores / deep carbon.
+
+</details>
+
+**Q18.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Adaptation examples include early warning, resilient crops, coastal defence, heat-action plans.
+
+Reason (R): Adaptation means only emission cuts.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true, R false.
+
+**A/R logic:** Adaptation ≠ only mitigation.
+
+</details>
+
+**Q19.** Which of the following pairs is/are correctly matched?
+
+1. Climate Action Tracker — Climate Analytics + New Climate Institute
+2. FCPF / BioCarbon Fund ISFL — World Bank programmes
+3. Climate Action Tracker — IPCC/UNEP wing
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Not IPCC/UNEP wing.
+
+</details>
+
+**Q20.** Arrange AR6 warming neighbourhood:
+
+A. ~1.1°C above 1850–1900; human influence dominant
+B. Cooling of 5°C
+C. No human influence
+D. Only argon-driven
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** ~1.1°C; human-dominant.
+
+**Logic:** AR6 lock.
+
+</details>
+
+**Q21.** With reference to methane sources, which of the following statements is/are correct?
+
+1. Methane hydrates.
+2. Paddy + fertiliser (CH₄ + N₂O) neighbourhood.
+3. Wetland CH₄.
+4. Argon from dry air as main GHG.
+
+A. 1, 2 and 4 only
+B. 1, 2 and 3 only
+C. 2, 3 and 4 only
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** 1, 2 and 3 only.
+
+**Logic:** Argon not GHG.
+
+</details>
+
+**Q22.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Carbon trading grew from Kyoto-era market tools.
+
+Reason (R): Paris-era systems use national NDCs and domestic markets.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; Paris design does not explain Kyoto origin of trading.
+
+**A/R logic:** Kyoto origin vs Paris era.
+
+</details>
+
+**Q23.** How many of the following are primary recent warming drivers in teaching?
+
+Fossil fuels, autos, deforestation, solar flares
+
+A. Only one
+B. Only two
+C. Only three
+D. All four
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only three.
+
+**Logic:** Not solar flares.
+
+</details>
+
+**Q24.** Which one of the following correctly states Common Carbon Metric?
+
+A. Only Article 51A(g)
+B. Only IUCN Red List
+C. Only Montreal ODS list
+D. UNEP-linked building-operation carbon footprints
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Building carbon metric.
+
+**Logic:** CCM lock.
+
+</details>
+
+**Q25.** With reference to sequestration / carbon cycle, which of the following statements is/are correct?
+
+1. Carbon cycle moves C among atmosphere, oceans, land, fossils.
+2. Sequestration is the storing process.
+3. Fourier (1820s) framed greenhouse-effect idea neighbourhood.
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** All three.
+
+**Logic:** Cycle + history.
+
+</details>
+
+**Q26.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. India net zero | 1. 2008 |
+| B. NAPCC | 2. 2070 |
+| C. CCTS | 3. 2023 |
+
+Code:
+
+A. A-1, B-2, C-3
+B. A-2, B-1, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** A-2, B-1, C-3.
+
+**Logic:** 2070 / 2008 / 2023.
+
+</details>
+
+**Q27.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): FCPF does not fund universities/individuals as its classic design rule.
+
+Reason (R): FCPF and BioCarbon Fund ISFL are World Bank programmes.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; World Bank parentage does not explain the university/individual funding negation.
+
+**A/R logic:** Programme identity vs funding rule.
+
+</details>
+
+**Q28.** Arrange Milankovitch contents:
+
+A. Only solar irradiance synonym
+B. Only argon cycles
+C. Eccentricity, obliquity, precession — not solar irradiance
+D. Only Keeling Curve stations
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Orbital parameters.
+
+**Logic:** Not irradiance.
+
+</details>
+
+**Q29.** With reference to net zero meaning, which of the following statements is/are correct?
+
+1. Balance remaining emissions with removals.
+2. Not absolute zero every emission.
+3. India’s year fact 2070.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three.
+
+**Logic:** Definition + India year.
+
+</details>
+
+**Q30.** Which one of the following correctly states Earth’s air heating after surface warming?
+
+A. Mainly long-wave terrestrial radiation
+B. Only direct shortwave alone always
+C. Only argon conduction
+D. Only solar flares
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Long-wave terrestrial radiation.
+
+**Logic:** Lower-atmosphere heating — shared with Topic 35.
 
 </details>
 

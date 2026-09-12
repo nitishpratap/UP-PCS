@@ -804,501 +804,606 @@ D. Kerala
 
 ## Practice Zone — UPPCS Format Drill
 
-> **30 questionsQ1.** With reference to ISFR, which statements is/are correct?
+> **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D | **Ans first, then Logic**
 
-1. Forest cover requires at least 1 ha patch with 10% canopy.
-2. Forest cover includes only Recorded Forest Area.
+**Q1.** With reference to ISFR forest cover definition, which of the following statements is/are correct?
 
-A. Only 1
+1. Forest cover means a patch of at least 1 ha with canopy ≥10%.
+2. It is counted on any land ownership.
+3. Forest cover is identical to Recorded Forest Area in all cases.
 
-B. Only 2
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. Both 1 and 2
+<details>
+<summary>Show answer</summary>
 
-D. Neither
+**Ans: B.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q2.** With reference to UP forests (ISFR 2023), which statements is/are correct?
-
-1. Sonbhadra has the highest forest percentage among UP districts.
-2. Bahraich exceeds 20% forest cover of district area.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Forest cover ≠ RFA ≠ tree cover.
 
 </details>
 
-**Q3.** With reference to FCA 1980, which statements is/are correct?
+**Q2.** Match canopy classes:
 
-1. Prior Central approval is needed for diversion of forest land.
-2. FCA was enacted in 1972 with WPA.
+| List-I | List-II |
+|--------|--------|
+| A. VDF | 1. 10–40% |
+| B. MDF | 2. ≥70% |
+| C. OF | 3. 40–70% |
 
-A. Only 1
+Code:
 
-B. Only 2
+A. A-2, B-1, C-3
+B. A-3, B-2, C-1
+C. A-2, B-3, C-1
+D. A-1, B-3, C-2
 
-C. Both 1 and 2
+<details>
+<summary>Show answer</summary>
 
-D. Neither
+**Ans: C.** A-2, B-3, C-1.
 
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q4.** With reference to JFM, which statements is/are correct?
-
-1. JFM was launched in 1990.
-2. JFM grants permanent land title like FRA.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** VDF ≥70; MDF 40–70; OF 10–40.
 
 </details>
 
-**Q5.** With reference to FRA 2006, which statements is/are correct?
+**Q3.** With reference to ISFR 2023 class figures, which of the following statements is/are correct?
 
-1. Individual Forest Right is capped at 4 hectares.
-2. Occupation cutoff date is 13 December 2005.
+1. Forest cover about 21.76%.
+2. Tree cover about 3.41%; total green cover about 25.17%.
+3. Mizoram has the largest forest area among States.
 
-A. Only 1
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
-B. Only 2
+<details>
+<summary>Show answer</summary>
 
-C. Both 1 and 2
+**Ans: D.** Only 1 and 2.
 
-D. Neither
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q6.** Champion and Seth classification has:
-
-A. 6 types
-
-B. 10 types
-
-C. 16 types
-
-D. 25 types
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
+**Logic:** Largest area = Madhya Pradesh; Mizoram = highest percentage.
 
 </details>
 
-**Q7.** India's largest forest type by area is:
+**Q4.** Which of the following pairs is/are correctly matched?
 
-A. Tropical Wet Evergreen
+1. Largest forest area — Madhya Pradesh
+2. Highest % cover among States — Mizoram
+3. Forest cover = Recorded Forest Area always
 
-B. Tropical Dry Deciduous
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. Mangrove
+<details>
+<summary>Show answer</summary>
 
-D. Alpine scrub
+**Ans: A.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q8.** National Forest Policy 1988 targets forest and tree cover of:
-
-A. 25% nationally
-
-B. 33% nationally
-
-C. 50% nationally
-
-D. 66% nationally
-
-<details><summary>Show answer</summary>
-
-**Ans: B** — 66% is for hills/mountains.
+**Logic:** Cover ≠ RFA.
 
 </details>
 
-**Q9.** Chipko Movement began in:
+**Q5.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. 1968
+Assertion (A): Under the Indian Forest Act, 1927, Reserved Forest is the strictest category.
 
-B. 1973
+Reason (R): In Reserved Forests, many acts are banned unless permitted.
 
-C. 1980
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. 1990
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: D.** Both true and R explains Reserved Forest strictness.
 
-**Ans: B**
-
-</details>
-
-**Q10.** India State of Forest Report is published by:
-
-A. CPCB
-
-B. FSI
-
-C. ICFRE
-
-D. ZSI
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**A/R logic:** IFA reserved = strictest.
 
 </details>
 
-**Q11.** National Agroforestry Policy was launched in:
+**Q6.** Arrange the law chain in correct order:
 
-A. 2006
+1. Indian Forest Act
+2. Forest (Conservation) Act
+3. National Forest Policy
+4. JFM guidelines
+5. FRA
+6. CAMPA Act
 
-B. 2010
+A. 2-1-3-4-5-6
+B. 1-2-3-4-5-6
+C. 1-3-2-4-5-6
+D. 1-2-4-3-5-6
 
-C. 2014
+<details>
+<summary>Show answer</summary>
 
-D. 2020
+**Ans: B.** 1927 → 1980 → 1988 → 1990 → 2006 → 2016.
 
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q12.** ICAR-CAFRI is located at:
-
-A. Dehradun
-
-B. Jhansi
-
-C. Bhopal
-
-D. Lucknow
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** IFA–FCA–NFP–JFM–FRA–CAMPA.
 
 </details>
 
-**Q13.** Under JFM, community share of net forest produce income is about:
+**Q7.** With reference to Champion and Seth (1968), which of the following statements is/are correct?
 
-A. 25%
+1. They classify Indian forests into 16 types in 6 groups.
+2. Tropical Dry Deciduous has the largest share (~38%).
+3. Tropical wet evergreen occurs mainly below 50 cm rainfall.
 
-B. 50%
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
 
-C. 75%
+<details>
+<summary>Show answer</summary>
 
-D. 100%
+**Ans: C.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q14.** Social forestry primarily uses:
-
-A. Degraded reserved forest
-
-B. Non-forest land
-
-C. National park core
-
-D. Marine coast
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Wet evergreen needs >200 cm rain.
 
 </details>
 
-**Q15.** CAMPA Act was enacted in:
+**Q8.** Match List-I with List-II:
 
-A. 2006
+| List-I (UP belt) | List-II |
+|------------------|--------|
+| A. Terai | 1. Thorn |
+| B. Vindhyan | 2. Moist deciduous |
+| C. Bundelkhand | 3. Dry deciduous |
 
-B. 2009
+Code:
 
-C. 2016
+A. A-1, B-3, C-2
+B. A-3, B-2, C-1
+C. A-2, B-1, C-3
+D. A-2, B-3, C-1
 
-D. 2020
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: D.** A-2, B-3, C-1.
 
-**Ans: C**
-
-</details>
-
-**Q16.** Green India Mission was launched in:
-
-A. 2008
-
-B. 2010
-
-C. 2014
-
-D. 2019
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
+**Logic:** Terai moist; Vindhyan dry; Bundelkhand thorn.
 
 </details>
 
-**Q17.** Which UP districts exceed 20% forest cover per ISFR 2023?
+**Q9.** Which of the following pairs is/are NOT correctly matched?
 
-A. Bahraich and Chandauli
+1. Teak — tropical moist deciduous dominance teaching
+2. Red Sanders — dry-deciduous South India endemic
+3. Red Sanders — Himalayan wet evergreen endemic of Himachal only
 
-B. Chandauli and Shravasti
+A. 3 only
+B. 1 and 2 only
+C. 2 and 3 only
+D. 1, 2 and 3
 
-C. Sonbhadra and Bahraich
+<details>
+<summary>Show answer</summary>
 
-D. Shravasti and Pilibhit
+**Ans: A.** Only pair 3 is not correctly matched.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q18.** Godavarman case (1996) expanded the meaning of forest to include:
-
-A. Only reserved forests
-
-B. Dictionary meaning beyond notified land
-
-C. Only wildlife sanctuaries
-
-D. Farm plantations only
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Red Sanders = Palkonda–Seshachalam / southern Eastern Ghats.
 
 </details>
 
-**Q19.** Arrange chronologically:
+**Q10.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-1. FCA 2. JFM 3. FRA 4. NFP
+Assertion (A): Tropical wet evergreen forests hold maximum plant diversity/biomass among common options.
 
-A. 4, 1, 2, 3
+Reason (R): They typically receive more than 200 cm rainfall and occur in Western Ghats, NE hills, and A&N.
 
-B. 1, 4, 2, 3
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-C. 1, 2, 4, 3
+<details>
+<summary>Show answer</summary>
 
-D. 4, 1, 3, 2
+**Ans: D.** Both true and R explains the richness conditions.
 
-<details><summary>Show answer</summary>
-
-**Ans: B** — FCA 1980, NFP 1988, JFM 1990, FRA 2006.
-
-</details>
-
-**Q20.** Assertion (A): Tree cover can exist outside Recorded Forest Area.
-Reason (R): ISFR counts scattered trees and orchards below 1 ha patch size as tree cover.
-
-A. Both true; R explains A
-
-B. Both true; R not explanation
-
-C. A true, R false
-
-D. A false, R true
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**A/R logic:** High rainfall + WG/NE/A&N distribution.
 
 </details>
 
-**Q21.** Terai belt of UP mainly has which forest type?
+**Q11.** With reference to Taxus, which of the following statements is/are correct?
 
-A. Tropical Thorn
+1. It is linked with Himalaya and Red Data teaching.
+2. It yields taxol (anti-cancer association).
+3. It is the dominant tree of tropical dry deciduous plains of Tamil Nadu only.
 
-B. Tropical Moist Deciduous
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-C. Alpine scrub
+<details>
+<summary>Show answer</summary>
 
-D. Mangrove
+**Ans: B.** Only 1 and 2.
 
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q22.** Bundelkhand region mainly has:
-
-A. Wet evergreen
-
-B. Tropical Thorn / Dry Deciduous
-
-C. Boreal coniferous
-
-D. Littoral swamp
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Himalayan Taxus — not TN dry deciduous dominant.
 
 </details>
 
-**Q23.** FRA primary claim authority at village level is:
+**Q12.** Which one of the following correctly distinguishes forest cover and tree cover?
 
-A. District Collector alone
+A. They are always identical percentages
+B. Tree cover replaces Recorded Forest Area legally
+C. Forest cover and tree cover are different ISFR concepts; total green combines both
+D. Forest cover counts only reserved forests
 
-B. Gram Sabha
+<details>
+<summary>Show answer</summary>
 
-C. NTCA
+**Ans: C.** Different ISFR concepts; green cover combines both.
 
-D. NBWL
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q24.** Compensatory afforestation funds are managed under:
-
-A. FRA
-
-B. CAMPA
-
-C. EPA 1986
-
-D. NGT Act
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Cover ≠ RFA; tree cover is separate.
 
 </details>
 
-**Q25.** National Afforestation Programme (NAP) was launched in:
+**Q13.** Arrange canopy density from densest to open:
 
-A. 1990
+A. OF → MDF → VDF
+B. VDF → OF → MDF
+C. MDF → VDF → OF
+D. VDF → MDF → OF
 
-B. 2000
+<details>
+<summary>Show answer</summary>
 
-C. 2014
+**Ans: D.** VDF → MDF → OF.
 
-D. 2016
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q26.** Which pair is NOT correctly matched?
-
-A. FCA — 1980
-
-B. JFM — 1990
-
-C. FRA — 2002
-
-D. NFP — 1988
-
-<details><summary>Show answer</summary>
-
-**Ans: C** — FRA = **2006**.
+**Logic:** ≥70 → 40–70 → 10–40.
 
 </details>
 
-**Q27.** VDF canopy density threshold is:
+**Q14.** With reference to Amazon teaching, which of the following statements is/are correct?
 
-A. ≥10%
+1. Amazon rainforest is often called the “lungs of the Earth” in coaching figures.
+2. This replaces India’s ISFR definition of forest cover.
+3. It is a global biogeography teaching hook, not an ISFR India % lock.
 
-B. ≥40%
+A. 1 and 3 only
+B. 1 and 2 only
+C. 2 and 3 only
+D. 1, 2 and 3
 
-C. ≥70%
+<details>
+<summary>Show answer</summary>
 
-D. ≥90%
+**Ans: A.** Only 1 and 3.
 
-<details><summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
-**Q28.** Forests in the Constitution are on:
-
-A. Union List
-
-B. State List
-
-C. Concurrent List
-
-D. Residuary List
-
-<details><summary>Show answer</summary>
-
-**Ans: C**
+**Logic:** Does not replace ISFR definitions.
 
 </details>
 
-**Q29.** Farm forestry is a component of:
+**Q15.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Social forestry
+Assertion (A): Protected Forest under IFA is State-regulated with some acts allowed unless prohibited.
 
-B. Marine conservation
+Reason (R): Protected Forest is stricter than Reserved Forest under IFA.
 
-C. Desertification control only
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-D. CRZ management
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: C.** A true, R false.
 
-**Ans: A**
+**A/R logic:** Reserved is stricter than Protected.
 
 </details>
 
-**Q30.** India total green cover (forest + tree) in ISFR 2023 is about:
+**Q16.** Match List-I with List-II:
 
-A. 15.17%
+| List-I | List-II |
+|--------|--------|
+| A. FCA | 1. 2006 |
+| B. FRA | 2. 1980 |
+| C. CAMPA Act | 3. 2016 |
 
-B. 21.76%
+Code:
 
-C. 25.17%
+A. A-1, B-2, C-3
+B. A-2, B-1, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
 
-D. 33.00%
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: B.** A-2, B-1, C-3.
 
-**Ans: C**
+**Logic:** FCA 1980; FRA 2006; CAMPA 2016.
+
+</details>
+
+**Q17.** With reference to Madhya Pradesh forest facts, which of the following statements is/are correct?
+
+1. MP has the largest forest area among common State options.
+2. MP has the maximum teak area among common options.
+3. MP has the highest forest percentage among all States, above Mizoram.
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Highest % = Mizoram.
+
+</details>
+
+**Q18.** Which of the following pairs is/are correctly matched?
+
+1. JFM guidelines — 1990
+2. National Forest Policy — 1988
+3. IFA — 1980
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** IFA is 1927; FCA is 1980.
+
+</details>
+
+**Q19.** How many of the following receive >200 cm rain in wet evergreen teaching?
+
+Western Ghats, NE hills, Andaman & Nicobar, Thar Desert interior
+
+A. Only three
+B. Only two
+C. Only one
+D. All four
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only three.
+
+**Logic:** Thar is not wet evergreen.
+
+</details>
+
+**Q20.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Recorded Forest Area is a legal-notification figure.
+
+Reason (R): ISFR forest cover always equals Recorded Forest Area percentage.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true, R false.
+
+**A/R logic:** Cover and RFA differ.
+
+</details>
+
+**Q21.** With reference to Red Sanders, which of the following statements is/are correct?
+
+1. Botanical name teaching: *Pterocarpus santalinus*.
+2. Dry-deciduous South India endemic.
+3. It is the state tree of Himachal Pradesh wet alpine zone.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Not HP wet alpine.
+
+</details>
+
+**Q22.** Arrange densest canopy class letter to open forest:
+
+A. OF, MDF, VDF
+B. MDF, OF, VDF
+C. VDF, MDF, OF
+D. VDF, OF, MDF
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** VDF, MDF, OF.
+
+**Logic:** Same density ladder.
+
+</details>
+
+**Q23.** Which of the following UP type facts is/are correct?
+
+1. Terai — moist deciduous
+2. Vindhyan — dry deciduous
+3. Bundelkhand — thorn
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three.
+
+**Logic:** Standard UP belt locks.
+
+</details>
+
+**Q24.** With reference to FSI/ISFR, which of the following statements is/are correct?
+
+1. FSI publishes ISFR every two years.
+2. ISFR is an annual CPCB product.
+3. Forest cover mapping is FSI’s job.
+
+A. 1 and 3 only
+B. 1 and 2 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 3.
+
+**Logic:** ISFR is biennial FSI — not CPCB annual.
+
+</details>
+
+**Q25.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. NFP | 1. 1990 |
+| B. JFM | 2. 1988 |
+| C. FRA | 3. 2006 |
+
+Code:
+
+A. A-1, B-2, C-3
+B. A-2, B-1, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** A-2, B-1, C-3.
+
+**Logic:** NFP 1988; JFM 1990; FRA 2006.
+
+</details>
+
+**Q26.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Arunachal Pradesh often leads very dense forest area among States in ISFR teaching.
+
+Reason (R): Mizoram has the largest absolute forest area in India.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true, R false.
+
+**A/R logic:** Largest area = MP; Mizoram = highest %.
+
+</details>
+
+**Q27.** Which of the following pairs is/are NOT correctly matched?
+
+1. Wet evergreen — >200 cm
+2. Tropical Dry Deciduous — largest share among Champion & Seth types
+3. Open Forest — canopy ≥70%
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only pair 3 is not correctly matched.
+
+**Logic:** OF is 10–40%; ≥70% is VDF.
+
+</details>
+
+**Q28.** With reference to CAMPA, which of the following statements is/are correct?
+
+1. CAMPA Act teaching year is 2016.
+2. It sits in the forest clearance / compensatory afforestation world with FCA.
+3. CAMPA repealed the Wildlife (Protection) Act.
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Does not repeal WPA.
+
+</details>
+
+**Q29.** How many of the following are correctly true?
+
+1. Forest cover ≥1 ha and ≥10% canopy
+2. RFA ≈ legal notification figure near ~23% class teaching
+3. Tree cover is the same as VDF
+
+A. Only two
+B. Only one
+C. All three
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only two.
+
+**Logic:** Tree cover ≠ VDF.
+
+</details>
+
+**Q30.** Which one of the following is the correct FCA year?
+
+A. 1927
+B. 1980
+C. 1988
+D. 2006
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** 1980.
+
+**Logic:** IFA 1927; FCA 1980; NFP 1988; FRA 2006.
 
 </details>
 

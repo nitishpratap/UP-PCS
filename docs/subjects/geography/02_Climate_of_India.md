@@ -1338,1513 +1338,615 @@ D. Exosphere
 
 ---
 
-## Practice Zone — UPPCS Format Questions
+## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden** — click *Show answer* under each question to reveal.
-> **Format mix:** 72 questions — mix of multi-statement, A/R, match, NOT-matched, and direct recall (includes Ghatnachakra classic leads)
+> **30 questions** | Original drill (not a PYQ dump) | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced A–D
 
-**Q1.** With reference to the climate of India, which of the following statements is/are correct?
+**Q1.** With reference to India’s climate type, which of the following statements is/are correct?
 
-1. The Himalayas block cold Siberian winds from entering the subcontinent in winter.
-2. Tamil Nadu coast receives heavy rainfall during the southwest monsoon season.
-3. India lies entirely in the tropical zone.
+1. India’s climate is tropical monsoon, not wholly tropical.
+2. The Himalaya acts as a winter wall against Central Asian cold.
+3. About 75–90% of India’s rain falls with the north-east monsoon.
 
-Select the correct answer from the code given below:
-
-A. 1 only
-
-B. 2 only
-
+A. 2 and 3 only
+B. 1 and 2 only
 C. 1 and 3 only
-
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — (1) correct. **(2) false:** TN SE coast is dry in SW monsoon (rain shadow + parallel to BoB branch); NE monsoon brings TN rain. **(3) false:** India extends to 37°6′ N — subtropical north. **C/D** accept false TN monsoon or tropical-only claim.
+**Ans: B.** Statements 1 and 2 are correct.
+
+**Logic:** SW monsoon (Jun–Sep) brings most rain; NE monsoon is mainly SE coast.
+
 </details>
 
-**Q2.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
+**Q2.** Arrange the usual onset dates of the south-west monsoon from earliest to latest:
 
-**Assertion (A):** The Tamil Nadu coast remains dry during the South-West monsoon season.
+1. Delhi
+2. Kerala
+3. Mumbai / Kolkata
+4. Rajasthan (last)
 
-**Reason (R):** The Tamil Nadu coast is situated parallel to the Bay of Bengal branch of the South-West monsoon and lies in the rain shadow area of the Arabian Sea branch.
+A. 3–2–1–4
+B. 2–1–3–4
+C. 2–3–1–4
+D. 2–3–4–1
 
-Select the correct answer from the code given below:
+<details>
+<summary>Show answer</summary>
 
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+**Ans: C.** Kerala (~1 Jun) → Mumbai/Kolkata (~10 Jun) → Delhi (~29 Jun) → Rajasthan mid-July.
 
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+**Logic:** Onset marches roughly south-west/coast first, then inland north-west last.
 
+</details>
+
+**Q3.** Which of the following pairs is/are NOT correctly matched?
+
+1. Active monsoon — trough on the Himalaya; central India dry
+2. Break monsoon — trough on the Ganga plain; plains wet
+3. Tamil Nadu SE coast — dry in SW monsoon; rains mainly with NE monsoon
+
+A. 3 only
+B. 1 and 2 only
+C. 1 only
+D. 2 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Pairs 1 and 2 are reversed/wrong; 3 is correct.
+
+**Logic:** Active = trough on Ganga plain; break = trough on Himalaya.
+
+</details>
+
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Western Disturbances bring winter rain to north-west India.
+
+Reason (R): They are Mediterranean extra-tropical systems steered by the subtropical westerly jet.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — UPPCS 2023 Q54 pattern: both true; parallel + rain shadow explains TN dryness in SW monsoon. **B** denies causal link. **C/D** falsify correct monsoon geography.
-</details>
-
-**Q3.** Which one of the following causes is responsible for rainfall during winters in the north-western part of India?
-
-A. Retreating Monsoon
-
-B. Cyclonic depression in Bay of Bengal
-
-C. Western disturbances
-
-D. South-West Monsoon
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — UPPCS 2021 Q36: WD from Mediterranean westerlies. **A/D** are summer/wet-season systems. **B** affects east coast, not primary NW winter rain.
-</details>
-
-**Q4.** Match **List-I** with **List-II**:
-
-| List-I (Local Wind/Storm) | List-II (Region/Character) |
-|---|---|
-| A. Loo | 1. Pre-monsoon thunderstorm, West Bengal |
-| B. Nor'wester | 2. Hot dry wind, Indo-Gangetic plains, May–June |
-| C. Mango shower | 3. Warm dry downslope, Alps |
-| D. Foehn | 4. Pre-monsoon rain, Kerala/Karnataka |
-
-A. 2 1 4 3
-
-B. 1 2 3 4
-
-C. 2 4 1 3
-
-D. 4 2 1 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Loo-2, Nor'wester-1, Mango shower-4, Foehn-3. **B/C/D** swap Indian summer wind with European or storm types.
-</details>
-
-**Q5.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
-
-**Assertion (A):** Agra and Darjeeling are located on nearly the same latitude, but the temperature in January in Agra is about 16°C whereas it is only 4°C in Darjeeling.
-
-**Reason (R):** Temperature decreases with height due to thinner air compared to places in the plains.
-
-Select the correct answer from the code given below:
-
-A. (A) is false, but (R) is true
-
-B. (A) is true, but (R) is false
-
-C. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
 D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — UPPCS 2022 Q22: lapse rate/altitude explains January contrast. **C** breaks altitude-temperature link. **A/B** deny true temperature facts.
+**Ans: D.** Both true and R correctly explains the mechanism of A.
+
+**A/R logic:** WD ≠ retreating monsoon; R states the jet-steered extra-tropical origin.
+
 </details>
 
-**Q6.** With reference to El Niño, which of the following statements is/are correct?
+**Q5.** Match List-I with List-II:
 
-1. El Niño involves the appearance of a warm current off the coast of Peru in the eastern Pacific.
-2. This warm current increases the temperature of water on the Peruvian coast by about 10°C, thereby increasing the amount of plankton in the sea.
-
-Select the correct answer from the code given below:
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — UPPCS 2023 Q67: (1) correct. **(2) false:** warm water **suppresses** upwelling → **less** plankton/fish. **C/D** accept the plankton-increase trap.
-</details>
-
-**Q7.** Which of the following pairs is/are **NOT** correctly matched?
-(Wind) — (Country/Region)
-
-1. Shamal — Austria
-2. Mistral — France
-3. Santa Ana — California
-4. Haboob — Sudan
-
-Select the correct answer from the code given below:
-
-A. Only 1
-
-B. Only 1 and 4
-
-C. Only 2 and 3
-
-D. Only 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — UPPCS 2021 Q30 / 2019 Q80 pattern: Shamal = Arabia/Gulf, NOT Austria. (2), (3), (4) correct. **B/C/D** wrongly flag Mistral, Santa Ana, or Haboob.
-</details>
-
-**Q8.** Match **List-I** with **List-II** (Tropical cyclone local names):
-
-| List-I (Name) | List-II (Country/Region) |
+| List-I | List-II |
 |---|---|
-| A. Hurricane | 1. Australia |
-| B. Willy-willies | 2. United States of America |
-| C. Typhoon | 3. Japan / NW Pacific |
-| D. Cyclone (generic) | 4. Indian Ocean |
+| A. Loo | 1. Pre-monsoon Kerala–Karnataka rain |
+| B. Kal Baisakhi | 2. Hot dry wind of Indo-Gangetic plains |
+| C. Mango showers | 3. Violent pre-monsoon storms of east/NE India |
+| D. Blossom showers | 4. Coffee-aiding showers of TN/Kerala |
 
-A. 2 1 3 4
+*Row order is not the answer code.*
 
-B. 1 2 4 3
+Code:
 
-C. 3 2 1 4
-
-D. 2 3 1 4
+A. A-2, B-1, C-3, D-4
+B. A-3, B-2, C-1, D-4
+C. A-2, B-3, C-1, D-4
+D. A-1, B-3, C-2, D-4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Hurricane-USA(2), Willy-willies-Australia(1), Typhoon-Japan/NW Pacific(3), Cyclone-Indian Ocean(4). **C/D** swap Australia-USA pairings from 2020 Q74 trap.
+**Ans: C.** Loo=hot dry; Kal Baisakhi=Nor’westers; mango=Kerala/Karnataka; blossom=coffee.
+
+**Logic:** Do not put Loo on Kerala or mango showers on the Gangetic plains.
+
 </details>
 
-**Q9.** With reference to the southwest monsoon in India, which of the following statements is/are correct?
+**Q6.** With reference to jet streams over India, which of the following statements is/are correct?
 
-1. It brings approximately 75–90% of India's annual rainfall.
-2. The Arabian Sea and Bay of Bengal branches merge over the northern plains.
-3. The northeast monsoon is responsible for winter rainfall in Tamil Nadu.
+1. The Subtropical Westerly Jet is a winter westerly that helps steer Western Disturbances.
+2. The Tropical Easterly Jet is a summer easterly supporting the SW monsoon.
+3. Mid-latitude jets are easterly in both seasons over India.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-
-B. 2 and 3 only
-
+A. 2 and 3 only
+B. 1 and 2 only
 C. 1 and 3 only
-
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — All three correct: SW monsoon dominance; branches supply north/central India; **NE monsoon** (not SW) gives TN winter rain — statement 3 correctly attributes TN rain to NE monsoon. **A** drops TN monsoon fact.
+**Ans: B.** Only 1 and 2 are correct.
+
+**Logic:** Mid-latitude jets are westerly; TEJ is the summer easterly exception in the tropics.
+
 </details>
 
-**Q10.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
+**Q7.** With reference to ENSO and IOD, which of the following statements is/are correct?
 
-**Assertion (A):** Jet streams discovered during World War II are high altitude easterly winds.
+1. El Niño usually weakens the Indian monsoon.
+2. A positive IOD helps the Indian monsoon.
+3. IOD compares the western and eastern Pacific Ocean.
 
-**Reason (R):** Jet streams flow with a speed of 300–500 km/hour.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-B. (A) is false, but (R) is true
-
-C. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-D. (A) is true, but (R) is false
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — UPPCS 2024 Q60: mid-latitude jets are **westerly** (Assertion false); speed range in Reason true but irrelevant. **A/C** accept false "easterly" generalisation.
-</details>
-
-**Q11.** The winter rains caused by Western disturbance in the North-Western Plain of India gradually decrease from:
-
-A. East to West
-
-B. West to East
-
-C. North to South
-
-D. South to North
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — UPPCS 2019 Q83: Punjab/Haryana (west) get more WD rain than east UP. **A** reverses gradient. **C/D** wrong directional logic.
-</details>
-
-**Q12.** With reference to Indian seasons (IMD), which of the following statements is/are correct?
-
-1. The hot weather season is associated with Loo winds in the northern plains.
-2. The retreating monsoon season sees cyclogenesis in the Bay of Bengal.
-3. The cold weather season receives WD rainfall in Punjab and Haryana.
-
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-
+A. 1 and 3 only
 B. 2 and 3 only
-
-C. 1 and 3 only
-
+C. 1 and 2 only
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — All three season-phenomenon links correct. **A/B/C** each omit one valid pairing.
+**Ans: C.** Statements 1 and 2 are correct.
+
+**Logic:** IOD is an Indian Ocean dipole, not Pacific.
+
 </details>
 
-**Q13.** Match **List-I** with **List-II** (Köppen climate types in India):
+**Q8.** Which one of the following Köppen types is correctly matched?
 
-| List-I (Code) | List-II (Indian Region) |
-|---|---|
-| A. BWh | 1. Indo-Gangetic plain (Lucknow, Patna) |
-| B. Cwg | 2. Western Rajasthan (Thar) |
-| C. Am | 3. Kerala coast / Cherrapunji |
-| D. Aw | 4. Interior Deccan (Maharashtra plateau) |
-
-A. 2 1 3 4
-
-B. 1 2 4 3
-
-C. 2 1 4 3
-
-D. 3 4 2 1
+A. BWh — Kerala / Konkan
+B. Am — Thar desert
+C. As — dry-summer Coromandel (Tamil Nadu)
+D. Cwg — Arabian Sea branch rain shadow only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — BWh-2 (desert), Cwg-1 (plain), Am-3 (wet monsoon coast), Aw-4 (savanna interior). **B/C** swap desert and plain codes.
+**Ans: C.** As marks Tamil Nadu’s dry-summer Coromandel with NE-monsoon rain.
+
+**Logic:** Am = wet SW coast/NE; BWh = Thar; Cwg = Ganga/Great Plains.
+
 </details>
 
-**Q14.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
+**Q9.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-**Assertion (A):** Relative humidity decreases with increasing air temperature.
+Assertion (A): Relative humidity falls when temperature rises even if vapour mass stays the same.
 
-**Reason (R):** Absolute humidity increases with increasing evaporation.
-
-Select the correct answer from the code given below:
+Reason (R): Relative humidity is the percentage of saturation, not the absolute mass of vapour.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
 B. (A) is false, but (R) is true
-
-C. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-D. (A) is true, but (R) is false
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — UPPCS 2024 Q27: RH falls when temperature rises (same moisture, higher capacity); Reason about evaporation/absolute humidity is independently true but doesn't explain RH-temperature inverse relation. **C** overstates causal link.
-</details>
-
-**Q15.** Which of the following pairs is/are **NOT** correctly matched?
-(Phenomenon) — (Explanation)
-
-1. TEJ — Summer easterly jet over peninsular India driving SW monsoon
-2. STWJ — Winter westerly jet steering Western Disturbances
-3. +IOD — Suppresses Indian monsoon rainfall
-4. La Niña — Tendency for above-normal monsoon in India
-
-Select the correct answer from the code given below:
-
-A. Only 3
-
-B. Only 1 and 3
-
-C. Only 2 and 4
-
-D. Only 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Only (3) wrong: **+IOD helps** monsoon; **−IOD** suppresses. (1), (2), (4) correct. **B/C/D** wrongly flag TEJ, STWJ, or La Niña.
-</details>
-
-**Q16.** 'Vegetation is the true index of climate'. This statement is associated with:
-
-A. Thornthwaite
-
-B. Köppen
-
-C. Trewartha
-
-D. Stamp
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — UPPCS 2018 Q25: Thornthwaite moisture/vegetation approach. **B** = temperature-rainfall boundaries. **C** = modified Köppen.
-</details>
-
-**Q17.** With reference to tropical cyclones affecting India, which of the following statements is/are correct?
-
-1. The Bay of Bengal generates more cyclones than the Arabian Sea.
-2. Post-monsoon (Oct–Dec) is a peak cyclone season for the east coast.
-3. Tropical cyclones cannot form over the equator due to negligible Coriolis force.
-
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-
-B. 2 and 3 only
-
-C. 1 and 3 only
-
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — All three standard cyclone associations. **A** drops Coriolis constraint. **B** drops BoB frequency fact.
-</details>
-
-**Q18.** Match **List-I** with **List-II**:
-
-| List-I (Jet Stream) | List-II (Season/Role) |
-|---|---|
-| A. Subtropical Westerly Jet | 1. Summer; ~14° N over India; easterly |
-| B. Tropical Easterly Jet | 2. Winter; south of Himalaya; carries WD |
-| C. Somali Jet | 3. Cross-equatorial flow feeding SW monsoon |
-| D. Polar Front Jet | 4. Mid-latitude westerlies (world reference) |
-
-A. 2 1 3 4
-
-B. 1 2 3 4
-
-C. 2 3 1 4
-
-D. 4 2 1 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — STWJ-2, TEJ-1, Somali-3, Polar Front-4. **B** swaps STWJ and TEJ season/role — common trap.
-</details>
-
-**Q19.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
-
-**Assertion (A):** The Earth's atmosphere is mainly heated by long-wave terrestrial radiation.
-
-**Reason (R):** Greenhouse gases absorb long-wave radiation emitted by the Earth's surface.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
 C. (A) is true, but (R) is false
-
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — UPPCS 2022 Q138 + greenhouse mechanism: troposphere heated from below via long-wave absorption. **B** denies GHG link. **D** rejects correct Assertion.
-</details>
-
-**Q20.** Which one of the following reflects back more sunlight as compared to the other three?
-
-A. Sand desert
-
-B. Paddy crop land
-
-C. Land covered with fresh snow
-
-D. Prairie land
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — UPPCS 2021 Q66: fresh snow highest albedo (~80–90%). **A** moderate. **B/D** lower reflectivity.
+**Ans: D.** Both true and R explains A.
+
+**A/R logic:** Absolute humidity = mass; RH = % saturation — temperature changes capacity.
+
 </details>
 
-**Q21.** With reference to the ITCZ and monsoon, which of the following statements is/are correct?
+**Q10.** With reference to tropical cyclones, which of the following statements is/are correct?
 
-1. ITCZ shifts north over India during the summer monsoon season.
-2. A southward-positioned ITCZ during summer correlates with weak monsoon conditions.
-3. ITCZ is a high-pressure belt where air sinks.
+1. They form more often over the Bay of Bengal than the Arabian Sea.
+2. Sea surface temperature needs about 26–27°C.
+3. They commonly form on the equator because Coriolis is strongest there.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-
-B. 2 and 3 only
-
+A. 2 and 3 only
+B. 1 and 2 only
 C. 1 and 3 only
-
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — (1) and (2) correct. **(3) false:** ITCZ = **low** pressure, rising air. **C/D** accept high-pressure trap.
-</details>
+**Ans: B.** Only 1 and 2 are correct.
 
-**Q22.** Which of the following pairs is/are **NOT** correctly matched?
-(Storm/Shower) — (Region)
-
-1. Kal Baisakhi — West Bengal / Assam
-2. Blossom showers — Tamil Nadu / Kerala
-3. Mango showers — Punjab / Haryana
-4. Nor'westers — Eastern India pre-monsoon
-
-Select the correct answer from the code given below:
-
-A. Only 3
-
-B. Only 1 and 3
-
-C. Only 2 and 4
-
-D. Only 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Mango showers = **Kerala/Karnataka**, not Punjab/Haryana. (1), (2), (4) correct. **B** wrongly flags Kal Baisakhi.
-</details>
-
-**Q23.** Match **List-I** with **List-II**:
-
-| List-I (Atmospheric Layer) | List-II (Feature) |
-|---|---|
-| A. Troposphere | 1. Ozone absorbs UV radiation |
-| B. Stratosphere | 2. All weather phenomena |
-| C. Mesosphere | 3. Meteors burn up |
-| D. Thermosphere | 4. Ionosphere; very high temperature |
-
-A. 2 1 3 4
-
-B. 1 2 3 4
-
-C. 2 3 1 4
-
-D. 3 2 4 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Troposphere-2, Stratosphere-1 (ozone — UPPCS 2023 Q52), Mesosphere-3, Thermosphere-4. **B** puts ozone in troposphere trap.
-</details>
-
-**Q24.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
-
-**Assertion (A):** Anabatic winds blow upslope during the day.
-
-**Reason (R):** Katabatic winds are cold dense downslope winds at night.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-C. (A) is true, but (R) is false
-
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Both definitions correct but describe **different** diurnal winds — R does not explain A. **A** wrongly links day/night opposites as cause-effect. **C/D** falsify valid wind definitions.
-</details>
-
-**Q25.** Consider the following statements:
-
-1. Chinook is a warm and dry wind.
-2. Foehn wind occurs in the Alps.
-Which of the above statements is/are correct?
-
-A. Both 1 and 2
-
-B. Only 1
-
-C. Only 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — UPPCS 2024 Q33 pattern: both correct world local wind facts (comparison for Indian). **B/C** drop one valid statement.
-</details>
-
-**Q26.** With reference to ENSO and Indian monsoon, which of the following statements is/are correct?
-
-1. El Niño is generally associated with below-normal monsoon rainfall in India.
-2. La Niña tends to strengthen the monsoon.
-3. El Niño always causes drought in every part of India without exception.
-
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-
-B. 2 and 3 only
-
-C. 1 and 3 only
-
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — (1) and (2) correct statistical tendencies. **(3) false:** "always" and "every part" — +IOD or regional variation can offset. **C/D** accept absolute drought claim.
-</details>
-
-**Q27.** Which one of the following is the correct sequence of **IMD seasons** in a calendar year starting from January?
-
-A. Cold weather → Hot weather → SW Monsoon → Retreating monsoon
-
-B. Hot weather → Cold weather → SW Monsoon → Retreating monsoon
-
-C. Cold weather → SW Monsoon → Hot weather → Retreating monsoon
-
-D. Cold weather → Hot weather → Retreating monsoon → SW Monsoon
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Dec–Feb cold; Mar–May hot; Jun–Sep SW; Oct–Nov retreating (sequence through calendar from Jan aligns cold first). **D** puts retreating before SW monsoon.
-</details>
-
-**Q28.** Match **List-I** with **List-II** (Pressure belts):
-
-| List-I (Belt) | List-II (Approx. latitude) |
-|---|---|
-| A. Equatorial Low | 1. 60° N/S |
-| B. Subtropical High | 2. 0° (ITCZ zone) |
-| C. Subpolar Low | 3. 30° N/S |
-| D. Polar High | 4. 90° N/S |
-
-A. 2 3 1 4
-
-B. 3 2 1 4
-
-C. 2 1 3 4
-
-D. 1 2 3 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Equatorial-2, Subtropical High-3, Subpolar-1, Polar-4. **B** swaps equatorial and subtropical highs.
-</details>
-
-**Q29.** With reference to temperature inversion in India, which of the following statements is/are correct?
-
-1. Radiation inversion commonly occurs on clear winter nights in the Indo-Gangetic plain.
-2. Inversion layers promote vertical mixing of pollutants.
-3. Valley floors may be colder than surrounding slopes during inversion conditions.
-
-Select the correct answer from the code given below:
-
-A. 1 and 3 only
-
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — (1) and (3) correct. **(2) false:** inversion **suppresses** vertical mixing → fog/smog trap. **C/D** accept false mixing claim.
-</details>
-
-**Q30.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
-
-**Assertion (A):** The ozone layer, which absorbs ultraviolet radiation, exists in the stratosphere.
-
-**Reason (R):** All weather phenomena occur in the stratosphere.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-B. (A) is true, but (R) is false
-
-C. (A) is false, but (R) is true
-
-D. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — UPPCS 2023 Q52: ozone in stratosphere ✓. Weather in **troposphere**, not stratosphere — Reason false. **A/D** accept false weather layer.
-</details>
-
-**Q31.** Which of the following pairs is/are **NOT** correctly matched?
-(Cyclone name) — (Country)
-
-1. Taifu — Japan
-2. Willy-willies — Australia
-3. Baguio — Philippines
-4. Hurricanes — United Kingdom
-
-Select the correct answer from the code given below:
-
-A. Only 4
-
-B. Only 1 and 4
-
-C. Only 2 and 3
-
-D. Only 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Hurricanes = **USA/Atlantic**, not UK. (1), (2), (3) acceptable pairings from 2019 Q78 lists. **B/C/D** wrongly flag Taifu or Willy-willies.
-</details>
-
-**Q32.** With reference to the northeast monsoon, which of the following statements is/are correct?
-
-1. It brings rainfall to Tamil Nadu and south Andhra Pradesh.
-2. It occurs roughly between October and December.
-3. It affects the entire Indian subcontinent uniformly with heavy rain.
-
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-
-B. 2 and 3 only
-
-C. 1 and 3 only
-
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — NE monsoon localised to SE coast (1) in Oct–Dec (2). **(3) false:** rest of India largely dry. **C/D** accept pan-India NE rain trap.
-</details>
-
-**Q33.** What causes winds to deflect towards the left in the Southern Hemisphere?
-
-A. Temperature
-
-B. Coriolis Force
-
-C. Magnetic Field
-
-D. Pressure
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — UPPCS 2023 Q68: Coriolis deflection left in SH, right in NH. **A/D** describe driving forces, not deflection cause.
-</details>
-
-**Q34.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
-
-**Assertion (A):** The tropical easterly jet stream establishes over peninsular India during the summer monsoon season.
-
-**Reason (R):** The subtropical westerly jet shifts north of the Himalaya in summer.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-C. (A) is true, but (R) is false
-
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — TEJ forms when STWJ moves north — seasonal jet transition drives monsoon upper-air pattern. **B** denies linked seasonal shift. **C/D** falsify established jet behaviour.
-</details>
-
-**Q35.** With reference to Western Disturbances, which of the following statements is/are correct?
-
-1. They originate in the Mediterranean–Caspian region.
-2. They are most active during the winter season.
-3. They are identical to retreating southwest monsoon currents.
-
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-
-B. 2 and 3 only
-
-C. 1 and 3 only
-
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — (1) and (2) correct. **(3) false:** WD = extra-tropical westerly winter system; retreating monsoon = tropical withdrawal phase. **C/D** conflate WD with monsoon.
-</details>
-
-**Q36.** Match **List-I** with **List-II** (Indian climate regions):
-
-| List-I (Region) | List-II (Dominant climate type) |
-|---|---|
-| A. Thar desert | 1. Cwg |
-| B. Cherrapunji | 2. BWh |
-| C. Lucknow | 3. Am |
-| D. Interior Karnataka | 4. Aw |
-
-A. 2 3 1 4
-
-B. 3 2 4 1
-
-C. 2 3 4 1
-
-D. 1 2 3 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Thar-BWh(2), Cherrapunji-Am(3), Lucknow-Cwg(1), Interior Karnataka-Aw(4). **C** swaps plain and savanna.
-</details>
-
-**Q37.** Which of the following pairs is/are **NOT** correctly matched?
-(Monsoon feature) — (Detail)
-
-1. Burst of monsoon — Sudden onset of heavy rain after dry May
-2. Monsoon trough — High-pressure ridge along the Himalayas in summer
-3. Break monsoon — Dry spell in central India when trough shifts north
-4. Onset at Kerala — Around 1 June
-
-Select the correct answer from the code given below:
-
-A. Only 2
-
-B. Only 1 and 2
-
-C. Only 3 and 4
-
-D. Only 2 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Monsoon trough = **low-pressure** axis, not high-pressure ridge. (1), (3), (4) correct. **B/D** wrongly flag burst or onset date.
-</details>
-
-**Q38.** With reference to heat budget and albedo, which of the following statements is/are correct?
-
-1. The troposphere is primarily heated by long-wave terrestrial radiation from the Earth's surface.
-2. Fresh snow has higher albedo than sand desert.
-3. Paddy fields reflect more sunlight than fresh snow.
-
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-
-B. 2 and 3 only
-
-C. 1 and 3 only
-
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — (1) and (2) correct (2022 Q138 + 2021 Q66). **(3) false:** snow highest albedo among common surfaces. **C/D** accept paddy > snow trap.
-</details>
-
-**Q39.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
-
-**Assertion (A):** Positive Indian Ocean Dipole (+IOD) is generally favourable for the Indian monsoon.
-
-**Reason (R):** +IOD warms the western Indian Ocean relative to the eastern Indian Ocean.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-C. (A) is true, but (R) is false
-
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — +IOD SST pattern drives convection over western Indian Ocean → better monsoon. **B** denies defining mechanism. **D** reverses IOD impact.
-</details>
-
-**Q40.** Which one of the following is the correct sequence of **atmospheric layers** from the Earth's surface upward?
-
-A. Troposphere → Stratosphere → Mesosphere → Thermosphere
-
-B. Troposphere → Mesosphere → Stratosphere → Thermosphere
-
-C. Stratosphere → Troposphere → Mesosphere → Thermosphere
-
-D. Troposphere → Stratosphere → Thermosphere → Mesosphere
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Standard atmospheric profile. **B/D** swap mesosphere/stratosphere order.
-</details>
-
-**Q41.** With reference to pre-monsoon phenomena in India, which of the following statements is/are correct?
-
-1. Nor'westers occur mainly in eastern and northeastern India.
-2. Loo blows during the hot weather season over the northern plains.
-3. Western Disturbances are the primary cause of Nor'westers.
-
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-
-B. 2 and 3 only
-
-C. 1 and 3 only
-
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — (1) and (2) correct. **(3) false:** Nor'westers = pre-monsoon convection; WD = **winter** westerly system. **C/D** conflate WD with Kal Baisakhi.
-</details>
-
-**Q42.** Match **List-I** with **List-II**:
-
-| List-I (Term) | List-II (Author/System) |
-|---|---|
-| A. Köppen classification | 1. Moisture balance; vegetation index of climate |
-| B. Thornthwaite | 2. Temperature + precipitation letter codes |
-| C. "Vegetation is true index of climate" | 3. Thornthwaite |
-| D. Am / Aw / BWh codes | 4. Köppen |
-
-A. 2 1 3 4
-
-B. 1 2 4 3
-
-C. 2 1 4 3
-
-D. 4 3 2 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Köppen-2, Thornthwaite-1, Quote-3 (Thornthwaite), Codes-4 (Köppen). **B** reverses authors.
-</details>
-
-**Q43.** With reference to cyclone basins affecting India, which of the following statements is/are correct?
-
-1. The Bay of Bengal accounts for a higher frequency of tropical cyclones than the Arabian Sea.
-2. Storm surge risk is greater in the Bay of Bengal due to shallow coastal shelf.
-3. Cyclones never affect the Gujarat coast.
-
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-
-B. 2 and 3 only
-
-C. 1 and 3 only
-
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — (1) and (2) correct. **(3) false:** Arabian Sea cyclones hit Gujarat/Maharashtra (e.g. 1998, 2021 Tauktae context). **C/D** accept "never Gujarat" trap.
-</details>
-
-**Q44.** Which one of the following regions of India receives rainfall from the **retreating monsoon** (NE monsoon)?
-
-A. Punjab and Haryana
-
-B. Tamil Nadu coast
-
-C. Konkan coast
-
-D. Cherrapunji
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — NE/retreating monsoon rain on Coromandel/TN coast. **A** gets WD winter rain. **C/D** get SW monsoon rain.
-</details>
-
-**Q45.** With reference to India's climate classification and factors, which of the following statements is/are correct?
-
-1. Thornthwaite related vegetation to moisture balance as an index of climate.
-2. India's location in the tropical monsoon region enables diversified cropping patterns.
-3. Köppen's BWh type represents the hot desert climate of the Thar.
-
-Select the correct answer from the code given below:
-
-A. 1 and 3 only
-
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — All three correct (2024 Q73 statement 2 pattern on monsoon + cropping). **A/B/C** each drop one valid fact.
-</details>
-
-**Q46.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
-
-**Assertion (A):** Positive Indian Ocean Dipole (+IOD) is generally associated with a good monsoon in India.
-
-**Reason (R):** During +IOD, the western Indian Ocean becomes warmer relative to the eastern Indian Ocean.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-C. (A) is true, but (R) is false
-
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — +IOD SST gradient drives convection over western Indian Ocean → better monsoon (2019 offset example). **B** denies mechanism. **D** reverses IOD impact.
-</details>
-
-**Q47.** Which of the following pairs is/are **NOT** correctly matched?
-(Köppen code) — (Indian region)
-
-1. BWh — Thar desert
-2. Cwg — Indo-Gangetic plain
-3. Am — Interior Karnataka plateau
-4. Aw — Rain-shadow Deccan interior
-
-Select the correct answer from the code given below:
-
-A. Only 3
-
-B. Only 1 and 3
-
-C. Only 2 and 4
-
-D. Only 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Only (3) wrong: Interior Karnataka = **Aw** (savanna), not Am. Am = wet monsoon coast/NE (Kerala, Cherrapunji). **B/C/D** wrongly flag BWh or Cwg pairings.
-</details>
-
-**Q48.** With reference to Western Disturbances and the subtropical westerly jet, which of the following statements is/are correct?
-
-1. Western Disturbances are embedded in the subtropical westerly jet stream.
-2. The subtropical westerly jet lies south of the Himalaya during winter.
-3. Western Disturbances bring heavy SW monsoon rain to Kerala in June.
-
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-
-B. 2 and 3 only
-
-C. 1 and 3 only
-
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — (1) and (2) correct. **(3) false:** WD = **winter** NW rain; SW monsoon brings Kerala rain in June. **C/D** accept WD-monsoon conflation trap.
-</details>
-
-**Q49.** Match **List-I** with **List-II**:
-
-| List-I (Rainfall phenomenon) | List-II (Region/Season) |
-|---|---|
-| A. Mango showers | 1. TN coast, Oct–Dec |
-| B. NE monsoon rain | 2. Kerala, Apr–May |
-| C. WD rainfall | 3. Punjab, Dec–Feb |
-| D. SW monsoon orographic rain | 4. Konkan, Jun–Sep |
-
-A. 2 1 3 4
-
-B. 1 2 4 3
-
-C. 2 3 1 4
-
-D. 4 3 2 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Mango-2, NE monsoon-1, WD-3, Konkan SW-4. **B** swaps mango and NE monsoon. **D** full reversal.
-</details>
-
-**Q50.** The normal date of onset of the southwest monsoon over Kerala is approximately:
-
-A. 15 May
-
-B. 1 June
-
-C. 15 July
-
-D. 1 September
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — IMD standard onset ~1 June at Kerala; advances north ~10 days per degree latitude. **A** too early. **C** is closer to Rajasthan onset, not Kerala.
-</details>
-
-**Q51.** Match **List-I** with **List-II** and select the correct answer using the code given below:
-
-| List-I (Local wind) | List-II (Region) |
-|---|---|
-| A. Sirocco | 1. Alps |
-| B. Bora | 2. Sahara to Mediterranean |
-| C. Foehn | 3. Adriatic coast |
-| D. Harmattan | 4. West Africa |
-
-A. 2 3 1 4
-
-B. 3 2 1 4
-
-C. 2 3 4 1
-
-D. 1 3 2 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Sirocco-2, Bora-3, Foehn-1, Harmattan-4. **B** swaps Sirocco and Bora. **C** puts Harmattan on the Alps.
-</details>
-
-**Q52.** Which of the following pairs is/are **NOT** correctly matched?
-
-1. Khamsin — Egypt
-2. Zonda — Argentina (Andes)
-3. Harmattan — East African coast
-4. Samun — Kurdistan
-
-Select the correct answer from the code given below:
-
-A. Only 3
-
-B. Only 1 and 3
-
-C. Only 2 and 4
-
-D. Only 3 and 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Only (3) is wrong. Harmattan is a **West** African Saharan dust wind, not East African. (1), (2), (4) are the correct matches.
-</details>
-
-**Q53.** With reference to named winds, which of the following statements is/are correct?
-
-1. Willy-willy is a hot local wind of the Australian interior, like the Brickfielder.
-2. Chinook is a warm and dry wind of the Rockies.
-3. Mistral is a cold wind of southern France.
-
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-
-B. 2 and 3 only
-
-C. 1 and 3 only
-
-D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — (2) and (3) correct. **(1) fails:** Willy-willy is an Australian **tropical cyclone**, not a local wind. Brickfielder is the hot Australian local wind.
-</details>
-
-**Q54.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
-
-**Assertion (A):** Foehn-type winds are warm and dry on the leeward side of mountains.
-
-**Reason (R):** The air loses moisture as rain on the windward slope and warms by compression as it descends.
-
-Select the correct answer from the code given below:
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-C. (A) is true, but (R) is false
-
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Same physics for Foehn, Chinook, Zonda, Santa Ana, and Berg.
-</details>
-
-**Q55.** Köppen’s **As** type in India is best matched with which region?
-
-A. Thar Desert
-
-B. Tamil Nadu / Coromandel coast
-
-C. Kerala coast
-
-D. Interior Deccan plateau
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — **As** = monsoon with a dry **summer**; Tamil Nadu’s main rain is the north-east monsoon. Thar = **BWh**. Kerala = **Am**. Interior Deccan = **Aw**.
-</details>
-
-**Q56.** The term ‘Monsoon’ is originated from:
-
-A. Arabic language
-
-B. Spanish
-
-C. Hindi
-
-D. English
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Arabic **mausim** = season. **B/C/D** are language traps from state PCS keys (MPPCS 2013 pattern).
+**Logic:** Cyclones do not form on the equator — Coriolis is near zero.
 
 </details>
 
-**Q57.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
+**Q11.** Which of the following pairs is/are NOT correctly matched?
 
-**Assertion (A):** India is a monsoonal country.
-
-**Reason (R):** The high Himalayas impart it climatic distinctiveness.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-C. (A) is true, but (R) is false
-
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**A/R logic:** (A) tests whether India is monsoonal. (R) tests Himalaya as climatic divide. Does Himalaya **explain** monsoonal character?
-
-**Ans: A** — UPPCS 1996/1998 pattern: India is monsoonal; Himalaya blocks cold northern winds and forces monsoon moisture to shed inside the subcontinent — R explains A. **B** denies the link.
-
-</details>
-
-**Q58.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
-
-**Assertion (A):** India has a tropical monsoon type climate.
-
-**Reason (R):** India is located exactly between the tropical latitudes.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-B. (A) is true, but (R) is false
-
-C. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**A/R logic:** (A) tropical monsoon climate. (R) claims India lies **exactly** between the Tropics — check latitude span to 37°6′ N.
-
-**Ans: B** — Climate is tropical monsoonal, but India is **not** wholly between 23°30′ N–S (extends to ~37°6′ N). **A/C** wrongly accept R.
-
-</details>
-
-**Q59.** In which of the following states does the southwest monsoon arrive first?
-
-A. Assam
-
-B. West Bengal
-
-C. Maharashtra
-
-D. Kerala
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Normal onset ~**1 June** at Kerala tip; then advances north. **A/B** get Bay-branch rain early in season but not the first onset fact.
-
-</details>
-
-**Q60.** The general direction of flow of the summer monsoon in India is:
-
-A. from South to North
-
-B. from South-West to South-East
-
-C. from South-East to South-West
-
-D. from South-West to North-East
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — SW monsoon = **south-west → north-east**. Winter NE trades reverse. **C** is the winter direction trap.
-
-</details>
-
-**Q61.** Consider the following statements:
-
-1. The duration of the monsoon decreases from southern India to northern India.
-2. The amount of annual rainfall in the northern plains of India decreases from east to west.
-
-Which of the statements given above is/are correct?
+1. Willy-willy — Australian cyclone name
+2. Brickfielder — Australian hot local wind
+3. Willy-willy — Australian hot local wind
 
 A. 1 only
-
-B. 2 only
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
+B. 3 only
+C. 1 and 2 only
+D. 2 and 3 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — UPSC 2012: longer wet season in the south; Ganga plain loses moisture westward. **A/B** drop one half of the pair.
+**Ans: B.** Pair 3 is wrong.
+
+**Logic:** Willy-willy ≠ Brickfielder; do not mix cyclone name with hot wind.
 
 </details>
 
-**Q62.** With reference to the Indian Ocean Dipole (IOD), which of the following statements is/are correct?
+**Q12.** Match List-I with List-II:
 
-1. IOD is characterised by a difference in sea-surface temperature between the tropical western Indian Ocean and the tropical eastern Pacific Ocean.
-2. An IOD phenomenon can influence an El Niño’s impact on the monsoon.
-
-A. 1 only
-
-B. 2 only
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Stmt 1 misplaces the eastern pole into the **Pacific**. Stmt 2 tests whether IOD can offset/modify El Niño’s monsoon hit.
-
-**Ans: B** — UPSC 2017: IOD = west vs **east Indian Ocean**, not eastern Pacific. Stmt 2 true (+IOD can rescue a weak El Niño year). **C** keeps the Pacific trap.
-
-</details>
-
-**Q63.** The January isotherm taken as a basis for dividing India into tropical and subtropical zones is:
-
-A. 21 °C
-
-B. 18 °C
-
-C. 12 °C
-
-D. 15 °C
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — The classic isotherm used here is the **January 18 °C** line. **A/C/D** are distractor isotherms.
-
-</details>
-
-**Q64.** In which part of India is the daily range of temperature highest?
-
-A. Eastern coastal areas
-
-B. Interior areas of Chhattisgarh plain
-
-C. Andaman Islands
-
-D. Desert areas of Rajasthan
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Continental desert → hot day, cold night. Coasts have the **smallest** diurnal range.
-
-</details>
-
-**Q65.** Which one of the following is the driest place among the options?
-
-A. Mumbai
-
-B. Delhi
-
-C. Leh
-
-D. Bengaluru
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — **Leh** (Ladakh rain shadow) is driest among usual city options; also driest vs Jaisalmer/Bikaner in many keys.
-
-</details>
-
-**Q66.** Match **List-I** with **List-II** and select the correct answer:
-
-| List-I (Climatic condition) | List-II (Reason) |
+| List-I | List-II |
 |---|---|
-| A. Chennai is warmer than Kolkata | 1. North-east monsoon |
-| B. Snowfall in Himalaya | 2. Altitude |
-| C. Rainfall decreases from West Bengal to Punjab | 3. Western disturbances |
-| D. Sutlej–Ganga plain gets some rain in winter | 4. Distance from sea |
-| | 5. Latitude |
+| A. Anabatic | 1. Night downslope drainage |
+| B. Katabatic | 2. Day upslope climb |
+| C. Sea breeze | 3. Day wind toward land |
+| D. Land breeze | 4. Night wind toward sea |
 
-A. 1 2 4 5
+*Row order is not the answer code.*
 
-B. 4 5 1 3
+Code:
 
-C. 5 2 4 3
-
-D. 5 1 3 4
+A. A-2, B-1, C-3, D-4
+B. A-1, B-2, C-3, D-4
+C. A-2, B-3, C-1, D-4
+D. A-3, B-1, C-2, D-4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — UPSC 1997: Latitude; Altitude; Distance from sea; Western disturbances. Row order is **not** the answer code. **D** swaps snowfall and winter rain reasons.
+**Ans: A.** Anabatic day up; katabatic night down; sea day landward; land night seaward.
+
+**Logic:** Do not confuse foehn/chinook (warm dry lee) with cold katabatic drainage.
 
 </details>
 
-**Q67.** Consider the following statements about jet streams:
+**Q13.** With reference to IMD seasons, which of the following statements is/are correct?
 
-1. Jet streams blow across the Asian continent at latitudes north of the Himalaya, parallel to the Tibetan highlands.
-2. The Tibetan highland divides the jet stream into north and south branches.
-3. The northern branch of the jet stream plays an important role in winter weather in India.
-
-Which of the statements given above is/are correct?
+1. Cold Weather is December–February with Western Disturbances in the north-west.
+2. Retreating Monsoon is October–November with October heat and Bay/Andaman cyclones.
+3. Hot Weather is June–September.
 
 A. 1 and 2 only
-
-B. 1 and 3 only
-
-C. 1, 2 and 3
-
-D. None of the above
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — CGPCS 2022 pattern: Tibet **splits** the jet; India’s winter WD ride the **southern** branch. Stmt 3 is false. **C** accepts the northern-branch trap.
+**Ans: A.** Statements 1 and 2 are correct.
+
+**Logic:** Hot Weather is March–May; SW monsoon is June–September.
 
 </details>
 
-**Q68.** Which of the following regions is **not** affected much by the Arabian Sea branch of the monsoon?
+**Q14.** Which one of the following is correct about rainfall patterns on the northern plains?
 
-A. The Western Ghats
-
-B. Deccan Plateau
-
-C. Madhya Pradesh
-
-D. Chhattisgarh Basin
+A. Rainfall generally increases east to west
+B. Rainfall generally declines east to west
+C. Rainy season lengthens from south to north
+D. Rajasthan is wet because Aravalli lies across the Arabian Sea branch
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Chhattisgarh basin is mainly on the **Bay of Bengal** monsoon side; Arabian Sea branch soaks Ghats / west-central tracts more. **A** is the classic Arabian Sea orographic belt.
+**Ans: B.** On the northern plains rainfall generally declines east to west.
+
+**Logic:** Rainy season is shorter south→north; Aravalli runs parallel to the Arabian Sea branch.
 
 </details>
 
-**Q69.** According to the India Meteorological Department, a rainy day is a day when rainfall received at a point is:
+**Q15.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. 0.5 mm to 1 mm in 24 hours
+Assertion (A): Thornthwaite said vegetation is the true index of climate.
 
-B. 1.1 mm to 1.5 mm in 24 hours
+Reason (R): Köppen’s system is based only on vegetation maps without temperature–precipitation letter codes.
 
-C. 1.6 mm to 2 mm in 24 hours
-
-D. 2.5 mm or more in 24 hours
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — IMD **rainy day** = **≥ 2.5 mm** in 24 hours. **A–C** understate the threshold.
-
-</details>
-
-**Q70.** Koppen has used which of the following codes for the climate of the Great Plains of India?
-
-A. Amw
-
-B. As
-
-C. Cwg
-
-D. Aw
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — **Cwg** = monsoon with dry winter on the Indo-Gangetic / Great Plains (also North Bihar class keys). **B** is Coromandel; **D** is Deccan savanna.
-
-</details>
-
-**Q71.** Rajasthan receives very little rain mainly because:
-
-A. the monsoon fails to reach this area
-
-B. it is too hot
-
-C. there is no water available and thus the winds remain dry
-
-D. the winds do not come across barriers that force the necessary uplift to cool the air
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Aravalli lies roughly **parallel** to SW monsoon flow → little orographic lift over western Rajasthan. **A** is too absolute (monsoon does reach, but weakly).
-
-</details>
-
-**Q72.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
-
-**Assertion (A):** During the winter season, most parts of India are dry.
-
-**Reason (R):** Most parts of the country are under the influence of the north-east trade winds during the winter season.
-
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
-
-D. (A) is false, but (R) is true
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** (A) winter dryness over most of India. (R) NE trade / land winds. Check whether R explains A (yes for most of India; Coromandel is the exception after Bay pickup).
+**Ans: C.** (A) is true; (R) is false.
 
-**Ans: A** — NE trades move land → sea and stay dry until they cross the Bay (TN exception). UP RO/ARO 2023 pattern keys both true with R explaining A.
+**A/R logic:** Thornthwaite owns the vegetation-index line; Köppen uses T+P letter codes.
 
 </details>
 
----
+**Q16.** With reference to monsoon branches, which of the following statements is/are correct?
+
+1. Arabian Sea branch soaks Western Ghats windward slopes and leaves leeward Deccan drier.
+2. Bay of Bengal branch waters the north-east and the Ganga plain.
+3. Tamil Nadu’s main rain comes with the south-west monsoon Bay branch.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** TN SE coast is rain-shadowed in SW monsoon; NE monsoon is its main rain.
+
+</details>
+
+**Q17.** Arrange the pressure/circulation belts from equator toward pole in the classic three-cell model:
+
+1. Ferrel cell
+2. Hadley cell
+3. Polar cell
+
+A. 2–1–3
+B. 1–2–3
+C. 2–3–1
+D. 3–1–2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Hadley (0–30°) → Ferrel (30–60°) → Polar (60–90°).
+
+**Logic:** Doldrums = ITCZ calm; horse latitudes = dry subtropical highs near 30°.
+
+</details>
+
+**Q18.** Which of the following statements about Uttar Pradesh climate tags is/are correct?
+
+1. May–June Loo heat waves hit the plains.
+2. Winter rain/fog track Western Disturbances; western UP is wetter than eastern UP in that regime.
+3. North-east monsoon is the main all-UP winter rainfall system.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Statements 1 and 2 are correct.
+
+**Logic:** NE monsoon is mainly SE coast, not all-UP winter rain.
+
+</details>
+
+**Q19.** Match List-I with List-II (local cyclone names):
+
+| List-I | List-II |
+|---|---|
+| A. Hurricane | 1. North Indian Ocean generic |
+| B. Typhoon | 2. USA / Atlantic |
+| C. Willy-willies | 3. NW Pacific / Japan |
+| D. Cyclone | 4. Australia |
+
+*Row order is not the answer code.*
+
+Code:
+
+A. A-2, B-3, C-4, D-1
+B. A-3, B-2, C-4, D-1
+C. A-2, B-4, C-3, D-1
+D. A-1, B-3, C-2, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Hurricane=Atlantic; Typhoon=NW Pacific; Willy-willies=Australia; Cyclone=NIO.
+
+**Logic:** Baguio is Philippines; do not mix with Brickfielder.
+
+</details>
+
+**Q20.** With reference to El Niño ocean effects, which of the following statements is/are correct?
+
+1. El Niño warms the eastern Pacific off Peru.
+2. Warm surface water can suppress upwelling and reduce plankton.
+3. La Niña cools that ocean and usually strengthens the Indian monsoon.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are correct.
+
+**Logic:** Keep El Niño weak-monsoon tendency distinct from guaranteed all-India drought.
+
+</details>
+
+**Q21.** Which of the following pairs is/are NOT correctly matched?
+
+1. Doldrums — rainy ITCZ calm belt
+2. Horse latitudes — dry subtropical high near 30°
+3. Horse latitudes — rainy ITCZ calm belt
+
+A. 1 only
+B. 3 only
+C. 1 and 2 only
+D. 2 and 3 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Pair 3 is wrong.
+
+**Logic:** Do not swap doldrums with horse latitudes.
+
+</details>
+
+**Q22.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): The Tropical Easterly Jet supports the south-west monsoon.
+
+Reason (R): The Somali Jet is a cross-equatorial feed into the south-west monsoon.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; R is another monsoon feed fact, not the explanation of TEJ’s role in A.
+
+**A/R logic:** TEJ and Somali Jet are related monsoon features but R does not define TEJ.
+
+</details>
+
+**Q23.** With reference to rain types and isohyets, which of the following statements is/are correct?
+
+1. Orographic, convectional and cyclonic are the three rain types to fact.
+2. An isohyet is a line of equal rainfall.
+3. A rainy day is often counted from about 2.5 mm of rain.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three statements are correct.
+
+**Logic:** Plain application of climate teaching facts.
+
+</details>
+
+**Q24.** Which one of the following is correct about January temperature divide in India?
+
+A. The 18°C isotherm is a usual tropical–subtropical divide
+B. Diurnal range is highest in Kerala
+C. Leh is among the wettest class stations
+D. Ozone peaks in the troposphere only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** January 18°C isotherm is the usual tropical–subtropical divide.
+
+**Logic:** Diurnal range peaks in Rajasthan desert; ozone peaks in stratosphere.
+
+</details>
+
+**Q25.** With reference to retreating monsoon vs Western Disturbance, which of the following statements is/are correct?
+
+1. Retreating monsoon is withdrawal / October heat season.
+2. Western Disturbances are winter extra-tropical NW rain systems.
+3. Western Disturbance rain increases west to east across the plains.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2 are correct.
+
+**Logic:** WD rain decreases west to east.
+
+</details>
+
+**Q26.** Which of the following statements about the troposphere heat budget is/are correct?
+
+1. Troposphere is heated mainly by long-wave radiation from the ground.
+2. Condensation releases latent heat.
+3. Normal lapse rate is about 6.5°C per 1000 m.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are correct.
+
+**Logic:** RH falls as temperature rises — separate humidity trap.
+
+</details>
+
+**Q27.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Rajasthan stays relatively dry partly because the Aravalli runs parallel to the Arabian Sea branch.
+
+Reason (R): Parallel alignment reduces forced ascent compared with a transverse barrier.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R explains A.
+
+**A/R logic:** Orographic geometry is the reason the Arabian Sea branch under-rains Rajasthan.
+
+</details>
+
+**Q28.** With reference to SW monsoon onset mechanism, which of the following statements is/are correct?
+
+1. ITCZ shifts north and a thermal low forms over north-west India.
+2. South-east trades cross the equator near about 40–60° E.
+3. Mascarene High and Somali Jet feed the monsoon branches.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three statements are correct.
+
+**Logic:** Classic monsoon setup from Must-Score.
+
+</details>
+
+**Q29.** Which of the following pairs is correctly matched for local winds?
+
+A. Bora — Rockies warm dry wind
+B. Chinook — Adriatic cold wind
+C. Harmattan — West Africa dust wind
+D. Khamsin — West Africa dust wind
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Harmattan is the West Africa dust wind; Khamsin is Egypt heat.
+
+**Logic:** Bora = Adriatic cold; Chinook = Rockies warm dry.
+
+</details>
+
+**Q30.** Which of the following statements is/are correct?
+
+1. Eye of a cyclone is calm; eyewall is fiercest.
+2. Word monsoon comes from Arabic mausim (season).
+3. Onset of SW monsoon usually begins first in Kerala around 1 June.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are correct.
+
+**Logic:** Basic cyclone structure + monsoon etymology/onset.
+
+</details>
 
 ## Common Traps — Don't Fall For These
 

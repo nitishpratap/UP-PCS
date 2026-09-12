@@ -547,305 +547,591 @@ D. Ecological footprint in tCO₂e; carbon footprint in gha; NbS = sulphate aero
 
 ---
 
-## Practice Zone
+## Practice Zone — UPPCS Format Drill
 
-**Q1.** Carbon footprint unit is:
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-Options: A. gha B. tCO₂e C. ppm only D. dB
+**Q1.** With reference to carbon footprint, which of the following statements is/are correct?
 
-<details><summary>Show answer</summary>
+1. Totals GHGs in tCO₂e.
+2. Scope 1 direct; Scope 2 purchased energy; Scope 3 value chain.
+3. Identical unit to ecological footprint (gha).
 
-**Ans: B**
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q2.** Ecological footprint unit is:
+**Ans: B.** Only 1 and 2.
 
-Options: A. tCO₂e B. Global hectares (gha) C. Kelvin D. NTU
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q3.** Scope 2 emissions mainly cover:
-
-Options: A. Owned factory boilers only B. Purchased electricity/heat C. Only employee commuting D. Only enteric methane
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** tCO₂e ≠ gha.
 
 </details>
 
-**Q4.** India net zero pledge year is:
+**Q2.** Match List-I with List-II:
 
-Options: A. 2030 B. 2050 C. 2070 D. 2100
+| List-I | List-II |
+|--------|--------|
+| A. Grey hydrogen | 1. RE electrolysis |
+| B. Blue hydrogen | 2. Natural gas reform |
+| C. Green hydrogen | 3. Grey + CCS |
 
-<details><summary>Show answer</summary>
+Code:
 
-**Ans: C**
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q5.** Net zero means:
+**Ans: C.** A-2, B-3, C-1.
 
-Options: A. Immediate ban on all fossil use tomorrow only B. Emissions balanced by removals C. Only methane zero D. Only ozone recovery
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q6.** Emissions Gap Report is published by:
-
-Options: A. IPCC only B. UNEP C. WTO D. CITES
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** Grey/blue/green.
 
 </details>
 
-**Q7.** Updated India NDC intensity cut by 2030 vs 2005 is:
+**Q3.** Which of the following pairs is/are correctly matched?
 
-Options: A. 15% B. 45% C. 90% D. 5%
+1. India per capita ~2 tCO₂e — low vs global/USA averages
+2. Absolute emissions still high
+3. Net zero India — 2050 identical to EU only
 
-<details><summary>Show answer</summary>
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
-**Ans: B**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: D.** Only 1 and 2.
 
-**Q8.** Blue economy SDG is:
-
-Options: A. SDG 14 B. SDG 1 only C. SDG 16 only D. SDG 17 only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q9.** MISHTI was announced in:
-
-Options: A. 2019 B. Union Budget 2023–24 C. 1987 Montreal D. 1971 Ramsar
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** India net zero year = 2070.
 
 </details>
 
-**Q10.** Circular economy maps most directly to:
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Options: A. SDG 12 B. SDG 14 only as oceans C. SDG 16 only D. SDG 17 only
+Assertion (A): Net zero balances remaining emissions with removals.
 
-<details><summary>Show answer</summary>
+Reason (R): Net zero is identical to gross zero with no removals allowed.
 
-**Ans: A**
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q11.** Green hydrogen is produced by:
+**Ans: C.** A true, R false.
 
-Options: A. Natural gas reforming without renewables B. Water electrolysis using renewable electricity C. Coal gasification only D. Diesel generators only
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q12.** National Green Hydrogen Mission launch:
-
-Options: A. 2019 B. January 2023 C. 1997 Kyoto D. 2010 only
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**A/R logic:** Net zero ≠ gross zero.
 
 </details>
 
-**Q13.** Mission green H₂ production target by 2030:
+**Q5.** With reference to NDC-style facts, which of the following statements is/are correct?
 
-Options: A. 5 MMT/year B. 5 kg/year C. 500 Gt/year D. Zero forever
+1. ~45% intensity cut teaching.
+2. ~50% non-fossil capacity teaching.
+3. Large forest sink goal neighbourhood.
 
-<details><summary>Show answer</summary>
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: A.** All three.
 
-**Q14.** Grey hydrogen is mainly from:
-
-Options: A. Solar electrolysis B. Natural gas reforming C. Only wind mills without reforming D. Only composting
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q15.** Microplastics are smaller than:
-
-Options: A. 5 cm B. 5 mm C. 5 m D. 50 km
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** NDC cluster.
 
 </details>
 
-**Q16.** Microbeads in cosmetics are:
+**Q6.** Arrange MISHTI year:
 
-Options: A. Primary microplastics B. Only metals C. Only gases D. Only ozone molecules
+A. 2019
+B. Budget 2023 mangrove restoration
+C. 1972
+D. 1987
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** 2023 Budget — not 2019.
 
-</details>
-
-**Q17.** India identified SUP ban wave year:
-
-Options: A. 1992 B. July 2022 C. 1951 D. 1971
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** MISHTI trap.
 
 </details>
 
-**Q18.** Most climate-linked displacement is:
+**Q7.** Which of the following pairs is/are NOT correctly matched?
 
-Options: A. Always cross-border asylum under 1951 B. Internal within countries C. Only space migration D. Only ozone migration
+1. Green economy — low-carbon, resource-efficient, socially inclusive
+2. Circular economy — material loops 3R/9R/EPR; SDG 12 neighbourhood
+3. Green economy = circular economy as identical synonyms
 
-<details><summary>Show answer</summary>
+A. 1 and 2 only
+B. 2 and 3 only
+C. 3 only
+D. 1, 2 and 3
 
-**Ans: B**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: C.** Only pair 3 is not correctly matched.
 
-**Q19.** Climate refugee under 1951 Convention:
-
-Options: A. Formal legal category today B. Not a formal 1951 category C. Only Kyoto Annex list D. Only CITES Appendix I
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q20.** NbS as defined by IUCN mainly:
-
-Options: A. Protect/manage/restore ecosystems for societal challenges B. Only ban all forests C. Only geoengineering aerosols D. Only nuclear warheads
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Circular ⊂ green agenda — not identical.
 
 </details>
 
-**Q21.** LiFE idea venue/year:
+**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Options: A. COP-25 Madrid 2019 B. COP26 Glasgow 2021 C. Rio 1992 only D. Montreal 1987 only
+Assertion (A): Blue economy is sustainable ocean use linked to SDG 14.
 
-<details><summary>Show answer</summary>
+Reason (R): Blue economy is identical to green hydrogen energy mission.
 
-**Ans: B**
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q22.** LiFE Mission launch:
+**Ans: C.** A true, R false.
 
-Options: A. June 2022 B. 2019 only C. 2050 only D. 1972 Stockholm only
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q23.** Nodal ministry for LiFE:
-
-Options: A. MNRE only B. MoEFCC C. MEA only D. Railways only
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**A/R logic:** Oceans ≠ green hydrogen label.
 
 </details>
 
-**Q24.** Carbon footprint vs ecological footprint:
+**Q9.** With reference to microplastics, which of the following statements is/are correct?
 
-Options: A. Same unit always B. tCO₂e vs gha C. Both only in Kelvin D. Both only in NTU
+1. <5 mm — not 5 cm.
+2. Primary made small; secondary fragmented.
+3. SUP ban push 2022 feeds pathway control neighbourhood.
 
-<details><summary>Show answer</summary>
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-**Ans: B**
+<details>
+<summary>Show answer</summary>
 
-</details>
+**Ans: D.** All three.
 
-**Q25.** Green vs circular economy:
-
-Options: A. Identical terms always B. Circular is material-loop focus; green is broader C. Circular bans all renewables D. Green means only oceans
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
-**Q26.** Blue carbon is stored mainly in:
-
-Options: A. Mangroves/seagrass/salt marshes B. Only coal seams as fuel C. Only ozone hole D. Only nuclear rods
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
+**Logic:** Size + SUP.
 
 </details>
 
-**Q27.** UP coastal blue-economy projects:
+**Q10.** Match List-I with List-II:
 
-Options: A. Large native coastline schemes statewide B. UP is landlocked — national ocean schemes only C. Only Antarctica bases in UP D. Only Arctic ports in Lucknow
+| List-I | List-II |
+|--------|--------|
+| A. LiFE idea | 1. June 2022 |
+| B. LiFE launch | 2. COP26 2021 |
+| C. Green H₂ mission | 3. Jan 2023; ~5 MMT by 2030 |
 
-<details><summary>Show answer</summary>
+Code:
 
-**Ans: B**
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q28.** EPR mainly supports:
+**Ans: A.** A-2, B-1, C-3.
 
-Options: A. Circular economy waste loops B. Only ozone treaties C. Only wildlife hunting D. Only desert expansion
-
-<details><summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
-**Q29.** UPPCS 2025 LiFE answer pattern:
-
-Options: A. Both statements true B. Only launch June 2022 true (COP-25 false) C. Only COP-25 true D. Neither ever asked
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
+**Logic:** LiFE / GH2.
 
 </details>
 
-**Q30.** Correct set:
+**Q11.** Arrange NbS vs geoengineering:
 
-Options: A. India net zero 2070; MISHTI 2023; LiFE launch 2022/idea COP26; microplastics <5 mm; EF in gha; Gap Report=UNEP; green H₂ Mission 2023 B. Net zero 2050; MISHTI 2019; LiFE at COP-25; microplastics <5 cm; EF in tCO₂e; Gap=IPCC C. Grey H₂ = green H₂; circular = green identical D. Climate refugee = formal 1951 status for all drought migrants
+A. Identical aerosol injection
+B. NbS = protect/manage/restore ecosystems; not cirrus thinning / sulphate injection
+C. NbS only means BS-VI
+D. NbS only means CITES
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Ecosystem actions ≠ geoengineering.
+
+**Logic:** IUCN NbS frame.
+
+</details>
+
+**Q12.** With reference to climate refugees, which of the following statements is/are correct?
+
+1. Mostly internally displaced.
+2. Not a separate legal category under 1951 Refugee Convention.
+3. Automatically get permanent UNSC seats.
+
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Statement 3 false.
+
+</details>
+
+**Q13.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): LiFE idea pitch is COP26 — not COP25 Madrid.
+
+Reason (R): LiFE launched June 2022 under MoEFCC.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; launch date does not itself prove the COP26 pitch year.
+
+**A/R logic:** Pitch vs launch.
+
+</details>
+
+**Q14.** Which one of the following correctly states ecological footprint?
+
+A. Only AQI Severe
+B. Only tCO₂e identical to carbon footprint
+C. Only Dobson Units
+D. Resource demand in global hectares (gha)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** gha resource demand.
+
+**Logic:** ≠ carbon footprint unit.
+
+</details>
+
+**Q15.** How many of the following are true?
+
+Emissions Gap = UNEP; India NZ 2070; do not call grey hydrogen green
+
+A. All three
+B. Only two
+C. Only one
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** All three.
+
+**Logic:** Trio.
+
+</details>
+
+**Q16.** With reference to green hydrogen mission, which of the following statements is/are correct?
+
+1. January 2023 mission neighbourhood.
+2. Targets about 5 MMT by 2030.
+3. Grey hydrogen is the same as green.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Grey ≠ green.
+
+</details>
+
+**Q17.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. Carbon footprint | 1. gha |
+| B. Ecological footprint | 2. tCO₂e |
+| C. NbS examples | 3. Mangroves, wetlands, urban forests |
+
+Code:
+
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A-2, B-1, C-3.
+
+**Logic:** Units + NbS.
+
+</details>
+
+**Q18.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): LiFE is lifestyle / demand-side behaviour change.
+
+Reason (R): It substitutes for the entire NDC package.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** A true, R false.
+
+**A/R logic:** LiFE ≠ full NDC substitute.
+
+</details>
+
+**Q19.** Which of the following pairs is/are correctly matched?
+
+1. Circular economy — closes loops via 3R/9R and EPR
+2. Sits inside broader green-economy idea
+3. Blue economy — only green hydrogen plants inland
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Blue = oceans/coasts.
+
+</details>
+
+**Q20.** Arrange gross zero vs net zero:
+
+A. Gross zero ≈ eliminate emissions without relying on offsets; net zero allows balancing removals
+B. Identical always
+C. Both only mean 2019 MISHTI
+D. Both only mean argon
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Gross vs net.
+
+**Logic:** Offset reliance difference.
+
+</details>
+
+**Q21.** With reference to Social Cost of Carbon neighbourhood, which of the following statements is/are correct?
+
+1. Distinct from ecological footprint gha teaching.
+2. Carbon footprint uses tCO₂e.
+3. Ecological footprint equals Scope 3 only always.
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** gha ≠ Scope-3 identity.
+
+</details>
+
+**Q22.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Microplastics are not fast biodegradable in standard teaching.
+
+Reason (R): Size fact is smaller than 5 mm.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both true; size does not itself prove persistence.
+
+**A/R logic:** Size vs persistence.
+
+</details>
+
+**Q23.** How many of the following scheme-year facts are correct?
+
+LiFE idea 2021; LiFE launch 2022; MISHTI 2023
+
+A. Only one
+B. Only two
+C. All three
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** All three.
+
+**Logic:** Year trap trio.
+
+</details>
+
+**Q24.** Which one of the following correctly states NbS examples?
+
+A. Only BS-VI sulphur caps
+B. Only sulphate aerosol injection
+C. Only cirrus thinning
+D. Mangroves, wetlands, urban forests — ecosystem actions
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Ecosystem NbS.
+
+**Logic:** Not geoengineering.
+
+</details>
+
+**Q25.** With reference to India’s absolute vs per capita, which of the following statements is/are correct?
+
+1. Per capita low (~2 tCO₂e teaching).
+2. Absolute emissions still among the highest.
+3. Per capita low means absolute emissions are zero.
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Low per capita ≠ zero absolute.
+
+</details>
+
+**Q26.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|--------|
+| A. SUP ban push | 1. SDG 14 |
+| B. Blue economy | 2. 2022 |
+| C. Circular economy | 3. SDG 12 neighbourhood |
+
+Code:
+
+A. A-1, B-2, C-3
+B. A-2, B-1, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** A-2, B-1, C-3.
+
+**Logic:** SUP/blue/circular.
+
+</details>
+
+**Q27.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+Assertion (A): Do not call grey hydrogen green.
+
+Reason (R): Green hydrogen uses renewable-powered electrolysis.
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+B. (A) is false, but (R) is true
+C. (A) is true, but (R) is false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R defines why grey fails the green test.
+
+**A/R logic:** Colour codes.
+
+</details>
+
+**Q28.** Arrange India net-zero year:
+
+A. 2015
+B. 1992
+C. 2070
+D. 1972
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** 2070.
+
+**Logic:** NZ year.
+
+</details>
+
+**Q29.** With reference to Emissions Gap Report, which of the following statements is/are correct?
+
+1. UNEP product.
+2. Cross-subject economy–environment fact neighbourhood.
+3. Published by IUCN Red List office.
+
+A. 1, 2 and 3
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Not IUCN.
+
+</details>
+
+**Q30.** Which one of the following correctly separates carbon footprint from ecological footprint?
+
+A. tCO₂e GHG total vs gha resource demand
+B. Both identical always
+C. Both only Dobson Units
+D. Both only Ringelmann shades
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Unit and meaning split.
+
+**Logic:** Core confused pair.
 
 </details>
 

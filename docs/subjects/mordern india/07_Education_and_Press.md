@@ -1982,254 +1982,373 @@ D. Samvad Kaumudi — Raja Ram Mohan Roy
 
 ## Practice Zone — UPPCS Format Drill
 
-> **48 questions.Q1.** Arrange: A. Hunter Commission B. Sadler Commission C. Wood's Despatch D. Sargent Plan
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
-A. A B D C
 
-B. C B A D
+**Q1.** With reference to the Charter Act of 1813 and education, which of the following statements is/are correct?
 
-C. A B C D
+1. It set aside ₹1 lakh a year for education.
+2. It also allowed missionary entry.
+3. It immediately founded the universities of Calcutta, Bombay and Madras.
 
-D. C A B D
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
+
+B. 1 and 2 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — 1854 → 1882 → 1917 → 1944.
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Universities follow Wood (1854) and open in 1857 — not 1813.
 
 </details>
 
 ---
 
-**Q2.** Who was the founder of the Asiatic Society of Bengal?
+**Q2.** With reference to Orientalists and Anglicists, which of the following statements is/are correct?
 
-A. Jonathan Duncan
+1. Orientalists wanted Sanskrit, Arabic and Persian learning.
+2. Anglicists wanted English and Western science.
+3. Macaulay’s Minute (1835) settled the controversy in favour of pure Orientalist funding only.
 
-B. Sir William Jones
+Select the correct answer from the code given below:
 
-C. Warren Hastings
 
-D. William Bentinck
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1, 2 and 3
+
+D. 1 and 2 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: D.** Only 1 and 2.
+
+**Logic:** Macaulay settled English for higher education — Anglicist win.
 
 </details>
 
 ---
 
-**Q3.** Assertion (A): The Asiatic Society of Bengal was established in the period of Warren Hastings and he declined the presidentship in favour of Sir William Jones.
+**Q3.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Reason (R): Warren Hastings was himself a great scholar and an ardent orientalist.
 
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+**Assertion (A):** Macaulay’s Minute and Wood’s Despatch are the same document under two titles.
 
-<details>
-<summary>Show answer</summary>
+**Reason (R):** Wood’s Despatch (1854) under Dalhousie was the full ladder from primary school to university with grants-in-aid.
 
-**Ans: B**
+Select the correct answer from the code given below:
 
-</details>
-
----
-
-**Q4.** Which one of the following statements is **not** correct about William A.J. Archbold?
-
-Options:
-A. Principal of Government College, Dacca
-B. Principal of Lahore College, Lahore
-C. Principal of MAO College, Aligarh
-D. Principal of Muir Central College, Allahabad
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q5.** Match List-I with List-II.
-
-**List-I** A. Swadesh B. Bharat Bandhu C. Satyawadi D. Shakti
-**List-II** 1. Agra 2. Almora 3. Hathras 4. Gorakhpur
-
-A. 3 2 1 4
-
-B. 4 3 1 2
-
-C. 2 3 4 1
-
-D. 1 2 3 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q6.** With reference to Macaulay's Minute, which of the following statements is/are correct?
-
-1. It was written in 1835 and favoured English for higher education.
-2. It is the same document as Wood's Despatch of 1854.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q7.** Which of the following pairs are NOT correctly matched?
-
-1. Hunter Commission — 1882
-2. Indian Universities Act — 1904
-3. Wardha Scheme — 1944
-
-A. Only 3
-
-B. Only 1 and 3
-
-C. Only 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Wardha = **1937**; 1944 = Sargent.
-
-</details>
-
----
-
-**Q8.** Assertion (A): Wood's Despatch is often called the Magna Carta of English education in India.
-
-Reason (R): It laid down a graded system from primary school to university.
-
-Options:
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
 B. (A) is false, but (R) is true
+
 C. (A) is true, but (R) is false
+
 D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: B.** (A) is false; (R) is true.
+
+**A/R logic:** 1835 policy decision ≠ 1854 full blueprint.
 
 </details>
 
 ---
 
-**Q9.** Consider the following statements:
+**Q4.** Match List-I with List-II and select the correct answer from the code given below:
 
-1. The universities of Calcutta, Bombay and Madras were founded in 1857.
-2. Allahabad University was founded in 1857.
+| List-I (Body) | List-II (Focus) |
+|---------------|-----------------|
+| A. Hunter Commission 1882 | 1. Calcutta University / higher education |
+| B. Sadler Commission 1917–19 | 2. Primary education under Ripon |
+| C. Hartog Committee 1929 | 3. Post-war official blueprint |
+| D. Sargent Plan 1944 | 4. Primary wastage; consolidate |
 
-Which of the statements given above is/are correct?
+*Row order is not the answer code.*
 
-A. Only 1
 
-B. Only 2
+A. A-2, B-1, C-4, D-3
 
-C. Both 1 and 2
+B. A-1, B-2, C-4, D-3
 
-D. Neither 1 nor 2
+C. A-2, B-1, C-3, D-4
+
+D. A-2, B-4, C-1, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Allahabad University = **1887**.
+**Ans: A.** Hunter–primary; Sadler–university; Hartog–wastage; Sargent–post-war plan.
+
+**Logic:** Commission ladder matching.
 
 </details>
 
 ---
 
-**Q10.** The first newspaper in India was
+**Q5.** Which of the following pairs is NOT correctly matched?
 
-A. Kesari
 
-B. Bengal Gazette
+A. Asiatic Society of Bengal 1784 — founded by Sir William Jones
 
-C. Young India
+B. Warren Hastings — encouraged the Society and declined the presidency
 
-D. The Hindu
+C. Serampore College 1818 — Carey, Marshman and Ward
+
+D. Fort William College 1800 — Danish missionary college of Carey
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Hicky, **1780**.
+**Ans: D.** Fort William = Wellesley’s Company civil-servant college; Serampore = missionary.
+
+**Logic:** College twin trap.
 
 </details>
 
 ---
 
-**Q11.** With reference to the Vernacular Press Act, which of the following statements is/are correct?
+**Q6.** Arrange the following education milestones in chronological order:
 
-1. It was passed in 1878 under Lytton.
-2. It was repealed by Ripon.
+1. Wood’s Despatch
+2. Macaulay’s Minute
+3. Hunter Commission
+4. Wardha Scheme
 
-A. Only 1
 
-B. Only 2
+A. 2, 1, 3, 4
 
-C. Both 1 and 2
+B. 1, 2, 3, 4
 
-D. Neither 1 nor 2
+C. 2, 3, 1, 4
+
+D. 2, 1, 4, 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: A.** 1835 → 1854 → 1882 → 1937.
+
+**Logic:** Core education chronology.
 
 </details>
 
 ---
 
-**Q12.** Match List-I with List-II.
+**Q7.** With reference to press laws, which of the following statements is/are correct?
 
-**List-I** A. Macaulay's Minute B. Wood's Despatch C. Hunter Commission D. Sargent Plan
-**List-II** 1. 1854 2. 1835 3. 1944 4. 1882
+1. Wellesley’s Censorship of Press Act (1799) brought wartime pre-censorship.
+2. Metcalfe’s Act (1835) repealed licensing — Metcalfe is the Liberator of the Press.
+3. Adam’s Licensing Regulations (1823) permanently ended all press control forever.
 
-A. 2 1 4 3
+Select the correct answer from the code given below:
 
-B. 1 2 4 3
 
-C. 2 1 3 4
+A. 1 and 3 only
 
-D. 2 4 1 3
+B. 1 and 2 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Only 1 and 2.
+
+**Logic:** 1823 tightened control; freedom is not linear.
 
 </details>
 
 ---
 
-**Q13.** Arrange: 1. Indian Universities Act 2. Macaulay's Minute 3. Wardha Scheme 4. Wood's Despatch
+**Q8.** With reference to Vernacular Press Act and later Acts, which of the following statements is/are correct?
+
+1. Lytton’s Vernacular Press Act (1878) curbed the vernacular press.
+2. Ripon repealed it in 1882.
+3. Indian Press Act 1910 is only another name for the Vernacular Press Act 1878.
+
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1, 2 and 3
+
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Only 1 and 2.
+
+**Logic:** 1878 vernacular-only curb ≠ 1910 broader pre-censorship.
+
+</details>
+
+---
+
+**Q9.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+
+**Assertion (A):** Wardha Scheme (1937) and Sargent Plan (1944) are identical Gandhian Basic Education blueprints.
+
+**Reason (R):** Wardha is Gandhi’s Nai Talim; Sargent is a British official post-war plan.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** (A) is false; (R) is true.
+
+**A/R logic:** Standing confused pair.
+
+</details>
+
+---
+
+**Q10.** With reference to Curzon-era university control, which of the following statements is/are correct?
+
+1. Raleigh Commission (1902) fed the Indian Universities Act, 1904.
+2. The 1904 Act tightened government control over university senates.
+3. National Council of Education (1906) was Curzon’s official universities department.
+
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
+
+B. 1 and 2 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Only 1 and 2.
+
+**Logic:** NCE = Swadeshi-era nationalist schooling body — not Curzon’s department.
+
+</details>
+
+---
+
+**Q11.** Match List-I with List-II and select the correct answer from the code given below:
+
+| List-I (UP newspaper) | List-II (Place) |
+|-----------------------|-----------------|
+| A. Swadesh | 1. Hathras |
+| B. Bharat Bandhu | 2. Gorakhpur |
+| C. Satyawadi | 3. Almora |
+| D. Shakti | 4. Agra |
+
+*Row order is not the answer code.*
+
+
+A. A-2, B-1, C-4, D-3
+
+B. A-1, B-2, C-4, D-3
+
+C. A-2, B-1, C-3, D-4
+
+D. A-2, B-4, C-1, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Swadesh–Gorakhpur; Bharat Bandhu–Hathras; Satyawadi–Agra; Shakti–Almora.
+
+**Logic:** UP place-match facts; Kesari is Pune, not Gorakhpur.
+
+</details>
+
+---
+
+**Q12.** Which of the following pairs is NOT correctly matched?
+
+
+A. Hicky’s Bengal Gazette 1780 — first newspaper in Calcutta
+
+B. Canning’s temporary Licensing Act 1857 — Revolt-year control
+
+C. Newspapers (Incitement to Offences) Act 1908 — Minto years
+
+D. Ilbert Bill 1883 — Lytton’s vernacular-only press curb
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Ilbert = Indian judges trying Europeans under Ripon; Vernacular Press = Lytton 1878.
+
+**Logic:** Ripon–Lytton contrast set.
+
+</details>
+
+---
+
+**Q13.** With reference to Jones and Hastings on the Asiatic Society, which of the following statements is/are correct?
+
+1. Sir William Jones founded and presided.
+2. Warren Hastings encouraged it and declined the chair.
+3. Hastings founded the Society and Jones only translated later works.
+
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Pure chair trap from Confused Pairs.
+
+</details>
+
+---
+
+**Q14.** Arrange the following press-control steps in chronological order:
+
+1. Metcalfe’s Press Act (liberation)
+2. Wellesley’s Censorship of Press Act
+3. Vernacular Press Act
+4. Adam’s Licensing Regulations
+
 
 A. 2, 4, 1, 3
 
@@ -2242,758 +2361,447 @@ D. 2, 4, 3, 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — 1835 → 1854 → 1904 → 1937.
+**Ans: A.** 1799 → 1823 → 1835 → 1878.
+
+**Logic:** Press freedom was never linear.
 
 </details>
 
 ---
 
-**Q14.** With reference to the Wardha Scheme, which of the following statements is/are correct?
+**Q15.** With reference to Archbold, which of the following statements is/are correct?
 
-1. It is Gandhi's Basic Education plan of 1937.
-2. It is the same as the Sargent Plan.
+1. He was Principal of MAO Aligarh, Government College Dacca, and Muir Central College Allahabad.
+2. He is often wrongly tagged as Principal of Lahore College.
+3. He founded Hicky’s Bengal Gazette in 1780.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
 
-C. Both 1 and 2
+A. 1 and 3 only
 
-D. Neither 1 nor 2
+B. 2 and 3 only
 
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q15.** Jonathan Duncan is associated with
-
-A. Asiatic Society of Bengal
-
-B. Sanskrit College, Banaras
-
-C. MAO College, Aligarh
-
-D. Wardha Scheme
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q16.** Which of the following pairs are NOT correctly matched?
-
-1. Kesari — Pune
-2. Swadesh — Gorakhpur
-3. Shakti — Hathras
-
-A. Only 3
-
-B. Only 1 and 3
-
-C. Only 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Shakti = **Almora**; Hathras = Bharat Bandhu.
-
-</details>
-
----
-
-**Q17.** Assertion (A): Curzon's Indian Universities Act, 1904 increased official control over universities.
-
-Reason (R): It was based on a desire to expand unaided nationalist colleges without inspection.
-
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)
-C. (A) is true but (R) is false
-D. (A) is false but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q18.** With reference to Fort William College, which of the following statements is/are correct?
-
-1. It was founded in 1800 under Wellesley.
-2. It trained Company civilians in Indian languages and administration.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q19.** Sadler Commission is mainly associated with
-
-A. Primary education in 1882
-
-B. Calcutta University / higher education, 1917–19
-
-C. Basic Education, 1937
-
-D. Charter Act grant, 1813
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q20.** Match List-I with List-II.
-
-**List-I** A. Young India B. New India C. Kesari D. Bengal Gazette
-**List-II** 1. Annie Besant 2. M.K. Gandhi 3. James Hicky 4. Bal Gangadhar Tilak
-
-A. 2 1 4 3
-
-B. 2 1 3 4
-
-C. 1 2 4 3
-
-D. 2 4 1 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q21.** With reference to the National Education Movement, which of the following statements is/are correct?
-
-1. It grew during the Swadeshi period after 1905.
-2. The National Council of Education ran the Bengal National College and Bengal Technical Institute.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q22.** Consider the following statements:
-
-1. Calcutta Madrasa was founded in 1781 under Warren Hastings.
-2. Sanskrit College, Banaras was founded by Sir William Jones.
-
-Which of the statements given above is/are correct?
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Banaras college = **Jonathan Duncan, 1791**.
-
-</details>
-
----
-
-**Q23.** Which of the following pairs are NOT correctly matched?
-
-1. Orientalists — favoured Sanskrit, Arabic and Persian learning
-2. Anglicists — favoured English and Western science
-3. Downward filtration — Hunter Commission's aim
-
-A. Only 1
-
-B. Only 1 and 3
-
-C. Only 2 and 3
-
-D. Only 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Downward filtration is **Macaulay's** aim, not Hunter's.
-
-</details>
-
----
-
-**Q24.** The Charter Act of 1813 is important for education because it
-
-A. Founded the three universities
-
-B. Set aside one lakh rupees for education and allowed missionaries in
-
-C. Passed the Universities Act
-
-D. Adopted the Wardha Scheme
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q25.** With reference to BHU and AMU, which of the following statements is/are correct?
-
-1. MAO College (1875) later became AMU.
-2. BHU was founded in 1916, associated with Madan Mohan Malaviya.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q26.** Arrange: 1. Hicky's Bengal Gazette 2. Vernacular Press Act 3. Asiatic Society of Bengal 4. Wood's Despatch
-
-A. 1, 3, 4, 2
-
-B. 3, 1, 4, 2
-
-C. 1, 3, 2, 4
-
-D. 1, 4, 3, 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 1780 → 1784 → 1854 → 1878.
-
-</details>
-
----
-
-**Q27.** Assertion (A): Hunter Commission paid special attention to primary education.
-
-Reason (R): It was appointed in Ripon's viceroyalty in 1882.
-
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)
-C. (A) is true but (R) is false
-D. (A) is false but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Both true; Ripon's tenure dates the Commission, it does not by itself explain the primary-education focus.
-
-</details>
-
----
-
-**Q28.** Amrita Bazar Patrika is associated with which city?
-
-A. Pune
-
-B. Madras
-
-C. Calcutta
-
-D. Almora
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q29.** With reference to Zakir Husain, which of the following statements is/are correct?
-
-1. He was associated with working out the Wardha / Basic Education scheme.
-2. He drafted Macaulay's Minute of 1835.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q30.** Consider the following statements:
-
-1. Punjab University was founded in 1882.
-2. The Indian Universities Act was passed in 1857.
-
-Which of the statements given above is/are correct?
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — The 1904 Act is Curzon's; 1857 is the founding of the three presidency universities.
-
-</details>
-
----
-
-**Q31.** Which of the following pairs are correctly matched?
-
-1. Tilak — Kesari
-2. Gandhi — Young India
-3. Besant — Commonweal
-
-A. 1 and 2 only
-
-B. 1 and 3 only
-
-C. 2 and 3 only
+C. 1 and 2 only
 
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Career trap: not Lahore College; not Hicky.
 
 </details>
 
 ---
 
-**Q32.** With reference to Wood's Despatch, which of the following statements is/are correct?
+**Q16.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-1. It recommended grants-in-aid to private schools.
-2. It rejected all use of Indian vernaculars.
 
-A. Only 1
+**Assertion (A):** Hunter Commission focused on primary education under Ripon.
 
-B. Only 2
+**Reason (R):** Sadler Commission reviewed Calcutta University / higher education.
 
-C. Both 1 and 2
+Select the correct answer from the code given below:
 
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Vernaculars were kept at lower levels.
-
-</details>
-
----
-
-**Q33.** Muir Central College was located at
-
-A. Aligarh
-
-B. Lahore
-
-C. Allahabad
-
-D. Dacca
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q34.** Which of the following pairs are NOT correctly matched?
-
-1. Bharat Bandhu — Hathras
-2. Satyawadi — Agra
-3. Swadesh — Almora
-
-A. Only 3
-
-B. Only 1 and 3
-
-C. Only 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Swadesh = **Gorakhpur**; Almora = Shakti.
-
-</details>
-
----
-
-**Q35.** Consider the following statements:
-
-1. Downward filtration is associated with Macaulay's education policy.
-2. The Sargent Plan came before the Hunter Commission.
-
-Which of the statements given above is/are correct?
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q36.** Assertion (A): The first three modern universities in India were established in 1857.
-
-Reason (R): Wood's Despatch had recommended a university tier in the education ladder.
-
-Options:
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
 B. (A) is false, but (R) is true
+
 C. (A) is true, but (R) is false
+
 D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: A.** Both true; R describes a later different commission and does not explain Hunter’s primary focus as its cause.
+
+**A/R logic:** Two true commission facts without identity.
 
 </details>
 
 ---
 
-**Q37.** Hindu College, Calcutta (1817) is associated with
+**Q17.** With reference to National Council of Education and Wardha, which of the following statements is/are correct?
 
-A. Jonathan Duncan
+1. NCE (1906) belongs to the Swadeshi education column.
+2. Wardha (1937) is Gandhian Basic Education / Nai Talim.
+3. Wardha is only a 1906 Swadeshi renaming of NCE.
 
-B. David Hare
+Select the correct answer from the code given below:
 
-C. Charles Wood
 
-D. John Sargent
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Different decades, different projects.
 
 </details>
 
 ---
 
-**Q38.** With reference to the press, which of the following statements is/are correct?
+**Q18.** With reference to early colleges, which of the following statements is/are correct?
 
-1. Hicky's Bengal Gazette began in 1780.
-2. The Vernacular Press Act was passed by Ripon in 1882.
+1. Hindu College (1817) is linked with Ram Mohan Roy, David Hare and Alexander Duff.
+2. Sanskrit College Banaras (1791) is tagged to Jonathan Duncan.
+3. Mayo / MAO College (1875) precedes Hindu College in founding year.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
 
-C. Both 1 and 2
+A. 1 and 3 only
 
-D. Neither 1 nor 2
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — The Act is **Lytton, 1878**; Ripon repealed it in 1882.
+**Ans: C.** Only 1 and 2.
+
+**Logic:** College order: Hindu 1817 → Delhi 1824 → Mayo/MAO 1875.
 
 </details>
 
 ---
 
-**Q39.** Raleigh Commission is a backdrop to which of the following?
+**Q19.** Match List-I with List-II and select the correct answer from the code given below:
 
-A. Wardha Scheme
+| List-I (Paper / person) | List-II |
+|-------------------------|---------|
+| A. Al-Hilal | 1. Ambedkar |
+| B. Bahishkrit Bharat | 2. Azad |
+| C. Free Hindustan | 3. Tarak Nath Das |
+| D. Ghadar first issue language | 4. Urdu (1 Nov 1913) |
 
-B. Indian Universities Act, 1904
+*Row order is not the answer code.*
 
-C. Hunter Commission
 
-D. Charter Act of 1813
+A. A-2, B-1, C-3, D-4
+
+B. A-1, B-2, C-3, D-4
+
+C. A-2, B-1, C-4, D-3
+
+D. A-2, B-3, C-1, D-4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: A.** Al-Hilal–Azad; Bahishkrit Bharat–Ambedkar; Free Hindustan–Tarak Nath Das; Ghadar Urdu opener.
+
+**Logic:** Paper↔person extras.
 
 </details>
 
 ---
 
-**Q40.** Consider the following statements:
+**Q20.** Which of the following pairs is NOT correctly matched?
 
-1. Annie Besant edited *New India* and *Commonweal*.
-2. Tilak's *Kesari* was published from Gorakhpur.
 
-Which of the statements given above is/are correct?
+A. Portuguese press Goa — 1556
 
-A. Only 1
+B. Amrita Bazar Patrika — flipped to English overnight (1878) to dodge Vernacular Press Act
 
-B. Only 2
+C. Tilak’s Kesari — Gorakhpur
 
-C. Both 1 and 2
-
-D. Neither 1 nor 2
+D. Pioneer — George Allen (Allahabad)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Kesari = **Pune**; Gorakhpur = **Swadesh**.
+**Ans: C.** Kesari is Pune; Swadesh is Gorakhpur.
+
+**Logic:** UP newspaper place trap.
 
 </details>
 
 ---
 
-**Q41.** With reference to the Orientalist–Anglicist controversy, which of the following statements is/are correct?
+**Q21.** With reference to downward filtration, which of the following statements is/are correct?
 
-1. Raja Ram Mohan Roy wrote in 1823 opposing government funding for a new Sanskrit college.
-2. Charles Grant had argued as early as 1792 for English/Western education.
+1. After 1835 it meant educating a small English-knowing elite who would supposedly filter knowledge downward.
+2. Wood later tried to build a fuller public system from primary to university.
+3. Downward filtration is the official name of the Wardha Basic Education scheme.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
 
-C. Both 1 and 2
+A. 1 and 3 only
 
-D. Neither 1 nor 2
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Wardha ≠ filtration theory.
 
 </details>
 
 ---
 
-**Q42.** Which of the following pairs are NOT correctly matched?
+**Q22.** Arrange the following in chronological order:
 
-1. Licensing Regulations — 1823, Adam
-2. Press Act ("liberation") — 1835, Metcalfe
-3. Vernacular Press Act — 1846, Lytton
+1. Indian Universities Act
+2. National Council of Education
+3. Raleigh Commission
+4. Sadler Commission
 
-A. Only 3
 
-B. Only 1 and 3
+A. 3, 1, 2, 4
 
-C. Only 2 and 3
+B. 1, 3, 2, 4
 
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Vernacular Press Act is **1878**, not 1846.
-
-</details>
-
----
-
-**Q43.** With reference to the Hartog Committee (1929), which of the following statements is/are correct?
-
-1. It found rapid but low-quality growth of primary education, with heavy wastage and stagnation.
-2. It recommended further rapid expansion of primary schools without consolidation.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — It recommended **consolidation**, not further unchecked expansion.
-
-</details>
-
----
-
-**Q44.** Serampore College (1818) is associated with
-
-A. William Carey, Marshman and Ward
-
-B. Charles Wood
-
-C. Sir Philip Hartog
-
-D. Michael Sadler
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q45.** Assertion (A): James Silk Buckingham was deported from India.
-
-Reason (R): His press licence was revoked under the 1823 Licensing Regulations.
-
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q46.** With reference to the National Council of Education (1906), which of the following statements is/are correct?
-
-1. It ran the Bengal National College with Aurobindo Ghosh as its first principal.
-2. It is the same body as the Wardha Scheme of 1937.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q47.** Arrange the following in chronological order:
-
-1. Sadler Commission
-2. Hartog Committee
-3. Indian Universities Act
-4. Vernacular Press Act
-
-A. 4, 3, 1, 2
-
-B. 3, 4, 1, 2
-
-C. 4, 1, 3, 2
+C. 3, 2, 1, 4
 
 D. 3, 1, 4, 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Vernacular Press Act 1878 → Universities Act 1904 → Sadler 1917–19 → Hartog 1929.
+**Ans: A.** 1902 Raleigh → 1904 Act → 1906 NCE → 1917–19 Sadler.
+
+**Logic:** Curzon control then nationalist counter then Sadler.
 
 </details>
 
 ---
 
-**Q48.** Which of the following pairs is/are correctly matched?
+**Q23.** With reference to Deccan Education Society, which of the following statements is/are correct?
 
-1. Metcalfe — "Liberator of the Indian Press," 1835
-2. Adam — Licensing Regulations, 1823
-3. Lytton — repealed the Vernacular Press Act
+1. Core founders include Tilak, Chiplunkar, Agarkar and Namjoshi.
+2. Ranade is remembered as patron, not a core founder in the standard tag.
+3. D.K. Karve founded Deccan Education Society as SNDT in 1916.
 
-A. 1 and 2 only
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
 
 B. 2 and 3 only
 
-C. 1 and 3 only
+C. 1 and 2 only
 
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Lytton **passed** the Vernacular Press Act; **Ripon** repealed it.
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Karve = women’s university stream — separate from DES core tag.
 
 </details>
 
 ---
+
+**Q24.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+
+**Assertion (A):** Hartog Committee (1929) said consolidate primary education rather than only expand.
+
+**Reason (R):** Hartog flagged primary wastage and stagnation.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Both true and R explains the consolidate-don’t-just-expand advice.
+
+**A/R logic:** Hartog ≠ Sargent identity; here R truly explains A.
+
+</details>
+
+---
+
+**Q25.** With reference to Press (Emergency Powers) Act, 1931, which of the following statements is/are correct?
+
+1. It belonged to the Civil Disobedience era.
+2. It is later than the Indian Press Act, 1910.
+3. It is identical with Metcalfe’s liberation Act of 1835.
+
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** 1931 emergency powers ≠ 1835 liberation.
+
+</details>
+
+---
+
+**Q26.** Which one of the following correctly distinguishes Hunter from Sadler?
+
+
+A. Hunter = university; Sadler = primary only
+
+B. Hunter = primary under Ripon; Sadler = Calcutta University / higher education
+
+C. Both are only post-war Sargent blueprints
+
+D. Both were authored by Macaulay in 1835
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Standing commission confused pair.
+
+**Logic:** Primary vs university-stage review.
+
+</details>
+
+---
+
+**Q27.** With reference to Calcutta Madrasa and Sanskrit College Banaras, which of the following statements is/are correct?
+
+1. Calcutta Madrasa (~1780–81, Hastings) taught Muslim law.
+2. Sanskrit College Banaras (1791) is tagged to Jonathan Duncan.
+3. Both were founded by Macaulay under Wood’s Despatch in 1854.
+
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Early Orientalist institutions precede Macaulay/Wood.
+
+</details>
+
+---
+
+**Q28.** Match List-I with List-II and select the correct answer from the code given below:
+
+| List-I | List-II |
+|--------|---------|
+| A. Charles Wilkins | 1. English Shakuntala 1789 |
+| B. William Jones | 2. First English Gita |
+| C. Portuguese press | 3. Goa 1556 |
+| D. Hindu College | 4. 1817 |
+
+*Row order is not the answer code.*
+
+
+A. A-2, B-1, C-3, D-4
+
+B. A-1, B-2, C-3, D-4
+
+C. A-2, B-1, C-4, D-3
+
+D. A-2, B-3, C-1, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Wilkins–Gita; Jones–Shakuntala; Portuguese press 1556; Hindu College 1817.
+
+**Logic:** Culture/education openers.
+
+</details>
+
+---
+
+**Q29.** With reference to Sargent Plan, which of the following statements is/are correct?
+
+1. It is a 1944 post-war official blueprint.
+2. It is not the same as Hartog’s 1929 primary-wastage review.
+3. It repealed Wood’s Despatch and closed all universities.
+
+Select the correct answer from the code given below:
+
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Sargent ≠ Hartog; it does not scrap Wood’s ladder.
+
+</details>
+
+---
+
+**Q30.** Which of the following pairs is NOT correctly matched?
+
+
+A. Charter Act 1813 — ₹1 lakh education clause
+
+B. Wood’s Despatch 1854 — school-to-university ladder
+
+C. Hunter 1882 — primary focus under Ripon
+
+D. Sadler 1917–19 — Vernacular Press Act repeal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Sadler = Calcutta University review; Press Act repeal = Ripon 1882.
+
+**Logic:** Education commission ≠ press-law event.
+
+</details>
+
 
 ## Common Traps — Don't Fall For These
 

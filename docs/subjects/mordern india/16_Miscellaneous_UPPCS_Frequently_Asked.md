@@ -957,1132 +957,800 @@ D. Goa
 
 ## Practice Zone — UPPCS Format Drill
 
-> **56 questions.** Matching, NOT-matched, chronology, multi-statement.
+> **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
----
 
-**Q1.** Match slogans: A. Swaraj is my birthright B. Inquilab Zindabad C. Do or Die D. Give me blood
-With: 1. Gandhi 2. Tilak 3. Bose 4. Hasrat / Bhagat stream
+**Q1.** Match List-I (Slogan) with List-II (Person):
 
-A. 2 4 1 3
+| List-I | List-II |
+|--------|---------|
+| A. Swaraj is my birthright | 1. Gandhi, Quit India 1942 |
+| B. Do or Die | 2. Tilak |
+| C. Give me blood and I will give you freedom | 3. Hasrat Mohani (coined); Bhagat Singh (popularised) |
+| D. Inquilab Zindabad | 4. Subhas Chandra Bose / INA |
 
-B. 2 1 4 3
+*Row order is not the answer code.*
 
-C. 4 2 1 3
+A. A-1, B-2, C-3, D-4
 
-D. 2 4 3 1
+B. A-2, B-1, C-4, D-3
+
+C. A-2, B-4, C-1, D-3
+
+D. A-2, B-1, C-3, D-4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** Tilak / Gandhi / Bose / Hasrat–Bhagat.
+
+**Logic:** Do not give Inquilab to Bose or Do or Die to Tilak.
 
 </details>
 
 ---
 
-**Q2.** Who founded Abhinav Bharat Society?
+**Q2.** With reference to national song and anthem, which of the following statements is/are correct?
 
-A. Bhagat Singh
+1. *Vande Mataram* (Bankim, *Anandamath*) is the national song.
+2. *Jana Gana Mana* (Tagore) is the national anthem (Calcutta session 1911 association).
+3. *Vande Mataram* is the national anthem adopted in 1911.
 
-B. Vinayak Damodar Savarkar
+Select the correct answer from the code given below:
 
-C. Barindra Kumar Ghosh
+A. 1 and 3 only
 
-D. Pulin Bihari
+B. 1 and 2 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Song ≠ anthem.
 
 </details>
 
 ---
 
-**Q3.** Arrange: A. Hunter Commission B. Sadler Commission C. Wood’s Despatch D. Sargeant Plan
+**Q3.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. A B D C
+**Assertion (A):** ‘Inquilab Zindabad’ was coined by Hasrat Mohani and popularised by Bhagat Singh.
 
-B. C B A D
+**Reason (R):** It is Bose’s principal INA slogan in place of ‘Jai Hind’.
 
-C. A B C D
+Select the correct answer from the code given below:
 
-D. C A B D
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — 1854 → 1882 → 1917 → 1944.
+**Ans: C.** A true; R false.
+
+**A/R logic:** Inquilab ≠ Bose INA slogan set.
 
 </details>
 
 ---
 
-**Q4.** Match treaties: A. Allahabad B. Mangalore C. Salbai D. Madras
-With: 1. 1782 2. 1784 3. 1769 4. 1765
+**Q4.** Match List-I (INC ‘first’ / only) with List-II:
 
-A. 4 2 3 1
+| List-I | List-II |
+|--------|---------|
+| A. W.C. Bonnerjee 1885 | 1. First Muslim President |
+| B. Badruddin Tyabji 1887 | 2. First session President |
+| C. Annie Besant 1917 | 3. First woman President |
+| D. Sarojini Naidu 1925 | 4. First Indian woman President |
 
-B. 2 4 3 1
+*Row order is not the answer code.*
 
-C. 4 2 1 3
+A. A-1, B-2, C-4, D-3
 
-D. 2 4 1 3
+B. A-2, B-1, C-3, D-4
+
+C. A-2, B-3, C-1, D-4
+
+D. A-2, B-1, C-4, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: B.** Firsts ladder including woman vs Indian woman.
+
+**Logic:** Besant ≠ Sarojini tag swap.
 
 </details>
 
 ---
 
-**Q5.** 2022 newspaper places (standard paper: Swadesh, Bharat Bandhu, Satyawadi, Shakti):
+**Q5.** With reference to Tilak’s press, which of the following statements is/are correct?
 
-A. Hathras, Almora, Agra, Gorakhpur
+1. *Kesari* (Marathi) and *Mahratta* (English) are Tilak’s Pune papers.
+2. They are Gorakhpur papers in the UP press match set.
+3. Gandhi’s papers include *Young India*, *Harijan* and *Navajivan*; *Indian Opinion* is South Africa years.
 
-B. Gorakhpur, Hathras, Agra, Almora
+Select the correct answer from the code given below:
 
-C. Pune, Hathras, Agra, Almora
+A. 1 and 2 only
 
-D. Gorakhpur, Almora, Agra, Hathras
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B.** Only 1 and 3.
+
+**Logic:** *Kesari* = Pune, not Gorakhpur (*Swadesh*).
 
 </details>
 
 ---
 
-**Q6.** Who never presided over an INC session?
+**Q6.** Which of the following pairs is NOT correctly matched?
 
-A. Lala Lajpat Rai
+A. Swadesh — Gorakhpur
 
-B. Bal Gangadhar Tilak
+B. Bharat Bandhu — Hathras
 
-C. Gopal Krishna Gokhale
-
-D. Subhash Chandra Bose
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q7.** Which pair is NOT correctly matched? (Place — 1857 leadership)
-
-A. Sambalpur — Surendra Sai
-
-B. Ganjam — Radhakrishna Dandsena
-
-C. Kashmir — Gulab Singh
-
-D. Lucknow — Liyaqat Ali
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Lucknow = **Hazrat Mahal**; Liyaqat Ali = **Allahabad**.
-
-</details>
-
----
-
-**Q8.** Match books: A. Story of My Deportation B. Gita Rahasya C. A Nation in Making D. India Wins Freedom
-With: 1. Banerjee 2. Azad 3. Lajpat Rai 4. Tilak
-
-A. 3 4 1 2
-
-B. 4 2 1 3
-
-C. 2 4 1 3
-
-D. 4 3 2 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q9.** Woman not associated with Quit India:
-
-A. Matangini Hazra
-
-B. Aruna Asaf Ali
-
-C. Kanaklata Barua
-
-D. Shanti Ghosh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D**
-
-</details>
-
----
-
-**Q10.** INA officers were tried at:
-
-A. Red Fort, Delhi
-
-B. Gwalior Fort
-
-C. Amer Fort
-
-D. Agra Fort
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q11.** With reference to INC Presidents, which of the following statements is/are correct?
-
-1. Annie Besant was the first woman President (1917).
-2. Sarojini Naidu was the first Indian woman President (1925).
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q12.** Gandhi presided over which Congress session?
-
-A. Lahore 1929
-
-B. Belgaum 1924
-
-C. Karachi 1931
-
-D. Faizpur 1937
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B**
-
-</details>
-
----
-
-**Q13.** Which of the following pairs is NOT correctly matched?
-
-A. Kesari — Tilak, Pune
-
-B. Swadesh — Gorakhpur
-
-C. Pratap — Vidyarthi, Kanpur
+C. Satyawadi — Agra; Shakti — Almora
 
 D. Kesari — Gorakhpur
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: D.** *Kesari* is Tilak’s Pune paper.
+
+**Logic:** UP press match vs Tilak Pune pair.
 
 </details>
 
 ---
 
-**Q14.** Match: A. Lahore 1929 B. Karachi 1931 C. Faizpur 1937 D. Haripura 1938
-With: 1. Bose 2. Purna Swaraj 3. First village session 4. FR resolution (Patel)
+**Q7.** Arrange the following treaties in chronological order:
 
-A. 2 4 3 1
+1. Treaty of Allahabad
+2. Treaty of Madras
+3. Treaty of Salbai
+4. Treaty of Mangalore
 
-B. 2 4 1 3
+A. 2, 1, 3, 4
 
-C. 4 2 3 1
+B. 1, 2, 3, 4
 
-D. 2 3 4 1
+C. 1, 3, 2, 4
+
+D. 1, 2, 4, 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** 1765 → 1769 → 1782 → 1784.
+
+**Logic:** Treaty year vault order.
 
 </details>
 
 ---
 
-**Q15.** Hardinge bomb (1912) is associated with:
+**Q8.** With reference to education commissions, which of the following statements is/are correct?
 
-A. All India Labour Association
+1. Order fact: Wood 1854 → Hunter 1882 → Sadler 1917 → Sargeant 1944.
+2. Hunter Commission 1882 is education; Hunter Committee 1919 is Jallianwala inquiry.
+3. Hunter 1882 and Hunter 1919 are the same continuous commission.
 
-B. United Patriotic Association
+Select the correct answer from the code given below:
 
-C. Anushilan Samiti
+A. 1 and 3 only
 
-D. Yugantar
+B. 1 and 2 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: B.** Only 1 and 2.
+
+**Logic:** Two Hunters — different jobs.
 
 </details>
 
 ---
 
-**Q16.** Assertion (A): Inquilab Zindabad was coined by Bhagat Singh.
+**Q9.** Match List-I (Official) with List-II (Policy tag):
 
-Reason (R): Hasrat Mohani coined it; Bhagat Singh popularised it.
+| List-I | List-II |
+|--------|---------|
+| A. Curzon | 1. Separate electorates 1909 |
+| B. Minto | 2. Partition 1905 |
+| C. Chelmsford | 3. Montford / GoI Act 1919 |
+| D. Irwin | 4. Gandhi–Irwin Pact 1931 |
 
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+*Row order is not the answer code.*
+
+A. A-2, B-1, C-4, D-3
+
+B. A-1, B-2, C-4, D-3
+
+C. A-2, B-3, C-1, D-4
+
+D. A-2, B-1, C-3, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Official ↔ policy six (first four).
+
+**Logic:** Willingdon–Communal Award and Mountbatten–3 June extend the same drill.
+
+</details>
+
+---
+
+**Q10.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+**Assertion (A):** Belgaum 1924 is Gandhi’s only Congress presidentship.
+
+**Reason (R):** Lahore 1929 under Gandhi adopted the Fundamental Rights resolution.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: C.** A true; R false.
+
+**A/R logic:** Lahore = Purna Swaraj (Nehru); Fundamental Rights = Karachi 1931 (Patel).
 
 </details>
 
 ---
 
-**Q17.** Consider the following statements:
+**Q11.** With reference to UP 1857 and map facts, which of the following statements is/are correct?
 
-1. Vande Mataram is the national anthem.
-2. Jana Gana Mana was sung at the 1911 Calcutta session.
+1. Lucknow = Begum Hazrat Mahal; Allahabad = Liyaqat Ali — never swap.
+2. Kakori — 9 August 1925; Chauri Chaura — 4/5 Feb 1922 (Gorakhpur).
+3. Azad Park is at Allahabad.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
+A. 1 and 2 only
 
-C. Both 1 and 2
+B. 2 and 3 only
 
-D. Neither 1 nor 2
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Vande Mataram = national **song**.
+**Ans: D.** All three.
+
+**Logic:** UP vault rows.
 
 </details>
 
 ---
 
-**Q18.** Which of the following pairs are NOT correctly matched?
+**Q12.** Which one of the following correctly pairs slogan and person?
 
-1. Do or Die — Gandhi, 1942
-2. Give me blood — Bose
-3. Do or Die — Bose, INA
+A. Educate, Agitate, Organise — Dayanand Saraswati
 
-A. Only 3
+B. Back to the Vedas — B.R. Ambedkar
 
-B. Only 1 and 3
+C. Educate, Agitate, Organise — B.R. Ambedkar
 
-C. Only 2 and 3
-
-D. Only 1
+D. One caste, one religion, one God — Tilak
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: C.** Ambedkar’s organisational slogan.
+
+**Logic:** Dayanand / Narayana Guru / Ambedkar slogan triangle.
 
 </details>
 
 ---
 
-**Q19.** Match: A. HRA B. HSRA C. Ghadar D. Abhinav Bharat
-With: 1. 1913 San Francisco 2. 1924 Kanpur 3. Savarkar 4. 1928
+**Q13.** Arrange the following missions / reports chronologically:
 
-A. 2 4 1 3
+1. Simon Commission
+2. Nehru Report
+3. Cripps Mission
+4. Cabinet Mission
 
-B. 2 4 3 1
+A. 2, 1, 3, 4
 
-C. 4 2 1 3
+B. 1, 2, 3, 4
 
-D. 2 1 4 3
+C. 1, 3, 2, 4
+
+D. 1, 2, 4, 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B.** 1927 → 1928 → 1942 → 1946.
+
+**Logic:** Mission year vault.
 
 </details>
 
 ---
 
-**Q20.** With reference to Hunter, which of the following statements is/are correct?
+**Q14.** Which of the following statements is/are correct?
 
-1. Hunter Commission 1882 dealt with education.
-2. Hunter Committee 1919 inquired into Jallianwala.
+1. Shanti Ghosh is a 1931 Bengal revolutionary name.
+2. Aruna Asaf Ali is a Quit India 1942 name.
+3. Both names are interchangeable QI 1942 radio operators.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
+A. 2 and 3 only
 
-C. Both 1 and 2
+B. 1 and 3 only
 
-D. Neither 1 nor 2
+C. 1 and 2 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: C.** Only 1 and 2.
+
+**Logic:** Standing Shanti ↔ Aruna swap.
 
 </details>
 
 ---
 
-**Q21.** First village session of Congress:
+**Q15.** Match List-I (Book) with List-II (Author):
 
-A. Ramgarh
+| List-I | List-II |
+|--------|---------|
+| A. Poverty and Un-British Rule | 1. Gandhi |
+| B. Hind Swaraj | 2. Naoroji (1901) |
+| C. Discovery of India | 3. Azad |
+| D. India Wins Freedom | 4. Nehru |
 
-B. Faizpur
+*Row order is not the answer code.*
 
-C. Belgaum
+A. A-2, B-1, C-4, D-3
 
-D. Tripuri
+B. A-1, B-2, C-3, D-4
+
+C. A-2, B-4, C-1, D-3
+
+D. A-2, B-1, C-3, D-4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: A.** Vault book five (plus Gita Rahasya = Tilak outside this table).
+
+**Logic:** Nehru ↔ Azad twin remains deadly.
 
 </details>
 
 ---
 
-**Q22.** Which of the following is NOT correctly matched?
+**Q16.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-A. Cellular Jail — Andaman
+**Assertion (A):** INA trials sat at the Red Fort.
 
-B. INA Trials — Red Fort
+**Reason (R):** Gwalior Fort is the correct venue tag for the INA officers’ trials in standard teaching.
 
-C. QI flag — Gowalia Tank
+Select the correct answer from the code given below:
 
-D. INA Trials — Gwalior Fort
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 
-<details>
-<summary>Show answer</summary>
+B. (A) is false, but (R) is true
 
-**Ans: D**
-
-</details>
-
----
-
-**Q23.** Match: A. Madam Cama B. Lakshmi Sehgal C. Usha Mehta D. Pritilata Waddedar
-With: 1. Congress Radio 2. Stuttgart 1907 3. Chittagong 4. Rani Jhansi Regiment
-
-A. 2 4 1 3
-
-B. 2 4 3 1
-
-C. 4 2 1 3
-
-D. 2 1 4 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q24.** Consider the following statements:
-
-1. Tyabji was the first Muslim President of Congress (1887).
-2. George Yule was the first English President (1888).
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q25.** Aix-la-Chapelle (1748):
-
-1. Ended the First Carnatic War.
-2. Madras was returned to the English.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q26.** Which of the following pairs are NOT correctly matched?
-
-1. Morley–Minto — separate electorates
-2. Montagu–Chelmsford — dyarchy in provinces
-3. GOI 1935 — dyarchy in provinces as the new start
-
-A. Only 3
-
-B. Only 1 and 3
-
-C. Only 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 1935 = **provincial autonomy**; dyarchy shifts to the **Centre**.
-
-</details>
-
----
-
-**Q27.** Kakori conspiracy date and leaders:
-
-1. 9 August 1925
-2. Ram Prasad Bismil and Ashfaqullah Khan
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q28.** Chauri Chaura:
-
-A. 4 Feb 1922, Gorakhpur
-
-B. 9 Aug 1925, Lucknow
-
-C. 13 Apr 1919, Amritsar
-
-D. 8 Aug 1942, Bombay
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q29.** Match: A. Dayanand B. Narayana Guru C. Bankim D. Tilak
-With: 1. Vande Mataram 2. Back to the Vedas 3. Swaraj birthright 4. One caste one religion one God
-
-A. 2 4 1 3
-
-B. 2 4 3 1
-
-C. 4 2 1 3
-
-D. 2 1 4 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q30.** Assertion (A): Sarojini Naidu was the first woman President of Congress.
-
-Reason (R): Annie Besant, an Irish woman, presided in 1917; Sarojini was the first Indian woman President in 1925.
-
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: C.** A true; R false.
+
+**A/R logic:** Red Fort ≠ Gwalior Fort.
 
 </details>
 
 ---
 
-**Q31.** SRC members among: 1. K.T. Shah 2. K.M. Panikkar 3. P. Sitaramayya 4. H.N. Kunzru
+**Q17.** With reference to Rani Lakshmibai and Jhalkari Bai, which of the following statements is/are correct?
 
-A. 1 and 3
+1. Rani Lakshmibai is the Rani of Jhansi.
+2. Jhalkari Bai is the Dalit soldier remembered as resembling her in battle.
+3. Jhalkari Bai is another name for the Rani herself in British gazetteers.
 
-B. 2 and 4
+Select the correct answer from the code given below:
 
-C. 2 and 3
+A. 1 and 2 only
 
-D. 1 and 2
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — full card Topic 15.
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Two persons — resemblance trap.
 
 </details>
 
 ---
 
-**Q32.** Which of the following is NOT correctly matched?
+**Q18.** Which of the following pairs is NOT correctly matched?
 
-A. Al-Hilal — Azad
+A. George Yule 1888 — first English Congress President
 
-B. Mooknayak — Ambedkar
+B. Faizpur 1937 — first village Congress session
 
-C. Young India — Tilak
+C. Tilak — Congress President at Belgaum 1924
 
-D. Indian Opinion — Gandhi
+D. Abul Kalam Azad — Ramgarh 1940 President
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Young India = **Gandhi**.
+**Ans: C.** Tilak never became Congress President; Belgaum is Gandhi.
+
+**Logic:** Standing Tilak presidency trap.
 
 </details>
 
 ---
 
-**Q33.** Poverty and Un-British Rule in India was published in:
+**Q19.** Which of the following statements is/are correct?
 
-A. 1876
+1. ‘Simon Go Back’ is keyed to anti-Simon agitation and the Lajpat Rai association.
+2. ‘Garibi Hatao’ is a later Indira-era slogan, not a 1920s freedom-struggle fact.
+3. ‘Garibi Hatao’ was Tilak’s 1906 Swaraj twin slogan.
 
-B. 1892
+Select the correct answer from the code given below:
 
-C. 1901
+A. 1 and 2 only
 
-D. 1906
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Do not back-date Indira-era slogans into Extremism.
 
 </details>
 
 ---
 
-**Q34.** Match: A. Vernacular Press Act B. Arms Act C. Ilbert Bill D. Rowlatt
-With: 1. 1919 2. 1878 Lytton 3. 1878 Lytton 4. 1883 Ripon
-
-A. 2 3 4 1
-
-B. 3 2 4 1
-
-C. 2 3 1 4
-
-D. 4 2 3 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — both 1878 Lytton (Press + Arms).
-
-</details>
-
----
-
-**Q35.** Chandrashekhar Azad died at:
-
-A. Kakori
-
-B. Alfred Park, Allahabad
-
-C. Lahore Jail
-
-D. Cellular Jail
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 27 Feb 1931.
-
-</details>
-
----
-
-**Q36.** Consider the following statements:
-
-1. Rani Jhansi Regiment was an INA women’s unit under Lakshmi Sehgal.
-2. It was a regiment of 1857.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q37.** First session of INC:
-
-A. Calcutta, Naoroji
-
-B. Bombay, W.C. Bonnerjee
-
-C. Madras, Tyabji
-
-D. Allahabad, Yule
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1885.
-
-</details>
-
----
-
-**Q38.** Which of the following pairs are NOT correctly matched?
-
-1. Treaty of Sugauli — 1816
-2. Treaty of Salbai — 1765
-3. Treaty of Allahabad — 1765
-
-A. Only 2
-
-B. Only 1 and 2
-
-C. Only 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Salbai **1782**.
-
-</details>
-
----
-
-**Q39.** With reference to Karachi 1931, which of the following statements is/are correct?
-
-1. President was Vallabhbhai Patel.
-2. It adopted a resolution on Fundamental Rights.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q40.** Ghadar Party headquarters:
-
-A. London
-
-B. San Francisco
-
-C. Berlin
-
-D. Tokyo
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — 1913.
-
-</details>
-
----
-
-**Q41.** Arrange: 1. Plassey 2. Buxar 3. Regulating Act 4. Permanent Settlement
+**Q20.** Arrange the following Congress session facts chronologically by year:
+
+1. First Muslim President (Tyabji, Madras)
+2. First English President (Yule, Allahabad)
+3. First woman President (Besant, Calcutta)
+4. First Indian woman President (Sarojini, Kanpur)
 
 A. 1, 2, 3, 4
 
-B. 1, 2, 4, 3
+B. 2, 1, 3, 4
 
-C. 2, 1, 3, 4
+C. 1, 3, 2, 4
 
-D. 1, 3, 2, 4
+D. 1, 2, 4, 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — 1757, 1764, 1773, 1793.
+**Ans: A.** 1887 → 1888 → 1917 → 1925.
+
+**Logic:** INC firsts chronology.
 
 </details>
 
 ---
 
-**Q42.** Which of the following is NOT correctly matched?
+**Q21.** Match List-I with List-II:
 
-A. Sabarmati — Dandi start
+| List-I | List-II |
+|--------|---------|
+| A. Willingdon | 1. 3 June Plan |
+| B. Mountbatten | 2. Communal Award 1932 |
+| C. Back to the Vedas | 3. Dayanand Saraswati |
+| D. One caste, one religion, one God | 4. Sri Narayana Guru |
 
-B. Sevagram — Gandhi’s later ashram
+*Row order is not the answer code.*
 
-C. Aga Khan Palace — QI internment
+A. A-2, B-1, C-3, D-4
 
-D. Cellular Jail — INA Trials
+B. A-1, B-2, C-4, D-3
+
+C. A-2, B-3, C-1, D-4
+
+D. A-2, B-1, C-4, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: A.** Official tags + reform slogans.
+
+**Logic:** Complete the British-official six with Willingdon/Mountbatten.
 
 </details>
 
 ---
 
-**Q43.** Assertion (A): Liyaqat Ali led the 1857 revolt at Lucknow.
+**Q22.** With reference to Bose session facts, which of the following statements is/are correct?
 
-Reason (R): Begum Hazrat Mahal was the Lucknow leader; Liyaqat Ali is tied to Allahabad.
+1. Bose held Congress presidentships in 1938–39 (Haripura/Tripuri).
+2. Azad held Ramgarh 1940.
+3. Tilak held the 1907 Surat presidency after the split.
 
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Tilak never INC President; Surat broke up.
+
+</details>
+
+---
+
+**Q23.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+
+**Assertion (A):** *Poverty and Un-British Rule* is Naoroji’s 1901 drain classic.
+
+**Reason (R):** *Rise and Growth of Economic Nationalism* is Bipan Chandra’s later historiography, not Naoroji’s book.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
 C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D**
+**Ans: D.** Both true; R correctly explains why the two titles must not be merged.
+
+**A/R logic:** Primary tract vs historiography.
 
 </details>
 
 ---
 
-**Q44.** *The Rise and Growth of Economic Nationalism in India* was written by:
+**Q24.** Which of the following statements is/are correct?
 
-A. Dadabhai Naoroji
+1. ‘Sarfaroshi ki tamanna’ sits with the Bismil / Kakori stream in slogan drills.
+2. This miscellaneous file is a match vault — event stories live in earlier chapters.
+3. Faizpur 1937 is Gandhi’s only presidentship.
 
-B. R.C. Dutt
+Select the correct answer from the code given below:
 
-C. Bipan Chandra
+A. 1 and 2 only
 
-D. M.G. Ranade
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: A.** Only 1 and 2.
+
+**Logic:** Only Gandhi presidentship = Belgaum 1924; Faizpur = first village session.
 
 </details>
 
 ---
 
-**Q45.** Match: A. Bentinck B. Dalhousie C. Curzon D. Ripon
-With: 1. Partition of Bengal 2. Sati abolition 3. Local self-government 4. Doctrine of Lapse
+**Q25.** Which of the following pairs is NOT correctly matched?
 
-A. 2 4 1 3
+A. Cripps Mission — 1942
 
-B. 2 4 3 1
+B. Cabinet Mission — 1946
 
-C. 4 2 1 3
+C. Nehru Report — 1928; Simon Commission — 1927
 
-D. 2 1 4 3
+D. Cabinet Mission — 1928 Nehru Report twin
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Topic 3 home.
+**Ans: D.** Cabinet Mission is 1946 — not a 1928 twin of Nehru Report.
+
+**Logic:** Mission year vault.
 
 </details>
 
 ---
 
-**Q46.** Consider the following statements:
+**Q26.** With reference to book vault rows, which of the following statements is/are correct?
 
-1. 1909 Act introduced separate electorates for Muslims.
-2. 1919 Act introduced dyarchy in the provinces.
+1. *Anandamath* = Bankim; *Gita Rahasya* = Tilak.
+2. *Discovery of India* = Nehru; *India Wins Freedom* = Azad.
+3. *Hind Swaraj* = Naoroji 1901.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
+A. 1 and 2 only
 
-C. Both 1 and 2
+B. 1 and 3 only
 
-D. Neither 1 nor 2
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: A.** Only 1 and 2.
+
+**Logic:** *Hind Swaraj* = Gandhi 1909.
 
 </details>
 
 ---
 
-**Q47.** Meerut Congress session (1946) President:
+**Q27.** Arrange the following official–policy pairs by the year of the tagged event:
 
-A. Nehru
-
-B. Azad
-
-C. J.B. Kripalani
-
-D. Patel
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
-
-**Q48.** Which of the following pairs are NOT correctly matched?
-
-1. Pratap — Kanpur
-2. Leader — Malaviya
-3. Independent — Tilak
-
-A. Only 3
-
-B. Only 1 and 3
-
-C. Only 2 and 3
-
-D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Independent = **Motilal Nehru**.
-
-</details>
-
----
-
-**Q49.** Arrange: 1. Surat Split 2. Lucknow Pact 3. Lahore Purna Swaraj 4. Quit India
+1. Curzon — Partition
+2. Minto — separate electorates
+3. Irwin — Gandhi–Irwin Pact
+4. Mountbatten — 3 June Plan
 
 A. 1, 2, 3, 4
 
-B. 1, 2, 4, 3
+B. 2, 1, 3, 4
 
-C. 2, 1, 3, 4
+C. 1, 3, 2, 4
 
-D. 1, 3, 2, 4
+D. 1, 2, 4, 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — 1907, 1916, 1929, 1942.
+**Ans: A.** 1905 → 1909 → 1931 → 1947.
+
+**Logic:** Official ↔ policy chronology.
 
 </details>
 
 ---
 
-**Q50.** Simon Go Back is associated with the agitation against:
+**Q28.** Match List-I with List-II:
 
-A. Cripps Mission
+| List-I | List-II |
+|--------|---------|
+| A. Liyaqat Ali | 1. Lucknow 1857 |
+| B. Begum Hazrat Mahal | 2. Allahabad 1857 |
+| C. Red Fort | 3. INA trials venue |
+| D. Gwalior Fort | 4. Not the INA trials venue in standard key |
 
-B. Simon Commission
+*Row order is not the answer code.*
 
-C. Cabinet Mission
+A. A-2, B-1, C-3, D-4
 
-D. Hunter Committee 1919
+B. A-1, B-2, C-4, D-3
+
+C. A-2, B-3, C-1, D-4
+
+D. A-2, B-1, C-4, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: A.** UP 1857 swap + fort venue.
+
+**Logic:** Allahabad ↔ Lucknow; Red Fort ≠ Gwalior.
 
 </details>
 
 ---
 
-**Q51.** With reference to the 1857 Revolt in Uttar Pradesh, which of the following statements is/are correct?
+**Q29.** Which of the following statements is/are correct?
 
-1. Jhalkari Bai was a Dalit soldier who fought at Jhansi and resembled Rani Lakshmibai.
-2. Uda Devi fought at Sikandar Bagh, Lucknow.
+1. Drill first the slogan six, INC first six, committee/mission six, and British-official six.
+2. *Economic Nationalism* historiography = Bipan Chandra; drain classic = Naoroji 1901.
+3. ‘Give me blood…’, ‘Jai Hind’ and ‘Delhi Chalo’ belong to Bose / INA.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
+A. 1 and 2 only
 
-C. Both 1 and 2
+B. 2 and 3 only
 
-D. Neither 1 nor 2
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: D.** All three.
+
+**Logic:** Vault drilling order + Bose slogan cluster.
 
 </details>
 
 ---
 
-**Q52.** Which of the following pairs is NOT correctly matched?
+**Q30.** Which one of the following is correctly matched?
 
-A. Cripps Mission — 1942, solo envoy
+A. Karachi 1931 — Purna Swaraj (Nehru)
 
-B. Cabinet Mission — 1946, three members
+B. Lahore 1929 — Fundamental Rights (Patel)
 
-C. Nehru Report — 1928, Indian response to Simon
+C. Karachi 1931 — Fundamental Rights (Patel); Lahore 1929 — Purna Swaraj (Nehru)
 
-D. Wavell Plan — 1946, Simla Conference
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Wavell Plan / Simla Conference is **1945**.
-
-</details>
-
----
-
-**Q53.** Ram Prasad Bismil and Ashfaqullah Khan, both hanged for the Kakori conspiracy, were born in:
-
-A. Kanpur
-
-B. Shahjahanpur
-
-C. Faizabad
-
-D. Meerut
+D. Faizpur 1937 — only Gandhi presidentship
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: C.** Session–resolution twin.
+
+**Logic:** Lahore ↔ Karachi remains a top vault trap.
 
 </details>
-
----
-
-**Q54.** Match: A. Naujawan Bharat Sabha B. Indian Independence League C. Swadesh Bandhab Samiti D. Azad Hind Fauj
-With: 1. Ashwini Kumar Dutta 2. Bhagat Singh 3. Subhas Chandra Bose 4. Rash Behari Bose
-
-A. 2 4 1 3
-
-B. 2 4 3 1
-
-C. 4 2 1 3
-
-D. 2 1 4 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q55.** Which of the following newspapers is correctly matched with its founder?
-
-A. The Hindu — G. Subramania Iyer
-
-B. Tribune — Motilal Nehru
-
-C. Rast Goftar — Bal Gangadhar Tilak
-
-D. Hindoo Patriot — Surendranath Banerjee
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-</details>
-
----
-
-**Q56.** Consider the following statements on the Indian Independence Act, 1947:
-
-1. It provided for Partition and Dominion status for India and Pakistan.
-2. Lord Mountbatten became the first Governor-General of independent India under it.
-
-A. Only 1
-
-B. Only 2
-
-C. Both 1 and 2
-
-D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C**
-
-</details>
-
----
 
 ## Common Traps — Don't Fall For These
 
