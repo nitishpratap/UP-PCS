@@ -1652,27 +1652,24 @@ D. Gopal Krishna Gokhale
 
 **Q1.** With reference to colonial land-revenue systems, which of the following statements is/are correct?
 
-1. Permanent Settlement (1793) under Cornwallis made the zamindar proprietor in Bengal, Bihar, Orissa and Varanasi.
+1. Permanent Settlement (1793) under Cornwallis made the zamindar proprietor mainly in Madras and Bombay.
 2. Ryotwari settled revenue with the ryot mainly in Madras and Bombay.
 3. Mahalwari settled revenue with the individual ryot in Bengal alone.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
+B. 2 and 3
 
-A. 1 and 3 only
+C. Only 2
 
-B. 1 and 2 only
-
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: C.** Only 2 is correct.
 
-**Logic:** Mahalwari = village/mahal unit in NWP/UP, CP, Punjab — not Bengal ryot.
+**Logic:** Stmt 1 false: Permanent Settlement is Bengal–Bihar–Orissa–Varanasi; Madras/Bombay are mainly Ryotwari. Stmt 3 remains false: Mahalwari is village/mahal in NWP/Punjab, not Bengal ryot.
 
 </details>
 
@@ -1680,27 +1677,24 @@ D. 1, 2 and 3
 
 **Q2.** With reference to land-system architects, which of the following statements is/are correct?
 
-1. Munro / Read are tagged to Ryotwari.
-2. Holt Mackenzie is tagged to Mahalwari (1822).
-3. Cornwallis designed Ryotwari for Madras.
+1. Cornwallis designed Ryotwari for Madras.
+2. Munro / Read are tagged to Permanent Settlement.
+3. Holt Mackenzie is tagged to Mahalwari (1822).
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
+B. Only 3
 
-A. 1 and 3 only
+C. 2 and 3
 
-B. 2 and 3 only
-
-C. 1, 2 and 3
-
-D. 1 and 2 only
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2.
+**Ans: B.** Only 3 is correct.
 
-**Logic:** Cornwallis = Permanent Settlement — not Ryotwari.
+**Logic:** Stmt 2 false: Munro/Read = Ryotwari; Cornwallis = Permanent Settlement. Stmt 1 remains false: Cornwallis did not design Ryotwari.
 
 </details>
 
@@ -1816,27 +1810,24 @@ D. 3, 2, 4, 1
 
 **Q7.** With reference to the Cornwallis judiciary, which of the following statements is/are correct?
 
-1. Munsiff’s Court handled small civil claims with an Indian officer.
-2. Sadar Diwani Adalat was the final civil court at Calcutta.
-3. Sadar Nizamat Adalat was the lowest civil court for petty claims.
+1. Sadar Nizamat Adalat was the lowest civil court for petty claims.
+2. Munsiff’s Court was the final civil court at Calcutta.
+3. Sadar Diwani Adalat was the final civil court at Calcutta.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
+B. 2 and 3
 
-A. 1 and 3 only
+C. 1 and 3
 
-B. 2 and 3 only
-
-C. 1, 2 and 3
-
-D. 1 and 2 only
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2.
+**Ans: D.** Only 3 is correct.
 
-**Logic:** Sadar Nizamat Adalat = top criminal appeal — do not swap civil/criminal tops.
+**Logic:** Stmt 2 false: Munsiff handled small civil claims; Sadar Diwani Adalat was the final civil court. Stmt 1 remains false: Sadar Nizamat = top criminal, not lowest civil.
 
 </details>
 
@@ -1845,26 +1836,23 @@ D. 1 and 2 only
 **Q8.** With reference to Drain critics, which of the following statements is/are correct?
 
 1. Naoroji called Drain the “evil of all evils.”
-2. R.C. Dutt wrote the Economic History of India.
+2. R.C. Dutt wrote Poverty and Un-British Rule in India.
 3. Sir Syed Ahmad Khan accepted Drain Theory as INC’s official creed in 1875.
 
-Select the correct answer from the code given below:
+A. Only 1
 
+B. 1 and 2
 
-A. 1 and 3 only
+C. 2 and 3
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: A.** Only 1 is correct.
 
-**Logic:** Sir Syed rejected Drain; INC Calcutta 1896 accepted it.
+**Logic:** Stmt 2 false: Poverty and Un-British Rule = Naoroji; R.C. Dutt wrote Economic History of India. Stmt 3 remains false: Sir Syed rejected Drain Theory.
 
 </details>
 
@@ -1901,24 +1889,21 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q10.** With reference to railways and managing agencies, which of the following statements is/are correct?
 
 1. The Guarantee System promised about a 5% return on British capital from Indian revenues.
-2. The Managing Agency System let British firms run companies largely on Indian-raised capital.
-3. Guarantee System and Managing Agency System are two names for the same railway contract.
+2. Guarantee System and Managing Agency System are two names for the same railway contract.
+3. The Managing Agency System let British firms run companies largely on Indian-raised capital.
 
-Select the correct answer from the code given below:
+A. Only 1
 
+B. 1 and 3
 
-A. 1 and 3 only
+C. Only 2
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: B.** 1 and 3 only are correct.
 
 **Logic:** Guarantee = railway return; Managing Agency = firm control fees — confused pair.
 
@@ -1982,24 +1967,21 @@ D. Woodhead Commission 1945 — authored Wood’s Despatch of 1854
 **Q13.** With reference to famines, which of the following statements is/are correct?
 
 1. The 1770 Bengal famine belongs to the Dual Government years.
-2. The 1876–78 famine is tagged to Lytton’s laissez-faire.
-3. The 1943 Bengal famine is tagged to Ripon’s local self-government year.
+2. The 1943 Bengal famine is tagged to Ripon’s local self-government year.
+3. The 1876–78 famine is tagged to Lytton’s laissez-faire.
 
-Select the correct answer from the code given below:
+A. Only 1 and 3
 
+B. Only 1, 2 and 3
 
-A. 1 and 3 only
+C. Only 1 and 2
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: A.** 1 and 3 only are correct.
 
 **Logic:** 1943 = Linlithgow / WWII — not Ripon.
 
@@ -2043,18 +2025,18 @@ D. 3, 4, 1, 2
 Select the correct answer from the code given below:
 
 
-A. 1 and 2 only
+A. Only 1 and 2
 
-B. 1 and 3 only
+B. 1, 2 and 3
 
-C. 2 and 3 only
+C. Only 2 and 3
 
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three phase statements are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Three-phase map from Consolidated Must-Score.
 
@@ -2096,21 +2078,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. The thana–daroga system was placed under the District Magistrate.
 3. The daroga system made the zamindar the sole criminal judge of the district.
 
-Select the correct answer from the code given below:
+A. Only 1
 
+B. Only 1 and 2
 
-A. 1 and 3 only
+C. Only 3
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Police moved off the zamindar to thana–daroga under the DM.
 
@@ -2124,21 +2103,18 @@ D. 1, 2 and 3
 2. “Free trade” mainly freed British goods, not Indian industry.
 3. After 1813 the Company retained a full monopoly on all Indian trade including inland crafts.
 
-Select the correct answer from the code given below:
+A. Only 1 and 2
 
+B. Only 3
 
-A. 1 and 3 only
+C. 2 and 3
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** 1813 ended Company monopoly in India (kept tea/China) — not a crafts monopoly.
 
@@ -2202,24 +2178,21 @@ D. Permanent Settlement — Munro as chief architect
 **Q21.** With reference to dual economy critiques, which of the following statements is/are correct?
 
 1. A thin modern / export sector sat beside a distressed agrarian mass.
-2. Nationalist Drain writers used this picture against simple “modernisation” claims.
-3. Dual economy means Home Charges alone without any agrarian distress.
+2. Dual economy means Home Charges alone without any agrarian distress.
+3. Nationalist Drain writers used this picture against simple “modernisation” claims.
 
-Select the correct answer from the code given below:
+A. Only 2
 
+B. Only 2 and 3
 
-A. 1 and 3 only
+C. Only 1
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: D.** 1 and 3 only are correct.
 
 **Logic:** Dual economy ≠ Drain; both are related critiques but not identical.
 
@@ -2260,21 +2233,18 @@ D. 3, 1, 4, 2
 2. Tea plantations expanded in Assam from 1839.
 3. Nij cultivation means indigo forced only on the peasant’s holding under dadan.
 
-Select the correct answer from the code given below:
+A. Only 1
 
+B. 1 and 2
 
-A. 1 and 3 only
+C. Only 3
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Nij = planter’s own land; ryoti = peasant land + dadan.
 
@@ -2312,25 +2282,22 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q25.** With reference to commercialization of agriculture, which of the following statements is/are correct?
 
-1. Cash crops for export left peasants more exposed to price swings and famine.
-2. It formed an economic backdrop to indigo and Deccan unrest.
-3. It abolished land revenue in cash and restored pure kind payments everywhere.
+1. It abolished land revenue in cash and restored pure kind payments everywhere.
+2. Cash crops for export left peasants more exposed to price swings and famine.
+3. It formed an economic backdrop to indigo and Deccan unrest.
 
-Select the correct answer from the code given below:
+A. Only 1 and 2
 
+B. Only 3
 
-A. 1 and 3 only
+C. 2 and 3
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: C.** 2 and 3 only are correct.
 
 **Logic:** Monetisation pushed cash revenue — opposite of stmt 3.
 
@@ -2363,24 +2330,21 @@ D. Both are identical with Imperial Preference
 **Q27.** With reference to the District (Diwani) Judge under Cornwallis, which of the following statements is/are correct?
 
 1. The same District Judge sat as Magistrate.
-2. Criminal appeals rose to Sadar Nizamat Adalat.
-3. The District Judge was identical with the Munsiff’s Court officer.
+2. The District Judge was identical with the Munsiff’s Court officer.
+3. Criminal appeals rose to Sadar Nizamat Adalat.
 
-Select the correct answer from the code given below:
+A. 1 and 3
 
+B. 1, 2 and 3
 
-A. 1 and 3 only
+C. 1 and 2
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: A.** 1 and 3 only are correct.
 
 **Logic:** Munsiff is the lowest civil rung — not the District Judge.
 
@@ -2421,25 +2385,22 @@ D. A-2, B-3, C-1, D-4
 
 **Q29.** With reference to Herschell and Fowler, which of the following statements is/are correct?
 
-1. Herschell (1893) closed free silver minting.
-2. Fowler (1898) set a gold-exchange standard with the rupee at 1s 4d.
-3. Fowler preceded Herschell and restored free silver coinage.
+1. Fowler preceded Herschell and restored free silver coinage.
+2. Herschell (1893) closed free silver minting.
+3. Fowler (1898) set a gold-exchange standard with the rupee at 1s 4d.
 
-Select the correct answer from the code given below:
+A. Only 2 and 3
 
+B. Only 1
 
-A. 1 and 3 only
+C. Only 1 and 2
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: A.** 2 and 3 only are correct.
 
 **Logic:** Herschell then Fowler — order and content both matter.
 

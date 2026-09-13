@@ -814,21 +814,21 @@ D. A false; R true
 
 **Q1.** With reference to biodiversity, which of the following statements is/are correct?
 
-1. Biodiversity spans genetic, species, and ecosystem levels.
+1. Biodiversity spans only the species level, not genetic or ecosystem levels.
 2. Walter G. Rosen (1985) coined the word biodiversity; E.O. Wilson popularised it.
 3. The most significant aspect is only pharmaceutical drug discovery.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. Only 2
+C. Only 1
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Ans: B.** Only 2 is correct.
 
-**Logic:** Ecosystem maintenance is the key significance — not drugs alone.
+**Logic:** Statement 2 is the Rosen/Wilson naming fact. Statement 1 is false — biodiversity includes genetic, species, and ecosystem levels. Statement 3 is too narrow (not only pharma).
 
 </details>
 
@@ -882,17 +882,17 @@ D. 1, 2 and 3
 2. Andamans fall under Indo-Burma and Nicobar under Sundaland.
 3. Eastern Ghats are one of India’s four hotspots.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Ans: B.** Only 1 and 2 are correct.
 
-**Logic:** Eastern Ghats are not a hotspot.
+**Logic:** Statements 1–2 match the four-hotspot map (Andaman → Indo-Burma; Nicobar → Sundaland). Statement 3 is false — Eastern Ghats are not one of India’s four hotspots.
 
 </details>
 
@@ -1117,7 +1117,7 @@ D. 1, 2 and 3
 
 **Ans: D.**
 
-**Logic:** All three are teaching locks.
+**Logic:** All three are teaching facts.
 
 </details>
 

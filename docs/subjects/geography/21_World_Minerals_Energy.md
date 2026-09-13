@@ -2407,23 +2407,21 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q5.** With reference to iron-ore centres, which of the following statements is/are correct?
 
-1. Krivoy Rog — Ukraine; Lorraine — France; Kiruna — Sweden; Mesabi — USA.
-2. Germany–Normandy iron is a correct country–region pair.
-3. Carajás (Brazil) and Pilbara/Newman (Australia) are iron exporters’ anchors.
+1. Germany–Normandy iron is a correct country–region pair.
+2. Krivoy Rog — Ukraine; Lorraine — France; Kiruna — Sweden; Mesabi — USA.
+3. Carajás (Brazil) and Pilbara/Newman (Australia) are leading bauxite-only ports with no iron.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 2
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 3 are correct.
+**Ans: B.** Only 2 is correct.
 
-**Logic:** Normandy is in France — Germany–Normandy is the wrong pair.
+**Logic:** Germany–Normandy is a wrong iron pair (Normandy is in France). Krivoy Rog, Lorraine, Kiruna and Mesabi are standard iron centres. Carajás and Pilbara are iron exporters’ anchors.
 
 </details>
 
@@ -2453,21 +2451,19 @@ D. 3-1-2
 
 1. Methane is the main constituent of natural gas and of CNG.
 2. LPG is the same as CNG.
-3. Qatar’s North Field and Iran’s South Pars form one continuous Gulf gas giant.
+3. Qatar’s North Field and Iran’s South Pars are unrelated basins on opposite oceans.
 
-Which of the statements given above is/are correct?
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. Only 1 and 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 3 are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** LPG (propane/butane) ≠ CNG (methane).
+**Logic:** Methane is the main constituent of natural gas and CNG. LPG ≠ CNG. North Field and South Pars form one continuous Gulf gas giant.
 
 </details>
 
@@ -2520,23 +2516,23 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q10.** With reference to OPEC and hydel giants, which of the following statements is/are correct?
 
-1. OPEC HQ is Vienna; original 1960 five were Iran, Iraq, Kuwait, Saudi Arabia, Venezuela.
-2. Itaipu is Brazil–Paraguay hydel; Three Gorges is China on the Yangtze.
+1. OPEC HQ is New York; original 1960 five excluded Venezuela.
+2. Itaipu is China on the Yangtze; Three Gorges is Brazil–Paraguay hydel.
 3. IAEA and OPEC share Vienna but different mandates.
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. 2 and 3
+C. Only 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: C.** Only 3 is correct.
 
-**Logic:** Do not swap OPEC oil with IAEA nuclear jobs.
+**Logic:** OPEC HQ is Vienna; original 1960 five were Iran, Iraq, Kuwait, Saudi Arabia, Venezuela. Itaipu is Brazil–Paraguay; Three Gorges is China on the Yangtze. IAEA and OPEC share Vienna but different mandates.
 
 </details>
 
@@ -2569,17 +2565,15 @@ D. 1, 2, 3 and 4
 2. German silver contains no silver (Cu–Ni–Zn).
 3. Brass is Cu+Sn; bronze is Cu+Zn.
 
-Select the correct answer from the code given below:
-
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Brass = Cu+Zn; bronze = Cu+Sn — statement 3 swaps them.
 
@@ -2654,21 +2648,19 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q16.** With reference to tin geography, which of the following statements is/are correct?
 
-1. Malaysia’s Kinta Valley is cassiterite tin.
-2. Bangka–Belitung (Indonesia) and Andean Bolivia are other tin centres.
-3. Pegu Yoma is part of the same tin belt as Kinta.
+1. Pegu Yoma is part of the same tin belt as Kinta.
+2. Malaysia’s Kinta Valley is cassiterite tin.
+3. Bangka–Belitung (Indonesia) and Andean Bolivia are other tin centres.
 
-Select the correct answer from the code given below:
-
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. Only 3
+B. Only 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: B.** 2 and 3 only are correct.
 
 **Logic:** Pegu Yoma is mineral oil, not tin.
 
@@ -2682,15 +2674,15 @@ D. 1, 2 and 3
 
 Which of the statements given above is/are correct?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Producer volume ≠ export king for every mineral.
 
@@ -2743,17 +2735,15 @@ D. Mesabi is a coalfield of England.
 2. Bingham is a USA copper fact.
 3. Chile’s copper is unrelated to Andes porphyry geology.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Chile copper leadership is tied to Andes porphyry deposits.
 
@@ -2811,15 +2801,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. All 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Do not insert Brazil into the Lithium Triangle.
 
@@ -2833,15 +2823,15 @@ D. 1, 2 and 3
 
 Which of the statements given above is/are correct?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. 1 and 2
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Link mineral map to industry location without inventing new traps.
 
@@ -2896,15 +2886,15 @@ D. LPG is the main constituent of natural gas.
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
+A. Only 2 and 3
+B. Only 1
+C. 1 and 2
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Do not dump Broken Hill as iron/tin.
 
@@ -2918,15 +2908,15 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. Only 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Germany–Normandy remains the wrong iron pair.
 
@@ -2935,20 +2925,18 @@ D. 1, 2 and 3
 **Q29.** With reference to Myanmar and Malaysia, which of the following statements is/are correct?
 
 1. Pegu Yoma = mineral oil.
-2. Kinta Valley = tin.
-3. Both are interchangeable labels for the same commodity.
+2. Both are interchangeable labels for the same commodity.
+3. Kinta Valley = tin.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 3
+B. Only 1
+C. Only 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: A.** 1 and 3 only are correct.
 
 **Logic:** Oil vs tin must not be merged.
 
@@ -2960,17 +2948,15 @@ D. 1, 2 and 3
 2. North Sea oil/gas is a UK–Norway belt fact.
 3. Both are identical to Kashagan in Kazakhstan.
 
-Which of the statements given above is/are correct?
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Kashagan is a separate Kazakhstan oil identity.
 

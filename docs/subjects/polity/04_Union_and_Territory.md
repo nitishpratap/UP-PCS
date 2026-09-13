@@ -2228,7 +2228,7 @@ Uttarakhand / UKPCS-tagged stems already in the bank above:
 
 **Q1.** With reference to Articles 2 and 3, consider the following statements:
 1. Article 2 admits or establishes new States not already in the Union.
-2. Article 3 forms or alters existing States.
+2. Article 3 only admits foreign territories and cannot alter existing States.
 3. A law under Articles 2 or 3 is always a constitutional amendment under Article 368.
 
 A. 2 and 3 only
@@ -2239,9 +2239,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: C.** Only 1 is correct.
 
-**Logic:** Article 4 path is simple majority; not an Article 368 amendment.
+**Logic:** Article 2 admits/establishes new States; Article 3 forms/alters existing States. A law under 2/3 is not an Article 368 amendment.
 
 </details>
 
@@ -2338,7 +2338,7 @@ D. 1 – 4 – 3 – 2
 
 **Q6.** With reference to NCT Delhi, which of the following statements is/are correct?
 1. Article 239AA gives special status to NCT Delhi.
-2. Public order, police and land remain with the Centre / LG framework.
+2. Public order, police and land in NCT Delhi are fully under the elected government with no LG role.
 3. Puducherry carries the same reserved triplet as Delhi.
 
 A. 2 and 3 only
@@ -2349,15 +2349,15 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: C.** Only 1 is correct.
 
-**Logic:** Puducherry under 239A does not carry Delhi’s land/police/public-order triplet.
+**Logic:** Article 239AA gives special status to NCT Delhi. Public order, police and land remain with the Centre/LG framework. Puducherry does not carry that triplet.
 
 </details>
 
 **Q7.** Consider the following statements about citizenship:
 1. Citizenship provisions sit in Part II, Articles 5–11.
-2. India follows single citizenship.
+2. India follows dual citizenship for Union and States like the USA.
 3. OCI status is the same as dual citizenship with voting rights.
 
 A. 2 and 3 only
@@ -2368,17 +2368,17 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** OCI ≠ dual citizenship; no vote / no constitutional office.
+**Logic:** Citizenship sits in Part II, Articles 5–11. India follows single citizenship. OCI is not dual citizenship with voting rights.
 
 </details>
 
 **Q8.** Consider the following Assertion and Reason:
 
-Assertion (A): An Article 3 Bill needs the President’s recommendation.
+Assertion (A): Views of the State Legislature on an Article 3 Bill are binding on Parliament.
 
-Reason (R): Views of the State Legislature on an Article 3 Bill are binding on Parliament.
+Reason (R): An Article 3 Bill needs the President’s recommendation.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -2388,9 +2388,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true, but (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** State views are sought but not binding.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. State views are sought but not binding.
 
 </details>
 
@@ -2546,15 +2546,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Puducherry has 30 MLAs.
 3. Maximum Lok Sabha seats from UTs under Article 81 is 20.
 
-A. 1 and 2 only
-B. 1, 2 and 3
-C. 2 and 3 only
-D. 1 and 3 only
+A. All 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** All three statements are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** 70 / 30 / Art. 81 UT cap 20 are must-score.
 
@@ -2580,15 +2580,15 @@ D. Article 11 — Parliament’s power to regulate citizenship
 2. The Union implemented 14 States and 6 UTs from 1 November 1956.
 3. The 7th Amendment ended the old Part A/B/C/D map.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Recommendation vs implementation numbers plus 7th Amendment frame.
 
@@ -2693,15 +2693,15 @@ D. 1, 2 and 3
 2. Union Territories
 3. Such other territories as may be acquired
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. Only 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three components are included.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Article 1(3) three-limb territory definition.
 

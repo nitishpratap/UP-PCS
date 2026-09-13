@@ -1266,21 +1266,19 @@ D. Both 1 and 2
 
 **Q2.** Consider the following pairs:
 
-1. Article 352 grounds after 44th — war, external aggression, armed rebellion
-2. Pre-44th phrase replaced — internal disturbance
-3. Financial Emergency — Article 356
+1. Financial Emergency — Article 356
+2. Article 352 grounds after 44th — war, external aggression, armed rebellion
+3. Pre-44th phrase replaced — internal disturbance
 
-Which of the pairs given above is/are correctly matched?
-
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: A.** 2 and 3 only are correct.
 
 **Logic:** Financial Emergency is Article 360.
 
@@ -1308,9 +1306,9 @@ D. 1 only
 
 **Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): A National Emergency proclamation needs written advice of the Union Cabinet.
+Assertion (A): The 44th Amendment allowed the Prime Minister alone to advise a 352 proclamation in writing.
 
-Reason (R): The 44th Amendment allowed the Prime Minister alone to advise a 352 proclamation in writing.
+Reason (R): A National Emergency proclamation needs written advice of the Union Cabinet.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -1320,9 +1318,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true, but (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** Written Cabinet advice — not PM alone — is the 1975 lesson encoded by the 44th.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Written Cabinet advice — not PM alone — is the 1975 lesson encoded by the 44th.
 
 </details>
 
@@ -1392,40 +1390,40 @@ D. Both 1 and 2
 **Q8.** Consider the following statements about President’s Rule:
 
 1. Parliamentary approval is needed within two months by simple majority.
-2. Beyond one year, continuation needs a National Emergency in force and an EC certificate that elections cannot be held.
-3. Maximum is normally three years.
+2. Beyond one year, continuation of President’s Rule needs no National Emergency and no EC certificate.
+3. Maximum duration of President’s Rule is normally unlimited until the next general election.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. 2 and 3
+B. Only 1
+C. 1 and 2
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** 2 months / 1-year special conditions / 3-year outer normal max.
+**Logic:** Parliamentary approval is needed within two months by simple majority. Beyond one year, continuation needs a National Emergency in force and an EC certificate. Maximum is normally three years.
 
 </details>
 
 **Q9.** With reference to S.R. Bommai (1994), which of the following is/are correct?
 
 1. Article 356 was held justiciable.
-2. Majority should be tested on the floor of the House.
+2. Bommai held that majority need never be tested on the floor of the House.
 3. The President may assume High Court powers under 356.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: A.** Only 1 is correct.
 
-**Logic:** High Court powers are ring-fenced — cannot be assumed under 356.
+**Logic:** S.R. Bommai (1994) held Article 356 justiciable and that majority should be tested on the floor. High Court powers cannot be assumed under 356.
 
 </details>
 
@@ -1475,15 +1473,15 @@ D. None
 2. Article 353 lets the Union direct States on almost any matter.
 3. Article 354 can modify Centre–State revenue sharing during 352.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. Only 1
+B. 1 and 2
+C. Only 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Unitary tilt under 250/353/354.
 
@@ -1492,20 +1490,18 @@ D. 1 and 3 only
 **Q13.** Consider the following pairs:
 
 1. Textbook ‘State Emergency’ — Article 356
-2. Constitution’s phrase ‘State Emergency’ — expressly used in Part XVIII
-3. Textbook ‘National Emergency’ — Article 352
+2. Textbook ‘National Emergency’ — Article 352
+3. Constitution’s phrase ‘State Emergency’ — expressly used in Part XVIII
 
-Which of the pairs given above is/are correctly matched?
-
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. 1 and 2
+B. Only 3
+C. 1 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 3 are correct.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** The Constitution never uses the phrase ‘State Emergency’.
 
@@ -1537,15 +1533,15 @@ D. 1 only
 2. Salaries even of judges may be reduced.
 3. State money bills may be required to be reserved.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** 360’s distinctive financial propriety toolkit.
 
@@ -1638,18 +1634,18 @@ D. Neither 1 nor 2
 **Q20.** Consider the following statements:
 
 1. External Emergencies of 1962 and 1971 rest on war/external aggression.
-2. The 1975 proclamation used the older internal disturbance language before the 44th rewrite.
-3. Martial law keeps the civilian Constitution running with only emergency overlays identical to 352.
+2. Martial law keeps the civilian Constitution running with only emergency overlays identical to 352.
+3. The 1975 proclamation used the older internal disturbance language before the 44th rewrite.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. Only 1 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 1 and 3 only are correct.
 
 **Logic:** Martial law is military/local; 352 is constitutional/civilian with overlays.
 
@@ -1661,15 +1657,15 @@ D. 1, 2 and 3
 2. Bommai — judicial fact for floor test and justiciability
 3. ADM Jabalpur — contrast case often paired with unsuspendable 20/21 teaching after 44th
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. Only 1
+B. Only 1 and 2
+C. Only 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Punchhi / Bommai / ADM Jabalpur neighbour facts.
 
@@ -1775,8 +1771,8 @@ D. Neither 1 nor 2
 
 **Q27.** Consider the following statements about emergency nexus after the 44th:
 
-1. Laws or executive action during Emergency need a real emergency nexus (358(2)/359 theme).
-2. Blanket misuse without nexus is protected merely because an Emergency is in force.
+1. Blanket misuse without nexus is protected merely because an Emergency is in force.
+2. Laws or executive action during Emergency need a real emergency nexus (358(2)/359 theme).
 
 A. Only 1
 B. Only 2
@@ -1786,7 +1782,7 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 is correct.
+**Ans: B.** Only 2 is correct.
 
 **Logic:** Nexus requirement blocks blanket misuse.
 
@@ -1818,15 +1814,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. President’s Rule — six-month slices; special conditions beyond one year
 3. Financial Emergency — continues until revoked after initial approval
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. Only 1 and 2
+B. All 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Three different duration logics.
 

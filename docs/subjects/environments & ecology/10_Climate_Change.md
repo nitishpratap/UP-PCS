@@ -682,24 +682,23 @@ D. A false; R true
 
 **Q1.** With reference to global warming and climate change, which of the following statements is/are correct?
 
-1. Global warming is the long-term rise in average surface temperature.
+1. Global warming is the long-term fall in average surface temperature.
 2. Climate change is broader and also includes rainfall and extremes.
 3. The two terms are identical in every Prelims key.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2
+B. Only 1
+C. 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: A.** Only 2 is correct.
 
-**Logic:** Warming is a subset of climate change.
+**Logic:** Only statement 2 remains true among the numbered claims. Statement 1 is false. Statement 2 is true. Statement 3 is false.
 
 </details>
-
 **Q2.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 Assertion (A): Without the natural greenhouse effect Earth would average about −18°C.
@@ -716,7 +715,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Ans: A.** Both true; R states the with-GHG temperature, not why without-GHG is −18°C — related pair, not explanation of A’s counterfactual.
 
-**A/R logic:** Both are standard temperature locks; R does not explain the −18°C claim.
+**A/R logic:** Both are standard temperature facts; R does not explain the −18°C claim.
 
 </details>
 
@@ -747,20 +746,20 @@ D. A-3, B-1, C-2
 **Q4.** With reference to relative GHG shares (WMO-style teaching), which of the following statements is/are correct?
 
 1. Order often tested: CO₂ > CH₄ > CFCs+others > N₂O.
-2. Rough shares: CO₂ ~64%, CH₄ ~19%, N₂O ~6%, CFCs+ ~11%.
+2. Rough shares reverse CO₂ and CH₄ (~19% CO₂ and ~64% CH₄).
 3. Argon is the largest Kyoto-basket GHG by share.
 
-A. 1, 2 and 3
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1 and 2 only
+A. 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Argon is not a GHG.
+**Logic:** Statement 1 is the usual relative-share order. Statement 2 invents reversed CO₂/CH₄ shares. Statement 3 is false — argon is not a Kyoto-basket GHG.
 
 </details>
 
@@ -771,17 +770,17 @@ D. 1 and 2 only
 3. Oxygen
 4. Carbon dioxide
 
-A. 1, 2 and 3 only
-B. 4 only
-C. 1 and 4 only
-D. 2, 3 and 4 only
+A. Only 3
+B. 1 and 2
+C. 1, 2 and 3
+D. Only 4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** 1, 2 and 3 only.
+**Ans: C.** Argon, nitrogen and oxygen are not greenhouse gases; CO₂ is.
 
-**Logic:** CO₂ is a GHG; Ar/N₂/O₂ are not.
+**Logic:** Major GHGs include CO₂, CH₄, N₂O, ozone and water vapour. N₂, O₂ and argon dominate dry air but are not greenhouse gases.
 
 </details>
 
@@ -797,7 +796,7 @@ D. Exact 0.00°C change
 
 **Ans: B.** About 1.1°C above 1850–1900.
 
-**Logic:** AR6 global warming lock.
+**Logic:** AR6 global warming fact.
 
 </details>
 
@@ -1232,7 +1231,7 @@ D. Anthropogenic CO₂
 
 **Ans: D.** Anthropogenic CO₂.
 
-**Logic:** Main recent driver lock.
+**Logic:** Main recent driver fact.
 
 </details>
 

@@ -1634,15 +1634,15 @@ D. Neither 1 nor 2
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. 1 and 3
+B. All 1, 2 and 3
+C. 1 and 2
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only pairs 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Khasi is Meghalaya — Arunachal is the trap.
 
@@ -1715,15 +1715,15 @@ D. Neither 1 nor 2
 
 Which of the statements given above is/are correct?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Keep Buksa + Raji as the UP PVTG pair.
 
@@ -1843,22 +1843,22 @@ D. 1, 2, 3 and 4
 **Q12.** With reference to Jharkhand tribes, which of the following statements is/are correct?
 
 1. Core groups include Santhal, Munda and Oraon.
-2. Santhali uses the Ol Chiki script.
-3. Janjatiya Gaurav Diwas is observed on 15 November (Birsa Munda’s birth anniversary).
+2. Santhali uses only the Devanagari script and rejects Ol Chiki.
+3. Janjatiya Gaurav Diwas is observed on 26 January as Republic Day.
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** Hul of 1855 pairs with Santhal history in teaching notes.
+**Logic:** Core Jharkhand groups include Santhal, Munda and Oraon. Santhali uses Ol Chiki. Janjatiya Gaurav Diwas is 15 November (Birsa Munda’s birth anniversary).
 
 </details>
 
@@ -1934,15 +1934,15 @@ D. 2013
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 1, 2 and 3
-C. 2 and 3 only
-D. 1 and 3 only
+A. 1 and 2
+B. Only 2 and 3
+C. Only 1 and 3
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** All three statements are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Absolute population leadership is distinct from share leadership.
 
@@ -1992,17 +1992,15 @@ D. Koryak — Alaska
 2. Nicobar Mongoloid groups include Nicobarese and Shompen.
 3. Rengma is an Andaman island tribe.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. 1 and 3
+B. Only 1
+C. Only 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Rengma is Nagaland — not an island tribe.
 

@@ -2063,21 +2063,21 @@ D. A-1, B-3, C-2, D-4
 
 **Q1.** With reference to vegetation as climate index, which of the following statements is/are correct?
 
-1. “Vegetation is the true index of climate” is Thornthwaite’s line.
-2. Köppen’s system is the source of that exact vegetation-index quote.
-3. Controls include climate, soil, relief, biotic factors and time.
+1. Köppen’s system is the source of that exact vegetation-index quote.
+2. “Vegetation is the true index of climate” is Thornthwaite’s line.
+3. Controls of vegetation exclude climate and depend only on political boundaries.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 2
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 3 are correct.
+**Ans: B.** Only 2 is correct.
 
-**Logic:** Do not credit Köppen with Thornthwaite’s line.
+**Logic:** “Vegetation is the true index of climate” is Thornthwaite’s line, not Köppen’s. Controls include climate, soil, relief, biotic factors and time.
 
 </details>
 
@@ -2193,20 +2193,20 @@ D. 2–4–3–1
 **Q7.** With reference to Uttar Pradesh protected areas, which of the following statements is/are correct?
 
 1. Dudhwa in Lakhimpur Kheri is UP’s only National Park.
-2. Tiger Reserves include Dudhwa, Pilibhit, Amangarh and Ranipur.
-3. Chandraprabha WLS is in Sonbhadra.
+2. Chandraprabha WLS is in Sonbhadra.
+3. Tiger Reserves in UP exclude Dudhwa and include only Corbett and Ranthambore.
 
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 3
+C. Only 1 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** Chandraprabha is in Chandauli — not Sonbhadra.
+**Logic:** Dudhwa in Lakhimpur Kheri is UP’s only National Park. Chandraprabha is in Chandauli, not Sonbhadra. UP tiger reserves include Dudhwa, Pilibhit, Amangarh and Ranipur.
 
 </details>
 
@@ -2249,20 +2249,20 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q10.** With reference to dry evergreen and chir/deodar, which of the following statements is/are correct?
 
 1. Dry evergreen of TN Coromandel grows on ~100 cm NE monsoon.
-2. Chir belts western Himalaya ~1000–2000 m; deodar is temperate higher belt.
-3. Dry evergreen is the same as Western Ghat wet rainforest.
+2. Chir and deodar are tropical evergreen species of the Andaman canopy only.
+3. Dry evergreen of the Coromandel is identical with Himalayan alpine scrub.
 
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 2 are correct.
+**Ans: A.** Only 1 is correct.
 
-**Logic:** Among common options, deodar often grows at the highest elevation.
+**Logic:** Dry evergreen of TN Coromandel grows on ~100 cm NE monsoon. Chir/deodar are Himalayan conifers, not Andaman evergreen canopy or alpine scrub.
 
 </details>
 
@@ -2316,18 +2316,18 @@ D. A-1, B-3, C-2, D-4
 **Q13.** With reference to forest cover vs RFA, which of the following statements is/are correct?
 
 1. Forest cover is not the same as Recorded Forest Area.
-2. National Forest Policy 1988 aims at about 33%.
-3. Uttar Pradesh forest cover is about 12.8% of geographical area.
+2. Uttar Pradesh forest cover is about 12.8% of geographical area.
+3. National Forest Policy 1988 aims at about 33%.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2
+B. 2 and 3
+C. Only 1
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 3 only are correct.
 
 **Logic:** UP forest cover is about 6%, not 12.8%.
 
@@ -2375,15 +2375,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Epiphytes peak in equatorial forest; baobab in savanna.
 3. Matorral = Canada boreal.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. Only 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** Matorral = Chile.
 
@@ -2411,15 +2411,15 @@ D. Palash — desert social forestry king
 2. Surha Tal, Ballia is India’s 100th Ramsar and UP’s 13th.
 3. Ballia has near-nil forest yet holds Surha Tal Ramsar.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
+A. 2 and 3
+B. Only 1
+C. Only 1 and 2
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Near-nil forest ≠ no wetland.
 
@@ -2478,15 +2478,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Coral reefs fact to A&N, Lakshadweep, Gulf of Mannar and Gulf of Kachchh.
 3. Coral bleaching links to about 2°C warming of sea water.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
+A. Only 2 and 3
+B. Only 1
+C. Only 1 and 2
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Plantations (tea/rubber) are not climax evergreen forest.
 
@@ -2495,18 +2495,18 @@ D. 1, 2 and 3
 **Q22.** Which of the following statements about montane vegetation is/are correct?
 
 1. Altitude elevator: tropical foothills → oak/deodar/chir → alpine → bugyal → snow.
-2. Plains rainfall ladders replace altitude logic in mountains.
-3. Alpine moist belts carry rhododendron–birch; dry alpine juniper sits high.
+2. Alpine moist belts carry rhododendron–birch; dry alpine juniper sits high.
+3. Plains rainfall ladders replace altitude logic in mountains.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. 1 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 3 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** Do not replace altitude logic with plains rainfall ladders.
 
@@ -2534,19 +2534,19 @@ D. 2 and 3 only
 
 **Q24.** With reference to Dudhwa Tiger Reserve composition, which of the following statements is/are correct?
 
-1. It includes Dudhwa NP + Kishanpur + Katarniaghat.
-2. Katarniaghat was established in 1975.
-3. Pilibhit is an extra National Park of Uttar Pradesh.
+1. Pilibhit is an extra National Park of Uttar Pradesh.
+2. It includes Dudhwa NP + Kishanpur + Katarniaghat.
+3. Katarniaghat was established in 1975.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. Only 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: A.** 2 and 3 only are correct.
 
 **Logic:** Pilibhit/Amangarh/Ranipur are Tiger Reserves — do not invent extra NPs.
 
@@ -2578,15 +2578,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. ISFR 2023 districts above 20% include Chandauli and Shravasti, not Bahraich.
 3. Jaunpur–Ghazipur–Ballia have near-nil forest land.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1, 2 and 3
+B. 1 and 2
+C. 2 and 3
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** ISFR 2017 forest cover figure often taught as 21.54%.
 
@@ -2614,15 +2614,15 @@ D. They are only found in the Western Himalaya
 2. Moist and dry deciduous belong to one monsoon-forest family split by rainfall.
 3. Tropical evergreen is also called Selvas.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. All 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Some notes use >250 cm for wet evergreen — both 200/250 figures appear.
 
@@ -2650,15 +2650,15 @@ D. Sal — highest elevation among deodar/pine/sal/teak options
 2. Semi-evergreen is the mix zone between evergreen and moist deciduous.
 3. National Parks allow freer resource use than Wildlife Sanctuaries.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** NPs are stricter than WLS.
 

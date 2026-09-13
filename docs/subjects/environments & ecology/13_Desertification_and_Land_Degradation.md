@@ -399,59 +399,59 @@ D. Afforestation — primary cause of land degradation
 
 1. It is land degradation in arid, semi-arid, and dry sub-humid (ASDM) areas.
 2. It is only “the desert expanding physically.”
-3. Climate variation plus human pressure drive it.
+3. Desertification is driven only by pure geology, never by climate variation or human pressure.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 2
+B. 1 and 3
+C. Only 1
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 3.
+**Ans: C.** Only 1 is correct.
 
-**Logic:** Not merely desert expanding.
+**Logic:** Statement 1 is the UNCCD-style ASDM definition. Statement 2 is the classic trap (not merely desert expansion). Statement 3 denies climate + human drivers.
 
 </details>
 
 **Q2.** Which of the following pairs is/are correctly matched?
 
-1. Land degradation — broader productivity decline on any land
+1. Land degradation applies only inside hot deserts and never on other lands.
 2. Desertification — ASDM dryland subset
 3. Desertification — identical to all waterlogging worldwide only
 
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. Only 2
+B. 1 and 3
+C. Only 1
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: A.** Only 2 is correct.
 
-**Logic:** Degradation is broader.
+**Logic:** Statement 2 is true (desertification = ASDM subset). Statement 1 is false — land degradation is the broader productivity decline on any land. Statement 3 is false — desertification ≠ all waterlogging worldwide.
 
 </details>
 
 **Q3.** With reference to India degraded land, which of the following statements is/are correct?
 
-1. About 96.4 million ha / ~29–30% (ISRO Atlas 2016 class).
+1. About 96.4 million ha / ~29–30% (ISRO Desertification Atlas 2008 class).
 2. Rajasthan is often the worst state hotspot teaching.
 3. India has zero degraded land.
 
-A. 1, 2 and 3
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1 and 2 only
+A. Only 2
+B. 1 and 3
+C. Only 1
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2.
+**Ans: A.** Only 2 is correct.
 
-**Logic:** Statement 3 false.
+**Logic:** Statement 2 is true (Rajasthan hotspot teaching). Statement 1 uses the right magnitude but the wrong atlas year — ISRO Desertification Atlas class figure is **2016**, not 2008. Statement 3 is false.
 
 </details>
 
@@ -909,7 +909,7 @@ D. Only three
 
 </details>
 
-**Q27.** Which of the following UP-linked locks is/are correct?
+**Q27.** Which of the following UP-linked facts is/are correct?
 
 1. Chambal ravines touch MP–UP–Rajasthan teaching.
 2. Bundelkhand drought–degradation cycle.
@@ -929,7 +929,7 @@ D. 1, 2 and 3
 
 </details>
 
-**Q28.** With reference to Day locks, which of the following statements is/are correct?
+**Q28.** With reference to Day facts, which of the following statements is/are correct?
 
 1. Desertification and Drought Day — 17 June
 2. World Environment Day — 5 June

@@ -1333,19 +1333,19 @@ D. Gujarat
 
 1. Standard map teaching uses six relief divisions, keeping the Thar as a separate Pleistocene–recent sand sheet.
 2. The Peninsular Plateau is identical with the Deccan Plateau alone.
-3. The plateau is generally high in the west and low in the east.
+3. The plateau is generally high in the east and low in the west.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 3
+C. Only 2
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 3 are correct.
+**Ans: A.** Only 1 is correct.
 
-**Logic:** Deccan is only the southern tableland; Central Highlands form the northern part of the same old block.
+**Logic:** Deccan is only the southern tableland; Central Highlands form the northern part of the same old block. The plateau slopes west→east (high west, low east).
 
 </details>
 
@@ -1439,21 +1439,21 @@ D. A-2, B-1, C-3, D-4
 
 **Q6.** With reference to the Kashmir Valley, which of the following statements is/are correct?
 
-1. Pir Panjal lies to the south of the valley and Himadri to the north.
-2. Karewas are old lake-bed terraces famous for saffron.
-3. A dun is the same landform as a karewa.
+1. Pir Panjal lies to the north of the valley and Himadri to the south.
+2. A dun is the same landform as a karewa.
+3. Karewas are old lake-bed terraces famous for saffron.
 
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: B.** Only 3 is correct.
 
-**Logic:** Dun = longitudinal valley between Himachal and Shiwalik; karewa = Kashmir lacustrine terrace.
+**Logic:** Pir Panjal lies south of the Kashmir Valley and Himadri to the north. Dun is not the same as karewa.
 
 </details>
 
@@ -1475,21 +1475,21 @@ D. Satpura → Mahadeo → Maikal → Chhotanagpur
 
 **Q8.** With reference to Narmada–Satpura–Vindhya geometry, which of the following statements is/are correct?
 
-1. Vindhya lies north of the Narmada.
-2. Satpura lies south of the Narmada.
-3. Both ranges lie entirely south of the Narmada.
+1. Both ranges lie entirely south of the Narmada.
+2. Vindhya lies north of the Narmada.
+3. Satpura lies north of the Narmada.
 
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 2
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 2 are correct.
+**Ans: B.** Only 2 is correct.
 
-**Logic:** Do not reverse Vindhya/Satpura relative to Narmada.
+**Logic:** Vindhya lies north of the Narmada; Satpura lies south. Do not reverse the pair.
 
 </details>
 
@@ -1536,18 +1536,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q11.** With reference to the Tropic of Cancer in India, which of the following statements is/are correct?
 
 1. It crosses eight states from Gujarat to Mizoram.
-2. It passes through Uttar Pradesh.
-3. It does not cross Ladakh.
+2. It does not cross Ladakh.
+3. It passes through Uttar Pradesh.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. All 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 3 are correct.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** UP is not on the Tropic of Cancer list.
 
@@ -1559,15 +1559,15 @@ D. 1, 2 and 3
 2. It passes through five states including Odisha and Andhra Pradesh.
 3. IST is GMT + 6 hours 30 minutes.
 
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. Only 3
+B. 1 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** IST is GMT + 5 hours 30 minutes.
 
@@ -1606,15 +1606,15 @@ D. A-3, B-1, C-2, D-4
 2. The Malabar and Coromandel coasts are coasts of emergence.
 3. Telangana is a coastal state.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. Only 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** Telangana is inland; Gujarat has the longest state coastline.
 
@@ -1658,19 +1658,19 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q17.** With reference to island channels, which of the following statements is/are correct?
 
-1. The 10° Channel separates Andaman from Nicobar.
-2. The 9° Channel separates Minicoy from the rest of Lakshadweep.
-3. Andaman–Nicobar are largely coral; Lakshadweep is volcanic.
+1. Andaman–Nicobar are largely coral; Lakshadweep is volcanic.
+2. The 10° Channel separates Andaman from Nicobar.
+3. The 9° Channel separates Minicoy from the rest of Lakshadweep.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 3
+B. Only 2
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 2 and 3 only are correct.
 
 **Logic:** Andaman–Nicobar are largely volcanic; Lakshadweep is coral.
 
@@ -1703,15 +1703,15 @@ D. 1, 2, 3 and 4
 2. Geologically they are peninsular, not Himalayan fold ranges.
 3. Mawsynram and Cherrapunji sit on the Khasi Hills.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. All 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Do not treat Garo–Khasi–Jaintia as Himalayan fold ranges.
 
@@ -1723,15 +1723,15 @@ D. 1, 2 and 3
 2. Anaimudi is the highest peak of South India.
 3. Anaimudi lies in the Eastern Ghats of Andhra Pradesh.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Anaimudi is the hub of Anamalai–Palani–Cardamom, not Eastern Ghats AP.
 
@@ -1759,9 +1759,9 @@ D. 2 and 3 only
 
 **Q22.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): Intertrappean beds between Deccan lava flows hold land and freshwater fossils.
+Assertion (A): They are famous for marine plant and animal fossils of a shallow sea.
 
-Reason (R): They are famous for marine plant and animal fossils of a shallow sea.
+Reason (R): Intertrappean beds between Deccan lava flows hold land and freshwater fossils.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -1771,27 +1771,27 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true; (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** Intertrappean fossils are land/freshwater — not marine.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Intertrappean fossils are land/freshwater — not marine.
 
 </details>
 
 **Q23.** With reference to the Atal Tunnel, which of the following statements is/are correct?
 
-1. It runs under Rohtang in the Pir Panjal of Himachal Pradesh.
-2. The safe description is longest highway tunnel above 10,000 ft.
-3. It lies in the Eastern Ghats.
+1. It lies in the Eastern Ghats.
+2. It runs under Rohtang in the Pir Panjal of Himachal Pradesh.
+3. The safe description is longest highway tunnel above 10,000 ft.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. Only 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 2 and 3 only are correct.
 
 **Logic:** Avoid the unqualified “world’s longest” claim; location is Pir Panjal HP.
 
@@ -1826,19 +1826,19 @@ D. A-1, B-3, C-2, D-4
 
 **Q25.** With reference to Uttar Pradesh physical tags, which of the following statements is/are correct?
 
-1. UP’s highest point Amsot is a Vindhyan fringe peak, not Himalayan.
-2. The Tropic of Cancer enters eastern Uttar Pradesh.
+1. The Tropic of Cancer enters eastern Uttar Pradesh.
+2. UP’s highest point Amsot is a Vindhyan fringe peak, not Himalayan.
 3. Standard Meridian place fact for UP is Mirzapur.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. Only 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 3 are correct.
+**Ans: B.** 2 and 3 only are correct.
 
 **Logic:** Tropic of Cancer does not enter Uttar Pradesh.
 
@@ -1866,15 +1866,15 @@ D. Snowline exists only in the Eastern Himalaya
 2. Deccan Plateau and Deccan Trap are identical terms.
 3. Upper/middle/lower Intertrappean depth figures are often taught near 450 m / 1200 m / 150 m.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 3 are correct.
+**Ans: A.** 1 and 3 only are correct.
 
 **Logic:** Plateau = southern tableland; Trap = lava cover — do not treat as synonyms.
 
@@ -1906,15 +1906,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Because the Tropic of Cancer crosses the middle, India is wholly tropical.
 3. The Himalayan arc is about 2400 km from Indus gorge to Dihang gorge.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. 1 and 3
+B. Only 2
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 3 are correct.
+**Ans: A.** 1 and 3 only are correct.
 
 **Logic:** India is not wholly tropical — subtropical north matters.
 

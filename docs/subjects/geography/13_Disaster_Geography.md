@@ -1121,15 +1121,15 @@ D. Neither 1 nor 2
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1 and 3 only
-B. 1, 2 and 3
-C. 1 and 2 only
-D. 2 and 3 only
+A. Only 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only pairs 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Richter = magnitude; Mercalli = intensity/damage.
 
@@ -1199,22 +1199,22 @@ D. 4-2-1-3
 **Q6.** With reference to Indian earthquakes, which of the following statements is/are correct?
 
 1. Koyna 1967 is a reservoir-induced case.
-2. Latur 1993 (Killari) is a peninsular shock in Zone III teaching.
-3. About 59% of India’s landmass is earthquake-prone in the NDMA note.
+2. Latur 1993 (Killari) is a Himalayan thrust earthquake in Zone V only.
+3. About 5% of India’s landmass is earthquake-prone in the NDMA note.
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. 1 and 2
 B. 1, 2 and 3
-C. 2 and 3 only
-D. 1 and 3 only
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** All three statements are correct.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** Do not claim only the Himalaya shakes.
+**Logic:** Koyna 1967 is reservoir-induced. Latur is a peninsular shock. About 59% of India’s landmass is earthquake-prone — do not claim only the Himalaya shakes.
 
 </details>
 
@@ -1419,15 +1419,15 @@ D. 2015
 
 Which of the statements given above is/are correct?
 
-A. 1 and 2 only
-B. 1, 2 and 3
-C. 2 and 3 only
-D. 1 and 3 only
+A. 1 and 2
+B. Only 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** All three UP hazard statements are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Do not label all UP as Zone V.
 
@@ -1479,15 +1479,15 @@ D. Sendai Framework — 2005–15
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 1, 2 and 3
-C. 2 and 3 only
-D. 1 and 3 only
+A. Only 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** All three statements are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Ganga–Brahmaputra is the classic riverine flood belt.
 
@@ -1557,11 +1557,11 @@ D. Richter — magnitude
 
 **Q23.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): Himalaya is India’s highest seismic belt because of collision and thrust zones.
-
-Reason (R): Peninsular shocks such as Latur show that only Himalaya can shake.
+Assertion (A): Peninsular shocks such as Latur show that only Himalaya can shake.
 
 Select the correct answer from the code given below:
+
+Reason (R): Himalaya is India’s highest seismic belt because of collision and thrust zones.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -1571,9 +1571,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true; (R) is false because peninsular shocks do occur.
+**Ans: B.** A false, R true.
 
-**A/R logic:** Koyna and Latur break the “only Himalaya” myth.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Koyna and Latur break the “only Himalaya” myth.
 
 </details>
 

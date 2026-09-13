@@ -472,20 +472,20 @@ D. Marakesh (Morocco)
 **Q1.** With reference to cultural heritage categories, which of the following statements is/are correct?
 
 1. Tangible heritage is a monument or site you can touch.
-2. Intangible heritage is a living practice or skill you perform.
+2. Intangible heritage is identical with Ramsar wetland listing.
 3. Ramsar 1971 is the World Heritage Sites convention.
 
-A. 1 and 3 only
-B. 1 and 2 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: A.** Only 1 is correct.
 
-**Logic:** Ramsar is wetlands 1971. World Heritage Convention is 1972.
+**Logic:** Intangible heritage is a living practice or skill. Ramsar is wetlands 1971; World Heritage Convention is 1972.
 
 </details>
 
@@ -499,15 +499,15 @@ D. 1, 2 and 3
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1 and 2 only
-B. 1, 2 and 3
-C. 1 and 3 only
-D. 2 and 3 only
+A. 2 and 3
+B. Only 1
+C. Only 1 and 2
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** All three pairs are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** ICOMOS advises cultural sites. IUCN advises natural sites.
 
@@ -572,30 +572,30 @@ D. 1-3-2-4
 **Q6.** With reference to India’s World Heritage count teaching, which of the following statements is/are correct?
 
 1. India has 45 World Heritage Sites in the chapter tally.
-2. The split is about 37 cultural, 7 natural and 1 mixed.
+2. The split is about 20 cultural, 20 natural and 5 mixed.
 3. Cultural criteria are vii–x and natural criteria are i–vi.
 
-A. 2 and 3 only
-B. 1 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. Only 3
+B. Only 1 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: C.** Only 1 is correct.
 
-**Logic:** Cultural criteria are i–vi. Natural are vii–x.
+**Logic:** The usual teaching split is about 37 cultural, 7 natural and 1 mixed. Cultural criteria are i–vi; natural are vii–x.
 
 </details>
 
 **Q7.** Match List-I with List-II and select the correct answer using the code given below the Lists.
 
 **List-I (UP WHS)**
-A. 1 3 2 4
-B. 1 2 3 4
-C. 2 1 3 4
-D. 1 2 4 3
+A. Taj Mahal
+B. Agra Fort
+C. Fatehpur Sikri
+D. Sarnath
 
 **List-II (Year)**
 1. 1983
@@ -625,15 +625,15 @@ D. 1 2 4 3
 2. Vedic chanting was proclaimed in 2003 and Ramlila in 2005.
 3. All three entered the Representative List in 2008.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. Only 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Masterpiece years are not the same as the common 2008 Representative List year.
 
@@ -680,18 +680,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q11.** With reference to heritage lists, which of the following statements is/are correct?
 
 1. Tentative List is India’s proposed pipeline.
-2. Inscribed List is the official World Heritage roll.
-3. Representative List and Urgent Safeguarding List are identical ICH lists.
+2. Representative List and Urgent Safeguarding List are identical ICH lists.
+3. Inscribed List is the official World Heritage roll.
 
-A. 1 and 3 only
-B. 1 and 2 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. 1 and 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 3 only are correct.
 
 **Logic:** Urgent Safeguarding is for endangered ICH needing emergency action.
 
@@ -707,15 +707,15 @@ D. 1, 2 and 3
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three pairs are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Convention order: Ramsar 1971, WH 1972, ICH 2003, India ICH 2005.
 
@@ -754,20 +754,20 @@ D. 2 4 1 3
 **Q14.** With reference to UP heritage that is NOT World Heritage, which of the following statements is/are correct?
 
 1. Lucknow’s Imambara is not a WHS.
-2. Lucknow’s Residency is not a WHS.
+2. Lucknow’s Residency has been a WHS since 1983 like the Taj.
 3. Taj Mahal is not a WHS.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. All 1, 2 and 3
+C. 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: A.** Only 1 is correct.
 
-**Logic:** Taj Mahal has been a WHS since 1983.
+**Logic:** Lucknow’s Residency is not a WHS. Taj Mahal has been a WHS since 1983.
 
 </details>
 
@@ -796,19 +796,19 @@ D. 2-1-3-4
 
 **Q16.** With reference to Ramlila and Taj Mahal, which of the following statements is/are correct?
 
-1. Ramlila is intangible performance heritage (Representative List path culminating in 2008).
-2. Taj Mahal is tangible tomb heritage from 1983.
-3. Ramlila is a tangible monument inscription of 1983.
+1. Ramlila is a tangible monument inscription of 1983.
+2. Ramlila is intangible performance heritage (Representative List path culminating in 2008).
+3. Taj Mahal is tangible tomb heritage from 1983.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
+A. 1 and 2
+B. 2 and 3
+C. 1 and 3
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 2 and 3 only are correct.
 
 **Logic:** Papers love swapping intangible Ramlila with tangible Taj.
 
@@ -853,15 +853,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. IUCN advises on natural sites.
 3. OUV is required for World Heritage inscription.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. All 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Outstanding Universal Value is the WHC core test.
 
@@ -877,15 +877,15 @@ D. 1, 2 and 3
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1 and 3
+C. All 1, 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three pairs are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Kumbh includes Prayagraj among the four bathing sites.
 
@@ -924,18 +924,18 @@ D. 2 4 1 3
 **Q22.** With reference to recent inscriptions, which of the following statements is/are correct?
 
 1. Santiniketan and Hoysala were 2023 inscriptions.
-2. Dholavira and Ramappa were 2021 inscriptions.
-3. Sarnath WHS creates a new sculpture school unknown before 2026.
+2. Sarnath WHS creates a new sculpture school unknown before 2026.
+3. Dholavira and Ramappa were 2021 inscriptions.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 2
+B. 2 and 3
+C. Only 1
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 3 only are correct.
 
 **Logic:** Sarnath inscription strengthens the site fact. It does not invent a new school.
 
@@ -959,19 +959,19 @@ D. Inscribed List — official World Heritage roll
 
 **Q24.** With reference to India ICH count, which of the following statements is/are correct?
 
-1. India has 16 UNESCO ICH elements in the chapter tally.
-2. Deepavali entered on 10 December 2025 as the 16th element teaching.
-3. Deepavali is a monument World Heritage inscription of Agra.
+1. Deepavali is a monument World Heritage inscription of Agra.
+2. India has 16 UNESCO ICH elements in the chapter tally.
+3. Deepavali entered on 10 December 2025 as the 16th element teaching.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 2 and 3 only are correct.
 
 **Logic:** Deepavali is intangible festival heritage.
 
@@ -1000,15 +1000,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Sanchi and Bhimbetka are outside UP.
 3. Keoladeo is outside UP.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1, 2 and 3
+B. Only 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Qutub is Delhi. Keep UP’s four WHS clear.
 
@@ -1017,18 +1017,18 @@ D. 1, 2 and 3
 **Q27.** Consider the following statements:
 
 1. Ramlila (2008 path) is UP-centred ICH performance.
-2. Kumbh (2017) includes Prayagraj among four bathing sites.
-3. Nautanki is a named UNESCO ICH element of Lucknow.
+2. Nautanki is a named UNESCO ICH element of Lucknow.
+3. Kumbh (2017) includes Prayagraj among four bathing sites.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. 1 and 3
+B. Only 2
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: A.** 1 and 3 only are correct.
 
 **Logic:** Nautanki is not a named UNESCO ICH element.
 
@@ -1040,15 +1040,15 @@ D. 1, 2 and 3
 2. Natural WHS — criteria vii–x
 3. Mixed WHS — both sets; India has one
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
+A. Only 1 and 2
+B. 2 and 3
+C. 1 and 3
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Khangchendzonga is India’s only mixed site.
 
@@ -1056,19 +1056,19 @@ D. 1, 2 and 3
 
 **Q29.** With reference to AMASR and antiquities law, which of the following statements is/are correct?
 
-1. ASI protects monuments under AMASR 1958.
-2. Antiquities and Art Treasures Act 1972 covers movable heritage concerns such as smuggling.
-3. Every ASI-protected monument is a UNESCO WHS.
+1. Every ASI-protected monument is a UNESCO WHS.
+2. ASI protects monuments under AMASR 1958.
+3. Antiquities and Art Treasures Act 1972 covers movable heritage concerns such as smuggling.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
+A. Only 2 and 3
+B. Only 1
+C. 1 and 2
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: A.** 2 and 3 only are correct.
 
 **Logic:** ASI badge is national protection, not UNESCO.
 

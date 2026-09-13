@@ -1903,22 +1903,20 @@ October as the International Day of Non-Violence.
 **Q1.** With reference to Panchsheel and Bandung, which of the following statements is/are correct?
 
 1. Panchsheel was signed on 29 April 1954 in the India–China Tibet trade agreement.
-2. Bandung 1955 was the first NAM summit.
-3. Bandung echoed the five principles at the Afro-Asian conference.
+2. NAM was founded as a military alliance under NATO command.
+3. Bandung rejected the five principles and opposed Afro-Asian cooperation.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 3 are correct.
+**Ans: A.** Only 1 is correct.
 
-**Logic:** First NAM summit is Belgrade 1961; Bandung is the mood, not NAM itself.
+**Logic:** Panchsheel was signed on 29 April 1954 in the India–China Tibet trade agreement. Bandung 1955 was not the first NAM summit (Belgrade 1961). Bandung echoed the five principles at the Afro-Asian conference.
 
 </details>
 
@@ -2009,43 +2007,39 @@ D. 1–2–4–3
 </details>
 **Q6.** With reference to the UN Security Council, which of the following is/are correct?
 
-1. UNSC has 15 members: P5 plus 10 elected for two years.
-2. A P5 abstention is always a veto that kills a substantive draft.
-3. India has been elected eight times; last term 2021–22.
+1. UNSC permanent members exclude China and include only European powers.
+2. India has been elected eight times; last term 2021–22.
+3. India has never been elected to the UNSC and has no non-permanent terms.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 2
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 3 are correct.
+**Ans: B.** Only 2 is correct.
 
-**Logic:** Abstention is not a veto; the draft can still pass.
+**Logic:** UNSC has 15 members: P5 (including China) plus 10 elected for two years. A P5 abstention is not a veto. India has been elected eight times; last term 2021–22.
 
 </details>
 
 **Q7.** With reference to SAARC, ASEAN and BIMSTEC, which of the following statements is/are correct?
 
-1. SAARC has eight members and includes Pakistan and Maldives; HQ Kathmandu.
-2. ASEAN has ten members; India is a member.
+1. ASEAN has ten members; India is a member.
+2. SAARC has eight members and includes Pakistan and Maldives; HQ Kathmandu.
 3. BIMSTEC has seven members and does not include Indonesia, Pakistan, China or Maldives.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 3
+C. Only 2
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 3 are correct.
+**Ans: D.** 2 and 3 only are correct.
 
 **Logic:** India is not an ASEAN member; BIMSTEC is the Bay of Bengal club without Indonesia.
 
@@ -2091,20 +2085,18 @@ D. AU — admitted as G20 member from 2023
 **Q10.** With reference to SCO, which of the following is/are correct?
 
 1. Shanghai Five (1996) were China, Russia, Kazakhstan, Kyrgyzstan and Tajikistan — without Uzbekistan.
-2. India and Pakistan joined in 2017; Iran in 2023.
-3. RATS is in Beijing; the Secretariat is in Tashkent.
+2. RATS is in Beijing; the Secretariat is in Tashkent.
+3. India and Pakistan joined in 2017; Iran in 2023.
 
-Select the correct answer from the code given below:
-
-A. 1, 2 and 3
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1 and 2 only
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 3 only are correct.
 
 **Logic:** RATS is in Tashkent; Secretariat is in Beijing — statement 3 swaps them.
 
@@ -2115,17 +2107,15 @@ D. 1 and 2 only
 2. Foundational pacts include GSOMIA 2002, LEMOA 2016, COMCASA 2018 and BECA 2020.
 3. LEMOA creates a permanent US military base in India.
 
-Select the correct answer from the code given below:
-
-A. 1, 2 and 3
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1 and 2 only
+A. Only 2 and 3
+B. Only 1
+C. 1 and 2
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** LEMOA is logistics access, not a base treaty / NATO membership.
 
@@ -2181,11 +2171,11 @@ D. II–III–I–IV
 
 **Q14.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): Uniting for Peace (GA Res 377(V), 1950) lets the General Assembly recommend action if a veto paralyses the Security Council.
-
-Reason (R): Uniting for Peace confers a veto on India as a G4 member.
+Assertion (A): Uniting for Peace confers a veto on India as a G4 member.
 
 Select the correct answer from the code given below:
+
+Reason (R): Uniting for Peace (GA Res 377(V), 1950) lets the General Assembly recommend action if a veto paralyses the Security Council.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -2195,9 +2185,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true; (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** 377(V) is a GA recommendatory path — not an Indian veto.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. 377(V) is a GA recommendatory path — not an Indian veto.
 
 </details>
 
@@ -2240,21 +2230,19 @@ D. Collective defence — UN Chapter VII idea; collective security — NATO Arti
 
 **Q17.** With reference to India’s membership map, which of the following statements is/are correct?
 
-1. India is out of APEC and OECD.
-2. India is not a G7 member (guest only).
-3. India is a member of OIC.
+1. India is a member of OIC.
+2. India is out of APEC and OECD.
+3. India is not a G7 member (guest only).
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. Only 1 and 2
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: A.** 2 and 3 only are correct.
 
 **Logic:** India is not an OIC member (guest appearance ≠ membership).
 
@@ -2262,11 +2250,11 @@ D. 1, 2 and 3
 
 **Q18.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): BIMSTEC’s fifth summit (Colombo, 2022) was chaired by Sri Lanka.
-
-Reason (R): Indonesia is a BIMSTEC member.
+Assertion (A): Indonesia is a BIMSTEC member.
 
 Select the correct answer from the code given below:
+
+Reason (R): BIMSTEC’s fifth summit (Colombo, 2022) was chaired by Sri Lanka.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -2276,29 +2264,27 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true; (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** Chair = Sri Lanka is correct; Indonesia is ASEAN, not BIMSTEC.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Chair = Sri Lanka is correct; Indonesia is ASEAN, not BIMSTEC.
 
 </details>
 
 **Q19.** With reference to ICJ and ICC, which of the following is/are correct?
 
 1. ICJ is a UN principal organ at The Hague with 15 judges for nine-year terms.
-2. India is a party to the Rome Statute ICC.
-3. The Jadhav matter is an ICJ case track in teaching, not an ICC matter.
+2. The Jadhav matter is an ICJ case track in teaching, not an ICC matter.
+3. India is a party to the Rome Statute ICC.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 3 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** India is not a party to the Rome Statute.
 
@@ -2391,11 +2377,11 @@ D. Neither 1 nor 2
 
 **Q24.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): India walked out of RCEP in November 2019.
-
-Reason (R): Walking out of RCEP repealed India’s Act East policy.
+Assertion (A): Walking out of RCEP repealed India’s Act East policy.
 
 Select the correct answer from the code given below:
+
+Reason (R): India walked out of RCEP in November 2019.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -2405,29 +2391,27 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true; (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** RCEP walkout is a trade choice; Act East continues as outreach framing.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. RCEP walkout is a trade choice; Act East continues as outreach framing.
 
 </details>
 
 **Q25.** With reference to NATO membership after Finland and Sweden, which of the following is/are correct?
 
 1. Finland joined in 2023 and Sweden in 2024.
-2. Membership count becomes 32 in that teaching frame.
-3. India is a NATO member through QUAD.
+2. India is a NATO member through QUAD.
+3. Membership count becomes 32 in that teaching frame.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. Only 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 3 only are correct.
 
 **Logic:** QUAD dialogue ≠ NATO membership.
 
@@ -2495,10 +2479,10 @@ D. I–II–IV–III
 
 **Q29.** With reference to BRICS 2024 expansion, which of the following is/are correct?
 
-1. Expansion brought in Egypt, Ethiopia, Iran and UAE (Saudi invited).
-2. Expansion converts BRICS into a UN principal organ.
+1. Expansion converts BRICS into a UN principal organ.
 
 Select the correct answer from the code given below:
+2. Expansion brought in Egypt, Ethiopia, Iran and UAE (Saudi invited).
 
 A. Only 1
 B. Only 2
@@ -2508,7 +2492,7 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 is correct.
+**Ans: B.** Only 2 is correct.
 
 **Logic:** BRICS remains a grouping — not a UN organ.
 

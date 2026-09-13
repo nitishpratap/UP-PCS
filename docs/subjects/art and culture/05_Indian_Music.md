@@ -510,23 +510,21 @@ D. Muzaffar Shah of Gujarat
 
 **Q1.** With reference to the meaning of sangeet and early theory, which of the following statements is/are correct?
 
-1. Sangeet means gita + vadya + nritya.
-2. The earliest chant fact is the Samaveda.
-3. The first clear use of the word raga is in Bharata’s Natyashastra alone, with no later treatise role.
+1. The first clear use of the word raga is in Bharata’s Natyashastra alone, with no later treatise role.
+2. Sangeet means gita + vadya + nritya.
+3. The earliest chant fact is the Atharvaveda alone, not the Samaveda.
 
-Select the correct answer from the code given below:
-
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2
+B. Only 2 and 3
+C. Only 1
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: A.** Only 2 is correct.
 
-**Logic:** Natyashastra is foundational, but the first clear use of raga is linked with Matanga’s Brihaddeshi.
+**Logic:** The first clear use of raga is linked with Matanga’s Brihaddeshi. The earliest chant fact is the Samaveda.
 
 </details>
 
@@ -558,22 +556,20 @@ D. 1, 2, 3 and 4
 **Q3.** With reference to Hindustani and Carnatic systems, which of the following statements is/are correct?
 
 1. Hindustani centres on khayal / dhrupad with gharanas.
-2. Carnatic centres on kriti and 72 melakarta with mridangam.
+2. Carnatic centres on khayal gharanas with tabla as the main drum.
 3. Tabla is the primary Carnatic drum while mridangam is the primary Hindustani drum.
 
-Select the correct answer from the code given below:
-
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. 1 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: C.** Only 1 is correct.
 
-**Logic:** Mridangam is Carnatic. Tabla pairs with Hindustani khayal / thumri.
+**Logic:** Carnatic centres on kriti and 72 melakarta with mridangam. Tabla pairs with Hindustani; mridangam with Carnatic.
 
 </details>
 
@@ -732,22 +728,22 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q11.** With reference to raga and tala, which of the following statements is/are correct?
 
 1. A raga is a melody framework.
-2. A tala is a beat-cycle.
-3. Teental is 16 beats and Carnatic Adi tala is 8.
+2. A tala is a melody framework identical with raga.
+3. Teental is 8 beats and Carnatic Adi tala is 16.
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. Only 1 and 2
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Do not reverse raga and tala.
+**Logic:** A tala is a beat-cycle, not a melody framework. Teental is 16 beats; Carnatic Adi tala is 8.
 
 </details>
 
@@ -837,17 +833,15 @@ D. Kirana — Tyagaraja as gharana founder in Tamil Nadu
 2. Manipuri Sankirtana is UNESCO ICH 2013.
 3. Tansen Samaroh at Gwalior is itself a UNESCO ICH listing.
 
-Select the correct answer from the code given below:
-
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 3
+B. Only 1
+C. Only 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Tansen Samaroh is a Gwalior festival fact, not an ICH listing in this spine.
 
@@ -921,15 +915,15 @@ D. Founded in 1985 as a Ministry of External Affairs body
 
 Which of the statements given above are correct?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. All 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** These are high-yield UP music geography tags.
 
@@ -957,17 +951,15 @@ D. Shehnai — Carnatic kriti drum substitute
 2. He was earlier associated with the court of Raja Ramchandra of Bhata / Rewa.
 3. He is counted in the Carnatic Trinity.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. Only 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Tansen is Hindustani, not Carnatic Trinity.
 
@@ -991,9 +983,9 @@ D. Melakarta is identical with the 22 shrutis
 
 **Q24.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): Gharana is a performance school lineage in Hindustani music.
+Assertion (A): A raga is itself a gharana name for every north Indian musician.
 
-Reason (R): A raga is itself a gharana name for every north Indian musician.
+Reason (R): Gharana is a performance school lineage in Hindustani music.
 
 Select the correct answer from the code given below:
 
@@ -1005,9 +997,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true. (R) is false because raga is a melodic framework, not a gharana.
+**Ans: B.** A false, R true.
 
-**A/R logic:** Gharana vs raga is a standard confused pair.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Gharana vs raga is a standard confused pair.
 
 </details>
 
@@ -1035,20 +1027,18 @@ D. Neither 1 nor 2
 **Q26.** Consider the following statements:
 
 1. Amir Khusrau is linked with qawwali / tarana at Nizamuddin’s circle.
-2. Tansen is linked with Akbar’s dhrupad court culture.
-3. Both belong to the Carnatic Trinity.
+2. Both belong to the Carnatic Trinity.
+3. Tansen is linked with Akbar’s dhrupad court culture.
 
-Which of the statements given above is/are correct?
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2
+B. 2 and 3
+C. Only 1
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 3 only are correct.
 
 **Logic:** Neither Khusrau nor Tansen is Carnatic Trinity.
 

@@ -582,20 +582,20 @@ D. peaks at mid-latitudes only
 **Q1.** With reference to biomes, which of the following statements is/are correct?
 
 1. Large climate-defined vegetation–fauna regions.
-2. Ecosystem is a local biotic–abiotic functional unit.
+2. Ecosystem means only a continent-scale climate zone identical to a biome.
 3. Biome and ecosystem are identical terms always.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: A.** Only 1 is correct.
 
-**Logic:** Do not treat as identical.
+**Logic:** Statement 1 is true (biome = large climate-defined region). Statement 2 is false — ecosystem is the local biotic–abiotic functional unit. Statement 3 is false — biome ≠ ecosystem always.
 
 </details>
 
@@ -869,7 +869,7 @@ D. 1 and 2 only
 
 </details>
 
-**Q15.** How many of the following desert locks are correct?
+**Q15.** How many of the following desert facts are correct?
 
 Sahara largest hot; Atacama driest neighbourhood; Gobi Mongolia–China
 
@@ -1057,7 +1057,7 @@ D. Amazon equatorial rainforest name
 
 **Ans: D.** Amazon rainforest name.
 
-**Logic:** Selva lock.
+**Logic:** Selva fact.
 
 </details>
 
@@ -1083,7 +1083,7 @@ D. 1, 2 and 3
 
 **Q26.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): Eskimo–northern Canada is a standard tribe–region lock.
+Assertion (A): Eskimo–northern Canada is a standard tribe–region fact.
 
 Reason (R): Masai are West African rainforest pygmies.
 
@@ -1157,7 +1157,7 @@ D. Among the driest deserts
 
 **Ans: D.** Among the driest.
 
-**Logic:** Atacama lock.
+**Logic:** Atacama fact.
 
 </details>
 
@@ -1173,7 +1173,7 @@ D. Coral atoll only
 
 **Ans: A.** Hungary grassland.
 
-**Logic:** Puszta lock.
+**Logic:** Puszta fact.
 
 </details>
 

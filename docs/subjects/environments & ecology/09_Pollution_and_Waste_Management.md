@@ -894,43 +894,42 @@ D. All diseases = only SO₂ smell
 **Q1.** With reference to pollution vs degradation, which of the following statements is/are correct?
 
 1. Pollution is harmful addition beyond absorption capacity.
-2. Degradation is the broader fall in environmental quality/productivity.
+2. Degradation means a rise in environmental quality and productivity.
 3. The two terms are identical in all Prelims keys.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. Only 1
+C. 1 and 2
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Not identical.
+**Logic:** Statement 1 is true. Statement 2 is false — degradation is decline in quality/productivity, not a rise. Statement 3 is false — pollution and degradation are related but not identical.
 
 </details>
 
 **Q2.** Which of the following pairs is/are correctly matched?
 
-1. Primary pollutant — emitted directly (SO₂, PM, CO, NOx, lead)
+1. Secondary pollutant — emitted directly (SO₂, PM, CO, NOx, lead)
 2. Secondary pollutant — formed in air (O₃, PAN, acid rain)
 3. CO₂ — one of India’s AQI eight pollutants
 
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. 2 and 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: D.** Only 2 is correct.
 
-**Logic:** AQI eight exclude CO₂/CH₄.
+**Logic:** Statement 2 correctly defines secondary pollutants (formed in air). Statement 1 mislabels primary pollutants as secondary. Statement 3 is false — CO₂ is not among India’s AQI eight.
 
 </details>
-
 **Q3.** Arrange the law years in correct order:
 
 1. Water Act
@@ -1000,19 +999,19 @@ D. A-3, B-1, C-2
 
 1. Eight pollutants: PM10, PM2.5, NO₂, CO, O₃, SO₂, NH₃, Pb.
 2. CO₂ and CH₄ are included in the eight.
-3. Bands run from Good (0–50) toward Severe (401–500).
+3. AQI bands run from Severe (0–50) toward Good (401–500).
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 3.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** CO₂/CH₄ are climate gases — not AQI eight.
+**Logic:** Statement 1 lists the eight AQI pollutants correctly. Statement 2 is false — CO₂ and CH₄ are not among the eight. Statement 3 reverses Good/Severe bands.
 
 </details>
 
@@ -1052,7 +1051,7 @@ D. 1, 2 and 3
 
 **Ans: D.** All three.
 
-**Logic:** Classic CO/lead locks.
+**Logic:** Classic CO/lead facts.
 
 </details>
 
@@ -1072,7 +1071,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Ans: A.** Both true; radon indoor fact does not explain lichen SO₂ sensitivity.
 
-**A/R logic:** Two separate air-pollution locks.
+**A/R logic:** Two separate air-pollution facts.
 
 </details>
 

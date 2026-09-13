@@ -5499,15 +5499,15 @@ D. Only 1
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. Only 2 and 3
+B. Only 1 and 3
+C. Only 1, 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three pairs are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Keep 24 April (73rd/PR Day), 1 June (74th), and 2 Oct 1959 (Nagaur) separate.
 
@@ -5535,9 +5535,9 @@ D. 1, 2 and 3
 
 **Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): The intermediate Panchayat tier is optional if a State’s population is 20 lakh or less.
+Assertion (A): Article 243B requires village, intermediate, and district tiers in every State without exception.
 
-Reason (R): Article 243B requires village, intermediate, and district tiers in every State without exception.
+Reason (R): The intermediate Panchayat tier is optional if a State’s population is 20 lakh or less.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -5547,9 +5547,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true, but (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** 243B allows skipping the intermediate tier when population ≤20 lakh.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. 243B allows skipping the intermediate tier when population ≤20 lakh.
 
 </details>
 
@@ -5603,8 +5603,8 @@ D. 3-4-1-2
 
 **Q7.** With reference to the Gram Sabha, which of the following statements is/are correct?
 
-1. It consists of persons registered in the electoral roll of the village Panchayat.
-2. Its powers are fixed directly and exhaustively in the Constitution, not by State law.
+1. Its powers are fixed directly and exhaustively in the Constitution, not by State law.
+2. It consists of persons registered in the electoral roll of the village Panchayat.
 
 A. Both 1 and 2
 B. Only 2
@@ -5614,7 +5614,7 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 is correct.
+**Ans: B.** Only 2 is correct.
 
 **Logic:** 243A = electoral-roll voters; powers depend on State law.
 
@@ -5622,21 +5622,21 @@ D. Only 1
 
 **Q8.** Consider the following statements about reservation in Panchayats under Article 243D:
 
-1. Women must get at least one-third of total seats and of SC/ST seats.
-2. A State law providing 50% seats for women violates the Constitution.
-3. OBC reservation in Panchayats is optional for the State.
+1. A State law providing 50% seats for women violates the Constitution.
+2. Women must get at least one-third of total seats and of SC/ST seats.
+3. OBC reservation in Panchayats is mandatory for every State under Article 243D.
 
-A. 1 and 3 only
-B. 1 and 2 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 2
+B. 2 and 3
+C. Only 1
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 3 are correct.
+**Ans: A.** Only 2 is correct.
 
-**Logic:** Constitutional floor is 1/3; 50% (as in UP) is permitted by State law.
+**Logic:** Constitutional floor for women is one-third; 50% by State law is permitted. OBC reservation in Panchayats is optional for the State.
 
 </details>
 
@@ -5644,19 +5644,19 @@ D. 1, 2 and 3
 
 1. Term is five years from the first meeting.
 2. If dissolved early, the new body always gets a fresh full five-year term.
-3. Minimum age for a member is 21 years.
+3. Minimum age for a Panchayat member is 25 years like Lok Sabha.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. 1 and 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 3 are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** After early dissolution, the new body serves only the remainder of the term.
+**Logic:** Term is five years from the first meeting. After early dissolution, the new body serves only the remainder. Minimum age is 21.
 
 </details>
 
@@ -5706,15 +5706,15 @@ D. None
 2. At least four-fifths of members must be elected.
 3. It is identical in function to the Zila Panchayat.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** DPC is a planning body under 243ZD — not the Zila Panchayat itself.
 
@@ -5722,8 +5722,8 @@ D. 1, 2 and 3
 
 **Q13.** Which of the following statements about PESA, 1996 is/are correct?
 
-1. It extends Part IX to Fifth Schedule areas with Gram Sabha centrality.
-2. It is the direct constitutional route for Sixth Schedule Autonomous District Councils.
+1. It is the direct constitutional route for Sixth Schedule Autonomous District Councils.
+2. It extends Part IX to Fifth Schedule areas with Gram Sabha centrality.
 
 A. Only 1
 B. Only 2
@@ -5733,7 +5733,7 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 is correct.
+**Ans: B.** Only 2 is correct.
 
 **Logic:** PESA covers Fifth Schedule areas; Sixth Schedule has its own ADC framework.
 
@@ -5742,18 +5742,18 @@ D. Neither 1 nor 2
 **Q14.** With reference to urban local bodies under the 74th Amendment, which of the following is/are correct?
 
 1. Article 243Q lists Nagar Panchayat, Municipal Council, and Municipal Corporation.
-2. A Ward Committee is mandatory where population is 3 lakh or more.
-3. Metropolitan Planning Committee needs at least four-fifths elected members.
+2. Metropolitan Planning Committee needs at least four-fifths elected members.
+3. A Ward Committee is mandatory where population is 3 lakh or more.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2
+B. Only 2 and 3
+C. Only 1
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 3 only are correct.
 
 **Logic:** MPC elected share is at least two-thirds — DPC uses four-fifths.
 
@@ -5767,15 +5767,15 @@ D. 1, 2 and 3
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. All 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three pairs are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Cantonment ≠ 74th municipality; NAC is nominated; Nagar Panchayat is elected.
 
@@ -5827,15 +5827,15 @@ D. 1, 2 and 3
 2. In 2021 the Supreme Court held Part IXB inoperative for State cooperatives.
 3. The Fundamental Right to form cooperatives was extinguished in 2021.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** FR to form cooperatives under 19(1)(c) still stands.
 
@@ -5847,15 +5847,15 @@ D. 1, 2 and 3
 2. The State decides the manner of choosing chairpersons.
 3. Property tax is typically the main own municipal tax.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. 1, 2 and 3
+B. Only 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Direct election of members + State choice of chairperson method + property tax fact.
 
@@ -5892,15 +5892,15 @@ D. A-2, B-3, C-1, D-4
 2. State law provides 50% reservation for women in Panchayats.
 3. Urban labels include Nagar Nigam, Nagar Palika Parishad, and Nagar Panchayat.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** UP vocabulary + 50% women by State law + urban nomenclature.
 
@@ -5948,9 +5948,9 @@ D. Neither 1 nor 2
 
 **Q24.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): A Development Authority is ordinarily not an elected municipality under Part IXA.
+Assertion (A): Town-planning powers in practice always convert a Development Authority into a 243Q Municipal Corporation.
 
-Reason (R): Town-planning powers in practice always convert a Development Authority into a 243Q Municipal Corporation.
+Reason (R): A Development Authority is ordinarily not an elected municipality under Part IXA.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -5960,9 +5960,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true, but (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** Development Authorities are usually not elected 74th bodies even if they hold planning powers.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Development Authorities are usually not elected 74th bodies even if they hold planning powers.
 
 </details>
 
@@ -5987,19 +5987,19 @@ D. Neither 1 nor 2
 
 **Q26.** Consider the following statements about urban member qualifications:
 
-1. Minimum age for a municipal member is 25 years.
-2. Women reservation under 243T is at least one-third.
-3. Municipal term is five years.
+1. Women reservation under 243T is at least one-third.
+2. Municipal term is five years.
+3. Minimum age for a municipal member is 25 years.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. 1 and 2
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 2 and 3 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Local body age is 21 (243V), not 25.
 
@@ -6007,19 +6007,19 @@ D. 1, 2 and 3
 
 **Q27.** Which of the following pairs is/are correctly matched?
 
-1. G.V.K. Rao Committee — district as planning unit
-2. Thungon Committee — constitutional status; three tiers; five-year term
-3. Ashok Mehta — classic three-tier recommendation
+1. Ashok Mehta — classic three-tier recommendation
+2. G.V.K. Rao Committee — district as planning unit
+3. Thungon Committee — constitutional status; three tiers; five-year term
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 3
+C. Only 2
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 2 and 3 only are correct.
 
 **Logic:** Ashok Mehta recommended two-tier, not three-tier.
 

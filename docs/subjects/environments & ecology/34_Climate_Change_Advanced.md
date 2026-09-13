@@ -665,24 +665,23 @@ D. Net zero 2070; NAPCC 2023
 
 **Q1.** With reference to climate change vs warming, which of the following statements is/are correct?
 
-1. Climate change = long-term shift in temperature, rainfall, extremes.
+1. Climate change means only a one-day weather anomaly.
 2. Global warming = temperature-rise part only.
 3. Both terms are identical always.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. 2 and 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: D.** Only 2 is correct.
 
-**Logic:** Warming ⊂ climate change.
+**Logic:** Statement 2 correctly narrows global warming to the temperature-rise component. Statement 1 is false — climate change is a long-term shift in temperature, rainfall, and extremes. Statement 3 wrongly treats the terms as always identical.
 
 </details>
-
 **Q2.** Match List-I with List-II:
 
 | List-I | List-II |
@@ -709,21 +708,21 @@ D. A-3, B-1, C-2
 
 **Q3.** Which of the following pairs is/are correctly matched?
 
-1. Main GHGs — CO₂, CH₄, N₂O, F-gases
+1. The main GHGs exclude CO₂, CH₄, N₂O and F-gases.
 2. Argon — greenhouse gas
 3. N₂ gas — not a greenhouse gas; N₂O is
 
-A. 1, 2 and 3
-B. 1 and 2 only
-C. 2 and 3 only
-D. 1 and 3 only
+A. 1 and 2
+B. Only 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 3.
+**Ans: B.** Only 3 is correct.
 
-**Logic:** Argon not GHG; N₂ ≠ N₂O.
+**Logic:** Statement 3 is true (N₂ ≠ GHG; N₂O is). Statement 1 wrongly excludes the main GHGs. Statement 2 is false — argon is not a GHG.
 
 </details>
 
@@ -940,7 +939,7 @@ D. Earth would be about −18°C
 
 </details>
 
-**Q15.** How many of the following institution locks are correct?
+**Q15.** How many of the following institution facts are correct?
 
 GCF Cancun 2010; CDM/CERs Kyoto; GHG Protocol WRI+WBCSD; Earth Hour WWF
 
@@ -1054,7 +1053,7 @@ D. Only argon-driven
 
 **Ans: A.** ~1.1°C; human-dominant.
 
-**Logic:** AR6 lock.
+**Logic:** AR6 fact.
 
 </details>
 
@@ -1129,7 +1128,7 @@ D. UNEP-linked building-operation carbon footprints
 
 **Ans: D.** Building carbon metric.
 
-**Logic:** CCM lock.
+**Logic:** CCM fact.
 
 </details>
 

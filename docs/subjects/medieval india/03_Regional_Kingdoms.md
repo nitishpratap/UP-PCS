@@ -1396,15 +1396,15 @@ D. Akbar
 2. Malik Sarwar made it independent about 1394.
 3. Ibrahim Shah made it Siraj / Shiraz-i-Hind.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. 1 and 2
+B. 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** City foundation vs Sharqi independence are separate facts.
 
@@ -1504,15 +1504,15 @@ D. 1 and 2 only
 2. Krishnadevaraya (1509–1529) belonged to the Tuluva house.
 3. Krishnadevaraya wrote Amuktamalyada.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. Only 1
+B. 1 and 2
+C. All 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** He also patronised the Ashtadiggajas; Manucharitramu is Allasani Peddana’s work.
 
@@ -1524,15 +1524,15 @@ D. 1 and 3 only
 2. Mahmud Gawan organised eight tarafs.
 3. Gawan was executed in 1481.
 
-A. 1 and 2 only
-B. 1, 2 and 3
-C. 1 and 3 only
-D. 2 and 3 only
+A. Only 1
+B. Only 1 and 2
+C. 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** All three are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** After 1518 Bahmani split into five Deccan Sultanates.
 
@@ -1591,15 +1591,15 @@ D. A-3, B-1, C-2, D-4
 2. He abolished jaziya and cow slaughter and restored temples.
 3. Sriya Bhatt was his Hindu minister; Zaina Lanka stood on Wular Lake.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. Only 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Contrast with Sikandar Shah’s temple-destruction phase.
 
@@ -1627,15 +1627,15 @@ D. Lal Darwaza Masjid — Sharqi Jaunpur
 2. Abul Hasan Qutb Shah of Golkonda fell to Aurangzeb in 1687.
 3. Charminar belongs to Qutb Shahi Hyderabad.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. Only 2 and 3
+B. Only 1
+C. Only 1 and 2
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Vitthala Temple is Vijayanagara Hampi — not Qutb Shahi.
 
@@ -1643,21 +1643,24 @@ D. 1 and 3 only
 
 **Q13.** Consider the following statements:
 
-1. Nayankara / amara is Vijayanagara nayaka grant practice.
+1. Nayankara / amara is identical with Delhi Sultanate iqta practice.
 2. Nayankara is identical with Delhi Sultanate iqta.
 3. Mahanavami was a major Vijayanagara festival.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+
+B. 2 and 3
+
+C. Only 3
+
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 3 are correct.
+**Ans: C.** Only 3 is correct.
 
-**Logic:** Do not equate Nayankara with Sultanate iqta.
+**Logic:** Stmt 1 false: Nayankara is Vijayanagara nayaka grant practice — do not equate with iqta. Stmt 2 remains false for the same trap.
 
 </details>
 
@@ -1708,15 +1711,15 @@ D. 2–4–3–1
 2. Malik Muhammad Jaisi composed Padmavat in the Jaunpur cultural circle.
 3. Last Sharqi Hussain Shah fell to Bahlul Lodi.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. Only 1
+B. Only 1 and 2
+C. All 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Annexation keys are often given as 1479/1484.
 
@@ -1755,15 +1758,15 @@ D. A-3, B-1, C-2, D-4
 2. Mahmud Begada took Champaner and Girnar.
 3. Bahadur Shah conceded Diu to the Portuguese.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. All 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Keep Gujarat narrative Mirat-e-Sikandari distinct from Ahmadnagar’s Burhan-e-Masir.
 
@@ -1787,9 +1790,9 @@ D. Harihara–Bukka — Bahmani founders at Gulbarga
 
 **Q20.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): After 1518 the Bahmani kingdom split into five Deccan Sultanates.
+Assertion (A): Mahmud Gawan’s execution in 1481 immediately created the five sultanates the same year.
 
-Reason (R): Mahmud Gawan’s execution in 1481 immediately created the five sultanates the same year.
+Reason (R): After 1518 the Bahmani kingdom split into five Deccan Sultanates.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -1799,27 +1802,27 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true, but (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** Gawan’s 1481 death weakened Bahmani; the fivefold split is dated 1518.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Gawan’s 1481 death weakened Bahmani; the fivefold split is dated 1518.
 
 </details>
 
 **Q21.** With reference to monuments, which statements is/are correct?
 
-1. Gol Gumbaz is the tomb of Muhammad Adil Shah at Bijapur.
-2. Vitthala Temple is at Hampi.
-3. Charminar is a Sharqi Jaunpur monument.
+1. Charminar is a Sharqi Jaunpur monument.
+2. Gol Gumbaz is the tomb of Muhammad Adil Shah at Bijapur.
+3. Vitthala Temple is at Hampi.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
+A. 1 and 2
+B. Only 2 and 3
+C. Only 1 and 3
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 2 and 3 only are correct.
 
 **Logic:** Charminar is Qutb Shahi Hyderabad.
 
@@ -1833,15 +1836,15 @@ D. 1, 2 and 3
 
 Which of the above is/are correctly dated?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correctly dated.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Zain-ul-Abidin’s span 1420–1470 sits just before Gawan’s fall.
 
@@ -1853,15 +1856,15 @@ D. 1, 2 and 3
 2. He wrote Kitab-i-Nauras and founded Nauraspur.
 3. Firishta worked at his court.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
+A. 2 and 3
+B. Only 1
+C. 1 and 2
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Keep his Bijapur culture distinct from Krishnadevaraya’s Telugu court.
 
@@ -1896,21 +1899,24 @@ D. A-3, B-1, C-2, D-4
 
 **Q25.** With reference to Talikota’s naming, which statements is/are correct?
 
-1. The battle is dated 23 January 1565.
+1. The battle is dated 23 January 1526.
 2. It is also called Rakkasa-Tangadi.
 3. It was primarily a naval battle on the Tungabhadra estuary alone.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+
+B. 2 and 3
+
+C. 1 and 3
+
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** Only 2 is correct.
 
-**Logic:** It was a Deccan alliance land war ending in Hampi’s sack — not a naval-only action.
+**Logic:** Stmt 1 false: Talikota / Rakkasa-Tangadi is 23 January 1565, not 1526 (Panipat I year trap). Stmt 3 remains false: it was a Deccan land war, not a naval-only action.
 
 </details>
 
@@ -1940,15 +1946,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Tin Darwaza stands at Bidar Fort.
 3. Lal Darwaza–Jaunpur is correctly matched with Sharqi architecture.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. All 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Sharqi gateways/arches differ from Delhi’s arch-dome-minaret idiom.
 
@@ -1962,15 +1968,15 @@ D. 1, 2 and 3
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three pairs are correctly matched.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Firuz founds the city; Malik Sarwar founds the independent Sharqi state.
 
@@ -1995,20 +2001,23 @@ D. Charminar — Gulbarga Bahmani core mosque
 **Q30.** With reference to regional Persian chronicles, which statements is/are correct?
 
 1. Mirat-e-Sikandari is a Gujarat narrative.
-2. Burhan-e-Masir is an Ahmadnagar chronicle.
+2. Burhan-e-Masir is Bengal’s dynastic history.
 3. Riyaz-ul-Insha is Bengal’s dynastic history.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+
+B. 1 and 2
+
+C. 2 and 3
+
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: A.** Only 1 is correct.
 
-**Logic:** Riyaz-ul-Insha is Gawan’s letters; Bengal history is Riyaz-us-Salatin.
+**Logic:** Stmt 2 false: Burhan-e-Masir is an Ahmadnagar chronicle; Bengal history is Riyaz-us-Salatin. Stmt 3 remains false: Riyaz-ul-Insha is Gawan’s letters.
 
 </details>
 

@@ -1753,27 +1753,24 @@ D. Neither 1 nor 2
 
 **Q1.** With reference to the causes of the Revolt of 1857, which of the following statements is/are correct?
 
-1. Long-term causes included Doctrine of Lapse, Awadh annexation 1856, heavy revenue and missionary fear.
-2. The immediate spark was the greased-cartridge rumour around the Enfield rifle.
-3. Awadh was annexed in 1856 strictly under Doctrine of Lapse.
+1. Long-term causes excluded Doctrine of Lapse and Awadh annexation; only cartridges mattered.
+2. Awadh was annexed in 1856 strictly under Doctrine of Lapse.
+3. The immediate spark was the greased-cartridge rumour around the Enfield rifle.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
+B. Only 3
 
-A. 1 and 3 only
+C. 2 and 3
 
-B. 1 and 2 only
-
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: B.** Only 3 is correct.
 
-**Logic:** Awadh = misrule annexation, not Lapse — cause filter.
+**Logic:** Stmt 1 false: Doctrine of Lapse, Awadh 1856, revenue and missionary fear are standard long-term causes; cartridges are the immediate spark. Stmt 2 remains false: Awadh = misrule annexation, not Lapse.
 
 </details>
 
@@ -1781,27 +1778,24 @@ D. 1, 2 and 3
 
 **Q2.** With reference to the course of the Revolt’s opening, which of the following statements is/are correct?
 
-1. Mangal Pandey’s Barrackpore act on 29 March 1857 was the spark.
+1. Mangal Pandey’s Barrackpore act on 29 March 1857 was the mass outbreak that started the war.
 2. The mass outbreak began at Meerut on 10 May 1857.
 3. Delhi’s seizure on 11–12 May was the first outbreak of the Revolt.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
+B. 2 and 3
 
-A. 1 and 3 only
+C. Only 2
 
-B. 2 and 3 only
-
-C. 1, 2 and 3
-
-D. 1 and 2 only
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2.
+**Ans: C.** Only 2 is correct.
 
-**Logic:** Barrackpore = spark; Meerut = war start; Delhi follows Meerut.
+**Logic:** Stmt 1 false: Barrackpore is the spark; mass outbreak begins at Meerut on 10 May 1857. Stmt 3 remains false: Delhi follows Meerut, it is not the first outbreak.
 
 </details>
 
@@ -1917,27 +1911,24 @@ D. 4, 3, 1, 2
 
 **Q7.** With reference to results of 1857, which of the following statements is/are correct?
 
-1. The Government of India Act, 1858 ended Company rule.
-2. Canning became the first Viceroy; the Queen’s Proclamation was read at Allahabad on 1 November 1858.
-3. Crown rule had already begun from the Meerut outbreak in May 1857.
+1. Crown rule had already begun from the Meerut outbreak in May 1857.
+2. The Government of India Act, 1858 ended Company rule.
+3. Canning became the first Viceroy; the Queen’s Proclamation was read at Delhi on 1 November 1857.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
+B. 2 and 3
 
-A. 1 and 3 only
+C. 1 and 3
 
-B. 2 and 3 only
-
-C. 1, 2 and 3
-
-D. 1 and 2 only
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2.
+**Ans: D.** Only 2 is correct.
 
-**Logic:** Revolt under Company; Crown begins with 1858 settlement.
+**Logic:** Stmt 3 false: Proclamation was read at Allahabad on 1 November 1858, not Delhi 1857. Stmt 1 remains false: Crown rule begins with the 1858 settlement.
 
 </details>
 
@@ -1945,27 +1936,24 @@ D. 1 and 2 only
 
 **Q8.** With reference to Jhansi in 1857, which of the following statements is/are correct?
 
-1. Rani Lakshmibai’s rising is dated June 1857, not mid-May Delhi dates.
-2. She died fighting Hugh Rose near Gwalior (18 June 1858).
-3. Jaipur and Chittor were her principal rebel capitals.
+1. Rani Lakshmibai’s rising is dated mid-May 1857 at Delhi, before Meerut.
+2. Jaipur and Chittor were her principal rebel capitals.
+3. She died fighting Hugh Rose near Gwalior (18 June 1858).
 
-Select the correct answer from the code given below:
+A. Only 3
 
+B. 1 and 2
 
-A. 1 and 3 only
+C. 2 and 3
 
-B. 1 and 2 only
-
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: A.** Only 3 is correct.
 
-**Logic:** Jaipur/Chittor were not revolt centres; Auwa is the Rajasthan rising tag.
+**Logic:** Stmt 1 false: Her Jhansi rising is dated June 1857, not mid-May Delhi. Stmt 2 remains false: Jaipur/Chittor were not her rebel capitals.
 
 </details>
 
@@ -2005,21 +1993,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Tantia Tope (Ramchandra Pandurang) served as his commander-in-chief.
 3. Begum Hazrat Mahal was the military commander at Kanpur.
 
-Select the correct answer from the code given below:
+A. Only 3
 
+B. 2 and 3
 
-A. 1 and 3 only
+C. Only 1
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** Begum = Lucknow/Awadh — not Kanpur.
 
@@ -2086,21 +2071,18 @@ D. General Service Enlistment Act 1856 — abolished all sepoy grievances overni
 2. Punjab, Madras, Bombay and Hyderabad stayed mostly quiet or loyal.
 3. The educated middle class provided a unified all-India rebel government.
 
-Select the correct answer from the code given below:
+A. Only 1 and 2
 
+B. Only 3
 
-A. 1 and 3 only
+C. Only 1 and 3
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** Educated middle class largely stayed neutral — course/result limit.
 
@@ -2141,21 +2123,18 @@ D. 4, 2, 1, 3
 2. More recruitment came from Gurkhas, Sikhs and Punjabis.
 3. Bengal European:Indian ratio was set looser than Madras/Bombay.
 
-Select the correct answer from the code given below:
+A. Only 3
 
+B. 2 and 3
 
-A. 1 and 3 only
+C. Only 1
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** Bengal ratio 1:2 was tighter than Madras/Bombay 1:3.
 
@@ -2194,24 +2173,21 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q17.** With reference to Awadh’s role, which of the following statements is/are correct?
 
 1. The largest share of rebel sepoys is often cited as coming from Awadh.
-2. Peasant, taluqdar and sepoy strands mixed in Awadh.
-3. Awadh stayed entirely quiet while only Delhi rose.
+2. Awadh stayed entirely quiet while only Delhi rose.
+3. Peasant, taluqdar and sepoy strands mixed in Awadh.
 
-Select the correct answer from the code given below:
+A. Only 1
 
+B. 1 and 2
 
-A. 1 and 3 only
+C. Only 3
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: D.** 1 and 3 only are correct.
 
 **Logic:** Awadh is core Cause and Course geography — not a quiet zone.
 
@@ -2221,25 +2197,22 @@ D. 1, 2 and 3
 
 **Q18.** With reference to British allies in 1857, which of the following statements is/are correct?
 
-1. Scindias of Gwalior (minister Dinkar Rao) and the Nizam (Salar Jung) aided the British.
-2. Canning praised loyal princes as a breakwater against the Revolt.
-3. All major princely houses of North India joined Nana Sahib’s command.
+1. All major princely houses of North India joined Nana Sahib’s command.
+2. Scindias of Gwalior (minister Dinkar Rao) and the Nizam (Salar Jung) aided the British.
+3. Canning praised loyal princes as a breakwater against the Revolt.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
+B. Only 3
 
-A. 1 and 3 only
+C. Only 2 and 3
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: C.** 2 and 3 only are correct.
 
 **Logic:** Loyal princes help explain British recovery — Result/course limit.
 
@@ -2302,25 +2275,22 @@ D. First Viceroy after 1858 — Mountbatten
 
 **Q21.** With reference to Tantia Tope after Kanpur’s fall, which of the following statements is/are correct?
 
-1. He continued guerrilla fighting.
-2. Betrayed by Man Singh, he was hanged at Shivpuri on 18 April 1859.
-3. He became the symbolic Mughal emperor at Delhi after Zafar’s exile.
+1. He became the symbolic Mughal emperor at Delhi after Zafar’s exile.
+2. He continued guerrilla fighting.
+3. Betrayed by Man Singh, he was hanged at Shivpuri on 18 April 1859.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
+B. Only 3
 
-A. 1 and 3 only
+C. Only 2 and 3
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: C.** 2 and 3 only are correct.
 
 **Logic:** Course continuation after centre fall — not imperial succession.
 
@@ -2358,24 +2328,21 @@ D. 4, 2, 3, 1
 **Q23.** With reference to Sir Syed and 1857 historiography, which of the following statements is/are correct?
 
 1. Sir Syed wrote Asbab-e-Baghawat-e-Hind (1859) on the causes of 1857.
-2. It is often keyed as a major early Indian-language analysis of the uprising.
-3. Sir Syed’s book is the same as S.N. Sen’s official Eighteen Fifty-Seven (1957).
+2. Sir Syed’s book is the same as S.N. Sen’s official Eighteen Fifty-Seven (1957).
+3. It is often keyed as a major early Indian-language analysis of the uprising.
 
-Select the correct answer from the code given below:
+A. Only 3
 
+B. Only 1 and 3
 
-A. 1 and 3 only
+C. Only 1
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: B.** 1 and 3 only are correct.
 
 **Logic:** 1859 causes tract ≠ 1957 official history.
 
@@ -2417,21 +2384,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Course: Begum Hazrat Mahal led and seated minor son Birjis Qadr.
 3. Result: Awadh was restored as an independent kingdom under the Begum in 1859.
 
-Select the correct answer from the code given below:
+A. Only 1
 
+B. Only 1 and 2
 
-A. 1 and 3 only
+C. Only 3
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Result was suppression and Crown settlement — not Begum restoration.
 
@@ -2467,21 +2431,18 @@ D. Transfer of the capital to Delhi in May 1857
 2. After his death (26 April 1858) his brother Amar Singh continued the fight.
 3. He was the military organiser titled Saheb-e-Alam Bahadur at Delhi.
 
-Select the correct answer from the code given below:
+A. Only 1
 
+B. 1 and 2
 
-A. 1 and 3 only
+C. All 1, 2 and 3
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Saheb-e-Alam Bahadur = Bakht Khan.
 
@@ -2522,25 +2483,22 @@ D. A-2, B-1, C-4, D-3
 
 **Q29.** With reference to quiet zones and local risings, which of the following statements is/are correct?
 
-1. Punjab, Madras, Bombay and Hyderabad stayed mostly quiet or loyal.
-2. Auwa in Rajasthan saw a rising under Thakur Kushal Singh.
-3. Jaipur and Chittor were principal all-India rebel capitals under Zafar.
+1. Jaipur and Chittor were principal all-India rebel capitals under Zafar.
+2. Punjab, Madras, Bombay and Hyderabad stayed mostly quiet or loyal.
+3. Auwa in Rajasthan saw a rising under Thakur Kushal Singh.
 
-Select the correct answer from the code given below:
+A. Only 1
 
+B. 1 and 2
 
-A. 1 and 3 only
+C. All 1, 2 and 3
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: D.** 2 and 3 only are correct.
 
 **Logic:** Jaipur/Chittor ≠ centres; Auwa is the Rajasthan fact.
 

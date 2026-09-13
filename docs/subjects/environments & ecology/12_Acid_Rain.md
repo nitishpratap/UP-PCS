@@ -465,20 +465,20 @@ D. Plastic waste micro-abrasion only
 **Q1.** With reference to acid rain, which of the following statements is/are correct?
 
 1. Acid rain means wet or dry acidic deposition with pH below 5.6.
-2. Normal unpolluted rain is already about pH 5.6 from CO₂ → H₂CO₃.
+2. Normal unpolluted rain is exactly pH 7 because CO₂ never dissolves in rain.
 3. Normal rain is exactly pH 7.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Normal rain ≠ pH 7.
+**Logic:** Statement 1 is the acid-rain <5.6 definition. Statement 2 is false — normal rain is already ~pH 5.6 from CO₂ → H₂CO₃. Statement 3 repeats the pH-7 trap.
 
 </details>
 
@@ -508,21 +508,21 @@ D. A-3, B-1, C-2
 
 **Q3.** Which of the following pairs is/are correctly matched?
 
-1. NOx → HNO₃ — vehicles / high-temperature combustion
+1. NOx → HNO₃ comes mainly from quiet soil respiration, never from vehicles or high-temperature combustion.
 2. SO₂ → H₂SO₄ — coal TPPs, smelters, refineries
 3. CO₂ → severe acid rain main culprit
 
-A. 1, 2 and 3
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1 and 2 only
+A. Only 2
+B. 1 and 3
+C. Only 1
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2.
+**Ans: A.** Only 2 is correct.
 
-**Logic:** CO₂ sets 5.6 baseline — not severe-acid main culprit.
+**Logic:** Statement 2 is true (SO₂ → H₂SO₄ from coal TPPs/smelters). Statement 1 denies the vehicle/combustion NOx pathway. Statement 3 is false — CO₂ sets weak baseline rain, not severe acid rain.
 
 </details>
 
@@ -548,21 +548,21 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q5.** With reference to receptors, which of the following statements is/are correct?
 
-1. Conifers are especially sensitive forest receptors.
+1. Conifers are among the least sensitive forest receptors to acid deposition.
 2. Marble/limestone can form gypsum crust under sulphuric attack.
 3. Lichens thrive best in high SO₂ air.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 3
+B. Only 2
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2.
+**Ans: B.** Only 2 is correct.
 
-**Logic:** Lichens die in high SO₂.
+**Logic:** Statement 2 is true (marble/limestone → gypsum crust). Statement 1 is false — conifers are especially sensitive. Statement 3 is false — lichens decline in high SO₂ air.
 
 </details>
 
@@ -754,7 +754,7 @@ D. None
 
 **Ans: A.** All three.
 
-**Logic:** Core pH locks.
+**Logic:** Core pH facts.
 
 </details>
 

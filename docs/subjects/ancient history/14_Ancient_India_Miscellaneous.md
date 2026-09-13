@@ -761,26 +761,24 @@ Medieval / Mughal (Maham Anaga). **Not** a Purana-text question. Name-trap only.
 
 **Q1.** With reference to Old World Bronze urban cores, which of the following statements is/are correct?
 
-1. The four cores are Mesopotamia, Egypt, Indus, and Shang China.
-2. Iron-Age Greece, Rome, and Persia belong to a later bucket.
-3. Mesopotamia builds pyramid royal tombs as its main temple form.
+1. Mesopotamia builds pyramid royal tombs as its main temple form.
+2. The four cores are Mesopotamia, Egypt, Indus, and Iron-Age Greece.
+3. Iron-Age Greece, Rome, and Persia belong to a later bucket.
 
-Select the correct answer from the code given below:
+A. Only 3
 
-A. 1 and 3 only
+B. 1 and 2
 
-B. 1 and 2 only
+C. 2 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Ans: A.** Only 3 is correct.
 
-**Logic:** Stmt 3 false: Mesopotamia builds ziggurat temple-towers, not pyramid tombs.
+**Logic:** Stmt 2 false: Fourth early core is Shang China; Iron-Age Greece belongs to a later bucket. Stmt 1 remains false: Mesopotamia builds ziggurats, not pyramid tombs.
 
 </details>
 
@@ -896,26 +894,24 @@ D. Kakatiya — Devagiri
 
 **Q6.** With reference to Puranas, which of the following statements is/are correct?
 
-1. Count fact is 18 Mahapuranas and 18 Upapuranas.
-2. A Mahapurana is supposed to carry panchalakshana: sarga, pratisarga, vamsha, manvantara, and vamshanucharita.
-3. The Vayu Purana preserves a usable Gupta system of governance.
+1. Count fact is 18 Mahapuranas and 18 Vedangas.
+2. The Vayu Purana preserves a usable Gupta system of governance.
+3. A Mahapurana is supposed to carry panchalakshana: sarga, pratisarga, vamsha, manvantara, and vamshanucharita.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 2 and 3 only
+B. 2 and 3
 
-B. 1 and 3 only
+C. Only 3
 
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 2 are correct.
+**Ans: C.** Only 3 is correct.
 
-**Logic:** Stmt 3 false: Vayu does not give usable Gupta governance; Vishnu carries Mauryan genealogy.
+**Logic:** Stmt 1 false: Count is 18 Mahapuranas and 18 Upapuranas; Vedangas are six. Stmt 2 remains false: Vayu does not preserve usable Gupta governance.
 
 </details>
 
@@ -923,26 +919,24 @@ D. 1, 2 and 3
 
 **Q7.** Consider the following statements about Charvaka / Lokayata:
 
-1. The only accepted pramana is pratyaksha (perception).
-2. It denies lasting soul, karma fruit, rebirth, and Veda authority.
-3. Charvaka is the same as Charaka, the Ayurveda compiler.
+1. The only accepted pramana is shabda (Veda authority).
+2. Charvaka is the same as Charaka, the Ayurveda compiler.
+3. It denies lasting soul, karma fruit, rebirth, and Veda authority.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 3 only
+B. Only 3
 
-B. 1 and 2 only
+C. 2 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Ans: B.** Only 3 is correct.
 
-**Logic:** Stmt 3 false: Charvaka ≠ Charaka.
+**Logic:** Stmt 1 false: Charvaka accepts only pratyaksha (perception), not Veda/shabda. Stmt 2 remains false: Charvaka ≠ Charaka.
 
 </details>
 
@@ -1007,26 +1001,24 @@ D. 1-C, 2-A, 3-D, 4-B
 
 **Q10.** With reference to Kakatiya polity, which of the following statements is/are correct?
 
-1. Early seat is Hanamkonda; match-paper capital is Warangal (Orugallu).
-2. Rudrama Devi ruled as a reigning queen under the male throne-name Rudradeva Maharaja.
-3. Warangal–Ramchandra Dev is correctly matched as Kakatiya last king.
+1. Warangal–Ramchandra Dev is correctly matched as Kakatiya last king.
+2. Early seat is Hanamkonda; match-paper capital is Warangal (Orugallu).
+3. Rudrama Devi ruled as a reigning queen under the male throne-name Rudradeva Maharaja.
 
-Select the correct answer from the code given below:
+A. All 1, 2 and 3
 
-A. 1 and 3 only
+B. Only 2 and 3
 
-B. 1 and 2 only
+C. Only 1
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Ans: B.** 2 and 3 only are correct.
 
-**Logic:** Stmt 3 false: Ramachandra is Yadava of Devagiri; last Kakatiya is Prataparudra II.
+**Logic:** Stmt 1 false: Ramachandra is Yadava of Devagiri; last Kakatiya is Prataparudra II.
 
 </details>
 
@@ -1040,18 +1032,18 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 1
 
-B. 2 and 3 only
+B. Only 1 and 2
 
-C. 1 and 3 only
+C. All 1, 2 and 3
 
-D. 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Must-Score Kakatiya temple/fall facts.
 
@@ -1140,23 +1132,21 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q15.** With reference to Charaka Samhita, which of the following statements is/are correct?
 
 1. Charaka Samhita has 120 chapters in 8 sections.
-2. Sushruta is the surgery fact; Charaka is internal medicine.
-3. Charaka is identical with the Charvaka materialist school.
+2. Charaka is identical with the Charvaka materialist school.
+3. Sushruta is the surgery fact; Charaka is internal medicine.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 3 only
+B. Only 2 and 3
 
-B. 1 and 2 only
-
-C. 2 and 3 only
+C. Only 1 and 3
 
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Ans: C.** 1 and 3 only are correct.
 
 **Logic:** Stmt 3 is the cheap name-swap trap.
 
@@ -1202,11 +1192,11 @@ D. 1-D, 2-C, 3-A, 4-B
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 2 and 3
 
-B. 2 and 3 only
+B. Only 1
 
-C. 1 and 3 only
+C. 1 and 2
 
 D. 1, 2 and 3
 
@@ -1227,20 +1217,18 @@ D. 1, 2 and 3
 2. Court language was Telugu and Sanskrit, with mainly Shaiva temple religion.
 3. Thousand Pillar Temple stands inside Warangal fort.
 
-Select the correct answer from the code given below:
+A. 2 and 3
 
-A. 1 and 2 only
+B. Only 1
 
-B. 1 and 3 only
+C. 1 and 2
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Stmt 3 false: Thousand Pillar is at Hanamkonda, not inside Warangal fort.
 
@@ -1304,20 +1292,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Nyaya is Gautama; Vaisheshika is Kanada — neither is Charvaka.
 3. Charvaka accepts Veda authority while denying perception.
 
-Select the correct answer from the code given below:
+A. Only 1
 
-A. 1 and 2 only
+B. 1 and 2
 
-B. 1 and 3 only
+C. 1, 2 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Stmt 3 reverses Charvaka’s pramana and Veda stance.
 
@@ -1359,20 +1345,18 @@ D. 2–3–4–1
 2. Harappan cities look corporate — standard brick, weak palace skyline.
 3. Egypt is temple-centred and war-prone like Mesopotamia’s default card.
 
-Select the correct answer from the code given below:
+A. 2 and 3
 
-A. 1 and 2 only
+B. Only 1
 
-B. 1 and 3 only
+C. 1 and 2
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Stmt 3 false: Egypt is tomb-centred; Mesopotamia is temple-centred and war-prone.
 
@@ -1407,20 +1391,18 @@ D. Kanchi
 2. Prataparudra II is the last king, not the founder.
 3. Rudrama Devi is a Chola queen who built Brihadisvara.
 
-Select the correct answer from the code given below:
+A. 2 and 3
 
-A. 1 and 2 only
+B. Only 1
 
-B. 1 and 3 only
+C. 1 and 2
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Stmt 3 false: Rudrama is Ganapati’s daughter, Kakatiya queen.
 
@@ -1510,26 +1492,24 @@ D. Hanamkonda — Yadava capital of Ramachandra
 
 **Q29.** Consider the following statements:
 
-1. Decline is not one shared story: Shang ends with Zhou; Harappan cities thin ~1900 BCE; Egypt shows unusual dynastic continuity.
-2. Ganapati Deva issued the Motupalli abhaya-shasana safety-charter for sea merchants.
-3. Purana Qila is one of the 18 Mahapuranas.
+1. Purana Qila is one of the 18 Mahapuranas.
+2. Decline is not one shared story: Shang ends with Zhou; Harappan cities thin ~1900 BCE; Egypt shows unusual dynastic continuity.
+3. Ganapati Deva issued the Motupalli abhaya-shasana safety-charter for sea merchants.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 2 only
+B. 1, 2 and 3
 
-B. 1 and 3 only
+C. Only 2 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: C.** 2 and 3 only are correct.
 
-**Logic:** Stmt 3 false: Purana Qila is a fort name, not a Purana text.
+**Logic:** Stmt 1 false: Purana Qila is a fort name, not a Purana text.
 
 </details>
 
@@ -1541,20 +1521,18 @@ D. 1, 2 and 3
 2. The dynasty fell in 1323 to Ulugh Khan under Ghiyasuddin Tughluq.
 3. Prataparudra II founded the Kakatiya house at Kanchi.
 
-Select the correct answer from the code given below:
+A. Only 1
 
-A. 1 and 2 only
+B. Only 1 and 2
 
-B. 1 and 3 only
+C. Only 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Stmt 3 false: Prataparudra II is the last king; capital is Warangal, not Kanchi.
 

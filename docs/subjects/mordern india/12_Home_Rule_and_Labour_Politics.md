@@ -1436,26 +1436,24 @@ D. Only 2
 
 **Q1.** With reference to the two Home Rule Leagues, which of the following statements is/are correct?
 
-1. Tilak’s Indian Home Rule League was founded in April 1916 at Poona.
+1. Tilak’s Indian Home Rule League was founded in September 1916 at Madras/Adyar.
 2. Besant’s All India Home Rule League was founded in September 1916 at Madras/Adyar.
 3. Bombay city fell in Tilak’s charge, not Besant’s.
 
-Select the correct answer from the code given below:
+A. Only 2
 
-A. 1 and 3 only
+B. 1 and 2
 
-B. 1 and 2 only
+C. 2 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: A.** Only 2 is correct.
 
-**Logic:** Bombay city belonged to Besant’s league.
+**Logic:** Stmt 1 false: Tilak’s league = April 1916 Poona; Besant’s = September 1916 Madras/Adyar. Stmt 3 remains false: Bombay city belonged to Besant’s league.
 
 </details>
 
@@ -1546,26 +1544,24 @@ D. 1, 3, 4, 2
 
 **Q5.** With reference to Montagu and related offers, which of the following statements is/are correct?
 
-1. The Montagu Declaration (20 August 1917) stated the goal of responsible government in India.
-2. It is a statement of intent, not the Government of India Act, 1919 itself.
-3. The Montagu Declaration of 1917 is the same document as the August Offer of 1940.
+1. The Montagu Declaration of 1917 is the same document as the August Offer of 1940.
+2. The Montagu Declaration (20 August 1917) stated the goal of responsible government in India.
+3. It is identical with the Government of India Act, 1919 itself.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1, 2 and 3
+B. 2 and 3
 
-B. 1 and 3 only
+C. Only 2
 
-C. 2 and 3 only
-
-D. 1 and 2 only
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2.
+**Ans: C.** Only 2 is correct.
 
-**Logic:** 1917 intent ≠ 1940 Linlithgow offer.
+**Logic:** Stmt 3 false: Montagu Declaration 1917 is a statement of intent, not the 1919 Act. Stmt 1 remains false: 1917 ≠ August Offer 1940.
 
 </details>
 
@@ -1595,25 +1591,23 @@ D. India’s ILO 1919 labour representative — Joseph Baptista
 **Q7.** With reference to BHU and national education waves, which of the following statements is/are correct?
 
 1. BHU: Act 1915; foundation stone 4 February 1916 (Hardinge); Malaviya founder tag; Varanasi.
-2. NCE 1906 is the same body as BHU 1916.
-3. Gujarat Vidyapith (1920) and Kashi Vidyapith (1921) belong to the Non-Cooperation national-university wave.
+2. Gujarat Vidyapith (1920) and Kashi Vidyapith (1921) are the same body as BHU 1916.
+3. NCE 1906 is the same body as BHU 1916.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 2 only
+B. Only 1
 
-B. 1 and 3 only
+C. 2 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 3.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** NCE (Swadeshi) ≠ BHU.
+**Logic:** Stmt 2 false: Gujarat/Kashi Vidyapith belong to the NCM national-university wave; they are not BHU. Stmt 3 remains false: NCE 1906 ≠ BHU 1916.
 
 </details>
 
@@ -1708,20 +1702,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Separate electorates themselves first appeared in the Indian Councils Act, 1909 (Morley–Minto).
 3. Congress first accepted separate electorates as a bargain in 1909, not in 1916.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 2 and 3 only
+B. All 1, 2 and 3
 
-B. 1 and 3 only
+C. 2 and 3
 
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** System begins 1909; Congress bargain acceptance is Lucknow 1916.
 
@@ -1752,24 +1744,22 @@ D. Justice Party (1916) — all-India Congress labour wing
 
 **Q13.** Which of the following statements is/are correct?
 
-1. In 1920 Gandhi became All-India Home Rule League President and renamed it Swarajya Sabha.
-2. Tilak died on 1 August 1920, before Non-Cooperation’s peak.
-3. Tilak presided over the Belgaum Congress of 1924.
+1. Tilak presided over the Belgaum Congress of 1924.
+2. In 1920 Gandhi became All-India Home Rule League President and renamed it Swarajya Sabha.
+3. Tilak died on 1 August 1920, before Non-Cooperation’s peak.
 
-Select the correct answer from the code given below:
+A. Only 1 and 2
 
-A. 1, 2 and 3
+B. Only 1, 2 and 3
 
-B. 1 and 3 only
+C. 2 and 3
 
-C. 2 and 3 only
-
-D. 1 and 2 only
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2.
+**Ans: C.** 2 and 3 only are correct.
 
 **Logic:** Tilak never INC President; Belgaum 1924 is Gandhi.
 
@@ -1810,23 +1800,21 @@ D. A-2, B-1, C-4, D-3
 **Q15.** With reference to Besant’s educational work, which of the following statements is/are correct?
 
 1. She founded Central Hindu College, Varanasi, in 1898, later a nucleus of BHU.
-2. Malaviya is the chief BHU organiser tag.
-3. Central Hindu College and NCE 1906 are the same Swadeshi university.
+2. Central Hindu College and NCE 1906 are the same Swadeshi university.
+3. Malaviya is the chief BHU organiser tag.
 
-Select the correct answer from the code given below:
+A. Only 2
 
-A. 2 and 3 only
+B. Only 2 and 3
 
-B. 1 and 3 only
+C. Only 1
 
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: D.** 1 and 3 only are correct.
 
 **Logic:** Besant college nucleus ≠ NCE.
 
@@ -1890,23 +1878,21 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q18.** Which of the following statements about Home Rule decline is/are correct?
 
 1. Home Rule declined after Montagu–Chelmsford hope and Tilak’s time abroad.
-2. Rise of Gandhi’s mass methods further overshadowed league politics.
-3. The two leagues permanently merged into one body in 1916 and never operated in parallel.
+2. The two leagues permanently merged into one body in 1916 and never operated in parallel.
+3. Rise of Gandhi’s mass methods further overshadowed league politics.
 
-Select the correct answer from the code given below:
+A. Only 1
 
-A. 1 and 2 only
+B. 1 and 2
 
-B. 1 and 3 only
+C. Only 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2.
+**Ans: D.** 1 and 3 only are correct.
 
 **Logic:** Two parallel leagues cooperated; they did not permanently merge in 1916–18.
 
@@ -1938,23 +1924,21 @@ D. Workers and Peasants Party — clearer all-India form from December 1928
 **Q20.** With reference to readings of the Montagu Declaration, which of the following statements is/are correct?
 
 1. Extremists read it as proof that Home Rule pressure worked.
-2. Moderates read it as proof that constitutional agitation still worked.
-3. Both readings treated it as identical with the August Offer of 1940.
+2. Both readings treated it as identical with the August Offer of 1940.
+3. Moderates read it as proof that constitutional agitation still worked.
 
-Select the correct answer from the code given below:
+A. Only 3
 
-A. 1 and 2 only
+B. Only 1 and 3
 
-B. 1 and 3 only
+C. Only 1
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2.
+**Ans: B.** 1 and 3 only are correct.
 
 **Logic:** Same declaration, two political readings — not 1940.
 
@@ -1994,24 +1978,22 @@ D. A-1, B-2, C-4, D-3
 
 **Q22.** Which of the following statements is/are correct?
 
-1. UP Focus: BHU and Kashi Vidyapith are Varanasi facts.
-2. Besant league branches reached UP towns, but Tilak’s HQ stayed Poona.
-3. Tilak’s league area included Bombay city and excluded Karnataka/CP/Berar.
+1. Tilak’s league area included Bombay city and excluded Karnataka/CP/Berar.
+2. UP Focus: BHU and Kashi Vidyapith are Varanasi facts.
+3. Besant league branches reached UP towns, but Tilak’s HQ stayed Poona.
 
-Select the correct answer from the code given below:
+A. 1, 2 and 3
 
-A. 1 and 2 only
+B. 2 and 3
 
-B. 1 and 3 only
+C. Only 1
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2.
+**Ans: B.** 2 and 3 only are correct.
 
 **Logic:** Tilak: MH except Bombay city + Karnataka/CP/Berar.
 
@@ -2075,23 +2057,21 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q25.** With reference to CSP and left politics inside Congress, which of the following statements is/are correct?
 
 1. CSP formed at Patna (May 1934) / Bombay (October 1934).
-2. WPP’s clearer all-India form is from December 1928, not identical with CSP.
-3. CSP is simply another name for the Communist Party of India.
+2. CSP is simply another name for the Communist Party of India.
+3. WPP’s clearer all-India form is from December 1928, not identical with CSP.
 
-Select the correct answer from the code given below:
+A. Only 1
 
-A. 1 and 2 only
+B. Only 1 and 3
 
-B. 1 and 3 only
+C. Only 2
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2.
+**Ans: B.** 1 and 3 only are correct.
 
 **Logic:** Socialists inside Congress ≠ separate CPI.
 
@@ -2122,24 +2102,22 @@ D. Both leagues shared a single HQ at Bombay from April 1916
 
 **Q27.** Which of the following statements is/are correct?
 
-1. Cause of Besant’s 1917 surge: internment of Besant, Arundale and Wadia made Home Rule a mass slogan.
-2. Course: Montagu Declaration answered wartime pressure with a responsible-government goal.
-3. Result: Home Rule permanently replaced Congress as the only nationalist organisation after 1919.
+1. Result: Home Rule permanently replaced Congress as the only nationalist organisation after 1919.
+2. Cause of Besant’s 1917 surge: internment of Besant, Arundale and Wadia made Home Rule a mass slogan.
+3. Course: Montagu Declaration answered wartime pressure with a responsible-government goal.
 
-Select the correct answer from the code given below:
+A. Only 2 and 3
 
-A. 1 and 2 only
+B. Only 1
 
-B. 1 and 3 only
+C. Only 1 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2.
+**Ans: A.** 2 and 3 only are correct.
 
 **Logic:** Leagues declined as Gandhi’s mass methods rose — they did not replace Congress.
 
@@ -2155,18 +2133,18 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 1
 
-B. 2 and 3 only
+B. Only 1 and 2
 
-C. 1 and 3 only
+C. Only 1, 2 and 3
 
-D. 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Labour chronology + party map.
 
@@ -2201,20 +2179,18 @@ D. NCE 1906 — identical with BHU Act 1915
 2. Besant’s league covered the rest of India including Bombay city.
 3. Both leagues permanently fused into one HQ at Adyar from April 1916.
 
-Select the correct answer from the code given below:
+A. Only 1 and 2
 
-A. 1 and 2 only
+B. Only 3
 
-B. 1 and 3 only
+C. 1 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** Two parallel leagues — no permanent 1916 merger.
 

@@ -473,19 +473,19 @@ D. Noida
 
 1. The four traditional Kumbh sites are Prayagraj, Haridwar, Nashik and Ujjain.
 2. Pushkar is one of the four classical Kumbh bathing sites.
-3. The river associated with Ujjain Kumbh is the Shipra.
+3. The river associated with Ujjain Kumbh is the Godavari.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. Only 1 and 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 3 are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Pushkar is a Rajasthan camel fair, not a classical Kumbh site.
+**Logic:** Pushkar is a Rajasthan camel fair, not a classical Kumbh site. Ujjain Kumbh is on the Shipra; Godavari is linked with Nashik.
 
 </details>
 
@@ -499,15 +499,15 @@ D. 1, 2 and 3
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1, 2 and 3
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1 and 2 only
+A. 1 and 2
+B. Only 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only pairs 1 and 2 are correct.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** Bihu is Assam’s harvest trio. Hornbill is the Nagaland showcase.
 
@@ -571,31 +571,31 @@ D. 1-2-3-4
 
 **Q6.** With reference to harvest and New Year festivals, which of the following statements is/are correct?
 
-1. Ugadi is New Year in Andhra Pradesh, Telangana and Karnataka.
-2. Gudi Padwa is the Maharashtra New Year in the same season.
-3. Vishu is the Odisha harvest festival also called Nuakhai.
+1. Vishu is the Odisha harvest festival also called Nuakhai.
+2. Ugadi is New Year in Andhra Pradesh, Telangana and Karnataka.
+3. Gudi Padwa is the Tamil harvest festival identical with Pongal.
 
-A. 1 and 3 only
-B. 1 and 2 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. 1, 2 and 3
+C. Only 2
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: C.** Only 2 is correct.
 
-**Logic:** Vishu is Kerala New Year. Nuakhai is Odisha harvest. Do not merge them.
+**Logic:** Vishu is Kerala New Year; Nuakhai is Odisha harvest. Gudi Padwa is the Maharashtra New Year in the same season as Ugadi.
 
 </details>
 
 **Q7.** Match List-I with List-II and select the correct answer using the code given below the Lists.
 
 **List-I (Festival)**
-A. 2 1 3 4
-B. 2 4 1 3
-C. 1 2 4 3
-D. 2 1 4 3
+A. Hornbill Festival
+B. Sangai Festival
+C. Chapchar Kut
+D. Wangala
 
 **List-II (State / people)**
 1. Manipur
@@ -621,39 +621,39 @@ D. 2 1 4 3
 
 **Q8.** With reference to Gujarat and Punjab festive dance, which of the following statements is/are correct?
 
-1. Garba / Dandiya is linked to Gujarat Navratri and is UNESCO ICH from 2023.
-2. Bhangra / Giddha is Punjab harvest dance linked to Baisakhi.
-3. Garba is counted among the nine SNA classical dances.
+1. Garba is counted among the nine SNA classical dances.
+2. Garba / Dandiya is linked to Gujarat Navratri and is UNESCO ICH from 2023.
+3. Bhangra / Giddha is a classical SNA dance of Punjab identical with Kathak.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. 1 and 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: D.** Only 2 is correct.
 
-**Logic:** Garba is folk / festive dance, not one of the SNA classical eight.
+**Logic:** Garba is folk / festive dance, not one of the SNA classical eight. Bhangra / Giddha is Punjab harvest dance linked to Baisakhi.
 
 </details>
 
 **Q9.** Which of the following is/are correctly matched?
 
-1. Bastar Dussehra — Chhattisgarh, about 75 days around Danteshwari
-2. Sarhul — Jharkhand tribal sal-flower festival
-3. Medaram Jatara — Madhya Pradesh Bhil festival
+1. Medaram Jatara — Madhya Pradesh Bhil festival
+2. Bastar Dussehra — Chhattisgarh, about 75 days around Danteshwari
+3. Sarhul — Jharkhand tribal sal-flower festival
 
-A. 2 and 3 only
-B. 1 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. Only 2 and 3
+C. 1 and 3
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: B.** 2 and 3 only are correct.
 
 **Logic:** Medaram Jatara is Telangana Koya pilgrimage. Bhagoria is MP Bhil.
 
@@ -682,15 +682,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Bateshwar Fair is in Agra district.
 3. Tansen Samaroh is a major government cultural festival of Varanasi.
 
-A. 1, 2 and 3
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1 and 2 only
+A. Only 1 and 2
+B. 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2 are correct.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** Tansen Samaroh is at Gwalior in Madhya Pradesh, not Varanasi.
 
@@ -699,18 +699,18 @@ D. 1 and 2 only
 **Q12.** Consider the following statements about Eid festivals:
 
 1. Eid-ul-Fitr marks the end of Ramadan.
-2. Eid-ul-Adha is also called Bakrid and is the sacrifice festival.
-3. Both names refer to one identical festival day in the Islamic calendar.
+2. Both names refer to one identical festival day in the Islamic calendar.
+3. Eid-ul-Adha is also called Bakrid and is the sacrifice festival.
 
-A. 1 and 3 only
-B. 1 and 2 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 3
+B. Only 2
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: A.** 1 and 3 only are correct.
 
 **Logic:** Eid-ul-Fitr and Eid-ul-Adha are distinct festivals.
 
@@ -738,11 +738,11 @@ D. 1, 2 and 3
 
 **Q14.** Match List-I with List-II and select the correct answer using the code given below the Lists.
 
-**List-I**
-A. 2 1 3 4
-B. 1 2 4 3
-C. 1 2 3 4
-D. 1 3 2 4
+**List-I (Festival / fair)**
+A. Taj Mahotsav
+B. Ganga Mahotsav
+C. Khajuraho Dance Festival
+D. Surajkund Crafts Mela
 
 **List-II**
 1. Agra
@@ -772,15 +772,15 @@ D. 1 3 2 4
 2. Sarhul belongs to the adivasi ritual calendar of Jharkhand.
 3. Folk and tribal festivals are identical labels for the same ritual class.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. All 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Folk (peasant/community) and tribal (adivasi ritual) should not be collapsed into one label.
 
@@ -810,19 +810,19 @@ D. 3-2-1
 
 **Q17.** With reference to Pushkar-related events, which of the following statements is/are correct?
 
-1. Pushkar Fair is the Rajasthan camel and livestock fair of Kartik near Ajmer.
-2. Pushkar Kumbh of May 2025 was held at Mana / Keshav Prayag in Uttarakhand.
-3. Pushkar Fair and Pushkar Kumbh 2025 refer to the same Rajasthan venue.
+1. Pushkar Fair and Pushkar Kumbh 2025 refer to the same Rajasthan venue.
+2. Pushkar Fair is the Rajasthan camel and livestock fair of Kartik near Ajmer.
+3. Pushkar Kumbh of May 2025 was held at Mana / Keshav Prayag in Uttarakhand.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 3
+C. Only 2
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 2 and 3 only are correct.
 
 **Logic:** Pushkar Kumbh 2025 was Uttarakhand, not the Ajmer camel fair.
 
@@ -867,15 +867,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Thrissur Pooram is associated with Kerala.
 3. Bathukamma is associated with Tamil Nadu.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. All 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Bathukamma is Telangana’s floral festival, not Tamil Nadu.
 
@@ -891,15 +891,15 @@ D. 1, 2 and 3
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only pairs 1 and 2 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Nuakhai is Odisha harvest. Vishu is Kerala New Year.
 
@@ -911,15 +911,15 @@ D. 1, 2 and 3
 2. The bathing focus is the Sangam of Ganga, Yamuna and the mythical Saraswati.
 3. Kumbh Mela entered UNESCO ICH in 2017.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** 2025 Prayagraj Maha Kumbh window and UNESCO 2017 are both standard facts.
 
@@ -977,15 +977,15 @@ D. 2 4 1 3
 2. Navratri is the nine-night goddess cycle.
 3. Gujarat Garba sits only inside Bengal pandal culture and not within Navratri.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 3
+C. 1 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** Garba is Gujarat Navratri dance. It is not confined to Bengal pandals.
 
@@ -994,18 +994,18 @@ D. 1, 2 and 3
 **Q26.** Consider the following statements:
 
 1. Prayagraj Kumbh / Magh Mela is part of the UP festival spine.
-2. Lucknow Mahotsav is a government cultural festival of Uttar Pradesh.
-3. Onam is an Uttar Pradesh harvest festival of eastern districts.
+2. Onam is an Uttar Pradesh harvest festival of eastern districts.
+3. Lucknow Mahotsav is a government cultural festival of Uttar Pradesh.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 3
+B. Only 2
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: A.** 1 and 3 only are correct.
 
 **Logic:** Onam is Kerala. It is not a UP harvest home.
 
@@ -1033,15 +1033,15 @@ D. Sangai — Manipur
 2. Ganga Mahotsav is associated with Varanasi.
 3. Khajuraho Dance Festival is organised in Uttar Pradesh.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. All 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** Khajuraho Dance Festival is Madhya Pradesh.
 
@@ -1070,15 +1070,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. National days such as Republic Day sit inside Kumbh geography as bathing days.
 3. Religious festivals include Diwali, Eid, Christmas and Buddha Purnima.
 
-A. 1 and 3 only
-B. 1 and 2 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 3
+C. Only 1 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 3 are correct.
+**Ans: C.** 1 and 3 only are correct.
 
 **Logic:** National days are a separate civic calendar, not Kumbh bathing geography.
 

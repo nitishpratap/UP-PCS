@@ -507,24 +507,23 @@ Trap: SEC = ECI’s State office. **Separate constitutional office.** Trap: SEC 
 **Q1.** With reference to Uttar Pradesh’s geography of power, which of the following statements is/are correct?
 
 1. Capital (Raj Bhavan / Vidhan Bhavan) is Lucknow.
-2. High Court principal seat is Prayagraj; Lucknow hosts a Bench.
-3. UPPSC headquarters is Lucknow.
+2. High Court principal seat is Lucknow; Prayagraj hosts only a Bench.
+3. The Governor of UP is elected by the State Assembly.
 
-Select the correct answer from the code given below:
-
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: A.** Only 1 is correct.
 
-**Logic:** UPPSC HQ is Prayagraj, not Lucknow.
+**Logic:** Capital is Lucknow. High Court principal seat is Prayagraj; Lucknow hosts a Bench. UPPSC HQ is Prayagraj, not Lucknow.
 
 </details>
+
 **Q2.** Which one of the following pairs is **NOT** correctly matched?
 
 A. First Governor — Sarojini Naidu (15 Aug 1947)
@@ -608,25 +607,24 @@ D. I–II–IV–III
 </details>
 **Q6.** With reference to UP Legislative Council composition (100), which of the following is/are correct?
 
-1. 36 local bodies + 8 graduates + 8 teachers + 36 MLAs + 12 Governor nominees.
-2. Article 171 caps a Council at one-third of the Assembly and a minimum of 40; UP chose 100.
-3. The Council can be dissolved by the Governor like the Assembly.
+1. UP Legislative Council composition is 36 + 8 + 8 + 36 + 12 = 100.
+2. Article 171 caps a Council at half the Assembly with no minimum strength; UP chose 250.
+3. State Election Commission of UP is identical with the Election Commission of India.
 
-Select the correct answer from the code given below:
-
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 1
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Council cannot be dissolved; one-third retire every two years; abolition is Art. 169.
+**Logic:** UP LC composition is 36+8+8+36+12 = 100. Article 171 caps at one-third of the Assembly with a minimum of 40. The Council cannot be dissolved like the Assembly. UP Panchayat law provides 50% women’s reservation, above the constitutional one-third floor.
 
 </details>
+
 **Q7.** With reference to UP in Parliament, which of the following is/are correct?
 
 1. UP sends 80 Lok Sabha and 31 Rajya Sabha members — both largest State contingents.
@@ -649,11 +647,11 @@ D. Neither 1 nor 2
 </details>
 **Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): UP State Election Commission conducts Panchayat and urban local body polls.
-
-Reason (R): There is a “Panchayati Raj Commission of India” that runs UP local polls instead of the SEC.
+Assertion (A): There is a “Panchayati Raj Commission of India” that runs UP local polls instead of the SEC.
 
 Select the correct answer from the code given below:
+
+Reason (R): UP State Election Commission conducts Panchayat and urban local body polls.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -663,9 +661,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true; (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** Local polls = SEC (243K/243ZA); legislature polls = ECI. No PR Commission of India.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Local polls = SEC (243K/243ZA); legislature polls = ECI. No PR Commission of India.
 
 </details>
 
@@ -693,15 +691,15 @@ D. First HC seat — Agra (1866), moved to Allahabad 1869
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1, 2 and 3
+B. Only 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** UPPSC ≠ UPSC (Delhi) ≠ UP SEC (Lucknow).
 
@@ -709,10 +707,10 @@ D. 1, 2 and 3
 
 **Q11.** With reference to Assembly-strength traps, which of the following is/are correct?
 
-1. UP Assembly is 403; Uttarakhand Assembly is 70.
-2. Manipur Assembly is 62.
+1. Manipur Assembly is 62.
 
 Select the correct answer from the code given below:
+2. UP Assembly is 403; Uttarakhand Assembly is 70.
 
 A. Only 2
 B. Only 1
@@ -722,7 +720,7 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 is correct.
+**Ans: A.** Only 2 is correct.
 
 **Logic:** Manipur is 60, not 62 — a known NOT-matched trap.
 
@@ -795,21 +793,19 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q15.** With reference to urban local bodies in UP, which of the following is/are correct?
 
-1. Three types: Nagar Nigam (1959 Act), Nagar Palika Parishad and Nagar Panchayat (1916 Act track).
-2. Mayor is political head; Nagar Ayukt/Commissioner is the executive.
-3. Cantonment Boards are under the 74th municipal track of the State.
+1. Cantonment Boards are under the 74th municipal track of the State.
+2. Three types: Nagar Nigam (1959 Act), Nagar Palika Parishad and Nagar Panchayat (1916 Act track).
+3. Mayor is political head; Nagar Ayukt/Commissioner is the executive.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 2 and 3 only are correct.
 
 **Logic:** Cantonment Boards are under Defence / Cantonments Act.
 
@@ -839,15 +835,15 @@ D. UP SEC — conducts MLA and Lok Sabha elections in UP
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Gram Sabha means registered voters, not every resident.
 
@@ -920,20 +916,18 @@ D. Neither 1 nor 2
 **Q21.** Which of the following statements about Allahabad High Court is/are correct?
 
 1. Sanctioned strength is about 160 — the largest High Court.
-2. Jurisdiction after 2000 is UP only; Uttarakhand has Nainital High Court.
-3. Lucknow Bench is a second High Court created in 1948.
+2. Lucknow Bench is a second High Court created in 1948.
+3. Jurisdiction after 2000 is UP only; Uttarakhand has Nainital High Court.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. 1 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 1 and 3 only are correct.
 
 **Logic:** Lucknow is a permanent Bench via 1948 amalgamation — not a second HC.
 
@@ -1033,15 +1027,15 @@ D. UPPSC removal — by the Governor after High Court inquiry only
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Lokayukta is statutory, not a criminal court, and not Union Lokpal.
 

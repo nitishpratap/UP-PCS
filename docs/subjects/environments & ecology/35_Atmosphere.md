@@ -540,20 +540,20 @@ D. Nitrogen and oxygen both major greenhouse gases
 **Q1.** With reference to atmospheric layers (bottom to top), which of the following statements is/are correct?
 
 1. Troposphere → Stratosphere → Mesosphere → Thermosphere → Exosphere.
-2. Weather lives in the troposphere.
+2. Weather lives in the stratosphere.
 3. Ozone layer maximum is in the troposphere.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** Ozone max = stratosphere.
+**Logic:** Only statement 1 remains true among the numbered claims. Statement 1 is true. Statement 2 is false. Statement 3 is false.
 
 </details>
 
@@ -583,24 +583,23 @@ D. A-3, B-1, C-2
 
 **Q3.** Which of the following pairs is/are correctly matched?
 
-1. Thermosphere — very hot but thin; auroras/ISS/ionosphere neighbourhood
+1. Thermosphere is a cold dense weather layer with no link to auroras or the ionosphere.
 2. Exosphere — outermost fringe merges into space
 3. Exosphere — main weather layer
 
-A. 1, 2 and 3
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1 and 2 only
+A. Only 1
+B. Only 2
+C. 1 and 2
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2.
+**Ans: B.** Only 2 is correct.
 
-**Logic:** Weather ≠ exosphere.
+**Logic:** Statement 2 is true (exosphere = outermost fringe). Statement 1 is false — thermosphere is hot but thin and hosts aurora/ISS/ionosphere neighbourhood facts. Statement 3 is false — weather is tropospheric.
 
 </details>
-
 **Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 Assertion (A): Dry air is about N₂ 78%, O₂ 21%, argon ~0.93%, CO₂ ~0.04%.
@@ -1001,7 +1000,7 @@ D. ~0.93% of dry air; not a GHG
 
 **Ans: D.** ~0.93%; not GHG.
 
-**Logic:** Argon lock.
+**Logic:** Argon fact.
 
 </details>
 

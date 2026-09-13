@@ -809,20 +809,20 @@ D. Kerala
 **Q1.** With reference to ISFR forest cover definition, which of the following statements is/are correct?
 
 1. Forest cover means a patch of at least 1 ha with canopy ≥10%.
-2. It is counted on any land ownership.
+2. Forest cover is counted only on Recorded Forest Area land.
 3. Forest cover is identical to Recorded Forest Area in all cases.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Forest cover ≠ RFA ≠ tree cover.
+**Logic:** Statement 1 is the FSI canopy definition (≥1 ha, ≥10%). Statement 2 is false — forest cover is irrespective of ownership and is not limited to RFA. Statement 3 is false — forest cover ≠ Recorded Forest Area.
 
 </details>
 
@@ -1073,7 +1073,7 @@ D. VDF → MDF → OF
 
 1. Amazon rainforest is often called the “lungs of the Earth” in coaching figures.
 2. This replaces India’s ISFR definition of forest cover.
-3. It is a global biogeography teaching hook, not an ISFR India % lock.
+3. It is a global biogeography teaching hook, not an ISFR India % fact.
 
 A. 1 and 3 only
 B. 1 and 2 only
@@ -1263,7 +1263,7 @@ D. 1, 2 and 3
 
 **Ans: D.** All three.
 
-**Logic:** Standard UP belt locks.
+**Logic:** Standard UP belt facts.
 
 </details>
 

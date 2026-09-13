@@ -1223,7 +1223,7 @@ D. Only 1
 
 **Ans: D.** Only 1 is correct.
 
-**Logic:** Statement 1 is the NCERT lock. Statement 2 reverses the Prelims default (natural/physical sense).
+**Logic:** Statement 1 is the NCERT fact. Statement 2 reverses the Prelims default (natural/physical sense).
 
 </details>
 
@@ -1254,23 +1254,23 @@ D. 2, 3 and 4 only
 
 **Q3.** With reference to Earth’s environmental spheres, which of the following statements is/are correct?
 
-1. Lithosphere covers roughly 29% of Earth’s surface and hydrosphere about 71%.
+1. Lithosphere covers roughly 71% of Earth’s surface and hydrosphere about 29%.
 2. Biosphere extends from about 200 m below the soil surface to about 6 km above sea level.
 3. Pedosphere is counted as a fifth sphere equal in status to lithosphere in standard four-sphere teaching.
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. Only 2
+C. Only 1
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2.
+**Ans: B.** Only 2 is correct.
 
-**Logic:** 1 and 2 are standard locks. Pedosphere is usually grouped with lithosphere/edaphic factors — not a fifth sphere.
+**Logic:** Statement 1 reverses lithosphere/hydrosphere shares (~29% land / ~71% water). Statement 2 is the usual biosphere vertical range. Statement 3 over-ranks pedosphere versus the standard four-sphere teaching.
 
 </details>
 
@@ -1322,45 +1322,45 @@ D. A-1, B-3, C-2
 
 **Q6.** Which of the following pairs is/are **NOT** correctly matched?
 
-1. Lentic ecosystem — flowing water such as rivers
+1. lotic ecosystem — flowing water such as rivers
 2. Lotic ecosystem — standing water such as ponds and lakes
 3. Mangrove / wetland — transitional habitat between land and water
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** 1 and 2 only are not correctly matched.
+**Ans: D.** Only pair 2 is not correctly matched.
 
-**Logic:** Lentic = standing; lotic = flowing. Pair 3 is correct. So 1 and 2 are wrong matches.
+**Logic:** Lotic = flowing water; standing water is lentic — pair 2 swaps them. Pairs 1 and 3 are correctly matched.
 
 </details>
 
 **Q7.** With reference to biotic structure of an ecosystem, which of the following statements is/are correct?
 
 1. The usual sequence is producers → consumers → decomposers.
-2. Rhizobium is associated with nitrogen fixation in leguminous plants.
+2. Rhizobium has no role in nitrogen fixation in leguminous plants.
 3. Viruses are the principal decomposers in terrestrial ecosystems.
 
 Select the correct answer from the code given below:
 
-A. 2 and 3 only
-B. 1 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: A.** Only 1 is correct.
 
-**Logic:** 1 and 2 are correct. Decomposers are mainly fungi and bacteria — not viruses.
+**Logic:** Statement 1 is the standard biotic sequence. Statement 2 is false — Rhizobium fixes N in legumes. Statement 3 is false — fungi/bacteria are principal terrestrial decomposers, not viruses.
 
 </details>
 
@@ -1836,7 +1836,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 1. Kanpur — tannery pollution hotspot teaching
 2. Varanasi — Ganga ghat pollution hotspot teaching
-3. Surajkund crafts fair — principal UP environment festival lock
+3. Surajkund crafts fair — principal UP environment festival fact
 
 Select the correct answer from the code given below:
 
@@ -1850,7 +1850,7 @@ D. 1, 2 and 3
 
 **Ans: A.** Only 1 and 2.
 
-**Logic:** Kanpur and Varanasi are standard UP pollution locks. Surajkund is Haryana — not a UP environment festival lock.
+**Logic:** Kanpur and Varanasi are standard UP pollution facts. Surajkund is Haryana — not a UP environment festival fact.
 
 </details>
 

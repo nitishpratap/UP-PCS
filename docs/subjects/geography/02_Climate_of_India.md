@@ -1345,20 +1345,20 @@ D. Exosphere
 **Q1.** With reference to India’s climate type, which of the following statements is/are correct?
 
 1. India’s climate is tropical monsoon, not wholly tropical.
-2. The Himalaya acts as a winter wall against Central Asian cold.
-3. About 75–90% of India’s rain falls with the north-east monsoon.
+2. About 75–90% of India’s rain falls with the north-east monsoon.
+3. The Himalaya does not block Central Asian cold and India has a wholly continental winter climate.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. 1 and 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** SW monsoon (Jun–Sep) brings most rain; NE monsoon is mainly SE coast.
+**Logic:** India’s climate is tropical monsoon. SW monsoon brings most rain; the Himalaya does act as a winter wall against Central Asian cold.
 
 </details>
 
@@ -1453,40 +1453,40 @@ D. A-1, B-3, C-2, D-4
 **Q6.** With reference to jet streams over India, which of the following statements is/are correct?
 
 1. The Subtropical Westerly Jet is a winter westerly that helps steer Western Disturbances.
-2. The Tropical Easterly Jet is a summer easterly supporting the SW monsoon.
+2. The Tropical Easterly Jet is a winter westerly that steers Western Disturbances.
 3. Mid-latitude jets are easterly in both seasons over India.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** Mid-latitude jets are westerly; TEJ is the summer easterly exception in the tropics.
+**Logic:** TEJ is a summer easterly supporting the SW monsoon. Mid-latitude jets are westerly, not easterly in both seasons.
 
 </details>
 
 **Q7.** With reference to ENSO and IOD, which of the following statements is/are correct?
 
-1. El Niño usually weakens the Indian monsoon.
-2. A positive IOD helps the Indian monsoon.
-3. IOD compares the western and eastern Pacific Ocean.
+1. IOD compares the western and eastern Pacific Ocean.
+2. El Niño usually weakens the Indian monsoon.
+3. A positive IOD always weakens the Indian monsoon like El Niño.
 
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 2
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 2 are correct.
+**Ans: B.** Only 2 is correct.
 
-**Logic:** IOD is an Indian Ocean dipole, not Pacific.
+**Logic:** IOD is an Indian Ocean dipole, not Pacific. A positive IOD helps the Indian monsoon; El Niño usually weakens it.
 
 </details>
 
@@ -1532,15 +1532,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Sea surface temperature needs about 26–27°C.
 3. They commonly form on the equator because Coriolis is strongest there.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. Only 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** Cyclones do not form on the equator — Coriolis is near zero.
 
@@ -1595,19 +1595,19 @@ D. A-3, B-1, C-2, D-4
 
 **Q13.** With reference to IMD seasons, which of the following statements is/are correct?
 
-1. Cold Weather is December–February with Western Disturbances in the north-west.
-2. Retreating Monsoon is October–November with October heat and Bay/Andaman cyclones.
-3. Hot Weather is June–September.
+1. Hot Weather is June–September.
+2. Cold Weather is December–February with Western Disturbances in the north-west.
+3. Retreating Monsoon is October–November with October heat and Bay/Andaman cyclones.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 3
+B. Only 2
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: C.** 2 and 3 only are correct.
 
 **Logic:** Hot Weather is March–May; SW monsoon is June–September.
 
@@ -1631,9 +1631,9 @@ D. Rajasthan is wet because Aravalli lies across the Arabian Sea branch
 
 **Q15.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): Thornthwaite said vegetation is the true index of climate.
+Assertion (A): Köppen’s system is based only on vegetation maps without temperature–precipitation letter codes.
 
-Reason (R): Köppen’s system is based only on vegetation maps without temperature–precipitation letter codes.
+Reason (R): Thornthwaite said vegetation is the true index of climate.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -1643,9 +1643,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true; (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** Thornthwaite owns the vegetation-index line; Köppen uses T+P letter codes.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Thornthwaite owns the vegetation-index line; Köppen uses T+P letter codes.
 
 </details>
 
@@ -1655,15 +1655,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Bay of Bengal branch waters the north-east and the Ganga plain.
 3. Tamil Nadu’s main rain comes with the south-west monsoon Bay branch.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** TN SE coast is rain-shadowed in SW monsoon; NE monsoon is its main rain.
 
@@ -1692,18 +1692,18 @@ D. 3–1–2
 **Q18.** Which of the following statements about Uttar Pradesh climate tags is/are correct?
 
 1. May–June Loo heat waves hit the plains.
-2. Winter rain/fog track Western Disturbances; western UP is wetter than eastern UP in that regime.
-3. North-east monsoon is the main all-UP winter rainfall system.
+2. North-east monsoon is the main all-UP winter rainfall system.
+3. Winter rain/fog track Western Disturbances; western UP is wetter than eastern UP in that regime.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 3
+C. Only 2
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: B.** 1 and 3 only are correct.
 
 **Logic:** NE monsoon is mainly SE coast, not all-UP winter rain.
 
@@ -1742,15 +1742,15 @@ D. A-1, B-3, C-2, D-4
 2. Warm surface water can suppress upwelling and reduce plankton.
 3. La Niña cools that ocean and usually strengthens the Indian monsoon.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. Only 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Keep El Niño weak-monsoon tendency distinct from guaranteed all-India drought.
 
@@ -1802,15 +1802,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. An isohyet is a line of equal rainfall.
 3. A rainy day is often counted from about 2.5 mm of rain.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. All 1, 2 and 3
+B. Only 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Plain application of climate teaching facts.
 
@@ -1838,15 +1838,15 @@ D. Ozone peaks in the troposphere only
 2. Western Disturbances are winter extra-tropical NW rain systems.
 3. Western Disturbance rain increases west to east across the plains.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
+A. 2 and 3
+B. Only 1
+C. Only 1 and 2
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** WD rain decreases west to east.
 
@@ -1858,15 +1858,15 @@ D. 1, 2 and 3
 2. Condensation releases latent heat.
 3. Normal lapse rate is about 6.5°C per 1000 m.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 2 and 3
+C. 1 and 3
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** RH falls as temperature rises — separate humidity trap.
 
@@ -1898,15 +1898,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. South-east trades cross the equator near about 40–60° E.
 3. Mascarene High and Somali Jet feed the monsoon branches.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Classic monsoon setup from Must-Score.
 
@@ -1934,15 +1934,15 @@ D. Khamsin — West Africa dust wind
 2. Word monsoon comes from Arabic mausim (season).
 3. Onset of SW monsoon usually begins first in Kerala around 1 June.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Basic cyclone structure + monsoon etymology/onset.
 

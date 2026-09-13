@@ -1211,23 +1211,21 @@ D. (A) is false, but (R) is true
 
 **Q1.** With reference to the Astika schools, which of the following statements is/are correct?
 
-1. Nyaya is associated with Gautama and stresses logic and epistemology.
-2. Vaisheshika is associated with Kanada and stresses atomism.
-3. The Gautama of Nyaya is identical with the Buddha.
+1. The Gautama of Nyaya is identical with the Buddha.
+2. Nyaya is associated with Gautama and stresses logic and epistemology.
+3. Vaisheshika is associated with Kapila and stresses Samkhya dualism.
 
-Select the correct answer from the code given below:
-
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. All 1, 2 and 3
+B. Only 2 and 3
+C. Only 1
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: D.** Only 2 is correct.
 
-**Logic:** Nyaya’s Gautama is not the Buddha.
+**Logic:** Nyaya’s Gautama is not the Buddha. Vaisheshika is Kanada’s atomism, not Kapila’s Samkhya.
 
 </details>
 
@@ -1343,22 +1341,20 @@ D. Badri / Jyotirmath — Atharvaveda
 **Q7.** With reference to the Vedic textual stack, which of the following statements is/are correct?
 
 1. The usual order is Samhita → Brahmana → Aranyaka → Upanishad.
-2. Tat tvam asi is associated with the Chandogya Upanishad.
-3. Brahman and Brahmin are interchangeable terms in philosophy stems.
+2. Brahman and Brahmin are interchangeable terms in philosophy stems.
+3. Tat tvam asi is associated with the Brihadaranyaka Upanishad alone, not Chandogya.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. 1 and 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Brahman is the Absolute. Brahmin is the social category.
+**Logic:** Brahman is the Absolute; Brahmin is the social category. Tat tvam asi is a Chandogya mahavakya.
 
 </details>
 
@@ -1411,30 +1407,28 @@ D. 2–1–3–4
 **Q10.** With reference to Theravada and Mahayana, which of the following statements is/are correct?
 
 1. Theravada aims at the arhat ideal and traditionally uses Pali.
-2. Mahayana aims at the Bodhisattva ideal and often uses Sanskrit.
+2. Mahayana aims at the arhat ideal and rejects the Bodhisattva path.
 3. Milindapanha is a dialogue of Menander with Nagarjuna.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: A.** Only 1 is correct.
 
-**Logic:** Milindapanha pairs Menander / Milinda with Nagasena, not Nagarjuna.
+**Logic:** Mahayana centres the Bodhisattva ideal and often uses Sanskrit. Milindapanha pairs Menander / Milinda with Nagasena, not Nagarjuna.
 
 </details>
 
 **Q11.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): Mahavira added Brahmacharya as the fifth vow beyond Parshva’s four vows.
+Assertion (A): Digambara monks wear white robes and admit women as monks on the same footing as Svetambara practice.
 
-Reason (R): Digambara monks wear white robes and admit women as monks on the same footing as Svetambara practice.
+Reason (R): Mahavira added Brahmacharya as the fifth vow beyond Parshva’s four vows.
 
 Select the correct answer from the code given below:
 
@@ -1446,9 +1440,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true. (R) is false because Digambara monks are sky-clad and deny women monks.
+**Ans: B.** A false, R true.
 
-**A/R logic:** Vow fact is correct. Digambara / Svetambara dress and gender rules are reversed in (R).
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Vow fact is correct. Digambara / Svetambara dress and gender rules are reversed in (R).
 
 </details>
 
@@ -1480,22 +1474,22 @@ D. 1, 2, 3 and 4
 **Q13.** With reference to Jain Tirthankara symbols, which of the following is/are correctly matched?
 
 1. Rishabha — bull
-2. Parshva — snake
-3. Mahavira — lion
+2. Parshva — lion
+3. Mahavira — snake
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three symbol matches are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Nirvana place tags include Ashtapad, Shikharji and Pavapuri when asked.
+**Logic:** Parshva’s symbol is the snake. Mahavira’s symbol is the lion. Do not swap the two.
 
 </details>
 
@@ -1523,10 +1517,10 @@ D. Chaitanya → Namdev → Kabir → Nanak
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -1570,15 +1564,15 @@ D. 1, 2, 3 and 4
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Keep Guru–achievement pairs separate from Takht geography.
 
@@ -1608,15 +1602,15 @@ D. Golden Temple as a separate fifth Takht name in the standard five-Takht list
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 3
+B. 1, 2 and 3
+C. Only 1 and 2
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three pramana-count statements are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Pramana-number traps are frequent: one vs four vs six.
 
@@ -1624,9 +1618,9 @@ D. 1, 2 and 3
 
 **Q20.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): Kumbh Mela is recognised as UNESCO intangible cultural heritage (2017).
+Assertion (A): Kumbh Mela is also a monument World Heritage cultural site like the Taj Mahal.
 
-Reason (R): Kumbh Mela is also a monument World Heritage cultural site like the Taj Mahal.
+Reason (R): Kumbh Mela is recognised as UNESCO intangible cultural heritage (2017).
 
 Select the correct answer from the code given below:
 
@@ -1638,9 +1632,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true. (R) is false because Kumbh is intangible heritage, not a monument WHS.
+**Ans: B.** A false, R true.
 
-**A/R logic:** Do not confuse ICH living rites with tangible monument listings.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Do not confuse ICH living rites with tangible monument listings.
 
 </details>
 
@@ -1652,15 +1646,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Which of the statements given above are correct?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Also remember Salim Chishti’s dargah at Fatehpur Sikri as the high-yield UP Sufi site.
 
@@ -1668,21 +1662,19 @@ D. 1, 2 and 3
 
 **Q22.** With reference to Nastika traditions, which of the following statements is/are correct?
 
-1. The usual Nastika set is Charvaka, Buddhism and Jainism.
-2. Ajivika is linked with Makkhali Gosala and the idea of niyati.
-3. Astika schools reject the Veda as pramana.
+1. Astika schools reject the Veda as pramana.
+2. The usual Nastika set is Charvaka, Buddhism and Jainism.
+3. Ajivika is linked with Makkhali Gosala and the idea of niyati.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 2 and 3 only are correct.
 
 **Logic:** Astika schools accept the Veda as pramana. Nastika reject Vedic authority.
 
@@ -1710,17 +1702,15 @@ D. Tulsidas — primarily Braj Padavali like Surdas
 2. Parshva taught four vows.
 3. Digambara monks wear white and admit women monks.
 
-Which of the statements given above is/are correct?
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** White dress and women monks are Svetambara features, not Digambara.
 
@@ -1795,15 +1785,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
+A. 2 and 3
+B. Only 1
+C. Only 1 and 2
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three places appear in the nirvana-place set.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Pair them with Tirthankara narratives when the stem asks specifics.
 
@@ -1812,20 +1802,18 @@ D. 1, 2 and 3
 **Q29.** Which of the following statements about Charvaka is/are correct?
 
 1. It is counted among Nastika traditions.
-2. It accepts only one pramana in the usual teaching contrast.
-3. It is identical with Yoga–Patanjali.
+2. It is identical with Yoga–Patanjali.
+3. It accepts only one pramana in the usual teaching contrast.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 3
+B. Only 1
+C. Only 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: A.** 1 and 3 only are correct.
 
 **Logic:** Yoga–Patanjali is Astika and is not Charvaka.
 
@@ -1841,15 +1829,15 @@ D. 1, 2 and 3
 
 Which of the pairs given above are correctly explained?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three distinctions are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Kumbh and Yoga are ICH examples. Qutub-type monuments are tangible WHS examples.
 

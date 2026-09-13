@@ -362,15 +362,15 @@ D. Muzaffar Shah of Gujarat
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Also remember Bhati–Jaisalmer and Hada–Bundi–Kota as other house tags.
 
@@ -476,15 +476,15 @@ D. A-1, B-3, C-2, D-4
 
 Which of the statements given above is/are correct?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. Only 1 and 2
+B. Only 2 and 3
+C. Only 1 and 3
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three statements are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Haldighati ≠ decisive imperial knockout; guerrilla phase follows.
 
@@ -496,17 +496,15 @@ D. 1 and 3 only
 2. Rao is used for Marwar and Bikaner.
 3. Rana Chunda and Rao Chunda refer to the same Marwar founder only.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Rana Chunda is Mewar; Rao Chunda is Marwar — a classic trap.
 
@@ -564,15 +562,15 @@ D. 2 and 3 only
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Chittor vs Udaipur is fort prestige vs new capital.
 
@@ -607,17 +605,15 @@ D. 2-4-3-1
 2. Saka is the warriors’ last charge.
 3. Both terms mean the same Mughal revenue demand.
 
-Which of the statements given above is/are correct?
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
+A. 2 and 3
+B. Only 1
+C. Only 1 and 2
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Jauhar/saka are fort-fall rites, not revenue terms.
 
@@ -625,11 +621,11 @@ D. 1, 2 and 3
 
 **Q13.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): Rana Hammir of Mewar restored Sisodia power after the Khalji sack (~1326).
-
-Reason (R): He is identical with Hamir Deva of Ranthambore who died in 1301.
+Assertion (A): He is identical with Hamir Deva of Ranthambore who died in 1301.
 
 Select the correct answer from the code given below:
+
+Reason (R): Rana Hammir of Mewar restored Sisodia power after the Khalji sack (~1326).
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -639,9 +635,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** A is true and R is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** Mewar Hammir ≠ Ranthambore’s Hamir Deva — different persons and dates.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Mewar Hammir ≠ Ranthambore’s Hamir Deva — different persons and dates.
 
 </details>
 
@@ -699,15 +695,15 @@ D. A-3, B-1, C-2, D-4
 
 Which of the statements given above is/are correct?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. Only 1 and 2
+B. Only 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three statements are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Khanwa geography sits near the Agra–Fatehpur Sikri belt — not Haldighati’s Aravalli pass.
 
@@ -715,10 +711,10 @@ D. 1 and 3 only
 
 **Q17.** With reference to Jayata and Kumpa, which of the following statements is/are correct?
 
-1. They fought for Marwar against Sher Shah at Sammel (1544).
-2. They were Mewar Sisodia captains under Pratap at Haldighati.
+1. They were Mewar Sisodia captains under Pratap at Haldighati.
 
 Select the correct answer from the code given below:
+2. They fought for Marwar against Sher Shah at Sammel (1544).
 
 A. Only 1
 B. Only 2
@@ -728,7 +724,7 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only statement 1 is correct.
+**Ans: B.** Only 2 is correct.
 
 **Logic:** Marwar Rathore captains — not Mewar.
 
@@ -803,15 +799,15 @@ D. Neither 1 nor 2
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1, 2 and 3
+B. Only 1 and 2
+C. 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three pairs are correctly matched.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Do not treat Udai Singh of Mewar as Tansen’s pre-Akbar patron.
 
@@ -913,10 +909,10 @@ D. Neither 1 nor 2
 
 Which of the statements given above is/are correct?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. Only 1 and 2
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -953,15 +949,15 @@ D. Both names always mean the same Chauhan king
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correctly matched.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Pair 3 wrongly transplants Haldighati to Panipat geography.
 
@@ -990,11 +986,11 @@ D. Neither 1 nor 2
 
 **Q30.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): Sanga fought Babur; Pratap fought Akbar’s forces.
-
-Reason (R): Therefore Khanwa and Haldighati are the same battle under two names.
+Assertion (A): Therefore Khanwa and Haldighati are the same battle under two names.
 
 Select the correct answer from the code given below:
+
+Reason (R): Sanga fought Babur; Pratap fought Akbar’s forces.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -1004,9 +1000,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** A is true and R is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** A correctly separates Sanga/Pratap eras; R falsely merges the two battles.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. A falsely merges Khanwa and Haldighati; R correctly separates Sanga/Babur from Pratap/Akbar’s forces.
 
 </details>
 

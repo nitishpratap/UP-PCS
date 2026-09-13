@@ -434,21 +434,24 @@ Amir Khusrau → Nizamuddin Auliya in disciple–guru match.
 
 **Q1.** With reference to medieval music forms, which of the following statements is/are correct?
 
-1. Dhrupad is the oldest art form and uses pakhawaj.
-2. Khayal is dominant today and uses tabla.
-3. Dhrupad’s main drum is tabla.
+1. Dhrupad is the oldest art form and uses tabla as its main drum.
+2. Dhrupad’s main drum is tabla.
+3. Khayal is dominant today and uses tabla.
 
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. 1 and 2
+
+B. 2 and 3
+
+C. Only 3
+
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: C.** Only 3 is correct.
 
-**Logic:** Pakhawaj accompanies dhrupad; tabla accompanies khayal/thumri.
+**Logic:** Stmt 1 false: Dhrupad uses pakhawaj; tabla accompanies khayal/thumri. Stmt 2 remains false for the same drum swap.
 
 </details>
 
@@ -541,21 +544,24 @@ D. 1 and 3 only
 
 **Q6.** With reference to Tansen, which statements is/are correct?
 
-1. Before Akbar, Raja Ramchandra of Bhata (Rewa) patronised him.
-2. Under Akbar he was a Navratna and dhrupad master (Miyan Tansen).
-3. His main imperial form was khayal with tabla.
+1. His main imperial form was khayal with tabla.
+2. Before Akbar, Raja Ramchandra of Bhata (Rewa) banned his music as un-Islamic.
+3. Under Akbar he was a Navratna and dhrupad master (Miyan Tansen).
 
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. 1 and 2
+
+B. 2 and 3
+
+C. 1 and 3
+
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: D.** Only 3 is correct.
 
-**Logic:** Tansen = dhrupad + pakhawaj, not khayal + tabla.
+**Logic:** Stmt 2 false: Raja Ramchandra of Bhata patronised Tansen before Akbar’s court. Stmt 1 remains false: Tansen = dhrupad + pakhawaj, not khayal + tabla.
 
 </details>
 
@@ -567,15 +573,15 @@ D. 1, 2 and 3
 
 Which of the above is/are associated with Tansen?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. Only 1 and 2
+B. Only 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are associated with Tansen.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Gwalior / Behat tradition feeds his origin story before Rewa and Akbar.
 
@@ -634,15 +640,15 @@ D. A-3, B-1, C-2, D-4
 2. Brihaddeshi (Matanga) uses “raga” clearly.
 3. Sangeet Ratnakar is by Sharngadeva.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. Only 1
+B. 1 and 2
+C. Only 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** After the 12th–13th century, Hindustani and Carnatic branches diverged.
 
@@ -670,15 +676,15 @@ D. Agra gharana — Carnatic kriti school of Tyagaraja alone
 2. He served Balban / Alauddin / Ghiyasuddin courts.
 3. He was Akbar’s Navratna dhrupad master.
 
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. 1, 2 and 3
+B. 1 and 2
+C. Only 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Folklore may credit inventions; key facts keep him as Nizamuddin–Hindavi music bridge.
 
@@ -686,21 +692,24 @@ D. 1, 2 and 3
 
 **Q13.** Consider the following statements about later Mughal music:
 
-1. Muhammad Shah marks khayal and tappa bloom.
-2. Sadarang / Adarang are linked with that khayal flowering.
+1. Aurangzeb marks khayal and tappa bloom at the imperial court.
+2. Sadarang / Adarang are linked with Muhammad Shah’s khayal flowering.
 3. Aurangzeb increased imperial court music patronage above Akbar’s level.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2
+
+B. 1 and 2
+
+C. 2 and 3
+
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: A.** Only 2 is correct.
 
-**Logic:** Aurangzeb reduced court patronage; music survived in regional courts and mehfils.
+**Logic:** Stmt 1 false: Muhammad Shah marks khayal/tappa bloom; Aurangzeb reduced court patronage. Stmt 3 remains false for the same Aurangzeb patronage trap. Stmt 2 is the Sadarang–Adarang / Muhammad Shah link.
 
 </details>
 
@@ -746,19 +755,19 @@ D. 3–2–1
 
 **Q16.** Which of the following statements about drums is/are correct?
 
-1. Tabla accompanies khayal and thumri.
-2. Pakhawaj accompanies dhrupad.
-3. Pakhawaj is the primary drum of modern khayal performance.
+1. Pakhawaj is the primary drum of modern khayal performance.
+2. Tabla accompanies khayal and thumri.
+3. Pakhawaj accompanies dhrupad.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 2 and 3 only are correct.
 
 **Logic:** Drum swap is a high-frequency trap.
 
@@ -794,18 +803,18 @@ D. A-3, B-1, C-2, D-4
 **Q18.** With reference to Hindustani vs Carnatic divergence, which statements is/are correct?
 
 1. After the 12th–13th century, north Hindustani and south Carnatic branches diverged.
-2. This topic’s court focus is mainly the north / Mughal–Sultanate stream.
-3. Khayal gharanas are identical with Carnatic melakarta theory alone.
+2. Khayal gharanas are identical with Carnatic melakarta theory alone.
+3. This topic’s court focus is mainly the north / Mughal–Sultanate stream.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. Only 3
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 3 only are correct.
 
 **Logic:** Improvisation/gharana vs kriti/melakarta is the branch contrast.
 
@@ -850,18 +859,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q21.** With reference to Sultanate music fusion, which statements is/are correct?
 
 1. It fused Amir Khusrau, Chishti sama, and Hindavi synthesis.
-2. This phase precedes the Mughal dhrupad peak.
-3. It begins only after Aurangzeb’s patronage expansion.
+2. It begins only after Aurangzeb’s patronage expansion.
+3. This phase precedes the Mughal dhrupad peak.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. Only 1 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 1 and 3 only are correct.
 
 **Logic:** Aurangzeb reduced — not expanded — imperial music patronage.
 
@@ -873,15 +882,15 @@ D. 1, 2 and 3
 2. Tappa is a fast camel-song refined at Muhammad Shah’s court.
 3. Thumri and tappa are identical forms with the same court home.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 3
+B. Only 1, 2 and 3
+C. 1 and 2
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Tappa vs thumri is a standard confused pair.
 
@@ -893,15 +902,15 @@ D. 1, 2 and 3
 2. Akbar made Tansen a Navratna.
 3. Nizamuddin’s circle is the Sultanate-age home of Amir Khusrau.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. 2 and 3
+C. 1 and 3
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Patron map: Rewa → Akbar for Tansen; Nizamuddin for Khusrau.
 
@@ -940,15 +949,15 @@ D. A-3, B-1, C-2, D-4
 2. A separate literary list once paired Khusrau with Rag Vibodh.
 3. Both codes should be learned without merging them into one author.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
+A. Only 2 and 3
+B. Only 1
+C. 1 and 2
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Somanath vs Khusrau (Raga Vibodh) is an explicit confused pair.
 
@@ -980,15 +989,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Pundrik Vitthal wrote Ragamala.
 3. Sri Kantha wrote Rasa Kaumudi.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Treatise↔author rows are Must-Score staples.
 
@@ -996,21 +1005,19 @@ D. 1, 2 and 3
 
 **Q28.** Consider the following pairs:
 
-1. Tarana — nonsense syllables; Khusrau tradition
-2. Qawwali — Sufi chorus
-3. Sama — Awadh romantic thumri identical with Kajri
+1. Sama — Awadh romantic thumri identical with Kajri
+2. Tarana — nonsense syllables; Khusrau tradition
+3. Qawwali — Sufi chorus
 
-Which of the pairs given above is/are correctly matched?
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. Only 1 and 2
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correctly matched.
+**Ans: A.** 2 and 3 only are correct.
 
 **Logic:** Sama is Chishti assembly — not thumri/Kajri.
 
@@ -1038,15 +1045,15 @@ D. Tansen — primary khayal theorist of Muhammad Shah’s court
 2. Akbar-phase imperial dhrupad peaked with Tansen as Navratna.
 3. Later Mughal phase under Muhammad Shah flowered in khayal and tappa.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. All 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Three-phase spine: Sultanate bridge → Akbar dhrupad → Rangeela lighter forms.
 

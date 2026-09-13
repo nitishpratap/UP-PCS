@@ -1449,22 +1449,23 @@ D. All 1, 2, 3 and 4
 **Q1.** With reference to the First Battle of Panipat (1526), which of the following statements is/are correct?
 
 1. Babur defeated Ibrahim Lodi and founded Mughal rule in India.
-2. Babur used Tulughma flanking and Araba cart-forts with gunpowder.
-3. The battle is remembered mainly as Babur’s defeat of Rana Sanga.
+2. The battle is remembered mainly as Babur’s defeat of Rana Sanga.
+3. Babur used Tulughma flanking and Araba cart-forts only at Khanwa, never at Panipat.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+B. 2 and 3
+
+C. Only 1
+
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: C.** Only 1 is correct.
 
-**Logic:** Statement 3 confuses Panipat I with Khanwa (1527), where Babur defeated Rana Sanga.
+**Logic:** Stmt 3 false: Babur used Tulughma and Araba with gunpowder at Panipat I (1526) as well; Khanwa 1527 is the Rana Sanga fight. Stmt 2 remains false: Panipat I is vs Ibrahim Lodi, not mainly Rana Sanga.
 
 </details>
 
@@ -1517,11 +1518,11 @@ D. 2 and 3 only
 
 **Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): Babur wrote the Baburnama (Tuzk-e-Babri) in Chagatai Turki.
-
-Reason (R): Turki was the official language of the Mughal court.
+Assertion (A): Turki was the official language of the Mughal court.
 
 Select the correct answer from the code given below:
+
+Reason (R): Babur wrote the Baburnama (Tuzk-e-Babri) in Chagatai Turki.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -1531,9 +1532,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** A is true and R is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** Memoir language was Chagatai Turki; Mughal court language was Persian — so R is false.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Mughal court language was Persian (A false); Baburnama was Chagatai Turki (R true).
 
 </details>
 
@@ -1568,9 +1569,9 @@ D. 4-2-3-1
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
+A. 2 and 3
+B. Only 1
+C. 1 and 2
 D. 1, 2 and 3
 
 <details>
@@ -1615,15 +1616,15 @@ D. A-3, B-1, C-2, D-4
 
 Which of the statements given above is/are correct?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three Cause–Course–Result statements are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Khanwa is Babur vs Sanga — never pair Pratap with Khanwa.
 
@@ -1653,10 +1654,10 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q10.** With reference to Bairam Khan, which of the following statements is/are correct?
 
-1. Akbar conferred on him the title Khan-i-Khana.
-2. The title was conferred only when he was first appointed Vazir under Humayun.
+1. The title was conferred only when he was first appointed Vazir under Humayun.
 
 Select the correct answer from the code given below:
+2. Akbar conferred on him the title Khan-i-Khana.
 
 A. Only 1
 B. Only 2
@@ -1666,7 +1667,7 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only statement 1 is correct.
+**Ans: B.** Only 2 is correct.
 
 **Logic:** Khan-i-Khana from Akbar is true; the ‘only when appointed Vazir’ claim is false.
 
@@ -1675,22 +1676,20 @@ D. Neither 1 nor 2
 **Q11.** Consider the following statements about mansabdari:
 
 1. It used dual ranks of zat and sawar.
-2. Mansabs were hereditary like jagir succession in all cases.
-3. Jagir lands were assigned to mansabdars, while khalsa was crown land.
+2. Jagir lands were assigned to mansabdars, while khalsa was crown land.
+3. Mansabs were hereditary like jagir succession in all cases.
 
-Which of the statements given above is/are correct?
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. 1 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 3 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
-**Logic:** Mansabdari was not hereditary — statement 2 is the trap.
+**Logic:** Mansabdari was not hereditary — statement 3 is the trap.
 
 </details>
 
@@ -1725,15 +1724,15 @@ D. 3-1-2-4
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. All 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Succession spine: Shuja near Banaras → Dharmat → Samugarh → Deorai.
 
@@ -1791,9 +1790,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
+A. 2 and 3
+B. Only 1
+C. 1 and 2
 D. 1, 2 and 3
 
 <details>
@@ -1807,23 +1806,21 @@ D. 1, 2 and 3
 
 **Q17.** Consider the following statements about Abul Fazl and related works:
 
-1. Abul Fazl wrote Akbarnama and Ain-i-Akbari.
-2. Abdur Rahim Khan-i-Khana translated Baburnama into Persian.
-3. Ain-i-Akbari is only a narrative chronicle and has no administrative gazetteer character.
+1. Ain-i-Akbari is only a narrative chronicle and has no administrative gazetteer character.
+2. Abul Fazl wrote Akbarnama and Ain-i-Akbari.
+3. Abdur Rahim Khan-i-Khana translated Baburnama into Persian.
 
-Which of the statements given above is/are correct?
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
+A. Only 2 and 3
+B. Only 1
+C. Only 1 and 2
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: A.** 2 and 3 only are correct.
 
-**Logic:** Akbarnama = narrative; Ain-i-Akbari = admin gazetteer — statement 3 reverses that.
+**Logic:** Statement 1 reverses the pair: Akbarnama = narrative; Ain-i-Akbari = admin gazetteer.
 
 </details>
 
@@ -1856,15 +1853,15 @@ D. Neither 1 nor 2
 
 Which of the statements given above is/are correct?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. Only 2 and 3
+B. Only 1
+C. 1 and 2
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three statements are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Do not confuse Deccan annexation success with Shah Jahan’s Balkh failure (1646–47).
 
@@ -1900,10 +1897,10 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -1945,17 +1942,15 @@ D. A-3, B-1, C-2, D-4
 2. At Kannauj/Bilgram (1540) Sher Shah won decisively and Humayun went into exile.
 3. Daurah (1532) was the same battle as Chausa under another name.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. Only 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** Daurah 1532 was Humayun vs Afghan chiefs — not Chausa.
 
@@ -2074,15 +2069,15 @@ D. 3-1-4-2
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correctly matched.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Court language was Persian — pair 3 is false.
 

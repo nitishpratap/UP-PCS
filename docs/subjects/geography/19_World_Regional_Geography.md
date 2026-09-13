@@ -1702,22 +1702,22 @@ D. Bahasa — Thailand
 **Q1.** With reference to West Asia, which of the following statements is/are correct?
 
 1. Iraq’s Sunni Triangle is Baghdad, Tikrit and Ramadi.
-2. Basra is the classic Shia-south trap option for that triangle.
-3. West Asia mountains west to east run Pontic → Zagros → Hindu Kush → Karakoram.
+2. Basra is the classic northern vertex of Iraq’s Sunni Triangle.
+3. West Asia mountains west to east run Karakoram → Hindu Kush → Zagros → Pontic.
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1, 2 and 3
+B. Only 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: C.** Only 1 is correct.
 
-**Logic:** Do not insert Basra into the Sunni Triangle.
+**Logic:** Iraq’s Sunni Triangle is Baghdad, Tikrit and Ramadi — do not insert Basra. Mountains west→east: Pontic → Zagros → Hindu Kush → Karakoram.
 
 </details>
 
@@ -1815,45 +1815,43 @@ D. 2-4-3-1
 
 **Q6.** With reference to South America, which of the following statements is/are correct?
 
-1. Bolivia and Paraguay are the landlocked pair.
-2. Uruguay, Peru and Suriname have coasts.
-3. Igarka is a Chinese river port on the Yangtze.
+1. Bolivia and Paraguay are the classic landlocked pair in South America.
+2. Uruguay, Peru and Suriname are all landlocked with no coasts.
+3. The Sahel is identical with the Congo rainforest belt.
 
-Select the correct answer from the code given below:
-
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 1
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Igarka is in Russia on the Yenisei, not China.
+**Logic:** Bolivia and Paraguay are the landlocked pair. Uruguay, Peru and Suriname have coasts. Maghreb is NW Africa north of the Sahara, not sub-Saharan East Africa; Sahel is the Sahara’s southern fringe, not the Congo rainforest.
 
 </details>
 
 **Q7.** Consider the following statements about Australia:
 
 1. The interior is desert.
-2. The north is tropical, not temperate.
-3. The Darling Range lies in south-west Australia.
+2. The north of Australia is temperate, not tropical.
+3. The Darling Range lies in north-east Queensland only.
 
 Which of the statements given above is/are correct?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: A.** Only 1 is correct.
 
-**Logic:** Northern Australia temperate is a frequent false Reason.
+**Logic:** Australian interior is desert. The north is tropical. The Darling Range lies in south-west Australia.
 
 </details>
 
@@ -1890,15 +1888,15 @@ D. A-4, B-1, C-2, D-3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. All 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Do not swap 38th and 49th parallels.
 
@@ -1932,17 +1930,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Bolivia is double-landlocked because it borders only landlocked states.
 3. Kazakhstan is the largest landlocked country by area.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2
+B. Only 2 and 3
+C. Only 1
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 3 are correct.
+**Ans: D.** 1 and 3 only are correct.
 
 **Logic:** Bolivia is landlocked but not double-landlocked in the usual set.
 
@@ -1956,15 +1952,15 @@ D. 1, 2 and 3
 
 Which of the statements given above is/are correct?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. 1 and 3
+C. Only 1, 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Map-first teaching — do not erase Gaza/West Bank as map units.
 
@@ -2000,15 +1996,15 @@ D. 2 and 3 only
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Do not dump Bahasa onto Thailand or Spanish onto Congo.
 
@@ -2062,20 +2058,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q17.** With reference to Antarctica and India’s stations, which of the following statements is/are correct?
 
 1. Maitri and Bharati are India’s operational Antarctic stations.
-2. Dakshin Gangotri remains the operational pair answer.
-3. Borneo is shared by Indonesia, Malaysia and Brunei.
+2. Borneo is shared by Indonesia, Malaysia and Brunei.
+3. Dakshin Gangotri remains the operational pair answer.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 3 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Dakshin Gangotri is not the operational answer pair.
 
@@ -2091,15 +2085,15 @@ D. 1, 2 and 3
 
 Which of the pairs given above are correctly matched?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1, 2 and 3
+B. 1 and 2
+C. 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three pairs are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Cambodia delta and Dutch-only Philippines history are traps.
 
@@ -2123,21 +2117,19 @@ D. Caucasus trio is Georgia–Armenia–Turkmenistan.
 
 **Q20.** With reference to the Horn of Africa, which of the following statements is/are correct?
 
-1. The Horn set is Ethiopia–Somalia–Eritrea–Djibouti.
-2. Sudan is always included as a fifth Horn state in the usual MCQ set.
+1. Sudan is always included as a fifth Horn state in the usual MCQ set.
+2. The Horn set is Ethiopia–Somalia–Eritrea–Djibouti.
 3. Eritrea’s Red Sea coast is the key contrast with landlocked Ethiopia.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 3 are correct.
+**Ans: A.** 2 and 3 only are correct.
 
 **Logic:** Sudan is the common over-inclusion trap for the Horn.
 
@@ -2215,20 +2207,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q24.** With reference to continent size, which of the following statements is/are correct?
 
 1. Asia is the largest continent.
-2. Australia / Oceania is the smallest inhabited continent unit in the teaching ladder.
-3. Europe is the largest continent by area.
+2. Europe is the largest continent by area.
+3. Australia / Oceania is the smallest inhabited continent unit in the teaching ladder.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. Only 3
+C. 1 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 3 only are correct.
 
 **Logic:** Europe is near the bottom of the area ladder, not the top.
 
@@ -2240,17 +2230,15 @@ D. 1, 2 and 3
 2. Maghreb capitals include Rabat, Algiers and Tunis.
 3. Praia is Mali’s capital.
 
-Which of the statements given above is/are correct?
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. Only 3
+C. 1 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** Praia = Cape Verde; Bamako = Mali.
 
@@ -2274,21 +2262,19 @@ D. The 49th parallel divides the Koreas.
 
 **Q27.** With reference to Borneo and SE Asia, which of the following statements is/are correct?
 
-1. Borneo is shared by Indonesia, Malaysia and Brunei.
-2. Borneo should be treated as a volcanic-arc dump identical to Java.
+1. Borneo should be treated as a volcanic-arc dump identical to Java.
+2. Borneo is shared by Indonesia, Malaysia and Brunei.
 3. Sumatra lies west of Java on the west→east island ladder.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 3 are correct.
+**Ans: A.** 2 and 3 only are correct.
 
 **Logic:** Borneo is Sunda-shelf shared territory — not a Java-style volcanic dump.
 
@@ -2296,21 +2282,19 @@ D. 1, 2 and 3
 
 **Q28.** Which of the following pairs is/are correctly matched?
 
-1. Laos — only SE Asia landlocked state in the usual set
-2. Uruguay — landlocked South America
+1. Uruguay — landlocked South America
+2. Laos — only SE Asia landlocked state in the usual set
 3. Lesotho — enclave inside South Africa
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. All 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 3 are correct.
+**Ans: D.** 2 and 3 only are correct.
 
 **Logic:** Uruguay has an Atlantic coast; Bolivia/Paraguay are the landlocked pair.
 
@@ -2335,20 +2319,18 @@ D. India has no Antarctic presence.
 **Q30.** Consider the following statements:
 
 1. Mandarin leads classic L-1 speaker counts; English often leads total L-1+L-2.
-2. Spanish is official in Chile, Colombia and Cuba.
-3. Congo lists Spanish as its sole official language in this desk.
+2. Congo lists Spanish as its sole official language in this desk.
+3. Spanish is official in Chile, Colombia and Cuba.
 
-Which of the statements given above is/are correct?
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: A.** 1 and 3 only are correct.
 
 **Logic:** Spanish–Congo is the false dump.
 

@@ -884,13 +884,13 @@ A. 1 2 3 4 B. 2 1 4 3 C. 3 1 4 2 D. 4 3 2 1
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 1 and 2
 
-B. 1, 2 and 3
+B. All 1, 2 and 3
 
-C. 1 and 3 only
+C. 2 and 3
 
-D. 2 and 3 only
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -1019,18 +1019,18 @@ D. Silver rupaka ~33 grains — Chandragupta II
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. 1, 2 and 3
 
-B. 2 and 3 only
+B. 2 and 3
 
-C. 1 and 3 only
+C. Only 1
 
-D. 1, 2 and 3
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** All three are Must-Score Samudragupta facts.
 
@@ -1040,26 +1040,24 @@ D. 1, 2 and 3
 
 **Q7.** Consider the following statements about Gupta administration:
 
-1. Provinces are bhukti under uparika; districts are vishaya under kumaramatya.
-2. The ladder is Bhukti → Vishaya → Vithi → Grama.
-3. Gupta rule was a Mauryan-style spy-state more central than the Mauryas.
+1. Provinces are vishaya under kumaramatya; districts are bhukti under uparika.
+2. Gupta rule was a Mauryan-style spy-state more central than the Mauryas.
+3. The ladder is Bhukti → Vishaya → Vithi → Grama.
 
-Select the correct answer from the code given below:
+A. Only 3
 
-A. 1 and 2 only
+B. 1 and 2
 
-B. 1 and 3 only
+C. 2 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: A.** Only 3 is correct.
 
-**Logic:** Stmt 3 is the classic trap: Guptas run samantas/land grants, not a tighter spy-state.
+**Logic:** Stmt 1 false: Roles reverse — bhukti/uparika = province; vishaya/kumaramatya = district. Stmt 2 remains false: Guptas are not a tighter Mauryan-style spy-state.
 
 </details>
 
@@ -1124,26 +1122,24 @@ D. 1-D, 2-A, 3-C, 4-B
 
 **Q10.** With reference to Gupta science and culture, which of the following statements is/are correct?
 
-1. Aryabhata wrote the Aryabhatiya and taught Earth’s rotation.
-2. Varahamihira wrote the Brihatsamhita.
-3. Bhaskara II (Lilavati) is a Navaratna contemporary of Chandragupta II.
+1. Bhaskara II (Lilavati) is a Navaratna contemporary of Chandragupta II.
+2. Aryabhata wrote the Aryabhatiya and taught Earth’s rotation.
+3. Varahamihira wrote the Lilavati.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 3 only
+B. 2 and 3
 
-B. 1 and 2 only
+C. Only 2
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Ans: C.** Only 2 is correct.
 
-**Logic:** Stmt 3 false: Bhaskara II is 12th century, not Gupta.
+**Logic:** Stmt 3 false: Varahamihira wrote Brihatsamhita; Lilavati is Bhaskara II (12th century). Stmt 1 remains false: Bhaskara II is not a Gupta Navaratna.
 
 </details>
 
@@ -1151,26 +1147,24 @@ D. 1, 2 and 3
 
 **Q11.** With reference to centres of learning, which of the following statements is/are correct?
 
-1. Nalanda’s founder-patron tradition is Kumaragupta I.
+1. Nalanda’s founder-patron tradition is Pala Dharmapala.
 2. Vikramashila is Pala Dharmapala; Vallabhi is Maitraka Gujarat.
 3. Takshashila is a Gupta-founded university at Pataliputra.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 3 only
+B. Only 2
 
-B. 2 and 3 only
+C. 2 and 3
 
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 2 are correct.
+**Ans: B.** Only 2 is correct.
 
-**Logic:** Stmt 3 false: Takshashila is the older Gandhara town.
+**Logic:** Stmt 1 false: Nalanda founder-patron tradition is Kumaragupta I; Vikramashila is Pala Dharmapala. Stmt 3 remains false: Takshashila is older Gandhara, not Gupta Pataliputra.
 
 </details>
 
@@ -1201,26 +1195,24 @@ D. Eran sati ~510 CE — Rudradaman’s widow
 
 **Q13.** Consider the following statements about Chandragupta I and II:
 
-1. Chandragupta I married Lichchhavi princess Kumaradevi; Gupta era is pegged about 319–320 CE.
-2. Chandragupta II took the title Sakari after defeating Rudrasimha III.
-3. Chandragupta II is identical with Chandragupta Maurya of ~322 BCE.
+1. Chandragupta II is identical with Chandragupta Maurya of ~322 BCE.
+2. Chandragupta I married Lichchhavi princess Kumaradevi; Gupta era is pegged about 78 CE.
+3. Chandragupta II took the title Sakari after defeating Rudrasimha III.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 2 only
+B. 2 and 3
 
-B. 1 and 3 only
+C. 1 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: D.** Only 3 is correct.
 
-**Logic:** Stmt 3 is the cheap name-swap trap.
+**Logic:** Stmt 2 false: Gupta era is pegged about 319–320 CE, not 78 CE (Shaka trap). Stmt 1 remains false: CG II ≠ Chandragupta Maurya.
 
 </details>
 
@@ -1259,20 +1251,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Fa-Hien remembers cowries in routine trade and a free hospital / charity house at Pataliputra.
 3. East trade door is Bhrigukachchha; west trade door is Tamralipti.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 3 only
+B. All 1, 2 and 3
 
-B. 1 and 2 only
+C. Only 2 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** Stmt 3 swaps ports: Tamralipti east; Bhrigukachchha (Bharuch) west.
 
@@ -1313,25 +1303,23 @@ D. 1-C, 2-B, 3-D, 4-A
 **Q17.** With reference to Vakatakas and related Gupta facts, which of the following statements is/are correct?
 
 1. Pravarasena I took the title Samrat and performed four ashvamedhas.
-2. Prabhavatigupta married Vakataka Rudrasena II and later ruled as regent.
-3. Ajanta’s famous painted caves are the default Sarnath Gupta sculpture fact.
+2. Ajanta’s famous painted caves are the default Sarnath Gupta sculpture fact.
+3. Prabhavatigupta married Vakataka Rudrasena II and later ruled as regent.
 
-Select the correct answer from the code given below:
+A. Only 1 and 3
 
-A. 1 and 3 only
+B. Only 1
 
-B. 2 and 3 only
+C. 1 and 2
 
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 2 are correct.
+**Ans: A.** 1 and 3 only are correct.
 
-**Logic:** Stmt 3 false: Ajanta painted caves are largely Vakataka Deccan allies.
+**Logic:** Stmt 2 false: Ajanta painted caves are largely Vakataka Deccan allies.
 
 </details>
 
@@ -1373,18 +1361,18 @@ D. 2–3–1–4
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 1
 
-B. 2 and 3 only
+B. 1 and 2
 
-C. 1 and 3 only
+C. 1, 2 and 3
 
-D. 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** All three are Must-Score Purana / guild facts.
 
@@ -1427,18 +1415,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 1, 2 and 3
 
-B. 2 and 3 only
+B. 2 and 3
 
-C. 1 and 3 only
+C. Only 1
 
-D. 1, 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** All three are Must-Score temple/cave facts.
 
@@ -1477,18 +1465,18 @@ D. Kshemendra — Gita Govinda
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. 1, 2 and 3
 
-B. 2 and 3 only
+B. Only 2 and 3
 
-C. 1 and 3 only
+C. Only 1
 
-D. 1, 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** All three appear in Must-Score Gupta culture/frontier cards.
 
@@ -1523,20 +1511,18 @@ D. Sanchi
 2. Ujjain became a second pole while Pataliputra stayed the old capital.
 3. Prabhavatigupta was a Chola queen who founded Nalanda.
 
-Select the correct answer from the code given below:
+A. Only 1 and 3
 
-A. 1 and 3 only
+B. Only 1
 
-B. 1 and 2 only
+C. 1 and 2
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Stmt 3 false: Prabhavati is Vakataka regent; Nalanda patron is Kumaragupta I.
 
@@ -1579,18 +1565,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. 1, 2 and 3
 
-B. 2 and 3 only
+B. Only 2 and 3
 
-C. 1 and 3 only
+C. Only 1
 
-D. 1, 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** All three are Must-Score science/culture/inscription facts.
 
@@ -1604,20 +1590,18 @@ D. 1, 2 and 3
 2. Gold dinaras often weigh about 120–144 grains.
 3. Silver rupaka of CG II weighs about 120–144 grains.
 
-Select the correct answer from the code given below:
+A. Only 1
 
-A. 1 and 2 only
+B. Only 1 and 2
 
-B. 1 and 3 only
+C. All 1, 2 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Stmt 3 false: silver ~33 grains is the Shaka-victory proof.
 
@@ -1633,18 +1617,18 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. 1, 2 and 3
 
-B. 2 and 3 only
+B. Only 2 and 3
 
-C. 1 and 3 only
+C. Only 1
 
-D. 1, 2 and 3
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Guild, Vakataka literature, and pilgrim spacing facts.
 

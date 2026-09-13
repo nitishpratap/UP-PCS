@@ -653,20 +653,20 @@ D. Manigrama
 **Q1.** With reference to Indus Valley cultural remains, which of the following statements is/are correct?
 
 1. Steatite seals and terracotta mother goddess figurines are Indus art facts.
-2. The Dancing Girl is a lost-wax bronze figurine.
-3. Northern Black Polished Ware is the classic Indus pottery of Mature Harappan cities.
+2. Northern Black Polished Ware is the classic Indus pottery of Mature Harappan cities.
+3. The Dancing Girl is a Mauryan polished sandstone pillar capital.
 
-A. 1 and 3 only
-B. 1 and 2 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. Only 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: A.** Only 1 is correct.
 
-**Logic:** NBPW is a Mauryan fine pottery fact, not Mature Harappan ware.
+**Logic:** NBPW is a Mauryan fine pottery fact, not Mature Harappan ware. The Dancing Girl is a lost-wax bronze figurine.
 
 </details>
 
@@ -680,15 +680,15 @@ D. 1, 2 and 3
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. Only 3
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only pairs 1 and 2 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Amaravati uses white limestone narrative panels in Andhra.
 
@@ -752,31 +752,31 @@ D. 4-2-1-3
 
 **Q6.** With reference to early Buddhist art, which of the following statements is/are correct?
 
-1. Early Sanchi reliefs are largely aniconic.
-2. Bharhut narrative reliefs belong to the Shunga cultural layer.
-3. The human Buddha image is common from the earliest Mauryan polish figures.
+1. The human Buddha image is common from the earliest Mauryan polish figures.
+2. Early Sanchi reliefs are largely aniconic.
+3. Bharhut narrative reliefs belong to the Gupta cultural layer alone.
 
-A. 2 and 3 only
-B. 1 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 2
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: C.** Only 2 is correct.
 
-**Logic:** Human Buddha images become common from the Kushan age, not early Mauryan polish.
+**Logic:** Human Buddha images become common from the Kushan age. Bharhut narrative reliefs belong to the Shunga cultural layer.
 
 </details>
 
 **Q7.** Match List-I with List-II and select the correct answer using the code given below the Lists.
 
 **List-I (Site)**
-A. 2 1 4 3
-B. 2 4 1 3
-C. 4 2 1 3
-D. 2 4 3 1
+A. Balu
+B. Manda
+C. Padri
+D. Hulas
 
 **List-II (State / UT)**
 1. Gujarat
@@ -803,20 +803,20 @@ D. 2 4 3 1
 **Q8.** With reference to Uttar Pradesh Indus and related sites, which of the following statements is/are correct?
 
 1. Mandi and Hulas are UP Indus / related sites.
-2. Sanauli in Baghpat is a late Harappan / OCP chariot site.
+2. Sanauli in Baghpat is a Mauryan capital identical with Pataliputra.
 3. Lothal dockyard is an easternmost UP Indus site.
 
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: A.** Only 1 is correct.
 
-**Logic:** Lothal is Gujarat. Easternmost Indus is Alamgirpur.
+**Logic:** Sanauli in Baghpat is a late Harappan / OCP chariot site. Lothal is Gujarat; easternmost Indus is Alamgirpur.
 
 </details>
 
@@ -860,18 +860,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q11.** With reference to Mauryan and Gupta cultural markers, which of the following statements is/are correct?
 
 1. Mauryan polish is famous on Chunar sandstone.
-2. Didarganj Yakshi is a classic Mauryan polish figure.
-3. Ajanta murals are primarily a Mauryan painting fact.
+2. Ajanta murals are primarily a Mauryan painting fact.
+3. Didarganj Yakshi is a classic Mauryan polish figure.
 
-A. 1 and 3 only
-B. 1 and 2 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 3
+B. Only 1
+C. Only 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: A.** 1 and 3 only are correct.
 
 **Logic:** Ajanta murals are a Gupta–Vakataka painting fact.
 
@@ -879,19 +879,19 @@ D. 1, 2 and 3
 
 **Q12.** Consider the following statements about coins and craft:
 
-1. Punch-marked coins are early irregular silver or copper pieces.
-2. Gupta dinara are die-struck gold coins.
-3. Every ancient Indian coin is correctly called a dinara.
+1. Every ancient Indian coin is correctly called a dinara.
+2. Punch-marked coins are early irregular silver or copper pieces.
+3. Gupta dinara are die-struck gold coins.
 
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. 1 and 3
+B. Only 2
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: C.** 2 and 3 only are correct.
 
 **Logic:** Dinara specifically points to Gupta gold. Punch-marked pieces are different.
 
@@ -899,11 +899,11 @@ D. 1, 2 and 3
 
 **Q13.** Match List-I with List-II and select the correct answer using the code given below the Lists.
 
-**List-I**
-A. 2 4 3 1
-B. 2 3 1 4
-C. 3 2 4 1
-D. 2 3 4 1
+**List-I (Term)**
+A. Sreni
+B. Nanadesi
+C. Wootz
+D. NBPW
 
 **List-II**
 1. Mauryan fine pottery
@@ -933,15 +933,15 @@ D. 2 3 4 1
 2. Transparent robe and calm idealism mark the style.
 3. Mathura red-sandstone school is identical to Gupta Sarnath schist work.
 
-A. 1 and 3 only
-B. 1 and 2 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Mathura is red sandstone UP school. Gupta Sarnath is a different peak style.
 
@@ -972,20 +972,20 @@ D. 2-1-3
 **Q16.** With reference to Indus agriculture and craft, which of the following statements is/are correct?
 
 1. Wheat, barley and cotton appear in the Indus crop map.
-2. Cotton is only a modern crop with no Indus evidence.
-3. Boat / dock evidence is linked with Mohenjo-daro and Lothal.
+2. Boat / dock evidence is linked with Mohenjo-daro and Lothal.
+3. Cotton is only a modern crop with no Indus evidence.
 
-A. 1 and 3 only
-B. 1 and 2 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 3 are correct.
+**Ans: A.** 1 and 2 only are correct.
 
-**Logic:** Cotton is an Indus fact. Statement 2 is false.
+**Logic:** Cotton is an Indus fact, so statement 3 is false. Boat models / seals link with Mohenjo-daro and the dockyard with Lothal, so statement 2 stands.
 
 </details>
 
@@ -1024,19 +1024,19 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q19.** With reference to Indus versus Rigvedic cultural stages, which of the following statements is/are correct?
 
-1. Indus cities show urban brick planning, seals and drains.
-2. Early Rigvedic society is largely pastoral in the standard teaching contrast.
-3. Both stages are treated as one identical urban culture phase.
+1. Both stages are treated as one identical urban culture phase.
+2. Indus cities show urban brick planning, seals and drains.
+3. Early Rigvedic society is largely pastoral in the standard teaching contrast.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: A.** 2 and 3 only are correct.
 
 **Logic:** Do not collapse Indus urban and early Rigvedic pastoral into one stage.
 
@@ -1052,15 +1052,15 @@ D. 1, 2 and 3
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. 1 and 2
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three pairs are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Mathura, Sarnath and Bhitargaon are core UP cultural sites.
 
@@ -1088,10 +1088,10 @@ D. Ahichhatra / Kaushambi — UP terracotta centres
 2. Lothal is famous for a dock.
 3. First structural temples in the Gupta age include Deogarh and Bhitargaon.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. 1 and 2
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -1135,18 +1135,18 @@ D. 2 4 1 3
 **Q24.** With reference to Sanauli, which of the following statements is/are correct?
 
 1. Sanauli lies in Baghpat, Uttar Pradesh.
-2. It is known for late Harappan / OCP chariot finds.
-3. It replaces Alamgirpur as the easternmost Indus city.
+2. It replaces Alamgirpur as the easternmost Indus city.
+3. It is known for late Harappan / OCP chariot finds.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 3
+C. Only 2
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 1 and 3 only are correct.
 
 **Logic:** Sanauli is an extra UP chariot fact. Easternmost Indus remains Alamgirpur.
 
@@ -1163,27 +1163,27 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A).
+**Ans: A.** Both (A) and (R) are true, but (R) is not the correct explanation of (A).
 
-**A/R logic:** The Yakshi exemplifies the mirror polish described in (A).
+**A/R logic:** Didarganj Yakshi exemplifies Mauryan polish but does not explain why the Chunar sandstone finish is mirror-like.
 
 </details>
 
 **Q26.** With reference to craft centres, which of the following statements is/are correct?
 
 1. Chanhudaro is linked with Indus bead making.
-2. Ahichhatra and Kaushambi are UP terracotta / urban craft centres.
-3. Dholavira is the easternmost Indus site of Uttar Pradesh.
+2. Dholavira is the easternmost Indus site of Uttar Pradesh.
+3. Ahichhatra and Kaushambi are UP terracotta / urban craft centres.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. 1 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 1 and 3 only are correct.
 
 **Logic:** Dholavira is Gujarat, not UP.
 
@@ -1195,15 +1195,15 @@ D. 1, 2 and 3
 2. Structural temple — Gupta freestanding buildings
 3. Aniconic early Sanchi — human Buddha as the only motif
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. Only 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Early Sanchi is largely aniconic (wheel, tree, throne), not human Buddha.
 
@@ -1211,19 +1211,19 @@ D. 1, 2 and 3
 
 **Q28.** Consider the following statements:
 
-1. Arthashastra shows state interest in agriculture and craft regulation.
-2. Sreni are craft guilds.
-3. Nanadesi were only village-bound hereditary priests.
+1. Nanadesi were only village-bound hereditary priests.
+2. Arthashastra shows state interest in agriculture and craft regulation.
+3. Sreni are craft guilds.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. 1 and 3
+C. 1, 2 and 3
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: A.** 2 and 3 only are correct.
 
 **Logic:** Nanadesi were itinerant many-country merchants.
 
@@ -1251,15 +1251,15 @@ D. Rakhigarhi — Uttar Pradesh
 2. The Dancing Girl is lost-wax bronze, not terracotta.
 3. All Indus human figurines are bronze processional icons like Chola Nataraja.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Dancing Girl is a tiny Harappan bronze, not a Chola processional Nataraja.
 

@@ -4324,21 +4324,24 @@ D. Sher Shah Suri
 
 **Q1.** With reference to early Turkish invasions, which of the following statements is/are correct?
 
-1. Muhammad bin Qasim took Sindh in 712 from Dahir.
-2. This created a Gangetic imperial capital at Delhi immediately.
-3. Chachnama preserves the Sindh narrative with capital Arod.
+1. This created a Gangetic imperial capital at Delhi immediately.
+2. Muhammad bin Qasim took Sindh in 712 from Dahir.
+3. Chachnama preserves the Sindh narrative with capital at Delhi.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+
+B. 2 and 3
+
+C. 1 and 3
+
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 3 are correct.
+**Ans: D.** Only 2 is correct.
 
-**Logic:** Qasim’s foothold was Indus/Sindh — not Gangetic Delhi conquest.
+**Logic:** Stmt 3 false: Chachnama’s Sindh capital tradition is Arod (Aror), not Delhi. Stmt 1 remains false: Qasim’s foothold was Sindh, not Gangetic Delhi.
 
 </details>
 
@@ -4437,15 +4440,15 @@ D. 1 and 2 only
 2. Dagh branded horses.
 3. Chehra / Huliya were soldier descriptive rolls.
 
-A. 1 and 2 only
-B. 2 and 3 only
+A. Only 1
+B. Only 1 and 2
 C. 1, 2 and 3
-D. 1 and 3 only
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** These checks fought fake musters; do not swap Dagh with Chehra.
 
@@ -4454,20 +4457,23 @@ D. 1 and 3 only
 **Q7.** Consider the following statements about Muhammad bin Tughlaq:
 
 1. Major experiments included Daulatabad transfer and token currency.
-2. Amir-i-Kohi was his agriculture department.
-3. Shahna-i-Mandi was also his market controller.
+2. Shahna-i-Mandi was also his market controller.
+3. Amir-i-Kohi was Alauddin Khalji’s market controller (Shahna-i-Mandi).
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+
+B. 1 and 2
+
+C. 2 and 3
+
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: A.** Only 1 is correct.
 
-**Logic:** Shahna-i-Mandi belongs to Alauddin’s market control — not Muhammad’s experiments.
+**Logic:** Stmt 3 false: Amir-i-Kohi is Muhammad bin Tughlaq’s agriculture department; Shahna-i-Mandi is Alauddin’s market control. Stmt 2 remains false for the same swap.
 
 </details>
 
@@ -4524,15 +4530,15 @@ D. A-3, B-1, C-2, D-4
 2. Iqta revenue went to the Muqti, not as a direct Sultan deposit.
 3. Khalsa was crown land.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. Only 1
+B. Only 1 and 2
+C. All 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Siyasatnama is the classical Muqti-duties source; Firoz later made iqta hereditary.
 
@@ -4581,15 +4587,15 @@ D. Malik Kafur — Hazar-Dinari
 2. He put jizya on Brahmins.
 3. He made iqta hereditary.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. Only 1, 2 and 3
+B. 1 and 2
+C. 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Also: Diwan-i-Khairat / Bandagan, Dar-ul-Shafa, and Ashoka pillars from Topra/Meerut.
 
@@ -4621,15 +4627,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Alai Darwaza is Alauddin’s gateway of 1311.
 3. Dhai Din Ka Jhopra is associated with Aibak.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. Only 1 and 2
+B. 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Also: Sultan Garhi–Iltutmish; Red Palace–Balban; Jamat Khana–Alauddin.
 
@@ -4641,15 +4647,15 @@ D. 1 and 3 only
 2. He took Nadia about 1204.
 3. He made Lakhnauti his capital.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 1, 2 and 3
-D. 2 and 3 only
+A. 2 and 3
+B. Only 1
+C. Only 1 and 2
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Lakshmana Sena fled to East Bengal after the Nadia shock.
 
@@ -4684,19 +4690,19 @@ D. A-3, B-1, C-2, D-4
 
 **Q18.** With reference to Mahmud of Ghazni, which statements is/are correct?
 
-1. Alptigin founded the Ghaznavid dynasty at Ghazni.
-2. Mahmud led about 17 raids and plundered Somnath under Bhimdev I.
-3. Mahmud’s usual pattern was permanent annexation of Kannauj as capital.
+1. Mahmud’s usual pattern was permanent annexation of Kannauj as capital.
+2. Alptigin founded the Ghaznavid dynasty at Ghazni.
+3. Mahmud led about 17 raids and plundered Somnath under Bhimdev I.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 3
+B. 1, 2 and 3
+C. 1 and 2
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 2 and 3 only are correct.
 
 **Logic:** Mahmud raided and withdrew; Ghori conquered and stayed.
 
@@ -4744,15 +4750,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. He added Ghari/Charai taxes.
 3. He built Siri and used the title Sikandar-i-Sani.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. Only 1 and 2
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Alauddin died in 1316; Malik Kafur is Hazar-Dinari.
 
@@ -4764,15 +4770,15 @@ D. 1, 2 and 3
 2. Ibrahim Lodi was the last Delhi Sultan.
 3. The battle belongs to the Lodi–Mughal transition, not to Ghori’s age.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. Only 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Do not confuse Panipat 1526 with Tarain 1192 or Chandawar 1194.
 
@@ -4781,20 +4787,23 @@ D. 1, 2 and 3
 **Q23.** Which of the following statements about Razia is/are correct?
 
 1. She ruled 1236–1240 as the only woman Sultan of Delhi.
-2. Altunia of Bhatinda and anger over Yaqut ended her rule.
-3. She coined tanka/jital and made Delhi the capital for the first time.
+2. She coined tanka/jital and made Delhi the capital for the first time.
+3. Altunia of Bhatinda and anger over Yaqut began her rule as the first woman Sultan.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+
+B. Only 1
+
+C. 2 and 3
+
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Tanka/jital and Delhi capital institutionalisation belong to Iltutmish.
+**Logic:** Stmt 3 false: Altunia/Yaqut ended Razia’s rule; they did not begin it. Stmt 2 remains false: tanka/jital and Delhi capital tags belong to Iltutmish.
 
 </details>
 
@@ -4831,15 +4840,15 @@ D. A-3, B-1, C-2, D-4
 2. The sack belongs to the late Tughlaq crisis phase.
 3. Sayyid dynasty immediately preceded the Slave dynasty.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. Only 1 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** Sayyid follows Tughlaq (1414–1451); Slave is the first dynasty.
 
@@ -4847,9 +4856,9 @@ D. 1, 2 and 3
 
 **Q26.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): Turkish success rested partly on Rajput disunity after Pratihara decline.
+Assertion (A): Chauhans, Gahadavalas, Chandelas, and Paramaras generally fought as a single coordinated confederacy against every Ghaznavid raid.
 
-Reason (R): Chauhans, Gahadavalas, Chandelas, and Paramaras generally fought as a single coordinated confederacy against every Ghaznavid raid.
+Reason (R): Turkish success rested partly on Rajput disunity after Pratihara decline.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -4859,9 +4868,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true, but (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** They usually fought separately; Vidyadhar alone notably held Mahmud in 1019–20.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. They usually fought separately; Vidyadhar alone notably held Mahmud in 1019–20.
 
 </details>
 
@@ -4871,15 +4880,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Mahmud issued bilingual silver with a Sanskrit legend naming Muhammad Avatar Nripati Mahmud.
 3. Iltutmish coined tanka and jital.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1, 2 and 3
+B. Only 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Iltutmish also took the Caliph’s khilat in 1229.
 
@@ -4893,15 +4902,15 @@ D. 1, 2 and 3
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three pairs are correctly matched.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Jaunpur city foundation is Firuz; Sharqi independence comes later under Malik Sarwar.
 
@@ -4929,15 +4938,15 @@ D. Diwan-i-Mustakharaj — Firoz Shah’s canal board
 2. The 1290 Khalji coup ended the Slave dynasty.
 3. Balban immediately preceded Ibrahim Lodi.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
+A. 2 and 3
+B. Only 1
+C. Only 1 and 2
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Ibrahim Lodi is centuries later; Khalji follows Slave, not Lodi.
 

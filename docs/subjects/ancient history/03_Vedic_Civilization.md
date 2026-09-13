@@ -2403,26 +2403,24 @@ D. Hindi
 
 **Q1.** With reference to Early and Later Vedic ages, which of the following statements is/are correct?
 
-1. Early / Rigvedic age (~1500–1000 BCE) is centred on Sapta Sindhu and is pastoral.
+1. Early / Rigvedic age (~1500–1000 BCE) is centred on the Ganga–Yamuna doab and is agrarian.
 2. Later Vedic age (~1000–600 BCE) is centred on the Ganga–Yamuna doab and is agrarian.
 3. Rigvedic culture is primarily a Uttar Pradesh heartland story.
 
-Select the correct answer from the code given below:
+A. Only 2
 
-A. 2 and 3 only
+B. 1 and 2
 
-B. 1 and 2 only
+C. 2 and 3
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Ans: A.** Only 2 is correct.
 
-**Logic:** Stmt 3 false: Rigvedic core is Punjab / Sapta Sindhu, not UP heartland.
+**Logic:** Stmt 1 false: Rigvedic age is Sapta Sindhu / pastoral; Ganga doab agrarian is Later Vedic. Stmt 3 remains false: Rigvedic core is not UP heartland.
 
 </details>
 
@@ -2466,18 +2464,18 @@ D. 1-B, 2-A, 3-C, 4-D
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. 1, 2 and 3
 
-B. 2 and 3 only
+B. 2 and 3
 
-C. 1 and 3 only
+C. Only 1
 
-D. 1, 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Sabha / Samiti / Vidatha triad is a high-yield confused-pair set.
 
@@ -2548,13 +2546,13 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 2 and 3
 
-B. 2 and 3 only
+B. Only 1
 
-C. 1 and 3 only
+C. 1 and 2
 
-D. 1, 2 and 3
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -2569,26 +2567,24 @@ D. 1, 2 and 3
 
 **Q7.** Which of the following hymn-count statements is/are correct?
 
-1. Indra has roughly 250 hymns.
-2. Agni has roughly 200 hymns.
-3. Varuna has the largest number of hymns, exceeding Indra.
+1. Varuna has the largest number of hymns, exceeding Indra.
+2. Indra has roughly 250 hymns.
+3. Agni has roughly 250 hymns, exceeding Indra.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 3 only
+B. 2 and 3
 
-B. 2 and 3 only
+C. Only 2
 
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 2 are correct.
+**Ans: C.** Only 2 is correct.
 
-**Logic:** Stmt 3 false: Varuna has fewer hymns but guards rita.
+**Logic:** Stmt 3 false: Indra has ~250 hymns; Agni ~200. Stmt 1 remains false: Varuna does not exceed Indra in hymn count.
 
 </details>
 
@@ -2618,25 +2614,23 @@ D. Taittiriya / Kathaka / Maitrayani — Black Yajurveda schools
 **Q9.** With reference to Later Vedic officials and terms, which of the following is/are correct?
 
 1. Sangrahitri was the treasurer.
-2. Gavishti means cattle-raid or war for cows.
-3. Nishka was coined silver money of the Rigvedic age.
+2. Nishka was coined silver money of the Rigvedic age.
+3. Gavishti means coined silver money of the Rigvedic age.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 2 and 3 only
+B. Only 1
 
-B. 1 and 2 only
+C. 2 and 3
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Stmt 3 false: Nishka = gold ornament/value-unit; coined money absent.
+**Logic:** Stmt 3 false: Gavishti = cattle-raid / war for cows; coined money is absent. Stmt 2 remains false: Nishka = gold ornament/value-unit, not coined silver.
 
 </details>
 
@@ -2701,26 +2695,24 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q12.** Consider the following statements about Vedangas:
 
-1. The six Vedangas are Shiksha, Kalpa, Vyakarana, Nirukta, Chhanda and Jyotisha.
-2. Vedangas are tools of the Veda, not identical with the Upanishads.
-3. Vedangas teach Brahman–Atman philosophy as their primary content.
+1. The six Vedangas are Shiksha, Kalpa, Vyakarana, Nirukta, Chhanda and Upanishad.
+2. Vedangas teach Brahman–Atman philosophy as their primary content.
+3. Vedangas are tools of the Veda, not identical with the Upanishads.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 2 and 3 only
+B. 2 and 3
 
-B. 1 and 2 only
+C. 1 and 3
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Ans: D.** Only 3 is correct.
 
-**Logic:** Stmt 3 false: Brahman–Atman = Upanishads / Vedanta, not Vedangas.
+**Logic:** Stmt 1 false: Sixth Vedanga is Jyotisha, not Upanishad. Stmt 2 remains false: Brahman–Atman = Upanishads/Vedanta, not Vedangas.
 
 </details>
 
@@ -2728,26 +2720,24 @@ D. 1, 2 and 3
 
 **Q13.** With reference to pottery chronology, which of the following is/are correct?
 
-1. OCP is pre-PGW ochre-wash doab rural pottery.
-2. PGW (~1100–600 BCE) is the Later Vedic doab marker.
-3. NBPW precedes PGW in the standard doab sequence.
+1. NBPW precedes PGW in the standard doab sequence.
+2. OCP is pre-PGW ochre-wash doab rural pottery.
+3. PGW (~1100–600 BCE) is the Later Vedic doab marker.
 
-Select the correct answer from the code given below:
+A. Only 3
 
-A. 1 and 3 only
+B. 2 and 3
 
-B. 2 and 3 only
+C. Only 1
 
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 2 are correct.
+**Ans: B.** 2 and 3 only are correct.
 
-**Logic:** Stmt 3 false: sequence is OCP → PGW → NBPW.
+**Logic:** Stmt 1 false: sequence is OCP → PGW → NBPW.
 
 </details>
 
@@ -2804,25 +2794,23 @@ D. Yamuna
 **Q16.** With reference to Uttar Pradesh Later Vedic geography, which of the following is/are correct?
 
 1. Centres include Kuru–Panchala, Kosala and Kashi.
-2. Key sites include Hastinapur, Atranjikhera and Ahichchhatra.
-3. Videha (north Bihar) is described as west of the UP doab in Later Vedic texts.
+2. Videha (north Bihar) is described as west of the UP doab in Later Vedic texts.
+3. Key sites include Hastinapur, Atranjikhera and Ahichchhatra.
 
-Select the correct answer from the code given below:
+A. 2 and 3
 
-A. 1 and 3 only
+B. Only 1
 
-B. 2 and 3 only
+C. Only 1 and 3
 
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 2 are correct.
+**Ans: C.** 1 and 3 only are correct.
 
-**Logic:** Stmt 3 false: Videha is east of the UP doab (Janaka / Shatapatha tradition).
+**Logic:** Stmt 2 false: Videha is east of the UP doab (Janaka / Shatapatha tradition).
 
 </details>
 
@@ -2830,26 +2818,24 @@ D. 1, 2 and 3
 
 **Q17.** Which of the following statements about Early Vedic polity is/are correct?
 
-1. The rajan was a tribal chief, not an absolute king.
-2. Later Vedic kingship became more hereditary and stronger over land and ritual.
-3. Bali was a cattle-raid term identical with gavishti.
+1. Bali was a cattle-raid term identical with gavishti.
+2. The rajan was a tribal chief, not an absolute king.
+3. Later Vedic kingship became more hereditary and stronger over land and ritual.
 
-Select the correct answer from the code given below:
+A. Only 2
 
-A. 1 and 2 only
+B. Only 2 and 3
 
-B. 2 and 3 only
+C. Only 1
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: B.** 2 and 3 only are correct.
 
-**Logic:** Stmt 3 false: Bali = tribute; Gavishti = cattle-raid.
+**Logic:** Stmt 1 false: Bali = tribute; Gavishti = cattle-raid.
 
 </details>
 
@@ -2909,20 +2895,18 @@ D. Nachiketa–Yama dialogue — Rigveda Mandala 9
 2. Trayi means Rig–Yajur–Sama.
 3. Brahmana texts are identical in meaning with the Brahmana varna in every context.
 
-Select the correct answer from the code given below:
+A. Only 1
 
-A. 1 and 2 only
+B. 1 and 2
 
-B. 2 and 3 only
+C. Only 1, 2 and 3
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Stmt 3 false: context decides Brahmana text vs Brahmana varna.
 
@@ -2957,20 +2941,18 @@ D. Only Varuna and Mitra
 2. Settled agriculture and clearer varna ranking increase versus Early Vedic pastoral tribes.
 3. Varna and jati are identical terms in Vedic Samhitas.
 
-Select the correct answer from the code given below:
+A. Only 1 and 3
 
-A. 1 and 2 only
+B. 1, 2 and 3
 
-B. 2 and 3 only
+C. 1 and 2
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Stmt 3 false: Varna = four-fold order; Jati = later birth-group identity.
 
@@ -2981,25 +2963,23 @@ D. 1, 2 and 3
 **Q23.** Which of the following statements about Dasharajna is/are correct?
 
 1. It was fought on the Parushni.
-2. Cow is called aghanya in Vedic memory.
-3. It was fought on the Ganga near Hastinapur.
+2. It was fought on the Ganga near Hastinapur.
+3. Cow is called aghanya in Vedic memory.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 2 only
+B. Only 3
 
-B. 2 and 3 only
+C. 1 and 3
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: C.** 1 and 3 only are correct.
 
-**Logic:** Stmt 3 false: Parushni (Ravi), not Ganga.
+**Logic:** Stmt 2 false: Parushni (Ravi), not Ganga.
 
 </details>
 
@@ -3087,20 +3067,18 @@ D. Sabha vs Samiti
 2. Later Vedic ritual elevates Prajapati.
 3. Indra remains the sole Later Vedic supreme without ritual change.
 
-Select the correct answer from the code given below:
+A. Only 2 and 3
 
-A. 1 and 2 only
+B. Only 1
 
-B. 2 and 3 only
-
-C. 1 and 3 only
+C. 1 and 2
 
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Stmt 3 false: Prajapati rises; Indra’s war-chief primacy is Early Vedic.
 
@@ -3110,26 +3088,24 @@ D. 1, 2 and 3
 
 **Q28.** Which of the following is/are correct about iron terminology?
 
-1. Later Vedic iron appears as shyama ayas / krishna ayas.
-2. Early Rigvedic ayas usually means copper or bronze.
-3. PGW is unrelated to Later Vedic iron settlements.
+1. PGW is unrelated to Later Vedic iron settlements.
+2. Later Vedic iron appears as shyama ayas / krishna ayas.
+3. Early Rigvedic ayas usually means copper or bronze.
 
-Select the correct answer from the code given below:
+A. Only 3
 
-A. 1 and 2 only
+B. Only 2 and 3
 
-B. 2 and 3 only
+C. Only 1
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: B.** 2 and 3 only are correct.
 
-**Logic:** Stmt 3 false: PGW is the Later Vedic doab marker with iron.
+**Logic:** Stmt 1 false: PGW is the Later Vedic doab marker with iron.
 
 </details>
 
@@ -3162,20 +3138,18 @@ D. Samiti — exclusively a dice officer
 2. Clearer varna ranking appears than in Early Vedic pastoral tribes.
 3. Sabha, Samiti and Vidatha all grow equally stronger in Later Vedic times.
 
-Select the correct answer from the code given below:
+A. Only 3
 
-A. 1 and 2 only
+B. 1 and 3
 
-B. 2 and 3 only
+C. Only 1
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** Stmt 3 false: Vidatha fades first; Sabha becomes more exclusive.
 

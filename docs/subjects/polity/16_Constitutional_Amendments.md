@@ -2963,17 +2963,15 @@ D. Neither 1 nor 2
 2. Special majority under 368(2) — majority of total membership + two-thirds present and voting
 3. Special majority + half the States — required for every amendment of Fundamental Rights
 
-Which of the pairs given above is/are correctly matched?
-
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. All 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** State ratification is for federal provisions — not every FR amendment.
 
@@ -3067,20 +3065,20 @@ D. 2-3-4-1
 **Q7.** With reference to the 42nd Amendment, which of the following statements is/are correct?
 
 1. It added Socialist, Secular, and Integrity to the Preamble.
-2. It inserted Fundamental Duties and DPSPs 39A, 43A, 48A.
-3. Its attempt to immunise amendments via 368(4)/(5) survived Minerva Mills.
+2. It deleted Fundamental Duties and removed DPSPs 39A, 43A and 48A.
+3. Kesavananda Bharati held that Parliament’s amending power is unlimited.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. Only 1 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: C.** Only 1 is correct.
 
-**Logic:** Minerva Mills struck the overbroad immunisation / 31C expansion themes.
+**Logic:** 42nd added Socialist, Secular and Integrity to the Preamble and inserted Fundamental Duties plus DPSPs 39A, 43A, 48A. Its attempt to immunise amendments via 368(4)/(5) did not survive Minerva Mills.
 
 </details>
 
@@ -3092,15 +3090,15 @@ D. 1, 2 and 3
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** 35th vs 36th Sikkim trap + privy purses.
 
@@ -3108,21 +3106,21 @@ D. 1, 2 and 3
 
 **Q9.** With reference to local-government and rights amendments, which of the following is/are correct?
 
-1. 73rd/74th (1992) created Parts IX and IXA; in force 1993 (24 April / 1 June).
-2. 86th Amendment inserted Article 21A; RTE Act 2009 took effect on 1 April 2010.
-3. 97th Amendment’s Part IXB remains fully operative for State cooperatives after 2021.
+1. The 73rd and 74th Amendments created Parts IX and IXA (in force 1993).
+2. 86th Amendment deleted Article 21A; RTE Act 2009 never took effect.
+3. The 44th Amendment restored absolute unreviewable emergency powers of the 42nd without change.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 1
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Part IXB inoperative for State cooperatives (2021).
+**Logic:** 73rd/74th created Parts IX and IXA (in force 1993). 86th inserted Article 21A; RTE Act took effect on 1 April 2010. The 42nd expanded DPSP primacy devices; it did not “weaken DPSPs relative to Fundamental Rights.”
 
 </details>
 
@@ -3193,15 +3191,15 @@ D. Neither 1 nor 2
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. 1 and 2
+B. 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Defection / CoM caps / voting age.
 
@@ -3351,19 +3349,19 @@ D. Neither 1 nor 2
 
 **Q21.** Which of the following pairs is/are correctly matched?
 
-1. Simple majority changes outside 368 — can still remake the map of States
-2. Special majority + States — federal fact when the question names 7th Schedule or Article 368 itself
-3. Article 13 — power to amend the Constitution
+1. Article 13 — power to amend the Constitution
+2. Simple majority changes outside 368 — can still remake the map of States
+3. Special majority + States — federal fact when the question names 7th Schedule or Article 368 itself
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 2 and 3 only are correct.
 
 **Logic:** Article 13 is about laws inconsistent with FRs — amendment power is 368.
 
@@ -3395,15 +3393,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Articles 20 and 21 made unsuspendable.
 3. Added 38(2) and 361A among other changes.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. All 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Property / 20-21 / 38(2)+361A.
 
@@ -3451,8 +3449,8 @@ D. 1 only
 
 **Q26.** With reference to cooperatives constitutionalisation, which of the following statements is/are correct?
 
-1. 97th inserted 43B, brought cooperatives into 19(1)(c), and inserted Part IXB.
-2. Fundamental Right to form cooperatives was extinguished when Part IXB became inoperative for State cooperatives.
+1. Fundamental Right to form cooperatives was extinguished when Part IXB became inoperative for State cooperatives.
+2. 97th inserted 43B, brought cooperatives into 19(1)(c), and inserted Part IXB.
 
 A. Only 1
 B. Only 2
@@ -3462,7 +3460,7 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 is correct.
+**Ans: B.** Only 2 is correct.
 
 **Logic:** FR under 19(1)(c) still stands.
 
@@ -3474,15 +3472,15 @@ D. Neither 1 nor 2
 2. Rights-education amendment is 86th.
 3. Women reservation awaiting delimitation is 106th.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. Only 1
+B. 1 and 2
+C. Only 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Quick landmark tags.
 
@@ -3490,9 +3488,9 @@ D. 1 and 3 only
 
 **Q28.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): Special majority under 368 is majority of total membership plus two-thirds of those present and voting.
+Assertion (A): That formula is identical to two-thirds of the total membership alone.
 
-Reason (R): That formula is identical to two-thirds of the total membership alone.
+Reason (R): Special majority under 368 is majority of total membership plus two-thirds of those present and voting.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -3502,9 +3500,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true, but (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** Total membership + 2/3 P&V is not ‘2/3 of total alone’.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Total membership + 2/3 P&V is not ‘2/3 of total alone’.
 
 </details>
 
@@ -3533,15 +3531,15 @@ D. Neither 1 nor 2
 2. Kesavananda — FR can be amended; basic structure cannot
 3. Minerva Mills — judicial review of amendments restored against overbroad 42nd devices
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. Only 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Three-case amendment jurisprudence map.
 

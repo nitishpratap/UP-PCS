@@ -668,24 +668,23 @@ D. A false; R true
 
 **Q1.** With reference to ozone, which of the following statements is/are correct?
 
-1. O₃ is triatomic oxygen.
+1. O₃ is diatomic oxygen identical to O₂.
 2. About 90% is stratospheric; about 10% tropospheric.
 3. Protective ozone layer sits mainly in the troposphere.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 2
+C. 1 and 2
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: B.** Only 2 is correct.
 
-**Logic:** Protective layer = stratosphere.
+**Logic:** Statement 2 is true (~90% stratospheric / ~10% tropospheric). Statement 1 is false — ozone is triatomic oxygen. Statement 3 is false — protective ozone is mainly stratospheric.
 
 </details>
-
 **Q2.** Match List-I with List-II:
 
 | List-I | List-II |
@@ -713,20 +712,20 @@ D. A-3, B-1, C-2
 **Q3.** Which of the following pairs is/are correctly matched?
 
 1. Vienna Convention — 1985 framework
-2. Montreal Protocol — 16 Sep 1987; force 1 Jan 1989
-3. Kigali Amendment — HFC phase-down for climate (2016; force 2019)
+2. Kyoto Protocol — 16 Sep 1987; force 1 Jan 1989
+3. Kigali Amendment — HFC phase-down for climate (2008; force 2019)
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Vienna / Montreal / Kigali.
+**Logic:** Only statement 1 remains true among the numbered claims. Statement 1 is true. Statement 2 is false. Statement 3 is false.
 
 </details>
 

@@ -2855,21 +2855,19 @@ D. Neither 1 nor 2
 
 **Q2.** Consider the following pairs:
 
-1. Election Commission — Article 324
-2. President/VP election dispute — Article 71 (Supreme Court)
-3. Adult suffrage — Article 325
+1. Adult suffrage — Article 325
+2. Election Commission — Article 324
+3. President/VP election dispute — Article 71 (Supreme Court)
 
-Which of the pairs given above is/are correctly matched?
-
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. All 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: B.** 2 and 3 only are correct.
 
 **Logic:** Adult suffrage is Article 326; 325 is one general electoral roll.
 
@@ -2897,9 +2895,9 @@ D. 1 only
 
 **Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): An Election Commissioner’s term is six years or age 65, whichever is earlier.
+Assertion (A): The 2023 Act places the Chief Justice of India on the selection panel for Election Commissioners.
 
-Reason (R): The 2023 Act places the Chief Justice of India on the selection panel for Election Commissioners.
+Reason (R): An Election Commissioner’s term is six years or age 65, whichever is earlier.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -2909,9 +2907,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true, but (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** 2023 panel is PM + LoP (LS) + a Union Cabinet Minister — CJI is not on it.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. 2023 panel is PM + LoP (LS) + a Union Cabinet Minister — CJI is not on it.
 
 </details>
 
@@ -2962,59 +2960,59 @@ D. 2-1-3-4
 
 **Q7.** With reference to UPSC, which of the following statements is/are correct?
 
-1. Members are appointed by the President; term is six years or age 65.
-2. Roughly half the members must have at least ten years of government service.
-3. UPSC advice is binding on the government.
+1. UPSC advice is binding on the government.
+2. Members are appointed by the President; term is six years or age 65.
+3. Roughly half the members must have at least twenty-five years of government service.
 
-A. 2 and 3 only
-B. 1 and 3 only
-C. 1, 2 and 3
-D. 1 and 2 only
+A. Only 1
+B. Only 1 and 3
+C. Only 2
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2 are correct.
+**Ans: C.** Only 2 is correct.
 
-**Logic:** UPSC advice is recommendatory, not binding.
+**Logic:** UPSC advice is recommendatory, not binding. Members are appointed by the President for six years or age 65. Roughly half need at least ten years of government service.
 
 </details>
 
 **Q8.** Consider the following statements about State PSCs:
 
 1. A State PSC member is appointed by the Governor but removed by the President.
-2. A Joint PSC for two or more States can be created by a State Act alone.
-3. Extra functions for a State PSC need a law of the State Legislature (Article 321).
+2. Extra functions for a State PSC need only an executive order of the Governor under Article 321.
+3. A Joint PSC for two or more States can be created by a State Act alone.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 3 are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Joint PSC needs a Parliamentary law.
+**Logic:** A State PSC member is appointed by the Governor but removed by the President. Extra functions need a State Legislature law (Article 321). Joint PSC needs a Parliamentary law.
 
 </details>
 
 **Q9.** With reference to the CAG, which of the following is/are correct?
 
 1. Appointed by the President for six years or age 65; removed like a Supreme Court judge.
-2. India’s CAG is mainly an Auditor after spending, not a UK-style Comptroller controlling issue beforehand.
-3. CAG reports are examined by the Estimates Committee.
+2. CAG reports are examined by the Estimates Committee.
+3. India’s CAG is mainly an Auditor after spending, not a UK-style Comptroller controlling issue beforehand.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. Only 3
+C. 1 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 3 only are correct.
 
 **Logic:** PAC examines CAG reports — not the Estimates Committee.
 
@@ -3066,15 +3064,15 @@ D. None
 2. Article 339 creates the standing NCST.
 3. Article 340 is the inquiry article behind Kalelkar/Mandal-type exercises.
 
-A. 1 and 3 only
-B. 1 and 2 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 3
+B. Only 2
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 3 are correct.
+**Ans: A.** 1 and 3 only are correct.
 
 **Logic:** 339 is an ad hoc Scheduled Areas/ST commission — not the standing NCST.
 
@@ -3083,20 +3081,18 @@ D. 1, 2 and 3
 **Q13.** Consider the following pairs:
 
 1. 102nd Amendment — constitutional status to NCBC (338B)
-2. 105th Amendment — restored States’ power to identify their own SEBCs
-3. 350B — National Commission for Minorities
+2. 350B — National Commission for Minorities
+3. 105th Amendment — restored States’ power to identify their own SEBCs
 
-Which of the pairs given above is/are correctly matched?
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. Only 1 and 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 3 only are correct.
 
 **Logic:** 350B is the Special Officer for Linguistic Minorities; NCM is statutory.
 
@@ -3125,18 +3121,18 @@ D. 1 only
 **Q15.** With reference to the Finance Commission as a constitutional body, which of the following is/are correct?
 
 1. Chair plus four members; appointed by the President every five years.
-2. It is the same institution as NITI Aayog.
-3. Vertical shares moved from 42% (14th) to 41% (15th).
+2. Vertical shares moved from 42% (14th) to 41% (15th).
+3. It is the same institution as NITI Aayog.
 
-A. 1 and 3 only
-B. 1 and 2 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 3 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** FC ≠ NITI.
 
@@ -3144,9 +3140,9 @@ D. 1, 2 and 3
 
 **Q16.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): After leaving office, a UPSC Chairperson cannot take further Union or State office under Article 319.
+Assertion (A): UPSC functions come only from the Constitution and never from Parliament, rules, or conventions.
 
-Reason (R): UPSC functions come only from the Constitution and never from Parliament, rules, or conventions.
+Reason (R): After leaving office, a UPSC Chairperson cannot take further Union or State office under Article 319.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -3156,9 +3152,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true, but (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** UPSC functions come from four sources: Constitution, Parliament, rules, and conventions.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. UPSC functions come from four sources: Constitution, Parliament, rules, and conventions.
 
 </details>
 
@@ -3192,15 +3188,15 @@ D. A-3, B-1, C-2
 2. RPA 1951 covers conduct, nominations, corrupt practices, and election petitions.
 3. The Election Commission decides the Speaker’s election inside the House.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1, 2 and 3
+B. Only 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** Speaker election is an interior House process — not ECI’s 324 job.
 
@@ -3208,19 +3204,19 @@ D. 1, 2 and 3
 
 **Q19.** Consider the following statements:
 
-1. Solicitor General is a constitutional office under Article 76.
-2. Private practice by the AG is allowed except against the Government of India.
-3. First CAG of independent India was V. Narahari Rao.
+1. Private practice by the AG is allowed except against the Government of India.
+2. First CAG of independent India was V. Narahari Rao.
+3. Solicitor General is a constitutional office under Article 76.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. All 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 2 and 3 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** SG/ASG are not constitutional offices.
 
@@ -3252,15 +3248,15 @@ D. 1-2-3
 2. Official Language Commission — Article 344; five years then ten years
 3. NCSC list power — linked with Article 341
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. Only 2 and 3
+B. Only 1
+C. Only 1 and 2
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** 350B / 344 / 338+341 facts.
 
@@ -3346,21 +3342,19 @@ D. Neither 1 nor 2
 
 **Q26.** Consider the following pairs:
 
-1. NCST — Article 338A / list logic under 342
-2. NCBC — Article 338B / 342A path
-3. Article 340 commission — standing NCBC under 338B
+1. Article 340 commission — standing NCBC under 338B
+2. NCST — Article 338A / list logic under 342
+3. NCBC — Article 338B / 342A path
 
-Which of the pairs given above is/are correctly matched?
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 3
+C. Only 2
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 2 and 3 only are correct.
 
 **Logic:** 340 is ad hoc inquiry — not the standing 338B body.
 
@@ -3407,8 +3401,8 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q29.** Which of the following is/are correctly stated about sorting bodies?
 
-1. NCSC is constitutional; NHRC is statutory; NITI is executive.
-2. Special Officer (350B) is the same as the National Commission for Minorities.
+1. Special Officer (350B) is the same as the National Commission for Minorities.
+2. NCSC is constitutional; NHRC is statutory; NITI is executive.
 
 A. Only 1
 B. Only 2
@@ -3418,7 +3412,7 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 is correct.
+**Ans: B.** Only 2 is correct.
 
 **Logic:** 350B ≠ NCM.
 
@@ -3430,15 +3424,15 @@ D. Neither 1 nor 2
 2. First CAG of independent India — V. Narahari Rao
 3. First Finance Commission Chair — K.C. Neogy
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. 1 and 2
+B. 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Sen / Narahari Rao / Neogy name facts.
 

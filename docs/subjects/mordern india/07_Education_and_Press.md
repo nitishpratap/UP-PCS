@@ -1988,26 +1988,23 @@ D. Samvad Kaumudi — Raja Ram Mohan Roy
 **Q1.** With reference to the Charter Act of 1813 and education, which of the following statements is/are correct?
 
 1. It set aside ₹1 lakh a year for education.
-2. It also allowed missionary entry.
+2. It also banned all missionary entry into Company territories.
 3. It immediately founded the universities of Calcutta, Bombay and Madras.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
+B. Only 1
 
-A. 1 and 3 only
+C. 2 and 3
 
-B. 1 and 2 only
-
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Universities follow Wood (1854) and open in 1857 — not 1813.
+**Logic:** Stmt 2 false: Charter 1813 allowed missionary entry; it did not ban missions. Stmt 3 remains false: universities open in 1857 after Wood’s Despatch.
 
 </details>
 
@@ -2016,24 +2013,21 @@ D. 1, 2 and 3
 **Q2.** With reference to Orientalists and Anglicists, which of the following statements is/are correct?
 
 1. Orientalists wanted Sanskrit, Arabic and Persian learning.
-2. Anglicists wanted English and Western science.
-3. Macaulay’s Minute (1835) settled the controversy in favour of pure Orientalist funding only.
+2. Macaulay’s Minute (1835) settled the controversy in favour of pure Orientalist funding only.
+3. Anglicists wanted English and Western science.
 
-Select the correct answer from the code given below:
+A. 1 and 3
 
+B. All 1, 2 and 3
 
-A. 1 and 3 only
+C. Only 1 and 2
 
-B. 2 and 3 only
-
-C. 1, 2 and 3
-
-D. 1 and 2 only
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2.
+**Ans: A.** 1 and 3 only are correct.
 
 **Logic:** Macaulay settled English for higher education — Anglicist win.
 
@@ -2151,27 +2145,24 @@ D. 2, 1, 4, 3
 
 **Q7.** With reference to press laws, which of the following statements is/are correct?
 
-1. Wellesley’s Censorship of Press Act (1799) brought wartime pre-censorship.
-2. Metcalfe’s Act (1835) repealed licensing — Metcalfe is the Liberator of the Press.
-3. Adam’s Licensing Regulations (1823) permanently ended all press control forever.
+1. Adam’s Licensing Regulations (1823) permanently ended all press control forever.
+2. Wellesley’s Censorship of Press Act (1799) permanently ended all press control forever.
+3. Metcalfe’s Act (1835) repealed licensing — Metcalfe is the Liberator of the Press.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
+B. 2 and 3
 
-A. 1 and 3 only
+C. Only 3
 
-B. 1 and 2 only
-
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: C.** Only 3 is correct.
 
-**Logic:** 1823 tightened control; freedom is not linear.
+**Logic:** Stmt 2 false: 1799 brought wartime pre-censorship; it did not end control forever. Stmt 1 remains false: Adam’s 1823 tightened control.
 
 </details>
 
@@ -2179,27 +2170,24 @@ D. 1, 2 and 3
 
 **Q8.** With reference to Vernacular Press Act and later Acts, which of the following statements is/are correct?
 
-1. Lytton’s Vernacular Press Act (1878) curbed the vernacular press.
-2. Ripon repealed it in 1882.
-3. Indian Press Act 1910 is only another name for the Vernacular Press Act 1878.
+1. Indian Press Act 1910 is only another name for the Vernacular Press Act 1878.
+2. Lytton’s Vernacular Press Act (1878) curbed the vernacular press.
+3. Ripon repealed the Vernacular Press Act in 1910 under the Indian Press Act.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
+B. 2 and 3
 
-A. 1 and 3 only
+C. 1 and 3
 
-B. 2 and 3 only
-
-C. 1, 2 and 3
-
-D. 1 and 2 only
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2.
+**Ans: D.** Only 2 is correct.
 
-**Logic:** 1878 vernacular-only curb ≠ 1910 broader pre-censorship.
+**Logic:** Stmt 3 false: Ripon repealed it in 1882; Indian Press Act 1910 is a different statute. Stmt 1 remains false: 1910 ≠ Vernacular Press Act 1878.
 
 </details>
 
@@ -2239,21 +2227,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. The 1904 Act tightened government control over university senates.
 3. National Council of Education (1906) was Curzon’s official universities department.
 
-Select the correct answer from the code given below:
+A. Only 1
 
+B. Only 1 and 2
 
-A. 1 and 3 only
+C. Only 3
 
-B. 1 and 2 only
-
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** NCE = Swadeshi-era nationalist schooling body — not Curzon’s department.
 
@@ -2317,24 +2302,21 @@ D. Ilbert Bill 1883 — Lytton’s vernacular-only press curb
 **Q13.** With reference to Jones and Hastings on the Asiatic Society, which of the following statements is/are correct?
 
 1. Sir William Jones founded and presided.
-2. Warren Hastings encouraged it and declined the chair.
-3. Hastings founded the Society and Jones only translated later works.
+2. Hastings founded the Society and Jones only translated later works.
+3. Warren Hastings encouraged it and declined the chair.
 
-Select the correct answer from the code given below:
+A. Only 2
 
+B. 2 and 3
 
-A. 1 and 3 only
+C. Only 1
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: D.** 1 and 3 only are correct.
 
 **Logic:** Pure chair trap from Confused Pairs.
 
@@ -2375,21 +2357,18 @@ D. 2, 4, 3, 1
 2. He is often wrongly tagged as Principal of Lahore College.
 3. He founded Hicky’s Bengal Gazette in 1780.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
+B. Only 3
 
-A. 1 and 3 only
+C. 1 and 3
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** Career trap: not Lahore College; not Hicky.
 
@@ -2427,25 +2406,22 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q17.** With reference to National Council of Education and Wardha, which of the following statements is/are correct?
 
-1. NCE (1906) belongs to the Swadeshi education column.
-2. Wardha (1937) is Gandhian Basic Education / Nai Talim.
-3. Wardha is only a 1906 Swadeshi renaming of NCE.
+1. Wardha is only a 1906 Swadeshi renaming of NCE.
+2. NCE (1906) belongs to the Swadeshi education column.
+3. Wardha (1937) is Gandhian Basic Education / Nai Talim.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
+B. Only 2 and 3
 
-A. 1 and 3 only
+C. 1 and 3
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: B.** 2 and 3 only are correct.
 
 **Logic:** Different decades, different projects.
 
@@ -2459,21 +2435,18 @@ D. 1, 2 and 3
 2. Sanskrit College Banaras (1791) is tagged to Jonathan Duncan.
 3. Mayo / MAO College (1875) precedes Hindu College in founding year.
 
-Select the correct answer from the code given below:
+A. Only 3
 
+B. Only 1 and 3
 
-A. 1 and 3 only
+C. Only 1
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** College order: Hindu 1817 → Delhi 1824 → Mayo/MAO 1875.
 
@@ -2536,25 +2509,22 @@ D. Pioneer — George Allen (Allahabad)
 
 **Q21.** With reference to downward filtration, which of the following statements is/are correct?
 
-1. After 1835 it meant educating a small English-knowing elite who would supposedly filter knowledge downward.
-2. Wood later tried to build a fuller public system from primary to university.
-3. Downward filtration is the official name of the Wardha Basic Education scheme.
+1. Downward filtration is the official name of the Wardha Basic Education scheme.
+2. After 1835 it meant educating a small English-knowing elite who would supposedly filter knowledge downward.
+3. Wood later tried to build a fuller public system from primary to university.
 
-Select the correct answer from the code given below:
+A. Only 1
 
+B. Only 1 and 2
 
-A. 1 and 3 only
+C. Only 1, 2 and 3
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: D.** 2 and 3 only are correct.
 
 **Logic:** Wardha ≠ filtration theory.
 
@@ -2592,24 +2562,21 @@ D. 3, 1, 4, 2
 **Q23.** With reference to Deccan Education Society, which of the following statements is/are correct?
 
 1. Core founders include Tilak, Chiplunkar, Agarkar and Namjoshi.
-2. Ranade is remembered as patron, not a core founder in the standard tag.
-3. D.K. Karve founded Deccan Education Society as SNDT in 1916.
+2. D.K. Karve founded Deccan Education Society as SNDT in 1916.
+3. Ranade is remembered as patron, not a core founder in the standard tag.
 
-Select the correct answer from the code given below:
+A. 1 and 3
 
+B. Only 1
 
-A. 1 and 3 only
+C. Only 1 and 2
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: A.** 1 and 3 only are correct.
 
 **Logic:** Karve = women’s university stream — separate from DES core tag.
 
@@ -2651,21 +2618,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. It is later than the Indian Press Act, 1910.
 3. It is identical with Metcalfe’s liberation Act of 1835.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
+B. 2 and 3
 
-A. 1 and 3 only
+C. Only 1 and 3
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** 1931 emergency powers ≠ 1835 liberation.
 
@@ -2701,21 +2665,18 @@ D. Both were authored by Macaulay in 1835
 2. Sanskrit College Banaras (1791) is tagged to Jonathan Duncan.
 3. Both were founded by Macaulay under Wood’s Despatch in 1854.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
+B. Only 2 and 3
 
-A. 1 and 3 only
-
-B. 2 and 3 only
-
-C. 1 and 2 only
+C. Only 1 and 3
 
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** Early Orientalist institutions precede Macaulay/Wood.
 
@@ -2757,24 +2718,21 @@ D. A-2, B-3, C-1, D-4
 **Q29.** With reference to Sargent Plan, which of the following statements is/are correct?
 
 1. It is a 1944 post-war official blueprint.
-2. It is not the same as Hartog’s 1929 primary-wastage review.
-3. It repealed Wood’s Despatch and closed all universities.
+2. It repealed Wood’s Despatch and closed all universities.
+3. It is not the same as Hartog’s 1929 primary-wastage review.
 
-Select the correct answer from the code given below:
+A. Only 2
 
+B. 2 and 3
 
-A. 1 and 3 only
+C. Only 1
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: D.** 1 and 3 only are correct.
 
 **Logic:** Sargent ≠ Hartog; it does not scrap Wood’s ladder.
 

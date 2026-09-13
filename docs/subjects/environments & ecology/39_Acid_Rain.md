@@ -388,21 +388,21 @@ D. Only carbon dioxide alone
 
 **Q1.** With reference to acid rain, which of the following statements is/are correct?
 
-1. Acidic deposition with pH below 5.6.
+1. Acid rain is defined as deposition with pH above 7.0.
 2. Normal rain ~pH 5.6 from CO₂ → weak H₂CO₃ — not pH 7.
 3. Normal rain is alkaline (pH >7).
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 3
+B. Only 2
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: B.** Only 2 is correct.
 
-**Logic:** Normal rain slightly acidic — not alkaline.
+**Logic:** Statement 2 is the normal-rain ~pH 5.6 fact. Statement 1 is false — acid rain is below ~5.6, not above 7. Statement 3 is false — normal rain is slightly acidic, not alkaline.
 
 </details>
 
@@ -434,19 +434,19 @@ D. A-3, B-1, C-2
 
 1. CO₂ → H₂CO₃ sets weak baseline
 2. CO₂ alone is the main culprit of severe acid rain
-3. Acid rain is secondary-pollutant story from primary SO₂/NOx
+3. Acid rain is secondary-pollutant story from secondary SO₂/NOx
 
-A. 1, 2 and 3
-B. 1 and 2 only
-C. 2 and 3 only
-D. 1 and 3 only
+A. Only 3
+B. Only 1
+C. 1 and 2
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 3.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** CO₂ not main severe culprit.
+**Logic:** Only statement 1 remains true among the numbered claims. Statement 1 is true. Statement 2 is false. Statement 3 is false.
 
 </details>
 

@@ -3627,15 +3627,15 @@ D. 1 only
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three relief pairs are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** India’s west shelf is wider than the east; Bombay High sits on the Gujarat–Mumbai belt.
 
@@ -3704,22 +3704,22 @@ D. 1-2-3
 **Q6.** With reference to salinity, which of the following statements is/are correct?
 
 1. Open-ocean salinity is about 35‰.
-2. Maximum salinity sits near the Tropics of Cancer and Capricorn, not on the Equator.
-3. Red Sea is high; Baltic is low.
+2. Maximum salinity sits on the Equator because of continuous rainfall there.
+3. Red Sea is low-salinity and Baltic is the highest-salinity sea.
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 1, 2 and 3
-C. 2 and 3 only
-D. 1 and 3 only
+A. Only 1
+B. 1 and 2
+C. All 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** All three salinity statements are correct.
+**Ans: A.** Only 1 is correct.
 
-**Logic:** NaCl is about 77% of dissolved salts.
+**Logic:** Open-ocean salinity is about 35‰. Maximum salinity sits near the Tropics of Cancer and Capricorn. Red Sea is high; Baltic is low.
 
 </details>
 
@@ -3750,23 +3750,23 @@ D. A-2, B-1, C-3, D-4
 
 **Q8.** With reference to tides, which of the following statements is/are correct?
 
-1. Spring tide forms at syzygy (new/full moon) and is large.
+1. Spring tide forms at quadrature and is the smallest tide.
 2. Neap tide forms at quadrature and is small.
-3. Tidal period is about 12 h 25 min.
+3. Tidal period is about 12 h 30 min in standard teaching.
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 1, 2 and 3
-C. 2 and 3 only
-D. 1 and 3 only
+A. 1 and 2
+B. Only 2
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** All three tide statements are correct.
+**Ans: B.** Only 2 is correct.
 
-**Logic:** Do not use 12 h 30 min as the period.
+**Logic:** Spring tide forms at syzygy (new/full moon) and is large. Neap tide forms at quadrature and is small. Tidal period is about 12 h 25 min, not 12 h 30 min.
 
 </details>
 
@@ -3820,15 +3820,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 1, 2 and 3
-C. 2 and 3 only
-D. 1 and 3 only
+A. Only 2 and 3
+B. 1 and 3
+C. Only 1, 2 and 3
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** All three deposit statements are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Manganese nodules sit on abyssal plains.
 
@@ -3867,15 +3867,15 @@ D. A-1, B-2, C-4, D-3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. 1 and 2
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three station statements are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Do not place Himadri in Antarctica.
 
@@ -3889,10 +3889,10 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 1, 2 and 3
-C. 2 and 3 only
-D. 1 and 3 only
+A. 1 and 2
+B. Only 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -3922,20 +3922,18 @@ D. Only Vembanad
 **Q16.** Consider the following strait / passage pairs:
 
 1. Hormuz — Persian Gulf ↔ Gulf of Oman (~25% seaborne oil)
-2. Drake Passage — same as Strait of Magellan
-3. Malacca — key Indo-Pacific chokepoint
+2. Malacca — key Indo-Pacific chokepoint
+3. Drake Passage — same as Strait of Magellan
 
-Which of the pairs/statements given above is/are correct?
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 3 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** Drake Passage is not the Strait of Magellan.
 
@@ -4033,15 +4031,15 @@ D. A-1, B-2, C-4, D-3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 1, 2 and 3
-C. 2 and 3 only
-D. 1 and 3 only
+A. Only 2 and 3
+B. Only 1
+C. Only 1 and 2
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** All three statements are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** After ice, largest remaining fresh store is groundwater.
 

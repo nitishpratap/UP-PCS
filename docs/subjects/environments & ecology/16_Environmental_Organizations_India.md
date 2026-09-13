@@ -488,41 +488,41 @@ D. Central Pollution Control Board
 
 **Q1.** With reference to MoEFCC, which of the following statements is/are correct?
 
-1. It began as MoEF in 1985 and was renamed MoEFCC in 2014.
+1. It began as MoEF in 1995 and was renamed MoEFCC in 2014.
 2. It is India’s nodal ministry for environment, forests, wildlife, and climate change.
-3. It sits in Mumbai as its only headquarters lock.
+3. It sits in Mumbai as its only headquarters fact.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. Only 2
+C. Only 1
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: B.** Only 2 is correct.
 
-**Logic:** HQ New Delhi — not Mumbai.
+**Logic:** Statement 2 is true. Statement 1 is false — MoEF was created in **1985** (renamed MoEFCC in 2014), not 1995. Statement 3 is false — MoEFCC is New Delhi–centred, not Mumbai-only.
 
 </details>
 
 **Q2.** Which of the following pairs is/are correctly matched?
 
-1. CPCB — Water Act 1974; New Delhi; NAAQS
+1. CPCB — Water Act 1974; Mumbai; NAAQS
 2. SPCB — Consent to Establish / Consent to Operate
 3. CPCB — grants Category A Environmental Clearance
 
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. Only 3
+B. Only 2
+C. Only 1
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: B.** Only 2 is correct.
 
-**Logic:** EC is MoEFCC/SEIAA — not CPCB.
+**Logic:** Only statement 2 remains true among the numbered claims. Statement 1 is false. Statement 2 is true. Statement 3 is false.
 
 </details>
 
@@ -587,7 +587,7 @@ D. Only 1 and 2
 
 **Ans: A.** All four.
 
-**Logic:** Standard HQ locks.
+**Logic:** Standard HQ facts.
 
 </details>
 
@@ -707,7 +707,7 @@ D. 2006 → 2010
 
 **Ans: B.** MoEF 1985 → MoEFCC 2014.
 
-**Logic:** Rename lock.
+**Logic:** Rename fact.
 
 </details>
 
@@ -727,7 +727,7 @@ D. 1 and 3 only
 
 **Ans: C.** All three.
 
-**Logic:** CPCB negative locks.
+**Logic:** CPCB negative facts.
 
 </details>
 
@@ -787,7 +787,7 @@ D. 1, 2 and 3
 
 </details>
 
-**Q16.** How many of the following Delhi HQ locks are correct?
+**Q16.** How many of the following Delhi HQ facts are correct?
 
 MoEFCC, CPCB, NGT
 
@@ -965,7 +965,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 </details>
 
-**Q25.** How many of the following are Dehradun locks?
+**Q25.** How many of the following are Dehradun facts?
 
 WII, FSI, FRI
 

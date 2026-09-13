@@ -605,22 +605,20 @@ D. Marble curving
 **Q1.** With reference to prehistoric and early painting sites, which of the following statements is/are correct?
 
 1. Bhimbetka rock shelters are in Raisen, Madhya Pradesh, and are associated with V.S. Wakankar.
-2. Jogimara in Ramgarh, Chhattisgarh, is the earliest Indian fresco fact in standard teaching.
+2. Jogimara frescoes are the main UP Mirzapur–Sonbhadra rock-art belt.
 3. Bagh caves are the main UP prehistoric rock-art belt.
 
-Select the correct answer from the code given below:
-
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. 1 and 2
+B. 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** UP rock-art belt is Mirzapur–Sonbhadra. Bagh is in Madhya Pradesh.
+**Logic:** Jogimara is in Ramgarh, Chhattisgarh. UP rock-art belt is Mirzapur–Sonbhadra. Bagh is in Madhya Pradesh.
 
 </details>
 
@@ -681,9 +679,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both (A) and (R) are true and (R) supports Ajanta’s painting fame contrasted with Ellora sculpture.
+**Ans: A.** Both (A) and (R) are true, but (R) is not the correct explanation of (A).
 
-**A/R logic:** Cave theme tags reinforce why Ajanta is the painting landmark.
+**A/R logic:** Cave 1 Padmapani / Vajrapani supports Ajanta’s painting fame but does not explain Ellora’s sculpture / Kailasa contrast in (A).
 
 </details>
 
@@ -729,22 +727,20 @@ D. Ragamala — Akbar’s only imperial manuscript style, never used in Rajput c
 **Q7.** With reference to Rajput and Pahari painting, which of the following statements is/are correct?
 
 1. Rajput painting is Rajasthan princely and often bhakti / ragamala based.
-2. Pahari painting is Himalayan hill painting.
+2. Pahari painting is a Deccan court style identical with Bijapur miniatures.
 3. Kangra is a Rajasthan plains school identical with Mewar.
 
-Select the correct answer from the code given below:
-
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: A.** Only 1 is correct.
 
-**Logic:** Kangra is hills, not Rajasthan plains.
+**Logic:** Pahari painting is Himalayan hill painting. Kangra is a hill school, not a Rajasthan plains school.
 
 </details>
 
@@ -819,23 +815,21 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q11.** With reference to Tanjore and Mysore painting, which of the following statements is/are correct?
 
-1. Tanjore painting uses gold foil and gems on wood.
-2. Mysore painting uses finer gesso and is less gem-studded.
-3. Both are identical techniques with no useful distinction.
+1. Both are identical techniques with no useful distinction.
+2. Tanjore painting uses gold foil and gems on wood.
+3. Mysore painting uses heavier gem-studding than Tanjore and rejects fine gesso.
 
-Select the correct answer from the code given below:
-
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
+A. 2 and 3
+B. Only 2
+C. 1 and 2
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: B.** Only 2 is correct.
 
-**Logic:** Gold-and-gem vs finer gesso is the tested contrast.
+**Logic:** Mysore painting uses finer gesso and is less gem-studded than Tanjore. The two schools are not identical.
 
 </details>
 
@@ -858,20 +852,18 @@ D. Both centres are Mughal atelier names under Jahangir
 **Q13.** With reference to modern Indian painting, which of the following statements is/are correct?
 
 1. Ravi Varma used oil and oleograph realism.
-2. Abanindranath led the Bengal School wash revival and painted Bharat Mata.
-3. The Company School is the same as the nationalist Bengal School.
+2. The Company School is the same as the nationalist Bengal School.
+3. Abanindranath led the Bengal School wash revival and painted Bharat Mata.
 
-Select the correct answer from the code given below:
-
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 3
+C. Only 2
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: B.** 1 and 3 only are correct.
 
 **Logic:** Company School made colonial documentary pictures for EIC patrons.
 
@@ -1017,15 +1009,15 @@ D. 1, 2, 3 and 4
 
 Which of the statements given above are correct?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
+A. 2 and 3
+B. Only 1
+C. Only 1 and 2
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three mural geography statements are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Also remember Badami and Lepakshi in the wider mural map.
 
@@ -1073,15 +1065,15 @@ D. It is Jahangir’s bird-painting album name
 
 Which of the distinctions given above are correct?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three distinctions are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** These pairs are written to catch superficial synonyms.
 
@@ -1117,15 +1109,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. All 1, 2 and 3
+B. Only 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Do not shift Bagh into UP.
 
@@ -1155,15 +1147,15 @@ D. Kangra lyrical Krishna themes were the imperial Mughal house style
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 3
+B. Only 1, 2 and 3
+C. 1 and 2
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three folk matches are correct in standard teaching.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Also keep Pithora, Gond and Kalighat ready as distractors.
 
@@ -1175,17 +1167,15 @@ D. 1, 2 and 3
 2. Tempera / secco places binder on a dry surface.
 3. Every Indian miniature is painted on wet plaster walls.
 
-Which of the statements given above is/are correct?
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. All 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** Miniatures are small album or manuscript pictures, not wet-plaster murals.
 

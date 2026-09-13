@@ -3361,20 +3361,20 @@ D. Tenth
 
 **Q1.** With reference to Parts of the Constitution, consider the following statements:
 1. Part III deals with Fundamental Rights.
-2. Part IV deals with Directive Principles of State Policy.
+2. Part IV deals with Fundamental Duties.
 3. Part IVA deals with Municipalities.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
+A. 2 and 3
+B. Only 1
+C. 1 and 2
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Part IVA is Fundamental Duties; Municipalities are Part IXA.
+**Logic:** Part III = Fundamental Rights; Part IV = DPSPs; Part IVA = Fundamental Duties; Municipalities are Part IXA.
 
 </details>
 
@@ -3431,7 +3431,7 @@ D. A-2, B-3, C-4, D-1
 
 **Q4.** With reference to the Eleventh and Twelfth Schedules, which of the following is/are correct?
 1. Eleventh Schedule lists 29 Panchayat subjects.
-2. Twelfth Schedule lists 18 Municipality subjects.
+2. Twelfth Schedule lists 29 Panchayat subjects.
 3. Eleventh Schedule came with the 74th Amendment.
 
 A. 1 and 2 only
@@ -3442,9 +3442,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** Only 1 is correct.
 
-**Logic:** 11th = 73rd (29); 12th = 74th (18). Do not swap amendments.
+**Logic:** Eleventh Schedule lists 29 Panchayat subjects (73rd). Twelfth Schedule lists 18 Municipality subjects (74th).
 
 </details>
 
@@ -3489,7 +3489,7 @@ D. 3 – 1 – 2
 
 **Q7.** Consider the following statements about Sixth Schedule areas:
 1. Sixth Schedule covers tribal areas of Assam, Meghalaya, Tripura and Mizoram.
-2. It provides for Autonomous District Councils.
+2. It provides for Panchayats under Part IX instead of Autonomous District Councils.
 3. It applies uniformly to all States with Scheduled Areas under the Fifth Schedule pattern.
 
 A. 2 and 3 only
@@ -3500,9 +3500,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Fifth and Sixth Schedules are different regimes; AMTM is the Sixth Schedule set.
+**Logic:** Sixth Schedule covers Assam, Meghalaya, Tripura and Mizoram with Autonomous District Councils. Fifth and Sixth Schedules are different regimes.
 
 </details>
 
@@ -3527,20 +3527,20 @@ D. 3 only
 
 **Q9.** With reference to emergency articles, which of the following is/are correct?
 1. Article 352 deals with National Emergency.
-2. Article 356 deals with State Emergency / President’s Rule.
-3. Article 360 deals with Financial Emergency.
+2. Article 356 deals with Financial Emergency.
+3. Article 360 deals with National Emergency.
 
-A. 1, 2 and 3
-B. 1 and 2 only
-C. 2 and 3 only
-D. 1 and 3 only
+A. 1 and 2
+B. Only 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** All three statements are correct.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** Standard 352 / 356 / 360 map.
+**Logic:** Article 352 = National Emergency; 356 = President’s Rule; 360 = Financial Emergency.
 
 </details>
 
@@ -3585,15 +3585,15 @@ D. A-1, B-3, C-4, D-2
 2. The Vice-President is elected by an electoral college that includes elected State MLAs.
 3. Article 66 governs election of the Vice-President.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2
+B. 2 and 3
+C. Only 1
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 3 are correct.
+**Ans: D.** 1 and 3 only are correct.
 
 **Logic:** VP college is Parliament only; State MLAs vote for President (Art. 54), not VP.
 
@@ -3755,15 +3755,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Originally there were 10 duties.
 3. Article 51A(k) was added by the 86th Amendment.
 
-A. 1 and 2 only
-B. 1, 2 and 3
-C. 2 and 3 only
-D. 1 and 3 only
+A. 2 and 3
+B. Only 1 and 3
+C. Only 1, 2 and 3
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** All three statements are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** 42nd added Duties; 86th added 51A(k) education duty.
 
@@ -3808,15 +3808,15 @@ D. 1 and 2 only
 2. Article 19 contains six freedoms.
 3. Article 21A is free and compulsory education for ages 6–14.
 
-A. 1, 2 and 3
-B. 1 and 2 only
-C. 2 and 3 only
-D. 1 and 3 only
+A. 1 and 2
+B. All 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** All three statements are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Standard Part III article map.
 
@@ -3879,9 +3879,9 @@ D. 1, 2 and 3
 
 **Q26.** Consider the following Assertion and Reason:
 
-Assertion (A): A common High Court for two or more States can be created under Article 231.
+Assertion (A): Creation of a common High Court always requires a constitutional amendment under Article 368.
 
-Reason (R): Creation of a common High Court always requires a constitutional amendment under Article 368.
+Reason (R): A common High Court for two or more States can be created under Article 231.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -3891,9 +3891,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true, but (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** Article 231 needs only an ordinary law, not a 368 amendment.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Article 231 needs only an ordinary law, not a 368 amendment.
 
 </details>
 
@@ -3936,15 +3936,15 @@ D. 2 and 3 only
 2. Second Schedule deals with emoluments.
 3. Third Schedule deals with oaths and affirmations.
 
-A. 1 and 2 only
-B. 1, 2 and 3
-C. 2 and 3 only
-D. 1 and 3 only
+A. 2 and 3
+B. Only 1 and 3
+C. 1, 2 and 3
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** All three statements are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Opening schedule map: territories / emoluments / oaths.
 

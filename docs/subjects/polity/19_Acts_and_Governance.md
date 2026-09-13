@@ -2887,22 +2887,20 @@ E. None of the above
 **Q1.** With reference to the Disaster Management Act, 2005, which of the following statements is/are correct?
 
 1. The National Disaster Management Authority is chaired by the Prime Minister.
-2. The National Executive Committee is chaired by the Union Home Minister.
-3. The District Disaster Management Authority is chaired by the District Magistrate.
+2. The Right to Information Act was enacted in 2005 as a constitutional amendment under Article 368.
+3. The District Disaster Management Authority is chaired by the Chief Minister.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 3
+B. Only 1
+C. Only 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 3 are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** NEC is chaired by the Cabinet Secretary, not the Home Minister. NDMA = PM; DDMA = DM.
+**Logic:** NDMA is chaired by the Prime Minister. NEC is chaired by the Cabinet Secretary, not the Home Minister. DDMA is chaired by the District Magistrate.
 
 </details>
 
@@ -2994,46 +2992,44 @@ D. 1–2–4–3
 </details>
 **Q6.** With reference to the National Food Security Act, 2013, which of the following statements is/are correct?
 
-1. Priority households get 5 kg of grain per person per month at ₹3/₹2/₹1 for rice, wheat and coarse grains.
-2. Antyodaya households get 35 kg per household per month.
-3. “Accountability” is one of the standard FAO-style dimensions of food security under the Act’s teaching frame.
+1. Priority households get 5 kg of foodgrains per person per month under NFSA.
+2. Antyodaya households get 5 kg per person per month under NFSA.
+3. “Accountability” is listed as a food-security dimension under NFSA.
 
-Select the correct answer from the code given below:
-
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. Only 1 and 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Food-security dimensions are availability, access, utilisation/affordability and stability — not “accountability”.
+**Logic:** Priority households get 5 kg per person per month at ₹3/₹2/₹1. Antyodaya households get 35 kg per household per month, not 5 kg per person. Food-security dimensions are not “accountability”.
 
 </details>
+
 **Q7.** With reference to RTE Act, 2009, which of the following statements is/are correct?
 
 1. Private unaided schools must reserve 25% seats under section 12(1)(c).
-2. School Management Committees must have three-fourths parents/guardians.
-3. The Act’s compulsion covers children aged 3–18.
+2. School Management Committees must have under one-fourth parents/guardians.
+3. Good governance reforms abolish the Rule of Law in favour of ordinance rule only.
 
-Select the correct answer from the code given below:
-
-A. 1 and 3 only
-B. 1 and 2 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. 1 and 3
+B. Only 1
+C. Only 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** RTE covers ages 6–14; early childhood sits with the recast Art. 45, not this Act’s compulsion.
+**Logic:** Private unaided schools must reserve 25% seats under section 12(1)(c). SMCs must have three-fourths parents/guardians. RTE covers ages 6–14, not 3–18.
 
 </details>
+
 **Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 Assertion (A): Adi Karmayogi (2025) is a Ministry of Tribal Affairs drive.
@@ -3058,21 +3054,19 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q9.** Which of the following statements about Citizen Charter and Sevottam is/are correct?
 
-1. India’s Action Plan on Citizen Charters is a 1997 DARPG initiative.
-2. A Union Citizen Charter is by itself a justiciable statute creating officer liability nationwide.
+1. A Union Citizen Charter is by itself a justiciable statute creating officer liability nationwide.
+2. India’s Action Plan on Citizen Charters is a 1997 DARPG initiative.
 3. Sevottam (2006) has three modules: Citizen Charter, Grievance Redress and Capability Building.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. Only 1 and 2
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 3 are correct.
+**Ans: A.** 2 and 3 only are correct.
 
 **Logic:** Charter is a promise document; officer-liability tracks are State right-to-service laws (e.g. UP Janhit Guarantee).
 
@@ -3117,20 +3111,18 @@ D. POSH 2013 — child sexual offences under eighteen
 **Q12.** With reference to Digital India and related platforms, which of the following statements is/are correct?
 
 1. Digital India launched on 1 July 2015 under MeitY with nine pillars; e-Kranti is pillar 5.
-2. PRAGATI is one of the nine Digital India pillars.
-3. ICT-based e-governance is expected to cut cost and raise citizen input.
+2. ICT-based e-governance is expected to cut cost and raise citizen input.
+3. PRAGATI is one of the nine Digital India pillars.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 3 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** PRAGATI is a PMO ICT review platform (2015), not a Digital India pillar.
 
@@ -3186,21 +3178,19 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q15.** With reference to the Consumer Protection Act, 2019, which of the following is/are correct?
 
-1. It lists six consumer rights and creates the Central Consumer Protection Authority.
-2. District pecuniary jurisdiction goes up to ₹50 lakh.
-3. World Consumer Rights Day is 24 December.
+1. World Consumer Rights Day is 24 December.
+2. It lists six consumer rights and creates the Central Consumer Protection Authority.
+3. District pecuniary jurisdiction goes up to ₹50 lakh.
 
-Select the correct answer from the code given below:
-
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. All 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: C.** 2 and 3 only are correct.
 
 **Logic:** World Consumer Rights Day is 15 March; National Consumer Day is 24 December.
 
@@ -3211,17 +3201,15 @@ D. 1, 2 and 3
 2. After the 2019 change, the NHRC Chair must be a retired Supreme Court judge.
 3. NHRC recommendations are binding decrees enforceable like High Court orders.
 
-Select the correct answer from the code given below:
-
-A. 1, 2 and 3
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1 and 2 only
+A. All 1, 2 and 3
+B. Only 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** NHRC recommendations remain recommendatory.
 
@@ -3287,11 +3275,11 @@ D. CAA path — notified groups; entry cut-off 31 December 2014
 
 **Q20.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): Under NFSA, the eldest woman aged 18 or above is treated as household head for the ration card.
-
-Reason (R): The Act treats food security as a justiciable Fundamental Right under Part III.
+Assertion (A): The Act treats food security as a justiciable Fundamental Right under Part III.
 
 Select the correct answer from the code given below:
+
+Reason (R): Under NFSA, the eldest woman aged 18 or above is treated as household head for the ration card.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -3301,9 +3289,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true; (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** Woman-head rule (s.13) is correct; NFSA is a statutory entitlement statute, not a Part III Fundamental Right rewrite.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Woman-head rule (s.13) is correct; NFSA is a statutory entitlement statute, not a Part III Fundamental Right rewrite.
 
 </details>
 
@@ -3313,17 +3301,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Anticipatory bail bar under PoA sections 18/18A was restored in 2018.
 3. PoA exclusive special courts were weakened and abolished in 2015.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** 2015 strengthened special courts; statement 3 reverses that.
 
@@ -3331,21 +3317,19 @@ D. 1, 2 and 3
 
 **Q22.** With reference to e-governance modes, which of the following is/are correct?
 
-1. G2C covers citizen-facing services such as UMANG and DigiLocker.
-2. G2G covers intra-government platforms such as e-Office and PFMS.
-3. NeGP (2006) is identical to Digital India and replaced MeitY.
+1. NeGP (2006) is identical to Digital India and replaced MeitY.
+2. G2C covers citizen-facing services such as UMANG and DigiLocker.
+3. G2G covers intra-government platforms such as e-Office and PFMS.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 3
+C. Only 2
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 2 and 3 only are correct.
 
 **Logic:** NeGP grew into Digital India’s e-Kranti pillar; it is not “identical to Digital India / replaced MeitY”.
 
@@ -3353,10 +3337,10 @@ D. 1, 2 and 3
 
 **Q23.** Which of the following statements about lateral entry is/are correct?
 
-1. Lateral entry (from 2018) brings specialists at Joint Secretary level on short contracts.
-2. It replaces the civil services examination stream permanently.
+1. It replaces the civil services examination stream permanently.
 
 Select the correct answer from the code given below:
+2. Lateral entry (from 2018) brings specialists at Joint Secretary level on short contracts.
 
 A. Only 1
 B. Only 2
@@ -3366,7 +3350,7 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 is correct.
+**Ans: B.** Only 2 is correct.
 
 **Logic:** Lateral entry supplements; it does not replace the CSE stream.
 
@@ -3424,20 +3408,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q26.** With reference to Forest Rights Act, 2006, which of the following is/are correct?
 
 1. Recognition starts at the Gram Sabha.
-2. Other Traditional Forest Dwellers face a 75-year occupation test as on 13 December 2005.
-3. The nodal ministry is Environment, Forest and Climate Change alone.
+2. The nodal ministry is Environment, Forest and Climate Change alone.
+3. Other Traditional Forest Dwellers face a 75-year occupation test as on 13 December 2005.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 3
+B. Only 2
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: A.** 1 and 3 only are correct.
 
 **Logic:** Nodal ministry is Tribal Affairs.
 
@@ -3467,15 +3449,15 @@ D. NGT replaces the Environment Protection Act entirely
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Standard RTI timeline and penalty facts from the 2005 Act teaching sheet.
 
@@ -3510,15 +3492,15 @@ D. Neither 1 nor 2
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correctly matched.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Second ARC (Moily, 2005–09) issued 15 reports; 4 / 11 / 12 are the governance tags.
 

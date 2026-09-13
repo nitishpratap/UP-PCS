@@ -4450,26 +4450,26 @@ D. K.M. Munshi
 
 **Q1.** With reference to the Regulating Act of 1773, consider the following statements:
 1. It created the office of Governor-General of Bengal.
-2. It provided for a Supreme Court at Calcutta.
+2. It provided for a Supreme Court at Bombay instead of Calcutta.
 3. It created the office of Governor-General of India.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
+A. Only 2 and 3
+B. Only 1
+C. 1 and 2
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** 1773 created GG of Bengal (Hastings) and SC Calcutta (1774). GG of India comes with Charter 1833.
+**Logic:** 1773 created GG of Bengal (Hastings) and SC at Calcutta (1774). GG of India comes with Charter 1833.
 
 </details>
 
 **Q2.** With reference to Pitt’s India Act, 1784, which of the following statements is/are correct?
 1. The Board of Control handled political affairs.
-2. The Court of Directors handled commercial affairs.
+2. The Court of Directors handled political affairs while the Board of Control handled commercial affairs.
 3. It introduced Dyarchy in the provinces.
 
 A. 2 and 3 only
@@ -4480,9 +4480,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Board = political; Directors = commercial. Provincial Dyarchy is GOI Act 1919.
+**Logic:** Board of Control = political; Court of Directors = commercial. Provincial Dyarchy is GOI Act 1919.
 
 </details>
 
@@ -4583,20 +4583,20 @@ D. 2 and 3 only
 
 **Q7.** With reference to the Government of India Act, 1919, consider the following statements:
 1. It introduced Dyarchy in the provinces.
-2. It created the Chamber of Princes.
+2. It created the Chamber of Princes only under the GOI Act 1935, not in 1919.
 3. It introduced Provincial Autonomy that fully operated.
 
-A. 2 and 3 only
-B. 1 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. 1 and 2
+B. 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** 1919 = provincial Dyarchy + Chamber of Princes. Provincial Autonomy is 1935.
+**Logic:** 1919 introduced provincial Dyarchy and created the Chamber of Princes. Provincial Autonomy is 1935.
 
 </details>
 
@@ -4605,15 +4605,15 @@ D. 1, 2 and 3
 2. The proposed All-India Federation operated fully.
 3. Residuary powers rested with the Viceroy / Governor-General.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. 1 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 3 are correct.
+**Ans: A.** 1 and 3 only are correct.
 
 **Logic:** Autonomy worked; Federation and Centre Dyarchy never operated; residuary lay with the Viceroy/GG.
 
@@ -4663,15 +4663,15 @@ D. 1, 2 and 3
 2. Members were elected by universal adult franchise.
 3. About 15 women were members; Mahatma Gandhi was not a member.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. Only 3
+C. 1 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 3 are correct.
+**Ans: C.** 1 and 3 only are correct.
 
 **Logic:** Election was indirect by provincial assemblies (PR-STV), not universal adult franchise.
 
@@ -4697,15 +4697,15 @@ D. Sardar Patel — Chairman, Advisory Committee
 2. It was enforced on 26 January 1950.
 3. Constitution Day commemorates the enforcement date, not the adoption date.
 
-A. 2 and 3 only
-B. 1 and 3 only
-C. 1, 2 and 3
-D. 1 and 2 only
+A. Only 1 and 2
+B. Only 3
+C. Only 1 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2 are correct.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** Constitution Day (26 Nov) marks adoption, not enforcement (26 Jan).
 
@@ -4752,15 +4752,15 @@ D. A-3, B-1, C-4, D-2
 2. The RBI was created solely by the Government of India Act, 1935.
 3. Maurice Gwyer was the first Chief Justice of the Federal Court.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 2
+B. 2 and 3
+C. Only 1
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 3 are correct.
+**Ans: D.** 1 and 3 only are correct.
 
 **Logic:** RBI was created by the RBI Act, 1934; GOI 1935 only provided for a central bank.
 
@@ -4768,9 +4768,9 @@ D. 1, 2 and 3
 
 **Q16.** Consider the following Assertion and Reason:
 
-Assertion (A): C. Rajagopalachari was the first Indian Governor-General of India.
+Assertion (A): Lord Mountbatten was the first Viceroy of India under the Government of India Act, 1858.
 
-Reason (R): Lord Mountbatten was the first Viceroy of India under the Government of India Act, 1858.
+Reason (R): C. Rajagopalachari was the first Indian Governor-General of India.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -4780,9 +4780,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true, but (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** Rajaji was first Indian GG (1948–50). First Viceroy was Lord Canning, not Mountbatten.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Rajaji was first Indian GG (1948–50). First Viceroy was Lord Canning, not Mountbatten.
 
 </details>
 
@@ -4791,15 +4791,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Rajendra Prasad went as the Congress delegate to the Second RTC.
 3. The Communal Award was announced in 1932.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. Only 3
+C. Only 1 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 3 are correct.
+**Ans: C.** 1 and 3 only are correct.
 
 **Logic:** Gandhi attended 2nd RTC; Rajendra Prasad did not go as Congress delegate; Award year is 1932.
 
@@ -4864,15 +4864,15 @@ D. First Indian member of Viceroy’s Executive Council — S.P. Sinha
 2. B.R. Ambedkar was its Chairman.
 3. B.N. Rau was a member of the Drafting Committee as its Chairman.
 
-A. 2 and 3 only
-B. 1 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. Only 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** B.N. Rau was Constitutional Adviser, not Drafting Committee Chairman.
 
@@ -4883,15 +4883,15 @@ D. 1, 2 and 3
 2. Residuary powers with the Centre follow the Canada pattern.
 3. The Election Commission is an Indian original feature.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. All 1, 2 and 3
+B. 1 and 2
+C. 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Australia concurrent; Canada residuary; Election Commission is treated as Indian originality.
 
@@ -4899,9 +4899,9 @@ D. 1, 2 and 3
 
 **Q23.** Consider the following Assertion and Reason:
 
-Assertion (A): Under the Government of India Act, 1935, Dyarchy at the Centre never operated.
+Assertion (A): Provincial Autonomy under the same Act never operated either.
 
-Reason (R): Provincial Autonomy under the same Act never operated either.
+Reason (R): Under the Government of India Act, 1935, Dyarchy at the Centre never operated.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -4911,9 +4911,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true, but (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** Centre Dyarchy/Federation did not operate; Provincial Autonomy did operate.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Centre Dyarchy/Federation did not operate; Provincial Autonomy did operate.
 
 </details>
 
@@ -4922,15 +4922,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. The Indian Independence Act received assent on 18 July 1947.
 3. The national Flag was adopted on 26 January 1950.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. Only 1 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** National Flag was adopted on 22 July 1947, not on Republic Day 1950.
 
@@ -4941,15 +4941,15 @@ D. 1, 2 and 3
 2. It was adopted on 22 January 1947.
 3. The Assembly first met on 26 November 1949.
 
-A. 1 and 3 only
-B. 1 and 2 only
-C. 2 and 3 only
+A. Only 2 and 3
+B. Only 1
+C. 1 and 2
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** First meeting was 9 December 1946; 26 Nov 1949 is adoption of the Constitution.
 
@@ -5033,15 +5033,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Company’s commercial monopoly ended completely, including tea and China trade.
 3. Revenue administration remained with the Company for a further period.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 3 are correct.
+**Ans: D.** 1 and 3 only are correct.
 
 **Logic:** 1813 ended monopoly except tea and China trade; education grant and continued Company revenue control are correct traps.
 

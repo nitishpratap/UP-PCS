@@ -3421,8 +3421,8 @@ D. Religious causes
 
 **Q1.** With reference to statutory bodies, which of the following statements is/are correct?
 
-1. A statutory body is created by an Act of Parliament or a State legislature.
-2. NITI Aayog is a statutory body created by the NITI Act, 2015.
+1. NITI Aayog is a statutory body created by the NITI Act, 2015.
+2. A statutory body is created by an Act of Parliament or a State legislature.
 
 A. Only 2
 B. Only 1
@@ -3432,7 +3432,7 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 is correct.
+**Ans: A.** Only 2 is correct.
 
 **Logic:** NITI is executive (Cabinet Resolution) — neither constitutional nor statutory.
 
@@ -3444,17 +3444,15 @@ D. Neither 1 nor 2
 2. Term — five years or age 70
 3. Selection Committee includes the Chairman of the Rajya Sabha
 
-Which of the pairs given above is/are correctly matched?
-
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. Only 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** RS Chairman is not on the Lokpal Selection Committee.
 
@@ -3548,40 +3546,40 @@ D. 1-2-4-3
 **Q7.** With reference to the RTI Act, which of the following statements is/are correct?
 
 1. Normal reply time is 30 days; 48 hours where life or liberty is at stake.
-2. PIO penalty can go up to ₹25,000.
+2. PIO penalty can go up to ₹1,00,000 under the RTI Act.
 3. Section 8 lists suo motu disclosure duties; Section 4 lists exemptions.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1, 2 and 3
+B. Only 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: C.** Only 1 is correct.
 
-**Logic:** Section 4 = suo motu disclosure; Section 8 = exemptions — swapped in statement 3.
+**Logic:** Normal RTI reply time is 30 days; 48 hours where life/liberty is at stake. PIO penalty can go up to ₹25,000. Section 4 = suo motu; Section 8 = exemptions.
 
 </details>
 
 **Q8.** Consider the following statements about NHRC:
 
 1. It is statutory under the Protection of Human Rights Act, 1993 — not Article 338.
-2. Complaints are ordinarily within one year.
-3. After 2019, the Chair may be a retired CJI or Supreme Court judge; term is three years or age 70.
+2. Complaints before NHRC may be filed without any time limit.
+3. After 2019, the Chair must be a sitting Chief Justice of a High Court only; term is six years or age 65.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. Only 1
+B. Only 1 and 2
+C. Only 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correct.
+**Ans: A.** Only 1 is correct.
 
-**Logic:** Statutory NHRC ≠ constitutional NCSC.
+**Logic:** NHRC is statutory under the PHRA 1993, not Article 338. Complaints are ordinarily within one year. After 2019, Chair may be a retired CJI or SC judge; term is three years or age 70.
 
 </details>
 
@@ -3591,15 +3589,15 @@ D. 1 and 3 only
 2. Principal Bench is in Delhi; appeal lies to the Supreme Court.
 3. It applies sustainable development, polluter pays, and precautionary principles.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 1, 2 and 3
-D. 2 and 3 only
+A. Only 2 and 3
+B. Only 1
+C. Only 1 and 2
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 2 and 3 are correct.
+**Ans: A.** 2 and 3 only are correct.
 
 **Logic:** WPA is not on the NGT schedule.
 
@@ -3607,9 +3605,9 @@ D. 2 and 3 only
 
 **Q10.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): CAT was created under Article 323A by the Administrative Tribunals Act, 1985.
+Assertion (A): After L. Chandra Kumar, High Court writ power under Article 226 does not survive over tribunal decisions.
 
-Reason (R): After L. Chandra Kumar, High Court writ power under Article 226 does not survive over tribunal decisions.
+Reason (R): CAT was created under Article 323A by the Administrative Tribunals Act, 1985.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -3619,9 +3617,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true, but (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** 226 writ power survives after L. Chandra Kumar.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. 226 writ power survives after L. Chandra Kumar.
 
 </details>
 
@@ -3647,19 +3645,19 @@ D. None
 
 **Q12.** With reference to market regulators, which of the following statements is/are correct?
 
-1. CCI works under the Competition Act, 2002; appeals go to NCLAT.
-2. SEBI became statutory under the SEBI Act, 1992; headquarters Mumbai; appeals to SAT.
-3. RBI issues ₹1 notes and coins as an exclusive RBI function.
+1. RBI issues ₹1 notes and coins as an exclusive RBI function.
+2. CCI works under the Competition Act, 2002; appeals go to NCLAT.
+3. SEBI became statutory under the SEBI Act, 1992; headquarters Mumbai; appeals to SAT.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. Only 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 2 and 3 only are correct.
 
 **Logic:** ₹1 notes and coins are Government of India — classic RBI trap.
 
@@ -3673,15 +3671,15 @@ D. 1, 2 and 3
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. Only 1
+B. Only 1 and 2
+C. Only 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Ownership-versus-regulation split for NHB/HFCs.
 
@@ -3710,18 +3708,18 @@ D. 1 and 3 only
 **Q15.** With reference to CBI and NIA, which of the following statements is/are correct?
 
 1. CBI needs State consent under DSPE section 6 unless a constitutional court orders otherwise.
-2. NIA investigates scheduled offences and does not need State consent in the CBI sense.
-3. CBI was created by the CBI Act, 1963 as a fully statutory police force identical to the CVC model.
+2. CBI was created by the CBI Act, 1963 as a fully statutory police force identical to the CVC model.
+3. NIA investigates scheduled offences and does not need State consent in the CBI sense.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. Only 1 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 1 and 3 only are correct.
 
 **Logic:** CBI rides on MHA resolution + DSPE 1946 — not ‘CVC-style’ standalone statute.
 
@@ -3798,15 +3796,15 @@ D. 2-1-4-3
 2. CVC has superintendence over CBI in Prevention of Corruption cases.
 3. CVC itself is a police force with power of arrest like CBI.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** CVC is a watchdog — not a police force.
 
@@ -3815,18 +3813,18 @@ D. 1, 2 and 3
 **Q20.** Consider the following statements about NITI Aayog:
 
 1. Prime Minister is Chair; first Vice-Chair was Arvind Panagariya.
-2. It is the SDG nodal body.
-3. It allocates the old Planning Commission Plan funds.
+2. It allocates the old Planning Commission Plan funds.
+3. It is the SDG nodal body.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 3
+C. Only 1 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 3 only are correct.
 
 **Logic:** NITI does not allocate old Plan funds.
 
@@ -3838,15 +3836,15 @@ D. 1, 2 and 3
 2. National Commission for Safai Karamcharis — statutory; not Article 338
 3. Jains notified as minorities — 2014
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. 1 and 2
+B. Only 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** AFT / Safai Karamcharis / Jains facts.
 
@@ -3956,15 +3954,15 @@ D. Neither 1 nor 2
 2. State Administrative Tribunal is also abbreviated SAT in service-matter teaching.
 3. Both SATs are the same body under one Act.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1 and 3
+C. Only 1, 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** Homonym trap — securities SAT ≠ State AT.
 

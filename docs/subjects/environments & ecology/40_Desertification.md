@@ -393,21 +393,21 @@ D. Zero rainfall for one hour
 
 **Q1.** With reference to desertification, which of the following statements is/are correct?
 
-1. Land degradation in arid, semi-arid, dry sub-humid (ASDM) drylands.
+1. Desertification means land degradation only in humid equatorial forests.
 2. Not merely “the desert expanding.”
 3. Identical to any bare land in a humid forest belt.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. Only 2
+C. Only 1
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: B.** Only 2 is correct.
 
-**Logic:** ASDM drylands — not humid forest bare land.
+**Logic:** Statement 2 is the teaching point (not merely desert expansion). Statement 1 is false — desertification is ASDM dryland degradation. Statement 3 wrongly equates it with any bare humid-forest land.
 
 </details>
 
@@ -437,21 +437,21 @@ D. A-3, B-1, C-2
 
 **Q3.** Which of the following pairs is/are correctly matched?
 
-1. Drivers — climate variation + overgrazing/deforestation/bad irrigation
+1. Desertification drivers exclude climate variation, overgrazing, deforestation and bad irrigation.
 2. Land degradation — broader; any climate zone
 3. UNCCD identical to UNFCCC
 
-A. 1, 2 and 3
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1 and 2 only
+A. 1 and 2
+B. Only 3
+C. Only 2
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2.
+**Ans: C.** Only 2 is correct.
 
-**Logic:** Different conventions.
+**Logic:** Statement 2 is true (land degradation is broader / any climate zone). Statement 1 denies the standard drivers. Statement 3 is false — UNCCD ≠ UNFCCC.
 
 </details>
 

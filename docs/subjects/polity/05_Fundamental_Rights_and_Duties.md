@@ -6574,7 +6574,7 @@ D. 3 1 4 2
 
 **Q1.** With reference to Fundamental Rights, consider the following statements:
 1. Part III originally had seven groups of Fundamental Rights.
-2. After the 44th Amendment removed the Right to Property, six groups remain.
+2. After the 44th Amendment removed the Right to Property, seven groups of Fundamental Rights still remain.
 3. Part III rights are non-justiciable.
 
 A. 2 and 3 only
@@ -6585,9 +6585,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: C.** Only 1 is correct.
 
-**Logic:** Fundamental Rights are justiciable; property exit via 44th left six groups.
+**Logic:** Part III originally had seven groups; after property exit via 44th, six remain. Fundamental Rights are justiciable.
 
 </details>
 
@@ -6664,7 +6664,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q5.** With reference to Article 19, which of the following statements is/are correct?
 1. It currently guarantees six freedoms to citizens.
-2. The old property freedom under 19(1)(f) was deleted by the 44th Amendment.
+2. The old property freedom under 19(1)(f) was deleted by the 42nd Amendment.
 3. Article 19 freedoms are available to all persons including foreigners.
 
 A. 1 and 2 only
@@ -6675,9 +6675,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** Only 1 is correct.
 
-**Logic:** 19 is citizens-only; property moved to 300A after 44th.
+**Logic:** Article 19 currently guarantees six freedoms to citizens. Property under 19(1)(f) was deleted by the 44th Amendment. Article 19 is citizens-only.
 
 </details>
 
@@ -6702,7 +6702,7 @@ D. 2 – 1 – 3
 
 **Q7.** Consider the following statements about Article 20:
 1. It protects against ex post facto criminal law.
-2. It protects against double jeopardy.
+2. It does not protect against double jeopardy; that protection is only in Article 21.
 3. It alone exhaustively covers torture and privacy questions.
 
 A. 2 and 3 only
@@ -6713,9 +6713,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Torture/privacy are not solved only by Article 20; life/liberty/privacy map sits mainly with 21.
+**Logic:** Article 20 protects against ex post facto criminal law and double jeopardy. Torture/privacy are not solved only by Article 20.
 
 </details>
 
@@ -6818,15 +6818,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. They bind citizens.
 3. Originally ten duties were added by the 42nd Amendment; the eleventh came with the 86th.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. 1 and 2
+B. 2 and 3
+C. 1 and 3
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three statements are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Part IVA / citizens / 10+1 map.
 

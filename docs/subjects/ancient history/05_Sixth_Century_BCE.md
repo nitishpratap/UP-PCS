@@ -1163,26 +1163,24 @@ UPPCS Prelims **2025–2018** GS folder still shows the **2020 capital Match Lis
 
 **Q1.** With reference to the sixth–fourth centuries BCE, which of the following statements is/are correct?
 
-1. Iron, NBPW, punch-marked silver (Aahat) and second urbanisation appear.
+1. Iron, NBPW, punch-marked silver (Aahat) and second urbanisation appear only after Ashoka.
 2. This package is still before the Mauryan empire.
 3. NBPW is identical with Later Vedic PGW.
 
-Select the correct answer from the code given below:
+A. Only 2
 
-A. 1 and 3 only
+B. 1 and 2
 
-B. 2 and 3 only
+C. 2 and 3
 
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 2 are correct.
+**Ans: A.** Only 2 is correct.
 
-**Logic:** Stmt 3 false: PGW = Later Vedic; NBPW = mahajanapada / early historic deluxe black ware.
+**Logic:** Stmt 1 false: This package appears in the mahajanapada / sixth-century BCE world, still before the Mauryan empire. Stmt 3 remains false: NBPW ≠ Later Vedic PGW.
 
 </details>
 
@@ -1220,26 +1218,24 @@ D. 1-B, 2-A, 3-D, 4-C
 
 **Q3.** Consider the following statements about political forms:
 
-1. Four great monarchies were Magadha, Kosala, Vatsa and Avanti.
-2. Vajji was a confederacy with capital Vaishali; papers often call Licchavis the world’s first republic.
-3. Yaudheya belongs to the Buddha-period early-republic list used in standard stems.
+1. Yaudheya belongs to the Buddha-period early-republic list used in standard stems.
+2. Four great monarchies were Magadha, Kosala, Vatsa and Yaudheya.
+3. Vajji was a confederacy with capital Vaishali; papers often call Licchavis the world’s first republic.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 2 and 3 only
+B. 2 and 3
 
-B. 1 and 2 only
+C. Only 3
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Ans: C.** Only 3 is correct.
 
-**Logic:** Stmt 3 false: Yaudheya is a later gana, not in the early Shakya/Licchavi/Malla list.
+**Logic:** Stmt 2 false: Fourth great monarchy is Avanti, not Yaudheya. Stmt 1 remains false: Yaudheya is a later gana, not the early-republic list.
 
 </details>
 
@@ -1302,26 +1298,24 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q6.** With reference to Uttar Pradesh mahajanapadas, which of the following is/are correct?
 
-1. Eight touch UP: Kashi, Kosala, Vatsa, Kuru, Panchala, Malla, Surasena and Chedi.
+1. Eight touch UP: Kashi, Kosala, Vatsa, Kuru, Panchala, Malla, Surasena and Asmaka.
 2. Magadha, Anga and Vajji are Bihar-centred; Avanti is Madhya Pradesh; Matsya is Rajasthan.
 3. Asmaka’s capital Potana lies in the middle Ganga doab of western UP.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 2 and 3 only
+B. Only 2
 
-B. 1 and 2 only
+C. 2 and 3
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Ans: B.** Only 2 is correct.
 
-**Logic:** Stmt 3 false: Asmaka is south of the Vindhyas.
+**Logic:** Stmt 1 false: Eighth UP touch is Chedi, not Asmaka; Asmaka is south of the Vindhyas. Stmt 3 remains false: Asmaka’s Potana is not middle Ganga doab.
 
 </details>
 
@@ -1350,26 +1344,24 @@ D. Kashi — Champa
 
 **Q8.** With reference to Haryanka rulers, which of the following is/are correct?
 
-1. Bimbisara built alliances and took Anga.
-2. Ajatashatru warred on Vajji and used rathamusala.
-3. Jivaka was Ajatashatru’s commander against the Nandas.
+1. Jivaka was Ajatashatru’s commander against the Nandas.
+2. Bimbisara built alliances and took Anga.
+3. Ajatashatru warred on Vajji and used rathamusala as Bimbisara’s physician.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 3 only
+B. 2 and 3
 
-B. 2 and 3 only
+C. 1 and 3
 
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 2 are correct.
+**Ans: D.** Only 2 is correct.
 
-**Logic:** Stmt 3 false: Jivaka was Bimbisara’s physician (also treated Chanda Pradyota).
+**Logic:** Stmt 3 false: Rathamusala is Ajatashatru’s war engine vs Vajji; physician Jivaka is Bimbisara’s (also treated Chanda Pradyota). Stmt 1 remains false: Jivaka was not Ajatashatru’s Nanda-war commander.
 
 </details>
 
@@ -1408,25 +1400,23 @@ D. 1-B, 2-A, 3-C, 4-D
 **Q10.** Consider the following statements about Malla and related sites:
 
 1. Kushinagar and Pava are Malla towns.
-2. Jain Pavapuri (Mahavira’s nirvana) is always identical with Malla Pava in every stem.
-3. Malla held both Kushinagar and Pava.
+2. Malla held both Kushinagar and Pava.
+3. Jain Pavapuri (Mahavira’s nirvana) is always identical with Malla Pava in every stem.
 
-Select the correct answer from the code given below:
+A. Only 2 and 3
 
-A. 1 and 2 only
+B. Only 1
 
-B. 2 and 3 only
+C. 1 and 2
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 3 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
-**Logic:** Stmt 2 false: Jain Pavapuri is a Magadha-site fact, not automatically Malla Pava.
+**Logic:** Stmt 3 false: Jain Pavapuri is a Magadha-site fact, not automatically Malla Pava.
 
 </details>
 
@@ -1462,25 +1452,23 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q12.** Which of the following Buddha-age metros appear in the Mahaparinirvana-sutra list?
 
 1. Champa, Rajagriha, Varanasi
-2. Saketa, Kaushambi, Shravasti
-3. Taxila and Ujjain as the only two names in that sutra list
+2. Taxila and Ujjain as the only two names in that sutra list
+3. Saketa, Kaushambi, Shravasti
 
-Select the correct answer from the code given below:
+A. Only 1 and 3
 
-A. 1 and 3 only
+B. Only 2
 
-B. 2 and 3 only
+C. 2 and 3
 
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 2 together give the six metros.
+**Ans: A.** 1 and 3 only are correct.
 
-**Logic:** Stmt 3 false: six middle-Ganga corridor cities, not Taxila/Ujjain-only.
+**Logic:** Stmt 2 false: six middle-Ganga corridor cities, not Taxila/Ujjain-only.
 
 </details>
 
@@ -1543,18 +1531,18 @@ D. Matsya
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 1
 
-B. 2 and 3 only
+B. 1 and 2
 
-C. 1 and 3 only
+C. Only 1, 2 and 3
 
-D. 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Source diversity is itself a Must-Score fact.
 
@@ -1591,18 +1579,18 @@ D. Udayana — Haryanka king who took Anga
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. 1 and 2
 
-B. 2 and 3 only
+B. 1, 2 and 3
 
-C. 1 and 3 only
+C. Only 2 and 3
 
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Nanda climax precedes Mauryan takeover under Chandragupta.
 
@@ -1645,18 +1633,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 1
 
-B. 2 and 3 only
+B. 1 and 2
 
-C. 1 and 3 only
+C. 1, 2 and 3
 
-D. 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Power ranking shifts before Magadha’s final dominance.
 
@@ -1688,25 +1676,23 @@ D. Son
 **Q21.** Which of the following capital matches is/are correct?
 
 1. Chedi — Suktimati / Sotthivati
-2. Vajji — Vaishali
-3. Kuru — only Potana
+2. Kuru — only Potana
+3. Vajji — Vaishali
 
-Select the correct answer from the code given below:
+A. 2 and 3
 
-A. 1 and 2 only
+B. Only 1
 
-B. 2 and 3 only
+C. 1 and 3
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: C.** 1 and 3 only are correct.
 
-**Logic:** Stmt 3 false: Kuru — Indraprastha / Hastinapur; Potana = Asmaka.
+**Logic:** Stmt 2 false: Kuru — Indraprastha / Hastinapur; Potana = Asmaka.
 
 </details>
 
@@ -1714,26 +1700,24 @@ D. 1, 2 and 3
 
 **Q22.** With reference to Magadha’s rise factors, which of the following is/are correct?
 
-1. River trade, iron and elephants aided Magadha.
-2. Aggressive conquest ran from Anga toward Vajji and finally Avanti.
-3. Second urbanisation centres sat on Harappan Indus grids rather than middle Ganga corridors.
+1. Second urbanisation centres sat on Harappan Indus grids rather than middle Ganga corridors.
+2. River trade, iron and elephants aided Magadha.
+3. Aggressive conquest ran from Anga toward Vajji and finally Avanti.
 
-Select the correct answer from the code given below:
+A. Only 2 and 3
 
-A. 1 and 2 only
+B. Only 1 and 3
 
-B. 2 and 3 only
+C. 1, 2 and 3
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: A.** 2 and 3 only are correct.
 
-**Logic:** Stmt 3 false: second urbanisation = middle Ganga, not Indus grids.
+**Logic:** Stmt 1 false: second urbanisation = middle Ganga, not Indus grids.
 
 </details>
 
@@ -1766,20 +1750,18 @@ D. Potana — Satavahana Paithan capital of Asmaka in standard 16-list keys
 2. After the Nandas comes Mauryan takeover under Chandragupta.
 3. Pottery chronology mixes as NBPW then PGW in Later Vedic times.
 
-Select the correct answer from the code given below:
+A. Only 3
 
-A. 1 and 2 only
+B. Only 1 and 3
 
-B. 2 and 3 only
+C. Only 1
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** Stmt 3 false: PGW then NBPW — mixing them is a frequent trap.
 
@@ -1841,20 +1823,18 @@ D. Only Nanda army figures
 2. Chedi touches the Bundelkhand edge in UP-linked lists.
 3. Chedi’s capital is Viratnagar in Rajasthan.
 
-Select the correct answer from the code given below:
+A. Only 2 and 3
 
-A. 1 and 2 only
+B. Only 1
 
-B. 2 and 3 only
+C. 1 and 2
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Stmt 3 false: Viratnagar = Matsya (Rajasthan).
 
@@ -1870,18 +1850,18 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. 1 and 2
 
-B. 2 and 3 only
+B. Only 1, 2 and 3
 
-C. 1 and 3 only
+C. Only 2 and 3
 
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Bridge house between Haryanka and Nanda.
 
@@ -1892,25 +1872,23 @@ D. 1, 2 and 3
 **Q29.** With reference to Kosala and Kashi, which of the following is/are correct?
 
 1. Kashi capital is Varanasi.
-2. Kosala capitals include Ayodhya / Shravasti (crescent plan at Saheth–Maheth).
-3. Both are Bihar-centred mahajanapadas outside UP lists.
+2. Both are Bihar-centred mahajanapadas outside UP lists.
+3. Kosala capitals include Ayodhya / Shravasti (crescent plan at Saheth–Maheth).
 
-Select the correct answer from the code given below:
+A. Only 2
 
-A. 1 and 2 only
+B. Only 2 and 3
 
-B. 2 and 3 only
+C. Only 1
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: D.** 1 and 3 only are correct.
 
-**Logic:** Stmt 3 false: both are among the eight UP-touching mahajanapadas.
+**Logic:** Stmt 2 false: both are among the eight UP-touching mahajanapadas.
 
 </details>
 

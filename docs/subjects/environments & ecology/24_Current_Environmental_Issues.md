@@ -585,20 +585,20 @@ D. Responsible Consumption
 **Q1.** With reference to microplastics, which of the following statements is/are correct?
 
 1. Plastic fragments smaller than 5 mm.
-2. Primary = microbeads; secondary = fragmentation.
+2. Primary microplastics come only from fragmentation of larger plastics; secondary ones are only factory microbeads.
 3. They are always rapidly biodegradable in hours.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: A.** Only 1 is correct.
 
-**Logic:** Not fast biodegradable.
+**Logic:** Statement 1 is true (<5 mm). Statement 2 swaps primary (microbeads/pellets) and secondary (fragmentation). Statement 3 is false — they are not rapidly biodegradable in hours.
 
 </details>
 
@@ -629,20 +629,20 @@ D. A-3, B-1, C-2
 **Q3.** Which of the following pairs is/are correctly matched?
 
 1. India net zero — 2070 (COP26 Glasgow)
-2. China often — 2060 teaching
+2. China often — 2052 teaching
 3. Green Credit — identical to Kyoto CER always
 
-A. 1, 2 and 3
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1 and 2 only
+A. 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Green Credit ≠ carbon credit.
+**Logic:** Only statement 1 remains true among the numbered claims. Statement 1 is true. Statement 2 is false. Statement 3 is false.
 
 </details>
 
@@ -758,7 +758,7 @@ D. 1, 2 and 3
 
 **Ans: D.** All three.
 
-**Logic:** Market locks.
+**Logic:** Market facts.
 
 </details>
 

@@ -627,20 +627,20 @@ D. None of the above
 **Q1.** With reference to food chain and food web, which of the following statements is/are correct?
 
 1. A food chain is a single linear who-eats-whom sequence.
-2. A food web is a network of interconnected chains and is generally more stable than one chain alone.
+2. A food web is a single linear chain and is generally less stable than one isolated food chain.
 3. Food chains commonly occur entirely within a single species.
 
-A. 2 and 3 only
-B. 1 and 3 only
-C. 1, 2 and 3
-D. 1 and 2 only
+A. 1 and 2
+B. Only 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Ans: D.** Only 1 is correct.
 
-**Logic:** Food chains are not within a single species.
+**Logic:** Statement 1 is true. Statement 2 reverses the food-web definition (network of chains; usually more stable). Statement 3 is false — chains link different species/trophic levels.
 
 </details>
 
@@ -666,21 +666,21 @@ D. 1, 2 and 3
 
 **Q3.** With reference to trophic levels, which of the following statements is/are correct?
 
-1. T1 denotes producers and T2 herbivores.
+1. T1 denotes herbivores and T2 denotes producers.
 2. The Sun is counted as trophic level T1 in standard pyramids.
 3. Energy decreases as one moves to higher trophic levels.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.**
+**Ans: C.** Only 3 is correct.
 
-**Logic:** Sun is energy source — not a trophic level.
+**Logic:** Statement 3 is true (energy declines up the chain). Statement 1 swaps T1/T2. Statement 2 is false — the Sun is the energy source, not trophic level T1; T1 is producers.
 
 </details>
 
@@ -731,20 +731,20 @@ D. A-3, B-1, C-2
 **Q6.** Consider the following statements:
 
 1. Humans are primary as well as secondary consumers.
-2. Decomposers are mainly fungi and bacteria.
+2. Decomposers are mainly green plants and herbivores.
 3. Viruses are the principal decomposers in terrestrial systems.
 
-A. 2 and 3 only
-B. 1 and 3 only
-C. 1, 2 and 3
-D. 1 and 2 only
+A. Only 2
+B. 1 and 3
+C. Only 1
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Ans: C.** Only 1 is correct.
 
-**Logic:** Viruses are not principal decomposers.
+**Logic:** Statement 1 is true (humans as primary/secondary consumers). Statement 2 is false — decomposers are mainly fungi and bacteria. Statement 3 is false — viruses are not principal terrestrial decomposers.
 
 </details>
 
@@ -769,20 +769,20 @@ D. 2-4-3-1
 **Q8.** With reference to biomagnification, which of the following statements is/are correct?
 
 1. Toxin concentration generally rises up the food chain.
-2. For DDT-type stems, apex consumers often show higher concentration than primary consumers.
+2. For DDT-type stems, secondary consumers usually show higher toxin concentration than apex consumers.
 3. Biomagnification means energy increases at each trophic level.
 
-A. 2 and 3 only
-B. 1 and 3 only
-C. 1, 2 and 3
-D. 1 and 2 only
+A. 1 and 3
+B. Only 2
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Ans: D.** Only 1 is correct.
 
-**Logic:** Energy decreases upward — statement 3 is false.
+**Logic:** Statement 1 is true (concentration rises up the chain). Statement 2 reverses biomagnification (apex > secondary for DDT-type toxins). Statement 3 confuses toxins with energy flow.
 
 </details>
 
@@ -1042,7 +1042,7 @@ D. None
 
 **Ans: C.**
 
-**Logic:** All three are standard locks.
+**Logic:** All three are standard facts.
 
 </details>
 

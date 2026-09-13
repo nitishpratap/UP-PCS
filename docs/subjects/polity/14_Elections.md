@@ -1981,21 +1981,19 @@ D. Neither 1 nor 2
 
 **Q2.** Consider the following pairs:
 
-1. RPA 1950 — rolls, seats, delimitation machinery
-2. RPA 1951 — conduct, corrupt practices, petitions
-3. Article 327 — State election law free of Parliament
+1. Article 327 — State election law free of Parliament
+2. RPA 1950 — rolls, seats, delimitation machinery
+3. RPA 1951 — conduct, corrupt practices, petitions
 
-Which of the pairs given above is/are correctly matched?
-
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: D.** 2 and 3 only are correct.
 
 **Logic:** 327 = Parliament’s election law; 328 = State law subject to Parliament.
 
@@ -2023,9 +2021,9 @@ D. 1 only
 
 **Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): A person in prison under a sentence of imprisonment generally cannot vote under RPA section 62(5).
+Assertion (A): A person in preventive detention is treated identically and can never vote.
 
-Reason (R): A person in preventive detention is treated identically and can never vote.
+Reason (R): A person in prison under a sentence of imprisonment generally cannot vote under RPA section 62(5).
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -2035,9 +2033,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true, but (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** Preventive detention is not collapsed into sentenced imprisonment for voting.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Preventive detention is not collapsed into sentenced imprisonment for voting.
 
 </details>
 
@@ -2108,48 +2106,48 @@ D. Neither 1 nor 2
 **Q8.** Consider the following statements about delimitation:
 
 1. Delimitation Commission is a statutory body separate from the Election Commission.
-2. 42nd Amendment froze Lok Sabha seat allocation on the 1971 census until 2000; 84th extended freeze until after 2026 census.
-3. 87th Amendment allowed redrawing on 2001 census without changing State-wise Lok Sabha totals.
+2. 42nd Amendment froze Lok Sabha seat allocation on the 2011 census until 2050.
+3. 87th Amendment changed State-wise Lok Sabha totals using the 2011 census.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. All 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** Freeze + redraw-without-totals facts.
+**Logic:** Delimitation Commission is a statutory body separate from the EC. 42nd froze on 1971 until 2000; 84th extended until after 2026 census. 87th allowed redrawing on 2001 without changing State-wise totals.
 
 </details>
 
 **Q9.** With reference to reservation and nomination, which of the following is/are correct?
 
 1. Articles 330/332 reserve constituencies for SC/ST; all voters vote; only SC/ST candidates contest.
-2. 104th Amendment ended Anglo-Indian nomination and extended SC/ST reservation to 25 January 2030.
+2. 104th Amendment ended Anglo-Indian nomination and shortened SC/ST reservation to 2020 only.
 3. 106th Amendment’s one-third women reservation is already in force for the next Lok Sabha without delimitation.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** 106th waits for the next delimitation — not yet on the ground.
+**Logic:** Articles 330/332 reserve SC/ST seats with all voters voting. 104th ended Anglo-Indian nomination and extended SC/ST reservation to 25 January 2030. 106th women reservation waits for the next delimitation.
 
 </details>
 
 **Q10.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): The Model Code of Conduct is an Election Commission convention, not a statute.
+Assertion (A): The 48-hour silence period has no statutory backing under the RPA.
 
-Reason (R): The 48-hour silence period has no statutory backing under the RPA.
+Reason (R): The Model Code of Conduct is an Election Commission convention, not a statute.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -2159,9 +2157,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true, but (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** 48-hour silence is also statutory under RPA section 126.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. 48-hour silence is also statutory under RPA section 126.
 
 </details>
 
@@ -2188,18 +2186,18 @@ D. All three
 **Q12.** With reference to anti-defection, which of the following statements is/are correct?
 
 1. Tenth Schedule was inserted by the 52nd Amendment (1985).
-2. 91st Amendment removed the one-third split escape and kept merger only at two-thirds.
-3. Speaker’s decision is final with no possibility of judicial review after Kihoto Hollohan.
+2. Speaker’s decision is final with no possibility of judicial review after Kihoto Hollohan.
+3. 91st Amendment removed the one-third split escape and kept merger only at two-thirds.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. 1 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 1 and 3 only are correct.
 
 **Logic:** Kihoto allows limited judicial review.
 
@@ -2213,15 +2211,15 @@ D. 1, 2 and 3
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Registration ≠ recognition; star-campaigner numbers.
 
@@ -2253,15 +2251,15 @@ D. 1 only
 2. VVPAT first used at Noksen (Nagaland) on 4 September 2013; nationwide by 2019.
 3. Supreme Court required verification of five VVPAT slips per Assembly constituency.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. All 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** BEL/ECIL + Noksen + five-slip verification.
 
@@ -2353,8 +2351,8 @@ D. Neither 1 nor 2
 
 **Q20.** Consider the following statements about simultaneous elections:
 
-1. India ran simultaneous elections from 1951–67.
-2. The Kovind panel (2023–24) studied a return; it is already law amending Articles 83, 85, 172, and 174.
+1. The Kovind panel (2023–24) studied a return; it is already law amending Articles 83, 85, 172, and 174.
+2. India ran simultaneous elections from 1951–67.
 
 A. Only 1
 B. Only 2
@@ -2364,7 +2362,7 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 is correct.
+**Ans: B.** Only 2 is correct.
 
 **Logic:** Kovind panel study is not yet law.
 
@@ -2376,15 +2374,15 @@ D. Neither 1 nor 2
 2. Lok Sabha elected strength — 543
 3. Anglo-Indian nomination under 331 — ended with 104th Amendment
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. Only 1 and 3
+B. 1, 2 and 3
+C. 1 and 2
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** 1961 / 543 / 104th facts.
 
@@ -2494,15 +2492,15 @@ D. Neither 1 nor 2
 2. Rajya Sabha uses PR-STV.
 3. Legislative Councils also use PR-STV.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. Only 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** FPTP vs PR-STV map.
 
@@ -2553,15 +2551,15 @@ D. Neither 1 nor 2
 2. VVPAT nationwide — by 2019
 3. NOTA — PUCL 2013
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. All 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Delimitation Acts + VVPAT + NOTA.
 

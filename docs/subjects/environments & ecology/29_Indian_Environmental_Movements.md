@@ -455,21 +455,21 @@ D. Silent Valley Movement — Tamil Nadu
 
 **Q1.** With reference to Bishnoi, which of the following statements is/are correct?
 
-1. Khejarli, Rajasthan, 1730.
+1. Khejarli, Kerala, 1730.
 2. Amrita Devi and 363 martyrs memory.
 3. It began at Reni, Uttarakhand in 1973.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 3
+C. Only 2
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: C.** Only 2 is correct.
 
-**Logic:** Reni 1973 = Chipko.
+**Logic:** Only statement 2 remains true among the numbered claims. Statement 1 is false. Statement 2 is true. Statement 3 is false.
 
 </details>
 
@@ -500,20 +500,20 @@ D. A-3, B-1, C-2
 **Q3.** Which of the following pairs is/are correctly matched?
 
 1. Silent Valley — Kerala Palakkad rainforest–dam
-2. Narmada Bachao — MP, Gujarat, Maharashtra
+2. Narmada Bachao Andolan has no base in Madhya Pradesh, Gujarat or Maharashtra.
 3. Appiko — Uttarakhand only
 
-A. 1, 2 and 3
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1 and 2 only
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2.
+**Ans: A.** Only 1 is correct.
 
-**Logic:** Appiko = Karnataka.
+**Logic:** Statement 1 is true. Statement 2 is false — Narmada Bachao spans Madhya Pradesh, Gujarat and Maharashtra. Statement 3 is false — Appiko is Karnataka (Western Ghats), not Uttarakhand-only.
 
 </details>
 
@@ -729,7 +729,7 @@ D. Kerala rainforest opposed hydro project; KSSP/scientists central
 
 </details>
 
-**Q15.** How many of the following leader locks are correct?
+**Q15.** How many of the following leader facts are correct?
 
 Gaura Devi–Chipko; Hegde–Appiko; Patkar–Narmada
 

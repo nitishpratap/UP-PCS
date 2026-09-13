@@ -1522,26 +1522,24 @@ D. Bhagavata Purana
 
 **Q1.** With reference to the end of the Mauryan empire, which of the following statements is/are correct?
 
-1. Pushyamitra Shunga killed the last Mauryan Brihadratha in 185 BCE.
-2. The Kanva house followed the Shungas about 73–28 BCE.
-3. Pushyamitra’s two ashwamedhas are recorded in the Besnagar Garuda pillar.
+1. Pushyamitra’s two ashwamedhas are recorded in the Besnagar Garuda pillar.
+2. Pushyamitra Shunga killed the last Mauryan Brihadratha in 78 CE.
+3. The Kanva house followed the Shungas about 73–28 BCE.
 
-Select the correct answer from the code given below:
+A. Only 3
 
-A. 2 and 3 only
+B. 1 and 2
 
-B. 1 and 2 only
+C. 2 and 3
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Ans: A.** Only 3 is correct.
 
-**Logic:** Stmt 3 is false: Ayodhya inscription of Dhanadeva records the ashwamedhas; Besnagar is Heliodorus.
+**Logic:** Stmt 2 false: Pushyamitra’s coup is pegged to 185 BCE, not 78 CE (Shaka-era trap). Stmt 1 remains false: ashwamedhas = Ayodhya/Dhanadeva, not Besnagar.
 
 </details>
 
@@ -1633,26 +1631,24 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q5.** With reference to the Satavahanas, which of the following statements is/are correct?
 
-1. Tradition names Simuka as founder; capitals include Pratishthana and Amaravati.
-2. Gautamiputra Satakarni defeated Shaka Nahapana of the Kshaharata house.
-3. Satavahanas issued large imperial gold as their main coinage.
+1. Tradition names Simuka as founder; capitals include Pratishthana and Pataliputra.
+2. Satavahanas issued large imperial gold as their main coinage.
+3. Gautamiputra Satakarni defeated Shaka Nahapana of the Kshaharata house.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 3 only
+B. Only 3
 
-B. 1 and 2 only
+C. 2 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Ans: B.** Only 3 is correct.
 
-**Logic:** Stmt 3 false: Satavahanas use punch-marked, lead, copper, silver, potin — not gold.
+**Logic:** Stmt 1 false: Capitals include Pratishthana and Amaravati — not Pataliputra. Stmt 2 remains false: Satavahanas did not issue large imperial gold as main coinage.
 
 </details>
 
@@ -1683,26 +1679,24 @@ D. Kanishka — Fourth Buddhist Council at Kundalvana; Devaputra
 
 **Q7.** With reference to Kushan chronology and culture, which of the following statements is/are correct?
 
-1. Keys peg Kanishka’s accession to 78 CE, the start of the Shaka era.
-2. Vikrama Samvat begins in 57 BCE and differs from the Shaka era by 135 years.
-3. Patanjali of the Mahabhashya belongs to Kanishka’s court.
+1. Patanjali of the Mahabhashya belongs to Kanishka’s court.
+2. Keys peg Kanishka’s accession to 57 BCE, the start of the Vikrama Samvat.
+3. Vikrama Samvat begins in 57 BCE and differs from the Shaka era by 135 years.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 3 only
+B. 2 and 3
 
-B. 2 and 3 only
+C. Only 3
 
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 2 are correct.
+**Ans: C.** Only 3 is correct.
 
-**Logic:** Stmt 3 false: Patanjali is Shunga-age, not Kanishka’s court (Ashvaghosha is).
+**Logic:** Stmt 2 false: Kanishka’s accession is pegged to 78 CE (Shaka era); Vikrama Samvat is 57 BCE. Stmt 1 remains false: Patanjali is Shunga-age, not Kanishka’s court.
 
 </details>
 
@@ -1745,18 +1739,18 @@ D. 1-B, 2-A, 3-C
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 1, 2 and 3
 
-B. 2 and 3 only
+B. Only 1 and 2
 
-C. 1 and 3 only
+C. Only 2 and 3
 
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** All three are Must-Score northwest facts.
 
@@ -1793,26 +1787,24 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q11.** With reference to Sangam ports and trade, which of the following statements is/are correct?
 
-1. Muziris is the Chera / Roman pepper port; Puhar is Chola; Korkai is Pandya pearl coast.
-2. Arikamedu (Periplus Poduke) yields Roman amphorae.
-3. Pallava and Kadamba are named among the great Sangam ruling houses in that corpus.
+1. Muziris is the Chola port; Puhar is Chera; Korkai is Pandya pearl coast.
+2. Pallava and Kadamba are named among the great Sangam ruling houses in that corpus.
+3. Arikamedu (Periplus Poduke) yields Roman amphorae.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 2 only
+B. 2 and 3
 
-B. 1 and 3 only
+C. 1 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: D.** Only 3 is correct.
 
-**Logic:** Stmt 3 false: Sangam names Chera, Chola, Pandya only among great houses.
+**Logic:** Stmt 1 false: Muziris = Chera/Roman pepper; Puhar = Chola; Korkai = Pandya. Stmt 2 remains false: Pallava/Kadamba are not Sangam great houses.
 
 </details>
 
@@ -1824,20 +1816,18 @@ D. 1, 2 and 3
 2. Mathura art uses red sandstone; Gandhara often uses green schist.
 3. Vima Kadphises mainly issued copper while Kujula flooded India with imperial gold.
 
-Select the correct answer from the code given below:
+A. Only 1 and 3
 
-A. 1 and 3 only
+B. Only 1
 
-B. 1 and 2 only
+C. Only 1 and 2
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Stmt 3 reversed: Kujula mainly copper; Vima issues large-scale gold.
 
@@ -1901,20 +1891,18 @@ D. Rajaraja I — Chola
 2. Ashvaghosha (Buddhacharita, Saundarananda) belongs to Kanishka’s circle.
 3. Tolkappiyam is the earliest Tamil grammar; Akam is war poetry and Puram is love poetry.
 
-Select the correct answer from the code given below:
+A. 1, 2 and 3
 
-A. 1 and 3 only
+B. 2 and 3
 
-B. 2 and 3 only
+C. Only 1
 
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 2 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** Stmt 3 swaps Akam (love) and Puram (war/kingship).
 
@@ -1955,20 +1943,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Classic sites include Brahmagiri, Adichanallur, and Maski.
 3. Post-Satavahana Ikshvakus of Nagarjunakonda are the same as the mythic Ayodhya Ikshvaku line.
 
-Select the correct answer from the code given below:
+A. Only 1
 
-A. 1 and 2 only
+B. Only 1 and 2
 
-B. 1 and 3 only
+C. 1, 2 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Stmt 3 false: coastal Andhra Ikshvakus ≠ mythic Ayodhya line.
 
@@ -1979,25 +1965,23 @@ D. 1, 2 and 3
 **Q18.** With reference to Ashoka’s neighbours and Sangam geography, which of the following statements is/are correct?
 
 1. Rock Edict II names Chola, Pandya, Keralaputra, and Satiyaputra as independent neighbours.
-2. Pandya heartland lies south of the Kaveri around Madurai on the Vaigai.
-3. Vaigai (Pandya) must be read as the same place as Eastern Chalukya Vengi.
+2. Vaigai (Pandya) must be read as the same place as Eastern Chalukya Vengi.
+3. Pandya heartland lies south of the Kaveri around Madurai on the Vaigai.
 
-Select the correct answer from the code given below:
+A. Only 1, 2 and 3
 
-A. 1 and 3 only
+B. Only 1 and 2
 
-B. 1 and 2 only
+C. 2 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Ans: D.** 1 and 3 only are correct.
 
-**Logic:** Stmt 3 false: Vaigai ≠ Vengi (Pedavegi near Eluru).
+**Logic:** Stmt 2 false: Vaigai ≠ Vengi (Pedavegi near Eluru).
 
 </details>
 
@@ -2039,20 +2023,18 @@ D. 1-C, 2-A, 3-B, 4-D
 2. Rabatak lists Saketa, Kaushambi, Pataliputra, and Champa — not Shravasti.
 3. Kushans had a strong naval-force tradition matching the Periplus pepper fleets.
 
-Select the correct answer from the code given below:
+A. Only 3
 
-A. 1 and 3 only
+B. 1 and 3
 
-B. 2 and 3 only
+C. Only 1
 
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 2 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** Stmt 3 false: trade via Gulf/Red Sea evidence, but no strong naval-force tradition.
 
@@ -2090,25 +2072,23 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q22.** With reference to Sangam literature and titles, which of the following statements is/are correct?
 
 1. Tirukkural by Tiruvalluvar is called Laghuveda / Bible of Tamil ethics.
-2. Vattakirutal is the defeated king’s ritual suicide by fasting unto death.
-3. Sanskrit Yavanapriya means wine imported in amphorae.
+2. Sanskrit Yavanapriya means wine imported in amphorae.
+3. Vattakirutal is the defeated king’s ritual suicide by fasting unto death.
 
-Select the correct answer from the code given below:
+A. Only 3
 
-A. 1 and 2 only
+B. Only 1 and 3
 
-B. 1 and 3 only
+C. Only 1
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: B.** 1 and 3 only are correct.
 
-**Logic:** Stmt 3 false: Yavanapriya means pepper.
+**Logic:** Stmt 2 false: Yavanapriya means pepper.
 
 </details>
 
@@ -2122,18 +2102,18 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 1
 
-B. 2 and 3 only
+B. 1 and 2
 
-C. 1 and 3 only
+C. All 1, 2 and 3
 
-D. 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** All three are Must-Score Shunga facts.
 
@@ -2172,11 +2152,11 @@ D. Arikamedu — Ganga-mouth Bay port Tamralipti
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. 2 and 3
 
-B. 2 and 3 only
+B. Only 1
 
-C. 1 and 3 only
+C. 1 and 2
 
 D. 1, 2 and 3
 
@@ -2247,26 +2227,24 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q28.** With reference to Kushan court scholars, which of the following statements is/are correct?
 
-1. Ashvaghosha, Vasumitra, Nagarjuna, Parsva, and physician Charaka adorn Kanishka’s court tradition.
-2. The Fourth Buddhist Council was convened in Kashmir at Kundalvana with Vasumitra as president.
-3. Child marriage custom is often dated from the Mauryan age, not the Kushan age.
+1. Child marriage custom is often dated from the Mauryan age, not the Kushan age.
+2. Ashvaghosha, Vasumitra, Nagarjuna, Parsva, and physician Charaka adorn Kanishka’s court tradition.
+3. The Fourth Buddhist Council was convened in Kashmir at Kundalvana with Vasumitra as president.
 
-Select the correct answer from the code given below:
+A. Only 1
 
-A. 1 and 3 only
+B. 1 and 2
 
-B. 1 and 2 only
+C. Only 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Ans: D.** 2 and 3 only are correct.
 
-**Logic:** Stmt 3 false: child marriage custom is often dated from the Kushan age.
+**Logic:** Stmt 1 false: child marriage custom is often dated from the Kushan age.
 
 </details>
 
@@ -2295,26 +2273,24 @@ D. Sattanar
 
 **Q30.** Consider the following statements:
 
-1. Matsya Purana gives the longest Andhra / Satavahana king list (~30 kings).
-2. Strato II issued lead coins among Indo-Greek issues.
-3. Udiyanjiral belongs to the Pandya line as the first historical Pandya of Sangam age.
+1. Udiyanjiral belongs to the Pandya line as the first historical Pandya of Sangam age.
+2. Matsya Purana gives the longest Andhra / Satavahana king list (~30 kings).
+3. Strato II issued lead coins among Indo-Greek issues.
 
-Select the correct answer from the code given below:
+A. Only 2
 
-A. 1 and 2 only
+B. 2 and 3
 
-B. 1 and 3 only
+C. Only 1
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: B.** 2 and 3 only are correct.
 
-**Logic:** Stmt 3 false: Udiyanjiral belongs to the Chera line.
+**Logic:** Stmt 1 false: Udiyanjiral belongs to the Chera line.
 
 </details>
 

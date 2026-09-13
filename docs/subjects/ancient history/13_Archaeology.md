@@ -534,18 +534,18 @@ No further GS-I archaeology hit after keyword search.
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 1
 
-B. 2 and 3 only
+B. Only 1 and 2
 
-C. 1 and 3 only
+C. All 1, 2 and 3
 
-D. 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** ASI HQ vs Lucknow trap.
 
@@ -663,26 +663,24 @@ D. V.S. Wakankar — Lothal dockyard
 
 **Q6.** With reference to dating methods, which of the following statements is/are correct?
 
-1. Carbon-14 half-life is about 5730 years; it works on charcoal, bone, wood, seed, shell.
+1. Carbon-14 half-life is about 5730 years; it works only on fired pottery, not charcoal or bone.
 2. Thermoluminescence (TL) can date fired pottery.
 3. Stratigraphy alone can give the calendar year 2600 BCE.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 3 only
+B. Only 2
 
-B. 1 and 2 only
+C. 2 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Ans: B.** Only 2 is correct.
 
-**Logic:** Stmt 3 false: relative dating cannot alone give calendar years.
+**Logic:** Stmt 1 false: C-14 works on charcoal, bone, wood, seed, shell; fired pottery dating is TL’s job. Stmt 3 remains false: stratigraphy alone cannot give calendar years.
 
 </details>
 
@@ -691,25 +689,23 @@ D. 1, 2 and 3
 **Q7.** Consider the following statements about Uttar Pradesh Harappan sites:
 
 1. Alamgirpur (Meerut, Hindon) is the easternmost Harappan site in India.
-2. Hulas (Baghpat) and Mandi (Bijnor, Ramganga) complete the UP trio.
-3. Rakhigarhi is the easternmost UP Harappan site.
+2. Rakhigarhi is the easternmost UP Harappan site.
+3. Hulas (Saharanpur) and Mandi (Lucknow) complete the UP trio as westernmost Harappan sites.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 2 and 3 only
+B. 2 and 3
 
-B. 1 and 3 only
+C. Only 1
 
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 2 are correct.
+**Ans: C.** Only 1 is correct.
 
-**Logic:** Stmt 3 false: Rakhigarhi is largest mound in Haryana, not UP eastern edge.
+**Logic:** Stmt 3 false: Hulas (Baghpat) and Mandi (Bijnor, Ramganga) complete the UP eastern Harappan trio with Alamgirpur — not westernmost. Stmt 2 remains false: Rakhigarhi is Haryana’s largest mound.
 
 </details>
 
@@ -775,25 +771,23 @@ D. 1-D, 2-C, 3-A, 4-B
 **Q10.** With reference to Harappan site–state facts, which of the following statements is/are correct?
 
 1. Balu — Haryana; Manda — Jammu & Kashmir; Padri — Gujarat; Hulas — Uttar Pradesh.
-2. Boat models come from Mohenjo-daro and Lothal.
+2. Boat models come only from Mehrgarh and never from Mohenjo-daro or Lothal.
 3. Mehrgarh (Balochistan) is a safe Indian-state match option for UPPCS site lists.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 2 and 3 only
+B. 2 and 3
 
-B. 1 and 3 only
+C. 1 and 3
 
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 2 are correct.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** Stmt 3 false: Mehrgarh is not an Indian-state match option.
+**Logic:** Stmt 2 false: Boat models come from Mohenjo-daro and Lothal. Stmt 3 remains false: Mehrgarh is not a safe Indian-state match option.
 
 </details>
 
@@ -801,26 +795,24 @@ D. 1, 2 and 3
 
 **Q11.** Consider the following statements about Sanauli and Bhimbetka:
 
-1. Sanauli (Baghpat, UP), excavated in 2018, yielded copper chariots, coffins, and antenna swords.
-2. V.S. Wakankar established Bhimbetka rock-art prehistory in 1957–58.
-3. Bhimbetka is in Uttar Pradesh.
+1. Bhimbetka is in Uttar Pradesh.
+2. Sanauli (Baghpat, UP), excavated in 2018, yielded copper chariots, coffins, and antenna swords.
+3. V.S. Wakankar established Bhimbetka rock-art prehistory in 1957–58.
 
-Select the correct answer from the code given below:
+A. All 1, 2 and 3
 
-A. 1 and 3 only
+B. 2 and 3
 
-B. 1 and 2 only
+C. Only 1
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Ans: B.** 2 and 3 only are correct.
 
-**Logic:** Stmt 3 false: Bhimbetka is in Madhya Pradesh.
+**Logic:** Stmt 1 false: Bhimbetka is in Madhya Pradesh.
 
 </details>
 
@@ -912,11 +904,11 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. 2 and 3
 
-B. 2 and 3 only
+B. Only 1
 
-C. 1 and 3 only
+C. 1 and 2
 
 D. 1, 2 and 3
 
@@ -963,26 +955,24 @@ D. 1-D, 2-A, 3-C, 4-B
 
 **Q17.** Which of the following statements about post-1947 IVC trenches is/are correct?
 
-1. After 1947 the giant IVC cities Harappa and Mohenjo-daro lie in Pakistan.
-2. Indian trenches shift to Gujarat, Haryana, Rajasthan, Punjab, and Uttar Pradesh.
-3. Cunningham discovered the Indus civilization using Chinese pilgrim routes alone.
+1. Cunningham discovered the Indus civilization using Chinese pilgrim routes alone.
+2. After 1947 the giant IVC cities Harappa and Mohenjo-daro lie in Pakistan.
+3. Indian trenches shift to Gujarat, Haryana, Rajasthan, Punjab, and Uttar Pradesh.
 
-Select the correct answer from the code given below:
+A. Only 1
 
-A. 1 and 2 only
+B. Only 1 and 2
 
-B. 1 and 3 only
+C. Only 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: D.** 2 and 3 only are correct.
 
-**Logic:** Stmt 3 false: Cunningham founded Survey and hunted Buddhist sites; Marshall announced IVC.
+**Logic:** Stmt 1 false: Cunningham founded Survey and hunted Buddhist sites; Marshall announced IVC.
 
 </details>
 
@@ -996,18 +986,18 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. 1, 2 and 3
 
-B. 2 and 3 only
+B. 2 and 3
 
-C. 1 and 3 only
+C. Only 1
 
-D. 1, 2 and 3
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** UP trench Must-Score set.
 
@@ -1096,25 +1086,23 @@ D. 2–1–4–3
 **Q22.** Consider the following statements:
 
 1. Typology sits beside stratigraphy as another relative clock.
-2. Papers ask present state / UT for site matching, not the excavator’s birthplace.
-3. Wheeler announced the Indus civilization in 1924.
+2. Wheeler announced the Indus civilization in 1924.
+3. Papers ask present state / UT for site matching, not the excavator’s birthplace.
 
-Select the correct answer from the code given below:
+A. Only 3
 
-A. 1 and 2 only
+B. Only 1 and 3
 
-B. 1 and 3 only
+C. Only 1
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: B.** 1 and 3 only are correct.
 
-**Logic:** Stmt 3 false: Marshall announced IVC 1924; Wheeler re-dug later.
+**Logic:** Stmt 2 false: Marshall announced IVC 1924; Wheeler re-dug later.
 
 </details>
 
@@ -1177,20 +1165,18 @@ D. Mortimer Wheeler
 2. Absolute dating answers calendar years.
 3. A balk is the deepest occupation floor in a trench.
 
-Select the correct answer from the code given below:
+A. Only 3
 
-A. 1 and 2 only
+B. 2 and 3
 
-B. 1 and 3 only
+C. Only 1
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** Stmt 3 false: balk is the uncut wall left so layers can still be read.
 
@@ -1227,26 +1213,24 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q27.** Which of the following statements is/are correct?
 
-1. Hulas also appears with Alamgirpur in older UP pairs.
-2. After Partition, Indian IVC work intensifies in Gujarat–Haryana–Rajasthan–Punjab–UP.
-3. Bhimbetka is best described as a hollow limestone cave system like Ajanta.
+1. Bhimbetka is best described as a hollow limestone cave system like Ajanta.
+2. Hulas also appears with Alamgirpur in older UP pairs.
+3. After Partition, Indian IVC work intensifies in Gujarat–Haryana–Rajasthan–Punjab–UP.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 2 only
+B. 1, 2 and 3
 
-B. 1 and 3 only
+C. Only 2 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: C.** 2 and 3 only are correct.
 
-**Logic:** Stmt 3 false: Bhimbetka is an overhang rock-shelter complex.
+**Logic:** Stmt 1 false: Bhimbetka is an overhang rock-shelter complex.
 
 </details>
 
@@ -1278,25 +1262,23 @@ D. Wheeler — discovered IVC in 1921
 **Q29.** Consider the following statements about Willard Libby’s path:
 
 1. Carbon-14 is absolute dating on Libby’s path.
-2. Half-life is about 5730 years.
-3. It can date bare metal tools without organic carbon.
+2. It can date bare metal tools without organic carbon.
+3. Half-life is about 5730 years.
 
-Select the correct answer from the code given below:
+A. Only 2 and 3
 
-A. 1 and 2 only
+B. Only 1
 
-B. 1 and 3 only
+C. 1 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: C.** 1 and 3 only are correct.
 
-**Logic:** Stmt 3 false: organic samples only.
+**Logic:** Stmt 2 false: organic samples only.
 
 </details>
 
@@ -1308,20 +1290,18 @@ D. 1, 2 and 3
 2. B.B. Lal excavated Kalibangan; R.S. Bisht excavated Dholavira.
 3. Daya Ram Sahni opened Mohenjo-daro in 1922.
 
-Select the correct answer from the code given below:
+A. 2 and 3
 
-A. 1 and 2 only
+B. Only 1
 
-B. 1 and 3 only
+C. Only 1 and 2
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Stmt 3 false: Sahni opened Harappa 1921; Banerjee opened Mohenjo-daro 1922.
 

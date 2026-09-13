@@ -528,40 +528,40 @@ D. Sacred grove
 **Q1.** With reference to in-situ conservation, which of the following statements is/are correct?
 
 1. Protects biodiversity in the natural habitat.
-2. Preferred primary strategy.
+2. Preferred secondary strategy.
 3. Zoo is the best example of in-situ.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 3
+B. Only 2
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** Zoo is ex-situ.
+**Logic:** Only statement 1 remains true among the numbered claims. Statement 1 is true. Statement 2 is false. Statement 3 is false.
 
 </details>
 
 **Q2.** Which of the following pairs is/are correctly matched?
 
 1. National Park — in-situ
-2. Sacred grove — in-situ
+2. Sacred grove — ex-situ
 3. Seed bank — in-situ
 
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. 1 and 3
+B. Only 2
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** Seed bank is ex-situ.
+**Logic:** Only statement 1 remains true among the numbered claims. Statement 1 is true. Statement 2 is false. Statement 3 is false.
 
 </details>
 
@@ -612,20 +612,20 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q5.** With reference to Indian flagships, which of the following statements is/are correct?
 
 1. NBPGR — plant gene/seed flagship, New Delhi.
-2. NBAGR — animal gene bank, Karnal.
+2. NBAGR is a plant gene bank at Kolkata, not an animal gene bank at Karnal.
 3. NBPGR HQ is Kolkata BSI campus only.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** NBPGR Delhi — not Kolkata BSI.
+**Logic:** Statement 1 is true (NBPGR New Delhi plant gene/seed). Statement 2 is false — NBAGR is the animal gene bank at Karnal. Statement 3 is false — NBPGR HQ is not the Kolkata BSI campus.
 
 </details>
 
@@ -741,7 +741,7 @@ D. Both 100°C
 
 **Ans: B.** Orthodox ~−18°C; cryo ~−196°C.
 
-**Logic:** Temperature locks.
+**Logic:** Temperature facts.
 
 </details>
 

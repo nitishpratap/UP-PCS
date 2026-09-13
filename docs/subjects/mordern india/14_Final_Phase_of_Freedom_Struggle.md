@@ -1257,26 +1257,24 @@ D. 16 November, 1946
 
 **Q1.** With reference to Congress ministries, which of the following statements is/are correct?
 
-1. Ministries were formed in 1937 after provincial elections.
-2. They resigned in 1939 when war was declared without consultation.
-3. Forward Bloc (1939) is the same body as CSP (1934).
+1. Forward Bloc (1939) is the same body as CSP (1934).
+2. Ministries were formed in 1935 immediately after the Government of India Act was passed.
+3. They resigned in 1939 when war was declared without consultation.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 3 only
+B. 2 and 3
 
-B. 1 and 2 only
+C. Only 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: C.** Only 3 is correct.
 
-**Logic:** Forward Bloc = Bose 1939; CSP = socialists inside Congress 1934.
+**Logic:** Stmt 2 false: Provincial ministries followed the 1937 elections, not the 1935 Act alone. Stmt 1 remains false: Forward Bloc ≠ CSP.
 
 </details>
 
@@ -1367,26 +1365,24 @@ D. A-2, B-1, C-4, D-3
 
 **Q5.** With reference to Quit India women / radio facts, which of the following statements is/are correct?
 
-1. Aruna Asaf Ali, Matangini Hazra, Kanaklata Barua and Usha Mehta (radio) are QI 1942 names.
+1. Aruna Asaf Ali, Matangini Hazra, Kanaklata Barua and Shanti Ghosh are the standard QI 1942 name set.
 2. Shanti Ghosh is a standard QI 1942 leadership name in the same list.
 3. Parallel governments include Ballia (Chittu Pandey, UP), Tamluk and Satara (Prati Sarkar).
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 2 only
+B. 2 and 3
 
-B. 1 and 3 only
+C. 1 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 3.
+**Ans: D.** Only 3 is correct.
 
-**Logic:** Shanti Ghosh = 1931 Bengal revolutionary, not QI 1942.
+**Logic:** Stmt 1 false: Shanti Ghosh is a 1931 Bengal revolutionary, not QI 1942; Usha Mehta (radio) belongs in the QI set. Stmt 2 remains false for the same reason.
 
 </details>
 
@@ -1447,18 +1443,18 @@ D. 1, 2, 4, 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. All 1, 2 and 3
 
-B. 2 and 3 only
+B. Only 2 and 3
 
-C. 1 and 3 only
+C. Only 1
 
-D. 1, 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Keep Plan / Act / Independence as three distinct dates.
 
@@ -1531,18 +1527,18 @@ D. A-2, B-1, C-4, D-3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. 2 and 3
 
-B. 2 and 3 only
+B. Only 1
 
-C. 1 and 3 only
+C. Only 1 and 2
 
-D. 1, 2 and 3
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Proclamation date and slogan set.
 
@@ -1574,25 +1570,23 @@ D. Cripps created the Interim Government of September 1946
 **Q13.** With reference to RIN Revolt, which of the following statements is/are correct?
 
 1. It occurred in February 1946 as a ratings’ revolt over pay, race and demobilisation.
-2. It was a Congress satyagraha identical with Quit India.
-3. It sits in the 1945–47 pressure ladder before Cabinet Mission politics matured.
+2. It sits after Independence as a Congress satyagraha of 1948.
+3. It was a Congress satyagraha identical with Quit India.
 
-Select the correct answer from the code given below:
+A. Only 1
 
-A. 2 and 3 only
+B. 1 and 2
 
-B. 1 and 2 only
+C. 2 and 3
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 3.
+**Ans: A.** Only 1 is correct.
 
-**Logic:** RIN ≠ QI; different year and form.
+**Logic:** Stmt 2 false: RIN revolt is February 1946 in the 1945–47 pressure ladder before Cabinet Mission matured. Stmt 3 remains false: RIN ≠ Quit India.
 
 </details>
 
@@ -1653,26 +1647,24 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q16.** Which of the following statements is/are correct?
 
-1. Bose presided at Haripura 1938 and Tripuri 1939, then resigned and founded Forward Bloc.
-2. CSP worked inside Congress; Nehru never formally joined CSP.
-3. Azad Hind Fauj trials were held at Gwalior Fort.
+1. Azad Hind Fauj trials were held at Gwalior Fort.
+2. Bose presided at Haripura 1938 and Tripuri 1939, then joined CSP as its permanent general secretary.
+3. CSP worked inside Congress; Nehru never formally joined CSP.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 2 only
+B. 2 and 3
 
-B. 1 and 3 only
+C. Only 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2.
+**Ans: C.** Only 3 is correct.
 
-**Logic:** INA trials = Red Fort, not Gwalior.
+**Logic:** Stmt 2 false: After Tripuri Bose resigned and founded Forward Bloc; he did not become CSP’s permanent GS. Stmt 1 remains false: INA trials = Red Fort.
 
 </details>
 
@@ -1716,18 +1708,18 @@ D. A-2, B-1, C-4, D-3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 1 and 2
 
-B. 2 and 3 only
+B. All 1, 2 and 3
 
-C. 1 and 3 only
+C. Only 2 and 3
 
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three.
+**Ans: B.** All three statements are correct.
 
 **Logic:** QI is not only the slogan date — hold the result into 1945–47.
 
@@ -1762,20 +1754,18 @@ D. Indian Independence Act — 18 July 1947 assent
 2. League joined on 26 October 1946.
 3. Direct Action Day (16 August 1946) was a Congress satyagraha supporting the Interim cabinet.
 
-Select the correct answer from the code given below:
+A. Only 3
 
-A. 1 and 2 only
+B. 2 and 3
 
-B. 1 and 3 only
+C. Only 1
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** Direct Action = League call; triggered violence hardening Partition politics.
 
@@ -1844,18 +1834,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 1 and 2
 
-B. 2 and 3 only
+B. All 1, 2 and 3
 
-C. 1 and 3 only
+C. 2 and 3
 
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three.
+**Ans: B.** All three statements are correct.
 
 **Logic:** UP tags across ministries → Ramgarh → Ballia.
 
@@ -1871,18 +1861,18 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. All 1, 2 and 3
 
-B. 1 and 3 only
+B. Only 2 and 3
 
-C. 2 and 3 only
+C. Only 1
 
-D. 1, 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Endgame political + legal facts.
 
@@ -1917,20 +1907,18 @@ D. Pakistan resolution — Cripps Mission appendix
 2. Mass protest forced remission of sentences.
 3. The trials proved Quit India and INA were commanded from a single Bombay HQ in 1942.
 
-Select the correct answer from the code given below:
+A. Only 1
 
-A. 1 and 2 only
+B. Only 1 and 2
 
-B. 1 and 3 only
+C. Only 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Political storm ≠ organisational merger with QI.
 
@@ -1974,20 +1962,18 @@ D. A-2, B-1, C-4, D-3
 2. Mountbatten Plan (3 June) then advanced the date toward August 1947.
 3. Wavell Plan (1945) is the statute that created the two dominions.
 
-Select the correct answer from the code given below:
+A. Only 1
 
-A. 1 and 2 only
+B. 1 and 2
 
-B. 1 and 3 only
+C. Only 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Independence Act 18 July 1947 creates dominions — not Wavell Plan.
 
@@ -2019,23 +2005,21 @@ D. RIN Revolt — August 1942 Congress Working Committee satyagraha
 **Q30.** With reference to the 1945–47 pressure ladder, which of the following statements is/are correct?
 
 1. UK Parliamentary Delegation (Jan 1946) sits before the RIN Revolt (Feb 1946) in the ladder.
-2. Cabinet Mission was announced in February 1946 and the Plan dated 16 May 1946.
-3. Mountbatten Plan (3 June 1947) preceded Attlee’s February 1947 statement.
+2. Mountbatten Plan (3 June 1947) preceded Attlee’s February 1947 statement.
+3. Cabinet Mission was announced in February 1946 and the Plan dated 16 May 1946.
 
-Select the correct answer from the code given below:
+A. 1 and 3
 
-A. 1 and 2 only
+B. Only 1
 
-B. 1 and 3 only
+C. Only 1 and 2
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2.
+**Ans: A.** 1 and 3 only are correct.
 
 **Logic:** Attlee (20 Feb 1947) precedes Mountbatten Plan (3 June 1947).
 

@@ -5052,7 +5052,7 @@ D. Neither 1 nor 2
 
 **Q1.** With reference to India’s judiciary, consider the following statements:
 1. It is integrated under one hierarchy apexed in the Supreme Court.
-2. It is independent of the executive and legislature.
+2. It is subordinate to the executive in appointments and completely dependent on the legislature.
 3. India follows a dual court system like the United States.
 
 A. 2 and 3 only
@@ -5063,9 +5063,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: C.** Only 1 is correct.
 
-**Logic:** Integrated ≠ dual USA system; independence is a separate label.
+**Logic:** India’s judiciary is integrated under one hierarchy apexed in the Supreme Court and is independent. It is not a dual USA-style court system.
 
 </details>
 
@@ -5162,26 +5162,26 @@ D. 1 – 2 – 4 – 3
 
 **Q6.** With reference to Articles 131, 71 and 262, which of the following is/are correct?
 1. Article 131 is exclusive original jurisdiction in federal disputes.
-2. President/VP election disputes go under Article 71.
-3. River-water disputes may be barred from Article 131 by law under Article 262.
+2. President/VP election disputes go under Article 131 original jurisdiction.
+3. River-water disputes can never be barred from Article 131.
 
-A. 1 and 2 only
-B. 1, 2 and 3
-C. 2 and 3 only
-D. 1 and 3 only
+A. Only 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** All three statements are correct.
+**Ans: C.** Only 1 is correct.
 
-**Logic:** 131/71/262 confused-pair set.
+**Logic:** Article 131 is exclusive original jurisdiction in federal disputes. President/VP election disputes go under Article 71. River-water disputes may be barred from 131 by law under Article 262.
 
 </details>
 
 **Q7.** Consider the following statements about Article 136:
 1. Special Leave Petition is the Supreme Court’s widest appellate power.
-2. It does not apply to judgments of armed-forces courts.
+2. Special Leave Petition under Article 136 also applies fully to judgments of armed-forces courts.
 3. Article 143 advisory opinions are binding on the President.
 
 A. 2 and 3 only
@@ -5192,9 +5192,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Advisory opinions under 143 are not binding.
+**Logic:** SLP is the Supreme Court’s widest appellate power and does not apply to armed-forces courts. Article 143 advisory opinions are not binding.
 
 </details>
 
@@ -5275,7 +5275,7 @@ D. A-2, B-1, C-3, D-4
 
 **Q11.** With reference to High Courts, which of the following is/are correct?
 1. There are 25 High Courts.
-2. A common High Court needs only an ordinary law under Article 231.
+2. A common High Court always requires a constitutional amendment under Article 368.
 3. HC judge resigns to the Governor and takes oath before the President.
 
 A. 2 and 3 only
@@ -5286,9 +5286,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: C.** Only 1 is correct.
 
-**Logic:** Oath before Governor; resignation to President — do not swap.
+**Logic:** There are 25 High Courts. A common High Court needs an ordinary law under Article 231. Oath before Governor; resignation to President.
 
 </details>
 
@@ -5355,15 +5355,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Regular Lok Adalat works only by compromise.
 3. Permanent Lok Adalat can decide merits in public-utility pre-litigation cases.
 
-A. 1, 2 and 3
-B. 1 and 2 only
-C. 2 and 3 only
-D. 1 and 3 only
+A. Only 2 and 3
+B. Only 1
+C. 1 and 2
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** All three statements are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** LA vs PLA confused pair.
 
@@ -5463,10 +5463,10 @@ D. 1, 2 and 3
 2. Composition included CJI, two senior SC judges, Law Minister and two eminent persons.
 3. Any two members could veto a name under the NJAC scheme.
 
-A. 1 and 2 only
-B. 1, 2 and 3
-C. 2 and 3 only
-D. 1 and 3 only
+A. 1 and 2
+B. Only 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -5521,15 +5521,15 @@ D. 3 – 1 – 2
 2. Criminal contempt by a private person needs Attorney General consent under section 15, but suo motu does not.
 3. Truth in public interest became a defence by the 2006 amendment.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. All 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** 1971 Act regulates; AG consent / suo motu / truth defence.
 
@@ -5590,9 +5590,9 @@ D. None
 
 **Q27.** Consider the following Assertion and Reason:
 
-Assertion (A): Fathima Beevi was the first woman Supreme Court judge.
+Assertion (A): She later became Governor of Kerala.
 
-Reason (R): She later became Governor of Kerala.
+Reason (R): Fathima Beevi was the first woman Supreme Court judge.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -5602,9 +5602,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true, but (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** She became Governor of Tamil Nadu, not Kerala.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. She became Governor of Tamil Nadu, not Kerala.
 
 </details>
 
@@ -5632,15 +5632,15 @@ D. 1 and 2 only
 2. Lucknow Bench is a bench of Allahabad, not a separate High Court.
 3. Allahabad has the largest sanctioned strength among High Courts in the usual teaching.
 
-A. 1, 2 and 3
-B. 1 and 2 only
-C. 2 and 3 only
-D. 1 and 3 only
+A. Only 2 and 3
+B. Only 1
+C. Only 1 and 2
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** All three statements are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** UP Special HC facts from Must-Score.
 

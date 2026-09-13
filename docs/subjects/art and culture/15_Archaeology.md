@@ -551,20 +551,20 @@ D. III, IV
 **Q1.** With reference to archaeology and history, which of the following statements is/are correct?
 
 1. Archaeology studies material remains through excavation and dating.
-2. History builds narrative mainly from written sources.
-3. The two methods are identical and interchangeable labels.
+2. The two methods are identical and interchangeable labels.
+3. History builds narrative mainly from pollen diagrams alone, not written sources.
 
-A. 2 and 3 only
-B. 1 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. Only 2
+B. Only 2 and 3
+C. Only 1
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: C.** Only 1 is correct.
 
-**Logic:** They work together but are not the same method.
+**Logic:** Archaeology and history work together but are not the same method. History builds narrative mainly from written sources.
 
 </details>
 
@@ -578,15 +578,15 @@ D. 1, 2 and 3
 
 Which of the pairs given above is/are correctly matched?
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. All 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only pairs 1 and 2 are correct.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** C-14 dates organic carbon only, not bare stone.
 
@@ -651,30 +651,30 @@ D. 2-3-1-4
 **Q6.** With reference to ASI, which of the following statements is/are correct?
 
 1. ASI began in 1861.
-2. Alexander Cunningham was the first Director General.
-3. ASI sits under the Culture ministry.
+2. Alexander Cunningham was the first Surveyor General of India under the Survey of India only.
+3. ASI sits under the Ministry of External Affairs like ICCR.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1, 2 and 3
+B. Only 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: C.** Only 1 is correct.
 
-**Logic:** Digging needs licence under AMASR 1958.
+**Logic:** Cunningham was the first Director General of ASI. ASI sits under the Culture ministry.
 
 </details>
 
 **Q7.** Match List-I with List-II and select the correct answer using the code given below the Lists.
 
 **List-I (Site)**
-A. 2 1 3 4
-B. 2 1 4 3
-C. 1 2 4 3
-D. 2 4 1 3
+A. Alamgirpur
+B. Rakhigarhi
+C. Lothal
+D. Kalibangan
 
 **List-II**
 1. Haryana; largest in India
@@ -701,20 +701,20 @@ D. 2 4 1 3
 **Q8.** With reference to excavation methods, which of the following statements is/are correct?
 
 1. Vertical excavation reads time sequence.
-2. Horizontal excavation reads one-period layout.
-3. Wheeler’s box-grid kept balks between squares.
+2. Horizontal excavation reads time sequence identically with vertical digging.
+3. Wheeler’s box-grid abolished balks between squares.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
+A. Only 2 and 3
+B. Only 1
+C. Only 1 and 2
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Vertical vs horizontal is a method trap pair.
+**Logic:** Horizontal excavation reads one-period layout. Wheeler’s box-grid kept balks between squares.
 
 </details>
 
@@ -749,9 +749,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both (A) and (R) are true and (R) is the correct explanation of (A).
+**Ans: A.** Both (A) and (R) are true, but (R) is not the correct explanation of (A).
 
-**A/R logic:** Announcement follows the Sahni–Banerji excavation sequence.
+**A/R logic:** Marshall’s announcement is a true sequel fact after the Sahni–Banerji digs, but it does not explain which excavator worked at which city.
 
 </details>
 
@@ -761,15 +761,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Dholavira is known for reservoirs and the signboard fact.
 3. Both Lothal and Dholavira are Uttar Pradesh Indus cities.
 
-A. 1 and 3 only
-B. 1 and 2 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 3
+C. 1 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** Keep both in Gujarat, not UP.
 
@@ -802,11 +802,11 @@ D. 1, 2, 3 and 4
 
 **Q13.** Match List-I with List-II and select the correct answer using the code given below the Lists.
 
-**List-I**
-A. 4 2 1 3
-B. 2 4 3 1
-C. 2 4 1 3
-D. 2 1 4 3
+**List-I (Site)**
+A. Balu
+B. Manda
+C. Padri
+D. Hulas
 
 **List-II**
 1. Gujarat
@@ -832,19 +832,19 @@ D. 2 1 4 3
 
 **Q14.** With reference to Sanauli, which of the following statements is/are correct?
 
-1. Sanauli is in Baghpat, UP.
-2. It is a late Harappan / OCP chariot site excavated around 2018.
-3. It is the easternmost Indus city.
+1. It is the easternmost Indus city.
+2. Sanauli is in Baghpat, UP.
+3. It is a late Harappan / OCP chariot site excavated around 2018.
 
-A. 1 and 3 only
-B. 1 and 2 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1 and 3
+C. All 1, 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: A.** 2 and 3 only are correct.
 
 **Logic:** Easternmost Indus is Alamgirpur.
 
@@ -878,15 +878,15 @@ D. 3-2-1
 2. Ex-situ moves objects to a museum.
 3. Ex-situ means leaving every object untouched on the trench floor forever.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. Only 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** In-situ vs ex-situ is a management stem pair.
 
@@ -927,19 +927,19 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q19.** With reference to prehistoric sites, which of the following statements is/are correct?
 
-1. Bhimbetka is prehistoric rock shelter art in Madhya Pradesh.
-2. Belan valley, Sarai Nahar Rai and Mahadaha are prehistoric UP belt facts.
-3. Bhimbetka is a Mature Harappan dock city of Gujarat.
+1. Bhimbetka is a Mature Harappan dock city of Gujarat.
+2. Bhimbetka is prehistoric rock shelter art in Madhya Pradesh.
+3. Belan valley, Sarai Nahar Rai and Mahadaha are prehistoric UP belt facts.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. Only 1 and 2
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: A.** 2 and 3 only are correct.
 
 **Logic:** Bhimbetka ≠ Harappa.
 
@@ -1002,19 +1002,19 @@ D. 2 4 1 3
 
 **Q22.** With reference to early historic UP sites, which of the following statements is/are correct?
 
-1. Sarnath, Hastinapur, Kaushambi, Ahichhatra and Shravasti are early historic UP sites.
-2. BSIP Lucknow is named in aDNA work linked to Rakhigarhi skeletal study.
-3. Rakhigarhi bones being studied in Lucknow make Rakhigarhi a UP Indus city.
+1. Rakhigarhi bones being studied in Lucknow make Rakhigarhi a UP Indus city.
+2. Sarnath, Hastinapur, Kaushambi, Ahichhatra and Shravasti are early historic UP sites.
+3. BSIP Lucknow is named in aDNA work linked to Rakhigarhi skeletal study.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 3
+C. Only 2
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 2 and 3 only are correct.
 
 **Logic:** Lab location does not move the site’s state.
 
@@ -1039,18 +1039,18 @@ D. Alamgirpur — Haryana largest site
 **Q24.** With reference to boat and field evidence, which of the following statements is/are correct?
 
 1. Boat / dock evidence is linked to Mohenjo-daro and Lothal.
-2. Kalibangan holds famous ploughed-field evidence.
-3. Kalibangan is an eastern UP Indus capital.
+2. Kalibangan is an eastern UP Indus capital.
+3. Kalibangan holds famous ploughed-field evidence.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: A.** 1 and 3 only are correct.
 
 **Logic:** Kalibangan is Rajasthan.
 
@@ -1079,15 +1079,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Mandi and Hulas are UP.
 3. Manda (J&K) is the same site as Mandi (UP).
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. Only 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Manda (J&K) and Mandi (UP) must not be collapsed.
 
@@ -1099,15 +1099,15 @@ D. 1, 2 and 3
 2. Numismatics reads coins.
 3. Both are archaeological source-types in the teaching map.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** They are source-types, not separate ministries.
 
@@ -1116,18 +1116,18 @@ D. 1, 2 and 3
 **Q28.** Which of the following is/are correctly matched?
 
 1. In-situ — conserve on the mound
-2. Ex-situ — shift to a museum
-3. Typology — layer age by superposition only
+2. Typology — layer age by superposition only
+3. Ex-situ — shift to a museum
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 3
+C. Only 2
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 1 and 3 only are correct.
 
 **Logic:** Typology compares artefact styles. Stratigraphy uses superposition.
 
@@ -1139,15 +1139,15 @@ D. 1, 2 and 3
 2. Later famous Indian sites fill Gujarat–Rajasthan–Haryana–UP map.
 3. Banerji excavated Harappa and Sahni excavated Mohenjo-daro.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 3
+B. Only 1
+C. Only 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Sahni = Harappa. Banerji = Mohenjo-daro.
 

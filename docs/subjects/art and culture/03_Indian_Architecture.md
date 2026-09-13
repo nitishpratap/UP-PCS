@@ -2897,23 +2897,21 @@ D. Varaha Image at Udayagiri
 
 **Q1.** With reference to temple styles, which of the following statements is/are correct?
 
-1. Nagara temples have a curvilinear shikhara and generally no monumental gopuram.
-2. Dravida temples have a pyramidal vimana and tall gopuram.
-3. A gopuram is the Nagara sanctum tower.
+1. A gopuram is the Nagara sanctum tower.
+2. Nagara temples have a curvilinear shikhara and generally no monumental gopuram.
+3. Dravida temples have a curvilinear shikhara identical to the Nagara tower.
 
-Select the correct answer from the code given below:
-
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. Only 2
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: B.** Only 2 is correct.
 
-**Logic:** Gopuram is the Dravida gateway. Shikhara is the Nagara sanctum tower.
+**Logic:** Gopuram is the Dravida gateway. Dravida sanctum tower is the pyramidal vimana, not a Nagara-style curvilinear shikhara.
 
 </details>
 
@@ -2981,31 +2979,29 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both (A) and (R) are true and (R) correctly explains the monument’s identity tags.
+**Ans: A.** Both (A) and (R) are true, but (R) is not the correct explanation of (A).
 
-**A/R logic:** Black Pagoda nickname pairs with the chariot iconography and 13th-century Eastern Ganga patronage.
+**A/R logic:** Black Pagoda is the European sailors’ dark-landmark nickname (contrast White Pagoda = Puri Jagannath). Eastern Ganga patronage and chariot iconography are true but do not explain the nickname.
 
 </details>
 
 **Q5.** With reference to Khajuraho, which of the following statements is/are correct?
 
 1. It is Chandela Nagara work in Madhya Pradesh sandstone.
-2. Kandariya Mahadeva is the largest surviving temple there.
+2. Kandariya Mahadeva is a Pallava rock-cut ratha at Mahabalipuram.
 3. Markandeshwar in Vidarbha is the same complex as Khajuraho.
 
-Select the correct answer from the code given below:
-
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. Only 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: A.** Only 1 is correct.
 
-**Logic:** Markandeshwar is called the Khajuraho of Vidarbha. It is not Khajuraho itself.
+**Logic:** Kandariya Mahadeva is the largest surviving temple at Khajuraho. Markandeshwar is called the Khajuraho of Vidarbha, not Khajuraho itself.
 
 </details>
 
@@ -3098,9 +3094,9 @@ D. 1, 2, 3 and 4
 
 **Q10.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): Buland Darwaza commemorates Akbar’s Gujarat victory.
+Assertion (A): Buland Darwaza was built to celebrate Jahangir’s birth.
 
-Reason (R): Buland Darwaza was built to celebrate Jahangir’s birth.
+Reason (R): Buland Darwaza commemorates Akbar’s Gujarat victory.
 
 Select the correct answer from the code given below:
 
@@ -3112,9 +3108,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true. (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** Gujarat victory is the correct commemorative tag. Birth-of-Jahangir is a common wrong story.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Gujarat victory is the correct commemorative tag. Birth-of-Jahangir is a common wrong story.
 
 </details>
 
@@ -3160,22 +3156,20 @@ D. Garhwa Gupta remains near Prayagraj
 **Q13.** With reference to Indo-Islamic and temple construction technique, which of the following statements is/are correct?
 
 1. Indo-Islamic building uses the true arch and dome.
-2. Pre-Islamic temples often used corbelled courses.
+2. Pre-Islamic temples often used true Roman arches as the standard method.
 3. Panchayatana is an Islamic four-part garden plan.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** Panchayatana is the Hindu five-shrine plan. Charbagh is the four-part garden.
+**Logic:** Pre-Islamic temples often used corbelled courses. Panchayatana is the Hindu five-shrine plan; Charbagh is the four-part garden.
 
 </details>
 
@@ -3210,17 +3204,15 @@ D. 1, 2, 3 and 4
 2. It is a circular hypaethral temple.
 3. It is identical with the Khajuraho Chausath Yogini.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. Only 1 and 2
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Morena and Khajuraho Chausath Yogini temples are different sites.
 
@@ -3318,9 +3310,9 @@ D. 1, 2, 3 and 4
 
 Which of the statements given above are correct?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
+A. Only 2 and 3
+B. Only 1
+C. 1 and 2
 D. 1, 2 and 3
 
 <details>
@@ -3440,15 +3432,15 @@ D. Jagannath idols are identical in material to Dilwara marble tirthankaras
 
 Which of the statements given above are correct?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** These are core Nagara / general temple plan tags.
 
@@ -3473,20 +3465,18 @@ D. Hampi Virupaksha is a Mughal charbagh tomb
 **Q28.** With reference to Palitana and Sonagiri, which of the following statements is/are correct?
 
 1. Palitana Jain temples stand on Shatrunjaya hill near Bhavnagar.
-2. Sonagiri near Datia is a Digambar Jain hill.
-3. Palitana is primarily a Chola granite complex in Tamil Nadu.
+2. Palitana is primarily a Chola granite complex in Tamil Nadu.
+3. Sonagiri near Datia is a Digambar Jain hill.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. 1 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 1 and 3 only are correct.
 
 **Logic:** Palitana is Gujarat Jain geography dedicated mainly to Adinatha.
 
@@ -3502,15 +3492,15 @@ D. 1, 2 and 3
 
 Which of the corrections above are themselves correct?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. All 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three corrections are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** These dynasty–site swaps are high-frequency distractors.
 

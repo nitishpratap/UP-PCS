@@ -1657,26 +1657,24 @@ D. Ambika Chakravarti
 
 **Q1.** With reference to the Partition of Bengal, which of the following statements is/are correct?
 
-1. It was announced in July 1905 and became effective on 16 October 1905.
-2. The new province was East Bengal and Assam with capital at Dacca.
-3. The Lucknow Pact of 1911 annulled the Partition at the Delhi Durbar.
+1. The Lucknow Pact of 1911 annulled the Partition at the Delhi Durbar.
+2. It was announced in July 1905 and became effective on 16 October 1905.
+3. The new province was West Bengal and Orissa with capital at Calcutta.
 
-Select the correct answer from the code given below:
+A. Only 2
 
-A. 1 and 3 only
+B. 1 and 2
 
-B. 1 and 2 only
+C. 2 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: A.** Only 2 is correct.
 
-**Logic:** Annulment = 1911 Durbar; Lucknow Pact = 1916.
+**Logic:** Stmt 3 false: New province was East Bengal and Assam with capital at Dacca. Stmt 1 remains false: annulment = 1911 Durbar; Lucknow Pact = 1916.
 
 </details>
 
@@ -1768,25 +1766,23 @@ D. A-2, B-1, C-4, D-3
 **Q5.** With reference to revolutionary chronology, which of the following statements is/are correct?
 
 1. Muzaffarpur 1908 is the Kingsford attempt (Khudiram–Chaki).
-2. Alipore 1908 is the Manicktolla conspiracy trial.
+2. Alipore 1908 is the Hardinge bomb trial of 1912.
 3. Hardinge bomb (1912) and the Central Assembly bomb (1929) were the same event under two names.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 3 only
+B. Only 1
 
-B. 1 and 2 only
+C. 2 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Delhi Viceroy procession ≠ Central Assembly protest.
+**Logic:** Stmt 2 false: Alipore 1908 is the Manicktolla conspiracy trial; Hardinge bomb is 1912 Delhi. Stmt 3 remains false: Hardinge bomb ≠ Central Assembly bomb 1929.
 
 </details>
 
@@ -1848,18 +1844,18 @@ D. 1, 2, 4, 3, 5
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. 1, 2 and 3
 
-B. 2 and 3 only
+B. 2 and 3
 
-C. 1 and 3 only
+C. Only 1
 
-D. 1, 2 and 3
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Birth vs hanging places for Bismil must stay separate.
 
@@ -1916,9 +1912,9 @@ D. A-2, B-1, C-4, D-3
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Assembly → Chittagong → Stuttgart → Komagata Maru.
+**Ans: B.** A-2, B-1, C-3, D-4 — Assembly bomb 1929 (Bhagat Singh–Dutt); Chittagong 1930 (Surya Sen); Stuttgart flag 1907; Komagata Maru 1914.
 
-**Logic:** Do not merge Stuttgart 1907 with Berlin Committee 1915.
+**Logic:** Do not merge Stuttgart 1907 with Berlin Committee 1915; Assembly bomb precedes Chittagong raid.
 
 </details>
 
@@ -1932,18 +1928,18 @@ D. A-2, B-1, C-4, D-3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 1 and 2
 
-B. 1 and 3 only
+B. Only 2 and 3
 
-C. 2 and 3 only
+C. Only 1 and 3
 
-D. 1, 2 and 3
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Open Swadeshi orgs ≠ Anushilan/Jugantar secret action.
 
@@ -1974,26 +1970,24 @@ D. Udham Singh–Michael O’Dwyer — 1909, India House
 
 **Q13.** With reference to Anushilan and Jugantar, which of the following statements is/are correct?
 
-1. Anushilan is tied to the Hardinge bomb of 1912 in standard teaching.
+1. Anushilan is tied to the Central Assembly bomb of 1929 in standard teaching.
 2. Jugantar is the Barindra / *Yugantar* / Manicktolla stream.
 3. RSS founded by Hedgewar at Nagpur (27 Sep 1925) is the same organisation as HRA.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 2 and 3 only
+B. 2 and 3
 
-B. 1 and 3 only
+C. Only 2
 
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: C.** Only 2 is correct.
 
-**Logic:** RSS 1925 ≠ HRA/Kakori 1925.
+**Logic:** Stmt 1 false: Anushilan is tied to the Hardinge bomb 1912 stream in standard teaching; Assembly bomb is HSRA 1929. Stmt 3 remains false: RSS ≠ HRA.
 
 </details>
 
@@ -2033,18 +2027,18 @@ D. 1, 2, 4, 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 1
 
-B. 2 and 3 only
+B. Only 1 and 2
 
-C. 1 and 3 only
+C. Only 1, 2 and 3
 
-D. 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Kabul provisional government is wartime, not Ghadar HQ.
 
@@ -2087,18 +2081,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 2 and 3
 
-B. 1 and 3 only
+B. Only 1
 
-C. 2 and 3 only
+C. 1 and 2
 
-D. 1, 2 and 3
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Hold Cause–Course–Result as one card, not year fragments.
 
@@ -2139,23 +2133,21 @@ D. A-2, B-1, C-4, D-3
 **Q19.** Which of the following statements about Naujawan Bharat Sabha and related traps is/are correct?
 
 1. Naujawan Bharat Sabha dates to 1926.
-2. Ambika Chakravarti was not an early member of Naujawan Bharat Sabha in the standard trap list.
-3. M.A. Ansari was associated with the Kanpur Conspiracy of 1924 as a core accused in the usual teaching key.
+2. M.A. Ansari was associated with the Kanpur Conspiracy of 1924 as a core accused in the usual teaching key.
+3. Ambika Chakravarti was not an early member of Naujawan Bharat Sabha in the standard trap list.
 
-Select the correct answer from the code given below:
+A. Only 1 and 2
 
-A. 1 and 2 only
+B. Only 2 and 3
 
-B. 1 and 3 only
+C. Only 1 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2.
+**Ans: C.** 1 and 3 only are correct.
 
 **Logic:** Ansari is a ‘not associated’ distractor for Kanpur 1924.
 
@@ -2192,18 +2184,18 @@ D. HSRA conducted Kakori before HRA existed
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 2 and 3
 
-B. 1 and 3 only
+B. Only 1
 
-C. 2 and 3 only
+C. Only 1 and 2
 
-D. 1, 2 and 3
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Map the theatre before matching the event.
 
@@ -2245,18 +2237,18 @@ D. 1, 2, 4, 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. 1 and 2
 
-B. 2 and 3 only
+B. 1, 2 and 3
 
-C. 1 and 3 only
+C. 2 and 3
 
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Swaraj language + enterprise + underground turn.
 
@@ -2294,25 +2286,23 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q25.** With reference to Barrah and Kakori, which of the following statements is/are correct?
 
 1. Barrah Dacoity (1908, East Bengal) was led by Pulin Behari Das (Dhaka Anushilan).
-2. Kakori (1925) was an HRA train treasury action in the UP belt.
+2. Kakori (1925) was an HSRA train treasury action of 1930.
 3. Both actions were HSRA operations of 1930.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 2 only
+B. 2 and 3
 
-B. 1 and 3 only
+C. 1 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** Barrah 1908 ≠ Kakori 1925; neither is HSRA-1930.
+**Logic:** Stmt 2 false: Kakori 1925 is HRA; HSRA is the later 1928 rename / 1930 actions. Stmt 3 remains false: Barrah 1908 ≠ Kakori 1925.
 
 </details>
 
@@ -2345,20 +2335,18 @@ D. Ghadar Party — founded 1915 as the Berlin Committee’s American wing
 2. He was hanged at Faizabad on 19 December 1927.
 3. He was hanged at Gorakhpur with Bismil in the same jail.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 2 only
+B. Only 3
 
-B. 2 and 3 only
+C. 2 and 3
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** Faizabad ≠ Gorakhpur hanging places.
 
@@ -2398,24 +2386,22 @@ D. A-2, B-1, C-4, D-3
 
 **Q29.** With reference to *Sarfaroshi* authorship traps, which of the following statements is/are correct?
 
-1. The poem *Sarfaroshi ki tamanna* is associated with Bismil Azimabadi (Patna).
-2. Ram Prasad Bismil of Shahjahanpur is the Kakori martyr — a different person from the poem’s author tag.
-3. Both names refer to one person who wrote the poem in Faizabad jail.
+1. Both names refer to one person who wrote the poem in Faizabad jail.
+2. The poem *Sarfaroshi ki tamanna* is associated with Bismil Azimabadi (Patna).
+3. Ram Prasad Bismil of Shahjahanpur is the Kakori martyr — a different person from the poem’s author tag.
 
-Select the correct answer from the code given below:
+A. 2 and 3
 
-A. 1 and 2 only
+B. Only 1
 
-B. 1 and 3 only
+C. 1 and 2
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2.
+**Ans: A.** 2 and 3 only are correct.
 
 **Logic:** Poet Bismil Azimabadi ≠ martyr Ram Prasad Bismil.
 
@@ -2426,23 +2412,21 @@ D. 1, 2 and 3
 **Q30.** Which of the following statements is/are correct regarding the end of open Swadeshi and the revolutionary turn?
 
 1. After Surat 1907 and repression, open Swadeshi politics weakened.
-2. Youth movement into secret societies intensified in the following years.
-3. Extremist Congress methods and revolutionary bombs remained legally and organisationally identical throughout.
+2. Extremist Congress methods and revolutionary bombs remained legally and organisationally identical throughout.
+3. Youth movement into secret societies intensified in the following years.
 
-Select the correct answer from the code given below:
+A. Only 3
 
-A. 1 and 2 only
+B. 1 and 3
 
-B. 1 and 3 only
+C. Only 1
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2.
+**Ans: B.** 1 and 3 only are correct.
 
 **Logic:** Course → Result: open politics fades; underground rises — still not the same category.
 

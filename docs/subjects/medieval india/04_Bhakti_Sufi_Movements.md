@@ -1741,15 +1741,15 @@ D. Western Chalukya
 2. Alvars were Vishnu devotees.
 3. Both traditions flourished mainly in 7th–12th century Tamil land before the north sant wave.
 
-A. 1 and 2 only
-B. 1, 2 and 3
-C. 1 and 3 only
-D. 2 and 3 only
+A. Only 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** All three are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Do not swap Alvar (Vishnu) with Nayanar (Shiva).
 
@@ -1845,21 +1845,24 @@ D. 1 and 2 only
 
 **Q6.** With reference to the Chishti line, which statements is/are correct?
 
-1. Order runs Moinuddin → Qutbuddin Bakhtiyar Kaki → Baba Farid → Nizamuddin → Nasiruddin Chiragh.
-2. Chishtis stressed poverty, sama, and ziyarat.
-3. Chishtis typically accepted state wealth like the Suhrawardis.
+1. Order runs Moinuddin → Nizamuddin → Baba Farid → Qutbuddin Bakhtiyar Kaki → Nasiruddin Chiragh.
+2. Chishtis typically accepted state wealth like the Suhrawardis.
+3. Chishtis stressed poverty, sama, and ziyarat.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+
+B. 2 and 3
+
+C. Only 3
+
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** Only 3 is correct.
 
-**Logic:** Suhrawardi Multan saints accepted patronage; Chishtis rejected state wealth.
+**Logic:** Stmt 1 false: Correct Chishti chain is Moinuddin → Qutbuddin Bakhtiyar Kaki → Baba Farid → Nizamuddin → Nasiruddin Chiragh. Stmt 2 remains false: Chishtis rejected state wealth.
 
 </details>
 
@@ -1871,15 +1874,15 @@ D. 1, 2 and 3
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1 and 2 only
-B. 1, 2 and 3
-C. 1 and 3 only
-D. 2 and 3 only
+A. Only 1
+B. Only 1 and 2
+C. All 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** All three pairs are correctly matched.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Mardana was Guru Nanak’s rababi companion.
 
@@ -1938,15 +1941,15 @@ D. A-3, B-1, C-2, D-4
 2. Varkari tradition centres on Pandharpur / Vithoba.
 3. Jayadeva wrote Gita Govinda in Odisha.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. Only 1 and 3
+B. 1, 2 and 3
+C. Only 1 and 2
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Shankaradeva leads Assam Vaishnavism with satra and kirtana-ghosha.
 
@@ -1974,15 +1977,15 @@ D. Mirabai — Rajasthan Krishna devotee
 2. Tulsidas belongs to Awadhi UP; Surdas to the Braj belt.
 3. Gorakhnath is linked with Gorakhpur.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. 1 and 2
+B. 2 and 3
+C. 1 and 3
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Amarmul records Kabir–Dharamdas dialogues — distinct from Bijak.
 
@@ -1994,15 +1997,15 @@ D. 1 and 3 only
 2. Naqshbandi reformers under Ahmad Sirhindi opposed syncretism.
 3. Moinuddin’s order name comes from Chisht in Afghanistan, not a village in Ajmer.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. Only 1
+B. Only 1 and 2
+C. Only 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Bahauddin Zakariya is the Multan Suhrawardi anchor.
 
@@ -2010,9 +2013,9 @@ D. 1 and 3 only
 
 **Q14.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): Bhakti was mainly an intra-Hindu reform against empty ritual.
+Assertion (A): Every Bhakti and Sufi saint mixed doctrines into one syncretic religion.
 
-Reason (R): Every Bhakti and Sufi saint mixed doctrines into one syncretic religion.
+Reason (R): Bhakti was mainly an intra-Hindu reform against empty ritual.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -2022,9 +2025,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true, but (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** Composite culture shared social space; Ahmad Sirhindi and Kabir rejected syncretic ritual.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Composite culture shared social space; Ahmad Sirhindi and Kabir rejected syncretic ritual.
 
 </details>
 
@@ -2055,15 +2058,15 @@ D. 2–4–1–3
 2. Barahmasa is linked with Malik Muhammad Jayasi.
 3. Rasik Priya is by Keshavdas.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. Only 1 and 2
+B. 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Prem Vatika vs Rasik Priya is a confused pair.
 
@@ -2102,15 +2105,15 @@ D. A-3, B-1, C-2, D-4
 2. Tulsidas is dated about 1532–1623.
 3. Dadu Dayal is dated about 1544–1603.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** North chain memory: Namdev → Ramananda → Kabir → Nanak → Chaitanya → Surdas → Tulsidas.
 
@@ -2158,15 +2161,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Amarmul records dialogues with Dharamdas.
 3. Maghar (Sant Kabir Nagar) is linked with Kabir’s death.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. Only 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Do not treat Amarmul as a substitute for Bijak.
 
@@ -2178,15 +2181,15 @@ D. 1, 2 and 3
 2. Firdausi order in this chapter’s map is linked with Bihar (Yahya Maneri line).
 3. Ajmer is Moinuddin’s Indian centre.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. All 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Order name Chisht (Afghanistan) ≠ Ajmer village origin myth.
 
@@ -2198,15 +2201,15 @@ D. 1, 2 and 3
 2. Namdev is an earlier Vithoba saint in the same broad line.
 3. Tukaram also belongs to the Varkari tradition.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Pandharpur / Vithoba is the geographic anchor.
 
@@ -2241,21 +2244,24 @@ D. A-3, B-1, C-2, D-4
 
 **Q25.** With reference to Nanak’s circle, which statements is/are correct?
 
-1. Nanak taught Ik Onkar.
-2. Mardana was his rababi companion.
-3. Nanak is classified with Saguna Rama-only temple ritualism alone.
+1. Nanak is classified with Saguna Rama-only temple ritualism alone.
+2. Nanak taught exclusive Saguna Rama temple ritualism alone.
+3. Mardana was his rababi companion.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+
+B. Only 3
+
+C. 2 and 3
+
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** Only 3 is correct.
 
-**Logic:** Nanak stands on the Nirguna side with Kabir in the confused-pair map.
+**Logic:** Stmt 2 false: Nanak taught Ik Onkar on the Nirguna side; Saguna Rama-only ritualism is the wrong bucket. Stmt 1 remains false for the same classification trap.
 
 </details>
 
@@ -2285,15 +2291,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Ajodhan (Farid) / Pakpattan and Nagaur also belong to the shrine map.
 3. Bahauddin Zakariya’s centre is Multan (Suhrawardi).
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Keep Chishti shrine belt distinct from Suhrawardi Multan.
 
@@ -2307,15 +2313,15 @@ D. 1, 2 and 3
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three pairs are correctly matched.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Ramanuja holds soul distinct yet united (Vishishtadvaita).
 
@@ -2340,20 +2346,23 @@ D. Bijak — Surdas Braj anthology
 **Q30.** With reference to social vocabulary, which statements is/are correct?
 
 1. A pir is the Sufi spiritual master.
-2. A guru is the Bhakti preceptor.
+2. A guru is always identical with the Sufi pir office.
 3. Shaikh and Ulema are always identical offices.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+
+B. 2 and 3
+
+C. 1 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** Ulema are law scholars; Shaikh is a Sufi guide authorised to teach.
+**Logic:** Stmt 2 false: Guru is the Bhakti preceptor; pir is the Sufi master — related idea, not identical office. Stmt 3 remains false: Shaikh ≠ Ulema.
 
 </details>
 

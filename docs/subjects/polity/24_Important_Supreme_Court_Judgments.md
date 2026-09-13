@@ -840,41 +840,38 @@ D. II–I–III–IV
 **Q6.** With reference to Judges Cases and NJAC, which of the following is/are correct?
 
 1. Second Judges (1993) created Collegium (CJI+2); Third Judges (1998) expanded SC Collegium to CJI+4.
-2. 99th Amendment’s NJAC was struck on 16 October 2015 (4:1).
-3. First Judges (1981) already locked judicial primacy over executive.
+2. 99th Amendment’s NJAC was upheld unanimously in 2015.
+3. Golaknath held that Fundamental Rights can never be amended in any manner and overruled all later cases permanently.
 
-Select the correct answer from the code given below:
-
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 3
+C. Only 1 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** First Judges gave executive primacy; Second Judges reversed to Collegium.
+**Logic:** Second Judges (1993) created Collegium (CJI+2); Third Judges (1998) expanded SC Collegium to CJI+4. NJAC was struck on 16 October 2015 (4:1). First Judges gave executive primacy, not judicial primacy.
 
 </details>
+
 **Q7.** With reference to Bommai and related 356 cases, which of the following is/are correct?
 
-1. Bommai (1994) made Article 356 justiciable and locked majority to the floor test.
-2. Rameshwar Prasad (2006) struck Bihar dissolution based on a mere fear of horse-trading.
-3. Nabam Rebia (2016) held that a Governor may freely scramble the Assembly calendar to defeat the Speaker.
+1. Nabam Rebia (2016) held that a Governor may freely scramble the Assembly calendar to defeat the Speaker.
+2. Bommai (1994) made Article 356 justiciable and locked majority to the floor test.
+3. Rameshwar Prasad (2006) struck Bihar dissolution based on a mere fear of horse-trading.
 
-Select the correct answer from the code given below:
-
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. Only 1 and 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: A.** 2 and 3 only are correct.
 
 **Logic:** Nabam Rebia restricts Governor calendar games — statement 3 reverses it.
 
@@ -1002,11 +999,11 @@ D. I–II–III–IV
 </details>
 **Q14.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): Berubari (1960) held that ceding Indian territory needs a constitutional amendment.
-
-Reason (R): Berubari also treated the Preamble as part of the Constitution — a holding Kesavananda later reversed.
+Assertion (A): Berubari also treated the Preamble as part of the Constitution — a holding Kesavananda later reversed.
 
 Select the correct answer from the code given below:
+
+Reason (R): Berubari (1960) held that ceding Indian territory needs a constitutional amendment.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -1016,9 +1013,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true; (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** Berubari treated Preamble as not part; Kesavananda later held it is part.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Berubari treated Preamble as not part; Kesavananda later held it is part.
 
 </details>
 
@@ -1146,17 +1143,15 @@ D. I–II–IV–III
 2. Secular character; separation of powers; federal character
 3. Unlimited amending power under Article 368(5) as upheld forever
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. Only 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** Minerva later struck unlimited-368 attempts; statement 3 is false.
 
@@ -1250,10 +1245,10 @@ D. Neither 1 nor 2
 
 **Q26.** With reference to floor test teaching after Bommai, which of the following is/are correct?
 
-1. Majority is tested on the House floor.
-2. Raj Bhavan letters and media claims replace a House vote.
+1. Raj Bhavan letters and media claims replace a House vote.
 
 Select the correct answer from the code given below:
+2. Majority is tested on the House floor.
 
 A. Only 1
 B. Only 2
@@ -1263,7 +1258,7 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 is correct.
+**Ans: B.** Only 2 is correct.
 
 **Logic:** Floor test is the majority fact.
 
@@ -1289,11 +1284,11 @@ D. I–II–IV–III
 
 **Q28.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): Coelho (2007) is a nine-judge affirmation that post-cut-off Ninth Schedule laws still face Basic Structure review.
-
-Reason (R): Pre-cut-off and post-cut-off timing does not matter in Ninth Schedule questions.
+Assertion (A): Pre-cut-off and post-cut-off timing does not matter in Ninth Schedule questions.
 
 Select the correct answer from the code given below:
+
+Reason (R): Coelho (2007) is a nine-judge affirmation that post-cut-off Ninth Schedule laws still face Basic Structure review.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -1303,9 +1298,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true; (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** Cut-off timing (24 Apr 1973) matters in Waman Rao / Coelho teaching.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Cut-off timing (24 Apr 1973) matters in Waman Rao / Coelho teaching.
 
 </details>
 
@@ -1336,17 +1331,15 @@ D. Neither 1 nor 2
 2. Kesavananda restored amending power with a Basic Structure ceiling.
 3. Marking Golaknath as “Basic Structure invented” is correct.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. Only 3
+C. 1 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** Statement 3 is the classic false claim.
 

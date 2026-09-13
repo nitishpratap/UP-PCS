@@ -423,24 +423,23 @@ D. Carbon credit trading under Kyoto
 
 **Q1.** With reference to ozone, which of the following statements is/are correct?
 
-1. Stratospheric ozone is protective “good” ozone.
+1. tropospheric ozone is protective “good” ozone.
 2. Tropospheric ozone is a ground-level pollutant.
 3. About 90% of ozone is tropospheric.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2
+B. Only 1
+C. 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: A.** Only 2 is correct.
 
-**Logic:** ~90% is stratospheric — statement 3 false.
+**Logic:** Only statement 2 remains true among the numbered claims. Statement 1 is false. Statement 2 is true. Statement 3 is false.
 
 </details>
-
 **Q2.** Match List-I with List-II:
 
 | List-I | List-II |
@@ -528,20 +527,20 @@ D. 3-2-1
 **Q6.** With reference to ODS, which of the following statements is/are correct?
 
 1. Main ODS include CFCs, Halons, CCl₄, methyl chloroform, methyl bromide, HCFCs.
-2. One chlorine atom can destroy on the order of 100,000 ozone molecules.
+2. One chlorine atom destroys only about ten ozone molecules before becoming inert.
 3. HFCs are classic ODS under the original Montreal ODS list.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 3
+B. Only 2
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** HFCs are high-GWP gases under Kigali — not classic ODS.
+**Logic:** Statement 1 correctly lists main ODS. Statement 2 understates catalytic destruction (~10⁵ ozone molecules per Cl). Statement 3 is false — HFCs are not classic Montreal ODS (Kigali/climate, not original ODS list).
 
 </details>
 

@@ -335,20 +335,20 @@ D. Bodhgaya
 **Q1.** With reference to major sculpture schools, which of the following statements is/are correct?
 
 1. Gandhara uses grey schist and Greco-Roman modelling in the north-west.
-2. Mathura uses red sandstone and is an Uttar Pradesh school.
-3. Amaravati is a grey-schist freestanding icon school of Punjab.
+2. Amaravati is a grey-schist freestanding icon school of Punjab.
+3. Mathura uses polished black basalt and is a Kerala school.
 
-A. 1 and 3 only
-B. 1 and 2 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 2
+B. 2 and 3
+C. Only 1
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: C.** Only 1 is correct.
 
-**Logic:** Amaravati uses limestone narrative panels in Andhra.
+**Logic:** Amaravati uses limestone narrative panels in Andhra. Mathura uses red sandstone and is an Uttar Pradesh school.
 
 </details>
 
@@ -362,15 +362,15 @@ D. 1, 2 and 3
 
 Which of the pairs given above is/are correctly matched?
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only pairs 1 and 2 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Abhaya is fearlessness. Varada is the boon mudra.
 
@@ -435,30 +435,30 @@ D. 2-4-1-3
 **Q6.** With reference to Gupta Sarnath Buddha, which of the following statements is/are correct?
 
 1. It often shows the dharmachakra mudra.
-2. Transparent robe and spiritual calm mark the style.
-3. It is identical in heavy volume to Kushan Mathura figures.
+2. It is identical in heavy volume to Kushan Mathura figures.
+3. Transparent robe and spiritual calm are rejected in favour of heavy Kushan volume.
 
-A. 1 and 3 only
-B. 1 and 2 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. 1 and 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Mathura Kushan figures are heavier. Gupta Sarnath looks lighter and calmer.
+**Logic:** Mathura Kushan figures are heavier. Gupta Sarnath looks lighter and calmer with a transparent robe.
 
 </details>
 
 **Q7.** Match List-I with List-II and select the correct answer using the code given below the Lists.
 
 **List-I (School / work)**
-A. 1 2 4 3
-B. 2 1 3 4
-C. 2 1 4 3
-D. 2 4 1 3
+A. Gandhara
+B. Mathura
+C. Amaravati
+D. Chunar / Mauryan polish
 
 **List-II**
 1. Red sandstone; UP
@@ -485,20 +485,20 @@ D. 2 4 1 3
 **Q8.** With reference to bronze sculpture, which of the following statements is/are correct?
 
 1. Indus Dancing Girl is lost-wax bronze.
-2. Chola Nataraja bronzes are processional temple icons.
+2. Chola Nataraja bronzes are Ashokan Mauryan polish pillars.
 3. Dhokra is identical to Chola temple bronze in court atelier origin.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. All 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: A.** Only 1 is correct.
 
-**Logic:** Dhokra is tribal bell-metal craft, not Chola utsava murti.
+**Logic:** Chola Nataraja bronzes are processional temple icons. Dhokra is tribal bell-metal craft, not Chola utsava murti.
 
 </details>
 
@@ -541,19 +541,19 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q11.** With reference to Nataraja iconography, which of the following statements is/are correct?
 
-1. Nataraja holds damaru and fire.
-2. The right foot is placed on Apasmara.
-3. The figure stands outside any prabhamandala in standard Chola icons.
+1. The figure stands outside any prabhamandala in standard Chola icons.
+2. Nataraja holds damaru and fire.
+3. The right foot is placed on Apasmara.
 
-A. 1 and 3 only
-B. 1 and 2 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: A.** 2 and 3 only are correct.
 
 **Logic:** Standard Chola Nataraja stands in a prabhamandala.
 
@@ -569,15 +569,15 @@ D. 1, 2 and 3
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. All 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only pairs 1 and 2 are correct.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** Early Sanchi remains largely aniconic before later iconic additions.
 
@@ -713,18 +713,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q19.** With reference to freestanding versus narrative sculpture, which of the following statements is/are correct?
 
 1. Mathura is known for freestanding icons.
-2. Amaravati is known for long narrative limestone panels around the stupa.
-3. Both schools are identical grey-schist ateliers of the north-west.
+2. Both schools are identical grey-schist ateliers of the north-west.
+3. Amaravati is known for long narrative limestone panels around the stupa.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 3
+B. Only 1, 2 and 3
+C. Only 1 and 2
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: A.** 1 and 3 only are correct.
 
 **Logic:** Gandhara is the NW schist school. Mathura and Amaravati differ in form and region.
 
@@ -740,15 +740,15 @@ D. 1, 2 and 3
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. All 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only pairs 1 and 2 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Konark is Odisha Sun chariot. Khajuraho is Chandela MP.
 
@@ -790,15 +790,15 @@ D. 2 1 4 3
 2. Gandhara and Amaravati are not UP schools.
 3. Mathura red-sandstone school is outside UP.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** Mathura is the UP indigenous school.
 
@@ -826,10 +826,10 @@ D. Dancing Girl — Chola temple Nataraja from Thanjavur
 2. The abacus carries horse, bull, elephant and lion with dharmachakra.
 3. It became the National Emblem in 1950.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -859,19 +859,19 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q26.** With reference to temple sculpture, which of the following statements is/are correct?
 
-1. Mahabalipuram is a Pallava relief centre.
-2. Hoysala carving is often taught through soapstone / chloritic schist.
-3. Khajuraho is the Ganga-period Sun chariot temple of Odisha.
+1. Khajuraho is the Ganga-period Sun chariot temple of Odisha.
+2. Mahabalipuram is a Pallava relief centre.
+3. Hoysala carving is often taught through soapstone / chloritic schist.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 2 and 3 only are correct.
 
 **Logic:** Konark is the Odisha Sun chariot. Khajuraho is Chandela MP.
 
@@ -883,15 +883,15 @@ D. 1, 2 and 3
 2. Early Buddhist symbols include wheel, tree and empty throne.
 3. Aniconic art means only bronze Nataraja was allowed.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. Only 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Aniconic means symbolic representation of the Buddha, not Nataraja rules.
 
@@ -903,15 +903,15 @@ D. 1, 2 and 3
 2. Gupta Sarnath — lighter, calmer idealism
 3. Mauryan polish — mirror Chunar surface
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Volume and finish contrasts are standard school traps.
 
@@ -919,19 +919,19 @@ D. 1, 2 and 3
 
 **Q29.** With reference to Ahichhatra and Kaushambi, which of the following statements is/are correct?
 
-1. Both are UP terracotta / craft centres.
-2. They are Gandhara schist ateliers.
+1. They are Gandhara schist ateliers.
+2. Both are UP terracotta / craft centres.
 3. They belong to the UP sculpture–craft map alongside Mathura and Sarnath.
 
-A. 1 and 3 only
-B. 1 and 2 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. Only 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 3 are correct.
+**Ans: C.** 2 and 3 only are correct.
 
 **Logic:** They are figurine–craft centres, not Gandhara schist ateliers.
 

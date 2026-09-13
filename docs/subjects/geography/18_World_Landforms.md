@@ -5850,22 +5850,22 @@ D. Pampas
 **Q1.** With reference to continent area order (largest → smallest), which of the following statements is/are correct?
 
 1. Asia is the largest continent by area.
-2. Australia is the smallest continent.
-3. Africa has the largest number of countries (~54).
+2. Australia is the largest continent by area.
+3. Europe has the largest number of countries (~54).
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 1, 2 and 3
-C. 1 and 3 only
-D. 2 and 3 only
+A. 2 and 3
+B. Only 1
+C. Only 1 and 2
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** All three are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Area ladder: Asia → Africa → N. America → S. America → Antarctica → Europe → Australia.
+**Logic:** Asia is the largest continent. Australia is the smallest. Africa has the largest number of countries (~54).
 
 </details>
 
@@ -5879,15 +5879,15 @@ D. 2 and 3 only
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 3
+C. 1 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correctly matched.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** Guyana is in South America, not Africa.
 
@@ -5987,45 +5987,45 @@ D. 2 and 3 only
 
 **Q7.** With reference to grasslands, which of the following statements is/are correct?
 
-1. Pampas = Argentina; Campos = Brazil; Llanos = Venezuela–Colombia.
+1. Pampas = Brazil; Campos = Argentina; Llanos = Hungary.
 2. Prairie = North America; Steppe = Eurasia; Veld = South Africa; Downs = Australia.
-3. Puszta is associated with Hungary.
+3. Puszta is associated with Venezuela–Colombia Llanos only.
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 2
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: B.** Only 2 is correct.
 
-**Logic:** Do not dump Pampas into Brazil or Veld into Australia.
+**Logic:** Pampas = Argentina; Campos = Brazil; Llanos = Venezuela–Colombia. Prairie/Steppe/Veld/Downs map is standard. Puszta is Hungary.
 
 </details>
 
 **Q8.** Consider the following statements about deserts:
 
-1. Hot-desert size order includes Great Sandy < Gobi < Arabian < Sahara.
-2. The Gobi is a cold desert of Mongolia and China.
-3. The Atacama is among the driest deserts; the Thar is the densest populated desert.
+1. Hot-desert size order places Sahara as the smallest ahead of Great Sandy.
+2. Teaching size order (smallest → largest) is Great Sandy → Gobi → Arabian → Sahara.
+3. The Atacama is the densest populated desert; the Thar is among the driest uninhabited deserts.
 
 Which of the statements given above is/are correct?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 2
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: B.** Only 2 is correct.
 
-**Logic:** Do not place the Gobi in Kazakhstan/Russia as a sole-country dump.
+**Logic:** Size ladder is Great Sandy < Gobi < Arabian < Sahara. Gobi is a cold desert of Mongolia and China. Atacama is among the driest; Thar is the densest populated desert. A fjord is a drowned glacial trough, not a desert yardang.
 
 </details>
 
@@ -6084,15 +6084,15 @@ D. A-4, B-1, C-2, D-3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. All 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Do not rank Australia as an island in the Greenland–New Guinea ladder.
 
@@ -6124,20 +6124,18 @@ D. 1, 2, 3 and 4
 **Q13.** With reference to Mediterranean climate, which of the following statements is/are correct?
 
 1. Rain falls mainly in winter on five west coasts near about 30–45°.
-2. Summers are dry under the subtropical high.
-3. ‘Land of Big Games’ points to Mediterranean scrub rather than savanna.
+2. ‘Land of Big Games’ points to Mediterranean scrub rather than savanna.
+3. Summers are dry under the subtropical high.
 
-Select the correct answer from the code given below:
-
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 3
+B. Only 2
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: A.** 1 and 3 only are correct.
 
 **Logic:** ‘Land of Big Games’ = tropical savanna, not Mediterranean scrub.
 
@@ -6168,11 +6166,11 @@ D. 2-4-1-3
 
 **Q15.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): Kilimanjaro sits on the East African Rift.
-
-Reason (R): Kilimanjaro is a classic Pacific Ring of Fire volcano like Fuji.
+Assertion (A): Kilimanjaro is a classic Pacific Ring of Fire volcano like Fuji.
 
 Select the correct answer from the code given below:
+
+Reason (R): Kilimanjaro sits on the East African Rift.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -6182,9 +6180,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true, but (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** Rift-volcano identity is correct; Ring of Fire placement is the trap.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Rift-volcano identity is correct; Ring of Fire placement is the trap.
 
 </details>
 
@@ -6218,15 +6216,15 @@ D. 2 and 3 only
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Do not treat Selva as a grassland name.
 
@@ -6265,15 +6263,15 @@ D. A-4, B-3, C-1, D-2
 
 Which of the statements given above is/are correct?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1, 2 and 3
+B. Only 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Do not dump Telegraphic Plateau into the Indian Ocean.
 
@@ -6282,20 +6280,18 @@ D. 1, 2 and 3
 **Q20.** With reference to temperate grasslands and soils, which of the following statements is/are correct?
 
 1. Prairie, Steppe, Pampas, Veld and Downs sit on chernozem-type wheat soils.
-2. Chernozem is the typical equatorial laterite of the Amazon.
-3. Residual mountains are worn leftovers of old folds, not young Himalayan folds.
+2. Residual mountains are worn leftovers of old folds, not young Himalayan folds.
+3. Chernozem is the typical equatorial laterite of the Amazon.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 3 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Chernozem belongs with temperate grassland belts, not equatorial laterite.
 
@@ -6392,15 +6388,15 @@ D. 2 and 3 only
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. Only 1 and 2
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Do not swap Pamir ‘Roof’ phrasing with Tibet’s highest-large-plateau identity.
 
@@ -6408,21 +6404,19 @@ D. 1, 2 and 3
 
 **Q26.** Consider the following statements about Namib and Patagonia:
 
-1. The Namib is a fog-coast desert of south-west Africa.
-2. Patagonia is Argentina’s rain-shadow / temperate desert belt.
-3. Atacama lies only in southern Chile and never touches Peru.
+1. Atacama lies only in southern Chile and never touches Peru.
+2. The Namib is a fog-coast desert of south-west Africa.
+3. Patagonia is Argentina’s rain-shadow / temperate desert belt.
 
-Which of the statements given above is/are correct?
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 2 and 3 only are correct.
 
 **Logic:** Atacama is N Chile / S Peru — not southern Chile alone.
 
@@ -6461,15 +6455,15 @@ D. A-4, B-1, C-2, D-3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Do not swap baobab into taiga or epiphytes into hot desert.
 
@@ -6497,17 +6491,15 @@ D. Europe has the most countries.
 2. British Columbia is nicknamed the ‘Sea of Mountains’.
 3. The Alps are correctly placed as a mountain system of England.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. 1 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** Alps = Switzerland / central Europe — not England.
 

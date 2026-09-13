@@ -836,24 +836,23 @@ D. Always cheaper than petrol with zero land use
 
 **Q1.** With reference to renewable energy, which of the following statements is/are correct?
 
-1. Replenishes on a human timescale — sun, wind, water, biomass, geothermal.
+1. Renewable energy excludes sun, wind, water, biomass and geothermal on a human timescale.
 2. Nuclear is low-carbon but usually not counted as renewable in Indian prelims framing.
 3. Coal is a renewable source.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. 2 and 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: D.** Only 2 is correct.
 
-**Logic:** Coal is non-renewable.
+**Logic:** Statement 2 is true (nuclear is low-carbon but usually not counted as renewable in Indian prelims framing). Statement 1 wrongly excludes the classic renewable sources. Statement 3 is false — coal is non-renewable.
 
 </details>
-
 **Q2.** Match List-I with List-II:
 
 | List-I | List-II |
@@ -881,20 +880,20 @@ D. A-3, B-1, C-2
 **Q3.** Which of the following pairs is/are correctly matched?
 
 1. Bhadla — Rajasthan mega solar park
-2. ISA — 2015 India–France COP21; HQ Gurugram
-3. Bhadla — Gujarat as the only correct “largest” lock
+2. ISA — 2007 India–France COP21; HQ Gurugram
+3. Bhadla — Gujarat as the only correct “largest” fact
 
-A. 1, 2 and 3
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1 and 2 only
+A. 1 and 2
+B. Only 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** Bhadla = Rajasthan — not Gujarat largest trap.
+**Logic:** Only statement 1 remains true among the numbered claims. Statement 1 is true. Statement 2 is false. Statement 3 is false.
 
 </details>
 
@@ -914,7 +913,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Ans: A.** Both true; OSOWOG does not explain PM-KUSUM.
 
-**A/R logic:** Two solar policy locks.
+**A/R logic:** Two solar policy facts.
 
 </details>
 
@@ -950,7 +949,7 @@ D. HQ Geneva; began 1988
 
 **Ans: B.** 2015; Gurugram.
 
-**Logic:** ISA lock.
+**Logic:** ISA fact.
 
 </details>
 
@@ -1284,7 +1283,7 @@ D. Only geothermal wells
 
 </details>
 
-**Q24.** How many of the following ISA locks are correct?
+**Q24.** How many of the following ISA facts are correct?
 
 2015 start; India–France COP21; HQ Gurugram
 

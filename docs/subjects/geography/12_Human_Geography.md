@@ -754,22 +754,22 @@ D. Greater Mumbai, Kolkata, Delhi, Chennai
 **Q1.** With reference to approaches in human geography, which of the following statements is/are correct?
 
 1. Environmental determinism (Ratzel / Semple) says nature controls culture.
-2. Possibilism (Vidal de la Blache) says humans choose among nature’s options.
-3. Neo-determinism (Griffith Taylor) is stop-and-go determinism.
+2. Possibilism (Ratzel / Semple) says nature controls culture with no human choice.
+3. Neo-determinism rejects stop-and-go and equals pure environmental determinism.
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three approach statements are correct.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** Do not swap determinism with possibilism.
+**Logic:** Environmental determinism is Ratzel/Semple. Possibilism is Vidal de la Blache. Neo-determinism (Griffith Taylor) is stop-and-go determinism.
 
 </details>
 
@@ -783,15 +783,15 @@ D. 1, 2 and 3
 
 Which of the pairs given above is/are correctly matched?
 
-A. 2 and 3 only
-B. 1, 2 and 3
-C. 1 and 2 only
-D. 1 and 3 only
+A. Only 3
+B. 1 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only pairs 1 and 2 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** A census town need not be a municipality.
 
@@ -837,23 +837,23 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q5.** With reference to Indian city-size thresholds, which of the following statements is/are correct?
 
-1. Metropolitan cities (NCERT teaching) are 10 lakh–50 lakh.
-2. Mega cities (NCERT) are above 50 lakh — six in 2011.
+1. Metropolitan cities (NCERT teaching) are above 50 lakh only.
+2. Mega cities (NCERT) are 10 lakh–50 lakh.
 3. A UN megacity is ≥1 crore.
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 1, 2 and 3
-C. 2 and 3 only
-D. 1 and 3 only
+A. 1 and 2
+B. Only 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** All three thresholds are distinct and correct.
+**Ans: B.** Only 3 is correct.
 
-**Logic:** Do not mix NCERT mega with UN megacity.
+**Logic:** NCERT metropolitan = 10–50 lakh; mega = above 50 lakh (six in 2011). A UN megacity is ≥1 crore — do not mix the thresholds.
 
 </details>
 
@@ -908,20 +908,18 @@ D. A-1, B-2, C-4, D-3
 **Q8.** With reference to Uttar Pradesh Smart Cities, which of the following statements is/are correct?
 
 1. The Central / Mission Smart City list for UP is 10 cities.
-2. Ghaziabad is in that Central-10 Mission list.
-3. UP State Smart Cities (2019) include Ghaziabad among seven Nagar Nigams.
+2. UP State Smart Cities (2019) include Ghaziabad among seven Nagar Nigams.
+3. Ghaziabad is in that Central-10 Mission list.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 3 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Ghaziabad is State-2019, not Mission-100 Central-10.
 
@@ -1079,15 +1077,15 @@ D. Only census villages without outgrowths
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 1, 2 and 3
-C. 2 and 3 only
-D. 1 and 3 only
+A. 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** All three evolution pairs are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Satellite towns include Ghaziabad in the NCR teaching set.
 
@@ -1285,15 +1283,15 @@ D. SPMRM launch — 2015
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 1, 2 and 3
-C. 2 and 3 only
-D. 1 and 3 only
+A. Only 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** All three criteria are required.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Same census-town gate as in Population Geography.
 
@@ -1307,10 +1305,10 @@ D. 1 and 3 only
 
 Which of the statements given above is/are correct?
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. 1 and 2
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>

@@ -704,19 +704,19 @@ D. 1, 2 and 3
 
 1. Threatened — VU + EN + CR
 2. Endangered alone — full Threatened set
-3. Risk order — CR > EN > VU among living threatened tiers
+3. Among living threatened tiers the risk order is VU > EN > CR.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. Only 1
+C. 1 and 2
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 3.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Endangered ≠ all Threatened.
+**Logic:** Statement 1 is true (Threatened = VU+EN+CR). Statement 2 is false — Endangered alone is not the full Threatened set. Statement 3 reverses CR > EN > VU.
 
 </details>
 
@@ -766,24 +766,23 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q5.** With reference to mangroves, which of the following statements is/are correct?
 
-1. Salt-tolerant coastal forests with pneumatophores.
+1. Mangroves are freshwater-only inland forests without pneumatophores.
 2. Often viviparous seeds.
 3. Sundarbans is a coral-reef hotspot identical to Lakshadweep atolls.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 2
+C. 1 and 2
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2.
+**Ans: B.** Only 2 is correct.
 
-**Logic:** Sundarbans = mangroves — not coral list.
+**Logic:** Statement 2 is true (vivipary is common). Statement 1 denies salt tolerance/pneumatophores. Statement 3 confuses Sundarbans mangroves with Lakshadweep coral atolls.
 
 </details>
-
 **Q6.** Arrange MISHTI year trap:
 
 A. 2019 mangrove mission
@@ -961,7 +960,7 @@ D. 3 only
 
 </details>
 
-**Q15.** How many of the following UP negative locks are correct?
+**Q15.** How many of the following UP negative facts are correct?
 
 Rudrasagar≠UP; Sultanpur≠UP; dolphin≠marine open ocean
 
@@ -1131,7 +1130,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Ans: A.** Both true; productivity does not explain the coast-length figure.
 
-**A/R logic:** Two marine locks.
+**A/R logic:** Two marine facts.
 
 </details>
 

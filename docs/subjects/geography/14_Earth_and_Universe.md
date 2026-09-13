@@ -6738,22 +6738,22 @@ D. Neither 1 nor 2
 **Q1.** With reference to the solar system, which of the following statements is/are correct?
 
 1. Venus is the hottest planet due to greenhouse effect.
-2. Earth has the highest mean density among planets in the teaching set.
-3. Mercury has the fastest orbit and (with Venus) no moon.
+2. Mercury has the highest mean density among planets in the teaching set.
+3. Venus has the fastest orbit and the most moons in the inner solar system.
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 1 and 2
 B. 1, 2 and 3
-C. 2 and 3 only
-D. 1 and 3 only
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** All three statements are correct.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** Do not mark Mercury as hottest.
+**Logic:** Venus is hottest due to greenhouse effect. Earth has the highest mean density. Mercury has the fastest orbit and (with Venus) no moon.
 
 </details>
 
@@ -6767,15 +6767,15 @@ D. 1 and 3 only
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1 and 3 only
-B. 1, 2 and 3
-C. 1 and 2 only
-D. 2 and 3 only
+A. 2 and 3
+B. Only 1
+C. 1 and 2
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only pairs 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Titan belongs to Saturn; Phobos/Deimos belong to Mars.
 
@@ -6799,11 +6799,11 @@ D. Ozone layer — Troposphere
 
 **Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): Seasons are caused by Earth’s 23½° axial tilt.
-
-Reason (R): Perihelion in early January makes Northern Hemisphere summer.
+Assertion (A): Perihelion in early January makes Northern Hemisphere summer.
 
 Select the correct answer from the code given below:
+
+Reason (R): Seasons are caused by Earth’s 23½° axial tilt.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -6813,9 +6813,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true; (R) is false — perihelion is NH winter.
+**Ans: B.** A false, R true.
 
-**A/R logic:** Do not equate closest Sun with summer.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Do not equate closest Sun with summer.
 
 </details>
 
@@ -6896,15 +6896,15 @@ D. A-1, B-2, C-3, D-4
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 1, 2 and 3
-C. 2 and 3 only
-D. 1 and 3 only
+A. Only 1
+B. Only 1 and 2
+C. Only 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** All three El Niño statements are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Warm water does not mean more plankton here.
 
@@ -7002,15 +7002,15 @@ D. A-1, B-2, C-4, D-3
 
 Which statements are correct?
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. All 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three calendar facts are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Solstices ~21 June / 22 December.
 
@@ -7024,15 +7024,15 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 1, 2 and 3
-C. 2 and 3 only
-D. 1 and 3 only
+A. All 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** All three statements are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** New ocean crust forms at divergent mid-ocean ridges.
 
@@ -7291,15 +7291,15 @@ D. Neptune comes before Uranus
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 1, 2 and 3
-C. 2 and 3 only
-D. 1 and 3 only
+A. Only 1, 2 and 3
+B. 1 and 2
+C. 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** All three statements are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Most abundant volcanic gas is water vapour.
 

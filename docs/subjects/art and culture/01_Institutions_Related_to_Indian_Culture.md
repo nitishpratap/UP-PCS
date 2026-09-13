@@ -821,22 +821,20 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q5.** With reference to ancient centres of learning, which of the following statements is/are correct?
 
 1. Taxila lay in Gandhara and is today in Pakistan.
-2. Vikramashila was founded by Pala king Dharmapala at Bhagalpur.
+2. Vikramashila was founded by Pala king Devapala at Nalanda itself.
 3. Taxila was a single mahavihara campus identical in organisation to Nalanda.
 
-Select the correct answer from the code given below:
-
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. Only 3
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: A.** Only 1 is correct.
 
-**Logic:** Taxila was a multi-teacher city, not one mahavihara campus like Nalanda.
+**Logic:** Vikramashila was founded by Dharmapala at Bhagalpur, not by Devapala at Nalanda. Taxila was a multi-teacher city, not one mahavihara campus.
 
 </details>
 
@@ -868,42 +866,40 @@ D. 2 and 4 only
 **Q7.** With reference to museums in India, which of the following statements is/are correct?
 
 1. The Indian Museum, Kolkata (1814) is India’s oldest museum.
-2. The National Museum, Delhi dates to 1949.
-3. The Allahabad Museum at Prayagraj was founded in 1931.
+2. The National Museum, Delhi dates to 1857 under the East India Company.
+3. The Allahabad Museum at Prayagraj was founded in 1947.
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: A.** Only 1 is correct.
 
-**Logic:** Oldest museum = Kolkata 1814. National Museum Delhi = 1949. Allahabad Museum = 1931.
+**Logic:** National Museum, Delhi dates to 1949. Allahabad Museum was founded in 1931. Kolkata 1814 remains the oldest-museum tag.
 
 </details>
 
 **Q8.** Consider the following statements about the Archaeological Survey of India and related bodies:
 
-1. ASI was founded in 1861 under Alexander Cunningham.
-2. The National Archives of India began in 1891.
-3. ICCR (1950) belongs to the Ministry of Culture.
+1. ICCR (1950) belongs to the Ministry of Culture.
+2. ASI was founded in 1861 under Alexander Cunningham.
+3. The National Archives of India began in 1891.
 
-Which of the statements given above is/are correct?
-
-A. 2 and 3 only
-B. 1 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: D.** 2 and 3 only are correct.
 
 **Logic:** ICCR belongs to the Ministry of External Affairs, not Culture.
 
@@ -997,21 +993,19 @@ D. 1, 2, 3 and 4
 
 **Q13.** With reference to Vikramashila, which of the following statements is/are correct?
 
-1. Atisha Dipankara taught there and later carried reform to Tibet.
-2. It fell around 1203 to Bakhtiyar Khilji.
-3. It is a separate UNESCO World Heritage site like Nalanda.
+1. It is a separate UNESCO World Heritage site like Nalanda.
+2. Atisha Dipankara taught there and later carried reform to Tibet.
+3. It fell around 1203 to Bakhtiyar Khilji.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 3
+B. Only 2
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 2 and 3 only are correct.
 
 **Logic:** Vikramashila is not a separate World Heritage site.
 
@@ -1041,15 +1035,15 @@ D. ICCR headquarters function — Ministry of Culture
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1, 2 and 3
+B. Only 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** 1985 Culture ministry / IGNCA, 1979 CCRT, and 2015 EBSB are standard year tags.
 
@@ -1079,20 +1073,18 @@ D. Neither 1 nor 2
 **Q17.** With reference to Taxila, which of the following statements is/are correct?
 
 1. It is linked with Panini and Chanakya in traditional accounts.
-2. It became a UNESCO World Heritage site in 1980.
-3. The Indian ASI is the custodian of the Taxila World Heritage property.
+2. The Indian ASI is the custodian of the Taxila World Heritage property.
+3. It became a UNESCO World Heritage site in 1980.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. 1 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 1 and 3 only are correct.
 
 **Logic:** Taxila lies in Pakistan. Indian ASI is not its custodian.
 
@@ -1114,9 +1106,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both (A) and (R) are true and (R) correctly explains the end-of-study dakshina practice.
+**Ans: A.** Both (A) and (R) are true, but (R) is not the correct explanation of (A).
 
-**A/R logic:** Residential guru–shishya living explains why dakshina was not a monthly admission fee.
+**A/R logic:** End-of-study dakshina is a payment/timing custom. Residential household organisation is a true parallel feature of the gurukul, not the reason dakshina came at the end.
 
 </details>
 
@@ -1130,15 +1122,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. All 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three pairs are correctly matched.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Sarnath museum, Agra circle monuments, and NMM 2003 are standard UP / national tags.
 
@@ -1150,17 +1142,15 @@ D. 1, 2 and 3
 2. The ashrama order is Brahmacharya → Grihastha → Vanaprastha → Sannyasa.
 3. Sixty-four Kalas means sixty-four Vedas.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Kalas are arts and skills, not Vedas.
 
@@ -1168,21 +1158,19 @@ D. 1, 2 and 3
 
 **Q21.** Which of the following is/are correctly matched?
 
-1. Hiuen Tsang — studied at Nalanda
-2. Atisha — associated with Vikramashila
-3. Nav Nalanda Mahavihara — same legal body as the MEA Nalanda University of 2010
+1. Nav Nalanda Mahavihara — same legal body as the MEA Nalanda University of 2010
+2. Hiuen Tsang — studied at Nalanda
+3. Atisha — associated with Vikramashila
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. Only 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 2 and 3 only are correct.
 
 **Logic:** Nav Nalanda Mahavihara (1951) is a separate deemed university for Pali / Buddhist studies.
 
@@ -1207,20 +1195,18 @@ D. The Yuva Puraskar is identical to the Jnanpith Award
 **Q23.** Consider the following statements about protected monuments and site museums:
 
 1. A protected monument is an AMASR-notified structure.
-2. A site museum is an ASI museum at the excavation or monument complex.
-3. Every protected monument automatically becomes a World Heritage site.
+2. Every protected monument automatically becomes a World Heritage site.
+3. A site museum is an ASI museum at the excavation or monument complex.
 
-Which of the statements given above is/are correct?
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 3 only are correct.
 
 **Logic:** World Heritage listing is separate from ordinary AMASR protection.
 
@@ -1271,17 +1257,15 @@ D. Max Müller founded the Asiatic Society of Bengal in 1784
 2. Its library complex is remembered as Dharmaganja.
 3. It was destroyed around 1193 by Iltutmish.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** The destroyer associated with ~1193 is Bakhtiyar Khilji, not Iltutmish.
 
@@ -1297,15 +1281,15 @@ D. 1, 2 and 3
 
 Which of the pairs given above are correctly matched?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1, 2 and 3
+B. Only 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three pairs are correctly matched.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Wilkins, Jones and Macaulay are standard Indology / education tags.
 
@@ -1352,20 +1336,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q30.** With reference to the National Mission for Manuscripts and Gyan Bharatam, which of the following statements is/are correct?
 
 1. The National Mission for Manuscripts began in 2003.
-2. Gyan Bharatam is described as a restructured manuscript mission for roughly 2024–31.
-3. Gyan Bharatam replaces the Archaeological Survey of India.
+2. Gyan Bharatam replaces the Archaeological Survey of India.
+3. Gyan Bharatam is described as a restructured manuscript mission for roughly 2024–31.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 3
+C. Only 2
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 1 and 3 only are correct.
 
 **Logic:** Gyan Bharatam restructures the manuscript mission. It does not replace ASI.
 

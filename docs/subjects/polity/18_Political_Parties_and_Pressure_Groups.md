@@ -1634,20 +1634,18 @@ D. Both 1 and 2
 **Q2.** Consider the following pairs:
 
 1. Registration — RPA section 29A (RUPP)
-2. Recognition — Election Symbols Order, 1968
-3. Recognition — automatic upon registration alone
+2. Recognition — automatic upon registration alone
+3. Recognition — Election Symbols Order, 1968
 
-Which of the pairs given above is/are correctly matched?
-
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 3
+B. Only 2
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: A.** 1 and 3 only are correct.
 
 **Logic:** Registration ≠ recognition.
 
@@ -1742,40 +1740,40 @@ D. 2-4-3-1
 **Q7.** With reference to India’s party system, which of the following statements is/are correct?
 
 1. India has a multi-party system, not a classic two-party system.
-2. 1967 brought large state coalitions; 1989–2014 was a long coalition era at the Centre.
-3. 2014 returned a single-party majority; 2024 again produced an NDA coalition with BJP on 240 seats.
+2. 1967 ended all state coalitions; 1989–2014 was a continuous single-party majority era at the Centre.
+3. 2014 returned a hung House; 2024 produced a single-party majority with BJP above 300 seats.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. Only 1
+B. Only 1 and 2
+C. All 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correct.
+**Ans: A.** Only 1 is correct.
 
-**Logic:** System type + coalition eras + 2014/2024.
+**Logic:** India has a multi-party system. 1967 brought large state coalitions; 1989–2014 was a long coalition era. 2014 returned a single-party majority; 2024 again produced an NDA coalition with BJP on 240 seats.
 
 </details>
 
 **Q8.** Consider the following statements:
 
-1. A hung House means no single party has a majority.
-2. A coalition means two or more parties govern together.
-3. A hung House can never produce a coalition.
+1. A hung House means no single party has a majority; a coalition means two or more parties govern together.
+2. A coalition means a single party governs alone with a clear majority.
+3. Political parties are identical with pressure groups in organisation and aims.
 
-A. 2 and 3 only
-B. 1 and 3 only
-C. 1, 2 and 3
-D. 1 and 2 only
+A. Only 2 and 3
+B. Only 1
+C. 1 and 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2 are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Hung House may still produce a coalition.
+**Logic:** A hung House means no single party has a majority. A coalition means two or more parties govern together. A hung House may still produce a coalition. Pressure groups do not normally contest elections to form the Council of Ministers.
 
 </details>
 
@@ -1840,19 +1838,19 @@ D. None
 
 **Q12.** With reference to symbols, which of the following statements is/are correct?
 
-1. National parties get an all-India reserved symbol.
-2. State parties get a reserved symbol only in that State.
-3. Free symbols go to recognised national parties only.
+1. Free symbols go to recognised national parties only.
+2. National parties get an all-India reserved symbol.
+3. State parties get a reserved symbol only in that State.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 2 and 3 only are correct.
 
 **Logic:** Free symbols = unrecognised + independents.
 
@@ -1866,15 +1864,15 @@ D. 1, 2 and 3
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. Only 1 and 2
+B. All 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Broom / elephant / book.
 
@@ -1987,18 +1985,18 @@ D. 2-4-3-1
 **Q19.** With reference to national-party tests, which of the following statements is/are correct?
 
 1. One route is 2% of Lok Sabha seats from at least three States.
-2. Another route is State-party status in four States.
-3. Recognition criteria use ‘old party’ status rather than votes/seats.
+2. Recognition criteria use ‘old party’ status rather than votes/seats.
+3. Another route is State-party status in four States.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 3
+C. Only 2
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 1 and 3 only are correct.
 
 **Logic:** Votes/seats tests — not mere antiquity.
 
@@ -2010,15 +2008,15 @@ D. 1, 2 and 3
 2. They work through persuasion, media, litigation, and access.
 3. Their normal path is to form the ministry after winning a majority of seats.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. Only 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Pressure groups influence — they do not normally form the ministry.
 
@@ -2030,15 +2028,15 @@ D. 1, 2 and 3
 2. Withdrawal of support — can trigger floor test and change of government
 3. Multi-party system — means every election must end in a coalition
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Multi-party describes system type — not mandatory coalition every time.
 
@@ -2163,9 +2161,9 @@ D. Neither 1 nor 2
 
 **Q28.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): The right to form associations and unions is under Article 19(1)(c).
+Assertion (A): The right to strike is also a Fundamental Right under the same clause.
 
-Reason (R): The right to strike is also a Fundamental Right under the same clause.
+Reason (R): The right to form associations and unions is under Article 19(1)(c).
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -2175,9 +2173,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true, but (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** Form unions ≠ strike as FR.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Form unions ≠ strike as FR.
 
 </details>
 
@@ -2206,15 +2204,15 @@ D. Neither 1 nor 2
 2. AITUC president (1920) — Lala Lajpat Rai
 3. INTUC — 1947; Congress-linked
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. Only 1
+B. Only 1 and 2
+C. Only 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Labour origin facts.
 

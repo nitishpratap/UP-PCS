@@ -936,21 +936,19 @@ A: Marathas emerged as the strongest native power after Mughal decline. R: Marat
 
 **Q1.** With reference to Shivaji, which of the following statements is/are correct?
 
-1. He was crowned Chhatrapati at Raigad in 1674; Gaga Bhatt of Banaras declared him Kshatriya.
-2. He was born at Shivneri to Shahji Bhonsle and Jijabai.
-3. He personally commanded the Maratha army at Panipat III in 1761.
+1. He personally commanded the Maratha army at Panipat III in 1761.
+2. He was crowned Chhatrapati at Raigad in 1674; Gaga Bhatt of Banaras declared him Kshatriya.
+3. He was born at Shivneri to Shahji Bhonsle and Jijabai.
 
-Select the correct answer from the code given below:
-
-A. 1, 2 and 3
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1 and 2 only
+A. 1 and 2
+B. Only 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2 are correct.
+**Ans: C.** 2 and 3 only are correct.
 
 **Logic:** Shivaji died in 1680 — Panipat III is a later Peshwa-age battle.
 
@@ -962,17 +960,15 @@ D. 1 and 2 only
 2. Course: Shivaji surrendered 23 forts under the treaty; Agra detention followed in 1666.
 3. Result: Shivaji never recovered strength and abandoned the 1674 coronation.
 
-Which of the statements given above is/are correct?
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** After Purandar setbacks he recovered toward the 1674 coronation — statement 3 is false.
 
@@ -1078,15 +1074,15 @@ D. A-3, B-1, C-2, D-4
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. All 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Do not confuse with Panipat I/II or Nadir Shah’s 1739 Delhi sack.
 
@@ -1100,10 +1096,10 @@ D. 1, 2 and 3
 
 Which of the statements given above is/are correct?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. Only 1
+B. 1 and 2
+C. All 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -1138,10 +1134,10 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q10.** With reference to revenue terms, which of the following statements is/are correct?
 
-1. Saranzami land supported Maratha jagirdars’ livelihood.
-2. Abwab and Jamadani are the standard names for the 25% protection levy.
+1. Abwab and Jamadani are the standard names for the 25% protection levy.
 
 Select the correct answer from the code given below:
+2. Saranzami land supported Maratha jagirdars’ livelihood.
 
 A. Only 1
 B. Only 2
@@ -1151,7 +1147,7 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only statement 1 is correct.
+**Ans: B.** Only 2 is correct.
 
 **Logic:** Protection levy name asked is Chauth — Abwab/Jamadani are distractors.
 
@@ -1250,11 +1246,11 @@ D. 2 and 3 only
 
 **Q15.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): Madhav Rao I (1761–72) comes before Narayan Rao (1772–73).
-
-Reason (R): Narayan Rao ruled the long recovery decade immediately after Panipat III before Madhav Rao I.
+Assertion (A): Narayan Rao ruled the long recovery decade immediately after Panipat III before Madhav Rao I.
 
 Select the correct answer from the code given below:
+
+Reason (R): Madhav Rao I (1761–72) comes before Narayan Rao (1772–73).
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -1264,9 +1260,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** A is true and R is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** Madhav Rao I is the post-Panipat recovery Peshwa; do not reverse the pair.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Madhav Rao I is the post-Panipat recovery Peshwa; do not reverse the pair.
 
 </details>
 
@@ -1278,10 +1274,10 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. 1 and 2
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -1295,20 +1291,18 @@ D. 1, 2 and 3
 **Q17.** Consider the following statements about Ashtapradhan:
 
 1. It was Shivaji’s eight-minister council.
-2. Ministers headed departments but did not hold independent cabinet power; Shivaji could accept or reject advice.
-3. Under Shivaji the Peshwa was already the sovereign Chhatrapati.
+2. Under Shivaji the Peshwa was already the sovereign Chhatrapati.
+3. Ministers headed departments but did not hold independent cabinet power; Shivaji could accept or reject advice.
 
-Which of the statements given above is/are correct?
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. 1 and 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 3 only are correct.
 
 **Logic:** Peshwa sovereignty is a later hereditary phase under Shahu.
 
@@ -1427,15 +1421,15 @@ D. Balaji Vishwanath vs Nadir Shah at Panipat III
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. Only 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three pairs are correctly matched.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Raigad coronation/death geography ≠ Pune Peshwa seat.
 
@@ -1573,11 +1567,11 @@ D. Neither 1 nor 2
 
 **Q30.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): Panipat III is not Panipat I (1526) or Panipat II (1556).
-
-Reason (R): Shivaji commanded the Maratha centre at all three Panipat battles.
+Assertion (A): Shivaji commanded the Maratha centre at all three Panipat battles.
 
 Select the correct answer from the code given below:
+
+Reason (R): Panipat III is not Panipat I (1526) or Panipat II (1556).
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -1587,9 +1581,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** A is true and R is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** Three Panipats are distinct; Shivaji was long dead by 1761.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Three Panipats are distinct; Shivaji was long dead by 1761.
 
 </details>
 

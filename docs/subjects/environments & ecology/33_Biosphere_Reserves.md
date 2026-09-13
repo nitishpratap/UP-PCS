@@ -698,20 +698,20 @@ D. Only agricultural produce storage
 **Q1.** With reference to Biosphere Reserves, which of the following statements is/are correct?
 
 1. UNESCO MAB (1971) landscape: core → buffer → transition.
-2. Not a Wildlife Protection Act category.
+2. Biosphere Reserve is a category created under Section 35 of the Wildlife (Protection) Act, identical to a National Park.
 3. Identical to Section 35 National Park only.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 3
+B. Only 2
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** MAB ≠ WPA category.
+**Logic:** Statement 1 is true (UNESCO MAB zonation). Statement 2 is false — BR is not a WPA statutory category. Statement 3 is false — BR ≠ National Park only.
 
 </details>
 
@@ -741,24 +741,23 @@ D. A-3, B-1, C-2
 
 **Q3.** Which of the following pairs is/are correctly matched?
 
-1. India — 18 notified national BRs
+1. India has only 8 notified national Biosphere Reserves.
 2. About 13 on UNESCO World Network
 3. UP — three Biosphere Reserves
 
-A. 1, 2 and 3
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1 and 2 only
+A. Only 1
+B. 1 and 2
+C. 2 and 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2.
+**Ans: D.** Only 2 is correct.
 
-**Logic:** UP has zero BRs.
+**Logic:** Statement 2 is true (~13 on the UNESCO World Network class fact). Statement 1 is false — India has 18 notified national BRs. Statement 3 is false — UP does not have three BRs.
 
 </details>
-
 **Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 Assertion (A): Nokrek is in Meghalaya.
@@ -971,7 +970,7 @@ D. Marine BR in Tamil Nadu
 
 </details>
 
-**Q15.** How many of the following state–BR locks are correct?
+**Q15.** How many of the following state–BR facts are correct?
 
 Cold Desert–HP; Khangchendzonga–Sikkim; Seshachalam–AP; Great Nicobar–A&N
 

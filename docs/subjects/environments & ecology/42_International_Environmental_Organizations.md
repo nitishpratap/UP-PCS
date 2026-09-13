@@ -501,20 +501,20 @@ D. UNEP — New York; FAO — Gland; UNESCO — Geneva
 **Q1.** With reference to UNEP, which of the following statements is/are correct?
 
 1. Created after Stockholm 1972; HQ Nairobi.
-2. Flagships include Emissions Gap Report and GEO.
+2. UNEP’s flagship products are the Human Development Report and World Development Report.
 3. UNEP publishes HDI.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: A.** Only 1 is correct.
 
-**Logic:** HDI = UNDP.
+**Logic:** Statement 1 is true (Stockholm → UNEP Nairobi). Statement 2 confuses UNEP flagships (Emissions Gap, GEO) with UNDP/World Bank reports. Statement 3 is false — HDI is UNDP, not UNEP.
 
 </details>
 
@@ -545,20 +545,20 @@ D. A-3, B-1, C-2
 **Q3.** Which of the following pairs is/are correctly matched?
 
 1. IUCN — Gland; Red List
-2. WWF — Gland; Living Planet Report / LPI
+2. IUCN — Gland; Living Planet Report / LPI
 3. WWF — Red List author
 
-A. 1, 2 and 3
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1 and 2 only
+A. 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Red List = IUCN — not WWF.
+**Logic:** Only statement 1 remains true among the numbered claims. Statement 1 is true. Statement 2 is false. Statement 3 is false.
 
 </details>
 

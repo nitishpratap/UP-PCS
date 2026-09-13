@@ -3680,21 +3680,21 @@ D. mica exports of Kodarma only
 
 **Q1.** With reference to India’s mineral geography, which of the following statements is/are correct?
 
-1. Most mineral wealth lies east of the Mangalore–Kanpur line.
-2. Chota Nagpur is the richest mineral belt (India’s Ruhr).
-3. Northern plains are rich in major metallic ores.
+1. Northern plains are rich in major metallic ores.
+2. Most mineral wealth lies east of the Mangalore–Kanpur line.
+3. Chota Nagpur is mineral-poor compared with the northern plains.
 
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. 1 and 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 2 are correct.
+**Ans: D.** Only 2 is correct.
 
-**Logic:** Plains are almost empty of major ores; Dharwar = metallic storehouse; Gondwana = coal.
+**Logic:** Most mineral wealth lies east of the Mangalore–Kanpur line. Plains are almost empty of major ores; Chota Nagpur is India’s richest mineral belt.
 
 </details>
 
@@ -3788,21 +3788,21 @@ D. 2–4–1–3
 
 **Q6.** With reference to coalfields, which of the following statements is/are correct?
 
-1. Raniganj is in West Bengal; Jharia (coking) in Jharkhand; Talcher in Odisha.
-2. Maolong coal is in Meghalaya, not Arunachal.
-3. Singrauli is only in northern Chhattisgarh.
+1. Singrauli is only in northern Chhattisgarh.
+2. Raniganj is in West Bengal; Jharia (coking) in Jharkhand; Talcher in Odisha.
+3. Maolong coal is in Arunachal Pradesh, not Meghalaya.
 
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. Only 1 and 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: D.** Only 2 is correct.
 
-**Logic:** Singrauli sits on MP–UP border; oldest large NTPC hub.
+**Logic:** Raniganj is in West Bengal; Jharia (coking) in Jharkhand; Talcher in Odisha. Maolong coal is in Meghalaya. Singrauli sits on the MP–UP border.
 
 </details>
 
@@ -3872,20 +3872,20 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q10.** With reference to solar and wind, which of the following statements is/are correct?
 
 1. Diu was the first UT to go fully solar-powered; Cochin the first solar airport.
-2. ISA headquarters is at Gurugram.
+2. ISA headquarters is at Paris under UNESCO culture custody.
 3. Tidal potential is higher in Gulf of Kutch than Gulf of Khambhat.
 
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 1
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 2 are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Tidal potential is higher in Gulf of Khambhat than Kutch.
+**Logic:** Diu was the first UT to go fully solar-powered; Cochin the first solar airport. ISA HQ is at Gurugram. Tidal potential is higher in Gulf of Khambhat than Kutch.
 
 </details>
 
@@ -3936,15 +3936,15 @@ D. All four pairs as stated are correct
 2. Chotanagpur is the mineral-heavy industrial heartland.
 3. Salem steel plant is in Kerala.
 
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. All 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** Salem is in Tamil Nadu; Vizag in Andhra Pradesh.
 
@@ -4003,15 +4003,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Shankargarh silica feeds Firozabad glass; Chunar–Churk–Dalla is cement.
 3. UP coal is mostly Jharia-type coking coal.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. Only 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** UP coal is mostly non-coking Singrauli–Sonbhadra coal.
 
@@ -4039,15 +4039,15 @@ D. Pegu Yoma — tin belt of Myanmar
 2. Western DFC is Dadri–JNPT; Eastern DFC is Ludhiana–Dankuni.
 3. Ahmedabad was traditionally the largest mill centre of India.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Ahmedabad is in the belt but not traditionally the largest centre.
 
@@ -4103,18 +4103,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q21.** With reference to copper and related ores, which of the following statements is/are correct?
 
 1. Copper centres include Khetri (RJ), Singhbhum (JH) and Malanjkhand (MP).
-2. Sonrai (Lalitpur) has a copper occurrence in Uttar Pradesh.
-3. Zawar is a copper mine of Rajasthan.
+2. Zawar is a copper mine of Rajasthan.
+3. Sonrai (Lalitpur) has a copper occurrence in Uttar Pradesh.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. 1 and 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 3 only are correct.
 
 **Logic:** Zawar is Zn–Pb.
 
@@ -4126,15 +4126,15 @@ D. 1, 2 and 3
 2. Moradabad — brass; Aligarh — padlocks and hardware; Firozabad — glass
 3. Meerut — sports goods; Noida–Ghaziabad — NCR engineering
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. All 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Obra, Anpara and Rihand are thermal hubs.
 
@@ -4146,15 +4146,15 @@ D. 1, 2 and 3
 2. India is poor in many non-ferrous metals but rich in bauxite.
 3. Lithium finds at Reasi (J&K) mean India needs no Li/Ni/Co imports.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** India still imports much Li, Ni and Co.
 
@@ -4202,15 +4202,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Mount Newman (Australia) is famous for manganese.
 3. Kudremukh is known for magnetite in Karnataka.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. Only 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 3 are correct.
+**Ans: D.** 1 and 3 only are correct.
 
 **Logic:** Mount Newman is iron, not manganese.
 
@@ -4239,18 +4239,18 @@ D. 2 and 3 only
 **Q28.** With reference to oil–gas hubs, which of the following statements is/are correct?
 
 1. Hubs include Digboi/Naharkatiya, Mumbai High, Ankleshwar, Barmer and KG/Cauvery basins.
-2. Nayara is in Gujarat; Paradip in Odisha; Bina in Madhya Pradesh; Haldia in West Bengal.
-3. Panipat refinery is in Punjab.
+2. Panipat refinery is in Punjab.
+3. Nayara is in Gujarat; Paradip in Odisha; Bina in Madhya Pradesh; Haldia in West Bengal.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. 1 and 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 3 only are correct.
 
 **Logic:** Panipat is in Haryana.
 
@@ -4274,19 +4274,19 @@ D. Rawatbhata — Karnataka
 
 **Q30.** With reference to conventional vs non-conventional energy, which of the following statements is/are correct?
 
-1. Conventional = coal, oil, gas, nuclear.
-2. Non-conventional = solar, wind, tidal, biogas, geothermal.
-3. All nuclear plants in India are in coastal Tamil Nadu only.
+1. All nuclear plants in India are in coastal Tamil Nadu only.
+2. Conventional = coal, oil, gas, nuclear.
+3. Non-conventional = solar, wind, tidal, biogas, geothermal.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2
+B. 2 and 3
+C. Only 1
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: B.** 2 and 3 only are correct.
 
 **Logic:** Nuclear plants span multiple states including inland Narora and Rawatbhata.
 

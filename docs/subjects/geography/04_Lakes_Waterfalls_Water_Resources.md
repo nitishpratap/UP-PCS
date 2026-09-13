@@ -3040,18 +3040,18 @@ D. Madhya Pradesh > Gujarat > Telangana > Rajasthan > Andhra Pradesh
 **Q1.** With reference to lake origins, which of the following pairs is/are correctly matched?
 
 1. Wular — tectonic
-2. Chilika — lagoon
-3. Lonar — oxbow
+2. Lonar — oxbow
+3. Chilika — lagoon
 
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. Only 3
+B. Only 1 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 2 are correct.
+**Ans: B.** 1 and 3 only are correct.
 
 **Logic:** Lonar is a meteorite crater, not an oxbow; Kabartal is the oxbow Ramsar.
 
@@ -3147,20 +3147,20 @@ D. A-3, B-1, C-2, D-4
 **Q6.** With reference to dams, which of the following statements is/are correct?
 
 1. Bhakra–Nangal is on the Sutlej with Gobind Sagar.
-2. Tehri is a rock-fill dam on the Bhagirathi (with Bhilangana confluence).
-3. Ban Sagar is on the Narmada.
+2. Ban Sagar is on the Narmada.
+3. Tehri is a gravity dam on the Narmada at the Ban Sagar site.
 
-A. 1, 2 and 3
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1 and 2 only
+A. Only 2 and 3
+B. Only 1
+C. Only 1 and 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2 are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Ban Sagar is on the Son, not Narmada.
+**Logic:** Ban Sagar is on the Son, not Narmada. Tehri is a rock-fill dam on the Bhagirathi (with Bhilangana confluence).
 
 </details>
 
@@ -3183,20 +3183,20 @@ D. Hirakud — Krishna, Odisha
 **Q8.** With reference to India’s water budget teaching figures, which of the following statements is/are correct?
 
 1. Precipitation ~4000 BCM; available ~1869 BCM; utilisable ~1122 BCM.
-2. Irrigation takes about 89% of surface water use and about 92% of groundwater use.
-3. India has more than 17% of world people and about 4% of water.
+2. Irrigation takes under 20% of both surface and groundwater use.
+3. India has about 40% of world water resources for under 2% of world people.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. All 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** Ganga–Brahmaputra–Barak ~1/3 area but ~60% surface water.
+**Logic:** Irrigation takes about 89% of surface and about 92% of groundwater use. India has more than 17% of world people and about 4% of water.
 
 </details>
 
@@ -3269,21 +3269,21 @@ D. 1 only
 
 **Q12.** With reference to irrigation sources (2018–19 provisional), which of the following statements is/are correct?
 
-1. Tubewells ~48.5%; canals ~23%; tanks ~2.3%.
-2. Wells + tubewells together ~64%.
-3. Canals alone are the dominant national irrigation source.
+1. Canals alone are the dominant national irrigation source.
+2. Tubewells ~48.5%; canals ~23%; tanks ~2.3%.
+3. Wells + tubewells together cover under 10% of irrigated area.
 
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 2
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: B.** Only 2 is correct.
 
-**Logic:** Wells/tubewells — not canals alone — dominate nationally.
+**Logic:** Tubewells ~48.5% and canals ~23% in 2018–19 teaching figures. Wells + tubewells together ~64%. Canals alone are not dominant.
 
 </details>
 
@@ -3313,15 +3313,15 @@ D. 2, then 3, then 1 as thresholds rise
 2. Upper Ganga Canal offtake is at Bhimgoda/Haridwar; Lower at Narora.
 3. Telugu Ganga takes Krishna water to Bengaluru.
 
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. Only 3
+B. Only 1 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 2 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** Telugu Ganga supplies Chennai, not Bengaluru.
 
@@ -3369,15 +3369,15 @@ D. Koyna (1967 seismicity) is the oldest hydro
 2. Surha Tal / JP Narayan Bird Sanctuary, Ballia is the 100th site.
 3. Rudrasagar and Sultanpur are Uttar Pradesh Ramsars.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. Only 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** Rudrasagar=Tripura; Sultanpur=Haryana; Surinsar–Mansar=J&K.
 
@@ -3413,18 +3413,18 @@ D. A-1, B-3, C-2, D-4
 **Q19.** Which of the following statements about Lonar is/are correct?
 
 1. Lonar is a meteorite crater in Maharashtra basalt.
-2. It is a volcanic caldera like many Deccan lakes.
-3. It is not a tectonic basin like Wular.
+2. It is not a tectonic basin like Wular.
+3. It is a volcanic caldera like many Deccan lakes.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. Only 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 3 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Not volcanic caldera; not tectonic like Wular.
 
@@ -3433,18 +3433,18 @@ D. 1, 2 and 3
 **Q20.** With reference to Cauvery dispute and Chambal chain, which of the following statements is/are correct?
 
 1. Cauvery parties are TN–KA–KL–Puducherry.
-2. Chambal chain includes Gandhi Sagar (MP) and Rana Pratap / Jawahar Sagar (RJ).
-3. Cauvery parties include Gujarat.
+2. Cauvery parties include Gujarat.
+3. Chambal chain includes Gandhi Sagar (MP) and Rana Pratap / Jawahar Sagar (RJ).
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 3
+C. Only 2
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 1 and 3 only are correct.
 
 **Logic:** Do not add Gujarat to Cauvery parties.
 
@@ -3492,15 +3492,15 @@ D. Yaya Tso — Assam
 2. First river-linking thought often tagged to M. Visvesvaraya; later K.L. Rao.
 3. Hariyali (27 Jan 2003) is a watershed / rural water storage programme.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1, 2 and 3
+B. Only 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** PMKSY approved 1 July 2015 — separate date fact.
 
@@ -3508,19 +3508,19 @@ D. 1, 2 and 3
 
 **Q24.** Which of the following statements about groundwater and peninsula irrigation is/are correct?
 
-1. Groundwater now covers more than 60% of irrigated area.
-2. Peninsula irrigation classic is tanks/ponds on hard rock + seasonal rivers.
-3. Among major states, Gujarat leads available groundwater for irrigation.
+1. Among major states, Gujarat leads available groundwater for irrigation.
+2. Groundwater now covers more than 60% of irrigated area.
+3. Peninsula irrigation classic is tanks/ponds on hard rock + seasonal rivers.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 2 and 3 only are correct.
 
 **Logic:** UP leads groundwater resources available for irrigation among major states.
 
@@ -3564,19 +3564,19 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q27.** With reference to Pulicat and Kayal, which of the following statements is/are correct?
 
-1. Pulicat is a major brackish lagoon (AP–TN) with Sriharikota bar.
-2. Kayal means a Kerala coastal lagoon/backwater.
-3. Wular is a classic kayal.
+1. Wular is a classic kayal.
+2. Pulicat is a major brackish lagoon (AP–TN) with Sriharikota bar.
+3. Kayal means a Kerala coastal lagoon/backwater.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 3
+C. Only 2
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 2 and 3 only are correct.
 
 **Logic:** Do not call Wular a kayal.
 
@@ -3608,15 +3608,15 @@ D. 2 and 3 only
 2. Eastern UP and Bihar cannot tap Himalayan ranges to their north because those ranges lie in Nepal.
 3. Gobind Sagar is on Rihand in Sonbhadra.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Gobind Sagar = Bhakra/Sutlej; Pant Sagar = Rihand/Sonbhadra.
 

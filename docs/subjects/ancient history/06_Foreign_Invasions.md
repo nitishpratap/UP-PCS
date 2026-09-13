@@ -804,26 +804,24 @@ UPPCS Prelims **2025, 2024, 2022, 2021, 2020, 2019, 2018** — no further GS-I q
 
 **Q1.** With reference to foreign invaders in north-west India, which of the following is/are correct?
 
-1. Correct order is Greeks → Sakas → Kushans.
+1. Correct order is Greeks → Kushans → Sakas.
 2. Kushans come before Sakas in the standard sequence.
 3. Parthians (Pahlavas) form a brief phase between Sakas and Kushan peak.
 
-Select the correct answer from the code given below:
+A. Only 3
 
-A. 1 and 2 only
+B. 1 and 2
 
-B. 2 and 3 only
+C. 2 and 3
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 3 are correct.
+**Ans: A.** Only 3 is correct.
 
-**Logic:** Stmt 2 false: Greeks → Sakas → (Parthians) → Kushans.
+**Logic:** Stmt 1 false: Standard order is Greeks → Sakas → (Parthians) → Kushans. Stmt 2 remains false: Kushans do not precede Sakas.
 
 </details>
 
@@ -917,25 +915,23 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q5.** With reference to Greeks around Alexander, which of the following is/are correct?
 
 1. Aristotle tutored Alexander but never came to India.
-2. Kalanos went with Alexander; Dandamis refused.
+2. Kalanos refused Alexander; Dandamis went with him to the West.
 3. Deimachus came with Alexander as his admiral.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 2 and 3 only
+B. Only 1
 
-B. 1 and 2 only
+C. 2 and 3
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Stmt 3 false: Deimachus is later Seleucid envoy to Bindusara; admiral = Nearchus.
+**Logic:** Stmt 2 false: Roles reverse — Kalanos went with Alexander; Dandamis refused. Stmt 3 remains false: Deimachus is later Seleucid envoy; admiral = Nearchus.
 
 </details>
 
@@ -964,26 +960,24 @@ D. Agrammes — Menander of Sagala
 
 **Q7.** With reference to Indo-Greek power, which of the following is/are correct?
 
-1. Demetrius entered India after Diodotus freed Bactria.
+1. Demetrius entered India before Diodotus freed Bactria.
 2. Menander (Milinda) ruled from Sagala (Sialkot) and dialogued with Nagasena.
 3. Sagala and Sangala are the same Kathaioi town stormed by Alexander.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 2 and 3 only
+B. 2 and 3
 
-B. 1 and 2 only
+C. Only 2
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Ans: C.** Only 2 is correct.
 
-**Logic:** Stmt 3 false: Sagala = Menander’s Sialkot; Sangala = town Alexander stormed.
+**Logic:** Stmt 1 false: Diodotus freed Bactria first; Demetrius entered India later. Stmt 3 remains false: Sagala (Menander) ≠ Sangala (Alexander).
 
 </details>
 
@@ -1022,25 +1016,23 @@ D. 1-B, 2-A, 3-C, 4-D
 **Q9.** Consider the following statements about Shaka Western Kshatrapas:
 
 1. Rudradaman of the Kardamaka line left the Junagadh Sanskrit inscription.
-2. Sudarshana lake history runs Pushyagupta → Tushaspha → Rudradaman repair.
-3. Hathigumpha is Rudradaman’s Shaka rock edict in Gujarat.
+2. Hathigumpha is Rudradaman’s Shaka rock edict in Gujarat.
+3. Sudarshana lake history runs Pushyagupta → Tushaspha → Kharavela repair.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 3 only
+B. 2 and 3
 
-B. 2 and 3 only
+C. 1 and 3
 
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 2 are correct.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** Stmt 3 false: Hathigumpha = Kharavela’s Kalinga cave; Junagadh = Rudradaman.
+**Logic:** Stmt 2 false: Repair tag is Rudradaman; Kharavela is Hathigumpha/Kalinga. Stmt 2 remains false: Hathigumpha ≠ Rudradaman’s Junagadh.
 
 </details>
 
@@ -1075,26 +1067,24 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q11.** With reference to Kushan polity and art, which of the following is/are correct?
 
-1. Capitals include Purushapura (Peshawar) and Mathura.
-2. Art schools are Gandhara (schist, Greco-Roman) and Mathura (red sandstone).
-3. Kushan royal dress is identical with Mauryan dhoti-style royal memory.
+1. Kushan royal dress is identical with Mauryan dhoti-style royal memory.
+2. Capitals include Purushapura (Peshawar) and Mathura.
+3. Art schools are Gandhara (schist, Greco-Roman) and Mathura (red sandstone).
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 2 only
+B. Only 2 and 3
 
-B. 2 and 3 only
+C. Only 1 and 3
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: B.** 2 and 3 only are correct.
 
-**Logic:** Stmt 3 false: coat + trousers + boots (Mat statue), not Mauryan dhoti look.
+**Logic:** Stmt 1 false: coat + trousers + boots (Mat statue), not Mauryan dhoti look.
 
 </details>
 
@@ -1151,26 +1141,24 @@ D. Rudradaman’s lake repair only
 
 **Q14.** Which of the following statements about Alexander’s success in India is/are correct?
 
-1. Standard causes include no central power, superior army, and help from traitorous rulers (e.g. Ambhi).
-2. Being a ‘good administrator’ is a standard cause listed for that victory.
+1. Being a ‘good administrator’ is a standard cause listed for that victory.
+2. Standard causes include no central power, superior army, and help from traitorous rulers (e.g. Ambhi).
 3. There was no Macedonian campaign in Awadh, Kashi or Magadha.
 
-Select the correct answer from the code given below:
+A. 2 and 3
 
-A. 1 and 2 only
+B. Only 1
 
-B. 2 and 3 only
+C. Only 1 and 3
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 3 are correct.
+**Ans: A.** 2 and 3 only are correct.
 
-**Logic:** Stmt 2 false: ‘good administrator’ is not a standard cause of the Indian victory.
+**Logic:** Stmt 1 false: ‘good administrator’ is not a standard cause of the Indian victory.
 
 </details>
 
@@ -1205,18 +1193,18 @@ D. Menander — Madhyamaka philosopher of emptiness
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 1
 
-B. 2 and 3 only
+B. Only 1 and 2
 
-C. 1 and 3 only
+C. All 1, 2 and 3
 
-D. 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Persian satrap idea and Aramaic habits later feed Kharoshthi.
 
@@ -1257,20 +1245,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Classic Chola Nataraja bronze is a standard Kushan Mathura sculpture type.
 3. Early anthropomorphic Buddha images grow under Indo-Greek to Kushan patronage.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 2 only
+B. Only 3
 
-B. 2 and 3 only
+C. 1 and 3
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 3 are correct.
+**Ans: C.** 1 and 3 only are correct.
 
 **Logic:** Stmt 2 false: Chola Nataraja ≠ Kushan Mathura Shiva/linga/Oesho horizon.
 
@@ -1305,20 +1291,18 @@ D. Junagadh of Rudradaman only
 2. Portrait die-struck coins carry Greek and Kharoshthi.
 3. Menander’s seat is Purushapura as Kushan capital.
 
-Select the correct answer from the code given below:
+A. Only 1 and 2
 
-A. 1 and 2 only
+B. Only 3
 
-B. 2 and 3 only
+C. Only 2 and 3
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** Stmt 3 false: Menander’s Sagala ≠ Kushan Purushapura.
 
@@ -1328,24 +1312,22 @@ D. 1, 2 and 3
 
 **Q21.** Which of the following statements about Seleucus and Chandragupta is/are correct?
 
-1. Seleucus ceded Arachosia, Gedrosia and Paropamisadae.
-2. Chandragupta received 500 elephants in the settlement.
+1. Chandragupta received 500 elephants in the settlement.
+2. Seleucus ceded Arachosia, Gedrosia and Paropamisadae.
 3. Those elephants later mattered at Ipsus (301 BCE).
 
-Select the correct answer from the code given below:
+A. Only 1
 
-A. 1 and 2 only
+B. 1 and 3
 
-B. 2 and 3 only
+C. Only 2
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 3 are correct.
+**Ans: D.** 2 and 3 only are correct.
 
 **Logic:** Stmt 2 reversed: Seleucus received 500 elephants; Chandragupta gained NW districts.
 
@@ -1382,13 +1364,13 @@ D. Nahapana — Kardamaka Junagadh Sanskrit author
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. 2 and 3
 
-B. 2 and 3 only
+B. Only 1
 
-C. 1 and 3 only
+C. Only 1 and 2
 
-D. 1, 2 and 3
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -1451,26 +1433,24 @@ D. Maues
 
 **Q26.** Consider the following statements:
 
-1. North-west doors into India include Khyber and Bolan routes.
-2. After Achaemenid Persians came Macedon, then Indo-Greek → Shaka → Parthian → Kushan.
-3. Alexander’s line continued as a lasting Magadhan occupation up to Pataliputra.
+1. Alexander’s line continued as a lasting Magadhan occupation up to Pataliputra.
+2. North-west doors into India include Khyber and Bolan routes.
+3. After Achaemenid Persians came Macedon, then Indo-Greek → Shaka → Parthian → Kushan.
 
-Select the correct answer from the code given below:
+A. Only 1
 
-A. 1 and 2 only
+B. 1 and 2
 
-B. 2 and 3 only
+C. Only 3
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: D.** 2 and 3 only are correct.
 
-**Logic:** Stmt 3 false: Alexander stops at Beas; no Magadha occupation.
+**Logic:** Stmt 1 false: Alexander stops at Beas; no Magadha occupation.
 
 </details>
 
@@ -1484,18 +1464,18 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. 1, 2 and 3
 
-B. 2 and 3 only
+B. Only 2 and 3
 
-C. 1 and 3 only
+C. Only 1
 
-D. 1, 2 and 3
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three tags are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Menander remains the greatest Indo-Greek / Milinda.
 
@@ -1509,20 +1489,18 @@ D. 1, 2 and 3
 2. He holds a mace and sword in the headless royal image tradition.
 3. It proves Kushan kings wore only Indian dhoti in Mathura art.
 
-Select the correct answer from the code given below:
+A. Only 2 and 3
 
-A. 1 and 2 only
+B. Only 1
 
-B. 2 and 3 only
+C. 1 and 2
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Stmt 3 false: Mat / coins keep steppe riding kit.
 
@@ -1554,25 +1532,23 @@ D. Kaveripattinam only
 **Q30.** With reference to early anthropomorphic Buddha images, which of the following is/are correct?
 
 1. They grow under Indo-Greek to Kushan patronage at Gandhara and Mathura schools.
-2. Kanishka’s coins and the Sarnath image of monk Bala (year 3) are dated Buddhist-icon pegs.
-3. Classic Chola Nataraja is the earliest Kushan Buddha type at Mathura.
+2. Classic Chola Nataraja is the earliest Kushan Buddha type at Mathura.
+3. Kanishka’s coins and the Sarnath image of monk Bala (year 3) are dated Buddhist-icon pegs.
 
-Select the correct answer from the code given below:
+A. Only 3
 
-A. 1 and 2 only
+B. 1 and 3
 
-B. 2 and 3 only
+C. Only 1
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: B.** 1 and 3 only are correct.
 
-**Logic:** Stmt 3 false: Chola Nataraja is not a Kushan Buddha sculpture fact.
+**Logic:** Stmt 2 false: Chola Nataraja is not a Kushan Buddha sculpture fact.
 
 </details>
 

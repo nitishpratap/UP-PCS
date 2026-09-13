@@ -3905,25 +3905,23 @@ D. 3 1 4 2
 **Q1.** With reference to Buddha’s life geography, which of the following statements is/are correct?
 
 1. Birth at Lumbini (Nepal), enlightenment at Bodh Gaya.
-2. First sermon at Sarnath (UP) and Mahaparinirvana at Kushinagar (UP).
+2. First sermon at Bodh Gaya (Bihar) and Mahaparinirvana at Lumbini (Nepal).
 3. Lumbini lies in Uttar Pradesh.
 
-Select the correct answer from the code given below:
+A. Only 1
 
-A. 2 and 3 only
+B. 1 and 2
 
-B. 1 and 2 only
+C. 2 and 3
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Ans: A.** Only 1 is correct.
 
-**Logic:** Stmt 3 false: Lumbini is in Nepal — common geography trap.
+**Logic:** Stmt 2 false: First sermon = Sarnath; Mahaparinirvana = Kushinagar; Bodh Gaya = enlightenment; Lumbini = birth. Stmt 3 remains false: Lumbini is in Nepal, not UP.
 
 </details>
 
@@ -3989,26 +3987,24 @@ D. 1-B, 2-C, 3-A, 4-D
 
 **Q4.** Consider the following statements about Buddhist schools:
 
-1. Hinayana aims at the arhat and uses Pali.
-2. Mahayana elevates the bodhisattva ideal and uses Sanskrit.
-3. Mahasanghika and Mahayana are identical names for the same early Vaishali event.
+1. Hinayana aims at the bodhisattva ideal and uses Sanskrit.
+2. Mahasanghika and Mahayana are identical names for the same early Vaishali event.
+3. Mahayana elevates the bodhisattva ideal and uses Sanskrit.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 3 only
+B. Only 3
 
-B. 2 and 3 only
+C. 2 and 3
 
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 2 are correct.
+**Ans: B.** Only 3 is correct.
 
-**Logic:** Stmt 3 false: Mahasanghika = early Vaishali split; Mahayana = later great vehicle.
+**Logic:** Stmt 1 false: Hinayana aims at the arhat and uses Pali; bodhisattva + Sanskrit = Mahayana. Stmt 2 remains false: Mahasanghika ≠ Mahayana.
 
 </details>
 
@@ -4043,26 +4039,24 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q6.** With reference to Jain tirthankaras, which of the following is/are correct?
 
-1. Mahavira is the 24th with the lion symbol and nirvana at Pavapuri.
-2. Parshvanatha is the 23rd with the serpent and a Varanasi birth tradition.
-3. Bahubali / Gomateshwara is one of the 24 tirthankaras.
+1. Bahubali / Gomateshwara is one of the 24 tirthankaras.
+2. Mahavira is the 24th with the lion symbol and nirvana at Pavapuri.
+3. Parshvanatha is the 24th tirthankara with the lion symbol and nirvana at Pavapuri.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 2 and 3 only
+B. 2 and 3
 
-B. 1 and 2 only
+C. Only 2
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Ans: C.** Only 2 is correct.
 
-**Logic:** Stmt 3 false: Bahubali is famous but not among the 24.
+**Logic:** Stmt 3 false: Parshvanatha is 23rd (serpent, Varanasi tradition); Mahavira is 24th (lion, Pavapuri). Stmt 1 remains false: Bahubali is not among the 24.
 
 </details>
 
@@ -4097,18 +4091,18 @@ D. Barabar caves — Ajanta-style Buddhist painted caves of the same age
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. All 1, 2 and 3
 
-B. 2 and 3 only
+B. Only 1 and 2
 
-C. 1 and 3 only
+C. Only 2 and 3
 
-D. 1, 2 and 3
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three baskets are correctly described.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Vinaya / Sutta / Abhidhamma triad.
 
@@ -4149,25 +4143,23 @@ D. 1-B, 2-A, 3-D, 4-C
 **Q10.** Consider the following statements about Digambara and Svetambara:
 
 1. Digambara monks are sky-clad and deny women’s moksha as women.
-2. Svetambara monks wear white and allow women’s liberation.
+2. Svetambara monks are sky-clad and deny women’s moksha as women.
 3. Tattvartha Sutra is rejected by both sects.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 2 and 3 only
+B. 2 and 3
 
-B. 1 and 2 only
+C. 1 and 3
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** Stmt 3 false: Tattvartha Sutra is accepted by both.
+**Logic:** Stmt 2 false: Sky-clad + deny women’s moksha as women = Digambara; Svetambara wear white and allow women’s liberation. Stmt 3 remains false: Tattvartha Sutra is accepted by both.
 
 </details>
 
@@ -4206,20 +4198,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Yogacara is associated with Asanga–Vasubandhu.
 3. Nagasena is the Madhyamaka philosopher of emptiness.
 
-Select the correct answer from the code given below:
+A. Only 3
 
-A. 1 and 3 only
+B. Only 2 and 3
 
-B. 2 and 3 only
+C. Only 1
 
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 2 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** Stmt 3 false: Nagasena is Milinda Panha monk; Nagarjuna ≠ Nagasena.
 
@@ -4235,18 +4225,18 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. 2 and 3
 
-B. 2 and 3 only
+B. Only 1
 
-C. 1 and 3 only
+C. 1 and 2
 
-D. 1, 2 and 3
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three associations are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Also: Vajrapani (power), Tara.
 
@@ -4305,26 +4295,24 @@ D. Ashoka and Upagupta only
 
 **Q16.** With reference to Jain doctrine, which of the following is/are correct?
 
-1. Mahavira taught five great vows; Parshvanatha’s older set is remembered as four.
-2. Anekantavada is many-sided reality; Syadvada is seven-fold predication.
-3. Charvaka doctrine centres on fatalist niyati like Ajivika.
+1. Charvaka doctrine centres on fatalist niyati like Ajivika.
+2. Mahavira taught five great vows; Parshvanatha’s older set is remembered as four.
+3. Anekantavada is many-sided reality; Syadvada is seven-fold predication.
 
-Select the correct answer from the code given below:
+A. Only 2 and 3
 
-A. 1 and 2 only
+B. Only 1
 
-B. 2 and 3 only
+C. Only 1 and 2
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: A.** 2 and 3 only are correct.
 
-**Logic:** Stmt 3 false: Charvaka = materialist, perception-only; Ajivika = niyati.
+**Logic:** Stmt 1 false: Charvaka = materialist, perception-only; Ajivika = niyati.
 
 </details>
 
@@ -4354,25 +4342,23 @@ D. Mahaparinirvana — Bodhi tree
 **Q18.** With reference to Uttar Pradesh Buddhist circuit facts, which of the following is/are correct?
 
 1. Sarnath — first sermon; Kushinagar — death.
-2. Shravasti / Jetavana and Sankisa (descent tradition) are UP-linked.
-3. Rummindei inscription of Ashoka is in Mathura district.
+2. Rummindei inscription of Ashoka is in Mathura district.
+3. Shravasti / Jetavana and Sankisa (descent tradition) are UP-linked.
 
-Select the correct answer from the code given below:
+A. 1 and 3
 
-A. 1 and 2 only
+B. Only 1
 
-B. 2 and 3 only
+C. Only 1 and 2
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: A.** 1 and 3 only are correct.
 
-**Logic:** Stmt 3 false: Rummindei proves Lumbini birthplace (Nepal).
+**Logic:** Stmt 2 false: Rummindei proves Lumbini birthplace (Nepal).
 
 </details>
 
@@ -4407,26 +4393,24 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q20.** Consider the following statements about Jain councils:
 
-1. Early Magadhan compilation is linked with Sthulabhadra at Pataliputra.
-2. Final Svetambara writing is linked with Devardhigani at Vallabhi.
-3. Vallabhi is the same Buddhist council site as Vaishali / Kundalvana.
+1. Vallabhi is the same Buddhist council site as Vaishali / Kundalvana.
+2. Early Magadhan compilation is linked with Sthulabhadra at Pataliputra.
+3. Final Svetambara writing is linked with Devardhigani at Vallabhi.
 
-Select the correct answer from the code given below:
+A. All 1, 2 and 3
 
-A. 1 and 2 only
+B. 2 and 3
 
-B. 2 and 3 only
+C. Only 1
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: B.** 2 and 3 only are correct.
 
-**Logic:** Stmt 3 false: Vallabhi ≠ Buddhist Vaishali or Kundalvana.
+**Logic:** Stmt 1 false: Vallabhi ≠ Buddhist Vaishali or Kundalvana.
 
 </details>
 
@@ -4438,20 +4422,18 @@ D. 1, 2 and 3
 2. Eightfold Path is the Magga prescription that ends craving.
 3. Eightfold Path replaces the Four Noble Truths as an unrelated doctrine.
 
-Select the correct answer from the code given below:
+A. Only 1 and 3
 
-A. 1 and 2 only
+B. Only 1
 
-B. 2 and 3 only
+C. Only 1 and 2
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Stmt 3 false: Magga is the prescription within the Four Truths framework.
 
@@ -4483,23 +4465,21 @@ D. Ananda
 **Q23.** With reference to Sarvastivada, which of the following is/are correct?
 
 1. It teaches sarvam asti and uses Sanskrit.
-2. It is tied to the Fourth Council at Kundalvana.
-3. Vaibhashika trusts sutra only while Sautrantika trusts Abhidharma only.
+2. Vaibhashika trusts sutra only while Sautrantika trusts Abhidharma only.
+3. It is tied to the Fourth Council at Kundalvana.
 
-Select the correct answer from the code given below:
+A. Only 1
 
-A. 1 and 2 only
+B. Only 1 and 2
 
-B. 2 and 3 only
+C. Only 3
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: D.** 1 and 3 only are correct.
 
 **Logic:** Stmt 3 reversed: Vaibhashika trusts Abhidharma; Sautrantika trusts sutra only.
 
@@ -4515,11 +4495,11 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 2 and 3
 
-B. 2 and 3 only
+B. Only 1
 
-C. 1 and 3 only
+C. 1 and 2
 
 D. 1, 2 and 3
 
@@ -4584,26 +4564,24 @@ D. Nagasena
 
 **Q27.** With reference to Vajrayana, which of the following is/are correct?
 
-1. It adds tantra and mantra.
-2. Padmasambhava is linked with its spread toward Tibet.
-3. It is identical with early Sthaviravada of the Second Council.
+1. It is identical with early Sthaviravada of the Second Council.
+2. It adds tantra and mantra.
+3. Padmasambhava is linked with its spread toward Tibet.
 
-Select the correct answer from the code given below:
+A. Only 1 and 2
 
-A. 1 and 2 only
+B. Only 3
 
-B. 2 and 3 only
+C. 2 and 3
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: C.** 2 and 3 only are correct.
 
-**Logic:** Stmt 3 false: Vajrayana ≠ Vaishali Sthaviravada.
+**Logic:** Stmt 1 false: Vajrayana ≠ Vaishali Sthaviravada.
 
 </details>
 
@@ -4636,20 +4614,18 @@ D. Third Council president — Vasumitra
 2. Ashoka’s Dhamma is simply identical with the Rahulovada text.
 3. The Bhabru edict lists Buddhist texts such as Laghulovada for monks.
 
-Select the correct answer from the code given below:
+A. Only 1
 
-A. 1 and 2 only
+B. 1 and 3
 
-B. 2 and 3 only
+C. Only 2
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 3 are correct.
+**Ans: B.** 1 and 3 only are correct.
 
 **Logic:** Stmt 2 false: Dhamma is ethical state policy, not defined as Rahulovada.
 
@@ -4665,18 +4641,18 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. 1 and 2
 
-B. 2 and 3 only
+B. All 1, 2 and 3
 
-C. 1 and 3 only
+C. 2 and 3
 
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Keep Bhagavatism as early stream, not a total synonym swap with later Vaishnavism.
 

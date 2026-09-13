@@ -2135,26 +2135,24 @@ D. 1, 2, 4, 3
 
 **Q2.** With reference to early political associations, which of the following statements is/are correct?
 
-1. The East India Association was founded in London in 1866 by Dadabhai Naoroji.
-2. The Indian Association was founded in Calcutta in 1876 by Surendranath Banerjee and Ananda Mohan Bose.
-3. The Poona Sarvajanik Sabha (1870) is the same body as the Bombay Presidency Association (1885).
+1. The Poona Sarvajanik Sabha (1870) is the same body as the Bombay Presidency Association (1885).
+2. The East India Association was founded in Calcutta in 1876 by Surendranath Banerjee.
+3. The Indian Association was founded in Calcutta in 1876 by Surendranath Banerjee and Ananda Mohan Bose.
 
-Select the correct answer from the code given below:
+A. Only 3
 
-A. 1 and 3 only
+B. 1 and 2
 
-B. 2 and 3 only
+C. 2 and 3
 
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: A.** Only 3 is correct.
 
-**Logic:** Stmt 3 merges Deccan Poona Sabha with Bombay elite association of 1885.
+**Logic:** Stmt 2 false: East India Association = London 1866, Naoroji; Indian Association = Calcutta 1876, Banerjee/Bose. Stmt 1 remains false: Poona Sabha ≠ Bombay Presidency Association.
 
 </details>
 
@@ -2219,26 +2217,24 @@ D. A-2, B-1, C-3, D-4
 
 **Q5.** With reference to the Indian National Congress founding, which of the following statements is/are correct?
 
-1. The first session met on 28 December 1885 at Gokuldas Tejpal Sanskrit College, Bombay.
+1. The first session met on 28 December 1885 at Gokuldas Tejpal Sanskrit College, Calcutta.
 2. A.O. Hume organised the meeting and also served as the first President.
 3. About 72 delegates attended the first session.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 2 only
+B. Only 3
 
-B. 1 and 3 only
+C. 2 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 3.
+**Ans: B.** Only 3 is correct.
 
-**Logic:** Hume organised; W.C. Bonnerjee was the first President.
+**Logic:** Stmt 1 false: First INC session was at Bombay, not Calcutta. Stmt 2 remains false: Hume organised; W.C. Bonnerjee was first President.
 
 </details>
 
@@ -2294,25 +2290,23 @@ D. 1, 3, 2, 4
 **Q8.** With reference to Moderates and Extremists, which of the following statements is/are correct?
 
 1. Moderates trusted petition, prayer and British justice.
-2. Extremists pushed boycott, Swadeshi and assertive Swaraj.
+2. Extremists pushed only petition, prayer and loyalty to British justice.
 3. Extremists of the Congress are the same category as underground revolutionary secret societies.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1, 2 and 3
+B. 2 and 3
 
-B. 1 and 3 only
+C. Only 1
 
-C. 2 and 3 only
-
-D. 1 and 2 only
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2.
+**Ans: C.** Only 1 is correct.
 
-**Logic:** Tilak-style Extremism ≠ Kakori-style revolutionary underground.
+**Logic:** Stmt 2 false: Extremists pushed boycott, Swadeshi and assertive Swaraj; petition/prayer is the Moderate method. Stmt 3 remains false: Extremists ≠ underground revolutionaries.
 
 </details>
 
@@ -2347,26 +2341,24 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q10.** Which of the following statements about Congress Presidents is/are correct?
 
-1. Badruddin Tyabji (Madras 1887) was the first Muslim Congress President.
-2. George Yule (Allahabad 1888) was the first English President.
-3. Sarojini Naidu (Kanpur 1925) was the first woman Congress President.
+1. Badruddin Tyabji (Madras 1887) was the first English Congress President.
+2. Sarojini Naidu (Kanpur 1925) was the first woman Congress President.
+3. George Yule (Allahabad 1888) was the first English President.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 3 only
+B. 2 and 3
 
-B. 2 and 3 only
+C. 1 and 3
 
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: D.** Only 3 is correct.
 
-**Logic:** First woman = Annie Besant 1917; Sarojini = first Indian woman 1925.
+**Logic:** Stmt 1 false: Tyabji was the first Muslim President; first English President = George Yule (Allahabad 1888). Stmt 2 remains false: first woman = Annie Besant 1917.
 
 </details>
 
@@ -2408,20 +2400,18 @@ D. A-2, B-1, C-3, D-4
 2. Bangabhasha Prakashika Sabha (~1836) is linked with associates of Raja Ram Mohan Roy.
 3. The Indian League (1875, Sisir Kumar Ghosh) is identical with the Indian Association (1876).
 
-Select the correct answer from the code given below:
+A. 1 and 3
 
-A. 1 and 3 only
+B. Only 1
 
-B. 1 and 2 only
+C. 1 and 2
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Indian League ≠ Indian Association — confused-pair trap.
 
@@ -2453,23 +2443,21 @@ D. A Nation in Making — Bal Gangadhar Tilak
 **Q14.** With reference to the Ilbert Bill controversy, which of the following statements is/are correct?
 
 1. It arose under Lord Ripon around 1883 over Indian judges trying Europeans.
-2. The final compromise kept a European jury majority option for Europeans.
-3. It fully equalised criminal jurisdiction and Indianised the ICS overnight.
+2. It fully equalised criminal jurisdiction and Indianised the ICS overnight.
+3. The final compromise kept a European jury majority option for Europeans.
 
-Select the correct answer from the code given below:
+A. Only 1
 
-A. 1 and 3 only
+B. 1 and 2
 
-B. 2 and 3 only
+C. Only 3
 
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: D.** 1 and 3 only are correct.
 
 **Logic:** Result = compromise, not full equality; political spark, not ICS Indianisation.
 
@@ -2509,20 +2497,18 @@ D. 1, 2, 3, 4
 2. Jana Gana Mana was sung at Calcutta in 1911.
 3. Lahore 1929 under Patel adopted the Fundamental Rights resolution.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 3 only
+B. Only 3
 
-B. 1 and 2 only
+C. Only 2 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** Fundamental Rights = Karachi 1931 (Patel); Lahore 1929 = Purna Swaraj (Nehru).
 
@@ -2560,23 +2546,21 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q18.** With reference to Mandalay punishments, which of the following statements is/are correct?
 
 1. Lajpat Rai’s Mandalay deportation (1907) lasted about six months.
-2. Tilak’s Mandalay sentence (1908–14) lasted about six years.
-3. Both punishments were identical six-year sedition terms under the same case.
+2. Both punishments were identical six-year sedition terms under the same case.
+3. Tilak’s Mandalay sentence (1908–14) lasted about six years.
 
-Select the correct answer from the code given below:
+A. Only 2
 
-A. 1 and 3 only
+B. 2 and 3
 
-B. 2 and 3 only
+C. Only 1
 
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: D.** 1 and 3 only are correct.
 
 **Logic:** Six months vs six years — standing Lajpat / Tilak Mandalay pair.
 
@@ -2607,24 +2591,22 @@ D. Belgaum 1924 — Motilal Nehru’s only Congress presidentship
 
 **Q20.** With reference to Banerjee’s Indian National Conference, which of the following statements is/are correct?
 
-1. It functioned as an all-India dress rehearsal around 1883/1885.
-2. It is the same body as the Indian National Congress founded in 1885.
+1. It is the same body as the Indian National Congress founded in 1885.
+2. It functioned as an all-India dress rehearsal around 1883/1885.
 3. Surendranath Banerjee was dismissed from the ICS around 1874 before his Association politics.
-
-Select the correct answer from the code given below:
 
 A. 1, 2 and 3
 
-B. 1 and 2 only
+B. Only 1 and 2
 
-C. 2 and 3 only
+C. 2 and 3
 
-D. 1 and 3 only
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 3.
+**Ans: C.** 2 and 3 only are correct.
 
 **Logic:** Conference ≠ INC — Hume–Bonnerjee Congress is a different founding.
 
@@ -2668,20 +2650,18 @@ D. A-2, B-1, C-4, D-3
 2. The British Committee of the INC in London (1889) is linked with Wedderburn and the weekly *India*.
 3. Tilak’s Ganapati and Shivaji festivals were meant only as private religious rites with no political use.
 
-Select the correct answer from the code given below:
+A. Only 1 and 2
 
-A. 2 and 3 only
+B. Only 3
 
-B. 1 and 3 only
+C. 2 and 3
 
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** Festivals politicised public religion — Chirol’s ‘Father of Indian Unrest’ context.
 
@@ -2721,20 +2701,18 @@ D. 1, 3, 2, 4
 2. At Calcutta 1906 he put Swaraj into Congress language as a declared goal.
 3. He founded the Indian Association at Calcutta in 1876.
 
-Select the correct answer from the code given below:
+A. 2 and 3
 
-A. 1 and 2 only
+B. Only 1
 
-B. 2 and 3 only
+C. Only 1 and 2
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Indian Association = Banerjee–Bose; Naoroji’s London body is East India Association.
 
@@ -2765,24 +2743,22 @@ D. It was Gandhi’s only Congress presidentship
 
 **Q26.** With reference to causes of early nationalism, which of the following statements is/are correct?
 
-1. Racial discrimination, closed ICS doors and drain of wealth fed political anger.
-2. Press, railways and English education helped create a common public.
-3. Modern nationalism appeared fully formed only in 1885 with no earlier association politics.
+1. Modern nationalism appeared fully formed only in 1885 with no earlier association politics.
+2. Racial discrimination, closed ICS doors and drain of wealth fed political anger.
+3. Press, railways and English education helped create a common public.
 
-Select the correct answer from the code given below:
+A. 2 and 3
 
-A. 1 and 2 only
+B. Only 1
 
-B. 1 and 3 only
+C. 1 and 2
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2.
+**Ans: A.** 2 and 3 only are correct.
 
 **Logic:** Congress did not begin Indian politics; associations came first.
 
@@ -2819,24 +2795,22 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q28.** Which of the following statements about 1911 is/are correct?
 
-1. Partition of Bengal was annulled at the Delhi Durbar.
-2. The capital was shifted from Calcutta to Delhi.
-3. The Lucknow Pact between Congress and the League was signed in the same Durbar package.
+1. The Lucknow Pact between Congress and the League was signed in the same Durbar package.
+2. Partition of Bengal was annulled at the Delhi Durbar.
+3. The capital was shifted from Calcutta to Delhi.
 
-Select the correct answer from the code given below:
+A. 2 and 3
 
-A. 1 and 2 only
+B. Only 1
 
-B. 1, 2 and 3
+C. 1 and 3
 
-C. 2 and 3 only
-
-D. 1 and 3 only
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2.
+**Ans: A.** 2 and 3 only are correct.
 
 **Logic:** Lucknow Pact = 1916 — never park it in 1911.
 
@@ -2880,20 +2854,18 @@ D. A-2, B-1, C-4, D-3
 2. After Partition of Bengal (1905), politics widened into Moderate–Extremist conflict.
 3. Home Rule and the Gandhian mass phase belong to the same stage as the 1838 Landholders’ Society.
 
-Select the correct answer from the code given below:
+A. 2 and 3
 
-A. 1 and 2 only
+B. Only 1
 
-B. 2 and 3 only
+C. 1 and 2
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Hold the stage map; do not flatten 1838 landlord politics into Home Rule/Gandhi.
 

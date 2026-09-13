@@ -463,20 +463,20 @@ D. Sudha Murthy
 **Q1.** With reference to the three Culture akademis at Rabindra Bhavan, which of the following statements is/are correct?
 
 1. Sangeet Natak Akademi (1952) covers performing arts.
-2. Sahitya Akademi (1954) covers letters.
-3. Lalit Kala Akademi (1954) covers visual arts.
+2. Sahitya Akademi (1952) covers letters and predates SNA.
+3. Lalit Kala Akademi (1952) covers visual arts in the same year as SNA.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: A.** Only 1 is correct.
 
-**Logic:** SNA is older (1952) than Sahitya and Lalit Kala (1954).
+**Logic:** Sahitya Akademi and Lalit Kala Akademi both date to 1954, after SNA (1952).
 
 </details>
 
@@ -490,15 +490,15 @@ D. 1, 2 and 3
 
 Which of the pairs given above is/are correctly matched?
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
+A. 2 and 3
+B. Only 1
+C. Only 1 and 2
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only pairs 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Jnanpith is a trust award, not a Sahitya Akademi prize.
 
@@ -562,30 +562,30 @@ D. 3-2-1
 **Q6.** With reference to Sahitya Akademi languages, which of the following statements is/are correct?
 
 1. Sahitya works in 24 languages.
-2. The set is 22 Eighth Schedule languages plus English and Rajasthani.
+2. The set is 22 Eighth Schedule languages plus Sanskrit and Pali only.
 3. Bhojpuri is a separate Sahitya Akademi language.
 
-A. 1 and 3 only
-B. 1 and 2 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. All 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: A.** Only 1 is correct.
 
-**Logic:** Bhojpuri is not a separate Akademi language.
+**Logic:** The set is 22 Eighth Schedule languages plus English and Rajasthani. Bhojpuri is not a separate Akademi language.
 
 </details>
 
 **Q7.** Match List-I with List-II and select the correct answer using the code given below the Lists.
 
-**List-I**
-A. 2 1 3 4
-B. 2 1 4 3
-C. 1 2 4 3
-D. 2 4 1 3
+**List-I (Award)**
+A. Sangeet Natak Akademi Award
+B. Sangeet Natak Akademi Fellowship (Ratna)
+C. Ustad Bismillah Khan Yuva Puraskar
+D. Sahitya Akademi Yuva Puraskar
 
 **List-II**
 1. Lifetime Fellowship (small living cohort)
@@ -611,21 +611,21 @@ D. 2 4 1 3
 
 **Q8.** With reference to GI, which of the following statements is/are correct?
 
-1. GI follows the 1999 Act with Registry at Chennai under DPIIT / Commerce.
-2. First Indian GI was Darjeeling Tea (2004).
-3. Culture ministry runs the GI Registry.
+1. Culture ministry runs the GI Registry.
+2. GI follows the 1999 Act with Registry at Chennai under DPIIT / Commerce.
+3. First Indian GI was Basmati Rice in 1950 under ASI custody.
 
-A. 1 and 3 only
-B. 1 and 2 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 2
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: B.** Only 2 is correct.
 
-**Logic:** Culture runs akademis. Commerce / DPIIT runs GI.
+**Logic:** Culture runs akademis; Commerce / DPIIT runs GI. First Indian GI was Darjeeling Tea (2004).
 
 </details>
 
@@ -672,10 +672,10 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Bhimsen Joshi received it in 2008.
 3. Bhupen Hazarika received it in 2019 (posthumous).
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. Only 1 and 2
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -696,15 +696,15 @@ D. 1, 2 and 3
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. 2 and 3
+C. Only 1 and 3
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three pairs are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** 58th Jnanpith teaching includes Rambhadracharya (with Gulzar).
 
@@ -712,11 +712,11 @@ D. 1, 2 and 3
 
 **Q13.** Match List-I with List-II and select the correct answer using the code given below the Lists.
 
-**List-I**
-A. 2 1 3 4
-B. 2 1 4 3
-C. 1 2 4 3
-D. 2 4 1 3
+**List-I (GI / craft)**
+A. Banarasi silk
+B. Chikankari
+C. Blue Pottery
+D. Darjeeling Tea
 
 **List-II**
 1. Lucknow embroidery GI
@@ -746,15 +746,15 @@ D. 2 4 1 3
 2. Padma Vibhushan is the second Padma tier, below Bharat Ratna.
 3. A Padma Vibhushan for Art is automatic Bharat Ratna.
 
-A. 2 and 3 only
-B. 1 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** Padma Vibhushan does not auto-upgrade to Bharat Ratna.
 
@@ -789,10 +789,10 @@ D. 2-3-4-1
 2. It runs Triennale India.
 3. It has a regional centre at Lucknow.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. 1 and 2
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -839,18 +839,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q19.** With reference to GI versus trademark, which of the following statements is/are correct?
 
 1. GI protects place-linked community quality.
-2. Trademark protects one firm’s brand.
-3. GI is a private logo owned by a single company only.
+2. GI is a private logo owned by a single company only.
+3. Trademark protects one firm’s brand.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. 1 and 3
+B. Only 1, 2 and 3
+C. 1 and 2
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: A.** 1 and 3 only are correct.
 
 **Logic:** GI is not a private trademark logo.
 
@@ -866,15 +866,15 @@ D. 1, 2 and 3
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. Only 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only pairs 1 and 2 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** SNA was founded in 1952.
 
@@ -916,10 +916,10 @@ D. 2 4 1 3
 2. He received Bharat Ratna in 2001.
 3. SNA’s young performing award is named after him.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. Only 1 and 2
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -952,15 +952,15 @@ D. GI Registry — Ministry of Culture, New Delhi campus only
 2. Yuva ran in 23 languages in 2025 with no Dogri that year in the chapter fact.
 3. Bismillah Khan Yuva is also a Sahitya Akademi book prize for novelists.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** Bismillah Khan Yuva is SNA performing, not Sahitya book prize.
 
@@ -985,19 +985,19 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q26.** With reference to UP culture GIs, which of the following statements is/are correct?
 
-1. Banarasi brocade is a culture-facing UP GI.
-2. Chikankari is a culture-facing UP GI.
-3. Blue Pottery is a Lucknow UP GI.
+1. Blue Pottery is a Lucknow UP GI.
+2. Banarasi brocade is a culture-facing UP GI.
+3. Chikankari is a culture-facing UP GI.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. Only 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 2 and 3 only are correct.
 
 **Logic:** Blue Pottery is Jaipur.
 
@@ -1006,18 +1006,18 @@ D. 1, 2 and 3
 **Q27.** Consider the following statements:
 
 1. Bharat Ratna has no application form and allows posthumous conferment.
-2. The Prime Minister recommends names to the President.
-3. Bharat Ratna is an akademi prize of SNA.
+2. Bharat Ratna is an akademi prize of SNA.
+3. The Prime Minister recommends names to the President.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. Only 3
+C. 1 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 3 only are correct.
 
 **Logic:** Bharat Ratna is the highest civilian honour, not an akademi prize.
 
@@ -1029,15 +1029,15 @@ D. 1, 2 and 3
 2. M. S. Subbulakshmi — Carnatic; first musician BR 1998
 3. Bismillah Khan — shehnai; Varanasi
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. All 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Person–form–year matching is the culture award spine.
 
@@ -1049,15 +1049,15 @@ D. 1, 2 and 3
 2. Then match the person or craft.
 3. Year is never asked in award stems.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
+A. 2 and 3
+B. Only 1
+C. Only 1 and 2
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Year is often asked. Body-first filtering reduces traps.
 

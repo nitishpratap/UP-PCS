@@ -654,26 +654,24 @@ D. Samudragupta
 
 **Q1.** With reference to royal titles in ancient India, which of the following statements is/are correct?
 
-1. Ashoka on edicts is Devanampiya Piyadassi; his personal name appears at Maski.
-2. Bindusara is Amitraghata; Kanishka is Devaputra; Harsha is Siladitya.
-3. Chandragupta I is Vikramaditya and the first Gupta Maharajadhiraja.
+1. Ashoka on edicts is Devanampiya Piyadassi; his personal name never appears on any edict.
+2. Chandragupta I is Vikramaditya and the first Gupta Maharajadhiraja.
+3. Bindusara is Amitraghata; Kanishka is Devaputra; Harsha is Siladitya.
 
-Select the correct answer from the code given below:
+A. Only 3
 
-A. 1 and 3 only
+B. 1 and 2
 
-B. 1 and 2 only
+C. 2 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Ans: A.** Only 3 is correct.
 
-**Logic:** Stmt 3 false: CG I is first Maharajadhiraja; Vikramaditya is CG II.
+**Logic:** Stmt 1 false: Personal name Ashoka appears at Maski (and a few other minor rock edicts). Stmt 2 remains false: CG I is first Maharajadhiraja; Vikramaditya is CG II.
 
 </details>
 
@@ -789,26 +787,24 @@ D. Prayag Prashasti — Samudragupta by Harishena
 
 **Q6.** With reference to Vedic officials, which of the following statements is/are correct?
 
-1. Bhagadugha is the revenue collector of the king’s share.
-2. Akshavapa is the dice / gambling officer.
-3. Sabha is the larger tribal assembly and Samiti is the smaller elder council.
+1. Sabha is the larger tribal assembly and Samiti is the smaller elder council.
+2. Bhagadugha is the revenue collector of the king’s share.
+3. Akshavapa is the revenue collector of the king’s share.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 3 only
+B. 2 and 3
 
-B. 1 and 2 only
+C. Only 2
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Ans: C.** Only 2 is correct.
 
-**Logic:** Stmt 3 swaps Sabha (smaller/elder) and Samiti (larger).
+**Logic:** Stmt 3 false: Akshavapa is the dice/gambling officer; Bhagadugha is revenue collector. Stmt 1 remains false: Sabha = smaller/elder; Samiti = larger.
 
 </details>
 
@@ -822,18 +818,18 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 2 and 3
 
-B. 1, 2 and 3
+B. Only 1
 
-C. 1 and 3 only
+C. Only 1 and 2
 
-D. 2 and 3 only
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** All three statements are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** All three are Must-Score officer facts.
 
@@ -906,18 +902,18 @@ D. 1-D, 2-B, 3-C, 4-A
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 1, 2 and 3
 
-B. 2 and 3 only
+B. 2 and 3
 
-C. 1 and 3 only
+C. Only 1
 
-D. 1, 2 and 3
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** All three are Must-Score admin contrasts.
 
@@ -928,25 +924,23 @@ D. 1, 2 and 3
 **Q11.** Consider the following statements about Kautilya’s machine:
 
 1. Saptanga has seven limbs: swami, amatya, janapada, durga, kosha, bala, and mitra.
-2. Adhyakshas are department heads under that machine.
-3. There is a Samaharta and Uparika already in the Vedic official list.
+2. There is a Samaharta and Uparika already in the Vedic official list.
+3. Adhyakshas are department heads under that machine.
 
-Select the correct answer from the code given below:
+A. Only 1 and 3
 
-A. 1 and 2 only
+B. Only 2
 
-B. 1 and 3 only
+C. Only 2 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: A.** 1 and 3 only are correct.
 
-**Logic:** Stmt 3 false: no Samaharta or Uparika in the Vedic list.
+**Logic:** Stmt 2 false: no Samaharta or Uparika in the Vedic list.
 
 </details>
 
@@ -1038,18 +1032,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 1
 
-B. 2 and 3 only
+B. 1 and 2
 
-C. 1 and 3 only
+C. Only 1, 2 and 3
 
-D. 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** All three are Must-Score inscription IDs.
 
@@ -1090,25 +1084,23 @@ D. 1-D, 2-C, 3-A, 4-B
 **Q17.** Consider the following statements about Purana evidence:
 
 1. The Vishnu Purana carries Maurya genealogy.
-2. The Vayu Purana throws light on the Gupta system of governance.
-3. Best king ID order is inscription first, then coins, then Puranas.
+2. Best king ID order is inscription first, then coins, then Puranas.
+3. The Vayu Purana throws light on the Gupta system of governance.
 
-Select the correct answer from the code given below:
+A. Only 1 and 2
 
-A. 1 and 3 only
+B. Only 3
 
-B. 1 and 2 only
+C. Only 2 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 3 are correct.
+**Ans: A.** 1 and 2 only are correct.
 
-**Logic:** Stmt 2 false: Vayu does not give usable Gupta governance.
+**Logic:** Stmt 3 false: Vayu does not give usable Gupta governance.
 
 </details>
 
@@ -1122,18 +1114,18 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 2 and 3
 
-B. 2 and 3 only
+B. Only 1
 
-C. 1 and 3 only
+C. Only 1 and 2
 
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three pairs are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Standard Prayag Prashasti south matches.
 
@@ -1193,26 +1185,24 @@ D. Vikramaditya — Chandragupta Maurya
 
 **Q21.** Which of the following statements about Girnar / Junagadh is/are correct?
 
-1. The rock carries three ages: Ashoka, then Rudradaman, then Skandagupta.
-2. Rudradaman’s text is the earliest long literary Sanskrit / kavya-style prose.
-3. Hathigumpha on the same rock is Harsha’s signature plate.
+1. Hathigumpha on the same rock is Harsha’s signature plate.
+2. The rock carries three ages: Ashoka, then Rudradaman, then Skandagupta.
+3. Rudradaman’s text is the earliest long literary Sanskrit / kavya-style prose.
 
-Select the correct answer from the code given below:
+A. Only 1
 
-A. 1 and 2 only
+B. Only 1 and 3
 
-B. 1 and 3 only
+C. Only 2
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: D.** 2 and 3 only are correct.
 
-**Logic:** Stmt 3 false: Hathigumpha is Kharavela at Udayagiri, Odisha.
+**Logic:** Stmt 1 false: Hathigumpha is Kharavela at Udayagiri, Odisha.
 
 </details>
 
@@ -1254,13 +1244,13 @@ D. 2–3–4–1
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 2 and 3
 
-B. 2 and 3 only
+B. Only 1
 
-C. 1 and 3 only
+C. Only 1 and 2
 
-D. 1, 2 and 3
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -1356,18 +1346,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. All 1, 2 and 3
 
-B. 2 and 3 only
+B. Only 2 and 3
 
-C. 1 and 3 only
+C. Only 1
 
-D. 1, 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three pairs are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Must-Score Maukhari / later pairs.
 
@@ -1408,25 +1398,23 @@ D. 1-D, 2-A, 3-C, 4-B
 **Q29.** Which of the following statements is/are correct?
 
 1. Political time-order runs Vedic rajan → Magadha houses → Maurya → Shunga/Kharavela/Kushan/Satavahana → Gupta → Harsha.
-2. Harsha invents a brand-new administrative vocabulary unused by the Guptas.
-3. Chandragupta II’s silver ~33 grains proves the western Shaka victory.
+2. Chandragupta II’s silver ~33 grains proves the western Shaka victory.
+3. Harsha invents a brand-new administrative vocabulary unused by the Guptas.
 
-Select the correct answer from the code given below:
+A. Only 1
 
-A. 1 and 3 only
+B. 1 and 2
 
-B. 1 and 2 only
+C. Only 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 3 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
-**Logic:** Stmt 2 false: Harsha reuses Gupta titles at a higher grade.
+**Logic:** Stmt 3 false: Harsha reuses Gupta titles at a higher grade.
 
 </details>
 

@@ -868,21 +868,21 @@ D. Lies entirely in Andhra Pradesh
 
 **Q1.** With reference to UP protected areas, which of the following statements is/are correct?
 
-1. UP has one National Park — Dudhwa (Lakhimpur Kheri).
+1. UP’s sole National Park is Valmiki in West Champaran.
 2. UP is landlocked — zero marine/coastal NPs.
 3. Valmiki NP is a UP national park.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2
+B. 1 and 3
+C. Only 1
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: A.** Only 2 is correct.
 
-**Logic:** Valmiki = Bihar.
+**Logic:** Statement 2 is true (landlocked UP → no marine NP). Statement 1 is false — Dudhwa (Lakhimpur Kheri) is UP’s classic National Park fact. Statement 3 is false — Valmiki is in Bihar.
 
 </details>
 
@@ -913,20 +913,20 @@ D. A-3, B-1, C-2
 **Q3.** Which of the following pairs is/are correctly matched?
 
 1. World’s first NP — Yellowstone 1872
-2. India’s first NP — Corbett/Hailey 1936
-3. India’s largest NP — Hemis (Ladakh)
+2. India’s first NP — Corbett/Hailey 1946 (not 1936)
+3. India’s largest NP is Jim Corbett, not Hemis (Ladakh).
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 3
+B. Only 2
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** Firsts + largest.
+**Logic:** Statement 1 is true (Yellowstone 1872). Statement 2 is false — Hailey/Corbett is 1936, not 1946. Statement 3 is false — Hemis (Ladakh) is the usual largest-NP teaching fact.
 
 </details>
 
@@ -982,7 +982,7 @@ D. NP needs no legislature for boundary change
 
 **Ans: B.** NP stricter; boundary change needs legislature.
 
-**Logic:** Category lock.
+**Logic:** Category fact.
 
 </details>
 
@@ -1139,11 +1139,11 @@ D. Only floating NP on Loktak; Sangai / phumdis
 
 **Ans: D.** Floating NP Manipur.
 
-**Logic:** Sangai lock.
+**Logic:** Sangai fact.
 
 </details>
 
-**Q15.** How many of the following are correct UP negative locks?
+**Q15.** How many of the following are correct UP negative facts?
 
 Valmiki≠UP; Sultanpur≠UP; Rudrasagar≠UP
 
@@ -1298,11 +1298,11 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Ans: A.** Both true; Sathyamangalam link does not explain NSTR size.
 
-**A/R logic:** Two TR locks.
+**A/R logic:** Two TR facts.
 
 </details>
 
-**Q23.** How many of the following Andaman marine NP locks are correct?
+**Q23.** How many of the following Andaman marine NP facts are correct?
 
 Mahatma Gandhi Marine; Rani Jhansi Marine (1996)
 
@@ -1448,7 +1448,7 @@ D. Only Loktak phumdis
 
 **Ans: A.** Temperate alpine.
 
-**Logic:** VoF lock.
+**Logic:** VoF fact.
 
 </details>
 

@@ -541,23 +541,21 @@ Trap: CJI resigns to the Law Minister / to the next senior judge. **President.**
 
 **Q1.** With reference to the Attorney General, which of the following statements is/are correct?
 
-1. Qualification matches a Supreme Court judge.
-2. Removal is by the same impeachment process as a Supreme Court judge.
-3. Under Article 88, the AG may speak in both Houses but has no vote.
+1. Removal is by the same impeachment process as a Supreme Court judge.
+2. The CAG is appointed by the Prime Minister and removable by the Finance Minister.
+3. Under Article 88, the AG may speak in both Houses and can vote in either House.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
+A. Only 2 and 3
+B. Only 1
+C. 1 and 2
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 3 are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** AG holds office during pleasure of the President — not judge impeachment.
+**Logic:** AG qualification matches a Supreme Court judge. Removal is not by judge impeachment — office during pleasure of the President. Under Article 88 the AG may speak but has no vote.
 
 </details>
 
@@ -579,11 +577,11 @@ D. Advocate General of India — Article 76A Union AdvG
 
 **Q3.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): The CAG is removed like a Supreme Court judge and faces an Article 148(4) bar on further Union/State office.
-
-Reason (R): The Attorney General faces the same Article 148(4) further-office bar.
+Assertion (A): The Attorney General faces the same Article 148(4) further-office bar.
 
 Select the correct answer from the code given below:
+
+Reason (R): The CAG is removed like a Supreme Court judge and faces an Article 148(4) bar on further Union/State office.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -593,9 +591,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true; (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** CAG has hard removal + 148(4); AG is pleasure tenure without that bar.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. CAG has hard removal + 148(4); AG is pleasure tenure without that bar.
 
 </details>
 
@@ -657,15 +655,15 @@ D. 1, 2, 3 and 4
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Votes are equal; removal protection is not.
 
@@ -677,17 +675,15 @@ D. 1, 2 and 3
 2. SPSC Chair is appointed by the Governor but removed by the President after SC inquiry on misbehaviour.
 3. Extension of SPSC functions under Article 321 is by the President alone.
 
-Select the correct answer from the code given below:
-
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. 1 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** Article 321 extension is by the State Legislature.
 
@@ -753,20 +749,18 @@ D. Neither 1 nor 2
 **Q11.** Arrange CJI / CJ HC age and oath facts — which statements are correct?
 
 1. CJI retires at 65; oath before President; resigns to President.
-2. High Court CJ retires at 62; oath before Governor; resigns to President.
-3. SC Collegium is CJI+2; HC Collegium is CJI+4.
+2. SC Collegium is CJI+2; HC Collegium is CJI+4.
+3. High Court CJ retires at 62; oath before Governor; resigns to President.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2
+B. 2 and 3
+C. Only 1
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 3 only are correct.
 
 **Logic:** SC Collegium is CJI+4; HC Collegium is CJI+2 (Third Judges).
 
@@ -827,17 +821,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. CAG salary is in the Second Schedule and charged.
 3. AG’s pay is fixed by the President and is a Second Schedule charged office like CAG.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** AG pay is not a Second Schedule charged office like CAG/judges.
 
@@ -866,15 +858,15 @@ D. CEC — removal like Supreme Court judge
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Article 319 further-office matrix is a frequent prelims trap.
 
@@ -900,11 +892,11 @@ D. I–II–IV–III
 
 **Q18.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): Public Accounts Committee examines CAG reports.
-
-Reason (R): Estimates Committee is the only parliamentary committee that examines CAG reports.
+Assertion (A): Estimates Committee is the only parliamentary committee that examines CAG reports.
 
 Select the correct answer from the code given below:
+
+Reason (R): Public Accounts Committee examines CAG reports.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -914,9 +906,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true; (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** PAC is the CAG-report committee; Estimates is a different control tool.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. PAC is the CAG-report committee; Estimates is a different control tool.
 
 </details>
 
@@ -962,10 +954,10 @@ D. Neither 1 nor 2
 </details>
 **Q21.** Which of the following statements about AG practice is/are correct?
 
-1. Private practice is allowed except against the Government of India or in a matter already advised on.
-2. AG is a minister in the Union Cabinet by virtue of Article 76.
+1. AG is a minister in the Union Cabinet by virtue of Article 76.
 
 Select the correct answer from the code given below:
+2. Private practice is allowed except against the Government of India or in a matter already advised on.
 
 A. Only 1
 B. Only 2
@@ -975,7 +967,7 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 is correct.
+**Ans: B.** Only 2 is correct.
 
 **Logic:** AG is not a minister by this office.
 

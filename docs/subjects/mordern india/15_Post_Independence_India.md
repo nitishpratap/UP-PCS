@@ -1272,26 +1272,24 @@ D. J. B. Kripalani
 
 **Q1.** With reference to integration of princely states, which of the following statements is/are correct?
 
-1. About 562 princely states were integrated under Sardar Patel and V.P. Menon.
-2. The Instrument of Accession covered Defence, External Affairs and Communications.
-3. Standstill Agreement and Instrument of Accession are two names for the same document.
+1. About 562 princely states were integrated under Jawaharlal Nehru and Mountbatten alone.
+2. Standstill Agreement and Instrument of Accession are two names for the same document.
+3. The Instrument of Accession covered Defence, External Affairs and Communications.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 3 only
+B. Only 3
 
-B. 1 and 2 only
+C. 2 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: B.** Only 3 is correct.
 
-**Logic:** Standstill = interim arrangements; IoA = permanent cession of three subjects.
+**Logic:** Stmt 1 false: Integration is tagged to Sardar Patel and V.P. Menon. Stmt 2 remains false: Standstill ≠ Instrument of Accession.
 
 </details>
 
@@ -1388,18 +1386,18 @@ D. 1, 2, 4, 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 1
 
-B. 2 and 3 only
+B. Only 1 and 2
 
-C. 1 and 3 only
+C. 1, 2 and 3
 
-D. 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Chair tags from Must-Score.
 
@@ -1436,18 +1434,18 @@ D. Goa — French referendum 1954; merged into West Bengal
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. All 1, 2 and 3
 
-B. 1 and 3 only
+B. 2 and 3
 
-C. 2 and 3 only
+C. Only 1
 
-D. 1, 2 and 3
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Not K.T. Shah; not Pattabhi as SRC member trap.
 
@@ -1540,26 +1538,24 @@ D. 1, 2, 4, 3
 
 **Q11.** Which of the following statements about CDP / Etawah is/are correct?
 
-1. Etawah Pilot (1948) was Albert Mayer’s UP village project (Mahewa).
-2. Nilokheri is S.K. Dey’s refugee township model — not the same as Etawah.
-3. Nyaya Panchayat is one of the three Balwant Rai Mehta tiers.
+1. Nyaya Panchayat is one of the three Balwant Rai Mehta tiers.
+2. Etawah Pilot (1948) was Albert Mayer’s UP village project (Mahewa).
+3. Nilokheri is Albert Mayer’s UP village project identical with Etawah.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 2 and 3 only
+B. 2 and 3
 
-B. 1 and 3 only
+C. 1 and 3
 
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: D.** Only 2 is correct.
 
-**Logic:** Mehta three-tier ≠ Nyaya Panchayat.
+**Logic:** Stmt 3 false: Nilokheri is S.K. Dey’s refugee township model — not Etawah/Mahewa. Stmt 1 remains false: Nyaya Panchayat ≠ Balwant Rai Mehta three tiers.
 
 </details>
 
@@ -1588,26 +1584,24 @@ D. 2nd Plan created NITI Aayog
 
 **Q13.** With reference to Panchsheel and NAM, which of the following statements is/are correct?
 
-1. Panchsheel was signed on 29 April 1954 (India–China five principles).
-2. First NAM summit was Belgrade 1961.
-3. Bandung 1955 is the first NAM summit.
+1. Bandung 1955 is the first NAM summit.
+2. Panchsheel was signed on 29 April 1954 (India–China five principles).
+3. First NAM summit was Bandung 1955.
 
-Select the correct answer from the code given below:
+A. Only 2
 
-A. 1 and 3 only
+B. 1 and 2
 
-B. 1 and 2 only
+C. 2 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: A.** Only 2 is correct.
 
-**Logic:** Bandung = mood; Belgrade = first summit.
+**Logic:** Stmt 3 false: Bandung 1955 is Afro-Asian mood; first NAM summit is Belgrade 1961. Stmt 1 remains false for the same Bandung ≠ NAM-summit trap.
 
 </details>
 
@@ -1705,18 +1699,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. 2 and 3
 
-B. 2 and 3 only
+B. Only 1
 
-C. 1 and 3 only
+C. Only 1 and 2
 
-D. 1, 2 and 3
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Accession / privy purses / DNH amendment tags.
 
@@ -1751,20 +1745,18 @@ D. 1st Plan — agriculture, irrigation, CDP stress
 2. CDP began nationwide on 2 October 1952.
 3. Etawah 1948 and CDP 1952 are the same nationwide launch under two names.
 
-Select the correct answer from the code given below:
+A. Only 1
 
-A. 1 and 2 only
+B. Only 1 and 2
 
-B. 1 and 3 only
+C. 1, 2 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Pilot ≠ nationwide programme.
 
@@ -1810,18 +1802,18 @@ D. A-2, B-1, C-4, D-3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 2 and 3
 
-B. 2 and 3 only
+B. Only 1
 
-C. 1 and 3 only
+C. Only 1 and 2
 
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three.
+**Ans: D.** All three statements are correct.
 
 **Logic:** UP pilot + Part A + Uttarakhand date.
 
@@ -1888,20 +1880,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. UT in 1962; Goa State in 1987.
 3. Goa followed the same French Kizhoor referendum path as Pondicherry.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 2 only
+B. Only 3
 
-B. 1 and 3 only
+C. 2 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** Military Portuguese route ≠ French referendum.
 
@@ -1933,23 +1923,21 @@ D. Both Andhra and SRC Act — 26 January 1950
 **Q26.** Which of the following statements is/are correct?
 
 1. Jammu and Kashmir later constitution steps must not be shuffled with Union Constitution adoption/commencement dates.
-2. Chandernagore merged into West Bengal; Pondicherry group stayed a separate UT path to 1962.
-3. Part B states in 1950 were Governor’s provinces.
+2. Part B states in 1950 were Governor’s provinces.
+3. Chandernagore merged into West Bengal; Pondicherry group stayed a separate UT path to 1962.
 
-Select the correct answer from the code given below:
+A. Only 1
 
-A. 1 and 2 only
+B. Only 1 and 3
 
-B. 1 and 3 only
+C. Only 2
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2.
+**Ans: B.** 1 and 3 only are correct.
 
 **Logic:** Part A = Governor’s provinces; Part B = princely unions.
 
@@ -1995,18 +1983,18 @@ D. A-2, B-1, C-4, D-3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. 1 and 2
 
-B. 2 and 3 only
+B. Only 1, 2 and 3
 
-C. 1 and 3 only
+C. Only 2 and 3
 
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Hold the long arc from transfer to NITI.
 
@@ -2041,20 +2029,18 @@ D. Junagadh — plebiscite 1948
 2. The then poverty-line exercise sat with the Planning Commission.
 3. Finance Commission is extra-constitutional while Planning Commission is Article 280.
 
-Select the correct answer from the code given below:
+A. Only 1
 
-A. 1 and 2 only
+B. Only 1 and 2
 
-B. 1 and 3 only
+C. Only 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Reverse PC/FC constitutional status is the trap.
 

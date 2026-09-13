@@ -1295,21 +1295,21 @@ D. 1, 2 and 3
 
 **Q1.** With reference to soil science basics, which of the following statements is/are correct?
 
-1. Jenny’s five factors are Climate, Living organisms, Relief, Parent rock and Time (CLORPT).
-2. Edaphic means a climatic factor.
-3. Urvara meant fertile and Usara sterile in ancient Indian usage.
+1. Edaphic means a climatic factor.
+2. Jenny’s five factors are Climate, Living organisms, Relief, Parent rock and Time (CLORPT).
+3. Urvara meant sterile and Usara meant fertile in ancient Indian usage.
 
-A. 1 and 2 only
-B. 1, 2 and 3
-C. 2 and 3 only
-D. 1 and 3 only
+A. Only 2
+B. Only 2 and 3
+C. Only 1
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Statements 1 and 3 are correct.
+**Ans: A.** Only 2 is correct.
 
-**Logic:** Edaphic = soil factor, not climate.
+**Logic:** Edaphic means a soil factor, not climate. Urvara meant fertile and Usara sterile — do not reverse the pair.
 
 </details>
 
@@ -1405,21 +1405,21 @@ D. A-3, B-1, C-2, D-4
 
 **Q6.** With reference to black soil, which of the following statements is/are correct?
 
-1. It sits mainly on Deccan and Rajmahal Trap; montmorillonite is key clay.
-2. Area is about 16.6% / ~5.46 lakh km².
-3. Black soil is typically Himalayan in origin.
+1. Black soil is typically Himalayan in origin.
+2. It sits mainly on Deccan and Rajmahal Trap; montmorillonite is key clay.
+3. Black soil area is about 46 lakh km² across the Himalayan foothills only.
 
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 2
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: B.** Only 2 is correct.
 
-**Logic:** Regur is not Himalayan; avoid ‘46 lakh km²’ slip.
+**Logic:** Regur sits mainly on Deccan and Rajmahal Trap with montmorillonite clay. Area is about 16.6% / ~5.46 lakh km², not Himalayan.
 
 </details>
 
@@ -1442,20 +1442,20 @@ D. Laterite — dominant soil of Rajasthan plains
 **Q8.** With reference to saline/sodic remedies, which of the following statements is/are correct?
 
 1. Gypsum is used for alkali/sodic/usar soils.
-2. Lime is used for acid soils.
+2. Lime is the standard remedy for usar / alkali soils.
 3. Lime is the standard remedy for usar.
 
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. Only 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 2 are correct.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** Usar BEO trap: do not put lime on usar.
+**Logic:** Gypsum is used for alkali/sodic/usar soils. Lime is for acid soils — do not put lime on usar.
 
 </details>
 
@@ -1554,15 +1554,15 @@ D. A-1, B-3, C-2, D-4
 2. Climate can override rock — granite may become laterite if wet or sandy if arid.
 3. Pedocal soils accumulate lime in arid tracts such as Rajasthan.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Pedocal ≠ laterite (wet leached Fe/Al).
 
@@ -1610,15 +1610,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Their black colour means they are Deccan cotton regur.
 3. They can grow paddy after rains.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 3
+C. Only 2
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 3 are correct.
+**Ans: B.** 1 and 3 only are correct.
 
 **Logic:** Peaty black ≠ regur.
 
@@ -1646,15 +1646,15 @@ D. Terra Roxa — Indian regur label
 2. Contour bunding suits hill slopes.
 3. Halophytes indicate acid soils.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. Only 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Halophytes = saline soils.
 
@@ -1693,15 +1693,15 @@ D. A-3, B-1, C-2, D-4
 2. Many south faces are too steep for deep soils.
 3. Soil depth is equal on both Himalayan faces.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1, 2 and 3
+B. 1 and 2
+C. 2 and 3
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Do not claim equal soils on both faces.
 
@@ -1729,19 +1729,19 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q22.** Which of the following statements about red vs laterite is/are correct?
 
-1. Red colour on crystalline rock comes from ferric oxides.
-2. Laterite needs high temperature, heavy rain and wet–dry rhythm.
-3. Every red soil is laterite.
+1. Every red soil is laterite.
+2. Red colour on crystalline rock comes from ferric oxides.
+3. Laterite needs high temperature, heavy rain and wet–dry rhythm.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: A.** 2 and 3 only are correct.
 
 **Logic:** Red ≠ laterite automatically.
 
@@ -1753,15 +1753,15 @@ D. 1, 2 and 3
 2. Nitrogen is mainly as nitrates; phosphate roughly like alluvium.
 3. They are the largest soil group of India.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. Only 1 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** Largest group is alluvial.
 
@@ -1813,15 +1813,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. They are thin on steep slopes and loamy in valleys.
 3. Jharkhand black points to Rajmahal Trap influence.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. All 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Mountain soils hold humus on gentler forested faces.
 
@@ -1846,18 +1846,18 @@ D. Zero tillage increases sheet wash always
 **Q28.** With reference to Rarh and Bhur, which of the following statements is/are correct?
 
 1. Bhur is sandy ridges of the western Gangetic belt.
-2. Rarh is older West Bengal/Jharkhand fringe upland — not active khadar.
-3. Rarh is the newest khadar of the Ganga.
+2. Rarh is the newest khadar of the Ganga.
+3. Rarh is older West Bengal/Jharkhand fringe upland — not active khadar.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2
+B. 2 and 3
+C. Only 1
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 3 only are correct.
 
 **Logic:** Do not call Rarh active khadar.
 
@@ -1893,18 +1893,18 @@ D. A-3, B-1, C-2, D-4
 **Q30.** Which of the following statements is/are correct?
 
 1. Gujarat usually leads salt-affected area; Rann/Khambhat mouths are classic crust belts.
-2. Canal irrigation without drainage can create usar even on Indira Gandhi Canal belt.
-3. Earthworms have two pairs of hearts as a fertility myth fact to accept.
+2. Earthworms have two pairs of hearts as a fertility myth fact to accept.
+3. Canal irrigation without drainage can create usar even on Indira Gandhi Canal belt.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: D.** 1 and 3 only are correct.
 
 **Logic:** Earthworms help fertility but do NOT have two pairs of hearts.
 

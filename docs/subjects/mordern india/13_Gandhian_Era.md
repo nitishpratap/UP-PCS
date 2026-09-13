@@ -1825,18 +1825,18 @@ D. Ranikhet
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. All 1, 2 and 3
 
-B. 1 and 3 only
+B. 2 and 3
 
-C. 2 and 3 only
+C. Only 1
 
-D. 1, 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Local satyagraha ladder before Rowlatt/Jallianwala.
 
@@ -1930,25 +1930,23 @@ D. A-2, B-1, C-4, D-3
 **Q5.** With reference to Jallianwala responses, which of the following statements is/are correct?
 
 1. Tagore returned his knighthood.
-2. Sankaran Nair resigned from the Viceroy’s Executive Council.
-3. Both responses are identical with Gandhi’s Belgaum presidentship of 1919.
+2. Both responses are identical with Gandhi’s Belgaum presidentship of 1919.
+3. Sankaran Nair resigned from the Viceroy’s Executive Council in protest against Belgaum 1924.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 3 only
+B. 2 and 3
 
-B. 1 and 2 only
+C. 1 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** Belgaum 1924 is Gandhi’s only INC presidentship — not 1919.
+**Logic:** Stmt 3 false: Sankaran Nair resigned over Jallianwala/Punjab wrongs, not Belgaum 1924. Stmt 2 remains false: Belgaum 1924 ≠ 1919 response.
 
 </details>
 
@@ -2003,26 +2001,24 @@ D. 1, 2, 4, 3
 
 **Q8.** With reference to dominion status vs Purna Swaraj, which of the following statements is/are correct?
 
-1. Nehru Report (1928) answered Simon with a dominion draft.
+1. Nehru Report (1928) answered Simon with a Purna Swaraj draft outside the Empire.
 2. Lahore 1929 (Nehru) declared Purna Swaraj; pledge day 26 January 1930.
 3. Dominion status and complete independence are the same goal under different names.
 
-Select the correct answer from the code given below:
+A. Only 2
 
-A. 2 and 3 only
+B. 1 and 2
 
-B. 1 and 3 only
+C. 2 and 3
 
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: A.** Only 2 is correct.
 
-**Logic:** Within Empire ≠ complete independence.
+**Logic:** Stmt 1 false: Nehru Report was a dominion draft within the Empire; Purna Swaraj is Lahore 1929. Stmt 3 remains false: dominion ≠ complete independence.
 
 </details>
 
@@ -2087,24 +2083,22 @@ D. A-2, B-3, C-4, D-1
 
 **Q11.** With reference to Round Table Conferences, which of the following statements is/are correct?
 
-1. First RTC (1930) had Congress absent.
-2. Second RTC (1931) had Gandhi as the sole Congress representative.
-3. Rajendra Prasad went as the Congress delegate to the Second RTC in Gandhi’s place.
+1. Rajendra Prasad went as the Congress delegate to the Second RTC in Gandhi’s place.
+2. First RTC (1930) had Congress absent.
+3. Second RTC (1931) had Gandhi as the sole Congress representative.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 2 and 3 only
+B. Only 2 and 3
 
-B. 1 and 3 only
-
-C. 1 and 2 only
+C. 1 and 3
 
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: B.** 2 and 3 only are correct.
 
 **Logic:** Prasad did not go as Congress delegate to 2nd RTC.
 
@@ -2135,26 +2129,24 @@ D. CDM ended at Chauri Chaura in 1922
 
 **Q13.** Which of the following statements about 1919 same-year traps is/are correct?
 
-1. Rowlatt Act 1919 is a no-trial law controversy.
+1. Rowlatt Act 1919 introduced dyarchy in the provinces.
 2. Government of India Act 1919 introduced dyarchy.
 3. Both are the same statute under two popular names.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 2 only
+B. Only 2
 
-B. 1 and 3 only
+C. 2 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2.
+**Ans: B.** Only 2 is correct.
 
-**Logic:** Rowlatt ≠ Montford Act.
+**Logic:** Stmt 1 false: Rowlatt is the no-trial law controversy; dyarchy is GOI Act 1919. Stmt 3 remains false: Rowlatt ≠ Montford Act.
 
 </details>
 
@@ -2215,24 +2207,22 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q16.** With reference to August Offer and Individual Satyagraha, which of the following statements is/are correct?
 
-1. August Offer (8 August 1940, Linlithgow) promised dominion-after-war with a minority veto and was rejected.
-2. Individual Satyagraha (Oct 1940) began with Vinoba — symbolic one-person protest.
-3. Individual Satyagraha was identical with mass Civil Disobedience of 1930–34.
+1. Individual Satyagraha was identical with mass Civil Disobedience of 1930–34.
+2. August Offer (8 August 1940, Linlithgow) promised dominion-after-war with a minority veto and was rejected.
+3. Individual Satyagraha (Oct 1940) began with Vinoba — symbolic one-person protest.
 
-Select the correct answer from the code given below:
+A. Only 1, 2 and 3
 
-A. 1 and 2 only
+B. 2 and 3
 
-B. 1 and 3 only
+C. Only 1
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2.
+**Ans: B.** 2 and 3 only are correct.
 
 **Logic:** One-person symbolic ≠ mass CDM.
 
@@ -2273,23 +2263,21 @@ D. A-2, B-1, C-4, D-3
 **Q18.** Which of the following statements is/are correct?
 
 1. Gokhale was Gandhi’s political guru.
-2. First Congress session Gandhi attended is keyed as Calcutta 1901 (Dinshaw Wacha).
-3. At Independence Gandhi was still the formal Congress President continuously since 1924.
+2. At Independence Gandhi was still the formal Congress President continuously since 1924.
+3. First Congress session Gandhi attended is keyed as Calcutta 1901 (Dinshaw Wacha).
 
-Select the correct answer from the code given below:
+A. Only 1 and 3
 
-A. 1 and 2 only
+B. 1, 2 and 3
 
-B. 1 and 3 only
+C. Only 1 and 2
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2.
+**Ans: A.** 1 and 3 only are correct.
 
 **Logic:** Gandhi resigned Congress membership in 1934; Belgaum was his only presidentship.
 
@@ -2324,20 +2312,18 @@ D. Karachi 1931 — Purna Swaraj pledge under Motilal Nehru
 2. Nai Talim (1937) sits in this constructive stream.
 3. Constructive Programme replaced the need for any political satyagraha after 1922 permanently.
 
-Select the correct answer from the code given below:
+A. Only 1 and 2
 
-A. 1 and 2 only
+B. Only 3
 
-B. 1 and 3 only
+C. Only 2 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** Constructive work coexists with later CDM/QI arcs.
 
@@ -2379,18 +2365,18 @@ D. 1, 2, 4, 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. 2 and 3
 
-B. 2 and 3 only
+B. Only 1
 
-C. 1 and 3 only
+C. 1 and 2
 
-D. 1, 2 and 3
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Prasad–Kripalani circle vs common wrong names.
 
@@ -2433,18 +2419,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 1
 
-B. 1 and 3 only
+B. Only 1 and 2
 
-C. 2 and 3 only
+C. Only 1, 2 and 3
 
-D. 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Full NCM card: cause–course–result.
 
@@ -2479,20 +2465,18 @@ D. Unto This Last — Tilak’s Mandalay reading list only
 2. Influences commonly keyed: Ruskin, Thoreau, Tolstoy.
 3. Fasting is often keyed as the last weapon; strike as the first step in satyagraha strategy teaching.
 
-Select the correct answer from the code given below:
+A. Only 1, 2 and 3
 
-A. 1 and 2 only
+B. Only 2 and 3
 
-B. 1 and 3 only
+C. Only 1
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** Fasting early/first; strike often last — reverse is the trap.
 
@@ -2538,18 +2522,18 @@ D. A-1, B-2, C-4, D-3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. 1, 2 and 3
 
-B. 2 and 3 only
+B. Only 2 and 3
 
-C. 1 and 3 only
+C. Only 1
 
-D. 1, 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three.
+**Ans: A.** All three statements are correct.
 
 **Logic:** CDM is not only Dandi — hold the full result ladder.
 
@@ -2565,18 +2549,18 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. 1 and 2
 
-B. 1 and 3 only
+B. All 1, 2 and 3
 
-C. 2 and 3 only
+C. Only 2 and 3
 
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Associate tags from Must-Score.
 

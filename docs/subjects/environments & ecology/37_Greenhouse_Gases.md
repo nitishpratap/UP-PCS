@@ -511,20 +511,20 @@ D. Ozone
 **Q1.** With reference to the greenhouse effect, which of the following statements is/are correct?
 
 1. GHGs absorb outgoing IR and trap heat.
-2. Without natural GE Earth ~−18°C; with it ~+15°C.
+2. Without the natural greenhouse effect Earth would be about +15°C; with it about −18°C.
 3. Argon is the main greenhouse gas.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Argon is not a GHG.
+**Logic:** Statement 1 is the GHG heat-trap mechanism. Statement 2 reverses the −18°C / +15°C teaching pair. Statement 3 is false — argon is not a main GHG.
 
 </details>
 
@@ -554,21 +554,21 @@ D. A-3, B-1, C-2
 
 **Q3.** Which of the following pairs is/are correctly matched?
 
-1. Pre-industrial CO₂ ~280 ppm
+1. Pre-industrial CO₂ was about 415–420 ppm.
 2. Present >415–420 ppm teaching
-3. WMO-style share order CO₂ > CH₄ > CFCs > N₂O
+3. WMO-style share order is N₂O > CFCs > CH₄ > CO₂.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2
+B. 1 and 3
+C. Only 1
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three.
+**Ans: A.** Only 2 is correct.
 
-**Logic:** CO₂ levels + shares.
+**Logic:** Statement 2 is the present >415–420 ppm teaching. Statement 1 swaps pre-industrial (~280 ppm) with present levels. Statement 3 reverses the usual CO₂ > CH₄ > CFCs > N₂O share order.
 
 </details>
 

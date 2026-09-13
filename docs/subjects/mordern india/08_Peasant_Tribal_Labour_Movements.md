@@ -3302,26 +3302,23 @@ D. Vallabhbhai Patel
 **Q1.** With reference to streams of protest, which of the following statements is/are correct?
 
 1. Peasant protest centres on rent, indigo and share issues among settled cultivators.
-2. Tribal protest centres on land–forest–diku intrusion.
-3. Labour protest and peasant protest always share the same target and method.
+2. Labour protest and peasant protest always share the same target and method.
+3. Tribal protest centres on factory wages and trade-union recognition in mill towns.
 
-Select the correct answer from the code given below:
+A. Only 1
 
+B. 1 and 2
 
-A. 1 and 3 only
+C. 2 and 3
 
-B. 2 and 3 only
-
-C. 1, 2 and 3
-
-D. 1 and 2 only
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2.
+**Ans: A.** Only 1 is correct.
 
-**Logic:** Method can overlap; target of protest does not.
+**Logic:** Stmt 3 false: Tribal protest centres on land–forest–diku intrusion, not mill wages. Stmt 2 remains false: labour and peasant targets/methods are not always identical.
 
 </details>
 
@@ -3329,27 +3326,24 @@ D. 1 and 2 only
 
 **Q2.** With reference to the Indigo Revolt (1859–60), which of the following statements is/are correct?
 
-1. Cause — European planters’ forced indigo and dadan advances.
+1. Cause — moneylender (sahukar) grip in Poona–Ahmednagar alone.
 2. Course — Biswas brothers in Nadia and wider Bengal resistance.
 3. Result — Deccan Agriculturists’ Relief Act, 1879.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
+B. 2 and 3
 
-A. 1 and 3 only
+C. Only 2
 
-B. 2 and 3 only
-
-C. 1, 2 and 3
-
-D. 1 and 2 only
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2.
+**Ans: C.** Only 2 is correct.
 
-**Logic:** Indigo result = Indigo Commission 1860; 1879 Act is Deccan Riots result.
+**Logic:** Stmt 1 false: Indigo Revolt cause is European planters’ forced indigo and dadan; sahukar grip is Deccan Riots. Stmt 3 remains false: Deccan Relief Act 1879 is not the Indigo result.
 
 </details>
 
@@ -3465,27 +3459,24 @@ D. 4, 3, 1, 2
 
 **Q7.** With reference to Deccan Riots (1875), which of the following statements is/are correct?
 
-1. Cause — moneylender (sahukar) grip in Poona–Ahmednagar.
-2. Result — Deccan Agriculturists’ Relief Act, 1879.
-3. Result — Indigo Commission of 1860 under the same statute.
+1. Result — Indigo Commission of 1860 under the same statute.
+2. Cause — European planters’ forced indigo and dadan advances in Bengal.
+3. Result — Deccan Agriculturists’ Relief Act, 1879.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
+B. Only 3
 
-A. 1 and 3 only
+C. 2 and 3
 
-B. 1 and 2 only
-
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: B.** Only 3 is correct.
 
-**Logic:** Keep Indigo Commission distinct from Deccan Relief Act.
+**Logic:** Stmt 2 false: Deccan Riots cause is sahukar grip in Poona–Ahmednagar; indigo/dadan is the Indigo Revolt. Stmt 1 remains false: Indigo Commission ≠ Deccan Relief Act.
 
 </details>
 
@@ -3493,27 +3484,24 @@ D. 1, 2 and 3
 
 **Q8.** With reference to UP peasant organisations, which of the following statements is/are correct?
 
-1. UP Kisan Sabha (1918) is keyed to Indra Narayan Dwivedi (with Gauri Shankar Mishra).
-2. Oudh Kisan Sabha (October 1920, Pratapgarh) was mobilised by Baba Ramchandra.
-3. Eka (1921–22) under Madari Pasi is identical with UP Kisan Sabha 1918.
+1. Eka (1921–22) under Madari Pasi is identical with UP Kisan Sabha 1918.
+2. UP Kisan Sabha (1918) is keyed to Indra Narayan Dwivedi (with Gauri Shankar Mishra).
+3. Oudh Kisan Sabha (October 1920, Pratapgarh) was mobilised by Madari Pasi.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
+B. 2 and 3
 
-A. 1 and 3 only
+C. 1 and 3
 
-B. 2 and 3 only
-
-C. 1, 2 and 3
-
-D. 1 and 2 only
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2.
+**Ans: D.** Only 2 is correct.
 
-**Logic:** UP Focus triple — mixing any two names fails the stem.
+**Logic:** Stmt 3 false: Oudh Kisan Sabha = Baba Ramchandra; Madari Pasi is tagged to Eka 1921–22. Stmt 1 remains false: Eka ≠ UP Kisan Sabha 1918.
 
 </details>
 
@@ -3553,21 +3541,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Telangana (1946–51) was the CPI-led armed anti-jagirdar struggle in Hyderabad State.
 3. Tebhaga and Telangana are two names for the same Bengal sharecrop movement.
 
-Select the correct answer from the code given below:
+A. Only 1
 
+B. 1 and 2
 
-A. 1 and 3 only
+C. Only 3
 
-B. 1 and 2 only
-
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Bengal share demand ≠ Hyderabad armed anti-jagirdar war.
 
@@ -3631,24 +3616,21 @@ D. Bareilly 1816 — Khan Bahadur Khan of 1857
 **Q13.** With reference to Munda Ulgulan, which of the following statements is/are correct?
 
 1. It was led by Birsa Munda against diku landlords and colonial intrusion in Chotanagpur.
-2. It is dated 1899–1900.
-3. It is identical with Santhal Hul under Sidhu and Kanhu.
+2. It is identical with Santhal Hul under Sidhu and Kanhu.
+3. It is dated 1899–1900.
 
-Select the correct answer from the code given below:
+A. 1 and 3
 
+B. 1, 2 and 3
 
-A. 1 and 3 only
+C. Only 1 and 2
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: A.** 1 and 3 only are correct.
 
 **Logic:** Santhal 1855 ≠ Munda 1899–1900.
 
@@ -3685,25 +3667,22 @@ D. 4, 2, 1, 3
 
 **Q15.** With reference to All India Kisan Sabha, which of the following statements is/are correct?
 
-1. It is keyed to Swami Sahajanand Saraswati (Lucknow session, 1936).
-2. It is not the same body as UP Kisan Sabha of 1918 under Dwivedi.
-3. Its first president was Lala Lajpat Rai in 1920.
+1. Its first president was Lala Lajpat Rai in 1920.
+2. It is keyed to Swami Sahajanand Saraswati (Lucknow session, 1936).
+3. It is not the same body as UP Kisan Sabha of 1918 under Dwivedi.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
+B. Only 1, 2 and 3
 
-A. 1 and 3 only
+C. Only 2 and 3
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: C.** 2 and 3 only are correct.
 
 **Logic:** Lajpat Rai 1920 = AITUC — labour, not AIKS.
 
@@ -3741,25 +3720,22 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q17.** With reference to Kuka (Namdhari) rising, which of the following statements is/are correct?
 
-1. It is dated around 1872 under Baba Ram Singh.
-2. It belongs to Punjab.
-3. It is identical with Bengal’s Pabna agrarian leagues.
+1. It is identical with Bengal’s Pabna agrarian leagues.
+2. It is dated around 1872 under Baba Ram Singh.
+3. It belongs to Punjab.
 
-Select the correct answer from the code given below:
+A. Only 1
 
+B. Only 1 and 2
 
-A. 1 and 3 only
+C. All 1, 2 and 3
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: D.** 2 and 3 only are correct.
 
 **Logic:** Keep Punjab Kuka distinct from Bengal peasant leagues.
 
@@ -3776,18 +3752,18 @@ D. 1, 2 and 3
 Select the correct answer from the code given below:
 
 
-A. 1 and 2 only
+A. Only 1, 2 and 3
 
-B. 1 and 3 only
+B. 2 and 3
 
-C. 2 and 3 only
+C. Only 1
 
-D. 1, 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three labour tags are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** ILO / Madras Union / Lokhande trio.
 
@@ -3854,21 +3830,18 @@ D. Sylhet–Radharam (match-extra tag)
 2. The whole movement cannot be reduced to the 1948 Police Action alone.
 3. Telangana was only a 1928 Bardoli-style no-tax satyagraha in Gujarat.
 
-Select the correct answer from the code given below:
+A. All 1, 2 and 3
 
+B. Only 1 and 2
 
-A. 1 and 3 only
+C. 2 and 3
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Hyderabad armed struggle ≠ Bardoli method/region.
 
@@ -3906,24 +3879,21 @@ D. 2, 3, 4, 1
 **Q23.** With reference to after-effects of Santhal Hul, which of the following statements is/are correct?
 
 1. Santhal Parganas administration followed.
-2. Transfer of Santhal land to non-Santhals was banned in the standard result line.
-3. Indigo cultivation expanded mainly because synthetic dyes disappeared.
+2. Indigo cultivation expanded mainly because synthetic dyes disappeared.
+3. Transfer of Santhal land to non-Santhals was banned in the standard result line.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
+B. Only 3
 
-A. 1 and 3 only
+C. 1 and 3
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: C.** 1 and 3 only are correct.
 
 **Logic:** Indigo later faded mainly because of synthetic dyes — opposite of stmt 3.
 
@@ -3965,21 +3935,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Gadakari rising is tagged to Kolhapur, 1844.
 3. Vasudev Balwant Phadke led the Santhal Hul of 1855–56.
 
-Select the correct answer from the code given below:
+A. Only 1
 
+B. 1 and 2
 
-A. 1 and 3 only
+C. 1, 2 and 3
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Phadke = Ramosi Krishak Jatha stream — not Sidhu–Kanhu.
 
@@ -4012,24 +3979,21 @@ D. Cause: jagirdari in Hyderabad; Result: Pabna leagues 1873
 **Q27.** With reference to Eka and Tebhaga, which of the following statements is/are correct?
 
 1. Eka (1921–22) stressed rent receipts and oath-bound unity in Hardoi–Bahraich–Sitapur.
-2. Tebhaga demanded a two-thirds share for Bengal sharecroppers.
-3. Eka is only a 1946 Bengal renaming of Tebhaga.
+2. Eka is only a 1946 Bengal renaming of Tebhaga.
+3. Tebhaga demanded a two-thirds share for Bengal sharecroppers.
 
-Select the correct answer from the code given below:
+A. 1 and 3
 
+B. Only 2
 
-A. 1 and 3 only
+C. Only 2 and 3
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: A.** 1 and 3 only are correct.
 
 **Logic:** Awadh rent-receipt oath ≠ Bengal sharecrop share.
 
@@ -4074,21 +4038,18 @@ D. A-2, B-3, C-1, D-4
 2. Kheda was a no-revenue satyagraha in crop-failure conditions.
 3. Both were led as armed anti-jagirdar dalams under the Nizam.
 
-Select the correct answer from the code given below:
+A. Only 1
 
+B. Only 1 and 2
 
-A. 1 and 3 only
+C. Only 3
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Armed anti-jagirdar = Telangana — not Champaran/Kheda.
 

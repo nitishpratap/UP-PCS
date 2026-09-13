@@ -584,22 +584,20 @@ If a 2026 paper prints *Gopalan vs Maneka*, Dicey-three, positive secularism, or
 **Q1.** With reference to Preamble counts and words, which of the following statements is/are correct?
 
 1. Justice has 3 limbs; Liberty 5; Equality 2; Fraternity 1.
-2. The word “Federal” appears in the Preamble.
-3. The 42nd Amendment added Socialist, Secular and integrity.
+2. Rule of Law means the executive is above the Constitution.
+3. The 42nd Amendment deleted Socialist and Secular from the Preamble.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. 1 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 3 are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** “Federal” is not in the Preamble.
+**Logic:** Justice 3 / Liberty 5 / Equality 2 / Fraternity 1 is the count map. “Federal” is not in the Preamble. The 42nd added Socialist, Secular and integrity.
 
 </details>
 
@@ -691,25 +689,24 @@ D. 1–2–4–3
 </details>
 **Q6.** With reference to separation of powers in India, which of the following is/are correct?
 
-1. Ram Jawaya Kapur (1955) rejected American-style rigid separation for India.
-2. India has functional separation with fusion of executive and legislature.
-3. Separation of powers is outside Basic Structure discussion.
+1. Ram Jawaya Kapur (1955) rejected American-style rigid separation; India has functional separation with fusion of executive and legislature.
+2. India has American-style rigid separation with no fusion of executive and legislature.
+3. Fraternity in the Preamble excludes dignity of the individual.
 
-Select the correct answer from the code given below:
-
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 1
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Separation of powers is Basic Structure; Art. 50 is only the services DPSP slice.
+**Logic:** Ram Jawaya Kapur (1955) rejected American-style rigid separation. India has functional separation with fusion of executive and legislature. Separation of powers is Basic Structure. Secularism is not a theocratic State-religion model.
 
 </details>
+
 **Q7.** With reference to parliamentary sovereignty vs constitutional supremacy, which of the following is/are correct?
 
 1. UK classic is parliamentary sovereignty; India’s working model is constitutional supremacy.
@@ -772,20 +769,18 @@ D. Equality of status — Articles 14/15/17 track
 **Q10.** With reference to welfare state and socialism, which of the following is/are correct?
 
 1. Article 38 and Part IV are main welfare instruments; Article 37 makes DPSPs fundamental in governance though not directly enforceable.
-2. Indian socialism in the Preamble is democratic/mixed-economy, not a USSR one-party textbook model.
-3. The 1991 reforms deleted the word Socialist from the Preamble.
+2. The 1991 reforms deleted the word Socialist from the Preamble.
+3. Indian socialism in the Preamble is democratic/mixed-economy, not a USSR one-party textbook model.
 
-Select the correct answer from the code given below:
-
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2
+B. 2 and 3
+C. Only 1
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 3 only are correct.
 
 **Logic:** 1991 did not delete Socialist from the Preamble.
 
@@ -796,17 +791,15 @@ D. 1, 2 and 3
 2. Republic means an elected Head of State (Art. 54 track), not a hereditary monarch.
 3. The UK is a republic because it is a democracy.
 
-Select the correct answer from the code given below:
-
-A. 1, 2 and 3
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1 and 2 only
+A. 1 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** UK can be a democracy without being a republic.
 
@@ -868,15 +861,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1, 2 and 3
+B. Only 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Kesavananda/Minerva keep limited amending power.
 
@@ -967,15 +960,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Golden triangle + privacy + natural justice content.
 
@@ -1053,15 +1046,15 @@ D. A-2, B-1, C-4, D-3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. All 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Ambedkar: without fraternity, liberty and equality stay incomplete.
 
@@ -1095,17 +1088,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Article 25(2) allows State reform/regulation power.
 3. It means State indifference to all reform needs.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 3
+C. Only 1 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** Not theocracy; not hard US wall; not indifference to reform.
 
@@ -1113,10 +1104,10 @@ D. 1, 2 and 3
 
 **Q26.** Which of the following statements about liberty lists is/are correct?
 
-1. Preamble liberty five words are not the same list as Article 19’s six freedoms.
-2. Preamble liberty is identical to “liberty of person” under Article 21.
+1. Preamble liberty is identical to “liberty of person” under Article 21.
 
 Select the correct answer from the code given below:
+2. Preamble liberty five words are not the same list as Article 19’s six freedoms.
 
 A. Only 1
 B. Only 2
@@ -1126,7 +1117,7 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 is correct.
+**Ans: B.** Only 2 is correct.
 
 **Logic:** Art. 21 personal liberty is not a Preamble-five word.
 

@@ -3285,20 +3285,20 @@ D. Guntur
 **Q1.** With reference to NSA and GCA, which of the following statements is/are correct?
 
 1. Cropping intensity = GCA / NSA × 100.
-2. About 86% of holdings are small or marginal.
+2. About 10% of holdings are small or marginal.
 3. Intensity is calculated as NSA / GCA × 100.
 
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** Do not invert GCA/NSA.
+**Logic:** Cropping intensity = GCA / NSA × 100. About 86% of holdings are small or marginal. Do not invert GCA/NSA.
 
 </details>
 
@@ -3391,21 +3391,21 @@ D. A-3, B-1, C-2, D-4
 
 **Q6.** With reference to rice and wheat, which of the following statements is/are correct?
 
-1. West Bengal often leads rice volume; Punjab leads yield.
-2. Textbook rank usually places India second in rice after China.
-3. Assam–Wheat is a correct belt pair.
+1. Assam–Wheat is a correct belt pair.
+2. West Bengal often leads rice volume; Punjab leads yield.
+3. Textbook rank usually places India first in rice ahead of China.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 2
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Ans: B.** Only 2 is correct.
 
-**Logic:** Assam–Wheat is a wrong pair; wheat belts are Ganga–Satluj plains + Deccan black.
+**Logic:** Assam–Wheat is a wrong belt pair. West Bengal often leads rice volume; Punjab leads yield. India is usually second in rice after China.
 
 </details>
 
@@ -3428,20 +3428,20 @@ D. Grey — petroleum
 **Q8.** With reference to cotton, which of the following statements is/are correct?
 
 1. Cotton is kharif, needs frost-free days, prefers black soil, hates waterlogging.
-2. India grows all four species; bulk is hirsutum/Bt; mostly medium staple.
-3. Traditional largest textile mill centre is Ahmedabad, not Mumbai.
+2. Traditional largest textile mill centre is Ahmedabad, not Mumbai.
+3. India grows only Gossypium arboreum and rejects Bt / hirsutum entirely.
 
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: A.** Only 1 is correct.
 
-**Logic:** Ahmedabad is in the belt; traditional largest mill centre is Mumbai.
+**Logic:** Cotton is kharif on black soil and hates waterlogging. India grows all four species; bulk is hirsutum/Bt. Traditional largest mill centre is Mumbai, not Ahmedabad.
 
 </details>
 
@@ -3518,15 +3518,15 @@ D. A-2, B-1, C-3, D-4
 2. NARP zones ~127; agro-ecological regions ~20.
 3. Trans-Gangetic belt is a classic Green Revolution wheat–rice zone.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Do not swap 15 ACZ with 20 AER.
 
@@ -3591,18 +3591,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q16.** With reference to India ranks, which of the following statements is/are correct?
 
 1. India usually ranks first in milk, pulses and jute.
-2. India often ranks second in rice, wheat and cane.
-3. Yellow Revolution is petroleum.
+2. Yellow Revolution is petroleum.
+3. India often ranks second in rice, wheat and cane.
 
-A. 1, 2 and 3
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1 and 2 only
+A. Only 2 and 3
+B. Only 1
+C. 1 and 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 3 only are correct.
 
 **Logic:** Black=petroleum; Yellow=oilseeds.
 
@@ -3630,15 +3630,15 @@ D. Azolla — insecticide in rice
 2. Costs include groundwater stress, monoculture and millet/pulse neglect.
 3. Amartya Sen’s food thesis is entitlements, not Swaminathan’s breeding story.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. 1 and 2
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** BGREI targets eastern rice systems.
 
@@ -3697,15 +3697,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Coffee is strongest in Karnataka, then Kerala and Tamil Nadu.
 3. Rubber correct state pair is Gujarat.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** Rubber = Kerala; pepper/cardamom also concentrate in Kerala.
 
@@ -3717,15 +3717,15 @@ D. 1, 2 and 3
 2. Double cropping = two crops in one year.
 3. Parallel cropping classic = wheat + mustard.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
+A. 2 and 3
+B. Only 1
+C. 1 and 2
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Contract farming pioneer often tagged to Punjab.
 
@@ -3753,15 +3753,15 @@ D. Ratoon means changing the crop each year
 2. White (capsularis) is flood-tolerant; tossa (olitorius) is upland with better fibre.
 3. Mesta is the drier-area allied fibre.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
+A. Only 2 and 3
+B. Only 1
+C. Only 1 and 2
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** India is world number one in jute.
 
@@ -3813,15 +3813,15 @@ D. 2 and 3 only
 2. Cane is long-duration; tea/coffee/rubber are perennial.
 3. Cotton is a rabi crop of 6–8 months.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. Only 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** Cotton is kharif.
 
@@ -3845,19 +3845,19 @@ D. Golden rice carries Vitamin C
 
 **Q29.** With reference to irrigation methods, which of the following statements is/are correct?
 
-1. Canals suit clayey plains; tube wells dominate NW and western UP; tanks suit peninsula.
-2. Drip suits horticulture; minor CCA ≤2000 ha creates ~62% of irrigation potential.
-3. Lift irrigation is irrelevant where southern canal layouts are irregular.
+1. Lift irrigation is irrelevant where southern canal layouts are irregular.
+2. Canals suit clayey plains; tube wells dominate NW and western UP; tanks suit peninsula.
+3. Drip suits horticulture; minor CCA ≤2000 ha creates ~62% of irrigation potential.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 3
+C. Only 2
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: D.** 2 and 3 only are correct.
 
 **Logic:** Lift irrigation matters where southern layouts are irregular.
 
@@ -3869,15 +3869,15 @@ D. 1, 2 and 3
 2. Gram is rabi; tur/moong/urad are kharif.
 3. Parallel cropping classic is potato + rice.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1, 2 and 3
+B. Only 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** Parallel cropping classic = wheat + mustard.
 

@@ -442,20 +442,20 @@ After every UPPCS mock, score yourself on these trend dimensions:
 **Q1.** With reference to recent UPPCS environment weight, which of the following statements is/are correct?
 
 1. Roughly 15–20 tagged marks most years.
-2. Planning for only 8–10 is outdated.
+2. Planning for only 8–10 tagged marks is still the current best estimate.
 3. Tagged volume fell to zero after 2018.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 3
+B. Only 2
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** Volume rose — not to zero.
+**Logic:** Statement 1 is true (~15–20 tagged marks most years). Statement 2 is false — 8–10 planning is outdated. Statement 3 is false — tagged volume did not fall to zero after 2018.
 
 </details>
 
@@ -485,24 +485,23 @@ D. A-3, B-1, C-2
 
 **Q3.** Which of the following pairs is/are correctly matched?
 
-1. Hottest cluster — SDGs / sustainable development
+1. The hottest cluster is only Van Mahotsav ceremony dates.
 2. Then pollution; then ecology/ecosystem
 3. Hottest cluster — only Van Mahotsav dates
 
-A. 1, 2 and 3
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1 and 2 only
+A. Only 1
+B. 1 and 2
+C. 2 and 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2.
+**Ans: D.** Only 2 is correct.
 
-**Logic:** SDGs lead heat map.
+**Logic:** Statement 2 is true (pollution then ecology/ecosystem after the hottest SDG cluster). Statement 1 is false — SDGs/sustainable development is the hottest cluster. Statement 3 repeats the Van Mahotsav trap.
 
 </details>
-
 **Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 Assertion (A): 2025 environment paper shifted toward multi-statement, A/R, Match, and NOT-matched.

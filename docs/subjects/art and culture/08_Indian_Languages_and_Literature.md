@@ -2592,22 +2592,20 @@ D. Tabla
 **Q1.** With reference to Shruti and Smriti, which of the following statements is/are correct?
 
 1. Shruti covers the heard Veda stack of Samhita, Brahmana, Aranyaka and Upanishad.
-2. Smriti covers epics, Puranas, Dharmashastra and related remembered texts.
+2. Smriti covers only the four Vedas and excludes epics and Puranas.
 3. Itihasa means the eighteen Maha Puranas only.
 
-Select the correct answer from the code given below:
-
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. Only 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Itihasa means Ramayana and Mahabharata. Puranas are a separate Smriti class.
+**Logic:** Smriti covers epics, Puranas, Dharmashastra and related remembered texts. Itihasa means Ramayana and Mahabharata.
 
 </details>
 
@@ -2638,31 +2636,29 @@ D. 1, 2, 3 and 4
 
 **Q3.** With reference to Kalidasa, which of the following statements is/are correct?
 
-1. Kavya facts include Meghaduta, Raghuvamsha, Kumarasambhava and Ritusamhara.
-2. His three dramas are Abhijnanashakuntalam, Vikramorvashiya and Malavikagnimitram.
-3. Shringara Shataka is also Kalidasa’s work.
+1. Shringara Shataka is also Kalidasa’s work.
+2. Kavya facts include Meghaduta, Raghuvamsha, Kumarasambhava and Ritusamhara.
+3. His three dramas are Mrichchhakatika, Mudrarakshasa and Swapnavasavadatta.
 
-Select the correct answer from the code given below:
-
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. Only 1 and 3
+B. Only 2
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: B.** Only 2 is correct.
 
-**Logic:** Shringara Shataka is Bhartrihari.
+**Logic:** Shringara Shataka is Bhartrihari. Kalidasa’s three dramas are Abhijnanashakuntalam, Vikramorvashiya and Malavikagnimitram.
 
 </details>
 
 **Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): Eighth Schedule lists 22 languages while Sahitya Akademi awards in 24 languages.
+Assertion (A): Classical language status and Eighth Schedule are the same constitutional list with identical counts.
 
-Reason (R): Classical language status and Eighth Schedule are the same constitutional list with identical counts.
+Reason (R): Eighth Schedule lists 22 languages while Sahitya Akademi awards in 24 languages.
 
 Select the correct answer from the code given below:
 
@@ -2674,9 +2670,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true. (R) is false because classical language is a Culture Ministry recognition tag, not the Eighth Schedule.
+**Ans: B.** A false, R true.
 
-**A/R logic:** 22 vs 24 vs classical 11 are three different counts.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. 22 vs 24 vs classical 11 are three different counts.
 
 </details>
 
@@ -2770,22 +2766,22 @@ D. 1, 2, 3 and 4
 **Q9.** With reference to Buddhist and Jain language facts, which of the following statements is/are correct?
 
 1. Buddhist canon language is Pali (Tripitaka).
-2. Jain Agamas are largely Prakrit / Ardhamagadhi.
-3. Svetambara Angas number 12.
+2. Jain Agamas are largely classical Sanskrit court kavya only.
+3. Svetambara Angas number 18 like the Maha Puranas.
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: A.** Only 1 is correct.
 
-**Logic:** Milindapanha pairs Menander with Nagasena.
+**Logic:** Jain Agamas are largely Prakrit / Ardhamagadhi. Svetambara Angas number 12.
 
 </details>
 
@@ -2888,9 +2884,9 @@ D. 1, 2, 3 and 4
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
+A. 2 and 3
+B. Only 1
+C. Only 1 and 2
 D. 1, 2 and 3
 
 <details>
@@ -2991,20 +2987,18 @@ D. 1, 2, 3 and 4
 **Q19.** Which of the following statements about Panchatantra is/are correct?
 
 1. It is attributed to Vishnu Sharma.
-2. Abul Fazl’s Mughal Persian rendering is Ayar-e-Danish.
-3. It is identical with Amarakosha.
+2. It is identical with Amarakosha.
+3. Abul Fazl’s Mughal Persian rendering is Ayar-e-Danish.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 3
+B. 1, 2 and 3
+C. 1 and 2
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: A.** 1 and 3 only are correct.
 
 **Logic:** Amarakosha is Amarasimha’s lexicon.
 
@@ -3057,15 +3051,15 @@ D. 1, 2, 3 and 4
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. All 1, 2 and 3
+B. Only 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** These are UP court and modern literature tags.
 
@@ -3170,17 +3164,15 @@ D. It is the Persian Ayar-e-Danish of Abul Fazl
 2. Pali and Prakrit classical tags also touch Buddhist and Jain literary belts.
 3. Classical language status automatically inserts a language into the Eighth Schedule.
 
-Which of the statements given above is/are correct?
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. All 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Eighth Schedule remains a separate constitutional list of 22.
 
@@ -3194,15 +3186,15 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. Only 1 and 2
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three author–work matches are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Trivikram Bhatta–Nalachampu is another high-yield champu tag.
 

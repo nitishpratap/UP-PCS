@@ -509,26 +509,24 @@ A. Śreni B. Nagaram C. Nānādesis D. Manigrama
 
 **Q1.** With reference to the economy-type ladder, which of the following statements is/are correct?
 
-1. Indus = Urban; Rigvedic = Pastoral; Later Vedic = Agrarian; medieval slot = landlordism.
-2. The Indus uses weights and seals but has no coins.
-3. Vedic nishka is a minted punch-marked silver coin.
+1. Vedic nishka is a minted punch-marked silver coin.
+2. Indus = Pastoral; Rigvedic = Urban; Later Vedic = Agrarian; medieval slot = landlordism.
+3. The Indus uses weights and seals but has no coins.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 3 only
+B. Only 3
 
-B. 1 and 2 only
+C. 2 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Ans: B.** Only 3 is correct.
 
-**Logic:** Stmt 3 false: nishka is a gold unit/ornament, not a minted coin.
+**Logic:** Stmt 2 false: Correct spine is Indus = Urban; Rigvedic = Pastoral; Later Vedic = Agrarian. Stmt 1 remains false: Vedic nishka is not a minted punch-marked silver coin.
 
 </details>
 
@@ -650,18 +648,18 @@ D. Manigrama — only Mauryan inland tax farm
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. All 1, 2 and 3
 
-B. 2 and 3 only
+B. Only 2 and 3
 
-C. 1 and 3 only
+C. Only 1
 
-D. 1, 2 and 3
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Do not swap Barygaza and Barbarikon.
 
@@ -672,25 +670,23 @@ D. 1, 2 and 3
 **Q7.** Consider the following statements about inland highways:
 
 1. Uttarapatha runs Taxila toward Pataliputra.
-2. Dakshinapatha runs from the Ganga belt through Ujjain into the Deccan.
+2. Dakshinapatha means only sea trade on the Coromandel.
 3. Dakshinapatha means only sea trade on the Coromandel.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 3 only
+B. 2 and 3
 
-B. 1 and 2 only
+C. 1 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** Stmt 3 false: Dakshinapatha is a road, not only sea.
+**Logic:** Stmt 2 false: Dakshinapatha is the road from the Ganga belt through Ujjain into the Deccan, not only Coromandel sea trade. Stmt 2 remains false for the same trap.
 
 </details>
 
@@ -755,26 +751,24 @@ D. 1-D, 2-A, 3-C, 4-B
 
 **Q10.** With reference to Roman trade, which of the following statements is/are correct?
 
-1. Roman trade peaks about the first to third centuries CE.
+1. Roman trade peaks about the eighth to tenth centuries CE under the Palas.
 2. Pliny complains of a gold drain to India; Periplus is the coastal handbook.
 3. East-coast Tamralipti is the main Roman pepper–gold door.
 
-Select the correct answer from the code given below:
+A. Only 2
 
-A. 2 and 3 only
+B. 1 and 2
 
-B. 1 and 3 only
+C. 2 and 3
 
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 2 are correct.
+**Ans: A.** Only 2 is correct.
 
-**Logic:** Stmt 3 false: pepper–gold circuit centres on Malabar and Broach.
+**Logic:** Stmt 1 false: Roman trade peaks about the first to third centuries CE. Stmt 3 remains false: pepper–gold circuit centres on Malabar and Broach, not only Tamralipti.
 
 </details>
 
@@ -782,26 +776,24 @@ D. 1, 2 and 3
 
 **Q11.** Consider the following statements about guilds:
 
-1. Shreni is the general craft or trade guild; Nagaram is a south Indian town merchant body.
-2. Guild custom is treated as usable law in the Arthashastra; Sanchi–Bharhut gifts name shrenis.
-3. Ainnurruvar (“500”) are a Mauryan guild label for punch-marked mint workers.
+1. Ainnurruvar (“500”) are a Mauryan guild label for punch-marked mint workers.
+2. Shreni is the general craft or trade guild; Nagaram is a south Indian town merchant body.
+3. Guild custom is treated as usable law in the Arthashastra; Sanchi–Bharhut gifts name shrenis.
 
-Select the correct answer from the code given below:
+A. Only 1
 
-A. 1 and 3 only
+B. 1 and 3
 
-B. 1 and 2 only
+C. Only 2
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Ans: D.** 2 and 3 only are correct.
 
-**Logic:** Stmt 3 false: Ainnurruvar are a later south merchant network.
+**Logic:** Stmt 1 false: Ainnurruvar are a later south merchant network.
 
 </details>
 
@@ -888,25 +880,23 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q15.** With reference to Harappan and later port archaeology, which of the following statements is/are correct?
 
 1. Boat models come from Mohenjo-daro and Lothal.
-2. Sutkagen-dor is the Harappan west end on the Makran.
-3. An entrepot is identical with any landing point.
+2. An entrepot is identical with any landing point.
+3. Sutkagen-dor is the Harappan west end on the Makran.
 
-Select the correct answer from the code given below:
+A. Only 1 and 3
 
-A. 1 and 2 only
+B. Only 1
 
-B. 1 and 3 only
+C. 1 and 2
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: A.** 1 and 3 only are correct.
 
-**Logic:** Stmt 3 false: entrepot is warehouse/redistributor hub, not any landing point.
+**Logic:** Stmt 2 false: entrepot is warehouse/redistributor hub, not any landing point.
 
 </details>
 
@@ -950,18 +940,18 @@ D. 1-D, 2-A, 3-C, 4-B
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. All 1, 2 and 3
 
-B. 2 and 3 only
+B. Only 2 and 3
 
-C. 1 and 3 only
+C. Only 1
 
-D. 1, 2 and 3
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Must-Score punch-mark facts.
 
@@ -975,20 +965,18 @@ D. 1, 2 and 3
 2. Horses, wine, gold, and glass are famous western imports.
 3. Sailors ignore monsoon reversal in the Periplus age.
 
-Select the correct answer from the code given below:
+A. Only 1
 
-A. 1 and 2 only
+B. 1 and 2
 
-B. 1 and 3 only
+C. Only 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Stmt 3 false: sailors use monsoon reversal.
 
@@ -1054,18 +1042,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. 1 and 2
 
-B. 2 and 3 only
+B. All 1, 2 and 3
 
-C. 1 and 3 only
+C. Only 2 and 3
 
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Market and Konkan port facts.
 
@@ -1107,20 +1095,18 @@ D. 2–4–3–1
 2. From the mahajanapada age, towns, NBPW, and punch-marked silver travel with long-distance trade.
 3. Indus cities minted the first karshapana.
 
-Select the correct answer from the code given below:
+A. Only 2 and 3
 
-A. 1 and 2 only
+B. Only 1
 
-B. 1 and 3 only
+C. 1 and 2
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Stmt 3 false: Indus has no coins.
 
@@ -1151,26 +1137,24 @@ D. Ainnurruvar
 
 **Q25.** Which of the following statements is/are correct?
 
-1. An amphora is a tall Roman jar with a long neck and two handles for wine or oil.
-2. Sangam poems call western foreign traders Yavana.
-3. Uttarapatha is only a sea lane from Broach to Alexandria.
+1. Uttarapatha is only a sea lane from Broach to Alexandria.
+2. An amphora is a tall Roman jar with a long neck and two handles for wine or oil.
+3. Sangam poems call western foreign traders Yavana.
 
-Select the correct answer from the code given below:
+A. Only 2
 
-A. 1 and 2 only
+B. Only 2 and 3
 
-B. 1 and 3 only
+C. Only 1
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: B.** 2 and 3 only are correct.
 
-**Logic:** Stmt 3 false: Uttarapatha is the NW–Ganga highway.
+**Logic:** Stmt 1 false: Uttarapatha is the NW–Ganga highway.
 
 </details>
 
@@ -1209,20 +1193,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Tagara sat on the inland trade route connecting Kalyan with Vengi.
 3. Barbarikon is Broach at the Narmada mouth.
 
-Select the correct answer from the code given below:
+A. Only 1
 
-A. 1 and 2 only
+B. Only 1 and 2
 
-B. 1 and 3 only
+C. Only 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Stmt 3 false: Barbarikon is Indus-mouth; Barygaza is Broach.
 
@@ -1286,25 +1268,23 @@ D. Broach — west Narmada mouth
 **Q30.** With reference to Deccan and Konkan trade stamps, which of the following statements is/are correct?
 
 1. Yajna Sri Satakarni’s ship type is a Deccan sea-trade stamp.
-2. Roman aurei in south Indian hoards are pepper-trade bullion evidence.
-3. Nishka is the first minted silver karshapana of the sixth century BCE.
+2. Nishka is the first minted silver karshapana of the sixth century BCE.
+3. Roman aurei in south Indian hoards are pepper-trade bullion evidence.
 
-Select the correct answer from the code given below:
+A. Only 2
 
-A. 1 and 2 only
+B. Only 2 and 3
 
-B. 1 and 3 only
+C. Only 1
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: D.** 1 and 3 only are correct.
 
-**Logic:** Stmt 3 false: nishka is Vedic gold unit/ornament, not minted karshapana.
+**Logic:** Stmt 2 false: nishka is Vedic gold unit/ornament, not minted karshapana.
 
 </details>
 

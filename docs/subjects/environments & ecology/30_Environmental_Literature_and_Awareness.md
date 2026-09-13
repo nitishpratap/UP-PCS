@@ -496,21 +496,21 @@ D. 22 April
 
 **Q1.** With reference to the four pillars, which of the following statements is/are correct?
 
-1. Literature, education, awareness, communication.
+1. The four pillars are only IUCN Red List categories, not literature/education/awareness/communication.
 2. Keep pillar → flagship distinct.
 3. All four are identical to IUCN categories.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: D.** Only 2 is correct.
 
-**Logic:** Not IUCN.
+**Logic:** Statement 2 keeps pillar distinct from flagship. Statement 1 mislabels the four pillars. Statement 3 wrongly equates them with IUCN categories.
 
 </details>
 
@@ -540,21 +540,21 @@ D. A-3, B-1, C-2
 
 **Q3.** Which of the following pairs is/are correctly matched?
 
-1. Our Common Future — Brundtland 1987
+1. Our Common Future — Brundtland 1997
 2. Limits to Growth — Club of Rome 1972
 3. Brundtland — identical to Limits to Growth
 
-A. 1, 2 and 3
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1 and 2 only
+A. Only 2
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2.
+**Ans: A.** Only 2 is correct.
 
-**Logic:** Different books/years.
+**Logic:** Only statement 2 remains true among the numbered claims. Statement 1 is false. Statement 2 is true. Statement 3 is false.
 
 </details>
 
@@ -770,7 +770,7 @@ D. Rio sustainable-development action plan — not “only EE”
 
 </details>
 
-**Q15.** How many of the following UP colour locks are correct?
+**Q15.** How many of the following UP colour facts are correct?
 
 NEAC district campaigns; Van Mahotsav in schools; NCAP city awareness (Kanpur); ECO Clubs
 
@@ -928,7 +928,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 </details>
 
-**Q23.** How many of the following year locks are correct?
+**Q23.** How many of the following year facts are correct?
 
 Silent Spring 1962; Commons 1968; Limits 1972; Brundtland 1987
 
@@ -1038,7 +1038,7 @@ D. Only BSI Kolkata
 
 **Ans: C.** Awareness campaigns.
 
-**Logic:** NEAC lock.
+**Logic:** NEAC fact.
 
 </details>
 

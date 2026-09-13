@@ -44,7 +44,7 @@ Namami Gange and GAP are Ganga cleaning programmes. They are not river-origin fa
 5. Himalayan rivers are mostly **perennial** (melt plus rain) and include **antecedent** giants. Peninsular rivers are mostly **rain-fed** and graded.
 6. Drainage types: **consequent** follows original slope; **subsequent** follows weak belts later; **antecedent** (Indus, Sutlej, Brahmaputra) cuts rising Himalaya; **superimposed** (Chambal) inherits an older course.
 7. **Trans-Himalayan** rivers rise north of the Great Himalaya in Tibet and cut through — fact **Sutlej**, and also Indus and Brahmaputra (Tsangpo). Among Jhelum / Sutlej / Ganga / Ravi, the trans-Himalayan pick is **Sutlej**.
-8. The Indus rises in a Tibet gorge and reaches the Arabian Sea in Pakistan. The five Punjab rivers east to west are **Jhelum–Chenab–Ravi–Beas–Sutlej**. Under the Indus Treaty, India gets Ravi, Beas, and Sutlej; Pakistan gets Indus, Jhelum, and Chenab.
+8. The Indus rises in a Tibet gorge and reaches the Arabian Sea in Pakistan. The five Punjab rivers east to west are **Sutlej–Beas–Ravi–Chenab–Jhelum**. Under the Indus Treaty, India gets Ravi, Beas, and Sutlej; Pakistan gets Indus, Jhelum, and Chenab.
 9. Dam–river pairs: **Baglihar = Chenab**, **Pandoh = Beas** (not Ravi), **Srisailam = Krishna** (not Tungabhadra).
 10. The Ganga is named only at **Devprayag** where Alaknanda meets Bhagirathi. It is about **2525 km** long. In Bangladesh it becomes the **Padma**, meets the Brahmaputra as **Jamuna**, then joins the Meghna system to the Bay of Bengal.
 11. Ganga joins: Yamuna at **Prayagraj**, Ramganga at **Kannauj**, Ghaghara at **Chhapra**, Gandak at **Sonpur**, Son at **Patna**, Kosi at **Kursela**. Left-bank Himalayan tributes include Ramganga, Ghaghara, Gandak, Kosi, and Mahananda; **Gomti** is a plains-origin left-bank river. Right-bank facts are Yamuna, Son, and Damodar.
@@ -135,7 +135,7 @@ Namami Gange and GAP are Ganga cleaning programmes. They are not river-origin fa
 | Item | Lock |
 |------|------|
 | Ganga named at | **Devprayag** (Alaknanda + Bhagirathi) |
-| Punjab five (E→W teaching) | Jhelum–Chenab–Ravi–Beas–Sutlej spine |
+| Punjab five (E→W teaching) | Sutlej–Beas–Ravi–Chenab–Jhelum spine |
 | Trans-Himalayan | Rise north of Great Himalaya (e.g. Sutlej, Indus, Brahmaputra) |
 
 ---
@@ -212,7 +212,7 @@ Genetic drainage names describe **what the river follows** or **when it formed r
 - The Indus rises near the **Kailash / Mansarovar** region of Tibet (Bokhar Chu class origin). It is **antecedent** and **Trans-Himalayan**. It cuts a gorge in Ladakh and reaches the **Arabian Sea** near Karachi.
 - Total length is about **2900–3180 km**. Only about **710 km** lies in India.
 - **Shyok** and **Zanskar** join in Ladakh. **Gilgit** joins farther west.
-- The five eastern tributaries are the **Panj Ab**. From **east to west** they are **Jhelum, Chenab, Ravi, Beas, Sutlej**.
+- The five eastern tributaries are the **Panj Ab**. From **east to west** they are **Sutlej, Beas, Ravi, Chenab, Jhelum**.
 - They meet as **Panjnad** just above **Mithankot**, then join the Indus.
 - The **Jhelum** rises at **Verinag**. It flows through **Wular Lake** and joins the Chenab. **Kishanganga** (Neelum in Pakistan) is a Jhelum tributary.
 - The **Chenab** forms near **Bara Lacha La** (Chandra + Bhaga in Lahaul). **Baglihar** and **Salal** stand on the Chenab.
@@ -1241,21 +1241,21 @@ D. None of the above
 
 **Q1.** With reference to India’s drainage area shares, which of the following statements is/are correct?
 
-1. About 77% of drainage area faces the Bay of Bengal and about 23% the Arabian Sea.
-2. Inland basins cover about 8% of area.
-3. Over 90% of river water still goes to the Arabian Sea.
+1. Over 90% of river water still goes to the Arabian Sea.
+2. About 77% of drainage area faces the Bay of Bengal and about 23% the Arabian Sea.
+3. Inland basins cover about 40% of India’s area.
 
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 2
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 2 are correct.
+**Ans: B.** Only 2 is correct.
 
-**Logic:** Most river water still goes to the Bay of Bengal, not the Arabian Sea.
+**Logic:** About 77% of drainage area faces the Bay of Bengal and about 23% the Arabian Sea. Inland basins are about 8%, not 40%. Most river water still goes to the Bay.
 
 </details>
 
@@ -1349,20 +1349,20 @@ D. A-3, B-2, C-1, D-4
 **Q6.** With reference to trans-Himalayan rivers, which of the following statements is/are correct?
 
 1. They rise north of the Great Himalaya and cut through it.
-2. Among Jhelum / Sutlej / Ganga / Ravi, Sutlej is the trans-Himalayan pick.
-3. Jhelum rises in Tibet like the Sutlej.
+2. Jhelum rises in Tibet like the Sutlej.
+3. Among Jhelum / Sutlej / Ganga / Ravi, Jhelum is the classic trans-Himalayan pick.
 
-A. 1, 2 and 3
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1 and 2 only
+A. 1 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2 are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Jhelum/Ravi are Himalayan-origin; Sutlej/Indus/Brahmaputra are classic trans-Himalayan.
+**Logic:** Trans-Himalayan rivers rise north of the Great Himalaya. Sutlej (with Indus/Brahmaputra) is the classic pick; Jhelum/Ravi are Himalayan-origin.
 
 </details>
 
@@ -1382,9 +1382,9 @@ D. 1–3–5–4–2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Jhelum–Chenab–Ravi–Beas–Sutlej.
+**Ans: B.** Sutlej–Beas–Ravi–Chenab–Jhelum (east → west).
 
-**Logic:** Indus Treaty: India gets Ravi–Beas–Sutlej; Pakistan gets Indus–Jhelum–Chenab.
+**Logic:** Usual teaching order from east to west is Sutlej → Beas → Ravi → Chenab → Jhelum. Option C is the west → east reverse. Indus Treaty split: India — Ravi–Beas–Sutlej; Pakistan — Indus–Jhelum–Chenab.
 
 </details>
 
@@ -1406,19 +1406,19 @@ D. Pandoh — Sutlej
 
 **Q9.** With reference to Ganga naming and Bangladesh names, which of the following statements is/are correct?
 
-1. Ganga is named at Devprayag where Alaknanda meets Bhagirathi.
-2. In Bangladesh, Ganga becomes Padma and Brahmaputra becomes Jamuna.
-3. Rudraprayag is where Bhagirathi meets Alaknanda to form the Ganga.
+1. Rudraprayag is where Bhagirathi meets Alaknanda to form the Ganga.
+2. Ganga is named at Devprayag where Alaknanda meets Bhagirathi.
+3. In Bangladesh, Ganga becomes Padma and Brahmaputra becomes Jamuna.
 
-A. 1, 2 and 3
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1 and 2 only
+A. Only 1
+B. Only 1 and 3
+C. Only 2
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Statements 1 and 2 are correct.
+**Ans: D.** 2 and 3 only are correct.
 
 **Logic:** Rudraprayag = Alaknanda + Mandakini; Devprayag = Ganga naming.
 
@@ -1535,15 +1535,15 @@ D. A-4, B-1, C-3, D-2
 2. Narmada and Tapi form estuaries in rift valleys.
 3. Sundarbans delta is bird’s-foot type like the Mississippi.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Sundarbans = arcuate; Mississippi = bird’s-foot.
 
@@ -1572,18 +1572,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q17.** With reference to National Waterways, which of the following pairs is/are correct?
 
 1. NW-1 — Ganga–Hooghly
-2. NW-2 — Brahmaputra
-3. NW-3 — Krishna–Godavari
+2. NW-3 — Krishna–Godavari
+3. NW-2 — Brahmaputra
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 3
+C. Only 2
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: B.** 1 and 3 only are correct.
 
 **Logic:** NW-3 = Kerala; NW-4 = Krishna–Godavari; NW-5 = Brahmani–Mahanadi.
 
@@ -1591,19 +1591,19 @@ D. 1, 2 and 3
 
 **Q18.** Which of the following statements about Luni and Barak is/are correct?
 
-1. Luni is inland with saline lower course.
-2. Barak becomes Meghna and reaches the Bay of Bengal.
-3. Barak is a classic inland drainage river like Luni.
+1. Barak is a classic inland drainage river like Luni.
+2. Luni is inland with saline lower course.
+3. Barak becomes Meghna and reaches the Bay of Bengal.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 2 and 3 only are correct.
 
 **Logic:** Barak is not inland drainage.
 
@@ -1656,15 +1656,15 @@ D. 2 and 3 only
 2. Majuli is the classic river island.
 3. Teesta was captured from the Ganga system into the Brahmaputra.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Siang/Dihang entry and capture of Teesta are standard traps.
 
@@ -1693,18 +1693,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q23.** With reference to Uttar Pradesh river tags, which of the following statements is/are correct?
 
 1. Sangam is at Prayagraj.
-2. Gomti is Lucknow’s river; Ghaghara is Ayodhya’s river.
-3. Chambal sanctuary spans only Uttar Pradesh and Haryana.
+2. Chambal sanctuary spans only Uttar Pradesh and Haryana.
+3. Gomti is Lucknow’s river; Ghaghara is Ayodhya’s river.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. Only 1 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: B.** 1 and 3 only are correct.
 
 **Logic:** Chambal sanctuary spans UP–MP–Rajasthan, not Haryana.
 
@@ -1732,15 +1732,15 @@ D. Godavari is longer than Ganga inside India
 2. Concordant drainage follows structure; discordant cuts across it.
 3. Himalayan antecedents are classic concordant drainage.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** Antecedent Himalayan rivers are classic discordant cases.
 
@@ -1788,15 +1788,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Yamuna, Son and Damodar are right-bank facts.
 3. Gomti is a plains-origin left-bank river.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Do not put Yamuna on the left bank.
 
@@ -1805,18 +1805,18 @@ D. 1, 2 and 3
 **Q29.** Which of the following statements about Kaveri islands is/are correct?
 
 1. Island sequence includes Srirangapatna–Shivasamudram–Srirangam.
-2. Bhubaneswar is a classic Mahanadi-bank city in the usual trap set.
-3. Ludhiana is on the Sutlej, not the Ravi.
+2. Ludhiana is on the Sutlej, not the Ravi.
+3. Bhubaneswar is a classic Mahanadi-bank city in the usual trap set.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 3 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Bhubaneswar is NOT the usual Mahanadi-bank city fact.
 

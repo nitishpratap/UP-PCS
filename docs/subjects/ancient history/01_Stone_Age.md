@@ -1917,26 +1917,24 @@ D. Cleavers only — Pottery — Iron
 
 **Q1.** With reference to early humans in India, which of the following statements is/are correct?
 
-1. Hathnora on the Narmada yielded a Homo erectus cranium found by Arun Sonakia in 1982.
+1. Hathnora on the Narmada yielded a Homo sapiens cranium found by Robert Bruce Foote in 1863.
 2. Attirampakkam in Tamil Nadu is famous as a Homo sapiens fossil site of the same horizon.
 3. Robert Bruce Foote identified Paleolithic tools at Pallavaram in 1863.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 2 only
+B. Only 3
 
-B. 1 and 3 only
+C. 2 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 3 are correct.
+**Ans: B.** Only 3 is correct.
 
-**Logic:** Stmt 2 false: Attirampakkam is an old Acheulian *tool* site (~1.5 mya), not a sapiens fossil site.
+**Logic:** Stmt 1 false: Hathnora yielded a Homo erectus cranium (Arun Sonakia, 1982); Foote 1863 is Pallavaram tools. Stmt 2 remains false: Attirampakkam is an Acheulian tool site, not a sapiens fossil site.
 
 </details>
 
@@ -1945,25 +1943,23 @@ D. 1, 2 and 3
 **Q2.** Consider the following statements about Paleolithic tool traditions:
 
 1. Lower Paleolithic tools are typically handaxes and cleavers of the Acheulian tradition.
-2. Middle Paleolithic tools are mainly flakes prepared by the Levallois method.
+2. Middle Paleolithic tools are mainly handaxes and cleavers of the Acheulian tradition.
 3. The Soanian industry of the Soan–Siwalik belt is mainly handaxe-cleaver based.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 3 only
+B. 2 and 3
 
-B. 2 and 3 only
+C. 1 and 3
 
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 2 are correct.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** Stmt 3 false: Soanian = pebble chopper-chopping; Acheulian = handaxe-cleaver of peninsula/Narmada.
+**Logic:** Stmt 2 false: Middle Paleolithic = Levallois flakes; handaxe-cleaver Acheulian is Lower Paleolithic. Stmt 3 remains false: Soanian = pebble chopper-chopping, not handaxe-cleaver.
 
 </details>
 
@@ -2029,26 +2025,24 @@ D. 1-D, 2-A, 3-B, 4-C
 
 **Q5.** Which of the following pairs is/are correctly matched?
 
-1. Microlith — hallmark of the Mesolithic
-2. Polished/ground stone — hallmark of the Neolithic
-3. Copper plus stone villages — hallmark of mature Harappan citadel cities
+1. Copper plus stone villages — hallmark of mature Harappan citadel cities
+2. Microlith — hallmark of the Mesolithic
+3. Polished/ground stone — hallmark of the Neolithic
 
-Select the correct answer from the code given below:
+A. Only 3
 
-A. 1, 2 and 3
+B. Only 2 and 3
 
-B. 2 and 3 only
+C. Only 1
 
-C. 1 and 3 only
-
-D. 1 and 2 only
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Statements 1 and 2 are correct.
+**Ans: B.** 2 and 3 only are correct.
 
-**Logic:** Stmt 3 false: copper+stone rural villages = Chalcolithic, not Harappan planned cities.
+**Logic:** Stmt 1 false: copper+stone rural villages = Chalcolithic, not Harappan planned cities.
 
 </details>
 
@@ -2083,26 +2077,24 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q7.** With reference to Neolithic sites of Uttar Pradesh, which of the following statements is/are correct?
 
-1. Koldihwa is known for rice-husk impressions in pottery.
-2. Mahagara alone has the cattle pen with hoof marks.
-3. Lahuradewa in Sant Kabir Nagar is a Belan valley sister site of Koldihwa.
+1. Lahuradewa in Sant Kabir Nagar is a Belan valley sister site of Koldihwa.
+2. Koldihwa is known for rice-husk impressions in pottery.
+3. Mahagara alone has the cattle pen with hoof marks.
 
-Select the correct answer from the code given below:
+A. 2 and 3
 
-A. 1 and 3 only
+B. Only 1
 
-B. 2 and 3 only
+C. 1 and 3
 
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 2 are correct.
+**Ans: A.** 2 and 3 only are correct.
 
-**Logic:** Stmt 3 false: Lahuradewa is lake-edge rice in Sant Kabir Nagar, not Belan valley.
+**Logic:** Stmt 1 false: Lahuradewa is lake-edge rice in Sant Kabir Nagar, not Belan valley.
 
 </details>
 
@@ -2114,20 +2106,18 @@ D. 1, 2 and 3
 2. South Indian Neolithic ash mounds (Piklihal, Utnur) are also typical of Burzahom.
 3. V. Gordon Childe coined the phrase Neolithic Revolution.
 
-Select the correct answer from the code given below:
+A. 1 and 3
 
-A. 1 and 2 only
+B. Only 1
 
-B. 2 and 3 only
+C. Only 1 and 2
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 3 are correct.
+**Ans: A.** 1 and 3 only are correct.
 
 **Logic:** Stmt 2 false: ash mounds are South Indian Neolithic; not Chirand or Burzahom features.
 
@@ -2250,18 +2240,18 @@ D. Chanhudaro — Belan valley rice Neolithic
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. All 1, 2 and 3
 
-B. 2 and 3 only
+B. 2 and 3
 
-C. 1 and 3 only
+C. Only 1
 
-D. 1, 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Microlith = Mesolithic hallmark; geometric vs non-geometric marks later vs earlier Meso.
 
@@ -2303,20 +2293,18 @@ D. 2, 3, 1, 4
 2. Jorwe culture of Maharashtra used painted black-on-red ware and fades around 1000 BCE.
 3. OCP of the western UP doab is identical with mature Harappan urban ware.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 2 only
+B. Only 3
 
-B. 2 and 3 only
+C. 2 and 3
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** Stmt 3 false: OCP is rural ochre-wash doab pottery; B.B. Lal christened it at Hastinapur.
 
@@ -2353,18 +2341,18 @@ D. Kalibangan
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 1
 
-B. 2 and 3 only
+B. Only 1 and 2
 
-C. 1 and 3 only
+C. Only 1, 2 and 3
 
-D. 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Standard periodisation: prehistoric → proto-historic → historic.
 
@@ -2405,20 +2393,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Red animals and white human figures is a useful colour heuristic for many panels.
 3. Every painting at Bhimbetka belongs strictly to the Lower Paleolithic.
 
-Select the correct answer from the code given below:
+A. Only 1 and 2
 
-A. 1 and 2 only
+B. Only 3
 
-B. 2 and 3 only
+C. 1 and 3
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** Stmt 3 false: art is multi-period; not every panel is Paleolithic.
 
@@ -2428,26 +2414,24 @@ D. 1, 2 and 3
 
 **Q20.** With reference to Uttar Pradesh Stone Age geography, which of the following is/are correct?
 
-1. Belan cluster includes Chopani Mando, Koldihwa and Mahagara.
-2. Morhana Pahar (Sonbhadra) and Lekhahia (Mirzapur) relate to rock art.
-3. Baghor Upper Paleolithic shrine lies in Pratapgarh district of Uttar Pradesh.
+1. Baghor Upper Paleolithic shrine lies in Pratapgarh district of Uttar Pradesh.
+2. Belan cluster includes Chopani Mando, Koldihwa and Mahagara.
+3. Morhana Pahar (Sonbhadra) and Lekhahia (Mirzapur) relate to rock art.
 
-Select the correct answer from the code given below:
+A. Only 1
 
-A. 1 and 2 only
+B. Only 1 and 2
 
-B. 2 and 3 only
+C. Only 3
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: D.** 2 and 3 only are correct.
 
-**Logic:** Stmt 3 false: Baghor is Son valley Madhya Pradesh; Pratapgarh holds Meso burial sites.
+**Logic:** Stmt 1 false: Baghor is Son valley Madhya Pradesh; Pratapgarh holds Meso burial sites.
 
 </details>
 
@@ -2477,25 +2461,23 @@ D. Chirand
 **Q22.** Consider the following statements:
 
 1. Megaliths of the Deccan and south are mainly Iron Age burial monuments.
-2. Classic megalith names include Brahmagiri, Adichanallur, Maski and Hallur.
-3. Megaliths are the same as Chalcolithic copper-using village cultures.
+2. Megaliths are the same as Chalcolithic copper-using village cultures.
+3. Classic megalith names include Brahmagiri, Adichanallur, Maski and Hallur.
 
-Select the correct answer from the code given below:
+A. 2 and 3
 
-A. 1 and 2 only
+B. Only 1
 
-B. 1 and 3 only
+C. Only 1 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: C.** 1 and 3 only are correct.
 
-**Logic:** Stmt 3 false: megaliths ≠ Chalcolithic villages.
+**Logic:** Stmt 2 false: megaliths ≠ Chalcolithic villages.
 
 </details>
 
@@ -2563,13 +2545,13 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. 2 and 3
 
-B. 2 and 3 only
+B. Only 1
 
-C. 1 and 3 only
+C. Only 1 and 2
 
-D. 1, 2 and 3
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -2605,26 +2587,24 @@ D. Maize and potato
 
 **Q27.** Consider the following statements about Upper Paleolithic tools:
 
-1. Blades, burins and scrapers characterise the Upper Paleolithic.
-2. Baghor in the Son valley is an Upper Paleolithic stone shrine.
-3. Microliths are the main tool class of the Upper Paleolithic.
+1. Microliths are the main tool class of the Upper Paleolithic.
+2. Blades, burins and scrapers characterise the Upper Paleolithic.
+3. Baghor in the Son valley is an Upper Paleolithic stone shrine.
 
-Select the correct answer from the code given below:
+A. 2 and 3
 
-A. 1 and 2 only
+B. Only 1
 
-B. 2 and 3 only
+C. 1 and 2
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: A.** 2 and 3 only are correct.
 
-**Logic:** Stmt 3 false: microliths = Mesolithic hallmark.
+**Logic:** Stmt 1 false: microliths = Mesolithic hallmark.
 
 </details>
 
@@ -2636,20 +2616,18 @@ D. 1, 2 and 3
 2. Mehrgarh remains the wheat–barley settled-life key for the north-west.
 3. Both sites belong to the same Belan valley excavation complex of G.R. Sharma.
 
-Select the correct answer from the code given below:
+A. Only 2 and 3
 
-A. 1 and 2 only
+B. Only 1
 
-B. 2 and 3 only
+C. Only 1 and 2
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Stmt 3 false: Lahuradewa ≠ Belan; Mehrgarh is Balochistan.
 
@@ -2681,25 +2659,23 @@ D. Both belong only to South Indian ash-mound Neolithic
 **Q30.** Which of the following statements is/are correct?
 
 1. Bone implements cluster at Mahadaha and Sarai Nahar Rai.
-2. Chirand in Saran (Bihar) is famous for bone and antler tools in the Gangetic Neolithic.
-3. Burzahom has no pit dwellings; its fame rests only on ash mounds.
+2. Burzahom has no pit dwellings; its fame rests only on ash mounds.
+3. Chirand in Saran (Bihar) is famous for bone and antler tools in the Gangetic Neolithic.
 
-Select the correct answer from the code given below:
+A. Only 1
 
-A. 1 and 2 only
+B. 1 and 2
 
-B. 2 and 3 only
+C. Only 3
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: D.** 1 and 3 only are correct.
 
-**Logic:** Stmt 3 false: Burzahom = pit dwellings + dog burial; ash mounds are South Indian.
+**Logic:** Stmt 2 false: Burzahom = pit dwellings + dog burial; ash mounds are South Indian.
 
 </details>
 

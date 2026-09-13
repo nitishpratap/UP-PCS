@@ -569,20 +569,20 @@ D. 1972-1980-1974-1981-1986-2002-2006-2010
 **Q2.** With reference to Articles, which of the following statements is/are correct?
 
 1. Article 48A — State DPSP on environment.
-2. Article 51A(g) — citizen’s Fundamental Duty.
+2. Article 51A(g) is a Directive Principle, not a Fundamental Duty.
 3. Article 48 — environment protection article.
 
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: A.** Only 1 is correct.
 
-**Logic:** Art. 48 = agri/cattle — not environment.
+**Logic:** Statement 1 is true (Art. 48A DPSP). Statement 2 is false — 51A(g) is the citizen’s Fundamental Duty. Statement 3 is false — environment DPSP is 48A, not 48.
 
 </details>
 
@@ -609,20 +609,20 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q4.** Which of the following pairs is/are correctly matched?
 
 1. EPA 1986 — post-Bhopal umbrella under Art. 253
-2. EIA/CRZ/ESZ/GEAC powers — EPA Section 3 neighbourhood
+2. EIA/CRZ/ESZ/GEAC powers have no link to EPA Section 3.
 3. EIA Notification — flows from Water Act 1974 only
 
-A. 1, 2 and 3
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1 and 2 only
+A. 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** EIA flows from EPA — not Water Act.
+**Logic:** Statement 1 is true (EPA 1986 umbrella / Art. 253). Statement 2 is false — those powers sit in the EPA Section 3 neighbourhood. Statement 3 is false — EIA Notification flows from EPA, not from the Water Act alone.
 
 </details>
 
@@ -826,7 +826,7 @@ D. FRA recognises rights of STs and OTFDs
 
 </details>
 
-**Q15.** How many of the following article locks are correct?
+**Q15.** How many of the following article facts are correct?
 
 1. 48A State DPSP env
 2. 51A(g) duty

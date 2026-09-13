@@ -495,18 +495,18 @@ A. Kharvela B. Ashok C. Harshavardhan D. Kanishka
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. 1 and 2
 
-B. 2 and 3 only
+B. All 1, 2 and 3
 
-C. 1 and 3 only
+C. 2 and 3
 
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** All three are Must-Score Huna/Yashodharman facts.
 
@@ -624,26 +624,24 @@ D. Jivitagupta II — Deo-Baranark
 
 **Q6.** With reference to Harsha’s capitals and family, which of the following statements is/are correct?
 
-1. Early capital is Thanesar (Sthaneshvara) in Haryana; later capital is Kannauj in Uttar Pradesh.
-2. Elder brother Rajyavardhana was killed by Shashanka of Gauda.
-3. Sister Rajyashri married Maitraka Dhruvasena of Valabhi.
+1. Sister Rajyashri married Maitraka Dhruvasena of Valabhi.
+2. Early capital is Thanesar (Sthaneshvara) in Haryana; later capital is Kannauj in Uttar Pradesh.
+3. Elder brother Rajyavardhana was killed by Maitraka Dhruvasena of Valabhi.
 
-Select the correct answer from the code given below:
+A. Only 2
 
-A. 2 and 3 only
+B. 1 and 2
 
-B. 1 and 3 only
+C. 2 and 3
 
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 2 are correct.
+**Ans: A.** Only 2 is correct.
 
-**Logic:** Stmt 3 false: Rajyashri married Maukhari Grihavarman; she did not marry Dhruvasena.
+**Logic:** Stmt 3 false: Rajyavardhana was killed by Shashanka of Gauda. Stmt 1 remains false: Rajyashri married Maukhari Grihavarman, not Dhruvasena.
 
 </details>
 
@@ -652,25 +650,23 @@ D. 1, 2 and 3
 **Q7.** Consider the following statements about Harsha and Pulakeshin II:
 
 1. About 630–634 CE Pulakeshin II stopped Harsha at the Narmada.
-2. The boast sits in the Aihole inscription of Ravikirti on the Meguti temple.
+2. The boast sits in the Allahabad Pillar inscription of Harisena.
 3. This Narmada stop is the same as the Battle of Kannauj 1540.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 3 only
+B. Only 1
 
-B. 1 and 2 only
+C. 2 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Stmt 3 false: Kannauj 1540 is Sher Shah / Humayun — different age.
+**Logic:** Stmt 2 false: Pulakeshin II’s Narmada stop boast sits in Aihole (Ravikirti/Meguti); Allahabad Pillar is Samudragupta/Harisena. Stmt 3 remains false: Kannauj 1540 is Sher Shah/Humayun.
 
 </details>
 
@@ -735,26 +731,24 @@ D. 1-D, 2-B, 3-C, 4-A
 
 **Q10.** With reference to Hiuen Tsang, which of the following statements is/are correct?
 
-1. He was in India about 630–644, studied at Nalanda under Shilabhadra, and wrote the Si-Yu-Ki.
-2. He notes Mathura for cotton textiles and Varanasi for silk.
-3. He is Chandragupta II’s Chinese witness, not Harsha’s.
+1. He was in India about 399–414 CE, studied at Nalanda under Shilabhadra, and wrote the Si-Yu-Ki.
+2. He is Chandragupta II’s Chinese witness, not Harsha’s.
+3. He notes Mathura for cotton textiles and Varanasi for silk.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 3 only
+B. 2 and 3
 
-B. 2 and 3 only
+C. Only 3
 
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 2 are correct.
+**Ans: C.** Only 3 is correct.
 
-**Logic:** Stmt 3 false: Xuanzang is Harsha’s witness; Fa-Hien is CG II’s.
+**Logic:** Stmt 1 false: 399–414 is Fa-Hien’s window; Xuanzang is ~630–644 with Si-Yu-Ki under Harsha/Shilabhadra. Stmt 2 remains false: Xuanzang is Harsha’s witness, not CG II’s.
 
 </details>
 
@@ -768,18 +762,18 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. 1, 2 and 3
 
-B. 2 and 3 only
+B. 1 and 2
 
-C. 1 and 3 only
+C. Only 2 and 3
 
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** All three are Must-Score Harsha tags.
 
@@ -868,25 +862,23 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q15.** With reference to post-Gupta administration vocabulary, which of the following statements is/are correct?
 
 1. Harsha reuses Gupta titles: uparika, mahasandhivigrahika, mahapratihara, bhandagaradhikarana.
-2. Harsha invented the Uparika as a brand-new office.
-3. Post-Gupta north shows clearer feudal / lord–vassal land control than Mauryan central pay.
+2. Post-Gupta north shows a return to Mauryan central cash-pay bureaucracy without lord–vassal land control.
+3. Harsha invented the Uparika as a brand-new office.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 3 only
+B. 2 and 3
 
-B. 1 and 2 only
+C. 1 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 3 are correct.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** Stmt 2 false: he reuses Gupta vocabulary; he invents no new machine.
+**Logic:** Stmt 2 false: Post-Gupta north shows clearer feudal/lord–vassal land control than Mauryan central pay. Stmt 3 remains false: Harsha reuses Gupta titles; he does not invent Uparika.
 
 </details>
 
@@ -900,18 +892,18 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. 2 and 3
 
-B. 2 and 3 only
+B. Only 1 and 3
 
-C. 1 and 3 only
+C. 1, 2 and 3
 
-D. 1, 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** All three are Must-Score inscription facts.
 
@@ -957,13 +949,13 @@ D. 1-D, 2-A, 3-C, 4-B
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. 2 and 3
 
-B. 2 and 3 only
+B. Only 1
 
-C. 1 and 3 only
+C. Only 1 and 2
 
-D. 1, 2 and 3
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -1011,18 +1003,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. 1, 2 and 3
 
-B. 2 and 3 only
+B. 2 and 3
 
-C. 1 and 3 only
+C. Only 1
 
-D. 1, 2 and 3
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** All three are Must-Score literature facts.
 
@@ -1056,25 +1048,23 @@ D. Shashanka — Gauda at Karnasuvarna
 **Q22.** With reference to post-Harsha pointers, which of the following statements is/are correct?
 
 1. After Harsha, the later Kannauj fight among Pratihara–Pala–Rashtrakuta belongs to early medieval teaching.
-2. Shankaracharya’s four maths belong inside Harsha’s court card as contemporary facts.
-3. Chinese writers call India Yin-tu / Thian-tu.
+2. Chinese writers call India Yin-tu / Thian-tu.
+3. Shankaracharya’s four maths belong inside Harsha’s court card as contemporary facts.
 
-Select the correct answer from the code given below:
+A. Only 2 and 3
 
-A. 1 and 3 only
+B. Only 1
 
-B. 1 and 2 only
-
-C. 2 and 3 only
+C. 1 and 2
 
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 3 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
-**Logic:** Stmt 2 false: Shankara maths are not to be merged into Harsha’s court card.
+**Logic:** Stmt 3 false: Shankara maths are not to be merged into Harsha’s court card.
 
 </details>
 
@@ -1109,11 +1099,11 @@ D. Later Gupta of Magadha
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 2 and 3
 
-B. 2 and 3 only
+B. Only 1
 
-C. 1 and 3 only
+C. Only 1 and 2
 
 D. 1, 2 and 3
 
@@ -1163,18 +1153,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. 1, 2 and 3
 
-B. 2 and 3 only
+B. Only 2 and 3
 
-C. 1 and 3 only
+C. Only 1
 
-D. 1, 2 and 3
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** All three are Must-Score Maukhari facts.
 
@@ -1212,26 +1202,24 @@ D. 2–4–3–1
 
 **Q28.** Which of the following statements is/are correct?
 
-1. Pushyabhuti is the founder-memory of Harsha’s house.
-2. Later Guptas hold Magadha while Maukharis hold Kannauj.
-3. Mihirakula’s capital memory is Pataliputra, not Sakala.
+1. Mihirakula’s capital memory is Pataliputra, not Sakala.
+2. Pushyabhuti is the founder-memory of Harsha’s house.
+3. Later Guptas hold Magadha while Maukharis hold Kannauj.
 
-Select the correct answer from the code given below:
+A. Only 1
 
-A. 1 and 3 only
+B. Only 1 and 2
 
-B. 1 and 2 only
+C. Only 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Ans: D.** 2 and 3 only are correct.
 
-**Logic:** Stmt 3 false: Mihirakula is of Sakala (Sialkot).
+**Logic:** Stmt 1 false: Mihirakula is of Sakala (Sialkot).
 
 </details>
 
@@ -1240,25 +1228,23 @@ D. 1, 2 and 3
 **Q29.** With reference to Harsha’s religion and allies, which of the following statements is/are correct?
 
 1. Family memory starts Shaiva; later Harsha is a loud Buddhist patron while still hosting Brahmans.
-2. East ally is Bhaskaravarman of Kamarupa.
-3. Hathigumpha is Harsha’s signature copper-plate.
+2. Hathigumpha is Harsha’s signature copper-plate.
+3. East ally is Bhaskaravarman of Kamarupa.
 
-Select the correct answer from the code given below:
+A. Only 1
 
-A. 1 and 2 only
+B. Only 1 and 2
 
-B. 1 and 3 only
+C. Only 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: D.** 1 and 3 only are correct.
 
-**Logic:** Stmt 3 false: Hathigumpha is Kharavela.
+**Logic:** Stmt 2 false: Hathigumpha is Kharavela.
 
 </details>
 

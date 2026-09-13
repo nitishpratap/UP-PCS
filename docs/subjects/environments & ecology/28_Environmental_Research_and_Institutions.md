@@ -489,20 +489,20 @@ D. NBAGR publishes ISFR
 **Q1.** With reference to HQ map, which of the following statements is/are correct?
 
 1. Kolkata — BSI and ZSI.
-2. Dehradun — FSI, FRI, WII.
+2. Dehradun — FSI, FRI and WII.
 3. NBA — New Delhi.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. Only 1
+C. 1 and 2
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: C.** Only 1 and 2 are correct.
 
-**Logic:** NBA = Chennai.
+**Logic:** Statements 1–2 match the HQ map (Kolkata BSI/ZSI; Dehradun FSI/FRI/WII). Statement 3 is false — NBA HQ is Chennai, not New Delhi.
 
 </details>
 
@@ -533,20 +533,20 @@ D. A-3, B-1, C-2
 **Q3.** Which of the following pairs is/are correctly matched?
 
 1. FSI — ISFR every two years
-2. FRI — forestry research (ICFRE neighbourhood)
+2. FSI — forestry research (ICFRE neighbourhood)
 3. FRI — publishes ISFR
 
-A. 1, 2 and 3
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1 and 2 only
+A. 1 and 2
+B. Only 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** FRI ≠ ISFR.
+**Logic:** Only statement 1 remains true among the numbered claims. Statement 1 is true. Statement 2 is false. Statement 3 is false.
 
 </details>
 
@@ -762,7 +762,7 @@ D. Foreign access and ABS at national level
 
 </details>
 
-**Q15.** How many of the following HQ locks are correct?
+**Q15.** How many of the following HQ facts are correct?
 
 BSI Kolkata; FSI Dehradun; NBPGR New Delhi; NBA Chennai
 

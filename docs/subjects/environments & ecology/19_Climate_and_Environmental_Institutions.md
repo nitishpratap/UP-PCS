@@ -439,21 +439,21 @@ D. IPCC
 
 **Q1.** With reference to IPCC, which of the following statements is/are correct?
 
-1. HQ Geneva; issues Assessment Reports.
+1. IPCC headquarters is in Nairobi and it issues NDCs instead of Assessment Reports.
 2. Established 1988 by WMO and UNEP.
 3. Sets NDCs for all parties as the UNFCCC treaty body.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2
+B. 1 and 3
+C. Only 1
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: A.** Only 2 is correct.
 
-**Logic:** IPCC ≠ UNFCCC; does not set NDCs.
+**Logic:** Statement 2 is true (1988, WMO+UNEP). Statement 1 is false — IPCC HQ is Geneva and it issues Assessment Reports. Statement 3 is false — parties set NDCs under UNFCCC; IPCC is not the treaty body that sets them.
 
 </details>
 
@@ -484,20 +484,20 @@ D. A-3, B-1, C-2
 **Q3.** Which of the following pairs is/are correctly matched?
 
 1. IUCN — Gland; Red List
-2. WWF — Gland; Living Planet Report
+2. IUCN — Gland; Living Planet Report
 3. IUCN — regulates CITES trade appendices as its only job
 
-A. 1, 2 and 3
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1 and 2 only
+A. 1 and 3
+B. Only 2
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** IUCN assesses risk; CITES regulates trade.
+**Logic:** Only statement 1 remains true among the numbered claims. Statement 1 is true. Statement 2 is false. Statement 3 is false.
 
 </details>
 
@@ -541,24 +541,23 @@ D. IUCN / FAO / UNDP / UNEP / IPCC
 
 **Q6.** With reference to Emissions Gap Report, which of the following statements is/are correct?
 
-1. UNEP product.
-2. Not an IPCC Assessment Report.
-3. Identical to Human Development Report.
+1. It is a UNDP product.
+2. It is a UNEP flagship, not an IPCC Assessment Report.
+3. It is identical to the Human Development Report.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2
+B. Only 1
+C. 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: A.** Only 2 is correct.
 
-**Logic:** HDR is UNDP.
+**Logic:** Statement 2 is true (UNEP Emissions Gap ≠ IPCC AR). Statement 1 is false — it is UNEP, not UNDP. Statement 3 confuses it with HDR.
 
 </details>
-
 **Q7.** Which of the following pairs is/are NOT correctly matched?
 
 1. HDR — UNDP from 1990
@@ -699,7 +698,7 @@ D. 1, 2 and 3
 
 </details>
 
-**Q14.** How many of the following HQ locks are correct?
+**Q14.** How many of the following HQ facts are correct?
 
 UNEP Nairobi; UNDP New York; IPCC Geneva; IUCN Gland
 
@@ -837,7 +836,7 @@ D. Both 1997
 
 </details>
 
-**Q21.** Which one of the following report locks is correct?
+**Q21.** Which one of the following report facts is correct?
 
 A. Emissions Gap → UNDP
 B. Emissions Gap → UNEP

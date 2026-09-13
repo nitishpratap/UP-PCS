@@ -895,20 +895,20 @@ D. Renewable
 **Q1.** With reference to renewable vs non-renewable, which of the following statements is/are correct?
 
 1. Renewable replenishes on a human timescale.
-2. Non-renewable are finite stocks (coal, oil, gas, uranium).
+2. Non-renewable sources are infinite stocks that replenish within years.
 3. Coal is renewable biomass.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 3
+B. Only 2
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** Coal ≠ biomass.
+**Logic:** Statement 1 is true. Statement 2 is false — coal/oil/gas/uranium are finite non-renewable stocks. Statement 3 is false — coal is not renewable biomass.
 
 </details>
 
@@ -938,21 +938,21 @@ D. A-3, B-1, C-2
 
 **Q3.** Which of the following pairs is/are correctly matched?
 
-1. Energy crisis (bank) — danger of fossil exhaustion
+1. Energy crisis in teaching means only temporary grid-billing disputes, never fossil exhaustion risk.
 2. Ultimate fossil energy source — Sun
 3. Uranium — fossil fuel identical to coal
 
-A. 1, 2 and 3
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1 and 2 only
+A. Only 3
+B. Only 2
+C. Only 1
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2.
+**Ans: B.** Only 2 is correct.
 
-**Logic:** Uranium ≠ fossil.
+**Logic:** Statement 2 is true (ultimate fossil energy source = Sun). Statement 1 denies the fossil-exhaustion teaching of energy crisis. Statement 3 is false — uranium is nuclear fuel, not a fossil fuel identical to coal.
 
 </details>
 
@@ -970,7 +970,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both true and R restates the classification lock.
+**Ans: D.** Both true and R restates the classification fact.
 
 **A/R logic:** Large hydro = conventional.
 
@@ -1168,7 +1168,7 @@ D. Conservation = using less; efficiency = more service per unit energy
 
 </details>
 
-**Q15.** How many of the following ocean locks are distinct?
+**Q15.** How many of the following ocean facts are distinct?
 
 Tidal, wave, OTEC
 

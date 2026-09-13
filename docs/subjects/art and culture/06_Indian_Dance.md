@@ -381,22 +381,20 @@ How many of the following are correctly matched?
 **Q1.** With reference to Sangeet Natak Akademi’s classical dances, which of the following statements is/are correct?
 
 1. SNA recognises eight classical dances.
-2. Sattriya of Assam was added in 2000.
-3. Chhau is one of the official SNA eight.
+2. Chhau is one of the official SNA eight.
+3. Sattriya of Assam was added in 1952 with the founding of SNA.
 
-Select the correct answer from the code given below:
-
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. Only 1 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: C.** Only 1 is correct.
 
-**Logic:** Chhau is UNESCO martial/folk and not in the SNA eight.
+**Logic:** Chhau is UNESCO martial/folk and not in the SNA eight. Sattriya was added in 2000, not in 1952.
 
 </details>
 
@@ -428,22 +426,22 @@ D. 1, 2, 3 and 4
 **Q3.** With reference to Natyashastra dance theory, which of the following statements is/are correct?
 
 1. There are nine rasas.
-2. Four abhinaya are angika, vachika, aharya and sattvika.
-3. Nritta is pure dance without story while nritya adds expressive abhinaya.
+2. Four abhinaya are nritta, nritya, natya and tala only.
+3. Nritta is expressive story-dance while nritya is pure dance without abhinaya.
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. 1, 2 and 3
+B. Only 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three statements are correct.
+**Ans: C.** Only 1 is correct.
 
-**Logic:** Natya is dance-drama. Abhinaya Darpana by Nandikesvara is the hasta companion text.
+**Logic:** Four abhinaya are angika, vachika, aharya and sattvika. Nritta is pure dance; nritya adds expressive abhinaya.
 
 </details>
 
@@ -488,22 +486,22 @@ D. Manipuri classical Ras Lila — identical with UP Braj Raslila folk play
 **Q6.** With reference to Kathak gharanas, which of the following statements is/are correct?
 
 1. Lucknow gharana is linked with Wajid Ali Shah, Bindadin and Birju Maharaj.
-2. Jaipur and Banaras are the other two major gharanas.
-3. Kathak markers include chakkar spins and tatkar footwork.
+2. Jaipur and Banaras are Deccan court gharanas of Carnatic kriti.
+3. Kathak markers include only mudra storytelling with no footwork.
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1, 2 and 3
+B. Only 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: C.** Only 1 is correct.
 
-**Logic:** Lucknow Kathak is the core UP fact.
+**Logic:** Jaipur and Banaras are the other two major Kathak gharanas. Kathak markers include chakkar spins and tatkar footwork.
 
 </details>
 
@@ -558,15 +556,15 @@ D. 2–1–3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Rukmini Devi is Bharatanatyam. Birju Maharaj is Kathak. Vallathol is Kerala Kalamandalam.
 
@@ -588,9 +586,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both (A) and (R) are true and (R) correctly situates Sattriya as the newest official classical recognition.
+**Ans: A.** Both (A) and (R) are true, but (R) is not the correct explanation of (A).
 
-**A/R logic:** Satra origin and 2000 recognition travel together in standard teaching.
+**A/R logic:** Satra / Sankaradeva origin is independent of the 2000 SNA recognition year. (R) is a true parallel recognition fact, not the cause of (A).
 
 </details>
 
@@ -602,15 +600,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. All 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three facts are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Bhangra, Lavani and Bihu are folk, not SNA classical eight.
 
@@ -708,17 +706,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. It uses Carnatic music.
 3. It is the same as Kathakali in makeup and male dance-drama structure.
 
-Select the correct answer from the code given below:
-
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. Only 1, 2 and 3
+B. 1 and 2
+C. 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Kathakali is the heavy aharya male dance-drama contrast.
 
@@ -787,15 +783,15 @@ D. It is Odisha tribhangi temple dance of maharis only
 
 Which of the statements given above are correct?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Count traps and folk-versus-classical traps travel together.
 
@@ -819,9 +815,9 @@ D. Yamini Krishnamurthy — only Garba of Gujarat
 
 **Q22.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): Kathak is the Hindustani classical dance among the SNA eight.
+Assertion (A): Kathak is identical with Kathaka, the priestly reciter tradition, in every technical detail of modern stage practice.
 
-Reason (R): Kathak is identical with Kathaka, the priestly reciter tradition, in every technical detail of modern stage practice.
+Reason (R): Kathak is the Hindustani classical dance among the SNA eight.
 
 Select the correct answer from the code given below:
 
@@ -833,9 +829,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true. (R) is false because the verbal link to Kathaka must not be treated as identity of modern stage Kathak.
+**Ans: B.** A false, R true.
 
-**A/R logic:** Name origin traps are not full technical identity claims.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Name origin traps are not full technical identity claims.
 
 </details>
 
@@ -847,15 +843,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Geometry of araimandi contrasts with Odissi tribhangi.
 
@@ -863,21 +859,19 @@ D. 1, 2 and 3
 
 **Q24.** Which of the following is/are UP-linked dance facts?
 
-1. Lucknow Kathak gharana
-2. Braj Raslila as folk Krishna play
-3. Mohiniyattam as the principal UP classical form
+1. Mohiniyattam as the principal UP classical form
+2. Lucknow Kathak gharana
+3. Braj Raslila as folk Krishna play
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: A.** 2 and 3 only are correct.
 
 **Logic:** Mohiniyattam is Kerala.
 
@@ -893,15 +887,15 @@ D. 1, 2 and 3
 
 Which of the pairs given above are correctly matched?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. All 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three pairs are correctly matched.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Aharya is one of the four abhinaya.
 
@@ -983,17 +977,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Chhau is not in the SNA eight.
 3. Both are identical Assam satra forms.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. Only 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Chhau is martial/folk UNESCO, not Assam satra Sattriya.
 

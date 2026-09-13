@@ -1794,23 +1794,21 @@ D. None of the above
 
 **Q1.** With reference to European sea-power arrival order, which of the following statements is/are correct?
 
-1. Portuguese 1498 → Dutch ~1605 → English Surat factory 1613 → Danish Tranquebar 1620 → French Pondicherry 1674.
-2. Portuguese were first to arrive (1498) and last to leave (1961).
-3. French arrived before the Dutch in India.
+1. French arrived before the Dutch in India.
+2. Portuguese 1498 → Dutch ~1605 → English Surat factory 1613 → Danish Tranquebar 1620 → French Pondicherry 1674.
+3. Portuguese were first to arrive (1498) and last to leave (1961).
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. Only 1 and 2
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: A.** 2 and 3 only are correct.
 
-**Logic:** French Pondicherry 1674 is last in this arrival ladder — statement 3 is false.
+**Logic:** Statement 1 is false: French arrived after the Dutch (Pondicherry 1674 is last in this arrival ladder). Statements 2 and 3 are correct.
 
 </details>
 
@@ -1822,15 +1820,15 @@ D. 1, 2 and 3
 
 Which of the statements given above is/are correct?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. 2 and 3
+B. Only 1
+C. 1 and 2
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three statements are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Almeida (Blue Water / first Viceroy) ≠ Albuquerque (real founder / Goa).
 
@@ -1860,11 +1858,11 @@ D. 2 and 3 only
 
 **Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): William Hawkins reached India in 1608 on the Hector, spoke Turkish, and met Jahangir.
-
-Reason (R): Hawkins first arrived only in 1611, the same year as the permanent Surat factory.
+Assertion (A): Hawkins first arrived only in 1611, the same year as the permanent Surat factory.
 
 Select the correct answer from the code given below:
+
+Reason (R): William Hawkins reached India in 1608 on the Hector, spoke Turkish, and met Jahangir.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -1874,9 +1872,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** A is true and R is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** 1608 arrival is correct; 1611 is a trap year — permanent Surat is 1613.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. 1608 arrival is correct; 1611 is a trap year — permanent Surat is 1613.
 
 </details>
 
@@ -1936,15 +1934,15 @@ D. A-3, B-1, C-2, D-4
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Masulipatnam temporary ≠ Surat permanent.
 
@@ -1958,10 +1956,10 @@ D. 1, 2 and 3
 
 Which of the statements given above is/are correct?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. Only 1
+B. 1 and 2
+C. All 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -1974,11 +1972,11 @@ D. 1 and 3 only
 
 **Q9.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): Aix-la-Chapelle (1748) returned Madras after the First Carnatic War.
-
-Reason (R): Treaty of Paris (1763) is the same settlement under another name.
+Assertion (A): Treaty of Paris (1763) is the same settlement under another name.
 
 Select the correct answer from the code given below:
+
+Reason (R): Aix-la-Chapelle (1748) returned Madras after the First Carnatic War.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -1988,9 +1986,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** A is true and R is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** Aix-la-Chapelle 1748 ≠ Paris 1763 (Seven Years’ War / Third Carnatic end).
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Aix-la-Chapelle 1748 ≠ Paris 1763 (Seven Years’ War / Third Carnatic end).
 
 </details>
 
@@ -2002,15 +2000,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1, 2 and 3
+B. Only 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** St. Thome (French win) ≠ Wandiwash (British win).
 
@@ -2070,17 +2068,15 @@ D. A-3, B-1, C-2, D-4
 2. Danish facts include Tranquebar (1620) and Serampore; Denmark sold Indian settlements in 1845.
 3. Serampore was the chief French Bengal factory.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. Only 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** French Bengal factory is Chandernagore; Serampore is Danish.
 
@@ -2136,17 +2132,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Allahabad is correctly included in that five-city observatory list.
 3. He prepared Zij Muhammad Shahi.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 3
+B. Only 2
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 3 are correct.
+**Ans: A.** 1 and 3 only are correct.
 
 **Logic:** Five cities include Mathura — not Allahabad.
 
@@ -2206,15 +2200,15 @@ D. Neither 1 nor 2
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three pairs are correctly matched.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Bernier is not an English EIC envoy.
 
@@ -2378,17 +2372,15 @@ D. Neither 1 nor 2
 2. Europeans prized Bihar for high-grade opium and saltpetre.
 3. Levant Company (1592) sea-charter replaced the EIC before 1600.
 
-Which of the statements given above is/are correct?
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. Only 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** Levant was a land-route charter before the sea EIC — it did not replace EIC.
 

@@ -596,21 +596,21 @@ D. Elimination of all industrial activity
 
 **Q1.** With reference to sustainable development, which of the following statements is/are correct?
 
-1. Brundtland 1987 (*Our Common Future*) defines meeting present needs without compromising future generations.
+1. Brundtland 1997 (*Our Common Future*) defines meeting present needs without compromising future generations.
 2. Brundtland is identical to *Limits to Growth* (1972).
 3. SD rests on economic, social, and environmental pillars.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. Only 1
+C. 1 and 2
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 3.
+**Ans: A.** Only 3 is correct.
 
-**Logic:** *Limits to Growth* ≠ Brundtland.
+**Logic:** Only statement 3 remains true among the numbered claims. Statement 1 is false. Statement 2 is false. Statement 3 is true.
 
 </details>
 
@@ -632,21 +632,21 @@ D. Brundtland 1987 → Stockholm 1972 → SDGs 2015
 
 **Q3.** With reference to SDGs, which of the following statements is/are correct?
 
-1. Adopted September 2015; run to 2030.
+1. Adopted September 2007; run to 2030.
 2. 17 goals and 169 targets.
-3. SDGs replaced MDGs and apply universally to all countries.
+3. SDGs apply only to developing countries and did not replace the MDGs.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 3
+C. Only 2
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three.
+**Ans: C.** Only 2 is correct.
 
-**Logic:** 2015–2030; 17/169; universal.
+**Logic:** Statement 2 is correct (17/169). Statement 1 is false — SDGs were adopted in 2015, not 2007. Statement 3 is false — SDGs replaced MDGs and apply universally.
 
 </details>
 
@@ -699,19 +699,19 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 1. Natural capital — air, water, land, minerals, forests
 2. Roads — natural capital in standard teaching
-3. HDI — UNDP
+3. HDI — UNEP
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 3.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Roads are not natural capital.
+**Logic:** Only statement 1 remains true among the numbered claims. Statement 1 is true. Statement 2 is false. Statement 3 is false.
 
 </details>
 
@@ -747,7 +747,7 @@ D. MDGs 8 goals 2000–2015 → SDGs 17 goals 2015–2030
 
 **Ans: D.** MDGs 2000–15 (8) → SDGs 2015–30 (17).
 
-**Logic:** Replacement lock.
+**Logic:** Replacement fact.
 
 </details>
 
@@ -1068,7 +1068,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Ans: A.** Both true; UNEP origin does not explain Rio’s 1992 products.
 
-**A/R logic:** Two conference locks.
+**A/R logic:** Two conference facts.
 
 </details>
 

@@ -816,21 +816,21 @@ D. Freshwater glaciers only
 
 **Q1.** With reference to world water shares, which of the following statements is/are correct?
 
-1. Oceans about 97.2%.
+1. Oceans hold only about 2% of Earth’s water; ice holds about 97%.
 2. Ice/glaciers about 2% — ahead of rivers in freshwater ranking.
 3. Rivers are second after oceans in global freshwater ranking.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2
+B. 1 and 3
+C. Only 1
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: A.** Only 2 is correct.
 
-**Logic:** Ice/glaciers beat rivers — not rivers after oceans.
+**Logic:** Statement 2 is true among freshwater stores (ice/glaciers ahead of rivers). Statement 1 reverses ocean vs ice shares. Statement 3 is false — rivers are a tiny freshwater share, not second after oceans.
 
 </details>
 
@@ -860,21 +860,21 @@ D. A-3, B-1, C-2
 
 **Q3.** Which of the following pairs is/are correctly matched?
 
-1. India freshwater share — ~4% for ~18% population
+1. India holds about 40% of global freshwater for about 18% of world population.
 2. Per-capita ~1400 m³ — water-stress neighbourhood teaching
 3. Freshwater — biotic resource identical to forests
 
-A. 1, 2 and 3
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1 and 2 only
+A. 1 and 3
+B. Only 2
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2.
+**Ans: B.** Only 2 is correct.
 
-**Logic:** Freshwater is abiotic.
+**Logic:** Statement 2 is the water-stress per-capita neighbourhood teaching. Statement 1 exaggerates India’s freshwater share (usual teaching ~4% water / ~18% population). Statement 3 is false — freshwater is abiotic, not identical to forests.
 
 </details>
 
@@ -1172,7 +1172,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Ans: C.** A true, R false.
 
-**A/R logic:** Salinity decrease is not the standard lock.
+**A/R logic:** Salinity decrease is not the standard fact.
 
 </details>
 
@@ -1262,13 +1262,13 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both true and R explains the chair lock.
+**Ans: D.** Both true and R explains the chair fact.
 
 **A/R logic:** PM chairs NGRBA.
 
 </details>
 
-**Q24.** How many of the following UP colour locks are correct?
+**Q24.** How many of the following UP colour facts are correct?
 
 Bundelkhand scarcity; Kanpur tanneries; Gomti–Lucknow; arsenic plains
 

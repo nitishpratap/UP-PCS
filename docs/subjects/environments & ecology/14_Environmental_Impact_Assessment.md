@@ -370,40 +370,40 @@ D. CFC phase-out schedules
 **Q1.** With reference to EIA, which of the following statements is/are correct?
 
 1. EIA studies likely environmental effects before approval.
-2. Aim is anticipatory prevention, not reactive cleanup.
+2. EIA’s aim is only reactive cleanup after damage is complete.
 3. EIA is only done after project completion always.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2
+B. 1 and 3
+C. Only 1
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: C.** Only 1 is correct.
 
-**Logic:** Before approval — not after only.
+**Logic:** Statement 1 is true. Statement 2 is false — EIA is anticipatory prevention, not post-damage cleanup. Statement 3 is false — EIA is before approval, not only after completion.
 
 </details>
 
 **Q2.** Which of the following pairs is/are correctly matched?
 
 1. Legal base — EPA 1986 (Section 3)
-2. First EIA Notification — 1994
-3. Current framework — EIA Notification 2006 teaching
+2. First EIA Notification — 2004
+3. Current framework — EIA Notification 2016 teaching
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. Only 2
+B. 1 and 3
+C. Only 1
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three.
+**Ans: C.** Only 1 is correct.
 
-**Logic:** EPA → 1994 → 2006 frame.
+**Logic:** Only statement 1 remains true among the numbered claims. Statement 1 is true. Statement 2 is false. Statement 3 is false.
 
 </details>
 

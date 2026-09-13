@@ -1653,45 +1653,45 @@ D. A-1, B-3, C-2
 **Q6.** With reference to local winds, which of the following statements is/are correct?
 
 1. Chinook is a warm dry wind of the Rockies; Foehn is the Alps equivalent.
-2. Mistral is southern France, not Australia.
-3. Shamal is Arabia, not Austria; Brickfielder is Australia.
+2. Mistral is an Australian desert wind identical with Brickfielder.
+3. Shamal is an Austrian Alpine wind identical with Foehn.
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. All 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correct.
+**Ans: C.** Only 1 is correct.
 
-**Logic:** Australia/Austria letter traps are deliberate.
+**Logic:** Chinook is Rockies; Foehn is Alps. Mistral is southern France. Shamal is Arabia; Brickfielder is Australia.
 
 </details>
 
 **Q7.** Consider the following Japan industrial belt tags:
 
-1. Keihin — Tokyo–Yokohama
+1. Keihin is the Osaka–Kobe belt, not Tokyo–Yokohama.
 2. Hanshin — Osaka–Kobe
-3. Chukyo — Nagoya autos
-4. Osaka nickname — Manchester of Japan; Nagoya — Detroit of Japan
+3. Chukyo is the Tokyo–Yokohama steel belt only.
+4. Osaka nickname is Detroit of Japan; Nagoya is Manchester of Japan.
 
 Which of the statements given above is/are correct?
 
-A. 1, 2 and 3 only
-B. 2, 3 and 4 only
-C. 1, 2, 3 and 4
-D. 1, 3 and 4 only
+A. 1 and 2
+B. Only 2
+C. Only 4
+D. 2, 3 and 4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All four are correct.
+**Ans: B.** Only 2 is correct.
 
-**Logic:** Do not swap Osaka/Nagoya nicknames.
+**Logic:** Keihin = Tokyo–Yokohama; Hanshin = Osaka–Kobe; Chukyo = Nagoya autos. Osaka = Manchester of Japan; Nagoya = Detroit of Japan — do not swap nicknames.
 
 </details>
 
@@ -1703,15 +1703,15 @@ D. 1, 3 and 4 only
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. Only 2 and 3
+B. Only 1
+C. Only 1 and 2
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Electronics is not forced onto coalfields the way steel is.
 
@@ -1767,22 +1767,22 @@ D. A-4, B-1, C-2, D-3
 **Q11.** With reference to ports and entrepôts, which of the following statements is/are correct?
 
 1. Singapore, Rotterdam and Hong Kong are classic entrepôts.
-2. Duisburg is an inland Rhine port in Germany, not a Dutch sea mouth.
-3. Shanghai leads container volume among common port MCQs.
+2. Duisburg is a Dutch North Sea mouth port, not a German Rhine inland port.
+3. Shanghai never leads container volume among common port MCQs.
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: A.** Only 1 is correct.
 
-**Logic:** Do not dump Duisburg into the Netherlands.
+**Logic:** Singapore, Rotterdam and Hong Kong are classic entrepôts. Duisburg is an inland Rhine port in Germany. Shanghai leads container volume among common port MCQs.
 
 </details>
 
@@ -1838,15 +1838,15 @@ D. 3-2-1
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1, 2 and 3
+B. Only 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Pittsburgh–Great Lakes = steel; Detroit = autos.
 
@@ -1882,15 +1882,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Which of the statements given above is/are correct?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. All 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Ivanovo = Russian Manchester among nickname traps.
 
@@ -1945,15 +1945,15 @@ D. Suez opens directly onto the Atlantic as a canal bank.
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. 1 and 3
+C. All 1, 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Location-factor contrast, not a single-city dump.
 
@@ -1967,15 +1967,15 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. All 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Do not treat willy-willy as a Brickfielder-type local wind.
 
@@ -2011,15 +2011,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Do not park Silicon Valley on Detroit.
 
@@ -2078,17 +2078,15 @@ D. 2 and 3 only
 2. Duisburg is inland on the Rhine in Germany.
 3. Every Rhine port is automatically a Dutch sea entrepôt.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. Only 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Inland ≠ sea entrepôt.
 
@@ -2102,15 +2100,15 @@ D. 1, 2 and 3
 
 Which of the statements given above is/are correct?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. All 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Core location-factor triad for industry MCQs.
 
@@ -2140,15 +2138,15 @@ D. Santa Ana — Sudan
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Sea-level vs stepped chambers is the Suez/Panama discriminator.
 
@@ -2185,17 +2183,15 @@ D. A-4, B-1, C-2, D-3
 2. St Petersburg’s classic tag is shipbuilding.
 3. Both are cotton-textile first tags like Osaka.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1, 2 and 3
+B. Only 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** Do not dump every city onto cotton.
 

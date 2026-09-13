@@ -461,41 +461,41 @@ D. Zoo
 
 **Q1.** With reference to habitat and niche, which of the following statements is/are correct?
 
-1. Habitat is the physical place where an organism lives.
+1. Habitat is the functional role of a species in the community.
 2. Niche is the role of a species.
 3. Habitat and niche are interchangeable terms in all Prelims keys.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Ans: D.** Only 2 is correct.
 
-**Logic:** They are not interchangeable.
+**Logic:** Statement 2 is true (niche = role). Statement 1 swaps habitat for niche. Statement 3 is false — habitat and niche are not interchangeable.
 
 </details>
 
 **Q2.** Which of the following habitat classes is/are correctly matched?
 
-1. Terrestrial — land
+1. Terrestrial habitats are water-only systems such as oceans and lakes.
 2. Aquatic — water
 3. Mangrove/wetland — purely terrestrial only
 
-A. 2 and 3 only
-B. 1 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Ans: D.** Only 2 is correct.
 
-**Logic:** Mangrove/wetland are transitional.
+**Logic:** Statement 2 is true (aquatic = water). Statement 1 misdefines terrestrial. Statement 3 is false — mangrove/wetland is transitional, not purely terrestrial.
 
 </details>
 
@@ -546,21 +546,21 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q5.** With reference to MISHTI, which of the following statements is/are correct?
 
-1. It is the Mangrove Initiative for Shoreline Habitats & Tangible Income.
+1. MISHTI stands for Mangrove Initiative for Shipping, Highways and Trade Infrastructure.
 2. It comes from Union Budget 2023–24 under MoEFCC.
 3. It was launched as a 2019 mangrove mission.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2
+B. 1 and 3
+C. Only 1
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Ans: A.** Only 2 is correct.
 
-**Logic:** Not a 2019 scheme.
+**Logic:** Statement 2 is true (Union Budget 2023–24 / MoEFCC). Statement 1 invents a wrong expansion — MISHTI is Mangrove Initiative for Shoreline Habitats & Tangible Income. Statement 3 is false — it is not a 2019 mission launch.
 
 </details>
 
@@ -926,7 +926,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q24.** Which of the following statements is/are correct?
 
-1. India’a species richness on small land share is a recurring Prelims lock.
+1. India’a species richness on small land share is a recurring Prelims fact.
 2. Flora/fauna swap is a recurring trap.
 3. MISHTI year trap is 2019 vs 2023–24.
 
@@ -982,8 +982,8 @@ D. Stratospheric ozone layer
 
 **Q27.** Consider the following statements about BSI/ZSI:
 
-1. BSI year lock is 1890.
-2. ZSI year lock is 1916.
+1. BSI year fact is 1890.
+2. ZSI year fact is 1916.
 3. Both publish Red Data Book components for their kingdoms.
 
 A. 1 and 2 only
@@ -996,7 +996,7 @@ D. 1, 2 and 3
 
 **Ans: D.**
 
-**Logic:** All three teaching locks.
+**Logic:** All three teaching facts.
 
 </details>
 

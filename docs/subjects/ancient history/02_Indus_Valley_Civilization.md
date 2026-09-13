@@ -2656,26 +2656,24 @@ D. Geological change — Daya Ram Sahni as excavator theory only
 
 **Q1.** With reference to the Indus Valley Civilization, which of the following statements is/are correct?
 
-1. The Mature Harappan phase is about 2600–1900 BCE.
+1. The Mature Harappan phase is about 1500–600 BCE.
 2. It is a Bronze Age urban culture with no iron and no coined money.
 3. The Harappan script on seals has been fully deciphered.
 
-Select the correct answer from the code given below:
+A. Only 2
 
-A. 2 and 3 only
+B. 1 and 2
 
-B. 1 and 2 only
+C. 2 and 3
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Ans: A.** Only 2 is correct.
 
-**Logic:** Stmt 3 false: script remains unread; culture is proto-historic.
+**Logic:** Stmt 1 false: Mature Harappan is about 2600–1900 BCE, not the Later Vedic window. Stmt 3 remains false: script remains unread.
 
 </details>
 
@@ -2742,25 +2740,23 @@ D. 1-D, 2-A, 3-B, 4-C
 **Q4.** With reference to geographic extremes of the Harappan culture, which of the following is/are correct?
 
 1. Sutkagen-dor marks the western extreme.
-2. Alamgirpur (Meerut, UP) marks the eastern extreme.
-3. Rakhigarhi marks the eastern boundary of Harappan culture.
+2. Rakhigarhi marks the eastern boundary of Harappan culture.
+3. Alamgirpur (Meerut, UP) marks the western extreme.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 2 only
+B. Only 1
 
-B. 2 and 3 only
+C. 2 and 3
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Stmt 3 false: Rakhigarhi is largest in India (Hisar), not the eastern boundary.
+**Logic:** Stmt 3 false: Alamgirpur is the eastern extreme; Sutkagen-dor is western. Stmt 2 remains false: Rakhigarhi is largest in India, not the eastern boundary.
 
 </details>
 
@@ -2850,18 +2846,18 @@ D. Padri — Uttar Pradesh
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. 1, 2 and 3
 
-B. 2 and 3 only
+B. 2 and 3
 
-C. 1 and 3 only
+C. Only 1
 
-D. 1, 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Dholavira = reservoirs + signboard; Lothal keeps the dockyard identity.
 
@@ -2871,26 +2867,24 @@ D. 1, 2 and 3
 
 **Q9.** Consider the following statements:
 
-1. Harappan bricks commonly follow the ratio 1 : 2 : 4.
-2. The citadel usually lies to the west and the lower town to the east.
-3. The most common seal animal is the cow.
+1. The most common seal animal is the cow.
+2. Harappan bricks commonly follow the ratio 1 : 3 : 9.
+3. The citadel usually lies to the west and the lower town to the east.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 2 only
+B. 2 and 3
 
-B. 2 and 3 only
+C. Only 3
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: C.** Only 3 is correct.
 
-**Logic:** Stmt 3 false: cow absent on seals; unicorn is most common; bull/elephant/rhino/tiger also appear.
+**Logic:** Stmt 2 false: standard Harappan brick ratio is 1 : 2 : 4. Stmt 1 remains false: unicorn (not cow) is the most common seal animal.
 
 </details>
 
@@ -2961,18 +2955,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 1 and 2
 
-B. 2 and 3 only
+B. Only 1, 2 and 3
 
-C. 1 and 3 only
+C. 2 and 3
 
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Bronze Age + unread script + cotton fibre are core Must-Score lines.
 
@@ -3015,18 +3009,18 @@ D. 1, 2, 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 1 and 2
 
-B. 2 and 3 only
+B. Only 1, 2 and 3
 
-C. 1 and 3 only
+C. 2 and 3
 
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Massacre theory rejected; climate/geological/epidemic remain discussable.
 
@@ -3058,25 +3052,23 @@ D. Alamgirpur
 **Q16.** With reference to Surkotada and Banawali, which of the following is/are correct?
 
 1. Surkotada in Gujarat is often cited for horse-bone claims.
-2. Banawali in Haryana shows Early and Mature levels and plough-mark tradition.
-3. Surkotada proves a pan-Harappan horse culture across all sites.
+2. Surkotada proves a pan-Harappan horse culture across all sites.
+3. Banawali in Haryana is the only site with proven pan-Harappan horse culture.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 2 only
+B. 2 and 3
 
-B. 2 and 3 only
+C. 1 and 3
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** Stmt 3 false: treat Surkotada horse claim carefully; not pan-Harappan.
+**Logic:** Stmt 3 false: Banawali shows Early/Mature levels and plough-mark tradition; pan-Harappan horse culture is not proven. Stmt 2 remains false: Surkotada horse claim is not pan-Harappan proof.
 
 </details>
 
@@ -3132,26 +3124,24 @@ D. Great Bath — Mohenjo-daro
 
 **Q19.** Consider the following statements about Harappan religion:
 
-1. Mother-goddess figurines and a Pashupati-like seal are known.
-2. Large free-standing temples of later Hindu type are a regular Harappan feature.
+1. Large free-standing temples of later Hindu type are a regular Harappan feature.
+2. Mother-goddess figurines and a Pashupati-like seal are known.
 3. Sacred animals appear in the religious imagery.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 2 only
+B. Only 3
 
-B. 2 and 3 only
+C. 2 and 3
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 3 are correct.
+**Ans: C.** 2 and 3 only are correct.
 
-**Logic:** Stmt 2 false: no large free-standing temples of later Hindu type.
+**Logic:** Stmt 1 false: no large free-standing temples of later Hindu type.
 
 </details>
 
@@ -3159,26 +3149,24 @@ D. 1, 2 and 3
 
 **Q20.** With reference to foreign trade of the Harappans, which of the following is/are correct?
 
-1. Trade reached Mesopotamia; Meluhha is commonly linked with the Indus.
-2. Coastal Gujarat ports matter more than any UP river dock for overseas trade.
-3. Mandi (Muzaffarnagar) was the principal Indus port for Dilmun trade.
+1. Mandi (Muzaffarnagar) was the principal Indus port for Dilmun trade.
+2. Trade reached Mesopotamia; Meluhha is commonly linked with the Indus.
+3. Coastal Gujarat ports matter more than any UP river dock for overseas trade.
 
-Select the correct answer from the code given below:
+A. 2 and 3
 
-A. 1 and 2 only
+B. Only 1
 
-B. 2 and 3 only
+C. 1 and 3
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: A.** 2 and 3 only are correct.
 
-**Logic:** Stmt 3 false: UP sites are eastern fringe, not Dilmun ports.
+**Logic:** Stmt 1 false: UP sites are eastern fringe, not Dilmun ports.
 
 </details>
 
@@ -3208,25 +3196,23 @@ D. Dholavira
 **Q22.** Which of the following statements about OCP and Copper Hoards is/are correct?
 
 1. OCP overlaps Late Harappan decline and comes before PGW.
-2. Copper Hoard objects often appear with the doab OCP belt.
-3. Copper Hoards prove a second Indus capital in Uttar Pradesh.
+2. Copper Hoards prove a second Indus capital in Uttar Pradesh.
+3. Copper Hoard objects often appear with the doab OCP belt.
 
-Select the correct answer from the code given below:
+A. Only 1
 
-A. 1 and 2 only
+B. Only 1 and 2
 
-B. 2 and 3 only
+C. Only 3
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: D.** 1 and 3 only are correct.
 
-**Logic:** Stmt 3 false: Copper Hoards ≠ second Indus capital in UP.
+**Logic:** Stmt 2 false: Copper Hoards ≠ second Indus capital in UP.
 
 </details>
 
@@ -3240,18 +3226,18 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. 1 and 2
 
-B. 2 and 3 only
+B. All 1, 2 and 3
 
-C. 1 and 3 only
+C. Only 2 and 3
 
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Kalibangan = plough/altars; Lal also worked Hastinapur OCP later.
 
@@ -3292,20 +3278,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Hulas — Uttar Pradesh
 3. Manda — Gujarat
 
-Select the correct answer from the code given below:
+A. Only 3
 
-A. 1 and 2 only
+B. 2 and 3
 
-B. 2 and 3 only
+C. Only 1
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** Stmt 3 false: Manda is Jammu & Kashmir (Chenab), northernmost site.
 
@@ -3342,18 +3326,18 @@ D. R.D. Banerji
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. 1 and 2
 
-B. 2 and 3 only
+B. Only 1, 2 and 3
 
-C. 1 and 3 only
+C. Only 2 and 3
 
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Phase dates + urban planning are core IVC Must-Score facts.
 
@@ -3367,20 +3351,18 @@ D. 1, 2 and 3
 2. Chanhudaro is a Harappan craft town in Sindh.
 3. Both are Mature Harappan citadel cities of Uttar Pradesh.
 
-Select the correct answer from the code given below:
+A. Only 1
 
-A. 1 and 2 only
+B. 1 and 2
 
-B. 2 and 3 only
+C. Only 3
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Stmt 3 false: confused pair — Sohgaura Mauryan vs Chanhudaro Harappan craft town.
 
@@ -3412,25 +3394,23 @@ D. Elephant
 **Q30.** Which of the following statements about Harappan towns in Uttar Pradesh is/are correct?
 
 1. They form the eastern fringe and are smaller and pottery-heavy.
-2. They match Indus-core megacities like Mohenjo-daro in scale.
-3. Alamgirpur is the eastern-boundary tag among them.
+2. Alamgirpur is the eastern-boundary tag among them.
+3. They match Indus-core megacities like Mohenjo-daro in scale.
 
-Select the correct answer from the code given below:
+A. Only 1
 
-A. 1 and 2 only
+B. 1 and 2
 
-B. 2 and 3 only
+C. All 1, 2 and 3
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 3 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
-**Logic:** Stmt 2 false: UP sites are fringe, not Indus-core megacities.
+**Logic:** Stmt 3 false: UP sites are fringe, not Indus-core megacities.
 
 </details>
 

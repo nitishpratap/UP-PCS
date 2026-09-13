@@ -4158,22 +4158,22 @@ D. Mindanao
 **Q1.** With reference to UNCLOS belts, which of the following statements is/are correct?
 
 1. Territorial sea = 12 nm; contiguous zone = 24 nm; EEZ = 200 nm.
-2. Continental shelf may extend to 350 nm but that does not push EEZ water beyond 200.
-3. Innocent passage applies in the territorial sea; transit passage in international straits.
+2. Continental shelf rights beyond 200 nm automatically widen EEZ water to 350 nm.
+3. Innocent passage applies only on the high seas beyond EEZ.
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** Shelf rights beyond 200 are seabed rights, not a wider EEZ water column.
+**Logic:** Territorial sea 12 nm; contiguous 24 nm; EEZ 200 nm. Shelf may extend toward 350 nm as seabed rights, not a wider EEZ water column. Innocent passage is in territorial sea; transit passage in international straits.
 
 </details>
 
@@ -4271,45 +4271,45 @@ D. 2-4-1-3
 
 **Q6.** With reference to India’s neighbours, which of the following statements is/are correct?
 
-1. Seven land neighbours include Pakistan, China, Nepal, Bhutan, Myanmar, Bangladesh and Afghanistan via Wakhan/PoK teaching.
-2. Maritime neighbours are Sri Lanka and the Maldives.
+1. India has only three land neighbours: Pakistan, China and Nepal.
+2. Maritime neighbours exclude Sri Lanka and include only Myanmar.
 3. Uttar Pradesh’s only foreign neighbour is Nepal.
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: B.** Only 3 is correct.
 
-**Logic:** UP–Nepal is a state-level neighbour fact used again in Topic 24.
+**Logic:** Seven land neighbours include Pakistan, China, Nepal, Bhutan, Myanmar, Bangladesh and Afghanistan via Wakhan/PoK teaching. Maritime neighbours are Sri Lanka and the Maldives. UP’s only foreign neighbour is Nepal.
 
 </details>
 
 **Q7.** Consider the following strait pairs:
 
-1. Hormuz — Persian Gulf ↔ Gulf of Oman
+1. Hormuz links the Mediterranean with the Atlantic like Gibraltar.
 2. Malacca — Indian Ocean ↔ South China Sea approaches
-3. Gibraltar — Med ↔ Atlantic; Bosporus — Black Sea ↔ Marmara
+3. Gibraltar links the Persian Gulf with the Gulf of Oman; Bosporus links the Indian Ocean with the South China Sea.
 
 Which of the statements given above is/are correct?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 2
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: B.** Only 2 is correct.
 
-**Logic:** Do not swap Hormuz with Malacca or Gibraltar with Bosporus.
+**Logic:** Hormuz = Persian Gulf ↔ Gulf of Oman. Malacca = Indian Ocean ↔ South China Sea approaches. Gibraltar = Med ↔ Atlantic; Bosporus = Black Sea ↔ Marmara.
 
 </details>
 
@@ -4341,20 +4341,18 @@ D. A-4, B-1, C-2, D-3
 **Q9.** Which of the following pairs is/are correctly matched?
 
 1. Köppen — letter-code climate classes; Thornthwaite — vegetation as true climate index
-2. Mediterranean — winter rain; Western Europe — rain all months (Cfb / westerlies)
-3. Tropic of Cancer crosses Uttar Pradesh
+2. Tropic of Cancer crosses Uttar Pradesh
+3. Mediterranean — winter rain; Western Europe — rain all months (Cfb / westerlies)
 
-Select the correct answer from the code given below:
-
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 3
+B. 1, 2 and 3
+C. Only 1 and 2
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: A.** 1 and 3 only are correct.
 
 **Logic:** Tropic does not cross UP.
 
@@ -4390,15 +4388,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
+A. 2 and 3
+B. Only 1
+C. 1 and 2
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Sudan-in-Horn and Austria-in-Balkans are over-inclusion traps.
 
@@ -4451,21 +4449,19 @@ D. Gold Coast→Ghana; Siam→Thailand; Formosa→Taiwan; Zimbabwe
 
 **Q14.** With reference to capitals ≠ famous cities, which of the following statements is/are correct?
 
-1. Australia — Canberra; Japan — Tokyo; Nigeria — Abuja; Myanmar — Naypyidaw.
-2. Slovenia — Ljubljana (Bratislava is Slovakia).
-3. Istanbul is Turkey’s capital.
+1. Istanbul is Turkey’s capital.
+2. Australia — Canberra; Japan — Tokyo; Nigeria — Abuja; Myanmar — Naypyidaw.
+3. Slovenia — Ljubljana (Bratislava is Slovakia).
 
-Select the correct answer from the code given below:
-
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 3
+C. Only 2
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: D.** 2 and 3 only are correct.
 
 **Logic:** Ankara is Turkey’s capital.
 
@@ -4520,21 +4516,19 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q17.** With reference to Gaza and Greenland, which of the following statements is/are correct?
 
-1. Gaza borders Egypt and Israel.
-2. Greenland is Denmark politically / North America geographically.
-3. Afghanistan borders Russia.
+1. Afghanistan borders Russia.
+2. Gaza borders Egypt and Israel.
+3. Greenland is Denmark politically / North America geographically.
 
-Select the correct answer from the code given below:
-
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: D.** 2 and 3 only are correct.
 
 **Logic:** Afghanistan does not border Russia.
 
@@ -4566,20 +4560,18 @@ D. 1, 2, 3 and 4
 **Q19.** Consider the following statements about India coastline and states:
 
 1. Mainland plus islands coastline ≈ 7516 km.
-2. Gujarat has the longest state coastline; Telangana is not coastal.
-3. Egypt and Mexico are equatorial countries in the usual MCQ sense.
+2. Egypt and Mexico are equatorial countries in the usual MCQ sense.
+3. Gujarat has the longest state coastline; Telangana is not coastal.
 
-Which of the statements given above is/are correct?
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 3 only are correct.
 
 **Logic:** Egypt/Mexico are classic non-equatorial traps.
 
@@ -4609,15 +4601,15 @@ D. Oder–Neisse is the India–China line.
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. Only 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Same canal triad as industries chapter — keep waters unswapped.
 
@@ -4721,15 +4713,15 @@ D. 38th → Durand → McMahon → Radcliffe
 
 Which of the statements given above is/are correct?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Megacity coastal-gateway note is separate map diet.
 
@@ -4757,17 +4749,15 @@ D. Both are UNCLOS EEZ limits.
 2. India is about 2.4% of world land.
 3. India is 6th largest and wholly tropical.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
+A. 2 and 3
+B. Only 1
+C. 1 and 2
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** 7th + 2.4% are the desk; wholly tropical is false.
 
@@ -4804,17 +4794,15 @@ D. A-4, B-1, C-2, D-3
 2. Most megacities are coastal as ocean gateways in teaching notes.
 3. Contiguous zone is 200 nm.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Contiguous = 24 nm; EEZ = 200 nm.
 

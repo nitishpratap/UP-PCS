@@ -2359,22 +2359,22 @@ D. Erosional waterfall
 **Q1.** With reference to endogenic and exogenic processes, which of the following statements is/are correct?
 
 1. Endogenic processes build relief from inside the Earth.
-2. Exogenic processes wear and deposit at the surface.
-3. Gradation = degradation + aggradation.
+2. Exogenic processes build primary relief from inside the Earth.
+3. Gradation means only volcanic uplift with no degradation or aggradation.
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. 1 and 2
 B. 1, 2 and 3
-C. 2 and 3 only
-D. 1 and 3 only
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** All three statements are correct.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** Davis cycle uses structure–process–time.
+**Logic:** Endogenic processes build relief from inside. Exogenic processes wear and deposit at the surface. Gradation = degradation + aggradation.
 
 </details>
 
@@ -2388,15 +2388,15 @@ D. 1 and 3 only
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1 and 3 only
-B. 1, 2 and 3
-C. 1 and 2 only
-D. 2 and 3 only
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only pairs 1 and 2 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Fossils belong to sedimentary rocks.
 
@@ -2470,15 +2470,15 @@ D. 1-3-2
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 1, 2 and 3
-C. 2 and 3 only
-D. 1 and 3 only
+A. Only 1
+B. Only 1 and 2
+C. All 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** All three meander statements are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Alluvial fans coalesce into a bajada.
 
@@ -2578,17 +2578,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. A ria is a drowned river valley.
 3. Fjord and ria are the same estuary type.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. Only 1 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** Do not merge fjord with ria.
 
@@ -2649,15 +2647,15 @@ D. None
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 1, 2 and 3
-C. 2 and 3 only
-D. 1 and 3 only
+A. Only 1
+B. Only 1 and 2
+C. 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** All three statements are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Cuesta has gentle dip + steep scarp; hogback is steep on both sides.
 
@@ -2794,15 +2792,15 @@ D. A-1, B-2, C-4, D-3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 1, 2 and 3
-C. 2 and 3 only
-D. 1 and 3 only
+A. 1 and 2
+B. 2 and 3
+C. 1 and 3
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** All three belt contrasts are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Keep the three belts distinct in landform stems.
 

@@ -1526,26 +1526,24 @@ D. A-1, B-4, C-3, D-2
 
 **Q2.** With reference to Bankim and related titles, which of the following statements is/are correct?
 
-1. *Anandamath* (1882) by Bankim Chandra Chattopadhyay carries *Vande Mataram*.
-2. *Neel Darpan* (1860) is Dinabandhu Mitra’s indigo play.
-3. *Neel Darpan* is Bankim’s novel of the Sanyasi rising.
+1. *Anandamath* (1882) by Dinabandhu Mitra carries *Vande Mataram*.
+2. *Neel Darpan* is Bankim’s novel of the Sanyasi rising.
+3. *Neel Darpan* (1860) is Dinabandhu Mitra’s indigo play.
 
-Select the correct answer from the code given below:
+A. Only 3
 
-A. 2 and 3 only
+B. 1 and 2
 
-B. 1 and 3 only
+C. 2 and 3
 
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: A.** Only 3 is correct.
 
-**Logic:** Never give *Neel Darpan* to Bankim.
+**Logic:** Stmt 1 false: *Anandamath* and *Vande Mataram* are Bankim’s; Dinabandhu Mitra wrote *Neel Darpan*. Stmt 2 remains false: never give *Neel Darpan* to Bankim.
 
 </details>
 
@@ -1580,26 +1578,24 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q4.** Which of the following pairs is/are correctly matched?
 
-1. *Hind Swaraj* (1909) — Gandhi’s political tract
-2. *My Experiments with Truth* — Gandhi’s autobiography
-3. *The Discovery of India* (1946) — Abul Kalam Azad
+1. *The Discovery of India* (1946) — Abul Kalam Azad
+2. *Hind Swaraj* (1909) — Gandhi’s political tract
+3. *My Experiments with Truth* — Abul Kalam Azad’s autobiography.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 2 and 3 only
+B. 2 and 3
 
-B. 1 and 2 only
+C. Only 2
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: C.** Only 2 is correct.
 
-**Logic:** *Discovery of India* = Nehru; *India Wins Freedom* = Azad.
+**Logic:** Stmt 3 false: *My Experiments with Truth* is Gandhi’s autobiography; Azad wrote *India Wins Freedom*. Stmt 1 remains false: *Discovery of India* = Nehru.
 
 </details>
 
@@ -1654,26 +1650,24 @@ D. 1, 2, 4, 3
 
 **Q7.** With reference to Tilak’s books, which of the following statements is/are correct?
 
-1. *Gita Rahasya* is Tilak’s Gita–politics work.
-2. *Arctic Home in the Vedas* is also by Tilak, on a Vedic homeland thesis.
-3. *Arctic Home in the Vedas* is Surendranath Banerjee’s memoir.
+1. *Gita Rahasya* is Surendranath Banerjee’s Gita–politics work.
+2. *Arctic Home in the Vedas* is Surendranath Banerjee’s memoir.
+3. *Arctic Home in the Vedas* is also by Tilak, on a Vedic homeland thesis.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 3 only
+B. Only 3
 
-B. 1 and 2 only
+C. 2 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: B.** Only 3 is correct.
 
-**Logic:** Same-author twin: never swap Tilak’s two titles with Banerjee’s memoir.
+**Logic:** Stmt 1 false: *Gita Rahasya* is Tilak’s; Banerjee’s memoir is *A Nation in Making*. Stmt 2 remains false: *Arctic Home* is also Tilak’s, not Banerjee’s.
 
 </details>
 
@@ -1717,18 +1711,18 @@ D. A-2, B-1, C-4, D-3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 1 and 2
 
-B. 2 and 3 only
+B. All 1, 2 and 3
 
-C. 1 and 3 only
+C. Only 2 and 3
 
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Keep poem *Batohiya* distinct from the traveller character in *Bidesiya*.
 
@@ -1786,26 +1780,24 @@ D. An Indian Pilgrim — Lala Lajpat Rai
 
 **Q12.** Which of the following statements is/are correct?
 
-1. *Gitanjali* is Tagore’s; he received the Nobel in 1913.
-2. *Jana Gana Mana* is the national anthem; *Vande Mataram* is the national song.
-3. *Vande Mataram* is the national anthem adopted from *Anandamath*.
+1. *Vande Mataram* is the national anthem adopted from *Anandamath*.
+2. *Gitanjali* is Tagore’s; he received the Nobel in 1905.
+3. *Jana Gana Mana* is the national anthem; *Vande Mataram* is the national song.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 3 only
+B. 2 and 3
 
-B. 1 and 2 only
+C. 1 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: D.** Only 3 is correct.
 
-**Logic:** Anthem vs song — never reverse.
+**Logic:** Stmt 2 false: Tagore’s Nobel is 1913, not 1905. Stmt 1 remains false: *Vande Mataram* is national song, not the anthem.
 
 </details>
 
@@ -1840,23 +1832,21 @@ D. 1, 4, 3, 2
 **Q14.** With reference to economic-nationalist writing, which of the following statements is/are correct?
 
 1. *Economic History of India* is R.C. Dutt’s classic of that age.
-2. A book written in 1901 about the drain is a primary tract.
-3. A book written decades later about that age is still classified as a primary Naoroji tract.
+2. A book written decades later about that age is still classified as a primary Naoroji tract.
+3. A book written in 1901 about the drain is a primary tract.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 2 and 3 only
+B. Only 3
 
-B. 1 and 2 only
+C. Only 1 and 3
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: C.** 1 and 3 only are correct.
 
 **Logic:** Later historiography ≠ primary drain tract.
 
@@ -1891,20 +1881,18 @@ D. Godaan — Bankim Chandra Chattopadhyay
 2. *Hindutva: Who is a Hindu?* (1923) is a separate Savarkar title.
 3. *Anandamath* is Savarkar’s novel of the Sanyasi rising.
 
-Select the correct answer from the code given below:
+A. Only 1
 
-A. 2 and 3 only
+B. 1 and 2
 
-B. 1 and 3 only
+C. Only 3
 
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** *Anandamath* = Bankim, not Savarkar.
 
@@ -1948,20 +1936,18 @@ D. A-2, B-1, C-3, D-4
 2. It belongs to the same author as *Firangiya*.
 3. It is a Bhojpuri-linked title in the UP-facing literature set.
 
-Select the correct answer from the code given below:
+A. Only 3
 
-A. 1 and 2 only
+B. Only 1 and 3
 
-B. 1 and 3 only
+C. Only 1
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 3.
+**Ans: B.** 1 and 3 only are correct.
 
 **Logic:** *Firangiya* = Manoranjan Prasad Sinha, not Heera Dom.
 
@@ -2002,20 +1988,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. *My Indian Years* is associated with Hardinge.
 3. *My Indian Years* is Bankim’s English memoir of the Ilbert controversy.
 
-Select the correct answer from the code given below:
+A. Only 1, 2 and 3
 
-A. 2 and 3 only
+B. 2 and 3
 
-B. 1 and 3 only
+C. Only 1
 
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** GG-linked shelf ≠ nationalist novelists.
 
@@ -2046,24 +2030,22 @@ D. Dadabhai Naoroji — *Annihilation of Caste*
 
 **Q22.** Which of the following statements is/are correct?
 
-1. Sorting books by type (primary tract, memoir, historiography, GG-linked, partition narrative) kills many author traps.
-2. *Toward Freedom* / Autobiography is a different Nehru title from *The Discovery of India*.
-3. *Freedom at Midnight* (Collins & Lapierre) is Azad’s memoir under another name.
+1. *Freedom at Midnight* (Collins & Lapierre) is Azad’s memoir under another name.
+2. Sorting books by type (primary tract, memoir, historiography, GG-linked, partition narrative) kills many author traps.
+3. *Toward Freedom* / Autobiography is a different Nehru title from *The Discovery of India*.
 
-Select the correct answer from the code given below:
+A. Only 1
 
-A. 1 and 2 only
+B. 1 and 3
 
-B. 2 and 3 only
+C. Only 2
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2.
+**Ans: D.** 2 and 3 only are correct.
 
 **Logic:** *Freedom at Midnight* ≠ *India Wins Freedom*.
 
@@ -2103,20 +2085,18 @@ D. 1, 2, 4, 3
 2. *Pakistan or the Partition of India* is also Ambedkar’s.
 3. *India Divided* is Ambedkar’s partition narrative.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 2 only
+B. Only 3
 
-B. 1 and 3 only
+C. 2 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** *India Divided* = Rajendra Prasad.
 
@@ -2156,24 +2136,22 @@ D. A-2, B-3, C-4, D-1
 
 **Q26.** Which of the following statements is/are correct?
 
-1. *A Nation in Making* is Surendranath Banerjee’s.
-2. *The Story of My Deportation* is Lala Lajpat Rai’s.
-3. Both titles are memoirs of Motilal Nehru.
+1. Both titles are memoirs of Motilal Nehru.
+2. *A Nation in Making* is Surendranath Banerjee’s.
+3. *The Story of My Deportation* is Lala Lajpat Rai’s.
 
-Select the correct answer from the code given below:
+A. 2 and 3
 
-A. 1 and 2 only
+B. Only 1
 
-B. 1 and 3 only
+C. 1 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2.
+**Ans: A.** 2 and 3 only are correct.
 
 **Logic:** Banerjee ↔ Lajpat standing swap.
 
@@ -2221,9 +2199,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both true; R correctly explains why the two titles must not be swapped in stems.
+**Ans: A.** Both true; R is a different-book identity rule, not the explanation of why *Hind Swaraj* is Gandhi’s civilisation critique.
 
-**A/R logic:** Same author, two books — R states the twin rule that protects A’s identity.
+**A/R logic:** Same author, two books — both facts are true, but R does not explain A.
 
 </details>
 
@@ -2235,20 +2213,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Political context of why a book was written may live in other Modern topics; this chapter homes title↔author.
 3. *Gulamgiri* and *Annihilation of Caste* can be treated as interchangeable titles of one author.
 
-Select the correct answer from the code given below:
+A. Only 1, 2 and 3
 
-A. 1 and 2 only
+B. Only 2 and 3
 
-B. 1 and 3 only
+C. Only 1
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** Phule 1873 ≠ Ambedkar 1936.
 
@@ -2262,20 +2238,18 @@ D. 1, 2 and 3
 2. *My Experiments with Truth* is Gandhi’s autobiography, distinct from *Hind Swaraj*.
 3. *A Nation in Making* is Lala Lajpat Rai’s deportation memoir.
 
-Select the correct answer from the code given below:
+A. Only 1
 
-A. 1 and 2 only
+B. 1 and 2
 
-B. 1 and 3 only
+C. All 1, 2 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** *A Nation in Making* = Banerjee; Deportation = Lajpat Rai.
 

@@ -723,21 +723,24 @@ D. All 1, 2, 3 and 4
 
 **Q1.** With reference to medieval court language, which of the following statements is/are correct?
 
-1. Persian was the court language of the Sultanate and Mughal empires.
+1. Persian was never used as a court language under the Sultanate or Mughals.
 2. Baburnama alone among major Mughal memoirs is written in Chagatai Turki.
 3. Ain-i-Akbari is Babur’s Turki gazetteer.
 
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. Only 2
+
+B. 1 and 2
+
+C. 2 and 3
+
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: A.** Only 2 is correct.
 
-**Logic:** Ain-i-Akbari is Abul Fazl’s admin gazetteer, not Babur’s.
+**Logic:** Stmt 1 false: Persian was the court language of both Sultanate and Mughal empires. Stmt 3 remains false: Ain-i-Akbari is Abul Fazl’s, not Babur’s Turki gazetteer.
 
 </details>
 
@@ -803,9 +806,9 @@ D. 2–4–3–1
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Faizi 1595 → Sheikh Mubarak 1597 → Abul Fazl 1602 → Daniyal 1604.
+**Ans: C.** Faizi (1595) → Sheikh Mubarak (1597) → Abul Fazl murdered (1602) → Daniyal (1604).
 
-**Logic:** Death chronology is a frequent arrange stem.
+**Logic:** Matches UPPCS 2024 order. Do not place Abul Fazl before Faizi or Mubarak; murder year 1602 is after both.
 
 </details>
 
@@ -832,20 +835,23 @@ D. 1 and 2 only
 **Q6.** With reference to Amir Khusrau’s works, which statements is/are correct?
 
 1. Miftah-ul-Futuh covers Jalaluddin Khalji.
-2. Khazain-ul-Futuh covers Alauddin.
+2. Khazain-ul-Futuh covers Jalaluddin Khalji.
 3. Tutinama is also by Amir Khusrau.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+
+B. Only 1
+
+C. 2 and 3
+
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Tutinama is by Nakhshabi — not Khusrau.
+**Logic:** Stmt 2 false: Khazain-ul-Futuh covers Alauddin; Miftah-ul-Futuh covers Jalaluddin. Stmt 3 remains false: Tutinama is Nakhshabi’s, not Khusrau’s.
 
 </details>
 
@@ -857,15 +863,15 @@ D. 1, 2 and 3
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three pairs are correctly matched.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Padmavat ≠ Padmavati Katha.
 
@@ -921,18 +927,18 @@ D. A-3, B-1, C-2, D-4
 **Q10.** With reference to Barani, which statements is/are correct?
 
 1. Fatawa-i-Jahandari is his political theory text.
-2. Fatwa-i-Firuz Shahi is Firuz Shah’s own regulations.
-3. Fatawa-i-Jahandari and Fatwa-i-Firuz Shahi are the same book.
+2. Fatawa-i-Jahandari and Fatwa-i-Firuz Shahi are the same book.
+3. Fatwa-i-Firuz Shahi is Firuz Shah’s own regulations.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. Only 3
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 3 only are correct.
 
 **Logic:** Name similarity is the trap — different authors and purposes.
 
@@ -960,15 +966,15 @@ D. Riyaz-ul-Insha — Bengal history by the same author as C
 2. Burhan-e-Masir = Ahmadnagar.
 3. Riyaz-us-Salatin = Bengal.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. All 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Keep Gawan’s Riyaz-ul-Insha off the Bengal shelf.
 
@@ -976,19 +982,19 @@ D. 1, 2 and 3
 
 **Q13.** Consider the following statements about Afif and Barani:
 
-1. Both wrote works titled Tarikh-i-Firoz Shahi for different phases.
-2. Afif covers later Firuz; Barani’s Tarikh stops earlier.
-3. Ibn Battuta wrote Tarikh-i-Firoz Shahi as a third identical text.
+1. Ibn Battuta wrote Tarikh-i-Firoz Shahi as a third identical text.
+2. Both wrote works titled Tarikh-i-Firoz Shahi for different phases.
+3. Afif covers later Firuz; Barani’s Tarikh stops earlier.
 
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. Only 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: C.** 2 and 3 only are correct.
 
 **Logic:** Double-title trap: same name, different authors/periods.
 
@@ -996,9 +1002,9 @@ D. 1, 2 and 3
 
 **Q14.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): Amir Khusrau belongs to the Sultanate age.
+Assertion (A): He should be placed in Akbar’s Navratna music circle with Tansen.
 
-Reason (R): He should be placed in Akbar’s Navratna music circle with Tansen.
+Reason (R): Amir Khusrau belongs to the Sultanate age.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -1008,16 +1014,22 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true, but (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** Khusrau ≠ Tansen contemporaries.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Khusrau ≠ Tansen contemporaries.
 
 </details>
 
-**Q15.** Arrange / identify the correct vernacular match code for:
+**Q15.** Match List-I with List-II and select the correct answer from the code given below:
 
-A. A-4, B-3, C-1, D-2
-with 1. Rag Vibodh  2. Ashiqa  3. Chandayan  4. Padmavati Katha
+| List-I (Author) | List-II (Work) |
+|---|---|
+| A. Mulla Daud | 1. Rag Vibodh |
+| B. Damodar Kavi | 2. Ashiqa |
+| C. Somnath | 3. Chandayan |
+| D. Amir Khusrau | 4. Padmavati Katha |
+
+*Row order is not the answer code.*
 
 A. A-4, B-3, C-1, D-2
 B. A-3, B-4, C-2, D-1
@@ -1027,27 +1039,27 @@ D. A-1, B-4, C-2, D-3
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Chandayan–Mulla Daud; Padmavati Katha–Damodar; Ashiqa–Somnath; Rag Vibodh–Khusrau (literary list).
+**Ans: B.** Mulla Daud–Chandayan; Damodar Kavi–Padmavati Katha; Somnath–Ashiqa; Amir Khusrau–Rag Vibodh.
 
-**Logic:** Music-treatise stems may pair Raga Vibodh with Somanath — learn both codes.
+**Logic:** Same pairing as UPPCS 2019. Do not give Rag Vibodh to Somnath in this vernacular list; music-treatise stems may pair Rag Vibodh with Somanath in a different code.
 
 </details>
 
 **Q16.** Which of the following statements about Mughal texts is/are correct?
 
 1. Alamgirnama is by Mirza Muhammad Kazim (Aurangzeb age).
-2. Futuh-us-Salatin is by Abdul Malik Isami.
-3. Padshahnama is Jahangir’s own memoir.
+2. Padshahnama is Jahangir’s own memoir.
+3. Futuh-us-Salatin is by Abdul Malik Isami.
 
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 3
+C. 1 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 3 only are correct.
 
 **Logic:** Padshahnama is Abdul Hamid Lahori on Shah Jahan; Tuzuk is Jahangir’s memoir.
 
@@ -1086,15 +1098,15 @@ D. A-3, B-2, C-1, D-4
 2. Mulla Daud–Chandayan belongs to Awadhi / Hindavi romance.
 3. Vernacular Bhakti poetry of Kabir, Tulsidas, and Surdas ran parallel to Persian court literature.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. All 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Court Persian and vernacular devotion are parallel streams, not one replacement.
 
@@ -1142,15 +1154,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Tabaqat means generational biographical “classes.”
 3. Ain-i-Akbari is best read as a pure verse epic like Padmavat.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. Only 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** Ain is an admin/statistical gazetteer beside Akbarnama’s narrative.
 
@@ -1158,19 +1170,19 @@ D. 1, 2 and 3
 
 **Q22.** Consider the following statements:
 
-1. Somnath is paired with Ashiqa in the vernacular match list.
-2. Amir Khusrau is paired with Rag Vibodh in the literary list.
-3. Padmavat is Damodar Kavi’s Awadhi epic.
+1. Padmavat is Damodar Kavi’s Awadhi epic.
+2. Somnath is paired with Ashiqa in the vernacular match list.
+3. Amir Khusrau is paired with Rag Vibodh in the literary list.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. Only 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 2 and 3 only are correct.
 
 **Logic:** Padmavat is Jaisi; Damodar wrote Padmavati Katha.
 
@@ -1178,19 +1190,19 @@ D. 1, 2 and 3
 
 **Q23.** Which of the following statements about Badauni and Abul Fazl is/are correct?
 
-1. Badauni wrote Muntakhab-ut-Tawarikh and was critical of Akbar.
-2. Abul Fazl wrote both Akbarnama and Ain-i-Akbari.
-3. Both authors wrote Baburnama in Turki.
+1. Both authors wrote Baburnama in Turki.
+2. Badauni wrote Muntakhab-ut-Tawarikh and was critical of Akbar.
+3. Abul Fazl wrote both Akbarnama and Ain-i-Akbari.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. 1 and 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: A.** 2 and 3 only are correct.
 
 **Logic:** Baburnama is Babur’s own Turki memoir.
 
@@ -1229,15 +1241,15 @@ D. A-3, B-2, C-1, D-4
 2. Ramayana and related texts were also translated into Persian.
 3. Faizi’s circle participated in the translation peak.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. All 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Translation peak is an Akbar cultural tag, not a Jahangir memoir fact.
 
@@ -1266,18 +1278,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q27.** Which of the following statements is/are correct?
 
 1. Court Persian remained central from Iltutmish through Aurangzeb.
-2. Hindavi bridge literature is especially associated with Amir Khusrau.
-3. Baburnama proves that all Mughal official histories were written only in Turki.
+2. Baburnama proves that all Mughal official histories were written only in Turki.
+3. Hindavi bridge literature is especially associated with Amir Khusrau.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2
+B. 2 and 3
+C. Only 1
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 3 only are correct.
 
 **Logic:** Babur’s Turki memoir is the exception, not the administrative rule.
 
@@ -1291,15 +1303,15 @@ D. 1, 2 and 3
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1, 2 and 3
+B. Only 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three pairs are correctly matched.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Period split is the double-title key.
 
@@ -1327,15 +1339,15 @@ D. Padmavat — Damodar Kavi
 2. Kitab-ul-Hind is by Alberuni.
 3. Taj-ul-Maasir is by Hasan Nizami.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
+A. 2 and 3
+B. Only 1
+C. 1 and 2
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** These are core book↔author Must-Score rows.
 

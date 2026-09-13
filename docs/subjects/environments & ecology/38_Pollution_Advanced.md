@@ -944,20 +944,20 @@ D. Only Ramsar wetland birds
 **Q1.** With reference to air pollutants, which of the following statements is/are correct?
 
 1. Primary — emitted directly (SO₂, PM, CO, NOx, lead).
-2. Secondary — form in air (O₃, PAN, photochemical smog products).
+2. primary — form in air (O₃, PAN, photochemical smog products).
 3. CO₂ and CH₄ are India’s AQI eight pollutants.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2
+B. 1 and 3
+C. Only 1
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: C.** Only 1 is correct.
 
-**Logic:** AQI eight exclude CO₂/CH₄.
+**Logic:** Only statement 1 remains true among the numbered claims. Statement 1 is true. Statement 2 is false. Statement 3 is false.
 
 </details>
 
@@ -988,20 +988,20 @@ D. A-3, B-1, C-2
 **Q3.** Which of the following pairs is/are correctly matched?
 
 1. India’s AQI — eight pollutants including PM2.5, O₃, NH₃, Pb
-2. Good 0–50 to Severe 401–500 bands teaching
+2. AQI Good is 401–500 and Severe is 0–50.
 3. Lichens grow best in badly polluted air
 
-A. 1, 2 and 3
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1 and 2 only
+A. 1 and 3
+B. Only 2
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** Lichens are indicators — poor in dirty air.
+**Logic:** Statement 1 correctly ties India’s AQI to eight pollutants. Statement 2 reverses Good/Severe bands. Statement 3 is false — lichens indicate cleaner air, not badly polluted air.
 
 </details>
 

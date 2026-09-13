@@ -1180,21 +1180,24 @@ D. A-2, B-3, C-4, D-1
 
 **Q1.** With reference to Early Medieval India, which of the following statements is/are correct?
 
-1. The period is roughly dated about 750–1200 CE after Harsha.
+1. The period is roughly dated about 1206–1526 CE as the Delhi Sultanate age.
 2. The Delhi Sultanate begins in 1206 CE.
 3. Early Medieval India is identical with the Delhi Sultanate phase.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2
+
+B. 1 and 2
+
+C. 2 and 3
+
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: A.** Only 2 is correct.
 
-**Logic:** Statement 3 confuses the regional/samanta age with Turkish rule from 1206.
+**Logic:** Stmt 1 false: Early Medieval is roughly 750–1200 CE after Harsha, before the Sultanate. Stmt 3 remains false: Early Medieval ≠ Delhi Sultanate phase.
 
 </details>
 
@@ -1291,15 +1294,15 @@ D. 1 and 3 only
 2. The empire had four mandalams at its peak.
 3. Ur was the Brahmana agrahara assembly.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1, 2 and 3
+B. Only 1 and 2
+C. Only 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Ur is the ordinary village assembly; Sabha/Mahasabha is the agrahara assembly.
 
@@ -1313,15 +1316,15 @@ D. 1, 2 and 3
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. Only 1
+B. 1 and 2
+C. All 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three pairs are correctly matched.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Devagiri later becomes Daulatabad; do not swap Yadava with Kakatiya Warangal.
 
@@ -1380,15 +1383,15 @@ D. A-3, B-2, C-1, D-4
 2. Dharmapala founded Vikramashila.
 3. Devapala marks the Pala peak.
 
-A. 1 and 2 only
-B. 1, 2 and 3
-C. 1 and 3 only
-D. 2 and 3 only
+A. Only 1
+B. Only 1 and 2
+C. Only 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** All three statements are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Also remember Odantapuri with Gopala and Somapura/Paharpur with Dharmapala.
 
@@ -1400,15 +1403,15 @@ D. 2 and 3 only
 2. Eri Variyam — tanks
 3. Pon Variyam — gold / finance
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 1, 2 and 3
-D. 2 and 3 only
+A. Only 1
+B. Only 1 and 2
+C. All 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correctly matched.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Samvatsara Variyam handled annual affairs; Uttaramerur shows Sabha working rules.
 
@@ -1441,15 +1444,15 @@ D. 1–2–4–3
 2. Prithviraj III lost Second Tarain (1192) to Muhammad Ghori.
 3. Jay Chandra was killed at Chandawar in 1194.
 
-A. 1 and 2 only
-B. 1, 2 and 3
-C. 1 and 3 only
-D. 2 and 3 only
+A. All 1, 2 and 3
+B. Only 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** All three are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Cause–course–result: disunited Rajputs; Tarain II opened the north; Chandawar removed Gahadavala power.
 
@@ -1497,15 +1500,15 @@ D. Gahadavala — Kannauj and Banaras
 2. Rajendra I took whole Sri Lanka and founded Gangaikondacholapuram.
 3. Vijayalaya was the imperial Chola founder about 850 CE.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 1, 2 and 3
-D. 2 and 3 only
+A. 1 and 2
+B. 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three statements are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Do not make Rajaraja the founder; Vijayalaya starts the imperial line.
 
@@ -1564,15 +1567,15 @@ D. A-4, B-1, C-2, D-3
 2. Nagabhatta I checked the Arabs.
 3. Mihir Bhoja took the title Adivaraha.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
+A. 1 and 2
+B. 2 and 3
+C. 1 and 3
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Mihir Bhoja recovered Kannauj about 836 — distinct from Paramara Bhoja of Dhara.
 
@@ -1580,9 +1583,9 @@ D. 1, 2 and 3
 
 **Q20.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): Eripatti land revenue maintained the village tank.
+Assertion (A): Taniyur was a Brahmana gift-village identical with agrahara Sabha land.
 
-Reason (R): Taniyur was a Brahmana gift-village identical with agrahara Sabha land.
+Reason (R): Eripatti land revenue maintained the village tank.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -1592,9 +1595,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true, but (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** Taniyur is a very large village administered as one unit — not a Brahmana gift.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Taniyur is a very large village administered as one unit — not a Brahmana gift.
 
 </details>
 
@@ -1606,15 +1609,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Which of the statements given above is/are correct?
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. Only 1 and 2
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Do not merge Badami, Vengi, and Kalyani into one Chalukya seat.
 
@@ -1626,15 +1629,15 @@ D. 1, 2 and 3
 2. Hammir Raso is by Sharangadeva.
 3. Prithviraja Vijaya is by Jayanaka.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Do not confuse Rajasekhara (poet) with jurists Vijnaneshwara / Hemadri.
 
@@ -1659,20 +1662,23 @@ D. Anangpal Tomar — founded Manyakheta
 **Q24.** With reference to south Indian imperial rotation, which of the following statements is/are correct?
 
 1. Power rotated Pallava → Chalukya → Rashtrakuta → Chola.
-2. The Tripartite Struggle for Kannauj was fought by Pala, Pratihara, and Rashtrakuta.
-3. The Tripartite Struggle was fought by the Cholas against the Pandyas alone.
+2. The Tripartite Struggle was fought by the Cholas against the Pandyas alone.
+3. The Tripartite Struggle for Kannauj was fought by the Cholas against the Pandyas alone.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+
+B. 2 and 3
+
+C. Only 1
+
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** Only 1 is correct.
 
-**Logic:** Statement 3 invents a Chola–Pandya Kannauj contest; Kannauj contest is northern Tripartite.
+**Logic:** Stmt 3 false: Kannauj Tripartite = Pala, Pratihara, Rashtrakuta — not a Chola–Pandya contest. Stmt 2 remains false for the same invented Chola–Pandya Kannauj trap.
 
 </details>
 
@@ -1682,15 +1688,15 @@ D. 1, 2 and 3
 2. Solanki / Chaulukya capital was Anhilwada.
 3. Hemachandra advised Kumarapala in the Solanki circle.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Bhoja’s Bhojshala and Samarangana Sutradhara belong to the Paramara Dhara phase.
 
@@ -1718,21 +1724,24 @@ D. 3–2–1
 
 **Q27.** With reference to Chola iconography, which of the following statements is/are correct?
 
-1. Nataraja bronzes show dancing Shiva with four hands.
-2. Dakshinamurti is Shiva as teacher, facing south.
-3. Dakshinamurti is installed facing east as a rule.
+1. Dakshinamurti is installed facing east as a rule.
+2. Nataraja bronzes show dancing Shiva with two hands only and no drum.
+3. Dakshinamurti is Shiva as teacher, facing south.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+
+B. Only 3
+
+C. 2 and 3
+
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** Only 3 is correct.
 
-**Logic:** Statement 3 swaps south-facing Dakshinamurti with an east-facing rule.
+**Logic:** Stmt 2 false: classic Nataraja shows four hands (drum, fire, abhaya, pointing to dwarf). Stmt 1 remains false: Dakshinamurti faces south, not east.
 
 </details>
 
@@ -1762,15 +1771,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Chera capital memory is Vanchi / Karuvur.
 3. Pandya capital was Madurai.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Do not replace Pedavegi with later Rajahmundry as the Eastern Chalukya identity seat.
 
@@ -1782,17 +1791,15 @@ D. 1, 2 and 3
 2. Jimutavahana — Dayabhaga
 3. Rajasekhara — Krityakalpataru
 
-Which of the pairs given above is/are correctly matched?
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. All 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correctly matched.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** Krityakalpataru is by Lakshmidhara; Rajasekhara is the Pratihara court poet.
 

@@ -553,21 +553,21 @@ D. Ecological footprint in tCO₂e; carbon footprint in gha; NbS = sulphate aero
 
 **Q1.** With reference to carbon footprint, which of the following statements is/are correct?
 
-1. Totals GHGs in tCO₂e.
+1. Carbon footprint is measured only in global hectares (gha), never in tCO₂e.
 2. Scope 1 direct; Scope 2 purchased energy; Scope 3 value chain.
 3. Identical unit to ecological footprint (gha).
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2
+B. 1 and 3
+C. Only 1
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: A.** Only 2 is correct.
 
-**Logic:** tCO₂e ≠ gha.
+**Logic:** Statement 2 correctly states Scopes 1–3. Statement 1 is false — carbon footprint totals GHGs in tCO₂e. Statement 3 confuses carbon footprint with ecological footprint (gha).
 
 </details>
 
@@ -597,21 +597,21 @@ D. A-3, B-1, C-2
 
 **Q3.** Which of the following pairs is/are correctly matched?
 
-1. India per capita ~2 tCO₂e — low vs global/USA averages
+1. India’s per capita ~2 tCO₂e is higher than USA averages in standard teaching.
 2. Absolute emissions still high
 3. Net zero India — 2050 identical to EU only
 
-A. 1, 2 and 3
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1 and 2 only
+A. 1 and 3
+B. Only 2
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2.
+**Ans: B.** Only 2 is correct.
 
-**Logic:** India net zero year = 2070.
+**Logic:** Statement 2 is true (absolute emissions still high). Statement 1 is false — Indian per capita is low vs USA/global high emitters. Statement 3 is false — India net-zero teaching is 2070, not 2050 identical to EU.
 
 </details>
 

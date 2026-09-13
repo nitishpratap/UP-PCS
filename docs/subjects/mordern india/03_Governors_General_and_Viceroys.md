@@ -2795,27 +2795,24 @@ D. Abhinav Bharat Society
 
 **Q1.** With reference to the Regulating Act of 1773, which of the following statements is/are correct?
 
-1. It created the office of Governor-General of Bengal.
+1. It created the office of Governor-General of India (not Bengal).
 2. Warren Hastings was the first Governor-General of Bengal.
 3. It created the office of Viceroy of India.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
+B. Only 2
 
-A. 1 and 3 only
+C. 2 and 3
 
-B. 1 and 2 only
-
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: B.** Only 2 is correct.
 
-**Logic:** Viceroy begins with GOI Act 1858 under Canning — not 1773.
+**Logic:** Stmt 1 false: Regulating Act 1773 created GG of Bengal; GG of India comes with Charter 1833. Stmt 3 remains false: Viceroy begins with GOI Act 1858.
 
 </details>
 
@@ -2823,27 +2820,24 @@ D. 1, 2 and 3
 
 **Q2.** With reference to the Charter Acts, which of the following statements is/are correct?
 
-1. Charter Act 1813 ended the Company’s trade monopoly in India (kept tea/China) and set aside ₹1 lakh a year for education.
-2. Charter Act 1833 created the Governor-General of India and ended all Company trade.
-3. Charter Act 1833 was the Act that first created the Viceroy.
+1. Charter Act 1833 was the Act that first created the Viceroy.
+2. Charter Act 1813 created the Governor-General of India and ended all Company trade.
+3. Charter Act 1833 created the Governor-General of India and ended all Company trade.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
+B. 2 and 3
 
-A. 1 and 3 only
+C. Only 3
 
-B. 2 and 3 only
-
-C. 1, 2 and 3
-
-D. 1 and 2 only
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2.
+**Ans: C.** Only 3 is correct.
 
-**Logic:** 1833 = GG of India (Bentinck); Viceroy = 1858.
+**Logic:** Stmt 2 false: 1813 ended monopoly except tea/China and set aside ₹1 lakh for education; GG of India + end of all trade = 1833. Stmt 1 remains false: Viceroy = 1858.
 
 </details>
 
@@ -2959,27 +2953,24 @@ D. 3, 4, 1, 2
 
 **Q7.** With reference to Lytton and Ripon, which of the following statements is/are correct?
 
-1. Lytton passed the Vernacular Press Act, 1878.
+1. Ripon passed the Vernacular Press Act, 1878.
 2. Ripon repealed that Press Act and pushed local self-government (1882).
 3. Ripon also authored the Vernacular Press Act as a wartime measure.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
+B. 2 and 3
 
-A. 1 and 3 only
+C. 1 and 3
 
-B. 2 and 3 only
-
-C. 1, 2 and 3
-
-D. 1 and 2 only
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2.
+**Ans: D.** Only 2 is correct.
 
-**Logic:** Lytton gagged; Ripon repealed — standing twin.
+**Logic:** Stmt 1 false: Lytton passed the Vernacular Press Act 1878; Ripon repealed it. Stmt 3 remains false: Ripon did not author that Act.
 
 </details>
 
@@ -2987,27 +2978,24 @@ D. 1 and 2 only
 
 **Q8.** With reference to Curzon and Hardinge II, which of the following statements is/are correct?
 
-1. Curzon partitioned Bengal on 16 October 1905.
-2. Hardinge II moved the capital to Delhi in 1911 and annulled the Partition.
-3. Dufferin, not Curzon, partitioned Bengal.
+1. Dufferin, not Curzon, partitioned Bengal.
+2. Curzon partitioned Bengal on 16 October 1911.
+3. Hardinge II moved the capital to Delhi in 1911 and annulled the Partition.
 
-Select the correct answer from the code given below:
+A. Only 3
 
+B. 1 and 2
 
-A. 1 and 3 only
+C. 2 and 3
 
-B. 1 and 2 only
-
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: A.** Only 3 is correct.
 
-**Logic:** Dufferin = INC 1885 / “microscopic minority,” not Partition.
+**Logic:** Stmt 2 false: Partition was 16 October 1905; 1911 is annulment under Hardinge II. Stmt 1 remains false: Dufferin did not partition Bengal.
 
 </details>
 
@@ -3044,24 +3032,21 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q10.** With reference to the Government of India Acts of 1919 and 1935, which of the following statements is/are correct?
 
 1. The 1919 Act introduced provincial dyarchy.
-2. The 1935 Act gave provincial autonomy that actually worked.
-3. The 1935 federation and centre dyarchy fully came into force as planned.
+2. The 1935 federation and centre dyarchy fully came into force as planned.
+3. The 1935 Act gave provincial autonomy that actually worked.
 
-Select the correct answer from the code given below:
+A. Only 3
 
+B. 1 and 3
 
-A. 1 and 3 only
+C. Only 1
 
-B. 2 and 3 only
-
-C. 1, 2 and 3
-
-D. 1 and 2 only
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2.
+**Ans: B.** 1 and 3 only are correct.
 
 **Logic:** Federation / centre dyarchy stayed largely on paper.
 
@@ -3124,25 +3109,22 @@ D. Metcalfe — Liberator of the Press, 1835
 
 **Q13.** With reference to Macaulay and Wood, which of the following statements is/are correct?
 
-1. Macaulay’s Minute (1835) set English for higher education.
-2. Wood’s Despatch (1854) belongs to Dalhousie’s years.
-3. Wood’s Despatch is the same document as Macaulay’s Minute under another name.
+1. Wood’s Despatch is the same document as Macaulay’s Minute under another name.
+2. Macaulay’s Minute (1835) set English for higher education.
+3. Wood’s Despatch (1854) belongs to Dalhousie’s years.
 
-Select the correct answer from the code given below:
+A. Only 2
 
+B. Only 2 and 3
 
-A. 1 and 3 only
+C. Only 1
 
-B. 2 and 3 only
-
-C. 1, 2 and 3
-
-D. 1 and 2 only
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2.
+**Ans: B.** 2 and 3 only are correct.
 
 **Logic:** Minute = English policy; Wood = full education ladder — different decades.
 
@@ -3183,21 +3165,18 @@ D. 3, 4, 1, 2
 2. Wavell offered the Wavell Plan / Simla Conference (1945).
 3. Mountbatten announced the 3 June Plan (1947) and was the first Viceroy.
 
-Select the correct answer from the code given below:
+A. Only 1
 
+B. 1 and 2
 
-A. 1 and 3 only
+C. 1, 2 and 3
 
-B. 1 and 2 only
-
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Mountbatten is the last Viceroy; Canning is first.
 
@@ -3236,24 +3215,21 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q17.** With reference to Bentinck-era reforms, which of the following statements is/are correct?
 
 1. Bentinck abolished Sati in 1829.
-2. Metcalfe is remembered as Liberator of the Press (1835).
-3. Ellenborough abolished Sati by Act V, 1843.
+2. Ellenborough abolished Sati by Act V, 1843.
+3. Metcalfe is remembered as Liberator of the Press (1835).
 
-Select the correct answer from the code given below:
+A. Only 3
 
+B. Only 1 and 3
 
-A. 1 and 3 only
+C. Only 1
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: B.** 1 and 3 only are correct.
 
 **Logic:** Ellenborough’s Act V 1843 is slavery abolition, not Sati.
 
@@ -3264,24 +3240,21 @@ D. 1, 2 and 3
 **Q18.** With reference to Dufferin and Curzon, which of the following statements is/are correct?
 
 1. Dufferin saw the founding of the INC in 1885.
-2. Curzon passed the Ancient Monuments Act 1904 and centralised the ASI under John Marshall.
-3. Dufferin partitioned Bengal in 1905.
+2. Dufferin partitioned Bengal in 1905.
+3. Curzon passed the Ancient Monuments Act 1904 and centralised the ASI under John Marshall.
 
-Select the correct answer from the code given below:
+A. Only 1 and 2
 
+B. Only 3
 
-A. 1 and 3 only
+C. 1 and 3
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: C.** 1 and 3 only are correct.
 
 **Logic:** Partition = Curzon; Dufferin = microscopic minority tag.
 
@@ -3345,24 +3318,21 @@ D. Awadh annexation 1856 — Dalhousie misrule case
 **Q21.** With reference to Mayo and Northbrook, which of the following statements is/are correct?
 
 1. Mayo began financial decentralisation (1870) and was assassinated at the Andamans.
-2. Northbrook resigned over Afghan-policy disagreement.
-3. Mayo authored the Vernacular Press Act of 1878.
+2. Mayo authored the Vernacular Press Act of 1878.
+3. Northbrook resigned over Afghan-policy disagreement.
 
-Select the correct answer from the code given below:
+A. Only 2 and 3
 
+B. Only 1
 
-A. 1 and 3 only
+C. 1 and 3
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: C.** 1 and 3 only are correct.
 
 **Logic:** Vernacular Press Act = Lytton 1878.
 
@@ -3399,25 +3369,22 @@ D. 2, 1, 4, 3
 
 **Q23.** With reference to Irwin and Reading, which of the following statements is/are correct?
 
-1. Reading faced Chauri Chaura and the Swaraj Party years.
-2. Irwin is tagged to Dandi and the Gandhi–Irwin Pact (1931).
-3. Reading announced the 3 June Plan of 1947.
+1. Reading announced the 3 June Plan of 1947.
+2. Reading faced Chauri Chaura and the Swaraj Party years.
+3. Irwin is tagged to Dandi and the Gandhi–Irwin Pact (1931).
 
-Select the correct answer from the code given below:
+A. Only 3
 
+B. 2 and 3
 
-A. 1 and 3 only
+C. Only 1
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: B.** 2 and 3 only are correct.
 
 **Logic:** 3 June Plan = Mountbatten.
 
@@ -3459,21 +3426,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Linlithgow was the longest-serving Viceroy of the late phase and faced 1937 ministries.
 3. Willingdon issued the August Offer of 1940.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
+B. All 1, 2 and 3
 
-A. 1 and 3 only
+C. 2 and 3
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** August Offer = Linlithgow 1940.
 
@@ -3509,21 +3473,18 @@ D. First GG of India — Warren Hastings
 2. He is tagged to the Indian Councils Act, 1892.
 3. He repealed the Vernacular Press Act in 1882.
 
-Select the correct answer from the code given below:
+A. 2 and 3
 
+B. Only 1
 
-A. 1 and 3 only
+C. 1 and 2
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Press Act repeal = Ripon.
 
@@ -3568,21 +3529,18 @@ D. A-2, B-3, C-1, D-4
 2. S. P. Sinha entered the Viceroy’s Executive Council.
 3. It introduced provincial dyarchy.
 
-Select the correct answer from the code given below:
+A. Only 1
 
+B. 1 and 2
 
-A. 1 and 3 only
+C. Only 3
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Dyarchy waits for Montford 1919.
 

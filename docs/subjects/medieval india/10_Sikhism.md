@@ -804,20 +804,18 @@ D. Guru Nanak Dev
 **Q1.** With reference to Guru Nanak, which of the following statements is/are correct?
 
 1. He founded Sikhism on Ik Onkar, the householder path, langar, and sangat.
-2. The ethical triad is Naam Japna, Kirat Karni, and Vand Chakna.
-3. Mardana was the second Guru after Nanak.
+2. Mardana was the second Guru after Nanak.
+3. The ethical triad is Naam Japna, Kirat Karni, and Vand Chakna.
 
-Select the correct answer from the code given below:
-
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: A.** 1 and 3 only are correct.
 
 **Logic:** Mardana was Nanak’s Muslim rabab companion and disciple — not a Guru.
 
@@ -921,17 +919,15 @@ D. A-2, B-1, C-3, D-4
 2. Five Ks are Kesh, Kangha, Kara, Kachha, and Kirpan.
 3. Guru Hargobind created the Khalsa ritual in the early 17th century.
 
-Select the correct answer from the code given below:
-
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. Only 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** Hargobind started miri–piri/Akal Takht; Khalsa founding is Gobind Singh 1699.
 
@@ -945,15 +941,15 @@ D. 1, 2 and 3
 
 Which of the statements given above is/are correct?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. Only 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three statements are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Martyrdom pair drives militarisation teaching without inventing an 11th Guru.
 
@@ -1121,17 +1117,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Masand related to Arjan’s tenth collection.
 3. Manji and Masand are identical offices created by Nanak alone.
 
-Which of the statements given above is/are correct?
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. Only 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Confused pair: Manji ≠ Masand.
 
@@ -1145,15 +1139,15 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. All 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** UKPCS-leaning place tag: Hem Kund — still chapter-owned.
 
@@ -1192,15 +1186,15 @@ D. 2-4-3-1
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three pairs are correctly matched.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Sri Chand (Nanak’s son) was not the chosen Guru successor.
 
@@ -1298,17 +1292,15 @@ D. Neither 1 nor 2
 2. After 1708 the Granth is eternal.
 3. Sri Chand continued as the eleventh human Guru at Nanded.
 
-Which of the statements given above is/are correct?
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** No eleventh human Guru — Sri Chand was not chosen.
 
@@ -1338,10 +1330,10 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q25.** With reference to Bhangani (1688), which of the following statements is/are correct?
 
-1. Gobind Singh defeated Pahari hill rajas.
-2. The battle occurred after the Khalsa founding of 1699.
+1. The battle occurred after the Khalsa founding of 1699.
 
 Select the correct answer from the code given below:
+2. Gobind Singh defeated Pahari hill rajas.
 
 A. Only 1
 B. Only 2
@@ -1351,7 +1343,7 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only statement 1 is correct.
+**Ans: B.** Only 2 is correct.
 
 **Logic:** Bhangani precedes Khalsa — chronology trap.
 
@@ -1405,21 +1397,19 @@ D. Neither 1 nor 2
 
 **Q28.** Consider the following statements:
 
-1. Initiated Khalsa names are Singh and Kaur.
-2. Miri is the temporal sword and piri the spiritual sword in Hargobind’s teaching.
-3. Harmandir Sahib was built by Guru Gobind Singh in 1699 only.
+1. Harmandir Sahib was built by Guru Gobind Singh in 1699 only.
+2. Initiated Khalsa names are Singh and Kaur.
+3. Miri is the temporal sword and piri the spiritual sword in Hargobind’s teaching.
 
-Which of the statements given above is/are correct?
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. Only 2 and 3
+C. Only 1 and 3
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 2 and 3 only are correct.
 
 **Logic:** Harmandir is associated with Arjan’s period — not Khalsa founding year alone.
 
@@ -1443,11 +1433,11 @@ D. Dasam Granth replaced both after 1708
 
 **Q30.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): Guru Hargobind introduced miri–piri and built the Akal Takht.
-
-Reason (R): Therefore he also founded the Khalsa with the Panj Pyare in 1699.
+Assertion (A): Therefore he also founded the Khalsa with the Panj Pyare in 1699.
 
 Select the correct answer from the code given below:
+
+Reason (R): Guru Hargobind introduced miri–piri and built the Akal Takht.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -1457,9 +1447,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** A is true and R is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** Miri–piri ≠ Khalsa founding — Khalsa is Gobind Singh 1699.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Miri–piri ≠ Khalsa founding — Khalsa is Gobind Singh 1699.
 
 </details>
 

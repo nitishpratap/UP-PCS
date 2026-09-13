@@ -1925,18 +1925,18 @@ D. Kalsi
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 1, 2 and 3
 
-B. 2 and 3 only
+B. Only 2 and 3
 
-C. 1, 2 and 3
+C. Only 1
 
-D. 1 and 3 only
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three statements are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Accession ~272, coronation 268–232 for Ashoka in standard booklet dating.
 
@@ -2037,13 +2037,13 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 2 and 3
 
-B. 2 and 3 only
+B. Only 1
 
-C. 1 and 3 only
+C. 1 and 2
 
-D. 1, 2 and 3
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -2080,25 +2080,23 @@ D. Barabar — Ajanta-style Buddhist painted caves of Ashoka’s day
 **Q7.** Consider the following statements about Ashoka’s Dhamma:
 
 1. Dhamma is ethical state policy, not identical with the Buddhist religion he patronised.
-2. Dhamma-mahamatras were appointed in the 14th year (RE V).
-3. Bhabru’s listing of Laghulovada means Ashoka’s Dhamma is defined as Rahulovada.
+2. Bhabru’s listing of Laghulovada means Ashoka’s Dhamma is defined as Rahulovada.
+3. Dhamma-mahamatras were appointed in the 8th year immediately after Kalinga.
 
-Select the correct answer from the code given below:
+A. Only 1
 
-A. 1 and 3 only
+B. 1 and 2
 
-B. 2 and 3 only
+C. 2 and 3
 
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 2 are correct.
+**Ans: A.** Only 1 is correct.
 
-**Logic:** Stmt 3 false: Bhabru lists texts for monks; Dhamma ≠ Rahulovada definition.
+**Logic:** Stmt 3 false: Dhamma-mahamatras are appointed in the 14th year (RE V), not the 8th-year Kalinga moment. Stmt 2 remains false: Bhabru’s Laghulovada ≠ definition of Dhamma.
 
 </details>
 
@@ -2136,26 +2134,24 @@ D. 1-B, 2-D, 3-A, 4-C
 
 **Q9.** With reference to Mauryan empire extent, which of the following is/are correct?
 
-1. Extent ran from Kandahar to Bengal and Himalaya to Karnataka.
-2. Chola, Pandya, Satiyaputra and Keralaputra appear as neighbours, not provinces.
-3. Sri Lanka (Tamraparni) was a Mauryan province under a kumara.
+1. Sri Lanka (Tamraparni) was a Mauryan province under a kumara.
+2. Extent ran from Kandahar to Bengal and Himalaya to Karnataka.
+3. Chola, Pandya, Satiyaputra and Keralaputra appear as Mauryan provinces under kumaras.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 3 only
+B. 2 and 3
 
-B. 2 and 3 only
+C. Only 2
 
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 2 are correct.
+**Ans: C.** Only 2 is correct.
 
-**Logic:** Stmt 3 false: Tamraparni is neighbour / mission land, not a province.
+**Logic:** Stmt 3 false: Southern powers appear as neighbours, not provinces; Tamraparni is likewise neighbour/mission land. Stmt 1 remains false: Sri Lanka was not a kumara province.
 
 </details>
 
@@ -2190,26 +2186,24 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q11.** Which of the following official / Greek matches is/are correct?
 
-1. Greek Agronomai match rural revenue / land officers.
+1. Greek Agronomai match the weights official (Pautavadhyaksha).
 2. Pautavadhyaksha is the weights official.
 3. Agronomai and Pautavadhyaksha are the same post.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 2 and 3 only
+B. Only 2
 
-B. 1 and 2 only
+C. 2 and 3
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Ans: B.** Only 2 is correct.
 
-**Logic:** Stmt 3 false: Agronomai ≠ Pautavadhyaksha — common wrong option trap.
+**Logic:** Stmt 1 false: Agronomai match rural revenue/land officers; Pautavadhyaksha is weights. Stmt 3 remains false: they are not the same post.
 
 </details>
 
@@ -2217,26 +2211,24 @@ D. 1, 2 and 3
 
 **Q12.** With reference to Mauryan provincial administration, which of the following is/are correct?
 
-1. Classical kumara posts include Taxila, Ujjain, Suvarnagiri and Tosali.
+1. Classical kumara posts include Taxila, Ujjain, Suvarnagiri and Pataliputra only — never Tosali.
 2. Kashi–Kosala–Vatsa sat in the imperial core rather than as a separate kumara-province label set.
 3. Tosali was outside Ashokan geography and never a provincial centre.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 3 only
+B. 2 and 3
 
-B. 2 and 3 only
+C. 1 and 3
 
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 2 are correct.
+**Ans: D.** Only 2 is correct.
 
-**Logic:** Stmt 3 false: Tosali is a classical kumara post (Kalinga region).
+**Logic:** Stmt 1 false: Tosali is a classical kumara post (Kalinga region) alongside Taxila, Ujjain and Suvarnagiri. Stmt 3 remains false for the same Tosali denial trap.
 
 </details>
 
@@ -2265,24 +2257,22 @@ D. Agrammes
 
 **Q14.** With reference to Kautilya’s toolkit, which of the following is/are correct?
 
-1. Saptanga state limbs, four vidyas, four upayas, 18 tirthas and 15 adhikaranas are standard tags.
-2. Spies are sanstha (stationary) and sanchara (mobile).
-3. Dharmasthiya is criminal court while Kantakashodhana is civil court.
+1. Dharmasthiya is criminal court while Kantakashodhana is civil court.
+2. Saptanga state limbs, four vidyas, four upayas, 18 tirthas and 15 adhikaranas are standard tags.
+3. Spies are sanstha (stationary) and sanchara (mobile).
 
-Select the correct answer from the code given below:
+A. Only 1
 
-A. 1 and 3 only
+B. Only 1 and 2
 
-B. 2 and 3 only
+C. Only 3
 
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Statements 1 and 2 are correct.
+**Ans: D.** 2 and 3 only are correct.
 
 **Logic:** Stmt 3 reversed: Dharmasthiya = civil; Kantakashodhana = criminal.
 
@@ -2313,26 +2303,24 @@ D. RE XIII — samavaya religious concord
 
 **Q16.** Consider the following statements about Chandragupta and sources:
 
-1. Chanakya / Kautilya guided overthrow of Dhana Nanda.
-2. Megasthenes wrote Indica (known via Strabo and Arrian).
-3. Chandragupta Maurya is identical with Chandragupta II Vikramaditya.
+1. Chandragupta Maurya is identical with Chandragupta II Vikramaditya.
+2. Chanakya / Kautilya guided overthrow of Dhana Nanda.
+3. Megasthenes wrote Indica (known via Strabo and Arrian).
 
-Select the correct answer from the code given below:
+A. Only 1 and 3
 
-A. 2 and 3 only
+B. Only 2
 
-B. 1 and 2 only
+C. Only 2 and 3
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Statements 1 and 2 are correct.
+**Ans: C.** 2 and 3 only are correct.
 
-**Logic:** Stmt 3 false: Mauryan founder ≠ Gupta Vikramaditya.
+**Logic:** Stmt 1 false: Mauryan founder ≠ Gupta Vikramaditya.
 
 </details>
 
@@ -2373,18 +2361,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 1 and 2
 
-B. 2 and 3 only
+B. All 1, 2 and 3
 
-C. 1 and 3 only
+C. Only 2 and 3
 
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Mahasthan (Bangladesh) is the paired grain-store record.
 
@@ -2421,13 +2409,13 @@ D. Greek name for Megasthenes
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 2 and 3
 
-B. 2 and 3 only
+B. Only 1
 
-C. 1 and 3 only
+C. 1 and 2
 
-D. 1, 2 and 3
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -2443,25 +2431,23 @@ D. 1, 2 and 3
 **Q21.** With reference to city and army boards in Greek accounts, which of the following is/are correct?
 
 1. Six city boards and six army boards are parallel lists.
-2. City boards cover crafts, foreigners, census and related municipal work.
-3. One board simultaneously ran both the entire city and entire army administration as a single office.
+2. One board simultaneously ran both the entire city and entire army administration as a single office.
+3. City boards cover crafts, foreigners, census and related municipal work.
 
-Select the correct answer from the code given below:
+A. Only 2
 
-A. 1 and 2 only
+B. 2 and 3
 
-B. 2 and 3 only
+C. Only 1
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: D.** 1 and 3 only are correct.
 
-**Logic:** Stmt 3 false: parallel lists, not one board doing both jobs.
+**Logic:** Stmt 2 false: parallel lists, not one board doing both jobs.
 
 </details>
 
@@ -2496,11 +2482,11 @@ D. Sarthavaha — Greek name for Agronomai land officers
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 1 and 2
 
-B. 2 and 3 only
+B. 2 and 3
 
-C. 1 and 3 only
+C. 1 and 3
 
 D. 1, 2 and 3
 
@@ -2569,20 +2555,18 @@ D. Bindusara only
 2. They soften the tone with ‘all men are my children’.
 3. They replace RE XII as the samavaya edicts.
 
-Select the correct answer from the code given below:
+A. Only 1, 2 and 3
 
-A. 1 and 2 only
+B. Only 2 and 3
 
-B. 2 and 3 only
+C. Only 1
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** Stmt 3 false: samavaya remains RE XII; separate Kalinga edicts soften XIII’s theme locally.
 
@@ -2593,25 +2577,23 @@ D. 1, 2 and 3
 **Q27.** Which of the following statements about money and material culture is/are correct?
 
 1. Money used punch-marked pana.
-2. Material culture shows NBPW and ring-wells.
-3. Pliny’s army figures for Chandragupta are modest and under 10,000 troops total.
+2. Pliny’s army figures for Chandragupta are modest and under 10,000 troops total.
+3. Material culture shows NBPW and ring-wells.
 
-Select the correct answer from the code given below:
+A. Only 3
 
-A. 1 and 2 only
+B. 1 and 3
 
-B. 2 and 3 only
+C. Only 1
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: B.** 1 and 3 only are correct.
 
-**Logic:** Stmt 3 false: Pliny’s figures are huge (about 6 lakh foot, etc.).
+**Logic:** Stmt 2 false: Pliny’s figures are huge (about 6 lakh foot, etc.).
 
 </details>
 
@@ -2623,20 +2605,18 @@ D. 1, 2 and 3
 2. Tivala appears in the Queen’s edict as son of Karuvaki.
 3. Both names refer to the same son in every edict.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 2 only
+B. Only 3
 
-B. 2 and 3 only
+C. 1 and 3
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Statements 1 and 2 are correct.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** Stmt 3 false: keep Kunala legend distinct from Tivala of Karuvaki’s edict.
 
@@ -2673,18 +2653,18 @@ D. Milinda
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 1 and 2
 
-B. 2 and 3 only
+B. All 1, 2 and 3
 
-C. 1 and 3 only
+C. Only 2 and 3
 
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Major vs Minor RE is a core edict classification.
 

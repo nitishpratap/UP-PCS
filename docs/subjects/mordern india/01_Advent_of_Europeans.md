@@ -1395,25 +1395,23 @@ D. Neither 1 nor 2
 **Q1.** With reference to the arrival of Europeans in India, which of the following statements is/are correct?
 
 1. Vasco da Gama reached Calicut in 1498 and did not capture Goa.
-2. The Dutch VOC was founded before the English East India Company was chartered.
-3. Arrival order in India was Portuguese → Dutch → English → Danes → French.
+2. Arrival order in India was Portuguese → English → Dutch → French → Danes.
+3. The Dutch VOC was founded before the English East India Company was chartered.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 2 only
+B. Only 1
 
-B. 1 and 3 only
+C. 2 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** 1 and 3 only.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Stmt 2 swaps years: EIC 1600, VOC 1602.
+**Logic:** Stmt 2 false: correct arrival order is Portuguese → Dutch → English → Danes → French (English before Dutch is the classic swap). Stmt 3 remains false: EIC 1600 precedes VOC 1602.
 
 </details>
 
@@ -1421,26 +1419,24 @@ D. 1, 2 and 3
 
 **Q2.** With reference to Portuguese power in India, which of the following statements is/are correct?
 
-1. Francisco de Almeida was the first Portuguese Viceroy and followed the Blue Water Policy.
-2. Afonso de Albuquerque captured Goa in 1510 from Yusuf Adil Shah.
-3. The first European fort in India was built at Goa in 1510.
+1. The first European fort in India was built at Goa in 1510.
+2. Francisco de Almeida was the first Portuguese Viceroy and followed the Blue Water Policy.
+3. Afonso de Albuquerque captured Goa in 1510 from Yusuf Adil Shah.
 
-Select the correct answer from the code given below:
+A. All 1, 2 and 3
 
-A. 1 and 3 only
+B. Only 1 and 2
 
-B. 2 and 3 only
+C. 2 and 3
 
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** 1 and 2 only.
+**Ans: C.** 2 and 3 only are correct.
 
-**Logic:** Stmt 3 false: first European fort was Cochin 1503 (Albuquerque, before he became Governor).
+**Logic:** Stmt 1 false: first European fort was Cochin 1503 (Albuquerque, before he became Governor), not Goa 1510.
 
 </details>
 
@@ -1484,18 +1480,18 @@ D. 1-D, 2-A, 3-C, 4-B
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 1
 
-B. 2 and 3 only
+B. Only 1 and 2
 
-C. 1 and 3 only
+C. 1, 2 and 3
 
-D. 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** 1, 2 and 3.
+**Ans: C.** All three statements are correct.
 
 **Logic:** All three are standard confused-pair facts; cartaze ≠ farman and cartaze ≠ capitanias.
 
@@ -1560,26 +1556,24 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q7.** With reference to the Carnatic Wars, which of the following statements is/are correct?
 
-1. The First Carnatic War ended with the Treaty of Aix-la-Chapelle (1748), returning Madras.
+1. The First Carnatic War ended with the Treaty of Paris (1763), returning Madras.
 2. The Second Carnatic War ended with the Treaty of Paris (1763).
 3. Clive’s defence of Arcot belongs to the Second Carnatic War.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 2 only
+B. 2 and 3
 
-B. 1 and 3 only
+C. Only 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** 1 and 3 only.
+**Ans: C.** Only 3 is correct.
 
-**Logic:** Stmt 2 false: Second War ends with Treaty of Pondicherry 1754; Paris 1763 ends the Third.
+**Logic:** Stmt 1 false: First War ends with Aix-la-Chapelle (1748), not Paris 1763. Stmt 2 remains false: Second War ends with Pondicherry 1754; Paris ends the Third.
 
 </details>
 
@@ -1616,18 +1610,18 @@ D. Goa 1510 — Albuquerque from Yusuf Adil Shah
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 1
 
-B. 2 and 3 only
+B. Only 1 and 2
 
-C. 1 and 3 only
+C. All 1, 2 and 3
 
-D. 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** 1, 2 and 3.
+**Ans: C.** All three statements are correct.
 
 **Logic:** All three are Must-Score English settlement facts.
 
@@ -1643,18 +1637,18 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. 2 and 3
 
-B. 2 and 3 only
+B. Only 1
 
-C. 1 and 3 only
+C. 1 and 2
 
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** 1, 2 and 3.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Goa ≠ Pondicherry is the settlement trap; years are standard.
 
@@ -1718,26 +1712,24 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q13.** With reference to Dutch presence in India, which of the following statements is/are correct?
 
-1. Pulicat (Fort Geldria) was a major Coromandel headquarters of the Dutch.
-2. Fort Gustavus at Chinsurah was a Dutch Bengal fort.
-3. At Colachel (1741) the English under Francis Forde defeated the Dutch.
+1. At Colachel (1741) the English under Francis Forde defeated the Dutch.
+2. Pulicat (Fort Geldria) was the chief Bengal headquarters of the Dutch.
+3. Fort Gustavus at Chinsurah was a Dutch Bengal fort.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 2 only
+B. 2 and 3
 
-B. 2 and 3 only
+C. 1 and 3
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** 1 and 2 only.
+**Ans: D.** Only 3 is correct.
 
-**Logic:** Stmt 3 swaps Colachel (Travancore vs Dutch) with Bedara 1759 (Forde).
+**Logic:** Stmt 2 false: Pulicat/Fort Geldria is Coromandel HQ; Bengal Dutch fort is Fort Gustavus (Chinsurah). Stmt 1 remains false: Colachel 1741 is Travancore vs Dutch, not Forde/English.
 
 </details>
 
@@ -1775,26 +1767,24 @@ D. 1-D, 2-A, 3-C, 4-B
 
 **Q15.** Which of the following statements about Farrukhsiyar’s farman (1717) is/are correct?
 
-1. It gave the English Company major duty-free trade privileges in Bengal.
-2. It is the same grant as the Diwani of Bengal, Bihar and Orissa (1765).
-3. Early Company trade at ports such as Surat often rested on a Mughal farman, not conquest.
+1. It gave the English Company the Diwani of Bengal, Bihar and Orissa in 1717.
+2. Early Company trade at ports such as Surat often rested on a Mughal farman, not conquest.
+3. It is the same grant as the Diwani of Bengal, Bihar and Orissa (1765).
 
-Select the correct answer from the code given below:
+A. Only 2
 
-A. 1 and 2 only
+B. 1 and 2
 
-B. 1 and 3 only
+C. 2 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** 1 and 3 only.
+**Ans: A.** Only 2 is correct.
 
-**Logic:** Farman 1717 ≠ Diwani 1765 — classic confused pair.
+**Logic:** Stmt 1 false: Farman 1717 gave duty-free trade privileges, not Diwani. Stmt 3 remains false: Diwani is Allahabad 1765 — classic farman ≠ Diwani trap.
 
 </details>
 
@@ -1824,25 +1814,23 @@ D. Pulicat — Dutch (Fort Geldria)
 **Q17.** With reference to why the English beat the French in India, which of the following statements is/are correct?
 
 1. A stronger navy and steadier home support helped the English.
-2. After the Treaty of Paris (1763) France kept an inland empire in the Carnatic.
-3. Recall of Dupleix broke French continuity in the Carnatic.
+2. Recall of Dupleix broke French continuity in the Carnatic.
+3. After the Treaty of Paris (1763) France kept an inland empire in the Carnatic.
 
-Select the correct answer from the code given below:
+A. Only 1 and 2
 
-A. 1 and 2 only
+B. Only 1, 2 and 3
 
-B. 1 and 3 only
+C. 2 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** 1 and 3 only.
+**Ans: A.** 1 and 2 only are correct.
 
-**Logic:** Stmt 2 false: Paris 1763 left French with factories/enclaves only.
+**Logic:** Stmt 3 false: Paris 1763 left French with factories/enclaves only, not an inland Carnatic empire.
 
 </details>
 
@@ -1905,26 +1893,24 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q20.** With reference to Bombay and Madras, which of the following statements is/are correct?
 
-1. Bombay came as Portuguese dowry in 1661–62 and was leased to the EIC in 1668 for £10 a year.
-2. The first Municipal Corporation in India was at Bombay in 1687–88.
+1. The first Municipal Corporation in India was at Bombay in 1687–88.
+2. Bombay came as Portuguese dowry in 1661–62 and was leased to the EIC in 1668 for £10 a year.
 3. The three classic presidencies were Madras, Bombay and Bengal.
 
-Select the correct answer from the code given below:
+A. Only 1 and 2
 
-A. 1 and 2 only
+B. All 1, 2 and 3
 
-B. 1 and 3 only
+C. 2 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** 1 and 3 only.
+**Ans: C.** 2 and 3 only are correct.
 
-**Logic:** Stmt 2 false: first Municipal Corporation was Madras 1687–88.
+**Logic:** Stmt 1 false: first Municipal Corporation was Madras 1687–88, not Bombay.
 
 </details>
 
@@ -1933,25 +1919,23 @@ D. 1, 2 and 3
 **Q21.** Consider the following statements:
 
 1. Portuguese India was a crown empire (Estado da Índia).
-2. Dutch, English, French and Danish presence was mainly company-led under royal charters.
-3. Advent of Europeans is identical with the start of the British Raj.
+2. Advent of Europeans is identical with the start of the British Raj.
+3. Dutch, English, French and Danish presence was mainly company-led under royal charters.
 
-Select the correct answer from the code given below:
+A. Only 1 and 3
 
-A. 1 and 2 only
+B. Only 2
 
-B. 2 and 3 only
+C. 2 and 3
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** 1 and 2 only.
+**Ans: A.** 1 and 3 only are correct.
 
-**Logic:** Stmt 3 false: factories/trade precede territorial Raj.
+**Logic:** Stmt 2 false: factories/trade precede territorial Raj — Advent of Europeans is not identical with the start of the British Raj.
 
 </details>
 
@@ -1994,18 +1978,18 @@ D. 1-A, 2-C, 3-B
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. 1, 2 and 3
 
-B. 2 and 3 only
+B. Only 2 and 3
 
-C. 1 and 3 only
+C. Only 1
 
-D. 1, 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** 1, 2 and 3.
+**Ans: A.** All three statements are correct.
 
 **Logic:** All three are Must-Score Portuguese facts.
 
@@ -2067,20 +2051,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Hawkins (1608) precedes Roe (1615–19).
 3. Peter Mundy was a Portuguese chronicler under Albuquerque.
 
-Select the correct answer from the code given below:
+A. 1 and 3
 
-A. 1 and 2 only
+B. Only 1
 
-B. 2 and 3 only
+C. 1 and 2
 
-C. 1 and 3 only
-
-D. 1, 2 and 3
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** 1 and 2 only.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Stmt 3 false: Peter Mundy was English under Shah Jahan.
 
@@ -2094,20 +2076,18 @@ D. 1, 2 and 3
 2. A presidency was only another name for a single factory.
 3. Madras, Bombay and Bengal were the three classic presidencies.
 
-Select the correct answer from the code given below:
+A. 1 and 3
 
-A. 1 and 2 only
+B. Only 1
 
-B. 1 and 3 only
+C. 1 and 2
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** 1 and 3 only.
+**Ans: A.** 1 and 3 only are correct.
 
 **Logic:** Presidency ≠ factory — administrative unit vs local trading station.
 
@@ -2151,18 +2131,18 @@ D. 2, 4, 1, 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 1, 2 and 3
 
-B. 2 and 3 only
+B. Only 2 and 3
 
-C. 1 and 3 only
+C. Only 1
 
-D. 1, 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** 1, 2 and 3.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Stmt 3 is First War spark but still a correct statement in the set; all three hold.
 

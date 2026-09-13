@@ -608,24 +608,23 @@ D. Both
 **Q1.** With reference to ministries and forces, which of the following statements is/are correct?
 
 1. CAPFs sit under the Ministry of Home Affairs.
-2. The Indian Coast Guard sits under the Ministry of Defence.
-3. Police and public order are Union List subjects.
+2. The Indian Coast Guard sits under the Ministry of Home Affairs as a CAPF.
+3. NIA investigates only State List offences and never scheduled offences under Union law.
 
-Select the correct answer from the code given below:
-
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. All 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** Police and public order are State List; Coast Guard is MoD, not a CAPF.
+**Logic:** CAPFs sit under the Ministry of Home Affairs. The Indian Coast Guard sits under the Ministry of Defence. Police and public order are State List subjects.
 
 </details>
+
 **Q2.** Which one of the following pairs is **NOT** correctly matched?
 
 A. IB — internal intelligence; MHA; 1887
@@ -714,54 +713,50 @@ D. 1–2–4–3
 </details>
 **Q6.** With reference to the National Security Council, which of the following is/are correct?
 
-1. The NSC (1998) is chaired by the Prime Minister.
+1. NSC (1998) is chaired by the Prime Minister.
 2. The Strategic Policy Group of the NSC is the same body as the Special Protection Group under the 1988 Act.
-3. The first NSA was Brajesh Mishra.
+3. The first NSA was A.B. Vajpayee himself, not Brajesh Mishra.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 1
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 3 are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** SPG (NSC Strategic Policy Group) ≠ SPG (Special Protection Group 1988).
+**Logic:** NSC (1998) is chaired by the Prime Minister. The Strategic Policy Group is not the Special Protection Group under the 1988 Act. The first NSA was Brajesh Mishra. Left-wing extremism is not confined to the National Capital Region.
 
 </details>
 
 **Q7.** With reference to cyber institutions, which of the following statements is/are correct?
 
-1. CERT-In is under MeitY and draws power from IT Act section 70B.
-2. I4C is an MHA cybercrime coordination ecosystem.
-3. NCIIPC (section 70A) protects Critical Information Infrastructure and is identical to CERT-In.
+1. NCIIPC (section 70A) protects Critical Information Infrastructure and is identical to CERT-In.
+2. CERT-In is under MeitY and draws power from IT Act section 70B.
+3. I4C is an MHA cybercrime coordination ecosystem.
 
-Select the correct answer from the code given below:
-
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. 1 and 2
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: A.** 2 and 3 only are correct.
 
 **Logic:** NCIIPC ≠ CERT-In; NCIIPC sits on the NTRO/CII line.
 
 </details>
 **Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): After the 2019 amendment, UAPA allows the Centre to designate individuals as terrorists.
-
-Reason (R): UAPA is a preventive detention law under the Article 22 track, identical to NSA 1980.
+Assertion (A): UAPA is a preventive detention law under the Article 22 track, identical to NSA 1980.
 
 Select the correct answer from the code given below:
+
+Reason (R): After the 2019 amendment, UAPA allows the Centre to designate individuals as terrorists.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -771,9 +766,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true; (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** 2019 Fourth Schedule individual designation is correct; UAPA is a criminal-trial statute, NSA is preventive detention.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. 2019 Fourth Schedule individual designation is correct; UAPA is a criminal-trial statute, NSA is preventive detention.
 
 </details>
 
@@ -885,21 +880,19 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q14.** With reference to AFSPA, which of the following statements is/are correct?
 
-1. Section 3 notifies a disturbed area; section 6 needs Central sanction for prosecution.
-2. AFSPA was lifted from Tripura in 2015 and from large parts of Assam in 2022.
-3. The Jeevan Reddy Committee recommendation to repeal AFSPA was enacted in full in 2005.
+1. The Jeevan Reddy Committee recommendation to repeal AFSPA was enacted in full in 2005.
+2. Section 3 notifies a disturbed area; section 6 needs Central sanction for prosecution.
+3. AFSPA was lifted from Tripura in 2015 and from large parts of Assam in 2022.
 
-Select the correct answer from the code given below:
-
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. Only 1 and 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: A.** 2 and 3 only are correct.
 
 **Logic:** Jeevan Reddy repeal recommendation was not enacted.
 
@@ -1007,10 +1000,10 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q20.** With reference to Article 355 and internal security, which of the following is/are correct?
 
-1. Article 355 obliges the Union to protect States against external aggression and internal disturbance.
-2. Day-to-day internal security work runs only through Emergency proclamations under Articles 352/356/360.
+1. Day-to-day internal security work runs only through Emergency proclamations under Articles 352/356/360.
 
 Select the correct answer from the code given below:
+2. Article 355 obliges the Union to protect States against external aggression and internal disturbance.
 
 A. Neither 1 nor 2
 B. Only 2
@@ -1020,7 +1013,7 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 is correct.
+**Ans: B.** Only 2 is correct.
 
 **Logic:** Internal security day-to-day work runs through police, CAPFs, intelligence and special statutes — not only Emergency proclamations.
 
@@ -1031,17 +1024,15 @@ D. Only 1
 2. NSG trains at Manesar and works under MHA.
 3. CoBRA is an NSG LWE battalion under MoD.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** CoBRA is CRPF LWE, not NSG/MoD.
 
@@ -1076,10 +1067,10 @@ D. A-1, B-2, C-4, D-3
 
 **Q23.** With reference to India’s National Cyber Security Policy and treaties, which of the following is/are correct?
 
-1. National Cyber Security Policy is 2013 (MeitY).
-2. India is a party to the Budapest Convention on cybercrime.
+1. India is a party to the Budapest Convention on cybercrime.
 
 Select the correct answer from the code given below:
+2. National Cyber Security Policy is 2013 (MeitY).
 
 A. Only 1
 B. Only 2
@@ -1089,7 +1080,7 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 is correct.
+**Ans: B.** Only 2 is correct.
 
 **Logic:** India is not a party to the Budapest Convention.
 
@@ -1120,20 +1111,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q25.** Which of the following statements about CAPF roles is/are correct?
 
 1. BSF holds western and eastern international land borders.
-2. CISF holds static industry and airport security.
-3. ITBP’s primary international land-border beat is Pakistan and Bangladesh.
+2. ITBP’s primary international land-border beat is Pakistan and Bangladesh.
+3. CISF holds static industry and airport security.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. Only 1 and 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 3 only are correct.
 
 **Logic:** ITBP is China/LAC; BSF is Pak+Bangladesh.
 
@@ -1184,15 +1173,15 @@ D. Founded 1998 as a Cabinet committee identical to CCS
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1, 2 and 3
+B. 1 and 2
+C. 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** 66A void; 69A blocking upheld; 66F cyber-terrorism.
 
@@ -1221,10 +1210,10 @@ D. Neither 1 nor 2
 
 **Q30.** Which of the following statements is/are correct?
 
-1. NSC’s Strategic Policy Group is chaired by the NSA (after the 2018 recast teaching fact).
-2. Special Protection Group (1988) is chaired by the Cabinet Secretary as a constitutional body.
+1. Special Protection Group (1988) is chaired by the Cabinet Secretary as a constitutional body.
 
 Select the correct answer from the code given below:
+2. NSC’s Strategic Policy Group is chaired by the NSA (after the 2018 recast teaching fact).
 
 A. Only 1
 B. Only 2
@@ -1234,7 +1223,7 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 is correct.
+**Ans: B.** Only 2 is correct.
 
 **Logic:** Do not confuse Strategic Policy Group with Special Protection Group.
 

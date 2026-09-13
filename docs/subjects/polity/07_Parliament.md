@@ -9004,19 +9004,19 @@ D. 2 and 5
 **Q1.** With reference to Article 79, consider the following statements:
 1. Parliament consists of the President and the two Houses.
 2. The President is a member of the Lok Sabha.
-3. The President is an integral part of Parliament.
+3. The President is not an integral part of Parliament and stands wholly outside it.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 3
+B. Only 2
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 3 are correct.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** President is part of Parliament but not a member of either House.
+**Logic:** Parliament consists of the President and the two Houses. The President is an integral part of Parliament but not a member of either House.
 
 </details>
 
@@ -9111,7 +9111,7 @@ D. Zero Hour replaces Question Hour on Wednesdays only
 
 **Q6.** With reference to Public Accounts Committee, which of the following is/are correct?
 1. It has 22 members — 15 Lok Sabha and 7 Rajya Sabha.
-2. It is conventionally chaired by an opposition member.
+2. It is conventionally chaired by the Leader of the House from the ruling party only.
 3. It has 30 members, all from the Lok Sabha.
 
 A. 2 and 3 only
@@ -9122,15 +9122,15 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: C.** Only 1 is correct.
 
-**Logic:** 30 all-LS is Estimates Committee, not PAC.
+**Logic:** PAC has 22 members (15 LS + 7 RS) and is conventionally chaired by an opposition member. Estimates Committee is 30 all-LS.
 
 </details>
 
 **Q7.** Consider the following statements about Estimates Committee:
 1. It has 30 members.
-2. All members are from the Lok Sabha.
+2. All members of the Estimates Committee are from the Rajya Sabha.
 3. It includes Rajya Sabha members like PAC.
 
 A. 2 and 3 only
@@ -9141,9 +9141,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Estimates = largest classic financial committee; no RS members.
+**Logic:** Estimates Committee has 30 members, all from the Lok Sabha. It does not include Rajya Sabha members like PAC.
 
 </details>
 
@@ -9284,15 +9284,15 @@ D. 2 – 1 – 3 by constitutional maxima then present strength
 2. SC/ST reservation continues till 25 January 2030 in the usual teaching.
 3. Seat freeze uses the 1971 census until the first census after 2026.
 
-A. 1, 2 and 3
-B. 1 and 2 only
-C. 2 and 3 only
-D. 1 and 3 only
+A. 1 and 2
+B. 2 and 3
+C. Only 1 and 3
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** All three statements are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** 104th / reservation sunset / 84th freeze are linked LS facts.
 
@@ -9334,9 +9334,9 @@ D. 1, 2 and 3
 
 **Q17.** Consider the following Assertion and Reason:
 
-Assertion (A): Charged expenditure is discussed in Parliament but not put to vote.
+Assertion (A): Charged expenditure is never mentioned in the House at all.
 
-Reason (R): Charged expenditure is never mentioned in the House at all.
+Reason (R): Charged expenditure is discussed in Parliament but not put to vote.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -9346,9 +9346,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true, but (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** Discussed but not voted is the rule; ‘never mentioned’ is the trap.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Discussed but not voted is the rule; ‘never mentioned’ is the trap.
 
 </details>
 
@@ -9412,15 +9412,15 @@ D. A-2, B-1, C-4, D-3
 2. Parliament and a State legislature — Parliament seat goes after 14 days.
 3. Lily Thomas: conviction of two years or more brings instant disqualification.
 
-A. 1 and 2 only
-B. 1, 2 and 3
-C. 2 and 3 only
-D. 1 and 3 only
+A. Only 2 and 3
+B. Only 1
+C. Only 1 and 2
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** All three statements are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** 10-day / 14-day / Lily Thomas trio.
 
@@ -9503,15 +9503,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Appropriation Bill is under Article 114 and is a Money Bill.
 3. Guillotine closes undiscussed demands at the time limit.
 
-A. 1 and 2 only
-B. 1, 2 and 3
-C. 2 and 3 only
-D. 1 and 3 only
+A. 2 and 3
+B. Only 1
+C. Only 1 and 2
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** All three statements are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** 112 / 114 / guillotine are Budget spine facts.
 

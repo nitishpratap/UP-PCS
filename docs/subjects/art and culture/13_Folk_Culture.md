@@ -534,20 +534,20 @@ D. WTO
 **Q1.** With reference to folk art, which of the following statements is/are correct?
 
 1. Folk art is community, oral and ritual.
-2. It is identical to a Natyashastra classical school such as Bharatanatyam.
-3. It is not a court Mughal miniature atelier.
+2. It is identical with a court Mughal miniature atelier.
+3. It is identical to a Natyashastra classical school such as Bharatanatyam.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. Only 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 3 are correct.
+**Ans: A.** Only 1 is correct.
 
-**Logic:** Folk art is not a classical Natyashastra school.
+**Logic:** Folk art is not a court Mughal miniature atelier and not a classical Natyashastra school.
 
 </details>
 
@@ -561,15 +561,15 @@ D. 1, 2 and 3
 
 Which of the pairs given above is/are correctly matched?
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. 1 and 2
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only pairs 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Sanjhi is Braj / Mathura–Vrindavan paper-cutting of UP.
 
@@ -634,30 +634,30 @@ D. 2-1-4-3
 **Q6.** With reference to GI governance, which of the following statements is/are correct?
 
 1. GI is governed by the 1999 Act.
-2. The Registry is at Chennai under DPIIT / Commerce.
-3. The GI Registry is administered by the Ministry of Culture.
+2. The GI Registry is administered by the Ministry of Culture.
+3. The Registry is at Kolkata under the Ministry of Culture alone.
 
-A. 2 and 3 only
-B. 1 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. Only 3
+B. 1 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: C.** Only 1 is correct.
 
-**Logic:** GI is Commerce / DPIIT, not Culture.
+**Logic:** The Registry is at Chennai under DPIIT / Commerce, not Culture.
 
 </details>
 
 **Q7.** Match List-I with List-II and select the correct answer using the code given below the Lists.
 
 **List-I (UP craft)**
-A. 2 1 3 4
-B. 2 1 4 3
-C. 1 2 4 3
-D. 2 4 1 3
+A. Banarasi silk
+B. Chikankari
+C. Brassware
+D. Pottery
 
 **List-II (City)**
 1. Lucknow
@@ -683,21 +683,21 @@ D. 2 4 1 3
 
 **Q8.** With reference to awards for weavers and artisans, which of the following statements is/are correct?
 
-1. Sant Kabir Award is the highest handloom weaver honour.
-2. Shilp Guru is the highest handicraft artisan honour.
-3. Shilp Guru is the highest handloom weaver honour.
+1. Shilp Guru is the highest handloom weaver honour.
+2. Sant Kabir Award is the highest handloom weaver honour.
+3. Shilp Guru is the highest classical music honour of SNA.
 
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. Only 2
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: B.** Only 2 is correct.
 
-**Logic:** Do not swap Sant Kabir (handloom) and Shilp Guru (handicraft).
+**Logic:** Shilp Guru is the highest handicraft artisan honour, not the handloom weaver honour and not an SNA music award.
 
 </details>
 
@@ -741,18 +741,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q11.** With reference to handloom versus powerloom, which of the following statements is/are correct?
 
 1. Handloom is manual loom weave.
-2. Powerloom is machine mass weave.
-3. Powerloom cloth is always legally labelled as handloom.
+2. Powerloom cloth is always legally labelled as handloom.
+3. Powerloom is machine mass weave.
 
-A. 1 and 3 only
-B. 1 and 2 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 2
+B. 2 and 3
+C. Only 1
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 3 only are correct.
 
 **Logic:** Papers often hide powerloom cloth behind a handloom option.
 
@@ -862,15 +862,15 @@ D. 3-2-1
 2. e-Pehchan is the handloom digital ID from 2025.
 3. Both names refer to the same 2016 handicraft card only.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. Only 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** PEHCHAN (2016 handicraft) and e-Pehchan (2025 handloom) differ.
 
@@ -915,15 +915,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Raslila is Braj folk play.
 3. Raslila is Manipuri classical dance under SNA.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. 1 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** Raslila is Braj folk play, not Manipuri classical.
 
@@ -939,15 +939,15 @@ D. 1, 2 and 3
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1, 2 and 3
+B. Only 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three pairs are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** GI Act 1999 and Handloom Day 7 August are must-score.
 
@@ -985,19 +985,19 @@ D. 2 4 1 3
 
 **Q22.** With reference to folk tradition and folk belief, which of the following statements is/are correct?
 
-1. Folk tradition is a custom passed socially.
-2. Folk belief is the village supernatural worldview.
-3. Both answer identical stems and need no distinction.
+1. Both answer identical stems and need no distinction.
+2. Folk tradition is a custom passed socially.
+3. Folk belief is the village supernatural worldview.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. All 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 2 and 3 only are correct.
 
 **Logic:** Tradition and belief sit under folk culture but answer different stems.
 
@@ -1025,15 +1025,15 @@ D. Sanjhi — Maharashtra Warli hamlet
 2. KVIC sits under MSME for khadi.
 3. DC Handicrafts is the GI Registry authority at Chennai.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. 1 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** GI Registry is DPIIT / Commerce at Chennai.
 
@@ -1062,10 +1062,10 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Chikankari is a Lucknow embroidery GI.
 3. Uttar Pradesh has been among India’s top GI-count states in recent tallies.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. Only 1 and 2
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -1082,10 +1082,10 @@ D. 1, 2 and 3
 2. Chhath sun worship is strong in eastern UP–Bihar.
 3. Sarna, Donyi-Polo and Sanamahi are tribal faith tags.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. 1 and 2
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -1102,15 +1102,15 @@ D. 1, 2 and 3
 2. Handloom — cloth woven on a loom
 3. Khadi — hand-spun and hand-woven under KVIC
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. Only 1 and 2
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Handicraft ≠ handloom ≠ khadi.
 

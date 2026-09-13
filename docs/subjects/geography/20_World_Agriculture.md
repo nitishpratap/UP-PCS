@@ -2139,44 +2139,40 @@ D. 2 4 1 3
 **Q1.** With reference to plantation agriculture, which of the following statements is/are correct?
 
 1. In classic MCQs the plantation crop example is tea, not wheat/rice/maize.
-2. Plantation implies estate, capital, monoculture, hired labour and export orientation.
+2. Plantation implies only subsistence millets with no hired labour or export orientation.
 3. Jhum is a plantation estate system of north-east India.
 
-Select the correct answer from the code given below:
-
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. Only 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: A.** Only 1 is correct.
 
-**Logic:** Jhum is shifting cultivation, not a tea-estate plantation.
+**Logic:** In classic MCQs the plantation crop example is tea. Plantation implies estate, capital, monoculture, hired labour and export orientation. Jhum is shifting cultivation, not plantation.
 
 </details>
 
 **Q2.** Consider the following statements about coffee:
 
-1. A commonly taught 2016 order is Brazil > Vietnam > Colombia > Indonesia.
-2. Brazil is mainly arabica on Terra Roxa; Vietnam supplies bulk robusta.
-3. Vietnam is always placed first in that year-frozen teaching order.
+1. A commonly taught 2016 coffee order places Vietnam first ahead of Brazil.
+2. Vietnam is always placed first in that year-frozen teaching order.
+3. Brazil is mainly arabica on Terra Roxa; Vietnam supplies bulk robusta.
 
-Which of the statements given above is/are correct?
-
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. Only 1 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: A.** Only 3 is correct.
 
-**Logic:** Brazil leads the 2016 teaching order; Vietnam is second.
+**Logic:** 2016 teaching order is Brazil > Vietnam > Colombia > Indonesia. Brazil is mainly arabica on Terra Roxa; Vietnam supplies bulk robusta.
 
 </details>
 
@@ -2252,22 +2248,22 @@ D. 2 and 3 only
 **Q6.** With reference to sugar crops, which of the following statements is/are correct?
 
 1. Brazil leads world sugarcane among classic options.
-2. Sugar beet belongs to temperate Europe.
-3. Oil palm volume majors are Indonesia and Malaysia; olive majors include Spain, Italy and Greece.
+2. Sugar beet belongs only to equatorial Kerala plantations.
+3. Oil palm volume majors are Spain and Italy; olive majors are Indonesia and Malaysia.
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 1
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Do not park beet in Kerala or oil palm as Kerala-only.
+**Logic:** Brazil leads world sugarcane among classic options. Sugar beet belongs to temperate Europe. Oil palm majors are Indonesia and Malaysia; olive majors include Spain, Italy and Greece. Mixed farming combines crops with livestock — it is not plantation tea alone.
 
 </details>
 
@@ -2301,15 +2297,15 @@ D. 3-2-1
 
 Which of the statements given above is/are correct?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Do not swap black/green fermentation facts.
 
@@ -2317,11 +2313,11 @@ D. 1, 2 and 3
 
 **Q9.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): China often leads rice/wheat volume but is not the classic exporter in many stems.
-
-Reason (R): Producer rank and exporter rank are the same identity in every crop MCQ.
+Assertion (A): Producer rank and exporter rank are the same identity in every crop MCQ.
 
 Select the correct answer from the code given below:
+
+Reason (R): China often leads rice/wheat volume but is not the classic exporter in many stems.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -2331,9 +2327,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true, but (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** Producer ≠ exporter is the trap; R wrongly merges the two.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Producer ≠ exporter is the trap; R wrongly merges the two.
 
 </details>
 
@@ -2370,15 +2366,15 @@ D. A-4, B-1, C-2, D-3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1, 2 and 3
+B. Only 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three pairs are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Do not crown India as the cheese-shipping king.
 
@@ -2392,15 +2388,15 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Reject Gujarat tea / UP jute as positive matches.
 
@@ -2459,15 +2455,15 @@ D. 2-4-3-1
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 3
+B. Only 1, 2 and 3
+C. Only 1 and 2
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Standard livestock/fibre desk.
 
@@ -2498,20 +2494,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q17.** Consider the following statements:
 
 1. Apiculture = bees; viticulture = grapes; olericulture = vegetables.
-2. Philippines cane and coconut history fact points to Spanish and Americans.
-3. Latvia is a major cocoa producer in West Africa teaching lists.
+2. Latvia is a major cocoa producer in West Africa teaching lists.
+3. Philippines cane and coconut history fact points to Spanish and Americans.
 
-Which of the statements given above is/are correct?
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 3 only are correct.
 
 **Logic:** Latvia is the absurd cocoa distractor — reject it.
 
@@ -2566,15 +2560,15 @@ D. Von Thünen explains only plantation tea estates.
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Standard Green Revolution / FAO desk.
 
@@ -2608,17 +2602,15 @@ D. 2 and 3 only
 2. Caingin is associated with the Philippines.
 3. Plantation monoculture is the same as jhum.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. Only 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Jhum ≠ plantation estate.
 
@@ -2654,15 +2646,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Which of the statements given above is/are correct?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. All 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Use as comparative desk, not as forever USGS ranks.
 
@@ -2687,20 +2679,18 @@ D. Brazil has no role in cocoa history teaching.
 **Q26.** With reference to Mediterranean agriculture, which of the following statements is/are correct?
 
 1. Citrus, vine and olive are signature crops.
-2. It is identical to equatorial plantation rubber belts.
-3. Winter rain and dry summer structure the calendar.
+2. Winter rain and dry summer structure the calendar.
+3. It is identical to equatorial plantation rubber belts.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 3 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Do not merge Med citrus belts with equatorial rubber.
 
@@ -2755,21 +2745,19 @@ D. 1, 2, 3 and all
 
 **Q29.** With reference to India’s plantation/fibre map used here, which of the following statements is/are correct?
 
-1. Kerala is the rubber fact.
-2. Assam leads tea volume among Indian states in common teaching.
-3. UP is a classic jute state like West Bengal.
+1. UP is a classic jute state like West Bengal.
+2. Kerala is the rubber fact.
+3. Assam leads tea volume among Indian states in common teaching.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2
+B. Only 2 and 3
+C. Only 1
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 2 and 3 only are correct.
 
 **Logic:** UP–jute is a wrong dump.
 
@@ -2777,21 +2765,19 @@ D. 1, 2 and 3
 
 **Q30.** Consider the following statements about Whittlesey:
 
-1. It maps world agricultural types.
-2. It is the same as Von Thünen’s concentric rings.
+1. It is the same as Von Thünen’s concentric rings.
+2. It maps world agricultural types.
 3. Intensive, extensive, plantation, Mediterranean, dairy, ranching and shifting are named systems in related teaching.
 
-Which of the statements given above is/are correct?
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 3 are correct.
+**Ans: D.** 2 and 3 only are correct.
 
 **Logic:** Whittlesey ≠ Von Thünen.
 

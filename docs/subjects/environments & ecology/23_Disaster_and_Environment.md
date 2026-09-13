@@ -552,20 +552,20 @@ D. Stratosphere above the storm
 **Q1.** With reference to environment and disasters, which of the following statements is/are correct?
 
 1. Degradation raises disaster risk (e.g., deforestation worsens floods/landslides).
-2. Disasters also damage ecosystems.
+2. Disasters never damage ecosystems; only ecosystems cause disasters.
 3. Deforestation always prevents landslides.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** Vegetation loss worsens slides.
+**Logic:** Statement 1 is true (degradation raises risk). Statement 2 is false — disasters also damage ecosystems. Statement 3 is false — deforestation worsens, not prevents, many landslides.
 
 </details>
 
@@ -631,21 +631,21 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q5.** With reference to cyclones, which of the following statements is/are correct?
 
-1. Need warm seas ~26–27°C.
+1. Tropical cyclones form best over cold seas below about 15°C.
 2. Bay of Bengal produces more than Arabian Sea.
 3. Eye has the strongest winds; eyewall is calm.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2
+B. 1 and 3
+C. Only 1
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2.
+**Ans: A.** Only 2 is correct.
 
-**Logic:** Eye calm; eyewall strongest.
+**Logic:** Statement 2 is true (BoB > Arabian Sea frequency). Statement 1 is false — warm seas ~26–27°C are needed. Statement 3 swaps eye (calm) and eyewall (strongest winds).
 
 </details>
 
@@ -733,7 +733,7 @@ D. A-2, B-3, C-1
 
 </details>
 
-**Q10.** Arrange NDMA Chair lock:
+**Q10.** Arrange NDMA Chair fact:
 
 A. Prime Minister
 B. Chief Justice of India only
@@ -983,7 +983,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 </details>
 
-**Q23.** How many of the following cyclone locks are correct?
+**Q23.** How many of the following cyclone facts are correct?
 
 Warm sea ~26–27°C; BoB > Arabian Sea; mangroves buffer surge
 

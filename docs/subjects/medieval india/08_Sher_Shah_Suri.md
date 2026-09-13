@@ -568,17 +568,15 @@ D. Sammel (1544)
 2. The Sur imperial phase lasted roughly 1540–1545 yet shaped later Mughal admin practice.
 3. Sher Shah created hereditary mansabdari exactly as Akbar later did.
 
-Select the correct answer from the code given below:
-
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. Only 1 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** Sher Shah used branding and standing forces; hereditary mansabdari is Akbar’s system.
 
@@ -590,17 +588,15 @@ D. 1, 2 and 3
 2. Course: On 26 June 1539 Sher Shah defeated Humayun; Humayun escaped on a mashak.
 3. Result: Humayun immediately recovered Delhi without further fighting.
 
-Which of the statements given above is/are correct?
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. All 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** Decisive exile followed Kannauj 1540, not immediate recovery after Chausa.
 
@@ -706,15 +702,15 @@ D. A-3, B-1, C-2, D-4
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1, 2 and 3
+B. Only 1 and 2
+C. 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Rupiya–dam–mohur is the Sur–Mughal continuity tag.
 
@@ -769,17 +765,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Course: Jayata and Kumpa, loyal Marwar Rathore captains, died fighting.
 3. Result: Jayata–Kumpa are correctly remembered as Mewar Sisodia warriors.
 
-Which of the statements given above is/are correct?
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 3
+B. Only 1
+C. Only 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Jayata–Kumpa are Marwar (Rathore), not Mewar — statement 3 is the trap.
 
@@ -815,10 +809,10 @@ D. 1 and 2 only
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. 1 and 2
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -883,15 +877,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1, 2 and 3
+B. Only 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Name ladder: Farid → Sher Khan → Sher Shah; Hazrat-e-Ala ≠ imperial Sher Shah.
 
@@ -899,21 +893,19 @@ D. 1, 2 and 3
 
 **Q16.** Consider the following statements about patta and qabuliat:
 
-1. Patta was the state document issued to the peasant.
-2. Qabuliat was the peasant’s written acceptance.
-3. Both terms mean the same copper coin denomination.
+1. Both terms mean the same copper coin denomination.
+2. Patta was the state document issued to the peasant.
+3. Qabuliat was the peasant’s written acceptance.
 
-Which of the statements given above is/are correct?
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. Only 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 2 and 3 only are correct.
 
 **Logic:** Patta/qabuliat are revenue documents, not coin names.
 
@@ -950,15 +942,15 @@ D. 2-1-3-4
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. All 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Dagh + barid + qazi-outside-revenue are Sur admin tags.
 
@@ -1033,15 +1025,15 @@ D. Neither 1 nor 2
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. All 1, 2 and 3
+B. Only 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three pairs are correctly matched.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Keep Farid / Sher Khan / Sher Shah as a ladder, not synonyms for every phase.
 
@@ -1092,11 +1084,11 @@ D. 1 and 2 only
 
 **Q25.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): Sher Shah kept a standing force with registered men.
-
-Reason (R): He nevertheless created Akbar-style hereditary mansabdari as the core Sur system.
+Assertion (A): He nevertheless created Akbar-style hereditary mansabdari as the core Sur system.
 
 Select the correct answer from the code given below:
+
+Reason (R): Sher Shah kept a standing force with registered men.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -1106,29 +1098,27 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** A is true and R is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** Standing registered force is true; hereditary mansabdari belongs to Akbar, not Sher Shah.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Standing registered force is true; hereditary mansabdari belongs to Akbar, not Sher Shah.
 
 </details>
 
 **Q26.** With reference to Purana Qila, which of the following statements is/are correct?
 
 1. It is the Delhi citadel associated with Sher Shah’s work.
-2. Qila-i-Kuhna mosque stands inside Purana Qila.
-3. Rohtas in Bihar is the same fort as Purana Qila under another name.
+2. Rohtas in Bihar is the same fort as Purana Qila under another name.
+3. Qila-i-Kuhna mosque stands inside Purana Qila.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. Only 3
+C. 1 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 3 only are correct.
 
 **Logic:** Rohtas (Bihar) ≠ Purana Qila (Delhi).
 
@@ -1202,10 +1192,10 @@ D. Qabuliat — measuring rope
 
 Which of the statements given above is/are correct?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. Only 1
+B. 1 and 2
+C. Only 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>

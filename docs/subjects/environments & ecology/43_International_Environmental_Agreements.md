@@ -508,21 +508,21 @@ D. Stockholm 2001 created UNEP in Nairobi
 
 **Q1.** With reference to the climate ladder, which of the following statements is/are correct?
 
-1. UNFCCC 1992 → Kyoto 1997 → Paris 2015.
+1. UNFCCC 1992 → Montreal 1997 → Paris 2015.
 2. Kyoto mainly Annex-I binding; Paris universal NDCs.
 3. Montreal is the main climate-mitigation treaty.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: A.** Only 2 is correct.
 
-**Logic:** Montreal = ozone — not climate.
+**Logic:** Only statement 2 remains true among the numbered claims. Statement 1 is false. Statement 2 is true. Statement 3 is false.
 
 </details>
 
@@ -553,20 +553,20 @@ D. A-3, B-1, C-2
 **Q3.** Which of the following pairs is/are correctly matched?
 
 1. Basel 1989 — hazardous waste
-2. Rotterdam 1998 — PIC chemicals
-3. Stockholm 2001 — POPs (≠ 1972 Conference)
+2. Rotterdam 2008 — PIC chemicals
+3. Stockholm 2011 — POPs (≠ 1972 Conference)
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2
+B. 1 and 3
+C. Only 1
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three.
+**Ans: C.** Only 1 is correct.
 
-**Logic:** Chemicals/waste trio.
+**Logic:** Only statement 1 remains true among the numbered claims. Statement 1 is true. Statement 2 is false. Statement 3 is false.
 
 </details>
 

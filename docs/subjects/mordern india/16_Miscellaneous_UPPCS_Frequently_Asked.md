@@ -992,26 +992,24 @@ D. A-2, B-1, C-3, D-4
 
 **Q2.** With reference to national song and anthem, which of the following statements is/are correct?
 
-1. *Vande Mataram* (Bankim, *Anandamath*) is the national song.
-2. *Jana Gana Mana* (Tagore) is the national anthem (Calcutta session 1911 association).
-3. *Vande Mataram* is the national anthem adopted in 1911.
+1. *Vande Mataram* (Bankim, *Anandamath*) is the national anthem.
+2. *Vande Mataram* is the national anthem adopted in 1911.
+3. *Jana Gana Mana* (Tagore) is the national anthem (Calcutta session 1911 association).
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 3 only
+B. Only 3
 
-B. 1 and 2 only
+C. 2 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: B.** Only 3 is correct.
 
-**Logic:** Song ≠ anthem.
+**Logic:** Stmt 1 false: *Vande Mataram* is the national song; *Jana Gana Mana* is the anthem. Stmt 2 remains false for the same song≠anthem trap.
 
 </details>
 
@@ -1076,26 +1074,24 @@ D. A-2, B-1, C-4, D-3
 
 **Q5.** With reference to Tilak’s press, which of the following statements is/are correct?
 
-1. *Kesari* (Marathi) and *Mahratta* (English) are Tilak’s Pune papers.
-2. They are Gorakhpur papers in the UP press match set.
-3. Gandhi’s papers include *Young India*, *Harijan* and *Navajivan*; *Indian Opinion* is South Africa years.
+1. They are Gorakhpur papers in the UP press match set.
+2. *Kesari* (Marathi) and *Mahratta* (English) are Tilak’s Pune papers.
+3. Gandhi’s papers include *Kesari*, *Mahratta* and *Young India* only.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 2 only
+B. 2 and 3
 
-B. 1 and 3 only
+C. Only 2
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 3.
+**Ans: C.** Only 2 is correct.
 
-**Logic:** *Kesari* = Pune, not Gorakhpur (*Swadesh*).
+**Logic:** Stmt 3 false: *Kesari*/*Mahratta* are Tilak’s; Gandhi’s set includes *Young India*, *Harijan*, *Navajivan*, and *Indian Opinion* (SA years). Stmt 1 remains false: *Kesari* ≠ Gorakhpur papers.
 
 </details>
 
@@ -1151,25 +1147,23 @@ D. 1, 2, 4, 3
 **Q8.** With reference to education commissions, which of the following statements is/are correct?
 
 1. Order fact: Wood 1854 → Hunter 1882 → Sadler 1917 → Sargeant 1944.
-2. Hunter Commission 1882 is education; Hunter Committee 1919 is Jallianwala inquiry.
+2. Hunter Commission 1882 is the Jallianwala inquiry; Hunter Committee 1919 is education.
 3. Hunter 1882 and Hunter 1919 are the same continuous commission.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
-A. 1 and 3 only
+B. 2 and 3
 
-B. 1 and 2 only
+C. 1 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** Two Hunters — different jobs.
+**Logic:** Stmt 2 false: roles are reversed — Hunter 1882 = education; Hunter Committee 1919 = Jallianwala inquiry. Stmt 3 remains false: they are not the same continuous body.
 
 </details>
 
@@ -1240,18 +1234,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 1 and 2
 
-B. 2 and 3 only
+B. 1, 2 and 3
 
-C. 1 and 3 only
+C. 2 and 3
 
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three.
+**Ans: B.** All three statements are correct.
 
 **Logic:** UP vault rows.
 
@@ -1312,20 +1306,18 @@ D. 1, 2, 4, 3
 2. Aruna Asaf Ali is a Quit India 1942 name.
 3. Both names are interchangeable QI 1942 radio operators.
 
-Select the correct answer from the code given below:
+A. Only 1 and 2
 
-A. 2 and 3 only
+B. Only 3
 
-B. 1 and 3 only
+C. Only 2 and 3
 
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** Standing Shanti ↔ Aruna swap.
 
@@ -1393,23 +1385,21 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q17.** With reference to Rani Lakshmibai and Jhalkari Bai, which of the following statements is/are correct?
 
 1. Rani Lakshmibai is the Rani of Jhansi.
-2. Jhalkari Bai is the Dalit soldier remembered as resembling her in battle.
-3. Jhalkari Bai is another name for the Rani herself in British gazetteers.
+2. Jhalkari Bai is another name for the Rani herself in British gazetteers.
+3. Jhalkari Bai is the Dalit soldier remembered as resembling her in battle.
 
-Select the correct answer from the code given below:
+A. Only 3
 
-A. 1 and 2 only
+B. Only 1 and 3
 
-B. 1 and 3 only
+C. Only 1
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2.
+**Ans: B.** 1 and 3 only are correct.
 
 **Logic:** Two persons — resemblance trap.
 
@@ -1440,24 +1430,22 @@ D. Abul Kalam Azad — Ramgarh 1940 President
 
 **Q19.** Which of the following statements is/are correct?
 
-1. ‘Simon Go Back’ is keyed to anti-Simon agitation and the Lajpat Rai association.
-2. ‘Garibi Hatao’ is a later Indira-era slogan, not a 1920s freedom-struggle fact.
-3. ‘Garibi Hatao’ was Tilak’s 1906 Swaraj twin slogan.
+1. ‘Garibi Hatao’ was Tilak’s 1906 Swaraj twin slogan.
+2. ‘Simon Go Back’ is keyed to anti-Simon agitation and the Lajpat Rai association.
+3. ‘Garibi Hatao’ is a later Indira-era slogan, not a 1920s freedom-struggle fact.
 
-Select the correct answer from the code given below:
+A. Only 1
 
-A. 1 and 2 only
+B. 1 and 2
 
-B. 1 and 3 only
+C. All 1, 2 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2.
+**Ans: D.** 2 and 3 only are correct.
 
 **Logic:** Do not back-date Indira-era slogans into Extremism.
 
@@ -1524,23 +1512,21 @@ D. A-2, B-1, C-4, D-3
 **Q22.** With reference to Bose session facts, which of the following statements is/are correct?
 
 1. Bose held Congress presidentships in 1938–39 (Haripura/Tripuri).
-2. Azad held Ramgarh 1940.
-3. Tilak held the 1907 Surat presidency after the split.
+2. Tilak held the 1907 Surat presidency after the split.
+3. Azad held Ramgarh 1940.
 
-Select the correct answer from the code given below:
+A. Only 2
 
-A. 1 and 2 only
+B. 2 and 3
 
-B. 1 and 3 only
+C. Only 1
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2.
+**Ans: D.** 1 and 3 only are correct.
 
 **Logic:** Tilak never INC President; Surat broke up.
 
@@ -1567,9 +1553,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Both true; R correctly explains why the two titles must not be merged.
+**Ans: A.** Both true; R separates a later historiography title from Naoroji, but does not explain why *Poverty and Un-British Rule* is Naoroji’s 1901 classic.
 
-**A/R logic:** Primary tract vs historiography.
+**A/R logic:** Primary tract vs historiography — parallel true facts, not cause–explanation.
 
 </details>
 
@@ -1581,20 +1567,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. This miscellaneous file is a match vault — event stories live in earlier chapters.
 3. Faizpur 1937 is Gandhi’s only presidentship.
 
-Select the correct answer from the code given below:
+A. Only 2 and 3
 
-A. 1 and 2 only
+B. Only 1
 
-B. 1 and 3 only
+C. Only 1 and 2
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Only Gandhi presidentship = Belgaum 1924; Faizpur = first village session.
 
@@ -1625,24 +1609,22 @@ D. Cabinet Mission — 1928 Nehru Report twin
 
 **Q26.** With reference to book vault rows, which of the following statements is/are correct?
 
-1. *Anandamath* = Bankim; *Gita Rahasya* = Tilak.
-2. *Discovery of India* = Nehru; *India Wins Freedom* = Azad.
-3. *Hind Swaraj* = Naoroji 1901.
+1. *Hind Swaraj* = Naoroji 1901.
+2. *Anandamath* = Bankim; *Gita Rahasya* = Tilak.
+3. *Discovery of India* = Nehru; *India Wins Freedom* = Azad.
 
-Select the correct answer from the code given below:
+A. Only 2 and 3
 
-A. 1 and 2 only
+B. Only 1
 
-B. 1 and 3 only
+C. Only 1 and 3
 
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2.
+**Ans: A.** 2 and 3 only are correct.
 
 **Logic:** *Hind Swaraj* = Gandhi 1909.
 
@@ -1714,18 +1696,18 @@ D. A-2, B-1, C-4, D-3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. Only 1, 2 and 3
 
-B. 2 and 3 only
+B. 1 and 2
 
-C. 1 and 3 only
+C. 2 and 3
 
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Vault drilling order + Bose slogan cluster.
 

@@ -1563,8 +1563,8 @@ E. None of the above/More than one of the above
 
 **Q1.** With reference to official language, which of the following statements is/are correct?
 
-1. Part XVII (Articles 343–351) deals with official language.
-2. The Constitution names Hindi as the national language of India.
+1. The Constitution names Hindi as the national language of India.
+2. Part XVII (Articles 343–351) deals with official language.
 
 A. Only 2
 B. Only 1
@@ -1574,7 +1574,7 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 is correct.
+**Ans: A.** Only 2 is correct.
 
 **Logic:** Constitution never names a national language — Hindi is Union official language.
 
@@ -1586,17 +1586,15 @@ D. Neither 1 nor 2
 2. English continuance — Official Languages Act 1963/1967 without sunset
 3. Article 344 Commission — standing body meeting every year
 
-Which of the pairs given above is/are correctly matched?
-
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** 344 Commission is not standing — reports at five years then ten years from 1950.
 
@@ -1624,9 +1622,9 @@ D. 1 only
 
 **Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): Until Parliament otherwise provides, authoritative texts of Acts and SC/HC proceedings are in English under Article 348.
+Assertion (A): Article 345 forbids any State from adopting Hindi as an official language.
 
-Reason (R): Article 345 forbids any State from adopting Hindi as an official language.
+Reason (R): Until Parliament otherwise provides, authoritative texts of Acts and SC/HC proceedings are in English under Article 348.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -1636,9 +1634,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true, but (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** 345 lets a State adopt one or more languages, or Hindi, as official language.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. 345 lets a State adopt one or more languages, or Hindi, as official language.
 
 </details>
 
@@ -1709,40 +1707,40 @@ D. Only 1
 **Q8.** Consider the following statements about classical languages:
 
 1. Classical language is an executive tag, not a constitutional list.
-2. Tamil was the first (2004).
-3. After the 3 October 2024 notifications there are eleven classical languages.
+2. Sanskrit was the first classical language (2004), ahead of Tamil.
+3. After the 3 October 2024 notifications there are only six classical languages.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1, 2 and 3
+B. Only 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: C.** Only 1 is correct.
 
-**Logic:** Executive tag; Tamil first; eleven after Oct 2024.
+**Logic:** Classical language is an executive tag, not a constitutional list. Tamil was first (2004). After Oct 2024 notifications there are eleven classical languages.
 
 </details>
 
 **Q9.** With reference to Uttar Pradesh language facts, which of the following is/are correct?
 
-1. Hindi is the official language; Urdu is the second official language (from 1989).
-2. Under Official Language Rules 1976, UP falls in Region A.
-3. PESA applies in UP because it has Scheduled Tribes.
+1. Hindi is the official language of Uttar Pradesh; Urdu is the second official language (from 1989); UP falls in Region A under the Official Language Rules, 1976.
+2. Under Official Language Rules 1976, UP falls in Region C with only English.
+3. Article 371 special provisions apply only to NCT Delhi and Puducherry.
 
-A. 2 and 3 only
-B. 1 and 3 only
-C. 1, 2 and 3
-D. 1 and 2 only
+A. 1 and 2
+B. Only 1
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2 are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** UP has STs but no Fifth Schedule area — PESA does not apply.
+**Logic:** Hindi is the official language; Urdu is the second official language (from 1989). UP falls in Region A. PESA does not apply because UP has no Fifth Schedule area. Article 371 is not a Delhi–Puducherry-only article.
 
 </details>
 
@@ -1792,15 +1790,15 @@ D. None
 2. 371I requires Goa’s Assembly to have at least thirty seats.
 3. 371J covers Kalyana-Karnataka with a development board and local preference.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. All 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Letter-specific 371 facts.
 
@@ -1814,15 +1812,15 @@ D. 1 and 3 only
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. Only 1
+B. 1 and 2
+C. All 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** 370 / 35A / UT dates.
 
@@ -1954,19 +1952,19 @@ D. Neither 1 nor 2
 
 **Q20.** Consider the following statements:
 
-1. Inner Line Permit is itself a Fifth Schedule clause.
-2. Tripura is a Sixth Schedule State; Nagaland is not.
+1. Tripura is a Sixth Schedule State; Nagaland is not.
+2. Inner Line Permit is itself a Fifth Schedule clause.
 3. Special provisions for States sit mainly in Part XXI (371–371J).
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2
+B. Only 2 and 3
+C. Only 1
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 2 and 3 are correct.
+**Ans: D.** 1 and 3 only are correct.
 
 **Logic:** ILP is a neighbour control regime — not itself a Fifth/Sixth clause.
 
@@ -1978,15 +1976,15 @@ D. 1, 2 and 3
 2. Classical languages after Oct 2024 notifications — 11
 3. UP — has a 371-series special article like 371J
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. Only 1 and 2
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** UP has no 371-series special article.
 
@@ -2154,15 +2152,15 @@ D. Neither 1 nor 2
 2. National language — not named in the Constitution
 3. 96th Amendment — Oriya renamed Odia
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. Only 1 and 2
+B. Only 2 and 3
+C. Only 1 and 3
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Official vs national + Odia rename.
 

@@ -1372,22 +1372,22 @@ D. Rajasthan
 **Q1.** With reference to protected areas in Uttar Pradesh, which of the following statements is/are correct?
 
 1. Dudhwa is UP’s only National Park and lies in Lakhimpur Kheri.
-2. Chandraprabha sanctuary is in Chandauli.
-3. Katarniaghat (1975) is in Bahraich.
+2. Chandraprabha sanctuary is in Sonbhadra.
+3. Katarniaghat (1975) is in Jhansi Bundelkhand.
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: A.** Only 1 is correct.
 
-**Logic:** Do not crown Pilibhit as a National Park.
+**Logic:** Dudhwa is UP’s only National Park (Lakhimpur Kheri). Chandraprabha is in Chandauli. Katarniaghat is in Bahraich.
 
 </details>
 
@@ -1486,44 +1486,44 @@ D. 2-4-3-1
 **Q6.** With reference to Bundelkhand soils, which of the following statements is/are correct?
 
 1. Mar/Kabar are black; Parua/Rakar are red.
-2. About 90% of UP is alluvial.
-3. Usar needs gypsum and drainage.
+2. About 10% of UP is alluvial and 90% is black regur.
+3. Usar needs only lime and never gypsum or drainage.
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. 1 and 2
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Do not swap Mar/Parua colour tags.
+**Logic:** Mar/Kabar are black; Parua/Rakar are red in Bundelkhand. About 90% of UP is alluvial. Usar needs gypsum and drainage.
 
 </details>
 
 **Q7.** Consider the following statements about irrigation and canals:
 
-1. Tubewells dominate (~75%); canals are smaller share (~15%).
-2. Western UP faces groundwater dark-zone pressure.
+1. Canals dominate (~75%) while tubewells are a minor share (~15%).
+2. Western UP has no groundwater dark-zone pressure.
 3. Saryu Canal National Project serves eastern UP.
 
 Which of the statements given above is/are correct?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: B.** Only 3 is correct.
 
-**Logic:** Do not teach canals as universal dominant irrigation.
+**Logic:** Tubewells dominate (~75%); canals are smaller share (~15%). Western UP faces groundwater dark-zone pressure. Saryu Canal National Project serves eastern UP.
 
 </details>
 
@@ -1535,15 +1535,15 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. All 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Do not swap Ballia with Sonbhadra on E/S extremes.
 
@@ -1604,15 +1604,15 @@ D. A-4, B-1, C-2, D-3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. All 1, 2 and 3
+B. Only 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Ranks stay frozen to Census 2011 until the next census.
 
@@ -1666,20 +1666,18 @@ D. 2-3-1-4
 **Q14.** With reference to Bangar and Khadar, which of the following statements is/are correct?
 
 1. Bangar is older alluvium with kankar.
-2. Khadar is newer floodplain.
-3. Bhabar and Terai are identical to Bangar.
+2. Bhabar and Terai are identical to Bangar.
+3. Khadar is newer floodplain.
 
-Select the correct answer from the code given below:
-
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. Only 1 and 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 3 only are correct.
 
 **Logic:** Bhabar/Terai are piedmont belts, not Bangar synonyms.
 
@@ -1687,11 +1685,11 @@ D. 1, 2 and 3
 
 **Q15.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): UP leads potato quantity and CIP’s South Asia centre fact is Singna, Agra.
-
-Reason (R): UP is a classic jute, tea and rubber state like West Bengal/Assam/Kerala.
+Assertion (A): UP is a classic jute, tea and rubber state like West Bengal/Assam/Kerala.
 
 Select the correct answer from the code given below:
+
+Reason (R): UP leads potato quantity and CIP’s South Asia centre fact is Singna, Agra.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -1701,9 +1699,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true, but (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** Potato/CIP Agra is correct; jute/tea/rubber are wrong dumps for UP.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Potato/CIP Agra is correct; jute/tea/rubber are wrong dumps for UP.
 
 </details>
 
@@ -1763,15 +1761,15 @@ D. A-4, B-3, C-1, D-2
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. All 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Most populous state; fourth by area among Indian states.
 
@@ -1785,15 +1783,15 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. Only 1 and 2
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** Transport desk for recent UP map facts.
 
@@ -1805,17 +1803,15 @@ D. 1, 2 and 3
 2. UP’s only foreign neighbour is Nepal.
 3. Devipatan division includes Basti as HQ.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** Devipatan HQ is Gonda, not Basti.
 
@@ -1867,15 +1863,15 @@ D. It has the CIP potato centre.
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. All 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Reject Haryana-only Chambal dumps.
 
@@ -1928,21 +1924,19 @@ D. 2-4-3-1
 
 **Q26.** With reference to eastern UP hydel limits, which of the following statements is/are correct?
 
-1. Eastern UP hydel is constrained by the Nepal Himalaya setting in teaching.
-2. Ken–Betwa addresses Bundelkhand water stress across MP–UP.
-3. Badua dam is the signature eastern UP hydel answer.
+1. Badua dam is the signature eastern UP hydel answer.
+2. Eastern UP hydel is constrained by the Nepal Himalaya setting in teaching.
+3. Ken–Betwa addresses Bundelkhand water stress across MP–UP.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 3
+B. Only 2
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 2 and 3 only are correct.
 
 **Logic:** Badua is not in UP.
 
@@ -1979,17 +1973,15 @@ D. A-4, B-1, C-2, D-3
 2. Blind ‘not Mau’ older stems should not overwrite the built corridor fact.
 3. NER HQ is Hajipur, not Gorakhpur.
 
-Which of the statements given above is/are correct?
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** NER HQ = Gorakhpur.
 
@@ -2017,17 +2009,15 @@ D. The Gomti is UP’s only National Park river.
 2. Mentha is associated with Rohilkhand.
 3. UP equals West Bengal as a jute state.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. All 1, 2 and 3
+B. Only 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** UP–jute is a wrong dump.
 

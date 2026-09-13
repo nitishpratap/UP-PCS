@@ -597,21 +597,21 @@ D. 1972-1992-1987-2012-2002-2015
 
 **Q2.** With reference to Stockholm 1972, which of the following statements is/are correct?
 
-1. First UN Conference on the Human Environment.
+1. Stockholm 1972 was the first UN climate COP under UNFCCC.
 2. Led to UNEP at Nairobi.
-3. World Environment Day is 5 June.
+3. World Environment Day is observed on 22 April.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. Only 2
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three.
+**Ans: A.** Only 2 is correct.
 
-**Logic:** Stockholm package.
+**Logic:** Statement 2 is true (UNEP, Nairobi). Statement 1 confuses Stockholm/Human Environment with UNFCCC COPs. Statement 3 is false — World Environment Day is 5 June.
 
 </details>
 
@@ -699,20 +699,20 @@ D. UNFCCC 2015 → Kyoto 1992 → Paris 1997
 **Q7.** With reference to ozone ladder, which of the following statements is/are correct?
 
 1. Vienna 1985 → Montreal 1987 → Kigali 2016.
-2. Montreal is ozone — not climate.
-3. Kigali phases down HFCs.
+2. Kyoto is an ozone treaty, not a climate treaty.
+3. Kigali phases down CFCs, not HFCs.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. 1 and 2
+B. Only 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** Ozone family + HFC phase-down.
+**Logic:** Statement 1 is the Vienna–Montreal–Kigali ladder. Statement 2 is false — Kyoto is climate, not ozone. Statement 3 is false — Kigali phases down HFCs.
 
 </details>
 
@@ -833,7 +833,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Ans: A.** Both true; UNCCD year does not explain GEF’s 1991 creation.
 
-**A/R logic:** Two finance/land locks.
+**A/R logic:** Two finance/land facts.
 
 </details>
 

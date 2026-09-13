@@ -590,20 +590,20 @@ D. Simlipal NP — Madhya Pradesh
 **Q1.** With reference to the Wildlife (Protection) Act, 1972, which of the following statements is/are correct?
 
 1. It is India’s main protected-area statute.
-2. Terrestrial WPA strictness runs National Park > Wildlife Sanctuary > Conservation/Community Reserve.
+2. Terrestrial WPA strictness runs Community Reserve > Wildlife Sanctuary > National Park.
 3. A Community Reserve is stricter than a National Park under WPA.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** National Park is the strictest WPA category — statement 3 is reversed.
+**Logic:** Statement 1 is true (WPA 1972). Statement 2 reverses the strictness order (NP > WLS > Conservation/Community Reserve). Statement 3 is false — Community Reserve is the least strict of the three.
 
 </details>
 
@@ -1070,7 +1070,7 @@ D. Biological Diversity Act, 2002 alone
 
 </details>
 
-**Q25.** How many of the following UP negative geography locks are correct?
+**Q25.** How many of the following UP negative geography facts are correct?
 
 1. Rudrasagar ≠ UP
 2. Sultanpur ≠ UP

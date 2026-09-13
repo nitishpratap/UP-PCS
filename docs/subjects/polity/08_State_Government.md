@@ -3506,7 +3506,7 @@ D. 1, 2, 3 and 4
 
 **Q1.** With reference to the Governor, consider the following statements:
 1. Article 155 provides for appointment by the President.
-2. Article 156 deals with tenure during the pleasure of the President.
+2. Article 156 provides for impeachment of the Governor by the State Assembly.
 3. Article 155 itself provides the impeachment procedure for Governors.
 
 A. 2 and 3 only
@@ -3517,9 +3517,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: C.** Only 1 is correct.
 
-**Logic:** 155 ≠ removal; no impeachment of Governor — pleasure under 156.
+**Logic:** Article 155 = appointment by the President. Article 156 = tenure during pleasure. There is no impeachment of the Governor.
 
 </details>
 
@@ -3616,7 +3616,7 @@ D. 1 – 2 – 4 – 3
 
 **Q6.** With reference to Articles 200 and 201, which of the following is/are correct?
 1. Under Article 200 the Governor may reserve a Bill for the President.
-2. If a reserved Bill is returned and the State re-passes it, the President is still not bound to assent.
+2. If a reserved Bill is returned and the State re-passes it, the President is bound to assent within 14 days.
 3. After re-passage under Article 200, the Governor is in the same absolute free position as the President under Article 201.
 
 A. 2 and 3 only
@@ -3627,28 +3627,28 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: C.** Only 1 is correct.
 
-**Logic:** Governor’s post-repassage path differs from President’s continuing freedom under 201.
+**Logic:** Under Article 200 the Governor may reserve a Bill. Even after re-passage, the President is still not bound to assent under Article 201.
 
 </details>
 
 **Q7.** Consider the following statements about State Council of Ministers:
 1. Collective responsibility is to the Legislative Assembly only.
-2. Maximum size is 15% of the Assembly under the 91st Amendment.
-3. Minimum strength is 12 ministers including the Chief Minister.
+2. Maximum size is 10% of the Assembly under the 42nd Amendment.
+3. Minimum strength is 40 ministers including the Chief Minister.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. Only 1 and 2
+B. All 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three statements are correct.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** 15% cap with floor of 12 is the 91st State fact.
+**Logic:** Collective responsibility is to the Legislative Assembly only. Maximum size is 15% under the 91st Amendment with a floor of 12 ministers including the CM.
 
 </details>
 
@@ -3674,7 +3674,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q9.** With reference to Legislative Council composition, which of the following is/are correct?
 1. Maximum strength is one-third of the Assembly.
-2. Minimum strength is 40.
+2. Minimum strength of a Legislative Council is 100 members.
 3. Members’ term is five years like the Assembly.
 
 A. 2 and 3 only
@@ -3685,9 +3685,9 @@ D. 1 and 2 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2 are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** LC term is six years with one-third retiring.
+**Logic:** Maximum LC strength is one-third of the Assembly; minimum is 40. LC term is six years with one-third retiring, not five years.
 
 </details>
 
@@ -3789,15 +3789,15 @@ D. 1 – 2 – 3
 2. Reserving a Bill under Article 200.
 3. Recommending Article 356 in listed situations.
 
-A. 1, 2 and 3
-B. 1 and 2 only
-C. 2 and 3 only
-D. 1 and 3 only
+A. 1 and 2
+B. 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** All three are classic discretionary situations.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Hung House / reservation / 356 recommendation set.
 
@@ -3862,10 +3862,10 @@ D. Tribal welfare minister compulsory — CG, JH, MP, Odisha
 2. Under Article 197 the Assembly prevails.
 3. A Bill originating in the Council and rejected by the Assembly dies.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. 2 and 3
+C. 1 and 3
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -3917,15 +3917,15 @@ D. A-2, B-3, C-1, D-4
 2. Six-week reassembly rhythm mirrors the Union ordinance rule.
 3. In listed cases the Governor needs the President’s instructions before promulgating.
 
-A. 1 and 2 only
-B. 1, 2 and 3
-C. 2 and 3 only
-D. 1 and 3 only
+A. 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** All three statements are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** 213 parallels 123 with an instructions caveat.
 
@@ -3933,9 +3933,9 @@ D. 1 and 3 only
 
 **Q21.** Consider the following Assertion and Reason:
 
-Assertion (A): The Governor is a constituent part of the State legislature.
+Assertion (A): The Governor sits as an ex-officio member of the Legislative Assembly.
 
-Reason (R): The Governor sits as an ex-officio member of the Legislative Assembly.
+Reason (R): The Governor is a constituent part of the State legislature.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -3945,9 +3945,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true, but (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** Article 168 makes Governor part of the legislature, but he sits in neither House.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Article 168 makes Governor part of the legislature, but he sits in neither House.
 
 </details>
 
@@ -3956,15 +3956,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Communication duty parallels PM’s Article 78 via Article 167.
 3. A non-member may be CM for up to six months while getting elected.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. 1 and 2
+B. Only 2 and 3
+C. Only 1 and 3
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three statements are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** 164 / 167 / six-month non-member path.
 
@@ -4029,10 +4029,10 @@ D. None
 2. About one-twelfth graduates and one-twelfth teachers.
 3. About one-sixth nominated.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. 2 and 3
+B. Only 1 and 3
+C. All 1, 2 and 3
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>

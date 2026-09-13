@@ -405,20 +405,20 @@ D. Replaces all groundwater monitoring by CGWB
 **Q1.** With reference to PSR, which of the following statements is/are correct?
 
 1. Pressure → State → Response.
-2. Indicators turn raw numbers into decision signals.
+2. Indicators are identical to raw instrument readings and never support decisions.
 3. PSR means only Ringelmann smoke shade.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** PSR ≠ Ringelmann.
+**Logic:** Statement 1 is the PSR chain. Statement 2 is false — indicators convert raw numbers into decision signals. Statement 3 confuses PSR with Ringelmann smoke shade.
 
 </details>
 
@@ -448,21 +448,21 @@ D. A-3, B-1, C-2
 
 **Q3.** Which of the following pairs is/are correctly matched?
 
-1. Air indicators — PM2.5, PM10, SO₂, NOx, AQI
+1. Standard air indicators exclude PM2.5, PM10, SO₂, NOx and AQI.
 2. Water indicators — BOD, COD, DO, pH, coliform
 3. CGWB — surface-water NWMP identical to CPCB
 
-A. 1, 2 and 3
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1 and 2 only
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2.
+**Ans: D.** Only 2 is correct.
 
-**Logic:** CGWB = groundwater; CPCB air–surface water.
+**Logic:** Statement 2 is true (BOD/COD/DO/pH/coliform). Statement 1 wrongly excludes the usual air indicators. Statement 3 confuses CGWB groundwater with CPCB surface-water NWMP.
 
 </details>
 

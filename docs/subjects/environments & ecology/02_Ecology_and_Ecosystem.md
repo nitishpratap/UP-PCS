@@ -1286,26 +1286,26 @@ D. Peepal
 **Q1.** With reference to ecology and ecosystem, which of the following statements is/are correct?
 
 1. Ernst Haeckel coined the term ecology in 1866.
-2. A.G. Tansley coined the term ecosystem in 1935.
+2. A.G. Tansley coined the term ecosystem in 1945.
 3. Ecosystems are normally closed systems with no energy exchange.
 
-A. 2 and 3 only
-B. 1 and 3 only
-C. 1, 2 and 3
-D. 1 and 2 only
+A. 1 and 3
+B. Only 2
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.**
+**Ans: D.** Only 1 is correct.
 
-**Logic:** Haeckel and Tansley years are correct. Ecosystems are normally open systems.
+**Logic:** Only statement 1 remains true among the numbered claims. Statement 1 is true. Statement 2 is false. Statement 3 is false.
 
 </details>
 
 **Q2.** Consider the following pairs:
 
-| Term | Lock |
+| Term | fact |
 |------|------|
 | 1. Habitat | Role of a species |
 | 2. Niche | Place where an organism lives |
@@ -1411,41 +1411,41 @@ D. 1, 2 and 3
 
 **Q7.** With reference to ecological succession, which of the following statements is/are correct?
 
-1. Full phases include Nudation → Migration → Ecesis → Reaction → Stabilisation.
+1. Full succession phases exclude Nudation and Ecesis and jump straight from Migration to Stabilisation.
 2. Monoclimax theory is linked with F.E. Clements.
 3. Hydrosere develops in dry habitats and xerosere in wet habitats.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2
+B. 1 and 3
+C. Only 1
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.**
+**Ans: A.** Only 2 is correct.
 
-**Logic:** Hydrosere = wet; xerosere = dry — statement 3 is swapped.
+**Logic:** Statement 2 is true (Clements–monoclimax). Statement 1 is false — the full phase sequence includes Nudation → Migration → Ecesis → Reaction → Stabilisation. Statement 3 swaps hydrosere (wet) and xerosere (dry).
 
 </details>
 
 **Q8.** With reference to productivity, which of the following statements is/are correct?
 
-1. NPP = GPP − plant respiration.
+1. NPP = GPP + plant respiration.
 2. Plants capture only about 1% of incident sunlight on leaves.
 3. Among common options, oceans are more productive per unit area than mangroves.
 
-A. 2 and 3 only
-B. 1 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. Only 2
+B. 1 and 3
+C. Only 1
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Ans: A.** Only 2 is correct.
 
-**Logic:** Usual order: mangroves > grasslands > lakes > oceans.
+**Logic:** Statement 2 is the usual ~1% capture teaching. Statement 1 is false — NPP = GPP − plant respiration. Statement 3 is false — oceans are less productive per unit area than mangroves among common options.
 
 </details>
 
@@ -1773,7 +1773,7 @@ D. 1 and 2 only
 **Q25.** Which of the following pairs is/are correctly matched?
 
 1. Bionomics — synonymous with ecology in older usage
-2. Bionomics — management of life / wildlife budgets in Prelims lock
+2. Bionomics — management of life / wildlife budgets in Prelims fact
 3. Ramdeo Misra — father of Indian ecology
 
 A. 1 and 2 only

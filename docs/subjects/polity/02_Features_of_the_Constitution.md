@@ -4261,7 +4261,7 @@ D. Parrot
 
 **Q1.** With reference to the Indian Constitution, consider the following statements:
 1. It is the lengthiest written Constitution of any sovereign country.
-2. It is a single Constitution for both the Union and the States.
+2. It is a dual Constitution with separate Union and State constitutions like the USA.
 3. It is entirely unwritten and based only on conventions.
 
 A. 2 and 3 only
@@ -4272,9 +4272,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: C.** Only 1 is correct.
 
-**Logic:** India has a written Constitution; length and single-frame for Union and States are standard facts.
+**Logic:** India has the lengthiest written Constitution and a single Constitution for Union and States. It is not entirely unwritten.
 
 </details>
 
@@ -4336,20 +4336,20 @@ D. A-3, B-2, C-4, D-1
 
 **Q4.** With reference to the Preamble, which of the following statements is/are correct?
 1. Justice has three limbs — social, economic and political.
-2. Liberty has five limbs in the Preamble.
+2. Liberty has only two limbs in the Preamble, identical with Equality.
 3. The word Federal appears in the Preamble.
 
-A. 2 and 3 only
-B. 1 and 3 only
-C. 1, 2 and 3
-D. 1 and 2 only
+A. Only 3
+B. 1 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2 are correct.
+**Ans: C.** Only 1 is correct.
 
-**Logic:** Federal is not a Preamble word; Justice 3 / Liberty 5 / Equality 2 is the count map.
+**Logic:** Justice has three limbs. Liberty has five limbs. Federal is not a Preamble word.
 
 </details>
 
@@ -4391,27 +4391,27 @@ D. 1 – 2 – 4 – 3
 **Q7.** Consider the following statements about the Preamble’s status on 26 January 1950:
 1. India was described as a Sovereign Democratic Republic.
 2. Socialist and Secular were already part of the Preamble text.
-3. Socialist and Secular were added by the 42nd Amendment.
+3. Socialist and Secular were added by the 44th Amendment in 1978.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 3
+C. Only 1 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 3 are correct.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** 1950 status = SDR; Socialist/Secular (+ integrity) came with the 42nd Amendment (1976).
+**Logic:** 1950 status = Sovereign Democratic Republic. Socialist/Secular (+ integrity) came with the 42nd Amendment (1976), not the 44th.
 
 </details>
 
 **Q8.** Consider the following Assertion and Reason:
 
-Assertion (A): The Preamble is a part of the Constitution.
+Assertion (A): The Preamble is enforceable like a Fundamental Right.
 
-Reason (R): The Preamble is enforceable like a Fundamental Right.
+Reason (R): The Preamble is a part of the Constitution.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -4421,15 +4421,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true, but (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** After Kesavananda/LIC the Preamble is part of the Constitution but remains non-enforceable.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. After Kesavananda/LIC the Preamble is part of the Constitution but remains non-enforceable.
 
 </details>
 
 **Q9.** With reference to rigidity and flexibility, which of the following is/are correct?
 1. Many amendments use Article 368.
-2. Laws under Articles 2–4 use only a simple majority and are outside Article 368.
+2. Laws under Articles 2–4 always require Article 368 special majority and half-State ratification.
 3. Every change in State boundaries requires ratification by half the States.
 
 A. 2 and 3 only
@@ -4440,9 +4440,9 @@ D. 1 and 2 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2 are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Art. 3/4 path is simple majority; not every boundary change needs State ratification under 368.
+**Logic:** Many amendments use Article 368. Laws under Articles 2–4 use simple majority and are outside Article 368. Not every boundary change needs State ratification.
 
 </details>
 
@@ -4451,15 +4451,15 @@ D. 1 and 2 only
 2. The Constitution uses the word federation in Article 1.
 3. Parliament may alter State areas, boundaries and names under Article 3.
 
-A. 1 and 3 only
-B. 1 and 2 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 3
+C. Only 2
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 3 are correct.
+**Ans: B.** 1 and 3 only are correct.
 
 **Logic:** Article 1 says Union of States; federation is not the Article 1 word.
 
@@ -4540,15 +4540,15 @@ D. 1 and 2 only
 2. Minerva Mills (1980) reinforced limits on amending power.
 3. Universal adult franchise itself was introduced by the 61st Amendment.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. Only 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** 61st only lowered voting age to 18; adult franchise itself is original.
 
@@ -4556,9 +4556,9 @@ D. 1, 2 and 3
 
 **Q15.** Consider the following Assertion and Reason:
 
-Assertion (A): B.R. Ambedkar described the Indian design as federal in form but unitary in spirit.
+Assertion (A): Indian federation arose from an agreement among States with a right to secede.
 
-Reason (R): Indian federation arose from an agreement among States with a right to secede.
+Reason (R): B.R. Ambedkar described the Indian design as federal in form but unitary in spirit.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -4568,9 +4568,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true, but (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** No State agreement origin and no secession right; Ambedkar’s unitary-spirit line is correct.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. No State agreement origin and no secession right; Ambedkar’s unitary-spirit line is correct.
 
 </details>
 
@@ -4579,15 +4579,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Voting age became 18 by the 61st Amendment.
 3. The third tier of government was added by the 73rd and 74th Amendments in 1992.
 
-A. 1 and 2 only
-B. 1, 2 and 3
-C. 2 and 3 only
-D. 1 and 3 only
+A. All 1, 2 and 3
+B. Only 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** All three statements are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Single citizenship, 61st age fact, and 1992 local-government tier are distinct must-score facts.
 
@@ -4617,15 +4617,15 @@ D. 3 – 1 – 2
 2. K.M. Munshi called the Preamble the political horoscope.
 3. Ambedkar called the Preamble the heart and soul of the Constitution.
 
-A. 2 and 3 only
-B. 1 and 3 only
-C. 1, 2 and 3
-D. 1 and 2 only
+A. 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** Ambedkar’s “heart and soul” tag is for Article 32, not the Preamble.
 
@@ -4674,15 +4674,15 @@ D. 1, 2 and 3
 2. In Emergency it can work like a unitary system.
 3. States have a constitutional right to secede during Emergency.
 
-A. 2 and 3 only
-B. 1 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Ambedkar stressed federal normal / unitary Emergency flexibility; no secession right.
 
@@ -4728,15 +4728,15 @@ D. About 395 Articles, 22 Parts and 8 Schedules
 2. India has dual citizenship like the USA.
 3. Universal adult franchise is a salient feature.
 
-A. 1 and 3 only
-B. 1 and 2 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 3
+C. Only 1 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 3 are correct.
+**Ans: C.** 1 and 3 only are correct.
 
 **Logic:** India has single citizenship.
 
@@ -4801,15 +4801,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. GOI Act 1935 supplied a structural skeleton.
 3. Basic Structure politics is treated as Indian originality.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Skeleton vs originality is the standard anti-copy teaching fact.
 

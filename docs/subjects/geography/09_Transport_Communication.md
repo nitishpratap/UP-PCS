@@ -4870,22 +4870,22 @@ D. 2-1-3
 **Q6.** With reference to highway programmes, which of the following statements is/are correct?
 
 1. Bharatmala is a highway programme.
-2. Sagarmala is a port-led development programme.
-3. PMGSY (2000) targets rural all-weather roads.
+2. Sagarmala is a national highway widening scheme identical with Bharatmala.
+3. PMGSY (2000) targets only metro metro-rail corridors.
 
 Select the correct answer from the code given below:
 
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 2 only
+A. 1 and 2
+B. Only 1
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three statements are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Keep Bharatmala (roads) and Sagarmala (ports) unswapped.
+**Logic:** Bharatmala is highways; Sagarmala is port-led development; PMGSY targets rural all-weather roads.
 
 </details>
 
@@ -5007,15 +5007,15 @@ D. 2 only
 
 Which of the statements given above is/are correct?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. Only 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Amlekhganj is the Nepal end — not Kathmandu as a casual substitute.
 
@@ -5051,10 +5051,10 @@ D. 1-3-2
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
+A. 1 and 2
 B. 1, 2 and 3
-C. 2 and 3 only
-D. 1 and 3 only
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -5134,17 +5134,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Kolkata–Haldia is a riverine port system.
 3. Igarka is located in China.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** Igarka is in Russia — China is the trap.
 
@@ -5252,17 +5250,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. North–South and East–West corridors meet at Jhansi in the teaching map.
 3. East–West corridor ends at Shillong rather than Silchar.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** EW end is Porbandar–Silchar; Shillong is the spelling/place trap.
 

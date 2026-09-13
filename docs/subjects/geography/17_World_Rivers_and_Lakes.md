@@ -2554,23 +2554,21 @@ D. Cahora Bassa — Zambezi
 
 **Q1.** With reference to major world rivers, which of the following statements is/are correct?
 
-1. New Orleans stands on the Mississippi.
-2. The Missouri joins the Mississippi at St Louis.
-3. Hyderabad (India) stands on the Godavari.
+1. Hyderabad (India) stands on the Godavari.
+2. New Orleans stands on the Mississippi.
+3. The Missouri joins the Mississippi at New Orleans.
 
-Select the correct answer from the code given below:
-
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 2
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: B.** Only 2 is correct.
 
-**Logic:** Hyderabad (India) is on the Musi, not the Godavari. Missouri joins the Mississippi at St Louis.
+**Logic:** Hyderabad (India) is on the Musi, not the Godavari. New Orleans stands on the Mississippi. Missouri joins the Mississippi at St Louis.
 
 </details>
 
@@ -2602,22 +2600,22 @@ D. 1, 3 and 4 only
 **Q3.** With reference to the Mekong, which of the following statements is/are correct?
 
 1. It rises in Tibet and flows broadly south / south-east.
-2. Its principal delta lies in southern Vietnam.
-3. The classic Prelims trap places the delta in Cambodia.
+2. The Mekong’s principal delta lies in Cambodia.
+3. The classic Prelims trap places the Mekong delta in southern Vietnam.
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** Mekong direction and S. Vietnam delta are standard; Cambodia is the usual wrong option.
+**Logic:** Mekong rises in Tibet and flows broadly south/south-east. Principal delta is southern Vietnam; Cambodia is the usual wrong option.
 
 </details>
 
@@ -2717,22 +2715,22 @@ D. 2-5-4-1-3
 **Q8.** With reference to lake superlatives, which of the following statements is/are correct?
 
 1. The Caspian is the largest lake on Earth by area.
-2. Superior is the largest freshwater lake by area.
-3. Baikal holds the greatest volume of fresh water among lakes and is the deepest.
+2. Superior is the largest saline lake by area, ahead of the Caspian.
+3. Baikal is the shallowest African rift lake by volume.
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** Caspian (saline) ≠ Superior (fresh area) ≠ Baikal (depth/volume).
+**Logic:** Caspian is the largest lake by area (saline). Superior is the largest freshwater lake by area. Baikal holds the greatest freshwater volume and is the deepest.
 
 </details>
 
@@ -2744,9 +2742,9 @@ D. 1, 2 and 3
 
 Which of the statements given above is/are correct?
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
+A. 2 and 3
+B. Only 1
+C. 1 and 2
 D. 1, 2 and 3
 
 <details>
@@ -2788,15 +2786,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three pairs are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Angel is highest; Victoria is on the Zambezi; Iguazu straddles Brazil–Argentina.
 
@@ -2808,17 +2806,15 @@ D. 1, 2 and 3
 2. The Rhine is Europe’s busiest inland navigation artery.
 3. Budapest stands on the Rhine.
 
-Select the correct answer from the code given below:
-
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. All 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** Budapest is on the Danube. Do not swap Danube (most countries) with Rhine (busiest).
 
@@ -2878,17 +2874,15 @@ D. 2-1-3-4
 2. Volga mouth — Caspian Sea
 3. Darling Range — Murray–Darling river system itself
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. Only 3
+C. 1 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Pairs 1 and 3 are not correctly matched.
+**Ans: C.** 1 and 3 only are correct.
 
 **Logic:** Main border river is the Rio Grande (Colorado is the trap). Darling Range is a SW Australia highland, not the river system name.
 
@@ -2902,15 +2896,15 @@ D. 1, 2 and 3
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. All 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Do not crown Tanganyika deepest (that is Baikal) or treat the Dead Sea as an ordinary open sea.
 
@@ -2969,15 +2963,15 @@ D. 1, 2, 3 and 4
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. All 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Volga → Caspian (not Black Sea). Amur direction is a frequent map trap.
 
@@ -3005,17 +2999,15 @@ D. Europe — Yangtze
 2. Drainage is broadly radial from the central highlands.
 3. The Mahaweli is India’s longest east-flowing peninsular river.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
 **Logic:** Mahaweli is Sri Lanka’s river, not an Indian peninsular river.
 
@@ -3027,17 +3019,15 @@ D. 1, 2 and 3
 2. The Ganga–Brahmaputra system builds the world’s largest delta among classic options.
 3. An inselberg is a glacial landform identical to a drumlin.
 
-Which of the statements given above is/are correct?
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. 1 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** Inselberg is a wind/residual residual hill, not a glacier landform.
 
@@ -3093,22 +3083,20 @@ D. 2 and 3 only
 **Q25.** With reference to lake types, which of the following statements is/are correct?
 
 1. Rift / tectonic lakes include examples such as Baikal and Tanganyika.
-2. Every famous lake in Prelims teaching is simply labelled ‘fresh lake’ without type.
-3. Crater, lagoon and oxbow are recognised lake-origin classes.
+2. Crater, lagoon and oxbow are recognised lake-origin classes.
+3. Every famous lake in Prelims teaching is simply labelled ‘fresh lake’ without type.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 3 are correct.
+**Ans: B.** 1 and 2 only are correct.
 
-**Logic:** Statement 2 is false — type (tectonic, glacial, crater, etc.) matters.
+**Logic:** Statement 3 is false — type (tectonic, glacial, crater, etc.) matters; lakes are not all labelled only as ‘fresh’.
 
 </details>
 
@@ -3137,20 +3125,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q27.** Consider the following statements about endorheic waters:
 
 1. Caspian, Aral, Dead Sea, Chad and Eyre have no ocean outlet.
-2. Lake Chad has also shown long-term shrinkage in teaching maps.
-3. Superior is endorheic because it does not reach the Atlantic.
+2. Superior is endorheic because it does not reach the Atlantic.
+3. Lake Chad has also shown long-term shrinkage in teaching maps.
 
-Which of the statements given above is/are correct?
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 3
+C. Only 1 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 3 only are correct.
 
 **Logic:** Superior drains via the St Lawrence system to the Atlantic — it is not endorheic.
 
@@ -3197,23 +3183,21 @@ D. Iguazu Falls lies wholly inside Chile.
 
 **Q30.** With reference to the Mississippi delta and African arcuate deltas, which of the following statements is/are correct?
 
-1. The Mississippi builds a bird’s-foot delta.
-2. Nile, Hwang Ho and Niger are classic arcuate (bow-shaped) deltas.
-3. Bird’s-foot and arcuate shapes are interchangeable labels for the same Mississippi mouth.
+1. Bird’s-foot and arcuate shapes are interchangeable labels for the same Mississippi mouth.
+2. The Mississippi builds a bird’s-foot delta.
+3. Nile, Hwang Ho and Niger are classic arcuate (bow-shaped) deltas.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1, 2 and 3
+B. Only 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 2 and 3 only are correct.
 
-**Logic:** Statement 3 erases the bird’s-foot vs arcuate distinction.
+**Logic:** Statement 1 erases the bird’s-foot vs arcuate distinction; Mississippi is bird’s-foot, while Nile / Hwang Ho / Niger are classic arcuate deltas.
 
 </details>
 

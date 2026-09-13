@@ -705,21 +705,21 @@ D. WPA provisions / CWLW authority apply
 
 **Q1.** With reference to wildlife conservation strategy, which of the following statements is/are correct?
 
-1. In-situ conservation is the preferred primary strategy.
+1. ex-situ conservation is the preferred primary strategy.
 2. Ex-situ methods are backup tools.
 3. Ex-situ alone is enough; in-situ parks are optional in all cases.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: D.** Only 2 is correct.
 
-**Logic:** In-situ remains primary.
+**Logic:** Only statement 2 remains true among the numbered claims. Statement 1 is false. Statement 2 is true. Statement 3 is false.
 
 </details>
 
@@ -740,7 +740,7 @@ D. 2, 3 and 4 only
 
 **Ans: C.** All four.
 
-**Logic:** All are standard threat locks including diclofenac.
+**Logic:** All are standard threat facts including diclofenac.
 
 </details>
 

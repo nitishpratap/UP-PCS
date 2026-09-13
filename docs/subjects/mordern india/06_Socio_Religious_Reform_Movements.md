@@ -1952,26 +1952,23 @@ D. United Provinces
 **Q1.** With reference to Raja Ram Mohan Roy, which of the following statements is/are correct?
 
 1. He founded Atmiya Sabha (1815) and Brahmo Sabha / Brahmo Samaj (1828).
-2. He campaigned against Sati; Bentinck banned Sati in 1829.
+2. He campaigned against Sati; Bentinck banned Sati in 1856 under the Widow Remarriage Act.
 3. He founded Arya Samaj on the slogan “Back to the Vedas.”
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
+B. 2 and 3
 
-A. 1 and 3 only
+C. Only 1
 
-B. 2 and 3 only
-
-C. 1, 2 and 3
-
-D. 1 and 2 only
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2.
+**Ans: C.** Only 1 is correct.
 
-**Logic:** Arya Samaj = Dayanand 1875 — not Roy.
+**Logic:** Stmt 2 false: Sati ban is Regulation XVII of 1829 under Bentinck; 1856 is Widow Remarriage (Dalhousie/Canning era). Stmt 3 remains false: Arya Samaj = Dayanand 1875.
 
 </details>
 
@@ -1979,27 +1976,24 @@ D. 1 and 2 only
 
 **Q2.** With reference to Brahmo Samaj and Arya Samaj, which of the following statements is/are correct?
 
-1. Brahmo Samaj stressed reasoned monotheism and anti-idolatry.
+1. Brahmo Samaj stressed Vedic infallibility and ‘Back to the Vedas’ as its core slogan.
 2. Arya Samaj was founded by Dayanand Saraswati at Bombay in 1875.
 3. Arya Samaj and Brahmo Samaj are two names for the same Calcutta body.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
+B. Only 2
 
-A. 1 and 3 only
+C. 2 and 3
 
-B. 1 and 2 only
-
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: B.** Only 2 is correct.
 
-**Logic:** Standing confused pair: Brahmo ≠ Arya.
+**Logic:** Stmt 1 false: ‘Back to the Vedas’ is Arya Samaj (Dayanand); Brahmo stressed reasoned monotheism and anti-idolatry. Stmt 3 remains false: Brahmo ≠ Arya.
 
 </details>
 
@@ -2116,26 +2110,23 @@ D. 2, 3, 1, 4
 **Q7.** With reference to Prarthana Samaj and Paramahansa Mandali, which of the following statements is/are correct?
 
 1. Paramahansa Mandali (1849, Dadoba Pandurang) was a secret precursor against caste and idolatry.
-2. Prarthana Samaj rose in Bombay in 1867 under Atmaram Pandurang / M.G. Ranade.
+2. Prarthana Samaj rose in Bombay in 1867 under Jyotirao Phule.
 3. Prarthana Samaj is identical with Phule’s Satyashodhak Samaj.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
+B. 2 and 3
 
-A. 1 and 3 only
+C. 1 and 3
 
-B. 2 and 3 only
-
-C. 1, 2 and 3
-
-D. 1 and 2 only
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** Same presidency, different social aim — Prarthana ≠ Satyashodhak.
+**Logic:** Stmt 2 false: Prarthana = Atmaram Pandurang / Ranade; Phule founded Satyashodhak Samaj. Stmt 3 remains false: Prarthana ≠ Satyashodhak.
 
 </details>
 
@@ -2143,27 +2134,24 @@ D. 1 and 2 only
 
 **Q8.** With reference to the Theosophical Society, which of the following statements is/are correct?
 
-1. It was founded by Blavatsky and Olcott in 1875 at New York.
-2. Indian HQ shifted to Adyar in 1882.
-3. Annie Besant founded the Society at Calcutta in 1828.
+1. Annie Besant founded the Society at Calcutta in 1828.
+2. It was founded by Blavatsky and Olcott in 1875 at Adyar (Madras).
+3. Indian HQ shifted to Adyar in 1882.
 
-Select the correct answer from the code given below:
+A. Only 3
 
+B. 1 and 2
 
-A. 1 and 3 only
+C. 2 and 3
 
-B. 1 and 2 only
-
-C. 2 and 3 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: A.** Only 3 is correct.
 
-**Logic:** Besant later led Theosophy and became INC President 1917 — not 1828 founder.
+**Logic:** Stmt 2 false: Founded at New York in 1875; Indian HQ shifted to Adyar in 1882. Stmt 1 remains false: Besant was not the 1828 Calcutta founder.
 
 </details>
 
@@ -2203,21 +2191,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Periyar launched the Self-Respect Movement in 1925 in the Tamil country.
 3. Self-Respect Movement is only another name for SNDP Yogam.
 
-Select the correct answer from the code given below:
+A. Only 1 and 2
 
+B. Only 3
 
-A. 1 and 3 only
+C. Only 1 and 3
 
-B. 2 and 3 only
-
-C. 1, 2 and 3
-
-D. 1 and 2 only
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** Kerala one-caste–one-god ≠ Tamil anti-Brahmin rationalism.
 
@@ -2280,25 +2265,22 @@ D. Aligarh — Sir Syed; modern Western-style Muslim education
 
 **Q13.** With reference to widow-remarriage reformers, which of the following statements is/are correct?
 
-1. Vidyasagar pushed the Widow Remarriage Act, 1856 in Bengal.
-2. D.K. Karve worked through the Widow Remarriage Association and founded SNDT Women’s University (1916).
-3. Pandita Ramabai founded Arya Samaj at Bombay in 1875.
+1. Pandita Ramabai founded Arya Samaj at Bombay in 1875.
+2. Vidyasagar pushed the Widow Remarriage Act, 1856 in Bengal.
+3. D.K. Karve worked through the Widow Remarriage Association and founded SNDT Women’s University (1916).
 
-Select the correct answer from the code given below:
+A. Only 3
 
+B. Only 2 and 3
 
-A. 1 and 3 only
+C. Only 1
 
-B. 2 and 3 only
-
-C. 1, 2 and 3
-
-D. 1 and 2 only
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2.
+**Ans: B.** 2 and 3 only are correct.
 
 **Logic:** Ramabai = Arya Mahila Samaj / Sharada Sadan / Mukti Mission — not Arya Samaj.
 
@@ -2339,21 +2321,18 @@ D. 2, 3, 4, 1
 2. Pakhand Khandini Pataka (1867) precedes Arya Samaj 1875.
 3. He founded the Brahmo Sabha in 1828 at Calcutta.
 
-Select the correct answer from the code given below:
+A. 2 and 3
 
+B. 1 and 3
 
-A. 1 and 3 only
+C. Only 1, 2 and 3
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** 1828 Brahmo = Roy — not Dayanand.
 
@@ -2391,25 +2370,22 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q17.** With reference to social-law chronology after 1891, which of the following statements is/are correct?
 
-1. Sharda Act 1929 is tagged to Har Bilas Sharda.
-2. It fixed girls’ age 14 / boys’ age 18 in the standard memory line.
-3. Sharda Act is only another name for the Sati ban of 1829.
+1. Sharda Act is only another name for the Sati ban of 1829.
+2. Sharda Act 1929 is tagged to Har Bilas Sharda.
+3. It fixed girls’ age 14 / boys’ age 18 in the standard memory line.
 
-Select the correct answer from the code given below:
+A. Only 1
 
+B. Only 1 and 2
 
-A. 1 and 3 only
+C. Only 3
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: D.** 2 and 3 only are correct.
 
 **Logic:** 1829 Sati ≠ 1929 Sharda — century trap.
 
@@ -2420,24 +2396,21 @@ D. 1, 2 and 3
 **Q18.** With reference to Ranade’s social platform, which of the following statements is/are correct?
 
 1. Indian National Social Conference (1887) = Ranade + Raghunath Rao.
-2. Social issues were often kept off the Congress platform through this separation.
-3. Ranade founded Satyashodhak Samaj in 1873.
+2. Ranade founded Satyashodhak Samaj in 1873.
+3. Social issues were often kept off the Congress platform through this separation.
 
-Select the correct answer from the code given below:
+A. Only 1 and 3
 
+B. Only 2
 
-A. 1 and 3 only
+C. 2 and 3
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: A.** 1 and 3 only are correct.
 
 **Logic:** Satyashodhak = Phule.
 
@@ -2504,21 +2477,18 @@ D. Annie Besant — founded Atmiya Sabha in 1815
 2. Aligarh is loyalist modern education; Deoband is traditional madrasa revival.
 3. Wahabi and Ahmadiyya are identical peaceful messianic movements.
 
-Select the correct answer from the code given below:
+A. 1 and 2
 
+B. Only 3
 
-A. 1 and 3 only
+C. 1 and 3
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** Wahabi militant revivalist ≠ Ahmadiyya peaceful messianic.
 
@@ -2556,24 +2526,21 @@ D. 2, 4, 1, 3
 **Q23.** With reference to Vivekananda, which of the following statements is/are correct?
 
 1. Chicago address — 1893.
-2. Ramakrishna Mission — 1897.
-3. He founded Brahmo Samaj in 1828 before going to Chicago.
+2. He founded Brahmo Samaj in 1828 before going to Chicago.
+3. Ramakrishna Mission — 1897.
 
-Select the correct answer from the code given below:
+A. Only 2
 
+B. Only 2 and 3
 
-A. 1 and 3 only
+C. Only 1
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: D.** 1 and 3 only are correct.
 
 **Logic:** 1828 Brahmo = Roy.
 
@@ -2612,24 +2579,21 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q25.** With reference to Bengal vs Maharashtra reform streams, which of the following statements is/are correct?
 
 1. Bengal stream stressed reasoned monotheism, print, English education and law reform.
-2. Maharashtra stream stressed anti-caste sabhas and women’s education.
-3. Phule’s Satyashodhak work is a Bengal Brahmo faction under Keshab Chandra Sen.
+2. Phule’s Satyashodhak work is a Bengal Brahmo faction under Keshab Chandra Sen.
+3. Maharashtra stream stressed anti-caste sabhas and women’s education.
 
-Select the correct answer from the code given below:
+A. Only 1
 
+B. Only 1 and 2
 
-A. 1 and 3 only
+C. Only 3
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: D.** 1 and 3 only are correct.
 
 **Logic:** Phule is Maharashtra anti-caste — not Brahmo Bengal.
 
@@ -2662,24 +2626,21 @@ D. Arya Samaj 1875 — Raja Ram Mohan Roy
 **Q27.** With reference to Singh Sabha chronology, which of the following statements is/are correct?
 
 1. Amritsar Singh Sabha — 1873; Lahore — 1879.
-2. Khalsa College — 1892; Chief Khalsa Diwan — 1902.
-3. Singh Sabha is only a branch of Arya Samaj shuddhi work.
+2. Singh Sabha is only a branch of Arya Samaj shuddhi work.
+3. Khalsa College — 1892; Chief Khalsa Diwan — 1902.
 
-Select the correct answer from the code given below:
+A. Only 1 and 3
 
+B. Only 1
 
-A. 1 and 3 only
+C. 1 and 2
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: A.** 1 and 3 only are correct.
 
 **Logic:** Parallel Sikh identity revival — not an Arya branch.
 
@@ -2720,25 +2681,22 @@ D. A-2, B-3, C-1, D-4
 
 **Q29.** With reference to Brahmo later history, which of the following statements is/are correct?
 
-1. Roy founded Brahmo Sabha / Samaj; later splits ran under Debendranath and Keshab Chandra Sen lines.
-2. Roy did not personally run every later Brahmo faction.
-3. Dayanand’s shuddhi programme was the official Brahmo creed from 1828.
+1. Dayanand’s shuddhi programme was the official Brahmo creed from 1828.
+2. Roy founded Brahmo Sabha / Samaj; later splits ran under Debendranath and Keshab Chandra Sen lines.
+3. Roy did not personally run every later Brahmo faction.
 
-Select the correct answer from the code given below:
+A. Only 1 and 3
 
+B. All 1, 2 and 3
 
-A. 1 and 3 only
+C. 1 and 2
 
-B. 2 and 3 only
-
-C. 1 and 2 only
-
-D. 1, 2 and 3
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2.
+**Ans: D.** 2 and 3 only are correct.
 
 **Logic:** Shuddhi is Arya Samaj vocabulary.
 

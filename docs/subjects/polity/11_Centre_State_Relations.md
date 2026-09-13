@@ -2550,8 +2550,8 @@ D. Article 307
 
 **Q1.** With reference to Centre–State legislative relations, which of the following statements is/are correct?
 
-1. Under Article 246, Union List prevails over Concurrent, and Concurrent over State List.
-2. Residuary powers, including residuary taxation, belong to the States as in the US model.
+1. Residuary powers, including residuary taxation, belong to the States as in the US model.
+2. Under Article 246, Union List prevails over Concurrent, and Concurrent over State List.
 
 A. Only 2
 B. Only 1
@@ -2561,7 +2561,7 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 is correct.
+**Ans: A.** Only 2 is correct.
 
 **Logic:** Residuary powers are with the Union (248 / Entry 97), unlike the US.
 
@@ -2569,21 +2569,19 @@ D. Neither 1 nor 2
 
 **Q2.** Consider the following pairs:
 
-1. Article 249 — Rajya Sabha resolution; Parliament on State List in national interest (one year)
-2. Article 250 — Parliament on State List during National Emergency
-3. Article 253 — two or more States must request before a treaty law
+1. Article 253 — two or more States must request before a treaty law
+2. Article 249 — Rajya Sabha resolution; Parliament on State List in national interest (one year)
+3. Article 250 — Parliament on State List during National Emergency
 
-Which of the pairs given above is/are correctly matched?
-
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 3
+B. Only 2
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: C.** 2 and 3 only are correct.
 
 **Logic:** 253 needs no State request — treaties/international obligations suffice.
 
@@ -2676,68 +2674,68 @@ D. 2-3-1
 **Q7.** With reference to administrative relations, which of the following statements is/are correct?
 
 1. Articles 256 and 257 require States to comply with Union laws and directions.
-2. Ignoring Union directions under Article 365 can open the path to Article 356.
+2. Ignoring Union directions under Article 365 has no link with Article 356.
 3. Article 258A allows the Union to entrust functions to a State without any constitutional basis for reverse entrustment.
 
-A. 2 and 3 only
-B. 1 and 3 only
-C. 1, 2 and 3
-D. 1 and 2 only
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2 are correct.
+**Ans: A.** Only 1 is correct.
 
-**Logic:** 258A (7th Amendment) lets a State entrust functions to the Union.
+**Logic:** Articles 256 and 257 require States to comply with Union laws and directions. Ignoring directions under 365 can open the path to 356. 258A lets a State entrust functions to the Union.
 
 </details>
 
 **Q8.** Consider the following statements about All-India Services:
 
 1. Article 312 needs a Rajya Sabha resolution by two-thirds present and voting, then a Parliament law.
-2. The three AIS are IAS, IPS, and IFoS.
-3. Rajamannar recommended strengthening and expanding All-India Services.
+2. Rajamannar recommended strengthening and expanding All-India Services.
+3. The three AIS are IAS, IFS (diplomatic), and IFoS only, excluding IPS.
 
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 2 only
+A. Only 2
+B. Only 2 and 3
+C. Only 1
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2 are correct.
+**Ans: C.** Only 1 is correct.
 
-**Logic:** Rajamannar wanted abolition of AIS — opposite of Sarkaria’s keep-AIS line.
+**Logic:** Article 312 needs a Rajya Sabha 2/3 resolution then a Parliament law. The three AIS are IAS, IPS and IFoS. Rajamannar wanted abolition of AIS.
 
 </details>
 
 **Q9.** With reference to financial relations, which of the following is/are correct?
 
 1. Article 271 surcharge on certain Union taxes belongs to the Union only and is not shared.
-2. Article 268 stamp duties are levied by the Union but collected by the States.
+2. Article 268 stamp duties are levied and collected only by the States with no Union role.
 3. Article 275 grants recommended by the Finance Commission are discretionary like Article 282.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 1
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** 275 = FC-recommended, charged; 282 = discretionary — do not swap.
+**Logic:** Article 271 surcharge belongs to the Union only and is not shared. Article 268 stamp duties are levied by the Union but collected by the States. 275 is FC-recommended; 282 is discretionary.
 
 </details>
 
 **Q10.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): The Finance Commission under Article 280 reports to the President.
+Assertion (A): NITI Aayog replaced the Finance Commission in 2015 and now decides vertical tax shares.
 
-Reason (R): NITI Aayog replaced the Finance Commission in 2015 and now decides vertical tax shares.
+Reason (R): The Finance Commission under Article 280 reports to the President.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -2747,9 +2745,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true, but (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** NITI replaced the Planning Commission, not the Finance Commission.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. NITI replaced the Planning Commission, not the Finance Commission.
 
 </details>
 
@@ -2779,15 +2777,15 @@ D. None
 2. The GST Council is chaired by the Union Finance Minister.
 3. Centre has two-thirds voting weight and States one-third.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Weights are Centre one-third and States two-thirds.
 
@@ -2795,19 +2793,19 @@ D. 1, 2 and 3
 
 **Q13.** Consider the following statements about the GST Council:
 
-1. Decisions need three-fourths weighted majority; quorum is half.
-2. Recommendations are strictly binding in all cases after Mohit Minerals (2022).
+1. Recommendations are strictly binding in all cases after Mohit Minerals (2022).
+2. Decisions need three-fourths weighted majority; quorum is half.
 3. Liquor stays outside GST; five petroleum items stay out until the Council decides otherwise.
 
-A. 1 and 3 only
-B. 1 and 2 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 3
+C. Only 2
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 3 are correct.
+**Ans: D.** 2 and 3 only are correct.
 
 **Logic:** Mohit Minerals held recommendations are not strictly binding.
 
@@ -2835,19 +2833,19 @@ D. 1 only
 
 **Q15.** With reference to Zonal Councils, which of the following statements is/are correct?
 
-1. The Union Home Minister chairs them.
-2. Uttar Pradesh sits in the Northern Zonal Council.
+1. Uttar Pradesh sits in the Northern Zonal Council.
+2. The Union Home Minister chairs them.
 3. There are five Zonal Councils.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 3 are correct.
+**Ans: A.** 2 and 3 only are correct.
 
 **Logic:** UP is in the Central Zonal Council with UK, MP, and Chhattisgarh.
 
@@ -2879,15 +2877,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Article 262 lets Parliament bar courts; the 1956 Act barred Article 131 for such disputes.
 3. The 2019 tribunal Bill is presently in force as the sole water-dispute statute.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** The 2019 Bill lapsed — do not treat it as in force.
 
@@ -2899,15 +2897,15 @@ D. 1, 2 and 3
 2. Private parties can routinely invoke Article 131.
 3. Full faith and credit across India is Article 261, not 131.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. 1 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 3 are correct.
+**Ans: A.** 1 and 3 only are correct.
 
 **Logic:** Private parties are out of 131.
 
@@ -2964,15 +2962,15 @@ D. 4-3-1-2
 2. Article 273 jute export-duty grants go to Assam, Bihar, Odisha, and West Bengal.
 3. A State indebted to the Centre needs Union consent to borrow further (Article 293).
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. Only 2 and 3
+B. Only 1
+C. 1 and 2
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** 276 ceiling + 273 States + 293 borrowing consent.
 
@@ -2999,9 +2997,9 @@ D. Neither 1 nor 2
 
 **Q23.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): Article 285 bars a State from taxing Union property.
+Assertion (A): Article 289 allows the Union to tax State property without any constitutional exception framework.
 
-Reason (R): Article 289 allows the Union to tax State property without any constitutional exception framework.
+Reason (R): Article 285 bars a State from taxing Union property.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -3011,9 +3009,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true, but (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** Union taxation of State property is restricted — 289 is not a free pass.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Union taxation of State property is restricted — 289 is not a free pass.
 
 </details>
 
@@ -3023,15 +3021,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Part XII carries the finance slice including Articles 264–293 territory.
 3. The 7th Schedule carries the three Lists.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. Only 1
+B. Only 1 and 2
+C. All 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** XI + XII + 7th Schedule frame.
 
@@ -3040,18 +3038,18 @@ D. 1 and 3 only
 **Q25.** Consider the following statements:
 
 1. During President’s Rule, Parliament can legislate on State List matters.
-2. Article 248 residuary taxation is a Union power.
-3. GST is best classified as a pure residuary Entry 97 tax.
+2. GST is best classified as a pure residuary Entry 97 tax.
+3. Article 248 residuary taxation is a Union power.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 3
+B. Only 2
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: A.** 1 and 3 only are correct.
 
 **Logic:** GST is Article 246A special power — not Entry 97.
 
@@ -3083,15 +3081,15 @@ D. None
 2. Article 265 — no tax without authority of law
 3. Article 301 — Fundamental Right to trade under Part III
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** 301 is not a Part III Fundamental Right.
 

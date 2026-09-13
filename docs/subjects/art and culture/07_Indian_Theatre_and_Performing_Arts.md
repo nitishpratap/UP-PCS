@@ -323,22 +323,22 @@ Koodiyattam is Sanskrit temple theatre of Kerala (UNESCO 2001/2008), not a class
 **Q1.** With reference to Natyashastra theatre theory, which of the following statements is/are correct?
 
 1. Bharata Muni’s Natyashastra codifies drama with about 10 rupaka and 9 rasa.
-2. Abhinavabharati is Abhinavagupta’s commentary on Natyashastra.
-3. Dasharupaka is Dhananjaya’s later summary of play types.
+2. Abhinavabharati is Kalidasa’s commentary on Natyashastra.
+3. Dasharupaka is Bharata’s original Natyashastra title, not a later summary.
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. 2 and 3
+B. Only 1
+C. Only 1 and 2
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three statements are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Four abhinaya also sit in the same theory stack.
+**Logic:** Abhinavabharati is Abhinavagupta’s commentary. Dasharupaka is Dhananjaya’s later summary of play types.
 
 </details>
 
@@ -375,15 +375,15 @@ D. 1, 2, 3 and 4
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. All 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three vocabulary matches are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** These are frequent one-line traps in match lists.
 
@@ -414,22 +414,20 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q5.** With reference to Koodiyattam, which of the following statements is/are correct?
 
 1. It is living Sanskrit theatre of Kerala’s Chakyar tradition.
-2. It uses the mizhavu drum.
+2. It uses the tabla as its main percussion instead of mizhavu.
 3. It is the ninth SNA classical dance.
 
-Select the correct answer from the code given below:
-
-A. 1 and 3 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. All 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: A.** Only 1 is correct.
 
-**Logic:** Koodiyattam is theatre (UNESCO 2001/2008), not a classical dance ninth.
+**Logic:** Koodiyattam uses the mizhavu drum. It is theatre (UNESCO), not a classical dance ninth.
 
 </details>
 
@@ -451,23 +449,21 @@ D. Nautanki — Kerala Sanskrit temple theatre identical with Koodiyattam
 
 **Q7.** With reference to Ramlila and Raslila, which of the following statements is/are correct?
 
-1. Ramlila of Ramnagar–Varanasi / Braj is UNESCO 2008.
-2. Raslila is the Braj Krishna folk play.
-3. Braj Raslila is identical with Manipuri classical Ras Lila.
+1. Braj Raslila is identical with Manipuri classical Ras Lila.
+2. Ramlila of Ramnagar–Varanasi / Braj is UNESCO 2008.
+3. Raslila is the Kerala Chakyar Sanskrit play identical with Koodiyattam.
 
-Select the correct answer from the code given below:
-
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. 1, 2 and 3
+C. Only 2
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: C.** Only 2 is correct.
 
-**Logic:** Manipuri classical Ras Lila is a separate dance-chapter fact.
+**Logic:** Raslila is the Braj Krishna folk play. Manipuri classical Ras Lila is a separate dance-chapter fact.
 
 </details>
 
@@ -564,15 +560,15 @@ D. Both are UNESCO ICH listings of 2010 only
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. All 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** These are the highest-yield UP theatre CA/history tags.
 
@@ -627,10 +623,10 @@ D. Ramlila of Ramnagar–Varanasi
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. Only 1 and 2
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -643,9 +639,9 @@ D. 1, 2 and 3
 
 **Q16.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
-Assertion (A): Sangeet Natak Akademi covers music, dance and theatre.
+Assertion (A): Sangeet Natak Akademi is a dance-only body founded in 1965.
 
-Reason (R): Sangeet Natak Akademi is a dance-only body founded in 1965.
+Reason (R): Sangeet Natak Akademi covers music, dance and theatre.
 
 Select the correct answer from the code given below:
 
@@ -657,9 +653,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true. (R) is false because SNA (1952) covers theatre as well.
+**Ans: B.** A false, R true.
 
-**A/R logic:** Year and scope traps often travel together.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Year and scope traps often travel together.
 
 </details>
 
@@ -671,15 +667,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. All 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three UNESCO theatre-related tags are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Keep them distinct from SNA classical dance lists.
 
@@ -729,17 +725,15 @@ D. They are the same as Lucknow Nautanki halls
 2. Ravana Chhaya is Odisha shadow puppetry.
 3. Kathputli is primarily a leather silhouette form of Kerala.
 
-Which of the statements given above is/are correct?
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** Kathputli is Rajasthan string marionette, often without carved legs.
 
@@ -805,17 +799,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Harshacharita as Harsha’s own drama
 3. Nagananda among Harsha’s plays
 
-Select the correct answer from the code given below:
-
-A. 1 and 3 only
-B. 1 and 2 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 2
+B. Only 2 and 3
+C. Only 1
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 3 are correct.
+**Ans: D.** 1 and 3 only are correct.
 
 **Logic:** Harshacharita is Banabhatta’s biography, not Harsha’s drama.
 
@@ -843,17 +835,15 @@ D. Bhavai — Jatra — Nautanki
 2. NSD was founded in 1959 at New Delhi.
 3. Both are identical with Sahitya Akademi’s literature wing.
 
-Select the correct answer from the code given below:
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. Only 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 2 only are correct.
 
 **Logic:** Sahitya Akademi is literature. SNA covers performing arts including theatre.
 
@@ -867,15 +857,15 @@ D. 1, 2 and 3
 
 Which of the statements given above are correct?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** Keep Ramman out of the UP exclusion mistakes.
 
@@ -905,15 +895,15 @@ D. Kalidasa — Indra Sabha of Lucknow 1853
 
 Select the correct answer from the code given below:
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 2 and 3
+C. 1 and 3
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three markers are correct.
+**Ans: D.** All three statements are correct.
 
 **Logic:** This is the highest-yield UP folk opera package.
 

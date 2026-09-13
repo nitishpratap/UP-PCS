@@ -7390,28 +7390,28 @@ D. Principal Secretary to the Prime Minister
 
 **Q1.** With reference to the President’s election, consider the following statements:
 1. Nominated members of Parliament do not vote in the Presidential election.
-2. Members of State Legislative Councils do not vote in the Presidential election.
-3. Elected MLAs of Delhi and Puducherry form part of the Electoral College.
+2. Members of State Legislative Councils vote in the Presidential election.
+3. Elected MLAs of Delhi and Puducherry are excluded from the Electoral College.
 
-A. 1 and 2 only
+A. Only 1 and 2
 B. 1, 2 and 3
-C. 2 and 3 only
-D. 1 and 3 only
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** All three statements are correct.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** Presidential college = elected MPs + elected State MLAs + Delhi/Puducherry elected MLAs; nominated MPs and MLCs out.
+**Logic:** Nominated MPs do not vote. MLCs do not vote. Elected MLAs of Delhi and Puducherry are part of the college.
 
 </details>
 
 **Q2.** Consider the following Assertion and Reason:
 
-Assertion (A): The Vice-President is ex-officio Chairman of the Rajya Sabha.
+Assertion (A): The Vice-President is a member of the Rajya Sabha.
 
-Reason (R): The Vice-President is a member of the Rajya Sabha.
+Reason (R): The Vice-President is ex-officio Chairman of the Rajya Sabha.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -7421,9 +7421,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true, but (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** Ex-officio Chairman is not membership of the House.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. Ex-officio Chairman is not membership of the House.
 
 </details>
 
@@ -7500,7 +7500,7 @@ D. 3 – 2 – 4 – 1
 
 **Q6.** With reference to impeachment of the President, which of the following is/are correct?
 1. Impeachment is for violation of the Constitution under Article 61.
-2. Nominated MPs can vote in impeachment.
+2. Nominated MPs cannot vote in impeachment proceedings.
 3. State MLAs take part in the impeachment voting in Parliament.
 
 A. 2 and 3 only
@@ -7511,15 +7511,15 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: C.** Only 1 is correct.
 
-**Logic:** State MLAs do not vote in impeachment.
+**Logic:** Impeachment is for violation of the Constitution under Article 61. Nominated MPs can vote in impeachment. State MLAs do not.
 
 </details>
 
 **Q7.** Consider the following statements about the Council of Ministers:
 1. Size is capped at 15% of the Lok Sabha by the 91st Amendment.
-2. Collective responsibility under Article 75(3) is to the Lok Sabha only.
+2. Collective responsibility under Article 75(3) is to both Houses equally for confidence votes.
 3. Cabinet Committees are expressly created by the Constitution.
 
 A. 2 and 3 only
@@ -7530,9 +7530,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Cabinet Committees are extra-constitutional practice.
+**Logic:** Size is capped at 15% of the Lok Sabha by the 91st Amendment. Collective responsibility is to the Lok Sabha only. Cabinet Committees are extra-constitutional practice.
 
 </details>
 
@@ -7558,7 +7558,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q9.** With reference to the Attorney General, which of the following is/are correct?
 1. Qualifications are those of a Supreme Court judge.
-2. He holds office during the pleasure of the President.
+2. He holds office for a fixed six-year term like a Supreme Court judge and cannot be removed at pleasure.
 3. He may speak in both Houses and can vote in either House.
 
 A. 2 and 3 only
@@ -7569,9 +7569,9 @@ D. 1 and 2 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** Only 1 and 2 are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** AG may speak but cannot vote.
+**Logic:** AG qualifications match a Supreme Court judge. He holds office during the pleasure of the President. He may speak but cannot vote.
 
 </details>
 
@@ -7713,15 +7713,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Lok Sabha agreement is required.
 3. Fourteen days’ notice is required.
 
-A. 1 and 2 only
-B. 1, 2 and 3
-C. 2 and 3 only
-D. 1 and 3 only
+A. All 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** All three statements are correct.
+**Ans: A.** All three statements are correct.
 
 **Logic:** VP removal is not labelled a full impeachment like Article 61.
 
@@ -7766,15 +7766,15 @@ D. Presidential resignation addressed to — Prime Minister
 2. Article 78 casts a duty on the Prime Minister to communicate information to the President.
 3. Individual ministers hold office during the pleasure of the President.
 
-A. 1, 2 and 3
-B. 1 and 2 only
-C. 2 and 3 only
-D. 1 and 3 only
+A. 1 and 2
+B. All 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** All three statements are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** 74 / 78 / 75(2) pleasure are core executive facts.
 
@@ -7818,9 +7818,9 @@ D. A-2, B-1, C-3, D-4
 
 **Q21.** Consider the following Assertion and Reason:
 
-Assertion (A): Nominated members of Parliament vote in the election of the Vice-President.
+Assertion (A): State legislatures take part in the election of the Vice-President.
 
-Reason (R): State legislatures take part in the election of the Vice-President.
+Reason (R): Nominated members of Parliament vote in the election of the Vice-President.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 B. (A) is false, but (R) is true
@@ -7830,9 +7830,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** (A) is true, but (R) is false.
+**Ans: B.** A false, R true.
 
-**A/R logic:** VP college is both Houses of Parliament including nominated members; States out.
+**A/R logic:** Swapped stem so false claim is Assertion; true claim is Reason. VP college is both Houses of Parliament including nominated members; States out.
 
 </details>
 
@@ -7860,15 +7860,15 @@ D. 1, 2 and 3
 2. Disputes relating to Presidential election go to the Supreme Court under Article 71.
 3. Oath of the President is before the Chief Justice of India.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. 1, 2 and 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Proposers/seconders, Art. 71, and CJI oath are Must-Score.
 
@@ -7913,15 +7913,15 @@ D. Kitchen Cabinet — political practice, not a constitutional office
 2. She took office on 25 July 2022.
 3. She is the first tribal President and the second woman President.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 2 and 3
-D. 1 and 3 only
+A. 1 and 2
+B. 1, 2 and 3
+C. Only 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** All three statements are correct.
+**Ans: B.** All three statements are correct.
 
 **Logic:** Current-affairs Must-Score on Union Executive.
 
@@ -7971,15 +7971,15 @@ D. All three
 2. Pocket veto is identical to the USA qualified veto.
 3. Absolute and suspensive vetoes are also part of the Indian veto map.
 
-A. 1 and 3 only
-B. 1 and 2 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1 and 3
+B. Only 1
+C. Only 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 3 are correct.
+**Ans: A.** 1 and 3 only are correct.
 
 **Logic:** Qualified veto is the USA device India does not have.
 

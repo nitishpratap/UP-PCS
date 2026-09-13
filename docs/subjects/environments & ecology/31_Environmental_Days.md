@@ -518,20 +518,20 @@ D. 29 July (International Tiger Day)
 **Q1.** With reference to environmental days, which of the following statements is/are correct?
 
 1. World Wetlands Day — 2 February (Ramsar 1971).
-2. World Wildlife Day — 3 March (CITES 1973).
+2. World Wildlife Day — 3 March (CITES adoption anniversary).
 3. World Wildlife Day — 22 March.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2.
+**Ans: C.** Only 1 and 2 are correct.
 
-**Logic:** 22 March is Water — not Wildlife.
+**Logic:** Wetlands Day is 2 February; Wildlife Day is 3 March (CITES). Statement 3 is the Water Day trap (22 March).
 
 </details>
 
@@ -561,21 +561,21 @@ D. A-3, B-1, C-2
 
 **Q3.** Which of the following pairs is/are correctly matched?
 
-1. International Day of Forests — 21 March
-2. World Environment Day — 5 June
+1. International Day of Forests is observed on 22 May.
+2. World Environment Day is observed on 22 April.
 3. World Ozone Day — 16 September
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2
+B. Only 3
+C. Only 1
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three.
+**Ans: B.** Only 3 is correct.
 
-**Logic:** Forests / WED / Ozone.
+**Logic:** Statement 3 is true (Ozone Day 16 September). Statement 1 is false — Forests Day is 21 March. Statement 2 is false — WED is 5 June (22 April is Earth Day).
 
 </details>
 
@@ -791,7 +791,7 @@ D. 19 November (UN from 2013)
 
 </details>
 
-**Q15.** How many of the following same-number locks are correct?
+**Q15.** How many of the following same-number facts are correct?
 
 22 Mar Water; 22 Apr Earth; 22 May Biodiversity
 
@@ -905,7 +905,7 @@ D. Montreal 1987 only
 
 **Ans: A.** UNGA 2012; 21 March.
 
-**Logic:** Forests Day lock.
+**Logic:** Forests Day fact.
 
 </details>
 

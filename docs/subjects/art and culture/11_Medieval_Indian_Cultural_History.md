@@ -906,21 +906,21 @@ D. (A) is false, but (R) is true
 
 **Q1.** With reference to Mughal painting patronage, which of the following statements is/are correct?
 
-1. Humayun brought Persian masters Mir Sayyid Ali and Abdus Samad.
-2. Akbar developed the kitabkhana and illustrated projects such as the Razmnama.
-3. Jahangir’s court favoured a retreat from naturalism toward purely abstract designs only.
+1. Jahangir’s court favoured a retreat from naturalism toward purely abstract designs only.
+2. Humayun brought Persian masters Mir Sayyid Ali and Abdus Samad.
+3. Akbar rejected the kitabkhana and banned illustrated projects such as the Razmnama.
 
-A. 2 and 3 only
-B. 1 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. Only 3
+B. Only 2
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: B.** Only 2 is correct.
 
-**Logic:** Jahangir favoured naturalism under painters such as Mansur.
+**Logic:** Jahangir favoured naturalism under painters such as Mansur. Akbar developed the kitabkhana and illustrated projects such as the Razmnama.
 
 </details>
 
@@ -934,15 +934,15 @@ D. 1, 2 and 3
 
 Which of the pairs given above is/are correctly matched?
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. All 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only pairs 1 and 2 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** Taj Mahal is Shah Jahan’s tomb at Agra. Fatehpur Sikri is Akbar’s planned capital.
 
@@ -1007,30 +1007,30 @@ D. 2-4-3-1
 **Q6.** With reference to language under the early Mughals, which of the following statements is/are correct?
 
 1. Babur wrote his memoir in Chagatai Turki.
-2. The Mughal court language was Persian.
+2. The Mughal court language was only Hindavi from Babur’s reign onward.
 3. Persian was only Babur’s personal memoir tongue and never the court language.
 
-A. 1 and 3 only
-B. 1 and 2 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. 1 and 2
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: B.** Only 1 is correct.
 
-**Logic:** Turki memoir versus Persian court language must not be swapped.
+**Logic:** The Mughal court language was Persian. Turki memoir versus Persian court language must not be swapped.
 
 </details>
 
 **Q7.** Match List-I with List-II and select the correct answer using the code given below the Lists.
 
-**List-I**
-A. 2 1 3 4
-B. 1 2 4 3
-C. 2 1 4 3
-D. 2 4 1 3
+**List-I (Work)**
+A. Akbarnama
+B. Ain-i-Akbari
+C. Tutinama
+D. Ramcharitmanas
 
 **List-II**
 1. Abul Fazl’s gazetteer companion
@@ -1057,20 +1057,20 @@ D. 2 4 1 3
 **Q8.** With reference to land and revenue terms, which of the following statements is/are correct?
 
 1. Iqta assigned revenue to a muqti to raise troops.
-2. Khalsa was crown land under direct state control.
+2. Khalsa was land permanently alienated to temples only.
 3. A jagir is identical to Khalsa because both mean direct treasury land.
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. 1 and 2
+B. Only 3
+C. 2 and 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: D.** Only 1 is correct.
 
-**Logic:** Jagir is a revenue assignment. Khalsa is direct crown land.
+**Logic:** Khalsa was crown land under direct state control. Jagir is a revenue assignment, not identical to Khalsa.
 
 </details>
 
@@ -1114,18 +1114,18 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 **Q11.** With reference to Akbar’s religious measures, which of the following statements is/are correct?
 
 1. Ibadat Khana debates began at Fatehpur Sikri in 1575.
-2. Akbar abolished jizya in 1564.
-3. The Mahzar of 1579 denied Akbar any role in religious disputes.
+2. The Mahzar of 1579 denied Akbar any role in religious disputes.
+3. Akbar abolished jizya in 1564.
 
-A. 2 and 3 only
-B. 1 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+A. Only 1 and 2
+B. Only 2 and 3
+C. 1 and 3
+D. All 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Only 1 and 2 are correct.
+**Ans: C.** 1 and 3 only are correct.
 
 **Logic:** The Mahzar asserted Akbar’s authority in religious disputes.
 
@@ -1141,15 +1141,15 @@ D. 1, 2 and 3
 
 Which of the pairs given above is/are correctly matched?
 
-A. 2 and 3 only
-B. 1 and 2 only
-C. 1 and 3 only
+A. 1 and 2
+B. Only 2 and 3
+C. 1 and 3
 D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only pairs 1 and 2 are correct.
+**Ans: A.** 1 and 2 only are correct.
 
 **Logic:** The original mansab system was not hereditary.
 
@@ -1158,10 +1158,10 @@ D. 1, 2 and 3
 **Q13.** Match List-I with List-II and select the correct answer using the code given below the Lists.
 
 **List-I (Tomb)**
-A. 1 2 4 3
-B. 2 1 3 4
-C. 2 1 4 3
-D. 2 4 1 3
+A. Babur
+B. Humayun
+C. Jahangir
+D. Shah Jahan (Taj)
 
 **List-II (Place)**
 1. Delhi
@@ -1188,18 +1188,18 @@ D. 2 4 1 3
 **Q14.** With reference to Uttar Pradesh medieval architecture, which of the following statements is/are correct?
 
 1. Jaunpur Sharqi work includes Atala Masjid and Lal Darwaza.
-2. Fatehpur Sikri holds Buland Darwaza and the Ibadat Khana.
-3. Alai Darwaza is a Sharqi Jaunpur monument of eastern UP.
+2. Alai Darwaza is a Sharqi Jaunpur monument of eastern UP.
+3. Fatehpur Sikri holds Buland Darwaza and the Ibadat Khana.
 
-A. 1 and 3 only
-B. 1 and 2 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 2
+B. 2 and 3
+C. Only 1
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 3 only are correct.
 
 **Logic:** Alai Darwaza is Alauddin Khalji’s gateway at the Qutub complex.
 
@@ -1231,18 +1231,18 @@ D. 2-4-1-3
 **Q16.** With reference to Navaratna and court culture, which of the following statements is/are correct?
 
 1. Tansen came to Akbar’s court from Ramchandra of Bhata.
-2. Todar Mal is linked with revenue administration.
-3. Faizi was only a painter of Mansur’s atelier and never a court poet.
+2. Faizi was only a painter of Mansur’s atelier and never a court poet.
+3. Todar Mal is linked with revenue administration.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2
+B. Only 2 and 3
+C. Only 1
+D. 1 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 3 only are correct.
 
 **Logic:** Faizi was the court poet. Mansur is a Jahangir-age naturalist painter fact.
 
@@ -1287,15 +1287,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. It holds Buland Darwaza and the Ibadat Khana.
 3. It is the site of Shah Jahan’s Taj Mahal.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. 2 and 3
+B. 1 and 3
+C. Only 1, 2 and 3
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** Taj Mahal is at Agra, not Fatehpur Sikri.
 
@@ -1303,19 +1303,19 @@ D. 1, 2 and 3
 
 **Q20.** Consider the following statements about mansab:
 
-1. Zat ranks the man’s personal status.
-2. Sawar ranks the horsemen he must maintain.
-3. High zat with low sawar never appears as a historical pattern.
+1. High zat with low sawar never appears as a historical pattern.
+2. Zat ranks the man’s personal status.
+3. Sawar ranks the horsemen he must maintain.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. 1 and 2
+C. Only 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 2 and 3 only are correct.
 
 **Logic:** High zat with low sawar is a classic trap pattern in teaching.
 
@@ -1353,19 +1353,19 @@ D. 2 4 1 3
 
 **Q22.** With reference to Jaunpur, which of the following statements is/are correct?
 
-1. Sharqi architecture is a regional Sultanate style of eastern UP.
-2. Atala Masjid is a Jaunpur Sharqi landmark.
-3. Jaunpur Sharqi style is identical to Delhi Slave–Khalji architecture.
+1. Jaunpur Sharqi style is identical to Delhi Slave–Khalji architecture.
+2. Sharqi architecture is a regional Sultanate style of eastern UP.
+3. Atala Masjid is a Jaunpur Sharqi landmark.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 2 and 3
+B. Only 1
+C. Only 1 and 3
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: A.** 2 and 3 only are correct.
 
 **Logic:** Sharqi Jaunpur is regional, not Delhi Slave or Khalji.
 
@@ -1390,18 +1390,18 @@ D. Mahzar 1579 — abolition of the mansab system
 **Q24.** With reference to literature in Akbar’s age, which of the following statements is/are correct?
 
 1. Tulsidas wrote the Awadhi Ramcharitmanas.
-2. Abul Fazl wrote both Akbarnama and Ain-i-Akbari.
-3. Baburnama was originally composed in Persian as the court memoir tongue of Babur.
+2. Baburnama was originally composed in Persian as the court memoir tongue of Babur.
+3. Abul Fazl wrote both Akbarnama and Ain-i-Akbari.
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. Only 3
+B. Only 1 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 1 and 3 only are correct.
 
 **Logic:** Babur’s memoir tongue is Chagatai Turki.
 
@@ -1430,15 +1430,15 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Fatehpur Sikri is associated with Akbar.
 3. Taj Mahal is associated with Shah Jahan at Agra.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1
+B. Only 1 and 2
+C. Only 1, 2 and 3
+D. 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** All three statements are correct.
+**Ans: C.** All three statements are correct.
 
 **Logic:** Humayun’s Tomb → Fatehpur Sikri → Taj is the Mughal spine.
 
@@ -1454,15 +1454,15 @@ D. 1, 2 and 3
 
 Which of the pairs given above is/are correctly matched?
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. Only 1, 2 and 3
+B. Only 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only pairs 1 and 2 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** Sulh-i-kul is public peace. Din-i-Ilahi is private fellowship.
 
@@ -1474,15 +1474,15 @@ D. 1, 2 and 3
 2. Kavindra Acharya of Banaras — linked to Shah Jahan’s court culture
 3. Babur’s tomb — Agra Fort complex
 
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2 and 3 only
-D. 1, 2 and 3
+A. All 1, 2 and 3
+B. Only 2 and 3
+C. Only 1
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: D.** 1 and 2 only are correct.
 
 **Logic:** Babur’s tomb is at Kabul.
 
@@ -1490,19 +1490,19 @@ D. 1, 2 and 3
 
 **Q29.** With reference to painting after the imperial atelier shifted, which of the following statements is/are correct?
 
-1. Medieval painting moved from Sultanate book-art into the Mughal kitabkhana.
-2. Later currents reached Rajput and Pahari courts as imperial patronage shifted.
-3. Aurangzeb’s reign is remembered for expanding the imperial atelier to its largest size permanently.
+1. Aurangzeb’s reign is remembered for expanding the imperial atelier to its largest size permanently.
+2. Medieval painting moved from Sultanate book-art into the Mughal kitabkhana.
+3. Later currents reached Rajput and Pahari courts as imperial patronage shifted.
 
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+A. All 1, 2 and 3
+B. 2 and 3
+C. Only 1
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A.** Only 1 and 2 are correct.
+**Ans: B.** 2 and 3 only are correct.
 
 **Logic:** Under Aurangzeb many painters left the imperial atelier.
 
