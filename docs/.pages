@@ -1,5 +1,6 @@
 nav:
   - Home: index.md
+  - Error Tracker: error-tracker.md
   - Subject Notes: subjects
   - UKPCS: ukpcs
   - Fact Locks: fact-locks

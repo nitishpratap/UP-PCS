@@ -14,6 +14,7 @@ Shared national GS for **UPPCS** and **UKPCS**. State-only syllabus sits under e
 
 [Start Prelims Analysis](prelims-analysis/index.md){ .md-button .md-button--primary }
 [UKPCS Desk](ukpcs/index.md){ .md-button .md-button--primary }
+[🎯 Error Tracker](error-tracker.md){ .md-button .md-button--primary }
 [Open Subject Notes](subjects/index.md){ .md-button }
 [Current Affairs](current-affairs/index.md){ .md-button }
 [Fact Locks](fact-locks/index.md){ .md-button }
@@ -25,6 +26,9 @@ Shared national GS for **UPPCS** and **UKPCS**. State-only syllabus sits under e
 ## Start Here
 
 <div class="study-grid" markdown>
+
+[**:material-target: Error & Gap Tracker**
+<span>Directly log and review pre-test errors, traps, and factual slips in Notion.</span>](error-tracker.md){ .study-card }
 
 [**:material-chart-box-outline: Prelims Analysis**
 <span>Best first stop for UPPCS heat maps. UKPCS overview placeholder until PYQs are pasted.</span>](prelims-analysis/index.md){ .study-card }
