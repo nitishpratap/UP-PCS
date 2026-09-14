@@ -1,217 +1,158 @@
 # Topic 2 — Parmar (Panwar) Dynasty of Garhwal
 
-### ★ UKPCS state card (Unit 1)
+### ★ UKPCS state card (Unit 1 — History and Culture of Uttarakhand)
 
-> **Sources:** Garhwal chronicle tradition, UKPCS 2025 painting and Fateh Shah stems.  
-> **Also carries:** Garhwal painting / Tasbirdar origin (UKPCS 2025 Q85).  
-> **Pair with:** [Kattyuri](01_Kattyuri_Dynasty.md) · Modern UK for later Tehri / Gorkha chapters.
+> **Sources:** Garhwal chronicle tradition, Atkinson’s Himalayan Gazetteer, Dr. Ajay Rawat's *History of Garhwal*, UKPCS PYQ stems (1658 Tasbirdar, Fateh Shah village grants, Ajay Pal 52 Garhs, Rani Karnavati).  
+> **Pair with:** [Kattyuri Dynasty](01_Kattyuri_Dynasty.md) · [Chand Dynasty of Kumaon](03_Chand_Dynasty_of_Kumaon.md) · [Tehri Estate](../../mordern%20india/uttarakhand/03_Tehri_Estate.md)
 
 ---
 
 ## Quick Revision — Spine Only
 
-| Head | Key |
-|------|-----|
-| House | **Parmar / Panwar** of Garhwal |
-| Founder tradition | **Kanakpal** (from Malwa Parmara line in legends) at **Chandpur / Chandpurgarh** |
-| Unifier | **Ajay Pal** consolidates about **52 garhis** (fort-principalities) |
-| Classic capital | **Srinagar (Garhwal)** under the consolidated kingdom |
-| Name of land | Region of many **garhs** → **Garhwal** |
-| Painting origin | **Shyamdas & Hardas**, May **1658**, court of **Prithvipati Shah**, post of **Tasbirdar** |
-| Later fame | **Mola Ram** line continues Garhwal miniature school |
-| Sacred bridge | **Fateh Shah** invites **Guru Ram Rai**; Dehradun darbar tradition |
+| Head | Key Fact |
+| :--- | :--- |
+| **Dynasty Name** | **Parmar / Panwar** of Garhwal (claimed origin: Malwa Parmars) |
+| **Founder Tradition** | **Kanakpal** (888 CE legend) at **Chandpur / Chandpurgarh** (Chamoli) |
+| **Unifier (52 Garhs)** | **Ajay Pal** (37th ruler) — shifted capital to **Dewalgarh (1512)** then **Srinagar (1517)** |
+| **Standard Measurement** | **Dhulia Patha** (grain measure of approx. 2 seers) introduced by Ajay Pal |
+| **First "Shah" Title** | **Balbhadra Shah** (43rd ruler) — title awarded by Delhi Sultans (Bahlol Lodi contacts) |
+| **The "Garh-Bhanjan"** | **Mahipat Shah** — Tibet expeditions; commanders Madho Singh Bhandari & Lodi Rikhola |
+| **"Nakkati Rani"** | **Rani Karnavati** (regent for son Prithvipati Shah) — cut noses of Mughal general **Najabat Khan's** army (1635) |
+| **Painting Origin (1658)** | **Shyamdas & Hardas** arrived May 1658 with **Sulaiman Shikoh**; post of **Tasbirdar** under **Prithvipati Shah** |
+| **Later Painting Master** | **Mola Ram** (poet, painter, historian — wrote *Garh-Rajvansh Kavya*) |
+| **Fateh Shah & Sikhs** | Invited **Guru Ram Rai** (1676); granted 4 villages: **Khurbura, Rajpur, Chamasari, Dhamawala**; Battle of Bhangani (1688) with Guru Gobind Singh |
+| **Dual Crown King** | **Pradyumna Shah** — ruled Kumaon as *Pradyumna Chand*, then returned to Garhwal |
+| **Last Independent Ruler** | **Pradyumna Shah** died fighting Gorkhas at **Battle of Khudbuda (Dehradun)** on **14 May 1804** |
 
 ---
 
-## Must-Score Facts
+## Must-Score Facts (High-Yield UKPCS)
 
-1. Ajay Pal = 52 garhis unifier.
-2. Srinagar (Garhwal) = classic consolidated capital.
-3. Kanakpal = founder tradition at Chandpur.
-4. 1658 + Prithvipati Shah + Shyamdas/Hardas + Tasbirdar.
-5. Mola Ram continues the school later.
-6. Fateh Shah invites Guru Ram Rai; village set is Khurbura–Rajpur–Chamasari–Dhamawala.
-
----
-
-## Confused Pairs
-
-| Pair | Key |
-|------|-----|
-| Kanakpal vs Ajay Pal | Founder tradition vs **unifier of 52 garhis** |
-| Srinagar (Garhwal) vs Srinagar (Kashmir) | Hill capital of Parmars ≠ Kashmir city |
-| Parmar of Garhwal vs Parmar of Malwa | Hill kingdom claims Malwa Parmara origin; do not relocate the capital to Dhar |
-| Tasbirdar vs mansabdar | Court **painter** post ≠ Mughal mansab rank |
-| Fateh Shah vs Ajay Pal | Early-modern sacred/Dehradun card vs medieval unifier |
-| Garhwal painting vs Kangra only | Origin card is **1658 Tasbirdar** line; Kangra contacts come later |
+1. **Ajay Pal:** Unified 52 scattered principalities (Garhs), compared to Ashoka/Napoleon; follower of Gorakhnath sect; established measurement standard **Dhulia Patha**.
+2. **Chandpur Garh → Dewalgarh → Srinagar:** Capital movement chronology (Chandpurgarh founder seat → Dewalgarh 1512 → Srinagar 1517).
+3. **Mughal Clash (1635):** Rani Karnavati defeated Shah Jahan’s general Najabat Khan in the Doon valley (hence *Nakkati Rani*).
+4. **1658 Sulaiman Shikoh Refuge:** Eldest son of Dara Shikoh sheltered by Prithvipati Shah; brought Mughal court painters Shyamdas & Hardas (*Tasbirdars*). Medini Shah later betrayed him to Aurangzeb.
+5. **Fateh Shah's Court:** Contemporary of Aurangzeb; patronised *Navratnas* (court poets like Matiram, Jatadhar, Ratan Kavi).
+6. **Battle of Bhangani (1688):** Fought between Fateh Shah and Guru Gobind Singh near Paonta Sahib (recorded in Guru Gobind Singh’s *Bichitra Natak*).
+7. **Madho Singh Bhandari:** Mahipat Shah’s general; famous for constructing the **Maletha Canal** (Kuhl) through a mountain by sacrificing his son Gajendra.
 
 ---
 
-## 2.1 From many garhs to one kingdom
+## Chronological Ruler Guide & Significant Milestones
 
-### Causes / setting
-
-- Before consolidation, Garhwal is remembered as a land of many small **thakuri / garhi** chiefs.
-- Constant local rivalry and the need for a single hill court create the setting for a unifier king.
-
-### Course
-
-- Legend places **Kanakpal**, a Parmara prince linked to Malwa, as the founder who marries into the Chandpur house and begins the Panwar line at **Chandpur / Chandpurgarh**.
-- Coaching dates for Kanakpal vary (often **888 CE** at Chandpurgarh in UKPSC notes; some lists print earlier centuries). Prefer the **founder + Chandpur** identity over fighting the year unless the stem prints one.
-- **Ajay Pal** later consolidates about **52 principalities (garhis)** into one Garhwal kingdom.
-- He makes **Srinagar (Garhwal)** the political centre of the consolidated state.
-
-### Results
-
-- The land of many garhs becomes remembered as **Garhwal**.
-- Srinagar (Garhwal) becomes the classic consolidated capital for Prelims.
-- The house later carries court culture, painting, and sacred Dehradun geography into the early modern age.
-
----
-
-## 2.2 Ajay Pal and Srinagar
-
-- **Ajay Pal** is the standard answer for the king who **united about 52 garhis**.
-- Do not give that unification card to **Kanakpal** — Kanakpal is the founder tradition.
-- **Srinagar (Garhwal)** is not the Kashmir city of the same name.
-- This unification card is a frequent UKPSC / UKSSSC pattern.
+| King (# / Reign) | Key Contributions & Prelims Hooks |
+| :--- | :--- |
+| **Kanakpal** (1st) | Founded dynasty at Chandpur Garh (Chamoli) after marrying daughter of chief Bhanu Pratap. |
+| **Ajay Pal** (37th, c. 1500–1519) | Consolidated 52 independent garhs. Shifted seat to Dewalgarh (1512), then Srinagar (1517). Devotee of Rajrajeshwari and Gorakhnath; introduced uniform grain measure **Dhulia Patha**. |
+| **Sahajpal** (42nd) | Contemporary of Mughal Emperor Akbar; Bell inscription at Raghunath Temple, Devprayag (1561). |
+| **Balbhadra Shah** (43rd) | First ruler to permanently use the royal surname **Shah** (replacing *Pal*). |
+| **Man Shah** (44th) | Contemporary of Akbar/Jahangir. Poet Bharat wrote *Manodaya Kavya*. Defeated Kumaon's Laxmi Chand in multiple border skirmishes. Founded town of *Manpur*. |
+| **Shyam Shah** (45th) | Visited Jahangir at Agra (1621), mentioned in *Tuzuk-i-Jahangiri* (gifted horses/elephants). Died childless; 60 queens committed Sati. |
+| **Mahipat Shah** (46th, 1622–1631) | Titled **Garh-Bhanjan** (Fort Destroyer). Invaded Western Tibet (Chaparang/Daba). Legendary commanders: **Madho Singh Bhandari**, **Lodi Rikhola**, **Banwari Das**. Stopped Kumaon king Trimal Chand. |
+| **Rani Karnavati** (Regent, 1631–1640) | Wife of Mahipat Shah, regent for minor prince Prithvipati Shah. Defeated Shah Jahan's Mughal invasion led by Najabat Khan (1635) — severed noses of survivors (*Nakkati Rani*). Built *Karanpur* canal and village in Dehradun. |
+| **Prithvipati Shah** (47th) | Sheltered Prince Sulaiman Shikoh (May 1658). Appointed Shyamdas and Hardas as royal *Tasbirdars* (laid foundation of Garhwal School of Painting). |
+| **Medini Shah** (48th) | Opposed father Prithvipati Shah; surrendered Sulaiman Shikoh to Jai Singh (for Aurangzeb). Disowned by father. |
+| **Fateh Shah** (49th, 1684–1716) | "Golden Age" of culture. Maintained *Navratnas*. Invited Sikh Guru Ram Rai to establish Dera/Gurudwara at Dehradun (1676) with 4 villages (**Khurbura, Rajpur, Chamasari, Dhamawala**). Fought Battle of Bhangani (1688) with Guru Gobind Singh. |
+| **Pradeep Shah** (1717–1772) | Long peaceful reign. Helped Kumaon's Kalyan Chand IV against the Rohilla invasion (Ali Muhammad Khan, 1744–45) by paying 3 lakh rupees tribute. |
+| **Lalit Shah** (1772–1780) | Defeated Kumaon king Mohan Chand at **Battle of Bagwali Pokhar (1779)** on invitation of Harsh Dev Joshi; placed son Pradyumna on Kumaon throne as *Pradyumna Chand*. |
+| **Jayakrit Shah** | Succeeded Lalit Shah in Garhwal; brotherly civil war with Pradyumna; died young. |
+| **Pradyumna Shah** (54th, 1785–1804) | Abandoned Kumaon to reclaim Garhwal throne. Faced severe famine of 1795 (*Ekanni/Baoni famine*) and massive Garhwal earthquake (1803). Died heroically at **Battle of Khudbuda (Dehradun)** on **14 May 1804** fighting Gorkha forces under Amar Singh Thapa. |
 
 ---
 
-## 2.3 Court culture — Garhwal painting
+## Administrative & Revenue System of Parmar Garhwal
 
-**Garhwal school | Srinagar | from 1658**
+```
+[King / Maharaja]
+       │
+[Mukhtiyar / Wazir / Chautariya] (Prime Minister)
+       │
+[Diwan] (Chief Financial & Revenue Officer)
+       │
+[Daftari / Bakshi] (Record keeper / Military paymaster)
+       │
+[Negi / Thokdar / Kameen / Sayana] (Hereditary revenue collectors across Patti/Pargana)
+       │
+[Pradhan / Gaon Mukhiya] (Village headman)
+```
 
-### Causes
-
-- Mughal succession turmoil after Shah Jahan sends princely refugees into the hills.
-- Garhwal kings keep an art-loving court open to painter families.
-
-### Course
-
-- In **May 1658**, painters **Shyamdas** and his son **Hardas** reach Srinagar with the Mughal prince **Sulaiman Shikoh**, who takes shelter with **Prithvipati Shah**.
-- They receive the court post of **Tasbirdar** (picture-maker / painter).
-- Their descendants develop the **Garhwal miniature** style.
-
-### Results
-
-- **Mola Ram** becomes the best-known later master of the Garhwal school.
-- Later Kangra–Guler contacts deepen the pahari idiom — keep that as enrichment, not the 1658 origin stem.
-
----
-
-## 2.4 Fateh Shah and Guru Ram Rai
-
-- **Fateh Shah** of Garhwal invites **Guru Ram Rai** and supports the **Jhanda Sahib** darbar tradition at Dehradun.
-- Village-grant lists in coaching notes usually name **Khurbura, Rajpur, Chamasari, and Dhamawala**.
-- Do not accept the four-name distractor set **Chhayawala, Bhujanwala, Panditwari, Ghantawala** used in UKPCS 2025 statement 3.
-- This card bridges Parmar Garhwal into early modern Dehradun sacred geography and later Tehri / colonial chapters.
+### Administrative Nomenclature & Units
+- **Pargana / Garh:** Kingdom was divided into traditional *Parganas* or fortified divisions (*Garhs*).
+- **Patti:** Sub-division of a Pargana, comprising a cluster of villages under a *Thokdar* or *Sayana*.
+- **Dhulia Patha:** The official wooden grain-measuring vessel standardized by Ajay Pal, enforced to eliminate merchant cheating in grain revenue.
+- **Land Types:**
+  - *Talaon:* Irrigated low-lying valley land (highest revenue yield).
+  - *Upraon:* Unirrigated terraced upland (dependent on rainfall).
+  - *Ijran / Katil:* Steep, stony bush land cultivated periodically.
 
 ---
 
-## UKPCS Inline PYQs
+## Art & Architecture: The Garhwal Miniature Painting School
 
-**UKPCS Prelims 2025, Q85**
+- **Origin Event:** In **May 1658**, Mughal Prince Sulaiman Shikoh sought asylum in Srinagar. Accompanying him were two master imperial artists: **Shyamdas** and his son **Hardas**.
+- **The Title:** Prithvipati Shah gave them hereditary court status as **Tasbirdar** (painters).
+- **Lineage Evolution:**
+  $$\text{Shyamdas} \longrightarrow \text{Hardas} \longrightarrow \text{Hiralal} \longrightarrow \text{Mangatram} \longrightarrow \text{Mola Ram (1743–1833)}$$
+- **Mola Ram:** Greatest luminary of the Garhwal School.
+  - Triple identity: Poet, Painter, and Political Historian.
+  - Works: *Garh-Rajvansh Kavya*, *Manmath Sagar*, *Ritu Varnan*.
+  - Paintings: *Mayankmukhi*, *Chandramukhi*, *Utkanthita Nayika*, *Mastani*.
+- **Modern Discovery:** Discovered and brought to international art fame by **Barrister Mukandi Lal** through his classic 1968 publication *Garhwal Painting*.
 
-With reference to the Garhwal painting style, consider the statements:
+---
 
-1. Shyamdas and Hardas came to Srinagar in May 1658 in the court of Prithivipati Shah.  
-2. They got the post of ‘Tasbirdaar’ in the court of the art-loving Garhwal kings.
+## Confused Pairs & Common Traps
 
+| Confused Pair | Critical Distinction |
+| :--- | :--- |
+| **Kanakpal vs Ajay Pal** | Kanakpal is the **legendary founder** (Chandpurgarh); Ajay Pal is the **great unifier of 52 Garhs** (Srinagar). |
+| **Dewalgarh vs Srinagar** | Ajay Pal first moved seat from Chandpur to Dewalgarh (1512), then permanently to Srinagar (1517). |
+| **Rani Karnavati vs Tilu Rauteli** | Rani Karnavati = Parmar Queen regent / *Nakkati Rani* (1635 Mughal clash); Tilu Rauteli = 17th-century Garhwali folk warrior heroine fighting Katyuris/Rohillas. |
+| **Battle of Bhangani vs Battle of Khudbuda** | Bhangani (1688) = Fateh Shah vs Guru Gobind Singh; Khudbuda (1804) = Pradyumna Shah vs Gorkha army (Gorkha takeover). |
+| **Fateh Shah village grants** | True set: **Khurbura, Rajpur, Chamasari, Dhamawala**. Trap distractors: *Chhayawala, Bhujanwala, Panditwari*. |
+
+---
+
+## UKPCS Inline & Practice Questions
+
+**Q1 (UKPCS Prelims 2025, Q85).** With reference to the Garhwal painting style, consider the statements:
+1. Shyamdas and Hardas came to Srinagar in May 1658 in the court of Prithvipati Shah.  
+2. They got the post of ‘Tasbirdar’ in the court of the art-loving Garhwal kings.  
+*Which of the statements given above is/are correct?*  
 A. Only 1  
 B. Only 2  
-C. 1 and 2  
-D. None of the above  
+C. Both 1 and 2  
+D. Neither 1 nor 2  
+*Answer:* **C** (Both statements are historically verified).
 
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Origin card for Garhwal miniatures — painter pair, year, king, and Tasbirdar post.
-
-**Ans: C (Series B provisional key).** Both statements are correct. The painters stayed as royal Tasbirdars and founded the Garhwal miniature line that later includes Mola Ram.
-
-</details>
-
-**UKPCS Prelims 2025, Q81**
-
-Consider the following statements:
-
-1. Parmar king Fateh Shah invited Guru Ram Rai to his kingdom.
-2. He welcomed the construction of a Gurudwara at Dehradun.
-3. He presented four villages — Chhayawala, Bhujanwala, Panditwari and Ghantawala — to him.
-
+**Q2 (UKPCS Prelims 2025, Q81).** Consider the following statements:
+1. Parmar king Fateh Shah invited Guru Ram Rai to his kingdom.  
+2. He welcomed the construction of a Gurudwara at Dehradun.  
+3. He presented four villages — Chhayawala, Bhujanwala, Panditwari and Ghantawala — to him.  
+*Which of the statements given above are correct?*  
 A. Only 2  
 B. Only 3  
 C. 1 and 2  
 D. 2 and 3  
+*Answer:* **C** (Statement 3 is false; the correct granted villages were Khurbura, Rajpur, Chamasari, and Dhamawala).
 
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Invitation and darbar are true; statement 3 plants the wrong village set.
-
-**Ans: C (Series B provisional key).** Statements 1 and 2 are correct. Statement 3 uses the wrong village set; standard lists give Khurbura, Rajpur, Chamasari and Dhamawala.
-
-</details>
-
----
-
-## Practice Zone
-
-**Q1.** Who among the Parmar kings is credited with consolidating about 52 garhis of Garhwal?
-
+**Q3.** Who among the following Parmar rulers introduced the standard grain measure called ‘Dhulia Patha’?  
 A. Kanakpal  
 B. Ajay Pal  
-C. Sudarshan Shah  
-D. Narendra Shah  
+C. Mahipat Shah  
+D. Prithvipati Shah  
+*Answer:* **B** (Ajay Pal standardized revenue measurements).
 
-<details>
-<summary>Show answer</summary>
+**Q4.** The Mughal army of Najabat Khan was famously defeated and disfigured by which Garhwal ruler/regent in 1635?  
+A. Rani Karnavati  
+B. Rani Guleria  
+C. Rani Nepalia  
+D. Rani Binduli  
+*Answer:* **A** (Rani Karnavati, earning the moniker *Nakkati Rani*).
 
-**Logic:** Founder versus unifier trap.
-
-**Ans: B.** Ajay Pal is the consolidation / 52-garhi card. Kanakpal is the founder tradition.
-
-</details>
-
-**Q2.** Which pairing is correct?
-
-A. Srinagar of the Parmars — Kashmir valley capital  
-B. Tasbirdar — Mughal mansab rank of 5000  
-C. Shyamdas and Hardas — painters at Prithvipati Shah’s court in 1658  
-D. Ajay Pal — founder of the Chand dynasty at Champawat  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Painting origin versus geography and dynasty swaps.
-
-**Ans: C.** The 1658 Tasbirdar origin is the Garhwal painting key. Srinagar here is Garhwal; Tasbirdar is a painter post; Ajay Pal is Parmar, not Chand.
-
-</details>
-
-**Q3.** Garhwal as a regional name is best explained as:
-
-A. A Mughal suba invented by Akbar  
-B. A land remembered for many small **garhs** before Ajay Pal’s consolidation  
-C. Another name for Champawat alone  
-D. The Kuninda coin mint title  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Etymology of Garhwal from many fort-principalities.
-
-**Ans: B.** The region of many garhs becomes Garhwal after consolidation memory.
-
-</details>
-
----
-
-## Common Traps
-
-1. **Kanakpal united the 52 garhis** — that is **Ajay Pal**.
-2. **Srinagar = Kashmir** in a Garhwal stem — Garhwal capital.
-3. **Garhwal painting begins with Kangra only** — origin card is **1658 Tasbirdar** line.
-4. **Prithvipati Shah = Ajay Pal** — different centuries / roles.
-5. **Wrong Fateh Shah village set** — use Khurbura, Rajpur, Chamasari, Dhamawala.
+**Q5.** In which battle did Pradyumna Shah die fighting the Gorkhas in 1804?  
+A. Battle of Bagwali Pokhar  
+B. Battle of Bhangani  
+C. Battle of Khudbuda  
+D. Battle of Hawalbagh  
+*Answer:* **C** (Battle of Khudbuda on 14 May 1804 near modern Dehradun).

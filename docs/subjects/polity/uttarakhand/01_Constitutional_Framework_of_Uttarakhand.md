@@ -1,164 +1,159 @@
-# Topic 1 — Constitutional Framework of Uttarakhand
+# Topic 1 — Constitutional Framework & First Dignitaries of Uttarakhand
 
-### ★ UKPCS state card (Unit 3)
+### ★ UKPCS state card (Unit 3 — Polity of Uttarakhand)
 
-> **Sources:** Constitution Part VI state model, UKPCS first-office keys, statehood chronology.  
-> **High-yield 2025:** state executive (Q139) · first office-holders (Q135) · Speaker / Protem (Q141).  
-> **Do not merge into:** parent [UP Special](../25_UP_Special.md).
-
----
-
-## Current Affairs (this topic)
-
-- Governor, CM, and Speaker news can refresh personality stems; keep **first-office** pairs stable.
-- Statehood date **9 November 2000** still anchors chronology traps.
+> **Sources:** Constitution of India (Part VI), UP Reorganisation Act 2000, Uttarakhand Legislative Assembly Secretariat, UKPCS PYQ stems (State executive Q139, First office-holders Q135, Harbans Kapoor Speaker/Protem Q141, Assembly reserved seats, Lok Sabha & Rajya Sabha seats).  
+> **Pair with:** [Public Services & PSC](02_Public_Services_PSC_Auditing.md) · [High Court](03_High_Court_and_Jurisdiction.md) · [Local Government](06_Local_Government_Panchayati_Raj.md)
 
 ---
 
 ## Quick Revision — Spine Only
 
-| Head | Key |
-|------|-----|
-| Statehood | **9 November 2000** (Uttaranchal → later Uttarakhand) |
-| Executive | **Governor** (constitutional head) + **CM + Council of Ministers** (real executive) |
-| First CM | **Nityanand Swami** |
-| First Chief Secretary | **Indu Kumar Pandey** (not first CM) |
-| First woman Governor | **Margaret Alva** |
-| First Advocate General | **Nanda Ballabh Tiwari** (coaching pair — verify against distractors) |
-| Speaker / Protem more than once | **Harbans Kapoor** |
-| Legislature | Unicameral **Vidhan Sabha** |
+| Head | Constitutional & Institutional Key |
+| :--- | :--- |
+| **State Created** | **9 November 2000** as **Uttaranchal** (27th State); renamed **Uttarakhand** on **1 Jan 2007** |
+| **Legislature** | **Unicameral** (Vidhan Sabha only; no Legislative Council) |
+| **Vidhan Sabha Seats** | **70 elected seats** (Anglo-Indian nominated seat abolished by 104th CAA 2019) |
+| **SC Reserved Seats (13)** | Purola, Rajpur Road, Jhabrera, Bhagwanpur, Jwalapur, Tharali, Pauri, Ghanshali, Bageshwar, Gangolihat, Someshwar, Nainital, Bajpur |
+| **ST Reserved Seats (2)** | **Chakrata** (Dehradun) and **Nanakmatta** (Udham Singh Nagar) |
+| **Lok Sabha Seats (5)** | Tehri Garhwal, Garhwal (Pauri), **Almora (SC Reserved)**, Nainital-US Nagar, Haridwar |
+| **Rajya Sabha Seats** | **3 seats** |
+| **State Executive** | **Governor** (Constitutional Head) + **Chief Minister & Council of Ministers** (Real Executive) |
+| **First Governor** | **Surjit Singh Barnala** (9 Nov 2000 – 8 Jan 2003) |
+| **First CM (Interim)** | **Nityanand Swami** (9 Nov 2000 – 29 Oct 2001) |
+| **First Elected CM** | **Narayan Datt Tiwari (N. D. Tiwari)** (2002–2007) — only CM to complete 5 years |
+| **First Speaker (Interim)** | **Prakash Pant** |
+| **First Speaker (Elected)** | **Yashpal Arya** (2002) |
+| **First Woman Speaker** | **Ritu Khanduri Bhushan** (elected March 2022) |
+| **First Woman Governor** | **Margaret Alva** (2009–2012) (UKPCS 2025 Q135) |
+| **Speaker + Protem Multiple Times**| **Harbans Kapoor** (UKPCS 2025 Q141) |
+| **First Chief Justice** | **Justice Ashok Abhaiendra Desai (A. A. Desai)** |
+| **First Chief Secretary** | **Ajay Vikram Singh** |
+| **First Chairman UKPSC** | **N. P. Navani** |
+| **First DGP (Police)** | **Ashok Kant Sharan** |
 
 ---
 
-## Must-Score Facts
+## Must-Score Facts (High-Yield UKPCS)
 
-1. Executive = Governor + CM + CoM (both statements true).
-2. First CM = Nityanand Swami; first CS = Indu Kumar Pandey.
-3. First woman Governor = Margaret Alva.
-4. Harbans Kapoor = Speaker + Protem more than once.
-5. State created **9 Nov 2000**.
-
----
-
-## Confused Pairs
-
-| Pair | Key |
-|------|-----|
-| Nityanand Swami vs Indu Kumar Pandey | First **CM** vs first **Chief Secretary** |
-| First Finance Commission Chair vs first CM | Do not auto-pair Swami to every “first” post |
-| Governor vs CM in executive | Both belong in the executive description |
-| Speaker once vs more than once | Harbans Kapoor held Speaker **and** Protem **more than once** |
+1. **Assembly Reservation Architecture:**  
+   $$\text{Total Seats: 70} = \text{General (55)} + \text{SC Reserved (13)} + \text{ST Reserved (2: Chakrata \& Nanakmatta)}$$
+2. **Lok Sabha Representation (5 Seats):**  
+   Out of 5 Lok Sabha seats, **Almora** is exclusively reserved for **Scheduled Castes (SC)**. The remaining four (Tehri, Garhwal, Haridwar, Nainital-US Nagar) are unreserved general constituencies.
+3. **State Executive Composition (UKPCS 2025 Q139):** The executive consists of the Governor (Head of State under Article 153/154) and the Council of Ministers headed by the Chief Minister (Article 163/164). Both arms are co-constitutive of the executive branch.
+4. **Harbans Kapoor Record (UKPCS 2025 Q141):** Senior Dehradun legislator who uniquely discharged the duties of **Speaker** (2007–2012) and **Protem Speaker** on more than one occasion in the Uttarakhand Assembly.
+5. **N. D. Tiwari Landmark:** The only Chief Minister in the entire history of Uttarakhand to complete an unbroken full 5-year tenure (2002 to 2007).
 
 ---
 
-## 1.1 Governance sketch
+## Master Table of First Office-Holders in Uttarakhand
 
-**Identity:** Parliamentary state under Part VI | unicameral Vidhan Sabha | Dehradun seat of government.
-
-- Uttarakhand follows the standard parliamentary state model under the Constitution.
-- The **Governor** is the constitutional head of the State.
-- The **Chief Minister and Council of Ministers** exercise real executive power and are collectively responsible to the Vidhan Sabha.
-- UKPCS 2025 keyed **both** Governor-as-head and CM–CoM statements as correct for the state executive.
-- The legislature is **unicameral** — there is no Legislative Council.
-- Capital and secretariat geography centre on **Dehradun**.
-
----
-
-## 1.2 Statehood and renaming
-
-- The State was created on **9 November 2000** as **Uttaranchal**, carved from Uttar Pradesh.
-- The later renaming to **Uttarakhand** is a separate chronology fact from the creation date.
-- Do not shift the creation date to the renaming year in mismatch stems.
-
----
-
-## 1.3 First office-holders
-
-- First Chief Minister: **Nityanand Swami**.
-- First Chief Secretary: **Indu Kumar Pandey** — the planted “first CM” distractor.
-- First woman Governor: **Margaret Alva** — the correctly matched pair in 2025 Q135.
-- Coaching also remembers early Advocate General (**Nanda Ballabh Tiwari**) and first Finance Commission names.
-- Test each pair; do not assume one person held every first post.
+| Constitutional / Statutory Office | First Person to Hold Office | High-Yield Prelims Details |
+| :--- | :--- | :--- |
+| **Governor of Uttarakhand** | **Surjit Singh Barnala** | Appointed by President K. R. Narayanan on 9 Nov 2000. |
+| **Woman Governor** | **Margaret Alva** | 4th Governor of UK (2009–2012); 1st woman Governor. |
+| **Chief Minister (Interim)** | **Nityanand Swami** | Sworn in on midnight of 9 Nov 2000; replaced by B. S. Koshyari. |
+| **Chief Minister (Elected)** | **Narayan Datt Tiwari** | Sworn in March 2002 after first general Vidhan Sabha elections. |
+| **Chief Justice (High Court)** | **Justice A. A. Desai** | Consecrated at Nainital High Court on 9 Nov 2000. |
+| **Speaker (Interim Assembly)**| **Prakash Pant** | Presided over the 30-member interim assembly. |
+| **Speaker (Elected Assembly)**| **Yashpal Arya** | Elected March 2002 during the 1st elected assembly. |
+| **Woman Speaker of Assembly**| **Ritu Khanduri Bhushan**| Elected March 2022 (Kotdwar MLA). |
+| **Advocate General** | **L. P. Naithani** | Appointed under Article 165 (Mehrban Singh Negi was interim). |
+| **Chief Secretary** | **Ajay Vikram Singh** | Head of State Civil Administration. |
+| **Chairman, UKPSC** | **N. P. Navani** | Appointed under Article 315 at Gurukul Kangri, Haridwar. |
+| **Chief Election Commissioner**| **Durgesh Joshi** | State Election Commission for Panchayats & Municipalities. |
+| **Chief Information Commissioner (CIC)**| **Dr. R. S. Tolia** | Pioneered RTI implementation; former Chief Secretary. |
+| **Chairman, State Finance Commission**| **R. K. Dhar** | Recommended local body tax devolution. |
+| **Director General of Police (DGP)**| **Ashok Kant Sharan** | Head of Uttarakhand Police. |
+| **First Lokayukta** | **Justice S. H. A. Raza**| Anti-corruption ombudsman. |
 
 ---
 
-## 1.4 Legislature personalities
+## Political Geography: Assembly & Parliamentary Constituencies
 
-- **Harbans Kapoor** performed the roles of **Speaker** and **Protem Speaker more than once**.
-- Other legislator names in options are distractors for that stem.
-- Protem Speaker is a temporary chair for the first sitting / oath stage — do not confuse it with a permanent Speaker term.
+```
+               Uttarakhand Parliamentary Representation
+                                  │
+       ┌──────────────────────────┴──────────────────────────┐
+       ▼                                                     ▼
+[Lok Sabha: 5 Seats]                                  [Rajya Sabha: 3 Seats]
+ • Tehri Garhwal                                       • 3 representatives
+ • Garhwal (Pauri)                                       elected by 70 MLAs
+ • Almora (SC Reserved)
+ • Nainital–Udham Singh Nagar
+ • Haridwar
+```
+
+### The 15 Reserved Assembly Constituencies
+- **13 SC Reserved Constituencies:**
+  1. *Purola* (Uttarkashi)
+  2. *Rajpur Road* (Dehradun)
+  3. *Jhabrera* (Haridwar)
+  4. *Bhagwanpur* (Haridwar)
+  5. *Jwalapur* (Haridwar)
+  6. *Tharali* (Chamoli)
+  7. *Pauri* (Pauri Garhwal)
+  8. *Ghanshali* (Tehri Garhwal)
+  9. *Bageshwar* (Bageshwar)
+  10. *Gangolihat* (Pithoragarh)
+  11. *Someshwar* (Almora)
+  12. *Nainital* (Nainital)
+  13. *Bajpur* (Udham Singh Nagar)
+- **2 ST Reserved Constituencies:**
+  1. **Chakrata** (Dehradun — home to Jaunsari tribe)
+  2. **Nanakmatta** (Udham Singh Nagar — home to Tharu tribe)
 
 ---
 
-## UKPCS Inline PYQs
+## Confused Pairs & Common Traps
 
-**UKPCS Prelims 2025, Q139**
+| Confused Pair | Critical Distinction |
+| :--- | :--- |
+| **Nityanand Swami vs N. D. Tiwari** | Nityanand Swami = **1st interim CM (2000)**; N. D. Tiwari = **1st elected CM (2002)**. |
+| **Prakash Pant vs Yashpal Arya** | Prakash Pant = **1st interim Speaker**; Yashpal Arya = **1st elected Speaker**. |
+| **Almora Lok Sabha vs Garhwal Lok Sabha** | Almora is **SC reserved**; Garhwal is **General**. |
+| **Chakrata vs Nanakmatta** | Both are the only **ST reserved Vidhan Sabha seats** (Chakrata in Garhwal, Nanakmatta in Kumaon). |
+| **Harbans Kapoor vs Govind Singh Kunjwal** | Harbans Kapoor = Speaker + **Protem Speaker multiple times**; Kunjwal was Speaker (2012–2017). |
+| **Indu Kumar Pandey vs Ajay Vikram Singh** | Indu Kumar Pandey = later Chief Secretary & Finance Commission head; Ajay Vikram Singh = **1st Chief Secretary (2000)**. |
 
-Consider the following statements:
+---
 
-1. The executive of Uttarakhand includes the Governor as the head of the state.
-2. It also includes the Chief Minister and his or her council of ministers.
+## UKPCS Inline & Practice Questions
 
+**Q1 (UKPCS Prelims 2025, Q139).** Consider the following statements:  
+1. The executive of Uttarakhand includes the Governor as the head of the state.  
+2. It also includes the Chief Minister and his or her council of ministers.  
+*Which of the statements given above is/are correct?*  
 A. Only 1  
 B. Both 1 and 2  
 C. Only 2  
 D. Neither 1 nor 2  
+*Answer:* **B** (Both statements are correct).
 
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Both statements restate the standard state executive.
-
-**Ans: B (Series B provisional key).** Governor is constitutional head; CM and CoM are the real executive — both statements correct.
-
-</details>
-
-**UKPCS Prelims 2025, Q135**
-
-Which pair is correctly matched?
-
+**Q2 (UKPCS Prelims 2025, Q135).** Which pair is correctly matched?  
 1. Chairman of First Finance Commission — Nityanand Swami  
 2. First Advocate General — Nanda Ballabh Tiwari  
 3. First Chief Minister — Indu Kumar Pandey  
 4. First Woman Governor — Margaret Alva  
+*Answer:* **C** (Only 4 is correctly matched; Margaret Alva was the 1st woman Governor).
 
-A. Only 1  
-B. Only 3  
-C. Only 4  
-D. Both 1 and 3  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Nityanand Swami and Indu Kumar Pandey held different first posts.
-
-**Ans: C (Series B provisional key).** Pair 4 is correct (Margaret Alva). Pair 3 is wrong because Nityanand Swami was first CM and Indu Kumar Pandey was first Chief Secretary.
-
-</details>
-
-**UKPCS Prelims 2025, Q141**
-
-Who performed the roles of Speaker and Protem Speaker of the State Assembly more than once in Uttarakhand?
-
+**Q3 (UKPCS Prelims 2025, Q141).** Who performed the roles of Speaker and Protem Speaker of the State Assembly more than once in Uttarakhand?  
 A. Harbans Kapoor  
 B. Govind Singh  
 C. Ajay Bhatt  
 D. Prakash Pant  
+*Answer:* **A** (Harbans Kapoor).
 
-<details>
-<summary>Show answer</summary>
+**Q4.** Which of the following Lok Sabha constituencies in Uttarakhand is reserved for Scheduled Castes (SC)?  
+A. Garhwal (Pauri)  
+B. Haridwar  
+C. Almora  
+D. Tehri Garhwal  
+*Answer:* **C** (Almora Lok Sabha seat is reserved for SC).
 
-**Logic:** Only one legislator held both Speaker and Protem roles repeatedly.
-
-**Ans: A (Series B provisional key).** Harbans Kapoor served as Speaker and as pro-tem Speaker on more than one occasion.
-
-</details>
-
----
-
-## Common Traps
-
-1. **Indu Kumar Pandey = first CM** → first Chief Secretary.
-2. **Executive = only CM** → Governor is also part of the executive description.
-3. **Any Dehradun MLA = multiple Speaker/Protem** → Harbans Kapoor.
-4. **Creation year = renaming year** → creation is **9 Nov 2000**.
+**Q5.** Which two Vidhan Sabha constituencies in Uttarakhand are reserved for Scheduled Tribes (ST)?  
+A. Purola and Tharali  
+B. Chakrata and Nanakmatta  
+C. Rajpur Road and Bajpur  
+D. Gangolihat and Someshwar  
+*Answer:* **B** (Chakrata in Dehradun and Nanakmatta in Udham Singh Nagar).

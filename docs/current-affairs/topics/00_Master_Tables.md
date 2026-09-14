@@ -16,7 +16,7 @@ Use this page for **fast revision**. Detail stays in the topic sheets. Numbers u
 **Older UP Ramsar names to recognise (not all new in 2026):** Haiderpur (Muzaffarnagar), Bakhira (Sant Kabir Nagar), Nawabganj (Unnao), Parvati Arga (Gonda), Saman (Mainpuri), Samaspur (Rae Bareli), Sandi (Hardoi), Sarsai Nawar (Etawah), Sur Sarovar / Keetham (Agra), Upper Ganga stretch (Brijghat–Narora).
 
 !!! tip "Easy memory"
- 2026 UP trio = **Etah → Aligarh → Ballia**. Then India moves past 100 with **Glaw Lake** (Arunachal).
+ 2026 UP trio = **Etah $\rightarrow$ Aligarh $\rightarrow$ Ballia**. Then India moves past 100 with **Glaw Lake** (Arunachal).
 
 ---
 
@@ -112,7 +112,34 @@ Use this page for **fast revision**. Detail stays in the topic sheets. Numbers u
 | Airport | Jewar opened **15 Jun 2026** (Lucknow IndiGo) |
 | Budget | UP Budget ~**₹9.13 lakh crore** |
 | Defence plant | **Sher** AK-203 at **Korwa, Amethi** |
-| Expressways (Aug) | Ganga Expressway → **Haridwar**; **Jhansi Link** Expressway |
+| Expressways (Aug) | Ganga Expressway $\rightarrow$ **Haridwar**; **Jhansi Link** Expressway |
 | Soft industry | YEIDA electronics / Jewar manufacturing push |
+
+---
+
+## 7. UKPCS express checklist (Must-Score State Board)
+
+| Theme / Sector | High-Yield Fact / Question Hook | Exam Priority & PYQ Reference |
+| :--- | :--- | :--- |
+| **Silkyara–Barkot Tunnel** | **4.531 km** (NH-134, Char Dham highway, Uttarkashi) | Cuts Gangotri–Yamunotri by >20 km (UKPCS 2025 Q51) |
+| **Airports Mismatch Trap** | **Gauchar** is in **Chamoli** (NOT Rudraprayag!) | Pantnagar–US Nagar; Naini Saini–Pithoragarh (2025 Q103) |
+| **Uniform Civil Code (UCC)** | **1st state in independent India**; passed 7 Feb 2024, assent 11 Mar 2024 | Justice Ranjana Desai Committee; **STs strictly exempted** |
+| **Women Horizontal Quota** | **30% reservation** for Uttarakhand domicile women in public posts | Enacted 10 January 2023 |
+| **Anti-Cheating Act 2023** | **Life imprisonment + ₹10 Crore fine** for copying syndicates | 10-year examination debarment for examinees |
+| **Padma Shri 2025** | **Smt. Radha Bahin Bhatt** (Social Work — Lakshmi Ashram, Kausani) | UKPCS 2025 Q53 (trap: Madhuri Barthwal is folk music) |
+| **Padma Shri 2024** | **Dr. Yashwant Singh Katoch** (Literature & Education) | Eminent historian of Uttarakhand |
+| **Padma Vibhushan 2022** | **General Bipin Rawat** (Posthumous — 1st Chief of Defence Staff) | Native of Saina village, Pauri Garhwal |
+| **38th National Games** | Hosted by **Uttarakhand** (6 cluster hubs; Mascot: **Monal**) | State sports infrastructure push |
+| **Rishikesh–Karnaprayag Rail**| **125.2 km** BG rail link; **84% (~105 km) in 17 tunnels** | Longest rail tunnel in India: 15.1 km (Devprayag–Janasu) |
+| **Vibrant Village No. 1** | **Mana Village (Chamoli)** declared India's **"First Village"** | PM declaration reversing "last village" terminology |
+| **First Ramsar Site in UK** | **Asan Conservation Reserve** (Dehradun, Yamuna-Asan confluence, 2020) | 444 hectares; migratory waterfowl haven |
+| **Record GI Tag Award** | **18 GI certificates in a single day** (total 27+ certified products) | Berinag tea, Bichhu Buti fabric, Manduwa, Jhangora, Bal Mithai |
+| **G20 Meetings in UK (2023)** | **Ramnagar** (Science Advisers); **Narendra Nagar / Rishikesh** (Anti-Corruption & Infra) | 3 meetings held in Uttarakhand |
+| **State Climate Council (SCCC)**| Established in **2011** (Forest & Environment Dept drafts UAPCC) | UKPCS 2025 Q106 (NOT Revenue Department) |
+| **State Human Rights Comm.** | Formed on **13 May 2013** (1st Chairman: Justice Vijender Jain) | UKPCS 2025 Q140 |
+| **Panchayat Registers Kept** | Family register, Birth-Death register, Grant register | UKPCS 2025 Q134 (**Health register is NOT kept by Panchayats**) |
+| **River Order (West $\rightarrow$ East)** | **Yamuna $\longrightarrow$ Bhilangana $\longrightarrow$ Alaknanda $\longrightarrow$ Gori Ganga** | UKPCS 2025 Q109 |
+
+---
 
 Open topic files from the [monthly topics hub](index.md) when you need the full easy card.

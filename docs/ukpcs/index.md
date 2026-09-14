@@ -26,6 +26,9 @@ Second exam track beside **UPPCS**. National GS notes are **shared**. Uttarakhan
 [**:material-file-document-multiple-outline: 2025 PYQs — GS Paper I**
 <span>2025 keyed (Series B). Also 2024 / 2021–22 / 2016 banks on the PYQs hub.</span>](pyqs/2025_GS_I_Complete_Bank.md){ .study-card }
 
+[**:material-clipboard-check-outline: Coverage Report**
+<span>Are the notes enough for UKPCS? Unit-by-unit readiness + fill order.</span>](01_Coverage_Report.md){ .study-card }
+
 </div>
 
 ## How this library works for UKPCS

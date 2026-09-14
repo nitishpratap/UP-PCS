@@ -1,176 +1,147 @@
-# Topic 1 — Kattyuri (Katyuri) Dynasty
+# Topic 1 — Kattyuri (Katyuri) Dynasty of Uttarakhand
 
-### ★ UKPCS state card (Unit 1 — medieval UK slice)
+### ★ UKPCS state card (Unit 1 — Medieval Uttarakhand)
 
-> **Sources:** UKPCS coaching maps, Baijnath–Joshimath capital tradition, Pandukeshwar-type grant memory.  
-> **Pair with:** Ancient UK [Kartikepur](../../ancient%20history/uttarakhand/04_Kartikepur_Dynasty.md) for the capital identity card.  
-> **After Katyuri:** [Chand of Kumaon](03_Chand_Dynasty_of_Kumaon.md) · [Parmar of Garhwal](02_Parmar_Dynasty_of_Garhwal.md)
+> **Sources:** Bageshwar Stone Inscription of King Bhuwandev, 4 Pandukeshwar Copper Plates, Taleshwar Plates, Dr. Ajay Rawat, Dr. Shiv Prasad Dabral, UKPCS PYQ stems (Ishtaganadeva unifier, Lalitsuradeva Pandukeshwar plates, Katyuri administration & taxation, Bir Dev tyrant, Post-Katyuri fragmentation).  
+> **Pair with:** [Ancient Kartikepur](../../ancient%20history/uttarakhand/04_Kartikepur_Dynasty.md) · [Chand Dynasty of Kumaon](03_Chand_Dynasty_of_Kumaon.md) · [Parmar Dynasty of Garhwal](02_Parmar_Dynasty_of_Garhwal.md)
 
 ---
 
 ## Quick Revision — Spine Only
 
-| Head | Key |
-|------|-----|
-| House | **Katyuri / Kattyuri** of the central Himalaya |
-| Early seat | **Joshimath** (Alaknanda) tradition |
-| Main capital | **Kartikeyapura = Baijnath** (Bageshwar) |
-| Broad dates | About **7th–11th/12th century CE** |
-| Founder tradition | **Vasudeva / Basu Dev Katyuri** in many notes |
-| Peak memory | Temple age; wide hill influence in coaching maps |
-| Decline | Fragmentation into Baijnath, Askot, Doti, Dwarahat and other branches |
-| Successor in Kumaon | **Chand** dynasty rises as Katyuri power breaks |
-| Successor in Garhwal | **Parmar / Panwar** consolidates the western hills |
+| Head | Key Fact |
+| :--- | :--- |
+| **Imperial State** | **Katyuri / Kattyuri Dynasty** (c. **740 CE – 1050 CE**) — 1st historic empire of Uttarakhand |
+| **First Capital** | **Joshimath (Kartikeyapura)** in Alaknanda valley |
+| **Second Capital** | **Baijnath (Katyur Valley)** on the Gomti river in Bageshwar |
+| **Founder Tradition** | **Basantandev (Basu Dev)** — titled *Parama-bhattaraka Maharajadhiraja* |
+| **Three Dynastic Houses** | 1. **Basantandev House** $\rightarrow$ 2. **Nimbar House** $\rightarrow$ 3. **Salonaditya House** |
+| **The Unifier King** | **Ishtaganadeva** — 1st monarch to politically unify entire Garhwal and Kumaon |
+| **Apex Ruler** | **Lalitsuradeva** — compared to Varaha and Bhagiratha in Pandukeshwar plates |
+| **Key Inscriptions** | **Bageshwar Inscription** (Bhuwandev) & **Pandukeshwar Plates** (Lalitsuradeva, Padmata) |
+| **Fall of the Dynasty** | Last tyrannical king **Bir Dev (Biram Dev)** overthrown by popular peasant rebellion |
+| **Branch Successors** | Fragmented into **Askot (Rajbar branch), Doti (Raiyka kings), Dwarahat, and Baijnath** |
+| **Successor States** | **Chand Dynasty** in Kumaon (Champawat) & **Parmar Dynasty** in Garhwal (Chandpur Garhi) |
 
 ---
 
-## Must-Score Facts
+## Must-Score Facts (High-Yield UKPCS)
 
-1. Kartikeyapura = Baijnath (Bageshwar).
-2. Joshimath → Baijnath capital shift tradition.
-3. Founder tradition: Vasudeva / Basu Dev Katyuri.
-4. Katyuri decline = fragmentation, not one forced last-battle stem.
-5. Chand succeeds in Kumaon; Parmar consolidates Garhwal.
-6. Kuninda is earlier — do not merge the two.
-7. Brahmapura ≠ Kartikeyapur.
+1. **The Capital Shift (Joshimath to Baijnath):** Capital shifted from Joshimath to Kartikeyapura (modern Baijnath in Bageshwar) in the fertile Katyur valley around the 9th/10th century to escape severe winters, recurring landslides, and Northern Tibetan raids.
+2. **Ishtaganadeva's Monumental Legacy:** Son of Nimbar and Queen Nasu Devi; celebrated as the **first ruler to unify all territories of Garhwal and Kumaon** under one centralized rule; built Navadurga, Lakulisa, and Mahishamardini shrines at Joshimath.
+3. **Lalitsuradeva’s Inscriptions:** Two celebrated copper plates found at **Pandukeshwar** near Joshimath, dated in his 21st and 22nd regnal years. Eulogized as an incarnation of Lord Varaha who rescued the earth from moral ruin.
+4. **Bageshwar Stone Inscription:** Issued by King **Bhuwandev**; provides the unbroken genealogy of the Nimbar dynasty and records generous land grants to the ancient Vyaghreswar (Bageshwar) Shiva temple.
+5. **The Fall & Bir Dev:** The dynasty degenerated under **Bir Dev (Biram Dev)**, who imposed extortionate taxes, forced labor, and atrocities upon his subjects. Slain during a massive popular rebellion; following his death, Katyuri power shattered into petty chieftaincies.
 
 ---
 
-## Confused Pairs
+## Dynastic Lineage & Three Ruling Houses
 
-| Pair | Key |
-|------|-----|
-| Katyuri vs Kuninda | Early medieval kingdom vs early historic **coin** polity |
-| Kartikeyapura vs Brahmapura | Capital vs Hiuen Tsang’s **regional** name |
-| Katyuri vs Chand | Predecessor house vs Champawat–Almora successors |
-| Joshimath vs Baijnath | Earlier seat vs later Kartikeyapura capital |
-| Katyuri vs Parmar | Central-hill house vs Garhwal consolidators |
+```
+                Katyuri Imperial Lineage (740–1050 CE)
+                                  │
+      ┌───────────────────────────┼───────────────────────────┐
+      ▼                           ▼                           ▼
+[House of Basantandev]     [House of Nimbar]         [House of Salonaditya]
+ • Basantandev (Founder)   • Nimbar (Shaivite)       • Salonaditya
+ • Kharparadeva            • Ishtaganadeva (Unifier) • Ichhata Deva
+ • Kalyanrajadeva          • Lalitsuradeva (Apex)    • Deshatadeva
+ • Tribhuwanrajadeva       • Bhuwandev (Bageshwar)   • Padmata & Subhiksharaja
+```
 
----
+### 1. The House of Basantandev (c. 740 – 800 CE)
+- **Basantandev (Basu Dev):** Founder of the imperial dynasty. Mentioned in Bageshwar epigraph as donating *Swarnakeshwar* village to Brahmins and temples.
+- **Kharparadeva:** Defended the kingdom against external invasions (Pala incursions by Dharmapala).
+- **Kalyanrajadeva:** Married Queen Laddevi.
+- **Tribhuwanrajadeva:** Known for peaceful administration; made substantial endowments to the Vyaghreswar Mahadev shrine at Bageshwar.
 
-## 1.1 Place of the Katyuris
+### 2. The House of Nimbar (c. 800 – 950 CE)
+- **Nimbar:** Founded the second royal house; devout worshipper of Lord Shiva (*Parama Maheswara*).
+- **Ishtaganadeva:** Greatest political visionary of the early medieval Himalaya. **Unified all hill chiefdoms of Garhwal and Kumaon** into a formidable mountain empire. Built rock temples at Joshimath.
+- **Lalitsuradeva:** Reigned for over 44 glorious years. Highly praised in Pandukeshwar copper plates for constructing roads, bridges (*Setu*), and rest houses for pilgrims.
+- **Bhuwandev:** Son of Lalitsuradeva and Queen Samadevi; issued the famous Bageshwar stone inscription.
 
-- After the Kuninda–coin age, the **Katyuris** are the first long **kingdom-scale** house of the Uttarakhand hills for Prelims.
-- UKPCS lists them as **Kattyuri dynasty** in the medieval UK block; the capital name **Kartikepur** also appears in the ancient UK syllabus slice.
-- Rule of thumb: revise **capital identity** from Ancient Topic 4, and revise **rise–fragment–succession** here.
-
----
-
-## 1.2 Rise, capitals, and geography
-
-### Causes / setting
-
-- Post-Kuninda foothill politics needed a longer court that could tax valleys, protect pilgrimage routes, and patronise temples.
-- The Alaknanda–Katyur belt offered both sacred geography and a defensible capital site.
-
-### Course
-
-- Many traditions begin the house at **Joshimath** in the Alaknanda zone.
-- Coaching founder-memory often names **Vasudeva / Basu Dev Katyuri**.
-- The capital later concentrates on **Kartikeyapura**, identified with **Baijnath** in the Katyur valley of present Bageshwar district.
-- At their widest, coaching maps stretch influence across large parts of present Uttarakhand and into adjoining Himalayan belts.
-- Copper-plate and temple evidence (including Pandukeshwar-type grants in the wider Katyuri world) support a Brahmanical administrative idiom in the hills.
-- Rough coaching chronology places the strong phase about the **7th to 11th/12th** centuries CE.
-
-### Results
-
-- Kartikeyapura / Baijnath becomes the lasting capital identity for Prelims.
-- Later fragmentation opens the road to **Chand** power in Kumaon and **Parmar** power in Garhwal.
-- Hiuen Tsang’s earlier **Brahmapura** name for the region must not be rewritten as the Katyuri capital label.
+### 3. The House of Salonaditya (c. 950 – 1050 CE)
+- **Ichhata Deva:** Son of Salonaditya; established royal seat at *Subhikshapura*.
+- **Deshatadeva & Padmata:** Maintained kingdom against southern Gangetic incursions.
+- **Subhiksharajadeva:** Last illustrious ruler of the unified realm before fragmentation.
 
 ---
 
-## 1.3 Culture and religion
+## Katyuri Administrative Structure & Officials
 
-- Notes often describe an early Buddhist colour in the hills giving way to stronger **Brahmanical** temple patronage under later Katyuris.
-- Adi Shankara’s Himalayan activity is a frequent cultural backdrop — keep it as context, not a precise coronation date.
-- The Baijnath temple landscape preserves the Kartikeyapura memory for map stems.
-- Sacred-site distractors such as **Pandukeshwar** and **Taleshwar** sit beside Brahmapura and Kartikeyapur on UKPCS stems.
-
----
-
-## 1.4 Decline and branches
-
-- From about the 11th–12th century the realm **fragments**.
-- Successor pockets remembered in coaching lists include **Baijnath, Askot, Doti, Dwarahat / Baramandal** type branches.
-- Political space in Kali-Kumaon is then contested and gradually absorbed by the rising **Chand** house.
-- Garhwal consolidates separately under the **Parmar / Panwar** line.
-- Do not invent one neat “last battle of the Katyuris” unless a stem names it.
-
----
-
-## Practice Zone
-
-**Q1.** Kartikeyapura of the Katyuri age is identified with:
-
-A. Champawat  
-B. Baijnath  
-C. Tehri  
-D. Kashipur  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Modern identification of the Katyuri capital.
-
-**Ans: B.** Kartikeyapura is identified with Baijnath in Bageshwar district.
-
-</details>
-
-**Q2.** Which dynasty rose in Kumaon as the main successor after Katyuri fragmentation?
-
-A. Gorkha  
-B. Chand  
-C. British Tehri house only  
-D. Maurya  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Post-Katyuri succession in eastern Uttarakhand.
-
-**Ans: B.** The Chand dynasty of Kumaon fills the post-Katyuri political space. Gorkha conquest is much later.
-
-</details>
-
-**Q3.** Which pairing is correct?
-
-A. Kuninda — Kartikeyapura capital at Baijnath  
-B. Joshimath tradition — often remembered as an earlier Katyuri seat  
-C. Brahmapura — Katyuri founder’s personal name  
-D. Chand — founded Joshimath before the Katyuris  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Capital-shift memory versus coin polity and Chinese regional name traps.
-
-**Ans: B.** Joshimath → Kartikeyapura is the standard seat-shift tradition. Kuninda is earlier; Brahmapura is Hiuen Tsang’s regional name; Chand comes after fragmentation.
-
-</details>
-
-**Q4.** Which statement is NOT correct?
-
-A. Baijnath preserves the Kartikeyapura capital memory  
-B. Katyuri power later fragments into smaller hill branches  
-C. Parmar consolidation of Garhwal is the same event as Somchand’s Champawat founding  
-D. Vasudeva / Basu Dev appears as founder tradition in many notes  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Keep Kumaon Chand rise and Garhwal Parmar rise as separate successor stories.
-
-**Ans: C.** Chand of Kumaon and Parmar of Garhwal are parallel post-Katyuri consolidations, not one event.
-
-</details>
+| Official Designation | Exact Administrative / Civil Portfolio |
+| :--- | :--- |
+| **Parama-bhattaraka Maharajadhiraja** | Supreme title of the Katyuri Monarch. |
+| **Mahasamanta** | Feudatory tributary prince / senior military commander. |
+| **Kottapala** | Commander of hill forts, passes, and transit gateways. |
+| **Doshaparadhika** | High-level investigative officer handling theft, treason, and violent crimes. |
+| **Dandapashika / Dandanayaka** | Chief Magistrate and punitive executioner. |
+| **Bhogika / Mahabhogika** | High revenue commissioner collecting agricultural tax (*Bhoga*). |
+| **Saulkika** | Toll, octroi, and customs collector stationed at valley check-posts. |
+| **Tarika / Ghattapala** | Officer superintending river ferries, boats, and suspension bridges. |
+| **Khadgika** | Personal bodyguard to the Emperor armed with the imperial sword. |
+| **Pratihara / Mahapratihara** | Royal chamberlain regulating court audiences and royal protocol. |
+| **Kishorvadhabhikrit** | Superintendent of the royal horse-breeding studs and cavalry stables. |
 
 ---
 
-## Common Traps
+## Post-Katyuri Fragmentation & Branch Offshoots
 
-1. **Katyuri = Kuninda** — wrong age and political form.
-2. **Baijnath only = modern temple town** — it preserves Kartikeyapura.
-3. **Chand founded Joshimath** — Joshimath is Katyuri early-seat tradition.
-4. **Brahmapura = Kartikeyapur** — regional Chinese name versus capital.
-5. **One neat last battle ends all Katyuri power** — decline is fragmentation first.
+Following the assassination of Bir Dev, Katyuri princes scattered across Kumaon, Garhwal, and Western Nepal, creating localized petty dynasties:
+
+1. **Askot Branch (Rajbars):** Founded by **Abhay Pal** (grandson of Bir Dev) in 1279 CE in the Askot-Didihat region of Pithoragarh. Continued to rule until modern times.
+2. **Doti Branch (Raiyka Kings):** Established in Western Nepal (Doti); rulers assumed the title *Raiyka* (e.g., Niranjan Pal, Bharti Chand's rival).
+3. **Dwarahat Branch:** Built the exquisite 30+ stone temple clusters (*Khajuraho of Kumaon*).
+4. **Baijnath Branch:** Remained confined to the Katyur valley; eventually subdued and annexed by the **Chand dynasty** under Bharati Chand and Balo Kalyan Chand.
+
+---
+
+## Confused Pairs & Common Traps
+
+| Confused Pair | Critical Distinction |
+| :--- | :--- |
+| **Kartikeyapura vs Brahmapura** | Kartikeyapura = **Katyuri capital** (Joshimath $\rightarrow$ Baijnath); Brahmapura = **6th–7th cent. kingdom** described by Hiuen Tsang. |
+| **Ishtaganadeva vs Lalitsuradeva** | Ishtaganadeva = **The Great Unifier** of Garhwal & Kumaon; Lalitsuradeva = **Most powerful builder/reign** (Pandukeshwar plates). |
+| **Bageshwar Inscription vs Pandukeshwar Plates**| Bageshwar = Stone epigraph of **King Bhuwandev**; Pandukeshwar = Copper plates of **Lalitsuradeva, Padmata & Subhiksharaja**. |
+| **Bir Dev vs Somchand** | Bir Dev = **Last tyrannical Katyuri monarch**; Somchand = **Founder of Chand dynasty** in Kali Kumaon (Champawat). |
+| **Kottapala vs Doshaparadhika** | Kottapala = **Fort and pass commander**; Doshaparadhika = **Criminal detective/investigator**. |
+
+---
+
+## UKPCS Inline & Practice Questions
+
+**Q1.** Who was the Katyuri monarch credited with politically unifying the entire region of Uttarakhand (Garhwal and Kumaon) under one administration?  
+A. Basantandev  
+B. Nimbar  
+C. Ishtaganadeva  
+D. Lalitsuradeva  
+*Answer:* **C** (Ishtaganadeva).
+
+**Q2.** The two copper-plate inscriptions dated to the 21st and 22nd regnal years of King Lalitsuradeva were discovered at which sacred site?  
+A. Taleshwar  
+B. Pandukeshwar  
+C. Baijnath  
+D. Bageshwar  
+*Answer:* **B** (Pandukeshwar near Joshimath).
+
+**Q3.** Who was the last tyrannical ruler of the main Katyuri dynasty whose oppression provoked a popular revolt that ended the unified dynasty?  
+A. Tribhuwanrajadeva  
+B. Subhiksharajadeva  
+C. Bir Dev (Biram Dev)  
+D. Abhay Pal  
+*Answer:* **C** (Bir Dev / Biram Dev).
+
+**Q4.** In Katyuri administrative terminology, what was the function of the officer designated as 'Saulkika'?  
+A. Royal sword bearer  
+B. River ferry supervisor  
+C. Toll and customs tax collector  
+D. Criminal magistrate  
+*Answer:* **C** (Toll and customs tax collector).
+
+**Q5.** The Rajbar branch of the Katyuris established their independent principality at which location in Pithoragarh?  
+A. Askot  
+B. Didihat  
+C. Gangolihat  
+D. Berinag  
+*Answer:* **A** (Askot, founded by Abhay Pal in 1279 CE).

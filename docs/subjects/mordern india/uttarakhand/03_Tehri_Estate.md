@@ -1,184 +1,141 @@
-# Topic 3 — Tehri Estate
+# Topic 3 — Tehri Estate (Tehri Princely State)
 
-### ★ UKPCS state card (Unit 1)
+### ★ UKPCS state card (Unit 1 — History and Culture of Uttarakhand)
 
-> **High-yield 2025 stem:** English education under **Pratap Shah** (Q79).  
-> **Pair with:** [Gorkha / Sugauli map](01_Gorkha_Invasion_and_Rule.md) for origin · [Freedom Movement](04_Freedom_Movement_in_Uttarakhand.md) for Tehri Praja Mandal politics.  
-> **Last verified:** September 2026 gap audit — ruler sequence (Pratap / Kirti / Narendra) · Tehri → Narendra Nagar · Praja Mandal bridge · merger ≈ 1949
+> **Sources:** Dr. Ajay Rawat's *History of Garhwal*, Atkinson’s Gazetteer, UKPCS PYQ stems (English education under Pratap Shah 2025 Q79, Tilari Kand 1930, Sridev Suman 84-day fast, 1 August 1949 merger).  
+> **Pair with:** [Parmar of Garhwal](../../medieval%20india/uttarakhand/02_Parmar_Dynasty_of_Garhwal.md) · [British Rule](02_British_Rule_in_Uttarakhand.md) · [Freedom Movement](04_Freedom_Movement_in_Uttarakhand.md)
 
 ---
 
 ## Quick Revision — Spine Only
 
-| Head | Key |
-|------|-----|
-| Founder of restored estate | **Sudarshan Shah**, after **1815** settlement |
-| Capitals | Early seat **Tehri**; later association with **Narendra Nagar** under **Narendra Shah** |
-| Nature | **Princely state** of Garhwal — not a British district |
-| English education starts | Reign of **Pratap Shah** (later nineteenth century) |
-| Ruler spine (high-yield stretch) | … → **Bhawani Shah** → **Pratap Shah** → **Kirti Shah** → **Narendra Shah** → **Manabendra Shah** (last ruling Maharaja) |
-| Politics bridge | **Tehri Praja Mandal** / responsible-government demands (detail in Freedom card) |
-| End of princely order | Merger into the United Provinces / UP map about **1949** |
+| Head | Key Fact |
+| :--- | :--- |
+| **Foundation Date** | **28 December 1815** — Sudarshan Shah established capital at Old Tehri (Ganesh Prayag) |
+| **Founder / 1st Ruler** | **Sudarshan Shah** (1815–1859) — authored 7-volume literary text *Sabhasar* (1828) |
+| **British Division** | Alaknanda/Mandakini river was boundary: West = **Tehri Princely State**; East = **British Garhwal** |
+| **"Bolanda Badri"** | Reverential title given to Tehri Kings (considered living incarnation of Lord Badrinath) |
+| **Forest Lease (1860)** | **Bhawani Shah** (1859–1871) leased Yamuna/Kaligad deodar forests to Frederick Wilson ("Pahari Wilson") |
+| **Start of English Education** | **Pratap Shah** (1871–1886) — established *Pratap High School* (1883); printing press; police dept (UKPCS 2025 Q79) |
+| **Model Moderniser** | **Kirti Shah** (1886–1913) — Knighted (KCSI); built **Tehri Clock Tower (1897)**; 1st hydro-power plant (1906) |
+| **Capital Shift (1925)** | **Narendra Shah** (1913–1946) — founded and shifted capital to **Narendranagar (1925)** |
+| **Tilari Kand (Rawain Kand)** | **30 May 1930** — Diwan Chakradhar Juyal fired on unarmed peasants; **"Jallianwala Bagh of Uttarakhand"** |
+| **Praja Mandal Founder** | **Sridev Suman** founded *Tehri Rajya Praja Mandal* on **23 January 1939** at Dehradun |
+| **Epic Martyrdom** | **Sridev Suman** died after an **84-day historic hunger strike** on **25 July 1944** in Tehri Jail |
+| **Last Maharaja & Merger** | **Manvendra Shah** signed accession; Tehri merged with India on **1 August 1949** (as 50th district of UP) |
 
 ---
 
-## Must-Score Facts
+## Must-Score Facts (High-Yield UKPCS)
 
-1. Sudarshan Shah founds / restores Tehri after **1815**.
-2. Tehri = princely; British Garhwal = Company.
-3. Capitals: **Tehri** early; **Narendra Nagar** with **Narendra Shah**.
-4. English education starts under **Pratap Shah**; Kirti and Narendra are later.
-5. Praja Mandal / responsible government = politics bridge to the Freedom Movement card.
-6. Merger into UP / United Provinces ≈ **1949**.
-7. Do not answer Tehri education stems with Sudarshan Shah only because he is the founder.
-
----
-
-## Confused Pairs
-
-| Pair | Key |
-|------|-----|
-| Sudarshan Shah vs Pratap Shah | Founder of estate vs reign of **English education** start |
-| Tehri Estate vs British Garhwal | Princely west vs Company east |
-| Kirti Shah vs Pratap Shah | Successor of Pratap; not the English-education starter |
-| Narendra Shah vs Pratap Shah | Twentieth-century ruler / Narendra Nagar ≠ English-education starter |
-| Tehri town vs Narendra Nagar | Older capital memory vs later capital associated with Narendra Shah |
-| Tehri Lake / dam CA | Geography / CA — not this dynasty education stem |
+1. **28 December 1815 (Restoration Day):** Sudarshan Shah arrived at the confluence of the Bhagirathi and Bhilangna rivers (*Ganesh Prayag*) to found Old Tehri after the British retained British Garhwal (Pauri/Srinagar) for themselves.
+2. **Sabhasar (1828):** Written in Brajbhasha by Sudarshan Shah under the pen name *Kavi Surat*; primary source for late Parmar dynastic history.
+3. **English Education Pioneer (Pratap Shah):** Built Pratap High School (1883), established the *Pratap Press* (first printing press in hill state), and organized the state into 22 Pattis with a regular police code.
+4. **Tilari Massacre (30 May 1930):** Forest agitation (*Dhandak*) against the 1924 land settlement in Rawain. Diwan **Chakradhar Juyal** (nicknamed the *General Dyer of Uttarakhand*) encircled and slaughtered peaceful farmers assembled on the Tilari plains.
+5. **Sridev Suman's 84-Day Fast:** Imprisoned under barbaric conditions for demanding civil liberties; sacrificed his life on 25 July 1944.
+6. **Kirtinagar Revolt (11 January 1948):** **Nagendra Saklani** and **Molu Ram (Bhartwal)** were martyred capturing the Kirtinagar court, forcing Maharaja Manvendra Shah to capitulate.
 
 ---
 
-## 3.1 Origin after Sugauli
+## Chronological Ruler Guide & Structural Reforms
 
-- When Gorkha power collapses in the hills, the British restore western Garhwal to **Sudarshan Shah**.
-- That restored principality is remembered as the **Tehri Estate** (Tehri–Garhwal State).
-- Eastern Garhwal remains under direct British administration — keep the split clear for map stems.
+```
+Sudarshan Shah (1815–1859) [Founder, Sabhasar, Ganesh Prayag capital]
+       │
+Bhawani Shah (1859–1871) [Pahari Wilson forest lease 1860]
+       │
+Pratap Shah (1871–1886) [Pratapnagar 1877, English School 1883, Pratap Press, Police]
+       │
+Kirti Shah (1886–1913) [Clock Tower 1897, Power Plant 1906, Swami Rama Tirtha 1902]
+       │
+Narendra Shah (1913–1946) [Narendranagar 1925, Tilari Kand 1930, Praja Mandal 1939]
+       │
+Manvendra Shah (1946–1949) [Saklana revolt 1948, 1 August 1949 Merger]
+```
 
----
+### Detailed Ruler Profiles & Achievements
 
-## 3.2 Capitals — Tehri and Narendra Nagar
-
-- The early capital memory of the restored estate is the town of **Tehri**.
-- Under **Narendra Shah** in the twentieth century, coaching notes associate the later capital with **Narendra Nagar**.
-- Do not swap the education stem (Pratap Shah) with the capital-move stem (Narendra Shah / Narendra Nagar).
-
----
-
-## 3.3 Rulers and modernisation ratta
-
-| Ruler (coaching stretch) | Memory |
-|--------------------------|--------|
-| **Sudarshan Shah** | Restores / founds the estate after **1815** |
-| **Bhawani Shah** | Mid-list ruler; frequent wrong option on the education stem |
-| **Pratap Shah** | **English education** begins in his reign (later nineteenth century) |
-| **Kirti Shah** | Succeeds Pratap Shah; late nineteenth / early twentieth century |
-| **Narendra Shah** | Twentieth-century moderniser; **Narendra Nagar** association |
-| **Manabendra Shah** | Last ruling Maharaja; merger politics after Independence |
-
-- Coaching lists move through Sudarshan Shah and later Shah rulers of Tehri.
-- **English education** in the Tehri state begins in the reign of **Pratap Shah**.
-- **Bhawani Shah** sits just before Pratap in many lists and is a frequent wrong option on the education stem.
-- **Kirti Shah** follows Pratap Shah and is too late for the “start of English education” card.
-- **Narendra Shah** belongs to the twentieth century and is also too late for that education card.
-- **Manabendra Shah** is the last ruling Maharaja at the time of merger.
+| Ruler | Reign | Key Developments & Prelims Targets |
+| :--- | :--- | :--- |
+| **Sudarshan Shah** | 1815–1859 | First King of Tehri State. Shifted capital to Old Tehri on **28 Dec 1815**. Authored *Sabhasar* (7 volumes, 1828). Hosted British explorer William Moorcroft in 1820. Aided the British during 1857 revolt, earning royal accolades. |
+| **Bhawani Shah** | 1859–1871 | Eldest son of Sudarshan Shah. Succession contested by stepbrother Sher Shah, settled with intervention of Commissioner Ramsay. Leased the rich deodar forests of Yamuna and Tons valleys to British timber entrepreneur **Frederick Wilson** (*Pahari Wilson*) in 1860. |
+| **Pratap Shah** | 1871–1886 | Founded new summer seat **Pratapnagar (1877)**. Started **English education** in Tehri (1883). Established the first **Allopathic Dispensary (1876)** and first **Printing Press (Pratap Press)**. Introduced modern Police Force and court system; conducted the *Jhulashah* land revenue settlement. |
+| **Kirti Shah** | 1886–1913 | Reigned under the Regency of Queen Mother **Guleria** until 1892. Hailed by Viceroy Lord Curzon as a model prince. Knighted as K.C.S.I. Founded **Kirtinagar (1894)**. Built the landmark **Tehri Clock Tower (Ghanta Ghar, 1897)** to celebrate Queen Victoria’s Jubilee. Installed **Hydroelectric Power Station (1906)**. Hosted **Swami Rama Tirtha (1902)**, who later took Jal-samadhi in the Bhilangna river (1906). Established *Kirti Boarding*, a municipal board, and codified state penal laws. |
+| **Narendra Shah** | 1913–1946 | Guided by Regency Council of Queen Mother **Nepalia** until 1919. Built and shifted administrative capital to **Narendranagar (1925)**. Built motorable Rishikesh–Tehri road. Implemented rigid 1924 Forest Settlement, triggering the mass **Rawain Dhandak**. His Prime Minister Chakradhar Juyal perpetrated the **Tilari Kand (30 May 1930)**. Founded *Narendra College*. |
+| **Manvendra Shah** | 1946–1949 | 60th and final ruler of the Parmar line. Signed merger agreement on 18 May 1949; Tehri officially integrated into the Republic of India as a district of Uttar Pradesh on **1 August 1949**. Later served as Member of Parliament (Lok Sabha) from Tehri Garhwal for 8 terms and Indian Ambassador to Ireland. |
 
 ---
 
-## 3.4 Society and politics (bridge)
+## The Freedom Agitation in Tehri: Praja Mandal & Martyrs
 
-- Mission schools and state patronage slowly widen literacy in the estate.
-- The **Tehri Praja Mandal** and responsible-government demands appear in the late colonial decades.
-- Full names, sessions, and agitation chronology stay in the Freedom Movement card — plant only the bridge here.
-- After 1947 the estate’s separate princely order ends with merger into the provincial map.
+### 1. The Tilari Massacre / Rawain Kand (30 May 1930)
+- **Background:** In 1924, Narendra Shah introduced a new forest settlement that prohibited villagers from grazing cattle in forest tracts and severely restricted timber rights.
+- **The Event:** On 30 May 1930, thousands of villagers of Rawain assembled peacefully at **Tilari ground** on the banks of Yamuna.
+- **The Attack:** While King Narendra Shah was in Europe, Diwan **Chakradhar Juyal** dispatched armed troops, surrounded the field from all three sides, and opened indiscriminate fire.
+- **Outcome:** Over a hundred villagers were shot dead or drowned in the raging Yamuna river. Historians and local balladeers refer to Tilari as the **"Jallianwala Bagh of Uttarakhand"** and Chakradhar Juyal as **"General Dyer"**.
+
+### 2. Tehri Rajya Praja Mandal & Sridev Suman
+- **Formation:** Founded on **23 January 1939** at the Chakrata Road residence of Jyotiram Kandpal in Dehradun by **Sridev Suman**, Paripurnanand Painuli, Daulatram, and Nagendra Saklani.
+- **Objective:** Establish responsible, democratic self-government under the constitutional aegis of the Maharaja and eliminate feudal court atrocities.
+- **Sridev Suman's Struggle:**
+  - Born on 25 May 1916 in Jaul village (Patti Bamund, Tehri).
+  - Arrested by Tehri authorities on 27 December 1943.
+  - Subjected to inhuman torture and 20 kg iron shackles in Tehri Jail.
+  - Began historic **indefinite fast on 3 May 1944** demanding civil rights and release of political prisoners.
+  - After **84 grueling days of hunger strike**, he attained martyrdom on **25 July 1944** at the young age of 28. His body was sewn into a sack and cast into the Bhilangna river by prison guards.
+
+### 3. Saklana Revolt & Kirtinagar Martyrs (1947–1948)
+- In 1947, the feudatory estate of **Saklana** declared independence from Tehri royal control (*Saklana Muafi rebellion*).
+- On **11 January 1948**, a freedom march attacked and captured the royal court of Kirtinagar. State forces opened fire, martyring **Nagendra Saklani** and **Molu Ram (Bhartwal)**.
+- The mass funeral procession carrying their bodies to Tehri completely broke royal authority, leading directly to the unconditional merger of the princely state into India on **1 August 1949**.
 
 ---
 
-## 3.5 Merger after Independence
+## Confused Pairs & Common Traps
 
-- After Independence, Tehri–Garhwal merges into the **United Provinces** (later **Uttar Pradesh**) map.
-- Coaching memory places the administrative merger about **1949** (agreement and takeover in that year-belt).
-- Princely Tehri ceases as a separate polity; district Tehri–Garhwal continues inside the UP / later Uttarakhand map.
-- Do not place the merger in 1815 — that year only restores the estate under Sudarshan Shah.
+| Confused Pair | Critical Distinction |
+| :--- | :--- |
+| **Pratap Shah vs Narendra Shah** | Pratap Shah = **started English education (1883)**; Narendra Shah = **shifted capital to Narendranagar (1925)**. |
+| **Tilari Kand (1930) vs Peshawar Kand (1930)** | Tilari Kand (30 May 1930) = Diwan Chakradhar Juyal fired on Tehri peasants; Peshawar Kand (23 April 1930) = Veer Chandra Singh Garhwali refused to fire on Pathans. |
+| **Sridev Suman vs Nagendra Saklani** | Sridev Suman died of **84-day hunger strike** in jail (25 July 1944); Nagendra Saklani was **shot dead** at Kirtinagar (11 Jan 1948). |
+| **Tehri Restoration (1815) vs Tehri Merger (1949)** | 28 Dec 1815 = Sudarshan Shah founded Old Tehri; 1 August 1949 = Tehri merged with India. |
+| **Pahari Wilson vs Major Gillespie** | Frederick Wilson = British entrepreneur who took deodar timber leases; Rollo Gillespie = British Major General killed at Nalapani (1814). |
 
 ---
 
-## UKPCS Inline PYQ
+## UKPCS Inline & Practice Questions
 
-**UKPCS Prelims 2025, Q79**
-
-During whose reign did English education start in the Tehri princely state?
-
+**Q1 (UKPCS Prelims 2025, Q79).** During whose reign did English education start in the Tehri princely state?  
 A. Sudarshan Shah  
 B. Bhawani Shah  
 C. Pratap Shah  
 D. Narendra Shah  
+*Answer:* **C** (English education was instituted by Pratap Shah in 1883).
 
-<details>
-<summary>Show answer</summary>
+**Q2.** On which date is the historic 'Tilari Kand' (Rawain Massacre) remembered in Uttarakhand?  
+A. 23 April 1930  
+B. 30 May 1930  
+C. 25 July 1944  
+D. 11 January 1948  
+*Answer:* **B** (30 May 1930).
 
-**Logic:** Four Tehri rulers in sequence — the reign tied to modern English education decides it.
+**Q3.** Sridev Suman sacrificed his life in Tehri Jail after an indefinite hunger strike of how many days?  
+A. 21 days  
+B. 56 days  
+C. 64 days  
+D. 84 days  
+*Answer:* **D** (84 days; died 25 July 1944).
 
-**Ans: C (Series B provisional key).** English education began under Pratap Shah in the later nineteenth century. Sudarshan Shah is the 1815 founder; Narendra Shah is twentieth century.
+**Q4.** The literary text 'Sabhasar' in Brajbhasha was authored by which ruler of Garhwal?  
+A. Kanakpal  
+B. Ajay Pal  
+C. Sudarshan Shah  
+D. Fateh Shah  
+*Answer:* **C** (Sudarshan Shah in 1828).
 
-</details>
-
----
-
-## Practice Zone
-
-**Q1.** Which pairing is correct?
-
-A. Sudarshan Shah — start of English education in Tehri  
-B. Pratap Shah — restored Tehri after Sugauli  
-C. Sudarshan Shah — restored Tehri after Sugauli  
-D. Narendra Shah — Anglo-Gorkha War commander  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Founder vs education.
-
-**Ans: C.** Sudarshan Shah receives the restored estate; Pratap Shah is the English-education reign.
-
-</details>
-
-**Q2.** The later capital associated with Narendra Shah is:
-
-A. Almora  
-B. Srinagar (Garhwal)  
-C. Narendra Nagar  
-D. Nainital  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Capital move under the twentieth-century ruler.
-
-**Ans: C.** Narendra Nagar is the later capital memory tied to Narendra Shah. Early seat memory remains Tehri town.
-
-</details>
-
-**Q3.** After Independence, the Tehri Estate’s merger into the United Provinces / UP map is remembered about:
-
-A. 1815  
-B. 1857  
-C. 1949  
-D. 2000  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Separate restoration year from merger year.
-
-**Ans: C.** Coaching memory places the merger about 1949. 1815 is the restoration under Sudarshan Shah; 2000 is Uttarakhand statehood, not the Tehri merger card.
-
-</details>
-
----
-
-## Common Traps
-
-1. **Founder = education starter** → Sudarshan ≠ Pratap on that stem.
-2. **Tehri = British district from 1815** → princely estate.
-3. **Narendra Shah started English schools** → too late; capital / moderniser card instead.
-4. **Kirti Shah started English education** → he succeeds Pratap; start is Pratap.
-5. **Merger in 1815** → 1815 restores the estate; merger ≈ 1949.
+**Q5.** On which date did the princely state of Tehri Garhwal officially merge into the Indian Union?  
+A. 15 August 1947  
+B. 26 January 1950  
+C. 1 August 1949  
+D. 9 November 2000  
+*Answer:* **C** (1 August 1949, becoming the 50th district of Uttar Pradesh).

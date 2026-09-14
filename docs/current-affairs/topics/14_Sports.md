@@ -1,17 +1,90 @@
 # Sports
 
-> **Priority B**
-> Sports Current Affairs was almost silent in 2023–25 UPPCS tags, but Padma sports names and big events still matter.
+> **Priority B** | High-Yield Sports Board (Olympic Games, Asian Games, National Games & State-Linked Athletes)
+> Sports Current Affairs is crucial for both **UPPCS** and **UKPCS** (especially Olympic medal tallies, flag bearers, National Games, and athletes from UP and Uttarakhand).
 
 ## What to note every time
 
 | Ask yourself | Why |
 |--------------|-----|
-| Which event? | Olympics, World Cup, Khelo India |
+| Which event? | Olympics, Paralympics, Asian Games, World Cup, National Games |
 | Where was it held? | Host city or country |
 | Who won? | Winner, runner-up, medal colour |
-| Any India rank or count? | Gold / silver / bronze |
-| Any Padma sports name? | Exact award level |
+| Any India rank or count? | Gold / silver / bronze breakdown |
+| Any UP or Uttarakhand athlete? | State names, hometowns (e.g. Lakshya Sen, Vandana Katariya) |
+
+---
+
+## High-Yield Sports Spine (Olympics, Paralympics, Asian & National Games)
+
+### 1. Paris 2024 Olympic Games (Complete Indian Board)
+
+| Dimension | Factual Key |
+| :--- | :--- |
+| **Host City & Dates** | **Paris, France** (26 July – 11 August 2024); Motto: *Games Wide Open* (*Ouvrons grand les Jeux*) |
+| **Mascot** | **The Phrygian Cap** (*The Olympic Phryge*) |
+| **India's Total Haul** | **6 Medals** (**0 Gold, 1 Silver, 5 Bronze**) — Overall Rank: **71st** |
+| **Opening Ceremony Flag Bearers**| **P. V. Sindhu** (Badminton) & **Sharath Kamal** (Table Tennis) |
+| **Closing Ceremony Flag Bearers**| **Manu Bhaker** (Shooting) & **P. R. Sreejesh** (Hockey) |
+| **Medal Table Topper** | **United States of America** (40 Gold, 44 Silver, 42 Bronze = 126 Total); 2nd: China (40 Gold, 91 Total) |
+
+#### Indian Medallists at Paris Olympics 2024:
+1. **Neeraj Chopra — SILVER (Men's Javelin Throw):** Threw **89.45 m**. (Gold won by Arshad Nadeem of Pakistan with an Olympic record throw of 92.97 m). Neeraj became the first track & field athlete of independent India to win back-to-back Olympic medals (Gold in Tokyo + Silver in Paris).
+2. **Manu Bhaker — BRONZE (Women's 10m Air Pistol):** First Indian woman to win an Olympic medal in shooting.
+3. **Manu Bhaker & Sarabjot Singh — BRONZE (10m Air Pistol Mixed Team):** Manu Bhaker scripted history as the **first Indian athlete in independent India to win two medals at a single Olympic Games**!
+4. **Swapnil Kusale — BRONZE (Men's 50m Rifle 3 Positions):** First Indian shooter to win an Olympic medal in the 50m 3P event.
+5. **Indian Men's Hockey Team — BRONZE:** Defeated Spain 2–1 in the bronze medal match under captain Harmanpreet Singh (Harmanpreet was the tournament's top scorer with 10 goals). Marked the retirement match of legendary goalkeeper **P. R. Sreejesh**.
+6. **Aman Sehrawat — BRONZE (Men's Freestyle 57 kg Wrestling):** Defeated Darian Cruz (Puerto Rico) 13–5. At **21 years and 24 days**, Aman became the **youngest individual Olympic medallist in Indian history** (breaking PV Sindhu's record).
+- *(Note: Lakshya Sen from Almora, Uttarakhand finished 4th in Men's Singles Badminton after reaching the semi-finals).*
+
+---
+
+### 2. Paris 2024 Paralympic Games (India's All-Time Best Record)
+
+| Dimension | Factual Key |
+| :--- | :--- |
+| **Host City** | **Paris, France** (28 August – 8 September 2024) |
+| **India's Total Haul** | **29 Medals** (**7 Gold, 9 Silver, 13 Bronze**) — Highest ever tally! |
+| **India's Overall Rank** | **18th Position** (Historic top-20 finish) |
+| **Flag Bearers** | Opening: **Sumit Antil** (Javelin) & **Bhagyashree Jadhav** (Shot put); Closing: **Harvinder Singh** & **Preeti Pal** |
+| **Double Medallist** | **Preeti Pal** won 2 Bronze medals (Women's 100m T35 & 200m T35) — 1st Indian woman track athlete to win two Paralympic medals. |
+| **Iconic Archer** | **Sheetal Devi** (armless archer shooting with feet) won Bronze in Mixed Team Compound with Rakesh Kumar. |
+
+#### India's 7 Gold Medallists at Paris Paralympics 2024:
+1. **Avani Lekhara** (Women's 10m Air Rifle Standing SH1 — defended Tokyo Gold with Paralympic record 249.7).
+2. **Nitesh Kumar** (Para Badminton Men's Singles SL3).
+3. **Sumit Antil** (Men's Javelin Throw F64 — defended Tokyo Gold with Paralympic record 70.59 m).
+4. **Harvinder Singh** (Men's Individual Recurve Archery — 1st Indian archer to win Gold at Paralympics).
+5. **Dharambir** (Men's Club Throw F51 — set Asian record 34.92 m).
+6. **Praveen Kumar** (Men's High Jump T64 — set Asian record 2.08 m).
+7. **Navdeep Singh** (Men's Javelin Throw F41 — personal best 47.32 m).
+
+---
+
+### 3. 19th Asian Games (Hangzhou, China) & National Games
+
+| Major Games | Edition & Venue | India's Performance & Key Highlights |
+| :--- | :--- | :--- |
+| **19th Asian Games** | **Hangzhou, China** (Sep–Oct 2023) | **107 Medals (28 Gold, 38 Silver, 41 Bronze)** — India finished **4th** (breached the 100-medal barrier: *"Iss Baar 100 Paar"*). Mascots: Congcong, Lianlian, Chenchen. |
+| **4th Asian Para Games**| **Hangzhou, China** (Oct 2023) | **111 Medals (29 Gold, 31 Silver, 51 Bronze)** — India finished **5th**. |
+| **37th National Games** | **Goa** (Oct–Nov 2023) | Champions: **Maharashtra** (won Raja Bhalindra Singh Trophy with 228 medals, 80 gold). Mascot: *Moga* (Indian Bison). |
+| **38th National Games** | **Uttarakhand** (Host State) | Host venues: **Dehradun, Haridwar, Haldwani, Rudrapur, Rishikesh**. Mascot: **Himalayan Monal** (State Bird of Uttarakhand). |
+
+---
+
+### 4. Sports Personalities & Honors of Uttarakhand
+
+| Sportsperson | Hometown & Discipline | High-Yield Prelims Achievements |
+| :--- | :--- | :--- |
+| **Lakshya Sen** | Almora (Badminton) | Commonwealth Games Gold (2022), World Championship Bronze, Arjuna Awardee; finished **4th at Paris 2024 Olympics**. |
+| **Chirag Sen** | Almora (Badminton) | Senior National Men's Singles Champion (2023/24); elder brother of Lakshya Sen. |
+| **Mansi Negi** | Chamoli (20 km Race Walk) | Won **Gold medal at World University Games (Chengdu)**; broke National Under-20 record. |
+| **Ankita Dhyani** | Pauri Garhwal (Athletics) | Represented India at Paris 2024 Olympics in Women's 5000m. |
+| **Paramjeet Singh Bisht**| Chamoli (20 km Race Walk) | Qualified and represented India at Paris 2024 Olympics. |
+| **Suraj Panwar** | Dehradun (20 km Race Walk) | Silver medallist at Youth Olympics; represented India at Paris 2024 Olympics (Marathon Race Walk Relay). |
+| **Sneha Rana** | Dehradun (Cricket) | Senior all-rounder, Indian Women's National Cricket Team; standout performances in Test cricket. |
+| **Ekta Bisht** | Almora (Cricket) | First international cricketer from Uttarakhand; 1st Indian bowler (male or female) to take a T20I hat-trick. |
+| **Vandana Katariya** | Haridwar (Field Hockey) | Padma Shri (2022); 1st Indian woman to score an Olympic hat-trick in hockey (Tokyo 2020). |
 
 ---
 
@@ -263,6 +336,8 @@ The **23rd** Commonwealth Games ended in **Glasgow, Scotland**. **Australia** to
 
 - Remember **Major Dhyan Chand**.
 - National slogan in coverage: **Khelega Bharat, Jeetega Bharat**.
+
+---
 
 ## Practice Zone — UPPCS Format
 
@@ -725,5 +800,117 @@ D. Only 1
 **Logic:** Khelo India Tribal Games Morveer.
 
 **Ans: D.** CWG = Finnie.
+
+</details>
+
+---
+
+## Practice Zone — UKPCS & Multi-State Sports Format
+
+> **6 questions** specifically drilled for Olympic Games, Asian Games, National Games, and State-Linked Athletes.
+
+**Q21.** What was the total medal haul and final ranking of the Indian contingent at the Paris 2024 Olympic Games?
+
+A. 7 Medals (1 Gold, 2 Silver, 4 Bronze) — Rank 48th  
+B. 6 Medals (0 Gold, 1 Silver, 5 Bronze) — Rank 71st  
+C. 5 Medals (1 Gold, 1 Silver, 3 Bronze) — Rank 65th  
+D. 6 Medals (1 Gold, 2 Silver, 3 Bronze) — Rank 52nd  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** India won 6 medals (Silver: Neeraj Chopra; Bronze: Manu Bhaker individual, Manu Bhaker & Sarabjot mixed, Swapnil Kusale, Men's Hockey team, Aman Sehrawat). Finished 71st.
+
+**Ans: B.** 6 Medals (0 Gold, 1 Silver, 5 Bronze), Rank 71st.
+
+</details>
+
+---
+
+**Q22.** Who among the following became the first Indian athlete in independent India to win two medals at a single Olympic Games?
+
+A. Neeraj Chopra  
+B. Manu Bhaker  
+C. P. V. Sindhu  
+D. Sushil Kumar  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Manu Bhaker won Bronze in the Women's 10m Air Pistol individual event and another Bronze in the 10m Air Pistol Mixed Team event with Sarabjot Singh at Paris 2024.
+
+**Ans: B.** Manu Bhaker.
+
+</details>
+
+---
+
+**Q23.** Who won the Gold Medal in Men's Javelin Throw at the Paris 2024 Olympics, setting a new Olympic Record of 92.97 m?
+
+A. Neeraj Chopra  
+B. Anderson Peters  
+C. Arshad Nadeem  
+D. Jakub Vadlejch  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Arshad Nadeem of Pakistan threw 92.97 m to win Gold and break the Olympic Record. Neeraj Chopra threw 89.45 m to secure Silver.
+
+**Ans: C.** Arshad Nadeem.
+
+</details>
+
+---
+
+**Q24.** How many Gold medals did India win at the Paris 2024 Paralympic Games, recording its highest-ever tally of 29 medals?
+
+A. 5  
+B. 7  
+C. 9  
+D. 11  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** India won 29 medals (7 Gold, 9 Silver, 13 Bronze) and finished in 18th place. Gold medallists: Avani Lekhara, Nitesh Kumar, Sumit Antil, Harvinder Singh, Dharambir, Praveen Kumar, Navdeep Singh.
+
+**Ans: B.** 7 Gold medals.
+
+</details>
+
+---
+
+**Q25.** Which state was selected as the host of the 38th National Games with the state bird 'Monal' as its mascot?
+
+A. Goa  
+B. Uttarakhand  
+C. Kerala  
+D. Gujarat  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The 37th National Games were hosted by Goa (won by Maharashtra; mascot Moga). The 38th National Games are hosted by Uttarakhand across 5 hub cities with Monal as mascot.
+
+**Ans: B.** Uttarakhand.
+
+</details>
+
+---
+
+**Q26.** Lakshya Sen, who reached the semi-finals and finished 4th in Men's Singles Badminton at the Paris 2024 Olympics, hails from which town of Uttarakhand?
+
+A. Dehradun  
+B. Almora  
+C. Pauri  
+D. Nainital  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Lakshya Sen and his elder brother Chirag Sen (Senior National Champion) hail from Almora, Uttarakhand.
+
+**Ans: B.** Almora.
 
 </details>

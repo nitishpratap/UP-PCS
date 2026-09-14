@@ -1,200 +1,166 @@
-# Topic 3 — Kuninda and Yaudheya
+# Topic 3 — Kuninda, Yaudheya & Early Historic Polities of Uttarakhand
 
 ### ★ UKPCS state card (Unit 1 — History and Culture of Uttarakhand)
 
-> **Weight:** High for UKPCS state history.  
-> **Pair with:** national [Post-Mauryan India](../08_Post_Mauryan_India.md) (tribal republics / coinage age) · [Ancient Tribes](02_Ancient_Tribes_of_Uttarakhand.md) · [Kartikepur](04_Kartikepur_Dynasty.md).
+> **Sources:** Dr. Ajay Rawat, Allan’s *Catalogue of Indian Coins*, British Museum records, Taleshwar copper plates, UKPCS PYQ stems (Epic title Dwij Srestha 2016, Hiuen Tsang Brahmapura 2025 Q75, Amoghbhuti silver/copper coins, Almora type coin names, Yaudheya hill hoards).  
+> **Pair with:** [Post-Mauryan India](../../ancient%20history/08_Post_Mauryan_India.md) · [Ancient Tribes](02_Ancient_Tribes_of_Uttarakhand.md) · [Kartikepur Dynasty](04_Kartikepur_Dynasty.md)
 
 ---
 
 ## Quick Revision — Spine Only
 
-| Polity | Key |
-|--------|-----|
-| **Kuninda** | Foothill power about **2nd century BCE – 3rd century CE**; Sutlej–Alaknanda belt in broad maps |
-| Capital names in notes | **Kalkut (Kalsi)**, Subahu-pur / Srinagar traditions, Shatrughan in some lists |
-| Sources | Mahabharata (**Subahu** tradition), **silver/copper coins**, find-spots in UK–HP |
-| Famous coin series | **Amoghabhuti** issues — deer and goddess / umbrella types in coaching keys |
-| Epic praise title (UKPCS) | Kuninda kings remembered as **Dwij Srestha** in the 2016 stem set |
-| **Yaudheya** | Warrior **gana/sangha**; Skanda/Karttikeya imagery common on coins |
-| UK link | Yaudheya coins reported from **Jaunsar–Bhabar** and Lansdowne-belt find lists |
-| After them | Kushan pressure / Gupta-age transition → later **Kartikeyapur–Katyuri** story |
+| Head | Key Fact |
+| :--- | :--- |
+| **First Historic Dynasty** | **Kuninda (Kulinda)** — ruled central Himalayan foothills from **2nd cent. BCE to 3rd cent. CE** |
+| **Epic Identity** | Mentioned in Mahabharata; King **Subahu** of Subahupur (Srinagar); hailed as **Dwij Srestha** |
+| **Greatest Monarch** | **Amoghbhuti** (1st century BCE) — issued bi-scriptural silver and copper coinage |
+| **Amoghbhuti Coins** | Obverse: **Brahmi**; Reverse: **Kharoshthi**; motifs: Goddess Lakshmi, deer, tree in railing |
+| **Almora Type Coins** | 8 rulers: **Shivdatt, Shivpalit, Haridatt, Gomitra, Aashadh, Mrigbhuti, Vijayabhuti** |
+| **Chhatreshwar Type Coins** | Dedicated to **Lord Shiva (Chhatreshwar)** holding trident; legend: *Bhagavata Chhatreshwara* |
+| **Yaudheya Republic** | Martial *Ayudhajivi Gana*; coin hoards found at **Jaunsar-Bawar, Bhadraj, and Lansdowne** |
+| **Yaudheya Coin Motifs** | **Lord Karttikeya** (with peacock) and Goddess Devsena; legend: *"Yaudheya Ganasya Jaya"* |
+| **Brahmapura Kingdom** | 6th–7th cent. kingdom recorded by Hiuen Tsang; ruled by **Paurava / Vrishavardhan dynasty** |
+| **Taleshwar Copper Plates** | Found in **Almora**; record grants of Paurava kings (Dvijavardhan, Vishnuvardhan) to God Biraneswar |
 
 ---
 
-## Must-Score Facts
+## Must-Score Facts (High-Yield UKPCS)
 
-1. Kuninda = earliest strong UK foothill coin polity.
-2. Subahu = Mahabharata Kuninda name to remember.
-3. Dwij Srestha = UKPCS epic title key for Kuninda kings.
-4. Amoghabhuti = named Kuninda coin series.
-5. Yaudheya = gana; Skanda imagery on coins.
-6. Hill Yaudheya coins = contact, not proof of one hill capital.
-7. Kuninda ≠ Katyuri; Brahmapura ≠ Kartikeyapur.
-
----
-
-## Confused Pairs
-
-| Pair | Key |
-|------|-----|
-| Kuninda vs Katyuri | Kuninda = early historic **coins**; Katyuri = early medieval **Kartikeyapur** kingdom |
-| Yaudheya vs Yadava | Yaudheya = ancient **gana**; not medieval Yadava of Devagiri |
-| Kalsi Ashokan edict vs Kuninda Kalkut | **Kalsi** is famous for **Ashokan** edicts; coaching also uses Kalkut/Kalsi as a Kuninda seat name — keep the **edict** and **Kuninda capital** facts separate in the stem |
-| Kuninda “Amoghabhuti” coins | Named coin series of Kuninda rulers; do not invent a Mauryan title here |
-| Brahmapura vs Kartikeyapur | Hiuen Tsang’s **regional** name vs later Katyuri **capital** |
+1. **Amoghbhuti's Unique Coinage:** Amoghbhuti was the **only Kuninda king to mint silver coins** in addition to copper. The silver legend reads:  
+   $$\text{Brahmi (Obv): } \textit{Rajnah Kunindasya Amoghbhutisya Maharajasya}$$  
+   $$\text{Kharoshthi (Rev): } \textit{Rana Kunindasa Amoghabhutisa Maharajasa}$$
+2. **The 3 Distinct Kuninda Coin Series:**
+   - **Amoghbhuti Type:** Bilinguistic/bi-scriptural, fine silver/copper, deer and Lakshmi.
+   - **Almora Type:** Pure copper, found in Almora (British Museum), single Brahmi script, named local kings (e.g., Shivdatt, Haridatt).
+   - **Chhatreshwar / Shiva Type:** Depicts standing Shiva with trident and staff (*Trishula-Parashu*), late Kushana-influenced period.
+3. **Hiuen Tsang’s 634 CE Account:** Visited Haridwar (*Mo-yu-lo* / Mayapura) and described the hill kingdom of **Brahmapura** (*Po-lo-hih-mo-pu-lo*), noting that it was ruled by a female monarch (*Suvarnagotra / Stree Rajya* tradition).
+4. **Taleshwar Copper Plates (Almora):** Primary epigraphic proof of the **Paurava dynasty** ruling Brahmapura in the 6th–7th centuries CE; mentions officials like *Kottapala* (fort commander) and *Pratihara* (chamberlain).
 
 ---
 
-## 3.1 Kuninda — first historic hill polity
+## Detailed Classification of Kuninda Coinage
 
-**Kuninda | about 200 BCE–300 CE | central Himalayan foothills (UK–HP)**
+```
+                       Kuninda Coin Series
+                               │
+       ┌───────────────────────┼───────────────────────┐
+       ▼                       ▼                       ▼
+[Amoghbhuti Type]       [Almora Type]          [Chhatreshwar Type]
+ • Silver + Copper       • Pure Copper          • Pure Copper
+ • Brahmi + Kharoshthi   • Brahmi only          • Brahmi only
+ • Deer + Lakshmi        • 8 specific kings     • Lord Shiva with trident
+```
 
-- Kuninda is treated as the **earliest well-attested political power** of the Uttarakhand foothills.
-- Broad geography in coaching maps runs from the **Sutlej** side toward the **Alaknanda** valleys.
-- Mahabharata traditions remember a Kuninda ruler **Subahu**.
-- UKPCS 2016 keys Kuninda kings in the epic reference set as **Dwij Srestha**.
-- Coins prove monetised trade between mountain valleys and the plains.
-- The **Amoghabhuti** series is the named coin memory papers most often plant.
-- Legends and types commonly show a **deer** with a goddess or royal/umbrella device in coaching dumps.
-- Mauryan and Shunga ages are **contemporary horizons** in the wider north; Kuninda strength is clearest in the post-Mauryan coin world.
-- Do not push Kuninda rule deep into every inner Himalayan valley without evidence — foothill tracts are the safe Prelims zone.
+### 1. Amoghbhuti Type (1st Century BCE)
+- **Metals:** Silver (standard weight: 31 to 38 grains) and Copper. Silver issues imitated the Indo-Greek hemidrachm to facilitate long-distance trade with the plains.
+- **Obverse:** Standing female figure (Goddess Lakshmi) with a right-hand gesture of boon (*Varada mudra*), facing a stag/deer (*Mriga*). Surrounded by the Brahmi legend: *Rajnah Kunindasya Amoghbhutisya Maharajasya*.
+- **Reverse:** Six-arched hill (*Chaitya/Meru*), sacred tree in railing (*Vriksha Chaitya*), Swastika, Nandipada (triratna), and river/wavy line symbol. Legend in Kharoshthi script: *Rana Kunindasa Amoghabhutisa Maharajasa*.
+
+### 2. Almora Type (Late 1st Century BCE – 1st Century CE)
+- **Metals:** Coarse, heavy copper coins.
+- **Discovery:** 4 coins preserved in the British Museum (donated by Sir Walter Elliot); later hoards found in Almora and Katyur valley.
+- **Script:** Exclusively early **Brahmi script**.
+- **Names of Kings:**
+  1. *Shivdatt*
+  2. *Shivpalit*
+  3. *Haridatt*
+  4. *Gomitra*
+  5. *Aashadh*
+  6. *Mrigbhuti*
+  7. *Vijayabhuti*
+  8. *Bhanu*
+
+### 3. Chhatreshwar Type (2nd – 3rd Century CE)
+- **Metals:** Copper coins exhibiting late Kushana stylistic influence.
+- **Religious Attribution:** Issued in dedication to the presiding deity of the Kunindas — **Lord Shiva** in the form of **Chhatreshwara** (Lord of the Royal Umbrella).
+- **Iconography:** Standing Shiva holding a trident (*Trishula*) in the right hand and tiger skin (*Vyaghracharma*) on the left arm.
+- **Legend (Brahmi):** *Bhagavato Chhatreshwara Mahatmanah* ("Of the Great Lord Chhatreshwara").
 
 ---
 
-## 3.2 Yaudheya — gana power and hill finds
+## The Yaudheya Gana in Uttarakhand
 
-**Yaudheya | post-Mauryan gana | plains core + hill coin finds**
-
-- Yaudheyas are remembered as a **warrior confederation / republic (gana)**.
-- Their main seats lie in the **Sapta-Sindhu** world (today’s Haryana–Punjab–north Rajasthan belt).
-- Coin motifs often celebrate **Skanda / Karttikeya**, matching a martial cult image.
-- Finds listed from **Jaunsar–Bhabar** and the Lansdowne belt show that Garhwal foothills sat on trade and contact routes.
-- Traditions speak of resistance to foreign powers and later accommodation within the **Gupta** political world.
-- Hill finds prove **contact**, not that Almora or Dehradun was their only capital.
-
----
-
-## 3.3 After Kuninda–Yaudheya
-
-- Kushan coin finds in the Terai and pilgrimage belts (for example coaching lists from Rishikesh–Kotdwar–Kashipur zones) show the foothills stayed inside wider north Indian circuits.
-- Chinese traveller **Hiuen Tsang** later calls the Kumaon region **Brahmapura** — that card sits with Kartikepur / early medieval geography.
-- Full **Kartikepur / Katyuri** teaching continues in [Topic 4](04_Kartikepur_Dynasty.md) and the Medieval UK folder.
+- **Nature of State:** The Yaudheyas were a celebrated warrior tribal confederacy (*Ayudhajivi Gana*) described by Panini in the *Ashtadhyayi*.
+- **Role in Uttarakhand:** Following the weakening of Kushana imperial power in northern India, the Yaudheyas liberated the foothill Terai, Dehradun, and Lansdowne ridges.
+- **Coin Hoards:**
+  - **Jaunsar-Bawar** (Dehradun district).
+  - **Bhadraj** hill (near Mussoorie).
+  - **Kalandanda / Lansdowne** (Pauri Garhwal).
+- **Numismatic Features:** Copper coins featuring **Lord Karttikeya** (six-headed *Shanmukha* holding a spear/Shakti) and his divine consort **Devsena / Shashthi**. Circular legend: *"Yaudheya Ganasya Jaya"* ("Victory to the Yaudheya Republic").
 
 ---
 
-## UKPCS Inline PYQs
+## The Paurava Dynasty of Brahmapura & Taleshwar Plates
 
-**UKPCS Prelims 2016**
+```
+[Hiuen Tsang (634 CE) describes "Po-lo-hih-mo-pu-lo" (Brahmapura)]
+                               │
+               [Taleshwar Copper Plates (Almora)]
+                               │
+      Vishnuvardhan I ──> Vrishavardhan ──> Samudravardhan ──> Dvijavardhan
+```
 
-In the Mahabharata, by what name were the Kuninda kings known?
+- **Identification:** Hiuen Tsang (634 CE) recorded that Brahmapura was 4,000 Li in perimeter, mountainous, rich in copper and gold, and bordered *Suvarnagotra* (the Kingdom of Women) to the north.
+- **Epigraphic Discovery:** In 1915, two 6th–7th century copper plates were discovered at **Taleshwar** near Dwarahat in Almora district.
+- **Genealogy:** Records four successive generations of Paurava monarchs:
+  1. *Maharaja Vishnuvardhan I*
+  2. *Maharaja Vrishavardhan*
+  3. *Maharaja Samudravardhan*
+  4. *Parama-bhattaraka Maharajadhiraja Dvijavardhan*
+- **State Deity:** Grants were made in favour of **Lord Biraneswar Swami** (Shiva).
+- **Administrative Terms:**
+  - *Mahapratihara:* Chief Palace Chamberlain.
+  - *Kottapala:* Fort Commander.
+  - *Dutaka:* Officer executing royal grants.
+  - *Bhogika / Gaulmika:* Revenue and police post commanders.
 
+---
+
+## Confused Pairs & Common Traps
+
+| Confused Pair | Critical Distinction |
+| :--- | :--- |
+| **Amoghbhuti vs Chhatreshwar** | Amoghbhuti = **personal king's name** (silver + copper); Chhatreshwar = **religious dedication to Lord Shiva** (copper). |
+| **Almora Type vs Amoghbhuti Type** | Almora type = **Brahmi only** (8 local king names); Amoghbhuti type = **bi-scriptural** (Brahmi + Kharoshthi). |
+| **Brahmapura vs Kartikeyapur** | Brahmapura = **6th–7th century kingdom** (Taleshwar plates, Hiuen Tsang); Kartikeyapur = **8th–11th century Katyuri capital** (Baijnath). |
+| **Yaudheya vs Kuninda** | Yaudheya = warrior **gana / republic** (Karttikeya); Kuninda = foothill **monarchical/tribal state** (Lakshmi & deer). |
+| **Taleshwar vs Pandukeshwar** | Taleshwar (Almora) = **Paurava dynasty plates**; Pandukeshwar (Chamoli) = **Katyuri dynasty plates**. |
+
+---
+
+## UKPCS Inline & Practice Questions
+
+**Q1 (UKPCS Prelims 2016).** In the Mahabharata, by what name were the Kuninda kings known?  
 A. Sarvasrestha  
 B. Madhyam  
 C. Dwij Srestha  
 D. Dwij  
+*Answer:* **C** (Kuninda monarchs are eulogized as *Dwij Srestha* in the Mahabharata).
 
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Epic name recall for Kuninda; options mix praise titles.
-
-**Ans: C (coaching consensus; confirm on official key).** Standard UKPSC ratta lists call Kuninda kings **Dwij Srestha** in the epic reference set. Do not confuse with generic “Dwij” alone.
-
-</details>
-
-**UKPCS Prelims 2025, Q75**
-
-By which name did the Chinese traveller Hiuen-Tsang address the Kumaon region?
-
+**Q2 (UKPCS Prelims 2025, Q75).** By which name did the Chinese traveller Hiuen-Tsang address the Kumaon region?  
 A. Kartikeyapur  
 B. Brahampur / Brahmapura  
 C. Taleshwar  
 D. Pandukeshwar  
+*Answer:* **B** (Brahmapura).
 
-<details>
-<summary>Show answer</summary>
+**Q3.** Which Kuninda monarch was the only ruler to issue coins in silver in addition to copper?  
+A. Subahu  
+B. Shivdatt  
+C. Amoghbhuti  
+D. Chhatreshwar  
+*Answer:* **C** (Amoghbhuti, 1st century BCE).
 
-**Logic:** Chinese name for Kumaon vs later capital name.
+**Q4.** The famous 'Taleshwar Copper Plates' discovered in Almora belong to which ancient dynasty of Uttarakhand?  
+A. Chand Dynasty  
+B. Kuninda Dynasty  
+C. Paurava Dynasty of Brahmapura  
+D. Parmar Dynasty  
+*Answer:* **C** (Paurava dynasty).
 
-**Ans: B (Series B provisional key).** Hiuen Tsang’s account remembers the region as **Brahmapura**. Kartikeyapur is the later Katyuri capital. Taleshwar and Pandukeshwar are inscription / sacred-site names.
-
-</details>
-
----
-
-## Practice Zone
-
-**Q1.** Kuninda power is best placed in which broad phase?
-
-A. Sultanate period  
-B. Early historic / post-Mauryan coin age  
-C. Gorkha rule  
-D. British Garhwal only  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Separates Kuninda chronology from medieval dynasties.
-
-**Ans: B.** Kuninda belongs to the early historic coin age of the foothills, not medieval or colonial rule.
-
-</details>
-
-**Q2.** Yaudheyas are correctly described as:
-
-A. A Delhi Sultanate iqta  
-B. A warrior gana / tribal republic tradition  
-C. A Chola naval guild  
-D. A Mughal mansabdar clan  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Yaudheya political form.
-
-**Ans: B.** Yaudheya is an ancient warrior gana tradition of north India.
-
-</details>
-
-**Q3.** Which statement about Kuninda coins is correct?
-
-A. Amoghabhuti issues are a named Kuninda series in coaching keys  
-B. Kuninda coins begin only under Akbar  
-C. Kuninda gold dinaras are the first Indian coins  
-D. Kuninda legends prove Baijnath was Ashoka’s capital  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Named coin series vs medieval / Mauryan distractors.
-
-**Ans: A.** Amoghabhuti is the Kuninda coin-series memory. First Indian coins are punch-marked silver of the plains age; Baijnath is later Kartikeyapur geography.
-
-</details>
-
-**Q4.** Which pairing is NOT matched?
-
-A. Subahu — Mahabharata Kuninda tradition  
-B. Skanda / Karttikeya — common Yaudheya coin imagery  
-C. Kalsi — Ashokan edict site (separate from Kuninda seat-name debates)  
-D. Kuninda — identical with later Chand dynasty of Kumaon  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Spot the age and house swap.
-
-**Ans: D.** Kuninda is early historic; Chand is medieval Kumaon. The other three are standard teaching pairs.
-
-</details>
-
----
-
-## Common Traps
-
-1. **Kuninda = Katyuri** — centuries apart.
-2. **Yaudheya capital = Almora** — plains gana with hill **finds**, not Almora palace.
-3. **Kalsi only = Kuninda capital** — Kalsi is also the **Ashokan edict** site.
-4. **Brahmapura = Kartikeyapur** — traveller’s regional name vs dynasty capital.
-5. **Amoghabhuti = Mauryan title** — Kuninda coin series, not Ashokan personal name.
+**Q5.** On the reverse of Amoghbhuti's Kuninda coins, which ancient script is used for the royal legend?  
+A. Brahmi  
+B. Kharoshthi  
+C. Sharada  
+D. Devanagari  
+*Answer:* **B** (Kharoshthi on reverse; Brahmi on obverse).

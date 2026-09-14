@@ -15,6 +15,38 @@
 
 ---
 
+## High-Yield Space & Defence Foundational Spine (2024–2025 Matrix)
+
+> **Exam Focus:** UPPCS & UKPCS Prelims regularly test ISRO landmark missions, launch vehicles, payloads, and bilateral military exercises (especially exercises conducted at high-altitude training areas in Uttarakhand like Auli and Pithoragarh).
+
+### 1. ISRO Landmark Missions & Space Milestones
+
+| Mission | Launch Vehicle / Date | Orbit / Destination | Scientific Objective / Key Highlights |
+| :--- | :--- | :--- | :--- |
+| **Chandrayaan-3** | **LVM3-M4** <br> (14 July 2023) | Lunar South Pole <br> (Landed **23 Aug 2023**) | • Lander: **Vikram**; Rover: **Pragyan**.<br>• Landing site named **Shiv Shakti Point**; Chandrayaan-2 crash site named **Tiranga Point**.<br>• India became the **1st country to soft-land near lunar South Pole**, 4th country overall to land on Moon.<br>• **23 August** declared **National Space Day**.<br>• Payloads: ChaSTE (thermal), ILSA (seismicity), RAMBHA-LP (plasma), APXS & LIBS (chemical composition). |
+| **Aditya-L1** | **PSLV-C57** <br> (2 Sep 2023) | Halo orbit around **Sun-Earth Lagrange Point 1 (L1)** (~1.5 million km) | • India's **first dedicated solar observatory** in space.<br>• Inserted into L1 halo orbit on **6 January 2024**.<br>• Key payloads: **VELC** (Visible Emission Line Coronagraph - primary payload built by IIA Bengaluru), **SUIT** (Solar Ultraviolet Imaging Telescope), ASPEX, PAPA. |
+| **XPoSat** (X-ray Polarimeter Satellite) | **PSLV-C58** <br> (1 Jan 2024) | Low Earth Orbit (~650 km) | • India's first dedicated polarimetry mission to study celestial X-ray sources (black holes, neutron stars).<br>• World's **2nd such mission** after NASA's IXPE.<br>• Payloads: **POLIX** (RRI Bengaluru) & **XSPECT** (URSC). |
+| **Gaganyaan Programme** | **Human-Rated LVM3 (HLVM3)** | Low Earth Orbit (400 km) | • 3-member crew for 3 days.<br>• Astronaut designates announced Feb 2024: Gp Capt **Prashanth Nair**, Gp Capt **Ajit Krishnan**, Gp Capt **Angad Pratap**, Wg Cdr **Shubhanshu Shukla** (Shubhanshu selected for Axiom-4 to ISS).<br>• Female humanoid robot: **Vyommitra**. |
+
+---
+
+### 2. High-Yield Bilateral & Multilateral Military Exercises (With Uttarakhand & UP Venues)
+
+| Exercise Name | Participating Nations | Arm / Service | Frequent Host Locations / High-Yield Notes |
+| :--- | :--- | :--- | :--- |
+| **Surya Kiran** | **India – Nepal** | Army | Alternates between **Pithoragarh (Uttarakhand)** & Saljhandi (Nepal). Counter-insurgency & mountain warfare. *(High-yield UKPCS hook)* |
+| **Yudh Abhyas** | **India – USA** | Army | Conducted at **Auli (Chamoli, Uttarakhand)** — High-altitude cold-weather warfare. *(Crucial UKPCS hook)* |
+| **Dustlik** | **India – Uzbekistan** | Army | Conducted at **Pithoragarh (Uttarakhand)** and Termez (Uzbekistan). |
+| **Mitra Shakti** | **India – Sri Lanka** | Army | Alternates (e.g. Pune / Aundh). |
+| **Vajra Prahar** | **India – USA** | Special Forces | Bakloh (HP) / Umroi (Meghalaya) / Idaho (USA). |
+| **Dharma Guardian** | **India – Japan** | Army | Camp Imazu (Japan) / Mahajan (Rajasthan). |
+| **Garuda Shakti** | **India – Indonesia** | Special Forces | Alternates between India and Indonesia. |
+| **Varuna, Garuda, Shakti**| **India – France** | Navy (Varuna), Air Force (Garuda), Army (Shakti) | Bilateral multi-service exercises. |
+| **Nomadic Elephant** | **India – Mongolia** | Army | Ulaanbaatar (Mongolia) / Umroi (Meghalaya). |
+| **Malabar** | **QUAD (India, USA, Japan, Australia)** | Navy | Multilateral naval exercise in Indo-Pacific. |
+
+---
+
 ## January 2026
 
 ### LR-AShM hypersonic anti-ship missile | shown on Republic Day 2026
@@ -835,5 +867,106 @@ D. Only 1
 **Logic:** INS Nipun Nistar-class.
 
 **Ans: D.** Mahendragiri is sixth 17A.
+
+</details>
+
+
+---
+
+## Practice Zone — UKPCS & Multi-State Science/Defence Drill
+
+> **5 questions** targeting joint military exercises, ISRO missions, and high-altitude warfare nodes relevant for both state PSCs.
+
+**Q21.** Exercise 'Surya Kiran' is a bilateral joint military exercise conducted between the armed forces of India and which neighbouring country?
+
+A. Bhutan  
+B. Nepal  
+C. Bangladesh  
+D. Sri Lanka  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Surya Kiran is an annual joint military exercise between the Indian Army and the Nepalese Army, frequently hosted at Pithoragarh in Uttarakhand and Saljhandi in Nepal.
+
+**Ans: B.** Nepal.
+
+</details>
+
+---
+
+**Q22.** With reference to the historic lunar landing of Chandrayaan-3 on 23 August 2023, which of the following statements is/are correct?
+
+1. The touchdown point of the Vikram lander near the lunar South Pole was officially named 'Shiv Shakti Point'.
+2. India became the fourth country in the world to achieve a soft lunar landing, and the first near the lunar South Pole.
+3. August 23 is now commemorated annually across India as 'National Space Day'.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** All three statements are landmark facts of Chandrayaan-3 (launched aboard LVM3-M4). The Chandrayaan-2 impact site was named 'Tiranga Point'.
+
+**Ans: D.** 1, 2 and 3.
+
+</details>
+
+---
+
+**Q23.** Which town in the Chamoli district of Uttarakhand hosted the Indo-US joint military exercise 'Yudh Abhyas' for high-altitude cold-climate warfare training?
+
+A. Joshimath  
+B. Auli  
+C. Badrinath  
+D. Gopeshwar  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Indo-US joint military exercise 'Yudh Abhyas' was conducted in the snow-clad slopes of Auli (Chamoli district, Uttarakhand), emphasizing high-altitude, cold-weather warfare techniques.
+
+**Ans: B.** Auli.
+
+</details>
+
+---
+
+**Q24.** Which primary scientific payload aboard India's solar mission Aditya-L1 was designed and developed by the Indian Institute of Astrophysics (IIA), Bengaluru?
+
+A. SUIT  
+B. VELC (Visible Emission Line Coronagraph)  
+C. PAPA  
+D. ASPEX  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** The Visible Emission Line Coronagraph (VELC) is the primary internal coronagraph payload of Aditya-L1, developed by IIA Bengaluru to image the solar corona continuously down to 1.05 solar radii.
+
+**Ans: B.** VELC.
+
+</details>
+
+---
+
+**Q25.** Joint military exercise 'Dustlik' is conducted between the armies of India and which Central Asian nation?
+
+A. Kazakhstan  
+B. Uzbekistan  
+C. Tajikistan  
+D. Kyrgyzstan  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Exercise Dustlik is a bilateral army exercise between India and Uzbekistan, with editions hosted at Pithoragarh in Uttarakhand and Termez in Uzbekistan.
+
+**Ans: B.** Uzbekistan.
 
 </details>

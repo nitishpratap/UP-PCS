@@ -1,193 +1,150 @@
-# Topic 6 — Population, SC/ST & Settlements
+# Topic 6 — Population, Demographics & SC/ST Settlements of Uttarakhand
 
-### ★ UKPCS state card (Unit 2)
+### ★ UKPCS state card (Unit 2 — Geography of Uttarakhand)
 
-> **Sources:** Census 2011 district tables, UKPCS tribal identity keys.  
-> **High-yield 2025:** sex-ratio order (Q111) · Vanrawats (Q113).  
-> **Airports / cities:** [Transport & Tourism](07_Transport_Tourism_Natural_Hazards.md).
-
----
-
-## Current Affairs (this topic)
-
-- Fresh census / NFHS district ranks can update absolute numbers; keep the **relative** Almora-high / Haridwar-low sex-ratio pattern as the must-score fact.
-- Urban mission names for Dehradun and plains towns belong with national Human Geography CA when asked.
+> **Sources:** Census of India 2011 (Uttarakhand Directorate of Census Operations), Statistical Diary of Uttarakhand, UKPCS PYQ stems (Sex ratio descending order 2025 Q111, Vanrawat shifting cultivation 2025 Q113, Ghost villages negative decadal growth, Literacy and ST district rankings).  
+> **Pair with:** [Ancient Tribes](../../ancient%20history/uttarakhand/02_Ancient_Tribes_of_Uttarakhand.md) · [Location & Structure](01_Location_Relief_Structure.md) · [Transport & Tourism](07_Transport_Tourism_Natural_Hazards.md)
 
 ---
 
 ## Quick Revision — Spine Only
 
-| Head | Correct |
-|------|---------|
-| Sex ratio desc. (Census 2011) | **Almora → Rudraprayag → Tehri Garhwal → Haridwar** |
-| Almora | Highest sex ratio (~**1142**) |
-| Rudraprayag | ~**1114** |
-| Tehri Garhwal | ~**1077** |
-| Haridwar | Low (~**880**) — plains outlier |
-| Vanrawats / Raji | Forest-dwelling PTG of **Pithoragarh**; practised **shifting cultivation** until forest regulation |
-| Bhotia | Transhumant / trade community of high Himalayan belt |
-| Tharu / Boksa | Tarai tribal communities of the southern belt |
-| Major cities | Dehradun, Haridwar, Haldwani, Roorkee, Rudrapur, Kashipur, Srinagar (Garhwal), Almora, Nainital |
-| Urbanisation sketch | Plains / dun more urban; hill towns tourism–admin based |
+| Indicator | Uttarakhand State Value | Highest District | Lowest District |
+| :--- | :--- | :--- | :--- |
+| **Total Population** | **1,00,86,292** (1.01 Crore) | **Haridwar** (18.90 Lakh) | **Rudraprayag** (2.42 Lakh) |
+| **Decadal Growth (2001–11)** | **18.81%** (National: 17.70%) | **Udham Singh Nagar** (33.45%) | **Pauri Garhwal** (**-1.41%** negative!) |
+| **Negative Growth Districts** | **Pauri (-1.41%)** & **Almora (-1.28%)** | Severe out-migration / *Palayan* | Creates "Ghost Villages" (*Bhootiya Gaon*) |
+| **Population Density** | **189 persons / sq km** | **Haridwar** (801) | **Uttarkashi** (41) |
+| **Sex Ratio** | **963** (National: 943) | **Almora** (**1142**) | **Haridwar** (**880**) |
+| **Child Sex Ratio (0–6)** | **890** (National: 919) | **Almora** (922) | **Pithoragarh** (816) |
+| **Overall Literacy Rate** | **78.82%** (Rank: 17th in India) | **Dehradun** (84.25%) | **Udham Singh Nagar** (73.10%) |
+| **Male Literacy** | **87.40%** | **Rudraprayag** (93.90%) | **Haridwar** (81.04%) |
+| **Female Literacy** | **70.04%** | **Dehradun** (78.54%) | **Uttarkashi** (59.74%) |
+| **Scheduled Caste (SC) %** | **18.76%** of total pop | **Bageshwar** (27.73%) | **Dehradun** (14.5%) |
+| **Scheduled Tribe (ST) %** | **2.89%** of total pop | **Udham Singh Nagar** (7.46%) | **Rudraprayag** (0.15%) |
+| **Urban Population %** | **30.23%** (Rural: 69.77%) | **Dehradun** (55.52%) | **Bageshwar** (3.49%) |
 
 ---
 
-## Must-Score Facts
+## Must-Score Facts (High-Yield UKPCS)
 
-1. Sex ratio desc.: Almora, Rudraprayag, Tehri Garhwal, Haridwar.
-2. Vanrawats = Pithoragarh + shifting cultivation history.
-3. Haridwar low sex ratio is the plains trap.
-4. Do not put Haridwar first in a “descending sex ratio” list.
-5. Raji / Vanrawat naming variants refer to the same group in standard notes.
-6. Bhotia = high Himalaya; Tharu / Boksa = Tarai.
-
----
-
-## Confused Pairs
-
-| Pair | Correct |
-|------|---------|
-| Almora vs Haridwar on sex ratio | Highest vs among lowest |
-| Vanrawat vs Bhotia / Tharu | Raji/Vanrawat = Pithoragarh forest PTG |
-| Shifting cultivation banned narrative | Statement 2 treated as **true** with stmt 1 in 2025 |
-| City vs district airport names | Separate transport card |
+1. **Sex Ratio Descending Trap (UKPCS 2025 Q111):**  
+   $$\text{Almora (1142)} \longrightarrow \text{Rudraprayag (1114)} \longrightarrow \text{Tehri Garhwal (1077)} \longrightarrow \text{Haridwar (880)}$$  
+   *(7 hill districts have sex ratio > 1000 due to heavy male out-migration; plains districts Haridwar 880 and Dehradun 889 have lowest).*
+2. **Negative Decadal Growth (Ghost Villages):** Uttarakhand has two hill districts that registered an absolute population contraction between 2001 and 2011: **Pauri Garhwal (-1.41%)** and **Almora (-1.28%)**.
+3. **Density Contrast:** **Haridwar (801)** has 20 times the population density of **Uttarkashi (41)**.
+4. **Literacy Extremes:**
+   - Overall Literacy: **Dehradun** highest (84.25%); **US Nagar** lowest (73.10%).
+   - Male Literacy: **Rudraprayag** highest in India/state (93.90%).
+   - Female Literacy: **Uttarkashi** is the only district with female literacy under 60% (59.74%).
+5. **Vanrawat / Raji Lifestyle (UKPCS 2025 Q113):** Forest-dwelling primitive tribal group concentrated in **Pithoragarh**; historically sustained by **shifting cultivation** (*Jhuming*) until restricted by state forest laws.
 
 ---
 
-## 6.1 Population geography
+## Census 2011 Master District Rankings (All 13 Districts)
 
-**Identity:** Census 2011 sex-ratio pattern | hill districts high | plains low.
-
-- Hill districts often show higher sex ratios than industrial plains districts in Census 2011 tables.
-- Descending order for the frequently cited four is **Almora → Rudraprayag → Tehri Garhwal → Haridwar**.
-- **Almora** tops that list at about **1142**.
-- **Rudraprayag** follows at about **1114**.
-- **Tehri Garhwal** follows at about **1077**.
-- **Haridwar** trails at about **880**.
-- Haridwar anchors the plains outlier on that list.
-- Out-migration of working-age males shapes many hill demographic patterns.
-- That out-migration helps explain elevated hill sex ratios.
-- Population density is higher in Tarai and dun belts than in high alpine tehsils.
-
----
-
-## 6.2 Scheduled tribes — Vanrawats and neighbours
-
-**Identity:** Vanrawats / Raji of Pithoragarh with brief Bhotia, Tharu, and Boksa notes.
-
-- **Vanrawats (Raji)** are associated with **Pithoragarh** district.
-- They are remembered as a small forest-dwelling / primitive tribal group.
-- Traditional **shifting cultivation** continued for a long time among them.
-- Forest department regulation later pushed settled livelihoods.
-- Both the home-district statement and the shifting-cultivation statement are treated as correct in the 2025 stem.
-- The **Bhotia** communities are linked with high Himalayan trade.
-- Bhotia life also includes seasonal (transhumant) movement along northern valleys.
-- The **Tharu** are a Tarai tribal community of the southern plains fringe.
-- The **Boksas (Buksa)** are another Tarai tribal community of the foothill–plains belt.
-- Do not swap Vanrawat / Raji of Pithoragarh with Bhotia high-valley identity.
-- Do not swap them with Tharu / Boksa Tarai identity either.
+| Rank | Population | Density (per $\text{km}^2$) | Sex Ratio (females/1000) | Literacy Rate (%) |
+| :---: | :--- | :--- | :--- | :--- |
+| **1** | **Haridwar** (18.90 L) | **Haridwar** (801) | **Almora** (1142) | **Dehradun** (84.25%) |
+| **2** | **Dehradun** (16.96 L) | **Dehradun** (549) | **Rudraprayag** (1114) | **Nainital** (83.88%) |
+| **3** | **US Nagar** (16.48 L) | **US Nagar** (425) | **Pauri Garhwal** (1103) | **Chamoli** (82.65%) |
+| **4** | **Nainital** (9.55 L) | **Nainital** (225) | **Bageshwar** (1090) | **Pithoragarh** (82.25%) |
+| **5** | **Pauri Garhwal** (6.87 L) | **Tehri Garhwal** (170) | **Tehri Garhwal** (1077) | **Pauri Garhwal** (82.02%) |
+| **6** | **Tehri Garhwal** (6.18 L) | **Pauri Garhwal** (129) | **Pithoragarh** (1020) | **Rudraprayag** (81.30%) |
+| **7** | **Almora** (6.22 L) | **Bageshwar** (116) | **Chamoli** (1015) | **Almora** (80.47%) |
+| **8** | **Pithoragarh** (4.83 L) | **Almora** (198) | **Uttarkashi** (958) | **Champawat** (79.83%) |
+| **9** | **Chamoli** (3.91 L) | **Champawat** (147) | **Champawat** (980) | **Bageshwar** (80.01%) |
+| **10**| **Uttarkashi** (3.30 L) | **Rudraprayag** (122) | **Nainital** (934) | **Tehri Garhwal** (76.36%) |
+| **11**| **Bageshwar** (2.59 L) | **Pithoragarh** (68) | **US Nagar** (920) | **Uttarkashi** (75.81%) |
+| **12**| **Champawat** (2.59 L) | **Chamoli** (49) | **Dehradun** (889) | **Haridwar** (73.43%) |
+| **13**| **Rudraprayag** (2.42 L)| **Uttarkashi** (41) | **Haridwar** (880) | **US Nagar** (73.10%) |
 
 ---
 
-## 6.3 Settlements and cities
+## Scheduled Castes (SC) & Scheduled Tribes (ST) Demographics
 
-**Identity:** Compact hill villages | dispersed Tarai farms | admin and tourism towns.
+```
+                       Uttarakhand Social Demographics
+                                      │
+              ┌───────────────────────┴───────────────────────┐
+              ▼                                               ▼
+   [Scheduled Castes (SC)]                         [Scheduled Tribes (ST)]
+    • Total: 18,92,516 (18.76%)                     • Total: 2,91,903 (2.89%)
+    • Highest Population: Haridwar (4.11 L)         • Highest Population: US Nagar (1.23 L)
+    • Lowest Population: Champawat                  • Lowest Population: Rudraprayag (386)
+    • Highest %: Bageshwar (27.73%)                 • Highest %: US Nagar (7.46%)
+    • Lowest %: Dehradun (14.50%)                   • Lowest %: Rudraprayag (0.15%)
+```
 
-- Compact nucleated villages dominate many mid-hill slopes where terrace land is scarce.
-- Dispersed farmsteads and roadside bazaars are more common in Tarai and dun belts.
-- Seasonal highland pastures and temporary herder camps appear in alpine and Bhotia belts.
-- **Dehradun** is the administrative capital and the largest urban node of the dun.
-- **Haridwar** and **Rishikesh** are pilgrimage–industry towns on the Ganga fringe.
-- **Roorkee** is the engineering–education and canal-town node of the western plains fringe.
-- **Rudrapur**, **Kashipur**, and the **Pantnagar** belt are Tarai agro-industrial nodes in Udham Singh Nagar.
-- **Haldwani** is the main Kumaon foothill gateway and market town.
-- **Nainital** and **Almora** mix administration, education, and tourism in the mid-hills.
-- **Srinagar (Garhwal)** plays the same mid-hill admin–college role in Garhwal.
-- Urbanisation is denser in plains and dun belts; many hill towns stay tourism–admin based.
-- The full tourist catalogue sits with Transport & Tourism.
-
----
-
-## UKPCS Inline PYQs
-
-**UKPCS Prelims 2025, Q111**
-
-Which group of districts is in descending order of sex ratio as per Census 2011?
-
-A. Almora, Rudraprayag, Tehri Garhwal, Haridwar 
-B. Tehri Garhwal, Almora, Haridwar, Rudraprayag 
-C. Almora, Haridwar, Rudraprayag, Tehri Garhwal 
-D. Haridwar, Rudraprayag, Almora, Tehri Garhwal 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Almora tops and Haridwar trails.
-
-**Ans: A (Series B provisional key).** Almora highest, then Rudraprayag, Tehri Garhwal, with Haridwar last.
-
-</details>
-
-**UKPCS Prelims 2025, Q113**
-
-Statement 1: Vanrawats are dwellers of the Pithoragarh district. 
-Statement 2: They practised shifting cultivation until it was banned by the forest department.
-
-A. Both correct 
-B. Only 1 correct 
-C. Only 2 correct 
-D. Both incorrect 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Home district plus cultivation practice.
-
-**Ans: A (Series B provisional key).** Both the Pithoragarh home and the shifting-cultivation history are treated as correct.
-
-</details>
+### Scheduled Tribes Distribution Breakdown
+- **Udham Singh Nagar:** Home to **42.1%** of Uttarakhand's total tribal population (predominantly **Tharu** and **Buksa**).
+- **Dehradun:** Home to **38.2%** of the tribal population (predominantly **Jaunsari** in Jaunsar-Bawar).
+- **Pithoragarh:** Home to **Bhotia** (Johar/Darma) and the primitive **Raji (Van Rawat)**.
+- **Chamoli:** Home to **Marchha** and **Tolchha** Bhotias.
+- **Uttarkashi:** Home to **Jad** Bhotias (Buddhists in Nelang valley).
 
 ---
 
-## Practice Zone
+## Rural vs Urban Settlement Dynamics
 
-**Q1.** Vanrawats (Raji) of Uttarakhand are primarily associated with:
-
-A. Haridwar Tarai only 
-B. Pithoragarh forest belt 
-C. Dehradun dun alone 
-D. Nainital lake towns only 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Distinguish Tarai tribal groups from Pithoragarh Vanrawats.
-
-**Ans: B.** Vanrawats/Raji are the forest-dwelling PTG of Pithoragarh. Tharu and Boksa belong to the Tarai story.
-
-</details>
-
-**Q2.** Compact nucleated villages on terrace slopes are most typical of:
-
-A. High alpine ice fields only 
-B. Mid-hill agricultural belts 
-C. Only the Indo-Gangetic megacities outside the state 
-D. Only industrial estates of Rudrapur 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Settlement contrast.
-
-**Ans: B.** Mid-hill belts often show compact villages tied to scarce terrace land; Tarai shows more dispersed farm patterns.
-
-</details>
+- **State Composition:** Rural = **69.77%** (70.36 Lakh) vs Urban = **30.23%** (30.49 Lakh).
+- **Most Urbanized District:** **Dehradun (55.52%)**, followed by Nainital (38.94%) and Haridwar (36.66%).
+- **Least Urbanized District:** **Bageshwar (3.49%)**, followed by Rudraprayag (4.10%) and Uttarkashi (7.36%).
+- **Settlement Patterns:**
+  - *Mid-Himalayan Hill Slopes:* Nucleated compact settlements located on southern spurs to maximize sunlight; terraced cultivation (*Khet*).
+  - *Doon & Terai Valleys:* Dispersed and linear settlement ribbons along highways and canal banks.
+  - *Alpine Zones:* Transhumant seasonal dwellings (*Mait* in summer alpine pastures; *Gunda/Munsa* in winter valleys).
 
 ---
 
-## Common Traps
+## Confused Pairs & Common Traps
 
-1. **Haridwar first in sex-ratio desc.** → last among the four.
-2. **Vanrawat = Chamoli only** → Pithoragarh.
-3. **Dropping shifting cultivation** → both statements are treated as true.
-4. **Tharu = Pithoragarh Raji** → Tharu/Boksa are Tarai; Vanrawat/Raji are Pithoragarh.
+| Confused Pair | Critical Distinction |
+| :--- | :--- |
+| **Almora vs Haridwar (Sex Ratio)** | Almora = **highest** sex ratio (1142); Haridwar = **lowest** sex ratio (880). |
+| **Haridwar vs Uttarkashi (Density)** | Haridwar = **highest** density (801); Uttarkashi = **lowest** density (41). |
+| **Pauri vs Udham Singh Nagar (Growth)**| US Nagar = **highest decadal growth** (+33.45%); Pauri Garhwal = **lowest/negative** (-1.41%). |
+| **Highest SC % vs Highest ST %** | Highest SC % = **Bageshwar (27.73%)**; Highest ST % = **Udham Singh Nagar (7.46%)**. |
+| **Highest Overall Literacy vs Male Literacy** | Highest overall = **Dehradun (84.25%)**; Highest male = **Rudraprayag (93.90%)**. |
+
+---
+
+## UKPCS Inline & Practice Questions
+
+**Q1 (UKPCS Prelims 2025, Q111).** Which group of districts is in descending order of sex ratio as per Census 2011?  
+A. Almora, Rudraprayag, Tehri Garhwal, Haridwar  
+B. Tehri Garhwal, Almora, Haridwar, Rudraprayag  
+C. Almora, Haridwar, Rudraprayag, Tehri Garhwal  
+D. Haridwar, Rudraprayag, Almora, Tehri Garhwal  
+*Answer:* **A** (Almora: 1142, Rudraprayag: 1114, Tehri Garhwal: 1077, Haridwar: 880).
+
+**Q2 (UKPCS Prelims 2025, Q113).** Consider the statements:  
+1. Vanrawats are dwellers of the Pithoragarh district.  
+2. They practised shifting cultivation until it was banned by the forest department.  
+*Which of the statements given above is/are correct?*  
+A. Both 1 and 2  
+B. Only 1  
+C. Only 2  
+D. Neither 1 nor 2  
+*Answer:* **A** (Both statements are completely correct).
+
+**Q3.** Which two districts of Uttarakhand registered a negative decadal population growth rate between 2001 and 2011?  
+A. Chamoli and Rudraprayag  
+B. Pauri Garhwal and Almora  
+C. Tehri Garhwal and Pithoragarh  
+D. Uttarkashi and Bageshwar  
+*Answer:* **B** (Pauri Garhwal: -1.41% and Almora: -1.28%).
+
+**Q4.** According to Census 2011, which district of Uttarakhand has the highest male literacy rate?  
+A. Dehradun  
+B. Nainital  
+C. Chamoli  
+D. Rudraprayag  
+*Answer:* **D** (Rudraprayag with 93.90% male literacy).
+
+**Q5.** Which district of Uttarakhand has the highest percentage concentration of Scheduled Tribes (ST) population?  
+A. Dehradun  
+B. Pithoragarh  
+C. Chamoli  
+D. Udham Singh Nagar  
+*Answer:* **D** (Udham Singh Nagar with 7.46% ST population).

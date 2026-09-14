@@ -65,6 +65,13 @@
 #### Major Dhyan Chand Khel Ratna 2023/2024
 - Awarded jointly to India's star men's badminton doubles pair: **Chirag Shetty** and **Satwiksairaj Rankireddy** (Asian Games Gold 2023, World No. 1 ranking, BWF World Tour titles).
 
+#### Uttarakhand Padma Luminaries (Direct UKPCS Focus)
+- **Padma Shri 2025:** **Smt. Radha Bahin Bhatt** — Social Work (Almora / Lakshmi Ashram Kausani, Sarvodaya movement, Women empowerment). *(UKPCS 2025 direct question)*
+- **Padma Shri 2024:** **Dr. Yashwant Singh Katoch** — Literature & Education (Eminent historian of Uttarakhand, author of *Madhya Himalaya ka Puratattva*).
+- **Padma Vibhushan 2022:** **General Bipin Rawat** (Posthumous — 1st Chief of Defence Staff, native of Saina village, Pauri Garhwal).
+- **Padma Shri 2022:** **Madhuri Barthwal** (Art / Garhwali Folk Music), **Basanti Devi** (Social Work / Kosi River revival), **Vandana Katariya** (Sports / Hockey Olympian from Haridwar).
+- **Padma Shri 2020:** **Dr. Kalyan Singh Rawat** (Social Work / Founder of Maiti Movement, Chamoli).
+
 ---
 
 ## January 2026
@@ -204,7 +211,7 @@ The **Laureus World Sports Awards 2026** were held in **Madrid, Spain**.
 ### Harvard South Asian Person of the Year 2026
 
 - Winner named in compilations: actor **Sayani Gupta**.
-- Given by the **Harvard South Asian Association**.
+- Given by the **Harvard South Asian Association****.
 
 ### Femina Miss India World 2026
 
@@ -785,5 +792,90 @@ D. 1, 2 and 3
 **Logic:** Dirac vs Abel confused pair.
 
 **Ans: A.** (3) swaps the two.
+
+</details>
+
+---
+
+## Practice Zone — UKPCS Awards Drill
+
+> **4 questions** targeting direct UKPCS award questions and state luminaries.
+
+**Q21.** Smt. Radha Bahin Bhatt, who was conferred the Padma Shri in 2025, is associated with which of the following fields and institutions in Uttarakhand?
+
+A. Folk Music — Spic Macay Dehradun  
+B. Social Work — Lakshmi Ashram, Kausani  
+C. Literature — Garhwal University  
+D. Sports — Uttarakhand Olympic Association  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Smt. Radha Bahin Bhatt was awarded the Padma Shri in 2025 for Social Work. She has devoted decades of service to women's education, rural empowerment, and environmental preservation at Lakshmi Ashram (Kausani, Bageshwar), founded by Sarala Behn (Catherine Mary Heilemann).
+
+**Ans: B.** Social Work — Lakshmi Ashram, Kausani. (Direct UKPCS 2025 question hook).
+
+</details>
+
+---
+
+**Q22.** Dr. Yashwant Singh Katoch, honoured with the Padma Shri in 2024 from Uttarakhand, is renowned for his contributions to:
+
+A. Folk Dance & Chholiya Tradition  
+B. Organic Agriculture & Seed Conservation  
+C. Literature, History & Archaeology of Uttarakhand  
+D. Glaciology & Disaster Management  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Dr. Yashwant Singh Katoch is one of the topmost historians of the Central Himalayas, author of seminal research works including *Madhya Himalaya ka Puratattva* and *Uttarakhand ka Navin Itihas*. He received the Padma Shri in 2024 for Literature & Education.
+
+**Ans: C.** Literature, History & Archaeology of Uttarakhand.
+
+</details>
+
+---
+
+**Q23.** Match the following Padma Award recipients from Uttarakhand with their primary field of contribution:
+
+| List-I (Recipient) | List-II (Field / Movement) |
+|---|---|
+| A. Dr. Kalyan Singh Rawat | 1. Folk Music & First woman music composer from Garhwal |
+| B. Smt. Basanti Devi | 2. Maiti Environmental Movement |
+| C. Smt. Madhuri Barthwal | 3. Kosi River Revival & Women's empowerment |
+| D. General Bipin Rawat | 4. 1st Chief of Defence Staff (Padma Vibhushan) |
+
+Select the correct code:
+
+A. A-2, B-3, C-1, D-4  
+B. A-3, B-2, C-1, D-4  
+C. A-2, B-1, C-3, D-4  
+D. A-4, B-3, C-1, D-2  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** Dr. Kalyan Singh Rawat founded Maiti (Chamoli, 1994). Basanti Devi led Kosi river conservation in Kumaon. Madhuri Barthwal is an AIR folk artist and Padma Shri in Art. General Bipin Rawat received Padma Vibhushan (Posthumous) in 2022.
+
+**Ans: A.** A-2, B-3, C-1, D-4.
+
+</details>
+
+---
+
+**Q24.** Who among the following won the Nobel Prize in Literature for the year 2024, becoming the first South Korean author to achieve this honour?
+
+A. Samantha Harvey  
+B. Han Kang  
+C. Jenny Erpenbeck  
+D. Annie Ernaux  
+
+<details>
+<summary>Show answer</summary>
+
+**Logic:** South Korean novelist Han Kang (*The Vegetarian*, *Human Acts*) won the 2024 Nobel Prize in Literature. Samantha Harvey won the 2024 Booker Prize for *Orbital*.
+
+**Ans: B.** Han Kang.
 
 </details>

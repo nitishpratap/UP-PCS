@@ -1,232 +1,170 @@
 # Topic 2 — British Rule in Uttarakhand
 
-### ★ UKPCS state card (Unit 1)
+### ★ UKPCS state card (Unit 1 — History and Culture of Uttarakhand)
 
-> **High-yield 2025 stems:** Kamin duties (Q71) · Traill’s native doctors at Almora (Q86).  
-> **Pair with:** [Gorkha Rule](01_Gorkha_Invasion_and_Rule.md) for the 1815 turn · [Freedom Movement](04_Freedom_Movement_in_Uttarakhand.md) for Coolie-Begar politics.  
-> **Last verified:** September 2026 gap audit — Padhan / Sayana / Kamin table · Gardner–Traill–Ramsay · Nainital 1841 · forest burden · Coolie-Begar CCR · Batten–Traill settlement
+> **Sources:** Atkinson’s Himalayan Gazetteer, Dr. Ajay Rawat's *History of Uttarakhand*, UKPCS PYQ stems (Kamin revenue duties 2025, Traill 1833 Almora native doctors, Ramsay 1857 role, Becket settlement, Patwari police system).  
+> **Pair with:** [Gorkha Rule](01_Gorkha_Invasion_and_Rule.md) (preceding period) · [Tehri Estate](03_Tehri_Estate.md) (parallel princely state) · [Freedom Movement](04_Freedom_Movement_in_Uttarakhand.md)
 
 ---
 
 ## Quick Revision — Spine Only
 
-| Head | Key |
-|------|-----|
-| From | **1815** settlement after Sugauli |
-| Early officers | **E. Gardner** (first Commissioner memory) → **G. W. Traill** (long early Commissioner) |
-| Later Commissioner | **Henry Ramsay** — classic later Commissioner of Kumaon |
-| Settlement memory | **Traill** early settlements; **J. H. Batten** later settlement work |
-| Kumaon HQ memory | **Almora** as early British Kumaon headquarters |
-| Traill 1833 | Native doctors appointed at **Almora** |
-| Nainital | Hill station rises about **1841** — not Traill’s 1833 seat |
-| Village chain | **Padhan** (village) → **Kamin** (group) → **Sayana** (higher grade) |
-| Kamin | Village-level **revenue collector** for assigned villages |
-| Forced labour issue | **Coolie-Begar** under colonial hill administration |
-| Forests | Colonial **forest reservation** restricts village use — later Chipko ancestry |
-| District map | Kumaon and British Garhwal evolve into later district set (Almora, Nainital, Garhwal, etc.) |
+| Head | Key Fact |
+| :--- | :--- |
+| **Beginning of British Rule** | **May 1815** (Treaty of Sugauli formalized 1816); direct rule over Kumaon & British Garhwal |
+| **1st Commissioner** | **Edward Gardner** (May 1815 – April 1816, approx. 9 months) |
+| **Long Early Commissioner** | **George William Traill** (1816–1835) — paternalistic "Ma-Baap" rule; Non-Regulation province |
+| **Hill Revenue Police (1819)** | Established by **G. W. Traill**; Patwaris armed with police and investigative powers |
+| **"Assi Sala Bandobast" (1823)** | 7th land settlement conducted in **Vikram Samvat 1880 (1823 CE)** by Traill |
+| **Jails Established** | **Almora Jail (1816)** and **Pauri Jail (1821)** under Traill |
+| **1833 Medical Reform** | Traill appointed **native doctors at Almora** (UKPCS 2025 Q86) |
+| **Traill's Pass Discovered** | **1830** — high mountain pass connecting Pithoragarh and Bageshwar (Pindari) |
+| **Discovery of Nainital** | **1841** by British merchant **P. Barron** (Pilgrim); municipal board established 1845 |
+| **"Golden Settlement"** | **J. H. Batten** (1848–1856) — 20-year settlement of 1842; praised for equitable tax rates |
+| **"King of Kumaon" / Ramji** | **Sir Henry Ramsay** (1856–1884, 28 years) — maintained complete peace during 1857 revolt |
+| **1st Scientific Settlement** | **J. O'B. Becket** (1863–1873) — first to use survey chains (*Jareeb*); 5-fold soil classification |
+| **Village Official Hierarchy** | **Padhan** (single village) $\rightarrow$ **Kamin** (assigned village circle) $\rightarrow$ **Sayana / Thokdar** (high intermediary) |
+| **Total Land Settlements** | **11 British settlements** (1815 to 1928) + 1 post-independence (1960–64 by Ibbotson) |
 
 ---
 
-## Must-Score Facts
+## Must-Score Facts (High-Yield UKPCS)
 
-1. British hill rule from **1815**; Tehri separate; Almora early HQ; Nainital ≈ **1841**.
-2. Officers: **Gardner** early → **Traill** long early Commissioner → **Ramsay** later Commissioner; **Batten** settlement memory.
-3. Traill → native doctors at **Almora**, **1833**.
-4. **Padhan** = one village; **Kamin** = revenue from assigned villages; **Sayana** = higher grade; ≠ plains Patwari dump.
-5. Coolie-Begar = Cause (porter need) → Course (standing grievance) → Result (1920s politics) — full agitation in the Freedom Movement card.
-6. Forest reservation is the colonial forest burden that later bridges Chipko.
-
----
-
-## Confused Pairs
-
-| Pair | Key |
-|------|-----|
-| Kamin vs Patwari (plains dump) | Hill **Kamin** = revenue from assigned villages; plains **Patwari** is a different post |
-| Padhan vs Kamin vs Sayana | One village vs group of villages vs higher grade |
-| Traill 1833 Almora vs Nainital | Almora HQ; Nainital founded later (~**1841**) |
-| Gardner vs Traill vs Ramsay | First Commissioner memory → long early Commissioner → later Commissioner |
-| British Garhwal vs Tehri | Company districts ≠ Tehri princely state |
-| Coolie-Begar vs Begar only | Forced porter / labour system of the hills — political issue by 1910s–20s |
-| Forest reservation vs Chipko | Colonial restriction is the burden; Chipko is the later people’s movement |
+1. **Non-Regulation System:** Kumaon and British Garhwal were administered directly by the Governor-General through the Commissioner of Kumaon, exempt from standard plains civil/criminal procedure codes.
+2. **The Revenue Police System (1819):** Initiated by Traill in 1819 and formalized under the Scheduled District Act 1874. Patwaris in hill areas possess dual powers of land record administration and regular police investigation (a system unique to Uttarakhand hills).
+3. **Assi Sala Settlement (1823 / Samvat 1880):** Traill's 7th settlement. First comprehensive survey demarcating village boundaries (*Hadbandi*).
+4. **Almora as Initial HQ:** Prior to 1854/55, Almora was the administrative capital of Kumaon. In 1854, the headquarters was moved to **Nainital**.
+5. **Henry Ramsay (1856–1884):** Cousin of Lord Dalhousie. Deeply sympathetic to local hill customs; kept Kumaon completely unshakeable during the 1857 Revolt; developed roads, the Almora waterworks, and modern canal irrigation in Terai-Bhabhar.
 
 ---
 
-## 2.1 Settlement after 1815
+## Chronology of British Commissioners of Kumaon
 
-- The Company organises **Kumaon** and **eastern Garhwal** as hill districts under commissioners and collectors.
-- The tract is run as a **non-regulation** hill province in coaching memory — personal commissioner rule, not a full plains code dump.
-- **Almora** remains the early administrative focus of British Kumaon.
-- **Nainital** rises later as a hill station about **1841**; it is not Traill’s 1833 medical seat.
-- Forest, land revenue, and road-building policies reshape hill society through the nineteenth century.
-- **Tehri** stays outside direct Company district rule as a princely estate.
+```
+Edward Gardner (1815–1816) [1st Commissioner]
+       │
+George William Traill (1816–1835) [Real builder of British hill admin]
+       │
+Col. Gowan (1836–1838)
+       │
+G. T. Lushington (1838–1848) [Discovery of Nainital 1841]
+       │
+J. H. Batten (1848–1856) ["Golden" 20-year settlement; HQ shift to Nainital 1854]
+       │
+Sir Henry Ramsay (1856–1884) ["King of Kumaon", 28-year reign, 1857 stability]
+```
 
----
+### Commissioner-Wise Profiles & Achievements
 
-## 2.2 Officers — Gardner, Traill, Ramsay
-
-- **Edward (E.) Gardner** is the early Commissioner / Agent memory for Kumaon just after **1815**.
-- **George William Traill** is the classic long early Commissioner of Kumaon; much early settlement and paternal administration sits under his name.
-- In **1833** Traill arranges appointment of **native doctors at Almora**.
-- Almora’s HQ status explains why medical appointments are not placed at Nainital in that year.
-- **Henry Ramsay** is the classic later Commissioner of Kumaon in coaching lists.
-- Keep the officer chain as Gardner → Traill → (later settlement officers) → Ramsay, without inventing exact year-ends you do not need for stems.
-
----
-
-## 2.3 Land and settlement memory
-
-- Early Company settlements in Kumaon work village by village through existing hill offices.
-- **Traill** is the early settlement name in most coaching cards.
-- **J. H. Batten** is the later settlement / commissioner memory after Traill’s era.
-- Settlement work fixes revenue engagements and gradually curtails the old profits of middle grades such as Kamin and Sayana.
-- Do not invent a single “settlement year” unless a stem supplies it — remember the **names** Traill and Batten.
+| Commissioner | Tenure | Landmark Administrative Measures |
+| :--- | :--- | :--- |
+| **Edward Gardner** | 1815–1816 | First Commissioner of Kumaon; negotiated Treaty of Sugauli; conducted 1st provisional land settlement (1815). |
+| **George William Traill** | 1816–1835 | **Real architect of hill administration.** Established Almora Jail (1816) and Pauri Jail (1821). Created Revenue Police system (1819). Conducted settlements 2nd through 8th, including the historic **Assi Sala Bandobast (1823 / Samvat 1880)**. Appointed native doctors at Almora (1833). Built Badrinath–Kedarnath pilgrim road. Discovered **Traill's Pass (1830)**. |
+| **Col. Gowan** | 1836–1838 | Brief tenure; initiated formal educational initiatives. |
+| **G. T. Lushington** | 1838–1848 | P. Barron discovered Nainital (1841). Built Commissioner’s office at Almora; developed roads connecting Kathgodam to Almora. |
+| **J. H. Batten** | 1848–1856 | Conducted the 20-year **"Golden Settlement"** (1842). Shifted permanent Kumaon headquarters from Almora to **Nainital (1854)**. Separated Garhwal as an independent administrative district (1839 with Pauri HQ). |
+| **Sir Henry Ramsay** | 1856–1884 | Known as **Ramji Sahab** or **"King of Kumaon"**. Administered for 28 years. Handled the 1857 crisis with firm tact, granting asylum to British refugees from the plains at Nainital. Established **Kumaon Iron Works** (1857) at Ramgarh, established Methodist Mission at Nainital (1858), created Terai drainage canal networks. |
 
 ---
 
-## 2.4 Village functionaries — Padhan, Sayana, Kamin
+## The 11 British Land Revenue Settlements of Uttarakhand
 
-| Office | Core duty (colonial hill memory) |
-|--------|----------------------------------|
-| **Padhan** | Headman of a **single village** — revenue and local police duties |
-| **Kamin** | Collects land revenue from a **group of villages** assigned to him |
-| **Sayana** | Higher-grade intermediary above the Kamin in many coaching chains |
-| **Patwari** (plains contrast) | Plains record-keeper post — do not dump it as the hill Kamin |
-
-- The Company first works through these existing grades after **1815**.
-- The **Kamin** sits in the intermediary chain between cultivators and the colonial hill administration.
-- UKPCS distractors (water supply, forest food gathering, marriage arrangement) are social or forest tasks — not the Kamin’s core duty.
-- Traill-era policy slowly tries to free petty landholders from the thrall of Kamin and Sayana profits.
-
----
-
-## 2.5 Coolie-Begar — Cause → Course → Result
-
-**Cause**
-
-- Colonial hill rule needs porters for officials, troops, and baggage on steep roads with little wheeled transport.
-- The state continues and hardens older **begar** habits into a regular **Coolie-Begar** burden.
-- Villagers must supply unpaid or coerced labour and porterage on demand.
-
-**Course**
-
-- Coolie-Begar becomes a standing grievance across Kumaon and British Garhwal through the nineteenth and early twentieth centuries.
-- Forest restrictions and road-building deepen the sense that the hills serve plains and state needs first.
-- By the **1910s–20s** the grievance turns into organised politics (full names and venues sit in the Freedom card).
-
-**Result**
-
-- Coolie-Begar becomes a mass political issue linking this chapter to the national-movement card.
-- Agitation detail (Badri Dutt Pandey, Bageshwar peak, Gandhi meeting) stays in the Freedom Movement card — teach only the system and grievance here.
-- The rollback of begar in early-1920s Kumaon memory is the result end of this CCR bridge.
+| # | Settlement Name / Year | Officer Responsible | High-Yield Prelims Features |
+| :--- | :--- | :--- | :--- |
+| **1st** | 1815 (Kumaon) / 1816 (Garhwal) | E. Gardner / G. W. Traill | 1-year emergency provisional assessment based on Gorkha records. |
+| **2nd** | 1817 | G. W. Traill | 3-year term; fixed village-wise quotas. |
+| **3rd** | 1818 | G. W. Traill | 3-year term; eliminated arbitrary military levies. |
+| **4th** | 1820 | G. W. Traill | 3-year term. |
+| **5th** | 1823 (Garhwal) | G. W. Traill | Adjusted for regional famines. |
+| **7th** | **1823 CE / Samvat 1880** | **G. W. Traill** | **"Assi Sala Bandobast":** Milestone settlement; mapped physical village borders (*Hadbandi*); standardized revenue ledgers. |
+| **8th** | 1828 (5-year term) | G. W. Traill | Continued 80-year principles. |
+| **9th** | 1840 (Garhwal) / 1842 (Kumaon) | **J. H. Batten** | **"Golden Settlement" (20-year):** Based on fair returns; recognized proprietary titles of village co-parceners. |
+| **10th** | **1863–1873** | **J. O'B. Becket** | **1st Scientific Settlement:** Measured all arable land using iron survey chains (*Jareeb*). Produced first cadastral maps. Classified soil into 5 types: *Talaon, Upraon Awwal, Upraon Doyam, Ijran, Katil*. |
+| **11th** | 1899 (Kumaon: Gouch) / 1928 (Garhwal: Ibbotson / Pau) | Gouch & Pau | Final colonial adjustments prior to provincial autonomy. |
 
 ---
 
-## 2.6 Forests and colonial burden
+## Traditional Village Intermediaries Under Colonial Rule
 
-- Colonial **forest reservation** marks large tracts as state forest and restricts grazing, fuel, and timber use.
-- Villagers lose customary access even as commercial timber extraction grows.
-- Forest laws and Coolie-Begar together feed later people’s movements.
-- **Chipko** is the later forest-rights movement — revise its course in the People’s Movements card; this chapter only plants the colonial burden.
+```
+[Commissioner of Kumaon / Deputy Commissioner Garhwal]
+                     │
+            [Sub-Divisional Officer]
+                     │
+                 [Patwari] (Revenue Collector + Sub-Inspector Police Powers)
+                     │
+                 [Sayana / Thokdar] (Higher-grade hereditary intermediary)
+                     │
+                 [Kamin] (Collects land revenue from assigned cluster of villages)
+                     │
+                 [Padhan] (Direct headman of single village)
+```
+
+| Office | Defined Role Under British Hill Law |
+| :--- | :--- |
+| **Padhan** | Village headman responsible for land revenue collection in a single village and maintaining basic local order. |
+| **Kamin** | Middle-tier revenue intermediary responsible for collecting land revenue from a **group of assigned villages** and submitting to the Patwari/treasury (UKPCS 2025 Q71). |
+| **Sayana / Thokdar** | Senior aristocratic hill family head enjoying hereditary cess collections (*Sayana-chari / Thokdari*) over an entire Patti. |
+| **Patwari** | Hill civil officer who combines land record management with **police investigation, FIR registration, and arrest powers** under the 1874 Scheduled Districts Act. |
 
 ---
 
-## UKPCS Inline PYQs
+## Colonial Burden & Forestry: The Genesis of Hill Agitations
 
-**UKPCS Prelims 2025, Q71**
+- **Forest Reservation (1878 Forest Act):** Designated vast oak, deodar, and pine tracts as "Reserved Forests", criminalizing traditional collection of fuel, fodder, and grazing.
+- **Coolie-Begar Triad:**
+  1. *Coolie-Begar:* Mandatory unpaid labour for British officers, surveyors, and military detachments.
+  2. *Coolie-Utar:* Forced transport and porterage of colonial baggage across mountain passes.
+  3. *Coolie-Burdash:* Mandatory free provision of food, rations, milk, and shelter to passing British convoys.
+- **The Backlash:** This oppressive triple system directly catalyzed the historic 1921 Coolie-Begar Abolition Movement on the banks of the Saryu River in Bageshwar.
 
-What were the duties of ‘Kamin’ in Uttarakhand during the colonial period?
+---
 
+## Confused Pairs & Common Traps
+
+| Confused Pair | Critical Distinction |
+| :--- | :--- |
+| **Kamin vs Padhan** | **Padhan** = headman of **one** village; **Kamin** = revenue collector for a **group/cluster** of assigned villages. |
+| **Traill (1833) Almora vs Nainital** | Native doctors appointed at **Almora** (1833); Nainital was not discovered until **1841** by P. Barron. |
+| **Assi Sala (1823) vs Becket (1863)** | Assi Sala = 1823 CE / Samvat 1880 (Traill); Becket = 1st scientific survey with chain (*Jareeb*) and 5 soil classes. |
+| **Gardner vs Ramsay** | Gardner = 1st Commissioner (1815, 9 months); Ramsay = longest-serving Commissioner (1856–1884, "Ramji"). |
+| **Hill Patwari vs Plains Patwari** | Hill Patwari holds **police investigation powers**; plains Patwari only manages land records. |
+
+---
+
+## UKPCS Inline & Practice Questions
+
+**Q1 (UKPCS Prelims 2025, Q71).** What were the duties of ‘Kamin’ in Uttarakhand during the colonial period?  
 A. Collection of revenue from assigned villages  
 B. Managing water supply  
 C. Gathering food from the forests  
 D. Arranging marriages  
+*Answer:* **A** (Kamin collected revenue from assigned clusters of villages).
 
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Colonial village functionaries in Kumaon worked on revenue.
-
-**Ans: A (Series B provisional key).** The Kamin collected land revenue from villages assigned to him in the colonial intermediary chain.
-
-</details>
-
-**UKPCS Prelims 2025, Q86**
-
-At which place were native doctors appointed by ‘Traill’ in 1833?
-
+**Q2 (UKPCS Prelims 2025, Q86).** At which place were native doctors appointed by ‘Traill’ in 1833?  
 A. Nainital  
 B. Almora  
 C. Dehradun  
 D. Srinagar  
+*Answer:* **B** (Almora was Traill’s headquarters).
 
-<details>
-<summary>Show answer</summary>
+**Q3.** Who was the first Commissioner of Kumaon under the British administration?  
+A. G. W. Traill  
+B. Edward Gardner  
+C. Henry Ramsay  
+D. J. H. Batten  
+*Answer:* **B** (Edward Gardner, May 1815 – April 1816).
 
-**Logic:** Traill’s Kumaon headquarters narrows the place.
+**Q4.** The famous 7th Land Revenue Settlement known as 'Assi Sala Bandobast' was carried out by:  
+A. E. Gardner  
+B. G. W. Traill  
+C. J. O'B. Becket  
+D. Henry Ramsay  
+*Answer:* **B** (G. W. Traill in Vikram Samvat 1880 / 1823 CE).
 
-**Ans: B (Series B provisional key).** Traill appointed native doctors at Almora, the Kumaon headquarters. Nainital rises as a station later (about 1841).
-
-</details>
-
----
-
-## Practice Zone
-
-**Q1.** Which unit remained a princely estate after the Anglo-Gorkha settlement rather than a Company hill district?
-
-A. Almora  
-B. British Garhwal  
-C. Tehri  
-D. Nainital  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Princely vs British district.
-
-**Ans: C.** Tehri under Sudarshan Shah stayed princely; Kumaon and eastern Garhwal went to the Company.
-
-</details>
-
-**Q2.** Which pairing of hill village offices is correct?
-
-A. Padhan — revenue from a group of villages  
-B. Kamin — headman of a single village only  
-C. Sayana — higher-grade intermediary above the Kamin  
-D. Patwari — colonial hill title for the Kamin  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Padhan / Kamin / Sayana grades vs plains Patwari dump.
-
-**Ans: C.** Sayana sits above the Kamin in the coaching chain. Padhan is one village; Kamin covers assigned villages; Patwari is a plains contrast, not the hill Kamin.
-
-</details>
-
-**Q3.** Which officer sequence for British Kumaon is the standard coaching memory?
-
-A. Ramsay → Traill → Gardner  
-B. Gardner → Traill → later Ramsay  
-C. Batten → Gardner → Traill  
-D. Traill → Sudarshan Shah → Ramsay  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** First Commissioner memory, long early Commissioner, later Commissioner.
-
-**Ans: B.** Gardner is the early post-1815 memory; Traill is the long early Commissioner; Ramsay is the classic later Commissioner. Batten is a settlement name, not the start of the chain.
-
-</details>
-
----
-
-## Common Traps
-
-1. **Kamin = forest gatherer / marriage broker** → revenue collector.
-2. **Traill doctors at Nainital 1833** → Almora.
-3. **All Garhwal = British district from 1815** → Tehri excluded.
-4. **Padhan = Kamin** → one village vs group of villages.
-5. **Forest reservation = Chipko** → reservation is the colonial burden; Chipko is later.
+**Q5.** Which Kumaon Commissioner was popularly referred to by hill residents as 'Ramji Sahab'?  
+A. J. H. Batten  
+B. Sir Henry Ramsay  
+C. G. T. Lushington  
+D. Col. Gowan  
+*Answer:* **B** (Sir Henry Ramsay, Commissioner during the 1857 Revolt).

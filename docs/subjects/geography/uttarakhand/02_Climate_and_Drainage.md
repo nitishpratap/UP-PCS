@@ -1,205 +1,154 @@
-# Topic 2 — Climate & Drainage
+# Topic 2 — Climate, Drainage & Glaciology of Uttarakhand
 
-### ★ UKPCS state card (Unit 2)
+### ★ UKPCS state card (Unit 2 — Geography of Uttarakhand)
 
-> **Sources:** UKPCS west→east river keys, NCERT Himalayan climate belts, Panch Prayag map.  
-> **High-yield 2025:** rivers west→east (Q109).  
-> **Climate vulnerability / SCCC:** [Natural Hazards](07_Transport_Tourism_Natural_Hazards.md) (Q105–Q106).
-
----
-
-## Current Affairs (this topic)
-
-- Cloudburst / flood seasons and glacier news refresh the climate–drainage link; institutional SCCC keys stay under hazards.
-- Keep the west→east four-river list stable for mismatch stems.
+> **Sources:** Survey of India, Wadia Institute of Himalayan Geology, Uttarakhand Jal Sansthan, UKPCS PYQ stems (West to East river order 2025 Q109, Panch Prayag confluences, Panch Kedar anatomical body parts, Panch Badri, Glaciers & Tals).  
+> **Pair with:** [Location & Relief](01_Location_Relief_Structure.md) · [Vegetation & Wildlife](03_Vegetation_and_Wildlife.md) · [Natural Hazards](07_Transport_Tourism_Natural_Hazards.md)
 
 ---
 
 ## Quick Revision — Spine Only
 
-| Head | Correct |
-|------|---------|
-| Climate type | Mountain / monsoon-modified; altitudinal zones from subtropical foothills to alpine |
-| Rainfall pattern | Windward Himalayan slopes wetter; rain-shadow pockets inland |
-| Seasonal stress | Winter cold in high valleys; monsoon cloudbursts / floods in mid-hills |
-| West → east rivers (2025) | **Yamuna → Bhilangana → Alaknanda → Gori** |
-| Yamuna | Western margin; source region **Yamunotri** |
-| Bhagirathi | Source **Gangotri / Gaumukh**; meets Alaknanda at **Devprayag** |
-| Bhilangana | Joins **Bhagirathi** in **Tehri** belt |
-| Alaknanda | Central Garhwal trunk; Panch Prayag sequence |
-| Gori (Gori Ganga) | Eastern **Pithoragarh** drainage |
-| Kali / Sharda | Eastern border trunk with Nepal |
-| Ramganga / Kosi | Important Kumaon drainage names |
+| Head | Key Fact |
+| :--- | :--- |
+| **Longest River in UK** | **Kali (Sharda)** — **252 km**; source: Lipulekh / Kalapani; international boundary with Nepal |
+| **Ganga Formation** | **Bhagirathi (205 km)** + **Alaknanda (195 km)** unite at **Devprayag** to form the **Ganga** |
+| **West $\rightarrow$ East Rivers (2025)** | **Yamuna $\longrightarrow$ Bhilangana $\longrightarrow$ Alaknanda $\longrightarrow$ Gori Ganga** (UKPCS 2025 Q109) |
+| **Panch Prayag (N $\rightarrow$ S)** | **Vishnuprayag $\rightarrow$ Nandaprayag $\rightarrow$ Karnaprayag $\rightarrow$ Rudraprayag $\rightarrow$ Devprayag** |
+| **Largest Glacier in UK** | **Gangotri Glacier** (Uttarkashi) — **30 km long**, 2 km wide; source of Bhagirathi |
+| **Largest Glacier in Kumaon** | **Milam Glacier** (Pithoragarh) — **16 km long**; source of Gori Ganga |
+| **2nd Longest Glacier** | **Pindari Glacier** (Bageshwar) — source of Pindar river; discovered by G. W. Traill |
+| **Highest Shiva Temple** | **Tungnath** (Rudraprayag) — at **3,680 m**; part of Panch Kedar (arms worshipped) |
+| **Mystery / Skeleton Lake** | **Roopkund** (Chamoli, 5,029 m) — human skeletons from 9th cent. CE (*Raja Jasdhaval*) |
+| **Deepest Lake in Kumaon** | **Naukuchiatal** (Nainital) — 9-cornered lake; approx. 40 m deep |
+| **Largest Lake in Kumaon** | **Bhimtal** (Nainital) — triangular lake with an island restaurant in the center |
 
 ---
 
-## Must-Score Facts
+## Must-Score Facts (High-Yield UKPCS)
 
-1. West→east: Yamuna → Bhilangana → Alaknanda → Gori.
-2. Yamunotri → Yamuna; Gangotri/Gaumukh → Bhagirathi; Devprayag → Ganga.
-3. Panch Prayag: Vishnu (Dhauliganga) → Nanda (Nandakini) → Karna (Pindar) → Rudra (Mandakini) → Dev (Bhagirathi).
-4. Bhilangana → Bhagirathi (Tehri); Kali/Sharda = Nepal-border eastern trunk.
-5. Altitude = primary climate control; monsoon + western disturbances.
-
----
-
-## Confused Pairs
-
-| Pair | Correct |
-|------|---------|
-| West→east vs east→west | **Yamuna** is west; **Gori** is east — reverse list is the distractor |
-| Bhilangana vs Alaknanda | **Bhilangana** joins **Bhagirathi at Tehri**; Alaknanda is the central Garhwal trunk |
-| Gori vs Kali | **Gori** is the 2025 eastern marker; **Kali/Sharda** is the Nepal-border trunk nearby |
-| Two Dhauligangas | Vishnuprayag uses **western Dhauli Ganga**; **Eastern Dhauliganga** → Kali/Sharda |
-| Devprayag vs other prayags | Only Devprayag forms the **Ganga** (Bhagirathi + Alaknanda) |
-
----
-
-## 2.1 Climate sketch
-
-**Identity:** Altitude-stacked climate shaped by monsoon and western disturbances.
-
-- Altitude creates stacked climatic belts from warm subtropical Tarai foothills to cold alpine heights.
-- **Tarai and dun** feel humid subtropical summers with hot pre-monsoon months.
-- **Mid-hills** are temperate, with cool summers and cold winters in deep valleys.
-- **High valleys** turn alpine and glacial above the permanent snow line.
-- The **southwest monsoon** brings the bulk of summer rainfall on windward outer Himalayan slopes.
-- **Western disturbances** bring winter precipitation and snowfall to the higher Himalaya.
-- Orography drives heavy rain on outer slopes; some inner valleys sit in rain-shadow pockets.
-- Temperature falls with altitude — the usual Himalayan lapse-rate teaching applies on state stems.
-- Monsoon bursts and steep slopes explain landslide and flash-flood seasonality in the mid-hills.
-- Glaciers and snowfields feed the major Himalayan rivers of the state.
-- That physical stack — steep relief, glacier-fed rivers, concentrated monsoon bursts — is why the state is treated as **highly climate-vulnerable** (water stress, landslides, habitat pressure). Institutional SCCC / UAPCC facts sit on top of this picture in the hazards chapter.
+1. **West to East River Alignment (UKPCS 2025 Q109):**  
+   $$\text{Yamuna (West)} \longrightarrow \text{Bhilangana (Tehri)} \longrightarrow \text{Alaknanda (Central)} \longrightarrow \text{Gori Ganga (East Pithoragarh)}$$
+2. **Panch Prayag Confluence Formula:**
+   - **Vishnuprayag:** Alaknanda + Western Dhauliganga (Chamoli)
+   - **Nandaprayag:** Alaknanda + Nandakini (Chamoli)
+   - **Karnaprayag:** Alaknanda + Pindar (Chamoli)
+   - **Rudraprayag:** Alaknanda + Mandakini (Rudraprayag)
+   - **Devprayag:** Alaknanda + Bhagirathi (Tehri Garhwal) $\rightarrow$ becomes **Ganga**
+3. **Panch Kedar (Body Parts of Shiva Worshipped):**
+   - **Kedarnath:** Hump (*Prishtha*) — Rudraprayag
+   - **Madhyamaheshwar:** Navel (*Nabhi*) — Rudraprayag
+   - **Tungnath:** Arms (*Bhuja*) — Rudraprayag (highest Shiva temple: 3,680 m)
+   - **Rudranath:** Face / Mukha (*Mukh*) — Chamoli
+   - **Kalpeshwar:** Hair lock (*Jata*) — Chamoli (only Kedar open all 12 months)
+4. **Panch Badri (All in Chamoli District):**
+   - **Vishal Badri (Badrinath):** Main Dham consecrated by Adi Shankara.
+   - **Yogdhyan Badri:** Pandukeshwar (where Pandu meditated).
+   - **Bhavishya Badri:** Subhai / Tapovan (future shrine).
+   - **Vridha Badri:** Animath (ancient seat before Badrinath).
+   - **Adi Badri:** Karnaprayag (cluster of 16 ancient stone shrines).
 
 ---
 
-## 2.2 Drainage framework — Ganga and Yamuna heads
+## River Systems of Uttarakhand: Comprehensive Master Matrix
 
-**Identity:** Upper Ganga basin | Bhagirathi–Alaknanda | upper Yamuna.
-
-- The state is the upper basin of the **Ganga** system.
-- It also carries the upper **Yamuna**.
-- The **Yamuna** rises in the **Yamunotri** glacier region.
-- The Yamuna marks the western drainage margin of Uttarakhand.
-- The **Bhagirathi** rises from the **Gangotri** glacier near **Gaumukh**.
-- The **Alaknanda** drains central Garhwal through the sacred prayag sequence.
-- At **Devprayag**, the Bhagirathi and Alaknanda meet.
-- The combined river at Devprayag is called the **Ganga**.
-- The **Bhilangana** joins the Bhagirathi in the **Tehri** reservoir landscape.
-
----
-
-## 2.3 Panch Prayag (upstream → downstream)
-
-**Identity:** Five Alaknanda confluences | Devprayag forms the Ganga.
-
-- **Vishnuprayag** is where the **Dhauli Ganga** (western / Alaknanda Dhauli) joins the Alaknanda.
-- **Eastern Dhauliganga** is **not** in the Panch Prayag set — it joins the **Kali / Sharda** eastward. Any stem pairing Eastern Dhauliganga with Alaknanda is wrong.
-- **Nandaprayag** is where the **Nandakini** joins the Alaknanda.
-- **Karnaprayag** is where the **Pindar** joins the Alaknanda.
-- **Rudraprayag** is where the **Mandakini** joins the Alaknanda.
-- **Devprayag** is where the **Bhagirathi** joins the Alaknanda.
-- At Devprayag the river becomes the **Ganga**.
-- Downstream order is Vishnuprayag → Nandaprayag → Karnaprayag → Rudraprayag → Devprayag.
-- Driving up from Rishikesh meets the same five prayags in reverse order.
+| River System | Source Glacier / Origin | Length in UK | Major Tributaries & Confluences |
+| :--- | :--- | :---: | :--- |
+| **Kali (Sharda)** | Lipulekh / Kalapani (Pithoragarh) | **252 km** *(Longest)* | Kuti Yankti (Gunji), Eastern Dhauliganga (Tawaghat), Gori Ganga (Jauljibi), Saryu (Pancheshwar), Ladhia (Chuka). |
+| **Bhagirathi** | Gaumukh (Gangotri Glacier, Uttarkashi) | **205 km** | Rudraganga (Gangotri), Jadhganga/Jahanvi (Bhaironghati), Asiganga (Uttarkashi), Bhilangana (Old Tehri). |
+| **Alaknanda** | Satopanth & Bhagirath Kharak (Chamoli) | **195 km** | Saraswati (Mana / Keshavprayag), Western Dhauli (Vishnuprayag), Nandakini, Pindar, Mandakini. |
+| **Western Ramganga** | Dudhatoli range (Pauri/Chamoli/Almora) | **155 km** | Gagas, Binau, Deogadh. Traverses Corbett National Park into UP. |
+| **Kosi (Kaushiki)** | Dharpani Dhar (Kausani, Almora) | **168 km** | Drains Almora, Someshwar, Ramnagar; joins Ramganga in UP. |
+| **Yamuna** | Yamunotri Glacier (Bandarpunch, Uttarkashi)| **136 km** | Rishiganga, Hanuman Ganga, Kamal, Tons (Dakpathar), Giri, Asan (Rampur Mandi). |
+| **Tons (Supin)** | Bandarpunch / Har-Ki-Doon (Uttarkashi) | **148 km** | Formed by confluence of Rupin and Supin at Netwar. Carries **twice the water volume** of the Yamuna! |
+| **Saryu** | Sarmool (Bageshwar) | **146 km** | Gomti (Bageshwar), Panar (Rameshwar), Eastern Ramganga (Muawani). Meets Kali at Pancheshwar. |
+| **Mandakini** | Chaurabari Glacier (Kedarnath, Rudraprayag)| **72 km** | Vasukiganga (Sonprayag), Madhu Ganga. Meets Alaknanda at Rudraprayag. |
+| **Bhilangana** | Khatling Glacier (Tehri Garhwal) | — | Balganga, Dharmaganga. Submerged in Tehri Dam reservoir. |
 
 ---
 
-## 2.4 West → east river order (2025 list)
+## Major Glaciers (Himanad) of Uttarakhand
 
-**Identity:** Yamuna then Bhilangana then Alaknanda then Gori.
+```
+                          Major Glaciers
+                                │
+        ┌───────────────────────┴───────────────────────┐
+        ▼                                               ▼
+[Garhwal Division]                              [Kumaon Division]
+ • Gangotri (Uttarkashi, 30 km) [Largest]        • Milam (Pithoragarh, 16 km) [Largest]
+ • Khatling (Tehri) [Source of Bhilangna]        • Pindari (Bageshwar, 30 km) [Traill's Pass]
+ • Satopanth & Bhagirath Kharak (Chamoli)        • Ralam & Namik (Pithoragarh)
+ • Chaurabari (Rudraprayag) [Kedarnath Lake]     • Sunderdhunga & Kafni (Bageshwar)
+```
 
-- West-to-east order for the four-name list is **Yamuna, Bhilangana, Alaknanda, Gori**.
-- **Yamuna** anchors the western edge of the state.
-- **Bhilangana** sits next in the Tehri / Bhagirathi catchment.
-- Bhilangana lies east of the Yamuna belt.
-- **Alaknanda** occupies central Garhwal.
-- Alaknanda lies east of the Bhagirathi–Tehri system.
-- **Gori (Gori Ganga)** marks eastern **Pithoragarh** drainage.
-- Gori closes the four-name list on the east.
-- Reverse order with Gori first and Yamuna last is the planted distractor.
-- Bhagirathi itself is not one of the four names in that west–east list.
-- Bhagirathi remains the Devprayag twin of Alaknanda.
-
----
-
-## 2.5 Eastern and Kumaon drainage notes
-
-**Identity:** Kali / Sharda border trunk with Ramganga and Kosi notes.
-
-- The **Kali** forms an important eastern border trunk with Nepal.
-- Downstream, the Kali is called the **Sharda**.
-- **Gori** joins the Kali system in the Pithoragarh belt.
-- Gori therefore sits as the eastern marker in the 2025 west–east list.
-- The **Ramganga** of Kumaon is a significant left-bank Himalayan feeder in the eastern hill drainage story.
-- The **Kosi** of Kumaon is another named Kumaon stream in standard state GK.
-- Do not confuse the Kumaon Kosi with the larger Bihar Kosi narrative.
-- Together these names complete the eastward drainage map beyond the Alaknanda–Ganga core.
+1. **Gangotri Glacier (Uttarkashi):** Largest glacier in Uttarakhand (30 km long, 2 km wide). Its terminal snout is **Gaumukh** (3,900 m), the source of the Bhagirathi.
+2. **Pindari Glacier (Bageshwar):** Located in the Nanda Devi sanctuary between Nanda Devi and Nanda Kot peaks; source of the **Pindar River**; discovered and crossed by Commissioner G. W. Traill in 1830 via **Traill's Pass**.
+3. **Milam Glacier (Pithoragarh):** Largest glacier of Kumaon (16 km long); source of the **Gori Ganga**; historically accessible to Bhotia traders crossing Unta Dhura into Tibet.
+4. **Khatling Glacier (Tehri):** Situated in Bhilangna valley; source of the **Bhilangana River**; discovered by Indramani Badoni.
+5. **Chaurabari Glacier (Rudraprayag):** Snout located 2 km above Kedarnath; feeds Mandakini river and **Chaurabari Tal (Gandhi Sarovar)**; ruptured during the catastrophic 16–17 June 2013 Kedarnath disaster.
 
 ---
 
-## UKPCS Inline PYQ
+## Master Table of High-Altitude Lakes & Tals
 
-**UKPCS Prelims 2025, Q109**
-
-What is the correct order of rivers from west to east in Uttarakhand?
-
-A. Yamuna, Bhilangana, Alaknanda, Gori 
-B. Gori, Alaknanda, Bhilangana, Yamuna 
-C. Alaknanda, Bhilangana, Yamuna, Gori 
-D. Bhilangana, Yamuna, Gori, Alaknanda 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Yamuna brackets the west and Gori the east.
-
-**Ans: A (Series B provisional key).** Yamuna west → Bhilangana (Tehri/Bhagirathi) → Alaknanda (central Garhwal) → Gori (east / Pithoragarh).
-
-</details>
+| Lake / Tal | District & Altitude | High-Yield Prelims Characteristics |
+| :--- | :--- | :--- |
+| **Roopkund** | **Chamoli** (5,029 m) | **"Mystery Lake" / "Skeleton Lake":** Contains hundreds of 9th-century human skeletal remains (linked to King Jasdhaval of Kannauj and Queen Vallabha); situated on the Nanda Devi Raj Jat route. |
+| **Hemkund (Lokpal)** | **Chamoli** (4,329 m) | Sacred lake surrounded by **7 snow-clad peaks**; holy Gurudwara of Guru Gobind Singh and ancient Lakshman Temple; source of Lakshmanganga. |
+| **Nainital Lake** | **Nainital** (1,938 m) | Pear-shaped lake discovered by **P. Barron** in 1841; divided into *Mallital* and *Tallital*; surrounded by 7 hills (China Peak, Naina Peak, Ayarpatta, etc.). |
+| **Naukuchiatal** | **Nainital** | **Deepest lake** in Kumaon (~40 m); possesses **9 corners**; haven for migratory birds. |
+| **Bhimtal** | **Nainital** | **Largest lake** in Kumaon region; triangular shaped; features a picturesque island restaurant. |
+| **Dodital** | **Uttarkashi** (3,024 m) | **6-cornered lake**; mythologically associated with the birth of Lord Ganesha; origin of the Asiganga river; famous for Himalayan Golden Trout. |
+| **Sahasratal** | **Tehri Garhwal** | Group of hundreds of glacial tarns situated on the northern ridge of Khatling glacier; largest tal in Garhwal. |
+| **Deoria Tal** | **Rudraprayag** (2,438 m) | Famous for crystal-clear reflection of the **Chaukhamba peaks**; mythologically identified with the Yaksha-Yudhisthira dialogue. |
 
 ---
 
-## Practice Zone
+## Confused Pairs & Common Traps
 
-**Q1.** Bhagirathi and Alaknanda meet to form the Ganga at:
-
-A. Karnaprayag 
-B. Rudraprayag 
-C. Devprayag 
-D. Vishnuprayag 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Confluence identity.
-
-**Ans: C.** Devprayag is the Bhagirathi–Alaknanda confluence.
-
-</details>
-
-**Q2.** At Vishnuprayag, the Alaknanda is joined by the:
-
-A. Mandakini 
-B. Pindar 
-C. Nandakini 
-D. Dhauliganga 
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Tributary at Vishnuprayag.
-
-**Ans: D.** Vishnuprayag is Alaknanda + Dhauliganga. Mandakini joins at Rudraprayag; Pindar at Karnaprayag; Nandakini at Nandaprayag.
-
-</details>
+| Confused Pair | Critical Distinction |
+| :--- | :--- |
+| **Longest River vs Deepest River** | Longest river = **Kali (252 km)**; River with greatest water volume = **Alaknanda**. |
+| **Gangotri Glacier vs Milam Glacier** | Gangotri = **Largest in Uttarakhand** (Uttarkashi, 30 km); Milam = **Largest in Kumaon** (Pithoragarh, 16 km). |
+| **Vishnuprayag vs Devprayag** | Vishnuprayag = Alaknanda + **Western Dhauliganga**; Devprayag = Alaknanda + **Bhagirathi** (creates the Ganga). |
+| **Roopkund vs Dodital** | Roopkund = **Skeleton lake** (Chamoli, 5,029 m); Dodital = **6-cornered lake of Ganesha** (Uttarkashi). |
+| **Tungnath vs Kedarnath** | Tungnath = **Highest Shiva Temple** (3,680 m, arms); Kedarnath = **Supreme Jyotirlinga Dham** (hump). |
 
 ---
 
-## Common Traps
+## UKPCS Inline & Practice Questions
 
-1. **East→west list as “west to east”** → reverse of Yamuna…Gori.
-2. **Bhilangana = Alaknanda tributary only** → it joins Bhagirathi.
-3. **Skipping Yamuna because it is an “HP river”** → it still marks UK’s western drainage.
-4. **Devprayag = Mandakini confluence** → that is Rudraprayag; Devprayag forms the Ganga.
-5. **Gori = Kali** → Gori is the 2025 eastern marker; Kali/Sharda is the Nepal-border trunk nearby.
+**Q1 (UKPCS Prelims 2025, Q109).** What is the correct order of rivers from west to east in Uttarakhand?  
+A. Yamuna, Bhilangana, Alaknanda, Gori  
+B. Gori, Alaknanda, Bhilangana, Yamuna  
+C. Alaknanda, Bhilangana, Yamuna, Gori  
+D. Bhilangana, Yamuna, Gori, Alaknanda  
+*Answer:* **A** (Yamuna $\rightarrow$ Bhilangana $\rightarrow$ Alaknanda $\rightarrow$ Gori Ganga).
+
+**Q2.** Which is the longest river flowing entirely within the geographical territory of Uttarakhand?  
+A. Bhagirathi  
+B. Alaknanda  
+C. Kali (Sharda)  
+D. Western Ramganga  
+*Answer:* **C** (Kali River with 252 km course).
+
+**Q3.** In the sacred 'Panch Kedar' pilgrimage circuit, which anatomical part of Lord Shiva is worshipped at Tungnath?  
+A. Hump  
+B. Arms (*Bhuja*)  
+C. Face (*Mukh*)  
+D. Navel (*Nabhi*)  
+*Answer:* **B** (Arms at Tungnath; Hump at Kedarnath; Navel at Madhyamaheshwar).
+
+**Q4.** The famous glacial lake 'Roopkund' (Skeleton Lake) is situated in which district of Uttarakhand?  
+A. Uttarkashi  
+B. Pithoragarh  
+C. Chamoli  
+D. Rudraprayag  
+*Answer:* **C** (Chamoli district at 5,029 m).
+
+**Q5.** Which lake is the deepest natural lake in the Kumaon region of Uttarakhand?  
+A. Bhimtal  
+B. Nainital  
+C. Naukuchiatal  
+D. Sattal  
+*Answer:* **C** (Naukuchiatal, approx. 40 m deep).

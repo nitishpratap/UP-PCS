@@ -2,191 +2,145 @@
 
 ### ★ UKPCS state card (Unit 1 — History and Culture of Uttarakhand)
 
-> **Sources:** Standard UKPCS coaching maps (Lakhu Udyar, Malari, Bankot), ASI/university dig summaries, NCERT method for rock art and copper-hoard framing.  
-> **Pair with:** [National Stone Age](../01_Stone_Age.md) · [Archaeology](../13_Archaeology.md) · [Ancient Tribes](02_Ancient_Tribes_of_Uttarakhand.md)
+> **Sources:** Dr. Yashodhar Mathpal's *Rock Art of Kumaon Himalaya*, Dr. M. P. Joshi's survey reports, HNB Garhwal University Malari excavations, Dr. Shiv Prasad Dabral 'Charan', UKPCS PYQ stems (Lakhudiyar Suyal river, Hudli blue paintings, Malari gold mask, Bankot copper hoards).  
+> **Pair with:** [National Stone Age](../01_Stone_Age.md) · [Ancient Tribes](02_Ancient_Tribes_of_Uttarakhand.md) · [Kuninda and Yaudheya](03_Kuninda_and_Yaudheya.md)
 
 ---
 
 ## Quick Revision — Spine Only
 
-| Head | Key |
-|------|-----|
-| Lead rock-art site | **Lakhu Udyar / Lakhudiyar**, Almora, on the **Suyal** |
-| Paint colours | **Red, black, white** human–animal and group scenes |
-| First modern report | **M.P. Joshi** circle (late 1960s; Barechhina belt) |
-| High Himalayan burial | **Malari**, Chamoli — cist/megalithic finds, pottery, gold mask report |
-| Copper anthropomorphs | **Bankot** (Pithoragarh) and nearby Kumaon finds |
-| Palaeolithic river belts | Yamuna (**Kalsi**), Alaknanda (**Srinagar**), Ramganga valleys |
-| Protohistoric meaning here | Copper / early metal + megalithic burial horizon before clear dynastic texts |
+| Head | Key Fact |
+| :--- | :--- |
+| **Lakhudiyar (Lakhu Cave)** | Barechhina, **Almora** on the **Suyal river**; discovered 1968 by **Dr. M. P. Joshi**; red, black, white motifs |
+| **Gwarkha Udyar** | Dungri village, **Chamoli** on **Alaknanda river**; discovered by Rakesh Bhatt; vivid red animal depictions |
+| **Hudli Rock Art** | **Uttarkashi** on Kamal river; unique for **blue colour** rock paintings |
+| **Kimni Village** | Chamoli (Pindar valley); **light white colour** depictions of weapons and cattle |
+| **Luethap** | Almora; human figures painted in **blood-red colour** in group dancing postures |
+| **Falsima** | Almora; humans depicted in **yogic and dancing postures**; prehistoric cup-marks (*Okhal*) |
+| **Phadkanauli & Petshal** | Almora; discovered by **Dr. Yashodhar Mathpal** (1989–90); ochre dance motifs |
+| **Malari Excavations** | **Chamoli**; investigated by **S. P. Dabral (1956)** and **Garhwal University (1983, 2001)** |
+| **Malari Master Finds** | **5.2 kg gold face mask**, complete skeleton of Himalayan Zebu bull, Swat-style pottery |
+| **Bankot Copper Hoard** | **Pithoragarh**; **8 copper anthropomorphs** (humanoid figures) discovered in 1989 |
+| **Bahadrabad (Haridwar)** | Excavated 1951–53 by **Y. D. Sharma**; Copper Hoards and Ochre-Coloured Pottery (OCP) |
+| **Naula Jainal (Almora)** | Megalithic cist-burials discovered by Dr. M. P. Joshi |
 
 ---
 
-## Must-Score Facts
+## Must-Score Facts (High-Yield UKPCS)
 
-1. Lakhu Udyar = Almora + Suyal + red/black/white rock art.
-2. Malari = Chamoli burial / high Himalaya card.
-3. Bankot = Pithoragarh copper anthropomorphs.
-4. Kalsi / Srinagar belts = Palaeolithic tool geography.
-5. Protohistoric ≠ Harappan city culture in the high hills.
-
----
-
-## Confused Pairs
-
-| Pair | Key |
-|------|-----|
-| Lakhu Udyar vs Bhimbetka | Lakhu = **Uttarakhand** Himalayan rock art; Bhimbetka = **MP** UNESCO corpus |
-| Malari vs Burzahom | Both yield early burials; Malari is **Chamoli / high Garhwal**; Burzahom is **Kashmir** Neolithic |
-| Bankot copper vs IVC bronze | Bankot figures are **Copper Hoard / early metal** anthropomorphs, not Harappan city bronze |
-| Kartikeyapur vs Lakhu | Kartikeyapur = later **Katyuri capital**; Lakhu = **prehistoric** shelter |
-| Kalsi tools vs Kalsi edict | Palaeolithic **tool belt** near Kalsi ≠ Ashokan **edict** card (same place-name, different age) |
+1. **Lakhudiyar ("One Lakh Caves"):** Located at Barechhina in Almora district along the **Suyal River**. Depicts humans dancing with locked hands (*interlocking finger chain*), animals (fox, lizard-like quadrupeds), and geometric waves in three colors: **red (ochre), black (charcoal), and white (lime)**.
+2. **Hudli's Blue Colour:** The only prehistoric site in Uttarakhand featuring **blue-pigment paintings** (located in Uttarkashi district).
+3. **Malari Village Discoveries (Chamoli):**
+   - First reported by **Dr. Shiv Prasad Dabral 'Charan'** in 1956.
+   - Excavations by HNB Garhwal University team led by Dr. B. M. Khanduri (1983 and 2001).
+   - Uncovered a **5.2 kg gold funerary mask**, a complete *Bos indicus/Zebu* bull skeleton, bronze chalices, and fine grey pottery identical to the 2nd millennium BCE **Swat Valley (Pakistan)** grave culture.
+4. **Bankot Anthropomorphs (Pithoragarh):** In 1989, 8 flat humanoid copper figures weighing several kilograms were found at Bankot; related to the all-India Gangetic Copper Hoard Culture.
+5. **Kalsi Ashokan Rock Edict:** Located on the confluence of the **Yamuna and Tons rivers** in Dehradun; inscribed in **Prakrit language** and **Brahmi script** (257 BCE). Proves the central Himalayan foothills were integrated into the Mauryan Empire.
 
 ---
 
-## 1.0 Framework
+## Master Table of Prehistoric Rock Art Sites in Uttarakhand
 
-1. **Prehistoric** Uttarakhand is proved by tools, painted shelters, and burial finds — not by royal chronicles.
-2. **Protohistoric** here means early metal and megalithic horizons that sit before clear literary dynasties (Kuninda and after).
-3. Always pin **site → district → find type** (paint / burial / copper / stone tool).
-
----
-
-## 1.1 Why the hills matter
-
-- River valleys (Yamuna, Alaknanda, Ramganga, Suyal) offered rock shelters, water, and transit routes between plains and high passes.
-- UKPCS stems usually ask **place + speciality**, not long culture theory.
-- National Stone Age method still applies: typology and stratigraphy first, then the famous named site.
-
----
-
-## 1.2 Palaeolithic and Stone Age tool belts
-
-- Lower Palaeolithic tools are reported along the **Yamuna** near **Kalsi** and related Yamuna-bank localities.
-- The **Alaknanda** belt around **Srinagar (Garhwal)** yields Middle Palaeolithic evidence in coaching lists.
-- Upper Palaeolithic tool reports appear from localities such as the **Jaskot** belt in standard UKPSC ratta maps.
-- Ramganga-valley finds sit in the same “river-belt survey” memory as Yamuna and Alaknanda.
-- Treat these as **survey/find belts**, not as dated civilisations like Harappa.
+| Site Name | District & River Basin | Discovered By / Year | Distinguishing Visual & Stylistic Features |
+| :--- | :--- | :--- | :--- |
+| **Lakhudiyar (Lakhu Udyar)** | **Almora** (Barechhina, Suyal river) | **Dr. M. P. Joshi** (1968) | Largest rock shelter. 3 colours: red, black, white. Humans in interlocking finger dancing chain; lizard-like animals; wavy lines. |
+| **Gwarkha Udyar** | **Chamoli** (Dungri village, Alaknanda) | Rakesh Bhatt | Vivid, well-preserved depictions of human hunters, sheep, mountain goats, and deer painted in bold ochre. |
+| **Kimni Village** | **Chamoli** (Tharali, Pindar river) | State Archaeology Survey | Distinctive **light white chalk/lime** paintings depicting spears, daggers, bows, arrows, and livestock. |
+| **Luethap** | **Almora** (near Almora town) | Regional Survey | Figures rendered in striking **blood-red colour**; depiction of humans driving animals into traps and hand-in-hand dance. |
+| **Hudli** | **Uttarkashi** (Kamal river valley) | State Archaeology Survey | **Blue colour** rock inscriptions and geometric animal paintings (unique in the Central Himalaya). |
+| **Falsima** | **Almora** (near Phadkanauli) | Regional Survey | Humans depicted in **Yogic postures** (*Asanas*) and ritual dance circles; cup-marks cut into rock slabs. |
+| **Phadkanauli** | **Almora** (Barechhina-Danya road) | **Dr. Yashodhar Mathpal** (1989) | Three painted rock shelters with reddish-brown deer and human scenes. |
+| **Petshal** | **Almora** (between Barechhina & Danya)| **Dr. Yashodhar Mathpal** (1990) | Ochre-coloured dancing human figures in ceremonial rows. |
+| **Kasardevi Cave** | **Almora** (Crank's Ridge) | Prehistoric shelter | Cup-marks and prehistoric incisions; later site of Swami Vivekananda's meditation (1890). |
 
 ---
 
-## 1.3 Rock art — Lakhu Udyar and Almora circuit
+## Protohistoric Horizons: Megaliths, Burials & Copper Hoards
 
-**Lakhu Udyar (Lakhudiyar) | Almora | Suyal river near Barechhina**
+```
+                    Central Himalayan Protohistory
+                                  │
+         ┌────────────────────────┴────────────────────────┐
+         ▼                                                 ▼
+[Megalithic / Cist Burials]                       [Copper Hoard Horizon]
+  • Malari (Chamoli): 5.2 kg gold mask,             • Bankot (Pithoragarh): 8 copper
+    Zebu bull, Swat-type grey pottery                 anthropomorphs (1989)
+  • Naula Jainal (Almora): Cist graves              • Bahadrabad (Haridwar): Copper
+  • Dwarahat & Ramganga valley cup-marks              celts, swords & OCP (Y. D. Sharma)
+```
 
-- The name points to a **painted rock shelter** (“udyar” = cave/shelter).
-- Paintings show humans, animals, group/dance-like scenes, dots and geometric motifs.
-- Colours remembered for Prelims are **ochre/red, black and white**.
-- Modern reporting of the Almora painted-shelter belt is linked to the **M.P. Joshi** circle from the late **1960s**.
-- The Almora circuit also lists shelters such as **Phadkanauli / Falsima / Petshal** in coaching notes.
-- Garhwal rock-art mentions include **Gwarkha Udyar** (Alaknanda) and **Kimni** (Pindar belt, Chamoli).
-- Do not merge this Himalayan corpus into the **Bhimbetka** UNESCO card of Madhya Pradesh.
+### 1. Malari Village Cist Graves (Chamoli)
+- **Geographic Context:** Malari sits at an elevation of 3,048 m in the Dhauli Ganga valley, close to the Niti Pass leading to Western Tibet.
+- **Excavation Milestones:**
+  - 1956: Historian Dr. Shiv Prasad Dabral identified stone-cist graves with burial pottery.
+  - 1983 & 2001: Extensive scientific excavation by the Department of History and Archaeology, HNB Garhwal University.
+- **Key Artifacts:**
+  - Complete articulated skeleton of a domesticated Himalayan bull (*Bos indicus / Zebu*).
+  - **5.2 kg Gold Burial Mask** covering the skull of an elite chieftain.
+  - Distinctive black and red ware, spouted jars, and fine thin grey pottery with geometric graffiti marks identical to the Gandhara Grave Culture (Swat Valley).
+  - Radiocarbon dating places the burial sequence between 2000 BCE and 2nd century CE.
 
----
-
-## 1.4 Protohistoric burials and metal
-
-**Malari | Chamoli | high Himalaya near the Tibet approach**
-
-- Excavation reports describe **megalithic / cist burial** contexts with pottery and human remains.
-- Coaching notes highlight a **gold face mask** among celebrated Malari finds.
-- Use Malari as the **burial** card; use Lakhu as the **paint** card.
-- Do not swap Malari with **Burzahom** (Kashmir Neolithic pits and dog burial).
-
-**Copper anthropomorphs | Bankot (Pithoragarh) and related Kumaon finds**
-
-- Early metal “Copper Hoard”-style **human-shaped copper figures** are listed from **Bankot** and neighbouring Kumaon find-spots.
-- They mark a **protohistoric metal** horizon, not a Mauryan mint or Gupta temple phase.
-- They are **not** Harappan city bronze like the dancing girl of Mohenjo-daro.
-
----
-
-## 1.5 From protohistory to historic tribes
-
-- After the tool–paint–burial–copper horizon, the first well-attested **political** names in the hills are **Kuninda** (and related coin powers), then later **Kartikeyapur / Katyuri**.
-- Do not dump Chand or Parmar into this chapter — those are medieval UK folders.
-- Continue into [Ancient Tribes](02_Ancient_Tribes_of_Uttarakhand.md) and [Kuninda and Yaudheya](03_Kuninda_and_Yaudheya.md).
+### 2. Copper Hoards of Uttarakhand
+- **Bankot (Pithoragarh):** In 1989, eight anthropomorphic figures of solid cast copper were discovered. They feature curved arm-like projections and a rounded head, identical to the Gangetic valley Copper Hoards (such as Madarpur and Saipai).
+- **Bahadrabad (Haridwar):** Excavated in 1951 and 1953 by Dr. Y. D. Sharma. Uncovered copper rings, flat celts, barbed harpoons, and Ochre-Coloured Pottery (OCP), proving protohistoric agricultural settlement along the Upper Ganga foothills.
 
 ---
 
-## UKPCS Practice
+## The Kalsi Inscription of Emperor Ashoka (257 BCE)
 
-**Q1.** Lakhu Udyar prehistoric paintings are located in which district belt?
-
-A. Chamoli  
-B. Almora  
-C. Haridwar  
-D. Udham Singh Nagar  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Site–district–find matching is the usual UKPCS prehistoric pattern.
-
-**Ans: B.** Lakhu Udyar lies in the Almora district on the Suyal near Barechhina.
-
-</details>
-
-**Q2.** Which site is chiefly remembered for Himalayan burial / megalithic finds rather than rock paintings?
-
-A. Lakhu Udyar  
-B. Falsima  
-C. Malari  
-D. Kimni  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Do not confuse burial Malari with painted Lakhu.
-
-**Ans: C.** Malari in Chamoli is the burial/megalithic card; Lakhu is the painted shelter card.
-
-</details>
-
-**Q3.** Bankot finds are best described as:
-
-A. Mature Harappan street drains  
-B. Copper Hoard–style anthropomorphs from the Pithoragarh belt  
-C. Ashokan pillar edicts  
-D. Gupta gold dinaras  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Protohistoric metal vs IVC / Maurya / Gupta distractors.
-
-**Ans: B.** Bankot is remembered for copper anthropomorphs in the Kumaon early-metal horizon.
-
-</details>
-
-**Q4.** Which pairing is correct?
-
-A. Bhimbetka — Almora district rock art  
-B. Burzahom — Chamoli gold-mask burial card  
-C. Lakhu Udyar — Almora painted shelter on the Suyal  
-D. Kartikeyapur — Palaeolithic capital of the Yamuna belt  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Site identity traps across UK and national cards.
-
-**Ans: C.** Lakhu is the Almora paint card. Bhimbetka is MP; Burzahom is Kashmir; Kartikeyapur is later Katyuri geography.
-
-</details>
+- **Location:** Kalsi (ancient *Kalsi-Haripur* / *Chakrata* tehsil, Dehradun district), situated on the picturesque confluence of the **Yamuna and Tons** rivers.
+- **Language & Script:** Written in **Prakrit (Magadhi)** language using the **Brahmi script**.
+- **Nature:** One of the Fourteen Major Rock Edicts of Ashoka, carved on a massive quartz rock boulder.
+- **Content:** Outlines the Buddhist-Mauryan ethical code (*Dhamma*), bans animal sacrifice, prescribes medical treatment for men and animals, and refers to the territory of the Central Himalayan borderland as **Aparanta** or **Satyaputra**.
+- **The White Elephant:** Below the 14th edict, a fine engraving of an elephant bears the label **"Gajatame"** ("the most excellent elephant", symbolizing Lord Buddha).
 
 ---
 
-## Complete PYQ Bank — UKPCS Ancient UK (Pre / Proto)
+## Confused Pairs & Common Traps
 
-> Year banks hold full papers; plant future Lakhu / Malari / Bankot hits here when keyed.  
-> **Status:** Keep the map ready for uncovered-but-syllabus-natural heads even when a year skips a pure prehistoric stem.
+| Confused Pair | Critical Distinction |
+| :--- | :--- |
+| **Lakhudiyar vs Gwarkha** | Lakhudiyar = **Almora (Suyal river)**, M. P. Joshi; Gwarkha = **Chamoli (Alaknanda river)**, Dungri village. |
+| **Hudli vs Kimni** | Hudli = **blue colour** paintings (Uttarkashi); Kimni = **light white colour** paintings (Chamoli). |
+| **Malari vs Burzahom** | Malari = **Chamoli** (gold mask, cist burial, Zebu bull); Burzahom = **Kashmir** (Neolithic pit-dwellings, dog burial). |
+| **Bankot vs Bahadrabad** | Bankot = **Pithoragarh** (8 copper anthropomorphs); Bahadrabad = **Haridwar** (OCP and copper celts). |
+| **Kalsi Ashokan Edict Language** | Language is **Prakrit**; script is **Brahmi** (trap: not Sanskrit or Kharoshthi). |
 
 ---
 
-## Common Traps
+## UKPCS Inline & Practice Questions
 
-1. **Lakhu = Chamoli** — Almora / Suyal.
-2. **Malari = rock paintings** — burial / metal-mask coaching fame.
-3. **Bankot = Harappan town** — copper anthropomorph find, not IVC street plan.
-4. **Kartikeyapur = prehistoric capital** — later Katyuri seat.
-5. **Kalsi tools = only Ashokan edict** — same place-name can carry both Palaeolithic survey memory and the edict card; read the stem.
+**Q1.** The famous painted rock shelter 'Lakhudiyar' of Uttarakhand is situated on the banks of which river?  
+A. Alaknanda  
+B. Suyal  
+C. Kamal  
+D. Pindar  
+*Answer:* **B** (Suyal river at Barechhina, Almora).
+
+**Q2.** Which prehistoric rock art site in Uttarakhand is unique for its rock paintings executed in 'blue colour'?  
+A. Kimni  
+B. Luethap  
+C. Gwarkha  
+D. Hudli  
+*Answer:* **D** (Hudli in Uttarkashi along the Kamal river).
+
+**Q3.** In which year was the 5.2 kg gold face mask discovered during excavations in Malari village (Chamoli)?  
+A. 1956  
+B. 1968  
+C. 1983  
+D. 2001  
+*Answer:* **D** (2001 excavation by HNB Garhwal University team).
+
+**Q4.** How many copper anthropomorphic figures were discovered at Bankot in Pithoragarh district in 1989?  
+A. 4  
+B. 8  
+C. 12  
+D. 16  
+*Answer:* **B** (8 copper anthropomorphic figures).
+
+**Q5.** The Ashokan rock edict at Kalsi in Dehradun is inscribed in which language and script?  
+A. Sanskrit and Brahmi  
+B. Prakrit and Brahmi  
+C. Pali and Kharoshthi  
+D. Prakrit and Kharoshthi  
+*Answer:* **B** (Prakrit language, Brahmi script).

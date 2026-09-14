@@ -1,183 +1,146 @@
-# Topic 4 — Kartikepur Dynasty (Kartikeyapura)
+# Topic 4 — Kartikepur (Katyuri) Dynasty
 
 ### ★ UKPCS state card (Unit 1 — History and Culture of Uttarakhand)
 
-> **Syllabus head:** Kartikepur dynasty (ancient UK slice).  
-> **Full Katyuri political narrative** continues under [Medieval India — Uttarakhand](../../medieval%20india/uttarakhand/index.md).  
-> **Pair with:** Hiuen Tsang **Brahmapura** fact in [Kuninda and Yaudheya](03_Kuninda_and_Yaudheya.md).
+> **Sources:** Bageshwar Stone Inscription of Bhuwandev, Pandukeshwar Copper Plates (Lalitsuradeva & Padmata), Taleshwar Plates, Dr. Shiv Prasad Dabral, Dr. Ajay Rawat, UKPCS PYQ stems (Brahmapura vs Kartikeyapur Q75, Ishtaganadeva unifier, Lalitsuradeva Pandukeshwar plates, Katyuri administrative hierarchy).  
+> **Pair with:** [Kuninda and Yaudheya](03_Kuninda_and_Yaudheya.md) · [Medieval Kattyuri Dynasty](../../medieval%20india/uttarakhand/01_Kattyuri_Dynasty.md) · [Chand Dynasty](../../medieval%20india/uttarakhand/03_Chand_Dynasty_of_Kumaon.md)
 
 ---
 
 ## Quick Revision — Spine Only
 
-| Head | Key |
-|------|-----|
-| Dynasty family | **Katyuri** kings of Kumaon–Garhwal |
-| Famous capital | **Kartikeyapura** = modern **Baijnath** (Bageshwar district) |
-| Earlier seat | Tradition of **Joshimath** before the shift to Kartikeyapura |
-| Broad dates | Roughly **7th–11th / 12th century CE** golden phase in coaching maps |
-| Founder tradition | **Vasudeva / Basu Dev Katyuri** in many notes |
-| Chinese frame | Region earlier seen as **Brahmapura** in Hiuen Tsang |
-| Inscription / sacred-site distractors | **Taleshwar** plates; **Pandukeshwar** sacred geography |
-| After Katyuris | Fragmentation → later **Chand** (Kumaon) and **Parmar** (Garhwal) stories |
+| Head | Key Fact |
+| :--- | :--- |
+| **Dynasty Name** | **Kartikepur / Katyuri** — first historic imperial kingdom of Uttarakhand (c. **740 CE to 1050 CE**) |
+| **First Capital** | **Joshimath (Kartikeyapura)** in the Alaknanda valley (Garhwal) |
+| **Second Capital** | **Baijnath (Katyur Valley)** on the Gomti river in Bageshwar (Kumaon) |
+| **Founder Tradition** | **Basantandev (Basu Dev)** — assumed title *Parama-bhattaraka Maharajadhiraja* |
+| **Primary Epigraphic Record**| **Bageshwar Inscription** of King Bhuwandev & **4 Pandukeshwar Copper Plates** |
+| **The Great Unifier** | **Ishtaganadeva** — first monarch to politically unify entire Garhwal and Kumaon |
+| **Most Powerful Monarch** | **Lalitsuradeva** — compared to Varaha and Bhagiratha in Pandukeshwar plates |
+| **Three Dynastic Houses** | 1. **Basantandev House** $\rightarrow$ 2. **Nimbar House** $\rightarrow$ 3. **Salonaditya House** |
+| **Tyrannical Last King** | **Bir Dev (Biram Dev)** — notoriously tyrannical; overthrown by local uprising |
+| **Post-Katyuri Branches** | Fragmented into **Askot (Rajbars), Doti (Raiykas), Dwarahat, and Baijnath** |
+| **Official Language & Script**| Official/epigraphic language: **Sanskrit**; Script: **Kutila / Siddhamatrika** |
 
 ---
 
-## Must-Score Facts
+## Must-Score Facts (High-Yield UKPCS)
 
-1. Kartikeyapura = Baijnath (Bageshwar).
-2. Katyuri capital shift tradition: Joshimath → Kartikeyapura.
-3. Founder tradition: Vasudeva / Basu Dev Katyuri in many notes.
-4. Brahmapura (Hiuen Tsang) ≠ Kartikeyapur capital.
-5. Taleshwar and Pandukeshwar are separate inscription / sacred-site distractors.
-6. Kuninda coins come **before** Kartikepur kingship.
-7. Full Chand/Parmar story = Medieval UK folder.
-
----
-
-## Confused Pairs
-
-| Pair | Key |
-|------|-----|
-| Kartikeyapur vs Brahmapura | Capital city vs Chinese **regional** name |
-| Kartikeyapur vs Joshimath | Later Katyuri capital vs earlier seat tradition |
-| Kartikeya god vs Kartikeyapura | Capital named in Skanda/Kartikeya sacred geography; not only a temple label |
-| Kuninda vs Kartikepur | Early historic coins vs early medieval kingdom |
-| Taleshwar / Pandukeshwar vs Brahmapura | Inscription / sacred-site names ≠ Hiuen Tsang’s regional key |
+1. **Joshimath to Baijnath Shift:** Capital shifted from Joshimath to Kartikeyapura (Baijnath) in the Katyur valley to escape harsh winters, landslides, and Tibetan incursions.
+2. **The 3 Dynastic Families of Kartikeyapur:**
+   - **House of Basantandev:** Basantandev $\rightarrow$ Kharparadeva $\rightarrow$ Kalyanrajadeva $\rightarrow$ Tribhuwanrajadeva.
+   - **House of Nimbar (Shaivite):** Nimbar $\rightarrow$ **Ishtaganadeva** (unifier) $\rightarrow$ **Lalitsuradeva** (greatest builder) $\rightarrow$ Bhuwandev (Bageshwar inscription).
+   - **House of Salonaditya:** Salonaditya $\rightarrow$ Ichhata Deva $\rightarrow$ Deshatadeva $\rightarrow$ Padmata $\rightarrow$ Subhiksharajadeva.
+3. **Ishtaganadeva's Monumental Achievement:** First king who consolidated independent hill chieftains of both Kumaon and Garhwal into a single centralized Himalayan empire; constructed the Durga and Mahishamardini temples at Joshimath.
+4. **Lalitsuradeva’s Pandukeshwar Plates:** Dated to his 21st and 22nd regnal years. Eulogizes him as a champion of Dharma who extracted the submerged earth from the ocean like Lord Varaha.
+5. **Katyuri Epigraphy:**
+   - **Bageshwar Inscription:** Inscribed by King Bhuwandev; gives the unbroken genealogy of the Nimbar dynasty and records land gifts to the Vyaghreswar (Bageshwar) Shiva temple.
+   - **Pandukeshwar Plates (Chamoli):** 4 copper plates (2 of Lalitsuradeva, 1 of Padmata, 1 of Subhiksharajadeva).
+   - **Taleshwar Plates (Almora):** Record Paurava/early Katyuri administrative land grants.
 
 ---
 
-## 4.1 Why this head sits in the Ancient UK folder
+## The Three Dynastic Families of the Katyuris
 
-- UKPCS lists **Kartikepur dynasty** inside the Uttarakhand history block next to Kuninda.
-- Politically it is the bridge into early medieval hill kingship.
-- Keep this chapter focused on **capital, chronology band, and transition**.
-- Put detailed temple–administration dumps in the Medieval UK Katyuri file when that file carries the full house narrative.
+```
+              Imperial Kartikeyapur Dynasty (740–1050 CE)
+                                  │
+      ┌───────────────────────────┼───────────────────────────┐
+      ▼                           ▼                           ▼
+[House of Basantandev]     [House of Nimbar]         [House of Salonaditya]
+ • Basantandev (Founder)   • Nimbar (Shaiva devotee) • Salonaditya
+ • Kharparadeva            • Ishtaganadeva (Unifier) • Ichhata Deva
+ • Kalyanrajadeva          • Lalitsuradeva (Apex)    • Deshatadeva
+ • Tribhuwanrajadeva       • Bhuwandev (Bageshwar)   • Padmata & Subhiksharaja
+```
 
----
+### Detailed Ruler Matrix & Achievements
 
-## 4.2 Rise of the Katyuris and Kartikeyapura
-
-**Katyuri house | Kartikeyapura (Baijnath) | early medieval Kumaon**
-
-### Causes / setting
-
-- After the Kuninda–Yaudheya coin age, the central hills need a longer **kingdom-scale** house.
-- Trade routes, pilgrimage belts, and Brahmanical temple building create a setting for a durable hill court.
-
-### Course
-
-- The Katyuris emerge as the first long **kingdom-scale** power of the central hills after the tribal-coin age.
-- Many traditions begin the house at **Joshimath** in the Alaknanda zone.
-- Coaching founder-memory often names **Vasudeva / Basu Dev Katyuri**.
-- The capital later shifts to **Kartikeyapura**, identified with **Baijnath** in today’s Bageshwar district.
-- The Katyur valley name preserves the dynasty memory in local geography.
-- Cultural notes often link the age to temple building and a shift toward stronger Brahmanical patterns after earlier Buddhist traces in the hills.
-- Adi Shankara’s Himalayan activity is a frequent cultural backdrop in coaching narratives — use it as context, not as a dated “Katyuri coronation” fact.
-- Rough coaching chronology places the strong phase about the **7th to 11th/12th** centuries CE.
-
-### Results
-
-- Kartikeyapura becomes the lasting capital identity for Prelims.
-- Later fragmentation opens the road to **Chand** power in Kumaon and **Parmar** power in Garhwal.
-- Hiuen Tsang’s earlier **Brahmapura** name for the region must not be rewritten as the Katyuri capital label.
+| Dynastic House | Rulers | High-Yield Prelims Milestones |
+| :--- | :--- | :--- |
+| **First Family** *(House of Basantandev)* | **Basantandev** (Founder), Kharparadeva, Kalyanrajadeva, Tribhuwanrajadeva | Basantandev founded the house around 740 CE. Mentioned in Bageshwar stone inscription as donating *Swarnakeshwar* village to a temple. Tribhuwanrajadeva made grants to God Vyaghreswar. |
+| **Second Family** *(House of Nimbar)* | **Nimbar**, **Ishtaganadeva**, **Lalitsuradeva**, **Bhuwandev** | **Nimbar:** Zealous devotee of Shiva; built rock-cut shrines. <br>**Ishtaganadeva:** Succeeded Nimbar; **unified entire Uttarakhand** (Kumaon and Garhwal); built Lakuli-Shiva and Navadurga temples. <br>**Lalitsuradeva:** Son of Ishtaganadeva and Queen Vegadevi; 44-year reign; issued 2 Pandukeshwar plates. <br>**Bhuwandev:** Endowed Bageshwar temple with revenues of several villages. |
+| **Third Family** *(House of Salonaditya)* | Salonaditya, **Ichhata Deva**, Deshatadeva, **Padmata**, **Subhiksharaja** | Succeeded after civil strife. Replaced the capital at *Subhikshapura*. Inscribed Pandukeshwar copper plates dating to early 11th century. |
 
 ---
 
-## 4.3 Geography of power
+## Administrative Matrix & Official Hierarchy of the Katyuris
 
-- At their widest, coaching maps stretch Katyuri influence across large parts of present Uttarakhand and into adjoining Himalayan belts.
-- **Brahmadev Mandi** traditions in the Nepal borderland are sometimes tied to later Katyuri naming — treat as a trade/frontier note, not the first capital.
-- Sacred and inscription place-names such as **Pandukeshwar** and **Taleshwar** appear as distractors beside **Brahmapura** and **Kartikeyapur**.
+The Katyuris established a sophisticated bureaucracy modeled on the Gupta and Harshavardhana administrative patterns:
+
+| Sanskrit Official Title | Exact Portfolio / Administrative Function |
+| :--- | :--- |
+| **Parama-bhattaraka Maharajadhiraja** | Supreme title assumed by the Katyuri Sovereign. |
+| **Mahasamanta** | Semi-autonomous feudatory prince or chief commander. |
+| **Kottapala** | Military commandant in charge of frontier forts and mountain passes. |
+| **Doshaparadhika** | High-level investigative officer responsible for apprehending thieves, rebels, and felons. |
+| **Dandapashika / Dandanayaka** | Criminal magistrate and executioner enforcing penal justice. |
+| **Bhogika / Mahabhogika** | High revenue officer responsible for collecting the king’s share of grain and cattle (*Bhoga*). |
+| **Saulkika** | Toll and customs collection officer positioned along mountain transit points. |
+| **Tarika / Ghattapala** | Officer supervising river ferries, boats, and bridge crossings. |
+| **Khadgika** | Royal personal bodyguard armed with the royal sword. |
+| **Pratihara / Mahapratihara** | Chief Palace Chamberlain regulating entry into the royal presence. |
+| **Kishorvadhabhikrit** | Officer looking after royal mares, horses, and studs. |
 
 ---
 
-## 4.4 Decline and succession
+## Architecture & Temple Heritage of the Katyuri Age
 
-- After the 11th–12th century, Katyuri power fragments into smaller hill principalities.
-- Later UKPCS medieval cards pick up **Chand dynasty of Kumaon** and **Parmar dynasty of Garhwal**.
-- Do not invent a clean single-year “end of Kartikepur” unless a stem supplies it.
+- **Architectural Style:** Developed the distinctive **Himalayan Phamsana / Shikhara** and **Nagara stone temple style** characterized by dressed ashlar masonry, amalakas, and wood-roofed canopies to resist heavy snowfall.
+- **Key Temple Ensembles:**
+  1. **Baijnath Temple Complex (Bageshwar):** Situated on the confluence of the Gomti and Garur Ganga. Celebrated for the exquisite 12th-century life-sized green-schist idol of **Parvati**.
+  2. **Jageshwar Dham (Almora):** Over 124 stone temples nestled in deodar forests along the Jata Ganga. Major shrines: *Maha Mrityunjaya*, *Dandeshwar*, *Jageshwar Mahadev*.
+  3. **Dwarahat Temple Clusters (Almora):** Known as the **"Khajuraho of the Hills"**; consists of 30+ shrines divided into 8 groups (*Gujar Dev*, *Maniyan*, *Ratan Dev*, *Kacheri*, etc.).
+  4. **Katarmal Sun Temple (Almora):** 9th-century shrine built by Katarmal Deva; famous for wood-carved doors now preserved in the National Museum, New Delhi.
 
 ---
 
-## UKPCS Inline PYQ
+## Confused Pairs & Common Traps
 
-**UKPCS Prelims 2025, Q75**
+| Confused Pair | Critical Distinction |
+| :--- | :--- |
+| **Kartikeyapura vs Brahmapura** | Kartikeyapura = **Katyuri capital** (Joshimath $\rightarrow$ Baijnath); Brahmapura = **6th–7th century regional entity** in Hiuen Tsang / Taleshwar plates. |
+| **Basantandev vs Ishtaganadeva** | Basantandev = **Founder** of Katyuri state; Ishtaganadeva = **Unifier** of both Garhwal and Kumaon. |
+| **Bageshwar Inscription vs Pandukeshwar Plates** | Bageshwar = **Stone inscription of Bhuwandev**; Pandukeshwar = **4 Copper plates** (Lalitsuradeva, Padmata, Subhiksharajadeva). |
+| **Bir Dev vs Somchand** | Bir Dev = **Last tyrannical Katyuri king**; Somchand = **Founder of Chand dynasty** who succeeded the Katyuris in Kali Kumaon. |
+| **Doshaparadhika vs Dandapashika** | Doshaparadhika = **Investigative officer** (detective); Dandapashika = **Penal enforcer** (punishment magistrate). |
 
-By which name did Hiuen-Tsang address the Kumaon region?
+---
 
+## UKPCS Inline & Practice Questions
+
+**Q1 (UKPCS Prelims 2025, Q75).** By which name did the Chinese traveller Hiuen-Tsang address the Kumaon region?  
 A. Kartikeyapur  
-B. Brahampur  
+B. Brahampur / Brahmapura  
 C. Taleshwar  
 D. Pandukeshwar  
+*Answer:* **B** (Brahmapura).
 
-<details>
-<summary>Show answer</summary>
+**Q2.** Who among the following Katyuri monarchs was the first to politically unify the entire region of Uttarakhand (Garhwal and Kumaon)?  
+A. Basantandev  
+B. Nimbar  
+C. Ishtaganadeva  
+D. Lalitsuradeva  
+*Answer:* **C** (Ishtaganadeva).
 
-**Logic:** Capital name vs traveller’s regional name vs inscription sites.
+**Q3.** The famous copper plates of King Lalitsuradeva, dated in his 21st and 22nd regnal years, were discovered at:  
+A. Taleshwar  
+B. Pandukeshwar  
+C. Bageshwar  
+D. Baijnath  
+*Answer:* **B** (Pandukeshwar near Joshimath, Chamoli).
 
-**Ans: B (Series B provisional key).** Brahmapura is the Chinese-account regional name. Kartikeyapur is the Katyuri capital. Taleshwar and Pandukeshwar are separate inscription/sacred-site distractors.
+**Q4.** In Katyuri administration, what was the primary responsibility of the officer known as 'Doshaparadhika'?  
+A. Collection of customs and transit toll  
+B. Investigating crimes and capturing offenders  
+C. Inspecting army horses and cavalry  
+D. Superintending river ferries  
+*Answer:* **B** (Investigating crimes and capturing offenders).
 
-</details>
-
----
-
-## Practice Zone
-
-**Q1.** Kartikeyapura of the Katyuri age is identified with which place?
-
-A. Haridwar  
-B. Baijnath  
-C. Dehradun  
-D. Kashipur  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Modern identification of Kartikeyapura.
-
-**Ans: B.** Kartikeyapura is identified with Baijnath in Bageshwar district.
-
-</details>
-
-**Q2.** Which statement is correct?
-
-A. Kuninda and Katyuri are the same dynasty under two names  
-B. Joshimath tradition is often remembered as an earlier Katyuri seat before Kartikeyapura  
-C. Hiuen Tsang called the Kumaon region Kartikeyapur  
-D. Chand dynasty begins in the Palaeolithic tool belt of Kalsi  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Capital shift vs ethnonym and traveller-name traps.
-
-**Ans: B.** Joshimath → Kartikeyapura is the standard seat-shift memory. Kuninda is earlier; Brahmapura is the Chinese regional name; Chand is medieval.
-
-</details>
-
-**Q3.** Which pairing is NOT matched?
-
-A. Kartikeyapura — Baijnath  
-B. Brahmapura — Hiuen Tsang’s name for the Kumaon region  
-C. Vasudeva / Basu Dev — founder tradition in many Katyuri notes  
-D. Kartikeyapur — Ashokan capital of Magadha  
-
-<details>
-<summary>Show answer</summary>
-
-**Logic:** Spot the impossible Magadha swap.
-
-**Ans: D.** Kartikeyapur is the Katyuri capital identity, not Ashoka’s Magadha seat.
-
-</details>
-
----
-
-## Common Traps
-
-1. **Kartikeyapur = Hiuen Tsang’s name for Kumaon** — that name is **Brahmapura**.
-2. **Kartikeyapur = Kuninda capital** — wrong age.
-3. **Baijnath = only a modern temple town with no political past** — it preserves the Kartikeyapura memory.
-4. **Taleshwar / Pandukeshwar = Brahmapura** — different place-name cards.
-5. **Full Chand–Parmar narrative belongs only here** — continue in Medieval UK.
+**Q5.** The grand 9th-century Sun Temple of Katarmal (Baraaditya) is located in which district of Uttarakhand?  
+A. Pithoragarh  
+B. Chamoli  
+C. Almora  
+D. Champawat  
+*Answer:* **C** (Almora district).

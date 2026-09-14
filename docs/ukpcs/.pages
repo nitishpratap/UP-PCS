@@ -3,4 +3,5 @@ nav:
   - Overview: index.md
   - "UKPCS Prelims Syllabus": 00_Syllabus.md
   - "Folder Map (where notes live)": 00_Folder_Map.md
+  - "Coverage Report (notes enough?)": 01_Coverage_Report.md
   - PYQs: pyqs
