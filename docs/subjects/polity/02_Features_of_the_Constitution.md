@@ -26,36 +26,38 @@
 
 ---
 
-## Consolidated — 28 Must-Score Facts
+### Consolidated — 30 Must-Score Facts
 
-1. India’s Constitution is the **lengthiest written** Constitution of any sovereign country. It is a **single** Constitution for both the Union and the States.
+1. India’s Constitution is the **lengthiest written** Constitution of any sovereign country. It is a **single** Constitution for both the Union and the States (except earlier J&K anomaly).
 2. India’s **type of government** is **Parliamentary** plus a **Democratic Republic**. Its **polity structure** is a **quasi-federal Union** — not a Presidential system and not a pure classical federation.
 3. **B.R. Ambedkar** described the design as **federal in form but unitary in spirit**. Indian federation did **not** arise from an agreement among States, and States have **no right to secede**.
 4. In the parliamentary model the **President** is the **nominal** executive and the **Prime Minister** with the Council of Ministers is the **real** executive. Collective responsibility is to the **Lok Sabha**.
 5. The Constitution blends **rigidity and flexibility**. Many changes use **Article 368**, but paths such as **Articles 2–4** and **Article 169** use only a **simple majority** of Parliament and are **outside** Article 368.
-6. Three amendment tracks exist: **simple majority** (ple Arts. 2–4, 169); **special majority** under Article **368**; and **special majority plus ratification by half the States** for federal provisions.
-7. **Article 1** calls India a **Union of States**. The word **“federation”** is not used. Parliament may alter State areas, boundaries, and names under **Article 3**.
-8. Dual polity with a **strong Centre** is labelled **quasi-federal**. Scholar facts: **Wheare** = quasi-federal; **Austin** = cooperative; **Morris-Jones** = bargaining; **Jennings** = centralising tendency.
+6. Three amendment tracks exist: **simple majority** (e.g., Arts. 2–4, 169); **special majority** under Article **368**; and **special majority plus ratification by half the States** for federal provisions.
+7. **Article 1** calls India a **Union of States**. The word **“federation”** is not used anywhere in the Constitution. Parliament may alter State areas, boundaries, and names under **Article 3**.
+8. Dual polity with a **strong Centre** is labelled **quasi-federal**. Scholar facts: **Wheare** = quasi-federal; **Austin** = cooperative; **Morris-Jones** = bargaining; **Jennings** = centralising tendency; **Alexandrowicz** = sui generis.
 9. Salient package facts: **Fundamental Rights + DPSP + Fundamental Duties**; a **Secular** State; **single citizenship**; **universal adult franchise**; an **independent** and **integrated** judiciary; Emergency provisions; and independent constitutional bodies.
 10. The third tier of government arrived with the **73rd and 74th Amendments in 1992** (Panchayats and Municipalities).
-11. Voting age became **18** by the **61st Amendment**. Do not fact adult franchise itself to 1992.
+11. Voting age became **18** (from 21) by the **61st Amendment (1988)**. Universal adult franchise is supported by **Article 326**.
 12. The **Basic Structure** doctrine from ***Kesavananda Bharati* (1973)** limits amending power. Later *Minerva Mills* (1980) reinforced that Parliament cannot destroy that core.
-13. Basic-structure chronology s: *Shankari Prasad* (1951) → *Sajjan Singh* (1965) → *Golaknath* (1967) → **24th Amendment (1971)** → ***Kesavananda* (1973)** → *Indira Nehru Gandhi* (1975) → **42nd (1976)** → ***Minerva Mills* (1980)**.
+13. Basic-structure chronology (Must know): *Shankari Prasad* (1951) → *Sajjan Singh* (1965) → *Golaknath* (1967) → **24th Amendment (1971)** → ***Kesavananda* (1973)** → *Indira Nehru Gandhi* (1975) → **42nd (1976)** → ***Minerva Mills* (1980)**.
 14. The Preamble opens with **“We, the People”** and describes India as a **Sovereign Socialist Secular Democratic Republic**. The word **Federal** is **not** in the Preamble.
-15. Preamble keyword counts: **Justice** has **three** limbs (social, economic, political); **Liberty** has **five**; **Equality** has **two**; **Fraternity** covers dignity of the individual and the **unity and integrity** of the Nation.
-16. The Preamble’s date line is **26 November 1949**. On **26 January 1950** the constitutional status in force was only **Sovereign Democratic Republic** — **Socialist** and **Secular** were not yet in the text.
-17. The **42nd Amendment (1976)** added **Socialist** and **Secular**, and inserted **integrity** with unity. Do not push those words back to 1950.
-18. The Preamble is a **part** of the Constitution after *Kesavananda* / *LIC*, but it is **not enforceable** like a Fundamental Right. **N.A. Palkhivala** called it the Constitution’s **identity card**.
-19. Borrowed-feature facts: **UK** — parliamentary system and writs; **USA** — Fundamental Rights and judicial review; **Ireland** — DPSP; **Canada** — residuary powers with the Centre; **Australia** — Concurrent List; **Germany** — Emergency suspension model; **Japan** — “procedure established by law” style of Article 21; **GOI Act 1935** — structural skeleton.
-20. **Universal adult franchise** and the **Basic Structure** politics are treated as **Indian originality**, not a carbon copy of the 1935 Act.
-21. Residuary powers rest with the **Centre** on the **Canada** pattern. Do not place them with the States as in the USA.
-22. Independent judiciary means freedom from organ control; **integrated** judiciary means **one hierarchy** under the Supreme Court. Do not swap the two meanings.
-23. Rule of law means no one is above the law; **constitutional supremacy** means the Constitution is the highest law. They are related but not identical labels.
-24. India synthesises **parliamentary law-making** with **judicial review** — neither pure UK parliamentary sovereignty nor pure USA judicial supremacy.
-25. Originally (1950) there were about **395 Articles**, **22 Parts**, and **8 Schedules**. The text has since expanded far beyond that 1950 frame.
-26. In normal times the system is meant to work **federally**; in Emergency it can work **like a unitary** system — a flexibility Ambedkar stressed against a rigid USA-style federation.
-27. Cooperative federalism stresses Centre–State collaboration (Austin’s line); competitive federalism stresses States competing for growth — both appear in current-affairs examples such as the GST Council and NITI Aayog, without changing the constitutional quasi-federal core.
-28. Criticisms such as “bag of borrowings” or “carbon copy of 1935” are distractors: the structure was borrowed, but republic, adult franchise, Fundamental Rights politics, and Basic Structure are not a mere copy.
+15. Preamble keyword counts: **Justice** has **three** limbs (social, economic, political); **Liberty** has **five** (thought, expression, belief, faith, worship); **Equality** has **two** (status, opportunity); **Fraternity** aims at **two** (dignity of the individual, and the unity and integrity of the Nation).
+16. The Preamble’s date line is **26 November 1949** (Miti Margashirsha Shukla Saptami, Samvat 2006 Vikrami). On **26 January 1950** the constitutional status in force was only **Sovereign Democratic Republic**.
+17. The **42nd Amendment (1976)** added **Socialist** and **Secular**, and inserted **integrity** alongside unity. Do not push those words back to 1950.
+18. The Preamble is a **part** of the Constitution after *Kesavananda* (earlier rejected in *Berubari*), but it is **not enforceable (non-justiciable)**. **N.A. Palkhivala** called it the Constitution’s **identity card**, **K.M. Munshi** called it **political horoscope**.
+19. Borrowed-feature facts: **UK** — parliamentary system, writs, rule of law, bicameralism; **USA** — Fundamental Rights, judicial review, independent judiciary, impeachment of President; **Ireland** — DPSP, RS nomintions; **Canada** — residuary powers with Centre, advisory jurisdiction of SC.
+20. Extended Borrowings: **Australia** — Concurrent List, joint sitting; **Germany (Weimar)** — Emergency FR suspension; **Japan** — procedure established by law; **South Africa** — amendment procedure, RS elections; **USSR** — Fundamental Duties, justice ideals; **France** — Republic, liberty, equality, fraternity.
+21. The **GOI Act 1935** provided the structural skeleton (federal scheme, judiciary, governors, emergency powers, PSCs).
+22. **Universal adult franchise** and the **Basic Structure** politics are treated as **Indian originality**, not a copy of the 1935 Act.
+23. Residuary powers rest with the **Centre** on the **Canada** pattern (Article 248). Do not place them with the States as in the USA.
+24. Independent judiciary means freedom from organ control; **integrated** judiciary means **one hierarchy** (SC at apex → HC → Subordinate courts). Do not swap the two meanings.
+25. Rule of law means no one is above the law (Dicey); **constitutional supremacy** means the Constitution is the highest law.
+26. India synthesises **parliamentary law-making** with **judicial review** — neither pure UK parliamentary sovereignty nor pure USA judicial supremacy.
+27. Originally (1950) there were **395 Articles**, **22 Parts**, and **8 Schedules**. Now it has 12 Schedules and 25 Parts.
+28. In normal times the system works **federally**; in Emergency it becomes **unitary** — a unique flexibility Ambedkar stressed against rigid federations.
+29. Cooperative federalism stresses Centre–State collaboration (Austin’s line); competitive federalism stresses States competing for growth — both appear in current-affairs (GST Council, NITI Aayog).
+30. The Ideals of **Justice** in Preamble are inspired by the **Russian Revolution (1917)**, while **Liberty, Equality, Fraternity** are inspired by the **French Revolution (1789)**.
 
 ---
 
@@ -67,7 +69,8 @@
 | Federal vs Unitary | Dual polity + strong Centre = **quasi-federal** | Pure classical federation | अर्ध-संघीय |
 | Quasi-federal (Wheare) | Unitary bias label | Call Austin “quasi” | व्हीयर = अर्ध |
 | Cooperative (Austin) | Centre–State collaboration | Mix with Wheare | ऑस्टिन = सहयोगी |
-| Bargaining (Morris-Jones) | Political bargaining federalism | Mix with Jennings | मॉरिस-जोन्स |
+| Bargaining (Morris-Jones) | Political bargaining federalism | Mix with Jennings | मॉरिस-जोंस |
+| Sui Generis (Alexandrowicz) | Unique in character | Mix with Wheare | एलेग्जेंड्रोविच = sui generis |
 | Parliamentary vs Presidential | Executive responsible to legislature | President = Presidential system | संसदीय |
 | Independent vs Integrated judiciary | Free of organ control vs one hierarchy under SC | Swap meanings | स्वतंत्र / एकीकृत |
 | Preamble is part vs enforceable | Part after Kesavananda; **still not enforceable** | Treat as FR | उद्देशिका |
@@ -80,6 +83,8 @@
 | Art. 3 vs Art. 368 | Boundary change = simple majority path | Call every change “special majority” | अनुच्छेद 3 |
 | Residual vs Concurrent source | **Canada** vs **Australia** | Swap the pair | कनाडा / ऑस्ट्रेलिया |
 | FR vs DPSP source | **USA** vs **Ireland** | Swap or mix with UK | अमेरिका / आयरलैंड |
+| Amendment Procedure source | **South Africa** | Mix with Germany | दक्षिण अफ्रीका |
+| FR Suspension in Emergency | **Germany (Weimar)** | Mix with South Africa | जर्मनी |
 | GOI 1935 vs full copy | **Structural skeleton** only | “Pure carbon copy” | 1935 = ढांचा |
 | Type of govt vs polity | **Parliamentary** form vs **quasi-federal** structure | Call India “Presidential” because of President | संसदीय ≠ राष्ट्रपति |
 | Original vs 42nd Preamble | **1950 = SDR**; Socialist/Secular later | Call 1950 already Socialist Secular | 1950 ≠ समाजवादी |
@@ -101,40 +106,49 @@
 | Dual executive | President nominal; PM real; responsible to **Lok Sabha** |
 | Art. 1 | **Union of States** (word “federation” unused) |
 | Third tier | **73rd / 74th**, **1992** |
-| Voting age 18 | **61st** Amendment |
+| Voting age 18 (from 21) | **61st** Amendment (**1988**, enforced 1989) |
+| Parts and Schedules | Originally **22 Parts, 8 Schedules**; Now **25 Parts, 12 Schedules** |
 
 ### Federalism scholars
 
 | Scholar | Label |
 |---------|-------|
-| K.C. Wheare | Quasi-federal |
+| K.C. Wheare | Quasi-federal / Federation with strong centralizing tendency |
 | Granville Austin | Cooperative |
 | Morris-Jones | Bargaining |
-| Jennings | Centralising tendency |
+| Ivor Jennings | Centralising tendency |
+| C.H. Alexandrowicz | Sui Generis (Unique) |
 
 ### Preamble locks
 
 | Item | Lock |
 |------|------|
-| Counts | Justice **3** · Liberty **5** · Equality **2** · Fraternity **1** |
+| Counts | Justice **3** · Liberty **5** · Equality **2** · Fraternity **1** (with 2 aims) |
 | Word **Federal** | **Not** in Preamble |
 | 26 Jan 1950 text | Sovereign Democratic Republic only |
 | 42nd (1976) | Added **Socialist + Secular** (+ integrity) |
-| Status | Part of Constitution; **non-justiciable** |
-| Palkhivala | **Identity card** |
+| Status | Part of Constitution; **non-justiciable / not enforceable** |
+| Palkhivala | **Identity card** (Preamble) |
+| K.M. Munshi | **Political Horoscope** (Preamble) |
 | Ambedkar “heart and soul” | **Art. 32** (not Preamble) |
+| Objective Resolution | Moved by **JL Nehru** (13 Dec 1946), Adopted **22 Jan 1947** |
+| French Revolution | Source of **Liberty, Equality, Fraternity** |
+| Russian Revolution | Source of **Justice** (Social, Economic, Political) |
 
 ### Borrowed map
 
 | Feature | Source |
 |---------|--------|
-| Parliamentary / writs | UK |
-| FR / judicial review | USA |
-| DPSP | Ireland |
-| Residuary with Centre | Canada |
-| Concurrent List | Australia |
-| Emergency model | Germany |
-| Procedure established by law (21) | Japan |
+| Parliamentary, Writs, Rule of Law | UK |
+| FR, Judicial review, Independent Judiciary, President Impeachment | USA |
+| DPSP, RS nominations by President | Ireland |
+| Residuary with Centre, Advisory SC jurisdiction | Canada |
+| Concurrent List, Joint sitting | Australia |
+| Emergency model (FR suspension) | Germany (Weimar) |
+| Procedure established by law (Art. 21) | Japan |
+| Constitution amendment, RS members election | South Africa |
+| Fundamental Duties, Ideals of Justice | USSR (Russia) |
+| Republic, Ideals of Liberty/Equality/Fraternity | France |
 
 ---
 

@@ -16,7 +16,7 @@ Governors-General and Their Reforms | Governors-General and Associated Wars | Br
 
 ---
 
-## Consolidated — 26 Must-Score Facts
+### Consolidated — 30 Must-Score Facts
 
 1. The **Regulating Act, 1773** created the **Governor-General of Bengal**; first holder **Warren Hastings**. The **Supreme Court at Calcutta** began in **1774**.
 2. The **Charter Act, 1833** created the **Governor-General of India**; first holder **William Bentinck**. The Company stopped **all** trade.
@@ -28,22 +28,26 @@ Governors-General and Their Reforms | Governors-General and Associated Wars | Br
 8. **Warren Hastings** ended Dual Government in **1772**, moved the treasury to Calcutta, faced Banaras **1781**, and saw the Asiatic Society (**15 Jan 1784**). **Sir William Jones** founded the Society; Hastings declined the chair. **Ring Fence** belongs with Hastings–Wellesley.
 9. **Cornwallis** introduced the **Permanent Settlement of 1793**, the **Cornwallis Code**, the **Daroga** police system, and the covenanted ICS line; he died at **Ghazipur (UP)** in **1805**. He led the **Third Anglo-Mysore War** to the **Treaty of Seringapatam, 1792**.
 10. **Wellesley** finished the **Subsidiary Alliance** from **1798** (first **Hyderabad**; first Maratha **Bajirao II** via **Bassein 1802**). **Dalhousie** used the **Doctrine of Lapse** (Satara first, **1848**), pushed railways (**Bombay–Thane 1853**, GIPR), and hosted **Wood’s Despatch, 1854**.
-11. **Bentinck** abolished **Sati in 1829** and used Sleeman against Thugs. **Macaulay’s Minute (1835)** set English for higher education. **Metcalfe** is the **“Liberator of the Press” (1835)**. **Ellenborough** abolished slavery by **Act V, 1843** and annexed Sindh.
-12. **Lytton** passed the **Vernacular Press Act, 1878** (Gagging Act) and followed **Proud Reserve** on Afghanistan. **Ripon** repealed that Press Act, pushed **local self-government (1882)**, the **First Factory Act (1881)**, and faced the **Ilbert Bill (1883)**.
-13. **Dufferin** saw the founding of the **INC in 1885** and called it a **“microscopic minority.”** **Curzon** partitioned Bengal on **16 October 1905**, passed the **Ancient Monuments Act 1904**, and centralised the ASI under **John Marshall**.
-14. **Hardinge II** moved the capital to **Delhi in 1911** and annulled the Partition. **Chelmsford** is tagged to the **GOI Act 1919**.
-15. **Linlithgow** ran provincial autonomy after **1937**, faced Congress resignations (**1939**), issued the **August Offer (1940)**, then **Cripps** and **Quit India (1942)**. **Wavell** offered the **Wavell Plan / Simla (1945)** and hosted the **Cabinet Mission / Interim Government (1946)**. **Mountbatten** announced the **3 June Plan (1947)** and oversaw Partition.
-16. **Lord Hastings** (1813–23) fought Nepal and the Third Maratha War. Do **not** confuse him with **Warren Hastings**.
-17. **Lawrence** followed **Masterly Inactivity** on Afghanistan. **Lytton’s** line was **Proud Reserve** — opposite Afghan postures.
-18. **Mayo** ran the first census attempt (**1872**), began **financial decentralisation (1870)**, and was assassinated at the Andamans. Regular census **1881** = **Ripon**. **Northbrook** resigned over Afghan-policy disagreement.
-19. **Lansdowne** is tagged to the **Age of Consent Act, 1891** and the **Indian Councils Act, 1892**. **Irwin** is tagged to Dandi and the **Gandhi–Irwin Pact (1931)**.
-20. **Reading** (only Jewish Viceroy) faced Chauri Chaura and the Swaraj Party years. **Willingdon** saw the **GOI Act 1935** passed; **Linlithgow** was the longest-serving Viceroy of the late phase.
-21. Match fact: **Dalhousie — Doctrine of Lapse**; **Curzon — Partition of Bengal**; **Bentinck — abolition of Sati**; **Cornwallis — Permanent Settlement**.
-22. War tags: **Cornwallis — Third Mysore**; **Wellesley — Fourth Mysore / Second Maratha**; **Amherst — First Burma**; **Auckland — First Afghan**; **Ellenborough — Sindh**; **Hardinge I — First Sikh**; **Dalhousie — Second Sikh**.
-23. UP Focus: the **Queen’s Proclamation** was read at **Allahabad on 1 November 1858** under Canning. **Chait Singh / Banaras** belongs to **Warren Hastings, 1781**. **Cornwallis’s tomb** is at **Ghazipur**. **Awadh annexation 1856** is Dalhousie’s misrule case (**Outram’s report**).
-24. **Sir John Shore** stands for non-intervention and no new war. **Wellesley** stands for Subsidiary Alliance and expansion — opposite styles.
-25. The office ladder is four shapes: Company Governors of Bengal (to 1773) → GG of Bengal (**1773**) → GG of India (**1833**) → Viceroy (**1858**). Hastings is never a Viceroy; Canning is never a mere GG of Bengal.
-26. Under **1833** a **Law Member** was added to the Council (**Macaulay**). Under **1858** a **Secretary of State** replaced the Board of Control and Court of Directors in London.
+11. **Bentinck** abolished **Sati in 1829**, suppressed Thugs via **Sleeman**, and made English the official language for higher education (**Macaulay’s Minute, 1835**). **Metcalfe** is the **“Liberator of the Press” (1835)**. **Ellenborough** abolished slavery (**Act V, 1843**) and annexed Sindh.
+12. **Elgin I** saw the suppression of the **Wahabi Movement**. **Hardinge I** suppressed the Khond uprising and female infanticide. **Northbrook** faced the **Kuka Movement** in Punjab and resigned over Afghan policy.
+13. **Lytton** passed the **Vernacular Press Act, 1878** (Gagging Act), the Arms Act, and the **Royal Titles Act (1876)** (Queen as Kaiser-i-Hind). Used **Proud Reserve** on Afghanistan.
+14. **Ripon** repealed the Vernacular Press Act, pushed **local self-government (1882)**, the **First Factory Act (1881)**, and faced the **Ilbert Bill (1883)**.
+15. **Dufferin** saw the founding of the **INC in 1885** and called it a **“microscopic minority.”** **Lansdowne** saw the **Second Factory Act (1891)** and **Age of Consent Act (1891)**.
+16. **Curzon** partitioned Bengal on **16 October 1905**, passed the **Ancient Monuments Act 1904**, and centralised the ASI under **John Marshall**.
+17. **Hardinge II** moved the capital to **Delhi in 1911** and annulled the Partition. **Chelmsford** is tagged to the **GOI Act 1919**, Rowlatt Act, and Jallianwala Bagh.
+18. **Linlithgow** ran provincial autonomy after **1937**, faced Congress resignations (**1939**), issued the **August Offer (1940)**, then **Cripps** and **Quit India (1942)**. **Wavell** offered the **Wavell Plan / Simla (1945)** and hosted the **Cabinet Mission / Interim Government (1946)**. **Mountbatten** announced the **3 June Plan (1947)** and oversaw Partition.
+19. **Lord Hastings** (1813–23) fought Nepal and the Third Maratha War. Do **not** confuse him with **Warren Hastings**.
+20. **Lawrence** followed **Masterly Inactivity** on Afghanistan. **Lytton’s** line was **Proud Reserve** — opposite Afghan postures.
+21. **Mayo** ran the first census attempt (**1872**), set up the Dept of Agriculture & Commerce, and began **financial decentralisation (1870)**; he was assassinated at the Andamans. Regular census **1881** = **Ripon**.
+22. **Reading** (only Jewish Viceroy) faced Chauri Chaura and the Swaraj Party years. **Willingdon** saw the **GOI Act 1935** passed.
+23. **Famine Commissions**: **Campbell (1866)** under Lawrence; **Strachey (1878)** under Lytton; **Lyall (1897)** under Elgin II; **MacDonnell (1900)** under Curzon.
+24. **Education Commissions**: **Macaulay (1835)** under Bentinck; **Wood's Despatch (1854)** under Dalhousie; **Hunter (1882)** under Ripon; **Raleigh (1902)** under Curzon; **Sadler (1917)** under Chelmsford.
+25. Match fact: **Dalhousie — Doctrine of Lapse**; **Curzon — Partition of Bengal**; **Bentinck — abolition of Sati**; **Cornwallis — Permanent Settlement**.
+26. War tags: **Cornwallis — Third Mysore**; **Wellesley — Fourth Mysore / Second Maratha**; **Amherst — First Burma**; **Auckland — First Afghan**; **Ellenborough — Sindh**; **Hardinge I — First Sikh**; **Dalhousie — Second Sikh**.
+27. UP Focus: the **Queen’s Proclamation** was read at **Allahabad on 1 November 1858** under Canning. **Chait Singh / Banaras** belongs to **Warren Hastings, 1781**. **Cornwallis’s tomb** is at **Ghazipur**. **Awadh annexation 1856** is Dalhousie’s misrule case (**Outram’s report**).
+28. **Sir John Shore** stands for non-intervention and no new war. **Wellesley** stands for Subsidiary Alliance and expansion.
+29. The office ladder is four shapes: Company Governors of Bengal (to 1773) → GG of Bengal (**1773**) → GG of India (**1833**) → Viceroy (**1858**). Hastings is never a Viceroy; Canning is never a mere GG of Bengal.
+30. Under **1833** a **Law Member** was added to the Council (**Macaulay**). Under **1858** a **Secretary of State** replaced the Board of Control and Court of Directors in London.
 
 ---
 
@@ -60,18 +64,23 @@ Governors-General and Their Reforms | Governors-General and Associated Wars | Br
 | Ring Fence | Subsidiary Alliance | Hastings–Wellesley buffer / Security Cell vs Wellesley's finished alliance tool | रिंग फेंस / सहायक संधि |
 | Clive Dual Govt | Hastings Dual Govt end | Enforced 1765 vs abolished 1772 | क्लाइव / हेस्टिंग्स |
 | Mayo census 1872 | Ripon census 1881 | First attempt vs first regular decennial census | मेयो / रिपन |
+| First Factory Act 1881 | Second Factory Act 1891 | Ripon (child labour limits) vs Lansdowne (women work hours) | पहला कारखाना अधिनियम / दूसरा |
+| Arms Act 1878 | Vernacular Press Act 1878 | Lytton (arms restriction) vs Lytton (gagging Indian language press) | आर्म्स एक्ट / वर्नाक्युलर प्रेस एक्ट |
 | GOI Act 1858 | Indian Councils Act 1861 | Ends Company rule, creates Viceroy vs adds the portfolio system | 1858 / 1861 |
 | Indian Councils Act 1861 | Indian Councils Act 1892 | Portfolio + nomination vs budget discussion + indirect election | 1861 / 1892 |
 | Indian Councils Act 1892 | Indian Councils Act 1909 | Indirect election without the word “election” vs Muslim separate electorates | 1892 / 1909 |
 | Lytton | Ripon | Vernacular Press Act 1878 vs Ilbert Bill 1883 (Ripon repealed the Press Act) | लिटन / रिपन |
-| Dufferin | Curzon | "Microscopic minority" vs Partition of Bengal 1905 | डफ़रिन / कर्जन |
-| Macaulay 1835 | Wood 1854 | English Minute vs education despatch in Dalhousie's time | मैकॉले / वुड |
+| Dufferin | Curzon | "Microscopic minority" vs Partition of Bengal 1905 | डफ़रिन / कर्ज़न |
+| Macaulay 1835 | Wood 1854 | English Minute vs education despatch in Dalhousie's time | मैकाले / वुड |
+| Hunter 1882 | Raleigh 1902 | Ripon (primary & secondary education) vs Curzon (University reforms) | हंटर / रैले |
 | Indian Councils Act 1909 | GOI Act 1919 | Separate electorates for Muslims vs dyarchy and Chamber of Princes | 1909 / 1919 |
 | GOI Act 1919 | GOI Act 1935 | Dyarchy in provinces vs provincial autonomy + federation on paper | 1919 / 1935 |
+| Strachey 1878 | MacDonnell 1900 | Famine commission by Lytton vs Famine commission by Curzon | स्ट्रेची / मैकडोनेल |
 | Sir John Shore | Lord Wellesley | Non-intervention, no new war vs Subsidiary Alliance and wars | शोर / वेलेज़ली |
 | Metcalfe | Bentinck | Acting GG, freed the press 1835 vs abolished Sati 1829 | मेटकाफ़ / बेंटिंक |
 | Lawrence | Lytton | Masterly Inactivity on Afghanistan vs Proud Reserve / forward policy | लॉरेंस / लिटन |
 | Mayo | Northbrook | Assassinated at the Andamans vs resigned over Afghan policy disagreement | मेयो / नॉर्थब्रुक |
+| Kuka Movement | Wahabi Movement | Northbrook (Punjab) vs Elgin I (Suppressed) | कूका / वहाबी |
 | Lansdowne | Ripon | Age of Consent Act 1891 + Councils Act 1892 vs Ilbert Bill + local self-government | लैंसडाउन / रिपन |
 | Elgin I | Elgin II | Died in office at Dharamshala, 1863 vs frontier/famine years before Curzon | एल्गिन प्रथम / द्वितीय |
 | Reading | Irwin | Chauri Chaura, Swaraj Party vs Dandi March, Gandhi-Irwin Pact | रीडिंग / इरविन |
@@ -95,19 +104,22 @@ Governors-General and Their Reforms | Governors-General and Associated Wars | Br
 | Macaulay | English Minute 1835 |
 | Metcalfe | Liberator of the Press, 1835 |
 | Ellenborough | Sindh 1843; Slavery Act V 1843 |
+| Hardinge I | Suppressed Khond uprising & female infanticide |
 | Dalhousie | Lapse (Satara first); Bombay–Thane 1853 (GIPR); PWD; Wood 1854 |
 | Canning | Widow Remarriage 1856; first Viceroy; Allahabad Proclamation |
-| Lawrence | Masterly Inactivity; High Courts 1865 |
-| Mayo | Census 1872; financial decentralisation 1870; assassinated Andamans |
-| Lytton | Vernacular Press 1878 (Gagging Act); Arms Act; Proud Reserve |
-| Ripon | Local self-govt 1882; Ilbert 1883; Factory Act 1881; census 1881 |
-| Dufferin | INC 1885; microscopic minority |
-| Lansdowne | Age of Consent 1891; Councils Act 1892; Factory Act 1891 |
-| Curzon | Partition 16 Oct 1905; Ancient Monuments 1904; ASI / Marshall |
+| Elgin I | Wahabi Movement suppressed |
+| Lawrence | Masterly Inactivity; High Courts 1865; Campbell Famine Commission 1866 |
+| Mayo | Census 1872; statistical survey; Dept of Agriculture; assassinated Andamans |
+| Northbrook | Kuka Movement (Punjab); resigned over Afghan policy |
+| Lytton | Vernacular Press 1878; Arms Act; Proud Reserve; Royal Titles Act 1876; Strachey Commission |
+| Ripon | Local self-govt 1882; Ilbert 1883; Factory Act 1881; census 1881; Hunter Comm 1882 |
+| Dufferin | INC 1885; microscopic minority; Third Burma War 1885 |
+| Lansdowne | Age of Consent 1891; Councils Act 1892; Factory Act 1891; Durand Commission |
+| Curzon | Partition 16 Oct 1905; Ancient Monuments 1904; ASI / Marshall; MacDonnell Comm; Frazer Comm |
 | Minto II | Separate electorates 1909 |
 | Hardinge II | Delhi capital 1911; Partition annulled |
 | Reading | Only Jewish Viceroy; Chauri Chaura / Swaraj Party years |
-| Chelmsford | GOI 1919; Chamber of Princes |
+| Chelmsford | GOI 1919; Chamber of Princes; Sadler Commission 1917 |
 | Irwin | Dandi March 1930; Gandhi-Irwin Pact 1931 |
 | Willingdon | Communal Award; Poona Pact; GOI 1935 |
 | Linlithgow | 1937 ministries; resign 1939; August Offer 1940; Cripps + Quit India 1942 |
@@ -122,14 +134,14 @@ Governors-General and Their Reforms | Governors-General and Associated Wars | Br
 | Cornwallis | 3rd Mysore |
 | Wellesley | 4th Mysore; 2nd Maratha |
 | Lord Hastings | Nepal; 3rd Maratha |
-| Amherst | 1st Burma |
+| Amherst | 1st Burma (Yandabo 1826) |
 | Auckland | 1st Afghan |
 | Ellenborough | Sindh |
 | Hardinge I | 1st Sikh |
 | Dalhousie | 2nd Sikh; 2nd Burma (1852) |
-| Canning | 1857 |
+| Canning | 1857 Revolt |
 | Lytton | 2nd Afghan |
-| Dufferin | 3rd Burma |
+| Dufferin | 3rd Burma (1885) |
 
 ### Act ↔ key provision
 
@@ -143,6 +155,7 @@ Governors-General and Their Reforms | Governors-General and Associated Wars | Br
 | Charter Act | **1853** | Proto-legislature; open ICS competition; no fixed renewal date |
 | GOI Act | **1858** | Crown rule; Secretary of State; GG = Viceroy |
 | Indian Councils Act | **1861** | Portfolio system legalised; Indian nomination begins; Bombay/Madras legislatures restored |
+| Royal Titles Act | **1876** | Queen Victoria assumes the title of Empress of India (Kaiser-i-Hind) |
 | Indian Councils Act | **1892** | Budget discussion + questions; indirect election without using the word “election” |
 | Indian Councils Act | **1909** | Muslim separate electorates; Sinha on Viceroy’s EC; no dyarchy |
 | GOI Act | **1919** | Provincial dyarchy; bicameral centre; Chamber of Princes; Simon clause |
@@ -158,7 +171,9 @@ Governors-General and Their Reforms | Governors-General and Associated Wars | Br
 | Bentinck | Charter Act 1833 |
 | Dalhousie | Charter Act 1853 |
 | Canning | GOI Act 1858; Indian Councils Act 1861 |
-| Lansdowne | Indian Councils Act 1892 |
+| Lytton | Royal Titles Act 1876; Vernacular Press Act 1878; Arms Act 1878 |
+| Ripon | First Factory Act 1881 |
+| Lansdowne | Indian Councils Act 1892; Second Factory Act 1891; Age of Consent Act 1891 |
 | Minto II | Indian Councils Act 1909 |
 | Chelmsford | GOI Act 1919 |
 | Willingdon | GOI Act 1935 |
@@ -172,6 +187,7 @@ Governors-General and Their Reforms | Governors-General and Associated Wars | Br
 | Awadh annexation | **1856** Dalhousie (misrule; Resident **James Outram**) |
 | Cornwallis tomb | **Ghazipur (UP)**, died **5 Oct 1805** |
 | Asiatic Society | **15 Jan 1784**, Calcutta, under Warren Hastings (founder **Jones**) |
+| Muir Central College | Established at **Allahabad in 1872** (William Muir, Northbrook era) |
 
 ---
 

@@ -19,113 +19,84 @@
 
 
 ## Current Affairs
-
-- **24 April** is National Panchayati Raj Day, marking when the 73rd Amendment came into force.
+- **24 April** is National Panchayati Raj Day, marking when the 73rd Amendment came into force (1993).
 - On **2 October 1959**, the first 3-tier Panchayati Raj system was inaugurated at Nagaur, Rajasthan.
-- In **2021**, the Supreme Court in *Rajendra N. Shah* limited Part IXB, the cooperatives amendment (97th), to multi-State cooperatives only.
-- Many States, including UP, now give women **50%** reservation by State law, well above the constitutional floor of 1/3 under Art. 243D.
+- In **2021**, the Supreme Court in *Rajendra N. Shah* limited Part IXB (97th Amendment on cooperatives) to multi-State cooperatives only.
+- Many States, including UP, now give women **50%** reservation by State law, well above the constitutional floor of **1/3** under Art. 243D.
 - The Union **Ministry of Panchayati Raj** was created in **2004**.
 - The **15th Finance Commission** gives grants to all three PRI tiers, partly tied to water and sanitation outcomes.
-- Key current schemes include **e-Gram Swaraj** (e-governance for Panchayats), **SVAMITVA** (rural property cards), and the **RGSA** (Rashtriya Gram Swaraj Abhiyan).
-- The 74th Amendment came into force on **1 June**, a little after the 73rd's **24 April**.
-- The **Madras Municipal Corporation (1688)** remains the first municipal corporation in India.
-- Urban schemes such as **AMRUT, SBM-Urban, PMAY-U,** and **Smart Cities** (all under MoHUA) do not replace the 74th Amendment framework.
+- Urban schemes such as **AMRUT, SBM-Urban, PMAY-U,** and **Smart Cities** (under MoHUA) do not replace the 74th Amendment framework.
+- The **Madras Municipal Corporation (1688)** remains the first municipal corporation in India, followed by Bombay and Calcutta (1726).
 
 ---
 
-
 ## Consolidated — 30 Must-Score Facts
 
-1. **Article 40** (Gandhian DPSP) asks the State to organise village panchayats. The **73rd Amendment** gave Panchayats constitutional status in **Part IX** (**Articles 243–243O**) plus the **11th Schedule** (**29** subjects).
-2. The 73rd Amendment was enacted in **1992** and came into force on **24 April 1993** — celebrated as **National Panchayati Raj Day**. Do not confuse that date with **2 October** (Nagaur inauguration / Gandhi Jayanti).
-3. Local government remains a **State subject** (State List **Entry 5**). The Constitution mandates only the skeleton; devolution of the 29 subjects, taxes, and Gram Sabha powers still depend on **State law**.
-4. The first Panchayati Raj inauguration was at **Nagaur, Rajasthan** on **2 October 1959**, followed by Andhra Pradesh. **Balwant Rai Mehta (1957)** recommended the classic **three-tier** system and democratic decentralisation.
-5. **Ashok Mehta (1977)** recommended a **two-tier** system (Zila and Mandal), party-based contests, and the **district** as the first point of decentralisation. **G.V.K. Rao (1985)** also locked the **district** as the planning unit and warned of “grass without roots.”
-6. **Dantwala (1978)** is the fact for **block-level** planning. **L.M. Singhvi (1986)** pushed constitutional status, **Gram Sabha**, and Nyaya Panchayats. **Thungon (1988)** backed constitutional status, three tiers, five-year term, and a State Finance Commission.
-7. The **64th Amendment Bill (1989)** for Panchayats **failed** in the Rajya Sabha. Constitutional local government finally came through the **73rd and 74th** Amendments, not the failed 64th/65th Bills.
-8. **Gram Sabha (243A)** is the body of persons on the electoral roll of the village Panchayat — **registered voters**, not every resident. Its powers are fixed by **State law**.
-9. **Article 243B** requires village, intermediate, and district tiers. The **intermediate** tier is **optional** if the State’s population is **20 lakh or less**. All seats are filled by **direct** election (**243C**); the State decides how chairpersons are chosen.
-10. Reservation under **243D**: seats for SC/ST in proportion to population; women get **at least one-third** of total seats **and** of SC/ST seats; OBC reservation is optional. Chairperson posts are also reserved. The Constitution’s floor is **1/3**; **50%** women (as in Uttar Pradesh) is by **State law**.
-11. Panchayat term is **five years** from the first meeting (**243E**). If dissolved early, election must follow within **six months**, and the new body serves only the **remainder** of the term.
-12. Minimum age for a Panchayat member is **21**, not 25 (**243F**). Disqualifications follow those for the State legislature, plus any extra State law.
-13. The State **may** endow Panchayats with the **11th Schedule’s 29 subjects** (**243G**). The subjects are **not** automatically transferred. Taxes and fees need State law under **243H**.
-14. The **State Finance Commission** under **243I** is constituted by the **Governor** every **five years**. The **State Election Commission** under **243K** is appointed by the Governor and removed like a **High Court judge**. Local elections are **not** run by the Election Commission of India.
-15. **Article 243O** bars courts from interfering in Panchayat electoral matters (same family as **Article 329** for Parliament and Assemblies).
-16. The **District Planning Committee (243ZD)** consolidates plans of Panchayats **and** municipalities. At least **four-fifths** of members must be elected. It is a **planning** body, not the same as the Zila Panchayat.
-17. **PESA, 1996** (Bhuria Committee lineage) extends Part IX to **Fifth Schedule** areas and places the **Gram Sabha** at the centre for minor forest produce, land, liquor, and minor minerals. It does **not** cover Sixth Schedule areas by that route.
-18. The **97th Amendment (2011)** added **Article 43B**, brought cooperatives into **19(1)(c)**, and inserted **Part IXB**. In **2021** the Supreme Court held Part IXB **inoperative for State cooperatives**; the Fundamental Right to form cooperatives still stands.
-19. Uttar Pradesh uses a three-tier chain: **Gram Panchayat – Kshetra Panchayat – Zila Panchayat**. The intermediate body is **Kshetra Panchayat**, not “Panchayat Samiti” in UP vocabulary. State law provides **50%** reservation for women.
-20. The **74th Amendment** created **Part IXA** (**Articles 243P–243ZG**) and the **12th Schedule** (**18** subjects). It came into force on **1 June 1993** — not 24 April.
-21. **Article 243Q** creates three constitutional urban types: **Nagar Panchayat** (transitional area), **Municipal Council** (smaller urban area), and **Municipal Corporation** (larger urban area). There is an industrial-township exception.
-22. Urban member age is also **21**, not 25 (**243V**). Women reservation is again **at least one-third** (**243T**). Term is **five years**. Urban elections are run by the **SEC under 243ZA**, not the ECI.
-23. A **Ward Committee** is mandatory where population is **3 lakh or more** (**243S**). A **Metropolitan Planning Committee** is needed where population is **10 lakh or more** (**243ZE**), with at least **two-thirds** elected members — different from DPC’s **four-fifths** rule.
-24. In the usual Commissioner system, the **Mayor** is the political / ceremonial head and the **Municipal Commissioner** (often IAS) is the executive. Do not treat the Mayor as the day-to-day executive.
-25. A **Cantonment Board** is under the **Cantonments Act** and the **Ministry of Defence**; the **Station Commander** is President. It is **not** a 74th Amendment municipality. A **Notified Area Committee** is **all nominated**; a **Nagar Panchayat** is an **elected** 243Q body.
-26. The first Municipal Corporation in India was **Madras in 1688**, not Calcutta. There is **no** urban equivalent of Article 40 — Article 40 speaks only of **village** panchayats.
-27. The **11th Schedule** has **29** subjects (rural). The **12th Schedule** has **18** subjects (urban). Urban planning sits in the **12th**, not the 11th.
-28. Property tax is the main **own** municipal tax. A **Development Authority** is usually **not elected** and is not the same as a municipality, even when it holds town-planning powers in practice.
-29. Uttar Pradesh urban labels are **Nagar Nigam** (Corporation), **Nagar Palika Parishad** (Council), and **Nagar Panchayat**. NDMC-style bodies that are largely nominated are not the typical 74th elected corporation model.
-30. National Panchayati Raj Day is **24 April**. The 74th came into force on **1 June 1993**. Keep the two in-force dates separate in every match list.
+### 1. The Constitutional Skeleton
+| Feature | Panchayati Raj (Rural) | Urban Local Bodies |
+|---------|------------------------|--------------------|
+| **Amendment** | **73rd Act, 1992** (Force: **24 Apr 1993**) | **74th Act, 1992** (Force: **1 June 1993**) |
+| **Part & Articles** | **Part IX** (Articles **243 to 243-O**) | **Part IXA** (Articles **243-P to 243-ZG**) |
+| **Schedule** | **11th Schedule** (contains **29** subjects) | **12th Schedule** (contains **18** subjects) |
+| **Subject List** | Entry **5** of **State List** | Entry **5** of **State List** |
+
+### 2. Evolution & Committees
+| Committee / Event | Key Fact / Recommendation |
+|-------------------|---------------------------|
+| **Lord Ripon (1882)** | Magna Carta of local self-government; "Father of local self-govt". |
+| **Hobhouse (1907)** | Royal Commission on Decentralization. |
+| **Community Dev. Prog (1952)** | Failure of CDP & NES (1953) led to BR Mehta Committee. |
+| **Balwant Rai Mehta (1957)** | Recommended **3-tier system**, democratic decentralization. |
+| **Santhanam (1963)** | Focused on **Panchayati Raj Finances**. |
+| **Ashok Mehta (1977)** | **2-tier system**, district as first point, official party participation. |
+| **Dantwala (1978)** | Focused on **Block-level planning**. |
+| **G.V.K. Rao (1985)** | **District** planning; warned of "grass without roots". |
+| **L.M. Singhvi (1986)** | **Constitutional status** push, Gram Sabha importance, Nyaya Panchayats. |
+| **Thungon (1988)** | Constitutional status, 5-year term, State Finance Commission. |
+| **Gadgil (1988)** | Drafted the skeleton which became the basis of the 73rd AM Act. |
+| **64th Bill (1989)** | Rajiv Gandhi govt bill passed Lok Sabha but **failed in Rajya Sabha**. |
+
+### 3. Must-Know Structural Facts
+- **Gram Sabha (243A):** Comprises **registered voters** of the village, not all residents. Powers are fixed by **State law**, not Central notification.
+- **Three Tiers (243B):** Village, intermediate, and district. Intermediate tier is **optional** if State population is **≤ 20 lakh**.
+- **Election (243C / 243R):** All *seats* at all levels are filled by **direct** election. The chairperson's election mode is decided by State law (usually indirect, but UP Pradhan is direct).
+- **Reservation (243D / 243T):** SC/ST reserved in proportion to population. **Women** get **at least 1/3 (floor)** of total seats and chairpersons. OBC reservation is optional. UP gives 50% to women by State law.
+- **Term & Age (243E, 243F / 243U, 243V):** **5-year** term. Early dissolution requires elections within **6 months**, remaining term only. Minimum age is **21 years** (not 25).
+- **State Finance Commission (243-I / 243Y):** Constituted by **Governor** every **5 years** to recommend tax sharing and grants.
+- **State Election Commission (243K / 243ZA):** Appointed by Governor. Runs PRI and ULB polls (not ECI). Removed like a **High Court judge**.
+- **Article 243O / 243ZG:** Bars courts from interfering in local electoral matters (similar to Art 329 for Parliament/Assemblies).
+- **DPC (243ZD):** District Planning Committee consolidates rural & urban plans. At least **4/5** members elected.
+- **MPC (243ZE):** Metropolitan Planning Committee for pop **≥ 10 lakh**. At least **2/3** members elected.
+- **Exemptions (243M):** Part IX does **not** apply to **Nagaland, Meghalaya, Mizoram**, hill areas of Manipur, and Darjeeling Gorkha Hill Council.
+- **PESA Act, 1996:** Extends Part IX to **Fifth Schedule** areas (10 States) but NOT to Sixth Schedule.
+- **Cooperatives (97th Amd, 2011):** Part IXB (243ZH-243ZT). Art 43B DPSP and Art 19(1)(c) FR. In 2021, SC struck down its application to State cooperatives.
+- **Cantonment Board:** Set up under Cantonments Act (2006). Falls under **Ministry of Defence**. Station Commander is ex-officio President (not 74th Amd ULB).
 
 ---
 
 ## Confused Pairs
 
-| A | B | Correct | Hindi |
-|---|----|------|-------|
-| Part IX | Part IXA | Panchayats (73rd) vs Municipalities (74th) | भाग IX / IXA |
-| 24 April 1993 | 1 June 1993 | 73rd in force / National PR Day vs 74th in force | 24 अप्रैल / 1 जून |
-| Art. 40 | Urban local bodies | Village panchayats DPSP only — **no** urban Art. 40 | अनु. 40 |
-| ECI | SEC (243K / 243ZA) | Parliament / State Houses / President / VP vs PRI + ULB only | निर्वाचन आयोग / राज्य निर्वाचन आयोग |
-| Gram Sabha | All residents | **Electoral-roll** voters of that GP vs every resident | ग्राम सभा |
-| Ashok Mehta | Balwant Rai Mehta | **2-tier**, district first vs classic **3-tier** | अशोक मेहता / बलवंत राय |
-| G.V.K. Rao | Dantwala | **District** planning vs **block** planning | जीवीके राव / दांताला |
-| 11th Schedule | 12th Schedule | **29** rural subjects vs **18** urban subjects | 11वीं / 12वीं अनुसूची |
-| DPC 4/5 | MPC 2/3 | District plans (PRIs+ULBs) vs metro ≥10 lakh | जिला / महानगर योजना समिति |
-| Age 21 | Age 25 | Local body member age is **21** (243F / 243V) | 21 वर्ष |
-| Women 1/3 | Women 50% | Constitutional **floor** vs optional **State law** (e.g. UP) | एक-तिहाई / 50% |
-| Mayor | Municipal Commissioner | Political / ceremonial vs executive (IAS) | मेयर / आयुक्त |
-| Cantonment Board | 74th municipality | Defence / Station Commander vs constitutional ULB | छावनी बोर्ड |
-| NAC | Nagar Panchayat | **All nominated** vs elected transitional ULB | अधिसूचित क्षेत्र / नगर पंचायत |
-| PESA 1996 | Sixth Schedule | Extends 73rd to **Fifth Schedule** areas | पेसा / छठी अनुसूची |
-| 64th / 65th Bills | 73rd / 74th | Failed in RS vs enacted local-government pair | विफल / अधिनियमित |
-| Kshetra Panchayat | Panchayat Samiti | UP intermediate name vs generic / other-State label | क्षेत्र पंचायत |
-| Part IXB co-ops | State cooperatives | 97th insert; SC 2021 — IXB **inoperative for State co-ops** | भाग IXB |
-
----
-
-## Must-score facts — 73rd/74th, committees, Schedules
-
-### Timeline
-
-| Item | Lock |
-|------|------|
-| Art. 40 | Village panchayats (Gandhian DPSP) |
-| First PR inauguration | **Nagaur, Rajasthan — 2 Oct 1959** |
-| 73rd / force | **1992** / **24 Apr 1993** (National Panchayat Day) |
-| 74th | Municipalities (Part IXA) |
-| Local govt List | State List **Entry 5** |
-
-### Committees
-
-| Committee | Lock |
-|-----------|------|
-| Balwant Rai Mehta | Three-tier PR foundation |
-| Ashok Mehta (1977) | Two-tier; district as first point |
-| Dantwala (1978) | Block-level planning |
-| L.M. Singhvi (1986) | Constitutional status push |
-| 64th Bill (1989) | Failed in Rajya Sabha |
-
-### Structure locks
-
-| Item | Lock |
-|------|------|
-| Gram Sabha | Art. **243A** — registered voters |
-| 11th Schedule | **29** subjects |
-| 12th Schedule | **18** subjects |
-| Reservations | SC/ST + women (≥1/3; many States 50%) |
-
----
+| A | B | Correct Match / Focus | Hindi Terminology |
+|---|----|-----------------------|-------------------|
+| **Part IX** | **Part IXA** | Panchayats (73rd) vs Municipalities (74th) | भाग IX / IXA |
+| **24 April 1993** | **1 June 1993** | 73rd in force (National PR Day) vs 74th in force | 24 अप्रैल / 1 जून |
+| **Art. 40** | **Urban local bodies** | Village panchayats DPSP only — **no** urban Art. 40 | अनु. 40 (ग्राम पंचायत) |
+| **ECI** | **SEC (243K / 243ZA)** | Parliament/State Houses vs PRI+ULB poll body | निर्वाचन आयोग / राज्य निर्वाचन आयोग |
+| **SEC Removal** | **ECI Removal** | SEC removed like **HC judge** vs ECI removed like **SC judge** | उच्च न्यायालय जज समान निष्कासन |
+| **Gram Sabha** | **All residents** | **Electoral-roll voters** of that GP vs every resident | ग्राम सभा (पंजीकृत मतदाता) |
+| **Ashok Mehta** | **Balwant Rai Mehta** | **2-tier**, district first vs classic **3-tier** | अशोक मेहता (द्वि-स्तरीय) / बलवंत राय (त्रि-स्तरीय) |
+| **G.V.K. Rao** | **Dantwala** | **District** planning vs **block** planning | जीवीके राव (ज़िला) / दांताला (ब्लॉक) |
+| **11th Schedule** | **12th Schedule** | **29** rural subjects vs **18** urban subjects | 11वीं (29 विषय) / 12वीं (18 विषय) |
+| **DPC 4/5** | **MPC 2/3** | District plans (PRIs+ULBs) vs metro ≥10 lakh | जिला (4/5) / महानगर योजना समिति (2/3) |
+| **Age 21** | **Age 25** | Local body member age is **21** vs MLA/MP age is 25 | न्यूनतम आयु 21 वर्ष |
+| **Women 1/3** | **Women 50%** | Constitutional **floor** vs optional **State law** (e.g. UP, Bihar) | महिला आरक्षण (न्यूनतम 1/3 vs 50%) |
+| **Mayor** | **Municipal Commissioner** | Political/ceremonial head vs executive (IAS) | महापौर / नगर आयुक्त |
+| **NAC** | **Nagar Panchayat** | Notified Area Committee (**all nominated**) vs elected transitional ULB (243Q) | अधिसूचित क्षेत्र समिति / नगर पंचायत |
+| **Cantonment Board** | **74th municipality** | Defence / Station Commander vs constitutional ULB | छावनी बोर्ड / नगरपालिका |
+| **PESA 1996** | **Sixth Schedule** | Extends 73rd to **Fifth Schedule** areas vs autonomous councils do not need it | पेसा (5वीं अनुसूची) / 6वीं अनुसूची |
+| **64th / 65th Bills** | **73rd / 74th Acts** | Failed in RS vs passed & enacted local-government dual laws | 64वां विधेयक (विफल) / 73वां अधिनियम |
+| **Kshetra Panchayat** | **Panchayat Samiti** | UP intermediate name vs generic/other-State label | क्षेत्र पंचायत / पंचायत समिति |
+| **Part IXB co-ops** | **State cooperatives** | 97th insert; SC 2021 — IXB **inoperative for State co-ops** | भाग IXB (सहकारिता) |
 
 ## Frame — why PRIs exist
 

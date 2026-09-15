@@ -15,92 +15,93 @@ Union and its Territory | Formation of States | State Reorganisation | States Re
 
 ---
 
-## Consolidated — 28 Must-Score Facts
+## Consolidated — 30 Must-Score Facts
 
-1. **Part I** covers **Articles 1–4**. Names and territorial extent sit in the **First Schedule**. India is a **Union of States** — States cannot secede; Parliament may reorganise them.
-2. Territory of India under **Article 1(3)** means **States**, **Union Territories**, and such other territories as may be **acquired**.
-3. **Article 2** lets Parliament **admit or establish** new States that were **not already** States of the Union. **Article 3** forms or alters **existing** States (area, boundaries, name) and can also create a UT from a State.
-4. A law under Articles 2 or 3 may amend the First and Fourth Schedules under **Article 4**, but it is **not** a constitutional amendment under **Article 368** — a **simple majority** of Parliament is enough.
-5. An Article 3 Bill needs the **President’s recommendation**. The State Legislature’s **views** are sought but are **not binding**. The State Legislature **cannot** itself change the State’s name.
-6. **Acquisition** of territory can be provided by **ordinary law**. **Cession** of Indian territory needs a **constitutional amendment** (*Berubari* advisory line).
-7. Cession amendments: **9th Amendment (1960)** for Berubari to Pakistan; **100th Amendment (2015)** for the India–Bangladesh Land Boundary Agreement (enclave exchange).
-8. The **7th Amendment, 1956** ended the old **Part A / B / C / D** map and introduced the present **States + Union Territories** scheme.
-9. The **Dhar Commission (1948)** and the **JVP Committee (1948–49)** both **rejected** immediate linguistic reorganisation. **Sitaramayya** belongs to **JVP**, not to the SRC.
-10. **Andhra** became the first linguistic State on **1 October 1953** after **Potti Sriramulu**’s fast. The first capital was **Kurnool**, not Hyderabad.
-11. The **States Reorganisation Commission (1953)** had three members: **Justice Fazl Ali** (Chair), **K.M. Panikkar**, and **H.N. Kunzru**. **K.T. Shah** and **P. Sitaramayya** were **not** SRC members.
-12. SRC recommended **16 States and 3 UTs**. The Union implemented **14 States and 6 UTs** from **1 November 1956** under the States Reorganisation Act with the 7th Amendment.
-13. India today has **28 States and 8 Union Territories** (post-2019 J&K reorganisation and later UT mergers).
-14. **Article 239**: a UT is administered by the President through an **Administrator** (who may be called **Lieutenant Governor**).
-15. **Article 239A** (14th Amendment) enables a legislature for **Puducherry**. **Article 239AA** (69th Amendment) gives special status to the **National Capital Territory of Delhi**.
-16. In Delhi, **public order, police and land** remain with the Centre / LG framework. Puducherry does **not** carry that same reserved triplet.
-17. UT Assemblies in the usual teaching set: **Delhi (70 MLAs)**, **Puducherry (30)**, **Jammu & Kashmir (90)**. Maximum Lok Sabha seats from UTs under Article 81 is **20**.
-18. **NCT** is the constitutional territory under the 69th Amendment. **NCR** is a wider **statutory planning region** (1985 Act) — do not treat them as the same label.
-19. Citizenship sits in **Part II, Articles 5–11**. India follows **single citizenship**, not USA-style dual citizenship of Union and State.
-20. **Article 11** empowers Parliament to regulate citizenship; the working statute is the **Citizenship Act, 1955**.
-21. Modes of **acquisition**: birth, descent, registration, naturalisation, and incorporation of territory. Modes of **loss**: renunciation, termination, and deprivation.
-22. Birth-citizenship clocks: from **1987**, one parent citizen; from **3 December 2004**, both parents citizens, or one citizen and the other not an illegal migrant.
-23. **CAA** teaching fact: selected persecuted minorities from **three** neighbouring countries, with a cut-off of **31 December 2014**. It does not redefine OCI as dual citizenship.
-24. **OCI** is **not** dual citizenship: no vote and no constitutional office. An **NRI** remains an Indian **citizen** living abroad; an **OCI** is a foreign citizen of Indian origin with a card status.
-25. The **National Integration Council (1961)** is **extra-constitutional**. The **Inter-State Council** rests on **Article 263**.
-26. **Sikkim** entered as a full State through the **Article 2** path (**35th** associate stage, then **36th Amendment, 1975**), with special provision **371F**.
-27. Goa, Daman and Diu joined after **Operation Vijay (19 December 1961)**; Goa became a State in **1987**. French establishments around Puducherry were de facto **1954** and de jure **1962**.
-28. Renunciation is **voluntary** by the citizen. Deprivation is a **Central order** against certain registered or naturalised citizens — do not swap the two.
+1. **Part I (Articles 1–4):** India, that is Bharat, is a **Union of States**. The term "Federation" is nowhere used. Names and territorial extent are in the **First Schedule**.
+2. Territory of India under **Article 1(3)** comprises **States**, **Union Territories**, and such other territories as may be **acquired** (e.g., Puducherry, Goa initially). 
+3. **Article 2** vs **Article 3**: Art 2 allows Parliament to **admit or establish** *new* States (foreign territory, e.g., Sikkim). Art 3 allows forming/altering *existing* States (boundary/name changes).
+4. **Article 4**: Laws under Art 2 & 3 amend the First and Fourth Schedules by a **simple majority**; they are **not** constitutional amendments under **Article 368**.
+5. **Article 3 Procedure**: Bill needs prior **President's recommendation**. The concerned State Legislature's views are sought but are **not binding**. The State Legislature **cannot** itself change its name.
+6. **Acquisition vs Cession**: Acquisition requires ordinary law. **Cession** of Indian territory requires a **Constitutional Amendment** (*Berubari Union* case, 1960). 
+7. **Cession Amendments**: 9th Amendment (1960) ceded Berubari to Pakistan. 100th Amendment (2015) executed India–Bangladesh Land Boundary Agreement (exchange of 162 enclaves).
+8. **Dhar Commission (June 1948)** and **JVP Committee (Dec 1948)** both purely **rejected** immediate linguistic reorganisation, prioritizing national unity. 
+9. **Andhra State**: Formed on **1 Oct 1953** following Potti Sriramulu's fast unto death. It was the **first linguistic State**. First capital was **Kurnool** (not Hyderabad).
+10. **States Reorganisation Commission (SRC, 1953)**: Chaired by **Justice Fazl Ali**, with **K.M. Panikkar** and **H.N. Kunzru**. (K.T. Shah and P. Sitaramayya were *not* members).
+11. **States Reorganisation Act, 1956**: Combined with the **7th Amendment (1956)**, it abolished Part A/B/C/D states, establishing **14 States and 6 UTs** on 1 Nov 1956.
+12. **Zonal Councils**: They are **statutory** bodies established by the States Reorganisation Act, 1956. The **Union Home Minister** is the common chairman. (North Eastern Council was formed by a separate 1971 Act).
+13. **Formation Chronology**: Gujarat (1960), Nagaland (1963), Haryana (1966), Himachal (1971), Manipur/Tripura/Meghalaya (1972), Sikkim (1975).
+14. **Sikkim**: Created via **Article 2**. 35th Amd (1974) made it an 'Associate State'; **36th Amd (1975)** made it a full 22nd State (inserted Art. 371F).
+15. **UP/UK trivia**: United Provinces renamed to **Uttar Pradesh** on **24 Jan 1950** (UP Diwas). **Uttarakhand** was carved out on **9 Nov 2000** as the 27th State.
+16. **Current Map**: India has **28 States and 8 Union Territories**. Dadra & Nagar Haveli and Daman & Diu merged into one UT in **Jan 2020**. J&K and Ladakh formed on 31 Oct 2019.
+17. **UT Administration (Part VIII)**: Administered directly by the President through an Administrator or **Lieutenant Governor (LG)** under **Article 239**. 
+18. **Legislatures in UTs**: **Art. 239A** (14th Amd) enables Puducherry's legislature. **Art. 239AA** (69th Amd, 1991) designates Delhi as **NCT** with special provisions. 
+19. **NCT Delhi Exceptions**: Public order, police, and land remain strictly with the Union (unlike Puducherry). Maximum LS seats from UTs is **20** (Article 81). Delhi has 70 MLAs.
+20. **Citizenship (Part II, Articles 5–11)**: India follows **single citizenship** (unlike USA's dual system). Constitution left citizenship regulation to Parliament (**Article 11**).
+21. **Citizenship Act, 1955**: Provides 5 modes of **acquisition** (Birth, Descent, Registration, Naturalisation, Territory Incorporation) and 3 of **loss** (Renunciation, Termination, Deprivation).
+22. **Dual Citizenship**: Strictly **not allowed**. Voluntary acquisition of foreign citizenship results in automatic **termination** (**Article 9**). 
+23. **Deprivation**: A compulsory Central order against **registered/naturalised** citizens (for fraud, disloyalty, or 7-year overseas residence). Birth citizens cannot be 'deprived'.
+24. **Birth-citizenship evolution**: Birth plus: -> 1987 (one parent must be Indian) -> **3 Dec 2004** (both parents citizens, or one citizen & other not an *illegal migrant*).
+25. **PIO / OCI**: PIO scheme merged into **OCI in 2015**. OCI is **not** dual citizenship—OCI cardholders cannot vote, hold constitutional office, or routinely buy agricultural land.
+26. **Pravasi Bharatiya Divas**: Celebrated on **9 Jan** (Gandhi's return), inspired by the **L.M. Singhvi Committee (2000)** on Indian diaspora.
+27. **Citizenship Amendment Act (CAA), 2019**: Protects 6 persecuted minorities (Hindu, Sikh, Buddhist, Jain, Parsi, Christian) from 3 countries (Pak, Afghan, Bangladesh) entering on/before **31 Dec 2014**.
+28. **National Integration Council (NIC, 1961)**: PM is the chairman. It is completely **extra-constitutional** (unlike the Inter-State Council under Art. 263).
+29. **Fundamental Rights (Citizens Only)**: Articles **15, 16, 19, 29, 30**. Non-citizens also get Arts. 14, 20, 21, 22, 25-28.
+30. **Minority / Treaties Trivia**: French enclaves (Puducherry de jure 1962), Portuguese enclaves (Goa/Daman/Diu liberated in 1961 via *Operation Vijay*).
 
 ---
 
 ## Confused Pairs
 
-| A | B | Correct | Hindi |
+| A | B | Correct Distinction | Hindi Terminology |
 |---|----|------|-------|
-| Art. 2 | Art. 3 | Admit/establish **new** States vs form/alter **existing** | प्रवेश / गठन |
-| Art. 3 | Art. 368 | Simple majority + Art. 4 ≠ constitutional amendment | — |
-| Acquisition | Cession | Parliament by law vs **constitutional amendment** (*Berubari*) | अर्जन / समर्पण |
-| NCT (Delhi) | NCR | 69th Amd **Territory** vs statutory planning region (1985) | — |
-| LG (Delhi) | Governor (State) | Delhi: public order/police/land with Centre; LG stronger | उपराज्यपाल |
-| OCI | Dual citizenship | OCI ≠ dual citizen; no vote / no constitutional office | — |
-| NRI | OCI | Indian **citizen** abroad vs foreign citizen of Indian origin | — |
-| SRC (Fazl Ali) | JVP | 1953 linguistic-friendly vs 1948 rejected language | — |
-| NCT Delhi | Puducherry | 239AA (land/police reserved) vs 239A (no such triplet) | — |
-| NIC | Inter-State Council | Extra-constitutional 1961 vs **Art. 263** | — |
-| Renunciation | Deprivation | Voluntary by citizen vs Centre’s order (regd/naturalised) | — |
+| **Art. 2** | **Art. 3** | Admit/establish **new** States (foreign) vs form/alter **existing** States (domestic) | प्रवेश/स्थापना (2) vs निर्माण/सीमा परिवर्तन (3) |
+| **Art. 3** | **Art. 368** | Simple majority + Art. 4 ≠ constitutional amendment under 368 | साधारण बहुमत (Simple) |
+| **Acquisition** | **Cession** | Parliament by ordinary law vs **constitutional amendment** (*Berubari*, 1960) | अर्जन vs समर्पण |
+| **Zonal Council** | **Inter-State Council** | **Statutory** (SRA 1956, Home Minister chairs) vs **Constitutional** (Art 263, PM chairs) | क्षेत्रीय परिषद् vs अंतर-राज्यीय परिषद् |
+| **NCT (Delhi)** | **NCR** | 69th Amd **Territory** (Constitution) vs statutory planning region (1985 Act) | राष्ट्रीय राजधानी राज्यक्षेत्र |
+| **LG (Delhi)** | **Governor (State)** | Delhi LG holds reserved powers (police/land/public order) on behalf of Centre | उपराज्यपाल vs राज्यपाल |
+| **OCI** | **Dual citizenship** | OCI ≠ dual citizen; no vote / no constitutional office / no agricultural land | समुद्रपारीय नागरिक |
+| **NRI** | **OCI** | Indian **citizen** living abroad vs foreign citizen of Indian origin | आप्रवासी भारतीय vs OCI |
+| **SRC (Fazl Ali)** | **JVP / Dhar** | 1953: Linguistic-friendly but not 1 language=1 state vs 1948: Rejected language strictly | फजल अली आयोग |
+| **Renunciation** | **Deprivation** | Voluntary by citizen vs Centre’s order against regd/naturalised | त्याग vs से वंचित करना |
 
 ---
 
 ## Must-score facts — Arts. 1–4, SRC, citizenship
 
-### Article tags
+### Article & Constitutional Tags
 
-| Article | Lock |
+| Entity | Core Lock |
 |---------|------|
-| 1 | Union of States; territory = States + UTs + acquired |
-| 2 | Admit / establish **new** States (not already in Union) |
-| 3 | Form / alter **existing** States; President’s recommendation; State views **not binding** |
-| 4 | May amend 1st & 4th Schedules; **not** Art. 368 |
-| 239 | UT via Administrator / LG |
-| 239A | Puducherry legislature |
-| 239AA | NCT Delhi (69th) — public order / police / land with Centre |
+| **Art. 1** | India = Union of States; Territory = States + UTs + Acquired |
+| **Art. 2** | Admit / establish **new** States (e.g., Sikkim entry) |
+| **Art. 3** | Form / alter **existing** States; President’s recommendation mandatory; State views **not binding** |
+| **Art. 4** | Changes to 1st & 4th Schedules not deemed Art. 368 amendment |
+| **Art. 5–11** | Citizenship (Part II); Single citizenship |
+| **Art. 239** | UT administered via Administrator / LG |
+| **Art. 239AA** | NCT Delhi (69th Amd) — public order / police / land strictly with Centre |
 
-### Reorganisation tags
+### Quick Chronology & Committees
 
-| Item | Lock |
+| Item | Core Lock |
 |------|------|
-| Dhar / JVP | Rejected immediate linguistic States |
-| Andhra | First linguistic State **1 Oct 1953**; capital **Kurnool** |
-| SRC (1953) | Fazl Ali, Panikkar, Kunzru |
-| 7th Amd + SRA | **1 Nov 1956** — States + UTs scheme |
-| Today | **28 States + 8 UTs** |
-| Cession | Needs constitutional amendment (*Berubari*); 9th / 100th |
+| **Dhar & JVP (1948)** | Rejected immediate linguistic States; focus on unity |
+| **Andhra (1953)** | First linguistic State (**1 Oct 1953**); capital **Kurnool** |
+| **SRC (1953)** | Fazl Ali (Chair), K.M. Panikkar, H.N. Kunzru (Sitaramayya NOT a member) |
+| **SRA (1956) + 7th Amd** | **1 Nov 1956** — 14 States + 6 UTs scheme |
+| **Sikkim** | 35th Amd (Associate State), 36th Amd 1975 (Full State) |
+| **Uttarakhand (UP focus)** | Carved from UP on **9 Nov 2000** (27th State) |
 
-### Citizenship (Part II)
+### Citizenship Locks
 
-| Item | Lock |
+| Item | Core Lock |
 |------|------|
-| Arts. | **5–11**; single citizenship |
-| Statute | Citizenship Act **1955** (Art. 11) |
-| Acquire | Birth, descent, registration, naturalisation, incorporation |
-| Lose | Renunciation, termination, deprivation |
-| OCI ≠ dual citizenship | No vote / no constitutional office |
-| NIC | Extra-constitutional (**1961**); ISC = Art. **263** |
+| **Statute & Power** | Citizenship Act **1955**; Parliament’s absolute power (**Art. 11**) |
+| **Citizen-only FRs** | Arts. **15, 16, 19, 29, 30** |
+| **Acquisition (5 modes)**| Birth, descent, registration, naturalisation, incorporation of territory |
+| **Loss (3 modes)** | Renunciation, termination (automatic on foreign passport), deprivation (Central order) |
+| **Pravasi Bh. Divas** | **9 Jan**; L.M. Singhvi Committee (2000) recommendation |
+| **CAA 2019** | 6 minority religions from Pak, Afghan, Bangladesh entering before **31 Dec 2014** |
 
 ---
 

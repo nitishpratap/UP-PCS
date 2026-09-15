@@ -15,34 +15,38 @@ East India Company and Nawabs of Bengal | Nawabs of Bengal | Battle of Plassey |
 
 ---
 
-## Consolidated — 26 Must-Score Facts
+## Consolidated — 30 Must-Score Facts
 
-1. Company rule grew in phases: factories → **Plassey puppet (1757)** → **Diwani (1765)** → Dual Government ends **1772** → Ring Fence → **Subsidiary Alliance (Wellesley from 1798)** → Paramountcy → **Lapse and annexations (Dalhousie)**.
-2. **Battle of Plassey, 23 June 1757. Cause** — Siraj feared English forts and dastak misuse; court conspiracy with Clive. **Course** — short fight; Mir Jafar held back. **Result** — Mir Jafar became puppet Nawab; **no Diwani yet**.
-3. **Battle of Buxar, 22 October 1764. Cause** — Mir Qasim joined **Shuja-ud-Daula** and **Shah Alam II**. **Course** — **Hector Munro** won a real pitched battle (Clive was in England). **Result** — Company supremacy in northern India.
-4. The **Treaty of Allahabad (August 1765)** gave the Company the **Diwani** of Bengal, Bihar and Orissa. Clive settled; Munro had fought.
-5. **Diwani** means revenue collection. **Nizamat** means police and criminal justice in the Nawab’s name. Under Dual Government the Company took profit and dodged blame.
-6. **Dual Government (1765–72)** was Clive’s design. **Warren Hastings ended it in 1772** and took direct civil and revenue charge.
-7. **Ring Fence** (Warren Hastings) was an informal buffer around Bengal. **Subsidiary Alliance** (Wellesley) meant British troops, subsidy and a Resident. Do not swap the two.
-8. **Subsidiary Alliance** began with Wellesley from **1798**; first major state was **Hyderabad**. **Doctrine of Lapse** is Dalhousie’s annexation tool when there was no natural heir.
-9. **Awadh (1856)** was annexed for alleged **misrule**, not under Lapse. **Jhansi (1853)** is the classic Lapse case.
-10. **First Anglo-Mysore War (1767–69)** ended with the **Treaty of Madras**. **Second (1780–84)** ended with the **Treaty of Mangalore**. Do not swap the treaties.
-11. **Third Anglo-Mysore War (1790–92)** ended with the **Treaty of Seringapatam** — Tipu ceded about half his territory. **Fourth (1799)** killed Tipu; Mysore went under Subsidiary Alliance with a Wodeyar child.
-12. **First Anglo-Maratha War (1775–82)** ran through **Surat (1775)** and **Purandhar (1776)** and ended with **Salbai (1782)**. **Bassein (1802)** is the Peshwa’s subsidiary treaty before the Second War.
-13. **Second Anglo-Maratha War (1803–05)** followed Bassein. **Third (1817–18)**, under **Lord Hastings**, crushed the Peshwa and cleared the Pindaris.
-14. **Warren Hastings** handled Dual Government, Ring Fence, Salbai and Banaras (**1781**). **Lord Hastings** handled Nepal, Pindaris and the Third Maratha War. Never swap the two men.
-15. **Anglo-Nepal War (1814–16)** ended with the **Treaty of Sugauli (1816)** — hill cessions, not Kathmandu annexation. Do not confuse Sugauli with **Lahore (1846)**.
-16. The **Treaty of Amritsar (1809)** was Ranjit Singh’s Sutlej peace with the English. The **Treaty of Lahore (1846)** settled the **First Anglo-Sikh War**. **Punjab was annexed in 1849** after the Second War.
-17. **Sindh (1843)** was taken under **Ellenborough / Napier**. **Punjab (1849)** was annexed under **Dalhousie** after the Second Anglo-Sikh War.
-18. **First Anglo-Burmese War (1824–26)** ended with the **Treaty of Yandabo**. Second War **1852**; Third War **1885** completed annexation of Burma.
-19. **First Anglo-Afghan War (1839–42)** belongs to **Auckland**. **Masterly Inactivity** is **Lawrence’s** caution. **Proud Reserve / Forward Policy** is **Lytton’s** forward Afghan line.
-20. **Vellore Mutiny (1806)** was an early sepoy rising over dress and religious grievances — a preview theme for 1857, not the Revolt itself.
-21. **Chauth** was the Maratha claim of one-fourth of revenue. It is **not** the Subsidiary Alliance payment.
-22. Peshwa order fact: **Balaji Vishwanath → Baji Rao I → Balaji Baji Rao → Madhav Rao I → Narayan Rao → Raghoba / Baji Rao II**. Baji Rao II signed Bassein and was later pensioned at **Bithoor**.
-23. After Plassey the Nawabs were puppets: **Mir Jafar** then **Mir Qasim** (fought at Buxar) then **Najm-ud-Daulah** as a pensioned figurehead under Diwani.
-24. Farrukhsiyar’s **farman of 1717** gave the Company major duty-free privileges in Bengal. Later Nawabs fought private misuse of **dastaks** — that quarrel helps explain Plassey, but it is **not** Diwani.
-25. **Hyder Ali** seized real power in Mysore in **1761** and built an armoury at **Dindigal (1755)**. **Tipu** succeeded in **1782** and died at Seringapatam in **1799**.
-26. Paramountcy under **Lord Hastings** meant smashing rivals and claiming overlordship after Nepal, Pindaris and the Third Maratha War — the bridge from Subsidiary diplomacy to open supremacy.
+1. **Company rule phases**: Factories → **Plassey puppet (1757)** → **Diwani (1765)** → Dual Govt ends **1772** → Ring Fence → **Subsidiary Alliance (1798)** → Paramountcy → **Lapse (1848)**.
+2. **Battle of Plassey (23 June 1757)**: Conspiracy by Clive with Mir Jafar, Jagat Seth, Omichand. Result: Mir Jafar became puppet Nawab. **No Diwani yet**.
+3. **Battle of Buxar (22 Oct 1764)**: Hector Munro defeated Mir Qasim + Shuja-ud-Daula (Awadh) + Shah Alam II (Mughal). Real pitched battle. Established true military supremacy.
+4. **Treaty of Allahabad (Aug 1765)**: Clive negotiated. Granted Company the **Diwani** (revenue) of Bengal, Bihar, and Orissa.
+5. **Dual Government (1765–72)**: Clive's design. Company took revenue (Diwani), Nawab kept police/justice (Nizamat) in name. Ended by **Warren Hastings (1772)**.
+6. **Ring Fence** vs **Subsidiary Alliance**: Hastings built an informal buffer (Awadh). Wellesley formalized it with troops + subsidy + Resident from **1798**.
+7. **Subsidiary Alliance Sequence (UPPCS Favorite)**: Hyderabad (1798) → Mysore (1799) → Tanjore (1799) → Awadh (1801) → Peshwa (1802).
+8. **Doctrine of Lapse Sequence (Dalhousie)**: Satara (1848) → Jaitpur/Sambalpur (1849) → Baghat (1850) → Udaipur (1852) → Jhansi (1853) → Nagpur (1854).
+9. **Awadh Annexation (1856)**: Done on grounds of **misgovernance** based on **James Outram's** report, NOT Doctrine of Lapse.
+10. **Anglo-Mysore Wars**: 1st (1767-69, Madras); 2nd (1780-84, Mangalore); 3rd (1790-92, Seringapatam — Tipu ceded half kingdom); 4th (1799 — Tipu died). 
+11. **Tipu Sultan Facts**: Planted Tree of Liberty, member of Jacobin club, sent foreign embassies. Paid for Sharada temple idol at Sringeri.
+12. **Anglo-Maratha Wars**: 1st (1775-82, Salbai); 2nd (1803-05, Assaye/Laswari); 3rd (1817-18, Peshwa abolished, Pindaris crushed under **Lord Hastings**).
+13. **First Maratha Treaties (UPPCS Chronology)**: Surat (1775) → Purandhar (1776) → Wadgaon (1779) → Salbai (1782).
+14. **Treaty of Bassein (1802)**: Signed by Peshwa Baji Rao II. He accepted subsidiary alliance before the 2nd Maratha War. Later pensioned to **Bithoor**.
+15. **Warren Hastings** ≠ **Lord Hastings**: Warren (Dual Govt, Ring Fence, Salbai, Banaras 1781). Lord Hastings (Nepal, Pindaris, 3rd Maratha).
+16. **Anglo-Nepal War (1814–16)**: **UKPCS Core Fact**. Gen. Gillespie died at Nalapani (Dehradun). Ochterlony led. Ended with **Treaty of Sugauli** (ratified 1816). Ceded Garhwal, Kumaon.
+17. **Sikh Treaties**: **Amritsar (1809)** (Ranjit Singh's Sutlej peace). **Lahore (1846)** (ended 1st Sikh War). Punjab was entirely **annexed in 1849** (Dalhousie).
+18. **Sindh Annexation (1843)**: Executed by **Sir Charles Napier** under Gov-Gen **Ellenborough**.
+19. **Anglo-Burmese Wars**: 1st (1824-26, Treaty of Yandabo, Amherst); 2nd (1852, Dalhousie); 3rd (1885, Dufferin → complete annexation).
+20. **Afghan Policies**: Auckland (1st War 1839-42), John Lawrence (**Masterly Inactivity**), Lytton (**Proud Reserve / Forward Policy** → 2nd War).
+21. **Vellore Mutiny (1806)**: Early sepoy uprising over religious marks (turbans/beards) under Gov of Madras William Bentinck and Gov-Gen George Barlow.
+22. **Maratha Taxes**: **Chauth** (1/4th of revenue for protection), **Sardeshmukhi** (extra 10% overlord claim). Not Company treaties!
+23. **Capital Shifts (Bengal)**: Murshid Quli Khan (Dhaka → Murshidabad); Mir Qasim (Murshidabad → **Munger/Monghyr** to escape Company spies).
+24. **Farrukhsiyar's Farman (1717)**: Magna Carta of EIC. Gave duty-free trade (dastaks). Private misuse caused Plassey buildup.
+25. **Wandiwash (1760)**: Decisive English victory (Eyre Coote) over the French (Lally). Destroyed French political dream in India.
+26. **Bedara (1759)**: English defeated the Dutch in Bengal. 
+27. **Porto Novo (1781)**: Eyre Coote defeated Hyder Ali during the 2nd Anglo-Mysore War.
+28. **Banaras Rebellion (1781)**: Warren Hastings clashed with Raja Chait Singh. Hastings fled to Chunar.
+29. **Asiatic Society of Bengal (1784)**: Founded by Sir William Jones. Warren Hastings championed it but declined Presidentship.
+30. **Governor-General of Bengal vs India**: Regulating Act 1773 made Warren Hastings the first Gov-General of *Bengal*. Charter Act 1833 made William Bentinck the first Gov-General of *India*.
 
 ---
 
@@ -50,85 +54,81 @@ East India Company and Nawabs of Bengal | Nawabs of Bengal | Battle of Plassey |
 
 | A | B | Difference | Hindi |
 |---|----|------------|-------|
-| Plassey 1757 | Buxar 1764 | Conspiracy + puppet Nawab vs real battle vs triple alliance; Diwani after Buxar | प्लासी / बक्सर |
-| Mir Jafar | Mir Qasim | Puppet after Plassey vs Nawab who fought at Buxar | मीर जाफ़र / मीर कासिम |
-| Diwani | Nizamat | Revenue (1765) vs police and criminal justice in the Nawab’s name | दीवानी / निज़ामत |
-| Dual Government 1765–72 | Direct rule 1772 | Clive created it; Hastings ended it | दोहरी सरकार |
-| Ring Fence | Subsidiary Alliance | Informal buffer around Bengal vs British troops + subsidy + Resident | रिंग फेंस / सहायक संधि |
-| Subsidiary Alliance | Doctrine of Lapse | Wellesley’s protection treaty vs Dalhousie’s annexation if no natural heir | सहायक संधि / विलुप्ति सिद्धांत |
-| Treaty of Madras 1769 | Treaty of Mangalore 1784 | First Anglo-Mysore War vs Second | मद्रास / मैंगलोर |
-| Salbai 1782 | Bassein 1802 | Peace after First Maratha War vs Peshwa’s subsidiary treaty | सालबाई / बसीन |
-| Treaty of Lahore 1846 | Punjab annexation 1849 | First Anglo-Sikh settlement vs annexation after Second War | लाहौर / पंजाब |
-| Sugauli 1816 | Lahore 1846 | Nepal hills vs Sikh Punjab | सुगौली / लाहौर |
-| Warren Hastings | Lord Hastings | Dual Govt / Ring Fence / Salbai / Banaras vs Nepal / Pindaris / Third Maratha | वारेन / लॉर्ड हेस्टिंग्स |
-| Chauth | Subsidiary Alliance | Maratha claim of one-fourth revenue vs British protection payment | चौथ |
-| Sindh 1843 | Punjab 1849 | Napier / Ellenborough vs Dalhousie after Second Sikh War | सिंध / पंजाब |
-| Awadh 1856 | Jhansi 1853 | Misgovernance annexation vs Lapse | अवध / झाँसी |
-| Treaty of Amritsar 1809 | Treaty of Lahore 1846 | Ranjit’s Sutlej peace vs First Sikh War settlement | अमृतसर / लाहौर |
-| Masterly Inactivity | Proud Reserve / Forward Policy | Lawrence’s caution on Afghanistan vs Lytton’s forward Afghan line | मास्टरी इनएक्टिविटी / प्राउड रिजर्व |
-| Surat 1775 | Purandhar 1776 | Bombay’s Raghoba deal vs Calcutta’s revised Maratha treaty before Salbai | सूरत / पुरंदर |
+| Plassey 1757 | Buxar 1764 | Conspiracy vs real battle; Diwani came after Buxar. | प्लासी / बक्सर |
+| Mir Jafar | Mir Qasim | Puppet after Plassey vs Nawab who fought at Buxar and shifted to Munger. | मीर जाफ़र / मीर कासिम |
+| Diwani | Nizamat | Revenue collection (1765) vs police/justice. | दीवानी / निज़ामत |
+| Dual Govt 1765 | Direct Rule 1772 | Clive created it (avoiding responsibility) vs Warren Hastings ended it. | दोहरी सरकार |
+| Ring Fence | Subsidiary Alliance | Buffer states (Hastings) vs troops + subsidy + loss of foreign policy (Wellesley). | रिंग फेंस / सहायक संधि |
+| Subsidiary Alliance | Doctrine of Lapse | Wellesley's treaty (keep throne) vs Dalhousie's annexation (lose throne). | सहायक संधि / विलुप्ति |
+| Treaty of Madras 1769 | Treaty of Mangalore 1784 | Ends 1st Mysore War (Hyder wins) vs 2nd Mysore War (status quo). | मद्रास / मैंगलोर |
+| Salbai 1782 | Bassein 1802 | Peace after 1st Maratha vs Peshwa Baji Rao II's subsidiary surrender. | सालबाई / बसीन |
+| Sugauli 1816 | Lahore 1846 | Ends Anglo-Nepal war (hills ceded) vs Ends 1st Anglo-Sikh war. | सुगौली / लाहौर |
+| Warren Hastings | Lord Hastings | 1770s (Rohillas, Salbai) vs 1810s (Nepal, Pindaris, 3rd Maratha). | वारेन / लॉर्ड हेस्टिंग्स |
+| Sindh 1843 | Punjab 1849 | Annexed by Ellenborough & Napier vs Annexed by Dalhousie. | सिंध / पंजाब |
+| Awadh 1856 | Jhansi 1853 | Annexed for misgovernance (Outram report) vs Annexed via Lapse (no heir). | अवध / झाँसी |
+| Masterly Inactivity | Forward Policy | John Lawrence's Afghan caution vs Lytton's aggression. | मास्टरी इनएक्टिविटी / फॉरवर्ड |
+| Bedara 1759 | Wandiwash 1760 | English crushed the Dutch vs English crushed the French. | बेदारा / वाण्डीवाश |
 
 ---
 
 ## Must-score facts — treaties, battles, GG tags
 
-### Treaty ↔ year
+### Treaty ↔ Year
 
-| Treaty | Year | War / context |
+| Treaty | Year | War / Context |
 |--------|------|----------------|
-| Allahabad | **1765** | Diwani after Buxar |
-| Madras | **1769** | 1st Mysore |
-| Surat / Purandhar | **1775 / 1776** | 1st Maratha openings |
-| Salbai | **1782** | 1st Maratha peace |
-| Mangalore | **1784** | 2nd Mysore |
-| Seringapatam | **1792** | 3rd Mysore |
-| Bassein | **1802** | Peshwa subsidiary |
-| Amritsar (Ranjit) | **1809** | Sutlej peace with Ranjit |
-| Sugauli | **1816** | Nepal |
-| Yandabo | **1826** | 1st Burma |
-| Lahore | **1846** | 1st Sikh |
-| Sinchula | **1865** | Bhutan |
+| Allahabad | **1765** | Diwani settlement after Buxar |
+| Madras | **1769** | Ends 1st Anglo-Mysore War |
+| Surat / Purandhar | **1775 / 1776** | 1st Anglo-Maratha openings |
+| Wadgaon / Salbai | **1779 / 1782** | English humilation / 1st Maratha peace |
+| Mangalore | **1784** | Ends 2nd Anglo-Mysore War |
+| Seringapatam | **1792** | Ends 3rd Anglo-Mysore War |
+| Bassein | **1802** | Peshwa Baji Rao II subsidiary |
+| Amritsar | **1809** | Sutlej peace with Ranjit Singh |
+| Sugauli | **1816** | Ends Anglo-Nepal War |
+| Yandabo | **1826** | Ends 1st Anglo-Burmese War |
+| Lahore | **1846** | Ends 1st Anglo-Sikh War |
+| Sinchula | **1865** | Ends Anglo-Bhutanese War |
+| Gandamak | **1879** | 2nd Anglo-Afghan War |
 
-### Battle year facts
+### Battle Year Facts (Highly Tested)
 
-| Battle | Year | War / theatre |
+| Battle | Year | War / Theatre |
 |--------|------|----------------|
-| **Shakarkheda** | **1724** | Nizam-ul-Mulk vs Mubariz Khan; Hyderabad Asaf Jahi hold |
-| Plassey | 1757 | Bengal |
-| **Bedara / Chinsurah** | **1759** | English vs Dutch in Bengal |
-| Buxar | 1764 | Bengal / Awadh / Mughal |
-| Porto Novo | 1781 | 2nd Mysore (Eyre Coote vs Hyder) |
-| Assaye | 1803 | 2nd Maratha |
-| Miani | 1843 | Sindh |
-| Mudki | 1845 | 1st Sikh |
-| Gujrat | 1849 | 2nd Sikh |
+| **Shakarkheda** | **1724** | Nizam-ul-Mulk vs Mubariz Khan (Hyderabad born) |
+| Ambur | 1749 | 2nd Carnatic War opening |
+| Plassey | 1757 | Bengal (Siraj-ud-Daulah vs Clive) |
+| **Bedara / Chinsurah** | **1759** | English vs Dutch |
+| **Wandiwash** | **1760** | English vs French |
+| Panipat (Third) | 1761 | Maratha vs Abdali |
+| Buxar | 1764 | Bengal/Awadh/Mughal vs Munro |
+| Porto Novo | 1781 | 2nd Mysore (Eyre Coote vs Hyder Ali) |
+| Assaye | 1803 | 2nd Maratha (Arthur Wellesley victor) |
+| Miani | 1843 | Sindh annexation (Charles Napier) |
+| Mudki | 1845 | 1st Sikh War |
+| Chillianwala / Gujrat| 1849 | 2nd Sikh War (Gough) |
 
-**UPPCS 2022 chronology stem (I Mudki, II Porto Novo, III Shakarkheda, IV Bedara):**
+**UPPCS Exact Sequences to Memorize:**
+1. **Subsidiary Alliance**: Hyderabad (1798) → Mysore (1799) → Tanjore (1799) → Awadh (1801) → Peshwa (1802).
+2. **Doctrine of Lapse**: Satara (1848) → Jaitpur/Sambalpur (1849) → Baghat (1850) → Udaipur (1852) → Jhansi (1853) → Nagpur (1854).
+3. **1st Maratha Treaties**: Surat (1775) → Purandhar (1776) → Wadgaon (1779) → Salbai (1782).
+4. **Mid-18th Century Battles**: Ambur (1749) → Plassey (1757) → Bedara (1759) → Wandiwash (1760) → Panipat III (1761) → Buxar (1764).
 
-| Order | Battle | Year |
-|------:|--------|------|
-| 1 | Shakarkheda | **1724** |
-| 2 | Bedara | **1759** |
-| 3 | Porto Novo | **1781** |
-| 4 | Mudki | **1845** |
-
-Code = **III, IV, II, I**.
-
-### Governor-General ↔ expansion tag
+### Governor-General ↔ Expansion Tag
 
 | GG | Tag |
 |----|-----|
-| Clive | Plassey; Allahabad; Dual Government |
-| Warren Hastings | Dual Govt ends; Ring Fence; Salbai; Banaras; Rohilla War |
-| Wellesley | Subsidiary Alliance; 4th Mysore; 2nd Maratha; recalled 1805 |
-| Lord Hastings | Nepal; Pindaris; 3rd Maratha |
-| Amherst | 1st Burma / Yandabo |
-| Auckland | 1st Afghan War 1839–42 |
-| Ellenborough | Sindh 1843 |
-| Hardinge | 1st Sikh War |
-| Dalhousie | Lapse; Punjab 1849; Awadh 1856; 2nd Burma |
+| Clive | Plassey; Treaty of Allahabad; Dual Government creation |
+| Warren Hastings | Ended Dual Govt; Ring Fence; Salbai; Banaras Rebellion; Rohillas |
+| Wellesley | Subsidiary Alliance; 4th Mysore; 2nd Maratha; Recalled 1805 |
+| Lord Hastings | Anglo-Nepal War; Suppressed Pindaris; 3rd Maratha War |
+| Amherst | 1st Anglo-Burmese War / Yandabo |
+| Auckland | 1st Anglo-Afghan War |
+| Ellenborough | Sindh Annexation (1843) |
+| Hardinge I | 1st Anglo-Sikh War |
+| Dalhousie | Lapse; Punjab (1849); Awadh (1856, Misrule); 2nd Burmese War |
 | Lawrence | Masterly Inactivity (Afghan caution) |
-| Lytton | Proud Reserve / Forward Policy; 2nd Afghan context |
+| Lytton | Proud Reserve / Forward Policy (Afghan aggression) |
 
 **PYQ — UPPCS Prelims 2019, Q93**
 

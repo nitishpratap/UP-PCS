@@ -15,7 +15,7 @@ Parts of Constitution | Important Parts (III, IV, IVA, IX, IXA, IXB, XV, XVIII, 
 
 ---
 
-## Consolidated — 32 Must-Score Facts
+## Consolidated — 40 Must-Score Facts
 
 1. The Constitution is organised into **Parts**. Originally there were **22 Parts**; today there are about **25 Parts** (including IVA, IXA, IXB, XIVA). **Part VII** stands **repealed**.
 2. **Part III** is **Fundamental Rights** (justiciable). **Part IV** is **DPSP** (non-justiciable). **Part IVA** is **Fundamental Duties**.
@@ -23,32 +23,40 @@ Parts of Constitution | Important Parts (III, IV, IVA, IX, IXA, IXB, XV, XVIII, 
 4. **Part XI** is **Relations between the Union and the States**. **Part XIVA** is **Tribunals**. Confusing XI with Municipalities or Tribunals is a classic wrong-match trap.
 5. **Part V** is the Union; **Part VI** is the States; **Part VIII** is Union Territories; **Part X** is Scheduled and Tribal Areas; **Part XV** is Elections; **Part XVII** is Official Language; **Part XVIII** is Emergency; **Part XX** is Amendment; **Part XXI** holds temporary, transitional and special provisions (**371–371J**).
 6. The **Attorney General** sits under **Part V**, not under **Part XIII** (Trade, Commerce and Intercourse). Citizenship sits in **Part II**, not Part I.
-7. Schedule facts: **First** = territories of States and UTs; **Second** = emoluments; **Third** = oaths and affirmations; **Fourth** = Rajya Sabha seat allocation.
-8. **Fifth Schedule** covers Scheduled Areas and Scheduled Tribes in many States. **Sixth Schedule** covers tribal areas of **Assam, Meghalaya, Tripura and Mizoram** with Autonomous Councils.
-9. **Seventh Schedule** holds the Union, State and Concurrent Lists under **Article 246**. **Eighth Schedule** lists **22** official languages.
-10. **Ninth Schedule** validates certain Acts (land-reform era protection, later limited by court review). **Tenth Schedule** is anti-defection.
+7. Schedule facts: **First** = territories of States and UTs; **Second** = emoluments (President, CJI, CAG, etc.); **Third** = oaths and affirmations (President's oath is NOT here, it is in Art. 60); **Fourth** = Rajya Sabha seat allocation.
+8. **Fifth Schedule** covers Scheduled Areas and Scheduled Tribes in many States. **Sixth Schedule** covers tribal areas of **Assam, Meghalaya, Tripura and Mizoram (AMTM)** with Autonomous Councils. (Manipur is NOT in 6th Schedule).
+9. **Seventh Schedule** holds the Union, State and Concurrent Lists (**Article 246**). **Eighth Schedule** lists **22** official languages.
+10. **Ninth Schedule** validates certain Acts (added by **1st Amendment, 1951**). **Tenth Schedule** is anti-defection (added by **52nd Amendment, 1985**).
 11. **Eleventh Schedule** lists **29** Panchayat subjects (**73rd**). **Twelfth Schedule** lists **18** Municipality subjects (**74th**). Do not swap 29 and 18.
-12. In the Eighth Schedule, languages such as **Nepali, Dogri and Bodo** are **in**. **Bhojpuri** is **out** of the Schedule.
-13. **Article 1** declares India a **Union of States**. **Article 3** lets Parliament form or alter States (name, area, boundaries). **Article 12** defines **State** for Fundamental Rights. **Article 13** voids inconsistent laws.
+12. In the Eighth Schedule, 14 original languages. **Sindhi** (21st Amd), **Konkani, Manipuri, Nepali** (71st Amd), and **Bodo, Dogri, Maithili, Santhali** (92nd Amd) were added later. **Bhojpuri and English** are **out**.
+13. **Article 1** declares India a **Union of States**. **Article 3** lets Parliament form or alter States. **Article 12** defines **State** for Fundamental Rights. **Article 13** voids inconsistent laws.
 14. Equality cluster: **Articles 14–18**. Freedom cluster: **Article 19**’s **six** freedoms. Life and personal liberty: **Article 21**. Free and compulsory education ages **6–14**: **Article 21A**.
 15. **Article 32** is the Supreme Court remedy for Fundamental Rights. **Article 226** is the High Court’s wider writ power. **Article 51A** holds Fundamental Duties.
 16. Pardon facts: **Article 72** (President) and **Article 161** (Governor). Ordinance facts: **Article 123** (President) and **Article 213** (Governor).
-17. Union executive articles: **74** (aid and advice), **75** (Council of Ministers), **76** (Attorney General). **Article 110** defines a Money Bill. **Article 148** is the CAG.
-18. **Article 263** is the Inter-State Council. **Article 280** is the Finance Commission. **Article 300A** is the legal right to property. **Article 312** enables All-India Services. **Article 324** is the Election Commission.
-19. Emergency articles: **352** (national), **356** (State / President’s Rule), **360** (financial). **Article 368** is amendment of the Constitution.
-20. Special-State articles run **371–371J** in Part XXI. **Article 393** is the short title.
-21. Part III article span is roughly **12–35**. Part IV is **36–51**. Duties sit at **51A** (added by the **42nd Amendment**; eleventh duty by the **86th**).
-22. Panchayats (**Part IX**, Arts. **243–243O**) came with the **73rd Amendment**. Municipalities (**Part IXA**) came with the **74th**. Cooperatives (**Part IXB**) came with the **97th Amendment, 2011**.
-23. Elections (**Part XV**, Arts. **324–329**) include adult suffrage under **Article 326** and a bar on court interference under **Article 329**.
-24. **Article 32** writs are for **Fundamental Rights only**. **Article 226** writs can protect Fundamental Rights **and** other legal rights — that is why 226 is called wider.
-25. President’s pardon (**72**) and Governor’s pardon (**161**) must not be swapped on death sentence and court-martial (those stay with the President).
-26. National Emergency is **352**; State Emergency / President’s Rule is **356**; Financial Emergency is **360**. Do not mix the three codes.
-27. Fourth Schedule is **Rajya Sabha seats**, not validation of Acts. Ninth Schedule is **validation of Acts**, not RS seats.
-28. Part match trap set: Municipalities ≠ Part XI; Tribunals ≠ Part XI; Attorney General ≠ Part XIII; Citizenship = Part II.
-29. **Vice-President** cluster: Arts. **63–69** (office, RS Chair, acting President, election, term/removal, vacancy, oath). VP is elected by **Parliament only** (Art. **66**). President’s college includes **State MLAs** (Art. **54**).
-30. **High Court** cluster: Art. **214** (HC for each State), **215** (court of record), **217** (appointment; age **62**), **226** (writs — wider than 32), **227** (superintendence), **231** (common HC). Do not swap **226** with **227**.
-31. **Article 21** is one sentence in the text, but courts have read into it dignity, livelihood, privacy, health, environment and related rights (*Maneka* → *Puttaswamy* map). **Article 21A** is the separate RTE for ages **6–14**.
-32. **Article 51A** lists **11** Fundamental Duties (**a–k**). Ten came with the **42nd**; **51A(k)** came with the **86th**. Advocate-General of a State is Art. **165** (parallel to Union AG under Art. **76**).
+17. Union executive articles: **74** (aid and advice), **75** (Council of Ministers), **76** (Attorney General). **Article 110** defines a Money Bill. **Article 112** is the Annual Financial Statement (Budget). **Article 148** is the CAG.
+18. **Article 249** lets Rajya Sabha empower Parliament to legislate on a State List subject.
+19. **Article 263** is the Inter-State Council. **Article 280** is the Finance Commission. **Article 300A** is the legal right to property (44th Amendment). **Article 312** enables All-India Services. **Article 315** is UPSC / SPSC. **Article 324** is the Election Commission.
+20. Commission Articles: **338** (NCSC), **338A** (NCST - 89th Amd), **338B** (NCBC - 102nd Amd), **340** (Backward Classes Commission).
+21. Emergency articles: **352** (national), **356** (State / President’s Rule), **360** (financial). **Article 368** is amendment of the Constitution (Part XX).
+22. Special-State articles run **371–371J** in Part XXI (e.g. 371A Nagaland, 371G Mizoram, 371J Kalyana Karnataka). **Article 393** is the short title.
+23. Part III article span is **12–35**. Part IV is **36–51**. Duties sit at **51A** (added by the **42nd Amendment**; eleventh duty by the **86th Amendment, 2002**).
+24. Panchayats (**Part IX**, Arts. **243–243O**) came with the **73rd Amendment, 1992**. Municipalities (**Part IXA**) came with the **74th Amendment, 1992**. Cooperatives (**Part IXB**) came with the **97th Amendment, 2011**.
+25. Elections (**Part XV**, Arts. **324–329**) include adult suffrage under **Article 326** (voting age reduced from 21 to 18 by **61st Amendment, 1988**) and a bar on court interference under **Article 329**.
+26. **Article 32** writs are for **Fundamental Rights only**. **Article 226** writs can protect Fundamental Rights **and** other legal rights — that is why 226 is called wider.
+27. President’s pardon (**72**) and Governor’s pardon (**161**) must not be swapped on death sentence and court-martial (those stay with the President).
+28. National Emergency is **352**; State Emergency / President’s Rule is **356**; Financial Emergency is **360**. Do not mix the three codes.
+29. Fourth Schedule is **Rajya Sabha seats**, not validation of Acts. Ninth Schedule is **validation of Acts**, not RS seats.
+30. Part match trap set: Municipalities ≠ Part XI; Tribunals ≠ Part XI; Attorney General ≠ Part XIII; Citizenship = Part II.
+31. **Vice-President** cluster: Arts. **63–69** (office, RS Chair, acting President, election, term/removal, vacancy, oath). VP is elected by **Parliament only** (Art. **66**). President’s college includes **State MLAs** (Art. **54**).
+32. **High Court** cluster: Art. **214** (HC for each State), **215** (court of record), **217** (appointment; age **62**), **226** (writs — wider than 32), **227** (superintendence), **231** (common HC). Do not swap **226** with **227**.
+33. **Article 21** is one sentence in the text, but courts have read into it dignity, livelihood, privacy (*Puttaswamy*), and related rights. **Article 21A** is the separate RTE for ages **6–14**.
+34. **Article 51A** lists **11** Fundamental Duties (**a–k**). Ten came with the **42nd**; **51A(k)** came with the **86th**. Advocate-General of a State is Art. **165** (parallel to Union AG under Art. **76**).
+35. The **Anti-Defection** law (Tenth Schedule) triggers disqualification for defection, decided by the Presiding Officer of the House (originally subject to no judicial review, later struck down in *Kihoto Hollohan*).
+36. **7th Schedule** lists: Union (e.g., Defence, Foreign Affairs, Census), State (e.g., Police, Public Health, Agriculture), Concurrent (e.g., Education, Forests, Marriage — shifted by 42nd Amd).
+37. **DPSP specific traps**: Art 39A (Free Legal Aid), Art 40 (Village Panchayats), Art 44 (UCC), Art 50 (Separation of Judiciary & Executive).
+38. **Financial specific traps**: Art 266 (Consolidated Fund & Public Account) vs Art 267 (Contingency Fund).
+39. **Panchayat specific traps**: Art 243D (Reservation of seats) and Art 243I (State Finance Commission).
+40. **Art 371 series shortcuts**: 371 (MH & GJ), 371A (Nagaland), 371B (Assam), 371C (Manipur), 371D/E (AP & Telangana), 371F (Sikkim), 371G (Mizoram), 371H (Arunachal), 371I (Goa), 371J (Karnataka). MNEMONIC: **N**o **A**griculture **M**akes **A**ndhra **S**ikkim **M**ore **A**rdent **G**o **K**arnataka (NAMASMAGK).
 
 ---
 
@@ -62,6 +70,7 @@ Parts of Constitution | Important Parts (III, IV, IVA, IX, IXA, IXB, XV, XVIII, 
 | Part XI | Part XIVA | Centre–State relations vs Tribunals | — |
 | 4th Schedule | 9th Schedule | RS seats vs validation of Acts | — |
 | 5th Schedule | 6th Schedule | Scheduled Areas (many States) vs AMTM Autonomous Councils | — |
+| 7th Schedule | 8th Schedule | Three Lists (Union, State, Concurrent) vs 22 Languages | — |
 | 11th Schedule | 12th Schedule | 29 Panchayat subjects vs 18 Municipality subjects | — |
 | Art. 32 | Art. 226 | SC writs (FR) vs HC writs (wider — any purpose) | — |
 | Art. 226 | Art. 227 | HC writs vs HC **superintendence** over subordinate courts | — |
@@ -69,10 +78,13 @@ Parts of Constitution | Important Parts (III, IV, IVA, IX, IXA, IXB, XV, XVIII, 
 | Art. 61 | Art. 67 | President **impeachment** vs VP removal by RS resolution + LS agreement | — |
 | Art. 72 | Art. 161 | President’s pardon vs Governor’s pardon | — |
 | Art. 76 | Art. 165 | Attorney-General of India vs Advocate-General of a State | — |
+| Art. 110 | Art. 112 | Money Bill vs Annual Financial Statement (Budget) | — |
 | Art. 123 | Art. 213 | President’s Ordinance vs Governor’s Ordinance | — |
 | Art. 124 age | Art. 217 age | SC Judge **65** vs HC Judge **62** | — |
+| Art. 266 | Art. 267 | Consolidated Fund vs Contingency Fund | — |
 | Art. 21 | Art. 21A | Life/liberty (wide, all persons) vs RTE **6–14** only | — |
 | Art. 29 | Art. 30 | Any **section** (culture) vs **minorities**’ institutions | — |
+| Art. 338 | Art. 338A | National Commission for SCs vs National Commission for STs | — |
 | Art. 352 | Art. 356 / 360 | National vs State vs Financial Emergency | — |
 | Art. 371I | Art. 371J | **Goa** (min. 30 MLAs) vs **Karnataka** (Kalyana-Karnataka) | — |
 
@@ -87,15 +99,16 @@ Parts of Constitution | Important Parts (III, IV, IVA, IX, IXA, IXB, XV, XVIII, 
 | II | Citizenship |
 | III | Fundamental Rights |
 | IV | DPSP |
-| IVA | Fundamental Duties |
+| IVA | Fundamental Duties (42nd Amd) |
 | V / VI / VIII | Union / States / UTs |
 | IX / IXA / IXB | Panchayats / Municipalities / Cooperatives |
 | XI | Centre–State relations |
-| XIVA | Tribunals |
+| XIV | Services under Union and States (UPSC) |
+| XIVA | Tribunals (42nd Amd) |
 | XV | Elections |
 | XVII | Official Language |
 | XVIII | Emergency |
-| XX | Amendment |
+| XX | Amendment (Art. 368) |
 | XXI | Temporary / special (**371–371J**) |
 
 ### Schedule ↔ subject
@@ -103,32 +116,37 @@ Parts of Constitution | Important Parts (III, IV, IVA, IX, IXA, IXB, XV, XVIII, 
 | Schedule | Lock |
 |----------|------|
 | 1st | Territories of States / UTs |
-| 2nd | Emoluments |
-| 3rd | Oaths |
+| 2nd | Emoluments / Salaries (President, CJI, CAG, etc.) |
+| 3rd | Oaths (President's oath is NOT here) |
 | 4th | Rajya Sabha seats |
 | 5th | Scheduled Areas / STs (many States) |
-| 6th | Assam, Meghalaya, Tripura, Mizoram Autonomous Councils |
+| 6th | **AMTM**: Assam, Meghalaya, Tripura, Mizoram Autonomous Councils |
 | 7th | Union / State / Concurrent Lists |
-| 8th | **22** languages (Bhojpuri **out**) |
-| 9th | Validation of Acts |
-| 10th | Anti-defection |
-| 11th | **29** Panchayat subjects (73rd) |
-| 12th | **18** Municipality subjects (74th) |
+| 8th | **22** languages (**Sindhi, Konkani, Manipuri, Nepali, Bodo, Dogri, Maithili, Santhali** added later. Bhojpuri/English **out**) |
+| 9th | Validation of Acts (1st Amd, 1951) |
+| 10th | Anti-defection (52nd Amd, 1985) |
+| 11th | **29** Panchayat subjects (73rd Amd) |
+| 12th | **18** Municipality subjects (74th Amd) |
 
 ### High-yield Articles
 
 | Article | Lock |
 |---------|------|
 | 1 / 3 | Union of States / form–alter States |
+| 14-18 / 19 / 21 | Right to Equality / Freedom / Life & Liberty |
 | 32 / 226 | SC FR remedy / HC wider writs |
+| 40 / 44 | Village Panchayats / Uniform Civil Code |
 | 72 / 161 | President / Governor pardon |
-| 110 | Money Bill |
+| 110 / 112 | Money Bill / Annual Financial Statement (Budget) |
 | 123 / 213 | President / Governor ordinance |
 | 148 | CAG |
+| 249 | RS power to legislate on State List subject |
 | 263 / 280 / 324 | ISC / Finance Commission / Election Commission |
 | 300A | Legal right to property |
+| 312 / 315 | All-India Services / UPSC |
+| 338 / 338A / 338B | NCSC / NCST / NCBC |
 | 352 / 356 / 360 | National / State / Financial Emergency |
-| 368 | Amendment |
+| 368 | Amendment procedure |
 
 ---
 
