@@ -59,6 +59,38 @@ Buddhism | Buddha | Buddhist Philosophy | Buddhist Councils | Buddhist Texts | T
 40. *Light of Asia* is by **Edwin Arnold**, drawn from the *Lalitavistara*.
 41. **Nayaputta** is Mahavira, not Buddha.
 
+```
+               The Four Buddhist Councils Chronology
+                                  │
+    1st Council (483 BCE): Rajgriha (Sattapanni Cave)
+    • Patron: Ajatashatru (Haryanka Dynasty) | President: Mahakassapa
+    • Outcome: Compilation of Sutta Pitaka (Ananda) & Vinaya Pitaka (Upali)
+                                  │
+    2nd Council (383 BCE): Vaishali (Balukarama Monastery)
+    • Patron: Kalashoka / Kakavarna (Shishunaga Dynasty) | President: Sabakami
+    • Outcome: First schism into Sthaviravadins (Theravada) & Mahasanghikas
+                                  │
+    3rd Council (250 BCE): Pataliputra (Asokarama Monastery)
+    • Patron: Emperor Ashoka (Mauryan Empire) | President: Moggaliputta Tissa
+    • Outcome: Compilation of Abhidhamma Pitaka (Kathavatthu); Missionaries dispatched
+                                  │
+    4th Council (72 CE): Kundalvana (Kashmir)
+    • Patron: Kanishka (Kushana Empire) | President: Vasumitra (VP: Ashvaghosha)
+    • Outcome: Final division into Hinayana & Mahayana; Mahavibhasha Shastra
+```
+
+```
+                   The Two Jain Councils Chronology
+                                  │
+    1st Council (c. 300 BCE): Pataliputra
+    • Patron: Chandragupta Maurya era | President: Sthulabhadra
+    • Outcome: Compilation of 12 Angas; Initial schism into Svetambara & Digambara
+                                  │
+    2nd Council (512 CE): Vallabhi (Gujarat)
+    • Patron: Maitraka Kings | President: Devardhi Kshamasramana
+    • Outcome: Final writing of Jain Agamas (12 Angas & 12 Upangas in Ardhamagadhi)
+```
+
 ---
 
 ## Confused Pairs

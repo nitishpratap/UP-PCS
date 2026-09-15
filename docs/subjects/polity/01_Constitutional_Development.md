@@ -55,6 +55,36 @@
 27. Six provinces became bicameral under the 1935 scheme: **Bengal, Bombay, Madras, Bihar, Assam, and the United Provinces**.
 28. Constitution Day is remembered on **26 November** as the adoption anniversary, not as the enforcement date.
 
+```
+               Constitutional Development Acts Chronology (1773–1947)
+                                        │
+           1773: Regulating Act (GG of Bengal: Warren Hastings; SC at Calcutta 1774)
+                                        │
+           1784: Pitt's India Act (Dual Government: Board of Control & Court of Directors)
+                                        │
+           1793: Charter Act (Company monopoly extended 20 yrs; Home charges from India)
+                                        │
+           1813: Charter Act (Trade monopoly ended except Tea & China; 1 Lakh for education)
+                                        │
+           1833: Charter Act (GG of India: William Bentinck; trade ended; Law Member Macaulay)
+                                        │
+           1853: Charter Act (Separated Executive & Legislature; Open competition for ICS)
+                                        │
+           1858: Government of India Act (Crown Rule; Secretary of State & Council; Viceroy Canning)
+                                        │
+           1861: Indian Councils Act (Portfolio system; Ordinance power; Decentralization restored)
+                                        │
+           1892: Indian Councils Act (Indirect elections; Budget discussion without voting)
+                                        │
+           1909: Morley-Minto Reforms (Separate electorates for Muslims; S.P. Sinha in Council)
+                                        │
+           1919: Montagu-Chelmsford Reforms (Dyarchy in Provinces; Bicameral Centre; Central PSC 1926)
+                                        │
+           1935: Government of India Act (Provincial Autonomy; Federal Court 1937; Federation proposed)
+                                        │
+           1947: Indian Independence Act (Assent 18 July; Partition into India & Pakistan Dominions)
+```
+
 ---
 
 ## Confused Pairs

@@ -48,6 +48,41 @@ Union and its Territory | Formation of States | State Reorganisation | States Re
 29. **Fundamental Rights (Citizens Only)**: Articles **15, 16, 19, 29, 30**. Non-citizens also get Arts. 14, 20, 21, 22, 25-28.
 30. **Minority / Treaties Trivia**: French enclaves (Puducherry de jure 1962), Portuguese enclaves (Goa/Daman/Diu liberated in 1961 via *Operation Vijay*).
 
+```
+                  States Reorganisation Chronological Ladder
+                                      │
+         1953: Andhra State (1st linguistic state; Potti Sriramulu; Kurnool capital)
+                                      │
+         1956: States Reorganisation Act (7th Amendment; 14 States & 6 UTs)
+               Kerala & Karnataka (Mysore) created
+                                      │
+         1960: Bombay Reorganisation (15th state: Gujarat; Maharashtra)
+                                      │
+         1961: Liberation of Goa, Daman & Diu (Operation Vijay; 12th Amendment)
+                                      │
+         1963: 16th state: Nagaland (carved out of Assam; Naga Hills)
+                                      │
+         1966: Punjab Reorganisation (17th state: Haryana; UT: Chandigarh; Shah Commission)
+                                      │
+         1971: 18th state: Himachal Pradesh (elevated from UT status)
+                                      │
+         1972: North-Eastern Reorganisation (19th: Manipur, 20th: Tripura, 21st: Meghalaya)
+                                      │
+         1975: 22nd state: Sikkim (35th Amd 1974 Associate ➔ 36th Amd 1975 Full state)
+                                      │
+         1987: 23rd: Mizoram, 24th: Arunachal Pradesh, 25th: Goa (56th Amd)
+                                      │
+         2000: Millennial States Carve-out:
+               • 1 Nov 2000: 26th state — Chhattisgarh (from MP)
+               • 9 Nov 2000: 27th state — Uttarakhand / Uttaranchal (from UP)
+               • 15 Nov 2000: 28th state — Jharkhand (from Bihar)
+                                      │
+         2014: 2 June 2014: 29th state — Telangana (from Andhra Pradesh; Srikrishna Committee)
+                                      │
+         2019: 31 Oct 2019: J&K Reorganisation (J&K and Ladakh bifurcated into 2 UTs)
+               Total now: 28 States & 8 UTs (Dadra & Nagar Haveli + Daman & Diu merged 2020)
+```
+
 ---
 
 ## Confused Pairs

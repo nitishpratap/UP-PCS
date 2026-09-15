@@ -49,6 +49,54 @@ Development of Education | Orientalist–Anglicist Controversy | Serampore Missi
 30. Press openers: **Portuguese press Goa 1556**; **Hicky 1780**; **Tilak** first jailed Indian journalist tag; **Amrita Bazar Patrika** flipped to English overnight (**1878**) to dodge Vernacular Press Act.
 31. Paper↔person extras: **Ghadar** first issue **Urdu (1 Nov 1913)**; **Free Hindustan** = **Tarak Nath Das**; **Al-Hilal** = Azad; **Bahishkrit Bharat** = Ambedkar; **Qaumi Awaz** = Nehru + Kidwai; **Pioneer** = George Allen (Allahabad).
 
+```
+               British Education Commissions Timeline (1813–1944)
+                                        │
+           1813: Charter Act (₹1 Lakh annual allocation for education)
+                                        │
+           1835: Macaulay's Minute ("Downward Filtration Theory"; English medium)
+                                        │
+           1854: Wood's Despatch ("Magna Carta of English Education in India")
+                                        │
+           1857: Universities of Calcutta, Bombay & Madras Established
+                                        │
+           1882: Hunter Education Commission (Lord Ripon; Primary & Secondary focus)
+                                        │
+           1902: Raleigh Commission (Lord Curzon ➔ Indian Universities Act 1904)
+                                        │
+           1913: Government Resolution on Education (Provincial university expansion)
+                                        │
+           1917: Sadler Commission (Calcutta University; 12-year school + 3-year degree)
+                                        │
+           1929: Hartog Committee (Checked quantitative expansion; warned of "Wastage")
+                                        │
+           1937: Wardha Scheme of Basic Education (Mahatma Gandhi / Dr. Zakir Hussain)
+                                        │
+           1944: Sargent Plan of Education (Post-War Plan; Free schooling for 6–14 years)
+```
+
+```
+                 Press Regulation & Censorship Laws (1799–1931)
+                                        │
+           1799: Censorship of Press Act (Lord Wellesley - wartime pre-censorship)
+                                        │
+           1823: Licensing Regulations (John Adams - suppressed Mirat-ul-Akhbar)
+                                        │
+           1835: Metcalfe Press Act (Charles Metcalfe - "Liberator of Indian Press")
+                                        │
+           1857: Licensing Act (Lord Canning - Revolt wartime emergency curb)
+                                        │
+           1867: Press & Registration of Books Act (Mandatory printer/publisher record)
+                                        │
+           1878: Vernacular Press Act (Lord Lytton - "Gagging Act"; repealed 1882 Ripon)
+                                        │
+           1908: Newspaper (Incitement to Offences) Act (Lord Minto - anti-Swadeshi)
+                                        │
+           1910: Indian Press Act (Stringent security deposits & forfeiture)
+                                        │
+           1931: Indian Press (Emergency Powers) Act (Civil Disobedience suppression)
+```
+
 ---
 
 ## Confused Pairs

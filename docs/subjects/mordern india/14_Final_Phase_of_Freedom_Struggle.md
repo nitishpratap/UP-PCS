@@ -48,6 +48,44 @@ Congress Socialist Party | Subhash Chandra Bose | Forward Bloc | Quit India Move
 29. Bose’s INA and the Red Fort trials turned military defeat into a political storm that pressed the endgame of **1945–47**.
 30. Hold the endgame arc: Cripps fail → Quit India → INA/RIN pressure → Cabinet Mission → Direct Action → Mountbatten Plan → Independence Act.
 
+```
+               Final Phase of Freedom Struggle Chronology (1940–1947)
+                                        │
+           August 1940: August Offer (Lord Linlithgow)
+                                        │
+           October 1940: Individual Satyagraha (Vinoba Bhave 1st, Nehru 2nd)
+                                        │
+           March 1942: Cripps Mission ("Post-dated cheque on a crashing bank")
+                                        │
+           8 August 1942: Quit India Movement ("Do or Die" at Gowalia Tank)
+                                        │
+           21 October 1943: Provisional Government of Free India (Singapore - Netaji)
+                                        │
+           March 1944: C. R. Formula (Rajagopalachari's plebiscite formula)
+                                        │
+           January 1945: Desai–Liaquat Pact (50:50 parity proposal)
+                                        │
+           June–July 1945: Wavell Plan & Simla Conference (Breakdown on League veto)
+                                        │
+           November 1945: INA Trials at Red Fort (Sahgal, Dhillon, Shah Nawaz)
+                                        │
+           18 February 1946: Royal Indian Navy (RIN) Mutiny (HMIS Talwar, Bombay)
+                                        │
+           March–May 1946: Cabinet Mission (Pethick-Lawrence, Cripps, Alexander)
+                                        │
+           16 August 1946: Direct Action Day (Muslim League - Great Calcutta Killings)
+                                        │
+           2 September 1946: Interim Government Formed (Jawaharlal Nehru PM)
+                                        │
+           20 February 1947: Clement Attlee's Statement (Transfer deadline: June 1948)
+                                        │
+           3 June 1947: Mountbatten Plan (Partition & advanced transfer to 1947)
+                                        │
+           18 July 1947: Indian Independence Act 1947 (Royal Assent in UK Parliament)
+                                        │
+           15 August 1947: Dawn of Independence (India & Pakistan Dominions)
+```
+
 ---
 
 ## Confused Pairs

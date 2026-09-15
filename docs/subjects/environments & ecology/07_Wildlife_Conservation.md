@@ -60,6 +60,36 @@ Wildlife Conservation | Wildlife Protection | Project Tiger | Project Elephant |
 35. Conservation is ecological protection; **Wildlife Protection** language often means the **WPA enforcement** track.
 36. NTCA does not run Elephant Reserves; confusing NTCA with Project Elephant administration is a trap.
 
+```text
+           India's Wildlife Conservation Projects Chronology
+                                        │
+           1972: Wildlife (Protection) Act, 1972 (Six Schedules; Schedule I = Apex)
+                                        │
+           1973: Project Tiger (Corbett NP; launched 1 April 1973 by Indira Gandhi)
+                                        │
+           1975: Crocodile Conservation Project (UNDP / FAO; Gharial in Chambal)
+                                        │
+           1986: Environment (Protection) Act, 1986 (Post-Bhopal Gas Tragedy)
+                                        │
+           1987: Project Rhino / Rhino Vision (One-horned Rhino in Kaziranga & Dudhwa)
+                                        │
+           1992: Project Elephant (Launched at Singhbhum, Jharkhand; non-statutory)
+                                        │
+           2002: Biological Diversity Act, 2002 (National Biodiversity Authority, Chennai)
+                                        │
+           2005–06: NTCA Established (Statutory status to Tiger Conservation under WPA)
+                                        │
+           2006: National Vulture Conservation Plan & Veterinary Diclofenac Ban
+                                        │
+           2009: Project Snow Leopard (High-altitude Himalaya & Central Asia)
+                                        │
+           2010: National Green Tribunal Act, 2010 (Article 21 environmental justice)
+                                        │
+           2020: Project Lion & Project Dolphin Announced (74th Independence Day)
+                                        │
+           2022: Project Cheetah (Kuno National Park, MP - African Cheetah reintroduction)
+```
+
 ---
 
 ## Confused Pairs

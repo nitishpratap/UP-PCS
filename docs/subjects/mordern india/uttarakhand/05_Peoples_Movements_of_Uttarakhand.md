@@ -95,6 +95,33 @@ Following the 1994 reservation circular by the UP government under Mulayam Singh
 | **Night of 1–2 Oct 1994**| **Rampur Tiraha Massacre (Muzaffarnagar)**| Thousands of Uttarakhand activists traveling in buses to attend a mega rally at Red Fort, Delhi, were intercepted at Rampur Tiraha by UP Police and PAC. Unarmed men were shot; women were molested and raped in sugarcane fields. **7 martyrs:** Ravindra Rawat, Rajesh Lakhera, Surya Prakash Thapliyal, Satyendra Chauhan, Girish Bhadri, Ashok Kumar Kashyap, Rajesh Negi. Condemned internationally. |
 | **10 November 1995** | **Sri Yantra Tapu Incident (Srinagar)** | Statehood protesters fasting on Sri Yantra Tapu island in the Alaknanda river were attacked by police; **Yashodhar Benjwal** and **Rajesh Rawat** drowned/killed. |
 
+```
+             Uttarakhand Statehood Movement Chronology (1994–2000)
+                                      │
+         January 1994: Kaushik Committee Formed (Ramashankar Kaushik)
+                       Recommended 8 hill districts & Gairsain as capital (May 1994)
+                                      │
+         1 September 1994: Khatima Firing ("Black Day" - 7 martyrs)
+                                      │
+         2 September 1994: Mussoorie Firing (Jhula Ghar - DSP Uma Kant Tripathi & 6 martyrs)
+                                      │
+         1–2 October 1994: Rampur Tiraha Incident (Muzaffarnagar police assault on Delhi rally)
+                                      │
+         10 November 1995: Sri Yantra Tapu Incident (Srinagar - Rajesh Rawat & Yashodhar Benjwal)
+                                      │
+         15 August 1996: PM H. D. Deve Gowda announces statehood from Red Fort ramparts
+                                      │
+         1 August 2000: UP Reorganisation Bill passed by Lok Sabha
+                                      │
+         10 August 2000: UP Reorganisation Bill passed by Rajya Sabha
+                                      │
+         28 August 2000: President K. R. Narayanan gives Presidential Assent
+                                      │
+         9 November 2000: Uttaranchal officially inaugurated as 27th State of India
+                                      │
+         1 January 2007: Officially renamed from Uttaranchal to "Uttarakhand"
+```
+
 ---
 
 ## Roadmap to Statehood: Committees & Legislation

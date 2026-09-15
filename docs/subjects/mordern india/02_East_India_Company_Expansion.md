@@ -48,6 +48,62 @@ East India Company and Nawabs of Bengal | Nawabs of Bengal | Battle of Plassey |
 29. **Asiatic Society of Bengal (1784)**: Founded by Sir William Jones. Warren Hastings championed it but declined Presidentship.
 30. **Governor-General of Bengal vs India**: Regulating Act 1773 made Warren Hastings the first Gov-General of *Bengal*. Charter Act 1833 made William Bentinck the first Gov-General of *India*.
 
+```
+                 The Four Anglo-Mysore Wars & Treaties
+                                   │
+      1st Anglo-Mysore War (1767–1769): Governor Verelst
+      • Haidar Ali defeats English ➔ Treaty of Madras (1769) (Defensive alliance)
+                                   │
+      2nd Anglo-Mysore War (1780–1784): Governor-General Warren Hastings
+      • Battle of Porto Novo (1781 - Eyre Coote defeats Haidar Ali; Haidar dies 1782)
+      • Tipu Sultan continues fight ➔ Treaty of Mangalore (1784) (Mutual restitution)
+                                   │
+      3rd Anglo-Mysore War (1790–1792): Governor-General Lord Cornwallis
+      • Triple Alliance (English, Nizam, Marathas) attacks Seringapatam
+      • Treaty of Seringapatam (1792) (Tipu surrenders half kingdom + 3.3 Crore indemnity)
+                                   │
+      4th Anglo-Mysore War (1799): Governor-General Lord Wellesley
+      • Battle of Seringapatam (4 May 1799) ➔ Tipu Sultan dies in battle
+      • Wodeyar minor ruler installed under Subsidiary Alliance
+```
+
+```
+                The Three Anglo-Maratha Wars & Treaties
+                                   │
+      1st Anglo-Maratha War (1775–1782): Warren Hastings
+      • Treaty chain: Surat (1775) ➔ Purandhar (1776) ➔ Wadgaon (1779)
+      • Climax: Treaty of Salbai (1782) (20 years of peace; Mahadji Scindia mediator)
+                                   │
+      2nd Anglo-Maratha War (1803–1805): Lord Wellesley
+      • Treaty of Bassein (1802): Peshwa Baji Rao II accepts Subsidiary Alliance
+      • Battle of Assaye & Laswari ➔ Treaty of Deogaon (Bhonsle) & Surji-Anjangaon (Scindia)
+                                   │
+      3rd Anglo-Maratha War (1817–1818): Lord Hastings (Marquess of Hastings)
+      • Pindari campaign; Battles of Khadki, Sitabuldi, and Mahidpur
+      • Peshwaship abolished; Baji Rao II pensioned off to Bithoor (Kanpur)
+```
+
+```
+               Subsidiary Alliance vs Doctrine of Lapse Ladders
+                                   │
+      [Subsidiary Alliance (Lord Wellesley - 1798)]
+      • 1798: Hyderabad (First state to sign)
+      • 1799: Mysore (After 4th War) & Tanjore
+      • 1801: Awadh (Half territory surrendered)
+      • 1802: Peshwa (Treaty of Bassein)
+      • 1803: Bhonsle (Deogaon) & Scindia (Surji-Anjangaon)
+      • 1804: Holkar (Rajghat 1805)
+                                   │
+      [Doctrine of Lapse (Lord Dalhousie - 1848)]
+      • 1848: Satara (First state annexed under Lapse)
+      • 1849: Jaitpur (Bundelkhand) & Sambalpur (Odisha)
+      • 1850: Baghat (Himachal Pradesh)
+      • 1852: Udaipur (Rajasthan - later restored)
+      • 1853: Jhansi (Rani Lakshmibai's adopted son rejected)
+      • 1854: Nagpur (Bhonsle state)
+      *(Note: Awadh annexed in 1856 on MISGOVERNANCE, not Lapse)*
+```
+
 ---
 
 ## Confused Pairs

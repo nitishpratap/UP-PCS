@@ -48,6 +48,55 @@ Turkish Invasions of India | Arab Invasion of Sind (Muhammad bin Qasim) | Mahmud
 29. Turkish success rested on Rajput **disunity** after Pratihara decline — Chauhans, Gahadavalas, Chandelas (**Vidyadhar** alone held Mahmud in **1019–20**), and Paramaras fought separately.
 30. Ghaznavids **raided**; Ghurids **conquered and stayed** — that contrast is the first Turkish-invasion trap. **Firdausi ≠ Firishta** (Shahnama vs Bijapur chronicle).
 
+```
+           Delhi Sultanate Dynasties & Key Rulers (1206–1526)
+                                        │
+           1206–1290: Mamluk / Slave Dynasty (84 Years)
+                      • Qutb-ud-din Aibak (1206–1210 - Lahore, Lakh Baksh)
+                      • Iltutmish (1211–1236 - Real founder, Tanka & Jital, Turkan-i-Chahalgani)
+                      • Razia Sultan (1236–1240 - First & only woman Sultan)
+                      • Balban (1266–1287 - Blood & Iron, Sijda/Paibos, Diwan-i-Arz)
+                                        │
+           1290–1320: Khalji Dynasty (30 Years - Shortest Reign)
+                      • Jalal-ud-din Khalji (1290–1296 - Founder)
+                      • Alauddin Khalji (1296–1316 - Market control, Dagh/Chehra, 50% tax)
+                                        │
+           1320–1414: Tughlaq Dynasty (94 Years - Longest Reign)
+                      • Ghiyas-ud-din Tughlaq (1320–1325 - Built Tughlaqabad)
+                      • Muhammad bin Tughlaq (1325–1351 - Daulatabad transfer, Token currency)
+                      • Firoz Shah Tughlaq (1351–1388 - Canals, Jizya on Brahmins, Diwan-i-Khairat)
+                      • 1398: Invasion of Timur Lane (during Nasir-ud-din Mahmud Tughlaq)
+                                        │
+           1414–1451: Sayyid Dynasty (37 Years)
+                      • Khizr Khan (1414–1421 - Timur's nominee; Rayat-i-Ala)
+                      • Mubarak Shah (1421–1434 - Tarikh-i-Mubarak Shahi by Yahiya Sirhindi)
+                                        │
+           1451–1526: Lodi Dynasty (75 Years - First Afghan Dynasty)
+                      • Bahlul Lodi (1451–1489 - Founder, Bahluli coin)
+                      • Sikandar Lodi (1489–1517 - Founded Agra 1504, Gaz-i-Sikandari)
+                      • Ibrahim Lodi (1517–1526 - Defeated by Babur at 1st Panipat, 21 Apr 1526)
+```
+
+```
+           Alauddin Khalji's Conquest Chronology (North & South)
+                                        │
+           1299: Gujarat (Raja Karna Dev; Malik Kafur captured at Cambay)
+                                        │
+           1301: Ranthambor (Rana Hamir Dev; First recorded Jauhar in Persian chronicles)
+                                        │
+           1303: Chittor (Rana Ratan Singh; Rani Padmini's Jauhar; renamed Khizrabad)
+                                        │
+           1305: Malwa (Mahlaq Dev; annexed by Ain-ul-Mulk Multani)
+                                        │
+           1307–08: Devagiri (Yadava King Ramachandra Dev; conferred Rai Rayan title)
+                                        │
+           1309–10: Warangal (Kakatiya King Prataparudra II; Koh-i-Noor diamond surrendered)
+                                        │
+           1310–11: Dwarasamudra (Hoysala King Vira Ballala III)
+                                        │
+           1311: Madurai / Pandya Kingdom (Sundara & Vira Pandya; Malik Kafur plundered)
+```
+
 ---
 
 ## Confused Pairs
