@@ -52,19 +52,15 @@ In-situ Conservation | Ex-situ Conservation | Gene Bank | Seed Bank | Botanical 
 
 ## Confused Pairs
 
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **In-situ Conservation** | Biodiversity protected **in natural habitat** | स्थानिक संरक्षण |
-| **Ex-situ Conservation** | Biodiversity protected **outside natural habitat** | पारजी / स्थानिकेतर संरक्षण |
-| **Gene Bank** | Stores **genetic material** — seeds, DNA, tissue, sperm | जीन बैंक |
-| **Seed Bank** | Stores **seeds only** under controlled temperature | बीज बैंक |
-| **Botanical Garden** | **Living plant collection** for ex-situ conservation | वनस्पति उद्यान |
-| **Zoological Park** | **Captive animals** for ex-situ breeding and education | चिड़ियाघर |
-| **Orthodox Seeds** | Desiccation-tolerant — suitable for cold seed banks | अनुष्ठित बीज |
-| **Recalcitrant Seeds** | Cannot tolerate drying — not standard seed-bank material | कठिन बीज |
-| **Cryopreservation** | Storage at **-196°C** in liquid nitrogen | क्रायो-संरक्षण |
-| **CZA** | Statutory zoo regulator under **MoEFCC** | केंद्रीय चिड़ियाघर प्राधिकरण |
-
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
+| **In-situ Conservation** | **Ex-situ Conservation** | On-site conservation of wild populations within their natural ecosystems where evolutionary processes continue uninterrupted (National Parks, Wildlife Sanctuaries, Sacred Groves) vs off-site conservation of threatened components outside natural habitats in human custody (Botanical Gardens, Zoological Parks, Cryobanks) | स्व-स्थाने संरक्षण (प्राकृतिक आवास) / बाह्य-स्थाने संरक्षण (मानव-निर्मित व्यवस्था) |
+| **Botanical Garden** | **Herbarium** | Ex-situ facility maintaining curated collections of *living* plant species for scientific research, propagation, and conservation display vs reference repository of *dried, pressed, and mounted* plant specimens preserved on archival sheets for taxonomic identification | वनस्पति उद्यान (जीवित पादप संग्रह) / पादप संग्रहालय (हर्बेरियम, शुष्क नमूने) |
+| **Zoological Park (Zoo)** | **Safari / Wildlife Sanctuary** | Ex-situ facility where wild animals are maintained in artificial enclosures under human management for captive breeding and public education vs in-situ natural protected habitat where free-ranging wild animals live in untamed wild conditions | चिड़ियाघर (कृत्रिम बाड़ा) / वन्यजीव अभयारण्य / सफारी |
+| **Orthodox Seeds** | **Recalcitrant Seeds** | Desiccation-tolerant seeds that can survive dehydration to low moisture content (≤5%) and sub-zero freezing, ideal for conventional long-term seed banking (wheat, rice, legumes) vs desiccation-sensitive seeds that lose viability rapidly if dried or frozen, requiring cryopreservation (mango, rubber, jackfruit, tea) | सामान्य (रूढ़िवादी) बीज / कठिन (असहनीय) बीज |
+| **Cryopreservation** | **Seed Bank** | Ultra-low temperature preservation of living cells, gametes, embryos, and tissues suspended in liquid nitrogen at **-196°C** stopping all metabolic decay vs storage of dried orthodox seeds in vault freezers at standard temperatures of -18°C to -20°C | क्रायो-संरक्षण (-196°C द्रवित नाइट्रोजन) / बीज बैंक (-18°C शुष्क भंडारण) |
+| **Sacred Groves** | **Biosphere Reserves** | Community-protected virgin forest patches preserved through traditional spiritual beliefs and religious taboos (e.g. Deorais, Orans, Kavu, Law Kyntang) vs modern scientific statutory conservation landscape demarcated by government under UNESCO MAB | पवित्र उपवन (पारंपरिक संरक्षण) / जैवमंडल आरक्षित क्षेत्र (वैज्ञानिक प्रारूप) |
+| **National Bureau of Plant Genetic Resources (NBPGR)** | **National Bureau of Animal Genetic Resources (NBAGR)** | Premier ICAR institute managing the National Gene Bank for agricultural crop and wild relative germplasm (HQ: New Delhi) vs premier ICAR institute maintaining registrations and genetic databases of indigenous livestock breeds (HQ: Karnal, Haryana) | एनबीपीजीआर (नई दिल्ली, पादप जीन बैंक) / एनबीएजीआर (करनाल, पशु आनुवंशिकी) |
 ---
 
 ## Must-score facts — in-situ, ex-situ, gene banks
@@ -213,7 +209,6 @@ D. Sacred groves
 |------|---------|----------|
 | Orthodox | Conventional seed bank (-18°C) | Wheat, rice, chickpea |
 | Recalcitrant | Living collection or cryo | Mango, coconut, jackfruit |
-
 | Feature | Seed Bank | Gene Bank |
 |---------|-----------|-----------|
 | Material | Seeds primarily | Seeds + DNA + tissue + sperm + embryos |

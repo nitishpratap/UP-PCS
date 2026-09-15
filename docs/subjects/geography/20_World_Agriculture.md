@@ -474,7 +474,6 @@ D. Spanish and Americans
 | **Oolong** | Semi-fermented | Taiwan / SE China |
 | **CTC** | Crush–tear–curl (granular, tea-bag) | Indian plains/Assam bulk |
 | **Orthodox** | Whole-leaf | Darjeeling, Ceylon high-grown |
-
 | Region | Fact |
 |--------|------|
 | **China** | Usual **largest producer**; original home; green tea |

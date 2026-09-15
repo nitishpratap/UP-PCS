@@ -47,15 +47,14 @@ Medieval Music | Later Mughal Music | Mughal Court Patronage | Amir Khusrau | Ta
 ## Confused Pairs
 
 | A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Dhrupad vs Khayal | Oldest + **pakhawaj** vs dominant today + **tabla** | ध्रुपद / ख्याल |
-| Tansen vs Amir Khusrau | Akbar dhrupad Navratna vs Sultanate Nizamuddin + qawwali | तानसेन / अमीर खुसरो |
-| Tappa vs Thumri | Fast camel-song; **Muhammad Shah** court vs Awadh–Banaras romantic | टप्पा / ठुमरी |
-| Qawwali vs Sama | Sufi chorus form linked to Khusrau vs Chishti musical assembly | क़व्वाली / समा |
-| Somanath vs Khusrau (Raga Vibodh) | 2021/2022 treatise author vs 2019 literary-list pair | सोमनाथ / खुसरो |
-| Akbar vs Muhammad Shah music | Dhrupad peak (Tansen) vs Khayal/Tappa later bloom | अकबर / मुहम्मद शाह |
-| Tabla vs Pakhawaj | Khayal/thumri accompaniment vs dhrupad drum | तबला / पखावज |
-
+|---|---|------------|-------|
+| Dhrupad | Khayal | Oldest + **pakhawaj** vs dominant today + **tabla** | ध्रुपद / ख्याल |
+| Tansen | Amir Khusrau | Akbar dhrupad Navratna vs Sultanate Nizamuddin + qawwali | तानसेन / अमीर खुसरो |
+| Tappa | Thumri | Fast camel-song; **Muhammad Shah** court vs Awadh–Banaras romantic | टप्पा / ठुमरी |
+| Qawwali | Sama | Sufi chorus form linked to Khusrau vs Chishti musical assembly | क़व्वाली / समा |
+| Somanath | Khusrau (Raga Vibodh) | 2021/2022 treatise author vs 2019 literary-list pair | सोमनाथ / खुसरो |
+| Akbar | Muhammad Shah music | Dhrupad peak (Tansen) vs Khayal/Tappa later bloom | अकबर / मुहम्मद शाह |
+| Tabla | Pakhawaj | Khayal/thumri accompaniment vs dhrupad drum | तबला / पखावज |
 ---
 
 ## Must-score facts — form, patron, treatise

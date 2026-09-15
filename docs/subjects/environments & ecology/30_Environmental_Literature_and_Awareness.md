@@ -50,22 +50,15 @@ Environmental Literature | Environmental Education | Environmental Awareness | E
 
 ## Confused Pairs
 
-| Term | One-line difference |
-|------|---------------------|
-| **Environmental Literature** | Books/reports shaping env thought |
-| **Environmental Education** | Formal learning — curriculum, ECO Clubs |
-| **Environmental Awareness** | Public consciousness + behaviour change |
-| **Environmental Communication** | Transmitting science/policy to citizens |
-| **Silent Spring** | Carson 1962 — pesticide harm |
-| **Tragedy of the Commons** | Hardin 1968 — shared resource overuse |
-| **Limits to Growth** | Club of Rome 1972 |
-| **Brundtland Report** | *Our Common Future* 1987 — SD definition |
-| **NGC / ECO Club** | MoEFCC school eco-action programme |
-| **LiFE** | 2022 lifestyle awareness mission |
-| **Eco-mark** | BIS 1991 — environment-friendly products |
-| **Greenwashing** | False eco-friendly marketing claims |
-| **Greendex** | Sustainable consumer-behaviour score |
-
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
+| **Environmental Education** | **Environmental Awareness** | Structured pedagogical curriculum in schools/colleges (Eco-Clubs, NGC) vs general public sensitization & behavioral change (Mission LiFE) | पर्यावरण शिक्षा / पर्यावरण जागरूकता |
+| **Silent Spring (1962)** | **Tragedy of the Commons (1968)** | Rachel Carson's book exposing chemical pesticide (DDT) bioaccumulation vs Garrett Hardin's economic essay on shared resource degradation | साइलेंट स्प्रिंग / ट्रैजेडी ऑफ द कॉमन्स |
+| **Limits to Growth (1972)** | **Brundtland Report (1987)** | Club of Rome computer model projecting economic/ecological collapse vs UN WCED report (*Our Common Future*) coining Sustainable Development | लिमिट्स टू ग्रोथ (1972) / ब्रंटलैंड रिपोर्ट (1987) |
+| **Small Is Beautiful (1973)** | **Silent Spring (1962)** | E.F. Schumacher's critique of mass production ("economics as if people mattered") vs Carson's chemical toxicity expose | स्मॉल इज ब्यूटीफुल / साइलेंट स्प्रिंग |
+| **Eco-mark (1991)** | **Greenwashing** | Official BIS earthen pot label for certified environment-friendly consumer goods vs deceptive corporate marketing claiming false eco-credentials | इको-मार्क (मिट्टी का घड़ा) / ग्रीनवॉशिंग |
+| **Greendex** | **Ecological Footprint** | National Geographic consumer sustainability index vs Global Footprint Network measure of nature's demand vs biocapacity | ग्रीनडेक्स / पारिस्थितिक पदचिह्न |
+| **National Green Corps (NGC)** | **Mission LiFE (2022)** | MoEFCC Eco-club programme in school networks vs international citizen-movement promoting lifestyle for environment | नेशनल ग्रीन कॉर्प्स / मिशन लाइफ (LiFE) |
 ---
 
 ## Must-score facts — books, EE, LiFE

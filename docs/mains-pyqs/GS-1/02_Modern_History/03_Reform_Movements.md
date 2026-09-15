@@ -141,7 +141,6 @@ Colonial and missionary discourse singled out **sati, child marriage, purdah, fe
 | **Education modernisation** | English + vernacular, scientific outlook, female schools |
 | **Press and associations** | **Samaj/sabha** model before Congress |
 | **Caste critique** | **Phule, Narayana Guru, Arya Samaj shuddhi**—uneven, sometimes exclusionary |
-
 | Stream | Emphasis | Example |
 |--------|----------|---------|
 | **Reformist-modernist** | Change via reason + law | **Brahmo Samaj, Vidyasagar, Phule** |

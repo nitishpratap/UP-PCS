@@ -58,14 +58,13 @@ Carbon Dioxide (CO₂) | Methane (CH₄) | Nitrous Oxide (N₂O) | Water Vapour 
 
 ## Confused Pairs
 
-| Term | One-line fact |
-|------|---------------|
-| **GWP** | Heat-trapping power vs CO₂ over 100 years (CO₂=1) |
-| **CO₂e** | All GHGs converted to CO₂ equivalent via GWP |
-| **CFC / HFC** | ODS+GHG / GHG only (Kigali) |
-| **Tropospheric / Stratospheric O₃** | Pollutant+GHG / UV shield |
-| **Feedback gas** | Rises because Earth warms (water vapour) |
-
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
+| **Global Warming Potential (GWP)** | **Radiative Forcing** | Heat absorption efficiency of 1 kg of a gas over 100 years relative to CO₂ (=1) vs net change in energy balance of Earth (W/m²) caused by that gas | वैश्विक तापन क्षमता (GWP) / विकिरण दबाव |
+| **Carbon Dioxide (CO₂)** | **Water Vapour (H₂O)** | Primary anthropogenic driver of long-term climate change (atmospheric residence 100+ yrs) vs dominant natural greenhouse gas acting as a fast temperature feedback | कार्बन डाइऑक्साइड (मानवजनित) / जलवाष्प (प्राकृतिक फीडबैक) |
+| **Methane (CH₄)** | **Nitrous Oxide (N₂O)** | GWP ~28–30 (residence ~12 yrs; rice paddies, enteric livestock, wetlands) vs GWP ~265–273 (residence ~114 yrs; chemical fertilizers, adipic acid) | मीथेन (धान/पशुपालन) / नाइट्रस ऑक्साइड (उर्वरक) |
+| **Sulfur Hexafluoride (SF₆)** | **Carbon Dioxide (CO₂)** | Most potent GHG known with GWP >23,500 (used in electrical switchgear) vs benchmark baseline GHG with GWP = 1 | सल्फर हेक्साफ्लोराइड (GWP 23,500) / CO₂ (मानक 1) |
+| **Kyoto Six GHGs** | **Montreal Phase-Out Gases** | CO₂, CH₄, N₂O, HFCs, PFCs, SF₆ (later NF₃ added) targeted for climate reduction vs CFCs, Halons, CCl₄, HCFCs targeted for stratospheric ozone protection | क्योटो 6 ग्रीनहाउस गैसें / मॉन्ट्रियल ओजोन गैसें |
 ---
 
 ## Must-score facts — GWP, shares, Kyoto basket

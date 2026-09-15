@@ -52,16 +52,15 @@ Carbon Footprint | Ecological Footprint | Net Zero Emissions | Green Economy | B
 
 ## Confused Pairs
 
-| Pair | Fact |
-|------|------|
-| **Carbon / Ecological footprint** | tCO₂e GHGs / gha resource demand |
-| **Net zero / Gross zero** | Balance with removals / eliminate almost all emissions |
-| **Green / Circular economy** | Broad low-carbon inclusive growth / material-loop design |
-| **Green / Blue / Grey hydrogen** | Renewable electrolysis / grey+CCS / natural-gas reforming |
-| **Primary / Secondary microplastics** | Made small / fragmented from large plastic |
-| **NbS / Geoengineering** | Ecosystem actions / engineered climate intervention |
-| **LiFE idea / launch** | COP26 2021 / June 2022 |
-
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
+| **Carbon Footprint** | **Ecological Footprint** | Total amount of greenhouse gases (in tonnes of CO₂e) emitted directly/indirectly by an entity vs total biocapacity area (in global hectares, gha) required to sustain a lifestyle | कार्बन पदचिह्न (CO₂e उत्सर्जन) / पारिस्थितिक पदचिह्न (भूमि/संसाधन मांग) |
+| **Net Zero Emissions** | **Gross Zero Emissions** | Balancing residual carbon emissions with equivalent carbon removals via sinks and DACCS vs completely eliminating all greenhouse gas emissions across all sectors without offsets | नेट जीरो (उत्सर्जन-अवशोषण संतुलन) / सकल शून्य (पूर्ण उत्सर्जन शून्यता) |
+| **Green Economy** | **Circular Economy** | Broad macro-framework promoting low-carbon, resource-efficient, and socially inclusive growth vs industrial economic model eliminating waste through closed-loop recycling and repair | हरित अर्थव्यवस्था / चक्रीय अर्थव्यवस्था |
+| **Green Hydrogen** | **Grey Hydrogen / Blue Hydrogen** | Produced by electrolysis of water powered entirely by renewable electricity vs produced from natural gas without carbon capture (Grey) or with carbon capture & storage (Blue) | हरित हाइड्रोजन (नवीकरणीय) / धूसर व नीला हाइड्रोजन |
+| **Primary Microplastics** | **Secondary Microplastics** | Tiny plastic beads (<5mm) intentionally manufactured for cosmetics and industrial pellets vs microscopic plastic fragments resulting from physical weathering and breakdown of larger plastic debris | प्राथमिक माइक्रोप्लास्टिक (निर्मित मनके) / द्वितीयक माइक्रोप्लास्टिक (अपघटित टुकड़े) |
+| **Nature-based Solutions (NbS)** | **Geoengineering** | Ecosystem protection, restoration, and sustainable management to address societal challenges (e.g. mangrove restoration) vs large-scale technological manipulation of Earth's systems (e.g. solar radiation management) | प्रकृति-आधारित समाधान (NbS) / भू-इंजीनियरिंग |
+| **Mission LiFE Genesis** | **Mission LiFE Official Launch** | Conceptualized and introduced by PM Modi at COP26 Glasgow in **November 2021** vs officially launched jointly with UN Secretary-General António Guterres at Ekta Nagar (Kevadia), Gujarat in **October 2022** | मिशन लाइफ विचार (ग्लासगो 2021) / औपचारिक शुभारंभ (केवड़िया 2022) |
 ---
 
 ## Must-score facts — footprints, net zero, hydrogen, plastics

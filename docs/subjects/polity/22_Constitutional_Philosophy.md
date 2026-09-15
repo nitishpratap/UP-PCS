@@ -74,8 +74,8 @@ Newest first. One event, one fact.
 
 ## Confused Pairs
 
-| Term A | Term B | Core difference |
-|--------|--------|-----------------|
+| Term A | Term B | Core difference | Hindi Terminology |
+| -------- | -------- | ----------------- | -------- / -------- |
 | **Constitution** | **Constitutionalism** | A document can exist | Power is *limited* and reviewable |
 | **Constitutional morality** | **Public / social morality** | Fidelity to the Constitution’s norms | Majority sentiment; Art. **19/25** “morality” |
 | **Rule of Law** | **Rule by law** | Law binds the ruler too | Ruler uses statutes as a whip |

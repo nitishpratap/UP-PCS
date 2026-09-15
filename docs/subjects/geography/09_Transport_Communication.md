@@ -878,7 +878,6 @@ Keep these as one-line map associations that leak into the transport–economy p
 | **Brabourne** | **Mumbai** |
 | **Green Park** | **Kanpur** |
 | **Eden Gardens** | **Kolkata** |
-
 | Pilgrimage centre | State / place |
 |-------------------|---------------|
 | **Rameswaram** | **Tamil Nadu** |

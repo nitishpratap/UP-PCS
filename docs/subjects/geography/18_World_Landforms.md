@@ -392,7 +392,6 @@ A plateau is an **elevated tableland** — flatter than a mountain range, higher
 | **Piedmont** | At the **foot** of mountains | Appalachian piedmont; Patagonian edge |
 | **Continental / shield** | Old worn-down block | **Deccan**, Brazilian, African, Western Australian |
 | **Lava / volcanic** | Flood basalt | **Columbia** (USA), **Deccan Trap** cover |
-
 | Plateau | Where | Note |
 |---------|-------|-----------|
 | **Tibetan Plateau** | China / Tibet | **Highest large** plateau. Headwaters: Indus, Sutlej, Brahmaputra, Mekong, Yangtze, Hwang Ho |
@@ -477,7 +476,6 @@ Plains are **low, gently rolling** lands — the world’s grain and cattle belt
 | **Glacial / till** | Ice-sheet | North European Plain, Prairie of Canada–USA |
 | **Coastal** | Sea + river | Atlantic coastal USA; eastern India |
 | **Lacustrine** | Old lake floor | Imphal-type locally; some interior basins |
-
 | Plain | Where | Note |
 |-------|-------|-----------|
 | **Indo-Gangetic** | India–Pakistan–Bangladesh | Alluvium; wheat–rice–cane |
@@ -506,7 +504,6 @@ Plains are **low, gently rolling** lands — the world’s grain and cattle belt
 | **Mid-Atlantic** | Divergent | **Iceland** (Hekla), Azores |
 | **Alpine–Himalayan / Med** | Collision | **Etna, Vesuvius, Stromboli** (Italy) |
 | **East African Rift** | Tension | **Kilimanjaro, Kenya** — **not** Ring of Fire |
-
 | Volcano | Country | Belt / extra |
 |---------|---------|--------------|
 | **Fuji** | Japan | Pacific. Classic cone |
@@ -609,7 +606,6 @@ Trap **A** gives Etna to Mexico (that is Paricutin). Trap **D** gives Etna to th
 | **Volcanic arc / hot-spot** | Magma | **Java**, **Iceland**, **Hawaii**, Japan (Honshu mixed arc), Sicily (Etna) |
 | **Coral / atoll** | Reef on a sinking volcanic peak or shelf | Maldives, Lakshadweep, many Pacific atolls |
 | **Coral reef (not an island rank)** | — | Great Barrier Reef (Australia) is a **reef**, not a “largest island” option |
-
 | Island | Fact |
 |--------|------|
 | **Greenland** | **Largest island**. Denmark. Ice sheet. Inuit |
@@ -705,7 +701,6 @@ Deserts are arid lands (often **< 25 cm** rain) with sparse xerophytic vegetatio
 | **Coastal / fog** | Cold current + stable air | **Atacama** (Peru/Humboldt), **Namib** (Benguela) |
 | **Rain-shadow** | High range steals moisture | **Patagonia** (Andes), **Atacama** (Andes), Thar (Aravalli leeward) |
 | **Cold interior** | Far from sea, winter freeze | **Gobi**, **Taklamakan**, Great Basin, Colorado Plateau dry side |
-
 | Desert | Country / belt | |
 |--------|----------------|------|
 | **Sahara** | N Africa (many states) | **Largest hot** desert. Hoggar / Tibesti are highland islands in it |

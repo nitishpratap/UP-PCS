@@ -288,7 +288,6 @@ The Four Noble Truths work like a medical diagnosis: disease → cause → cure 
 | **Anicca** | All conditioned things are impermanent |
 | **Dukkha** | Unsatisfactoriness follows from impermanence |
 | **Anatta** | There is **no permanent self** — split from Jain **jiva** and Upanishadic **atman** |
-
 | Skandha | Sanskrit | What it is |
 |---------|----------|------------|
 | Form | **Rupa** | Physical body |

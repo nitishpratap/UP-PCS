@@ -885,7 +885,6 @@ Coral reefs grow in clear, warm, shallow seawater. Muddy delta mouths are poor r
 | **Fringing** | Against the shore | Little / none |
 | **Barrier** | Offshore, parallel to land | Yes — between reef and land |
 | **Atoll** | Ring / horseshoe in open sea | Yes — **central** lagoon; island mostly gone |
-
 | Coast type | Meaning |
 |------------|------|
 | **Fjord** | Drowned **glacial** trough |

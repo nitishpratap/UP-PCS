@@ -87,24 +87,24 @@ PRECEDENCE (Warrant 1979, ceremonial): 1 Pres · 2 VP · 3 PM · 4 Gov(in state)
 
 ### Confused pairs
 
-| A | B | Fact |
-|---|----|------|
-| Part XI | Part IXA / XIVA | Union–State relations · **not** Municipalities · **not** Tribunals |
-| 4th Schedule | 9th Schedule | RS seats vs validation of Acts |
-| 5th Schedule | 6th Schedule | Scheduled Areas (many States) vs **AMTM** Autonomous Councils |
-| 11th / 12th | counts | **29** Panchayat vs **18** Municipality |
-| Art. 32 | Art. 226 | SC, FR only vs HC, **wider** |
-| Art. 54 | Art. 66 | President: MPs+MLAs · VP: **Parliament only** |
-| Precedence | Succession | **Warrant 1979** ceremonial · **not** Art. 56–62 line |
-| CJI | Speaker | **Same rank — 6** |
-| Cabinet Minister | AG | Minister **7** · AG **11** |
-| SC judge | CEC/CAG | **9** vs **9A** |
-| Art. 352 | 356 / 360 | National vs State vs Financial |
-| Prohibition | Certiorari | **Before** the order vs **after** |
-| 3rd Schedule | Arts. 60 / 69 / 159 | Ministers/MPs/judges/CAG vs **President / VP / Governor** |
-| 42nd | 44th | Mini-Constitution **1976** vs Emergency rewrite **1978** |
-| 9th Amendment | 9th Schedule | Berubari **1960** vs 1st Amd **1951** list of Acts |
-| 35th’s old 10th Sch | 52nd’s 10th Sch | Sikkim associate-State terms (repealed 36th) vs **defection** |
+| A | B | Fact | Hindi Terminology |
+|---|----|------|-------------------|
+| Part XI | Part IXA / XIVA | Union–State relations · **not** Municipalities · **not** Tribunals | भाग XI (संबंध) / भाग IXA (नगरपालिका) |
+| 4th Schedule | 9th Schedule | RS seats vs validation of Acts | चौथी (राज्यसभा सीट) / 9वीं अनुसूची |
+| 5th Schedule | 6th Schedule | Scheduled Areas (many States) vs **AMTM** Autonomous Councils | 5वीं (अनुसूचित क्षेत्र) / 6वीं अनुसूची (AMTM) |
+| 11th / 12th | counts | **29** Panchayat vs **18** Municipality | 11वीं (29 विषय) / 12वीं (18 विषय) |
+| Art. 32 | Art. 226 | SC, FR only vs HC, **wider** | अनु. 32 (सर्वोच्च न्यायालय) / अनु. 226 (उच्च न्यायालय) |
+| Art. 54 | Art. 66 | President: MPs+MLAs · VP: **Parliament only** | राष्ट्रपति निर्वाचन मण्डल / उपराष्ट्रपति |
+| Precedence | Succession | **Warrant 1979** ceremonial · **not** Art. 56–62 line | वरीयता क्रम / उत्तराधिकार क्रम |
+| CJI | Speaker | **Same rank — 6** | मुख्य न्यायाधीश एवं लोकसभा अध्यक्ष (समान रैंक 6) |
+| Cabinet Minister | AG | Minister **7** · AG **11** | कैबिनेट मंत्री (7) / महान्यायवादी (11) |
+| SC judge | CEC/CAG | **9** vs **9A** | सर्वोच्च न्यायालय न्यायाधीश (9) / कैग व चुनाव आयुक्त (9A) |
+| Art. 352 | 356 / 360 | National vs State vs Financial | राष्ट्रीय / राज्य (राष्ट्रपति शासन) / वित्तीय आपातकाल |
+| Prohibition | Certiorari | **Before** the order vs **after** | प्रतिषेध (निर्णय पूर्व) / उत्प्रेषण (निर्णय पश्चात) |
+| 3rd Schedule | Arts. 60 / 69 / 159 | Ministers/MPs/judges/CAG vs **President / VP / Governor** | तीसरी अनुसूची शपथ / संवैधानिक विशिष्ट शपथ |
+| 42nd | 44th | Mini-Constitution **1976** vs Emergency rewrite **1978** | 42वां (1976) / 44वां संशोधन (1978) |
+| 9th Amendment | 9th Schedule | Berubari **1960** vs 1st Amd **1951** list of Acts | 9वां संशोधन (1960) / 9वीं अनुसूची (1951) |
+| 35th’s old 10th Sch | 52nd’s 10th Sch | Sikkim associate-State terms (repealed 36th) vs **defection** | सिक्किम सह-राज्य / दल-बदल विरोधी कानून |
 
 ---
 
@@ -411,7 +411,6 @@ Trap: Panchayat polls = **324**. **No — 243K, SEC.** Trap: VP college = same a
 | **Prohibition** | to forbid | Lower **judicial / quasi-judicial** body exceeding jurisdiction — issued **before** the order |
 | **Certiorari** | to be certified | **Quash** an order already made — **after** |
 | **Quo Warranto** | by what authority | A person in a **substantive public office** created by law; any person may ask |
-
 | | **Art. 32** | **Art. 226** |
 |--|-------------|-------------|
 | Court | Supreme Court | High Court |
@@ -1617,20 +1616,20 @@ UP: Capital Lucknow · HC Prayagraj (Lucknow Bench 1948) · LA 403 · LC 100 · 
 
 ### Confused pairs (bodies · Parliament · cases · UP)
 
-| A | B | Fact |
-|---|----|------|
-| **338B NCBC** | **340 commission** | **338B** = the standing National Commission for Backward Classes (102nd, 2018). **340** = President *may* name a one-off inquiry (Kalelkar, Mandal). The 2024 paper used 340 as a match — know **both** |
-| **ECI 324** | **SEC 243K** | Parliament / State Houses / President / VP vs **PRI + ULB** |
-| **NHRC** | **NCSC** | Statutory 1993 vs Constitutional **338** |
-| **NITI** | **FC 280** | Executive think-tank **2015** vs tax-share Commission |
-| **CAG** | **PAC** | Audits and **reports** vs **examines** the report |
-| **PAC** | **Estimates** | 22, both Houses, CAG, Opposition chair vs **30, LS only, no CAG** |
-| **Art. 110** | **Art. 109** | Money Bill **definition** vs RS **14-day** procedure |
-| **Sarkaria** | **Punchhi** | ISC **1990** vs 2007–10 (Council already existed) |
-| **Santhanam 1962** | **Santhanam 1963** | **CVC** vs **PRI finances** |
-| ***Golaknath*** | ***Kesavananda*** | FR cannot be amended vs FR can, **basic structure** cannot |
-| ***Navtej*** | **Art. 377** | **s.377 IPC** vs transitory **CAG** clause |
-| **UPPSC** | **UP SEC** | Prayagraj, recruitment vs Lucknow, **local polls** |
+| A | B | Fact | Hindi Terminology |
+|---|----|------|-------------------|
+| **338B NCBC** | **340 commission** | **338B** = the standing National Commission for Backward Classes (102nd, 2018). **340** = President *may* name a one-off inquiry (Kalelkar, Mandal). The 2024 paper used 340 as a match — know **both** | राष्ट्रीय पिछड़ा वर्ग आयोग (338B) / पिछड़ा वर्ग जांच आयोग (340) |
+| **ECI 324** | **SEC 243K** | Parliament / State Houses / President / VP vs **PRI + ULB** | भारतीय निर्वाचन आयोग / राज्य निर्वाचन आयोग |
+| **NHRC** | **NCSC** | Statutory 1993 vs Constitutional **338** | राष्ट्रीय मानवाधिकार आयोग / राष्ट्रीय अनुसूचित जाति आयोग |
+| **NITI** | **FC 280** | Executive think-tank **2015** vs tax-share Commission | नीति आयोग (2015) / वित्त आयोग (अनु. 280) |
+| **CAG** | **PAC** | Audits and **reports** vs **examines** the report | कैग (लेखापरीक्षक) / लोक लेखा समिति (समीक्षा) |
+| **PAC** | **Estimates** | 22, both Houses, CAG, Opposition chair vs **30, LS only, no CAG** | लोक लेखा समिति / प्राकलन समिति |
+| **Art. 110** | **Art. 109** | Money Bill **definition** vs RS **14-day** procedure | धन विधेयक परिभाषा / धन विधेयक विशेष प्रक्रिया |
+| **Sarkaria** | **Punchhi** | ISC **1990** vs 2007–10 (Council already existed) | सरकारिया आयोग (1983) / पुंछी आयोग (2007) |
+| **Santhanam 1962** | **Santhanam 1963** | **CVC** vs **PRI finances** | संथानम समिति (सीवीसी) / संथानम समिति (पंचायती राज वित्त) |
+| ***Golaknath*** | ***Kesavananda*** | FR cannot be amended vs FR can, **basic structure** cannot | गोलकनाथ 1967 / केशवानंद भारती 1973 |
+| ***Navtej*** | **Art. 377** | **s.377 IPC** vs transitory **CAG** clause | नवतेज जौहर (धारा 377) / अनुच्छेद 377 (कैग संक्रमण) |
+| **UPPSC** | **UP SEC** | Prayagraj, recruitment vs Lucknow, **local polls** | उत्तर प्रदेश लोक सेवा आयोग / राज्य निर्वाचन आयोग |
 
 ---
 
@@ -1674,7 +1673,6 @@ Trap: ECI = Art. 165. **165 = AdvG.** Trap: FC = 263. **263 = ISC.** Trap: stand
 | **Constitutional** | Born in the **Constitution** | ECI, UPSC, FC, CAG, AG, GST Council, NCSC/ST/BC, SEC, SFC, ISC, 350B |
 | **Statutory** | Born in an **Act** | Lokpal **2013** · CVC **2003** · CIC/SIC **RTI 2005** · NHRC **1993** · NGT **2010** · CAT **1985** · NCW **1990** · NCM **1992** · NCPCR · NCSK · SEBI **1992** · RBI Act **1934** · NIA **2008** · Delimitation Commission |
 | **Executive** | Resolution / order | **NITI 1 Jan 2015** · Planning Commission **1950** · **NDC 1952** · Law Commission of India |
-
 | Body | One-liner |
 |------|-----------|
 | **Lokpal** | 2013 Act. Chair + ≤8. Selection: PM + LS Speaker + **LoP LS** + CJI/nominee + jurist — **not** RS Chairman. 5y/70. First: **P.C. Ghose, 2019** |

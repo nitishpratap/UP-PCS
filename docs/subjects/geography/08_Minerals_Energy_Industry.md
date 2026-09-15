@@ -294,7 +294,6 @@ Iron is the backbone of heavy industry. Steel needs iron ore plus **coking coal*
 | **Durg–Bastar–Chandrapur** | Bailadila high-grade hematite in Chhattisgarh; Dalli–Rajhara; export via Visakhapatnam |
 | **Ballari–Chitradurga–Chikkamagaluru–Tumakuru** | Karnataka magnetite–hematite; Kudremukh slurry to Mangaluru |
 | **Maharashtra–Goa** | Lower grade; export via **Mormugao** |
-
 | Mine / belt | State | Note |
 |-------------|-------|------|
 | Gurumahisani / Badampahar / Sulaipat | **Odisha** | Mayurbhanj hematite belt |
@@ -341,7 +340,6 @@ Bauxite is the ore of **aluminium**. It commonly forms as a **residual** weather
 | Other belts | Gujarat, Jharkhand, Chhattisgarh, Maharashtra |
 | Older city tag | **Katni** (Madhya Pradesh) |
 | Smelting logic | Aluminium smelting is **power-hungry**, so plants sit near cheap electricity as well as near ore |
-
 | Company | Plant | State | Note |
 |---------|-------|-------|------|
 | BALCO | **Korba** | Chhattisgarh | Correct |
@@ -535,7 +533,6 @@ Soft grades harden toward anthracite in this order: **peat**, then **lignite**, 
 | Sohagpur | Madhya Pradesh | Son family |
 | Singareni | Telangana | **Godavari** valley |
 | Wardha / Kamptee / Umrer | Maharashtra | Godavari–Wardha |
-
 | Coalfield | Valley |
 |-----------|--------|
 | **Talcher** | **Mahanadi** |

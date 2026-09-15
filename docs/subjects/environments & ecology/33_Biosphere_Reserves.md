@@ -53,15 +53,15 @@ Biosphere Reserve | Major Biosphere Reserves of India | Biosphere Reserves of Ut
 
 ## Confused Pairs
 
-| Term | One-line fact |
-|------|---------------|
-| **Biosphere Reserve** | Conservation + sustainable use + research (MAB) |
-| **National Park** | Strictest WPA protection |
-| **Core / Buffer / Transition** | No exploitation / limited use / livelihoods |
-| **WNBR** | UNESCO World Network subset of national BRs |
-| **Nokrek** | **Meghalaya** — never Manipur |
-| **Nilgiri** | India’s first BR (1986) |
-
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
+| **Biosphere Reserve (BR)** | **National Park (NP)** | Landscape-level conservation integrating human livelihoods (MAB 3-tier zoning) vs species/habitat preservation strictly excluding human activity | जैवमंडल आरक्षित क्षेत्र / राष्ट्रीय उद्यान |
+| **National BRs in India** | **WNBR (UNESCO) Listed** | Total **18** Biosphere Reserves designated by MoEFCC vs **12** inducted into UNESCO's World Network of Biosphere Reserves | 18 राष्ट्रीय बायोस्फीयर / 12 यूनेस्को WNBR सूची |
+| **First BR in India** | **Latest BR added to WNBR** | **Nilgiri** (1986, TN/KER/KAR) vs **Panna** (2020, Madhya Pradesh) | प्रथम बायोस्फीयर (नीलगिरि 1986) / नवीनतम यूनेस्को (पन्ना 2020) |
+| **Core Zone** | **Buffer Zone** | Legally protected untouched sanctum sanctorum vs zone surrounding core where research, education, and limited tourism are permitted | कोर क्षेत्र (पूर्णतः सुरक्षित) / बफर क्षेत्र (सीमित गतिविधि) |
+| **Buffer Zone** | **Transition Zone** | Managed area buffering the core vs outermost area where local communities, agriculture, and settlements sustainably coexist | बफर जोन / संक्रमण क्षेत्र (बस्तियां/खेती) |
+| **Nokrek Biosphere Reserve** | **Loktak Lake** | Located in Garo Hills, **Meghalaya** (Citrus indica) vs freshwater wetland in **Manipur** | नोकरेक (मेघालय) / लोकटक (मणिपुर) |
+| **Uttar Pradesh BR count** | **Madhya Pradesh BR count** | **Zero** Biosphere Reserves in UP vs **3** Biosphere Reserves in MP (Pachmarhi, Achanakmar-Amarkantak, Panna) | यूपी (शून्य बायोस्फीयर) / म.प्र. (3 बायोस्फीयर) |
 ---
 
 ## Must-score facts — MAB zones, India list tags

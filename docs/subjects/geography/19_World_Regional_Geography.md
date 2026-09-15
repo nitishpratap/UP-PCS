@@ -970,7 +970,6 @@ The **Caribbean Sea** lies between the Greater/Lesser Antilles and Central/South
 | **Greater Antilles** | Cuba, Jamaica, Hispaniola (**Haiti + Dominican Republic**), Puerto Rico |
 | **Lesser Antilles** (names) | **Grenada, Montserrat, Anguilla**, Barbados, Trinidad (S edge), Antigua |
 | **NOT Caribbean** | **Madeira** (Portugal, NE Atlantic off Morocco), Canary Islands (Spain, Atlantic), **Azores**, **Cape Verde**, Bermuda (N Atlantic) |
-
 | Island | Capital / extra |
 |--------|-----------------|
 | Cuba | Havana; largest Caribbean island |

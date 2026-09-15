@@ -52,16 +52,14 @@ Structure of the Atmosphere | Atmospheric Composition | Atmospheric Layers | Tro
 
 ## Confused Pairs
 
-| Term | One-line fact |
-|------|---------------|
-| **Troposphere** | Weather layer; temp falls with height |
-| **Stratosphere** | Ozone layer; temp rises with height |
-| **Mesosphere** | Coldest; meteors burn |
-| **Thermosphere** | Very hot, low density; aurora/ISS |
-| **Exosphere** | Outermost; merges with space |
-| **Homosphere / Heterosphere** | Well-mixed to ~80 km / gases separate by mass |
-| **Insolation / Terrestrial radiation** | Incoming shortwave / outgoing longwave |
-
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
+| **Troposphere** | **Stratosphere** | Lowest weather layer, temperature decreases with altitude (normal lapse rate 6.5°C/km) vs calm dry layer where temperature increases with height due to UV absorption by ozone | क्षोभमंडल (मौसम परत) / समतापमंडल (ओजोन परत) |
+| **Stratosphere** | **Mesosphere** | Contains protective ozone layer; stable air suited for jet aircraft vs coldest atmospheric layer (-90°C) where incoming meteors burn upon entry | समतापमंडल / मध्यमंडल (उल्कापिंड दहन) |
+| **Mesosphere** | **Thermosphere (Ionosphere)** | Temperature plummets to lowest levels vs temperature surges past 1500°C; contains ionized gas reflecting terrestrial radio waves and hosting auroras | मध्यमंडल / तापमंडल (आयनमंडल) |
+| **Homosphere** | **Heterosphere** | Lower ~85 km where atmospheric gases remain uniformly mixed in proportion vs upper layer where gases stratify by molecular weight (N₂, O, He, H) | सममंडल (समान मिश्रण) / विषममंडल (गुरुत्वाकर्षण परतें) |
+| **Insolation** | **Terrestrial Radiation** | Shortwave electromagnetic solar radiation received by Earth vs outgoing longwave infrared radiation re-radiated by Earth's heated surface | सूर्यताप (लघुतरंग) / भौमिक विकिरण (दीर्घतरंग) |
+| **Good Ozone** | **Bad Ozone** | Naturally occurring stratospheric ozone shielding Earth from solar UV-B vs ground-level tropospheric ozone acting as secondary pollutant and respiratory irritant | अच्छा ओजोन (समतापमंडल) / बुरा ओजोन (क्षोभमंडल) |
 ---
 
 ## Must-score facts — layers, composition, radiation

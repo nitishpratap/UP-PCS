@@ -59,19 +59,14 @@
 
 ## Confused Pairs
 
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **Stockholm 1972** | First global environment conference; created UNEP | स्टॉकहोम 1972 |
-| **Rio 1992** | Launched UNFCCC, CBD, Agenda 21 | रियो 1992 |
-| **Agenda 21** | Rio 1992 non-binding SD action plan | एजेंडा 21 |
-| **UNFCCC** | 1992 climate framework convention | UNFCCC |
-| **Kyoto Protocol** | 1997 binding targets for developed countries | क्योटो |
-| **Paris Agreement** | 2015 universal NDC climate pact | पेरिस |
-| **Montreal Protocol** | 1987 ODS phase-out — **not climate** | मॉन्ट्रियल |
-| **Ramsar** | 1971 wetland conservation treaty | रामसर |
-| **CITES** | 1973 regulation of endangered species trade | CITES |
-| **Basel Convention** | 1989 transboundary hazardous waste control | बेसल |
-
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
+| **Stockholm Conference (1972)** | **Rio Earth Summit (1992)** | First UN global conference on the Human Environment that placed environment on the global political agenda and created UNEP vs UN Conference on Environment and Development (UNCED) that produced Rio Declaration, Agenda 21, CBD, UNFCCC, and UNCCD | स्टॉकहोम सम्मेलन 1972 (UNEP उद्भव) / रियो पृथ्वी शिखर सम्मेलन 1992 (रियो संधियां) |
+| **Kyoto Protocol (1997)** | **Paris Agreement (2015)** | Annex-I developed nations bound by legal emission targets with punitive compliance mechanisms vs universal bottom-up framework where all 196+ nations self-determine mitigation contributions (NDCs) with five-yearly global stocktakes | क्योटो प्रोटोकॉल (शीर्ष-से-नीचे बाध्यकारी) / पेरिस समझौता (स्वैच्छिक NDCs) |
+| **Basel Convention (1989)** | **Rotterdam Convention (1998)** | Restricts and regulates transboundary movements and disposal of hazardous wastes (especially preventing dumping in developing countries) vs establishes legally binding Prior Informed Consent (PIC) procedure for hazardous international trade chemicals and pesticides | बासेल कन्वेंशन (खतरनाक अपशिष्ट आवागमन) / रॉटरडैम कन्वेंशन (पूर्व सूचित सहमति) |
+| **Stockholm Convention (2001)** | **Minamata Convention (2013)** | Mandates the global elimination, restriction, and unintentional release reduction of Persistent Organic Pollutants (POPs - "Dirty Dozen") vs global treaty designed to protect human health and the environment from anthropogenic emissions and releases of toxic Mercury (Hg) | स्टॉकहोम संधि (POPs उन्मूलन) / मिनामाता संधि (पारा प्रदूषण नियंत्रण) |
+| **Ramsar Convention (1971)** | **Convention on Migratory Species (CMS / Bonn 1979)** | Dedicated specifically to the ecological conservation and sustainable wise use of internationally significant wetlands and waterfowl habitats vs treaty dedicated to the conservation of terrestrial, aquatic, and avian migratory wild animal species across range states | रामसर कन्वेंशन (आर्द्रभूमि संरक्षण) / बॉन कन्वेंशन (प्रवासी प्रजाति संरक्षण) |
+| **CITES (1973)** | **Convention on Biological Diversity (CBD 1992)** | International trade treaty strictly regulating commercial import/export of endangered wild flora and fauna through Appendices I, II, III vs comprehensive framework convention covering in-situ/ex-situ conservation, sustainable use, and fair benefit-sharing | साइट्स (CITES, वन्यजीव व्यापार) / जैव विविधता संधि (CBD, समग्र संरक्षण) |
 ---
 
 ## Must-score facts — conferences, treaty–issue map

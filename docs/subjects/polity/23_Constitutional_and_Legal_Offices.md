@@ -82,8 +82,8 @@ Sitting AG / CAG / SG names are **CA colour** — don’t raata a 2026 occupant 
 
 ## Confused Pairs
 
-| Term A | Term B | Core difference |
-|--------|--------|-----------------|
+| Term A | Term B | Core difference | Hindi Terminology |
+| -------- | -------- | ----------------- | -------- / -------- |
 | **Attorney General (76)** | **Solicitor General** | Constitutional; Art. **88** | **Not** in the text; no 88 |
 | **Attorney General** | **Advocate General (165)** | Union; President; **SC**-judge qualify | State; Governor; **HC**-judge qualify |
 | **AG / AdvG** | **CAG / SC judge** | **Pleasure** — no impeachment article | Removal **like SC judge** (CAG) / impeachment (judge) |

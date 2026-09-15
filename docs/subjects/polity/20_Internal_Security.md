@@ -80,28 +80,27 @@ Newest first. One event, one fact — not a dump of keywords.
 
 ## Confused Pairs
 
-| Term A | Term B | Core difference |
-|--------|--------|-----------------|
-| **IB** | **RAW** | Internal intel, **MHA**, **1887** | External intel, **Cabinet Secretariat**, **1968** |
-| **CBI** | **NIA** | DSPE; **State consent s.6** | Statute **2008**; **no** consent on scheduled offences |
-| **CAPF** | **Army** | **MHA**, police-style | **MoD**, armed forces |
-| **BSF** | **ITBP** | Pak + Bangladesh | China / **LAC**, Himalayan |
-| **SSB** | **Assam Rifles** | Nepal + Bhutan borders | Oldest; **NE**; dual MHA/Army |
-| **NSG** | **SPG (1988)** | Federal strike / anti-terror | Close protection of **PM** |
-| **SPG (1988)** | **SPG (NSC)** | Special **Protection** Group | Strategic **Policy** Group (NSA chairs) |
-| **NSC** | **CCS** | 1998 council; PM + NSA | Cabinet committee on security |
-| **CRPF** | **BSF** | Internal / LWE / RAF / CoBRA | International land border (W+E) |
-| **CISF** | **CRPF** | Static industry / airport / metro | Mobile internal-security grid |
-| **NCTC** | **MAC** | Proposed, **never** stood up | **2001**, lives inside **IB** |
-| **Coast Guard** | **BSF Water Wing** | **MoD 1978**, sea | Riverine **Pak/BD** frontier, MHA |
-| **CERT-In** | **I4C** | MeitY, **s.70B**, incidents | MHA, **crime** portal |
-| **CERT-In** | **NCIIPC** | All-India CER | **CII** only, under **NTRO** |
-| **UAPA** | **NSA 1980** | Criminal trial / NIA / terror tag | **Preventive detention** (Art. 22 preventive detention) |
-| **UAPA** | **POTA / TADA** | Living 1967 law (2004/08/19 teeth) | **Repealed / lapsed** |
-| **AFSPA 1958** | **AFSPA J&K 1990** | NE disturbed areas | Separate J&K statute |
-| **AFSPA** | **UAPA** | Army powers in a **disturbed** notification | Police/NIA **trial** statute |
-| **NCTC (terror)** | **NCTC (I4C)** | Counter-terror centre — **never born** | National **Cybercrime Training** Centre |
-
+| Term A | Term B | Core Difference | Hindi Terminology |
+|--------|--------|-----------------|-------------------|
+| **IB** | **RAW** | Internal intel, **MHA**, **1887** vs External intel, **Cabinet Secretariat**, **1968** | आईबी (आंतरिक) / रॉ (बाह्य) |
+| **CBI** | **NIA** | DSPE; **State consent s.6** vs Statute **2008**; **no** consent on scheduled offences | सीबीआई / एनआईए |
+| **CAPF** | **Army** | **MHA**, police-style vs **MoD**, armed forces | सीएपीएफ (गृह) / सेना (रक्षा) |
+| **BSF** | **ITBP** | Pak + Bangladesh vs China / **LAC**, Himalayan | बीएसएफ (पाक/बांग्लादेश) / आईटीबीपी (चीन) |
+| **SSB** | **Assam Rifles** | Nepal + Bhutan borders vs Oldest; **NE**; dual MHA/Army | एसएसबी / असम राइफल्स |
+| **NSG** | **SPG (1988)** | Federal strike / anti-terror vs Close protection of **PM** | एनएसजी (कमांडो) / एसपीजी (पीएम सुरक्षा) |
+| **SPG (1988)** | **SPG (NSC)** | Special **Protection** Group vs Strategic **Policy** Group (NSA chairs) | विशेष सुरक्षा दल / रणनीतिक नीति समूह |
+| **NSC** | **CCS** | 1998 council; PM + NSA vs Cabinet committee on security | राष्ट्रीय सुरक्षा परिषद / सुरक्षा कैबिनेट समिति |
+| **CRPF** | **BSF** | Internal / LWE / RAF / CoBRA vs International land border (W+E) | सीआरपीएफ / सीमा सुरक्षा बल |
+| **CISF** | **CRPF** | Static industry / airport / metro vs Mobile internal-security grid | सीआईएसएफ (औद्योगिक) / सीआरपीएफ |
+| **NCTC** | **MAC** | Proposed, **never** stood up vs **2001**, lives inside **IB** | एनसीटीसी / बहु-एजेंसी केंद्र (मैक) |
+| **Coast Guard** | **BSF Water Wing** | **MoD 1978**, sea vs Riverine **Pak/BD** frontier, MHA | तटरक्षक बल / बीएसएफ जल शाखा |
+| **CERT-In** | **I4C** | MeitY, **s.70B**, incidents vs MHA, **crime** portal | सर्ट-इन / भारतीय साइबर अपराध समन्वय केंद्र |
+| **CERT-In** | **NCIIPC** | All-India CER vs **CII** only, under **NTRO** | सर्ट-इन / राष्ट्रीय महत्वपूर्ण सूचना अवसंरचना |
+| **UAPA** | **NSA 1980** | Criminal trial / NIA / terror tag vs **Preventive detention** (Art. 22 preventive detention) | यूएपीए / रासुका (निवारक निरोध) |
+| **UAPA** | **POTA / TADA** | Living 1967 law (2004/08/19 teeth) vs **Repealed / lapsed** | यूएपीए / पोटा एवं टाडा (निरस्त) |
+| **AFSPA 1958** | **AFSPA J&K 1990** | NE disturbed areas vs Separate J&K statute | अफस्पा 1958 / अफस्पा कश्मीर 1990 |
+| **AFSPA** | **UAPA** | Army powers in a **disturbed** notification vs Police/NIA **trial** statute | अफस्पा (सेना अधिकार) / यूएपीए कानून |
+| **NCTC (terror)** | **NCTC (I4C)** | Counter-terror centre — **never born** vs National **Cybercrime Training** Centre | आतंकवाद-रोधी केंद्र / साइबर प्रशिक्षण केंद्र |
 ---
 
 ## Must-score facts — agencies, CAPF, NSC

@@ -126,7 +126,6 @@ D. A and D only
 | Fatehpur Sikri | **1986** |
 | Sarnath | **2026** |
 | Varanasi ghats | **Tentative only** (not a 5th WHS) |
-
 | ICH element | Year |
 |-------------|------|
 | Kutiyattam / Vedic chanting | 2001 / 2003 |

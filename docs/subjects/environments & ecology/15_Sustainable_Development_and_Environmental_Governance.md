@@ -61,20 +61,14 @@
 
 ## Confused Pairs
 
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **Brundtland Report** | 1987 *Our Common Future* — SD definition | ब्रंटलैंड रिपोर्ट |
-| **Agenda 21** | Rio 1992 non-binding SD action blueprint | एजेंडा 21 |
-| **MDGs** | 8 goals 2000–2015 — predecessor to SDGs | सहस्राब्दी विकास लक्ष्य |
-| **SDGs** | 17 goals adopted 2015, deadline 2030 | सतत विकास लक्ष्य |
-| **Environmental justice** | Fair sharing of environmental benefits and burdens | पर्यावरण न्याय |
-| **Green economy** | Low-carbon, resource-efficient, inclusive growth | हरित अर्थव्यवस्था |
-| **Circular economy** | Waste eliminated through reuse/recycle design loops | परिपत्र अर्थव्यवस्था |
-| **LiFE Mission** | India 2022 programme for pro-planet lifestyles | LiFE मिशन |
-| **Natural capital** | Nature-made resources — air, water, land, minerals, forests | प्राकृतिक पूंजी |
-| **Sustainable agriculture** | Farming that keeps land quality intact | सतत कृषि |
-| **NMSA** | NAPCC mission for sustainable farm pathways | NMSA |
-
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
+| **Brundtland Report (1987)** | **Limits to Growth (1972)** | UN World Commission on Environment & Development (*Our Common Future*) coining the definition of Sustainable Development vs Club of Rome computer-simulation study modeling impending resource depletion and economic collapse | ब्रंटलैंड रिपोर्ट (1987, सतत विकास) / लिमिट्स टू ग्रोथ (1972) |
+| **Millennium Development Goals (MDGs)** | **Sustainable Development Goals (SDGs)** | 8 anti-poverty targets for 2000–2015 focused primarily on developing nations funded by rich countries vs 17 universal, integrated economic-social-environmental goals (Agenda 2030) adopted in 2015 applying to all nations equally | सहस्राब्दी विकास लक्ष्य (MDGs) / सतत विकास लक्ष्य (SDGs 2030) |
+| **Green Economy** | **Circular Economy** | Macro-economic development paradigm promoting low-carbon growth, resource efficiency, and social equity (UNEP) vs regenerative industrial design philosophy eliminating waste and keeping materials in closed continuous cycles | हरित अर्थव्यवस्था (व्यापक मॉडल) / चक्रीय अर्थव्यवस्था (पुनर्चक्रण लूप) |
+| **Linear Economy** | **Circular Economy** | Traditional unsustainable industrial model based on "take, make, use, and dispose" vs restorative circular model based on "reduce, reuse, repair, refurbish, and recycle" | रैखिक अर्थव्यवस्था (कचरा उत्पादक) / चक्रीय अर्थव्यवस्था (शून्य अपशिष्ट) |
+| **Mission LiFE (2022)** | **Agenda 21 (1992)** | Mass global citizen movement conceptualized by India to replace mindless consumption with mindful individual sustainable lifestyle actions vs Rio 1992 comprehensive non-binding intergovernmental action plan for sustainable governance | मिशन लाइफ (LiFE, व्यक्तिगत जीवनशैली) / एजेंडा 21 (सरकारी कार्ययोजना) |
+| **Natural Capital** | **Manufactured Capital** | World's natural ecological assets including geology, soil, air, water, biodiversity, and ecosystem services vs human-created physical infrastructure, machinery, factories, and financial assets | प्राकृतिक पूंजी (पारिस्थितिक संपदा) / निर्मित पूंजी (मानव-निर्मित संपत्ति) |
 ---
 
 ## Must-score facts — Brundtland, SDGs, NITI Index
@@ -231,7 +225,6 @@ Essential for SDG 4 (Quality Education):
 | 15 | Life on Land |
 | 16 | Peace, Justice and Strong Institutions |
 | 17 | Partnerships for the Goals |
-
 | Feature | MDGs | SDGs |
 |---------|------|------|
 | Goals | 8 | 17 |

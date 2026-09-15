@@ -50,20 +50,20 @@ Sharqi Sultanate (Jaunpur) | Kashmir under Zain-ul-Abidin | Gujarat Sultanate (q
 
 ## Confused Pairs
 
-| Pair | Difference | Hindi |
-|------|------------|-------|
-| Firuz city vs Sharqi state | City named for **Jauna Khan**; independent state by **Malik Sarwar** | जौनपुर |
-| Yusuf Adil vs Malik Ahmad | **Bijapur** vs **Ahmadnagar** founders | बीजापुर / अहमदनगर |
-| Sharqi vs Delhi Sultanate architecture | Jaunpur massive gateways/arches vs Delhi arch-dome-minaret idiom | शर्की / दिल्ली वास्तु |
-| Zain-ul-Abidin vs Sikandar Shah (Kashmir) | Bud Shah abolished jaziya vs temple destruction phase | जैन-उल-आबिदीन / सिकंदर शाह |
-| Vijayanagara vs Bahmani | Hindu south empire vs first major Deccan Muslim kingdom | विजयनगर / बहमनी |
-| Krishnadevaraya vs Rama Raya | Tuluva peak (1509–29) vs regent killed Talikota 1565 | कृष्णदेवराय / राम राय |
-| Gulbarga vs Bidar vs Bijapur | Bahmani early vs later capital vs **Adil Shahi** centre | गुलबर्ग / बीदर / बीजापुर |
-| Riyaz-us-Salatin vs Riyaz-ul-Insha | **Bengal** history vs **Gawan's letters** | रियाज़-उस-सलातीन / रियाज़-उल-इंशा |
-| Tin Darwaza vs Teen Darwaza | **Bidar Fort** vs **Ahmedabad** gate | तीन दरवाज़ा (बीदर) / (अहमदाबाद) |
-| Talikota vs Raichur | 1565 defeat vs 1520 Krishnadevaraya victory | तालीकोटा / रायचूर |
-| Kitab-i-Nauras vs Amuktamalyada | Ibrahim Adil Shah II (Bijapur) vs Krishnadevaraya (Telugu) | किताब-ए-नौरस / अमुक्तमाल्यद |
-| Nayankara vs Iqta | Vijayanagara nayaka grants vs Delhi Sultanate muqti | नायककारा / इक्ता |
+| A | B | Difference | Hindi |
+|---|---|------------|-------|
+| Firuz city (Jaunpur) | Sharqi state (Jaunpur) | City named for **Jauna Khan**; independent state by **Malik Sarwar** | फ़िरोज़ नगर / शर्की राज्य |
+| Yusuf Adil Shah | Malik Ahmad | **Bijapur** founder vs **Ahmadnagar** founder | यूसुफ आदिल / मलिक अहमद |
+| Sharqi architecture | Delhi Sultanate architecture | Jaunpur massive gateways/arches vs Delhi arch-dome-minaret idiom | शर्की स्थापत्य / सल्तनत स्थापत्य |
+| Zain-ul-Abidin | Sikandar Shah (Kashmir) | Bud Shah abolished jaziya vs temple destruction phase | ज़ैन-उल-आबिदीन / सिकंदर शाह |
+| Vijayanagara Empire | Bahmani Kingdom | Hindu south empire vs first major Deccan Muslim kingdom | विजयनगर / बहमनी |
+| Krishnadevaraya | Rama Raya | Tuluva peak (1509–29) vs regent killed Talikota 1565 | कृष्णदेवराय / राम राय |
+| Gulbarga & Bidar | Bijapur | Bahmani capitals (Gulbarga early, Bidar later) vs **Adil Shahi** centre | गुलबर्गा-बीदर / बीजापुर |
+| Riyaz-us-Salatin | Riyaz-ul-Insha | **Bengal** history vs **Gawan's letters** | रियाज़-उस-सलातीन / रियाज़-उल-इंशा |
+| Tin Darwaza (Bidar) | Teen Darwaza (Ahmedabad) | **Bidar Fort** gate vs **Ahmedabad** monumental triple gateway | तीन दरवाज़ा (बीदर) / तीन दरवाज़ा (अहमदाबाद) |
+| Battle of Talikota (1565) | Battle of Raichur (1520) | 1565 defeat vs 1520 Krishnadevaraya victory | तालीकोटा (1565) / रायचूर (1520) |
+| Kitab-i-Nauras | Amuktamalyada | Ibrahim Adil Shah II (Bijapur) vs Krishnadevaraya (Telugu) | किताब-ए-नौरस / अमुक्तमाल्यद |
+| Nayankara system | Iqta system | Vijayanagara nayaka military land grants vs Delhi Sultanate muqti | नायककारा / इक्ता |
 
 ---
 

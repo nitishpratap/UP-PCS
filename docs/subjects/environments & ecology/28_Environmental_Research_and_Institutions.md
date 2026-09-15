@@ -52,20 +52,14 @@ BSI | ZSI | FSI | FRI | WII | NBA | SBB | BMC | NBPGR
 
 ## Confused Pairs
 
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **BSI** | National **plant** survey — Kolkata | वनस्पति सर्वेक्षण |
-| **ZSI** | National **animal** survey — Kolkata | प्राणी सर्वेक्षण |
-| **FSI** | Forest **cover** mapping — **ISFR** — Dehradun | वन सर्वेक्षण |
-| **FRI** | Forestry **research** — Dehradun (ICFRE) | वन अनुसंधान |
-| **WII** | Wildlife research + training — Dehradun | वन्यजीव संस्थान |
-| **NBA** | National BDA regulator — **Chennai** | NBA |
-| **SBB** | State biodiversity board | राज्य जैव विविधता बोर्ड |
-| **BMC** | Local committee — prepares **PBR** | BMC |
-| **NBPGR** | Plant gene bank — New Delhi (ICAR) | NBPGR |
-| **ISFR** | India State of Forest Report — FSI, biennial | भारत वन स्थिति रिपोर्ट |
-| **PBR** | People's Biodiversity Register — local knowledge | जन जैव विविधता रजिस्टर |
-
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
+| **Botanical Survey of India (BSI)** | **Zoological Survey of India (ZSI)** | Premier taxonomic institution (HQ: Kolkata, established 1890) undertaking floristic surveys, documenting plant species, and managing the Central National Herbarium vs premier institution (HQ: Kolkata, established 1916) surveying faunal diversity, animal taxonomy, and systematic collections | भारतीय वनस्पति सर्वेक्षण (BSI, 1890) / भारतीय प्राणी सर्वेक्षण (ZSI, 1916) |
+| **Forest Survey of India (FSI)** | **Forest Research Institute (FRI)** | Subordinate organization under MoEFCC (HQ: Dehradun, established 1981) conducting national forest resource inventory via satellite imagery and publishing biennial ISFR vs deemed university and premier research institution under ICFRE (HQ: Dehradun, established 1906 as Imperial Forest Research Institute) | भारतीय वन सर्वेक्षण (FSI, द्विवार्षिक वन रिपोर्ट) / वन अनुसंधान संस्थान (FRI, वानिकी अनुसंधान) |
+| **National Biodiversity Authority (NBA)** | **State Biodiversity Board (SBB)** | Autonomous statutory regulatory authority established in 2003 under Biological Diversity Act 2002 (HQ: Chennai) regulating foreign nationals' access to Indian bioresources and advising Union vs state-level statutory bodies regulating commercial utilization of bioresources by Indian citizens | राष्ट्रीय जैव विविधता प्राधिकरण (NBA, चेन्नई) / राज्य जैव विविधता बोर्ड (SBB) |
+| **National Bureau of Plant Genetic Resources (NBPGR)** | **National Bureau of Agricultural Insect Resources (NBAIR)** | Nodal ICAR organization (HQ: New Delhi) managing the National Gene Bank preserving orthodox seeds and germplasm of food and agricultural crops vs premier ICAR research bureau (HQ: Bengaluru) dedicated to insect taxonomy, molecular characterization, and biocontrol insect resources | राष्ट्रीय पादप आनुवंशिक संसाधन ब्यूरो (NBPGR, दिल्ली) / कृषि कीट संसाधन ब्यूरो (NBAIR, बेंगलुरु) |
+| **Wildlife Institute of India (WII)** | **Indira Gandhi National Forest Academy (IGNFA)** | Autonomous scientific research and training institute under MoEFCC (HQ: Dehradun) conducting wildlife ecological research and Tiger Census vs premier apex staff college (HQ: Dehradun) providing two-year professional induction training to directly recruited Indian Forest Service (IFS) officers | भारतीय वन्यजीव संस्थान (WII, अनुसंधान) / इंदिरा गांधी राष्ट्रीय वन अकादमी (IGNFA, IFS प्रशिक्षण) |
+| **India State of Forest Report (ISFR)** | **Basic Animal Husbandry Statistics** | Biennial statutory publication by Forest Survey of India (FSI, Dehradun) reporting state-wise forest cover, tree cover, mangrove cover, and forest carbon stocks vs annual publication by Ministry of Fisheries, Animal Husbandry & Dairying reporting livestock census, milk, egg, and meat production | भारत वन स्थिति रिपोर्ट (ISFR, द्विवार्षिक) / बुनियादी पशुपालन सांख्यिकी (वार्षिक) |
 ---
 
 ## Must-score facts — BSI ZSI FSI NBA NBPGR

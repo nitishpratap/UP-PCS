@@ -52,18 +52,15 @@ Habitat | Habitat Conservation | Flora and Fauna
 
 ## Confused Pairs
 
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **Habitat** | Physical **place** where an organism lives | निवास स्थान |
-| **Niche** | **Role/function** of a species in an ecosystem | पारिस्थितिक निच |
-| **Ecosystem** | Functional unit of biotic + abiotic interaction | पारिस्थितिकी तंत्र |
-| **Flora** | **Plant** life of a region | वनस्पति |
-| **Fauna** | **Animal** life of a region | जंतु |
-| **Microhabitat** | Small subdivision within a habitat | सूक्ष्म निवास |
-| **Transitional habitat** | Boundary ecosystem such as wetland or mangrove | संक्रमणक निवास |
-| **In-situ** | Conservation in **natural habitat** | स्थानिक संरक्षण |
-| **Ex-situ** | Conservation **outside** natural habitat | पारजी संरक्षण |
-
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
+| **Habitat** | **Ecological Niche** | Physical geographic environment and specific spatial location where an organism resides vs functional status, behavioral role, and trophic interactions of that species in the community | आवास / पारिस्थितिक निकेत |
+| **Flora** | **Fauna** | Total native plant species assemblages inhabiting a particular geographic region or geological era vs total native animal species inhabiting a region or era | वनस्पति (फ्लोरा) / प्राणीजात (फॉना) |
+| **Microhabitat** | **Ecotone** | Small, localized physical niche within a broader habitat (e.g., under a rotting log, a tree cavity) vs macro-scale transitional boundary ecosystem between two adjacent distinct biomes (e.g., marsh between dry land and water) | सूक्ष्म आवास (माइक्रोहैबिटैट) / इकोटोन (संक्रमणिका) |
+| **Keystone Species** | **Foundation Species** | Species having a disproportionately massive impact on ecosystem structure relative to its biomass (loss triggers ecological collapse; e.g. Fig tree, Sea Otter) vs dominant primary producer that physically creates and structures the habitat (e.g. Corals, Kelp, Mangroves) | कीस्टोन प्रजाति / आधारभूत (फाउंडेशन) प्रजाति |
+| **Umbrella Species** | **Flagship Species** | Wide-ranging species whose habitat protection automatically shields hundreds of co-occurring species (e.g. Tiger, Asian Elephant) vs charismatic, culturally iconic species chosen as marketing symbols to rally conservation campaigns (e.g. Giant Panda, Polar Bear) | छत्र (अंब्रेला) प्रजाति / प्रतीक (फ्लैगशिप) प्रजाति |
+| **Indicator Species** | **Invasive Species** | Species whose presence, absence, or abundance directly signals environmental stress or health (e.g. Lichens for SO₂ air pollution, Mayfly larvae for clean water) vs non-native species proliferating aggressively and threatening native ecology | जैव संकेतक प्रजाति / आक्रामक विदेशी प्रजाति |
+| **In-situ Conservation** | **Ex-situ Conservation** | On-site conservation in natural ecosystems (Sacred Groves, Wildlife Sanctuaries) vs off-site conservation under artificial human custody (Seed Banks, Tissue Culture Labs) | स्व-स्थाने संरक्षण / बाह्य-स्थाने संरक्षण |
 ---
 
 ## Must-score facts — habitat, flora–fauna, schemes

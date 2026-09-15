@@ -293,7 +293,6 @@ A. 3 2 1 4 B. 2 3 4 1 C. 2 4 3 1 D. 3 2 4 1
 | **Alamgirpur** | Meerut, **Hindon** | **Easternmost** IVC site in India |
 | **Hulas** | Baghpat | UP Harappan; PYQs **2018, 2020, 2025** |
 | **Mandi** | Bijnor, **Ramganga** | UP Harappan (2021, 2025) |
-
 | Often used as bait | Actual location |
 |--------------------|-----------------|
 | **Manda** | Jammu and Kashmir |

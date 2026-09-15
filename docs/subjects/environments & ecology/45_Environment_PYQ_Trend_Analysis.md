@@ -33,16 +33,15 @@
 
 ## Confused Pairs
 
-| Pair | Fact |
-|------|------|
-| Tagged count vs true ROI | Tagged Qs understate env marks — add Economy/Geography leakage |
-| 2020/2024 dip vs trend | Dips are anomalies; plan for **15–20** env marks |
-| Direct MCQ habit vs 2025 format | Multi-statement / A/R / Match now dominate |
-| LiFE COP-25 vs COP-26 | Idea **COP-26 2021**; launch **June 2022** |
-| MISHTI 2019 vs 2023 | **2023–24 Budget** mangrove scheme |
-| Montreal vs Kyoto | Ozone vs climate |
-| Nokrek–Manipur / UP BR claims | Nokrek = **Meghalaya**; UP has **zero** BRs |
-
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
+| **UPPCS Direct Questions** | **2024–2025 Multi-Statement Format** | Historical single-line factual recall questions vs modern complex Assertion-Reasoning, 4-statement matching, and chronological order puzzles | प्रत्यक्ष स्मृति प्रश्न / बहु-कथनीय कूट प्रारूप |
+| **Dedicated Environment Questions** | **True Environmental Weightage** | Official subject classification (~10–12 questions) vs actual interdisciplinary paper presence (~18–22 questions when counting geography/economy overlaps) | प्रत्यक्ष पर्यावरण प्रश्न / वास्तविक विषय भारांक |
+| **MISHTI Scheme (2023)** | **Mangrove Alliance for Climate (2022)** | Indian Union Budget 2023–24 programme for coastline mangrove plantation via MGNREGA/CAMPA vs international climate initiative launched by UAE and Indonesia at COP27 Sharm el-Sheikh | मिष्टी योजना (बजट 2023) / मैंग्रोव गठबंधन (MAC) |
+| **Nokrek Biosphere Reserve** | **Keibul Lamjao National Park** | Biosphere Reserve located in Garo Hills, **Meghalaya** (zero BRs in UP) vs floating National Park on Loktak Lake, **Manipur** | नोकरेक (मेघालय) / केइबुल लामजाओ (मणिपुर) |
+| **Kigali Amendment (2016)** | **Paris Agreement (2015)** | Binding phase-down of Hydrofluorocarbons (HFCs) under the Montreal Protocol vs global climate framework under UNFCCC capping warming at 1.5°C | किगाली संशोधन (एचएफसी कटौती) / पेरिस समझौता |
+| **Stockholm 1972** | **Stockholm 2001** | First UN global conference on the environment giving birth to UNEP vs binding international treaty banning Persistent Organic Pollutants (POPs) | स्टॉकहोम सम्मेलन (1972) / स्टॉकहोम संधि (2001) |
+| **National Green Tribunal (NGT)** | **Central Pollution Control Board (CPCB)** | Specialized judicial tribunal established under NGT Act 2010 for environmental disputes vs statutory executive regulatory board established under Water Act 1974 | राष्ट्रीय हरित अधिकरण (न्यायिक) / सीपीसीबी (कार्यकारी बोर्ड) |
 ## Must-score facts — volume, hot clusters, year traps
 
 ### Trend locks

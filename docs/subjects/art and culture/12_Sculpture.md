@@ -93,7 +93,6 @@ No new school-vs-stone CA (verified August 2026).
 | Bhumisparsha | Earth-touching |
 | Abhaya | Fearlessness |
 | Dhyana | Meditation |
-
 | Item | Lock |
 |------|------|
 | Human Buddha image | Common from **Kushan** age |

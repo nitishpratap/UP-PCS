@@ -175,7 +175,6 @@ Origin of Human Beings | Stone Age | Paleolithic Age | Mesolithic Age | Neolithi
 | **Mesolithic** | ~10,000 – 6000 BCE | Hunting-fishing; some sedentism | **Microliths** |
 | **Neolithic** | ~7000 – 1000 BCE (regional) | Food production | Ground stone + pottery + villages |
 | **Chalcolithic** | ~3000 – 1500 BCE | Farming + first metal | **Copper + stone** — **not** a fourth Stone Age |
-
 | Tool class | What it is | Typical period |
 |------------|------------|----------------|
 | **Chopper / chopping** | Pebble tool, one or both edges flaked | Lower Pal **Soanian** |
@@ -210,7 +209,6 @@ Origin of Human Beings | Stone Age | Paleolithic Age | Mesolithic Age | Neolithi
 | **Lower** | ~2 mya – 100,000 BP | **Handaxe, cleaver, chopper** — Acheulian / Soanian cores |
 | **Middle** | ~100,000 – 35,000 BP | **Points, borers, scrapers**; flake / Levallois |
 | **Upper** | ~35,000 – 10,000 BP | **Burins** with blades and scrapers; bone tools; ostrich-eggshell beads |
-
 | Lower Pal tradition | Zone | Fact |
 |---------------------|------|------|
 | **Soanian** | Soan–Siwalik (Punjab/Pakistan) | Pebble **chopper-chopping**; Yale–Cambridge team under **H. De Terra** (with Paterson), **1935** |

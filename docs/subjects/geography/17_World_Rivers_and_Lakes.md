@@ -429,7 +429,6 @@ A **moraine** is a **glacier** landform.
 | Washington DC | USA | Potomac | |
 | New York | USA | Hudson | |
 | **Hyderabad** | India | **Musi** (joins Krishna) | Not Godavari; not Paleru |
-
 | Phnom Penh | Cambodia | Mekong | |
 | Hanoi | Vietnam | Red River | |
 | Yangon | Myanmar | Irrawaddy | Former capital |
@@ -543,7 +542,6 @@ Match the dam to the river and the country pair.
 | Akosombo | Volta | Ghana | |
 | Nurek | Vakhsh | Tajikistan | |
 | Merowe | Nile | Sudan | |
-
 | Cahora Bassa | Zambezi | Mozambique | |
 | Kurobe | Kurobe | Japan | |
 | Grande Dixence | Dixence | Switzerland | |
@@ -568,7 +566,6 @@ Learn **superlative** and **type**. Endorheic lakes have no ocean outlet.
 | Lagoon / coastal | Chilika-type coastal idea. Barred coastal lakes |
 | Oxbow | Cut-off meander lakes on floodplains |
 | Endorheic | Caspian, Aral, Chad, Dead Sea, Eyre — inland, no sea outlet |
-
 | Lake | Country | Fresh / salt | |
 |------|---------|--------------|------|
 | **Caspian** | RU / IR / KZ / TM / AZ | Saline inland sea | **Largest lake** on Earth |

@@ -58,17 +58,15 @@ Ozone Layer | Ozone Depletion | Ozone Hole | Montreal Protocol
 
 ## Confused Pairs
 
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **Stratospheric ozone** | UV shield in stratosphere — "good ozone" | समताप मंडलीय ओज़ोन |
-| **Tropospheric ozone** | Ground-level pollutant from NOx + VOCs | क्षोभ मंडलीय ओज़ोन |
-| **Ozone depletion** | Fall in stratospheric ozone column | ओज़ोन क्षय |
-| **Ozone hole** | Antarctic spring area with ozone < 220 DU | ओज़ोन छिद्र |
-| **ODS** | CFCs, halons, and related ozone-destroying chemicals | ओज़ोन-क्षयकारी पदार्थ |
-| **Dobson Unit (DU)** | Measure of total ozone column | डॉबसन इकाई |
-| **Vienna Convention** | 1985 ozone protection framework | वियना सम्मेलन |
-| **Montreal Protocol** | 1987 binding ODS phase-out treaty | मॉन्ट्रियल प्रोटोकॉल |
-
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
+| **Stratospheric Ozone** | **Tropospheric Ozone** | Essential atmospheric shield absorbing harmful solar UV-B radiation (20–30 km altitude) vs toxic secondary pollutant and greenhouse gas causing smog and respiratory ailments | समतापमंडलीय ओजोन (सुरक्षा कवच) / क्षोभमंडलीय ओजोन (हानिकारक प्रदूषक) |
+| **Ozone Depletion** | **Ozone Hole** | Widespread gradual thinning of the stratospheric ozone layer globally caused by halogenated gases vs severe, seasonal Antarctic springtime drop where column ozone drops below 220 Dobson Units (DU) | ओजोन क्षरण (वैश्विक स्तर पर) / ओजोन छिद्र (अंटार्कटिक <220 DU) |
+| **Vienna Convention (1985)** | **Montreal Protocol (1987)** | Non-binding multilateral framework agreement establishing international cooperation on ozone research and monitoring vs legally binding international treaty mandating precise, phase-out timetables for ozone-depleting substances (ODS) | वियना कन्वेंशन (ढांचागत समझौता) / मॉन्ट्रियल प्रोटोकॉल (बाध्यकारी प्रतिबंध) |
+| **Chlorofluorocarbons (CFCs)** | **Hydrofluorocarbons (HFCs)** | Powerful ozone-depleting substances with high chlorine and high GWP (phased out under Montreal) vs zero-ODP fluorinated gases that do not harm ozone but are super greenhouse gases (phased down under 2016 Kigali Amendment) | सीएफसी (ओजोन विनाशक + GHG) / एचएफसी (केवल GHG, किगाली द्वारा नियंत्रित) |
+| **Dobson Unit (DU)** | **Parts Per Million (ppm)** | Standard unit measuring the total vertical column abundance of atmospheric ozone (1 DU = 0.01 mm thickness at STP; normal baseline ~300 DU) vs standard volumetric concentration ratio of trace gases in ambient air | डॉबसन यूनिट (स्तंभ ओजोन मोटाई) / पीपीएम (सान्द्रता अनुपात) |
+| **Polar Stratospheric Clouds (PSCs)** | **Cirrus Clouds** | High-altitude clouds forming in extreme Antarctic winter cold (-78°C / Type I and II) that catalyze chlorine release from reservoirs vs normal high-altitude wispy ice-crystal weather clouds in the upper troposphere | ध्रुवीय समतापमंडलीय बादल (PSCs) / पक्षाभ मेघ (ट्रोपोस्फेरिक) |
+| **Kigali Amendment (2016)** | **Paris Agreement (2015)** | Legally binding amendment to Montreal Protocol committing countries to progressively phase down consumption of hydrofluorocarbons (HFCs) by 80–85% vs UNFCCC climate framework agreement targeting global warming mitigation | किगाली संशोधन (HFC कटौती) / पेरिस समझौता (जलवायु लक्ष्य) |
 ---
 
 ## Must-score facts — good/bad ozone, Montreal, Kigali

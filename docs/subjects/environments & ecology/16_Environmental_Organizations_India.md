@@ -56,19 +56,14 @@ MoEFCC | CPCB | SPCB | NGT | NEERI | WII | BSI | ZSI | FSI
 
 ## Confused Pairs
 
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **MoEFCC** | Nodal ministry — policy, clearances, forest/wildlife laws | MoEFCC |
-| **CPCB** | Central pollution standards and national monitoring | CPCB |
-| **SPCB** | State pollution enforcement — consent to industries | SPCB |
-| **NGT** | Green tribunal — environmental appeals | NGT |
-| **WII** | Wildlife research and officer training | WII |
-| **BSI** | Plant survey and taxonomy | BSI |
-| **ZSI** | Animal survey and taxonomy | ZSI |
-| **FSI** | Forest cover assessment — ISFR publisher | FSI |
-| **ISFR** | India State of Forest Report — biennial | ISFR |
-| **NEERI** | CSIR environmental engineering lab — **Nagpur 1958** | NEERI |
-
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
+| **Botanical Survey of India (BSI)** | **Zoological Survey of India (ZSI)** | Apex national taxonomic survey of plant resources (founded 1890, HQ: Kolkata) publishing the Red Data Book of Indian Plants vs apex national survey of faunal resources (founded 1916, HQ: Kolkata) documenting animal biodiversity | भारतीय वनस्पति सर्वेक्षण (BSI, 1890) / भारतीय प्राणी सर्वेक्षण (ZSI, 1916) |
+| **Forest Survey of India (FSI)** | **Forest Research Institute (FRI)** | National organization (HQ: Dehradun) responsible for periodic remote-sensing assessment of forest cover and publishing the biennial India State of Forest Report (ISFR) vs premier academic research and deemed university under ICFRE (HQ: Dehradun) | भारतीय वन सर्वेक्षण (FSI, ISFR प्रकाशक) / वन अनुसंधान संस्थान (FRI) |
+| **Wildlife Institute of India (WII)** | **Wildlife Crime Control Bureau (WCCB)** | Autonomous research and training institute under MoEFCC (Dehradun) conducting wildlife ecology research and census vs statutory enforcement bureau created under WPA 1972 Sec 38Y (New Delhi) combating organized wildlife poaching and illegal trade | भारतीय वन्यजीव संस्थान (WII, अनुसंधान) / वन्यजीव अपराध नियंत्रण ब्यूरो (WCCB, प्रवर्तन) |
+| **Central Pollution Control Board (CPCB)** | **State Pollution Control Board (SPCB)** | Statutory apex body established under Water Act 1974 advising the Union Government, setting national ambient standards, and coordinating inter-state river/air monitoring vs state-level statutory body granting Consent to Establish/Operate to industrial units | केंद्रीय प्रदूषण नियंत्रण बोर्ड (मानक निर्माता) / राज्य प्रदूषण नियंत्रण बोर्ड (अनुमति प्रदाता) |
+| **National Green Tribunal (NGT)** | **Central Empowered Committee (CEC)** | Specialized statutory environmental court established under NGT Act 2010 with judicial and expert members deciding civil environmental disputes vs Supreme Court monitoring committee overseeing forest conservation and wildlife sanctuary clearances | राष्ट्रीय हरित अधिकरण (NGT, सांविधिक पीठ) / केंद्रीय अधिकार प्राप्त समिति (CEC) |
+| **National Environmental Engineering Research Institute (NEERI)** | **National Institute of Oceanography (NIO)** | CSIR premier lab specializing in water/air treatment, environmental engineering, and monitoring (founded 1958, Nagpur) vs CSIR oceanographic lab researching marine resources and ecology (Dona Paula, Goa) | नीरी (NEERI, नागपुर) / राष्ट्रीय समुद्र विज्ञान संस्थान (NIO, गोवा) |
 ---
 
 ## Must-score facts — MoEFCC, CPCB, NGT, surveys

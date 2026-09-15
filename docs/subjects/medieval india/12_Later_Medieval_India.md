@@ -62,32 +62,31 @@ Later Mughals | Disintegration of the Mughal Empire | Nadir Shah | Hyderabad Niz
 ## Confused Pairs
 
 | A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Blue Water vs Cartaze | Almeida’s ocean monopoly line vs Portuguese sea-pass fee | ब्लू वॉटर / कार्टाज़ |
-| Almeida vs Albuquerque | First Viceroy / Blue Water vs real founder / Goa 1510 | अल्मेदा / अल्बुकर्क |
-| Levant vs EIC 1600 | 1592 land-route charter vs sea company under Akbar | लेवेंट / ईआईसी |
-| Masulipatnam 1611 vs Surat 1613 | Temporary English factory vs first permanent | मसूलिपत्तनम / सूरत |
-| St. Thome vs Wandiwash | 1st Carnatic French win vs 1760 British win over Lally | सेंट थॉम / वांडीवाश |
-| Hooghly vs Chinsurah | Portuguese piracy base vs Dutch Fort Gustavus | हुगली / चिन्सुरा |
-| Gama vs Albuquerque | 1498 Calicut vs 1510 Goa | गामा / अल्बुकर्क |
-| Hawkins vs Roe | 1608 trader-envoy vs 1615–19 ambassador | हॉकिन्स / रो |
-| EIC 1600 vs VOC 1602 | English charter vs Dutch company | ईआईसी / वीओसी |
-| Cartaze vs Farman | Portuguese sea-pass vs Mughal grant | कार्टाज़ / फ़रमान |
-| Pondicherry vs Tranquebar | French vs Danish | पांडिचेरी / ट्रैंकेबार |
-| Chandernagore vs Serampore | French Bengal vs Danish Bengal | चंद्रनगर / श्रीरामपुर |
-| Surat vs Madras vs Calcutta | 1612 / 1640 / ~1698 | सूरत / मद्रास / कलकत्ता |
-| Aix-la-Chapelle vs Paris | 1748 1st Carnatic vs 1763 Seven Years’ War | 1748 / 1763 |
-| Dupleix vs Clive | French Carnatic vs English Arcot/Plassey | डुप्ले / क्लाइव |
-| Bahadur Shah I vs Zafar | 1707 successor of Aurangzeb vs last Mughal 1837–57 | बहादुर शाह I / ज़फ़र |
-| Rangeela vs Farrukh Siyar | Muhammad Shah (Peacock Throne / Nadir) vs 1717 Bengal farman | रंगीला / फ़र्रुख़ |
-| Sayyid brothers vs Zulfiqar Khan | King-makers vs Jahandar’s kingmaker | सैय्यद / ज़ुल्फ़िक़ार |
-| Nizam vs Saadat Khan | Hyderabad 1724 vs Awadh 1722 | निज़ाम / सआदत |
-| Jai Singh observatories | Five cities including Mathura; not Allahabad | जय सिंह |
-| Saadat Khan vs Murshid Quli | Awadh 1722 vs Bengal Nawabi | सआदत / मुर्शिद क़ुली |
-| Fitch vs Bernier | English 1580s vs French Aurangzeb court | फिच / बर्नियर |
-| 1608 vs 1611 | Hawkins arrives **1608** vs trap year **1611** | 1608 / 1611 |
-| Awadh 1722 vs annex 1856 | Nawabi start vs Dalhousie end | 1722 / 1856 |
-
+|---|---|------------|-------|
+| Blue Water | Cartaze | Almeida’s ocean monopoly line vs Portuguese sea-pass fee | ब्लू वॉटर / कार्टाज़ |
+| Almeida | Albuquerque | First Viceroy / Blue Water vs real founder / Goa 1510 | अल्मेदा / अल्बुकर्क |
+| Levant | EIC 1600 | 1592 land-route charter vs sea company under Akbar | लेवेंट / ईआईसी |
+| Masulipatnam 1611 | Surat 1613 | Temporary English factory vs first permanent | मसूलिपत्तनम / सूरत |
+| St. Thome | Wandiwash | 1st Carnatic French win vs 1760 British win over Lally | सेंट थॉम / वांडीवाश |
+| Hooghly | Chinsurah | Portuguese piracy base vs Dutch Fort Gustavus | हुगली / चिन्सुरा |
+| Gama | Albuquerque | 1498 Calicut vs 1510 Goa | गामा / अल्बुकर्क |
+| Hawkins | Roe | 1608 trader-envoy vs 1615–19 ambassador | हॉकिन्स / रो |
+| EIC 1600 | VOC 1602 | English charter vs Dutch company | ईआईसी / वीओसी |
+| Cartaze | Farman | Portuguese sea-pass vs Mughal grant | कार्टाज़ / फ़रमान |
+| Pondicherry | Tranquebar | French vs Danish | पांडिचेरी / ट्रैंकेबार |
+| Chandernagore | Serampore | French Bengal vs Danish Bengal | चंद्रनगर / श्रीरामपुर |
+| Surat | Madras vs Calcutta | 1612 / 1640 / ~1698 | सूरत / मद्रास / कलकत्ता |
+| Aix-la-Chapelle | Paris | 1748 1st Carnatic vs 1763 Seven Years’ War | 1748 / 1763 |
+| Dupleix | Clive | French Carnatic vs English Arcot/Plassey | डुप्ले / क्लाइव |
+| Bahadur Shah I | Zafar | 1707 successor of Aurangzeb vs last Mughal 1837–57 | बहादुर शाह I / ज़फ़र |
+| Rangeela | Farrukh Siyar | Muhammad Shah (Peacock Throne / Nadir) vs 1717 Bengal farman | रंगीला / फ़र्रुख़ |
+| Sayyid brothers | Zulfiqar Khan | King-makers vs Jahandar’s kingmaker | सैय्यद / ज़ुल्फ़िक़ार |
+| Nizam | Saadat Khan | Hyderabad 1724 vs Awadh 1722 | निज़ाम / सआदत |
+| 5 Observatories (Delhi, Jaipur, Ujjain, Varanasi, Mathura) | Non-observatory cities (Agra, Allahabad) | Five cities including Mathura; not Allahabad | जय सिंह |
+| Saadat Khan | Murshid Quli | Awadh 1722 vs Bengal Nawabi | सआदत / मुर्शिद क़ुली |
+| Fitch | Bernier | English 1580s vs French Aurangzeb court | फिच / बर्नियर |
+| 1608 | 1611 | Hawkins arrives **1608** vs trap year **1611** | 1608 / 1611 |
+| Awadh 1722 | annex 1856 | Nawabi start vs Dalhousie end | 1722 / 1856 |
 ---
 
 ## Must-score facts — Europeans, Awadh, Later Mughals

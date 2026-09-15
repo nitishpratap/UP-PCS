@@ -62,25 +62,16 @@ Environment – Meaning | Environmental Components | Classification of Environme
 
 ## Confused Pairs
 
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **Environment** | Total biotic + abiotic surroundings affecting an organism | पर्यावरण |
-| **Ecology** | *Study* of organism–environment interactions | पारिस्थितिकी |
-| **Ecosystem** | Functional *unit* where living + non-living interact | पारिस्थितिकी तंत्र |
-| **Habitat** | *Place* where an organism lives | निवास स्थान |
-| **Niche** | *Role* of a species in an ecosystem | पारिस्थितिक निचे |
-| **Abiotic** | Non-living components | अजैविक |
-| **Biotic** | Living components | जैविक |
-| **Lentic** | Standing water ecosystem | स्थिर जल |
-| **Lotic** | Flowing water ecosystem | प्रवाही जल |
-| **Liebig's Law** | Growth limited by scarcest essential resource | लाइबिग का न्यूनतम नियम |
-| **Shelford's Law** | Species survives only within min–max tolerance range | शेलफोर्ड का सहन नियम |
-| **Internal environment** | Conditions inside organism (physiology) | आंतरिक पर्यावरण |
-| **External environment** | Conditions outside organism (ecology default) | बाह्य पर्यावरण |
-| **Physical environment** | Landforms, water, climate, soils, rocks, minerals | भौतिक पर्यावरण |
-| **Biological environment** | Plants, animals, microorganisms | जैविक पर्यावरण |
-| **Cultural environment** | Man-made social, economic, and political features | सांस्कृतिक पर्यावरण |
-
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
+| **Environment** | **Ecology** | Total biotic and abiotic surroundings influencing an organism vs the scientific *study* of interactions between organisms and environment | पर्यावरण / पारिस्थितिकी |
+| **Ecology** | **Ecosystem** | Scientific discipline/field of study (Ernst Haeckel 1866) vs functional, structural ecological *unit* of nature (A.G. Tansley 1935) | पारिस्थितिकी / पारिस्थितिकी तंत्र |
+| **Habitat** | **Ecological Niche** | Physical address / geographical place where an organism lives vs functional profession / ecological role of a species in an ecosystem | वास स्थान / पारिस्थितिक निकेत (Niche) |
+| **Biotic Components** | **Abiotic Components** | Living organisms (producers, consumers, decomposers) vs non-living physical and chemical factors (light, temperature, soil, water) | जैविक घटक / अजैविक घटक |
+| **Lentic Ecosystem** | **Lotic Ecosystem** | Standing or stagnant fresh water bodies (ponds, lakes, bogs, swamps) vs running or flowing fresh water bodies (rivers, streams, brooks) | स्थिर जल (लैंटिक) / प्रवाही जल (लोटिक) |
+| **Liebig's Law of the Minimum** | **Shelford's Law of Tolerance** | Population growth is controlled by the scarcest limiting resource vs species survival requires environmental factors to remain between minimum and maximum tolerance limits | लाइबिग का न्यूनतम नियम / शेलफोर्ड का सहनशीलता नियम |
+| **Internal Environment** | **External Environment** | Biochemical and physiological conditions within an organism (homeostasis) vs physical surroundings external to the organism | आंतरिक पर्यावरण / बाह्य पर्यावरण |
+| **Physical Environment** | **Biological Environment** | Inanimate non-living components (lithosphere, hydrosphere, atmosphere) vs living communities of flora, fauna, and microbes | भौतिक पर्यावरण / जैविक पर्यावरण |
 ---
 
 ## Must-score facts — spheres, laws, articles, days
@@ -191,7 +182,6 @@ D. Only 1
 | **Edaphic** | Soil texture, minerals, pH, moisture | मृदा संबंधी |
 | **Climatic** | Temperature, rainfall, wind, humidity | जलवायु संबंधी |
 | **Topographic** | Altitude, slope, aspect | स्थलाकृति संबंधी |
-
 | Biotic group | Also called | Function |
 |--------------|-------------|----------|
 | **Producers** | Autotrophs | Convert solar energy → chemical energy |
@@ -266,7 +256,6 @@ D. Sugarcane
 | **Lotic** | **Flowing** freshwater | Ganga, Yamuna |
 | **Estuarine** | River meets sea — brackish | Sundarbans delta |
 | **Wetland** | Transitional — neither fully land nor water | Chilika, Keoladeo |
-
 | Marine zone | Location | Key fact |
 |-------------|----------|-----------|
 | **Neritic** | Shallow shelf (0–200 m) | Fisheries, coral, mangroves |
@@ -387,7 +376,6 @@ D. Marshy areas
 | **Environmental Determinism** | Ratzel | Environment **dictates** culture/society | Largely **rejected** |
 | **Possibilism** | Vidal de la Blache | Environment offers **possibilities**; humans choose | **Accepted** |
 | **Neo-determinism** | Griffith Taylor | Humans modify environment **within limits** | Balanced view |
-
 | Concept | Definition / fact |
 |---------|-------------------|
 | **Carrying capacity** | Maximum load an environment can sustain indefinitely. Resource extraction must stay **below** regeneration. Waste must stay **within** absorption capacity |

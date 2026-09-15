@@ -52,14 +52,13 @@ UNEP | UNDP | FAO | UNESCO | IUCN | WWF | IPCC | WMO | GEF | Greenpeace
 
 ## Confused Pairs
 
-| Pair | Fact |
-|------|------|
-| **UNEP / UNDP** | Environment programme / development + HDR |
-| **IPCC / UNFCCC** | Science assessment / climate treaty |
-| **IUCN / CITES** | Red List risk / trade regulation |
-| **IUCN / WWF** | Assessment union / conservation NGO |
-| **UNESCO / UNEP** | Heritage–education–MAB / environment coordination |
-
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
+| **UNEP** | **UNDP** | UN environmental coordinator established post-1972 Stockholm Conference (HQ: Nairobi, Kenya) vs UN development network producing the Human Development Index (HQ: New York) | यूएनईपी (नैरोबी, पर्यावरण) / यूएनडीपी (न्यूयॉर्क, विकास) |
+| **IPCC** | **UNFCCC** | Scientific review panel established in 1988 by WMO/UNEP to assess peer-reviewed climate data (HQ: Geneva) vs legally binding treaty secretariat coordinating annual COPs (HQ: Bonn, Germany) | आईपीसीसी (वैज्ञानिक समीक्षा) / यूएनएफसीसीसी (वार्ता सचिवालय) |
+| **IUCN** | **WWF** | Oldest global conservation union (1948, Gland) publishing the Red List of Threatened Species vs private international conservation NGO (1961, Gland) famous for Giant Panda logo and Earth Hour | आईयूसीएन (रेड लिस्ट) / डब्ल्यूडब्ल्यूएफ (पांडा प्रतीक) |
+| **CITES** | **CMS (Bonn Convention)** | Regulates commercial cross-border trade in endangered species of wild flora and fauna (1973) vs promotes conservation and habitat protection for migratory wild animal species (1979) | साइट्स (वन्यजीव व्यापार) / बॉन कन्वेंशन (प्रवासी प्रजातियां) |
+| **Global Environment Facility (GEF)** | **Green Climate Fund (GCF)** | Multilateral financial mechanism (World Bank 1991) serving CBD, UNCCD, Stockholm, Minamata, and UNFCCC vs dedicated operating financial entity of UNFCCC created at COP16 Cancun | जीईएफ (वैश्विक पर्यावरण कोष) / जीसीएफ (हरित जलवायु कोष) |
 ---
 
 ## Must-score facts — UNEP UNDP IUCN IPCC HQs

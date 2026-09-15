@@ -62,15 +62,14 @@ Ozone Layer | Ozone Depletion | Ozone Hole | Ozone Depleting Substances (ODS) | 
 
 ## Confused Pairs
 
-| Term | One-line fact |
-|------|---------------|
-| **Stratospheric / Tropospheric O₃** | UV shield / pollutant + GHG |
-| **Ozone depletion / Ozone hole** | Column loss / Antarctic region < 220 DU |
-| **ODS / HFC** | Ozone destroyers / climate warmers (Kigali) |
-| **Vienna / Montreal** | 1985 framework / 1987 binding phase-out |
-| **ODP / GWP** | Ozone damage potential / heat-trapping potential |
-| **Dobson Unit** | Column ozone measure |
-
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
+| **Stratospheric Ozone** | **Tropospheric Ozone** | Beneficial atmospheric filter blocking lethal solar UV radiation vs harmful photochemical smog component damaging human lungs and crop yields | समतापमंडलीय ओजोन (सुरक्षा कवच) / क्षोभमंडलीय ओजोन (प्रदूषक) |
+| **Ozone Depletion** | **Ozone Hole** | Global thinning of the stratospheric ozone layer by ODS vs severe seasonal Antarctic drop in total column ozone below 220 Dobson Units (DU) | ओजोन क्षरण / ओजोन छिद्र (<220 DU) |
+| **Vienna Convention (1985)** | **Montreal Protocol (1987)** | Non-binding framework agreement establishing ozone research/cooperation vs binding international protocol mandating specific phase-out schedules for ODS | वियना कन्वेंशन (1985) / मॉन्ट्रियल प्रोटोकॉल (1987) |
+| **Chlorofluorocarbons (CFCs)** | **Hydrofluorocarbons (HFCs)** | Chlorine-bearing potent ozone depleters + GHGs (phased out under Montreal) vs zero ODP non-ozone-depleting refrigerants that are super greenhouse gases (phased down under Kigali) | सीएफसी (ओजोन क्षयकारी) / एचएफसी (ग्रीनहाउस गैस) |
+| **Ozone Depletion Potential (ODP)** | **Global Warming Potential (GWP)** | Measure of substance's ability to destroy O₃ relative to CFC-11 (=1.0) vs measure of heat-trapping efficiency relative to CO₂ (=1.0) over 100 years | ओजोन रिक्तीकरण क्षमता (ODP) / वैश्विक तापन क्षमता (GWP) |
+| **Dobson Unit (DU)** | **Parts Per Million (ppm)** | Standard measure of atmospheric column ozone thickness (1 DU = 0.01 mm at STP; normal = ~300 DU) vs concentration ratio of gases in volume | डॉबसन यूनिट (DU) / पीपीएम (ppm) |
 ---
 
 ## Must-score facts — DU, ODS, Vienna–Montreal–Kigali

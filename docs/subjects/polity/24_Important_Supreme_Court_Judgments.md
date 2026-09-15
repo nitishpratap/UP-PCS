@@ -101,8 +101,8 @@ D. Gopi Aqua vs. Union of India
 
 ## Confused Pairs
 
-| Term A | Term B | Core difference |
-|--------|--------|-----------------|
+| Term A | Term B | Core difference | Hindi Terminology |
+| -------- | -------- | ----------------- | -------- / -------- |
 | ***Gopalan* 1950** | ***Maneka* 1978** | Any procedure in a valid law; FRs in **silos** | Procedure must be **fair/just/reasonable**; **14-19-21** together |
 | ***Golaknath* 1967** | ***Kesavananda* 1973** | FR **cannot** be amended | FR **can**; **basic structure** cannot |
 | ***Shankari / Sajjan*** | ***Golaknath*** | 368 includes Part III | 368 is “law” under **13** → Part III frozen |

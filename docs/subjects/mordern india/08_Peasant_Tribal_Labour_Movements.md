@@ -1,6 +1,6 @@
 # Topic 8 — Peasant, Tribal & Labour Movements
 
-### â˜… UPPCS Revision Sheet — Lucent / PW style (one home per fact Â· no repetition Â· Practice â‰¥45)
+### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥45)
 
 <details>
 
@@ -12,7 +12,7 @@ Peasant Movements | Peasant Revolts | Leaders | Tribal Revolts | Tribal Leaders 
 
 > **Sources baked in:** NCERT Themes III, Spectrum, Bipan Chandra, Ghatnachakra Purvalokan (Other Civil Uprisings; Peasant Movement and Kisan Sabha), UPPCS Prelims 2018–2025
 
-> **Weight:** â˜…â˜…â˜… — revoltâ†”year, revoltâ†”leader, peasant chronology, UP Kisan Sabha, unionâ†”party
+> **Weight:** ★★★ — revolt↔year, revolt↔leader, peasant chronology, UP Kisan Sabha, union↔party
 
 > **Last verified:** September 2026 gap audit — CCR confirmed on major revolts; encoding/spacing pass; Vellore CCR added; Extra Drill present (no invented mega banks)
 
@@ -32,9 +32,9 @@ Peasant Movements | Peasant Revolts | Leaders | Tribal Revolts | Tribal Leaders 
 
 5. **Kol Rebellion (1831–32)** in Chotanagpur involved leaders such as **Buddhu Bhagat**. **Santhal Hul (1855–56)** was led by **Sidhu and Kanhu** in the Rajmahal / Santhal Parganas belt.
 
-6. **Indigo Revolt (1859–60). Cause** — European planters’ forced indigo and *dadan*. **Course** — Biswas brothers in Nadia and wider Bengal resistance. **Result** — **Indigo Commission 1860** and a check on planter power.
+6. **Indigo Revolt (1859–60). Cause** — European planters' forced indigo and *dadan*. **Course** — Biswas brothers in Nadia and wider Bengal resistance. **Result** — **Indigo Commission 1860** and a check on planter power.
 
-7. **Deccan Riots (1875). Cause** — moneylender (*sahukar*) grip in Poona–Ahmednagar. **Course** — crowds attacked creditor power. **Result** — **Deccan Agriculturists’ Relief Act, 1879**.
+7. **Deccan Riots (1875). Cause** — moneylender (*sahukar*) grip in Poona–Ahmednagar. **Course** — crowds attacked creditor power. **Result** — **Deccan Agriculturists' Relief Act, 1879**.
 
 8. **Pabna agrarian leagues (1873–85)** fought **zamindar rent-hikes** in Bengal — not the same grievance as indigo planters in 1859–60.
 
@@ -42,13 +42,13 @@ Peasant Movements | Peasant Revolts | Leaders | Tribal Revolts | Tribal Leaders 
 
 10. **Kuka (Namdhari) rising (~1872)** under **Baba Ram Singh** belongs to Punjab — keep it distinct from Bengal peasant leagues.
 
-11. **Champaran (1917)** attacked the **tinkathia** indigo system with Gandhi’s satyagraha method. **Kheda (1918)** was a Gujarat no-revenue satyagraha in crop-failure conditions.
+11. **Champaran (1917)** attacked the **tinkathia** indigo system with Gandhi's satyagraha method. **Kheda (1918)** was a Gujarat no-revenue satyagraha in crop-failure conditions.
 
 12. **UP Kisan Sabha (1918)** is keyed to **Indra Narayan Dwivedi** (with Gauri Shankar Mishra) — **not** Baba Ramchandra, Sahajanand or Nehru.
 
 13. **Oudh Kisan Sabha (October 1920, Pratapgarh)** was mobilised by **Baba Ramchandra**. **Eka (1921–22)** under **Madari Pasi** stressed rent receipts and oath-bound unity in Hardoi–Bahraich–Sitapur.
 
-14. **Moplah / Malabar (1921)** mixed tenancy grievance with a violent phase under leaders such as **Ali Musliyar** and **Variyamkunnath**. **Bardoli (1928)** was Vallabhbhai Patel’s Gujarat no-tax satyagraha — different method and region.
+14. **Moplah / Malabar (1921)** mixed tenancy grievance with a violent phase under leaders such as **Ali Musliyar** and **Variyamkunnath**. **Bardoli (1928)** was Vallabhbhai Patel's Gujarat no-tax satyagraha — different method and region.
 
 15. **Tebhaga (1946–47)** in Bengal demanded a **two-thirds** share for sharecroppers. **Telangana (1946–51)** was the CPI-led armed anti-*jagirdar* struggle in Hyderabad State — if the stem says Nizam / Razakars / *dalams*, fact Telangana.
 
@@ -87,35 +87,20 @@ Peasant Movements | Peasant Revolts | Leaders | Tribal Revolts | Tribal Leaders 
 ## Confused Pairs
 
 | A | B | Difference | Hindi |
-
 |---|----|------------|-------|
-
 | Peasant revolt | Tribal revolt | Rent / indigo / zamindar of settled cultivators vs land–forest–*diku* in tribal belts | किसान / जनजातीय |
-
 | Indigo 1859–60 | Pabna 1873–85 | European planters vs zamindar rent-hikes | नील / पाबना |
-
 | Santhal 1855 | Munda Ulgulan 1899–1900 | Sidhu–Kanhu vs Birsa Munda | संथाल / मुंडा |
-
 | Kol 1831 | Khasi 1829 | Chotanagpur vs Meghalaya hills (Tirut Singh) | कोल / खासी |
-
 | Ahom 1828 | Ahom 1815 | Correct year vs **2018 trap year** | अहोम |
-
 | Moplah 1921 | Bardoli 1928 | Malabar tenants (violent phase) vs Gujarat no-tax satyagraha | मोपला / बारडोली |
-
 | Tebhaga | Eka | Bengal 1946 share 2/3 vs Awadh 1921–22 rent receipts | तेभागा / एका |
-
 | AITUC 1920 | INTUC 1947 | CPI stream vs Congress labour wing | एटक / इंटक |
-
-| UTUC | CITU | UPPCS maps UTUC â†’ CPI(M); CITU is the real CPI(M) centre (1970) | à¤¯à¥‚à¤Ÿà¥€à¤¯à¥‚à¤¸à¥€ / à¤¸à¥€à¤Ÿà¥‚ |
-
+| UTUC | CITU | UPPCS maps UTUC → CPI(M); CITU is the real CPI(M) centre (1970) | यूटीयूसी / सीटू |
 | Dwivedi | Baba Ramchandra | UP Kisan Sabha **1918** founder tag vs Awadh peasant mobiliser | द्विवेदी / बाबा रामचंद्र |
-
 | Bareilly 1816 | Bareilly 1857 | Mufti Muhammad Aiwaz vs Khan Bahadur Khan | बरेली |
-
 | Bonded labour | Wage labour | Debt-tied unfree work vs paid factory / mill labour | बंधुआ मजदूरी / मजदूरी |
-
 | Tebhaga 1946–47 | Telangana 1946–51 | Bengal sharecrop share-demand vs Hyderabad armed anti-*jagirdar* struggle | तेभागा / तेलंगाना |
-
 | Eka 1921–22 | Awadh Kisan Sabha ~1920 | Madari Pasi's rent-receipt oath vs Baba Ramchandra's broader mobilisation | एका / अवध |
 
 ---
@@ -155,9 +140,9 @@ Peasant Movements | Peasant Revolts | Leaders | Tribal Revolts | Tribal Leaders 
 |------|------|-----|
 | Madras Labour Union | 1918 | V.P. Wadia |
 | ILO Washington rep | 1919 | N.M. Joshi |
-| AITUC | 1920 | Lala Lajpat Rai first president; UPPCS maps â†’ CPI |
+| AITUC | 1920 | Lala Lajpat Rai first president; UPPCS maps → CPI |
 | INTUC | 1947 | Congress |
-| UTUC | 1949 | UPPCS maps â†’ CPI(M) |
+| UTUC | 1949 | UPPCS maps → CPI(M) |
 | BMS | 1955 | Dattopant Thengadi; BJP/RSS |
 
 ### One-home rule (do not duplicate)
@@ -177,14 +162,10 @@ Peasant Movements | Peasant Revolts | Leaders | Tribal Revolts | Tribal Leaders 
 This chapter is **not** one long list. Hold three separate streams; every card below plugs into one of them.
 
 | Stream | Core grievance | Typical method | Arc across the chapter |
-
 |--------|----------------|-----------------|-------------------------|
-
-| **Peasant** | Rent, revenue, eviction, indigo/tinkathia, sharecrop share | Legal league â†’ satyagraha â†’ sharecropper strike â†’ armed struggle | Pabna (1873) â†’ Champaran/Kheda/Eka (1917–22) â†’ Bardoli (1928) â†’ Tebhaga / **Telangana** (1946–51) |
-
-| **Tribal** | Land, forest rights, *diku* moneylenders, *begar* | Millenarian faith + armed rising | Kol (1831) â†’ Santhal (1855) â†’ Munda (1899) â†’ Tana Bhagat / Rampa (1914–24) |
-
-| **Labour** | Wages, hours, union recognition | Strike â†’ union â†’ legislation â†’ party-linked federation | Madras Labour Union (1918) â†’ AITUC (1920) â†’ post-1947 party-wise split (INTUC/UTUC/BMS/CITU) |
+| **Peasant** | Rent, revenue, eviction, indigo/tinkathia, sharecrop share | Legal league → satyagraha → sharecropper strike → armed struggle | Pabna (1873) → Champaran/Kheda/Eka (1917–22) → Bardoli (1928) → Tebhaga / **Telangana** (1946–51) |
+| **Tribal** | Land, forest rights, *diku* moneylenders, *begar* | Millenarian faith + armed rising | Kol (1831) → Santhal (1855) → Munda (1899) → Tana Bhagat / Rampa (1914–24) |
+| **Labour** | Wages, hours, union recognition | Strike → union → legislation → party-linked federation | Madras Labour Union (1918) → AITUC (1920) → post-1947 party-wise split (INTUC/UTUC/BMS/CITU) |
 
 - Peasant and tribal streams **overlap in method** (both used armed resistance early, satyagraha later) but differ in the **target**: rent-collecting landlords/zamindars for peasants, *diku* outsiders and forest law for tribals.
 
@@ -201,55 +182,30 @@ This chapter is **not** one long list. Hold three separate streams; every card b
 Use this table only to **order** revolts. Causes, course and results sit in the cards that follow.
 
 | Revolt | Year | Region | Leader tag |
-
 |--------|-------------|--------|------------|
-
 | Sanyasi–Fakir | ~1763–1800 | Bengal–Bihar | Majnu Shah / Bhawani Pathak |
-
 | Bengal Sepoy (Buxar field) | **1764** | Bengal | Battalion joins Mir Qasim |
-
 | Vellore Mutiny | **1806** | Vellore | Sepoy religious-custom spark (Barlow) |
-
 | Waghera | **1818–19** | Baroda | Waghera chiefs vs Company/Gaekwad |
-
 | Ho | **1820–21** | Singhbhum / Santhal sub-div. | Ho tribals |
-
 | Kutch | **1819–31** | Kutch | Local rebellion |
-
 | Velu Thampi | **~1809** | Travancore (Kerala) | Diwan Velu Thampi + Nair support |
-
 | Gadakari | **1844** | Kolhapur | Fort hereditary servants |
-
 | Khond (Mariah) | **1846–55** | Odisha hills | Chakra Bisoi |
-
 | Paika | 1817 | Odisha | Jagabandhu Bidyadhar |
-
 | Ahom | **1828** | Assam | Gomdhar Konwar |
-
 | Khasi | **1829** | Meghalaya | Tirut Singh |
-
 | Kol | **1831–32** | Chotanagpur | Buddhu Bhagat & others |
-
 | Santhal | **1855–56** | Rajmahal / Santhal Parganas | Sidhu & Kanhu |
-
 | Indigo | **1859–60** | Bengal | Biswas brothers |
-
 | Kuka (Namdhari) | **~1872** | Punjab | Baba Ram Singh |
-
 | Pabna | **1873–85** | Bengal | Ishan Chandra Roy / agrarian leagues |
-
 | Deccan Riots | **1875** | Maharashtra | Crowds vs *sahukars* |
-
 | Munda Ulgulan | **1899–1900** | Chotanagpur | Birsa Munda |
-
 | Tana Bhagat | **1914** | Chotanagpur | Jatra Oraon |
-
 | Moplah | **1921** | Malabar | Variyamkunnath / Ali Musliyar |
-
 | Eka | **1921–22** | Awadh (UP) | Madari Pasi |
-
 | Bardoli | **1928** | Gujarat | Vallabhbhai Patel |
-
 | Tebhaga | **1946–47** | Bengal | Sharecroppers + Kisan Sabha / CPI |
 
 - Chronology: Sanyasi, then Indigo, then Kuka, then Pabna.
@@ -504,7 +460,7 @@ D. 4, 2, 3, 1
 
 - The government granted partial relief on the revenue demand.
 
-> **Logic:** Kheda **1918** â‰  Bardoli **1928**. Both are Gujarat revenue satyagrahas; Bardoli is the bigger Patel card.
+> **Logic:** Kheda **1918** ≠ Bardoli **1928**. Both are Gujarat revenue satyagrahas; Bardoli is the bigger Patel card.
 
 ### Oudh (Awadh) Kisan Sabha (October 1920)
 
@@ -536,7 +492,7 @@ D. 4, 2, 3, 1
 
 - The more radical **Eka Movement (1921–22)** under **Madari Pasi** grew partly out of this same Awadh discontent when Congress pulled back from the sharper edge of tenant anger.
 
-> **Logic:** **1918 UP Kisan Sabha** (Dwivedi) â†’ **October 1920 Oudh Kisan Sabha** (Ramchandra) â†’ **1921–22 Eka** (Madari Pasi). Three different Awadh-belt bodies, three different years.
+> **Logic:** **1918 UP Kisan Sabha** (Dwivedi) → **October 1920 Oudh Kisan Sabha** (Ramchandra) → **1921–22 Eka** (Madari Pasi). Three different Awadh-belt bodies, three different years.
 
 ### All India Kisan Sabha (1936)
 
@@ -559,21 +515,13 @@ D. 4, 2, 3, 1
 ## 8.3 Peasant Leaders
 
 | Leader | Movement / tag | Do not confuse with |
-
 |--------|----------------|---------------------|
-
 | **Indra Narayan Dwivedi** | **UP Kisan Sabha, 1918** (with Gauri Shankar Mishra; Malaviya support) | Baba Ramchandra |
-
 | **Gauri Shankar Mishra** | Co-organiser of the 1918 Sabha | — |
-
 | **Baba Ramchandra** | Awadh peasant mobiliser; **Oudh Kisan Sabha** stream (~1920) | 1918 founder answer |
-
 | **Madari Pasi** | **Eka**, 1921–22 | Dwivedi |
-
 | **Swami Sahajanand Saraswati** | **AIKS 1936** stream | 1918 UP Sabha |
-
 | **Digambar & Bishnu Biswas** | Indigo, Nadia | Birsa |
-
 | **Vallabhbhai Patel** | Bardoli 1928 | Moplah |
 
 - In **February 1918** the **United Provinces Kisan Sabha** was formed at **Lucknow**.
@@ -720,15 +668,15 @@ D. Pt. Jawaharlal Nehru
 
 Match **List-I** with **List-II** and select the correct answer using the codes given below the lists:
 
-**List-I (Movement)**â€ƒâ€ƒ**List-II (Year)**
+**List-I (Movement)**  **List-II (Year)**
 
-A. Pabnaâ€ƒâ€ƒ1. 1855-56
+A. Pabna  1. 1855-56
 
-B. Ekaâ€ƒâ€ƒ2. 1873-85
+B. Eka  2. 1873-85
 
-C. Santhalâ€ƒâ€ƒ3. 1922
+C. Santhal  3. 1922
 
-D. Tana Bhagatâ€ƒâ€ƒ4. 1914
+D. Tana Bhagat  4. 1914
 
 A. 1 2 4 3
 
@@ -986,7 +934,7 @@ D. 4 3 2 1
 
 - Tana Bhagat movement is correctly tagged **1914**.
 
-> **Logic:** Tana Bhagat **1914** â‰  Eka **1922** â‰  Pabna **1873**. Oraon, not Munda/Birsa.
+> **Logic:** Tana Bhagat **1914** ≠ Eka **1922** ≠ Pabna **1873**. Oraon, not Munda/Birsa.
 
 ### Rampa / Manyam Rebellion (1922–24)
 
@@ -1054,7 +1002,7 @@ D. 4 3 2 1
 
 **Wahabi (anti-British edge — full stream in Topic 6)**
 
-- *Cause/Course:* **Sayyid Ahmad of Rae Bareli** built a militant revivalist network (inspired in India by **Shah Waliullah’s** lineage of reform). He briefly held **Peshawar (~1830)** and died at **Balakot (1831)**. After his death **Patna** became the main Indian centre (Inayat Ali, Wilayat Ali and others).
+- *Cause/Course:* **Sayyid Ahmad of Rae Bareli** built a militant revivalist network (inspired in India by **Shah Waliullah's** lineage of reform). He briefly held **Peshawar (~1830)** and died at **Balakot (1831)**. After his death **Patna** became the main Indian centre (Inayat Ali, Wilayat Ali and others).
 
 - *Result:* A long underground challenge to Company power; do not confuse with Aligarh loyalism.
 
@@ -1078,9 +1026,9 @@ D. 4 3 2 1
 
 - *Cause:* Early revolutionary anger at colonial rule in western India.
 
-- *Course:* **Phadke (1845–83)** organised Ramosi hill-people into a fighting force and founded a **Ramosi farmers’ group**.
+- *Course:* **Phadke (1845–83)** organised Ramosi hill-people into a fighting force and founded a **Ramosi farmers' group**.
 
-- *Result:* He was captured and died in custody (**1883**). Keep him distinct from Umaji Naik’s earlier Ramosi unrest.
+- *Result:* He was captured and died in custody (**1883**). Keep him distinct from Umaji Naik's earlier Ramosi unrest.
 
 **Gadakari rising (Kolhapur, 1844)**
 
@@ -1142,7 +1090,7 @@ D. 4 3 2 1
 
 - **Amritlal Vithaldas Thakkar (Thakkar Bapa)** popularised the word **Adivasi** for tribals; he was General Secretary of the **Harijan Sevak Sangh**.
 
-- **Haipou Jadonang** is tagged as the first tribal (Naga, Manipur) leader inspired by Gandhi’s ideology (with Rani Gaidinliu in the same stream).
+- **Haipou Jadonang** is tagged as the first tribal (Naga, Manipur) leader inspired by Gandhi's ideology (with Rani Gaidinliu in the same stream).
 
 - **N.M. Lokhande** is the pioneer organiser of the Indian **mill labour** movement (Bombay cotton mills) — labour stream, not a tribal rising.
 
@@ -1156,15 +1104,15 @@ D. 4 3 2 1
 
 Match List-I with List-II and choose the correct answer using the codes given below the lists:
 
-**List-I (Revolt)**â€ƒâ€ƒ**List-II (Leader)**
+**List-I (Revolt)**  **List-II (Leader)**
 
-A. Paika Revoltâ€ƒâ€ƒ1. Edachena Kungan
+A. Paika Revolt  1. Edachena Kungan
 
-B. Bareilly Revoltâ€ƒâ€ƒ2. Radharam
+B. Bareilly Revolt  2. Radharam
 
-C. Malabar Revoltâ€ƒâ€ƒ3. Mufti Muhammad Aiwaz
+C. Malabar Revolt  3. Mufti Muhammad Aiwaz
 
-D. Sylhet Revoltâ€ƒâ€ƒ4. Jagabandhu Bidyadhar Mahapatra
+D. Sylhet Revolt  4. Jagabandhu Bidyadhar Mahapatra
 
 A. 4 3 1 2
 
@@ -1186,7 +1134,7 @@ D. 2 1 3 4
 
 Which of the following pairs is NOT correctly matched?
 
-Rebellionâ€ƒâ€ƒYear
+Rebellion  Year
 
 A. Santhal 1855
 
@@ -1360,7 +1308,7 @@ D. Moplah Revolt
 
 - An inquiry (**Maxwell–Broomfield**) found the enhancement unjust, and the hike was cut. The campaign is remembered as a **success**.
 
-- Women of Bardoli hailed Patel as **Sardar**; Gandhi’s recognition of that title stuck from this victory.
+- Women of Bardoli hailed Patel as **Sardar**; Gandhi's recognition of that title stuck from this victory.
 
 - Compare: **Kheda 1918** is an earlier Gujarat revenue satyagraha; **Moplah 1921** is Malabar violence; **Tebhaga 1946** is a Bengal produce-share movement.
 
@@ -1370,9 +1318,9 @@ D. Moplah Revolt
 
 ### Bijolia Peasant Movement (Mewar / Rajasthan)
 
-- Often keyed as India’s **first / longest** princely-state peasant movement against feudal exactions in **Bijolia** (Mewar).
+- Often keyed as India's **first / longest** princely-state peasant movement against feudal exactions in **Bijolia** (Mewar).
 
-- Early lead: **Sadhu Sitaram Das**; later **Vijay Singh Pathik**. Papers such as Prayag’s *Abhyudaya* and Calcutta’s *Bharat Mitra* publicised it.
+- Early lead: **Sadhu Sitaram Das**; later **Vijay Singh Pathik**. Papers such as Prayag's *Abhyudaya* and Calcutta's *Bharat Mitra* publicised it.
 
 - Do not invent a Pathik–Gandhi briefing as a must-score fact; the press publicity is the safer statement.
 
@@ -1389,31 +1337,18 @@ D. Moplah Revolt
 > **One-home rule:** this card keeps only the **founding facts** of each union/federation (year, place, first name). The **Workers and Peasants Party, Congress Socialist Party**, and the fuller left-politics story behind these unions live in **Topic 12 (Home Rule & Labour Politics)**. Do not duplicate that depth here.
 
 | Body | Year | tag |
-
 |------|------|----------|
-
 | Madras Labour Union | **1918** | **B.P. / V.P. Wadia** — first modern mill union (Buckingham & Carnatic) |
-
 | Ahmedabad Textile Labour Association | **1918** | **Gandhi** |
-
 | ILO Washington (labour rep) | **1919** | **N.M. Joshi** |
-
 | **AITUC** | **31 Oct 1920** (Bombay) | First all-India TUC; **Lala Lajpat Rai** first president; UPPCS party map **CPI** |
-
 | Trade Unions Act | **1926** | Legal recognition of unions |
-
 | Workers and Peasants Party | provincial mid-1920s; All-India **Dec 1928** | Work **inside Congress** (All-India form **December 1928**, not 1927) |
-
 | Girni Kamgar Union | **1928** | Bombay mill workers; left leadership |
-
 | **INTUC** | **1947** | **Congress** |
-
 | HMS | **1948** | Socialist stream |
-
 | **UTUC** | **1949** | Historically RSP; **UPPCS 2022 maps CPI(M)** |
-
 | **BMS** | **1955** | **Dattopant Thengadi**; **BJP / RSS** |
-
 | CITU | **1970** | Actual **CPI(M)** centre — trap vs UTUC |
 
 - Modern mills, mines, railways and plantations created a **wage-working class** different from rural bonded labour.
@@ -1460,7 +1395,7 @@ D. Moplah Revolt
 
 - **CITU** was founded in **1970**. It is the actual **CPI(M)** centre. That is the trap against UTUC.
 
-- **N.M. Joshi** was India’s labour representative at the **1919** ILO Washington summit, not Wadia, Andrews or Baptista.
+- **N.M. Joshi** was India's labour representative at the **1919** ILO Washington summit, not Wadia, Andrews or Baptista.
 
 - Post-independence union–party pairs: **BMS–BJP; INTUC–Congress; UTUC–CPI(M); AITUC–CPI**.
 
@@ -1516,15 +1451,15 @@ D. Only 2
 
 Match List-I with List-II and select the correct answer from the code given below.
 
-**List-I (Trade Union)**â€ƒâ€ƒ**List-II (Political Affiliation)**
+**List-I (Trade Union)**  **List-II (Political Affiliation)**
 
-A. Bharatiya Mazdoor Sanghâ€ƒâ€ƒ1. Indian National Congress
+A. Bharatiya Mazdoor Sangh  1. Indian National Congress
 
-B. Indian National Trade Union Congressâ€ƒâ€ƒ2. Communist Party of India
+B. Indian National Trade Union Congress  2. Communist Party of India
 
-C. United Trade Union Congressâ€ƒâ€ƒ3. Communist Party of India (Marxist)
+C. United Trade Union Congress  3. Communist Party of India (Marxist)
 
-D. All India Trade Union Congressâ€ƒâ€ƒ4. Bharatiya Janata Party
+D. All India Trade Union Congress  4. Bharatiya Janata Party
 
 Standard paper code: A. 2 4 3 1 B. 3 2 1 4 C. 1 3 2 4 D. **4 1 3 2**
 
@@ -1565,15 +1500,10 @@ Local `pyq/2022` option strings do not list `4 1 3 2` (OCR/set mismatch). Learn 
 ## UP Focus
 
 | UP angle | Detail |
-
 |----------|--------|
-
 | UP Kisan Sabha 1918 | **Indra Narayan Dwivedi** (+ Gauri Shankar Mishra) |
-
 | Oudh Kisan Sabha | **Baba Ramchandra; October 1920, Pratapgarh** |
-
 | Eka 1921–22 | Madari Pasi; Hardoi–Bahraich–Sitapur |
-
 | Awadh begar / bedakhli | Core tenant grievances |
 
 ---
@@ -1640,7 +1570,7 @@ D. 1, 3, 2, 4
 
 <summary>Show answer</summary>
 
-**Ans: A** — Awadh 1856 â†’ Indigo 1859–60 â†’ Second Afghan War 1878–80 â†’ Ilbert 1883. Duplicate allowed with Topics 2 / 4 / 5.
+**Ans: A** — Awadh 1856 → Indigo 1859–60 → Second Afghan War 1878–80 → Ilbert 1883. Duplicate allowed with Topics 2 / 4 / 5.
 
 </details>
 
@@ -1820,15 +1750,15 @@ D. Joseph Baptista
 
 Match **List-I** with **List-II** and select the correct answer using the codes given below the lists:
 
-**List-I (Movement)**â€ƒâ€ƒ**List-II (Year)**
+**List-I (Movement)**  **List-II (Year)**
 
-A. Pabnaâ€ƒâ€ƒ1. 1855-56
+A. Pabna  1. 1855-56
 
-B. Ekaâ€ƒâ€ƒ2. 1873-85
+B. Eka  2. 1873-85
 
-C. Santhalâ€ƒâ€ƒ3. 1922
+C. Santhal  3. 1922
 
-D. Tana Bhagatâ€ƒâ€ƒ4. 1914
+D. Tana Bhagat  4. 1914
 
 A. 1 2 4 3
 
@@ -1852,7 +1782,7 @@ D. 4 3 2 1
 
 Which of the following pairs is NOT correctly matched?
 
-Rebellionâ€ƒâ€ƒYear
+Rebellion  Year
 
 A. Santhal 1855
 
@@ -1900,7 +1830,7 @@ D. Pabna Agrarian League
 
 **Q2. UPPCS / BPSC / IAS**
 
-Who wrote the play *Neel Darpan* on the indigo ryots’ plight?
+Who wrote the play *Neel Darpan* on the indigo ryots' plight?
 
 A. Bankim Chandra Chatterjee
 
@@ -1922,7 +1852,7 @@ D. Michael Madhusudan Dutt
 
 **Q3. UPPCS / IAS**
 
-Bankim Chandra Chatterjee’s novel *Anandamath* is set against the background of which rising?
+Bankim Chandra Chatterjee's novel *Anandamath* is set against the background of which rising?
 
 A. Indigo Revolt of 1859–60
 
@@ -1968,7 +1898,7 @@ D. Hasrat Mohani
 
 Indigo cultivation in Bengal declined sharply by the early twentieth century mainly because:
 
-A. Gandhi’s Champaran satyagraha banned all indigo
+A. Gandhi's Champaran satyagraha banned all indigo
 
 B. Synthetic dyes made natural indigo unprofitable
 
@@ -2038,7 +1968,7 @@ D. Kol Rebellion — 1831
 
 **Q8. UPPCS / BPSC**
 
-After Sayyid Ahmad Shahid’s death at Balakot (1831), the Wahabi movement’s main centre in the nineteenth century shifted to:
+After Sayyid Ahmad Shahid's death at Balakot (1831), the Wahabi movement's main centre in the nineteenth century shifted to:
 
 A. Delhi
 
@@ -2126,7 +2056,7 @@ D. Wahabi leaders of Patna only
 
 **Q12. UPPCS / BPSC**
 
-Velu Thampi’s revolt against British influence took place in:
+Velu Thampi's revolt against British influence took place in:
 
 A. Mysore
 
@@ -2142,7 +2072,7 @@ D. Coorg
 
 **Logic:** Velu Thampi = Travancore (Kerala) — diwan-led anti-British rising.
 
-**Ans: B.** **Velu Thampi**, diwan of **Travancore**, led the Kerala rising (~**1809**). Trap: Malabar is the **Moplah** zone, not Velu Thampi’s theatre.
+**Ans: B.** **Velu Thampi**, diwan of **Travancore**, led the Kerala rising (~**1809**). Trap: Malabar is the **Moplah** zone, not Velu Thampi's theatre.
 
 </details>
 
@@ -2170,7 +2100,7 @@ D. Eka Movement
 
 **Q14. BPSC / UPPCS**
 
-The Ramosi cultivators, linked to Phadke’s rising, lived mainly in:
+The Ramosi cultivators, linked to Phadke's rising, lived mainly in:
 
 A. Malabar coast
 
@@ -2206,7 +2136,7 @@ D. Singhbhum
 
 <summary>Show answer</summary>
 
-**Logic:** Gadakari = Kolhapur 1844 — fort hereditary servants’ rising.
+**Logic:** Gadakari = Kolhapur 1844 — fort hereditary servants' rising.
 
 **Ans: B.** **Gadakari (1844)** was the rising of hereditary fort servants in **Kolhapur**. **Waghera** belongs to **Baroda (1818–19)**.
 
@@ -2468,7 +2398,7 @@ D. Alluri Sitarama Raju
 
 **Q27. UPPCS / RAS / IAS / UKPCS**
 
-‘Ulgulan’ or the Great Tumult (1899–1900) was led by:
+'Ulgulan' or the Great Tumult (1899–1900) was led by:
 
 A. Sidhu Murmu
 
@@ -2616,7 +2546,7 @@ D. Punjab
 
 **Logic:** Moplah = Malabar / Kerala 1921 — tenant grievance with violent phase.
 
-**Ans: B.** The **Moplah / Malabar** rising (**1921**) belongs to **Kerala**, not Gujarat’s Bardoli belt or Bengal’s Tebhaga zone.
+**Ans: B.** The **Moplah / Malabar** rising (**1921**) belongs to **Kerala**, not Gujarat's Bardoli belt or Bengal's Tebhaga zone.
 
 </details>
 
@@ -2910,7 +2840,7 @@ D. Jawaharlal Nehru
 
 **Logic:** UP Kisan Sabha Feb 1918 = Dwivedi–Mishra–Malaviya — Nehru was not a founder.
 
-**Ans: D.** **Jawaharlal Nehru** was not a founder. The **1918** Sabha was organised by **Dwivedi** and **Mishra** with **Malaviya’s** support.
+**Ans: D.** **Jawaharlal Nehru** was not a founder. The **1918** Sabha was organised by **Dwivedi** and **Mishra** with **Malaviya's** support.
 
 </details>
 
@@ -3062,9 +2992,9 @@ D. Madari Pasi
 
 <summary>Show answer</summary>
 
-**Logic:** Bardoli 1928 = Vallabhbhai Patel — Sardar title linked to Bardoli women / Gandhi’s recognition.
+**Logic:** Bardoli 1928 = Vallabhbhai Patel — Sardar title linked to Bardoli women / Gandhi's recognition.
 
-**Ans: B.** **Vallabhbhai Patel** led **Bardoli (1928)**. The **Sardar** title is linked to **Bardoli women** and **Gandhi’s** recognition of Patel’s leadership.
+**Ans: B.** **Vallabhbhai Patel** led **Bardoli (1928)**. The **Sardar** title is linked to **Bardoli women** and **Gandhi's** recognition of Patel's leadership.
 
 </details>
 
@@ -3086,7 +3016,7 @@ D. The entire crop without any landlord claim
 
 **Logic:** Tebhaga = reduce landlord share from half to one-third (two-thirds for sharecropper).
 
-**Ans: B.** **Tebhaga** meant the **two-thirds** share for the bargadar — cutting the landlord’s customary **half** to **one-third**.
+**Ans: B.** **Tebhaga** meant the **two-thirds** share for the bargadar — cutting the landlord's customary **half** to **one-third**.
 
 </details>
 
@@ -3108,7 +3038,7 @@ D. Bhoodan movement
 
 **Logic:** First peasant movement often keyed Bijolia (Mewar) — Sadhu Sitaram Das early phase.
 
-**Ans: B.** **Bijolia (Mewar)** is the standard “first peasant movement” key, beginning with **Sadhu Sitaram Das** and later **Vijay Singh Pathik**.
+**Ans: B.** **Bijolia (Mewar)** is the standard "first peasant movement" key, beginning with **Sadhu Sitaram Das** and later **Vijay Singh Pathik**.
 
 </details>
 
@@ -3228,7 +3158,7 @@ D. Alluri Sitarama Raju
 
 **Q4. UKPCS / UPPCS / RAS**
 
-‘Ulgulan’ or the Great Tumult (1899–1900) was led by:
+'Ulgulan' or the Great Tumult (1899–1900) was led by:
 
 A. Sidhu Murmu
 
@@ -3328,7 +3258,7 @@ D. 1 and 3
 
 1. Cause — moneylender (sahukar) grip in Poona–Ahmednagar alone.
 2. Course — Biswas brothers in Nadia and wider Bengal resistance.
-3. Result — Deccan Agriculturists’ Relief Act, 1879.
+3. Result — Deccan Agriculturists' Relief Act, 1879.
 
 A. 1 and 2
 
@@ -3343,7 +3273,7 @@ D. 1 and 3
 
 **Ans: C.** Only 2 is correct.
 
-**Logic:** Stmt 1 false: Indigo Revolt cause is European planters’ forced indigo and dadan; sahukar grip is Deccan Riots. Stmt 3 remains false: Deccan Relief Act 1879 is not the Indigo result.
+**Logic:** Stmt 1 false: Indigo Revolt cause is European planters' forced indigo and dadan; sahukar grip is Deccan Riots. Stmt 3 remains false: Deccan Relief Act 1879 is not the Indigo result.
 
 </details>
 
@@ -3460,8 +3390,8 @@ D. 4, 3, 1, 2
 **Q7.** With reference to Deccan Riots (1875), which of the following statements is/are correct?
 
 1. Result — Indigo Commission of 1860 under the same statute.
-2. Cause — European planters’ forced indigo and dadan advances in Bengal.
-3. Result — Deccan Agriculturists’ Relief Act, 1879.
+2. Cause — European planters' forced indigo and dadan advances in Bengal.
+3. Result — Deccan Agriculturists' Relief Act, 1879.
 
 A. 1 and 2
 
@@ -3512,7 +3442,7 @@ D. Only 2
 
 **Assertion (A):** Bardoli (1928) and Moplah (1921) shared the same region and method.
 
-**Reason (R):** Moplah/Malabar mixed tenancy grievance with a violent phase; Bardoli was Patel’s Gujarat no-tax satyagraha.
+**Reason (R):** Moplah/Malabar mixed tenancy grievance with a violent phase; Bardoli was Patel's Gujarat no-tax satyagraha.
 
 Select the correct answer from the code given below:
 
@@ -3720,7 +3650,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q17.** With reference to Kuka (Namdhari) rising, which of the following statements is/are correct?
 
-1. It is identical with Bengal’s Pabna agrarian leagues.
+1. It is identical with Bengal's Pabna agrarian leagues.
 2. It is dated around 1872 under Baba Ram Singh.
 3. It belongs to Punjab.
 
@@ -3824,7 +3754,7 @@ D. Sylhet–Radharam (match-extra tag)
 
 ---
 
-**Q21.** With reference to Telangana’s closure, which of the following statements is/are correct?
+**Q21.** With reference to Telangana's closure, which of the following statements is/are correct?
 
 1. Telangana closed when the CPI withdrew around 1951.
 2. The whole movement cannot be reduced to the 1948 Police Action alone.
@@ -3959,7 +3889,7 @@ D. 2 and 3
 
 A. Cause: indigo dadan; Result: Indigo Commission 1860
 
-B. Cause: sahukar grip; Result: Deccan Agriculturists’ Relief Act, 1879
+B. Cause: sahukar grip; Result: Deccan Agriculturists' Relief Act, 1879
 
 C. Cause: tinkathia; Result: Bardoli Pact 1928
 
@@ -4071,7 +4001,7 @@ D. Bardoli 1928 — Gujarat no-tax satyagraha under Patel
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Moplah = Malabar tenants (violent phase); Bardoli = Patel’s Gujarat satyagraha.
+**Ans: C.** Moplah = Malabar tenants (violent phase); Bardoli = Patel's Gujarat satyagraha.
 
 **Logic:** Moplah ↔ Bardoli confused pair.
 
@@ -4080,43 +4010,43 @@ D. Bardoli 1928 — Gujarat no-tax satyagraha under Patel
 
 ## Common Traps — Don't Fall For These
 
-1. **Ahom = 1815** â†’ **~1828**.
+1. **Ahom = 1815** → **~1828**.
 
-2. **Sanyasi after Indigo** â†’ Sanyasi is **late 18th century**; Indigo **1859–60**.
+2. **Sanyasi after Indigo** → Sanyasi is **late 18th century**; Indigo **1859–60**.
 
-3. **Kuka after Pabna** â†’ Kuka **~1872**, Pabna **1873–85**.
+3. **Kuka after Pabna** → Kuka **~1872**, Pabna **1873–85**.
 
-4. **Santhal = 1857 / Birsa** â†’ **1855–56, Sidhu–Kanhu**.
+4. **Santhal = 1857 / Birsa** → **1855–56, Sidhu–Kanhu**.
 
-5. **Kol = 1855** â†’ Kol **1831**; Santhal 1855.
+5. **Kol = 1855** → Kol **1831**; Santhal 1855.
 
-6. **UP Kisan Sabha 1918 = Baba Ramchandra / Sahajanand / Nehru** â†’ **Indra Narayan Dwivedi**.
+6. **UP Kisan Sabha 1918 = Baba Ramchandra / Sahajanand / Nehru** → **Indra Narayan Dwivedi**.
 
-7. **Bardoli = 1921 / Birsa** â†’ **1928, Patel**.
+7. **Bardoli = 1921 / Birsa** → **1928, Patel**.
 
-8. **Moplah before Jallianwala** â†’ Moplah **1921** is **last** in the 2023 set.
+8. **Moplah before Jallianwala** → Moplah **1921** is **last** in the 2023 set.
 
-9. **Tebhaga = Eka** â†’ Tebhaga **Bengal 1946–47 (2/3)**; Eka **Awadh 1921–22**.
+9. **Tebhaga = Eka** → Tebhaga **Bengal 1946–47 (2/3)**; Eka **Awadh 1921–22**.
 
-10. **INTUC = 1920** â†’ **AITUC 1920**; INTUC **1947**.
+10. **INTUC = 1920** → **AITUC 1920**; INTUC **1947**.
 
-11. **BMS = CPI** â†’ BMS = **BJP (1955)**.
+11. **BMS = CPI** → BMS = **BJP (1955)**.
 
-12. **ILO 1919 = Wadia** â†’ **N.M. Joshi**.
+12. **ILO 1919 = Wadia** → **N.M. Joshi**.
 
-13. **Bareilly 2024 list = Khan Bahadur Khan** â†’ **Mufti Muhammad Aiwaz** (1816 tag); 1857 is Topic 5.
+13. **Bareilly 2024 list = Khan Bahadur Khan** → **Mufti Muhammad Aiwaz** (1816 tag); 1857 is Topic 5.
 
-14. **Paika = Edachena / Birsa** â†’ **Jagabandhu Bidyadhar**.
+14. **Paika = Edachena / Birsa** → **Jagabandhu Bidyadhar**.
 
-15. **Pabna = 1922** â†’ **1873–85**; 1922 = **Eka**.
+15. **Pabna = 1922** → **1873–85**; 1922 = **Eka**.
 
-16. **WPP All-India in 1927 / 2024 Q14 Both** â†’ objective true; All-India form **Dec 1928** â†’ **Only 2** (Topic 12).
+16. **WPP All-India in 1927 / 2024 Q14 Both** → objective true; All-India form **Dec 1928** → **Only 2** (Topic 12).
 
-17. **Telangana ends in 1948** â†’ the Nizam fell in 1948; the peasant struggle closed only on **CPI's October 1951** withdrawal.
+17. **Telangana ends in 1948** → the Nizam fell in 1948; the peasant struggle closed only on **CPI's October 1951** withdrawal.
 
-18. **Telangana = Tebhaga** â†’ Telangana is **Hyderabad State, CPI *dalams*, 1946–51**; Tebhaga is **Bengal sharecroppers, 1946–47**.
+18. **Telangana = Tebhaga** → Telangana is **Hyderabad State, CPI *dalams*, 1946–51**; Tebhaga is **Bengal sharecroppers, 1946–47**.
 
-19. **Oudh Kisan Sabha = 1918 UP Kisan Sabha** â†’ 1918 is Dwivedi's Lucknow body; Oudh Kisan Sabha is **Baba Ramchandra's October 1920** Pratapgarh body.
+19. **Oudh Kisan Sabha = 1918 UP Kisan Sabha** → 1918 is Dwivedi's Lucknow body; Oudh Kisan Sabha is **Baba Ramchandra's October 1920** Pratapgarh body.
 
 20. **Indigo decline = only Neel Darpan success** → early-20th-c. decline key is often **synthetic dyes**.
 
@@ -4144,7 +4074,7 @@ D. Bardoli 1928 — Gujarat no-tax satyagraha under Patel
 
 32. **Ho revolt = 1920** → **1820–21**.
 
-33. **Nai-Dhobi Band = saints’ uplift only** → **Pratapgarh** peasant social boycott of landlords.
+33. **Nai-Dhobi Band = saints' uplift only** → **Pratapgarh** peasant social boycott of landlords.
 
 34. **AIKS President = N.G. Ranga** → **Sahajanand**; Ranga = **General Secretary** / Faizpur chair tag.
 

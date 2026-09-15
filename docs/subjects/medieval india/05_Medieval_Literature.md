@@ -19,13 +19,13 @@ Medieval Literature | Medieval Books and Their Authors | Delhi Sultanate Literat
 
 1. The court language of the Sultanate and Mughal empires was **Persian**; **Baburnama** alone is written in **Chagatai Turki**.
 2. **Tabaqat-i-Nasiri** is by **Minhaj-us-Siraj**; **Tarikh-i-Firoz Shahi** is by **Ziauddin Barani**.
-3. **Tughlaqnama** is by **Barani**, not **Ibn Battuta**; **Rihla** is Ibn Battuta’s travelogue.
+3. **Tughlaqnama** is by **Amir Khusrau** (his last historical masnavi, 1320); **Rihla** is **Ibn Battuta’s** travelogue.
 4. **Fatawa-i-Jahandari** is Barani’s political theory text, not a narrative history.
 5. Both **Barani** and **Shams-i-Siraj Afif** wrote works titled **Tarikh-i-Firoz Shahi** for different periods of Firuz’s age.
 6. **Taj-ul-Maasir** is by Hasan Nizami; **Kitab-ul-Hind** is by **Alberuni**.
-7. **Amir Khusrau** wrote **Rag Vibodh**, **Khamsa**, **Nuh Sipihr**, **Miftah-ul-Futuh**, and **Khazain-ul-Futuh**.
+7. **Amir Khusrau** wrote **Khamsa**, **Nuh Sipihr**, **Miftah-ul-Futuh**, **Khazain-ul-Futuh**, and **Ashiqa**; **Rag Vibodh** was written by **Somnath** (1609).
 8. **Miftah-ul-Futuh** covers Jalaluddin Khalji; **Khazain-ul-Futuh** covers Alauddin — keep the Khalji pair straight.
-9. Vernacular matchs: **Mulla Daud–Chandayan**; **Damodar Kavi–Padmavati Katha**; **Somnath–Ashiqa**; **Amir Khusrau–Rag Vibodh**.
+9. Vernacular & treatise matches: **Mulla Daud–Chandayan**; **Damodar Kavi–Padmavati Katha**; **Amir Khusrau–Ashiqa**; **Somnath–Rag Vibodh**.
 10. **Padmavat** is **Malik Muhammad Jaisi’s** Awadhi epic — not Damodar Kavi’s Padmavati Katha.
 11. **Baburnama** = Babur; **Humayunnama** = Gulbadan Begum; **Tuzuk-i-Jahangiri** = Jahangir’s own memoir.
 12. **Akbarnama** is Abul Fazl’s narrative history; **Ain-i-Akbari** is his admin gazetteer, not a biography.
@@ -51,19 +51,19 @@ Medieval Literature | Medieval Books and Their Authors | Delhi Sultanate Literat
 ## Confused Pairs
 
 | A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Akbarnama vs Ain-i-Akbari | Narrative history of Akbar vs admin/statistical gazetteer — both Abul Fazl | अकबरनामा / आइन-ए-अकबरी |
-| Baburnama vs Akbarnama | Babur's Turki memoir vs Abul Fazl's Persian Akbar history | बाबरनामा / अकबरनामा |
-| Tarikh vs Tabaqat | Annal/continuous history vs generational biographies ("classes") | तारीख / तबक़ात |
-| Barani vs Ibn Battuta | Delhi Sultanate historian vs Moroccan traveller (Rihla) | बरनी / इब्न बतूता |
-| Tughlaqnama vs Rihla | Barani's Tughlaq history vs Ibn Battuta's travelogue | तुग़लक़नामा / रिहला |
-| Barani vs Afif (Tarikh) | Barani's Tarikh (Balban→early Firuz) vs Afif's later Tarikh (Firuz→end) | बरनी / आफ़िफ़ |
-| Padmavat vs Padmavati Katha | Jaisi's Awadhi epic vs Damodar Kavi's **Padmavati Katha** | पद्मावत / पद्मावती कथा |
-| Riyaz-us-Salatin vs Riyaz-ul-Insha | Bengal history vs Gawan's official letters | रियाज़-उस-सलातीन / रियाज़-उल-इंशा |
-| Amir Khusrau vs Tansen | 13th–14th c. Sultanate poet vs Akbar's dhrupad master | अमीर खुसरो / तानसेन |
-| Tuzuk-i-Jahangiri vs Padshahnama | Emperor's own memoir vs court historian's Shah Jahan chronicle | तुज़ुक / पादशाहनामा |
-| Persian vs Turki (Mughal) | Mughal court language vs Babur's mother-tongue memoir only | फ़ारसी / चग़ताई तुर्की |
-
+|---|---|------------|-------|
+| Akbarnama | Ain-i-Akbari | Narrative history of Akbar vs admin/statistical gazetteer — both Abul Fazl | अकबरनामा / आइन-ए-अकबरी |
+| Baburnama | Akbarnama | Babur's Turki memoir vs Abul Fazl's Persian Akbar history | बाबरनामा / अकबरनामा |
+| Tarikh | Tabaqat | Annal/continuous history vs generational biographies ("classes") | तारीख / तबक़ात |
+| Barani | Ibn Battuta | Delhi Sultanate historian vs Moroccan traveller (Rihla) | बरनी / इब्न बतूता |
+| Tughlaqnama | Rihla | Amir Khusrau's historical masnavi on Ghiyasuddin Tughlaq vs Ibn Battuta's travelogue | तुग़लक़नामा (अमीर खुसरो) / रिहला (इब्न बतूता) |
+| Barani | Afif (Tarikh) | Barani's Tarikh (Balban→early Firuz) vs Afif's later Tarikh (Firuz→end) | बरनी / आफ़िफ़ |
+| Padmavat | Padmavati Katha | Jaisi's Awadhi epic vs Damodar Kavi's **Padmavati Katha** | पद्मावत / पद्मावती कथा |
+| Riyaz-us-Salatin | Riyaz-ul-Insha | Bengal history vs Gawan's official letters | रियाज़-उस-सलातीन / रियाज़-उल-इंशा |
+| Amir Khusrau | Tansen | 13th–14th c. Sultanate poet vs Akbar's dhrupad master | अमीर खुसरो / तानसेन |
+| Tuzuk-i-Jahangiri | Padshahnama | Emperor's own memoir vs court historian's Shah Jahan chronicle | तुज़ुक / पादशाहनामा |
+| Ashiqa | Rag Vibodh | Amir Khusrau's romantic historical poem (Deval Rani) vs Somnath's Sanskrit music treatise (1609) | आशिक़ा (खुसरो) / राग विबोध (सोमनाथ) |
+| Persian | Turki (Mughal) | Mughal court language vs Babur's mother-tongue memoir only | फ़ारसी / चग़ताई तुर्की |
 ---
 
 ## Must-score facts — book ↔ author

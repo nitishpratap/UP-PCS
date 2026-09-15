@@ -324,7 +324,6 @@ The **Constitution (Scheduled Tribes) Order (Amendment) Act, 2003** added many *
 | 13 | Patari | Sonbhadra |
 | 14 | Chero | Sonbhadra, Varanasi |
 | 15 | Bhuiya | Sonbhadra |
-
 | Zone | Districts | Key tribes |
 |------|-----------|------------|
 | Terai / north | Kheri, Bahraich, Balrampur, Shravasti, Pilibhit, Bijnor fringe | Tharu, Buksa |

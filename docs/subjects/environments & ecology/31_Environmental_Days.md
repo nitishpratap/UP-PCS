@@ -55,16 +55,15 @@ World Environment Day | World Wetlands Day | Earth Day | International Day for B
 
 ## Confused Pairs
 
-| Pair | Fact |
-|------|------|
-| Wildlife Day vs Water Day | **3 March** vs **22 March** — never swap |
-| WED vs Earth Day | **5 June** vs **22 April** |
-| Wetlands vs Wildlife | **2 February** (Ramsar) vs **3 March** (CITES) |
-| Forests vs Water | **21 March** vs **22 March** |
-| Biodiversity vs Water / Earth | **22 May** vs **22 March** / **22 April** |
-| Ozone Day vs WED | **16 September** (Montreal) vs **5 June** (Stockholm) |
-| Earth Day vs Earth Hour | **22 April** civic day vs last Saturday of March (WWF) |
-
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
+| **World Wetlands Day** | **World Wildlife Day** | **2 February** (signing of Ramsar Convention 1971) vs **3 March** (adoption of CITES 1973) | विश्व आर्द्रभूमि दिवस (2 फरवरी) / विश्व वन्यजीव दिवस (3 मार्च) |
+| **World Forestry Day** | **World Water Day** | **21 March** (UN International Day of Forests) vs **22 March** (UN World Water Day) | विश्व वानिकी दिवस (21 मार्च) / विश्व जल दिवस (22 मार्च) |
+| **World Earth Day** | **World Environment Day** | **22 April** (Gaylord Nelson, 1970) vs **5 June** (Stockholm Conference opening, 1972) | पृथ्वी दिवस (22 अप्रैल) / विश्व पर्यावरण दिवस (5 जून) |
+| **International Biodiversity Day** | **World Earth Day** | **22 May** (Nairobi agreed text of CBD 1992) vs **22 April** (Earth Day) | जैव विविधता दिवस (22 मई) / पृथ्वी दिवस (22 अप्रैल) |
+| **World Ozone Day** | **World Environment Day** | **16 September** (signing of Montreal Protocol 1987) vs **5 June** (Stockholm UNEP foundation) | विश्व ओजोन दिवस (16 सितंबर) / पर्यावरण दिवस (5 जून) |
+| **Earth Day** | **Earth Hour** | Fixed annual civic observance on **22 April** vs WWF voluntary **last Saturday of March** 1-hour lights-off event | पृथ्वी दिवस (22 अप्रैल) / अर्थ आवर (मार्च अंतिम शनिवार) |
+| **World Soil Day** | **World Day to Combat Desertification** | **5 December** (FAO celebration of King Bhumibol's birthday) vs **17 June** (UNCCD adoption anniversary) | विश्व मृदा दिवस (5 दिसंबर) / मरुस्थलीकरण रोकथाम दिवस (17 जून) |
 ---
 
 ## Must-score facts — calendar order of key days

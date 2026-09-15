@@ -64,19 +64,15 @@ Forests and their Types | Forest Types in India | Forest Conservation | Forest M
 
 ## Confused Pairs
 
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **Forest cover** | Trees ≥1 ha patch, ≥10% canopy — any land | वन आवरण |
-| **Tree cover** | Scattered trees outside forest patches | वृक्ष आवरण |
-| **Reserved Forest** | Strictest IFA class — most acts prohibited unless permitted | संरक्षित वन |
-| **Protected Forest** | State-regulated forest — some customary rights may continue | संरक्षित वन (अधिकार सहित) |
-| **Recorded Forest Area** | Land legally notified as forest on records | अभिलिखित वन क्षेत्र |
-| **FCA 1980** | Controls **diversion** of forest land for non-forest use | वन संरक्षण अधिनियम |
-| **FRA 2006** | Recognizes **dweller rights** on forest land | वन अधिकार अधिनियम |
-| **Social forestry** | Trees on **non-forest** land for local needs | सामाजिक वानिकी |
-| **Agroforestry** | Trees integrated with **crops/livestock** | कृषि वानिकी |
-| **JFM** | State + village co-manage **degraded forest** | संयुक्त वन प्रबंधन |
-
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
+| **Forest Cover** | **Tree Cover** | All land patches with tree canopy density ≥10% and area ≥1 hectare irrespective of ownership or legal status (FSI remote sensing) vs scattered tree patches, linear trees along canals/roads, and isolated trees <1 hectare outside recorded forest area | वन आवरण (≥1 हे., ≥10% छतरी) / वृक्ष आवरण (<1 हेक्टेयर) |
+| **Reserved Forest (RF)** | **Protected Forest (PF)** | Highest degree of protection under Indian Forest Act 1927; all activities (grazing, timber felling) are strictly prohibited unless expressly permitted vs forest where all activities are permitted unless specifically prohibited by notification | आरक्षित वन (RF, पूर्णतः प्रतिबंधित) / संरक्षित वन (PF, सशर्त अनुमत) |
+| **Recorded Forest Area (RFA)** | **Forest Cover** | Land legally recorded or notified as forest in government records (RF + PF + Unclassed) regardless of actual tree presence vs physical presence of tree canopy detected by satellite imagery (even on private orchards/tea estates) | अभिलिखित वन क्षेत्र (कानूनी अभिलेख) / वन आवरण (भौतिक वृक्ष आच्छादन) |
+| **Forest Conservation Act (FCA 1980)** | **Forest Rights Act (FRA 2006)** | Central regulatory statute preventing de-reservation or diversion of forest land for non-forest purposes without prior central approval vs restorative rights law vesting individual and community forest rights in traditional forest-dwelling tribes and OTFDs | वन संरक्षण अधिनियम 1980 / वन अधिकार अधिनियम 2006 |
+| **Social Forestry** | **Agroforestry** | Growing trees on non-forest communal lands, roadside strips, and wastelands to meet rural fodder and fuel needs (National Commission on Agriculture 1976) vs deliberate integration of woody perennials (trees/shrubs) with agricultural crops and/or livestock on the same land unit | सामाजिक वानिकी / कृषि वानिकी |
+| **Joint Forest Management (JFM)** | **Community Forest Resource (CFR)** | Collaborative institutional partnership between state forest department and village committees to protect and regenerate degraded forests vs statutory community ownership and governance right recognized under Section 3(1)(i) of FRA 2006 | संयुक्त वन प्रबंधन (JFM) / सामुदायिक वन संसाधन अधिकार (CFR) |
+| **Tropical Wet Evergreen Forest** | **Tropical Moist Deciduous Forest** | Dense multi-layered forest with rainfall >200 cm, no distinct leafless season (Ebony, Mahogany, Rosewood) vs most widespread forest in India with rainfall 100–200 cm, shedding leaves for 6–8 weeks in dry spring (Teak, Sal, Shisham) | उष्णकटिबंधीय आर्द्र सदाबहार / उष्णकटिबंधीय नम पर्णपाती वन |
 ---
 
 ## Must-score facts — ISFR, types, law chain

@@ -55,19 +55,14 @@
 
 ## Confused Pairs
 
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **EPA 1986** | Umbrella law — EIA, CRZ, ESZ, GEAC, CGWA under Section 3 | EPA 1986 |
-| **GEAC** | Genetic Engineering Appraisal Committee — under EPA 1986 | GEAC |
-| **CGWA** | Groundwater regulation under EPA Sec 3(3) — ≠ CGWB | CGWA |
-| **WPA 1972** | Wildlife schedules and protected areas | WPA 1972 |
-| **FCA 1980** | Controls **diversion** of forest land | FCA 1980 |
-| **FRA 2006** | Recognizes **rights** of forest dwellers | FRA 2006 |
-| **Water Act 1974** | Water pollution — created CPCB/SPCB | जल अधिनियम 1974 |
-| **Air Act 1981** | Air pollution — NAAQS | वायु अधिनियम 1981 |
-| **BDA 2002** | Biodiversity — NBA, BMC, ABS | BDA 2002 |
-| **Consent vs EC** | SPCB consent (Water/Air) ≠ MoEFCC EC (EPA) | अनुमति vs मंजूरी |
-
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
+| **Environment (Protection) Act (EPA 1986)** | **Wildlife (Protection) Act (WPA 1972)** | Umbrella legislation enacted under Article 253 post-Bhopal disaster enabling the Union to frame rules for EIA, CRZ, ESZ, and hazardous waste vs dedicated legislation protecting wild animal/plant species, regulating hunting, and establishing National Parks/Sanctuaries | पर्यावरण संरक्षण अधिनियम 1986 (छाता कानून) / वन्यजीव संरक्षण अधिनियम 1972 |
+| **Forest (Conservation) Act (FCA 1980)** | **Forest Rights Act (FRA 2006)** | Central law barring de-reservation or diversion of forest land for non-forest purposes without prior Union MoEFCC approval vs rights-based law administered by Ministry of Tribal Affairs restoring land tenure and customary rights to forest-dwelling STs and OTFDs | वन संरक्षण अधिनियम 1980 (विकास नियंत्रण) / वन अधिकार अधिनियम 2006 (जनजातीय अधिकार) |
+| **Water (Prevention and Control of Pollution) Act 1974** | **Air (Prevention and Control of Pollution) Act 1981** | India's first dedicated environmental pollution statute that established CPCB and SPCBs under Article 252 vs legislation enacted under Article 253 to implement 1972 Stockholm decisions that empowered existing Water Boards to regulate air pollution and noise | जल अधिनियम 1974 (प्रदूषण बोर्डों का गठन) / वायु अधिनियम 1981 (स्टॉकहोम अनुपालन) |
+| **Biological Diversity Act (BDA 2002)** | **Protection of Plant Varieties and Farmers' Rights Act (PPVFRA 2001)** | Implements 1992 CBD via three-tier structure (NBA, SBB, BMC) controlling commercial bio-resource access and benefit sharing (ABS) vs sui generis IPR regime granting legal rights to commercial plant breeders while safeguarding traditional farmers' seed-saving rights | जैव विविधता अधिनियम 2002 / पौधा किस्म व कृषक अधिकार संरक्षण 2001 |
+| **Genetic Engineering Appraisal Committee (GEAC)** | **Central Ground Water Authority (CGWA)** | Statutory apex regulatory body constituted under Rules 1989 of EPA 1986 approving environmental release of GMOs (e.g. Bt Cotton) vs regulatory authority constituted under Section 3(3) of EPA 1986 regulating commercial groundwater extraction NOCs | जीईएसी (GEAC, जीएमओ नियामक) / केंद्रीय भूजल प्राधिकरण (CGWA) |
+| **Coastal Regulation Zone (CRZ)** | **Eco-Sensitive Zone (ESZ)** | Coastal belt up to 500 m from High Tide Line classified into CRZ-I to IV under EPA 1986 to regulate beach and marine development vs buffer belt around protected areas notified under Section 3 of EPA 1986 to curb polluting industrial operations | तटीय विनियमन क्षेत्र (CRZ) / पर्यावरण-संवेदनशील क्षेत्र (ESZ) |
 ---
 
 ## Must-score facts — act years, articles, clearances

@@ -131,7 +131,6 @@ Two ladders run side by side: **education policy** (what got taught, and to whom
 | Primary-stage audit | **1929** | Wastage/stagnation flagged; consolidate, don't just expand | **Hartog Committee** |
 | Nationalist alternative | **1937** | Craft-centred, self-supporting schooling | **Wardha Scheme** (Gandhi) |
 | Official post-war blueprint | **1944** | Free compulsory schooling 6–14, 40-year target | **Sargent Plan** |
-
 | Press phase | Rough years | Method | Key fact |
 |-------------|-------------|--------|-----------|
 | Free start | **1780–99** | No formal law yet, but Company hostility to criticism | **Hicky's Bengal Gazette 1780** |

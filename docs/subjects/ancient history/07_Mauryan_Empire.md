@@ -601,7 +601,6 @@ A. Both 1 and 2 B. Neither 1 nor 2 C. Only 1 D. Only 2
 | **XII** | **Samavaya / religious synthesis** ← |
 | **XIII** | **Kalinga**; five Greek kings (**Antioka** = Antiochus II Theos of Syria; **Turamaya** = Ptolemy II Philadelphus of Egypt; **Antikini** = Antigonus Gonatas of Macedonia; **Maka** = Magas of Cyrene; **Alikasudara** = Alexander of Epirus); dhamma-vijaya |
 | **XIV** | Edicts written short or long as the place needs |
-
 | Site | Region | Script / extra |
 |------|--------|----------------|
 | **Girnar (Junagadh)** | Gujarat | Full 14; later **Rudradaman** + Skandagupta on same rock |
@@ -664,7 +663,6 @@ A. Rock Edict XI B. Rock Edict XII C. Rock Edict XIII D. Rock Edict II
 | **V** | Closed slaughter-days; **list of protected animals** (not dhamma-mahamatras — those are **RE V**) |
 | **VI** | Inscriptions from the **12th** year onward |
 | **VII** | Longest; “gift of dhamma is the best gift”; only on **Delhi-Topra** in full |
-
 | Shaft | Place | Capital / extra |
 |-------|-------|-----------------|
 | **Sarnath** | Varanasi, UP | **Four lions** + abacus animals + dharmachakra = **national emblem** (1950; lotus dropped). **Schism edict** |

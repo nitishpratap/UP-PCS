@@ -174,7 +174,6 @@ Standard notes split Indian vegetation into **five** heads and **sixteen** sub-t
 | **Montane sub-tropical** | Broad-leaved hill · Moist hill (pine) · Dry evergreen |
 | **Montane temperate** | Wet temperate · Himalayan moist temperate · Himalayan dry temperate |
 | **Alpine** | Sub-alpine · Moist alpine scrub · Dry alpine scrub |
-
 | Share of forest area (class figures) | Type |
 |------------------------------------------|------|
 | About **37%** | Tropical **moist deciduous** (largest) |
@@ -694,7 +693,6 @@ D. Sacred groves
 | Pilibhit TR | Tiger Reserve | Pilibhit–Shahjahanpur | Separate Terai TR — not Dudhwa NP |
 | Amangarh TR | Tiger Reserve | **Bijnor** | Corbett buffer/extension |
 | Ranipur TR | Tiger Reserve | **Chitrakoot** | Bundelkhand |
-
 | Sanctuary | District | Extra |
 |-----------|----------|-------|
 | Katarniaghat | Bahraich | Est. **1975** |
@@ -731,7 +729,6 @@ D. Sacred groves
 | 11 | Patna Bird Sanctuary | Etah |
 | 12 | Sheikha / Shekha Jheel | Aligarh |
 | 13 | Surha Tal / JP Narayan Bird Sanctuary | Ballia |
-
 | Name that sounds like UP | Actual state | Trap |
 |--------------------------|--------------|------|
 | Rudrasagar | **Tripura** | Not UP |

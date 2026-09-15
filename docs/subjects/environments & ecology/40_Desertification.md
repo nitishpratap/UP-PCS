@@ -50,14 +50,13 @@ Desertification | Land Degradation | Drought | Soil Erosion
 
 ## Confused Pairs
 
-| Term | One-line fact |
-|------|---------------|
-| **Desertification / Land degradation** | ASDM drylands only / any land productivity loss |
-| **Drought / Desertification** | Temporary water deficit / lasting dryland productivity loss |
-| **Sheet / Gully / Ravine** | Thin film / channels / deep badlands |
-| **UNCCD / UNFCCC** | Desertification 1994 / climate treaty |
-| **LDN** | No net loss of healthy land by 2030 |
-
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
+| **Desertification** | **Land Degradation** | Land degradation specifically occurring in arid, semi-arid, and dry sub-humid areas (drylands) from climatic variations and human activities vs any reduction in productive potential of land everywhere | मरुस्थलीकरण (शुष्क क्षेत्र) / भूमि क्षरण (सामान्य भूमि) |
+| **Drought** | **Desertification** | Temporary natural period of deficient precipitation over months/years vs persistent, long-term degradation and loss of biological/economic productivity in dryland soils | सूखा (अस्थायी जल संकट) / मरुस्थलीकरण (स्थायी भूमि ह्रास) |
+| **Sheet Erosion** | **Gully Erosion** | Uniform, imperceptible removal of thin topsoil layer by surface runoff on gentle slopes vs formation of deep pronounced ravines and gorges rendering land unfit for cultivation (Chambal Badlands) | परत अपरदन (अदृश्य मिट्टी ह्रास) / अवनलिका अपरदन (बीहड़ निर्माण) |
+| **UNCCD (1994)** | **UNFCCC (1992)** | Only legally binding international agreement linking environment and development to sustainable land management in drylands vs framework treaty for combating greenhouse gases | मरुस्थलीकरण संधि (UNCCD) / जलवायु संधि (UNFCCC) |
+| **Land Degradation Neutrality (LDN)** | **Net Zero Emissions** | Target under SDG 15.3 ensuring no net loss of healthy land resources by 2030 vs balancing anthropogenic GHG emissions with equivalent carbon removals | भूमि क्षरण तटस्थता (LDN) / नेट जीरो उत्सर्जन |
 ---
 
 ## Must-score facts — ASDM, Chambal, UNCCD, LDN

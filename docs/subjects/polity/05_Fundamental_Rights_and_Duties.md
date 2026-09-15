@@ -625,7 +625,6 @@ D. Neither 1 nor 2
 | Implementation | Automatically enforceable | Need **legislation** |
 | Against | Mainly the State | Positive obligations on the State |
 | Conflict | *Kesavananda / Minerva Mills* — **balance**; DPSP cannot destroy FR basic structure | 39(b)(c) laws saved by **31C** |
-
 | FR | Legal / Constitutional right |
 |----|------------------------------|
 | In **Part III**; enforceable via **Art. 32** (SC) | Outside Part III (e.g. **300A**); enforced via ordinary law / **226** |

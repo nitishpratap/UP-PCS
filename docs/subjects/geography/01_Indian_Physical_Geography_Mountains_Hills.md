@@ -298,7 +298,6 @@ D. Oligocene
 | **Konkan** | Daman to Goa |
 | **Kanara (Canara)** | Goa to Mangaluru |
 | **Malabar** | Kerala |
-
 | Eastern strip | Stretch |
 |---------------|---------|
 | **Utkal Coast** | Odisha coast with the Mahanadi delta and **Chilika** |

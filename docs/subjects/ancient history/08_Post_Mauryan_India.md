@@ -112,7 +112,6 @@ Post-Mauryan Period | Satavahana Rulers | South Indian History | Indo-Greeks | S
 | Chera | Bow | **Vanji / Karur** |
 | Chola | Tiger | **Uraiyur** |
 | Pandya | Fish | **Madurai** |
-
 | Port | Lock |
 |------|------|
 | Muziris | Chera / Roman pepper |

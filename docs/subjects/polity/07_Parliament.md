@@ -2229,7 +2229,6 @@ Match List I with List II and select the correct answer using the code given bel
 | B. Maharashtra | 2. 48 |
 | C. West Bengal | 3. 42 |
 | D. Uttarakhand | 4. 5 |
-
 | Code | A | B | C | D |
 |---|---:|---:|---:|---:|
 | A | 2 | 1 | 4 | 3 |

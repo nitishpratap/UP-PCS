@@ -60,17 +60,15 @@ Climate Change | Atmospheric Studies | Global Climate Monitoring | Greenhouse Ga
 
 ## Confused Pairs
 
-| Term | One-line fact |
-|------|---------------|
-| **Climate change / Global warming** | Full system shift / temperature rise only |
-| **Greenhouse effect** | IR trapping by GHGs |
-| **Carbon sink / sequestration** | Net absorber / process of storing carbon |
-| **Carbon budget** | Cumulative CO₂ limit for a temperature goal |
-| **Carbon credit / trading** | 1 tCO₂e unit / market exchange |
-| **Mitigation / Adaptation** | Cut drivers / live with impacts |
-| **IPCC / UNFCCC** | Science / treaty |
-| **Emissions Gap Report** | **UNEP** annual NDC shortfall report |
-
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
+| **Global Warming** | **Climate Change** | Long-term rise in Earth's average surface temperature vs broader spectrum of changes including shifts in precipitation, weather extremes, and sea levels | भूमंडलीय तापन / जलवायु परिवर्तन |
+| **Climate Mitigation** | **Climate Adaptation** | Actions to reduce or prevent GHG emissions (renewable energy, carbon taxes) vs actions to adjust and build resilience to actual or expected climate impacts (seawalls, drought crops) | शमन (उत्सर्जन कटौती) / अनुकूलन (अनुकूलनशीलता) |
+| **Carbon Sink** | **Carbon Sequestration** | Natural or artificial reservoir absorbing more carbon than it releases (oceans, forests) vs the process/technique of capturing and storing carbon dioxide | कार्बन सिंक (अवशोषक) / कार्बन पृथक्करण (भंडारण प्रक्रिया) |
+| **Carbon Credit** | **Carbon Tax** | Tradable permit allowing emission of 1 tonne of CO₂ equivalent under cap-and-trade vs direct price levied by government per tonne of GHG emitted | कार्बन क्रेडिट (1 टन CO₂e) / कार्बन कर |
+| **IPCC** | **UNFCCC** | Scientific assessment body established in 1988 by WMO/UNEP (doesn't conduct research) vs multilateral legal treaty framework adopted at Rio 1992 | आईपीसीसी (वैज्ञानिक निकाय) / यूएनएफसीसीसी (कानूनी संधि) |
+| **Emissions Gap Report** | **Adaptation Gap Report** | Annual UNEP report comparing actual NDC pledges vs Paris 1.5°C targets vs annual UNEP assessment of adaptation finance and planning shortfalls | उत्सर्जन अंतराल रिपोर्ट / अनुकूलन अंतराल रिपोर्ट |
+| **Kyoto Protocol (1997)** | **Paris Agreement (2015)** | Top-down binding targets on developed countries (Annex-I) vs bottom-up voluntary Nationally Determined Contributions (NDCs) applicable to all | क्योटो प्रोटोकॉल (1997) / पेरिस समझौता (2015) |
 ---
 
 ## Must-score facts — AR6, sinks, NAPCC, NDC

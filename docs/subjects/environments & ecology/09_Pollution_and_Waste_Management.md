@@ -64,18 +64,15 @@ Environmental Pollution | Environmental Degradation | Air Pollution | Water Poll
 
 ## Confused Pairs
 
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **Pollution** | Harmful substance/energy beyond tolerance | प्रदूषण |
-| **Degradation** | Broader environmental quality decline | पर्यावरण क्षरण |
-| **BOD** | O₂ used by microbes decomposing **organic** waste | जैव रासायनिक ऑक्सीजन मांग |
-| **Eutrophication** | Nutrient overload → algal bloom → DO crash | अतिपोषण |
-| **Primary pollutant** | Emitted directly (SO₂, PM) | प्राथमिक प्रदूषक |
-| **Secondary pollutant** | Formed in atmosphere (O₃, acid rain) | द्वितीयक प्रदूषक |
-| **CPCB** | Air/surface water standards and monitoring | केंद्रीय प्रदूषण नियंत्रण बोर्ड |
-| **CGWB** | Groundwater assessment and quality reports | केंद्रीय भूजल बोर्ड |
-| **EPR** | Producer responsibility for end-of-life product/waste | विस्तारित उत्पादक जिम्मेदारी |
-
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
+| **Environmental Pollution** | **Environmental Degradation** | Direct or indirect release of harmful substances, radiation, or thermal energy into air, water, or soil causing toxic injury to living organisms vs broader long-term deterioration of environmental quality, natural capital, and ecosystem productivity | पर्यावरणीय प्रदूषण / पर्यावरणीय क्षरण |
+| **Primary Air Pollutant** | **Secondary Air Pollutant** | Emitted directly from identifiable domestic or industrial exhaust sources into the atmosphere (CO, SO₂, NO, PM, Lead) vs formed in the atmosphere through chemical or photochemical reactions among primary precursors (Tropospheric Ozone, PAN, Smog, Nitric acid) | प्राथमिक प्रदूषक (सीधे उत्सर्जित) / द्वितीयक प्रदूषक (रासायनिक क्रिया) |
+| **Biochemical Oxygen Demand (BOD)** | **Chemical Oxygen Demand (COD)** | Amount of dissolved oxygen needed by aerobic microorganisms to decompose biodegradable organic matter in water at 20°C over 5 days vs total amount of oxygen required to chemically oxidize all organic matter (both biodegradable and non-biodegradable) using a strong chemical oxidant | जैव रासायनिक ऑक्सीजन मांग (BOD) / रासायनिक ऑक्सीजन मांग (COD) |
+| **Oligotrophic Lake** | **Eutrophic Lake** | Deep, crystal-clear water body with low nutrient levels, low biological productivity, and high dissolved oxygen vs shallow, murky water body rich in nitrates/phosphates, choked with algal blooms, and experiencing severe hypolimnetic oxygen crashes | अल्पपोषी झील (स्वच्छ/कम पोषक) / सुपोषित झील (अल्गल ब्लूम/ऑक्सीजन ह्रास) |
+| **Extended Producer Responsibility (EPR)** | **Polluter Pays Principle** | Policy mandate making manufacturers legally and financially responsible for post-consumer collection, recycling, and safe disposal of their products (E-waste, plastic packaging) vs international environmental law doctrine requiring polluters to bear the financial costs of pollution mitigation and cleanup | विस्तारित उत्पादक दायित्व (EPR) / प्रदूषक भुगतान सिद्धांत |
+| **Central Pollution Control Board (CPCB)** | **Central Ground Water Board (CGWB)** | Statutory apex pollution regulator established under Water Act 1974 for framing air/water standards and national monitoring vs subordinate scientific office under Ministry of Jal Shakti assessing groundwater resources and aquifer dynamics | केंद्रीय प्रदूषण नियंत्रण बोर्ड (CPCB) / केंद्रीय भूजल बोर्ड (CGWB) |
+| **Classical (London) Smog** | **Photochemical (Los Angeles) Smog** | Occurs in cool, humid winter mornings; high concentrations of SO₂ and coal soot; chemically reducing in nature vs occurs in hot, dry, sunny afternoons; vehicle exhaust NOx + volatile organic compounds (VOCs); chemically oxidizing in nature with high ozone and PAN | लंदन स्मॉग (सल्फ्यूरस/अपचायक) / प्रकाश रासायनिक स्मॉग (ऑक्सीकारक) |
 ---
 
 ## Must-score facts — pollutants, AQI, smog, laws

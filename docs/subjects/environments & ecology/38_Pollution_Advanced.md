@@ -64,14 +64,13 @@ Air Pollution (Sources | Air Quality | AQI | NCAP | Smog | Photochemical Smog | 
 
 ## Confused Pairs
 
-| Term | One-line fact |
-|------|---------------|
-| **Primary / Secondary pollutant** | Emitted directly / formed in air |
-| **BOD / COD** | Microbial O₂ demand / chemical O₂ demand |
-| **London / Photochemical smog** | SO₂+smoke / NOx→O₃ |
-| **CPCB / CGWB** | Air–water standards / groundwater |
-| **NCAP / SAFAR** | City clean-air programme / AQ forecast system |
-
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
+| **Primary Air Pollutant** | **Secondary Air Pollutant** | Emitted directly from identifiable sources (CO, SO₂, NO, PM) vs formed in atmosphere through photochemical reactions (Ozone, PAN, Smog, Acid Rain) | प्राथमिक प्रदूषक (सीधे उत्सर्जित) / द्वितीयक प्रदूषक (रासायनिक क्रिया) |
+| **Biological Oxygen Demand (BOD)** | **Chemical Oxygen Demand (COD)** | Amount of dissolved O₂ required by aerobic bacteria to decompose organic matter vs amount of oxygen required to chemically oxidize all biodegradable and non-biodegradable matter | जैव रासायनिक ऑक्सीजन मांग (BOD) / रासायनिक ऑक्सीजन मांग (COD) |
+| **Classical (London) Smog** | **Photochemical (Los Angeles) Smog** | Occurs in cool, humid winter mornings; sulfurous, reducing, coal-smoke based vs occurs in dry, sunny afternoons; oxidizing, auto-exhaust NOx + VOCs generating ground ozone and PAN | लंदन स्मॉग (सल्फ्यूरस, अपचायक) / प्रकाश रासायनिक स्मॉग (ऑक्सीकारक) |
+| **Central Pollution Control Board (CPCB)** | **Central Ground Water Board (CGWB)** | Statutory body under Water Act 1974 for overall air/water quality monitoring vs apex subordinate office under Jal Shakti Ministry for groundwater management | सीपीसीबी (प्रदूषण नियंत्रण) / सीजीडब्ल्यूबी (भूजल बोर्ड) |
+| **SAFAR** | **NCAP** | Ministry of Earth Sciences real-time metropolitan air quality forecasting system vs MoEFCC national targeted programme to cut PM2.5/PM10 by 20–30% across 131 non-attainment cities | सफर (सटीक पूर्वानुमान प्रणाली) / राष्ट्रीय स्वच्छ वायु कार्यक्रम |
 ---
 
 ## Must-score facts — AQI, smog, BOD, disease traps

@@ -413,7 +413,6 @@ Residual clay on **Deccan Trap basalt** (fissure volcanic / lava rock), includin
 | Lime, iron, magnesia, alumina | Rich |
 | Potash | Present / variable |
 | Nitrogen, phosphorus, organic matter / humus | **Deficient** — so “rich in humus” A/R reasons are **false** |
-
 | Region | Note |
 |--------|------|
 | Maharashtra (Vidarbha) | Classic / most widespread cotton regur |
@@ -450,7 +449,6 @@ Form on ancient **crystalline igneous and metamorphic** rocks (acid granite, gne
 |-----------|--------|
 | Iron oxides (colour); potash often adequate | Present |
 | N, P, humus; sometimes lime | Often deficient |
-
 | Region | Note |
 |--------|------|
 | Tamil Nadu, Karnataka, AP/TG | Wide red loams |
@@ -488,7 +486,6 @@ Needs **high temperature + heavy rainfall** with **alternate wet and dry** perio
 |-----------|--------|
 | Iron oxide, aluminium compounds | Excess / rich |
 | OM, N, phosphate, calcium, lime, silica | Poor / leached |
-
 | Item | Note |
 |------|------|
 | Climate | High T + heavy rain + wet–dry |
@@ -658,13 +655,11 @@ D. Black soil is found in Himalayan region
 | Silty | Medium–high | Medium | Moderate | Some alluvium |
 | Clayey | High | Slow | Hard when wet | Black regur |
 | **Loam** | Balanced | Balanced | Favourable | Best farm texture |
-
 | Particle | Diameter |
 |----------|--------------------------|
 | **Clay** | **< 0.002 mm** |
 | Silt | About 0.002–0.06 mm |
 | Fine sand | About 0.06–2 mm |
-
 | Condition | pH tendency | Remedy hint |
 |-----------|-------------|-------------|
 | Laterite / NE humid / peaty | Acidic | Lime |
@@ -750,7 +745,6 @@ D. Black soil is found in Himalayan region
 | Regulated grazing | Keep surface cover | Pastures |
 | Gypsum / lime | Chemical reclaim | Alkaline / acid |
 | Drainage / canal lining | Lower water table | Canal usar tracts |
-
 | Scheme / name | Note |
 |----------------|------|
 | **Mitti Bachao** | Started **Hoshangabad (Narmadapuram), MP** — waterlogging/degradation in a dam command; not Thane / Mysore / Darbhanga |
@@ -808,7 +802,6 @@ D. Hoshangabad, Madhya Pradesh
 | Vindhyan / Baghelkhand fringe | Mirzapur, Sonbhadra, parts of Prayagraj–Chandauli | Red–yellow with Fe/Al; **Bhonta/Monta** | Pulses, millets, oilseeds |
 | Aravali fringe | Parts of Agra | Reddish, Chambal-brought | Local fringe |
 | Usar / Reh | W–central canal plains | Saline–alkaline crusts | Gypsum + drainage |
-
 | Local name | Colour family | Trait | Core districts |
 |------------|---------------|-------|----------------|
 | **Mar** | Black | Fine clayey and OM-rich | Jalaun, Hamirpur, Jhansi, Banda |
@@ -823,7 +816,6 @@ D. Hoshangabad, Madhya Pradesh
 | Reh / Usar / Kallar / Thur / Banjar | Saline–alkaline | Canal tracts | Aligarh, Mainpuri, Etawah, Kanpur, Unnao, Raebareli, Lucknow belt |
 | Bhur | Sandy ridges | Upper Ganga–Yamuna Doab | Western plain |
 | Jalodh / Cop | Alluvial local names | Plains | — |
-
 | Problem | Hotspot | Fix |
 |---------|---------|-----|
 | Usar / reh | W–central canal tracts | Gypsum + drainage + OM |

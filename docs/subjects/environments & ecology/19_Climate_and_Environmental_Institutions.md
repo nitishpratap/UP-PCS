@@ -52,17 +52,14 @@ IPCC | UNEP | UNDP | IUCN | WWF | FAO (Environment-related Role)
 
 ## Confused Pairs
 
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **IPCC** | Climate **science assessment** body | IPCC |
-| **UNFCCC** | Climate **treaty** framework — COP, NDCs | UNFCCC |
-| **UNEP** | UN **environment** programme — Nairobi | UNEP |
-| **UNDP** | UN **development** agency — HDI, HDR | UNDP |
-| **IUCN** | **Red List** extinction risk assessment | IUCN |
-| **CITES** | **Trade** regulation — not IUCN | CITES |
-| **WWF** | Conservation **NGO** — Living Planet Report | WWF |
-| **FAO** | Food/agriculture agency — Rome | FAO |
-
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
+| **Intergovernmental Panel on Climate Change (IPCC)** | **UN Framework Convention on Climate Change (UNFCCC)** | Scientific assessment panel established in 1988 by WMO and UNEP that reviews peer-reviewed literature (does not conduct research or negotiate policy) vs international legal treaty and negotiating secretariat that coordinates annual Conference of Parties (COPs) | आईपीसीसी (वैज्ञानिक समीक्षा निकाय) / यूएनएफसीसीसी (वार्ता व संधि सचिवालय) |
+| **United Nations Environment Programme (UNEP)** | **United Nations Development Programme (UNDP)** | Apex global environmental authority coordinating UN environmental activities, hosting MEA secretariats (HQ: Nairobi, Kenya) vs UN global development network focusing on poverty reduction, sustainable growth, and publishing the Human Development Report (HQ: New York) | यूएनईपी (नैरोबी, पर्यावरण एजेंसी) / यूएनडीपी (न्यूयॉर्क, विकास एजेंसी) |
+| **International Union for Conservation of Nature (IUCN)** | **World Wide Fund for Nature (WWF)** | World's oldest and largest global conservation union composed of governments and civil society (1948, Gland) publishing the IUCN Red List vs independent international private conservation NGO (1961, Gland) famous for the Giant Panda symbol and Earth Hour | आईयूसीएन (रेड लिस्ट प्रकाशक) / डब्ल्यूडब्ल्यूएफ (पांडा प्रतीक एनजीओ) |
+| **Global Environment Facility (GEF)** | **Green Climate Fund (GCF)** | Multilateral financial partnership established in 1991 serving as financial mechanism for 5 MEAs (CBD, UNCCD, Stockholm, Minamata, UNFCCC) vs dedicated operating financial mechanism of the UNFCCC established at COP16 Cancun focusing specifically on climate projects in developing nations | जीईएफ (GEF, बहु-संधि कोष) / जीसीएफ (GCF, हरित जलवायु कोष) |
+| **Food and Agriculture Organization (FAO)** | **World Meteorological Organization (WMO)** | Specialized UN agency leading international efforts to defeat hunger, maintain agricultural biodiversity, and soil health (HQ: Rome) vs specialized UN agency dedicated to atmospheric science, climatology, and operational hydrology (HQ: Geneva) | एफएओ (रोम, खाद्य व कृषि) / डब्लूएमओ (जिनेवा, मौसम विज्ञान) |
+| **International Solar Alliance (ISA)** | **International Renewable Energy Agency (IRENA)** | Intergovernmental treaty-based organization launched jointly by India and France at COP21 Paris to promote solar energy deployment (HQ: Gurugram, India) vs intergovernmental organization supporting countries in their transition to all renewable energy types (HQ: Abu Dhabi, UAE) | अंतरराष्ट्रीय सौर गठबंधन (ISA, गुरुग्राम) / इरेना (IRENA, अबू धाबी) |
 ---
 
 ## Must-score facts — IPCC, UNEP, IUCN HQs & reports

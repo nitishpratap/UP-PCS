@@ -52,17 +52,14 @@ Environmental Impact Assessment (EIA) | Strategic Environmental Assessment (SEA)
 
 ## Confused Pairs
 
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **EIA** | Project-level impact study before clearance | पर्यावरण प्रभाव मूल्यांकन |
-| **SEA** | Policy/plan/programme-level assessment upstream of projects | रणनीतिक पर्यावरण मूल्यांकन |
-| **EC** | Formal environmental clearance for listed projects | पर्यावरण अनुमति |
-| **EMP** | Mitigation and monitoring plan in EIA report | पर्यावरण प्रबंधन योजना |
-| **Category A** | Central appraisal by MoEFCC through EAC | 'ए' श्रेणी |
-| **Category B** | State appraisal by SEIAA through SEAC | 'ब' श्रेणी |
-| **ToR** | Scope of issues the EIA must study — fixed at scoping | संदर्भ की शर्तें |
-| **NGT** | Green tribunal for EC and pollution appeals | राष्ट्रीय हरित अधिकरण |
-
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
+| **Environmental Impact Assessment (EIA)** | **Strategic Environmental Assessment (SEA)** | Formal analytical process evaluating the potential ecological impacts of a specific *project* (e.g. thermal plant, highway) before sanction vs higher-level systemic evaluation applied to government *policies, plans, and programmes* | पर्यावरण प्रभाव आकलन (EIA, परियोजना स्तर) / रणनीतिक पर्यावरण आकलन (SEA, नीति स्तर) |
+| **Category A Projects** | **Category B Projects** | Large-scale developmental projects requiring mandatory full-scale EIA appraised centrally at Union level by MoEFCC on recommendations of EAC vs smaller projects appraised at State level by SEIAA on recommendations of SEAC | श्रेणी 'ए' (केंद्रीय मूल्यांकन) / श्रेणी 'ब' (राज्य मूल्यांकन) |
+| **Category B1 Projects** | **Category B2 Projects** | State-level projects that undergo complete EIA process and mandatory public hearing due to significant ecological footprint vs smaller Category B projects exempted from EIA study and public consultation, appraised solely on application summary | श्रेणी 'ब1' (EIA अनिवार्य) / श्रेणी 'ब2' (EIA से छूट) |
+| **Terms of Reference (ToR)** | **Environmental Management Plan (EMP)** | Comprehensive boundary document outlining all environmental baseline issues and studies that the project proponent must investigate vs actionable mitigation, monitoring, and institutional plan submitted in the final EIA report | संदर्भ की शर्तें (ToR, आरंभिक ढांचा) / पर्यावरण प्रबंधन योजना (EMP, शमन कार्ययोजना) |
+| **Public Hearing (Consultation)** | **Appraisal** | Statutory public stage where local affected communities and citizens voice concerns and objections to the draft EIA vs detailed scientific scrutiny of final EIA and public hearing proceedings by EAC or SEAC | जन सुनवाई (स्थानीय सहभागिता) / वैज्ञानिक मूल्यांकन (EAC/SEAC) |
+| **National Green Tribunal (NGT)** | **Appellate Authority under Air/Water Acts** | Specialized judicial tribunal established under NGT Act 2010 hearing original environmental disputes and appeals against environmental clearances (EC) vs administrative appellate authorities designated under Water Act 1974 / Air Act 1981 | राष्ट्रीय हरित अधिकरण (न्यायिक अधिकरण) / राज्य अपीलीय प्राधिकरण |
 ---
 
 ## Must-score facts — EIA stages, categories, SEA
@@ -115,7 +112,6 @@ Environmental Impact Assessment (EIA) | Strategic Environmental Assessment (SEA)
 | B1 | SEIAA + SEAC | Yes | Yes |
 | B2 | SEIAA/DEIAA | Yes | No full report |
 | B + General Condition | MoEFCC (elevated) | — | As Category A |
-
 | Stage | What happens |
 |-------|--------------|
 | Screening | B → B1 or B2 |
@@ -149,7 +145,6 @@ Environmental Impact Assessment (EIA) | Strategic Environmental Assessment (SEA)
 | India law | Mandatory (2006) | No standalone law |
 | Cumulative impacts | Limited | Core focus |
 | Example | EC for one thermal plant | National sector plan before siting |
-
 | Instrument | Year | Scope |
 |------------|------|-------|
 | Rio Principle 17 | 1992 | Project EIA norm |

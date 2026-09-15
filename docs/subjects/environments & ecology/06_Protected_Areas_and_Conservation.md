@@ -60,18 +60,15 @@ Wildlife Sanctuary | National Park | Biosphere Reserve | Conservation Reserve | 
 
 ## Confused Pairs
 
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **Wildlife Sanctuary** | Protected habitat; limited human use **with CWLW permission** | वन्यजीव अभयारण्य |
-| **National Park** | **Strictest** WPA PA — exploitation largely banned | राष्ट्रीय उद्यान |
-| **Biosphere Reserve** | UNESCO 3-zone landscape model | जीवमंडल आरक्षित क्षेत्र |
-| **Conservation Reserve** | Govt/community **forest buffer** — Sec 36A | संरक्षण आरक्षित क्षेत्र |
-| **Community Reserve** | **Private/community land** — Sec 36B | सामुदायिक आरक्षित क्षेत्र |
-| **Tiger Reserve** | WPA statutory PA with **core + buffer** under NTCA | बाघ आरक्षित क्षेत्र |
-| **Elephant Reserve** | Executive notification — **no WPA basis** | हाथी आरक्षित क्षेत्र |
-| **Ramsar Site** | Wetland of international importance | रामसर स्थल |
-| **ESZ** | EPA buffer restricting polluting activity around PA | पारिस्थितिक संवेदनशील क्षेत्र |
-
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
+| **National Park (NP)** | **Wildlife Sanctuary (WLS)** | Declared under WPA 1972 Sec 35; highest protection, zero human settlement, grazing banned, boundaries altered only by State Legislature on NBWL advice vs WPA Sec 18; regulated grazing and traditional rights may be permitted by Chief Wildlife Warden | राष्ट्रीय उद्यान (NP) / वन्यजीव अभयारण्य (WLS) |
+| **Conservation Reserve** | **Community Reserve** | Established on government-owned lands acting as buffer corridors between PAs under WPA Sec 36A vs established on private or community-owned lands with voluntary community participation under WPA Sec 36C | संरक्षण आरक्षित क्षेत्र / सामुदायिक आरक्षित क्षेत्र |
+| **Tiger Reserve** | **Elephant Reserve** | Statutory protected area notified under Wildlife Protection Act 1972 (amended 2006) with legally delineated Core and Buffer zones supervised by NTCA vs administrative/executive designation under Project Elephant without statutory backing under WPA | बाघ अभयारण्य (सांविधिक) / हाथी अभयारण्य (प्रशासनिक) |
+| **Biosphere Reserve (MAB)** | **National Park** | Landscape-level conservation framework under UNESCO MAB with 3 distinct concentric zones (Core, Buffer, Transition) integrating human development vs strict statutory preservation excluding human commercial activity | जैवमंडल आरक्षित क्षेत्र / राष्ट्रीय उद्यान |
+| **Eco-Sensitive Zone (ESZ)** | **Protected Area (PA)** | Buffer zone up to 10 km notified around National Parks and Sanctuaries under Section 3 of Environment (Protection) Act 1986 to regulate commercial activities vs statutory core area notified under Wildlife Protection Act 1972 | पर्यावरण-संवेदनशील क्षेत्र (ESZ) / संरक्षित क्षेत्र (PA) |
+| **Ramsar Wetland Site** | **Natural World Heritage Site** | International designation under 1971 Ramsar Convention specifically targeting ecological wise use of waterfowl/wetland habitats vs UNESCO World Heritage designation recognizing universal natural value under 1972 Convention | रामसर आर्द्रभूमि स्थल / प्राकृतिक विश्व धरोहर स्थल |
+| **Core Zone (Biosphere)** | **Transition Zone (Biosphere)** | Legally protected untouched sanctum sanctorum where all human activity except non-destructive research is barred vs outermost open area where local sustainable agriculture, settlements, and economic activities are actively fostered | कोर क्षेत्र (पूर्ण सुरक्षित) / संक्रमण क्षेत्र (सहअस्तित्व) |
 ### Protected-area hierarchy — one card
 
 | Category | Legal home | Strictness / use | Classic trap |

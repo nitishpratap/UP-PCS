@@ -52,18 +52,14 @@ Acid Rain | Causes | Effects | Prevention
 
 ## Confused Pairs
 
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **Acid rain** | Deposition with pH below 5.6 from SO₂/NOx acids | अम्ल वर्षा |
-| **Normal rain** | Unpolluted rain at pH ~5.6 from dissolved CO₂ | सामान्य वर्षा |
-| **Wet deposition** | Acids fall dissolved in precipitation | ओसा निक्षेप |
-| **Dry deposition** | Acidic gases/particles settle without rain | शुष्क निक्षेप |
-| **SO₂** | Primary pollutant from coal/oil → H₂SO₄ | सल्फर डाइऑक्साइड |
-| **NOx** | Primary pollutant from combustion → HNO₃ | नाइट्रोजन ऑक्साइड |
-| **FGD** | Flue Gas Desulphurisation — removes SO₂ from chimneys | फ्लू गैस डिसल्फुराइजेशन |
-| **Gothenburg Protocol** | 1999 CLRTAP treaty to cut transboundary acidifying emissions | गोथेनबर्ग प्रोटोकॉल |
-| **Taj Trapezium Zone** | ~10,400 km² pollution-control belt around Taj Mahal | ताज ट्रapezium क्षेत्र |
-
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
+| **Normal Rain** | **Acid Rain** | Slightly acidic precipitation with pH ~5.6 caused by dissolved atmospheric carbon dioxide forming weak carbonic acid (H₂CO₃) vs precipitation with pH strictly below 5.6 caused by anthropogenic emissions of sulfur dioxide (SO₂) and nitrogen oxides (NOx) | सामान्य वर्षा (pH ~5.6) / अम्ल वर्षा (pH < 5.6) |
+| **Sulfuric Acid (H₂SO₄)** | **Nitric Acid (HNO₃)** | Accounts for ~60–70% of total acid deposition acidity (primarily emitted by coal-fired thermal power plants and metal smelters) vs accounts for ~30–40% of acidity (primarily emitted by automobile exhausts and nitrogenous fertilizer use) | सल्फ्यूरिक अम्ल (60–70% भारांक) / नाइट्रिक अम्ल (30–40% भारांक) |
+| **Wet Acid Deposition** | **Dry Acid Deposition** | Direct transfer of acidic pollutants to Earth's surface incorporated into falling rain, fog, sleet, or snow vs settling of acidic gases, sulfate aerosols, and nitrate dust directly onto soil, vegetation, and buildings without moisture | आर्द्र निक्षेपण (वर्षा/कोहरा) / शुष्क निक्षेपण (गैस व धूलिकण) |
+| **Marble Cancer** | **Eutrophication** | Chemical weathering and yellowing/spalling of calcium carbonate structures (e.g. Taj Mahal) reacting with sulfuric acid to form soluble gypsum (CaSO₄) vs excessive nutrient enrichment of water bodies leading to dense algal blooms and dissolved oxygen crashes | संगमरमर कैंसर (ताजमहल क्षरण) / सुपोषण (जलीय पोषक संवर्धन) |
+| **Gothenburg Protocol (1999)** | **Montreal Protocol (1987)** | UNECE agreement under CLRTAP targeting multi-pollutant abatement of acidification, eutrophication, and ground-level ozone (SO₂, NOx, VOCs, NH₃) vs UNEP treaty targeting the global phase-out of ozone-depleting substances | गोथेनबर्ग प्रोटोकॉल (अम्लीकरण नियंत्रण) / मॉन्ट्रियल प्रोटोकॉल (ओजोन) |
+| **Taj Trapezium Zone (TTZ)** | **Eco-Sensitive Zone (ESZ)** | Specifically demarcated ~10,400 km² protective geographical zone covering Agra, Firozabad, Mathura, and Bharatpur to safeguard the Taj Mahal from industrial air pollution vs buffer belt up to 10 km declared around National Parks under EPA 1986 | ताज ट्रपेज़ियम ज़ोन (10,400 वर्ग किमी) / पारिस्थितिक संवेदनशील क्षेत्र |
 ---
 
 ## Must-score facts — pH, acids, Taj, Gothenburg

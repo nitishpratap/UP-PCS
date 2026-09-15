@@ -54,19 +54,14 @@ Microplastics | Carbon Credit | Carbon Trading | Net Zero Emissions | Green Fina
 
 ## Confused Pairs
 
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **Microplastics** | Plastic particles **<5 mm** | सूक्ष्म प्लास्टिक |
-| **Carbon credit** | Certificate for **1 tCO₂e** reduced/removed | कार्बन क्रेडिट |
-| **Carbon trading** | Market exchanging emission allowances/credits | कार्बन ट्रेडिंग |
-| **Carbon offset** | Using credits to compensate for own emissions | कार्बन ऑफसेट |
-| **Net zero** | Emissions balanced by equivalent removals | शुद्ध शून्य |
-| **Green finance** | Funding for environmentally sustainable projects | हरित वित्त |
-| **Blue economy** | Sustainable use of ocean/coastal resources | नीली अर्थव्यवस्था |
-| **Blue carbon** | Carbon stored in mangroves/seagrass | नीला कार्बन |
-| **LiFE Mission** | Pro-planet lifestyle behaviour change programme | LiFE |
-| **Green Credit** | India 2023 eco-action incentive — not same as carbon credit | ग्रीन क्रेडिट |
-
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
+| **Primary Microplastics** | **Secondary Microplastics** | Microscopic plastic particles (<5 mm) intentionally manufactured for commercial applications (microbeads in facial scrubs, toothpaste, virgin industrial resin pellets) vs microplastics formed by physical weathering, photo-degradation, and fragmentation of macro-plastics in the environment | प्राथमिक माइक्रोप्लास्टिक (निर्मित मनके) / द्वितीयक माइक्रोप्लास्टिक (अपघटित कण) |
+| **Carbon Credit** | **Green Credit (2023)** | Tradable compliance unit representing 1 metric tonne of CO₂ equivalent emission reduction or removal registered under carbon markets vs incentives under India's Green Credit Programme (2023) rewarding diverse eco-actions (afforestation, water harvesting, mangrove conservation) beyond carbon | कार्बन क्रेडिट (1 टन CO₂e मानक) / ग्रीन क्रेडिट (पर्यावरण कार्य प्रोत्साहन) |
+| **Net Zero Emissions** | **Gross Zero Emissions** | Balancing residual greenhouse gas emissions across all sectors with equivalent anthropogenic carbon removals and sequestration by 2050/2070 vs absolute elimination of all greenhouse gas emissions to absolute zero without relying on offsets or sinks | नेट जीरो (उत्सर्जन-अवशोषण संतुलन) / सकल शून्य (पूर्ण उत्सर्जन शून्यता) |
+| **Blue Economy** | **Blue Carbon** | Sustainable utilization of ocean, coastal, and marine resources for economic growth, improved livelihoods, and jobs while preserving marine ecosystem health vs organic carbon captured, sequestered, and stored over centuries by coastal marine ecosystems (mangroves, seagrasses, salt marshes) | नीली अर्थव्यवस्था (महासागरीय संधारणीय विकास) / नीला कार्बन (तटीय मैंग्रोव संचित कार्बन) |
+| **Green Finance** | **Greenwashing** | Structured financial investments, bonds, and banking loans directed specifically towards environmentally sustainable development and clean energy projects vs deceptive marketing, publicity, or PR spin falsely exaggerating a company's environmental credentials and sustainability | हरित वित्त (टिकाऊ निवेश) / ग्रीनवॉशिंग (झूठा पर्यावरण प्रचार) |
+| **Mission LiFE (2022)** | **Lifestyle for Environment** | Global citizen movement launched in October 2022 at Kevadia by PM Modi and UN Secretary-General mobilizing individuals to become 'Pro-Planet People' (P3) through 75 actionable behavioral changes vs abstract corporate environmental pledges | मिशन लाइफ (LiFE, P3 नागरिक आंदोलन) / जीवनशैली पर्यावरण |
 ---
 
 ## Must-score facts — carbon markets, net zero, LiFE

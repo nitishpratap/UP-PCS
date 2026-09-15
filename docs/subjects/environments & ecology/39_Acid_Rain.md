@@ -50,14 +50,13 @@ Acid Rain | Causes | Effects | Prevention
 
 ## Confused Pairs
 
-| Term | One-line fact |
-|------|---------------|
-| **Acid rain / Normal rain** | pH < 5.6 / pH ≈ 5.6 from CO₂ |
-| **Wet / Dry deposition** | With precipitation / without rain |
-| **SO₂ / CO₂ role** | Strong H₂SO₄ / weak H₂CO₃ baseline |
-| **Gothenburg / Montreal** | Acidifying pollutants / ozone ODS |
-| **Taj Trapezium** | Pollution-control belt around Taj |
-
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
+| **Normal Rain** | **Acid Rain** | Slightly acidic with pH ~5.6 due to dissolved atmospheric CO₂ forming weak carbonic acid (H₂CO₃) vs precipitation with pH < 5.6 caused by anthropogenic SO₂ and NOx | सामान्य वर्षा (pH 5.6) / अम्ल वर्षा (pH < 5.6) |
+| **Sulfuric Acid (H₂SO₄)** | **Nitric Acid (HNO₃)** | Contributes ~60–70% of total acid precipitation (emitted mainly by coal thermal power plants) vs contributes ~30–40% (emitted by automobile engines and fertilizers) | सल्फ्यूरिक अम्ल (60-70%) / नाइट्रिक अम्ल (30-40%) |
+| **Wet Acid Deposition** | **Dry Acid Deposition** | Acidic compounds deposited on Earth via rain, fog, sleet, or snow vs acidic gases, sulfate, and nitrate particles settling directly on soil and buildings without precipitation | आर्द्र निक्षेपण (वर्षा/कोहरा) / शुष्क निक्षेपण (धूल/गैस कण) |
+| **Marble Cancer** | **Eutrophication** | Yellowing and pitting of calcium carbonate monuments (Taj Mahal) reacting with sulfuric acid to form soluble gypsum vs excess nutrient loading in water bodies causing algal blooms | संगमरमर कैंसर (ताजमहल क्षरण) / सुपोषण (शैवाल प्रस्फुटन) |
+| **Gothenburg Protocol (1999)** | **Montreal Protocol (1987)** | UNECE protocol to abate acidification, eutrophication, and ground-level ozone (SO₂, NOx, VOCs, NH₃) vs UNEP protocol phasing out ozone-depleting chlorofluorocarbons | गोथेनबर्ग प्रोटोकॉल (अम्लीकरण) / मॉन्ट्रियल प्रोटोकॉल (ओजोन) |
 ---
 
 ## Must-score facts — pH, Taj Trapezium, protocols

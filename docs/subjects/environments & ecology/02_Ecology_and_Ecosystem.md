@@ -64,28 +64,18 @@ Ecology – Meaning | Ecosystem | Types of Ecosystems | Terrestrial Ecosystem | 
 
 ## Confused Pairs
 
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **Ecology** | *Study* of organism–environment interactions | पारिस्थितिकी |
-| **Ecosystem** | Functional *unit* of biotic + abiotic interaction | पारिस्थितिकी तंत्र |
-| **Habitat** | *Place* where organism lives | निवास स्थान |
-| **Niche** | *Role/function* of species in ecosystem | पारिस्थितिक niche |
-| **Community** | All populations of different species in an area | समुदाय |
-| **Population** | Same species, same area, interbreeding group | जनसंख्या |
-| **Sere** | Entire sequence of communities in succession | अनुक्रमण श्रृंखला |
-| **Climax community** | Final stable, self-perpetuating community | चरम समुदाय |
-| **GPP** | Total energy fixed by producers (gross) | सकल प्राथमिक उत्पादकता |
-| **NPP** | GPP minus plant respiration | शुद्ध प्राथमिक उत्पादकता |
-| **Fundamental niche** | Full potential role without competition | मूल niche |
-| **Realized niche** | Actual role after competition limits | वास्तविक niche |
-| **Primary succession** | Starts on lifeless substrate | प्राथमिक अनुक्रमण |
-| **Secondary succession** | Starts where soil already exists | द्वितीयक अनुक्रमण |
-| **r-strategist** | Many offspring, fast growth, short life | r-रणनीतिकारी |
-| **K-strategist** | Few offspring, slow growth, long life | K-रणनीतिकारी |
-| **Ecotone** | Transition zone between two communities | इकोटोन |
-| **Bionomics** | Synonym of ecology — not “management of life” | बायोनॉमिक्स |
-| **Carrying capacity** | Max sustainable population for available resources | वहन क्षमता |
-
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
+| **Ecology (Haeckel 1866)** | **Ecosystem (Tansley 1935)** | Scientific academic study of organism-environment interactions vs concrete structural-functional unit of nature combining biotic and abiotic components | पारिस्थितिकी / पारिस्थितिक तंत्र |
+| **Habitat** | **Ecological Niche** | Physical place or environmental zone where a species resides vs unique functional role, trophic position, and resource utilization pattern (Grinnell) | वास स्थान / पारिस्थितिक निकेत |
+| **Population** | **Ecological Community** | Group of interbreeding individuals of the *same* species in an area vs assemblage of populations of *different* interacting species in an area | जनसंख्या (समष्टि) / जैविक समुदाय |
+| **Gross Primary Productivity (GPP)** | **Net Primary Productivity (NPP)** | Total rate of organic matter synthesized by producers via photosynthesis vs actual biomass available to consumers after plant respiration losses (NPP = GPP - R) | सकल प्राथमिक उत्पादकता (GPP) / शुद्ध प्राथमिक उत्पादकता (NPP) |
+| **Fundamental Niche** | **Realized Niche** | Full theoretical potential range of environmental conditions and resources a species can use without competition vs actual restricted niche occupied due to biotic competition | मूल (मौलिक) निकेत / वास्तविक निकेत |
+| **Primary Succession** | **Secondary Succession** | Ecological succession beginning on barren, lifeless substrate with no pre-existing soil (cooled lava, bare rock) vs succession on disturbed areas where soil already exists (after forest fire, flood) | प्राथमिक अनुक्रमण / द्वितीयक अनुक्रमण |
+| **r-Selected Species** | **K-Selected Species** | High reproductive rate, small body, short lifespan, little parental care (insects, rodents, weeds) vs low reproductive rate, large body, long lifespan, high parental care (elephants, whales, humans) | r-रणनीतिकारी / K-रणनीतिकारी प्रजाति |
+| **Ecotone** | **Ecotype** | Sharp transition boundary zone between two distinct ecological communities (mangroves, forest-grassland edge) vs genetically distinct geographic variety or sub-population within a species | इकोटोन (संक्रमण क्षेत्र) / इकोटाइप |
+| **Sere** | **Climax Community** | Entire chronological transitional sequence of developmental communities during ecological succession vs final, stable, self-perpetuating terminal community in equilibrium with regional climate | क्रमक (Sere) / चरम समुदाय |
+| **Bionomics** | **Ecology** | Historical 19th-century synonym of ecology meaning "laws of life" (UPPCS trap: bionomics is NOT management of life) vs modern ecology | बायोनॉमिक्स / पारिस्थितिकी |
 ---
 
 ## Must-score facts — terms, succession, productivity

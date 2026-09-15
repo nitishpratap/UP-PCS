@@ -50,16 +50,13 @@ Environmental Indicators | Environmental Monitoring | Environmental Audit
 
 ## Confused Pairs
 
-| Term | One-line fact |
-|------|---------------|
-| **Indicator** | Signal of environmental condition/trend |
-| **Monitoring** | Systematic repeated measurement |
-| **Audit** | Verified compliance check against law/EC |
-| **BOD / COD** | Microbial O₂ demand / chemical O₂ demand |
-| **CPCB / CGWB** | Air–surface water / groundwater |
-| **NAMP / CAAQMS** | Manual air trend / real-time continuous |
-| **Ringelmann** | Smoke opacity scale 0–5 |
-
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
+| **Environmental Indicator** | **Environmental Monitoring** | Specific quantitative metric reflecting state of an ecosystem (e.g., Lichens for SO₂, E. coli for fecal water contamination) vs continuous systematic collection and analysis of environmental data over time | पर्यावरणीय संकेतक / पर्यावरणीय निगरानी |
+| **Environmental Impact Assessment (EIA)** | **Environmental Audit** | Prospective preventive study predicting ecological impacts of a project *before* environmental clearance vs retrospective verification of legal compliance and emissions *after* commissioning | पर्यावरण प्रभाव आकलन (EIA) / पर्यावरण लेखापरीक्षा |
+| **National Air Monitoring Programme (NAMP)** | **Continuous Ambient Air Quality (CAAQMS)** | Nationwide manual sampling network monitoring SO₂, NO₂, PM10, PM2.5 twice weekly vs automated sensors measuring 12 criteria pollutants with real-time online data | राष्ट्रीय वायु निगरानी (NAMP) / सतत परिवेशी वायु निगरानी (CAAQMS) |
+| **Bioindicator** | **Biomarker** | Organism whose presence/absence indicates environmental quality (Lichens for air, Diatoms/Mayfly for fresh water) vs cellular/biochemical alteration measured in an organism due to chemical exposure | जैव संकेतक (लाइकेन/मेफ्लाई) / जैव मार्कर |
+| **Ringelmann Scale** | **Decibel (dB)** | Visual chart scale (0 to 5) used to measure the apparent density/opacity of industrial smoke emissions vs logarithmic acoustic unit measuring environmental sound levels | रिंगेलमैन पैमाना (धुआं घनत्व) / डेसिबल (ध्वनि तीव्रता) |
 ---
 
 ## Must-score facts — PSR, NAMP, audit, BOD

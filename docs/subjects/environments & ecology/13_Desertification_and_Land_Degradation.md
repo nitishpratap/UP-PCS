@@ -52,17 +52,14 @@ Desertification | Land Degradation | Soil Erosion
 
 ## Confused Pairs
 
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **Desertification** | Productivity loss in ASDM drylands from human + climate stress | मरुस्थलीकरण |
-| **Land degradation** | Broader decline in productive capacity of any land | भू-क्षरण |
-| **Soil erosion** | Physical removal of topsoil by water, wind, or gravity | मृदा अपरदन |
-| **Wasteland** | Degraded land unsuitable for cultivation | बंजर भूमि |
-| **Sheet erosion** | Uniform thin topsoil removal — first water-erosion stage | पत्र अपरदन |
-| **Gully/ravine erosion** | Deep channels — Chambal badlands | गर्त/बंजर अपरदन |
-| **UNCCD** | 1994 treaty to combat desertification | UNCCD |
-| **LDN** | SDG 15.3 — no net loss of healthy land by 2030 | भू-क्षरण तटस्थता |
-
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
+| **Desertification** | **Land Degradation** | Persistent reduction or loss of biological and economic productivity occurring specifically in Arid, Semi-Arid, and Dry Sub-Humid areas (drylands) vs general decline in the productive capacity and ecosystem health of any land anywhere | मरुस्थलीकरण (शुष्क भूमियों में) / भू-क्षरण (सामान्य भूमि अवनति) |
+| **Drought** | **Desertification** | Temporary natural meteorological period of deficient precipitation over months or a few years from which ecosystems can recover vs persistent, semi-permanent ecological degradation and productivity loss driven by unsustainable human use and climate stress | सूखा (अस्थायी मौसमी संकट) / मरुस्थलीकरण (स्थायी भूमि ह्रास) |
+| **Sheet Erosion** | **Gully Erosion** | Uniform, imperceptible removal of a thin layer of topsoil over large flat cultivated fields by sheetwash runoff vs cutting of deep, severe channels and ravines by concentrated runoff carving badland topography (e.g. Chambal ravines) | परत (चादर) अपरदन / अवनलिका अपरदन (बीहड़ निर्माण) |
+| **Splash Erosion** | **Rill Erosion** | Initial detachment and airborne displacement of soil particles caused directly by the physical impact of falling raindrops vs intermediate erosion stage where tiny, shallow, visible finger-like channels are formed on sloped ground | आघात (स्पलैश) अपरदन / क्षुद्र सरिता (रिल) अपरदन |
+| **UNCCD (1994)** | **UNFCCC (1992)** | Sole legally binding international treaty linking environment and development to sustainable land management, desertification, and drought in drylands vs framework convention dedicated to addressing anthropogenic climate change and greenhouse gases | मरुस्थलीकरण रोकथाम संधि (UNCCD) / जलवायु परिवर्तन संधि (UNFCCC) |
+| **Land Degradation Neutrality (LDN)** | **Net Zero Emissions** | Target under UN SDG 15.3 ensuring that the quantity and quality of land resources necessary to support ecosystem functions remain stable or increase by 2030 vs balancing greenhouse gas emissions with equivalent removals | भूमि क्षरण तटस्थता (LDN, SDG 15.3) / नेट जीरो उत्सर्जन |
 ---
 
 ## Must-score facts — drylands, erosion, UNCCD, schemes
@@ -196,7 +193,6 @@ D. Only 1
 | Rill | Small grooves after rain |
 | Gully | Deep channels, uncrossable by plough |
 | Ravine | Chambal-type badland maze |
-
 | Agent | Main region | Processes |
 |-------|-------------|-----------|
 | Water | Monsoon slopes, Chambal | Sheet → ravine |

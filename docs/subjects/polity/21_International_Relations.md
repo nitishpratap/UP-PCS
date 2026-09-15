@@ -94,8 +94,8 @@ Newest first. One event, one fact.
 
 ## Confused Pairs
 
-| Term A | Term B | Core difference |
-|--------|--------|-----------------|
+| Term A | Term B | Core difference | Hindi Terminology |
+| -------- | -------- | ----------------- | -------- / -------- |
 | **Non-alignment (policy)** | **NAM (movement)** | Nehru’s *judgment* | **1961 Belgrade** club of States |
 | **NAM** | **NATO** | No Art. 5, no HQ army | **1949** military alliance, Art. **5** |
 | **Panchsheel** | **Bandung 1955** | **29 Apr 1954** India–China five | Afro-Asian conference that **echoed** the five |

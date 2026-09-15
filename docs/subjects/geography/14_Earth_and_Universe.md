@@ -1137,7 +1137,6 @@ Direct drilling barely scratches the crust, so the deep interior is known mainly
 | **Moho** | Base of crust (~8–40 km) | Crust / mantle |
 | **Gutenberg** | ~**2900 km** | Mantle / **outer core** — **S-waves stop** (liquid) |
 | **Lehmann** | ~5100 km | Outer / **inner core** (solid iron–nickel) |
-
 | Layer chemistry (names) | Fact |
 |------------------------------|------|
 | **Sial** | Continental crust — silica + aluminium; granite; less dense than sima |
@@ -1281,7 +1280,6 @@ A volcano is a crustal rupture that lets lava, ash and gases escape from a magma
 | Caldera | Large collapsed vent / crater |
 | Geyser | Intermittent hot water + steam (e.g. Old Faithful, Yellowstone) — near magmatic heat |
 | Fumarole / solfatara | Late-stage gas vents (a sulfurous vent is a solfatara); Katmai’s “Valley of Ten Thousand Smokes” is the classic note |
-
 | Type | Fact / example |
 |------|----------------|
 | **Shield** | Low-silica, runny lava; classic Hawaii pair is **Mauna Loa / Mauna Kea** |

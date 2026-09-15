@@ -59,17 +59,16 @@ National Parties | Regional Parties | Recognition of Political Parties | Symbols
 
 ## Confused Pairs
 
-| Term A | Term B | Core difference |
-|--------|--------|-----------------|
-| **Registration (29A)** | **Recognition** | Any association → RUPP | National / State party (Symbols Order) |
-| **National party** | **State / regional party** | All-India reserved symbol + 4-State tests | Reserved symbol **in that State** only |
-| **Reserved symbol** | **Free symbol** | Recognised parties | Unrecognised + independents |
-| **Political party** | **Pressure group** | Contests elections; seeks **power** | Does **not** contest (normally); seeks to **influence** |
-| **Interest group** | **Pressure group** | Organised around an interest | Same body **when it pressures** government |
-| **Coalition** | **Hung House** | Two or more parties **govern** | **No** single party has a majority (may still produce a coalition) |
-| **AITUC** | **CITU** | **CPI** (1920) | **CPI(M)** (1970) |
-| **INTUC** | **BMS** | **Congress** (1947) | **BJP/RSS** (1955) |
-
+| Term A | Term B | Core Difference | Hindi Terminology |
+|--------|--------|-----------------|-------------------|
+| **Registration (29A)** | **Recognition** | Any association → RUPP vs National / State party (Symbols Order) | पंजीकरण (29A) / मान्यता |
+| **National party** | **State / regional party** | All-India reserved symbol + 4-State tests vs Reserved symbol **in that State** only | राष्ट्रीय दल / राज्य (क्षेत्रीय) दल |
+| **Reserved symbol** | **Free symbol** | Recognised parties vs Unrecognised + independents | आरक्षित प्रतीक / मुक्त प्रतीक |
+| **Political party** | **Pressure group** | Contests elections; seeks **power** vs Does **not** contest (normally); seeks to **influence** | राजनीतिक दल / दबाव समूह |
+| **Interest group** | **Pressure group** | Organised around an interest vs Same body **when it pressures** government | हित समूह / दबाव समूह |
+| **Coalition** | **Hung House** | Two or more parties **govern** vs **No** single party has a majority (may still produce a coalition) | गठबंधन / त्रिशंकु सदन |
+| **AITUC** | **CITU** | **CPI** (1920) vs **CPI(M)** (1970) | एटक (भाकपा) / सीटू (माकपा) |
+| **INTUC** | **BMS** | **Congress** (1947) vs **BJP/RSS** (1955) | इंटक (कांग्रेस) / बीएमएस (संघ) |
 ---
 
 ## Must-score facts — recognition, symbols, defection
@@ -894,7 +893,6 @@ Match List-I with List-II:
 | B | CPI(M) |
 | C | AIADMK |
 | D | Telugu Desam |
-
 | Code | Year of formation |
 |------|-------------------|
 | 1 | 1972 |
@@ -930,7 +928,6 @@ Match List-I with List-II:
 | B | Bharatiya Jana Sangh |
 | C | Communist Party of India |
 | D | AIADMK |
-
 | Code | Year |
 |------|------|
 | 1 | 1951 |
@@ -984,7 +981,6 @@ Match List-I with List-II:
 | B | Communist Party of India |
 | C | Bahujan Samaj Party |
 | D | All India Trinamool Congress |
-
 | Code | Year of establishment |
 |------|-----------------------|
 | 1 | 1964 |
@@ -1038,7 +1034,6 @@ Match List-I with List-II:
 | B | Indian National Trade Union Congress |
 | C | United Trade Union Congress |
 | D | All India Trade Union Congress |
-
 | Code | Political affiliation |
 |------|-----------------------|
 | 1 | Indian National Congress |

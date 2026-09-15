@@ -576,7 +576,6 @@ Declare a heat wave only if the **gate** temperature is crossed, then apply **de
 | Plains | ≥ **40°C** |
 | Coast | ≥ **37°C** |
 | Hills | ≥ **30°C** |
-
 | Rule | Heat wave | Severe heat wave |
 |------|-----------|------------------|
 | Departure from normal | **4.5–6.4°C** | **> 6.4°C** |

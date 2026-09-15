@@ -512,7 +512,6 @@ Uttar Pradesh has **13** Ramsar sites as of June 2026. India’s **100th** Ramsa
 | 11 | Patna Bird Sanctuary | Etah |
 | 12 | Shekha Jheel | Aligarh |
 | 13 | Surha Tal / JP Narayan Bird Sanctuary | Ballia |
-
 | Name that sounds like UP | Actual state | Trap |
 |--------------------------|--------------|------|
 | Rudrasagar | **Tripura** | Not UP |

@@ -142,7 +142,6 @@ Junagadh followed a different path. Nawab Muhammad Mahabat Khanji acceded to Pak
 | **Vindhya Pradesh** | Bundelkhand princely cluster | Later merged into Madhya Pradesh (1956) |
 | **PEPSU** | Patiala, Kapurthala, Faridkot | East Punjab Sikh states |
 | **Travancore–Cochin** | 1949 merger | South Indian union—later Kerala (1956) |
-
 | Milestone | Year | Note |
 |-----------|------|------|
 | States Department created | July 1947 | Patel–Menon machinery begins |

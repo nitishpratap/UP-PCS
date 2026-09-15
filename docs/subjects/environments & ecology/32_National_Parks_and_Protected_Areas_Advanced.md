@@ -60,17 +60,15 @@ National Parks of Uttar Pradesh | Wildlife Sanctuaries of Uttar Pradesh | Nation
 
 ## Confused Pairs
 
-| Term | One-line fact |
-|------|---------------|
-| **National Park** | WPA Sec 35 — strictest; boundary change needs **State Legislature** |
-| **Wildlife Sanctuary** | WPA Sec **18** — more flexible than NP |
-| **Marine NP** | NP on marine/coral/mangrove coast |
-| **Coastal NP** | On/near coast (may or may not be fully marine) |
-| **Dudhwa** | Only UP NP — Terai |
-| **Valmiki / Sultanpur** | Bihar / Haryana — NOT UP |
-| **Yellowstone / Corbett** | World first 1872 / India first 1936 |
-| **Gulf of Kutch** | India’s first Marine NP |
-
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
+| **National Park (NP)** | **Wildlife Sanctuary (WLS)** | WPA Sec 35; highest protection, no human settlement/grazing, boundaries altered only by State Legislature on NBWL advice vs WPA Sec 18; regulated grazing/traditional rights allowed | राष्ट्रीय उद्यान (NP) / वन्यजीव अभयारण्य (WLS) |
+| **Community Reserve** | **Conservation Reserve** | Established on private or community-owned lands under WPA Sec 36C vs established on government-owned contiguous lands under WPA Sec 36A | सामुदायिक रिज़र्व / संरक्षण रिज़र्व |
+| **First Marine NP** | **First National Park in India** | **Gulf of Kutch Marine NP** (1982, Gujarat) vs **Hailey / Jim Corbett NP** (1936, Uttarakhand) | प्रथम समुद्री उद्यान (कच्छ की खाड़ी) / प्रथम राष्ट्रीय उद्यान (कॉर्बेट 1936) |
+| **Dudhwa National Park** | **Valmiki National Park** | Only National Park in **Uttar Pradesh** (Lakhimpur Kheri) vs only National Park in **Bihar** (West Champaran) | दुधवा राष्ट्रीय उद्यान (यूपी) / वाल्मीकि राष्ट्रीय उद्यान (बिहार) |
+| **Keibul Lamjao NP** | **Khangchendzonga NP** | World's only floating park on Loktak Lake, Manipur (Sangai deer) vs India's only Mixed World Heritage Site in Sikkim | केइबुल लामजाओ (मणिपुर) / कंचनजंगा (सिक्किम) |
+| **Hemis National Park** | **South Button Island NP** | India's largest National Park (Ladakh, snow leopard) vs India's smallest National Park (Andaman & Nicobar, 0.03 km²) | हेमिस (लद्दाख, सबसे बड़ा) / साउथ बटन (अंडमान, सबसे छोटा) |
+| **Biosphere Reserve Core** | **National Park** | Untouched strictly protected sanctuary within UNESCO MAB zoning vs statutory strictly protected area under Wildlife Protection Act, 1972 | बायोस्फीयर कोर क्षेत्र / राष्ट्रीय उद्यान |
 ---
 
 ## Must-score facts — UP PAs, firsts, marine

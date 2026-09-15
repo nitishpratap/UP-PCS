@@ -50,16 +50,15 @@ Chipko | Appiko | Silent Valley | Narmada Bachao Andolan | Bishnoi | Jungle Bach
 
 ## Confused Pairs
 
-| Movement | State | Year | Core issue |
-|----------|-------|------|------------|
-| **Bishnoi** | Rajasthan | **1730** | Khejri martyrdom |
-| **Chipko** | Uttarakhand (then UP) | **1973** | Anti-logging tree hug |
-| **Silent Valley** | Kerala | **1970s** | Anti-hydro rainforest dam |
-| **Jungle Bachao** | Jharkhand (Singhbhum) | **1982** | Tribal forest rights |
-| **Appiko** | **Karnataka** | **1983** | Southern tree embrace |
-| **Narmada Bachao** | MP, GJ, MH | **1985+** | Anti-large dam displacement |
-| **Save Western Ghats** | Multi-state | **2011+** | Gadgil/Kasturirangan politics |
-
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
+| **Bishnoi Movement (1730)** | **Chipko Movement (1973)** | Amrita Devi / Khejri tree sacrifice in Khejarli, Rajasthan vs Gaura Devi / Sunderlal Bahuguna anti-commercial logging in Chamoli (Uttarakhand) | बिश्नोई आंदोलन (1730) / चिपको आंदोलन (1973) |
+| **Chipko Movement (1973)** | **Appiko Movement (1983)** | Himalayan forest conservation in Chamoli (Bahuguna/Chandi Prasad Bhatt) vs Western Ghats forest hugging in Uttara Kannada, Karnataka (Pandurang Hegde) | चिपको (उत्तराखंड) / अप्पिको (कर्नाटक) |
+| **Silent Valley Movement (1970s)** | **Narmada Bachao Andolan (1985+)** | Kunthipuzha river anti-hydro dam protecting lion-tailed macaque in Kerala vs anti-large dam displacement on Narmada (Medha Patkar, Baba Amte) | साइलेंट वैली (केरल) / नर्मदा बचाओ आंदोलन |
+| **Jungle Bachao Andolan (1982)** | **Chipko Movement (1973)** | Singhbhum (Jharkhand) tribals opposing replacement of natural sal with commercial teak ("Greed Game Political Populism") vs tree-hugging in UP hills | जंगल बचाओ (सिंहभूम) / चिपको आंदोलन |
+| **Appiko Movement (1983)** | **Silent Valley (1970s)** | Forest conservation by tree embrace in Karnataka vs grassroots campaign stopping hydro-electric project in Kerala rainforest | अप्पिको (कर्नाटक) / शांत घाटी (केरल) |
+| **Tehri Dam Protest** | **Narmada Bachao Andolan** | High-seismic zone anti-dam fast by Sunderlal Bahuguna on Bhagirathi vs multi-state anti-submergence movement across MP/Gujarat/Maharashtra | टिहरी बांध विरोध / नर्मदा बचाओ |
+| **Gadgil Commission (2011)** | **Kasturirangan Committee (2013)** | WGEEP designated entire Western Ghats as ecologically sensitive (ESZ 1, 2, 3) vs HLWG recommending only 37% area as Eco-Sensitive Area (ESA) | गाडगिल समिति / कस्तूरीरंगन समिति |
 ---
 
 ## Must-score facts — Chipko, Appiko, Narmada, Silent Valley

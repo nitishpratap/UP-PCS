@@ -64,17 +64,15 @@ Global Warming | Greenhouse Effect | Greenhouse Gases (GHGs) | Carbon Footprint 
 
 ## Confused Pairs
 
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **Global warming** | Rise in average temperature | वैश्विक ऊष्मीकरण |
-| **Climate change** | Long-term shift in temperature, rain, extremes | जलवायु परिवर्तन |
-| **Greenhouse effect** | IR trapping by GHGs in atmosphere | ग्रीनहाउस प्रभाव |
-| **GWP** | Heat-trapping power relative to CO₂ over 100 years | वैश्विक ऊष्मीकरण क्षमता |
-| **Carbon sink** | Reservoir absorbing net CO₂ | कार्बन सिंक |
-| **Carbon sequestration** | Process of long-term carbon storage | कार्बन अनुक्रमण |
-| **Adaptation** | Coping with climate impacts | जलवायु अनुकूलन |
-| **Mitigation** | Reducing emissions / enhancing sinks | जलवायु शमन |
-
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
+| **Global Warming** | **Climate Change** | Long-term monotonic increase in Earth's average surface and tropospheric temperature driven by greenhouse gas buildup vs broad spectrum of shifting weather patterns, rising sea levels, altering precipitation, and intensifying extreme climate anomalies | भूमंडलीय तापन (ग्लोबल वार्मिंग) / जलवायु परिवर्तन |
+| **Climate Mitigation** | **Climate Adaptation** | Interventions designed to reduce greenhouse gas emissions at the source or enhance carbon sinks (renewable energy, afforestation, carbon capture) vs adjustments in natural or human systems to moderate harm, exploit beneficial opportunities, and cope with actual/expected climate impacts (flood barriers, drought-tolerant seeds) | जलवायु शमन (उत्सर्जन रोकथाम) / जलवायु अनुकूलन (सहनशीलता वृद्धि) |
+| **Natural Greenhouse Effect** | **Enhanced Greenhouse Effect** | Essential natural phenomenon keeping Earth's surface habitable at an average ~15°C (without it Earth would freeze at -18°C) vs excessive anthropogenic heat-trapping caused by fossil fuel combustion and industrial emissions driving global warming | प्राकृतिक ग्रीनहाउस प्रभाव / मानवजनित संवर्धित प्रभाव |
+| **Global Warming Potential (GWP)** | **Radiative Forcing** | Metric measuring the cumulative heat-trapping ability of 1 kg of a specific GHG over 100 years relative to CO₂ (=1.0) vs the net change in Earth's radiative energy balance (measured in Watts/m²) caused by changes in atmospheric gas concentrations | वैश्विक तापन क्षमता (GWP) / विकिरण दबाव |
+| **Carbon Sink** | **Carbon Sequestration** | Natural or artificial reservoir that absorbs and stores more carbon than it releases into the atmosphere (oceans, boreal forests, soil) vs the actual physical, biological, or chemical process of capturing and securing carbon dioxide in long-term storage | कार्बन सिंक (अवशोषक भंडार) / कार्बन पृथक्करण (भंडारण प्रक्रिया) |
+| **Carbon Credit** | **Carbon Offset** | Formal tradable permit or certificate representing the reduction or removal of 1 metric tonne of CO₂ equivalent under a compliance cap-and-trade system vs voluntary purchase of emission reduction units to neutralize an individual's or company's carbon footprint | कार्बन क्रेडिट (1 टन CO₂e प्रमाण-पत्र) / कार्बन ऑफसेट |
+| **Kyoto Protocol (1997)** | **Paris Agreement (2015)** | Top-down legally binding emission reduction targets imposed exclusively on developed nations (Annex-I) with Common But Differentiated Responsibilities vs bottom-up universal framework requiring all countries to submit voluntary Nationally Determined Contributions (NDCs) aiming to cap warming well below 2.0°C/1.5°C | क्योटो प्रोटोकॉल (बाध्यकारी/विकसित देश) / पेरिस समझौता (सार्वभौमिक NDCs) |
 ---
 
 ## Must-score facts — warming, GHGs, sinks

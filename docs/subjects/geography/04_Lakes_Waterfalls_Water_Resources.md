@@ -449,7 +449,6 @@ Ramsar **in UP** (learn the names that *are* UP). UP total **13** as of June 202
 | Patna Bird Sanctuary | Etah |
 | Sheikha / Shekha Jheel | Aligarh |
 | **Jai Prakash Narayan BS / Surha Tal** | **Ballia** (India’s 100th Ramsar, 5 Jun 2026) |
-
 | Name that sounds like UP | Actual state | Trap |
 |--------------------------|--------------|------|
 | Rudrasagar | **Tripura** | Not UP |
@@ -503,7 +502,6 @@ D. Wular
 | Tallest **plunge** (newer World Waterfalls Database) | **Nohkalikai** (Meghalaya, ~340 m) | Using Nohkalikai to beat every Kunchikal height question |
 | Largest by **width** | **Jog / Gersoppa** (Sharavati, Karnataka) | Calling Jog highest |
 | Largest by **volume** | **Shivanasamudra** (Cauvery, Karnataka) | Putting volume crown on Jog |
-
 | Waterfall | ~Height | River | State | tag |
 |-----------|---------|-------|-------|----------|
 | **Kunchikal** | older ~455 m; newer DB ~183 m | **Varahi** | Karnataka (Shimoga / Agumbe) | UPPCS **highest** answer |

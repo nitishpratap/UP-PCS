@@ -64,19 +64,16 @@ Biodiversity | Levels of Biodiversity | Genetic Diversity | Species Diversity | 
 
 ## Confused Pairs
 
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **Genetic diversity** | Variation of genes **within** a species | आनुवंशिक विविधता |
-| **Species diversity** | Variety of **different species** in an area | प्रजाति विविधता |
-| **Ecosystem diversity** | Variety of **habitats/ecosystems** | पारिस्थितिक तंत्र विविधता |
-| **Endemic** | Found **only** in one geographic area | स्थानिक |
-| **Threatened** | IUCN **VU + EN + CR** combined | संकटग्रस्त |
-| **Endangered** | IUCN **EN** category only | लुप्तप्राय |
-| **Invasive alien** | Non-native species causing harm | आक्रामक विदेशी |
-| **In-situ** | Conservation **in natural habitat** | स्थानिक संरक्षण |
-| **Ex-situ** | Conservation **outside** natural habitat | पारजी संरक्षण |
-| **PBR** | People's Biodiversity Register at local level | जन जैव विविधता रजिस्टर |
-
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
+| **Genetic Diversity** | **Species Diversity** | Variation of genes and alleles *within* a single species across its geographic range vs the variety and abundance of *different species* within a given ecological region | आनुवंशिक विविधता / प्रजाति विविधता |
+| **Species Diversity** | **Ecosystem Diversity** | Number of species and their relative abundance (species richness + evenness) vs variety of distinct habitats, biotic communities, and ecological processes in a landscape | प्रजाति विविधता / पारिस्थितिक तंत्र विविधता |
+| **Alpha Diversity** | **Beta Diversity** | Species richness measured *within* a particular local habitat or community vs rate of species turnover / change in species composition *between* two different habitats across an environmental gradient | अल्फा विविधता (स्थानीय) / बीटा विविधता (आवासीय परिवर्तन) |
+| **In-situ Conservation** | **Ex-situ Conservation** | Protecting endangered species within their natural evolutionary habitats (National Parks, Sanctuaries, Biosphere Reserves) vs conserving species outside their natural habitats in artificial environments (Zoological Parks, Botanical Gardens, Gene Banks) | स्व-स्थाने संरक्षण (In-situ) / बाह्य-स्थाने संरक्षण (Ex-situ) |
+| **Endangered (EN)** | **Critically Endangered (CR)** | Very high risk of extinction in the wild (e.g. Asiatic Lion, Tiger) vs extremely high imminent risk of extinction in the wild (e.g. Great Indian Bustard, Gharial, Hangul) | लुप्तप्राय (EN) / अति संकटग्रस्त (CR) |
+| **Endemic Species** | **Invasive Alien Species** | Native species strictly restricted to a specific unique geographic territory and found nowhere else (e.g. Lion-tailed Macaque in Western Ghats) vs non-native species introduced from outside that outcompete and displace indigenous wildlife (e.g. Lantana camara, Water Hyacinth) | स्थानिक प्रजाति (Endemic) / आक्रामक विदेशी प्रजाति (Invasive) |
+| **Biodiversity Hotspot** | **Hope Spot** | Terrestrial regions with exceptionally high endemic species richness under severe threat (≥1,500 endemic vascular plants and ≥70% primary vegetation lost; Norman Myers) vs marine protected areas critical to the health of global oceans (Sylvia Earle / Mission Blue) | जैव विविधता हॉटस्पॉट (स्थलीय) / होप स्पॉट (समुद्री) |
+| **People's Biodiversity Register (PBR)** | **Red Data Book** | Mandated under Biological Diversity Act 2002 prepared by local Biodiversity Management Committees (BMCs) documenting traditional ecological knowledge vs official compendium published by IUCN documenting global extinction risks | जन जैव विविधता रजिस्टर (PBR) / रेड डेटा बुक (IUCN) |
 ---
 
 ## Must-score facts — levels, hotspots, CBD, IUCN
@@ -180,7 +177,6 @@ Biodiversity | Levels of Biodiversity | Genetic Diversity | Species Diversity | 
 | Birds | ~**12.6%** |
 | Reptiles | ~**6.2%** |
 | Amphibians | ~**4.4%** |
-
 | Indian endemism centre | Note |
 |------------------------|------|
 | **Western Ghats** | Richest among common Indian options |

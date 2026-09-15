@@ -76,8 +76,8 @@ Newest first. One event, one fact.
 
 ## Confused Pairs
 
-| Term A | Term B | Core difference |
-|--------|--------|-----------------|
+| Term A | Term B | Core difference | Hindi Terminology |
+| -------- | -------- | ----------------- | -------- / -------- |
 | **UP capital** | **UP High Court** | **Lucknow** | Principal seat **Prayagraj**; Lucknow = **Bench** |
 | **Lucknow Bench** | **Second High Court** | Permanent bench of Allahabad HC (1948) | Uttarakhand’s HC is **Nainital** (2000) — a different court |
 | **UP LA 403** | **Art. 170 cap** | Actual elected strength | Constitutional max **500** / min **60** |

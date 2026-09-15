@@ -956,7 +956,6 @@ D. Ministry of Finance
 | Morarji Desai | Bank social control |
 | Amartya Sen | Food **entitlements** — not Swaminathan |
 | Hiralal Chaudhuri | Blue Revolution (fisheries) tag |
-
 | Revolution | Sector |
 |------------|--------|
 | Green | Food grains (wheat → rice) |

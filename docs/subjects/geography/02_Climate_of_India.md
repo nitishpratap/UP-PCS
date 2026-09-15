@@ -159,7 +159,6 @@ D. Mistral
 | Kerala | ~**1 June** |
 | Mumbai / Kolkata | ~**10 June** |
 | Delhi | ~**29 June** |
-
 | Branch | Lock |
 |--------|------|
 | Arabian Sea | Windward Western Ghats wet; leeward Deccan dry |
@@ -320,18 +319,15 @@ The equator receives more sun than the poles. Warm air rises near the equator. C
 | 5 | Other surface air from 30° moves toward 60° | **Westerlies** |
 | 6 | Cold air sinks at the poles | Polar **high** |
 | 7 | Polar air moves toward 60° and meets westerlies | Subpolar **low**; **polar easterlies** |
-
 | Cell | Span | Role |
 |------|------|------|
 | **Hadley cell** | Equator to ~30° | Rise at ITCZ, sink at 30°, trades return |
 | **Ferrel cell** | ~30° to 60° | Mid-latitude belt of the westerlies |
 | **Polar cell** | ~60° to pole | Polar easterlies; rise near 60° |
-
 | Nickname | Meaning |
 |----------|---------|
 | **Doldrums** | Rainy, weak-surface-wind belt of the ITCZ |
 | **Horse latitudes** | Dry, calm subtropical highs near 30° |
-
 | Belt | Latitude | Pressure | Weather |
 |------|----------|----------|---------|
 | Equatorial low / **ITCZ** | Near 0° (shifts with the Sun) | **Low** | Rising air, cloud, heavy rain |
@@ -393,7 +389,6 @@ Two standard explanations work together:
 |---------|------|
 | **Thermal** | Land heats faster than sea → summer low over India pulls ocean air in |
 | **Dynamic (Flohn)** | Pressure belts and the ITCZ shift with the Sun; monsoon is largely that seasonal shift |
-
 | Step | What happens | Note |
 |------|--------------|------|
 | 1 | Tibetan Plateau / NW India heat strongly in late spring | Thermal **low** over NW India–Pakistan |
@@ -560,7 +555,6 @@ Local winds are short-lived and stay near the ground.
 |------|-------------|------|
 | **Day** | Land heats faster → low over land | **Sea breeze** (sea → land) |
 | **Night** | Land cools faster → high over land | **Land breeze** (land → sea) |
-
 | Wind | When | Direction | Cause |
 |------|------|-----------|-------|
 | **Anabatic** | Day | Upslope | Slope heats; warm air climbs |
@@ -660,7 +654,6 @@ A tropical cyclone is a large spinning storm over warm ocean. It needs sea-surfa
 | Moisture | Deep moist air |
 | Coriolis | Enough spin — usually **5°–30°** latitude |
 | Vertical wind shear | **Low** (strong SW-monsoon shear suppresses many Bay storms in Jul–Sep) |
-
 | Part | Meaning |
 |------|---------|
 | **Eye** | Calm centre with sinking air and clearer skies |
@@ -674,7 +667,6 @@ A tropical cyclone is a large spinning storm over warm ocean. It needs sea-surfa
 |-------|---------------------|-----|------------|
 | **Bay of Bengal** | **More and stronger** | Warm shallow shelf + river freshwater; storm surge risk high | Odisha, AP, West Bengal, Sundarbans |
 | **Arabian Sea** | Fewer, often weaker | Higher salinity; narrower fetch | Gujarat, Maharashtra, Kerala still take hits |
-
 | IMD class | Wind (km/h) |
 |-----------|-------------|
 | Depression | 31–49 |
@@ -684,7 +676,6 @@ A tropical cyclone is a large spinning storm over warm ocean. It needs sea-surfa
 | Very severe | 118–166 |
 | Extremely severe | 167–221 |
 | **Super cyclone** | **222 or more** |
-
 | Local storm | Scale | Fact |
 |-------------|-------|------|
 | **Thunderstorm / Nor’wester** | Hours; local convection | **Not** a cyclone |

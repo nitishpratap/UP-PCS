@@ -489,7 +489,6 @@ D. Herbert Spencer
 | **Mathura** | Religious; **HRIDAY**; State Smart City 2019 (not Central-10) |
 | **Ayodhya** | Religious; State Smart City 2019; **not** HRIDAY |
 | **Singrauli belt (Sonbhadra)** | Mining / energy belt — mining-town type |
-
 | Mission fact | Fact |
 |--------------|------|
 | Central Smart Cities | **10** — Ghaziabad is **out** of Mission-100 |

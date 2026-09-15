@@ -54,19 +54,15 @@ Red Data Book | IUCN Red List Categories | Wetlands | Mangroves | Coral Reefs | 
 
 ## Confused Pairs
 
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **Red Data Book** | **National** endangered-species list — BSI/ZSI | रेड डेटा बुक |
-| **IUCN Red List** | **Global** extinction-risk categories | IUCN रेड लिस्ट |
-| **Threatened species** | **VU + EN + CR** — not Endangered alone | संकटग्रस्त |
-| **Wetland** | Water-saturated land — marsh, swamp, floodplain | आर्द्रभूmi |
-| **Mangrove** | Salt-tolerant coastal forest with breathing roots | मैंग्रोव |
-| **Coral bleaching** | Corals expel zooxanthellae under heat stress | प्रवाल विरंजन |
-| **Grassland** | Grass-dominated ecosystem with few trees | घासlands |
-| **Neritic zone** | Shallow continental shelf — high marine productivity | neritic |
-| **Pneumatophore** | Mangrove aerial root for gas exchange | वात-मूल |
-| **Zooxanthellae** | Symbiotic algae inside coral polyps | zooxanthellae |
-
+| A | B | Distinguishing Fact / Correct Match | Hindi Terminology |
+|---|---|-------------------------------------|-------------------|
+| **IUCN Red List** | **Red Data Book of India** | Global extinction risk assessments maintained by IUCN (HQ: Gland, Switzerland) categorizing global species from LC to EX vs national taxonomic inventories published by BSI (plants) and ZSI (animals) cataloguing Indian threatened flora/fauna | आईयूसीएन रेड लिस्ट (वैश्विक) / भारतीय रेड डेटा बुक (राष्ट्रीय - BSI/ZSI) |
+| **Threatened Species** | **Endangered Species (EN)** | Broader collective umbrella category encompassing three distinct risk levels: Vulnerable (VU) + Endangered (EN) + Critically Endangered (CR) vs a specific single IUCN conservation status indicating very high risk of extinction | संकटग्रस्त प्रजातियां (VU + EN + CR समग्र) / लुप्तप्राय प्रजाति (EN विशिष्ट वर्ग) |
+| **Mangrove Ecosystem** | **Coral Reef Ecosystem** | Salt-tolerant halophytic coastal wetland forests adapted to intertidal muddy sediments featuring pneumatophores (Rhizophora, Avicennia) vs marine calcium carbonate structures formed by symbiotic coral polyps and zooxanthellae in clear, shallow, warm waters | मैंग्रोव पारितंत्र (श्वसन मूल वन) / प्रवाल भित्ति पारितंत्र (उष्ण जलीय प्रवाल) |
+| **Pneumatophores** | **Stilt Roots** | Specialized vertical negative geotropic aerial roots that emerge above mud to facilitate oxygen gas exchange in waterlogged swamp soils (Avicennia) vs adventitious support roots emerging from lower trunk/branches providing mechanical anchor against coastal tidal surges (Rhizophora) | वात-मूल (श्वसन मूल, न्यूमेटोफोर) / अवस्तंभ मूल (सहारा जड़ें) |
+| **Coral Bleaching** | **Ocean Acidification** | Stress response where coral polyps expel their symbiotic photosynthetic zooxanthellae due to elevated sea surface temperatures turning white vs chemical lowering of ocean pH caused by oceanic absorption of excess atmospheric CO₂ dissolving calcium carbonate aragonite structures | प्रवाल विरंजन (ऊष्मा तनाव से शैवाल निष्कासन) / महासागरीय अम्लीकरण (pH ह्रास) |
+| **Neritic Marine Zone** | **Oceanic (Pelagic) Zone** | Shallow coastal marine zone extending from low-tide mark to the edge of the continental shelf (depth up to 200 m) with abundant light and high marine productivity vs deep open marine waters beyond the continental shelf edge where nutrients and light drop precipitously | नेरिटिक मंडल (महाद्वीपीय मग्नतट) / खुला महासागरीय मंडल (पेलाजिक) |
+| **Zooxanthellae** | **Coral Polyp** | Photosynthetic single-celled dinoflagellate microalgae living symbiotically within coral tissues providing up to 90% of their organic nutrients vs tiny, soft-bodied marine invertebrate animal belonging to Phylum Cnidaria that secretes a hard calcium carbonate skeleton | ज़ूजैंथेली (सहजीवी प्रकाश-संश्लेषी शैवाल) / प्रवाल पॉलीप (कैल्शियम स्रावी जंतु) |
 ---
 
 ## Must-score facts — Red List, Ramsar, biomes

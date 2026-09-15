@@ -74,7 +74,6 @@ Surface character creates another axis of variation. **Clean ice glaciers** expo
 | **Cirque glacier** | Small bowl at headwall; birthplace of valley glaciers | High Himalaya cirques |
 | **Piedmont glacier** | Valley glacier spreads at mountain foot | Rare in India |
 | **Hanging glacier** | Tributary glacier terminus above main valley floor | Common in steep Himalaya; GLOF source |
-
 | Region | Nature | Distinctive features |
 |--------|--------|----------------------|
 | **Western Himalaya (J&K, HP, Uttarakhand)** | Large valley glaciers; Indus and Ganga headwaters | Siachen in Karakoram; Gangotri, Milam; mix of clean and debris-covered ice |

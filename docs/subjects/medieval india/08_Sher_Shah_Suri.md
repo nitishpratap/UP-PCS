@@ -48,22 +48,21 @@ Sher Shah Suri | Administration | Revenue Reforms | Road System | Currency Refor
 ## Confused Pairs
 
 | A | B | Difference | Hindi |
-|---|----|------------|-------|
-| Farid Khan vs Sher Shah | Birth name vs Padshah title after 1540 | फरीद खान / शेर शाह |
-| Sher Khan vs Sher Shah | Tiger-kill title in Bihar vs imperial title | शेर खान / शेर शाह |
-| Chausa vs Kannauj | 1539 escape vs 1540 exile | चौसा / कन्नौज |
-| Bilgram vs Kannauj | Same 1540 battle | बिलग्राम / कन्नौज |
-| Daurah vs Chausa | 1532 Humayun–Afghans vs 1539 Sher Shah | दौराह / चौसा |
-| Jarib vs Rai | Measuring rope vs crop-rate per bigha | जरीब / रै |
-| Patta vs Qabuliat | State document vs peasant acceptance | पट्टा / क़बूलियत |
-| Dam vs Rupiya vs Mohur | Copper vs silver vs gold | दाम / रुपया / मोहर |
-| Shiqdar vs Munshif | Law/order vs accounts | शिकदार / मुंशिफ |
-| Rohtas vs Purana Qila | Bihar hill fort vs Delhi citadel | रोहतास / पुराना किला |
-| Sasaram vs Kalinjar | Birth + tomb vs death siege 1545 | सासाराम / कालिंजर |
-| Hazrat-e-Ala vs Sher Shah | Bengal-service title vs imperial **Sher Shah** after **Chausa 1539** | हज़रत-ए-आला / शेर शाह |
-| Jaunpur education vs Sasaram birth | **Siraj-i-Hind** schooling vs birthplace/tomb | जौनपुर / सासाराम |
-| Marwar vs Mewar (Jayata–Kumpa) | Rathore Maldeo vs Sisodia Pratap/Sanga | मारवाड़ / मेवाड़ |
-
+|---|---|------------|-------|
+| Farid Khan | Sher Shah | Birth name vs Padshah title after 1540 | फरीद खान / शेर शाह |
+| Sher Khan | Sher Shah | Tiger-kill title in Bihar vs imperial title | शेर खान / शेर शाह |
+| Chausa | Kannauj | 1539 escape vs 1540 exile | चौसा / कन्नौज |
+| Bilgram | Kannauj | Same 1540 battle | बिलग्राम / कन्नौज |
+| Daurah | Chausa | 1532 Humayun–Afghans vs 1539 Sher Shah | दौराह / चौसा |
+| Jarib | Rai | Measuring rope vs crop-rate per bigha | जरीब / रै |
+| Patta | Qabuliat | State document vs peasant acceptance | पट्टा / क़बूलियत |
+| Dam | Rupiya vs Mohur | Copper vs silver vs gold | दाम / रुपया / मोहर |
+| Shiqdar | Munshif | Law/order vs accounts | शिकदार / मुंशिफ |
+| Rohtas | Purana Qila | Bihar hill fort vs Delhi citadel | रोहतास / पुराना किला |
+| Sasaram | Kalinjar | Birth + tomb vs death siege 1545 | सासाराम / कालिंजर |
+| Hazrat-e-Ala | Sher Shah | Bengal-service title vs imperial **Sher Shah** after **Chausa 1539** | हज़रत-ए-आला / शेर शाह |
+| Jaunpur education | Sasaram birth | **Siraj-i-Hind** schooling vs birthplace/tomb | जौनपुर / सासाराम |
+| Marwar | Mewar (Jayata–Kumpa) | Rathore Maldeo vs Sisodia Pratap/Sanga | मारवाड़ / मेवाड़ |
 ---
 
 ## Must-score facts — battles, revenue, roads

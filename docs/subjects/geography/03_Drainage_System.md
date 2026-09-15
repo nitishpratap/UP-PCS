@@ -606,7 +606,6 @@ The **Hindon** is a Yamuna **left**-bank stream of western Uttar Pradesh / NCR.
 | Sharavati | Western Ghats (Jog Falls) |
 | Subarnarekha | Chotanagpur (Ranchi / Nagri class) |
 | Jhelum | Verinag (Pir Panjal) |
-
 | City | River | Trap |
 |------|-------|------|
 | Lucknow | Gomti | Not Ganga |
@@ -636,7 +635,6 @@ The **Hindon** is a Yamuna **left**-bank stream of western Uttar Pradesh / NCR.
 | Dibrugarh | Brahmaputra | — |
 | Kota | Chambal | — |
 | Gorakhpur | Rapti | — |
-
 | Dam / project | River |
 |---------------|-------|
 | **Bhakra–Nangal** | Sutlej |

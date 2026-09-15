@@ -69,32 +69,31 @@
 
 ## Confused Pairs
 
-| Term A | Term B | Core difference |
-|--------|--------|-----------------|
-| **RTI 2005** | **RTE 2009** | Information statute (MKSS) | Education statute (86th / 21A) |
-| **NFSA 2013** | **RTE 1 Apr 2010** | Food law; **not** 5 Jul 2010 | School law commencement |
-| **PESA 1996** | **73rd 1993** | Extends Part IX to **5th Sch.** | Constitutional PRI skeleton |
-| **CPA 1986** | **CPA 2019** | Old COPRA | CCPA + product liability + e-com |
-| **AITUC-era labour Acts** | **Labour Codes** | Many old statutes | **Four** Codes (Wages 2019 + three 2020) |
-| **POCSO** | **JJ Act** | Sexual offences, child **<18** | Children in conflict / need of care |
-| **PoA 1989** | **PCR 1955** | Atrocities (heavier) | Civil Rights / untouchability |
-| **NDMA** | **MHA DM Division** | Authority; **PM** chairs | Nodal **division** in Home |
-| **NDRF (force)** | **NDRF (fund)** | Battalions under MHA | National Disaster **Response Fund** (DM Act) |
-| **RPA 1950** | **RPA 1951** | Rolls / seats | Conduct / petitions / 29A |
-| **EPA 1986** | **NGT 2010** | Umbrella environment statute | Green tribunal |
-| **POSH 2013** | **POCSO 2012** | Workplace; ICC if **≥10** workers | Child **<18** sexual offences |
-| **NeGP 2006** | **Digital India 2015** | 27→ MMPs plan | Umbrella; **e-Kranti** is pillar **5** |
-| **Citizen Charter** | **Sevottam** | Promise document (1997) | 2006 **3-module** delivery model that *uses* the Charter |
-| **Code of Conduct** | **Code of Ethics** | CCS Rules **1964** — enforceable | Values / Nolan; 2nd ARC wanted a separate ethics code |
-| **Mission Karmayogi** | **Adi Karmayogi 2025** | DoPT / iGOT / CBC | **MoTA** tribal responsive-governance drive |
-| **Social audit** | **CAG audit** | Gram Sabha / MGNREGA s.17 | Constitutional auditor (Art. **148**) |
-| **1st ARC** | **2nd ARC** | Morarji **1966–70**, **20** reports | Moily **2005–09**, **15** reports |
-| **G2C** | **G2G** | Citizen services (UMANG, DigiLocker) | Intra-government (e-Office, PFMS) |
-| **Citizen Charter** | **RTS / Janhit Guarantee** | DARPG promise, not a Union Act | **State statute** (MP **2010**, UP **2011**) with officer-penalty |
-| **CPGRAMS** | **DPG** | DARPG portal for all ministries | Cabinet Secretariat **1988** residual window |
-| **PRAGATI** | **Digital India** | PMO monthly ICT review (**2015**) | MeitY programme, **9 pillars** |
-| **Conduct 1964** | **CCA 1965** | Behaviour / gifts / politics | How to punish |
-
+| Term A | Term B | Core Difference | Hindi Terminology |
+|--------|--------|-----------------|-------------------|
+| **RTI 2005** | **RTE 2009** | Information statute (MKSS) vs Education statute (86th / 21A) | आरटीआई 2005 / आरटीई 2009 |
+| **NFSA 2013** | **RTE 1 Apr 2010** | Food law; **not** 5 Jul 2010 vs School law commencement | खाद्य सुरक्षा 2013 / आरटीई लागू |
+| **PESA 1996** | **73rd 1993** | Extends Part IX to **5th Sch.** vs Constitutional PRI skeleton | पेसा 1996 / 73वां संशोधन |
+| **CPA 1986** | **CPA 2019** | Old COPRA vs CCPA + product liability + e-com | उपभोक्ता संरक्षण (1986 vs 2019) |
+| **AITUC-era labour Acts** | **Labour Codes** | Many old statutes vs **Four** Codes (Wages 2019 + three 2020) | पुराने श्रम कानून / चार श्रम संहिताएं |
+| **POCSO** | **JJ Act** | Sexual offences, child **<18** vs Children in conflict / need of care | पॉक्सो / किशोर न्याय (जेजे) अधिनियम |
+| **PoA 1989** | **PCR 1955** | Atrocities (heavier) vs Civil Rights / untouchability | अत्याचार निवारण / नागरिक अधिकार संरक्षण |
+| **NDMA** | **MHA DM Division** | Authority; **PM** chairs vs Nodal **division** in Home | आपदा प्राधिकरण / गृह मंत्रालय प्रभाग |
+| **NDRF (force)** | **NDRF (fund)** | Battalions under MHA vs National Disaster **Response Fund** (DM Act) | एनडीआरएफ बल / राष्ट्रीय आपदा प्रतिक्रिया कोष |
+| **RPA 1950** | **RPA 1951** | Rolls / seats vs Conduct / petitions / 29A | जनप्रतिनिधित्व (1950 vs 1951) |
+| **EPA 1986** | **NGT 2010** | Umbrella environment statute vs Green tribunal | पर्यावरण संरक्षण 1986 / एनजीटी 2010 |
+| **POSH 2013** | **POCSO 2012** | Workplace; ICC if **≥10** workers vs Child **<18** sexual offences | कार्यस्थल यौन उत्पीड़न (पॉश) / पॉक्सो |
+| **NeGP 2006** | **Digital India 2015** | 27→ MMPs plan vs Umbrella; **e-Kranti** is pillar **5** | राष्ट्रीय ई-शासन / डिजिटल इंडिया |
+| **Citizen Charter** | **Sevottam** | Promise document (1997) vs 2006 **3-module** delivery model that *uses* the Charter | नागरिक अधिकार-पत्र / सेवोत्तम मॉडल |
+| **Code of Conduct** | **Code of Ethics** | CCS Rules **1964** — enforceable vs Values / Nolan; 2nd ARC wanted a separate ethics code | आचरण नियमावली / नैतिक संहिता |
+| **Mission Karmayogi** | **Adi Karmayogi 2025** | DoPT / iGOT / CBC vs **MoTA** tribal responsive-governance drive | मिशन कर्मयोगी / आदि कर्मयोगी |
+| **Social audit** | **CAG audit** | Gram Sabha / MGNREGA s.17 vs Constitutional auditor (Art. **148**) | सामाजिक अंकेक्षण / कैग लेखापरीक्षा |
+| **1st ARC** | **2nd ARC** | Morarji **1966–70**, **20** reports vs Moily **2005–09**, **15** reports | प्रथम एआरसी / द्वितीय एआरसी |
+| **G2C** | **G2G** | Citizen services (UMANG, DigiLocker) vs Intra-government (e-Office, PFMS) | जी2सी (नागरिक) / जी2जी (अंतर-सरकारी) |
+| **Citizen Charter** | **RTS / Janhit Guarantee** | DARPG promise, not a Union Act vs **State statute** (MP **2010**, UP **2011**) with officer-penalty | नागरिक चार्टर / जनहित गारंटी कानून |
+| **CPGRAMS** | **DPG** | DARPG portal for all ministries vs Cabinet Secretariat **1988** residual window | सीपीजीआरएएमएस / लोक शिकायत निदेशालय |
+| **PRAGATI** | **Digital India** | PMO monthly ICT review (**2015**) vs MeitY programme, **9 pillars** | प्रगति (समीक्षा मंच) / डिजिटल इंडिया |
+| **Conduct 1964** | **CCA 1965** | Behaviour / gifts / politics vs How to punish | आचरण नियम / अनुशासनात्मक नियम |
 ---
 
 ## Must-score facts — key Acts & chairs
