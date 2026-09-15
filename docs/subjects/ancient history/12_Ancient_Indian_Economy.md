@@ -20,26 +20,26 @@ Taught in time-order: no coins in IVC → Vedic nishka → punch-marked silver �
 ## Consolidated — 30 Must-Score Facts
 
 1. Economy match ladder: **Indus = Urban**, **Rigvedic = Pastoral**, **Later Vedic = Agrarian**, and the medieval slot is **landlordism**. The Indus uses weights and seals but has **no coins**.
-2. Vedic **nishka** is a gold unit or ornament. It is **not** a minted coin. The first Indian coins are **punch-marked silver** from about the sixth century BCE (**karshapana / pana**).
-3. Mauryas keep punch-marks and also issue **cast copper**. The weights officer is the ***pautavadhyaksha***.
+2. Vedic **nishka** (निष्क) is a gold unit or ornament. It is **not** a minted coin. The first Indian coins are **punch-marked silver** from about the sixth century BCE (**karshapana / pana** / कार्षापण या पण - आहत सिक्के).
+3. Mauryas keep punch-marks and also issue **cast copper**. The weights officer is the ***pautavadhyaksha*** (पौतवाध्यक्ष).
 4. **Indo-Greeks** bring the first **portrait** die-struck coins, with Greek and Kharoshthi legends. Portraits do **not** begin with the Guptas.
-5. **Vima Kadphises** and the **Kushans** make gold coinage common in India. Gupta **dinara** is later prestige gold named through the Roman *denarius* path.
+5. **Vima Kadphises** and the **Kushans** make gold coinage common in India. Gupta **dinara** (दीनार) is later prestige gold named through the Roman *denarius* path.
 6. Gupta gold types: **king-queen** = Chandragupta I; **lyrist / horse** = Samudragupta; **archer** = Chandragupta II. Gold often weighs about **120–144 grains**.
-7. Chandragupta II’s Shaka-victory proof is **silver** (*rupaka*) coins of about **33 grains**. Gold dinara is the trap option.
+7. Chandragupta II’s Shaka-victory proof is **silver** (*rupaka* / रूपक) coins of about **33 grains**. Gold dinara is the trap option.
 8. **Yajna Sri Satakarni** put a **ship** on some Satavahana coins as a Deccan sea-trade stamp.
 9. Early trade texts and archaeology both show **river-ports** and large **entrepots** (warehouse / redistributor hubs). An entrepot is not “any landing point.”
-10. **Shreni** is the general craft or trade guild headed by a **shreshthin**. **Nagaram** is a south Indian town merchant body.
-11. **Manigrama** is the **foreign / overseas** trade institution. **Nanadesi** means merchants of many lands, but the foreign-trade key is still **Manigrama**.
-12. **Lothal** is the Harappan **dockyard**. Boat models come from **Mohenjo-daro and Lothal**, not from Dholavira alone.
+10. **Shreni** (श्रेणी) is the general craft or trade guild headed by a **shreshthin** (श्रेष्ठिन्) or **jyeshthaka** (ज्येष्ठक). **Nigama** (निगम) is a merchant association; **Sarthavaha** (सार्थवाह) is the caravan leader. **Nagaram** (नगरम) is a south Indian town merchant body.
+11. **Manigrama** (मणिग्रामम) is the **foreign / overseas** trade institution. **Nanadesi** (नानादेशी) means merchants of many lands, but the foreign-trade key is still **Manigrama**.
+12. **Lothal** is the Harappan **dockyard** (गोदीबाड़ा). Boat models come from **Mohenjo-daro and Lothal**, not from Dholavira alone.
 13. Periplus west ports: **Barygaza** is **Broach** (Narmada mouth); **Barbarikon** is the **Indus-mouth** port — do not swap them.
-14. **Tamralipti** at the Ganga mouth faces the Bay of Bengal. **Muziris (Muchiri)** on the Malabar is the Roman **pepper** port.
-15. Inland highways: **Uttarapatha** runs Taxila toward **Pataliputra**; **Dakshinapatha** runs from the Ganga belt through **Ujjain** into the Deccan. Dakshinapatha is a **road**, not “only sea.”
+14. **Tamralipti** (ताम्रलिप्ति) at the Ganga mouth faces the Bay of Bengal. **Muziris (Muchiri)** on the Malabar is the Roman **pepper** port.
+15. Inland highways: **Uttarapatha** (उत्तरापथ) runs Taxila toward **Pataliputra**; **Dakshinapatha** (दक्षिणापथ) runs from the Ganga belt through **Ujjain** into the Deccan. Dakshinapatha is a **road**, not “only sea.”
 16. Roman trade peaks about the first to third centuries CE. The ***Periplus of the Erythraean Sea*** is the coastal handbook; **Pliny** complains of a **gold drain** to India.
-17. Sangam poems call western foreign traders **Yavana**. **Arikamedu** near Puducherry yields Roman amphorae and related ware; the *Periplus* calls it **Poduke**.
+17. Sangam poems call western foreign traders **Yavana** (यवन). **Arikamedu** near Puducherry yields Roman amphorae and related ware; the *Periplus* calls it **Poduke**.
 18. Punch-marked silver carries geometric and animal punches — **no royal portrait**. Common marks include sun, six-armed symbol, hill, elephant, bull, and tree-in-railing.
-19. Later Vedic dues appear as **bali** and **bhaga**. From the mahajanapada age, towns, **NBPW**, and punch-marked silver travel with long-distance trade.
-20. **Sopara** and **Kalyan** on the Konkan run from Mauryan times onward. **Puhar / Kaveripattinam** is the Sangam Chola port at the Kaveri mouth. **Uraiyur** is the Sangam Chola capital and a **cotton** centre.
-21. Pepper, cotton, ivory, pearls, and gems leave Indian ports; **horses**, wine, gold, and glass are famous western imports. Sailors use **monsoon** reversal. Sanskrit ***Yavanapriya*** means **pepper**.
+19. Later Vedic dues appear as **bali** (बलि) and **bhaga** (भाग). From the mahajanapada age, towns, **NBPW**, and punch-marked silver travel with long-distance trade.
+20. **Sopara** (शूर्पारक) and **Kalyan** on the Konkan run from Mauryan times onward. **Puhar / Kaveripattinam** is the Sangam Chola port at the Kaveri mouth. **Uraiyur** is the Sangam Chola capital and a **cotton** centre.
+21. Pepper, cotton, ivory, pearls, and gems leave Indian ports; **horses**, wine, gold, and glass are famous western imports. Sailors use **monsoon** reversal. Sanskrit ***Yavanapriya*** (यवनप्रिय) means **pepper** (काली मिर्च).
 22. East-coast **Tamralipti** is **not** the main Roman door. The pepper–gold circuit centres on Malabar and Broach.
 23. Gupta markets still use silver and copper for daily exchange even while gold dinaras advertise imperial prestige.
 24. The **Ainnurruvar** (“500”) are a later south merchant network. They are not a Mauryan guild label.

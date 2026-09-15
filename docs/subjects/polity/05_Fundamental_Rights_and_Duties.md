@@ -36,7 +36,7 @@
 14. Religion cluster **25–28**: **25** includes the right to **propagate**; **26** is to manage religious affairs; **27** bars a **tax** for promotion of a religion (a regulatory **fee** is different); **28** covers religious instruction in certain institutions.
 15. **Article 29** protects culture of **any section** of citizens. **Article 30** protects **minorities**’ right to establish and administer educational institutions. “Minority” is not exhaustively defined in the text (*T.M.A. Pai* line).
 16. **Article 32** is the Supreme Court writ remedy for **Fundamental Rights only** — Ambedkar’s “heart and soul.” **Article 226** is **wider**: Fundamental Rights **plus** other legal rights.
-17. Five writs: Habeas Corpus, Mandamus, Prohibition, Certiorari, Quo Warranto. **Prohibition** comes **before** the decision; **Certiorari** comes **after** to quash. Mandamus does **not** run against the President or a Governor in the usual fact.
+17. Five writs (पाँच प्रकार की रिटें): **Habeas Corpus** (बन्दी प्रत्यक्षीकरण), **Mandamus** (परमादेश), **Prohibition** (प्रतिषेध), **Certiorari** (उत्प्रेषण), **Quo Warranto** (अधिकार-पृच्छा). **Prohibition** comes **before** the decision; **Certiorari** comes **after** to quash. Mandamus does **not** run against the President or a Governor in the usual fact.
 18. High Court Habeas Corpus can reach even a **private** person in the classic teaching. Quo Warranto tests illegal occupation of a **public office**.
 19. Under a National Emergency, **Article 358** automatically suspends **Article 19** freedoms (subject to later refinements). **Article 359** can suspend enforcement of other rights by order, but **Articles 20 and 21** cannot be suspended.
 20. **DPSP** sit in **Part IV (Articles 36–51)**, borrowed in form from **Ireland**, and are **non-justiciable** (**Article 37**) though fundamental in governance.
@@ -566,15 +566,15 @@ D. Neither 1 nor 2
 
 </details>
 
-### The Five Writs
+### The Five Writs (पाँच प्रकार की रिटें)
 
 **English prerogative writs:** SC under **32** (FR only); HC under **226** (wider). Prohibition vs Certiorari is the before/after trap.
 
-- **Habeas Corpus** (“to have the body”): against public **or private**; produce a detained person; test legality of detention.
-- **Mandamus** (“we command”): against public authority / lower court / govt; compel performance of a **public duty**. **Not** against President/Governor, private person, or discretionary/contractual duty.
-- **Prohibition** (“to forbid”): against a **judicial / quasi-judicial** body; stop a lower court exceeding jurisdiction — issued **before** decision.
-- **Certiorari** (“to be certified/informed”): judicial / quasi-judicial (now also administrative affecting rights); **quash** an order already passed / transfer case — **after** decision.
-- **Quo Warranto** (“by what authority”): a person in a **public office**; test the legal right of a person to hold a substantive public office; any person may seek.
+- **Habeas Corpus** (बन्दी प्रत्यक्षीकरण — “to have the body” / सशरीर प्रस्तुत करना): against public **or private**; produce a detained person; test legality of detention.
+- **Mandamus** (परमादेश — “we command” / हम आज्ञा देते हैं): against public authority / lower court / govt; compel performance of a **public duty**. **Not** against President/Governor, private person, or discretionary/contractual duty.
+- **Prohibition** (प्रतिषेध — “to forbid” / रोकना या मना करना): against a **judicial / quasi-judicial** body; stop a lower court exceeding jurisdiction — issued **before** decision.
+- **Certiorari** (उत्प्रेषण — “to be certified/informed” / पूर्णतया सूचित होना या मंगाना): judicial / quasi-judicial (now also administrative affecting rights); **quash** an order already passed / transfer case — **after** decision.
+- **Quo Warranto** (अधिकार-पृच्छा — “by what authority” / किस अधिकार से): a person in a **public office**; test the legal right of a person to hold a substantive public office; any person may seek.
 
 > **Traps:** Habeas Corpus lies even against a **private** person. Mandamus **not** against President/Governor personally. Prohibition = *before*, Certiorari = *after*. Quo Warranto only for a **public office** created by law.
 

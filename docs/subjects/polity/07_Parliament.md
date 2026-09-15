@@ -69,16 +69,16 @@ D. Governor
 11. Dual-membership clocks: both Houses of Parliament — choose within **10 days**; Parliament and a State legislature — Parliament seat goes after **14 days**. *Lily Thomas*: conviction of **two years or more** brings **instant** disqualification.
 12. The **Speaker** is elected by the House (**Article 93**), resigns to the Deputy Speaker, and can be removed by **14 days’** notice plus a majority of **all then members**. The Speaker gives the **Money Bill certificate** and presides over a **joint sitting**.
 13. The **Vice-President** is *ex-officio* **Chairman** of the Rajya Sabha and is **not a member**. The Deputy Chairman is elected **from among** Rajya Sabha members. **Pro Tem Speaker** is appointed by the **President**.
-14. Sessions under **Article 85**: Budget, Monsoon, Winter; gap between two sittings of a House must not exceed **six months**. **Adjournment** ends a sitting; **prorogation** ends a session (Bills survive); **dissolution** ends the Lok Sabha’s life.
-15. **Quorum** is **one-tenth** of total membership (**Article 100**). A **lame-duck** session is the last sitting of an outgoing Lok Sabha after a new House has been elected.
-16. **Joint sitting** is **Article 108** (not 109). It is for **ordinary Bills** only. The **Speaker** presides. There is **never** a joint sitting for a **Money Bill**, Appropriation Bill, or **Constitution Amendment Bill**.
-17. **Article 110defines** a Money Bill; **Article 109** is the **procedure**. A Money Bill can originate **only in the Lok Sabha**. The Speaker’s certificate is **final**. Rajya Sabha gets **14 days** and may only **recommend**.
+14. Sessions under **Article 85**: Budget, Monsoon, Winter; gap between two sittings of a House must not exceed **six months**. **Adjournment** (स्थगन) ends a sitting; **prorogation** (सत्रावसान) ends a session (Bills survive); **dissolution** (विघटन) ends the Lok Sabha’s life.
+15. **Quorum** (गणपूर्ति / कोरम) is **one-tenth** (1/10) of total membership (**Article 100**). A **lame-duck** session (पंगु सत्र) is the last sitting of an outgoing Lok Sabha after a new House has been elected.
+16. **Joint sitting** (संयुक्त बैठक) is **Article 108** (not 109). It is for **ordinary Bills** only. The **Speaker** presides. There is **never** a joint sitting for a **Money Bill**, Appropriation Bill, or **Constitution Amendment Bill**.
+17. **Article 110** defines a Money Bill (धन विधेयक); **Article 109** is the **procedure** (प्रक्रिया). A Money Bill can originate **only in the Lok Sabha**. The Speaker’s certificate is **final**. Rajya Sabha gets **14 days** and may only **recommend** (सिफारिश).
 18. **Financial Bill I** (**117(1)**) has money-matter clauses plus other matter: only Lok Sabha origin; Rajya Sabha can amend; joint sitting **possible**. **Financial Bill II** (**117(3)**) involves expenditure from the Consolidated Fund: either House; joint sitting **possible**.
 19. **Finance Bill** is the annual tax Bill (usually certified as a Money Bill). **Appropriation Bill** (**Article 114**) is a Money Bill. Do not treat “Financial Bill” and “Finance Bill” as the same label.
-20. Funds: **Consolidated Fund of India** and **Public Account** sit under **Article 266**; the **Contingency Fund** sits under **Article 267** (at the President’s disposal). Charged expenditure is **discussed but not voted**.
-21. Budget is the **Annual Financial Statement** under **Article 112**. Lok Sabha may **reduce or refuse** a Demand for Grants — it **cannot increase** it. Guillotine closes undiscussed demands at the time limit.
-22. Devices: **Question Hour** is the first hour; **Zero Hour** (Indian innovation, 1962 teaching) comes **after** Question Hour. **Adjournment motion** and **no-confidence** are **Lok Sabha only**.
-23. Cut motions: **policy cut** reduces a demand to **₹1**; **economy cut** reduces by a specified amount; **token cut** reduces by **₹100**.
+20. Funds: **Consolidated Fund of India** (भारत की संचित निधि) and **Public Account** (लोक लेखा) sit under **Article 266**; the **Contingency Fund** (आकस्मिकता निधि) sits under **Article 267** (at the President’s disposal). Charged expenditure is **discussed but not voted**.
+21. Budget is the **Annual Financial Statement** (वार्षिक वित्तीय विवरण) under **Article 112**. Lok Sabha may **reduce or refuse** a Demand for Grants — it **cannot increase** it. Guillotine (गिलोटिन - बिना चर्चा के सभी अनुदान मांगों पर मतदान) closes undiscussed demands at the time limit.
+22. Devices: **Question Hour** (प्रश्न काल) is the first hour; **Zero Hour** (शून्य काल - Indian innovation, 1962 teaching) comes **after** Question Hour. **Adjournment motion** (स्थगन प्रस्ताव) and **no-confidence** (अविश्वास प्रस्ताव) are **Lok Sabha only**.
+23. Cut motions (कटौती प्रस्ताव): **policy cut** (नीतिगत कटौती) reduces a demand to **₹1**; **economy cut** (मितव्ययिता कटौती) reduces by a specified amount; **token cut** (सांकेतिक कटौती) reduces by **₹100**.
 24. **Public Accounts Committee**: **22** members (**15 Lok Sabha + 7 Rajya Sabha**), conventionally chaired by an **opposition** member, and examines **CAG** reports.
 25. **Estimates Committee**: **30** members, **all from the Lok Sabha** — the largest of the three classic financial committees and with **no** Rajya Sabha members. **COPU** is also **22**.
 26. Parliamentary privileges under **Article 105** cover freedom of speech in the House and protection from **civil** arrest in the session window (**40 days** before/after plus during). They do **not** cover ordinary **criminal** process.
@@ -696,7 +696,7 @@ D. Only 1
 
 ---
 
-## Sessions — Summoning, Prorogation, Adjournment, Dissolution (Art. 85)
+## Sessions — Summoning, Prorogation, Adjournment, Dissolution (सत्र — आहूत करना, सत्रावसान, स्थगन एवं विघटन: Art. 85)
 
 Parliament is summoned by the **President** (on CoM advice). In practice there are **three sessions** a year:
 
@@ -704,23 +704,23 @@ Parliament is summoned by the **President** (on CoM advice). In practice there a
 - **Monsoon:** July – August/September.
 - **Winter:** November – December.
 
-**Recess** = the period between **prorogation** of one session and the **summoning** of the next.
+**Recess** (दीर्घावकाश) = the period between **prorogation** (सत्रावसान) of one session and the **summoning** (आहूत करना) of the next.
 
 | Device | Who | What it ends | What lapses |
 |--------|-----|----------------|-------------|
-| **Summon** | **President** | Starts a session. Max gap between two sessions: **6 months** (≥ **two** sessions a year) | — |
-| **Adjournment** | **Presiding officer** | A **sitting** (hours/days) | **Nothing** — business is only postponed |
-| **Adjournment *sine die*** | Presiding officer | A sitting **indefinitely** (no date) | Nothing by itself |
-| **Prorogation** | **President** (can prorogue even while adjourned sine die) | A **session** | Notices of questions, motions, resolutions. **Bills do not lapse** |
-| **Dissolution** | **President** (only **LS**; on PM advice, including a PM who has lost majority in some situations) | **Life of the Lok Sabha** | See bill-lapse fact below |
+| **Summon** (आहूत करना) | **President** (राष्ट्रपति) | Starts a session. Max gap between two sessions: **6 months** (≥ **two** sessions a year) | — |
+| **Adjournment** (स्थगन) | **Presiding officer** (पीठासीन अधिकारी) | A **sitting** (बैठक: hours/days) | **Nothing** — business is only postponed |
+| **Adjournment *sine die*** (अनिश्चितकाल के लिए स्थगन) | Presiding officer | A sitting **indefinitely** (no date) | Nothing by itself |
+| **Prorogation** (सत्रावसान) | **President** (can prorogue even while adjourned sine die) | A **session** (सत्र) | Notices of questions, motions, resolutions. **Bills do not lapse** |
+| **Dissolution** (विघटन) | **President** (only **LS**; on PM advice, including a PM who has lost majority in some situations) | **Life of the Lok Sabha** (लोकसभा का कार्यकाल समाप्त) | See bill-lapse fact below |
 
 **Lapsing on dissolution of LS**
 - Pending **in LS** → **lapses**. Passed by LS and pending in RS → **lapses**.
 - Pending in RS **and not yet passed by LS** → **does not lapse**.
 - Passed by **both Houses** and pending **assent / joint sitting already summoned** → **does not lapse**.
 
-**Lame Duck Session**
-Last session of the **outgoing** Lok Sabha **after** a new Lok Sabha has been elected (members who will not return are the “lame ducks”).
+**Lame Duck Session (पंगु सत्र)**
+Last session of the **outgoing** Lok Sabha **after** a new Lok Sabha has been elected (members who will not return are the “lame ducks” / पंगु सदस्य).
 
 **Art. 86 / 87**
 - **86:** President may **address** either House / both and send **messages**.
@@ -730,9 +730,9 @@ Last session of the **outgoing** Lok Sabha **after** a new Lok Sabha has been el
 
 ---
 
-## Quorum & voting (Art. 100)
+## Quorum & voting (गणपूर्ति / कोरम एवं मतदान: Art. 100)
 
-- The **quorum** to constitute a meeting of either House is **one-tenth (1/10)** of that House's **total membership**.
+- The **quorum** (गणपूर्ति / कोरम) to constitute a meeting of either House is **one-tenth (1/10)** of that House's **total membership** (सदन की कुल सदस्य संख्या का 1/10वां भाग: Art. 100(3)).
 - In rough numbers, this works out to about **55** for the Lok Sabha and about **25** for the Rajya Sabha.
 - The quorum for a **joint sitting** is **one-tenth of the total membership of both Houses combined**.
 - If there is **no quorum**, the presiding officer must **adjourn** or **suspend** the sitting.

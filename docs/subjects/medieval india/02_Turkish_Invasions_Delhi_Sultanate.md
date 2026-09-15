@@ -26,17 +26,17 @@ Turkish Invasions of India | Arab Invasion of Sind (Muhammad bin Qasim) | Mahmud
 7. **Qutb-ud-din Aibak** ruled from **Lahore (1206–10)** as **Malik/Sipahsalar** (not “Sultan”), was called **Lakh Baksh / Quran Khwan**, and died playing **chaugan**.
 8. **Iltutmish** (**1210–1236**), **Ilbari** “slave of a slave,” made **Delhi** the capital, coined **tanka/jital**, took Caliph’s **khilat (1229)**, and refused asylum to **Jalaluddin Mingburni**.
 9. **Razia** (**1236–1240**) was the **only woman Sultan** of Delhi; **Altunia (Bhatinda)** and anger over **Yaqut** ended her rule.
-10. **Balban** used **Blood and Iron**, **Zil-i-Ilahi / Niyabat-i-Khudai**, **Sijda/Paibos**, **Nawruz**, and **Diwan-i-Arz** (**Imad-ul-Mulk**); the Slave line closed with weak **Kaiqubad** and infant **Kayumars** before the **1290 Khalji coup**.
-11. **Alauddin Khalji** kept a cash-paid standing army and used **Dagh** (horse branding) and **Chehra / Huliya** (soldier descriptive rolls) against fake musters.
+10. **Balban** used **Blood and Iron** (लौह एवं रक्त की नीति), **Zil-i-Ilahi / Niyabat-i-Khudai** (ज़िल्ल-ए-इलाही / नियाबत-ए-ख़ुदाई), **Sijda/Paibos** (सिजदा / पैबोस), **Nawruz** (नौरोज़), and **Diwan-i-Arz** (दीवान-ए-अर्घ - सैन्य विभाग) (**Imad-ul-Mulk**); the Slave line closed with weak **Kaiqubad** and infant **Kayumars** before the **1290 Khalji coup**.
+11. **Alauddin Khalji** kept a cash-paid standing army and used **Dagh** (दाग़ - horse branding) and **Chehra / Huliya** (चेहरा / हुलिया - soldier descriptive rolls) against fake musters.
 12. Alauddin’s north–Deccan conquest order is **Jaisalmer → Ranthambor → Chittor → Warangal**; Gujarat fell in **1299**; **Malik Kafur** rose from Cambay.
-13. Alauddin took about **50%** by measurement (**Diwan-i-Mustakharaj**), added **Ghari/Charai**, built **Siri**, used **Sikandar-i-Sani**, and died in **1316**; **Malik Kafur** = **Hazar-Dinari**.
-14. **Shahna-i-Mandi** was Alauddin’s market controller; **Amir-i-Kohi** was Muhammad bin Tughlaq’s agriculture department — do not swap them.
-15. **Muhammad bin Tughlaq** was the most learned Sultan; his main experiments were **Daulatabad**, **token currency**, **Amir-i-Kohi**, Doab tax, and Khurasan/Qarachil plans; **Ibn Battuta** wrote *Rihla*.
-16. **Firoz Shah** built canals and levied **Haqq-i-Sharb**, ran **Diwan-i-Khairat / Bandagan** and **Dar-ul-Shafa**, funded Haj from the treasury, moved Ashoka pillars (**Topra/Meerut**), used **Azizuddin Khan** for Nagarkot texts, made **iqta hereditary**, and put **jizya on Brahmins**.
+13. Alauddin took about **50%** by measurement (**Diwan-i-Mustakharaj** / दीवान-ए-मुस्तख़राज - arrears dept), added **Ghari/Charai** (घरी / चराई कर), built **Siri**, used **Sikandar-i-Sani** (सिकंदर-ए-सानी - second Alexander), and died in **1316**; **Malik Kafur** = **Hazar-Dinari** (हज़ार दिनारी).
+14. **Shahna-i-Mandi** (शहना-ए-मंडी - market controller) was Alauddin’s market controller; **Amir-i-Kohi** (अमीर-ए-कोही / दीवान-ए-कोही) was Muhammad bin Tughlaq’s agriculture department — do not swap them.
+15. **Muhammad bin Tughlaq** was the most learned Sultan; his main experiments were **Daulatabad**, **token currency** (सांकेतिक मुद्रा), **Amir-i-Kohi**, Doab tax, and Khurasan/Qarachil plans; **Ibn Battuta** wrote *Rihla*.
+16. **Firoz Shah** built canals and levied **Haqq-i-Sharb** (हक़-ए-शर्ब - irrigation tax), ran **Diwan-i-Khairat** (दीवान-ए-ख़ैरात - charity) / **Bandagan** (दीवान-ए-बंदगान - slaves) and **Dar-ul-Shafa** (दार-उल-शफ़ा - charitable hospital), funded Haj from the treasury, moved Ashoka pillars (**Topra/Meerut**), used **Azizuddin Khan** for Nagarkot texts, made **iqta hereditary** (इक्ता वंशानुगत), and put **jizya on Brahmins** (जज़िया).
 17. **Ibrahim Lodi** (**1517–1526**) was the last Delhi Sultan.
-18. **Iltutmish** institutionalised the **Iqta** system in India; **Siyasatnama** (Nizam-ul-Mulk) is the classical source on Muqti duties; Iqta revenue went to the **Muqti**, not directly to the Sultan; **Khalsa** was crown land.
-19. **Khams** was one-fifth of war booty; **jizya** was the tax on non-Muslims.
-20. Admin facts: **Diwan-i-Tan** = salaries; **Mustarfi** = audit; **Mushrif** = accounts; **Vakianvis** = firmans; **Khareetadar** = despatch of decrees.
+18. **Iltutmish** institutionalised the **Iqta** (इक्ता) system in India; **Siyasatnama** (Nizam-ul-Mulk) is the classical source on Muqti duties; Iqta revenue went to the **Muqti** (मुक़्ती / वली), not directly to the Sultan; **Khalsa** (ख़ालिसा) was crown land.
+19. **Khams** (ख़म्स) was one-fifth of war booty; **jizya** (जज़िया) was the tax on non-Muslims.
+20. Admin facts: **Diwan-i-Tan** (दीवान-ए-तन) = salaries/jagirs; **Mustarfi** (मुस्तौफ़ी) = audit; **Mushrif** (मुशरिफ़) = accounts/records; **Vakianvis** (वाक़ियानवीस) = firmans/events list; **Khareetadar** (खरीतादार) = despatch of decrees.
 21. **Tarikh-i-Firoz Shahi** is by **Barani** (or **Afif** for Firoz’s reign alone); **Tughlaqnama** is by **Amir Khusrau**, not Ibn Battuta; **Rihla** is Ibn Battuta’s travel book.
 22. **Tabaqat-i-Nasiri** is by **Minhaj**; Amir Khusrau also wrote **Rag Vibodh**, **Khazain-ul-Futuh**, and **Khaliq-e-Bari**.
 23. Architecture facts: **Sultan Garhi** = Iltutmish; **Red Palace** = Balban; **Jamat Khana** = Alauddin; **Dhai Din Ka Jhopra** = Aibak.
@@ -849,21 +849,21 @@ The **Sultan** was supreme executive, military commander, and judge, but success
 
 | Department | Head / role |
 |------------|-------------|
-| **Diwan-i-Wizarat** | **Wazir** handled finance |
-| **Diwan-i-Arz** | **Ariz-i-Mamalik** handled the army |
-| **Diwan-i-Risalat** | **Sadr** handled religious grants |
-| **Diwan-i-Insha** | Handled state correspondence |
-| **Diwan-i-Tan** | Managed **jagirs and salaries** |
-| **Mustarfi** | Audited income and expenditure |
-| **Mushrif** | Maintained office **records** |
-| **Vakianvis** | Kept the list of events and **firmans** |
-| **Khareetadar** | **Despatched royal decrees** |
-| **Barid** | Served as a **spy** in the intelligence network |
-| **Diwan-i-Mustakharaj** | Revenue arrears — **Alauddin** |
-| **Diwan-i-Riyasat** | Market control — **Alauddin** |
-| **Diwan-i-Amir-i-Kohi** | Agriculture — **Muhammad bin Tughlaq** |
-| **Diwan-i-Khairat** | Charity — **Firoz** |
-| **Diwan-i-Bandagan** | Slaves — **Firoz** |
+| **Diwan-i-Wizarat** (दीवान-ए-विज़ारत) | **Wazir** (वज़ीर) handled finance |
+| **Diwan-i-Arz** (दीवान-ए-अर्घ) | **Ariz-i-Mamalik** (आरिज़-ए-मुमालिक) handled the army |
+| **Diwan-i-Risalat** (दीवान-ए-रसालत) | **Sadr** (सद्र) handled religious affairs / foreign appeals |
+| **Diwan-i-Insha** (दीवान-ए-इंशा) | Handled state correspondence |
+| **Diwan-i-Tan** (दीवान-ए-तन) | Managed **jagirs and salaries** |
+| **Mustarfi** (मुस्तौफ़ी) | Audited income and expenditure |
+| **Mushrif** (मुशरिफ़) | Maintained office **records** |
+| **Vakianvis** (वाक़ियानवीस) | Kept the list of events and **firmans** |
+| **Khareetadar** (खरीतादार) | **Despatched royal decrees** |
+| **Barid** (बरीद-ए-मुमालिक) | Served as a **spy** in the intelligence network |
+| **Diwan-i-Mustakharaj** (दीवान-ए-मुस्तख़राज) | Revenue arrears — **Alauddin** |
+| **Diwan-i-Riyasat** (दीवान-ए-रियासत) | Market control — **Alauddin** |
+| **Diwan-i-Amir-i-Kohi** (दीवान-ए-अमीर-ए-कोही) | Agriculture — **Muhammad bin Tughlaq** |
+| **Diwan-i-Khairat** (दीवान-ए-ख़ैरात) | Charity — **Firoz** |
+| **Diwan-i-Bandagan** (दीवान-ए-बंदगान) | Slaves — **Firoz** |
 
 - The **Muqti/Wali** held an **iqta**, collected revenue, maintained troops, and administered the province.
 - Local hierarchy ran **Iqta/Suba → Shiq → Pargana (Amil) → Village (Muqaddam, Khut, Patwari)**.
@@ -903,16 +903,16 @@ Options include **B. 3-4-1-2**
 
 | Term | Meaning |
 |------|---------|
-| **Iqta** | Revenue + military assignment to **Muqti / Wali** — not land ownership |
-| **Khalsa** | **Crown/direct** land — revenue to Sultan's treasury |
-| **Jagir/Iqta** | Assigned to nobles — **not** direct state control |
-| **Kharaj** | Land revenue from peasants |
-| **Khams** | **1/5** of war booty to Sultan |
-| **Jizya** | Poll tax on **non-Muslims** in lieu of military service |
-| **Jarib** | Measuring rope — **not** a tax type |
-| **Haqq-i-Sharb** | Irrigation tax — **Firoz** (~1/10 produce) |
-| **Zakat** | Religious alms/property levy (Islamic) |
-| **Fawazil** | Surplus paid by **iqtadar** to the centre |
+| **Iqta** (इक्ता) | Revenue + military assignment to **Muqti / Wali** — not land ownership |
+| **Khalsa** (ख़ालिसा) | **Crown/direct** land — revenue to Sultan's treasury |
+| **Jagir/Iqta** (जागीर / इक्ता) | Assigned to nobles — **not** direct state control |
+| **Kharaj** (ख़राज) | Land revenue from peasants |
+| **Khams** (ख़म्स) | **1/5** of war booty to Sultan |
+| **Jizya** (जज़िया) | Poll tax on **non-Muslims** in lieu of military service |
+| **Jarib** (जरीब) | Measuring rope / chain — **not** a tax type |
+| **Haqq-i-Sharb** (हक़-ए-शर्ब) | Irrigation tax — **Firoz** (~1/10 produce) |
+| **Zakat** (ज़कात) | Religious alms/property levy (Islamic) |
+| **Fawazil** (फ़वाज़िल) | Surplus paid by **iqtadar** to the centre |
 
 ### Iqta system — who introduced it and how it worked
 

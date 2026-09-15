@@ -18,23 +18,23 @@ Administrative System of British India | Local Administration | Cornwallis Code 
 
 ## Consolidated — 33 Must-Score Facts
 
-1. Colonial economic policy moved through three phases: **mercantilism (Plassey–1813)**, **one-way free trade (1813–1858)**, and **finance capital / Drain (1858 onward)** with railway guarantees and Home Charges.
-2. The **Permanent Settlement (1793)** under **Cornwallis** (planned with **John Shore**) made the **zamindar** proprietor in **Bengal, Bihar, Orissa and Varanasi**. Also called **Istamrari / Jagirdari**. About **19%** of British India. Share: **10/11** to Company, **1/11** to Zamindar.
-3. **Ryotwari** (~**51%**) settled revenue with the **ryot** in **Madras, Bombay, Assam & Coorg** (**Munro and Read** first tested in **Baramahal**).
-4. **Mahalwari** (~**30%**, **1822**) under **Holt Mackenzie** settled with the **village / mahal** in UP / NWP, Central Provinces and Punjab. **William Bentinck** heavily expanded it.
+1. Colonial economic policy moved through three phases: **mercantilism (Plassey–1813)**, **one-way free trade (1813–1858)**, and **finance capital / Drain (1858 onward)** [धन की निकासी / बहिर्गमन] with railway guarantees and Home Charges (गृह प्रभार).
+2. The **Permanent Settlement (1793)** [स्थायी बंदोबस्त / ज़मींदारी प्रथा] under **Cornwallis** (planned with **John Shore**) made the **zamindar** (ज़मींदार) proprietor in **Bengal, Bihar, Orissa and Varanasi**. Also called **Istamrari / Jagirdari** (इस्तमरारी / जागीरदारी). About **19%** of British India. Share: **10/11** to Company, **1/11** to Zamindar.
+3. **Ryotwari** (रैयतवाड़ी बंदोबस्त, ~**51%**) settled revenue with the **ryot** (रैयत / किसान) in **Madras, Bombay, Assam & Coorg** (**Munro and Read** first tested in **Baramahal**).
+4. **Mahalwari** (महालवाड़ी बंदोबस्त, ~**30%**, **1822**) under **Holt Mackenzie** settled with the **village / mahal** (महाल / ग्राम) in UP / NWP, Central Provinces and Punjab. **William Bentinck** heavily expanded it.
 5. Different land systems in different regions created different classes of Indian peasantry — a standard A/R fact.
-6. The **Cornwallis Code (1793)** built the civil ladder: **Munsiff → Registrar → District (Diwani) Judge → Provincial Courts of Appeal → Sadar Diwani Adalat**. The same District Judge sat as Magistrate; criminal appeals rose to **Sadar Nizamat Adalat**.
-7. In **1793**, the zamindar’s police role was abolished. The **thana–daroga** system was placed under the **District Magistrate**.
+6. The **Cornwallis Code (1793)** [कॉर्नवालिस कोड] built the civil ladder: **Munsiff → Registrar → District (Diwani) Judge → Provincial Courts of Appeal → Sadar Diwani Adalat** (सदर दीवानी अदालत). The same District Judge sat as Magistrate; criminal appeals rose to **Sadar Nizamat Adalat** (सदर निज़ामत अदालत).
+7. In **1793**, the zamindar’s police role was abolished. The **thana–daroga** (थाना - दरोगा प्रणाली) system was placed under the **District Magistrate**.
 8. **Haileybury College (1806)** trained Company nominees in England. The **Charter Act, 1853** opened competition; the **Macaulay Committee (1854)** followed. First Indian ICS was **Satyendranath Tagore (1863)**.
 9. **Simultaneous ICS exams in India** began in **1922** (Allahabad/London) under Montford reforms. The **Lee Commission (1924)** led to the **Public Service Commission (1926)**.
 10. **Fort William College (1800)** was Wellesley’s Calcutta language college for civil servants. Do **not** confuse it with Haileybury.
-11. **Dadabhai Naoroji** published *Poverty and Un-British Rule in India* in **1901** (not 1900). He called Drain the **“evil of all evils.”** First Indian in the British Commons (**1892**, Liberal). 
-12. **Sir Syed Ahmad Khan** explicitly rejected the Drain Theory. INC accepted it at the **Calcutta Session 1896**. **Drain** ≠ **deindustrialization**.
+11. **Dadabhai Naoroji** published *Poverty and Un-British Rule in India* in **1901** (not 1900). He called Drain the **“evil of all evils”** [धन का बहिर्गमन सिद्धांत / Drain of Wealth]. First Indian in the British Commons (**1892**, Liberal). 
+12. **Sir Syed Ahmad Khan** explicitly rejected the Drain Theory. INC accepted it at the **Calcutta Session 1896**. **Drain** ≠ **deindustrialization** (विऔद्योगीकरण).
 13. **R.C. Dutt** wrote the *Economic History of India* (often asked opposite Naoroji as the other classic Drain critic).
-14. The railway **Guarantee System** promised a **5%** minimum return on British capital from Indian revenues (renegotiated **1869**). The **Managing Agency System** let British firms run Indian industries on largely Indian-raised capital for high fees.
+14. The railway **Guarantee System** promised a **5%** minimum return on British capital from Indian revenues (renegotiated **1869**). The **Managing Agency System** (प्रबंध अभिकरण प्रणाली) let British firms run Indian industries on largely Indian-raised capital for high fees.
 15. First passenger railway: **Bombay–Thane, 1853** (Dalhousie). Telegraph experiment: **1851** (O’Shaughnessy). Company post starts **1774** (Hastings); uniform penny postage **1854** (Dalhousie).
 16. **Industry firsts:** First successful Cotton Mill = **Bombay 1854 (C.N. Dawar)**. First Jute Mill = **Rishra 1855** (George Acland). **TISCO** = Jamshedpur 1907 (J.N. Tata).
-17. Indigo had **nij** (planter’s own land) and **ryoti** (peasant’s land via forced cash advance / **dadan**). Tea plantations expanded in **Assam from 1839**.
+17. Indigo had **nij** (निज - planter’s own land) and **ryoti** (रैयती - peasant’s land via forced cash advance / **dadan** [दादनी प्रथा]). Tea plantations expanded in **Assam from 1839**.
 18. **Famine chronology:** 1770 Bengal; 1866 Orissa (under Lawrence); 1876–78 Great Famine (under Lytton); 1899–1900 famine (Curzon); 1943 Bengal (Linlithgow).
 19. **Famine Commissions:** Campbell (1866), Strachey (1880, produced Famine Codes 1883), Lyall (1897), MacDonnell (1900), Woodhead (1945). Match them accurately.
 20. First **Municipal Corporation** was at **Madras, 1688** (not Calcutta). 
@@ -177,8 +177,8 @@ British economic policy in India was not one static plan. Bipan Chandra's three-
 ## 4.1 Administrative System of British India
 
 - British India was run from the **district** upward. The **Collector** carried revenue, magisterial and — until 1793 — judicial power together.
-- After the **Diwani of 1765** the Company had to collect Bengal's land revenue itself.
-- **Dual Government (1765–72)** left revenue with the Company and police/justice in the Nawab's name. It produced corruption and made the **Bengal Famine of 1770** worse.
+- After the **Diwani of 1765** (दीवानी अधिकार - दीवानी सनद) the Company had to collect Bengal's land revenue itself.
+- **Dual Government (1765–72)** [द्वैध शासन: दीवानी एवं निज़ामत अधिकार] left revenue with the Company and police/justice in the Nawab's name. It produced corruption and made the **Bengal Famine of 1770** worse.
 - **Warren Hastings** ended Dual Government in **1772**. Company officers then ran revenue and civil administration directly.
 - **Cornwallis (1786–93)** professionalised the civil service and separated the judiciary from the revenue side. The dedicated judiciary and police cards below carry this detail forward.
 - The **Charter Act of 1833** created the **Governor-General of India** and one all-India executive.
@@ -373,11 +373,11 @@ D. (A) is false but (R) is true
 - **Result:** Zamindars became legal proprietors; cultivators became tenants; litigation and absentee purchase rose; the state’s share stayed frozen while rents on tenants often rose.
 
 - Introduced by **Lord Cornwallis** in **1793** in **Bengal, Bihar and Orissa**, and also in **Varanasi (UP)**. About **19%** of British India came under it.
-- It is also called **Istamrari / Ist-e-Marari**, and sometimes tagged Jagirdari, Malgujari or Bishvedari in older usage.
+- It is also called **Istamrari / Ist-e-Marari** (इस्तमरारी बंदोबस्त), and sometimes tagged Jagirdari (जागीरदारी), Malgujari (मालगुज़ारी) or Bishvedari in older usage.
 - Failed farming contracts and **decennial** (ten-year) experiments came before the permanent fix of **1793**.
-- The **zamindar** was recognised as **proprietor** with hereditary and transferable rights. He paid a **fixed** yearly sum to the Company — commonly remembered as **10/11** of the collection to the state and **1/11** kept by the zamindar.
-- The actual cultivator became a **tenant**, not the owner of the soil. Zamindars were to issue **pattas** to farmers, but many never did because there was **no official check** on them.
-- Under the **Sunset Law**, if the zamindar did not pay by sunset on the due day, the estate could be sold at auction. Many buyers were urban absentees.
+- The **zamindar** (ज़मींदार) was recognised as **proprietor** with hereditary and transferable rights. He paid a **fixed** yearly sum to the Company — commonly remembered as **10/11** of the collection to the state and **1/11** kept by the zamindar.
+- The actual cultivator became a **tenant**, not the owner of the soil. Zamindars were to issue **pattas** (पट्टा) to farmers, but many never did because there was **no official check** on them.
+- Under the **Sunset Law** (सूर्यास्त कानून / सनसेट लॉ), if the zamindar did not pay by sunset on the due day, the estate could be sold at auction. Many buyers were urban absentees.
 - Making the zamindar stronger against the ryot, plus more intermediaries, fed **increased litigation** after 1793 — a classic match-list angle.
 - Because the state's demand was frozen, the Company could **not** raise it when production later grew. Zamindars, however, often raised rents on tenants.
 - Peasant pressure later produced the **Bengal Tenancy Act, 1885**, which defined landlord and tenant rights in Bengal and Bihar.
@@ -419,14 +419,14 @@ D. 4 3 2 1
 
 - **Cause:** Company officers in the south argued that Bengal’s zamindar middleman was alien to Tamil and Deccan village practice and blocked accurate assessment.
 - **Course:** **Alexander Read** tried direct settlement in **Baramahal**; **Thomas Munro** expanded it in Madras; **Elphinstone** carried a similar line into parts of Bombay.
-- **Result:** The state faced the cultivator directly, surveyed fields, issued **pattas**, and kept the right to revise demand — high cash pressure without a Bengal-style landlord buffer.
+- **Result:** The state faced the cultivator directly, surveyed fields, issued **pattas** (पट्टा), and kept the right to revise demand — high cash pressure without a Bengal-style landlord buffer.
 
 - **Alexander Read** (Reed) first tried it in **Baramahal** (Tamil country) after the 1790s acquisitions. **Thomas Munro** expanded it as Governor of Madras (**1820–27**) and said Ryotwari was “a system which has always prevailed in India.” **Elphinstone** carried a similar direct settlement into parts of **Bombay**.
 - It spread across the **Madras** Presidency and parts of **Bombay**, plus pockets of **eastern Bengal, Assam and Coorg**. About **51%** of British India came under it.
-- The state settled **directly with the cultivator (ryot)**. There was no Bengal-style zamindar in between. The government surveyed and assessed fields and issued **pattas**.
+- The state settled **directly with the cultivator (ryot / रैयत)**. There was no Bengal-style zamindar in between. The government surveyed and assessed fields and issued **pattas** (पट्टा).
 - The ryot was treated as the landholder responsible for revenue. Tax rates were **high** and collection was **strict**; remission in bad harvests was not a standing right.
 - Revenue was **revised periodically**, so the state could raise demand. Cash pressure pushed peasants toward **moneylenders** and cash crops.
-- In the south, older village elites such as **mirasidars** often became the designated revenue payers under this system.
+- In the south, older village elites such as **mirasidars** (मीरासीदार) often became the designated revenue payers under this system.
 
 > **Logic:** Munro + Read = Ryotwari. Cornwallis = Permanent Settlement. Peasants were **not** exempt from revenue in every bad year as a fixed rule.
 
@@ -439,12 +439,12 @@ D. 4 3 2 1
 ### Cause → Course → Result
 
 - **Cause:** In the North-Western Provinces the Company needed a settlement that fitted joint village rights better than Bengal’s single zamindar model.
-- **Course:** **Holt Mackenzie’s 1822** report shaped mahal-based assessment; **Bentinck** later extended the idea. A **lambardar** often collected the village share.
+- **Course:** **Holt Mackenzie’s 1822** report shaped mahal-based assessment; **Bentinck** later extended the idea. A **lambardar** (लंबरदार) often collected the village share.
 - **Result:** About **30%** of British India — mainly **UP / NWP, Central Provinces and Punjab** — carried joint village liability with periodic revision. This is the land-revenue background of much of later Uttar Pradesh.
 
 - Shaped by **Holt Mackenzie's report of 1822** for the **North-Western Provinces** (then under the wider Bengal Presidency administration, which is why some stems say “Bengal”). **Bentinck** later extended the idea. About **30%** of British India came under it.
-- The unit was the **village or mahal**. Village land was treated as belonging to the village community, which was **jointly responsible** for the revenue.
-- A **lambardar** often collected the village's share.
+- The unit was the **village or mahal** (महाल / ग्राम). Village land was treated as belonging to the village community, which was **jointly responsible** (संयुक्त उत्तरदायित्व) for the revenue.
+- A **lambardar** (लंबरदार / ग्राम प्रधान) often collected the village's share.
 - Demand was **revised periodically**. It was **not** a second Permanent Settlement.
 - Main zones: **UP / NWP, Central Provinces and Punjab** (with local variations). This is the land-revenue background of much of later **Uttar Pradesh**.
 - The **Punjab Land Alienation Act, 1900** later restricted land transfer from agricultural to non-agricultural classes — a separate Punjab agrarian fact often asked beside Mahalwari geography.

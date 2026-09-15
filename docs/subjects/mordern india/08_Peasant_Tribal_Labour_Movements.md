@@ -22,37 +22,37 @@ Peasant Movements | Peasant Revolts | Leaders | Tribal Revolts | Tribal Leaders 
 
 ## Consolidated — 30 Must-Score Facts
 
-1. Hold three streams: **peasant** (rent, indigo, share), **tribal** (land–forest–*diku*), and **labour** (unions and wages). Method can overlap; the target of protest does not.
+1. Hold three streams: **peasant** (rent, indigo, share), **tribal** (land–forest–*diku* [दिकू - बाहरी शोषक]), and **labour** (unions and wages). Method can overlap; the target of protest does not.
 
-2. The **Sanyasi–Fakir** rising (~**1763–1800**) in the Bengal–Bihar belt is the early chronology opener. Chronology order often starts here before Indigo and Pabna.
+2. The **Sanyasi–Fakir** rising (~**1763–1800**) [संन्यासी-फ़क़ीर विद्रोह] in the Bengal–Bihar belt is the early chronology opener. Chronology order often starts here before Indigo and Pabna.
 
-3. **Paika Rebellion (1817)** in Odisha was led by **Jagabandhu Bidyadhar**. **Cause:** loss of paika privileges under Company land-revenue changes. **Course/Result:** armed rising suppressed; it remains a major pre-1857 tribal/peasant fact.
+3. **Paika Rebellion (1817)** [पाइक विद्रोह] in Odisha was led by **Jagabandhu Bidyadhar**. **Cause:** loss of paika privileges under Company land-revenue changes. **Course/Result:** armed rising suppressed; it remains a major pre-1857 tribal/peasant fact.
 
 4. **Ahom rising** is ~**1828** under **Gomdhar Konwar** — **not 1815** (a repeated false year). **Khasi Revolt (1829)** was led by **Tirut Singh**.
 
-5. **Kol Rebellion (1831–32)** in Chotanagpur involved leaders such as **Buddhu Bhagat**. **Santhal Hul (1855–56)** was led by **Sidhu and Kanhu** in the Rajmahal / Santhal Parganas belt.
+5. **Kol Rebellion (1831–32)** [कोल विद्रोह] in Chotanagpur involved leaders such as **Buddhu Bhagat**. **Santhal Hul (1855–56)** [संथाल हूल / विद्रोह] was led by **Sidhu and Kanhu** in the Rajmahal / Santhal Parganas belt.
 
-6. **Indigo Revolt (1859–60). Cause** — European planters' forced indigo and *dadan*. **Course** — Biswas brothers in Nadia and wider Bengal resistance. **Result** — **Indigo Commission 1860** and a check on planter power.
+6. **Indigo Revolt (1859–60)** [नील विद्रोह]. **Cause** — European planters' forced indigo and *dadan* (दादनी प्रथा - पेशगी). **Course** — Biswas brothers in Nadia and wider Bengal resistance. **Result** — **Indigo Commission 1860** and a check on planter power.
 
-7. **Deccan Riots (1875). Cause** — moneylender (*sahukar*) grip in Poona–Ahmednagar. **Course** — crowds attacked creditor power. **Result** — **Deccan Agriculturists' Relief Act, 1879**.
+7. **Deccan Riots (1875)** [दक्कन दंगे]. **Cause** — moneylender (*sahukar* / साहूकार) grip in Poona–Ahmednagar. **Course** — crowds attacked creditor power. **Result** — **Deccan Agriculturists' Relief Act, 1879**.
 
 8. **Pabna agrarian leagues (1873–85)** fought **zamindar rent-hikes** in Bengal — not the same grievance as indigo planters in 1859–60.
 
-9. **Munda Ulgulan (1899–1900)** was led by **Birsa Munda** against *diku* landlords and colonial intrusion in Chotanagpur. **Tana Bhagat (1914)** under **Jatra Oraon** is a later Oraon faith-and-protest stream.
+9. **Munda Ulgulan (1899–1900)** [मुंडा उलगुलान / महान हलचल] was led by **Birsa Munda** against *diku* (दिकू) landlords and colonial intrusion in Chotanagpur. **Tana Bhagat (1914)** [ताना भगत आंदोलन] under **Jatra Oraon** is a later Oraon faith-and-protest stream.
 
-10. **Kuka (Namdhari) rising (~1872)** under **Baba Ram Singh** belongs to Punjab — keep it distinct from Bengal peasant leagues.
+10. **Kuka (Namdhari) rising (~1872)** [कूका आंदोलन] under **Baba Ram Singh** belongs to Punjab — keep it distinct from Bengal peasant leagues.
 
-11. **Champaran (1917)** attacked the **tinkathia** indigo system with Gandhi's satyagraha method. **Kheda (1918)** was a Gujarat no-revenue satyagraha in crop-failure conditions.
+11. **Champaran (1917)** attacked the **tinkathia** (तीनकठिया प्रथा - 3/20 भाग) indigo system with Gandhi's satyagraha method. **Kheda (1918)** was a Gujarat no-revenue satyagraha in crop-failure conditions.
 
 12. **UP Kisan Sabha (1918)** is keyed to **Indra Narayan Dwivedi** (with Gauri Shankar Mishra) — **not** Baba Ramchandra, Sahajanand or Nehru.
 
-13. **Oudh Kisan Sabha (October 1920, Pratapgarh)** was mobilised by **Baba Ramchandra**. **Eka (1921–22)** under **Madari Pasi** stressed rent receipts and oath-bound unity in Hardoi–Bahraich–Sitapur.
+13. **Oudh Kisan Sabha (October 1920, Pratapgarh)** was mobilised by **Baba Ramchandra**. **Eka (1921–22)** [एका आंदोलन] under **Madari Pasi** stressed rent receipts and oath-bound unity in Hardoi–Bahraich–Sitapur.
 
-14. **Moplah / Malabar (1921)** mixed tenancy grievance with a violent phase under leaders such as **Ali Musliyar** and **Variyamkunnath**. **Bardoli (1928)** was Vallabhbhai Patel's Gujarat no-tax satyagraha — different method and region.
+14. **Moplah / Malabar (1921)** [मोपला विद्रोह] mixed tenancy grievance with a violent phase under leaders such as **Ali Musliyar** and **Variyamkunnath**. **Bardoli (1928)** was Vallabhbhai Patel's Gujarat no-tax satyagraha — different method and region.
 
-15. **Tebhaga (1946–47)** in Bengal demanded a **two-thirds** share for sharecroppers. **Telangana (1946–51)** was the CPI-led armed anti-*jagirdar* struggle in Hyderabad State — if the stem says Nizam / Razakars / *dalams*, fact Telangana.
+15. **Tebhaga (1946–47)** [तेभागा आंदोलन] in Bengal demanded a **two-thirds** (ते-भागा: 2/3) share for sharecroppers. **Telangana (1946–51)** [तेलंगाना किसान आंदोलन] was the CPI-led armed anti-*jagirdar* struggle in Hyderabad State — if the stem says Nizam / Razakars / *dalams*, fact Telangana.
 
-16. **Rampa / Manyam (1922–24)** was led by **Alluri Sitarama Raju** in the East Godavari agency tract. **All India Kisan Sabha (1936)** is keyed to **Swami Sahajanand Saraswati** (Lucknow session).
+16. **Rampa / Manyam (1922–24)** was led by **Alluri Sitarama Raju** in the East Godavari agency tract. **All India Kisan Sabha (1936)** [अखिल भारतीय किसान सभा] is keyed to **Swami Sahajanand Saraswati** (Lucknow session).
 
 17. **AITUC** was founded in **1920** with **Lala Lajpat Rai** as first president. **INTUC (1947)** is the Congress labour wing. **BMS (1955)** was founded by **Dattopant Thengadi** (BJP/RSS stream).
 
@@ -636,21 +636,21 @@ D. Pt. Jawaharlal Nehru
 
 ## 8.6 Santhal Rebellion (1855–56)
 
-**Year:** **1855–56Region:Damin-i-Koh** / Rajmahal hills (Bhagalpur–Rajmahal belt; later **Santhal Parganas**)
+**Year:** **1855–56** | **Region:** **Damin-i-Koh** (दामिन-ए-कोह) / Rajmahal hills (Bhagalpur–Rajmahal belt; later **Santhal Parganas** / संथाल परगना)
 
 **Leaders:** brothers **Sidhu, Kanhu, Chand and Bhairav** Murmu (tag: **Sidhu and Kanhu**)
 
 ### Causes
 
-- The Company had settled Santhals in **Damin-i-Koh (1832)** to clear forest and pay rent.
+- The Company had settled Santhals in **Damin-i-Koh (1832)** [दामिन-ए-कोह: राजमहल पहाड़ियों की तलहटी] to clear forest and pay rent.
 
-- Outsiders called ***dikus*** — zamindars, *mahajans*, traders, police and railway contractors — seized Santhal land and trapped them in debt.
+- Outsiders called ***dikus*** (दिकू - बाहरी शोषक, साहूकार व ज़मींदार) — zamindars, *mahajans*, traders, police and railway contractors — seized Santhal land and trapped them in debt.
 
 - Courts and police backed the exploiters, and traditional village headmen lost their customary authority.
 
 ### Course
 
-- On **30 June 1855** at **Bhognadih**, Sidhu and Kanhu declared the **Hul** (rebellion), claiming a divine command to end *diku* rule.
+- On **30 June 1855** at **Bhognadih**, Sidhu and Kanhu declared the **Hul** (हूल - सशस्त्र क्रांति / विद्रोह), claiming a divine command to end *diku* rule.
 
 - Rebel bands attacked moneylenders, zamindars and symbols of Company power. The rising spread fast across the Santhal belt.
 
@@ -734,15 +734,15 @@ D. 4 3 2 1
 
 ### Causes
 
-- *Ulgulan* means **Great Tumult**. Mundas held land under ***khuntkatti*** (clan/joint original-settler right); landlords, contractors, *jagirdars* and colonial law ate into that right.
+- *Ulgulan* (उलगुलान) means **Great Tumult** (महान हलचल / महाविद्रोह). Mundas held land under ***khuntkatti*** (खूँटकट्टी - सामूहिक/संयुक्त भूमि व्यवस्था); landlords, contractors, *jagirdars* and colonial law ate into that right.
 
 - Forced labour, forest rules and moneylender debt added to the anger. Missionary activity created religious ferment on top of the agrarian grievance.
 
-- Birsa first came under Christian influence, then left it, and preached a new **Birsait** faith of one God and a golden age without *dikus*.
+- Birsa first came under Christian influence, then left it, and preached a new **Birsait** (बिरसाइत) faith of one God and a golden age without *dikus* (दिकू).
 
 ### Course
 
-- Followers are called **Birsaites**. Traditional joint-clearing tenure is **Khuntkatti** (*Mundari*). Birsa is remembered as **Dharti Aaba** / **Jagat Pita** and preached one God (**Sing Bonga**). The long prior struggle is also called the **Sardari** fight. The slogan memory is *Abua raj etejana* — our kingdom has come.
+- Followers are called **Birsaites**. Traditional joint-clearing tenure is **Khuntkatti** (*Mundari* / खूँटकट्टी प्रथा). Birsa is remembered as **Dharti Aaba** (धरती आबा) / **Jagat Pita** (जगत पिता) and preached one God (**Sing Bonga** / सिंगबोंगा). The long prior struggle is also called the **Sardari** fight. The slogan memory is *Abua raj etejana* (अबुआ राज एतेजाना — महारानी राज तुंदु जाना: हमारा राज स्थापित हो).
 
 - On **Christmas 1899** Birsaites attacked churches, police stations and outsider property. Fighting followed at **Sail Rakab** and nearby hills.
 
@@ -1477,19 +1477,19 @@ Local `pyq/2022` option strings do not list `4 1 3 2` (OCR/set mismatch). Learn 
 
 ## 8.15 Bonded Labour Practices
 
-- **Bonded labour** is work tied by **debt or custom** so the worker cannot leave freely. The loan never clears; the family often inherits the debt.
+- **Bonded labour** (बंधुआ मज़दूरी - जैसे बिहार-झारखंड में कमिया/कमियौती प्रथा [Kamiuti / Kamia], हरवाही प्रथा) is work tied by **debt or custom** so the worker cannot leave freely. The loan never clears; the family often inherits the debt.
 
-- ***Begar*** is unpaid labour taken by landlords, taluqdars or officials. It was a core Awadh and tribal grievance (Eka, Tana Bhagat, Kol, Munda).
+- ***Begar*** (बेगार - निःशुल्क/बलपूर्वक श्रम) is unpaid labour taken by landlords, taluqdars or officials. It was a core Awadh and tribal grievance (Eka, Tana Bhagat, Kol, Munda).
 
-- Indigo ***dadon*** (advances) tied Bengal ryots into unfree crop contracts. That is crop bondage, not a mill wage.
+- Indigo ***dadon*** (दादनी प्रथा - अग्रिम पेशगी) tied Bengal ryots into unfree crop contracts. That is crop bondage, not a mill wage.
 
-- Deccan *sahukars* and Santhal *mahajans* used **bond papers** as weapons. Burning those papers in 1875 was an attack on bondage, not random loot.
+- Deccan *sahukars* (साहूकार) and Santhal *mahajans* (महाजन) used **bond papers** as weapons. Burning those papers in 1875 was an attack on bondage, not random loot.
 
-- Plantation and *arkatti* recruitment in Assam also used advances and penal contracts (a related unfree-labour story).
+- Plantation and *arkatti* (अरकाठी प्रथा) recruitment in Assam also used advances and penal contracts (a related unfree-labour story).
 
-- **Article 23** of the Constitution prohibits traffic in human beings and *begar* / similar forms of forced labour.
+- **Article 23** of the Constitution prohibits traffic in human beings and *begar* (बेगार) / similar forms of forced labour (बलात् श्रम).
 
-- The **Bonded Labour System (Abolition) Act, 1976** is the main statute after independence. It frees bonded labourers and extinguishes the debt.
+- The **Bonded Labour System (Abolition) Act, 1976** [बंधुआ श्रम प्रणाली (उन्मूलन) अधिनियम, 1976] is the main statute after independence. It frees bonded labourers and extinguishes the debt.
 
 - **AITUC (1920)** organised factory wage workers. It did **not** abolish village bondage.
 

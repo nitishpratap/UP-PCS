@@ -19,34 +19,34 @@ Taught in time-order: Vedic → Magadha → Maurya → Post-Mauryan → Gupta �
 
 ## Consolidated — 28 Must-Score Facts
 
-1. Political time-order for titles and inscriptions runs **Vedic rajan → Magadha houses → Maurya → Shunga / Kharavela / Kushan / Satavahana → Gupta → Harsha**.
-2. **Ashoka** on edicts is **Devanampiya Piyadassi**. His personal name appears at **Maski** (and Gujarra, Nittur, Udegolam). **Bindusara** is **Amitraghata**.
-3. **Chandragupta I** is the first Gupta **Maharajadhiraja**. **Chandragupta II** is **Vikramaditya**. **Harsha** is Chinese **Siladitya**. **Kanishka** is **Devaputra**.
-4. **Gautamiputra Satakarni** is **Dakshinapathapati**. **Kharavela** is **Mahameghavahana**. **Rudradaman I** is **Mahakshatrapa**. **Mahapadma Nanda** is **Ekarat / Sarvakshatrantaka**.
+1. Political time-order for titles and inscriptions runs **Vedic rajan (राजन) → Magadha houses → Maurya → Shunga / Kharavela / Kushan / Satavahana → Gupta → Harsha**.
+2. **Ashoka** on edicts is **Devanampiya Piyadassi** (देवानांप्रिय प्रियदर्शी). His personal name appears at **Maski** (and Gujarra, Nittur, Udegolam). **Bindusara** is **Amitraghata** (अमित्रघात).
+3. **Chandragupta I** is the first Gupta **Maharajadhiraja** (महाराजाधिराज). **Chandragupta II** is **Vikramaditya** (विक्रमादित्य). **Harsha** is Chinese **Siladitya** (शीलादित्य). **Kanishka** is **Devaputra** (देवपुत्र).
+4. **Gautamiputra Satakarni** is **Dakshinapathapati** (दक्षिणापथपति). **Kharavela** is **Mahameghavahana** (महामेघवाहन). **Rudradaman I** is **Mahakshatrapa** (महाक्षत्रप). **Mahapadma Nanda** is **Ekarat / Sarvakshatrantaka** (एकराट् / सर्वक्षत्रान्तक).
 5. **Hathigumpha** = **Kharavela**. **Ayodhya** = Pushyamitra’s two **ashwamedhas**. **Besnagar** = Heliodorus, **not** Pushyamitra.
 6. **Prayag Prashasti** = **Samudragupta** by **Harishena** on the Allahabad Ashokan shaft. **Aihole** = **Pulakeshin II** stopping Harsha.
 7. **Girnar / Junagadh** rock carries three ages: **Ashoka**, then **Rudradaman**, then **Skandagupta**.
 8. **Sarvavarman–Gaya copper plate** is **NOT** matched. The Gaya plate is **Samudragupta**. Sarvavarman’s fact is the **Asirgarh** seal.
 9. Correct Maukhari / later pairs: **Ishanavarman–Haraha**, **Ishvaravarman–Jaunpur**, **Jivitagupta II–Deo-Baranark**.
-10. Vedic **Bhagadugha** is the **revenue** collector of the king’s share. **Akshavapa** is the **dice / gambling** officer — the classic trap.
-11. Vedic **Sabha** is the smaller elder council. **Samiti** is the larger tribal assembly. There is no Samaharta or Uparika in the Vedic list.
-12. Mauryan **Samaharta** collects revenue. **Sannidhata** stores the treasury. Do not reverse collector and treasurer.
-13. Megasthenes’ **Agronomai** are Mauryan **revenue** officers. Weights belong to the *pautavadhyaksha*; roads are the wrong option.
-14. Ashoka appointed **dhamma-mahamatras** in the **14th** year after coronation (RE V). The claim that dhamma’s definition comes from the *Rahulovada-sutta* is **false**.
-15. Gupta province is **bhukti** under **uparika**. District is **vishaya** under **kumaramatya**. **Sandhivigrahika** handles peace and war.
-16. Harsha reuses Gupta titles at a higher grade: **mahasandhivigrahika**, **mahapratihara**, **bhandagaradhikarana**, still with **uparika**. He invents no new machine.
-17. Mauryan rule is **centralised** through salaried **amatyas**. Gupta and Harsha run a looser **samanta** (feudatory) system.
-18. Kautilya’s **saptanga** has seven limbs: swami, amatya, janapada, durga, kosha, bala, and mitra. Adhyakshas are department heads under that machine.
+10. Vedic **Bhagadugha** (भागदुघ) is the **revenue** collector of the king’s share. **Akshavapa** (अक्षावाप) is the **dice / gambling** officer — the classic trap.
+11. Vedic **Sabha** (सभा) is the smaller elder council. **Samiti** (समिति) is the larger tribal assembly. There is no Samaharta or Uparika in the Vedic list.
+12. Mauryan **Samaharta** (समाहर्ता) collects revenue. **Sannidhata** (सन्निधाता) stores the treasury. Do not reverse collector and treasurer.
+13. Megasthenes’ **Agronomai** are Mauryan **revenue** officers. Weights belong to the *pautavadhyaksha* (पौतवाध्यक्ष); roads are the wrong option.
+14. Ashoka appointed **dhamma-mahamatras** (धम्म महामात्र) in the **14th** year after coronation (RE V). The claim that dhamma’s definition comes from the *Rahulovada-sutta* is **false**.
+15. Gupta province is **bhukti** (भुक्ति) under **uparika** (उपरिक). District is **vishaya** (विषय) under **kumaramatya** (कुमारमात्य). **Sandhivigrahika** (संधिविग्रहिक) handles peace and war.
+16. Harsha reuses Gupta titles at a higher grade: **mahasandhivigrahika** (महासांधिविग्रहिक), **mahapratihara** (महाप्रतिहार), **bhandagaradhikarana** (भाण्डागाराधिकरण), still with **uparika** (उपरिक). He invents no new machine.
+17. Mauryan rule is **centralised** through salaried **amatyas** (अमात्य). Gupta and Harsha run a looser **samanta** (सामंत) (feudatory) system.
+18. Kautilya’s **saptanga** (सप्तांग) has seven limbs: swami (स्वामी), amatya (अमात्य), janapada (जनपद), durga (दुर्ग), kosha (कोष), bala (बल), and mitra (मित्र). Adhyakshas (अध्यक्ष) are department heads under that machine.
 19. **Nasik prasasti** of Gautami Balashri records Gautamiputra against Nahapana. **Naneghat** records queen **Naganika** with Satakarni I.
 20. **Mehrauli** iron pillar’s “Chandra” is usually **Chandragupta II**. **Bhitari** pillar is **Skandagupta** versus the Hunas. **Banskhera** and **Madhuban** are Harsha grants.
 21. Samudragupta’s south contemporaries: **Dhananjaya–Kusthalapura**, **Nilaraja–Avamukta**, **Ugrasena–Palaka**, **Vishnugopa–Kanchi**.
 22. Coin evidence ladder: punch-marked silver → Indo-Greek portraits → Kushan gold → Gupta dinara; Chandragupta II’s **silver ~33 grains** proves the western Shaka victory.
 23. The **Vishnu Purana** carries Maurya genealogy. The **Vayu Purana** does **not** throw light on Gupta governance.
-24. **Rajuka** is Mauryan district land and justice. **Uparika** is Gupta provincial governor. Do not swap the ages.
+24. **Rajuka** (रज्जुक) is Mauryan district land and justice. **Uparika** (उपरिक) is Gupta provincial governor. Do not swap the ages.
 25. Best king ID order is **inscription first**, then coins, then Puranas. Foreign accounts (Megasthenes, Fa-Hien, Xuanzang, I-tsing) sit beside that ladder.
 26. **Chandragupta Maurya** is Greek **Sandrokottos** (~322 BCE). He is **not** Chandragupta I or Chandragupta II of the Gupta house.
 27. **Rummindei** pillar records Ashoka’s Lumbini visit. **Rabatak** gives Kanishka genealogy. **Haraha** (554 CE) is Maukhari Ishanavarman in Barabanki, UP.
-28. Title inflation grows from Gupta grants onward. **Chakravartin** is the ideal wheel-turning monarch, not one king’s exclusive stamp; a feudatory is **samanta / mahasamanta**.
+28. Title inflation grows from Gupta grants onward. **Chakravartin** (चक्रवर्ती) is the ideal wheel-turning monarch, not one king’s exclusive stamp; a feudatory is **samanta / mahasamanta** (सामंत / महासामंत).
 
 ---
 
@@ -75,16 +75,16 @@ Taught in time-order: Vedic → Magadha → Maurya → Post-Mauryan → Gupta �
 
 | Title | Ruler |
 |-------|-------|
-| Devanampiya Piyadassi | **Ashoka** |
-| Amitraghata | **Bindusara** |
-| Maharajadhiraja (first Gupta) | **Chandragupta I** |
-| Vikramaditya | **Chandragupta II** |
-| Siladitya | **Harsha** |
-| Devaputra | **Kanishka** |
-| Dakshinapathapati | **Gautamiputra Satakarni** |
-| Mahameghavahana | **Kharavela** |
-| Mahakshatrapa | **Rudradaman I** |
-| Ekarat / Sarvakshatrantaka | **Mahapadma Nanda** |
+| Devanampiya Piyadassi (देवानांप्रिय प्रियदर्शी) | **Ashoka** |
+| Amitraghata (अमित्रघात) | **Bindusara** |
+| Maharajadhiraja (महाराजाधिराज) (first Gupta) | **Chandragupta I** |
+| Vikramaditya (विक्रमादित्य) | **Chandragupta II** |
+| Siladitya (शीलादित्य) | **Harsha** |
+| Devaputra (देवपुत्र) | **Kanishka** |
+| Dakshinapathapati (दक्षिणापथपति) | **Gautamiputra Satakarni** |
+| Mahameghavahana (महामेघवाहन) | **Kharavela** |
+| Mahakshatrapa (महाक्षत्रप) | **Rudradaman I** |
+| Ekarat / Sarvakshatrantaka (एकराट् / सर्वक्षत्रान्तक) | **Mahapadma Nanda** |
 | Sandrokottos | **Chandragupta Maurya** |
 
 ### Inscription ↔ owner
@@ -108,14 +108,14 @@ Taught in time-order: Vedic → Magadha → Maurya → Post-Mauryan → Gupta �
 
 | Official | Age / role |
 |----------|------------|
-| Bhagadugha | Vedic revenue |
-| Akshavapa | Vedic dice (trap) |
-| Samaharta | Mauryan collector |
-| Sannidhata | Mauryan treasurer |
+| Bhagadugha (भागदुघ) | Vedic revenue |
+| Akshavapa (अक्षावाप) | Vedic dice (trap) |
+| Samaharta (समाहर्ता) | Mauryan collector |
+| Sannidhata (सन्निधाता) | Mauryan treasurer |
 | Agronomai | Mauryan rural revenue (Greek) |
-| Rajuka | Mauryan land / justice |
-| Uparika | Gupta province |
-| Sandhivigrahika | Gupta / Harsha peace–war |
+| Rajuka (रज्जुक) | Mauryan land / justice |
+| Uparika (उपरिक) | Gupta province |
+| Sandhivigrahika (संधिविग्रहिक) | Gupta / Harsha peace–war |
 
 ---
 
@@ -182,35 +182,35 @@ Ancient papers often ask a **title**, not a personal name. Hold the pairs below 
 
 ### Vedic and Nanda
 
-- The Vedic chief is **Rajan**.
-- A Later Vedic wider claim is **Samrat** or **Ekarat**.
-- **Mahapadma Nanda** is **Ekarat** and **Sarvakshatrantaka**.
+- The Vedic chief is **Rajan** (राजन).
+- A Later Vedic wider claim is **Samrat** (सम्राट) or **Ekarat** (एकराट्).
+- **Mahapadma Nanda** is **Ekarat** (एकराट्) and **Sarvakshatrantaka** (सर्वक्षत्रान्तक).
 
 ### Mauryan
 
 - **Chandragupta Maurya** is Greek **Sandrokottos**.
-- **Bindusara** is **Amitraghata / Amitrochates**.
-- **Ashoka** is **Devanampiya Piyadassi** on most edicts.
+- **Bindusara** is **Amitraghata** (अमित्रघात) / **Amitrochates**.
+- **Ashoka** is **Devanampiya Piyadassi** (देवानांप्रिय प्रियदर्शी) on most edicts.
 - His personal name appears at **Maski**, then at Gujarra, Nittur, and Udegolam.
 
 ### Post-Mauryan
 
-- **Kanishka** is **Devaputra**.
-- **Gautamiputra Satakarni** is **Dakshinapathapati**.
-- **Kharavela** is **Mahameghavahana** of the Chedi line.
-- **Rudradaman I** is **Mahakshatrapa**.
+- **Kanishka** is **Devaputra** (देवपुत्र).
+- **Gautamiputra Satakarni** is **Dakshinapathapati** (दक्षिणापथपति).
+- **Kharavela** is **Mahameghavahana** (महामेघवाहन) of the Chedi line.
+- **Rudradaman I** is **Mahakshatrapa** (महाक्षत्रप).
 
 ### Gupta and Harsha
 
-- **Sri Gupta** and **Ghatotkacha** are **Maharaja** only.
-- **Chandragupta I** is the first Gupta **Maharajadhiraja**.
-- **Samudragupta** is Maharajadhiraja and *kaviraja*. Digvijaya is the **policy**, not a coin-title.
-- **Chandragupta II** is **Vikramaditya**.
-- **Kumaragupta I** is **Mahendraditya**.
-- **Skandagupta** is **Kramaditya** or Vikramaditya on some types.
-- **Harsha** is Chinese **Siladitya**. He is also Paramabhattaraka.
-- A Gupta or Harsha feudatory is **Samanta** or **Mahasamanta**.
-- **Chakravartin** is the ideal wheel-turning monarch. It is not one king’s exclusive stamp.
+- **Sri Gupta** and **Ghatotkacha** are **Maharaja** (महाराज) only.
+- **Chandragupta I** is the first Gupta **Maharajadhiraja** (महाराजाधिराज).
+- **Samudragupta** is Maharajadhiraja and *kaviraja* (कविराज). Digvijaya is the **policy**, not a coin-title.
+- **Chandragupta II** is **Vikramaditya** (विक्रमादित्य).
+- **Kumaragupta I** is **Mahendraditya** (महेन्द्रादित्य).
+- **Skandagupta** is **Kramaditya** (क्रमादित्य) or Vikramaditya on some types.
+- **Harsha** is Chinese **Siladitya** (शीलादित्य). He is also Paramabhattaraka (परमभट्टारक).
+- A Gupta or Harsha feudatory is **Samanta** (सामंत) or **Mahasamanta** (महासामंत).
+- **Chakravartin** (चक्रवर्ती) is the ideal wheel-turning monarch. It is not one king’s exclusive stamp.
 - Title inflation grows from Gupta grants onward.
 
 > **Logic:** Vikramaditya is not Samudragupta. Devanampiya is not Harsha.
@@ -336,9 +336,9 @@ D. Ishwaravarman — Jaunpur stone inscription
 
 **Vedic tribal → Mauryan machine → Gupta/Harsha samanta | officials are the paper**
 
-- Vedic core officers are the **rajan**, the **purohita**, the **senani**, and the **gramani**.
-- The **bhagadugha** collects revenue, the king’s **bhaga**. The **sangrahitri** is the treasurer. The **akshavapa** is dice and gambling. That is the dice-officer trap.
-- The **Sabha** is the smaller assembly of elders. The **Samiti** is the larger tribal body. The **Vidatha** is the kin-ritual gathering.
+- Vedic core officers are the **rajan** (राजन), the **purohita** (पुरोहित), the **senani** (सेनानी), and the **gramani** (ग्रामिणी).
+- The **bhagadugha** (भागदुघ) collects revenue, the king’s **bhaga** (भाग). The **sangrahitri** (संग्रहीतृ) is the treasurer. The **akshavapa** (अक्षावाप) is dice and gambling. That is the dice-officer trap.
+- The **Sabha** (सभा) is the smaller assembly of elders. The **Samiti** (समिति) is the larger tribal body. The **Vidatha** (विदथ) is the kin-ritual gathering.
 - There is no Samaharta and no Uparika in the Vedic list. Those names start with Maurya and Gupta.
 
 **PYQ — UPPCS Prelims 2023, Q26**
@@ -359,11 +359,11 @@ D. Revenue Collector
 
 **Mauryan**
 
-- Mauryan administration is centralised. Officers are salaried **amatyas**.
-- The **samaharta** is collector-general. The **sannidhata** is treasurer. The **rajuka** does land assessment and justice.
+- Mauryan administration is centralised. Officers are salaried **amatyas** (अमात्य).
+- The **samaharta** (समाहर्ता) is collector-general. The **sannidhata** (सन्निधाता) is treasurer. The **rajuka** (रज्जुक) does land assessment and justice.
 - The **agronomai** are Megasthenes’ rural officers, revenue officers. Roads are the trap.
-- The **dhamma-mahamatra** appears in Rock Edict V, in the **14th** year. Statement 1, that Rahulovada is Ashoka’s dhamma definition, is **false**.
-- Kautilya’s **saptanga** has seven limbs: swami, amatya, janapada, durga, kosha, bala, and mitra. Adhyakshas are department heads under that machine.
+- The **dhamma-mahamatra** (धम्म महामात्र) appears in Rock Edict V, in the **14th** year. Statement 1, that Rahulovada is Ashoka’s dhamma definition, is **false**.
+- Kautilya’s **saptanga** (सप्तांग) has seven limbs: swami (स्वामी), amatya (अमात्य), janapada (जनपद), durga (दुर्ग), kosha (कोष), bala (बल), and mitra (मित्र). Adhyakshas (अध्यक्ष) are department heads under that machine.
 
 **PYQ — UPPCS Prelims 2020, Q4**
 
@@ -399,21 +399,21 @@ A. Both 1 and 2 B. Neither 1 nor 2 C. Only 1 D. Only 2
 
 **Gupta**
 
-- Gupta administration is looser. A **samanta** sends tribute and troops.
-- The province is **bhukti**, under an **uparika**. The district is **vishaya**, under a **kumaramatya** or ayuktaka. The **sandhivigrahika** handles peace and war.
+- Gupta administration is looser. A **samanta** (सामंत) sends tribute and troops.
+- The province is **bhukti** (भुक्ति), under an **uparika** (उपरिक). The district is **vishaya** (विषय), under a **kumaramatya** (कुमारमात्य) or ayuktaka. The **sandhivigrahika** (संधिविग्रहिक) handles peace and war.
 - They did **not** invent a tighter spy-state than the Mauryas.
 
 **Harsha**
 
-- Harsha reuses Gupta titles. The **mahasandhivigrahika** is the foreign minister. The **mahapratihara** is the chamberlain. The **bhandagaradhikarana** is the treasury. He still uses the **uparika**.
+- Harsha reuses Gupta titles. The **mahasandhivigrahika** (महासांधिविग्रहिक) is the foreign minister. The **mahapratihara** (महाप्रतिहार) is the chamberlain. The **bhandagaradhikarana** (भाण्डागाराधिकरण) is the treasury. He still uses the **uparika** (उपरिक).
 - The state is personal. It dies in 647.
 
 | Period | Revenue fact | Province / district | War-peace |
 |--------|----------------|---------------------|-----------|
-| Vedic | **Bhagadugha** | — | — |
-| Mauryan | **Samaharta** / Agronomai | Rajuka at district | King + mahamatras |
-| Gupta | grants + bhaga | **Uparika** / **Kumaramatya** | **Sandhivigrahika** |
-| Harsha | grants | **Uparika** | **Mahasandhivigrahika** |
+| Vedic | **Bhagadugha** (भागदुघ) | — | — |
+| Mauryan | **Samaharta** (समाहर्ता) / Agronomai | Rajuka (रज्जुक) at district | King + mahamatras |
+| Gupta | grants + bhaga | **Uparika** (उपरिक) / **Kumaramatya** (कुमारमात्य) | **Sandhivigrahika** (संधिविग्रहिक) |
+| Harsha | grants | **Uparika** (उपरिक) | **Mahasandhivigrahika** (महासांधिविग्रहिक) |
 
 > **Logic:** Maurya is **centralised**. Gupta and Harsha run a **samanta** (feudatory) system.
 
@@ -423,11 +423,11 @@ A. Both 1 and 2 B. Neither 1 nor 2 C. Only 1 D. Only 2
 
 **Provinces collect; treasury stores | do not reverse Samaharta and Sannidhata**
 
-- The empire is divided into **pradeshas** (provinces). Border provinces are often placed under royal princes called **kumara**.
-- The king’s share of produce is **bhaga**. Pasture dues appear as **pindakara**. Customs and tolls appear as **sulka**.
-- The **Samaharta** is the chief collector of revenue. The **Sannidhata** stores the treasury. Do not reverse collector and treasurer.
+- The empire is divided into **pradeshas** (प्रदेश / chakra). Border provinces are often placed under royal princes called **kumara** (कुमार / aryaputra).
+- The king’s share of produce is **bhaga** (भाग). Pasture dues appear as **pindakara**. Customs and tolls appear as **sulka** (शुल्क).
+- The **Samaharta** (समाहर्ता) is the chief collector of revenue. The **Sannidhata** (सन्निधाता) stores the treasury. Do not reverse collector and treasurer.
 - Megasthenes’ **agronomai** are rural revenue officers of the Mauryan countryside.
-- The weights and measures officer is the ***pautavadhyaksha***.
+- The weights and measures officer is the ***pautavadhyaksha*** (पौतवाध्यक्ष).
 - District land and justice work sits with the **rajuka**. Village circles run through *sthanika* and *gopa* under the wider stack: empire → province → ahara/vishaya → village.
 
 ---
@@ -681,10 +681,10 @@ D. 1 and 3
 
 | List-I (Title) | List-II (Ruler) |
 |---|---|
-| 1. Dakshinapathapati | A. Rudradaman I |
-| 2. Mahameghavahana | B. Gautamiputra Satakarni |
-| 3. Mahakshatrapa | C. Kharavela |
-| 4. Ekarat / Sarvakshatrantaka | D. Mahapadma Nanda |
+| 1. Dakshinapathapati (दक्षिणापथपति) | A. Rudradaman I |
+| 2. Mahameghavahana (महामेघवाहन) | B. Gautamiputra Satakarni |
+| 3. Mahakshatrapa (महाक्षत्रप) | C. Kharavela |
+| 4. Ekarat / Sarvakshatrantaka (एकराट् / सर्वक्षत्रान्तक) | D. Mahapadma Nanda |
 
 *Row order is not the answer code.*
 

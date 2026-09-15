@@ -19,38 +19,38 @@ Vedic Period | Rigvedic Society | Later Vedic Society | Vedic Administration | R
 
 1. The **Early / Rigvedic** age is about **1500–1000 BCE** in the **Sapta Sindhu** (Punjab) belt. Its economy type is **pastoral**.
 2. The **Later Vedic** age is about **1000–600 BCE** in the **Ganga–Yamuna doab**, including much of western–central Uttar Pradesh. Its economy type is **agrarian**, with iron and **PGW**.
-3. The Early Vedic **rajan** was a tribal chief, not an absolute king. Later Vedic kingship became more **hereditary** and stronger over land and ritual.
-4. **Sabha** was an assembly of elders or nobles. **Samiti** was the wider tribal assembly that could **choose the rajan**.
-5. **Vidatha** (Vidhata) is the **oldest** gathering, with economic and ritual roles and women’s presence. It **fades first** in Later Vedic times.
-6. **Bhagadugha** collected the king’s share (**bhaga**). **Sangrahitri** was the **treasurer**. **Akshavapa** handled **dice / gambling**. Do not swap revenue with dice.
+3. The Early Vedic **rajan** (राजन) was a tribal chief, not an absolute king. Later Vedic kingship became more **hereditary** and stronger over land and ritual.
+4. **Sabha** (सभा) was an assembly of elders or nobles. **Samiti** (समिति) was the wider tribal assembly that could **choose the rajan** (राजन).
+5. **Vidatha** (विदथ / विधाता) is the **oldest** gathering, with economic and ritual roles and women’s presence. It **fades first** in Later Vedic times.
+6. **Bhagadugha** (भागदुघ) collected the king’s share (**bhaga** (भाग)). **Sangrahitri** (संग्रहीतृ) was the **treasurer**. **Akshavapa** (अक्षावाप) handled **dice / gambling**. Do not swap revenue with dice.
 7. The **Rigveda** has **1028** hymns in **10 mandalas**. Mandala **2–7** are the oldest family books. Mandala **9** is Soma. Mandalas **1** and **10** are latest.
-8. Hymn-count facts are roughly **Indra ~250**, **Agni ~200**, **Soma ~120**, and **Ashvins 50+**. **Varuna** has fewer hymns but guards **rita**.
+8. Hymn-count facts are roughly **Indra ~250**, **Agni ~200**, **Soma ~120**, and **Ashvins 50+**. **Varuna** has fewer hymns but guards **rita** (ऋत - cosmic moral order).
 9. Early popular gods are **Indra, Agni, Soma, Varuna, Ushas, and Savitr**. **Vishnu** and **Rudra** are minor in the Rigveda and rise in Later Vedic religion.
 10. Later Vedic ritual elevates **Prajapati**, and **Vishnu** and **Rudra** grow in importance beside older storm and fire gods.
 11. **Shukla (White) Yajurveda** is the **Vajasaneyi** school, with mantra and prose kept separate. **Krishna** here means **Black Yajurveda**, not the god Krishna.
 12. Black Yajurveda schools include **Taittiriya**, **Kathaka**, and **Maitrayani**, where mantra and Brahmana prose are mixed.
-13. Vedic literature order is **Samhita → Brahmana → Aranyaka → Upanishad**. Samhitas are hymns; Brahmanas explain ritual in prose.
-14. **Aranyakas** are forest texts of symbolic ritual. **Upanishads** teach **Brahman–Atman** philosophy (Vedanta).
-15. The six **Vedangas** are **Shiksha, Kalpa, Vyakarana, Nirukta, Chhanda, and Jyotisha**. They are tools of the Veda, not the Upanishads themselves.
-16. **Varna** is the four-fold order (Purusha Sukta; more rigid later). **Jati** is later birth-group identity. Do not treat them as identical.
-17. **Gavishti** means cattle-raid or war for cows. **Bali** is tribute to the king. **Nishka** is a gold ornament or value-unit, **not** coined money.
-18. **Shruti** is “heard” Vedic revelation. **Smriti** is remembered later dharma literature.
+13. Vedic literature order is **Samhita (संहिता) → Brahmana (ब्राह्मण) → Aranyaka (आरण्यक) → Upanishad (उपनिषद्)**. Samhitas are hymns; Brahmanas explain ritual in prose.
+14. **Aranyakas** (आरण्यक) are forest texts of symbolic ritual. **Upanishads** (उपनिषद्) teach **Brahman–Atman** philosophy (Vedanta).
+15. The six **Vedangas** (वेदांग) are **Shiksha (शिक्षा - phonetics), Kalpa (कल्प - rituals), Vyakarana (व्याकरण - grammar), Nirukta (निरुक्त - etymology), Chhanda (छन्द - metrics), and Jyotisha (ज्योतिष - astronomy)**. They are tools of the Veda, not the Upanishads themselves.
+16. **Varna** (वर्ण) is the four-fold order (Purusha Sukta; more rigid later). **Jati** (जाति) is later birth-group identity. Do not treat them as identical.
+17. **Gavishti** (गविष्टि) means cattle-raid or war for cows. **Bali** (बलि) is tribute to the king. **Nishka** (निष्क) is a gold ornament or value-unit, **not** coined money.
+18. **Shruti** (श्रुति) is “heard” Vedic revelation. **Smriti** (स्मृति) is remembered later dharma literature.
 19. **PGW** (Painted Grey Ware), about **1100–600 BCE**, is the Later Vedic **doab** marker: grey pottery with black geometric paint.
-20. Later Vedic iron appears in texts as **shyama ayas / krishna ayas**. Early Rigvedic **ayas** usually means copper or bronze, not iron.
+20. Later Vedic iron appears in texts as **shyama ayas / krishna ayas** (श्याम अयस / कृष्ण अयस). Early Rigvedic **ayas** (अयस) usually means copper or bronze, not iron.
 21. Doab pottery sequence continues **PGW → NBPW** (~700–200 BCE) into the mahajanapada / second-urbanisation age.
 22. Uttar Pradesh Later Vedic geography centres on **Kuru–Panchala**, **Kosala**, and **Kashi**. Key sites include **Hastinapur**, **Atranjikhera**, and **Ahichchhatra**.
 23. Rigvedic culture is **not** a UP heartland story. Its core is Punjab / Sapta Sindhu.
 24. **OCP** is pre-PGW ochre-wash doab rural pottery. **PGW** is iron-age painted grey ware of Later Vedic settlements.
-25. Later Vedic society shows stronger **raja**, rising **Brahmana** ritual power, more settled agriculture, and clearer varna ranking than the Early Vedic pastoral tribes.
+25. Later Vedic society shows stronger **raja** (राजा), rising **Brahmana** ritual power, more settled agriculture, and clearer varna ranking than the Early Vedic pastoral tribes.
 26. Political institutions to fact are **Sabha, Samiti, and Vidatha**. Vidatha fades; Sabha becomes more exclusive; Samiti remains the broader tribal body in Early Vedic memory.
 27. The **Atharvaveda** adds charms and domestic rites beside the three liturgical Vedas (Rig, Yajur, Sama).
 28. **Brahmana** texts are ritual prose, not the same as the **Brahmana** varna. Context decides which meaning is asked.
 29. **Videha** (north Bihar, Janaka tradition) is east of the UP doab but linked in Later Vedic texts such as the Shatapatha Brahmana.
 30. Match economy types carefully: Indus = **Urban**, Rigvedic = **Pastoral**, Later Vedic = **Agrarian**, Medieval landlordism is a later match-list item.
 31. **Arya** in classical Sanskrit means a **noble** person. Homeland theories include Tilak’s **Arctic** (*The Arctic Home in the Vedas*), Max Müller’s **Central Asia**, and others — none is a closed scientific proof.
-32. **Sindhu** is named most often in the Rigveda; **Saraswati** is the most sacred (*Naditama / Devitama / Matetama*). Afghanistan rivers in the hymns include **Kubha, Krumu, Gomati, Suvastu**.
+32. **Sindhu** is named most often in the Rigveda; **Saraswati** is the most sacred (*Naditama / Devitama / Matetama* / नदीतमा, देवितमा, मातेतमा). Afghanistan rivers in the hymns include **Kubha, Krumu, Gomati, Suvastu**.
 33. **Gayatri** (RV III.62.10, Vishvamitra → Savitr); **Satyameva Jayate** (*Mundaka*); **Tamaso mā jyotir gamaya** (*Brihadaranyaka*); Nachiketa–Yama (*Katha*).
-34. **Boghaz-köi** (Hittite / Asia Minor) names **Indra, Varuna, Mitra, Nasatya**. Cow is **aghanya**. **Dasharajna** was fought on the **Parushni**.
+34. **Boghaz-köi** (Hittite / Asia Minor) names **Indra, Varuna, Mitra, Nasatya**. Cow is **aghanya** (अघन्या - not to be killed). **Dasharajna** (दशराज्ञ युद्ध) was fought on the **Parushni** (परुष्णी / रावी).
 
 ---
 
@@ -97,12 +97,12 @@ Vedic Period | Rigvedic Society | Later Vedic Society | Vedic Administration | R
 
 | Term | Lock |
 |------|------|
-| Sabha | Elders / nobles |
-| Samiti | Wider assembly; could **choose the rajan** |
-| Vidatha | Oldest gathering; fades first |
-| Bhagadugha | King’s share (**bhaga**) collector |
-| Sangrahitri | Treasurer |
-| Akshavapa | Dice / gambling (not revenue) |
+| Sabha (सभा) | Elders / nobles |
+| Samiti (समिति) | Wider assembly; could **choose the rajan** (राजन) |
+| Vidatha (विदथ) | Oldest gathering; fades first |
+| Bhagadugha (भागदुघ) | King’s share (**bhaga** / भाग) collector |
+| Sangrahitri (संग्रहीतृ) | Treasurer |
+| Akshavapa (अक्षावाप) | Dice / gambling (not revenue) |
 
 ### Veda / text tags
 

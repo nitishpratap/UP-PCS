@@ -28,13 +28,13 @@ Babur | Establishment of the Mughal Empire | Literary Contribution of Babur | Ma
 9. Battle chronology fact: **Daurah 1532 → Chausa 1539 → Kannauj 1540 → Samugarh 1658**.
 10. At the **Second Battle of Panipat on 5 November 1556**, Akbar and **Bairam Khan** defeated **Hemu** and secured the throne.
 11. **Bairam Khan** received the title **Khan-i-Khana** from **Akbar** — only that statement is true; the claim that the title came when he was appointed Vazir is false.
-12. Akbar's **mansabdari** used dual ranks **zat** and **sawar**; the system was **not hereditary**.
-13. **Todar Mal**'s **zabt** measured land for a cash demand; **dahsala (1580–81)** used a **10-year average** of yield and price.
-14. Akbar continued Sher Shah's coinage: silver **rupiya**, copper **dam** (about **1/40** of a rupiya), and gold **mohur**.
+12. Akbar's **mansabdari** (मनसबदारी व्यवस्था) used dual ranks **zat** (जात - personal rank/pay) and **sawar** (सवार - cavalry quota); the system was **not hereditary** (गैर-वंशानुगत).
+13. **Todar Mal**'s **zabt** (ज़ब्ती - measurement-based assessment) measured land for a cash demand; **dahsala (1580–81)** (दहसाला बंदोबस्त) used a **10-year average** of yield and price.
+14. Akbar continued Sher Shah's coinage: silver **rupiya** (रुपिया), copper **dam** (दाम - about **1/40** of a rupiya), and gold **mohur** (मोहर).
 15. **Buland Darwaza** at Fatehpur Sikri commemorates the **Gujarat victory of 1572**, not Jahangir's birth.
 16. Akbar made **Fatehpur Sikri** capital about **1571–85** and built **Allahabad/Ilahabad fort in 1583**.
-17. **Sulh-i-Kul** was Akbar's universal peace policy; **Din-i-Ilahi (1582)** remained only a small court circle.
-18. Akbar abolished **jizya in 1564**; Aurangzeb **reimposed** it in **1679**.
+17. **Sulh-i-Kul** (सुलह-ए-कुल - universal peace / concord) was Akbar's universal peace policy; **Din-i-Ilahi (1582)** (दीन-ए-इलाही) remained only a small court circle.
+18. Akbar abolished **jizya in 1564** (जज़िया कर); Aurangzeb **reimposed** it in **1679**.
 19. Court death order: **Sheikh Mubarak 1593 → Faizi 1595 → Abul Fazl murdered 1602 → Daniyal 1605**.
 20. **Abul Fazl** wrote *Akbarnama* and *Ain-i-Akbari*; **Abdur Rahim Khan-i-Khana** translated Baburnama into Persian.
 21. **William Hawkins** reached Jahangir in **1608** speaking Turkish; **Sir Thomas Roe** stayed at court **1615–19**.
@@ -306,20 +306,20 @@ D. A false, R true
 
 </details>
 
-- At the centre, key offices were **Wakil/Vazir**, **Diwan-i-Wizarat** (finance), **Mir Bakhshi / Diwan-i-Arz** (army and mansabs), **Sadr / Risalat** (grants and religion), **Mir Saman** (household), and **Insha** (drafting).
-- Provinces ran **Suba**, then **Sarkar**, then **Pargana**, then the village. Each suba had dual heads: **Subahdar** (executive) and **Diwan** (revenue). The **Faujdar** handled military-police duties at the sarkar level.
+- At the centre, key offices were **Wakil/Vazir** (वक़ील / वज़ीर), **Diwan-i-Wizarat** (दीवान-ए-विज़ारत - finance), **Mir Bakhshi** (मीर बख़्शी - army and mansabs), **Sadr-us-Sudur / Risalat** (सद्र-उस-सुदूर - religious endowments and grants), **Mir Saman** (मीर-ए-सामां - imperial household), and **Diwan-i-Insha** (दीवान-ए-इंशा - drafting royal orders).
+- Provinces ran **Suba** (सूबा under Subahdar / सूबेदार), then **Sarkar** (सरकार under Faujdar / फ़ौजदार), then **Pargana** (परगना under Shiqdar / शिक़दार and Amil / आमिल), then the village (under Muqaddam / मुक़द्दम and Patwari / पटवारी). Each suba had dual heads: **Subahdar** (executive) and **Diwan** (revenue). The **Faujdar** handled military-police duties at the sarkar level.
 - Akbar organised **12 subahs**. Under Aurangzeb the empire reached about **21 subahs**.
 - The nobility was **composite**: Turani, Irani, Indian Muslim, and **Rajput** elites served together.
-- **Mansabdari** (Akbar) was the official nobility system. Each mansabdar held dual rank: **zat** (personal status and pay) and **sawar** (cavalry obligation).
-- Salary came from a **jagir** or cash. **Khalsa** was crown land directly under the emperor. Jagirs were **rotated**, not permanently fixed.
+- **Mansabdari** (Akbar) was the official nobility system. Each mansabdar held dual rank: **zat** (जात - personal status and pay) and **sawar** (सवार - cavalry obligation).
+- Salary came from a **jagir** (जागीर) or cash (**naqd**). **Khalsa** (ख़ालिसा) was crown land directly under the emperor. Jagirs were **rotated**, not permanently fixed.
 - **Mansabdari** began under **Akbar**. Mansabs were **not hereditary** — jagirs were rotated and ranks depended on imperial favour.
-- **Dagh** meant horse branding. **Chehra** was the descriptive roll of troopers.
-- Jahangir introduced **du-aspah sih-aspah**, an extra horse obligation tied to the sawar rank.
+- **Dagh** (दाग़) meant horse branding. **Chehra** (चेहरा / हुलिया) was the descriptive roll of troopers.
+- Jahangir introduced **du-aspah sih-aspah** (दो-अस्पा सिह-अस्पा), an extra horse obligation tied to the sawar rank.
 - The highest common noble ceiling was about **7000 zat** (the Man Singh class). Princes held higher ranks.
 - A **sarkar** functioned as a **district**-level unit under the suba.
-- **Ahadis** were the emperor's own disciplined troopers outside mansab rolls.
-- The **muhtasib** was the censor of public morals and market weights.
-- **Madad-i-Mash** were revenue grants to religious scholars.
+- **Ahadis** (अहदी) were the emperor's own disciplined direct troopers outside mansab rolls.
+- The **muhtasib** (मुहतसिब) was the censor of public morals and market weights.
+- **Madad-i-Mash / Sayurghal** (मदद-ए-माश / सयूरग़ल) were revenue grants to religious scholars and saints.
 - **Jahangir** banned **tobacco**; **Akbar** issued **Ram-Siya** coins pairing Ram and Siya names.
 
 ---
@@ -328,12 +328,12 @@ D. A false, R true
 
 **Todar Mal** (Akbar’s revenue minister, trained under the Sur system)
 
-- **Zabt** measured land with the **jarib** rope and fixed a cash demand from crop rates (**rai**) per **bigha**.
-- **Dahsala (1580–81)** used a **10-year average** of yield and price. It worked best in the **Doab** heartland.
-- Land was classified as **polaj** (continuously cultivated), **parauti/parati** (fallow), **chachar**, or **banjar**.
-- **Patta** and **qabuliat** continued the Sur practice of written peasant records and acceptance.
-- **Mal** meant land revenue. The **zamindar** was a hereditary local intermediary, unlike the non-hereditary mansab.
-- **Nasaq**, **kankut**, and **batai** survived where zabt was weak, especially in outer subahs.
+- **Zabt** (ज़ब्ती) measured land with the **jarib** (जरीब) rope and fixed a cash demand from crop rates (**rai** / राय) per **bigha**.
+- **Dahsala (1580–81)** (दहसाला बंदोबस्त) used a **10-year average** of yield and price. It worked best in the **Doab** heartland.
+- Land was classified as **polaj** (पोलज - continuously cultivated), **parauti/parati** (परौती - fallow 1–2 years), **chachar** (चाचर - fallow 3–4 years), or **banjar** (बंजर - uncultivated 5+ years).
+- **Patta** (पट्टा) and **qabuliat** (क़बूलियत) continued the Sur practice of written peasant records and acceptance.
+- **Mal** (माल) meant land revenue. The **zamindar** (ज़मींदार) was a hereditary local intermediary, unlike the non-hereditary mansab.
+- **Nasaq** (नसक़), **kankut** (कनकूत - estimation), and **batai** (बटाई - crop sharing) survived where zabt was weak, especially in outer subahs.
 
 ---
 

@@ -17,29 +17,29 @@ Buddhism | Buddha | Buddhist Philosophy | Buddhist Councils | Buddhist Texts | T
 
 ## Consolidated — 36 Must-Score Facts
 
-1. **Shramana** renouncer traditions (often **nastika**) include Buddhism, Jainism, Ajivika, and Charvaka. **Astika** schools accept the authority of the Veda.
-2. Buddha’s life geography runs **Lumbini** (birth) → **Bodh Gaya** (enlightenment) → **Sarnath** first sermon (UP) → **Kushinagar** Mahaparinirvana (UP).
+1. **Shramana** (श्रमण) renouncer traditions (often **nastika** / नास्तिक - non-Vedic) include Buddhism, Jainism, Ajivika, and Charvaka. **Astika** (आस्तिक) schools accept the authority of the Veda.
+2. Buddha’s life geography runs **Lumbini** (birth) → **Bodh Gaya** (enlightenment / सम्बोधि) → **Sarnath** first sermon (**Dharmachakrapravartana** / धर्मचक्रप्रवर्तन - UP) → **Kushinagar** Mahaparinirvana (**Mahaparinirvana** / महापरिनिर्वाण - UP).
 3. Key persons: wife **Yashodhara**, son **Rahula**, attendant **Ananda**, Vinaya specialist **Upali**, schismatic **Devadatta**, and first nun **Mahapajapati**.
-4. Buddhist Councils in order are **Rajagriha → Vaishali → Pataliputra → Kundalvana**. Remember place order, not a bare code.
-5. The **Tripitaka** has three baskets: **Vinaya** (monk rules), **Sutta** (discourses), and **Abhidhamma** (philosophy).
-6. The Second Council split produced **Sthaviravada** (elders) and **Mahasanghika** (great assembly). **Theravada** (Vibhajjavada) is the surviving Hinayana line linked with the Third Council.
-7. **Sarvastivada** teaches *sarvam asti*, uses **Sanskrit**, and is tied to the Fourth Council at **Kundalvana**. **Vaibhashika** trusts Abhidharma; **Sautrantika** trusts sutra only.
-8. **Hinayana** aims at the **arhat** and uses Pali. **Mahayana** elevates the **bodhisattva** ideal and uses Sanskrit. **Vajrayana** adds tantra and mantra (Padmasambhava toward Tibet).
-9. Mahayana philosophy facts: **Madhyamaka** of **Nagarjuna** and **Yogacara** of **Asanga–Vasubandhu**. Do not confuse Nagarjuna with **Nagasena**.
-10. Major bodhisattvas: **Avalokiteshvara / Padmapani** (compassion), **Manjushri** (wisdom), **Vajrapani** (power), **Maitreya** (future Buddha), and **Tara**.
+4. Buddhist Councils in order are **Rajagriha → Vaishali → Pataliputra → Kundalvana** (राजगृह → वैशाली → पाटलिपुत्र → कुण्डलवन). Remember place order, not a bare code.
+5. The **Tripitaka** (त्रिपिटक) has three baskets: **Vinaya** (विनयपिटक - monk rules), **Sutta** (सुत्तपिटक - discourses), and **Abhidhamma** (अभिधम्मपिटक - philosophy).
+6. The Second Council split produced **Sthaviravada** (स्थविरवाद - elders) and **Mahasanghika** (महासंधिक - great assembly). **Theravada** (थेरवाद / विभज्जवाद) is the surviving Hinayana line linked with the Third Council.
+7. **Sarvastivada** (सर्वास्तिवाद) teaches *sarvam asti*, uses **Sanskrit**, and is tied to the Fourth Council at **Kundalvana**. **Vaibhashika** (वैभाषिक) trusts Abhidharma; **Sautrantika** (सौत्रांतिक) trusts sutra only.
+8. **Hinayana** (हीनयान) aims at the **arhat** (अर्हत्) and uses Pali. **Mahayana** (महायान) elevates the **bodhisattva** (बोधिसत्व) ideal and uses Sanskrit. **Vajrayana** (वज्रयान) adds tantra and mantra (Padmasambhava toward Tibet).
+9. Mahayana philosophy facts: **Madhyamaka** (माध्यमिक / शून्यवाद) of **Nagarjuna** (नागार्जुन) and **Yogacara** (योगाचार / विज्ञानवाद) of **Asanga–Vasubandhu** (असंग एवं वसुबन्धु). Do not confuse Nagarjuna with **Nagasena**.
+10. Major bodhisattvas: **Avalokiteshvara / Padmapani** (अवलोकितेश्वर / पद्मपाणि - compassion), **Manjushri** (मंजुश्री - wisdom), **Vajrapani** (वज्रपाणि - power), **Maitreya** (मैत्रेय - future Buddha), and **Tara** (तारा).
 11. The *Milinda Panha* is a dialogue between Indo-Greek king **Menander (Milinda)** and monk **Nagasena**.
-12. Ashoka convened the **Third Council** at **Pataliputra**. **Dhamma-mahamatras** appear in his **14th year**. His Dhamma is **not** simply “taken from the Rahulovada.”
+12. Ashoka convened the **Third Council** at **Pataliputra**. **Dhamma-mahamatras** (धम्म महामात्र) appear in his **14th year**. His Dhamma is **not** simply “taken from the Rahulovada.”
 13. **Barabar** caves were gifted to **Ajivikas**, not to Buddhists. **Ajanta** is later Buddhist painted cave architecture.
-14. **Chaitya** is a prayer hall. **Vihara** is a monastery. Keep the architectural pair straight.
-15. Jainism has **24 tirthankaras**. **Mahavira** is the 24th with the **lion** symbol and nirvana at **Pavapuri**. **Parshvanatha** is the 23rd with the **serpent** and a Varanasi birth tradition.
-16. Mahavira’s usual timeline is birth about **599 BCE**, renunciation at **30**, kevala at **42**, and nirvana at Pavapuri about **527 BCE** (alternate school dates exist).
-17. Nirvana geography: about **20** tirthankaras at **Sammed Shikhar** (Jharkhand). Four separate sites are **Ashtapad**, **Champapuri**, **Girnar**, and **Pavapuri**. **Vasupujya** is **not** Sammed Shikhar (correct = Champapuri).
-18. **Rishabhanatha** has an **Ayodhya** birth tradition. **Bahubali / Gomateshwara** is famous but is **not** one of the 24 tirthankaras.
-19. Digambara monks are sky-clad and deny women’s moksha as women. Svetambara monks wear white and allow women’s liberation. **Tattvartha Sutra** is accepted by both.
+14. **Chaitya** (चैत्य) is a prayer hall. **Vihara** (विहार) is a monastery. Keep the architectural pair straight.
+15. Jainism has **24 tirthankaras** (तीर्थंकर). **Mahavira** is the 24th with the **lion** (सिंह) symbol and nirvana at **Pavapuri** (पावापुरी). **Parshvanatha** (पार्श्वनाथ) is the 23rd with the **serpent** (सर्प) and a Varanasi birth tradition.
+16. Mahavira’s usual timeline is birth about **599 BCE**, renunciation at **30** (गृहत्याग), kevala at **42** (कैवल्य / केवल ज्ञान - supreme omniscience), and nirvana at Pavapuri about **527 BCE** (निर्वाण).
+17. Nirvana geography: about **20** tirthankaras at **Sammed Shikhar** (सम्मेद शिखर - Jharkhand). Four separate sites are **Ashtapad**, **Champapuri**, **Girnar**, and **Pavapuri**. **Vasupujya** is **not** Sammed Shikhar (correct = Champapuri).
+18. **Rishabhanatha** (ऋषभदेव / आदिनाथ) has an **Ayodhya** birth tradition. **Bahubali / Gomateshwara** (बाहुबली / गोमटेश्वर) is famous but is **not** one of the 24 tirthankaras.
+19. **Digambara** (दिगम्बर) monks are sky-clad and deny women’s moksha as women. **Svetambara** (श्वेताम्बर) monks wear white and allow women’s liberation. **Tattvartha Sutra** is accepted by both.
 20. Jain council memory: early Magadhan compilation under **Sthulabhadra** at **Pataliputra**, later work at Mathura / Vallabhi lines, and final Svetambara writing under **Devardhigani** at **Vallabhi**. **Vallabhi** is not Buddhist Vaishali or Kundalvana.
-21. Mahavira taught **five** great vows; Parshvanatha’s older set is remembered as **four**. **Anekantavada** is many-sided reality; **Syadvada** is seven-fold predication.
-22. Buddhism teaches **anatta** (no permanent soul). Jainism teaches a real **jiva**. That soul contrast is a standard confused pair.
-23. **Ajivika** doctrine centres on **Gosala** and fatalist **niyati**. **Charvaka / Lokayata** is materialist and accepts **perception** only (Brihaspati tradition).
+21. Mahavira taught **five** great vows (**Pancha Mahavrata** / पंच महाव्रत: अहिंसा, सत्य, अस्तेय, अपरिग्रह, ब्रह्मचर्य); Parshvanatha’s older set is remembered as **four** (**Chaturyama** / चातुर्याम). **Anekantavada** (अनेकांतवाद) is many-sided reality; **Syadvada** (स्याद्वाद) is seven-fold predication.
+22. Buddhism teaches **anatta** (अनात्मवाद - no permanent soul). Jainism teaches a real **jiva** (जीव / आत्मा). That soul contrast is a standard confused pair.
+23. **Ajivika** (आजीवक) doctrine centres on **Makkhali Gosala** (मक्खलि गोशाल) and fatalist **niyati** (नियतिवाद). **Charvaka / Lokayata** (चार्वाक / लोकायत) is materialist and accepts **perception** only (**Pratyaksha** / प्रत्यक्ष प्रमाण).
 24. **Bhagavatism** is the early **Vasudeva-Krishna** cult centred on **Mathura**. The **Heliodorus** pillar at Besnagar shows a Greek ambassador as a Bhagavata.
 25. Uttar Pradesh Buddhist circuit facts: **Sarnath** (first sermon), **Kushinagar** (death), **Shravasti / Jetavana**, **Sankisa** (descent tradition), and **Kaushambi**.
 26. Uttar Pradesh Jain–Hindu facts: Parshvanatha–**Varanasi**, Rishabha–**Ayodhya**, Jain images at Mathura **Kankali Tila**, Krishna–**Mathura–Vrindavan**, and Kashi Vishwanath.

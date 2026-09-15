@@ -27,12 +27,12 @@ Political Condition of Sixth Century BCE | Sixteen Mahajanapadas | Mahajanapadas
 8. Not UP: **Magadha / Anga / Vajji** are Bihar-centred, **Avanti** is Madhya Pradesh, and **Matsya** is Rajasthan.
 9. UP capital facts: Kashi–**Varanasi**, Kosala–**Ayodhya / Shravasti** (crescent plan at Saheth–Maheth), Vatsa–**Kaushambi**, Kuru–**Hastinapur / Indraprastha**, Panchala–**Ahichchhatra / Kampilya**, Malla–**Kushinagar**, Surasena–**Mathura**, Chedi–Bundelkhand edge.
 10. **Rajagriha / Girivraja** was early Magadha’s hill capital. **Ajatashatru** fortifies / founds the **Pataligrama** seed; **Udayin** first makes **Pataliputra** the capital (Ganga north, Son west).
-11. Haryanka order: **Bimbisara** (alliances and **Anga**) → **Ajatashatru** (war on **Vajji**, *rathamusala*) → **Udayin** (Pataliputra as capital).
+11. Haryanka order: **Bimbisara** (alliances and **Anga**) → **Ajatashatru** (war on **Vajji**, *rathamusala* (रथमुसल)) → **Udayin** (Pataliputra as capital).
 12. **Shishunaga** rule took **Avanti**. **Kalashoka** is linked with the **Second Buddhist Council**. The last Shishunaga is often named **Nandivardhana**.
-13. **Mahapadma Nanda** is remembered as *ekarat / sarvakshatrantaka / ugrasena / aparoparashurama*. **Dhana Nanda** was the last Nanda, called **Agrammes** by the Greeks; commander **Bhaddasala**.
+13. **Mahapadma Nanda** is remembered as *ekarat* (एकराट्) / *sarvakshatrantaka* (सर्वक्षत्रान्तक) / *ugrasena* (उग्रसेन) / *aparoparashurama* (अपरोपरशुराम). **Dhana Nanda** was the last Nanda, called **Agrammes** by the Greeks; commander **Bhaddasala**.
 14. Greek writers give the Nanda army huge figures (about 2 lakh foot, 20k horse, 2k chariots, 3k elephants). **Alexander never fought** the Nandas.
-15. A **janapada** is clan territory. A **mahajanapada** is one of the sixteen large states of this age.
-16. **Monarchy** means hereditary kingship. **Gana-sangha** means oligarchic clan-council rule, as in Vajji. **Yaudheya** is a later gana — not in the Buddha-period “early republic” list that papers use.
+15. A **janapada** (जनपद) is clan territory. A **mahajanapada** (महाजनपद) is one of the sixteen large states of this age.
+16. **Monarchy** means hereditary kingship. **Gana-sangha** (गण-संघ) means oligarchic clan-council rule, as in Vajji. **Yaudheya** is a later gana — not in the Buddha-period “early republic” list that papers use.
 17. **NBPW** (Northern Black Polished Ware) is the deluxe black pottery of mahajanapada / early historic cities. It is **not** Later Vedic **PGW**.
 18. Magadha rose through river trade, iron, elephants, and aggressive conquest from Anga toward Vajji and finally Avanti.
 19. **Champa** (epic **Malini**) was the river-port capital of **Anga**. **Varanasi** was the capital of **Kashi**. Do not swap them.
@@ -110,11 +110,11 @@ Not UP: Magadha / Anga / Vajji (Bihar), Avanti (MP), Matsya (RJ).
 | King | Tag |
 |------|-----|
 | Bimbisara | Alliances; took **Anga** |
-| Ajatashatru | War on **Vajji**; *rathamusala*; Pataligrama seed |
+| Ajatashatru | War on **Vajji**; *rathamusala* (रथमुसल); Pataligrama seed |
 | Udayin | First makes **Pataliputra** capital |
 | Shishunaga | Took **Avanti** |
 | Kalashoka | Linked with **2nd Buddhist Council** |
-| Mahapadma Nanda | *Ekarat / Sarvakshatrantaka* |
+| Mahapadma Nanda | *Ekarat* (एकराट्) / *Sarvakshatrantaka* (सर्वक्षत्रान्तक) |
 | Dhana Nanda | Last; Greek **Agrammes** |
 
 ### Pottery / money
@@ -123,7 +123,7 @@ Not UP: Magadha / Anga / Vajji (Bihar), Avanti (MP), Matsya (RJ).
 |------|------|
 | NBPW | Deluxe black pottery of 2nd urbanisation |
 | PGW | Later Vedic (earlier) |
-| Punch-marked silver | **Aahat / karshapana** |
+| Punch-marked silver | **Aahat (आहत) / karshapana (कार्षापण)** |
 
 ---
 
@@ -441,7 +441,7 @@ Sixteenth-century BCE politics is a chain of stronger states swallowing weaker o
 
 **Course:** **Mahapadma Nanda** overthrew the Shishunaga tail and rolled up the middle Ganga belt.
 
-**Result:** First large **Gangetic empire** before the Mauryas. Titles **ekarat**, **sarvakshatrantaka**, and **aparoparashurama** belong here.
+**Result:** First large **Gangetic empire** before the Mauryas. Titles **ekarat** (एकराट्), **sarvakshatrantaka** (सर्वक्षत्रान्तक), and **aparoparashurama** (अपरोपरशुराम) belong here.
 
 ## 5.6 Rise of Magadha
 
@@ -525,7 +525,7 @@ The Shishunagas take Magadha after the Haryanka weak tail. Their territorial pri
 
 **First Gangetic “empire” | ~345–322 BCE | *Navananda***
 
-- **Mahapadma Nanda** is also called **Ugrasena**. Puranic titles are **ekarat**, **sarvakshatrantaka** (“destroyer of kshatriyas”), and **aparoparashurama**. Hostile texts give a **shudra / barber** origin.
+- **Mahapadma Nanda** is also called **Ugrasena** (उग्रसेन). Puranic titles are **ekarat** (एकराट्), **sarvakshatrantaka** (सर्वक्षत्रान्तक - “destroyer of kshatriyas”), and **aparoparashurama** (अपरोपरशुराम). Hostile texts give a **shudra / barber** origin.
 - He rolls up leftover Kuru, Panchala, Kosala, and Vatsa boards. The Hathigumpha later remembers a Nanda carrying off a Jina image from **Kalinga** and digging a **canal** there. That inscription is **Kharavela’s**, not a Nanda edict. It is also remembered as early canal-engraving evidence.
 - Nine Nandas (*Navananda*) means Mahapadma plus eight sons. Coaching lists often name: Ugrasen / Mahapadma, Panduk, Pandugati, Bhootpal, Rastrapal, Govishanak, Dashasiddhak, Kaivart, and **Dhana Nanda**.
 - The last is **Dhana Nanda**, the Greek **Agrammes / Xandrames**. His commander is remembered as **Bhaddasala**. Late Nanda rule is remembered for heavy taxes and unrest.
@@ -1374,7 +1374,7 @@ D. Only 2
 | 1. Shishunaga | A. Second Buddhist Council link |
 | 2. Kalashoka | B. Took Avanti |
 | 3. Mahapadma Nanda | C. Last Nanda; Agrammes to Greeks |
-| 4. Dhana Nanda | D. Ekarat / sarvakshatrantaka |
+| 4. Dhana Nanda | D. Ekarat (एकराट्) / sarvakshatrantaka (सर्वक्षत्रान्तक) |
 
 *Row order is not the answer code.*
 

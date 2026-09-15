@@ -28,20 +28,20 @@ Indian Temple Architecture | Nagara Style | Dravida Style | Vesara Style | Templ
 
 ## Consolidated — 40 Must-Score Facts
 
-1. **Nagara** temples have a curvilinear **shikhara** and generally **no** monumental gopuram. **Dravida** temples have a pyramidal **vimana** plus tall **gopuram. Vesara** is the Deccan hybrid of Chalukya / Hoysala land.
-2. Temple sequence runs **garbhagriha → antarala → mandapa**, with **pradakshina** around the sanctum. **Amalaka** and **kalasha** crown a Nagara tower.
-3. A **gopuram** is a Dravida **gateway**. A **shikhara** is the Nagara **sanctum** tower. Papers often swap these two terms. **Pandya / Nayaka** phases make gopurams the dominant outer face.
-4. Odisha Nagara order runs **Parasuramesvara → Mukteshvara → Lingaraja → Jagannath → Konark. Rekha deul** is the sanctum tower; **pidha deul** is the jagamohana hall. **Lingaraja** is the tallest standing temple in Bhubaneswar (~180 ft).
+1. **Nagara** (नागर शैली) temples have a curvilinear **shikhara** (शिखर) and generally **no** monumental gopuram. **Dravida** (द्रविड़ शैली) temples have a pyramidal **vimana** (विमान) plus tall **gopuram** (गोपुरम). **Vesara** (वेसर शैली) is the Deccan hybrid of Chalukya / Hoysala land.
+2. Temple sequence runs **garbhagriha** (गर्भगृह - sanctum sanctorum) → **antarala** (अंतराल - vestibule) → **mandapa** (मंडप - pillared hall), with **pradakshina** (प्रदक्षिणा पथ) around the sanctum. **Amalaka** (आमलक) and **kalasha** (कलश) crown a Nagara tower.
+3. A **gopuram** (गोपुरम) is a Dravida **gateway**. A **shikhara** (शिखर) is the Nagara **sanctum** tower. Papers often swap these two terms. **Pandya / Nayaka** phases make gopurams the dominant outer face.
+4. Odisha Nagara order runs **Parasuramesvara → Mukteshvara → Lingaraja → Jagannath → Konark**. **Rekha deul** (रेखा देउल) is the sanctum tower; **pidha deul** (पीढ़ा देउल) is the jagamohana (जगमोहन) hall. **Lingaraja** is the tallest standing temple in Bhubaneswar (~180 ft).
 5. **Konark** Sun Temple is a stone chariot of Surya with **24** wheels and **7** horses, built by Eastern Ganga **Narasimhadeva I** in the **13th** century. Also called **Black Pagoda**.
-6. **Khajuraho** is **Chandela**, Madhya Pradesh, sandstone Nagara (**10th–12th** c.). About **85** shrines were planned; ~25 stand. Groups are **Hindu and Jain. Kandariya Mahadeva** (Vidyadhara) is the largest. **Matangeshvara** (Shiva) belongs to **Dhanga’s** age.
+6. **Khajuraho** is **Chandela**, Madhya Pradesh, sandstone Nagara (**10th–12th** c.). About **85** shrines were planned; ~25 stand. Groups are **Hindu and Jain**. **Kandariya Mahadeva** (Vidyadhara) is the largest. **Matangeshvara** (Shiva) belongs to **Dhanga’s** age.
 7. **Markandeshwar** in Vidarbha is called the **Khajuraho of Vidarbha**. It is not Kailasa or Bhimashankar.
 8. **Modhera** Sun Temple and **Dilwara** (Mount Abu, **marble**) belong to the **Solanki** Gujarat milieu of **Bhima I. Rani ki Vav** (Patan, UNESCO **2014**) is the same Solanki world.
 9. Pallava phases run **Mahendra** rock-cut → **Mamalla** rathas → **Rajasimha** structural (Shore Temple, Kailasanatha). **Draupadi ratha** is the **smallest**.
 10. Chola Dravida peaks are **Brihadeeswara** (**1010**, Thanjavur, granite), **Gangaikonda Cholapuram**, and **Airavatesvara** (Darasuram). Early Chola **Korangnath** at Srinivasanallur belongs to **Parantaka I**.
 11. **Aihole** is the cradle of early Chalukya experiment (**Lad Khan**). **Badami** has four caves. **Pattadakal** mixes Nagara and Dravida. Hoysala Belur–Halebidu–Somnathpur use soapstone star plans (**Vesara** hybrid).
 12. Ashokan pillar facts include **Sarnath** four lions, **Rampurva** bull and lion, **Sankisa** elephant, and **Vaishali** single lion, with **Chunar** polish.
-13. Major stupas include **Sanchi** with four toranas, **Bharhut**, **Amaravati** with ayaka platforms, **Dhamek** at Sarnath, and **Mahabodhi** at Bodh Gaya.
-14. A **stupa** is a solid relic mound. A **chaitya** is a congregational hall with an apse stupa. A **vihara** is a monastic residence.
+13. Major stupas include **Sanchi** with four toranas (तोरण - gateways), **Bharhut**, **Amaravati** with ayaka platforms, **Dhamek** at Sarnath, and **Mahabodhi** at Bodh Gaya.
+14. A **stupa** (स्तूप) is a solid relic mound. A **chaitya** (चैत्य) is a congregational prayer hall with an apse stupa. A **vihara** (विहार) is a monastic residence.
 15. **Karle** is the largest surviving chaitya. Ajanta chaitya caves include **9, 10, 19, and 26. Kanheri** holds **100+** Buddhist caves on Mumbai’s western fringe.
 16. **Barabar** caves include **Lomas Rishi. Ajanta** is Buddhist. **Ellora** runs caves **1–12** Buddhist, **13–29** Hindu (**Kailasa = 16**, Krishna I, **Dravida** rock-cut), and **30–34** Jain. **Elephanta** is mainly **Shaiva** (Trimurti) under Rashtrakuta-age patronage, with a smaller Buddhist group too.
 17. Sultanate facts: Slave dynasty **Qutub**, Khilji **Alai Darwaza**, Tughlaq sloping **batter**, Sharqi **Jaunpur. Adina** mosque is at **Pandua**, not Mandu.
@@ -51,7 +51,7 @@ Indian Temple Architecture | Nagara Style | Dravida Style | Vesara Style | Templ
 21. UP architecture also facts **Bhitargaon** Gupta brick temple, **Garhwa** (Prayagraj) Gupta remains, Sharqi monuments of **Jaunpur**, and the teerth of **Naimisharanya** (Sitapur).
 22. These are **not** UP: Qutub and Humayun’s tomb (Delhi), Khajuraho (MP), Sanchi (MP), Konark (Odisha), Ajanta–Ellora–Elephanta (Maharashtra), and Mahabalipuram (TN).
 23. Indo-Islamic building uses the **true arch** and dome. Pre-Islamic temples often used **corbelled** courses instead.
-24. **Charbagh** is the Islamic four-part garden plan. **Panchayatana** is the Hindu five-shrine plan with a central sanctum and four corner shrines.
+24. **Charbagh** (चारबाग़) is the Islamic four-part garden plan. **Panchayatana** (पंचायतन शैली) is the Hindu five-shrine plan with a central sanctum and four corner shrines.
 25. Gupta **Dashavatara** temple at **Deogarh** is a classic early panchayatana fact. Freestanding structural temples begin in the **Gupta** age.
 26. **Martand** Sun Temple of Lalitaditya in Kashmir is a sun-temple set member with Konark and Modhera, not a latina Nagara of the Gangetic plain.
 27. **Morena Chausath Yogini** (Kachchhapaghata **Devapala**) is a circular hypaethral temple — **not** the Khajuraho Chausath Yogini. Popular belief links its plan to the Indian Parliament building; it is **not** India’s only circular temple.

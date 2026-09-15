@@ -22,9 +22,9 @@ Maratha Empire | Shivaji | Administrative Structure of Shivaji | Peshwas | Peshw
 3. At **Pratapgad in 1659**, Shivaji killed Bijapur's **Afzal Khan** and expanded western Deccan power.
 4. By the **Treaty of Purandar (1665)** with **Raja Jai Singh I**, Shivaji surrendered **23 forts**; the **Agra** detention followed in **1666**. He defeated the Mughals at **Salher in 1672**.
 5. Big **Deshmukhs** opposed an independent Maratha state because they preferred remaining **Bijapur feudal lords**.
-6. The **Ashtapradhan** was Shivaji's eight-minister council; under him the **Peshwa** was one minister, not the sovereign.
-7. Ashtapradhan portfolios: **Peshwa** admin, **Amatya** finance, **Mantri** records, **Senapati** army, **Sumant** foreign affairs, **Nyayadish** justice, **Pandit Rao** religion, **Sachiv** letters.
-8. **Chauth** is a **25%** protection levy; **sardeshmukhi** is an extra **10%** hereditary chief claim (together up to **35%**). **Saranzami** land supported Maratha jagirdars’ livelihood.
+6. The **Ashtapradhan** (अष्टप्रधान) was Shivaji's eight-minister council; under him the **Peshwa** (पेशवा) was one minister, not the sovereign.
+7. Ashtapradhan portfolios: **Peshwa** (पेशवा / मुख्य प्रधान - admin), **Amatya** (अमात्य / मजूमदार - finance/revenue), **Mantri** (मंत्री / वाक़ियानवीस - records/home), **Senapati** (सेनापति / सर-ए-नौबत - army chief), **Sumant** (सुमंत / डबीर - foreign affairs), **Nyayadish** (न्यायाधीश - justice), **Pandit Rao** (पंडितराव / दानाध्यक्ष - religious endowments), **Sachiv** (सचिव / सुरनवीस - royal correspondence).
+8. **Chauth** (चौथ) is a **25%** (1/4) protection levy; **sardeshmukhi** (सरदेशमुखी) is an extra **10%** (1/10) hereditary chief claim (together up to **35%**). **Saranzami** (सरंजामी) land supported Maratha jagirdars’ livelihood.
 9. From **1713**, **Balaji Vishwanath** made the Peshwa office **hereditary** and de facto ruling under Shahu.
 10. Core Peshwa order: **Balaji Vishwanath → Bajirao I → Balaji Bajirao → Madhav Rao I → Narayan Rao → Raghunath Rao**.
 11. **Bajirao I (1720–40)** drove north expansion; **Balaji Bajirao (1740–61)** belongs to the Panipat III generation. By the **Sangola agreement (1750)**, the Chhatrapati became a do-nothing king and the **Peshwa** the real head.
@@ -88,10 +88,10 @@ Maratha Empire | Shivaji | Administrative Structure of Shivaji | Peshwas | Peshw
 
 | Term | Lock |
 |------|------|
-| Chauth | **25%** protection levy |
-| Sardeshmukhi | Extra **10%** hereditary chief claim |
-| Saranzami | Jagirdar livelihood land |
-| Modi script | Maratha admin / revenue papers |
+| Chauth (चौथ) | **25%** protection levy |
+| Sardeshmukhi (सरदेशमुखी) | Extra **10%** hereditary chief claim |
+| Saranzami (सरंजामी) | Jagirdar livelihood land |
+| Modi script (मोड़ी लिपि) | Maratha admin / revenue papers |
 
 ### Peshwa order
 
@@ -270,12 +270,12 @@ D. A true, R false
 
 | Name | What it is | Trap |
 |------|------------|------|
-| **Chauth** | **25%** protection levy | Calling it the hereditary 10% |
-| **Sardeshmukhi** | Extra **10%** sardeshmukh claim | Calling it the protection quarter |
-| **Abwab** | Miscellaneous extra cesses | Treating it as Maratha protection revenue |
+| **Chauth** (चौथ) | **25%** protection levy | Calling it the hereditary 10% |
+| **Sardeshmukhi** (सरदेशमुखी) | Extra **10%** sardeshmukh claim | Calling it the protection quarter |
+| **Abwab** (अबवाब) | Miscellaneous extra cesses | Treating it as Maratha protection revenue |
 | **Jamadani** | A **textile** | Using it as a revenue term |
-| **Rakhi** | Local protection arrangement with chiefs (e.g. Bundelkhand belts) | Equating it with chauth’s 25% name |
-| **Saranzami** | Land supporting Maratha **jagirdars’** livelihood | Mixing it with chauth |
+| **Rakhi** (राखी) | Local protection arrangement with chiefs (e.g. Bundelkhand belts) | Equating it with chauth’s 25% name |
+| **Saranzami** (सरंजामी) | Land supporting Maratha **jagirdars’** livelihood | Mixing it with chauth |
 
 > **Logic:** Asked “Maratha protection revenue / one-fourth” → **Chauth**. Asked “extra hereditary deshmukh share” → **Sardeshmukhi**.
 

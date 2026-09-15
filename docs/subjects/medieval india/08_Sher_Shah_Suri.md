@@ -25,20 +25,20 @@ Sher Shah Suri | Administration | Revenue Reforms | Road System | Currency Refor
 6. Chronology fact: **Daurah 1532 → Chausa 1539 → Kannauj 1540 → Samugarh 1658**.
 7. Sher Shah died in **May 1545** at the **Kalinjar** siege from a **gunpowder** blast; his tomb is the lake mausoleum at **Sasaram**.
 8. Successor **Islam Shah (Jalal Khan)** ruled **1545–1553**; Humayun returned to Delhi–Agra in **1555**.
-9. Each pargana had a **Shiqdar** for law and order, a **Munshif** for accounts, and an **Amil/Desai** for collection.
-10. **Jarib** is the **measuring rope** used to fix the bigha; it is **not** a tax. **Desai** is the revenue collector.
-11. Land was classed good, middle, or bad; **rai** was the crop rate per **bigha**; **zabt** fixed an annual cash demand.
-12. The state issued a **patta** to the peasant; **qabuliat** was the peasant's written acceptance.
+9. Each pargana had a **Shiqdar** (शिक़दार) for law and order, a **Munsif** (मुंसिफ़) for accounts and justice, and an **Amil/Desai** (आमिल / देसाई) for collection.
+10. **Jarib** (जरीब) is the **measuring rope** used to fix the bigha; it is **not** a tax. Taxes included **Jaribana** (जरीबाना - survey fee) and **Muhasilana** (मुहसिलाना - tax collection fee). **Desai** is the revenue collector.
+11. Land was classed good, middle, or bad; **rai** (राय) was the crop rate per **bigha**; **zabt** (ज़ब्ती) fixed an annual cash demand.
+12. The state issued a **patta** (पट्टा - title deed) to the peasant; **qabuliat** (क़बूलियत - acceptance agreement) was the peasant's written acceptance.
 13. **Todar Mal** trained under Sher Shah's revenue system before carrying measurement practice into Akbar's court.
-14. The **Grand Trunk Road** ran from **Sonargaon** in Bengal to **Peshawar**, with **sarais** about every **12 kos**.
-15. Currency fact: silver **rupiya** (~178 grains), copper **dam** (~1/40 of a rupiya), and gold **mohur**; Akbar continued the **dam**.
+14. The **Grand Trunk Road** (सड़क-ए-आज़म) ran from **Sonargaon** in Bengal to **Peshawar**, with **sarais** (सराय) about every **12 kos**.
+15. Currency fact: silver **rupiya** (रुपिया - ~178 grains), copper **dam** (दाम - ~1/40 of a rupiya), and gold **mohur** (मोहर); Akbar continued the **dam**.
 16. Key forts include **Rohtas** in Bihar against Humayun's return and **Purana Qila** in Delhi.
 17. At **Sammel/Giri-Sumel in 1544**, Sher Shah fought **Rao Maldeo Rathore of Marwar**.
 18. **Jayata and Kumpa** were loyal **Marwar** Rathore captains who died fighting; they were **not** Mewar warriors.
-19. Centre offices: **Diwan-i-Wazarat** for finance, **Diwan-i-Ariz** for the army, and **Diwan-i-Risalat** for grants.
+19. Centre offices: **Diwan-i-Wazarat** (दीवान-ए-विज़ारत) for finance, **Diwan-i-Ariz** (दीवान-ए-अर्घ) for the army, and **Diwan-i-Risalat** (दीवान-ए-रसालत) for grants.
 20. Monument order places **Sher Shah's Sasaram tomb** after Atala Jaunpur and before Humayun's tomb at Delhi.
-21. **Barid** spies watched officers; the **qazi** judged by sharia and stayed outside the revenue chain.
-22. Horses were branded with **dagh**, a precursor to the later Mughal chehra–dagh system.
+21. **Barid** (बरीद - spy) watched officers; the **qazi** (क़ाज़ी) judged by sharia and stayed outside the revenue chain.
+22. Horses were branded with **dagh** (दाग़) and soldiers with **chehra** (चेहरा / हुलिया), a precursor to the later Mughal chehra–dagh system.
 23. Sher Shah kept a standing force with registered men; he did **not** create hereditary mansabdari like Akbar.
 24. **Farid Khan** was educated at **Jaunpur** (**Siraj-i-Hind**). He took **Hazrat-e-Ala** in Bengal service, then **Sher Shah** after **Chausa (1539)**.
 25. **Khayr-ul-Manazil** near Purana Qila was built by **Maham Anaga** in Akbar's era, not by Sher Shah. **Qila-i-Kuhna** mosque stands **inside** Purana Qila — Sher Shah's work.

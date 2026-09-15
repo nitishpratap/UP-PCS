@@ -26,13 +26,13 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 
 ## Consolidated — 28 Must-Score Facts
 
-1. The six **Astika** schools that accept the Veda as pramana are **Nyaya–Gautama**, **Vaisheshika–Kanada**, **Samkhya–Kapila**, **Yoga–Patanjali**, **Mimamsa–Jaimini**, and **Vedanta–Badarayana**.
-2. The usual **Nastika** set is **Charvaka**, **Buddhism**, and **Jainism**. Add **Ajivika** (**Makkhali Gosala**) when fate / *niyati* appears in options.
-3. **Nyaya** is logic and epistemology with four pramanas. **Vaisheshika** is atomism. This Gautama is **not** the Buddha.
-4. **Samkhya** is dualist Purusha–Prakriti with **25** tattvas and is classically **nirishvara. Yoga** is its practical partner and adds **Ishvara**.
-5. **Ashtanga Yoga** order is **yama, niyama, asana, pranayama, pratyahara, dharana, dhyana, samadhi**.
-6. **Purva Mimamsa** (Jaimini) treats Vedic **ritual. Uttara Mimamsa / Vedanta** (Badarayana) treats the Upanishads. Kapila is **not** Vedanta.
-7. **Shankara** taught **Advaita. Ramanuja** taught **Vishishtadvaita. Madhva** taught **Dvaita. Nimbarka** taught **Dvaitadvaita. Vallabha** taught **Shuddhadvaita**.
+1. The six **Astika** (आस्तिक) schools that accept the Veda as pramana (प्रमाण) are **Nyaya–Gautama** (न्याय - गौतम), **Vaisheshika–Kanada** (वैशेषिक - कणाद), **Samkhya–Kapila** (सांख्य - कपिल), **Yoga–Patanjali** (योग - पतंजलि), **Mimamsa–Jaimini** (मीमांसा - जैमिनि), and **Vedanta–Badarayana** (वेदांत - बादरायण).
+2. The usual **Nastika** (नास्तिक) set is **Charvaka** (चार्वाक), **Buddhism** (बौद्ध धर्म), and **Jainism** (जैन धर्म). Add **Ajivika** (**Makkhali Gosala**) [आजीवक - मक्खलि गोसाल] when fate / *niyati* (नियति) appears in options.
+3. **Nyaya** (न्याय) is logic and epistemology with four pramanas (प्रमाण). **Vaisheshika** (वैशेषिक) is atomism (*paramanu* / परमाणु). This Gautama is **not** the Buddha.
+4. **Samkhya** (सांख्य) is dualist Purusha–Prakriti (पुरुष-प्रकृति) with **25** tattvas (तत्त्व) and is classically **nirishvara** (निरीश्वरवाद). **Yoga** (योग) is its practical partner and adds **Ishvara** (ईश्वर).
+5. **Ashtanga Yoga** (अष्टांग योग) order is **yama** (यम), **niyama** (नियम), **asana** (आसन), **pranayama** (प्राणायाम), **pratyahara** (प्रत्याहार), **dharana** (धारणा), **dhyana** (ध्यान), **samadhi** (समाधि).
+6. **Purva Mimamsa** (पूर्व मीमांसा - Jaimini) treats Vedic **ritual** (कर्मकाण्ड). **Uttara Mimamsa / Vedanta** (उत्तर मीमांसा / वेदांत - Badarayana) treats the Upanishads. Kapila is **not** Vedanta.
+7. **Shankara** taught **Advaita** (अद्वैतवाद). **Ramanuja** taught **Vishishtadvaita** (विशिष्टद्वैतवाद). **Madhva** taught **Dvaita** (द्वैतवाद). **Nimbarka** taught **Dvaitadvaita** (द्वैताद्वैतवाद). **Vallabha** taught **Shuddhadvaita** (शुद्धाद्वैतवाद).
 8. Shankara’s four mathas fact as **Sringeri–Yajurveda**, **Dwaraka–Samaveda**, **Puri–Rigveda**, and **Badri / Jyotirmath–Atharvaveda**.
 9. Vedic stack order is **Samhita → Brahmana → Aranyaka → Upanishad**. *Tat tvam asi* is from the **Chandogya** Upanishad. **Brahman** is not the same word as **Brahmin**.
 10. Buddha’s life geography is **Lumbini** (birth), **Bodh Gaya** in Bihar (enlightenment), **Sarnath** in UP (first sermon), and **Kushinagar** in UP (death).
@@ -41,11 +41,11 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 13. Jainism has **24** Tirthankaras. Symbol facts include **Rishabha–bull**, **Parshva–snake**, and **Mahavira–lion**. Nirvana places include **Ashtapad**, **Shikharji**, and **Pavapuri**.
 14. **Parshva** taught four vows. **Mahavira** added **Brahmacharya** as the fifth. The Svetambara canon has **12 Angas**.
 15. **Digambara** monks are sky-clad and deny women monks. **Svetambara** monks wear white and admit women monks.
-16. **Anekantavada** is many-sided reality. **Syadvada** is the seven-fold “syad” speech about that reality.
+16. **Anekantavada** (अनेकांतवाद) is many-sided reality. **Syadvada** (स्याद्वाद) is the seven-fold “syad” speech about that reality.
 17. Bhakti chronology often runs **Namdev → Kabir → Nanak → Chaitanya. Kabir** was a disciple of **Ramananda. Surdas** belongs to **Vallabha**’s line. **Tulsidas** wrote in **Awadhi**.
-18. Tamil bhakti facts are **12 Alvars** (Andal the only woman) and **63 Nayanars**. The four Samayacharyas are **Appar, Sambandar, Sundarar, and Manikkavachakar**.
-19. **Chishti** Sufis at Ajmer / Delhi favour **sama** and qawwali. **Suhrawardi** is linked with Multan. **Nizamuddin Auliya** belongs to **Delhi**.
-20. *Fawaid-ul-Fuad* records Nizamuddin’s conversations as compiled by **Amir Hasan Sijzi. Wahdat-ul-wujud** (Ibn Arabi) is not the same as **wahdat-ush-shuhud** (Sirhindi).
+18. Tamil bhakti facts are **12 Alvars** (आलवार - Andal the only woman) and **63 Nayanars** (नायनार). The four Samayacharyas are **Appar, Sambandar, Sundarar, and Manikkavachakar**.
+19. **Chishti** Sufis at Ajmer / Delhi favour **sama** (समा / महफ़िल-ए-समा) and qawwali (क़व्वाली). **Suhrawardi** is linked with Multan. **Nizamuddin Auliya** belongs to **Delhi**.
+20. *Fawaid-ul-Fuad* records Nizamuddin’s conversations as compiled by **Amir Hasan Sijzi. Wahdat-ul-wujud** (वहदत-उल-वुजूद - Ibn Arabi) is not the same as **wahdat-ush-shuhud** (वहदत-उश-शुहूद - Sirhindi).
 21. Among the ten Sikh Gurus, **Angad** gave **Gurmukhi**, **Arjan** compiled the **Adi Granth**, and **Gobind Singh** founded the **Khalsa** in **1699**.
 22. The five Sikh Takhts are **Akal Takht**, **Keshgarh Sahib**, **Damdama Sahib**, **Patna Sahib**, and **Hazur Sahib**.
 23. Pramana count traps: **Charvaka** accepts only one, **Nyaya** accepts four, and Mimamsa–Kumarila / Vedanta often accept **six**.
@@ -113,70 +113,70 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 
 ---
 
-## 2.1 Six Schools of Indian Philosophy (Shad Darshana)
+## 2.1 Six Schools of Indian Philosophy (Shad Darshana / षड्दर्शन)
 
-**Meaning:** Darshana = a “view” aimed at liberation. Astika = Veda is a valid pramana. Nastika = rejects Vedic infallibility (not the same as modern “atheist”).
+**Meaning:** Darshana = a “view” aimed at liberation. Astika (आस्तिक) = Veda is a valid pramana (प्रमाण). Nastika (नास्तिक) = rejects Vedic infallibility (not the same as modern “atheist”).
 
 - Six Astika schools run as three pairs: Nyaya–Vaisheshika, Samkhya–Yoga, Mimamsa–Vedanta.
-- The Nastika set is Charvaka, Buddhism and Jainism. Add Ajivika (**Makkhali Gosala**) when options include fate/*niyati*.
+- The Nastika set is Charvaka, Buddhism and Jainism. Add Ajivika (**Makkhali Gosala**) [आजीवक - मक्खलि गोसाल] when options include fate/*niyati* (नियति).
 
-### Nyaya
+### Nyaya (न्याय)
 
-**Founder:** Aksapada Gautama | **Text:** Nyaya Sutras
+**Founder:** Aksapada Gautama (अक्षपाद गौतम) | **Text:** Nyaya Sutras (न्याय सूत्र)
 
 - Nyaya is the school of **logic and epistemology**, not Buddhism.
-- It accepts four pramanas: **pratyaksha, anumana, upamana, shabda**.
-- It has **16 padarthas** (categories of debate): pramana, prameya, samshaya, prayojana, drishtanta, siddhanta, avayava, tarka, nirnaya, vada, jalpa, vitanda, hetvabhasa, chala, jati, nigrahasthana.
+- It accepts four pramanas (प्रमाण): **pratyaksha** (प्रत्यक्ष), **anumana** (अनुमान), **upamana** (उपमान), **shabda** (शब्द).
+- It has **16 padarthas** (पदार्थ - categories of debate): pramana, prameya, samshaya, prayojana, drishtanta, siddhanta, avayava, tarka, nirnaya, vada, jalpa, vitanda, hetvabhasa, chala, jati, nigrahasthana.
 - It complements Vaisheshika (logic + atomism).
 
 > **Logic:** This Gautama is **not** the Buddha. Kanada is **not** Nyaya.
 
-### Vaisheshika
+### Vaisheshika (वैशेषिक)
 
-**Founder:** Kanada (Uluka) | **Text:** Vaisheshika Sutras
+**Founder:** Kanada (Uluka) [कणाद / उलूक] | **Text:** Vaisheshika Sutras (वैशेषिक सूत्र)
 
-- Vaisheshika teaches **atomism** (*paramanu*).
-- It has seven padarthas: dravya, guna, karma, samanya, vishesha, samavaya, **abhava**.
+- Vaisheshika teaches **atomism** (*paramanu* / परमाणु).
+- It has seven padarthas (पदार्थ): dravya (द्रव्य), guna (गुण), karma (कर्म), samanya (सामान्य), vishesha (विशेष), samavaya (समवाय), **abhava** (अभाव).
 - The nine dravyas are prithvi, jal, tejas, vayu, akasha, kala, dik, atman, manas.
 
-### Samkhya
+### Samkhya (सांख्य)
 
-**Founder:** Kapila | **Text:** Samkhya Karika (Ishvarakrishna)
+**Founder:** Kapila (कपिल) | **Text:** Samkhya Karika (Ishvarakrishna)
 
-- Samkhya is dualist: **Purusha** (consciousness) and **Prakriti** (matter).
-- It has three gunas: sattva, rajas, tamas. There are **25 tattvas** (prakriti → mahat → ahamkara → 5 tanmatra + 5 mahabhuta + 5 jnanendriya + 5 karmendriya + manas + purusha).
-- Classical Samkhya is **nirishvara** (no God as a tattva). Liberation is viveka.
+- Samkhya is dualist: **Purusha** (पुरुष - consciousness) and **Prakriti** (प्रकृति - matter).
+- It has three gunas: sattva, rajas, tamas (सत्त्व, रजस्, तमस्). There are **25 tattvas** (तत्त्व: prakriti → mahat → ahamkara → 5 tanmatra + 5 mahabhuta + 5 jnanendriya + 5 karmendriya + manas + purusha).
+- Classical Samkhya is **nirishvara** (निरीश्वरवाद - no God as a tattva). Liberation is viveka (विवेक ख्याति).
 
-### Yoga
+### Yoga (योग)
 
-**Founder:** Patanjali | **Text:** Yoga Sutras
+**Founder:** Patanjali (पतंजलि) | **Text:** Yoga Sutras (योग सूत्र)
 
-- The definition fact is *Yogash chitta-vritti-nirodhah*.
-- Yoga is the practical partner of Samkhya. It adds **Ishvara**.
-- Ashtanga Yoga, in order, is **yama, niyama, asana, pranayama, pratyahara, dharana, dhyana, samadhi**.
+- The definition fact is *Yogash chitta-vritti-nirodhah* (योगश्चित्तवृत्तिनिरोधः).
+- Yoga is the practical partner of Samkhya. It adds **Ishvara** (ईश्वर).
+- Ashtanga Yoga (अष्टांग योग), in order, is **yama** (यम), **niyama** (नियम), **asana** (आसन), **pranayama** (प्राणायाम), **pratyahara** (प्रत्याहार), **dharana** (धारणा), **dhyana** (ध्यान), **samadhi** (समाधि).
 - Yama comprises ahimsa, satya, asteya, brahmacharya, aparigraha.
 - Niyama comprises shaucha, santosha, tapas, svadhyaya, Ishvara-pranidhana.
-- The goal is **kaivalya**, not modern gym-yoga.
+- The goal is **kaivalya** (कैवल्य / मोक्ष), not modern gym-yoga.
 
-### Purva Mimamsa
+### Purva Mimamsa (पूर्व मीमांसा)
 
-**Founder:** Jaimini | **Text:** Mimamsa Sutras
+**Founder:** Jaimini (जैमिनि) | **Text:** Mimamsa Sutras
 
-- Purva Mimamsa interprets Vedic **ritual** (karma-kāṇḍa). The Veda is *apaurusheya*.
+- Purva Mimamsa interprets Vedic **ritual** (karma-kāṇḍa / कर्मकाण्ड). The Veda is *apaurusheya* (अपौरुषेय).
 - Dharma is the correct performance of sacrifice.
 - The sub-schools are **Kumarila Bhatta** and **Prabhakara**. Kumarila is a trap option in *Milind Panho* questions (he is Mimamsa, not Buddhist).
 
-### Uttara Mimamsa (Vedanta)
+### Uttara Mimamsa (Vedanta / उत्तर मीमांसा - वेदांत)
 
-**Founder:** Badarayana / Vyasa | **Text:** Brahma Sutras
+**Founder:** Badarayana / Vyasa (बादरायण / व्यास) | **Text:** Brahma Sutras (ब्रह्म सूत्र)
 
-- Vedanta interprets the Upanishads (jñāna-kāṇḍa).
-- The **Prasthanatrayi** are the Upanishads, the *Bhagavad Gita* and the Brahma Sutras.
+- Vedanta interprets the Upanishads (jñāna-kāṇḍa / ज्ञानकाण्ड).
+- The **Prasthanatrayi** (प्रस्थानत्रयी) are the Upanishads, the *Bhagavad Gita* and the Brahma Sutras.
 - The founder is not Kapila.
 
-### Advaita — Shankara
+### Advaita — Shankara (अद्वैतवाद - शंकराचार्य)
 
-**Century:** 8th c. | **Doctrine:** non-dual; Brahman real, world *mithya*, Atman = Brahman
+**Century:** 8th c. | **Doctrine:** non-dual; Brahman real, world *mithya* (मिथ्या), Atman = Brahman
 
 - Shankara’s guru is **Govinda**. His paramguru is **Gaudapada**. His text is *Brahma-sutra-bhashya*.
 - **Sringeri** is the southern matha. It is linked with **Yajurveda** and **Sureshvara**.
@@ -184,41 +184,41 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 - **Puri / Govardhana** is the eastern matha. It is linked with **Rigveda** and **Padmapada**.
 - **Jyotirmath / Badrinath** is the northern matha. It is linked with **Atharvaveda** and **Totaka**.
 
-### Vishishtadvaita — Ramanuja
+### Vishishtadvaita — Ramanuja (विशिष्टद्वैतवाद - रामानुजाचार्य)
 
 **Century:** 11th–12th c. | **Birth:** Sriperumbudur | **Text:** Sri Bhashya
 
-- Ramanuja taught qualified non-dualism: Brahman with attributes. He belongs to the Sri Vaishnava line of **Yamunacharya** and teaches Prapatti (surrender). He also wrote *Vedartha Sangraha* and *Gita Bhashya*.
+- Ramanuja taught qualified non-dualism: Brahman with attributes. He belongs to the Sri Vaishnava line of **Yamunacharya** and teaches Prapatti (प्रपत्ति - surrender). He also wrote *Vedartha Sangraha* and *Gita Bhashya*.
 
-### Dvaita — Madhva (Madhavacharya)
+### Dvaita — Madhva (Madhavacharya) [द्वैतवाद - मध्वाचार्य]
 
 **Century:** 13th c. | **Centre:** Udupi | **Also called:** Purna Prajna / Anandatirtha
 
 - God, soul and world are eternally distinct. Madhva’s centre has eight Udupi mathas (Ashta Mathas). The Krishna image comes from the Dwaraka tradition.
 
-### Dvaitadvaita — Nimbarka
+### Dvaitadvaita — Nimbarka (द्वैताद्वैतवाद - निम्बार्काचार्य)
 
-**Doctrine:** Bhedabheda (difference-and-non-difference)
+**Doctrine:** Bhedabheda (भेदाभेद - difference-and-non-difference)
 
 - Nimbarka’s path is Radha–Krishna worship. It is the Mathura–Salvadri / Nimbaraka sampradaya (Sanakadi).
 
-### Shuddhadvaita — Vallabhacharya
+### Shuddhadvaita — Vallabhacharya (शुद्धाद्वैतवाद - वल्लभाचार्य)
 
-**Century:** 15th–16th c. | **Birth:** Champaranya | **Path:** Pushtimarg
+**Century:** 15th–16th c. | **Birth:** Champaranya | **Path:** Pushtimarg (पुष्टिमार्ग)
 
 - Vallabha taught pure non-dualism. He is the guru of **Surdas**. The Ashtachhap poets of Braj include Surdas, Kumbhan, Parmanand, Krishna Das, and others.
 
-### Charvaka / Lokayata
+### Charvaka / Lokayata (चार्वाक / लोकायत)
 
 **Founder (trad.):** Brihaspati | **Status:** Nastika
 
 - Only **perception** is pramana. Charvaka accepts four bhutas (no akasha). It rejects karma, afterlife, and the Veda.
 
-### Ajivika
+### Ajivika (आजीवक)
 
-**Founder:** Makkhali Gosala | **Status:** Nastika
+**Founder:** Makkhali Gosala (मक्खलि गोसाल) | **Status:** Nastika
 
-- Ajivika teaches the doctrine of fate (*niyati*). Makkhali Gosala was a contemporary of the Buddha and Mahavira. The school later became extinct.
+- Ajivika teaches the doctrine of fate (*niyati* / नियति). Makkhali Gosala was a contemporary of the Buddha and Mahavira. The school later became extinct.
 
 ### Pramana count (key fact)
 
@@ -710,15 +710,15 @@ D. Son Kumari — Poem of Swam Beli
 
 ## 2.6 Sufi Movement
 
-**Meaning:** Tasawwuf — Islamic mysticism. Path: sharia → tariqa → haqiqa.
+**Meaning:** Tasawwuf (तसव्वुफ़ / सूफ़ीवाद) — Islamic mysticism. Path: sharia (शरीअत) → tariqa (तरीक़त) → haqiqa (हक़ीक़त).
 
-- Pir / murshid is the teacher. Murid is the disciple.
-- Khanqah is a hospice. Dargah is a tomb-shrine. Urs is the death anniversary.
-- **Sama** is a musical assembly. Related practices are zikr, fana, and baqa.
-- **Wahdat-ul-wujud** (Ibn Arabi) is unity of being. **Wahdat-ul-shuhud** (**Ahmad Sirhindi**, Naqshbandi) is unity of witness.
-- Traders arrived from the **8th–9th** c. Organised silsilas date from the **12th–13th** c.
+- Pir / murshid (पीर / मुर्शिद) is the teacher. Murid (मुरीद) is the disciple.
+- Khanqah (ख़ानक़ाह) is a hospice. Dargah (दरगाह) is a tomb-shrine. Urs (उर्स) is the death anniversary.
+- **Sama** (समा / महफ़िल-ए-समा) is a musical assembly. Related practices are zikr (ज़िक्र), fana (फ़ना), and baqa (बक़ा).
+- **Wahdat-ul-wujud** (वहदत-उल-वुजूद - Ibn Arabi) is unity of being. **Wahdat-ul-shuhud** (वहदत-उश-शुहूद - **Ahmad Sirhindi**, Naqshbandi) is unity of witness.
+- Traders arrived from the **8th–9th** c. Organised silsilas (सिलसिला) date from the **12th–13th** c.
 
-### Chishti order
+### Chishti order (चिश्ती सिलसिला)
 
 **Indian founder:** Khwaja Muinuddin Chishti (Gharib Nawaz, d. 1236) | **Dargah:** Ajmer Sharif
 
