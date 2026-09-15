@@ -7,7 +7,7 @@
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 20 Must-Score Facts (Heritage & Institutes)
 
 | Head | High-Yield Prelims Key |
 | :--- | :--- |

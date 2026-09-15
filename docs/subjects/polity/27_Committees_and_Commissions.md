@@ -1,94 +1,153 @@
-﻿# Topic 27 – Important Committees and Commissions (Fact-Lock)
+# Topic 27 – Important Committees and Commissions (Fact-Lock)
 
-> **Priority S** | Match-the-following on 4 random committees (Year/Subject) is a guaranteed UPPCS/UKPCS pattern.
-> **Pair with:** [Panchayati Raj](10_Local_Government.md), [Centre-State Relations](11_Centre_State_Relations.md), and upcoming Economy files.
+> **Priority S** | Match-the-following on 4 random committees (Year / Subject / Recommendation) is a guaranteed recurring UPPCS/UKPCS pattern.  
+> **Pair with:** [Panchayati Raj](10_Local_Government.md) · [Centre-State Relations](11_Centre_State_Relations.md) · [Constitutional Bodies](12_Constitutional_Bodies.md)
+
+---
+
+## Consolidated — 20 Must-Score Facts (Committees & Commissions)
+
+1. **Santhanam Committee (1962–64):** Formed on Prevention of Corruption; recommended the establishment of the **Central Vigilance Commission (CVC, 1964)**.
+2. **Swaran Singh Committee (1976):** Recommended inclusion of **Fundamental Duties** (Part IVA, Art 51A) incorporated by the **42nd Amendment Act 1976**. *(Note: Recommended 8 duties; 10 were added in 1976; 11th added in 2002 via 86th Amd).*
+3. **Verma Committee (1999):** Identified legal provisions for the implementation and enforcement of Fundamental Duties.
+4. **Balwant Rai Mehta Committee (1957):** Recommended a **3-tier Panchayati Raj system** (Gram Panchayat, Panchayat Samiti, Zila Parishad) under "Democratic Decentralization".
+5. **Ashok Mehta Committee (1977):** Recommended a **2-tier Panchayati Raj system** (Mandal Panchayat and Zila Parishad), official participation of political parties, and creation of Nyaya Panchayats.
+6. **L. M. Singhvi Committee (1986):** First to recommend **Constitutional Status for Panchayati Raj Institutions** (later materialized via the 73rd Amendment 1992).
+7. **P. K. Thungon Committee (1988):** Recommended constitutional recognition for PRIs, 5-year fixed tenure, and State Finance Commissions.
+8. **Rajamannar Committee (1969):** Appointed by the Tamil Nadu (DMK) Government; recommended abolition of All-India Services (IAS, IPS) and repeal of Article 356.
+9. **Sarkaria Commission (1983–88):** Appointed by Central Government on **Centre-State Relations** (R. S. Sarkaria, B. Sivaraman, S. R. Sen); recommended Article 356 as last resort, establishment of permanent Inter-State Council under Art. 263 (set up in 1990).
+10. **M. M. Punchhi Commission (2007–10):** Appointed on **Centre-State Relations**; recommended localized emergency under Art. 355, fixed 5-year tenure for Governors, and impeachment procedure for Governors.
+11. **Dinesh Goswami Committee (1990):** Landmark report on **Electoral Reforms**; recommended electronic voting machines (EVMs), state funding in kind, and checking booth-capturing.
+12. **Indrajit Gupta Committee (1998):** Recommended **State Funding of Elections** to candidates of recognized political parties.
+13. **Tarkunde Committee (1974):** Appointed by Jayaprakash Narayan (Citizens for Democracy); recommended lowering voting age from 21 to 18 years (implemented via 61st Amendment 1988).
+14. **Kothari Commission (1964–66):** National education commission; recommended 10+2+3 educational structure and allocation of 6% of national income to education.
+15. **Dr. K. Kasturirangan Committee (2019):** Drafted the **National Education Policy (NEP 2020)** replacing 10+2 with 5+3+3+4 schooling system.
+16. **First Backward Classes Commission (1953):** Appointed under Article 340 under the chairmanship of **Kaka Kalelkar**.
+17. **Second Backward Classes Commission (1979):** Appointed under **B. P. Mandal (Mandal Commission)**; recommended 27% reservation for Other Backward Classes (OBCs) in central government jobs.
+18. **Justice G. Rohini Commission (2017):** Appointed under Article 340 for the **Sub-categorization of OBCs**.
+19. **Sachar Committee (2005):** Examined the social, economic, and educational status of the Muslim community in India.
+20. **First & Second Administrative Reforms Commissions:**
+    - **1st ARC (1966):** Chaired by **Morarji Desai** (later K. Hanumanthaiah); recommended Lokpal and Lokayukta.
+    - **2nd ARC (2005):** Chaired by **Veerappa Moily** (later V. Ramachandran); submitted 15 reports on ethics, RTI, and crisis management.
+
+---
+
+## Confused Pairs & Common Traps
+
+| Committee A | Committee B | Critical Distinction (UPPCS / UKPCS Traps) |
+| :--- | :--- | :--- |
+| **Balwant Rai Mehta (1957)** | **Ashok Mehta (1977)** | Balwant Rai = **3-tier system**; Ashok Mehta = **2-tier system** (Mandal Panchayat & Zila Parishad). |
+| **Sarkaria Commission (1983)**| **Punchhi Commission (2007)**| Both on Centre-State Relations — Sarkaria = **1983 (Inter-State Council)**; Punchhi = **2007 (Governor impeachment & localized Art 355)**. |
+| **Santhanam Committee (1962)**| **Swaran Singh Committee (1976)**| Santhanam = **Anti-corruption / CVC (1964)**; Swaran Singh = **Fundamental Duties / 42nd Amendment (1976)**. |
+| **Dinesh Goswami (1990)** | **Indrajit Gupta (1998)** | Both on Electoral Reforms — Dinesh Goswami = **EVMs & Anti-defection**; Indrajit Gupta = **State funding of elections**. |
+| **Kaka Kalelkar (1953)** | **Mandal Commission (1979)**| 1st Backward Classes Commission (1953) = **Kaka Kalelkar**; 2nd Backward Classes Commission (1979) = **B. P. Mandal**. |
+| **1st ARC (1966)** | **2nd ARC (2005)** | 1st ARC = **Morarji Desai / Hanumanthaiah**; 2nd ARC = **Veerappa Moily / V. Ramachandran**. |
+| **L. M. Singhvi (1986)** | **G. V. K. Rao (1985)** | L. M. Singhvi = **Constitutional status for Panchayats**; G. V. K. Rao = **District level / "Grass without roots" warning**. |
+| **Tarkunde (1974)** | **Swaran Singh (1976)** | Tarkunde = **Voting age 18**; Swaran Singh = **Fundamental Duties**. |
 
 ---
 
 ## 1. Centre-State Relations & Governance
-| Committee / Commission | Year | Core Mandate / Recommendation |
-| :--- | :--- | :--- |
-| **Rajamannar Committee** | 1969 | Appointed by TN Govt; recommended abolition of IAS/IPS and Art 356. |
-| **Sarkaria Commission** | 1983 | Centre-State relations; backed strong centre, Art 356 as last resort, Inter-State Council (Estab. 1990). |
-| **Punchhi Commission** | 2007 | Centre-State relations; localized emergency under 355, fixed term for Governors. |
-| **Santhanam Committee** | 1962 | Prevention of Corruption; led to the establishment of **CVC (1964)**. |
-| **Swaran Singh Committee** | 1976 | Recommended Fundamental Duties (42nd Amendment, 1976). |
-| **Dinesh Goswami Committee**| 1990 | Electoral reforms; recommended EVMs and state funding for candidates. |
-| **Indrajit Gupta Committee**| 1998 | Electoral reforms; state funding of elections. |
-| **Tarkunde Committee** | 1974 | Electoral reforms; lowering voting age to 18 (implemented in 61st Amendment, 1988). |
-| **Balwant Rai Mehta** | 1957 | Panchayati Raj; 3-tier system (Gram, Panchayat Samiti, Zila Parishad). |
-| **Ashok Mehta Committee** | 1977 | Panchayati Raj; 2-tier system, political party participation. |
-| **L.M. Singhvi Committee** | 1986 | Panchayati Raj; recommended **Constitutional Status** for Panchayats. |
 
-## 2. Poverty, Economy, and Banking (Preview for Economy)
-*(High-yield for UPPCS GS Paper 1).*
-| Committee / Commission | Year | Core Mandate / Recommendation |
-| :--- | :--- | :--- |
-| **Dandekar & Rath** | 1971 | First to define poverty line based on calorie intake (2250 calories/day). |
-| **Alagh Committee** | 1979 | Poverty estimation; separated rural (2400 kcal) and urban (2100 kcal) calorie requirements. |
-| **Lakdawala Committee** | 1993 | Poverty estimation; state-specific poverty lines using CPI-AL and CPI-IW. |
-| **Tendulkar Committee** | 2009 | Poverty estimation; moved away from calorie anchor to uniform reference period (URP/MRP). |
-| **Rangarajan Committee** | 2014 | Poverty estimation; reverted to modified calorie norm + protein/fat requirements. |
-| **Narasimham Committee I** | 1991 | Banking Sector Reforms (4-tier banking structure, lowering SLR/CRR). |
-| **Narasimham Committee II**| 1998 | Banking Sector Reforms (Capital adequacy, stronger NPAs regulation). |
-| **Kelkar Committee** | 2002/2015 | Direct/Indirect Tax Reforms (2002); PPP Models evaluation (2015). |
-| **Raja Chelliah Committee**| 1991 | Tax Reforms (moderate tax rates, expanding tax base). |
-| **Tarapore Committee** | 1997/2006 | Capital Account Convertibility. |
-| **Malegam Committee** | 2011 | Microfinance Institutions (MFI) regulations. |
-| **Uday Kotak Committee** | 2017 | Corporate Governance norms. |
-| **Bhagwati Committee** | 1973 | Unemployment and public welfare. |
-
-## 3. Demographics, Education & Society
-| Committee / Commission | Year | Core Mandate / Recommendation |
-| :--- | :--- | :--- |
-| **Kothari Commission** | 1964 | Educational reforms (10+2+3 system, 6% GDP for education). |
-| **Kasturirangan Committee**| 2019 | Drafted the National Education Policy (NEP 2020). |
-| **Mandal Commission** | 1979 | Socially and Educationally Backward Classes (27% OBC reservation). |
-| **Rohini Commission** | 2017 | Sub-categorization of OBCs under Article 340. |
-| **Sachar Committee** | 2005 | Social, economic, and educational status of the Muslim community. |
-| **Xaxa Committee** | 2013 | Socio-economic, health, and educational status of Tribal communities. |
-| **Swaminathan Commission**| 2004 | National Commission on Farmers (MSP at C2 + 50%). |
+| Committee / Commission | Year | Core Mandate & Key Recommendations |
+| :--- | :---: | :--- |
+| **Rajamannar Committee** | **1969** | Appointed by Tamil Nadu Government; recommended abolition of IAS/IPS, repeal of Art 356, and vestment of residual powers in States. |
+| **Sarkaria Commission** | **1983–88** | Centre-State relations (Justice R. S. Sarkaria, B. Sivaraman, S. R. Sen); recommended strong Centre, Article 356 as an extraordinary last resort, and establishing permanent Inter-State Council (set up 1990 under Art 263). |
+| **Punchhi Commission** | **2007–10** | Centre-State relations (Justice M. M. Punchhi); recommended localized emergency under Art 355, fixed 5-year tenure for Governors, and amending Art 356. |
+| **Santhanam Committee** | **1962–64** | Committee on Prevention of Corruption; recommended statutory code of conduct and creation of **Central Vigilance Commission (CVC, 1964)**. |
+| **Swaran Singh Committee** | **1976** | Recommended incorporation of **Fundamental Duties**; 42nd Amendment Act 1976 inserted Part IVA and Article 51A. |
+| **Dinesh Goswami Committee**| **1990** | Comprehensive electoral reforms; advocated electronic voting machines (EVMs), stringent anti-defection checks, and state assistance. |
+| **Indrajit Gupta Committee**| **1998** | Recommended state funding of elections in kind (fuel, paper, airtime) to candidates of recognized parties. |
+| **Tarkunde Committee** | **1974** | Electoral reforms; proposed lowering the voting age to 18 (adopted via 61st Constitutional Amendment 1988). |
+| **Vohra Committee** | **1993** | Examined the criminalization of politics and nexus between politicians, bureaucrats, and underworld syndicates. |
 
 ---
 
-## Practice Zone - UPPCS Format Drill
+## 2. Panchayati Raj Committees Chronology
+
+```
+                     Panchayati Raj Evolution Timeline
+                                     │
+      1957: Balwant Rai Mehta Committee (3-tier system / Democratic Decentralization)
+                                     │
+      1977: Ashok Mehta Committee (2-tier system / Mandal Panchayat & Zila Parishad)
+                                     │
+      1978: Dantwala Committee (Block-level planning)
+                                     │
+      1985: G.V.K. Rao Committee (District planning / "Grass without roots")
+                                     │
+      1986: L.M. Singhvi Committee (Constitutional status for Panchayats)
+                                     │
+      1988: P.K. Thungon Committee (Constitutional status / 5-year fixed term)
+                                     │
+      1988: V.N. Gadgil Committee (Basis for 73rd Amendment Bill)
+```
+
+| Committee | Year | Decisive Recommendation |
+| :--- | :---: | :--- |
+| **Balwant Rai Mehta** | **1957** | **3-tier system:** Gram Panchayat (village), Panchayat Samiti (block), Zila Parishad (district); National Development Council accepted report in 1958. |
+| **Ashok Mehta** | **1977** | **2-tier system:** Zila Parishad at district, Mandal Panchayat for cluster of villages (15,000–20,000 pop); open party participation. |
+| **G. V. K. Rao** | **1985** | Warned against bureaucratization of development ("grass without roots"); proposed DDC (District Development Commissioner). |
+| **L. M. Singhvi** | **1986** | **Constitutional recognition, protection, and preservation of PRIs**; revival of Nyaya Panchayats. |
+| **P. K. Thungon** | **1988** | Reaffirmed constitutional status, 5-year fixed tenure, and mandatory State Finance Commission. |
+
+---
+
+## 3. Social Justice, Education & Reservation Commissions
+
+| Commission / Committee | Year | Core Subject & Historical Impact |
+| :--- | :---: | :--- |
+| **Kaka Kalelkar Commission** | **1953** | **First Backward Classes Commission**; submitted report in 1955 identifying 2,399 backward castes; rejected by Union Government. |
+| **Mandal Commission** | **1979** | **Second Backward Classes Commission** (B. P. Mandal); identified 3,743 castes (52% pop); recommended **27% reservation for OBCs** in Union jobs (implemented in 1990 by V. P. Singh govt). |
+| **Justice G. Rohini Commission**| **2017** | Sub-categorization of OBCs to ensure equitable distribution of benefits among underrepresented OBC groups under Art 340. |
+| **Kothari Commission** | **1964–66** | Landmark education commission (Dr. D. S. Kothari); suggested common school system, 10+2+3 structure, 6% GDP target. |
+| **Kasturirangan Committee** | **2019** | Drafted National Education Policy (NEP 2020); 5+3+3+4 foundational to secondary learning stages. |
+| **Sachar Committee** | **2005** | High-level committee on the social, educational, and economic conditions of Indian Muslims (Justice Rajindar Sachar). |
+| **Xaxa Committee** | **2013** | Socio-economic, health, and land alienation conditions of Tribal communities (Prof. Virginius Xaxa). |
+| **M. S. Swaminathan Commission**| **2004–06**| National Commission on Farmers; recommended fixing Minimum Support Price (MSP) at least 50% more than weighted average cost of production (C2 + 50%). |
+
+---
+
+## Practice Zone: UPPCS Format Drill
 
 **Q1.** Match List-I (Committee/Commission) with List-II (Core Mandate):
 | List-I | List-II |
 | :--- | :--- |
 | A. Santhanam Committee | 1. Centre-State Relations |
-| B. Sarkaria Commission | 2. Poverty Estimation |
-| C. Tendulkar Committee | 3. Prevention of Corruption |
-| D. Dinesh Goswami | 4. Electoral Reforms |
+| B. Sarkaria Commission | 2. Electoral Reforms |
+| C. Balwant Rai Mehta Committee | 3. Prevention of Corruption |
+| D. Dinesh Goswami Committee | 4. Panchayati Raj |
 
-A. A-3, B-1, C-2, D-4  
+A. A-3, B-1, C-4, D-2  
 B. A-1, B-3, C-4, D-2  
-C. A-3, B-1, C-4, D-2  
+C. A-3, B-1, C-2, D-4  
 D. A-2, B-4, C-1, D-3  
+*Answer:* **A** (Santhanam = Corruption/CVC; Sarkaria = Centre-State; Balwant Rai = Panchayati Raj; Dinesh Goswami = Electoral Reforms).
 
-<details>
-<summary>Show answer</summary>
-**Ans: A.** Santhanam (Corruption/CVC), Sarkaria (Centre-State), Tendulkar (Poverty), Dinesh Goswami (Electoral Reforms).
-</details>
-
-**Q2.** Which of the following committees is associated with the recommendation of granting **Constitutional Status** to Panchayati Raj Institutions?
+**Q2.** Which of the following committees explicitly recommended granting **Constitutional Status** to Panchayati Raj Institutions in 1986?  
 A. Balwant Rai Mehta Committee  
 B. Ashok Mehta Committee  
-C. G.V.K. Rao Committee  
-D. L.M. Singhvi Committee  
+C. G. V. K. Rao Committee  
+D. L. M. Singhvi Committee  
+*Answer:* **D** (L. M. Singhvi Committee 1986).
 
-<details>
-<summary>Show answer</summary>
-**Ans: D.** The L.M. Singhvi Committee (1986) explicitly recommended Constitutional status for Panchayats, later realized via the 73rd Amendment.
-</details>
+**Q3.** The Swaran Singh Committee (1976) recommended the incorporation of which of the following into the Indian Constitution?  
+A. Fundamental Rights  
+B. Fundamental Duties  
+C. Directive Principles of State Policy  
+D. Panchayati Raj  
+*Answer:* **B** (Fundamental Duties — Part IVA, Article 51A).
 
-**Q3.** The Narasimham Committee (1991) was appointed for:
+**Q4.** The Justice M. M. Punchhi Commission (2007) submitted its recommendations on:  
 A. Tax Reforms  
-B. Banking Sector Reforms  
+B. Centre-State Relations  
 C. Poverty Estimation  
-D. Corporate Governance  
+D. Police Reforms  
+*Answer:* **B** (Centre-State Relations).
 
-<details>
-<summary>Show answer</summary>
-**Ans: B.** Narasimham I was related to structural reforms in the Banking Sector.
-</details>
+**Q5.** Who headed the First Backward Classes Commission appointed in 1953 under Article 340?  
+A. B. P. Mandal  
+B. Kaka Kalelkar  
+C. B. R. Ambedkar  
+D. Jagjivan Ram  
+*Answer:* **B** (Kaka Kalelkar).

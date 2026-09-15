@@ -7,7 +7,7 @@
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 20 Must-Score Facts (Spine Revision)
 
 | Category | High-Yield Prelims Key |
 | :--- | :--- |
