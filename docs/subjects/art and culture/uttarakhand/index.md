@@ -24,6 +24,9 @@ Culture hooks from UKPCS Unit 1 (History and Culture) and Unit 6 (dances, herita
 [**Topic 3 — Heritage & Institutes**
 <span>UNESCO · Ramman · Garhwal painting · Pant · institutes.</span>](03_Heritage_and_Cultural_Institutes.md){ .study-card }
 
+[**Topic 4 — Personalities, Literature & Press**
+<span>Newspapers · books · authors · gallantry · sports · sobriquets.</span>](04_Personalities_Literature_and_Press.md){ .study-card }
+
 [**UKPCS desk**
 <span>Full paper Units 1–6.</span>](../../../ukpcs/index.md){ .study-card }
 

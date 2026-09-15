@@ -1,134 +1,423 @@
-﻿# Topic 17 – UP Art, Culture & Demographics (UPPCS Special)
+# Topic 17 – UP Art, Culture, Demographics & Master Institute Directory (UPPCS Special)
 
-> **Priority S** | Highly tested in UPPCS (6-10 questions directly on UP static facts). 
-> **Pair with:** [Geography of UP](../geography/24_Geography_of_Uttar_Pradesh.md) & [UP Current Affairs](../../current-affairs/topics/08_UP_Special.md)
+> **Priority S** | Core state paper module heavily tested in UPPCS (8–12 direct questions on UP static facts, art, fairs, census, institutes, and GI tags).  
+> **Pair with:** [Geography of UP](../../geography/uttar%20pradesh/24_Geography_of_Uttar_Pradesh.md) · [UP Special Polity](../../polity/25_UP_Special.md) · [National Art & Culture](../01_Visual_Arts.md)
 
 ---
 
-## 1. UP Census 2011 (Exact Ratta)
-*UP is the most populous state (16.5% of India) and has the largest rural population.*
+## Consolidated — 20 Must-Score Facts (UP Special)
 
-| Metric | UP Average | Highest District | Lowest District |
+1. **Sex Ratio Extremes (Census 2011):** Highest sex ratio is **Jaunpur (1024)**, followed by Azamgarh (1019) and Deoria (1017). Lowest sex ratio is **Gautam Buddha Nagar (851)**.
+2. **Density Extremes:** Highest population density is **Ghaziabad (3971 per sq. km)**; lowest is **Lalitpur (242 per sq. km)**. State average is **829**.
+3. **Literacy Extremes:** Highest literacy is **Gautam Buddha Nagar (80.1%)**; lowest literacy (overall, male, and female) is **Shrawasti (46.7% overall; 34.8% female)**.
+4. **SC & ST Population:** Highest percentage of SC is in **Kaushambi (34.7%)**; highest absolute SC population is in **Sitapur**. Highest ST population (both absolute and percentage) is in **Sonbhadra (20.7%)**; lowest/negligible ST population is in **Baghpat and Jalaun**.
+5. **Charkula Folk Dance:** Iconic folk dance of the **Braj region (Mathura)** wherein women balance a multi-tiered wooden pyramid holding **108 lit oil lamps** on their heads.
+6. **Karma Folk Dance:** Performed in **Sonbhadra and Mirzapur** by tribal communities (Kharwar, Kol, and Baiga) as an offering to Karma devta for agricultural prosperity.
+7. **Rai Folk Dance:** Traditional peacock dance of **Bundelkhand** performed by women of the Beriya community on auspicious occasions like Janmashtami.
+8. **Heroic Ballad 'Alha':** Celebrated heroic folk song of **Bundelkhand** composed in *Banaffari* dialect narrating the 52 battles of warrior brothers Alha and Udal.
+9. **Monsoon Song 'Kajri':** Centred in **Mirzapur and Varanasi**; sung by women during the rainy season (*Shravan*) expressing longing and separation.
+10. **Bateshwar Fair:** Held at **Bateshwar (Agra)** on the banks of Yamuna; ancient cattle/camel and animal trade fair.
+11. **Nauchandi Fair:** Held at **Meerut** on the second Sunday after Holi; historic symbol of Hindu-Muslim communal harmony (Chandi Devi temple and Bale Miyan dargah).
+12. **Dewa Sharif Fair:** Held at **Barabanki** during Kartik month at the shrine of Sufi saint **Haji Waris Ali Shah**.
+13. **Syed Salar Masood Ghazi Fair:** Held at **Bahraich** at the dargah of Ghazi Miyan.
+14. **Dadri Cattle Fair:** Celebrated at **Ballia** on Kartik Purnima in honour of sage Bhrigu; second largest cattle fair in India after Sonepur.
+15. **Hathras vs Kanpur Nautanki:** Hathras school is classical, poetic, and music-oriented; Kanpur school is theatrical, prose-dialogue, and performance-oriented.
+16. **Kathak Titans of Lucknow:** Founded by Ishwari Prasad; carried forward by Kalka-Bindadin Maharaj, Achhan Maharaj, Shambhu Maharaj, Lachhu Maharaj, and **Pandit Birju Maharaj**.
+17. **Kirana Gharana:** Founded by **Ustad Abdul Karim Khan** and **Abdul Wahid Khan** in Kirana (Shamli/Muzaffarnagar); celebrated by **Pandit Bhimsen Joshi** (Bharat Ratna 2008) and Gangubai Hangal.
+18. **IVRI vs IIPR vs IISR:** IVRI = **Bareilly (Izatnagar)**; IIPR = **Kanpur**; IISR = **Lucknow**; IIVR = **Varanasi**.
+19. **IGFRI Jhansi:** Indian Grassland and Fodder Research Institute is located at **Jhansi** (established 1962).
+20. **First Agricultural University:** **GBPUAT Pantnagar** (1960) was established in UP before Uttarakhand state was carved out in 2000. Within current UP borders, **CSAUAT Kanpur** was established in 1975.
+
+---
+
+## Confused Pairs & Common Traps
+
+| Concept A | Concept B | Difference / Trap Clarification |
+| :--- | :--- | :--- |
+| **Bateshwar Mela (Agra)** | **Dadri Mela (Ballia)** | Both are large cattle fairs — Bateshwar is on the Yamuna in western UP; Dadri is on the Ganga in easternmost UP. |
+| **Dewa Sharif (Barabanki)** | **Syed Salar (Bahraich)** | Dewa Sharif = Haji Waris Ali Shah (Barabanki); Syed Salar = Ghazi Miyan (Bahraich). |
+| **Kajri (Mirzapur)** | **Charkula (Braj)** | Kajri = Monsoon folk song of Mirzapur/Banaras; Charkula = 108-lamp dance of Braj (Mathura). |
+| **Alha (Bundelkhand)** | **Birha (Purvanchal)** | Alha = Martial heroic ballads of Alha-Udal (Bundelkhand); Birha = Lyrical narrative songs of Yadav community (Purvanchal). |
+| **IIPR (Kanpur)** | **IISR (Lucknow)** | IIPR = Pulses (Kanpur); IISR = Sugarcane (Lucknow); NSI = Sugar (Kanpur). |
+| **IVRI (Bareilly)** | **CIRG (Mathura)** | IVRI = Veterinary (Izatnagar, Bareilly); CIRG = Goats (Makhdoom, Farah, Mathura). |
+| **Highest SC % vs Absolute** | **Kaushambi vs Sitapur** | Highest SC percentage = **Kaushambi (34.7%)**; Highest absolute SC population = **Sitapur**. |
+| **Lowest Literacy vs Female** | **Shrawasti (Both)** | Shrawasti ranks lowest in overall literacy (46.7%), lowest in male literacy (57.2%), and lowest in female literacy (34.8%). |
+| **Highest Literacy District** | **Gautam Buddha Nagar** | Gautam Buddha Nagar has highest overall literacy (80.1%) and male literacy (88.1%), but **Kanpur Nagar** holds highest female literacy (75.1%). |
+
+---
+
+## 1. Demographics: Master Census 2011 Data for UP
+
+```
+                         UP Census 2011 Core Statistics
+                                       │
+     ┌───────────────────┬─────────────┴─────────────┬───────────────────┐
+     ▼                   ▼                           ▼                   ▼
+[Total Population]   [Density]                  [Sex Ratio]          [Literacy Rate]
+ • 19.98 Crore        • 829 / sq km              • 912 overall        • 67.68% overall
+ • 16.51% of India    • Ghaziabad: 3971 (High)   • Jaunpur: 1024      • GB Nagar: 80.1%
+ • Most populous      • Lalitpur: 242 (Low)      • GB Nagar: 851      • Shrawasti: 46.7%
+```
+
+### 1.1 Complete Census 2011 League Table
+
+| Demographic Parameter | Uttar Pradesh Figure | National Average | Top District (Highest) | Bottom District (Lowest) |
+| :--- | :---: | :---: | :--- | :--- |
+| **Total Population** | **19,98,12,341** (19.98 Cr) | 121.08 Crore | **Prayagraj (59.54 Lakh)** | **Mahoba (8.75 Lakh)** |
+| **Decadal Growth Rate (2001–11)**| **20.22%** | 17.70% | **Gautam Buddha Nagar (49.1%)**| **Kanpur Nagar (9.9%)** |
+| **Population Density** | **829 persons / km²** | 382 persons / km²| **Ghaziabad (3,971)** | **Lalitpur (242)** |
+| **Sex Ratio (Females per 1000 Males)**| **912** | 943 | **Jaunpur (1,024)** | **Gautam Buddha Nagar (851)** |
+| **Child Sex Ratio (0–6 years)** | **902** | 919 | **Balrampur (950)** | **Baghpat (841)** |
+| **Overall Literacy Rate** | **67.68%** | 73.00% | **Gautam Buddha Nagar (80.12%)**| **Shrawasti (46.74%)** |
+| **Male Literacy Rate** | **77.28%** | 80.90% | **Gautam Buddha Nagar (88.06%)**| **Shrawasti (57.16%)** |
+| **Female Literacy Rate** | **57.18%** | 64.60% | **Kanpur Nagar (75.05%)** | **Shrawasti (34.78%)** |
+| **Scheduled Caste (SC) %** | **20.69%** (4.13 Crore) | 16.60% | **Kaushambi (34.72%)** | **Baghpat (11.44%)** |
+| **Scheduled Tribe (ST) %** | **0.57%** (11.34 Lakh) | 8.60% | **Sonbhadra (20.67%)** | **Baghpat / Jalaun (0.001%)** |
+| **Urban Population %** | **22.27%** (4.45 Crore) | 31.16% | **Ghaziabad (67.6%)** | **Shrawasti (3.5%)** |
+| **Rural Population %** | **77.73%** (15.53 Crore)| 68.84% | **Shrawasti (96.5%)** | **Ghaziabad (32.4%)** |
+
+### 1.2 Top 3 & Bottom 3 Ranked Districts (Prelims Traps)
+- **Sex Ratio Top 3:** 1. Jaunpur (1024) $\rightarrow$ 2. Azamgarh (1019) $\rightarrow$ 3. Deoria (1017).
+- **Sex Ratio Bottom 3:** 1. Gautam Buddha Nagar (851) $\rightarrow$ 2. Hamirpur & Mahoba (861) $\rightarrow$ 3. Banda, Kanpur Nagar, Mathura (863).
+- **Population Density Top 3:** 1. Ghaziabad (3971) $\rightarrow$ 2. Varanasi (2395) $\rightarrow$ 3. Lucknow (1816).
+- **Population Density Bottom 3:** 1. Lalitpur (242) $\rightarrow$ 2. Sonbhadra (270) $\rightarrow$ 3. Hamirpur (275).
+- **Literacy Top 3:** 1. Gautam Buddha Nagar (80.1%) $\rightarrow$ 2. Kanpur Nagar (79.7%) $\rightarrow$ 3. Auraiya (78.9%).
+- **Literacy Bottom 3:** 1. Shrawasti (46.7%) $\rightarrow$ 2. Bahraich (49.4%) $\rightarrow$ 3. Balrampur (49.5%).
+- **Female Literacy Top 3:** 1. Kanpur Nagar (75.1%) $\rightarrow$ 2. Lucknow (71.5%) $\rightarrow$ 3. Gautam Buddha Nagar (70.8%).
+
+---
+
+## 2. Master Calendar: Fairs & Festivals (Melas) of UP
+
+*Match-the-following questions on UP Fairs appear in virtually every UPPCS Prelims paper.*
+
+| Fair / Festival (Mela) | District / Venue | Sacred Occasion / Timing | Key Historical & Cultural Highlights |
 | :--- | :--- | :--- | :--- |
-| **Population** | 19.98 Crore | **Prayagraj (Allahabad)** | Mahoba |
-| **Density (per sq. km)** | 829 (Nat: 382) | **Ghaziabad** (3971) | Lalitpur (242) |
-| **Sex Ratio** | 912 (Nat: 943) | **Jaunpur** (1024) | Gautam Buddha Nagar (851) |
-| **Child Sex Ratio (0-6 yrs)** | 902 (Nat: 919) | Balrampur (950) | Baghpat (841) |
-| **Literacy Rate** | 67.68% | **Gautam Buddha Nagar** (80.1%) | Shrawasti (46.7%) |
-| **Male Literacy** | 77.30% | Gautam Buddha Nagar (88.1%) | Shrawasti (57.2%) |
-| **Female Literacy** | 57.20% | **Kanpur Nagar** (75.1%) | **Shrawasti** (34.8%) *(Very frequent PYQ)* |
-| **SC Population %** | 20.69% | Kaushambi (34.72%) | Baghpat (11.44%) |
-| **ST Population %** | 0.57% | Sonbhadra (20.67%) | Baghpat (0.001%) |
-| **Urban Population %**| 22.3% | Ghaziabad | Shrawasti |
-
-## 2. UP Fairs & Festivals (Melas)
-*Match the following is a fixed pattern for UP Melas.*
-- **Kumbh Mela / Magh Mela:** Prayagraj (Confluence of Ganga, Yamuna, Saraswati)
-- **Bateshwar Mela:** Agra (Animal/Cattle fair on the banks of Yamuna)
-- **Nauchandi Mela:** Meerut (Symbol of Hindu-Muslim unity, starts after Holi)
-- **Dewa Sharif Mela:** Barabanki (Tomb of Haji Waris Ali Shah)
-- **Shakumbhari Devi Mela:** Saharanpur
-- **Kailash Mela:** Agra
-- **Syed Salar Mela:** Bahraich (Dargah of Ghazi Miyan)
-- **Dadri Mela:** Ballia (Cattle fair)
-- **Magh / Makar Sankranti Mela:** Gorakhpur (Khichdi Mela)
-- **Ramlila & Ramayan Mela:** Varanasi, Ayodhya, Chitrakoot
-- **Lathmar Holi:** Barsana (Mathura)
-
-## 3. Folk Dances & Songs of UP
-- **Charkula Dance:** Braj region (Mathura). Women balance 108 oil lamps on their heads.
-- **Karma Dance:** Sonbhadra and Mirzapur. Performed by the Kharwar tribe.
-- **Rai (Peacock) Dance:** Bundelkhand region (Performed by women during Janmashtami).
-- **Kajri (Folk Song):** Mirzapur, Varanasi. Sung during the rainy season (Monsoon).
-- **Birha:** Purvanchal (Eastern UP) - A folk song genre expressing separation.
-- **Alha:** Bundelkhand - Heroic ballads of Alha and Udal.
-- **Rasiya:** Braj region.
-
-## 4. Gharanas (Musical Lineages of UP)
-- **Lucknow Gharana:** Famous for Khayal & Thumri. (Wajid Ali Shah patronized it). Legendary figures: Birju Maharaj, Lachhu Maharaj, Shambhu Maharaj (Kathak Dancers).
-- **Banaras Gharana:** Famous for Thumri, Tappa, and Tabla. Girija Devi (Thumri Queen), Pandit Kishan Maharaj, Bismillah Khan (Shehnai), Ravi Shankar (Sitar).
-- **Kirana Gharana:** Founded by Abdul Karim Khan. State: Muzaffarnagar region. Bhimsen Joshi belongs to this lineage.
-- **Agra Gharana:** Founded by Haji Sujan Khan. Faiyaz Khan was a prominent singer.
-
-## 5. Institutes & Centers in UP
-- **Indian Institute of Sugarcane Research (IISR):** Lucknow
-- **National Sugar Institute:** Kanpur
-- **Indian Institute of Pulses Research (IIPR):** Kanpur
-- **Central Institute of Subtropical Horticulture (CISH):** Lucknow
-- **Central Drug Research Institute (CDRI):** Lucknow
-- **Central Potato Research Station:** Meerut (Modipuram) & Agra (Singna - CIP)
-- **Indian Institute of Vegetable Research (IIVR):** Varanasi
-- **Indian Veterinary Research Institute (IVRI):** Bareilly (Izatnagar)
-- **National Botanical Research Institute (NBRI):** Lucknow
-- **V. V. Giri National Labour Institute:** Noida
+| **Kumbh & Mahakumbh Mela** | **Prayagraj** (Triveni Sangam)| Every 12 years (Makar Sankranti)| Inscribed on **UNESCO Intangible Cultural Heritage (2017)**; largest human gathering on Earth. |
+| **Ardh Kumbh Mela** | **Prayagraj** | Every 6 years | Ritual bathing at the confluence of Ganga, Yamuna, and mythical Saraswati. |
+| **Magh Mela** | **Prayagraj** | Annually in Jan–Feb | Month-long spiritual retreat where pilgrims (*Kalpavasis*) live in austerity on river sands. |
+| **Bateshwar Mela** | **Agra** (Bateshwar) | Kartik Shukla Ekadashi | Historic **animal and cattle fair** held at the complex of 101 Shiva temples on the Yamuna. |
+| **Kailash Mela** | **Agra** (Sikandra) | 3rd Monday of Shravan | Commemorates the appearance of Lord Shiva's lingam. |
+| **Sulah-e-Kul Festival** | **Agra** | February | Cultural festival initiated by Emperor Akbar celebrating universal peace and Hindu-Muslim amity. |
+| **Nauchandi Mela** | **Meerut** | 2nd Sunday after Holi | Lasts for a month; symbolic of communal harmony between the **Navchandi Devi Temple** and the **Dargah of Bale Miyan**. |
+| **Dewa Sharif Mela** | **Barabanki** | Kartik month (Oct–Nov) | Annual Urs of celebrated 19th-century Sufi saint **Haji Waris Ali Shah**; famous for all-faith *Qawwalis*. |
+| **Syed Salar Masood Ghazi** | **Bahraich** | Jyeshtha month (May–June) | Urs at the historical Dargah of Ghazi Miyan; pilgrims offer ornate *Nishan* (flags). |
+| **Shakumbhari Devi Mela** | **Saharanpur** (Behat) | Chaitra and Ashwin Navratri | Held at the ancient Shaktipeeth temple of Goddess Shakumbhari in the Shivalik foothills. |
+| **Dadri Mela** | **Ballia** | Kartik Purnima (Nov–Dec) | India’s **second largest cattle fair**; named after Maharishi Bhrigu's disciple Dardar Muni. |
+| **Govind Saheb Mela** | **Ambedkar Nagar** (Atraulia) | Agahan Sankranti (Dec–Jan) | Large rustic rural fair commemorating Mahatma Govind Saheb; famous for cattle and indigenous crafts. |
+| **Khichdi Mela** | **Gorakhpur** (Gorakhnath Math)| Makar Sankranti (14 Jan) | Devotees offer raw rice and pulses (*Khichdi*) to Guru Gorakhnath; month-long event. |
+| **Ramnagarhiya Mela** | **Farrukhabad** (Ganga banks) | Magh month (Jan–Feb) | Month-long holy bathing gathering akin to Prayagraj Kalpavas. |
+| **Shringi Rampur Mela** | **Farrukhabad** | Kartik Purnima & Dussehra | Held at the hermitage of sage Shringi Rishi (who performed King Dasharatha's Putrakameshti Yajna). |
+| **Kampil Mela** | **Farrukhabad** (Kampilya) | Chaitra month | Sacred pilgrimage festival of the **Jain community** at the birthplace of 13th Tirthankara Vimalnath. |
+| **Parikrama / Chaurasi Kosi** | **Sitapur** (Naimisharanya) | Phalguna month | Pilgrims walk the 84-kos sacred perimeter of Naimisharanya (the legendary forest of 88,000 sages). |
+| **Devi Patan Mela** | **Balrampur** (Tulsipur) | Chaitra Navratri | Celebrated at the Maa Pateshwari Devi Shaktipeeth (associated with Guru Gorakhnath). |
+| **Kalinjar Mela** | **Banda** (Kalinjar Fort) | Kartik Purnima | Historic gathering at Neelkanth Mahadev temple inside the impregnable fort of Kalinjar. |
+| **Kajli Mela** | **Mahoba** | Shravan Purnima | Commemorates the historic victory of warrior brothers **Alha and Udal** over Prithviraj Chauhan. |
+| **Gola Gokaran Nath Mela** | **Lakhimpur Kheri** | Chaitra / Mahashivratri | Known as *"Chhoti Kashi"*; Shiva temple associated with Ravana's penance. |
+| **Soron Mela** | **Kasganj** (Soron Sukar Kshetra) | Margashirsha (Nov–Dec) | Held at the site of Lord Vishnu’s **Varaha (boar) avatar** on the banks of Haripadi Ganga. |
+| **Lathmar Holi** | **Mathura** (Barsana & Nandgaon)| Phalguna Shukla Navami | Women of Barsana (Radha’s village) playfully beat men of Nandgaon (Krishna’s village) with wooden sticks (*Lathis*). |
+| **Huranga Holi** | **Mathura** (Dauji / Baldeo) | Day after Dulhendi | Celebrated at Dauji temple where women tear the clothes of men and whip them playfully. |
+| **Chhari-mar Holi** | **Mathura** (Gokul) | Phalguna Shukla Dwadashi | Women playfully strike young boys with soft canes (*Chharis*). |
+| **Dhrupad Mela** | **Varanasi** (Tulsi Ghat) | February / Mahashivratri | 3-day all-night pure classical musical festival dedicated exclusively to the archaic **Dhrupad style**. |
+| **Nakkataiyya** | **Varanasi** (Chetganj) | Karva Chauth night | Procession celebrating Lakshmana severing the nose of Surpanakha from the Ramayana. |
+| **Ramayan Mela** | **Ayodhya & Chitrakoot** | Initiated by Ram Manohar Lohia | Conceived in 1961 by socialist leader Dr. Ram Manohar Lohia to celebrate composite folk culture. |
+| **Garhmukteshwar Mela** | **Hapur** (Garh) | Kartik Purnima | Massive bathing fair on the Ganga; ancestral tarpan and large donkey/mule trade market. |
+| **Kakora Mela** | **Badaun** (Ganga banks) | Kartik Purnima | Popularly revered as the **"Mini Kumbh of Rohilkhand"**. |
 
 ---
 
-## Practice Zone - UPPCS Format Drill
+## 3. Folk Dances & Folk Music by Cultural Zone
 
-**Q1.** Match List-I (Folk Dance) with List-II (Region) and select the correct answer:
-| List-I | List-II |
+```
+                       UP Folk Performing Arts by Zone
+                                      │
+       ┌───────────────────┬──────────┴───────────┬───────────────────┐
+       ▼                   ▼                      ▼                   ▼
+ [Braj Region]     [Bundelkhand Region]   [Purvanchal Region]   [Awadh Region]
+  • Charkula         • Rai (Peacock)        • Dhobia              • Kala Bazi
+  • Raslila          • Shaira / Saira       • Karma (Tribal)      • Dhedhia
+  • Mayur Nritya     • Alha (Heroic Song)   • Kajri (Monsoon)     • Jogini
+  • Rasiya (Song)    • Khyal & Dhuria       • Birha (Yadav)       • Sohar (Song)
+```
+
+### 3.1 Braj Region (Mathura, Vrindavan, Agra, Hathras)
+- **Charkula Dance:** Women balance a circular multi-tiered wooden pyramid containing **108 burning cotton-wick lamps** on their heads while dancing to the rhythm of *Nagaras* and *Huranga* to commemorate the birth of Radha.
+- **Raslila:** Dance drama depicting the cosmic divine love of Radha and Krishna; codified under Swami Haridas and Vallabhacharya.
+- **Mayur Nritya:** Dancers dress in vibrant garments adorned with real peacock feathers imitating the mating dance of peacocks.
+- **Jhula Nritya:** Celebrated in Shravan month where swings are tied in kadamb trees and temples.
+- **Major Folk Songs:** **Rasiya** (erotic and devotional romance), **Hori**, and **Phag**.
+
+### 3.2 Bundelkhand Region (Jhansi, Lalitpur, Banda, Mahoba, Hamirpur, Jalaun, Chitrakoot)
+- **Rai Nritya:** Celebrated peacock-mimicking folk dance performed by women of the Beriya community on the beats of *Mridang* and *Dhaphla* during Janmashtami and weddings.
+- **Shaira (Saira) Dance:** Fast-paced stick dance performed by agrarian youth during the monsoon crop-sowing and harvest; dancers strike sticks together rhythmically.
+- **Khyal Nritya:** Celebrates the birth of a male child; dancers carry wooden horse effigies (*Kathi*) and balance decorative brass vessels.
+- **Dhuria Dance:** Performed by men of the potter (*Kumhar*) community who dress in female attire to invoke the blessings of Goddess Saraswati.
+- **Kartik Dance:** Gopi-Krishna devotional dance performed in the sacred month of Kartik.
+- **Devi Nritya:** Dramatic ritual dance invoking local village guardian goddesses.
+- **Diwari / Deepawali Dance:** Martial stick-combat dance performed by the Ahir/Yadav community during Diwali wielding peacock feathers and wooden cudgels.
+- **Major Folk Songs:**
+  - **Alha:** Heroic ballads in *Banaffari* dialect recounting the 52 epic battles of generals Alha and Udal under King Paramardideva (Chandel dynasty).
+  - **Isuri Phag:** Rhyming four-line couplets (*Chaukadiya*) composed by 19th-century poet Isuri.
+  - **Hardaul Katha:** Ballads commemorating Prince Hardaul’s self-sacrifice for his brother’s honor.
+
+### 3.3 Purvanchal Region (Varanasi, Mirzapur, Sonbhadra, Ghazipur, Gorakhpur, Azamgarh, Ballia)
+- **Dhobia Dance:** Traditional dance of the washerman (*Dhobi*) community; two performers enact the relationship between a washerman and his donkey accompanied by *Mridang*.
+- **Karma & Shila Dance:** Performed exclusively in **Sonbhadra and Mirzapur** by indigenous tribal groups (**Kharwar, Kol, Baiga, Oraon**); dancers link hands in undulating waves around the sacred Karma tree.
+- **Natwari Dance:** Martial and celebratory folk dance of the Yadav community mimicking Lord Krishna's subjugation of the poisonous serpent Kaliya.
+- **Kaharwa Dance:** Performed by the palanquin-bearer (*Kahar*) community during weddings.
+- **Jogini Dance:** Performed on Ramnavami by male dancers dressed as women, wandering through temple courtyards.
+- **Major Folk Songs:**
+  - **Kajri:** Born in **Mirzapur** (linked to Goddess Vindhyavasini); lyrical seasonal songs sung during monsoon *Teej* expressing the longing of married women for their husbands.
+  - **Birha:** Dominant narrative genre of the Bhojpuri belt; recounts social struggles, historical courage, and love tales accompanied by *Kartal*.
+  - **Chaiti:** Sung in the Hindu month of Chaitra (spring), laced with the refrains *"Ho Rama"*.
+  - **Sohar:** Auspicious domestic songs sung exclusively on the birth of a child.
+
+### 3.4 Awadh Region (Lucknow, Ayodhya, Barabanki, Sultanpur, Rae Bareli)
+- **Kala Bazi:** Acrobatic dance where performers ride mock horses while playing the *Rawana-hattha* instrument.
+- **Dhedhia Dance:** Performed during Navratri; women balance pierced clay pots (*Dhedhia*) containing glowing lamps on their heads.
+- **Jogini:** Folk dance performed in Awadh during Ramnavami.
+- **Major Folk Songs:** **Sohar**, **Naktoora**, **Dadra**, **Marsiya** (mourning elegies during Muharram).
+
+---
+
+## 4. Folk Theatre (Lok Natya) of Uttar Pradesh
+
+### 4.1 Nautanki: The Crown Folk Drama
+- Traditional musical theatre of North India, flourishing across two distinctive regional schools (*Gharanas*):
+  1. **Hathras School:** Founded by **Indraman** and Govind Ram. Highly classical, poetic, dependent on intricate musical meters (*Doha, Chaubola, Chhand, Beher-e-Taveel*), with singing taking precedence over action.
+  2. **Kanpur School:** Pioneered by **Shrikrishna Pahalwan**. More theatrical, spoken-prose dialogue oriented, entertainment-focused, and accessible to the urban working class.
+
+### 4.2 Raslila & Ramlila
+- **Raslila:** Traditional operatic dance-drama centred at Mathura-Vrindavan depicting Krishna’s childhood exploits (*Balkaand*) and romance with Radha.
+- **Ramlila of Ramnagar (Varanasi):** Patronized by the Maharaja of Banaras; enacted across 31 continuous days using the entire town of Ramnagar as open-air stages. Inscribed on the **UNESCO Representative List of Intangible Cultural Heritage of Humanity in 2008**.
+
+---
+
+## 5. Classical Music, Dance & Master Gharanas of UP
+
+```
+                        Musical & Dance Gharanas of UP
+                                      │
+     ┌───────────────────┬────────────┴────────────┬───────────────────┐
+     ▼                   ▼                         ▼                   ▼
+[Lucknow Gharana]   [Banaras Gharana]       [Kirana Gharana]     [Agra Gharana]
+ • Kathak Dance      • Shehnai (Bismillah)   • Abdul Karim Khan   • Haji Sujan Khan
+ • Thumri / Dadra    • Tabla (Kishan Maharaj)• Bhimsen Joshi      • Faiyaz Khan
+ • Birju Maharaj     • Girija Devi (Thumri)  • Shamli / Muzaffar. • "Rangeela" style
+```
+
+### 5.1 Lucknow Gharana
+- **Kathak Classical Dance:** Founded by **Ishwari Prasad**; patronized lavishly by the Nawabs of Awadh, especially **Nawab Wajid Ali Shah 'Akhtarpiya'** (who wrote the first dance drama *Indrasabha*).
+  - *Golden Kathak Dynasty:* Thakur Prasad $\rightarrow$ Kalka Prasad & Bindadin Maharaj $\rightarrow$ Achhan Maharaj, Shambhu Maharaj, Lachhu Maharaj $\rightarrow$ **Pandit Birju Maharaj** (Kalka-Bindadin lineage).
+- **Vocal & Sitar:** Acclaimed for *Thumri*, *Dadra*, and *Ghazal*.
+  - **Begum Akhtar (Akhtari Bai Faizabadi):** Revering as *"Mallika-e-Ghazal"*; Padma Bhushan awardee.
+  - Sitar maestros: Yusuf Ali Khan, Ilyas Khan.
+  - Tabla: Khurshid Ali Khan, Modu Khan.
+
+### 5.2 Banaras Gharana
+- Synthesized classical rigor with rustic devotional Bhakti ethos.
+- **Tabla Titans:** **Pandit Kishan Maharaj** (Padma Vibhushan), **Pandit Samta Prasad 'Gudai Maharaj'**, Pandit Anokhelal Mishra, Pandit Kanthe Maharaj.
+- **Shehnai:** **Ustad Bismillah Khan** — born in Dumraon (Bihar) but spent his entire artistic life at the ghats of Banaras; awarded India's highest civilian honour, the **Bharat Ratna in 2001**.
+- **Sitar:** **Pandit Ravi Shankar** — international sitar virtuoso; disciple of Ustad Allauddin Khan; awarded the **Bharat Ratna in 1999**.
+- **Thumri, Dadra & Chaiti Queens:** **Girija Devi** (revered as the *"Queen of Thumri"* / Padma Vibhushan), **Siddheshwari Devi**, **Rasoolan Bai**, **Badi Moti Bai**.
+- **Kathak Exponent:** **Sitara Devi** (hailed as *"Nritya Samragni"* by Rabindranath Tagore).
+
+### 5.3 Kirana Gharana
+- **Founders:** **Ustad Abdul Karim Khan** and **Ustad Abdul Wahid Khan**.
+- **Geographical Root:** Named after the ancestral town of **Kirana (Kairana)** in present-day Shamli / Muzaffarnagar district of Western UP.
+- **Artistic Style:** Characterized by slow tempo (*Vilambit laya*), microtonal intonation (*Swar-lagav*), and high emotional sweetness.
+- **Legendary Exponents:** **Pandit Bhimsen Joshi** (awarded Bharat Ratna in 2008), **Gangubai Hangal**, **Prabha Atre**, Pandit Sawai Gandharva, Hirabai Barodekar.
+
+### 5.4 Agra Gharana (The "Rangeela" Gharana)
+- **Founders:** Traced back to **Haji Sujan Khan** (contemporary of Tansen) and Dayam Khan.
+- **Transformation:** Rejuvenated into the vibrant *Rangeela Gharana* by **Ustad Faiyaz Khan** (who was bestowed the title *Aftab-e-Mousiqi* by the Maharaja of Mysore).
+- **Style:** Robust, full-throated singing, blending Dhrupad-Dhamar with Khayal.
+
+### 5.5 Atrauli Gharana (Aligarh)
+- Founded by **Ustad Alladiya Khan**; celebrated for complicated melodic patterns (*Vakra ragas*).
+
+---
+
+## 6. Geographical Indications (GI Tags) & One District One Product (ODOP)
+
+*Uttar Pradesh holds the second-highest number of GI tags in India (over 50 registered items).*
+
+| District | Registered GI Tag Product(s) | Category & High-Yield Characteristics |
+| :--- | :--- | :--- |
+| **Varanasi** | **Banaras Brocades and Sarees** | World-famous handloom silk with gold/silver Zari. |
+| **Varanasi** | **Gulabi Meenakari** | Rare pink enamel metalwork on silver/gold jewellery. |
+| **Varanasi** | **Wooden Lacquerware & Toys** | Lathe-turned traditional non-toxic wooden toys. |
+| **Varanasi** | **Metal Repousse Craft** | Hand-embossed copper and brass temple sheets. |
+| **Varanasi** | **Banarasi Paan (Betel Leaf)** | Culturally iconic betel leaf preparation (GI Tag 2023). |
+| **Varanasi** | **Banaras Langra Mango** | Distinct aromatic, greenish sweet mango variety. |
+| **Varanasi** | **Ramnagar Bhanta (Brinjal)** | Giant round, sweet brinjal variety grown in Ramnagar. |
+| **Chandauli** | **Adamchini Rice** | Aromatic non-basmati, slender indigenous rice variety. |
+| **Bhadohi** | **Handmade Carpet of Bhadohi** | India’s premier carpet export hub ("Carpet City"). |
+| **Mirzapur** | **Mirzapur Handmade Dari & Brassware**| Handwoven cotton/wool carpets and cast brass vessels. |
+| **Gorakhpur** | **Gorakhpur Terracotta** | Distinctive reddish, baked-clay animal figurines made by local Prajapati potters. |
+| **Kannauj** | **Kannauj Perfume (Ittar)** | Ancient hydro-distillation method (*Deg-Bhapka*); "Perfume Capital of India". |
+| **Firozabad** | **Firozabad Glass (Glassware)** | Bangle-making and glass blowing capital ("Suhag Nagari"). |
+| **Moradabad** | **Moradabad Metal Craft** | Hand-engraved brassware ("Peetal Nagari"). |
+| **Khurja (Bulandshahr)**| **Khurja Ceramic Pottery** | Glazed ceramic tiles, bowls, and sanitaryware. |
+| **Saharanpur** | **Saharanpur Wood Carving** | Intricate floral wood carving on Sheesham and teak. |
+| **Lucknow** | **Lucknow Chikan Craft** | Delicate hand-embroidery on muslin/cotton (36 stitches). |
+| **Lucknow** | **Lucknow Zardozi** | Raised metallic thread gold/silver embroidery. |
+| **Aligarh** | **Aligarh Locks & Hardware** | Premier lock manufacturing centre of India ("Tala Nagari"). |
+| **Hathras** | **Hathras Hing (Asafoetida)** | Renowned compounded asafoetida processing hub. |
+| **Sambhal** | **Sambhal Horn & Bone Craft** | Upcycled animal bone and buffalo-horn decorative cutlery. |
+| **Amroha** | **Amroha Dholak** | Percussion instruments carved from natural mango/sheesham wood. |
+| **Baghpat** | **Baghpat Home Furnishings** | Handloom cotton bedsheets and woven fabrics. |
+| **Barabanki** | **Barabanki Handloom** | Traditional rural loom-woven fabrics. |
+| **Kalpi (Jalaun)** | **Kalpi Handmade Paper** | Eco-friendly handmade paper from waste rags/cotton pulp. |
+| **Mahoba** | **Mahoba Gaura Patthar Hastashilp** | Soft, radiant white pyrophyllite stone carvings. |
+| **Mainpuri** | **Mainpuri Tarkashi** | Inlaying brass, copper, or iron wire into seasoned sheesham wood. |
+| **Ghazipur** | **Ghazipur Wall Hanging** | Jute and cotton hand-knotted ornamental tapestries. |
+| **Siddharthnagar**| **Kalanamak Rice** | Scented black-husk rice; revered as *"Buddha's Gift"*. |
+| **Pratapgarh** | **Pratapgarh Aonla (Gooseberry)** | Leading Indian producer of processed gooseberry products. |
+| **Prayagraj** | **Surkha Guava** | Renowned apple-colored, sweet red-pulped guava. |
+| **Muzaffarnagar** | **Muzaffarnagar Gur (Jaggery)** | Largest jaggery trading market in Asia. |
+| **Nizamabad (Azamgarh)**| **Nizamabad Black Pottery** | Fired under reduction in sawdust pits, yielding a lustrous black finish etched with silvery zinc-mercury foil. |
+
+---
+
+## 7. Master Directory: Central & State Research Institutes in UP
+
+*This table represents the highest repeated match-the-pair category in UPPCS General Studies.*
+
+```
+                       UP Institutes by Major Centers
+                                      │
+     ┌───────────────────┬────────────┴────────────┬───────────────────┐
+     ▼                   ▼                         ▼                   ▼
+ [Lucknow Hub]      [Kanpur Hub]              [Varanasi Hub]       [Bareilly & West]
+  • CDRI (Drugs)     • IIPR (Pulses)           • IIVR (Vegetable)   • IVRI (Veterinary)
+  • CIMAP (Aromatic) • NSI (Sugar)             • NSRTC (Seed)       • CARI (Avian)
+  • NBRI (Botanical) • CLRI (Leather Centre)   • Handloom Tech.     • CIRG (Goats, Mathura)
+  • IISR (Sugarcane) • HBTI (Technical)        • BHU (1916)         • CIRC (Cattle, Meerut)
+  • IITR (Toxicology)
+```
+
+### 7.1 Lucknow Cluster
+1. **Central Drug Research Institute (CDRI):** CSIR laboratory; developed *Centchroman / Saheli* (world's first non-steroidal weekly oral contraceptive pill).
+2. **Central Institute of Medicinal and Aromatic Plants (CIMAP):** CSIR apex institute for mint, patchouli, and lemongrass biotechnology.
+3. **National Botanical Research Institute (NBRI):** CSIR institute for plant taxonomy, floriculture, and botanical gardens.
+4. **Indian Institute of Toxicology Research (IITR):** CSIR institute studying industrial toxins, water safety, and food additives.
+5. **Indian Institute of Sugarcane Research (IISR):** ICAR premier sugarcane cultivation and varietal breeding institute (located at Dilkusha). *(Do not confuse with Sugar Institute at Kanpur)*.
+6. **Central Institute of Subtropical Horticulture (CISH):** ICAR centre at Rehmankhera (Lucknow); apex body for mango, guava, and litchi varieties.
+7. **Birbal Sahni Institute of Palaeosciences (BSIP):** Autonomous DST institute dedicated to fossil botany and continental drift research.
+8. **National Bureau of Fish Genetic Resources (NBFGR):** ICAR apex institute for aquatic germplasm and DNA barcoding.
+9. **Regional Science City:** Apex science communication centre in UP.
+
+### 7.2 Kanpur Cluster
+1. **Indian Institute of Pulses Research (IIPR):** Apex ICAR institute responsible for pulse breeding (chickpea, pigeon pea, lentils).
+2. **National Sugar Institute (NSI):** Under Ministry of Consumer Affairs; premier institute for sugar processing technology and alcohol fermentation. *(Do not confuse with Sugarcane Research at Lucknow)*.
+3. **Harcourt Butler Technical University (HBTU / HBTI):** Established in 1921; pioneer in oil, chemical, and paint technology.
+4. **Central Leather Research Institute (CLRI Regional Centre):** Leather R&D hub at the leather industrial cluster of Jajmau.
+5. **Chhatrapati Shahu Ji Maharaj University (CSJMU):** Established 1966; apex regional state university.
+6. **Chandra Shekhar Azad University of Agriculture and Technology (CSAUAT):** Established 1975.
+
+### 7.3 Varanasi Cluster
+1. **Indian Institute of Vegetable Research (IIVR):** Apex ICAR institute situated at Jakhini (Varanasi); responsible for breeding tomato, brinjal, okra, and chili cultivars.
+2. **National Seed Research and Training Centre (NSRTC):** Apex statutory laboratory for seed quality certification and training.
+3. **Indian Institute of Handloom Technology (IIHT):** Chowkaghat, Varanasi.
+4. **Banaras Hindu University (BHU):** Founded in **1916** by **Pandit Madan Mohan Malaviya** under the BHU Act 1915; first central university established in Uttar Pradesh.
+5. **Sampurnanand Sanskrit Vishwavidyalaya:** Oldest university in UP; established as Government Sanskrit College in **1791** by British Resident **Jonathan Duncan**.
+
+### 7.4 Bareilly & Rohilkhand Cluster
+1. **Indian Veterinary Research Institute (IVRI):** Located at **Izatnagar (Bareilly)**; deemed university; premier veterinary R&D, animal vaccine, and biotechnology centre.
+2. **Central Avian Research Institute (CARI):** Located at **Izatnagar (Bareilly)**; dedicated to poultry, quail, turkey, and duck farming technologies.
+
+### 7.5 Western UP & Bundelkhand Cluster
+1. **Central Institute for Research on Goats (CIRG):** Located at **Makhdoom, Farah (Mathura)**; apex ICAR body for goat breed conservation (Jamunapari, Barbari).
+2. **Pt. Deen Dayal Upadhyaya Veterinary University (DUVASU):** Located at **Mathura**.
+3. **Indian Grassland and Fodder Research Institute (IGFRI):** Located at **Jhansi** (established 1962); premier institute for grazing lands and forage crops.
+4. **Central Agroforestry Research Institute (CAFRI):** Located at **Jhansi** (formerly NRCAF).
+5. **Central Institute for Research on Cattle (CIRC):** Located at **Meerut (Cantt)**; ICAR institute for indigenous cattle breed improvement.
+6. **Central Potato Research Station (CPRS):** Located at **Modipuram (Meerut)**.
+7. **ICMR National JALMA Institute for Leprosy & Other Mycobacterial Diseases:** Located at **Agra**.
+8. **Central Paper and Pulp Research Institute (CPPRI):** Located at **Saharanpur**.
+9. **V. V. Giri National Labour Institute:** Located at **Noida (Gautam Buddha Nagar)**.
+10. **Harish-Chandra Research Institute (HRI):** Located at **Jhunsi (Prayagraj)**; premier DAE institute for theoretical physics and mathematics.
+11. **Paan Experiment and Training Centre:** Located at **Mahoba**.
+12. **Banda University of Agriculture and Technology (BUAT):** Located at **Banda** (established 2010).
+
+---
+
+## Practice Zone: UPPCS 10-Question Master Drill
+
+**Q1.** Match List-I (Folk Dance of UP) with List-II (Region) and select the correct answer:
+| List-I (Folk Dance) | List-II (Region) |
 | :--- | :--- |
 | A. Charkula | 1. Bundelkhand |
 | B. Karma | 2. Braj |
 | C. Rai | 3. Purvanchal |
-| D. Birha | 4. Sonbhadra |
+| D. Dhobia | 4. Sonbhadra |
 
 A. A-2, B-4, C-1, D-3  
 B. A-4, B-2, C-1, D-3  
 C. A-2, B-4, C-3, D-1  
 D. A-1, B-4, C-2, D-3  
+*Answer:* **A** (Charkula = Braj; Karma = Sonbhadra tribal; Rai = Bundelkhand; Dhobia = Purvanchal).
 
-<details>
-<summary>Show answer</summary>
-
-**Ans: A.** Charkula (Braj), Karma (Sonbhadra), Rai (Bundelkhand), Birha (Purvanchal).
-</details>
-
-**Q2.** As per the 2011 Census, which district of Uttar Pradesh has the lowest female literacy rate?
-A. Rampur  
-B. Balrampur  
-C. Shrawasti  
-D. Bahraich  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C.** Shrawasti holds the record for the lowest female literacy (34.8%), lowest overall literacy, and lowest male literacy in UP.
-</details>
-
-**Q3.** Which of the following pairs (Institute - Location) is NOT correctly matched?
-A. Indian Institute of Pulses Research - Kanpur  
-B. Central Drug Research Institute - Lucknow  
-C. Indian Institute of Vegetable Research - Varanasi  
-D. Indian Veterinary Research Institute - Mathura  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D.** IVRI is located in Izatnagar (Bareilly), not Mathura.
-</details>
-
-**Q4.** The famous "Dewa Sharif Mela" is held annually in which district of Uttar Pradesh?
+**Q2.** According to Census 2011 data, which district in Uttar Pradesh registered the lowest female literacy rate?  
 A. Bahraich  
+B. Rampur  
+C. Shrawasti  
+D. Balrampur  
+*Answer:* **C** (Shrawasti registered the lowest female literacy at 34.78%, as well as lowest male and overall literacy).
+
+**Q3.** The famous annual 'Dewa Sharif Mela' is held in which district of Uttar Pradesh?  
+A. Meerut  
 B. Barabanki  
-C. Saharanpur  
-D. Meerut  
+C. Bahraich  
+D. Saharanpur  
+*Answer:* **B** (Dewa Sharif Mela is held at Barabanki at the tomb of Sufi saint Haji Waris Ali Shah).
 
-<details>
-<summary>Show answer</summary>
+**Q4.** Which of the following pairs (Institute — Location) is INCORRECTLY matched?  
+A. Indian Institute of Pulses Research — Kanpur  
+B. Indian Institute of Sugarcane Research — Lucknow  
+C. Indian Institute of Vegetable Research — Varanasi  
+D. Indian Veterinary Research Institute — Mathura  
+*Answer:* **D** (IVRI is located in Izatnagar, Bareilly, not Mathura. Mathura houses CIRG and DUVASU).
 
-**Ans: B.** Dewa Sharif Mela is held in Barabanki at the tomb of Sufi saint Haji Waris Ali Shah.
-</details>
+**Q5.** In which district of Uttar Pradesh is the historic 'Bateshwar Cattle Fair' organized?  
+A. Ballia  
+B. Agra  
+C. Meerut  
+D. Farrukhabad  
+*Answer:* **B** (Bateshwar Mela is held in Agra on the banks of Yamuna; Dadri cattle fair is in Ballia).
 
-**Q5.** Pandit Birju Maharaj, a legendary exponent of Kathak, was associated with which Gharana?
-A. Banaras Gharana  
-B. Lucknow Gharana  
-C. Agra Gharana  
-D. Kirana Gharana  
+**Q6.** The Kirana Gharana of Hindustani classical vocal music was founded by:  
+A. Ustad Faiyaz Khan  
+B. Ustad Abdul Karim Khan  
+C. Pandit Birju Maharaj  
+D. Ustad Alladiya Khan  
+*Answer:* **B** (Ustad Abdul Karim Khan and Abdul Wahid Khan founded the Kirana Gharana in Shamli/Muzaffarnagar).
 
-<details>
-<summary>Show answer</summary>
+**Q7.** Which district of Uttar Pradesh has the highest sex ratio as per Census 2011?  
+A. Azamgarh  
+B. Deoria  
+C. Jaunpur  
+D. Pratapgarh  
+*Answer:* **C** (Jaunpur recorded the highest sex ratio at 1,024 females per 1,000 males).
 
-**Ans: B.** Birju Maharaj (Kalka-Bindadin gharana) is widely recognized as part of the broader Lucknow Gharana of Kathak.
-</details>
+**Q8.** The renowned folk song genre 'Alha', which narrates the chivalric exploits of warriors Alha and Udal, belongs to which region of Uttar Pradesh?  
+A. Purvanchal  
+B. Braj  
+C. Bundelkhand  
+D. Rohilkhand  
+*Answer:* **C** (Bundelkhand).
+
+**Q9.** The product 'Black Pottery', which holds an official Geographical Indication (GI) tag, belongs to which district in UP?  
+A. Gorakhpur  
+B. Khurja  
+C. Nizamabad (Azamgarh)  
+D. Mirzapur  
+*Answer:* **C** (Nizamabad in Azamgarh produces GI-tagged black pottery; Khurja produces glazed ceramic pottery).
+
+**Q10.** The Indian Grassland and Fodder Research Institute (IGFRI) is situated at:  
+A. Kanpur  
+B. Jhansi  
+C. Bareilly  
+D. Lucknow  
+*Answer:* **B** (Jhansi).
