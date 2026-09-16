@@ -1,19 +1,35 @@
 # Daily Read — High-Yield Revision Facts (Indian Polity & Governance)
-### ★ UPPCS + UKPCS Prelims Daily Sheet · Articles, schedules, bodies, and confused-pair recall
+### ★ UPPCS & UKPCS Prelims Daily Fact Dump · Active Recall Cheat-Sheet
 
-> **Use:** Morning cycle, 15–20 minutes. Rotate sections so the full sheet is covered in about a week.  
-> **Stems this sheet feeds:** Article numbers, Parts & Schedules, constitutional vs statutory bodies, amendments, SC cases, PR committees, borrowed features, emergency, UP + Uttarakhand polity.  
-> **Last filled:** September 2026 — borrowed features, Acts 1773–1950, 11 Duties, emergency table, Parliament, UP Special, Uttarakhand polity.
-
-**Seven-day rotation:** 1 Parts + Schedules · 2 FR + DPSP + Duties · 3 Union/State comparison + Parliament · 4 Amendments + emergency · 5 Bodies + PR committees · 6 SC judgments + borrowed features + CA dates · 7 UP Special + Uttarakhand polity.
+> **Exam Focus:** UPPSC Prelims (Paper 1), UKPSC Prelims (Paper 1), RO/ARO, BEO  
+> **Frequency:** Daily morning read (15–20 mins)  
+> **Question Types Covered:** Direct Article numbers, Schedules & Parts, Borrowed features, Warrant of Precedence, Parliamentary terms & committees, Constitutional vs Statutory Bodies, Amendments, Landmark SC Judgments, Panchayati Raj Committees, State-specific seats.
 
 ---
 
-## 1. Parts of the Indian Constitution (All 25 Parts Cheat-Sheet)
+## 1. Borrowed Features of the Indian Constitution (Country-Wise Master Table)
+
+| Source Country / Document | Borrowed Features & Principles |
+|---|---|
+| **Government of India Act 1935** (*Major Source — >50% of text*) | Federal Scheme, Office of Governor, Judiciary structure, Public Service Commissions (UPSC/SPSC), Emergency provisions (administrative details), Administrative details. |
+| **United Kingdom (British Constitution)** | Parliamentary form of government, Rule of Law (Art. 14), Legislative procedure, **Single Citizenship**, Cabinet system, Prerogative **Writs** (Art. 32/226), Parliamentary privileges (Art. 105), **Bicameralism**, Office of Speaker & Deputy Speaker. |
+| **United States (American Constitution)** | **Fundamental Rights** (Part III), Independence of Judiciary, **Judicial Review** (Art. 13), **Impeachment of the President** (Art. 61), Removal of Supreme Court & High Court judges, Post of **Vice-President** (ex-officio Chairman of Rajya Sabha), Preamble phrasing ("We the People"). |
+| **Ireland (Irish Constitution 1937)** | **Directive Principles of State Policy (DPSP)** (Part IV), Nomination of 12 members to Rajya Sabha by President, Method of **Election of the President** (proportional representation by STV). |
+| **Canada** | Federation with a **strong Centre**, Vesting of **Residuary Powers in the Centre** (Art. 248), **Appointment of State Governors by the Centre**, Advisory jurisdiction of the Supreme Court (Art. 143). |
+| **Australia** | **Concurrent List** (7th Schedule), Freedom of Trade, Commerce, and Intercourse (Part XIII), **Joint Sitting of both Houses of Parliament** (Art. 108). |
+| **Germany (Weimar Constitution)** | **Suspension of Fundamental Rights during National Emergency** (Art. 359). *(Note: Emergency itself is from GOI 1935, suspension of FR is from Weimar!)* |
+| **USSR / Russia (Soviet Constitution)** | **Fundamental Duties** (Art. 51A, Part IVA - 42nd Amd 1976), Ideals of **Justice (Social, Economic, and Political)** in the Preamble, Five-Year Plans. |
+| **France (French Constitution)** | Ideals of **Liberty, Equality, and Fraternity** in the Preamble; **Republic** character of the Indian State. |
+| **South Africa** | Procedure for **Amendment of the Constitution** (Art. 368), **Election of members of the Rajya Sabha** (by elected MLAs via STV). |
+| **Japan** | Procedure established by Law (*Vidhi dwara sthapit prakriya* - Art. 21). |
+
+---
+
+## 2. Parts of the Indian Constitution (All 25 Parts Cheat-Sheet)
 
 *Originally 22 Parts in 1950; currently 25 Parts (counting sub-parts: IVA, IXA, IXB, XIVA; Part VII repealed).*
 
-| Part | Roman | Subject Matter Covered | Article Span | Key Prelims Takeaway |
+| Part | Roman | Subject Matter Covered | Article Span | Key Prelims Takeaway / Recurring Trap |
 |---|---|---|---|---|
 | **Part I** | **I** | **The Union and its Territory** | **Arts. 1–4** | Art. 1: "India, that is Bharat, shall be a Union of States"; Art. 3: Parliament alters state boundaries/names by simple majority |
 | **Part II** | **II** | **Citizenship** | **Arts. 5–11** | Single citizenship (borrowed from UK); Citizenship Act 1955 |
@@ -28,7 +44,7 @@
 | **Part IXA** | **IX-A** | **The Municipalities** | **Arts. 243P to 243ZG** | Inserted by **74th Amendment 1992**; Urban Local Bodies; 12th Schedule (18 functional items) |
 | **Part IXB** | **IX-B** | **The Co-operative Societies** | **Arts. 243ZH to 243ZT** | Inserted by **97th Amendment 2011** (partially struck down in 2021 for state cooperatives, holds for multi-state) |
 | **Part X** | **X** | **The Scheduled and Tribal Areas** | **Arts. 244–244A** | 5th & 6th Schedules administration |
-| **Part XI** | **XI** | **Relations between the Union and the States** | **Arts. 245–263** | Ch. 1: Legislative Relations (245–255), Ch. 2: Administrative Relations (256–263); Art. 263: Inter-State Council |
+| **Part XI** | **XI** | **Relations between the Union and the States** | **Arts. 245–263** | Ch. 1: Legislative Relations (245–255), Ch. 2: Administrative Relations (256–263); Art. 263: Inter-State Council. **Trap: NOT municipalities or tribunals!** |
 | **Part XII** | **XII** | **Finance, Property, Contracts and Suits** | **Arts. 264–300A** | Consolidated Fund (266), Contingency Fund (267), GST Council (279A), Finance Commission (280); **Art. 300A**: Right to Property (Legal/Constitutional right, NOT fundamental right!) |
 | **Part XIII** | **XIII** | **Trade, Commerce and Intercourse within India** | **Arts. 301–307** | Freedom of inter-state trade and commerce |
 | **Part XIV** | **XIV** | **Services under the Union and the States** | **Arts. 308–323** | All India Services (Art. 312 created by Rajya Sabha); UPSC & State PSCs (Arts. 315–323) |
@@ -44,7 +60,7 @@
 
 ---
 
-## 2. All 12 Schedules (The Master Mnemonic: TEARS OF OLD PM)
+## 3. All 12 Schedules (The Master Mnemonic: TEARS OF OLD PM)
 
 | Schedule | Mnemonic Letter | Subject Matter | Key Details / High-Yield Trap |
 |---|---|---|---|
@@ -63,7 +79,82 @@
 
 ---
 
-## 3. High-Frequency Articles Must-Revise Daily
+## 4. Warrant of Precedence (Order of Precedence, 1979 Notification)
+
+*Frequently tested in arrange-order questions in UPPCS/UKPCS:*
+
+1. **Rank 1**: **President of India**
+2. **Rank 2**: **Vice-President of India**
+3. **Rank 3**: **Prime Minister of India**
+4. **Rank 4**: **Governors of States** (within their respective States)
+5. **Rank 5**: **Former Presidents**
+   - *Rank 5A*: **Deputy Prime Minister** (if any)
+6. **Rank 6**: **Chief Justice of India (CJI)** and **Speaker of Lok Sabha** (*Both have equal rank!*)
+7. **Rank 7**: **Cabinet Ministers of the Union**, **Chief Ministers of States** (within respective states), Deputy Chairman of NITI Aayog (former Planning Commission), **Leaders of Opposition in Rajya Sabha and Lok Sabha**
+   - *Rank 7A*: **Holders of Bharat Ratna**
+8. **Rank 8**: Ambassadors Extraordinary & Plenipotentiary, Chief Ministers (outside their respective states), Governors (outside their respective states)
+9. **Rank 9**: **Judges of the Supreme Court of India**
+   - *Rank 9A*: **Chief Election Commissioner (CEC)**, **Comptroller and Auditor General (CAG)**, Chairperson of UPSC
+10. **Rank 10**: Deputy Chairman of Rajya Sabha, Deputy Speaker of Lok Sabha, Deputy Chief Ministers, Ministers of State of the Union
+11. **Rank 11**: **Attorney General for India**, Cabinet Secretary, Lieutenant Governors (within their UTs).
+
+---
+
+## 5. Parliamentary Terms, Motions & Working Procedure
+
+| Parliamentary Term | Core Meaning & Procedural Rules |
+|---|---|
+| **Question Hour** | First hour of every parliamentary sitting (11:00 AM to 12:00 PM):  <br>• **Starred Questions**: Oral answers required; **supplementary questions CAN be asked** (green paper).  <br>• **Unstarred Questions**: Written answers required; **NO supplementary questions allowed** (white paper).  <br>• **Short Notice Questions**: Relates to matter of urgent public importance; asked with less than 10 days notice; answered orally (light pink paper). |
+| **Zero Hour** | **Unique Indian parliamentary innovation (introduced in 1962)**; starts immediately after Question Hour (12:00 PM); members raise urgent matters without prior notice; **not mentioned in Rules of Procedure**. |
+| **Adjournment Motion** | Introduced in **LOK SABHA ONLY** to draw attention to a definite matter of urgent public importance; requires support of **at least 50 members** to be admitted; sitting adjourned for debate $\ge 2.5$ hours; involves censure of government. |
+| **No-Confidence Motion** | Moved in **LOK SABHA ONLY** under Rule 198; requires support of **at least 50 members**; no specific grounds needed; if passed, Council of Ministers must resign. |
+| **Censure Motion** | Moved in Lok Sabha against specific ministers or entire council for specific policies; requires specific grounds; if passed, government is not obligated to resign immediately but must seek confidence. |
+| **Calling Attention Motion** | Indian parliamentary innovation (since 1954); calling attention of a Minister to a matter of urgent public importance and seeking an authoritative statement. Mentioned in Rules of Procedure. |
+| **Cut Motions** | Moved during Budget debate (Lok Sabha only):  <br>1. **Disapproval of Policy Cut**: Amount reduced to **Re 1** (shows complete policy rejection).  <br>2. **Economy Cut**: Amount reduced by a specific lump sum.  <br>3. **Token Cut**: Amount reduced by **Rs 100** to express specific grievance. |
+| **Guillotine** | When time allotted for discussion on demands for grants concludes, all remaining undiscussed demands are put to vote immediately without debate. |
+| **Lame-Duck Session** | Refers to the last session of the existing Lok Sabha after a new Lok Sabha has been elected. Those existing MPs who failed to get re-elected are called "Lame Ducks". |
+| **Quorum** | Minimum number of members required to be present to conduct a sitting: **1/10th of total membership** of the House (55 in Lok Sabha, 25 in Rajya Sabha) per **Article 100(3)**. |
+
+---
+
+## 6. Parliamentary Committees (Must-Memorize Facts)
+
+| Committee Name | Total Strength | Lok Sabha Members | Rajya Sabha Members | Term | Chairperson Rules & Key Functions |
+|---|---|---|---|---|---|
+| **Public Accounts Committee (PAC)** | **22** | **15** | **7** | **1 year** | Set up first in **1921** (GOI Act 1919); scrutinizes **CAG Audit Reports**; elected by PR by STV; **Ministers CANNOT be members**; by convention since **1967**, Chairperson is appointed by the Speaker from the **Opposition**; known as **"Twin sister" of Estimates Committee** and **"Friend, Philosopher, and Guide"** of the CAG. |
+| **Estimates Committee** | **30** | **30** | **0 (NO RS!)** | **1 year** | Set up in **1950** on recommendation of Finance Minister **John Mathai**; **LARGEST PARLIAMENTARY COMMITTEE**; all 30 members from Lok Sabha only; examines budget estimates and suggests alternative policies ("Continuous Economy Committee"); Chairperson appointed by Speaker from ruling party. |
+| **Committee on Public Undertakings (COPU)** | **22** | **15** | **7** | **1 year** | Created in **1964** on recommendation of **Krishna Menon Committee**; examines reports of CAG on public undertakings; Chairperson appointed by Speaker from Lok Sabha members only. |
+| **Departmentally Related Standing Committees (DRSCs)** | **31** (each) | **21** | **10** | **1 year** | Total **24 DRSCs** (16 work under Lok Sabha, 8 under Rajya Sabha); examine demands for grants, bills, and annual reports of respective ministries. |
+
+---
+
+## 7. Constitutional Offices: Age Limits, Tenures & Appointments
+
+| Office / Position | Minimum Age Required | Retirement Age / Term of Office | Appointed By | Resignation Submitted To | Removal Procedure |
+|---|---|---|---|---|---|
+| **President of India** | **35 years** | **5 years** (eligible for re-election) | Electoral College (Elected MPs of LS/RS + Elected MLAs of States/UTs - Art. 54) | **Vice-President** | **Impeachment under Art. 61** (Quasi-judicial, 14 days notice, 2/3rd of total membership of both Houses; nominated MPs participate!) |
+| **Vice-President of India** | **35 years** | **5 years** | Electoral College (All MPs of LS & RS, both elected & nominated - Art. 66; no MLAs!) | **President** | Resolution in Rajya Sabha by effective majority + agreed to by Lok Sabha (Art. 67) |
+| **Governor of a State** | **35 years** | **5 years** (Holds office during **pleasure of President**) | President of India | **President** | Removed by President at any time without constitutional procedure |
+| **Prime Minister / Union Minister** | **25 yrs** (LS) / **30 yrs** (RS) | No fixed tenure (during pleasure of President / confidence of LS) | President | **President** | Loss of majority in Lok Sabha |
+| **Member of Parliament (Lok Sabha)** | **25 years** | **5 years** (unless dissolved earlier) | Direct Election (First-past-the-post) | **Speaker of Lok Sabha** | Disqualification under Art. 102 or 10th Schedule |
+| **Member of Parliament (Rajya Sabha)** | **30 years** | **6 years** (Permanent body; **1/3rd members retire every 2 years**) | Indirect Election by elected MLAs (STV) | **Chairman of Rajya Sabha** | Disqualification under Art. 102 or 10th Schedule |
+| **Member of Legislative Assembly (MLA)** | **25 years** | **5 years** | Direct Election | **Speaker of Assembly** | Disqualification under Art. 191 |
+| **Member of Legislative Council (MLC)** | **30 years** | **6 years** (1/3rd retire every 2 years) | Indirect (MLAs 1/3, Local bodies 1/3, Teachers 1/12, Grads 1/12, Gov nominates 1/6) | **Chairman of Council** | Disqualification under Art. 191 |
+| **Panchayat / Municipality Member** | **21 years** | **5 years** | Direct Election | Presiding Officer | Disqualification under state municipal/panchayat laws |
+| **Voter (Universal Adult Suffrage)** | **18 years** (lowered from 21 by 61st Amd) | — | Enrolled in electoral roll | — | Ineligibility under Art. 326 (unsound mind, crime) |
+| **Supreme Court Judge / CJI** | No min age | **65 years** | President (Collegium recommendation) | **President** | Removed by Presidential order supported by special majority of both Houses for proved misbehaviour or incapacity (Art. 124(4)) |
+| **High Court Judge / Chief Justice** | No min age | **62 years** (15th Amd raised from 60) | President (after consulting CJI, Governor, HC CJ) | **President** | Same manner and grounds as Supreme Court Judge |
+| **Comptroller & Auditor General (CAG)** | No min age | **6 years or 65 years** (whichever earlier) | President | **President** | Same manner and grounds as Supreme Court Judge (Art. 148(1)) |
+| **Chief Election Commissioner (CEC)** | No min age | **6 years or 65 years** | President | **President** | Same manner and grounds as Supreme Court Judge (Art. 324(5)) |
+| **Attorney General for India** | Qualified as SC Judge | **No fixed term** (pleasure of President) | President | **President** | Removed by President at pleasure |
+| **Advocate General for the State** | Qualified as HC Judge | **No fixed term** (pleasure of Governor) | Governor | **Governor** | Removed by Governor at pleasure |
+| **UPSC Chairman / Member** | No min age | **6 years or 65 years** | President | **President** | Removed by President on ground of misbehaviour after inquiry by Supreme Court (Art. 317) |
+| **State PSC Chairman / Member** | No min age | **6 years or 62 years** | **Governor appoints** | **Governor** | **REMOVED ONLY BY PRESIDENT** (Not Governor!) on SC inquiry under Art. 317 |
+| **Central Vigilance Commissioner** | No min age | **4 years or 65 years** (whichever earlier) | President on 3-member panel (PM, Home Min, LoP LS) | **President** | Removed by President on SC inquiry |
+
+---
+
+## 8. High-Frequency Articles Must-Revise Daily
 
 ### A. Fundamental Rights (Part III, Arts. 12–35)
 - **Art. 12**: Definition of "State" (includes Union/State Governments, Parliament/Legislatures, Local authorities, other statutory authorities like LIC, ONGC).
@@ -141,7 +232,31 @@
 
 ---
 
-## 4. Landmark Constitutional Amendments (The Complete PCS Sheet)
+## 9. Constitutional vs Statutory vs Executive Bodies
+
+| Body Name | Category | Governing Article / Parent Act | Head / Composition | Appointed By | Removal / Tenure |
+|---|---|---|---|---|---|
+| **Election Commission of India (ECI)** | **Constitutional** | **Art. 324** | Chief Election Commissioner + 2 Election Commissioners | President (per 2023 Act: panel of PM, LoP, Cabinet Min) | Same grounds and manner as Supreme Court Judge (6 yrs or 65 yrs) |
+| **Union Public Service Commission (UPSC)** | **Constitutional** | **Arts. 315–323** | Chairman + Members (usually 9–11) | President | 6 yrs or 65 yrs; removed by President on SC enquiry under Art. 317 |
+| **Finance Commission** | **Constitutional** | **Art. 280** | Chairman + 4 Members | President every 5th year | Recommends devolution of net tax proceeds between Union & States |
+| **Comptroller & Auditor General (CAG)** | **Constitutional** | **Art. 148** | Single-member office | President | 6 yrs or 65 yrs; removed like a Supreme Court Judge; **"Guardian of the Public Purse"** |
+| **Attorney General for India** | **Constitutional** | **Art. 76** | Single-member office | President | Holds office **during the pleasure of the President**; must be qualified to be an SC Judge |
+| **Advocate General for the State** | **Constitutional** | **Art. 165** | Single-member office | Governor | Holds office **during the pleasure of the Governor**; qualified to be an HC Judge |
+| **National Commission for SC (NCSC)** | **Constitutional** | **Art. 338** | Chairperson, Vice-Chairperson + 3 Members | President | 3 years tenure |
+| **National Commission for ST (NCST)** | **Constitutional** | **Art. 338A** | Separated by 89th Amd 2003; Chairperson + 4 | President | 3 years tenure |
+| **National Commission for BC (NCBC)** | **Constitutional** | **Art. 338B** | Accorded constitutional status by 102nd Amd 2018 | President | 3 years tenure |
+| **GST Council** | **Constitutional** | **Art. 279A** | Chaired by Union Finance Minister; members: MoS Finance + State Finance Ministers | - | Voting weight: Centre = 1/3rd, States = 2/3rd; 3/4th majority needed to pass decisions |
+| **Inter-State Council** | **Constitutional** | **Art. 263** | Set up in 1990 (**Sarkaria Commission**); chaired by Prime Minister | - | CMs of all states + 6 Union Cabinet Ministers |
+| **National Human Rights Commission (NHRC)** | **Statutory** | **Protection of Human Rights Act (PHRA) 1993** | Retired CJI or Judge of SC (Chairperson) + Members | President on panel (PM, Speaker, Home Min, LoP LS, LoP RS, Dy Chairman RS) | 3 years or 70 years |
+| **Central Vigilance Commission (CVC)** | **Statutory** | **CVC Act 2003** (set up 1964 on **Santhanam Committee**) | Central Vigilance Commissioner + max 2 Vigilance Commissioners | President on panel (PM, Home Minister, LoP LS) | **4 years or 65 years** (Unique tenure!) |
+| **Central Information Commission (CIC)** | **Statutory** | **Right to Information (RTI) Act 2005** | Chief Information Commissioner + max 10 ICs | President on panel (PM, LoP LS, Union Cabinet Min) | Set by Central Govt or 65 yrs |
+| **Lokpal of India** | **Statutory** | **Lokpal and Lokayuktas Act 2013** | Chairperson (CJI/SC Judge/eminent person) + max 8 Members | President on panel (PM, Speaker LS, LoP LS, CJI or nominee, eminent jurist) | 5 years or 70 years |
+| **National Green Tribunal (NGT)** | **Statutory** | **NGT Act 2010** | Chairperson (retired SC judge or HC CJ) + Judicial/Expert members | Central Govt in consultation with CJI | 5 years; not eligible for reappointment |
+| **NITI Aayog** | **Non-Constitutional (Executive Body)** | Created by **Union Cabinet Resolution on 1 Jan 2015** (replacing Planning Commission 1950) | Chairperson: Prime Minister; Vice-Chairperson + CEO + Ex-officio members | PM appoints | Think tank; promotes Cooperative & Competitive Federalism |
+
+---
+
+## 10. Landmark Constitutional Amendments (The Complete PCS Sheet)
 
 | Amendment Act & Year | Prime Minister / Context | Landmark Provisions / Changes Made |
 |---|---|---|
@@ -167,31 +282,7 @@
 
 ---
 
-## 5. Constitutional vs Statutory vs Executive Bodies
-
-| Body Name | Category | Governing Article / Parent Act | Head / Composition | Appointed By | Removal / Tenure |
-|---|---|---|---|---|---|
-| **Election Commission of India (ECI)** | **Constitutional** | **Art. 324** | Chief Election Commissioner + 2 Election Commissioners | President (per 2023 Act: panel of PM, LoP, Cabinet Min) | Same grounds and manner as Supreme Court Judge (6 yrs or 65 yrs) |
-| **Union Public Service Commission (UPSC)** | **Constitutional** | **Arts. 315–323** | Chairman + Members (usually 9–11) | President | 6 yrs or 65 yrs; removed by President on SC enquiry under Art. 317 |
-| **Finance Commission** | **Constitutional** | **Art. 280** | Chairman + 4 Members | President every 5th year | Recommends devolution of net tax proceeds between Union & States |
-| **Comptroller & Auditor General (CAG)** | **Constitutional** | **Art. 148** | Single-member office | President | 6 yrs or 65 yrs; removed like a Supreme Court Judge; **"Guardian of the Public Purse"** |
-| **Attorney General for India** | **Constitutional** | **Art. 76** | Single-member office | President | Holds office **during the pleasure of the President**; must be qualified to be an SC Judge |
-| **Advocate General for the State** | **Constitutional** | **Art. 165** | Single-member office | Governor | Holds office **during the pleasure of the Governor**; qualified to be an HC Judge |
-| **National Commission for SC (NCSC)** | **Constitutional** | **Art. 338** | Chairperson, Vice-Chairperson + 3 Members | President | 3 years tenure |
-| **National Commission for ST (NCST)** | **Constitutional** | **Art. 338A** | Separated by 89th Amd 2003; Chairperson + 4 | President | 3 years tenure |
-| **National Commission for BC (NCBC)** | **Constitutional** | **Art. 338B** | Accorded constitutional status by 102nd Amd 2018 | President | 3 years tenure |
-| **GST Council** | **Constitutional** | **Art. 279A** | Chaired by Union Finance Minister; members: MoS Finance + State Finance Ministers | - | Voting weight: Centre = 1/3rd, States = 2/3rd; 3/4th majority needed to pass decisions |
-| **Inter-State Council** | **Constitutional** | **Art. 263** | Set up in 1990 (**Sarkaria Commission**); chaired by Prime Minister | - | CMs of all states + 6 Union Cabinet Ministers |
-| **National Human Rights Commission (NHRC)** | **Statutory** | **Protection of Human Rights Act (PHRA) 1993** | Retired CJI or Judge of SC (Chairperson) + Members | President on panel (PM, Speaker, Home Min, LoP LS, LoP RS, Dy Chairman RS) | 3 years or 70 years |
-| **Central Vigilance Commission (CVC)** | **Statutory** | **CVC Act 2003** (set up 1964 on **Santhanam Committee**) | Central Vigilance Commissioner + max 2 Vigilance Commissioners | President on panel (PM, Home Minister, LoP LS) | **4 years or 65 years** (Unique tenure!) |
-| **Central Information Commission (CIC)** | **Statutory** | **Right to Information (RTI) Act 2005** | Chief Information Commissioner + max 10 ICs | President on panel (PM, LoP LS, Union Cabinet Min) | Set by Central Govt or 65 yrs |
-| **Lokpal of India** | **Statutory** | **Lokpal and Lokayuktas Act 2013** | Chairperson (CJI/SC Judge/eminent person) + max 8 Members | President on panel (PM, Speaker LS, LoP LS, CJI or nominee, eminent jurist) | 5 years or 70 years |
-| **National Green Tribunal (NGT)** | **Statutory** | **NGT Act 2010** | Chairperson (retired SC judge or HC CJ) + Judicial/Expert members | Central Govt in consultation with CJI | 5 years; not eligible for reappointment |
-| **NITI Aayog** | **Non-Constitutional (Executive Body)** | Created by **Union Cabinet Resolution on 1 Jan 2015** (replacing Planning Commission 1950) | Chairperson: Prime Minister; Vice-Chairperson + CEO + Ex-officio members | PM appoints | Think tank; promotes Cooperative & Competitive Federalism |
-
----
-
-## 6. Panchayati Raj Committees Chronological Ladder
+## 11. Panchayati Raj Committees Chronological Ladder
 
 | Committee Name | Year | Landmark Recommendation / Impact |
 |---|---|---|
@@ -205,7 +296,7 @@
 
 ---
 
-## 7. Landmark Supreme Court Judgments (Chronological Table)
+## 12. Landmark Supreme Court Judgments (Chronological Table)
 
 | Case Name & Year | Key Issue / Doctrine Established |
 |---|---|
@@ -224,238 +315,36 @@
 | **Justice K.S. Puttaswamy Case (2017)** | 9-Judge bench unanimously held that the **Right to Privacy is a Fundamental Right** intrinsically protected under Article 21. |
 | **Navtej Singh Johar Case (2018)** | Decriminalized consensual homosexual acts between adults by reading down **Section 377 of the Indian Penal Code (IPC)**. |
 | **Jarnail Singh Case (2018)** | Held that the **"Creamy Layer" principle applies to SC/ST** when extending reservation in promotions. |
-| **Janhit Abhiyan v. Union of India (2022)** | Upheld the constitutional validity of the **103rd Constitutional Amendment (10% EWS reservation)** by 3:2 majority. |
+| **Janki Janak v. UOI (2022)** | Upheld the constitutional validity of the **103rd Constitutional Amendment (10% EWS reservation)** by 3:2 majority. |
 
 ---
 
-## 8. Borrowed Features (one country, one cluster)
+## 13. State Reorganization Chronology (Post-Independence India)
 
-| Source | What India took |
-|---|---|
-| **UK** | Parliamentary government; Rule of Law; single citizenship; Cabinet; prerogative writs; bicameralism; CAG idea |
-| **USA** | Fundamental Rights; judicial review; impeachment of President; independence of judiciary; removal of SC/HC judges; Vice-President as RS Chairman; Preamble’s “We the People” spirit |
-| **Ireland** | **DPSP**; nomination of Rajya Sabha members; method of President’s election (electoral college idea) |
-| **Canada** | Federation with a **strong Centre**; **residuary powers** to Centre; advisory jurisdiction of SC |
-| **Australia** | **Concurrent List**; joint sitting; freedom of trade and commerce |
-| **Germany (Weimar)** | Suspension of Fundamental Rights during emergency |
-| **USSR** | Fundamental Duties; ideal of justice (social, economic, political) in the Preamble |
-| **France** | Republic; ideals of **liberty, equality, fraternity** |
-| **South Africa** | Procedure for constitutional amendment; election of Rajya Sabha members |
-| **Japan** | **Procedure established by law** (Article 21 style) |
-| **GOI Act 1935** | Federal scheme, office of Governor, judiciary, Public Service Commissions, Emergency — the **structural skeleton** |
-
-> **Logic:** Residuary power is **Canadian** (to Centre), not American (to states). DPSP is **Irish**, not American. Joint sitting is **Australian**.
-
----
-
-## 9. Making of the Constitution — date ladder
-
-| Date | Event |
-|---|---|
-| **1934 / 1935** | **M.N. Roy** then **Congress** demand a Constituent Assembly |
-| **9 Dec 1946** | First sitting; temporary president **Sachchidananda Sinha** |
-| **11 Dec 1946** | **Rajendra Prasad** elected President of the Assembly |
-| **13 Dec 1946** | **Objectives Resolution** moved by Nehru |
-| **22 Jan 1947** | Objectives Resolution **adopted** |
-| **22 Jul 1947** | National **Flag** adopted |
-| **29 Aug 1947** | **Drafting Committee** — **B.R. Ambedkar** chair; **B.N. Rau** was **Constitutional Adviser**, not Drafting Chair |
-| **26 Nov 1949** | Constitution **adopted** (284 signatures) — **Constitution Day** |
-| **24 Jan 1950** | Last sitting; national anthem adopted for official use |
-| **26 Jan 1950** | Constitution **enforced**; Republic Day |
-
-Original CA strength **389** (292 + 93 + 4), later **299**. Election was **indirect** by provincial assemblies (**PR-STV**). About **15 women**. **Gandhi was not a member**.
-
-**H.C. Mukherjee** chaired the Minorities Sub-Committee. **Sardar Patel** chaired the parent Advisory Committee.
-
-**C. Rajagopalachari** was the first **Indian** Governor-General (1948–50). Mountbatten was the last **British** GG.
+1. **1953**: **Andhra State** created (first linguistic state, separated Telugu-speaking areas of Madras after 56-day fast unto death of **Potti Sreeramulu**; Kurnool capital).
+2. **1956**: **States Reorganisation Act 1956** (Fazal Ali Commission with H.N. Kunzru and K.M. Panikkar); created **14 States and 6 Union Territories**.
+3. **1960**: **Bilingual Bombay State bifurcated into Maharashtra and Gujarat** (Gujarat became the 15th state).
+4. **1961**: **Dadra & Nagar Haveli** (10th Amd) and **Goa, Daman & Diu** (12th Amd) integrated via Operation Vijay.
+5. **1962**: **Pondicherry** (Puducherry) integrated via 14th Amd (ceded by French in 1954).
+6. **1963**: **Nagaland** created as 16th state (incorporating Naga Hills-Tuensang Area).
+7. **1966**: **Punjab bifurcated** into Punjab (Punjabi) and **Haryana** (17th state, Hindi) on recommendation of **Shah Commission**; **Chandigarh** made common UT.
+8. **1971**: **Himachal Pradesh** elevated from UT to 18th State.
+9. **1972**: North-Eastern reorganization: **Manipur (19th), Tripura (20th), and Meghalaya (21st)** became full states; Mizoram and Arunachal Pradesh created as UTs.
+10. **1975**: **Sikkim**: 35th Amd 1974 made it "Associate State" (10th Schedule added); **36th Amendment 1975 made Sikkim 22nd full State of India**.
+11. **1987**: **Mizoram (23rd)**, **Arunachal Pradesh (24th)**, and **Goa (25th state)** elevated to full statehood.
+12. **2000 (November)**: Three new states carved out:
+    - **Chhattisgarh (26th state)**: 1 Nov 2000 (carved from MP).
+    - **Uttarakhand (Uttaranchal, 27th state)**: **9 Nov 2000** (carved from Uttar Pradesh, 13 hill districts; renamed Uttarakhand on 1 Jan 2007).
+    - **Jharkhand (28th state)**: 15 Nov 2000 (carved from Bihar on Birsa Munda's birth anniversary).
+13. **2014 (2 June)**: **Telangana (29th state)** carved out of Andhra Pradesh (Sri Krishna Committee).
+14. **2019 (31 October)**: **Jammu & Kashmir Reorganisation Act 2019**: State of J&K bifurcated into **two Union Territories: J&K (with assembly) and Ladakh (without assembly)**; total count: **28 States and 8 Union Territories**.
+15. **2020 (26 Jan)**: Merged **Dadra & Nagar Haveli and Daman & Diu** into a single Union Territory.
 
 ---
 
-## 10. Eleven Fundamental Duties (Art. 51A)
+## 14. UP & Uttarakhand State Legislature Quick Facts
 
-Added by the **42nd Amendment 1976** (Swaran Singh). The **11th** duty was added by the **86th Amendment 2002**. Duties are **non-justiciable**.
-
-1. Abide by the Constitution, respect its ideals, the National Flag, and the National Anthem.
-2. Cherish and follow the noble ideals of the freedom struggle.
-3. Uphold and protect the sovereignty, unity, and integrity of India.
-4. Defend the country and render national service when called.
-5. Promote harmony and the spirit of common brotherhood; renounce practices derogatory to the dignity of women.
-6. Value and preserve the rich heritage of our composite culture.
-7. Protect and improve the natural environment, forests, lakes, rivers, and wildlife, and have compassion for living creatures.
-8. Develop the scientific temper, humanism, and the spirit of inquiry and reform.
-9. Safeguard public property and abjure violence.
-10. Strive towards excellence in all spheres of individual and collective activity.
-11. **51A(k):** Parent or guardian to provide opportunities for education to the child between **6 and 14** (86th Amendment).
-
----
-
-## 11. Emergency Comparison (Arts. 352 / 356 / 360)
-
-| Feature | National (352) | State / President’s Rule (356) | Financial (360) |
-|---|---|---|---|
-| Ground | War, external aggression, **armed rebellion** (44th Amd; was “internal disturbance”) | Failure of constitutional machinery | Threat to financial stability or credit |
-| Written Cabinet advice | **Yes** (44th Amd) | On GG/Governor report or otherwise | Yes |
-| Lok Sabha approval | 1 month, then 6-month extensions | 2 months, then 6-month extensions (max 3 years with conditions) | 2 months |
-| FR | **20 and 21 cannot be suspended** (44th); 19 suspends automatically only for war/external aggression | No automatic FR suspension | No FR suspension |
-| Centre–State | Centre can give executive directions on any matter | State executive dismissed; Parliament may legislate for the state | Centre can direct money bills / salary cuts |
-| Landmark case | — | **S.R. Bommai (1994)** — floor test; secularism; judicial review of 356 | Never used so far |
-
-> **Logic:** After the **44th Amendment**, the President **cannot** suspend enforcement of **Articles 20 and 21** even in a National Emergency.
-
----
-
-## 12. Parliament — Money Bill, Houses, and numbers
-
-| Head | Correct |
-|---|---|
-| **Art. 110 / 199** | Money Bill definition; **Speaker’s decision is final** |
-| Rajya Sabha on Money Bill | **14 days** only; cannot amend, only recommend; cannot reject |
-| **No joint sitting** in a State with a Legislative Council | Joint sitting is **Art. 108**, Union only; Speaker of Lok Sabha presides |
-| Ordinary bill deadlock | Joint sitting; **not** for Money Bills or Constitution Amendment Bills |
-| Constitution Amendment | **Art. 368**; President **must** give assent (24th Amd) |
-| Lok Sabha strength | Max **550** teaching cap (530 states + 20 UTs); Anglo-Indian nomination **ended by 104th Amd** |
-| Rajya Sabha | **245** (233 elected + 12 nominated); **UP 31** (highest); **Uttarakhand 3** |
-| Money Bill vs Finance Bill | All Money Bills are Financial Bills; not all Financial Bills are Money Bills |
-| Cut motions | Policy cut, economy cut, token cut — on Demand for Grants |
-| Zero Hour | Indian innovation; not in the Constitution |
-| Question Hour | First hour; starred, unstarred, short notice |
-| Whip | Party discipline; **not** a constitutional office |
-| CAG report | Examined by **PAC** (chair: traditionally LoP); Estimates Committee; COPU |
-
----
-
-## 13. Uttar Pradesh Special (polity numbers)
-
-| Head | Correct |
-|---|---|
-| Capital | **Lucknow** (Raj Bhavan, Vidhan Bhavan) |
-| High Court | Principal seat **Prayagraj** (Letters Patent **1866**; first seat **Agra**); **Lucknow Bench** from the 1948 Oudh merger — **not** a second HC |
-| First Governor | **Sarojini Naidu (15 Aug 1947)** — first woman Governor of an Indian State |
-| First CM | **Govind Ballabh Pant** |
-| First woman CM | **Sucheta Kripalani (1963)** |
-| Vidhan Sabha | **403** (was **425** before 9 Nov 2000) — largest in India |
-| Vidhan Parishad | **100**; cannot be dissolved; 1/3 retire every 2 years; age **30** |
-| Bicameral states | Six: AP, Bihar, Karnataka, Maharashtra, Telangana, **UP** |
-| Lok Sabha from UP | **80** (was 85 before UK) |
-| Rajya Sabha from UP | **31** |
-| CoM cap | **15%** of 403 ≈ **60** (91st Amd); floor **12** |
-| Official language | Hindi; **Urdu** second official language (**1989**) |
-| Panchayat polls | **State Election Commission**, not ECI |
-| UPPSC HQ | **Prayagraj**; functions extended by the **State Legislature** (Art. 321) |
-| Lokayukta | UP Act **1975** (before the Union Lokpal Act 2013) |
-| Women in PRIs/ULBs | **50% by State law** (Constitution’s floor remains 1/3) |
-| No Art. 371 | UP has **no 371–371J** special provision |
-
----
-
-## 14. Uttarakhand Polity (UKPCS daily box)
-
-| Head | Correct |
-|---|---|
-| Created | **9 Nov 2000** as **Uttaranchal** (27th State); renamed **1 Jan 2007** |
-| Legislature | **Unicameral** — **70** elected seats; no Council |
-| ST reserved Assembly | **Chakrata** (Dehradun) and **Nanakmatta** (US Nagar) — **2** seats |
-| SC reserved Assembly | **13** seats |
-| Lok Sabha | **5** seats; **Almora is SC-reserved** |
-| Rajya Sabha | **3** |
-| First Governor | **Surjit Singh Barnala** |
-| First CM (interim) | **Nityanand Swami** |
-| First elected CM | **N.D. Tiwari** — only CM so far to complete a full 5-year term |
-| First woman Governor | **Margaret Alva (2009–2012)** |
-| First woman Speaker | **Ritu Khanduri Bhushan (2022)** |
-| High Court | **Nainital**; first CJ **A.A. Desai** |
-| UCC | **Uttarakhand** was the first post-independence State to pass a **Uniform Civil Code** law in **2024** (Art. 44 peg) |
-
----
-
-## 15. Extra Confused Pairs (Polity)
-
-| A | B | Correct |
-|---|---|---|
-| 26 Nov 1949 | 26 Jan 1950 | **Adoption** / Constitution Day vs **enforcement** / Republic Day |
-| B.N. Rau | Ambedkar | Constitutional **Adviser** vs Drafting **Chair** |
-| 2nd Schedule | 3rd Schedule | Emoluments vs **oaths**; President/VP/Governor oaths are **not** in the 3rd Schedule |
-| 5th Schedule | 6th Schedule | Scheduled Areas (10 states) vs **AMTM** tribal areas (Assam, Meghalaya, Tripura, Mizoram) |
-| Art. 32 | Art. 226 | SC writs (heart and soul) vs **wider** HC writs (any legal right) |
-| Art. 72 | Art. 161 | President can pardon **death and court martial**; Governor **cannot** fully pardon death |
-| Money Bill | Finance Bill | Art. 110 subset vs broader financial bills |
-| National Emergency | President’s Rule | Art. **352** vs Art. **356** |
-| ECI | SEC | Parliament / Assembly / President vs **local bodies** |
-| NJAC 99th | Collegium | Struck down **2015** (Fourth Judges); Collegium restored |
-| Janhit Abhiyan 2022 | Indra Sawhney 1992 | **EWS 10% upheld** vs **OBC 27% + 50% cap + creamy layer** |
-
----
-
-## 16. Five Writs (Art. 32 / 226)
-
-| Writ | Literal sense | When it is used |
-|---|---|---|
-| **Habeas Corpus** | “To have the body” | Produce a detained person; tests illegal detention |
-| **Mandamus** | “We command” | Orders a public authority to do a **public duty**; not against President/GG as such, private persons, or to enforce a contract |
-| **Prohibition** | “To forbid” | Higher court stops a **lower court** from exceeding jurisdiction (**preventive**) |
-| **Certiorari** | “To be certified” | Higher court **quashes** a lower court’s order already passed (**curative**) |
-| **Quo Warranto** | “By what authority” | Challenges a person’s right to hold a **public office** |
-
-> **Logic:** **Prohibition** is preventive. **Certiorari** is curative. **Art. 32** is itself a Fundamental Right (SC). **Art. 226** is wider (HC can issue writs for any legal right, not only FRs). Dr. Ambedkar called Article 32 the **heart and soul** of the Constitution.
-
----
-
-## 17. Basic Structure, Majorities, President & Judiciary
-
-**Basic Structure (Kesavananda 1973) — usual list:** supremacy of the Constitution; sovereign, democratic, republican form; secularism; federalism; separation of powers; judicial review; rule of law; free and fair elections; independence of the judiciary; harmony of FR and DPSP; limited amending power.
-
-### Three amendment tracks
-| Track | Use |
-|---|---|
-| **Simple majority of Parliament** | Arts. **2–4** (states), **169** (Legislative Council) — **outside** Art. 368 |
-| **Special majority (Art. 368)** | Most amendments (majority of total membership **and** 2/3 of members present and voting) |
-| **Special + half the States** | Federal provisions (President election, Union–State lists, SC/HC, representation of States) |
-
-### President — daily pegs
-| Head | Correct |
-|---|---|
-| Election | **Art. 54–55**; elected MLAs + LS + RS; **single transferable vote**; weighted votes |
-| Impeachment | **Art. 61**; 14-day notice; 2/3 of **total membership** of each House |
-| Veto | Absolute, suspensive, **pocket** (no time limit on ordinary bills) |
-| Ordinance | **Art. 123**; only when House(s) not in session; lasts **6 weeks from reassembly** |
-| Money Bill | **Art. 110**; only on LS Speaker’s certificate |
-| Death sentence pardon | **Art. 72** only (full pardon); Governor **161** cannot fully pardon death |
-
-### Supreme Court & High Court
-| Head | Correct |
-|---|---|
-| SC strength | **34** (2019); retire at **65**; resign to **President** |
-| First CJI | **H.J. Kania**; SC from **28 Jan 1950** |
-| **Art. 131** | Original jurisdiction (Centre–State) |
-| **Art. 136** | Special Leave Petition |
-| **Art. 137** | Review |
-| **Art. 143** | Advisory; **not binding** |
-| **Art. 226 vs 32** | HC writs **wider** (any legal right) |
-| HC retire | **62**; number of HCs = **25** |
-| Collegium | Second Judges **1993** + Third **1998**; NJAC **99th** struck **2015** |
-| PIL | Justice **P.N. Bhagwati** (with Krishna Iyer) |
-
-**Preamble keywords:** Sovereign, **Socialist, Secular** (42nd), Democratic, Republic; Justice, Liberty, Equality, Fraternity. Preamble is **part of the Constitution** (*Kesavananda*) but **not enforceable**.
-
----
-
-## 18. Official Language, Centre–State, Elections, Art. 370
-
-| Head | Correct |
-|---|---|
-| **Art. 343** | Official language of the Union = **Hindi in Devanagari**; English continued |
-| **8th Schedule** | **22** languages; English and Bhojpuri are **not** in it |
-| **Art. 348** | English in SC / HC / Bills unless a State law says otherwise |
-| **Art. 351** | Union duty to **promote Hindi** |
-| **Art. 262** | Parliament may bar SC from river-water disputes; **IRBI Act 1956** |
-| **Art. 263** | Inter-State Council (**Sarkaria** recommendation; set up **1990**) |
-| **Sarkaria 1983** | Centre–State; Inter-State Council |
-| **Punchhi 2007** | Centre–State; local bodies; national security |
-| **Art. 280** | Finance Commission every 5th year |
-| **NITI Aayog** | **1 Jan 2015**; **not** a constitutional body |
-| **NOTA** | Introduced **2013** (SC in *PUCL*); does **not** win the seat |
-| **VVPAT** | Paper trail with EVM; nationwide from **2019** LS |
-| **Art. 370** | Special status of J&K **abrogated 5 Aug 2019**; **31 Oct 2019** two UTs: J&K (with legislature) and Ladakh (without) |
-| **Anti-defection** | 10th Schedule; **Presiding Officer** decides; judicial review (*Kihoto Hollohan*); merger needs **2/3** |
-
-**Quasi-federal scholars:** **Wheare** = quasi-federal; **Austin** = cooperative; **Morris-Jones** = bargaining; **Jennings** = centralising. Ambedkar: **federal in form, unitary in spirit**. The word **“federation”** is not used in the Constitution.
+| State | Legislative Assembly (Vidhan Sabha) | Legislative Council (Vidhan Parishad) | Lok Sabha Seats | Rajya Sabha Seats | High Court & Benches |
+|---|---|---|---|---|---|
+| **Uttar Pradesh** | **403 seats** (SC: 84, ST: 2) | **100 seats** (Bicameral!) | **80 seats** (Highest in India; SC reserved: 17, ST: 0) | **31 seats** (Highest in India) | **Allahabad High Court** (Established 1866 at Agra, shifted to Allahabad 1869; Lucknow Bench created 1948) |
+| **Uttarakhand** | **70 seats** (SC: 13, ST: 2) | **Unicameral** (No Council) | **5 seats** (Tehri, Garhwal, Almora - SC, Haridwar, Nainital-US Nagar) | **3 seats** | **Uttarakhand High Court** (Established 9 Nov 2000 at Nainital; shifting to Haldwani approved) |

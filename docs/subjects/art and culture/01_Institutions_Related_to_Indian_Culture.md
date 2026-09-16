@@ -45,8 +45,8 @@ Indological Studies | Gurukul System | Ancient Indian Education System | Nalanda
 13. The **Archaeological Survey of India** was founded in **1861** under **Alexander Cunningham**. The **National Archives of India** began in **1891**.
 14. **Sangeet Natak Akademi** (**1952**) covers performing arts. **Sahitya Akademi** and **Lalit Kala Akademi** both date to **1954** for literature and visual arts.
 15. **Sahitya Akademi** awards in **24** languages. **Jnanpith** (**1965**) is a Bharatiya Jnanpith trust prize, not a Sahitya Akademi award.
-16. **IGNCA** and the **Ministry of Culture** date to **1985. CCRT** began in **1979. NGMA** also dates to **1954**.
-17. **ICCR** (**1950**) belongs to the **MEA**, not the Culture Ministry.
+16. **IGNCA** (Indira Gandhi National Centre for the Arts) and the **Ministry of Culture** date to **1985**. **CCRT** (Centre for Cultural Resources and Training) began in **1979**. **NGMA** (National Gallery of Modern Art) also dates to **1954**.
+17. **ICCR** (Indian Council for Cultural Relations, **1950**) belongs to the **MEA** (Ministry of External Affairs), not the Culture Ministry.
 18. UP museum facts include **Allahabad Museum** (Prayagraj, **1931**), State Museum Lucknow, Jhansi Museum, and the **Sarnath** ASI site museum.
 19. ASI circles for key UP monuments run through **Lucknow** and **Agra**, covering Sarnath, Kushinagar, Taj, and Fatehpur Sikri.
 20. IVC sites in UP include **Alamgirpur**, **Mandi**, and **Hulas. Rakhigarhi** is in Haryana, not UP.
@@ -246,14 +246,16 @@ Not one system: Brahmanical gurukuls, Buddhist **viharas**, Jain **shalas**, **s
 
 **Ministry of Culture** became a **separate ministry in 1985** (earlier a Department under Education). Nodal for arts, heritage, UNESCO coordination, autonomous bodies.
 
-| Body | Year | Parent | One-line function |
-|------|------|--------|-------------------|
-| **ICCR** | 1950 | **MEA** | Cultural diplomacy abroad |
-| **NGMA** | 1954 | Culture | Modern art **gallery** (Delhi + Mumbai + Bengaluru) — not an akademi |
-| **NSD** | 1959 | Culture | National School of Drama, New Delhi |
-| **CCRT** | 1979 | Culture | Teacher training in culture for schools |
-| **INTACH** | 1984 | **NGO** | Heritage conservation partner — not a govt autonomous body |
-| **7 ZCCs** | 1985–87 | Culture | Folk/tribal promotion — regional HQs below |
+| Short | Full form | Year | Parent | One-line function |
+|------|-----------|------|--------|-------------------|
+| **ICCR** | **Indian Council for Cultural Relations** | 1950 | **MEA** (Ministry of External Affairs) | Cultural diplomacy abroad |
+| **NGMA** | **National Gallery of Modern Art** | 1954 | Ministry of Culture | Modern art **gallery** (Delhi + Mumbai + Bengaluru) — not an akademi |
+| **NSD** | **National School of Drama** | 1959 | Ministry of Culture | National theatre school, New Delhi |
+| **CCRT** | **Centre for Cultural Resources and Training** | 1979 | Ministry of Culture | Teacher training in culture for schools |
+| **INTACH** | **Indian National Trust for Art and Cultural Heritage** | 1984 | **NGO** (non-governmental organisation) | Heritage conservation partner — not a government autonomous body |
+| **7 ZCCs** | **Seven Zonal Cultural Centres** | 1985–87 | Ministry of Culture | Folk and tribal promotion — regional HQs below |
+
+**Parent short forms:** **MEA** = Ministry of External Affairs. **NGO** = non-governmental organisation. **ZCC** = Zonal Cultural Centre. **Mo Culture** = Ministry of Culture.
 
 **7 Zonal Cultural Centres**
 
@@ -270,7 +272,7 @@ Not one system: Brahmanical gurukuls, Buddhist **viharas**, Jain **shalas**, **s
 - **Rabindra Bhavan**, Mandi House, New Delhi, houses **Sangeet Natak Akademi (1952, performing)**, **Sahitya Akademi (1954, letters)** and **Lalit Kala Akademi (1954, visual)**.
 - ASI is **1861**. IGNCA is **1985**. National Archives began as the Imperial Record Department in **1891**. The National Museum is **Delhi, 1949**.
 
-> **Logic:** ICCR = MEA**, not Culture. North Central ZCC = **Prayagraj**, not Lucknow. INTACH = NGO.
+> **Logic:** **ICCR** (Indian Council for Cultural Relations) sits under **MEA**, not Culture. North Central **ZCC** (Zonal Cultural Centre) = **Prayagraj**, not Lucknow. **INTACH** (Indian National Trust for Art and Cultural Heritage) is an **NGO**. **NGMA** is a **gallery**, not an akademi.
 
 ---
 

@@ -1,11 +1,9 @@
 # Daily Read — High-Yield Revision Facts (Medieval India)
-### ★ UPPCS + UKPCS Prelims Daily Sheet · Match, chronology, and confused-pair recall
+### ★ UPPCS & UKPCS Prelims Daily Fact Dump · Active Recall Cheat-Sheet
 
-> **Use:** Morning cycle, 12–20 minutes. Rotate sections so the full sheet is covered in about a week.  
-> **Stems this sheet feeds:** Diwan-i departments, travellers vs kings, battle order, Bhakti–Sufi, Ashtapradhan, Mughal terms.  
-> **Last filled:** September 2026 — Early medieval + Cholas, Sher Shah, Mughal emperors/tombs, books, Rajputs, Uttarakhand medieval.
-
-**Seven-day rotation:** 1 Sultanate + Diwan · 2 Battles + travellers · 3 Early medieval + Cholas + regional · 4 Mughal admin + Sher Shah · 5 Bhakti–Sufi + Sikh Gurus · 6 Marathas + architecture/tombs · 7 Uttarakhand medieval + confused pairs.
+> **Exam Focus:** UPPSC Prelims (Paper 1), UKPSC Prelims (Paper 1), RO/ARO, BEO  
+> **Frequency:** Daily morning read (15–20 mins)  
+> **Question Types Covered:** Diwan-i-X departments, Foreign travelers vs Kings, Battle chronological order, Medieval Monuments & Architectural Milestones, Medieval Literature & Authors, Bhakti & Sufi saints vs Philosophies, Shivaji's Ashtapradhan, Medieval Taxes (Jizya, Zakat, Khams, Kharaj).
 
 ---
 
@@ -42,9 +40,85 @@
 
 ---
 
-## 3. The Medieval Battle Master Matrix (Chronological Ladder)
+## 3. Medieval Indian Architecture & Monuments Chronology
 
-| Year | Battle Name | Contenders | Victorious Party | Impact / takeaway |
+| Monument / Structure | Location | Builder / Sultan / Emperor | Architectural Landmark / Exam Highlight |
+|---|---|---|---|
+| **Quwwat-ul-Islam Mosque** | Qutb Complex, Delhi | **Qutbuddin Aibak** (1193 CE) | **First mosque built in Delhi**; constructed using materials from 27 demolished temples |
+| **Adhai Din Ka Jhonpra** | Ajmer (Rajasthan) | **Qutbuddin Aibak** (1199 CE) | Built on the ruins of a Sanskrit college (*Saraswati Kanthabharana* built by Vigraharaja IV) |
+| **Qutb Minar** | Mehrauli, Delhi | Started by Aibak; **completed by Iltutmish**; repaired by Firoz Tughlaq | Dedicated to Sufi saint Khwaja Qutbuddin Bakhtiyar Kaki; 72.5 m red sandstone |
+| **Tomb of Balban** | Mehrauli, Delhi | **Ghiyasuddin Balban** (c. 1287) | **First true architectural arch (*True Arch*)** constructed in India |
+| **Alai Darwaza** | Qutb Complex, Delhi | **Alauddin Khalji** (1311 CE) | **First true horseshoe arch and true dome in India**; exquisite red sandstone & white marble |
+| **Siri Fort & Hauz Khas** | Delhi | **Alauddin Khalji** | Siri Fort built to protect Delhi against Mongol raids |
+| **Tughlaqabad Fort** | Delhi | **Ghiyasuddin Tughlaq** | Sloping battered walls (*batter*) and stone masonry |
+| **Kotla Firoz Shah** | Delhi | **Firoz Shah Tughlaq** | Ashokan pillar brought from Topra (Haryana) and installed atop 3-tiered pyramid |
+| **Atala Masjid** | **Jaunpur (Uttar Pradesh)** | **Ibrahim Shah Sharqi** (1408 CE) | Sharqi style; sloping pylons, massive central propylon gate, no minarets |
+| **Tomb of Sikandar Lodi** | Lodi Gardens, Delhi | Ibrahim Lodi (1517 CE) | **First double dome in India**; octagonal plan set within a walled garden |
+| **Sasaram Tomb** | Sasaram (Bihar) | **Sher Shah Suri** (architect Aliwal Khan) | Octagonal red sandstone tomb situated in the middle of an artificial square lake |
+| **Purana Qila & Qila-i-Kuhna** | Delhi | **Sher Shah Suri** | Qila-i-Kuhna mosque represents transition to refined Mughal architectural aesthetic |
+| **Humayun’s Tomb** | Delhi | Begum Bega / Haji Begum (architect Mirak Mirza Ghiyas, 1565) | **First grand garden-tomb in India (*Charbagh*)**; precursor and model for the Taj Mahal; white marble double dome; UNESCO WHS |
+| **Agra Fort** | Agra (UP) | **Akbar** (1565–1573) | Massive red sandstone ramparts on the Yamuna; Jahangiri Mahal |
+| **Fatehpur Sikri Complex** | Near Agra (UP) | **Akbar** (1571–1585) | City of victory: **Buland Darwaza** (1601, commemorating conquest of Gujarat; 54 m high), **Panch Mahal** (5-tier Buddhist-inspired pyramid), **Ibadat Khana** (1575), Tomb of Sheikh Salim Chishti (white marble lattice *Jali*) |
+| **Akbar’s Tomb** | Sikandra, Agra (UP) | Begun by Akbar; **completed by Jahangir** (1613) | Unique tier without a central dome; minarets at four corners |
+| **Tomb of Itimad-ud-Daulah** | Agra (UP) | **Empress Nur Jahan** (1628) | Tomb of her father Mirza Ghiyas Beg; **first building made entirely of white marble** with extensive **Pietra Dura** (floral inlay with semi-precious stones); called **"Baby Taj"** |
+| **Taj Mahal** | Agra (UP) | **Shah Jahan** (1631–1648) | Masterpiece of Indo-Islamic architecture; chief architect **Ustad Ahmad Lahori**; calligrapher Amanat Khan; UNESCO WHS |
+| **Red Fort & Jama Masjid** | Delhi | **Shah Jahan** (1638–1648) | Shifted capital from Agra to **Shahjahanabad**; Diwan-i-Aam, Diwan-i-Khas (*"If there is a paradise on earth, it is this..."*), Peacock Throne (*Takht-i-Taus*) |
+| **Bibi Ka Maqbara** | Aurangabad (Maharashtra) | **Aurangzeb / Prince Azam Shah** (1678) | Tomb of Dilras Banu Begum (Rabia-ud-Daurani); known as **"Dakhani Taj"** or poor man's replica of Taj |
+| **Moti Masjid (Red Fort Delhi)** | Delhi | **Aurangzeb** (1659) | White marble private mosque within the Red Fort |
+| **Badshahi Mosque** | Lahore (Pakistan) | **Aurangzeb** (1673) | Largest mosque of the Mughal Empire |
+
+---
+
+## 4. Medieval Literature & Chroniclers (The Complete Exam Sheet)
+
+| Book / Work Title | Author | Language / Patron Ruler | Key Subject / Historical Value |
+|---|---|---|---|
+| ***Kitab-ul-Hind* / *Tahqiq-i-Hind*** | **Al-Biruni** | Arabic / Mahmud of Ghazni | Encyclopedic study of Indian religion, science, astronomy, and society |
+| ***Chachnama*** | Translated by Ali Kufi | Persian (original Arabic) | History of the Arab conquest of Sindh by Muhammad bin Qasim (712 CE) |
+| ***Taj-ul-Maasir*** | **Hasan Nizami** | Persian / Qutbuddin Aibak | First official chronicle of the Delhi Sultanate |
+| ***Tabakat-i-Nasiri*** | **Minhaj-us-Siraj** | Persian / Nasiruddin Mahmud | Detailed political history from Muhammad Ghori to the Slave Dynasty |
+| ***Tarikh-i-Firoz Shahi*** & ***Fatwa-i-Jahandari*** | **Ziauddin Barani** | Persian / Firoz Shah Tughlaq | Eyewitness account of Alauddin's market reforms and Muhammad bin Tughlaq's schemes |
+| ***Futuhat-i-Firoz Shahi*** | **Firoz Shah Tughlaq** | Persian / Self | Royal autobiography detailing his public works, charities, and orthodox reforms |
+| ***Tughlaq Nama, Khazain-ul-Futuh, Qiran-us-Sadain, Nuh Sipihr, Ashiqa*** | **Amir Khusrau** (*Tuti-i-Hind*) | Persian / Sultanate (Balban to Ghiyasuddin Tughlaq) | *Khazain-ul-Futuh* records Alauddin's conquests; *Nuh Sipihr* praises India's climate, flora, and culture; invented **Sitar**, **Qawwali**, and **Khayal** singing |
+| ***Tarikh-i-Mubarak Shahi*** | **Yahya bin Ahmad Sirhindi** | Persian / Mubarak Shah Sayyid | Only contemporary source for the Sayyid Dynasty |
+| ***Baburnama (Tuzuk-i-Baburi)*** | **Babur** | **Chagatai Turkish** | Candid royal memoirs; mentions 5 Muslim rulers (Delhi, Gujarat, Bahmani, Malwa, Bengal) and 2 Hindu kings (Krishnadeva Raya & Rana Sanga); translated into Persian by Abdur Rahim Khan-i-Khanan |
+| ***Humayun-nama*** | **Gulbadan Begum** (Babur's daughter) | Persian / Akbar | Intimate royal domestic account of the lives of Babur and Humayun |
+| ***Akbarnama* & *Ain-i-Akbari*** | **Abul Fazl** | Persian / Akbar | Official history in 3 volumes: Vol 1 (Ancestry), Vol 2 (Akbar's reign), Vol 3 (*Ain-i-Akbari* - administrative gazetteer, revenue statistics) |
+| ***Muntakhab-ut-Tawarikh*** | **Abdul Qadir Badauni** | Persian / Akbar | Critical counter-narrative of Akbar's religious policies; translated Ramayana and Mahabharata (*Razmnama*) into Persian |
+| ***Tuzuk-i-Jahangiri*** | **Jahangir** (completed by Mutamid Khan) | Persian / Self | Royal autobiography; reveals his passion for painting, birds, flowers, and natural history |
+| ***Padshahnama*** | **Abdul Hamid Lahori** | Persian / Shah Jahan | Official illustrated chronicle of the first two decades of Shah Jahan's reign |
+| ***Shah Jahan-nama*** | **Inayat Khan** | Persian / Shah Jahan | History of Shah Jahan's reign |
+| ***Sirr-i-Akbar* & *Majma-ul-Bahrain*** | **Dara Shikoh** | Persian | *Sirr-i-Akbar* is the Persian translation of **50 Upanishads**; *Majma-ul-Bahrain* (*The Mingling of Two Oceans*) harmonized Sufi and Vedantic philosophy |
+| ***Alamgirnama*** | **Mirza Muhammad Kazim** | Persian / Aurangzeb | Official history of the first 10 years of Aurangzeb's reign (stopped by Emperor) |
+| ***Muntakhab-ul-Lubab*** | **Khafi Khan** | Persian / Later Mughal | Secretly written history of Aurangzeb's reign and Deccan campaigns |
+| ***Nuskha-i-Dilkusha*** | **Bhimsen Saxena** | Persian / Aurangzeb | Eyewitness account of Aurangzeb's Deccan wars written from a non-courtier perspective |
+| ***Amuktamalyada*** | **Krishnadeva Raya** | **Telugu** | Masterpiece on statecraft and devotion of Andal (Godadevi) to Lord Vishnu |
+
+---
+
+## 5. Medieval Taxes & Economic Terms
+
+- **Jizya**: Religious protection tax levied on non-Muslim subjects (*Zimmis*):
+  - First levied in India by **Muhammad bin Qasim** in Sindh (712 CE).
+  - First levied on **Brahmins** as a separate category by **Firoz Shah Tughlaq**.
+  - **Abolished by Akbar in 1564 CE** (also abolished pilgrim tax in 1563).
+  - **Reimposed by Aurangzeb in 1679 CE**.
+  - Finally abolished permanently by later Mughal Emperor **Muhammad Shah "Rangeela"** in 1720 on recommendation of Sawai Jai Singh.
+- **Zakat**: Religious property tax levied exclusively on well-to-do Muslims (at 2.5% on wealth/savings) dedicated to charity.
+- **Kharaj**: General land revenue tax levied on agricultural produce of lands cultivated by non-Muslims (varying between 1/5th to 1/2).
+- **Khams**: State's share of **spoils of war / war booty**:
+  - Islamic Sharia rule: 1/5th to the State Treasury, 4/5th distributed among soldiers.
+  - **Alauddin Khalji and Muhammad bin Tughlaq reversed this rule**: took **4/5th for the State** and gave only 1/5th to the soldiers! Firoz Tughlaq restored orthodox rule.
+- **Haqq-i-Sharb**: **Irrigation tax** (levied at **10% of gross produce**) introduced by **Firoz Shah Tughlaq** on peasants using state-constructed canals.
+- **Chari & Ghari**: Taxes introduced by **Alauddin Khalji** — *Chari* was grazing tax on milch cattle; *Ghari* was tax on residential houses.
+- **Iqta System**: Reorganized and formalized by **Iltutmish**; assignment of land revenue of a territorial tract to nobles/commanders (*Iqtadars / Muqtis / Walis*) in lieu of cash salary, responsible for maintaining troop quotas and remitting surplus (*Fawazil*) to the central treasury.
+- **Karkhanas**: Royal manufacturing workshops; categorized into *Rikabi* (movable/travel) and *Ratibi* (fixed allowances); Firoz Shah Tughlaq maintained 36 giant royal Karkhanas.
+
+---
+
+## 6. The Medieval Battle Master Matrix (Chronological Ladder)
+
+| Year | Battle Name | Contenders | Victorious Party | Historical Impact / Prelims Takeaway |
 |---|---|---|---|---|
 | **1191** | **First Battle of Tarain** | Prithviraj Chauhan III vs Muhammad Ghori | **Prithviraj Chauhan** | Ghori wounded, fled to Ghazni |
 | **1192** | **Second Battle of Tarain** | Prithviraj Chauhan III vs Muhammad Ghori | **Muhammad Ghori** | Laid the foundation of Muslim rule in North India |
@@ -66,7 +140,7 @@
 
 ---
 
-## 4. Foreign Travellers & Visiting Rulers (Match the Following Goldmine)
+## 7. Foreign Travellers & Visiting Rulers (Match the Following Goldmine)
 
 | Foreign Traveler | Country of Origin | Period / Century | Indian Ruler / Court Visited | Famous Book / Key Observation |
 |---|---|---|---|---|
@@ -88,34 +162,7 @@
 
 ---
 
-## 5. Mughal Administration Terminology
-
-### A. Territorial Hierarchy
-- **Subah** (Province): Headed by **Subahdar** (Sipahsalar / Nazim) for law & order, and **Diwan** (independently appointed by Emperor for finance).
-- **Sarkar** (District): Headed by **Faujdar** (military/executive) and **Amalguzar** (revenue assessment & collection).
-- **Pargana** (Sub-district): Headed by **Shiqdar** (police/law) and **Amil** (revenue officer), assisted by *Qanungo* (hereditary record keeper).
-- **Gram** (Village): Headed by **Muqaddam** (village headman) and **Patwari** (village accountant).
-
-### B. Land Classification & Revenue Systems
-- **Polaj**: Land cultivated **every year** continuously (never left fallow); full revenue paid.
-- **Parauti**: Land left **fallow for 1 to 2 years** to recover its fertility.
-- **Chachar**: Land left **fallow for 3 to 4 years**.
-- **Banjar**: Uncultivated waste land left unploughed for **5 years or more**.
-- **Dahsala System (1580 CE)**: Introduced by Akbar with Finance Minister **Raja Todar Mal** (hence *Ain-i-Dahsala* or *Todar Mal's Bandobast*). Average produce and prices of the last **10 years (1570–1580)** calculated; state's share fixed at **one-third (1/3rd)**, mostly collected in cash.
-- **Batai / Ghalla-Bakhshi**: Crop-sharing division between state and peasant (Bhaoli, Khet Batai, Lang Batai).
-- **Nasaq / Kankut**: Rough visual estimate of crop yield based on previous records.
-
-### C. Mansabdari System
-- Introduced by **Akbar in 1571 CE** (borrowed from Mongol military decimal system).
-- Dual rank system introduced in 40th regnal year (1595–96):
-  - **Zat**: Personal status, rank in court hierarchy, and baseline personal salary.
-  - **Sawar**: Number of horsemen/cavalry (*tabinan*) the Mansabdar was required to maintain.
-- **Du-aspa Sih-aspa**: Introduced by **Jahangir** — allowed a Noble to maintain a larger quota of horsemen without raising his Zat rank.
-- **Mahashart** (Month scales): Introduced by **Shah Jahan** — paying salaries for only 4 to 8 months in cash/assignments due to revenue deficits.
-
----
-
-## 6. Bhakti & Sufi Saints & Philosophies (Core Match Matrix)
+## 8. Bhakti & Sufi Saints & Philosophies (Core Match Matrix)
 
 ### A. Philosophers & Doctrines
 | Philosopher Saint | Period / Century | Philosophy / Doctrine | Core Tenet | Mathas / Center |
@@ -127,15 +174,7 @@
 | **Vallabhacharya** | 15th–16th c. (1479–1531 CE) | **Shuddhadvaita** (*Pure Non-dualism*) | World is not an illusion but pure manifestation of Krishna; **Pushti Marga** (Grace of God) | Rudra Sampradaya (Varanasi / Braj) |
 | **Chaitanya Mahaprabhu** | 16th c. (1486–1534 CE) | **Achintya Bhedabheda** (*Inconceivable Oneness & Difference*) | Kirtana & Sankirtana movement; ecstatic love for Radha-Krishna | Nadia / Navadvip (Bengal) |
 
-### B. Bhakti Saints Quick-Hit Facts
-- **Kabir** (15th c.): Disciple of Ramananda; Nirguna Bhakti; *Bijak* (compiled by disciples: Sakhi, Sabad, Ramaini); weaver (*Julaha*) of Varanasi.
-- **Guru Nanak** (1469–1539): Born at Talwandi (Nankana Sahib, Pak); Nirguna Bhakti; initiated *Langar* (community kitchen) and *Sangat*.
-- **Mirabai** (1498–1546): Rajput princess married to Bhoj Raj (son of Rana Sanga); Saguna Bhakti of Giridhar Gopal (Krishna); Padavali in Braj Bhasha/Rajasthani.
-- **Tulsidas** (1532–1623): Contemporary of Akbar and Jahangir; wrote *Ramcharitmanas* (in Awadhi), *Vinaya Patrika*, *Kavitavali*, *Gitavali*.
-- **Surdas** (16th c.): Disciple of Vallabhacharya; *Sursagar*, *Sur Saravali*, *Sahitya Lahari*; Braj Bhasha poet of Krishna's childhood.
-- **Shankaradeva** (1449–1568): Vaishnava saint of Assam; propounded *Ekasarana Dharma*; introduced **Sattriya** dance, *Borgeet*, and *Ankiya Nat*.
-
-### C. Sufi Silsilahs (Orders) in India
+### B. Sufi Silsilahs (Orders) in India
 | Silsilah | Prominent Saints | Key Center / Khanqah | Key Feature / Attitude to State |
 |---|---|---|---|
 | **Chishti** (Most popular) | **Khwaja Moinuddin Chishti** (Ajmer - *Gharib Nawaz*), Bakhtiyar Kaki (Delhi), Baba Farid (Ajodhan - verses in Guru Granth Sahib), **Nizamuddin Auliya** (*Mehboob-i-Ilahi* - saw reigns of 7 Sultans), Nasiruddin Chirag-i-Delhi | Ajmer, Delhi, Punjab | Kept strict distance from royal court; practiced **Sama** (musical recitals) and poverty; vegetarianism |
@@ -145,31 +184,7 @@
 
 ---
 
-## 7. Vijayanagara & Bahmani Kingdoms
-
-### A. Vijayanagara Dynasties (1336–1646 CE)
-1. **Sangama (1336–1485)**: Founded by brothers **Harihara I & Bukka I** inspired by sage Vidyaranya.
-2. **Saluva (1485–1505)**: Usurped by Saluva Narasimha.
-3. **Tuluva (1505–1570)**: Founded by Vira Narasimha; peak under **Krishnadeva Raya (1509–1529)**:
-   - Wrote ***Amuktamalyada*** (Telugu work on statecraft) and ***Jambavati Kalyanam*** (Sanskrit).
-   - Court adorned by **Ashtadiggajas** (8 Telugu poets, led by Allasani Peddana - *Manucharitam*).
-   - Built Hazara Rama Temple, Vijaya Vitthala Temple (famous 56 musical pillars), and Nagalapuram town.
-   - Took title: *Andhra Bhoja*, *Yavana-rajya-sthapana-acharya*.
-4. **Aravidu (1570–1646)**: Founded by Tirumala after destruction at Talikota (1565).
-
-### B. Bahmani Kingdom (1347–1527 CE)
-- Founded by **Alauddin Hasan Bahman Shah** (Hasan Gangu) in 1347 with capital at **Gulbarga** (later shifted to **Bidar** by Ahmad Shah Wali).
-- Famous Prime Minister: **Mahmud Gawan** (built Mahmud Gawan Madrasa at Bidar).
-- Split into **5 Deccan Sultanates**:
-  1. **Bijapur** (Adil Shahi - 1489): Built **Gol Gumbaz** (whispering gallery, tomb of Muhammad Adil Shah).
-  2. **Ahmadnagar** (Nizam Shahi - 1490): Annexed by Shah Jahan in 1636; Malik Ambar introduced guerrilla tactics.
-  3. **Golconda** (Qutb Shahi - 1512): Built **Charminar** (1591, Muhammad Quli Qutb Shah) and Golconda Fort.
-  4. **Berar** (Imad Shahi - 1490): First to separate, **did not participate in Battle of Talikota**.
-  5. **Bidar** (Barid Shahi - 1492): Smallest sultanate.
-
----
-
-## 8. Marathas & Shivaji's Administration
+## 9. Marathas & Shivaji's Administration
 
 ### A. Shivaji's Ashtapradhan Council (Direct Matching Questions)
 | Member | Designation / Portfolio | Primary Function |
@@ -193,240 +208,3 @@
 - **Silahdars**: Mercenary cavalrymen who brought their own horses and arms.
 - **Treaty of Purandar (1665)**: Between Shivaji and Mughal General **Raja Jai Singh I** of Amber; Shivaji surrendered 23 out of 35 forts.
 - **Coronation (1674)**: At **Raigad Fort** by pandit **Gaga Bhatt** of Varanasi; assumed titles **Chhatrapati** and *Haindava Dharmoddharak*.
-
----
-
-## 9. Sikh Gurus Chronology (10 Gurus)
-
-| No. | Guru Name | Life / Guru Period | Landmark Milestone / Contribution |
-|---|---|---|---|
-| **1** | **Guru Nanak Dev** | 1469–1539 | Founder of Sikhism; started *Langar* and *Pangat*; born at Nankana Sahib |
-| **2** | **Guru Angad Dev** | 1539–1552 | Invented **Gurmukhi script**; popularized physical training (*Mall Akhara*) |
-| **3** | **Guru Amar Das** | 1552–1574 | Established **Manji system** (22 administrative preaching centers); strictly abolished Sati & Purdah; instituted *Anand Karaj* marriage ceremony |
-| **4** | **Guru Ram Das** | 1574–1581 | Founded **Amritsar** (pool named *Amrit Sarovar* on 500 bighas of land granted by Emperor **Akbar**); started *Masand* system |
-| **5** | **Guru Arjan Dev** | 1581–1606 | Compiled **Adi Granth** (1604 CE, installed at Harmandir Sahib); built **Harmandir Sahib (Golden Temple)**; **martyred by Jahangir** in 1606 for aiding rebel Prince Khusrau |
-| **6** | **Guru Hargobind** | 1606–1644 | Militarized Sikhs; concept of **Miri (temporal authority)** & **Piri (spiritual authority)**; built **Akal Takht (1609)**; constructed Lohgarh fort |
-| **7** | **Guru Har Rai** | 1644–1661 | Maintained cavalry of 2200; gave shelter to Prince Dara Shikoh during Mughal war of succession |
-| **8** | **Guru Har Krishan** | 1661–1664 | Youngest Guru (*Bal Guru*, succeeded at age 5); died of smallpox in Delhi |
-| **9** | **Guru Tegh Bahadur** | 1664–1675 | Founded Anandpur Sahib; protected Kashmiri Pandits; **beheaded by Aurangzeb** at Chandni Chowk, Delhi (**Gurdwara Sis Ganj Sahib**) in 1675 |
-| **10** | **Guru Gobind Singh** | 1675–1708 | Founded the **Khalsa Panth** on Baisakhi **1699** at Anandpur Sahib; instituted **5 Ks** (Kesh, Kangha, Kara, Kachera, Kirpan); declared Guru Granth Sahib as the **eternal living Guru**; assassinated at Nanded (Maharashtra) |
-
----
-
-## 10. Regional Kingdoms (Jaunpur & Kashmir)
-
-- **Sharqi Kingdom of Jaunpur (Uttar Pradesh Special!)**:
-  - Founded in 1394 by **Malik Sarwar** (*Malik-us-Sharq* / Lord of the East) during the reign of Nasiruddin Mahmud Tughlaq.
-  - Known as the **"Shiraz of the East"** (*Shiraz-i-Hind*) due to magnificent architecture, music, and learning.
-  - **Ibrahim Shah Sharqi**: Peak ruler; built **Atala Masjid** (1408 CE, built on site of Atala Devi temple) and Jhanjhari Masjid.
-  - **Husain Shah Sharqi**: Created famous classical music melodies (Khayal singing styles, Jaunpuri Todi); Sharqi kingdom finally annexed by **Bahlul Lodi** in 1479.
-- **Kashmir & Zain-ul-Abidin**:
-  - **Zain-ul-Abidin (1420–1470 CE)**: Celebrated as **"Badshah"** and the **"Akbar of Kashmir"**.
-  - Abolished Jizya, banned cow slaughter, repaired Hindu temples, recalled exiled Brahmins.
-  - Built artificial island **Zaina Lank** in Wular Lake; got *Mahabharata* and Kalhana's *Rajatarangini* translated into Persian (*Dvitiya Rajatarangini* by Jonaraja).
-
----
-
-## 11. Early Medieval North & South (750–1200 CE)
-
-The Delhi Sultanate starts in **1206**. Early medieval India is the age of regional kingdoms and hereditary **samantas**.
-
-### A. Tripartite Struggle for Kannauj
-| Power | Region / capital | Headline names |
-|---|---|---|
-| **Pala** | Bengal–Bihar; later Vikramashila | **Gopala** elected founder; **Dharmapala** founded **Vikramashila** and backed Chakrayudha at Kannauj; **Devapala** marked the peak; **Atisha** carried Buddhism toward Tibet |
-| **Gurjara-Pratihara** | Bhinmal → **Kannauj** | **Nagabhatta I** checked the Arabs; **Mihir Bhoja** took the title **Adivaraha** and recovered Kannauj (~836) |
-| **Rashtrakuta** | **Manyakheta** (Malkhed) | **Indra III** sacked Kannauj (915–918); **Krishna III** pressed again (963); **Krishna I** cut the Kailasa temple at Ellora |
-
-> **Logic:** The Cholas were **not** a party to the Kannauj triangle. **Mihir Bhoja** (Pratihara, Kannauj) is not **Bhoja I** of the **Paramaras** at **Dhara** in Malwa.
-
-### B. Other North Indian houses
-| Dynasty | Seat | Takeaway |
-|---|---|---|
-| **Chandela** | Khajuraho / **Mahoba / Kalinjar** (Bundelkhand UP) | Kandariya Mahadeva; Kalinjar is in Banda belt |
-| **Gahadavala** | **Kannauj and Banaras** | **Jayachandra** killed at **Chandawar (1194)** |
-| **Paramara** | Malwa / **Dhara** | Bhoja I — scholar-king, not the Pratihara Bhoja |
-| **Kalachuri** | **Tripuri** (Chedi / Dahala) | Separate from Chedi Mahajanapada of the 6th century BCE |
-| **Sena** (Bengal) | Nadia / Lakhnauti | Order: **Hemant → Vijaya → Ballal → Lakshman**; Lakshmanasena fled Bakhtiyar Khalji |
-
-UP medieval names: **Kannauj = Kanyakubja**; **Ayodhya = Saketa**; **Varanasi = Kashi / Avimukta**.
-
-### C. Imperial Chola daily card
-- Capital moved from **Thanjavur** to **Gangaikondacholapuram** under **Rajendra I**.
-- Administration: **Mandalam → Valanadu → Nadu → Village**. **Ur** = ordinary village assembly. **Sabha / Mahasabha** = Brahmana agrahara assembly.
-- **Uttiramerur** inscription of **Parantaka I** describes the **kudavolai** (pot-ticket) system and *variyam* qualifications.
-- Navy struck **Sri Lanka**, the **Maldives**, and **Kadaram (Kedah)**; **Nagapattinam** was a key port.
-- Temple chronology: Shore Temple (Pallava) → **Brihadeshwara 1010 (Rajaraja I)** → **Gangaikondacholapuram ~1025 (Rajendra I)**.
-
----
-
-## 12. Sher Shah Suri (1540–1545) — the short empire that taught the Mughals
-
-| Head | Correct |
-|---|---|
-| Birth name | **Farid Khan** of **Sasaram**; educated at **Jaunpur** (*Siraj-i-Hind*) |
-| Titles | **Sher Khan** (tiger-kill tradition) → **Sher Shah** after **Chausa (1539)** |
-| Battles vs Humayun | **Chausa 26 June 1539** (Humayun escaped on a mashak) → **Kannauj / Bilgram 17 May 1540** (Humayun into 15-year exile) |
-| Death | **May 1545**, **Kalinjar** siege, gunpowder blast; tomb is the lake mausoleum at **Sasaram** |
-| Successor | **Islam Shah (Jalal Khan), 1545–1553**; Humayun returned **1555** |
-| Roads | **Sarak-i-Azam (GT Road)** from **Sonargaon (Bengal) to Peshawar**; sarais about every **12 kos** |
-| Currency | Silver **rupiya** (~178 grains); copper **dam** (~1/40 of a rupiya); gold **mohur**. Akbar continued the dam |
-| Revenue papers | **Patta** (state title deed) + **qabuliat** (peasant’s written acceptance) |
-| Survey | **Jarib** is the **measuring rope**, not a tax. **Jaribana** = survey fee. **Muhasilana** = collection fee. **Rai** = crop rate per bigha |
-| Pargana officers | **Shiqdar** (law and order), **Munsif** (accounts/justice), **Amil / Desai** (collection) |
-| Army precursor | **Dagh** (horse brand) and **chehra** (soldier’s descriptive roll) — later used by the Mughals |
-| Forts | **Rohtas** (Bihar) against Humayun’s return; **Purana Qila** and **Qila-i-Kuhna** mosque (Delhi) |
-| Marwar | **Sammel / Giri-Sumel 1544** vs Rao Maldeo; **Jayata and Kumpa** were **Marwar** Rathore captains, not Mewar warriors |
-
-> **Logic:** **Daurah (1532)** was Humayun versus Afghan chiefs. It is **not** Chausa. **Todar Mal** trained in Sher Shah’s measurement practice before Akbar’s dahsala. Sher Shah did **not** create hereditary mansabdari.
-
----
-
-## 13. Mughal Emperors, Tombs & Architecture
-
-### A. Emperor ladder
-| Emperor | Reign peg | One-line daily fact |
-|---|---|---|
-| **Babur** | 1526–1530 | *Baburnama* in **Chagatai Turki**, not Persian; court language of later Mughals was **Persian**; took **Padshah** at **Kabul (1504)** |
-| **Humayun** | 1530–40; 1555–56 | Lost Chausa and Kannauj; **Gulbadan** wrote *Humayunnama*; died falling from **Sher Mandal** stairs |
-| **Akbar** | 1556–1605 | 2nd Panipat with **Bairam Khan**; **Fatehpur Sikri 1571–85**; **Allahabad fort 1583**; abolished **jizya 1564**; **Din-i-Ilahi 1582**; **Sulh-i-Kul** |
-| **Jahangir** | 1605–1627 | **Du-aspa sih-aspa** in mansabdari; executed **Guru Arjan (1606)**; Hawkins and Roe at court |
-| **Shah Jahan** | 1628–1658 | **Month-scales (mahashart)**; Taj Mahal; Shahjahanabad; imprisoned at Agra Fort after Samugarh |
-| **Aurangzeb** | 1658–1707 | Reimposed **jizya 1679**; annexed **Bijapur 1686** and **Golconda 1687**; executed **Guru Tegh Bahadur 1675** |
-| **Bahadur Shah I** | 1707–1712 | Won **Jajau 1707** against Azam Shah |
-| **Farrukhsiyar** | 1713–1719 | **1717 farman** to the Company (*Magna Carta of EIC*); peak of the **Sayyid Brothers** |
-| **Muhammad Shah Rangeela** | 1719–1748 | **Nadir Shah** at **Karnal 1739**; Peacock Throne and Koh-i-Noor carried off |
-| **Bahadur Shah II Zafar** | 1837–1857 | Last Mughal; 1857 nominal head; exiled to **Rangoon** |
-
-Akbar began with about **12 subahs**. Under Aurangzeb the count reached about **21**.
-
-### B. Tomb match
-| Emperor | Tomb city |
-|---|---|
-| Babur | **Kabul** (Bagh-e-Babur) |
-| Humayun | **Delhi** (first mature Mughal garden tomb; UNESCO) |
-| Akbar | **Sikandra**, Agra |
-| Jahangir | **Lahore** (Shahdara) |
-| Shah Jahan | **Agra** (Taj Mahal) |
-| Aurangzeb | **Khuldabad**, Maharashtra (simple grave) |
-
-### C. Architecture match
-| Work | Patron | Takeaway |
-|---|---|---|
-| **Buland Darwaza** | Akbar | Commemorates **Gujarat victory of 1572**, **not** Jahangir’s birth |
-| **Panch Mahal** | Akbar | Five-storey palace at Fatehpur Sikri |
-| **Ibadat Khana** | Akbar | House of worship / debate at Sikri; seed of Sulh-i-Kul |
-| **Taj Mahal** | Shah Jahan | Tomb of Mumtaz Mahal (Arjumand Banu); Ustad Ahmad Lahori traditionally named |
-| **Red Fort + Jama Masjid** | Shah Jahan | Shahjahanabad (Delhi) |
-| **Bibi ka Maqbara** | Azam Shah (Aurangzeb’s son) | Aurangabad; “Deccan Taj” |
-| **Moti Masjid (Red Fort)** | Aurangzeb | Marble mosque inside the Delhi fort |
-
-Court death order under Akbar: **Sheikh Mubarak 1593 → Faizi 1595 → Abul Fazl murdered 1602 → Daniyal 1605**.
-
-**Abul Fazl** wrote *Akbarnama* and *Ain-i-Akbari*. **Abdur Rahim Khan-i-Khana** translated *Baburnama* into Persian. **Bairam Khan** received the title **Khan-i-Khana** from **Akbar**.
-
----
-
-## 14. Medieval Books & Authors (match goldmine)
-
-| Work | Author | Court / language peg |
-|---|---|---|
-| **Tahqiq-i-Hind / Kitab-ul-Hind** | **Al-Biruni** | Mahmud of Ghazni; Sanskrit science and caste |
-| **Chachnama** | Translated into Persian later | Arab conquest of Sindh (Muhammad bin Qasim) |
-| **Tabqat-i-Nasiri** | **Minhaj-us-Siraj** | Slave dynasty chronicle |
-| **Tarikh-i-Firoz Shahi** | **Ziauddin Barani** (and later Afif for Firoz) | Khalji–Tughlaq politics |
-| **Fatwa-i-Jahandari** | **Ziauddin Barani** | Advice on kingship |
-| **Kitab-ur-Rehla** | **Ibn Battuta** | Muhammad bin Tughlaq |
-| **Padmavat** | **Malik Muhammad Jayasi** | Awadhi; composed in **1540** at **Jais** (UP) in Sher Shah’s age |
-| **Akbarnama + Ain-i-Akbari** | **Abul Fazl** | Official history + gazetteer |
-| **Muntakhab-ut-Tawarikh** | **Abdul Qadir Badauni** | Critical of Akbar’s religious experiments |
-| **Tuzuk-i-Jahangiri** | **Jahangir** | Autobiography |
-| **Padshahnama** | Abdul Hamid Lahori & others | Shah Jahan |
-| **Alamgirnama** | Muhammad Kazim | Aurangzeb (early years) |
-| **Majma-ul-Bahrain** & **Sirr-i-Akbar** | **Dara Shikoh** | “Mingling of Two Oceans”; Persian Upanishads |
-| **Amuktamalyada** | **Krishnadeva Raya** | Telugu statecraft |
-| **Kavirajamarga** | **Amoghavarsha I** | Early Kannada poetics |
-| **Prithviraj Raso** | **Chand Bardai** | Chauhan epic (later recensions) |
-| **Rajatarangini** | **Kalhana** | Kashmir chronicle, 1148–50 |
-
----
-
-## 15. Rajput Houses (quick match)
-
-| House | Region / capital | Headline names |
-|---|---|---|
-| **Guhila / Sisodia** | **Mewar** (Chittor, later Udaipur) | **Rana Kumbha** (Kumbhalgarh, *Kirtistambha*); **Rana Sanga** (Khanwa 1527); **Maharana Pratap** (Haldighati 1576, guerrilla from Kumbhalgarh / Chavand) |
-| **Kachwaha** | **Amber / Jaipur** | **Raja Man Singh** commanded at Haldighati for Akbar; **Raja Jai Singh I** signed **Purandar 1665** with Shivaji |
-| **Rathore** | **Marwar** (Jodhpur) | **Rao Jodha** founded Jodhpur; **Maldeo** fought Sher Shah at Sammel; **Jaswant Singh** lost **Dharmat 1658** |
-| **Chauhan** | Ajmer / Delhi (early) | **Prithviraj III** — Tarain 1191 win, 1192 loss |
-| **Tomar** | Delhi | **Anangpal** associated with Lal Kot; later Delhi passed to Chauhans |
-
-> **Logic:** **Mewar** is Sisodia Pratap. **Marwar** is Rathore Maldeo. Jayata–Kumpa died for **Marwar**, not Mewar.
-
----
-
-## 16. Uttarakhand Medieval (UKPCS daily box)
-
-| Head | Correct |
-|---|---|
-| **Katyuri** | Early medieval hill dynasty; Baijnath / Kartikeyapur tradition; decline opens the way for Chand and Parmar |
-| **Chand of Kumaon** | Seat at **Champawat**, later **Almora** (founded by **Kalyan Chand**, 1563 tradition); **Baz Bahadur Chand** linked to Badrinath restoration |
-| **Parmar / Panwar of Garhwal** | Seat at **Srinagar (Garhwal)**; **Ajay Pal** traditionally unified Garhwal |
-| **Gorkha interlude** | Gorkhas held Kumaon–Garhwal until the **Anglo-Nepal War**; British took the hills by **Sugauli (1816)** |
-| **Joshimath matha** | Adi Shankara’s **northern** matha at **Badrikashram** (Uttarakhand) — Advaita card already in Bhakti table |
-
----
-
-## 17. Extra Confused Pairs (Medieval)
-
-| A | B | Correct |
-|---|---|---|
-| Pala–Pratihara–Rashtrakuta | Cholas | Kannauj triangle vs **Tamil** imperial power |
-| Mihir Bhoja | Bhoja Paramara | Pratihara **Kannauj / Adivaraha** vs Malwa **Dhara** |
-| Chausa 1539 | Kannauj 1540 | Humayun **escaped** vs Humayun **exiled** |
-| Daurah 1532 | Dharmat 1658 | Humayun vs Afghans vs **Aurangzeb vs Jaswant Singh** |
-| Jarib | Rai | Measuring **rope** vs crop-rate per **bigha** |
-| Patta | Qabuliat | State deed vs peasant **acceptance** |
-| Zabt | Dahsala | Measurement assessment vs **10-year average** (1580) |
-| Zat | Sawar | Personal rank vs **cavalry quota** |
-| Sulh-i-Kul | Din-i-Ilahi | Universal peace **policy** vs 1582 small **court cult** |
-| Baburnama language | Court language | **Turki** vs later **Persian** |
-| Buland Darwaza | Jahangir’s birth | **Gujarat 1572** victory gate — birth is the trap |
-| Mewar | Marwar | Sisodia **Pratap** vs Rathore **Maldeo / Jaswant** |
-| Nyayadhish & Panditrao | Other Ashtapradhan | Only these two were **not** required to lead troops |
-
----
-
-## 18. Ghazni, Ghori & Sultanate Experiments
-
-| Head | Correct |
-|---|---|
-| **712 CE** | **Muhammad bin Qasim** took **Sindh** from **Dahir** (*Chachnama*) — Indus foothold, not Gangetic conquest |
-| **Mahmud of Ghazni** | About **17** raids; **Somnath** under **Bhimdev I**; **raid-and-return**, not territorial rule |
-| **Al-Biruni** | Came with Mahmud; *Kitab-ul-Hind*; first Muslim to study the Puranas in depth |
-| **Muhammad Ghori** | **Territorial conquest**; first Indian defeat **Mount Abu 1178** (Naika Devi); Tarain 1191 loss, **1192** win; Chandawar **1194** |
-| **Iqta** | Institutionalised in India by **Iltutmish**; revenue to the **Muqti**; **Khalsa** = crown land |
-| **Khams** | One-fifth of war booty |
-| **Razia** | **1236–40**; only woman Sultan of Delhi |
-| **Alauddin army** | Cash-paid standing force; **Dagh + Chehra**; **Shahna-i-Mandi** = market controller |
-| **Alauddin markets** | Grain, cloth, horses/slaves, miscellaneous — prices frozen; **Diwan-i-Riyasat** |
-| **Alauddin tax** | About **50%** by measurement; **Ghari** (house) and **Charai** (cattle) |
-| **MbT experiments** | Capital to **Daulatabad**; **token currency**; **Diwan-i-Kohi**; Doab tax hike; Khurasan / Qarachil |
-| **Firoz Shah** | Canals + **Haqq-i-Sharb**; made **iqta hereditary**; **jizya on Brahmins**; moved Ashoka pillars (Topra, Meerut) |
-| **Shahna-i-Mandi** vs **Amir-i-Kohi** | Alauddin **market** vs Muhammad bin Tughlaq **agriculture** — do not swap |
-
-### Sultanate architecture
-| Work | Builder |
-|---|---|
-| **Qutb Minar** | Started **Aibak**, finished **Iltutmish** |
-| **Quwwat-ul-Islam** | Aibak (Delhi) |
-| **Dhai Din ka Jhopra** | Aibak (Ajmer) |
-| **Sultan Garhi** | Iltutmish (first Islamic tomb in India tradition) |
-| **Alai Darwaza (1311)** | Alauddin Khalji |
-| **Siri Fort** | Alauddin |
-| **Tughlaqabad** | Ghiyasuddin Tughlaq |
-| **Firoz Shah Kotla** | Firoz Shah Tughlaq |
-
-**Bakhtiyar Khalji** destroyed Nalanda and Vikramshila, took Nadia (~1204), and made **Lakhnauti** his capital. **Lakshmana Sena** fled east.
-
-**Ahoms** of Assam: **Sukapha** founder; **Moidams** at Charaideo are UNESCO WHS **2024**. **Lachit Borphukan** won **Saraighat (1671)** against the Mughals.
