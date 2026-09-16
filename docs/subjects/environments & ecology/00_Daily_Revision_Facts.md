@@ -1,9 +1,11 @@
 # Daily Read — High-Yield Revision Facts (Environment & Ecology)
-### ★ UPPCS & UKPCS Prelims Daily Fact Dump · Active Recall Cheat-Sheet
+### ★ UPPCS + UKPCS Prelims Daily Sheet · Match, chronology, and confused-pair recall
 
-> **Exam Focus:** UPPSC Prelims (Paper 1), UKPSC Prelims (Paper 1), RO/ARO, BEO  
-> **Frequency:** Daily morning read (12–15 mins)  
-> **Question Types Covered:** Environmental Acts vs Years, International Conventions & Protocols, 18 Biosphere Reserves & UNESCO MAB list, Wildlife Conservation Projects, Ecological Pyramids & Food Chains, Environmental Days.
+> **Use:** Morning cycle, 15–20 minutes. Rotate sections so the full sheet is covered in about a week.  
+> **Stems this sheet feeds:** Acts vs years, conventions, biospheres, conservation projects, pyramids, days, hotspots, Ramsar, tiger reserves, movements.  
+> **Last filled:** September 2026 — 4 hotspots, Ramsar 101, 58 tiger reserves, famous NPs, Chipko/Appiko, Panchamrit, UP + Uttarakhand protected areas.
+
+**Seven-day rotation:** 1 Acts + projects · 2 Biospheres + hotspots · 3 Conventions + climate (Paris/Panchamrit) · 4 Ecology laws + pollution · 5 Ramsar + tiger + NPs · 6 Movements + days · 7 UP/UK protected areas + confused pairs.
 
 ---
 
@@ -30,7 +32,7 @@
 
 | Project Name | Year Launched | Launch Location / Nodal Agency | Key Objective / Status / Prelims Fact |
 |---|---|---|---|
-| **Project Tiger** | **1 April 1973** | **Jim Corbett National Park (Uttarakhand)** | Central scheme; initiated with 9 reserves under Kailash Sankhala ("Tiger Man of India"); statutory backing via NTCA (2006); **55+ Tiger Reserves** today; Corbett has highest tiger density |
+| **Project Tiger** | **1 April 1973** | **Jim Corbett National Park (Uttarakhand)** | Central scheme; initiated with 9 reserves under Kailash Sankhala ("Tiger Man of India"); statutory backing via NTCA (2006); **58 Tiger Reserves** (NTCA, 2025–26); Corbett has highest tiger density |
 | **Project Crocodile** | **1975** | Hyderabad / Odisha (with UNDP & FAO aid) | Conservation of 3 crocodilian species: Gharial (*Gavialis gangeticus*), Mugger crocodile, and Saltwater crocodile (Bhitarkanika, Odisha) |
 | **Project Hangul** | **1970** | Dachigam National Park (J&K) | Conservation of Kashmir Stag (*Cervus elaphus hanglu* - critically endangered) with IUCN/WWF aid |
 | **Project Rhino (IRV 2020)** | **1987 / 2005** | Assam (Kaziranga, Manas, Orang, Pobitora) | Indian Rhino Vision 2020 aimed to attain a wild population of at least 3,000 Greater One-Horned Rhinos in Assam |
@@ -180,3 +182,244 @@ $$\mathbf{SF_6} \ (23,500) > \mathbf{PFCs} \ (7,000\text{--}9,000) > \mathbf{HFC
 | **5 October** | **National Dolphin Day (India)** | Declaration of Gangetic Dolphin as National Aquatic Animal (2009) |
 | **16 October** | **World Food Day** | Founding of the FAO (1945) |
 | **5 December** | **World Soil Day** | Promotes importance of healthy soil and sustainable soil management |
+
+---
+
+## 8. Biodiversity Hotspots & Species Roles
+
+India has **four** biodiversity hotspots. A hotspot needs about **≥1500 endemic vascular plants** and **≥70%** of original habitat lost. **Norman Myers** coined the hotspot idea. There are **36** global hotspots.
+
+| Hotspot | India portion | Trap |
+|---|---|---|
+| **Himalaya** | Entire Indian Himalaya including **Uttarakhand** | Valley of Flowers sits here |
+| **Indo-Burma** | NE India **except** most of the Brahmaputra plain; **Andaman** islands | Do **not** put Nicobar here |
+| **Western Ghats–Sri Lanka** | Western Ghats + Sri Lanka | **Silent Valley (Kerala)** rainforest peg |
+| **Sundaland** | **Nicobar** islands | Andamans are **Indo-Burma**, Nicobar is **Sundaland** |
+
+Eastern Ghats, Vindhyas, and the Gangetic plain are **not** hotspots.
+
+**Species-role one-liners:**
+- **Keystone** — disproportionately large effect (fig tree, tiger, starfish in textbooks).
+- **Flagship** — charismatic face of a campaign (tiger, panda).
+- **Umbrella** — protecting it protects many others (tiger landscape).
+- **Indicator** — signals ecosystem health (lichen, amphibians).
+- **Endemic** — found only in one area.
+- **Invasive alien** — non-native and harmful (**Prosopis juliflora**, lantana, water hyacinth).
+
+**IUCN:** **Threatened = VU + EN + CR**. **Endangered** means **EN only**. Red Data Book lists threatened species.
+
+India holds about **2.4%** of world land and about **7–8%** of global species. Coral reefs: **Lakshadweep (atolls), Gulf of Mannar, Gulf of Kachchh, Andaman & Nicobar** — **not** Sundarbans (those are mangroves).
+
+**In-situ** = NP, sanctuary, BR, sacred grove. **Ex-situ** = zoo, seed bank, cryo-bank (liquid nitrogen).
+
+---
+
+## 9. Ramsar Sites (India 101 as of August 2026)
+
+India joined Ramsar on **1 Feb 1982**. First two sites: **Chilika (Odisha)** and **Keoladeo (Rajasthan)**. **Tamil Nadu** currently has the **most** sites (**20**). **Montreux Record** (sites needing priority attention): **Keoladeo** and **Loktak**.
+
+Largest by area in many lists: **Sundarban Wetland** (WB). Chilika is the largest lagoon. **Renuka** (HP) is among the smallest.
+
+**101st site (3 Aug 2026):** **Glaw Lake**, Arunachal Pradesh.
+
+### Uttar Pradesh Ramsar (high-yield names)
+UP has a **large** Ramsar cluster (teaching count **10–12+** as notifications have grown). Names that recycle:
+
+| Wetland | District peg |
+|---|---|
+| **Nawabganj** | Unnao |
+| **Parvati Arga** | Gonda |
+| **Saman** | Mainpuri |
+| **Samaspur** | Rae Bareli |
+| **Sandi** | Hardoi |
+| **Sarsai Nawar** | Etawah |
+| **Sur Sarovar (Keetham)** | Agra |
+| **Upper Ganga** | Bijnor stretch |
+| **Haiderpur** | Bijnor / Muzaffarnagar |
+| **Bakhira** | Sant Kabir Nagar |
+| **Nawabganj / Surinsar-class trap** | Keep **UP names in UP**; Surinsar–Mansar is **J&K** |
+
+### Uttarakhand
+**Asan Conservation Reserve** (Dehradun, Yamuna–Asan confluence) is the State’s Ramsar wetland.
+
+> **Logic:** Ramsar **1971** is wetlands. World Heritage is **1972**. Most Ramsar sites are **not** WHS. **Keoladeo** is both.
+
+---
+
+## 10. Tiger Reserves = 58 (NTCA, Madhav 2025 is the 58th)
+
+Project Tiger: **1 April 1973**, 9 reserves, **Kailash Sankhala**. NTCA statutory from **2006**. Cover about **84,500 km²**.
+
+| State | Reserves to ratta |
+|---|---|
+| **Uttarakhand** | **Corbett** (highest density; also India’s first NP tradition **1936**) |
+| **Uttar Pradesh** | **Dudhwa**; **Pilibhit**; **Amangarh** (buffer of Corbett, Bijnor) |
+| **Madhya Pradesh** | Kanha, Bandhavgarh, Pench, Panna, Satpura, Sanjay–Dubri, **Veerangana Durgavati**, **Ratapani (2024)**, **Madhav (2025, 58th)** |
+| **Rajasthan** | Ranthambore, Sariska, Mukundra, Ramgarh Vishdhari, **Dholpur–Karauli** |
+| **Others** | Sundarbans (WB), Kaziranga (Assam), Bandipur (Karnataka), Periyar (Kerala), Namdapha (Arunachal), **Guru Ghasidas–Tamor Pingla (Chhattisgarh 2024)** |
+
+**St. Petersburg Tiger Summit (2010)** created **International Tiger Day (29 July)** and TX2 (double tigers by 2022) — India met the spirit of the count rise.
+
+---
+
+## 11. Famous National Parks (match goldmine)
+
+| National Park | State | Unique fauna / fact |
+|---|---|---|
+| **Jim Corbett** | Uttarakhand | **1936** as Hailey NP; first NP; Project Tiger launch landscape |
+| **Rajaji** | Uttarakhand | **1983**; elephant corridor, Shiwalik |
+| **Gangotri** | Uttarakhand | **1989**; Gaumukh–high Himalaya |
+| **Govind** | Uttarakhand | **1990** (not 1989); Uttarkashi |
+| **Nanda Devi / Valley of Flowers** | Uttarakhand | WHS + BR; snow leopard, musk deer, blue sheep |
+| **Dudhwa** | UP (Lakhimpur Kheri) | Tiger, swamp deer, rhino reintroduction |
+| **Kaziranga** | Assam | One-horned rhino; WHS |
+| **Manas** | Assam | WHS; tiger, pygmy hog |
+| **Sundarbans** | WB | Mangrove tiger; WHS + Ramsar |
+| **Gir** | Gujarat | **Asiatic lion** — only wild population |
+| **Keoladeo (Bharatpur)** | Rajasthan | Former duck shoot; WHS + Ramsar; Siberian crane memory |
+| **Ranthambore** | Rajasthan | Dry deciduous tiger |
+| **Kanha** | MP | **Barasingha** (hard-ground swamp deer) |
+| **Bandipur / Nagarhole / Mudumalai / Wayanad** | KA–TN–KL | Nilgiri Biosphere cluster |
+| **Periyar** | Kerala | Elephant, tiger; lake |
+| **Silent Valley** | Kerala | Rainforest; NP **1984** after anti-dam movement |
+| **Hemis** | Ladakh | Largest NP; **snow leopard** |
+| **Great Himalayan NP** | HP | WHS |
+| **Khangchendzonga** | Sikkim | India’s **only mixed** WHS |
+| **Marine NPs** | Gujarat / ANI | Gulf of Kachchh; Mahatma Gandhi Marine (Wandoor) |
+
+**Sanctuary vs NP:** NP has **stricter** protection (no grazing / private rights in the classic teaching). Sanctuary can allow more regulated use. **Conservation Reserve / Community Reserve** came with the **2002** WPA amendment.
+
+**UK sanctuary–district:** Askot–**Pithoragarh**; Binsar–**Almora**; Govind–**Uttarkashi**; Nandhaur–**Nainital**.
+
+---
+
+## 12. Indian Environmental Movements
+
+| Movement | Year | Place | Leaders / method |
+|---|---|---|---|
+| **Bishnoi / Khejarli** | **1730** | Rajasthan | **Amrita Devi**; **363** martyrs; **khejri** trees — centuries older than Chipko |
+| **Chipko** | **1973** | **Reni, Chamoli (Uttarakhand)** | **Sunderlal Bahuguna, Chandi Prasad Bhatt, Gaura Devi**; tree-embracing |
+| **Silent Valley** | 1970s–84 | Palakkad, **Kerala** | **KSSP**; anti-hydro in rainforest |
+| **Jungle Bachao** | **1982** | Singhbhum, Jharkhand | Tribal forest rights |
+| **Appiko** | **1983** | **Sirsi, Karnataka** | **Panduranga Hegde**; southern tree-embrace |
+| **Narmada Bachao Andolan** | from **1985** | MP–Gujarat–Maharashtra | **Medha Patkar, Baba Amte**; anti-large-dam displacement |
+| **Save Western Ghats** | ~2011 | Multi-state | Gadgil (2011) vs Kasturirangan (2013) reports |
+
+> **Logic:** Chipko is **Uttarakhand**. Appiko is **Karnataka only**. “NBA” as the Andolan is **not** the National Biodiversity Authority.
+
+---
+
+## 13. India’s Climate Pledge (Panchamrit) & Atmosphere
+
+**Panchamrit (COP-26 Glasgow, 2021):**
+1. **500 GW** non-fossil capacity by **2030**.
+2. **50%** of energy from renewables by **2030**.
+3. Reduce emissions intensity of GDP by **45%** from 2005 by **2030**.
+4. Reduce **1 billion tonnes** of carbon emissions by **2030**.
+5. **Net Zero by 2070**.
+
+**Paris Agreement:** well below **2°C**, pursue **1.5°C**; **NDCs**; in force **4 Nov 2016**. Kyoto bound **Annex-I**; Paris binds **all** parties via NDCs.
+
+**Atmosphere (bottom to top):** Troposphere (weather) → Stratosphere (**good ozone**, 15–35 km) → Mesosphere (meteors) → Thermosphere (aurora, ISS) → Exosphere.
+
+**Good ozone** = stratosphere. **Bad ozone** = troposphere (photochemical smog). Dobson Unit; ozone hole < **220 DU**.
+
+**GWP ladder (100-year):** **SF6 > PFCs > HFCs > N2O > CH4 > CO2**. Water vapour is the most abundant **natural** GHG but has a short residence time.
+
+---
+
+## 14. Forests, EIA & Institutions (short)
+
+| Head | Correct |
+|---|---|
+| Forest types (IFA 1927) | **Reserved, Protected, Village** |
+| FCA 1980 | Diversion of forest land needs **Central** approval |
+| CAMPA 2016 | Compensatory afforestation funds; **90% State, 10% Centre** |
+| FRA 2006 | **Gram Sabha** starts rights recognition |
+| EIA | Notification **1994**, overhauled **2006**; Category A (Centre) vs B (State SEIAA) |
+| NBA | **Chennai, 2003** under Biological Diversity Act 2002; SBBs; BMCs; PBRs |
+| CPCB | From **Water Act 1974**; Air Act 1981 added air (noise as air pollutant **1987**) |
+| NGT benches | Principal **New Delhi**; **Bhopal, Pune, Kolkata, Chennai** |
+| FSI | Forest Survey of India, **Dehradun** — *India State of Forest Report* (biennial) |
+| ICFRE / IGNFA / WII | **Dehradun** cluster — UK geography + environment overlap |
+| MoEFCC | Nodal Union ministry |
+
+**ISFR teaching:** forest + tree cover is a little over **one-fourth** of geographical area in recent reports; **Madhya Pradesh** often largest forest **area**; **Lakshadweep / Mizoram** high **percentage**.
+
+---
+
+## 15. Extra Confused Pairs (Environment)
+
+| A | B | Correct |
+|---|---|---|
+| Montreal 1987 | Kyoto 1997 | **Ozone / CFC** vs **climate / GHG Annex-I** |
+| Cartagena | Nagoya | **LMOs / biosafety** vs **ABS** of genetic resources |
+| Basel | Rotterdam | Hazardous **waste** movement vs **PIC** chemicals |
+| Bioaccumulation | Biomagnification | One organism over time vs **up the food chain** |
+| Pyramid of energy | Pyramid of biomass | **Always upright** vs aquatic often **inverted** |
+| Chipko | Appiko | Uttarakhand **1973** vs Karnataka **1983** |
+| Andaman hotspot | Nicobar hotspot | **Indo-Burma** vs **Sundaland** |
+| Threatened | Endangered | VU+EN+CR vs **EN only** |
+| NP | Sanctuary | Stricter vs more regulated use |
+| Ramsar 1971 | WHC 1972 | Wetlands vs Outstanding Universal Value sites |
+| Corbett 1936 | Project Tiger 1973 | First **NP** vs first **tiger project** launch there |
+| Govind NP year | Gangotri NP year | **1990** vs **1989** |
+| NBA (Andolan) | NBA (Authority) | Narmada movement vs **Biodiversity Authority, Chennai** |
+
+---
+
+## 16. WPA Schedules, AQI, Waste Rules & National Symbols
+
+**Wildlife (Protection) Amendment 2022** cut **6 schedules to 4**:
+1. **Schedule I** — animals with the **highest** protection (tiger, elephant, rhino class).
+2. **Schedule II** — animals with lesser (but still listed) protection.
+3. **Schedule III** — **protected plants**.
+4. **Schedule IV** — **CITES** specimens.
+
+**AQI (India):** eight pollutants — **PM10, PM2.5, NO2, CO, O3, SO2, NH3, Pb**. **Not CO2 or CH4** (those are climate gases). Bands run Good (0–50) to Severe (401–500).
+
+| Waste rule | Year |
+|---|---|
+| **Hazardous Waste** | 1989 / recast 2016 |
+| **Biomedical Waste** | 1998 / recast 2016 |
+| **Plastic Waste** | 2009 / 2016 / 2022 SUP ban |
+| **E-waste** | 2011 / recast 2016 / 2022 |
+| **Solid Waste Management** | **2016** |
+| **Construction & Demolition** | 2016 |
+| **Noise Rules** | **2000** (Air Act 1987 already treated noise as air pollution) |
+
+**Primary pollutant** = emitted directly (SO2, PM, CO). **Secondary** = formed in air (O3, PAN, acid rain). London smog = **SO2 + smoke**. LA smog = **NOx + VOC + sunlight**.
+
+| Symbol | India | Uttar Pradesh | Uttarakhand |
+|---|---|---|---|
+| Animal | **Tiger** | **Swamp deer / barasingha** | **Musk deer** |
+| Bird | **Peacock** | **Sarus crane** | **Himalayan monal** |
+| Flower | **Lotus** | **Palash** | **Brahma kamal** |
+| Tree | **Banyan** | **Ashok** | **Buransh** (rhododendron) |
+| Aquatic | **Ganges river dolphin** | — | — |
+| Heritage animal | **Elephant** | — | — |
+
+---
+
+## 17. SDGs, Global Bodies, Desertification & Energy
+
+**SDGs (2015–2030):** **17 goals, 169 targets**. Pegs: 1 Poverty · 2 Hunger · 6 Water · **13 Climate** · **14 Life below water** · **15 Life on land**. India reports through **NITI Aayog** SDG Index.
+
+| Body | Seat / peg |
+|---|---|
+| **UNEP** | **Nairobi**; born at Stockholm **1972** |
+| **IPCC** | 1988; WMO + UNEP; assessment reports |
+| **IUCN** | Gland, Switzerland; **Red List**; HQ not in India |
+| **WWF** | Panda logo; TRAFFIC with IUCN |
+| **CITES Secretariat** | Geneva |
+| **ISA (International Solar Alliance)** | **National Institute of Solar Energy, Gurugram**; launched COP-21 Paris **2015**; HQ India |
+| **UNCCD** | Desertification; **1994**; India a party; LDN by **2030** |
+| **Green Climate Fund** | UNFCCC financial arm |
+
+**Desertification:** UNCCD; **Great Green Wall** is Africa’s Sahel idea, not India’s. India: **Banni, Rann, Aravalli** degradation; **WDC–PMKSY** watershed.
+
+**Namami Gange (2014/15)** = Ganga rejuvenation; NMCG is the nodal body.
+
+**Biome pegs:** tropical rainforest (Western Ghats, NE) · deciduous (largest in India) · desert (Thar) · alpine (Himalaya) · mangrove (Sundarbans) · coral (Lakshadweep, Mannar, Kachchh, A&N).
+
+**Lichens** indicate **SO2** clean air. **Radon** is the classic **indoor** air pollutant.

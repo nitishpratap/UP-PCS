@@ -1,15 +1,17 @@
 # Daily Read — High-Yield Revision Facts (Ancient India)
-### ★ UPPCS & UKPCS Prelims Daily Fact Dump · Active Recall Cheat-Sheet
+### ★ UPPCS + UKPCS Prelims Daily Sheet · Match, chronology, and confused-pair recall
 
-> **Exam Focus:** UPPSC Prelims (Paper 1), UKPSC Prelims (Paper 1), RO/ARO, BEO  
-> **Frequency:** Daily morning read (10–15 mins)  
-> **Question Types Covered:** Match the Following, Chronological ordering, Inscriptions vs Kings, River ancient names, Official designations, Ancient books & authors.
+> **Use:** Morning cycle, 12–20 minutes. Rotate sections so the full sheet is covered in about a week.  
+> **Stems this sheet feeds:** Match List, chronology, inscriptions vs kings, rivers, officers, books.  
+> **Last filled:** September 2026 — Stone Age, Magadha, Maurya–Gupta, foreign waves, Sangam–South, Uttarakhand ancient.
+
+**Seven-day rotation:** 1 IVC + Vedic · 2 Mahajanapadas + Buddhism/Jainism · 3 Stone Age + Magadha + Maurya · 4 Foreign waves + Gupta + Harsha · 5 Inscriptions + literature · 6 Officers, taxes, eras + South · 7 Uttarakhand ancient + confused pairs.
 
 ---
 
 ## 1. Indus Valley Civilization (IVC) Master Matrix
 
-| Site | Location / State | River | Excavator & Year | Key Unique Findings / Exam Triggers |
+| Site | Location / State | River | Excavator & Year | Unique findings / high-yield triggers |
 |---|---|---|---|---|
 | **Harappa** | Sahiwal (Punjab, Pak) | **Ravi** (Left bank) | Daya Ram Sahni (1921) | 6 granaries in 2 rows, Coffin burial (R-37 & H cemetery), Sandstone torso of nude male, Copper bullock cart |
 | **Mohenjodaro** (*Mound of Dead*) | Larkana (Sindh, Pak) | **Indus** (Right bank) | R.D. Banerjee (1922) | **Great Bath**, **Great Granary** (largest building of Mohenjodaro), **Bronze Dancing Girl** (lost wax technique), Steatite Bearded Priest, Pashupati seal, Piece of woven cotton |
@@ -68,7 +70,7 @@
 
 ## 3. 16 Mahajanapadas & Their Capitals (6th Century BCE)
 
-| Mahajanapada | Capital | Modern Location | High-Yield Exam Notes |
+| Mahajanapada | Capital | Modern Location | High-yield notes |
 |---|---|---|---|
 | **Magadha** | Girivraja / Rajagriha $\to$ Pataliputra | Patna & Gaya (Bihar) | Founded by Brihadratha; rose under Bimbisara (Haryanka) |
 | **Anga** | **Champa** (ancient Malini) | Bhagalpur & Munger (Bihar) | Annexed by Bimbisara; major trade port to Suvarnabhumi |
@@ -244,3 +246,262 @@
    - Canals built by: **Tushaspha** (governor of Ashoka).
    - Rebuilt/repaired by: **Suvisakha** (governor of Rudradaman I, Shaka ruler, 150 CE).
    - Second major repair: **Chakrapalita** (son of Parnadatta, governor under Skandagupta, 456 CE).
+
+---
+
+## 10. Stone Age Site Matrix (the missing first chapter)
+
+| Period | Hallmark | Site | State | One-line takeaway |
+|---|---|---|---|---|
+| **Lower Paleolithic** | Handaxe–cleaver (Acheulian) | **Attirampakkam** | Tamil Nadu | Tools ~1.5 million years; **not** a hominin fossil site |
+| **Lower Paleolithic** | Chopper–chopping (Soanian) | Soan–Siwalik belt | NW India / Pak | Do **not** mix Soanian pebble tools with Acheulian handaxes |
+| **Paleolithic** | First recognised tools (1863) | **Pallavaram** | Tamil Nadu | **Robert Bruce Foote** — Father of Indian Prehistory |
+| **Middle Pleistocene** | *Homo erectus* skull | **Hathnora** (Narmada) | Madhya Pradesh | Found by **Arun Sonakia (1982)**; not modern *Homo sapiens* |
+| **Upper Paleolithic** | Stone shrine | **Baghor** (Son valley) | Madhya Pradesh | Do **not** swap with **Bagor** (Rajasthan Mesolithic) |
+| **Mesolithic** | Microliths (1–8 cm, hafted) | **Bagor** (Kothari) | Rajasthan | Animal **domestication** key; excavated by **V.N. Misra** |
+| **Mesolithic** | Burials on Ganga plain | **Sarai Nahar Rai, Mahadaha, Damdama** | Pratapgarh, **Uttar Pradesh** | Damdama = triple burial; Sarai Nahar Rai = four-skeleton grave |
+| **Neolithic** | Earliest farming village | **Mehrgarh** | Balochistan | ~7000 BCE; **wheat and barley**; Period I is **aceramic** |
+| **Neolithic** | Early rice | **Koldihwa & Mahagara** | Belan valley, **UP** | **G.R. Sharma**; Mahagara has cattle-pen **hoof marks**; Koldihwa has **rice-husk** impressions |
+| **Neolithic** | Ganga-plain rice (lake edge) | **Lahuradewa** | Sant Kabir Nagar, **UP** | Not a Belan-valley site |
+| **Neolithic** | Pit dwellings + dog burial | **Burzahom** | Kashmir | **Gufkral** (Pulwama) means “cave of the potter” |
+| **Neolithic** | Bone and antler tools | **Chirand** | Saran, Bihar | No pit dwellings; no South Indian ash mounds |
+| **Rock art** | Natural rock shelters | **Bhimbetka** | Raisen, MP | **V.S. Wakankar (1957–58)**; UNESCO **2003** |
+| **Chalcolithic** | OCP ware | **Hastinapur** | **Uttar Pradesh** | Named by **B.B. Lal**; western UP–Haryana–Rajasthan doab |
+| **Chalcolithic** | Jorwe type site | **Inamgaon** | Maharashtra | **Navdatoli** on Narmada = Malwa culture (**H.D. Sankalia**) |
+
+> **Logic:** Prehistoric = no writing. Proto-historic = undeciphered script (Indus). Historic North India is often dated from the **6th century BCE**.
+
+---
+
+## 11. Magadha Dynasties (in time order)
+
+| Dynasty | Founder / Peak | Capital shift | Takeaway |
+|---|---|---|---|
+| **Haryanka** | **Bimbisara** → **Ajatashatru** → **Udayin** | Rajagriha → **Pataliputra** (Udayin made it capital) | Bimbisara annexed Anga; Ajatashatru used *mahashilakantaka* and *rathamusala*; contemporary of Buddha and Mahavira |
+| **Shishunaga** | **Shishunaga** → **Kalashoka** | Temporary shift to Vaishali, then Pataliputra | Kalashoka hosted the **2nd Buddhist Council** |
+| **Nanda** | **Mahapadma Nanda** (first empire-builder of Magadha) | Pataliputra | Last Nanda **Dhana Nanda** overthrown by Chandragupta Maurya; Greek writers call him Agrammes / Xandrames |
+| **Maurya** | Chandragupta → Bindusara → Ashoka | Pataliputra | King ladder and edicts in the next card |
+| **Shunga** | **Pushyamitra** (185 BCE) | Pataliputra / Vidisha | Killed last Maurya **Brihadratha**; performed Ashvamedha; Heliodorus pillar in this age |
+| **Kanva** | **Vasudeva Kanva** | Pataliputra | Short Brahmana dynasty after Shungas |
+| **Satavahana** (Deccan, parallel) | **Simuka**; peak **Gautamiputra Satakarni** | Pratishthana (Paithan) | Mother **Gautami Balashri** issued the Nasik inscription |
+
+---
+
+## 12. Mauryan Kings & Ashokan Edicts
+
+### A. King ladder
+1. **Chandragupta (c. 322–297 BCE)** overthrew Dhana Nanda with **Chanakya**, then treaty-settled with **Seleucus (c. 303 BCE)** — 500 elephants for north-west districts; **Megasthenes** came as envoy.
+2. **Bindusara Amitraghata** (Greek: Amitrochates) held the empire between Chandragupta and Ashoka. Jain texts also call him **Simhasena**.
+3. **Ashoka** acceded about **272 BCE**, crowned **268 BCE**, fought **Kalinga c. 261 BCE**, died **232 BCE**.
+4. Last Maurya **Brihadratha** was killed by **Pushyamitra Shunga** in **185 BCE**.
+
+### B. Edict sheet (the usual match)
+| Edict / site | Content |
+|---|---|
+| **RE V** | **Dhamma-mahamatras** appointed in the 14th year |
+| **RE XII** | **Samavaya** — religious concord |
+| **RE XIII** | **Kalinga war** (1 lakh killed, 1.5 lakh deported in the traditional figures) |
+| **Separate Kalinga edicts** | **Dhauli / Jaugada** — “all men are my children” |
+| **PE V** | Protected-animal list (same number as RE V, different medium) |
+| **Rummindei** | Visit in 20th year; *bhaga* 1/6 → **1/8**; *bali* abolished |
+| **Bhabru / Bairat** | Faith in Buddha, Dhamma, Sangha; *Piyadassi Raja Magadha* |
+| **Maski, Gurjara, Nittur, Udegolam** | Personal name **“Ashoka”** written |
+| **Shahbazgarhi & Mansehra** | **Kharoshthi** script |
+| **Kandahar** | **Greek and Aramaic** |
+| **Ahraura** (Mirzapur, UP) | Uttar Pradesh’s own **Minor Rock Edict** |
+| **Sarnath** | Four-lion capital = India’s **national emblem**; also a schism edict |
+| **Barabar caves** | Gifted to **Ajivikas** (Sudama, Lomas Rishi) — Mauryan polish, not Ajanta painting |
+| **Kalsi** (Dehradun) | Major Rock Edict in **Uttarakhand**, Yamuna–Tons confluence |
+
+> **Logic:** Dhamma is ethical **state policy**. It is not identical with the Buddhist religion Ashoka patronised. **Bherighosha** is the war-drum; **Dhammaghosha** is the dhamma-drum.
+
+---
+
+## 13. Foreign Invasions Ladder (Greeks → Shakas → Kushans)
+
+**Correct order:** Achaemenid Persians → Alexander → Indo-Greeks → **Shakas** → Parthians → **Kushans**. Kushans do **not** come before Shakas.
+
+| Wave | Headline names | One-line takeaway |
+|---|---|---|
+| **Achaemenid** | **Darius I (c. 518 BCE)** | Gandhara and Hindush as the **20th** satrapy; **Skylax** explored the Indus |
+| **Macedon** | **Alexander (327–325 BCE)** | **Hydaspes (Jhelum)** vs Porus; army mutinied at **Hyphasis (Beas)** and turned back |
+| **Seleucid** | **Seleucus Nicator** | War/treaty with Chandragupta; **Megasthenes** at Pataliputra |
+| **Indo-Greek** | **Demetrius**, **Menander (Milinda)** | Menander at **Sagala (Sialkot)**; dialogue with monk **Nagasena** (*Milinda Panha*) |
+| **Shaka** | **Maues / Moga**, **Nahapana**, **Rudradaman I** | Junagadh Sanskrit inscription; Sudarshana lake repair |
+| **Parthian** | **Gondophares** | Brief north-west phase; remembered at **Takht-i-Bahi** |
+| **Kushan** | **Kujula → Vima → Kanishka → Huvishka → Vasudeva I** | Capitals **Purushapura** and **Mathura**; **Shaka era 78 CE**; 4th Buddhist Council in Kashmir |
+
+- **Ambhi** of Taxila was Alexander’s **ally**. **Porus** fought, then was restored.
+- **Heliodorus** pillar at Besnagar (c. 113 BCE) shows a Greek ambassador as a **Bhagavata**.
+- **Gandhara** art uses grey/green **schist** (NW). **Mathura** art uses mottled **red sandstone** (**Uttar Pradesh**).
+- **Sagala** is Menander’s Sialkot seat. **Sangala** is the town Alexander stormed. Do not merge the spellings.
+
+---
+
+## 14. Gupta King Ladder, Coins & Culture
+
+| King | Title / peg | Coin type | Other high-yield |
+|---|---|---|---|
+| **Sri Gupta → Ghatotkacha** | Only **Maharaja** | — | Imperial span roughly **320–550 CE**; capital Pataliputra |
+| **Chandragupta I** | First **Maharajadhiraja**; Gupta era **319–320 CE** | **King-and-queen** gold (with **Kumaradevi**, Lichchhavi) | Founder of imperial Guptas |
+| **Samudragupta** | *Napoleon of India* (V.A. Smith); *kaviraja* | **Lyrist / horse / battle-axe / tiger** | Prayag Prashasti by **Harisena**; north **uprooted**, south **defeated then restored** |
+| **Chandragupta II Vikramaditya** | *Sakari*; defeated **Rudrasimha III** | **Archer** gold; **silver rupaka** (~33 grains) proves Shaka victory | **Fa-Hien (399–414 CE)**; Mehrauli iron pillar “Chandra”; Ujjain second pole |
+| **Kumaragupta I Mahendraditya** | Peacock types | Founded / patronised **Nalanda** | Dashpur silk-weavers’ Sun temple under Bandhuvarman |
+| **Skandagupta** | Last great imperial Gupta | — | **Bhitari** pillar (Ghazipur, UP) records **Huna** war; repaired Sudarshana lake |
+
+- **Nalanda** is Gupta (Kumaragupta I). **Takshashila** is older Gandhara. **Vikramashila** is Pala **Dharmapala**. **Vallabhi** is Maitraka Gujarat.
+- Gupta art Buddha at **Sarnath** has a plain drape and halo — not Kushan Gandhara.
+- **Bhitargaon** (Kanpur) is a Gupta brick temple. **Deogarh Dashavatara** (Lalitpur, UP) is the earliest surviving Panchayatana stone temple in North India.
+- Largest Gupta gold hoard: **Bayana** (Bharatpur, Rajasthan).
+
+---
+
+## 15. Post-Gupta North: Harsha & Neighbours
+
+- **Pushyabhuti / Vardhana** line: Prabhakaravardhana → Rajyavardhana → **Harshavardhana (606–647 CE)** of **Thanesar**, then **Kannauj**.
+- Harsha’s sister **Rajyashri** was rescued after Grahavarman of Maukhari Kannauj was killed by **Shashanka** of Gauda.
+- **Banabhatta** wrote *Harshacharita* and *Kadambari*. Harsha himself wrote *Ratnavali*, *Priyadarshika*, and *Nagananda*.
+- **Xuanzang** studied at Nalanda under **Shilabhadra**, attended the **Kannauj Assembly** and the **Prayag Maha Moksha Parishad**.
+- **Pulakeshin II** (Badami Chalukya) stopped Harsha on the **Narmada** (Aihole inscription of **Ravikirti**).
+- After Harsha, North India fragments; the next big contest is the **Tripartite Struggle for Kannauj** (Pala–Pratihara–Rashtrakuta).
+
+---
+
+## 16. Sangam Age & Early South Dynasties
+
+### A. Three Sangams & three crowns
+| Crown | Capital | Emblem / port peg |
+|---|---|---|
+| **Chera** | Vanji / Karur | Bow; **Muziris (Muchiri)** pepper port |
+| **Chola** | Uraiyur, later Puhar / Kaveripattinam | Tiger; **Kaveri** delta |
+| **Pandya** | **Madurai** | Fish; pearl fisheries of Korkai |
+
+- **Tolkappiyam** is the oldest Tamil grammar (2nd Sangam tradition).
+- Third Sangam at Madurai produced the Ettuttokai and Pattuppattu anthologies.
+- Five Tamil epics: *Silappadikaram* (Ilango Adigal), *Manimekalai* (Sattanar), *Jivaka Chintamani*, *Valayapathi*, *Kundalakesi*.
+
+### B. Pallava → Chalukya → Rashtrakuta → Chola (south rotation)
+| Dynasty | Capital | Headline ruler | Architecture peg |
+|---|---|---|---|
+| **Pallava** | **Kanchi** | Mahendravarman I (*Mattavilasa*); **Narasimhavarman I Vatapikonda**; Rajasimha (Shore Temple) | Mahabalipuram rathas and Shore Temple |
+| **Badami Chalukya** | **Vatapi / Badami** | **Pulakeshin II** | Aihole, Pattadakal, Badami caves |
+| **Rashtrakuta** | **Manyakheta** | **Dantidurga** founder; **Krishna I** (Kailasa, Ellora); **Amoghavarsha I** (*Kavirajamarga*) | Ellora Cave 16 |
+| **Imperial Chola** | Thanjavur → **Gangaikondacholapuram** | **Rajaraja I** (Brihadeshwara 1010); **Rajendra I** (Ganga expedition, navy to Kadaram) | Great Living Chola Temples (UNESCO) |
+
+- Chola village self-government: **Ur** (ordinary village) vs **Sabha / Mahasabha** (agrahara). **Uttiramerur** (Parantaka I) describes the **kudavolai** pot-ticket system.
+- Chola ladder: **Mandalam → Valanadu → Nadu → Village**.
+
+---
+
+## 17. Uttarakhand Ancient (UKPCS daily box)
+
+| Head | Correct |
+|---|---|
+| **Ashoka at Kalsi** | Major Rock Edict, Dehradun, Yamuna–Tons confluence |
+| **Kuninda (Kulinda)** | First historic dynasty of the central Himalayan foothills, **2nd c. BCE – 3rd c. CE** |
+| **Amoghbhuti** | Greatest Kuninda king; **only** Kuninda to mint **silver** as well as copper; **Brahmi** obverse + **Kharoshthi** reverse |
+| **Almora-type coins** | Pure copper, Brahmi only; local names such as Shivdatt and Haridatt |
+| **Yaudheya** | Martial *Ayudhajivi Gana*; Karttikeya-with-peacock coins; hoards in Jaunsar–Bawar, Bhadraj, Lansdowne |
+| **Brahmapura** | 6th–7th c. hill kingdom seen by **Xuanzang**; **Paurava** line; **Taleshwar copper plates** (Almora) |
+| **Kartikepur** | Later hill polity; **Baijnath** as a capital peg — do not swap with Brahmapura |
+| **Prehistoric art** | **Lakhu Udyar** (rock paintings); **Malari** (Chamoli) burial / protohistoric finds |
+
+---
+
+## 18. Extra Confused Pairs (Ancient)
+
+| A | B | Correct |
+|---|---|---|
+| Paleolithic | Neolithic | Chipped handaxe vs **polished / ground** axe + farming |
+| Bagor (RJ) | Baghor (MP) | Mesolithic **domestication** vs Upper Paleolithic **shrine** |
+| Mehrgarh | Koldihwa | Wheat–barley (Balochistan) vs **rice** (UP Belan) |
+| Burzahom | Chirand | Kashmir **pit dwellings** vs Bihar **bone tools** |
+| Hydaspes | Hyphasis | **Jhelum** battle vs **Beas** mutiny / turn-back |
+| Menander | Nagasena | King **Milinda** vs the monk of *Milinda Panha* |
+| RE XII | RE XIII | Concord (**samavaya**) vs **Kalinga** |
+| Samaharta | Sannidhata | Collects revenue vs **stores** the kosha |
+| Chandragupta I | Chandragupta II | Lichchhavi marriage + Gupta era vs **Vikramaditya**, Shaka silver, Fa-Hien |
+| Nalanda | Vikramashila | Gupta **Kumaragupta I** vs Pala **Dharmapala** |
+| Gandhara Buddha | Sarnath Buddha | Kushan Greco-Buddhist schist vs Gupta **plain drape** |
+| Sagala | Sangala | Menander’s Sialkot vs Alexander’s stormed town |
+
+---
+
+## 19. Rigvedic vs Later Vedic (the most-asked Vedic table)
+
+| Head | Rigvedic (c. 1500–1000 BCE) | Later Vedic (c. 1000–600 BCE) |
+|---|---|---|
+| Geography | **Sapta Sindhu** (Punjab) | **Ganga–Yamuna doab** (western–central UP) |
+| Economy | **Pastoral** (cattle wealth) | **Agrarian** + iron (*shyama / krishna ayas*) |
+| Pottery | — | **PGW** (Painted Grey Ware) → later **NBPW** |
+| King | Tribal **rajan**; assemblies strong | Hereditary **raja**; ritual + land power |
+| Assemblies | Sabha, Samiti, **Vidatha** (oldest; women; fades first) | Vidatha fades; Sabha more exclusive |
+| Chief gods | **Indra, Agni, Soma, Varuna** | **Prajapati**; **Vishnu** and **Rudra** rise |
+| Varna | Fluid | More rigid (Purusha Sukta) |
+
+**Four Vedas:** Rig (1028 hymns, 10 mandalas; 2–7 oldest; 9 Soma) → Yajur (Shukla = Vajasaneyi, mantra/prose separate; **Krishna = Black Yajurveda**, not the god) → Sama (chant) → Atharva (charms; outside the *trayi*).
+
+Literature order: **Samhita → Brahmana → Aranyaka → Upanishad**.
+
+**Six Vedangas:** Shiksha, Kalpa, Vyakarana, Nirukta, Chhanda, Jyotisha.
+
+**Gayatri** is RV III.62.10 (Vishvamitra → Savitr). **Satyameva Jayate** is from the *Mundaka Upanishad*. **Dasharajna** was fought on the **Parushni (Ravi)**.
+
+---
+
+## 20. Buddhist Texts, Path & Ancient Universities
+
+**Four Noble Truths:** suffering; cause (tanha); cessation; path.
+
+**Eightfold Path:** right view, resolve, speech, action, livelihood, effort, mindfulness, concentration.
+
+| Text / basket | Content |
+|---|---|
+| **Vinaya Pitaka** | Monastic rules (**Upali**) |
+| **Sutta Pitaka** | Discourses (**Ananda**); includes *Dhammapada*, *Jataka* |
+| **Abhidhamma Pitaka** | Philosophy (3rd Council) |
+| **Milinda Panha** | Menander ↔ Nagasena |
+| **Buddhacharita** | Ashvaghosha |
+| **Dipavamsa / Mahavamsa** | Sri Lankan chronicles |
+| **Angas** | Jain canon (Ardhamagadhi) |
+
+| University | Founder / age | Peg |
+|---|---|---|
+| **Takshashila** | Older Gandhara town | Panini, Jivaka, Chanakya traditions; **not** a Gupta foundation |
+| **Nalanda** | **Kumaragupta I** | Xuanzang under Shilabhadra |
+| **Vikramashila** | Pala **Dharmapala** | |
+| **Odantapuri** | Pala **Gopala** | Destroyed by Bakhtiyar Khalji |
+| **Vallabhi** | Maitraka (Gujarat) | |
+| **Kanchi** | Pallava south | |
+
+**Eight UP Mahajanapadas:** Kashi, Kosala, Vatsa, Malla, Chedi, Shurasena, Kuru, Panchala.
+
+**Sarnath** = first sermon. **Shravasti** = most *varshavas* (about 25). **Kushinagar** = Mahaparinirvana.
+
+---
+
+## 21. Coins, Ports, Guilds & Navaratnas
+
+| Age | Money |
+|---|---|
+| IVC | Weights and seals; **no coins** |
+| Vedic | **Nishka** = gold ornament / unit — **not** a minted coin |
+| 6th c. BCE | First coins: **punch-marked silver** (*karshapana / pana*) — **no portrait** |
+| Indo-Greek | First **portrait** die-struck coins |
+| Kushan **Vima Kadphises** | Gold becomes common |
+| Gupta | Gold **dinara**; Chandragupta II **silver rupaka ~33 grains** = Shaka-victory proof |
+
+| Port / road | Peg |
+|---|---|
+| **Barygaza** | Broach, Narmada mouth (*Periplus*) |
+| **Barbarikon** | Indus-mouth port — do not swap with Barygaza |
+| **Tamralipti** | Ganga mouth; Bay of Bengal / east |
+| **Muziris (Muchiri)** | Malabar pepper; Roman gold |
+| **Arikamedu (Poduke)** | Roman amphorae, Puducherry |
+| **Puhar / Kaveripattinam** | Sangam Chola port |
+| **Uttarapatha** | Taxila → Pataliputra |
+| **Dakshinapatha** | Ganga belt through **Ujjain** into the Deccan — a **road**, not “only sea” |
+
+**Shreni** = craft/trade guild (**shreshthin**). **Sarthavaha** = caravan chief. **Manigrama** = overseas trade body.
+
+Traditional **Navaratnas** of Chandragupta II: **Kalidasa, Amarasimha, Varahamihira, Dhanvantari, Ghatakarpara, Kshapanaka, Shanku, Vetalabhatta, Vararuchi**.

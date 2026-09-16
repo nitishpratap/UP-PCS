@@ -1,9 +1,11 @@
 # Daily Read — High-Yield Revision Facts (Medieval India)
-### ★ UPPCS & UKPCS Prelims Daily Fact Dump · Active Recall Cheat-Sheet
+### ★ UPPCS + UKPCS Prelims Daily Sheet · Match, chronology, and confused-pair recall
 
-> **Exam Focus:** UPPSC Prelims (Paper 1), UKPSC Prelims (Paper 1), RO/ARO, BEO  
-> **Frequency:** Daily morning read (10–15 mins)  
-> **Question Types Covered:** Diwan-i-X departments, Foreign travelers vs Kings, Battle chronological order, Bhakti saints vs Philosophies, Shivaji's Ashtapradhan, Mughal administrative terminology.
+> **Use:** Morning cycle, 12–20 minutes. Rotate sections so the full sheet is covered in about a week.  
+> **Stems this sheet feeds:** Diwan-i departments, travellers vs kings, battle order, Bhakti–Sufi, Ashtapradhan, Mughal terms.  
+> **Last filled:** September 2026 — Early medieval + Cholas, Sher Shah, Mughal emperors/tombs, books, Rajputs, Uttarakhand medieval.
+
+**Seven-day rotation:** 1 Sultanate + Diwan · 2 Battles + travellers · 3 Early medieval + Cholas + regional · 4 Mughal admin + Sher Shah · 5 Bhakti–Sufi + Sikh Gurus · 6 Marathas + architecture/tombs · 7 Uttarakhand medieval + confused pairs.
 
 ---
 
@@ -42,7 +44,7 @@
 
 ## 3. The Medieval Battle Master Matrix (Chronological Ladder)
 
-| Year | Battle Name | Contenders | Victorious Party | Historical Impact / Prelims Takeaway |
+| Year | Battle Name | Contenders | Victorious Party | Impact / takeaway |
 |---|---|---|---|---|
 | **1191** | **First Battle of Tarain** | Prithviraj Chauhan III vs Muhammad Ghori | **Prithviraj Chauhan** | Ghori wounded, fled to Ghazni |
 | **1192** | **Second Battle of Tarain** | Prithviraj Chauhan III vs Muhammad Ghori | **Muhammad Ghori** | Laid the foundation of Muslim rule in North India |
@@ -222,3 +224,209 @@
   - **Zain-ul-Abidin (1420–1470 CE)**: Celebrated as **"Badshah"** and the **"Akbar of Kashmir"**.
   - Abolished Jizya, banned cow slaughter, repaired Hindu temples, recalled exiled Brahmins.
   - Built artificial island **Zaina Lank** in Wular Lake; got *Mahabharata* and Kalhana's *Rajatarangini* translated into Persian (*Dvitiya Rajatarangini* by Jonaraja).
+
+---
+
+## 11. Early Medieval North & South (750–1200 CE)
+
+The Delhi Sultanate starts in **1206**. Early medieval India is the age of regional kingdoms and hereditary **samantas**.
+
+### A. Tripartite Struggle for Kannauj
+| Power | Region / capital | Headline names |
+|---|---|---|
+| **Pala** | Bengal–Bihar; later Vikramashila | **Gopala** elected founder; **Dharmapala** founded **Vikramashila** and backed Chakrayudha at Kannauj; **Devapala** marked the peak; **Atisha** carried Buddhism toward Tibet |
+| **Gurjara-Pratihara** | Bhinmal → **Kannauj** | **Nagabhatta I** checked the Arabs; **Mihir Bhoja** took the title **Adivaraha** and recovered Kannauj (~836) |
+| **Rashtrakuta** | **Manyakheta** (Malkhed) | **Indra III** sacked Kannauj (915–918); **Krishna III** pressed again (963); **Krishna I** cut the Kailasa temple at Ellora |
+
+> **Logic:** The Cholas were **not** a party to the Kannauj triangle. **Mihir Bhoja** (Pratihara, Kannauj) is not **Bhoja I** of the **Paramaras** at **Dhara** in Malwa.
+
+### B. Other North Indian houses
+| Dynasty | Seat | Takeaway |
+|---|---|---|
+| **Chandela** | Khajuraho / **Mahoba / Kalinjar** (Bundelkhand UP) | Kandariya Mahadeva; Kalinjar is in Banda belt |
+| **Gahadavala** | **Kannauj and Banaras** | **Jayachandra** killed at **Chandawar (1194)** |
+| **Paramara** | Malwa / **Dhara** | Bhoja I — scholar-king, not the Pratihara Bhoja |
+| **Kalachuri** | **Tripuri** (Chedi / Dahala) | Separate from Chedi Mahajanapada of the 6th century BCE |
+| **Sena** (Bengal) | Nadia / Lakhnauti | Order: **Hemant → Vijaya → Ballal → Lakshman**; Lakshmanasena fled Bakhtiyar Khalji |
+
+UP medieval names: **Kannauj = Kanyakubja**; **Ayodhya = Saketa**; **Varanasi = Kashi / Avimukta**.
+
+### C. Imperial Chola daily card
+- Capital moved from **Thanjavur** to **Gangaikondacholapuram** under **Rajendra I**.
+- Administration: **Mandalam → Valanadu → Nadu → Village**. **Ur** = ordinary village assembly. **Sabha / Mahasabha** = Brahmana agrahara assembly.
+- **Uttiramerur** inscription of **Parantaka I** describes the **kudavolai** (pot-ticket) system and *variyam* qualifications.
+- Navy struck **Sri Lanka**, the **Maldives**, and **Kadaram (Kedah)**; **Nagapattinam** was a key port.
+- Temple chronology: Shore Temple (Pallava) → **Brihadeshwara 1010 (Rajaraja I)** → **Gangaikondacholapuram ~1025 (Rajendra I)**.
+
+---
+
+## 12. Sher Shah Suri (1540–1545) — the short empire that taught the Mughals
+
+| Head | Correct |
+|---|---|
+| Birth name | **Farid Khan** of **Sasaram**; educated at **Jaunpur** (*Siraj-i-Hind*) |
+| Titles | **Sher Khan** (tiger-kill tradition) → **Sher Shah** after **Chausa (1539)** |
+| Battles vs Humayun | **Chausa 26 June 1539** (Humayun escaped on a mashak) → **Kannauj / Bilgram 17 May 1540** (Humayun into 15-year exile) |
+| Death | **May 1545**, **Kalinjar** siege, gunpowder blast; tomb is the lake mausoleum at **Sasaram** |
+| Successor | **Islam Shah (Jalal Khan), 1545–1553**; Humayun returned **1555** |
+| Roads | **Sarak-i-Azam (GT Road)** from **Sonargaon (Bengal) to Peshawar**; sarais about every **12 kos** |
+| Currency | Silver **rupiya** (~178 grains); copper **dam** (~1/40 of a rupiya); gold **mohur**. Akbar continued the dam |
+| Revenue papers | **Patta** (state title deed) + **qabuliat** (peasant’s written acceptance) |
+| Survey | **Jarib** is the **measuring rope**, not a tax. **Jaribana** = survey fee. **Muhasilana** = collection fee. **Rai** = crop rate per bigha |
+| Pargana officers | **Shiqdar** (law and order), **Munsif** (accounts/justice), **Amil / Desai** (collection) |
+| Army precursor | **Dagh** (horse brand) and **chehra** (soldier’s descriptive roll) — later used by the Mughals |
+| Forts | **Rohtas** (Bihar) against Humayun’s return; **Purana Qila** and **Qila-i-Kuhna** mosque (Delhi) |
+| Marwar | **Sammel / Giri-Sumel 1544** vs Rao Maldeo; **Jayata and Kumpa** were **Marwar** Rathore captains, not Mewar warriors |
+
+> **Logic:** **Daurah (1532)** was Humayun versus Afghan chiefs. It is **not** Chausa. **Todar Mal** trained in Sher Shah’s measurement practice before Akbar’s dahsala. Sher Shah did **not** create hereditary mansabdari.
+
+---
+
+## 13. Mughal Emperors, Tombs & Architecture
+
+### A. Emperor ladder
+| Emperor | Reign peg | One-line daily fact |
+|---|---|---|
+| **Babur** | 1526–1530 | *Baburnama* in **Chagatai Turki**, not Persian; court language of later Mughals was **Persian**; took **Padshah** at **Kabul (1504)** |
+| **Humayun** | 1530–40; 1555–56 | Lost Chausa and Kannauj; **Gulbadan** wrote *Humayunnama*; died falling from **Sher Mandal** stairs |
+| **Akbar** | 1556–1605 | 2nd Panipat with **Bairam Khan**; **Fatehpur Sikri 1571–85**; **Allahabad fort 1583**; abolished **jizya 1564**; **Din-i-Ilahi 1582**; **Sulh-i-Kul** |
+| **Jahangir** | 1605–1627 | **Du-aspa sih-aspa** in mansabdari; executed **Guru Arjan (1606)**; Hawkins and Roe at court |
+| **Shah Jahan** | 1628–1658 | **Month-scales (mahashart)**; Taj Mahal; Shahjahanabad; imprisoned at Agra Fort after Samugarh |
+| **Aurangzeb** | 1658–1707 | Reimposed **jizya 1679**; annexed **Bijapur 1686** and **Golconda 1687**; executed **Guru Tegh Bahadur 1675** |
+| **Bahadur Shah I** | 1707–1712 | Won **Jajau 1707** against Azam Shah |
+| **Farrukhsiyar** | 1713–1719 | **1717 farman** to the Company (*Magna Carta of EIC*); peak of the **Sayyid Brothers** |
+| **Muhammad Shah Rangeela** | 1719–1748 | **Nadir Shah** at **Karnal 1739**; Peacock Throne and Koh-i-Noor carried off |
+| **Bahadur Shah II Zafar** | 1837–1857 | Last Mughal; 1857 nominal head; exiled to **Rangoon** |
+
+Akbar began with about **12 subahs**. Under Aurangzeb the count reached about **21**.
+
+### B. Tomb match
+| Emperor | Tomb city |
+|---|---|
+| Babur | **Kabul** (Bagh-e-Babur) |
+| Humayun | **Delhi** (first mature Mughal garden tomb; UNESCO) |
+| Akbar | **Sikandra**, Agra |
+| Jahangir | **Lahore** (Shahdara) |
+| Shah Jahan | **Agra** (Taj Mahal) |
+| Aurangzeb | **Khuldabad**, Maharashtra (simple grave) |
+
+### C. Architecture match
+| Work | Patron | Takeaway |
+|---|---|---|
+| **Buland Darwaza** | Akbar | Commemorates **Gujarat victory of 1572**, **not** Jahangir’s birth |
+| **Panch Mahal** | Akbar | Five-storey palace at Fatehpur Sikri |
+| **Ibadat Khana** | Akbar | House of worship / debate at Sikri; seed of Sulh-i-Kul |
+| **Taj Mahal** | Shah Jahan | Tomb of Mumtaz Mahal (Arjumand Banu); Ustad Ahmad Lahori traditionally named |
+| **Red Fort + Jama Masjid** | Shah Jahan | Shahjahanabad (Delhi) |
+| **Bibi ka Maqbara** | Azam Shah (Aurangzeb’s son) | Aurangabad; “Deccan Taj” |
+| **Moti Masjid (Red Fort)** | Aurangzeb | Marble mosque inside the Delhi fort |
+
+Court death order under Akbar: **Sheikh Mubarak 1593 → Faizi 1595 → Abul Fazl murdered 1602 → Daniyal 1605**.
+
+**Abul Fazl** wrote *Akbarnama* and *Ain-i-Akbari*. **Abdur Rahim Khan-i-Khana** translated *Baburnama* into Persian. **Bairam Khan** received the title **Khan-i-Khana** from **Akbar**.
+
+---
+
+## 14. Medieval Books & Authors (match goldmine)
+
+| Work | Author | Court / language peg |
+|---|---|---|
+| **Tahqiq-i-Hind / Kitab-ul-Hind** | **Al-Biruni** | Mahmud of Ghazni; Sanskrit science and caste |
+| **Chachnama** | Translated into Persian later | Arab conquest of Sindh (Muhammad bin Qasim) |
+| **Tabqat-i-Nasiri** | **Minhaj-us-Siraj** | Slave dynasty chronicle |
+| **Tarikh-i-Firoz Shahi** | **Ziauddin Barani** (and later Afif for Firoz) | Khalji–Tughlaq politics |
+| **Fatwa-i-Jahandari** | **Ziauddin Barani** | Advice on kingship |
+| **Kitab-ur-Rehla** | **Ibn Battuta** | Muhammad bin Tughlaq |
+| **Padmavat** | **Malik Muhammad Jayasi** | Awadhi; composed in **1540** at **Jais** (UP) in Sher Shah’s age |
+| **Akbarnama + Ain-i-Akbari** | **Abul Fazl** | Official history + gazetteer |
+| **Muntakhab-ut-Tawarikh** | **Abdul Qadir Badauni** | Critical of Akbar’s religious experiments |
+| **Tuzuk-i-Jahangiri** | **Jahangir** | Autobiography |
+| **Padshahnama** | Abdul Hamid Lahori & others | Shah Jahan |
+| **Alamgirnama** | Muhammad Kazim | Aurangzeb (early years) |
+| **Majma-ul-Bahrain** & **Sirr-i-Akbar** | **Dara Shikoh** | “Mingling of Two Oceans”; Persian Upanishads |
+| **Amuktamalyada** | **Krishnadeva Raya** | Telugu statecraft |
+| **Kavirajamarga** | **Amoghavarsha I** | Early Kannada poetics |
+| **Prithviraj Raso** | **Chand Bardai** | Chauhan epic (later recensions) |
+| **Rajatarangini** | **Kalhana** | Kashmir chronicle, 1148–50 |
+
+---
+
+## 15. Rajput Houses (quick match)
+
+| House | Region / capital | Headline names |
+|---|---|---|
+| **Guhila / Sisodia** | **Mewar** (Chittor, later Udaipur) | **Rana Kumbha** (Kumbhalgarh, *Kirtistambha*); **Rana Sanga** (Khanwa 1527); **Maharana Pratap** (Haldighati 1576, guerrilla from Kumbhalgarh / Chavand) |
+| **Kachwaha** | **Amber / Jaipur** | **Raja Man Singh** commanded at Haldighati for Akbar; **Raja Jai Singh I** signed **Purandar 1665** with Shivaji |
+| **Rathore** | **Marwar** (Jodhpur) | **Rao Jodha** founded Jodhpur; **Maldeo** fought Sher Shah at Sammel; **Jaswant Singh** lost **Dharmat 1658** |
+| **Chauhan** | Ajmer / Delhi (early) | **Prithviraj III** — Tarain 1191 win, 1192 loss |
+| **Tomar** | Delhi | **Anangpal** associated with Lal Kot; later Delhi passed to Chauhans |
+
+> **Logic:** **Mewar** is Sisodia Pratap. **Marwar** is Rathore Maldeo. Jayata–Kumpa died for **Marwar**, not Mewar.
+
+---
+
+## 16. Uttarakhand Medieval (UKPCS daily box)
+
+| Head | Correct |
+|---|---|
+| **Katyuri** | Early medieval hill dynasty; Baijnath / Kartikeyapur tradition; decline opens the way for Chand and Parmar |
+| **Chand of Kumaon** | Seat at **Champawat**, later **Almora** (founded by **Kalyan Chand**, 1563 tradition); **Baz Bahadur Chand** linked to Badrinath restoration |
+| **Parmar / Panwar of Garhwal** | Seat at **Srinagar (Garhwal)**; **Ajay Pal** traditionally unified Garhwal |
+| **Gorkha interlude** | Gorkhas held Kumaon–Garhwal until the **Anglo-Nepal War**; British took the hills by **Sugauli (1816)** |
+| **Joshimath matha** | Adi Shankara’s **northern** matha at **Badrikashram** (Uttarakhand) — Advaita card already in Bhakti table |
+
+---
+
+## 17. Extra Confused Pairs (Medieval)
+
+| A | B | Correct |
+|---|---|---|
+| Pala–Pratihara–Rashtrakuta | Cholas | Kannauj triangle vs **Tamil** imperial power |
+| Mihir Bhoja | Bhoja Paramara | Pratihara **Kannauj / Adivaraha** vs Malwa **Dhara** |
+| Chausa 1539 | Kannauj 1540 | Humayun **escaped** vs Humayun **exiled** |
+| Daurah 1532 | Dharmat 1658 | Humayun vs Afghans vs **Aurangzeb vs Jaswant Singh** |
+| Jarib | Rai | Measuring **rope** vs crop-rate per **bigha** |
+| Patta | Qabuliat | State deed vs peasant **acceptance** |
+| Zabt | Dahsala | Measurement assessment vs **10-year average** (1580) |
+| Zat | Sawar | Personal rank vs **cavalry quota** |
+| Sulh-i-Kul | Din-i-Ilahi | Universal peace **policy** vs 1582 small **court cult** |
+| Baburnama language | Court language | **Turki** vs later **Persian** |
+| Buland Darwaza | Jahangir’s birth | **Gujarat 1572** victory gate — birth is the trap |
+| Mewar | Marwar | Sisodia **Pratap** vs Rathore **Maldeo / Jaswant** |
+| Nyayadhish & Panditrao | Other Ashtapradhan | Only these two were **not** required to lead troops |
+
+---
+
+## 18. Ghazni, Ghori & Sultanate Experiments
+
+| Head | Correct |
+|---|---|
+| **712 CE** | **Muhammad bin Qasim** took **Sindh** from **Dahir** (*Chachnama*) — Indus foothold, not Gangetic conquest |
+| **Mahmud of Ghazni** | About **17** raids; **Somnath** under **Bhimdev I**; **raid-and-return**, not territorial rule |
+| **Al-Biruni** | Came with Mahmud; *Kitab-ul-Hind*; first Muslim to study the Puranas in depth |
+| **Muhammad Ghori** | **Territorial conquest**; first Indian defeat **Mount Abu 1178** (Naika Devi); Tarain 1191 loss, **1192** win; Chandawar **1194** |
+| **Iqta** | Institutionalised in India by **Iltutmish**; revenue to the **Muqti**; **Khalsa** = crown land |
+| **Khams** | One-fifth of war booty |
+| **Razia** | **1236–40**; only woman Sultan of Delhi |
+| **Alauddin army** | Cash-paid standing force; **Dagh + Chehra**; **Shahna-i-Mandi** = market controller |
+| **Alauddin markets** | Grain, cloth, horses/slaves, miscellaneous — prices frozen; **Diwan-i-Riyasat** |
+| **Alauddin tax** | About **50%** by measurement; **Ghari** (house) and **Charai** (cattle) |
+| **MbT experiments** | Capital to **Daulatabad**; **token currency**; **Diwan-i-Kohi**; Doab tax hike; Khurasan / Qarachil |
+| **Firoz Shah** | Canals + **Haqq-i-Sharb**; made **iqta hereditary**; **jizya on Brahmins**; moved Ashoka pillars (Topra, Meerut) |
+| **Shahna-i-Mandi** vs **Amir-i-Kohi** | Alauddin **market** vs Muhammad bin Tughlaq **agriculture** — do not swap |
+
+### Sultanate architecture
+| Work | Builder |
+|---|---|
+| **Qutb Minar** | Started **Aibak**, finished **Iltutmish** |
+| **Quwwat-ul-Islam** | Aibak (Delhi) |
+| **Dhai Din ka Jhopra** | Aibak (Ajmer) |
+| **Sultan Garhi** | Iltutmish (first Islamic tomb in India tradition) |
+| **Alai Darwaza (1311)** | Alauddin Khalji |
+| **Siri Fort** | Alauddin |
+| **Tughlaqabad** | Ghiyasuddin Tughlaq |
+| **Firoz Shah Kotla** | Firoz Shah Tughlaq |
+
+**Bakhtiyar Khalji** destroyed Nalanda and Vikramshila, took Nadia (~1204), and made **Lakhnauti** his capital. **Lakshmana Sena** fled east.
+
+**Ahoms** of Assam: **Sukapha** founder; **Moidams** at Charaideo are UNESCO WHS **2024**. **Lachit Borphukan** won **Saraighat (1671)** against the Mughals.

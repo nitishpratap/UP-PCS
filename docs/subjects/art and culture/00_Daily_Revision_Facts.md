@@ -1,15 +1,17 @@
 # Daily Read — High-Yield Revision Facts (Indian Art & Culture)
-### ★ UPPCS & UKPCS Prelims Daily Fact Dump · Active Recall Cheat-Sheet
+### ★ UPPCS + UKPCS Prelims Daily Sheet · Match, chronology, and confused-pair recall
 
-> **Exam Focus:** UPPSC Prelims (Paper 1), UKPSC Prelims (Paper 1), RO/ARO, BEO  
-> **Frequency:** Daily morning read (10–12 mins)  
-> **Question Types Covered:** 8 Classical Dances vs States & exponents, Classical Languages criteria & order, Nagara/Dravida/Vesara architectural parts, UNESCO Intangible Heritage (Ramman in UK!), Folk paintings & theatre, Music Gharanas.
+> **Use:** Morning cycle, 12–20 minutes. Rotate sections so the full sheet is covered in about a week.  
+> **Stems this sheet feeds:** Classical dances, languages, temple anatomy, UNESCO ICH and WHS, paintings, theatre, gharanas, GI tags, festivals.  
+> **Last filled:** September 2026 — UNESCO WHS 45 (Sarnath 2026), ICH 16 (Deepavali 2025), caves, painting schools, GI tags, festivals, Uttarakhand folk.
+
+**Seven-day rotation:** 1 Dances + languages · 2 Temple anatomy + masterpiece temples · 3 UNESCO ICH + WHS · 4 Paintings + sculpture/caves · 5 Theatre + martial arts + music · 6 GI + festivals + awards · 7 Uttarakhand culture + confused pairs.
 
 ---
 
 ## 1. The 8 Classical Dances of India (Sangeet Natak Akademi)
 
-| Dance Form | State of Origin | Key Pioneer / Revivalist | Notable Exponents | Distinctive Features / Exam Keywords |
+| Dance Form | State of Origin | Key Pioneer / Revivalist | Notable Exponents | Distinctive features / keywords |
 |---|---|---|---|---|
 | **Bharatanatyam** | **Tamil Nadu** | **E. Krishna Iyer**, **Rukmini Devi Arundale** (Kalakshetra) | Yamini Krishnamurthy, Padma Subrahmanyam, Alarmel Valli, Mrinalini Sarabhai | **Oldest classical dance** (temple Devadasi / *Sadir*); fire dance (*Araimandi* stance); *Alarippu $\to$ Jatiswaram $\to$ Shabdam $\to$ Varnam $\to$ Padam $\to$ Tillana*; *Ekaharya* (one dancer plays many roles) |
 | **Kathak** | **Uttar Pradesh** | **Lady Leela Sokhey**, Wajid Ali Shah (patronized Lucknow Gharana) | **Pt. Birju Maharaj**, Sitara Devi, Shambhu Maharaj, Lachhu Maharaj, Damayanti Joshi | Derived from *Katha Kahe So Kathak Kahave*; intricate footwork (**Tatkar**), rapid spins (**Chakkars**), *Gat Nikas*, *Jugalbandi* with tabla; **Gharanas**: Lucknow (Bhava/grace), Jaipur (Veer rasa/footwork), Banaras, Raigarh |
@@ -95,7 +97,7 @@
 
 ---
 
-## 4. UNESCO Intangible Cultural Heritage of India (All 15 Elements)
+## 4. UNESCO Intangible Cultural Heritage of India (now 16 — Deepavali 2025)
 
 | Year Added | Intangible Cultural Heritage Element | State / Region | Key Cultural Significance |
 |---|---|---|---|
@@ -114,6 +116,7 @@
 | **2017** | **Kumbh Mela** | Prayagraj (UP), Haridwar (UK), Ujjain (MP), Nashik (Maha) | Largest peaceful congregation of pilgrims on Earth at holy river confluences |
 | **2021** | **Durga Puja in Kolkata** | West Bengal | 10-day carnival of community art, public installations, and devotion |
 | **2023** | **Garba of Gujarat** | Gujarat | Ritualistic circular dance performed during the nine days of Navratri |
+| **2025** | **Deepavali** | Pan-India | India’s **16th** ICH element (inscribed **10 Dec 2025**) |
 
 ---
 
@@ -172,3 +175,266 @@
 - **Banaras Gharana**: Pt. Rajan-Sajan Mishra (vocal), **Ustad Bismillah Khan** (Shehnai - Bharat Ratna 2001), Pt. Samta Prasad (Gudai Maharaj - Tabla), Pt. Kishan Maharaj (Tabla).
 - **Lucknow Gharana**: Renowned for Kathak (Birju Maharaj) and Tabla (Modu Khan & Bakshu Khan).
 - **Maihar Gharana**: Founded by Baba Allauddin Khan; legendary instrumentalists: **Pt. Ravi Shankar** (Sitar - Bharat Ratna 1999), Ustad Ali Akbar Khan (Sarod), Annapurna Devi (Surbahar).
+
+---
+
+## 8. UNESCO World Heritage Sites of India (45 as of July 2026)
+
+India ranks **6th** globally. Split: **37 cultural, 7 natural, 1 mixed**.
+
+**Mixed site:** **Khangchendzonga National Park** (Sikkim) — the only mixed property.
+
+**Natural seven:** Kaziranga; Keoladeo; Manas; Sundarbans; Nanda Devi **and** Valley of Flowers (one property); Western Ghats; Great Himalayan National Park.
+
+### A. Uttar Pradesh — four sites
+| Site | Year | Peg |
+|---|---|---|
+| **Taj Mahal** | **1983** | Agra; ivory-white mausoleum |
+| **Agra Fort** | **1983** | Red sandstone; Shah Jahan imprisoned here |
+| **Fatehpur Sikri** | **1986** | Akbar’s capital; Buland Darwaza |
+| **Ancient Buddhist Site of Sarnath** | **July 2026** | India’s **45th**; UP’s **4th**; Chaukhandi Stupa + archaeological remains; first sermon site |
+
+> **Logic:** **Varanasi ghats** stay on the **Tentative List**. Do not count them as a fifth UP World Heritage Site. Lucknow’s Imambara and Residency are national heritage, **not** WHS.
+
+### B. Uttarakhand
+**Nanda Devi and Valley of Flowers National Parks** form **one** natural WHS. Kaziranga and the Mountain Railways are **outside** Uttarakhand.
+
+### C. Newest inscriptions (remember the last four)
+| Year | Site |
+|---|---|
+| **2023** | Santiniketan; Sacred Ensembles of the Hoysalas |
+| **2024** | **Moidams** — Ahom mound-burial, Charaideo, Assam |
+| **2025** | **Maratha Military Landscapes** (12 forts, Maharashtra + Gingee in Tamil Nadu) |
+| **2026** | **Sarnath** |
+
+Other cultural pegs: Ajanta, Ellora, Elephanta, Mahabalipuram, Konark, Hampi, Khajuraho, Pattadakal, Great Living Chola Temples, Sanchi, Humayun’s Tomb, Qutb, Red Fort, Mountain Railways, Mahabodhi, Bhimbetka, Champaner, CST Mumbai, Jantar Mantar, Hill Forts of Rajasthan, Rani-ki-Vav, Nalanda, Le Corbusier (Chandigarh Capitol), Ahmadabad, Mumbai Art Deco, Jaipur City, Dholavira, Ramappa.
+
+**World Heritage Day** is **18 April** (ICOMOS). Cultural criteria **i–vi**; natural **vii–x**.
+
+---
+
+## 9. UNESCO ICH — now 16 elements (Deepavali 2025)
+
+Early Masterpiece proclamations (Kutiyattam 2001, Vedic chanting 2003, Ramlila 2005) all entered the Representative List in **2008**.
+
+| Year | Element | Region peg |
+|---|---|---|
+| 2008 | Vedic chanting; Ramlila; Koodiyattam | Pan-India / North / Kerala |
+| 2009 | **Ramman** | **Saloor-Dungra, Chamoli, Uttarakhand** — Bhumiyal Devta; wooden masks |
+| 2010 | Chhau; Kalbelia; Mudiyettu | JH–OD–WB; Rajasthan; Kerala |
+| 2012 | Buddhist chanting of Ladakh | Ladakh |
+| 2013 | Sankirtana | Manipur |
+| 2014 | Thatheras brass craft | Jandiala Guru, Amritsar |
+| 2016 | Yoga; Nowruz | Pan-India; Parsi |
+| 2017 | Kumbh Mela | Prayagraj, Haridwar, Ujjain, Nashik |
+| 2021 | Durga Puja in Kolkata | West Bengal |
+| 2023 | Garba of Gujarat | Gujarat |
+| **10 Dec 2025** | **Deepavali** | India’s **16th** ICH element |
+
+> **Logic:** **Bharatanatyam, Kathak, Nautanki, and Holi** as a standalone Indian element are **not** on this UNESCO ICH list. **Ramlila** is the UP-centred performance ICH. **Ramman** is the Uttarakhand ICH.
+
+---
+
+## 10. Rock-Cut Caves & Sculpture Schools
+
+| Cave / school | Patron / age | Peg |
+|---|---|---|
+| **Barabar / Nagarjuni** | Ashoka / Dasharatha | **Ajivika**; Mauryan polish |
+| **Ajanta** | Satavahana → **Vakataka** | Painted Buddhist caves; UNESCO |
+| **Ellora** | Rashtrakuta / others | Buddhist, Hindu, Jain in one hill; **Kailasa Cave 16** by **Krishna I** |
+| **Elephanta** | Rashtrakuta–Silahara age | **Maheshmurti** (three-headed Shiva); UNESCO |
+| **Udayagiri–Khandagiri** | **Kharavela** (Chedi) | Jain; Hathigumpha |
+| **Mahabalipuram** | Pallava | Rathas, Descent of the Ganga, Shore Temple |
+| **Karla / Bhaja / Kanheri** | Satavahana–Kshatrapa | Western Deccan chaitya–vihara |
+| **Gandhara** | Kushan NW | Grey/green **schist**; Greco-Roman Buddha |
+| **Mathura** | Kushan–Gupta **UP** | Mottled **red sandstone**; indigenous Buddha / Jina |
+| **Sarnath (Gupta)** | Gupta | Plain drape, halo — classical Buddha |
+| **Chola bronze** | Imperial Chola | Lost-wax **Nataraja** (damaru, agni, Apasmara) |
+| **Didarganj Yakshi** | Mauryan–Sunga debate | Polished sandstone, Patna |
+| **Lion Capital, Sarnath** | Ashoka | National emblem |
+
+---
+
+## 11. Court Painting Schools (beyond folk)
+
+| School | Patron / place | Peg |
+|---|---|---|
+| **Mughal** | Humayun’s Persian masters → Akbar’s *tasvir khana* | **Hamzanama** (~1400 folios); later portraiture under Jahangir |
+| **Deccani** | Ahmadnagar, Bijapur, Golconda | Rich colour, composite animals |
+| **Mewar / Udaipur** | Rajput | Bold colour; *Ragamala* |
+| **Marwar / Jodhpur** | Rathore | |
+| **Kishangarh** | **Sawant Singh (Nagari Das)** | **Nihal Chand** painted **Bani Thani** |
+| **Bundi–Kota (Hadoti)** | | Hunting scenes, lush vegetation |
+| **Basohli** | Jammu | Oldest Pahari; beetle-wing jewellery; *Rasamanjari* |
+| **Guler–Kangra** | Raja Sansar Chand | Soft lyric Radha–Krishna; *Gita Govinda* |
+| **Company painting** | British patrons | Hybrid documentary style |
+| **Bengal School** | **Abanindranath Tagore** | Wash technique; *Bharat Mata*; reaction to Company/academic oil |
+| **Kalighat** | Kolkata pats | Urban folk-modern; *cat with prawn* |
+
+---
+
+## 12. GI Tags & Crafts (UP + UK + national traps)
+
+| GI / craft | State | Peg |
+|---|---|---|
+| **Banarasi brocade / saree** | Uttar Pradesh | Varanasi |
+| **Lucknow chikankari** | UP | White-thread embroidery |
+| **Agra zardozi / marble inlay** | UP | Taj tradition |
+| **Khurja pottery** | UP | |
+| **Saharanpur woodcraft** | UP | |
+| **Kannauj ittar / perfume** | UP | Ancient scent city |
+| **Mangoes (Dussehri, Langda, Chausa)** | UP | District-specific GIs |
+| **Darjeeling tea** | West Bengal | India’s **first** GI (2004–05 tradition) |
+| **Kangra tea / painting** | Himachal | |
+| **Kanchipuram silk** | Tamil Nadu | |
+| **Pochampally ikat** | Telangana | |
+| **Mysore silk / sandalwood** | Karnataka | |
+| **Muga silk** | Assam | Golden silk |
+| **Kumaoni / Almora crafts** | Uttarakhand | Aipan floor art, wood carving, ringaal bamboo |
+| **Tehri / Uttarakhand wool / pashmina-class hill weaves** | UK | Hill livelihood crafts |
+| **Ramnagar ramlila** | UP (living heritage) | Separate from UNESCO Ramlila element |
+
+---
+
+## 13. Festivals, Fairs & Awards
+
+| Festival / award | Peg |
+|---|---|
+| **Kumbh** | Prayagraj, Haridwar, Ujjain, Nashik; 12-year cycle; UNESCO ICH 2017 |
+| **Magh Mela** | Annual Prayagraj bathing fair |
+| **Ramnavami / Dussehra Ramlila** | UP heartland; Ramnagar Ramlila is the classic staging |
+| **Dev Deepawali** | Varanasi, Kartik Purnima |
+| **Ganga Dussehra** | Ganga descent memory |
+| **Panch Kedar / Char Dham** | Kedarnath, Tungnath, Rudranath, Madhyamaheshwar, Kalpeshwar; Yamunotri–Gangotri–Kedarnath–Badrinath |
+| **Nanda Devi Raj Jat** | Uttarakhand’s long pilgrimage fair (12-year class) |
+| **Sangeet Natak Akademi** | **1953**, New Delhi — performing arts |
+| **Lalit Kala Akademi** | **1954** — visual arts |
+| **Sahitya Akademi** | **1954** — literature |
+| **Kalidas Samman** | Madhya Pradesh |
+| **Bharat Ratna (arts pegs)** | M.S. Subbulakshmi, Ravi Shankar, Bismillah Khan, Lata Mangeshkar, among others |
+
+---
+
+## 14. Uttarakhand Culture (UKPCS daily box)
+
+| Head | Correct |
+|---|---|
+| **Ramman** | UNESCO ICH **2009**; Saloor-Dungra, Chamoli; **Bhumiyal Devta**; wooden masked dance |
+| **Langvir Nritya** | Acrobatic folk dance, Tehri–Uttarkashi belt |
+| **Barada Nati / Pandav Nritya** | Garhwal ritual theatre of the Mahabharata |
+| **Jhora, Chanchari, Chhapeli** | Kumaon group dances |
+| **Jagars** | Spirit-invocation singing |
+| **Aipan** | Kumaoni floor/wall ritual painting with biswar rice paste |
+| **Dhol–Damau** | Core percussion pair of hill rituals |
+| **Nanda Devi Raj Jat** | Longest hill pilgrimage cycle |
+| **Haridwar Kumbh** | One of four Kumbh sites (ICH 2017) |
+| **Joshimath / Badrinath** | Shankara’s northern matha; Char Dham |
+
+---
+
+## 15. Extra Confused Pairs (Art & Culture)
+
+| A | B | Correct |
+|---|---|---|
+| SNA 8 classical dances | Ministry list with Chhau | **Sangeet Natak Akademi = 8**; Culture Ministry has also listed **Chhau** |
+| Mohiniyattam | Kathakali | Kerala **lasya** solo vs Kerala **dance-drama** with *pacha/kathi* makeup |
+| Nagara shikhara | Dravida vimana | Curvilinear + amalaka vs pyramidal + **gopuram** |
+| Tangible WHS | ICH | Monument you can touch vs **living practice** |
+| Sarnath WHS 2026 | Varanasi ghats | **Inscribed** vs **Tentative only** |
+| Ramlila ICH | Ramman ICH | North Indian Ramayana play vs **Chamoli** masked village theatre |
+| Deepavali ICH 2025 | Holi | Deepavali **is** listed (16th); Holi is **not** a named Indian ICH element |
+| Gandhara | Mathura | Schist Greco-Buddhist vs UP **red sandstone** |
+| Bani Thani | Kangra Radha | Kishangarh **Nihal Chand** vs Pahari lyric school |
+| Hamzanama | Akbarnama | Akbar’s **cloth cycle** of Amir Hamza vs Abul Fazl’s **history** |
+
+---
+
+## 16. Six Orthodox Schools & Three Heterodox (culture overlap)
+
+| School | Founder (tradition) | Core idea |
+|---|---|---|
+| **Nyaya** | Gautama | Logic and epistemology |
+| **Vaisheshika** | Kanada | Atomism / padartha |
+| **Sankhya** | Kapila | Purusha–Prakriti dualism; originally atheistic in many teaching notes |
+| **Yoga** | Patanjali | *Yogasutra*; eight limbs (*ashtanga*) |
+| **Purva Mimamsa** | Jaimini | Vedic ritual; *Mimamsa Sutra* |
+| **Uttara Mimamsa / Vedanta** | Badarayana (Vyasa) | *Brahmasutra*; later Shankara / Ramanuja / Madhva |
+| **Charvaka / Lokayata** | Brihaspati tradition | Materialist heterodox |
+| **Buddhism / Jainism** | Buddha / Mahavira | Heterodox; reject Vedic ritual authority |
+
+Four *mathas* of Shankara: **Joshimath (north, Uttarakhand)**, Sringeri (south), Dwarka (west), Puri (east).
+
+---
+
+## 17. Cultural Institutions, Stupa Anatomy & Indo-Islamic Vocabulary
+
+| Institution | Year / HQ | Peg |
+|---|---|---|
+| **Asiatic Society** | **1784**, Calcutta | **William Jones**; Hastings declined Presidentship |
+| **ASI** | **1861** (Cunningham); revived **1902** under Curzon | AMASR Act **1958**; HQ New Delhi |
+| **Sangeet Natak Akademi** | **1953**, New Delhi | Performing arts; **8** classical dances |
+| **Lalit Kala Akademi** | **1954** | Visual arts |
+| **Sahitya Akademi** | **1954** | Literature; **22+** recognised languages |
+| **National Archives** | New Delhi | |
+| **IGNCA** | New Delhi | Arts resource centre |
+| **National Museum** | New Delhi (Janpath) | |
+| **New Nalanda University** | Rajgir campus **2024** | Under **MEA**, not Mo Culture |
+
+### Stupa parts
+**Anda** (hemispherical mound) → **Harmika** (railing on top) → **Yashti / Chhatra** (umbrella) → **Medhi** (terrace) → **Pradakshina-patha** (circumambulation) → **Torana** (gateway). **Sanchi** (Ashoka; enlarged Shunga–Satavahana) is the textbook stupa. **Sarnath Dhamek** marks the first sermon.
+
+### Indo-Islamic words
+| Term | Meaning |
+|---|---|
+| **Qibla / Mihrab** | Prayer-direction wall / niche |
+| **Minar** | Tower for azan |
+| **Iwan** | Monumental arched hall |
+| **Sahn** | Courtyard |
+| **Pishtaq** | Tall gateway frame |
+| **Hasht-bihisht** | Eight-paradise tomb plan (Humayun, Taj) |
+| **Charbagh** | Four-fold garden |
+| **Double dome** | Inner and outer shells (from Humayun’s tomb onward) |
+| **Jali** | Pierced stone screen |
+| **Pietra dura** | Marble inlay (Taj) |
+
+---
+
+## 18. Folk Dances, Puppetry, Instruments & UP culture
+
+| Folk dance | State |
+|---|---|
+| **Raslila / Nautanki / Kajri** | Uttar Pradesh |
+| **Chholiya** (sword dance) | Kumaon, Uttarakhand |
+| **Langvir / Pandav Nritya / Jhora** | Uttarakhand |
+| **Ghoomar / Kalbelia / Bhavai** | Rajasthan |
+| **Bihu** | Assam |
+| **Giddha / Bhangra** | Punjab |
+| **Lavani / Tamasha** | Maharashtra |
+| **Garba / Dandiya** | Gujarat |
+| **Chhau** | JH–OD–WB |
+| **Theyam / Thirayattam** | Kerala |
+| **Yakshagana** (dance-drama) | Karnataka |
+
+| Puppetry | State |
+|---|---|
+| **Kathputli** (string) | Rajasthan |
+| **Gombeyatta** (string) | Karnataka |
+| **Bommalattam** (string + rod) | Tamil Nadu |
+| **Putul Nautch** | Bengal |
+| **Ravanachhaya** (shadow) | Odisha |
+| **Togalu Gombeyatta** (shadow) | Karnataka |
+| **Tholu Bommalata** (shadow) | Andhra / Telangana |
+
+| Instrument | Type / gharana peg |
+|---|---|
+| **Tabla** | Avanaddha; Lucknow / Banaras / Punjab gharanas |
+| **Pakhawaj** | Dhrupad accompaniment |
+| **Sarod / Sitar** | Maihar (Ali Akbar / Ravi Shankar) |
+| **Shehnai** | Bismillah Khan, Banaras |
+| **Santoor** | Shivkumar Sharma, Kashmir |
+| **Mridangam / Veena / Nadaswaram** | Carnatic |
+| **Dhol–Damau** | Uttarakhand ritual pair |
+
+**UP culture pegs:** Kathak (Lucknow gharana); Banarasi silk; chikankari; Awadh soz / marsiya; Ramlila (UNESCO); Kumbh at Prayagraj; **Sarnath WHS 2026**.
+
+**National cultural symbols:** Flag (22 Jul 1947); Anthem *Jana Gana Mana* (Tagore); Song *Vande Mataram* (Bankim); Emblem = Sarnath lions; Calendar = Saka **78 CE**.

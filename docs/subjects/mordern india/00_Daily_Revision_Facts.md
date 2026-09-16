@@ -1,9 +1,11 @@
 # Daily Read — High-Yield Revision Facts (Modern India)
-### ★ UPPCS & UKPCS Prelims Daily Fact Dump · Active Recall Cheat-Sheet
+### ★ UPPCS + UKPCS Prelims Daily Sheet · Match, chronology, and confused-pair recall
 
-> **Exam Focus:** UPPSC Prelims (Paper 1), UKPSC Prelims (Paper 1), RO/ARO, BEO  
-> **Frequency:** Daily morning read (15 mins)  
-> **Question Types Covered:** Chronological ladders (1905–1947), Governor-Generals vs Reforms, 1857 leaders vs suppressors, Tribal/peasant revolts, INC sessions & presidents, Newspapers & founders.
+> **Use:** Morning cycle, 15–20 minutes. Rotate sections so the full sheet is covered in about a week.  
+> **Stems this sheet feeds:** Chronology 1905–1947, Governor-Generals vs reforms, 1857 centres, revolts, INC, newspapers, wars, Acts, books.  
+> **Last filled:** September 2026 — Anglo wars, constitutional Acts, revolutionaries, books, education, post-1947, Uttarakhand modern.
+
+**Seven-day rotation:** 1 Europeans + land revenue · 2 GGs/Viceroys + Acts · 3 1857 + peasant/tribal · 4 Socio-religious + INC · 5 Freedom ladder 1905–47 · 6 Wars + revolutionaries + books · 7 Uttarakhand modern + confused pairs.
 
 ---
 
@@ -94,7 +96,7 @@
 
 ## 4. Revolt of 1857 — Centre, Leader & British Suppressor Matrix
 
-| Centre of Revolt | Indian Leader / Commander | British Suppressor Officer | Crucial Exam Detail |
+| Centre of Revolt | Indian Leader / Commander | British Suppressor Officer | Crucial detail |
 |---|---|---|---|
 | **Delhi** | **Bahadur Shah Zafar II** & **General Bakht Khan** (Subahdar of Bareilly artillery) | **John Nicholson** (mortally wounded), **Captain Hudson** | Hudson shot Bahadur Shah's sons at Delhi Gate; Emperor exiled to Rangoon |
 | **Kanpur** | **Nana Saheb** (Dhondu Pant), **Tatya Tope** (Ramchandra Pandurang), Azimullah Khan | **Sir Colin Campbell**, Havelock | Nana fled to Nepal; Tatya Tope betrayed by Mansingh, hanged at Shivpuri (1859) |
@@ -267,3 +269,246 @@
 | **Independent** (1919) | **Motilal Nehru** | Allahabad daily advocating national cause |
 | **National Herald** (1938) | **Jawaharlal Nehru** | Lucknow daily |
 | **Mooknayak** (1920) & **Bahishkrit Bharat** (1927) | **Dr. B.R. Ambedkar** | Organs for depressed classes' rights |
+
+---
+
+## 10. Anglo Wars & Treaties (Cause is expansion; result is annexation)
+
+### A. Bengal turning points
+| Event | Year | Result |
+|---|---|---|
+| **Farrukhsiyar’s farman** | **1717** | Duty-free trade (*dastak*); later private misuse fed Plassey politics |
+| **Plassey** | **23 June 1757** | Clive + Mir Jafar conspiracy; puppet Nawab; **no Diwani yet** |
+| **Buxar** | **22 Oct 1764** | Hector Munro beat Mir Qasim + Shuja-ud-Daula + Shah Alam II |
+| **Allahabad** | **Aug 1765** | **Diwani** of Bengal, Bihar, Orissa to the Company |
+| **Dual Government** | **1765–1772** | Company took revenue; Nawab kept nizamat in name; ended by **Warren Hastings (1772)** |
+
+### B. Four Anglo-Mysore Wars
+| War | Years | GG / Governor | Treaty / result |
+|---|---|---|---|
+| 1st | 1767–69 | Verelst | **Treaty of Madras (1769)** — Haidar Ali forced a defensive alliance |
+| 2nd | 1780–84 | Warren Hastings | **Porto Novo 1781** (Eyre Coote); Haidar died 1782; **Treaty of Mangalore (1784)** — mutual restitution |
+| 3rd | 1790–92 | Cornwallis | Triple alliance; **Treaty of Seringapatam (1792)** — Tipu ceded **half** the kingdom |
+| 4th | **1799** | Wellesley | Tipu died **4 May 1799**; Wodeyar minor under Subsidiary Alliance |
+
+Tipu planted a Tree of Liberty, joined a Jacobin club, and sent embassies abroad.
+
+### C. Three Anglo-Maratha Wars
+| War | Years | Treaty chain / result |
+|---|---|---|
+| 1st | 1775–82 | **Surat 1775 → Purandhar 1776 → Wadgaon 1779 → Salbai 1782** (Mahadji Scindia mediator; 20 years’ peace) |
+| 2nd | 1803–05 | **Treaty of Bassein (1802)** — Peshwa Baji Rao II accepted Subsidiary Alliance; Assaye / Laswari |
+| 3rd | 1817–18 | Lord Hastings; Peshwaship abolished; Pindaris crushed; Peshwa pensioned at **Bithoor** |
+
+### D. Nepal, Sikh, Sindh, Burma
+| Conflict | Years | Treaty / result | UK / UP peg |
+|---|---|---|---|
+| **Anglo-Nepal** | **1814–16** | **Sugauli (1816)** — **Kumaon and Garhwal** ceded | Gillespie died at **Nalapani (Dehradun)** |
+| **Amritsar** | **1809** | Ranjit Singh’s Sutlej peace with the British | Not the 1846 Lahore treaty |
+| **1st Anglo-Sikh** | 1845–46 | **Treaty of Lahore (1846)** | Kashmir sold by **Treaty of Amritsar 1846** to Gulab Singh |
+| **2nd Anglo-Sikh** | 1848–49 | **Punjab annexed 1849** (Dalhousie) | After Multan revolt |
+| **Sindh** | **1843** | Charles Napier under **Ellenborough** | “Peccavi” tradition |
+| **Burma** | 1824–26; 1852; 1885 | **Yandabo 1826**; full annexation **1885** (Dufferin) | 1st under Amherst; 2nd Dalhousie |
+
+**Warren Hastings ≠ Lord Hastings.** Warren ended Dual Government, fought the 1st Maratha War, and faced Chait Singh (Banaras 1781). Lord Hastings fought Nepal, Pindaris, and the 3rd Maratha War.
+
+**Ring Fence** (Warren Hastings, informal buffer) is not **Subsidiary Alliance** (Wellesley from **1798**: Hyderabad → Mysore → Tanjore → Awadh 1801 → Peshwa 1802).
+
+**Awadh 1856** was annexed for **maladministration** (James Outram), **not** Doctrine of Lapse.
+
+---
+
+## 11. Constitutional Acts Ladder (1773–1947)
+
+| Act | Year | One-line takeaway |
+|---|---|---|
+| **Regulating Act** | **1773** | First **Governor-General of Bengal** (Warren Hastings); Supreme Court Calcutta **1774** |
+| **Pitt’s India Act** | **1784** | **Board of Control** = political; **Court of Directors** = commercial — do not swap |
+| **Charter 1813** | 1813 | Trade monopoly ended except **tea and China**; **₹1 lakh** for education |
+| **Charter 1833** | 1833 | **Governor-General of India** (Bentinck first); Law Member **Macaulay** |
+| **Charter 1853** | 1853 | Open competition for **ICS** implemented; executive and legislature separated |
+| **GOI Act** | **1858** | Crown rule; **Secretary of State**; first **Viceroy Canning** |
+| **Indian Councils Act** | **1861** | **Portfolio system** legalised; ordinance power |
+| **Indian Councils Act** | **1892** | Indirect elections; budget discussion **without vote** |
+| **Morley–Minto** | **1909** | **Muslim separate electorates**; **S.P. Sinha** first Indian on Viceroy’s Executive Council |
+| **Montagu–Chelmsford** | **1919** | **Dyarchy in provinces**; bicameral Centre; Chamber of Princes |
+| **GOI Act** | **1935** | **Provincial Autonomy operated**; All-India Federation and **Central dyarchy never operated**; residuary with **GG**; Federal Court **1937** |
+| **Independence Act** | **1947** | Assent **18 July**; Mountbatten Plan was **3 June 1947** |
+
+Communal Award **1932** was **not** the first separate-electorate device (that is **1909**). **Poona Pact** replaced Depressed-Class separate electorates with **reserved seats in a joint electorate**.
+
+---
+
+## 12. Revolutionary Organisations & Actions
+
+| Body / action | Year / place | Founders / actors | Takeaway |
+|---|---|---|---|
+| **Anushilan Samiti** | 1902, Bengal | Barindra Kumar Ghosh, Pulin Behari Das (Dhaka) | Secret revolutionary samiti |
+| **Abhinav Bharat** | 1904 | **V.D. Savarkar** | Nasik / London links |
+| **Ghadar Party** | **1913**, San Francisco | **Sohan Singh Bhakna**, **Lala Har Dayal** | Komagata Maru **1914**; paper *Ghadar* |
+| **Berlin Committee / Indian Independence Committee** | 1915 | Virendranath Chattopadhyay, Bhupendranath Dutta | WW-I overseas plot |
+| **Hindustan Republican Association (HRA)** | **Oct 1924**, Kanpur | Sachindra Sanyal, Ram Prasad Bismil, Jogesh Chatterjee | Manifesto *The Revolutionary* |
+| **Kakori** | **9 Aug 1925** | Bismil, Ashfaqulla, Roshan Singh, Rajendra Lahiri hanged | 8-Down train near Lucknow |
+| **HSRA** | **Sep 1928**, Feroz Shah Kotla | Chandrashekhar Azad, Bhagat Singh | Socialist turn of HRA |
+| **Saunders killing** | **17 Dec 1928**, Lahore | Bhagat Singh, Rajguru, Azad | Avenged Lala Lajpat Rai |
+| **Assembly bomb** | **8 Apr 1929** | Bhagat Singh, Batukeshwar Dutt | “To make the deaf hear” |
+| **Chittagong Armoury Raid** | **18 Apr 1930** | **Surya Sen (Masterda)** | Indian Republican Army, Chittagong |
+| **Women pegs** | 1930s | **Pritilata Waddedar**, **Kalpana Dutta**, **Shanti–Suniti** | Chittagong and Comilla |
+| **INA** | 1942–45 | Mohan Singh; then **Subhas Bose** | Rani of Jhansi Regiment (Lakshmi Swaminathan); Red Fort trials **1945** |
+
+---
+
+## 13. Books & Authors (freedom-movement match)
+
+| Book | Author | Peg |
+|---|---|---|
+| ***Anandamath* (1882)** | **Bankim Chandra Chattopadhyay** | Carries **Vande Mataram** — national **song**, not the anthem |
+| ***Neel Darpan* (1860)** | **Dinabandhu Mitra** | Indigo; not Bankim |
+| ***Poverty and Un-British Rule in India* (1901)** | **Dadabhai Naoroji** | Drain of wealth |
+| ***Hind Swaraj* (1909)** | **Gandhi** | Political tract; autobiography is *My Experiments with Truth* |
+| ***Gita Rahasya*** | **B.G. Tilak** | Do not swap with *Arctic Home in the Vedas* (also Tilak) |
+| ***Gulamgiri* (1873)** | **Jyotiba Phule** | Caste as slavery |
+| ***Annihilation of Caste* (1936)** | **B.R. Ambedkar** | Not Phule |
+| ***The Indian War of Independence* (1909)** | **V.D. Savarkar** | Reads **1857** as a national war |
+| ***Unhappy India*** | **Lala Lajpat Rai** | Reply to Katherine Mayo’s *Mother India* (1927) |
+| ***A Nation in Making*** | **Surendranath Banerjee** | Moderate memoir |
+| ***The Discovery of India* (1946)** | **Jawaharlal Nehru** | Ahmednagar jail |
+| ***India Wins Freedom*** | **Maulana Azad** | Not Nehru’s *Discovery* |
+| ***India Divided*** | **Rajendra Prasad** | Partition tract |
+| ***Why I Am an Atheist*** | **Bhagat Singh** | |
+| ***The Indian Struggle*** | **Subhas Chandra Bose** | |
+| ***Satyarth Prakash*** | **Dayanand Saraswati** | Arya Samaj |
+| ***Godaan*** | **Premchand** | Social novel, not Bankim romance |
+| ***Bidesiya*** | **Bhikhari Thakur** | “Shakespeare of Bhojpuri” |
+
+---
+
+## 14. Education Commissions & Labour Bodies
+
+| Commission / body | Year | Mandate / takeaway |
+|---|---|---|
+| **Charter 1813 grant** | 1813 | ₹1 lakh for education |
+| **Macaulay’s Minute** | **1835** | English medium; filtration theory |
+| **Wood’s Despatch** | **1854** | “Magna Carta of English education”; universities at Calcutta, Bombay, Madras **1857** |
+| **Hunter Commission** | **1882** | Primary education emphasis (Ripon) |
+| **Raleigh Commission** | 1902 | Led to **Indian Universities Act 1904** (Curzon) |
+| **Sadler Commission** | 1917–19 | Calcutta University; 12-year school + 3-year degree idea |
+| **Hartog Committee** | 1929 | Quality over hasty expansion |
+| **Wardha / Zakir Husain** | 1937–38 | Nai Talim / Basic Education |
+| **Sargent Plan** | 1944 | Post-war education plan |
+| **AITUC** | **31 Oct 1920**, Bombay | **Lala Lajpat Rai** first president; **N.M. Joshi** a founder organiser |
+| **All India Kisan Sabha** | **Apr 1936**, **Lucknow** | **Swami Sahajanand** president; **N.G. Ranga** general secretary |
+
+---
+
+## 15. Post-Independence Pegs (till the Republic)
+
+| Date | Event |
+|---|---|
+| **15 Aug 1947** | Independence; **Mountbatten** last British GG; **J.B. Kripalani** INC president at freedom |
+| **30 Jan 1948** | Gandhi assassinated |
+| **21 Jun 1948** | **C. Rajagopalachari** first Indian Governor-General |
+| **26 Nov 1949** | Constitution **adopted** (284 signatures) |
+| **24 Jan 1950** | Last Constituent Assembly sitting; national anthem adopted for official use |
+| **26 Jan 1950** | Constitution **enforced**; **Rajendra Prasad** first President; **Nehru** first PM |
+| **States / integration** | **Sardar Patel** + **V.P. Menon**; Junagadh, Hyderabad (Operation Polo **1948**), Kashmir accession **26 Oct 1947** |
+
+---
+
+## 16. Uttarakhand Modern (UKPCS daily box)
+
+| Head | Correct |
+|---|---|
+| **Sugauli 1816** | Kumaon and Garhwal to the British after the Anglo-Nepal War |
+| **Kalu Singh Mahara** | Champawat; **Krantiveer**; remembered as an early 1857 hill fighter |
+| **Coolie-Begar / Ulgulan of 1921** | Forced porterage protest in Kumaon; **Badri Datt Pandey** and *Almora Akhbar* |
+| **Dola-Palki** | Social protest on palanquin / status rules for lower castes in the hills |
+| **Forest / Chipko seed-bed** | Hill forest satyagrahas of the 20th century sit behind later Chipko (**Reni 1973**) — Chipko card lives in Environment |
+| **Tehri State** | Princely Garhwal; last ruler **Narendra Shah** tradition; merged after 1948–49 |
+| **Praja Mandal** | Tehri people’s movement against princely autocracy |
+| **Statehood politics** | Separate-state demand matured late 20th century; **Uttaranchal 9 Nov 2000**; renamed **Uttarakhand 1 Jan 2007** |
+
+---
+
+## 17. Extra Confused Pairs (Modern)
+
+| A | B | Correct |
+|---|---|---|
+| Plassey 1757 | Buxar 1764 | Puppet Nawab vs **true military supremacy + Diwani 1765** |
+| Dual Government | Subsidiary Alliance | Clive 1765–72 vs **Wellesley 1798** |
+| Warren Hastings | Lord Hastings | Dual Govt / Salbai / Banaras vs **Nepal / Pindari / 3rd Maratha** |
+| Lapse | Awadh 1856 | Heirless annexation vs **maladministration** (Outram) |
+| Amritsar 1809 | Lahore 1846 | Ranjit–Sutlej peace vs **1st Sikh War** settlement |
+| Vande Mataram | Jana Gana Mana | National **song** (1896 Congress) vs national **anthem** (1911 Congress) |
+| First woman INC president | First **Indian** woman president | **Annie Besant 1917** vs **Sarojini Naidu 1925** |
+| HRA 1924 | HSRA 1928 | Kanpur republican vs Feroz Shah Kotla **socialist** |
+| Hind Swaraj | Autobiography | Gandhi **1909** tract vs *My Experiments with Truth* |
+| Discovery of India | India Wins Freedom | **Nehru** vs **Azad** |
+| Dyarchy 1919 | Autonomy 1935 | Provinces under Montagu vs **provincial autonomy that actually worked** |
+
+---
+
+## 18. Viceroys after Curzon (the second half of the ladder)
+
+| Viceroy | Years | One-line |
+|---|---|---|
+| **Minto II** | 1905–10 | Morley–Minto; separate electorates |
+| **Hardinge II** | 1910–16 | Delhi Durbar 1911; capital to Delhi; bomb at Chandni Chowk |
+| **Chelmsford** | 1916–21 | Montagu–Chelmsford; Jallianwala; NCM start |
+| **Reading** | 1921–26 | Chauri Chaura aftermath; Kakori in his last year |
+| **Irwin** | 1926–31 | Simon Commission; Dandi; **Gandhi–Irwin Pact 1931**; First RTC boycott |
+| **Willingdon** | 1931–36 | Second RTC fallout; Communal Award; Poona Pact; 3rd RTC |
+| **Linlithgow** | 1936–44 | Longest tenure; 1935 Act in force; **August Offer**; **Cripps**; **Quit India**; declared war without Indian consent |
+| **Wavell** | 1943–47 | Wavell Plan / Simla; INA trials overlap; Interim Government |
+| **Mountbatten** | Mar–Aug 1947 | **3 June Plan**; last British GG; first GG of independent India till June 1948 |
+
+Education commissions and AITUC already sit in Section 14. Books sit in Section 13.
+
+---
+
+## 19. Moderates, Extremists, Gandhi’s three satyagrahas & Carnatic Wars
+
+| Camp | Years / names | Method |
+|---|---|---|
+| **Moderates** | 1885–1905; Dadabhai Naoroji, Gokhale, Pherozeshah Mehta, S.N. Banerjee | Prayer, petition, protest; constitutional |
+| **Extremists** | Lal–Bal–Pal; Bipin Chandra Pal | Swadeshi, boycott, national education |
+| **Surat Split** | **1907** | Congress splits; reunited at **Lucknow 1916** |
+
+| Satyagraha | Year | First of its kind in India |
+|---|---|---|
+| **Champaran** | **1917** | First **civil disobedience** (*tinkathia*) |
+| **Ahmedabad Mill** | **1918** | First **hunger strike** |
+| **Kheda** | **1918** | First **non-cooperation** (revenue suspension) |
+
+### Three Carnatic Wars
+| War | Years | Result |
+|---|---|---|
+| 1st | 1746–48 | **Treaty of Aix-la-Chapelle**; Madras restored |
+| 2nd | 1749–54 | **Treaty of Pondicherry**; Clive at Arcot |
+| 3rd | 1756–63 | **Wandiwash 1760** (Eyre Coote beats Lally); **Treaty of Paris 1763** ends French political hope |
+
+**Drain of wealth:** Dadabhai Naoroji, R.C. Dutt, G.V. Joshi. Forms: Home Charges, unrequited exports, salaries/pensions. **Deindustrialisation** = collapse of Indian handicrafts under one-way free trade.
+
+---
+
+## 20. Women, Awadh Nawabi & UP Freedom (state paper)
+
+| Name | Peg |
+|---|---|
+| **Madam Bhikaji Cama** | Stuttgart flag **1907**; *Bande Mataram* paper from Geneva |
+| **Annie Besant** | Home Rule; first woman INC president **1917** |
+| **Sarojini Naidu** | First **Indian** woman INC president **1925**; Nightingale of India |
+| **Aruna Asaf Ali** | Hoisted flag at Gowalia Tank, 9 Aug 1942 |
+| **Usha Mehta** | Secret Congress Radio, 1942 |
+| **Captain Lakshmi Swaminathan** | Rani of Jhansi Regiment, INA |
+| **Rani Gaidinliu** | Naga; opposed British; Nehru called her “Rani of the Nagas” |
+| **Begum Hazrat Mahal / Lakshmibai** | 1857 Lucknow / Jhansi |
+
+| UP head | Correct |
+|---|---|
+| **Awadh Nawabi** | **Saadat Khan (1722)**; capital **Faizabad → Lucknow (1775)** under **Asaf-ud-Daula** (Bara Imambara) |
+| **Wajid Ali Shah** | Deposed; Awadh annexed **13 Feb 1856** (Outram; maladministration) |
+| **Oudh Kisan Sabha** | **Oct 1920, Pratapgarh**; **Baba Ramchandra** used the *Ramcharitmanas* |
+| **Kakori jails** | Bismil **Gorakhpur**; Ashfaqulla **Faizabad**; Roshan Singh **Naini**; Rajendra Lahiri **Gonda** (hanged Dec 1927) |
+| **Ballia parallel government** | Aug **1942**; **Chittu Pandey** (*Sher-e-Ballia*) |
+| **INC in UP** | Allahabad 1888 / 1892 / 1910; Lucknow 1899 / **1916 Pact** / 1936; Banaras 1905; Kanpur **1925**; Meerut **1946** |

@@ -1,9 +1,11 @@
 # Daily Read — High-Yield Revision Facts (Indian Polity & Governance)
-### ★ UPPCS & UKPCS Prelims Daily Fact Dump · Active Recall Cheat-Sheet
+### ★ UPPCS + UKPCS Prelims Daily Sheet · Articles, schedules, bodies, and confused-pair recall
 
-> **Exam Focus:** UPPSC Prelims (Paper 1), UKPSC Prelims (Paper 1), RO/ARO, BEO  
-> **Frequency:** Daily morning read (15 mins)  
-> **Question Types Covered:** Direct Article numbers, Schedules & Parts, Constitutional vs Statutory Bodies, Constitutional Amendments, Landmark SC Judgments, Panchayati Raj Committees chronology.
+> **Use:** Morning cycle, 15–20 minutes. Rotate sections so the full sheet is covered in about a week.  
+> **Stems this sheet feeds:** Article numbers, Parts & Schedules, constitutional vs statutory bodies, amendments, SC cases, PR committees, borrowed features, emergency, UP + Uttarakhand polity.  
+> **Last filled:** September 2026 — borrowed features, Acts 1773–1950, 11 Duties, emergency table, Parliament, UP Special, Uttarakhand polity.
+
+**Seven-day rotation:** 1 Parts + Schedules · 2 FR + DPSP + Duties · 3 Union/State comparison + Parliament · 4 Amendments + emergency · 5 Bodies + PR committees · 6 SC judgments + borrowed features + CA dates · 7 UP Special + Uttarakhand polity.
 
 ---
 
@@ -222,4 +224,238 @@
 | **Justice K.S. Puttaswamy Case (2017)** | 9-Judge bench unanimously held that the **Right to Privacy is a Fundamental Right** intrinsically protected under Article 21. |
 | **Navtej Singh Johar Case (2018)** | Decriminalized consensual homosexual acts between adults by reading down **Section 377 of the Indian Penal Code (IPC)**. |
 | **Jarnail Singh Case (2018)** | Held that the **"Creamy Layer" principle applies to SC/ST** when extending reservation in promotions. |
-| **Janki Janak v. UOI (2022)** | Upheld the constitutional validity of the **103rd Constitutional Amendment (10% EWS reservation)** by 3:2 majority. |
+| **Janhit Abhiyan v. Union of India (2022)** | Upheld the constitutional validity of the **103rd Constitutional Amendment (10% EWS reservation)** by 3:2 majority. |
+
+---
+
+## 8. Borrowed Features (one country, one cluster)
+
+| Source | What India took |
+|---|---|
+| **UK** | Parliamentary government; Rule of Law; single citizenship; Cabinet; prerogative writs; bicameralism; CAG idea |
+| **USA** | Fundamental Rights; judicial review; impeachment of President; independence of judiciary; removal of SC/HC judges; Vice-President as RS Chairman; Preamble’s “We the People” spirit |
+| **Ireland** | **DPSP**; nomination of Rajya Sabha members; method of President’s election (electoral college idea) |
+| **Canada** | Federation with a **strong Centre**; **residuary powers** to Centre; advisory jurisdiction of SC |
+| **Australia** | **Concurrent List**; joint sitting; freedom of trade and commerce |
+| **Germany (Weimar)** | Suspension of Fundamental Rights during emergency |
+| **USSR** | Fundamental Duties; ideal of justice (social, economic, political) in the Preamble |
+| **France** | Republic; ideals of **liberty, equality, fraternity** |
+| **South Africa** | Procedure for constitutional amendment; election of Rajya Sabha members |
+| **Japan** | **Procedure established by law** (Article 21 style) |
+| **GOI Act 1935** | Federal scheme, office of Governor, judiciary, Public Service Commissions, Emergency — the **structural skeleton** |
+
+> **Logic:** Residuary power is **Canadian** (to Centre), not American (to states). DPSP is **Irish**, not American. Joint sitting is **Australian**.
+
+---
+
+## 9. Making of the Constitution — date ladder
+
+| Date | Event |
+|---|---|
+| **1934 / 1935** | **M.N. Roy** then **Congress** demand a Constituent Assembly |
+| **9 Dec 1946** | First sitting; temporary president **Sachchidananda Sinha** |
+| **11 Dec 1946** | **Rajendra Prasad** elected President of the Assembly |
+| **13 Dec 1946** | **Objectives Resolution** moved by Nehru |
+| **22 Jan 1947** | Objectives Resolution **adopted** |
+| **22 Jul 1947** | National **Flag** adopted |
+| **29 Aug 1947** | **Drafting Committee** — **B.R. Ambedkar** chair; **B.N. Rau** was **Constitutional Adviser**, not Drafting Chair |
+| **26 Nov 1949** | Constitution **adopted** (284 signatures) — **Constitution Day** |
+| **24 Jan 1950** | Last sitting; national anthem adopted for official use |
+| **26 Jan 1950** | Constitution **enforced**; Republic Day |
+
+Original CA strength **389** (292 + 93 + 4), later **299**. Election was **indirect** by provincial assemblies (**PR-STV**). About **15 women**. **Gandhi was not a member**.
+
+**H.C. Mukherjee** chaired the Minorities Sub-Committee. **Sardar Patel** chaired the parent Advisory Committee.
+
+**C. Rajagopalachari** was the first **Indian** Governor-General (1948–50). Mountbatten was the last **British** GG.
+
+---
+
+## 10. Eleven Fundamental Duties (Art. 51A)
+
+Added by the **42nd Amendment 1976** (Swaran Singh). The **11th** duty was added by the **86th Amendment 2002**. Duties are **non-justiciable**.
+
+1. Abide by the Constitution, respect its ideals, the National Flag, and the National Anthem.
+2. Cherish and follow the noble ideals of the freedom struggle.
+3. Uphold and protect the sovereignty, unity, and integrity of India.
+4. Defend the country and render national service when called.
+5. Promote harmony and the spirit of common brotherhood; renounce practices derogatory to the dignity of women.
+6. Value and preserve the rich heritage of our composite culture.
+7. Protect and improve the natural environment, forests, lakes, rivers, and wildlife, and have compassion for living creatures.
+8. Develop the scientific temper, humanism, and the spirit of inquiry and reform.
+9. Safeguard public property and abjure violence.
+10. Strive towards excellence in all spheres of individual and collective activity.
+11. **51A(k):** Parent or guardian to provide opportunities for education to the child between **6 and 14** (86th Amendment).
+
+---
+
+## 11. Emergency Comparison (Arts. 352 / 356 / 360)
+
+| Feature | National (352) | State / President’s Rule (356) | Financial (360) |
+|---|---|---|---|
+| Ground | War, external aggression, **armed rebellion** (44th Amd; was “internal disturbance”) | Failure of constitutional machinery | Threat to financial stability or credit |
+| Written Cabinet advice | **Yes** (44th Amd) | On GG/Governor report or otherwise | Yes |
+| Lok Sabha approval | 1 month, then 6-month extensions | 2 months, then 6-month extensions (max 3 years with conditions) | 2 months |
+| FR | **20 and 21 cannot be suspended** (44th); 19 suspends automatically only for war/external aggression | No automatic FR suspension | No FR suspension |
+| Centre–State | Centre can give executive directions on any matter | State executive dismissed; Parliament may legislate for the state | Centre can direct money bills / salary cuts |
+| Landmark case | — | **S.R. Bommai (1994)** — floor test; secularism; judicial review of 356 | Never used so far |
+
+> **Logic:** After the **44th Amendment**, the President **cannot** suspend enforcement of **Articles 20 and 21** even in a National Emergency.
+
+---
+
+## 12. Parliament — Money Bill, Houses, and numbers
+
+| Head | Correct |
+|---|---|
+| **Art. 110 / 199** | Money Bill definition; **Speaker’s decision is final** |
+| Rajya Sabha on Money Bill | **14 days** only; cannot amend, only recommend; cannot reject |
+| **No joint sitting** in a State with a Legislative Council | Joint sitting is **Art. 108**, Union only; Speaker of Lok Sabha presides |
+| Ordinary bill deadlock | Joint sitting; **not** for Money Bills or Constitution Amendment Bills |
+| Constitution Amendment | **Art. 368**; President **must** give assent (24th Amd) |
+| Lok Sabha strength | Max **550** teaching cap (530 states + 20 UTs); Anglo-Indian nomination **ended by 104th Amd** |
+| Rajya Sabha | **245** (233 elected + 12 nominated); **UP 31** (highest); **Uttarakhand 3** |
+| Money Bill vs Finance Bill | All Money Bills are Financial Bills; not all Financial Bills are Money Bills |
+| Cut motions | Policy cut, economy cut, token cut — on Demand for Grants |
+| Zero Hour | Indian innovation; not in the Constitution |
+| Question Hour | First hour; starred, unstarred, short notice |
+| Whip | Party discipline; **not** a constitutional office |
+| CAG report | Examined by **PAC** (chair: traditionally LoP); Estimates Committee; COPU |
+
+---
+
+## 13. Uttar Pradesh Special (polity numbers)
+
+| Head | Correct |
+|---|---|
+| Capital | **Lucknow** (Raj Bhavan, Vidhan Bhavan) |
+| High Court | Principal seat **Prayagraj** (Letters Patent **1866**; first seat **Agra**); **Lucknow Bench** from the 1948 Oudh merger — **not** a second HC |
+| First Governor | **Sarojini Naidu (15 Aug 1947)** — first woman Governor of an Indian State |
+| First CM | **Govind Ballabh Pant** |
+| First woman CM | **Sucheta Kripalani (1963)** |
+| Vidhan Sabha | **403** (was **425** before 9 Nov 2000) — largest in India |
+| Vidhan Parishad | **100**; cannot be dissolved; 1/3 retire every 2 years; age **30** |
+| Bicameral states | Six: AP, Bihar, Karnataka, Maharashtra, Telangana, **UP** |
+| Lok Sabha from UP | **80** (was 85 before UK) |
+| Rajya Sabha from UP | **31** |
+| CoM cap | **15%** of 403 ≈ **60** (91st Amd); floor **12** |
+| Official language | Hindi; **Urdu** second official language (**1989**) |
+| Panchayat polls | **State Election Commission**, not ECI |
+| UPPSC HQ | **Prayagraj**; functions extended by the **State Legislature** (Art. 321) |
+| Lokayukta | UP Act **1975** (before the Union Lokpal Act 2013) |
+| Women in PRIs/ULBs | **50% by State law** (Constitution’s floor remains 1/3) |
+| No Art. 371 | UP has **no 371–371J** special provision |
+
+---
+
+## 14. Uttarakhand Polity (UKPCS daily box)
+
+| Head | Correct |
+|---|---|
+| Created | **9 Nov 2000** as **Uttaranchal** (27th State); renamed **1 Jan 2007** |
+| Legislature | **Unicameral** — **70** elected seats; no Council |
+| ST reserved Assembly | **Chakrata** (Dehradun) and **Nanakmatta** (US Nagar) — **2** seats |
+| SC reserved Assembly | **13** seats |
+| Lok Sabha | **5** seats; **Almora is SC-reserved** |
+| Rajya Sabha | **3** |
+| First Governor | **Surjit Singh Barnala** |
+| First CM (interim) | **Nityanand Swami** |
+| First elected CM | **N.D. Tiwari** — only CM so far to complete a full 5-year term |
+| First woman Governor | **Margaret Alva (2009–2012)** |
+| First woman Speaker | **Ritu Khanduri Bhushan (2022)** |
+| High Court | **Nainital**; first CJ **A.A. Desai** |
+| UCC | **Uttarakhand** was the first post-independence State to pass a **Uniform Civil Code** law in **2024** (Art. 44 peg) |
+
+---
+
+## 15. Extra Confused Pairs (Polity)
+
+| A | B | Correct |
+|---|---|---|
+| 26 Nov 1949 | 26 Jan 1950 | **Adoption** / Constitution Day vs **enforcement** / Republic Day |
+| B.N. Rau | Ambedkar | Constitutional **Adviser** vs Drafting **Chair** |
+| 2nd Schedule | 3rd Schedule | Emoluments vs **oaths**; President/VP/Governor oaths are **not** in the 3rd Schedule |
+| 5th Schedule | 6th Schedule | Scheduled Areas (10 states) vs **AMTM** tribal areas (Assam, Meghalaya, Tripura, Mizoram) |
+| Art. 32 | Art. 226 | SC writs (heart and soul) vs **wider** HC writs (any legal right) |
+| Art. 72 | Art. 161 | President can pardon **death and court martial**; Governor **cannot** fully pardon death |
+| Money Bill | Finance Bill | Art. 110 subset vs broader financial bills |
+| National Emergency | President’s Rule | Art. **352** vs Art. **356** |
+| ECI | SEC | Parliament / Assembly / President vs **local bodies** |
+| NJAC 99th | Collegium | Struck down **2015** (Fourth Judges); Collegium restored |
+| Janhit Abhiyan 2022 | Indra Sawhney 1992 | **EWS 10% upheld** vs **OBC 27% + 50% cap + creamy layer** |
+
+---
+
+## 16. Five Writs (Art. 32 / 226)
+
+| Writ | Literal sense | When it is used |
+|---|---|---|
+| **Habeas Corpus** | “To have the body” | Produce a detained person; tests illegal detention |
+| **Mandamus** | “We command” | Orders a public authority to do a **public duty**; not against President/GG as such, private persons, or to enforce a contract |
+| **Prohibition** | “To forbid” | Higher court stops a **lower court** from exceeding jurisdiction (**preventive**) |
+| **Certiorari** | “To be certified” | Higher court **quashes** a lower court’s order already passed (**curative**) |
+| **Quo Warranto** | “By what authority” | Challenges a person’s right to hold a **public office** |
+
+> **Logic:** **Prohibition** is preventive. **Certiorari** is curative. **Art. 32** is itself a Fundamental Right (SC). **Art. 226** is wider (HC can issue writs for any legal right, not only FRs). Dr. Ambedkar called Article 32 the **heart and soul** of the Constitution.
+
+---
+
+## 17. Basic Structure, Majorities, President & Judiciary
+
+**Basic Structure (Kesavananda 1973) — usual list:** supremacy of the Constitution; sovereign, democratic, republican form; secularism; federalism; separation of powers; judicial review; rule of law; free and fair elections; independence of the judiciary; harmony of FR and DPSP; limited amending power.
+
+### Three amendment tracks
+| Track | Use |
+|---|---|
+| **Simple majority of Parliament** | Arts. **2–4** (states), **169** (Legislative Council) — **outside** Art. 368 |
+| **Special majority (Art. 368)** | Most amendments (majority of total membership **and** 2/3 of members present and voting) |
+| **Special + half the States** | Federal provisions (President election, Union–State lists, SC/HC, representation of States) |
+
+### President — daily pegs
+| Head | Correct |
+|---|---|
+| Election | **Art. 54–55**; elected MLAs + LS + RS; **single transferable vote**; weighted votes |
+| Impeachment | **Art. 61**; 14-day notice; 2/3 of **total membership** of each House |
+| Veto | Absolute, suspensive, **pocket** (no time limit on ordinary bills) |
+| Ordinance | **Art. 123**; only when House(s) not in session; lasts **6 weeks from reassembly** |
+| Money Bill | **Art. 110**; only on LS Speaker’s certificate |
+| Death sentence pardon | **Art. 72** only (full pardon); Governor **161** cannot fully pardon death |
+
+### Supreme Court & High Court
+| Head | Correct |
+|---|---|
+| SC strength | **34** (2019); retire at **65**; resign to **President** |
+| First CJI | **H.J. Kania**; SC from **28 Jan 1950** |
+| **Art. 131** | Original jurisdiction (Centre–State) |
+| **Art. 136** | Special Leave Petition |
+| **Art. 137** | Review |
+| **Art. 143** | Advisory; **not binding** |
+| **Art. 226 vs 32** | HC writs **wider** (any legal right) |
+| HC retire | **62**; number of HCs = **25** |
+| Collegium | Second Judges **1993** + Third **1998**; NJAC **99th** struck **2015** |
+| PIL | Justice **P.N. Bhagwati** (with Krishna Iyer) |
+
+**Preamble keywords:** Sovereign, **Socialist, Secular** (42nd), Democratic, Republic; Justice, Liberty, Equality, Fraternity. Preamble is **part of the Constitution** (*Kesavananda*) but **not enforceable**.
+
+---
+
+## 18. Official Language, Centre–State, Elections, Art. 370
+
+| Head | Correct |
+|---|---|
+| **Art. 343** | Official language of the Union = **Hindi in Devanagari**; English continued |
+| **8th Schedule** | **22** languages; English and Bhojpuri are **not** in it |
+| **Art. 348** | English in SC / HC / Bills unless a State law says otherwise |
+| **Art. 351** | Union duty to **promote Hindi** |
+| **Art. 262** | Parliament may bar SC from river-water disputes; **IRBI Act 1956** |
+| **Art. 263** | Inter-State Council (**Sarkaria** recommendation; set up **1990**) |
+| **Sarkaria 1983** | Centre–State; Inter-State Council |
+| **Punchhi 2007** | Centre–State; local bodies; national security |
+| **Art. 280** | Finance Commission every 5th year |
+| **NITI Aayog** | **1 Jan 2015**; **not** a constitutional body |
+| **NOTA** | Introduced **2013** (SC in *PUCL*); does **not** win the seat |
+| **VVPAT** | Paper trail with EVM; nationwide from **2019** LS |
+| **Art. 370** | Special status of J&K **abrogated 5 Aug 2019**; **31 Oct 2019** two UTs: J&K (with legislature) and Ladakh (without) |
+| **Anti-defection** | 10th Schedule; **Presiding Officer** decides; judicial review (*Kihoto Hollohan*); merger needs **2/3** |
+
+**Quasi-federal scholars:** **Wheare** = quasi-federal; **Austin** = cooperative; **Morris-Jones** = bargaining; **Jennings** = centralising. Ambedkar: **federal in form, unitary in spirit**. The word **“federation”** is not used in the Constitution.
