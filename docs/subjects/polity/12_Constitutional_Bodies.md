@@ -4,9 +4,9 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-**Core bodies:** Election Commission (324–329) | UPSC | State PSC / JPSC | Finance Commission | CAG (148–151) | Attorney General (76) | Advocate General (165) | GST Council (279A) | Special Officer for Linguistic Minorities (350B)
+**Core bodies:** Election Commission (निर्वाचन आयोग) (324–329) | UPSC (संघ लोक सेवा आयोग) | State PSC / JPSC | Finance Commission (वित्त आयोग) | CAG (भारत के नियंत्रक-महालेखापरीक्षक) (148–151) | Attorney General (महान्यायवादी) (76) | Advocate General (महाधिवक्ता) (165) | GST (वस्तु एवं सेवा कर) Council (जीएसटी परिषद) (279A) | Special Officer for Linguistic Minorities (350B (अनु. 350B))
 
-**Commissions:** NCSC 338 | NCST 338A | Art. 339 (ad hoc ST areas) | NCBC 338B + Art. 340 | 341/342/342A lists | 102nd/105th | Official Language Commission 344 | Part XVII (343–351) | Article-wise list | Constitutional vs Statutory vs Executive | UPPSC / UP SEC / AdvG UP
+**Commissions:** NCSC (राष्ट्रीय अनुसूचित जाति आयोग) 338 | NCST (राष्ट्रीय अनुसूचित जनजाति आयोग) 338A | Art. 339 (ad hoc ST areas) | NCBC (राष्ट्रीय पिछड़ा वर्ग आयोग) 338B + Art. 340 | 341/342/342A lists | 102nd/105th | Official Language Commission 344 | Part XVII (343–351) | Article-wise list | Constitutional vs Statutory vs Executive | UPPSC (उत्तर प्रदेश लोक सेवा आयोग) / UP SEC (राज्य निर्वाचन आयोग) / AdvG UP
 
 </details>
 
@@ -22,14 +22,14 @@
 
 | Year | Fact | Why asked |
 |------|------|-----------|
-| 2023 | CEC & Other ECs Act — panel **PM + LoP + Cabinet Minister** | Replaced the SC’s interim **CJI-on-panel** |
+| 2023 | CEC & Other ECs Act — panel **PM + LoP + Cabinet Minister (कैबिनेट मंत्री)** | Replaced the SC’s interim **CJI-on-panel** |
 | 2023 | *Anoop Baranwal* | Independence of ECI appointments |
 | 2022 | *Mohit Minerals* | GST Council recommendatory |
-| 2023– | 16th FC constituted **31 December 2023**, chaired by **Arvind Panagariya** | Body, not NITI |
+| 2023– | 16th FC constituted **31 December 2023**, chaired by **Arvind Panagariya** | Body, not NITI (नीति) |
 | 1993 | ECI became durable multi-member | 3 commissioners |
 | 2004 | 89th — NCSC / NCST split | 338 vs 338A |
-| 2018 / 2021 | 102nd NCBC constitutional; **105th** State OBC lists | 338B vs 340 |
-| 1992–93 | *Indra Sawhney* → NCBC Act | Why a standing OBC body |
+| 2018 / 2021 | 102nd NCBC constitutional; **105th** State OBC (अन्य पिछड़ा वर्ग) lists | 338B vs 340 |
+| 1992–93 | *Indra (इन्द्र) Sawhney* → NCBC Act | Why a standing OBC body |
 | 1963 / 67 | Official Languages Act | English continues after 15-year clause |
 
 ---
@@ -41,27 +41,27 @@
 2. The **Election Commission (Article 324)** superintends elections to Parliament, State legislatures, the President, and the Vice-President. It does **not** elect the Speaker and does **not** run Panchayat or municipality polls (those belong to the **State Election Commission**).
 3. Disputes over **President or Vice-President elections** go to the Supreme Court under **Article 71**, not to the Election Commission. **Article 325** creates one general electoral roll. **Article 326** is adult suffrage.
 4. The Election Commission began as a **single-member** body in 1950, became multi-member in **1989**, briefly single again in **1990**, and has been **three-member** from **1993**. The Chief Election Commissioner is removed like a Supreme Court judge; other Election Commissioners are removed only on the CEC’s recommendation.
-5. An Election Commissioner’s term is **six years or age 65**, whichever is earlier. The first CEC was **Sukumar Sen**. The first woman CEC was **V.S. Ramadevi (1990)**. The **2023 Act** places selection with the Prime Minister, Leader of Opposition in the Lok Sabha, and a Union Cabinet Minister — the Chief Justice is **not** on that panel.
+5. An Election Commissioner’s term is **six years or age 65**, whichever is earlier. The first CEC was **Sukumar Sen**. The first woman CEC was **V.S. Ramadevi (1990)**. The **2023 Act** places selection with the Prime Minister, Leader of Opposition in the Lok Sabha (लोकसभा), and a Union Cabinet Minister — the Chief Justice is **not** on that panel.
 6. The **UPSC (Articles 315–323)** is appointed by the **President**. Term is **six years or age 65**. Roughly **half** the members must have at least **ten years** of government service. Removal follows the Supreme Court judge path after a Supreme Court inquiry (**317**).
 7. UPSC advice is **not binding**. UPSC functions come from **four** (चातुर्याम) sources: the Constitution, Parliament, rules, and conventions. After leaving office, a UPSC Chairperson cannot take further Union or State office (**319**).
 8. A **State PSC** member is appointed by the **Governor** but removed by the **President**, not the Governor. Extra functions for a State PSC need a law of the **State Legislature** (**321**). A **Joint PSC** for two or more States needs a **Parliament** law; the President appoints.
-9. The **Finance Commission (280)** is a Chair plus **four** members, appointed by the President every five years, reporting to the **President**. It is not NITI Aayog. The first Chair was **K.C. Neogy**; the 16th is chaired by **Arvind Panagariya**. Vertical shares moved from **42%** (14th) to **41%** (15th).
+9. The **Finance Commission (280)** is a Chair plus **four** members, appointed by the President every five years, reporting to the **President**. It is not NITI Aayog (नीति आयोग). The first Chair was **K.C. Neogy**; the 16th is chaired by **Arvind Panagariya**. Vertical shares moved from **42%** (14th) to **41%** (15th).
 10. The **CAG (Articles 148–151)** is appointed by the President for **six years or age 65**, removed like a Supreme Court judge, and barred from further office under the Government of India. Form of accounts follows **150**; reports go under **151**.
-11. India’s CAG is mainly an **Auditor after spending**, not a UK-style Comptroller who controls issue of money beforehand. The **Public Accounts Committee** examines CAG reports; the Estimates Committee does not. The first CAG of independent India was **V. Narahari Rao**.
+11. India’s CAG is mainly an **Auditor after spending**, not a UK-style Comptroller who controls issue of money beforehand. The **Public Accounts Committee** examines CAG reports; the Estimates (प्राकलन समिति) Committee does not. The first CAG of independent India was **V. Narahari Rao**.
 12. The **Attorney General (Article 76)** must be qualified to be a Supreme Court judge and holds office during the **pleasure of the President** — there is no impeachment route. The AG may speak in both Houses but has **no vote**. Private practice is allowed except against the Government of India.
 13. Salary of the Attorney General is **not charged** on the Consolidated Fund. The Solicitor General and Additional Solicitors General are **not** constitutional offices. Do not confuse the AG with the CAG or with the Advocate General.
 14. The **Advocate General (Article 165)** must be qualified to be a High Court judge and holds office during the **pleasure of the Governor**. Article **165** is not an Election Commission article.
-15. The **GST Council (279A)** is a constitutional body under the **101st Amendment**. The Union Finance Minister chairs it. Voting weight is Centre **one-third** and States **two-thirds** (ते-भागा), with **three-fourths** weighted majority and quorum of **half**.
-16. **Articles 350, 350A, and 350B** came through the **7th Amendment (1956)**, **not** the 9th. **350** allows representation in any language; **350A** protects mother-tongue instruction at the primary stage; **350B** creates **one** Special Officer for Linguistic Minorities for the whole of India.
+15. The **GST Council (279A)** is a constitutional body under the **101st Amendment**. The Union Finance Minister chairs it. Voting (गणपूर्ति) weight is Centre **one-third** and States **two-thirds** (ते-भागा), with **three-fourths** weighted majority and quorum (गणपूर्ति) of **half**.
+16. **Articles 350, 350A, and 350B** came through the **7th Amendment (1956)**, **not** the 9th. **350** allows representation in any language; **350A** (अनु. 350A) protects mother-tongue instruction at the primary stage; **350B** creates **one** Special Officer for Linguistic Minorities for the whole of India.
 17. **Article 338** is the National Commission for Scheduled Castes (with list power under **341**). **338A** is the National Commission for Scheduled Tribes (**342**). **338B** is the National Commission for Backward Classes (**342A**), given constitutional status by the **102nd Amendment**.
 18. **Article 339** allows an ad hoc commission on Scheduled Areas and Scheduled Tribes administration — it is **not** the standing NCST. **Article 340** is the inquiry article behind Kalelkar/Mandal-type exercises — it is **not** the standing NCBC under **338B**.
 19. The **105th Amendment (2021)** restored States’ power to identify their own Socially and Educationally Backward Classes after the 102nd had centralised the list logic. Keep **102nd** and **105th** as a confused pair.
 20. The Official Language Commission under **Article 344** was to be set up at five years and then ten years (Kher Commission, 1955). English was originally to continue for **fifteen years** under **343**; the Official Languages Acts of **1963/1967** continue English without a hard stop.
 21. **NITI Aayog** (नीति आयोग) is an **executive** body (Cabinet Resolution). **NHRC** (राष्ट्रीय मानव अधिकार आयोग) is **statutory**. **NCSC** (राष्ट्रीय अनुसूचित जाति आयोग) is **constitutional**. Sorting bodies by creation source is a standing prelims skill.
 22. Representation of the People Acts split the work: **RPA 1950** covers rolls, seats, and delimitation machinery; **RPA 1951** covers conduct, nominations, corrupt practices, and election petitions. ECI opinions under certain RPA sections bind the President/Governor on disqualification questions.
-23. The Election Commission does **not** decide Speaker elections inside the House. Interior House offices follow parliamentary procedure; external electoral superintendence stays with **324**.
-24. CAG reports are examined by the **Public Accounts Committee**, not by inventing a “CAG committee.” Estimates Committee works on estimates, not CAG audit paras.
-25. UPSC and SPSC members’ independence is protected by charged expenditure and difficult removal. Still, their **advice** to the government is recommendatory, not mandatory.
+23. The Election Commission does **not** decide Speaker elections inside the House. Interior House offices follow parliamentary procedure (प्रक्रिया); external electoral superintendence stays with **324**.
+24. CAG reports are examined by the **Public Accounts Committee**, not by inventing a “CAG committee.” Estimates Committee works on estimates, not CAG audit (कैग लेखापरीक्षा) paras.
+25. UPSC and SPSC members’ independence is protected by charged expenditure (भारित) and difficult removal. Still, their **advice** to the government is recommendatory, not mandatory.
 26. The Special Officer for Linguistic Minorities (**350B**) is **one** officer for India. Do not confuse that office with the **National Commission for Minorities**, which is statutory.
 27. Joint State PSCs exist only when **two or more States** ask through a **Parliamentary** law. A single State cannot invent a JPSC by State Act alone.
 28. Constitutional bodies with “like SC judge” removal include the **CEC**, **UPSC** (संघ लोक सेवा आयोग) members (after SC inquiry), and the **CAG**. The **Attorney General** (महान्यायवादी) is the classic pleasure-doctrine contrast — easy removal, no impeachment.
@@ -108,11 +108,11 @@ Created by the **Constitution**; often charged expenditure; removal harder than 
 
 ## Frame — what “constitutional body” means
 
-Created **by the Constitution**, not by an ordinary Act. Contrast: **statutory** (Lokpal, NHRC, CVC) · **executive** (NITI, NDC) — full table below.
+Created **by the Constitution**, not by an ordinary Act. Contrast: **statutory** (Lokpal (लोकपाल), NHRC, CVC) · **executive** (NITI, NDC) — full table below.
 
 Independence toolkit (not every body gets all of them): charged salary · removal like SC judge · conditions not varied to disadvantage · bar on further office · own staff.
 
-**Article-match raata:** 76 AG · 148 CAG · 165 AdvG · 280 FC · 279A GST Council · 315 UPSC/SPSC · 324 ECI · 338 NCSC · 338A NCST · 338B NCBC · 340 ad-hoc BC commission · 344 OL Commission · 350B Linguistic Officer.
+**Article-match raata:** 76 AG · 148 CAG · 165 AdvG · 280 FC · 279A GST Council · 315 UPSC/SPSC · 324 ECI · 338 NCSC · 338A NCST · 338B NCBC (राष्ट्रीय पिछड़ा वर्ग आयोग) · 340 ad-hoc BC commission · 344 OL Commission · 350B Linguistic Officer.
 
 ---
 
@@ -120,7 +120,7 @@ Independence toolkit (not every body gets all of them): charged salary · remova
 
 **Constitutional body (Arts. 324–329)** for elections to **Parliament**, **State legislatures**, **President** and **Vice-President** — not Speaker, not PRI/ULB.
 
-- **Warrant of Precedence:Chief Election Commissioner** = **rank 9A** (with CAG and UPSC Chair; after SC judges — rank 9). Full table → **Topic 6**.
+- **Warrant of Precedence (वरीयता):Chief Election Commissioner** = **rank 9A** (with CAG and UPSC Chair; after SC judges — rank 9). Full table → **Topic 6**.
 
 - **Article 324(1)** gives the Election Commission superintendence, direction, and control over these four elections.
 - **Article 324(2)** provides for a Chief Election Commissioner plus such other Election Commissioners as the President may fix from time to time; Regional Commissioners may also be appointed.
@@ -134,7 +134,7 @@ Independence toolkit (not every body gets all of them): charged salary · remova
 
 **Conduct vs dispute (do not mix):** ECI **conducts** the President/VP election. **Doubts and disputes** of that election = **SC under Art. 71**, not ECI. Speaker = **House**. PRI/ULB = **SEC**.
 
-**Composition history (matching):** From **1950 to 1989**, the ECI was a single-member body. On **16 October 1989**, it briefly became a three-member body. On **1 January 1990**, it reverted to a single member. Since **1 October 1993**, it has been a durable three-member body. Decisions are taken by **majority** among the CEC and the ECs, who have an **equal vote**. **Removal**, however, is **not** equal: only the CEC has the SC-judge shield, while an EC can be removed only on the CEC's recommendation.
+**Composition history (इतिहास) (matching):** From **1950 to 1989**, the ECI was a single-member body. On **16 October 1989**, it briefly became a three-member body. On **1 January 1990**, it reverted to a single member. Since **1 October 1993**, it has been a durable three-member body. Decisions are taken by **majority** among the CEC and the ECs, who have an **equal vote**. **Removal**, however, is **not** equal: only the CEC has the SC-judge shield, while an EC can be removed only on the CEC's recommendation.
 
 **Appointment (CA):** In *Anoop Baranwal* (March **2023**), the Supreme Court held that, until Parliament made a law, the selection panel would be the **PM, the Leader of Opposition, and the CJI**. Parliament then enacted the **CEC and Other Election Commissioners Act, 2023**. Under that Act, a Search Committee headed by the Cabinet Secretary shortlists names for a Selection Committee of the **PM (chair), the Leader of Opposition in the Lok Sabha, and a Union Cabinet Minister**. The **CJI is not on the 2023 panel.** The CEC and other ECs hold office for **6 years or till age 65**, whichever is earlier. Their salary is now aligned with the **Cabinet Secretary's** salary under the 2023 Act, not with an SC judge's salary.
 
@@ -142,13 +142,13 @@ Independence toolkit (not every body gets all of them): charged salary · remova
 - **First woman CEC:V.S. Ramadevi** (**1990**, very short).
 - **Famous, not first:T.N. Seshan** (1990–96) — MCC / rolls / photo ID muscle.
 
-**Statute pair:** The **Representation of the People Act, 1950** deals with electoral rolls, seats, and the delimitation *machinery*. The **Representation of the People Act, 1951** deals with the conduct of elections, nominations, corrupt practices, and election petitions. The **Election Symbols (Reservation and Allotment) Order** governs recognition of parties and allotment of symbols. **Section 29A of the 1951 Act** governs the registration of political parties.
+**Statute pair:** The **Representation of the People Act, 1950** deals with electoral rolls, seats, and the delimitation *machinery*. The **Representation of the People Act, 1951** deals with the conduct of elections, nominations, corrupt practices, and election petitions. The **Election Symbols (Reservation and Allotment) Order** governs recognition (मान्यता) of parties and allotment of symbols. **Section 29A of the 1951 Act** governs the registration of political parties.
 
 **What ECI actually does (list):**
 - It notifies the election schedule.
 - It recognises **national and state** parties and allots them **symbols**.
 - It prepares and revises the **electoral rolls**.
-- It enforces the Model Code of Conduct, which is a **convention**, not a statute.
+- It enforces the Model Code of Conduct (आचरण नियमावली), which is a **convention**, not a statute.
 - Its advisory opinion on disqualification under **Art. 103 (MPs)** or **Art. 192 (MLAs)** is **binding** on the President or Governor.
 - It may order a re-poll or countermand a poll where the law allows, and it locates polling stations.
 - It does **not** run the **Delimitation Commission** — that is a separate statutory body, even though the CEC often *chairs* it.
@@ -161,7 +161,7 @@ Independence toolkit (not every body gets all of them): charged salary · remova
 
 Which of the following are the functions of the Election Commission of India?
 
-1. Conduct of elections for the posts of the Speaker and the Deputy Speaker of the Lok Sabha and Deputy Chairman of the Rajya Sabha.
+1. Conduct of elections for the posts of the Speaker and the Deputy Speaker of the Lok Sabha and Deputy Chairman of the Rajya Sabha (राज्यसभा).
 2. Conduct of elections of the Municipal Corporations and Municipalities.
 3. Deciding on all doubts and disputes arising out of the above elections.
 
@@ -210,7 +210,7 @@ D. None of the above
 - **Article 320** makes the UPSC conduct examinations for Union services and advise on recruitment methods, promotions, transfers, disciplinary matters, legal-cost reimbursement, and pension claims.
 - Under the **proviso to Article 320(3) and Article 320(5)**, the Union **need not** consult the UPSC on every post — the President may make regulations exempting certain posts, such as reserved appointments, temporary posts, or posts under specified commissions.
 - **Article 321** lets **Parliament** confer extra functions on the UPSC, and lets the **State Legislature** do the same for an SPSC.
-- **Article 322** charges UPSC's expenses on the Consolidated Fund of India.
+- **Article 322** charges UPSC's expenses on the Consolidated Fund of India (भारत की संचित निधि).
 - **Article 323** requires the UPSC to report to the **President**, who lays it before Parliament; the government must explain any **non-acceptance** of its advice.
 
 **Advice is not binding.** Sources of functions (**2024 = all four**): Constitution · Parliamentary laws · Executive rules/orders · **Conventions**.
@@ -224,7 +224,7 @@ D. None of the above
 | **SPSC Chairman** | UPSC Chair **or** Chair of **another** SPSC | Other Union/State office |
 | **SPSC member** | UPSC Chair / UPSC member / SPSC Chair (same or another State) | Other Union/State office |
 
-> **Logic:** UPSC is **not** SSC, not CAPF recruitment board, not the employer of all public servants. **AIS** papers are UPSC; day-to-day cadre control is **dual** (Centre + State).
+> **Logic:** UPSC is **not** SSC, not CAPF (सीएपीएफ) recruitment board, not the employer of all public servants. **AIS** papers are UPSC; day-to-day cadre control is **dual** (Centre + State).
 
 **PYQ — UPPCS Prelims 2024, Q124**
 
@@ -269,7 +269,7 @@ D. 1, 2, 3 and 4
 
 **PYQ — UPPCS Prelims 2021, Q133**
 
-The functions of the State Public Service Commission of Uttar Pradesh can be extended by
+The functions of the State Public Service Commission (राज्य लोक सेवा आयोग) of Uttar Pradesh (उत्तर प्रदेश) can be extended by
 
 A. Prime Minister
 B. Union Ministry of Personnel
@@ -303,7 +303,7 @@ D. Uttar Pradesh State Legislature
 - The **15th Finance Commission**, chaired by **N.K. Singh**, submitted two reports: an interim report for **2020–21** and a final report for **2021–26**.
 - The **16th Finance Commission** was constituted on **31 December 2023** under **Arvind Panagariya**.
 
-**Article 280(3) — what the FC shall recommend:**
+**Article 280(3) — what the FC shall recommend (सिफारिश):**
 
 - The distribution of the **net proceeds** of taxes between the Union and the States, and among the States themselves.
 - The principles that should govern **grants-in-aid** to States under Article **275**.
@@ -331,7 +331,7 @@ D. Uttar Pradesh State Legislature
 - **Article 150** requires the form of Union and State **accounts** to be prescribed by the President **on the advice of the CAG**.
 - **Article 151** sends the CAG's Union reports to the **President**, who lays them before Parliament, and his State reports to the **Governor**, who lays them before the State legislature.
 
-### Audit trail — CAG → Houses → PAC
+### Audit trail — CAG → Houses → PAC (लोक लेखा समिति)
 
 - The CAG **audits after spending**. He is not a UK-style Comptroller who blocks issue of money beforehand.
 - Union reports go to the **President** and are laid before **both Houses**. State reports go to the **Governor** and are laid before the State legislature.
@@ -339,7 +339,7 @@ D. Uttar Pradesh State Legislature
 - **COPU** (Committee on Public Undertakings) uses CAG material on **PSUs**. The **Estimates Committee** works on estimates and has **no** CAG report link.
 - Do not invent a “CAG committee.” Mark **PAC** when the stem asks who examines the CAG’s audit report.
 
-**What is audited:** The CAG audits the Consolidated Fund, the Contingency Fund, and the Public Account of both the Union **and the States**. He also audits bodies substantially financed from those funds, and government companies and corporations as the 1971 Act provides. The **Accountant General** in a State is simply the CAG's field officer — he is **not** the Advocate General.
+**What is audited:** The CAG audits the Consolidated Fund, the Contingency Fund (आकस्मिकता निधि), and the Public Account (लोक लेखा) of both the Union **and the States**. He also audits bodies substantially financed from those funds, and government companies and corporations as the 1971 Act provides. The **Accountant General** in a State is simply the CAG's field officer — he is **not** the Advocate General.
 
 **Three audits (raata):** A **financial audit** checks whether the accounts are true and fair. A **compliance audit** checks whether rules were followed. A **performance (or propriety) audit** checks value for money and waste. For secret-service expenditure, the CAG accepts a **certificate** from the competent authority instead of vouchers.
 
@@ -351,7 +351,7 @@ D. Uttar Pradesh State Legislature
 
 **PYQ — UPPCS Prelims 2022, Q55**
 
-The audit report of the Comptroller and Auditor General of India is examined by—
+The audit report of the Comptroller and Auditor General (नियंत्रक-महालेखापरीक्षक) of India is examined by—
 
 A. Public Accounts Committee
 B. Public Undertakings Committee
@@ -385,7 +385,7 @@ D. None of the above
 
 **Law-officer ladder (only the top rung is constitutional):** The **Attorney General** under **Article 76** sits at the top. Below him come the **Solicitor General** and the **Additional Solicitors General**. Both the SG and the Additional SGs are **executive** appointments — neither is mentioned in Article 76.
 
-> **Logic:** AG can be **asked to leave** a secret sitting; he is **not** a minister and **not** a member unless separately elected (then the usual office-of-profit issues). Consent of the AG is used in some **contempt** proceedings — don’t make him a judge.
+> **Logic:** AG can be **asked to leave** a secret sitting (बैठक); he is **not** a minister and **not** a member unless separately elected (then the usual office-of-profit issues). Consent of the AG is used in some **contempt** proceedings — don’t make him a judge.
 
 **PYQ — UPPCS Prelims 2023, Q12**
 
@@ -410,7 +410,7 @@ D. Neither 1 nor 2
 
 Which one of the following is NOT correctly matched?
 
-A. Fundamental Duties — Part IVA
+A. Fundamental Duties (मौलिक कर्तव्य) — Part IVA
 B. The States — Part VI
 C. Attorney General of India — Part XIII
 D. Services under the Union and States — Part XIV
@@ -418,7 +418,7 @@ D. Services under the Union and States — Part XIV
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** AG = **Part V**. Part XIII = **trade, commerce, intercourse**.
+**Ans: C.** AG = **Part V**. Part XIII = **trade (पण्याध्यक्ष), commerce, intercourse**.
 
 </details>
 
@@ -432,7 +432,7 @@ D. Services under the Union and States — Part XIV
 - The **President** constitutes the GST Council.
 - The **Union Finance Minister** chairs it.
 - Its members are the Union **Minister of State for Finance** and the Finance Ministers of every State (and of Union Territories **with a legislature**); the Vice-Chair is elected from among the **State** members.
-- On voting weight, the **Centre** has **one-third** of the votes and **all States together** have **two-thirds**; a decision needs **at least three-fourths** of the weighted votes of members **present and voting**, with a quorum of **half** the total membership.
+- On voting weight, the **Centre** has **one-third** of the votes and **all States together** have **two-thirds**; a decision needs **at least three-fourths** of the weighted votes of members **present and voting**, with a quorum of **half** the total membership (सदन की कुल सदस्य संख्या का).
 - Under **Article 279A(4)**, the Council recommends which taxes and cesses go into GST, exemptions, model GST laws, special provisions for the **north-eastern and hill States**, the threshold for exemption, GST rates (a floor with bands), and the date from which petroleum products may be brought under GST.
 - In *Mohit Minerals* (**2022**), the Supreme Court held that the Council's recommendations are **not** binding legislation — Parliament and State legislatures retain their own law-making power.
 - The GST Council is a **different body** from the Inter-State Council (**Art. 263**, chaired by the PM), the Finance Commission (**Art. 280**), and NITI Aayog (an executive body).
@@ -449,7 +449,7 @@ D. Services under the Union and States — Part XIV
 
 Operational title: **Commissioner for Linguistic Minorities** (first appointed **1957**). Original HQ **Allahabad** (इलाहाबाद). Now under the Minority Affairs administrative set-up — don’t freeze a pin-code.
 
-> **Logic:** 8th Schedule = **22 recognised languages**. 350B is the **officer**, not the Schedule. 9th Amd = **1960** (territory / Berubari line) — **not** 350B.
+> **Logic:** 8th Schedule (अष्टम अनुसूची) = **22 recognised languages**. 350B is the **officer**, not the Schedule. 9th Amd = **1960** (territory / Berubari line) — **not** 350B.
 
 **PYQ — UPPCS Prelims 2024, Q142**
 
@@ -489,7 +489,7 @@ D. Both 1 and 2
 - It presents reports to the President.
 - It performs any other function the President specifies in relation to SCs.
 
-- **338(8):** While investigating, the NCSC has all the powers of a **civil court** — it can summon witnesses, order discovery, receive affidavits, requisition public records, and issue commissions ination of witnesses.
+- **338(8):** While investigating, the NCSC has all the powers of a **civil court** — it can summon (आहूत करना) witnesses, order discovery, receive affidavits, requisition public records, and issue commissions ination of witnesses.
 - **338(9):** The Union and every State **shall consult** the NCSC on all **major policy** matters affecting SCs.
 - The NCSC reports to the **President** annually, or as needed; the report is laid before **Parliament** with a memorandum on action taken, and reasons for any non-acceptance. Copies on State matters go through the **Governor** to the State House.
 - By specification and practice, the NCSC also watches over **Anglo-Indian** safeguards — there is **no** separate constitutional Anglo-Indian Commission.
@@ -505,10 +505,10 @@ D. Both 1 and 2
 - **Appoint:** The **President** appoints the Chairperson, Vice-Chairperson, and members, and fixes their conditions of service; the rank convention (Chair ~ Cabinet Minister, Vice ~ MoS) is the same as for the NCSC.
 - Under **Article 338A(5)**, the NCST investigates and monitors **ST safeguards**, inquires into specific **complaints**, advises on ST socio-economic development and planning, presents reports, and performs other functions the President specifies.
 - **Article 338A(8)** gives it the same civil-court toolkit as the NCSC.
-- **338A(9)** requires the Union and every State to **consult** the NCST on **all major policy** affecting STs — this covers matters like displacement, mining, Forest Rights, and the Fifth/Sixth Schedule, a favourite examiner's bait.
+- **338A(9)** requires the Union and every State to **consult** the NCST on **all major policy** affecting STs — this covers matters like displacement, mining, Forest Rights, and the Fifth/Sixth Schedule (6वीं अनुसूची), a favourite examiner's bait.
 - The NCST's reports go to the **President**, who lays them before Parliament with an action memo; the slice on State matters goes through the **Governor**.
 - Under **Article 342**, the President notifies the list of **STs**; **only Parliament** can amend that list.
-- The NCST sits under the Ministry of **Tribal Affairs**, while the NCSC sits under the Ministry of **Social Justice** — the ministry that administers a body is not the same as the article that creates it.
+- The NCST sits under the Ministry of **Tribal (आदिवासी) Affairs**, while the NCSC sits under the Ministry of **Social Justice** — the ministry that administers a body is not the same as the article that creates it.
 
 ### Art. 339 ≠ NCST (do not merge)
 
@@ -534,7 +534,7 @@ D. Both 1 and 2
 
 **102nd (2018):** 338B (NCBC) + **342A** — President specifies SEBCs for a State (consultation with Governor); **Parliament** may amend that **Central** list.
 
-**105th (2021):** after *Janhit Abhiyan* / Maratha fallout — restored **States’ power** to identify/list OBCs for **their own** purposes. **Central list still 342A**; States keep a **State list** (राज्य सूची). 338B stays.
+**105th (2021):** after *Janhit Abhiyan* / Maratha (मराठा) fallout — restored **States’ power** to identify/list OBCs for **their own** purposes. **Central list still 342A**; States keep a **State list** (राज्य सूची). 338B stays.
 
 **Why a standing NCBC at all:** *Indra Sawhney* (**1992**) said identification of OBCs should be done by a **permanent body** → Parliament enacted the **NCBC Act, 1993**. That body was **statutory** until the **102nd** put it in the Constitution.
 
@@ -544,7 +544,7 @@ D. Both 1 and 2
 - The Union and every State **shall consult** the NCBC on major OBC policy.
 - Under **Article 342A**, the President specifies **SEBCs** for a State after consulting the Governor, and **Parliament** amends that **Central** list.
 - The **105th Amendment (2021)** let States once again maintain their **own OBC list** for State services and education, so there are now two lists: the **Central list (342A)** and each State's own list.
-- In *Janhit Abhiyan* (2021), the Supreme Court had read the 102nd Amendment as stripping States of this power; the **105th Amendment** is the political and constitutional fix for that reading.
+- In *Janhit Abhiyan* (2021), the Supreme Court had read the 102nd Amendment as stripping States of this power; the **105th Amendment** is the political and constitutional fix for that reading (रीडिंग).
 
 > **Logic:** Mandal ≠ NCBC. Mandal = **340** (ad hoc inquiry, 27% OBC + creamy layer via *Indra Sawhney*). Standing NCBC = **338B** (1993 statutory → **102nd / 2018** constitutional). 340 did **not** vanish.
 
@@ -561,7 +561,7 @@ D. Both 1 and 2
 
 ## Official Language Commission (Art. 344) & Part XVII
 
-**Part XVII = Arts. 343–351.** Official language of the **Union** = **Hindi in Devanagari** script; numerals = **international form of Indian numerals** (343(1)). **344** is a **time-bound** Commission, not the 1976 Parliamentary Committee.
+**Part XVII = Arts. 343–351.** Official language of the **Union** = **Hindi in Devanagari** script (लिपि); numerals = **international form of Indian numerals** (343(1)). **344** is a **time-bound** Commission, not the 1976 Parliamentary Committee.
 
 - **Article 343(2)** let English **continue** for Union official purposes for **15 years** from commencement — a clock that, on the text, ran out on **26 January 1965**.
 - **Article 343(3)** lets Parliament provide for English (or Hindi) even after those 15 years — this is the hook for the 1963 Act.
@@ -571,14 +571,14 @@ D. Both 1 and 2
 - The **first** Commission was chaired by **B.G. Kher** in 1955, and reported in **1956**.
 - **Article 345** lets a State legislature adopt one or more languages, or Hindi, as the official language of the State.
 - **Article 346** governs the language used for communication between States and between a State and the Union.
-- **Article 347** lets the President recognise a language spoken by a section of a State's population as official **within that State**.
+- **Article 347** lets the President recognise a language spoken by a section of a State's population (जनसंख्या) as official **within that State**.
 - **Article 348** keeps proceedings of the Supreme Court, High Courts, Bills, Acts, and ordinances in **English**, until Parliament provides otherwise; a Governor may, with the President's consent, authorise Hindi or another State language in that **High Court**.
 - **Article 349** requires the President's prior sanction, after considering the **344** report, for certain language Bills during the first **15 years**.
-- **Article 351** places a **duty** on the Union to **promote the spread of Hindi**, so that it may serve as a medium of expression for India's composite culture, drawing on Hindustani and the Eighth Schedule languages.
+- **Article 351** places a **duty** on the Union to **promote the spread of Hindi**, so that it may serve as a medium of expression for India's composite culture, drawing on Hindustani (हिंदुस्तानी) and the Eighth Schedule languages.
 
-**Statute vs later committee (do not merge):** The **Official Languages Act, 1963**, amended in **1967** after the anti-Hindi agitation, lets English **continue indefinitely** alongside Hindi for Union purposes. The **Committee of Parliament on Official Language (1976)** was created under that Act and is chaired by the **Union Home Minister** — it is **not** the same as the Article 344 Commission.
+**Statute vs later committee (do not merge):** The **Official Languages Act, 1963**, amended in **1967** after the anti-Hindi agitation, lets English **continue indefinitely** alongside Hindi for Union purposes. The **Committee of Parliament on Official Language (1976)** was created under that Act and is chaired by the **Union Home Minister** — it is **not** the same as the Article 344 Commission (अनु. 344 आयोग).
 
-**Not this body:** The **Eighth Schedule** is simply a **list of 22 languages**. The **"classical language"** tag is granted by an executive decision. The **three-language formula** is an education policy, not a constitutional provision. **Article 350B** is the linguistic-minorities **officer**, a separate office altogether.
+**Not this body:** The **Eighth Schedule** is simply a **list of 22 languages**. The **"classical language (शास्त्रीय भाषा)"** tag is granted by an executive decision. The **three-language formula** is an education policy, not a constitutional provision. **Article 350B** is the linguistic-minorities **officer**, a separate office altogether.
 
 **PYQ — UPPCS Prelims 2023, Q8**
 
@@ -608,7 +608,7 @@ D. Official Language — Part XVII
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Tribunals = **Part XIVA**. Official Language = **XVII** is correct.
+**Ans: C.** Tribunals = **Part XIVA** (भाग XIVA). Official Language = **XVII** is correct.
 
 </details>
 
@@ -641,9 +641,9 @@ D. Official Language — Part XVII
 
 | Kind | Test | examples |
 |------|------|----------------|
-| **Constitutional** | Created **by the Constitution** | ECI, UPSC/SPSC, FC, CAG, AG/AdvG, GST Council, NCSC/NCST/NCBC, 350B officer, ISC, SFC, SEC |
-| **Statutory** | Created by an **Act of Parliament / State** | **Lokpal** (लोकपाल) (2013) · **NHRC / SHRC** (1993) · **CVC** (2003 Act; was executive) · **CIC / SIC** (RTI 2005) · **NCW** (1990) · **NCM** (1992) · **NCPCR** · **NCSK** (Safai Karamcharis) · **NGT** · **CAT** (1985) · **Delimitation Commission** · old **NCBC 1993** |
-| **Executive / extra-constitutional** | Created by **resolution / order** | **NITI Aayog (1 Jan 2015)** · Planning Commission · **NDC** · **Law Commission of India** |
+| **Constitutional** | Created **by the Constitution** | ECI, UPSC/SPSC, FC, CAG, AG/AdvG, GST Council, NCSC/NCST/NCBC, 350B officer (भाषाई अल्पसंख्यक अधिकारी), ISC, SFC, SEC |
+| **Statutory** | Created by an **Act of Parliament / State** | **Lokpal** (लोकपाल) (2013) · **NHRC / SHRC** (1993) · **CVC** (2003 Act; was executive) · **CIC / SIC** (RTI 2005 (आरटीआई 2005)) · **NCW** (1990) · **NCM** (असहयोग) (1992) · **NCPCR** · **NCSK** (Safai Karamcharis) · **NGT** · **CAT** (1985) · **Delimitation Commission** · old **NCBC 1993** |
+| **Executive / extra-constitutional** | Created by **resolution / order** | **NITI Aayog (1 Jan 2015)** · Planning Commission (योजना आयोग) · **NDC** · **Law Commission of India** |
 
 **Look-alike trap:** “National Commission for …” is **not** automatically constitutional. **NCSC / NCST / NCBC** are. **NCW / NCM / NCPCR / NCSK** are **statutory**.
 
@@ -793,7 +793,7 @@ D. None of the above
 Match List-I with List-II:
 A. Consolidated Fund of India
 B. Finance Commission
-C. Financial Emergency
+C. Financial Emergency (वित्तीय आपात)
 D. CAG
 1. Art. 266
 2. Art. 360
@@ -1482,7 +1482,7 @@ Who has been nominated as the chairman of the 15th Finance Commission.
 
 A. N.K. Singh
 B. Shashikant Das
-C. Ashoka Lavasa
+C. Ashoka (अशोक) Lavasa
 D. Ratan Watal
 
 <details>
@@ -1624,7 +1624,7 @@ D. Article 238
 <details>
 <summary>Show answer</summary>
 
-**Logic:** The Union Public Service Commission (UPSC) is the central recruiting agency in India. Articles 315 to 323 in Part XIV of the Constitution contain elaborate provisions regarding the composition, appointment and removal of members along with the independence, powers and functions of the UPSC. Article 315 makes provision that there shall be a Public Service Commission for the Union and a Public Service Commission for each State and there shall be one Public Service Commission for that group of States (Joint Commission) if two or more States agree that. Article 340 provides for the appointment of a commission to investigate the conditions of backward classes.
+**Logic:** The Union Public Service Commission (संघ लोक सेवा आयोग) (UPSC) is the central recruiting agency in India. Articles 315 to 323 in Part XIV of the Constitution contain elaborate provisions regarding the composition, appointment and removal of members along with the independence, powers and functions of the UPSC. Article 315 makes provision that there shall be a Public Service Commission for the Union and a Public Service Commission for each State and there shall be one Public Service Commission for that group of States (Joint Commission) if two or more States agree that. Article 340 provides for the appointment of a commission to investigate the conditions of backward classes.
 
 **Ans: B. Article 315.**
 
@@ -1832,7 +1832,7 @@ D. 318
 
 A member of State Public Service Commission may be removed by
 
-A. The Governor on the basis of impeachment in Vidhan Sabha
+A. The Governor on the basis of impeachment in Vidhan Sabha (विधानसभा)
 B. The Governor, after the enquiry conducted by the Supreme Court
 C. The President, after the enquiry conducted by the Supreme Court
 D. The Governor, after the enquiry conducted by the High Court

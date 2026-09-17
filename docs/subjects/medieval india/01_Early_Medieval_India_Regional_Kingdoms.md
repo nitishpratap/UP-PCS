@@ -762,6 +762,7 @@ D. 3, 4, 1, 2
 - **Munja** and **Udayaditya** are other Paramara names; **Gangeyadeva** is **Kalachuri**, not Paramara.
 - **Rajasekhara**, author of **Kavyamimamsa**, served the **Pratihara** court, not Bhoja’s Paramara court.
 - Paramara architecture and learning mark **Malwa**.
+- **Padmagupta** (पद्मगुप्त) wrote *Navasahasankacharita* (नवसाहसांकचरित) on Paramara origin (king **Sindhuraja** (सिन्धुराज)). **Merutunga** (मेरुतुंग) wrote *Prabandha Chintamani* (प्रबंध चिंतामणि). The **Udaipur Prashasti** (उदयपुर प्रशस्ति) is another Paramara source.
 - They must not be confused with Bundelkhand temples of the Chandelas.
 
 > **Logic:** Dhara / Malwa = Paramara**. **Khajuraho = Chandela**. **Mihir Bhoja ≠ Paramara Bhoja**. Bhojshala deity = **Saraswati**.
@@ -1168,7 +1169,7 @@ D. A-2, B-3, C-4, D-1
 <details>
 <summary>Show answer</summary>
 
-**Ans: C (Series B provisional key).** Ramcharita → Sandhyakarnandi (Pala Ramapala); Navsahasankcharita → Padmagupta (Paramara Sindhuraja); Kumarpalacharita → Hemchandra; Vikramankadevacharita → Bilhana (Chalukya Vikramaditya VI). Reversing Hemchandra and Bilhana is the standard trap.
+**Ans: C (Series B provisional key).** *Ramcharita* (रामचरित) → **Sandhyakarnandi** (संध्याकरनंदी) (Pala **Ramapala** (रामपाल)); *Navsahasankcharita* (नवसाहसांकचरित) → **Padmagupta** (पद्मगुप्त) (Paramara **Sindhuraja** (सिन्धुराज)); *Kumarpalacharita* (कुमारपालचरित) → **Hemchandra** (हेमचंद्र); *Vikramankadevacharita* (विक्रमांकदेवचरित) → **Bilhana** (बिल्हण) (Chalukya **Vikramaditya VI** (विक्रमादित्य षष्ठ)). Reversing Hemchandra and Bilhana is the standard trap.
 
 </details>
 

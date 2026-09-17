@@ -4,7 +4,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-A.K. Gopalan | Shankari Prasad | Sajjan Singh | Golaknath | Kesavananda Bharati | Indira Nehru Gandhi vs Raj Narain | Maneka Gandhi | Minerva Mills | ADM Jabalpur | Berubari | I.R. Coelho | S.R. Bommai | Kihoto Hollohan | Indra Sawhney | First / Second / Third Judges Cases | Vishaka | Puttaswamy | Shreya Singhal | NJAC | Lily Thomas | Nabam Rebia | Rameshwar Prasad | Navtej Johar | Joseph Shine | M.C. Mehta
+A.K. Gopalan | Shankari Prasad | Sajjan Singh | Golaknath (गोलकनाथ 1967) | Kesavananda (केशवानंद भारती 1973) Bharati | Indira Nehru (नेहरू) Gandhi (गांधी) vs Raj Narain | Maneka Gandhi | Minerva Mills | ADM Jabalpur | Berubari | I.R. Coelho | S.R. Bommai | Kihoto Hollohan | Indra (इन्द्र) Sawhney | First / Second / Third Judges Cases | Vishaka | Puttaswamy | Shreya Singhal | NJAC | Lily Thomas | Nabam Rebia | Rameshwar Prasad | Navtej (नवतेज जौहर) Johar | Joseph Shine | M.C. Mehta
 
 </details>
 
@@ -25,15 +25,15 @@ Newest first. One event, one fact.
 | **2018** | *Navtej* on homosexuality | **s.377 IPC**, not Art. 377 (UPPCS Q79) |
 | **2018** | *Joseph Shine* | s.497 adultery **struck** as a crime |
 | **2017** | *Puttaswamy* 9-judge | Privacy = FR; *Jabalpur* majority **wrong** |
-| **2016** | *Nabam Rebia* | Governor cannot rig the Assembly calendar |
+| **2016** | *Nabam Rebia* | Governor cannot rig (ऋग्वेद) the Assembly calendar |
 | **2015** | NJAC / *Shreya Singhal* | **99th struck 4:1** · **s.66A void** |
 | **2013** | *Lily Thomas* · POSH Act | Instant DQ on conviction · *Vishaka* guidelines get a statute |
-| **2006** | *Rameshwar Prasad* | Bihar dissolution on horse-trading fear **struck** |
-| **2024** | Chronology of the four amendment cases | **1951 → 1965 → 1967 → 1973** |
+| **2006** | *Rameshwar Prasad* | Bihar dissolution (विघटन) on horse-trading fear **struck** |
+| **2024** | Chronology of the four (चातुर्याम) amendment cases | **1951 → 1965 → 1967 → 1973** |
 | **2022 / 2020** | Who propounded Basic Structure? | ***Kesavananda* 1973**, not Golaknath |
-| **2021** | Golaknath / 24th / Kesavananda / 42nd | **1967 → 1971 → 1973 → 1976** |
+| **2021** | Golaknath / 24th / Kesavananda / 42nd (42वां) | **1967 → 1971 → 1973 → 1976** |
 | **2017** | *Puttaswamy* on *Jabalpur* | Majority was **wrongly decided** |
-| **2007** | *Coelho* 9-judge | 9th Schedule post-**24 Apr 1973** still faces BS |
+| **2007** | *Coelho* 9-judge | 9th Schedule (9वीं अनुसूची) post-**24 Apr 1973** still faces BS |
 | **1980** | *Minerva* | 368(4)(5) **dead** |
 | **24 Apr 1973** | *Kesavananda* | The date *and* the doctrine |
 
@@ -43,7 +43,7 @@ Newest first. One event, one fact.
 
 **Q. UKPCS Prelims 2025, Q132**
 
-Under Article 32, in which case was 'wilful non-compliance' with a court order declared as contempt of the court?
+Under Article 32 (अनुच्छेद 32), in which case was 'wilful non-compliance' with a court order declared as contempt of the court?
 
 A. Nilabati vs. State of Orissa
 B. M. L. Sachdev vs. Union of India
@@ -64,16 +64,16 @@ D. Gopi Aqua vs. Union of India
 
 ## Consolidated — 32 Must-Score Facts
 
-1. *A.K. Gopalan* (**1950**) held that Article **21** is satisfied by any procedure in a valid law and read Fundamental Rights in silos. *Maneka Gandhi* (**1978**) requires a **fair, just, and reasonable** procedure and reads Articles **14, 19, and 21** together.
-2. *ADM Jabalpur* (**1976**) held that habeas corpus fails if Article 21 is suspended in Emergency; Justice **Khanna** dissented. The **44th Amendment** (44वां संशोधन) later blocked suspension of Articles **20 and 21**. *Puttaswamy* (**2017**) said the *Jabalpur* majority was wrong.
+1. *A.K. Gopalan* (**1950**) held that Article **21** is satisfied by any procedure (प्रक्रिया) in a valid law and read Fundamental Rights (मौलिक अधिकार) in silos. *Maneka Gandhi* (**1978**) requires a **fair, just, and reasonable** procedure and reads Articles **14, 19, and 21** together.
+2. *ADM Jabalpur* (**1976**) held that habeas corpus (बन्दी प्रत्यक्षीकरण) fails if Article 21 (अनुच्छेद 21) is suspended in Emergency; Justice **Khanna** dissented. The **44th (44वां संशोधन) Amendment** (44वां संशोधन) later blocked suspension of Articles **20 and 21**. *Puttaswamy* (**2017**) said the *Jabalpur* majority was wrong.
 3. *Shankari Prasad* (**1951**) upheld the First Amendment and said Article **368** can amend Fundamental Rights. *Sajjan Singh* (**1965**) upheld the Seventeenth Amendment; Mudholkar hinted at “basic features.”
 4. *Golaknath* (**1967**, 11-judge, **6:5**) held that Fundamental Rights **cannot** be amended, with prospective overruling. It is **not** the Basic Structure case.
 5. The **24th** Amendment (**1971**) inserted Article **13(4)** so a **368** amendment is not “law” under Article 13. It came **before** *Kesavananda*.
 6. *Kesavananda Bharati* (**24 April 1973**, 13-judge, **7:6**) held that Parliament **can** amend Fundamental Rights but **cannot** destroy the **Basic Structure**. This is the Basic Structure fact.
 7. The four-case amendment order is **1951 → 1965 → 1967 → 1973** (*Shankari → Sajjan → Golaknath → Kesavananda*).
 8. *Indira Nehru Gandhi* (**1975**) struck the Thirty-ninth Amendment’s Article **329A(4)/(5)** election-shield clauses and added Rule of Law / free-fair elections themes to Basic Structure talk.
-9. *Minerva Mills* (**1980**) struck the Forty-second Amendment’s Articles **368(4)/(5)** and kept Article **31C** limited to Article **39(b)/(c)**. It locked limited amending power and FR–DPSP harmony.
-10. *Berubari* (**1960**) held that ceding Indian territory needs a **constitutional amendment**, not an ordinary Act, and then treated the Preamble as **not** part of the Constitution. *Kesavananda* later held the Preamble **is** part.
+9. *Minerva Mills* (**1980**) struck the Forty-second Amendment’s Articles **368(4)/(5)** and kept Article **31C** limited to Article **39(b)/(c)**. It locked limited amending power and FR–DPSP (राज्य के नीति निदेशक तत्व) harmony.
+10. *Berubari* (**1960**) held that ceding Indian territory needs a **constitutional amendment**, not an ordinary Act, and then treated the Preamble (प्रस्तावना) as **not** part of the Constitution. *Kesavananda* later held the Preamble **is** part.
 11. The **Ninth Schedule** (नौवीं अनुसूची) (First Amendment, **1951**) is a list-shield for laws. The **Ninth Amendment** (**1960**) is the Berubari boundary amendment. Do not swap Schedule and Amendment.
 12. After **24 April 1973**, parking a law in the Ninth Schedule does not save it if it damages Basic Structure (*Waman Rao* **1981**; *I.R. Coelho* **2007**).
 13. Judges Cases: **1981** First Judges gave executive primacy; **1993** Second Judges created Collegium (**CJI + 2**); **1998** Third Judges expanded SC Collegium to **CJI + 4** and HC to **CJI + 2**.
@@ -81,16 +81,16 @@ D. Gopi Aqua vs. Union of India
 15. *S.R. Bommai* (**1994**) made Article **356** justiciable, locked majority to the **floor test**, barred dissolving the Assembly before parliamentary approval, and treated secularism as Basic Structure for misuse of 356.
 16. *Rameshwar Prasad* (**2006**) struck Bihar Assembly dissolution based on a mere fear of horse-trading. *Nabam Rebia* (**2016**) held that a Governor cannot scramble the House calendar to help one faction defeat the Speaker.
 17. *Kihoto Hollohan* (**1992**) upheld the Tenth Schedule, struck paragraph **7**’s total court ouster, and held that the Speaker’s defection order is judicially reviewable.
-18. *Lily Thomas* (**2013**) struck RPA section **8(4)**’s three-month cushion for sitting legislators. A conviction of **two years or more** under section **8(3)** brings immediate disqualification.
-19. *Indra Sawhney* (**1992**) upheld **27%** OBC reservation, locked a **50%** ceiling, excluded the creamy layer, and barred reservation in **promotion**. The **77th** Amendment later restored SC/ST promotion via Article **16(4A)**.
+18. *Lily Thomas* (**2013**) struck RPA section **8(4)**’s three-month cushion for sitting (बैठक) legislators. A conviction of **two years or more** under section **8(3)** brings immediate disqualification.
+19. *Indra Sawhney* (**1992**) upheld **27%** OBC (अन्य पिछड़ा वर्ग) reservation, locked a **50%** ceiling, excluded the creamy layer, and barred reservation in **promotion**. The **77th** Amendment later restored SC/ST promotion via Article **16(4A)**.
 20. *K.S. Puttaswamy* (**2017**, nine judges) held that **privacy** is a Fundamental Right under Article **21**.
 21. *Shreya Singhal* (**2015**) struck IT Act section **66A** as vague and as chilling Article **19(1)(a)**.
 22. *Vishaka* (**1997**) laid workplace sexual-harassment guidelines under Articles **14 / 15 / 19 / 21** until the **POSH Act 2013** took over as statute.
-23. *Navtej Singh Johar* (**2018**) held section **377 IPC** unconstitutional for consensual adult sex. It is **not** “Article 377” (a transitory CAG provision).
+23. *Navtej Singh Johar* (**2018**) held section **377 IPC** unconstitutional for consensual adult sex. It is **not** “Article 377” (a transitory CAG (भारत के नियंत्रक-महालेखापरीक्षक) provision).
 24. *Joseph Shine* (**2018**) struck section **497 IPC** adultery as a crime. Adultery can still matter as a **civil** matrimonial ground.
-25. *M.C. Mehta* Oleum (**1986**) locked **absolute liability** for hazardous industry and read a clean environment into Article **21**. Absolute liability is stricter than English *Rylands* strict liability.
+25. *M.C. Mehta* Oleum (**1986**) locked **absolute (निरपेक्ष) liability** for hazardous industry and read a clean environment (पर्यावरण) into Article **21**. Absolute liability is stricter than English *Rylands* strict liability.
 26. Sikri’s early Basic Structure list included constitutional supremacy, republican and democratic form, secular character, separation of powers, and federal character. Later cases added Rule of Law, judicial review, free and fair elections, limited amending power, FR–DPSP harmony, and judicial independence.
-27. *Golaknath* froze Part III; *Kesavananda* restored amending power with a Basic Structure ceiling. Marking Golaknath as “Basic Structure invented” is the classic trap.
+27. *Golaknath* froze Part III (मौलिक अधिकार); *Kesavananda* restored amending power with a Basic Structure ceiling. Marking Golaknath as “Basic Structure invented” is the classic trap.
 28. Emergency rights line: *Gopalan* → *Jabalpur* → *Maneka* / 44th / *Puttaswamy*. Amendment line: *Shankari* → *Sajjan* → *Golaknath* → 24th → *Kesavananda* → *Indira* → *Minerva*.
 29. Ninth Schedule review after the *Kesavananda* date is still open for Basic Structure damage. Pre-cut-off and post-cut-off timing matters in *Waman Rao* / *Coelho* questions.
 30. Collegium versus NJAC is not “which is older in the text.” Collegium is precedent; NJAC was constitutional text and was struck for independence reasons.
@@ -219,7 +219,7 @@ A.K. Gopalan, a Communist leader, was detained under the **Preventive Detention 
 - **Bench:** 6-judge. **H.J. Kania** CJ. **Fazl Ali** dissent
 - **Fazl Ali:** 19 and 21 should be read **together**; procedure must be reasonable
 - **Severability:** s.14 of the PD Act (barred the court from seeing the grounds of detention) was **struck**; the rest of the Act **stood**
-- **Later:** the silo / “any procedure” reading is replaced by ***Maneka* 1978**. The need for a **valid law** remains
+- **Later:** the silo / “any procedure” reading (रीडिंग) is replaced by ***Maneka* 1978**. The need for a **valid law** remains
 
 > **Logic:** *Gopalan* **refused** due process. It is **not** still the Art. 21 test — ***Maneka*** is.
 
@@ -233,9 +233,9 @@ A.K. Gopalan, a Communist leader, was detained under the **Preventive Detention 
 - **Art. 19(6)** — a State monopoly / nationalisation is a **reasonable restriction** on 19(1)(g)
 - **Arts. 31A, 31B + 9th Schedule** — agrarian-reform / “estate” laws **listed in the 9th Schedule** cannot be declared void for violating Fundamental Rights. The Schedule started with **13 ActsPetitioner’s argument:** Art. **13(2)** says the State shall not make any “**law**” that takes away a Fundamental Right. A constitutional amendment is a law. The 1st Amd abridges Part III. Therefore it is void.
 
-**“Law” in Art. 13 = ordinary Act, not a 368 amendment.** Article 368 **includes** the power to amend Part III. 1st Amendment **valid**.
+**“Law” in Art. 13 = ordinary Act, not a 368 amendment.** Article 368 (अनुच्छेद 368) **includes** the power to amend Part III. 1st Amendment **valid**.
 
-- **Bench:** 5-judge. **Patanjali Sastri**
+- **Bench:** 5-judge. **Patanjali (योग) Sastri**
 - In 1951 the 9th Schedule looks like a complete FR-proof vault
 
 > **Logic:** *Shankari Prasad* did **not** invent Basic Structure. Opposite — it said 368 can amend FR with no identity-ceiling.
@@ -280,7 +280,7 @@ The concept ‘Basic Structure of the Constitution’ was propounded in—
 
 A. *Kesavananda Bharati* vs State of Kerala — 1973
 B. *Golaknath* vs State of Punjab — 1967
-C. *Chitralekha* vs State of Mysore — 1964
+C. *Chitralekha* vs State of Mysore (मैसूर) — 1964
 D. *Yusuf* vs State of Bombay — 1954
 
 <details>
@@ -342,11 +342,11 @@ There is **no official closed list**. Later cases add features; they do not repe
 
 ## Indira Nehru Gandhi vs Raj Narain (1975)
 
-**Rae Bareli, 1971 LS election.** Raj Narain (SSP) petitioned the Allahabad High Court: Indira Gandhi had used a gazetted officer (**Yashpal Kapoor**, her PA, still in government service) in the campaign — a corrupt practice under the **Representation of the People Act, 1951**.
+**Rae Bareli, 1971 LS election.** Raj Narain (SSP) petitioned the Allahabad (इलाहाबाद) High Court: Indira Gandhi had used a gazetted officer (**Yashpal Kapoor**, her PA, still in government service) in the campaign — a corrupt practice under the **Representation of the People Act, 1951**.
 
 **12 June 1975:** Justice **Jagmohan Lal Sinha** (Allahabad HC) **voided** her election and barred her from contesting for **6 years** (20-day stay to appeal).
 
-**25 June 1975:** National Emergency proclaimed.
+**25 June 1975:** National Emergency (राष्ट्रीय आपात) proclaimed.
 
 **39th Amendment (10 Aug 1975)** inserted Art. **329A**:
 
@@ -423,16 +423,16 @@ The President asked the Supreme Court under Art. **143**: can this be done by an
 
 - Art. **3** is for reorganisation **inside** India, not for giving land away. Cession needs amendment of Art. **1** and the **First Schedule**
 - **What followed:9th Constitutional Amendment Act, 1960** implemented the transfer
-- **Do not mix:** 9th **Amendment** (1960, this border) ≠ 9th **Schedule** (1st Amd 1951, FR-shield). Art. **350B** is the **7th** Amendment, not the 9th
+- **Do not mix:** 9th **Amendment** (1960, this border) ≠ 9th **Schedule** (1st Amd 1951, FR-shield). Art. **350B** (अनु. 350B) is the **7th** Amendment, not the 9th
 - Preamble later: *Kesavananda* (1973) and *LIC* (1995): Preamble **is** part. The **cession** rule (needs an Amd) **still stands**. The 2015 India–Bangladesh land swap used the **100th Amendment** for the same reason
 
-> **Logic:** 9th Amendment ≠ 9th Schedule. *Berubari* is **not** the last word on the Preamble — *Kesavananda* reversed that limb only.
+> **Logic:** 9th Amendment (9वां संशोधन) ≠ 9th Schedule. *Berubari* is **not** the last word on the Preamble — *Kesavananda* reversed that limb only.
 
 ---
 
-## I.R. Coelho vs State of Tamil Nadu (2007)
+## I.R. Coelho vs State of Tamil Nadu (नाडु) (2007)
 
-The **Gudalur Janmam Estates (Abolition and Conversion into Ryotwari) Act, 1969** (Tamil Nadu) was partly struck down for violating Fundamental Rights. Parliament then parked it in the **9th Schedule** by the **34th Amendment (1974)** — i.e. **after** 24 April 1973. The **66th Amendment (1990)** put further Tamil Nadu Acts into the same Schedule. The State’s case: once a law is in the 9th Schedule, courts cannot touch it.
+The **Gudalur Janmam Estates (Abolition and Conversion into Ryotwari (रैयतवाड़ी)) Act, 1969** (Tamil Nadu) was partly struck down for violating Fundamental Rights. Parliament then parked it in the **9th Schedule** by the **34th Amendment (1974)** — i.e. **after** 24 April 1973. The **66th Amendment (1990)** put further Tamil Nadu Acts into the same Schedule. The State’s case: once a law is in the 9th Schedule, courts cannot touch it.
 
 **9th Schedule is not a total immunity.** Post-**24 Apr 1973** inserts that damage basic structure (esp. 14/19/21) can still be struck. 9-judge.
 
@@ -452,7 +452,7 @@ The **Gudalur Janmam Estates (Abolition and Conversion into Ryotwari) Act, 1969*
 
 **Art. 356 is justiciable. Majority = floor test, not Raj Bhavan.** Secularism is Basic Structure, so a communal ministry can justify 356. 9-judge.
 
-S.R. Bommai, Janata Dal CM of **Karnataka**, was dismissed in **1989**. **No floor test.** Similar 356 proclamations in **Meghalaya, Nagaland, Madhya Pradesh, Rajasthan, Himachal Pradesh** (the last three after Babri **6 Dec 1992**) were heard together.
+S.R. Bommai, Janata Dal CM of **Karnataka**, was dismissed in **1989**. **No floor test.** Similar 356 proclamations in **Meghalaya (मेघालय), Nagaland, Madhya Pradesh, Rajasthan, Himachal (हिमाचल) Pradesh** (the last three after Babri **6 Dec 1992**) were heard together.
 
 - Do **not** dissolve the Assembly until **Parliament has approved** the 356 proclamation. If the proclamation is struck, the Assembly can be **revived**
 - What it does **not** say: 356 is repealed. A ministry that **has** lost the floor can still be dismissed
@@ -476,9 +476,9 @@ S.R. Bommai, Janata Dal CM of **Karnataka**, was dismissed in **1989**. **No flo
 
 ## Nabam Rebia vs Deputy Speaker (2016)
 
-**Governor cannot advance/summon a sitting to help a faction defeat the Speaker.** Art. 174 is not a free-floating discretion to thwart the Assembly.
+**Governor cannot advance/summon (आहूत करना) a sitting to help a faction defeat the Speaker.** Art. 174 is not a free-floating discretion to thwart the Assembly.
 
-**Arunachal Pradesh, 2015–16.** Governor **J.P. Rajkhowa** preponed the Assembly sitting and listed **removal of the Speaker**, so rebel Congress MLAs could topple CM **Nabam Tuki**’s camp.
+**Arunachal Pradesh, 2015–16.** Governor **J.P. Rajkhowa** preponed the Assembly sitting and listed **removal of the Speaker**, so rebel Congress (कांग्रेस) MLAs could topple CM **Nabam Tuki**’s camp.
 
 - Art. **163(2):** his decision that a matter “is discretionary” is not a **blank cheque** — it is reviewable if used to defeat the Constitution
 - A notice to remove the Speaker is not decided by advancing the calendar on Raj Bhavan’s orders
@@ -540,11 +540,11 @@ Challenge to the **10th Schedule** (inserted by the **52nd Amendment, 1985**). T
 
 **Art. 124(2) text:** the President appoints every SC judge after **consultation** with such judges as he deems necessary. The CJI **must** be consulted for every judge other than the CJI. The word “consultation” is **not** defined in the Article — the three cases define it. The Collegium is **judge-made**. It is **not** written in Arts. 124–217.
 
-### First Judges Case (*S.P. Gupta*, 1981)
+### First Judges Case (प्रथम) (*S.P. Gupta (गुप्त)*, 1981)
 **Executive primacy.** Consultation ≠ concurrence. Also the Judges’ Transfer case.
 - Transfer of HC judges without the judge’s consent was upheld (later narrowed)
 
-### Second Judges Case (*SCAORA*, 1993)
+### Second Judges Case (द्वितीय न्यायाधीश) (*SCAORA*, 1993)
 **Collegium born: CJI + 2.** Consultation = **concurrence**. Primacy is of the **CJI as an institution**, not of one man.
 - If the Collegium **reiterates** a name after the government returns it, the government is **bound**
 

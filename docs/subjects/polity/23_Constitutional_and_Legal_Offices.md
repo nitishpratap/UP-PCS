@@ -4,7 +4,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Attorney General | Solicitor General | Advocate General | Comptroller & Auditor General | Chief Election Commissioner | Election Commissioners | UPSC Chairman | State PSC Chairman | Chief Justice of India | Chief Justice of High Court | Oath & Affirmation | Resignation articles (the ten + President / VP / Governor / PM / CM / Speakers)
+Attorney General (महान्यायवादी) | Solicitor General | Advocate General (महाधिवक्ता) | Comptroller & Auditor General | Chief Election Commissioner | Election Commissioners | UPSC (संघ लोक सेवा आयोग) Chairman | State PSC Chairman | Chief Justice of India | Chief Justice of High Court | Oath & Affirmation | Resignation articles (the ten + President / VP / Governor / PM / CM / Speakers)
 
 **Study dimensions (every office):** Appointment · Removal · Qualification · Tenure · Powers · Articles · Oath · Resign-to-whom
 
@@ -24,23 +24,23 @@ Newest first. One event, one fact.
 
 | Year | What happened | What you mark |
 |------|-----------------|---------------|
-| **2023** | **CEC Act**: selection = PM + LoP LS + Cabinet Minister | **CJI not on the panel** (*Anoop Baranwal* had put CJI there *until a law*) |
+| **2023** | **CEC Act**: selection = PM + LoP LS + Cabinet Minister (कैबिनेट मंत्री) | **CJI not on the panel** (*Anoop Baranwal* had put CJI there *until a law*) |
 | **2023** | SC judge resignation paper | Address = **President**, not CJI |
 | **2023** | Paper asks AG qualify-as-SC-judge **and** impeachment | Only qualify is true. **Pleasure**, not 124(4) |
 | **2022** | JPSC how created | **Parliament**, if the States request |
-| **2022** | CAG report examined by? | **PAC**, not Estimates, not “COPU for everything” |
+| **2022** | CAG (भारत के नियंत्रक-महालेखापरीक्षक) report examined by? | **PAC** (लोक लेखा समिति), not Estimates (प्राकलन समिति), not “COPU for everything” |
 | **2021** | SPSC member removal | **President** after **SC** inquiry — not Governor, not HC |
 | **2021** | First CEC / first woman CEC | **Sukumar Sen** · **Ramadevi 1990** |
-| **2021** | UPPSC functions extended by | **UP Legislature** (321), not President |
+| **2021** | UPPSC (उत्तर प्रदेश लोक सेवा आयोग) functions extended by | **UP Legislature** (321), not President |
 | **2020** | AG matched to Part XIII | **Wrong.** Part **V** |
 | **2024** | Body–article “correctly matched” | **ECI ≠ 165**. 165 = AdvG. ECI = **324** |
 | **2024** | CAG in a match-list | **148** (with 266 / 280 / 360) |
-| **2023** | 324 / 315 / 280 / 338 match | EC / PSC / FC / NCSC |
-| **2018** | CJI when PIL “introduced” | **P.N. Bhagwati** (colour). epistolary / continuing mandamus |
+| **2023** | 324 / 315 / 280 / 338 match | EC / PSC / FC / NCSC (राष्ट्रीय अनुसूचित जाति आयोग) |
+| **2018** | CJI when PIL “introduced” | **P.N. Bhagwati** (colour). epistolary / continuing mandamus (परमादेश) |
 | **1976** | Accounts compilation taken off CAG | CAG = **auditor only** (2019) |
 | **1971** | CAG DPC Act | Duties live in **statute**, Art. 149 |
 
-Sitting AG / CAG / SG names are **CA colour** — don’t raata a 2026 occupant as if he were Art. 76.
+Sitting (बैठक) AG / CAG / SG names are **CA colour** — don’t raata a 2026 occupant as if he were Art. 76.
 
 ---
 
@@ -57,14 +57,14 @@ Sitting AG / CAG / SG names are **CA colour** — don’t raata a 2026 occupant 
 8. The CAG takes a **Third Schedule** oath before the President. Salary is in the **Second Schedule** and charged. Union reports go President → Parliament; State reports go Governor → Legislature (Article **151**).
 9. The Indian CAG audits **after** expenditure. The classic UK Comptroller could **block** payment first. The Public Accounts Committee examines CAG reports. An **Accountant General** is the CAG’s field officer — not the Advocate General.
 10. The Third Schedule covers ministers, House candidates/members, Supreme Court and High Court judges, and the CAG. It does **not** cover the President, Vice-President, Governor, AG, SG, Advocate General, or CEC.
-11. The **Chief Election Commissioner** is appointed by the President. Under the **2023** Act, selection is by the Prime Minister, Lok Sabha Leader of Opposition, and a Cabinet Minister. The **CJI is not** on this panel (unlike the Lokpal panel).
+11. The **Chief Election Commissioner** is appointed by the President. Under the **2023** Act, selection is by the Prime Minister, Lok Sabha (लोकसभा) Leader of Opposition, and a Cabinet Minister. The **CJI is not** on this panel (unlike the Lokpal (लोकपाल) panel).
 12. CEC tenure is **six years or age 65**. The CEC is removed **like a Supreme Court judge**. Other Election Commissioners and Regional Commissioners are removed only on the **CEC’s recommendation**. Votes are equal; removal protection is not.
 13. The first CEC was **Sukumar Sen**. The first woman CEC was **V.S. Ramadevi** (**1990**). An Election Commissioner may become CEC, with combined service capped at six years.
 14. The **UPSC** (संघ लोक सेवा आयोग) Chairman is appointed by the President for **six years or age 65**. Removal under Article **317** follows a Supreme Court inquiry path. Under Article **319**, a UPSC Chair may take **no** further Union or State office.
 15. A **State PSC** Chair is **appointed by the Governor** but **removed by the President** (after Supreme Court inquiry on misbehaviour). Extension of SPSC functions under Article **321** is by the **State Legislature**. A Joint PSC needs **Parliament** if the States request it.
-16. UPPSC headquarters is **Prayagraj** (प्रयागराज). Do not confuse UPPSC with UPSC (Delhi) or with the State Election Commission.
+16. UPPSC headquarters is **Prayagraj** (प्रयागराज). Do not confuse UPPSC with UPSC (Delhi) or with the State Election Commission (निर्वाचन आयोग).
 17. The **Chief Justice of India** retires at **65**, takes oath before the **President**, and resigns to the **President**. Appointment convention is seniority (broken in **1973** and **1977**). If President and Vice-President are both vacant, the CJI can act as President and then takes the Article **60** oath.
-18. The Supreme Court Collegium is **CJI + four**. The High Court Collegium is **CJI + two**. The **99th** Amendment’s NJAC was struck on **16 October 2015**.
+18. The Supreme Court Collegium is **CJI + four (चातुर्याम)**. The High Court Collegium is **CJI + two**. The **99th** Amendment’s NJAC was struck on **16 October 2015**.
 19. A High Court Chief Justice retires at **62**, takes oath before the **Governor**, and resigns to the **President**. Article **223** covers an acting Chief Justice. Outsider Chief Justices are a convention, not a constitutional bar.
 20. Resignation facts: Supreme Court / High Court judges, CJI, High Court CJ, CAG, CEC, and UPSC resign to the **President**. An SPSC member or Advocate General resigns to the **Governor**. High Court **oath** (Governor) is not the same as High Court **resignation** (President).
 21. The President resigns to the **Vice-President** (Article **56**). The Vice-President resigns to the **President** (Article **67**). A Governor resigns to the **President** (Article **156**). The Lok Sabha Speaker resigns to the **Deputy Speaker** (Article **94**), **not** to the President.
@@ -169,7 +169,7 @@ D. Neither
 **PYQ — UPPCS Prelims 2020, Q110**
 
 NOT correctly matched: Attorney General of India — Part XIII
-**Ans: that pair.** AG = **Part V**. Part XIII = trade, commerce, intercourse.
+**Ans: that pair.** AG = **Part V**. Part XIII = trade (पण्याध्यक्ष), commerce, intercourse.
 
 Trap: AG is a minister. **No.** Trap: AG must be an MP. **No** (and if separately elected, office-of-profit issues). Trap: AG cannot enter a secret sitting — the House *may* ask him to withdraw; that does not make him a member.
 
@@ -210,22 +210,22 @@ There is **no “Advocate General of India.”** Union = AG + SG. State = Advoca
 
 **UP colour:** UP Advocate General ≠ UP **Accountant General** (CAG’s field) ≠ **UPPSC** Chairman.
 
-> **Logic:** AdvG qualifies as an **HC** judge, not SC. Pleasure of the Governor, not impeachment. Art. **177** in the Vidhan Sabha, not Art. 88.
+> **Logic:** AdvG qualifies as an **HC** judge, not SC. Pleasure of the Governor, not impeachment. Art. **177** in the Vidhan Sabha (विधानसभा), not Art. 88.
 
 ---
 
-## Comptroller and Auditor General (Arts. 148–151)
+## Comptroller and Auditor General (नियंत्रक-महालेखापरीक्षक) (Arts. 148–151)
 
-**Constitutional auditor for Union and States.** The “Comptroller” in the name is **UK history** — India does **not** let him block a payment before it is made. Removed **like an SC judge**, not pleasure.
+**Constitutional auditor for Union and States.** The “Comptroller” in the name is **UK history (इतिहास)** — India does **not** let him block a payment before it is made. Removed **like an SC judge**, not pleasure.
 
 - **Article:148** office · **149** duties as Parliament by law · **150** form of accounts · **151** reports
-- **Appointment:President** (warrant under his hand and seal, **148(1)**). Qualification **not** written as “SC-judge qualify” (unlike AG). Conditions = **law** (DPC Act 1971)
+- **Appointment:President** (warrant under his hand and seal (मुद्रा), **148(1)**). Qualification **not** written as “SC-judge qualify” (unlike AG). Conditions = **law** (DPC Act 1971)
 - **Tenure:6 years or 65**, whichever is earlier
 - **Removal:like a Supreme Court judge** (address of both Houses, special majority, proved misbehaviour/incapacity) — **not** pleasure
 - **Resignation:** to the **President**. **Oath:Third Schedule**, before the **President** (same form-family as SC judges)
 - **Further office:** Art. **148(4)** — **not eligible** for further **Union or State** office. No minister may instruct him; he is **not** a PAC member
 - **Pay:Second Schedule**; **charged** on CFI; not varied to his disadvantage after appointment
-- **Powers:** audit Union **and** State accounts (CFI, Contingency Fund, Public Account, financed bodies as the 1971 Act says). **Three audits**: financial · compliance · performance
+- **Powers:** audit Union **and** State accounts (CFI, Contingency Fund (आकस्मिकता निधि), Public Account (लोक लेखा), financed bodies as the 1971 Act says). **Three audits**: financial · compliance · performance
 - **Reports:** Union → **President** → Parliament. State → **Governor** → State legislature. Examined by **PAC** (civil). **COPU** = PSU slice. **Estimates Committee has no CAG**
 - **Law:CAG’s (Duties, Powers and Conditions of Service) Act, 1971**
 - **First (independent India):V. Narahari Rao**. Accounting split from audit **1976** — Indian CAG is auditor only (2019 PYQ)
@@ -310,7 +310,7 @@ Trap: other ECs enjoy the same removal shield as the CEC. **No.** Trap: 2023 Act
 
 ## UPSC Chairman (Arts. 315–323)
 
-**Chair of the Union Public Service Commission.** Appointed by the **President**. Tenure **6 years or 65**. Art. **319** — **no further Union or State office at all**.
+**Chair of the Union Public Service Commission (संघ लोक सेवा आयोग).** Appointed by the **President**. Tenure **6 years or 65**. Art. **319** — **no further Union or State office at all**.
 
 - **Article:315–323**. Chair is one member of the Commission the President appoints (**316**)
 - **Qualification:** no AG-style “SC-judge” clause. **As nearly as one-half** of *members* shall have held Union/State office **≥ 10 years**
@@ -318,7 +318,7 @@ Trap: other ECs enjoy the same removal shield as the CEC. **No.** Trap: 2023 Act
 - **Resignation:** to the **President** (316). Oath not a 3rd Schedule *named* form
 - **Report:** to the **President** → Parliament. Government must explain non-acceptance of advice. Expenses **charged** (322)
 
-UPSC *functions from Constitution + laws + executive rules + conventions*. Lineage: Lee Commission 1924 / Ross Barker. UPSC ≠ SSC ≠ CAPF board.
+UPSC *functions from Constitution + laws + executive rules + conventions*. Lineage: Lee Commission 1924 / Ross Barker. UPSC ≠ SSC ≠ CAPF (सीएपीएफ) board.
 
 > **Logic:** UPSC Chair = **total 319 bar**. UPSC member may become UPSC **Chair** or an **SPSC Chair**.
 
@@ -331,13 +331,13 @@ UPSC *functions from Constitution + laws + executive rules + conventions*. Linea
 | **SPSC Chairman** | UPSC Chair **or** Chair of **another** SPSC | Other Union/State office |
 | **SPSC member** | UPSC Chair / UPSC member / SPSC Chair (same or another) | Other Union/State office |
 
-Trap: UPSC Chair is removed by the PM. **President + SC inquiry.** Trap: UPSC Chair may become a State Governor. **319 bars it.**
+Trap: UPSC Chair is removed by the PM. **President + SC inquiry.** Trap: UPSC Chair may become a State Governor (राज्यपाल). **319 bars it.**
 
 ---
 
 ## State PSC Chairman
 
-**Chair of a State Public Service Commission.Governor** appoints and receives the resignation; **President** removes. Tenure **6 years or 62**.
+**Chair of a State Public Service Commission (राज्य लोक सेवा आयोग).Governor** appoints and receives the resignation; **President** removes. Tenure **6 years or 62**.
 
 - **Removal (317):President** — **not** the Governor. Same SC-inquiry path on misbehaviour
 - **Extend functions (321):State Legislature**, not the President / PM
@@ -364,7 +364,7 @@ D. Governor after HC enquiry
 
 **PYQ — UPPCS Prelims 2021, Q133**
 
-UPPSC functions can be extended by— **Uttar Pradesh State Legislature** (Art. 321).
+UPPSC functions can be extended by— **Uttar Pradesh (उत्तर प्रदेश) State Legislature** (Art. 321).
 
 **PYQ — UPPCS Prelims 2022, Q24**
 
@@ -387,7 +387,7 @@ Three different authorities for SPSC: **appoint Governor · remove President · 
 
 > **Logic:** SC judge / CJI resigns to the **President**, not to “the CJI”. Art. 60 is the **President’s** oath, *administered by* the CJI.
 
-**Seniority broken twice:1973 A.N. Ray** (post-*Kesavananda*) · **1977 M.H. Beg** (superseded **H.R. Khanna**). Restored **1978 (Y.V. Chandrachud)**.
+**Seniority broken twice:1973 A.N. Ray** (post-*Kesavananda* (केशवानंद भारती 1973)) · **1977 M.H. Beg** (superseded **H.R. Khanna**). Restored **1978 (Y.V. Chandrachud)**.
 
 **PIL colour:** PIL as a *system* is tagged to **P.N. Bhagwati** as CJI — office colour, not a 124 clause. PIL = epistolary jurisdiction; tagged to P.N. Bhagwati.
 

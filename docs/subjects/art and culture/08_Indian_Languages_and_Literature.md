@@ -65,7 +65,7 @@ Ancient Indian Literature | Sanskrit Literature | Vedic Literature | Epic Litera
 38. *Natyashastra* (नाट्यशास्त्र) is **Bharata Muni** (भरत मुनि). **Bhasa** (भास) wrote *Svapnavasavadattam* (स्वप्नवासवदत्तम्) and *Madhyama-vyayoga* (मध्यमव्यायोग).
 39. **Manusmriti** (मनुस्मृति) is mainly the social and law system. **Mitakshara** (मिताक्षरा) is **Vijnaneshwara** (विज्ञानेश्वर) on Yajnavalkya. **Dayabhaga** (दायाभाग) is **Jimutavahana** (जीमूतवाहन).
 40. Court–poet matches: **Chandragupta II** (चंद्रगुप्त द्वितीय)–Kalidasa; **Samudragupta**–**Harisena**; **Harsha**–Banabhatta; **Alauddin Khalji** (अलाउद्दीन खिलजी)–Amir Khusrau. **Jayadeva** (*Gita Govinda*) adorned **Lakshmana Sena**’s Bengal court.
-41. Wrong-pair traps: *Devichandragupta* = **Vishakhadatta** (not Bilhana); *Milindapanha* (मिलिंदपन्ह) monk = **Nagasena** (नागसेन) (not Nagarjuna); *Kadambari* = **Banabhatta** (not Subandhu); *Buddhacharita* = **Ashvaghosha** (not Vasubandhu).
+41. Wrong-pair traps: *Devichandragupta* = **Vishakhadatta** (not **Bilhana** (बिल्हण)); *Milindapanha* (मिलिंदपन्ह) monk = **Nagasena** (नागसेन) (not Nagarjuna); *Kadambari* = **Banabhatta** (not Subandhu); *Buddhacharita* = **Ashvaghosha** (not Vasubandhu).
 42. *Mattavilasa Prahasana* (मत्तविलास प्रहसन) is Pallava **Mahendravarman I** (महेन्द्रवर्मन प्रथम). *Gaudavaho* (गौडवहो) is **Vakpati** (वाकपति). *Katantra* (कातंत्र) is **Sarvavarman** (सर्ववर्मन). *Nitisara* (नीतिसार) is **Kamandaka** (कामंदक).
 
 ---
@@ -164,7 +164,7 @@ Classical Sanskrit follows Panini. It covers kavya, nataka, and shastra. Gupta a
 - Sanskrit literature reached a classical peak in the **Gupta** (गुप्त) age for both prose and poetry.
 - High-yield Gupta-age classics include **Amarasimha**’s *Amarakosha*, **Vatsyayana**’s *Kamasutra*, Kalidasa’s *Meghaduta*, and **Vishakhadatta**’s *Mudrarakshasa*.
 - *Mudrarakshasa* is a Sanskrit drama written in the Gupta period. Its plot shows **Chandragupta Maurya** (चंद्रगुप्त मौर्य) and **Kautilya** (कौटिल्य) overthrowing the **Nandas**, and it also paints Mauryan social and economic life.
-- Vishakhadatta also wrote ***Devichandraguptam** (देवीचन्द्रगुप्तम्)* (do not assign it to Bilhana).
+- Vishakhadatta also wrote ***Devichandraguptam** (देवीचन्द्रगुप्तम्)* (do not assign it to **Bilhana** (बिल्हण)).
 
 ### Kalidasa (highest-yield author)
 
@@ -222,9 +222,9 @@ D. Only 1
 - **Kalhana** (कल्हण) wrote *Rajatarangini* (राजतरंगिणी), a metrical Sanskrit chronicle of the kings of **Kashmir**.
 - He completed it under **Jayasimha / Jai Singh (1128–1149)**.
 - The work has **eight tarangas** and thousands of verses.
-- **Jonaraja** continued the narrative into the Sultanate age (to Zain-ul-Abidin). His pupil **Srivara** continued after Jonaraja.
-- **Vakpati** wrote the Prakrit *Gaudavaho* on the digvijaya of **Yasovarman** of Kannauj — a historical poem often paired with *Rajatarangini* in stems.
-- **Bilhana** wrote *Vikramankadevacharita*. **Merutunga** wrote *Prabandha Chintamani*. **Padmagupta** wrote *Navasahasankacharita* (Paramara origin lore).
+- **Jonaraja** (जोनराज) continued the narrative into the Sultanate age (to Zain-ul-Abidin). His pupil **Srivara** (श्रीवर) continued after Jonaraja.
+- **Vakpati** (वाकपति) wrote the Prakrit *Gaudavaho* (गौडवहो) on the digvijaya of **Yasovarman** (यशोवर्मन) of Kannauj — a historical poem often paired with *Rajatarangini* in stems.
+- **Bilhana** (बिल्हण) wrote *Vikramankadevacharita* (विक्रमांकदेवचरित). **Merutunga** (मेरुतुंग) wrote *Prabandha Chintamani* (प्रबंध चिंतामणि). **Padmagupta** (पद्मगुप्त) wrote *Navasahasankacharita* (नवसाहसांकचरित) on **Paramara** (परमार) origin lore.
 
 ### Science, law, and didactic texts
 
@@ -576,7 +576,7 @@ D. Both true and R explains A
 | Varahamihira | *Brihatsamhita*, *Panchasiddhantika*, *Brihat Jataka* |
 | Vishakhadatta | *Mudrarakshasa*, *Devichandraguptam* |
 | Shudraka | *Mrichchhakatikam* |
-| Bilhana | *Vikramankadevacharita* |
+| Bilhana (बिल्हण) | *Vikramankadevacharita* (विक्रमांकदेवचरित) |
 | Sarvavarman | *Katantra* |
 | Vijnaneshwara | *Mitakshara* |
 | Jimutavahana | *Dayabhaga* |
@@ -601,7 +601,7 @@ D. Both true and R explains A
 - The **Sahitya Akademi Award** is annual from **1955**. The Akademi was founded in **1954**. Awards cover **24** languages.
 - Among common musical instruments, the **veena** is the most ancient in Indian culture; sitar, sarod, and tabla are later medieval introductions.
 - The *Mahabharata* carries the famous claim that what is here may be found elsewhere, but what is not here is found nowhere else. The *Bhagavad Gita* carries the karma-yoga line on right to action without claim on fruits.
-- Paramara history sources include Padmagupta’s *Navasahasankacharita*, Merutunga’s *Prabandha Chintamani*, and the **Udaipur Prashasti**.
+- Paramara history sources include **Padmagupta** (पद्मगुप्त)’s *Navasahasankacharita* (नवसाहसांकचरित), **Merutunga** (मेरुतुंग)’s *Prabandha Chintamani* (प्रबंध चिंतामणि), and the **Udaipur Prashasti** (उदयपुर प्रशस्ति).
 - *Lalitavigraharaja* drama is linked with **Somadeva**. The *Vayu Purana* remembers the Mahanadi under the ancient name **Nilotpala**.
 - Rajasthani raso traps: *Prithviraj Raso*–**Chand Bardai**; *Bisaldeva Raso*–**Narapati**; *Khuman Raso*–**Dalpat Vijay** (not Karnidan); *Shatrusal Raso*–**Dungar Singh**.
 
@@ -3228,7 +3228,7 @@ D. He founded Sahitya Akademi’s 24-language award list
 16. *Harshacharita* / *Kadambari* = **Banabhatta**; Harsha’s own plays are *Ratnavali*, *Priyadarshika*, *Nagananda*.
 17. *Karpuramanjari* = **Rajasekhara**, not Harsha.
 18. *Milindapanha* monk = **Nagasena**, not Nagarjuna; language = **Pali**.
-19. *Devichandragupta* = **Vishakhadatta**, not Bilhana (*Vikramankadevacharita*).
+19. *Devichandragupta* = **Vishakhadatta**, not **Bilhana** (बिल्हण) (*Vikramankadevacharita* (विक्रमांकदेवचरित)).
 20. *Amarakosha* = **Amarasimha**, not Varahamihira (*Brihatsamhita* / *Panchasiddhantika*).
 21. Panini ≠ Pushyamitra court; **Patanjali** is the Shunga-linked grammarian. Amarasimha ≠ Harsha.
 22. *Janakiharanam* = **Kumaradasa**, not Kalidasa. *Malavikagnimitram* protagonist = **Agnimitra**.

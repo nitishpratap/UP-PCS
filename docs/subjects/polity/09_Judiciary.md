@@ -4,11 +4,11 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-**Supreme Court & High Courts:** Supreme Court | High Court | Independence of Judiciary | Appointment of Judges | Collegium System | Judges Cases (First, Second, Third, NJAC/Fourth) | Transfer of Judges | Removal / Impeachment of Judges | Jurisdiction of Supreme Court (Original, Writ, Appellate, Advisory, Review) | Special Leave Petition (Art. 136) | Advisory Jurisdiction (Art. 143) | Jurisdiction of High Court | Court of Record | Arts. 124–147 & 214–231 | Art. 71 (President/VP election) | Art. 262 (water disputes) | 42nd / 43rd / 44th (judiciary) | Allahabad HC + Lucknow Bench
+**Supreme Court & High Courts:** Supreme Court | High Court | Independence of Judiciary | Appointment of Judges | Collegium System | Judges Cases (First, Second, Third, NJAC/Fourth) | Transfer of Judges | Removal / Impeachment of Judges | Jurisdiction of Supreme Court (Original, Writ, Appellate, Advisory, Review) | Special Leave Petition (Art. 136) | Advisory Jurisdiction (Art. 143) | Jurisdiction of High Court | Court of Record | Arts. 124–147 & 214–231 | Art. 71 (President/VP election) | Art. 262 (water disputes) | 42nd (42वां) / 43rd / 44th (44वां संशोधन) (judiciary) | Allahabad (इलाहाबाद) HC + Lucknow (लखनऊ) Bench
 
-**Review, PIL & doctrine:** PIL | Judicial Review | Judicial Activism | Judicial Restraint | Judicial Decisions | Women Judges | Curative Petition | Review Petition
+**Review, PIL & doctrine:** PIL | Judicial Review | Judicial Activism | Judicial Restraint | Judicial Decisions | Women Judges | Curative Petition (क्यूरेटिव) | Review Petition
 
-**Subordinate judiciary & alternate forums:** Subordinate Courts (233–237) | District Courts | Tribunals (Part XIVA, 323A/323B) | CAT / SAT | Gram Nyayalaya | Lok Adalat | Fast Track Courts | Contempt of Court | ADR
+**Subordinate judiciary & alternate forums:** Subordinate Courts (233–237) | District Courts | Tribunals (Part XIVA (भाग XIVA), 323A/323B) | CAT / SAT | Gram Nyayalaya | Lok Adalat (लोक अदालत) | Fast Track Courts | Contempt of Court | ADR
 
 </details>
 
@@ -25,8 +25,8 @@
 - **2019:** SC strength **34** (CJI + 33).
 - **2019:** AP & Telangana High Courts **split** (1 Jan) — number of HCs = **25**.
 - **2015:** NJAC struck down 4:1; Collegium restored.
-- **2013:** Manipur, Meghalaya, Tripura HCs — newest trio before 2019 split.
-- **2023:Fathima Beevi** died; Mediation Act.
+- **2013:** Manipur, Meghalaya (मेघालय), Tripura HCs — newest trio before 2019 split.
+- **2023:Fathima Beevi (फातिमा)** died; Mediation Act.
 - **2025:** PIL A/R on rule of law + access to justice.
 
 ---
@@ -38,29 +38,29 @@
 2. The Supreme Court was inaugurated on **28 January 1950**. Its first Chief Justice was **H.J. Kania**. The Federal Court under the Government of India Act, 1935 had begun on **1 October 1937**.
 3. **Article 124** establishes the Supreme Court. It sits in **Delhi** under Article **130**. Strength moved from **8** (CJI plus 7) to **34** judges in **2019**. Retirement age for an SC judge is **65**.
 4. An SC judge resigns to the **President** and takes oath before the **President**. Qualification is citizen plus **5 years** as High Court judge, or **10 years** as High Court advocate, or a **distinguished jurist**. The jurist route exists for the **Supreme Court only**, not for High Courts.
-5. Collegium is **judge-made**, not written in the Constitution. **First Judges Case (1981)** gave the executive primacy. **Second Judges Case (1993)** created the Collegium (CJI plus two). **Third Judges Case (1998)** fixed **CJI plus four** for Supreme Court appointments and **CJI plus two** for High Court appointments.
+5. Collegium is **judge-made**, not written in the Constitution. **First Judges Case (प्रथम) (1981)** gave the executive primacy. **Second Judges Case (द्वितीय न्यायाधीश) (1993)** created the Collegium (CJI plus two). **Third Judges Case (1998)** fixed **CJI plus four (चातुर्याम)** for Supreme Court appointments and **CJI plus two** for High Court appointments.
 6. The **99th Amendment** created the **NJAC** (six members: CJI, two senior SC judges, Law Minister, two eminent persons). The Supreme Court struck it down in **2015**. Any **two** NJAC members could have vetoed a name.
-7. Removal of an SC judge needs a motion by **100 Lok Sabha** or **50 Rajya Sabha** members, a three-member inquiry under the **1968 Act**, then a **special majority** in **both Houses in the same session**. No judge has ever been fully removed; **V. Ramaswami** (1993) failed in the Lok Sabha and **Soumitra Sen** (2011) resigned after the Rajya Sabha passed the motion.
+7. Removal of an SC judge needs a motion by **100 Lok Sabha (लोकसभा)** or **50 Rajya Sabha (राज्यसभा)** members, a three-member inquiry under the **1968 Act**, then a **special majority** in **both Houses in the same session (पंगु सत्र)**. No judge has ever been fully removed; **V. Ramaswami** (1993) failed in the Lok Sabha and **Soumitra Sen** (2011) resigned after the Rajya Sabha passed the motion.
 8. **Article 129** makes the Supreme Court a **court of record**. **Article 141** makes its law binding on all courts. **Article 142** allows complete justice and is available to the **Supreme Court only**, not High Courts. A Constitution Bench under **145(3)** needs at least **five** judges.
-9. **Article 131** is the Supreme Court’s **exclusive original** jurisdiction in federal disputes between the Union and States or among States. It does **not** cover Fundamental Rights, private parties, or river-water disputes where Parliament has barred the Court.
+9. **Article 131** is the Supreme Court’s **exclusive original** jurisdiction in federal disputes between the Union and States or among States. It does **not** cover Fundamental Rights (मौलिक अधिकार), private parties, or river-water disputes where Parliament has barred the Court.
 10. Disputes over **President or Vice-President elections** go to the Supreme Court under **Article 71**, not Article 131. River-water disputes fall under **Article 262**; the **Inter-State River Water Disputes Act, 1956** bars Supreme Court jurisdiction under Article 131.
 11. **Article 32** (अनुच्छेद 32) is a Fundamental Right and gives the Supreme Court writ jurisdiction for **Fundamental Rights only**. **Article 226** is **wider** — High Courts can issue writs for Fundamental Rights **and** any other legal right.
 12. **Article 136** Special Leave Petition is the Supreme Court’s widest appellate power, but it does **not** apply to judgments of **armed-forces courts**. **Article 137** is review. **Article 143** advisory opinions are **not binding**; under **143(1)** the Court **may** decline, and under **143(2)** it **shall** report on pre-Constitution treaty questions.
 13. The **42nd Amendment** had tried to cut High Court power over Central laws (**32A / 131A / 226A**). The **43rd Amendment** repealed those bars. High Courts **can** strike down Central laws.
-14. Every State has a High Court under **Article 214**. A **common** High Court for two or more States needs only an **ordinary law** under **Article 231**, not a special amendment under Article 368. There are **25** High Courts. High Court judges retire at **62** (raised from 60 by the **15th Amendment**).
+14. Every State has a High Court under **Article 214**. A **common** High Court for two or more States needs only an **ordinary law** under **Article 231**, not a special amendment under Article 368 (अनुच्छेद 368). There are **25** High Courts. High Court judges retire at **62** (raised from 60 by the **15th Amendment**).
 15. A High Court judge takes oath before the **Governor** but resigns to the **President**. Qualification is **10 years** judicial office or **10 years** as High Court advocate — **no** distinguished-jurist route. Salary is charged on the **State** Consolidated Fund; **pension** is charged on the Consolidated Fund of **India**.
 16. Transfer of High Court judges is under **Article 222** and does **not** need the judge’s consent. An **additional** High Court judge under **Article 224** sits for at most **two years** and must leave by age **62**. After retirement a permanent HC judge cannot practise in the **same** High Court (**Article 220**).
 17. The three **Chartered** High Courts of **1862** are **Calcutta, Bombay, and Madras**. **Allahabad** (इलाहाबाद) High Court began on **17 March 1866** (first at Agra, then Allahabad from 1869). The **Lucknow Bench** (1948) is a **bench** of Allahabad, not a separate High Court. Allahabad has the largest sanctioned strength.
 18. Judicial independence rests on fixed tenure, charged salaries, bar on discussion of conduct in legislatures (**121 / 211**), no practice after SC retirement (**124(7)**), contempt powers (**129 / 215**), separation under **Article 50**, and control of court staff (**146 / 229**).
-19. PIL is **not** written in the Constitution; it grew through **Articles 32 and 226**. The key fact for the PIL CJI is **P.N. Bhagwati** (with Krishna Iyer). Landmark locus expansion came in *S.P. Gupta* (1981).
-20. Judicial review draws on **Articles 13, 32, 131, 136, 226, and 227**. Basic structure review survives *Kesavananda*, *Minerva Mills*, and *L. Chandra Kumar*. **Review** is Article **137**; a **curative** petition (*Rupa Hurra*, 2002) comes only **after** review fails.
+19. PIL is **not** written in the Constitution; it grew through **Articles 32 and 226**. The key fact for the PIL CJI is **P.N. Bhagwati** (with Krishna (कृष्णा) Iyer). Landmark locus expansion came in *S.P. Gupta (गुप्त)* (1981).
+20. Judicial review draws on **Articles 13, 32, 131, 136, 226, and 227**. Basic structure review survives *Kesavananda* (केशवानंद भारती 1973), *Minerva Mills*, and *L. Chandra Kumar* (एल चंद्र). **Review** is Article **137**; a **curative** petition (*Rupa Hurra*, 2002) comes only **after** review fails.
 21. District Judges are appointed by the **Governor in consultation with the High Court** (**Article 233**). **Control** over the subordinate judiciary rests with the High Court (**Article 235**). Other than District Judges, appointments follow **Article 234** (Governor + High Court + State PSC).
 22. Tribunals sit in **Part XIVA** (**Articles 323A–323B**), added by the **42nd Amendment** — **not** Part XI. **323A** (administrative tribunals) is **Parliament only**. **323B** (other tribunals) may be used by **Parliament or a State**.
-23. CAT started on **1 November 1985** at Delhi. *Sampath Kumar* (1987) treated tribunals as substitutes for High Courts. *L. Chandra Kumar* (1997) held that tribunals only **supplement** High Courts; **Articles 226 and 227** remain part of the basic structure.
+23. CAT started on **1 November 1985** at Delhi. *Sampath Kumar* (सम्पथ) (1987) treated tribunals as substitutes for High Courts. *L. Chandra Kumar* (1997) held that tribunals only **supplement** High Courts; **Articles 226 and 227** remain part of the basic structure.
 24. NALSA rests on the **Legal Services Authorities Act, 1987** (in force **9 November 1995**). A **Lok Adalat** award equals a civil-court **decree** and has **no appeal**. A regular Lok Adalat works only by **compromise**; a **Permanent Lok Adalat** can decide merits in public-utility pre-litigation cases (cap about **₹1 crore**).
 25. **Gram Nyayalayas** (2008 Act; in force **2 October 2009**) are separate courts, not Gram Panchayat courts, and are **not bound** by the Evidence Act. **Fast Track Courts** are ordinary sessions courts on a fast track — they are **not** ADR. An All-India Judicial Service under **Article 312** is enabled but **not yet created** and cannot go below District Judge rank.
 26. Contempt of Court is inherent under **Articles 129 and 215**; the **1971 Act** only regulates it. Criminal contempt by a private person needs **Attorney General** (महान्यायवादी) consent under section **15**, but **suo motu** action does not. Truth in public interest became a defence by the **2006** amendment. Limitation is generally **one year**.
-27. **Fathima Beevi** (1989) was the first woman Supreme Court judge; she later became Governor of **Tamil Nadu**, not Kerala. **Anna Chandy** was the first woman High Court judge. **Leila Seth** was the first woman High Court Chief Justice. **Indu Malhotra** (2018) was the first woman SC judge elevated directly from the **Bar**.
+27. **Fathima Beevi** (1989) was the first woman Supreme Court judge; she later became Governor of **Tamil Nadu (नाडु)**, not Kerala. **Anna Chandy** was the first woman High Court judge. **Leila Seth** (लीला सेठ) was the first woman High Court Chief Justice. **Indu Malhotra** (2018) was the first woman SC judge elevated directly from the **Bar**.
 28. An **ad hoc** Supreme Court judge under **Article 127** is a **sitting** (बैठक) High Court judge. A **retired** judge may sit under **Article 128**. Do not swap these two articles.
 29. Election petitions for MPs and MLAs go to the **High Court** under the Representation of the People Act and **Article 329**, not straight to the Supreme Court. President and Vice-President election disputes stay under **Article 71**.
 30. The USA Supreme Court does **not** give advisory opinions. India’s Supreme Court **does**, under **Article 143**, but those opinions are **not binding** on the President.
@@ -135,7 +135,7 @@ India’s judiciary is **both** integrated (one hierarchy) **and** independent (
 - The **US Supreme Court** is **not** the regular apex court for state-court appeals.
 - India has **no** such dual split; its judiciary is fully integrated.
 - **Part / Articles:** SC: **Part V, Ch. IV, Arts. 124–147**. HC: **Part VI, Ch. V, Arts. 214–231**. Subordinate: **233–237**. Tribunals: **Part XIVA (323A–323B)**.
-- **Art. 50:** DPSP — separate the judiciary from the executive in the **public services of the State**.
+- **Art. 50:** DPSP (राज्य के नीति निदेशक तत्व) — separate the judiciary from the executive in the **public services of the State**.
 
 **Predecessor**
 - The **Federal Court of India** was set up on **1 October 1937**, under the **Government of India Act, 1935**.
@@ -158,13 +158,13 @@ India’s judiciary is **both** integrated (one hierarchy) **and** independent (
 - Under **Art. 124(2)**, the **President** appoints every Supreme Court judge after consultation.
 - A Supreme Court judge holds office until the age of **65**.
 - A Supreme Court judge resigns by writing to the **President**.
-- A Supreme Court judge can be removed only through the procedure in **Art. 124(4)**.
+- A Supreme Court judge can be removed only through the procedure (प्रक्रिया) in **Art. 124(4)**.
 - **Arts. 124A–C** created the **National Judicial Appointments Commission (NJAC)**.
 - The **99th Amendment (2014)** inserted these three articles.
 - The Supreme Court **struck down** the 99th Amendment and the NJAC Act in **2015** — the text of 124A–C is now dead law.
 - **Art. 125** lets Parliament fix the salaries of Supreme Court judges by law.
-- These salaries are **charged on the Consolidated Fund of India**.
-- A judge's salary cannot be reduced to their disadvantage after appointment, except during a **Financial Emergency (Art. 360)**.
+- These salaries are **charged on the Consolidated Fund of India (भारत की संचित निधि)**.
+- A judge's salary cannot be reduced to their disadvantage after appointment, except during a **Financial Emergency (वित्तीय आपात) (Art. 360)**.
 - **Art. 126** lets the President appoint an **Acting Chief Justice of India** when the office is vacant or the CJI is absent.
 - By convention, the President appoints the **senior-most** available Supreme Court judge as Acting CJI.
 - **Art. 127** allows the appointment of an **ad hoc judge** to the Supreme Court.
@@ -215,7 +215,7 @@ India’s judiciary is **both** integrated (one hierarchy) **and** independent (
 - Under **145(3)**, a bench of at least **5** judges must decide any case involving a substantial question of constitutional interpretation, or a reference under Art. 143.
 - **Art. 146** provides that the Supreme Court's officers and staff are appointed by the **CJI** (or a person the CJI directs).
 - The Supreme Court's administrative expenses, including staff salaries and pensions, are **charged on the Consolidated Fund of India**.
-- **Art. 147** clarifies that "interpretation of this Constitution" also covers, where relevant, the **Government of India Act, 1935** and the **Indian Independence Act, 1947**.
+- **Art. 147** clarifies that "interpretation of this Constitution" also covers, where relevant, the **Government of India Act, 1935** and the **Indian Independence Act (अधिनियम), 1947**.
 
 **Language (Art. 348):** until Parliament otherwise provides, **English** is the language of the SC and of every HC. A Governor, with the President’s prior consent, may authorise **Hindi** (or the official State language) in HC proceedings; judgments still have an English version.
 
@@ -261,7 +261,7 @@ Which Article of the Constitution provides for the establishment of the Supreme 
 A. Article 124
 B. Article 214
 C. Article 226
-D. Article 356
+D. Article 356 (अनुच्छेद 356)
 
 <details>
 <summary>Show answer</summary>
@@ -288,7 +288,7 @@ D. The Prime Minister
 
 ### Qualifications (Art. 124(3))
 Citizen of India **and** any **one** of:
-1. **High Court judge** for at least **5 years** (in succession), **or**
+1. **High Court judge** for at least **5 years** (in succession (उत्तराधिकार क्रम)), **or**
 2. **Advocate of a High Court** for at least **10 years** (in succession), **or**
 3. a **distinguished jurist** in the President’s opinion.
 
@@ -298,9 +298,9 @@ Citizen of India **and** any **one** of:
 
 ## Appointment & Collegium — Judges Cases
 
-**Pre-Constitution seed:** The **Sapru Committee** (Sir Tej Bahadur Sapru, **1945**, Non-Party Conference) published recommendations on appointing Supreme Court and High Court judges; those ideas fed into the Constitution’s appointment scheme.
+**Pre-Constitution seed:** The **Sapru Committee** (Sir Tej (उष्णकटिबंधीय पूर्वी जेट) Bahadur Sapru, **1945**, Non-Party Conference) published recommendations on appointing Supreme Court and High Court judges; those ideas fed into the Constitution’s appointment scheme.
 
-**Text of Art. 124(2):** every SC judge is appointed by the **President** (warrant under hand and seal) after **consultation** with such SC/HC judges as he deems necessary. For a judge other than the CJI, the **CJI must always be consulted**.
+**Text of Art. 124(2):** every SC judge is appointed by the **President** (warrant under hand and seal (मुद्रा)) after **consultation** with such SC/HC judges as he deems necessary. For a judge other than the CJI, the **CJI must always be consulted**.
 
 “Consultation” was defined by case law — **not** by the original text. The Collegium is **extra-constitutional** (judge-made).
 
@@ -335,7 +335,7 @@ Citizen of India **and** any **one** of:
 - Two **senior-most Supreme Court judges** were ex officio members.
 - The Union **Law Minister** was an ex officio member.
 - Two **eminent persons** were nominated by a committee of the PM, the CJI, and the Leader of Opposition in the Lok Sabha (or the leader of the largest opposition party).
-- **One** of these two eminent persons had to be from the SC/ST/OBC/Minority/**Women** categories.
+- **One** of these two eminent persons had to be from the SC/ST/OBC (अन्य पिछड़ा वर्ग)/Minority/**Women** categories.
 - An eminent person's tenure was **3 years**, with no re-nomination.
 - If **any two** members disagreed with a recommendation, the appointment was **not** made — this was the NJAC's veto rule.
 
@@ -370,14 +370,14 @@ Same process for **SC and HC**. Popularly “impeachment”; constitutionally it
 - The Speaker or the Chairman may **admit or refuse** that motion.
 - If admitted, a **3-member inquiry committee** is formed: an **SC judge**, a **High Court Chief Justice**, and a **distinguished jurist**.
 - If this committee **clears** the judge, the motion automatically **drops**.
-- If the committee finds the judge guilty, each House must pass the address by a **special majority** — a majority of the **total membership** (सदन की कुल सदस्य संख्या का) plus **two-thirds of members present and voting**.
+- If the committee finds the judge guilty, each House must pass the address by a **special majority** — a majority of the **total membership** (सदन की कुल सदस्य संख्या का) plus **two-thirds (ते-भागा) of members present and voting (गणपूर्ति)**.
 - This special-majority formula is the **same** as Art. 368's first limb, but a judge's removal is **not** a constitutional amendment and needs no State ratification.
 - Both Houses must pass the address in the **same session**.
 - The **President** then issues the actual order of removal.
 - Since **1997**, the judiciary also runs an **in-house inquiry** for misconduct that falls short of removal; this process is not in the Constitution.
 
 **No judge has ever actually been removed by this procedure.**
-- **V. Ramaswami** (1993): the inquiry committee found him guilty, but the Lok Sabha motion **failed** because the Congress party abstained.
+- **V. Ramaswami** (1993): the inquiry committee found him guilty, but the Lok Sabha motion **failed** because the Congress (कांग्रेस) party abstained.
 - **Soumitra Sen** (Calcutta HC, 2011): the Rajya Sabha **passed** the motion, but he **resigned** before the Lok Sabha could vote.
 - **CJI Dipak Misra** (2018): a Rajya Sabha notice was moved, but the Vice-President as Chairman **did not admit** it.
 
@@ -400,7 +400,7 @@ Constitutional shields so the executive cannot pack, starve, or discuss the cour
 - That salary cannot be reduced to the judge's disadvantage after appointment.
 - The only exception is a **Financial Emergency under Art. 360**.
 
-**Charged expenditure**
+**Charged expenditure** (भारित)
 - The salaries of Supreme Court judges, and the Court's administrative expenses under **Art. 146**, are charged on the **Consolidated Fund of India** (भारत की संचित निधि).
 - The salaries of High Court judges are charged on the **Consolidated Fund of the State**.
 - Under **Art. 221**, the pensions of High Court judges are charged on the **Consolidated Fund of India**.
@@ -414,7 +414,7 @@ Constitutional shields so the executive cannot pack, starve, or discuss the cour
 - Under **Art. 124(7)**, a retired Supreme Court judge cannot plead or act before **any court or authority in India**.
 - Under **Art. 220**, a retired High Court judge cannot practise before that **same** High Court or the courts subordinate to it.
 - A retired High Court judge **may** practise before the Supreme Court and other High Courts.
-- The **7th Amendment** replaced what had earlier been an absolute ban on a retired High Court judge's practice.
+- The **7th Amendment** replaced what had earlier been an absolute (निरपेक्ष) ban on a retired High Court judge's practice.
 
 **Contempt power**
 - The Supreme Court can punish for contempt of itself under **Art. 129**.
@@ -497,11 +497,11 @@ D. Neither 1 nor 2
 
 ### 2. Writ — Art. 32
 - Art. 32 is itself a **Fundamental Right** — the right to move the Supreme Court for enforcing other FRs.
-- The Supreme Court's five writs under Art. 32 are available **for Fundamental Right enforcement only**.
+- The Supreme Court's five writs (पाँच प्रकार की रिटें) under Art. 32 are available **for Fundamental Right enforcement only**.
 - Under **32(3)**, Parliament may empower **any other court** to issue these same writs within its local limits — this power is rarely used.
 - Under **32(4)**, this right **shall not be suspended** except as the Constitution otherwise provides (that is, under **Art. 359**).
 - **Art. 32** covers Fundamental Rights only; **Art. 226** additionally covers any other legal right.
-- The **five writs** are: Habeas Corpus, Mandamus, Prohibition, Certiorari, and Quo Warranto.
+- The **five writs** are: Habeas Corpus (बन्दी प्रत्यक्षीकरण), Mandamus (परमादेश), Prohibition (प्रतिषेध), Certiorari (उत्प्रेषण), and Quo Warranto (अधिकार-पृच्छा).
 
 **PYQ — UPPCS Prelims 2023, Q11**
 
@@ -572,7 +572,7 @@ D. Neither 1 nor 2
 - Under **Art. 139**, Parliament may confer on the Supreme Court the power to issue writs for purposes other than Fundamental Rights.
 - Under **Art. 140**, Parliament may grant the Supreme Court powers supplemental to its existing jurisdiction.
 - Under **Art. 139A** (44th Amendment), the Supreme Court may transfer High Court cases that involve the **same question of law**.
-- Under **Art. 317**, the President removes a **UPSC or SPSC** member only **after an inquiry by the Supreme Court** — this is not "impeachment".
+- Under **Art. 317**, the President removes a **UPSC (संघ लोक सेवा आयोग) or SPSC** member only **after an inquiry by the Supreme Court** — this is not "impeachment".
 - Under **Art. 329** and the Representation of the People Act, election petitions for an **MP or MLA** lie in the **High Court**, **not** the Supreme Court.
 - Only **President and Vice-President** elections are decided as the Supreme Court's original jurisdiction, under **Art. 71**.
 
@@ -610,7 +610,7 @@ D. (A) is false, but (R) is true
 
 The Supreme Court of India enunciated the doctrine of “Basic Structure of the Constitution” in
 
-A. Golaknath, 1967
+A. Golaknath (गोलकनाथ 1967), 1967
 B. *Kesavananda Bharati*, 1973
 C. Shankari Prasad, 1951
 D. Sajjan Singh, 1965
@@ -687,13 +687,13 @@ D. Sajjan Singh, 1965
 - By convention, the Chief Justice of a High Court is an **outsider** brought in by transfer.
 - Even a transferred Chief Justice still takes oath before the **Governor of that State**.
 
-**Chartered High Courts (Indian High Courts Act, 1861 → Letters Patent 1862) — oldest three, with original civil jurisdiction inside the presidency town:Calcutta, Bombay, Madras** (all **1862**). Calcutta is the **first** (1 July 1862).
+**Chartered High Courts (Indian High Courts Act, 1861 → Letters Patent 1862) — oldest three, with original civil jurisdiction inside the presidency (प्रेसीडेंसी) town:Calcutta, Bombay, Madras** (all **1862**). Calcutta is the **first** (1 July 1862).
 
 ### Common / shared High Courts
 
 - **Punjab & Haryana** (Chandigarh): Punjab, Haryana, **Chandigarh**.
-- **Bombay:** Maharashtra, **Goa**, Dadra & Nagar Haveli and Daman & Diu.
-- **Calcutta:** West Bengal, **Andaman & Nicobar**.
+- **Bombay:** Maharashtra, **Goa** (गोवा), Dadra (दादरा) & Nagar Haveli and Daman & Diu.
+- **Calcutta:** West Bengal, **Andaman (अंडमान) & Nicobar (निकोबार)**.
 - **Madras:** Tamil Nadu, **Puducherry**.
 - **Kerala** (Ernakulam): Kerala, **Lakshadweep** (लक्षद्वीप).
 - **Gauhati:** Assam, **Nagaland, Mizoram, Arunachal Pradesh**.
@@ -702,18 +702,18 @@ D. Sajjan Singh, 1965
 ### Establishment years (match-list)
 
 - **Calcutta / Bombay / Madras:1862** — Kolkata / Mumbai / Chennai.
-- **Allahabad:1866** — Prayagraj.
-- **Karnataka (Mysore):** 1884 — Bengaluru.
-- **Patna:** 1916 — Patna.
+- **Allahabad:1866** — Prayagraj (प्रयागराज).
+- **Karnataka (Mysore (मैसूर)):** 1884 — Bengaluru.
+- **Patna (पटना):** 1916 — Patna.
 - **J&K:** 1928 — Srinagar / Jammu.
 - **Rajasthan:** 1949 — Jodhpur (Jaipur bench).
-- **Gujarat:** 1960 — Ahmedabad.
+- **Gujarat:** 1960 — Ahmedabad (अहमदाबाद).
 - **Delhi:1966** — New Delhi (UT HC).
 - **HP:** 1971 — Shimla.
 - **Sikkim:** 1975 — Gangtok.
-- **Chhattisgarh / Uttarakhand / Jharkhand:2000** — Bilaspur / Nainital / Ranchi.
+- **Chhattisgarh / Uttarakhand (उत्तराखंड) / Jharkhand:2000** — Bilaspur / Nainital (नैनीताल) / Ranchi.
 - **Manipur / Meghalaya / Tripura:2013** — Imphal / Shillong / Agartala.
-- **Andhra Pradesh & Telangana (split):2019** — Amaravati / Hyderabad.
+- **Andhra Pradesh & Telangana (split):2019** — Amaravati (अमरावती) / Hyderabad (हैदराबाद).
 
 ---
 
@@ -723,7 +723,7 @@ D. Sajjan Singh, 1965
 
 - The **Indian High Courts Act, 1861** was the enabling statute; the actual **Letters Patent** for this HC were issued on **17 March 1866**.
 - Its birth name was the **High Court of Judicature for the North-Western Provinces**.
-- Its **first seat** was at **Agra** (आगरा) (1866), replacing the old **Sadr Diwani Adalat**.
+- Its **first seat** was at **Agra** (आगरा) (1866), replacing the old **Sadr (सद्र) Diwani (दीवानी) Adalat**.
 - The seat **shifted to Allahabad in 1869**.
 - It took the name **"High Court of Judicature at Allahabad"** under a supplementary Letters Patent in **1919**.
 - Its **first Chief Justice** was Sir **Walter Morgan**.
@@ -743,7 +743,7 @@ D. Sajjan Singh, 1965
 **226 is the engine**; **227** is superintendence — neither is a substitute for appeal.
 
 - Under **Art. 225**, along with its charter or statute, a **Chartered High Court** has **original civil jurisdiction** for its presidency town.
-- This original jurisdiction also covers company matters, matrimonial cases, admiralty, and contempt.
+- This original jurisdiction also covers company (कंपनी) matters, matrimonial cases, admiralty, and contempt.
 - The biggest slice of original jurisdiction is the **writ power under Art. 226**.
 - Under **Art. 226**, a High Court can issue writs for enforcing **Fundamental Rights, and for any other legal right**.
 - This writ jurisdiction is **discretionary** — the HC may refuse relief for laches or if an alternative remedy exists.
@@ -828,7 +828,7 @@ Power of courts to test **constitutionality** of legislative and executive actio
 
 - ***Kesavananda Bharati* (1973)** held that even **constitutional amendments** are subject to judicial review under the basic structure doctrine.
 - ***Minerva Mills* (1980)** held that judicial review is **itself part of the basic structure**, and struck down the 42nd Amendment's over-reaching **Art. 31C**.
-- ***I.R. Coelho* (2007)** held that laws placed in the **9th Schedule** after **24 April 1973** remain open to judicial review if they damage the basic structure.
+- ***I.R. Coelho* (2007)** held that laws placed in the **9th Schedule** (9वीं अनुसूची) after **24 April 1973** remain open to judicial review if they damage the basic structure.
 - ***S.P. Sampath Kumar* (1987)** upheld the CAT and treated it as an **effective substitute** for the High Court — tribunal order could go **directly to the SC**, skipping the HC.
 - ***L. Chandra Kumar* (1997)** overruled that substitute theory.
 - The Court held that **HC power under Arts. 226/227 over tribunals is part of the basic structure** and cannot be excluded.
@@ -838,7 +838,7 @@ Power of courts to test **constitutionality** of legislative and executive actio
 
 **PYQ — UPPCS Prelims 2020, Q126Assertion (A):** Indian federalism is called ‘Quasi-federal’.
 
-**Reason (R):** India has an independent judiciary with power of Judicial Review.
+**Reason (R):** India has an independent judiciary (स्वतंत्र) with power of Judicial Review.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
@@ -861,10 +861,10 @@ Term **“judicial activism”**: Arthur **Schlesinger Jr., 1947** (USA). In Ind
 | | **Activism** | **Restraint** | **Overreach** |
 |--|--------------|---------------|---------------|
 | Meaning | Court fills a **gap** where the other organs have failed | Court **defers**; decides only what is necessary | Court **takes over** legislative/executive policy |
-| Vehicle | PIL, 142, expansive **21** | Literal reading; *A.K. Gopalan* | Continuing mandamus that runs a ministry |
+| Vehicle | PIL, 142, expansive **21** | Literal reading (रीडिंग); *A.K. Gopalan* | Continuing mandamus that runs a ministry |
 | Examples | *Maneka*; *Hussainara*; *Vishaka*; *M.C. Mehta*; *Olga Tellis* | Refusal to rewrite a tax statute | Highway liquor ban / some firecracker / anthem directions (criticised as policy) |
 
-**Art. 21 expansions that are activism-facts (match):** speedy trial · legal aid · livelihood (*Olga Tellis*) · privacy (*Puttaswamy*) · clean environment (*M.C. Mehta*) · dignity · emergency medical care (*Parmanand Katara*).
+**Art. 21 expansions that are activism-facts (match):** speedy trial · legal aid · livelihood (*Olga Tellis*) · privacy (*Puttaswamy*) · clean environment (पर्यावरण) (*M.C. Mehta*) · dignity · emergency medical care (*Parmanand Katara*).
 
 > **Logic:** Activism can be **constitutional** (enforcing FRs). Overreach is activism that **violates separation of powers**. Restraint is a **doctrine of self-limit**, not an article. *ADM Jabalpur* is **bad restraint** (Emergency habeas).
 
@@ -887,7 +887,7 @@ Term **“judicial activism”**: Arthur **Schlesinger Jr., 1947** (USA). In Ind
 **Features (raata)**
 1. Relaxed locus standi.
 2. Epistolary + **suo motu**.
-3. Inquisitorial (commissions, NHRC, CPCB reports).
+3. Inquisitorial (commissions, NHRC (राष्ट्रीय मानव अधिकार आयोग), CPCB (केंद्रीय प्रदूषण नियंत्रण बोर्ड) reports).
 4. Preventive **and** remedial.
 5. Directed at **public injury**, not private gain.
 6. Court may appoint **amicus curiae**.
@@ -903,11 +903,11 @@ Personal / political / publicity interest · landlord–tenant · service matter
 - ***Sunil Batra* (1978/80)** dealt with prisoners' rights.
 - ***PUDR* (Asiad workers, 1982)** dealt with bonded and contract labour.
 - ***S.P. Gupta* (1981)** held that **any member of the public** with **sufficient interest** can move the court in a PIL.
-- ***Bandhua Mukti Morcha* (1984)** dealt with bonded labour.
+- ***Bandhua Mukti Morcha* (1984)** dealt with bonded labour (बंधुआ मज़दूरी).
 - This case also confirmed that even a **letter** can be treated as a petition.
 - ***Olga Tellis* (1985)** was about the livelihood rights of pavement dwellers.
 - ***Sheela Barse* (1983)** was about the condition of women prisoners.
-- ***M.C. Mehta*** (Oleum gas leak, Ganga pollution, Taj Mahal, CNG — from **1986** onward) is a family of PILs on the **environment**.
+- ***M.C. Mehta*** (Oleum gas leak, Ganga (गंगा) pollution, Taj Mahal (ताज महल), CNG — from **1986** onward) is a family of PILs on the **environment**.
 - These *M.C. Mehta* cases developed the doctrine of **absolute liability**.
 - They also entrenched the **polluter pays** principle.
 - ***Vishaka* (1997)** laid down guidelines against workplace sexual harassment, to hold **until a statute** was enacted.
@@ -974,12 +974,12 @@ Firsts are match-list bait — **Fathima = SC, not Kerala Governor**.
 - **First woman district judge:Anna Chandy** (Travancore, **1937**).
 - **First woman HC judge:Anna Chandy** (Kerala HC, **1959**).
 - **First woman SC judge:M. Fathima Beevi** (elevated from Kerala HC, **6 Oct 1989**). First **Muslim** woman in the higher judiciary.
-- **First woman Chief Justice of an HC:Leila Seth** (Himachal Pradesh, **1991**).
+- **First woman Chief Justice of an HC:Leila Seth** (Himachal (हिमाचल) Pradesh, **1991**).
 - **First woman elevated from the Bar to the SC:Indu Malhotra** (**2018**).
 - **First woman CJI:none yet** (Aug 2026). B.V. Nagarathna is in line for a short **2027** tenure — do not write a name as “first CJI”.
 - **Fathima Beevi — Governor:Tamil Nadu 1997–2001** — **not Kerala**. Died **2023**.
 
-**CJI firsts (match):** first CJI **H.J. Kania** · first Dalit **K.G. Balakrishnan** · first Sikh **J.S. Khehar**.
+**CJI firsts (match):** first CJI **H.J. Kania** · first Dalit (दलित) **K.G. Balakrishnan** · first Sikh **J.S. Khehar**.
 
 **PYQ — UPPCS Prelims 2024, Q144**
 
@@ -1014,7 +1014,7 @@ D. 1, 2 and 3
 - A **promotee** from the judicial service does **not** need this 7-year Bar requirement.
 - **Art. 233A**, inserted by the **20th Amendment (1966)**, **validated** certain earlier district-judge appointments that had been made without proper HC consultation.
 - **Art. 234** governs recruitment to the **State judicial service**, for posts below district judge.
-- This recruitment is by the **Governor**, after consulting the **High Court and the State Public Service Commission**.
+- This recruitment is by the **Governor**, after consulting the **High Court and the State Public Service Commission (राज्य लोक सेवा आयोग)**.
 - In practice, this service has two entry streams: **direct recruitment from the Bar** and **promotion** from within the service.
 - **Art. 235** vests **control** over district courts and the courts subordinate to them in the **High Court**.
 - This HC control covers posting, promotion, leave, transfer, and discipline of district judges and of the judicial service below them.
@@ -1046,7 +1046,7 @@ SC
 
 ### Family Courts Act, **1984**
 - A Family Court is set up by the **State Government**, in consultation with the **High Court**.
-- Every district with a population of **1 million or more** *shall* have a Family Court; others *may* have one.
+- Every district with a population (जनसंख्या) of **1 million or more** *shall* have a Family Court; others *may* have one.
 - A Family Court handles marriage, divorce, custody, maintenance, and property disputes between spouses.
 - It must attempt **conciliation first**, before a regular trial.
 - It is **not bound** by the strict procedure of the CPC, and counsellors sit with the judge.
@@ -1074,7 +1074,7 @@ Why tribunals: specialised, faster, take load off HCs. They are **not** a parall
 |--|---------------|---------------|
 | Subject | **Administrative** tribunals — Union / State **public services** | **Other** tribunals |
 | Who may legislate | **Only Parliament** | **Parliament or a State legislature** (for matters in its list) |
-| Coverage | Service matters of persons appointed to Union/State public services and posts | **Full 323B list:** levy/collection/enforcement of any **tax**; foreign exchange / import-export; **industrial and labour**; **land reforms**; urban ceiling; **elections to the legislature** (not President/VP/MP election-petitions under 71/329); production/supply of **foodstuffs** and other essential goods; rent/tenancy of urban property; and connected offences |
+| Coverage | Service matters of persons appointed to Union/State public services and posts | **Full 323B list:** levy/collection/enforcement of any **tax**; foreign exchange / import-export; **industrial and labour**; **land reforms**; urban (नगरीय) ceiling; **elections to the legislature** (not President/VP/MP election-petitions under 71/329); production/supply of **foodstuffs** and other essential goods; rent/tenancy of urban property; and connected offences |
 | Text on courts | May exclude **all courts except the SC** | Same in the text |
 | After *L. Chandra Kumar* | Exclusion of **HC (226/227) is void**. Tribunal = **court of first instance** → HC **Division Bench** → SC | Same logic |
 
@@ -1124,7 +1124,7 @@ Why tribunals: specialised, faster, take load off HCs. They are **not** a parall
 
 - **ITAT (Income Tax):1941** — oldest; 323B tax.
 - **CAT:** Administrative Tribunals Act **1985** (323A).
-- **NGT:National Green Tribunal Act, 2010**. Principal Bench **Delhi**; others Pune, Bhopal, Chennai, Kolkata. Chairperson = SC/HC judge.
+- **NGT:National Green Tribunal Act, 2010**. Principal Bench **Delhi**; others Pune (पुणे), Bhopal, Chennai, Kolkata. Chairperson = SC/HC judge.
 - **AFT:Armed Forces Tribunal Act, 2007** — the reason CAT **excludes** armed forces. Appeal to SC.
 - **NCLT / NCLAT:** Companies Act; NCLT from **2016**. Company law + IBC.
 - **DRT / DRAT:** Recovery of Debts (banks/FIs), **1993**.
@@ -1136,7 +1136,7 @@ Why tribunals: specialised, faster, take load off HCs. They are **not** a parall
 Which among the following (Provision — Part of the Constitution) is **not** correctly matched?
 
 A. The Union Territories — Part VIII
-B. The Scheduled and Tribal Areas — Part X
+B. The Scheduled and Tribal (आदिवासी) Areas — Part X
 C. Tribunals — Part XI
 D. Official Language — Part XVII
 
@@ -1152,9 +1152,9 @@ D. Official Language — Part XVII
 Which one of the following pairs is NOT correctly matched?
 
 A. Interstate Council – Article 263
-B. Finance Commission – Article 280
+B. Finance Commission (वित्त आयोग) – Article 280
 C. Administrative Tribunal – Article 323A
-D. Union Public Service Commission – Article 315
+D. Union Public Service Commission (संघ लोक सेवा आयोग) – Article 315
 
 <details>
 <summary>Show answer</summary>
@@ -1195,7 +1195,7 @@ D. Union Public Service Commission – Article 315
 
 ### Gram Nyayalaya (Gram Nyayalayas Act, **2008**)
 
-A **court** at the intermediate-Panchayat HQ — **not** a Gram Panchayat / Nyaya Panchayat.
+A **court** at the intermediate-Panchayat HQ — **not** a Gram Panchayat / Nyaya (न्याय) Panchayat.
 
 - The Gram Nyayalaya idea came from the Law Commission's **114th Report**, aimed at justice at the doorstep under **Art. 39A**.
 - The **Gram Nyayalayas Act, 2008** came into force on **2 October 2009**.
@@ -1216,7 +1216,7 @@ A **court** at the intermediate-Panchayat HQ — **not** a Gram Panchayat / Nyay
 - Fast Track Courts are **not** a constitutional creation.
 - Their judges are usually **additional district or sessions judges** appointed under the scheme.
 - Several States have **continued** these courts even after the Finance Commission funding period ended.
-- Later, dedicated **Fast Track Special Courts (FTSCs)** were set up from **2019** for **rape and POCSO** cases, funded through the Department of Justice and the Nirbhaya Fund.
+- Later, dedicated **Fast Track Special Courts (FTSCs)** were set up from **2019** for **rape and POCSO (पॉक्सो)** cases, funded through the Department of Justice and the Nirbhaya Fund.
 
 ---
 
@@ -1234,7 +1234,7 @@ A **court** at the intermediate-Panchayat HQ — **not** a Gram Panchayat / Nyay
 - An honest **apology** may purge the contempt and avoid punishment.
 - Under **section 20**, no contempt proceeding can be started after **one year** from the date of the alleged act.
 - Under **section 15**, a court may take cognizance of criminal contempt **suo motu**.
-- It may also act on a motion by the Attorney General or Solicitor General (for the Supreme Court) or the Advocate General (for a High Court).
+- It may also act on a motion by the Attorney General or Solicitor General (for the Supreme Court) or the Advocate General (महाधिवक्ता) (for a High Court).
 - It may also act on a motion by any other person, but only **with the written consent** of that law officer.
 - **Suo motu** cognizance needs **no** such consent.
 - The **2006 Amendment** made **truth** a valid defence, if it is in the **public interest** and stated in good faith.
@@ -1261,7 +1261,7 @@ A **court** at the intermediate-Panchayat HQ — **not** a Gram Panchayat / Nyay
 
 - In **negotiation**, the parties themselves reach an agreement, which binds them only once they sign it.
 - In **mediation**, a neutral third party **facilitates** a settlement but does **not** impose one; the **Mediation Act, 2023** now gives such a settlement agreement statutory force.
-- In **conciliation**, the neutral third party **may suggest** terms of settlement, under Part III of the **1996 Act**; the resulting settlement agreement has the same status as an arbitral award on agreed terms.
+- In **conciliation**, the neutral third party **may suggest** terms of settlement, under Part III (मौलिक अधिकार) of the **1996 Act**; the resulting settlement agreement has the same status as an arbitral award on agreed terms.
 - In **arbitration**, the arbitrator actually **adjudicates** the dispute.
 - The resulting **arbitral award** has the force of a court **decree**, under the **Arbitration and Conciliation Act, 1996** (based on the UNCITRAL model), as amended in 2015, 2019 and 2021.
 - A regular **Lok Adalat** works only by **compromise**; a **Permanent Lok Adalat** can decide on **merits**. Either way, the result is a decree with **no appeal**.

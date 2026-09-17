@@ -1,13 +1,13 @@
-# Topic 5 — Fundamental Rights & Duties
+# Topic 5 — Fundamental Rights (मौलिक अधिकार) & Duties
 
 ### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥50)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-**Fundamental Rights:** Overview | Art. 12 State | Art. 13 | Equality (14–18) | Freedom (19) | Reasonable restrictions | Exploitation (23–24) | Conviction (20) | Life & liberty (21) | Privacy | RTE (21A) | Arrest & PD (22) | Religion (25–28) | Culture & education (29–30) | Remedies (32/226) | Writs | Property (300A) | Emergency suspension | Eclipse / Severability / Waiver | FR vs DPSP
+**Fundamental Rights:** Overview | Art. 12 State | Art. 13 | Equality (14–18) | Freedom (19) | Reasonable restrictions | Exploitation (23–24) | Conviction (20) | Life & liberty (21) | Privacy | RTE (21A) | Arrest & PD (22) | Religion (25–28) | Culture & education (29–30) | Remedies (32/226) | Writs | Property (300A) | Emergency suspension | Eclipse / Severability / Waiver | FR vs DPSP (राज्य के नीति निदेशक तत्व)
 
-**DPSP & Duties:** DPSP 36–51 | Socialist / Gandhian / Liberal–Intellectual | UCC (44) | FR–DPSP conflict | Duties 51A | 42nd & 86th facts
+**DPSP & Duties:** DPSP 36–51 | Socialist / Gandhian / Liberal–Intellectual | UCC (44) | FR–DPSP conflict | Duties 51A | 42nd (42वां) & 86th facts
 
 </details>
 
@@ -20,34 +20,34 @@
 
 ## Consolidated — 30 Must-Score Facts
 
-1. **Part III (Articles 12–35)** holds Fundamental Rights. They are **justiciable**. Part III is called the **Magna Carta of India**. Originally there were **seven** groups; after the **44th Amendment (1978)** removed the Right to Property, **six** groups remain. Pre-1950 demand spine: **1895** Tilak Bill → **Nehru Report 1928** → **Karachi 1931** (Patel).
+1. **Part III (मौलिक अधिकार) (Articles 12–35)** holds Fundamental Rights. They are **justiciable**. Part III is called the **Magna Carta of India**. Originally there were **seven** groups; after the **44th (44वां संशोधन) Amendment (1978)** removed the Right to Property, **six** groups remain. Pre-1950 demand spine: **1895** Tilak (तिलक) Bill → **Nehru (नेहरू) Report (नेहरू रिपोर्ट) 1928** (नेहरू रिपोर्ट) → **Karachi 1931** (Patel).
 2. **Article 12** defines **State** for Part III (Union and State governments and legislatures, local authorities, and other authorities under the instrumentality test).
 3. Rights available only to **citizens**: **Articles 15, 16, 19, 29 and 30**. Rights available to **all persons** (citizens and foreigners): **14, 20, 21, 21A, 22, 23, 24, 25–28 and 32**.
 4. **Article 14** (equality before law / equal protection) covers **any person**. **Article 16** (equality of opportunity in public employment) covers **citizens only**.
 5. Reservation / special-provision facts: **15(4)** is the first explicit special provision; **15(5)** is the **93rd**; **15(6) / 16(6)** are the **103rd** (EWS). Promotion facts include **16(4A)** (**77th**) and **16(4B)** (**81st** / related **85th** teaching).
-6. **Article 17** abolishes **untouchability** (absolute equality fact). **Article 18** bans titles; national awards such as **Bharat Ratna** are **not** “titles” in that sense.
+6. **Article 17** abolishes **untouchability** (absolute (निरपेक्ष) equality fact). **Article 18** bans titles; national awards such as **Bharat Ratna** (भारत रत्न) are **not** “titles” in that sense.
 7. **Article 19** gives **six** freedoms to **citizens**. The old property freedom **19(1)(f)** was deleted by the **44th Amendment** (44वां संशोधन); property now sits as a **legal right** under **Article 300A**.
 8. The six freedoms are speech and expression, assembly, association (cooperatives reinforced by the **97th**), movement, residence, and profession — each with reasonable restrictions under **19(2)–(6)**.
 9. **Article 20** protects **all persons** against ex post facto criminal law, double jeopardy, and self-incrimination. Torture and privacy questions are **not** solved only by Article 20.
-10. **Article 21** (अनुच्छेद 21) protects life and personal liberty for **all persons**. After *Maneka Gandhi*, procedure must be **fair, just and reasonable**. **Privacy** was treated as a Fundamental Right in ***Puttaswamy* (2017)**.
+10. **Article 21** (अनुच्छेद 21) protects life and personal liberty for **all persons**. After *Maneka Gandhi (गांधी)*, procedure (प्रक्रिया) must be **fair, just and reasonable**. **Privacy** was treated as a Fundamental Right in ***Puttaswamy* (2017)**.
 11. **Article 21A** (Right to Education) covers free and compulsory education for ages **6–14**, inserted by the **86th Amendment**. Do not stretch 21A to every age group.
 12. **Article 22**: ordinary arrest needs production before a magistrate within **24 hours**. Preventive detention has a separate code (Advisory Board and three-month rhythm in the usual teaching).
-13. **Articles 23–24** are rights against **exploitation** (begar, trafficking, child labour under 14 in hazardous work). Do not park untouchability here — that is **Article 17** under equality.
+13. **Articles 23–24** are rights against **exploitation** (begar (बेगार), trafficking, child labour under 14 in hazardous work). Do not park untouchability here — that is **Article 17** under equality.
 14. Religion cluster **25–28**: **25** includes the right to **propagate**; **26** is to manage religious affairs; **27** bars a **tax** for promotion of a religion (a regulatory **fee** is different); **28** covers religious instruction in certain institutions.
 15. **Article 29** protects culture of **any section** of citizens. **Article 30** protects **minorities**’ right to establish and administer educational institutions. “Minority” is not exhaustively defined in the text (*T.M.A. Pai* line).
-16. **Article 32** (अनुच्छेद 32) is the Supreme Court writ remedy for **Fundamental Rights only** — Ambedkar’s “heart and soul.” **Article 226** is **wider**: Fundamental Rights **plus** other legal rights.
+16. **Article 32** (अनुच्छेद 32) is the Supreme Court writ remedy for **Fundamental Rights only** — Ambedkar (अम्बेडकर)’s “heart and soul.” **Article 226** is **wider**: Fundamental Rights **plus** other legal rights.
 17. Five writs (पाँच प्रकार की रिटें): **Habeas Corpus** (बन्दी प्रत्यक्षीकरण), **Mandamus** (परमादेश), **Prohibition** (प्रतिषेध), **Certiorari** (उत्प्रेषण), **Quo Warranto** (अधिकार-पृच्छा). **Prohibition** comes **before** the decision; **Certiorari** comes **after** to quash. Mandamus does **not** run against the President or a Governor in the usual fact.
 18. High Court Habeas Corpus can reach even a **private** person in the classic teaching. Quo Warranto tests illegal occupation of a **public office**.
-19. Under a National Emergency, **Article 358** automatically suspends **Article 19** freedoms (subject to later refinements). **Article 359** can suspend enforcement of other rights by order, but **Articles 20 and 21** cannot be suspended.
-20. **DPSP** (राज्य के नीति निदेशक तत्व) sit in **Part IV (Articles 36–51)**, borrowed in form from **Ireland**, and are **non-justiciable** (**Article 37**) though fundamental in governance.
-21. High-yield DPSP map: **39A** legal aid; **40** village panchayats; **43A** workers’ participation; **43B** cooperatives (**97th**); **44** Uniform Civil Code; **45** early childhood care (under-6 after 86th shift); **48A** environment; **50** separation of judiciary; **51** international peace.
+19. Under a National Emergency (राष्ट्रीय आपात), **Article 358** automatically suspends **Article 19** freedoms (subject to later refinements). **Article 359** can suspend enforcement of other rights by order, but **Articles 20 and 21** cannot be suspended.
+20. **DPSP** (राज्य के नीति निदेशक तत्व) sit in **Part IV (नीति निर्देशक) (Articles 36–51)**, borrowed in form from **Ireland**, and are **non-justiciable** (**Article 37**) though fundamental in governance.
+21. High-yield DPSP map: **39A** legal aid; **40** village panchayats; **43A** workers’ participation; **43B** cooperatives (**97th**); **44** Uniform Civil Code; **45** early childhood care (under-6 after 86th shift); **48A** environment (पर्यावरण); **50** separation of judiciary; **51** international peace.
 22. Do not swap **43A** (workers) with **43B** (cooperatives), or **48** (cattle / agriculture) with **50** (separation of judiciary).
 23. **Fundamental Duties** (मौलिक कर्तव्य) sit in **Part IVA, Article 51A**, added by the **42nd Amendment (1976)** — originally **10**, raised to **11** by the **86th** (**51A(k)** education of child). Duties bind **citizens**.
 24. **Article 51A(g)** (protect environment) pairs with DPSP **48A** — same idea in two Parts.
 25. Fundamental Rights are justiciable (USA-style Bill of Rights form); DPSP are non-justiciable (Ireland-style directives). Conflict cases later balanced them without erasing either Part.
 26. **Article 13** voids inconsistent laws. Constitutional amendments sit outside via **13(4)** after the **24th Amendment**. Doctrines: eclipse, severability, and generally **no waiver** of Fundamental Rights.
 27. Exceptions to equality include **Article 361** immunities of the President and Governors — Article 14 does not apply fully to those official-act shields.
-28. S. Radhakrishnan’s Constituent Assembly line: Fundamental Rights are “a **pledge** to our people and a **pact** with the civilized world.”
+28. S. Radhakrishnan’s Constituent Assembly (संविधान सभा) line: Fundamental Rights are “a **pledge** to our people and a **pact** with the civilized world.”
 29. Some rights (notably **17, 23, 24**) also bind private persons; most Part III rights primarily bind the **State** under Article 12.
 30. Property is **not** a Fundamental Right after the 44th; it is a **constitutional legal right** under **300A** — State can deprive only by authority of law.
 
@@ -126,11 +126,11 @@
 ## N.1 Fundamental Rights — overview
 
 - **Part III, Arts. 12–35.** Justiciable (courts enforce). Part III is often called the **Magna Carta of India**. Form is compared with the **US Bill of Rights**.
-- Pre-Independence demands: the **Constitution of India Bill, 1895** (Tilak-inspired) is treated as the first explicit FR demand; the **Motilal Nehru Report (1928)** sought inalienable FRs; the **Karachi Congress (1931)** under **Sardar Patel** (सरदार पटेल) adopted the FR and National Economic Programme resolutions.
+- Pre-Independence demands: the **Constitution of India Bill, 1895** (Tilak-inspired) is treated as the first explicit FR demand; the **Motilal Nehru Report (1928)** sought inalienable FRs; the **Karachi Congress (कांग्रेस) (1931)** under **Sardar Patel** (सरदार पटेल) adopted (अंगीकृत) the FR and National Economic Programme resolutions.
 - **S. Radhakrishnan**: FRs are “a **pledge** to our people and a **pact** with the civilized world.” **Nehru** (नेहरू): an FR should be made **permanent** in the Constitution, not fixed for a passing difficulty.
 - Originally **seven** groups. **44th Amendment, 1978** removed **Right to Property** from Part III (now **Art. 300A**, legal right — see below). **Six** groups remain.
 - Bind the **State** (Art. 12). Some (e.g. 17, 23, 24) also bind private persons. They are a guarantee against **arbitrary State action**.
-- **Not absolute** — reasonable restrictions / other Part III limits. Can be amended, but **Basic Structure** cannot be destroyed (*Kesavananda*).
+- **Not absolute** — reasonable restrictions / other Part III limits. Can be amended, but **Basic Structure** cannot be destroyed (*Kesavananda* (केशवानंद भारती 1973)).
 - Enforcement (except **Arts. 20 and 21**) can be suspended during a National Emergency under **Arts. 358 / 359** (after the 44th).
 - **Art. 33–35:** Parliament may restrict FR of armed forces / police; martial-law indemnity; only Parliament legislates on certain FR punishments.
 
@@ -184,7 +184,7 @@ For Part III, **State** includes:
 - **13(1):** Pre-Constitution laws inconsistent with FR are **void to that extent**.
 - **13(2):** State shall **not make** a law that takes away / abridges FR; such law is void.
 - **13(3):** “Law” includes ordinance, order, bye-law, rule, regulation, notification, custom, usage.
-- **13(4):** Nothing in Art. 13 applies to a **constitutional amendment** under Art. 368 (inserted by **24th Amendment** after *Golaknath*).
+- **13(4):** Nothing in Art. 13 applies to a **constitutional amendment** under Art. 368 (inserted by **24th Amendment** after *Golaknath* (गोलकनाथ 1967)).
 
 > **Doctrines** of Eclipse, Severability, Waiver — see *Doctrines under Article 13* below. One-line: pre-1950 inconsistent law is *eclipsed*, not dead; valid parts of a statute can be *severed*; FRs generally **cannot be waived**.
 
@@ -255,7 +255,7 @@ D. Altering the name of a State — Power of a State Legislature
 - **15(3):** Special provision for **women and children** — valid.
 - **15(4):** Special provision for **SEBC / SC / ST** — **1st Amendment, 1951** (after *Champakam Dorairajan*).
 - **15(5):** Reservation in **aided/unaided** educational institutions except minority institutions under 30 — **93rd Amendment, 2005**.
-- **15(6):EWS** (not SC/ST/OBC) — admissions, including private unaided except minority — **103rd Amendment, 2019**; **10%**.
+- **15(6):EWS** (not SC/ST/OBC (अन्य पिछड़ा वर्ग)) — admissions, including private unaided except minority — **103rd Amendment, 2019**; **10%**.
 
 ### Art. 16 — Equality of opportunity in public employment
 
@@ -269,7 +269,7 @@ D. Altering the name of a State — Power of a State Legislature
 - **16(5):** Religious/denominational institution may reserve its offices for members of that religion/denomination.
 - **16(6):EWS** reservation in posts — **103rd, 2019**.
 
-**Mandal facts (*Indra Sawhney*, 1992):** 27% OBC; **50%** ceiling (extraordinary exceptions); **creamy layer** excluded; no reservation in **promotion** (later restored for SC/ST by 77th/85th). *Janhit Abhiyan* (2022): **EWS 10%** upheld; 50% ceiling not a bar to EWS in the same way. *M. Nagaraj* (2006) / *Jarnail Singh* (2018): SC/ST promotion reservation needs data on backwardness/representation + efficiency (Art. 335).
+**Mandal facts (*Indra (इन्द्र) Sawhney*, 1992):** 27% OBC; **50%** ceiling (extraordinary exceptions); **creamy layer** excluded; no reservation in **promotion** (later restored for SC/ST by 77th/85th). *Janhit Abhiyan* (2022): **EWS 10%** upheld; 50% ceiling not a bar to EWS in the same way. *M. Nagaraj* (2006) / *Jarnail Singh* (2018): SC/ST promotion reservation needs data on backwardness/representation + efficiency (Art. 335).
 
 ### Art. 17 — Abolition of Untouchability
 
@@ -283,7 +283,7 @@ D. Altering the name of a State — Power of a State Legislature
 - No title (except **military** or **academic**) to be conferred by the State.
 - Indian citizen shall not accept a title from a **foreign State**.
 - Foreigner holding office of profit under the State needs President’s consent for a foreign title.
-- **Bharat Ratna / Padma** awards are **not** “titles” in the Art. 18 sense (*Balaji Raghavan*, 1996) — cannot be used as prefixes/suffixes.
+- **Bharat Ratna / Padma (पद्मा)** awards are **not** “titles” in the Art. 18 sense (*Balaji Raghavan*, 1996) — cannot be used as prefixes/suffixes.
 
 ---
 
@@ -296,7 +296,7 @@ D. Altering the name of a State — Power of a State Legislature
 - **19(1)(c) Form associations / unions / co-operative societies** (97th added co-ops): **19(4)** — sovereignty & integrity; public order; **morality**.
 - **19(1)(d) Move freely throughout India:19(5)** — interests of general public; protection of **Scheduled Tribes**.
 - **19(1)(e) Reside and settle anywhere in India:19(5)** — same as movement.
-- **19(1)(g) Practise any profession, occupation, trade or business:19(6)** — general public; **professional/technical qualifications**; State may carry on a trade **to the exclusion of citizens** (State monopoly — **1st Amendment**).
+- **19(1)(g) Practise any profession, occupation, trade (पण्याध्यक्ष) or business:19(6)** — general public; **professional/technical qualifications**; State may carry on a trade **to the exclusion of citizens** (State monopoly — **1st Amendment**).
 
 **Not in Art. 19:** right to **property** (after 44th); right to **strike** (not a FR); right to **privacy** (Art. **21**, not 19).
 
@@ -323,7 +323,7 @@ D. Freedom to practise any trade or profession
 **All persons;** binds State **and private persons**; the exploitation pair is traffic/*begar* (बेगार) (23) and child labour in hazardous work (24).
 
 - **23 Traffic in human beings and *begar*:** Prohibits traffic, *begar* and similar **forced labour**. Exception: State may impose **compulsory service for public purposes** (no discrimination on religion/race/caste/class).
-- **24 Child labour (hazardous):** No child **below 14** in **factory, mine, or other hazardous employment**. Does **not** ban all child work (e.g. non-hazardous family work as statute now stands). Child Labour (Prohibition and Regulation) Act, 1986 / 2016 amendment.
+- **24 Child labour (hazardous):** No child **below 14** in **factory (फैक्टरी), mine, or other hazardous employment**. Does **not** ban all child work (e.g. non-hazardous family work as statute now stands). Child Labour (Prohibition and Regulation) Act, 1986 / 2016 amendment.
 
 **Trap list — NOT exploitation:**
 - Abolition of **untouchability** = **Art. 17** (Equality)
@@ -392,7 +392,7 @@ Right to **livelihood** (*Olga Tellis*) · **privacy** · **health** · **shelte
 ### Right to Privacy
 
 - **K.S. Puttaswamy (2017)** — **9-judge** Bench: Privacy is a **Fundamental Right** under **Art. 21** (also tracing 14/19).
-- Overruled the contrary reading of *M.P. Sharma* (1954) and *Kharak Singh* (1963) on this point.
+- Overruled the contrary reading (रीडिंग) of *M.P. Sharma* (1954) and *Kharak Singh* (1963) on this point.
 - **Three-fold test** for State interference: (i) **legality** — law (ii) **legitimate aim** (iii) **proportionality**.
 - Aadhaar follow-on: *Puttaswamy (Aadhaar)* 2018 — scheme largely upheld with carve-outs (e.g. private-entity use / some welfare linking limits as then held).
 
@@ -442,9 +442,9 @@ Two codes in one article.
 
 ### PD — quick facts
 - **Preventive** = to **prevent** a future offence; **Punitive** = punishment **after** a proven offence.
-- PD subjects appear in **both** Union List (Entry 9 — defence/foreign affairs/security of India) **and** Concurrent List (Entry 3 — security of a State, public order, supplies/services).
+- PD subjects appear in **both** Union List (संघ सूची) (Entry 9 — defence/foreign affairs/security of India) **and** Concurrent List (समवर्ती सूची) (Entry 3 — security of a State, public order, supplies/services).
 - Detenu **cannot** claim 22(1)–(2) rights (lawyer / 24-hour magistrate) — those are for **ordinary** arrest.
-- Key laws: **NSA 1980**, **COFEPOSA 1974**, **PBMSECA 1980**, **UAPA** (as amended), State goonda/PD Acts.
+- Key laws: **NSA 1980** (रासुका), **COFEPOSA 1974**, **PBMSECA 1980**, **UAPA** (यूएपीए) (as amended), State goonda/PD Acts.
 
 ---
 
@@ -472,7 +472,7 @@ Two codes in one article.
 
 **Part III rewrite facts** that UPPCS actually asks — 1st through 103rd.
 
-- **1st (1951):** Added **15(4)**; **9th Schedule (31B)**; reasonable restrictions to 19.
+- **1st (1951):** Added **15(4)**; **9th Schedule (9वीं अनुसूची) (31B)**; reasonable restrictions to 19.
 - **24th (1971):** Parliament can amend FRs (**13(4) / 368(3)**) — after *Golaknath*.
 - **42nd (1976):** Added **Fundamental Duties (51A)**; tried to give some DPSP primacy over FR (curbed by *Minerva Mills*).
 - **44th (1978):Property** removed from Part III → **Art. 300A**; 20 & 21 **cannot** be suspended even in Emergency (359).
@@ -501,7 +501,7 @@ Two codes in one article.
 
 **Citizens:29** = any section (culture); **30** = **religious or linguistic minorities** and their institutions.
 
-- **29(1) Conserve culture:Any section of citizens** (majority or minority) with a distinct language, script or culture may conserve it.
+- **29(1) Conserve culture:Any section of citizens** (majority or minority) with a distinct language, script (लिपि) or culture may conserve it.
 - **29(2) No denial of admission:** No citizen denied admission to a State-maintained / State-aided institution on grounds of religion, race, caste, **language**.
 - **30(1) Minority institutions:Religious or linguistic minorities** may establish and administer educational institutions of their choice.
 - **30(1A) Compensation:** If such institution’s property is compulsorily acquired, the amount must not restrict the right (added **44th**).
@@ -634,7 +634,7 @@ D. Neither 1 nor 2
 
 ---
 
-## N.19 Directive Principles of State Policy — Articles 36–51 (Part IV)
+## N.19 Directive Principles (राज्य के नीति निदेशक तत्व) of State Policy — Articles 36–51 (Part IV)
 
 - **Non-justiciable** (Art. **37**) but **fundamental in governance**; State to apply in law-making. They do **not** impose a **legal** duty enforceable in court — moral/political instructions to legislature and executive.
 - Borrowed from **Ireland**. Idea: instrument of instructions for a **welfare State** (Arts. **36–51**).
@@ -678,7 +678,7 @@ D. All of the above
 - **39(d) (Socialist):Equal pay for equal work** for men and women.
 - **39(e)–(f) (Socialist):** Health & strength of workers/children not abused; children given opportunities to develop in a healthy manner (39(f) recast by 42nd).
 - **39A (Socialist):Equal justice and free legal aid** — **42nd Amendment, 1976**.
-- **40 (Gandhian):** Organise **Village Panchayats** as units of self-government (seed of Part IX / 73rd).
+- **40 (Gandhian):** Organise **Village Panchayats** as units of self-government (seed of Part IX (भाग IX) / 73rd).
 - **41 (Socialist):** Right to **work, education, public assistance** (unemployment, old age, sickness, disablement) within economic capacity.
 - **42 (Socialist):** Just & humane **conditions of work** and **maternity relief**.
 - **43 (Gandhian):Living wage**, decent standard of life, social & cultural opportunities; promote **cottage industries** in rural areas.
@@ -766,9 +766,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 ## N.20 Uniform Civil Code — Article 44
 
 - DPSP: State shall **endeavour** to secure a UCC for citizens throughout India. **Non-justiciable.**
-- Aim: one common set of personal laws (marriage, divorce, succession) across religions.
+- Aim: one common set of personal laws (marriage, divorce, succession (उत्तराधिकार क्रम)) across religions.
 - Judicial push: *Shah Bano* (1985), *Sarla Mudgal* (1995), *Shayara Bano* (2017 — triple talaq).
-- **Goa** already has a common civil code (Portuguese legacy). **Uttarakhand** (उत्तराखंड) enacted a UCC (2024) — first State in independent India to do so.
+- **Goa** (गोवा) already has a common civil code (Portuguese legacy). **Uttarakhand** (उत्तराखंड) enacted a UCC (2024) — first State in independent India to do so.
 
 ---
 
@@ -867,7 +867,7 @@ D. To abide by the Constitution and respect its ideals
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Voting is not a Fundamental Duty under Art. 51A.
+**Ans: A** — Voting (गणपूर्ति) is not a Fundamental Duty under Art. 51A.
 </details>
 
 ---
@@ -1256,17 +1256,17 @@ D. Separation of powers
 
 **Q2. Jharkhand P.C.S. (Pre) 2023**
 
-Which Congress Session passed the resolution of Fundamental Rights in 1931?
+Which Congress Session (पंगु सत्र) passed the resolution of Fundamental Rights in 1931?
 
-A. Allahabad
+A. Allahabad (इलाहाबाद)
 B. Karachi
 C. Mumbai
-D. Gaya
+D. Gaya (गया)
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 1931 FR resolution = Karachi under Patel, after Gandhi–Irwin Pact.
+**Logic:** 1931 FR resolution = Karachi under Patel, after Gandhi–Irwin (इरविन) Pact (गांधी-इरविन).
 
 **Ans: B.** The **Karachi** session (March 1931), presided over by **Sardar Vallabhbhai Patel**, adopted resolutions on Fundamental Rights and the National Economic Programme.
 
@@ -1278,8 +1278,8 @@ Which of the following is correct?
 
 A. The Nehru Report (1928) had advocated the inclusion of Fundamental Rights in the Constitution of India.
 B. The Government of India Act, 1935 referred to Fundamental Rights.
-C. The August Offer, 1940, included the Fundamental Rights.
-D. The Cripps Mission 1942 referred to Fundamental Rights.
+C. The August Offer (अगस्त प्रस्ताव), 1940, included the Fundamental Rights.
+D. The Cripps (क्रिप्स) Mission 1942 (क्रिप्स मिशन) referred to Fundamental Rights.
 
 <details>
 <summary>Show answer</summary>
@@ -1295,9 +1295,9 @@ D. The Cripps Mission 1942 referred to Fundamental Rights.
 Who said the following words about Fundamental Rights: “A Fundamental Right should be looked upon, not from the point of view of any particular difficulty of that moment but as something that you want to make permanent in this Constitution”?
 
 A. Justice P.N. Bhagwati
-B. Jawaharlal Nehru
+B. Jawaharlal Nehru (जवाहरलाल नेहरू)
 C. Dr. S. Radhakrishnan
-D. Dr. B.R. Ambedkar
+D. Dr. B.R. Ambedkar (बी.आर. अम्बेडकर)
 
 <details>
 <summary>Show answer</summary>
@@ -1432,7 +1432,7 @@ D. None of these
 
 **Q11. 45th B.P.S.C. (Pre) 2001**
 
-Which Article of the Constitution gives precedence to Constitutional provisions over the laws made by the Union Parliament/State Legislatures?
+Which Article of the Constitution gives precedence (वरीयता क्रम) to Constitutional provisions over the laws made by the Union Parliament/State Legislatures?
 
 A. 13
 B. 32
@@ -1785,7 +1785,7 @@ D. 108th Amendment Act, 2008
 
 Which of the following enabled the Supreme Court of India to deduce a fundamental right to equal pay for equal work:
 
-A. The word ‘socialist’ used in the Preamble to the Constitution
+A. The word ‘socialist’ used in the Preamble (प्रस्तावना) to the Constitution
 B. (a) read with Article 14 of the Constitution
 C. (a) read with Article 16 of the Constitution
 D. (a), (b) and (c) all read together
@@ -1919,7 +1919,7 @@ D. Article 17
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Stem points to Art. 17’s anti-untouchability principle for Dalit dignity.
+**Logic:** Stem points to Art. 17’s anti-untouchability principle for Dalit (दलित) dignity.
 
 **Ans: D.** **Article 17** is the answer keyed in this stem’s framing.
 
@@ -1968,7 +1968,7 @@ D. 2 and 4
 
 **Q40. U.P. B.E.O. (Pre) 2019**
 
-Assertion (A) : Untouchability is worst form of structural violence.
+Assertion (A) : Untouchability is worst form of structural (संरचनात्मक) violence.
 
 Reason (R) : Untouchability has been practiced in the name of religious sanctions.
 
@@ -1980,7 +1980,7 @@ D. (A) is false but (R) is true.
 <details>
 <summary>Show answer</summary>
 
-**A/R logic:** Structural violence idea + ritual/religious sanction as the explaining base.
+**A/R logic:** Structural violence idea + ritual (कर्मकाण्ड)/religious sanction as the explaining base.
 
 **Ans: A.** Both true; religious/ritual sanction explains why untouchability operates as structural violence.
 
@@ -2008,7 +2008,7 @@ D. Art. 19
 
 **Q42. U.P.P.C.S. (Mains) 2016**
 
-In the Indian Constitution the ‘Right to Freedom’ is granted by four Articles which are –
+In the Indian Constitution the ‘Right to Freedom’ is granted by four (चातुर्याम) Articles which are –
 
 A. Article – 19 to Article – 22
 B. Article – 16 to Article – 19
@@ -2485,7 +2485,7 @@ The scope of the Article 21 of the Constitution was expanded to include Right to
 A. Unnikrishnan v/s Andhra Pradesh
 B. Govind v/s State of Madhya Pradesh
 C. Parmanand Katara v/s Union of India
-D. Chameli Singh v/s State of Uttar Pradesh
+D. Chameli Singh v/s State of Uttar Pradesh (उत्तर प्रदेश)
 
 <details>
 <summary>Show answer</summary>
@@ -3178,7 +3178,7 @@ D. Prime Minister
 Which one of the following is regarded as the protector of fundamental rights of citizens and Guardian of the Constitution of India?
 
 A. The Parliament
-B. The Attorney General
+B. The Attorney General (महान्यायवादी)
 C. The Supreme Court
 D. The President
 
@@ -3197,7 +3197,7 @@ Which one of the following statements is not correct?
 
 A. K.M. Munshi was one of the members of the drafting committee of the Constitution.
 B. The Constitution of India was adopted by the Constituent Assembly.
-C. The Panchayati Raj was recommended by Balwant Rai Mehta Committee Report-1957.
+C. The Panchayati Raj (पंचायती राज) was recommended by Balwant Rai (राई) Mehta (बलवंत राय) Committee Report-1957.
 D. The President of India is the Guardian of Fundamental Rights under the Constitution.
 
 <details>
@@ -4294,7 +4294,7 @@ D. Equality before law
 In India, if a religious sect/community is given the status of a national minority, what special advantages is it entitled to?
 
 1. It can establish and administer exclusive educational institutions.
-2. The President of India automatically nominates a representative of the community to Lok Sabha.
+2. The President of India automatically nominates a representative of the community to Lok Sabha (लोकसभा).
 3. It can derive benefits from the Prime Minister’s 15-Point Programme.
 
 A. 1 only
@@ -4313,7 +4313,7 @@ D. 1, 2 and 3
 
 **Q162. U.P. U.D.A./L.D.A. (Pre) 2010 / 2001**
 
-Bonded Labour was abolished in India, by an Act of Parliament enacted in the year –
+Bonded Labour (बंधुआ मज़दूरी) was abolished in India, by an Act of Parliament enacted in the year –
 
 A. 1971
 B. 1976
@@ -4380,7 +4380,7 @@ D. Duties, not Rights, are important for the stability of the State
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Rights and duties are two faces of the same coin.
+**Logic:** Rights and duties are two faces of the same coin (मुद्रा).
 
 **Ans: A.** Rights are **correlative** with Duties.
 
@@ -4971,7 +4971,7 @@ Panchayati Raj System in India is laid down under-
 A. Fundamental Rights
 B. Fundamental Duties
 C. Directive Principles of State Policy
-D. Election Commission Act
+D. Election Commission (निर्वाचन आयोग) Act
 
 <details>
 <summary>Show answer</summary>
@@ -5304,7 +5304,7 @@ In the Constitution of India, Promotion of International Peace and Security is i
 A. Preamble to the Constitution
 B. Directive Principles of State Policy
 C. Fundamental Duties
-D. Ninth Schedule
+D. Ninth Schedule (नौवीं अनुसूची)
 
 <details>
 <summary>Show answer</summary>
@@ -5778,7 +5778,7 @@ E. None of the above/More than one of the above
 <details>
 <summary>Show answer</summary>
 
-**Logic:** 39(d) and 44 are Part IV. Small family norm and Art. 350A mother-tongue are not Part IV DPSPs.
+**Logic:** 39(d) and 44 are Part IV. Small family norm and Art. 350A (अनु. 350A) mother-tongue are not Part IV DPSPs.
 
 **Ans: B.** I and II.
 
@@ -5836,9 +5836,9 @@ D. Thakkar Commission
 Which one of the following Committees/Commissions recommended the inclusion of Fundamental Duties in the Constitution?
 
 A. Swaran Singh Committee
-B. Ashok Mehta Committee
+B. Ashok Mehta (अशोक मेहता) Committee
 C. Balram Jakhar Committee
-D. Sarkaria Commission
+D. Sarkaria (सरकारिया आयोग) Commission
 
 <details>
 <summary>Show answer</summary>

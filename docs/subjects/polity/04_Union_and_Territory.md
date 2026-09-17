@@ -18,21 +18,21 @@ Union and its Territory | Formation of States | State Reorganisation | States Re
 ## Consolidated — 30 Must-Score Facts
 
 1. **Part I (Articles 1–4):** India, that is Bharat, is a **Union of States**. The term "Federation" is nowhere used. Names and territorial extent are in the **First Schedule**.
-2. Territory of India under **Article 1(3)** comprises **States**, **Union Territories**, and such other territories as may be **acquired** (e.g., Puducherry, Goa initially). 
+2. Territory of India under **Article 1(3)** comprises **States**, **Union Territories**, and such other territories as may be **acquired** (e.g., Puducherry, Goa (गोवा) initially). 
 3. **Article 2** vs **Article 3**: Art 2 allows Parliament to **admit or establish** *new* States (foreign territory, e.g., Sikkim). Art 3 allows forming/altering *existing* States (boundary/name changes).
 4. **Article 4**: Laws under Art 2 & 3 amend the First and Fourth Schedules by a **simple majority**; they are **not** constitutional amendments under **Article 368** (अनुच्छेद 368).
-5. **Article 3 Procedure**: Bill needs prior **President's recommendation**. The concerned State Legislature's views are sought but are **not binding**. The State Legislature **cannot** itself change its name.
+5. **Article 3 Procedure (प्रक्रिया)**: Bill needs prior **President's recommendation**. The concerned State Legislature's views are sought but are **not binding**. The State Legislature **cannot** itself change its name.
 6. **Acquisition vs Cession**: Acquisition requires ordinary law. **Cession** of Indian territory requires a **Constitutional Amendment** (*Berubari Union* case, 1960). 
-7. **Cession Amendments**: 9th Amendment (1960) ceded Berubari to Pakistan. 100th Amendment (2015) executed India–Bangladesh Land Boundary Agreement (exchange of 162 enclaves).
+7. **Cession Amendments**: 9th Amendment (9वां संशोधन) (1960) ceded Berubari to Pakistan. 100th Amendment (2015) executed India–Bangladesh Land Boundary Agreement (exchange of 162 enclaves).
 8. **Dhar Commission (June 1948)** and **JVP Committee (Dec 1948)** both purely **rejected** immediate linguistic reorganisation, prioritizing national unity. 
-9. **Andhra State**: Formed on **1 Oct 1953** following Potti Sriramulu's fast unto death. It was the **first linguistic State**. First capital was **Kurnool** (not Hyderabad).
-10. **States Reorganisation Commission (SRC, 1953)**: Chaired by **Justice Fazl Ali**, with **K.M. Panikkar** and **H.N. Kunzru**. (K.T. Shah and P. Sitaramayya were *not* members).
-11. **States Reorganisation Act, 1956**: Combined with the **7th Amendment (1956)**, it abolished Part A/B/C/D states, establishing **14 States and 6 UTs** on 1 Nov 1956.
+9. **Andhra State**: Formed on **1 Oct 1953** following Potti Sriramulu's fast unto death. It was the **first linguistic State**. First capital was **Kurnool** (not Hyderabad (हैदराबाद)).
+10. **States Reorganisation Commission (SRC (आयोग), 1953)**: Chaired by **Justice Fazl Ali**, with **K.M. Panikkar** and **H.N. Kunzru**. (K.T. Shah and P. Sitaramayya were *not* members).
+11. **States Reorganisation Act, 1956**: Combined with the **7th Amendment (1956)**, it abolished Part A (ए)/B/C/D states, establishing **14 States and 6 UTs** on 1 Nov 1956.
 12. **Zonal Councils**: They are **statutory** bodies established by the States Reorganisation Act, 1956. The **Union Home Minister** is the common chairman. (North Eastern Council was formed by a separate 1971 Act).
-13. **Formation Chronology**: Gujarat (1960), Nagaland (1963), Haryana (1966), Himachal (1971), Manipur/Tripura/Meghalaya (1972), Sikkim (1975).
+13. **Formation Chronology**: Gujarat (1960), Nagaland (1963), Haryana (1966), Himachal (हिमाचल) (1971), Manipur/Tripura/Meghalaya (मेघालय) (1972), Sikkim (1975).
 14. **Sikkim**: Created via **Article 2**. 35th Amd (1974) made it an 'Associate State'; **36th Amd (1975)** made it a full 22nd State (inserted Art. 371F).
 15. **UP/UK trivia**: United Provinces renamed to **Uttar Pradesh** (उत्तर प्रदेश) on **24 Jan 1950** (UP Diwas). **Uttarakhand** (उत्तराखंड) was carved out on **9 Nov 2000** as the 27th State.
-16. **Current Map**: India has **28 States and 8 Union Territories**. Dadra & Nagar Haveli and Daman & Diu merged into one UT in **Jan 2020**. J&K and Ladakh formed on 31 Oct 2019.
+16. **Current Map**: India has **28 States and 8 Union Territories**. Dadra (दादरा) & Nagar Haveli and Daman & Diu merged into one UT in **Jan 2020**. J&K and Ladakh (लद्दाख) formed on 31 Oct 2019.
 17. **UT Administration (Part VIII)**: Administered directly by the President through an Administrator or **Lieutenant Governor (LG)** under **Article 239**. 
 18. **Legislatures in UTs**: **Art. 239A** (14th Amd) enables Puducherry's legislature. **Art. 239AA** (69th Amd, 1991) designates Delhi as **NCT** with special provisions. 
 19. **NCT Delhi Exceptions**: Public order, police, and land remain strictly with the Union (unlike Puducherry). Maximum LS seats from UTs is **20** (Article 81). Delhi has 70 MLAs.
@@ -42,10 +42,10 @@ Union and its Territory | Formation of States | State Reorganisation | States Re
 23. **Deprivation**: A compulsory Central order against **registered/naturalised** citizens (for fraud, disloyalty, or 7-year overseas residence). Birth citizens cannot be 'deprived'.
 24. **Birth-citizenship evolution**: Birth plus: -> 1987 (one parent must be Indian) -> **3 Dec 2004** (both parents citizens, or one citizen & other not an *illegal migrant*).
 25. **PIO / OCI**: PIO scheme merged into **OCI in 2015**. OCI is **not** dual citizenship—OCI cardholders cannot vote, hold constitutional office, or routinely buy agricultural land.
-26. **Pravasi Bharatiya Divas**: Celebrated on **9 Jan** (Gandhi's return), inspired by the **L.M. Singhvi Committee (2000)** on Indian diaspora.
+26. **Pravasi Bharatiya Divas**: Celebrated on **9 Jan** (Gandhi (गांधी)'s return), inspired by the **L.M. Singhvi Committee (2000)** on Indian diaspora.
 27. **Citizenship Amendment Act (CAA), 2019**: Protects 6 persecuted minorities (Hindu, Sikh, Buddhist, Jain, Parsi, Christian) from 3 countries (Pak, Afghan, Bangladesh) entering on/before **31 Dec 2014**.
 28. **National Integration Council (NIC, 1961)**: PM is the chairman. It is completely **extra-constitutional** (unlike the Inter-State Council under Art. 263).
-29. **Fundamental Rights (Citizens Only)**: Articles **15, 16, 19, 29, 30**. Non-citizens also get Arts. 14, 20, 21, 22, 25-28.
+29. **Fundamental Rights (मौलिक अधिकार) (Citizens Only)**: Articles **15, 16, 19, 29, 30**. Non-citizens also get Arts. 14, 20, 21, 22, 25-28.
 30. **Minority / Treaties Trivia**: French enclaves (Puducherry de jure 1962), Portuguese enclaves (Goa/Daman/Diu liberated in 1961 via *Operation Vijay*).
 
 ```
@@ -131,7 +131,7 @@ Union and its Territory | Formation of States | State Reorganisation | States Re
 
 | Item | Core Lock |
 |------|------|
-| **Statute & Power** | Citizenship Act **1955**; Parliament’s absolute power (**Art. 11**) |
+| **Statute & Power** | Citizenship Act **1955**; Parliament’s absolute (निरपेक्ष) power (**Art. 11**) |
 | **Citizen-only FRs** | Arts. **15, 16, 19, 29, 30** |
 | **Acquisition (5 modes)**| Birth, descent, registration, naturalisation, incorporation of territory |
 | **Loss (3 modes)** | Renunciation, termination (automatic on foreign passport), deprivation (Central order) |
@@ -143,9 +143,9 @@ Union and its Territory | Formation of States | State Reorganisation | States Re
 ## Union and its Territory (Part I)
 
 - **Part I = Arts. 1–4.** Names and extent sit in the **First Schedule**.
-- Ambedkar: “Union of States” (not “federation”) so no State has a right to **secede**. Union is **indestructible**; States are **destructible** (Parliament may reorganise).
+- Ambedkar (अम्बेडकर): “Union of States” (not “federation”) so no State has a right to **secede**. Union is **indestructible**; States are **destructible** (Parliament may reorganise).
 - Territory of India (Art. 1(3)) = (i) **States** (ii) **Union Territories** (iii) such other territories as may be **acquired**.
-- Original 1950 map used **Part A / B / C / D** States (Governors / Rajpramukhs / Chief Commissioners / Andaman). **7th Amendment, 1956** abolished A–B–C–D and introduced the present **States + UTs** scheme.
+- Original 1950 map used **Part A / B / C / D** States (Governors / Rajpramukhs / Chief Commissioners / Andaman (अंडमान)). **7th Amendment, 1956** abolished A–B–C–D and introduced the present **States + UTs** scheme.
 
 | Art. | Subject | Elaboration |
 |------|---------|-------------|
@@ -159,7 +159,7 @@ Union and its Territory | Formation of States | State Reorganisation | States Re
 1. Bill introduced in **either House** of Parliament — **only on the President’s recommendation**.
 2. Before recommending, President **refers** the Bill to the Legislature of the State(s) concerned for its **views**, and may fix a time-limit.
 3. State Legislature’s view is **not binding** (Parliament may pass the Bill even if the State disagrees or does not reply in time).
-4. Passed by **simple majority** of each House (present and voting) — **not** special majority, **not** State ratification.
+4. Passed by **simple majority** of each House (present and voting (गणपूर्ति)) — **not** special majority, **not** State ratification.
 5. **No need** for a constitutional amendment under Art. 368 (**Art. 4**).
 
 > **Traps:** State Legislature **cannot** itself change the State’s name. Referral is for **views**, not **consent**. Art. 3 does **not** cover **admission** of a brand-new State (**Art. 2**).
@@ -203,11 +203,11 @@ D. Altering the name of a State — Power of a State Legislature
 | | Acquisition (add) | Cession (give away) |
 |--|-------------------|---------------------|
 | Meaning | Foreign / other territory becomes part of India (Art. 1(3)(c)) | Indian territory transferred to a foreign State |
-| Method | Parliament may provide by **ordinary law**; citizens of the area notified under Citizenship Act | **Constitutional amendment** — SC advisory *Berubari Union* (**1960**): Preamble + Art. 1 / First Schedule cannot be used to cede land by ordinary law |
+| Method | Parliament may provide by **ordinary law**; citizens of the area notified under Citizenship Act | **Constitutional amendment** — SC advisory *Berubari Union* (**1960**): Preamble (प्रस्तावना) + Art. 1 / First Schedule cannot be used to cede land by ordinary law |
 | Not the same as | — | Mere **boundary identification** / survey of an already agreed line may not need amendment |
 
 **Acquisition — how territory actually came in**
-- **Chandernagore** (French) — 1954; 10th Amendment, 1961 (merged into West Bengal).
+- **Chandernagore** (चंद्रनगर) (French) — 1954; 10th Amendment, 1961 (merged into West Bengal).
 - **Portuguese:** Dadra & Nagar Haveli (1954/UT 1961); **Goa, Daman & Diu** — Operation Vijay **19 Dec 1961** → 12th Amendment, 1962 (UT); Goa became a State **1987**.
 - **Trap:** Dadra & Nagar Haveli were under **Portuguese** rule till **1954** — **not French** (IAS 2000 incorrect-statement stem).
 - **French establishments (Puducherry etc.)** — de facto **1954**, de jure **1962** (14th Amendment; Treaty of Cession).
@@ -215,7 +215,7 @@ D. Altering the name of a State — Power of a State Legislature
 - **Bangladesh LBA** — India **received** enclaves as well as transferred some (**100th Amendment, 2015**).
 
 **Cession — amendments**
-- **9th Amendment, 1960** — Berubari Union and related territories to **Pakistan** (Nehru–Noon, 1958).
+- **9th Amendment, 1960** — Berubari Union and related territories to **Pakistan** (Nehru (नेहरू)–Noon, 1958).
 - **100th Amendment, 2015** — India–Bangladesh Land Boundary Agreement (1974/2011): exchange of **162 enclaves** (India transferred 111; received 51). Affected West Bengal, Assam, Meghalaya, Tripura.
 
 ---
@@ -224,18 +224,18 @@ D. Altering the name of a State — Power of a State Legislature
 
 ### Dhar Commission (1948)
 - Official name: **Linguistic Provinces Commission**; chair **S.K. Dhar** (retired judge).
-- Appointed June **1948** by the Constituent Assembly / Union; reported **Dec 1948**.
-- Rejected language as the main basis; preferred **administrative convenience**, history, geography.
+- Appointed June **1948** by the Constituent Assembly (संविधान सभा) / Union; reported **Dec 1948**.
+- Rejected language as the main basis; preferred **administrative convenience**, history (इतिहास), geography.
 
 ### JVP Committee (Dec 1948)
-- **J**awaharlal Nehru, **V**allabhbhai Patel, **P**attabhi **Sitaramayya** (Congress).
+- **J**awaharlal Nehru, **V**allabhbhai Patel, **P**attabhi **Sitaramayya** (Congress (कांग्रेस)).
 - Appointed after Dhar; reported **April 1949**.
 - Also **rejected** immediate linguistic reorganisation (unity of the new Republic first).
 - **Trap:** Sitaramayya = **JVP**, **not** SRC. K.T. Shah = CA member, **not** SRC.
 
 ### Andhra — first linguistic State
 - Fast unto death of **Potti Sriramulu** (died **15 Dec 1952**) for a Telugu State.
-- **Andhra State: 1 October 1953** — Telugu districts of Madras Presidency. First capital **Kurnool** (not Hyderabad).
+- **Andhra State: 1 October 1953** — Telugu districts of Madras Presidency (प्रेसीडेंसी). First capital **Kurnool** (not Hyderabad).
 - This broke the Dhar/JVP “no language” line and forced a Union-wide commission.
 
 ### States Reorganisation Commission (SRC), 1953
@@ -243,7 +243,7 @@ D. Altering the name of a State — Power of a State Legislature
 - **Chairman: Justice Fazl Ali.** Members: **K.M. Panikkar** and **H.N. Kunzru** (3 members only).
 - Broadly accepted language **but rejected** “one language = one State” as the **sole** test.
 
-**Four factors (learn the list):**
+**Four (चातुर्याम) factors (learn the list):**
 1. Preservation and strengthening of the **unity and security** of India
 2. **Linguistic and cultural** homogeneity
 3. **Financial, economic and administrative** considerations
@@ -284,11 +284,11 @@ D. 1 and 2
  - Enabled a **common High Court** for two or more States; High Courts for UTs (**Art. 241**).
 - Result on 1 Nov 1956: **14 States + 6 UTs**.
 
-**14 States (1956):** Andhra Pradesh, Assam, Bihar, **Bombay**, J&K, **Kerala** (new — Travancore-Cochin + Malabar), Madhya Pradesh, Madras, Mysore, Orissa, Punjab, Rajasthan, Uttar Pradesh, West Bengal.
+**14 States (1956):** Andhra Pradesh, Assam, Bihar, **Bombay**, J&K, **Kerala** (new — Travancore-Cochin + Malabar), Madhya Pradesh, Madras, Mysore (मैसूर), Orissa, Punjab, Rajasthan, Uttar Pradesh, West Bengal.
 
-**6 UTs (1956):** Andaman & Nicobar; Delhi; **Himachal Pradesh**; Laccadive, Minicoy & Amindivi (later **Lakshadweep** (लक्षद्वीप)); **Manipur**; **Tripura**.
+**6 UTs (1956):** Andaman & Nicobar (निकोबार); Delhi; **Himachal Pradesh**; Laccadive, Minicoy & Amindivi (later **Lakshadweep** (लक्षद्वीप)); **Manipur**; **Tripura**.
 
-**Renames later (not 1956):** Madras → **Tamil Nadu (1969)** · Mysore → **Karnataka (1973)** · Uttaranchal → **Uttarakhand (2007)** · Orissa → **Odisha (2011)** · Pondicherry → **Puducherry (2006)**.
+**Renames later (not 1956):** Madras → **Tamil Nadu (नाडु) (1969)** · Mysore → **Karnataka (1973)** · Uttaranchal → **Uttarakhand (2007)** · Orissa → **Odisha (2011)** · Pondicherry (पांडिचेरी) → **Puducherry (2006)**.
 
 ---
 
@@ -332,7 +332,7 @@ D. 1 and 2
 **Parliament & UTs**
 - LS seats from UTs: **not more than 20** (**Art. 81**).
 - RS: UTs as Parliament provides (**Art. 80**) — Delhi and Puducherry have RS seats; most other UTs do not.
-- Parliament can legislate on **any** subject for a UT (including State List) — **Art. 246(4)** idea.
+- Parliament can legislate on **any** subject for a UT (including State List (राज्य सूची)) — **Art. 246(4)** idea.
 
 ---
 
@@ -353,7 +353,7 @@ D. 1 and 2
 
 **PYQ — UPPCS Prelims 2018, Q150**
 
-What can be the maximum representation from the Union Territories to the Lok Sabha?
+What can be the maximum representation from the Union Territories to the Lok Sabha (लोकसभा)?
 
 A. 15
 B. 20
@@ -372,14 +372,14 @@ D. None of the above
 Which among the following (Provision — Part of the Constitution) is not correctly matched?
 
 A. The Union Territories — Part VIII
-B. The Scheduled and Tribal Areas — Part X
+B. The Scheduled and Tribal (आदिवासी) Areas — Part X
 C. Tribunals — Part XI
 D. Official Language — Part XVII
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Tribunals = **Part XIVA**. UTs = Part VIII is correctly matched.
+**Ans: C.** Tribunals = **Part XIVA** (भाग XIVA). UTs = Part VIII is correctly matched.
 
 </details>
 
@@ -429,7 +429,7 @@ D. 69th
 - De facto transfer **1 Nov 1954**; Treaty of Cession **1956**; de jure merger **16 Aug 1962**.
 - **14th Amendment, 1962** inserted **Art. 239A** (Parliament may create legislature/CoM for certain UTs). Puducherry became a UT with legislature in **1963** (Government of Union Territories Act, 1963).
 - Assembly: **30 elected** + up to **3 nominated** by the Centre. CoM with CM; LG.
-- Can legislate on **State List and Concurrent List** as provided — **no 239AA triplet** (public order / police / land reserved to Union in the Delhi sense).
+- Can legislate on **State List and Concurrent List (समवर्ती सूची)** as provided — **no 239AA triplet** (public order / police / land reserved to Union in the Delhi sense).
 - **70th Amendment:** Puducherry MLAs in the **Presidential electoral college**.
 - Name: Pondicherry → **Puducherry (2006)**.
 
@@ -453,7 +453,7 @@ D. 69th
 - Mandate: advise on **communalism, casteism, regionalism, linguism, secessionism**; promote national unity. **Recommendatory only** — no binding / coercive power.
 - Reconstituted several times (notably 1968, 1980, 2005, 2010, 2013). Meetings are **irregular** (not an annual statutory calendar).
 
-> **Trap:** Do not confuse NIC with the **Inter-State Council (Art. 263)** or **NITI Aayog** (नीति आयोग) — those are different Centre–State forums.
+> **Trap:** Do not confuse NIC with the **Inter-State Council (Art. 263)** or **NITI (नीति) Aayog** (नीति आयोग) — those are different Centre–State forums.
 
 ---
 
@@ -500,7 +500,7 @@ In which Part of the Constitution of India do we find the provisions relating to
 A. Part I
 B. Part II
 C. Part VII
-D. Part IX
+D. Part IX (भाग IX)
 
 <details>
 <summary>Show answer</summary>
@@ -514,9 +514,9 @@ D. Part IX
 Consider the following subjects and arrange them in sequential order as mentioned in the Constitution.
 
 I. The Union and its territory
-II. Fundamental duties
+II. Fundamental duties (मौलिक कर्तव्य)
 III. Citizenship
-IV. Directive Principles of State Policy
+IV. Directive Principles (राज्य के नीति निदेशक तत्व) of State Policy
 
 A. II, IV, I, III
 B. I, III, IV, II
@@ -526,7 +526,7 @@ D. IV, II, III, I
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Part I (Union) → Part II (Citizenship) → Part IV (DPSP) → Part IVA (Duties).
+**Ans: B** — Part I (Union) → Part II (Citizenship) → Part IV (नीति निर्देशक) (DPSP (राज्य के नीति निदेशक तत्व)) → Part IVA (Duties).
 
 </details>
 
@@ -565,7 +565,7 @@ Foreigner (not illegal migrant) who qualifies under the **Third Schedule** of th
 Government may **relax** for a person who has rendered **distinguished service** to science, philosophy, art, literature, world peace, or human progress.
 
 ### 5. By incorporation of territory (s. 7)
-When a new territory becomes part of India, the Central Government notifies which persons shall be citizens from which date (Goa 1961, Sikkim 1975, LBA enclaves 2015).
+When a new territory becomes part of India, the Central Government notifies which persons shall be citizens from which date (Goa 1961 (गोवा), Sikkim 1975, LBA enclaves 2015).
 
 ---
 
@@ -598,7 +598,7 @@ Three modes. India does **not** allow **dual citizenship**.
 ## Citizenship Amendment Act (basic)
 
 - **Citizenship (Amendment) Act, 2019** — amends the **1955** Act; rules notified **2024**.
-- **Parliament passage:** Lok Sabha **9 Dec 2019**; Rajya Sabha / Bill passed by Parliament **11 Dec 2019**; President’s assent **12 Dec 2019**.
+- **Parliament passage:** Lok Sabha **9 Dec 2019**; Rajya Sabha (राज्यसभा) / Bill passed by Parliament **11 Dec 2019**; President’s assent **12 Dec 2019**.
 - Creates an exception to the **illegal-migrant bar** for a **listed religious group** from **three countries**.
 
 | Cue | Fact |
@@ -608,7 +608,7 @@ Three modes. India does **not** allow **dual citizenship**.
 | Entry cut-off | **On or before 31 December 2014** |
 | What it does | They shall **not** be treated as illegal migrants; naturalisation residence relaxed (**11 years → 5 years** in the Third Schedule, as provided) |
 | What it does **not** | Does **not** take away anyone’s existing Indian citizenship. Does **not** apply to Indian Muslims / any Indian citizen. Does **not** cover Sri Lanka / Myanmar Rohingya / Nepal |
-| Exclusions often asked | Does not apply to **Sixth Schedule** tribal areas of Assam, Meghalaya, Tripura, Mizoram, and to **Inner Line** notified areas (as in the Act) |
+| Exclusions often asked | Does not apply to **Sixth Schedule** (6वीं अनुसूची) tribal areas of Assam, Meghalaya, Tripura, Mizoram, and to **Inner Line** notified areas (as in the Act) |
 | Court | **SC, 17 Oct 2024** — CAA **upheld** |
 
 **Other 1955 amendments (one-line):1986** — birth needs one Indian parent · **1992** — descent through mother · **2003** — illegal migrant defined; both-parents rule from 3 Dec 2004 · **2005** — OCI · **2015** — PIO merged into OCI.
@@ -1023,7 +1023,7 @@ D. (A) is false, but (R) is true.
 
 **Logic:** A/R: Art. 1 Union vs Art. 3 power.
 
-**Ans: D.** **A is false** — Art. 1 says India **is** a Union of States. **R is true** — Parliament may alter area/boundary/name without State consent. Trap: reading “Union” as denying Art. 3 flexibility.
+**Ans: D.** **A is false** — Art. 1 says India **is** a Union of States. **R is true** — Parliament may alter area/boundary/name without State consent. Trap: reading (रीडिंग) “Union” as denying Art. 3 flexibility.
 
 </details>
 
@@ -1049,7 +1049,7 @@ D. the state is not
 
 Given below are two statements, one is labelled as Assertion (A) and other as Reason (R) :
 
-Assertion (A) : The President can recommend to the Parliament to change the boundary of any state after seeking views of the concerned Legislature of that state on the subject within specified period.
+Assertion (A) : The President can recommend (सिफारिश) to the Parliament to change the boundary of any state after seeking views of the concerned Legislature of that state on the subject within specified period.
 Reason (R) : It is not mandatory for the President to accept the proposal of the concerned State Legislature.
 
 Select the correct answer using the code given below :
@@ -1110,7 +1110,7 @@ Consider the following statement and answer using codes given below:
 
 1. The term ‘Union of States’ has been used in the constitution because Indian States have no right of separation.
 2. S.K. Dhar Commission had given preference to administrative convenience rather language for re-organisation of States.
-3. Congress Committee including Jawaharlal Nehru, Sardar Patel, and Pattabhi Sitaramayya was not in favour of reorganisation of States on the basis of language.
+3. Congress Committee including Jawaharlal Nehru, Sardar Patel (सरदार पटेल), and Pattabhi Sitaramayya was not in favour of reorganisation of States on the basis of language.
 
 Which of the following statement is/are correct?
 
@@ -1259,7 +1259,7 @@ D. Puducherry
 
 </details>
 
-**Q25. 42nd B.P.S.C. (Pre) 1997-98**
+**Q25. 42nd (42वां) B.P.S.C. (Pre) 1997-98**
 
 Delhi is a/an –
 
@@ -1699,7 +1699,7 @@ D. 1960
 
 **Logic:** SRC year is 1953 — not in options.
 
-**Ans: \*** (GC asterisk key).** GC marks **asterisk**. The **States Reorganisation Commission** was set up on **29 December 1953** (report 1955; Act 1956). None of the printed years is 1953. Trap: choosing 1956 (the Act year).
+**Ans: \*** (GC asterisk key).** GC marks **asterisk**. The **States Reorganisation Commission** was set up on **29 December 1953** (report 1955; Act 1956 (अधिनियम)). None of the printed years is 1953. Trap: choosing 1956 (the Act year).
 
 </details>
 
@@ -1707,7 +1707,7 @@ D. 1960
 
 Which of the following were the members of State Reorganisation Commission formed by Indian Government in August, 1953?
 
-(i) Sir Tej Bahadur Sapru
+(i) Sir Tej (उष्णकटिबंधीय पूर्वी जेट) Bahadur Sapru
 (ii) Justice Fazal Ali
 (iii) K.M. Pannikar
 (iv) Hridayanath Kunjaru
@@ -1899,7 +1899,7 @@ D. Andhra Pradesh
 
 Which of the following statements is/are true?
 
-(A) After the Nagpur Session (1920) of Congress, the provincial Congress Committees were constituted on Linguistic basis.
+(A) After the Nagpur Session (पंगु सत्र) (1920) of Congress, the provincial Congress Committees were constituted on Linguistic basis.
 (B) In 1948, Congress rejected the demand of formation of provinces on linguistic basis.
 
 A. Only (A)
@@ -1941,7 +1941,7 @@ D. PART IX
 Which part of Constitution contains provisions relating to citizenship?
 
 A. Part I
-B. Part III
+B. Part III (मौलिक अधिकार)
 C. Part II
 D. Part IV
 
@@ -2111,7 +2111,7 @@ D. 1 only
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Only Art. 371A–I regional statement stands.
+**Logic:** Only Art. 371A (अनु. 371A)–I regional statement stands.
 
 **Ans: D.** Only **statement 1** is correct. USA has dual citizenship of Federation and State; naturalised citizens **can** be deprived under s. 10. Trap: assuming India and USA share single citizenship.
 
@@ -2139,7 +2139,7 @@ D. U.S.A.
 
 Who/which of the following is competent to prescribe conditions for acquisition of citizenship?
 
-A. Election Commission
+A. Election Commission (निर्वाचन आयोग)
 B. President
 C. Parliament and State Legislatures jointly
 D. Parliament

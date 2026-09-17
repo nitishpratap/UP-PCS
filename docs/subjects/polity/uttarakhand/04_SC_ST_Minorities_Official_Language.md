@@ -4,13 +4,13 @@
 
 > **Sources:** ST notification chronology, State official language map.  
 > **High-yield 2025:** five tribes notified as ST in **1967** (Q136).  
-> **Vanrawat / Raji geography:** also [Geography Topic 6](../../geography/uttarakhand/06_Population_SC_ST_Settlements.md).
+> **Vanrawat / Raji geography:** also [Geography Topic 6](../../geography/uttarakhand (उत्तराखंड)/06_Population (जनसंख्या)_SC_ST_Settlements.md).
 
 ---
 
 ## Current Affairs (this topic)
 
-- Fresh ST / domicile / language notifications can refresh stems — keep the **1967 five** stable unless a stem cites a later change.
+- Fresh ST / domicile / language notifications can refresh stems — keep the **1967 five** stable unless a stem cites (साइट्स) a later change.
 - Hindi remains the official-language teaching card for State polity.
 
 ---
@@ -21,7 +21,7 @@
 |------|------|
 | Five STs | **Jaunsari, Tharu, Bhotia, Buksa, Raji** |
 | Notification year | **1967** (when the region was in UP) |
-| Raji / Vanrawat | Forest-linked PTG memory — Pithoragarh (geo card) |
+| Raji / Vanrawat | Forest-linked PTG memory — Pithoragarh (पिथौरागढ़) (geo card) |
 | Official language | **Hindi**; Sanskrit also recognised in state language politics / coaching notes |
 | Minorities | Same national minority framework; state schemes vary |
 | Special selection / domicile | UKPCS syllabus head — revise current notification when a stem names it |
@@ -56,7 +56,7 @@
 - The classic five — **Jaunsari, Tharu, Bhotia, Buksa, Raji** — were declared Scheduled Tribes in **1967**.
 - They remain the five STs of Uttarakhand in standard Prelims lists.
 - **Raji / Vanrawat** carries forest-linked PTG memory centred on **Pithoragarh** (पिथौरागढ़) in geography notes.
-- **Bhotia** communities sit in the high Himalayan trade / transhumance belt; **Tharu** and **Buksa** sit on the Tarai fringe — do not merge niches.
+- **Bhotia** communities sit in the high Himalayan trade (पण्याध्यक्ष) / transhumance belt; **Tharu** and **Buksa** sit on the Tarai fringe — do not merge niches.
 - Sub-group detail is often asked from the geography / society angle, but the polity year stem is **1967**.
 
 ---
@@ -86,7 +86,7 @@ D. 1970
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Four consecutive years — the notification year must be exact.
+**Logic:** Four (चातुर्याम) consecutive years — the notification year must be exact.
 
 **Ans: A (Series B provisional key).** The five communities were notified as STs in **1967**.
 

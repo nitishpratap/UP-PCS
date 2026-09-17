@@ -1,4 +1,4 @@
-# Topic 7 — Governance, Rights, UCC & Citizen Charters of Uttarakhand
+# Topic 7 — Governance, Rights, UCC & Citizen Charters of Uttarakhand (उत्तराखंड)
 
 ### ★ UKPCS state card (Unit 3 — Polity of Uttarakhand)
 
@@ -12,15 +12,15 @@
 | Head | Statutory & Institutional Key |
 | :--- | :--- |
 | **Uniform Civil Code (UCC)** | **1st State in independent India** to pass UCC (**7 Feb 2024**; Presidential Assent **11 March 2024**) |
-| **UCC Expert Committee** | Headed by retired Supreme Court Judge **Justice Ranjana Prakash Desai** |
+| **UCC Expert Committee** | Headed by retired Supreme Court Judge **Justice Ranjana Prakash Desai (आमिल)** |
 | **UCC ST Exemption** | **Scheduled Tribes (STs) are strictly exempted** under Article 366(25) |
 | **UHRC Commencement** | **13 May 2013** (UKPCS 2025 Q140); 1st Chairman: **Justice Vijender Jain** |
 | **Right to Service Act** | Enacted on **4 October 2011**; mandates notified services within guaranteed timelines |
 | **Anti-Cheating Law (2023)** | Strictest recruitment exam law in India; **life imprisonment & up to ₹10 Crore fine** |
 | **2nd Official Language** | **Sanskrit** (declared in **January 2010** under CM Ramesh Pokhriyal 'Nishank') |
-| **Primary E-Governance** | **Apuni Sarkar Portal** (single window certificate delivery) & **CM Helpline 1905 / Samadhan** |
+| **Primary E-Governance** | **Apuni Sarkar (सरकार) Portal** (single window certificate delivery) & **CM Helpline 1905 / Samadhan** |
 | **First Chief Information Comm.**| **Dr. R. S. Tolia** (pioneered RTI framework in Uttarakhand) |
-| **First Lokayukta** | **Justice S. H. A. Raza** |
+| **First Lokayukta (लोकायुक्त)** | **Justice S. H. A. Raza** |
 
 ---
 
@@ -28,7 +28,7 @@
 
 1. **Uniform Civil Code (UCC) of Uttarakhand (2024) Milestones:**
    - *Drafting Committee Head:* Retired SC Judge **Justice Ranjana Prakash Desai** (constituted May 2022).
-   - *Vidhan Sabha Passed:* **7 February 2024**.
+   - *Vidhan Sabha (विधानसभा) Passed:* **7 February 2024**.
    - *Presidential Assent (Droupadi Murmu):* **11 March 2024**.
    - *Key Highlights:*
      - Prohibits polygamy and bigamy across all religions.
@@ -36,10 +36,10 @@
      - Guarantees **equal inheritance rights** for sons and daughters.
      - Mandates **registration of live-in relationships** within 1 month.
      - Sets uniform marriageable age: **21 for males, 18 for females**.
-     - **Explicit Exemption:** The tribal communities (Scheduled Tribes under Art. 366(25)) are excluded from its purview to protect customary tribal traditions.
+     - **Explicit Exemption:** The tribal (आदिवासी) communities (Scheduled Tribes under Art. 366(25)) are excluded from its purview to protect customary tribal traditions.
 2. **Uttarakhand Human Rights Commission (UHRC) (UKPCS 2025 Q140):**
    - Formally constituted on **13 May 2013**.
-   - Headquartered at Dehradun.
+   - Headquartered at Dehradun (देहरादून).
    - 1st Chairperson: **Justice Vijender Jain** (former Chief Justice of Punjab & Haryana High Court).
    - Core statutory mandate: Inquire into human rights violations and enforce accountability and transparency in public governance.
 3. **Uttarakhand Right to Service Act, 2011:**
@@ -80,7 +80,7 @@
 
 ## E-Governance Infrastructure & Redressal Portals
 
-- **Apuni Sarkar Portal (eservices.uk.gov.in):** Comprehensive single-window citizen portal delivering over 400 government-to-citizen (G2C) services, including income certificates, caste certificates, birth certificates, and revenue extracts (*Khatauni*).
+- **Apuni Sarkar Portal (eservices.uk.gov.in):** Comprehensive single-window citizen portal delivering over 400 government-to-citizen (G2C (जी2सी)) services, including income certificates, caste certificates, birth certificates, and revenue extracts (*Khatauni*).
 - **CM Helpline 1905:** Centralized toll-free grievance redressal helpline with automated tracking and time-bound departmental escalation.
 - **Samadhan Portal:** Public grievance redressal portal directly monitored by the Chief Minister’s Secretariat.
 - **Devbhoomi Land Records System:** Complete digitization of land and revenue records across all 13 districts, allowing instantaneous generation of computerized *RoR* (Record of Rights) and *Khasra-Khatauni*.
@@ -116,7 +116,7 @@ D. Neither 1 nor 2
 **Q2.** The committee constituted by the Government of Uttarakhand to prepare the draft of the Uniform Civil Code (UCC) was headed by:  
 A. Justice Ranjan Gogoi  
 B. Justice Ranjana Prakash Desai  
-C. Justice Hemant Gupta  
+C. Justice Hemant Gupta (गुप्त)  
 D. Justice R. S. Chauhan  
 *Answer:* **B** (Justice Ranjana Prakash Desai, retired Supreme Court Judge).
 

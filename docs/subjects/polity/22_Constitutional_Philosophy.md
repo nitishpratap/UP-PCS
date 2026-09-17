@@ -4,7 +4,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Constitutionalism | Constitutional Morality | Rule of Law | Due Process of Law | Procedure Established by Law | Separation of Powers | Checks and Balances | Judicial Supremacy | Parliamentary Sovereignty | Constitutional Supremacy | Welfare State | Socialism | Secularism | Democracy | Republic | Justice (social, economic, political) | Liberty (thought, expression, belief, faith, worship) | Equality (status & opportunity) | Fraternity & Dignity | Unity and Integrity of the Nation
+Constitutionalism | Constitutional Morality | Rule of Law | Due Process of Law | Procedure (प्रक्रिया) Established by Law | Separation of Powers | Checks and Balances | Judicial Supremacy | Parliamentary Sovereignty | Constitutional Supremacy | Welfare State | Socialism | Secularism | Democracy | Republic | Justice (social, economic, political) | Liberty (thought, expression, belief, faith, worship) | Equality (status & opportunity) | Fraternity & Dignity | Unity and Integrity of the Nation
 
 </details>
 
@@ -24,15 +24,15 @@ Newest first. One event, one fact.
 |------|-----------------|---------------|
 | **2023** | SC: NCT **services** (except public order/police/land) with the elected government. Union **Ordinance/Act 2023** tried to park services with the LG | 2018 idea = LG is not a parallel CM. 2023 = the *services* fight. Don’t freeze the statute as if the judgment vanished |
 | **2021** | GNCTD **Amendment Act** enlarges the LG | Statutory push against the 2018 judgment — CA, not a new article |
-| **2018** | *NCT Delhi* (aid-and-advice) · *Navtej* (§377) · *Sabarimala* | Constitutional morality **≠** majority custom |
+| **2018** | *NCT Delhi* (aid-and-advice) · *Navtej* (नवतेज जौहर) (§377) · *Sabarimala* | Constitutional morality **≠** majority custom |
 | **2017** | *Puttaswamy*: privacy = FR; *ADM Jabalpur* majority called wrong | Due-process content of Art. **21** survived Emergency’s worst case |
 | **2015** | **NJAC** (99th) struck | Review of an *amendment* = constitutional supremacy, not “judicial coup” as a syllabus answer |
 | **1994** | *Bommai*: secularism = Basic Structure | A communal State government can justify **356**. floor test; don’t dissolve first |
-| **1978** | *Maneka Gandhi* | The due-process *turn*. Art. 21 words unchanged |
-| **1978** | **44th Amendment** (44वां संशोधन): Art. **38(2)** inequalities; property out of Part III | Welfare clause thickened; socialism ≠ Art. 31 forever |
-| **1976** | **42nd** prints **Socialist, Secular, integrity** | Names the ideals; does **not** invent Arts. 25–28 or Part IV |
-| **1973–80** | *Kesavananda* → *Minerva* | Parliamentary sovereignty **refused**; constitutional supremacy **locked**. Secular character already in the BS *list* |
-| **1963** | **16th Amd** — sovereignty and integrity in Art. **19** restrictions + 3rd Schedule oaths | Integrity as a *liberty bound* before the Preamble printed the word (1976) |
+| **1978** | *Maneka Gandhi (गांधी)* | The due-process *turn*. Art. 21 words unchanged |
+| **1978** | **44th (44वां संशोधन) Amendment** (44वां संशोधन): Art. **38(2)** inequalities; property out of Part III (मौलिक अधिकार) | Welfare clause thickened; socialism ≠ Art. 31 forever |
+| **1976** | **42nd** (42वां) prints **Socialist, Secular, integrity** | Names the ideals; does **not** invent Arts. 25–28 or Part IV (नीति निर्देशक) |
+| **1973–80** | *Kesavananda* (केशवानंद भारती 1973) → *Minerva* | Parliamentary sovereignty **refused**; constitutional supremacy **locked**. Secular character already in the BS *list* |
+| **1963** | **16th Amd** — sovereignty and integrity in Art. **19** restrictions + 3rd Schedule oaths | Integrity as a *liberty bound* before the Preamble (प्रस्तावना) printed the word (1976) |
 
 ---
 
@@ -41,20 +41,20 @@ Newest first. One event, one fact.
 
 1. The Preamble counts are **Justice 3**, **Liberty 5**, **Equality 2**, and **Fraternity 1**. The word **Federal** is **not** in the Preamble. The **42nd** Amendment added **Socialist**, **Secular**, and **integrity**.
 2. **Constitutionalism** means limited government under a higher law. Merely having a written constitution booklet is **not** enough by itself.
-3. **Constitutional morality** (Ambedkar in the Constituent Assembly) means fidelity to constitutional norms, not whatever the street calls “morality.” It is **not** the same as “public morality” in Articles **19 / 25**.
+3. **Constitutional morality** (Ambedkar (अम्बेडकर) in the Constituent Assembly (संविधान सभा)) means fidelity to constitutional norms, not whatever the street calls “morality.” It is **not** the same as “public morality” in Articles **19 / 25**.
 4. Dicey’s Rule of Law has three limbs: no arbitrary power, equality before law, and (in the UK) rights from ordinary law rather than a special Bill of Rights. India takes the first two (Article **14**, judicial review, Articles **32 / 226**) and **rejects** the third.
 5. Rule of Law itself is part of the **Basic Structure** (*Indira Gandhi*, **1975**). PIL is often treated as a practical path that helps weaker sections reach the courts.
 6. Article **21**’s text is **“procedure established by law”** (Japan source). The US model is **due process** (5th/14th Amendments). India’s text was never rewritten to say “due process.”
-7. *A.K. Gopalan* (**1950**) read Article 21 as any procedure in a valid law, with Fundamental Rights in silos. *Maneka Gandhi* (**1978**) requires a procedure that is **fair, just, and reasonable**, reading Articles **14, 19, and 21** together (the golden triangle).
+7. *A.K. Gopalan* (**1950**) read Article 21 (अनुच्छेद 21) as any procedure in a valid law, with Fundamental Rights (मौलिक अधिकार) in silos. *Maneka Gandhi* (**1978**) requires a procedure that is **fair, just, and reasonable**, reading (रीडिंग) Articles **14, 19, and 21** together (the golden triangle).
 8. After *Maneka*, Article 21 review is both **procedural** and **substantive**. Natural justice (*audi alteram partem*, *nemo judex*) is poured into Article 21 even though the text still says procedure established by law.
 9. **Separation of powers** comes from Montesquieu. Vesting lines include Article **53** (executive), **79** (Parliament), and **124** (Supreme Court). The USA is rigid; India is **functional** with **fusion** of executive and legislature (Cabinet in the House).
-10. *Ram Jawaya Kapur* (**1955**) rejected American-style rigid separation for India. Article **50** (DPSP) separates judiciary from executive in the **public services** only. Separation of powers is Basic Structure.
-11. **Checks and balances** are the restraining teeth: judicial review, impeachment, no-confidence, and the rule that ordinances must return to the House. CAG, Election Commission, and UPSC are constitutional brakes, not “extra-constitutional” toys.
+10. *Ram Jawaya Kapur* (**1955**) rejected American-style rigid separation for India. Article **50** (DPSP (राज्य के नीति निदेशक तत्व)) separates judiciary from executive in the **public services** only. Separation of powers is Basic Structure.
+11. **Checks and balances** are the restraining teeth: judicial review, impeachment, no-confidence (अविश्वास प्रस्ताव), and the rule that ordinances must return to the House. CAG (भारत के नियंत्रक-महालेखापरीक्षक), Election Commission (निर्वाचन आयोग), and UPSC (संघ लोक सेवा आयोग) are constitutional brakes, not “extra-constitutional” toys.
 12. The UK classic is **Parliamentary sovereignty**. The US *Marbury* line is strong judicial review. India follows **Constitutional supremacy**: the Constitution’s word is last.
 13. The **24th** Amendment inserted Article **13(4)** so that a **368** amendment is not “law” under Article 13. The **42nd** tried to bar review of amendments through Articles **368(4)/(5)**; *Minerva Mills* (**1980**) struck that attempt.
 14. **Judicial review** tests statutes, executive action, and constitutional amendments against the Constitution (including Basic Structure). It is **not** the same claim as “judicial supremacy.”
 15. A **welfare state** pursues socio-economic goals; a **police state** stops at law and order. Article **38** (with **38(2)** via the 44th) and Part **IV** are the main welfare instruments. Article **37** makes DPSPs fundamental in governance though not directly enforceable.
-16. High-yield DPSP facts include Article **40** (panchayats), **44** (UCC), **45** (early childhood), **47** (prohibition), **48** (cattle), and **48A** (environment).
+16. High-yield DPSP facts include Article **40** (panchayats), **44** (UCC), **45** (early childhood), **47** (prohibition (प्रतिषेध)), **48** (cattle), and **48A** (environment (पर्यावरण)).
 17. **Socialism** was named in the Preamble by the **42nd**, but Part IV already carried socialist content. Indian socialism is **democratic / mixed-economy**, not a USSR one-party textbook model. The **1991** reforms did not delete the Preamble word.
 18. **Secularism** was named by the **42nd**, but Articles **25–28** already operated from 1950. Indian secularism is **positive** — equal respect, with Article **25(2)** reform power. *Bommai* (**1994**) treats secularism as Basic Structure. It is not theocracy and not a hard US “wall.”
 19. **Democracy** means rule by the people with universal adult franchise and free and fair elections (Basic Structure). A **republic** means an **elected** Head of State (Article **54**), not a hereditary monarch. The UK can be a democracy without being a republic.
@@ -65,7 +65,7 @@ Newest first. One event, one fact.
 24. **Political sovereignty** rests with the people (“We, the People”). **Legal sovereignty** in India rests with the **Constitution**, which is why India is not a Dicey-UK parliamentary-sovereignty state.
 25. **Sovereign** in the Preamble covers both internal supremacy and external independence. It is the first word in the SSSDR chain.
 26. The French triad is Liberty, Equality, Fraternity. India prefixes **Justice** and keeps the three. Secular character was already in Basic Structure discussion before *Bommai* applied it to Article **356**.
-27. Constituent power under Article **368** is not ordinary legislative power under Article **245**. Even Article 368 remains under the Basic Structure ceiling.
+27. Constituent power under Article **368** is not ordinary legislative power under Article **245**. Even Article 368 (अनुच्छेद 368) remains under the Basic Structure ceiling.
 28. After *Maneka*, Article **21** has been read to include livelihood, privacy, health, shelter, and dignity. Privacy was treated as a Fundamental Right in *Puttaswamy* (**2017**).
 29. Indian secularism is often summarised as **Sarva Dharma Sambhava** / equal respect — not a US establishment-clause wall and not State indifference to reform needs.
 30. Rule by law (ruler uses statutes as a whip) is the trap opposite of Rule of Law (law binds the ruler too). Mark the second.
@@ -142,7 +142,7 @@ First half: **how the Constitution ties the State down**. Second half: what the 
 
 - India has a **written higher law**: the Constitution ranks above ordinary statutes, under Articles **13** and **245**.
 - **Fundamental Rights** (मौलिक अधिकार) (Part III) create a zone that the State must justify entering before it can act.
-- An **independent judiciary** with the power of **judicial review** can say *no* to a statute, an executive order, or — after 1973 — even a destructive constitutional amendment.
+- An **independent judiciary** (स्वतंत्र) with the power of **judicial review** can say *no* to a statute, an executive order, or — after 1973 — even a destructive constitutional amendment.
 - **Separation of powers and checks** ensure that power is not concentrated in one pocket.
 - The amending power has a **ceiling**: the Constitution's identity cannot be rewritten, as *Kesavananda* held — this is constitutionalism operating against **Parliament itself**.
 - Constitutionalism is **not** the same as merely *having* a constitution — a one-party charter with no judicial review is a booklet, not constitutionalism.
@@ -160,11 +160,11 @@ First half: **how the Constitution ties the State down**. Second half: what the 
 
 **Fidelity to the Constitution’s norms, not to the street’s “morality”.Not** a phrase in the text. No article, no schedule, no 42nd insert.
 
-- The historian **George Grote**, writing on Athenian history, coined the idea; **Ambedkar** (अम्बेडकर) brought it into the Constituent Assembly Debates on **4 November 1948**.
+- The historian **George Grote**, writing on Athenian history (इतिहास), coined the idea; **Ambedkar** (अम्बेडकर) brought it into the Constituent Assembly Debates on **4 November 1948**.
 - Grote's idea was that the majority **restrains itself** and respects **forms and institutions**, instead of ruling by mood.
 - Ambedkar warned that constitutional morality is **not a natural sentiment** — it has to be **cultivated**, because without its diffusion a constitution is only a parchment.
 - Courts have used it to mean holding to the Constitution's own **norms** — representative government, plurality, and dignity — even when the crowd wants otherwise.
-- It is **not** the same as **public morality** or **social morality** under Articles **19** and **25**, which are *restriction* grounds the State cites to limit a right. Constitutional morality, by contrast, can *strike down* a majoritarian custom.
+- It is **not** the same as **public morality** or **social morality** under Articles **19** and **25**, which are *restriction* grounds the State cites (साइट्स) to limit a right. Constitutional morality, by contrast, can *strike down* a majoritarian custom.
 - It is also **not** a minister's private virtue, and it is not simply "the Court preaching morals," a wrong syllabus shorthand.
 
 **SC colour (holdings in one line)**
@@ -194,7 +194,7 @@ First half: **how the Constitution ties the State down**. Second half: what the 
 **Indian working facts**
 
 - **Article 14** guarantees equality, **Article 21** (अनुच्छेद 21) guarantees liberty, and **Articles 32 and 226** give the remedy of judicial review to enforce both.
-- In *Indira Nehru Gandhi v Raj Narain* (**1975**), the Supreme Court treated the **Rule of Law**, along with free and fair elections, as part of the Basic Structure — so Parliament cannot *amend away* the Rule of Law.
+- In *Indira Nehru (नेहरू) Gandhi v Raj Narain* (**1975**), the Supreme Court treated the **Rule of Law**, along with free and fair elections, as part of the Basic Structure — so Parliament cannot *amend away* the Rule of Law.
 - Even in the UK, critics like Jennings argued that Dicey's third limb was only a Victorian snapshot of his time — Jennings is not an Indian authority; use him only to remember that **limb 3 is the shaky one**.
 - Rule **by** law is a trap phrase: a statute can still be used as a whip by the ruler. The Rule of Law instead asks whether that statute itself is **subject to** the Constitution.
 
@@ -204,7 +204,7 @@ First half: **how the Constitution ties the State down**. Second half: what the 
 - **Articles 105 and 194** privilege speech and votes cast inside the House — ordinary courts do not try that speech as defamation.
 - **Article 33** lets Parliament **restrict the Fundamental Rights** of the armed forces and police to ensure discipline.
 - **Article 34** permits Parliament to indemnify acts done under martial law.
-- **Articles 31A to 31C** save certain agrarian and 39(b)/39(c) laws from challenge under Articles 14/19; the 42nd Amendment's attempt to stretch Article 31C to all Directive Principles was struck down in *Minerva Mills*.
+- **Articles 31A to 31C** save certain agrarian and 39(b)/39(c) laws from challenge under Articles 14/19; the 42nd Amendment's attempt to stretch Article 31C to all Directive Principles (राज्य के नीति निदेशक तत्व) was struck down in *Minerva Mills*.
 - Diplomatic immunity and the law of contempt are further holes that the Constitution itself has cut into strict court-equality.
 
 Art. **14** still allows **reasonable classification**; it forbids **class legislation**. That is how RoL and affirmative action sit in the same article.
@@ -240,7 +240,7 @@ Two syllabus bullets. **One fight.**
 - In *A.K. Gopalan* (**1950**), which tested the Preventive Detention Act, the Court held that Article 21 is satisfied by **any** procedure laid down in a competent law, and it read the Fundamental Rights in **silos** — Article 21 was not tested against Articles 19 or 14.
 - In *Maneka Gandhi* (**1978**), the Court held that the procedure must be **fair, just, and reasonable** — the "golden triangle" of Articles 14-19-21. A **valid law** (*lex*) was still needed, but **fairness** (*jus*) was now added on top.
 - In *Francis Coralie Mullin* (**1981**), the Court held that Article 21 protects **dignity**, not mere animal existence — livelihood, health, shelter, and privacy were later read into the same article.
-- In *ADM Jabalpur* (**1976**), the majority held that even the habeas corpus remedy under Article 21 could be suspended during an Emergency; **Justice H.R. Khanna** alone dissented.
+- In *ADM Jabalpur* (**1976**), the majority held that even the habeas corpus (बन्दी प्रत्यक्षीकरण) remedy under Article 21 could be suspended during an Emergency; **Justice H.R. Khanna** alone dissented.
 - In *Puttaswamy* (**2017**), the Court held that privacy is a Fundamental Right, and it also held that the majority in *ADM Jabalpur* had been wrong.
 
 After *Maneka*, Indian courts do **both** procedural and substantive fairness under 14/21. That is due-process *content*. The **text** of 21 is still “procedure established by law”.
@@ -261,13 +261,13 @@ After *Maneka*, Indian courts do **both** procedural and substantive fairness un
 **Where the Constitution parks each organ** (not a US-style exclusive chapter)
 
 - **Article 53** vests the executive power of the Union in the **President**, who exercises it on the aid and advice of the Council of Ministers under **Article 74**.
-- **Article 79** vests legislative power in Parliament, which consists of the President, the Rajya Sabha, and the Lok Sabha.
+- **Article 79** vests legislative power in Parliament, which consists of the President, the Rajya Sabha (राज्यसभा), and the Lok Sabha (लोकसभा).
 - **Article 124** establishes the Supreme Court, and **Article 214** establishes a High Court for each State, as the seats of judicial power.
 
 | | **USA** | **India** |
 |--|---------|-----------|
 | Model | **Rigid** — Constitution Arts. I, II, III | **Functional**, not watertight |
-| Executive vs legislature | President **not** in Congress | **Fusion**: PM + Council of Ministers **are** in Parliament (Art. **75**) and **collectively responsible** to LS (Art. **75(3)**) |
+| Executive vs legislature | President **not** in Congress (कांग्रेस) | **Fusion**: PM + Council of Ministers **are** in Parliament (Art. **75**) and **collectively responsible** to LS (Art. **75(3)**) |
 | Judiciary | Separate + strong review | Separate + strong review; **Art. 50** DPSP = separate judiciary from executive in the *State’s public services* (magisterial/executive courts story) — **not** the whole SOP doctrine |
 | Basic Structure? | Entrenched by difficult amendment | SOP is a **Basic Structure** feature (*Kesavananda* line / *Indira Gandhi* **1975**) |
 
@@ -281,7 +281,7 @@ After *Maneka*, Indian courts do **both** procedural and substantive fairness un
 
 - Under **Articles 123 and 213**, the executive may use a **temporary** legislative power to issue ordinances; an ordinance must be laid before the House and lapses without approval within six weeks of reassembly.
 - In delegated legislation, Parliament sets the policy and the executive fills in the detail; if delegation is excessive, courts can strike it down.
-- Tribunals under **Articles 323A and 323B** were meant to supplement, not substitute, the High Courts — in *L. Chandra Kumar*, the Supreme Court held that the writ jurisdiction of the High Courts under **Articles 226/227** must survive.
+- Tribunals under **Articles 323A and 323B** were meant to supplement, not substitute, the High Courts — in *L. Chandra Kumar* (एल चंद्र), the Supreme Court held that the writ jurisdiction of the High Courts under **Articles 226/227** must survive.
 - The dominance of the Lok Sabha over Money Bills is an **internal** hierarchy within the legislature, not the creation of a fourth organ.
 
 > **Logic:** India **has** SOP — **functional**, not US rigidity. Art. 50 is a **DPSP** (राज्य के नीति निदेशक तत्व), not a FR, and it is **not** a complete SOP clause.
@@ -293,11 +293,11 @@ After *Maneka*, Indian courts do **both** procedural and substantive fairness un
 **Each organ can restrain the others.** Separation without teeth is a poster. Checks **complement** SOP; they are not a fourth organ.
 
 - The **judiciary checks the legislature and executive** through **judicial review** of statutes and executive orders, through writs under **Articles 32 and 226**, through the contempt power, and by striking down any amendment that hits the **Basic Structure**.
-- The **legislature checks the executive**: a **no-confidence** (अविश्वास प्रस्ताव) motion in the Lok Sabha can bring down the Council of Ministers, and Question Hour, committees, and cut motions keep the executive under scrutiny. Parliament also has an **impeachment** path against the President.
+- The **legislature checks the executive**: a **no-confidence** (अविश्वास प्रस्ताव) motion in the Lok Sabha can bring down the Council of Ministers, and Question Hour (प्रश्न काल), committees, and cut motions (कटौती प्रस्ताव) keep the executive under scrutiny. Parliament also has an **impeachment** path against the President.
 - The **legislature checks the judiciary** too: judges can be removed only by a special-majority process under **Articles 124(4)/218**, not by a simple whip; Parliament also controls the judiciary's budget and can legislate on its jurisdiction, **subject to the Basic Structure**.
 - The **executive checks the legislature** through its majority control of the legislative timetable, and through **ordinances** under **Articles 123/213** — though an ordinance is **not** a private legislature: it must be laid before the House and expires **six weeks after reassembly** if not approved.
-- The **executive checks the judiciary** through the appointments process (the Supreme Court Collegium is CJI plus four senior judges; the NJAC alternative was struck down on **16 October 2015**) and through the pardoning power under **Articles 72/161**.
-- **CAG, the Election Commission, UPSC, and the Finance Commission** are further constitutional brakes — they are **constitutional offices**, not "extra-constitutional" extras, as some options try to suggest.
+- The **executive checks the judiciary** through the appointments process (the Supreme Court Collegium is CJI plus four (चातुर्याम) senior judges; the NJAC alternative was struck down on **16 October 2015**) and through the pardoning power under **Articles 72/161**.
+- **CAG, the Election Commission, UPSC, and the Finance Commission (वित्त आयोग)** are further constitutional brakes — they are **constitutional offices**, not "extra-constitutional" extras, as some options try to suggest.
 
 **Judicial review — three targets**
 
@@ -329,7 +329,7 @@ Three syllabus bullets. **One triad.** India claims the **third**.
 - *Kesavananda Bharati* (**1973**) reinforced this by putting a ceiling on the amending power itself.
 - *Indira Nehru Gandhi v Raj Narain* (**1975**) struck the 39th Amendment's election clause on the same ground.
 - *Minerva Mills* (**1980**) struck a further attempt to make the amending power unlimited.
-- The **24th Amendment (1971)** inserted **Article 13(4)** and **Article 368(3)**, saying a constitutional amendment is **not** "law" under Article 13 — this was meant to bury *Golaknath*. *Kesavananda* still put a **Basic Structure** ceiling on Article 368.
+- The **24th Amendment (1971)** inserted **Article 13(4)** and **Article 368(3)**, saying a constitutional amendment is **not** "law" under Article 13 — this was meant to bury *Golaknath* (गोलकनाथ 1967). *Kesavananda* still put a **Basic Structure** ceiling on Article 368.
 - The **42nd Amendment (1976)** tried again through **Articles 368(4) and (5)**, saying no court could question an amendment and calling the amending power unlimited. ***Minerva Mills* struck down 368(4) and (5)**, and also cut back Article 31C's protection from *all* DPSPs to just **39(b) and 39(c)**.
 
 **Judicial supremacy — don't write it as India's official name**
@@ -337,7 +337,7 @@ Three syllabus bullets. **One triad.** India claims the **third**.
 - What exists in India is **judicial review** (a Basic Structure item) and the Court's role as the final *interpreter* of the Constitution.
 - What does **not** exist is a Dicey-style flip of "Parliament cannot bind a future Parliament" onto the Court — Parliament **can** still amend the Constitution, as long as it stays within the Basic Structure.
 - The NJAC case (**2015**), which struck the 99th Amendment, is an example of the Court reviewing a **constitutional amendment** — this is still an exercise of constitutional supremacy, not a "judicial coup."
-- Judicial activism or overreach (PIL, continuing mandamus) is a *style* of exercising judicial review. It is **not** a third supremacy standing beside Parliament and the Court.
+- Judicial activism or overreach (PIL, continuing mandamus (परमादेश)) is a *style* of exercising judicial review. It is **not** a third supremacy standing beside Parliament and the Court.
 
 **Constitutional supremacy — the Indian fact**
 
@@ -356,7 +356,7 @@ Three syllabus bullets. **One triad.** India claims the **third**.
 
 Justice **3** · Liberty **5** · Equality **2** · Fraternity **1**. “Federal” is **not** in the Preamble. 42nd added **Socialist + Secular**. Preamble is **not enforceable**. This half = what the ideals *mean*.
 
-Seed: Nehru’s **Objectives Resolution** (**13 Dec 1946**; adopted **22 Jan 1947**). The Preamble is that resolution turned into a masthead. **Sovereign** was a **1950** Preamble word (not a 42nd insert). Two faces of sovereignty are below — or SSSDR is a slogan.
+Seed: Nehru’s **Objectives Resolution** (**13 Dec 1946**; adopted (अंगीकृत) **22 Jan 1947**). The Preamble is that resolution turned into a masthead. **Sovereign** was a **1950** Preamble word (not a 42nd insert). Two faces of sovereignty are below — or SSSDR is a slogan.
 
 ---
 
@@ -381,8 +381,8 @@ Three DPSP study buckets (Socialist / Gandhian / Liberal-intellectual — all fo
 **Democratic / mixed-economy socialism** — reduce inequality, public sector where needed, **ballot + FRs** stay. Not Marxist one-party rule.
 
 - The word "Socialist" entered the Preamble only with the **42nd Amendment (1976)** — a 2025 trap dangled it alongside Sovereign/Republic, but those two were already **1950** words.
-- Even before 1976, the idea was already present in the **DPSPs** (Articles 38, 39, 41–43, 47) and in the political "socialistic pattern" line from the **Avadi session (1955)**, which is history colour, not a constitutional article.
-- Indian socialism is **not** scientific Marxism, not a dictatorship of the proletariat, and not a constitutional command that every factory must be nationalised.
+- Even before 1976, the idea was already present in the **DPSPs** (Articles 38, 39, 41–43, 47) and in the political "socialistic pattern" line from the **Avadi session (पंगु सत्र) (1955)**, which is history colour, not a constitutional article.
+- Indian socialism is **not** scientific Marxism, not a dictatorship of the proletariat, and not a constitutional command that every factory (फैक्टरी) must be nationalised.
 - The **44th Amendment (1978)** took the **Right to Property** out of Part III and turned it into the legal right under **Article 300A** — a property-versus-welfare compromise, not a repeal of Articles 14/21.
 - The **1991 economic reforms did not delete** "Socialist" from the Preamble.
 - **Article 31C** saves certain redistributive laws giving effect to Article 39(b)/(c) from challenge under Articles 14/19; after *Minerva Mills*, this protection covers **only** 39(b)/(c), not all Directive Principles.
@@ -416,11 +416,11 @@ The **word** is 42nd. The **code** is 1950: Arts. **25–28**. Hindi tag: **प�
 
 **Government by the people** — Preamble “We, the People”. Government derives title from **consent**, not conquest. Working model: **representative + parliamentary**.
 
-- **Article 326** guarantees universal adult franchise; the voting age was lowered to **18** by the **61st Amendment**, in force from **28 March 1989**.
+- **Article 326** guarantees universal adult franchise; the voting (गणपूर्ति) age was lowered to **18** by the **61st Amendment**, in force from **28 March 1989**.
 - In *Indira Nehru Gandhi v Raj Narain* (**1975**), the Supreme Court held that **free and fair elections**, and the Rule of Law, are part of the Basic Structure and cannot be amended away.
 - Ambedkar warned that political democracy — **one person, one vote, one value** — will not last without **social** democracy; that is why Justice, Equality, and Fraternity sit alongside Liberty in the same Preamble.
 - India has two sovereignties: **political** sovereignty rests with the people, while **legal** sovereignty rests with the **Constitution** (in the classic UK model, legal sovereignty instead rests with Parliament).
-- The **73rd and 74th Amendments** added local self-government as a **third tier** of democracy, with elected bodies at the gram, block, and district levels (11th Schedule, 29 subjects) and in towns (12th Schedule, 18 subjects).
+- The **73rd and 74th Amendments** added local self-government as a **third tier** of democracy, with elected bodies at the gram, block, and district levels (11th Schedule (11वीं), 29 subjects) and in towns (12th Schedule (12वीं), 18 subjects).
 - India follows the **parliamentary form** of government, on the UK model of a Cabinet drawn from and responsible to the House. Democracy is the *principle* of who governs; republic (below) is about *what the Head of State is*.
 
 **Sovereign** (not a separate T22 bullet — finishes SSSDR)
@@ -436,7 +436,7 @@ The **word** is 42nd. The **code** is 1950: Arts. **25–28**. Hindi tag: **प�
 
 ## Republic
 
-**Elected Head of State, not hereditary.** Union: President, Art. **54** electoral college (elected MPs + elected MLAs; nominated out; STV).
+**Elected Head of State, not hereditary (गैर-वंशानुगत).** Union: President, Art. **54** electoral college (elected MPs + elected MLAs; nominated out; STV).
 
 - Public offices are, in principle, **open** to any citizen, not reserved for a hereditary nobility.
 - India became a republic on **26 January 1950**, celebrated as Republic Day; the Constitution itself was **adopted** on **26 November 1949**.
@@ -455,7 +455,7 @@ The **word** is 42nd. The **code** is 1950: Arts. **25–28**. Hindi tag: **प�
 - **Economic justice** means secure livelihood, no concentration of wealth, and equal pay — carried by Articles **38** and **39** (especially 39(b), (c), and (d)) and Articles **41–43**.
 - **Political justice** means equal political rights, adult franchise, and no communal electorates — carried by Articles **325–326** and the idea of free and fair elections.
 
-France’s revolutionary triad was **Liberty, Equality, Fraternity**. India **prefixes Justice** (social revolution / Austin’s seamless web). Do not write “Indian Preamble = French triad only”.
+France’s revolutionary (क्रांतिकारी) triad was **Liberty, Equality, Fraternity**. India **prefixes Justice** (social revolution / Austin’s seamless web). Do not write “Indian Preamble = French triad only”.
 
 **One person, one vote, one value** is the political-justice slogan. Social/economic justice is why a *formal* ballot is not the whole Constitution.
 
@@ -469,7 +469,7 @@ France’s revolutionary triad was **Liberty, Equality, Fraternity**. India **pr
 
 - **Thought** and **expression** are carried by Article **19(1)(a)** for citizens, and by the dignity strand of Article **21** for everyone.
 - **Belief**, **faith**, and **worship** are carried by Articles **25–28**, available to all persons, subject to limits.
-- None of these liberties are absolute: Article **19(2)** allows reasonable restrictions on speech, and Article **25** allows restrictions in the interest of public order, morality, and health.
+- None of these liberties are absolute (निरपेक्ष): Article **19(2)** allows reasonable restrictions on speech, and Article **25** allows restrictions in the interest of public order, morality, and health.
 - The **16th Amendment (1963)** added "sovereignty and **integrity** of India" as a restriction ground on Article **19(1)(a)(b)(c)** and into the Third-Schedule oaths — so liberty is **bounded by unity** even before the Preamble printed the word "integrity."
 - In *Shreya Singhal* (2015), the Court struck down Section 66A of the IT Act; liberty is a Preamble ideal that Part III's Fundamental Rights actually operate.
 - Liberty of **person** or body, under Article **21** (as in *Gopalan* and *Maneka*), is **not** one of the Preamble's five liberties. The six Article **19** freedoms — speech, assembly, association, movement, residence, and profession — are also a **different** list; "Thought" does not appear anywhere as a numbered 19(1) clause.

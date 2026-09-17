@@ -4,9 +4,9 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-**Machinery:** Election Commission (as poll machinery) | Universal Adult Franchise | Franchise | FPTP | Proportional Representation | Model Code of Conduct | National Voters' Day | Delimitation Commission | Delimitation Process | Electoral Roll | Reserved Constituencies | Free and Fair Elections
+**Machinery:** Election Commission (निर्वाचन आयोग) (as poll machinery) | Universal Adult Franchise | Franchise | FPTP | Proportional Representation | Model Code of Conduct (आचरण नियमावली) | National Voters' Day | Delimitation Commission | Delimitation Process | Electoral Roll | Reserved Constituencies | Free and Fair Elections
 
-**Parties & devices:** Electoral Reforms | Anti-Defection (10th Schedule) | Political Party Recognition | Registration of Parties (RPA) | Election Symbols | NOTA | EVM | VVPAT | Election Petitions | Star Campaigner | Simultaneous Elections
+**Parties & devices:** Electoral Reforms | Anti-Defection (10th Schedule) | Political Party (राजनीतिक दल) Recognition (मान्यता) | Registration of Parties (RPA) | Election Symbols | NOTA | EVM | VVPAT | Election Petitions | Star Campaigner | Simultaneous Elections
 
 </details>
 
@@ -27,9 +27,9 @@
 | 2019–20 | **104th** — Anglo-Indian nomination ends; SC/ST quota till 2030 | 331/333/334 |
 | 2011 | First National Voters’ Day | 25 January |
 | 2001/03 | 84th freeze / 87th redraw on 2001 census | Delimitation |
-| 1988–89 | **61st** — voting age 18 | 326 |
+| 1988–89 | **61st** — voting (गणपूर्ति) age 18 | 326 |
 | 2003 | RS elections: **open ballot** for party vote | PR-STV trap |
-| 2022 | Four qualifying dates for the roll | Age 18 tested quarterly |
+| 2022 | Four (चातुर्याम) qualifying dates for the roll | Age 18 tested quarterly |
 | 2013 | NOTA (*PUCL*) · VVPAT Noksen | 2025 chronology |
 | 2018–24 | Electoral bonds; SC struck down Feb 2024 | Party funding |
 | 2003 | 91st Amendment — merger 2/3, split gone | 10th Schedule |
@@ -45,17 +45,17 @@
 3. Bye-elections are ordinarily held within **six months**, but may be skipped if the remainder of the term is less than **one year**.
 4. **Article 326** is universal adult suffrage. The voting age moved from **21 to 18** by the **61st Amendment (1988)**, in force from **1989**. **Article 325** creates one general electoral roll and forbids communal rolls.
 5. A person in prison under a sentence of imprisonment generally **cannot vote** under RPA section **62(5)**. A person in **preventive detention** may still be able to vote — do not collapse the two.
-6. **First Past the Post** elects the Lok Sabha and Vidhan Sabhas: most votes win, not proportional representation. Double-member constituencies ended in **1961**. Lok Sabha elected strength is **543**; Anglo-Indian nomination under **331** ended with the **104th Amendment**.
-7. **Proportional Representation by Single Transferable Vote** is used for the **President, Vice-President, Rajya Sabha, and Legislative Councils**. Rajya Sabha party voting uses an **open ballot (2003)**; President and Vice-President use a **secret** ballot.
-8. An MLA’s vote value for the Presidential election uses the **1971** population formula: State population ÷ (elected MLAs × **1000**). Keep 1971 as the freeze year in that formula.
+6. **First Past the Post** elects the Lok Sabha (लोकसभा) and Vidhan Sabhas: most votes win, not proportional representation. Double-member constituencies ended in **1961**. Lok Sabha elected strength is **543**; Anglo-Indian nomination under **331** ended with the **104th Amendment**.
+7. **Proportional Representation by Single Transferable Vote** is used for the **President, Vice-President, Rajya Sabha (राज्यसभा), and Legislative Councils**. Rajya Sabha party voting uses an **open ballot (2003)**; President and Vice-President use a **secret** ballot.
+8. An MLA’s vote value for the Presidential election uses the **1971** population (जनसंख्या) formula: State population ÷ (elected MLAs × **1000**). Keep 1971 as the freeze year in that formula.
 9. The **Model Code of Conduct** is an Election Commission **convention**, not a statute. It starts from announcement of the schedule. The **48-hour silence** period is both MCC practice and statutory under RPA section **126**.
 10. **National Voters’ Day** is **25 January** — the day the Election Commission was founded in **1950**. The first National Voters’ Day was celebrated in **2011**.
 11. The **Delimitation Commission** is a **statutory** body separate from the Election Commission, even if the CEC sits on it. Major Delimitation Acts include **1952, 1962, 1972, and 2002**.
-12. The **42nd Amendment** froze Lok Sabha seat allocation on the **1971** census until **2000**. The **84th Amendment** extended the freeze until the first census after **2026**. The **87th Amendment** allowed redrawing on the **2001** census **without** changing State-wise Lok Sabha totals.
+12. The **42nd (42वां) Amendment** froze Lok Sabha seat allocation on the **1971** census until **2000**. The **84th Amendment** extended the freeze until the first census after **2026**. The **87th Amendment** allowed redrawing on the **2001** census **without** changing State-wise Lok Sabha totals.
 13. A delimitation order has the force of law, and **Article 329** bars courts from questioning delimitation. Election petitions for House seats also live under the **329** bar-and-petition scheme.
 14. **Article 330** reserves Lok Sabha seats for SC/ST; **332** does the same for Assemblies. All voters in that constituency vote; only SC/ST candidates contest the reserved seat.
 15. The **104th Amendment (2019)** extended SC/ST reservation to **25 January 2030** and **ended** Anglo-Indian nomination in the Lok Sabha and Assemblies. The **106th Amendment (2023)** reserves **one-third** of seats for women in the Lok Sabha and Assemblies, but only **after** the next delimitation.
-16. Uttar Pradesh has the largest Lok Sabha contingent (**80** seats) and an Assembly of **403**. Local body polls in UP are run by the **UP State Election Commission**, not the ECI.
+16. Uttar Pradesh (उत्तर प्रदेश) has the largest Lok Sabha contingent (**80** seats) and an Assembly of **403**. Local body polls in UP are run by the **UP State Election Commission**, not the ECI.
 17. Political party **registration** is under RPA section **29A**. **Recognition** as a national or State party follows the **Symbols Order, 1968**. National-party tests include vote share across States or Lok Sabha seat share thresholds.
 18. Anti-defection is in the **10th Schedule**, inserted by the **52nd Amendment (1985)**. The **91st Amendment (2003)** removed the one-third split escape and kept merger only at **two-thirds** (ते-भागा). The Speaker decides; *Kihoto Hollohan* allows limited judicial review.
 19. A recognised party may name up to **40** star campaigners; an unrecognised party may name **20** (RPA section **77** expenditure rules).
@@ -108,7 +108,7 @@
 
 | System | Used for |
 |--------|----------|
-| First Past the Post | Lok Sabha; Vidhan Sabha |
+| First Past the Post | Lok Sabha; Vidhan Sabha (विधानसभा) |
 | PR-STV | President; VP; Rajya Sabha; State Councils |
 
 ### Quick locks
@@ -124,7 +124,7 @@
 
 ## Frame
 
-The **poll**: who votes, how seats are drawn, which system, parties, devices, petitions. ECI itself: Art. **324**; CEC removed like an **SC judge**; other ECs only on the **CEC’s recommendation**; 2023 panel = PM + LoP LS + Cabinet Minister (**CJI out**); first CEC **Sukumar Sen**; first woman **V.S. Ramadevi (1990)**.
+The **poll**: who votes, how seats are drawn, which system, parties, devices, petitions. ECI itself: Art. **324**; CEC removed like an **SC judge**; other ECs only on the **CEC’s recommendation**; 2023 panel = PM + LoP LS + Cabinet Minister (कैबिनेट मंत्री) (**CJI out**); first CEC **Sukumar Sen**; first woman **V.S. Ramadevi (1990)**.
 
 ---
 
@@ -234,7 +234,7 @@ India’s flavour = **PR by Single Transferable Vote (STV)** — **not** a natio
 |----------|--------|
 | **President (55)** / **VP (66)** | PR-STV. MLA vote-value = 1971 population ÷ (elected MLAs × 1000); MP value = total MLA values ÷ elected MPs |
 | **Rajya Sabha** (राज्यसभा) (elected seats) | PR-STV; electoral college = **MLAs** of that State. Party vote is **open ballot** (**2003** RPA amendment — anti-cross-voting). **Not** the same secrecy as President/VP |
-| **UP Vidhan Parishad** | UP **has** a Council; the MLA / graduate / teacher / local-body slices use the **171** mix (PR-STV where listed) |
+| **UP Vidhan Parishad (विधान परिषद)** | UP **has** a Council; the MLA / graduate / teacher / local-body slices use the **171** mix (PR-STV where listed) |
 | **Legislative Council** (where it exists) | Partly PR-STV (MLAs / graduates / teachers / local bodies as 171 lists) |
 | **Lok Sabha / Assembly** | **FPTP**, not PR |
 
@@ -282,7 +282,7 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: B — 2 and 3.** Statement 1 is **right**. (Human Rights Day 10 Dec; NHRC 1993.)
+**Ans: B — 2 and 3.** Statement 1 is **right**. (Human Rights Day 10 Dec; NHRC (राष्ट्रीय मानव अधिकार आयोग) 1993.)
 
 </details>
 
@@ -344,7 +344,7 @@ Photo-ID at booth can also be another ECI-notified document. No EPIC ≠ automat
 
 **How a reserved seat works:** the **constituency** is reserved → **only** an SC/ST candidate can contest → **all** electors on that roll vote. It is **not** a separate communal roll (**325**).
 
-**106th Amendment, 2023** (Nari Shakti Vandan): **one-third** of LS + State Assembly seats for women (including within SC/ST quota). **Does not start** until a delimitation after the next census — not “already in the 2024 LS”. PRI/ULB women’s quota is already **≥1/3** under Arts. **243D / 243T** (UP = **50%** by State law).
+**106th Amendment, 2023** (Nari Shakti (शक्ति) Vandan): **one-third** of LS + State Assembly seats for women (including within SC/ST quota). **Does not start** until a delimitation after the next census — not “already in the 2024 LS”. PRI/ULB women’s quota is already **≥1/3** under Arts. **243D / 243T** (UP = **50%** by State law).
 
 ---
 
@@ -357,7 +357,7 @@ Photo-ID at booth can also be another ECI-notified document. No EPIC ≠ automat
 - **Secret ballot:** RPA; EVM/VVPAT still have to protect secrecy.
 - **Level field:** MCC · expenditure rules · paid-news watch.
 - **Challenge path:Election petition** only (329).
-- **Basic structure:** Free and fair election is part of the basic structure discourse (*Kesavananda* line; *Indira Nehru Gandhi* 1975 election case → 39th/44th).
+- **Basic structure:** Free and fair election is part of the basic structure discourse (*Kesavananda* (केशवानंद भारती 1973) line; *Indira Nehru (नेहरू) Gandhi (गांधी)* 1975 election case → 39th/44th (44वां संशोधन)).
 
 **LS general-election year trap (2022):**
 
@@ -408,7 +408,7 @@ ECI grants **National** or **State** party status. Criteria (learn the **logic**
 | Recognised as **State party in four** States | **1** LS seat per **25** LS seats of that State (min 1) |
 | | **8%** of total valid votes in the State (even without a seat) |
 
-**Review:** ECI reviews after each LS / each State Assembly general election. A party can **lose** national status (e.g. CPI in the 2023 review). **Do not** freeze “there are always six national parties.”
+**Review:** ECI reviews after each LS / each State Assembly general election. A party can **lose** national status (e.g. CPI (सीपीआई) in the 2023 review). **Do not** freeze “there are always six national parties.”
 
 **Benefits of recognition:** reserved **symbol** · **star campaigners** (40 vs 20) · broadcast time · land for offices as rules allow · need fewer proposers / deposits as RPA provides.
 
@@ -421,7 +421,7 @@ ECI grants **National** or **State** party status. Criteria (learn the **logic**
 - **Reserved:** Recognised **national / state** parties — same symbol everywhere they contest as such.
 - **Free:** Unrecognised parties and independents pick from ECI’s free list.
 - **Split:** ECI decides which faction gets the **name + symbol** (*Sadiq Ali* / later *Subramanian Swamy* line; **Para 15** of the Order). Legislature majority is a test, not the only test.
-- **Common:** A national party’s reserved symbol is not a free symbol in any State.
+- **Common:** A national party’s reserved symbol (आरक्षित प्रतीक) is not a free symbol (मुक्त प्रतीक) in any State.
 
 ---
 
@@ -442,7 +442,7 @@ ECI grants **National** or **State** party status. Criteria (learn the **logic**
 
 **Not defection:** merger as above · Speaker elected and giving up party membership as the Schedule allows · prior-permission / condonation window.
 
-> **Logic:** 10th Schedule = **defection**, not “party registration.” 9th Schedule = **validation of laws** (1951), not RS seats (**4th**). 2019/2023/2025 PYQs all test that pair.
+> **Logic:** 10th Schedule = **defection**, not “party registration.” 9th Schedule (9वीं अनुसूची) = **validation of laws** (1951), not RS seats (**4th**). 2019/2023/2025 PYQs all test that pair.
 
 **PYQ — UPPCS Prelims 2025, Q113**
 
@@ -539,7 +539,7 @@ Order = **EVM → EPIC → VVPAT → NOTA**.
 
 - **Tarkunde (1975):** Citizens’ commission; lower voting age idea (later **61st**).
 - **Dinesh Goswami (1990):** ECI strength, MCC, booth capturing, time-bound petitions.
-- **Indrajit Gupta (1998):State funding** of elections.
+- **Indrajit Gupta (गुप्त) (1998):State funding** of elections.
 - **Law Commission 170th / 255th:** Paid news, ceiling, internal party democracy.
 - **SC *ADR / PUCL* (2002–03):** Affidavit: **criminal antecedents, assets, education**.
 - **Electoral bonds (2018):** Anonymous party funding; **SC struck down Feb 2024** (*ADR*) — bonds are **not** current law.
@@ -574,9 +574,9 @@ D. 2, 1, 4, 3
 
 **One Nation One Election is not an ECI circular** — LS + Assemblies were largely **together 1951–67**; aligning terms needs **83 / 85 / 172 / 174**.
 
-- **History:** Mid-term dissolutions from **1968–69** broke the cycle.
+- **History (इतिहास):** Mid-term dissolutions from **1968–69** broke the cycle.
 - **Idea:** Hold LS and State Assemblies together (local bodies sometimes in a second cycle).
-- **Why “basic”:** Needs **constitutional** change to **83 / 85 / 172 / 174** (terms, dissolution) plus RPA — **not** an ECI notification.
+- **Why “basic”:** Needs **constitutional** change to **83 / 85 / 172 / 174** (terms, dissolution (विघटन)) plus RPA — **not** an ECI notification.
 - **Body:** High-level committee **2023–24** (Chair **Ram Nath Kovind**) recommended a framework; **not** yet the law.
 - **Trap:** Simultaneous ≠ ECI can dissolve a State Assembly on its own. **174** remains the Governor/CM/House politics.
 
@@ -701,8 +701,8 @@ D. None of the above
 **Q2a. UPPCS Prelims 2023, Q2**
 Match List-I with List-II:
 (A) Article 324 (B) Article 315 (C) Article 280 (D) Article 338
-1. NCSC
-2. Finance Commission
+1. NCSC (राष्ट्रीय अनुसूचित जाति आयोग)
+2. Finance Commission (वित्त आयोग)
 3. Public Service Commission
 4. Election Commission
 A. A-3, B-2, C-4, D-1
@@ -722,7 +722,7 @@ All elections to the Panchayats are conducted by—
 A. State Legislature
 B. State Election Commission
 C. Election Commission of India
-D. Panchayati Raj Commission of India
+D. Panchayati Raj (पंचायती राज) Commission of India
 
 <details>
 <summary>Show answer</summary>
@@ -734,8 +734,8 @@ D. Panchayati Raj Commission of India
 **Q3a. UPPCS Prelims 2023, Q7**
 Which one of the following pairs (Schedule — Subject) is **not** correctly matched?
 A. Third Schedule — Forms of Oaths or Affirmations
-B. Eighth Schedule — Languages
-C. Ninth Schedule — Allocation of seats in the Council of States
+B. Eighth Schedule (आठवीं अनुसूची) — Languages
+C. Ninth Schedule (नौवीं अनुसूची) — Allocation of seats in the Council of States
 D. Tenth Schedule — Provisions as to disqualification on the ground of defection
 
 <details>
@@ -797,8 +797,8 @@ D. The State Election Commission
 
 **Q7. UPPCS Prelims 2019, Q28**
 Which of the following is NOT correctly matched?
-A. Public Health and Sanitation — State List
-B. Census — Union List
+A. Public Health and Sanitation — State List (राज्य सूची)
+B. Census — Union List (संघ सूची)
 C. Allocation of seats in the Council of States — Second Schedule
 D. Anti-Defection — Tenth Schedule
 

@@ -4,7 +4,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-**Types:** National Emergency (352) | President's Rule (356) | Financial Emergency (360) | Martial Law vs National Emergency | Misuse of 356 | 44th Amendment & Emergency | Effect on Fundamental Rights (358–359)
+**Types:** National Emergency (राष्ट्रीय आपात) (352) | President's Rule (राष्ट्रपति शासन) (356) | Financial Emergency (वित्तीय आपात) (360) | Martial Law vs National Emergency | Misuse of 356 | 44th (44वां संशोधन) Amendment & Emergency | Effect on Fundamental Rights (मौलिक अधिकार) (358–359)
 
 **Comparison:** Grounds | Articles | Approval | Duration | Effects | Revocation
 
@@ -37,13 +37,13 @@
 
 1. Emergency Provisions sit in **Part XVIII** (**Articles 352–360**). There are three proclamations: **National Emergency (352)**, **President’s Rule (356)**, and **Financial Emergency (360)**.
 2. National Emergency under **352** may be proclaimed for **war**, **external aggression**, or **armed rebellion**. The **44th Amendment** replaced the old phrase **“internal disturbance”** with **armed rebellion**.
-3. A 352 proclamation needs **written advice of the Union Cabinet**, not the Prime Minister alone — a direct lesson from **1975**. Parliamentary approval must come within **one month** by **special majority** in both Houses (majority of total membership plus two-thirds of those present and voting).
-4. Once approved, a National Emergency continues for **six months** at a time with fresh approvals. The Lok Sabha can force revocation by passing a disapproval resolution. One-tenth of Lok Sabha members can compel a sitting within **fourteen days**.
+3. A 352 proclamation needs **written advice of the Union Cabinet**, not the Prime Minister alone — a direct lesson from **1975**. Parliamentary approval must come within **one month** by **special majority** in both Houses (majority of total membership (सदन की कुल सदस्य संख्या का) plus two-thirds (ते-भागा) of those present and voting (गणपूर्ति)).
+4. Once approved, a National Emergency continues for **six months** at a time with fresh approvals. The Lok Sabha (लोकसभा) can force revocation by passing a disapproval resolution. One-tenth of Lok Sabha members can compel a sitting (बैठक) within **fourteen days**.
 5. National Emergency has been used in **1962** (China), **1971** (Pakistan), and **1975–77** (the Internal Emergency, **25 June 1975 to 21 March 1977**).
 6. Under **Article 358**, **Article 19** automatically suspends only when the Emergency is on grounds of **war or external aggression** — **not** for armed rebellion alone. Under **359**, the President may suspend enforcement of named Fundamental Rights, but **Articles 20 and 21** can **never** be suspended (44th Amendment; contrast *ADM Jabalpur*).
 7. After the 44th Amendment, laws or executive action during Emergency need a real **emergency nexus** (**358(2) / 359**). Blanket misuse without nexus is not protected.
 8. **President’s Rule** uses **Article 356** (अनुच्छेद 356), linked to the Union’s duty under **355** and the directions-gateway under **365**. Parliamentary approval is needed within **two months** by **simple majority** in both Houses.
-9. President’s Rule runs in **six-month** slices. Beyond **one year**, continuation needs a National Emergency in force in India or that State **and** an Election Commission certificate that elections cannot be held. Maximum is normally **three years**.
+9. President’s Rule runs in **six-month** slices. Beyond **one year**, continuation needs a National Emergency in force in India or that State **and** an Election Commission (निर्वाचन आयोग) certificate that elections cannot be held. Maximum is normally **three years**.
 10. *S.R. Bommai* (**1994**) made 356 justiciable, insisted on majority on the **floor of the House**, and warned against dissolving the Assembly before Parliament approves the proclamation. The President **cannot** assume High Court powers under 356.
 11. The first use of President’s Rule was in **Punjab in 1951**. Mass misuse is especially remembered around **1977** and **1980**.
 12. **Financial Emergency (360)** is for a threat to India’s financial stability or credit. It has **never been used**. Approval window is **two months** by simple majority; it then continues until revoked — there is **no** six-month renewal clock like 352/356.
@@ -59,8 +59,8 @@
 22. During 356 the President (through the Governor) can assume State executive powers and Parliament/State law roles as provided, but judicial independence of the High Court is ring-fenced — no takeover of **High Court** powers.
 23. Financial Emergency directions can reach salary cuts for government servants and judges and can force reservation of money bills — facts that do not appear under ordinary 356 politics.
 24. The Emergency FR map is simple if memorised as a triangle: **358** auto-hits **19** (war/external only); **359** can suspend enforcement of other named rights by order; **20 and 21** stay awake.
-25. Cabinet written advice, armed rebellion wording, unsuspendable 20/21, and emergency nexus are the four **44th Amendment** knives every prelims answer should recall together.
-26. Punchhi later suggested **localising** 356 rather than dismissing a whole State government for a local breakdown — useful for mains, while *Bommai* remains the judicial fact for prelims.
+25. Cabinet written advice, armed rebellion wording, unsuspendable 20/21, and emergency nexus are the four (चातुर्याम) **44th Amendment** knives every prelims answer should recall together.
+26. Punchhi (पुंछी आयोग) later suggested **localising** 356 rather than dismissing a whole State government for a local breakdown — useful for mains, while *Bommai* remains the judicial fact for prelims.
 
 ---
 
@@ -151,7 +151,7 @@ Emergency Provisions sit in **Part XVIII** (Arts. **352–360**).
 - The President needs a **written** recommendation of the **Union Cabinet** (44th Amendment).
 - On **25 June 1975**, the Emergency was proclaimed on the Prime Minister’s advice **without** a Cabinet meeting — that is the key fact.
 - Each House must approve by a majority of its **total membership** (सदन की कुल सदस्य संख्या का) and by **two-thirds of members present and voting**.
-- The life of the Lok Sabha may be extended **one year at a time** during 352.
+- The life of the Lok Sabha (लोकसभा का कार्यकाल समाप्त) may be extended **one year at a time** during 352.
 - That extension cannot go beyond **six months** after the Emergency ends (**Art. 83(2)**).
 - Under **Art. 250**, Parliament may make laws on the **State List** for the emergency area.
 - Such 250 laws lapse **six months** after the Emergency ends.
@@ -162,7 +162,7 @@ Emergency Provisions sit in **Part XVIII** (Arts. **352–360**).
 - In *Minerva Mills* and later cases, the Court held that a 352 proclamation is **not** beyond judicial review.
 - The President may issue a **new** 352 proclamation on another ground even while one is already running (**38th Amendment**).
 - The **1971** external Emergency and the **1975** internal Emergency **overlapped** for a time.
-- If the Lok Sabha is not in session, **one-tenth** of its members may give written notice of a disapproval motion.
+- If the Lok Sabha is not in session (पंगु सत्र), **one-tenth** of its members may give written notice of a disapproval motion.
 - That notice forces a special sitting **within 14 days** (44th Amendment).
 - Under **Art. 172**, a State Assembly’s life may also be extended **one year at a time** during 352.
 - The same cap applies: not beyond **six months** after the Emergency ends.
@@ -209,7 +209,7 @@ D. (A) is true, but (R) is false
 
 **The densest emergency rewrite after 1975** — armed rebellion, written Cabinet, special majority, Arts. 20 & 21 locked, Lok Sabha veto.
 
-| Before (38th/42nd / 1975 practice) | After **44th** |
+| Before (38th/42nd (42वां) / 1975 practice) | After **44th** |
 |------------------------------------|----------------|
 | “Internal disturbance” enough for 352 | **Armed rebellion** |
 | PM could get a proclamation without Cabinet | **Written Cabinet** advice |
@@ -224,7 +224,7 @@ D. (A) is true, but (R) is false
 | 358/359 acts need not recite the Emergency | **Nexus + recital** (44th) — a law/order **unrelated** to the Emergency does not get 358/359 cover |
 | 360 satisfaction also “final” (38th) | Finality **gone** for 360 too |
 
-> **Logic:** The **44th** is the single densest emergency amendment. The **42nd** is the Mini-Constitution (Socialist / Secular / integrity, Fundamental Duties, five Concurrent subjects) — here fact only what it did to **352–360**. Original 352 approval was by **simple** majority; “always special” is a favourite trap.
+> **Logic:** The **44th** is the single densest emergency amendment. The **42nd** is the Mini-Constitution (Socialist / Secular / integrity, Fundamental Duties (मौलिक कर्तव्य), five Concurrent subjects) — here fact only what it did to **352–360**. Original 352 approval was by **simple** majority; “always special” is a favourite trap.
 
 ---
 
@@ -257,10 +257,10 @@ Match List-I with List-II:
 
 | Code | Item |
 |------|------|
-| A | Consolidated Fund of India |
-| B | Finance Commission |
+| A | Consolidated Fund of India (भारत की संचित निधि) |
+| B | Finance Commission (वित्त आयोग) |
 | C | Financial Emergency |
-| D | CAG |
+| D | CAG (भारत के नियंत्रक-महालेखापरीक्षक) |
 
 **List-II**
 
@@ -302,7 +302,7 @@ D. A-1, B-2, C-3, D-4
 - The High Court **does not** shut down.
 - Article 356 **expressly** bars the President from assuming **High Court** powers.
 - Legislation for the State is by Parliament or by the President / another authority under **357** — not by a dissolved Assembly.
-- The Rajya Sabha continues (it is never dissolved).
+- The Rajya Sabha (राज्यसभा) continues (it is never dissolved).
 - If the Lok Sabha is dissolved, the Rajya Sabha can approve 356; the new Lok Sabha must approve within **30 days** of its first sitting.
 
 ### Misuse of 356
@@ -310,12 +310,12 @@ D. A-1, B-2, C-3, D-4
 **First use: Punjab 1951** — mass misuse in **1977** and **1980**; commissions disagree on keep / localise / repeal.
 
 - First use: **Punjab, 1951**.
-- In **1977**, the Janata government dismissed **nine** Congress States.
-- In **1980**, Indira Gandhi returned the compliment against non-Congress States.
-- **Sarkaria** said: keep 356, use it as a **last resort**, insist on a floor test, and put **material facts** in the proclamation.
+- In **1977**, the Janata government dismissed **nine** Congress (कांग्रेस) States.
+- In **1980**, Indira Gandhi (गांधी) returned the compliment against non-Congress States.
+- **Sarkaria** (सरकारिया आयोग) said: keep 356, use it as a **last resort**, insist on a floor test, and put **material facts** in the proclamation.
 - **Punchhi** said: **localise** 356 (district, not whole State) where possible, and use **355** first.
 - **Rajamannar** said: **repeal** 356.
-- In Uttar Pradesh, 356 has been used several times; **December 1992** (post-Babri) is the Leading state that is asked.
+- In Uttar Pradesh (उत्तर प्रदेश), 356 has been used several times; **December 1992** (post-Babri) is the Leading state that is asked.
 
 **Sarkaria’s last-resort list (name four):**
 
@@ -331,7 +331,7 @@ D. A-1, B-2, C-3, D-4
 2. Majority must be tested on the **floor of the House**, not by Raj Bhavan counting.
 3. If the proclamation is mala fide or rests on irrelevant grounds, it can be **struck** and the Assembly **revived**.
 4. **Secularism** is a basic feature; anti-secular State action can justify 356.
-5. Dissolution of the Legislative Assembly comes **after** parliamentary approval, not before.
+5. Dissolution (विघटन) of the Legislative Assembly comes **after** parliamentary approval, not before.
 
 - In *Rameshwar Prasad* (2006, Bihar), dissolution on a mere apprehension of horse-trading was **struck down**.
 - The Governor’s 356 *recommendation* is a **discretion** under Art. **163** — the fact here is the article plus *Bommai*.
@@ -463,14 +463,14 @@ D. (A) is true, but (R) is false
 **Q4. UPPCS Prelims 2021, Q54**
 Which one of the following is NOT correctly matched? (Provisions) (Sources)
 A. Fundamental Rights – USA
-B. Directive Principles of State Policy – Ireland
+B. Directive Principles (राज्य के नीति निदेशक तत्व) of State Policy – Ireland
 C. Residual Powers of Center – Australia
 D. Emergency powers – Germany
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Residuary = **Canada**. Emergency FR-suspension = **Germany** (Weimar) is **correctly** matched.
+**Ans: C.** Residuary (अवशिष्ट) = **Canada**. Emergency FR-suspension = **Germany** (Weimar) is **correctly** matched.
 
 </details>
 

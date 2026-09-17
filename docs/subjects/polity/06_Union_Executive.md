@@ -4,11 +4,11 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-**President:** President (Art. 52–62) | Election of President | Electoral College | Proportional Representation by Single Transferable Vote | Value of vote | Qualifications & Conditions | Oath | Term & Vacancy | Impeachment (Art. 61) | Powers of President (Executive, Legislative, Financial, Judicial, Diplomatic, Military, Emergency) | Veto Powers (Absolute, Suspensive, Pocket) | Pardoning Power (Art. 72) | Ordinance-Making Power (Art. 123)
+**President:** President (Art. 52–62) | Election of President | Electoral College | Proportional Representation by Single Transferable Vote | Value of vote | Qualifications & Conditions | Oath | Term & Vacancy | Impeachment (Art. 61) | Powers of President (Executive, Legislative, Financial, Judicial, Diplomatic, Military, Emergency) | Veto Powers (Absolute (निरपेक्ष), Suspensive, Pocket) | Pardoning Power (Art. 72) | Ordinance-Making Power (Art. 123)
 
-**Vice-President & Council of Ministers:** Vice-President (Art. 63–71) | Election & Removal of VP | Prime Minister (Art. 74, 75, 78) | Council of Ministers | Collective Responsibility | Cabinet | Kitchen/Inner Cabinet | Cabinet Committees | Cabinet Secretariat | PMO | Deputy Prime Minister | Doctrine of Pleasure | Attorney General (Art. 76)
+**Vice-President & Council of Ministers:** Vice-President (Art. 63–71) | Election & Removal of VP | Prime Minister (Art. 74, 75, 78) | Council of Ministers | Collective Responsibility | Cabinet | Kitchen/Inner Cabinet | Cabinet Committees | Cabinet Secretariat | PMO | Deputy Prime Minister | Doctrine of Pleasure | Attorney General (महान्यायवादी) (Art. 76)
 
-**Protocol:** Warrant / Table of Precedence (1979) | Ranks 1–11 high-yield | Ceremonial only — not succession
+**Protocol:** Warrant / Table of Precedence (वरीयता क्रम) (1979) | Ranks 1–11 high-yield | Ceremonial only — not succession (उत्तराधिकार क्रम)
 
 </details>
 
@@ -40,8 +40,8 @@ Who participates in the election of the Vice-President of India?
 
 A. All the members of both Houses of Parliament
 B. Members of Parliament and State Legislatures
-C. Members of Rajya Sabha only
-D. Members of Lok Sabha only
+C. Members of Rajya Sabha (राज्यसभा) only
+D. Members of Lok Sabha (लोकसभा) only
 
 <details>
 <summary>Show answer</summary>
@@ -62,27 +62,27 @@ D. Members of Lok Sabha only
 3. **Article 53** vests executive power of the Union in the **President**, exercised in practice on the **aid and advice** of the Council of Ministers under **Article 74**.
 4. The President is elected **indirectly** by an Electoral College of **elected** MPs of both Houses, **elected** MLAs of the States, and **elected** MLAs of **Delhi and Puducherry** (**70th Amendment**).
 5. **Nominated** members of Parliament and members of State **Legislative Councils** do **not** vote in the Presidential election. They **do** vote in the Vice-President’s election.
-6. Election uses **proportional representation by single transferable vote** and a secret ballot. Vote-value population is frozen at the **1971 census** until the first census after **2026**.
+6. Election uses **proportional representation by single transferable vote** and a secret ballot. Vote-value population (जनसंख्या) is frozen at the **1971 census** until the first census after **2026**.
 7. Presidential qualifications (**Article 58**): citizen, completed **35 years**, and qualified for election to the **Lok Sabha** (लोकसभा) (not Rajya Sabha). Oath is before the **Chief Justice of India**.
 8. Term is **five years**; re-election is allowed any number of times. A vacancy by death, resignation or removal must be filled within **six months**; the Vice-President acts until then.
 9. Impeachment under **Article 61** is for **violation of the Constitution**. Nominated MPs **can** vote in impeachment; **State MLAs do not**. No President has ever been impeached.
 10. Veto types in India: **absolute**, **suspensive**, and **pocket** (no fixed time limit). There is **no qualified veto** of the USA type.
 11. On a **Money Bill**, the President may only **assent or withhold** — he **cannot return** it for reconsideration. After the **24th Amendment**, he **must assent** to a Constitution Amendment Bill.
 12. **Article 72** (President) covers Union offences, court-martial sentences, and **death sentences**. **Article 161** (Governor) does **not** cover death sentence or court-martial.
-13. **Article 123** ordinances: Houses not in session; must be laid and lapse if not approved within **six weeks** of reassembly. An ordinance **cannot amend the Constitution**.
+13. **Article 123** ordinances: Houses not in session (पंगु सत्र); must be laid and lapse if not approved within **six weeks** of reassembly. An ordinance **cannot amend the Constitution**.
 14. The Vice-President is **ex-officio Chairman of the Rajya Sabha** but is **not a member** of the House. Removal under **Article 67** starts in the Rajya Sabha (effective majority) and needs Lok Sabha agreement, with **14 days’** notice — not a full “impeachment” label.
 15. Vice-President’s Electoral College is **both Houses of Parliament**, including **nominated** members; **State legislatures do not** take part.
-16. **Article 74** aid and advice is **binding** on the President (42nd / 44th line). **Article 78** is the Prime Minister’s duty to communicate information to the President.
+16. **Article 74** aid and advice is **binding** on the President (42nd (42वां) / 44th (44वां संशोधन) line). **Article 78** is the Prime Minister’s duty to communicate information to the President.
 17. Council of Ministers size is capped at **15% of the Lok Sabha** by the **91st Amendment**. Collective responsibility under **Article 75(3)** is to the **Lok Sabha only**.
 18. Individual ministers hold office during the **pleasure of the President** (**Article 75(2)**). Rank order: Cabinet Ministers → Ministers of State → Deputy Ministers. Cabinet Committees are **extra-constitutional**.
 19. The **Attorney General** (महान्यायवादी) (**Article 76**) is the first law officer, needs Supreme Court judge qualifications, holds office **during the pleasure of the President**, and may **speak in both Houses** but **cannot vote**.
 20. The **Warrant / Table of Precedence (1979)** is **ceremonial only**. It is **not** the constitutional line of succession.
 21. Precedence ranks to fact: **1** President, **2** Vice-President, **3** Prime Minister, **4** Governors (within their State), **5** former Presidents, **6CJI = Speaker**, **7** Cabinet Ministers / CMs (in State) / former PMs / Leaders of Opposition, **11Attorney General**.
 22. Do not place the Speaker below Cabinet Ministers: Speaker shares **rank 6** with the CJI; Cabinet Ministers are **rank 7**. AG at **11** does **not** outrank Cabinet Ministers.
-23. **CEC / CAG / UPSC Chair** sit at **9A**; Supreme Court judges sit at **9** — do not swap those bands.
+23. **CEC / CAG (भारत के नियंत्रक-महालेखापरीक्षक) / UPSC (संघ लोक सेवा आयोग) Chair** sit at **9A**; Supreme Court judges sit at **9** — do not swap those bands.
 24. The PMO is headed by the **Principal Secretary** to the PM. The **Cabinet Secretariat** is headed by the **Cabinet Secretary** — different offices.
 25. Nomination for President needs **50** proposers and **50** seconders; disputes go to the **Supreme Court** under **Article 71**.
-26. Resignation of the President is addressed to the **Vice-President**. The President shall not be a member of either House; if a sitting member is elected, the seat is vacated.
+26. Resignation of the President is addressed to the **Vice-President**. The President shall not be a member of either House; if a sitting (बैठक) member is elected, the seat is vacated.
 27. Kitchen / inner Cabinet and most Cabinet Committees are political practice, not constitutional offices. Deputy Prime Minister is also a political designation, not a separate constitutional post.
 28. **Droupadi Murmu** became the **15th President** (office from **25 July 2022**) — first tribal President and second woman President.
 
@@ -164,7 +164,7 @@ The President is elected **indirectly** by an Electoral College consisting of:
 | Included | Excluded |
 |----------|----------|
 | Elected MPs (both Houses) | **Nominated** members of Parliament |
-| Elected MLAs of States | Members of **Legislative Councils** (Vidhan Parishad) |
+| Elected MLAs of States | Members of **Legislative Councils** (Vidhan Parishad (विधान परिषद)) |
 | Elected MLAs of Delhi & Puducherry | **Nominated** MLAs; other UT assemblies |
 
 > ** note (repeat trap):** Nominated members and members of State **Legislative Councils** do **not** vote in the **Presidential** election. (They *do* vote in the **Vice-President's** election.)
@@ -219,9 +219,9 @@ D. All members of Parliament and State Legislatures
 ## President — Impeachment (Art. 61)
 
 - **Only ground:"violation of the Constitution"** (the term is not defined).
-- **Procedure:** charges may be initiated by **either House**; the resolution must be:
+- **Procedure (प्रक्रिया):** charges may be initiated by **either House**; the resolution must be:
  1. Signed by at least **one-fourth (1/4)** of the total members of that House, with **14 days' notice**;
- 2. Passed by a **two-thirds (2/3) majority of the total membership** of that House;
+ 2. Passed by a **two-thirds (ते-भागा) (2/3) majority of the total membership (सदन की कुल सदस्य संख्या का)** of that House;
  3. Investigated by the **other House**; the President has the right to appear/be represented;
  4. If the other House also passes it by **2/3 of total membership**, the President is removed from the date of the resolution.
 
@@ -242,11 +242,11 @@ D. All members of Parliament and State Legislatures
 |----------|------------|
 | **Executive** | All Union executive action is in his name; appoints PM, other ministers, AG, CAG, CJI & judges, Governors, Election Commissioners, UPSC/FC chairs, etc. |
 | **Legislative** | Summons/prorogues Parliament, dissolves Lok Sabha; **special address** (Art. 87); nominates 12 RS members (literature, science, art, social service) & (earlier) Anglo-Indians; assents to Bills (Art. 111) — **veto**; **ordinance** (Art. 123) |
-| **Financial** | Money Bill needs prior recommendation; causes Budget to be laid; Contingency Fund at his disposal; constitutes the **Finance Commission** (वित्त आयोग) |
+| **Financial** | Money Bill needs prior recommendation; causes Budget to be laid; Contingency Fund (आकस्मिकता निधि) at his disposal; constitutes the **Finance Commission** (वित्त आयोग) |
 | **Judicial** | Appoints judges; seeks **advisory opinion** (Art. 143); **pardoning power** (Art. 72) |
 | **Diplomatic** | Treaties/agreements negotiated in his name; appoints & receives diplomats |
 | **Military** | **Supreme Commander** of the Defence Forces; appoints chiefs (actual power regulated by law) |
-| **Emergency** | National (352), President's Rule (356), Financial (360) |
+| **Emergency** | National (352), President's Rule (राष्ट्रपति शासन) (356), Financial (360) |
 
 **PYQ — UPPCS Prelims 2021, Q84**
 
@@ -302,7 +302,7 @@ D. (A) is false, but (R) is true
 
 </details>
 
-**PYQ — UPPCS Prelims 2023, Q4Assertion (A):** The President can recommend to the Parliament to change the boundary of any State after seeking the views of the concerned Legislature of that State within the specified period.
+**PYQ — UPPCS Prelims 2023, Q4Assertion (A):** The President can recommend (सिफारिश) to the Parliament to change the boundary of any State after seeking the views of the concerned Legislature of that State within the specified period.
 
 **Reason (R):** It is not mandatory for the President to accept the proposal of the concerned State Legislature.
 
@@ -359,7 +359,7 @@ D. (A) is false, but (R) is true
 - Has the **same force and effect** as an Act of Parliament; can be **retrospective**; cannot make what Parliament cannot enact.
 - Must be **laid before both Houses** when they reassemble; **ceases to operate six weeks** from reassembly (or earlier if disapproved).
 - **Cannot** be used to **amend the Constitution**.
-- *D.C. Wadhwa* (1987): re-promulgation of ordinances is a "fraud on the Constitution"; *Krishna Kumar Singh* (2017): re-promulgation without placing before legislature is unconstitutional; laying before the House is **mandatory**.
+- *D.C. Wadhwa* (1987): re-promulgation of ordinances is a "fraud on the Constitution"; *Krishna (कृष्णा) Kumar Singh* (2017): re-promulgation without placing before legislature is unconstitutional; laying before the House is **mandatory**.
 
 ### Ordinance vs Bill — compare card
 
@@ -369,7 +369,7 @@ D. (A) is false, but (R) is true
 | Force | Same as an Act until it lapses | Becomes Act after assent | Becomes Act after assent | Amends Constitution after assent |
 | Assent / return | Laid before Houses; **no** Art. 111 return story | President may assent, withhold, return, or pocket | Assent or withhold — **cannot return** | President **must** assent (24th Amendment) |
 | Life | **Six weeks** from reassembly (or earlier disapproval) | Permanent until repealed / struck down | Same as ordinary Act | Permanent until later amendment |
-| Joint sitting | Not the ordinance path | Possible for ordinary Bills | **No** joint sitting | **No** joint sitting |
+| Joint sitting (संयुक्त बैठक) | Not the ordinance path | Possible for ordinary Bills | **No** joint sitting | **No** joint sitting |
 | Amend Constitution? | **No** | **No** (ordinary path) | **No** | **Yes** — that is its purpose |
 
 - An ordinance is **temporary executive law-making** on ministerial advice, not a shortcut past a Constitution Amendment Bill.
@@ -395,7 +395,7 @@ D. (A) is false, but (R) is true
 
 - The Vice-President is elected by an **electoral college** of **members of both Houses of Parliament** — **elected and nominated** (**Article 66(1)**).
 - **State legislatures do not** take part. This is the classic contrast with the President’s election.
-- Voting uses **proportional representation by means of the single transferable vote** and a **secret ballot**.
+- Voting (गणपूर्ति) uses **proportional representation by means of the single transferable vote** and a **secret ballot**.
 - Eligibility under **Article 66(3):** citizen of India, completed **35 years**, and **qualified for election as a member of the Rajya Sabha** (not the Lok Sabha — that is the President’s qualification trap).
 
 ### Term, resignation, removal (Art. 67)
@@ -514,10 +514,10 @@ D. R. Venkataraman
 
 ## Prime Minister (Art. 74, 75, 78)
 
-- **Appointment (Art. 75):** appointed by the **President** — by convention, the leader of the majority party/coalition in the Lok Sabha. The PM is the **real head** of the Council of Ministers; the President is the **nominal** Head of State.
+- **Appointment (Art. 75):** appointed by the **President** — by convention, the leader of the majority party/coalition (गठबंधन) in the Lok Sabha. The PM is the **real head** of the Council of Ministers; the President is the **nominal** Head of State.
 - **Art. 74:** there **shall be** a Council of Ministers with the **PM at the head** to **aid and advise** the President; the advice is **binding** on the President (42nd Amendment made it binding; 44th allowed **one** reconsideration, after which it is binding). Court inquiry into the advice is barred by **Art. 74(2)**.
 - **Art. 78:** duties of the PM — to **communicate** all decisions of the CoM to the President, furnish information, and submit matters for the consideration of the Council when the President so requires.
-- The PM is the **channel of communication** between the President and the CoM, chairs Cabinet meetings, and advises the President on major appointments and dissolution of the Lok Sabha.
+- The PM is the **channel of communication** between the President and the CoM, chairs Cabinet meetings, and advises the President on major appointments and dissolution (विघटन) of the Lok Sabha.
 - **Age:** the Constitution does not fix a separate PM age; the practical floor is **25 years** (Lok Sabha eligibility) if the person seeks a Lok Sabha seat, or **30** if only Rajya Sabha membership is intended.
 - A PM who sits only in the **Rajya Sabha** may **speak** in the Lok Sabha but **cannot vote** there — so he cannot vote on a **no-confidence** (अविश्वास प्रस्ताव) motion.
 
@@ -581,7 +581,7 @@ D. (A) is false, but (R) is true
 |------|------|
 | **Cabinet** | Inner body of **Cabinet-rank** ministers plus the PM; the real policy-deciding core. The word “Cabinet” was inserted into **Art. 352** by the **44th Amendment** — it did **not** appear in the original text |
 | **Kitchen / Inner Cabinet** | Informal group of the PM’s most trusted colleagues — **extra-constitutional** |
-| **Cabinet Committees** | **Extra-constitutional**, set up by the PM as per need — Security (CCS), Economic Affairs (CCEA), Appointments, Political Affairs, Parliamentary Affairs. If the **PM is a member**, he is **necessarily** the Chairman of that committee |
+| **Cabinet Committees** | **Extra-constitutional**, set up by the PM as per need — Security (CCS (सुरक्षा कैबिनेट समिति)), Economic Affairs (CCEA), Appointments, Political Affairs, Parliamentary Affairs. If the **PM is a member**, he is **necessarily** the Chairman of that committee |
 | **Cabinet Secretariat** | Under the **direct charge of the PM** (not the Vice-President); headed by the **Cabinet Secretary** — senior-most civil servant and **ex-officio Chairman of the Civil Services Board**; prepares Cabinet agendas and assists Cabinet Committees |
 | **PMO (Prime Minister's Office)** | A **staff agency**; headed by the **Principal Secretary** (not the Cabinet Secretary); renamed “PMO” in **1977** |
 | **Ministries count** | **18** ministries on **15 August 1947**; the present figure changes with Allocation of Business (dump teaching figure ≈ **53**) |
@@ -629,11 +629,11 @@ D. Neither 1 nor 2
 
 ---
 
-## Comptroller and Auditor General of India (Art. 148–151)
+## Comptroller and Auditor General (नियंत्रक-महालेखापरीक्षक) of India (Art. 148–151)
 
 | Item | Fact |
 |------|------|
-| Office | Independent constitutional office under **Art. 148**; Ambedkar called the CAG probably the **most important officer** under the Constitution |
+| Office | Independent constitutional office under **Art. 148**; Ambedkar (अम्बेडकर) called the CAG probably the **most important officer** under the Constitution |
 | Appointment / removal | Appointed by the **President**; removed **only like a Supreme Court judge** (special-majority address of both Houses — **not** pleasure tenure) |
 | Tenure | **6 years** or until age **65**, whichever is earlier (CAG Act, 1971); salary equals an **SC judge** (Second Schedule / Act) |
 | After demitting | **Not eligible** for further office under the Union or any State (Art. 148(4)) |
@@ -643,7 +643,7 @@ D. Neither 1 nor 2
 | Expenses of office | Charged on the **Consolidated Fund of India** (Art. 148(6)) — **not** voted annually like ordinary demand |
 | Accounts vs audit | **1976** amendment of the CAG Act separated **accounts** from **audit** at the Centre; CAG’s Centre task is mainly **audit** |
 
-> **Logic:** CAG does **not** exercise exchequer control during Emergency, and has **no judicial power** to prosecute. Ultimate action on CAG comments rests with **Parliament** (via PAC). Contrast: **AG = pleasure**; **CAG = SC-judge security**.
+> **Logic:** CAG does **not** exercise exchequer control during Emergency, and has **no judicial power** to prosecute. Ultimate action on CAG comments rests with **Parliament** (via PAC (लोक लेखा समिति)). Contrast: **AG = pleasure**; **CAG = SC-judge security**.
 
 **PYQ — UPPCS Prelims 2023, Q12**
 
@@ -700,7 +700,7 @@ D. Neither 1 nor 2 is correct
 | Nature | **Nominal** head; real power with CoM | **Real** executive head |
 | Election | Indirect (Electoral College, PR-STV) | Indirect (Electoral College, but different) |
 | Term | 5 years, unlimited re-election | 4 years, max 2 terms (22nd Amendment) |
-| Veto | Absolute, suspensive, pocket | Qualified veto (Congress override 2/3) |
+| Veto | Absolute, suspensive, pocket | Qualified veto (Congress (कांग्रेस) override 2/3) |
 | System | Parliamentary | Presidential |
 
 ---
@@ -728,7 +728,7 @@ D. 1, 4, 3, 2
 
 </details>
 
-> **Quick list:** Rajendra Prasad (1st, longest — two terms) · S. Radhakrishnan (2nd) · Zakir Hussain (3rd, first to die in office) · V.V. Giri (first Acting President; then elected) · Fakhruddin Ali Ahmed (2nd to die in office) · N. Sanjiva Reddy (youngest, unopposed) · Giani Zail Singh (pocket veto) · R. Venkataraman · Shankar Dayal Sharma · K.R. Narayanan (first Dalit) · A.P.J. Abdul Kalam · Pratibha Patil (**first woman**) · Pranab Mukherjee · Ram Nath Kovind · **Droupadi Murmu (15th, first tribal, second woman, 2022)**.
+> **Quick list:** Rajendra Prasad (1st, longest — two terms) · S. Radhakrishnan (2nd) · Zakir Hussain (3rd, first to die in office) · V.V. Giri (first Acting President; then elected) · Fakhruddin Ali Ahmed (2nd to die in office) · N. Sanjiva Reddy (youngest, unopposed) · Giani Zail Singh (pocket veto) · R. Venkataraman · Shankar Dayal Sharma · K.R. Narayanan (first Dalit (दलित)) · A.P.J. Abdul Kalam · Pratibha Patil (**first woman**) · Pranab Mukherjee · Ram Nath Kovind · **Droupadi Murmu (15th, first tribal, second woman, 2022)**.
 
 ---
 
@@ -736,11 +736,11 @@ D. 1, 4, 3, 2
 
 **Identity:** Ceremonial rank list for state functions | **Not** constitutional authority | **Not** the presidential line of succession
 
-- The **Warrant of Precedence** (also called **Table of Precedence**) is issued by the **President’s Secretariat** and maintained by the **Ministry of Home Affairs** — central notification **No. 33-Pres/79 (26 July 1979)**, with later amendments.
+- The **Warrant of Precedence** (वरीयता) (also called **Table of Precedence**) is issued by the **President’s Secretariat** and maintained by the **Ministry of Home Affairs** — central notification **No. 33-Pres/79 (26 July 1979)**, with later amendments.
 - It fixes **seating, reception, and procession order** at official and ceremonial occasions only.
 - **Note 1 (official fact):** it has **no application** to the day-to-day business of government and **does not** confer legal or executive power.
 - Within the **same article/rank**, persons usually take precedence **inter se** by **date of entry** into that rank (or alphabetically where dates are unclear).
-- Trap: do **not** confuse this table with **constitutional succession** (President → Vice-President → … under Arts. 56–62 / 65).
+- Trap: do **not** confuse this table with **constitutional succession** (उत्तराधिकार) (President → Vice-President → … under Arts. 56–62 / 65).
 
 ### High-yield ranks (Articles 1–11)
 
@@ -754,11 +754,11 @@ D. 1, 4, 3, 2
 | **5A** | **Deputy Prime Minister** (when office exists) |
 | **6** | **Chief Justice of India** and **Speaker of Lok Sabha** — **equal rank** |
 | **7** | **Union Cabinet Ministers**; **Chief Ministers** (within their States); **Former Prime Ministers**; **Leaders of Opposition** in RS and LS |
-| **7A** | Holders of **Bharat Ratna** decoration |
+| **7A** | Holders of **Bharat Ratna** (भारत रत्न) decoration |
 | **8** | Ambassadors / High Commissioners; **Governors outside their States**; **Chief Ministers outside their States** |
 | **9** | **Judges of the Supreme Court** |
 | **9A** | **Chairman, UPSC**; **Chief Election Commissioner**; **Comptroller and Auditor General** (नियंत्रक-महालेखापरीक्षक) |
-| **10** | **Deputy Chairman, Rajya Sabha**; **Deputy Speaker, Lok Sabha**; **Ministers of State** (Union); **Deputy Chief Ministers** (within State); NITI Aayog members (as listed) |
+| **10** | **Deputy Chairman, Rajya Sabha**; **Deputy Speaker, Lok Sabha**; **Ministers of State** (Union); **Deputy Chief Ministers** (within State); NITI (नीति) Aayog (नीति आयोग) members (as listed) |
 | **11** | **Lieutenant Governors** (within UT); **Cabinet Secretary**; **Attorney General of India**; Principal Scientific Adviser |
 
 ### Confused pairs (precedence traps)
@@ -1021,7 +1021,7 @@ D. Neither 1 nor 2
 **Q14. UPPCS Prelims 2018, Q66**
 Who was the UPA candidate for the 2017 Presidential election?
 A. Ms. Meira Kumar
-B. Mr. Gopal Krishna Gandhi
+B. Mr. Gopal Krishna Gandhi (गांधी)
 C. Dr. Karan Singh
 D. None of the above
 
@@ -1050,7 +1050,7 @@ D. None of the above
 Who is the author of the book "The Accidental Prime Minister"?
 A. Rajdeep Sardesai
 B. Karan Thapar
-C. Kuldeep Nayar
+C. Kuldeep Nayar (नयार)
 D. Sanjaya Baru
 
 <details>
@@ -1086,7 +1086,7 @@ D. Political head along with the Council of Ministers
 
 </details>
 
-**Q2. Uttarakhand P.C.S. (Pre) 2024**
+**Q2. Uttarakhand (उत्तराखंड) P.C.S. (Pre) 2024**
 
 According to the Constitution of India, who among the following is the Head of the State?
 
@@ -1431,7 +1431,7 @@ The electoral college of President consists of —
 1. Elected members of both houses of Parliament
 2. Elected members of both houses of State Legislatures.
 3. Elected members of the Legislative Assemblies of all states.
-4. Elected members of legislative assemblies of Delhi and Pondicherry.
+4. Elected members of legislative assemblies of Delhi and Pondicherry (पांडिचेरी).
 
 Code:
 
@@ -1554,7 +1554,7 @@ The members of board of election of the President of India are–
 
 1. Elected members of Lok Sabha
 2. Elected members of Rajya Sabha
-3. Elected members of Vidhan Sabha
+3. Elected members of Vidhan Sabha (विधानसभा)
 4. Elected members of Vidhan Parishad
 
 Code:
@@ -1745,7 +1745,7 @@ How many of the above statements are correct?
 A. Only one
 B. Only two
 C. Only three
-D. All four
+D. All four (चातुर्याम)
 
 <details>
 <summary>Show answer</summary>
@@ -1938,7 +1938,7 @@ The President holds office for a term of 5 years from date on —
 A. Which he/she is elected
 B. Which is decided by Parliament
 C. Which he enters upon his office/hold his office
-D. Which is decided by Election Commission
+D. Which is decided by Election Commission (निर्वाचन आयोग)
 
 <details>
 <summary>Show answer</summary>
@@ -2401,7 +2401,7 @@ D. The Attorney General for India
 <details>
 <summary>Show answer</summary>
 
-**Logic:** The line does not pass to a political executive or a presiding officer of Parliament.
+**Logic:** The line does not pass to a political executive or a presiding officer (पीठासीन अधिकारी) of Parliament.
 
 **Ans: C.** The **Chief Justice of India** performs the functions in this contingency.
 
@@ -2510,7 +2510,7 @@ D. Cabinet
 Consider the following statements regarding sessions of Parliament:
 
 1. The President may prorogue either House without the aid and advice of the Council of Ministers.
-2. Prorogation terminates a session of a House but does not dissolve the House.
+2. Prorogation (सत्रावसान) terminates a session of a House but does not dissolve the House.
 3. The President may prorogue a House even when it is sitting.
 
 Which of the statements given above are correct?
@@ -2523,7 +2523,7 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Statement 1 is false because prorogation requires ministerial advice. Statements 2 and 3 correctly distinguish prorogation from dissolution and from adjournment.
+**Logic:** Statement 1 is false because prorogation requires ministerial advice. Statements 2 and 3 correctly distinguish prorogation from dissolution and from adjournment (स्थगन).
 
 **Ans: C.** Statements **2 and 3 only** are correct.
 
@@ -2567,7 +2567,7 @@ D. The President
 
 **Q77. Uttarakhand P.C.S. (Pre)**
 
-Who is empowered to summon a joint sitting of both Houses of Parliament to resolve a deadlock on an ordinary Bill?
+Who is empowered to summon (आहूत करना) a joint sitting of both Houses of Parliament to resolve a deadlock on an ordinary Bill?
 
 A. The President
 B. The Speaker of the Lok Sabha
@@ -2577,7 +2577,7 @@ D. The Chairman of the Rajya Sabha
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Article 108 gives the summoning power to the President; the Speaker normally presides after the sitting is summoned.
+**Logic:** Article 108 gives the summoning (आहूत करना) power to the President; the Speaker normally presides after the sitting is summoned.
 
 **Ans: A.** The **President** summons the joint sitting.
 
@@ -2934,7 +2934,7 @@ D. I, II and III
 <details>
 <summary>Show answer</summary>
 
-**Logic:** An Ordinance has the same legislative scope as a Central Act and may be retrospective, but it cannot take away or abridge Fundamental Rights. The printed key letter “(a)” in one dump conflicts with its own explanation that I and III alone are correct.
+**Logic:** An Ordinance has the same legislative scope as a Central Act and may be retrospective, but it cannot take away or abridge Fundamental Rights (मौलिक अधिकार). The printed key letter “(a)” in one dump conflicts with its own explanation that I and III alone are correct.
 
 **Ans: C. I and III only.** Statement II is incorrect.
 
@@ -2945,7 +2945,7 @@ D. I, II and III
 Which among the following is/are appointed by the President of India?
 
 1. Chairman of the Finance Commission
-2. Vice-Chairman of the Planning Commission
+2. Vice-Chairman of the Planning Commission (योजना आयोग)
 3. Chief Ministers of the Union Territories
 
 Select the correct answer by using the following code:
@@ -3255,7 +3255,7 @@ D. 1, 2, 3 and 4
 Which one of the following is **not** a legislative prerogative of the President?
 
 A. Summoning Parliament
-B. Returning a Financial Bill for reconsideration
+B. Returning a Financial Bill (वित्तीय) for reconsideration
 C. Proroguing Parliament
 D. Dissolving the Lok Sabha
 
@@ -3280,7 +3280,7 @@ D. President
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Paragraph 6 of the Fifth Schedule authorises the President to declare, enlarge, diminish or alter a Scheduled Area.
+**Logic:** Paragraph 6 of the Fifth Schedule (5वीं अनुसूची) authorises the President to declare, enlarge, diminish or alter a Scheduled Area.
 
 **Ans: D. President.**
 
@@ -3311,7 +3311,7 @@ D. Union Cabinet
 Dr Rajendra Prasad, the first President of India, belonged to which State?
 
 A. Bihar
-B. Uttar Pradesh
+B. Uttar Pradesh (उत्तर प्रदेश)
 C. Madhya Pradesh
 D. West Bengal
 
@@ -3331,7 +3331,7 @@ Which one of the following places in Bihar is associated with the birth of Dr Ra
 A. Sadaqat Ashram
 B. Jiradei in Saran district
 C. Ziradei in present-day Siwan district
-D. Motihari in East Champaran
+D. Motihari in East Champaran (चंपारण)
 
 <details>
 <summary>Show answer</summary>
@@ -3556,7 +3556,7 @@ D. A. P. J. Abdul Kalam
 
 **Q127. U.P.P.C.S. (Pre)**
 
-Which President of India was prominently associated with the trade union movement?
+Which President of India was prominently associated with the trade (पण्याध्यक्ष) union movement?
 
 A. V. V. Giri
 B. Zakir Hussain
@@ -3615,7 +3615,7 @@ Which one of the following is the odd one out?
 A. Dr Rajendra Prasad
 B. Dr S. Radhakrishnan
 C. Dr Zakir Hussain
-D. Jawaharlal Nehru
+D. Jawaharlal Nehru (जवाहरलाल नेहरू)
 
 <details>
 <summary>Show answer</summary>
@@ -3701,7 +3701,7 @@ D. R. Venkataraman
 
 **Q135. U.P.P.C.S. (Pre)**
 
-Who was the principal architect of Rashtrapati Bhavan, originally built as the Viceroy’s House?
+Who was the principal architect of Rashtrapati Bhavan, originally built as the Viceroy (वायसराय)’s House?
 
 A. Herbert Baker
 B. Le Corbusier
@@ -5288,9 +5288,9 @@ Match each Prime Minister with the state of which he had earlier been Chief Mini
 | List I — Prime Minister | List II — State |
 | --- | --- |
 | A. P. V. Narasimha Rao | 1. Uttar Pradesh |
-| B. Morarji Desai | 2. Gujarat |
+| B. Morarji Desai (आमिल) | 2. Gujarat |
 | C. H. D. Deve Gowda | 3. Andhra Pradesh |
-| D. Charan Singh | 4. Karnataka |
+| D. Charan (चारण) Singh | 4. Karnataka |
 | E. Narendra Modi | 5. Bombay State |
 
 *Row order is not the answer code.*
@@ -5747,7 +5747,7 @@ D. R. S. Sharma
 
 Sarosh Zaiwalla is well known in which field?
 
-A. Constitutional history 
+A. Constitutional history (इतिहास) 
 B. Election management 
 C. International law 
 D. Public finance
@@ -5783,9 +5783,9 @@ D. Jual Oram
 
 Who held the additional charge of the Union Ministry of Minority Affairs in the relevant period?
 
-A. Smriti Irani 
+A. Smriti (स्मृति) Irani 
 B. Nirmala Sitharaman 
-C. Meenakshi Lekhi 
+C. Meenakshi (मीनाक्षी) Lekhi 
 D. Anupriya Patel
 
 <details>
@@ -5975,7 +5975,7 @@ Which of the following pairs is not correctly matched?
 
 A. Jawaharlal Nehru — Shanti Van 
 B. Lal Bahadur Shastri — Vijay Ghat 
-C. Indira Gandhi — Shakti Sthal 
+C. Indira Gandhi — Shakti (शक्ति) Sthal 
 D. Rajiv Gandhi — Karam Bhumi
 
 <details>
@@ -6009,7 +6009,7 @@ D. Morarji Desai
 
 These questions reinforce constitutional provisions, functions, tenure, parliamentary participation, audit, and accountability. Each answer includes the tested distinction and the decisive fact.
 
-### Attorney General and Advocate General
+### Attorney General and Advocate General (महाधिवक्ता)
 
 **Q1. BPSC (Re.)**
 
@@ -6674,7 +6674,7 @@ D. Chief Justice of India
 
 **Logic:** Article 148(1) directly identifies the appointing authority.
 
-**Ans: A.** The President appoints the CAG by warrant under hand and seal.
+**Ans: A.** The President appoints the CAG by warrant under hand and seal (मुद्रा).
 
 </details>
 
@@ -6804,7 +6804,7 @@ D. Until age 70
 
 </details>
 
-**Q42. UPPSC Revenue Inspector (Pre.) 2014**
+**Q42. UPPSC (उत्तर प्रदेश लोक सेवा आयोग) Revenue Inspector (Pre.) 2014**
 
 Which statement about the CAG is NOT true?
 
@@ -6947,7 +6947,7 @@ D. Supreme Court
 
 The CAG is normally associated with the meetings of which parliamentary committee?
 
-A. Estimates Committee
+A. Estimates (प्राकलन समिति) Committee
 B. Committee on Petitions
 C. Public Accounts Committee
 D. Rules Committee
@@ -7041,7 +7041,7 @@ D. Neither I nor II
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Charged expenditure is discussed but not submitted to a vote; post-tenure ineligibility is an independence safeguard.
+**Logic:** Charged expenditure (भारित) is discussed but not submitted to a vote; post-tenure ineligibility is an independence safeguard.
 
 **Ans: A.** Only statement I is untrue. The office’s expenses are charged on the Consolidated Fund of India and are not voted.
 
@@ -7177,7 +7177,7 @@ D. Union Finance Ministry
 
 Who became the 14th Comptroller and Auditor General of India?
 
-A. Vinod Rai
+A. Vinod Rai (राई)
 B. Shashi Kant Sharma
 C. Girish Chandra Murmu
 D. Rajiv Mehrishi
@@ -8006,4 +8006,4 @@ D. 1, 2 and 3
 
 ## Mains link (one frame)
 
-- **President's discretion is shrinking, but not extinct:** pocket veto (no time limit), choice of PM in a hung House, and the "one reconsideration" power under Art. 74 keep a **residual constitutional space** — balanced by the binding nature of ministerial advice (42nd/44th) and judicial review of the pardoning power.
+- **President's discretion is shrinking, but not extinct:** pocket veto (no time limit), choice of PM in a hung House (त्रिशंकु सदन), and the "one reconsideration" power under Art. 74 keep a **residual constitutional space** — balanced by the binding nature of ministerial advice (42nd/44th) and judicial review of the pardoning power.

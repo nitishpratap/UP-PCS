@@ -4,9 +4,9 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-**Legislative, administrative & financial:** Legislative Relations (245–255) | Centre’s hold on State Bills (200–201, 274) | 7th Schedule | Residuary (248 / Entry 97) | When Centre legislates on State List (249, 250, 252, 253, 356) | Pith / Colourable / Repugnancy / Harmonious / nexus / occupied field | Administrative Relations (256–261, 365, 339, 350A, 355) | Full Faith and Credit (261) | All-India Services (312, 312A, 1951 Act) | Financial Relations (268–271, 273, 276, 279, 285–289, 293) | Finance Commission (280, 1951 Act, 42%/41%) | Grants-in-Aid (273, 275, 282) | GST (dual, exclusions, 279A) | Freedom of Trade (301–307) | Inter-State Migration (Union List 81) | NITI / NDC
+**Legislative, administrative & financial:** Legislative Relations (245–255) | Centre’s hold on State Bills (200–201, 274) | 7th Schedule | Residuary (अवशिष्ट) (248 / Entry 97) | When Centre legislates on State List (राज्य सूची) (249, 250, 252, 253, 356) | Pith / Colourable / Repugnancy / Harmonious / nexus / occupied field | Administrative Relations (256–261, 365, 339, 350A (अनु. 350A), 355) | Full Faith and Credit (261) | All-India Services (312, 312A, 1951 Act) | Financial Relations (268–271, 273, 276, 279, 285–289, 293) | Finance Commission (वित्त आयोग) (280, 1951 Act, 42%/41%) | Grants-in-Aid (273, 275, 282) | GST (वस्तु एवं सेवा कर) (dual, exclusions, 279A) | Freedom of Trade (पण्याध्यक्ष) (301–307) | Inter-State Migration (Union List (संघ सूची) 81) | NITI (नीति) / NDC
 
-**Inter-State mechanisms:** Inter-State Council (263) | Zonal Councils (SRA 1956) | NEC | River water (State 17 / Union 56 / Art. 262 / 1956 Acts) | Art. 131 | Border settlements | Rajamannar (1969) | Sarkaria (1983–88) | Punchhi (2007–10) | Anandpur Sahib / WB Memorandum | UP Central Zonal Council
+**Inter-State mechanisms:** Inter-State Council (263) | Zonal Councils (SRA 1956) | NEC | River water (State 17 / Union 56 / Art. 262 / 1956 Acts) | Art. 131 | Border settlements | Rajamannar (1969) | Sarkaria (सरकारिया आयोग) (1983–88) | Punchhi (पुंछी आयोग) (2007–10) | Anandpur (आनंदपुर) Sahib / WB Memorandum | UP Central Zonal Council
 
 </details>
 
@@ -23,14 +23,14 @@
 | Year | Fact | Why asked |
 |------|------|-----------|
 | 1 July 2017 | GST operational | 101st vs “GST Act year” |
-| 2022 | *Mohit Minerals* — GST Council recommendatory | Binding vs cooperative |
+| 2022 | *Mohit Minerals* — GST Council (जीएसटी परिषद) recommendatory | Binding vs cooperative |
 | 2023 | **16th FC** under **Arvind Panagariya** | Chair matching; award **2026–31** |
 | 2021–26 | 15th FC (**N.K. Singh**) | vs 14th Y.V. Reddy |
-| 2025 PYQ | AIS 312 majority | present and voting ≠ total |
+| 2025 PYQ | AIS 312 majority | present and voting (गणपूर्ति) ≠ total |
 | 14th / 15th FC | Vertical **42% → 41%** | Devolution matching |
-| 1 Jan 2015 | NITI replaces Planning Commission | Extra-constitutional; **≠ FC** |
+| 1 Jan 2015 | NITI replaces Planning Commission (योजना आयोग) | Extra-constitutional; **≠ FC** |
 | 2019 | NITI = nodal for **SDGs** (not FC) | 2019 PYQ |
-| Mar 2022 | Assam–Meghalaya border: **HM + CMs** | Inter-State dispute ≠ 131 |
+| Mar 2022 | Assam–Meghalaya (मेघालय) border: **HM + CMs** | Inter-State dispute ≠ 131 |
 | 2019 | ISRWD Amendment Bill (permanent tribunal) | **LS only; lapsed — not law** |
 | 2018 | SC Cauvery judgment / CWMA | Award ≠ 131 original |
 
@@ -41,32 +41,32 @@
 
 1. Centre–State rules sit mainly in **Part XI** (legislative and administrative, **245–263**), **Part XII** (finance, **264–293** slice), and **Part XIII** (trade, **301–307**). The **7th Schedule** carries the Union, State, and Concurrent Lists.
 2. Under **Article 246**, Union List prevails over Concurrent, and Concurrent prevails over State List. Residuary powers, including residuary taxation, belong to the **Union** under **Article 248** and Union List **Entry 97** — unlike the US model where residuary powers lie with the states.
-3. Parliament can legislate on a State List subject under **249** (Rajya Sabha resolution for national interest, lasting **one year**), **250** (during a National Emergency), **252** (two or more States request), **253** (treaty or international obligation), and during **President’s Rule** under **356**.
-4. The Rajya Sabha special majority for **Articles 249 and 312** is **two-thirds of members present and voting**, **not** two-thirds of total membership.
+3. Parliament can legislate on a State List subject under **249** (Rajya Sabha (राज्यसभा) resolution for national interest, lasting **one year**), **250** (during a National Emergency (राष्ट्रीय आपात)), **252** (two or more States request), **253** (treaty or international obligation), and during **President’s Rule** under **356**.
+4. The Rajya Sabha special majority for **Articles 249 and 312** is **two-thirds (ते-भागा) of members present and voting**, **not** two-thirds of total membership (सदन की कुल सदस्य संख्या का).
 5. **Article 252** needs resolutions from **two or more States**; other States may adopt later; only **Parliament** can amend or repeal that law. **Article 253** needs **no** State request — treaties and international conferences are enough.
-6. On the Concurrent List, **Article 254(1)** makes the Union law prevail in a clash. Under **254(2)**, a State law reserved for the President and assented to can prevail in that State **until** Parliament legislates again on the same matter.
+6. On the Concurrent List (समवर्ती सूची), **Article 254(1)** makes the Union law prevail in a clash. Under **254(2)**, a State law reserved for the President and assented to can prevail in that State **until** Parliament legislates again on the same matter.
 7. Key doctrines are **pith and substance** (incidental encroachment can be valid), **colourable legislation** (you cannot do indirectly what you cannot do directly), **repugnancy**, **harmonious construction**, **territorial nexus**, and **occupied field**.
 8. **Articles 256 and 257** bind States to comply with Union laws and directions and not to impede Union railways and communications. Ignoring Union directions under **Article 365** is a gateway to **President’s Rule (356)**.
 9. **Article 258** lets the Union entrust functions to a State (usually with consent). **Article 258A** (7th Amendment) lets a State entrust functions to the Union. **Article 261** is full faith and credit for public acts, records, and judicial proceedings across India.
 10. All-India Services under **Article 312** need a Rajya Sabha resolution by **two-thirds present and voting**, then a Parliament law. The three AIS are **IAS, IPS, and IFoS** (IFoS from **1966**). **Article 312A** (28th Amendment) deals with ex-ICS officers.
 11. **Article 265** bars tax without authority of law. **Article 271** surcharge on certain Union taxes belongs to the **Union only** and is not shared. **Article 268** stamp duties are levied by the Union but collected by the States.
-12. The **Finance Commission (Article 280)** is appointed by the **President** every five years: a Chair and **four** (चातुर्याम) other members. It reports to the **President**, not to NITI Aayog. Qualifications are fixed by Parliament through the **1951 Act**.
+12. The **Finance Commission (Article 280)** is appointed by the **President** every five years: a Chair and **four** (चातुर्याम) other members. It reports to the **President**, not to NITI Aayog (नीति आयोग). Qualifications are fixed by Parliament through the **1951 Act**.
 13. The first Finance Commission was chaired by **K.C. Neogy**. The **14th** Finance Commission set the States’ vertical share of the divisible pool at **42%**; the **15th** set it at **41%**. The **16th** is chaired by **Arvind Panagariya**.
-14. **Article 275** grants recommended by the Finance Commission are **charged** on the Consolidated Fund of India (with a tribal proviso). **Article 282** allows **discretionary** grants by the Union **or** a State for any public purpose — do not swap 275 and 282.
+14. **Article 275** grants recommended by the Finance Commission are **charged** on the Consolidated Fund of India (भारत की संचित निधि) (with a tribal (आदिवासी) proviso). **Article 282** allows **discretionary** grants by the Union **or** a State for any public purpose — do not swap 275 and 282.
 15. A State cannot tax Union property (**285**). The Union cannot tax State property except as allowed (**289**). A State that is indebted to the Centre needs Union consent to borrow further (**293**).
 16. GST arrived through the **101st Amendment (2016)** and went live on **1 July 2017**. It is a dual tax (CGST + SGST / IGST) under **Article 246A**, **not** residuary Entry 97. **Liquor** stays out; **five petroleum** items stay out until the Council decides otherwise.
-17. The **GST Council (279A)** is chaired by the **Union Finance Minister**. Centre has **one-third** weight and States **two-thirds** (ते-भागा); decisions need **three-fourths** weighted majority; quorum is **half**. Recommendations are not strictly binding (*Mohit Minerals*, 2022).
+17. The **GST Council (279A)** is chaired by the **Union Finance Minister**. Centre has **one-third** weight and States **two-thirds** (ते-भागा); decisions need **three-fourths** weighted majority; quorum (गणपूर्ति) is **half**. Recommendations are not strictly binding (*Mohit Minerals*, 2022).
 18. **Article 301** guarantees freedom of trade, commerce, and intercourse throughout India; it is **not** a Fundamental Right under Article 19. Parliament may restrict under **302**. A State restriction under **304(b)** needs **previous Presidential sanction**.
 19. Inter-State migration and inter-State quarantine sit in **Union List Entry 81**, not the State List.
 20. The **Inter-State Council (Article 263)** is constitutional: the President **may** establish it; the **1990** order did so on **Sarkaria** advice; the **Prime Minister** chairs; it is recommendatory. Do not credit Punchhi for creating it.
-21. **Zonal Councils** are statutory under the **States Reorganisation Act, 1956**. There are **five** zones. The **Union Home Minister** chairs them. Uttar Pradesh sits in the **Central** Zonal Council (with Uttarakhand, Madhya Pradesh, and Chhattisgarh), not the Northern zone.
+21. **Zonal Councils** are statutory under the **States Reorganisation Act, 1956**. There are **five** zones. The **Union Home Minister** chairs them. Uttar Pradesh (उत्तर प्रदेश) sits in the **Central** Zonal Council (with Uttarakhand (उत्तराखंड), Madhya Pradesh, and Chhattisgarh), not the Northern zone.
 22. The **North Eastern Council** is under a **1971 Act**. It is **not** a sixth Zonal Council. The **Prime Minister** chairs it (from 2002).
 23. Water is **State List Entry 17**, subject to **Union List Entry 56** for inter-State rivers. **Article 262** lets Parliament bar courts; the **1956 Act** did bar **Article 131**. The 2019 tribunal Bill **lapsed** and is not in force.
 24. **Article 131** is the Supreme Court’s exclusive original jurisdiction for Union–State or inter-State disputes involving a **legal right**. Private parties are out. River water is out where barred. Faith-and-credit is **261**, not 131.
-25. **Rajamannar (1969, Tamil Nadu)** wanted residuary powers with States, abolition of All-India Services, and repeal of **356**. **Sarkaria (1983–88)** backed a strong Centre, keeping AIS and 356, and creating the Inter-State Council.
+25. **Rajamannar (1969, Tamil Nadu (नाडु))** wanted residuary powers with States, abolition of All-India Services, and repeal of **356**. **Sarkaria (1983–88)** backed a strong Centre, keeping AIS and 356, and creating the Inter-State Council.
 26. **Punchhi (2007–10)** came after Sarkaria. It favoured localising **356**, strengthening the Inter-State Council, and time-capping bills under **Article 201**.
 27. NITI Aayog (**2015**) replaced the **Planning Commission** (योजना आयोग). It did **not** replace the Finance Commission under **Article 280**. NITI is the SDG nodal body; it does not allocate the old Plan funds and does not report as if it were the FC.
-28. The **42nd Amendment** moved **five** subjects from the State List to the Concurrent List.
+28. The **42nd (42वां) Amendment** moved **five** subjects from the State List to the Concurrent List.
 29. Profession tax under **Article 276** has a constitutional ceiling (figure **₹2,500** after the **60th Amendment**). Jute export-duty grants under **273** go to Assam, Bihar, Odisha, and West Bengal.
 30. Border and inter-State settlements are often political (Union Home Minister plus Chief Ministers), not automatic **Article 131** cases. Read whether a **legal right** is pleaded before jumping to the Supreme Court’s original jurisdiction.
 
@@ -138,7 +138,7 @@ India is **federal with a Unitary bias**. Operating rules:
 
 **Territorial reach (245) plus subject-matter lists (246)** — the operating code of Union and State law-making.
 
-- **245:** Parliament may legislate for the **whole or any part of India**; **extra-territorial** laws are valid (245(2)). A State legislates for the **whole or any part of the State**; extra-territorial State law needs **territorial nexus** (*Tata Iron*).
+- **245:** Parliament may legislate for the **whole or any part of India**; **extra-territorial** laws are valid (245(2)). A State legislates for the **whole or any part of the State**; extra-territorial State law needs **territorial nexus** (*Tata (तत) Iron*).
 - **246:(1)** Union List exclusive to Parliament · **(2)** Concurrent — both · **(3)** State List exclusive to the State, **subject to (1) and (2)**. Union List is **non-obstante** over the other two.
 - **246A (101st Amendment, 2016):** Concurrent GST power for Parliament and State legislatures, **notwithstanding** Arts. **246** and **254**. Clause (2) keeps **exclusive** Union power for GST on **inter-State** supply (paired with **Art. 269A**).
 - **247:** Parliament may create extra courts for better Union-law administration.
@@ -181,15 +181,15 @@ Originally **Union 97 · State 66 · Concurrent 47**. Counts move with amendment
 4. **Weights and measures** (except establishment of standards)
 5. **Administration of justice**; constitution of all courts **except** SC and HCs
 
-- **Union List:** Defence · foreign · currency / **RBI** · atomic · **railways** · airways · ports · posts & telegraphs · **banking · insurance · stock exchanges** · **census (69)** · UPSC · inter-State trade **(42)** · foreign trade **(41)** · **inter-State migration & quarantine (81)** · **inter-State rivers (56)** · income-tax (except agri) · customs · corporation tax · **residuary (97)**.
+- **Union List:** Defence · foreign · currency / **RBI** · atomic · **railways** · airways · ports · posts & telegraphs · **banking · insurance · stock exchanges** · **census (69)** · UPSC (संघ लोक सेवा आयोग) · inter-State trade **(42)** · foreign trade **(41)** · **inter-State migration & quarantine (81)** · **inter-State rivers (56)** · income-tax (except agri) · customs · corporation tax · **residuary (97)**.
 - **State List:Public order** · **police** · **local government (5)** · **public health & sanitation (6)** · agriculture · land · **water (17)** subject to Union **56** · intra-State trade **(26)** · intoxicating **liquor** · **betting and gambling** · **profession tax subject (60)** · public order ≠ “security of India” (that is Union).
-- **Concurrent List:** Criminal law / CrPC · marriage & **succession (5)** · **adulteration of foodstuffs and other goods (18)** · labour / factories · **electricity** · economic & social **planning** · **newspapers** · population control · **preventive detention** · (post-42nd) **education, forests, wildlife, weights & measures, subordinate courts**.
+- **Concurrent List:** Criminal law / CrPC · marriage & **succession (उत्तराधिकार क्रम) (5)** · **adulteration of foodstuffs and other goods (18)** · labour / factories · **electricity** · economic & social **planning** · **newspapers** · population (जनसंख्या) control · **preventive detention** · (post-42nd) **education, forests, wildlife, weights & measures, subordinate courts**.
 
 **Trade and commerce is not “just Concurrent.”** Foreign = Union 41; **inter-State = Union 42**; **intra-State = State 26**; Concurrent **33** is only trade in **foodstuffs / fodder / cotton / jute** etc.
 
 **Tax entries:** the three lists used to keep **almost all taxes exclusive** (Union or State). The **Concurrent List had no independent tax head**. GST did **not** dump a tax into Concurrent — it created **246A** beside the lists. Stamp duties on Union-list instruments stay **268** (Union levy, State collect).
 
-**Public order (State) vs security of India (Union)** and **police (State) vs Union agencies (CBI needs State consent except in Union territory / court-ordered)** are matching favourites. CBI consent = *Kazi Lhendup Dorji* / *Management of Advance Insurance* line; don’t turn this into a CBI chapter.
+**Public order (State) vs security of India (Union)** and **police (State) vs Union agencies (CBI (केन्द्रीय अन्वेषण ब्यूरो) needs State consent except in Union territory / court-ordered)** are matching favourites. CBI consent = *Kazi Lhendup Dorji* / *Management of Advance Insurance* line; don’t turn this into a CBI chapter.
 
 **PYQ — UPPCS Prelims 2024, Q143**
 
@@ -261,7 +261,7 @@ D. Anti-Defection — Tenth Schedule
 | **Pith and substance** | Looks at the **true nature** of the law, not incidental trespass | **Saves** a law if the pith is in the right list | *Prafulla Kumar v Bank of Commerce, Khulna*; *State of Bombay v F.N. Balsara* |
 | **Colourable legislation** | **“What you cannot do directly, you cannot do indirectly.”** Form ≠ substance | **Strikes** a fraud on legislative power | *K.C. Gajapati Narayan Deo v Odisha* |
 | **Repugnancy (254)** | Two statutes on **Concurrent** cannot stand together, or Union law **occupies the field** | State law **void** to that extent — unless **254(2)** | *M. Karunanidhi v Union of India* (tests); *Hoechst Pharmaceuticals* |
-| **Harmonious construction** | Two clauses of the **same** instrument both kept alive | Prefer the reading that kills **neither** | *CIT v Hindustan Bulk Carriers*; *Venkataramana Devaru* |
+| **Harmonious construction** | Two clauses of the **same** instrument both kept alive | Prefer the reading (रीडिंग) that kills **neither** | *CIT v Hindustan Bulk Carriers*; *Venkataramana Devaru* |
 | **Territorial nexus** | Extra-State fact may still be taxed/regulated if linked to the State | Saves State extra-territorial reach | *Tata Iron*; *R.M.D. Chamarbaugwala* |
 | **Occupied field** | Union Concurrent law intended to be a **complete code** | Even a non-clashing State law on the same field falls | A **species of 254**, not a fifth list |
 
@@ -287,7 +287,7 @@ D. Anti-Defection — Tenth Schedule
 - **257(2):** Union directions on **national / military communications**.
 - **257(3):** Union directions so that **railways** are protected (means of communication of national or military importance).
 - **257(4):** Extra **cost** of carrying out 257(2)/(3) directions is **borne by the Union** if the State so claims.
-- **257A:Inserted 42nd, repealed 44th** — armed-forces assistance to States. **Gone**.
+- **257A:Inserted 42nd, repealed 44th (44वां संशोधन)** — armed-forces assistance to States. **Gone**.
 - **258(1):** President may, **with State consent**, **entrust** Union executive functions to the State / its officers.
 - **258(2):** Parliament may confer powers/duties under a **Union law** on a State **even without** consent.
 - **258A:7th Amendment (1956)** — a **State** may, with Union consent, entrust State executive functions to the Union.
@@ -304,14 +304,14 @@ D. Anti-Defection — Tenth Schedule
 **Integrated machinery (why Indian administration is not US-dual):**
 - **Single** judiciary — State HCs apply Union+State law; SC on top.
 - **All-India Services** (next home) — one cadre, two masters.
-- **CAG** audits Union **and** States.
+- **CAG** (भारत के नियंत्रक-महालेखापरीक्षक) audits Union **and** States.
 - Extra-constitutional coordination: **NITI Aayog** (नीति आयोग) (1 Jan **2015**, replaced Planning Commission) — Governing Council of CMs; **NDC** (1952, extra-constitutional, PM + CMs — largely moribund after NITI). **ISC / Zonal Councils** — own homes below.
 
 > **Logic:** 258(1) needs **consent**; 258(2) does **not**. 258A is the **mirror** (State → Union) and is **not** original — **7th Amd**. NITI / NDC are **not** Art. 263.
 
 ## Full faith and credit (Art. 261)
 
-**Recognition and execution of public acts across India** — not a dispute-settling court; do not bury it in the 256 home.
+**Recognition (मान्यता) and execution of public acts across India** — not a dispute-settling court; do not bury it in the 256 home.
 
 - **261(1):** Full faith and credit throughout India to **public acts, records and judicial proceedings** of the Union **and of every State**.
 - **261(2):** Manner of proof and the **effect** thereof = as **Parliament** provides by law.
@@ -330,10 +330,10 @@ D. Anti-Defection — Tenth Schedule
 - **Ancestor:ICS / IP** (colonial). IAS/IPS successor services from commencement.
 - **Create a new AIS:Rajya Sabha** resolution that it is necessary / expedient in the **national interest** → **Parliament** may then provide by law.
 - **Majority:Not less than two-thirds of members present and voting** — **not** 2/3 of **total membership** (सदन की कुल सदस्य संख्या का) (2025).
-- **Control:Dual** — Union (cadre rules, discipline, **UPSC** (संघ लोक सेवा आयोग) recruitment, batch) + State (day-to-day posting). Centre can **suspend / dismiss** with procedure; State cannot unilaterally kill the cadre.
+- **Control:Dual** — Union (cadre rules, discipline, **UPSC** (संघ लोक सेवा आयोग) recruitment, batch) + State (day-to-day posting). Centre can **suspend / dismiss** with procedure (प्रक्रिया); State cannot unilaterally kill the cadre.
 - **312A:28th Amendment (1972)** — Parliament may vary / revoke **ICS** officers’ conditions of service (old covenant). Not a fourth AIS.
 - **AIJS:** Also under **312** — **not created**.
-- **Exclusive RS:** Creation trigger is **Rajya Sabha-only** (2018). Lok Sabha cannot start it.
+- **Exclusive RS:** Creation trigger is **Rajya Sabha-only** (2018). Lok Sabha (लोकसभा) cannot start it.
 
 **PYQ — UPPCS Prelims 2025, Q11**
 
@@ -360,7 +360,7 @@ The Council of States has exclusive powers in relation to which of the following
 
 A. To initiate proceedings for the removal of the President
 B. To initiate proceedings for the removal of a judge of the Supreme Court
-C. To recommend creation of a new All India Service
+C. To recommend (सिफारिश) creation of a new All India Service
 D. None of the above
 
 <details>
@@ -376,7 +376,7 @@ D. None of the above
 
 **265:** No tax shall be levied or collected except by **authority of law**.
 
-**Rule of exclusive tax fields:** a tax in the Union List cannot be levied by a State, and vice versa. Pre-GST, the **Concurrent List carried no tax entry**. **246A** is the GST exception sitting **outside** that old map.
+**Rule of exclusive tax fields:** a tax in the Union List cannot be levied by a State, and vice versa. Pre-GST, the **Concurrent List carried no tax entry**. **246A** is the GST exception sitting (बैठक) **outside** that old map.
 
 ### Four pipes (who levies / who keeps)
 
@@ -400,11 +400,11 @@ D. None of the above
 - **286:** State **cannot** tax **imports/exports** or (pre-GST) inter-State sale in the old CST sense; GST now rides **246A / 269A / 286 as amended**.
 - **287–288:** Limits on State tax on **electricity / water** when it is Union property or used for Union railways etc.
 - **289:State property and income** exempt from Union tax; Union **may** tax a State’s **trade or business** if Parliament says so.
-- **360:** Financial Emergency → Union may **direct** States on financial propriety and reduction of salaries (never imposed).
+- **360:** Financial Emergency (वित्तीय आपात) → Union may **direct** States on financial propriety and reduction of salaries (never imposed).
 
 **Borrowing:** Union **292** (security of CFI). State **293** — if indebted to the Union, **Union consent** for a fresh loan (the usual case; most States are).
 
-**Vertical share (raata):14th FC = 42%** of the divisible pool to States · **15th FC = 41%** (1 point held back for new UTs J&K/Ladakh after reorganisation). Horizontal: **UP is the largest absolute / share-order recipient** (~**18%** of the State pool — don’t freeze a third decimal).
+**Vertical share (raata):14th FC = 42%** of the divisible pool to States · **15th FC = 41%** (1 point held back for new UTs J&K/Ladakh (लद्दाख) after reorganisation). Horizontal: **UP is the largest absolute (निरपेक्ष) / share-order recipient** (~**18%** of the State pool — don’t freeze a third decimal).
 
 > **Logic:** Corporation tax and customs are **not** 270-shared. Students dump “all Union taxes are shared” — false. Surcharge **271** ≠ GST compensation **cess**.
 
@@ -603,7 +603,7 @@ D. 73rd
 <details>
 <summary>Show answer</summary>
 
-**Ans: A — 101st.** 86th = education FR/DPSP/FD. 73rd = PRIs. 91st = Council of Ministers size.
+**Ans: A — 101st.** 86th = education FR/DPSP (राज्य के नीति निदेशक तत्व)/FD. 73rd = PRIs. 91st = Council of Ministers size.
 
 </details>
 
@@ -635,7 +635,7 @@ D. 73rd
 - **Union List Entry 81:Inter-State migration** and **inter-State quarantine**.
 - **Art. 19(1)(d)(e):** Citizen’s FR to **move** throughout India and **reside** anywhere in India — why settlement cannot be left as a State police matter alone.
 - **Art. 16(3):** Parliament **may** prescribe **residence** inside a State/UT as a condition for **State/UT employment**.
-- **Statute (name-fact):** Inter-State Migrant Workmen (Regulation of Employment and Conditions of Service) Act, **1979** (labour codes later subsume; PCS still asks the **1979** name).
+- **Statute (name-fact):** Inter-State Migrant Workmen (Regulation of Employment and Conditions of Service) Act, **1979** (labour codes (चार श्रम संहिताएं) later subsume; PCS still asks the **1979** name).
 
 ---
 
@@ -681,14 +681,14 @@ D. Sarkaria Commission
 
 ## Zonal Councils
 
-**Statutory**, not constitutional. Created by the **States Reorganisation Act, 1956** (Part III) as a **safety-valve** after linguistic reorganisation — Fazl Ali Commission background, not Art. 263.
+**Statutory**, not constitutional. Created by the **States Reorganisation Act, 1956** (Part III (मौलिक अधिकार)) as a **safety-valve** after linguistic reorganisation — Fazl Ali Commission background, not Art. 263.
 
 **Five zones (map):**
 
 - **Northern:** Haryana, HP, Punjab, Rajasthan, Delhi, Chandigarh, J&K, Ladakh.
 - **Central:Uttar Pradesh**, Uttarakhand, Madhya Pradesh, Chhattisgarh.
 - **Eastern:** Bihar, Jharkhand, Odisha, West Bengal.
-- **Western:** Gujarat, Maharashtra, Goa, Dadra & Nagar Haveli and Daman & Diu.
+- **Western:** Gujarat, Maharashtra, Goa (गोवा), Dadra (दादरा) & Nagar Haveli and Daman & Diu.
 - **Southern:** AP, Telangana, Karnataka, Kerala, Tamil Nadu, Puducherry.
 
 **UP fact:** Central Zonal Council — **not** Northern, **not** Eastern.
@@ -710,7 +710,7 @@ D. Sarkaria Commission
 - **Chair:** Nominated by the **President** (need not be drawn from the other members). In recent practice the **Union Home Minister** is **ex-officio Chairman** and the **DoNER** Minister is **ex-officio Vice-Chairman**.
 - **Why separate:** Security + development of the NE; **not** SRA 1956.
 
-> **Logic:** “There are six Zonal Councils including NEC” is **false**. **Five** zonal + **one** NEC. ISC = constitutional (**263**); Zonal Councils = statutory (**SRA 1956**); National Security Council = executive — only **one** of ISC / NSC / Zonal is created by the Constitution.
+> **Logic:** “There are six Zonal Councils including NEC” is **false**. **Five** zonal + **one** NEC. ISC = constitutional (**263**); Zonal Councils = statutory (**SRA 1956**); National Security Council = executive — only **one** of ISC / NSC (राष्ट्रीय सुरक्षा परिषद) / Zonal is created by the Constitution.
 
 ---
 
@@ -744,15 +744,15 @@ Two 1956 statutes (do not merge):
 
 **2019 Amendment Bill** (permanent tribunal + Disputes Resolution Committee + 2+1 years): passed **Lok Sabha only**, **lapsed** — **not law**. Trap: “India now has a single permanent water tribunal.” **False.Name-fact tribunals**
 
-- **Krishna:** MH, KA, AP/Telangana.
-- **Godavari:** MH, AP/Telangana, Odisha, KA, MP/Chhattisgarh.
-- **Narmada:** MP, Gujarat, Maharashtra, Rajasthan.
+- **Krishna (कृष्णा):** MH, KA, AP/Telangana.
+- **Godavari (गोदावरी):** MH, AP/Telangana, Odisha, KA, MP/Chhattisgarh.
+- **Narmada (नर्मदा):** MP, Gujarat, Maharashtra, Rajasthan.
 - **Cauvery:** KA, TN, Kerala, Puducherry — CWDT → SC **2018** modified; **CWMA** implements.
-- **Ravi–Beas:** Punjab, Haryana, Rajasthan.
+- **Ravi (रावी)–Beas (ब्यास):** Punjab, Haryana, Rajasthan.
 - **Mahadayi:** Goa, KA, MH.
-- **Mahanadi:** Odisha, Chhattisgarh.
+- **Mahanadi (महानदी):** Odisha, Chhattisgarh.
 
-**UP angle:** Yamuna sharing is handled through the **Upper Yamuna River Board** (UP, Uttarakhand, HP, Haryana, Delhi, Rajasthan) — a **board**, not a famous 262 tribunal. Ganga is not a classic PCS tribunal name the way **Cauvery / Narmada / Krishna** are.
+**UP angle:** Yamuna (यमुना) sharing is handled through the **Upper Yamuna River Board** (UP, Uttarakhand, HP, Haryana, Delhi, Rajasthan) — a **board**, not a famous 262 tribunal. Ganga (गंगा) is not a classic PCS tribunal name the way **Cauvery / Narmada / Krishna** are.
 
 > **Logic:** “SC has original jurisdiction over river-water disputes” = **false**. **262 + 1956 Act** shut **131**. SC can still hear **implementation / constitutional** after an award (Cauvery 2018) — that is **not** 131-as-tribunal.
 
@@ -763,7 +763,7 @@ Two 1956 statutes (do not merge):
 **SC’s exclusive original federal jurisdiction** — Union↔State, Union+State(s)↔State(s), **State↔State**. Water is **262**; faith-and-credit is **261**; ISC is **263**.
 
 - **What:** A question of **legal right** (law or fact). Not a purely **political** quarrel.
-- **Cannot:** FR enforcement (→ **32**) · Union/State **vs a private person** · a company just because government holds shares (*State of Bihar v UoI*).
+- **Cannot:** FR enforcement (→ **32**) · Union/State **vs a private person** · a company (कंपनी) just because government holds shares (*State of Bihar v UoI*).
 - **Proviso:** Disputes from a **pre-Constitution treaty / agreement / sanad** are **out**, unless Parliament by law brings them in (those can go to **143(2)** advisory).
 - **Water:262(2) + 1956 Act** = **barred**.
 - **≠ 261:** 261 = **full faith / execution** of records and decrees, not a lawsuit in the SC.
@@ -833,10 +833,10 @@ Union Commission on Centre–State Relations. Chair: Justice **M.M. Punchhi** (f
 - Strengthen the **Inter-State Council**: meet about **thrice a year**; use it **before** Concurrent legislation and before Art. **356**.
 - Prefer a **localised emergency** under Art. **355** — do not dissolve the **whole** State for a **district** disturbance.
 - Keep Art. **356**, but make it tighter; keep **All-India Services**.
-- On the Governor: prefer a fixed **five-year** idea; do not send an active politician of the ruling party at the Centre; use clear rules for inviting a CM (majority → coalition → largest party).
+- On the Governor: prefer a fixed **five-year** idea; do not send an active politician of the ruling party at the Centre; use clear rules for inviting a CM (majority → coalition (गठबंधन) → largest party).
 - Under Art. **201**, decide reserved State Bills within **six months**.
 - Consult States when a **treaty** hits the **State List**.
-- Strengthen National Integration Council / internal-security coordination with States (NCTC debate).
+- Strengthen National Integration Council / internal-security coordination with States (NCTC (एनसीटीसी) debate).
 
 > **Logic:** Punchhi = **procedure** (प्रक्रिया), not Rajamannar’s repeal list. “Local emergency” and “201 time-cap” are Punchhi tags.
 
@@ -1077,7 +1077,7 @@ D. A-1, B-2, C-3, D-4
 
 **Q3. UPPCS Prelims 2024, Q125**
 Which one of the following is correctly matched?
-A. Election Commission — Article 165
+A. Election Commission (निर्वाचन आयोग) — Article 165
 B. National Commission for Scheduled Castes — Article 148
 C. Finance Commission — Article 263
 D. National Commission for Backward Classes — Article 340
@@ -1085,7 +1085,7 @@ D. National Commission for Backward Classes — Article 340
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** FC = **280**, not 263. 165 = Advocate General. 148 = CAG. NCSC = **338**.
+**Ans: D.** FC = **280**, not 263. 165 = Advocate General (महाधिवक्ता). 148 = CAG. NCSC (राष्ट्रीय अनुसूचित जाति आयोग) = **338**.
 
 </details>
 
@@ -1272,7 +1272,7 @@ Which one of the following pairs is NOT correctly matched?
 A. Interstate Council — Article 263
 B. Finance Commission — Article 280
 C. Administrative Tribunal — Article 323A
-D. Union Public Service Commission — Article 315
+D. Union Public Service Commission (संघ लोक सेवा आयोग) — Article 315
 
 <details>
 <summary>Show answer</summary>

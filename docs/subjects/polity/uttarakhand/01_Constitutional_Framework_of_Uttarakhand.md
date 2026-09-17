@@ -1,4 +1,4 @@
-# Topic 1 — Constitutional Framework & First Dignitaries of Uttarakhand
+# Topic 1 — Constitutional Framework & First Dignitaries of Uttarakhand (उत्तराखंड)
 
 ### ★ UKPCS state card (Unit 3 — Polity of Uttarakhand)
 
@@ -12,22 +12,22 @@
 | Head | Constitutional & Institutional Key |
 | :--- | :--- |
 | **State Created** | **9 November 2000** as **Uttaranchal** (27th State); renamed **Uttarakhand** (उत्तराखंड) on **1 Jan 2007** |
-| **Legislature** | **Unicameral** (Vidhan Sabha only; no Legislative Council) |
+| **Legislature** | **Unicameral** (Vidhan Sabha (विधानसभा) only; no Legislative Council) |
 | **Vidhan Sabha Seats** | **70 elected seats** (Anglo-Indian nominated seat abolished by 104th CAA 2019) |
-| **SC Reserved Seats (13)** | Purola, Rajpur Road, Jhabrera, Bhagwanpur, Jwalapur, Tharali, Pauri, Ghanshali, Bageshwar, Gangolihat, Someshwar, Nainital, Bajpur |
-| **ST Reserved Seats (2)** | **Chakrata** (Dehradun) and **Nanakmatta** (Udham Singh Nagar) |
-| **Lok Sabha Seats (5)** | Tehri Garhwal, Garhwal (Pauri), **Almora (SC Reserved)**, Nainital-US Nagar, Haridwar |
-| **Rajya Sabha Seats** | **3 seats** |
+| **SC Reserved Seats (13)** | Purola, Rajpur Road, Jhabrera, Bhagwanpur, Jwalapur, Tharali, Pauri (पौड़ी), Ghanshali, Bageshwar (बागेश्वर), Gangolihat, Someshwar, Nainital (नैनीताल), Bajpur |
+| **ST Reserved Seats (2)** | **Chakrata** (Dehradun (देहरादून)) and **Nanakmatta** (Udham Singh Nagar (ऊधम सिंह नगर)) |
+| **Lok Sabha (लोकसभा) Seats (5)** | Tehri (टिहरी) Garhwal (गढ़वाल), Garhwal (Pauri), **Almora (अल्मोड़ा) (SC Reserved)**, Nainital-US Nagar, Haridwar (हरिद्वार) |
+| **Rajya Sabha (राज्यसभा) Seats** | **3 seats** |
 | **State Executive** | **Governor** (Constitutional Head) + **Chief Minister & Council of Ministers** (Real Executive) |
 | **First Governor** | **Surjit Singh Barnala** (9 Nov 2000 – 8 Jan 2003) |
-| **First CM (Interim)** | **Nityanand Swami** (9 Nov 2000 – 29 Oct 2001) |
+| **First CM (Interim)** | **Nityanand Swami (स्वामी)** (9 Nov 2000 – 29 Oct 2001) |
 | **First Elected CM** | **Narayan Datt Tiwari (N. D. Tiwari)** (2002–2007) — only CM to complete 5 years |
 | **First Speaker (Interim)** | **Prakash Pant** |
 | **First Speaker (Elected)** | **Yashpal Arya** (2002) |
 | **First Woman Speaker** | **Ritu Khanduri Bhushan** (elected March 2022) |
 | **First Woman Governor** | **Margaret Alva** (2009–2012) (UKPCS 2025 Q135) |
 | **Speaker + Protem Multiple Times**| **Harbans Kapoor** (UKPCS 2025 Q141) |
-| **First Chief Justice** | **Justice Ashok Abhaiendra Desai (A. A. Desai)** |
+| **First Chief Justice** | **Justice Ashok Abhaiendra Desai (आमिल) (A. A. Desai)** |
 | **First Chief Secretary** | **Ajay Vikram Singh** |
 | **First Chairman UKPSC** | **N. P. Navani** |
 | **First DGP (Police)** | **Ashok Kant Sharan** |
@@ -39,10 +39,10 @@
 1. **Assembly Reservation Architecture:**  
    $$\text{Total Seats: 70} = \text{General (55)} + \text{SC Reserved (13)} + \text{ST Reserved (2: Chakrata \& Nanakmatta)}$$
 2. **Lok Sabha Representation (5 Seats):**  
-   Out of 5 Lok Sabha seats, **Almora** (अल्मोड़ा) is exclusively reserved for **Scheduled Castes (SC)**. The remaining four (Tehri, Garhwal, Haridwar, Nainital-US Nagar) are unreserved general constituencies.
+   Out of 5 Lok Sabha seats, **Almora** (अल्मोड़ा) is exclusively reserved for **Scheduled Castes (SC)**. The remaining four (चातुर्याम) (Tehri, Garhwal, Haridwar, Nainital-US Nagar) are unreserved general constituencies.
 3. **State Executive Composition (UKPCS 2025 Q139):** The executive consists of the Governor (Head of State under Article 153/154) and the Council of Ministers headed by the Chief Minister (Article 163/164). Both arms are co-constitutive of the executive branch.
 4. **Harbans Kapoor Record (UKPCS 2025 Q141):** Senior Dehradun legislator who uniquely discharged the duties of **Speaker** (2007–2012) and **Protem Speaker** on more than one occasion in the Uttarakhand Assembly.
-5. **N. D. Tiwari Landmark:** The only Chief Minister in the entire history of Uttarakhand to complete an unbroken full 5-year tenure (2002 to 2007).
+5. **N. D. Tiwari Landmark:** The only Chief Minister in the entire history (इतिहास) of Uttarakhand to complete an unbroken full 5-year tenure (2002 to 2007).
 
 ---
 
@@ -60,12 +60,12 @@
 | **Woman Speaker of Assembly**| **Ritu Khanduri Bhushan**| Elected March 2022 (Kotdwar MLA). |
 | **Advocate General** (महाधिवक्ता) | **L. P. Naithani** | Appointed under Article 165 (Mehrban Singh Negi was interim). |
 | **Chief Secretary** | **Ajay Vikram Singh** | Head of State Civil Administration. |
-| **Chairman, UKPSC** | **N. P. Navani** | Appointed under Article 315 at Gurukul Kangri, Haridwar. |
-| **Chief Election Commissioner**| **Durgesh Joshi** | State Election Commission for Panchayats & Municipalities. |
+| **Chairman, UKPSC** | **N. P. Navani** | Appointed under Article 315 at Gurukul (गुरुकुल) Kangri (गुरुकुल कांगड़ी), Haridwar. |
+| **Chief Election Commissioner**| **Durgesh Joshi** | State Election Commission (निर्वाचन आयोग) for Panchayats & Municipalities. |
 | **Chief Information Commissioner (CIC)**| **Dr. R. S. Tolia** | Pioneered RTI implementation; former Chief Secretary. |
-| **Chairman, State Finance Commission**| **R. K. Dhar** | Recommended local body tax devolution. |
+| **Chairman, State Finance Commission (वित्त आयोग)**| **R. K. Dhar** | Recommended local body tax devolution. |
 | **Director General of Police (DGP)**| **Ashok Kant Sharan** | Head of Uttarakhand Police. |
-| **First Lokayukta** | **Justice S. H. A. Raza**| Anti-corruption ombudsman. |
+| **First Lokayukta (लोकायुक्त)** | **Justice S. H. A. Raza**| Anti-corruption ombudsman. |
 
 ---
 
@@ -86,16 +86,16 @@
 
 ### The 15 Reserved Assembly Constituencies
 - **13 SC Reserved Constituencies:**
-  1. *Purola* (Uttarkashi)
+  1. *Purola* (Uttarkashi (उत्तरकाशी))
   2. *Rajpur Road* (Dehradun)
   3. *Jhabrera* (Haridwar)
   4. *Bhagwanpur* (Haridwar)
   5. *Jwalapur* (Haridwar)
-  6. *Tharali* (Chamoli)
+  6. *Tharali* (Chamoli (चमोली))
   7. *Pauri* (पौड़ी) (Pauri Garhwal)
   8. *Ghanshali* (Tehri Garhwal)
   9. *Bageshwar* (बागेश्वर) (Bageshwar)
-  10. *Gangolihat* (Pithoragarh)
+  10. *Gangolihat* (Pithoragarh (पिथौरागढ़))
   11. *Someshwar* (Almora)
   12. *Nainital* (नैनीताल) (Nainital)
   13. *Bajpur* (Udham Singh Nagar)

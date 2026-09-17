@@ -3,8 +3,8 @@
 ### ★ UKPCS state card (Unit 3)
 
 > **Sources:** Arts. 266–267 State fund pattern, ECI / SEC split, State Finance Commission.  
-> **Syllabus heads:** Consolidated Fund · Contingency Fund · Political Parties · Election.  
-> **First Finance Commission name-trap:** see [Topic 1](01_Constitutional_Framework_of_Uttarakhand.md) Q135.
+> **Syllabus heads:** Consolidated Fund · Contingency Fund (आकस्मिकता निधि) · Political Parties · Election.  
+> **First Finance Commission (वित्त आयोग) name-trap:** see [Topic 1](01_Constitutional_Framework_of_Uttarakhand (उत्तराखंड).md) Q135.
 
 ---
 
@@ -54,7 +54,7 @@
 **Identity:** Consolidated Fund = main pot | Contingency Fund = unforeseen advances.
 
 - The **Consolidated Fund of the State** holds moneys received by the State government (revenues, loans, and related receipts under the Art. **266** pattern).
-- Money is drawn from the Consolidated Fund only after **appropriation** by the Vidhan Sabha.
+- Money is drawn from the Consolidated Fund only after **appropriation** by the Vidhan Sabha (विधानसभा).
 - The **Contingency Fund of the State** (Art. **267(2)** pattern) lets the executive meet **urgent unforeseen** expenditure first; the Assembly later regularises the advance.
 - Prelims usually tests the constitutional identity of the two funds more than UK-specific amounts.
 
@@ -64,7 +64,7 @@
 
 **Identity:** ECI for Assembly | SEC for local bodies | anti-defection applies.
 
-- Vidhan Sabha elections are conducted by the **Election Commission of India**.
+- Vidhan Sabha elections are conducted by the **Election Commission (निर्वाचन आयोग) of India**.
 - Local body polls are run with the **State Election Commission**.
 - National and State parties contest the Assembly; anti-defection follows national constitutional rules.
 - The **State Finance Commission** recommends devolution to Panchayats and municipalities — it is **not** the UKPSC and not the Union Finance Commission.

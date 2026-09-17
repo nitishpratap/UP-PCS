@@ -3,15 +3,15 @@
 ### ★ UKPCS state card (Unit 3)
 
 > **Sources:** Arts. 315–323 (PSC), Art. 165 (Advocate General), CAG audit architecture.  
-> **Syllabus heads:** Public Services · Public Service Commission · Auditing · Advocate General · Centre–State hooks.  
-> **First Advocate General pair:** also appears in [Topic 1](01_Constitutional_Framework_of_Uttarakhand.md) Q135 options.
+> **Syllabus heads:** Public Services · Public Service Commission · Auditing · Advocate General (महाधिवक्ता) · Centre–State hooks.  
+> **First Advocate General pair:** also appears in [Topic 1](01_Constitutional_Framework_of_Uttarakhand (उत्तराखंड).md) Q135 options.
 
 ---
 
 ## Current Affairs (this topic)
 
 - UKPSC notification / recruitment news can refresh PSC identity stems.
-- Keep Advocate General vs Attorney General as a permanent title trap.
+- Keep Advocate General vs Attorney General (महान्यायवादी) as a permanent title trap.
 
 ---
 
@@ -19,12 +19,12 @@
 
 | Head | Key |
 |------|-----|
-| UKPSC | State Public Service Commission for civil services recruitment |
+| UKPSC | State Public Service Commission (राज्य लोक सेवा आयोग) for civil services recruitment |
 | Advocate General | Constitutional law officer of the state (**Art. 165**) |
 | First AG memory | **Nanda Ballabh Tiwari** in many coaching lists |
-| Auditing | State accounts audited under **CAG** framework; Assembly PAC / Estimates on the legislative side |
+| Auditing | State accounts audited under **CAG** (भारत के नियंत्रक-महालेखापरीक्षक) framework; Assembly PAC (लोक लेखा समिति) / Estimates (प्राकलन समिति) on the legislative side |
 | Centre–State | Same federal lists / residual pattern as other states |
-| State funds | Consolidated / Contingency Fund pattern under Arts. **266–267** — see Funds chapter |
+| State funds | Consolidated / Contingency Fund (आकस्मिकता निधि) pattern under Arts. **266–267** — see Funds chapter |
 
 ---
 
@@ -33,7 +33,7 @@
 1. UKPSC = state PSC.
 2. Advocate General ≠ Attorney General of India.
 3. First AG often listed as Nanda Ballabh Tiwari — still verify against the specific stem.
-4. Do not confuse State Finance Commission chair with PSC chair.
+4. Do not confuse State Finance Commission (वित्त आयोग) chair with PSC chair.
 5. Fund articles belong with the Funds chapter, not this PSC card.
 
 ---
@@ -54,7 +54,7 @@
 **Identity:** State PSC under Part XIV | UKPCS recruitment gateway.
 
 - State civil services are recruited mainly through the **Uttarakhand Public Service Commission (UKPSC)**.
-- UKPSC is a **State** Public Service Commission under the Constitution — it does **not** conduct UPSC examinations.
+- UKPSC is a **State** Public Service Commission under the Constitution — it does **not** conduct UPSC (संघ लोक सेवा आयोग) examinations.
 - Domicile and special-selection rules appear in coaching dumps; named community / language criteria sit with the SC–ST–language chapter when a stem names them.
 - Centre–State administrative relations follow the general federal model; UK-only colour is in schemes and local bodies.
 
@@ -77,7 +77,7 @@
 
 - Audit of State receipts and expenditure sits with the **Comptroller and Auditor General** (नियंत्रक-महालेखापरीक्षक) architecture.
 - Reports are laid before the State legislature and examined by committees such as the **Public Accounts Committee**.
-- Prelims so far has stressed **first office-holder names** more than deep AG procedure, but the CAG → PAC pipeline is the durable teaching bridge.
+- Prelims so far has stressed **first office-holder names** more than deep AG procedure (प्रक्रिया), but the CAG → PAC pipeline is the durable teaching bridge.
 
 ---
 

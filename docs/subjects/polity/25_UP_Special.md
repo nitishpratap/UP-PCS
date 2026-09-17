@@ -4,7 +4,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Governor of Uttar Pradesh | UP Legislative Assembly | Strength of UP LA | UP Legislative Council | Strength & composition of UP LC | Lok Sabha seats from UP | Rajya Sabha seats from UP | High Court of Judicature at Allahabad | Establishment of Allahabad HC | Lucknow Bench | UP Reorganisation / Creation of Uttarakhand | Administrative divisions of UP | Official language of UP | Uttar Pradesh State Election Commission | UPPSC | UP Finance Commission | UP Lokayukta | UP Panchayati Raj | Urban Local Bodies in UP
+Governor of Uttar Pradesh (उत्तर प्रदेश) | UP Legislative Assembly | Strength of UP LA | UP Legislative Council | Strength & composition of UP LC | Lok Sabha (लोकसभा) seats from UP | Rajya Sabha (राज्यसभा) seats from UP | High Court of Judicature at Allahabad (इलाहाबाद) | Establishment of Allahabad HC | Lucknow (लखनऊ) Bench | UP Reorganisation / Creation of Uttarakhand (उत्तराखंड) | Administrative divisions of UP | Official language of UP | Uttar Pradesh State Election Commission (निर्वाचन आयोग) | UPPSC (उत्तर प्रदेश लोक सेवा आयोग) | UP Finance Commission (वित्त आयोग) | UP Lokayukta (लोकायुक्त) | UP Panchayati Raj (पंचायती राज) | Urban (नगरीय) Local Bodies in UP
 
 </details>
 
@@ -31,7 +31,7 @@ Newest first. One event, one fact.
 | **1948** | Lucknow Bench | Oudh Chief Court **merged**, not a new HC |
 | **2023** | Who conducts Panchayat elections? | **SEC** — not ECI, not a “PR Commission of India” |
 | **2021** | Who extends UPPSC functions? | **UP State Legislature** (321) |
-| **2013** | Union Lokpal Act | UP already had Lokayukta **1975** |
+| **2013** | Union Lokpal (लोकपाल) Act | UP already had Lokayukta **1975** |
 | **1866** | Allahabad HC | Letters Patent **17 Mar**; first seat **Agra** (आगरा) |
 
 ---
@@ -53,21 +53,21 @@ Newest first. One event, one fact.
 12. Allahabad High Court traces to the Indian High Courts Act **1861** and Letters Patent of **17 March 1866** for the North-Western Provinces. It first sat at **Agra** (**1866**), moved to Allahabad in **1869**, and took the “at Allahabad” name style in **1919**. First Chief Justice was **Walter Morgan**.
 13. The Lucknow Bench comes from the United Provinces High Courts (Amalgamation) Order **1948**, merging the Chief Court of Oudh (**1925**). Sanctioned strength is about **160** — the largest High Court. Jurisdiction is UP only; Uttarakhand has the **Nainital** (नैनीताल) High Court from **2000**.
 14. Allahabad High Court is **not** one of the **1862** Chartered High Courts (Bombay, Calcutta, Madras).
-15. Official language is **Hindi in Devanagari** (UP Official Language Act **1951**). **Urdu** became the second official language in **1989**. Under Union Official Language Rules **1976**, UP is **Region A**.
+15. Official language is **Hindi in Devanagari** (UP Official Language Act **1951**). **Urdu** became the second official language in **1989**. Under Union Official Language (संघ राजभाषा) Rules **1976**, UP is **Region A**.
 16. Uttarakhand was created by the UP Reorganisation Act **2000** on **9 November 2000** (then named **Uttaranchal**). The rename to **Uttarakhand** (उत्तराखंड) took effect on **1 January 2007**. It was the **27th** State; **13** districts were carved out.
 17. After reorganisation, UP Assembly fell **425 → 403**, Lok Sabha **85 → 80**, Rajya Sabha **34 → 31**. Uttarakhand’s Assembly is **70**.
 18. Uttar Pradesh has **18** Commissioner divisions and **75** districts. Faizabad division was renamed **Ayodhya** (अयोध्या). Devipatan division (HQ **Gonda**) covers Bahraich, Balrampur, Gonda, and Shravasti.
 19. A common Assembly-strength trap pairs Manipur with **62**; Manipur’s Assembly is **60**. UP **403** and Uttarakhand **70** are the correct neighbours in that set.
 20. **UPPSC** HQ is **Prayagraj** (from **1937**). The Governor appoints; the **President** removes after a Supreme Court path on misbehaviour. Age limit is **62** / six years. Functions are extended by the **UP Legislature** under Article **321**.
-21. UPPSC is not UPSC (Delhi), not UP SEC (Lucknow), and not the Accountant General.
+21. UPPSC is not UPSC (संघ लोक सेवा आयोग) (Delhi), not UP SEC (राज्य निर्वाचन आयोग) (Lucknow), and not the Accountant General.
 22. The **UP State Election Commission** (Lucknow) works under Articles **243K and 243ZA**. The Governor appoints; removal is like a **High Court judge**. It conducts **Panchayat and urban local body** polls — **not** MLA, MP, or Presidential elections.
 23. There is no “Panchayati Raj Commission of India” running UP local polls. Local polls are SEC; legislature polls are ECI.
 24. The **UP State Finance Commission** is constituted by the Governor every **five years** (Article **243I**) and also reviews municipal finances (Article **243Y**). The report goes Governor → both Houses with an action-taken note. It is not the Union Finance Commission (Article **280**).
 25. The **UP Lokayukta** is under the U.P. Lokayukta and Up-Lokayukta Act **1975**. Appointment involves the Governor after the Chief Justice of Allahabad High Court and the Leader of Opposition. It is statutory, not a criminal court, and not the Union **Lokpal** (लोकपाल) (**2013**). Maharashtra (**1971**) had the first State Lokayukta Act in India.
-26. Panchayati Raj tiers are Gram Panchayat (**Pradhan**) → **Kshetra Panchayat** (**Pramukh**) → Zila Panchayat (**Adhyaksha**). Statutes are the **1947** village Act and the **1961** Kshetra–Zila Act. There are **75** Zila Panchayats.
-27. Women get **50%** reservation in UP PRIs/ULBs by State law (Constitution’s floor remains one-third). Panchayat member age is **21**. Gram Sabha means **registered voters**, not every resident. Nyaya Panchayat is not a 73rd constitutional tier.
-28. UP has **no Fifth Schedule areas**, so **PESA does not apply**. Every district has a District Planning Committee (Article **243ZD**, at least four-fifths elected).
-29. Urban local bodies are **Nagar Nigam** (Municipal Corporation Act **1959**), **Nagar Palika Parishad**, and **Nagar Panchayat** (Municipalities Act **1916**). The Mayor is the political head; the **Nagar Ayukt / Commissioner** is the executive.
+26. Panchayati Raj tiers are Gram Panchayat (**Pradhan**) → **Kshetra Panchayat** (क्षेत्र पंचायत) (**Pramukh**) → Zila Panchayat (**Adhyaksha**). Statutes are the **1947** village Act and the **1961** Kshetra–Zila Act. There are **75** Zila Panchayats.
+27. Women get **50%** reservation in UP PRIs/ULBs by State law (Constitution’s floor remains one-third). Panchayat member age is **21**. Gram Sabha (ग्राम सभा) means **registered voters**, not every resident. Nyaya (न्याय) Panchayat is not a 73rd constitutional tier.
+28. UP has **no Fifth Schedule (5वीं अनुसूची) areas**, so **PESA does not apply**. Every district has a District Planning Committee (Article **243ZD**, at least four-fifths elected).
+29. Urban local bodies are **Nagar Nigam** (Municipal Corporation Act **1959**), **Nagar Palika Parishad**, and **Nagar Panchayat** (नगर पंचायत) (Municipalities Act **1916**). The Mayor (महापौर) is the political head; the **Nagar Ayukt / Commissioner** is the executive.
 30. Cantonment Boards are under **Defence**, not the 74th municipal track. Development authorities such as **Noida, Greater Noida, and YEIDA** are industrial township exceptions under Article **243Q** — **not** Nagar Nigams.
 31. Lucknow runs the political executive; Prayagraj runs the High Court and UPPSC. That geography-of-power split is a recurring prelims trap.
 32. Reorganisation arithmetic (**425/85/34 → 403/80/31**) plus Council **100** and bicameral status are the densest number facts on this sheet.
@@ -141,7 +141,7 @@ UP’s meat is **numbers plus one geography of power**: Lucknow runs the governm
 
 ## Governor of Uttar Pradesh
 
-**State Governor under Arts. 153–162.** Raj Bhavan **Lucknow**. First = **Sarojini Naidu** (15 Aug **1947**). **No Art. 371** special provision for UP.
+**State Governor (राज्यपाल) under Arts. 153–162.** Raj Bhavan **Lucknow**. First = **Sarojini Naidu** (15 Aug **1947**). **No Art. 371** special provision for UP.
 
 - **Oath (Art. 159):** before the **Chief Justice of the Allahabad High Court** (or a person appointed by the President)
 - **First woman Governor** of an Indian State. Died in office, Lucknow, **2 Mar 1949**
@@ -161,14 +161,14 @@ UP’s meat is **numbers plus one geography of power**: Lucknow runs the governm
 Bicameral: UP is one of **six** Council States — Andhra Pradesh, Bihar, Karnataka, Maharashtra, Telangana, **Uttar Pradesh** (उत्तर प्रदेश).
 
 - **Before Uttarakhand:425**. Seat freeze till the census after **2026** — so **403** is the number the paper uses
-- **Article:170** (composition) · **172** (5 years) · **174** (summon / prorogue / dissolve)
+- **Article:170** (composition) · **172** (5 years) · **174** (summon (आहूत करना) / prorogue / dissolve)
 - Direct, FPTP, territorial seats. SC/ST reserved under **332**. Anglo-Indian nomination (**333**) ended by the **104th**
 - Money Bill: only in the LA, on the Governor’s recommendation. LC has **14 days**, recommendatory
-- **Quorum (189):10 members or 1/10** of total membership, **whichever is greater**
-- **Speaker:** elected from among MLAs. Resigns to the **Deputy Speaker** (179). Continues after dissolution until the new House first meets
+- **Quorum (गणपूर्ति) (189):10 members or 1/10** of total membership (सदन की कुल सदस्य संख्या का), **whichever is greater**
+- **Speaker:** elected from among MLAs. Resigns to the **Deputy Speaker** (179). Continues after dissolution (विघटन) until the new House first meets
 - **Presidential college:** only the **403 elected MLAs** vote (not LC, not nominated). UP MLA vote-value is the **highest** among States (textbook **208**)
 
-Other large Assemblies (only to not mix): West Bengal 294 · Maharashtra 288 · Bihar 243 · Tamil Nadu 234 · Madhya Pradesh 230.
+Other large Assemblies (only to not mix): West Bengal 294 · Maharashtra 288 · Bihar 243 · Tamil Nadu (नाडु) 234 · Madhya Pradesh 230.
 
 > **Logic:** UP LA ≠ 500 (that is Art. 170’s **maximum**). ≠ 425 still (that was pre-**9 Nov 2000**).
 
@@ -177,7 +177,7 @@ Other large Assemblies (only to not mix): West Bengal 294 · Maharashtra 288 · 
 Which one of the following pairs is **NOT** correctly matched?
 
 A. Manipur — 62
-B. Goa — 40
+B. Goa (गोवा) — 40
 C. Uttar Pradesh — 403
 D. Uttarakhand — 70
 
@@ -229,7 +229,7 @@ Trap: UP LC = 1/3 of 403 = 134. **The cap is 134; the actual House is 100.** Tra
 | **Lok Sabha** (लोकसभा) | **80** | **85** | **Largest** (next: Maharashtra 48) |
 | **Rajya Sabha** (राज्यसभा) | **31** | **34** | **Largest** (next: Maharashtra 19) |
 
-- **Reservation in the 80:17 Scheduled Caste** seats. **Zero Scheduled Tribe** Lok Sabha seats from UP
+- **Reservation in the 80:17 Scheduled Caste (अनुसूचित जाति)** seats. **Zero Scheduled Tribe (अनुसूचित जनजाति)** Lok Sabha seats from UP
 - **How the 31 RS seats are filled:** elected by the **403 MLAs**, proportional representation by single transferable vote, **6-year** term, **1/3** retire every two years. The Governor does **not** nominate anyone to the Rajya Sabha
 
 > **Logic:** UP sends **80** Lok Sabha members and **31** Rajya Sabha members — not **85** / **34**.
@@ -259,9 +259,9 @@ Trap: UP LS = 85 still. **80 after Uttarakhand.** Trap: RS 34. **31.** Trap: onl
 
 **Established 1866** (Letters Patent **17 March 1866**) under the Indian High Courts Act **1861**. Principal seat **Prayagraj**. First sat **Agra**. Lucknow is a **Bench**, not a second HC.
 
-- Birth name: High Court of Judicature for the **North-Western Provinces**. First seat **Agra** (1866), replacing the Sadr Diwani Adalat. Shifted to **Allahabad in 1869**. Present name by supplementary Letters Patent **1919**
+- Birth name: High Court of Judicature for the **North-Western Provinces**. First seat **Agra** (1866), replacing the Sadr (सद्र) Diwani (दीवानी) Adalat. Shifted to **Allahabad in 1869**. Present name by supplementary Letters Patent **1919**
 - First Chief Justice: Sir **Walter Morgan**
-- **Lucknow Bench:United Provinces High Courts (Amalgamation) Order, 1948**. The **Chief Court of Oudh** (Lucknow, set up **1925**) was merged. There is **no** third permanent bench (Meerut/Noida demands are not law)
+- **Lucknow Bench:United Provinces High Courts (Amalgamation) Order, 1948**. The **Chief Court of Oudh** (Lucknow, set up **1925**) was merged. There is **no** third permanent bench (Meerut (मेरठ)/Noida demands are not law)
 - Who sits where: Lucknow = old **Avadh / Oudh** districts — classically **12**: Lucknow, Unnao, Raebareli, Sitapur, Hardoi, Lakhimpur Kheri, Gonda, Bahraich, Barabanki, Faizabad/Ayodhya, Sultanpur, Pratapgarh. Districts later carved from these (Amethi, Shravasti, Balrampur…) also go to Lucknow. **Rest of UP: Prayagraj**
 - Sanctioned strength **160** — **largest High Court in India**. Jurisdiction = whole of **Uttar Pradesh only**. Uttarakhand HC = **Nainital** from **2000**
 - **Not** a Chartered High Court of **1862** (Bombay, Calcutta, Madras)
@@ -277,7 +277,7 @@ Trap: UP LS = 85 still. **80 after Uttarakhand.** Trap: RS 34. **31.** Trap: onl
 - Legislature (Art. **210**): Hindi / official language of the State / English
 - High Court (Art. **348**): authoritative language of the HC is **English** unless the Governor, with the President’s consent, authorises Hindi. Do not write “Allahabad HC works only in Hindi”
 - Union OL Rules 1976: UP is **Region A** (correspondence with the Centre in Hindi)
-- Both **Hindi and Urdu** are in the Eighth Schedule. That is **not** what made Urdu UP’s second official language — the **1989 State Act** did
+- Both **Hindi and Urdu** are in the Eighth Schedule (आठवीं अनुसूची). That is **not** what made Urdu UP’s second official language — the **1989 State Act** did
 
 > **Logic:** Urdu is **second**, 1989 — not the official language. There is **no** national-language article.
 
@@ -287,9 +287,9 @@ Trap: UP LS = 85 still. **80 after Uttarakhand.** Trap: RS 34. **31.** Trap: onl
 
 **Uttar Pradesh Reorganisation Act, 2000** — **9 November 2000**, 27th State. Born as **Uttaranchal**; renamed **Uttarakhand 1 January 2007**.
 
-- Hill districts of **Garhwal and Kumaon** — **13 districts** at birth: Almora, Bageshwar, Chamoli, Champawat, Dehradun, Haridwar, Nainital, Pauri Garhwal, Pithoragarh, Rudraprayag, Tehri Garhwal, Udham Singh Nagar, Uttarkashi
+- Hill districts of **Garhwal (गढ़वाल) and Kumaon (कुमाऊँ)** — **13 districts** at birth: Almora (अल्मोड़ा), Bageshwar (बागेश्वर), Chamoli (चमोली), Champawat (चंपावत), Dehradun (देहरादून), Haridwar (हरिद्वार), Nainital, Pauri (पौड़ी) Garhwal, Pithoragarh (पिथौरागढ़), Rudraprayag (रुद्रप्रयाग), Tehri (टिहरी) Garhwal, Udham Singh Nagar (ऊधम सिंह नगर), Uttarkashi (उत्तरकाशी)
 - Capital **Dehradun** (देहरादून) (temporary); Gairsain is the summer-capital project — do not treat Gairsain as the 2000 statutory capital
-- High Court **Nainital**. First Governor **Surjit Singh Barnala** · first CM **Nityanand Swami**
+- High Court **Nainital**. First Governor **Surjit Singh Barnala** · first CM **Nityanand Swami (स्वामी)**
 - UP numbers that moved: LA **425 → 403** · LS **85 → 80** · RS **34 → 31**. Uttarakhand LA = **70**
 
 Same winter: Chhattisgarh **1 Nov 2000** · Uttarakhand **9 Nov** · Jharkhand **15 Nov**.
@@ -302,7 +302,7 @@ Same winter: Chhattisgarh **1 Nov 2000** · Uttarakhand **9 Nov** · Jharkhand *
 
 **18 Commissioner divisions · 75 districts.** A division is headed by a **Commissioner** (executive), not by the High Court Bench.
 
-- **The 18 divisions:** Agra · Aligarh · **Ayodhya** (old Faizabad) · Azamgarh · Bareilly · Basti · Chitrakoot · **Devipatan** (HQ **Gonda**) · Gorakhpur · Jhansi · Kanpur · Lucknow · Meerut · Mirzapur · Moradabad · **Prayagraj** · Saharanpur · Varanasi
+- **The 18 divisions:** Agra · Aligarh (अलीगढ़) · **Ayodhya** (old Faizabad) · Azamgarh · Bareilly · Basti · Chitrakoot (चित्रकूट) · **Devipatan** (HQ **Gonda**) · Gorakhpur (गोरखपुर) · Jhansi (झांसी) · Kanpur (कानपुर) · Lucknow · Meerut · Mirzapur (मिर्ज़ापुर) · Moradabad · **Prayagraj** · Saharanpur · Varanasi (वाराणसी)
 - **Devipatan (2025 geography fact):** Bahraich · Balrampur · Gonda · Shravasti
 - Do not raata a brittle tehsil/block count
 
@@ -322,13 +322,13 @@ Same winter: Chhattisgarh **1 Nov 2000** · Uttarakhand **9 Nov** · Jharkhand *
 - **Extend functions (321):Uttar Pradesh State Legislature** — not the President, not the PM, not DoPT
 - **Further office (319):** Chair may later be UPSC Chair or Chair of **another** SPSC — not a random Union/State post
 - Conducts Combined State / Upper Subordinate (PCS), **RO-ARO**, and other State services the 321 law / Governor’s regulations give it
-- ≠ **UPSC** (संघ लोक सेवा आयोग) (Union, Delhi) · **UP SEC** (local polls, Lucknow) · **Accountant General** (CAG’s field officer)
+- ≠ **UPSC** (संघ लोक सेवा आयोग) (Union, Delhi) · **UP SEC** (local polls, Lucknow) · **Accountant General** (CAG (भारत के नियंत्रक-महालेखापरीक्षक)’s field officer)
 
 > **Logic:** UPPSC HQ = **Prayagraj**, not Lucknow. The Governor who appoints does **not** remove.
 
 **PYQ — UPPCS Prelims 2021, Q133**
 
-The functions of the State Public Service Commission of Uttar Pradesh can be extended by—
+The functions of the State Public Service Commission (राज्य लोक सेवा आयोग) of Uttar Pradesh can be extended by—
 
 A. Prime Minister
 B. Union Ministry of Personnel, Public Grievances and Pensions
@@ -411,11 +411,11 @@ Trap: SEC = ECI’s State office. **Separate constitutional office.** Trap: SEC 
 - Women **50%** of seats **and** of Pradhan / chair offices — **State law**. Constitution’s floor (243D) is still **≥ 1/3**
 - Age **21** (243F), not 25. Term **5 years** from the first meeting
 - Officials: village secretary / GPO · **BDO** with the Kshetra · **CDO / CEO** with the Zila Panchayat
-- **Gram Sabha (243A):** all **persons on the electoral roll** of that Gram Panchayat — not “every resident”, not the Panches sitting as a board. Powers = **State law**
+- **Gram Sabha (243A):** all **persons on the electoral roll** of that Gram Panchayat — not “every resident”, not the Panches sitting (बैठक) as a board. Powers = **State law**
 - **DPC (243ZD):** every district. At least **4/5** elected from PRI + ULB members. Consolidates rural **and** urban draft plans
-- **PESA does not apply** — UP has **no Fifth Schedule** areas. **6th Schedule** does not apply (ADCs = Assam, Meghalaya, Tripura, Mizoram)
+- **PESA does not apply** — UP has **no Fifth Schedule** areas. **6th Schedule** (6वीं अनुसूची) does not apply (ADCs = Assam, Meghalaya (मेघालय), Tripura, Mizoram)
 
-> **Logic:** UP’s middle tier is **Kshetra Panchayat**, not Panchayat Samiti. Nyaya Panchayat ≠ a 73rd tier. Constitution’s women floor is **1/3**; **50%** is UP’s statute.
+> **Logic:** UP’s middle tier is **Kshetra Panchayat**, not Panchayat Samiti (पंचायत समिति). Nyaya Panchayat ≠ a 73rd tier. Constitution’s women floor is **1/3**; **50%** is UP’s statute.
 
 ---
 
@@ -423,11 +423,11 @@ Trap: SEC = ECI’s State office. **Separate constitutional office.** Trap: SEC 
 
 **Three 74th types:** Nagar Panchayat (transitional) · Nagar Palika Parishad (smaller urban) · Nagar Nigam (larger urban). Statutes: **1916** Municipalities Act · **1959** Municipal Corporation Act.
 
-- Nagar Nigams: Lucknow, Kanpur, Agra, Varanasi, Prayagraj, Meerut, Ghaziabad, Bareilly, Aligarh, Moradabad, Saharanpur, Gorakhpur, Firozabad, Jhansi, Shahjahanpur, Mathura, Ayodhya — **the roster grows**. Mark **types**, not a frozen headcount
-- **Mayor** = political head. **Nagar Ayukt / Municipal Commissioner** = State-appointed **executive**
+- Nagar Nigams: Lucknow, Kanpur, Agra, Varanasi, Prayagraj, Meerut, Ghaziabad, Bareilly, Aligarh, Moradabad, Saharanpur, Gorakhpur, Firozabad, Jhansi, Shahjahanpur (शाहजहाँपुर), Mathura (मथुरा), Ayodhya — **the roster grows**. Mark **types**, not a frozen headcount
+- **Mayor** = political head. **Nagar Ayukt / Municipal Commissioner (नगर आयुक्त)** = State-appointed **executive**
 - Same skeleton as PRIs: age **21**, term **5 years**, women **50%** by State law. Elections: same **UP SEC** (243ZA)
-- **Not 74th:Cantonment Board** (Defence) · **Lucknow Development Authority** and other DAs = master plan / land, **not** the municipality
-- **Industrial township (243Q):** if an industrial township provides municipal services, a municipality **need not** be constituted. **Noida, Greater Noida, Yamuna Expressway (YEIDA)** authorities live here — they are **not** Nagar Nigams and their boards are **not** elected by the UP SEC
+- **Not 74th:Cantonment Board (छावनी बोर्ड)** (Defence) · **Lucknow Development Authority** and other DAs = master plan / land, **not** the municipality
+- **Industrial township (243Q):** if an industrial township provides municipal services, a municipality **need not** be constituted. **Noida, Greater Noida, Yamuna (यमुना) Expressway (YEIDA)** authorities live here — they are **not** Nagar Nigams and their boards are **not** elected by the UP SEC
 - **MPC:** million-plus urban agglomerations: Metropolitan Planning Committee, at least **2/3** elected (Lucknow / Kanpur / Ghaziabad class)
 - **Ward Committees (243S):** compulsory in a municipality of **3 lakh+**. **Not** a fourth 74th type
 

@@ -4,7 +4,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Art. 368 | Procedure | Simple / Special / Special+State | Basic Structure | 1st | 7th | 24th | 25th | 26th | 36th | 42nd (Mini-Constitution) | 44th | 52nd | 61st | 69th | 73rd | 74th | 86th | 91st | 97th | 101st | 102nd | 103rd | 104th | 105th | 106th
+Art. 368 | Procedure (प्रक्रिया) | Simple / Special / Special+State | Basic Structure | 1st | 7th | 24th | 25th | 26th | 36th | 42nd (42वां) (Mini-Constitution) | 44th (44वां संशोधन) | 52nd | 61st | 69th | 73rd | 74th | 86th | 91st | 97th | 101st | 102nd | 103rd | 104th | 105th | 106th
 
 </details>
 
@@ -18,10 +18,10 @@ Art. 368 | Procedure | Simple / Special / Special+State | Basic Structure | 1st 
 
 ## Current Affairs
 
-- **2025** — 42nd Preamble = Socialist + Secular (direct).
-- **2024** — Kesavananda chronology; 42nd = **1976**; GST = **101st**; local bodies = **73rd+74th**.
-- **2021** — Golaknath → 24th → Kesavananda → 42nd (order trap); *Rajendra N. Shah* — 97th Part IXB dead for **State** co-ops.
-- **2019** — 43A workers (42nd DPSP).
+- **2025** — 42nd Preamble (प्रस्तावना) = Socialist + Secular (direct).
+- **2024** — Kesavananda (केशवानंद भारती 1973) chronology; 42nd = **1976**; GST (वस्तु एवं सेवा कर) = **101st**; local bodies = **73rd+74th**.
+- **2021** — Golaknath (गोलकनाथ 1967) → 24th → Kesavananda → 42nd (order trap); *Rajendra N. Shah* — 97th Part IXB (सहकारिता) dead for **State** co-ops.
+- **2019** — 43A workers (42nd DPSP (राज्य के नीति निदेशक तत्व)).
 - **2022** — RTE = **86th** not 103rd; Delhi NCT = **69th**; *Janhit Abhiyan* upholds EWS (103rd valid).
 - **2023** — 106th women 33% — **not** yet in force; waits delimitation.
 
@@ -43,13 +43,13 @@ D. Nationwide Goods and Services Tax (GST)
 
 **Logic:** The 101st Amendment created the GST framework; the 103rd Amendment concerns EWS reservation.
 
-**Ans: D (Series B provisional key).** 101st Amendment (2016) introduced GST / GST Council. EWS is 103rd; anti-defection is 52nd.
+**Ans: D (Series B provisional key).** 101st Amendment (2016) introduced GST / GST Council (जीएसटी परिषद). EWS is 103rd; anti-defection is 52nd.
 
 </details>
 
 **Q. UKPCS Prelims 2025, Q128**
 
-The size of the Council of Ministers was fixed up to 15 per cent of the total members of the Lok Sabha by which Amendment?
+The size of the Council of Ministers was fixed up to 15 per cent of the total members of the Lok Sabha (लोकसभा) by which Amendment?
 
 A. 91st Constitutional Amendment Act, 2003
 B. 92nd Constitutional Amendment Act, 2003
@@ -59,7 +59,7 @@ D. 86th Constitutional Amendment Act, 2002
 <details>
 <summary>Show answer</summary>
 
-**Logic:** The 91st Amendment imposed the ministry-size ceiling; the nearby 92nd Amendment added Eighth Schedule languages.
+**Logic:** The 91st Amendment imposed the ministry-size ceiling; the nearby 92nd Amendment added Eighth Schedule (आठवीं अनुसूची) languages.
 
 **Ans: A (Series B provisional key).** 91st Amendment (2003) capped CoM at 15% of Lok Sabha / Assembly strength. 92nd added Eighth Schedule languages.
 
@@ -70,26 +70,26 @@ D. 86th Constitutional Amendment Act, 2002
 
 ## Consolidated — 28 Must-Score Facts
 
-1. Amendment power sits in **Part XX, Article 368**. An amendment Bill may start in **either House**. There is **no joint sitting**. After the **24th Amendment**, the President **shall** assent.
-2. There are **three lanes**: **simple majority** changes that are **not** “under 368” (new States, Article 169 Councils, Schedules 5/6 matters, and similar); **special majority** under **368(2)** (majority of total membership plus two-thirds present and voting); and **special majority plus ratification by half the States** for federal provisions.
-3. Federal provisions needing State ratification include Presidential election, extent of executive power (**73/162**), Supreme Court and High Courts, the **7th Schedule**, **Article 368** (अनुच्छेद 368) itself, and State representation in the Rajya Sabha.
-4. The basic-structure chain runs **Shankari Prasad (1951) → Sajjan Singh (1965) → Golaknath (1967) → 24th Amendment (1971) → Kesavananda (1973) → 42nd (1976) → Minerva Mills (1980)**. *Kesavananda* held that Parliament can amend Fundamental Rights but **not** destroy basic structure.
+1. Amendment power sits in **Part XX, Article 368 (अनुच्छेद 368)**. An amendment Bill may start in **either House**. There is **no joint sitting (संयुक्त बैठक)**. After the **24th Amendment**, the President **shall** assent.
+2. There are **three lanes**: **simple majority** changes that are **not** “under 368” (new States, Article 169 Councils, Schedules 5/6 matters, and similar); **special majority** under **368(2)** (majority of total membership (सदन की कुल सदस्य संख्या का) plus two-thirds (ते-भागा) present and voting (गणपूर्ति)); and **special majority plus ratification by half the States** for federal provisions.
+3. Federal provisions needing State ratification include Presidential election, extent of executive power (**73/162**), Supreme Court and High Courts, the **7th Schedule**, **Article 368** (अनुच्छेद 368) itself, and State representation in the Rajya Sabha (राज्यसभा).
+4. The basic-structure chain runs **Shankari Prasad (1951) → Sajjan Singh (1965) → Golaknath (1967) → 24th Amendment (1971) → Kesavananda (1973) → 42nd (1976) → Minerva Mills (1980)**. *Kesavananda* held that Parliament can amend Fundamental Rights (मौलिक अधिकार) but **not** destroy basic structure.
 5. A shorter chronology trap is **Golaknath → 24th → Kesavananda → 42nd**. *Golaknath* said Fundamental Rights could not be amended; the **24th** asserted Parliament’s power; *Kesavananda* balanced power with basic structure.
-6. The **1st Amendment (1951)** added **15(4)**, widened **19(2)** for public order, and inserted **31A/31B** with the **9th Schedule** shield for certain laws.
-7. The **7th Amendment (1956)** reorganised States and added **350A/350B**. Linguistic-minority Articles **350A/350B** are **7th**, **not** 9th. The **9th Amendment** is the Berubari boundary amendment.
-8. The **24th Amendment (1971)** affirmed that Parliament can amend Part III and that the President shall assent. The **25th** inserted **31C** linked to Articles **39(b)/(c)** and spoke of “amount” rather than market value for compensation. The **26th** abolished **privy purses**.
+6. The **1st Amendment (1951)** added **15(4)**, widened **19(2)** for public order, and inserted **31A/31B** with the **9th Schedule** (9वीं अनुसूची) shield for certain laws.
+7. The **7th Amendment (1956)** reorganised States and added **350A (अनु. 350A)/350B (अनु. 350B)**. Linguistic-minority Articles **350A/350B** are **7th**, **not** 9th. The **9th Amendment** (9वां संशोधन) is the Berubari boundary amendment.
+8. The **24th Amendment (1971)** affirmed that Parliament can amend Part III (मौलिक अधिकार) and that the President shall assent. The **25th** inserted **31C** linked to Articles **39(b)/(c)** and spoke of “amount” rather than market value for compensation. The **26th** abolished **privy purses**.
 9. The **36th Amendment (1975)** made **Sikkim** a State (**371F**). The earlier **35th** had made Sikkim an “associate” State with an old Tenth Schedule device — do not confuse 35th and 36th.
-10. The **42nd Amendment (1976)** is the **Mini-Constitution**: it added **Socialist**, **Secular**, and **Integrity** to the Preamble; inserted Fundamental Duties (**51A**); added DPSPs **39A, 43A, 48A**; and moved **five** subjects to the Concurrent List.
+10. The **42nd Amendment (1976)** is the **Mini-Constitution**: it added **Socialist**, **Secular**, and **Integrity** to the Preamble; inserted Fundamental Duties (मौलिक कर्तव्य) (**51A**); added DPSPs **39A, 43A, 48A**; and moved **five** subjects to the Concurrent List (समवर्ती सूची).
 11. The 42nd also tried to immunise amendments from review through **368(4)/(5)** and to widen **31C** to all DPSPs — both struck in *Minerva Mills*. The **43rd Amendment (1977)** undid judicial bars such as **32A/131A**.
 12. The **44th Amendment (1978)** moved property to **Article 300A**, made **Articles 20 and 21** unsuspendable, rewrote Emergency rules (written Cabinet advice, armed rebellion, nexus), and added **38(2)** and **361A**.
-13. The **39th Amendment (1975)** tried to place the Prime Minister’s election beyond judicial reach; the Supreme Court struck that device in the *Indira Gandhi* election case.
+13. The **39th Amendment (1975)** tried to place the Prime Minister’s election beyond judicial reach; the Supreme Court struck that device in the *Indira Gandhi (गांधी)* election case.
 14. The **52nd Amendment (1985)** inserted the **present Tenth Schedule** (anti-defection). An earlier Sikkim-related Tenth Schedule had already gone. The **91st Amendment (2003)** killed the one-third split escape, set Council of Ministers size caps (**15%**, Delhi **10%**), and added **361B**.
 15. The **61st Amendment** lowered voting age to **18** (in force **1989**). Do not confuse it with a **62nd**-style extension of reservation timelines under **334**.
 16. The **69th Amendment (1991)** created **NCT Delhi** under **239AA**. The **70th** put NCT into the Presidential electoral college. Neither is the same as the wider NCR planning belt.
-17. The **73rd and 74th Amendments (1992)** created **Parts IX and IXA**. They came into force in **1993** — **24 April** for Panchayats and **1 June** for Municipalities.
+17. The **73rd and 74th Amendments (1992)** created **Parts IX and IXA (नगरपालिका)**. They came into force in **1993** — **24 April** for Panchayats and **1 June** for Municipalities.
 18. The **86th Amendment (2002)** inserted **Article 21A** (RTE), recast **Article 45**, and added duty **51A(k)**. The RTE Act **2009** took effect on **1 April 2010**.
 19. The **97th Amendment (2011)** constitutionalised cooperatives (**43B**, **19(1)(c)**, Part **IXB**). Part IXB was later held **inoperative for State cooperatives (2021)**.
-20. The **101st Amendment (2016)** introduced GST (**246A**, **279A**), live from **1 July 2017**. The **102nd (2018)** constitutionalised NCBC (**338B**) and the Central SEBC list logic (**342A**).
+20. The **101st Amendment (2016)** introduced GST (**246A**, **279A**), live from **1 July 2017**. The **102nd (2018)** constitutionalised NCBC (राष्ट्रीय पिछड़ा वर्ग आयोग) (**338B**) and the Central SEBC list logic (**342A**).
 21. The **103rd Amendment (2019)** created **EWS** reservation of **10%** through **15(6)/16(6)**; *Janhit Abhiyan* (**2022**) upheld it. The **105th (2021)** restored States’ power to identify their own SEBCs.
 22. The **104th Amendment** ended Anglo-Indian nomination and extended SC/ST reservation to **2030**. The **106th (2023)** reserves **one-third** seats for women in the Lok Sabha and Assemblies, but only **after** the next delimitation — it is **not yet in force** as seat reservation on the ground.
 23. The **96th Amendment (2011)** changed **Oriya** to **Odia** in the Eighth Schedule — a pure year-and-name match.
@@ -175,7 +175,7 @@ D. 86th Constitutional Amendment Act, 2002
 - “Present and voting” = only those who **cast a vote**. Abstention / walkout does **not** help the 2/3.
 - State ratification: State legislature — **ordinary majority**. **No** special majority inside the State. **No** referendum. **UTs do not** ratify.
 - Time-limit: **none** in 368. President may wait till half the States have ratified, then assent.
-- First Amd = **1951** (Nehru). Latest syllabus bullet = **106th (2023)**.
+- First Amd = **1951** (Nehru (नेहरू)). Latest syllabus bullet = **106th (2023)**.
 
 > **Logic:** RS is equal on a 368 Bill; vacancies still count in “total membership.”
 
@@ -185,7 +185,7 @@ D. 86th Constitutional Amendment Act, 2002
 
 | Type | Procedure | Typical use |
 |------|-----------|-------------|
-| **Simple majority** | Ordinary Bill; **outside** 368 | New State, 169 Council, 5th/6th Sch, salaries, quorum |
+| **Simple majority** | Ordinary Bill; **outside** 368 | New State, 169 Council, 5th/6th Sch, salaries, quorum (गणपूर्ति) |
 | **Special majority** | 368(2): majority of **total membership** (सदन की कुल सदस्य संख्या का) + **2/3 present & voting** | Most amendments (FRs, DPSPs, 368-without-proviso) |
 | **Special + States** | Same special majority **plus** legislatures of **not less than half** the States | Federal list (President, 73/162, SC/HC, 7th Sch, 368 itself, State RS seats, **279A**) |
 
@@ -195,14 +195,14 @@ These look like Constitution-editing but travel as **ordinary Bills** (Art. 4 sa
 
 - New State / change name-boundary — Arts. **3–4**.
 - Legislative Council create/abolish — **169**.
-- 5th / 6th Schedule — 244 machinery.
+- 5th / 6th Schedule (6वीं अनुसूची) — 244 machinery.
 - 2nd Schedule (emoluments).
 - Quorum, salaries of MPs/judges (as the article allows) — 100, 125, 221…
 - Official language of a **State** — **345**.
 - Citizenship rules as Parliament provides — **11**.
 - UT legislature (Puducherry etc.) — **239A**.
 - Number of puisne judges / acting CJ (as the article allows) — 124, 126, 223…
-- English in Parliament / Union official language continuation — **120 / 343** machinery.
+- English in Parliament / Union official language (संघ राजभाषा) continuation — **120 / 343** machinery.
 - Use of Hindi in courts as Parliament provides — **348**.
 - All-India Services creation — **312** (RS special 2/3 — still **not** a 368 federal-ratification Bill).
 
@@ -236,8 +236,8 @@ Same special majority **plus** legislatures of **not less than half** the States
 - The **24th Amendment (1971)** was Parliament's reply to *Golaknath* — see the separate card below.
 - In *Kesavananda Bharati* (**24 April 1973**), a 13-judge Bench held that Parliament **can** amend any part of the Constitution, **including** the Fundamental Rights, but **cannot** touch the **basic structure**. The Bench upheld the 24th Amendment, and upheld the first limb of the 25th Amendment's Article 31C (protecting laws under 39(b)/(c)), while striking down its "no judicial review" limb.
 - The **42nd Amendment (1976)** inserted **Articles 368(4) and (5)**, barring courts from questioning an amendment and declaring the amending power unlimited.
-- In *Minerva Mills* (**1980**), the Court **struck down 368(4) and (5)**, holding that a limited amending power **is itself** part of the basic structure; it also struck the 42nd Amendment's extension of **Article 31C to all Directive Principles**.
-- In *Waman Rao* (**1981**), the Court held that Ninth Schedule laws inserted **after 24 April 1973** remain open to basic-structure review.
+- In *Minerva Mills* (**1980**), the Court **struck down 368(4) and (5)**, holding that a limited amending power **is itself** part of the basic structure; it also struck the 42nd Amendment's extension of **Article 31C to all Directive Principles (राज्य के नीति निदेशक तत्व)**.
+- In *Waman Rao* (**1981**), the Court held that Ninth Schedule (नौवीं अनुसूची) laws inserted **after 24 April 1973** remain open to basic-structure review.
 - In *IR Coelho* (**2007**), the Court reaffirmed the same principle: the Ninth Schedule is **not** a penthouse standing above the basic structure.
 - In the *NJAC* case (**2015**), the Court struck down the **99th Amendment**, holding that judicial independence is part of the basic structure — proof that even a ratified amendment **can die**.
 
@@ -319,7 +319,7 @@ D. Sajjan Singh 1965
 
 ## 7th Amendment, 1956
 
-**States Reorganisation** (Fazl Ali · Kunzru · Panikkar). In force **1 Nov 1956**. Abolished Part A/B/C/D classification. Picture then: **14 States + 6 UTs**. 1st Schedule redrawn; **4th Schedule** (RS seats) recast.
+**States Reorganisation** (Fazl Ali · Kunzru · Panikkar). In force **1 Nov 1956**. Abolished Part A (ए)/B/C/D classification. Picture then: **14 States + 6 UTs**. 1st Schedule redrawn; **4th Schedule** (चौथी) (RS seats) recast.
 
 - **Article 222** provides for the transfer of High Court judges.
 - **Article 231** allows a common High Court for two or more States.
@@ -385,19 +385,19 @@ D. Sajjan Singh 1965
 - The 42nd Amendment added the words **Socialist**, **Secular**, and **Integrity** to the Preamble (2025 trap: only Socialist and Secular were 42nd inserts — **Sovereign** and **Republic** were already there in 1950).
 - It inserted **Article 39A**, the DPSP on equal justice and free legal aid.
 - It inserted **Article 43A**, the DPSP on workers' participation in management (asked directly in **2019**).
-- It inserted **Article 48A**, the DPSP on protecting the environment.
+- It inserted **Article 48A**, the DPSP on protecting the environment (पर्यावरण).
 - It recast **Article 39(f)**, the DPSP on the welfare of children.
 - It inserted **Article 51A**, giving the Constitution ten Fundamental Duties (an eleventh was added later by the **86th**). The Swaran Singh Committee had proposed only **8** duties; the Constitution ended up with **10**.
 - It extended **Article 31C**'s protection from Articles 14/19 to **all** Directive Principles, not just 39(b) and 39(c) — *Minerva Mills* later **struck** this extension.
 - It inserted **Articles 368(4) and (5)**, barring judicial review of constitutional amendments — *Minerva Mills* later **struck** these clauses too.
 - It made the advice of the Council of Ministers **binding** on the President under Article 74 (the 44th Amendment later added one right of reconsideration).
-- It moved **five** subjects from the State List to the Concurrent List: education, forests, weights and measures, protection of wild animals and birds, and administration of justice (except the Supreme Court and High Courts).
+- It moved **five** subjects from the State List (राज्य सूची) to the Concurrent List: education, forests, weights and measures, protection of wild animals and birds, and administration of justice (except the Supreme Court and High Courts).
 - It inserted **Articles 32A, 131A, 144A, 226A, and 228A**, curbing the power of High Courts and the Supreme Court to rule on the validity of central laws.
-- It inserted **Part XIVA** (Articles **323A** and **323B**), enabling administrative and other tribunals.
+- It inserted **Part XIVA** (भाग XIVA) (Articles **323A** and **323B**), enabling administrative and other tribunals.
 - The **43rd Amendment (1977)** later repealed these judicial bars (32A, 131A, and the rest), though the tribunals under Part XIVA **stayed**.
 - It inserted **Article 257A**, letting the Union deploy its armed forces in a State; the **44th Amendment** later repealed this article.
-- It extended the life of the Lok Sabha and State Assemblies from five years to **six years** (Articles 83 and 172); the **44th Amendment** restored the term to **five years**.
-- It tied the population base for delimiting Lok Sabha and Assembly seats, and for the President's electoral-college value, to the **1971 census** (the **84th Amendment** later froze this further, till the first census after **2026**).
+- It extended the life of the Lok Sabha (लोकसभा का कार्यकाल समाप्त) and State Assemblies from five years to **six years** (Articles 83 and 172); the **44th Amendment** restored the term to **five years**.
+- It tied the population (जनसंख्या) base for delimiting Lok Sabha and Assembly seats, and for the President's electoral-college value, to the **1971 census** (the **84th Amendment** later froze this further, till the first census after **2026**).
 - It inserted **Article 31D**, letting Parliament restrict Fundamental Rights to combat anti-national activities and associations; the **43rd Amendment** repealed this article too.
 - It inserted **Article 139A**, allowing transfer of certain cases to the Supreme Court — this provision **survived** the 44th Amendment.
 - It froze the meaning of legislative privileges under **Articles 105 and 194** to their pre-42nd sense; the **44th Amendment** fixed the freeze date as **20 June 1979**.
@@ -462,7 +462,7 @@ D. A-3, B-1, C-4, D-2
 <details>
 <summary>Show answer</summary>
 
-**Ans: D.** 42nd **1976** · 52nd **1985** · 86th **2002** · 96th **2011** (Oriya → **Odia** in 8th Schedule).
+**Ans: D.** 42nd **1976** · 52nd **1985** · 86th **2002** · 96th **2011** (Oriya → **Odia** in 8th Schedule (अष्टम अनुसूची)).
 
 </details>
 
@@ -473,7 +473,7 @@ D. A-3, B-1, C-4, D-2
 **Janata unwind of 42nd.** Assent **30 Apr 1979** (Act year still **1978**). Unwinds the worst of 42nd: **armed rebellion** replaces internal disturbance; **written Cabinet** advice for 352; Arts. **20 and 21** unsuspendable; property → **300A**; LS can force-revoke 352.
 
 - It deleted **Article 19(1)(f)** and **Article 31** from Part III, so the Right to Property is no longer a Fundamental Right — it became **Article 300A** in Part XII, a mere legal right.
-- It changed the ground for a National Emergency from "internal disturbance" to **armed rebellion**.
+- It changed the ground for a National Emergency (राष्ट्रीय आपात) from "internal disturbance" to **armed rebellion**.
 - It required a **written** recommendation of the Union Cabinet before a 352 proclamation, in place of the Prime Minister's advice alone.
 - It cut the approval window for a 352 proclamation from two months to **one month**.
 - It raised the approval requirement for 352 from a simple majority to a **special** majority.
@@ -542,13 +542,13 @@ D. A-3, B-1, C-4, D-2
 
 | | **73rd** | **74th** |
 |--|----------|----------|
-| In force | **24 Apr 1993** (National Panchayati Raj Day) | **1 Jun 1993** |
+| In force | **24 Apr 1993** (National Panchayati Raj (पंचायती राज) Day) | **1 Jun 1993** |
 | Part | **IX** — Arts. **243–243O** | **IXA** — Arts. **243P–243ZG** |
 | Schedule | **11th** — **29** items | **12th** — **18** items |
-| Body | Panchayats (village / intermediate / district) | Municipalities (Nagar Panchayat / Council / Corporation) |
-| Compulsory skeleton | Gram Sabha · 3-tier (skip middle if pop. **≤ 20 lakh**) · direct elections · age **21** · **5-year** term · SC/ST + women **≥ 1/3** · **SFC** · **SEC** | Same SEC/SFC logic · **DPC (243ZD)** · **MPC (243ZE)** for big urban agglomerations |
-| Does **not** apply | **243M**: Nagaland, Meghalaya, Mizoram; Manipur hill councils; DGHC area; Schedule V unless PESA extends | Some hill/scheduled areas as the Part provides |
-| What it did **not** do | Nyaya Panchayats · force all 29 subjects · fix 50% women as the constitutional floor | Make every town a Municipal Corporation |
+| Body | Panchayats (village / intermediate / district) | Municipalities (Nagar Panchayat (नगर पंचायत) / Council / Corporation) |
+| Compulsory skeleton | Gram Sabha (ग्राम सभा) · 3-tier (skip middle if pop. **≤ 20 lakh**) · direct elections · age **21** · **5-year** term · SC/ST + women **≥ 1/3** · **SFC** · **SEC** | Same SEC/SFC logic · **DPC (243ZD)** · **MPC (243ZE)** for big urban (नगरीय) agglomerations |
+| Does **not** apply | **243M**: Nagaland, Meghalaya (मेघालय), Mizoram; Manipur hill councils; DGHC area; Schedule V unless PESA extends | Some hill/scheduled areas as the Part provides |
+| What it did **not** do | Nyaya (न्याय) Panchayats · force all 29 subjects · fix 50% women as the constitutional floor | Make every town a Municipal Corporation |
 
 2024: local governance Amds = **73rd and 74th** (not 86/87, not 42/43, not 63/64).
 
@@ -561,7 +561,7 @@ D. A-3, B-1, C-4, D-2
 - **21A** — free and compulsory education, **6–14** — a **FR** (State shall provide).
 - **45** recast: early childhood care and education **below 6**. Old 45 was education **till 14**.
 - **51A(k)** — parent / guardian **duty** to provide education **6–14** — the **11th** Fundamental Duty.
-- RTE Act **2009** is the **statute**. **21A** commenced **1 Apr 2010** — not on the 2002 assent day.
+- RTE Act **2009** is the **statute**. **21A** commenced (लागू) **1 Apr 2010** — not on the 2002 assent day.
 - **93rd, 2005** = **15(5)** — reservation in **private unaided** (except minority). **Not** RTE.
 - **103rd, 2019** = **EWS 10%**. 2022 trap: RTE ≠ 103rd.
 
@@ -588,7 +588,7 @@ D. A-3, B-1, C-4, D-2
 - **43B** — DPSP: State to promote voluntary, democratic, professional co-ops.
 - **Part IXB** — Arts. **243ZH–243ZT**: board size, elections, term, reservation, audit.
 
-*Union of India v. Rajendra N. Shah* (**Jul 2021**): Part IXB as applied to **State** co-ops touched **State List Entry 32** and needed **ratification** — Parliament had **not** taken that lane. **Struck for State societies.** Survives for **multi-State** co-ops (Union List). **19(1)(c) and 43B survived** (they are not federal-list provisions).
+*Union of India v. Rajendra N. Shah* (**Jul 2021**): Part IXB as applied to **State** co-ops touched **State List Entry 32** and needed **ratification** — Parliament had **not** taken that lane. **Struck for State societies.** Survives for **multi-State** co-ops (Union List (संघ सूची)). **19(1)(c) and 43B survived** (they are not federal-list provisions).
 
 ---
 
@@ -601,7 +601,7 @@ D. A-3, B-1, C-4, D-2
 - **279A** sets up the **GST Council** (जीएसटी परिषद), chaired by the Union FM, in which the Centre has **one-third** of the voting weight and all States together have **two-thirds** (ते-भागा); a decision needs **three-fourths** of the weighted votes, with a quorum of **half** the members.
 - **Article 366(12A)** defines GST for the Constitution.
 - The Amendment omitted **Article 268A**, the service-tax article inserted earlier by the 88th Amendment.
-- Alcohol for **human consumption** is kept outside GST; five petroleum goods are outside for now, though the Council may recommend bringing them in later.
+- Alcohol for **human consumption** is kept outside GST; five petroleum goods are outside for now, though the Council may recommend (सिफारिश) bringing them in later.
 - The 101st Amendment itself said Parliament **shall** provide for compensating States; the compensation statute fixed a **5-year** window from 2017, later extended through the compensation cess — that extension is current affairs, not the Amendment's text.
 
 2024 / 2021: GST Amd = **101st**, not 91 / 86 / 73 / 102 / 103 / 104.
@@ -615,9 +615,9 @@ D. A-3, B-1, C-4, D-2
 - **Article 338B** sets up the NCBC with a Chair, a Vice-Chair, and **three** members; the **President** appoints them, and **Parliament** may add to their duties.
 - **Article 342A** lets the **President** notify SEBCs for a State or UT, after consulting the Governor; **Parliament** may amend that **Central** list.
 - **Article 366(26C)** defines "socially and educationally backward classes."
-- The match to remember: SC pairs with **338 + 341**, ST pairs with **338A + 342**, and OBC pairs with **338B + 342A**.
+- The match to remember: SC pairs with **338 + 341**, ST pairs with **338A + 342**, and OBC (अन्य पिछड़ा वर्ग) pairs with **338B + 342A**.
 
-*Jaishri Laxmanrao Patil* (Maratha, **2021**) read 342A as **only the President** may identify SEBCs even for a State — that reading is why **105th** had to follow.
+*Jaishri Laxmanrao Patil* (Maratha (मराठा), **2021**) read 342A as **only the President** may identify SEBCs even for a State — that reading (रीडिंग) is why **105th** had to follow.
 
 ---
 
@@ -657,7 +657,7 @@ D. A-3, B-1, C-4, D-2
 
 ## 106th Amendment, 2023
 
-**Nari Shakti Vandan — women 33%.** Assent **28 Sep 2023**. Bill was the **128th** Amendment Bill — **106th** is the Act number.
+**Nari Shakti (शक्ति) Vandan — women 33%.** Assent **28 Sep 2023**. Bill was the **128th** Amendment Bill — **106th** is the Act number.
 
 - The reservation applies through **Article 330A** in the Lok Sabha, **Article 332A** in State Assemblies, and also in Delhi under **Article 239AA**.
 - It reserves **one-third** of **total** seats for women, **including** within the seats already reserved for SC/ST.
@@ -805,7 +805,7 @@ Special Officer for Linguistic Minorities: (1) one officer per State (2) 350B by
 <details>
 <summary>Show answer</summary>
 
-**Neither.** 350B officer = 7th Amd, not 9th.
+**Neither.** 350B officer (भाषाई अल्पसंख्यक अधिकारी) = 7th Amd, not 9th.
 
 </details>
 

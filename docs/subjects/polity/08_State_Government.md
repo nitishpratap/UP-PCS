@@ -4,7 +4,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Governor | Governor's Discretionary Powers | Absolute vs Situational Discretion | Reservation of Bills for the President (Arts. 200–201) | Ordinance by Governor (Art. 213) | State Executive | Chief Minister | State Council of Ministers | Advocate General | Legislative Assembly | Legislative Council | Creation & Abolition of Legislative Council | Unicameral vs Bicameral Legislature | Speaker of Legislative Assembly | Hung Assembly | Dismissal of Council of Ministers
+Governor | Governor's Discretionary Powers | Absolute (निरपेक्ष) vs Situational Discretion | Reservation of Bills for the President (Arts. 200–201) | Ordinance by Governor (Art. 213) | State Executive | Chief Minister | State Council of Ministers | Advocate General (महाधिवक्ता) | Legislative Assembly | Legislative Council | Creation & Abolition of Legislative Council | Unicameral vs Bicameral Legislature | Speaker of Legislative Assembly | Hung Assembly | Dismissal of Council of Ministers
 
 </details>
 
@@ -21,8 +21,8 @@ Governor | Governor's Discretionary Powers | Absolute vs Situational Discretion 
 **Live facts** for match / how-many / hung-house questions.
 
 - **Ongoing:** Six bicameral States: AP, Bihar, Karnataka, MH, Telangana, UP (match / how-many).
-- **2019:** J&K Legislative Council **abolished** with the State (Art. 169 / reorganisation trap). J&K UT with legislature + Ladakh UT without; both under **Lieutenant Governors** appointed by the President.
-- **First LGs:** J&K UT — **Girish Chandra Murmu**; Ladakh — **Radha Krishna Mathur** (31 Oct 2019).
+- **2019:** J&K Legislative Council **abolished** with the State (Art. 169 / reorganisation trap). J&K UT with legislature + Ladakh (लद्दाख) UT without; both under **Lieutenant Governors** appointed by the President.
+- **First LGs:** J&K UT — **Girish Chandra Murmu**; Ladakh — **Radha Krishna (कृष्णा) Mathur** (31 Oct 2019).
 - **Convention:** *Bommai* floor-test still the fact in every hung-house controversy (discretion vs majority).
 - **First woman Governor:** **Sarojini Naidu** (UP / United Provinces, 15 Aug 1947 – 2 Mar 1949); National Women’s Day **13 February** (her birth date).
 - **Rajasthan:** Rajpramukh abolished on States Reorganisation Commission recommendation via **7th Amendment** (from 1 Nov 1956); first Governor **Gurumukh Nihal Singh** appointed **25 Oct 1956** (not 1 Nov).
@@ -38,28 +38,28 @@ Governor | Governor's Discretionary Powers | Absolute vs Situational Discretion 
 4. Qualifications (**Article 157**): citizen and completed **35 years**. Oath (**Article 159**) is before the **Chief Justice of the High Court**.
 5. **Article 154** vests State executive power in the Governor. **Article 162** only states the **extent** of that power — do not call 162 the vesting article.
 6. **Article 163**: the Governor acts on CoM aid and advice **except** where the Constitution gives **discretion**. Dual role: constitutional head of the State and the Centre’s agent.
-7. Classic discretionary situations: choosing a CM in a hung House; dismissing a CoM that has lost the House; dissolving the Assembly; reserving a Bill under **Article 200**; recommending **Article 356** (अनुच्छेद 356); and certain **Article 371** special responsibilities.
+7. Classic discretionary situations: choosing a CM in a hung House (त्रिशंकु सदन); dismissing a CoM that has lost the House; dissolving the Assembly; reserving a Bill under **Article 200**; recommending **Article 356** (अनुच्छेद 356); and certain **Article 371** special responsibilities.
 8. ***Bommai*** fact: majority is tested on the **House floor**, not in Raj Bhavan by private claim alone.
 9. **Article 161** pardoning power of the Governor does **not** cover **death sentence** or **court-martial** — those stay with the President under **Article 72**.
 10. Under **Article 200** the Governor may assent, withhold assent, return a non-Money Bill, or **reserve** the Bill for the President. A Bill that cuts High Court powers **must** be reserved.
 11. Under **Article 201**, if a reserved Bill is returned and the State re-passes it, the **President is still not bound** to assent — unlike the Governor’s position after re-passage under Article 200.
-12. **Article 213** ordinances: House(s) not in session; same **six-week** reassembly rhythm as at the Centre. In listed cases the Governor needs the **President’s instructions** before promulgating.
+12. **Article 213** ordinances: House(s) not in session (पंगु सत्र); same **six-week** reassembly rhythm as at the Centre. In listed cases the Governor needs the **President’s instructions** before promulgating.
 13. The Chief Minister is appointed by the Governor (**Article 164**) and has a communication duty under **Article 167** (parallel to the PM’s Article 78).
 14. State Council of Ministers: collective responsibility to the **Legislative Assembly only**. Size under the **91st Amendment**: maximum **15% of the Assembly**, with a floor of **12** ministers including the CM.
 15. The **Advocate General** (महाधिवक्ता) (**Article 165**) needs High Court judge qualifications, holds office during the **pleasure of the Governor**, and may speak in both Houses but **cannot vote**.
-16. Legislative Assembly: maximum **500**, minimum **60**; term **five years**. **Uttar Pradesh** (उत्तर प्रदेश) Assembly strength is **403**. Quorum is **10 members or one-tenth**, whichever is greater.
-17. MLA disqualification under **Article 191** is decided by the **Governor on binding Election Commission advice** (**Article 192**), except the anti-defection track handled by the Speaker.
+16. Legislative Assembly: maximum **500**, minimum **60**; term **five years**. **Uttar Pradesh** (उत्तर प्रदेश) Assembly strength is **403**. Quorum (गणपूर्ति) is **10 members or one-tenth**, whichever is greater.
+17. MLA disqualification under **Article 191** is decided by the **Governor on binding Election Commission (निर्वाचन आयोग) advice** (**Article 192**), except the anti-defection track handled by the Speaker.
 18. Legislative Council under **Article 171**: maximum **one-third of the Assembly**, minimum **40**. Members’ term is **six years** with one-third retiring; the Council is **never dissolved**, but it **can be abolished**.
-19. Creation or abolition of a Council uses **Article 169**: the Assembly passes a resolution by **special majority**, then Parliament acts by **simple majority** — this is **not** an Article 368 amendment.
+19. Creation or abolition of a Council uses **Article 169**: the Assembly passes a resolution by **special majority**, then Parliament acts by **simple majority** — this is **not** an Article 368 (अनुच्छेद 368) amendment.
 20. Council composition mix to fact: about **1/3** local bodies, **1/12** graduates, **1/12** teachers, **1/3** MLAs, **1/6** nominated (including co-operatives in the teaching list).
-21. There is **no joint sitting** in a State legislature. Deadlocks follow **Article 197** — the **Assembly prevails**. A Bill that **originates in the Council** and is **rejected by the Assemblydies**.
+21. There is **no joint sitting (संयुक्त बैठक)** in a State legislature. Deadlocks follow **Article 197** — the **Assembly prevails**. A Bill that **originates in the Council** and is **rejected by the Assemblydies**.
 22. Bicameral States now: **Andhra Pradesh, Bihar, Karnataka, Maharashtra, Telangana, and Uttar Pradesh**. UP Council strength is **100**.
-23. A minister for **tribal welfare** is **compulsory** in **Chhattisgarh, Jharkhand, Madhya Pradesh and Odisha** (**Article 164**).
+23. A minister for **tribal (आदिवासी) welfare** is **compulsory** in **Chhattisgarh, Jharkhand, Madhya Pradesh and Odisha** (**Article 164**).
 24. **State PSC** members are **appointed by the Governor** but **removed by the President** (after Supreme Court enquiry) — classic appointment/removal swap trap.
 25. The Governor is a **constituent part of the State legislature** (**Article 168**), just as the President is of Parliament, even though he sits in neither House.
-26. The office is on the **Canada** model (appointed by the Centre), **not** the USA model of elected governors. The Constituent Assembly dropped an elected Governor.
+26. The office is on the **Canada** model (appointed by the Centre), **not** the USA model of elected governors. The Constituent Assembly (संविधान सभा) dropped an elected Governor.
 27. The CM need not be from the Assembly alone: a Council member can be CM, and a non-member may be CM for up to **six months** while getting elected.
-28. Sarkaria conventions (outsider, detached from active politics, consult CM) are political expectations, often broken; Punchhi’s fixed-tenure / impeachment-like removal idea was **not implemented**.
+28. Sarkaria (सरकारिया आयोग) conventions (outsider, detached from active politics, consult CM) are political expectations, often broken; Punchhi (पुंछी आयोग)’s fixed-tenure / impeachment-like removal idea was **not implemented**.
 
 ---
 
@@ -132,20 +132,20 @@ Governor | Governor's Discretionary Powers | Absolute vs Situational Discretion 
 
 - **153:** Office of Governor. **Proviso (7th Amendment, 1956):** the **same person** may be appointed Governor of **two or more States**.
 - **154:** Executive power of the State vested in the Governor.
-- **155:** Governor is **appointed** by the **President** by warrant under his hand and seal — **not elected**.
-- **156:** Term **5 years**; holds office **during the pleasure of the President**; may resign to the President. No impeachment procedure.
-- **157:** Citizen of India; completed **35 years**. Citizenship **by birth is not** required. Eligibility for Lok Sabha membership is **not** a qualification.
+- **155:** Governor is **appointed** by the **President** by warrant under his hand and seal (मुद्रा) — **not elected**.
+- **156:** Term **5 years**; holds office **during the pleasure of the President**; may resign to the President. No impeachment procedure (प्रक्रिया).
+- **157:** Citizen of India; completed **35 years**. Citizenship **by birth is not** required. Eligibility for Lok Sabha (लोकसभा) membership is **not** a qualification.
 - **158:** Shall **not** be a member of Parliament or a State legislature (seat vacated if appointed); no other office of profit; official residence; emoluments **charged on the State Consolidated Fund** under **Art. 202(3)(a)** (shared if he is Governor of two States).
 - **158(3A):** When the same person is Governor of two or more States, emoluments are allocated among those States in such proportion as the **President** may by order determine.
 - **159:** Oath before the **Chief Justice of the High Court** (in his absence, the senior-most HC judge). The Governor’s oath form is in **Art. 159**, **not** the Third Schedule.
 - **160:** President may make provision for the discharge of the Governor’s functions in any contingency.
 - **161:** Pardoning power — **no death sentence, no court-martial** (those are the President, Art. **72**).
-- **162:** **Extent** of the executive power of the State (co-extensive with the State List / Concurrent List, subject to the Union).
+- **162:** **Extent** of the executive power of the State (co-extensive with the State List (राज्य सूची) / Concurrent List (समवर्ती सूची), subject to the Union).
 
 **Why nominated, not elected (Constituent Assembly):**
 - An elected Governor would have meant **another statewide election** and higher political conflict with the Chief Minister.
 - An elected Governor might have felt **superior** to the CM.
-- The office had to fit a **parliamentary** system with Centre–State coordination; Ambedkar and Nehru favoured nomination over election.
+- The office had to fit a **parliamentary** system with Centre–State coordination; Ambedkar (अम्बेडकर) and Nehru (नेहरू) favoured nomination over election.
 
 **Conventions (Sarkaria) the Centre is supposed to follow (often broken):**
 - Governor should be an **eminent outsider** (not from the State).
@@ -166,13 +166,13 @@ Governor | Governor's Discretionary Powers | Absolute vs Situational Discretion 
 
 - **Executive:** All State executive action in his **name** (166). Appoints CM, other ministers, **Advocate General**, State Election Commissioner, Chairman & members of the **State PSC** (removed by the **President**, not the Governor — trap). Nominates members of the LC under **Art. 171** (theory **1/6**; actual numbers follow the **Representation of the People Act, 1950** — UP LC has **10** nominees out of **100**).
 - **Legislative:** Summons / prorogues the House(s); **dissolves the LA** (not the LC). Addresses the first session of the year / after each general election (**Art. 176**). Sends messages. Decides on Bills (**200**). Promulgates **ordinances (213)**. Anglo-Indian nomination to the LA under **Art. 333** ended after **25 January 2020** by the **104th Amendment**.
-- **Financial:** Money Bill / demand for grants only on his **recommendation**. Causes the State **Budget (Art. 202)** to be laid. Contingency Fund of the State at his disposal. Constitutes the **State Finance Commission** (Art. 243-I).
+- **Financial:** Money Bill / demand for grants only on his **recommendation**. Causes the State **Budget (Art. 202)** to be laid. Contingency Fund (आकस्मिकता निधि) of the State at his disposal. Constitutes the **State Finance Commission (वित्त आयोग)** (Art. 243-I).
 - **Judicial:** Pardon, reprieve, respite, remission, commutation under **161** for offences against **State law** — **not** death, **not** court-martial. Consults the HC on appointment of **district judges** (Art. 233 — detail in Judiciary). Does **not** appoint High Court judges (President does under **Art. 217**).
-- **Special (371…):** Discretionary “special responsibility”: e.g. **Maharashtra & Gujarat** (development boards), **Nagaland 371A** (law and order involving religious/social practices), **Arunachal 371H**, **Karnataka 371J**, **Andhra/Telangana 371D**.
+- **Special (371…):** Discretionary “special responsibility”: e.g. **Maharashtra & Gujarat** (development boards), **Nagaland 371A (अनु. 371A)** (law and order involving religious/social practices), **Arunachal 371H**, **Karnataka 371J**, **Andhra/Telangana 371D**.
 
 **Art. 164 extra fact:** States of **Chhattisgarh, Jharkhand, Madhya Pradesh and Odisha** *shall* have a minister in charge of **tribal welfare**.
 
-> **Logic:** Art. **155** = appointment, not removal. SPSC members are **appointed by the Governor** but **removed by the President** (after SC enquiry) — do not mix. NCT Delhi’s CM is appointed by the **President** (**Art. 239AA**), not by a State Governor pattern.
+> **Logic:** Art. **155** = appointment, not removal. SPSC members are **appointed by the Governor** but **removed by the President** (after SC enquiry) — do not mix. NCT Delhi’s CM is appointed by the **President** (**Art. 239AA**), not by a State Governor (राज्यपाल) pattern.
 
 **PYQ — UPPCS Prelims 2024, Q21**
 
@@ -240,13 +240,13 @@ D. Extension of Executive Power of State
 | Kind | Meaning | Typical cases |
 |------|---------|----------------|
 | **Constitutional / absolute discretion** | The Constitution **itself** requires the Governor to act on his own | Reserving a Bill for the President (**200**); recommending **President’s Rule (356)**; seeking information from the CM (**167**); special responsibility in **Art. 371** States (e.g. Nagaland, Arunachal, Maharashtra/Gujarat development boards, etc.) |
-| **Situational discretion** | The Constitution is silent; political reality forces a choice | **Hung Assembly** — whom to invite as CM; dismissing a CoM that has **lost the House** but will not resign; dissolving the LA when the CM has lost majority / advises dissolution after losing a floor test |
+| **Situational discretion** | The Constitution is silent; political reality forces a choice | **Hung Assembly** — whom to invite as CM; dismissing a CoM that has **lost the House** but will not resign; dissolving the LA when the CM has lost majority / advises dissolution (विघटन) after losing a floor test |
 
 **Constitutional (absolute) discretion — full list**
 1. Reserving a Bill for the President (**Art. 200**).
 2. Recommending **President’s Rule** (**Art. 356**).
 3. Seeking information from the CM (**Art. 167**).
-4. **Special responsibility** under **Arts. 371–371J** (and 6th Schedule, some governors).
+4. **Special responsibility** under **Arts. 371–371J** (and 6th Schedule (6वीं अनुसूची), some governors).
 5. Deciding, under **Art. 163(2)**, whether a matter *is* discretionary.
 
 **Situational discretion — full list**
@@ -279,7 +279,7 @@ D. Extension of Executive Power of State
 **If the CM resigns or dies, the whole CoM goes** (collective responsibility). The Governor may ask another leader to prove majority, or report under 356.
 
 **Invite-order (Sarkaria / Punchhi — sequence)**
-(1) **Pre-poll alliance** that has a majority → (2) **largest single party** claiming support → (3) **post-poll coalition** with a majority claim → (4) **floor test at the earliest** (usually within days, not weeks).
+(1) **Pre-poll alliance** that has a majority → (2) **largest single party** claiming support → (3) **post-poll coalition (गठबंधन)** with a majority claim → (4) **floor test at the earliest** (usually within days, not weeks).
 
 ---
 
@@ -297,7 +297,7 @@ When a Bill passed by the State legislature is presented, the Governor **may** (
 
 **Mandatory reservation (2nd proviso to Art. 200):** a Bill which in the Governor’s opinion would **so derogate from the powers of the High Court** as to endanger its constitutional position.
 
-Other Bills **often** reserved (practice, not the 2nd proviso): those against Directive Principles, of grave national importance, dealing with compulsory acquisition under Art. 31A, or those the President must assent to under the Constitution.
+Other Bills **often** reserved (practice, not the 2nd proviso): those against Directive Principles (राज्य के नीति निदेशक तत्व), of grave national importance, dealing with compulsory acquisition under Art. 31A, or those the President must assent to under the Constitution.
 
 **Art. 201 (President on a reserved Bill):** **No time limit** — the President’s **pocket veto on State Bills**; unlike the Governor, he is **never bound** if the House re-passes. The President **cannot** suo motu pick up a State Bill; it must be **reserved and sent by the Governor**.
 
@@ -318,7 +318,7 @@ Other Bills **often** reserved (practice, not the 2nd proviso): those against Di
 - **Force:** Same as an Act of the State legislature; can be retrospective; cannot do what the legislature cannot do.
 - **Life:** Must be laid; ceases **six weeks** from reassembly, or earlier if disapproved. Maximum theoretical life ≈ 6 months (session gap) + 6 weeks.
 - **President’s instructions *compulsory*** (3 provisos): (i) a Bill that would have needed the **President’s prior sanction**, (ii) a Bill the Governor would have **reserved**, (iii) an Act of the same kind that would have been **invalid without the President’s assent**.
-- **Cannot:** Amend the Constitution; encroach on the Union list; violate FRs.
+- **Cannot:** Amend the Constitution; encroach on the Union list (संघ सूची); violate FRs.
 
 > **Logic:** Compare **123 (President)** — no “instructions” from anyone. **213** is the only ordinance power that can require **another authority’s (President’s) instructions**. *D.C. Wadhwa* (re-promulgation = fraud) applies to States too.
 
@@ -382,7 +382,7 @@ D. 14
 
 ## State Legislature — unicameral vs bicameral (Arts. 168–169)
 
-**Art. 168:** a State legislature = the **Governor** + Legislative Assembly (**Vidhan Sabha**), and, in some States, a Legislative Council (**Vidhan Parishad** (विधान परिषद)). The Governor is a **part of** the legislature (assent, address, ordinance).
+**Art. 168:** a State legislature = the **Governor** + Legislative Assembly (**Vidhan Sabha** (विधानसभा)), and, in some States, a Legislative Council (**Vidhan Parishad** (विधान परिषद)). The Governor is a **part of** the legislature (assent, address, ordinance).
 
 | | Unicameral | Bicameral |
 |--|-----------|-----------|
@@ -391,13 +391,13 @@ D. 14
 | Deadlock on an ordinary Bill | — | **Art. 197** — LA **prevails**. **No joint sitting** in a State |
 
 **Art. 169 procedure**
-1. The **Legislative Assembly** passes a resolution by **special majority** (majority of **total membership** (सदन की कुल सदस्य संख्या का) + **2/3 of members present and voting**).
+1. The **Legislative Assembly** passes a resolution by **special majority** (majority of **total membership** (सदन की कुल सदस्य संख्या का) + **2/3 of members present and voting (गणपूर्ति)**).
 2. **Parliament** then **may** pass a law by **simple majority**. That law is **not** deemed an Art. **368** amendment (so no special majority, no State ratification).
 3. The Assembly resolution does **not** create a hard obligation on the Union Government to introduce a Bill, and it does **not** force the Governor to reserve the resolution for the President.
 4. Parliament’s law may contain **supplemental, incidental and consequential** provisions (representation, sitting members, etc.).
 
 **No joint sitting at State level (high-yield trap)**
-Unlike Parliament’s Art. **108**, a State has **no joint sitting**. If the LC rejects / amends / sits on an ordinary Bill that started in the LA: the LA may pass it again; after the LC has had **1 month** on the second round, the Bill is **deemed passed by both Houses** in the form adopted by the LA (**Art. 197**). A Bill that **originates in the LC** and is rejected by the LA **dies**.
+Unlike Parliament’s Art. **108**, a State has **no joint sitting**. If the LC rejects / amends / sits on an ordinary Bill that started in the LA: the LA may pass it again; after the LC has had **1 month** on the second round, the Bill is **deemed passed by both Houses** in the form adopted (अंगीकृत) by the LA (**Art. 197**). A Bill that **originates in the LC** and is rejected by the LA **dies**.
 
 **PYQ — UPPCS Prelims 2018, Q148**
 
@@ -419,7 +419,7 @@ D. Legislative Council
 
 **Andhra Pradesh, Bihar, Karnataka, Maharashtra, Telangana, Uttar Pradesh.**
 
-(J&K’s Council ended with the 2019 reorganisation. Tamil Nadu / Punjab / West Bengal / Andhra have abolished and, in AP’s case, later revived.)
+(J&K’s Council ended with the 2019 reorganisation. Tamil Nadu (नाडु) / Punjab / West Bengal / Andhra have abolished and, in AP’s case, later revived.)
 
 ---
 
@@ -427,19 +427,19 @@ D. Legislative Council
 
 **Vidhan Sabha:** directly elected; **max 500, min 60**; **5 years**; **can be dissolved**; UP = **403** (largest).
 
-- **Strength (Art. 170):Max 500, min 60** elected. Parliament may by law alter. Smaller Assemblies exist by special provision (Goa 40, Sikkim 32, Mizoram 40, Arunachal 60, Nagaland 60, Puducherry 30, etc.).
+- **Strength (Art. 170):Max 500, min 60** elected. Parliament may by law alter. Smaller Assemblies exist by special provision (Goa (गोवा) 40, Sikkim 32, Mizoram 40, Arunachal 60, Nagaland 60, Puducherry 30, etc.).
 - **UP:403** elected — **largest LA in India**.
 - **Election:** Direct; **FPTP**; territorial constituencies. SC/ST reservation (**Art. 332**). Anglo-Indian nomination (**333**) ended by the **104th**. Seat freeze till the census after **2026**.
-- **Term (Art. 172):5 years** from the first meeting; **can be dissolved** earlier by the Governor. National Emergency: extend **1 year at a time**, not beyond **6 months after** the Emergency ends.
+- **Term (Art. 172):5 years** from the first meeting; **can be dissolved** earlier by the Governor. National Emergency (राष्ट्रीय आपात): extend **1 year at a time**, not beyond **6 months after** the Emergency ends.
 - **Age:25 years**.
 - **Sessions (Art. 174):** Governor summons / prorogues / **dissolves LA**. Maximum gap **6 months**.
 - **Quorum (Art. 189):10 members or 1/10** of total membership, **whichever is greater**.
 - **Disqualification:** Art. **191** (same five heads as Art. 102, plus 10th Schedule). Decision: **Governor + binding EC opinion** (**Art. 192**) — *not* the Speaker, except defection.
 - **Vacation:** Dual membership; resignation to Speaker; **60 days’** absence (Art. 190).
-- **Privileges:Art. 194** (parallel to 105); 44th = as on 20 June 1979.
+- **Privileges:Art. 194** (parallel to 105); 44th (44वां संशोधन) = as on 20 June 1979.
 - **Language:Art. 210** — Hindi or official language of the State, or English.
 - **Money Bill (Arts. 198–199):** Introduced **only in the LA**, on the **Governor’s recommendation**. Speaker’s certificate **final**. LC: **14 days**, recommendatory only.
-- **Budget (Art. 202):** Annual Financial Statement of the State; Demands for Grants voted **only in the LA**. Charged on the **State CFI**: Governor’s emoluments, Speaker/Dy Speaker, Chairman/Dy Chairman of LC, HC judges, debt charges.
+- **Budget (Art. 202):** Annual Financial Statement (वार्षिक वित्तीय विवरण) of the State; Demands for Grants voted **only in the LA**. Charged on the **State CFI**: Governor’s emoluments, Speaker/Dy Speaker, Chairman/Dy Chairman of LC, HC judges, debt charges.
 
 **Other large Assemblies (match-list):** West Bengal **294**, Maharashtra **288**, Bihar **243**, Tamil Nadu **234**, Madhya Pradesh **230**, Karnataka **224**, Rajasthan **200**.
 
@@ -527,7 +527,7 @@ D. Neither 1 nor 2
 
 ## UP Focus (State Government)
 
-**Bicameral State:** LA **403** + LC **100**; Raj Bhavan Lucknow; High Court principal seat **Prayagraj** (प्रयागराज).
+**Bicameral State:** LA **403** + LC **100**; Raj Bhavan Lucknow (लखनऊ); High Court principal seat **Prayagraj** (प्रयागराज).
 
 - **UP Legislative Assembly:403** elected seats (largest LA in India).
 - **UP Legislative Council:100** (bicameral).

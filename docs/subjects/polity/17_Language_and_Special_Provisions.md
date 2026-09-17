@@ -4,7 +4,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Official Language | Arts. 343–351 | 8th Schedule | Classical languages | Linguistic minorities | 350A–350B | Official Language Commission | Official Languages Act | Special Officer for Linguistic Minorities | Part XXI | 371–371J | 370 & 35A | J&K | Scheduled Areas | Tribal Areas | Fifth Schedule | Sixth Schedule
+Official Language | Arts. 343–351 | 8th Schedule (अष्टम अनुसूची) | Classical languages | Linguistic minorities | 350A (अनु. 350A)–350B (अनु. 350B) | Official Language Commission | Official Languages Act | Special Officer for Linguistic Minorities | Part XXI | 371–371J | 370 & 35A (अनु. 35A) | J&K | Scheduled Areas | Tribal (आदिवासी) Areas | Fifth Schedule (5वीं अनुसूची) | Sixth Schedule (6वीं अनुसूची)
 
 </details>
 
@@ -19,7 +19,7 @@ Official Language | Arts. 343–351 | 8th Schedule | Classical languages | Lingu
 ## Current Affairs
 
 - **2025** — Bhojpuri **not** in 8th; Nepali/Dogri/Bodo **are**.
-- **2024** — 350B ≠ per State; ≠ 9th Amd; classical = **11** (3 Oct Cabinet); J&K Assembly polls; Ladakh 6th-Schedule demand pending.
+- **2024** — 350B ≠ per State; ≠ 9th Amd; classical = **11** (3 Oct Cabinet); J&K Assembly polls; Ladakh (लद्दाख) 6th-Schedule demand pending.
 - **2023** — English initially **15 years**; OL = Part **XVII**; SC upholds 370 orders; Part X = Scheduled/Tribal Areas.
 - **2011** — 96th: Oriya → **Odia**.
 - **1987** — **58th / 394A** Hindi authoritative text.
@@ -33,32 +33,32 @@ Official Language | Arts. 343–351 | 8th Schedule | Classical languages | Lingu
 
 ## Consolidated — 28 Must-Score Facts
 
-1. Part **XVII** (Arts. **343–351**) deals with official language. The Constitution **never** names a **national language**.
-2. The Union official language is **Hindi in Devanagari**. The international form of Indian numerals is used for official purposes of the Union.
+1. Part **XVII** (Arts. **343–351**) deals with official language. The Constitution **never** names a **national language** (राष्ट्रभाषा).
+2. The Union official language (संघ राजभाषा) is **Hindi in Devanagari**. The international form of Indian numerals is used for official purposes of the Union.
 3. The Constitution gave English **fifteen years** from 26 January 1950. The Official Languages Act **1963** (amended **1967**) keeps English in use **with** Hindi without a sunset.
-4. Article **344** creates an Official Language Commission at **five years** and again at **ten years** from 1950. It is **not** a standing body. A parliamentary committee of **30** MPs (**20** Lok Sabha + **10** Rajya Sabha) examines its report.
-5. The **1976** Committee of Parliament on Official Language is a **statutory** standing body chaired by the **Home Minister**. It is **not** the Article 344 Commission.
-6. A State may adopt one or more languages, or Hindi, as its official language under Article **345**. Under Article **347**, the **President** may direct that a language spoken by a section of the population be officially recognised in that State.
+4. Article **344** creates an Official Language Commission at **five years** and again at **ten years** from 1950. It is **not** a standing body. A parliamentary committee of **30** MPs (**20** Lok Sabha (लोकसभा) + **10** Rajya Sabha (राज्यसभा)) examines its report.
+5. The **1976** Committee of Parliament on Official Language is a **statutory** standing body chaired by the **Home Minister**. It is **not** the Article 344 Commission (अनु. 344 आयोग).
+6. A State may adopt one or more languages, or Hindi, as its official language under Article **345**. Under Article **347**, the **President** may direct that a language spoken by a section of the population (जनसंख्या) be officially recognised in that State.
 7. Until Parliament otherwise provides, the authoritative texts of Acts and proceedings in the Supreme Court and High Courts are in **English** (Article **348**).
-8. Article **351** places a Union duty to promote Hindi as a medium of expression for India’s composite culture, drawing vocabulary from Eighth Schedule languages.
+8. Article **351** places a Union duty to promote Hindi as a medium of expression for India’s composite culture, drawing vocabulary from Eighth Schedule (आठवीं अनुसूची) languages.
 9. Article **350** lets any person submit a grievance representation in any language used in the Union or the State. Article **350A** (Seventh Amendment) requires States to provide mother-tongue instruction at the **primary** stage.
 10. Article **350B** creates **one** Special Officer for Linguistic Minorities for the whole of India. It was inserted by the **Seventh** Amendment, **not** the Ninth. It is **not** a per-State office.
-11. The Eighth Schedule began with **14** languages. **Sindhi** made it **15** (21st Amendment, 1967). **Konkani, Manipuri, and Nepali** made it **18** (71st, 1992). **Bodo, Dogri, Maithili, and Santhali** made it **22** (92nd, 2003). The 96th Amendment (2011) renamed **Oriya** as **Odia**.
-12. **Bhojpuri, English, Rajasthani, Tulu, and Khasi** are **not** in the Eighth Schedule. Being in the Eighth Schedule does **not** make a language the Union official language.
-13. Classical language is an **executive** tag, not a constitutional list. **Tamil** was the first (2004). After the 3 October 2024 notifications there are **eleven** classical languages.
-14. In Uttar Pradesh, **Hindi** is the official language and **Urdu** is the second official language (from **1989**). Under the Official Language Rules **1976**, Uttar Pradesh falls in **Region A**.
+11. The Eighth Schedule began with **14** languages. **Sindhi** made it **15** (21st Amendment, 1967). **Konkani, Manipuri (मणिपुरी), and Nepali** made it **18** (71st, 1992). **Bodo, Dogri, Maithili, and Santhali** made it **22** (92nd, 2003). The 96th Amendment (2011) renamed **Oriya** as **Odia**.
+12. **Bhojpuri, English, Rajasthani, Tulu, and Khasi (खासी)** are **not** in the Eighth Schedule. Being in the Eighth Schedule does **not** make a language the Union official language.
+13. Classical language (शास्त्रीय भाषा) is an **executive** tag, not a constitutional list. **Tamil** was the first (2004). After the 3 October 2024 notifications there are **eleven** classical languages.
+14. In Uttar Pradesh (उत्तर प्रदेश), **Hindi** is the official language and **Urdu** is the second official language (from **1989**). Under the Official Language Rules **1976**, Uttar Pradesh falls in **Region A**.
 15. Hindi Diwas is observed on **14 September** (Munshi–Ayyangar formula, 1949). The **58th** Amendment / Article **394A** provides for an authoritative **Hindi** text of the Constitution.
 16. Parliament may provide for continued English under Articles **343(3), 120, and 348** by **ordinary** law (simple majority). Changing the **text** of Article 343 itself needs Article **368** special majority and is **not** on the federal-consent list.
-17. Part **X** maps Scheduled and Tribal Areas: Article **244(1)** → Fifth Schedule; Article **244(2)** → Sixth Schedule (Assam, Meghalaya, Tripura, Mizoram).
+17. Part **X** maps Scheduled and Tribal Areas: Article **244(1)** → Fifth Schedule; Article **244(2)** → Sixth Schedule (Assam, Meghalaya (मेघालय), Tripura, Mizoram).
 18. Uttar Pradesh has Scheduled Tribes but **no** Fifth Schedule area, so **PESA does not apply** in UP.
-19. The Fifth Schedule covers **ten** States. A Tribes Advisory Council has up to **20** members with **three-fourths** Scheduled Tribe MLAs. **PESA 1996** applies only to Fifth Schedule areas.
+19. The Fifth Schedule covers **ten** States. A Tribes Advisory Council has up to **20** members with **three-fourths** Scheduled Tribe (अनुसूचित जनजाति) MLAs. **PESA 1996** (पेसा) applies only to Fifth Schedule areas.
 20. The Sixth Schedule creates Autonomous District Councils. It does **not** cover **Nagaland, Sikkim, Arunachal Pradesh, Manipur, or Ladakh**. Tripura **is** a Sixth Schedule State; Nagaland is **not**.
-21. Article **371A** protects Nagaland’s land and customary law. Article **371I** requires Goa’s Assembly to have at least **thirty** seats. Article **371J** covers the **Kalyana-Karnataka** (Hyderabad-Karnataka) region with a development board and local preference.
+21. Article **371A** (अनु. 371A) protects Nagaland’s land and customary law. Article **371I** (अनु. 371I) requires Goa (गोवा)’s Assembly to have at least **thirty** seats. Article **371J** covers the **Kalyana-Karnataka** (Hyderabad-Karnataka) region with a development board and local preference.
 22. Article **370** was made inoperative from **6 August 2019**. Article **35A** was a **1954** Presidential Order on permanent residents; it was **not** a constitutional amendment.
 23. From **31 October 2019**, Jammu & Kashmir and Ladakh became separate Union Territories. Jammu & Kashmir later held Assembly elections in **2024**.
 24. The Inner Line Permit system is a **neighbour** control regime for selected north-eastern areas; it is **not** itself a Fifth or Sixth Schedule clause.
 25. Fifth Schedule = Tribes Advisory Council + PESA path. Sixth Schedule = Autonomous District Councils for AMTM States. Do not swap the tools.
-26. Linguistic minorities are protected through Articles **350–350B**. The National Commission for Minorities (1992) is a **statutory** body for **religious** minorities — not a substitute for the 350B officer.
+26. Linguistic minorities are protected through Articles **350–350B**. The National Commission for Minorities (1992) is a **statutory** body for **religious** minorities — not a substitute for the 350B officer (भाषाई अल्पसंख्यक अधिकारी).
 27. Classical languages may overlap with Eighth Schedule names, but the tags are **not** one-to-one: classical status does not add a language to the Eighth Schedule, and Eighth Schedule listing does not create classical status.
 28. Special provisions for States sit mainly in Part **XXI** (Arts. **371–371J**). Memorise the letter facts (**371A** Nagaland, **371I** Goa seats, **371J** Kalyana-Karnataka) rather than treating “371” as one generic article.
 
@@ -111,7 +111,7 @@ Official Language | Arts. 343–351 | 8th Schedule | Classical languages | Lingu
 
 ## Frame
 
-Part **XVII** (how the Union and States talk) + Parts **X** and **XXI** (Scheduled Areas / 371-series). 350B officer = **7th Amd**. 5th Sch vs 6th (AMTM). **370** inoperative **5 Aug 2019** (J&K + Ladakh UTs). PESA = Fifth-Schedule Gram Sabha; **UP has no PESA**.
+Part **XVII** (how the Union and States talk) + Parts **X** and **XXI** (Scheduled Areas / 371-series). 350B officer = **7th Amd**. 5th Sch vs 6th (AMTM). **370** inoperative **5 Aug 2019** (J&K + Ladakh UTs). PESA = Fifth-Schedule Gram Sabha (ग्राम सभा); **UP has no PESA**.
 
 ---
 
@@ -133,14 +133,14 @@ Part **XVII** (how the Union and States talk) + Parts **X** and **XXI** (Schedul
 - **350** — any person may submit a **representation for redress** to any Union or State authority in **any language used in the Union or the State**.
 - **350A** — **7th Amd (1956)**. States / local authorities to endeavour **mother-tongue** instruction at the **primary** stage for linguistic-minority children. President **may direct**.
 - **350B** — **7th Amd**. **One** Special Officer **for India** (not per State) — card below.
-- **351** — Union’s **duty** to **promote Hindi**, so it becomes a medium of expression for India’s **composite culture**; draw from Hindustani and the **8th Schedule** (without interfering with other languages).
+- **351** — Union’s **duty** to **promote Hindi**, so it becomes a medium of expression for India’s **composite culture**; draw from Hindustani (हिंदुस्तानी) and the **8th Schedule** (without interfering with other languages).
 
-**Constituent Assembly fact:Munshi–Ayyangar formula** (Sept **1949**) — Hindi in Devanagari as Union OL + English for **15 years**. Adopted **14 September 1949** → **Hindi Diwas** every year. World Hindi Day = **10 January** (not the same).
+**Constituent Assembly (संविधान सभा) fact:Munshi–Ayyangar formula** (Sept **1949**) — Hindi in Devanagari as Union OL + English for **15 years**. Adopted (अंगीकृत) **14 September 1949** → **Hindi Diwas** every year. World Hindi Day = **10 January** (not the same).
 
 **How Parliament touches language (2018 trap — two lanes):**
 
 - **Ordinary law** — **343(3)** continue English · **120** language of Parliament · **210** State legislature · **348** language of SC/HC/Acts. **Simple** majority — **not** a 368 Bill. This is the usual UPPCS key.
-- **Constitution Amd** — changing the **text of 343/344/351**. **368 special** (total membership + 2/3 P&V). **Not** on the State-ratification list.
+- **Constitution Amd** — changing the **text of 343/344/351**. **368 special** (total membership (सदन की कुल सदस्य संख्या का) + 2/3 P&V). **Not** on the State-ratification list.
 
 **Neighbour — Hindi text of the Constitution:58th Amd (1987)** inserted **394A**. President authenticates a Hindi translation; that Hindi text is **authoritative**. Original authentic text remains the **English** Constitution. Not a “national language” Amd.
 
@@ -178,7 +178,7 @@ D. Official Language — Part XVII
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.** Tribunals = **Part XIVA**. Official Language = **XVII** is the **correct** pair.
+**Ans: C.** Tribunals = **Part XIVA** (भाग XIVA). Official Language = **XVII** is the **correct** pair.
 
 </details>
 
@@ -210,9 +210,9 @@ D. Official Language — Part XVII
 - **s.4 Committee (1976)** — **Committee of Parliament on Official Language**: **30** (20 LS + 10 RS), chaired by the **Union Home Minister**. Standing. **≠** the 344 Commission.
 - OL Rules **1976** classify States/UTs into **Regions A, B, C** for Hindi correspondence.
 - **Department of Official Language**, **MHA**, created **June 1975**.
-- Apex political body: **Kendriya Hindi Samiti** — chaired by the **PM**.
+- Apex political body: **Kendriya Hindi Samiti (समिति)** — chaired by the **PM**.
 
-- **Region A** — UP, Bihar, MP, Rajasthan, Haryana, HP, Uttarakhand, Chhattisgarh, Jharkhand, Delhi, A&N. A→A **in Hindi**.
+- **Region A** — UP, Bihar, MP, Rajasthan, Haryana, HP, Uttarakhand (उत्तराखंड), Chhattisgarh, Jharkhand, Delhi, A&N. A→A **in Hindi**.
 - **Region B** — Gujarat, Maharashtra, Punjab, Chandigarh, DNH & DD, **Goa**. Hindi **or** English; Hindi replies expected.
 - **Region C** — all other States/UTs (South, East, NE). English; Hindi optional.
 
@@ -226,14 +226,14 @@ D. Official Language — Part XVII
 
 **Original 14 (1950):** Assamese · Bengali · Gujarati · Hindi · Kannada · Kashmiri · Malayalam · Marathi · Oriya · Punjabi · Sanskrit · Tamil · Telugu · Urdu.
 
-**What the 8th Schedule actually does:** languages that **344** Commission members represent · languages **351** may draw on to enrich Hindi · UPSC / education optionals. **What it does not do:** make a language the Union OL · make it classical · make it a State OL (that is **345**).
+**What the 8th Schedule actually does:** languages that **344** Commission members represent · languages **351** may draw on to enrich Hindi · UPSC (संघ लोक सेवा आयोग) / education optionals. **What it does not do:** make a language the Union OL · make it classical · make it a State OL (that is **345**).
 
-**92nd four — extra facts:**
+**92nd four (चातुर्याम) — extra facts:**
 
 - **Bodo** — in 8th. **Not** classical. Assam.
 - **Dogri** — in 8th. J&K / HP. **Not** Bhojpuri.
 - **Maithili** — in 8th (Bihar/UP belt). **Bhojpuri is not**.
-- **Santhali** — in 8th. Script **Ol Chiki**. **Not** classical.
+- **Santhali** — in 8th. Script (लिपि) **Ol Chiki**. **Not** classical.
 
 **Amendment ladder (14 → 22):**
 
@@ -242,9 +242,9 @@ D. Official Language — Part XVII
 - **92nd, 2003** — **Bodo, Dogri, Maithili, Santhali** → **22**.
 - **96th, 2011** — **Oriya → Odia** (rename, **not** a 23rd language) → still 22.
 
-**Still 22.** English is a **Union associate** language by **statute**, **not** an 8th Schedule language.
+**Still 22.** English is a **Union associate** language by **statute**, **not** an 8th Schedule language (8वीं अनुसूची भाषा).
 
-**NOT in the 8th Schedule (favourite wrong options):Bhojpuri** · Rajasthani · English · Tulu · Khasi · Garo · **Pali** · **Prakrit**.
+**NOT in the 8th Schedule (favourite wrong options):Bhojpuri** · Rajasthani · English · Tulu · Khasi · Garo (गारो) · **Pali** (पाली) · **Prakrit** (प्राकृत).
 
 **PYQ — UPPCS Prelims 2025, Q102**
 
@@ -277,7 +277,7 @@ Match List-I with List-II and select the correct answer using the code given bel
 |------|----------|
 | A | Seventh Schedule |
 | B | Eighth Schedule |
-| C | Ninth Schedule |
+| C | Ninth Schedule (नौवीं अनुसूची) |
 | D | Tenth Schedule |
 
 **List-II (Subject)**
@@ -359,7 +359,7 @@ D. A-1, B-2, C-3, D-4
 
 ## Classical languages (executive, not constitutional)
 
-**Not** an article. **Not** the 8th Schedule. Cabinet / Ministry of Culture notification after a Linguistics Experts Committee (now under **Sahitya Akademi** (साहित्य अकादेमी)).
+**Not** an article. **Not** the 8th Schedule. Cabinet / Ministry of Culture notification after a Linguistics Experts Committee (now under **Sahitya (साहित्य) Akademi** (साहित्य अकादेमी)).
 
 - **2004** — **Tamil** (first).
 - **2005** — **Sanskrit**.
@@ -374,7 +374,7 @@ D. A-1, B-2, C-3, D-4
 - Hindi is **not** classical (as of 2024). Hindi is Union **OL** + 8th Schedule.
 - Criteria do **not** sit in the Constitution. 2004 criteria (high antiquity **1500–2000 years**, ancient literature, original tradition, discontinuity) were **revised Jul 2024** by the LEC — knowledge-prose texts added; discontinuity **not** mandatory.
 - What the tag buys: centres of excellence, professional chairs, international awards — **not** a new FR and **not** 8th Schedule entry.
-- Nodal: **Sahitya Akademi** hosts the Linguistics Experts Committee (2024). **CIIL Mysore** = Indian languages institute (not itself the notifying authority).
+- Nodal: **Sahitya Akademi** hosts the Linguistics Experts Committee (2024). **CIIL Mysore (मैसूर)** = Indian languages institute (not itself the notifying authority).
 - Institutes (match): Classical **Tamil** — Chennai. **Telugu** — Nellore. **Kannada** — Central Institute at Mysuru belt. **Malayalam** — Tirur. **Odia** — Bhubaneswar. **Sanskrit** — Central Sanskrit University.
 
 **2004 criteria (still asked):** (i) high antiquity of early texts **1500–2000 years** (ii) ancient literature as heritage (iii) original literary tradition (iv) distinct from the modern form. **Jul 2024 LEC** added knowledge/prose texts and said discontinuity is **not** mandatory — that is how **Pali / Prakrit / Marathi / Assamese / Bengali** cleared.
@@ -385,14 +385,14 @@ D. A-1, B-2, C-3, D-4
 
 ## Linguistic minorities & Art. 350B
 
-**Linguistic minority** = a group whose language is **not** the official language of the **State** they live in (so Hindi-speakers can be a minority **outside** Region A). **Not** the same as NCM’s **religious** six (Muslims, Christians, Sikhs, Buddhists, Parsis, Jains).
+**Linguistic minority** = a group whose language is **not** the official language of the **State** they live in (so Hindi-speakers can be a minority **outside** Region A). **Not** the same as NCM (असहयोग)’s **religious** six (Muslims, Christians, Sikhs, Buddhists, Parsis, Jains).
 
 - **29** — any section with a distinct language / script / culture may **conserve** it (a Fundamental Right). Language rights start here.
 - **350** — grievance representation in **any** language used in the Union or that State.
 - **350A** — mother-tongue at **primary** stage; President may **direct** a State.
 - **350B** — **one** Special Officer **for the whole of India**, appointed by the **President**. Investigate constitutional **safeguards**; report to the President → **Parliament** and the concerned **States**.
 
-Operational title: **Commissioner for Linguistic Minorities** (first **1957**). Original HQ **Allahabad (Prayagraj)** — UP fact. Regional offices (classic Laxmikanth): **Belgaum, Chennai, Kolkata**. Now under **Minority Affairs** administratively. Don’t freeze a pin-code as if it were in Art. 350B.
+Operational title: **Commissioner for Linguistic Minorities** (first **1957**). Original HQ **Allahabad (Prayagraj (प्रयागराज))** — UP fact. Regional offices (classic Laxmikanth): **Belgaum, Chennai, Kolkata**. Now under **Minority Affairs** administratively. Don’t freeze a pin-code as if it were in Art. 350B.
 
 **29 / 30:** Constitution **never defines** “minority”. It **uses** linguistic and religious minorities (**2019 A/R** — both true; R does not define A). **350A/350B** are the **linguistic** machinery; NCM is **religious**.
 
@@ -448,7 +448,7 @@ D. Both 1 and 2
 
 ---
 
-## Article 370 & 35A — J&K
+## Article 370 (अनुच्छेद 370) & 35A — J&K
 
 **Temporary J&K article (now inoperative).** Instrument of Accession **26 Oct 1947**. Delhi Agreement **1952**. J&K’s own Constitution **26 Jan 1957**. Separate flag / constitution / “permanent resident” — **all gone** after 2019.
 
@@ -470,13 +470,13 @@ D. Both 1 and 2
 **Which article ↔ which State** is the fact. Governor’s special responsibility is in the 371-series text itself.
 
 - **371 — Maharashtra & Gujarat.** Governor: development boards for **Vidarbha, Marathwada**, rest of MH; **Saurashtra, Kutch**, rest of GJ; equitable funds.
-- **371A — Nagaland** (**13th**, 1962). Parliament **cannot** touch Naga religion/social practice, customary law, customary justice, **land & resources** unless the **Assembly** so decides. Governor: **law and order**.
-- **371B — Assam** (**22nd**, 1969). Committee of MLAs from the **tribal (6th Schedule) areas**.
+- **371A — Nagaland** (**13th**, 1962). Parliament **cannot** touch Naga (नागा) religion/social practice, customary law, customary justice, **land & resources** unless the **Assembly** so decides. Governor: **law and order**.
+- **371B — Assam** (**22nd**, 1969). Committee of MLAs from the **tribal (6th Schedule (6वीं अनुसूची)) areas**.
 - **371C — Manipur** (**27th**, 1971). Hill Areas committee of MLAs; Governor reports to President.
-- **371D — Andhra Pradesh & Telangana** (**32nd**, 1973; Telangana added 2014). Equitable **education + public employment**; local cadres. (AP Admin Tribunal history.)
+- **371D — Andhra Pradesh & Telangana** (**32nd**, 1973; Telangana added 2014). Equitable **education + public employment**; local cadres. (AP Admin Tribunal history (इतिहास).)
 - **371E — Andhra Pradesh.** Parliament **may** establish a **Central University** in AP.
 - **371F — Sikkim** (**36th**, 1975). Statehood package; Assembly; one LS seat; old laws continue; Governor: peace + sections of people.
-- **371G — Mizoram** (**53rd**, 1986). **371A-clone** for Mizo religion/social/customary/**land**. Assembly **≥ 40**.
+- **371G — Mizoram** (**53rd**, 1986). **371A-clone** for Mizo (मिज़ो) religion/social/customary/**land**. Assembly **≥ 40**.
 - **371H — Arunachal Pradesh** (**55th**, 1986). Governor: **law and order** (discretion, after consulting CM). Assembly **≥ 30**.
 - **371I — Goa** (**56th**, 1987). Assembly **≥ 30**. **Nothing else** — no land/custom clause.
 - **371J — Karnataka** (**98th**, 2012). **Hyderabad-Karnataka / Kalyana-Karnataka** (Bidar, Kalaburagi, Yadgir, Raichur, Koppal, Ballari): development board, equitable funds, **local reservation** in education & State posts.
@@ -486,7 +486,7 @@ D. Both 1 and 2
 Which region of the country conferred special status under Article 371-J of the Constitution of India?
 
 A. Nagaland
-B. Hyderabad and Karnataka
+B. Hyderabad (हैदराबाद) and Karnataka
 C. Maharashtra and Gujarat
 D. Ladakh
 
@@ -508,7 +508,7 @@ D. Ladakh
 - **244(1)** — **Fifth Schedule**: Scheduled Areas + STs in States **other than** the 6th Schedule areas.
 - **244(2)** — **Sixth Schedule**: tribal areas of **Assam, Meghalaya, Tripura, Mizoram (AMTM)**.
 - **244A** — **22nd Amd (1969)**: Parliament may create an **autonomous State** inside Assam. **Never used** as a living State (Meghalaya became a full State instead).
-- **339** — Union direction on SA administration + ST welfare; **339(1)** = ad hoc commission (≠ NCST **338A**).
+- **339** — Union direction on SA administration + ST welfare; **339(1)** = ad hoc commission (≠ NCST (राष्ट्रीय अनुसूचित जनजाति आयोग) **338A**).
 - **275(1)** proviso — grants-in-aid for promoting welfare of STs / improving SA administration.
 - **342** — ST **list**: President (after consulting Governor). **Having STs ≠ having a Scheduled Area**.
 
@@ -522,7 +522,7 @@ D. Ladakh
 
 - Who notifies SA: **President** (may increase / decrease / alter / make new — after consulting the Governor).
 - **10 States:** AP · Telangana · Chhattisgarh · Gujarat · HP · Jharkhand · MP · Maharashtra · Odisha · Rajasthan.
-- **Not:** UP · Bihar · WB · Karnataka · Tamil Nadu · Kerala · any **AMTM** State as a 5th-Schedule package.
+- **Not:** UP · Bihar · WB · Karnataka · Tamil Nadu (नाडु) · Kerala · any **AMTM** State as a 5th-Schedule package.
 - **Tribes Advisory Council:** ≤ **20** members; **¾** ST MLAs. States with STs but **no** SA may still get a TAC if the President so directs.
 - Governor: special responsibility; **annual report** to the President. May make **regulations** for peace and good government: bar land transfer, regulate money-lending, **disapply or modify** a Parliamentary / State law in the SA.
 - **PESA 1996** extends Part **IX** to **Fifth Schedule** areas (Bhuria). Year cue **1996** (2022). **Does not** touch the Sixth Schedule.
@@ -541,11 +541,11 @@ PESA = **Fifth Schedule + 1996**, not 1993/1995/Sixth. Gram Sabha pre-eminent in
 - ADC strength: not more than **30** (4 nominated by Governor; rest elected); **5-year** term. **BTC** (Bodoland) is a later, **larger** special council.
 - Law-making: land · forests **other than reserved** · jhum · village admin · inheritance · marriage · social customs · money-lending. Can run village courts; levy some taxes.
 - Governor can create / redefine / dissolve districts; direct that a Parliament/State Act **not apply** or apply with exceptions.
-- Assam ADCs: **Bodoland (BTC/BTR)** · **Karbi Anglong** · **Dima Hasao** (N. Cachar).
-- Meghalaya: Khasi · Jaintia · Garo (almost the whole State).
+- Assam ADCs: **Bodoland (BTC/BTR)** · **Karbi Anglong** · **Dima (डिम) Hasao** (N. Cachar).
+- Meghalaya: Khasi · Jaintia (जयंतिया) · Garo (almost the whole State).
 - Tripura: TTAADC.
 - Mizoram: **Chakma · Lai · Mara**.
-- PESA / 73rd: Part IX does **not** auto-apply (**243M**). **PESA ≠ Sixth Schedule**.
+- PESA / 73rd: Part IX (भाग IX) does **not** auto-apply (**243M**). **PESA ≠ Sixth Schedule**.
 
 **PYQ — UPPCS Prelims 2019, Q31**
 
@@ -867,7 +867,7 @@ D. support of 1/3 of its members
 <details>
 <summary>Show answer</summary>
 
-**Logic:** The booklet records a Hindi–English wording conflict. The English stem points to ordinary legislation under Article 343(3), while the Hindi stem can be read as changing the constitutional text through Article 368.
+**Logic:** The booklet records a Hindi–English wording conflict. The English stem points to ordinary legislation under Article 343(3), while the Hindi stem can be read as changing the constitutional text through Article 368 (अनुच्छेद 368).
 
 **Ans: A for the English stem; B for the Hindi variant.** The English paper treats **343(3) / 120 / 348** ordinary legislation as the “official-language provision,” requiring a simple majority. A rewrite of Articles 343 or 344 requires the Article 368 special majority but no State ratification.
 

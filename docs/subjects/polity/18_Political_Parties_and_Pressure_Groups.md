@@ -4,7 +4,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-National Parties | Regional Parties | Recognition of Political Parties | Symbols | Multi-Party System | Coalition Government | Hung Parliament | Pressure Groups | Interest Groups | Trade Unions
+National Parties | Regional Parties | Recognition (मान्यता) of Political Parties | Symbols | Multi-Party System | Coalition (गठबंधन) Government | Hung Parliament | Pressure Groups | Interest Groups | Trade (पण्याध्यक्ष) Unions
 
 </details>
 
@@ -19,7 +19,7 @@ National Parties | Regional Parties | Recognition of Political Parties | Symbols
 ## Current Affairs
 
 - **2022** — TDP 1982 → BSP 1984 → SP 1992 → TMC 1998; union–party match.
-- **2023** — CPI **loses** national status; AAP **gains**.
+- **2023** — CPI (सीपीआई) **loses** national status; AAP **gains**.
 - **2024** — 6 national parties; BJP 240 → NDA coalition; electoral bonds **struck** (*ADR* Feb 2024 — anonymous party funding gone).
 - **2019** — NPP first NE national party.
 
@@ -29,29 +29,29 @@ National Parties | Regional Parties | Recognition of Political Parties | Symbols
 ## Consolidated — 26 Must-Score Facts
 
 1. The Constitution barely names parties. The main hooks are Article **19(1)(c)** (association), the **Tenth Schedule** (defection), and Article **324** (elections). Parties were largely **extra-constitutional** until the **52nd** Amendment.
-2. Registration of a political party is under **section 29A** of the Representation of the People Act, 1951 (Registered Unrecognised Political Party). **Recognition** as a National or State party is under the Election Symbols Order **1968**. Do not merge the two steps.
-3. A party becomes a **National** party by any one route: **6%** votes in **four** (चातुर्याम) States plus **four** Lok Sabha seats; or **2%** of Lok Sabha seats from at least **three** States; or State-party status in **four** States.
+2. Registration of a political party (राजनीतिक दल) is under **section 29A** of the Representation of the People Act, 1951 (Registered Unrecognised Political Party). **Recognition** as a National or State party is under the Election Symbols Order **1968**. Do not merge the two steps.
+3. A party becomes a **National** party by any one route: **6%** votes in **four** (चातुर्याम) States plus **four** Lok Sabha (लोकसभा) seats; or **2%** of Lok Sabha seats from at least **three** States; or State-party status in **four** States.
 4. A party becomes a **State** party in that State by any one route: **6%** votes plus **two** MLAs or **one** MP; or **3%** of Assembly seats or **three** seats (whichever is higher); or **one** Lok Sabha seat per **25** Assembly seats; or **8%** of votes even with zero seats.
 5. As of 2024–26 there are **six** national parties: **AAP** (broom), **BSP** (elephant), **BJP** (lotus), **CPI(M)** (hammer-sickle-star), **INC** (hand), and **NPP** (book). **CPI** lost national status in **2023**. **NPP** was the first north-eastern national party (**2019**).
 6. Reserved symbols go to recognised parties. Free symbols go to unrecognised parties and independents.
 7. A standard founding-year order is **TDP 1982 → BSP 1984 → SP 1992 → TMC 1998**.
 8. India has a **multi-party** system, not a classic two-party system. After the Congress-system decades, **1967** brought large state coalitions; **1989–2014** was a long coalition era at the Centre; **2014** returned a single-party majority; **2024** again produced an **NDA coalition** with the BJP on **240** seats.
-9. A **hung** House means no single party has a majority. A **coalition** means two or more parties govern together. A hung House may still produce a coalition.
+9. A **hung** House means no single party has a majority. A **coalition** means two or more parties govern together. A hung House (त्रिशंकु सदन) may still produce a coalition.
 10. After *Bommai*, majority is tested on the **House floor**, not by Raj Bhavan arithmetic alone. The President or Governor invites whoever can command confidence.
-11. Sarkaria’s invite order for a hung House is: **pre-poll alliance → largest single party → post-poll alliance**, then a floor test.
-12. A **political party** contests elections and seeks office. A **pressure group** usually does not contest and seeks to **influence** policy. An **interest group** becomes a pressure group when it presses the State.
-13. The first trade union in India is commonly locked as the **Madras Labour Union (1918)**. **AITUC** was formed in **1920** with Lala Lajpat Rai as president and is linked to the **CPI**.
-14. **INTUC** (**1947**) is linked to the **Congress**. **BMS** (**1955**) is linked to the **BJP/RSS**. **CITU** (**1970**) is linked to the **CPI(M)**. **UTUC** (**1949**) is linked to the **RSP**.
+11. Sarkaria (सरकारिया आयोग)’s invite order for a hung House is: **pre-poll alliance → largest single party → post-poll alliance**, then a floor test.
+12. A **political party** contests elections and seeks office. A **pressure group** (दबाव समूह) usually does not contest and seeks to **influence** policy. An **interest group** (हित समूह) becomes a pressure group when it presses the State.
+13. The first trade union in India is commonly locked as the **Madras Labour Union (1918)**. **AITUC** (एटक) was formed in **1920** with Lala Lajpat Rai (लाला लाजपत राय) as president and is linked to the **CPI**.
+14. **INTUC** (इंटक) (**1947**) is linked to the **Congress** (कांग्रेस). **BMS** (बीएमएस) (**1955**) is linked to the **BJP/RSS**. **CITU** (सीटू) (**1970**) is linked to the **CPI(M)**. **UTUC** (यूटीयूसी) (**1949**) is linked to the **RSP**.
 15. The right to **form** associations and unions is under Article **19(1)(c)**. The right to **strike** is **not** a Fundamental Right.
 16. Indian party-system features often tested are multi-party competition, weak ideology, dynasty politics, regionalisation after **1967**, weak inner-party democracy, and extra-constitutional origin of parties.
-17. National parties get an all-India reserved symbol. State parties get a reserved symbol **only in that State**.
+17. National parties get an all-India reserved symbol (आरक्षित प्रतीक). State parties get a reserved symbol **only in that State**.
 18. Electoral bonds were struck down in **February 2024** (*Association for Democratic Reforms*). Party funding transparency remains a live neighbour to registration and recognition.
 19. Pressure groups include business associations, farmer bodies, trade unions, and professional lobbies. They work through persuasion, media, litigation, and access — not through forming the ministry.
 20. Do not confuse **AITUC (CPI)** with **CITU (CPI-M)**, or **INTUC (Congress)** with **BMS (BJP/RSS)**.
-21. Recognition criteria use **votes share and seats**, not merely “old party” or “famous leader.” A registered party without recognition remains a RUPP with a free symbol.
+21. Recognition criteria use **votes share and seats**, not merely “old party” or “famous leader.” A registered party without recognition remains a RUPP with a free symbol (मुक्त प्रतीक).
 22. Coalition governments rest on a common programme and support arithmetic. Withdrawal of support can trigger a floor test and possible change of government.
-23. In Uttar Pradesh, party founding years for **BSP** and **SP**, and union–party match lists, are high-yield. Keep the national roster and the UP regional set separate.
-24. The Tenth Schedule punishes defection; it does not itself create the Election Commission’s recognition rules. Registration, recognition, and defection are three different tools.
+23. In Uttar Pradesh (उत्तर प्रदेश), party founding years for **BSP** and **SP**, and union–party match lists, are high-yield. Keep the national roster and the UP regional set separate.
+24. The Tenth Schedule punishes defection; it does not itself create the Election Commission (निर्वाचन आयोग)’s recognition rules. Registration, recognition, and defection are three different tools.
 25. A hung Assembly does not automatically mean President’s Rule. The constitutional path is invitation based on likely majority, then floor test; Article **356** is a last resort, not the first step.
 26. Multi-party democracy can still produce stable majorities. “Multi-party” describes the system type; it does not mean every election must end in a coalition.
 
@@ -133,7 +133,7 @@ Parties as a **system** + groups that **push** the system. **who is a national p
 - **Multi-party** — not two-party (UK/US) and not one-party (China). Duverger’s FPTP→two-party **fails** here because of **region + caste + language**.
 - **Dominant-party phases** — Congress **1952–67** (Kothari) · BJP **2014–24** majority. Phase ≠ system.
 - **Weak ideology** (most) — catch-all. Exceptions: **Left**, **BJP–RSS** stream.
-- **Personality / dynasty** — SP, DMK, NC, RJD, NCP, Congress after Nehru — favourite criticism.
+- **Personality / dynasty** — SP, DMK, NC, RJD, NCP, Congress after Nehru (नेहरू) — favourite criticism.
 - **Traditional cleavages** — caste, religion, language, region **over** class (except Left belts).
 - **Regionalisation** after **1967** — State parties as **kingmakers** at the Centre (TDP, JD(U), BJD, DMK, TMC).
 - **Factionalism** — split → ECI **Para 15** (name + symbol).
@@ -193,13 +193,13 @@ ECI **reviews after every LS / every State Assembly general election**. Status c
 - **BJP — Lotus.6 Apr 1980** (BJS was **1951**, Syama Prasad Mookerjee).
 - **INC — Hand.28 Dec 1885**.
 - **AAP — Broom.26 Nov 2012**. National **2023** (4-State route).
-- **BSP — Elephant** (not in **Assam** — that animal is taken). **14 Apr 1984**, Kanshi Ram. HQ Delhi. UP’s dalit party.
+- **BSP — Elephant** (not in **Assam** — that animal is taken). **14 Apr 1984**, Kanshi Ram. HQ Delhi. UP’s dalit (दलित) party.
 - **CPI(M) — Hammer, sickle and star.1964** split from CPI.
-- **NPP — Book.** P.A. Sangma, **2013** (Meghalaya). National **2019** — **first from the North-East**.
+- **NPP — Book.** P.A. Sangma, **2013** (Meghalaya (मेघालय)). National **2019** — **first from the North-East**.
 
-**HQ raata (sometimes asked):** BJP — **11, Ashoka Road** · INC — **24, Akbar Road**.
+**HQ raata (sometimes asked):** BJP — **11, Ashoka (अशोक) Road** · INC — **24, Akbar (अकबर) Road**.
 
-**CPI** (not national): symbol **Ears of Corn and Sickle**; founded **26 Dec 1925** (Kanpur). Split **1964** → CPI(M). Lost national status **2023**.
+**CPI** (not national): symbol **Ears of Corn and Sickle**; founded **26 Dec 1925** (Kanpur (कानपुर)). Split **1964** → CPI(M). Lost national status **2023**.
 
 **Lost national (don’t write them as national now):** CPI · NCP · AITC · AIADMK (earlier cycles). **State** kings: AITC, NCP, SP, TDP, BJD, DMK, YSRCP/BRS, JD(U), RJD.
 
@@ -212,19 +212,19 @@ ECI **reviews after every LS / every State Assembly general election**. Status c
 - **TDP — 29 Mar 1982.** N.T. Rama Rao. 2022 chronology **first**.
 - **BSP — 14 Apr 1984.** Kanshi Ram. UP CM Mayawati (four terms).
 - **SP — 4 Oct 1992.** Mulayam Singh Yadav. UP’s other pole.
-- **AITC / TMC — 1 Jan 1998.** Mamata Banerjee. 2022 chronology **last**.
-- **DMK / AIADMK — 1949 / 1972.** Annadurai / MGR. Tamil Nadu Dravidian pair. AIADMK **1972** (MGR).
+- **AITC / TMC — 1 Jan 1998.** Mamata Banerjee (बनर्जी). 2022 chronology **last**.
+- **DMK / AIADMK — 1949 / 1972.** Annadurai / MGR. Tamil Nadu (नाडु) Dravidian pair. AIADMK **1972** (MGR).
 - **BJD — 1997.** Naveen Patnaik. Odisha.
 - **JD(U) / RJD — 2003 / 1997.** Nitish / Lalu. Bihar.
 - **Shiv Sena — 1966.** Bal Thackeray. 2022 split → ECI **bow-and-arrow** to Shinde faction (Para 15).
 - **NC / PDP — 1932 / 1999.** Abdullah / Mufti. J&K. NC = Sheikh Abdullah; oldest J&K party.
-- **Akali Dal (SAD) — 1920.** Master Tara Singh stream. Punjab; oldest surviving regional.
+- **Akali Dal (SAD) — 1920.** Master Tara (तारा) Singh stream. Punjab; oldest surviving regional.
 - **AGP — 1985.** Prafulla Mahanta. Assam Movement party.
 - **JMM — 1972.** Sibu Soren. Jharkhand.
 - **TRS / BRS — 2001 / 2022.** K. Chandrashekar Rao. Telangana statehood party; renamed BRS.
 - **YSRCP — 2011.** Y.S. Jagan. Andhra.
-- **RLD — 1996.** Ajit Singh (Charan Singh stream). West UP Jat belt.
-- **AIMIM — 1927 / revived 1958.** Hyderabad; Owaisi. State party in Telangana.
+- **RLD — 1996.** Ajit Singh (Charan (चारण) Singh stream). West UP Jat belt.
+- **AIMIM — 1927 / revived 1958.** Hyderabad (हैदराबाद); Owaisi. State party in Telangana.
 - **ZPM — 2017.** Lalduhoma. Mizoram.
 
 **Regional-party features:** State-specific social base · often **linguistic / ethnic** · can be **Centre kingmakers** without being national · reserved symbol **only in that State**.
@@ -284,7 +284,7 @@ D. I, II, III, IV
 
 **Centre coalitions (PM fact):**
 
-- **1977** Janata — Morarji Desai (first non-Congress).
+- **1977** Janata — Morarji Desai (आमिल) (first non-Congress).
 - **1989** National Front — V.P. Singh (outside Left + BJP support — unstable).
 - **1996** United Front — Deve Gowda → I.K. Gujral (Congress outside).
 - **1998–2004** NDA — Vajpayee (13 days in **1996** first; then 1998/99).
@@ -292,7 +292,7 @@ D. I, II, III, IV
 - **2014 / 2019** — Modi: BJP **solo majority** (allies still in NDA).
 - **2024** — Modi: BJP **240**, NDA **coalition**.
 
-**Pre-poll vs post-poll:** NDA/UPA as **brands** are pre-poll when declared; a hung House often produces a **post-poll** gathbandhan. Pre-poll usually invited first (Sarkaria / Punchhi — hung card below).
+**Pre-poll vs post-poll:** NDA/UPA as **brands** are pre-poll when declared; a hung House often produces a **post-poll** gathbandhan. Pre-poll usually invited first (Sarkaria / Punchhi (पुंछी आयोग) — hung card below).
 
 ---
 
@@ -336,11 +336,11 @@ D. I, II, III, IV
 **Almond’s four (with Indian examples):**
 
 - **Associational** — formal, specialised. FICCI (**1927**) · CII · ASSOCHAM · NASSCOM · IMA · trade unions.
-- **Institutional** — inside the State. Bureaucracy, Army, a **party’s** labour/kisan wing.
-- **Non-associational** — informal caste / language / religion. Jat / Maratha / Patidar reservation agitations; linguistic groups.
+- **Institutional** — inside the State. Bureaucracy, Army (सेना), a **party’s** labour/kisan wing.
+- **Non-associational** — informal caste / language / religion. Jat / Maratha (मराठा) / Patidar reservation agitations; linguistic groups.
 - **Anomic** — spontaneous, often violent. Riots, flash bandhs — **not** a stable organisation.
 
-**Promotional vs protective (Finer):** promotional = a cause (NBA, PUCL, Chipko). Protective = a sectional interest (FICCI, IMA, BKU).
+**Promotional vs protective (Finer):** promotional = a cause (NBA, PUCL, Chipko (चिपको)). Protective = a sectional interest (FICCI, IMA, BKU).
 
 **Methods:** lobbying · funding · strike / bandh · PIL · media · capture of advisory boards. **Not** the same as a political party’s election campaign.
 
@@ -354,7 +354,7 @@ D. I, II, III, IV
 - Students: **ABVP 1948** · NSUI · SFI · AISF.
 - Professional: **IMA** · Bar Council / Bar associations · IBA.
 - Religious / cultural: **RSS 1925** (cadre; not a party) · VHP · Jamaat-e-Islami.
-- Environment: **Chipko 1973** · Narmada Bachao (Medha Patkar) · Silent Valley.
+- Environment (पर्यावरण): **Chipko 1973** · Narmada (नर्मदा) Bachao (नर्मदा बचाओ) (Medha Patkar (मेधा पाटकर)) · Silent Valley (साइलेंट वैली).
 - Linguistic: Samyukta Maharashtra · anti-Hindi agitations (1965).
 
 **Techniques:** lobbying ministers/MPs · financing parties · strike / bandh / rail-roko · PIL · media · capturing advisory boards · expert committees · street veto. India has **no US-style lobbying statute**.
@@ -367,14 +367,14 @@ D. I, II, III, IV
 
 ## Trade unions
 
-**Trade Unions Act, 1926** (being folded into the labour codes).
+**Trade Unions Act, 1926** (being folded into the labour codes (चार श्रम संहिताएं)).
 
 - First union: **Madras Labour Union, 1918** — B.P. Wadia.
-- Gandhi stream: **Ahmedabad Textile Labour Association (Majoor Mahajan), 1920** — Anasuya Sarabhai.
+- Gandhi (गांधी) stream: **Ahmedabad (अहमदाबाद) Textile Labour Association (Majoor Mahajan), 1920** — Anasuya Sarabhai.
 - First **central** federation: **AITUC, 31 Oct 1920**, Bombay. First president **Lala Lajpat Rai** (लाला लाजपत राय).
 - ILO: India founding member **1919**.
 - Right to form unions: Art. **19(1)(c)**. **Strike is not a FR** (*All India Bank Employees*).
-- 42nd: **43A** workers in management (DPSP).
+- 42nd (42वां): **43A** workers in management (DPSP (राज्य के नीति निदेशक तत्व)).
 
 Registration (1926 Act): originally **7** members could apply; 2001 Amd → **10% or 100** workmen, whichever less. CTUO “recognised” by the Labour Ministry on membership returns — **BMS** has often claimed the largest verified membership.
 

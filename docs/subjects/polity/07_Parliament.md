@@ -4,9 +4,9 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-**Houses & Organisation:** Parliament | Rajya Sabha | Lok Sabha | Composition & Nomination | Qualification & Disqualification of Members | Office of Profit | Speaker | Deputy Speaker | Pro Tem Speaker | Chairman of Rajya Sabha | Joint Sitting | Parliamentary Privileges | Parliamentary Secretariat | Whip | Sessions of Parliament | Summoning, Prorogation, Adjournment, Dissolution | Quorum | Lame Duck Session
+**Houses & Organisation:** Parliament | Rajya Sabha (राज्यसभा) | Lok Sabha (लोकसभा) | Composition & Nomination | Qualification & Disqualification of Members | Office of Profit | Speaker | Deputy Speaker | Pro Tem Speaker | Chairman of Rajya Sabha | Joint Sitting (संयुक्त बैठक) | Parliamentary Privileges | Parliamentary Secretariat | Whip | Sessions of Parliament | Summoning (आहूत करना), Prorogation (सत्रावसान), Adjournment (स्थगन), Dissolution (विघटन) | Quorum (गणपूर्ति) | Lame Duck Session (पंगु सत्र)
 
-**Budget, Bills, Devices, Committees:** Budget | Consolidated Fund | Contingency Fund | Public Account | Charged Expenditure | Demand for Grants | Appropriation Bill | Vote on Account | Supplementary / Excess / Additional Grants | Vote of Credit & Exceptional Grant | Ordinary Bill | Money Bill | Financial Bill | Finance Bill | Constitutional Amendment Bill | Private Member Bill | Money Bill vs Financial Bill | Lapsing of Bills | Question Hour | Zero Hour | Half-an-Hour Discussion | Short Duration Discussion | Calling Attention | Adjournment Motion | Censure | No-Confidence | Confidence | Privilege Motion | Cut Motions | Closure | Guillotine | Point of Order | PAC | Estimates Committee | COPU | DRSCs | Business Advisory | Rules | Ethics | Privileges | Petitions | Subordinate Legislation | Government Assurances
+**Budget, Bills, Devices, Committees:** Budget | Consolidated Fund | Contingency Fund (आकस्मिकता निधि) | Public Account (लोक लेखा) | Charged Expenditure (भारित) | Demand for Grants | Appropriation Bill | Vote on Account | Supplementary / Excess / Additional Grants | Vote of Credit & Exceptional Grant | Ordinary Bill | Money Bill | Financial Bill (वित्तीय) | Finance Bill (वित्त) | Constitutional Amendment Bill | Private Member Bill | Money Bill vs Financial Bill | Lapsing of Bills | Question Hour (प्रश्न काल) | Zero Hour (शून्य काल -) | Half-an-Hour Discussion | Short Duration Discussion | Calling Attention | Adjournment Motion (स्थगन प्रस्ताव) | Censure | No-Confidence (अविश्वास प्रस्ताव) | Confidence | Privilege Motion | Cut Motions (कटौती प्रस्ताव) | Closure | Guillotine | Point of Order | PAC (लोक लेखा समिति) | Estimates (प्राकलन समिति) Committee | COPU | DRSCs | Business Advisory | Rules | Ethics | Privileges | Petitions | Subordinate Legislation | Government Assurances
 
 </details>
 
@@ -20,14 +20,14 @@
 
 ## Current Affairs
 
-- **2024: 18th Lok Sabha** constituted; **Om Birla** re-elected Speaker; **Rahul Gandhi** recognised as Leader of the Opposition.
+- **2024: 18th Lok Sabha** constituted; **Om Birla** re-elected Speaker; **Rahul Gandhi (गांधी)** recognised as Leader of the Opposition.
 - **2019–20: 104th Amendment** ended Anglo-Indian nomination to LS (and State Assemblies) — Art. 331 / 334 trap.
 - **Frozen:** LS territorial seats frozen on **1971** census till the first census after **2026** (84th) — delimitation.
 - **Jan 2022:** ECI revised candidate expenditure ceilings — Lok Sabha up to **₹95 lakh** (smaller States **₹75 lakh**); Assembly up to **₹40 lakh** (smaller States **₹28 lakh**).
-- **2024 polls:** 7 phases; **Malogam** (Arunachal East) one-voter booth; **Shompen** (Great Nicobar) voted for the first time in Andaman & Nicobar LS seat.
+- **2024 polls:** 7 phases; **Malogam** (Arunachal East) one-voter booth; **Shompen** (Great Nicobar (निकोबार)) voted for the first time in Andaman (अंडमान) & Nicobar LS seat.
 - **2017–:** Union Budget on **1 February**; **Railway Budget merged** with General Budget.
 - **Convention:** PAC chair from the **Opposition** (since 1967).
-- **18th Lok Sabha committee chairs (2024–25, Om Birla):** **Public Accounts** — **K.C. Venugopal**; **Estimates** — **Sanjay Jaiswal**; **Public Undertakings** — **Baijayant Panda**; **SC/ST Welfare** — **Faggan Singh Kulaste**; **OBC Welfare** — **Ganesh Singh**. Trap: Baijayant Panda is **COPU**, not Estimates.
+- **18th Lok Sabha committee chairs (2024–25, Om Birla):** **Public Accounts** — **K.C. Venugopal**; **Estimates** — **Sanjay Jaiswal**; **Public Undertakings** — **Baijayant Panda**; **SC/ST Welfare** — **Faggan Singh Kulaste**; **OBC (अन्य पिछड़ा वर्ग) Welfare** — **Ganesh Singh**. Trap: Baijayant Panda is **COPU**, not Estimates.
 
 ---
 
@@ -38,16 +38,16 @@
 Who among the following officials can be invited to give his opinion in the Parliament?
 
 A. Auditor General
-B. Attorney General
+B. Attorney General (महान्यायवादी)
 C. Chief Justice of India
 D. Governor
 
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Only one of the four has a constitutional right of audience in Parliament under Art. 88.
+**Logic:** Only one of the four (चातुर्याम) has a constitutional right of audience in Parliament under Art. 88.
 
-**Ans: B (Series B provisional key).** Attorney General may speak in either House under Article 88 (no vote). CAG reports to Parliament but does not address it this way.
+**Ans: B (Series B provisional key).** Attorney General may speak in either House under Article 88 (no vote). CAG (भारत के नियंत्रक-महालेखापरीक्षक) reports to Parliament but does not address it this way.
 
 </details>
 
@@ -60,17 +60,17 @@ D. Governor
 2. Rajya Sabha maximum under **Article 80** is **250** (**238** States/UTs + **12** nominated). Present strength is **245** (**233 + 12**). Seats follow the **Fourth Schedule** and are **not** equal per State.
 3. Rajya Sabha members are elected by **elected MLAs** through **PR-STV**. Term is **six years**; **one-third retire every two years**. The House is **never dissolved**.
 4. The President nominates **12** members with special knowledge in **literature, science, art, or social service**. **Sport** is **not** in that list. Nominated members vote in the **Vice-President** election but **not** in the **President** election.
-5. Rajya Sabha special powers: **Article 249** (State List for one year), **Article 312** (All-India Services — **2/3 of members present and voting**), and the start of **Vice-President removal**.
-6. High-yield Rajya Sabha seat facts: **Uttar Pradesh 31**, Maharashtra 19, Tamil Nadu 18, Bihar/West Bengal 16; UTs with seats include **Delhi 3**, **Puducherry 1**, **Jammu & Kashmir 4**.
+5. Rajya Sabha special powers: **Article 249** (State List (राज्य सूची) for one year), **Article 312** (All-India Services — **2/3 of members present and voting (गणपूर्ति)**), and the start of **Vice-President removal**.
+6. High-yield Rajya Sabha seat facts: **Uttar Pradesh (उत्तर प्रदेश) 31**, Maharashtra 19, Tamil Nadu (नाडु) 18, Bihar/West Bengal 16; UTs with seats include **Delhi 3**, **Puducherry 1**, **Jammu & Kashmir 4**.
 7. Lok Sabha maximum under **Article 81** is **550** (**530** States + **20** UTs). Present elected strength is **543**. Election is **FPTP**; minimum age is **25**.
 8. Anglo-Indian nomination to the Lok Sabha ended with the **104th Amendment**. SC/ST reservation continues till **25 January 2030**. Seat freeze uses the **1971** census (84th) until the first census after **2026**.
 9. **Uttar Pradesh** (उत्तर प्रदेश) has **80** Lok Sabha seats — the highest Leading state in the usual map.
-10. Qualifications sit in **Article 84**; disqualifications in **Article 102**. Office of profit is decided by the **President on binding Election Commission advice**, not by the Speaker alone.
+10. Qualifications sit in **Article 84**; disqualifications in **Article 102**. Office of profit is decided by the **President on binding Election Commission (निर्वाचन आयोग) advice**, not by the Speaker alone.
 11. Dual-membership clocks: both Houses of Parliament — choose within **10 days**; Parliament and a State legislature — Parliament seat goes after **14 days**. *Lily Thomas*: conviction of **two years or more** brings **instant** disqualification.
 12. The **Speaker** is elected by the House (**Article 93**), resigns to the Deputy Speaker, and can be removed by **14 days’** notice plus a majority of **all then members**. The Speaker gives the **Money Bill certificate** and presides over a **joint sitting** (संयुक्त बैठक).
 13. The **Vice-President** is *ex-officio* **Chairman** of the Rajya Sabha and is **not a member**. The Deputy Chairman is elected **from among** Rajya Sabha members. **Pro Tem Speaker** is appointed by the **President**.
 14. Sessions under **Article 85**: Budget, Monsoon, Winter; gap between two sittings of a House must not exceed **six months**. **Adjournment** (स्थगन) ends a sitting; **prorogation** (सत्रावसान) ends a session (Bills survive); **dissolution** (विघटन) ends the Lok Sabha’s life.
-15. **Quorum** (गणपूर्ति / कोरम) is **one-tenth** (1/10) of total membership (**Article 100**). A **lame-duck** session (पंगु सत्र) is the last sitting of an outgoing Lok Sabha after a new House has been elected.
+15. **Quorum** (गणपूर्ति / कोरम) is **one-tenth** (1/10) of total membership (सदन की कुल सदस्य संख्या का) (**Article 100**). A **lame-duck** session (पंगु सत्र) is the last sitting of an outgoing Lok Sabha after a new House has been elected.
 16. **Joint sitting** (संयुक्त बैठक) is **Article 108** (not 109). It is for **ordinary Bills** only. The **Speaker** presides. There is **never** a joint sitting for a **Money Bill**, Appropriation Bill, or **Constitution Amendment Bill**.
 17. **Article 110** defines a Money Bill (धन विधेयक); **Article 109** is the **procedure** (प्रक्रिया). A Money Bill can originate **only in the Lok Sabha**. The Speaker’s certificate is **final**. Rajya Sabha gets **14 days** and may only **recommend** (सिफारिश).
 18. **Financial Bill I** (**117(1)**) has money-matter clauses plus other matter: only Lok Sabha origin; Rajya Sabha can amend; joint sitting **possible**. **Financial Bill II** (**117(3)**) involves expenditure from the Consolidated Fund: either House; joint sitting **possible**.
@@ -83,7 +83,7 @@ D. Governor
 25. **Estimates Committee**: **30** members, **all from the Lok Sabha** — the largest of the three classic financial committees and with **no** Rajya Sabha members. **COPU** is also **22**.
 26. Parliamentary privileges under **Article 105** cover freedom of speech in the House and protection from **civil** arrest in the session window (**40 days** before/after plus during). They do **not** cover ordinary **criminal** process.
 27. Prorogation does **not** kill Bills — notices and pending motions may lapse, but Bills remain. Only dissolution ends the Lok Sabha’s unfinished ordinary business in the usual way.
-28. Leader of Opposition rests on the **1977** statutory recognition with a practical **~10%** strength convention. Party **whips** (one-/two-/three-line) are **extra-constitutional**.
+28. Leader of Opposition rests on the **1977** statutory recognition (मान्यता) with a practical **~10%** strength convention. Party **whips** (one-/two-/three-line) are **extra-constitutional**.
 29. Each House has its own **Secretariat** under **Article 98**. Ministers and the Attorney General may **speak in both Houses** (**Article 88**) but vote only in the House where they are members.
 30. **Meira Kumar** is the first woman Speaker of the Lok Sabha. Business Advisory Committee is chaired by the **Speaker**.
 
@@ -146,7 +146,7 @@ D. Governor
 - **Art. 79:** Parliament of the Union = the **President** + **Rajya Sabha** (Council of States) + **Lok Sabha** (House of the People).
 - Bicameral. President is an **integral part** of Parliament (assent, summons, address, messages under **Art. 86**, special address under **Art. 87**) even though he sits in neither House.
 - **Art. 98:** each House has its own **Secretariat**, independent of the executive; **Secretary-General** is the administrative head.
-- **Art. 120:** business in Hindi or English; a member may speak in his mother tongue with the Presiding Officer’s permission. English continues under the **Official Languages Act, 1963**.
+- **Art. 120:** business in Hindi or English; a member may speak in his mother tongue with the Presiding Officer (पीठासीन अधिकारी)’s permission. English continues under the **Official Languages Act, 1963**.
 - **Art. 106:** salaries/allowances of MPs are determined by **Parliament by law**.
 - **Art. 88:** every Minister and the AG may **speak in both Houses** and in committees of which they are named, but **vote only** in the House of which they are a member.
 
@@ -200,12 +200,12 @@ D. Only 1
 - A nominated member **can be appointed a Minister**.
 - A nominated member **cannot vote** in the election of the **President**.
 - A nominated member **can vote** in the election of the **Vice-President**.
-- A nominated member may **join a political party within 6 months** of taking his seat without attracting the **Tenth Schedule**.
+- A nominated member may **join a political party (राजनीतिक दल) within 6 months** of taking his seat without attracting the **Tenth Schedule**.
 - Joining a party **after** that six-month window is treated as **defection**.
 
 ### Special powers of the Rajya Sabha (which the Lok Sabha does not have)
 
-- Under **Art. 249**, the Rajya Sabha may pass a resolution, by a majority of **not less than two-thirds of members present and voting**, authorising Parliament to legislate on a **State List** (राज्य सूची) subject in the **national interest**.
+- Under **Art. 249**, the Rajya Sabha may pass a resolution, by a majority of **not less than two-thirds (ते-भागा) of members present and voting**, authorising Parliament to legislate on a **State List** (राज्य सूची) subject in the **national interest**.
 - A law passed under Art. 249 remains in force for **one year**, and it can be **renewed** any number of times by a fresh resolution.
 - Under **Art. 250**, while a Proclamation of Emergency is in operation, Parliament may legislate on any State List matter for the whole or any part of India; such a law expires **six months** after the Emergency ends (unless earlier repealed).
 - Under **Art. 252**, Parliament may legislate for **two or more States** by their consent, and other States may later **adopt** that law.
@@ -293,10 +293,10 @@ State-wise Rajya Sabha seats are a recurring Match-List favourite. **Uttar Prade
 | Chhattisgarh | **5** |
 | Haryana | **5** |
 | Jammu & Kashmir | **4** |
-| Himachal Pradesh | **3** |
-| Uttarakhand | **3** |
+| Himachal (हिमाचल) Pradesh | **3** |
+| Uttarakhand (उत्तराखंड) | **3** |
 | NCT of Delhi | **3** |
-| Goa and other small North-Eastern States | **1** each |
+| Goa (गोवा) and other small North-Eastern States | **1** each |
 | Puducherry | **1** |
 
 > Note: Row order in this table is **not** the answer — only the numbers matter.
@@ -382,7 +382,7 @@ D. Neither 1 nor 2
 - The **104th Amendment (2019)** did **not** extend this nomination — it **ended in January 2020**.
 - Members are elected **directly**, by **First Past the Post**, from **territorial constituencies** (Art. 81).
 - Under Art. **81(2)**, seats are allotted to States, and constituencies are carved within a State, so as to keep the population-to-seat ratio **as uniform as practicable** across the country.
-- Seat allocation among States and constituency boundaries were **frozen on 1971 population** by the **42nd Amendment**.
+- Seat allocation among States and constituency boundaries were **frozen on 1971 population (जनसंख्या)** by the **42nd (42वां) Amendment**.
 - The **84th Amendment (2001)** continued that freeze **until the first census after 2026**.
 - Under Art. **82**, seats are **readjusted after every census** by a **Delimitation Commission** set up by an Act of Parliament — the next full delimitation will follow the census after 2026.
 - Under Art. **330**, Lok Sabha seats are **reserved for SC and ST candidates** in proportion to their population in each State. After the **2008** delimitation order: **84** SC seats and **47** ST seats (earlier **79** and **41**).
@@ -390,7 +390,7 @@ D. Neither 1 nor 2
 - Art. **334** originally capped this reservation at **10 years**; the **104th Amendment** extended it to **25 January 2030** (80 years from commencement).
 - That same 104th Amendment extended **SC/ST reservation** but did **not** extend **Anglo-Indian nomination** — the two are separate facts.
 - The **term** of the Lok Sabha under Art. **83** is **5 years** from the date of its **first meeting**, unless it is **dissolved earlier**.
-- During a National Emergency, the Lok Sabha's life may be **extended one year at a time**, but not beyond **six months** after the Emergency ends.
+- During a National Emergency (राष्ट्रीय आपात), the Lok Sabha's life may be **extended one year at a time**, but not beyond **six months** after the Emergency ends.
 - The **minimum age** to be a Lok Sabha member is **25 years**.
 - **Uttar Pradesh** sends **80** members to the Lok Sabha — the **largest** of any State — followed by **Maharashtra (48)** and **West Bengal (42)**.
 - The **first general election** ran from **25 October 1951 to 21 February 1952** for **489** seats; the first Lok Sabha met on **13 May 1952**.
@@ -510,7 +510,7 @@ A person is disqualified from being a member of either House under Art. **102** 
 **RPA, 1951 — high-yield (Art. 102(1)(e))**
 - A member **convicted** and sentenced to **2 years or more** of imprisonment stands disqualified.
 - In *Lily Thomas* (2013), the Supreme Court struck down the RPA's three-month "appeal window" in s. 8(4), so disqualification on such a conviction is now **immediate**.
-- Other RPA grounds include **corrupt election practices**, **failure to lodge election expenses**, **dismissal from government service** for corruption or disloyalty, and holding a **government contract** or an office under a government company.
+- Other RPA grounds include **corrupt election practices**, **failure to lodge election expenses**, **dismissal from government service** for corruption or disloyalty, and holding a **government contract** or an office under a government company (कंपनी).
 - The disqualification for the 2-year conviction head generally runs for **6 years from release**.
 
 **Who decides**
@@ -540,7 +540,7 @@ A person is disqualified from being a member of either House under Art. **102** 
 - While that removal resolution is under consideration (**Art. 96**), the Speaker **shall not preside**, but he **may speak and take part**, and he may vote **in the first instance** — he does **not** get a casting vote if votes are equal.
 - The Speaker **does not vote in the first instance** in ordinary sittings; he casts a **vote only to break a tie**, including in a joint sitting (**Art. 100**).
 - The Speaker **does not take a separate oath of office** beyond his oath as a member of the House — a frequent contrast with the President, Vice-President, PM and judges.
-- In the **Warrant of Precedence**, the Speaker ranks at **6** (with the CJI); Cabinet Ministers rank **7** and the Attorney General **11** — the full table is in **Topic 6 — Union Executive**.
+- In the **Warrant of Precedence** (वरीयता), the Speaker ranks at **6** (with the CJI); Cabinet Ministers rank **7** and the Attorney General **11** — the full table is in **Topic 6 — Union Executive**.
 - The **Lok Sabha Secretariat** works under the **Speaker**; recruitment rules for the secretariat staff are framed by the **President after consultation with the Speaker** (Art. **98**).
 
 ### Speaker — powers (list)
@@ -574,15 +574,15 @@ A person is disqualified from being a member of either House under Art. **102** 
 - His office **ends** as soon as the new Speaker is elected.
 
 **High-yield Speakers & Historical Traps**
-- **G.V. Mavalankar** was the **first Speaker** of the Lok Sabha (1952–1956); hailed by Jawaharlal Nehru as the **"Father of the Lok Sabha"**.
+- **G.V. Mavalankar** was the **first Speaker** of the Lok Sabha (1952–1956); hailed by Jawaharlal Nehru (जवाहरलाल नेहरू) as the **"Father of the Lok Sabha"**.
 - **First Speaker faced with Removal Motion:** **G.V. Mavalankar** was the first Speaker against whom a resolution for removal was moved in the Lok Sabha (on **18 December 1954** by opposition members led by J.B. Kripalani; the resolution was discussed and defeated by the House).
 - **First Deputy Speaker:** **M. Ananthasayanam Ayyangar** (later became Speaker upon Mavlankar's death in 1956).
 - **Speakers who died in office:** **G.V. Mavlankar** (1956) and **G.M.C. Balayogi** (2002, in a helicopter crash).
 - **Speaker who became President of India:** **Neelam Sanjiva Reddy** (resigned as Speaker in 1969; elected Speaker again in March 1977, then resigned in July 1977 to become the 6th President of India — elected unopposed).
 - **Longest serving Speaker:** **Dr. Balram Jakhar** (served two consecutive full terms from 1980 to 1989 across 7th and 8th Lok Sabha).
-- **Meira Kumar** was the **first woman Speaker**, in the 15th Lok Sabha (2009–2014; Sasaram constituency). Second woman Speaker: **Sumitra Mahajan** (16th Lok Sabha).
-- **G.M.C. Balayogi** was the **first Dalit Speaker**.
-- **P.A. Sangma** (11th Lok Sabha) remains the **only tribal Speaker** so far.
+- **Meira Kumar** was the **first woman Speaker**, in the 15th Lok Sabha (2009–2014; Sasaram (सासाराम) constituency). Second woman Speaker: **Sumitra Mahajan** (16th Lok Sabha).
+- **G.M.C. Balayogi** was the **first Dalit (दलित) Speaker**.
+- **P.A. Sangma** (11th Lok Sabha) remains the **only tribal (आदिवासी) Speaker** so far.
 - **Om Birla** has been Speaker of both the **17th and 18th** Lok Sabhas.
 
 **PYQ — UPPCS Prelims 2023, Q6**
@@ -592,7 +592,7 @@ Who among the following is the first woman Speaker of the Lok Sabha?
 A. Pratibha Patil
 B. Urmila Singh
 C. Meira Kumar
-D. Sushma Swaraj
+D. Sushma Swaraj (स्वराज)
 
 <details>
 <summary>Show answer</summary>
@@ -611,7 +611,7 @@ C. 14th Lok Sabha
 D. 17th Lok Sabha
 1. Om Birla
 2. P. A. Sangma
-3. Somnath Chatterjee
+3. Somnath (सोमनाथ) Chatterjee
 4. G. M. C. Balayogi
 
 A. A-2, B-4, C-3, D-1
@@ -762,7 +762,7 @@ The **President** summons the joint sitting if the Bill has not already lapsed b
 - Decisions are taken by a **simple majority** of members **present and voting**, with the two Houses sitting as one body.
 - The quorum for a joint sitting is **one-tenth of the total membership of both Houses**.
 
-**Joint sittings actually held (3):** Dowry Prohibition Bill **1961**; Banking Service Commission (Repeal) Bill **1978**; POTA Bill **2002**.
+**Joint sittings actually held (3):** Dowry Prohibition (प्रतिषेध) Bill **1961**; Banking Service Commission (Repeal) Bill **1978**; POTA Bill **2002**.
 
 **PYQ — UPPCS Prelims 2025, Q141**
 
@@ -822,7 +822,7 @@ D. Appropriation Bill
 
 ## Parliamentary Privileges (Art. 105 / States: 194)
 
-Originally, the privileges of each House were those of the **British House of Commons**, until Parliament defined them by law. The **44th Amendment** replaced that UK reference: privileges are now those existing on **20 June 1979**, until Parliament defines them by law. **No comprehensive codification** exists yet.
+Originally, the privileges of each House were those of the **British House of Commons**, until Parliament defined them by law. The **44th (44वां संशोधन) Amendment** replaced that UK reference: privileges are now those existing on **20 June 1979**, until Parliament defines them by law. **No comprehensive codification** exists yet.
 
 - Every member has **freedom of speech** in the House (Art. 105(1)–(2)); that speech is **not actionable** in any court.
 - Every member is free from **arrest in civil cases** during the session and for **40 days before and after** it.
@@ -833,8 +833,8 @@ Originally, the privileges of each House were those of the **British House of Co
 - Each House has the right to **regulate its own internal proceedings**.
 - **True reports** of parliamentary proceedings are protected from action, a protection added by the **44th Amendment** after the *Searchlight* case.
 - Under Art. **122**, courts **shall not inquire** into parliamentary proceedings on the ground of **irregularity of procedure**.
-- In *Raja Ram Pal* (2007), the Supreme Court held that judicial review is **not entirely barred** where the proceeding is **without jurisdiction** or **mala fide**.
-- Parliamentary privileges are **not Fundamental Rights** — they are constitutional protections of the House as such.
+- In *Raja (राजा) Ram Pal* (2007), the Supreme Court held that judicial review is **not entirely barred** where the proceeding is **without jurisdiction** or **mala fide**.
+- Parliamentary privileges are **not Fundamental Rights (मौलिक अधिकार)** — they are constitutional protections of the House as such.
 - Speech **inside** the House is privileged; the **same speech repeated outside** the House is not.
 
 ---
@@ -844,14 +844,14 @@ Originally, the privileges of each House were those of the **British House of Co
 Neither office appears in the text of Arts. 79–122; the Leader of the Opposition is a **statutory** office.
 
 - The **Leader of the House** in the Lok Sabha is normally the **Prime Minister** himself.
-- If the Prime Minister sits in the Rajya Sabha, a **Cabinet Minister** is nominated as Leader of the House in the Lok Sabha.
+- If the Prime Minister sits in the Rajya Sabha, a **Cabinet Minister** (कैबिनेट मंत्री) is nominated as Leader of the House in the Lok Sabha.
 - In the Rajya Sabha, the Leader of the House is a **minister nominated by the Prime Minister**.
 - The Leader of the House is **not a constitutional office** in either case.
 - The **Leader of the Opposition** is a **statutory** office under the **Salary and Allowances of Leaders of Opposition in Parliament Act, 1977**.
 - The Leader of the Opposition is **recognised by the Speaker or Chairman**.
 - By convention, the Leader of the Opposition comes from the **largest opposition party**, which must have at least **10% of the House's strength**.
 - The Leader of the Opposition ranks roughly with a **Cabinet Minister**.
-- The Leader of the Opposition has a **seat on the Selection Committee** of bodies such as the **Lokpal, CVC, CIC, and NHRC**.
+- The Leader of the Opposition has a **seat on the Selection Committee** of bodies such as the **Lokpal (लोकपाल), CVC, CIC, and NHRC (राष्ट्रीय मानव अधिकार आयोग)**.
 
 ---
 
@@ -2627,7 +2627,7 @@ Which one of the following does not take a separate oath of office?
 A. President of India
 B. Vice-President of India
 C. Speaker of the Lok Sabha
-D. Comptroller and Auditor General of India
+D. Comptroller and Auditor General (नियंत्रक-महालेखापरीक्षक) of India
 
 <details>
 <summary>Show answer</summary>
@@ -2981,7 +2981,7 @@ D. Neelam Sanjiva Reddy
 <details>
 <summary>Show answer</summary>
 
-**Logic:** The first Lok Sabha met in 1952, and its first Speaker had earlier presided over the Constituent Assembly functioning as the legislative body.
+**Logic:** The first Lok Sabha met in 1952, and its first Speaker had earlier presided over the Constituent Assembly (संविधान सभा) functioning as the legislative body.
 
 **Ans: A. G. V. Mavalankar** was the first Speaker of the Lok Sabha.
 
@@ -3011,7 +3011,7 @@ The first Speaker of the Lok Sabha was:
 
 A. G. V. Mavalankar
 B. Hukam Singh
-C. Rabi Ray
+C. Rabi (रबी) Ray
 D. Shivraj Patil
 
 <details>
@@ -4857,7 +4857,7 @@ The Constitution never uses the word **“Budget”**. Art. **112** requires the
 
 **Charged vs Voted (Art. 112(3) / 113)**
 
-Expenditure **charged** on the Consolidated Fund is only **discussed**, and is **not put to the vote**. Voted expenditure is placed before the House as **Demands for Grants**, and only the **Lok Sabha** votes on it. The Lok Sabha may **assent to, refuse, or reduce** a demand, but it **cannot increase** a demand or touch a charged item.
+Expenditure **charged** on the Consolidated Fund is only **discussed**, and is **not put to the vote**. Voted expenditure (मतदेय) is placed before the House as **Demands for Grants**, and only the **Lok Sabha** votes on it. The Lok Sabha may **assent to, refuse, or reduce** a demand, but it **cannot increase** a demand or touch a charged item.
 
 **Charged on the CFI (learn the list)**
 - The **emoluments of the President** are charged expenditure.
@@ -4915,8 +4915,8 @@ Match List-I and List-II and choose the correct answer from the codes given belo
 | Code | Item |
 |------|------|
 | A | Consolidated Fund of India |
-| B | Finance Commission |
-| C | Financial Emergency |
+| B | Finance Commission (वित्त आयोग) |
+| C | Financial Emergency (वित्तीय आपात) |
 | D | Comptroller and Auditor General of India |
 
 **List-II**
@@ -4965,7 +4965,7 @@ D. A-1, B-2, C-3, D-4
 
 An Ordinary Bill may **originate in either House** and needs a simple majority of members **present and voting** in each. A deadlock between the Houses is resolved by a **joint sitting (Art. 108)**. The **President** may assent, withhold assent, or **return the Bill once**; if Parliament **repasses** it, the President **must** assent.
 
-- The **first reading** is the Bill's introduction, with the leave of the House; it is then published in the Gazette, and there is **no discussion** on its merits at this stage.
+- The **first reading (रीडिंग)** is the Bill's introduction, with the leave of the House; it is then published in the Gazette, and there is **no discussion** on its merits at this stage.
 - The **second reading** has two parts: first, a **general discussion**, during which the Bill may be sent to a **Select or Joint Committee** or circulated for public opinion; second, **clause-by-clause consideration**, when amendments are moved.
 - The **third reading** takes up the Bill **as a whole**, and only **verbal amendments** are allowed at this stage.
 - A Bill passed by one House then goes to the **other House**, which repeats the same three readings.
@@ -5099,7 +5099,7 @@ House tools for questions, urgency, and censure — **not** a second Bill proced
 - A No-Confidence Motion needs **no reasons** to be stated, unlike a censure motion.
 - It requires the support of **50 members** for admission, and **only one** such motion can be taken up at a time.
 - If a No-Confidence Motion is passed, the **entire Council of Ministers must resign**.
-- A **Confidence Motion** is moved by the **government itself**, seeking the Lok Sabha's confidence — typically after a coalition test or a floor-crossing scare.
+- A **Confidence Motion** is moved by the **government itself**, seeking the Lok Sabha's confidence — typically after a coalition (गठबंधन) test or a floor-crossing scare.
 - **Defeat** of a Confidence Motion also forces the Council of Ministers to **resign**.
 - A **Privilege Motion** alleges a **breach of privilege or contempt** by a member, a minister, or an outsider, and is usually referred to the **Privileges Committee**.
 - **Cut Motions** can be moved only on **Demands for Grants**, only in the **Lok Sabha**, and **not** on charged expenditure or on the Appropriation Bill.
@@ -5159,7 +5159,7 @@ Parliament has three **financial** committees. Members are **elected annually** 
 
 | | **PAC** | **Estimates Committee** | **COPU** |
 |--|---------|-------------------------|----------|
-| Born | **1921** (Montagu–Chelmsford; continued after 1950) | **1950** (John Mathai’s suggestion) | **1964** (on Krishna Menon’s suggestion) |
+| Born | **1921** (Montagu–Chelmsford; continued after 1950) | **1950** (John Mathai’s suggestion) | **1964** (on Krishna (कृष्णा) Menon’s suggestion) |
 | Strength | **22** = **15 LS + 7 RS** | **30 — all LS** (**no RS**) | **22** = **15 LS + 7 RS** |
 | Chair | LS member from the **Opposition** (convention since **1967**); appointed by the **Speaker** | Appointed by the **Speaker** from among members; usually **ruling** party | From LS (usually ruling); appointed by the Speaker |
 | CAG link | **Yes** — examines CAG’s audit reports (civil, defence, railways, autonomous bodies, revenue receipts) | **None** | **Yes** — CAG reports **on PSUs** + PSU accounts |
@@ -5257,7 +5257,7 @@ D. Contingency Fund of India
 <details>
 <summary>Show answer</summary>
 
-**Logic:** PAC’s core job is CAG audit reports and appropriation accounts — not control of the three funds as a treasury.
+**Logic:** PAC’s core job is CAG audit (कैग लेखापरीक्षा) reports and appropriation accounts — not control of the three funds as a treasury.
 
 **Ans: A.**
 
@@ -5290,12 +5290,12 @@ D. Committee on Petitions
 - Each DRSC has **31 members** — **21** from the Lok Sabha and **10** from the Rajya Sabha — serving a **one-year term**.
 - **No minister** can be a member of a DRSC.
 - **16** DRSCs work under the **Lok Sabha Speaker**, and **8** under the **Rajya Sabha Chairman**.
-- Example of a **Rajya Sabha** DRSC: **Health and Family Welfare**. Labour, Urban Development, and Social Justice & Empowerment are among those under the **Lok Sabha**.
+- Example of a **Rajya Sabha** DRSC: **Health and Family Welfare**. Labour, Urban (नगरीय) Development, and Social Justice & Empowerment are among those under the **Lok Sabha**.
 - DRSCs examine: (i) **Demands for Grants**, (ii) **Bills** referred to them by the Chair, (iii) **annual reports** of ministries, and (iv) **long-term policy documents**.
 - A DRSC **cannot suggest cut motions** and **cannot consider day-to-day administration**.
 - DRSC reports are **recommendatory**, not binding on the government.
 - DRSCs have effectively **replaced the old committee stage** for many Bills.
-- DRSCs (and ad hoc parliamentary committees) may also **review independent regulators** in sectors such as telecom, insurance, and electricity; bodies like the Finance Commission, NITI Aayog, or FSLRC are **not** the usual reviewers of those regulators.
+- DRSCs (and ad hoc parliamentary committees) may also **review independent regulators** in sectors such as telecom, insurance, and electricity; bodies like the Finance Commission, NITI (नीति) Aayog (नीति आयोग), or FSLRC are **not** the usual reviewers of those regulators.
 
 **Committees of enquiry / scrutinise & control**
 - **Committee on Petitions** — Lok Sabha **15**, Rajya Sabha **10**; a minister is **not** nominated; considers petitions presented to the House and related representations.
@@ -6239,7 +6239,7 @@ D. Without consent of any State
 
 **Q39. UPPCS (Re.)**
 
-Who has the power to legislate on residuary subjects?
+Who has the power to legislate on residuary (अवशिष्ट) subjects?
 
 A. State Legislatures
 B. Parliament
@@ -6249,7 +6249,7 @@ D. President acting alone
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Article 248 and Entry 97 of the Union List place residuary legislative power at the Union level.
+**Logic:** Article 248 and Entry 97 of the Union List (संघ सूची) place residuary legislative power at the Union level.
 
 **Ans: B.** Parliament possesses residuary legislative power.
 
@@ -6469,7 +6469,7 @@ D. Only 2
 <details>
 <summary>Show answer</summary>
 
-**Logic:** Article 108 governs joint sitting, and Article 368 requires separate passage by each House.
+**Logic:** Article 108 governs joint sitting, and Article 368 (अनुच्छेद 368) requires separate passage by each House.
 
 **Ans: B.** Neither statement is correct.
 

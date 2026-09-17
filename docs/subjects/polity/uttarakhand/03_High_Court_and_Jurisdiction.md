@@ -11,7 +11,7 @@
 ## Current Affairs (this topic)
 
 - Mobile e-court / digital justice news refreshes the 2025 twin-statement pattern.
-- Seat of the High Court stays **Nainital** (नैनीताल) — do not relocate it to Dehradun in seat stems.
+- Seat of the High Court stays **Nainital** (नैनीताल) — do not relocate it to Dehradun (देहरादून) in seat stems.
 
 ---
 
@@ -19,7 +19,7 @@
 
 | Head | Key |
 |------|-----|
-| High Court | **Uttarakhand High Court**, **Nainital** |
+| High Court | **Uttarakhand (उत्तराखंड) High Court**, **Nainital** |
 | Jurisdiction | Whole State; writs, appeals, supervisory jurisdiction over subordinate courts |
 | Mobile e-courts | Vans with courtroom + computer + printer + internet visit villages |
 | Purpose | Justice at the doorstep, especially **remote hill** areas |
