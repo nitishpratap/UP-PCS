@@ -3,7 +3,7 @@
 
 > **Exam Focus:** UPPSC Prelims (Paper 1), UKPSC Prelims (Paper 1), RO/ARO, BEO  
 > **Frequency:** Daily morning read (15–20 mins)  
-> **Question Types Covered:** Chronological ladders (1905–1947), Governor-Generals vs Reforms, 1857 leaders vs suppressors, Revolutionary organizations & conspiracy cases, British Education/Famine/Currency Commissions, British Treaties, INC sessions & presidents, Newspapers & Books.
+> **Question Types Covered:** Chronological ladders (1905–1947), Governor-Generals vs Reforms, 1857 leaders vs suppressors, Revolutionary organizations & conspiracy cases, British Education/Famine/Currency Commissions, British Treaties, INC sessions & presidents, Tribal & Peasant Movements, Newspapers, Journals & Editors, Famous Books & Authors.
 
 ---
 
@@ -386,3 +386,83 @@
 | ***Indian Unrest* (1910)** | **Valentine Chirol** | British journalist who branded **Bal Gangadhar Tilak as the "Father of Indian Unrest"** |
 | ***Gulamgiri* (1873)** | **Jyotirao Phule** | Dedicated to the American abolitionist movement against slavery |
 | ***Satyarth Prakash* (1875)** | **Swami Dayananda Saraswati** | Foundational Hindi treatise of Arya Samaj ("Light of Truth") |
+
+---
+
+## 13. Tribal & Peasant Movements Master Matrix (Chronological Ladder)
+
+### A. Tribal Uprisings (Direct Match & Chronology)
+| Tribal Movement / Revolt | Period / Year | Region / Hills | Key Leaders | Cause / Colonial Policy Opposed |
+|---|---|---|---|---|
+| **Chuar / Paik Rebellion** | **1766–1816** | Midnapore & Bankura (Bengal) | **Durjan Singh**, Jagannath Singh | Enhanced land revenue, famine, resumption of Paikan rent-free lands |
+| **Bhil Uprisings** | **1818–1831** | Khandesh & Western Ghats (Maha/Gujarat) | **Sewaram**; later **Govind Guru** (Bhagat Movement at Mangarh) | British occupation of Khandesh, forest rights curtailment |
+| **Ramosi Uprising** | **1822–1829** | Western Ghats (Satara, Maharashtra) | **Chittur Singh** & **Umaji Naik** | Heavy land revenue assessment and British annexation of Maratha lands |
+| **Ahom Revolt** | **1828** | Assam | **Gomdhar Konwar** & Dhananjay Borgohain | Non-fulfillment of British pledge to vacate Assam after First Anglo-Burmese War |
+| **Khasi Uprising** | **1829–1833** | Khasi & Jaintia Hills (Meghalaya) | **Tirot Singh** & Bar Manik | British construction of military road linking Brahmaputra & Surma valleys through Khasi territory |
+| **Kol Uprising** | **1831–1832** | Chhotanagpur (Ranchi, Singhbhum, Hazaribagh) | **Buddho Bhagat**, Madara Mahato, Jhindrai Manki | Transfer of tribal lands to non-tribal outsider merchants and moneylenders (*Dikus*) |
+| **Khond Uprising** | **1837–1856** | Ghumsur, Kalahandi, Chinna Kimedi (Odisha) | **Chakra Bisoi** | British banning of traditional human sacrifice ritual (**Meriah**) and high land revenue |
+| **Santhal Hool (Rebellion)** | **1855–1856** | **Damin-i-Koh** (Rajmahal Hills, Bihar/Jharkhand) | **Sidhu, Kanhu, Chand, and Bhairav** (four brothers) | Oppression by *Dikus* (traders & moneylenders), police corruption; carved out Santhal Parganas district |
+| **Munda Ulgulan (Great Tumult)** | **1899–1900** | Chhotanagpur (Ranchi, Khunti, Jharkhand) | **Birsa Munda ("Dharti Aaba" — Father of Earth)** | Erosion of traditional joint landholding (**Khuntkatti system**) by landlords & missionaries; led to Chotanagpur Tenancy Act 1908 |
+| **Tana Bhagat Movement** | **1914** | Chhotanagpur (Jharkhand) | **Jatra Bhagat**, Turia Bhagat | Monotheistic reform movement; aligned with Gandhi's Non-Cooperation and non-violent satyagraha |
+| **Kuki Revolt** | **1917–1919** | Manipur Hills | Kuki chiefs | British labour recruitment during WWI and interference in tribal self-governance |
+| **Rampa Rebellion (Manyam)** | **1922–1924** | Rampa (Godavari Agency, Andhra Pradesh) | **Alluri Sitarama Raju ("Manyam Veerudu" — Hero of the Jungle)** | Protest against Madras Forest Act 1882 banning Podu (shifting cultivation); guerrilla warfare |
+| **Zeliangrong / Naga Movement**| **1930s** | Manipur & Nagaland | **Haipou Jadonang** & **Rani Gaidinliu** | Heraka religious movement; opposed British rule and missionary conversion; Rani jailed until 1947 |
+
+### B. Peasant & Civil Movements (18th to 20th Century)
+| Movement / Struggle | Year / Period | Region / State | Key Leaders | Crucial Historical Fact / Outcome |
+|---|---|---|---|---|
+| **Sanyasi & Fakir Rebellion** | **1763–1800** | Bengal | **Majnum Shah, Chirag Ali, Bhavani Pathak, Devi Chaudhurani** | Triggered by famine of 1770 and harsh tax collection; inspired Bankim Chandra's ***Anandamath* and *Devi Chaudhurani*** |
+| **Paika Rebellion** | **1817** | Khurda (Odisha) | **Bakshi Jagabandhu** (military chief of King of Khurda) | Abolition of cowrie currency, rent-free service land confiscation, salt tax; recognized as early uprising |
+| **Wahabi Movement** | **1820s–1870s** | Rae Bareli (UP) → Patna (Bihar) | **Syed Ahmad Barelvi** | Islamic revivalist anti-British movement; established operational base at Sittana (NW Frontier) |
+| **Faraizi Movement** | **1838–1857** | Faridpur (East Bengal) | **Haji Shariatullah** & son **Dudu Miyan** | Peasant mobilization against British and Hindu zamindars; Dudu Miyan proclaimed land belongs to God |
+| **Indigo Revolt (Neel Bidroha)** | **1859–1860** | Nadia & Jessore (Bengal) | **Digambar Biswas** & **Bishnu Charan Biswas** | Peasants refused to sow indigo under coercive Ryoti system; chronicled in Dinabandhu Mitra's play ***Neel Darpan***; backed by Harish Chandra Mukherjee's *Hindu Patriot*; Indigo Commission set up in 1860 |
+| **Pabna Agrarian League** | **1873–1876** | Pabna (East Bengal) | **Ishan Chandra Roy**, Sambhunath Pal, Khoodi Mollah | Peaceful legal struggle against illegal zamindari exactions; slogan: *"We want to be the ryots of Her Majesty the Queen"*; led to Bengal Tenancy Act 1885 |
+| **Deccan Riots** | **1875** | Pune, Ahmednagar (Maharashtra) | Local ryots | Social boycott & burning of debt-bonds against Gujarati & Marwari moneylenders; led to **Deccan Agriculturists' Relief Act 1879** |
+| **Champaran Satyagraha** | **1917** | Champaran (Bihar) | **Mahatma Gandhi**, Raj Kumar Shukla, Rajendra Prasad, J.B. Kripalani | First Civil Disobedience in India; protested against oppressive **Tinkathia system** (mandatory 3/20th indigo cultivation); Tinkathia abolished, 25% compensation refunded |
+| **Kheda Satyagraha** | **1918** | Kheda (Gujarat) | **Mahatma Gandhi** & **Vallabhbhai Patel** | First Non-Cooperation; crop failure entitled peasants to remission under revenue code; revenue collection suspended |
+| **UP Kisan Sabha** | **1918 (Feb)** | United Provinces (UP) | **Gauri Shankar Mishra, Indra Narayan Dwivedi**, supported by **Madan Mohan Malaviya** | Mobilized peasantry against arbitrary ejectments and illegal cesses (*Nazrana*) |
+| **Awadh Kisan Sabha** | **1920 (Oct)** | Pratapgarh (UP) | **Baba Ramchandra**, Jawaharlal Nehru, Mata Badal Pande | Mass peasant gathering at Ayodhya; opposed Bedakhli (eviction) and forced labour |
+| **Eka Movement (Unity Movement)** | **1921–1922** | Northern Awadh (Hardoi, Bahraich, Sitapur - UP) | **Madari Pasi** | Radical grassroots peasant movement; refused to pay more than recorded rent; resisted eviction |
+| **Moplah (Mapilla) Rebellion** | **1921** | Malabar (Kerala) | **Variyankunnath Kunjahammed Haji**, Ali Musliyar | Muslim tenant cultivators revolted against oppressive upper-caste Hindu Janmis (landlords) and British police; merged with Khilafat; turned communal |
+| **Bardoli Satyagraha** | **1928** | Surat (Gujarat) | **Vallabhbhai Patel** | Massive non-violent tax strike against arbitrary **22% enhancement** of land revenue; revenue reduced to 6.03%; **women of Bardoli gave Vallabhbhai the title "Sardar"** |
+| **All India Kisan Sabha (AIKS)** | **April 1936**, Lucknow (UP) | **Swami Sahajanand Saraswati** (President), **N.G. Ranga** (General Secretary) | First national peasant federation; session held alongside Lucknow Congress; Kisan Manifesto drafted; Indulal Yagnik edited *Kisan Bulletin* |
+| **Tebhaga Movement** | **1946–1947** | North Bengal (Dinajpur, Rangpur) | **Kisan Sabha (Bengal)**, Charu Majumdar, Kansari Halder | Sharecroppers (*Bargadars*) demanded retention of **two-thirds (2/3rd)** of harvest instead of traditional half (1/2); based on Floud Commission recommendation |
+| **Telangana Peasant Struggle** | **1946–1951** | Hyderabad State (Telangana) | Communist Party of India (Sundarayya, Ravi Narayan Reddy) | Armed peasant insurrection against feudal landlords (*Doras*) and the oppressive **Vetti** (forced labour) system of the Nizam and Razakars |
+
+---
+
+## 14. Newspapers, Journals & Their Editors / Founders
+
+| Newspaper / Journal Title | Language | Year & Place | Founder / Chief Editor | Landmark Historical Significance |
+|---|---|---|---|---|
+| ***Bengal Gazette* (*Hicky's Gazette*)** | English | **1780**, Calcutta | **James Augustus Hicky** | **FIRST NEWSPAPER PRINTED IN INDIA**; seized by British in 1782 for attacking Warren Hastings |
+| ***Sambad Kaumudi*** | Bengali | **1821**, Calcutta | **Raja Rammohan Roy** | Campaigned actively for the abolition of Sati |
+| ***Mirat-ul-Akhbar*** | **Persian** | **1822**, Calcutta | **Raja Rammohan Roy** | **First Persian journal in India**; shut down in protest against John Adam's Licensing Regulations 1823 |
+| ***Banga-Duta*** | Multi-lingual | 1822, Calcutta | **Raja Rammohan Roy** & Dwarakanath Tagore | Published in 4 languages: English, Bengali, Persian, Hindi |
+| ***Rast Goftar* (*Truth Teller*)** | Gujarati | **1851**, Bombay | **Dadabhai Naoroji** & Naoroji Furdunji | Voice of the Parsi social and religious reform movement |
+| ***Som Prakash*** | Bengali | **1858**, Calcutta | **Ishwar Chandra Vidyasagar** & Dwarkanath Vidyabhushan | Championed indigo cultivators; first newspaper targeted under Lytton's **Vernacular Press Act 1878** |
+| ***The Hindu*** | English | **1878**, Madras | **G. Subramaniya Aiyer**, M. Veeraraghavachariar | Started as a weekly by the *Triplicane Six*; premier national daily of South India |
+| ***Swadesamitran*** | Tamil | 1882, Madras | **G. Subramaniya Aiyer** | First Tamil language daily newspaper in India |
+| ***Kesari* & *The Mahratta*** | Marathi (*Kesari*) & English (*Mahratta*) | **1881**, Pune | **Bal Gangadhar Tilak** (initially Agarkar edited Kesari, Kelkar edited Mahratta) | Mouthpiece of militant nationalism; Tilak arrested for sedition in 1897 and 1908 based on Kesari articles |
+| ***The Bengalee*** | English | 1879, Calcutta | **Surendranath Banerjee** | Leading moderate organ; fiercely opposed Partition of Bengal 1905 |
+| ***Amrita Bazar Patrika*** | Bengali → English | **1868**, Jessore/Calcutta | **Sisir Kumar Ghosh** & **Motilal Ghosh** | **Overnight switched language from Bengali to English** to escape the Vernacular Press Act 1878! |
+| ***Sudharak* (*Reformer*)** | English & Marathi | 1888, Pune | **Gopal Ganesh Agarkar** (assisted by G.K. Gokhale) | Radical social reform journal advocating rationalism and women's rights |
+| ***Voice of India*** | English | 1883, Bombay | **Dadabhai Naoroji** | Propounded economic drain of wealth |
+| ***Bande Mataram*** | English | **1905**, Calcutta | **Bipin Chandra Pal** (founder), edited by **Sri Aurobindo Ghosh** | Revolutionary nationalist organ during the Swadeshi Movement |
+| ***Yugantar*** | Bengali | **1906**, Calcutta | **Barindra Kumar Ghosh** & **Bhupendranath Dutta** | Revolutionary journal linked to Anushilan Samiti; advocated armed uprising |
+| ***The Indian Sociologist*** | English | **1905**, London | **Shyamji Krishna Varma** | Revolutionary monthly from India House London |
+| ***Bande Mataram* (Geneva/Paris)** | English | 1909, Paris | **Madam Bhikaji Cama** | Published from exile; smuggled into India |
+| ***Al-Hilal* & *Al-Balagh*** | Urdu | **1912 / 1915**, Calcutta | **Maulana Abul Kalam Azad** | Advocated Hindu-Muslim unity and composite nationalism; banned under Press Act 1914 |
+| ***Comrade* (English) & *Hamdard* (Urdu)** | English & Urdu | 1911, Calcutta / Delhi | **Maulana Mohammad Ali Jauhar** | Promoted pan-Islamic and anti-colonial causes during Khilafat movement |
+| ***Pratap*** | Hindi | **1913**, Kanpur (UP) | **Ganesh Shankar Vidyarthi** | Famous revolutionary Hindi weekly; highlighted Bijolia peasant movement and freedom struggle |
+| ***New India* & *Commonweal*** | English | **1914 / 1915**, Madras | **Annie Besant** | Mouthpieces of the **Home Rule League** movement |
+| ***Young India* & *Navjivan*** | English & Gujarati | **1919**, Ahmedabad | **Mahatma Gandhi** | Primary journals during the Non-Cooperation and Khilafat era |
+| ***Harijan*** (also *Harijan Bandhu, Harijan Sevak*) | English, Gujarati, Hindi | **1933**, Poona | **Mahatma Gandhi** | Launched after Poona Pact; dedicated to anti-untouchability work and Harijan upliftment |
+| ***Indian Opinion*** | Multi-lingual | **1903**, South Africa | **Mahatma Gandhi** & Mansukhlal Nazar | Printed at Phoenix Settlement; organ of passive resistance in South Africa |
+| ***The Independent*** | English | **1919**, Allahabad (UP) | **Motilal Nehru** | Founded to counter the moderate *Pioneer* of Allahabad |
+| ***National Herald*** | English | **1938**, Lucknow (UP) | **Jawaharlal Nehru** | Leading nationalist daily of the United Provinces |
+| ***Mooknayak* (*Leader of the Voiceless*)** | Marathi | **1920**, Bombay | **Dr. B.R. Ambedkar** (aided by Shahu Maharaj of Kolhapur) | Fortnightly championing Dalit rights |
+| ***Bahishkrit Bharat*** | Marathi | **1927**, Bombay | **Dr. B.R. Ambedkar** | Organ of the Bahishkrit Hitakarini Sabha; crusade for Mahad Satyagraha |
+| ***Karmyogi*** | Hindi | Allahabad (UP) | **Pandit Sundarlal** | Nationalist publication in UP |
+| ***Kudi Arasu* (*Republic*)** | Tamil | **1925**, Erode | **E.V. Ramasamy Naicker (Periyar)** | Mouthpiece of the **Self-Respect Movement** in Tamil Nadu |
+

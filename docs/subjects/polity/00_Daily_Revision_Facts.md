@@ -3,7 +3,7 @@
 
 > **Exam Focus:** UPPSC Prelims (Paper 1), UKPSC Prelims (Paper 1), RO/ARO, BEO  
 > **Frequency:** Daily morning read (15–20 mins)  
-> **Question Types Covered:** Direct Article numbers, Schedules & Parts, Borrowed features, Warrant of Precedence, Parliamentary terms & committees, Constitutional vs Statutory Bodies, Amendments, Landmark SC Judgments, Panchayati Raj Committees, State-specific seats.
+> **Question Types Covered:** Direct Article numbers, Schedules & Parts, Borrowed features, Writs (Habeas Corpus, Mandamus, Certiorari), Constituent Assembly Committees, Warrant of Precedence, Parliamentary terms & committees, Constitutional vs Statutory Bodies, Amendments, Landmark SC Judgments, Panchayati Raj Committees, Center-State Commissions, State-specific seats.
 
 ---
 
@@ -350,3 +350,81 @@
 |---|---|---|---|---|---|
 | **Uttar Pradesh** | **403 seats** (SC: 84, ST: 2) | **100 seats** (Bicameral!) | **80 seats** (Highest in India; SC reserved: 17, ST: 0) | **31 seats** (Highest in India) | **Allahabad High Court** (Established 1866 at Agra, shifted to Allahabad 1869; Lucknow Bench created 1948) |
 | **Uttarakhand** | **70 seats** (SC: 13, ST: 2) | **Unicameral** (No Council) | **5 seats** (Tehri, Garhwal, Almora - SC, Haridwar, Nainital-US Nagar) | **3 seats** | **Uttarakhand High Court** (Established 9 Nov 2000 at Nainital; shifting to Haldwani approved) |
+
+---
+
+## 15. The Five Types of Writs (Articles 32 & 226)
+
+*Power to issue prerogative writs: Supreme Court (**Article 32** — only for Fundamental Rights) and High Courts (**Article 226** — for Fundamental Rights AND ordinary legal rights; HC writ jurisdiction is wider than SC!)*
+
+| Writ Name | Literal Latin Meaning | Purpose & Grounds for Issue | Against Whom Issued | Exceptions (Cannot be Issued Against) |
+|---|---|---|---|---|
+| **Habeas Corpus** (बन्दी प्रत्यक्षीकरण) | **"To have the body of"** | Remedy against **unlawful detention or illegal custody**; court orders the detaining authority to produce the detained person before it to examine legality of detention | **Both Public Authorities and Private Individuals** | 1. Detention is lawful  <br>2. Proceeding is for contempt of court/legislature  <br>3. Detention is by competent court  <br>4. Outside court's territorial jurisdiction |
+| **Mandamus** (परमादेश) | **"We Command"** | Order issued to a public official/body directing them to **perform an official public duty** which they have failed or refused to perform | **Public officials, Public Corporations, Inferior Courts, Tribunals, Government** | 1. **Private individuals or private bodies**  <br>2. Discretionary duties (not mandatory)  <br>3. To enforce private contracts  <br>4. **President of India or State Governors** (Art. 361)  <br>5. Chief Justice of HC acting in judicial capacity |
+| **Prohibition** (प्रतिषेध) | **"To Forbid"** | Issued by a higher court to a lower court/tribunal to **prevent it from exceeding its jurisdiction** or usurping a jurisdiction not vested in it; preventive in nature | **Judicial and Quasi-Judicial Authorities only** | Administrative authorities, legislative bodies, and private individuals/bodies |
+| **Certiorari** (उत्प्रेषण) | **"To be Certified" / "To be Informed"** | Issued by a higher court to a lower court/tribunal to **quash an order already passed** in excess of jurisdiction, lack of jurisdiction, or violation of natural justice; both **preventive and curative** | **Judicial, Quasi-Judicial, and Administrative Authorities** (SC expanded to administrative bodies in 1991) | Legislative bodies and private individuals/bodies |
+| **Quo-Warranto** (अधिकार-पृच्छा) | **"By What Authority or Warrant"** | Issued to enquire into the **legality of the claim of a person to a public office**; prevents illegal usurpation of a substantive public office | **Substantive Public Offices of a permanent nature created by statute/Constitution** | Ministerial offices (PM/Minister), private offices.  <br>*(Can be sought by ANY interested person, not necessarily the aggrieved party!)* |
+
+---
+
+## 16. Constituent Assembly Committees & Drafting Committee Members
+
+### A. Major Committees & Their Chairpersons (High-Frequency Match)
+| Committee Name | Chairperson | Scope & Responsibility |
+|---|---|---|
+| **Drafting Committee** (प्रारूप समिति) | **Dr. B.R. Ambedkar** | Prepared the draft of the Constitution; appointed on **29 August 1947** |
+| **Union Powers Committee** | **Jawaharlal Nehru** | Defined the extent of Union legislative authority |
+| **Union Constitution Committee** | **Jawaharlal Nehru** | Drafted structure of the Union Executive and Parliament |
+| **States Committee (Committee for Negotiating with States)** | **Jawaharlal Nehru** | Negotiations with Princely States |
+| **Provincial Constitution Committee** | **Sardar Vallabhbhai Patel** | Drafted structure of State Governors and Legislatures |
+| **Advisory Committee on Fundamental Rights, Minorities & Tribal Areas** | **Sardar Vallabhbhai Patel** | Apex advisory body with 5 sub-committees:  <br>• *Fundamental Rights Sub-Committee*: **J.B. Kripalani**  <br>• *Minorities Sub-Committee*: **H.C. Mukherjee**  <br>• *North-East Frontier Tribal Areas*: **Gopinath Bardoloi**  <br>• *Excluded & Partially Excluded Areas*: **A.V. Thakkar** |
+| **Rules of Procedure Committee** | **Dr. Rajendra Prasad** | Formulated rules for conduct of assembly business |
+| **Steering Committee** | **Dr. Rajendra Prasad** | Steered legislative agenda and debates |
+| **Ad-hoc Committee on the National Flag** | **Dr. Rajendra Prasad** | Adopted the National Flag on **22 July 1947** |
+| **Order of Business Committee** | **Dr. K.M. Munshi** | Scheduled daily proceedings |
+
+### B. The 7 Members of the Drafting Committee (Must-Memorize List)
+*Set up on **29 August 1947** under the chairmanship of **Dr. B.R. Ambedkar**:*
+
+1. **Dr. B.R. Ambedkar** (Chairman)
+2. **N. Gopalaswami Ayyangar**
+3. **Alladi Krishnaswamy Iyer**
+4. **Dr. K.M. Munshi** (Only original Congress politician member)
+5. **Syed Mohammad Saadulla** (Only Muslim League member)
+6. **N. Madhava Rau** (Replaced **B.L. Mitter** who resigned due to ill-health)
+7. **T.T. Krishnamachari** (Replaced **D.P. Khaitan** who died in 1948)
+
+> **Constitutional Adviser**: **Sir B.N. Rau** (prepared original constitutional draft).  
+> **Chief Draftsman**: **S.N. Mukherjee**.  
+> **Calligrapher of English text**: **Prem Behari Narain Raizada** (flowery italic style).  
+> **Illuminator / Decorator**: **Nandalal Bose** and **Beohar Rammanohar Sinha** (Santiniketan artists).  
+> **Hindi Calligrapher**: **Vasant Krishan Vaidya** (decorated by Nandalal Bose).
+
+---
+
+## 17. Center-State Relations & Inter-State River Water Dispute Tribunals
+
+### A. Major Commissions on Center-State Relations
+| Commission / Committee | Year | Appointed By / State | Key Recommendations / Landmark Findings |
+|---|---|---|---|
+| **Administrative Reforms Commission (ARC-I)** | **1966** | Central Govt (Morarji Desai → K. Hanumanthaiah) | Recommended setting up of an **Inter-State Council under Article 263**; non-partisan Governors |
+| **Rajamannar Committee** | **1969** | **Tamil Nadu Govt** (DMK, Dr. P.V. Rajamannar) | Strongly advocated State Autonomy; recommend immediate deletion of **Articles 356 and 365**; vesting residuary powers in States; abolishing All-India Services (IAS/IPS) |
+| **Anandpur Sahib Resolution** | **1973** | Akali Dal (Punjab) | Demanded restriction of Central jurisdiction strictly to **Defence, Foreign Affairs, Currency, and Communications** |
+| **West Bengal Memorandum** | **1977** | Left Front Govt (WB) | Demanded word "Union" be replaced by "Federation"; 75% of central revenues to states |
+| **Sarkaria Commission** | **1983–1987** | Central Govt (Justice **R.S. Sarkaria**, B. Sivaraman, Dr. S.R. Sen) | **MOST INFLUENTIAL COMMISSION**:  <br>1. **Article 356 must be used sparingly, only as a measure of last resort**  <br>2. Institutionalize **Inter-State Council** under Art. 263 (established 1990)  <br>3. Governor should be an eminent person from outside the state, detached from active politics, appointed after consulting CM  <br>4. Opposed abolishing All-India Services, advocated strengthening them  <br>5. Residuary legislative powers should remain with Centre (except taxation) |
+| **Punchhi Commission** | **2007–2010** | Central Govt (Justice **M.M. Punchhi**) | 1. Localized emergency (targeted under Art. 355/356 without dissolving state assembly)  <br>2. Governor's tenure: fixed 5 years, removal only through impeachment by State Legislature  <br>3. Governor should not be Chancellor of state universities |
+
+### B. Inter-State River Water Disputes (Article 262)
+*Inter-State River Water Disputes Act 1956 empowers Central Govt to set up ad-hoc tribunals; jurisdiction of Supreme Court is barred:*
+
+| Water Dispute Tribunal | Year Set Up | Riparian States Involved in Dispute |
+|---|---|---|
+| **Krishna Water Dispute Tribunal I & II** | 1969 / 2004 | Maharashtra, Karnataka, Andhra Pradesh, Telangana |
+| **Godavari Water Dispute Tribunal** | 1969 | Maharashtra, Andhra Pradesh, MP, Chhattisgarh, Odisha, Karnataka |
+| **Narmada Water Dispute Tribunal** | 1969 | Gujarat, Madhya Pradesh, Maharashtra, Rajasthan |
+| **Ravi & Beas Water Dispute Tribunal** | 1986 | Punjab, Haryana, Rajasthan |
+| **Cauvery Water Dispute Tribunal** | 1990 | Tamil Nadu, Karnataka, Kerala, Puducherry |
+| **Mahadayi (Mandovi) Tribunal** | 2010 | Goa, Karnataka, Maharashtra |
+| **Vansadhara Water Dispute Tribunal** | 2010 | Odisha and Andhra Pradesh |
+| **Mahanadi Water Dispute Tribunal** | 2018 | Chhattisgarh and Odisha |
+

@@ -3,7 +3,7 @@
 
 > **Exam Focus:** UPPSC Prelims (Paper 1), UKPSC Prelims (Paper 1), RO/ARO, BEO  
 > **Frequency:** Daily morning read (15–20 mins)  
-> **Question Types Covered:** Diwan-i-X departments, Foreign travelers vs Kings, Battle chronological order, Medieval Monuments & Architectural Milestones, Medieval Literature & Authors, Bhakti & Sufi saints vs Philosophies, Shivaji's Ashtapradhan, Medieval Taxes (Jizya, Zakat, Khams, Kharaj).
+> **Question Types Covered:** Diwan-i-X departments & Sultanate officers, Mughal administrative hierarchy (Mir Bakhshi, Mir Saman), Land classification (Polaj, Parauti), Revenue systems (Zabt/Dahsala, Batai), Mansabdari & Jagirdari (Zat/Sawar, Du-aspa), Vijayanagara Nayankara & Ayagar systems, Foreign travelers vs Kings, Battle chronological order, Medieval Monuments & Architectural Milestones, Medieval Literature & Authors, Bhakti & Sufi saints vs Philosophies, Shivaji's Ashtapradhan, Medieval Taxes (Jizya, Zakat, Khams, Kharaj).
 
 ---
 
@@ -83,6 +83,25 @@ Imperial high point **1526–1707**; the house on paper lasts to **1857**.
 | **Muhtasib** | **Censor of Public Morals & Inspector of Weights/Measures** | Alauddin / Firoz / Aurangzeb | Muhtasib |
 | **Dar-ul-Shafa** | **Free Royal Charitable Hospital** | Built by **Firoz Shah Tughlaq** | Hakims |
 
+### 2B. Delhi Sultanate Territorial & Local Administrative Hierarchy
+
+```
+Iqta / Wilayat (Province) ──► Shiq (District) ──► Pargana (Sub-district) ──► Deh / Gram (Village)
+[Head: Muqti / Wali]          [Head: Shiqdar]     [Head: Amil / Mushrif]     [Head: Muqaddam / Khut]
+```
+
+| Administrative Unit | Heading Officer / Functionary | Nature of Authority / Duties |
+|---|---|---|
+| **Iqta / Wilayat** (Province) | **Muqti / Wali / Naib Sultan** | Maintained law & order, commanded provincial troops, collected revenue, remitted surplus (*Fawazil*) to Centre |
+| **Shiq** (District) | **Shiqdar** | Head of executive and military administration of the district |
+| **Pargana** (Sub-district) | **Amil / Mushrif** | Assessed and collected agricultural revenue from villages |
+| **Pargana Accounts** | **Karkun / Nawisinda** | Scribe and accountant maintaining land registers in Persian and Hindi |
+| **Pargana Treasury** | **Fotadar / Khazandar** | Custodian of the local treasury and cash receipts |
+| **Deh / Gram** (Village) | **Muqaddam / Mandal** | Village headman; collected land revenue from peasants |
+| **Village Landed Elite** | **Khut** | Rich peasant / hereditary village landlord (Alauddin stripped their privileges) |
+| **Village Official** | **Patwari** | Maintained village land survey and revenue assessment registers |
+| **Village Group Leader** | **Chaudhari** | 100-village leader acting as intermediary between state and villages |
+
 ---
 
 ## 3. Medieval Indian Architecture & Monuments Chronology
@@ -141,8 +160,9 @@ Imperial high point **1526–1707**; the house on paper lasts to **1857**.
 
 ---
 
-## 5. Medieval Taxes & Economic Terms
+## 5. Medieval Administration, Taxes & Agrarian Revenue Systems
 
+### A. Delhi Sultanate Taxes & Core Economic Terms
 - **Jizya**: Religious protection tax levied on non-Muslim subjects (*Zimmis*):
   - First levied in India by **Muhammad bin Qasim** in Sindh (712 CE).
   - First levied on **Brahmins** as a separate category by **Firoz Shah Tughlaq**.
@@ -157,7 +177,110 @@ Imperial high point **1526–1707**; the house on paper lasts to **1857**.
 - **Haqq-i-Sharb**: **Irrigation tax** (levied at **10% of gross produce**) introduced by **Firoz Shah Tughlaq** on peasants using state-constructed canals.
 - **Chari & Ghari**: Taxes introduced by **Alauddin Khalji** — *Chari* was grazing tax on milch cattle; *Ghari* was tax on residential houses.
 - **Iqta System**: Reorganized and formalized by **Iltutmish**; assignment of land revenue of a territorial tract to nobles/commanders (*Iqtadars / Muqtis / Walis*) in lieu of cash salary, responsible for maintaining troop quotas and remitting surplus (*Fawazil*) to the central treasury.
+- **Fawazil**: Excess balance of revenue remitted to the imperial central treasury by an Iqtadar/Muqti after meeting local administrative and military expenses.
+- **Sondhar / Taccavi**: Emergency agricultural loans given by state to farmers during famine or distress (pioneered by **Muhammad bin Tughlaq** under Diwan-i-Kohi).
 - **Karkhanas**: Royal manufacturing workshops; categorized into *Rikabi* (movable/travel) and *Ratibi* (fixed allowances); Firoz Shah Tughlaq maintained 36 giant royal Karkhanas.
+
+### B. Mughal Administrative Hierarchy & Key Officers
+
+```
+Subah (Province) ────────► Sarkar (District) ────────► Pargana (Sub-district) ────► Deh / Gram (Village)
+[Subahdar & Diwan]        [Faujdar & Amil]            [Shiqdar & Amin]             [Muqaddam & Patwari]
+```
+
+#### 1. Central Administration Officers
+| Official Designation | Administrative Portfolio / Key Authority | Core Exam Triggers |
+|---|---|---|
+| **Wazir / Diwan-i-Ala** | **Prime Minister & Head of Revenue / Finance** | Controlled revenue assessment, imperial treasury, expenditure, and provincial Diwans |
+| **Mir Bakhshi** | **Head of Military Department & Intelligence** | Maintained muster rolls, inspected troops and horses (*Dagh*), issued pay certificates (**Sarkhat**) to Mansabdars |
+| **Mir Saman / Khan-i-Saman** | **Head of Imperial Household & Karkhanas** | In charge of royal court provisions, imperial stores, internal palace management, state workshops |
+| **Sadr-us-Sudur** | **Chief Minister of Religious Affairs & Charities** | Administered tax-free land grants (*Madad-i-Maash / Suyurghal*), religious endowments, and Islamic law |
+| **Qazi-ul-Quzat** | **Chief Justice of the Empire** | Highest judicial officer below Emperor; usually held simultaneously by Sadr-us-Sudur |
+| **Muhtasib** | **Censor of Public Morals & Inspector of Weights** | Checked gambling, wine consumption, maintained correct weights/measures, verified Islamic practices |
+| **Mir Atish / Darogha-i-Topkhana** | **Chief of Imperial Artillery** | Controlled manufacture, storage, and deployment of cannon topkhana; guarded imperial palace |
+| **Mir Barr** | **Superintendent of Forests and River Navigation** | Maintained imperial boats, timber extraction, royal river flotilla |
+| **Waqia-Nawis / Sawani-Nigar** | **Imperial News-Reporters & Intelligence Scribes** | Sent confidential intelligence reports from provinces directly to Emperor through Mir Bakhshi |
+
+#### 2. Provincial, District & Local Officers
+| Unit | Officer Designation | Function & Authority |
+|---|---|---|
+| **Subah** (Province) | **Subahdar / Sipahsalar** | Governor of the Subah; commanded provincial army, maintained law and order |
+| | **Provincial Diwan** | Independent financial head; reported directly to Central Wazir (kept check on Subahdar) |
+| | **Provincial Bakhshi** | Maintained muster rolls of provincial mansabdars; acted as chief postal scout (*Waqia-Navis*) |
+| | **Kotwal** | Police chief of the provincial capital; head of city surveillance, night patrol, and crime |
+| **Sarkar** (District) | **Faujdar** | Executive and military head of Sarkar; suppressed rebellions, assisted Amil in revenue recovery |
+| | **Amil / Amal-Guzar** | **Chief Revenue Collector & Assessor** of the district; assisted peasants, assessed crops |
+| | **Bitikchi** | Chief scribe and accountant of Sarkar; prepared land and revenue assessment records |
+| | **Khazandar** | District treasurer receiving collections from Parganas |
+| **Pargana** (Sub-district)| **Shiqdar** | Executive and police officer of Pargana; maintained peace and assisted revenue collection |
+| | **Amil / Amin** | Revenue assessor and collector at Pargana level |
+| | **Fotadar** | Treasurer of Pargana |
+| | **Qanungo** | Hereditary keeper of agrarian revenue records, land measurements, and local customs |
+| **Gram / Deh** (Village) | **Muqaddam / Mandal** | Hereditary village headman; collected land revenue from peasants (received 2.5% commission) |
+| | **Patwari** | Village accountant; maintained village revenue registers (*Bahi*) |
+
+### C. Mughal Land Classification (Cultivation Frequency)
+*Categorized in the **Ain-i-Akbari** based on continuous cultivation:*
+
+| Land Category | Frequency of Cultivation | Quality / Revenue Status |
+|---|---|---|
+| **Polaj** (पोलज) | Cultivated **annually and continuously** for each harvest; never allowed to lie fallow | Best quality, most fertile agricultural land; assessed at full revenue |
+| **Parauti** (परौती) | Left **fallow for 1 or 2 years** to recover soil fertility naturally | Second grade; paid full Polaj rate when brought back under the plough |
+| **Chachar** (चाचर) | Left **uncultivated / fallow for 3 or 4 years** | Third grade; assessed at lower progressive tax rate to encourage reclamation |
+| **Banjar** (बंजर) | Uncultivated and barren for **5 or more years** | Lowest grade; charged minimal nominal cess to promote cultivation |
+
+### D. Mughal Revenue Assessment Methods
+
+| System Name | Also Known As | Key Architect / Monarch | Working Mechanism / Key Exam Facts |
+|---|---|---|---|
+| **Zabt / Ain-i-Dahsala** | **Todar Mal's Bandobast** | **Raja Todar Mal** under **Akbar (1580 / 24th regnal year)** | Average produce and average market prices of the preceding **10 years (1570–1580)** calculated; state share fixed at **1/3rd (33.3%)** payable in cash. Measured land using **Tanab** (bamboo sticks connected by iron rings replacing hemp ropes) and standardized **Gaz-i-Ilahi** (41 anguls/digits = ~33 inches). Applied across core provinces (North India & Gujarat). |
+| **Ghalla-Bakhshi / Batai** | Crop-sharing / Bhaoli | Traditional system across India | Physical division of the harvested crop between state and peasant: <br>1. *Khet-batai*: Division of standing crop in the field before harvest. <br>2. *Lank-batai*: Division of harvested grain tied in sheaves before thrashing. <br>3. *Raas-batai*: Division of cleaned grain heap on thrashing floor (most accurate). |
+| **Kankut** | Danabandi | Traditional appraisal system | Rough estimation and appraisal of standing crop by inspection and pacing the field (*Kan* = grain/estimation, *Kut* = conjecture). |
+| **Nasaq** | Contractual assessment | Ancient method | Rough lump-sum calculation based on past revenue payments without new annual measurement. |
+
+### E. Mughal Land Tenure & Jagir Categories
+
+| Land Tenure Category | Nature of Ownership / Revenue Rights | Transferability / Legal Condition |
+|---|---|---|
+| **Khalisa** (खालिसा) | Direct imperial crown land | Revenue deposited directly into the Central Imperial Treasury (*Bait-ul-Mal*) |
+| **Tankha Jagir** (तनख्वाह जागीर) | Standard revenue assignment in lieu of cash salary | **Strictly transferable** every 3–4 years to prevent local roots/feudal power |
+| **Watan Jagir** (वतन जागीर) | Homeland territories of autonomous Rajput rulers | **Hereditary and non-transferable**; continued within the royal family |
+| **Mashrut Jagir** (मशरुत जागीर) | Conditional jagir assigned for a specific post/duty | Subject to temporary fulfillment of specific military/administrative duties |
+| **Altamgha Jagir** (अल-तमगा जागीर) | Imperial grant initiated by **Jahangir** | **Perpetual, hereditary, irrevocable grant** confirmed with royal vermillion seal |
+| **Madad-i-Maash / Suyurghal** | Charitable land grant for scholars, saints, and religious divines | **Tax-free (*Inam*)** and hereditary; managed by the *Sadr-us-Sudur* |
+| **Paibaqi** (पायबाकी) | Reserve land tract | Surplus revenue land kept reserved for assignment to upcoming mansabdars |
+
+### F. Mansabdari System Essentials (Akbar to Aurangzeb)
+- **Introduced by Akbar (1571 CE)**: Military-administrative ranking system borrowed from the Mongol decimal system; ranged from rank of 10 to 5,000 (later 7,000 for top royal princes/nobles like Raja Man Singh).
+- **Dual Ranks (Zat & Sawar)**:
+  - **Zat (जात)**: Denoted personal rank, social status, precedence at court, and fixed the personal baseline salary.
+  - **Sawar (सवार)**: Denoted the actual number of cavalry troops and horses the officer was required to maintain for imperial service.
+- **Three Classes of Mansabdars**:
+  - *Class 1*: Sawar rank = Zat rank.
+  - *Class 2*: Sawar rank = Half or more of Zat rank.
+  - *Class 3*: Sawar rank = Less than half of Zat rank.
+- **Dah-Bishi Rule (10-20 Rule)**: For every 10 cavalrymen (*Sawars*), the Mansabdar had to maintain **20 horses** (to avoid exhaustion of war mounts during campaigns).
+- **Dagh and Chehra**: Instituted by Alauddin Khalji, revived by Sher Shah, and formalized by Akbar:
+  - *Dagh*: Royal branding of war horses to prevent fraudulent substitution.
+  - *Chehra / Tashiha*: Descriptive roll / biometric identity of every soldier.
+- **Du-aspa Sih-aspa (दो-अस्पा सिह-अस्पा)**: Introduced by **Jahangir**; allowed favored nobles to double their maintained cavalry force and salary allocation **without increasing their base Zat rank**.
+- **Month-Scale System (*Mahana*)**: Introduced by **Shah Jahan**; due to divergence between estimated revenue (*Jama*) and actual realization (*Hasil*), Mansabdars were paid on 4-month, 6-month, or 8-month pay scales instead of full 12-month pay.
+
+### G. Vijayanagara & South Indian Administrative Systems
+- **Nayankara System**:
+  - Distinctive military-tenurial system of Vijayanagara.
+  - King was the ultimate owner of all land; granted territories called **Amaram** to military commanders called **Nayakas / Amara-nayakas**.
+  - Nayakas maintained a fixed quota of foot-soldiers, horses, and elephants for the King and paid an annual tribute into the imperial treasury.
+  - Documented in detail by Portuguese travelers **Domingo Paes** and **Fernao Nuniz**.
+- **Ayagar System**:
+  - Unique village autonomous administrative organization in South India.
+  - Every village was an autonomous unit managed by a council of **12 hereditary functionaries** called **Ayagars** (Headman/Gaud, Accountant/Karnam, Blacksmith, Carpenter, Washerman, Barber, etc.).
+  - Ayagars were granted hereditary tax-free plots of land called **Manyam** and received customary grain shares from the villagers.
+- **Key Vijayanagara Administrative Terms**:
+  - **Athavana (अठवण)**: Central land revenue department.
+  - **Kandachara (कंदाचार)**: Military department presided over by the *Dandanayaka* (Commander-in-Chief).
+  - **Sist**: Standard land tax (fixed at 1/6th of gross agricultural yield based on land classification under Krishnadeva Raya).
+  - **Kavali**: Police duty; fees collected for village policing called *Kaval-katnam*.
 
 ---
 

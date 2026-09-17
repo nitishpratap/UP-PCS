@@ -3,7 +3,7 @@
 
 > **Exam Focus:** UPPSC Prelims (Paper 1), UKPSC Prelims (Paper 1), RO/ARO, BEO  
 > **Frequency:** Daily morning read (15–20 mins)  
-> **Question Types Covered:** 8 Classical Dances vs States & exponents, Classical Languages criteria & all 11 languages, Nagara/Dravida/Vesara architectural parts, Masterpiece Temples & Builders, UNESCO Intangible & Tangible Heritage (Ramman, Hoysala, Dholavira), Fairs & Festivals of India, UP & UK, Folk Paintings, Theatre & Martial Arts, GI Tags of UP & UK.
+> **Question Types Covered:** 8 Classical Dances vs States & exponents, Classical Languages criteria & 11 languages, Nagara/Dravida/Vesara architecture & Masterpiece Temples, All 16 UNESCO Intangible Cultural Heritage, Fairs & Festivals of India, UP & UK, Folk Paintings, Folk Theatres & Puppetry, Martial Arts of India, Hindustani Music Gharanas, GI Tags of UP & UK.
 
 ---
 
@@ -195,3 +195,91 @@
 > **Logic:** **Sanjhi = Braj UP**. **Aipan = Uttarakhand**. **Madhubani = Bihar**. Never dump all three into one state.
 
 ---
+
+## 8. All 16 UNESCO Intangible Cultural Heritage (ICH) Elements of India
+
+*Representative List of the Intangible Cultural Heritage of Humanity (Ministry of Culture / UNESCO):*
+
+| # | Inscribed Year | Intangible Cultural Heritage Element | State / Region | Cultural / Ritual Significance |
+|---|---|---|---|---|
+| 1 | **2008** | **Koodiyattam (Kutiyattam)** | **Kerala** | India's oldest living Sanskrit theatre tradition; performed in temple theatres called *Koothambalams* using *Mizhavu* drums |
+| 2 | **2008** | **Ramlila** | **Uttar Pradesh & North India** | Traditional performance of the Ramayana during Dussehra (famous Ramnagar Ramlila of Varanasi supported by Kashi Naresh) |
+| 3 | **2008** | **Tradition of Vedic Chanting** | Pan-India | Oral recitation of sacred Vedic verses handed down through strict mnemonic techniques (*Jatapatha, Ghanapatha*) |
+| 4 | **2009** | **Ramman** | **Saloor-Dungra village, Chamoli (Uttarakhand)** | **UKPCS TOP PRIORITY!** Ritual theatre and religious festival dedicated to tutelary deity **Bhumiyal Devta**; masked dances with traditional wooden masks |
+| 5 | **2010** | **Chhau Dance** | **Jharkhand, West Bengal, Odisha** | Semi-classical martial and folk dance tradition; three distinct styles: **Seraikella** (Jharkhand), **Purulia** (West Bengal), and **Mayurbhanj** (Odisha - uses no masks) |
+| 6 | **2010** | **Kalbelia Folk Songs and Dances** | **Rajasthan** | Sensuous serpent-like dance performed by women of the nomadic snake-charmer community; musical accompaniment by *Poongi / Been* |
+| 7 | **2010** | **Mudiyettu** | **Kerala** | Ritual dance-drama enacting the mythological battle between goddess Kali and the demon Darika in Bhagavathi temples; elaborate floor painting called *Kalam* |
+| 8 | **2012** | **Buddhist Chanting of Ladakh** | **Ladakh (Trans-Himalayas)** | Sacred rhythmic recitation of Buddhist texts by monks (Lamas) belonging to Gelukpa, Drukpa, and Kagyu monasteries |
+| 9 | **2013** | **Sankirtana** | **Manipur** | Ritual singing, drumming (Pung), and dancing marking religious occasions and life-cycle ceremonies of Meitei Vaishnavites |
+| 10 | **2014** | **Traditional Brass & Copper Craft of Utensil Making** | **Jandiala Guru, Amritsar (Punjab)** | Practiced by the **Thathera community**; hammered brass and copper utensils recommended by Ayurveda for cooling/heating medicinal properties |
+| 11 | **2016** | **Yoga** | Pan-India (Global) | Ancient physical, mental, and spiritual discipline rooted in Patanjali's Ashtanga Yoga; International Day of Yoga celebrated on **21 June** |
+| 12 | **2016** | **Nawrouz (Nowruz)** | Parsi & Kashmiri Pandit communities | Persian / Iranian New Year celebrated on the vernal equinox (**21 March**) marking nature's rebirth |
+| 13 | **2017** | **Kumbh Mela** | **Prayagraj (UP), Haridwar (UK), Ujjain (MP), Nashik (Maharashtra)** | Largest peaceful congregation of pilgrims on Earth; rotates between four sacred river confluences (Ganga, Godavari, Kshipra) |
+| 14 | **2021** | **Durga Puja in Kolkata** | **Kolkata (West Bengal)** | Grand 10-day autumn festival celebrating feminine divine power, public art installations, and community pandals |
+| 15 | **2023** | **Garba of Gujarat** | **Gujarat** | Ritualistic and devotional dance performed during the nine nights of Navratri around an earthen lamp (*Garbha Deep*) or image of Goddess Amba |
+| 16 | **2025 (Dec)** | **Deepavali (Festival of Lights)** | Pan-India | Inscribed at the 20th session of the Intergovernmental Committee in December 2025; celebration of light over darkness and knowledge over ignorance |
+
+---
+
+## 9. Traditional Folk Theatres & Puppetry of India
+
+### A. Major Folk Theatres (Direct State Match)
+| Folk Theatre | State / Region | Distinctive Features / Themes |
+|---|---|---|
+| **Nautanki** | **Uttar Pradesh** | Popular musical theatre; prominent gharanas in **Hathras** (classical singing style) and **Kanpur** (dramatic prose dialogues); *Doha, Chaubola, Chhand* meters accompanied by *Nakkara* drum |
+| **Bhand Pather** | **Jammu & Kashmir** | Traditional satirical folk theatre of agricultural community; witty social satire, slapstick comedy, and mimicry accompanied by Surnai and Dhol |
+| **Swang / Saang** | **Haryana & Western UP** | Musical folk drama with rhyming dialogues; pioneered by Pt. Deep Chand and Kishan Lal Bhat; open-air stage |
+| **Rasleela & Ramlila** | **Uttar Pradesh** (Mathura–Vrindavan / Kashi) | Devotional dance-dramas depicting Krishna's childhood pastoral pastimes and Rama's life journey |
+| **Bhavai** | **Gujarat & Rajasthan** | Fast-paced socio-religious folk play; male actors (*Asaita Thakar* tradition); balancing earthen pots on head; uses *Bhungal* brass horn |
+| **Jatra** | **West Bengal & Odisha** | Open-air musical melodrama; originated during Chaitanya Mahaprabhu's Bhakti movement; loud declamation and heroic acting |
+| **Yakshagana** | **Karnataka** (Coastal) | Grand dance-drama based on Ramayana/Mahabharata; towering decorated headgear (*Muguta*), vibrant facial makeup, high jumps and spins |
+| **Therukoothu** | **Tamil Nadu** | "Street play" performed at village squares during annual Draupadi Amman festivals |
+| **Koodiyattam** | **Kerala** | Classical Sanskrit temple drama; UNESCO ICH; elaborate mudras and eye expressions |
+| **Ankiya Nat / Bhaona** | **Assam** | One-act plays created by **Srimanta Sankardeva**; written in Brajavali language; performed in monastic prayer halls (*Namghar*) |
+| **Tamaasha** | **Maharashtra** | Energetic folk theatre combining *Lavani* dance and rapid wit; accompanied by Dholki and Halgi |
+| **Dashavatar** | **Konkan / Goa / Maharashtra** | Folk theatre enacting the ten incarnations of Lord Vishnu in local temples |
+
+### B. Traditional Indian Puppetry (Four Master Forms)
+| Form of Puppetry | Traditional Name | State of Origin | Distinctive Technical Feature |
+|---|---|---|---|
+| **String Puppets** | **Kathputli** | **Rajasthan** | Carved from a single piece of wood; dressed in medieval Rajasthani ghagras; whistling sound produced by *Boli* |
+| | **Kundhei** | **Odisha** | Light wood dolls with no legs; long flowing skirts; influenced by Odissi music |
+| | **Gombeyatta** | **Karnataka** | Highly stylized puppets modeled on **Yakshagana** actors with elaborate costumes |
+| | **Bommalattam** | **Tamil Nadu** | Combines features of **both rod and string puppetry**; heaviest and most complex puppets in India |
+| **Shadow Puppets** | **Tholu Bommalata** | **Andhra Pradesh** | Large translucent leather figures painted on both sides; projected on white backlit screen |
+| | **Togalu Gombeyatta** | **Karnataka** | Small, delicate leather shadow puppets operated behind a screen |
+| | **Ravanachhaya** | **Odisha** | Made of deerskin; **cast purely black-and-white shadows** (no colored projections) with no jointed limbs |
+| **Glove Puppets** | **Pavakoothu** | **Kerala** | Carved head and arms; dressed in Kathakali costumes and headgear |
+| **Rod Puppets** | **Putul Nach** | **West Bengal** | Large heavy wooden dolls jointed at shoulders; manipulated by rods from below |
+| | **Yampuri** | **Bihar** | Carved wooden puppets in one piece; depicts the court of Yama (God of Death) |
+
+---
+
+## 10. Martial Arts of India
+
+| Martial Art Form | State of Origin | Weapon / Technique / Distinctive Feature |
+|---|---|---|
+| **Kalaripayattu** | **Kerala** | **Oldest martial art in the world** (traced to Sage Parashurama); practiced in an earthen pit (*Kalari*); weapons: *Urumi* (flexible whip-like sword), staff, shield |
+| **Silambam** | **Tamil Nadu** | Ancient staff-fencing martial art; uses 1.68 m **bamboo staff** (*Silambam*); mentioned in Sangam literature *Silappadikaram* |
+| **Thang-Ta & Sarit Sarak** | **Manipur** | Armed (*Thang* = sword, *Ta* = spear) and unarmed (*Sarit Sarak*) combat system created by Meitei warriors |
+| **Gatka** | **Punjab** | Traditional Sikh martial art created by **Guru Hargobind Ji**; uses wooden sticks (*Gatka*) and leather shields; practiced during Hola Mohalla |
+| **Pari-Khanda** | **Bihar** | Created by Rajputs; *Pari* = shield, *Khanda* = sword; steps form the basic movement vocabulary of **Chhau dance** |
+| **Thoda** | **Himachal Pradesh** | Martial art based on **archery**; practiced in Kullu and Shimla during Baisakhi; warriors target opponent's legs below the knees |
+| **Mallakhamb** | **Madhya Pradesh & Maharashtra** | Gymnastic aerial yoga postures performed on a vertical polished teak pole or hanging cotton rope; MP State Sport |
+| **Musti-Yuddha** | **Varanasi (Uttar Pradesh)** | Traditional Indian unarmed pugilism / bare-knuckle boxing |
+| **Mardani Khel** | **Maharashtra** (Kolhapur) | Maratha martial art emphasizing swift movement with *Patta* (gauntlet-sword) and *Kathi* (bamboo staff) |
+| **Kuttu Varisai** | **Tamil Nadu** | Unarmed close-combat martial art focusing on footwork, pressure points (*Varma kalai*), and animal-style strikes |
+
+---
+
+## 11. Hindustani Classical Music Gharanas & Leading Exponents
+
+| Gharana | Founder / Pioneer | Key Stylistic Features | Renowned Exponents / Maestros |
+|---|---|---|---|
+| **Gwalior Gharana** | **Nathan Pir Bakhsh** & **Hassu-Haddu Khan** | **OLDEST KHAYAL GHARANA**; simple, stately, open-throated singing; lucidity of raga development | Vishnu Digambar Paluskar, Pt. Omkarnath Thakur, D.V. Paluskar, Malini Rajurkar |
+| **Agra Gharana** | **Haji Sujan Khan** & **Khuda Bakhsh**; revived by **Ustad Faiyaz Khan** | Known as the **"Rangeela Gharana"**; deep resonant voice culture; blends Khayal with ancient Dhrupad-Dhamar *Nom-Tom* alap | Ustad Faiyaz Khan, Vilayat Hussain Khan, Shrikrishna Narayan Ratanjankar |
+| **Kirana Gharana** | **Ustad Abdul Karim Khan** & **Ustad Abdul Wahid Khan** (Kirana, Shamli - UP) | High emotional depth; slow, melodic, note-by-note (*Swar-pradhan*) development; mastery over *Vilambit* Khayal | **Pt. Bhimsen Joshi**, Gangubai Hangal, Sawai Gandharva, Prabha Atre, Hirabai Barodekar |
+| **Jaipur-Atrauli Gharana** | **Alladiya Khan** | Complex, intricate, rare ragas; offbeat rhythmic phrasing (*Taans*) with subtle swara variations | **Kishori Amonkar**, Kesarbai Kerkar, Mogubai Kurdikar, Mallikarjun Mansur |
+| **Patiala Gharana** | **Ustad Fateh Ali Khan** & **Ali Bakhsh Khan** ("Alia-Fattu") | Fast, intricate, cascade-like *Taans*; emotional ornamentation; popularized romantic *Thumri* | **Ustad Bade Ghulam Ali Khan**, Begum Akhtar, Parveen Sultana, Jagjit Singh |
+| **Banaras Gharana (Music & Instrumental)** | Pt. Ram Sahai (Tabla), Thakur Prasad (Kathak) | Famous for **Tabla**, **Sarangi**, **Shehnai**, and semiclassical **Thumri, Dadra, Chaiti, Kajri** | **Ustad Bismillah Khan** (Shehnai - Bharat Ratna), **Pt. Kishan Maharaj** (Tabla), **Pt. Samta Prasad / Gudai Maharaj** (Tabla), **Girija Devi** (Queen of Thumri), Siddheshwari Devi, Rajan & Sajan Mishra |
+
