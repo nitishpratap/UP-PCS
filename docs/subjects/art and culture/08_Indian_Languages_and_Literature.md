@@ -1,5 +1,4 @@
 # Topic 8 — Indian Languages & Literature
-### ★ UPPCS Revision Sheet — heading → identity line → teaching bullets (tables only for confused pairs)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -8,27 +7,23 @@ Ancient Indian Literature | Sanskrit Literature | Vedic Literature | Epic Litera
 
 </details>
 
-> **Sources baked in:** NCERT Themes I–III, Sahitya Akademi / 8th Schedule, PIB classical-language notes, Ghatnachakra Ancient Literature and Litterateur (B–179+), UPPCS Prelims 2018–2025
-> **Weight:** ★★★ — work ↔ author, Vedic layer, 18 Puranas, 8th Schedule, classical languages **11**
+> **Sources:** NCERT Themes I–III, Sahitya Akademi / 8th Schedule, PIB classical-language notes, Ghatnachakra Ancient Literature and Litterateur (B–179+), UPPCS Prelims 2018–2025
 > **Last verified:** September 2026
-> **Current Affairs:** Classical languages **11** after **3 Oct 2024** (Marathi, Pali, Prakrit, Assamese, Bengali added). Nepal–India Sanskrit Conclave **Mar 2024, Kathmandu**.
 
 ---
 
 
 ## Current Affairs
 
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| 3 Oct 2024 | Classical languages become **11** (Marathi, Pali, Prakrit, Assamese, Bengali added) | Count trap vs old “six” | Union Cabinet / PIB |
-| Mar 2024 | Nepal–India Sanskrit Conclave at **Kathmandu**, not Delhi | 2024 Q87 | Neeti Anusandhan Pratisthan |
+- On **3 October 2024** the Union added Marathi, Pali, Prakrit, Assamese, and Bengali. India now has **11** classical languages.
+- The Nepal–India Sanskrit Conclave of **March 2024** was held at **Kathmandu**, not Delhi.
+- **Yuva Puraskar** is Sahitya Akademi’s prize for writers of **35** and under. It is not Jnanpith.
 
-Yuva Puraskar is Sahitya Akademi’s young-writer prize (under 35), not Jnanpith.
 
 ---
 
 
-## Consolidated — 42 Must-Score Facts
+## Consolidated Must-Score Facts
 
 1. **Shruti** is the heard Veda stack of Samhita, Brahmana, Aranyaka, and Upanishad. **Smriti** covers epics, Puranas, Dharmashastra, and related remembered texts.
 2. The four Vedas are **Rig** (hymns), **Sama** (chant), **Yajur** (ritual), and **Atharva**. Shukla Yajurveda is **Vajasaneyi**; Krishna Yajurveda is **Taittiriya**.
@@ -106,7 +101,7 @@ Yuva Puraskar is Sahitya Akademi’s young-writer prize (under 35), not Jnanpith
 
 ### Shruti / epics
 
-| Item | Lock |
+| Item | Correct |
 |------|------|
 | Shruti stack | Samhita → Brahmana → Aranyaka → Upanishad |
 | Four Vedas | Rig · Sama · Yajur · Atharva |
@@ -128,7 +123,7 @@ Yuva Puraskar is Sahitya Akademi’s young-writer prize (under 35), not Jnanpith
 
 ### Language tags
 
-| Item | Lock |
+| Item | Correct |
 |------|------|
 | 8th Schedule | **22** languages; **Bhojpuri out** |
 | Sahitya Akademi | **24** languages (22 + English + Rajasthani) |
@@ -141,7 +136,7 @@ Yuva Puraskar is Sahitya Akademi’s young-writer prize (under 35), not Jnanpith
 
 ## 8.1 Ancient Indian Literature
 
-**Span:** Vedic oral → sutra → epic → classical Sanskrit | **Split:** Shruti vs Smriti
+Ancient literature runs from Vedic oral verse through sutra and epic to classical Sanskrit. The main split is **Shruti** versus **Smriti**.
 
 - Classical Sanskrit grammar was codified by **Panini** in the *Ashtadhyayi* (8 chapters, ~4000 sutras).
 - Statecraft and political economy were expounded by **Kautilya (Chanakya)** in the *Arthashastra*, followed by **Kamandaka**’s *Nitisara*.
@@ -161,7 +156,7 @@ Yuva Puraskar is Sahitya Akademi’s young-writer prize (under 35), not Jnanpith
 
 ## 8.2 Sanskrit Literature
 
-**Identity:** Classical Paninian Sanskrit | Kavya + nataka + shastra | Gupta peak of prose and poetry
+Classical Sanskrit follows Panini. It covers kavya, nataka, and shastra. Gupta age is the peak of prose and poetry.
 
 ### Gupta peak & foreign mirrors
 
@@ -353,7 +348,7 @@ D. Kathak
 
 ## 8.5 Puranic Literature
 
-**Count:** 18** Mahapuranas + 18 Upapuranas (names of the 18 Maha are the set)
+There are **18 Mahapuranas and **18** Upapuranas. The names of the eighteen Maha form the usual set.
 
 **Pancha-lakshana idea:** sarga, pratisarga, vamsha, manvantara, vamshanucharita.
 
@@ -405,7 +400,7 @@ D. Neither 1 nor 2
 
 ## 8.6 Regional Literature
 
-**Rule:** Language of the people. Here = **book ↔ language ↔ region**.
+Regional literature is the language of the people. Learn each book with its language and region.
 
 ### Tamil / Sangam
 
@@ -440,7 +435,7 @@ D. Neither 1 nor 2
 
 - **Tulsidas** composed the *Ramcharitmanas* in **Awadhi** across the cultural belt of Ayodhya, Chitrakoot, and Varanasi (Banaras); his other seminal masterworks include *Vinaya Patrika* and *Kavitavali*.
 - **Surdas** wrote *Sursagar*, *Sur Saravali*, and *Sahitya Lahiri* in **Braj**. He is in the Vallabhacharya / Pushtimarg line.
-- **Kabir** wrote *Bijak* and *sabad*. He is of Maghar / Sant Kabir Nagar in **UP**. His guru is **Ramananda**.
+- **Kabir** wrote *Bijak* and *sabad*. He is of Maghar / Sant Kabir Nagar in **Uttar Pradesh. His guru is **Ramananda**.
 - **Malik Muhammad Jayasi** wrote *Padmavat* in **Awadhi**.
 - **Bihari** wrote *Satsai* in Braj.
 - **Rahim / Raskhan** wrote Braj Krishna/Hindi couplets in the Mughal age.
@@ -451,7 +446,7 @@ D. Neither 1 nor 2
 ### Others (name-fact)
 
 - Prominent landmarks of Bengali literature include the early poetry of **Chandidas** and the devotional biographies of Chaitanya Mahaprabhu.
-- **Rabindranath Tagore** wrote *Gitanjali*. He won the Nobel in **1913**.
+- **Rabindranath Tagore wrote *Gitanjali*. He won the Nobel in **1913**.
 - Marathi Bhakti literature is anchored by **Jnaneshwar** (who authored the *Jnaneshwari* commentary on the Gita) and the devotional *abhangas* of Sant **Tukaram**.
 - Jayadeva is Sanskrit, but Odisha claims the Gita Govinda soil.
 - Classical Urdu poetry reached its zenith through master poets **Mirza Ghalib** and **Mir Taqi Mir**, flourishing across the Delhi and Lucknow cultural spheres.
@@ -464,7 +459,7 @@ D. Neither 1 nor 2
 
 ## 8.7 Indian Languages
 
-**Families:** Indo-Aryan | Dravidian | Austroasiatic (Munda/Santhali) | Tibeto-Burman | Isolate (e.g. Burushaski, outside this paper)
+Indian languages fall into **Indo-Aryan**, **Dravidian**, **Austroasiatic** (Munda and Santhali), and **Tibeto-Burman** families. Isolates such as Burushaski sit outside this paper.
 
 ### Eighth Schedule = **22**
 
@@ -2581,7 +2576,7 @@ D. Tabla
 
 ---
 
-## Practice Zone — UPPCS Format Drill
+## Practice Zone
 
 > **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
@@ -3212,7 +3207,7 @@ D. He founded Sahitya Akademi’s 24-language award list
 
 </details>
 
-## Common Traps — Don't Fall For These
+## Common Traps
 
 1. *Shringara Shataka* is not by Kalidasa. It is by **Bhartrihari**.
 2. *Uttararamacharita* is not by Kalidasa. It is by **Bhavabhuti**.

@@ -1,5 +1,4 @@
 # Topic 2 — Religious and Philosophical Traditions
-### ★ UPPCS Revision Sheet — heading → identity line → teaching bullets (tables only for confused pairs)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -8,23 +7,21 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 
 </details>
 
-> **Sources baked in:** NCERT Themes I–III, An Introduction to Indian Art (Class 11), UPPCS Prelims PYQs 2018–2025
-> **Weight:** ★★★ — founder/text, Vedanta match, Tirthankara–nirvana, Bhakti guru–work, Sufi site, councils, 10 Gurus
+> **Sources:** NCERT Themes I–III, An Introduction to Indian Art (Class 11), UPPCS Prelims PYQs 2018–2025
 > **Last verified:** August 2026
-> **Current Affairs:** Maha Kumbh Prayagraj, 13 Jan–26 Feb 2025; Kumbh Mela UNESCO ICH 2017
 
 ---
 
 
 ## Current Affairs
 
-- **Maha Kumbh, Prayagraj, 13 Jan–26 Feb 2025** (~45 days) — UP sacred geography.
-- Kumbh Mela on UNESCO ICH list **2017** — not a tangible monument.
+- **Maha Kumbh** at Prayagraj ran from **13 January to 26 February 2025**, about **45** days.
+- **Kumbh Mela** is on the UNESCO Intangible Heritage list from **2017**. It is not a tangible monument.
 
 ---
 
 
-## Consolidated — 28 Must-Score Facts
+## Consolidated Must-Score Facts
 
 1. The six **Astika** (आस्तिक) schools that accept the Veda as pramana (प्रमाण) are **Nyaya–Gautama** (न्याय - गौतम), **Vaisheshika–Kanada** (वैशेषिक - कणाद), **Samkhya–Kapila** (सांख्य - कपिल), **Yoga–Patanjali** (योग - पतंजलि), **Mimamsa–Jaimini** (मीमांसा - जैमिनि), and **Vedanta–Badarayana** (वेदांत - बादरायण).
 2. The usual **Nastika** (नास्तिक) set is **Charvaka** (चार्वाक), **Buddhism** (बौद्ध धर्म), and **Jainism** (जैन धर्म). Add **Ajivika** (**Makkhali Gosala**) [आजीवक - मक्खलि गोसाल] when fate / *niyati* (नियति) appears in options.
@@ -94,7 +91,7 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 
 ### Nastika / Yoga / Vedanta
 
-| Item | Lock |
+| Item | Correct |
 |------|------|
 | Nastika set | Charvaka, Buddhism, Jainism (+ Ajivika / Gosala) |
 | Ashtanga Yoga order | yama → niyama → asana → pranayama → pratyahara → dharana → dhyana → samadhi |
@@ -104,7 +101,7 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 
 ### Buddhism quick
 
-| Item | Lock |
+| Item | Correct |
 |------|------|
 | Life geography | Lumbini → Bodh Gaya → **Sarnath** → **Kushinagar** |
 | Councils | Rajagriha → Vaishali → Pataliputra → Kundalvana |
@@ -115,14 +112,14 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 
 ## 2.1 Six Schools of Indian Philosophy (Shad Darshana / षड्दर्शन)
 
-**Meaning:** Darshana = a “view” aimed at liberation. Astika (आस्तिक) = Veda is a valid pramana (प्रमाण). Nastika (नास्तिक) = rejects Vedic infallibility (not the same as modern “atheist”).
+A **darshana** is a view aimed at liberation. **Astika** schools accept the Veda as a valid pramana. **Nastika** schools reject Vedic infallibility. Nastika is not the same as modern atheist.
 
 - Six Astika schools run as three pairs: Nyaya–Vaisheshika, Samkhya–Yoga, Mimamsa–Vedanta.
 - The Nastika set is Charvaka, Buddhism and Jainism. Add Ajivika (**Makkhali Gosala**) [आजीवक - मक्खलि गोसाल] when options include fate/*niyati* (नियति).
 
 ### Nyaya (न्याय)
 
-**Founder:** Aksapada Gautama (अक्षपाद गौतम) | **Text:** Nyaya Sutras (न्याय सूत्र)
+**Aksapada Gautama | Nyaya Sutras**
 
 - Nyaya is the school of **logic and epistemology**, not Buddhism.
 - It accepts four pramanas (प्रमाण): **pratyaksha** (प्रत्यक्ष), **anumana** (अनुमान), **upamana** (उपमान), **shabda** (शब्द).
@@ -133,7 +130,7 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 
 ### Vaisheshika (वैशेषिक)
 
-**Founder:** Kanada (Uluka) [कणाद / उलूक] | **Text:** Vaisheshika Sutras (वैशेषिक सूत्र)
+**Kanada (Uluka) | Vaisheshika Sutras**
 
 - Vaisheshika teaches **atomism** (*paramanu* / परमाणु).
 - It has seven padarthas (पदार्थ): dravya (द्रव्य), guna (गुण), karma (कर्म), samanya (सामान्य), vishesha (विशेष), samavaya (समवाय), **abhava** (अभाव).
@@ -141,15 +138,15 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 
 ### Samkhya (सांख्य)
 
-**Founder:** Kapila (कपिल) | **Text:** Samkhya Karika (Ishvarakrishna)
+**Kapila | Samkhya Karika (Ishvarakrishna)**
 
-- Samkhya is dualist: **Purusha** (पुरुष - consciousness) and **Prakriti** (प्रकृति - matter).
+- Samkhya is dualist: **Purusha** (पुरुष - consciousness) and **Prakriti (प्रकृति - matter).
 - It has three gunas: sattva, rajas, tamas (सत्त्व, रजस्, तमस्). There are **25 tattvas** (तत्त्व: prakriti → mahat → ahamkara → 5 tanmatra + 5 mahabhuta + 5 jnanendriya + 5 karmendriya + manas + purusha).
 - Classical Samkhya is **nirishvara** (निरीश्वरवाद - no God as a tattva). Liberation is viveka (विवेक ख्याति).
 
 ### Yoga (योग)
 
-**Founder:** Patanjali (पतंजलि) | **Text:** Yoga Sutras (योग सूत्र)
+**Patanjali | Yoga Sutras**
 
 - According to Patanjali, Yoga is defined as *Yogash chitta-vritti-nirodhah* (योगश्चित्तवृत्तिनिरोधः — the cessation of mental fluctuations).
 - Yoga is the practical partner of Samkhya. It adds **Ishvara** (ईश्वर).
@@ -160,7 +157,7 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 
 ### Purva Mimamsa (पूर्व मीमांसा)
 
-**Founder:** Jaimini (जैमिनि) | **Text:** Mimamsa Sutras
+**Jaimini | Mimamsa Sutras**
 
 - Purva Mimamsa interprets Vedic **ritual** (karma-kāṇḍa / कर्मकाण्ड). The Veda is *apaurusheya* (अपौरुषेय).
 - Dharma is the correct performance of sacrifice.
@@ -168,7 +165,7 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 
 ### Uttara Mimamsa (Vedanta / उत्तर मीमांसा - वेदांत)
 
-**Founder:** Badarayana / Vyasa (बादरायण / व्यास) | **Text:** Brahma Sutras (ब्रह्म सूत्र)
+**Badarayana / Vyasa | Brahma Sutras**
 
 - Vedanta interprets the Upanishads (jñāna-kāṇḍa / ज्ञानकाण्ड).
 - The **Prasthanatrayi** (प्रस्थानत्रयी) are the Upanishads, the *Bhagavad Gita* and the Brahma Sutras.
@@ -176,7 +173,7 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 
 ### Advaita — Shankara (अद्वैतवाद - शंकराचार्य)
 
-**Century:** 8th c. | **Doctrine:** non-dual; Brahman real, world *mithya* (मिथ्या), Atman = Brahman
+**8th century | Advaita | Brahman real, world mithya**
 
 - Shankara’s guru is **Govinda**. His paramguru is **Gaudapada**. His text is *Brahma-sutra-bhashya*.
 - **Sringeri** is the southern matha. It is linked with **Yajurveda** and **Sureshvara**.
@@ -186,13 +183,13 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 
 ### Vishishtadvaita — Ramanuja (विशिष्टद्वैतवाद - रामानुजाचार्य)
 
-**Century:** 11th–12th c. | **Birth:** Sriperumbudur | **Text:** Sri Bhashya
+**11th–12th century | Sriperumbudur | Sri Bhashya**
 
 - Ramanuja taught qualified non-dualism: Brahman with attributes. He belongs to the Sri Vaishnava line of **Yamunacharya** and teaches Prapatti (प्रपत्ति - surrender). He also wrote *Vedartha Sangraha* and *Gita Bhashya*.
 
 ### Dvaita — Madhva (Madhavacharya) [द्वैतवाद - मध्वाचार्य]
 
-**Century:** 13th c. | **Centre:** Udupi | **Also called:** Purna Prajna / Anandatirtha
+**13th century | Udupi | Purna Prajna / Anandatirtha**
 
 - God, soul and world are eternally distinct. Madhva’s centre has eight Udupi mathas (Ashta Mathas). The Krishna image comes from the Dwaraka tradition.
 
@@ -204,19 +201,19 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 
 ### Shuddhadvaita — Vallabhacharya (शुद्धाद्वैतवाद - वल्लभाचार्य)
 
-**Century:** 15th–16th c. | **Birth:** Champaranya | **Path:** Pushtimarg (पुष्टिमार्ग)
+**15th–16th century | Champaranya | Pushtimarg**
 
 - Vallabha taught pure non-dualism. He is the guru of **Surdas**. The Ashtachhap poets of Braj include Surdas, Kumbhan, Parmanand, Krishna Das, and others.
 
 ### Charvaka / Lokayata (चार्वाक / लोकायत)
 
-**Founder (trad.):** Brihaspati | **Status:** Nastika
+**Brihaspati (traditional founder) | Nastika**
 
 - Only **perception** is pramana. Charvaka accepts four bhutas (no akasha). It rejects karma, afterlife, and the Veda.
 
 ### Ajivika (आजीवक)
 
-**Founder:** Makkhali Gosala (मक्खलि गोसाल) | **Status:** Nastika
+**Makkhali Gosala | Ajivika | Nastika**
 
 - Ajivika teaches the doctrine of fate (*niyati* / नियति). Makkhali Gosala was a contemporary of the Buddha and Mahavira. The school later became extinct.
 
@@ -308,7 +305,7 @@ D. 4, 3, 2, 1
 
 ## 2.3 Buddhist Philosophy
 
-**Founder:** Siddhartha Gautama (Shakyamuni) | **Dates (trad.):** 563–483 BCE
+**Siddhartha Gautama (Shakyamuni) | 563–483 BCE (traditional)**
 
 - The Buddha belonged to the Shakya clan. His father was **Suddhodana**, his mother **Maya**, his wife **Yashodhara**, and his son **Rahula**.
 - His horse was **Kanthaka**. His charioteer was **Channa**.
@@ -366,25 +363,25 @@ D. 4, 3, 2, 1
 
 ### First Buddhist Council
 
-**Place:** Rajagriha (Sattapanni) | **Patron:** Ajatashatru | **President:** Mahakassapa | **Year (trad.):** ~483 BCE (just after Mahaparinirvana)
+The First Council sat at **Rajagriha** (Sattapanni). The patron was **Ajatashatru**. The president was **Mahakassapa**. The traditional year is about **483 BCE**, just after the Mahaparinirvana.
 
 - Vinaya and Sutta were recited. It was not at Vaishali and not under Ashoka.
 
 ### Second Buddhist Council
 
-**Place:** Vaishali | **Patron:** Kalasoka | **Year (trad.):** ~383 BCE
+The Second Council sat at **Vaishali**. The patron was **Kalasoka**. The traditional year is about **383 BCE**.
 
 - It arose from a ten-point dispute. The Sangha split into Sthavira and Mahasanghika.
 
 ### Third Buddhist Council
 
-**Place:** Pataliputra | **Patron:** Ashoka | **President:** Moggaliputta Tissa | **Year (trad.):** ~250 BCE
+The Third Council sat at **Pataliputra**. The patron was **Ashoka**. The president was **Moggaliputta Tissa**. The traditional year is about **250 BCE**.
 
 - It emphasised Abhidhamma / *Kathavatthu*. Missions went out, including Mahinda to Sri Lanka.
 
 ### Fourth Buddhist Council
 
-**Place:** Kundalvana, Kashmir | **Patron:** Kanishka | **President:** Vasumitra (Ashvaghosha in tradition) | **Year (trad.):** ~72 CE / 1st–2nd c. CE
+The Fourth Council sat at **Kundalvana** in Kashmir. The patron was **Kanishka**. The president was **Vasumitra** (Ashvaghosha in some tradition). The date is about the first or second century CE.
 
 - It produced Sarvastivada commentaries and a Mahayana push. Theravada also counts a Sri Lankan 4th council — if the paper says Kashmir/Kanishka, use this one.
 
@@ -441,7 +438,7 @@ D. Kumaril Bhatt
 
 ### Mahavira
 
-**Birth:** Kundagrama (Vaishali region) | **Nirvana:** Pavapuri (Bihar)
+**Kundagrama (Vaishali region) | nirvana at Pavapuri, Bihar**
 
 - His parents were Siddhartha and Trishala (Licchavi), and he was a contemporary of the Buddha. Kevala came at Jrimbhikagrama / Rijupalika. The first sermon was at Vipulachala (Rajgir).
 - He had **11 ganadharas**. The chief was **Indrabhuti Gautama**.
@@ -510,7 +507,7 @@ Candidates should master the serial order, name, and emblem (*lanchhan*) of each
 - Hemachandra wrote *Parishishtaparvan*.
 - **Gomateshwara / Bahubali** stands at Shravanabelagola. It was commissioned by **Chamundaraya** in **981 CE** under the Western Ganga.
 - Other Jain sites are Dilwara (Abu), Palitana (Shatrunjaya), and Ranakpur.
-- **Mathura Kankali Tila** has Jain remains in **UP**.
+- **Mathura Kankali Tila** has Jain remains in **Uttar Pradesh.
 
 **PYQ — UPPCS Prelims 2021, Q131**
 
@@ -533,7 +530,7 @@ D. Mahavira — Pavapuri
 
 ## 2.5 Bhakti Movement
 
-**Meaning:** Personal devotion; vernacular; singing; guru; opening beyond ritual caste monopoly.
+Bhakti is personal devotion. It uses the vernacular, singing, and a guru. It opens the path beyond a ritual caste monopoly.
 
 - **Saguna** is God with form (Rama, Krishna). **Nirguna** is the formless Absolute (Kabir, Nanak strain).
 - Bhakti arose first in the South (**6th–9th** c.), then Maharashtra, then the north.
@@ -541,7 +538,7 @@ D. Mahavira — Pavapuri
 
 ### Alvars
 
-**Count:** 12 | **Deity:** Vishnu | **Corpus:** Nalayira Divya Prabandham (4000 verses)
+There are **12 Alvars**. They are Vaishnava poet-saints of Vishnu. Their corpus is the *Nalayira Divya Prabandham*, about **4000** verses.
 
 - 1 **Poigai** is an Alvar and one of the Mudal Alvars.
 - 2 **Bhoothath** is an Alvar and one of the Mudal Alvars.
@@ -558,7 +555,7 @@ D. Mahavira — Pavapuri
 
 ### Nayanars
 
-**Count:** 63 | **Deity:** Shiva | **Corpus:** Tevaram + Tiruvachakam
+There are **63 Nayanars**. They are Shaiva poet-saints of Shiva. Their corpus is the *Tevaram* and the *Tiruvachakam*.
 
 - The four **Samayacharyas** are **Appar**, **Sambandar**, **Sundarar**, and **Manikkavachakar**.
 - Manikkavachakar authored the celebrated devotional work *Tiruvachakam*. While distinct in his historical placement, he is counted as one of the four principal Samayacharyas of Tamil Shaivism.
@@ -576,7 +573,7 @@ D. Mahavira — Pavapuri
 
 ### Ramananda
 
-**Centre:** Kashi | **Path:** Rama-bhakti open to all | **Guru-line:** Ramanuja’s Sri Vaishnava stream (northward)
+**Kashi | Rama-bhakti open to all | Ramananda line**
 
 - His disciple **Kabir** was a weaver.
 - His disciple **Ravidas** was a cobbler.
@@ -588,37 +585,37 @@ D. Mahavira — Pavapuri
 
 ### Kabir
 
-**Guru:** Ramananda | **Work:** Bijak | **Death-place:** Maghar (Sant Kabir Nagar, UP)
+**Ramananda | Bijak | Maghar (Sant Kabir Nagar, Uttar Pradesh)**
 
 - Kabir is nirguna and a weaver. His Hindi *sabad* are also in the Guru Granth. He attacked idol and caste.
 
 ### Ravidas
 
-**Guru:** Ramananda | **Place:** Varanasi
+**Ramananda | Varanasi**
 
 - Ravidas was a cobbler saint. His hymns are in the Guru Granth.
 
 ### Guru Nanak (as bhakti figure)
 
-**Dates:** 1469–1539 | **Companion:** Mardana (rababi)
+**1469–1539 | companion Mardana**
 
 - Nanak is nirguna and composed *Japji*. He founded the Sikh panth of ten Gurus, the last being **Gobind Singh**. He was born **before** Chaitanya (**1486**).
 
 ### Surdas
 
-**Guru:** Vallabhacharya | **Tongue:** Braj | **Work:** Sursagar
+**Vallabhacharya | Braj | Sursagar**
 
 - Surdas is Krishna saguna. He is the blind poet of Krishna-lila.
 
 ### Tulsidas
 
-**Tongue:** Awadhi | **Work:** Ramcharitmanas
+**Awadhi | Ramcharitmanas**
 
 - Tulsidas is Rama saguna. *Ramcharitmanas* is **not Sanskrit**. He also wrote *Vinay Patrika*, *Kavitavali*, and *Hanuman Bahuk*.
 
 ### Chaitanya Mahaprabhu
 
-**Dates:** 1486–1534 | **Region:** Bengal | **Path:** Gaudiya Krishna-bhakti
+**1486–1534 | Bengal | Gaudiya Krishna-bhakti**
 
 - Chaitanya practised kirtan / sankirtana. The Goswamis later settled at Vrindavan.
 
@@ -710,7 +707,7 @@ D. Son Kumari — Poem of Swam Beli
 
 ## 2.6 Sufi Movement
 
-**Meaning:** Tasawwuf (तसव्वुफ़ / सूफ़ीवाद) — Islamic mysticism. Path: sharia (शरीअत) → tariqa (तरीक़त) → haqiqa (हक़ीक़त).
+Sufism is *tasawwuf*, Islamic mysticism. The path runs **sharia**, then **tariqa**, then **haqiqa**.
 
 - Pir / murshid (पीर / मुर्शिद) is the teacher. Murid (मुरीद) is the disciple.
 - Khanqah (ख़ानक़ाह) is a hospice. Dargah (दरगाह) is a tomb-shrine. Urs (उर्स) is the death anniversary.
@@ -720,7 +717,7 @@ D. Son Kumari — Poem of Swam Beli
 
 ### Chishti order (चिश्ती सिलसिला)
 
-**Indian founder:** Khwaja Muinuddin Chishti (Gharib Nawaz, d. 1236) | **Dargah:** Ajmer Sharif
+**Khwaja Muinuddin Chishti (d. 1236) | Ajmer Sharif**
 
 - The order was open to Hindus. It practised *futuh*/charity and **sama and qawwali**. The ideal was distance from the Sultan’s gifts.
 - **Muinuddin** is associated with Ajmer.
@@ -741,7 +738,7 @@ D. Son Kumari — Poem of Swam Beli
 
 ### Suhrawardi order
 
-**Indian centre:** Multan | **Saint:** Bahauddin Zakariya
+**Multan | Bahauddin Zakariya**
 
 - The order was closer to the state and to Sharia. Uch is the other centre. Do not park Nizamuddin here.
 
@@ -900,7 +897,7 @@ D. Jain
 
 ## 2.8 Religious Beliefs and Cultural Heritage
 
-**Rule:** Belief produces culture. Temple, stupa, mosque and gurdwara are the built face of that belief.
+Belief produces culture. Temple, stupa, mosque, and gurdwara are the built face of that belief.
 
 - Hindu: temple, ghat, matha; Vedic chanting, Ramlila, Yoga, Kumbh, kirtan.
 - Buddhist: stupa, chaitya, vihara; meditation, Jataka, Ladakh Buddhist chanting.
@@ -1205,7 +1202,7 @@ D. (A) is false, but (R) is true
 
 ---
 
-## Practice Zone — UPPCS Format Drill
+## Practice Zone
 
 > **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 

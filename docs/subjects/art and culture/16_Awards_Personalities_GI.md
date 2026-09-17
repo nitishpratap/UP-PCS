@@ -1,5 +1,4 @@
 # Topic 16 — Essentials: Awards, Personalities & GI Tags
-### ★ UPPCS Revision Sheet — heading → identity line → teaching bullets (tables only for confused pairs)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -8,24 +7,21 @@ Bharat Ratna (Culture) | Sangeet Natak Akademi Awards | Lalit Kala Akademi Award
 
 </details>
 
-> **Sources baked in:** Ministry of Culture, three Akademis, GI Registry (DPIIT), UPPCS Prelims 2018–2025
-> **Weight:** ★★★ — akademi year, Yuva vs Jnanpith, Bharat Ratna musicians, GI ministry, person ↔ form
+> **Sources:** Ministry of Culture, three Akademis, GI Registry (DPIIT), UPPCS Prelims 2018–2025
 > **Last verified:** August 2026
-> **Current Affairs:** Sahitya Yuva **June 2025** (23 languages, **no Dogri**). 58th Jnanpith to **Rambhadracharya** (with Gulzar). Padma Vibhushan 2025 **Art = L. Subramaniam**. SNA Fellowships/Awards **2024–25** announced **June 2026**.
 
 ---
 
 
 ## Current Affairs
 
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| **June 2025** | Sahitya Yuva: **23** languages; **no Dogri** | | Sahitya Akademi press note |
-| **2024–25** | 58th Jnanpith: **Rambhadracharya** (Sanskrit; cycle shared with Gulzar); first award **1965** | | Bharatiya Jnanpith |
-| **2025** | Padma Vibhushan Art = **L. Subramaniam** | | Padma list |
-| **June 2026** | SNA announced Fellowships and Awards for **2024 and 2025** | Akademi Ratna vs Puraskar | SNA |
+- Sahitya Akademi **Yuva Puraskar 2025** ran in **23** languages. **Dogri** was not on the list.
+- The **58th Jnanpith** went to **Rambhadracharya** (Sanskrit), in a cycle shared with Gulzar. The prize began in **1965**.
+- The **2025** Padma Vibhushan in Art went to **L. Subramaniam**.
+- In **June 2026** the Sangeet Natak Akademi announced Fellowships and Awards for **2024** and **2025**.
 
----
+---.
+
 
 ### UKPCS Prelims 2025
 
@@ -68,7 +64,7 @@ D. Lazzatnama
 ---
 
 
-## Consolidated — 26 Must-Score Facts
+## Consolidated Must-Score Facts
 
 1. Three Culture akademis sit at Rabindra Bhavan: **Sangeet Natak Akademi (1952)** for performing arts, **Sahitya Akademi (1954)** for letters, and **Lalit Kala Akademi (1954)** for visual arts.
 2. SNA gives the annual **Akademi Award**, the lifetime **Akademi Ratna (Fellowship)** for a small living cohort, and the **Bismillah Khan Yuva** award for young performing artists.
@@ -77,7 +73,7 @@ D. Lazzatnama
 5. **Jnanpith** is given by the **Bharatiya Jnanpith** trust from **1965** (first winner **G. Sankara Kurup**). It is **not** a Sahitya Akademi award. The **58th** Jnanpith went to **Rambhadracharya** (with Gulzar).
 6. Lalit Kala gives National Awards and **Kala Ratna**, runs **Triennale India**, and has a regional centre at **Lucknow**. It is not the same body as **NGMA**.
 7. Instituted in **1954**, the **Bharat Ratna** has been conferred upon six classical/cultural musicians: **M. S. Subbulakshmi** (1998, the first musician recipient), **Pandit Ravi Shankar** (1999), **Lata Mangeshkar** and **Ustad Bismillah Khan** (2001), **Pandit Bhimsen Joshi** (2008), and **Dr. Bhupen Hazarika** (2019, posthumous). Legendary filmmaker **Satyajit Ray** received it for cinema in **1992**.
-8. These culture names are **not** Bharat Ratna: **Birju Maharaj**, tabla maestro **Ustad Zakir Hussain**, and **Rabindranath Tagore** (Nobel **1913**; died **1941**, before the award existed).
+8. These culture names are **not** Bharat Ratna: **Birju Maharaj**, tabla maestro **Ustad Zakir Hussain**, and **Rabindranath Tagore (Nobel **1913**; died **1941**, before the award existed).
 9. Dr **Zakir Husain** (Bharat Ratna **1963**) was the statesman-President. He is **not** the tabla maestro Ustad Zakir Hussain.
 10. **Sahitya Yuva Puraskar** is for young authors ≤35. **Bismillah Khan Yuva** is SNA’s young **performing** award. Do not swap the two Yuva names.
 11. **GI** follows the **1999** Act. Registry is at **Chennai** under **DPIIT / Commerce**, not Culture. First Indian GI was **Darjeeling Tea (2004)**.
@@ -129,7 +125,7 @@ D. Lazzatnama
 
 ### Awards / traps
 
-| Item | Lock |
+| Item | Correct |
 |------|------|
 | Sahitya languages | 22 Eighth Schedule + English + Rajasthani (**Bhojpuri out**) |
 | Jnanpith | Bharatiya Jnanpith trust from **1965** (≠ government akademi) |
@@ -140,7 +136,7 @@ D. Lazzatnama
 
 ### GI
 
-| Item | Lock |
+| Item | Correct |
 |------|------|
 | Act / Registry | **1999**; **Chennai**; DPIIT/Commerce |
 | First Indian GI | Darjeeling Tea teaching |
@@ -151,7 +147,7 @@ D. Lazzatnama
 
 ## 16.1 Bharat Ratna (Culture)
 
-**Identity:** Highest civilian honour | Instituted **1954** | PM recommends to the President
+The Bharat Ratna is the highest civilian honour. It was instituted in **1954**. The Prime Minister recommends names to the President.
 
 - Bharat Ratna sits above Padma Vibhushan, Padma Bhushan and Padma Shri.
 - It began for art, literature, science and public service. It later covers any field of human endeavour.
@@ -159,14 +155,14 @@ D. Lazzatnama
 - **M. S. Subbulakshmi** received it in **1998**. She is the **first musician** Bharat Ratna. The form is Carnatic vocal.
 - **Pandit Ravi Shankar** received it in **1999**. The instrument is **sitar**.
 - **Lata Mangeshkar** and **Ustad Bismillah Khan** received it together in **2001**.
-- Bismillah Khan’s instrument is **shehnai**. The living centre is **Varanasi, UP**.
+- Bismillah Khan’s instrument is **shehnai**. The living centre is **Varanasi, Uttar Pradesh.
 - **Pandit Bhimsen Joshi** received it in **2008**. The form is Hindustani khayal (Kirana).
 - **Bhupen Hazarika** received it in **2019** (posthumous). Assamese music and film.
 - **Pandit Jasraj** received it in **2020** (posthumous). Mewati vocal.
 - **Satyajit Ray** received the Bharat Ratna in **1992** for his monumental contributions to world cinema (not as a musical vocalist).
 - **Dr Zakir Husain** (Bharat Ratna **1963**) was the educationist who became President. **Ustad Zakir Hussain** the tabla maestro is **not** a Bharat Ratna.
 - **Pandit Birju Maharaj** is Padma Vibhushan and SNA Ratna. He is **not** Bharat Ratna.
-- **Rabindranath Tagore** won the **Nobel Prize in 1913**. He died in **1941**, before Bharat Ratna existed.
+- **Rabindranath Tagore won the **Nobel Prize in 1913**. He died in **1941**, before Bharat Ratna existed.
 
 > **Logic:** First musician BR = Subbulakshmi 1998. Bismillah = shehnai + 2001 + Varanasi**. Tabla Zakir ≠ 1963 BR.
 
@@ -174,7 +170,7 @@ D. Lazzatnama
 
 ## 16.2 Sangeet Natak Akademi Awards
 
-**Identity:** Performing arts | SNA **1952** (Act **1959**) | Culture | Rabindra Bhavan
+Sangeet Natak Akademi awards cover performing arts. The Akademi was founded in **1952** (Act **1959**). It sits under Culture at Rabindra Bhavan.
 
 - SNA honours **music, dance and theatre**, including folk and tribal forms.
 - The **Akademi Award (Puraskar)** is the annual prize by discipline.
@@ -195,7 +191,7 @@ D. Lazzatnama
 
 ## 16.3 Lalit Kala Akademi Awards
 
-**Identity:** Visual / fine arts | **1954** | Culture | Lucknow regional centre
+Lalit Kala Akademi awards cover visual and fine arts. The Akademi dates to **1954**. It sits under Culture and has a regional centre at Lucknow.
 
 - Lalit Kala covers painting, sculpture, graphics and related visual practice. It does **not** give the Sahitya book prize.
 - The annual prize is the **National Award**. The lifetime honour is **Fellowship (Kala Ratna)**.
@@ -210,7 +206,7 @@ D. Lazzatnama
 
 ## 16.4 Sahitya Akademi Awards
 
-**Identity:** National Academy of Letters | **1954** | **24** languages | Yuva **≤35**
+Sahitya Akademi is the National Academy of Letters. It dates to **1954**. Awards run in **24** languages. Yuva Puraskar is for writers of **35** and under.
 
 - The Sahitya Akademi Award is one best book per recognised language in a cycle.
 - **Fellowship (Akademi Ratna)** is the highest Sahitya honour.
@@ -282,7 +278,7 @@ D. Sudha Murthy
 
 ## 16.5 GI Tags Related to Art & Culture
 
-**Identity:** Place-name + traditional quality | **Commerce (DPIIT)** | Not a Culture-ministry tag
+A GI tag is a place-name plus a traditional quality. The ministry is **Commerce (DPIIT)**. It is not a Culture-ministry tag.
 
 - A GI protects a cultural product’s **geographic name**. Banarasi Brocade cannot be used as a free brand by outsiders.
 - The law is the **GI of Goods Act, 1999**. The **Registry is at Chennai**.
@@ -303,13 +299,13 @@ D. Sudha Murthy
 - **Kalamkari** painting GI belongs to **Andhra Pradesh**.
 - **Blue Pottery of Jaipur** is Rajasthan, not Lucknow.
 
-> **Logic:** GI = Commerce, Chennai. First = Darjeeling Tea 2004. Banarasi + Chikan = UP**.
+> **Logic:** GI = Commerce, Chennai. First = Darjeeling Tea 2004. Banarasi + Chikan = Uttar Pradesh.
 
 ---
 
 ## 16.6 Important Cultural Personalities
 
-**Identity:** Form ↔ person ↔ honour ↔ place | One wrong pair kills the question
+For personalities, learn form, person, honour, and place together. One wrong pair loses the match.
 
 - **Bismillah Khan** plays **shehnai**. Varanasi. Bharat Ratna **2001**.
 - **Birju Maharaj** is **Kathak** (Lucknow gharana). Born UP. Not Bharat Ratna.
@@ -456,7 +452,7 @@ D. Sudha Murthy
 
 ---
 
-## Practice Zone — UPPCS Format Drill
+## Practice Zone
 
 > **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
@@ -1079,7 +1075,7 @@ D. Bhojpuri — separate Sahitya Akademi language
 
 </details>
 
-## Common Traps — Don't Fall For These
+## Common Traps
 
 - SNA is **1952**. Sahitya and Lalit Kala are **1954**.
 - **Jnanpith ≠ Sahitya Akademi**. First year **1965**.

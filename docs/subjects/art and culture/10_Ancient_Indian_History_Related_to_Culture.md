@@ -1,5 +1,4 @@
 # Topic 10 — Ancient Indian History Related to Culture
-### ★ UPPCS Revision Sheet — heading → identity line → teaching bullets (tables only for confused pairs)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -8,33 +7,28 @@ Ancient Indian Art | Ancient Indian Sculpture | Ancient Indian Architecture | An
 
 </details>
 
-> **Sources baked in:** NCERT An Introduction to Indian Art (Class 11), Themes I, UPPCS Prelims 2018–2025
-> **Weight:** ★★★ — IVC site ↔ state, sculpture school ↔ stone, first temple, crops, crafts
+> **Sources:** NCERT An Introduction to Indian Art (Class 11), Themes I, UPPCS Prelims 2018–2025
 > **Last verified:** August 2026
-> **Current Affairs:** No new fact that changes the IVC-UP list after . Dholavira remains UNESCO WHS **2021**. Sarnath WHS **2026** is a monument fact, not a new art-school.
 
 ---
 
 
 ## Current Affairs
 
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| 2025 Q87 | Mandi + Hulas = UP IVC. Rakhigarhi = Haryana | Repeats 2018/2021 site-state trap | UPPCS |
-| 2021 | Dholavira UNESCO WHS | Water architecture of IVC | UNESCO |
-| 2026 | Sarnath UNESCO WHS | Lion Capital / Gupta Buddha site is already the sculpture fact | UNESCO |
+- **Mandi** and **Hulas** are Indus sites in Uttar Pradesh. **Rakhigarhi** is in Haryana.
+- **Dholavira** entered the UNESCO World Heritage list in **2021**.
+- **Sarnath** entered the UNESCO World Heritage list in **2026**.
 
-No scheme/ministry CA changes the static craft and school lists (verified August 2026).
 
 ---
 
 
-## Consolidated — 26 Must-Score Facts
+## Consolidated Must-Score Facts
 
 1. Ancient Indian cultural span runs from **Bhimbetka** rock art through **Indus Valley** cities (about **2600–1900 BCE**), then **Maurya**, **Shunga–Kushan**, and **Gupta** (4th–6th century CE).
 2. Hallmark artistic achievements of the Indus Valley Civilisation include carved **steatite seals**, figurines of the **terracotta Mother Goddess**, meticulously planned baked-brick cities, and the iconic **Dancing Girl** bronze sculpture cast using the **lost-wax** (*cire perdue*) technique.
 3. **Northern Black Polished Ware (NBPW)** is the diagnostic deluxe pottery of the Mauryan and Northern Black Polished Ware period, while the classical Buddhist rock-cut murals of **Ajanta** represent the zenith of **Gupta–Vakataka** painting.
-4. Sculpture schools: **Gandhara** uses grey **schist** with Greco-Roman Buddha style in the north-west. **Mathura** uses red **sandstone** and is indigenous in **Uttar Pradesh. Amaravati** uses white **limestone** narrative panels in Andhra.
+4. Sculpture schools: **Gandhara uses grey **schist** with Greco-Roman Buddha style in the north-west. **Mathura** uses red **sandstone** and is indigenous in **Uttar Pradesh. Amaravati** uses white **limestone** narrative panels in Andhra.
 5. **Mauryan polish** on **Chunar** sandstone (Mirzapur belt) gives a mirror finish. The **Didarganj Yakshi** is the classic Mauryan polish figure.
 6. **Bharhut** and early **Sanchi** are **Shunga** narrative reliefs. Early Sanchi is largely **aniconic** (wheel, tree, throne), not a human Buddha.
 7. The **Gupta Sarnath Buddha** shows the **dharmachakra** mudra, a transparent robe, and calm idealism. It is the peak of classical Buddhist sculpture.
@@ -80,7 +74,7 @@ No scheme/ministry CA changes the static craft and school lists (verified August
 
 ### Culture spine
 
-| Phase | Lock |
+| Phase | Correct |
 |-------|------|
 | Bhimbetka | Prehistoric rock art |
 | Indus (~2600–1900 BCE) | Seals, terracotta, Dancing Girl (lost-wax), drains |
@@ -91,7 +85,7 @@ No scheme/ministry CA changes the static craft and school lists (verified August
 
 ### Sculpture schools
 
-| School | Lock |
+| School | Correct |
 |--------|------|
 | Gandhara | Grey **schist**; Greco-Roman; NW (≠ UP) |
 | Mathura | Red **sandstone**; indigenous; **UP** |
@@ -100,7 +94,7 @@ No scheme/ministry CA changes the static craft and school lists (verified August
 
 ### UP Indus / craft
 
-| Site | Lock |
+| Site | Correct |
 |------|------|
 | Alamgirpur | Easternmost Indus (Meerut) |
 | Mandi / Hulas | UP (≠ Rakhigarhi Haryana) |
@@ -112,7 +106,7 @@ No scheme/ministry CA changes the static craft and school lists (verified August
 
 ## 10.1 Ancient Indian Art
 
-**Span:** Prehistoric rock art → Gupta | **Ask:** period ↔ medium ↔ site
+Ancient art runs from prehistoric rock painting to the Gupta age. Learn each site with its period and medium.
 
 - **Bhimbetka** (MP) is famous for prehistoric rock paintings of animals and hunters. It is a UNESCO site. It is not a Gupta temple.
 - The first Indian archaeologist to establish Bhimbetka’s prehistoric importance was **V.S. Wakankar**.
@@ -166,14 +160,12 @@ D. Only 2
 
 ## 10.2 Ancient Indian Sculpture
 
-**Fact:** school — stone — one extra fact
-
 - **Mauryan** sculpture uses Chunar sandstone. It has a mirror polish and animal capitals.
-- The **Sarnath Lion Capital** has four addorsed lions. It became the National Emblem in **1950**. It is in **UP**.
+- The **Sarnath Lion Capital** has four addorsed lions. It became the National Emblem in **1950**. It is in **Uttar Pradesh.
 - The **Didarganj Yakshi** has Mauryan polish. It is at Patna and is stone, not bronze.
 - **Bharhut** has Shunga narrative railings. They show early Buddhist stories in relief.
 - **Sanchi** toranas are mature Shunga–Satavahana narrative gateways. They stand in MP.
-- **Gandhara** sculpture uses grey **schist** (also stucco). The Buddha is Greco-Roman / Hellenistic, with wavy hair, drapery and an Apollo-like face. The school is in the NW (Peshawar–Taxila belt).
+- **Gandhara sculpture uses grey **schist** (also stucco). The Buddha is Greco-Roman / Hellenistic, with wavy hair, drapery and an Apollo-like face. The school is in the NW (Peshawar–Taxila belt).
 - **Mathura** sculpture uses **red sandstone**. It shows an indigenous Buddha and Jina. The centre is in **Uttar Pradesh**, peaking under the Kushans and continuing into the Gupta age.
 - **Amaravati** sculpture uses white / greenish **limestone**. It is from Andhra and shows dynamic narrative and movement.
 - Stupas of the Amaravati school and Andhra region (such as Amaravati and Nagarjunakonda) are uniquely distinguished by rectangular platforms bearing groups of five **Aryaka pillars** (*ayaka-stambhas*) at the cardinal points.
@@ -202,7 +194,7 @@ D. Bodhgaya
 
 ## 10.3 Ancient Indian Architecture
 
-**Span:** IVC city → Mauryan Buddhist → Gupta first temple | **No true arch** in this span
+Ancient architecture runs from the Indus city to Mauryan Buddhist work and the first Gupta temples. There is no true arch in this span.
 
 - **IVC cities** had grid streets, a citadel and lower town, burnt brick and **covered drains**.
 - The **Great Bath** is at **Mohenjo-daro**. It is a watertight tank. It is not Harappa’s headline fact and not at Varanasi.
@@ -343,7 +335,7 @@ D. III, IV
 
 ## 10.4 Ancient Indian Agriculture
 
-**Identity:** IVC urban food base → Vedic plough village → Mauryan state farm
+Ancient agriculture runs from the Indus urban food base to the Vedic plough village and the Mauryan state farm.
 
 - IVC staples were **wheat** and **barley**. Sesamum, mustard and dates were also grown.
 - **Cotton** cultivation and textile evidence begin in the IVC. Cotton is not a colonial crop.
@@ -392,7 +384,7 @@ D. 4 3 1 2
 
 ## 10.5 Ancient Indian Industries
 
-**Identity:** Specialised craft from Harappan workshops to Gupta guilds
+Ancient industries are specialised crafts from Harappan workshops to Gupta guilds.
 
 - **Chanhudaro** was a bead factory. Materials include carnelian, faience and steatite.
 - Shell bangles come from coastal Harappan sites (Nageshwar, Balakot).
@@ -646,7 +638,7 @@ D. Manigrama
 
 ---
 
-## Practice Zone — UPPCS Format Drill
+## Practice Zone
 
 > **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
@@ -1265,13 +1257,13 @@ D. 1 and 3
 
 </details>
 
-## Common Traps — Don't Fall For These
+## Common Traps
 
-1. **Rakhigarhi** is in **Haryana**, not UP. **Mandi, Hulas and Alamgirpur** are in **UP**.
+1. **Rakhigarhi** is in **Haryana**, not UP. **Mandi, Hulas and Alamgirpur** are in **Uttar Pradesh.
 2. **Alamgirpur** is the **eastern** Harappan edge. **Manda** is the **north** (J&K).
 3. The **Great Bath** is at **Mohenjo-daro**, not Harappa and not Varanasi.
 4. **Boats** are from **Mohenjo-daro and Lothal**, not Kalibangan.
-5. **Gandhara** uses **grey schist** and a Greco-Roman style. **Mathura** uses **red sandstone** and is in **UP**.
+5. **Gandhara uses **grey schist** and a Greco-Roman style. **Mathura** uses **red sandstone** and is in **Uttar Pradesh.
 6. The **Dancing Girl** is **bronze lost-wax**, not terracotta.
 7. **NBPW** is **Mauryan**, not Harappan painted ware.
 8. **Punch-marked** coins are not the **Gupta gold dinara**.

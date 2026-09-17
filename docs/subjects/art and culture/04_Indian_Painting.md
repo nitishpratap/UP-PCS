@@ -1,5 +1,4 @@
 # Topic 4 — Indian Painting
-### ★ UPPCS Revision Sheet — heading → identity line → teaching bullets (tables only for confused pairs)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -8,19 +7,16 @@ Ancient Indian Painting | Classical Painting | Mural Paintings | Ajanta Painting
 
 </details>
 
-> **Sources baked in:** NCERT An Introduction to Indian Art (Class 11), Chitrasutra / Vishnudharmottara, UPPCS Prelims PYQs 2018–2025
-> **Weight:** ★★★ — school ↔ artist ↔ manuscript; Shadanga limbs; Ajanta cave + technique; Bengal School vs Ravi Varma
+> **Sources:** NCERT An Introduction to Indian Art (Class 11), Chitrasutra / Vishnudharmottara, UPPCS Prelims PYQs 2018–2025
 > **Last verified:** August 2026
-> **Current Affairs:** Pithora (Gujarat Rathwa) GI push 2025–26; Madhubani is GI, **not** UNESCO ICH.
 
 ---
 
 
 ## Current Affairs
 
-- **Pithora** painting (Rathwa, Gujarat; also practised in adjoining belts) — GI-led livelihood push in 2025–26 news; folk wall art, not a Mughal school.
-- **Madhubani** = GI; **not** a UNESCO ICH inscribed element.
-- No new Ajanta/Mughal manuscript CA that changes static facts (last verified August 2026).
+- **Pithora** painting of the Rathwa of Gujarat saw a GI-led livelihood push in **2025–26**. It is folk wall art. It is not a Mughal school.
+- **Madhubani** carries a GI tag. It is not a UNESCO Intangible Cultural Heritage element.
 
 ---
 
@@ -50,7 +46,7 @@ D. None of the above
 ---
 
 
-## Consolidated — 24 Must-Score Facts
+## Consolidated Must-Score Facts
 
 1. **Bhimbetka** rock shelters are in Raisen, **Madhya Pradesh. V.S. Wakankar** demonstrated their prehistoric importance in **1957**. They are UNESCO **2003**, not fresco.
 2. The **Jogimara** cave at Ramgarh in **Chhattisgarh**, dating to about the **3rd–1st** century BCE, contains the earliest surviving Indian frescoes, depicting secular dance and theatrical scenes rather than Buddhist narrative cycles.
@@ -103,7 +99,7 @@ D. None of the above
 
 ### Prehistoric / mural
 
-| Site | Lock |
+| Site | Correct |
 |------|------|
 | Bhimbetka | Raisen, **MP**; Wakankar **1957–58** |
 | Jogimara | Ramgarh, **Chhattisgarh**; earliest surviving fresco site |
@@ -117,7 +113,7 @@ D. None of the above
 
 ### Court / school tags
 
-| School | Lock |
+| School | Correct |
 |--------|------|
 | Akbar atelier | Hamzanama, Tuti-nama, Razmnama; Daswanth, Basawan |
 | Jahangir | **Ustad Mansur** (birds/flowers); Bishandas (portraits) |
@@ -129,7 +125,7 @@ D. None of the above
 
 ## 4.1 Ancient Indian Painting
 
-**Span:** Prehistoric rock art → early historic (before Gupta classical murals)
+Ancient painting runs from prehistoric rock art to early historic work, before Gupta classical murals.
 
 - **Bhimbetka** is in Raisen, **MP**. It is UNESCO **2003**, with about **500** shelters.
 - Layers run Palaeolithic → Mesolithic → historic. Colours are ochre red, white, green and yellow. Superimposition is used. This is **not fresco**.
@@ -168,7 +164,7 @@ D. V.N. Mishra
 
 ## 4.2 Classical Painting
 
-**Text:** Chitrasutra of **Vishnudharmottara Purana** | **Maturity:** Gupta / Vakataka (4th–6th c.)
+The classical text is the **Chitrasutra** of the *Vishnudharmottara Purana*. The look matures in the Gupta–Vakataka age of the fourth to sixth centuries.
 
 ### Shadanga (six limbs) — memorise all
 
@@ -192,7 +188,7 @@ D. V.N. Mishra
 
 ## 4.3 Mural Paintings
 
-**Identity:** Painting on wall/ceiling of architecture. **Fresco buono** = wet lime plaster. **Secco** = dry plaster + binder.
+A mural is painting on the wall or ceiling of a building. **Fresco buono** is paint on wet lime plaster. **Secco** is binder on dry plaster.
 
 - Wall prep is rough coat → fine lime → paint while damp.
 - **Ellora** is sculpture-famous. Cave 32 (Indra Sabha) has some paint. It is still not an Ajanta-class painting site.
@@ -219,7 +215,7 @@ D. V.N. Mishra
 
 ## 4.4 Ajanta Paintings
 
-**Place:** Waghora horseshoe, Aurangabad dist., Maharashtra | **UNESCO:** 1983 | **Caves:** ~30
+**Waghora valley, Aurangabad, Maharashtra | UNESCO 1983 | about 30 caves**
 
 - Phase I is **Hinayana / aniconic** (~2nd c. BCE–1st c. CE). The caves are **9** and **10**.
 - Phase II is **Mahayana / iconic** (5th–6th c.). The patron is Vakataka **Harishena**.
@@ -232,33 +228,29 @@ D. V.N. Mishra
 - The execution technique was **fresco on wet lime plaster** (neither oil nor gold leaf).
 - Rediscovery was in **1819** by **John Smith** at Cave 10.
 
-> **Logic:** Padmapani is **Cave 1**. Rediscovery is **1819John Smith**. The technique is fresco, not oil. Ajanta is not Ellora paintings.
+> **Logic:** Padmapani is **Cave 1**. Rediscovery is **1819 John Smith**. The technique is fresco, not oil. Ajanta is not Ellora paintings.
 
 ---
 
 ## 4.5 Mughal Paintings
 
-**Identity:** Paper or cloth **miniature** + calligraphy. **Not** a wall fresco.
-
-**How to revise:** one manuscript = one emperor. One artist = one specialty. Never as a comma-list.
+Mughal painting is a paper or cloth miniature with calligraphy. It is not a wall fresco.
 
 ### Humayun — two Persian masters
 
-**From:** Shah Tahmasp’s Safavid court | **Where:** Kabul, then Delhi
+Humayun’s masters came from Shah Tahmasp’s Safavid court. They worked first at Kabul, then at Delhi.
 
 - **Mir Sayyid Ali** was the first ustad of the Mughal kitabkhana.
 - **Abd al-Samad** was titled **Shirin Qalam** (“sweet pen”). He trained Akbar’s painters.
 
 ### Akbar — workshop
 
-**Place:** Fatehpur Sikri / Agra kitabkhana
+**Fatehpur Sikri and Agra | kitabkhana**
 
 - Hindu and Muslim painters worked together (~100 hands in Abu’l Fazl).
 - The look has many figures, busy story and flat space. Indian landscape sits on a Persian page.
 
 ### Akbar — manuscripts
-
-**Fact:** name — what it is — one fact.
 
 - **Tuti-nama** is *Tales of a Parrot*. It is the earliest Akbari illustrated set (Cleveland leaves).
 - **Hamzanama** is Akbar’s cloth cycle of Amir Hamza.
@@ -274,8 +266,6 @@ D. V.N. Mishra
 
 ### Akbar — artists
 
-**Fact:** name — job.
-
 - **Daswanth** was the leading **Hindu** master. He painted dramatic scenes. Tradition says he died by suicide.
 - **Basawan** was the **composition** specialist. He drew Akbarnama outlines.
 - **Kesu Das / Kesav Das** made copies of European prints (Madonnas).
@@ -288,8 +278,6 @@ D. V.N. Mishra
 **Shift:** fewer crowded stories; **portrait** + **birds/animals** + European shading. Album = *muraqqa* (gold border).
 
 ### Jahangir — artists
-
-**Fact:** name — title or specialty.
 
 - **Abu’l Hasan** held the title **Nadir-uz-Zaman** (“wonder of the age”). He painted royal portraits.
 - **Ustad Mansur** received the imperial title **Nadir-ul-Asr** from Jahangir for his peerless scientific paintings of **natural history** (including the dodo, Siberian crane, and zebra).
@@ -317,7 +305,7 @@ D. V.N. Mishra
 
 ### Deccani painting (not Rajput, not Kangra)
 
-**Centres:** Ahmadnagar | Bijapur | Golconda
+The three Deccani centres are **Ahmadnagar**, **Bijapur**, and **Golconda**.
 
 - Gold ground, *yogini*, ragamala and rich costume are typical.
 - **Nujum al-Ulum** is the Bijapur astrology book.
@@ -335,7 +323,7 @@ D. V.N. Mishra
 
 ## 4.6 Rajput Paintings
 
-**Identity:** Hindu princely miniatures of **Rajasthan** (and Malwa). Devotional + romantic, flatter than Mughal.
+Rajput painting is Hindu princely miniature of Rajasthan and Malwa. It is devotional and romantic, and flatter than Mughal work.
 
 **Fact for every school:** place — artist — one famous work/theme.
 
@@ -368,7 +356,7 @@ D. V.N. Mishra
 
 ## 4.7 Pahari Paintings
 
-**Identity:** Hill Rajput miniatures — Jammu / Himachal / Garhwal. **Not** Rajasthan.
+Pahari painting is hill Rajput miniature of Jammu, Himachal, and Garhwal. It is not Rajasthan plains painting.
 
 **Order to raata:** Basohli → Guler → Kangra.
 
@@ -398,7 +386,7 @@ D. V.N. Mishra
 
 ## 4.8 Company School
 
-**Dates:** c. **1770–1850** | **Patrons:** East India Company officers | **Hands:** Indian** artists
+Company School painting runs about **1770–1850**. East India Company officers were the patrons. Indian artists did the work.
 
 - The function is documentary albums for British patrons (costume, trade, monument, flora/fauna).
 - One Company-school centre is **Calcutta**.
@@ -426,11 +414,11 @@ D. V.N. Mishra
 
 ## 4.9 Modern Indian Paintings
 
-**Span:** Late 19th c. oil → Swadeshi revival → post-1947 modernism
+Modern Indian painting runs from late-nineteenth-century oil through the Swadeshi revival to post-1947 modernism.
 
 ### Raja Ravi Varma (1848–1906)
 
-**Place:** Travancore | **Medium:** oil + **oleograph** mass prints
+**Travancore | oil and oleograph**
 
 - He used European oil realism + Puranic subjects.
 - Famous oils are *Shakuntala*, *Hamsa Damayanti* and *Ravana abducting Sita*.
@@ -439,7 +427,7 @@ D. V.N. Mishra
 
 ### Bengal School
 
-**Founder:** Abanindranath Tagore** (at Calcutta School of Art under **E.B. Havell**, 1896–1900s) | **Technique:** Japanese-influenced **wash** | **Allies:** Okakura Kakuzo / Sister Nivedita circle
+The Bengal School was founded by **Abanindranath Tagore at the Calcutta School of Art under **E. B. Havell** in the 1890s–1900s. The technique is Japanese-influenced **wash**. Allies include Okakura Kakuzo and Sister Nivedita.
 
 - It is an anti-colonial revival using Mughal, Rajput and Ajanta memory.
 - Abanindranath painted ***Bharat Mata* (1905)**.
@@ -454,7 +442,7 @@ D. V.N. Mishra
 - **Asit Kumar Haldar** is Bengal wash.
 - **Kshitindranath Majumdar** is Bengal wash.
 - **Abdur Rahman Chughtai** is Lahore wash, Mughal lyric, not PAG.
-- **Gaganendranath Tagore** is cubist / ink. He is not the same as Abanindranath wash.
+- **Gaganendranath Tagore is cubist / ink. He is not the same as Abanindranath wash.
 - **Rabindranath** made late coloured doodles, not Bengal School doctrine.
 
 ### Other Modern Artists & Movements
@@ -579,7 +567,7 @@ D. Marble curving
 
 ---
 
-## Practice Zone — UPPCS Format Drill
+## Practice Zone
 
 > **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 

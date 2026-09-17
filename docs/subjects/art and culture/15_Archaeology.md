@@ -1,5 +1,4 @@
 # Topic 15 — Archaeology
-### ★ UPPCS Revision Sheet — heading → identity line → teaching bullets (tables only for confused pairs)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -8,25 +7,21 @@ Archaeology | Archaeological Discoveries | Excavations | Ancient Sites
 
 </details>
 
-> **Sources baked in:** NCERT Themes I, ASI, UPPCS Prelims 2018–2025
-> **Weight:** ★★★ — site ↔ state, excavator ↔ year, UP IVC traps, vertical vs horizontal, C-14 limits
+> **Sources:** NCERT Themes I, ASI, UPPCS Prelims 2018–2025
 > **Last verified:** August 2026
-> **Current Affairs:** Rakhigarhi 2025–26 skeletons to **AnSI** (Kolkata) + aDNA at **BSIP Lucknow**. Site remains **Haryana**, not UP. Sarnath WHS year is a monument fact, not a new excavator.
 
 ---
 
 
 ## Current Affairs
 
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| **2025–26** | ASI season at Rakhigarhi Mound 7; burials transferred to **AnSI Kolkata**; aDNA samples to **BSIP Lucknow** | Lab names + still **Haryana**, not UP | PIB / ASI, June 2026 |
-| **2026** | Sarnath inscribed UNESCO WHS | Site is excavated Buddhist UP; year lives with heritage too | WHC 48th |
+- In **2025–26** ASI dug Rakhigarhi Mound 7. Burials went to **AnSI Kolkata**. aDNA samples went to **BSIP Lucknow**. The site remains in **Haryana**, not Uttar Pradesh.
+- **Sarnath** was inscribed as a UNESCO World Heritage site in **2026**.
 
----
+---.
 
 
-## Consolidated — 26 Must-Score Facts
+## Consolidated Must-Score Facts
 
 1. **Archaeology** studies material remains through excavation and dating. **History** builds narrative mainly from written sources. The two work together but are not the same method.
 2. **Stratigraphy** uses the law of superposition: a lower undisturbed layer is older. **Typology** compares artefact styles across sites.
@@ -78,7 +73,7 @@ Archaeology | Archaeological Discoveries | Excavations | Ancient Sites
 
 ### Method tags
 
-| Item | Lock |
+| Item | Correct |
 |------|------|
 | Stratigraphy | Lower undisturbed layer = older |
 | Vertical / horizontal dig | Time sequence / one-period layout |
@@ -109,7 +104,7 @@ Archaeology | Archaeological Discoveries | Excavations | Ancient Sites
 
 ## 15.1 Archaeology
 
-**Identity:** Past humans from things they left | Dig + date + read context | Not the same as a history textbook
+Archaeology studies past humans from the things they left. Dig, date, and read the context. It is not the same as a history textbook.
 
 - Archaeology rebuilds life from pottery, bone, brick, seal, coin and inscription. It is essential where the script is unread, as at Harappa.
 - **History** reads texts. Archaeology reads layers. Both are needed after the Mauryas.
@@ -132,7 +127,7 @@ Archaeology | Archaeological Discoveries | Excavations | Ancient Sites
 
 ## 15.2 Archaeological Discoveries
 
-**Identity:** Who recognised the mound | Year | What changed in the textbook
+A discovery card is who recognised the mound, in which year, and what changed in the textbook.
 
 - Discovery is not the same as a full excavation. Cunningham saw a **Harappan seal in 1853**. He did not yet name a civilisation.
 - **Daya Ram Sahni** opened **Harappa in 1921**. Do not give him Mohenjo-daro.
@@ -175,7 +170,7 @@ D. V. N. Mishra
 
 ## 15.3 Excavations
 
-**Identity:** Controlled digging that keeps context | Vertical reads time | Horizontal reads plan
+Excavation is controlled digging that keeps context. Vertical cuts read time. Horizontal cuts read the plan.
 
 - An artefact without its layer is a souvenir. Context is the date and the function.
 - A **vertical** trench is cut to read **chronology**. Deep Harappan citadel sections are the type case.
@@ -194,7 +189,7 @@ D. V. N. Mishra
 
 ## 15.4 Ancient Sites
 
-**Identity:** Period + state + one speciality | UPPCS loves NOT-in-UP
+For each site, learn the period, the state, and one speciality. Watch sites that are not in Uttar Pradesh.
 
 ### Prehistoric (2023 match set)
 
@@ -251,10 +246,10 @@ D. A-3, B-2, C-4, D-1
 - **Manda** is in **Jammu & Kashmir**. It marks the **northern** edge, not the east.
 - **Surkotada** is in Gujarat. Horse-bone debate.
 - **Chanhudaro** (Sindh, Pakistan): Specialized craft and bead manufacturing centre without a fortified citadel; excavated by N. G. Majumdar and Ernest Mackay.
-- **Alamgirpur** is in **Meerut, UP**. It marks the **eastern** boundary.
+- **Alamgirpur** is in **Meerut, Uttar Pradesh. It marks the **eastern** boundary.
 - **Mandi** is in **Uttar Pradesh**.
-- **Hulas** is in **Saharanpur, UP**.
-- **Santhali** is in **Bijnor, UP**.
+- **Hulas** is in **Saharanpur, Uttar Pradesh.
+- **Santhali** is in **Bijnor, Uttar Pradesh.
 
 **PYQ — UPPCS Prelims 2025, Q87**
 
@@ -375,10 +370,10 @@ D. III, IV
 
 ### Chalcolithic and early historic (UP extra)
 
-- **Sanauli** is **Baghpat, UP**. 2018 chariot burial. Late Harappan / OCP. Not the 2025 Mandi–Hulas pair.
+- **Sanauli** is **Baghpat, Uttar Pradesh. 2018 chariot burial. Late Harappan / OCP. Not the 2025 Mandi–Hulas pair.
 - **Inamgaon** and **Kayatha** and **Ahar** are Deccan / MP / Rajasthan Chalcolithic. Not UP IVC.
 - **Hastinapur**, **Kaushambi**, **Ahichhatra** and **Shravasti** are **UP** early-historic mounds. **B. B. Lal** is the Hastinapur name.
-- **Sarnath** is **UP**. First-sermon Buddhist site. Lion Capital. WHS **2026**.
+- **Sarnath** is **Uttar Pradesh. First-sermon Buddhist site. Lion Capital. WHS **2026**.
 - **Pataliputra** is Bihar. **Nalanda** is Bihar. **Sanchi** is MP. **Ajanta** and **Ellora** are Maharashtra.
 - **Fatehpur Sikri** is UP medieval urban archaeology. **Hampi** is Karnataka.
 
@@ -544,7 +539,7 @@ D. III, IV
 
 ---
 
-## Practice Zone — UPPCS Format Drill
+## Practice Zone
 
 > **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
@@ -1169,11 +1164,11 @@ D. C-14 — fired pottery dating identical to TL
 
 </details>
 
-## Common Traps — Don't Fall For These
+## Common Traps
 
 - **Rakhigarhi = Haryana**, never UP. Largest ≠ easternmost.
 - **Alamgirpur = eastern** edge. **Manda = northern** (J&K).
-- **Mandi and Hulas = UP**. Padri = Gujarat. Balu = Haryana.
+- **Mandi and Hulas = Uttar Pradesh. Padri = Gujarat. Balu = Haryana.
 - **Sahni = Harappa 1921. Banerji = Mohenjo-daro 1922**. Do not swap.
 - **Wheeler ≠ first IVC excavator**. He is the 1946 grid.
 - **C-14 ≠ stone/metal**. Organic only.

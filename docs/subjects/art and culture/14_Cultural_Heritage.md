@@ -1,5 +1,4 @@
 # Topic 14 — Cultural Heritage
-### ★ UPPCS Revision Sheet — heading → identity line → teaching bullets (tables only for confused pairs)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -8,24 +7,21 @@ Tangible Cultural Heritage | Intangible Cultural Heritage | UNESCO World Heritag
 
 </details>
 
-> **Sources baked in:** UNESCO WH Convention 1972, ICH Convention 2003, ASI, Ministry of Culture, WHC inscriptions to July 2026, UPPCS Prelims 2018–2025
-> **Weight:** ★★★ — India WHS count, UP sites, tangible vs intangible, ICH element ↔ year, World Heritage Day 18 April
+> **Sources:** UNESCO WH Convention 1972, ICH Convention 2003, ASI, Ministry of Culture, WHC inscriptions to July 2026, UPPCS Prelims 2018–2025
 > **Last verified:** August 2026
-> **Current Affairs:** Sarnath** WHS **July 2026** (India **45th**; UP’s **4th**). Maratha Military Landscapes **2025** (44th). Moidams **2024** (43rd). **Deepavali** ICH **10 Dec 2025** (India’s **16th**).
 
 ---
 
 
 ## Current Affairs
 
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| **2024** | **Moidams**, Charaideo, Assam — 43rd Indian WHS | Newest-before-Maratha cultural fact | WHC / ASI |
-| **2025** | **Maratha Military Landscapes** — 12 forts, MH + Gingee TN — 44th | Serial fort property; not all in Maharashtra | WHC 47th session |
-| **July 2026** | **Sarnath** inscribed — 45th WHS; UP’s **4th** | UP count trap vs old “only 3” | WHC 48th, Busan |
-| **10 Dec 2025** | **Deepavali** ICH — India’s **16th**; 20.COM at Red Fort, Delhi | Stale “Diwali not listed” trap | UNESCO / Ministry of Culture |
+- **Moidams** of Charaideo, Assam, entered the World Heritage list in **2024** as India’s **43rd** property.
+- **Maratha Military Landscapes** entered in **2025** as the **44th**. The serial covers **12** forts: eleven in Maharashtra and **Gingee** in Tamil Nadu.
+- **Sarnath** was inscribed in **July 2026** as India’s **45th** property and Uttar Pradesh’s **fourth**.
+- **Deepavali** entered UNESCO ICH on **10 December 2025** as India’s **16th** element, at 20.COM at the Red Fort, Delhi.
 
----
+---.
+
 
 ### UKPCS Prelims 2025
 
@@ -55,7 +51,7 @@ D. A and D only
 ---
 
 
-## Consolidated — 26 Must-Score Facts
+## Consolidated Must-Score Facts
 
 1. **Tangible** cultural heritage is a monument or site you can touch. **Intangible** cultural heritage is a living practice or skill you perform.
 2. The World Heritage Convention is **1972** for sites with Outstanding Universal Value. The Intangible Heritage Convention is **2003** for living traditions. **Ramsar 1971** is wetlands, not WHS.
@@ -109,7 +105,7 @@ D. A and D only
 
 ### Conventions / India counts
 
-| Item | Lock |
+| Item | Correct |
 |------|------|
 | Tangible vs intangible | Monument you can touch vs living practice |
 | WHS Convention / ICH | **1972** / **2003** |
@@ -138,7 +134,7 @@ D. A and D only
 
 ## 14.1 Tangible Cultural Heritage
 
-**Identity:** Physical cultural property | Monument, site, city, cave, museum object | ASI + UNESCO are different doors
+Tangible heritage is physical cultural property: a monument, a site, a city, a cave, or a museum object. ASI protection and UNESCO listing are different doors.
 
 - Tangible heritage is material. A tourist can photograph it. An archaeologist can excavate it.
 - **Immovable tangible heritage** comprises built monuments, archaeological ruins, historic cities, rock-cut caves, temple complexes, and cultural landscapes.
@@ -157,7 +153,7 @@ D. A and D only
 
 ## 14.2 Intangible Cultural Heritage
 
-**Identity:** Living culture | Exists only while people transmit it | Five UNESCO domains
+Intangible heritage is living culture. It exists only while people transmit it. UNESCO uses five domains.
 
 - Intangible heritage is practice, not stone. It dies when the last skilled community stops teaching it.
 - UNESCO’s five domains are oral tradition, performing arts, social practices and rituals, knowledge of nature, and traditional craft skill.
@@ -175,7 +171,7 @@ D. A and D only
 
 ## 14.3 UNESCO World Heritage Sites
 
-**Identity:** 1972 Convention | Outstanding Universal Value | Cultural / natural / mixed
+World Heritage sites sit under the **1972** Convention. They need Outstanding Universal Value. Types are cultural, natural, or mixed.
 
 - The Convention Concerning the Protection of the World Cultural and Natural Heritage was adopted on **16 November 1972**.
 - India is a State Party. Nomination starts on the national **Tentative List**.
@@ -228,7 +224,7 @@ D. 3, 2, 1, 4
 
 ## 14.4 UNESCO Intangible Cultural Heritage
 
-**Identity:** 2003 Convention | Representative List + Urgent Safeguarding List | Community consent
+Intangible heritage sits under the **2003** Convention. Lists are the Representative List and the Urgent Safeguarding List. Community consent is required.
 
 - The Convention for the Safeguarding of the Intangible Cultural Heritage was adopted on **17 October 2003**. It entered into force in **2006**.
 - India **ratified in 2005**.
@@ -246,7 +242,7 @@ D. 3, 2, 1, 4
 
 ## 14.5 UNESCO World Heritage Sites in India
 
-**Identity:** 45** properties (July 2026) | **37** cultural, **7** natural, **1** mixed | Sixth globally
+India has **45** World Heritage properties as of July **2026**. The split is **37** cultural, **7** natural, and **1** mixed. India ranks sixth globally.
 
 - India’s first inscriptions were in **1983**: Ajanta, Ellora, **Agra Fort** and the **Taj Mahal**.
 - **UP has four** cultural WHS. The fourth is **Sarnath (2026)**. The first three are **Taj Mahal (1983)**, **Agra Fort (1983)** and **Fatehpur Sikri (1986)**.
@@ -345,7 +341,7 @@ D. Marakesh (Morocco)
 
 ## 14.6 UNESCO Intangible Heritage List (India)
 
-**Identity:** 16** Representative List elements (Dec 2025) | Year ↔ name ↔ region
+India has **16** UNESCO Representative List elements as of December **2025**. Learn each with year, name, and region.
 
 - UNESCO first ran a **Masterpieces** programme. India got three: **Kutiyattam (2001)**, **Vedic chanting (2003)**, **Ramlila (2005)**.
 - Those three entered the **Representative List in 2008**. A question can use either year. Do not treat 2001 and 2008 as two different elements.
@@ -464,7 +460,7 @@ D. Marakesh (Morocco)
 
 ---
 
-## Practice Zone — UPPCS Format Drill
+## Practice Zone
 
 > **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
@@ -1089,7 +1085,7 @@ D. Bharatanatyam — ICH 2008 named element
 
 </details>
 
-## Common Traps — Don't Fall For These
+## Common Traps
 
 - India WHS is **45**, not 43. UP is **4**, not 3. Add **Sarnath 2026**.
 - **Varanasi ghats** are still Tentative. Sarnath ≠ the ghats.

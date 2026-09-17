@@ -1,5 +1,4 @@
 # Topic 11 — Medieval Indian Cultural History
-### ★ UPPCS Revision Sheet — heading → identity line → teaching bullets (tables only for confused pairs)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -8,27 +7,21 @@ Medieval Indian Art | Medieval Indian Architecture | Medieval Indian Literature 
 
 </details>
 
-> **Sources baked in:** NCERT Themes II, An Introduction to Indian Art (Class 11), UPPCS Prelims 2018–2025
-> **Weight:** ★★★ — Akbar admin, Buland Darwaza, tomb-city match, Turki vs Persian, iqta / Khalsa
+> **Sources:** NCERT Themes II, An Introduction to Indian Art (Class 11), UPPCS Prelims 2018–2025
 > **Last verified:** August 2026
-> **Current Affairs:** No new monument or mansab reform that changes these static facts after the **2025** paper.
 
 ---
 
 
 ## Current Affairs
 
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| 2025 paper | Four Mughal tomb-city pairs + Buland Darwaza + Turki/Persian + Khalsa/Jagir | Fresh statement forms of static facts | UPPCS 2025 |
-| Standing | Fatehpur Sikri / Taj / Humayun’s Tomb UNESCO | Monument identity, not a new style | UNESCO |
+- **Fatehpur Sikri**, the **Taj Mahal**, and **Humayun’s Tomb** remain UNESCO World Heritage monuments. Tomb–city pairs and **Buland Darwaza** still sit in the standing Mughal set.
 
-No 2025–26 scheme rewrites mansab or Din-i-Ilahi (verified August 2026).
 
 ---
 
 
-## Consolidated — 28 Must-Score Facts
+## Consolidated Must-Score Facts
 
 1. **Humayun** brought Persian masters **Mir Sayyid Ali** and **Abdus Samad. Akbar** built the **kitabkhana** and the illustrated **Razmnama. Jahangir** favoured naturalism under painters such as **Mansur**. Under Aurangzeb many painters left the imperial atelier.
 2. Sultanate architecture spine: **Qutub** under Aibak–Iltutmish, **Alai Darwaza** under the Khaljis, and **Jaunpur Sharqi** work such as **Atala Masjid**.
@@ -80,7 +73,7 @@ No 2025–26 scheme rewrites mansab or Din-i-Ilahi (verified August 2026).
 
 ### Painting / books
 
-| Item | Lock |
+| Item | Correct |
 |------|------|
 | Humayun masters | Mir Sayyid Ali, Abdus Samad |
 | Akbar | Kitabkhana; illustrated atelier |
@@ -90,7 +83,7 @@ No 2025–26 scheme rewrites mansab or Din-i-Ilahi (verified August 2026).
 
 ### Architecture / tombs
 
-| Item | Lock |
+| Item | Correct |
 |------|------|
 | Sultanate spine | Qutub → Alai Darwaza → Jaunpur Sharqi |
 | Mughal spine | Humayun’s Tomb (charbagh) → Fatehpur Sikri → Taj |
@@ -99,7 +92,7 @@ No 2025–26 scheme rewrites mansab or Din-i-Ilahi (verified August 2026).
 
 ### Admin culture tags
 
-| Term | Lock |
+| Term | Correct |
 |------|------|
 | Iqta / Khalsa | Muqti revenue / crown land |
 | Mansab | Zat + sawar (not originally hereditary) |
@@ -110,7 +103,7 @@ No 2025–26 scheme rewrites mansab or Din-i-Ilahi (verified August 2026).
 
 ## 11.1 Medieval Indian Art
 
-**Identity:** Sultanate book-art + Mughal kitabkhana + Rajput/Pahari courts
+Medieval art is Sultanate book-art, the Mughal kitabkhana, and Rajput and Pahari courts.
 
 - Humayun, returning from Safavid exile, brings **Mir Sayyid Ali** and **Abdus Samad**. The Persian workshop enters India.
 - **Akbar** runs the imperial **kitabkhana**. Indian colour and costume fuse with Persian composition.
@@ -129,7 +122,7 @@ No 2025–26 scheme rewrites mansab or Din-i-Ilahi (verified August 2026).
 
 ## 11.2 Medieval Indian Architecture
 
-**Identity:** True arch + dome + charbagh | Monument ↔ ruler ↔ city
+Medieval architecture brings the true arch, the dome, and the charbagh. Learn monument, ruler, and city together.
 
 - **Qutub Minar** was started by **Aibak** and finished by **Iltutmish**. It stands in Delhi.
 - **Alai Darwaza** is by Alauddin Khalji. It is an early true-arch gateway.
@@ -154,7 +147,7 @@ No 2025–26 scheme rewrites mansab or Din-i-Ilahi (verified August 2026).
 
 ### Vijayanagara, Bahmani and Deccan cultural layer
 
-**Identity:** Contemporary with early Mughals | Hampi monuments | Deccan sultanate art.
+Vijayanagara art is contemporary with the early Mughals. Hampi holds the monuments. Deccan sultanate art sits beside it.
 
 - **Vijayanagara** (capital tradition at **Hampi**) builds large Dravida temple complexes, bazaar streets, and royal platforms remembered in the UNESCO Hampi landscape.
 - Musical–bhakti colour includes **Purandaradasa** and related Carnatic / Haridasa memory — do not park all medieval music under only Mughal courts.
@@ -250,7 +243,7 @@ D. Tin Darwaza – Ahmedabad
 
 ## 11.3 Medieval Indian Literature
 
-**Identity:** Persian court + Turki memoir + Sanskrit–Persian translations + Hindi bhakti books
+Medieval literature is Persian court prose, Turki memoir, Sanskrit–Persian translations, and Hindi bhakti books.
 
 - **Babur** wrote *Tuzuk-i-Baburi / Baburnama* in **Chagatai Turki**. A later Persian translation was by Abdur Rahim.
 - The Mughal **court language was Persian**. Turki is not the official court tongue.
@@ -412,7 +405,7 @@ D. (A) is false, but (R) is true
 
 ## 11.4 Medieval Indian Administration
 
-**Identity:** Sultanate iqta–Khalsa frame | Departments before Akbar’s mansab
+Sultanate administration uses the iqta and Khalsa frame. Its departments come before Akbar’s mansab.
 
 - Sultanate land is broadly **Khalsa** (crown, direct) and assigned holdings (**iqta** / later **jagir**).
 - **Khalsa** was under **direct** state control. Revenue went to the treasury.
@@ -466,7 +459,7 @@ D. Muqti was supposed to maintain troops out of the revenue collected from Iqta
 
 ## 11.5 Akbar's Administration
 
-**Identity:** Mansab + zabt + suba | Todar Mal revenue | Sher Shah coin continued
+Akbar’s administration is mansab, zabt, and suba. Todar Mal shapes the revenue. Sher Shah’s coin continues.
 
 - **Mansabdari** was the official nobility ranking. It was started by **Akbar**.
 - The dual number was **zat** (personal status / salary) and **sawar** (cavalry to maintain).
@@ -542,7 +535,7 @@ D. Neither 1 nor 2
 
 ## 11.6 Cultural Policies of Akbar
 
-**Identity:** Sulh-i-kul as public line | Din-i-Ilahi as a small private order
+**Sulh-i-kul** is Akbar’s public line of peace with all. **Din-i-Ilahi** is a small private order.
 
 - The **Ibadat Khana** was set up in **1575** at Fatehpur Sikri. It began with ulema debates and was later opened to other faiths.
 - The **Mahzar** belongs to **1579**. It is the so-called infallibility decree. Akbar became final arbiter in religious dispute among ulema.
@@ -900,7 +893,7 @@ D. (A) is false, but (R) is true
 
 ---
 
-## Practice Zone — UPPCS Format Drill
+## Practice Zone
 
 > **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
@@ -1524,7 +1517,7 @@ D. Buland Darwaza — Jahangir’s birth monument
 
 </details>
 
-## Common Traps — Don't Fall For These
+## Common Traps
 
 1. The **court language was Persian**. Babur’s book was in **Turki**.
 2. **Buland Darwaza** marks the **Gujarat victory**, not Jahangir’s birth.

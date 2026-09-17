@@ -1,5 +1,4 @@
 # Topic 7 — Indian Theatre & Performing Arts
-### ★ UPPCS Revision Sheet — heading → identity line → teaching bullets (tables only for confused pairs)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -8,28 +7,23 @@ Indian Theatre | Performing Arts | Folk Theatre | Sanskrit Theatre | Natyashastr
 
 </details>
 
-> **Sources baked in:** NCERT An Introduction to Indian Art (Class 11), Natyashastra, UNESCO ICH, SNA/NSD
-> **Weight:** ★★★ — folk theatre ↔ state, playwright ↔ play, Natyashastra stage words, puppet type
+> **Sources:** NCERT An Introduction to Indian Art (Class 11), Natyashastra, UNESCO ICH, SNA/NSD
 > **Last verified:** August 2026
-> **Current Affairs:** Koodiyattam UNESCO (proclaimed **2001**, list **2008**). Ramlila UNESCO **2008**. Mudiyettu **2010**.
 
 ---
 
 
 ## Current Affairs
 
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| 2001 / 2008 | Koodiyattam UNESCO masterpiece then Representative List | Theatre vs dance trap | UNESCO ICH |
-| 2008 | Ramlila UNESCO ICH | UP + folk theatre | UNESCO |
-| 2010 | Mudiyettu UNESCO | Kerala ritual theatre ≠ Kathakali | UNESCO |
+- **Koodiyattam** was proclaimed a UNESCO masterpiece in **2001** and entered the Representative List in **2008**.
+- **Ramlila** entered UNESCO ICH in **2008**.
+- **Mudiyettu** of Kerala entered UNESCO ICH in **2010**. It is ritual theatre, not Kathakali.
 
-SNA / NSD standing dates are static, not news.
 
 ---
 
 
-## Consolidated — 24 Must-Score Facts
+## Consolidated Must-Score Facts
 
 1. **Natyashastra** by **Bharata Muni** (about **200 BCE–200 CE**) codifies drama with about **10** rupaka, **9** rasa, and four abhinaya.
 2. **Abhinavabharati** is Abhinavagupta’s commentary on Natyashastra. **Dasharupaka** is Dhananjaya’s later summary of play types.
@@ -79,7 +73,7 @@ SNA / NSD standing dates are static, not news.
 
 ### Texts / playwrights
 
-| Item | Lock |
+| Item | Correct |
 |------|------|
 | Natyashastra | Bharata; ~10 rupaka; 9 rasa |
 | Abhinavabharati / Dasharupaka | Abhinavagupta / Dhananjaya |
@@ -90,7 +84,7 @@ SNA / NSD standing dates are static, not news.
 
 ### Folk / UNESCO / UP
 
-| Form | Lock |
+| Form | Correct |
 |------|------|
 | Koodiyattam | Kerala living Sanskrit; UNESCO **2001/2008** |
 | Nautanki | **UP** folk opera; Kanpur–Lucknow; *Ain-i-Akbari* |
@@ -106,7 +100,7 @@ SNA / NSD standing dates are static, not news.
 
 ## 7.1 Indian Theatre
 
-**Identity:** Live drama with speech, song, dance, costume | Three layers: Sanskrit, folk, modern
+Indian theatre is live drama with speech, song, dance, and costume. The three layers are Sanskrit, folk, and modern.
 
 - It is the oldest continuous drama tradition in the subcontinent. Vedic *samvada* hymns are only a hint, not full plays.
 - The word *nataka* is from *nata*, meaning dancer. Drama, dance and music start as one art.
@@ -124,13 +118,13 @@ SNA / NSD standing dates are static, not news.
 - Classical Sanskrit plays invariably end happily (there is no Greek-style tragedy tradition).
 - Stock figures include the **nayaka** (hero), **nayika** (heroine), and **vidushaka** (jester/clown), while the **sutradhara** serves as the stage manager and director-presenter.
 
-> **Logic:** Theatre is not “only Sanskrit.” UPPCS geography loves **Nautanki** as **UP**.
+> **Logic:** Theatre is not “only Sanskrit.” UPPCS geography loves **Nautanki** as **Uttar Pradesh.
 
 ---
 
 ## 7.2 Performing Arts
 
-**Identity:** Live arts before an audience | Music + dance + theatre + puppetry
+Performing arts are live arts before an audience. The set is music, dance, theatre, and puppetry.
 
 - *Sangeet* is gita, vadya, and nritya. This chapter facts **theatre, puppetry and stage**.
 - Folk “total shows” mix all three: Nautanki, Yakshagana, Jatra, Tamasha.
@@ -144,9 +138,7 @@ SNA / NSD standing dates are static, not news.
 
 ## 7.3 Folk Theatre
 
-**Rule:** Regional language, open air, oral, and festival/fair.
-
-**Fact:** name, state, and one fact.
+Folk theatre uses a regional language. It is open-air, oral, and tied to a festival or fair.
 
 - **Nautanki** belongs to **Uttar Pradesh**. It is folk opera and an offshoot of Swang. It is named in **Ain-i-Akbari**.
 - The Nautanki drum is **nagara**. Two schools are **Kanpur** and **Lucknow**.
@@ -181,13 +173,13 @@ SNA / NSD standing dates are static, not news.
 - **Khyal** is a Rajasthan folk play. It is not Hindustani *khayal* singing.
 - **Theyyam** is north Kerala ritual theatre. It holds Sangam Velan memory. It is not Kathakali.
 
-> **Logic:** Nautanki belongs to **UP**. Tamasha is not UP. Yakshagana belongs to Karnataka, not Kerala.
+> **Logic:** Nautanki belongs to **Uttar Pradesh. Tamasha is not UP. Yakshagana belongs to Karnataka, not Kerala.
 
 ---
 
 ## 7.4 Sanskrit Theatre
 
-**Language:** Sanskrit + Prakrit | **Age:** roughly 2nd c. BCE–12th c. CE | **Living remnant:** Koodiyattam
+Sanskrit theatre uses Sanskrit and Prakrit. It runs roughly from the second century BCE to the twelfth century CE. The living remnant is **Koodiyattam**.
 
 ### Playwrights (one name, one play fact)
 
@@ -216,7 +208,7 @@ SNA / NSD standing dates are static, not news.
 
 ## 7.5 Natyashastra
 
-**Author:** Bharata Muni | **Identity:** drama + dance + music treatise | Dance papers use the same book
+The **Natyashastra** is by **Bharata Muni**. It is a treatise of drama, dance, and music. Dance chapters use the same book.
 
 - It is called a **Natyaveda** / fifth Veda in tradition.
 - Pathya (words) is from **Rigveda**.
@@ -252,7 +244,7 @@ SNA / NSD standing dates are static, not news.
 
 ## 7.6 Rangmanch (Stage Traditions)
 
-**Identity:** How the play is housed and entered
+Rangmanch is how the play is housed and how the audience enters.
 
 - **Yavanika** is the curtain. It is used for entries and exits.
 - **Nepathya** is backstage (dress, props).
@@ -273,7 +265,7 @@ SNA / NSD standing dates are static, not news.
 
 ## 7.7 Puppetry
 
-**Four Indian types in standard notes:** string | shadow | rod | glove
+The four Indian puppet types are **string**, **shadow**, **rod**, and **glove**.
 Syllabus names the first two plus Kathputli (a string school).
 
 ### String (sutradharika)
@@ -315,7 +307,7 @@ Koodiyattam is Sanskrit temple theatre of Kerala (UNESCO 2001/2008), not a class
 
 ---
 
-## Practice Zone — UPPCS Format Drill
+## Practice Zone
 
 > **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
@@ -930,7 +922,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 </details>
 
-## Common Traps — Don't Fall For These
+## Common Traps
 
 1. **Nautanki** belongs to **UP** (Kanpur and Lucknow). Tamasha belongs to Maharashtra. Jatra belongs to Bengal.
 2. **Yakshagana** belongs to **Karnataka**, not Kerala.

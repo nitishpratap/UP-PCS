@@ -1,5 +1,4 @@
 # Topic 3 — Indian Architecture
-### ★ UPPCS Revision Sheet — heading → identity line → teaching bullets (tables only for confused pairs)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -8,10 +7,8 @@ Indian Temple Architecture | Nagara Style | Dravida Style | Vesara Style | Templ
 
 </details>
 
-> **Sources baked in:** NCERT An Introduction to Indian Art (Class 11), Themes I–III, ASI/UNESCO, Ghatnachakra Architecture in Ancient India (B–153+), UPPCS Prelims PYQs 2018–2025
-> **Weight:** ★★★ — style ↔ monument ↔ dynasty ↔ place; Mughal tomb match; cave numbering; UP vs not-UP
+> **Sources:** NCERT An Introduction to Indian Art (Class 11), Themes I–III, ASI/UNESCO, Ghatnachakra Architecture in Ancient India (B–153+), UPPCS Prelims PYQs 2018–2025
 > **Last verified:** September 2026
-> **Current Affairs:** Sarnath UNESCO WHS **July 2026** (India **45th**; UP’s 4th cultural WHS); Maratha Military Landscapes **2025** (44th); Moidams Charaideo **2024** (43rd)
 
 ---
 
@@ -183,7 +180,7 @@ Indian Temple Architecture | Nagara Style | Dravida Style | Vesara Style | Templ
 
 ## 3.2 Nagara Style
 
-**Region:** North India | **Tower:** curvilinear **shikhara** | **Gateway:** no monumental gopuram
+Nagara temples belong to North India. The tower is a curvilinear **shikhara**. There is generally no monumental gopuram.
 
 - **Latina** is the simple curvilinear sanctum tower.
 - **Phamsana** is a stepped pyramidal roof, usually over the mandapa.
@@ -231,7 +228,7 @@ Indian Temple Architecture | Nagara Style | Dravida Style | Vesara Style | Templ
 
 ### Morena Chausath Yogini
 
-**Builder:** Kachchhapaghata **Devapala** | **Place:** Morena, Madhya Pradesh | **Plan:** circular hypaethral
+**Kachchhapaghata Devapala | Morena, Madhya Pradesh | circular hypaethral plan**
 
 - This circular temple is separate from the Khajuraho Chausath Yogini.
 - Popular belief links the circular plan to the design of the Indian Parliament building.
@@ -240,7 +237,7 @@ Indian Temple Architecture | Nagara Style | Dravida Style | Vesara Style | Templ
 
 ### Konark Sun Temple
 
-**Builder:** Narasimhadeva I (Eastern Ganga) | **Century:** 13th c. | **Place:** Odisha | **UNESCO:** 1984
+**Narasimhadeva I (Eastern Ganga) | 13th century | Odisha | UNESCO 1984**
 
 - Konark is a stone **chariot** of Surya. It has **24** wheels and **7** horses.
 - The composition is a rekha deul with a pidha jagamohana.
@@ -249,7 +246,7 @@ Indian Temple Architecture | Nagara Style | Dravida Style | Vesara Style | Templ
 
 ### Khajuraho Group
 
-**Builder:** Chandela | **Century:** 10th–12th c. | **Place:** Madhya Pradesh (not UP) | **UNESCO:** 1986
+**Chandela | 10th–12th century | Madhya Pradesh | UNESCO 1986**
 
 - The campus has a western Hindu group, an eastern Jain group, and a southern group.
 - Erotic *mithuna* figures sit on the exterior. The sanctum remains a sacred chamber.
@@ -280,7 +277,7 @@ D. Bhimashankar
 
 ## 3.3 Dravida Style
 
-**Region:** Tamil country and the south | **Tower:** pyramidal **vimana** over the sanctum | **Gateway:** tall **gopuram**
+Dravida temples belong to the Tamil country and the south. The tower is a pyramidal **vimana** over the sanctum. The gateway is a tall **gopuram**.
 
 - A Dravida campus sits inside an enclosure called a *prakara*, entered through gopurams.
 - Under the **Pandya** and later **Nayaka** rulers of Madurai, the outer gopurams become the dominant face and can dwarf the vimana.
@@ -300,7 +297,7 @@ D. Bhimashankar
 
 ## 3.4 Vesara Style
 
-**Region:** Karnataka / Deccan | **Identity:** hybrid of Nagara and Dravida
+**Karnataka and the Deccan | Vesara hybrid of Nagara and Dravida**
 
 - **Aihole** is remembered as the cradle of early Indian temple experiment under the Early Chalukyas.
 - The **Durga** temple at Aihole reuses an apsidal chaitya plan.
@@ -323,7 +320,7 @@ D. Bhimashankar
 
 ## 3.5 Gupta Period Temples
 
-**Identity:** First **structural** freestanding stone and brick temples in the north | **Century:** 4th–6th c.
+Gupta temples are the first **structural** freestanding stone and brick temples in the north. They belong to the fourth to sixth centuries.
 
 - Freestanding mortar-and-stone or brick temples are remembered as beginning in the **Gupta** age. They are not Mauryan rock-cut work.
 - Early Gupta shrines are flat-roofed. A simple shikhara then appears. **Panchayatana** also appears.
@@ -345,7 +342,7 @@ D. Bhimashankar
 
 ### Pallava
 
-**Capital:** Kanchi | **Stone:** granite | **Sites:** Mahabalipuram (Mamallapuram), Kanchipuram
+**Kanchi | granite | Mahabalipuram and Kanchipuram**
 
 - Pallava temple work runs **Mahendra** rock-cut mandapas, then **Mamalla** monolith rathas, then **Rajasimha** structural temples, then **Nandivarman**.
 - **Mahendravarman I** left the Mandagapattu inscription. It records the first rock-cut shrine made without brick, timber, or metal.
@@ -360,7 +357,7 @@ D. Bhimashankar
 
 ### Chola
 
-**Identity:** Imperial structural Dravida in granite | **Inscriptions on temple walls** explain why we know more about the Cholas than their predecessors
+Chola temples are imperial structural Dravida in granite. Inscriptions on the walls explain why we know more about the Cholas than their predecessors.
 
 - The early Chola **Korangnath** temple at **Srinivasanallur** belongs to **Parantaka I**.
 - **Brihadeeswara**, also called Rajarajeshwara, at Thanjavur was built by **Rajaraja I** in **1003–1010 CE**. The fabric is granite.
@@ -421,7 +418,7 @@ D. (A) is false but (R) is true
 
 ## 3.7 Buddhist Architecture
 
-**Trio:** Stupa (relic mound) | Chaitya (prayer hall) | Vihara (monastery)
+The Buddhist trio is the **stupa** (relic mound), the **chaitya** (prayer hall), and the **vihara** (monastery).
 
 - Buddhist sacred building comes in three types. Papers treat them as three different statements.
 - A **stupa** is a solid relic mound. Devotees walk around it.
@@ -435,7 +432,7 @@ D. (A) is false but (R) is true
 
 ## 3.8 Stupa
 
-**Identity:** Solid relic mound | Parts from bottom to top: *medhi*, then *anda*, then *harmika*, then *yashti* with *chhatra*
+A stupa is a solid relic mound. From bottom to top the parts are *medhi*, then *anda*, then *harmika*, then *yashti* with *chhatra*.
 
 - A **vedika** is the rail around a stupa.
 - A **torana** (तोरण) is a gateway.
@@ -478,7 +475,7 @@ D. Bodhgaya
 
 ## 3.9 Chaitya
 
-**Identity:** Apsidal prayer hall | Nave and aisles | Stupa in the apse | Ribbed vault
+A chaitya is an apsidal prayer hall. It has a nave and aisles, a stupa in the apse, and a ribbed vault.
 
 - A chaitya is not the free-standing stupa. The hall contains a stupa.
 - **Karle**, also called Karla, near Lonavala is the **largest** surviving Hinayana chaitya.
@@ -498,7 +495,7 @@ D. Bodhgaya
 
 ## 3.10 Vihara
 
-**Identity:** Monastery | Cells around a courtyard or central hall
+A vihara is a monastery. Cells stand around a courtyard or a central hall.
 
 - A vihara houses monks. It is not a prayer-hall chaitya.
 - Most Ajanta caves are viharas. Caves **1, 2, 16, and 17** carry the famous murals.
@@ -517,7 +514,7 @@ D. Bodhgaya
 
 ## 3.11 Rock-cut Architecture
 
-**Identity:** Carved from living rock | Not assembled from dressed blocks
+Rock-cut architecture is carved from living rock. It is not assembled from dressed blocks.
 
 - Rock-cut is a **method**. The finished work may be a chaitya, a ratha, or a cave temple.
 - **Barabar** and **Nagarjuni** in Bihar are Mauryan. Patrons are **Ashoka** and **Dasharatha**. The users are **Ajivikas**. The polish is Mauryan.
@@ -536,7 +533,7 @@ D. Bodhgaya
 
 ## 3.12 Cave Architecture
 
-**Identity:** Numbered cave complexes of Buddhist, Hindu, and Jain use | UNESCO cave sites sit here
+Cave architecture is numbered cave complexes of Buddhist, Hindu, and Jain use. UNESCO cave sites sit here.
 
 - **Ajanta** sits in the Waghora gorge in Aurangabad / Chhatrapati Sambhaji Nagar district, Maharashtra. It is **Buddhist only**. UNESCO listed it in **1983**.
 - Ajanta has about **30** numbered caves. The early phase is Satavahana Hinayana, about the second century BCE. The later phase is Vakataka Mahayana of the fifth–sixth centuries under **Harishena**.
@@ -583,7 +580,7 @@ D. Kanishka
 
 ## 3.13 Indo-Islamic Architecture
 
-**Identity:** True **arch**, **dome**, **minaret**, mortar, calligraphy, *jali*, and arabesque from the late-twelfth-century Sultanate
+Indo-Islamic architecture brings the true **arch**, the **dome**, the **minaret**, mortar, calligraphy, *jali*, and arabesque from the late-twelfth-century Sultanate.
 
 - Pre-Islamic India usually used the **corbel**. **Alai Darwaza** is the textbook **true arch** and **true dome**.
 - A **squinch** is the early device that sets a dome on a square. A **pendentive** is the later curved-triangle device.
@@ -591,7 +588,7 @@ D. Kanishka
 
 ### Qutub complex (Delhi — not Uttar Pradesh)
 
-**Start:** Qutb-ud-din **Aibak** about **1193–99** | **Storeys 1–4:** Iltutmish | **Fifth storey and repairs:** Firoz Shah Tughlaq | **Height:** about **72.5** m | **UNESCO:** 1993
+Qutb-ud-din **Aibak** began the minar about **1193–99**. **Iltutmish** raised storeys **1–4**. **Firoz Shah Tughlaq** added the fifth storey and repairs. Height is about **72.5** m. UNESCO listed the complex in **1993**.
 
 - The minar uses red sandstone with marble bands on the upper storeys. It has about **379** steps. Afghan *minars* such as Jam inspired it, but the result is an Indian synthesis.
 - **Quwwat-ul-Islam** mosque was begun by Aibak on debris of demolished temples.
@@ -704,7 +701,7 @@ D. Tin Darwaza – Ahmedabad
 
 ## 3.14 Mughal Architecture
 
-**Identity:** Charbagh garden-tomb, the shift from red sandstone to marble, *pietra dura*, the **double dome**, *chhatri*, *jharokha*, and the *hasht-bihisht* eight-paradise plan
+Mughal architecture is the charbagh garden-tomb, the shift from red sandstone to marble, *pietra dura*, the **double dome**, *chhatri*, *jharokha*, and the *hasht-bihisht* eight-paradise plan.
 
 ### By emperor
 
@@ -749,7 +746,7 @@ D. Tin Darwaza – Ahmedabad
 
 ### Fatehpur Sikri (Uttar Pradesh)
 
-**Founder:** Akbar | **UNESCO:** 1986 | **Capital about 15 years**, then abandoned for water
+**Akbar | UNESCO 1986 | capital for about 15 years, then abandoned for water**
 
 - **Buland Darwaza** commemorates the **Gujarat victory of 1573**. It does not mark the birth of Salim / Jahangir. Jahangir was born in **1569**.
 - The Jama Masjid of Sikri holds the white-marble **dargah of Salim Chishti** in its courtyard.
@@ -762,7 +759,7 @@ D. Tin Darwaza – Ahmedabad
 
 ### Taj Mahal (Agra, Uttar Pradesh)
 
-**Patron:** Shah Jahan | **For:** Arjumand Banu Begum (Mumtaz Mahal) | **Years:** 1631 to about 1648/53 | **UNESCO:** 1983
+**Shah Jahan | Arjumand Banu Begum (Mumtaz Mahal) | 1631 to about 1648/53 | UNESCO 1983**
 
 - The tomb uses Makrana marble on the Yamuna bank. The garden is a charbagh.
 - Four minarets lean slightly outward.
@@ -3014,7 +3011,7 @@ D. Varaha Image at Udayagiri
 
 ---
 
-## Practice Zone — UPPCS Format Drill
+## Practice Zone
 
 > **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 

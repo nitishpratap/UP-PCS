@@ -1,5 +1,4 @@
 # Topic 1 — Institutions Related to Indian Culture
-### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥25)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -8,27 +7,23 @@ Indological Studies | Gurukul System | Ancient Indian Education System | Nalanda
 
 </details>
 
-> **Sources baked in:** NCERT Themes I–III, An Introduction to Indian Art (Class 11), Ministry of Culture / PIB, UNESCO, AMASR Act 1958, UPPCS Prelims PYQs 2018–2025
-> **Weight:** ★★★ — year–HQ–ministry matching, three akademis trap, ancient universities
+> **Sources:** NCERT Themes I–III, An Introduction to Indian Art (Class 11), Ministry of Culture / PIB, UNESCO, AMASR Act 1958, UPPCS Prelims PYQs 2018–2025
 > **Last verified:** August 2026
-> **Current Affairs:** Sahitya Akademi Yuva Puraskar **June 2025** (23 languages; **no Dogri**); **Gyan Bharatam Mission** (NMM restructured, Budget 2025–26); new Nalanda campus **Rajgir, June 2024** (MEA, not Culture)
 
 ---
 
 
 ## Current Affairs
 
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| **June 2025** | Sahitya Akademi Yuva Puraskar in **23** languages; **no Dogri** | | Sahitya Akademi press note / PIB |
-| **Budget 2025–26** | **Gyan Bharatam Mission** — NMM restructured (Central Sector, ~2024–31) for manuscript survey/digitisation | Scheme-name trap vs old NMM 2003 | PIB / Mo Culture |
-| **June 2024** | New **Nalanda University** campus inaugurated at **Rajgir**; university under **MEA** | Not ASI ruins; not Mo Culture | PMO / MEA |
-| **May 2025** | **Sachin Chaturvedi** assumed charge as VC, Nalanda University | Appointment CA | University / press |
+- Sahitya Akademi **Yuva Puraskar 2025** ran in **23** languages. **Dogri** was not on the list.
+- Budget **2025–26** restructured the National Mission for Manuscripts as the **Gyan Bharatam Mission**, a Central Sector scheme for about **2024–31**.
+- The new **Nalanda University** campus at **Rajgir** was inaugurated in **June 2024**. The university sits under the **MEA**, not Culture.
+- **Sachin Chaturvedi** assumed charge as Vice-Chancellor of Nalanda University in **May 2025**.
 
----
+---.
 
 
-## Consolidated — 24 Must-Score Facts
+## Consolidated Must-Score Facts
 
 1. The **Asiatic Society of Bengal** was founded in **1784** at Calcutta by **Sir William Jones. Warren Hastings** declined the Presidentship in Jones’s favour.
 2. **Fort William College** was set up in **1800** by **Lord Wellesley** to train Company officers in Indian languages.
@@ -78,7 +73,7 @@ Indological Studies | Gurukul System | Ancient Indian Education System | Nalanda
 
 ### Institution ↔ year / founder
 
-| Institution | Lock |
+| Institution | Correct |
 |-------------|------|
 | Asiatic Society of Bengal | **1784**, Calcutta; **William Jones** (Hastings declined presidency) |
 | Fort William College | **1800**; **Wellesley** |
@@ -91,7 +86,7 @@ Indological Studies | Gurukul System | Ancient Indian Education System | Nalanda
 
 ### Learning / mahavihara tags
 
-| Item | Lock |
+| Item | Correct |
 |------|------|
 | Gurukul | Residential guru–shishya; dakshina ≠ monthly fee |
 | 18 Vidyas / 64 Kalas | Classical learning counts |
@@ -105,7 +100,7 @@ Indological Studies | Gurukul System | Ancient Indian Education System | Nalanda
 
 ## 1.1 Indological Studies
 
-**Fact event:** Asiatic Society of Bengal, **15 January 1784**, Calcutta.
+**Asiatic Society of Bengal | 15 January 1784 | Calcutta**
 
 | Person / body | Key fact |
 |---------------|-----------|
@@ -166,7 +161,7 @@ D. (A) is false, but (R) is true
 
 ## 1.2 Gurukul System
 
-**Meaning:** Residential school; **shishya** lived in the **guru’s** household; oral guru-shishya parampara.
+A gurukul is a residential school. The shishya lived in the guru’s household. Teaching was oral guru-shishya parampara.
 
 - Entry was often via **Upanayana** into the **Brahmacharya** ashrama (traditionally dvija varnas).
 - There was no monthly tuition. **Guru dakshina** was given at the **end** (Eklavya’s thumb is the legendary extreme dakshina).
@@ -174,7 +169,7 @@ D. (A) is false, but (R) is true
 - Duration was variable (often ~12 years) until the guru declared competence. There was no semester grid.
 - Access was **not** universal (varna/gender). Upanishadic exceptions include **Gargi, Maitreyi and Lopamudra**.
 - By contrast, Buddhist **vihara** schools were open to wider groups including merchants.
-- **Gurukul Kangri Vishwavidyalaya** was founded at Haridwar in **1902** by **Dayananda Saraswati** (Arya Samaj). It taught Vedic and modern subjects. Arya Samaj gurukuls spread in the Gangetic belt including **UP**.
+- **Gurukul Kangri Vishwavidyalaya** was founded at Haridwar in **1902** by **Dayananda Saraswati** (Arya Samaj). It taught Vedic and modern subjects. Arya Samaj gurukuls spread in the Gangetic belt including **Uttar Pradesh.
 
 > **Logic:** Residential + oral + dakshina at end. “Monthly fee day-school” = FALSE. Kangri = Dayananda **1902**, not Vivekananda.
 
@@ -215,12 +210,12 @@ Not one system: Brahmanical gurukuls, Buddhist **viharas**, Jain **shalas**, **s
 
 ## 1.5 Takshashila University
 
-**Where:** Gandhara** — present-day **Pakistan** (Taxila, near Rawalpindi). **Not** Bihar / UP.
+**Gandhara | present-day Pakistan (Taxila, near Rawalpindi)**
 
 - It was among the **oldest** higher-learning centres, on the **Uttarapatha** trade route. It was a **city of many independent acharyas**, **not** one mahavihara campus.
 - Linked names include **Panini** (*Ashtadhyayi*), **Chanakya/Kautilya**, **Jivaka** (medicine) and the **Charaka** tradition.
 - Subjects included Vedas, medicine, military science, law, astronomy, grammar and 18 crafts.
-- **Alexander** encountered the Taxila kingdom in **326 BCE**. Later **Gandhara** Greco-Buddhist art developed here.
+- **Alexander** encountered the Taxila kingdom in **326 BCE**. Later **Gandhara Greco-Buddhist art developed here.
 - Decline followed **Hun** invasions (5th c.) and then a political shift. It was **not** a single Khilji raid.
 - It is a UNESCO WH site from **1980** (Pakistan). The Indian **ASI is not** the custodian.
 
@@ -724,7 +719,7 @@ D. 2018
 
 ---
 
-## Practice Zone — UPPCS Format Drill
+## Practice Zone
 
 > **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 

@@ -1,5 +1,4 @@
 # Topic 5 — Indian Music
-### ★ UPPCS Revision Sheet — heading → identity line → teaching bullets (tables only for confused pairs)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -8,27 +7,24 @@ Indian Music | Hindustani Classical Music | Carnatic Classical Music | Major Gha
 
 </details>
 
-> **Sources baked in:** NCERT An Introduction to Indian Art (Class 11), Natyashastra, Sangeet Ratnakar, UPPCS Prelims PYQs 2018–2025
-> **Weight:** ★★★ — treatise↔author, form↔court, gharana↔artist, instrument family, Trinity
+> **Sources:** NCERT An Introduction to Indian Art (Class 11), Natyashastra, Sangeet Ratnakar, UPPCS Prelims PYQs 2018–2025
 > **Last verified:** August 2026
-> **Current Affairs:** Ustad **Zakir Hussain** died **15 Dec 2024**. SNA founded **1952**. Vedic chanting is UNESCO ICH **2008**. Sankirtana **2013**.
 
 ---
 
 
 ## Current Affairs
 
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| Dec 2024 | Ustad **Zakir Hussain** died (tabla). Padma Vibhushan 2023. | Personality + instrument match | Family/press, 15 Dec 2024 |
-| 1952 / standing | Sangeet Natak Akademi | Body year if mixed with musicians | SNA 1952, New Delhi |
+- Ustad **Zakir Hussain**, the tabla maestro, died in **December 2024**. He received the Padma Vibhushan in **2023**.
+- The **Sangeet Natak Akademi** was founded in **1952**.
+- Vedic chanting entered UNESCO ICH in **2008**.
+- Manipuri **Sankirtana** entered UNESCO ICH in **2013**.
 
-Vedic chanting UNESCO ICH **2008**. Sankirtana (Manipur) **2013**.
 
 ---
 
 
-## Consolidated — 24 Must-Score Facts
+## Consolidated Must-Score Facts
 
 1. In Indian tradition, **Sangeet** encompasses the triad of **gita** (vocal music), **vadya** (instrumental music), and **nritya** (dance). The earliest textual foundation for sacred melodic chanting is the **Samaveda**.
 2. Theory roots are **Natyashastra** by **Bharata Muni** and the first clear use of the word **raga** in **Matanga**’s *Brihaddeshi*.
@@ -82,7 +78,7 @@ Vedic chanting UNESCO ICH **2008**. Sankirtana (Manipur) **2013**.
 
 ### Frame
 
-| Item | Lock |
+| Item | Correct |
 |------|------|
 | Sangeet | Gita + vadya + nritya |
 | Earliest chant | **Samaveda** |
@@ -93,7 +89,7 @@ Vedic chanting UNESCO ICH **2008**. Sankirtana (Manipur) **2013**.
 
 ### Forms / systems
 
-| Form | Lock |
+| Form | Correct |
 |------|------|
 | Hindustani vs Carnatic | North khayal–dhrupad vs South kriti–melakarta |
 | Dhrupad | Oldest; **pakhawaj** |
@@ -105,7 +101,7 @@ Vedic chanting UNESCO ICH **2008**. Sankirtana (Manipur) **2013**.
 
 ### Treatise / gharana
 
-| Item | Lock |
+| Item | Correct |
 |------|------|
 | Ragamala / Rasa Kaumudi / Raga Vibodh / Chaturdandi | Pundrik Vitthal / Sri Kantha / **Somanath** / Venkatamakhin |
 | Oldest khayal gharana | **Gwalior** |
@@ -116,7 +112,7 @@ Vedic chanting UNESCO ICH **2008**. Sankirtana (Manipur) **2013**.
 
 ## 5.1 Indian Music
 
-**Identity:** Raga–tala art music | Two classical branches after ~12th–13th c. | Folk and film run parallel
+Indian art music is built on raga and tala. Two classical branches form after about the twelfth and thirteenth centuries. Folk and film music run parallel.
 
 - **Sangeet** is *gita* (vocal) + *vadya* (instrumental) + *nritya* (dance).
 - The earliest musical source in Indian history is the **Samaveda**, comprising liturgical Vedic verses set to melody; it represents sacred chanting rather than modern concert ragas.
@@ -134,8 +130,6 @@ Vedic chanting UNESCO ICH **2008**. Sankirtana (Manipur) **2013**.
 - Sangeet Natak Akademi was founded in **1952**, New Delhi. It is the apex body for music, dance and theatre.
 
 ### Treatise ↔ author (UPPCS match set)
-
-**Fact:** book — writer — one extra fact.
 
 - **Natyashastra** is by Bharata. It treats music + dance + drama together.
 - **Brihaddeshi** is by Matanga. It has the first **raga** word.
@@ -180,7 +174,7 @@ D. 1 2 3 4
 
 ## 5.2 Hindustani Classical Music
 
-**Region:** North / west / east | **Grammar:** raga improvisation + tala | **Court mix:** Indian raga + Persian colour
+**North India | raga improvisation | Hindustani**
 
 - The performance arc (instrumental type) is **Alap** (no tala) → **Jor** (pulse) → **Jhala** (fast) → **Gat / Bandish** (in tala).
 - **Vadi** is the main note. **Samvadi** is the second main note.
@@ -223,7 +217,7 @@ D. Muhammad Shah
 
 ## 5.3 Carnatic Classical Music
 
-**Region:** Tamil Nadu, Karnataka, Andhra/Telangana, Kerala | **Core form:** kriti** | **Bhakti** more than Mughal court
+**South India | kriti | Carnatic bhakti**
 
 - **Kriti** parts are pallavi → anupallavi → charanam. The composer *mudra* sits inside the song.
 - **72 Melakarta** are parent (sampurna) ragas. Child ragas are **janya**.
@@ -234,8 +228,6 @@ D. Muhammad Shah
 - **Violin** entered Carnatic via **Baluswami Dikshitar** (Muthuswami’s brother). It is now a standard accompaniment.
 
 ### Trinity (18th–19th c., Thanjavur belt)
-
-**Fact:** name — language — deity.
 
 - **Tyagaraja** (**1767–1847**) wrote in **Telugu** on **Rama**. He has the largest output. He is linked to Tiruvaiyaru.
 - **Muthuswami Dikshitar** (**1775–1835**) wrote in **Sanskrit** on Devi/Shiva. He has some Hindustani raga colour.
@@ -250,7 +242,7 @@ D. Muhammad Shah
 
 ## 5.4 Major Gharanas
 
-**Identity:** Hindustani stylistic house via **guru–shishya**. Named for a place or a founder.
+A gharana is a Hindustani stylistic house passed through guru and shishya. It is named for a place or a founder.
 
 - Gharana is a **Hindustani** idea. Carnatic lines run by composer, not gharana.
 - **Baaj** is that house’s playing/singing feel.
@@ -258,7 +250,7 @@ D. Muhammad Shah
 ### Vocal (one house, one artist fact)
 
 - **Gwalior** is the oldest khayal house. It has clear taans. The line is **Haddu–Hassu Khan**. Paluskar taught from this soil.
-- **Agra** is **UP**. It has a deep voice. It keeps dhrupad colour inside khayal.
+- **Agra** is **Uttar Pradesh. It has a deep voice. It keeps dhrupad colour inside khayal.
 - **Faiyaz Khan** is Agra.
 - **Kirana** is Kirana village, **UP** (near Rampur belt). It is slow, tuneful, with microtones.
 - **Abdul Karim Khan** is Kirana.
@@ -269,7 +261,7 @@ D. Muhammad Shah
 - **Mallikarjun Mansur** is Jaipur–Atrauli.
 - **Patiala** is Punjab. It has open throat and ornaments.
 - **Bade Ghulam Ali Khan** is Patiala.
-- **Rampur–Sahaswan** is **UP**. It has refined taans.
+- **Rampur–Sahaswan** is **Uttar Pradesh. It has refined taans.
 - **Rashid Khan** is Rampur–Sahaswan.
 - **Mewati** is bhajan-coloured khayal.
 - **Pandit Jasraj** is Mewati.
@@ -296,7 +288,7 @@ D. Muhammad Shah
 
 ## 5.5 Musical Instruments
 
-**Bharata’s four:** Tata (string) | Avanaddha (membrane) | Ghana (solid) | Sushira (wind)
+Bharata’s four instrument families are **tata** (string), **avanaddha** (membrane), **ghana** (solid), and **sushira** (wind).
 
 Later set splits string into **Tata** as plucked and **Vitat** as bowed.
 
@@ -331,8 +323,6 @@ Later set splits string into **Tata** as plucked and **Vitat** as bowed.
 
 ## 5.6 Musicians of India
 
-**Fact:** name — job — one fact.
-
 ### Medieval / foundation
 
 - **Amir Khusrau** is qawwali and tarana tradition. He is the disciple of **Nizamuddin Auliya**.
@@ -352,7 +342,7 @@ Later set splits string into **Tata** as plucked and **Vitat** as bowed.
 - **Pandit Jasraj** is Mewati.
 - **Faiyaz Khan** is Agra.
 - **Begum Akhtar** is ghazal / thumri. She is **Faizabad–Lucknow (UP)**.
-- **Girija Devi** is Banaras thumri. She is **UP**.
+- **Girija Devi** is Banaras thumri. She is **Uttar Pradesh.
 
 ### Instrumental
 
@@ -496,7 +486,7 @@ D. Muzaffar Shah of Gujarat
 
 ---
 
-## Practice Zone — UPPCS Format Drill
+## Practice Zone
 
 > **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
@@ -1106,7 +1096,7 @@ D. Both are Mughal atelier albums of Jahangir
 
 </details>
 
-## Common Traps — Don't Fall For These
+## Common Traps
 
 1. **Tappa** is **Muhammad Shah**, not Akbar.
 2. Tansen before Akbar is **Ramchandra of Bhata/Rewa**, not Malwa’s Baz Bahadur.

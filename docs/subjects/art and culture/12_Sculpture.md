@@ -1,5 +1,4 @@
 # Topic 12 — Sculpture
-### ★ UPPCS Revision Sheet — heading → identity line → teaching bullets (tables only for confused pairs)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -8,30 +7,25 @@ Indian Sculpture | Gupta Sculpture | Buddhist Sculpture | Temple Sculpture | Sto
 
 </details>
 
-> **Sources baked in:** NCERT An Introduction to Indian Art (Class 11), Themes I, UPPCS Prelims 2018–2025
-> **Weight:** ★★★ — school ↔ stone ↔ region, Gupta Sarnath Buddha, Chola Nataraja, Aryaka-pillars
+> **Sources:** NCERT An Introduction to Indian Art (Class 11), Themes I, UPPCS Prelims 2018–2025
 > **Last verified:** August 2026
-> **Current Affairs:** Sarnath UNESCO WHS **2026** (Lion Capital + Gupta Buddha site). No new school-material fact.
 
 ---
 
 
 ## Current Affairs
 
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| **25 July 2026** | Ancient Buddhist Site of Sarnath = UNESCO WHS (India’s **45th**; UP’s **4th**). Serial: **Chaukhandi Stupa** + Archaeological Remains | Lion Capital + Gupta Buddha campus | UNESCO 48th WHC, Busan |
-| Standing | National Emblem from Sarnath Lion Capital (1950) | Static identity | GoI |
+- The **Ancient Buddhist Site of Sarnath** entered the UNESCO World Heritage list on **25 July 2026**. It is India’s **45th** property and Uttar Pradesh’s **fourth**. The serial site joins **Chaukhandi Stupa** with the archaeological remains.
+- The **National Emblem** is taken from the Sarnath Lion Capital, adopted in **1950**.
 
-No new school-vs-stone CA (verified August 2026).
 
 ---
 
 
-## Consolidated — 24 Must-Score Facts
+## Consolidated Must-Score Facts
 
 1. Indian sculpture timeline: Indus bronze and terracotta → **Mauryan polish** → **Bharhut / Sanchi** relief → Kushan **Gandhara + Mathura** → **Amaravati** → **Gupta Sarnath** → temple walls → **Chola bronze**.
-2. **Gandhara** school uses grey **schist** and Greco-Roman modelling in the north-west. It is not an Uttar Pradesh school.
+2. **Gandhara school uses grey **schist** and Greco-Roman modelling in the north-west. It is not an Uttar Pradesh school.
 3. **Mathura** school uses red **sandstone**, indigenous modelling, and sits in **Uttar Pradesh**. It cuts Buddha and Tirthankara images.
 4. **Amaravati** school uses **limestone** narrative panels in Andhra. It is free narrative relief more than Mathura’s freestanding icons.
 5. **Gupta Sarnath Buddha** shows **dharmachakra** mudra, a transparent robe, and spiritual calm. It differs from heavy-volume Kushan Mathura figures.
@@ -93,7 +87,7 @@ No new school-vs-stone CA (verified August 2026).
 | Bhumisparsha | Earth-touching |
 | Abhaya | Fearlessness |
 | Dhyana | Meditation |
-| Item | Lock |
+| Item | Correct |
 |------|------|
 | Human Buddha image | Common from **Kushan** age |
 | Dancing Girl | Indus **lost-wax** bronze |
@@ -104,14 +98,14 @@ No new school-vs-stone CA (verified August 2026).
 
 ## 12.1 Indian Sculpture
 
-**Identity:** Stone, bronze and terracotta | Religion and court pay for it | Period ↔ school ↔ region
+Indian sculpture uses stone, bronze, and terracotta. Religion and the court pay for it. Learn each school with its period and region.
 
 - Indian sculpture begins in the Indus Valley with terracotta figurines.
 - Metallurgical mastery in the Harappan civilization is epitomized by the iconic lost-wax bronze figurine of the **Dancing Girl** discovered at Mohenjo-daro.
 - Mauryan stone is polished **Chunar sandstone**. Pillars and Yaksha–Yakshi images take that mirror finish.
 - After the Mauryas, Shunga and Satavahana art tells stories on stupa railings. Named sites are **Bharhut** and **Sanchi**.
 - The first mature **human Buddha** appears in the **Kushan** age.
-- Two Kushan centres matter. **Gandhara** is in the northwest. **Mathura** is in UP.
+- Two Kushan centres matter. **Gandhara is in the northwest. **Mathura** is in UP.
 - **Gupta** sculpture is the classical ideal. Later Indian and Southeast Asian icons copy this calm type.
 - Medieval work shifts onto temple walls. South India adds **bronze** processional images.
 - A murti is made for worship. Stupa panels teach Jataka stories. Courts also used sculpture as display.
@@ -127,7 +121,7 @@ No new school-vs-stone CA (verified August 2026).
 
 ## 12.2 Gupta Sculpture
 
-**Identity:** 4th–6th c. classical spiritual idealism | Sarnath represents the pinnacle of Buddhist sculpture
+Gupta sculpture of the fourth to sixth centuries is classical spiritual idealism. **Sarnath** is the peak of Buddhist sculpture.
 
 - Gupta faces look calm. Eyes are half-closed. The body is balanced, not the heavy Kushan type.
 - The robe is a **transparent sanghati**. Cloth clings, but the body still shows. That is the Gupta hallmark.
@@ -146,12 +140,12 @@ No new school-vs-stone CA (verified August 2026).
 
 ## 12.3 Buddhist Sculpture
 
-**Identity:** Stupa relief → human Buddha | Mudra tells the scene
+Buddhist sculpture moves from stupa relief to the human Buddha. The mudra tells the scene.
 
 - Early Buddhist art is **aniconic**. The Buddha is shown as a wheel, footprints, an empty throne, the Bodhi tree, or a stupa.
 - **Bharhut** is **Shunga**. Panels are labelled Jatakas. Yakshi brackets appear. It is not Mauryan.
 - **Sanchi** toranas carry narrative scenes and Yakshis. Early railings still avoid a human Buddha.
-- The human Buddha becomes normal in the **Kushan** age at **Gandhara** and **Mathura**.
+- The human Buddha becomes normal in the **Kushan** age at **Gandhara and **Mathura**.
 - **Amaravati** and **Nagarjunakonda** (Ikshvaku belt) develop Andhra limestone narrative relief around the stupa.
 - **Dharmachakra mudra** turns the wheel. It marks the Sarnath sermon.
 - **Bhumisparsha mudra** is earth-witness. It marks enlightenment.
@@ -181,7 +175,7 @@ No new school-vs-stone CA (verified August 2026).
 
 ## 12.4 Temple Sculpture
 
-**Identity:** The temple wall is the scripture | Dynasty ↔ theme
+On a temple, the wall is the scripture. Learn dynasty and theme together.
 
 - **Khajuraho** is **Chandela** work in Madhya Pradesh.
 - The temples are **Nagara** and sandstone. The tag is **mithuna** panels, not Dravida.
@@ -206,9 +200,9 @@ No new school-vs-stone CA (verified August 2026).
 
 **Key Classification:** Stone medium — Geographic provenance — Sculpture school
 
-- **Chunar sandstone** comes from the Mirzapur belt in **UP**. Mauryan pillars take a **mirror polish** on it. The Lion Capital is this stone.
-- **Mathura** icons use red or spotted **sandstone**. The region is **UP**. The age is Kushan into Gupta.
-- **Gandhara** uses grey **schist**. Drapery looks Greco-Roman.
+- **Chunar sandstone** comes from the Mirzapur belt in **Uttar Pradesh. Mauryan pillars take a **mirror polish** on it. The Lion Capital is this stone.
+- **Mathura** icons use red or spotted **sandstone**. The region is **Uttar Pradesh. The age is Kushan into Gupta.
+- **Gandhara uses grey **schist**. Drapery looks Greco-Roman.
 - **Amaravati** and Nagarjunakonda use white or greenish **limestone**.
 - Pallava and Chola mass is **granite**.
 - Hoysala carving is **chloritic schist**, also called soapstone.
@@ -218,13 +212,13 @@ No new school-vs-stone CA (verified August 2026).
 - **Didarganj Yakshi** (Chauri-bearer) has Mauryan polish. The find is from Patna. She is a Yakshi, not a Buddha.
 - **Parkham Yaksha** is from the Mathura region. It is a colossal early stone guardian.
 
-> **Logic:** Chunar = Mauryan polish. Red sandstone = Mathura. Schist = Gandhara**.
+> **Logic:** Chunar = Mauryan polish. Red sandstone = Mathura. Schist = Gandhara.
 
 ---
 
 ## 12.6 Bronze Sculpture
 
-**Identity:** Lost-wax (*cire perdue*) | Portable ritual metal
+Bronze icons are cast by lost-wax (*cire perdue*). They are portable ritual metal.
 
 - The **Dancing Girl** is from Mohenjo-daro. She is **bronze**, made by lost-wax. She is not terracotta and not stone.
 - Chola **utsava murtis** are processional bronzes. They are taken out of the granite temple.
@@ -248,7 +242,7 @@ No new school-vs-stone CA (verified August 2026).
 
 ## 12.7 Gandhara School
 
-**Region:** NW (Peshawar–Taxila belt) | **Stone:** grey **schist** (also stucco) | **Age:** Kushan peak
+**North-west | grey schist | Kushan**
 
 - The face is Greco-Roman. Hair is wavy. Robe folds look like a toga.
 - The Buddha can look Apollo-like. Bodhisattvas sometimes have a moustache.
@@ -263,7 +257,7 @@ No new school-vs-stone CA (verified August 2026).
 
 ## 12.8 Mathura School
 
-**Region:** Mathura, UP** | **Stone:** red / spotted **sandstone** | **Age:** Kushan into Gupta
+**Mathura, Uttar Pradesh | red sandstone | Kushan into Gupta**
 
 - The Buddha here is indigenous Indian. The body is fleshy. Early Kushan eyes are often open.
 - The same workshops cut **Jain Tirthankaras**. Mathura is Buddhist and Jain.
@@ -271,13 +265,13 @@ No new school-vs-stone CA (verified August 2026).
 - Gupta-period Mathura images exist. The calm “poster” Buddha is still usually **Sarnath**.
 - The stone is not grey schist. It is not Andhra limestone.
 
-> **Logic:** Mathura = red sandstone + UP**. Jain + Buddhist together.
+> **Logic:** Mathura = red sandstone + Uttar Pradesh. Jain + Buddhist together.
 
 ---
 
 ## 12.9 Amaravati School
 
-**Region:** Krishna–Godavari, Andhra | **Stone:** white / greenish **limestone** | **Age:** Satavahana–Ikshvaku
+**Krishna–Godavari, Andhra | limestone | Satavahana–Ikshvaku**
 
 - Panels are narrative **stupa** casing slabs. Scenes are crowded and moving. The human Buddha appears in action.
 - A prominent rectangular projection (*ayaka* platform) surmounted by five **Aryaka pillars** (*ayaka-stambhas*) at each cardinal direction is the diagnostic hallmark of stupas in the Amaravati region.
@@ -327,7 +321,7 @@ D. Bodhgaya
 
 ---
 
-## Practice Zone — UPPCS Format Drill
+## Practice Zone
 
 > **30 questions** | Original drill | ≥60% multi-statement/application | A/R · Match · chronology · NOT-matched | Keys balanced | **Ans first, then Logic**
 
@@ -952,7 +946,7 @@ D. Abhaya — earth-touching
 
 </details>
 
-## Common Traps — Don't Fall For These
+## Common Traps
 
 1. **Gandhara = schist + Greco-Roman + NW.Mathura = red sandstone + UP.**
 2. **Amaravati = limestone + Aryaka-pillars**, not Bodh Gaya.
