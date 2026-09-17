@@ -76,7 +76,7 @@ Ancient Indian Literature | Sanskrit Literature | Vedic Literature | Epic Litera
 |---|----|------|-------|
 | Shruti | Smriti | Heard/revealed (Veda–Upanishad) vs remembered (epic, Purana, smriti-law) | श्रुति / स्मृति |
 | Samhita | Brahmana | Mantra collection vs ritual prose | संहिता / ब्राह्मण |
-| Shukla Yajurveda | Krishna Yajurveda | Vajasaneyi Samhita vs Taittiriya (mantra+brahmana mixed) | शुक्ल / कृष्ण यजुर्वेद |
+| Shukla Yajurveda | Krishna Yajurveda | Vajasaneyi (Madhyandina, Kanva) vs Taittiriya, Maitrayani, Kathaka, Kapisthala | शुक्ल / कृष्ण यजुर्वेद |
 | Itihasa | Purana | Ramayana–Mahabharata vs 18 Maha Puranas | इतिहास / पुराण |
 | Kavya | Nataka | Poem (Meghaduta) vs drama (Shakuntala) | काव्य / नाटक |
 | Kalidasa | Bhavabhuti | 3 plays + 4 poems vs Uttararamacharita | कालिदास / भवभूति |
@@ -294,24 +294,65 @@ D. 3 4 2 1
 
 ## 8.3 Vedic Literature
 
-**Order:** Samhita → Brahmana → Aranyaka → Upanishad
+**Order of Shruti (श्रुति):** Samhita (संहिता — mantra collection) → Brahmana (ब्राह्मण — ritual prose explanation) → Aranyaka (आरण्यक — forest contemplation) → Upanishad (उपनिषद् — Vedanta / philosophical realization).
 
-- **Rigveda** (ऋग्वेद) is the oldest. It is hymns in about 10 mandalas. Gayatri is in RV 3.62.10.
-- **Samaveda** (सामवेद) is chants. It is the source of later Indian music.
-- **Yajurveda** (यजुर्वेद) holds ritual formulas.
-- The **Shukla Yajurveda** Samhita is **Vajasaneyi** (Madhyandina / Kanva).
-- **Krishna Yajurveda** mixes mantra and brahmana. Recensions are **Taittiriya**, Maitrayani, Kathaka and Kapisthala.
-- **Atharvaveda** (अथर्ववेद) covers charms, healing and grahya life.
-- Aitareya and Kaushitaki Brahmanas belong to the **Rigveda**.
-- Taittiriya Brahmana belongs to Krishna Yajurveda. **Shatapatha** Brahmana belongs to Shukla Yajurveda.
-- Tandya / Panchavimsha Brahmana belongs to Samaveda. **Gopatha** belongs to Atharvaveda.
-- Principal Upanishads include Isha, Kena, Katha, Prashna, Mundaka, Mandukya, Taittiriya, Aitareya, Chandogya and Brihadaranyaka.
-- **Prajnanam Brahma** is from the Aitareya.
-- **Aham Brahmasmi** is from the Brihadaranyaka.
-- **Tat Tvam Asi** is from the Chandogya.
-- **Ayam Atma Brahma** is from the Mandukya.
-- The six Vedangas are Shiksha, Kalpa, Vyakarana, Nirukta, Chandas and Jyotisha.
-- The **2018 trap** is that option “Kathak” is a Krishna-Yajur recension name, **not** the dance.
+### Vedic Shakhas, Priests, and Texts Master Matrix
+
+| Veda | Priest (*Ritvik*) | Upaveda | Surviving Shakhas / Samhitas | Associated Brahmana | Key Upanishads & High-Yield Exam Facts |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Rigveda** (ऋग्वेद)<br>*(Oldest, 1028 hymns in 10 Mandalas)* | **Hotri** (होतृ) | **Ayurveda** (medicine) | • **Shakala** (शाकल — standard extant text)<br>• **Bashkala** (बाष्कल) | • **Aitareya** (ऐतरेय)<br>• **Kaushitaki / Shankhayana** (कौषीतकि) | • **Aitareya Upanishad** (*Prajnanam Brahma*)<br>• **Kaushitaki Upanishad**<br>• *Gayatri Mantra*: Mandala 3 (Vishwamitra)<br>• *Purusha Sukta* (origin of 4 Varnas): Mandala 10<br>• *Nadistuti Sukta* (rivers hymn): Mandala 10 |
+| **Shukla Yajurveda**<br>*(White / Pure — verses only)* | **Adhvaryu** (अध्वर्यु) | **Dhanurveda** (archery/warfare) | • **Vajasaneyi Samhita** (वाजसनेयी)<br>Two shakhas:<br>1. *Madhyandina* (North India)<br>2. *Kanva* (South/West India) | • **Shatapatha Brahmana** (शतपथ — 100 chapters; largest Brahmana; mentions Videha Madhava, Manu's Flood legend) | • **Isha Upanishad** (ईश — 40th chapter of Samhita itself)<br>• **Brihadaranyaka Upanishad** (*Aham Brahmasmi*, *Tamaso Ma Jyotirgamaya*, Yajnavalkya–Maitreyi & Yajnavalkya–Gargi dialogues) |
+| **Krishna Yajurveda**<br>*(Black / Mixed — verse + prose mixed)* | **Adhvaryu** (अध्वर्यु) | **Dhanurveda** (archery/warfare) | • **Taittiriya** (तैत्तिरीय)<br>• **Maitrayani** (मैत्रायणी)<br>• **Kathaka / Katha** (काठक)<br>• **Kapisthala** (कपिष्ठल) | • **Taittiriya Brahmana** | • **Taittiriya Upanishad** (*Satyam Vada, Dharmam Chara*)<br>• **Katha Upanishad** (कठ — Yama–Nachiketa dialogue on death/soul)<br>• **Shvetashvatara Upanishad** (first explicit mention of *Bhakti* & Rudra/Shiva)<br>• **Maitri Upanishad** |
+| **Samaveda** (सामवेद)<br>*(Book of Chants / Indian Music root)* | **Udgatri** (उद्गातृ) | **Gandharvaveda** (music & drama) | • **Kauthuma** (कौथुम — Gujarat/Bengal)<br>• **Ranayaniya** (राणायनीय — Maharashtra/Karnataka)<br>• **Jaiminiya / Talavakara** (जैमिनीय — Kerala/TN) | • **Panchavimsha / Tandya** (पञ्चविंश / ताण्ड्य Maha Brahmana)<br>• **Shadvimsha**<br>• **Jaiminiya Brahmana** | • **Chhandogya Upanishad** (छांदोग्य — *Tat Tvam Asi*, Satyakama Jabala story, earliest mention of Devakiputra Krishna)<br>• **Kena Upanishad** (केन) |
+| **Atharvaveda** (अथर्ववेद)<br>*(Spells, healing, charms, everyday life)* | **Brahma** (ब्रह्मा — silent chief supervisor) | **Shilpaveda** / Arthashastra | • **Shaunaka** (शौनक — standard text)<br>• **Pippalada** (पिप्पलाद — preserved in Odisha/Kashmir) | • **Gopatha Brahmana** (गोपथ — **ONLY single Brahmana** belonging to Atharvaveda) | • **Mundaka Upanishad** (मुण्डक — *"Satyameva Jayate"* from 3.1.6)<br>• **Mandukya Upanishad** (माण्डूक्य — shortest, 12 verses; *Ayam Atma Brahma*)<br>• **Prashna Upanishad** (प्रश्न) |
+
+---
+
+### Core Concept: Why Shukla vs. Krishna Yajurveda?
+
+- **Yajurveda** is the Veda of sacrifice formulas and procedures. It is written in **both verse and prose**.
+- **Shukla Yajurveda (White / Pure):**
+  - Sage **Yajnavalkya** received it from the Sun God (*Surya / Vajasani*), hence named **Vajasaneyi Samhita**.
+  - It contains **only the mantras** (pure hymns); all ritual explanations were separated out into the **Shatapatha Brahmana**.
+  - Shakhas: **Madhyandina** and **Kanva**.
+- **Krishna Yajurveda (Black / Mixed):**
+  - Associated with Sage **Vaishampayana** and disciple **Tittiri**.
+  - Mantras are **mixed with prose commentary and ritual explanations** in the same text.
+  - Shakhas: **Taittiriya**, **Maitrayani**, **Kathaka** (Katha), and **Kapisthala**.
+
+---
+
+### The Four Great Sayings (Mahavakyas)
+
+| Mahavakya | Meaning | Upanishad | Veda |
+| :--- | :--- | :--- | :--- |
+| **Prajnanam Brahma** (प्रज्ञानं ब्रह्म) | "Consciousness is Brahman" | **Aitareya** | **Rigveda** |
+| **Aham Brahmasmi** (अहं ब्रह्मास्मि) | "I am Brahman" | **Brihadaranyaka** | **Shukla Yajurveda** |
+| **Tat Tvam Asi** (तत्त्वमसि) | "That Thou Art" | **Chhandogya** | **Samaveda** |
+| **Ayam Atma Brahma** (अयमात्मा ब्रह्म) | "This Self is Brahman" | **Mandukya** | **Atharvaveda** |
+
+---
+
+### The Six Vedangas (षडंग — Limbs of the Veda)
+Auxiliary sciences to understand the Vedas (all **Smriti**):
+1. **Shiksha** (शिक्षा — Phonetics / Pronunciation)
+2. **Kalpa** (कल्प — Rituals / Sacrificial procedure: Shrautasutra, Grihyasutra, Dharmasutra, Shulbasutra [geometry of altars])
+3. **Vyakarana** (व्याकरण — Grammar, Panini's *Ashtadhyayi*)
+4. **Nirukta** (निरुक्त — Etymology, Yaska's *Nirukta*)
+5. **Chandas** (छन्द — Meter / Metrics, Pingala's *Chhandasutra*)
+6. **Jyotisha** (ज्योतिष — Astronomy / Auspicious timing, Lagadha's *Vedanga Jyotisha*)
+
+---
+
+### High-Yield Trap Alerts for Prelims
+- **Trap 1 (The 2018 Question):** Option "Kathak" in exam questions refers to the **Kathaka recension of Krishna Yajurveda**, NOT the classical dance form Kathak.
+- **Trap 2:** **Gopatha** is the *only* Brahmana of Atharvaveda. If a question asks which Veda does Gopatha belong to → **Atharvaveda**.
+- **Trap 3:** *"Satyameva Jayate"* is taken from **Mundaka Upanishad**, NOT Mandukya or Muktika.
+- **Trap 4:** Dialogue between **Yama and Nachiketa** on death and immortality is in **Katha Upanishad** (Krishna Yajurveda).
+- **Trap 5:** First mention of the **four Ashramas** (Brahmacharya, Grihastha, Vanaprastha, Sannyasa) is in **Jabala Upanishad** (earlier Chandogya only mentioned three).
+- **Trap 6:** The legend of **Videha Madhava** (spread of Aryan/Vedic culture towards Bihar across Sadaniira/Gandak river) and the story of the **Deluge (Manu and the fish)** appear in **Shatapatha Brahmana**.
+
+---
 
 **PYQ — UPPCS Prelims 2018, Q13**
 
@@ -325,7 +366,9 @@ D. Kathak
 <details>
 <summary>Show answer</summary>
 
-**Ans: A — Vajasaneyi / Vajasanami.** Others are Krishna Yajurveda. Kathak ≠ Kathak dance.
+**Ans: A — Vajasaneyi (printed as Vajasanami).**
+- **Vajasaneyi** is the Samhita of **Shukla Yajurveda** (Madhyandina and Kanva branches).
+- **Maitrayani, Taittiriya, and Kathak** (Options B, C, D) along with Kapisthala are recensions of **Krishna Yajurveda**. Kathak ≠ dance here.
 
 </details>
 
@@ -403,26 +446,26 @@ D. Neither 1 nor 2
 
 Regional literature is the language of the people. Learn each book with its language and region.
 
-### Tamil / Sangam
+### Tamil (तमिल) / Sangam (संगम)
 
-- Three Sangams are legendary under Pandya patronage. Traditional seats: **1st Madurai** (Agastya), **2nd Kapadapuram** (Agastya), **3rd Madurai** (**Nakkirar**). The corpus is Ettuttokai and Pattuppattu.
-- ***Tolkappiyam*** by Tolkappiyar tradition is the earliest Tamil grammar and poetics.
-- **Tiruvalluvar** wrote *Tirukkural* (*Kural* / **Muppal**), also called the Bible and **Laghuveda** of Tamil literature.
-- **Ilango Adigal** wrote *Silappadikaram* (Kannagi–Kovalan love tragedy).
-- **Sattanar** wrote *Manimekalai* (Buddhist sequel; merchant / nun story).
-- **Kamban** wrote *Ramavataram*, the Tamil Ramayana.
-- ***Tirumurai*** is the twelve-volume Saiva hymn corpus; tradition treats it as a **Fifth Veda** of Tamil Shaivism (with Vedas and Saiva Agamas behind Saiva Siddhanta).
-- The **12 Alvars** were Tamil Vaishnavite poet-saints whose sacred hymns are compiled in the *Nalayira Divya Prabandham*.
-- The **63 Nayanars** were Tamil Shaivite poet-saints whose foundational hymns comprise the *Tevaram* (तेवारम्) (canonized within the 12 *Tirumurais*).
+- Three Sangams are legendary under **Pandya** (पांड्य) patronage. Traditional seats: **1st Madurai** (मदुरै) (**Agastya** (अगस्त्य)), **2nd Kapadapuram** (कपाटपुरम्) (Agastya), **3rd Madurai** (**Nakkirar** (नक्कीरर)). The corpus is *Ettuttokai* (एट्टुत्तोकै) and *Pattuppattu* (पत्तुप्पाट्टु).
+- ***Tolkappiyam*** (तोल्काप्पियम्) by **Tolkappiyar** (तोल्काप्पियर) tradition is the earliest Tamil grammar and poetics.
+- **Tiruvalluvar** (तिरुवल्लुवर) wrote *Tirukkural* (तिरुक्कुरल) (*Kural* / **Muppal** (मुप्पाल)), also called the Bible and **Laghuveda** (लघुवेद) of Tamil literature.
+- **Ilango Adigal** (इलंगो अडिगल) wrote *Silappadikaram* (शिलप्पदिकारम्) (**Kannagi** (कन्नगी)–**Kovalan** (कोवलन) love tragedy).
+- **Sattanar** (सत्तनार) wrote *Manimekalai* (मणिमेकलै) (Buddhist sequel; merchant / nun story).
+- **Kamban** (कंबन) wrote *Ramavataram* (रामावतारम्), the Tamil *Ramayana* (रामायण).
+- ***Tirumurai*** (तिरुमुरै) is the twelve-volume Saiva hymn corpus; tradition treats it as a **Fifth Veda** of Tamil Shaivism (with Vedas and Saiva Agamas behind Saiva Siddhanta).
+- The **12 Alvars** (आलवार) were Tamil Vaishnavite poet-saints whose sacred hymns are compiled in the *Nalayira Divya Prabandham* (नालायिर दिव्य प्रबंधम्).
+- The **63 Nayanars** (नायनार) were Tamil Shaivite poet-saints whose foundational hymns comprise the *Tevaram* (तेवारम्) (canonized within the 12 *Tirumurais*).
 
 ### Match spine (Tamil texts)
 
 | Text | Nature |
 |------|--------|
-| *Tirukkural* | Philosophy / ethics |
-| *Tolkappiyam* | Grammar |
-| *Silappadikaram* | Love / Kannagi story |
-| *Manimekalai* | Merchant / Buddhist nun story |
+| *Tirukkural* (तिरुक्कुरल) | Philosophy / ethics |
+| *Tolkappiyam* (तोल्काप्पियम्) | Grammar |
+| *Silappadikaram* (शिलप्पदिकारम्) | Love / Kannagi story |
+| *Manimekalai* (मणिमेकलै) | Merchant / Buddhist nun story |
 
 ### Other Dravidian
 
