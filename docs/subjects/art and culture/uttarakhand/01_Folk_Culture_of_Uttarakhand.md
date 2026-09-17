@@ -122,6 +122,26 @@
 
 ---
 
+## Hindi spell — hard names
+
+Write these in Devanagari as given. One name, one spelling.
+
+| English | Hindi |
+|---------|-------|
+| Aipan | ऐपण |
+| Jagar | जागर |
+| Jagaria | जगरिया |
+| Dangariya | डंगरिया |
+| Ramman | रम्माण |
+| Hiljatra | हिलजात्रा |
+| Lakhia Bhoot | लाखिया भूत |
+| Nanda Raj Jat | नंदा राज जात |
+| Pawada | पावाड़ा |
+| Khuded | खुदेड |
+| Geru / Biswar | गेरू / बिसवार |
+
+---
+
 ## UKPCS Inline & Practice Questions
 
 **Q1.** The traditional folk art of Kumaon known as 'Aipan' was granted the Geographical Indication (GI) Tag in which year?  

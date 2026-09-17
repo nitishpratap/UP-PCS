@@ -101,6 +101,30 @@ D. A and D only
 
 ---
 
+## Hindi spell — hard names
+
+Write these in Devanagari as given. One name, one spelling.
+
+| English | Hindi |
+|---------|-------|
+| Tangible heritage | मूर्त विरासत |
+| Intangible heritage | अमूर्त विरासत |
+| Kumbh Mela | कुंभ मेला |
+| Ramlila | रामलीला |
+| Koodiyattam | कूड़ियाट्टम् |
+| Mudiyettu | मुडियेट्टु |
+| Sankirtana | संकीर्तन |
+| Kalbelia | कालबेलिया |
+| Chhau | छऊ |
+| Garba | गरबा |
+| Deepavali | दीपावली |
+| Moidams | मोइदाम |
+| Sarnath | सारनाथ |
+| Qutub Minar | कुतुब मीनार |
+| Taj Mahal | ताज महल |
+
+---
+
 ## Must-score facts — WHS, ICH, UP sites
 
 ### Conventions / India counts

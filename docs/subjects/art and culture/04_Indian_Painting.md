@@ -95,6 +95,37 @@ D. None of the above
 
 ---
 
+## Hindi spell — hard names
+
+Write these in Devanagari as given. One name, one spelling.
+
+| English | Hindi |
+|---------|-------|
+| Shadanga | षडंग |
+| Rupabheda | रूपभेद |
+| Pramanam | प्रमाणम् |
+| Bhava | भाव |
+| Lavanyam | लावण्यम् |
+| Sadrisyam | सादृश्यम् |
+| Varnikabhangam | वर्णिकाभंगम् |
+| Chitrasutra | चित्रसूत्र |
+| Vishnudharmottara | विष्णुधर्मोत्तर |
+| Hamzanama | हम्जानामा |
+| Razmnama | रज्मनामा |
+| Padshahnama | पादशाहनामा |
+| Bani Thani | बनी ठनी |
+| Pichwai | पिछवाई |
+| Madhubani | मधुबनी |
+| Warli | वारली |
+| Phad | फड़ |
+| Pattachitra | पट्टचित्र |
+| Pithora | पिथौरा |
+| Sanjhi | सांझी |
+| Kalamkari | कलमकारी |
+| Bharat Mata | भारत माता |
+
+---
+
 ## Must-score facts — murals, Mughal, Rajput/Pahari
 
 ### Prehistoric / mural

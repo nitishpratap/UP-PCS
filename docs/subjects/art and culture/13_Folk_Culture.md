@@ -88,6 +88,39 @@ Folk Arts | Folk Traditions | Folk Beliefs | Folk Culture of India | Handloom | 
 
 ---
 
+## Hindi spell — hard names
+
+Write these in Devanagari as given. One name, one spelling.
+
+| English | Hindi |
+|---------|-------|
+| Madhubani | मधुबनी |
+| Warli | वारली |
+| Pattachitra | पट्टचित्र |
+| Phad | फड़ |
+| Gond | गोंड |
+| Kalamkari | कलमकारी |
+| Sanjhi | सांझी |
+| Phulkari | फुलकारी |
+| Pithora | पिथौरा |
+| Saura / idital | सौरा / इडिटाल |
+| Cheriyal | चेरियल |
+| Kalighat | कालीघाट |
+| Rogan | रोगन |
+| Aipan | ऐपण |
+| Mandana | मांडना |
+| Chikankari | चिकनकारी |
+| Zardozi | ज़रदोज़ी |
+| Banarasi | बनारसी |
+| Khadi | खादी |
+| Gramdevta | ग्रामदेवता |
+| Chhath | छठ |
+| Sarna | सरना |
+| Donyi-Polo | दोन्यी-पोलो |
+| Sanamahi | सनामही |
+
+---
+
 ## Must-score facts — folk painting, handloom, GI
 
 ### Painting ↔ region

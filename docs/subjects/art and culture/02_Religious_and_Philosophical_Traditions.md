@@ -76,6 +76,39 @@ Six Schools of Indian Philosophy (Shad Darshana) | Vedic Philosophy | Buddhist P
 
 ---
 
+## Hindi spell — hard names
+
+Write these in Devanagari as given. One name, one spelling.
+
+| English | Hindi |
+|---------|-------|
+| Nyaya | न्याय |
+| Vaisheshika | वैशेषिक |
+| Samkhya | सांख्य |
+| Yoga | योग |
+| Mimamsa | मीमांसा |
+| Vedanta | वेदांत |
+| Charvaka | चार्वाक |
+| Ajivika | आजीवक |
+| Advaita | अद्वैत |
+| Vishishtadvaita | विशिष्टाद्वैत |
+| Dvaita | द्वैत |
+| Nimbarka / Dvaitadvaita | निंबार्क / द्वैताद्वैत |
+| Vallabha / Shuddhadvaita | वल्लभ / शुद्धाद्वैत |
+| Anekantavada | अनेकांतवाद |
+| Syadvada | स्याद्वाद |
+| Alvar | आलवार |
+| Nayanar | नायनार |
+| Nalayira Divya Prabandham | नालायिर दिव्य प्रबंधम् |
+| Tevaram | तेवारम् |
+| Wahdat-ul-wujud | वहदत-उल-वुजूद |
+| Wahdat-ush-shuhud | वहदत-उश-शुहूद |
+| Ramcharitmanas | रामचरितमानस |
+| Sursagar | सूरसागर |
+| Khalsa | खालसा |
+
+---
+
 ## Must-score facts — Darshanas, Vedanta, Buddhism
 
 ### Astika six (accept Veda)

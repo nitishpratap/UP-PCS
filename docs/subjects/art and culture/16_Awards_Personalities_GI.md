@@ -113,6 +113,27 @@ D. Lazzatnama
 
 ---
 
+## Hindi spell — hard names
+
+Write these in Devanagari as given. One name, one spelling.
+
+| English | Hindi |
+|---------|-------|
+| Bharat Ratna | भारत रत्न |
+| Jnanpith | ज्ञानपीठ |
+| Sangeet Natak Akademi | संगीत नाटक अकादेमी |
+| Sahitya Akademi | साहित्य अकादेमी |
+| Lalit Kala Akademi | ललित कला अकादेमी |
+| Yuva Puraskar | युवा पुरस्कार |
+| Geographical Indication / GI | भौगोलिक संकेत |
+| Chikankari | चिकनकारी |
+| Banarasi | बनारसी |
+| Darjeeling Tea | दार्जिलिंग चाय |
+| Shehnai | शहनाई |
+| Kathak | कथक |
+
+---
+
 ## Must-score facts — akademis, Bharat Ratna, GI
 
 ### Three Culture akademis (Rabindra Bhavan)

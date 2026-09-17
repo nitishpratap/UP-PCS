@@ -70,6 +70,30 @@ Ancient Indian Art | Ancient Indian Sculpture | Ancient Indian Architecture | An
 
 ---
 
+## Hindi spell — hard names
+
+Write these in Devanagari as given. One name, one spelling.
+
+| English | Hindi |
+|---------|-------|
+| Northern Black Polished Ware | उत्तरी काली पॉलिश मृद्भांड / एनबीपीडब्ल्यू |
+| Gandhara | गांधार |
+| Mathura | मथुरा |
+| Amaravati | अमरावती |
+| Didarganj Yakshi | दीदारगंज यक्षी |
+| Dharmachakra mudra | धर्मचक्र मुद्रा |
+| Alamgirpur | आलमगीरपुर |
+| Hulas | हुलास |
+| Rakhigarhi | राखीगढ़ी |
+| Dholavira | धोलावीरा |
+| Lothal | लोथल |
+| Kalibangan | कालीबंगा |
+| Sarnath | सारनाथ |
+| Chunar | चुनार |
+| Lost-wax / cire perdue | मोम-विधि / सिर पर्ड्यू |
+
+---
+
 ## Must-score facts — Indus, schools, UP sites
 
 ### Culture spine

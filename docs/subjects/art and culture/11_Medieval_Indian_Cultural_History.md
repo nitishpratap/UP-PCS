@@ -69,6 +69,33 @@ Medieval Indian Art | Medieval Indian Architecture | Medieval Indian Literature 
 
 ---
 
+## Hindi spell — hard names
+
+Write these in Devanagari as given. One name, one spelling.
+
+| English | Hindi |
+|---------|-------|
+| Kitabkhana | किताबखाना |
+| Razmnama | रज्मनामा |
+| Hamzanama | हम्जानामा |
+| Charbagh | चारबाग |
+| Buland Darwaza | बुलंद दरवाजा |
+| Ibadat Khana | इबादत खाना |
+| Tuzuk-i-Baburi | तुजुक-ए-बाबरी |
+| Akbarnama | अकबरनामा |
+| Ain-i-Akbari | आइन-ए-अकबरी |
+| Mansab | मनसब |
+| Zabt | जब्त |
+| Suba | सूबा |
+| Iqta | इक्ता |
+| Khalsa | खालसा |
+| Sulh-i-kul | सुलह-ए-कुल |
+| Din-i-Ilahi | दीन-ए-इलाही |
+| Jaunpur Sharqi | जौनपुर शर्की |
+| Atala Masjid | अटाला मस्जिद |
+
+---
+
 ## Must-score facts — painting, architecture, admin culture
 
 ### Painting / books

@@ -69,6 +69,34 @@ Indological Studies | Gurukul System | Ancient Indian Education System | Nalanda
 
 ---
 
+## Hindi spell — hard names
+
+Write these in Devanagari as given. One name, one spelling.
+
+| English | Hindi |
+|---------|-------|
+| Gurukul | गुरुकुल |
+| Guru dakshina | गुरु दक्षिणा |
+| Brahmacharya | ब्रह्मचर्य |
+| Grihastha | गृहस्थ |
+| Vanaprastha | वानप्रस्थ |
+| Sannyasa | संन्यास |
+| Nalanda | नालंदा |
+| Takshashila | तक्षशिला |
+| Vikramashila | विक्रमशिला |
+| Panini | पाणिनि |
+| Chanakya | चाणक्य |
+| Dharmapala | धर्मपाल |
+| Atisha | अतीश |
+| Sarnath | सारनाथ |
+| Sangeet Natak Akademi | संगीत नाटक अकादेमी |
+| Sahitya Akademi | साहित्य अकादेमी |
+| Lalit Kala Akademi | ललित कला अकादेमी |
+| Jnanpith | ज्ञानपीठ |
+| Varanasi / Kashi | वाराणसी / काशी |
+
+---
+
 ## Must-score facts — societies, colleges, museums
 
 ### Institution ↔ year / founder

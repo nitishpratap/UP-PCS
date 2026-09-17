@@ -29,14 +29,14 @@ Indian Classical Dances, Bharatanatyam, Kathak, Kathakali, Kuchipudi, Mohiniyatt
 ## Consolidated Must-Score Facts
 
 1. The **Sangeet Natak Akademi** recognises **eight** classical dances. **Sattriya** of Assam was added in **2000**. A list of seven has dropped Sattriya.
-2. **Chhau** is not one of those eight. It is UNESCO martial-folk. Some notes call it a ninth style. That is not the Akademi list.
-3. **Bharatanatyam** belongs to Tamil Nadu.
-4. **Kathak** belongs to North India, with Lucknow in Uttar Pradesh as the main gharana.
-5. **Kathakali** and **Mohiniyattam** both belong to Kerala.
-6. **Kuchipudi** belongs to Andhra Pradesh.
-7. **Odissi** belongs to Odisha.
-8. **Manipuri** belongs to Manipur.
-9. **Sattriya** belongs to Assam.
+2. **Chhau** (छऊ) is not one of those eight. It is UNESCO martial-folk. Some notes call it a ninth style. That is not the Akademi list.
+3. **Bharatanatyam** (भरतनाट्यम्) belongs to Tamil Nadu.
+4. **Kathak** (कथक) belongs to North India, with Lucknow in Uttar Pradesh as the main gharana.
+5. **Kathakali** (कथकली) and **Mohiniyattam** (मोहिनीअट्टम्) both belong to Kerala.
+6. **Kuchipudi** (कुचिपुड़ी) belongs to Andhra Pradesh.
+7. **Odissi** (ओडिसी) belongs to Odisha.
+8. **Manipuri** (मणिपुरी) belongs to Manipur.
+9. **Sattriya** (सत्रिया) belongs to Assam.
 10. The root text is the **Natyashastra** of **Bharata Muni**. It teaches **nine** rasas.
 11. The four abhinaya are **angika** (body), **vachika** (speech or song), **aharya** (costume), and **sattvika** (inner feeling).
 12. **Nritta** is pure dance without a story. **Nritya** adds expressive abhinaya. **Natya** is dance-drama.
@@ -83,6 +83,39 @@ Indian Classical Dances, Bharatanatyam, Kathak, Kathakali, Kuchipudi, Mohiniyatt
 | SNA 8 | Chhau | Official classical eight vs UNESCO martial/folk, **not** the 8 | 8 शास्त्रीय / छऊ |
 | Folk | Tribal | Regional peasant festival vs adivasi ritual | लोक / आदिवासी |
 | Garba | Dandiya | Circle around lamp vs sticks | गरबा / डांडिया |
+
+---
+
+## Hindi spell — hard names
+
+Write these in Devanagari as given. One name, one spelling.
+
+| English | Hindi |
+|---------|-------|
+| Bharatanatyam | भरतनाट्यम् |
+| Kathak | कथक |
+| Kathakali | कथकली |
+| Kuchipudi | कुचिपुड़ी |
+| Mohiniyattam | मोहिनीअट्टम् |
+| Odissi | ओडिसी |
+| Manipuri | मणिपुरी |
+| Sattriya | सत्रिया |
+| Araimandi | अरैमंडी |
+| Tribhanga | त्रिभंग |
+| Chakkar / Tatkar | चक्कर / तत्कार |
+| Chutti / Pacha | चुट्टी / पचा |
+| Tarangam | तरंगम् |
+| Mahari / Gotipua | महारी / गोटिपुआ |
+| Lasya / Tandava | लास्य / तांडव |
+| Nritta / Nritya / Natya | नृत्त / नृत्य / नाट्य |
+| Angika / Vachika / Aharya / Sattvika | आंगिक / वाचिक / आहार्य / सात्त्विक |
+| Chhau | छऊ |
+| Garba | गरबा |
+| Kalbelia | कालबेलिया |
+| Sankirtana | संकीर्तन |
+| Bihu | बिहु |
+| Charkula | चरकुला |
+| Chholiya | छोलिया |
 
 ---
 

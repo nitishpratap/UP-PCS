@@ -74,6 +74,40 @@ Indian Music | Hindustani Classical Music | Carnatic Classical Music | Major Gha
 
 ---
 
+## Hindi spell — hard names
+
+Write these in Devanagari as given. One name, one spelling.
+
+| English | Hindi |
+|---------|-------|
+| Natyashastra | नाट्यशास्त्र |
+| Brihaddeshi | बृहद्देशी |
+| Sangeet Ratnakar | संगीत रत्नाकर |
+| Sharngadeva | शार्ङ्गदेव |
+| Raga | राग |
+| Tala | ताल |
+| Dhrupad | ध्रुपद |
+| Khayal | ख्याल |
+| Thumri | ठुमरी |
+| Tappa | टप्पा |
+| Tarana | तराना |
+| Qawwali | क़व्वाली |
+| Kriti | कृति |
+| Melakarta | मेलकर्ता |
+| Tyagaraja | त्यागराज |
+| Muthuswami Dikshitar | मुत्तुस्वामी दीक्षितर |
+| Syama Sastri | श्यामा शास्त्री |
+| Ragamala | रागमाला |
+| Chaturdandi Prakashika | चतुर्दंडी प्रकाशिका |
+| Pakhawaj | पखावज |
+| Mridangam | मृदंगम् |
+| Shehnai | शहनाई |
+| Nadaswaram | नादस्वरम् |
+| Kajri | कजरी |
+| Tata / Vitat / Sushira / Avanaddha / Ghana | तत् / वितत् / सुषिर / अवनद्ध / घन |
+
+---
+
 ## Must-score facts — forms, treatises, gharanas
 
 ### Frame

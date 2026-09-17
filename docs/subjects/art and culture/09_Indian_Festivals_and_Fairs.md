@@ -75,6 +75,41 @@ Festivals of India | State-wise Festivals | Folk Festivals | Tribal Festivals | 
 
 ---
 
+## Hindi spell — hard names
+
+Write these in Devanagari as given. One name, one spelling.
+
+| English | Hindi |
+|---------|-------|
+| Kumbh Mela | कुंभ मेला |
+| Magh Mela | माघ मेला |
+| Pongal | पोंगल |
+| Onam | ओणम |
+| Bihu | बिहु |
+| Baisakhi | बैसाखी |
+| Lohri | लोहड़ी |
+| Nuakhai | नुआखाइ |
+| Vishu | विशु |
+| Ugadi | उगादि |
+| Gudi Padwa | गुड़ी पड़वा |
+| Bathukamma | बतुकम्मा |
+| Garba / Dandiya | गरबा / डांडिया |
+| Navratri | नवरात्रि |
+| Ramlila | रामलीला |
+| Vijayadashami | विजयादशमी |
+| Sarhul | सरहुल |
+| Wangala | वांगाला |
+| Chapchar Kut | चपचार कुट |
+| Sangai | सांगाइ |
+| Losar | लोसार |
+| Chhath | छठ |
+| Deepotsav | दीपोत्सव |
+| Thrissur Pooram | त्रिशूर पूरम |
+| Medaram Jatara | मेदारम जातरा |
+| Bhagoria | भगोरिया |
+
+---
+
 ## Must-score facts — Kumbh, harvest, UNESCO, UP
 
 ### Kumbh / fairs

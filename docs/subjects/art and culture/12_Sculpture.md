@@ -66,6 +66,31 @@ Indian Sculpture | Gupta Sculpture | Buddhist Sculpture | Temple Sculpture | Sto
 
 ---
 
+## Hindi spell — hard names
+
+Write these in Devanagari as given. One name, one spelling.
+
+| English | Hindi |
+|---------|-------|
+| Gandhara | गांधार |
+| Mathura | मथुरा |
+| Amaravati | अमरावती |
+| Dharmachakra | धर्मचक्र |
+| Bhumisparsha | भूमिस्पर्श |
+| Abhaya | अभय |
+| Dhyana | ध्यान |
+| Varada | वरद |
+| Nataraja | नटराज |
+| Apasmara | अपस्मार |
+| Prabhamandala | प्रभामंडल |
+| Damaru | डमरू |
+| Dhokra | ढोकरा |
+| Chunar | चुनार |
+| Ahichhatra | अहिच्छत्र |
+| Maheshamurti / Trimurti | महेशमूर्ति / त्रिमूर्ति |
+
+---
+
 ## Must-score facts — schools, mudras, materials
 
 ### Timeline / schools

@@ -69,6 +69,31 @@ Archaeology | Archaeological Discoveries | Excavations | Ancient Sites
 
 ---
 
+## Hindi spell — hard names
+
+Write these in Devanagari as given. One name, one spelling.
+
+| English | Hindi |
+|---------|-------|
+| Stratigraphy | स्तरीकरण / स्ट्रैटिग्राफी |
+| Radiocarbon / C-14 | रेडियोकार्बन |
+| Thermoluminescence | ताप-संदीप्ति |
+| Harappa | हड़प्पा |
+| Mohenjo-daro | मोहनजोदड़ो |
+| Dholavira | धोलावीरा |
+| Rakhigarhi | राखीगढ़ी |
+| Alamgirpur | आलमगीरपुर |
+| Hulas | हुलास |
+| Sanauli | सनौली |
+| Ochre Coloured Pottery | गेरुआ मृद्भांड / ओसीपी |
+| Koldihwa | कोल्डीहवा |
+| Hastinapur | हस्तिनापुर |
+| Kaushambi | कौशांबी |
+| Ahichhatra | अहिच्छत्र |
+| Sarnath | सारनाथ |
+
+---
+
 ## Must-score facts — methods, ASI, Indus excavators
 
 ### Method tags

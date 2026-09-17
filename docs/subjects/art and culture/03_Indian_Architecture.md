@@ -109,6 +109,40 @@ Indian Temple Architecture | Nagara Style | Dravida Style | Vesara Style | Templ
 
 ---
 
+## Hindi spell — hard names
+
+Write these in Devanagari as given. One name, one spelling.
+
+| English | Hindi |
+|---------|-------|
+| Nagara | नागर |
+| Dravida | द्रविड़ |
+| Vesara | वेसर |
+| Shikhara | शिखर |
+| Vimana | विमान |
+| Gopuram | गोपुरम |
+| Garbhagriha | गर्भगृह |
+| Mandapa | मंडप |
+| Amalaka | आमलक |
+| Rekha deul | रेखा देउल |
+| Pidha deul | पीढ़ा देउल |
+| Konark | कोणार्क |
+| Khajuraho | खजुराहो |
+| Kandariya Mahadeva | कंदारिया महादेव |
+| Brihadeeswara | बृहदीश्वर |
+| Gangaikonda Cholapuram | गंगैकोंड चोलपुरम् |
+| Airavatesvara | ऐरावतेश्वर |
+| Pattadakal | पट्टदकल |
+| Chaitya | चैत्य |
+| Vihara | विहार |
+| Torana | तोरण |
+| Qutub Minar | कुतुब मीनार |
+| Buland Darwaza | बुलंद दरवाजा |
+| Charbagh | चारबाग |
+| Pietra dura | पिएत्रा ड्यूरा / परचिन कारी |
+
+---
+
 ## Must-score drill — Nagara, Dravida, temples, pillars
 
 ### Style

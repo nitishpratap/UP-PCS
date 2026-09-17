@@ -115,6 +115,27 @@
 
 ---
 
+## Hindi spell — hard names
+
+Write these in Devanagari as given. One name, one spelling.
+
+| English | Hindi |
+|---------|-------|
+| Chholiya | छोलिया |
+| Chhapeli | छपेली |
+| Pandav Nritya | पांडव नृत्य |
+| Lang / Langvir Nritya | लांग / लांगवीर नृत्य |
+| Jhumailo | झुमैलो |
+| Hurkiya Baul | हुड़किया बौल |
+| Bagwal | बग्वाल |
+| Jauljibi | जौलजीबी |
+| Devidhura | देवीधुरा |
+| Brahma Kamal | ब्रह्मकमल |
+| Buransh | बुरांश |
+| Moshakbeen | मोशकबीन |
+
+---
+
 ## UKPCS Inline & Practice Questions
 
 **Q1 (UKPCS Prelims 2025, Q53).** Who among the following received the Padma Shri Award in 2025 for social work from Uttarakhand?  
