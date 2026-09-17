@@ -34,7 +34,7 @@ Medieval Indian Art | Medieval Indian Architecture | Medieval Indian Literature 
 9. Sultanate **iqta** (इक्ता) gave revenue to a **muqti** (मुक़्ती) to raise troops. **Khalsa** (खालसा) was crown land under **direct** state control. A **jagir** (जागीर) is a revenue assignment, not Khalsa.
 10. Akbar’s **mansab** (मनसब) had **zat** (जात) (personal rank) and **sawar** (सवार) (cavalry contingent). The original mansab system was **not hereditary** (गैर-वंशानुगत).
 11. **Zabt** (जब्त) is measured land assessment. **Dahsala** (दहसाला) is Todar Mal (टोडर मल)’s **ten-year** average revenue system from about **1580**.
-12. The copper **dam** (दाम -) continued from Sher Shah (शेरशाह) into Akbar’s currency. Akbar organised about **15 subas** in the mature empire map used s.
+12. The copper **dam** (दाम) continued from Sher Shah (शेरशाह) into Akbar’s currency (Sher Shah ratio: 1 Rupee = 64 Dams; Akbar ratio: 1 Rupee = 40 Dams). Akbar organised **12 subas** in 1580 (*Ain-i-Akbari*), expanding to **15 subas** with Deccan annexations (Berar, Khandesh, Ahmadnagar); later 18 under Shah Jahan and 21 under Aurangzeb.
 13. **Ibadat Khana** (इबादत खाना) debates began at Fatehpur Sikri in **1575. Sulh-i-kul (सुलह-ए-कुल)** was the public peace policy. **Din-i-Ilahi** (दीन-ए-इलाही) of **1582** was a private fellowship, not a state religion.
 14. Akbar abolished **jizya** (जज़िया) in **1564**. The **Mahzar** of **1579** asserted Akbar’s authority in religious disputes.
 15. Celebrated members of Akbar's nine jewels (*Navaratnas*) include musical maestro **Tansen** (तानसेन) (recruited from King Ramchandra of Rewa/Bhata), finance minister **Raja (राजा) Todar Mal**, court wit **Birbal** (बीरबल) (Mahesh Das), chief ideologue **Abul Fazl**, and poet laureate **Faizi** (फैजी).
@@ -48,7 +48,7 @@ Medieval Indian Art | Medieval Indian Architecture | Medieval Indian Literature 
 23. **Zat** ranks the man’s personal status. **Sawar** ranks the horsemen he must maintain. High zat with low sawar is a classic trap pattern.
 24. **Iqta** revenue stayed with the muqti for troops. **Khalsa** revenue went to the treasury under direct officials. Do not call jagirs “direct crown land.”
 25. Persian was the language of farmans, chronicles, and court poetry after Babur. Turki remained Babur’s personal memoir tongue, not later court speech.
-26. **Din-i-Ilahi** never replaced Islam as state religion. **Sulh-i-kul** (सुलह-ए-कुल -) is the broader public tolerance policy examined more often than the private cult.
+26. **Din-i-Ilahi** never replaced Islam as state religion. **Sulh-i-kul** (सुलह-ए-कुल) is the broader public tolerance policy examined more often than the private cult.
 27. **Jaunpur** Sharqi architecture (शर्की स्थापत्य) is a regional Sultanate style of eastern UP. It is not Delhi Slave or Khalji architecture.
 28. In medieval cultural historiography, **Azizuddin Khan** is noted for translating Sanskrit texts during Firoz Shah (फ़िरोज़ शाह) Tughlaq (फिरोज शाह तुगलक)'s Nagarkot/Kangra (कांगड़ा) campaign (*Dalail-i-Firoz Shahi*); he is distinct from Abul Fazl's Mughal court histories.
 
@@ -414,12 +414,34 @@ Sultanate administration uses the iqta and Khalsa frame. Its departments come be
 - The muqti **collects** and is expected to **maintain troops** from that revenue.
 - Iqta revenue is **not** all deposited straight into the Sultan’s account. That is the usual wrong option.
 - *Siyasatnama* (Nizam-ul-Mulk (निजाम-उल-मुल्क)) is a source on iqta practice.
-- Diwan-i-Wizarat (दीवान-ए-विज़ारत) handled finance.
-- Diwan-i-Arz (दीवान-ए-अर्घ) handled the military.
-- Diwan-i-Insha (दीवान-ए-इंशा) handled correspondence.
-- Diwan-i-Rasalat handled foreign / religious business (labels vary by reign).
-- Alauddin Khalji used market control, dagh (दाग़ -) (branding) and huliya (चेहरा) (descriptive roll) of cavalry.
-- Sher Shah is known for roads, dak, the silver (रूपक) **rupiya** (रुपिया) and copper **dam**. Akbar keeps the dam idea.
+- Alauddin Khalji used market control, dagh (दाग़) (branding) and huliya (चेहरा) (descriptive roll) of cavalry.
+- Sher Shah is known for roads, dak, the silver **rupiya** (रुपिया) and copper **dam** (दाम). Akbar keeps the dam idea.
+
+### Delhi Sultanate Central Administration & Departments Master Table
+
+| Department | Purpose / Function | Key Head / Creator | High-Yield Prelims Notes |
+| :--- | :--- | :--- | :--- |
+| **Diwan-i-Wizarat** (दीवान-ए-विज़ारत) | Finance, Taxation & Revenue | **Wazir** (Chief Minister / Prime Minister) | Central engine of administration; Khwaja Jahan under Tughlaqs. |
+| **Diwan-i-Arz** (दीवान-ए-अर्घ / अरीज़) | Military Department, Troop inspection & rolls | **Ariz-i-Mumalik**; Created by **Balban** | Balban created it separate from Wazir to keep military under royal eye; Alauddin introduced *Dagh* (branding) & *Chehra/Huliya* (descriptive rolls). |
+| **Diwan-i-Insha** (दीवान-ए-इंशा) | Royal correspondence, drafts, records & farmans | **Dabir-i-Khas** | State secrecy and official royal communication. |
+| **Diwan-i-Risalat** (दीवान-ए-रसालत) | Foreign affairs, diplomatic envoys & religious appeals | Headed by Sadr / Chief Diplomat | Handled relations with other states and appeals. |
+| **Diwan-i-Mustakhraj** (दीवान-ए-मुस्तखराज) | Arrears collection from revenue officials | Created by **Alauddin Khalji** | To extract unpaid balances from Muqtis and Amils. |
+| **Diwan-i-Riyasat** (दीवान-ए-रियासत) | Market control & economic regulation | Created by **Alauddin Khalji**; officer: *Shahna-i-Mandi* | Enforced strict price fixation in Delhi markets (Grain, Cloth/Sugar, Horses/Cattle). |
+| **Diwan-i-Kohi** (दीवान-ए-कोही) | Agricultural development, uncultivated land & loans | Created by **Muhammad bin Tughlaq** (MBT) | Advanced agricultural loans (**Sondhar / Takkavi**) to peasants. |
+| **Diwan-i-Khairat** (दीवान-ए-खैरात) | Charity, marriage grants for poor Muslim girls | Created by **Firoz Shah Tughlaq** (FST) | Welfare department for widows and orphans. |
+| **Diwan-i-Bandagan** (दीवान-ए-बंदगान) | Welfare & oversight of royal slaves (*ghulams*) | Created by **Firoz Shah Tughlaq** (had ~180,000 slaves) | Slaves trained in crafts, workshops, and army. |
+| **Dar-ul-Shafa** (दार-उल-शफ़ा) | Free charitable hospitals | Established by **Firoz Shah Tughlaq** | Free food and medicine distributed. |
+
+### Sultanate Taxation System Matrix
+
+| Tax Name | Nature / Target | Standard Rate / Rule | High-Yield Exam Note |
+| :--- | :--- | :--- | :--- |
+| **Kharaj** (खराज) | Land revenue from non-Muslim agriculturalists | Usually 1/3rd to 1/2 of produce | Alauddin Khalji raised it to 50% (1/2) based on measurement (*Masaahat*). |
+| **Jizya** (जज़िया) | Poll tax on non-Muslim subjects (*Zimmis*) | Graded by wealth (48, 24, 12 dirhams) | **Firoz Shah Tughlaq was the FIRST to impose Jizya on Brahmins** (earlier exempted). Abolished by Akbar in 1564; reimposed by Aurangzeb in 1679. |
+| **Zakat** (ज़कात) | Religious charity tax on Muslims | 2.5% on wealth/savings | Exclusively spent for poor Muslim relief. |
+| **Khams** (खम्स) | State share of booty taken in war | Sharia: 1/5th to State, 4/5th to Soldiers | **Alauddin Khalji & MBT reversed it:** State took 4/5th, leaving only 1/5th to soldiers! Firoz Shah Tughlaq reverted back to orthodox 1/5th. |
+| **Haqq-i-Shurb** (हक-ए-शर्ब) | Water / irrigation canal tax | 1/10th of agricultural produce | Imposed by **Firoz Shah Tughlaq** on lands irrigated by royal canals. |
+| **Charai & Ghari** (चराई एवं घरी) | House tax (*Ghari*) & Pasture tax (*Charai*) | Levied on cattle and houses | Introduced by **Alauddin Khalji**. |
 
 > **Logic:** **Jagirs** are assignable revenue rights, **not** direct crown land. Do not confuse **iqta** with jagir or zamindari.
 
@@ -460,20 +482,61 @@ D. Muqti was supposed to maintain troops out of the revenue collected from Iqta
 
 ## 11.5 Akbar's Administration
 
-Akbar’s administration is mansab, zabt, and suba (सूबा). Todar Mal shapes the revenue. Sher Shah’s coin continues.
+Akbar’s administration is built on the **mansab**, **zabt**, and **suba** (सूबा) framework. Todar Mal shaped the revenue system. Sher Shah’s currency continuity was preserved and codified.
 
-- **Mansabdari** (मनसबदारी व्यवस्था) was the official nobility ranking. It was started by **Akbar**.
-- The dual number was **zat** (personal status / salary) and **sawar** (cavalry to maintain).
-- Original mansab is **not hereditary**. Later Mughals loosen this.
-- The empire was divided into **subas** (15 in the mature Akbar list). Below that came sarkar (सरकार) and pargana (परगना).
-- **Zabt** was measurement-based assessment.
-- **Dahsala** used a ten-year average of produce/prices. It is linked to **Todar Mal** (टोडर मल), about **1580**.
-- The **Wazir (वज़ीर) / Diwan** handled revenue.
-- The **Mir Bakshi** handled military / mansab rolls.
-- The **Sadr-us-Sudur** handled grants / charity.
-- The **Mir Saman** (मीर-ए-सामां -) handled the household.
+### Master Matrix: Mughal Provincial Administration Evolution (Subas)
+
+| Reign / Timeline | Total Subas (Provinces) | List of Subas / Additions |
+| :--- | :--- | :--- |
+| **Akbar (1580 — *Ain-i-Akbari*)** | **12 Subas** (original division) | Agra, Delhi, Allahabad, Awadh, Ajmer, Ahmedabad (Gujarat), Bihar, Bengal, Malwa, Lahore, Multan, Kabul. |
+| **Late Akbar (Post-Deccan Annexations)** | **15 Subas** (mature map) | +3 Deccan subas added: **Berar** (बरार), **Khandesh** (खानदेश / renamed Dandesh), and **Ahmadnagar** (अहमदनगर). |
+| **Jahangir** | **15 – 17 Subas** | Retained 15; added **Orissa** (separated from Bengal) and Kangra. |
+| **Shah Jahan** | **18 – 22 Subas** | Expanded to 18–22; split Deccan into 4 subas (Khandesh, Berar, Daulatabad, Telangana); added **Kashmir** (separated from Kabul) and **Thatta / Sindh**. |
+| **Aurangzeb (Maximum Extent)** | **21 Subas** (Peak of Mughal Empire) | 14 in North India, 1 in Afghanistan (Kabul), and 6 in Deccan (+**Bijapur** in 1686, +**Golconda** in 1687). Total = **21 Subas**. |
+
+### Mughal Currency Matrix (Coins, Metals, & Ratios)
+
+| Metal | Coin Name | Weight / Standard | Ratio / Important Facts |
+| :--- | :--- | :--- | :--- |
+| **Silver (चांदी)** | **Rupiya** (रुपिया) | **178 grains** pure silver (standardized by **Sher Shah Suri**) | Akbar continued Sher Shah's silver Rupiya. Remained the monetary standard throughout Mughal era. |
+| **Copper (तांबा)** | **Dam** (दाम / पैसा) | **380 grains** pure copper (introduced by **Sher Shah Suri**) | **Exchange Ratio:**<br>• Under **Sher Shah:** **1 Rupee = 64 Dams**.<br>• Under **Akbar:** **1 Rupee = 40 Dams** (most frequent exam question!).<br>Fractions: *Adhela* (1/2 dam), *Paulah* (1/4 dam), *Damri* (1/8 dam). |
+| **Gold (सोना)** | **Mohur / Ashrafi** (मोहर / अशरफ़ी) | Approx 169–170 grains | Standard gold coin; equivalent to **9 to 10 silver rupees**.<br>Akbar’s square gold coin was called **Jalali**; round coin was **Ilahi**.<br>Largest gold coin: **Sahansah** (शहंशाह — 101 tolas, used for ceremonial gifts). |
+
+### Land Classification under Dahsala System (Ain-i-Dahsala — Todar Mal, 1580)
+
+| Land Class | Cultivation Frequency | Tax Assessment Rule |
+| :--- | :--- | :--- |
+| **Polaj** (पोलज) | Cultivated continuously every year; never allowed to lie fallow. | Paid full revenue every year; highest yield class. |
+| **Parauti** (परौती) | Left fallow temporarily for 1 or 2 years to recover fertility. | Paid full revenue only when under cultivation. |
+| **Chachar** (चाचर) | Left uncultivated/fallow for 3 or 4 years. | Assessed at progressively concessional rates when brought back to plough. |
+| **Banjar** (बंजर) | Uncultivated for 5 or more years; poorest wasteland. | Minimal token tax to incentivize reclamation. |
+
+*Measurement Reforms:* Replaced Sikandari Gaz with **Gaz-i-Ilahi** (39 digits / 41 anguls; ~33 inches). Replaced hemp rope with **Tanab** (bamboo sticks joined by iron rings) to prevent stretching/shrinking in different seasons.
+
+### Mansabdari System Evolution & Traps
+
+- **Dual Rank:** **Zat** (व्यक्तिगत पद — determined personal status and salary) and **Sawar** (सवार — number of cavalrymen and horses to be maintained).
+- **Three Classes of Mansabdars:** 
+  1. 1st Class: Zat = Sawar
+  2. 2nd Class: Zat > Sawar (but Sawar $\ge$ 1/2 Zat)
+  3. 3rd Class: Sawar < 1/2 Zat
+  *(Note: Sawar could NEVER exceed Zat rank!)*
+- **Du-Aspa Sih-Aspa (दो-अस्पा सिंह-अस्पा):** Introduced by Emperor **Jahangir**. Allowed selected mansabdars to maintain double or triple number of horses without increasing their *Zat* status.
+- **Month-Scale System (माहाना प्रणाली):** Introduced by **Shah Jahan**. When actual realization (*Hasil*) fell far short of estimated revenue (*Jama*), jagirs were allotted on a 4-month, 6-month, or 8-month basis.
+- **Highest Hindu Mansabdar Ratio:** Paradoxically under **Aurangzeb** (approx **31.6% to 33%** of mansabdars above rank 1000 were Hindus, mostly Maratha chieftains recruited during Deccan campaigns, higher than Akbar’s ~22%).
+- **Non-Hereditary Nature:** Mansabdari was strictly **not hereditary**. On death of a mansabdar, all his property was seized by the state under the law of **Escheat** (*Zabti*).
+
+### Local Administrative Hierarchy (Empire to Village)
+
+| Level | Administrative Unit | Chief Executive / Military Officer | Chief Revenue / Financial Officer | Other Key Functionaries |
+| :--- | :--- | :--- | :--- | :--- |
+| **Central** | Empire (साम्राज्य) | Emperor | **Wazir / Diwan** (finance) | **Mir Bakshi** (military & mansab), **Mir Saman** (stores & karkhanas), **Sadr-us-Sudur** (ecclesiastical & judicial head) |
+| **Provincial** | **Suba** (सूबा — Province) | **Subahdar / Sipahsalar** | **Provincial Diwan** (directly appointed by Centre) | **Bakshi** (provincial army), **Sadr/Qazi** (judiciary), **Kotwal** (city law & order) |
+| **District** | **Sarkar** (सरकार — District) | **Faujdar** (military commander & police) | **Amalguzar** (revenue assessment & collection) | **Kotwal** (head of city administration), **Bitikchi** (accountant/writer), **Khazandar** (treasurer) |
+| **Sub-District**| **Pargana** (परगना — Tehsil) | **Shiqdar** (law, order, executive head) | **Amil / Munsif** (revenue assessment & collection) | **Fotadar** (treasurer), **Qanungo** (hereditary keeper of land & revenue records) |
+| **Village** | **Gram / Mauza** (ग्राम — Village) | **Muqaddam / Mandal** (village headman) | **Patwari** (village accountant) | Village Panchayat / Council |
+
 - **Bairam Khan** (बैरम खान) was vakil / regent in Akbar’s early years. The title **Khan-i-Khanan** came from **Humayun**, not as a fresh Akbar gift at vazir-appointment.
-- In currency, Akbar, like **Sher Shah** (शेरशाह), regulates coin. The chief copper coin was the **dam**. The silver **rupiya** continues.
 
 > **Logic:** Mansab **≠ hereditary. Dam** is Sher Shah’s copper that Akbar keeps.
 

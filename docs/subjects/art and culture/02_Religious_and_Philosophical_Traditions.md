@@ -334,7 +334,7 @@ D. 4, 3, 2, 1
 - The path is right view, intention, speech, action, livelihood, effort, mindfulness, and concentration.
 - The five skandhas are rupa, vedana, samjna, samskara, and vijnana. **Pratityasamutpada** is the chain of **12** nidanas (dependent origination).
 - The Buddhist Triratna is Buddha, Dharma, and Sangha.
-- **Anicca** means impermanence. **Anatta** (अनात्मवाद -) means no permanent self (not Upanishadic Atman, not Jain jiva).
+- **Anicca** means impermanence. **Anatta** (अनात्मवाद) means no permanent self (not Upanishadic Atman, not Jain jiva).
 - The Middle Path rejects both luxury and extreme tapas.
 - Panchashila forbids killing, stealing, sexual misconduct, lying, and intoxicants.
 - Nirvana is the extinction of craving, not a Vedic heaven.
@@ -460,7 +460,7 @@ D. Kumaril Bhatt
 
 ### Twenty-four Tirthankaras
 
-Candidates should master the serial order, name, and emblem (*lanchhan*) of each Tirthankara. **Twenty** Tirthankaras attained Nirvana at **Sammed Shikhar** (सम्मेद शिखर -) (Parasnath, Jharkhand), with only **four exceptions** (Rishabhanatha at Mount Ashtapad, Vasupujya at Champapuri, Neminatha at Mount Girnar, and Mahavira at Pavapuri).
+Candidates should master the serial order, name, and emblem (*lanchhan*) of each Tirthankara. **Twenty** Tirthankaras attained Nirvana at **Sammed Shikhar** (सम्मेद शिखर) (Parasnath, Jharkhand), with only **four exceptions** (Rishabhanatha at Mount Ashtapad, Vasupujya at Champapuri, Neminatha at Mount Girnar, and Mahavira at Pavapuri).
 
 - 1 **Rishabhanatha / Adinatha** is the first Tirthankara. His emblem is the **bull** and nirvana is at **Ashtapad / Kailash**. His son is **Bahubali** (Gomateshwara); birth is in the Ayodhya tradition and colour is golden.
 - 2 **Ajitanatha** is the second Tirthankara. His emblem is the elephant. Nirvana is at Sammed Shikhar.

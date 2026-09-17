@@ -179,7 +179,7 @@ Excavation is controlled digging that keeps context. Vertical cuts read time. Ho
 - **Wheeler’s box-grid** divides the mound into squares. **Balks** (earth walls) are left so the layers can still be read.
 - Marshall’s earlier IVC work was broader clearance. Wheeler added measured stratigraphy. Wheeler did **not** discover Harappa.
 - Sequence on a licensed dig: survey → permission → grid and datum → layer-by-layer lift → sieve → draw and photograph → conserve → publish.
-- **Rescue / salvage** excavation records a mound before a dam (दाम -) or highway removes it.
+- **Rescue / salvage** excavation records a mound before a dam (बांध) or highway removes it.
 - Conservation challenges include rising water tables that decompose baked brick, while modern habitation overlaying ancient mounds at **Rakhigarhi** and **Hastinapur** poses severe encroachment challenges.
 - **H. D. Sankalia** is the Deccan (दक्कन) Chalcolithic (ताम्रपाषाण) name. **Nevasa** and **Inamgaon** are his sites.
 - Underwater excavation is still excavation. It is not a third dating method.
