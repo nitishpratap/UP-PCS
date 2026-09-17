@@ -106,7 +106,7 @@
 |---|---|
 | **Question Hour** | First hour of every parliamentary sitting (11:00 AM to 12:00 PM):  <br>• **Starred Questions**: Oral answers required; **supplementary questions CAN be asked** (green paper).  <br>• **Unstarred Questions**: Written answers required; **NO supplementary questions allowed** (white paper).  <br>• **Short Notice Questions**: Relates to matter of urgent public importance; asked with less than 10 days notice; answered orally (light pink paper). |
 | **Zero Hour** | **Unique Indian parliamentary innovation (introduced in 1962)**; starts immediately after Question Hour (12:00 PM); members raise urgent matters without prior notice; **not mentioned in Rules of Procedure**. |
-| **Adjournment Motion** | Introduced in **LOK SABHA ONLY** to draw attention to a definite matter of urgent public importance; requires support of **at least 50 members** to be admitted; sitting adjourned for debate $\ge 2.5$ hours; involves censure of government. |
+| **Adjournment Motion** | Introduced in **LOK SABHA ONLY** to draw attention to a definite matter of urgent public importance; requires support of **at least 50 members** to be admitted; sitting adjourned for debate ≥ 2.5 hours; involves censure of government. |
 | **No-Confidence Motion** | Moved in **LOK SABHA ONLY** under Rule 198; requires support of **at least 50 members**; no specific grounds needed; if passed, Council of Ministers must resign. |
 | **Censure Motion** | Moved in Lok Sabha against specific ministers or entire council for specific policies; requires specific grounds; if passed, government is not obligated to resign immediately but must seek confidence. |
 | **Calling Attention Motion** | Indian parliamentary innovation (since 1954); calling attention of a Minister to a matter of urgent public importance and seeking an authoritative statement. Mentioned in Rules of Procedure. |
@@ -180,7 +180,7 @@
   - *20(1)*: No ex-post-facto criminal law.
   - *20(2)*: No double jeopardy (cannot be prosecuted twice for the same offence).
   - *20(3)*: No self-incrimination (cannot be compelled to be a witness against oneself).
-- **Art. 21**: **Protection of Life and Personal Liberty** (*Procedure Established by Law $\to$ Due Process of Law* via *Maneka Gandhi Case 1978*; encompasses Right to Privacy - *Puttaswamy 2017*, Right to clean environment, Right to livelihood, Right to sleep, Right to die with dignity / passive euthanasia - *Common Cause 2018*).
+- **Art. 21**: **Protection of Life and Personal Liberty** (*Procedure Established by Law → Due Process of Law* via *Maneka Gandhi Case 1978*; encompasses Right to Privacy - *Puttaswamy 2017*, Right to clean environment, Right to livelihood, Right to sleep, Right to die with dignity / passive euthanasia - *Common Cause 2018*).
 - **Art. 21A**: **Right to Free and Compulsory Education** for children aged 6 to 14 years (Inserted by **86th Amendment 2002**; RTE Act enacted in 2009, in force 1 April 2010).
 - **Art. 22**: Protection against arrest and detention (production before magistrate within 24 hours; preventive detention max 3 months without advisory board approval).
 - **Art. 23**: Prohibition of traffic in human beings and **Begar** (forced labour).
@@ -228,7 +228,7 @@
 | **Annual Budget** | **Art. 112**: Annual Financial Statement | **Art. 202**: Annual Financial Statement | Word "Budget" is nowhere used in the Constitution! |
 | **Ordinance Power** | **Art. 123**: President | **Art. 213**: Governor | Can only be promulgated when legislature is not in session; max lifespan: **6 weeks from reassembly** (absolute maximum lifespan = 6 months + 6 weeks) |
 | **Assent to Bills** | **Art. 111**: President's Assent | **Art. 200**: Governor's Assent | Governor can reserve bill for consideration of President (**Art. 201**) |
-| **Creation/Abolition of Council** | — | **Art. 169**: Legislative Council | State Assembly passes resolution by special majority $\to$ Parliament approves by simple majority |
+| **Creation/Abolition of Council** | — | **Art. 169**: Legislative Council | State Assembly passes resolution by special majority → Parliament approves by simple majority |
 
 ---
 
@@ -339,6 +339,8 @@
 13. **2014 (2 June)**: **Telangana (29th state)** carved out of Andhra Pradesh (Sri Krishna Committee).
 14. **2019 (31 October)**: **Jammu & Kashmir Reorganisation Act 2019**: State of J&K bifurcated into **two Union Territories: J&K (with assembly) and Ladakh (without assembly)**; total count: **28 States and 8 Union Territories**.
 15. **2020 (26 Jan)**: Merged **Dadra & Nagar Haveli and Daman & Diu** into a single Union Territory.
+
+> **From–to (do not stop at the birth year):** **Uttarakhand** as a state runs **9 Nov 2000 → present** (name **Uttaranchal** till **1 Jan 2007**). **Jammu & Kashmir as a State** ran till **31 Oct 2019**; **Art. 370** operative **1950 → 5/6 Aug 2019**. Goa was a UT **1961–1987**, then the **25th state**.
 
 ---
 

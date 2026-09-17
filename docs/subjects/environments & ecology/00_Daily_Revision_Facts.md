@@ -63,7 +63,7 @@
 
 | Project Name | Year Launched | Launch Location / Nodal Agency | Key Objective / Status / Prelims Fact |
 |---|---|---|---|
-| **Project Tiger** | **1 April 1973** | **Jim Corbett National Park (Uttarakhand)** | Central scheme; initiated with 9 reserves under Kailash Sankhala ("Tiger Man of India"); statutory backing via NTCA (2006); **55+ Tiger Reserves** today; Corbett has highest tiger density |
+| **Project Tiger** | **1 April 1973** | **Jim Corbett National Park (Uttarakhand)** | Central scheme; initiated with 9 reserves under Kailash Sankhala ("Tiger Man of India"); statutory backing via NTCA (2006); **58 Tiger Reserves** (Madhav TR, MP, is the 58th). Corbett has among the highest tiger densities. |
 | **Project Crocodile** | **1975** | Hyderabad / Odisha (with UNDP & FAO aid) | Conservation of 3 crocodilian species: Gharial (*Gavialis gangeticus*), Mugger crocodile, and Saltwater crocodile (Bhitarkanika, Odisha) |
 | **Project Hangul** | **1970** | Dachigam National Park (J&K) | Conservation of Kashmir Stag (*Cervus elaphus hanglu* - critically endangered) with IUCN/WWF aid |
 | **Project Rhino (IRV 2020)** | **1987 / 2005** | Assam (Kaziranga, Manas, Orang, Pobitora) | Indian Rhino Vision 2020 aimed to attain a wild population of at least 3,000 Greater One-Horned Rhinos in Assam |
@@ -78,18 +78,41 @@
 ## 5. Ramsar Wetlands in Uttar Pradesh & Uttarakhand
 
 - **Uttarakhand**:
-  - **Asan Conservation Reserve** (Dehradun district, at confluence of Asan and Yamuna rivers; first Ramsar site of Uttarakhand, added 2020).
-- **Uttar Pradesh (10 Ramsar Sites — Major Prelims Match-Up!)**:
-  1. **Bakhira Wildlife Sanctuary** (Sant Kabir Nagar district - freshwater wetland).
-  2. **Haiderpur Wetland** (Muzaffarnagar & Bijnor borders - formed on Solani river within Hastinapur Wildlife Sanctuary).
-  3. **Nawabganj Bird Sanctuary** (renamed *Chandra Shekhar Azad Bird Sanctuary*, Unnao district).
-  4. **Parvati Arga Bird Sanctuary** (Gonda district - oxbow lake).
-  5. **Saman Bird Sanctuary** (Mainpuri district - seasonal oxbow lake).
-  6. **Samaspur Bird Sanctuary** (Rae Bareli district - 6 interconnected lakes).
-  7. **Sandi Bird Sanctuary** (Hardoi district - freshwater marsh).
-  8. **Sarsai Nawar Jheel** (Etawah district - permanent marsh, home to Sarus Crane).
-  9. **Sur Sarovar (Keetham Lake)** (Agra district - man-made reservoir on Delhi-Agra highway).
-  10. **Upper Ganga River** (Brijghat to Narora stretch - home to Gangetic Dolphins, gharials, and otters).
+  - **Asan Conservation Reserve** (Dehradun; confluence of Asan and Yamuna; **first Ramsar of Uttarakhand, Oct 2020**).
+  - **Jhilmil Jheel Conservation Reserve** (Haridwar, **2005**) is the state’s swamp-deer / barasingha wetland — **not** the Ramsar first (that is Asan).
+- **Uttar Pradesh (12 Ramsar sites)** — do not stop at the older list of 10:
+  1. **Bakhira Wildlife Sanctuary** (Sant Kabir Nagar).
+  2. **Haiderpur Wetland** (Muzaffarnagar–Bijnor; Solani / Hastinapur WLS).
+  3. **Nawabganj Bird Sanctuary** (*Chandra Shekhar Azad*, Unnao).
+  4. **Parvati Arga Bird Sanctuary** (Gonda).
+  5. **Saman Bird Sanctuary** (Mainpuri).
+  6. **Samaspur Bird Sanctuary** (Rae Bareli).
+  7. **Sandi Bird Sanctuary** (Hardoi).
+  8. **Sarsai Nawar Jheel** (Etawah; Sarus Crane).
+  9. **Sur Sarovar (Keetham Lake)** (Agra).
+  10. **Upper Ganga River** (Brijghat to Narora).
+  11. **Patna Bird Sanctuary** (Etah).
+  12. **Shekha Jheel** (Aligarh).
+
+> **Traps:** Sultanpur NP = **Haryana**. Rudrasagar = **Tripura**. Samaspur and Sarsai Nawar **are** in UP.
+
+### 5A. Protected areas of UP & UK — Declared / still in force
+
+| PA | State | From (year) | High-yield |
+|---|---|---|---|
+| **Hailey → Ramganga → Jim Corbett NP / TR** | **Uttarakhand** | NP **1936** (Hailey); Project Tiger launch site **1973** | India’s first National Park. Nainital–Pauri belt. |
+| **Rajaji NP / TR** | **Uttarakhand** | NP **1983**; tiger reserve **2015** | Elephant corridor; Haridwar–Dehradun–Pauri |
+| **Nanda Devi NP** | **Uttarakhand** | **1982** (BR **1988**; UNESCO mixed serial with VoF) | Chamoli; Nanda Devi peak |
+| **Valley of Flowers NP** | **Uttarakhand** | **1982** (UNESCO **1988**, expanded **2005**) | Smallest UK NP; Chamoli |
+| **Gangotri NP** | **Uttarakhand** | **1989** | Largest UK NP (~2390 sq km); Uttarkashi |
+| **Govind NP / WLS** | **Uttarakhand** | WLS **1955**; NP later | Snow leopard belt; Uttarkashi |
+| **Dudhwa NP / TR** | **Uttar Pradesh** | NP **1977**; TR **1987** | Lakhimpur Kheri Terai; rhino from **1984**; barasingha |
+| **Pilibhit TR** | **Uttar Pradesh** | **2014** | Terai; tiger + woodland swamp deer |
+| **Ranipur TR** | **Uttar Pradesh** | **2022/2023** | Chitrakoot–Banda (Vindhyan); not Terai |
+| **Hastinapur WLS** | **Uttar Pradesh** | **1986** | **Largest UP sanctuary**; Meerut–Bijnor belt; Haiderpur Ramsar inside |
+| **Katarniaghat WLS** | **Uttar Pradesh** | **1975** | Terai Arc toward Nepal; gharial / dolphin |
+
+UP has **no** biosphere reserve and **no** marine PA. UK biosphere = **Nanda Devi (1988; UNESCO MAB 2004)**.
 
 ---
 
@@ -104,15 +127,15 @@ Launched in **October 2014** under Swachh Bharat Abhiyan by CPCB:
   5. *Very Poor* (301–400)
   6. *Severe* (401–500).
 - **Eight Monitored Pollutants (Frequently Tested in PCS!)**:
-  1. **Particulate Matter 10 ($PM_{10}$)**
-  2. **Particulate Matter 2.5 ($PM_{2.5}$)**
-  3. **Nitrogen Dioxide ($NO_2$)**
-  4. **Sulphur Dioxide ($SO_2$)**
-  5. **Carbon Monoxide ($CO$)**
-  6. **Ozone ($O_3$)**
-  7. **Ammonia ($NH_3$)**
-  8. **Lead ($Pb$)**.
-  *(Notice: Carbon Dioxide ($CO_2$) is NOT part of the AQI 8 pollutants!)*
+  1. **Particulate Matter 10 (PM10)**
+  2. **Particulate Matter 2.5 (PM2.5)**
+  3. **Nitrogen Dioxide (NO2)**
+  4. **Sulphur Dioxide (SO2)**
+  5. **Carbon Monoxide (CO)**
+  6. **Ozone (O3)**
+  7. **Ammonia (NH3)**
+  8. **Lead (Pb)**.
+  *(Notice: Carbon Dioxide (CO2) is NOT part of the AQI 8 pollutants!)*
 
 ---
 
@@ -155,12 +178,12 @@ Launched in **October 2014** under Swachh Bharat Abhiyan by CPCB:
 | **1987** | **Brundtland Report** | UN World Commission | Report titled ***Our Common Future***; formally defined **Sustainable Development** |
 | **1989** | **Basel Convention** | Basel (Switzerland) | Control of transboundary movements of **Hazardous Wastes and their disposal**; entered into force 1992 |
 | **1992 (3–14 Jun)** | **Rio Earth Summit (UNCED)** | Rio de Janeiro (Brazil) | Landmark summit producing 3 Rio Conventions:  <br>1. **UNFCCC** (Climate Change)  <br>2. **CBD** (Biological Diversity)  <br>3. **UNCCD** (Combating Desertification)  <br>Also produced: **Agenda 21**, Rio Declaration, and Forest Principles |
-| **1997 (11 Dec)** | **Kyoto Protocol** | Kyoto (Japan) | UNFCCC COP-3; **Legally binding greenhouse gas emission reduction targets for Annex-I developed countries**; 6 greenhouse gases ($CO_2, CH_4, N_2O, HFCs, PFCs, SF_6$); Clean Development Mechanism (CDM); entered into force 2005; expired 2020 |
+| **1997 (11 Dec)** | **Kyoto Protocol** | Kyoto (Japan) | UNFCCC COP-3; **Legally binding greenhouse gas emission reduction targets for Annex-I developed countries**; 6 greenhouse gases (CO2, CH4, N2O, HFCs, PFCs, SF6); Clean Development Mechanism (CDM); entered into force 2005; expired 2020 |
 | **1998** | **Rotterdam Convention** | Rotterdam (Netherlands) | Prior Informed Consent (PIC) procedure for certain hazardous chemicals and pesticides in international trade |
 | **2000** | **Cartagena Protocol on Biosafety** | Montreal / Cartagena | Protocol to CBD governing the safe transfer, handling, and use of **Living Modified Organisms (LMOs)** |
 | **2001** | **Stockholm Convention on POPs** | Stockholm (Sweden) | Elimination or restriction of **Persistent Organic Pollutants (POPs)** (original "Dirty Dozen" including DDT, Dioxins, PCBs) |
 | **2010** | **Nagoya Protocol** | Nagoya (Japan) | Supplementary agreement to CBD on **Access to Genetic Resources and the Fair and Equitable Sharing of Benefits (ABS)** |
-| **2013** | **Minamata Convention** | Kumamoto (Japan) | Global treaty to protect human health and the environment from adverse effects of **Mercury ($Hg$)** |
+| **2013** | **Minamata Convention** | Kumamoto (Japan) | Global treaty to protect human health and the environment from adverse effects of **Mercury (Hg)** |
 | **2015 (12 Dec)** | **Paris Agreement** | Paris (France) | UNFCCC COP-21; keep global temperature rise **well below 2°C** above pre-industrial levels, pursue efforts to limit rise to **1.5°C**; Nationally Determined Contributions (NDCs); entered into force **4 Nov 2016** |
 | **2015** | **Sustainable Development Goals (SDGs)** | UN General Assembly | **17 Goals, 169 Targets (2015–2030)**; SDG 1: No Poverty, SDG 2: Zero Hunger, SDG 3: Good Health, SDG 4: Quality Education, SDG 5: Gender Equality, SDG 6: Clean Water & Sanitation, SDG 13: Climate Action, SDG 14: Life Below Water, SDG 15: Life on Land |
 | **2022** | **Kunming-Montreal GBF** | Montreal (CBD COP-15) | Global Biodiversity Framework; includes landmark **"30x30 target"** (protect at least 30% of planet's land and ocean by 2030) |
@@ -190,14 +213,16 @@ Launched in **October 2014** under Swachh Bharat Abhiyan by CPCB:
 ### C. Bioaccumulation vs Biomagnification
 - **Bioaccumulation**: Increase in the concentration of a chemical pollutant in an **individual organism over time** (rate of intake > rate of excretion).
 - **Biomagnification**: Progressive increase in the concentration of persistent, non-biodegradable, fat-soluble toxins (e.g., **DDT, Mercury, PCBs**) at **successively higher trophic levels** of a food chain.
-  - *Classic example:* Phytoplankton ($0.00005\text{ ppm}$) $\to$ Zooplankton $\to$ Small Fish $\to$ Fish-eating birds / Falcons ($25\text{ ppm}$ causing egg-shell thinning and population collapse).
+  - *Classic example:* Phytoplankton (0.00005 ppm) → Zooplankton → Small Fish → Fish-eating birds / Falcons (25 ppm causing egg-shell thinning and population collapse).
 
 ### D. Greenhouse Gases: Global Warming Potential (GWP, 100-Year Horizon)
-*Ranked from highest warming impact per molecule to lowest (relative to $CO_2 = 1$):*
-$$\mathbf{SF_6} \ (23,500) > \mathbf{PFCs} \ (7,000\text{--}9,000) > \mathbf{HFCs} \ (1,400\text{--}3,000) > \mathbf{N_2O} \ (273) > \mathbf{CH_4} \ (28) > \mathbf{CO_2} \ (1)$$
+*Ranked from highest warming impact per molecule to lowest (relative to CO2 = 1):*
+
+**SF6 (23,500) > PFCs (7,000–9,000) > HFCs (1,400–3,000) > N2O (273) > CH4 (28) > CO2 (1)**
+
 - **Water Vapour**: Most abundant natural greenhouse gas contributing greatest share to natural greenhouse effect (~60%), but has short atmospheric residence time.
-- **Carbon Dioxide ($CO_2$)**: Primary anthropogenic driver of global climate change due to massive volume and century-long residence time.
-- **Methane ($CH_4$)**: Major sources: Paddy/rice fields, ruminant livestock enteric fermentation, landfills, wetlands, coal mining.
+- **Carbon Dioxide (CO2)**: Primary anthropogenic driver of global climate change due to massive volume and century-long residence time.
+- **Methane (CH4)**: Major sources: Paddy/rice fields, ruminant livestock enteric fermentation, landfills, wetlands, coal mining.
 
 ---
 

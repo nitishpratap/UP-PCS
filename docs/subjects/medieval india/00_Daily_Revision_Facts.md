@@ -11,11 +11,56 @@
 
 | Dynasty | Period | Founder | Greatest / Key Ruler | Last Ruler | Capital |
 |---|---|---|---|---|---|
-| **Slave / Mamluk / Ilbari** | **1206–1290** | **Qutbuddin Aibak** (Lakhbaksh) | **Iltutmish** (real consolidator, introduced Silver Tanka & Copper Jital, Chalisa / Turkan-i-Chahalgani), **Balban** (Blood and Iron policy, Sijda & Paibos, Nauroz festival) | Kayumars (killed by Jalaluddin) | Lahore $\to$ Delhi (Iltutmish made Delhi capital) |
+| **Slave / Mamluk / Ilbari** | **1206–1290** | **Qutbuddin Aibak** (Lakhbaksh) | **Iltutmish** (real consolidator, introduced Silver Tanka & Copper Jital, Chalisa / Turkan-i-Chahalgani), **Balban** (Blood and Iron policy, Sijda & Paibos, Nauroz festival) | Kayumars (killed by Jalaluddin) | Lahore → Delhi (Iltutmish made Delhi capital) |
 | **Khalji** | **1290–1320** | **Jalaluddin Khalji** | **Alauddin Khalji** (Market regulations / Shahna-i-Mandi, Dagh & Chehra, expanded to South India under Malik Kafur) | Khusrau Khan (usurper) | Delhi (Siri Fort) |
-| **Tughlaq** (*Longest ruling: 94 yrs*) | **1320–1414** | **Ghiyasuddin Tughlaq** (Ghazi Malik; built Tughlaqabad) | **Muhammad bin Tughlaq** (Token currency, capital shift to Daulatabad, Qarachil & Khurasan expeditions), **Firoz Shah Tughlaq** (Canals, cities: Jaunpur, Firozabad, Hissar) | Nasiruddin Mahmud (Timur invaded in **1398 CE** during his reign) | Delhi $\to$ Daulatabad $\to$ Delhi |
+| **Tughlaq** (*Longest ruling: 94 yrs*) | **1320–1414** | **Ghiyasuddin Tughlaq** (Ghazi Malik; built Tughlaqabad) | **Muhammad bin Tughlaq** (Token currency, capital shift to Daulatabad, Qarachil & Khurasan expeditions), **Firoz Shah Tughlaq** (Canals, cities: Jaunpur, Firozabad, Hissar) | Nasiruddin Mahmud (Timur invaded in **1398 CE** during his reign) | Delhi → Daulatabad → Delhi |
 | **Sayyid** | **1414–1451** | **Khizr Khan** (governor of Multan under Timur; took title *Raiyat-i-Ala*, never called himself Sultan) | Mubarak Shah (patron of Yahya bin Ahmad Sirhindi - *Tarikh-i-Mubarak Shahi*) | Alam Shah (abdicated voluntarily) | Delhi |
-| **Lodi** (*First Afghan Dynasty*) | **1451–1526** | **Bahlul Lodi** (issued Bahloli coins) | **Sikandar Lodi** (Founded **Agra in 1504**, capital in 1506; wrote poetry as *Gulrukhi*; introduced **Gaz-i-Sikandari** 39 digits) | **Ibrahim Lodi** (Defeated & killed at First Battle of Panipat, 1526) | Delhi $\to$ Agra |
+| **Lodi** (*First Afghan Dynasty*) | **1451–1526** | **Bahlul Lodi** (issued Bahloli coins) | **Sikandar Lodi** (Founded **Agra in 1504**, capital in 1506; wrote poetry as *Gulrukhi*; introduced **Gaz-i-Sikandari** 39 digits) | **Ibrahim Lodi** (Defeated & killed at First Battle of Panipat, 1526) | Delhi → Agra |
+
+> **Logic:** Sultanate spine is **Slave 1206–1290 → Khalji 1290–1320 → Tughlaq 1320–1414 → Sayyid 1414–1451 → Lodi 1451–1526**. Do not stop at the founder year.
+
+### 1A. Ghaznavid & Ghurid (before Delhi)
+
+| House | Period (from–to) | Key raids / rulers | Last / end |
+|---|---|---|---|
+| **Ghaznavid (Mahmud of Ghazni)** | Raids **1000–1027 CE** (17 expeditions in Indian tradition) | **Somnath 1025**; Al-Biruni came with him; capital Ghazni | Line continues in Afghanistan; **not** the Delhi Sultanate |
+| **Ghurid (Muhammad Ghori)** | Indian career **1173–1206** | **Tarain I 1191** lost to Prithviraj; **Tarain II 1192** won; **Chandawar 1194** vs Jaichand | Murdered **1206**; slave generals (Aibak, Yalduz, Qubacha, Bakhtiyar) take the north |
+
+### 1B. Mughal Emperors — From / To, Last, High-Yield
+
+Imperial high point **1526–1707**; the house on paper lasts to **1857**.
+
+| Emperor | Period (from–to) | Last / how it ended | Capital | Key ruler & high-yield |
+|---|---|---|---|---|
+| **Babur** | **1526–1530** | Died; buried **Kabul** (not Delhi) | Agra | Panipat I (**21 Apr 1526**, *Tulughma* + *Araba*); Khanwa 1527 (title *Ghazi*); Chanderi 1528; Ghaghra 1529. *Baburnama* in **Chagatai Turkish**. |
+| **Humayun** | **1530–1540** and **1555–1556** | First reign ends at **Kannauj/Bilgram 1540**; restored **Sirhind 1555**; died 1556 (Sher Mandal stairs). Tomb **Delhi** | Agra / Delhi | Lost **Chausa 1539** and Kannauj 1540 to Sher Shah. Do not swap Daurah **1532** with Dharmat **1658**. |
+| **Sur (Afghan interregnum)** | **1540–1555** | **Sikandar Shah Suri** beaten at Sirhind 1555 | Delhi / Sasaram | **Sher Shah 1540–1545**: GT Road, rupiya, sarkar–pargana, Sasaram tomb. Islam Shah follows. **Not** a Mughal house. |
+| **Akbar** | **1556–1605** | Died; buried **Sikandra (Agra)** | Agra → **Fatehpur Sikri (1571–85)** → Lahore / Agra | Panipat II **5 Nov 1556** (Bairam Khan vs Hemu). *Zabt / Dahsala 1580–81* (Todar Mal). Abolished jizya **1564**. Ibadat Khana 1575; *Sulh-i-Kul*; Din-i-Ilahi **1582**. Allahabad fort **1583**. *Ain-i-Akbari* (Abul Fazl). |
+| **Jahangir** | **1605–1627** | Died; buried **Lahore** (Shahdara) | Agra / Lahore | *Tuzuk-i-Jahangiri*. Hawkins **1608** (*English Khan*); **Sir Thomas Roe 1615–19**. Nur Jahan’s party. Tomb of Itimad-ud-Daulah (Nur Jahan). |
+| **Shah Jahan** | **1628–1658** (died 1666 in Agra Fort) | Deposed by Aurangzeb after Samugarh; buried **Taj / Agra** | Agra → **Shahjahanabad (Delhi)** | Taj Mahal **1631–48** (Ustad Ahmad Lahori). Red Fort & Jama Masjid. Peacock Throne. Patron of Kavindra Acharya (Banaras). |
+| **Aurangzeb (Alamgir)** | **1658–1707** | Died **Ahmadnagar 1707**; buried Khuldabad | Delhi / Deccan camps | Dharmat Apr 1658 → Samugarh May 1658 → Deorai 1659. Reimposed jizya **1679**. Bijapur **1686**, Golkonda **1687**. About **21 subahs**. Shivaji coronation **1674** in his reign. |
+| **Bahadur Shah I** (Muazzam) | **1707–1712** | Died; **not** the 1857 emperor | Delhi | Won **Jajau 1707** vs Azam. Khafi Khan: *Shahe Bekhabar*. |
+| **Bahadur Shah II Zafar** | **1837–1857** | Last Mughal; **1857** Delhi; exiled **Rangoon** | Red Fort, Delhi | Son of **Akbar II**. Teachers Zauq & Ghalib. Do **not** merge with Bahadur Shah I. |
+
+> **Logic:** Mughal **founded 1526**, imperial end **1707** (Aurangzeb), legal end **1857** (Zafar). Humayun’s gap **1540–1555** is **Sur**, not “Mughal continued.”
+
+### 1C. Regional houses — From / To (often asked as founder-only)
+
+| Dynasty | Period (from–to) | Founder | Last ruler / end | Capital | Key ruler & high-yield |
+|---|---|---|---|---|---|
+| **Vijayanagara** | **1336–1565** as great power; Aravidu remnant to **c. 1646** | **Harihara I & Bukka I** (Sangama; Vidyaranya tradition) | **Rama Raya** killed at **Talikota 23 Jan 1565**; later Aravidu at Penukonda / Chandragiri | **Hampi** (Tungabhadra) | Order: **Sangama → Saluva → Tuluva → Aravidu**. Peak **Krishnadeva Raya (Tuluva)** — *Amuktamalyada* (Telugu); Paes & Barbosa visited. *Nayankara / amara*. Mahanavami Dibba. Berar **absent** from the Talikota alliance. |
+| **Bahmani** | **1347–1518/1527** | **Hasan Gangu = Alauddin Bahman Shah** | Splits **1518** into five Deccan Sultanates | **Gulbarga → Bidar** | **Mahmud Gawan** (prime minister; executed **1481**). Nikitin visited. Tin Darwaza = **Bidar**, not Ahmedabad. |
+| **Five Deccan Sultanates** | From **c. 1518** | — | Absorbed by Mughals (Bijapur **1686**, Golkonda **1687**) | Bijapur, Golkonda, Ahmadnagar, Bidar, Berar | Adil Shahi, Qutb Shahi, Nizam Shahi, Barid Shahi, Imad Shahi. Charminar = Qutb Shahi Hyderabad. |
+| **Sharqi (Jaunpur, UP)** | **c. 1394–1479/1484** | **Malik Sarwar** (*Malik-us-Sharq / Khwaja-i-Jahan*) | **Hussain Shah** falls to **Bahlul Lodi** | **Jaunpur** (eastern UP) | City founded by **Firuz Tughlaq** for cousin Jauna Khan — city ≠ dynasty. **Ibrahim Shah** — *Siraj-i-Hind*; **Atala Masjid**. Vidyapati’s *Kirtilata*; Jaisi’s *Padmavat* in this circle. **Only this regional capital sits in modern UP.** |
+| **Maratha Swaraj / Confederacy** | **1674–1818** | **Shivaji** crowned **Raigad 1674** (Gaga Bhatt) | **Peshwa Bajirao II**; Third Anglo-Maratha War **1817–18** ends Peshwaship | Raigad → later Poona (Peshwas) | Chauth 25% + Sardeshmukhi 10%. Purandar **1665** (Jai Singh I). Panipat III **1761**. |
+
+### 1D. Uttarakhand medieval houses (UKPCS)
+
+| Dynasty | Period (from–to) | Founder | Last ruler / end | Capital | Key ruler & high-yield |
+|---|---|---|---|---|---|
+| **Katyuri / Kattyuri** | **c. 740–1050 CE** | **Basantandev (Basu Dev)** | Tyrant **Bir Dev / Biram Dev** overthrown; realm splits (Askot, Doti, Dwarahat, Baijnath) | **Joshimath (Kartikeyapura)** → **Baijnath** (Katyur valley, Bageshwar) | First historic empire of the hills. Unifier **Ishtaganadeva**. Apex **Lalitsuradeva** (Pandukeshwar plates). Bageshwar inscription of **Bhuwandev**. |
+| **Chand of Kumaon** | c. 10th/11th c. legend → **1790** | **Somchand** (Jhusi/Prayag tradition) at **Champawat (Rajbunga)** | **Mahendra Chand** defeated by Gorkhas at **Hawalbagh, Jan 1790** | Champawat → **Almora (1563)** under Balo Kalyan Chand | Emblem **Garud**. **Char Aal**: Karki, Bora, Taragi, Chaudhary. Garud Gyan Chand vs Firoz Tughlaq. Baz Bahadur Chand — Taklakot / Kailash route. Tax memory: **36 Rakam 32 Kalam**. |
+| **Parmar / Panwar of Garhwal** | Legend **Kanakpal 888 CE** → **1804** | **Kanakpal** at **Chandpur Garhi** (Chamoli) | **Pradyumna Shah** dies vs Gorkhas at **Khudbuda / Khurbura (Dehradun), 14 May 1804** | Chandpur → Dewalgarh (1512) → **Srinagar (1517)** | **Ajay Pal** unites **52 garhs**. Rani **Karnavati** (*Nakkati Rani*, 1635). Fateh Shah grants four villages to **Guru Ram Rai** (1676). Painter **Mola Ram**. |
 
 ---
 
@@ -173,6 +218,24 @@
 | **Nimbarkacharya** | 13th c. | **Dvaitadvaita** (*Dualistic Non-dualism / Bhedabheda*) | God, soul, and world are both distinct and non-distinct; Radha-Krishna devotion | Sanaka Sampradaya (Vrindavan) |
 | **Vallabhacharya** | 15th–16th c. (1479–1531 CE) | **Shuddhadvaita** (*Pure Non-dualism*) | World is not an illusion but pure manifestation of Krishna; **Pushti Marga** (Grace of God) | Rudra Sampradaya (Varanasi / Braj) |
 | **Chaitanya Mahaprabhu** | 16th c. (1486–1534 CE) | **Achintya Bhedabheda** (*Inconceivable Oneness & Difference*) | Kirtana & Sankirtana movement; ecstatic love for Radha-Krishna | Nadia / Navadvip (Bengal) |
+
+### A2. North Indian Bhakti saints — Birth and death (do not leave as “15th c.” only)
+
+North chain: **Namdev → Ramananda → Kabir → Nanak → Chaitanya → Surdas → Tulsidas → Dadu**.
+
+| Saint | Birth–death | Place / language | High-yield |
+|---|---|---|---|
+| **Namdev** | **c. 1270–1350** | Maharashtra; verses also in Adi Granth | Varkari; Vithoba of Pandharpur |
+| **Ramananda** | 14th–15th c. | Banaras (UP) | Guru of Kabir and Ravidas; Rama-bhakti in the north |
+| **Kabir** | 15th c. (often **1398–1518** in coaching lists) | Born **Kashi / Varanasi**; died **Maghar** (Sant Kabir Nagar, UP) | Nirguna; *Bijak* (Ramaini, Sabda, Sakhi); weaver-saint. **Maghar ≠ Mathura**. |
+| **Guru Nanak** | **1469–1539** | Talwandi (Nankana Sahib); died Kartarpur | First Sikh Guru; Nirguna; companion **Mardana** |
+| **Ravidas** | 15th–16th c. | Banaras (UP) | Ramananda circle; Dalit saint; verses in Adi Granth |
+| **Surdas** | **c. 1478–1581** | **Braj** (Mathura–Vrindavan, UP) | Saguna Krishna; *Sursagar*; disciple of **Vallabhacharya** |
+| **Tulsidas** | **1532–1623** | **Awadhi** belt (Rajapur / Banaras, UP) | *Ramcharitmanas* (Awadhi); Saguna Rama. Do not swap with Surdas. |
+| **Mirabai** | **c. 1498–1546** | Rajasthan (Mewar) → later Dwarka tradition | Krishna devotee; **not** Andal (Tamil Alvar) |
+| **Dadu Dayal** | **1544–1603** | Rajasthan | Nirguna; Dadu Panth |
+
+> **Logic:** Tulsidas = **Awadhi Rama**. Surdas = **Braj Krishna**. Kabir died at **Maghar**, not Kashi. Nanak **1469–1539**, not a 12th-century Alvar.
 
 ### B. Sufi Silsilahs (Orders) in India
 | Silsilah | Prominent Saints | Key Center / Khanqah | Key Feature / Attitude to State |

@@ -22,12 +22,21 @@
 | **Ropar (Roopnagar)** | Punjab (India) | **Sutlej** | Y.D. Sharma (1953) | **Dog buried with human oval pit** (post-Harappan continuation), First site excavated after independence |
 | **Surkotada** | Kutch (Gujarat) | Seasonal stream | J.P. Joshi (1964) | **Horse bone remains** (disputed), Pot burials, Oval citadel |
 | **Daimabad** | Ahmednagar (Maharashtra) | **Pravara** (Godavari tributary) | B.P. Bopardikar | **Southernmost IVC site**, Bronze chariot with driver, Rhino, Elephant, Buffalo |
-| **Alamgirpur** | Meerut (Uttar Pradesh) | **Hindon** (Yamuna tributary) | Y.D. Sharma (1958) | **Easternmost IVC site**, Cloth impression on pottery |
-| **Manda** | Jammu & Kashmir | **Chenab** | J.P. Joshi (1982) | **Northernmost IVC site** in India |
+| **Alamgirpur** | Meerut (Uttar Pradesh) | **Hindon** (Yamuna tributary) | Y.D. Sharma (1958) | **Easternmost IVC site** in India; cloth impression on pottery; triangle–peacock–squirrel motifs. **Not** Rakhigarhi (Haryana = largest, not east). |
+| **Hulas** | **Saharanpur** (UP; some lists tag the Baghpat belt) | Upper Ganga–Yamuna doab | **K.N. Dikshit** (ASI) | Eastern Harappan habitation: handmade + wheel-made pottery, chert blades, bone points. **UPPCS match: Hulas = Uttar Pradesh** (not Gujarat). |
+| **Mandi** | **Muzaffarnagar** (UP; some lists Bijnor / Ramganga) | Doab | ASI | Late Harappan **jewellery / gold-hoard** find. **Mandi (UP) ≠ Manda (J&K)**. With Hulas, the usual UP pair that rejects **Rakhigarhi**. |
+| **Sanauli** | **Baghpat** (Uttar Pradesh) | Yamuna basin | D.V. Sharma / ASI (**2018**) | About **125** graves, coffins, copper antenna swords, solid wooden-wheel **chariots**. Late Harappan / OCP — **not** a Mature grid-city with a Great Bath. Same district belt as Hulas lists, different period label. |
+| **Bargaon / Ambakheri** | **Saharanpur** (Uttar Pradesh) | Doab | ASI | Late Harappan / **OCP** belt of western UP (with Hastinapur, Lal Qila, Atranjikhera). Rural doab, not a citadel city. |
+| **Manda** | Jammu & Kashmir | **Chenab** | J.P. Joshi (1982) | **Northernmost IVC site** in India. Trap: **Manda ≠ Mandi**. |
 | **Sutkagen Dor** | Balochistan (Pak-Iran border) | **Dasht** | Aurel Stein (1927) | **Westernmost IVC site**, Coastal trading post between Harappa & Babylon |
 | **Kunal** | Haryana | Saraswati | J.S. Khatri | 2 silver crowns discovered |
-| **Balu** | Kaithal (Haryana) | - | - | Earliest evidence of garlic cultivation |
-| **Sanauli** | Baghpat (Uttar Pradesh) | Yamuna basin | D.V. Sharma (ASI) | 125 graves, Solid wooden-wheel chariots, Copper antenna swords (Late Harappan / OCP) |
+| **Balu** | Kaithal (**Haryana**) | - | - | Earliest evidence of garlic cultivation. Trap: **Balu ≠ UP**. |
+| **Padri** | Bhavnagar belt (**Gujarat**) | Coastal Saurashtra | - | **Gujarat** match in the Balu–Manda–Padri–Hulas set. Trap: **Padri ≠ Hulas**. |
+| **Bhirrana** | Fatehabad (**Haryana**) | Ghaggar | ASI / L.S. Rao | Often called among the **oldest** Harappan settlements. Not a UP site. |
+
+> **UP Harappan quartet:** **Alamgirpur** (Meerut, east end) · **Hulas** (Saharanpur) · **Mandi** (Muzaffarnagar) · **Sanauli** (Baghpat, Late / OCP chariots). **Rakhigarhi is Haryana**, not UP.
+
+> **UKPCS — no mature Indus city in Uttarakhand.** Closest protohistoric belt: **Bahadrabad (Haridwar)** — OCP + Copper Hoards (Y.D. Sharma, 1951–53); **Bankot (Pithoragarh)** — 8 copper anthropomorphs (1989); **Malari (Chamoli)** — cist graves, 5.2 kg gold mask, Swat-style pottery. Do not list these as Harappa / Mohenjodaro-type cities.
 
 ---
 
@@ -84,7 +93,7 @@
 
 | Mahajanapada | Capital | Modern Location | High-Yield Exam Notes |
 |---|---|---|---|
-| **Magadha** | Girivraja / Rajagriha $\to$ Pataliputra | Patna & Gaya (Bihar) | Founded by Brihadratha; rose under Bimbisara (Haryanka) |
+| **Magadha** | Girivraja / Rajagriha → Pataliputra | Patna & Gaya (Bihar) | Founded by Brihadratha; rose under Bimbisara (Haryanka) |
 | **Anga** | **Champa** (ancient Malini) | Bhagalpur & Munger (Bihar) | Annexed by Bimbisara; major trade port to Suvarnabhumi |
 | **Kasi** | **Varanasi** | Varanasi (UP) | Between Varuna and Asi rivers; famous for cotton textiles |
 | **Vatsa** | **Kausambi** | Prayagraj/Kaushambi (UP) | King **Udayana** (hero of Bhasa's *Swapnavasavadattam*); Buddha visited |
@@ -137,44 +146,64 @@
 | **4th** | **72 CE** | Kundalvana (**Kashmir**) | **Kanishka** (Kushana) | **Vasumitra** (President), **Ashvaghosha** (Vice-President) | Final split into **Hinayana** and **Mahayana**; *Mahavibhasha Shastra* written in Sanskrit |
 
 ### B. Buddha's 5 Great Life Events & Symbols
-1. **Janma (Birth)**: Lotus and Bull (Lumbini, Kapilavastu).
+1. **Janma (Birth)**: Lotus and Bull (**563 BCE**, Lumbini, Kapilavastu).
 2. **Mahabhinishkramana (Great Renunciation)**: Horse (Kanthaka).
 3. **Nirvana / Sambodhi (Enlightenment)**: Bodhi Tree (Pipal / Ficus religiosa) at Bodh Gaya on Niranjana (Phalgu) river.
 4. **Dharmachakrapravartana (First Sermon)**: Wheel / 8-Spoked Chakra (Deer Park at Sarnath / Rishipattana).
-5. **Mahaparinirvana (Death)**: Stupa / Footprints (Sal tree grove at Kushinagar).
+5. **Mahaparinirvana (Death)**: Stupa / Footprints (Sal tree grove at Kushinagar, **483 BCE**, age **80**).
 
-### C. Jain Tirthankaras & Symbols (High-Frequency Match)
+### C. Birth and death of Buddha and Mahavira
+
+| Head | **Gautama Buddha (Siddhartha)** | **Mahavira (Vardhamana)** |
+|---|---|---|
+| **Birth year** | **563 BCE** (traditional; some books use a shorter chronology) | **599 BCE** (usual teaching set); some books use **540 BCE** |
+| **Birthplace** | **Lumbini** (Nepal), near Kapilavastu of the **Shakya** clan | **Kundagrama** (Vaishali / Vajji belt, Bihar), **Jnatraka** clan |
+| **Parents** | Father **Suddhodana**; mother **Mahamaya / Mayadevi** (Koliyan); raised by **Mahapajapati Gotami** | Father **Siddhartha**; mother **Trishala** (sister of Lichchhavi chief **Chetaka**) |
+| **Wife / child** | **Yashodhara**; son **Rahul** | Jain tradition names wife **Yashoda** (a different person from Yashodhara) |
+| **Renunciation** | Age **29** (*Mahabhinishkramana*; horse **Kanthaka**) | Age **30** (*grihatyaga*) |
+| **Awakening** | Enlightenment at about **35**, **Bodh Gaya** (Vaishakha Purnima) | **Kevala jnana** at about **42** |
+| **Death year** | **483 BCE** (*Mahaparinirvana*) | **527 BCE** (usual); some books use **468 BCE** |
+| **Death place** | **Kushinagar** (UP, Malla republic), sala grove, age **80** | **Pavapuri / Pawa** (Bihar), age **72** |
+| **Proof of birthplace** | Ashoka’s **Rummindei** pillar at Lumbini | Kundagrama / Vaishali tradition; not marked by Rummindei |
+
+> **Logic:** Buddha **563–483 BCE**, 80 years. Mahavira **599–527 BCE**, 72 years. Do not swap Lumbini with Kundagrama, or Kushinagar with Pavapuri. **Nayaputta** is an epithet of **Mahavira**, not of Buddha. If a stem uses the shorter Jain pair **540–468 BCE**, both years still sit in the 6th–5th century BCE.
+
+### D. Jain Tirthankaras & Symbols (High-Frequency Match)
 - **1st Rishabhanatha (Adinatha)**: **Bull** (Emblem) | Born in Ayodhya | Mentioned in Rigveda with Arishtanemi.
 - **2nd Ajitanatha**: **Elephant** | Born in Ayodhya.
 - **16th Shantinaatha**: **Deer**.
 - **19th Mallinatha**: **Water Jar (Kalasha)** | Shvetambaras consider Mallinatha a female.
 - **22nd Neminatha (Arishtanemi)**: **Conch (Shankha)** | Cousin of Krishna.
 - **23rd Parshvanatha**: **Serpent / Hooded Cobra** | Born in Varanasi (Ashvasena's son); propounded 4 vows (*Chaturyama*).
-- **24th Mahavira (Vardhamana)**: **Lion** | Born in Kundagrama (Vaishali), died at Pavapuri; added 5th vow: **Brahmacharya**.
+- **24th Mahavira (Vardhamana)**: **Lion** | Born **599 BCE** at Kundagrama (Vaishali); died **527 BCE** at Pavapuri (age 72); added 5th vow: **Brahmacharya**.
 - **Jain Councils**:
   - **1st Council (c. 300 BCE)**: Pataliputra | Presided by **Sthulabhadra** | 12 Angas compiled | Split into Shvetambara (white-clad, led by Sthulabhadra) and Digambara (sky-clad, led by Bhadrabahu).
   - **2nd Council (512 CE)**: Vallabhi (Gujarat) | Presided by **Devardhi Kshamasramana** | Final compilation of 12 Angas & 12 Upangas in Ardhamagadhi Prakrit.
 
 ---
 
-## 6. Ancient Dynasties, Founders & Capitals Matrix
+## 6. Ancient Dynasties — From / To, Founder, Last Ruler, High-Yield
 
-| Dynasty | Founder | Capital | Key Ruler & High-Yield Milestone |
-|---|---|---|---|
-| **Haryanka** | **Bimbisara** (544 BCE) | Rajagriha (Girivraja) | Ajatashatru (1st Council); Udayin (founded Pataliputra) |
-| **Shishunaga** | **Shishunaga** (412 BCE) | Girivraja $\to$ Vaishali | Kalashoka / Kakavarna (2nd Council at Vaishali) |
-| **Nanda** | **Mahapadma Nanda** (344 BCE) | Pataliputra | *Ekarat*, *Sarvakshatrantaka*; Alexander invaded during Dhanananda (326 BCE) |
-| **Maurya** | **Chandragupta Maurya** (321 BCE) | Pataliputra | Chanakya guided; Ashoka (Kalinga war 261 BCE); Brihadratha last ruler |
-| **Shunga** | **Pushyamitra Shunga** (185 BCE) | Pataliputra & Vidisha | Slew Brihadratha; revived Vedic sacrifices (Patanjali was priest) |
-| **Kanva** | **Vasudeva Kanva** (73 BCE) | Pataliputra | Overthrew last Shunga Devabhuti |
-| **Satavahana (Andhra)** | **Simuka** (1st c. BCE) | Pratishthana (Paithan) & Amaravati | Gautamiputra Satakarni (*Ekabrahmana*); issued lead & potin coins; matrilineal titles |
-| **Kushana** | **Kujula Kadphises** (Kadphises I) | Purushapura (Peshawar) & Mathura | Vima Kadphises issued first gold coins; Kanishka (Saka Era 78 CE, 4th Council) |
-| **Gupta** | **Sri Gupta** $\to$ Chandragupta I (real) | Pataliputra | *Golden Age*; Samudragupta (*Napoleon of India*); Chandragupta II Vikramaditya |
-| **Vakataka** | **Vindhyashakti** (250 CE) | Vatsagulma (Washim, Maha) | Pravarasena I (performed 4 Ashvamedhas); Prabhavatigupta married Rudrasena II |
-| **Maukhari** | **Harivarman** | **Kannauj** (Kanyakubja, UP) | Grahavarman married Rajyashri (Harsha's sister); killed by Deva Gupta of Malwa |
-| **Pushyabhuti (Vardhana)**| **Pushyabhuti** | Thanesar $\to$ Kannauj | **Harshavardhana (606–647 CE)**; Xuanzang visited; Kannauj assembly |
-| **Badami Chalukya** | **Pulakeshin I** (543 CE) | Vatapi (Badami, Karnataka) | **Pulakeshin II** (defeated Harsha on Narmada - Aihole Inscription) |
-| **Pallava of Kanchi** | **Simhavishnu** (575 CE) | Kanchipuram (Tamil Nadu) | Mahendravarman I, Narasimhavarman I Mahamalla (defeated Pulakeshin II - *Vatapikonda*) |
+Magadha spine (do not skip a rung): **Haryanka → Shishunaga → Nanda → Maurya → Shunga → Kanva**.
+
+| Dynasty | Period (from–to) | Founder | Last ruler | Capital | Key ruler & high-yield |
+|---|---|---|---|---|---|
+| **Haryanka** | **c. 544–412 BCE** | **Bimbisara** (Shrenika; annexes **Anga**; contemporary of Buddha & Mahavira) | **Nagadasaka** (weak tail; minister Shishunaga takes the throne) | **Rajagriha / Girivraja** | **Ajatashatru** — *rathamusala*, war on Vajji, **1st Buddhist Council** (Rajagriha). **Udayin** first makes **Pataliputra** the Magadhan capital (Ajatashatru only seeds Pataligrama). |
+| **Shishunaga** | **c. 412–344 BCE** | **Shishunaga** (ex-viceroy of Kashi) | **Nandivardhana / Mahanandin** (overthrown by Mahapadma Nanda) | Girivraja → **Vaishali** (second capital tradition) | Founder **takes Avanti / Malwa** (ends Pradyota). **Kalashoka / Kakavarna** — **2nd Buddhist Council** at Vaishali (schism). Did **not** found Pataliputra. |
+| **Nanda** | **c. 344–321 BCE** | **Mahapadma Nanda** (*Ekarat*, *Sarvakshatrantaka*, *Ugrasena*, *Aparoparashurama*) | **Dhana Nanda** (Greek **Agrammes / Xandrames**; commander Bhaddasala) | **Pataliputra** | Nine Nandas. Huge standing army; **Alexander never fought** them (326 BCE is still Dhana Nanda’s reign). Hathigumpha later recalls a Nanda canal and a Jina image from Kalinga. Overthrown by **Chandragupta + Chanakya**. |
+| **Maurya** | **c. 321–185 BCE** | **Chandragupta Maurya** (Greek *Sandrokottos*; Chanakya / Kautilya; treaty with Seleucus **c. 303 BCE**) | **Brihadratha** (killed by general **Pushyamitra Shunga**, 185 BCE) | **Pataliputra** (Ganga–Son) | **Bindusara** (*Amitraghata*). **Ashoka**: accession c. 272, coronation **268–232**; **Kalinga War 261 BCE** (MRE XIII); **3rd Council** at Pataliputra. Ashoka’s death **232 ≠** end of empire — house runs to **185**. |
+| **Shunga** | **185–73 BCE** | **Pushyamitra Shunga** (coup at a military review) | **Devabhuti** (killed / ousted by Vasudeva Kanva) | Pataliputra & **Vidisha** | Two **ashvamedhas** (Ayodhya / Dhanadeva record). **Agnimitra** in Kalidasa’s *Malavikagnimitra*. **Patanjali** (*Mahabhashya*) is Shunga-age, not Kanishka’s court. Sanchi still grows. |
+| **Kanva** | **73–28 BCE** | **Vasudeva Kanva** | **Susarman** | Pataliputra | Short Magadha coda after Shungas. Deccan **Satavahanas** rise as this house fades. |
+| **Satavahana (Andhra)** | **c. 230 BCE – 3rd c. CE** | **Simuka** | Last great often **Yajna Sri Satakarni** (later Pulomavi line) | **Pratishthana (Paithan)** & Amaravati | **Gautamiputra Satakarni** — *Ekabrahmana*, *Trisamudrapitapoyavahana* (Nasik cave of mother **Gautami Balashri**); smashed Western Kshatrapas. **Lead & potin** coins; matrilineal *Gautamiputra / Vasisthiputra* titles. **Hala** — Prakrit *Gatha Saptasati*. Yajna Sri — **ship** on coins. |
+| **Kushana** | **1st–3rd c. CE** | **Kujula Kadphises** (Kadphises I) | Last great **Vasudeva I** (then fragmentation) | **Purushapura (Peshawar)** & **Mathura** | **Vima Kadphises** — first Kushana **gold** (*dinar*). **Kanishka** — **Shaka era 78 CE** (some books peak c. 127); **4th Council** at Kundalvana (Kashmir); Gandhara + Mathura art; titles *Devaputra*. Do not make Kanishka a Gupta. |
+| **Gupta** | **c. 320–550 CE** | **Sri Gupta** → **Ghatotkacha** (both *Maharaja*); real imperial start **Chandragupta I** (**Maharajadhiraja**, Gupta era **319/320 CE**, queen **Kumaradevi**) | Last great **Skandagupta**; later line thins (e.g. Vishnugupta) | **Pataliputra** (CG II also uses **Ujjain**) | **Samudragupta** — Prayag Prashasti by **Harisena**; *Napoleon of India*; Aryavarta uprooted, Dakshinapatha captured-and-freed. **Chandragupta II Vikramaditya** — *Sakari*, ends Western Kshatrapas (Rudrasimha III); Mehrauli iron pillar; Fa-Hien. **Kumaragupta I** — Nalanda tradition. **Skandagupta** — **Bhitari** (Ghazipur, UP) vs **Hunas**; repairs Sudarsana lake. |
+| **Vakataka** | **c. 250–500 CE** | **Vindhyashakti** | **Harishena** (Vatsagulma branch; Ajanta later caves) | **Vatsagulma** (Washim) / Nandivardhana | **Pravarasena I** — four *ashvamedhas*. Gupta–Vakataka tie: **Prabhavatigupta** (daughter of CG II) married **Rudrasena II** and ruled as regent. |
+| **Maukhari** | **6th c. CE** (till **c. 606**) | **Harivarman** | **Grahavarman** | **Kannauj** (Kanyakubja, UP) | Grahavarman married **Rajyashri** (Harsha’s sister); killed by **Deva Gupta of Malwa** + **Shashanka** of Gauda — the spark for Harsha’s rise. |
+| **Pushyabhuti (Vardhana)** | House earlier; **Harsha 606–647 CE** | **Pushyabhuti** (house); effective reunion king **Harshavardhana** | **Harsha** (no stable heir after **647**; Wang Xuance / Arunashva) | Thanesar → **Kannauj** | **Harsha-samvat 606**. Xuanzang (*Si-Yu-Ki*). Kannauj & Prayag assemblies. Stopped on the **Narmada** by **Pulakeshin II**. Banabhatta — *Harshacharita*. Not a Gupta emperor. |
+| **Badami Chalukya** | **543–753 CE** | **Pulakeshin I** | **Kirtivarman II** (overthrown by Rashtrakuta **Dantidurga**) | **Vatapi (Badami**, Karnataka) | **Pulakeshin II** — defeats Harsha on Narmada; **Aihole / Meguti** prashasti by Jain poet **Ravikirti** (names Kalidasa & Bharavi). Clash with Pallavas (Narasimhavarman I sacks Vatapi — *Vatapikonda*). |
+| **Pallava of Kanchi** | **c. 575–897 CE** | **Simhavishnu** (imperial line) | **Aparajita** (defeated by Chola **Aditya I**) | **Kanchipuram** | **Mahendravarman I** — *Mattavilasa Prahasana*; rock-cut start. **Narasimhavarman I Mahamalla** — defeats Pulakeshin II; **Mamallapuram** rathas / shore temple age. |
+
+> **Logic:** Maurya **321–185**, not 321–232. Gupta **320–550**, not “ends with Chandragupta II.” Harsha **606–647** is Pushyabhuti, not Gupta. Shunga **185** is the Mauryan end, not Kalinga (261).
 
 ---
 

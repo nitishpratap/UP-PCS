@@ -11,7 +11,7 @@
 
 | Dance Form | State of Origin | Key Pioneer / Revivalist | Notable Exponents | Distinctive Features / Exam Keywords |
 |---|---|---|---|---|
-| **Bharatanatyam** | **Tamil Nadu** | **E. Krishna Iyer**, **Rukmini Devi Arundale** (Kalakshetra) | Yamini Krishnamurthy, Padma Subrahmanyam, Alarmel Valli, Mrinalini Sarabhai | **Oldest classical dance** (temple Devadasi / *Sadir*); fire dance (*Araimandi* stance); *Alarippu $\to$ Jatiswaram $\to$ Shabdam $\to$ Varnam $\to$ Padam $\to$ Tillana*; *Ekaharya* (one dancer plays many roles) |
+| **Bharatanatyam** | **Tamil Nadu** | **E. Krishna Iyer**, **Rukmini Devi Arundale** (Kalakshetra) | Yamini Krishnamurthy, Padma Subrahmanyam, Alarmel Valli, Mrinalini Sarabhai | **Oldest classical dance** (temple Devadasi / *Sadir*); fire dance (*Araimandi* stance); *Alarippu → Jatiswaram → Shabdam → Varnam → Padam → Tillana*; *Ekaharya* (one dancer plays many roles) |
 | **Kathak** | **Uttar Pradesh** | **Lady Leela Sokhey**, Wajid Ali Shah (patronized Lucknow Gharana) | **Pt. Birju Maharaj**, Sitara Devi, Shambhu Maharaj, Lachhu Maharaj, Damayanti Joshi | Derived from *Katha Kahe So Kathak Kahave*; intricate footwork (**Tatkar**), rapid spins (**Chakkars**), *Gat Nikas*, *Jugalbandi* with tabla; **Gharanas**: Lucknow (Bhava/grace), Jaipur (Veer rasa/footwork), Banaras, Raigarh |
 | **Kathakali** | **Kerala** | **Vallathol Narayana Menon** (Kerala Kalamandalam) | Kalamandalam Gopi, Guru Kunchu Kurup, Raman Kutty Nair | Elaborate face makeup and headgear; dance-drama depicting Ramayana/Mahabharata; **Colors**: *Pacha* (Green = noble/gods), *Kathi* (Knife = arrogant/evil with white nose ball), *Thadi* (Beard = red/black evil, white pious Hanuman), *Minukku* (yellow = women & sages) |
 | **Kuchipudi** | **Andhra Pradesh** | **Siddhendra Yogi** (Bhamakalapam) | Yamini Krishnamurthy, Raja & Radha Reddy, Swapnasundari | Village of Kuchelapuram; dancer balances on rim of a **brass plate** (*Tarangam*) while carrying a water pot (*Kundi*) on head; combines speech, singing, and dancing |
@@ -89,7 +89,9 @@
 | **Hoysaleswara Temple** | Halebidu (Karnataka) | King Vishnuvardhana (Hoysala) | Soapstone (chloritic schist); stellate (star-shaped) ground plan; high-relief friezes; UNESCO WHS (2023) |
 | **Chennakeshava Temple** | Belur (Karnataka) | King Vishnuvardhana (Hoysala, 1117 CE) | UNESCO WHS (2023); exquisite Madanika bracket figures |
 | **Dashavatara Temple** | Deogarh (Lalitpur, UP) | Gupta Period (6th c. CE) | **Earliest surviving Panchayatana stone temple in North India**; famous Sheshashayi Vishnu panel |
-| **Bhitargaon Temple** | Kanpur (UP) | Gupta Period (5th c. CE) | **Oldest surviving terracota/brick temple** with an arch in India |
+| **Bhitargaon Temple** | Kanpur (UP) | Gupta Period (**5th c. CE**; house **c. 320–550**) | **Oldest surviving terracotta/brick temple** with an arch in India |
+
+> **Dynasty spans for temple builders (from–to, not founder-year only):** Gupta **c. 320–550** (Deogarh, Bhitargaon). Pallava imperial **c. 575–897** (Shore Temple = Rajasimha). Rashtrakuta **c. 753–973** (Kailasa = Krishna I). Chola imperial **c. 850–1279** (Rajaraja I **1010**, Rajendra I **1035**). Chandela **c. 9th–13th c.** (Khajuraho). Eastern Ganga **c. 11th–15th c.** (Konark, Puri). Hoysala **c. 11th–14th c.** (Belur **1117**, Halebidu). Solanki / Chaulukya **c. 10th–13th c.** (Modhera **1026**).
 
 ---
 
@@ -125,22 +127,28 @@
 
 ---
 
-## 5. UNESCO Tangible World Heritage Sites in India (42 Total Sites)
+## 5. UNESCO Tangible World Heritage Sites in India (45 Total Sites)
 
-*India currently has 42 UNESCO World Heritage Sites: **34 Cultural, 7 Natural, and 1 Mixed**.*
+*India currently has **45** UNESCO World Heritage Sites (count after **Sarnath, July 2026**).*
 
 - **The Sole Mixed Heritage Site**: **Khangchendzonga National Park** (Sikkim, inscribed 2016).
-- **Latest Cultural Inscriptions (High Frequency in Current Exams)**:
-  - **#42: Sacred Ensembles of the Hoysalas** (Karnataka - Belur, Halebidu, and Somnathpura, inscribed **2023**).
-  - **#41: Santiniketan** (Birbhum, West Bengal - founded by Rabindranath Tagore, inscribed **2023**).
-  - **#40: Dholavira: A Harappan City** (Kutch, Gujarat, inscribed **2021**).
-  - **#39: Kakatiya Rudreshwara (Ramappa) Temple** (Palampet, Mulugu, Telangana - sandbox foundation technique, floating bricks, inscribed **2021**).
-- **Uttar Pradesh Tangible WHS (3 Sites)**:
-  1. **Taj Mahal** (Agra - inscribed 1983)
-  2. **Agra Fort** (Agra - inscribed 1983)
-  3. **Fatehpur Sikri** (Agra - inscribed 1986).
-- **Uttarakhand Tangible WHS (2 Sites / 1 Combined Serial)**:
-  - **Nanda Devi and Valley of Flowers National Parks** (Chamoli, inscribed 1988, expanded 2005 - Natural WHS).
+- **Latest Cultural Inscriptions**:
+  - **#45: Ancient Buddhist Site of Sarnath (UP)** — inscribed **July 2026** (48th WHC, Busan). Serial = **Chaukhandi Stupa** + archaeological remains (Dhamek, Ashokan pillar zone). **UP’s 4th cultural WHS.**
+  - **#44: Maratha Military Landscapes** (inscribed **2025**).
+  - **#43: Moidams – Mound-Burial System of the Ahom Dynasty** (Charaideo, Assam, **2024**).
+  - **#42: Sacred Ensembles of the Hoysalas** (Karnataka — Belur, Halebidu, Somnathpura, **2023**).
+  - **#41: Santiniketan** (Birbhum, West Bengal, **2023**).
+  - **#40: Dholavira: A Harappan City** (Kutch, Gujarat, **2021**).
+  - **#39: Kakatiya Rudreshwara (Ramappa) Temple** (Palampet, Telangana, **2021**).
+- **Uttar Pradesh Tangible WHS (4 Sites)**:
+  1. **Taj Mahal** (Agra — 1983)
+  2. **Agra Fort** (Agra — 1983)
+  3. **Fatehpur Sikri** (Agra — 1986)
+  4. **Sarnath** (Varanasi district — **2026**).
+- **Uttarakhand Tangible WHS (1 serial Natural)**:
+  - **Nanda Devi and Valley of Flowers National Parks** (Chamoli, inscribed 1988, expanded 2005).
+
+> **Logic:** Do not still quote “42 sites” or “3 UP WHS” after Sarnath **2026**. ICH **Deepavali** (10 Dec **2025**) is India’s **16th** intangible element — not a monument WHS.
 
 ---
 
@@ -166,3 +174,24 @@
 | | **Uttarakhand Aipan Art** | Handicraft | Kumaon (ritual floor and wall art on red ochre) |
 | | **Uttarakhand Bichhu Buti (Nettle Fabric)**| Textile | Chamoli (natural Himalayan stinging nettle fiber) |
 | | **Jhangora (Barnyard Millet) & Manduwa**| Agriculture | Hill districts of Uttarakhand |
+
+## 7. Folk Paintings — State Map (UP / UK must not go missing)
+
+| Painting | State | High-yield |
+|---|---|---|
+| **Sanjhi** | **Uttar Pradesh** (Mathura–Vrindavan / Braj) | Stencilled **paper-cutting** on Yamuna ghats; Krishna & Pitru Paksha; **GI**. Not Kalighat. |
+| **Aipan** | **Uttarakhand** (Kumaon) | White rice-paste geometry on red ochre floors and walls; also a GI craft |
+| **Madhubani / Mithila** | **Bihar** | Bright double-line wall/paper; Kohbar; **GI**. **Not UP**. |
+| **Warli** | **Maharashtra** | White-on-red tribal; Palaghata. **Not UP**. |
+| **Pattachitra** | **Odisha** (also a Bengal cloth stream) | Cloth / palm-leaf; Jagannath themes |
+| **Phad** | **Rajasthan** | Scroll of Pabuji / Devnarayan |
+| **Gond** | **Madhya Pradesh** | Forest *bada dev*; inner-line dots |
+| **Kalamkari** | **Andhra Pradesh** | Pen (*kalam*) + block; two centres Srikalahasti & Machilipatnam |
+| **Pithora** | Gujarat / MP border Bhil | Ritual horse paintings |
+| **Kalighat** | **West Bengal** (Kolkata) | Bazaar pats; not Sanjhi |
+| **Phulkari** | **Punjab** | Bagh / embroidered cloth (often listed with painting-craft stems) |
+| **Mandana** | **Rajasthan** | Floor-wall ochre geometry — do not swap with Aipan |
+
+> **Logic:** **Sanjhi = Braj UP**. **Aipan = Uttarakhand**. **Madhubani = Bihar**. Never dump all three into one state.
+
+---

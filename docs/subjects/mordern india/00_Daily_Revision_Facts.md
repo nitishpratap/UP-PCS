@@ -17,8 +17,8 @@
 | **Danes (Danish)** | **1616** | **Tranquebar** (Tamil Nadu, 1620) | **Serampore** (Bengal, 1676 - famous Baptist Mission press) | Sold all Indian settlements to the British in **1845** |
 | **French** | **1664** (Colbert / Louis XIV) | **Surat** (1668 - Francois Caron) | **Pondicherry** (1674 - founded by Francois Martin), Chandernagore (Bengal) | Decisively defeated at **Battle of Wandiwash (1760)** by Sir Eyre Coote |
 
-> **Chronological Order of Arrival:** Portuguese (1498) $\to$ Dutch (1605) $\to$ English (1608) $\to$ Danes (1616) $\to$ French (1664).  
-> **Chronological Order of Companies Established:** Portuguese *Estado da India* (1498) $\to$ English EIC (1600) $\to$ Dutch VOC (1602) $\to$ Danish (1616) $\to$ French (1664).
+> **Chronological Order of Arrival:** Portuguese (1498) → Dutch (1605) → English (1608) → Danes (1616) → French (1664).  
+> **Chronological Order of Companies Established:** Portuguese *Estado da India* (1498) → English EIC (1600) → Dutch VOC (1602) → Danish (1616) → French (1664).
 
 ---
 
@@ -41,6 +41,17 @@
 | **1816** | **Treaty of Sagauli** | Lord Hastings and King of Nepal (Gurkhas) | **UKPCS TOP PRIORITY!** Concluded **Anglo-Nepal War (1814–16)**; Nepal ceded **Garhwal and Kumaon** to British; British resident posted at Kathmandu; boundary along Kali River |
 | **1826** | **Treaty of Yandabo** | Lord Amherst and King of Ava (Burma) | Concluded **First Anglo-Burmese War (1824–26)**; Burma ceded Assam, Manipur, Arakan, and Tenasserim |
 | **1846** | **Treaty of Lahore** | Lord Hardinge I and minor Maharaja Duleep Singh | Concluded **First Anglo-Sikh War (1845–46)**; Jalandhar Doab ceded; Kashmir sold to Gulab Singh under **Treaty of Amritsar (1846)** |
+
+### 2A. Anglo wars — From / To (do not stop at the first year)
+
+| War | Period (from–to) | GG / Company side | Last fight / treaty | Result |
+|---|---|---|---|---|
+| **Carnatic Wars** | **1746–1763** (three wars) | Dupleix vs English (Clive at Arcot 1751) | **Paris 1763** after Wandiwash **1760** (Eyre Coote) | French political power in India broken; Pondicherry restored but unfortified |
+| **Anglo-Mysore** | **1767–1799** (four wars) | Haidar → **Tipu** | **Fourth war 1799**; Tipu dies at Seringapatam; Wellesley | Mysore under Wodeyar + Subsidiary Alliance |
+| **Anglo-Maratha** | **1775–1818** (three wars) | Hastings → Wellesley → Hastings (Moira) | **Third 1817–18**; Peshwaship abolished | Maratha confederacy ends; Bajirao II pensioned at Bithur |
+| **Anglo-Nepal (Gurkha)** | **1814–1816** | **Lord Hastings** | **Treaty of Sagauli 1816** | Nepal cedes **Garhwal and Kumaon**; Kali River boundary; resident at Kathmandu |
+| **Anglo-Burma** | **1824–26**; 1852; 1885 | Amherst → Dalhousie → Dufferin | **Yandabo 1826**; Third war annexes Upper Burma | Assam, Manipur, Arakan, Tenasserim in the first war |
+| **Anglo-Sikh** | **1845–1849** (two wars) | Hardinge I → Dalhousie | **Second war 1848–49**; Punjab annexed **1849** | Lahore 1846; Kashmir sold to Gulab Singh (Amritsar 1846) |
 
 ---
 
@@ -70,7 +81,7 @@
   - Established District Thanas headed by Daroga; known as **"Father of Civil Services and Police in India"**.
   - Died at Ghazipur (Uttar Pradesh) in 1805 during second tenure; his **tomb is located at Ghazipur (UP)**.
 - **Lord Wellesley (1798–1805)**:
-  - Expanded empire via **Subsidiary Alliance System** (*Order of states: Hyderabad 1798 $\to$ Mysore 1799 $\to$ Tanjore 1799 $\to$ Awadh 1801 $\to$ Peshwa Baji Rao II 1802 $\to$ Bhonsle 1803 $\to$ Scindia 1804*).
+  - Expanded empire via **Subsidiary Alliance System** (*Order of states: Hyderabad 1798 → Mysore 1799 → Tanjore 1799 → Awadh 1801 → Peshwa Baji Rao II 1802 → Bhonsle 1803 → Scindia 1804*).
   - Defeated Tipu Sultan in **Fourth Anglo-Mysore War (1799)**.
   - Founded **Fort William College (1800)** at Calcutta to train British civil servants in Indian languages.
   - Called himself the **"Bengal Tiger"**.
@@ -83,7 +94,7 @@
   - Suppression of **Thuggee (1830)** led by **Colonel William Sleeman**.
   - **Macaulay’s Minute (1835)**: Made English the official medium of higher education in India (*Filtration Theory*).
 - **Lord Dalhousie (1848–1856)**:
-  - **Doctrine of Lapse** (*Satara 1848 $\to$ Jaitpur & Sambalpur 1849 $\to$ Baghat 1850 $\to$ Udaipur 1852 $\to$ Jhansi 1853 $\to$ Nagpur 1854*).
+  - **Doctrine of Lapse** (*Satara 1848 → Jaitpur & Sambalpur 1849 → Baghat 1850 → Udaipur 1852 → Jhansi 1853 → Nagpur 1854*).
   - Annexed **Awadh in 1856** on grounds of "maladministration" based on **James Outram's report** (Nawab Wajid Ali Shah exiled).
   - **First Railway line (1853)**: Bombay to Thane (34 km).
   - **First Telegraph line (1853)**: Calcutta to Agra.
@@ -101,7 +112,7 @@
   - Lowered the maximum age limit for ICS examination from **21 to 19 years**.
 - **Lord Ripon (1880–1884)** (*The Good Viceroy*):
   - Repealed the infamous **Vernacular Press Act (1882)**.
-  - **Local Self-Government Resolution (1882)** $\to$ **"Father of Local Self-Government in India"**.
+  - **Local Self-Government Resolution (1882)** → **"Father of Local Self-Government in India"**.
   - **First Regular Census of India (1881)** (conducted under Census Commissioner W.W. Plowden).
   - **First Factory Act (1881)** (restricted child labour below 7 years).
   - Appointed **Hunter Commission on Education (1882)**.
@@ -111,6 +122,31 @@
   - **Ancient Monuments Preservation Act (1904)**; established Archaeological Survey of India (ASI) under Sir John Marshall.
   - **Indian Universities Act (1904)** (based on Thomas Raleigh Commission 1902).
   - Formed **Police Commission (1902)** under Sir Andrew Fraser.
+
+### 4A. Remaining Governor-Generals / Viceroys — Tenure (from–to)
+
+| Office-holder | Period (from–to) | High-yield |
+|---|---|---|
+| **Lord Auckland** | **1836–1842** | First Afghan War; **Tripartite Treaty 1838** |
+| **Lord Ellenborough** | **1842–1844** | Ended Afghan War; annexed **Sindh 1843** (Napier) |
+| **Lord Hardinge I** | **1844–1848** | First Anglo-Sikh War **1845–46** |
+| **Lord Lawrence** | **1864–1869** | “Master of the Punjab”; Odisha famine / Campbell Commission |
+| **Lord Mayo** | **1869–1872** | First Census **1872**; Mayo College; murdered at Port Blair |
+| **Lord Lytton** | **1876–1880** | (see bullets above) |
+| **Lord Dufferin** | **1884–1888** | INC founded **1885**; Third Burma War **1885** |
+| **Lord Lansdowne** | **1888–1894** | Age of Consent Act **1891**; Durand Line **1893** |
+| **Lord Elgin II** | **1894–1899** | Lyall Famine Commission |
+| **Lord Minto II** | **1905–1910** | **Morley–Minto / Indian Councils Act 1909**; separate electorates |
+| **Lord Hardinge II** | **1910–1916** | Delhi capital **1911**; bomb on Chandni Chowk procession (Ras Behari Bose) |
+| **Lord Chelmsford** | **1916–1921** | Lucknow Pact era; **GOI Act 1919**; Jallianwala **1919**; NCM starts |
+| **Lord Reading** | **1921–1926** | Chauri Chaura aftermath; Kakori **1925**; Lee Commission |
+| **Lord Irwin** | **1926–1931** | Simon Commission; Dandi; **Gandhi–Irwin Pact 5 Mar 1931** |
+| **Lord Willingdon** | **1931–1936** | Second RTC fallout; Communal Award **1932**; Poona Pact |
+| **Lord Linlithgow** | **1936–1944** (*longest Viceroy*) | GOI Act 1935 in force; **1937** ministries; WWII declaration; August Offer; Cripps; **Quit India 1942** |
+| **Lord Wavell** | **1944–1947** | Wavell Plan / Simla **1945**; Cabinet Mission; Interim Government |
+| **Lord Mountbatten** | **Mar–Aug 1947** (GG of India till **Jun 1948**) | **3 June Plan**; last Viceroy; first GG of independent India |
+
+> **Logic:** First GG of **Bengal** = Warren Hastings **1773**. First GG of **India** = Bentinck **1833**. First **Viceroy** = Canning **1858**. Last Viceroy = Mountbatten.
 
 ---
 
@@ -137,7 +173,7 @@
   1. **Mansfield Commission (1886)**: Examined silver depreciation.
   2. **Fowler Committee (1898)**: Recommended gold standard for India.
   3. **Babington Smith Committee (1919)**: Post-WWI currency exchange.
-  4. **Hilton Young Commission (1926)**: Royal Commission on Indian Currency and Finance; **recommended the establishment of a Central Bank $\to$ Reserve Bank of India (RBI Act 1934, set up 1 April 1935)**!
+  4. **Hilton Young Commission (1926)**: Royal Commission on Indian Currency and Finance; **recommended the establishment of a Central Bank → Reserve Bank of India (RBI Act 1934, set up 1 April 1935)**!
 - **Civil Services Commissions**:
   1. **Aitchison Commission (1886)**: Lord Dufferin; categorized services into Imperial, Provincial, and Subordinate.
   2. **Islington Commission (1912)**: Recommended 25% of superior posts to Indians.
@@ -162,14 +198,16 @@
 | **Assam** | **Maniram Dewan** & Piyali Barua | - | Wanted to restore Ahom prince Kandarpeshwar Singha; hanged |
 | **Kumaon / Champawat (Uttarakhand)** | **Kalu Singh Mahara** | British commissioners | Formed secret rebel group **Krantiveer**; acknowledged as **First Freedom Fighter of Uttarakhand** |
 
+> **UK freedom (from–to, not founder-year only):** Gorkha rule in Kumaon **1790–1815** and Garhwal to **1804/1815** → British after **Sagauli 1816**. **Coolie-Begar** abolished **13–14 Jan 1921** at **Bageshwar** (Uttarayani; registers flung into the **Saryu**); led by **Badridatt Pandey** (*Kumaon Kesari*), Hargovind Pant, Chiranji Lal. Gandhi called it a bloodless revolution. Badridatt met Gandhi at **Calcutta, Dec 1918** on begar (not Kausani). Gandhi stayed at **Kausani (1929)** to write *Anasakti Yoga*.
+
 ---
 
 ## 7. Revolutionary Organizations & Conspiracy Cases (Direct Match Goldmine)
 
 | Organization / Party | Year & Place Founded | Founders / Key Leaders | Landmark Conspiracies / Activities |
 |---|---|---|---|
-| **Mitra Mela $\to$ Abhinav Bharat** | 1899 $\to$ **1904**, Nasik (Maharashtra) | **Vinayak Damodar Savarkar** & Ganesh Savarkar | Secret society modelled on Young Italy; Anant Laxman Kanhere assassinated Collector **A.M.T. Jackson** in **Nasik Conspiracy Case (1909)** |
-| **Anushilan Samiti** | **1902**, Calcutta & Dhaka | **Pramathanath Mitra (P. Mitra)**, Satish Chandra Basu, Barindra Ghosh, Bhupendranath Dutta | Secret revolutionary body; journal *Yugantar*; Khudiram Bose & Prafulla Chaki threw bomb at Kingsford carriage in **Muzaffarpur (1908)** $\to$ **Alipore Bomb Case (1908)**; Aurobindo Ghosh defended by C.R. Das |
+| **Mitra Mela → Abhinav Bharat** | 1899 → **1904**, Nasik (Maharashtra) | **Vinayak Damodar Savarkar** & Ganesh Savarkar | Secret society modelled on Young Italy; Anant Laxman Kanhere assassinated Collector **A.M.T. Jackson** in **Nasik Conspiracy Case (1909)** |
+| **Anushilan Samiti** | **1902**, Calcutta & Dhaka | **Pramathanath Mitra (P. Mitra)**, Satish Chandra Basu, Barindra Ghosh, Bhupendranath Dutta | Secret revolutionary body; journal *Yugantar*; Khudiram Bose & Prafulla Chaki threw bomb at Kingsford carriage in **Muzaffarpur (1908)** → **Alipore Bomb Case (1908)**; Aurobindo Ghosh defended by C.R. Das |
 | **Indian Home Rule Society / India House** | **1905**, London | **Shyamji Krishna Varma** | Centre for Indian students in London; journal *The Indian Sociologist*; **Madan Lal Dhingra** assassinated **Curzon Wyllie** at Imperial Institute (1909) |
 | **Paris Indian Society** | 1905, Paris | **Madam Bhikaji Cama**, S.R. Rana, Munchershah Burjorji Godrej | Unfurled **First Indian National Flag (Tricolour)** at the International Socialist Congress in **Stuttgart (Germany) in 1907** |
 | **Ghadar Party** | **1913**, San Francisco (USA) | **Lala Har Dayal**, **Sohan Singh Bhakna** (President), Kartar Singh Sarabha, Bhai Parmanand | Originally *Pacific Coast Hindustan Association*; weekly paper *Ghadar*; Komagata Maru incident; attempted armed revolt in India during WWI |
@@ -178,6 +216,24 @@
 | **Hindustan Socialist Republican Association (HSRA)** | **1928 (Sep)**, Feroz Shah Kotla (Delhi) | **Chandrashekhar Azad**, **Bhagat Singh**, Sukhdev Thapar, Bhagwati Charan Vohra (wrote *Philosophy of the Bomb*) | Adopted Socialism; assassinated **J.P. Saunders** on 17 Dec 1928; Bhagat Singh & Batukeshwar Dutt threw bombs in **Central Legislative Assembly (8 April 1929)**; **Lahore Conspiracy Case**; Chandrashekhar Azad martyred at Alfred Park, Allahabad (27 Feb 1931) |
 | **Naujawan Bharat Sabha** | **1926**, Lahore | **Bhagat Singh**, Chhabil Das, Yashpal | Open mass youth front propagating anti-communalism and socialist revolution |
 | **Indian Republican Army (Chittagong)** | **1930 (Apr)**, Chittagong (Bengal) | **Surya Sen ("Master Da")**, Ambika Chakrabarty, Ganesh Ghosh, Lokenath Bal, **Pritilata Waddedar**, **Kalpana Datta** | **Chittagong Armoury Raid (18 April 1930)**; proclaimed Provisional Revolutionary Government; Pritilata attacked Pahartali European Club; Surya Sen hanged in 1934 |
+
+> **Till when (do not leave as founded-year only):** Abhinav Bharat peaks with Nasik **1909** then is smashed. Ghadar’s armed try is **WWI / 1915**, then it fades as a party. **HRA 1924 → HSRA 1928** (same stream, new name). Chittagong group ends with Surya Sen’s hanging **1934**. HSRA’s open run ends with Azad’s death at Alfred Park, Allahabad (**27 Feb 1931**) and the Lahore hangings (**23 Mar 1931**).
+
+### 7A. Social-religious organisations — Founded / split / till
+
+| Body | Founded | Founder | Till / split / high-yield |
+|---|---|---|---|
+| **Brahmo Sabha → Brahmo Samaj** | **1828**, Calcutta | **Raja Rammohan Roy** | After Roy: **Adi Brahmo** (Debendranath Tagore) vs **Sadharan Brahmo Samaj 1878** (Keshab / Ananda Mohan Bose stream). Still a living samaj, not a “ended 1833” trap. |
+| **Young Bengal** | **1820s–30s** | **Henry Vivian Derozio** | Short-lived radical students of Hindu College; Derozio dismissed **1831** |
+| **Prarthana Samaj** | **1867**, Bombay | Atmaram Pandurang; later **M.G. Ranade**, R.G. Bhandarkar | Western-India cousin of Brahmo; did not become Arya Samaj |
+| **Satyashodhak Samaj** | **1873**, Pune | **Jyotirao Phule** | Anti-caste; *Gulamgiri* **1873**. Savitribai on girls’ schools |
+| **Arya Samaj** | **10 Apr 1875**, Bombay (Lahore **1877**) | **Dayananda Saraswati** | *Satyarth Prakash* **1875**; “Back to the Vedas”. Split **1893**: Gurukul (Munshi Ram / Shraddhanand) vs College (Lala Hansraj / Lajpat Rai) |
+| **Theosophical Society** | **1875** New York; **Adyar 1882** | Blavatsky & Olcott; in India **Annie Besant** | HQ **Adyar (Madras)**; Besant’s Home Rule **1916** |
+| **Aligarh Movement / MAO College** | **1875** college; AMU **1920** | **Sir Syed Ahmad Khan** | *Tahzib-ul-Akhlaq*; United Patriotic Association. College **1875–1920**, then AMU |
+| **Ramakrishna Mission** | **1897** | **Swami Vivekananda** | After Chicago **1893**; Belur Math. Still active |
+| **Servants of India Society** | **1905**, Pune | **Gopal Krishna Gokhale** | Train public workers; **not** a revolutionary secret society |
+| **Muslim League** | **30 Dec 1906**, Dacca | Nawab Salimullah; later Jinnah | **1906–1947** as the League of British India; Lahore Resolution **1940** |
+| **Hindu Mahasabha** | **1915** (all-India form) | Madan Mohan Malaviya / others | Separate from INC; Savarkar later president |
 
 ---
 
@@ -250,7 +306,7 @@
 
 *Memorize this unbroken chain — tests 2 to 4 questions in EVERY UPPSC / UKPCS Prelims paper!*
 
-1. **1905 (16 Oct)**: **Partition of Bengal** comes into effect $\to$ Swadeshi Movement peaks.
+1. **1905 (16 Oct)**: **Partition of Bengal** comes into effect → Swadeshi Movement peaks.
 2. **1906 (30 Dec)**: **All-India Muslim League** founded at Dacca by Nawab Salimullah & Aga Khan.
 3. **1907 (Dec)**: **Surat Split** between Moderates and Extremists.
 4. **1908**: Khudiram Bose hanged (Muzaffarpur conspiracy); Tilak sentenced to 6 years at Mandalay.
@@ -266,19 +322,19 @@
 14. **1919 (13 Apr)**: **Jallianwala Bagh Massacre** (Amritsar, General Dyer firing; Tagore renounces Knighthood).
 15. **1919 (Dec)**: **Montagu-Chelmsford Reforms (GOI Act 1919)** introduces Dyarchy in Provinces.
 16. **1920 (1 Aug)**: **Non-Cooperation Movement launched**; Bal Gangadhar Tilak passes away.
-17. **1922 (4 Feb)**: **Chauri Chaura Incident** (Gorakhpur, UP; 22 policemen burnt alive in police station) $\to$ Gandhi calls off NCM on **12 Feb 1922** at Bardoli.
+17. **1922 (4 Feb)**: **Chauri Chaura Incident** (Gorakhpur, UP; 22 policemen burnt alive in police station) → Gandhi calls off NCM on **12 Feb 1922** at Bardoli.
 18. **1923 (1 Jan)**: **Swaraj Party** formed by **Chitta Ranjan Das** (President) and **Motilal Nehru** (Secretary).
 19. **1924 (Oct)**: **Hindustan Republican Association (HRA)** formed at Kanpur by Sachindra Sanyal, Ram Prasad Bismil, and Jogesh Chatterjee.
 20. **1925 (9 Aug)**: **Kakori Train Action** (Kakori near Lucknow; 8-Down train looted; Bismil, Ashfaqulla Khan, Roshan Singh, Rajendra Lahiri hanged).
-21. **1927 (Nov)**: **Simon Commission appointed** (All-white, 7 MPs; arrived in Bombay in **Feb 1928** $\to$ "Simon Go Back").
+21. **1927 (Nov)**: **Simon Commission appointed** (All-white, 7 MPs; arrived in Bombay in **Feb 1928** → "Simon Go Back").
 22. **1928 (Aug)**: **Nehru Report** (Chaired by Motilal Nehru; demanded Dominion Status, rejected separate electorates).
 23. **1928 (Sep)**: **HSRA** (Hindustan Socialist Republican Association) founded at Feroz Shah Kotla, Delhi under **Chandrashekhar Azad** & **Bhagat Singh**.
 24. **1928 (17 Dec)**: Saunders assassinated at Lahore to avenge the death of Lala Lajpat Rai.
 25. **1929 (8 Apr)**: **Central Legislative Assembly Bombing** by Bhagat Singh and Batukeshwar Dutt ("To make the deaf hear").
 26. **1929 (13 Sep)**: **Jatin Das dies** after 63-day hunger strike in Lahore Central Jail.
-27. **1929 (Dec)**: **Lahore Congress Session** $\to$ Purna Swaraj adopted.
+27. **1929 (Dec)**: **Lahore Congress Session** → Purna Swaraj adopted.
 28. **1930 (26 Jan)**: First Independence Day celebrated nationwide.
-29. **1930 (12 Mar – 6 Apr)**: **Dandi March** (Sabarmati to Dandi, 241 miles, 78 followers; broken salt law on 6 April) $\to$ **Civil Disobedience Movement (CDM)** begins.
+29. **1930 (12 Mar – 6 Apr)**: **Dandi March** (Sabarmati to Dandi, 241 miles, 78 followers; broken salt law on 6 April) → **Civil Disobedience Movement (CDM)** begins.
 30. **1930 (Nov) – 1931 (Jan)**: **First Round Table Conference** (London; Congress boycotted).
 31. **1931 (5 Mar)**: **Gandhi-Irwin Pact** (Delhi Pact; suspension of CDM, Congress agreed to attend 2nd RTC).
 32. **1931 (23 Mar)**: **Bhagat Singh, Sukhdev, and Rajguru executed** at Lahore Central Jail.
@@ -288,7 +344,7 @@
 36. **1932 (Nov – Dec)**: **Third Round Table Conference** (Congress boycotted).
 37. **1935 (Aug)**: **Government of India Act 1935** (Abolished Provincial Dyarchy, introduced Provincial Autonomy; All-India Federation proposed).
 38. **1937 (Feb)**: Provincial Elections held; Congress formed ministries in 8 provinces.
-39. **1939 (22 Oct)**: Congress ministries **resign en masse** in protest against Viceroy Linlithgow declaring India at war without consent $\to$ Muslim League celebrates **"Day of Deliverance"** on **22 Dec 1939**.
+39. **1939 (22 Oct)**: Congress ministries **resign en masse** in protest against Viceroy Linlithgow declaring India at war without consent → Muslim League celebrates **"Day of Deliverance"** on **22 Dec 1939**.
 40. **1940 (Mar)**: **Lahore Resolution** of Muslim League (demanding independent Muslim states).
 41. **1940 (8 Aug)**: **August Offer** by Viceroy Linlithgow (Dominion status post-war, veto to minorities; rejected).
 42. **1940 (Oct)**: **Individual Satyagraha** launched (*Delhi Chalo* Satyagraha; **1st: Vinoba Bhave, 2nd: Jawaharlal Nehru, 3rd: Brahma Dutt**).

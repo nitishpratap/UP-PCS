@@ -72,11 +72,11 @@
 
 ### A. The Panch Prayag of Uttarakhand (Order along Alaknanda River)
 *Memorize downstream order from source towards plains:*
-1. **Vishnuprayag**: **Alaknanda** $+$ **Dhauliganga** (Chamoli)
-2. **Nandaprayag**: **Alaknanda** $+$ **Nandakini** (Chamoli)
-3. **Karnaprayag**: **Alaknanda** $+$ **Pindar** (Chamoli)
-4. **Rudraprayag**: **Alaknanda** $+$ **Mandakini** (Rudraprayag)
-5. **Devprayag**: **Alaknanda** $+$ **Bhagirathi** $\to$ Official **GANGA** begins here! (Tehri Garhwal)
+1. **Vishnuprayag**: **Alaknanda** + **Dhauliganga** (Chamoli)
+2. **Nandaprayag**: **Alaknanda** + **Nandakini** (Chamoli)
+3. **Karnaprayag**: **Alaknanda** + **Pindar** (Chamoli)
+4. **Rudraprayag**: **Alaknanda** + **Mandakini** (Rudraprayag)
+5. **Devprayag**: **Alaknanda** + **Bhagirathi** → Official **GANGA** begins here! (Tehri Garhwal)
 
 ### B. Ganga River Tributaries (Left vs Right Bank)
 - **Left Bank Tributaries (West to East)**:
@@ -212,3 +212,26 @@
 | **Literacy Rate (Overall)** | **73.0%** (Male: 80.9%, Female: 64.6%; Gap: 16.3%) | **67.7%** (Male: 77.3%, Female: 57.2%; Gap: 20.1%)  <br>• Highest: **Gautam Buddha Nagar** (80.1%)  <br>• Lowest: **Shravasti** (46.7%) | **78.82%** (Male: 87.4%, Female: 70.0%; Gap: 17.4%)  <br>• Highest: **Dehradun** (84.25%)  <br>• Lowest: **Haridwar** (73.43%) |
 | **SC Population %** | **16.6%** (Highest %: Punjab 31.9%; Highest No.: UP) | **20.7%** of state pop (Highest No.: Sitapur; Highest %: Kaushambi 34.7%; Lowest: Baghpat) | **18.8%** of state pop (Highest %: Bageshwar; Lowest %: Dehradun) |
 | **ST Population %** | **8.6%** (Highest %: Lakshadweep/Mizoram; Highest No.: MP; Nil in Punjab, Haryana) | **0.6%** of state pop (Highest No. & %: **Sonbhadra**; Lowest: Baghpat; Tharu is largest tribe) | **2.9%** of state pop (Highest %: **Udham Singh Nagar**; Tharu & Jaunsari are largest) |
+
+## 9. Minerals of Uttar Pradesh & Uttarakhand (state-site map)
+
+National mineral belts stay in the Minerals chapter. Daily sheet needs the **UP / UK places** that otherwise vanish (same gap as Hulas on the Indus table).
+
+| Mineral / resource | Uttar Pradesh | Uttarakhand | Trap |
+|---|---|---|---|
+| **Limestone / cement** | **Sonbhadra** (Churk, Dalla, Ghurma); also Banda–Mirzapur belt | **Dehradun**, Tehri, Pithoragarh, Pauri belts | Do not give Rajasthan’s Makrana marble as a UP fact |
+| **Coal** | **Singrauli coalfield** (Sonbhadra; shared with MP) | Negligible | Jharia / Raniganj are **Jharkhand–WB**, not UP |
+| **Silica sand / glass** | **Shankargarh (Prayagraj)**, Banda; feeds **Firozabad** glass | — | Firozabad = glass craft; sand is Prayagraj belt |
+| **Bauxite** | **Banda, Vindhyan** pockets (small) | — | Big bauxite = Odisha / Gujarat, not UP |
+| **Andalusite / sillimanite** | **Sonbhadra / Mirzapur** (refractory) | — | |
+| **Magnesite** | — | **Jhiroli / Bageshwar** (Kumaon) — India’s important magnesite belt | Magnesite ≠ magnesium metal plant trap |
+| **Gypsum** | — | **Dehradun / Nainital** foothill pockets | Rajasthan remains India’s gypsum giant |
+| **Steatite / soapstone** | — | **Almora / Pithoragarh** (also used in local craft) | |
+| **Copper (old)** | — | **Askot (Pithoragarh)** — historic Kumaon copper | Khetri copper is **Rajasthan** |
+| **Rock phosphate** | — | **Mussoorie / Durmala–Maldeota** (Dehradun) | |
+| **Building stone / granite** | Mirzapur–Sonbhadra; Lalitpur | Granite–quartzite of Lesser Himalaya | |
+| **Energy water** | **Rihand / Govind Ballabh Pant Sagar** (Sonbhadra) — largest man-made lake by volume | **Tehri** (Bhagirathi–Bhilangana) — highest dam | Hydel ≠ mineral ore |
+
+> **Logic:** **Sonbhadra** is UP’s mineral hub (coal + limestone + refractories). **Bageshwar magnesite** and **Askot copper** are the UK pair. Do not park Rajasthan or Jharkhand fields in these two states.
+
+---
