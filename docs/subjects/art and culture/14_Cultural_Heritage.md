@@ -61,7 +61,7 @@ D. A and D only
 6. **Varanasi (वाराणसी) ghats** (वाराणसी घाट) remain on the **Tentative** List only. Do not count them as a fifth UP World Heritage Site.
 7. Recent India inscriptions: **Moidams** (Assam, **2024**), **Maratha Military Landscapes** (**2025**), and **Sarnath** (**2026**). Earlier pairs include Santiniketan and Hoysala (**2023**) and Dholavira (धोलावीरा) and Ramappa (रामप्पा) (**2021**).
 8. India has **16** UNESCO ICH elements. Early Masterpiece proclamations were **Kutiyattam 2001**, **Vedic chanting 2003**, and **Ramlila (रामलीला) 2005**; all three entered the Representative List (प्रतिनिधि) in **2008**.
-9. Recent inscriptions on the UNESCO ICH list include: **Yoga (योग) (2016)**, **Kumbh (कुंभ) Mela (कुंभ मेला) (2017)**, **Durga (दुर्ग -) Puja (दुर्गा पूजा) of Kolkata (2021)**, **Garba (गरबा) of Gujarat (2023)**, and **Deepavali (2025)**.
+9. Recent inscriptions on the UNESCO ICH list include: **Yoga (योग) (2016)**, **Kumbh (कुंभ) Mela (कुंभ मेला) (2017)**, **Durga (दुर्गा) Puja of Kolkata (2021)**, **Garba (गरबा) of Gujarat (2023)**, and **Deepavali (2025)**.
 10. These are **not** named UNESCO ICH elements: **Bharatanatyam** (भरतनाट्यम्), **Kathak** (कथक), **Nautanki** (नौटंकी), and **Holi** (होली) as a standalone Indian element.
 11. **World Heritage Day** (18 अप्रैल) (International Day for Monuments and Sites) is celebrated on **18 April** under ICOMOS; the UNESCO Intangible Cultural Heritage Convention was adopted (अंगीकृत) on **17 October 2003** (ratified by India in **2005**).
 12. Cultural WHS (सांस्कृतिक) use criteria **i–vi**. Natural WHS (प्राकृतिक) use **vii–x**. Mixed sites need both sets. India has only one mixed site: Khangchendzonga.

@@ -127,7 +127,7 @@ Gupta sculpture of the fourth to sixth centuries is classical spiritual idealism
 - Gupta faces look calm. Eyes are half-closed. The body is balanced, not the heavy Kushan type.
 - The robe is a **transparent sanghati**. Cloth clings, but the body still shows. That is the Gupta hallmark.
 - A halo and a lotus seat become normal.
-- The quintessential **Sarnath Buddha** is seated in the **dharmachakra pravartana mudra**, commemorating the Buddha's First Sermon (धर्मचक्रप्रवर्तन -) in the Deer Park.
+- The quintessential **Sarnath Buddha** is seated in the **dharmachakra pravartana mudra**, commemorating the Buddha's First Sermon (धर्मचक्रप्रवर्तन) in the Deer Park.
 - The stone is pale sandstone, not Mathura’s red spotted type.
 - Sarnath already holds the Mauryan **Lion Capital**. The Gupta Buddha stands on the same campus, centuries later.
 - Mathura workshops still work in Gupta times. The “ideal Buddha” is still the Sarnath type.
